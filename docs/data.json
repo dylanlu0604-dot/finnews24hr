@@ -1,7 +1,153 @@
 {
-  "updated": "2026-06-23 01:37:01",
-  "count": 17264,
+  "updated": "2026-06-23 01:41:10",
+  "count": 17277,
   "items": [
+    {
+      "id": "4948826",
+      "time": "2026-06-23 01:39:51",
+      "tags": [
+        "其他"
+      ],
+      "text": "萬斯：技術討論方面持續取得進展。"
+    },
+    {
+      "id": "mkt:019ef06a-9cb7-7dd8-b0c3-5dcb0e309ed0",
+      "time": "2026-06-23 01:39:39",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bearish",
+        "DXY",
+        "XAUUSD"
+      ],
+      "text": "US Vice President Vance said Iran has allowed inspectors to enter; this is the first such access in some time."
+    },
+    {
+      "id": "mkt:019ef06a-4e57-7dd8-b0c3-555cf4d4070b",
+      "time": "2026-06-23 01:39:19",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. Vice President Vance said technical talks are continuing to make progress."
+    },
+    {
+      "id": "mkt:019ef06a-4282-7dd8-b0c3-4f7fbb229e27",
+      "time": "2026-06-23 01:39:16",
+      "tags": [
+        "MKT News",
+        "S&P500",
+        "Impact bullish",
+        "WTI",
+        "Impact bearish",
+        "XAUUSD"
+      ],
+      "text": "U.S. Vice President Vance said he was satisfied with the ceasefire."
+    },
+    {
+      "id": "4948824",
+      "time": "2026-06-23 01:39:13",
+      "tags": [
+        "國際"
+      ],
+      "text": "萬斯：若無談判進展，伊朗凍結資產不予解凍。"
+    },
+    {
+      "id": "mkt:019ef06a-0543-7dd8-b0c3-43ba74351cec",
+      "time": "2026-06-23 01:39:00",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. Vice President Vance said inspectors must be allowed into Iranian nuclear facilities."
+    },
+    {
+      "id": "4948823",
+      "time": "2026-06-23 01:38:53",
+      "tags": [
+        "其他"
+      ],
+      "text": "萬斯談及停火協議：對此前景持樂觀態度。"
+    },
+    {
+      "id": "mkt:019ef069-cee2-7dd8-b0c3-3cee31d1568b",
+      "time": "2026-06-23 01:38:46",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Brent"
+      ],
+      "text": "U.S. Vice President Vance said he saw about 15 mln barrels of oil flow out of the Strait of Hormuz."
+    },
+    {
+      "id": "4948822",
+      "time": "2026-06-23 01:38:20",
+      "tags": [
+        "其他"
+      ],
+      "text": "萬斯：將建立機制確保霍爾木茲海峽保持開放。"
+    },
+    {
+      "id": "mkt:019ef069-5500-7dd8-b0c3-36b910271e75",
+      "time": "2026-06-23 01:38:15",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "U.S. Vice President Vance said he is very satisfied with progress on Iran and that a mechanism will be set up to keep the Strait of Hormuz open."
+    },
+    {
+      "id": "4948821",
+      "time": "2026-06-23 01:38:05",
+      "tags": [
+        "國際"
+      ],
+      "text": "兩名歐洲官員表示，塔利班代表團已獲得比利時簽發的單日簽證，該簽證僅在6月23日星期二有效。"
+    },
+    {
+      "id": "4948820",
+      "time": "2026-06-23 01:37:54",
+      "tags": [
+        "國際"
+      ],
+      "text": "萬斯：伊朗首次允許國際原子能機構檢查人員入境。"
+    },
+    {
+      "id": "4948819",
+      "time": "2026-06-23 01:37:31",
+      "tags": [
+        "國際"
+      ],
+      "text": "萬斯談伊朗談判：我們必須繼續努力。"
+    },
+    {
+      "id": "4948818",
+      "time": "2026-06-23 01:37:23",
+      "tags": [
+        "其他"
+      ],
+      "text": "萬斯：繼續推進技術討論。"
+    },
+    {
+      "id": "4948817",
+      "time": "2026-06-23 01:37:01",
+      "tags": [
+        "其他"
+      ],
+      "text": "萬斯：監測到約1500萬桶原油經霍爾木茲海峽外運。"
+    },
+    {
+      "id": "4948816",
+      "time": "2026-06-23 01:36:36",
+      "tags": [
+        "國際"
+      ],
+      "text": "萬斯談伊朗談判：對我們取得的進展感到非常自豪。"
+    },
     {
       "id": "mkt:019ef065-092f-7dd8-b0c3-2f92659cfd17",
       "time": "2026-06-23 01:33:33",
@@ -158565,36 +158711,6 @@
         "國際"
       ],
       "text": "惠譽評級：（關於美國與伊朗的潛在協議）即使協議簽署，海灣地區的中期前景仍然具有不確定性。認為伊朗的核計劃及核能力仍將是其與美國和以色列關係中的緊張根源。如果協議使霍爾木茲海峽完全開放，預計全球石油市場將在約一個月內恢復到供應過剩。"
-    },
-    {
-      "id": "mkt:019ecc5e-82a8-7dd8-b014-b70c53bad780",
-      "time": "2026-06-16 01:40:06",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "Fitch expects that if an agreement fully reopens the Strait of Hormuz, the global oil market would return to a supply surplus within about a month."
-    },
-    {
-      "id": "mkt:019ecc5d-f5b2-7dd8-b014-ab6f8d9f2991",
-      "time": "2026-06-16 01:39:30",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Regarding a potential US–Iran agreement, Fitch says Iran's nuclear program and capabilities will remain a source of tension in its relations with the US and Israel."
-    },
-    {
-      "id": "mkt:019ecc5d-830f-7dd8-b014-a53349923def",
-      "time": "2026-06-16 01:39:00",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Fitch: On a potential US-Iran agreement, even if signed the medium-term outlook for the Gulf region remains uncertain."
     }
   ]
 }
