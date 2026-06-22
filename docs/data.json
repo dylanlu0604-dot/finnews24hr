@@ -1,7 +1,182 @@
 {
-  "updated": "2026-06-23 00:39:17",
-  "count": 17258,
+  "updated": "2026-06-23 00:59:37",
+  "count": 17260,
   "items": [
+    {
+      "id": "mkt:019ef044-873b-7dd8-b0c2-ad3f8172d37a",
+      "time": "2026-06-23 00:58:03",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "U.S. will release 500,000 barrels of crude from the Strategic Petroleum Reserve to Vitol."
+    },
+    {
+      "id": "4948787",
+      "time": "2026-06-23 00:57:36",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "美國將從戰略石油儲備庫（SPR）向維多公司（VITOL）釋放50萬桶原油。"
+    },
+    {
+      "id": "mkt:019ef040-9efe-7dd8-b0c2-a4e75dabbc2a",
+      "time": "2026-06-23 00:53:47",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "Brent"
+      ],
+      "text": "Israeli Prime Minister Netanyahu said the military has \"full freedom of action\" in southern Lebanon to prevent threats."
+    },
+    {
+      "id": "mkt:019ef03e-a0f6-7dd8-b0c2-9e1c86c2520a",
+      "time": "2026-06-23 00:51:36",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Brent"
+      ],
+      "text": "Tasnim News Agency, citing insiders, said the United States appears to be circulating messages to divert attention from decisions to grant tax exemptions on sales of oil and its derivatives."
+    },
+    {
+      "id": "4948783",
+      "time": "2026-06-23 00:51:22",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "以色列總理表態，軍隊在黎巴嫩南部擁有充分行動許可權，以抵禦各類威脅。"
+    },
+    {
+      "id": "4948782",
+      "time": "2026-06-23 00:51:01",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗知情人士：動用凍結資金採購糧食一事並不屬實】伊朗談判相關訊息人士表示，所謂伊朗動用凍結資金購買糧食的說法是假訊息，相關共識檔案中也從未提及該內容。該知情人士透露，美方放出此類言論主要是出於其國內政治考量，否則動用120億美元資金採購糧食完全不合邏輯。其指出，美方刻意散佈該訊息，意在掩蓋美方批准伊朗石油及石油衍生品免稅出口這一訊息。"
+    },
+    {
+      "id": "4948781",
+      "time": "2026-06-23 00:50:18",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗塔斯尼姆通訊社援引知情人士訊息：有關動用凍結資金採購糧食的說法不實。"
+    },
+    {
+      "id": "mkt:019ef03d-1523-7dd8-b0c2-90542bb5600a",
+      "time": "2026-06-23 00:49:55",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "TASNIM NEWS, citing informed sources, said reports that frozen funds would be used to buy food were unfounded."
+    },
+    {
+      "id": "mkt:019ef03a-3e53-7dd8-b0c2-89430f82f6b7",
+      "time": "2026-06-23 00:46:49",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "KATZ said the Israel Defense Forces will remain deployed in the Lebanon security zone to protect northern settlements, eliminate threats and destroy militant infrastructure above and below ground."
+    },
+    {
+      "id": "mkt:019ef039-e3e3-7dd8-b0c2-86a0b68fa0a6",
+      "time": "2026-06-23 00:46:26",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "Israeli defense minister KATZ said IDF commanders and troops have full backing from the prime minister, him and military leadership, and possess broad operational freedom to strike decisively at any threats in southern Lebanon, the Gaza Strip or elsewhere to defend Israel."
+    },
+    {
+      "id": "mkt:019ef039-8673-7dd8-b0c2-7ff121f5b30b",
+      "time": "2026-06-23 00:46:02",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Israeli defense minister KATZ said the security of Israeli civilians and of Israel's military takes precedence over all other considerations."
+    },
+    {
+      "id": "mkt:019ef039-5145-7dd8-b0c2-748f3ba29293",
+      "time": "2026-06-23 00:45:48",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "ERDOGAN said Turkey must be wary of actors attempting to sabotage negotiations."
+    },
+    {
+      "id": "mkt:019ef039-13fe-7dd8-b0c2-6d1164e061bc",
+      "time": "2026-06-23 00:45:32",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Erdogan told Iranian President Pezeshkian that Turkey welcomes the agreement reached between Iran and the United States."
+    },
+    {
+      "id": "4948780",
+      "time": "2026-06-23 00:45:11",
+      "tags": [
+        "國際"
+      ],
+      "text": "土耳其埃爾多安辦公室宣告：土耳其總統埃爾多安告知伊朗總統，必須對試圖破壞談判的勢力保持警惕。"
+    },
+    {
+      "id": "4948779",
+      "time": "2026-06-23 00:44:51",
+      "tags": [
+        "國際"
+      ],
+      "text": "土耳其埃爾多安辦公室宣告：埃爾多安告知伊朗總，土耳其對伊朗與美國達成的協議表示歡迎。"
+    },
+    {
+      "id": "4948778",
+      "time": "2026-06-23 00:43:54",
+      "tags": [
+        "其他"
+      ],
+      "text": "艾伯維股價漲超7%，為2020年11月以來最大單日漲幅。"
+    },
+    {
+      "id": "mkt:019ef035-4039-7dd8-b0c2-663041c60e38",
+      "time": "2026-06-23 00:41:22",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Market sources: a U.S. judge has quashed DOJ subpoenas issued to several Minnesota officials in an immigration probe."
+    },
+    {
+      "id": "mkt:019ef035-0092-7dd8-b0c2-5de6e522ba69",
+      "time": "2026-06-23 00:41:05",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "【Canada plans nationwide build-out of large nuclear reactors to meet energy demand】Canada on Monday unveiled a strategy to accelerate construction of large nuclear reactors nationwide to boost generation and leverage its abundant high-grade uranium deposits. The plan targets 10 new large reactors, with at least two to begin construction before 2035. Officials said they will speed regulatory approvals and introduce a financing framework by early next year aimed at attracting pension fund and sovereign wealth capital to finance the expansion."
+    },
+    {
+      "id": "4948777",
+      "time": "2026-06-23 00:39:23",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國法官撤銷司法部移民調查中對明尼蘇達州多名官員的傳票。"
+    },
     {
       "id": "4948776",
       "time": "2026-06-23 00:35:53",
@@ -158414,180 +158589,6 @@
         "國際"
       ],
       "text": "歐盟外交與安全政策高階代表卡拉斯： 烏克蘭與摩爾多瓦今日邁出加入歐盟的決定性一步。開啟入盟談判首批章節是一座重要里程碑。兩國在極其艱難的環境下完成了多項艱鉅改革。兩國若成功入盟，歐洲將更加強大。"
-    },
-    {
-      "id": "4936990",
-      "time": "2026-06-16 00:55:19",
-      "tags": [
-        "其他"
-      ],
-      "text": "【數字貨幣市場走高，以太幣、Solana、XRP至少漲超10%】最近24小時，MarketVectorTM數字資產100小盤指數漲5.40%，暫報2467.01點。MarketVectorTM數字資產100中盤指數漲6.92%，報2816.17點，整體持續走高。MarketVector數字資產100指數漲6.20%，報13387.23點。目前，Solana漲11.82%，狗狗幣漲4.32%，XRP漲13.08%。比特幣漲5.22%，暫報67078.75美元；以太坊漲10.52%，暫報1840.07美元。"
-    },
-    {
-      "id": "4936988",
-      "time": "2026-06-16 00:53:02",
-      "tags": [
-        "其他"
-      ],
-      "text": "LME期銅收漲47美元，報13745美元/噸。LME期鋁收跌156美元，報3380美元/噸。LME期鋅收漲6美元，報3590美元/噸。"
-    },
-    {
-      "id": "mkt:019ecc32-d090-7dd8-b014-0903c3907e00",
-      "time": "2026-06-16 00:52:22",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Alphabet",
-        "Market Themes",
-        "Magnificent 7",
-        "GOOGL.O",
-        "Impact bullish"
-      ],
-      "text": "Google announced it will invest $1.5 billion in Alabama, US, in 2026 and 2027."
-    },
-    {
-      "id": "4936987",
-      "time": "2026-06-16 00:49:53",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "谷歌加強在美國阿拉巴馬州的存在，2026-27年將投資15億美元。"
-    },
-    {
-      "id": "mkt:019ecc30-4f80-7dd8-b014-02b25c600bec",
-      "time": "2026-06-16 00:49:38",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "N12 reports Israeli Prime Minister Netanyahu will hold a press conference at 2:00 p.m. EDT (02:00 Beijing time today)."
-    },
-    {
-      "id": "te:markets:559101",
-      "time": "2026-06-16 00:46:49",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Stock Market",
-        "Importance 2"
-      ],
-      "text": "US Stocks Extend Rise on US-Iran Deal — US equities rose further on Monday after the US and Iran said they agreed to a deal that ends their war and restores energy exports from the Middle East. The Dow gained 700 points to a new record, while the S&P 500 gained 2% and the Nasdaq rose 3%. The deal was set to be signed on Friday, with reports indicating it includes Iran cleaning the Strait of Hormuz from mines and naval blockades being lifted for all exports from the Persian Gulf. Energy prices and bond yields fell, improving macroeconomic conditions and boosting risk demand in the heavyweight tech sector. Oracle and Meta surged 4% while Nvidia and Amazon gained 3%. Meanwhile, SpaceX was 10% higher following its 20% surge on its IPO day last session after CEO Musk signaled it may have $1 trillion in revenue in 2031. Chip producers continued to rally on more cash being raised by AI developers and the influx of orders that translates for AI infrastructure companies. In turn, Fox sank 15% after buying Roku for $22 billion."
-    },
-    {
-      "id": "4936986",
-      "time": "2026-06-16 00:43:54",
-      "tags": [
-        "國際"
-      ],
-      "text": "以色列 N12 電視臺訊息：內塔尼亞胡將於美國東部時間下午 2 點召開新聞釋出會。"
-    },
-    {
-      "id": "mkt:019ecc2b-0a00-7dd8-b013-fb30d2f5f7ca",
-      "time": "2026-06-16 00:43:53",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Amazon",
-        "Market Themes",
-        "Magnificent 7",
-        "AMZN.O",
-        "Impact bullish"
-      ],
-      "text": "Amazon (AMZN.O): Project expected to create more than 400 full-time data-center jobs and thousands of construction jobs."
-    },
-    {
-      "id": "te:economy:559100",
-      "time": "2026-06-16 00:43:22",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "United States",
-        "Government Bond 10Y",
-        "Importance 1"
-      ],
-      "text": "US 10-Year Yield Holds Pullback — The yield on the 10-year US Treasury note held losses at the 4.46% level on Monday as the US and Iran agreed to a deal that softened inflationary risks in the US and global economy. President Trump and Iranian authorities stated that concessions for an memorandum of understanding were agreed and will be signed on Friday, with reports indicating that energy exports through the Strait of Hormuz will be restored. Pro-inflationary risks dropped as oil and fuel prices retreated further. The Federal Reserve is due hold its rates unchanged on Wednesday following the FOMC's first meeting with Chairman Kevin Warsh, set to give signals on potential overhauls to the current monetary framework that he has criticized. Rate traders continued to slightly favor one rate hike by the central bank this year. Meanwhile, the BoJ is due to raise rates this week, as done by the ECB this month, although the BoE, SNB, Riksbank, and RBA are set to hold rates unchanged."
-    },
-    {
-      "id": "4936985",
-      "time": "2026-06-16 00:43:19",
-      "tags": [
-        "公司"
-      ],
-      "text": "亞馬遜：該專案預計創造 400 餘個資料中心全職崗位，以及數千個建築施工崗位。"
-    },
-    {
-      "id": "mkt:019ecc2a-3820-7dd8-b013-f47b56cbd6b4",
-      "time": "2026-06-16 00:42:59",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Amazon",
-        "Market Themes",
-        "Magnificent 7",
-        "AMZN.O"
-      ],
-      "text": "Amazon (AMZN.O) partners with Arable Labs to boost irrigation efficiency for farmers in northeast Missouri."
-    },
-    {
-      "id": "mkt:019ecc29-d340-7dd8-b013-eb3c6cf88d4b",
-      "time": "2026-06-16 00:42:33",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Amazon",
-        "Market Themes",
-        "Magnificent 7",
-        "AMZN.O",
-        "Impact bullish"
-      ],
-      "text": "Amazon (AMZN.O) will make multiple immediate investment commitments in Montgomery County, Missouri, as part of its Missouri data-center investment plan."
-    },
-    {
-      "id": "4936984",
-      "time": "2026-06-16 00:42:21",
-      "tags": [
-        "公司"
-      ],
-      "text": "亞馬遜與Arable實驗室合作，提升密蘇里州東北部農民的灌溉效率。"
-    },
-    {
-      "id": "4936983",
-      "time": "2026-06-16 00:41:55",
-      "tags": [
-        "公司"
-      ],
-      "text": "亞馬遜：該專案預計每年可在當地流域減少 1 億加侖用水量。"
-    },
-    {
-      "id": "4936982",
-      "time": "2026-06-16 00:41:15",
-      "tags": [
-        "公司"
-      ],
-      "text": "亞馬遜：作為密蘇里州資料中心投資計劃的一部分，將向蒙哥馬利縣作出多項即時落地的投資承諾。"
-    },
-    {
-      "id": "mkt:019ecc27-570c-7dd8-b013-e5279ead3973",
-      "time": "2026-06-16 00:39:50",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Amazon",
-        "Market Themes",
-        "Magnificent 7",
-        "AMZN.O",
-        "Impact bullish"
-      ],
-      "text": "Amazon (AMZN.O) plans to invest several billion dollars in Missouri, US."
-    },
-    {
-      "id": "4936981",
-      "time": "2026-06-16 00:39:47",
-      "tags": [
-        "公司"
-      ],
-      "text": "亞馬遜：計劃在密蘇里州投資數十億美元。"
     }
   ]
 }
