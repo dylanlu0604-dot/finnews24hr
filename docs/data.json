@@ -1,7 +1,129 @@
 {
-  "updated": "2026-06-22 14:16:56",
-  "count": 17276,
+  "updated": "2026-06-22 14:24:01",
+  "count": 17273,
   "items": [
+    {
+      "id": "mkt:019eedfc-bb9d-7dd8-b0b2-24513a14d843",
+      "time": "2026-06-22 14:20:23",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Korea Exchange CEO expects policymakers will implement regulatory improvements for leveraged ETFs if necessary."
+    },
+    {
+      "id": "mkt:019eedfc-b5c4-7dd8-b0b2-1f61e0077a6d",
+      "time": "2026-06-22 14:20:22",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Australia's S&P/ASX 200 closed down 7.10 points (-0.08%) at 8,821.60 on Monday, June 22."
+    },
+    {
+      "id": "mkt:019eedfc-2ab2-7dd8-b0b2-14f7fd1e0f48",
+      "time": "2026-06-22 14:19:46",
+      "tags": [
+        "MKT News",
+        "USDJPY",
+        "Impact bullish"
+      ],
+      "text": "【Mitsubishi UFJ: Intervention can only抑制 speculative yen weakness】Mitsubishi UFJ Morgan Stanley Securities strategist Daisaku Ueno said FX intervention can only curb speculative yen weakness and is unlikely to permanently stop yen selling while the US–Japan real policy rate gap persists. He called the selling pressure structural, driven by Japanese corporate and household investment decisions and real demand. Japan's finance minister Katayama said the government is prepared to take appropriate FX market action if necessary."
+    },
+    {
+      "id": "4947431",
+      "time": "2026-06-22 14:19:41",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗隊在洛杉磯更衣室留下感謝信】當地時間6月21日，伊朗國家足球隊在美國洛杉磯索菲體育場結束了本屆世界盃的第二場小組賽，以0:0逼平歐洲勁旅比利時隊。比賽結束後，他們再次被要求立即離開美國，返回其位於墨西哥的駐地蒂華納。伊朗隊臨行前，在球場的更衣室內留下了一張便條，感謝洛杉磯，並稱他們為榮譽而戰，有尊嚴地離開。他們寫道：“從數千年前的波斯，到今日的伊朗，伊朗的精神始終鮮活而堅定。”他們還感謝伊朗隊的支持者在兩場比賽中為球隊傾注“心血、聲音和靈魂”，並希望和平、尊重與友誼在所有國家之間長存。由於在美國停留的限制，伊朗隊在整個世界盃賽事期間駐紮在墨西哥蒂華納，往返美國參加比賽，同時多名伊朗隊工作人員和足協官員被禁止入境。當地時間6月26日，伊朗隊將在美國西雅圖迎戰小組賽的最後一個對手埃及。（CCTV國際時訊）"
+    },
+    {
+      "id": "mkt:019eedfb-b8ee-7dd8-b0b2-0bbaa0859eba",
+      "time": "2026-06-22 14:19:17",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "On China’s A-share market the liquid-cooled server sector rose amid volatility; Dayuan Pump hit the daily limit, Binglun Environment had earlier been locked at the limit, and Chuanrun, Yongtai Technology and Yingweike also advanced."
+    },
+    {
+      "id": "4947430",
+      "time": "2026-06-22 14:19:13",
+      "tags": [
+        "公司"
+      ],
+      "text": "【國盛證券：首予科大智慧“買入”評級，自研SST、佈局上游SiC的全鏈條玩家】國盛證券研報指出，科大智慧自研SST、佈局上游SiC的全鏈條玩家。公司既具備一次裝置（一二次融合斷路器、環網櫃等）的製造能力，又掌握二次裝置（FTU、DTU、智慧融合終端等）的控制與通訊技術。在SST及AIDC供配電領域，公司正透過“內生研發+外延併購+上游參股”三位一體模式進行系統性佈局。在傳統主業板塊，公司深度受益於電網智慧化升級的行業景氣週期。公司深耕智慧配用電領域，收購源光電氣補齊出海能力，並參股格靈諾半導體卡位高壓SiC，佈局SST及AIDC供配電系統，有望受益於AI算力建設帶來的SST放量，預計公司2026/2027/2028年歸母淨利潤為2.1/3.8/6.0億元，對應2026/2027/2028年PE分別為53/29/18倍。首次覆蓋給與“買入”評級。"
+    },
+    {
+      "id": "4947429",
+      "time": "2026-06-22 14:18:55",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "韓國交易所執行長：若有必要，預計政策制定者將針對槓桿交易型開放式指數基金（ETF）完善監管規則。"
+    },
+    {
+      "id": "te:economy:560665",
+      "time": "2026-06-22 14:18:54",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Denmark",
+        "Consumer Confidence",
+        "Importance 1"
+      ],
+      "text": "Danish Consumer Morale Improves to 3-Month High — Denmark’s consumer confidence rose to -14.0 in June 2026 from -19.8 in May, reaching its highest level since March. Consumers were less pessimistic about the overall economy, both regarding the current situation (-21.8 vs -35.9) and expectations for the next 12 months (-18.7 vs -26.7). Households’ assessments of their own finances also strengthened, for both the past year (-10.1 vs -13.6) and the year ahead (-5.3 vs -9.5). However, sentiment toward making major purchases deteriorated slightly (-13.9 vs -13.2). Among indicators outside the headline index, price expectations eased for both the present (37.2 vs 44.0) and the next 12 months (29.9 vs 40.8), while concerns about unemployment over the coming year also moderated (17.8 vs 22.2)."
+    },
+    {
+      "id": "4947428",
+      "time": "2026-06-22 14:18:32",
+      "tags": [
+        "其他"
+      ],
+      "text": "【飛豬618成交額創新高，履約成交額增長43%】6月21日24時，面向暑期旅遊旺季的“飛豬618”大促正式結束。飛豬資料顯示，“618”活動商品成交額創新高，活動商品累計銷量接近700萬件。因為靠近端午假期和暑期，今年“飛豬618”的核銷進度明顯加快，截至6月21日24時，已出行或入住的活動商品成交額同比增長43%。"
+    },
+    {
+      "id": "4947427",
+      "time": "2026-06-22 14:17:36",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【液冷伺服器板塊震盪拉昇，大元泵業漲停】液冷伺服器板塊震盪拉昇，大元泵業漲停，冰輪環境此前封板，川潤股份、永太科技、英維克跟漲。訊息面上，四部門《促進人工智慧與能源雙向賦能行動方案》已落地，明確新建大型AI智算中心須100%配套液冷，2028年前完成高功耗風冷機房改造，未達標者將受限用電審批並上調電價。東數西算樞紐要求PUE≤1.2，風冷機房普遍PUE為1.3–1.4無法達標，液冷可將PUE壓至1.1以內，已成為專案立項硬性門檻。多地配套採購補貼，推動IDC與雲廠商加速替換，冷板式液冷國家標準下半年實施，行業規模化條件成熟，三年高增邏輯確立。"
+    },
+    {
+      "id": "4947426",
+      "time": "2026-06-22 14:17:10",
+      "tags": [
+        "其他"
+      ],
+      "text": "明晟中國指數抹平 1.6% 跌幅，現小幅震盪持平。"
+    },
+    {
+      "id": "4947425",
+      "time": "2026-06-22 14:17:10",
+      "tags": [
+        "公司"
+      ],
+      "text": "【長江儲存旗下武漢資本投資管理公司增資至8.1億 增幅約169%】天眼查App顯示，近日，長存資本（武漢）投資管理有限公司發生工商變更，註冊資本由3億人民幣增至約8.1億人民幣，增幅約169%。該公司成立於2022年11月，法定代表人為施文廣，經營範圍包括自有資金投資的資產管理服務、以自有資金從事投資活動、企業管理、融資諮詢服務等，由長江儲存控股股份有限公司全資持股。"
+    },
+    {
+      "id": "mkt:019eedf9-16bb-7dd8-b0b2-05f9f9bbfe7b",
+      "time": "2026-06-22 14:16:24",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Sinopec chairman Hou Qijun meets SABIC CEO Fakir】June 18 — Sinopec Chairman Hou Qijun met with SABIC Chief Executive Officer Fakir at Sinopec headquarters; the two exchanged views on chemical joint ventures, refining and petrochemical engineering services, and green low‑carbon transition development."
+    },
+    {
+      "id": "4947424",
+      "time": "2026-06-22 14:16:17",
+      "tags": [
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "【黃金或將再次面臨嚴峻考驗 美聯儲青睞的通脹指標本週釋出】將於週四公佈的核心PCE資料可能顯示，美聯儲最青睞的通脹指標在5月份環比和同比均有所加速。如果真是如此，這將進一步佐證有關政策制定者需要收緊政策的觀點，而這可能會推高美元和美國國債收益率。對黃金而言，這將是一個不利環境。黃金近期表現不振，已連續三週下跌。在即將結束的本季度，現貨價格已下跌約10%勢將創下近十年來最差表現。"
+    },
     {
       "id": "4947423",
       "time": "2026-06-22 14:15:58",
@@ -21,6 +143,15 @@
         "000660.KS"
       ],
       "text": "【TrendForce: Consumer DRAM tightness spreads to DDR2; contract prices to climb into Q3】TrendForce's latest research says structural supply tightening in mature-node DRAM is forcing consumer DRAM buyers to shift to older-generation chips to secure allocations, triggering a fresh wave of legacy consumer DRAM procurement. That dynamic is expected to extend the Q1 2026 price rally for DDR2 and DDR3. TrendForce forecasts DDR2 contract prices to rise about 55–60 pct in Q2 2026 and a further 35–40 pct in Q3 2026."
+    },
+    {
+      "id": "em:qqyh_mlc:202606223777922147",
+      "time": "2026-06-22 14:15:47",
+      "tags": [
+        "央行",
+        "美聯儲"
+      ],
+      "text": "【黃金或將再次面臨嚴峻考驗 美聯儲青睞的通脹指標本週釋出】將於週四公佈的核心PCE資料可能顯示，美聯儲最青睞的通脹指標在5月份環比和同比均有所加速。如果真是如此，這將進一步佐證有關政策制定者需要收緊政策的觀點，而這可能會推高美元和美國國債收益率。對黃金而言，這將是一個不利環境。黃金近期表現不振，已連續三週下跌。在即將結束的本季度，現貨價格已下跌約10%，勢將創下近十年來最差表現。"
     },
     {
       "id": "4947422",
@@ -158727,160 +158858,6 @@
         "Brent"
       ],
       "text": "IMO secretary-general welcomed the peace agreement reached among parties in the Strait of Hormuz conflict."
-    },
-    {
-      "id": "4935673",
-      "time": "2026-06-15 14:23:29",
-      "tags": [
-        "國際"
-      ],
-      "text": "日本久光製藥部分產品調價，最高漲幅達28%。"
-    },
-    {
-      "id": "4935672",
-      "time": "2026-06-15 14:22:57",
-      "tags": [
-        "公司"
-      ],
-      "text": "【三棵樹增資至約8.9億 增幅20%】天眼查App顯示，近日，三棵樹（603737）發生工商變更，註冊資本由約7.4億人民幣增至約8.9億人民幣，增幅20%。該公司成立於2003年7月，法定代表人為洪傑，經營範圍包括塗料的製造、危險化學品生產、質檢技術服務等，由洪傑、香港中央結算有限公司、全國社保基金四一三組合等共同持股。"
-    },
-    {
-      "id": "4935671",
-      "time": "2026-06-15 14:22:57",
-      "tags": [
-        "市場"
-      ],
-      "text": "澳大利亞標普/澳證200指數收盤上漲1.3%，報8914.0點。"
-    },
-    {
-      "id": "4935670",
-      "time": "2026-06-15 14:22:31",
-      "tags": [
-        "觀點"
-      ],
-      "text": "摩根士丹利將法拉利目標股價從388美元上調至438美元。"
-    },
-    {
-      "id": "4935669",
-      "time": "2026-06-15 14:22:17",
-      "tags": [
-        "國際"
-      ],
-      "text": "【報道：俄羅斯已授權煉油廠下調汽油環保標準，以緩解燃料短缺問題】據《生意人報》週一報道，受國內燃油短缺問題困擾，俄羅斯政府已批准部分煉油廠生產環保標準更低的汽油和柴油，供應本土市場。資料顯示，俄羅斯約十二個地區已透過媒體及社交媒體曝出燃油短缺問題。俄羅斯副總理亞歷山大・諾瓦克上週要求相關部門研判燃油市場走勢，防範燃油配送及國內需求保障出現問題。"
-    },
-    {
-      "id": "mkt:019ec9f1-cbe5-7dd8-b000-d36832fd2e36",
-      "time": "2026-06-15 14:22:07",
-      "tags": [
-        "MKT News",
-        "RACE.O",
-        "Impact bullish"
-      ],
-      "text": "Morgan Stanley raised its PT on Ferrari to $438 from $388."
-    },
-    {
-      "id": "4935667",
-      "time": "2026-06-15 14:21:28",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "德國漢莎航空公司股價在法蘭克福早盤交易中上漲5%。"
-    },
-    {
-      "id": "mkt:019ec9f1-1fa4-7dd8-b000-c927d588d6d4",
-      "time": "2026-06-15 14:21:22",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Australia's S&P/ASX 200 closed up 113.50 points (+1.29%) at 8,917.50 on Monday, June 15."
-    },
-    {
-      "id": "4935666",
-      "time": "2026-06-15 14:21:06",
-      "tags": [
-        "國際"
-      ],
-      "text": "法國外長：俄羅斯昨夜對烏克蘭發動的攻擊，彰顯了俄羅斯行徑之“殘忍”。"
-    },
-    {
-      "id": "4935665",
-      "time": "2026-06-15 14:20:45",
-      "tags": [
-        "其他"
-      ],
-      "text": "【東信和平大容量國產芯eUICC產品獲GSMA eSA認證】近日，東信和平自主研發的兩款大容量國產芯eUICC產品雙雙透過GSMA eSA認證。該系列產品同時滿足SGP.22（消費電子）與SGP.32（物聯網）兩大國際標準，並支援MEP多啟用配置檔案功能，可實現“一卡多號”及多場景無縫切換。"
-    },
-    {
-      "id": "4935664",
-      "time": "2026-06-15 14:20:23",
-      "tags": [
-        "公司",
-        "熱點2"
-      ],
-      "text": "【昆工科技等投資成立新能源科技公司】企查查APP顯示，近日，廣東煌嘉新能源科技有限公司成立，經營範圍包含：蓄電池租賃；電池銷售；電池製造；碳減排、碳轉化、碳捕捉、碳封存技術研發等。企查查股權穿透顯示，該公司由昆工科技等共同持股。"
-    },
-    {
-      "id": "4935663",
-      "time": "2026-06-15 14:19:44",
-      "tags": [
-        "其他"
-      ],
-      "text": "【交通運輸部發布6月8日—6月14日全國物流保通保暢執行情況】6月8日—6月14日，全國物流保通保暢執行資料：國家鐵路運輸貨物8111.2萬噸，環比增長1.31%； 全國高速公路貨車通行5501.3萬輛，環比增長1.22%；監測港口完成貨物吞吐量26621萬噸，環比增長2.9%，完成集裝箱吞吐量668.4萬標箱，環比下降0.64%；民航保障航班11.1萬班（其中貨運航班5258班，包括國際貨運航班3403班，國內貨運航班1855班），環比增長4.14%；郵政快遞攬收量約41.27億件，環比下降4.56%；投遞量約41.65億件，環比下降2.85%。"
-    },
-    {
-      "id": "mkt:019ec9ef-4adf-7dd8-b000-c629a28e7abb",
-      "time": "2026-06-15 14:19:23",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Pakistan welcomes US-Iran memorandum of understanding】On June 15 local time Pakistan Deputy Prime Minister and Foreign Minister Dar welcomed a memorandum of understanding between the US and Iran, calling it a major breakthrough that reflects sustained diplomatic engagement and a preference for dialogue over confrontation. Dar said Pakistan will continue to engage with all parties, urge restraint and constructive interaction, and is willing to support efforts to consolidate progress as negotiations on outstanding issues continue."
-    },
-    {
-      "id": "4935662",
-      "time": "2026-06-15 14:18:59",
-      "tags": [
-        "公司",
-        "觀點",
-        "國際"
-      ],
-      "text": "【開源證券：維持安克創新“買入”評級，看好陽臺儲能歐洲市場增長】開源證券研報指出，安克創新在政策等因素驅動下年初以來德國/荷蘭/比利時等國陽臺儲能以及澳大利亞戶儲市場持續放量，伴隨後續英國/瑞士等放開陽臺儲能政策，看好陽臺儲能歐洲市場增長，同時看好核心地區有光無儲家庭配儲率提升帶動住宅側儲能增長。公司陽臺儲能產品和渠道優勢明顯，戶用儲能渠道在澳洲地區已有所突破，同時針對有光無儲家庭推出AC儲能，有望帶動儲能業務整體增長。維持盈利預測，預計2026-2028年歸母淨利潤30.48/38.25/46.05億元，對應EPS為5.69/7.13/8.59元，當前股價對應PE為19.7/15.7/13.0倍，維持“買入”評級。"
-    },
-    {
-      "id": "4935661",
-      "time": "2026-06-15 14:18:49",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普在採訪中稱，美國最終會與伊朗展開合作，對伊朗現有的全部 12 噸濃縮核燃料進行提取、降濃並運離伊朗。"
-    },
-    {
-      "id": "4935660",
-      "time": "2026-06-15 14:18:38",
-      "tags": [
-        "其他"
-      ],
-      "text": "【海關釋出：1500個大力神杯闖關失敗】近日，阿拉山口海關在對一票出口的百貨開展查驗時，查獲涉嫌侵犯著作權的塑膠擺件共計1500個。目前，已依法對該批貨物進行扣留。（海關釋出）"
-    },
-    {
-      "id": "4935659",
-      "time": "2026-06-15 14:18:18",
-      "tags": [
-        "國際"
-      ],
-      "text": "【巴基斯坦歡迎美伊達成諒解備忘錄】當地時間6月15日，巴基斯坦副總理兼外交部長達爾在社交媒體發文，歡迎美國與伊朗達成諒解備忘錄。達爾說，這一重大突破體現了持續外交接觸的力量，以及友好國家共同選擇對話而非對抗的堅定決心。達爾說，巴基斯坦始終積極同所有相關方保持接觸，並一貫倡導保持克制和開展建設性互動，堅持認為對話與外交仍是解決所有問題的唯一可行途徑。達爾說，隨著有關未決事項的談判繼續推進，巴基斯坦願繼續支援一切旨在鞏固這一積極進展的努力。（央視新聞）"
-    },
-    {
-      "id": "te:economy:558924",
-      "time": "2026-06-15 14:18:15",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Saudi Arabia",
-        "Inflation Rate",
-        "Importance 1"
-      ],
-      "text": "Saudi May Inflation Ticks Up to 1.8% — The annual inflation rate in Saudi Arabia edged up to 1.8% in May 2026 from 1.7% in the previous month, matching market expectations. Costs increased in food and beverages (0.7% vs 0.6% in April), transportation (1.5% vs 1%), recreation and culture (2.6% vs 1.8%), and restaurants and hotels (1.7% vs 1%). In addition, deflation slowed in clothing and footwear (-0.1% vs -0.3%), while price growth remained steady in tobacco (at 0.4%) and education (at 1.4%). On the other hand, costs moderated in housing utilities (3.7% vs 3.8%), health (0.2% vs 0.4%), information and communication (0.6% vs 1.3%), insurance and financial services (2.2% vs 2.3%), and miscellaneous goods and services (5.6% vs 6.3%). On a monthly basis, consumer prices rose by 0.2% in May, unchanged from the preceding period and matching market expectations."
     }
   ]
 }
