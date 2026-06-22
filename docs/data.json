@@ -1,7 +1,56 @@
 {
-  "updated": "2026-06-23 01:04:02",
+  "updated": "2026-06-23 01:08:06",
   "count": 17263,
   "items": [
+    {
+      "id": "mkt:019ef04c-f2c7-7dd8-b0c2-d17be9c023b8",
+      "time": "2026-06-23 01:07:15",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Iranian President Pezeshkian said that as negotiations between Tehran and Washington proceed under a recently signed memorandum of understanding, Iran will not give in to excessive demands nor tolerate suppression of its people’s rights."
+    },
+    {
+      "id": "mkt:019ef04c-8c0e-7dd8-b0c2-c973ca4df8c4",
+      "time": "2026-06-23 01:06:48",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "At least two police officers were shot in Montreal, Canada."
+    },
+    {
+      "id": "4948799",
+      "time": "2026-06-23 01:06:01",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國將一家總部位於敘利亞的比特幣交易所列入制裁清單。"
+    },
+    {
+      "id": "mkt:019ef04a-8d54-7dd8-b0c2-c31f17a7f82d",
+      "time": "2026-06-23 01:04:38",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "OpenAI launched Patch the Planet, part of its Daybreak initiative, to support open-source software maintainers."
+    },
+    {
+      "id": "4948797",
+      "time": "2026-06-23 01:04:34",
+      "tags": [
+        "其他"
+      ],
+      "text": "OpenAI：Trail of Bits已調動其整個安全研究團隊投入“修補地球”（Patch the Planet）專案的首輪攻堅行動。"
+    },
+    {
+      "id": "4948795",
+      "time": "2026-06-23 01:03:16",
+      "tags": [
+        "其他"
+      ],
+      "text": "OpenAI：推出“修補地球”計劃，這是一項旨在支援開源維護者的黎明倡議。"
+    },
     {
       "id": "4948792",
       "time": "2026-06-23 01:01:46",
@@ -158556,65 +158605,6 @@
         "MKT News"
       ],
       "text": "A US official said it will soon be clear whether the consensus reached with Iran can be converted into an agreement that would change the regional situation."
-    },
-    {
-      "id": "mkt:019ecc3f-8e90-7dd8-b014-2f217de1d029",
-      "time": "2026-06-16 01:06:17",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "U.S. Commerce Secretary Lutnick noted in a letter to ANTHROPIC that its latest MYTHOS and Fable models risk being repurposed for foreign military or intelligence users."
-    },
-    {
-      "id": "4936994",
-      "time": "2026-06-16 01:05:17",
-      "tags": [
-        "其他"
-      ],
-      "text": "SPACEX股價漲幅超過12%。"
-    },
-    {
-      "id": "mkt:019ecc3e-9778-7dd8-b014-25e28578210d",
-      "time": "2026-06-16 01:05:14",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "U.S. officials said they are cooperating with Iranian parties seeking to change the situation."
-    },
-    {
-      "id": "te:economy:559105",
-      "time": "2026-06-16 01:05:00",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Venezuela",
-        "GDP Annual Growth Rate",
-        "Importance 0"
-      ],
-      "text": "Venezuela Economic Activity Slows in Q1 2026 — Venezuela's economy expanded by 2.51% year-on-year in the first quarter of 2026, easing sharply from a 7.19% advance in the last quarter of 2025. The deceleration was driven primarily by the oil sector, which contracted 2.12% after expanding 13.8% in the previous quarter. Meanwhile, non-oil activity grew 3.11%, supported by financial and insurance activities, which recorded the largest increase, at 13.5%, followed by retail and motor repair (8.7%), restaurants and hotels (7.5%), manufacturing (6.4%), agriculture (5.4%), transports (4.9%), information and communication (4.8%), education, health, training, and other service activities (2.9%), entertainment activities (2.6%) mining (1.9%) and general government services (1.5%). In contrast, construction activities plunged by 18.3% and utilities declined by 1%."
-    },
-    {
-      "id": "mkt:019ecc3e-21c4-7dd8-b014-1c673572f93d",
-      "time": "2026-06-16 01:04:44",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "XAUUSD",
-        "DXY"
-      ],
-      "text": "A US official said talks with Iran rank among the most difficult in history."
-    },
-    {
-      "id": "mkt:019ecc3d-e11d-7dd8-b014-11feab3a456c",
-      "time": "2026-06-16 01:04:27",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "U.S. officials said they will work over the coming days and weeks to try to ensure a successful outcome in negotiations with Iran."
     }
   ]
 }
