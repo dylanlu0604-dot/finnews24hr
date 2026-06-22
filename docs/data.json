@@ -1,7 +1,19 @@
 {
-  "updated": "2026-06-23 05:41:30",
+  "updated": "2026-06-23 05:45:23",
   "count": 17318,
   "items": [
+    {
+      "id": "te:economy:560875",
+      "time": "2026-06-23 05:42:45",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Argentina",
+        "Unemployment Rate",
+        "Importance 0"
+      ],
+      "text": "Argentina Unemployment Rises in Q1 2026 — Argentina’s unemployment rate rose to 7.8% in the first quarter of 2026, up from 7.5% in the previous quarter. The number of unemployed reached 1.1 million people. By region, unemployment was highest in Greater Buenos Aires at 8.7%, followed by the Pampas region at 8.2%. The jobless rate stood at 8.3% for women and 7.5% for men. Among the unemployed, 28.2% were the main income providers in their households. By education level, 36% had completed secondary education, while 10.8% had tertiary or university studies. Regarding job-search duration, 31.8% had been looking for work for more than a year, while 78.7% had previous work experience. By sector, 16.8% had last worked in construction and 16.6% in commerce. Meanwhile, the employment rate edged down to 44.8% from 45%, while labor force participation remained stable at 48.6%."
+    },
     {
       "id": "4949000",
       "time": "2026-06-23 05:35:11",
@@ -159062,14 +159074,6 @@
         "Impact bullish"
       ],
       "text": "【Economists: If Iran deal holds, worst of US inflation may be over】Economists say even if an Iran agreement is implemented, normalising shipping through the Strait of Hormuz and gas prices returning to pre‑conflict levels could take time. US inflation accelerated in May to the fastest pace in more than three years, but the rise likely has peaked. Andrew Hollenhorst, Citigroup’s chief US economist, cautioned that short‑term energy and oil market forecasts are difficult but that the broader trajectory appears downward. News of a provisional Iran‑US agreement pushed oil prices lower and lifted equities; Stephen Stanley, chief US economist at Santander US Capital Markets, said markets are treating the deal as done and largely reverting toward pre‑conflict conditions."
-    },
-    {
-      "id": "4937178",
-      "time": "2026-06-16 05:42:06",
-      "tags": [
-        "國際"
-      ],
-      "text": "【霍爾木茲海峽地區傳出爆炸聲】據伊朗邁赫爾通訊社報道，霍爾木茲海峽地區以及位於該海峽的伊朗最大島嶼格什姆島南部傳出三次爆炸聲：前兩次爆炸聲發生在當地時間6月15日深夜，第三次爆炸聲發生在今天（6月16日）凌晨。據初步報告，爆炸很可能與該海峽的航運交通管理有關。截至目前，伊朗伊斯蘭革命衛隊和當地官方機構，尚未就此次事件的具體細節作出回應。"
     }
   ]
 }
