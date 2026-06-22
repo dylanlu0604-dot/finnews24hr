@@ -1,7 +1,42 @@
 {
-  "updated": "2026-06-23 03:33:41",
-  "count": 17269,
+  "updated": "2026-06-23 03:37:43",
+  "count": 17272,
   "items": [
+    {
+      "id": "mkt:019ef0d5-692a-7dd8-b0c4-7ef6179fca6e",
+      "time": "2026-06-23 03:36:18",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI"
+      ],
+      "text": "CFTC data: For the week to June 16, speculators cut WTI crude net-long positions by 2,441 contracts to 100,978."
+    },
+    {
+      "id": "mkt:019ef0d5-04b9-7dd8-b0c4-733c2b87d116",
+      "time": "2026-06-23 03:35:52",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "Industrial Metals",
+        "XAUUSD",
+        "Impact bullish",
+        "Copper",
+        "Impact bearish"
+      ],
+      "text": "CFTC: week to June 16, COMEX gold speculators increased net longs by 9,258 contracts to 112,918; silver net longs rose 2,275 contracts to 12,070; copper net longs fell 52 contracts to 71,076."
+    },
+    {
+      "id": "4948915",
+      "time": "2026-06-23 03:33:37",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國商品期貨交易委員會（CFTC）：6月16日當週，投機者所持NYMEX鉑金淨多頭頭寸降低至8,072手合約，創逾14周新低。\n所持NYMEX鈀金淨空頭頭寸降低至4,268手合約。"
+    },
     {
       "id": "mkt:019ef0d2-4322-7dd8-b0c4-6df76478ea14",
       "time": "2026-06-23 03:32:51",
