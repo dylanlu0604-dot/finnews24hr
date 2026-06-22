@@ -1,7 +1,994 @@
 {
-  "updated": "2026-06-23 03:50:01",
-  "count": 17267,
+  "updated": "2026-06-23 04:52:51",
+  "count": 17324,
   "items": [
+    {
+      "id": "mkt:019ef118-76ba-7dd8-b0c5-fc142caeea6d",
+      "time": "2026-06-23 04:49:32",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iran's central bank governor said remaining frozen funds will not necessarily be restricted to basic goods and that Iran will be able to purchase other non-sanctioned goods."
+    },
+    {
+      "id": "4948975",
+      "time": "2026-06-23 04:49:04",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "塔斯尼姆通訊社訊息：伊朗央行行長稱，剩餘被凍結資金未必只能用於採購民生必需品，伊朗可動用該資金購置其他不受制裁限制的商品。"
+    },
+    {
+      "id": "mkt:019ef117-db8b-7dd8-b0c5-f10d5f678105",
+      "time": "2026-06-23 04:48:52",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "DXY",
+        "S&P500",
+        "Impact bullish"
+      ],
+      "text": "【Trump says Iran will accept large-scale weapons inspections】President Trump said on social media on June 22 that all parties understand Iran will agree to large-scale weapons inspections to ensure its long-term nuclear integrity. Earlier the same day US and Iranian delegations concluded a first round of talks at Bürgenstock, Switzerland. Vice President Vance said at a press briefing the talks made substantial progress, laying a strong foundation for a final deal, and that Iran had agreed to invite IAEA inspectors back. Iran's state news agency IRNA quoted Foreign Ministry spokesman BAGHAEI saying Iran's cooperation with the IAEA will continue under existing mechanisms and in accordance with Iranian parliamentary law and decisions of the Supreme National Security Council."
+    },
+    {
+      "id": "4948974",
+      "time": "2026-06-23 04:48:48",
+      "tags": [
+        "國際"
+      ],
+      "text": "【特朗普稱伊朗將同意接受武器核查】美國總統特朗普22日在社交媒體發文稱，各方都完全清楚，伊朗將同意接受大規模武器核查，以確保其在未來長期保持“核誠信”。當天早些時候，美國和伊朗代表團在瑞士比爾根山的首輪談判結束。美國副總統萬斯在新聞釋出會上表示，美伊談判取得很多進展，為達成最終協議奠定非常好的基礎，伊朗已同意邀請國際原子能機構核查人員重返伊朗。伊朗伊斯蘭共和國通訊社22日援引伊朗外交部發言人巴加埃的話報道，伊朗與國際原子能機構的合作與互動將按照現行機制繼續進行，並遵循伊朗議會相關法律以及最高國家安全委員會作出的決定。（新華社）"
+    },
+    {
+      "id": "mkt:019ef116-473c-7dd8-b0c5-ec4867ec5bbd",
+      "time": "2026-06-23 04:47:09",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Iran parliament speaker says Iran, US should jointly guarantee Lebanon's territorial integrity】On 22 June, Iran's chief negotiator and parliament speaker Ghalibaf said an Iran‑US memorandum of understanding explicitly calls for ending wars against Iran and its allies. He said both sides concluded in Swiss talks that Iran and the United States should jointly guarantee Lebanon's territorial integrity. The MoU already includes assurances on territorial integrity and should be implemented; the parties agreed to establish a coordination center to resolve related issues, enable displaced Lebanese to return and facilitate withdrawal of Israeli forces from Lebanese territory."
+    },
+    {
+      "id": "4948973",
+      "time": "2026-06-23 04:46:44",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國聯邦航空管理局向一家美國航空航天防務企業授予一份價值 8.75 億美元的多年期軟體及人工智慧專案合同。"
+    },
+    {
+      "id": "mkt:019ef115-e387-7dd8-b0c5-e16e6929a8b0",
+      "time": "2026-06-23 04:46:43",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "TASNIM NEWS: Iran's central bank governor said Tehran has no obligation under existing agreements to buy agricultural inputs from the United States."
+    },
+    {
+      "id": "4948972",
+      "time": "2026-06-23 04:46:16",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗議長：伊美應共同保障黎巴嫩領土完整】當地時間22日，伊朗談判代表團團長、伊朗議會議長卡利巴夫表示，在伊美諒解備忘錄中，明確強調結束針對伊朗及其盟友的戰爭。卡利巴夫表示，伊美雙方在瑞士談判中達成結論，伊朗和美國應共同保障黎巴嫩的領土完整。諒解備忘錄中已包含對領土完整的保證，應繼續推進落實。為此，雙方同意建立協調中心以解決相關問題，從而使黎巴嫩民眾能夠返回家園，並促使以色列軍隊從黎巴嫩領土撤出。（央視新聞）"
+    },
+    {
+      "id": "mkt:019ef115-2d4b-7dd8-b0c5-dbe96ac4ca2d",
+      "time": "2026-06-23 04:45:57",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "Goldman Sachs says a two-month delay in Qatar LNG export restart to end-September 2026 could push Q4 2026 TTF gas prices toward €50/MWh versus its €40/MWh forecast."
+    },
+    {
+      "id": "4948971",
+      "time": "2026-06-23 04:43:13",
+      "tags": [
+        "國際"
+      ],
+      "text": "【特朗普簽署兩項行政令 推動2028年部署用於科學研究的量子計算機】據華爾街日報報道，特朗普簽署了兩項行政命令，旨在加速先進量子計算機的研發，並降低其帶來的安全威脅。其中一項行政命令於週一簽署，指示包括能源部在內的聯邦機構與私營部門及學術界合作，在2028年前部署一臺能夠用於科學研究的量子計算機。這樣的目標被認為是展示該技術具備現實應用能力的關鍵指標。量子計算機能夠以遠超傳統超級計算機的速度解決問題，因此正成為全球各國日益重視的領域。特朗普簽署的第二項行政命令則要求各政府機構及安全專家為量子系統做準備——這些系統可能比預期更快地突破標準加密體系。其目標是強化政府與私營部門的安全系統，防止先進的量子駭客攻擊摧毀關鍵基礎設施。"
+    },
+    {
+      "id": "mkt:019ef112-7789-7dd8-b0c5-d603d2d61cb9",
+      "time": "2026-06-23 04:42:59",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Crypto Concepts",
+        "Nasdaq100",
+        "Impact bullish",
+        "S&P500"
+      ],
+      "text": "【Trump signs two executive orders to accelerate quantum computing, seeks scientific-use machine by 2028】Trump signed two executive orders to speed advanced quantum computing R&D and reduce related security risks. One order, signed Monday, directs federal agencies including the Department of Energy to work with industry and academia to deploy a quantum computer usable for scientific research by 2028, a benchmark intended to demonstrate practical capability. The second directs agencies and security experts to prepare for quantum systems that could break standard encryption sooner than expected and to strengthen government and private-sector defenses to protect critical infrastructure."
+    },
+    {
+      "id": "te:markets:560870",
+      "time": "2026-06-23 04:42:07",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Canada",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "TSX Rises on US-Iran Talks and Soft Core Inflation — The S&P/TSX Composite Index rose 0.4% to close at 35,002 on Monday as investors assessed US-Iran peace talks and Canada’s May inflation report. The US and Iran reportedly made progress in their first round of talks aimed at reaching a final peace deal. Oil prices fell, easing concerns over energy-driven inflation pressures. Meanwhile, annual inflation accelerated more than expected, driven by higher gasoline prices. However, the data is unlikely to alter the Bank of Canada’s view on underlying inflation, as core price measures remained soft. The BoC said earlier this month it saw limited evidence that higher energy prices were feeding into broader inflation. In addition, Canada’s banking regulator lowered capital requirements for the country’s largest lenders, a move expected to support credit growth. Banking stocks advanced, with RBC up 1% and BMO gaining 1.2%. Elsewhere, higher gold prices lifted Agnico Eagle by 2.2%, WPM by 4.7%, and Barrick by 1.2%."
+    },
+    {
+      "id": "4948970",
+      "time": "2026-06-23 04:41:45",
+      "tags": [
+        "觀點"
+      ],
+      "text": "高盛：卡達液化天然氣出口擴產將推遲兩個月至 2026 年 9 月末，這一情況或推動 2026 年第四季度荷蘭 TTF 天然氣價格逼近 50 歐元 / 兆瓦時，高於該行此前 40 歐元 / 兆瓦時的預期。"
+    },
+    {
+      "id": "4948969",
+      "time": "2026-06-23 04:41:32",
+      "tags": [
+        "央行",
+        "焦點",
+        "國際"
+      ],
+      "text": "塔斯尼姆通訊社訊息：伊朗央行行長表示，依據現行相關協議，德黑蘭並無義務從美國採購農業生產資料。"
+    },
+    {
+      "id": "mkt:019ef110-fbce-7dd8-b0c5-ca17eea0b6bc",
+      "time": "2026-06-23 04:41:22",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish",
+        "EURUSD",
+        "Impact bearish",
+        "USDJPY"
+      ],
+      "text": "【Dollar index up 0.29% on 22nd】The dollar index, measuring the dollar against six major currencies, rose 0.29% to 101.024 at the New York FX close on the 22nd. EUR/USD 1.1424 (prev. 1.1477); GBP/USD 1.3244 (1.3234); USD/JPY 161.42 (161.26); USD/CHF 0.8091 (0.8066); USD/CAD 1.4157 (1.4174); USD/SEK 9.6212 (9.5742)."
+    },
+    {
+      "id": "4948968",
+      "time": "2026-06-23 04:41:11",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "【CFTC：資產管理公司美國國債期貨淨多頭增加 對沖基金淨空頭增加】美國商品期貨交易委員會(CFTC)資料顯示，截至6月16日當週，資產管理公司總體偏看漲美國國債期貨，尤其是在長端顯著增加淨多頭頭寸。另一方面，對沖基金在多個期限的美國國債期貨上增加淨空頭頭寸。當週，從10年期國債期貨到超長期國債合約，資產管理公司的淨多頭頭寸合計增加2020萬美元/DV01，其中大部分淨增幅出現在長期國債期貨，多頭增加約900萬美元/DV01。對沖基金當週最看空10年期國債期貨，淨空頭頭寸增加650萬美元/DV01。其長期國債期貨淨空頭頭寸增加近400萬美元/DV01。"
+    },
+    {
+      "id": "4948967",
+      "time": "2026-06-23 04:40:34",
+      "tags": [
+        "市場"
+      ],
+      "text": "【美元指數22日上漲】美元指數22日上漲。衡量美元對六種主要貨幣的美元指數當天上漲0.29%，在匯市尾市收於101.024。截至紐約匯市尾市，1歐元兌換1.1424美元，低於前一交易日的1.1477美元；1英鎊兌換1.3244美元，高於前一交易日的1.3234美元。1美元兌換161.42日元，高於前一交易日的161.26日元；1美元兌換0.8091瑞士法郎，高於前一交易日的0.8066瑞士法郎；1美元兌換1.4157加元，低於前一交易日的1.4174加元；1美元兌換9.6212瑞典克朗，高於前一交易日的9.5742瑞典克朗。"
+    },
+    {
+      "id": "mkt:019ef10f-8c98-7dd8-b0c5-c5106b93f122",
+      "time": "2026-06-23 04:39:48",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "【International oil prices fell on the 22nd】NYMEX July light sweet crude futures fell $1.78 to $74.82/bbl, down 2.32% at the close; ICE August Brent crude futures fell $2.67 to $77.90/bbl, down 3.31%."
+    },
+    {
+      "id": "mkt:019ef10f-3566-7dd8-b0c5-ba11ec808afe",
+      "time": "2026-06-23 04:39:26",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "【Ghalibaf says Strait of Hormuz to be managed under Iranian mechanism】On June 22, Ghalibaf, head of Iran’s negotiation delegation and parliament speaker, said management of the Strait of Hormuz will not return to its pre-war status and, while claiming compliance with international law, will be carried out under a mechanism set by Iran. He said Iran and the US agreed to establish a coordination centre and hotline to resolve incidents more quickly within a 30-day timeframe. The hotline is not for approving transit permits, which will follow existing procedures; it is intended only to handle vessel problems or emergencies."
+    },
+    {
+      "id": "4948966",
+      "time": "2026-06-23 04:38:50",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "【伊朗議長：霍爾木茲海峽將按伊方制定的機制進行管理】當地時間22日，伊朗談判代表團團長、伊朗議會議長卡利巴夫表示，霍爾木茲海峽的管理絕不會回到戰前狀態。在遵守國際法的前提下，霍爾木茲海峽將按照伊朗制定的機制，由伊朗進行管理。卡利巴夫說，在霍爾木茲海峽可能會出現一些問題，因此伊朗和美國同意設立一個協調中心並開通熱線，以便在30天期限內，更快速地解決出現的問題。卡利巴夫表示，這一通話熱線並非用於審批通行許可，相關許可仍有其既定流程。該熱線僅用於處理船隻出現的問題或突發事件。（央視新聞）"
+    },
+    {
+      "id": "4948965",
+      "time": "2026-06-23 04:38:18",
+      "tags": [
+        "市場"
+      ],
+      "text": "【國際油價22日下跌】截至當天收盤，紐約商品交易所7月交貨的輕質原油期貨價格下跌1.78美元，收於每桶74.82美元，跌幅為2.32%；8月交貨的倫敦布倫特原油期貨價格下跌2.67美元，收於每桶77.90美元，跌幅為3.31%。"
+    },
+    {
+      "id": "mkt:019ef10e-1a34-7dd8-b0c5-b214d8121187",
+      "time": "2026-06-23 04:38:13",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "IBM.O",
+        "Impact bullish"
+      ],
+      "text": "IBM shares rose 2% in after-hours trading after the company announced a partnership with OpenAI to launch AI products targeting enterprise cybersecurity defense."
+    },
+    {
+      "id": "4948964",
+      "time": "2026-06-23 04:37:40",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲主席沃什將於7月14日美國東部時間上午（北京時間晚上）10點，在眾議院金融服務委員會作證。"
+    },
+    {
+      "id": "mkt:019ef10d-737f-7dd8-b0c5-aa9bd34e1f36",
+      "time": "2026-06-23 04:37:30",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Federal Reserve chair Kevin Warsh will testify before the House Financial Services Committee on July 14 at 10:00 a.m. ET (14:00 UTC; 22:00 Beijing)."
+    },
+    {
+      "id": "mkt:019ef10c-f484-7dd8-b0c5-a3ae8cdecf53",
+      "time": "2026-06-23 04:36:58",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "Brent",
+        "DXY"
+      ],
+      "text": "【Israel says it will continue decisive action to destroy military infrastructure in southern Lebanon】Late on the 22nd local time, the Israeli prime minister's office said after a phone call between Prime Minister Netanyahu, Defense Minister Katz, IDF Chief of Staff Zamir and Northern Command commander Rafi Milo that the IDF will continue to take decisive action to thwart threats to Israeli soldiers and civilians, destroy military infrastructure in southern Lebanon and maintain a \"security zone\" there."
+    },
+    {
+      "id": "te:markets:560869",
+      "time": "2026-06-23 04:35:19",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The Dow Jones Index Closes 0.29% Higher — The Dow Jones Index went up by 148 points or 0.29 percent on Monday to close at 51713 points. The rise was led by Caterpillar (3.50%), Amgen (2.12%) and JPMorgan (2.01%). On the downside, the weakerst performers were Amazon (-4.62%), Nike (-4.42%) and Microsoft (-3.20%)."
+    },
+    {
+      "id": "4948963",
+      "time": "2026-06-23 04:34:56",
+      "tags": [
+        "其他"
+      ],
+      "text": "委內瑞拉一季度石油銷售在總體出口的佔比為70.8%。"
+    },
+    {
+      "id": "mkt:019ef10a-a2e3-7dd8-b0c5-98bc06b0045f",
+      "time": "2026-06-23 04:34:26",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. President Trump signed an executive order on quantum technology."
+    },
+    {
+      "id": "4948961",
+      "time": "2026-06-23 04:34:19",
+      "tags": [
+        "國際"
+      ],
+      "text": "【以色列稱將繼續採取行動摧毀黎南部軍事設施】當地時間22日深夜，以色列總理辦公室透過社交媒體釋出宣告稱，不久前，以色列總理內塔尼亞胡、國防部長卡茨、以軍總參謀長扎米爾以及以軍北方司令部司令拉菲·米洛舉行了電話會議。內塔尼亞胡、卡茨和扎米爾在會後發表的聯合宣告中宣稱，以色列國防軍將繼續採取決斷行動，以挫敗針對以色列士兵和民眾的威脅，摧毀黎巴嫩南部的軍事基礎設施，並繼續維持在黎南部的所謂“安全區”。（央視新聞）"
+    },
+    {
+      "id": "mkt:019ef108-8d8c-7dd8-b0c5-94514c6bfe96",
+      "time": "2026-06-23 04:32:09",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "IBM.N",
+        "Impact bullish"
+      ],
+      "text": "IBM (IBM.N) expands its cybersecurity collaboration with OpenAI, launching advanced AI capabilities intended to help enterprises defend against machine-speed cyber threats."
+    },
+    {
+      "id": "mkt:019ef107-ff9b-7dd8-b0c5-8f03efa68423",
+      "time": "2026-06-23 04:31:33",
+      "tags": [
+        "MKT News",
+        "IBM.N",
+        "Impact bullish"
+      ],
+      "text": "IBM (IBM.N) launched a new application security service today and said additional integrations will follow."
+    },
+    {
+      "id": "mkt:019ef107-ee4c-7dd8-b0c5-80345fe995df",
+      "time": "2026-06-23 04:31:29",
+      "tags": [
+        "MKT News",
+        "ORCL.N"
+      ],
+      "text": "Oracle (ORCL.N) said it had about 141,000 full-time employees as of May 31."
+    },
+    {
+      "id": "4948960",
+      "time": "2026-06-23 04:30:54",
+      "tags": [
+        "其他"
+      ],
+      "text": "IBM：全新應用安全服務今日正式上線，後續還規劃了更多整合功能。"
+    },
+    {
+      "id": "4948959",
+      "time": "2026-06-23 04:30:19",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普談及北約： 他們跟我們說 “我們不想出力相助”，這話實在愚蠢。 畢竟只要我們願意，我們也能對他們說出同樣的話，而且我們或許真會這麼做。"
+    },
+    {
+      "id": "mkt:019ef106-d0ae-7dd8-b0c5-7a2dafcef2c4",
+      "time": "2026-06-23 04:30:16",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "Magnificent 7",
+        "Star Stocks",
+        "Meta Platforms",
+        "META.O"
+      ],
+      "text": "Business Insider reported Meta has suspended an internal AI training program after a recent sensitive-data leak that was accessible company-wide."
+    },
+    {
+      "id": "4948958",
+      "time": "2026-06-23 04:29:42",
+      "tags": [
+        "其他"
+      ],
+      "text": "IBM 與 OpenAI 聯手將前沿人工智慧技術應用於網路防禦領域，助力企業應對機器級高速網路威脅。"
+    },
+    {
+      "id": "4948957",
+      "time": "2026-06-23 04:28:48",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：羅馬尼亞總理候選人信任投票失利，政壇僵局進一步延續。"
+    },
+    {
+      "id": "4948956",
+      "time": "2026-06-23 04:27:44",
+      "tags": [
+        "公司"
+      ],
+      "text": "甲骨文：截至 5 月 31 日，公司全職員工約 14.1 萬人。"
+    },
+    {
+      "id": "4948955",
+      "time": "2026-06-23 04:27:20",
+      "tags": [
+        "公司"
+      ],
+      "text": "市場訊息：因全公司範圍內可訪問敏感資料，Meta 暫停一項內部 AI 培訓專案。"
+    },
+    {
+      "id": "4948954",
+      "time": "2026-06-23 04:25:01",
+      "tags": [
+        "其他"
+      ],
+      "text": "Groq：完成 6.5 億美元融資，用於擴大其 AI 推理雲業務規模。本輪融資由 Disruptive 與 Infinitum 領投，多家原有投資者選擇追加投資參與本輪募資。"
+    },
+    {
+      "id": "mkt:019ef0ff-73c2-7dd8-b0c5-72c003655094",
+      "time": "2026-06-23 04:22:13",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Nabil Fahmy formally appointed Arab League secretary-general】The Arab League Council of Foreign Ministers meeting in Amman on the 22nd approved the appointment of Egypt’s former foreign minister Nabil Fahmy as Arab League secretary-general. He will replace Ahmed Gheit when Gheit’s term expires on June 30, 2026; Fahmy will assume office on July 1, 2026 for a term running to 2031."
+    },
+    {
+      "id": "4948953",
+      "time": "2026-06-23 04:21:38",
+      "tags": [
+        "國際"
+      ],
+      "text": "【納比勒·法赫米正式被任命為阿盟秘書長】當地時間22日，在約旦首都安曼舉行的阿拉伯國家聯盟（阿盟）外長理事會會議正式批准任命埃及前外交部長納比勒·法赫米為阿盟秘書長，接替任期將於2026年6月30日屆滿的艾哈邁德·蓋特。納比勒·法赫米將於2026年7月1日就任阿盟第九任秘書長，任期至2031年。（央視新聞）"
+    },
+    {
+      "id": "mkt:019ef0fb-6595-7dd8-b0c5-69ee04194304",
+      "time": "2026-06-23 04:17:47",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade",
+        "S&P500",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish",
+        "WTI"
+      ],
+      "text": "President Trump said he could quickly reimpose lockdowns if necessary."
+    },
+    {
+      "id": "mkt:019ef0fa-faae-7dd8-b0c5-60c6aed7b8c3",
+      "time": "2026-06-23 04:17:20",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "Trump: defense contractors will not be permitted to repurchase shares."
+    },
+    {
+      "id": "4948952",
+      "time": "2026-06-23 04:17:14",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：我們與哥倫比亞的關係將會大幅改善。"
+    },
+    {
+      "id": "4948951",
+      "time": "2026-06-23 04:17:00",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：哥倫比亞總統致電感謝我。"
+    },
+    {
+      "id": "mkt:019ef0fa-a48a-7dd8-b0c5-5927e1b4f70e",
+      "time": "2026-06-23 04:16:58",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "US President Trump said Colombia's president called to thank him."
+    },
+    {
+      "id": "mkt:019ef0f9-d9f3-7dd8-b0c5-56a3b64d7d5d",
+      "time": "2026-06-23 04:16:06",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "President Trump said as long as Iran respects the United States, we will have no problems."
+    },
+    {
+      "id": "4948950",
+      "time": "2026-06-23 04:15:32",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：我們完全掌控了海峽，如有必要，可以迅速重啟封鎖。"
+    },
+    {
+      "id": "mkt:019ef0f9-05a0-7dd8-b0c5-4ffec561bdbc",
+      "time": "2026-06-23 04:15:12",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. President Trump wished Starmer well."
+    },
+    {
+      "id": "mkt:019ef0f8-d9ff-7dd8-b0c5-46d1c17ea79f",
+      "time": "2026-06-23 04:15:00",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "US President Trump said he told UK Prime Minister Starmer that Starmer had really messed up on energy."
+    },
+    {
+      "id": "4948949",
+      "time": "2026-06-23 04:14:52",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：通用汽車 “熱衷於製造武器”。"
+    },
+    {
+      "id": "4948948",
+      "time": "2026-06-23 04:14:14",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普談及國防承包商：禁止股票回購，股票回購是人為抬高股價的虛假手段。"
+    },
+    {
+      "id": "4948947",
+      "time": "2026-06-23 04:12:51",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普談及英國首相斯塔默：我祝他一切順利。"
+    },
+    {
+      "id": "4948946",
+      "time": "2026-06-23 04:11:44",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列總理、國防部長和參謀長聯合宣告：以色列國防軍將繼續果斷行動，消除威脅，摧毀基礎設施，並繼續維護黎巴嫩南部的安全區。"
+    },
+    {
+      "id": "mkt:019ef0f5-ca8e-7dd8-b0c5-3e2751019004",
+      "time": "2026-06-23 04:11:40",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "Brent",
+        "DXY"
+      ],
+      "text": "In a joint statement, Israel's prime minister, defense minister and chief of staff said the Israel Defense Forces will continue decisive operations to eliminate threats, destroy infrastructure and maintain the security zone in southern Lebanon."
+    },
+    {
+      "id": "te:markets:560864",
+      "time": "2026-06-23 04:11:26",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "US Stocks Close Mixed Pressured by Megacaps — US stock indexes closed mixed on Monday as losses in megacap tech stocks offset optimism over progress in restoring energy supply from the Middle East. The S&P 500 fell 0.4%, while the Nasdaq 100 lost 0.2%. Alphabet dropped 5.2% after reports that another top AI researcher left for a rival, deepening concerns over its competitive position in artificial intelligence. Broadcom tumbled 4.7%, Amazon declined 4.4%, Microsoft lost 3.2% and Meta fell 2.7%. SpaceX plunged 16.4% after announcing a new bond sale. In contrast, Micron gained 6.8% after announcing a strategic agreement with Anthropic. Meanwhile, the Dow Jones rose 148 points after Iran said recent talks with the US made significant progress, with both sides aiming to reach a peace deal within two months. Energy prices extended losses on expectations of restored supply, while lingering expectations of a hawkish Federal Reserve following last week’s meeting kept pressure on Treasuries."
+    },
+    {
+      "id": "4948945",
+      "time": "2026-06-23 04:11:14",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：我能快速解決各類爭端，包括與內塔尼亞胡之間的分歧。"
+    },
+    {
+      "id": "4948944",
+      "time": "2026-06-23 04:10:55",
+      "tags": [
+        "市場"
+      ],
+      "text": "IBM股價盤後上漲2.4%。"
+    },
+    {
+      "id": "4948943",
+      "time": "2026-06-23 04:10:46",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普談及以色列、黎巴嫩局勢：我們會對此進行評估。"
+    },
+    {
+      "id": "4948942",
+      "time": "2026-06-23 04:10:03",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "達美樂披薩任命新CEO後股價下跌約2%。"
+    },
+    {
+      "id": "4948941",
+      "time": "2026-06-23 04:09:57",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國鋼鐵協會（AISI）資料：截至 6 月 20 日當週，美國鋼鐵產能利用率為 80.2%。"
+    },
+    {
+      "id": "mkt:019ef0f3-4111-7dd8-b0c5-37c44fa14e54",
+      "time": "2026-06-23 04:08:54",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish"
+      ],
+      "text": "US President Trump said the economy is the opposite of a depression and oil prices have fallen sharply."
+    },
+    {
+      "id": "4948940",
+      "time": "2026-06-23 04:08:39",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "特朗普：（被問及財政部已解除針對伊朗石油的制裁）我得先核實具體情況，但如果制裁確實取消，資金會迴流伊朗，所有被凍結的資金都將釋放。"
+    },
+    {
+      "id": "mkt:019ef0f2-b1c9-7dd8-b0c5-2f9bcad2b854",
+      "time": "2026-06-23 04:08:17",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "US President Trump said he would take necessary measures if Iran failed to comply with the agreement."
+    },
+    {
+      "id": "4948939",
+      "time": "2026-06-23 04:08:01",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：若伊朗不遵守協議，我將採取必要行動。"
+    },
+    {
+      "id": "4948938",
+      "time": "2026-06-23 04:07:32",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "特朗普談及經濟：我們當下的局面與經濟大蕭條截然相反。 油價大幅下跌。"
+    },
+    {
+      "id": "4948937",
+      "time": "2026-06-23 04:06:37",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：伊朗理應動用這筆資金為本國民眾採購糧食。"
+    },
+    {
+      "id": "mkt:019ef0f0-85d3-7dd8-b0c5-20675022c4a4",
+      "time": "2026-06-23 04:05:55",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "CME Group said some of its direct clients are experiencing disconnects; its support team is investigating."
+    },
+    {
+      "id": "mkt:019ef0f0-3248-7dd8-b0c5-188793325f8f",
+      "time": "2026-06-23 04:05:33",
+      "tags": [
+        "MKT News",
+        "Dow",
+        "Impact bullish",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "Dow Jones closed up 147.83 points, or 0.29%, at 51,712.53 on Monday, June 22. S&P 500 closed down 27.60 points, or 0.37%, at 7,472.98. Nasdaq Composite closed down 351.33 points, or 1.32%, at 26,166.60."
+    },
+    {
+      "id": "4948936",
+      "time": "2026-06-23 04:05:14",
+      "tags": [
+        "其他"
+      ],
+      "text": "芝加哥商品交易所（CME）：已留意到部分 CME 直連客戶遭遇連線中斷問題，技術支援團隊正在排查故障。"
+    },
+    {
+      "id": "mkt:019ef0ee-fca6-7dd8-b0c5-1570c1dc373f",
+      "time": "2026-06-23 04:04:14",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iran's chief negotiator said the United States and Iran will both guarantee Lebanon's territorial integrity."
+    },
+    {
+      "id": "4948935",
+      "time": "2026-06-23 04:04:07",
+      "tags": [
+        "公司"
+      ],
+      "text": "谷歌母公司Alphabet收跌5%，此前該公司AI負責人Jumper離職。"
+    },
+    {
+      "id": "4948934",
+      "time": "2026-06-23 04:03:27",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "伊朗首席談判代表表示，基於在瑞士舉行的會談，美國和伊朗都將保證黎巴嫩的領土完整。"
+    },
+    {
+      "id": "4948933",
+      "time": "2026-06-23 04:03:22",
+      "tags": [
+        "國際"
+      ],
+      "text": "【英媒：伊美磋商期間逾400艘船在霍爾木茲海峽等待】據英國《金融時報》網站22日報道，超過400艘船舶停在霍爾木茲海峽東側外圍海域，等待伊朗和美國談判後這一能源運輸要道全面開放。由於停火安排和相關安全機制尚未完全落實，全球航運業對霍爾木茲海峽全面恢復通航前景依然保持謹慎。歐洲航天局衛星資料顯示，21日下午約441艘大型油輪規格的船舶聚集在阿曼蘇哈爾港和阿聯酋富查伊拉港附近海域，等待霍爾木茲海峽恢復開放。報道說，這一數字明顯高於正常水平，但較5天前減少42艘。伊朗和美國此前宣佈達成諒解備忘錄後，一些航運企業一度趁局勢緩和恢復通航。但在以色列對黎巴嫩發動襲擊後，伊朗再次宣佈關閉霍爾木茲海峽。（新華社）"
+    },
+    {
+      "id": "mkt:019ef0ed-fe54-7dd8-b0c5-0d1d409cadd0",
+      "time": "2026-06-23 04:03:09",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Trading was interrupted on CME Group after its platform experienced a connectivity outage."
+    },
+    {
+      "id": "4948932",
+      "time": "2026-06-23 04:02:16",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美官員稱美方已針對黎巴嫩局勢建立“監測機制”】當地時間6月22日，一名美國官員表示，鑑於以色列和黎巴嫩真主黨屢次違反停火協議，威脅到美伊談判的程序，美國已針對黎巴嫩局勢建立了一套“監測機制”。該官員透露，美國務卿魯比奧19日分別與以色列總理內塔尼亞胡及黎巴嫩總統奧恩通話，討論了“鞏固停火及未來談判”的事宜。在這些通話之後，美國透過中央司令部啟動了一項監測機制，以便決策者能夠實時、準確地掌握黎巴嫩境內的交戰情況。（央視新聞）"
+    },
+    {
+      "id": "4948931",
+      "time": "2026-06-23 04:01:54",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國能源部長賴特： 儘管伊朗方面予以抵制，我們仍維持危機前的原油運輸規模，保障石油經霍爾木茲海峽外運。"
+    },
+    {
+      "id": "mkt:019ef0ec-65d1-7dd8-b0c5-01eaa8672b4f",
+      "time": "2026-06-23 04:01:24",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "U.S. Energy Secretary wright said the U.S. continues to ship oil through the Strait of Hormuz at pre-crisis levels despite Iranian interference."
+    },
+    {
+      "id": "4948930",
+      "time": "2026-06-23 04:01:16",
+      "tags": [
+        "公司",
+        "市場",
+        "焦點",
+        "國際"
+      ],
+      "text": "SPACEX股價下跌16%，市值蒸發4000億美元。"
+    },
+    {
+      "id": "mkt:019ef0ec-339c-7dd8-b0c4-ffe4eafb2a24",
+      "time": "2026-06-23 04:01:11",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Wall Street (US)",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "Magnificent 7",
+        "SPCX.O",
+        "Impact bearish",
+        "MU.O",
+        "Impact bullish",
+        "TME.N"
+      ],
+      "text": "【US stocks close mixed; SpaceX plunges 16%】US equities closed mixed Monday: Dow Jones Industrial Average up 0.29%, S&P 500 down 0.37%, Nasdaq Composite down 1.3%. SpaceX (SPCX.O) plunged 16.4%; Intel (INTC.O) rose 5%; Micron Technology (MU.O) gained about 7%; NVIDIA (NVDA.O) fell 1%. Nasdaq Golden Dragon China Index fell 1.3%; Tencent Music (TME.N) dropped 4%."
+    },
+    {
+      "id": "4948929",
+      "time": "2026-06-23 04:00:48",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【美股收盤：三大股指集體漲跌不一】道指漲0.29%，標普500指數跌0.37%，納指跌1.30%。Arm Holdings跌7.23%，Moderna跌7.22%，Palantir Technologies跌6.97%，超微電腦漲15.75%，Coherent Corp漲9.23%，ON SEMICONDUCTOR漲8.16%。“七姐妹”方面：特斯拉漲1.11%，蘋果跌0.38%，英偉達跌1.01%，Meta Platforms跌2.34%，微軟跌3.18%，亞馬遜跌4.67%，谷歌跌5.12%。"
+    },
+    {
+      "id": "4948928",
+      "time": "2026-06-23 04:00:47",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：大量石油正從霍爾木茲海峽運出。"
+    },
+    {
+      "id": "4948927",
+      "time": "2026-06-23 04:00:16",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "伊朗首席談判代表：我們已同意就霍爾木茲海峽的船舶通航建立溝通線路，以避免衝突。"
+    },
+    {
+      "id": "mkt:019ef0eb-4eb0-7dd8-b0c4-f75c67244a65",
+      "time": "2026-06-23 04:00:13",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "Iran's chief negotiator said the US and Iran have agreed to establish a communication channel on vessel transit through the Strait of Hormuz to avoid conflict."
+    },
+    {
+      "id": "4948926",
+      "time": "2026-06-23 04:00:02",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【納斯達克中國金龍指數收跌1.26%】1藥網跌11.34%，萬物新生跌7.14%，網易有道跌7.63%，中比能源跌5.60%，小牛電動跌5.32%。"
+    },
+    {
+      "id": "mkt:019ef0e9-4e24-7dd8-b0c4-ed76fa8a784e",
+      "time": "2026-06-23 03:58:02",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Trump says unfrozen Iranian assets will be used to purchase agricultural products from U.S. farmers."
+    },
+    {
+      "id": "mkt:019ef0e8-a85a-7dd8-b0c4-e1303799ed51",
+      "time": "2026-06-23 03:57:19",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "President Trump said the war with Iran is, in some respects, going very well."
+    },
+    {
+      "id": "4948925",
+      "time": "2026-06-23 03:55:58",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：伊朗被凍結資金將用於採購美國農產品。"
+    },
+    {
+      "id": "4948924",
+      "time": "2026-06-23 03:55:31",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普： 從某種層面來看，和伊朗的這場博弈進展十分順利。 伊朗永遠不會擁有核武器。"
+    },
+    {
+      "id": "mkt:019ef0e6-312e-7dd8-b0c4-d86468443473",
+      "time": "2026-06-23 03:54:38",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "US President Trump said Iran will never possess nuclear weapons."
+    },
+    {
+      "id": "mkt:019ef0e6-2a1a-7dd8-b0c4-d2e8a58d0613",
+      "time": "2026-06-23 03:54:36",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "Trump said the situation in the Strait of Hormuz is good; oil volumes transiting the strait hit a record high yesterday and the waterway remains open."
+    },
+    {
+      "id": "4948923",
+      "time": "2026-06-23 03:54:10",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普談伊朗問題：我們正在談判，看看結果如何。"
+    },
+    {
+      "id": "mkt:019ef0e5-ba0d-7dd8-b0c4-cbfcc451cd85",
+      "time": "2026-06-23 03:54:07",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "Trump on Iran: Strait of Hormuz fully open; situation in the Strait of Hormuz is progressing well."
+    },
+    {
+      "id": "4948922",
+      "time": "2026-06-23 03:53:55",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普談及伊朗：霍爾木茲海峽完全暢通 。"
+    },
+    {
+      "id": "4948921",
+      "time": "2026-06-23 03:53:37",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普談及伊朗問題：霍爾木茲海峽局勢目前進展非常順利。"
+    },
+    {
+      "id": "mkt:019ef0e5-2791-7dd8-b0c4-c0197b60ca4a",
+      "time": "2026-06-23 03:53:30",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bearish",
+        "S&P500",
+        "Impact bullish",
+        "DXY"
+      ],
+      "text": "Iran's chief negotiator told Iranian state TV that talks in Switzerland have finalized an agreement to unfreeze $12 bln of Iranian assets."
+    },
+    {
+      "id": "mkt:019ef0e5-1057-7dd8-b0c4-be2c62f639aa",
+      "time": "2026-06-23 03:53:24",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【U.S. sets up monitoring mechanism to track Lebanon ceasefire, official says】A U.S. official told CNN on Monday that Washington has established a monitoring mechanism for the fragile Lebanon ceasefire after repeated violations by Israel and Hezbollah that risked US‑Iran talks. The official said Secretary of State Rubio phoned Israeli Prime Minister Netanyahu and Lebanese President Aoun last Friday to discuss consolidating the ceasefire and future negotiations. Following those calls, U.S. Central Command launched the monitoring mechanism to give policymakers real‑time, accurate visibility of fighting inside Lebanon. It was unclear whether this is the same as the “conflict‑avoidance mechanism” Vice President Vance said had been set up on Sunday afternoon Swiss time."
+    },
+    {
+      "id": "4948920",
+      "time": "2026-06-23 03:53:07",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "伊朗首席談判代表向國家電視臺表示，瑞士會談中已敲定解凍 120 億美元伊朗資產的相關簽署事宜。"
+    },
+    {
+      "id": "mkt:019ef0e4-8149-7dd8-b0c4-b3d6246ceed3",
+      "time": "2026-06-23 03:52:47",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade",
+        "IBM.N"
+      ],
+      "text": "US President Trump praised IBM CEO (IBM.N)."
+    },
+    {
+      "id": "4948919",
+      "time": "2026-06-23 03:51:36",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普在白宮發表講話。"
+    },
+    {
+      "id": "mkt:019ef0e3-42c7-7dd8-b0c4-a9c68ad1223c",
+      "time": "2026-06-23 03:51:26",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Tesla",
+        "Market Themes",
+        "Magnificent 7",
+        "TSLA.O",
+        "Impact bearish"
+      ],
+      "text": "【NHTSA opens probe into fatal Tesla (TSLA.O) Model 3 crash near Houston】NHTSA said on Monday it will investigate a fatal crash involving a Tesla (TSLA.O) Model 3 that drove into a residence near Houston, Texas, late Friday. Harris County sheriff’s office said the driver told police he was using an automatic driving‑assist system; the vehicle left the road at high speed and struck a brick home, fatally injuring a woman inside."
+    },
+    {
+      "id": "4948918",
+      "time": "2026-06-23 03:51:15",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "特朗普稱讚IBM執行長，IBM股價上漲。"
+    },
+    {
+      "id": "mkt:019ef0e2-7042-7dd8-b0c4-a19040a50720",
+      "time": "2026-06-23 03:50:32",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "U.S. President Trump is signing an executive order."
+    },
     {
       "id": "mkt:019ef0da-5b41-7dd8-b0c4-9c08986b2bbf",
       "time": "2026-06-23 03:41:42",
@@ -158136,451 +159123,6 @@
         "MKT News"
       ],
       "text": "【US B-52 strategic bomber crashes in California】The U.S. military confirmed on the 15th that a B-52 strategic bomber crashed in the southern Mojave Desert in California. The aircraft departed Edwards Air Force Base at about 11:20 a.m. local time and crashed shortly thereafter; rescue teams are en route. Local media place the crash site roughly 160 km north of Los Angeles. Casualties are unknown. The B-52, nicknamed the Stratofortress, typically has a five-person crew and can carry nuclear weapons and various precision-guided munitions; it has been in service since 1955."
-    },
-    {
-      "id": "mkt:019ecd0e-dadd-7dd8-b016-b2c55a8530c1",
-      "time": "2026-06-16 04:52:43",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "【Zimbabwe cuts policy rate 500bps to 30%; first central bank to ease after U.S.-Iran peace agreement】Zimbabwe central bank cut its policy rate on Monday from 35% to 30% (500bps), the first rate cut since April 2024 when the bank reset rates after introducing the new ZiG currency. Headline inflation slowed to 4.4% YoY in May from 4.8% the prior month. The central bank noted that if the U.S.-Iran peace agreement restores oil and fertilizer supplies fully, price pressures could ease further, helping lower energy and food costs."
-    },
-    {
-      "id": "4937144",
-      "time": "2026-06-16 04:47:23",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "日本泰拉無人機公司收購兩家烏克蘭無人機製造商，推進全球業務佈局。"
-    },
-    {
-      "id": "4937141",
-      "time": "2026-06-16 04:45:44",
-      "tags": [
-        "公司"
-      ],
-      "text": "億滋國際：盧卡·扎拉梅拉將繼續擔任執行副總裁兼營運長。"
-    },
-    {
-      "id": "4937140",
-      "time": "2026-06-16 04:45:41",
-      "tags": [
-        "公司"
-      ],
-      "text": "億滋國際任命阿米特·巴納蒂為執行副總裁兼首席財務官，自2026年7月1日起生效。"
-    },
-    {
-      "id": "4937139",
-      "time": "2026-06-16 04:45:24",
-      "tags": [
-        "公司"
-      ],
-      "text": "億滋國際任命阿米特·巴納蒂為執行副總裁兼首席財務官。"
-    },
-    {
-      "id": "4937137",
-      "time": "2026-06-16 04:44:16",
-      "tags": [
-        "其他"
-      ],
-      "text": "英國泰晤士水務距離國有化又近了一步，英國大臣已正式否決一項100億英鎊的紓困方案。"
-    },
-    {
-      "id": "4937136",
-      "time": "2026-06-16 04:42:25",
-      "tags": [
-        "其他"
-      ],
-      "text": "【高通洽談收購Tenstorrent，補強人工智慧晶片研發實力】高通正洽談收購人工智慧晶片設計初創企業Tenstorrent。雙方商討的收購對價區間至少在80億至100億美元，相較於Tenstorrent上一輪估值存在大幅溢價。目前尚不清楚這筆交易價款是否會包含與業績目標掛鉤的浮動支付款項，以往半導體初創企業收購案通常會設定此類條款。雙方談判仍在進行中，交易金額存在變動可能，洽談也有破裂風險。若完成收購，高通將大幅擴充自身人工智慧與資料中心晶片產品線實力。"
-    },
-    {
-      "id": "4937133",
-      "time": "2026-06-16 04:40:59",
-      "tags": [
-        "其他"
-      ],
-      "text": "高通與Tenstorrent已就80億至100億美元的潛在交易價格展開討論。"
-    },
-    {
-      "id": "4937132",
-      "time": "2026-06-16 04:39:23",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗媒體稱，三艘油輪及兩艘裝載伊朗必需物資的船舶“突破”了美國海上封鎖。"
-    },
-    {
-      "id": "4937128",
-      "time": "2026-06-16 04:37:16",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【歐盟與摩爾多瓦正式啟動首個入盟談判議題】歐盟理事會15日釋出公告稱，歐盟與摩爾多瓦當天就摩爾多瓦加入歐盟談判程序中的“基本原則”議題正式啟動談判。公告表示，“基本原則”議題涵蓋歐盟法律體系中與法治和基本權利、民主制度運作、公共行政改革以及經濟標準相關的關鍵要素。公告指出，在入盟談判程序中，“基本原則”議題是最先啟動、最後結束的核心議題，其進展將決定整個入盟談判的節奏。談判期間，歐盟將持續評估摩爾多瓦在對接歐盟法律體系以及落實相關標準方面的進展情況。"
-    },
-    {
-      "id": "mkt:019eccff-1b10-7dd8-b016-aeb88d1f24b6",
-      "time": "2026-06-16 04:35:31",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "DXY",
-        "WTI"
-      ],
-      "text": "HEZBOLLAH fired rockets and artillery at Israeli forces in southern Lebanon; clashes are ongoing."
-    },
-    {
-      "id": "te:markets:559116",
-      "time": "2026-06-16 04:35:01",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The Dow Jones Index Closes 0.92% Higher — The Dow Jones Index went up by 469 points or 0.92 percent on Monday to close at 51671 points. The rise was led by Boeing (4.66%), Nvidia (3.40%) and Amazon (3.12%). On the downside, the weakerst performers were Chevron (-3.60%), Merck (-3.37%) and Verizon (-2.06%)."
-    },
-    {
-      "id": "4937126",
-      "time": "2026-06-16 04:34:53",
-      "tags": [
-        "國際"
-      ],
-      "text": "真主黨表示，其在黎巴嫩南部地區以多輪火箭彈和炮彈打擊了以色列軍隊，目前衝突仍在持續。"
-    },
-    {
-      "id": "mkt:019eccfc-b654-7dd8-b016-a5f066588480",
-      "time": "2026-06-16 04:32:54",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "Iranian state television reported three oil tankers and two vessels carrying essential goods have broken through a US maritime blockade."
-    },
-    {
-      "id": "mkt:019eccfb-8ccc-7dd8-b016-9fc8b6a74dc3",
-      "time": "2026-06-16 04:31:37",
-      "tags": [
-        "MKT News",
-        "Important",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "Iranian state television reported the US has begun lifting its maritime blockade of Iran."
-    },
-    {
-      "id": "mkt:019eccfa-a74f-7dd8-b016-918c2610a2d0",
-      "time": "2026-06-16 04:30:39",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Amazon",
-        "Market Themes",
-        "Magnificent 7",
-        "AMZN.O",
-        "Impact bullish"
-      ],
-      "text": "Amazon Web Services (AWS) launched the GEMMA 4 model on Amazon Bedrock."
-    },
-    {
-      "id": "4937124",
-      "time": "2026-06-16 04:30:22",
-      "tags": [
-        "公司"
-      ],
-      "text": "亞馬遜雲科技（AWS）：在亞馬遜Bedrock平臺推出Gemma 4模型。"
-    },
-    {
-      "id": "4937122",
-      "time": "2026-06-16 04:29:02",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "伊朗方面：美國已開始解除海上封鎖。"
-    },
-    {
-      "id": "4937120",
-      "time": "2026-06-16 04:27:37",
-      "tags": [
-        "其他"
-      ],
-      "text": "富士康與施耐德電氣達成合作，共同佈局人工智慧資料中心裝置業務。"
-    },
-    {
-      "id": "4937113",
-      "time": "2026-06-16 04:23:18",
-      "tags": [
-        "國際"
-      ],
-      "text": "【美加州州長稱特朗普指示司法部對其展開調查】美國加利福尼亞州州長紐森15日指責總統特朗普將他視為“政治敵人”，並“指示司法部”對其展開調查。紐森在社交媒體上稱，特朗普將他和妻子一起列入“打擊名單”。“調查人員敲響了我們家族朋友和前僱員的家門。他們這麼做並不是因為發現了什麼犯罪行為，而是試圖找出一個罪名。”紐森表示，這項調查帶有政治動機，因為他一直公開批評特朗普，同時也在考慮競選下屆美國總統。（新華社）"
-    },
-    {
-      "id": "mkt:019eccf3-3539-7dd8-b016-8fa4b6a368c6",
-      "time": "2026-06-16 04:22:31",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "【California governor says Trump instructed DOJ to investigate him】California Governor Gavin Newsom said on the 15th that President Trump, viewing him as a \"political enemy,\" instructed the DOJ to open an investigation. Newsom said Trump placed him and his wife on a \"hit list\" and that investigators have knocked on doors of family friends and former employees; he said this was not prompted by evidence of criminal conduct but by an effort to find charges. He called the probe politically motivated, noting he has publicly criticized Trump and is considering a presidential run."
-    },
-    {
-      "id": "4937111",
-      "time": "2026-06-16 04:21:23",
-      "tags": [
-        "觀點"
-      ],
-      "text": "摩根大通宣佈將於2027年舉辦投資者日。"
-    },
-    {
-      "id": "mkt:019eccf2-0788-7dd8-b016-82fd970af153",
-      "time": "2026-06-16 04:21:14",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Microsoft",
-        "Market Themes",
-        "Magnificent 7",
-        "MSFT.O",
-        "Impact mixed"
-      ],
-      "text": "Market sources: Multiple studios within Microsoft's (MSFT.O) Xbox division, including Compulsion Games and Double Fine, are in active talks to be spun off or divested."
-    },
-    {
-      "id": "mkt:019eccf1-73ac-7dd8-b016-7fbfe9804e8a",
-      "time": "2026-06-16 04:20:36",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "The Israeli military said no casualties were reported after Hezbollah fired anti-tank missiles and multiple mortar rounds at its troops in southern Lebanon."
-    },
-    {
-      "id": "mkt:019eccf0-ef3a-7dd8-b016-7705065c96d4",
-      "time": "2026-06-16 04:20:02",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "WTI",
-        "DXY"
-      ],
-      "text": "ISRAELI MILITARY said it intercepted multiple rockets fired by HEZBOLLAH at forces in southern Lebanon."
-    },
-    {
-      "id": "4937108",
-      "time": "2026-06-16 04:19:35",
-      "tags": [
-        "國際"
-      ],
-      "text": "以色列軍方表示，在真主黨對在黎巴嫩南部開展行動的以軍士兵發射一枚反坦克導彈和多枚迫擊炮彈後，目前尚無人員傷亡報告。"
-    },
-    {
-      "id": "4937105",
-      "time": "2026-06-16 04:19:07",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "以色列軍方稱，攔截了多枚真主黨向黎巴嫩南部以軍部隊發射的火箭彈。"
-    },
-    {
-      "id": "4937103",
-      "time": "2026-06-16 04:18:14",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "美國共和黨參議員克魯茲在信函中對私募股權公司Grain Management計劃從T-Mobile美國收購800兆赫茲無線頻譜一事提出質疑。"
-    },
-    {
-      "id": "4937102",
-      "time": "2026-06-16 04:17:04",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗革命衛隊聖城旅指揮官伊斯梅爾·卡尼：真主黨在近期戰事中表現十分出色。哈馬斯將會重建。整個抵抗軸心在此次衝突中展現出強大力量。"
-    },
-    {
-      "id": "4937099",
-      "time": "2026-06-16 04:16:12",
-      "tags": [
-        "其他",
-        "焦點"
-      ],
-      "text": "加拿大將針對部分個人資訊推出“刪除權”法規。"
-    },
-    {
-      "id": "4937098",
-      "time": "2026-06-16 04:16:04",
-      "tags": [
-        "國際"
-      ],
-      "text": "日本衛材將向英國工廠投入6400萬美元，用於注射劑藥品分裝業務。"
-    },
-    {
-      "id": "te:markets:559112",
-      "time": "2026-06-16 04:14:30",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Stock Market",
-        "Importance 2"
-      ],
-      "text": "US Stocks Rally as Oil Slumps on US-Iran Deal — US stocks rallied Monday after the US and Iran reached a preliminary agreement to end the Middle East conflict and reopen the Strait of Hormuz, easing inflation concerns and sending oil prices lower. The S&P 500 rose 1.7%, the Dow Jones gained 469 points to a record high, and the Nasdaq surged 3.1%, its best day since March 31. US crude prices fell 5%, boosting shares of fuel-sensitive companies, with United Airlines climbing 3.9%, Norwegian Cruise Line adding 3.7%, and Carnival Corp rising 3.2%. The drop in oil prices also improved broader market sentiment, supporting gains across growth-oriented sectors, particularly technology stocks. On the corporate front, SpaceX shares soared 15%, extending gains after jumping 19% in their public market debut on Friday. Meanwhile, Fox Corp. tumbled 17% after unveiling plans to acquire Roku in a $22 billion transaction. Investors are now focused on the Federal Reserve’s upcoming policy meeting, where rates are expected to remain unchanged."
-    },
-    {
-      "id": "4937097",
-      "time": "2026-06-16 04:14:19",
-      "tags": [
-        "其他"
-      ],
-      "text": "貝萊德將於明日推出比特幣收益增強型交易所交易基金。"
-    },
-    {
-      "id": "mkt:019ecce8-42b6-7dd8-b016-692b70d978f1",
-      "time": "2026-06-16 04:10:33",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "IRIB: IRGC Quds Force commander said the Bab al-Mandeb Strait is one of the resistance front's trump cards and other options would be used if necessary."
-    },
-    {
-      "id": "4937094",
-      "time": "2026-06-16 04:07:53",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗革命衛隊聖城旅指揮官：曼德海峽是抵抗陣線的一張王牌，如果有必要，其他王牌也將被打出。"
-    },
-    {
-      "id": "4937093",
-      "time": "2026-06-16 04:07:30",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "美國投資公司KKR：即便美伊達成終止衝突的最終協議，當前市場仍低估了未來12至18個月的油價走勢，低估幅度最高可達每桶10美元。"
-    },
-    {
-      "id": "4937092",
-      "time": "2026-06-16 04:07:19",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "美國投資公司KKR：伊朗衝突將促使市場加大對替代性物資運輸通道的投資，以此保障在傳統運輸路線受戰事影響時，區域內貨物運輸能夠持續運轉。"
-    },
-    {
-      "id": "mkt:019ecce3-a09f-7dd8-b016-67addc68b70d",
-      "time": "2026-06-16 04:05:30",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Wall Street (US)",
-        "Dow",
-        "Impact bullish",
-        "S&P500",
-        "Nasdaq100"
-      ],
-      "text": "U.S. stocks closed higher on Monday, June 15: the Dow Jones Industrial Average rose 468.77 points (+0.92%) to 51,671.03; the S&P 500 gained 123.00 points (+1.66%) to 7,554.46; the Nasdaq Composite added 795.10 points (+3.07%) to 26,683.94."
-    },
-    {
-      "id": "4937091",
-      "time": "2026-06-16 04:05:09",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國多名參議員聯合致函埃克森美孚、雪佛龍、殼牌、英國石油以及康菲石油，就戰爭爆發以來各家企業的高額利潤問題提出質詢。"
-    },
-    {
-      "id": "4937090",
-      "time": "2026-06-16 04:04:42",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國愛德華茲空軍基地通告：機場跑道已關閉，所有進港飛機全部備降其他機場。 基地暫停發放所有非公務訪客通行許可，恢復時間另行通知，保障基地全力開展應急處置工作。"
-    },
-    {
-      "id": "4937089",
-      "time": "2026-06-16 04:03:54",
-      "tags": [
-        "市場"
-      ],
-      "text": "福克斯股價收盤下跌17%，創歷史新低。"
-    },
-    {
-      "id": "mkt:019ecce2-1d7a-7dd8-b016-5c6f4040fc43",
-      "time": "2026-06-16 04:03:51",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Toronto Stock Exchange index closed at a record high, surpassing its June 4 peak."
-    },
-    {
-      "id": "4937088",
-      "time": "2026-06-16 04:01:46",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "SpaceX股價上漲20%，市值增加4120億美元。"
-    },
-    {
-      "id": "mkt:019ecce0-2a04-7dd8-b016-53d1e34126e5",
-      "time": "2026-06-16 04:01:43",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Star Stocks",
-        "NVIDIA",
-        "Market Themes",
-        "Magnificent 7",
-        "SPCX.O",
-        "Impact bullish",
-        "NVDA.O",
-        "ORCL.N"
-      ],
-      "text": "【US close: Nasdaq up 3%; SpaceX valuation tops $2.5 trillion】US stocks closed higher Monday: Dow Jones +0.9%, S&P 500 +1.66%, Nasdaq Composite +3.07%. SpaceX (SPCX.O) jumped nearly 20%, pushing its market value above $2.5 trillion. NVIDIA (NVDA.O) rose >3%; Oracle (ORCL.N) gained >4%. Nasdaq Golden Dragon China Index +0.3%; iQiyi (IQ.O) up ~2%."
-    },
-    {
-      "id": "4937087",
-      "time": "2026-06-16 04:00:48",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "【美股收盤：三大股指集體收漲】道指漲0.92%，標普500指數漲1.66%，納指漲3.08%。西部資料漲16.10%，DoorDash漲11.63%，美光漲10.88%，邁威爾科技漲10.49%。“七姐妹”方面：Meta Platforms漲4.72%，英偉達漲3.54%，亞馬遜漲3.16%，谷歌漲2.48%，微軟漲2.30%，蘋果漲1.83%，特斯拉漲1.16%。"
-    },
-    {
-      "id": "4937086",
-      "time": "2026-06-16 04:00:03",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "【納斯達克中國金龍指數收漲0.37%】億航漲14.40%，嘉楠科技漲8.40%，逸仙電商漲7.07%，汽車之家漲6.77%，金山雲漲5.73%。"
-    },
-    {
-      "id": "4937084",
-      "time": "2026-06-16 03:50:07",
-      "tags": [
-        "國際"
-      ],
-      "text": "以色列一名高階官員：以色列官員私下對美伊協議持負面看法，這份協議“對以色列極為不利”；以色列政府上下均持該評價，總理內塔尼亞胡也不例外。"
     }
   ]
 }
