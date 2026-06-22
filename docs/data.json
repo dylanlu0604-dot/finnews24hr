@@ -1,7 +1,48 @@
 {
-  "updated": "2026-06-22 12:31:22",
-  "count": 17296,
+  "updated": "2026-06-22 12:35:31",
+  "count": 17295,
   "items": [
+    {
+      "id": "mkt:019eed9c-0eb2-7dd8-b0b0-0c28f2f57229",
+      "time": "2026-06-22 12:34:47",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Thailand's finance minister expects potential GDP growth to rise from 2.7% to 3% by 2030."
+    },
+    {
+      "id": "4947293",
+      "time": "2026-06-22 12:33:45",
+      "tags": [
+        "市場"
+      ],
+      "text": "巴基斯坦KSE-100指數開盤後上漲0.6%，至180,440點。"
+    },
+    {
+      "id": "4947292",
+      "time": "2026-06-22 12:33:30",
+      "tags": [
+        "市場"
+      ],
+      "text": "美元兌日元震盪攀升，最新上漲0.23%，報161.665。"
+    },
+    {
+      "id": "4947291",
+      "time": "2026-06-22 12:31:38",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【日本或透過出售了美債 為創紀錄規模的日元匯市干預籌資】日本可能動用了其持有的外國證券，其中包括美國國債，為過去一個月創紀錄的匯市干預提供資金，這一舉動可能引起美國方面的關注。根據日本財務省週五公佈的儲備資料，截至5月底，日本持有的外國證券較4月減少756億美元。這一下降規模與日本近期為支撐日元而入市干預的金額大致相當。日本財務省上週確認，截至5月27日，當月用於匯市干預的資金達到創紀錄的11.73萬億日元（734億美元）。一位在報告說明會上發言的財務省官員承認，匯市干預是外匯儲備持倉大幅下降的原因之一，並表示此次降幅為紀錄最大。"
+    },
+    {
+      "id": "4947290",
+      "time": "2026-06-22 12:30:45",
+      "tags": [
+        "國際"
+      ],
+      "text": "【以色列軍方電臺：過去48小時黎巴嫩戰事暫停】據以色列軍方電臺報道，過去48小時，黎巴嫩境內的戰鬥和真主黨發動的越境襲擊均暫停。"
+    },
     {
       "id": "4947289",
       "time": "2026-06-22 12:30:10",
@@ -159027,58 +159068,6 @@
         "國際"
       ],
       "text": "印度NIFTY汽車指數上漲2.62%。"
-    },
-    {
-      "id": "te:markets:558902",
-      "time": "2026-06-15 12:35:24",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "India",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "Sensex Hits 5-Week High — India’s BSE Sensex rose about 1.6% to 76,670 at the open on Monday, reaching its highest level since early May, as investors joined a broad global risk rally following reports of a breakthrough peace agreement between the US and Iran. The development boosted risk appetite ahead of a memorandum of understanding set to be signed in Switzerland on Friday, raising hopes of easing geopolitical tensions and reducing risks to global energy supplies. Brent crude prices also fell more than 4% to around $83 per barrel, the lowest since March. Meanwhile, investors are also monitoring the upcoming US Federal Reserve policy decision for signals on the future path of interest rates. Financials, technology, and consumer durables were among the top-performing sectors. Among individual stocks, HDFC (+2.3%), BSE (+3.5%), Billionbrains (+2.5%), IFCI (+2.9%), L&T (+3.5%), and Ashok (+5.2%) were notable gainers, while MTAR (-0.7%), Data Patterns (-2.9%), and Paras (-1.7%) declined"
-    },
-    {
-      "id": "4935510",
-      "time": "2026-06-15 12:35:23",
-      "tags": [
-        "其他"
-      ],
-      "text": "理想汽車：理想汽車軟體與具身智慧釋出會，今天16:30，我們不見不散。"
-    },
-    {
-      "id": "4935509",
-      "time": "2026-06-15 12:32:34",
-      "tags": [
-        "公司"
-      ],
-      "text": "中國智譜：預計該模型將助益本公司後續開放平臺及API業務的呼叫量提升。"
-    },
-    {
-      "id": "mkt:019ec98d-8284-7dd8-affe-94aec427be29",
-      "time": "2026-06-15 12:32:34",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Al Arabiya reported Israeli media, citing sources, that the Israeli cabinet backs Netanyahu's policy on Lebanon; Tel Aviv insists on its security interests in Lebanon."
-    },
-    {
-      "id": "4935508",
-      "time": "2026-06-15 12:32:04",
-      "tags": [
-        "其他"
-      ],
-      "text": "中國智譜：已推出最新一代旗艦模型GLM-5.2。"
-    },
-    {
-      "id": "4935507",
-      "time": "2026-06-15 12:31:27",
-      "tags": [
-        "公司"
-      ],
-      "text": "【麥格理：智譜料將受益於新開源模型的釋出】麥格理資本的Ellie Jiang在一份研究報告中表示，智譜料將受益於其新開源模型的釋出。這位亞洲網際網路和媒體研究主管表示，GLM-5.2的釋出可能會增強該公司在後續訂閱計劃中的定價能力，這應會繼續推動強勁的年度經常性收入勢頭。她補充說，關鍵的催化劑包括新模型的API計劃和定價細節，以及獨立的基準測試覆蓋範圍。麥格理資本維持對該股的跑贏大盤評級，12個月目標價為1,221.40港元。"
     }
   ]
 }
