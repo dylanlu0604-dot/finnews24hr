@@ -1,7 +1,111 @@
 {
-  "updated": "2026-06-22 23:27:00",
-  "count": 17326,
+  "updated": "2026-06-22 23:31:12",
+  "count": 17336,
   "items": [
+    {
+      "id": "te:markets:560843",
+      "time": "2026-06-22 23:30:00",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Colombia",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "Colombian Peso Surges to 6-Year High — The Colombian peso surged to 3,425 per USD in June, around the strongest in six years, after rightwing presidential candidate de la Espriella won the presidential elections runoff. The President-elect, seen as an outsider, won the run-off after against leftist Cepeda, who was backed by outgoing President Petro, following the surprise first round win. The surge in the peso tracked similar moves for other Colombian asset classes. Espriella had pledged to cut Colombia's growing budget deficit amid the country's increasingly tight public finances, with last year's shortfall coming at 6.4% of the GDP, a reason cited by the central bank to hold rates restrictive. At the same time, the candidate also pledged to back coal mining and oil drilling in Colombia, which face opposition from the incumbent government."
+    },
+    {
+      "id": "4948735",
+      "time": "2026-06-22 23:28:59",
+      "tags": [
+        "國際"
+      ],
+      "text": "【日本民眾抗議日美軍演攪動地區局勢】日美聯合軍演攪動地區局勢，引發日本民眾強烈反對和擔憂。日本民眾提出抗議，要求停止軍演，避免加劇地區緊張。（CCTV國際時訊）"
+    },
+    {
+      "id": "4948734",
+      "time": "2026-06-22 23:28:42",
+      "tags": [
+        "國際"
+      ],
+      "text": "白宮新聞秘書萊維特：自2025年美國政府入股以來，英特爾股價暴漲494%。"
+    },
+    {
+      "id": "te:markets:560841",
+      "time": "2026-06-22 23:28:28",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Coffee Prices Below Recent Highs — Arabica coffee futures traded around $2.70 per pound, after touching May highs earlier in the month, supported by a stronger US dollar and signs of progress in US-Iran negotiations. The closure of the Strait of Hormuz has tightened coffee supply chains by pushing up global shipping, insurance, fertiliser, and fuel costs, increasing pressure on coffee importers and roasters. At the same time, traders are closely monitoring the El Niño weather pattern, with attention extending beyond the current harvest to its potential impact on Brazil’s 2026/27 production cycle. Coffee trader Commercial noted that El Niño could delay seasonal rains in Brazil this September and October, a critical period for tree flowering, potentially weighing on the country’s upcoming crop. Brazil’s coffee harvest for the 2026/27 season has reached 39% of the planted area as of June 17, according to Safras & Mercado, below 43% a year earlier and slightly under the five-year average of 40%."
+    },
+    {
+      "id": "4948733",
+      "time": "2026-06-22 23:28:06",
+      "tags": [
+        "市場"
+      ],
+      "text": "奈飛股價下跌高達4.6%，跌破斐波那契50%回撥位。"
+    },
+    {
+      "id": "4948732",
+      "time": "2026-06-22 23:27:48",
+      "tags": [
+        "國際"
+      ],
+      "text": "白俄羅斯與塞爾維亞計劃簽署社會及勞動領域合作諒解備忘錄。"
+    },
+    {
+      "id": "4948731",
+      "time": "2026-06-22 23:27:42",
+      "tags": [
+        "其他"
+      ],
+      "text": "巴西國家開發銀行（BNDES）行長梅爾卡丹特：盧拉要求本行盤活其股權組合，投資人工智慧與生物技術領域。"
+    },
+    {
+      "id": "mkt:019eeff1-b078-7dd8-b0c1-58f17893bffa",
+      "time": "2026-06-22 23:27:34",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "IRNA said Iran's interactions with the International Atomic Energy Agency will continue under existing procedures."
+    },
+    {
+      "id": "4948730",
+      "time": "2026-06-22 23:27:07",
+      "tags": [
+        "國際"
+      ],
+      "text": "巴基斯坦常駐聯合國安理會代表：在地區局勢脆弱的大環境下，敘利亞領導層展現出的治理智慧，以及其聚焦本國核心要務與戰後重建的做法值得肯定。"
+    },
+    {
+      "id": "mkt:019eeff1-2ccf-7dd8-b0c1-51d78b6de4e7",
+      "time": "2026-06-22 23:27:00",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Iran's foreign ministry spokesperson said Tehran did not negotiate the nuclear issue in talks in Switzerland on Sunday and did not accept any new commitments."
+    },
+    {
+      "id": "4948729",
+      "time": "2026-06-22 23:26:37",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗外交部發言人：德黑蘭並未就核問題進行談判，且在週日於瑞士舉行的會談中未接受任何新承諾。"
+    },
+    {
+      "id": "4948728",
+      "time": "2026-06-22 23:26:25",
+      "tags": [
+        "國際"
+      ],
+      "text": "印度國防秘書拉傑什·庫馬爾·辛格於2026年6月22日會見以色列國防部總司長、退役少將阿米爾·巴拉姆。雙方會談重點圍繞透過聯合研發、聯合生產，以及在下一代軍事技術與先進國防裝備領域開展協作，深化印以防務合作展開。"
+    },
     {
       "id": "4948727",
       "time": "2026-06-22 23:25:24",
@@ -45,6 +149,15 @@
         "國際"
       ],
       "text": "印度航空執行長威爾遜：本人任期已進入最後階段，普拉迪普·辛格·卡羅拉的經驗將助力實現向新任執行長的平穩交接。"
+    },
+    {
+      "id": "em:qqyh_mlc:202606223778441927",
+      "time": "2026-06-22 23:23:06",
+      "tags": [
+        "央行",
+        "美聯儲"
+      ],
+      "text": "【RBC策略師稱美股能夠承受美聯儲進行兩次左右的加息】RBCCapitalMarkets的LoriCalvasina表示，只要美聯儲的緊縮週期保持適度，美國股市應該能夠承受加息。“只要未來12個月內進行兩次左右幅度分別為25個基點的加息，我認為股市最終會安好，”該銀行美國股票策略主管Calvasina週一表示，“股市似乎能承受一切適度進行。”上週的美聯儲政策會議令交易員猝不及防，美聯儲新任主席凱文·沃什明確表示不會容忍高通脹。不過，美股在因假期而縮短的交易周仍實現上漲，為連續第二週上漲，也是過去12周內的第11次上漲。標普500指數自3月30日觸及2026年低點以來已上漲18%。"
     },
     {
       "id": "4948723",
@@ -159198,35 +159311,6 @@
         "國際"
       ],
       "text": "【王毅同尼泊爾外長希西爾會談】2026年6月15日，中共中央政治局委員、外交部長王毅在北京同尼泊爾新任外長希西爾舉行會談。（外交部網站）"
-    },
-    {
-      "id": "4936896",
-      "time": "2026-06-15 23:30:54",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "以色列中央統計局：5 月居民消費價格指數同比上漲 1.9%，4 月同比漲幅同為 1.9%。 5 月居民消費價格指數環比下降 0.3%，4 月環比上漲 1.2%。"
-    },
-    {
-      "id": "te:economy:559084",
-      "time": "2026-06-15 23:30:05",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Bonds",
-        "Importance 1"
-      ],
-      "text": "Bonds Update: Brazil 10Y Bond Yield Falls by 11 bps — Government bonds yields are lower on Monday. Top losers are Brazil 10Y (-11bps), Japan 10Y (-5.98bps), Germany 10Y (-4.68bps) and US 10Y (-2.60bps)."
-    },
-    {
-      "id": "4936895",
-      "time": "2026-06-15 23:29:40",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "伊朗外交部長：談判代表團團長大機率將於週五在瑞士舉行會晤。"
     }
   ]
 }
