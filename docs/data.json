@@ -1,7 +1,140 @@
 {
-  "updated": "2026-06-22 21:34:06",
-  "count": 17284,
+  "updated": "2026-06-22 21:38:17",
+  "count": 17278,
   "items": [
+    {
+      "id": "4948554",
+      "time": "2026-06-22 21:36:58",
+      "tags": [
+        "市場",
+        "觀點"
+      ],
+      "text": "VISTEON股價上漲7%，此前摩根大通將其評級從中性上調至增持。"
+    },
+    {
+      "id": "4948553",
+      "time": "2026-06-22 21:36:35",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "谷歌股價下跌3.37%，報355.610美元/股，總市值報4.33萬億美元。"
+    },
+    {
+      "id": "4948552",
+      "time": "2026-06-22 21:36:33",
+      "tags": [
+        "市場"
+      ],
+      "text": "巴西支付平臺 Picpay 因警方調查涉嫌欺詐，股價下跌 7%。"
+    },
+    {
+      "id": "4948551",
+      "time": "2026-06-22 21:36:27",
+      "tags": [
+        "市場"
+      ],
+      "text": "國民西敏寺銀行上漲3.8%，勞埃德銀行上漲3.5%，巴克萊銀行上漲3.2%。"
+    },
+    {
+      "id": "4948550",
+      "time": "2026-06-22 21:36:07",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "瀝青連續主力合約日內跌3%，現報3799.00元。"
+    },
+    {
+      "id": "4948549",
+      "time": "2026-06-22 21:36:04",
+      "tags": [
+        "市場"
+      ],
+      "text": "ALPHABET股價下跌3.7%。"
+    },
+    {
+      "id": "4948548",
+      "time": "2026-06-22 21:35:58",
+      "tags": [
+        "市場"
+      ],
+      "text": "英國銀行股上漲，富時350銀行指數上漲2.3%。"
+    },
+    {
+      "id": "mkt:019eef8b-7110-7dd8-b0bf-7d54d5c7619a",
+      "time": "2026-06-22 21:35:53",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Alphabet",
+        "Market Themes",
+        "Magnificent 7",
+        "GOOG.O",
+        "Impact bearish",
+        "Nasdaq100",
+        "S&P500"
+      ],
+      "text": "Alphabet (GOOG.O) opened down 3.7%."
+    },
+    {
+      "id": "4948547",
+      "time": "2026-06-22 21:35:44",
+      "tags": [
+        "其他"
+      ],
+      "text": "【我國科研團隊揭示“引力子模”的起源】“凝聚態物質中引力子模的實驗發現”是2024年度“中國科學十大進展”之一。記者6月22日從該成果主要完成人、南京大學教授杜靈傑處獲悉，近日他和團隊確認此前觀測到的“引力子模”源自關聯電子中“部分子”的幾何振盪。國際學術期刊《自然·物理》22日線上發表相關新成果。（新華社）"
+    },
+    {
+      "id": "mkt:019eef8a-a940-7dd8-b0bf-73a42b791971",
+      "time": "2026-06-22 21:35:02",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "S&P assigned a \"BBB\" rating with a stable outlook to SpaceX (SPCX.O)'s proposed senior notes."
+    },
+    {
+      "id": "4948546",
+      "time": "2026-06-22 21:34:44",
+      "tags": [
+        "其他"
+      ],
+      "text": "西班牙IBEX35指數日內漲幅達1.00%。"
+    },
+    {
+      "id": "mkt:019eef8a-546c-7dd8-b0bf-6ec7e520e21f",
+      "time": "2026-06-22 21:34:40",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "Spain's IBEX 35 was up 1.00% intraday."
+    },
+    {
+      "id": "mkt:019eef8a-47e5-7dd8-b0bf-65daf08d29cc",
+      "time": "2026-06-22 21:34:37",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Qatar's energy minister said there is no security issue, but the ministry will draw lessons from the incident."
+    },
+    {
+      "id": "4948545",
+      "time": "2026-06-22 21:34:31",
+      "tags": [
+        "其他"
+      ],
+      "text": "標普將 SpaceX 擬發行高階債券評級定為 BBB，展望穩定。"
+    },
+    {
+      "id": "4948544",
+      "time": "2026-06-22 21:34:16",
+      "tags": [
+        "其他"
+      ],
+      "text": "卡達：目前不存在安全隱患，但我們會從各類事故中吸取經驗教訓。"
+    },
     {
       "id": "4948543",
       "time": "2026-06-22 21:33:25",
@@ -158646,203 +158779,6 @@
         "公司"
       ],
       "text": "【皮爾法伯集團畢太維®（恩考芬尼）和美妥維®（貝美替尼）聯合療法在華獲批】皮爾法伯集團6月15日宣佈，畢太維®（恩考芬尼）和美妥維®（貝美替尼）的聯合療法已獲得中國國家藥品監督管理局正式批准，用於治療BRAFV600E突變型轉移性非小細胞肺癌（NSCLC）成人患者。"
-    },
-    {
-      "id": "4936754",
-      "time": "2026-06-15 21:37:59",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "PTA連續主力合約日內跌3%，現報5882.00元。"
-    },
-    {
-      "id": "4936753",
-      "time": "2026-06-15 21:37:58",
-      "tags": [
-        "市場"
-      ],
-      "text": "Roku股價盤前走勢反轉，現下跌1.2%。"
-    },
-    {
-      "id": "4936752",
-      "time": "2026-06-15 21:37:38",
-      "tags": [
-        "其他"
-      ],
-      "text": "德國總理默茨：協議也必須在黎巴嫩得到遵守。"
-    },
-    {
-      "id": "mkt:019ecb80-829b-7dd8-b00f-cc50f61d403a",
-      "time": "2026-06-15 21:37:37",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "German Chancellor Merz said the agreement must be implemented in Lebanon."
-    },
-    {
-      "id": "mkt:019ecb80-4ab2-7dd8-b00f-c5df0d34b23d",
-      "time": "2026-06-15 21:37:22",
-      "tags": [
-        "MKT News",
-        "UAL.O",
-        "Impact bullish",
-        "DAL.O",
-        "LUV.O"
-      ],
-      "text": "U.S. airline stocks rallied: JetBlue Airways up 10.0%, Alaska Air Group up 8.0%, United Airlines up 6.3%, Delta Air Lines up 4.2%, Southwest Airlines up 4.2% and American Airlines up 3.8%. The S&P Composite 1500 Airlines Index rose 5% to its highest level in more than seven years."
-    },
-    {
-      "id": "4936751",
-      "time": "2026-06-15 21:37:20",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【霍爾木茲海峽等候通行船隻增加 安全成首要關切】據彭博社15日報道，美國和伊朗14日宣佈達成停戰諒解備忘錄後，在霍爾木茲海峽周圍等候通行的船隻增加，但船東和運營商目前仍普遍持謹慎態度，表示需要了解更多細節以評估是否能安全透過該海峽。報道援引市場服務機構克普勒公司的分析說，海灣數百艘閒置船隻中，近300艘已裝載並隨時準備透過霍爾木茲海峽，阿曼灣也有大約同樣數量的船隻在等待返回主要出口碼頭。理論上，這將釋放數百萬桶原油供應，但實際通行仍面臨多重障礙，包括需清除船體附著物，以及爭奪狹窄航道通行權等問題。黑曜石風險諮詢公司管理合夥人佈雷特·埃裡克森表示，安全問題是所有船東考量的核心。“航運業、船長及船員對此高度警覺。他們清楚一次誤判、一次攻擊或一次政治決策，都可能導致局勢嚴重惡化。”美以伊戰事爆發前，經霍爾木茲海峽運輸的石油通常為日均2000萬桶，約佔全球石油日運輸總量的五分之一。航運業機構估計，經過3個多月的衝突，約有500艘商船仍滯留在海灣，通行量當前降至涓流狀態。（新華社）"
-    },
-    {
-      "id": "mkt:019ecb7f-ed8c-7dd8-b00f-bfd2f35ff7a6",
-      "time": "2026-06-15 21:36:59",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Kuwait Civil Aviation Authority says Terminal 4 at Kuwait International Airport has resumed limited operations for Gulf, other Arab and foreign carriers."
-    },
-    {
-      "id": "4936750",
-      "time": "2026-06-15 21:36:53",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "納斯達克中國金龍指數漲超1%，嘉楠科技漲13.84%，億航漲10.86%，再鼎醫藥漲5.59%，迅雷漲5.16%，金山雲漲5.31%。"
-    },
-    {
-      "id": "4936749",
-      "time": "2026-06-15 21:36:43",
-      "tags": [
-        "國際"
-      ],
-      "text": "德國總理默茨就伊朗問題表態：相關協議或將為全球經濟穩定鋪平道路。"
-    },
-    {
-      "id": "te:markets:559074",
-      "time": "2026-06-15 21:36:26",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Stock Market",
-        "Importance 2"
-      ],
-      "text": "US Stocks Rise Sharply on Iran-US Deal — US equities were sharply higher on Monday after the US and Iran said they agreed to a deal that ends their war and restores energy exports from the Middle East. The S&P 500 gained 1.5%, the Nasdaq rose over 2%, and the Dow gained over 1%. The deal was set to be signed on Friday, with reports indicating it includes Iran cleaning the Strait of Hormuz from mines and naval blockades being lifted for all exports from the Persian Gulf. Energy prices and bond yields fell, improving macroeconomic conditions and boosting risk demand in the heavyweight tech sector. Nvidia, Amazon, Meta, and Oracle gained around 3%. Meanwhile, SpaceX was 6% higher following its 20% surge on its IPO day last session after CEO Musk signaled it may have $1 trillion in revenue in 2031. Chip producers continued to rally on more cash being raised by AI developers and the influx of orders that translates for AI infrastructure companies. In turn, the defensive sectors were lower, with J&J dropping 2.5%."
-    },
-    {
-      "id": "4936748",
-      "time": "2026-06-15 21:36:00",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "標普綜合1500航空公司指數上漲5%，創七年多新高。"
-    },
-    {
-      "id": "4936747",
-      "time": "2026-06-15 21:35:47",
-      "tags": [
-        "公司"
-      ],
-      "text": "科威特民航局：科威特恢復海灣、阿拉伯及外國航空公司在科威特國際機場4號航站樓的有限運營。"
-    },
-    {
-      "id": "4936746",
-      "time": "2026-06-15 21:35:17",
-      "tags": [
-        "國際"
-      ],
-      "text": "【馬克龍：不會屈從美方威脅而取消數字稅】法國總統馬克龍15日回應美國總統特朗普的關稅威脅時說，法國不會屈從美方威脅而取消針對美國科技巨頭的數字稅。馬克龍當天在法國埃維昂萊班接受法國電視一臺採訪時說，數字稅是歐洲法律體系的一部分，一些國家已經實施，美國無權替歐洲人或法國人制定法律。特朗普當天早些時候稱，美國將對法國葡萄酒徵收100%的關稅，除非法國取消針對美國科技巨頭的數字稅。馬克龍就此回應說，加徵關稅對美國沒有好處，因為這無法解決美國的貿易問題，反而推高了某些商品的價格。他希望與特朗普進行討論，透過協商解決這些問題。（新華社）"
-    },
-    {
-      "id": "mkt:019ecb7e-61e5-7dd8-b00f-b7d0b9b2f13f",
-      "time": "2026-06-15 21:35:17",
-      "tags": [
-        "MKT News",
-        "DXY",
-        "Impact bullish",
-        "EURUSD",
-        "Impact bearish",
-        "S&P500"
-      ],
-      "text": "【Macron: France will not yield to US tariff threats or cancel digital tax】French President Macron said on the 15th he will not yield to U.S. President Trump’s tariff threats and will not cancel France’s digital tax targeting U.S. tech giants. Speaking in Evian-les-Bains on public television, Macron said the levy is part of Europe’s legal framework, some countries have already implemented it, and the U.S. has no right to set laws for Europeans or the French."
-    },
-    {
-      "id": "4936745",
-      "time": "2026-06-15 21:35:07",
-      "tags": [
-        "市場"
-      ],
-      "text": "標普500工業指數創下自3月以來的首個歷史最高紀錄。"
-    },
-    {
-      "id": "mkt:019ecb7e-1f17-7dd8-b00f-ac2cde5ddb9f",
-      "time": "2026-06-15 21:35:00",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "S&P500",
-        "Impact bearish"
-      ],
-      "text": "The S&P 500 Energy index fell 4.5%, its largest decline since 2025."
-    },
-    {
-      "id": "4936744",
-      "time": "2026-06-15 21:34:56",
-      "tags": [
-        "市場"
-      ],
-      "text": "標普500能源指數下跌4.5%，或將創2025年以來最大跌幅。"
-    },
-    {
-      "id": "mkt:019ecb7d-cd6c-7dd8-b00f-a114c4701f33",
-      "time": "2026-06-15 21:34:39",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Wall Street (US)",
-        "S&P500",
-        "Impact bullish"
-      ],
-      "text": "S&P 500 Industrials index hit its first record high since March."
-    },
-    {
-      "id": "mkt:019ecb7d-69e0-7dd8-b00f-9a4ffe6ad43e",
-      "time": "2026-06-15 21:34:14",
-      "tags": [
-        "MKT News",
-        "FOXA.O",
-        "Impact bearish",
-        "ROKU.O"
-      ],
-      "text": "Fox Corporation to acquire streaming platform Roku for $22 bln; Fox shares plunged 14%, the largest one-day drop in the company's history; Roku (ROKU.O) down 1.6%."
-    },
-    {
-      "id": "4936743",
-      "time": "2026-06-15 21:34:11",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "聚丙烯連續主力合約日內跌2%，現報8196.00元。"
-    },
-    {
-      "id": "4936742",
-      "time": "2026-06-15 21:34:08",
-      "tags": [
-        "市場"
-      ],
-      "text": "多倫多綜合股指<.GSPTSE>盤中創下歷史新高，突破了6月4日的峰值。"
     }
   ]
 }
