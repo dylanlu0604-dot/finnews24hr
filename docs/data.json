@@ -1,7 +1,124 @@
 {
-  "updated": "2026-06-22 15:12:37",
-  "count": 17270,
+  "updated": "2026-06-22 15:16:49",
+  "count": 17258,
   "items": [
+    {
+      "id": "te:markets:560700",
+      "time": "2026-06-22 15:16:02",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "China",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The Shangai Composite Index Closes 1.81% Higher — The Shangai Composite Index gained 74 points or 1.81 percent on Monday to close at 4164 points. Gains were led by New China Life (10.01%), Sanan Optoelectron (9.98%) and Hengli Petrochemical (8.77%)."
+    },
+    {
+      "id": "4947555",
+      "time": "2026-06-22 15:15:17",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "伊朗伊斯蘭共和國通訊社報道：伊朗代表團結束瑞士會談後返回德黑蘭。"
+    },
+    {
+      "id": "mkt:019eee2e-cab0-7dd8-b0b3-5675f19707c7",
+      "time": "2026-06-22 15:15:04",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "India's trade minister said India aims to secure preferential market access through a trade agreement with the United States."
+    },
+    {
+      "id": "4947554",
+      "time": "2026-06-22 15:15:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "【國債期貨收盤】 30年期主力合約漲0.15%， 10年期主力合約漲0.01%， 5年期主力合約漲0.01%， 2年期主力合約漲0.01%。"
+    },
+    {
+      "id": "4947553",
+      "time": "2026-06-22 15:15:00",
+      "tags": [
+        "國際"
+      ],
+      "text": "印度貿易部長：印度正尋求透過與美國的貿易協定獲得優惠准入待遇。"
+    },
+    {
+      "id": "4947551",
+      "time": "2026-06-22 15:14:39",
+      "tags": [
+        "央行",
+        "市場",
+        "觀點"
+      ],
+      "text": "【高盛預計央行購金速度將小幅放緩，但仍將持續為金價託底】高盛預測，2026年央行將持續以每月50噸的速度購入黃金，2027年放緩至每月40噸。而即便月度購金速度較前期峰值有所回落，這一趨勢仍為金價提供了持久的結構性底部支撐。創紀錄比例的央行表示有意增持黃金儲備，這一需求背景為金價下行風險提供了實質性的緩衝。高盛的預測意味著，即便月度資料有所波動，央行需求仍將在未來兩年內成為金價最持續的結構性支撐因素之一。世界黃金協會在2月至5月期間對76家央行進行的另一項調查也支援這一觀點。創紀錄的45%受訪者表示，他們預計未來12個月內將增持黃金儲備，這是該調查歷史上的最高水平。約90%的受訪者預計同期全球央行黃金持有量將上升，其餘受訪者預計將大致保持穩定。沒有受訪者預計會出現下降。"
+    },
+    {
+      "id": "4947550",
+      "time": "2026-06-22 15:13:12",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "倫敦證券交易所集團（LSEG）資料顯示，德國場外交易日前基荷電力價格為180歐元/兆瓦時，較上週五週一交割的價格上漲45%。"
+    },
+    {
+      "id": "4947549",
+      "time": "2026-06-22 15:11:57",
+      "tags": [
+        "其他"
+      ],
+      "text": "易捷航空：董事會還指出，擬議的所有權結構不透明，且沒有提供任何依據來評估第三份提案能否落實。"
+    },
+    {
+      "id": "4947548",
+      "time": "2026-06-22 15:11:52",
+      "tags": [
+        "公司"
+      ],
+      "text": "【阿里旗下平頭哥半導體增資至10億元】企查查APP顯示，近日，平頭哥（上海）半導體技術有限公司發生工商變更，註冊資本由3億元增加至10億元，增幅約為233.33%。企查查顯示，該公司成立於2018年11月，法定代表人為包文俊，現由平頭哥（上海）電子技術有限公司全資持股。官網顯示，平頭哥半導體為阿里巴巴集團全資半導體晶片業務主體，具備成熟的晶片研發體系及晶片端到端全鏈路研發能力。"
+    },
+    {
+      "id": "mkt:019eee2b-9d1b-7dd8-b0b3-4d0d839a3603",
+      "time": "2026-06-22 15:11:36",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "【Goldman Sachs: central bank gold buying to slow slightly but remain a structural floor for prices】Goldman Sachs forecasts central banks will buy gold at roughly 50 t/month in 2026, slowing to about 40 t/month in 2027. Although below prior peaks, Goldman says the sustained buying trend will provide a durable structural floor for gold prices and materially buffer downside risk. A World Gold Council survey of 76 central banks conducted Feb–May supports this: a record 45% expect to increase gold reserves in the next 12 months; about 90% expect global central bank gold holdings to rise and none expect a decline."
+    },
+    {
+      "id": "4947547",
+      "time": "2026-06-22 15:11:33",
+      "tags": [
+        "公司"
+      ],
+      "text": "【寧波華翔投資成立機器人新公司 含多項AI業務】企查查APP顯示，近日，華翔啟源（北京）機器人有限公司成立，經營範圍包含：人工智慧公共資料平臺；人工智慧公共服務平臺技術諮詢服務；人工智慧基礎資源與技術平臺等。企查查股權穿透顯示，該公司由寧波華翔(002048)旗下寧波華翔啟源科技有限公司全資持股。"
+    },
+    {
+      "id": "4947546",
+      "time": "2026-06-22 15:11:23",
+      "tags": [
+        "宏觀",
+        "兩會"
+      ],
+      "text": "【王滬寧主持召開全國政協主席會議】政協第十四屆全國委員會第五十二次主席會議22日在京召開。中共中央政治局常委、全國政協主席王滬寧主持並講話。會議傳達學習貫徹習近平總書記近期重要講話和重要指示精神。王滬寧表示，習近平黨建思想對強黨強國具有重大現實意義和長遠指導意義，在習近平新時代中國特色社會主義思想中有著特殊重要的地位，要持續推動學習貫徹習近平黨建思想走深走實，把學習成效體現到堅持人民政協性質定位、充分發揮專門協商機構作用、聚焦黨和國家中心任務履職盡責的實際行動和工作成效上。要深入學習貫徹習近平總書記對常態化做好東西部協作工作的重要指示精神，圍繞促進區域協調發展、推進鄉村全面振興、推動全體人民共同富裕等積極建言獻策。要深入學習貫徹習近平總書記關於前瞻佈局和發展未來產業的重要論述，引導經濟界、科技界等相關界別政協委員透過視察考察調研、提案、社情民意資訊等提出意見和建議。要深入學習貫徹習近平總書記關於一體推進教育科技人才發展的重要論述，聚焦建立健全教育科技人才一體推進協調機制、加快建設國家戰略人才力量等重點問題，深入調查研究、協商議政，助力推動科技自主創新和人才自主培養。（新華社）"
+    },
+    {
+      "id": "4947545",
+      "time": "2026-06-22 15:11:10",
+      "tags": [
+        "其他"
+      ],
+      "text": "【鏈博會“朋友圈”持續擴容 首日舉辦多場高關注度活動】第四屆鏈博會以“連結世界，共創未來”為主題，設定“6鏈1展區”，分別是數智科技鏈、先進製造鏈、綠色農業鏈、健康生活鏈、智慧汽車鏈、清潔能源鏈和供應鏈服務展區。今天下午還將舉辦十多場會議活動，其中有多場關注度都非常高。比如下午的貿促智庫交流活動現場將釋出《全球供應鏈促進報告2026》；中澳關於可再生能源產業的合作對接會也在下午舉行；同時還有多場的城市推介活動和供需對接會。在這些活動上，不僅可以看到多項重要成果釋出，還會見證多個重要的合作簽約儀式。（央視新聞）"
+    },
     {
       "id": "4947544",
       "time": "2026-06-22 15:10:41",
@@ -158637,255 +158754,6 @@
         "國際"
       ],
       "text": "馬士基股價在美國與伊朗達成和平協議的訊息傳出後下跌4%。"
-    },
-    {
-      "id": "mkt:019eca23-d594-7dd8-b002-a215443241e5",
-      "time": "2026-06-15 15:16:46",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "EURUSD",
-        "Impact bullish",
-        "DXY",
-        "Impact bearish"
-      ],
-      "text": "ECB Governing Council member NAGEL said he cannot rule out second-round effects from energy."
-    },
-    {
-      "id": "4935821",
-      "time": "2026-06-15 15:16:38",
-      "tags": [
-        "其他"
-      ],
-      "text": "英國首相斯塔默：多數家長都會支援這一舉措。"
-    },
-    {
-      "id": "4935820",
-      "time": "2026-06-15 15:16:35",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "歐洲央行納格爾：即便霍爾木茲海峽很快恢復通航，石油供應也需要數月時間才能迴歸正常。歐洲央行在七月會議上對所有選項保持開放。歐洲央行面臨的已不再是短期供應衝擊。歐洲央行的政策設定仍然大致中性。"
-    },
-    {
-      "id": "mkt:019eca23-a41e-7dd8-b002-9f176fc90e07",
-      "time": "2026-06-15 15:16:33",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "ECB Governing Council member Nagel said the ECB's policy stance remains broadly neutral."
-    },
-    {
-      "id": "te:economy:558961",
-      "time": "2026-06-15 15:16:28",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Switzerland",
-        "Producer Prices Change",
-        "Importance 1"
-      ],
-      "text": "Swiss Producer and Import Deflation Eases — Swiss producer and import prices fell 1.8% year-on-year in May 2026, easing from a 2.0% decline in April and marking the softest pace of deflation in five months, though extending a three-year streak of falling prices. The moderation was driven by a slower decline in import prices, which fell 0.2% after dropping 1.0% in April, while producer prices fell 2.5%, slightly deeper than the previous month's 2.4% decline. On a monthly basis, the producer and import price index fell 0.4%, missing expectations for a 0.4% increase and reversing April's 0.8% gain. Lower prices for pharmaceutical products, petroleum and natural gas, petroleum products, and electricity weighed on the index, while plastic products, basic metals, and other chemical products became more expensive."
-    },
-    {
-      "id": "mkt:019eca23-8934-7dd8-b002-95cd95a79e8c",
-      "time": "2026-06-15 15:16:26",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK",
-        "EURUSD",
-        "Impact bearish",
-        "DXY",
-        "Impact bullish"
-      ],
-      "text": "ECB Governing Council member Nagel said the ECB is no longer facing a short-term supply shock."
-    },
-    {
-      "id": "mkt:019eca23-736c-7dd8-b002-8c6d984d6eef",
-      "time": "2026-06-15 15:16:21",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "【China government bond futures midday close】At midday, China government bond futures most-active contracts: 2-year (TS) rose 0.02%, 5-year (TF) rose 0.04%, 10-year (T) rose 0.06%, 30-year (TL) rose 0.25%."
-    },
-    {
-      "id": "4935819",
-      "time": "2026-06-15 15:16:19",
-      "tags": [
-        "公司"
-      ],
-      "text": "【上汽集團等入股具身智慧機器人公司璇璣動力】天眼查 App 顯示，近日，深圳璇璣動力科技有限公司發生工商變更，新增東方精工（002611）、上汽集團（600104）旗下上海上汽創遠創業投資合夥企業（有限合夥）等為股東，同時註冊資本由約5777.8萬人民幣增至約6733.3萬人民幣。 該公司成立於2024年6月，法定代表人為歐迪，經營範圍包括智慧機器人的研發、電機制造、電機及其控制系統研發、智慧機器人銷售等，現由共青城玖璞私募基金管理有限公司、深圳天成璇璣科技合夥企業（有限合夥）及上述新增股東等共同持股。官網資訊顯示，該公司是一家專注於行業級、消費級高效能通具身智慧機器人本體及核心零部件的全棧自研、生產與銷售企業。"
-    },
-    {
-      "id": "mkt:019eca23-596e-7dd8-b002-83e54cec9a1f",
-      "time": "2026-06-15 15:16:14",
-      "tags": [
-        "MKT News",
-        "Macro & Rates"
-      ],
-      "text": "ECB Governing Council member Nagel said the central bank is keeping all options open for its July meeting."
-    },
-    {
-      "id": "4935818",
-      "time": "2026-06-15 15:16:06",
-      "tags": [
-        "其他"
-      ],
-      "text": "沙特方面重申，霍爾木茲海峽通航狀態應恢復至戰前水平。"
-    },
-    {
-      "id": "te:markets:558960",
-      "time": "2026-06-15 15:16:00",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "China",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The Shangai Composite Index Closes 1.63% Higher — The Shangai Composite Index gained 66 points or 1.63 percent on Monday to close at 4097 points. Gains were led by Sanan Optoelectron (9.99%), China Molybdenum (9.26%) and Datang Intl (7.79%)."
-    },
-    {
-      "id": "4935817",
-      "time": "2026-06-15 15:15:54",
-      "tags": [
-        "國際"
-      ],
-      "text": "沙特歡迎美國與伊朗達成終止軍事行動的協議。"
-    },
-    {
-      "id": "4935816",
-      "time": "2026-06-15 15:15:48",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "原油價格受伊朗協議影響下跌，歐洲油氣股領跌大盤。挪威國家石油海德魯（Equinor）、道達爾能源（TotalEnergies）、埃尼石油（Eni）、英國石油（BP）、殼牌（Shell）、耐斯特（Neste）、雷普索爾（Repsol）股價下跌3.5%至5%不等。"
-    },
-    {
-      "id": "mkt:019eca22-d1f9-7dd8-b002-7d6c5cab5237",
-      "time": "2026-06-15 15:15:40",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bearish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "Saudi state news agency SPA said Saudi Arabia welcomed a US-Iran agreement to end military operations."
-    },
-    {
-      "id": "mkt:019eca22-d0cb-7dd8-b002-740ca2c94d22",
-      "time": "2026-06-15 15:15:39",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "EURUSD",
-        "Impact bullish",
-        "WTI",
-        "Brent"
-      ],
-      "text": "ECB governing council member NAGEL said there are no signs of easing in the foreseeable future. He added that even if the Strait of Hormuz reopens quickly, oil supply would still take months to return to normal."
-    },
-    {
-      "id": "4935815",
-      "time": "2026-06-15 15:15:34",
-      "tags": [
-        "公司"
-      ],
-      "text": "【超聲電子：公司生產的超聲檢測儀器目前沒有實際應用於資料中心液冷裝置檢測】超聲電子(000823)6月15日公告，公司所生產的系工業用的超聲檢測儀器，可廣泛應用於運輸管道、航空航天裝置、電力設施等領域的無損傷檢測、定位、評估和診斷。也可用於液冷裝置的檢測，但目前沒有實際應用於資料中心液冷裝置的檢測。"
-    },
-    {
-      "id": "4935814",
-      "time": "2026-06-15 15:15:02",
-      "tags": [
-        "市場"
-      ],
-      "text": "【國債期貨收盤】 30年期主力合約漲0.25%， 10年期主力合約漲0.06%， 5年期主力合約漲0.04%， 2年期主力合約漲0.02%。"
-    },
-    {
-      "id": "te:economy:558958",
-      "time": "2026-06-15 15:15:02",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Switzerland",
-        "Consumer Confidence",
-        "Importance 2"
-      ],
-      "text": "Swiss Consumer Mood Deteriorates Slightly — Switzerland’s consumer sentiment index fell to -38 in May 2026 from -37 in the same month a year earlier, in line with market expectations, reflecting a slightly more pessimistic outlook among households. The decline was driven primarily by weaker expectations for the economy, with the corresponding sub-index dropping to -45.9 from -42.9 in May 2025. Consumers were also more cautious about their future financial situation, as that indicator fell to -33.8 from -30.3. Meanwhile, assessments of past financial conditions improved marginally to -44.2 from -44.8 a year earlier. The indicator measuring the willingness to make major purchases remained weak, edging down to -28.7 from -28.0. Overall, consumer sentiment remained deeply negative, highlighting persistent concerns about the economic outlook and household finances."
-    },
-    {
-      "id": "mkt:019eca22-139c-7dd8-b002-6ddb6958cb08",
-      "time": "2026-06-15 15:14:51",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK",
-        "DAX",
-        "Impact bullish",
-        "FTSE100"
-      ],
-      "text": "STOXX Europe 600 Banks index rose 2% to its highest level since January 2008."
-    },
-    {
-      "id": "4935813",
-      "time": "2026-06-15 15:14:43",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "斯托克歐洲600銀行指數觸及2008年1月以來最高位，上漲2%。"
-    },
-    {
-      "id": "te:economy:558957",
-      "time": "2026-06-15 15:14:25",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Germany",
-        "Government Bond 10Y",
-        "Importance 2"
-      ],
-      "text": "Bund Yields Drop to Two-Week Low on Iran Deal — Germany’s 10-year Bund yields fell toward 2.95%, their lowest since May 29, after oil prices tumbled following the US and Iran’s preliminary agreement to end their three-month conflict. The deal, which includes lifting the US blockade and reopening the Strait of Hormuz, a critical route for 20% of global energy, triggered a sharp decline in oil prices, easing pressure on central banks to hike rates to combat inflation. A memorandum of understanding is set to be signed in Switzerland this Friday, though uncertainty lingers as markets await further details and the status of Iran’s nuclear program remains unresolved. Money markets now expect around 30 basis points of additional tightening from the European Central Bank this year, equivalent to one rate hike, down from nearly two hikes priced in before last Thursday’s rate increase."
-    },
-    {
-      "id": "4935812",
-      "time": "2026-06-15 15:13:52",
-      "tags": [
-        "其他"
-      ],
-      "text": "英債10年期金邊債券收益率在美伊達成協議後跌至兩個月低位4.776%。"
-    },
-    {
-      "id": "4935811",
-      "time": "2026-06-15 15:13:27",
-      "tags": [
-        "其他"
-      ],
-      "text": "英國首相斯塔默： 英國政府將禁止所有16歲以下兒童使用社交媒體。全面禁令是正確的選擇。"
-    },
-    {
-      "id": "4935810",
-      "time": "2026-06-15 15:12:45",
-      "tags": [
-        "其他"
-      ],
-      "text": "斯塔默：英國將聯合各方夥伴，保障美伊協議長久落地。"
-    },
-    {
-      "id": "4935809",
-      "time": "2026-06-15 15:12:40",
-      "tags": [
-        "公司"
-      ],
-      "text": "【方正證券：創益通精密互連構築業務底盤，多元佈局靜待業績拐點】方正證券日前研報指出，創益通精密互連構築業務底盤，多元佈局靜待業績拐點。公司營業收入由2020年的4.62億元增至2025年的7.07億元，CAGR約8.88%；2026Q1實現1.36億元。隨著新業務放量和成本最佳化推進，盈利能力將穩步恢復。公司產品覆蓋新能源、消費電子、資料儲存、高速通訊及醫療等領域，形成錯位佈局和差異化競爭優勢。隨著新能源及高速通訊產品逐步放量，公司客戶覆蓋面擴充套件，前五大客戶銷售集中度由2020年的51.27%降至2025年的42.66%。首次覆蓋，暫無評級。"
     }
   ]
 }
