@@ -1,7 +1,16 @@
 {
-  "updated": "2026-06-23 06:41:38",
-  "count": 17320,
+  "updated": "2026-06-23 06:45:42",
+  "count": 17313,
   "items": [
+    {
+      "id": "4949029",
+      "time": "2026-06-23 06:43:44",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "【伊朗副外長披露伊美談判後續技術層面磋商機制】當地時間23日，伊朗外交部副部長、伊方技術談判代表團團長加里巴巴迪披露了接下來伊朗與美國之間技術層面磋商的安排機制。加里巴巴迪表示，根據瑞士四方會談達成的共識，接下來的談判將在高階別委員會的監督下進行，成員包括伊朗議長、伊朗外交部長、美國副總統以及巴基斯坦總理和卡達首相。同時決定設立四個工作組，分別負責：解除制裁、核問題、重建與經濟發展、監督與執行。各方還決定在伊朗和美國之間設立一個聯絡點，用於保障商船安全透過霍爾木茲海峽；同時在伊朗、美國及巴基斯坦、卡達之間設立一個黎巴嫩衝突降級小組。四國技術代表團團長將對各工作組及上述兩個機制進行監督，並向高階別委員會彙報進展。加里巴巴迪最後表示，在技術談判中，各方還就簽發對伊朗石油、石化產品、衍生品及相關服務銷售的一般許可，以及解凍伊朗被凍結資產的相關共識進行了必要的跟進。基於此，美方已簽發相關石油產品等銷售許可，並已在美國財政部外國資產控制辦公室網站公佈。此外，各方還同意啟動此前簽署的被凍結資金解凍安排，總額為120億美元（分為兩筆，各60億美元），並立即進入執行階段。（央視新聞）"
+    },
     {
       "id": "4949028",
       "time": "2026-06-23 06:40:35",
@@ -159014,84 +159023,6 @@
         "國際"
       ],
       "text": "【高透光高導電有機發光二極體製成】韓國首爾國立大學工程學院科學家研製出一款高效能有機發光二極體，整合了高導電性透明金屬電極，透光率超過93%，有望在先進顯示器等眾多領域大顯身手。相關論文發表於新一期英國皇家化學學會旗下的《材料視野》雜誌，並被選為封面文章。"
-    },
-    {
-      "id": "mkt:019ecd76-3341-7dd8-b017-91895991fbd8",
-      "time": "2026-06-16 06:45:36",
-      "tags": [
-        "MKT News",
-        "DXY",
-        "Impact bearish"
-      ],
-      "text": "New Zealand May food price index YoY 3.2% vs 2.6% prior."
-    },
-    {
-      "id": "mkt:019ecd76-1b03-7dd8-b017-8a20f4217275",
-      "time": "2026-06-16 06:45:29",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "New Zealand | Food Price Index (YoY) (May) | actual 3.2% | previous 2.6%"
-    },
-    {
-      "id": "4937207",
-      "time": "2026-06-16 06:45:16",
-      "tags": [
-        "市場"
-      ],
-      "text": "紐西蘭統計局資料：紐西蘭5月食品通脹指數較上月上漲1.0%。"
-    },
-    {
-      "id": "mkt:019ecd75-c2be-7dd8-b017-875b93fdae8c",
-      "time": "2026-06-16 06:45:07",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "New Zealand May food price index MoM 1.0% (prior 0.0%)."
-    },
-    {
-      "id": "te:markets:559126",
-      "time": "2026-06-16 06:45:05",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Crypto",
-        "Importance 1"
-      ],
-      "text": "Crypto Updates: XRP Increases by 4.68% — Top crypto gainers are XRP (4.68%), Ether (3.89%) and Bitcoin (0.81%)."
-    },
-    {
-      "id": "mkt:019ecd75-ad95-7dd8-b017-7a882cade9a3",
-      "time": "2026-06-16 06:45:01",
-      "tags": [
-        "MKT News",
-        "S&P500",
-        "Impact bullish",
-        "WTI",
-        "Impact bearish",
-        "DXY"
-      ],
-      "text": "MSNBC: U.S. Vice President Vance said under a memorandum of understanding nuclear inspectors will return to Iran. A core element of the agreement is that the IAEA and the U.S. will assist Iran in destroying its stockpile of highly enriched uranium."
-    },
-    {
-      "id": "mkt:019ecd75-a96f-7dd8-b017-70acd66a780e",
-      "time": "2026-06-16 06:45:00",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "New Zealand | Food Price Index (MoM) (May) | actual 1% | previous 0.00%"
-    },
-    {
-      "id": "4937206",
-      "time": "2026-06-16 06:44:27",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國副總統萬斯：核核查人員“絕對”會按照結束戰爭的條款重返伊朗。"
     }
   ]
 }
