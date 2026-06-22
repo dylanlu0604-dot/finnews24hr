@@ -1,7 +1,112 @@
 {
-  "updated": "2026-06-22 08:09:34",
-  "count": 17332,
+  "updated": "2026-06-22 08:13:29",
+  "count": 17336,
   "items": [
+    {
+      "id": "mkt:019eecac-460d-7dd8-b0aa-ad5088409acb",
+      "time": "2026-06-22 08:12:53",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent",
+        "S&P500",
+        "Impact bullish"
+      ],
+      "text": "Two South Korean vessels transited the Strait of Hormuz after the US and Iran signed a ceasefire MoU."
+    },
+    {
+      "id": "4946871",
+      "time": "2026-06-22 08:12:36",
+      "tags": [
+        "國際"
+      ],
+      "text": "兩艘韓國船隻在美伊簽署停火備忘錄後駛過霍爾木茲海峽。"
+    },
+    {
+      "id": "4946870",
+      "time": "2026-06-22 08:12:27",
+      "tags": [
+        "市場"
+      ],
+      "text": "美元/日元上漲0.11%，報161.475。"
+    },
+    {
+      "id": "4946869",
+      "time": "2026-06-22 08:12:02",
+      "tags": [
+        "公司"
+      ],
+      "text": "【拼多多集團在雄安購置辦公樓】2026年6月21日，拼多多集團與中國電建完成正式簽約，透過整體購置方式，落位雄安·電建智匯城的數字新消費電商產業園。據瞭解，拼多多此次購置的樓宇位於雄安數字新消費電商產業園內。拼多多已於5月27日註冊成立全資子公司“拼多多資訊科技服務（雄安）有限公司”；於6月10日，首批150名新員工已正式入職；於6月16日與雄安新區管委會簽署《數字服務戰略合作框架協議》，同步啟動專項招聘計劃，提供超5000個工作崗位。（介面）"
+    },
+    {
+      "id": "mkt:019eecab-381a-7dd8-b0aa-a6af25fec913",
+      "time": "2026-06-22 08:11:44",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "China Tech Giants",
+        "Market Regions",
+        "Greater China",
+        "PDD.O",
+        "Impact bullish"
+      ],
+      "text": "【Pinduoduo buys office building in Xiong'an】June 21, 2026 — Pinduoduo Group signed with PowerChina to acquire an office building in Xiong'an PowerChina Zhihui City digital new‑consumption e‑commerce industrial park. Pinduoduo registered a wholly owned local unit, Pinduoduo Information Technology Services (Xiong'an) Co., Ltd., on May 27; onboarded 150 new employees on June 10; and on June 16 signed a Digital Service Strategic Cooperation Framework Agreement with the Xiong'an New Area Management Committee and launched recruitment for more than 5,000 positions."
+    },
+    {
+      "id": "4946868",
+      "time": "2026-06-22 08:11:17",
+      "tags": [
+        "國際"
+      ],
+      "text": "【頑強戰平比利時隊 伊朗隊暫居小組第一】21日在洛杉磯體育場進行的美加墨世界盃G組第二輪比賽中，“波斯鐵騎”伊朗隊依靠頑強防守，以0:0戰平“歐洲紅魔”比利時隊，在多賽一場的情況下暫時小組領跑。G組目前已結束的三場比賽均為平局，比利時隊和伊朗隊同積2分，伊朗隊憑藉更多的進球數排名高於比利時隊，並在紐西蘭與埃及隊尚未開賽的情況下暫居小組第一。26日末輪，比利時隊將在溫哥華對陣紐西蘭隊，伊朗隊則在西雅圖迎戰埃及隊。"
+    },
+    {
+      "id": "mkt:019eecaa-9052-7dd8-b0aa-9832c2c60e1d",
+      "time": "2026-06-22 08:11:01",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Australia's S&P/ASX 200 opened down 32.40 points (-0.37%) at 8,796.30 on Monday, June 22."
+    },
+    {
+      "id": "4946867",
+      "time": "2026-06-22 08:10:23",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "【韓國將外匯穩定稅豁免期限延長3個月】據韓國《每日經濟》援引不願具名政府官員訊息，韓國將外匯穩定稅豁免政策延長3個月，有效期至9月末，助力銀行籌措美元資金。韓國財政部官員向該媒體表示，此項舉措旨在保障境內外匯市場流動性平穩供給；政府將在三個月後評估市場形勢，再決定是否繼續延期該政策。"
+    },
+    {
+      "id": "mkt:019eeca9-94d3-7dd8-b0aa-9265adb06d21",
+      "time": "2026-06-22 08:09:57",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "South Korea Customs reports preliminary trade surplus for June 1-20 of $17.5 bln; exports +60.4% YoY, imports +23.2% YoY."
+    },
+    {
+      "id": "mkt:019eeca9-3a27-7dd8-b0aa-8d886769429a",
+      "time": "2026-06-22 08:09:33",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "USDJPY",
+        "Impact bearish",
+        "Nikkei 225"
+      ],
+      "text": "Japan 10-year bond yield rose 2 bps to 2.665%."
+    },
+    {
+      "id": "mkt:019eeca9-38f9-7dd8-b0aa-8067f481191a",
+      "time": "2026-06-22 08:09:33",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Sources say SoftBank-backed Kuwa Technology has raised more than $600m in a funding round at a valuation above $3bn and plans to file for a Hong Kong IPO within two to three months."
+    },
     {
       "id": "4946866",
       "time": "2026-06-22 08:08:42",
@@ -159457,67 +159562,6 @@
         "Impact bearish"
       ],
       "text": "【Kyiv struck by Russian drones and missiles hours after Putin-Trump call】Russian drones and missiles struck Ukrainian cities, including Kyiv, early on Monday, hours after Putin and Trump spoke by phone. Kyiv's mayor said apartment blocks in multiple districts caught fire from \"enemy\" strikes and the central Pechersk Lavra monastery was hit; about 140,000 households lost power. Ukraine's second-largest city Kharkiv, the central city Dnipro and locations in Crimea were also struck."
-    },
-    {
-      "id": "4935036",
-      "time": "2026-06-15 08:13:06",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "日本東證股價指數(TOPIX)擴大漲幅，最新上漲2.7%，報3,986.58點。"
-    },
-    {
-      "id": "4935035",
-      "time": "2026-06-15 08:12:49",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "日本日經225指數擴大漲幅，最新上漲4.0%，報68,639.83點。"
-    },
-    {
-      "id": "4935034",
-      "time": "2026-06-15 08:12:28",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "日本20年期國債收益率下跌6個基點至3.46%。"
-    },
-    {
-      "id": "4935033",
-      "time": "2026-06-15 08:12:01",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "【紐西蘭經濟學家下調GDP增長預期】紐西蘭經濟研究所在其官網釋出本土經濟學家的季度綜合預測報告。經濟學家預計，2025至2026財年國內生產總值年均增速為0.6%。注：3月份調查預測值為0.8%。經濟學家預計，2026至2027財年國內生產總值年均增速為1.6%。注：3月份調查預測值為3%。對於截至2027年3月的財年，經濟學家認為消費、住宅投資及出口表現將弱於三個月前的預期。私人消費增速預期下調至0.8%，此前預期為1.8%；住宅投資增速預期下調至5.1%，此前預期為9%；出口增速預期下調至2.4%，此前預期為3.5%；就業人數增速預期下調至1.3%，此前預期為2.3%。預計截至2027年3月的財年，居民消費價格指數通脹率為3.3%，此前預期為2.3%。補充說明：本次綜合預測彙總了包括紐西蘭財政部、紐西蘭儲備銀行在內的八家機構觀點。注：所有預測資料均以每年3月31日為財年截止節點。"
-    },
-    {
-      "id": "mkt:019ec89d-b5d6-7dd8-aff9-7660222e3543",
-      "time": "2026-06-15 08:10:39",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Australia's S&P/ASX 200 opened 97.50 points higher, up 1.11%, at 8,901.50 on Monday, June 15."
-    },
-    {
-      "id": "4935032",
-      "time": "2026-06-15 08:10:14",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【亞洲股市高開高走 日韓股市強勁上漲 此前美國和伊朗達成協議】亞洲股市開盤上漲，韓國股市飆升，此前美國總統唐納德·特朗普表示，美國和伊朗已達成和平協議，這提振了市場對中東戰爭即將結束的希望。韓國KOSPI指數一度飆升5.2%。日經225指數上漲幅度高達3%。日本東證指數逾2%。"
-    },
-    {
-      "id": "4935031",
-      "time": "2026-06-15 08:09:44",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "日本日經指數擴大漲幅，最新上漲3.4%，報68,261.65點。"
     }
   ]
 }
