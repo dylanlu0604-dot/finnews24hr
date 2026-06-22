@@ -1,7 +1,23 @@
 {
-  "updated": "2026-06-23 05:53:30",
-  "count": 17318,
+  "updated": "2026-06-23 05:57:22",
+  "count": 17316,
   "items": [
+    {
+      "id": "mkt:019ef153-f681-7dd8-b0c6-59c41aec6f08",
+      "time": "2026-06-23 05:54:32",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Iran denies using unfrozen funds to buy US farm goods】US Vice President Vance said on June 22 in Switzerland the US has procedures to ensure any unfrozen Iranian assets would support Iranian civilians, not fund terrorism, and that released funds would be used to purchase US soybeans, corn and wheat under a US–Qatar approval mechanism. TASNIM NEWS quoted a source close to Iran‑US talks denying any agreement contains such a provision, calling Vance’s claim untrue and suggesting it was driven by US domestic politics; the source asked why Iran would spend US$12 bln buying US agricultural products."
+    },
+    {
+      "id": "4949001",
+      "time": "2026-06-23 05:54:16",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗否認將用解凍資金買美農產品】美國副總統萬斯6月22日在瑞士就伊朗資產解凍問題表示，美方已建立相關流程，確保未來任何解凍資金將用於支援伊朗民眾，而非“資助恐怖主義”。據萬斯稱，被解凍的伊朗資金將用於購買美國大豆、玉米和小麥等農產品，該機制將由美國與卡達方面共同審批。不過據伊朗塔斯尼姆通訊社隨後援引一名接近伊美談判的訊息人士的話報道稱，“伊朗被凍結資金將被用於購買糧食”的說法並不屬實，在任何協議中都沒有這樣的表述。這位訊息人士表示，萬斯之所以提出這類說法，“主要是出於美國國內政治因素的考慮——出於什麼邏輯伊朗會拿120億美元去購買美國農產品呢？”(CCTV國際時訊)"
+    },
     {
       "id": "te:economy:560876",
       "time": "2026-06-23 05:48:47",
@@ -159036,42 +159052,6 @@
         "其他"
       ],
       "text": "中央氣象臺6月16日06時繼續釋出強對流天氣黃色預警。"
-    },
-    {
-      "id": "4937181",
-      "time": "2026-06-16 05:57:00",
-      "tags": [
-        "其他"
-      ],
-      "text": "玻利維亞向投資者表示，該國即將與國際貨幣基金組織敲定一項融資計劃，且大機率會先推行浮動匯率制度，以此廢除已實施超過15年的美元釘住匯率機制。"
-    },
-    {
-      "id": "4937180",
-      "time": "2026-06-16 05:56:38",
-      "tags": [
-        "其他"
-      ],
-      "text": "玻利維亞告知投資者：外匯統一政策、國際貨幣基金組織協議即將落地。"
-    },
-    {
-      "id": "4937179",
-      "time": "2026-06-16 05:55:04",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗軍方宣告：任何違反諒解備忘錄的行為都將遭到迅速反擊。"
-    },
-    {
-      "id": "te:economy:559120",
-      "time": "2026-06-16 05:54:48",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "South Korea",
-        "Export Prices YoY",
-        "Importance 1"
-      ],
-      "text": "South Korea Export Inflation at 28-Year High — South Korea’s export prices surged 46.9% year-on-year in May of 2026, the largest rise since March 1998 . he increase was mainly driven by manufactured goods, which rose 46.9%, with computers, electronic and optical equipment surging 104%. Prices also rose for coal products and petroleum products (88.6%), basic metal products (31.6%), and chemical products (28.3%). Meanwhile, prices of aagricultural, forestry and marine products increased 32.4%."
     }
   ]
 }
