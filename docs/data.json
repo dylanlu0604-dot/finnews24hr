@@ -1,7 +1,71 @@
 {
-  "updated": "2026-06-23 02:39:59",
-  "count": 17263,
+  "updated": "2026-06-23 02:44:08",
+  "count": 17269,
   "items": [
+    {
+      "id": "mkt:019ef0a4-94fa-7dd8-b0c4-12f52fe6611a",
+      "time": "2026-06-23 02:42:58",
+      "tags": [
+        "MKT News",
+        "UAL.O",
+        "Impact bullish"
+      ],
+      "text": "Starlink satellite internet has been rolled out on United Airlines' international flights."
+    },
+    {
+      "id": "mkt:019ef0a3-f02e-7dd8-b0c4-0ca275aba034",
+      "time": "2026-06-23 02:42:15",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "TASNIM NEWS reported the head of Iran's negotiating delegation arrived in Muscat and was welcomed by Oman's foreign minister."
+    },
+    {
+      "id": "4948872",
+      "time": "2026-06-23 02:42:03",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "美國內政部宣佈，將石油和天然氣公司在聯邦土地上鑽探時必須繳納的保證金削減95%，以鼓勵更多能源勘探。"
+    },
+    {
+      "id": "mkt:019ef0a3-bd90-7dd8-b0c4-07829c51c64b",
+      "time": "2026-06-23 02:42:03",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "【Trump administration cuts federal onshore drilling bond requirement by 95%】The U.S. Interior Department said it will cut bond requirements for oil and gas firms drilling on federal lands by 95%, lowering required bonds for onshore federal leases from $500,000 under the Biden administration to $25,000 to encourage more energy exploration. The bonds are intended to ensure plugging and cleanup costs are not borne by taxpayers. The policy will enter a 60-day public comment period after publication in the Federal Register. Interior also said it will remove certain provisions from waste‑minimization rules that apply to drilling permit applications and will clarify related definitions."
+    },
+    {
+      "id": "4948871",
+      "time": "2026-06-23 02:41:50",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【王毅會見南非總統府部長恩特沙韋尼】2026年6月22日，中共中央政治局委員、中央外辦主任王毅在新德里會見南非總統府部長恩特沙韋尼。王毅表示，中國和南非作為新興經濟體代表和金磚創始成員國，始終堅定維護多邊主義，倡導國際關係民主化，保持密切高層交往，深化各領域務實合作，成為全球南方團結合作的典範。當前單邊主義、叢林法則損害各國正當權益，破壞國際關係準則，金磚國家作為全球南方的中堅力量，有必要加強團結協作，共同擦亮金磚這塊發展中國家聯合自強的金字招牌，攜手捍衛國際公平正義，維護世界和平穩定。（外交部）"
+    },
+    {
+      "id": "4948870",
+      "time": "2026-06-23 02:41:21",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗談判代表團抵達馬斯喀特，阿曼外交部長出面迎接。"
+    },
+    {
+      "id": "4948868",
+      "time": "2026-06-23 02:39:25",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗議會議長：若無外交手段配合，戰場上的努力終將收效甚微】伊朗議會議長卡利巴夫表示，黎巴嫩境內的戰事已經停息，德黑蘭方面將“有力推進”近期瑞士談判所取得的成果。加利巴夫在飛往阿曼的飛機上接受國家電視臺記者採訪時稱，相關談判旨在維護黎巴嫩的“領土完整與國家主權”，並表示在達成最終結果前，伊朗不會擱置該議題。他指出，軍事層面取得的成果唯有透過“法律與政治層面”予以確認，才能長久穩固；若無外交手段配合，戰場上的努力終將收效甚微。“軍事層面常會出現這樣的局面，必須交由外交完成收尾工作。”他補充道，當地戰場無法實現的目標，可藉助外交渠道達成與軍方一致的訴求。"
+    },
     {
       "id": "mkt:019ef0a1-000f-7dd8-b0c3-feab53c5b7db",
       "time": "2026-06-23 02:39:03",
@@ -158511,14 +158575,6 @@
         "國際"
       ],
       "text": "洛克希德・馬丁公司拿下美國太空部隊價值 5.14 億美元合同，負責建造第 23、24 顆 GPS IIIF 衛星，提升未來衛星導航星座的抗毀能力。"
-    },
-    {
-      "id": "4937022",
-      "time": "2026-06-16 02:40:23",
-      "tags": [
-        "國際"
-      ],
-      "text": "【內塔尼亞胡稱以軍將繼續駐紮在黎巴嫩南部等地】以色列總理內塔尼亞胡在15日舉行的新聞釋出會上說，以色列國防軍將繼續駐紮在其於黎巴嫩南部、敘利亞和加沙地帶設立的“安全緩衝區”內，直至以色列“國家安全得到保障”。 (新華社)"
     }
   ]
 }
