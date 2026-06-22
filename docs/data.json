@@ -1,7 +1,78 @@
 {
-  "updated": "2026-06-22 17:30:23",
-  "count": 17173,
+  "updated": "2026-06-22 17:34:29",
+  "count": 17168,
   "items": [
+    {
+      "id": "mkt:019eeead-4b9c-7dd8-b0b6-99b89f443755",
+      "time": "2026-06-22 17:33:14",
+      "tags": [
+        "MKT News",
+        "SPCX.O",
+        "Impact bearish"
+      ],
+      "text": "【Institutional: SpaceX long-term high growth expected but short-term risk-reward balanced】SpaceX (SPCX.O) fell more than 4% in U.S. pre-market trading on Monday and was poised for a third consecutive session of declines after losing over 8% across last Wednesday and Thursday. As of Thursday’s close the stock remained 37% above its $135 IPO price, valuing the company at $2.4 trillion. KeyBanc Capital Markets initiated coverage with a MAINTAIN rating, saying multiple long-term high-growth paths exist but the near-term risk‑reward profile appears balanced."
+    },
+    {
+      "id": "4947930",
+      "time": "2026-06-22 17:33:09",
+      "tags": [
+        "市場"
+      ],
+      "text": "【機構：SpaceX長期高增長可期 但短期風險回報平衡】SpaceX(SPCX.O)週一美股盤前交易一度跌超4%，預計連續第三個交易日下跌。在上週三和週四的交易時段，SpaceX股價已累跌超8%。儘管如此，截至週四收盤，SpaceX股價仍較135美元的IPO發行價高出37%，市值達到2.4萬億美元。KeyBanc資本市場對該股首次給予中性評級，並指出，儘管長期來看存在諸多高增長路徑，但短期內風險回報比似乎較為平衡。"
+    },
+    {
+      "id": "4947929",
+      "time": "2026-06-22 17:32:19",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "【王毅會見伊朗最高國家安全委員會副秘書內扎米普爾】2026年6月22日，中共中央政治局委員、中央外辦主任王毅在新德里會見伊朗最高國家安全委員會副秘書內扎米普爾。王毅表示，中方歡迎伊美雙方在巴基斯坦、卡達協助下啟動諒解備忘錄後續磋商，並就下步談判機制形成共識。諒解備忘錄十四點核心條款來之不易，明確提出立即永久停止敵對行動，不再使用或威脅使用武力，相互尊重彼此主權和領土完整，避免干涉對方內政等，這些內容體現了平等精神，符合聯合國憲章宗旨，符合國際關係準則。維護和落實好諒解備忘錄，有助於鞏固得來不易的停火局面，有助於開啟伊美關係新的前景，有助於讓和平重返中東地區，不僅符合伊方國家和民族的根本利益，也順應國際社會的共同期待。中方作為伊朗全面戰略伙伴，始終秉持公正立場，支援一切有助於和平的努力，支援伊方維護主權安全和民族尊嚴，支援伊朗改善同海灣各國及地區國家關係，願繼續以自己的方式提供協助，為早日恢復地區和平安寧發揮建設性作用。(外交部網站)"
+    },
+    {
+      "id": "mkt:019eeeac-439b-7dd8-b0b6-954276484ad5",
+      "time": "2026-06-22 17:32:07",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Alibaba",
+        "9988.HK",
+        "Impact bearish",
+        "0981.HK",
+        "Impact mixed",
+        "1113.HK",
+        "Impact bullish"
+      ],
+      "text": "Southbound flows were net sellers of RMB 5.82 bln today. On Shanghai Stock Connect to Hong Kong, Yangtze Optical Fibre & Cable and SMIC were net sold HKD 1.287 bln and HKD 609 mln respectively; Kingboard Holdings was the largest net buy at HKD 2.692 bln. On Shenzhen Stock Connect to Hong Kong, Yangtze Optical Fibre & Cable and Alibaba (HK) were net sold HKD 1.188 bln and HKD 930 mln respectively; SMIC led net buys at HKD 1.429 bln."
+    },
+    {
+      "id": "te:economy:560759",
+      "time": "2026-06-22 17:31:23",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Macau",
+        "Tourist Arrivals",
+        "Importance 1"
+      ],
+      "text": "Macau Tourist Arrivals Continue to Rise — The number of tourist arrivals in Macau rose 3.4% year-on-year to 3,488 million in May 2026 from an 11.3% jump in the previous month. Same-day visitors increased by 7.9%, while overnight visitors dropped by 3%. Additionally, the average length of stay shortened by 0.1 day from a year earlier to 1 day and the average stay of overnight visitors remained unchanged at 2.3 days. By source market, visitors from China grew by 4.2% year-on-year to 2.54 million in May, with arrivals under the Individual Visit Scheme rising 5.2% to 1.38 million. Visitors from Taiwan (93,701) and Thailand (20,447) increased by 18.9% and 36.1%, respectively. On the other hand, arrivals from Hong Kong (-0.4% to 618,341), the Philippines (-11.5% to 50,462), and South Korea (-14.6% to 35,663) posted declines. In the first five months of 2026, total visitor arrivals increased by 11.1% year-on-year to 18.14 million."
+    },
+    {
+      "id": "4947928",
+      "time": "2026-06-22 17:30:03",
+      "tags": [
+        "其他"
+      ],
+      "text": "【JEDEC據悉已完成HBM4新標準SPHBM4】固態技術協會（JEDEC）據悉完成並即將釋出 SPHBM4標準。該標準旨在透過降低對昂貴矽中介層的依賴，在保持HBM4級別高頻寬的同時，顯著降低整合成本並提升記憶體容量靈活性。"
+    },
+    {
+      "id": "4947927",
+      "time": "2026-06-22 17:29:56",
+      "tags": [
+        "市場"
+      ],
+      "text": "斯里蘭卡統計局公佈的資料顯示，該國5月全國消費者價格通脹率同比上漲5.4%，前一個月的漲幅為4.7%。"
+    },
     {
       "id": "4947926",
       "time": "2026-06-22 17:29:45",
@@ -75,6 +146,14 @@
         "市場"
       ],
       "text": "【機構：英國首相斯塔默辭職後，英鎊投資者將焦點轉向繼任之爭】Convera策略師George Vessey在一份報告中表示，對於英鎊而言，選擇英國首相基爾·斯塔默繼任者的時間表和程式比周一他辭職的訊息更為重要。市場在很大程度上已經反映了斯塔默離職的預期，從而限制了市場對該宣告的反應。他說，安迪·伯納姆是接替斯塔默的最熱門人選，目前市場似乎對此相對放心。不過他表示，如果投資者開始質疑伯納姆對財政紀律的承諾，政治不確定性可能會再次出現。“在這種情況下，不難設想10年期英國國債收益率將再次測試5%的水平，英鎊將跌破1.30美元。“英鎊下跌0.1%，至1.3219美元。10年期英國國債收益率持平於4.839%。"
+    },
+    {
+      "id": "4947920",
+      "time": "2026-06-22 17:27:33",
+      "tags": [
+        "其他"
+      ],
+      "text": "【建設銀行發行300億元無固定期限資本債】6月22日，據今日建行訊息，近日，中國建設銀行完成2026年第一期無固定期限資本債券（以下簡稱“永續債”）發行工作。本期永續債發行規模為300億元，基礎發行規模200億元，超額增發100億元，期限為5+N年期，票面利率1.92%，全場倍數2.4倍。本次永續債在成本可控前提下合理平衡發行規模與價格，精準匹配市場投資需求。本次募集資金將用於補充其他一級資本，有助於我行持續鞏固多層次資本實力、夯實發展底盤，為國家重點領域金融服務提供長效資本保障。"
     },
     {
       "id": "4947919",
@@ -157799,126 +157878,6 @@
         "公司"
       ],
       "text": "【AI時代儲存原廠擴產路線分化：DRAM拼產能，NAND拼技術】隨著AI應用爆發，全球儲存產業已步入新的上升通道。核心驅動力來自大型雲服務商對算力底座的持續重投：一方面，為保障模型訓練與推理的效能瓶頸，HBM、伺服器DRAM及企業級SSD成為剛需；另一方面，面對供應鏈博弈，巨頭們傾向於利用長期採購協議（LTA）鎖定核心產能。這種“擴量+鎖產”的雙重策略，正是其在AI大模型競爭中確立領先壁壘的關鍵手段。為了在超級週期中實現利潤最大化，三星、SK海力士和美光正將絕大部分資金精準投向高附加值的HBM和DDR5產線，使得DRAM成為本輪擴產的絕對主角。而NAND Flash的發展則不再依賴單一技術路線與粗放式擴產。（快閃記憶體市場）"
-    },
-    {
-      "id": "4936224",
-      "time": "2026-06-15 17:34:14",
-      "tags": [
-        "宏觀",
-        "公司"
-      ],
-      "text": "【北自科技：發行345.15萬股購買資產 完成穗柯智慧100%股權過戶】北自科技公告稱，公司發行股份及支付現金購買資產涉及的新增股份已於2026年6月12日完成登記，發行數量為345.15萬股，發行價格32.45元/股，發行物件為翁忠傑、劉慶國、馮偉。截至公告披露日，標的資產穗柯智慧100%股權已過戶至公司名下。交易完成後，公司總股本增至1.66億股，控股股東仍為北自所，實控人為國務院國資委，控制權未發生變更。"
-    },
-    {
-      "id": "mkt:019ecaa1-74ff-7dd8-b007-aa385d344509",
-      "time": "2026-06-15 17:33:59",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy"
-      ],
-      "text": "U.S. natural gas futures fell more than 3.0% intraday to $3.026/MMBtu."
-    },
-    {
-      "id": "mkt:019ecaa1-6076-7dd8-b007-a27221c32205",
-      "time": "2026-06-15 17:33:54",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bearish",
-        "NCLH.N",
-        "Impact bullish",
-        "RCL.N"
-      ],
-      "text": "US-Iran peace agreement pushed oil prices lower; cruise operators rallied in pre-market trading, with Norwegian Cruise Line (NCLH.N) and Royal Caribbean up about 4% and Carnival (CCL.N) up about 3%."
-    },
-    {
-      "id": "4936223",
-      "time": "2026-06-15 17:33:49",
-      "tags": [
-        "公司"
-      ],
-      "text": "【廣聯航空：自貢廣聯簽訂5819.2萬元無人機機翼壁板銷售合同】廣聯航空公告，公司全資子公司廣聯航空（自貢）有限公司近日與航空工業集團下屬某單位簽署《採購商務合同》，合同含稅金額為人民幣5819.2萬元，標的為一批大型固定翼無人機複合材料機翼壁板元件。合同不含稅金額為人民幣5149.73萬元，佔公司2025年經審計營業收入的5.08%。合同已正式簽署並生效，雙方均具有履約能力。"
-    },
-    {
-      "id": "4936222",
-      "time": "2026-06-15 17:33:47",
-      "tags": [
-        "其他"
-      ],
-      "text": "【中國華電拉哇水電站大壩二期面板澆築完成】中國華電6月15日宣佈，世界最高混凝土面板堆石壩電站——華電金上拉哇水電站大壩二期面板澆築任務圓滿完成，大壩主體工程進入收尾衝刺階段。（新華社）"
-    },
-    {
-      "id": "4936221",
-      "time": "2026-06-15 17:33:19",
-      "tags": [
-        "公司",
-        "央行",
-        "國際"
-      ],
-      "text": "【特斯拉前董事會成員：SpaceX必須儘快取得業績】特斯拉前董事會成員Steve Westly在接受最新採訪時指出，SpaceX吸引了大量散戶投資者，但他也同時補充說，SpaceX必須儘快取得業績。Westly表示，“我相信，如果SpaceX的投資者在三四個季度後沒有看到該公司在S1檔案中做出的一些增長預測，他們就會非常不滿。”分析人士認為，美聯儲政策和通脹情況將影響SpaceX股價表現。"
-    },
-    {
-      "id": "4936220",
-      "time": "2026-06-15 17:33:09",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "美國與伊朗達成和平協議後油價下跌，郵輪運營商股價在盤前交易中上漲。"
-    },
-    {
-      "id": "4936219",
-      "time": "2026-06-15 17:33:01",
-      "tags": [
-        "公司"
-      ],
-      "text": "【郝金玉已任中國華能董事、黨組副書記】近日，中國華能集團有限公司（簡稱“中國華能”）官網“我們的領導”欄目更新資訊顯示，郝金玉已任中國華能董事、黨組副書記。（澎湃）"
-    },
-    {
-      "id": "4936218",
-      "time": "2026-06-15 17:32:33",
-      "tags": [
-        "公司"
-      ],
-      "text": "【壹評級釋出晶盛機電首次評級報告】6月15日，第一財經旗下“壹評級”釋出晶盛機電（300316.SZ）首次評級報告。晶盛機電在護城河方面表現突出，獲得4星評級。在估值層面，“壹評級”動態估值模型和DDM估值模型顯示晶盛機電當下市值高於內在價值。“壹評級”認為，晶盛機電作為光伏長晶裝置及石英坩堝雙龍頭企業，護城河優勢顯著：在長晶裝置方面，長期積累的技術經驗與工藝技術訣竅難以複製，具備技術優勢及轉換成本護城河；在石英坩堝方面，產品效能及盈利能力在業內領先，具備規模經濟及技術優勢護城河。但行業環境承壓，公司成長空間受到明顯影響。當前多數矽片企業處於虧損狀態，行業景氣度未見回暖，預計光伏行業產能出清將延續至2028年，矽片企業擴產意願低迷，行業資本開支短期難以修復，因此“壹評級”對長晶裝置市場規模預測更為保守。在第一財經APP和網站上可以檢視晶盛機電的“壹評級”首次評級報告全文。"
-    },
-    {
-      "id": "4936217",
-      "time": "2026-06-15 17:32:20",
-      "tags": [
-        "其他"
-      ],
-      "text": "市場訊息：殼牌擬將 Sprng Energy 作價約 18 億美元進行處置。"
-    },
-    {
-      "id": "4936216",
-      "time": "2026-06-15 17:31:55",
-      "tags": [
-        "公司"
-      ],
-      "text": "【國晟科技：因5184.62萬元訴訟披露不及時不完整收警示函】國晟科技公告，公司於2026年6月15日收到北京證監局出具的警示函，因公司與江蘇大航電氣貿易有限公司存在買賣合同糾紛，涉案金額5184.62萬元，公司於2026年4月24日披露累計訴訟公告時未包含該筆訴訟，遲至2026年5月22日才補充披露，相關資訊披露不及時、不完整。公司董事長吳君、總經理高飛、董事會秘書張昆被採取出具警示函的行政監管措施。"
-    },
-    {
-      "id": "4936215",
-      "time": "2026-06-15 17:31:47",
-      "tags": [
-        "宏觀",
-        "市場"
-      ],
-      "text": "財政部發行2026年記賬式貼現（三十七期）國債。（財政部）"
-    },
-    {
-      "id": "4936214",
-      "time": "2026-06-15 17:31:08",
-      "tags": [
-        "公司",
-        "市場",
-        "國際"
-      ],
-      "text": "【英偉達盤前領漲科技七巨頭 美伊協議提振科技股】盤前交易中，英偉達領漲科技七巨頭。由於美國和伊朗宣佈達成臨時協議，將重新開放霍爾木茲海峽，科技股和成長股上漲，帶動美國股指期貨走高。科技七巨頭股價：英偉達漲2.5%，Meta漲2.4%，微軟漲2.0%，Alphabet漲1.5%，亞馬遜漲1.4%，特斯拉漲1.5%，蘋果漲0.8%雖然不屬於科技七巨頭，但SpaceX股價週一盤前一度上漲7.7%，至173.30美元。在上週五創紀錄的首次公開交易後，該股有望延續漲勢。彭博科技七巨頭指數今年以來累計下跌約1.1%；不過，該等權重指數在2025年上漲25%，此前2024年曾大漲67%。標普500指數期貨上漲1.3%，納斯達克100指數期貨上漲2.2%。"
     }
   ]
 }
