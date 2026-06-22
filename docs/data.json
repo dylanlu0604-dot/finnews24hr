@@ -1,7 +1,91 @@
 {
-  "updated": "2026-06-22 09:06:01",
-  "count": 17347,
+  "updated": "2026-06-22 09:10:06",
+  "count": 17344,
   "items": [
+    {
+      "id": "mkt:019eecdf-89b6-7dd8-b0ab-f9b4adbaed23",
+      "time": "2026-06-22 09:08:53",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Qatar and Pakistan said in a joint statement the first high-level talks under the Islamabad MoU framework concluded in Switzerland."
+    },
+    {
+      "id": "mkt:019eecdf-3bde-7dd8-b0ab-f5b28439b773",
+      "time": "2026-06-22 09:08:33",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Qatar's foreign ministry said Qatar and Pakistan issued a joint statement on US-Iran talks that concluded in Switzerland."
+    },
+    {
+      "id": "te:markets:560574",
+      "time": "2026-06-22 09:08:18",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Australia",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Australian Stocks Edge Lower as Week Begins, — Australian shares inched down to around 8.819 on Monday, retreating for the third straight session. Sentiment weakened as U.S. stock futures slipped amid renewed uncertainty over the Middle East peace process. President Donald Trump threatened further military action against Iran despite VP JD Vance holding talks with Iranian officials under an interim peace agreement. Investors also awaited key U.S. inflation data later this week for clues on the Fed's policy path. Locally, attention is turning to May CPI and labor market data, which could shape expectations for the Reserve Bank's next policy move after it left interest rates unchanged last week. Tech, mining, and energy stocks led the decline, while logistics, industrial services, and healthcare offered support. BHP Group fell 1.3%, while two of the four major banks traded lower. Meantime, WiseTech Global tumbled 12% after police launched a probe into its founder over alleged visa-related misconduct and exploitation claims."
+    },
+    {
+      "id": "4946977",
+      "time": "2026-06-22 09:08:13",
+      "tags": [
+        "公司"
+      ],
+      "text": "【粵傳媒：公司不涉及足球彩票產業】粵傳媒6月22日在互動平臺表示，公司不涉及足球彩票產業。"
+    },
+    {
+      "id": "te:markets:560573",
+      "time": "2026-06-22 09:07:38",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "TTF Prices Extend Gains — European natural gas prices climbed nearly 3% to around €43.2 per MWh on Monday, building on gains from the previous session, as tensions resurfaced following President Donald Trump's renewed threat to strike Iran. Talks between the two nations in Switzerland got off to a tense start after Iranian media reported that Tehran had suspended discussions following Trump's latest warning over Iran's support for Hezbollah, though reports indicated that discussions were continuing. European gas prices fell more than 13% last week after the US-Iran peace deal, though concerns remain over Europe’s inventories. EU gas storage facilities are currently 45.56% full, compared with 54.38% at the same time last year and about 14% below the five-year average, while net injections in June continue to lag seasonal norms. This comes as high temperatures are expected across Europe, which is likely to boost cooling demand."
+    },
+    {
+      "id": "4946976",
+      "time": "2026-06-22 09:06:40",
+      "tags": [
+        "其他"
+      ],
+      "text": "卡達和巴基斯坦就美伊會談發表宣告。"
+    },
+    {
+      "id": "te:economy:560571",
+      "time": "2026-06-22 09:06:35",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "China",
+        "Interest Rate",
+        "Importance 2"
+      ],
+      "text": "China Holds LPR Rates at Record Lows for 13th Month — The People’s Bank of China kept its key lending rates at record lows for a 13th straight month in June 2026, as widely expected. The move reflected caution over the fallout from the conflict in the Middle East, even as growth momentum has recently sputtered amid mixed economic data. The one-year loan prime rate (LPR), the benchmark for most corporate and household borrowing, was held at 3.0%, while the five-year LPR, a reference rate for mortgages, remained at 3.5%. Consumer and producer price pressures continued amid higher energy prices and supply chain disruptions linked to the Middle East conflict. Retail sales unexpectedly fell for the first time since December 2022 in May, while industrial output growth accelerated in the same month. Meanwhile, yuan loans rebounded in May after contracting in April, though their growth was slower than in May last year. Housing prices continued to decline in May, reflecting persistent weakness in the property sector."
+    },
+    {
+      "id": "4946975",
+      "time": "2026-06-22 09:06:09",
+      "tags": [
+        "國際"
+      ],
+      "text": "卡達：美國和伊朗同意就黎巴嫩問題設立衝突降級工作組。"
+    },
+    {
+      "id": "4946974",
+      "time": "2026-06-22 09:05:55",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國國債收窄跌幅，布倫特原油價格下滑0.5%，因伊朗稱和談取得進展。"
+    },
     {
       "id": "4946973",
       "time": "2026-06-22 09:05:00",
@@ -159537,119 +159621,6 @@
         "公司"
       ],
       "text": "【萬興科技：目前萬興劇廠使用者規模、Token消耗量以及收入均保持良好增長態勢】萬興科技近日接受機構調研時表示，AI漫劇創作工具萬興劇廠是公司近年來重點打造的AI原生應用之一。產品面向AI短劇、漫劇創作場景，能夠幫助使用者實現從劇本生成、角色設計、分鏡創作到影片生成的一站式創作。萬興劇廠採用按量消費模式，使用者根據實際創作需求購買和消耗Token，這也是公司探索AI時代新商業模式的重要實踐。目前該產品使用者規模、Token消耗量以及收入均保持良好增長態勢，驗證了AI內容創作領域旺盛的市場需求和良好的商業化潛力。"
-    },
-    {
-      "id": "4935139",
-      "time": "2026-06-15 09:09:51",
-      "tags": [
-        "市場",
-        "觀點"
-      ],
-      "text": "【中金財富期貨：黃金是美伊達成協議的最受益標的】黃金是美伊達成協議的最受益標的，國際金價站上4300美元的關口。後續關注霍爾木茲海峽油輪透過情況及油價走勢。如果協議完成度較好，油價大幅回饋，黃金出現反彈的機率較大。"
-    },
-    {
-      "id": "4935138",
-      "time": "2026-06-15 09:09:08",
-      "tags": [
-        "公司"
-      ],
-      "text": "【中集安瑞科與達飛簽訂1+1艘20000m³LNG加註船建造合同 公司相關在手訂單已超200億元】近期中集安瑞科旗下南通中集太平洋海洋工程有限公司（簡稱“中集太平洋海工/SOE”）與法國達飛海運集團（簡稱“達飛海運”） 成功簽訂1+1艘20000立方米LNG加註船建造合同。該批船舶將由Capital集團與達飛海運共同成立的合資企業訂造，建成後將長期租賃給全球能源巨頭道達爾能源（TotalEnergies）投入運營。今年年初至今中國船廠的LNG訂單正在爆發，行業持續加碼LNG加註運輸船建造。截至目前，公司相關業務在手訂單創歷史新高，總額超200億元。"
-    },
-    {
-      "id": "4935137",
-      "time": "2026-06-15 09:08:27",
-      "tags": [
-        "其他"
-      ],
-      "text": "【機構：新加坡交易所強勁的交易活動料將持續】大華繼顯分析師Roy Chen在一份報告中表示，新加坡交易所強勁的交易活動料將在2026財年剩餘時間及2027財年得以維持。該交易所運營商5月份的交易表現強勁，其證券市場成交額同比上升約70%。市場流動性和投資者參與度料將受到包括新加坡金融管理局股票市場發展計劃在內的政府舉措的支撐。大華繼顯對該股的目標價為21.70新加坡元，評級為持有。"
-    },
-    {
-      "id": "4935136",
-      "time": "2026-06-15 09:08:07",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "甲醇連續主力合約日內跌6%，現報2841.00元。"
-    },
-    {
-      "id": "mkt:019ec8d2-54a2-7dd8-affa-6aa0568ae482",
-      "time": "2026-06-15 09:08:07",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Caitong Fuxin Fixed-Open Hybrid Fund will suspend trading from market open on June 15, 2026 until 10:30 that day."
-    },
-    {
-      "id": "4935135",
-      "time": "2026-06-15 09:07:50",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "聚丙烯連續主力合約日內跌4%，現報8290.00元。"
-    },
-    {
-      "id": "4935134",
-      "time": "2026-06-15 09:07:46",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "丙烯連續主力合約日內跌5%，現報7788.00元。"
-    },
-    {
-      "id": "mkt:019ec8d1-e159-7dd8-affa-66da6a411d77",
-      "time": "2026-06-15 09:07:38",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bearish",
-        "S&P500",
-        "Impact bullish",
-        "DXY"
-      ],
-      "text": "TAKAICHI said the Iran agreement reflects the parties' commitment to a diplomatic solution and is the result of sustained negotiation efforts. She praised the efforts of the countries that mediated the process."
-    },
-    {
-      "id": "mkt:019ec8d1-c54b-7dd8-affa-5d6b00fa6596",
-      "time": "2026-06-15 09:07:31",
-      "tags": [
-        "MKT News",
-        "CSI300",
-        "Impact bullish"
-      ],
-      "text": "FTSE China A50 index futures rose more than 1% in early trade."
-    },
-    {
-      "id": "4935133",
-      "time": "2026-06-15 09:07:29",
-      "tags": [
-        "國際"
-      ],
-      "text": "中韓半導體ETF華泰柏瑞：本基金將於2026年6月15日開市起至當日10:30停牌。"
-    },
-    {
-      "id": "mkt:019ec8d1-b954-7dd8-affa-53414c7c905a",
-      "time": "2026-06-15 09:07:28",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Themes",
-        "Chip Wars"
-      ],
-      "text": "China-Korea Semiconductor ETF (Huatai-PineBridge): trading suspended from market open on June 15, 2026 until 10:30 that day."
-    },
-    {
-      "id": "mkt:019ec8d1-714d-7dd8-affa-486a6396af02",
-      "time": "2026-06-15 09:07:09",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "Japanese Prime Minister Sanae Takaichi said she hopes the memorandum will be implemented steadily, that freedom and security of navigation through the Strait of Hormuz will be effectively guaranteed, and that the Iran nuclear issue and other outstanding matters will reach a final agreement as soon as possible."
     }
   ]
 }
