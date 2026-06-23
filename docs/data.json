@@ -1,7 +1,84 @@
 {
-  "updated": "2026-06-24 02:17:56",
-  "count": 17253,
+  "updated": "2026-06-24 02:21:59",
+  "count": 17257,
   "items": [
+    {
+      "id": "mkt:019ef5b6-aee5-7dd8-b0e1-88fc65d90c6a",
+      "time": "2026-06-24 02:20:50",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Trump approval falls to second‑term low; half of Americans say Iran war not worth it】A five‑day Refinitiv/Ipsos poll ending Monday found Trump’s approval at 34%, returning to the lowest level of his second term, last seen in April. Only 24% said a war with Iran would be worth the cost; 50% said the conflict was not worth it and the remainder were unsure. About 63% said an agreement signed by Trump was unlikely to produce lasting peace between the US and Iran."
+    },
+    {
+      "id": "te:markets:561262",
+      "time": "2026-06-24 02:19:59",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Metals Commodities Updates: Silver Tumbles by 5.14% — Top commodity losers are Silver (-5.14%), Copper (-3.56%) and Gold (-1.61%). Gains are led by Lithium Carbonate (0.96%)."
+    },
+    {
+      "id": "4951052",
+      "time": "2026-06-24 02:18:47",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "IBM：特朗普政府將持有Anderon的股權，但不參與治理。Anderon量子晶圓代工業務將從擴建位於紐約州奧爾巴尼的設施起步。量子技術對於實現規模化製造至關重要。許多量子計算公司已表達了向Anderon採購的意向。 量子計算賽道最終只會誕生一兩家絕對頭部贏家。"
+    },
+    {
+      "id": "mkt:019ef5b4-a4fa-7dd8-b0e1-8730e8529824",
+      "time": "2026-06-24 02:18:37",
+      "tags": [
+        "MKT News",
+        "IBM.O",
+        "Impact bullish"
+      ],
+      "text": "IBM Research head expects one or two clear winners to emerge in the quantum computing race."
+    },
+    {
+      "id": "mkt:019ef5b4-6f1d-7dd8-b0e1-7e79ddd6ad4a",
+      "time": "2026-06-24 02:18:23",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "IBM's head of research said many quantum computing firms have expressed interest in purchasing from Anderon."
+    },
+    {
+      "id": "mkt:019ef5b4-3271-7dd8-b0e1-72b940686d5c",
+      "time": "2026-06-24 02:18:07",
+      "tags": [
+        "MKT News",
+        "IBM.O"
+      ],
+      "text": "IBM's vice president of quantum applications said quantum technology is critical to achieving scalable manufacturing."
+    },
+    {
+      "id": "mkt:019ef5b3-fb16-7dd8-b0e1-688c29a05122",
+      "time": "2026-06-24 02:17:53",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "IBM.N",
+        "Impact bullish"
+      ],
+      "text": "IBM (IBM.N): Anderon's quantum wafer foundry will launch by expanding its facility in Albany, New York."
+    },
+    {
+      "id": "mkt:019ef5b3-a10e-7dd8-b0e1-6353c9b78711",
+      "time": "2026-06-24 02:17:30",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "IBM (IBM.N) said the Trump administration will hold an equity stake in Anderon but will not participate in governance."
+    },
     {
       "id": "4951051",
       "time": "2026-06-24 02:17:16",
@@ -158077,45 +158154,6 @@
         "Importance 1"
       ],
       "text": "Agricultural Commodities Updates: Cocoa Rallies by 6.55% — Top commodity gainers are Cocoa (6.55%), Coffee (5.56%) and Oat (2.69%). Biggest losers are Canola (-1.13%) and Rapeseed (-1.11%)."
-    },
-    {
-      "id": "mkt:019ed1aa-7edf-7dd8-b038-ddc606489d68",
-      "time": "2026-06-17 02:21:12",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "Israeli public broadcaster reported that a senior UAE security official secretly visited Israel in March at the outset of US-led strikes on Iran and held high-level security talks."
-    },
-    {
-      "id": "4939273",
-      "time": "2026-06-17 02:20:56",
-      "tags": [
-        "國際"
-      ],
-      "text": "以色列媒體：今年3月以美聯合開展針對伊朗的行動之初，阿聯酋多名高階安全官員曾秘密出訪以色列，舉行高層安全會談。"
-    },
-    {
-      "id": "4939272",
-      "time": "2026-06-17 02:20:20",
-      "tags": [
-        "其他"
-      ],
-      "text": "迦納總統：迦納與象牙海岸將於9月1日啟動2026/27可可季，至次年8月31日結束。"
-    },
-    {
-      "id": "te:markets:559436",
-      "time": "2026-06-17 02:20:18",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Metals Commodities Updates: Platinum Gains by 2.81% — Top commodity gainers are Platinum (2.81%) and Gold (0.70%). Biggest losers are Iron Ore CNY (-1.23%), Lithium Carbonate (-0.88%) and Steel Rebar (-0.76%)."
     }
   ]
 }
