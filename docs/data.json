@@ -1,7 +1,31 @@
 {
-  "updated": "2026-06-23 13:50:00",
-  "count": 17224,
+  "updated": "2026-06-23 13:54:04",
+  "count": 17218,
   "items": [
+    {
+      "id": "mkt:019ef30a-7c0a-7dd8-b0cd-bc80b9240356",
+      "time": "2026-06-23 13:53:31",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "China's CSI 500 index futures (IC) most-active contract fell below 8,500 points, down 1.58% intraday."
+    },
+    {
+      "id": "4949623",
+      "time": "2026-06-23 13:51:55",
+      "tags": [
+        "公司"
+      ],
+      "text": "【匹克集團等成立新產業園開發公司，註冊資本8000萬】天眼查App顯示，近日，福建匹克領秀產業園開發有限責任公司成立，法定代表人為李少偉，註冊資本8000萬人民幣，經營範圍包括園區管理服務、住房租賃、非居住房地產租賃等。股東資訊顯示，該公司由泉州市匹克鼎鑫置業有限公司、福建省領秀跨貿科技有限公司、福建匹克集團有限公司共同持股。"
+    },
+    {
+      "id": "4949622",
+      "time": "2026-06-23 13:50:34",
+      "tags": [
+        "其他"
+      ],
+      "text": "土耳其下令拘留241名恐怖嫌疑人。"
+    },
     {
       "id": "4949620",
       "time": "2026-06-23 13:48:51",
@@ -157910,87 +157934,6 @@
         "市場"
       ],
       "text": "大盤主力淨流出超100億。"
-    },
-    {
-      "id": "4937822",
-      "time": "2026-06-16 13:53:57",
-      "tags": [
-        "央行"
-      ],
-      "text": "澳洲聯儲行長布洛克：通脹活動與5月份的預測一致。"
-    },
-    {
-      "id": "4937821",
-      "time": "2026-06-16 13:53:39",
-      "tags": [
-        "公司"
-      ],
-      "text": "【順絡電子成立新公司 含積體電路相關業務】企查查APP顯示，近日，珠海順絡電子有限公司成立，註冊資本5000萬元，經營範圍包含：電子元器件與機電元件裝置銷售；積體電路製造；積體電路銷售；電子專用裝置製造等。企查查股權穿透顯示，該公司由順絡電子全資持股。"
-    },
-    {
-      "id": "mkt:019ecefc-796f-7dd8-b021-7148fa26ae78",
-      "time": "2026-06-16 13:51:53",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI"
-      ],
-      "text": "Reserve Bank of Australia Governor Bullock said current oil prices are consistent with the bank's baseline forecast."
-    },
-    {
-      "id": "4937820",
-      "time": "2026-06-16 13:51:01",
-      "tags": [
-        "其他"
-      ],
-      "text": "【國家統計局：服務消費增勢良好 帶動消費提質升級】國家統計局今天釋出的資料顯示，1—5月份社會消費商品和服務零售總額增長2.8%，保持平穩增長，其中，服務消費增勢良好，帶動消費結構呈現新亮點。國家統計局新聞發言人表示，今年以來，各方面深入實施提振消費專項行動，創新消費場景，激發消費潛力，促進消費提質升級，我國商品和服務銷售規模總體繼續擴大。從5月當月看，商品零售額出現了一定下降，主要是受去年同期基數較高等因素影響。國家統計局新聞發言人付凌暉表示，對於消費的情況，要全面看待，不僅是商品消費，還有服務消費。1—5月份，服務零售額同比增長5.4%，這個速度持續高於商品零售額增速。這種變化是經濟發展規律所決定的，也是消費升級的重要體現。國家統計局新聞發言人表示，服務消費增勢良好，具體體現在，旅遊消費較快發展，文化體育賽事消費升溫，對消費的帶動不斷顯現。1—5月份，文體休閒服務類零售額同比增長超過10%。“五一”期間，全國舉辦營業性演出收入增長超過10%。與此同時，新型消費潛能釋放。網上消費、數字消費、綠色消費成為消費的新增長點。1—5月份，通訊資訊服務類零售額增長超過10%，可穿戴智慧裝置零售額大幅增長，限額以上單位中高能效等級家電零售額增長超過30%。付凌暉表示，居民消費的能力和意願還有待進一步增強，一些領域的市場供給還不能完全滿足消費升級的需要，對此要深入實施提振消費專項行動，多措並舉促進居民就業增收，不斷創新消費場景，最佳化消費環境，更好地釋放消費潛力，改善人民生活。"
-    },
-    {
-      "id": "mkt:019ecefb-a12e-7dd8-b021-6d66055700e0",
-      "time": "2026-06-16 13:50:57",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC"
-      ],
-      "text": "Japan 40-year government bond yield rose 3.5 bps to 3.685%."
-    },
-    {
-      "id": "4937819",
-      "time": "2026-06-16 13:50:37",
-      "tags": [
-        "公司"
-      ],
-      "text": "【金證股份：金證A8中標浙商銀行國產化債券交易系統專案】據金證股份訊息，近日，金證A8新一代投資交易系統中標浙商銀行國產化債券交易系統專案，現一期已平穩上線。浙商銀行與金證股份的本次合作主要聚焦於場內債券交易場景，助力浙商銀行實現現有交易所債券交易系統與管理平臺功能全量遷移，同時滿足國產信創化要求。"
-    },
-    {
-      "id": "4937818",
-      "time": "2026-06-16 13:50:31",
-      "tags": [
-        "公司"
-      ],
-      "text": "巴克萊將保時捷評級從\"減持\"上調至\"中性\"。"
-    },
-    {
-      "id": "4937817",
-      "time": "2026-06-16 13:50:05",
-      "tags": [
-        "公司"
-      ],
-      "text": "【山東新動能基金等新設創投基金 出資額20億元】企查查APP顯示，近日，山東省魯航動能創業投資基金合夥企業（有限合夥）成立，出資額20億元，經營範圍包含：創業投資（限投資未上市企業）。企查查股權穿透顯示，該企業由山東省新動能私募基金管理有限公司等共同出資。"
-    },
-    {
-      "id": "te:markets:559243",
-      "time": "2026-06-16 13:50:04",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "New Zealand",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "NZX Hits Over 3-Month High, Ends 0.5% Higher — The NZX 50 rose 66 points, or 0.5%, to close at 13,426 on Tuesday, halting losses from the previous session, mainly buoyed by gains in the utilities, energy, technology, and consumer discretionary sectors. The broader index hit its highest level since March 6, tracking a rally on Wall Street overnight as concerns over inflation eased due to lower oil prices following a peace deal between the US and Iran. However, fresh data limited the gains, as New Zealand's food inflation accelerated to 3.2% in May. Traders also anticipated this week's release of New Zealand's Q1 GDP data and the Fed's monetary policy decision. Delegat Group jumped 14.3% after the company revised its full-year earnings forecast upward. Other top performers were Henderson Far East Income (3.7%), Skellerup Holdings (3.1%), Fletcher Building (1.3%), Fisher & Paykel Healthcare (1.2%), Infratil (0.7%), and ANZ Group (0.6%)."
     }
   ]
 }
