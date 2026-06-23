@@ -1,7 +1,120 @@
 {
-  "updated": "2026-06-23 13:54:04",
-  "count": 17218,
+  "updated": "2026-06-23 13:58:10",
+  "count": 17222,
   "items": [
+    {
+      "id": "4949631",
+      "time": "2026-06-23 13:57:20",
+      "tags": [
+        "國際"
+      ],
+      "text": "SKANSKA 簽署美國喬佐治亞州資料中心追加合同，合同金額為2.55億美元，約合23億瑞典克朗。工程將於2026年3月開工，預計2028年第一季度竣工。"
+    },
+    {
+      "id": "4949630",
+      "time": "2026-06-23 13:56:58",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "中證500指數期貨連續主力合約日內跌2%，現報8477.00點。"
+    },
+    {
+      "id": "mkt:019ef30d-0bdf-7dd8-b0cd-d1f2e0183e11",
+      "time": "2026-06-23 13:56:18",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Korea Exchange removes circuit-breaker mechanism for the KOSPI."
+    },
+    {
+      "id": "mkt:019ef30c-8e6f-7dd8-b0cd-c893496df8e8",
+      "time": "2026-06-23 13:55:46",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bearish"
+      ],
+      "text": "Shanghai Stock Exchange 50 index futures (IH) front-month contract hit an intraday low of 2,900 points, down 2.55% on the day."
+    },
+    {
+      "id": "4949629",
+      "time": "2026-06-23 13:55:44",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【全國地質勘查行業管理工作研討會召開】據自然資源部訊息，6月18日，全國地質勘查行業管理工作研討會在京召開。會議明確，自然資源主管部門要切實履行地質勘查行業管理職責，做好“示範引領、依規監管、政策服務”三個方面工作。充分發揮中國地質調查局“國家隊”在科技、裝備、標準、規劃實施等方面的引領作用，開展地質勘查單位綜合能力評價，樹立區域標杆典型。實行備案和分級分類監管，健全全鏈條質量管控，嚴守安全底線。貫徹落實新《中華人民共和國礦產資源法》及其實施條例，實施好已出臺政策，繼續出臺更多具有含金量的支援政策，共同推動地勘行業高質量發展。"
+    },
+    {
+      "id": "mkt:019ef30b-a960-7dd8-b0cd-c4f1d0c336ae",
+      "time": "2026-06-23 13:54:48",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "SSE Composite",
+        "Impact bearish"
+      ],
+      "text": "Shanghai Composite falls more than 1%; gold, PCB and salt-lake lithium extraction sectors lead declines."
+    },
+    {
+      "id": "4949628",
+      "time": "2026-06-23 13:54:40",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "上證指數跌1.00%，現報4121.418點；深證成指跌2.65%，現報15938.730點；創業板指跌3.20%，現報4219.911點。"
+    },
+    {
+      "id": "4949627",
+      "time": "2026-06-23 13:54:27",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "聚丙烯連續主力合約日內跌3%，現報7392.00元。"
+    },
+    {
+      "id": "4949626",
+      "time": "2026-06-23 13:54:18",
+      "tags": [
+        "國際"
+      ],
+      "text": "韓國綜合股價指數（KOSPI）在熔斷措施解除後恢復交易。"
+    },
+    {
+      "id": "4949625",
+      "time": "2026-06-23 13:54:03",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【功率半導體概念再度拉昇 華微電子直線漲停】午後功率半導體概念再度拉昇，華微電子直線漲停，此前上海貝嶺漲停，宏微科技、臺基股份漲超10%，捷捷微電、士蘭微、華潤微等漲幅靠前。"
+    },
+    {
+      "id": "4949624",
+      "time": "2026-06-23 13:53:50",
+      "tags": [
+        "國際"
+      ],
+      "text": "泰國支援曼谷單一票價公共交通系統計劃。"
+    },
+    {
+      "id": "te:markets:561014",
+      "time": "2026-06-23 13:53:41",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "New Zealand",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "New Zealand Equities End Slightly Lower — The NZX 50 inched down 10 points, or 0.1%, to close at 13,436 on Tuesday, extending losses from the prior session, mainly weighed down by materials, industrials, and healthcare stocks. Traders were cautious as they anticipated the release of the US final Q1 GDP data and the May PCE Price Index, due this week, for clues on the Fed's monetary policy decision at its upcoming meeting, after it held interest rates steady last week. Gains in consumer staples, financials, and communication services limited the decline. However, easing oil prices capped the fall as inflation fears eased amid ongoing US-Iran peace talks, while Washington granted Iran a 60-day license to sell oil on international markets. Vulcan Steel dropped 3.0%, Briscoe Group fell 2.3%, Auckland International Airport was down 1.9%, Sanford fell 1.7%, Fisher & Paykel Healthcare declined 1.6%, Ebos Group shed 1.2%, and Mainfreight was down 1.0%."
+    },
     {
       "id": "mkt:019ef30a-7c0a-7dd8-b0cd-bc80b9240356",
       "time": "2026-06-23 13:53:31",
@@ -157867,73 +157980,6 @@
         "MKT News"
       ],
       "text": "【IDC: Global smart eyewear shipments 3.566 mln in Q1 2026, up 130.1% YoY】IDC reports Q1 2026 global smart eyewear shipments totaled 3.566 mln units, up 130.1% YoY. Audio and audio‑capture glasses shipments were 2.248 mln units, up 167.4% YoY; AR/VR shipments were 1.318 mln units, up 85.9% YoY."
-    },
-    {
-      "id": "4937830",
-      "time": "2026-06-16 13:57:49",
-      "tags": [
-        "公司"
-      ],
-      "text": "【通用具身智慧機器人公司深樸智慧完成數億元Pre-A輪融資，滴滴領投】近日，通用具身智慧機器人公司深樸智慧（Simple AI）宣佈完成數億元Pre-A輪融資。本輪融資由滴滴領投，梅花創投、柯力感測跟投，老股東創世夥伴創投、線性資本、普華資本持續加碼。"
-    },
-    {
-      "id": "4937829",
-      "time": "2026-06-16 13:57:36",
-      "tags": [
-        "公司"
-      ],
-      "text": "諾和諾德執行長：司美格魯肽的監管資料保護將持續到明年第二季度，預計屆時仿製藥將開始加入競爭。"
-    },
-    {
-      "id": "4937828",
-      "time": "2026-06-16 13:57:25",
-      "tags": [
-        "其他"
-      ],
-      "text": "【IDC：第一季度全球智慧眼鏡市場出貨量356.6萬臺 同比增長130.1%】IDC最新資料顯示，2026年第一季度全球智慧眼鏡（Smart Eyewear）市場出貨量356.6萬臺，同比增長130.1%。其中全球音訊和音訊拍攝眼鏡市場出貨量224.8萬臺，同比增長167.4%；AR/VR市場出貨131.8萬臺，同比增長85.9%。"
-    },
-    {
-      "id": "4937827",
-      "time": "2026-06-16 13:57:22",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【滬電股份股價創歷史新高】滬電股份盤中股價創歷史新高，現漲7.06%，報143.21元，總市值為2740.49億元。"
-    },
-    {
-      "id": "4937826",
-      "time": "2026-06-16 13:56:46",
-      "tags": [
-        "其他"
-      ],
-      "text": "家樂福釋出2030年展望：目標植物基替代產品銷售額達10億歐元，有機及經認證可持續產品銷售額達85億歐元。"
-    },
-    {
-      "id": "4937825",
-      "time": "2026-06-16 13:56:35",
-      "tags": [
-        "公司"
-      ],
-      "text": "諾和諾德執行長：UBT-251將在我們的未來資產中發揮非常重要的作用。"
-    },
-    {
-      "id": "4937824",
-      "time": "2026-06-16 13:56:04",
-      "tags": [
-        "公司",
-        "焦點",
-        "國際"
-      ],
-      "text": "諾和諾德執行長表示：我們將很快在中國提交口服版司美格魯肽（商品名Wegovy）的監管審批申請。"
-    },
-    {
-      "id": "4937823",
-      "time": "2026-06-16 13:55:48",
-      "tags": [
-        "市場"
-      ],
-      "text": "大盤主力淨流出超100億。"
     }
   ]
 }
