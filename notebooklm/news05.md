@@ -1,7 +1,583 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-06-24 07:07:14_
-_本檔包含 3192 則快訊，約 651146 字_
+_更新時間：2026-06-24 07:34:28_
+_本檔包含 3244 則快訊，約 650969 字_
+
+---
+
+### 2026-06-18 02:05:47  #市場 #焦點
+
+現貨黃金失守4310美元/盎司，日內跌0.61%。
+
+---
+
+### 2026-06-18 02:05:46  #市場 #焦點
+
+納斯達克中國金龍指數跌超0.5%，海天網路跌18.25%，新氧跌9.83%，迅雷跌6.45%，億咖通科技跌4.92%，霧芯科技跌3.81%。
+
+---
+
+### 2026-06-18 02:05:46  #市場
+
+現貨白銀日內跌1%，現報69.19美元/盎司。
+
+---
+
+### 2026-06-18 02:05:44  #MKT News #Important #Macro & Rates #The Fed (FOMC) #DXY #Impact bullish #US10Y #S&P500 #Impact bearish
+
+Fed FOMC projections: median core PCE inflation at 3.3% for end-2026, 2.5% for end-2027 and 2.1% for end-2028, versus March medians of 2.7%, 2.2% and 2.0%.
+
+---
+
+### 2026-06-18 02:05:43  #市場
+
+鈀金期貨日內跌2%，現報1342.95美元/盎司。
+
+---
+
+### 2026-06-18 02:05:41  #市場
+
+紐約期銀日內跌1%，現報69.78美元/盎司。
+
+---
+
+### 2026-06-18 02:05:39  #MKT News #EURUSD #Impact bearish #GBPUSD #USDJPY #Impact bullish
+
+Non-dollar currencies were broadly weaker: EUR/USD slid nearly 50 pips intra-session, GBP/USD fell over 40 pips and USD/JPY jumped more than 20 pips.
+
+---
+
+### 2026-06-18 02:05:38  #市場 #焦點
+
+紐約期金失守4330美元/盎司，日內跌0.58%。
+
+---
+
+### 2026-06-18 02:05:38  #MKT News #Important #Macro & Rates #The Fed (FOMC) #DXY #Impact bullish #US10Y #Impact bearish #S&P500
+
+【Fed dot plot: nine officials project rate hikes in 2026】The Fed dot plot covered 19 officials; 18 submitted projections. Among those 18, 1 projects a cumulative 75 bps increase in 2026, 5 project 50 bps, 3 project 25 bps, 8 project unchanged rates, and 1 projects a cumulative 25 bps cut.
+
+---
+
+### 2026-06-18 02:05:22  #Trading Economics #Markets #United States #stocks #Importance 1
+
+Union Pacific Stock Price Hits 7-week Low — Union Pacific shares decreased to 258.52 USD, the lowest since April 2026. Over the past 4 weeks, Union Pacific lost 5.93%, and in the last 12 months, it increased 16.58%.
+
+---
+
+### 2026-06-18 02:05:14  #MKT News #Important #Macro & Rates #The Fed (FOMC) #US10Y #Impact bearish #DXY #Impact bullish #EURUSD
+
+FOMC median PCE inflation projections for end-2026, end-2027 and end-2028 are 3.6%, 2.3% and 2.0%, versus March medians of 2.7%, 2.2% and 2.0%.
+
+---
+
+### 2026-06-18 02:05:06  #央行 #國際
+
+美聯儲FOMC經濟預期： 2026 年至 2028 年GDP增速預期中值分別為 2.2%、2.3%、2.2%。（3月預期分別為2.4%、2.3%、2.1%）
+ 2026、2027、2028年底和長期聯邦基金利率預期中值分別為3.8%、3.6%、3.4%、3.1%。（3月預期分別為3.4%、3.1%、3.1%、3.1%）
+2026年至2028年底PCE通脹預期中值分別為3.6%、2.3%、2.0%。（3月預期分別為2.7%、2.2%、2.0%）
+
+---
+
+### 2026-06-18 02:05:04  #MKT News #Macro & Rates #The Fed (FOMC) #S&P500 #Impact bullish #DXY #Impact bearish #XAUUSD
+
+Federal Reserve FOMC statement reiterated it will maintain ample reserves in the banking system and directed the Open Market Trading Desk to increase securities holdings as appropriate.
+
+---
+
+### 2026-06-18 02:04:53  #MKT News #Important #Macro & Rates #The Fed (FOMC) #DXY #Impact bullish #US10Y #Impact bearish #S&P500
+
+Markets now fully price a 25bp Fed rate hike before year-end.
+
+---
+
+### 2026-06-18 02:04:47  #MKT News #Important #Macro & Rates #The Fed (FOMC) #DXY #Impact bullish #US10Y #EURUSD #Impact bearish
+
+FOMC median federal funds rate projections for end-2026, end-2027, end-2028 and the longer run are 3.8%, 3.6%, 3.4% and 3.1%, respectively; March projections were 3.4%, 3.1%, 3.1% and 3.1%.
+
+---
+
+### 2026-06-18 02:04:30  #MKT News #Important #Macro & Rates #The Fed (FOMC)
+
+Fed FOMC median GDP growth projections for 2026–28 are 2.2%, 2.3% and 2.2% respectively (March projections: 2.4%, 2.3%, 2.1%).
+
+---
+
+### 2026-06-18 02:04:22  #MKT News #Important #Macro & Rates #The Fed (FOMC) #S&P500 #Impact bearish #DXY #US10Y #Impact bullish
+
+Federal Reserve FOMC projections: median 2026 GDP growth forecast lowered to 2.2% from 2.4%.
+
+---
+
+### 2026-06-18 02:04:14  #MKT News #Macro & Rates #The Fed (FOMC) #S&P500 #Impact bearish #Dow #Nasdaq100
+
+Following the Fed rate decision, US equity indices slipped in a brief selloff: Dow -0.1%, S&P 500 -0.44%, Nasdaq -0.47%.
+
+---
+
+### 2026-06-18 02:04:12  #MKT News #Important #Macro & Rates #The Fed (FOMC) #DXY #Impact bullish #US10Y #S&P500 #Impact bearish
+
+Markets priced in further Fed tightening after the dot plot release.
+
+---
+
+### 2026-06-18 02:04:11  #MKT News #Macro & Rates #The Fed (FOMC) #DXY #Impact bullish #US10Y #S&P500 #Impact bearish
+
+FOMC statement said productivity growth and capital investment have been strong.
+
+---
+
+### 2026-06-18 02:04:11  #MKT News #Macro & Rates #The Fed (FOMC) #DXY #Impact bullish #S&P500 #Impact mixed #US10Y
+
+FOMC statement: Despite elevated uncertainty from the Middle East conflict, economic activity continues to expand at a solid pace.
+
+---
+
+### 2026-06-18 02:04:11  #MKT News #Important #Macro & Rates #The Fed (FOMC) #DXY #Impact bullish #USDJPY #EURUSD #Impact bearish
+
+Federal Reserve officials project the median federal funds rate at 3.8% at end-2026, up from a 3.4% projection in March.
+
+---
+
+### 2026-06-18 02:04:09  #MKT News #Macro & Rates
+
+FOMC statement: keeps overnight reverse repurchase rate unchanged at 3.50%.
+
+---
+
+### 2026-06-18 02:04:07  #MKT News #WTI #Brent
+
+After the Fed's rate decision, WTI and Brent crude saw limited short-term volatility, trading at $76.40/bbl and $79.20/bbl respectively.
+
+---
+
+### 2026-06-18 02:04:05  #MKT News #Macro & Rates #The Fed (FOMC)
+
+Federal Reserve FOMC statement: employment growth has kept pace with labor force growth.
+
+---
+
+### 2026-06-18 02:04:05  #MKT News #Important #Commodities #Precious Metals #Macro & Rates #The Fed (FOMC) #XAUUSD #Impact bearish #DXY #Impact bullish
+
+After the Federal Reserve's rate decision, spot gold plunged more than $40 intraday and the dollar index (DXY) rallied about 35 points.
+
+---
+
+### 2026-06-18 02:04:05  #MKT News #Important #Macro & Rates #The Fed (FOMC) #DXY #S&P500 #XAUUSD
+
+Federal Reserve FOMC statement: members unanimously agreed on the Committee's rate decision.
+
+---
+
+### 2026-06-18 02:04:02  #MKT News #Important #Macro & Rates #The Fed (FOMC)
+
+Fed dot plot shows 18 of 19 officials submitted projections; one official did not submit.
+
+---
+
+### 2026-06-18 02:03:51  #MKT News #Important #Macro & Rates #The Fed (FOMC) #DXY #Impact bullish #US10Y #Impact bearish #EURUSD
+
+FOMC statement: nine of 18 participants expect a rate hike in 2026.
+
+---
+
+### 2026-06-18 02:03:51  #MKT News #Important #Macro & Rates #The Fed (FOMC)
+
+FOMC statement: 17 of 19 Fed officials submitted interest-rate projections for 2028.
+
+---
+
+### 2026-06-18 02:03:30  #MKT News #Important #Macro & Rates #The Fed (FOMC)
+
+FOMC statement: the Committee will achieve price stability.
+
+---
+
+### 2026-06-18 02:03:16  #央行 #焦點 #國際
+
+美聯儲表示，委員會將實現價格穩定。
+
+---
+
+### 2026-06-18 02:03:01  #市場 #央行 #國際
+
+美聯儲宣告發布後，美國 10 年期美債收益率走高，收益率上漲 4.5 個基點，報 4.47%。 美國 2 年期美債收益率上行，收益率上漲 8 個基點，報 4.13%。
+
+---
+
+### 2026-06-18 02:02:08  #央行 #國際
+
+美聯儲經濟預期概要（SEP）：預計2026年美國失業率4.3%，3月份預計4.4%。
+
+---
+
+### 2026-06-18 02:01:57  #Trading Economics #Economy #United States #Interest Rate #Importance 3
+
+Fed Leaves Rates Steady — The Federal Reserve kept the federal funds rate unchanged at 3.50%-3.75% for a fourth consecutive meeting on June 17th 2026, in line with market expectations.
+
+---
+
+### 2026-06-18 02:01:51  #央行 #國際
+
+美聯儲FOMC宣告：委員們一致同意此次的利率決定。19名美聯儲官員中有17人提交了2028年的利率預測。
+
+---
+
+### 2026-06-18 02:01:44  #央行 #美聯儲
+
+美聯儲FOMC宣告顯示，18位FOMC參與者中有9位預計2026年加息。
+
+---
+
+### 2026-06-18 02:01:32  #央行 #焦點 #國際
+
+美聯儲在宣告中刪除關於進一步調整利率的表述。將隔夜逆回購利率維持在3.5%不變。18位FOMC參與者中有9位預計2026年加息。19名官員中，只有18人提交了點陣圖預測。
+
+---
+
+### 2026-06-18 02:01:21  #MKT News #Macro & Rates #The Fed (FOMC) #DXY #US10Y #EURUSD
+
+Fed's FOMC holds the interest rate on reserve balances at 3.65%.
+
+---
+
+### 2026-06-18 02:01:09  #央行 #國際
+
+美聯儲：生產率增長與資本投資表現強勁。
+
+---
+
+### 2026-06-18 02:00:44  #央行 #國際
+
+美聯儲：委員會重申維持銀行體系充足準備金的政策，並指示公開市場操作部門在適當時機增持證券資產。
+
+---
+
+### 2026-06-18 02:00:40  #央行 #國際
+
+美聯儲官員預計，2028 年末聯邦基金利率中值為 3.4%。
+
+---
+
+### 2026-06-18 02:00:34  #MKT News #Important #Macro & Rates #The Fed (FOMC) #DXY #Impact bearish #S&P500 #Impact bullish #US10Y
+
+The Federal Reserve removed wording in its statement referring to further rate adjustments.
+
+---
+
+### 2026-06-18 02:00:14  #MKT News #Important #Macro & Rates #The Fed (FOMC) #DXY #S&P500 #US10Y
+
+【Fed holds policy rate at 3.50%-3.75% as expected】The Fed left the target range for the federal funds rate at 3.50%-3.75% for a fourth consecutive meeting, in line with market expectations.
+
+---
+
+### 2026-06-18 02:00:09  #央行 #焦點 #國際
+
+美聯儲決定維持基準利率在3.50%-3.75%區間不變。
+
+---
+
+### 2026-06-18 02:00:09  #MKT News #Important #Macro & Rates #The Fed (FOMC) #S&P500 #Impact bullish #DXY #US10Y
+
+US Federal Reserve held the upper bound of the Fed funds target at 3.75% on June 17; in line with expectations and the prior rate of 3.75%.
+
+---
+
+### 2026-06-18 02:00:08  #MKT News #Macro & Rates #The Fed (FOMC)
+
+US federal funds target rate (lower bound) 3.50% as of June 17; expected 3.50%, prior 3.50%.
+
+---
+
+### 2026-06-18 02:00:08  #MKT News #Macro & Rates
+
+US rate on reserve balances 3.65% as of June 18; expected 3.65%; prior 3.65%.
+
+---
+
+### 2026-06-18 02:00:01  #MKT News #Economic Calendar #Important
+
+United States | FED‘s Federal Fund Rate (Upper Bound) (Jun.17) | actual 3.75% | consensus 3.75% | previous 3.75%
+
+---
+
+### 2026-06-18 02:00:01  #MKT News #Economic Calendar
+
+United States | Interest on Reserve Balances (Jun.18) | actual 3.65% | consensus 3.65% | previous 3.65%
+
+---
+
+### 2026-06-18 02:00:01  #MKT News #Economic Calendar #Important
+
+United States | FED's Federal Fund Rate (Lower Bound) (Jun.17) | actual 3.5% | consensus 3.50% | previous 3.50%
+
+---
+
+### 2026-06-18 01:58:52  #MKT News #Macro & Rates #The Fed (FOMC)
+
+JP Morgan's head of global fixed income Michelle said Fed Chair Kevin Warsh should be asked whether DISINFLATION is temporary.
+
+---
+
+### 2026-06-18 01:56:51  #市場 #央行 #國際
+
+美聯儲決議宣告發布前，標普500指數大致持平，道指漲0.3%，納指漲0.2%，半導體指數漲3.6%，銀行指數漲1.3%。美元指數漲0.1%，美元兌日元跌0.16%，歐元兌美元跌0.1%，英鎊兌美元跌0.2%。現貨黃金漲1.1%，白銀漲1.8%。美國10年期國債收益率跌1.38個基點，報4.4256%，兩年期美債收益率漲幅收窄至不足0.5個基點。
+
+---
+
+### 2026-06-18 01:53:30  #MKT News #Macro & Rates #The Fed (FOMC) #US10Y #Impact bearish #DXY #Impact bullish #S&P500
+
+【Analyst: Wash faces major credibility test at first Fed rate decision】Analyst Marte said this week's Fed meeting is Wash's first major credibility test as Fed chair; investors, policymakers and the public are watching whether he will defend the Fed's political independence. Trump has publicly urged independence on rate-setting but continues to signal a preference for lower borrowing costs. Some investors warn that if Wash fails to send a strong inflation signal he risks losing control of the bond market. April CPI rose 4.2% YoY, the fastest in over three years. Any impression the new chair intends to alter the Fed's 2% inflation target could push yields higher and further restrain the economy, running counter to Trump's objectives. A US–Iran peace deal could ease some fuel-price pressure, but pass-through to consumers would likely be delayed.
+
+---
+
+### 2026-06-18 01:52:12  #MKT News #Macro & Rates #The Fed (FOMC) #DXY #Impact bullish #US10Y #XAUUSD #Impact bearish
+
+Societe Generale head of US research Rajappa said core inflation will become the Fed's real concern.
+
+---
+
+### 2026-06-18 01:51:32  #MKT News #WTI #Impact mixed
+
+JP Morgan global fixed income head Michelle said the oil-price shock is to some extent temporary.
+
+---
+
+### 2026-06-18 01:50:47  #央行 #焦點 #國際
+
+【美聯儲6月決議宣告和新聞釋出會關注點】
+1、美聯儲是否會維持聯邦基金利率目標區間不變。
+2、美聯儲官員們對利率預測的點陣圖是否會有變化。
+3、美聯儲對美國經濟形勢（通脹和就業等）的看法。
+4、美聯儲主席凱文·沃什將在新聞釋出會上釋放哪些資訊。
+
+---
+
+### 2026-06-18 01:50:05  #MKT News #Important #Macro & Rates #The Fed (FOMC) #DXY #Impact mixed #US10Y #S&P500
+
+The Federal Reserve's FOMC will release its rate decision and the Summary of Economic Projections in 10 minutes.
+
+---
+
+### 2026-06-18 01:49:19  #MKT News
+
+Brazilian President Lula said he expects U.S. President Trump will not interfere in Brazil's election.
+
+---
+
+### 2026-06-18 01:49:02  #國際
+
+巴西總統盧拉：但我希望特朗普不要干涉巴西大選。
+
+---
+
+### 2026-06-18 01:48:48  #國際
+
+巴西總統盧拉：我認為特朗普有權對巴西大選持有個人偏向立場。
+
+---
+
+### 2026-06-18 01:48:08  #MKT News
+
+Lula said officials from the foreign and commerce ministries are negotiating with the United States.
+
+---
+
+### 2026-06-18 01:48:01  #MKT News #Market Themes #The Trump Trade
+
+Brazilian President Lula said Trump talks too much and listens too little.
+
+---
+
+### 2026-06-18 01:47:15  #國際
+
+巴西總統盧拉：倘若特朗普僅透過博索納羅家族來認識巴西，那他根本不瞭解這個國家。
+
+---
+
+### 2026-06-18 01:46:50  #國際
+
+【美媒：美官員公佈美伊諒解備忘錄文字】據多家美國媒體17日報道，美國匿名高階官員當天向媒體透露了美國與伊朗達成的諒解備忘錄“正式文字”內容。伊朗方面尚未對外公佈該檔案。（新華社）
+
+---
+
+### 2026-06-18 01:45:49  #MKT News #Macro & Rates #The Fed (FOMC)
+
+JP Morgan's global head of fixed income Michelle said she would be surprised by either a hawkish or dovish tilt.
+
+---
+
+### 2026-06-18 01:45:35  #MKT News #Macro & Rates #The Fed (FOMC) #DXY #Impact bullish #US10Y #Impact bearish #S&P500
+
+JP Morgan's global head of fixed income, Michelle, said if the Fed abandons its easing bias there would be no objection.
+
+---
+
+### 2026-06-18 01:45:34  #國際
+
+巴西總統盧拉：我認為特朗普對巴西瞭解甚少。
+
+---
+
+### 2026-06-18 01:45:02  #國際
+
+巴西總統盧拉： 若談判毫無成果，我會主動致電特朗普。
+
+---
+
+### 2026-06-18 01:44:38  #國際
+
+巴西總統盧拉：巴西外長與經貿官員正同美方開展談判，特朗普說得太多，聽得太少。
+
+---
+
+### 2026-06-18 01:44:23  #MKT News #Market Regions #Emerging Markets
+
+Brazilian President Lula said he would be willing to schedule a new meeting with U.S. President Trump once negotiations conclude.
+
+---
+
+### 2026-06-18 01:44:16  #MKT News
+
+Brazilian President Lula said he currently has no reason to speak with US President Trump and that they are in negotiations.
+
+---
+
+### 2026-06-18 01:44:16  #MKT News #DXY #Impact bullish #XAUUSD #Impact bearish #EURUSD
+
+JP Morgan's global fixed-income head Michelle said this is not an environment for interest-rate cuts.
+
+---
+
+### 2026-06-18 01:43:53  #MKT News
+
+JP Morgan's global head of fixed income Michelle said Fed chair Kevin Warsh is bound to disappoint Trump.
+
+---
+
+### 2026-06-18 01:43:52  #MKT News #Macro & Rates #The Fed (FOMC)
+
+Michelle, JP Morgan's global head of fixed income, said the question for Fed chair Kevin Warsh is what institutional reform means.
+
+---
+
+### 2026-06-18 01:43:50  #國際
+
+巴西總統盧拉：若談判結束，我不介意與特朗普再舉行一次會晤。
+
+---
+
+### 2026-06-18 01:43:44  #MKT News #Important #Macro & Rates #The Fed (FOMC) #US10Y #Impact mixed #DXY #WTI #Impact bullish
+
+【Institutions preview Wosh press conference; debut seen as hawk-or-dove pricing risk】Market participants warn Wosh’s first press conference could drive re-pricing: both hawkish and dovish messaging pose meaningful risks to rates, inflation expectations and Fed communication. UBS says Wosh’s policy stance and reaction function remain unclear; either hawkish or dovish remarks could spook markets. ANZ sees strong reform intent and expects the press conference to outline proposals, with fuller detail likely in Wosh’s Jackson Hole keynote in August. BofA expects a dovish tilt — Wosh may argue the Iran shock raises price levels but not underlying inflation and should be largely ignored by the Fed amid reports the conflict is de‑escalating. Capital Economics flags the risk Wosh could sound more hawkish than markets expect, either from a communication slip or because his stance is less dovish now than during his nomination push. Yale cautions that overreliance on soft arguments like AI-driven disinflation at the expense of hard data could repeat the Fed’s ‘transitory’ inflation error. Nordea expects a neutral-to-slightly hawkish tone to shore up credibility; any communication shift would be signaling rather than immediate policy. BNY Mellon notes Wosh’s criticism of forward guidance and says he may use (or curtail) press events to signal a change in Fed communication. MFS judges dovish language is possible given Wosh’s tech-productivity views but considers it unlikely because it would undermine his hawkish credibility.
+
+---
+
+### 2026-06-18 01:43:13  #國際
+
+巴西總統盧拉：我目前沒有與特朗普會談的理由，我們正處於談判階段。
+
+---
+
+### 2026-06-18 01:43:09  #MKT News #Important #Commodities #Precious Metals
+
+Spot silver rises more than 2% intraday to $71.42/oz.
+
+---
+
+### 2026-06-18 01:43:08  #市場
+
+現貨白銀日內漲2%，現報71.49美元/盎司。
+
+---
+
+### 2026-06-18 01:42:59  #其他
+
+Meta：自今日起，土耳其使用者可透過官網下載 Threads 應用。
+
+---
+
+### 2026-06-18 01:41:32  #MKT News #Brent #Impact bearish #WTI
+
+Iran's foreign ministry spokesman said Iran and Oman will establish a strait-management mechanism and will consult other countries if necessary.
+
+---
+
+### 2026-06-18 01:41:08  #焦點 #國際
+
+伊朗外交部發言人表示，伊朗與阿曼將建立針對霍爾木茲海峽的協調機制，必要時會同其他國家交換意見。
+
+---
+
+### 2026-06-18 01:40:58  #國際
+
+巴西總統盧拉：我並未要求在G7峰會上與特朗普舉行雙邊會晤。
+
+---
+
+### 2026-06-18 01:40:48  #市場 #焦點
+
+紐約期銀突破72美元/盎司，日內漲2.20%。
+
+---
+
+### 2026-06-18 01:40:43  #焦點 #國際
+
+伊朗官方媒體訊息：伊朗外交部發言人表示，雙方已就霍爾木茲海峽達成共識，將在一段時期內恢復航道航運正常通行。
+
+---
+
+### 2026-06-18 01:40:39  #MKT News #Market Themes #The Trump Trade
+
+Brazilian President Lula said he did not request a bilateral meeting with US President Trump at the G7 summit.
+
+---
+
+### 2026-06-18 01:40:33  #市場
+
+紐約期銀日內漲2%，現報71.96美元/盎司。
+
+---
+
+### 2026-06-18 01:40:26  #MKT News #WTI #Impact bearish #Brent
+
+Iranian state media quoted a Foreign Ministry spokesman saying an agreement has been reached to restore maritime traffic in the Strait of Hormuz to normal within a certain period.
+
+---
+
+### 2026-06-18 01:39:11  #MKT News #Important
+
+【U.S. official says U.S.-Iran 14-point memorandum is nonbinding, text aligns with prior leaks】Refinitiv reported a senior U.S. official on Wednesday read a 14-point memorandum due to be signed in Switzerland on Friday, saying it is not a final, binding agreement and either side may withdraw. The official said the next negotiation phase will focus on sequencing and implementation of measures in the preliminary pact and described the Swiss meeting as critical to whether the memorandum can evolve into a comprehensive agreement. He said the text he read largely matches versions previously leaked to the media.
+
+---
+
+### 2026-06-18 01:38:58  #觀點 #央行 #國際
+
+摩根大通全球固定收益主管： 這並非適合降息的經濟環境， 如果美聯儲取消寬鬆傾向，不會出現委員反對意見。
+
+---
+
+### 2026-06-18 01:38:30  #國際
+
+據以色列今日報：以色列希望加快與黎巴嫩的談判，儘快達成協議，甚至爭取在美伊全面協議形成之前完成。
+
+---
+
+### 2026-06-18 01:38:24  #MKT News
+
+According to Israel Hayom, Israel wants to accelerate talks with Lebanon to reach an agreement as soon as possible and is seeking to complete it even before a comprehensive U.S.-Iran deal is reached.
+
+---
+
+### 2026-06-18 01:38:06  #觀點 #國際
+
+摩根大通全球固定收益主管：  對沃什來說，問題是機制更替意味著什麼。 沃什註定會讓特朗普失望。
+
+---
+
+### 2026-06-18 01:35:53  #MKT News #WTI #Impact bullish #Brent
+
+Colombia's state oil company said blockades have halted production of more than 800,000 barrels of oil.
 
 ---
 
@@ -18997,263 +19573,5 @@ Oil Holds Decline on Supply Optimism — Crude oil traded near three-month lows 
 ### 2026-06-17 07:35:56  #公司
 
 【燃氣輪機走俏上市公司訂單飽滿】受能源結構轉型、AI資料中心建設提速等因素推動，全球燃氣輪機需求持續旺盛，行業景氣度與關注度同步升溫。有受訪專家對記者表示，當前燃機行業增長邏輯清晰、需求根基穩固，高景氣態勢有望延續。旺盛的市場需求不僅為相關上市公司帶來充足訂單，也為企業業績爆發創造了有利條件。
-
----
-
-### 2026-06-17 07:33:53  #MKT News #Brent #Impact bullish #WTI
-
-【G7 to tighten sanctions on Russia's oil and gas sector】G7 said it will increase deliveries of air‑defence systems, associated equipment, interceptors and long‑range strike capabilities to Ukraine and is prepared to consider licensing to expand Ukrainian military production. The group pledged to intensify pressure on the Russian economy and to strengthen sanctions, including measures targeting the oil and gas sector. The statement said now is an appropriate time for further steps, citing an agreement by Trump to support reopening the Strait of Hormuz.
-
----
-
-### 2026-06-17 07:31:30  #其他
-
-【高息大額存單日漸稀缺 存單加價倒賣暗流湧動】據中證報，存款利率持續下行，高息大額存單日漸稀缺，一場圍繞存單轉讓的私下加價交易在社交平臺上悄然升溫。一邊是轉出方試圖繞開官方平臺以加價方式尋求更高回報；另一邊是受讓方願意接受溢價，只為搶到心儀利率的存單。
-
----
-
-### 2026-06-17 07:31:24  #其他
-
-【厄瓜多10省3市進入緊急狀態】厄瓜多總統丹尼爾·諾沃亞16日簽署政令，宣佈為應對近期犯罪暴力事件加劇引發的“嚴重內部動盪”，包括首都基多所在省份在內的10省3市進入為期60天的緊急狀態。政令說，6月初以來，由於全國範圍暴力事件、武裝襲擊及有組織犯罪活動顯著增加，謀殺、綁架勒索、搶劫和毒品販運等犯罪活動持續發生，造成社會恐慌，影響經濟活動正常開展，因此決定在多地實施緊急狀態。其中包括基多所在的皮欽查省、瓜亞斯省、馬納維省等10個省，以及科託帕希省拉馬納市等3個市。
-
----
-
-### 2026-06-17 07:31:05  #公司
-
-【OpenAI2026年前三個月燒錢37億美元】OpenAI向股東披露的檔案顯示，公司一季度現金消耗達37億美元，超過其57億美元營收的半數。現金消耗與營收規模均同比增長兩倍，這表明即便人工智慧市場需求旺盛，依靠AI業務實現盈利依舊困難重重。本季度末，公司持有現金及有價證券超730億美元，去年12月末該數值僅為400億美元，這一變化源於公司三月底完成的鉅額融資。若後續現金消耗規模維持一季度水平，OpenAI短期內無需新一輪融資，或將緩解其倉促推進上市的壓力。不過，現金消耗金額可能每季度出現波動。據報道，該公司此前預測今年現金消耗250億美元，明年消耗570億美元。
-
----
-
-### 2026-06-17 07:30:36  #MKT News #Market Regions #Europe & UK #XAUUSD #Impact bullish #Brent #Impact bearish #DXY #Impact mixed
-
-【G7 reiterates Iran must not obtain nuclear weapons】G7 said it supports and is willing to help implement the US–Iran agreement and reaffirmed freedom of navigation and duty-free passage as pillars of international trade. It endorsed a France- and UK-led defensive initiative to protect merchant shipping, reassure shipping firms and assist clearance of sea mines to restore traffic through the Strait of Hormuz. The group called for a strong, comprehensive diplomatic follow-up to the memorandum of understanding reached by President Trump, saying negotiations must address Iran’s regional threats and ensure it never obtains nuclear weapons; talks should include active involvement from the International Atomic Energy Agency (IAEA) and other regional and international partners. G7 committed to accelerate diversification of energy supply routes and increase strategic stocks to cut global reliance on the Strait of Hormuz, and welcomed Canada’s pledge to add significant export capacity to global markets in coming years.
-
----
-
-### 2026-06-17 07:29:23  #MKT News
-
-The Information reports OpenAI burned $3.7 billion in the first three quarters of 2026.
-
----
-
-### 2026-06-17 07:28:48  #其他
-
-OpenAI在2026年第一季度燒掉37億美元資金。
-
----
-
-### 2026-06-17 07:28:02  #市場
-
-【證券行業佣金率下行勢頭仍在延續 滬上A股平均佣金率低至1.73‱】證券行業佣金率下行勢頭仍在延續。上海市證券同業公會最新資料顯示，2026年5月，上海地區A股平均佣金率（高頻量化業務除外）降至1.73‱，環比下降3.4%，再創歷史新低。這也是繼4月首次跌破1.8‱關口後，平均佣金率在短短一個月內的再次下探。與此同時，券商經紀業務核心指標普遍回暖。5月，上海地區A股交易量環比增長18%至20.3萬億元，新增資金賬戶51萬戶，環比大增15.9%，客戶保證金餘額也環比回升超過15%。量升價跌，逼近成本紅線的佣金價格戰也引發了投資者和監管的關注。券商依靠通道賺佣金的打法不斷受到考驗，轉型已是迫在眉睫。
-
----
-
-### 2026-06-17 07:27:52  #公司 #國際
-
-【英國首相斯塔默：英國和歐盟將於7月22日舉行峰會】英國首相斯塔默週二表示，英國與歐盟將於7月22日舉行第二次峰會。目前，英國政府正尋求重塑與歐盟的關係，並推動在貿易、安全和經濟領域加強合作。“我的工黨政府正在兌現我們的承諾，重塑雙邊關係，”斯塔默在社交媒體平臺發文稱。“我們將共同應對生活成本問題，增加就業，併為年輕人創造機會。”在黨內壓力加劇之際，斯塔默正為其政治前途而努力。他將加強與歐盟的關係視為推動經濟增長和緩解生活成本壓力的重要舉措。在法國舉行的七國集團(G7)峰會期間，斯塔默週二與歐洲理事會主席科斯塔(Antonio Costa)會晤。斯塔默辦公室一位發言人隨後表示，兩位領導人均指出，“更緊密的關係對於歐洲的安全、韌性和繁榮至關重要。”
-
----
-
-### 2026-06-17 07:26:55  #公司 #市場
-
-【逾千家上市公司十年未換審計機構 超長審計任期易滋生風險】審計關乎公眾利益，獨立性是審計的根基。根據規定，國有企業（含國有控股上市公司）連續聘用同一會計師事務所的時間不得超過8年，確有需要的，可按規定延長至不超過10年，之後須開展輪換。對於非國有上市公司，相關規定未作強制。證券時報記者梳理統計發現，A股市場超千家上市公司聘任同一會計師事務所連續審計超過10年，部分服務週期長達二三十年。規範審計是資本市場風險防控的關鍵一環。看似穩定、高效的長期合作模式，暗藏深層次結構性弊端。多位業內人士認為，超長期繫結的合作關係，可能逐步削弱審計的獨立性與約束力。審計任期引發的行業矛盾日漸凸顯：審計機構與企業長期合作容易形成利益繫結，影響審計獨立性；而簡單地“一換了之”，又會造成財報資料口徑波動、企業合規成本上漲。針對當前行業痛點，多位業內人士結合市場實操情況，提出分層最佳化方案，平衡審計獨立性與資本市場資訊披露穩定性。
-
----
-
-### 2026-06-17 07:26:47  #宏觀 #國際
-
-【韓國考慮提前解除石腦油出口限制】韓國《首爾經濟日報》援引不願具名的政府官員訊息稱，韓國正考慮較原定時間提前取消石腦油出口管控措施。此次考量背景為國內石腦油裂解裝置開工率已恢復至正常水平，且美國與伊朗即將正式簽署臨時和平協議。注：韓國於3月27日出臺石腦油出口限制政策，該管控原定於8月到期。
-
----
-
-### 2026-06-17 07:26:17  #公司 #觀點 #國際
-
-【聖邦微電子香港上市擬籌資不超過46億港元】根據呈交香港交易所的公告，聖邦微電子在香港發售5400萬股股份，每股發售價不超過85.20港元。計算顯示，該公司預計將融資不超過46億港元；預計6月26日上市交易。中金和華泰國際是聯席保薦人。
-
----
-
-### 2026-06-17 07:25:50  #公司
-
-【多家公司披露MLCC業務進展】AI算力與新能源雙輪驅動下，多層陶瓷電容器（MLCC）行業正經歷新一輪供需緊張。6月16日晚間，宏明電子、斯迪克、信維通訊等公司相繼披露MLCC業務進展。銀河證券最新發布的電子行業中期策略稱，AI伺服器和新能源車正在拉動MLCC需求高速增長，國產替代空間廣闊。
-
----
-
-### 2026-06-17 07:25:39  #公司
-
-【多銀行調整積存金業務：降費降門檻 延時交易】近期，多家銀行密集釋出積存金業務調整公告，並於6月前後集中推出下調投資門檻、延長線上交易時段、減免交易手續費等寬鬆舉措。此舉與年初金價衝高時，各大銀行收緊積存金業務形成鮮明反差。受訪專家表示，銀行此番鬆綁是逆週期經營思路與中間業務增收壓力共同作用下的選擇。短期金價或將維持震盪調整，但中長期配置價值並未削弱，建議投資者採用定投方式分批佈局，切勿一次性重倉抄底。（證券日報）
-
----
-
-### 2026-06-17 07:24:41  #其他
-
-【年內新成立基金最高回報率超91%】今年以來，新基金髮行保持較高熱度，產品成立後的回報表現各不相同，開始出現明顯分化。Wind資料顯示，截至6月16日，年內新成立基金達到757只（僅統計主份額），合計規模達5910.28億元。其中，成立以來最高回報率達91.21%（融通科技甄選混合發起式A，2026年2月3日成立），最低回報率為-33.34%，差距懸殊。（證券日報）
-
----
-
-### 2026-06-17 07:24:35  #公司 #國際
-
-【組建“宇宙作戰集團”，影響全球戰略穩定，航空自衛隊改名暴露日本太空野心】為了發展進攻性武力，日本近年持續在太空、網路空間等新領域投入重注。據《日本經濟新聞》14日報道，日本航空自衛隊將在2026財年改編為“航空宇宙自衛隊”，這也是自1954年日本陸上自衛隊、海上自衛隊及航空自衛隊成立以來首次更名。接受記者採訪的中國專家表示，航空自衛隊改名的背後，是日本進一步發展進攻力量，以及推進太空軍事化的野心。由於日本航天實力在短期內難以取得較大突破，未來自衛隊可能會加強與美國太空軍的合作，對地區局勢形成挑戰。（環球網）
-
----
-
-### 2026-06-17 07:24:10  #公司 #市場
-
-【瓦楞紙價格強勢反彈 有上市公司稱相關業務毛利有所提升】今年4月下旬以來，國內瓦楞紙市場價格整體呈上漲格局。據生意社資料，截至6月16日，瓦楞原紙最新價格為2961元/噸，較今年4月20日的階段性低點上漲約11.23%。這一輪漲價潮的背後，是原料端廢黃板紙供應收緊與需求端出口持續高增的雙重推動。在此背景下，相關上市公司表示，隨著產品價格上漲，相關業務毛利有所提升。
-
----
-
-### 2026-06-17 07:23:42  #公司
-
-巴西國家開發銀行（BNDES）正與巴西石油公司（PETROBRAS）就礦業投資進行談判。
-
----
-
-### 2026-06-17 07:23:32  #MKT News
-
-【Trump administration pushes further transfer of Department of Education functions】The Trump administration announced it will transfer core functions of the U.S. Department of Education to other federal agencies, moving the Office of Special Education and Rehabilitative Services to the Department of Health and Human Services and shifting the Office for Civil Rights' investigative and enforcement work to the Department of Justice. The administration has already moved some K-12, higher education and career-technical programs to the Department of Labor under interagency agreements and has initiated a process to transfer a $1.7 trillion federal student loan portfolio to the U.S. Treasury.
-
----
-
-### 2026-06-17 07:23:21  #公司 #觀點
-
-【芯碁微裝6月17日起招股，發售價每股240.09-252.73港元】芯碁微裝公告，公司擬全球發售1283.865萬股H股(視乎超額配股權行使與否而定)，中國香港發售128.39萬股H股(可予重新分配)，國際發售1155.475萬股H股(包括僱員優先發售項下的313,600股僱員預留股份)(可予重新分配及視乎超額配股權行使與否而定)；2026年6月17日至6月23日招股，預期定價日為6月24日；發售價為每股發售股份240.09港元-252.73港元，H股的每手買賣單位將為50股，中金公司為獨家保薦人；預期H股將於2026年6月26日開始於聯交所買賣。據此計算，公司將募資至多32.4億港元。
-
----
-
-### 2026-06-17 07:22:58  #宏觀 #國際
-
-【特朗普政府再次推動轉移教育部職能】當地時間6月16日，央視記者獲悉，特朗普政府宣佈將把教育部部分核心職能轉移至其他聯邦機構，以推進關閉教育部的計劃。據悉，教育部負責特殊教育和康復服務的辦公室將劃歸衛生與公眾服務部，教育部民權辦公室的調查執法工作則將移交司法部負責。此外，教育部此前已透過跨部門協議，將部分K-12教育、高等教育及職業技術教育專案轉至勞工部，並啟動將1.7萬億美元聯邦學生貸款組合轉移至財政部的程式。
-
----
-
-### 2026-06-17 07:22:09  #其他
-
-【2026中國國際金融展開幕 人工智慧等新技術在金融業加速落地】2026中國國際金融展昨天（16日）開幕。記者在展會現場發現，人工智慧等新技術正在金融業加速落地，進一步提升我國金融服務的安全性和便利性。今年的中國國際金融展集中展示了金融業服務實體經濟，以及智慧支付、支付促消費等領域的科技新成果、新服務。雖然是金融展，但是記者發現，今年300多家參展商中，將近一半都是人工智慧領域的科技企業，他們正在幫助金融機構從硬體到軟體全方位升級，讓金融服務更加安全、更加便利。中國人民銀行表示，下一步，將進一步健全我國金融基礎設施的安全性和可靠性，提升金融服務實體經濟能力。（央視）
-
----
-
-### 2026-06-17 07:19:54  #公司 #觀點
-
-【中科聞歌6月17日起招股，發售價為每股60.70港元】中科聞歌公告，公司擬全球發售1483.46萬股H股(視乎超額配股權行使與否而定)，中國香港發售74.18萬股H股(可予重新分配)，國際發售1409.28萬股H股(可予重新分配及視乎超額配股權行使與否而定)；2026年6月17日至6月23日招股；發售價為每股發售股份60.70港元，H股的每手買賣單位將為200股，中金公司為獨家保薦人；預期H股將於2026年6月26日開始於聯交所買賣。據此計算，該公司將募資約9億港元。
-
----
-
-### 2026-06-17 07:18:41  #其他
-
-【國家中醫藥管理局：我國已建設25個皮膚科國家中醫優勢專科】國家中醫藥管理局昨天（16日）召開健康中國中醫藥健康促進主題釋出會，介紹我國皮膚病的中醫藥防治工作情況。目前，我國已建設25個皮膚科國家中醫優勢專科。資料顯示，為提升中醫藥皮膚病防治能力，目前我國已建設25個皮膚科國家中醫優勢專科，推進省級專科聯盟建設，帶動提升區域中醫皮膚病診療能力；同步規劃建設皮膚專業國家級中醫質控中心，推進省、市級質控中心建設，逐步完善中醫皮膚科質控網路，持續改進和提升中醫醫療質量。
-
----
-
-### 2026-06-17 07:18:18  #其他
-
-【價值藍籌暗流湧動 私募激辯A股風格輪動】近期，A股市場走勢微妙。一邊是以AI為核心的科技主線高位震盪，內部分化加劇；另一邊，銀行、券商、電力等蟄伏已久的藍籌板塊悄然回暖，少數龍頭股甚至逆勢創出階段新高。資金是暫時的“高低切換”，還是為系統性風格輪動蓄勢？值得注意的是，部分私募機構已開始審視AI賽道交易擁擠的潛在風險，並重新打量其它資產。一場關於A股風格走向的激辯，正在私募圈內展開。（中國證券報）
-
----
-
-### 2026-06-17 07:17:39  #公司 #國際
-
-【海事情報公司稱伊朗近兩月來首次出口原油】海事情報公司“油輪追蹤者”17日凌晨在社交媒體發文稱，該機構15日透過衛星影象核實，至少有兩艘隸屬伊朗國家油輪公司的超大型油輪已駛出美國海軍封鎖線，兩船共載有380萬桶伊朗原油。這是伊朗近兩個月來首次出口原油。 此外，該帖文稱，伊朗國家油輪公司旗下的“斯特里姆號”油輪正從巴基斯坦專屬經濟區駛出。該船此前已在那片海域滯留7周，一直等待返回伊朗港口。
-
----
-
-### 2026-06-17 07:16:31  #公司
-
-【蘋果將於明年推出帶攝像頭的AirPods和新一代摺疊屏iPhone】蘋果公司計劃於2027年底推出配備攝像頭的耳機AirPods，作為新品釋出計劃的一部分，這款產品將幫助蘋果進軍人工智慧裝置市場。據知情人士透露，蘋果計劃在推出下一代摺疊屏手機以及一款紀念iPhone問世20週年的新機型前後釋出該這款備。知情人士稱這將是蘋果迄今力度最大的新品釋出。相關產品有望在John Ternus於9月1日接任執行長後，為蘋果提供增長動力。
-
----
-
-### 2026-06-17 07:16:05  #其他
-
-【新股提示：北交所新股吉和昌今日申購】今日可申購北交所新股吉和昌，吉和昌發行總數約2800萬股，發行市盈率14.98倍，申購程式碼為：920193，申購價格：8.52元。
-
----
-
-### 2026-06-17 07:15:46  #公司
-
-【華卓精科IPO輔導工作完成】招商證券釋出關於北京華卓精科科技股份有限公司首次公開發行股票並上市輔導工作完成報告，經輔導，公司認為，輔導物件具備成為上市公司應有的公司治理結構、會計基礎工作、內部控制制度，充分了解多層次資本市場各板塊的特點和屬性；輔導物件及其董事、高階管理人員、持有百分之五以上股份的股東和實際控制人(或其法定代表人)已全面掌握髮行上市、規範運作等方面的法律法規和規則、知悉資訊披露和履行承諾等方面的責任和義務，樹立了進入證券市場的誠信意識、自律意識和法治意識。
-
----
-
-### 2026-06-17 07:15:40  #MKT News #Commodities #Energy #WTI #Impact bearish #Brent
-
-【Maritime intelligence firm says Iran exported crude for first time in nearly two months】Maritime intelligence firm Tanker Tracker said early on June 17 that satellite imagery on June 15 verified at least two National Iranian Tanker Company very large crude carriers had exited a US Navy blockade line carrying about 3.8 mln barrels of Iranian crude — Iran’s first crude exports in nearly two months. The firm added NITC’s tanker Strim was leaving Pakistan’s exclusive economic zone after being held there for seven weeks awaiting return to an Iranian port.
-
----
-
-### 2026-06-17 07:15:32  #公司
-
-皮博迪能源公司(Peabody Energy Corp)：已通知員工，因應對持續受保護的勞工行動，其旺博(Wambo)煤炭處理準備廠將實施為期兩週的停工。
-
----
-
-### 2026-06-17 07:14:23  #公司 #觀點
-
-【科拓通訊尋求透過香港IPO籌資約4億港元】根據港交所公告，廈門科拓通訊技術股份有限公司在其香港上市交易中提出按每股39.55港元的價格，發行1010萬股。據計算，該公司勢將籌資約4億港元（5110萬美元）。料將於6月26日掛牌上市。中金公司和民銀資本是聯席保薦行。
-
----
-
-### 2026-06-17 07:14:23  #MKT News #Brent #Impact bearish #WTI
-
-South Korea is considering lifting napatha export restrictions.
-
----
-
-### 2026-06-17 07:13:59  #國際
-
-【俄羅斯禁止103名加拿大人入境以回應加方制裁 】俄羅斯外交部16日晚在官網釋出通報稱，作為對加拿大對俄製裁措施的回應，俄方禁止103名加拿大籍人員入境。俄外交部表示，加拿大一些政治人物損害俄方權利和利益，破壞兩國關係。俄方一貫尊重加拿大人民，但反對加政府當前的敵對立場。根據俄外交部公佈的名單，此次被禁止入境的包括多名加拿大議員、加拿大前駐俄羅斯與烏克蘭大使等人員。
-
----
-
-### 2026-06-17 07:13:35  #公司
-
-【超30家公司調整定增方案 定增市場正從“提前鎖價”向“隨行就市”轉型】今年6月以來，A股定增市場掀起一輪方案“調整潮”。據證券時報記者不完全統計，截至6月15日，超30家上市公司將定增定價基準日從“董事會決議公告日”調整為“發行期首日”，即從原先的鎖價發行切換為更貼近發行期二級市場股價的定價模式。業內人士指出，採用“發行期首日”定價模式，可有效壓縮跨期套利空間，同時契合再融資市場化的監管導向。定增市場正加速從“提前鎖價”向“隨行就市”轉型，再融資的市場化與透明化程度有望進一步提升。
-
----
-
-### 2026-06-17 07:12:43  #公司 #市場
-
-【深化債市雙向開放 險資參與債券通“南向通”口徑明確】備受市場關注的險資參與債券通“南向通”，已正式落地。記者近日從業內獲悉，有關部門明確了保險資金參與內地和香港債券市場互聯互通南向合作機制相關口徑，主要包括資產分類、投資方式、交易機制等內容。目前，已有多家險資機構獲准開展債券通“南向通”投資，且陸續完成首筆交易。在業內人士看來，險資正式參與債券通“南向通”，對保險公司和境外債券市場而言都是實質性利好：一方面，有利於提升保險機構全球資產配置能力；另一方面，香港債券市場將迎來更多增量資金，市場流動性、交易活躍度有望改善。（上海證券報）
-
----
-
-### 2026-06-17 07:12:23  #Trading Economics #Economy #Japan #Reuters Tankan Index #Importance 1
-
-Japan Manufacturers’ Mood Improves for 2nd Month — The Reuters Tankan index for Japanese manufacturers climbed to +13 in June 2026 from +8 in May, marking a second straight month of improvement as strong semiconductor demand boosted confidence among chemicals, electronics, and machinery firms. The chemicals sector index jumped to +20 from +6, while firms reported robust chip-related orders despite ongoing geopolitical tensions. Meanwhile, non-manufacturers’ sentiment increased to +32 from +29, supported by stronger confidence in the real estate and construction sectors. Looking ahead, manufacturers expect sentiment to remain at +13 in September, while non-manufacturers forecast a decline to +19 amid geopolitical and supply chain concerns. The transport machinery sector, including automakers, turned more cautious, with its outlook dropping to -13 from +13, reflecting persistent material sourcing difficulties and supply chain disruptions.
-
----
-
-### 2026-06-17 07:11:47  #公司 #市場 #國際
-
-【軟銀縮減拉美投資佈局，當地創投熱潮消退】軟銀集團如今難以在拉美找到符合大額投資標準的初創企業，凸顯出短短數年前還湧入創紀錄風險資本的當地科技行業，熱度已大幅降溫。作為日本頭部企業之一，軟銀此前曾透過專項拉美基金，向本土初創企業輸送數十億美元資金。如今該集團表示，能夠滿足其 5000 萬美元及以上主力投資門檻的企業數量大幅減少。軟銀巴西管理合夥人兼負責人亞歷克斯・斯扎皮羅（Alex Szapiro）稱，公司目前雖在評估少量潛在投資標的，資金投放並無額度限制，但隨著風投機構紛紛轉向人工智慧賽道，可供選擇的優質專案池持續收縮。過去兩年，軟銀僅完成兩筆新增投資交易。他在採訪中表示：“我們很難在拉美找到能媲美歐美、亞洲優質標的的企業，短期內也看不到當地能誕生類似安索帕、OpenAI 級別的頂尖 AI 公司。”
-
----
-
-### 2026-06-17 07:11:34  #其他
-
-【2026陸家嘴論壇今日開幕 與會人士將圍繞“建立健全功能完善的資本市場”等議題展開討論】今日，主題為“全球治理倡議下的金融發展與合作：新願景、新挑戰和新機遇”的2026陸家嘴論壇正式開幕，70餘名中外嘉賓相聚黃浦江畔，共話全球金融治理新願景。該屆論壇由中國人民銀行、國家金融監督管理總局、中國證監會和上海市人民政府共同主辦，由國家金融監督管理總局局長丁向群與上海市市長龔正擔任共同輪值主席。按照往年慣例，來自中國人民銀行、國家金融監督管理總局和中國證監會等部門的負責人都將在陸家嘴論壇上發聲。證券時報記者昨日在論壇現場看到，工作人員正在進行現場佈置、裝置除錯等工作，參會嘉賓陸續前來報到。為期兩天的2026陸家嘴論壇期間，與會人士將圍繞“全球金融治理改革與合作”“建立健全功能完善的資本市場”“滬港金融協同發展賦能高水平金融開放”“健全科技金融全生命週期服務體系，服務實體經濟高質量發展”“科技創新賦能金融高質量發展”“提高普惠金融的有效性與精準度”“全球治理框架下的可持續金融創新與合作”等議題展開討論，以期為促進全球經濟復甦和金融穩定、推動中國金融改革開放提出具有啟迪意義的思路和建議。
-
----
-
-### 2026-06-17 07:09:46  #國際
-
-韓國考慮解除石腦油出口限制。
-
----
-
-### 2026-06-17 07:08:24  #公司 #國際
-
-【澳大利亞礦業與能源工會：皮博迪在新南威爾士州煤炭洗選廠對工人停工鎖廠】澳大利亞礦業與能源工會（MEU）週三表示，美國煤炭生產商皮博迪能源公司已對其位於新南威爾士州的聯合旺博洗煤廠的工人實施了為期兩週的停工鎖廠，這使得薪資糾紛進一步升級。該工會表示，自5月初以來，工人們一直採取受法律保護的工業行動，此前他們拒絕了一項包括年薪增長2.5%以及獎金安排調整在內的提議。
-
----
-
-### 2026-06-17 07:07:38  #其他
-
-【暴雨橙色預警繼續：廣西廣東重慶等地局地特大暴雨】中央氣象臺6月17日06時繼續釋出暴雨橙色預警：預計，6月17日08時至18日08時，廣西中南部、廣東大部、福建東南部以及重慶西部、貴州西部、雲南東部等地部分地區有大到暴雨，其中，廣西南部沿海、廣東沿海、重慶西部等地部分地區有大暴雨，局地特大暴雨（250～350毫米）。上述部分地區伴有短時強降水（最大小時降雨量20～50毫米，局地可超過90毫米），局地有雷暴大風等強對流天氣。
-
----
-
-### 2026-06-17 07:07:20  #其他
-
-【2025年度個稅彙算6月30日結束】2025年度個稅綜合所得彙算辦理將於6月30日結束。國家稅務總局釋出的最新資料顯示，截至5月底，已有超1.6億人完成個稅彙算申報，超過1.1億人辦理了退稅，退稅金額也明顯增大，退稅規模同比增加超過17%。稅務部門提示，在申請退稅過程中，需要重點關注的是“稅務稽核不透過”和“國庫退庫失敗”兩種情況。（央視）
 
 ---

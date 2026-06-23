@@ -1,7 +1,307 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-06-24 07:07:14_
-_本檔包含 3489 則快訊，約 651028 字_
+_更新時間：2026-06-24 07:34:28_
+_本檔包含 3466 則快訊，約 651086 字_
+
+---
+
+### 2026-06-23 05:26:57  #國際
+
+市場訊息： 烏克蘭與日本將設立規模達數千萬美元的聯合基金， 相關細節將於週四在波蘭舉辦的烏克蘭重建大會上公佈。
+
+---
+
+### 2026-06-23 05:25:38  #國際
+
+市場訊息：烏克蘭與日本計劃依託日立、東芝設立重建基金。
+
+---
+
+### 2026-06-23 05:19:49  #Trading Economics #Markets #Colombia #Stock Market #Importance 1
+
+COLCAP Drops After Tight Election Result — The MSCI COLCAP index fell 4.4% to close at 2,393 on June 22, reversing part of its recent rally after one of the tightest presidential elections in Colombian history. Optimism following the victory of Abelardo de la Espriella faded as investors assessed the narrow margin of victory and the challenges it may pose for implementing market-friendly reforms. The right-wing outsider secured the presidency with a lead of roughly one percentage point over leftist Senator Iván Cepeda, disappointing investors who had hoped for a stronger mandate. De la Espriella has pledged to reduce Colombia’s widening budget deficit while supporting coal mining and oil drilling to strengthen fiscal revenues. Financial and energy stocks led losses, with Cibest down 5.3% and Ecopetrol plunging 8.5%.
+
+---
+
+### 2026-06-23 05:15:44  #市場
+
+富時A50期指連續夜盤收跌0.01%，報16003點。
+
+---
+
+### 2026-06-23 05:11:39  #市場
+
+週一（6月22日）紐約尾盤（週二北京時間04:59），離岸人民幣（CNH）兌美元報6.7781元，較上週五紐約尾盤漲57點，日內整體交投於6.7863-6.7730元區間。
+
+---
+
+### 2026-06-23 05:10:49  #國際
+
+阿曼外交大臣：阿曼與伊朗談判代表共同重申恪守國際法，承諾保障霍爾木茲海峽航道安全、通行免收通行費。
+
+---
+
+### 2026-06-23 05:10:43  #MKT News #Macro & Rates #The Fed (FOMC) #S&P500 #Impact bullish #DXY #Impact bearish #US10Y #Impact mixed
+
+Federal Reserve's Goolsbee said Fed Chair Warsh's approach to reduce speculation about interest rates and pare back forward guidance is one he largely supports.
+
+---
+
+### 2026-06-23 05:10:12  #MKT News
+
+Oman's foreign minister said the country reiterated its commitment to international law and to safe, fee-free passage.
+
+---
+
+### 2026-06-23 05:09:38  #公司 #國際
+
+【美國FAA選用Air Space Intelligence打造AI空管工具】Air Space Intelligence公司贏得美國政府合同，將提供用於管理航班交通的人工智慧技術。該公司為美國聯邦航空局（FAA）開發了兩款AI工具：一款用於規劃飛行軌跡，另一款用於識別擁堵區域併為空中交通管制員提供解決方案。美國政府表示，新系統將減少航班延誤、改善交通流量並增加空域容量，預計整個過渡工作將於2028年底前完成。
+
+---
+
+### 2026-06-23 05:09:30  #MKT News
+
+Oman’s foreign minister said he hosted Iranian parliamentary speaker Ghalibaf and foreign minister Araghchi in Muscat tonight; they held constructive talks on the recent Iran‑US memorandum of understanding, with particular focus on the Strait of Hormuz.
+
+---
+
+### 2026-06-23 05:09:29  #央行 #國際
+
+美聯儲古爾斯比：在我看來，需要判斷本輪通脹是否具備持續性。 沃什的思路是減少市場對利率的猜測、弱化前瞻指引；我相當認同這一思路。
+
+---
+
+### 2026-06-23 05:08:41  #MKT News
+
+Fed's GOOLSBEE said he needs to assess whether the current inf will be persistent.
+
+---
+
+### 2026-06-23 05:07:58  #央行 #國際
+
+美聯儲古爾斯比：服務業通脹形勢略顯令人擔憂。
+
+---
+
+### 2026-06-23 05:07:35  #MKT News #Macro & Rates #The Fed (FOMC) #DXY #Impact bullish #US10Y #S&P500 #Impact bearish
+
+Fed's GOOLSBEE said more evidence is needed to show the current bout of inf is temporary; services‑sector inf is mildly concerning.
+
+---
+
+### 2026-06-23 05:07:17  #MKT News #Macro & Rates #The Fed (FOMC) #US Economy #S&P500 #Impact bullish #DXY #USDJPY
+
+Fed's Goolsbee said the US has not yet experienced a stagflation shock and the labor market has remained stable.
+
+---
+
+### 2026-06-23 05:06:57  #MKT News
+
+Romania's prime minister-designate failed to win parliamentary approval for the proposed cabinet.
+
+---
+
+### 2026-06-23 05:06:45  #其他
+
+【羅馬尼亞候任總理提交的內閣名單未獲議會透過】當地時間6月22日晚，羅馬尼亞參眾兩院聯席會議對候任總理阿德里安·韋什泰亞此前向議會提交的內閣成員名單和施政綱領進行投票。議會以189票贊成、23票反對否決了阿德里安·韋什泰亞的內閣成員名單。據悉，根據相關程式，羅馬尼亞總統達恩需再次提名新的總理人選。（央視新聞）
+
+---
+
+### 2026-06-23 05:06:42  #MKT News #DXY #Impact bullish #US10Y #Impact bearish #S&P500
+
+GOOLSBEE said markets remain stable; inf is well above target and the trend is unfavorable.
+
+---
+
+### 2026-06-23 05:06:36  #Trading Economics #Markets #Brazil #Stock Market #Importance 1
+
+Ibovespa Gains on US-Iran Peace Progress — The Ibovespa rose 1.2% to close at 170,370 on Monday as progress in peace talks between the US and Iran boosted market sentiment. US Vice President JD Vance and Iran’s Foreign Minister took part in negotiations in Switzerland, with mediators from Qatar and Pakistan reporting encouraging progress, including the establishment of a framework for future technical talks. Both sides agreed on a roadmap to reach a final agreement within 60 days. Oil prices declined, pushing bond yields lower and easing concerns over energy-driven inflation. Major banks led gains, with Itaú up 2.7% and Bradesco rising 1.8%. Utilities also advanced, with Axia up 2% and Sabesp gaining 3.5%. Petrobras rose 0.9% despite lower oil prices, supported by the payment of its latest interest on equity installment and the signing of a memorandum of understanding with Pemex. Retailers also contributed to gains, with Azzas surging 10.3% after presenting alternatives for Farm.
+
+---
+
+### 2026-06-23 05:06:31  #央行 #國際
+
+美聯儲古爾斯比： 我們尚未遭遇滯脹衝擊，就業市場保持穩定。
+
+---
+
+### 2026-06-23 05:06:03  #央行 #國際
+
+美聯儲古爾斯比： 通脹遠高於目標水平，且走勢趨於惡化。
+
+---
+
+### 2026-06-23 05:05:48  #其他
+
+Apollo私人信用基金將投資者贖回上限設在5%。
+
+---
+
+### 2026-06-23 05:05:45  #央行 #國際
+
+美聯儲古爾斯比： 不後悔投出反對票。
+
+---
+
+### 2026-06-23 05:05:15  #央行 #國際
+
+美聯儲古爾斯比：市場當前整體保持穩定。
+
+---
+
+### 2026-06-23 05:03:09  #其他
+
+市場訊息：據傳高通即將達成收購 AI 晶片初創企業 Modular 的交易。
+
+---
+
+### 2026-06-23 05:02:01  #市場
+
+【現貨黃金漲約0.9%，亞太早盤一度突破4220美元】週一（6月22日）紐約尾盤，現貨黃金漲0.87%，報4192.04美元/盎司，日內整體高位震盪、北京時間09:00漲至4220.72美元重新整理日高。COMEX黃金期貨跌0.87%，報4209.10美元/盎司，06:00低開至4151.40美元重新整理日低，08:00也開啟一波顯著的回升行情、逼近4240美元但日內整體沒能出現轉漲。現貨白銀漲0.35%，報65.1285美元/盎司，08:00出現一波顯著的拉昇行情、09:00重新整理日高至67.1472美元。COMEX白銀期貨漲0.21%，報65.700美元/盎司。COMEX銅期貨漲0.94%，報6.4340美元/磅。現貨鉑金漲0.89%，現貨鈀金漲0.52%。
+
+---
+
+### 2026-06-23 05:00:55  #央行 #國際
+
+韓國央行：韓國 6 月消費者 12 個月通脹預期中值為 2.8%，5 月同樣為 2.8%。
+
+---
+
+### 2026-06-23 05:00:10  #MKT News #Market Regions #Japan & APAC
+
+South Korea June consumer confidence index 106.6, versus 106.1 previously.
+
+---
+
+### 2026-06-23 05:00:09  #資料 #國際
+
+韓國6月消費者信心指數 106.6，前值106.1。
+
+---
+
+### 2026-06-23 05:00:00  #MKT News #Economic Calendar #Important
+
+South Korea | Consumer Confidence Index (Jun) | actual 106.6 | previous 106.1
+
+---
+
+### 2026-06-23 04:55:23  #國際
+
+【特斯拉致命車禍引發美國汽車安全監管機構調查】一起涉及特斯拉轎車的致命碰撞事故正接受聯邦調查，此前一輛電動汽車在德克薩斯州衝進一棟住宅，導致屋內一名女子身亡。美國國家公路交通安全管理局(NHTSA)週一表示，已對6月19日發生的這起事故展開特別撞車事故調查。該機構在電子郵件宣告中確認調查，但未提供更多細節。週五晚間，一輛特斯拉Model 3在休斯敦附近衝進一棟磚房。事故被前門攝像頭拍下後引發廣泛關注。Harris County警長辦公室在宣告中表示，司機告訴當局，車輛駛離道路並高速碰撞時，他正在使用自動駕駛輔助系統。
+
+---
+
+### 2026-06-23 04:49:32  #MKT News
+
+Iran's central bank governor said remaining frozen funds will not necessarily be restricted to basic goods and that Iran will be able to purchase other non-sanctioned goods.
+
+---
+
+### 2026-06-23 04:49:04  #央行 #國際
+
+塔斯尼姆通訊社訊息：伊朗央行行長稱，剩餘被凍結資金未必只能用於採購民生必需品，伊朗可動用該資金購置其他不受制裁限制的商品。
+
+---
+
+### 2026-06-23 04:48:52  #MKT News #WTI #Impact bearish #DXY #S&P500 #Impact bullish
+
+【Trump says Iran will accept large-scale weapons inspections】President Trump said on social media on June 22 that all parties understand Iran will agree to large-scale weapons inspections to ensure its long-term nuclear integrity. Earlier the same day US and Iranian delegations concluded a first round of talks at Bürgenstock, Switzerland. Vice President Vance said at a press briefing the talks made substantial progress, laying a strong foundation for a final deal, and that Iran had agreed to invite IAEA inspectors back. Iran's state news agency IRNA quoted Foreign Ministry spokesman BAGHAEI saying Iran's cooperation with the IAEA will continue under existing mechanisms and in accordance with Iranian parliamentary law and decisions of the Supreme National Security Council.
+
+---
+
+### 2026-06-23 04:48:48  #國際
+
+【特朗普稱伊朗將同意接受武器核查】美國總統特朗普22日在社交媒體發文稱，各方都完全清楚，伊朗將同意接受大規模武器核查，以確保其在未來長期保持“核誠信”。當天早些時候，美國和伊朗代表團在瑞士比爾根山的首輪談判結束。美國副總統萬斯在新聞釋出會上表示，美伊談判取得很多進展，為達成最終協議奠定非常好的基礎，伊朗已同意邀請國際原子能機構核查人員重返伊朗。伊朗伊斯蘭共和國通訊社22日援引伊朗外交部發言人巴加埃的話報道，伊朗與國際原子能機構的合作與互動將按照現行機制繼續進行，並遵循伊朗議會相關法律以及最高國家安全委員會作出的決定。（新華社）
+
+---
+
+### 2026-06-23 04:47:09  #MKT News
+
+【Iran parliament speaker says Iran, US should jointly guarantee Lebanon's territorial integrity】On 22 June, Iran's chief negotiator and parliament speaker Ghalibaf said an Iran‑US memorandum of understanding explicitly calls for ending wars against Iran and its allies. He said both sides concluded in Swiss talks that Iran and the United States should jointly guarantee Lebanon's territorial integrity. The MoU already includes assurances on territorial integrity and should be implemented; the parties agreed to establish a coordination center to resolve related issues, enable displaced Lebanese to return and facilitate withdrawal of Israeli forces from Lebanese territory.
+
+---
+
+### 2026-06-23 04:46:44  #國際
+
+美國聯邦航空管理局向一家美國航空航天防務企業授予一份價值 8.75 億美元的多年期軟體及人工智慧專案合同。
+
+---
+
+### 2026-06-23 04:46:43  #MKT News
+
+TASNIM NEWS: Iran's central bank governor said Tehran has no obligation under existing agreements to buy agricultural inputs from the United States.
+
+---
+
+### 2026-06-23 04:46:16  #國際
+
+【伊朗議長：伊美應共同保障黎巴嫩領土完整】當地時間22日，伊朗談判代表團團長、伊朗議會議長卡利巴夫表示，在伊美諒解備忘錄中，明確強調結束針對伊朗及其盟友的戰爭。卡利巴夫表示，伊美雙方在瑞士談判中達成結論，伊朗和美國應共同保障黎巴嫩的領土完整。諒解備忘錄中已包含對領土完整的保證，應繼續推進落實。為此，雙方同意建立協調中心以解決相關問題，從而使黎巴嫩民眾能夠返回家園，並促使以色列軍隊從黎巴嫩領土撤出。（央視新聞）
+
+---
+
+### 2026-06-23 04:45:57  #MKT News #Commodities #Energy
+
+Goldman Sachs says a two-month delay in Qatar LNG export restart to end-September 2026 could push Q4 2026 TTF gas prices toward €50/MWh versus its €40/MWh forecast.
+
+---
+
+### 2026-06-23 04:43:13  #國際
+
+【特朗普簽署兩項行政令 推動2028年部署用於科學研究的量子計算機】據華爾街日報報道，特朗普簽署了兩項行政命令，旨在加速先進量子計算機的研發，並降低其帶來的安全威脅。其中一項行政命令於週一簽署，指示包括能源部在內的聯邦機構與私營部門及學術界合作，在2028年前部署一臺能夠用於科學研究的量子計算機。這樣的目標被認為是展示該技術具備現實應用能力的關鍵指標。量子計算機能夠以遠超傳統超級計算機的速度解決問題，因此正成為全球各國日益重視的領域。特朗普簽署的第二項行政命令則要求各政府機構及安全專家為量子系統做準備——這些系統可能比預期更快地突破標準加密體系。其目標是強化政府與私營部門的安全系統，防止先進的量子駭客攻擊摧毀關鍵基礎設施。
+
+---
+
+### 2026-06-23 04:42:59  #MKT News #Market Themes #Crypto Concepts #Nasdaq100 #Impact bullish #S&P500
+
+【Trump signs two executive orders to accelerate quantum computing, seeks scientific-use machine by 2028】Trump signed two executive orders to speed advanced quantum computing R&D and reduce related security risks. One order, signed Monday, directs federal agencies including the Department of Energy to work with industry and academia to deploy a quantum computer usable for scientific research by 2028, a benchmark intended to demonstrate practical capability. The second directs agencies and security experts to prepare for quantum systems that could break standard encryption sooner than expected and to strengthen government and private-sector defenses to protect critical infrastructure.
+
+---
+
+### 2026-06-23 04:42:07  #Trading Economics #Markets #Canada #Stock Market #Importance 1
+
+TSX Rises on US-Iran Talks and Soft Core Inflation — The S&P/TSX Composite Index rose 0.4% to close at 35,002 on Monday as investors assessed US-Iran peace talks and Canada’s May inflation report. The US and Iran reportedly made progress in their first round of talks aimed at reaching a final peace deal. Oil prices fell, easing concerns over energy-driven inflation pressures. Meanwhile, annual inflation accelerated more than expected, driven by higher gasoline prices. However, the data is unlikely to alter the Bank of Canada’s view on underlying inflation, as core price measures remained soft. The BoC said earlier this month it saw limited evidence that higher energy prices were feeding into broader inflation. In addition, Canada’s banking regulator lowered capital requirements for the country’s largest lenders, a move expected to support credit growth. Banking stocks advanced, with RBC up 1% and BMO gaining 1.2%. Elsewhere, higher gold prices lifted Agnico Eagle by 2.2%, WPM by 4.7%, and Barrick by 1.2%.
+
+---
+
+### 2026-06-23 04:41:45  #觀點
+
+高盛：卡達液化天然氣出口擴產將推遲兩個月至 2026 年 9 月末，這一情況或推動 2026 年第四季度荷蘭 TTF 天然氣價格逼近 50 歐元 / 兆瓦時，高於該行此前 40 歐元 / 兆瓦時的預期。
+
+---
+
+### 2026-06-23 04:41:32  #央行 #焦點 #國際
+
+塔斯尼姆通訊社訊息：伊朗央行行長表示，依據現行相關協議，德黑蘭並無義務從美國採購農業生產資料。
+
+---
+
+### 2026-06-23 04:41:22  #MKT News #DXY #Impact bullish #EURUSD #Impact bearish #USDJPY
+
+【Dollar index up 0.29% on 22nd】The dollar index, measuring the dollar against six major currencies, rose 0.29% to 101.024 at the New York FX close on the 22nd. EUR/USD 1.1424 (prev. 1.1477); GBP/USD 1.3244 (1.3234); USD/JPY 161.42 (161.26); USD/CHF 0.8091 (0.8066); USD/CAD 1.4157 (1.4174); USD/SEK 9.6212 (9.5742).
+
+---
+
+### 2026-06-23 04:41:11  #公司 #市場 #國際
+
+【CFTC：資產管理公司美國國債期貨淨多頭增加 對沖基金淨空頭增加】美國商品期貨交易委員會(CFTC)資料顯示，截至6月16日當週，資產管理公司總體偏看漲美國國債期貨，尤其是在長端顯著增加淨多頭頭寸。另一方面，對沖基金在多個期限的美國國債期貨上增加淨空頭頭寸。當週，從10年期國債期貨到超長期國債合約，資產管理公司的淨多頭頭寸合計增加2020萬美元/DV01，其中大部分淨增幅出現在長期國債期貨，多頭增加約900萬美元/DV01。對沖基金當週最看空10年期國債期貨，淨空頭頭寸增加650萬美元/DV01。其長期國債期貨淨空頭頭寸增加近400萬美元/DV01。
+
+---
+
+### 2026-06-23 04:40:34  #市場
+
+【美元指數22日上漲】美元指數22日上漲。衡量美元對六種主要貨幣的美元指數當天上漲0.29%，在匯市尾市收於101.024。截至紐約匯市尾市，1歐元兌換1.1424美元，低於前一交易日的1.1477美元；1英鎊兌換1.3244美元，高於前一交易日的1.3234美元。1美元兌換161.42日元，高於前一交易日的161.26日元；1美元兌換0.8091瑞士法郎，高於前一交易日的0.8066瑞士法郎；1美元兌換1.4157加元，低於前一交易日的1.4174加元；1美元兌換9.6212瑞典克朗，高於前一交易日的9.5742瑞典克朗。
+
+---
+
+### 2026-06-23 04:39:48  #MKT News #Commodities #Energy #WTI #Impact bearish #Brent
+
+【International oil prices fell on the 22nd】NYMEX July light sweet crude futures fell $1.78 to $74.82/bbl, down 2.32% at the close; ICE August Brent crude futures fell $2.67 to $77.90/bbl, down 3.31%.
+
+---
+
+### 2026-06-23 04:39:26  #MKT News #Important
+
+【Ghalibaf says Strait of Hormuz to be managed under Iranian mechanism】On June 22, Ghalibaf, head of Iran’s negotiation delegation and parliament speaker, said management of the Strait of Hormuz will not return to its pre-war status and, while claiming compliance with international law, will be carried out under a mechanism set by Iran. He said Iran and the US agreed to establish a coordination centre and hotline to resolve incidents more quickly within a 30-day timeframe. The hotline is not for approving transit permits, which will follow existing procedures; it is intended only to handle vessel problems or emergencies.
 
 ---
 
@@ -20592,443 +20892,5 @@ According to Axios, a U.S. official said Iranian delegates had agreed to hold an
 ### 2026-06-21 23:44:49  #MKT News
 
 【Iran delegation begins bilateral talks with Qatar】Iranian media on the 21st reported that after the first round of Iran‑US negotiations concluded, Iran's delegation began bilateral talks with Qatar's delegation.
-
----
-
-### 2026-06-21 23:44:12  #國際
-
-【伊朗代表團開始與卡達代表團會談】據伊朗媒體21日報道，伊美談判第一輪結束後，伊朗代表團與卡達代表團的雙邊會談開始。（新華社）
-
----
-
-### 2026-06-21 23:41:23  #其他
-
-【全國游泳冠軍賽：宋伯睿爆冷奪金】2026年全國游泳冠軍賽21日收官，19歲的宋伯睿以1分57秒50奪得男子200米仰泳專案金牌並重新整理個人最好成績，徐嘉餘以1分57秒55收穫銀牌，潘展樂以1分58秒54收穫銅牌並重新整理個人最好成績。（新華社）
-
----
-
-### 2026-06-21 23:40:38  #MKT News #Important
-
-Iranian state media said bilateral talks between Iranian and Qatari delegations began after a four-party meeting ended.
-
----
-
-### 2026-06-21 23:40:18  #焦點 #國際
-
-伊朗官方媒體稱，伊朗與卡達代表團在瑞士的雙邊會談已於四方談判結束後啟動。
-
----
-
-### 2026-06-21 23:38:15  #其他
-
-【山東金鄉縣通報萬福河汙染問題：初步調查為汙水外溢導致，正應急處理】6月21日，山東省金鄉縣釋出通報稱，有網民反映金鄉縣萬福河水汙染問題，經初步調查，為食品加工汙水部分外溢進入萬福河。目前，當地已制定了汙水治理方案，並對汙染河段進行應急處置。
-
----
-
-### 2026-06-21 23:38:15  #MKT News #XAUUSD #Impact bullish #WTI #DXY
-
-Press TV reports an Iranian delegation has lodged a protest with the US over Trump’s recent verbal threats and is weighing options for an appropriate response.
-
----
-
-### 2026-06-21 23:37:26  #國際
-
-伊朗談判代表團已向美方提出抗議，目前正在斟酌應對特朗普近期口頭威脅的合適舉措。
-
----
-
-### 2026-06-21 23:34:50  #其他
-
-訊息人士：美伊在瑞士舉行的第二輪四方談判即將開始。
-
----
-
-### 2026-06-21 23:34:16  #國際
-
-以色列總理內塔尼亞胡：為保護北部民眾，我們將在黎巴嫩南部安全區駐守至必要之時。
-
----
-
-### 2026-06-21 23:33:56  #MKT News #Important
-
-Al Arabiya, citing sources, says a second round of US-Iran talks in Switzerland is imminent.
-
----
-
-### 2026-06-21 23:32:26  #其他
-
-【凝聚APEC工商合作共識 攜手書寫亞太發展新篇章】亞太經合組織（APEC）是亞太地區層級最高、領域最廣、最具影響力的經濟合作機制。作為APEC“中國年”工商領域標誌性活動，以“開放·互通·協同：連結亞太·共創未來”為主題的APEC工商領導人中國論壇21日在京舉辦。圍繞亞太自貿區、互聯互通、數字創新等熱點議題，亞太政商界人士深入交流、凝聚共識，攜手書寫亞太和全球發展新篇章。（新華社）
-
----
-
-### 2026-06-21 23:31:53  #國際
-
-【埃及總統：美伊最終協議應保障所有阿拉伯國家的安全】埃及總統塞西21日表示，美伊最終協議應保障海灣阿拉伯國家合作委員會成員國和所有阿拉伯國家的安全，回應相關國家關切。塞西當天在開羅會見巴基斯坦外長、沙烏地阿拉伯外交大臣和土耳其外長，就地區局勢發展以及支援落實美國與伊朗達成的諒解備忘錄等議題交換意見。（新華社）
-
----
-
-### 2026-06-21 23:30:15  #其他 #焦點
-
-【中國男籃熱身賽戰勝澳大利亞隊】21日，在杭州奧體中心體育館進行的熱身賽中，憑藉王俊傑和崔永熙最後時刻的出色發揮，中國男籃以91:81戰勝澳大利亞隊。
-
----
-
-### 2026-06-21 23:29:13  #國際
-
-伊朗媒體：下一輪會談預計將在1小時後開始。
-
----
-
-### 2026-06-21 23:28:06  #國際
-
-伊朗最高領袖顧問表示，伊朗不會放棄在霍爾木茲海峽取得的相關主動權。
-
----
-
-### 2026-06-21 23:27:54  #MKT News #WTI #Impact bullish #Brent #XAUUSD
-
-Fars News Agency: An adviser to Iran's supreme leader said Iran will not relinquish capabilities it has acquired in the Strait of Hormuz.
-
----
-
-### 2026-06-21 23:27:39  #國際
-
-【真主黨譴責黎巴嫩與以色列開展直接談判】真主黨表示，黎以官員將在華盛頓舉行的多輪直接談判不會帶來任何有利結果。該組織發文稱，黎巴嫩政府只會順從美國政府的指令行事，此舉有損黎巴嫩主權；並譴責與以色列的直接談判及其可能產生的一切後果。
-
----
-
-### 2026-06-21 23:23:11  #MKT News #Important
-
-【First round of U.S.-Iran talks ends; Iran says nuclear issue not raised】The first round of U.S.-Iran talks in Switzerland concluded on the 21st after an 80-minute session, Iran said. Pakistan and Qatar participated as mediators; the meeting was adjourned for a break and internal consultations. Iran said the nuclear programme was not discussed; discussions focused on implementing Article 13 of a memorandum of understanding and prioritized Lebanon-related issues.
-
----
-
-### 2026-06-21 23:20:32  #焦點 #國際
-
-【伊美首輪直接對話未談核問題】伊朗國家電視臺今天（6月21日）報道說，經過80分鐘的談判，在巴基斯坦與卡達調解方參與下舉行的四方會談暫時中止，以進行休息和內部磋商。伊朗國家電視臺的報道還說，與一些外國媒體報道不同，在首輪會談中並沒有討論伊朗核計劃相關問題，而是重點集中在落實諒解備忘錄第13條，並優先處理與黎巴嫩相關的議題。
-
----
-
-### 2026-06-21 23:19:14  #MKT News #Important #Brent #Impact bullish #WTI
-
-Islamic Republic of Iran Broadcasting (IRIB) said parties did not negotiate Iran's nuclear program during the first 80-minute round of talks.
-
----
-
-### 2026-06-21 23:19:04  #宏觀 #國際
-
-以色列總理內塔尼亞胡：我們將堅定捍衛本國核心利益，我們已取得重大成果，絕不會拱手相讓。只要局勢需要，我們就會持續駐守黎巴嫩南部“安全區”。至於伊朗，無論後續政治局勢如何演變，我絕不允許伊朗擁有核武器。只要我擔任以色列總理，這件事就絕不會發生。
-
----
-
-### 2026-06-21 23:18:47  #國際
-
-伊朗媒體：首輪80分鐘會談期間並未就伊朗核計劃展開任何談判。
-
----
-
-### 2026-06-21 23:18:16  #其他
-
-【中國隊張博恆奪得體操亞錦賽雙槓金牌】21日是2026年第13屆亞洲體操錦標賽、第19屆亞洲青年體操錦標賽男子賽事的最後一個比賽日，賽事在貴州省遵義市奧體中心進行，中國隊張博恆奪得雙槓金牌。（新華社）
-
----
-
-### 2026-06-21 23:18:03  #MKT News
-
-Iranian media report that after 80 minutes of negotiation, four-way talks between the US and Iran, with mediators from Pakistan and Qatar present, have been temporarily suspended for a short recess and internal consultations.
-
----
-
-### 2026-06-21 23:15:20  #其他
-
-【超警戒水位4.44米 洪峰過境廣西河池】據廣西河池水文中心監測，6月21日18時20分，龍江金城江水文站迎來洪峰，洪峰水位192.44米，超警戒水位4.44米，對應流量4220立方米每秒。（央視新聞）
-
----
-
-### 2026-06-21 23:14:58  #其他
-
-美伊四方會談在經過80分鐘磋商後暫時休會，各方將分別開展內部協商，巴基斯坦與卡達作為斡旋方全程在場。
-
----
-
-### 2026-06-21 23:13:24  #其他
-
-真主黨：黎巴嫩赴華盛頓談判難以取得有利成果。
-
----
-
-### 2026-06-21 23:12:31  #其他
-
-伊拉克石油部副部長表示，該國計劃逐步將原油產量恢復至危機前420萬至430萬桶/日的水平。
-
----
-
-### 2026-06-21 23:12:13  #國際
-
-真主黨譴責（黎巴嫩）與以色列進行直接談判。
-
----
-
-### 2026-06-21 23:11:26  #其他
-
-【顧客稱愛犬被海底撈帶辦公室後死亡 門店回應：與當事人積極溝通，前期已墊付醫藥費用】6月21日晚間訊息，據媒體報道，南京一女子反映，自己6月18日晚帶寵物去江寧區海底撈就餐，員工將狗帶到辦公室並承諾持續開啟空調。女子稱自己準備走的時候發現它口吐白沫，後經治療無效死亡。海底撈門店負責人稱，員工怕狗冷關掉了空調。女子稱自己為愛犬已花掉2千元，多次協商未果後，顧客已報警處理。對此，涉事門店回應稱，目前海底撈所有門店謝絕顧客攜帶寵物進店用餐，個別門店在非就餐區提供寵物寄存服務。門店表示，經查 ，6月18日晚22點32分，顧客將寵物狗臨時寄存於門店辦公室，未進入就餐區域，此時辦公室室內溫度約為23度；門店夥伴於23點17分關閉辦公室空調，顧客於23點19分將寵物狗帶離辦公室，並下樓；大約半小時後，顧客返回門店，於23點48分將寵物狗重新放回辦公室，並於次日0點34分將寵物狗帶離門店，此時室內溫度約為27度。關空調前後，期間溫差大約5度。門店稱，目前我們正與當事人積極溝通中，前期我們已墊付醫藥費用，並退還顧客餐費，後續我們將最佳化相關服務。
-
----
-
-### 2026-06-21 23:08:19  #MKT News #Important
-
-【First round of Iran-US talks concluded】Foreign media reported on the 21st that the first round of Iran-US talks concluded.
-
----
-
-### 2026-06-21 23:07:45  #國際
-
-據外媒21日報道，伊美談判第一輪已結束。（新華社）
-
----
-
-### 2026-06-21 23:07:30  #MKT News
-
-Iran's Fars news agency, citing an informed member of Iran's negotiation team, said the first round of four-party talks in Switzerland has concluded.
-
----
-
-### 2026-06-21 23:05:59  #MKT News #Important
-
-Refinitiv reported sources close to the negotiating team said the first round of talks in Switzerland concluded.
-
----
-
-### 2026-06-21 23:05:46  #其他
-
-【國產TGV玻璃基板正加速走向量產】當前，TGV玻璃基板賽道正迎來從技術驗證向小批次量產過渡的關鍵節點。記者在採訪中瞭解到，國內多家頭部企業的產線籌備工作已全面鋪開。國內中試產線正加速跑通驗證，頭部企業紛紛加碼佈局、搶佔先機。根據國際市場研究機構預測，到2030年，全球先進封裝市場規模將逼近800億美元。從底層材料的突圍，到跨界工藝的打通，國產TGV玻璃基板正加速走向量產。
-
----
-
-### 2026-06-21 23:05:04  #焦點 #國際
-
-熟悉談判內情的訊息人士表示，在瑞士與美國舉行的首輪談判已結束。
-
----
-
-### 2026-06-21 22:59:37  #國際
-
-美國駐聯合國大使：以色列與阿聯酋曾開展軍事協作，共同抵禦伊朗威脅、互相提供防衛支援。
-
----
-
-### 2026-06-21 22:58:06  #國際
-
-瑞士外交部長：啟動此次談判是至關重要的第一步，瑞士與美伊雙方均保持著互信關係。
-
----
-
-### 2026-06-21 22:53:41  #MKT News #Commodities #Energy #WTI #Impact bearish #Brent
-
-【Iraq plans to restore oil output to pre-conflict levels】Iraq’s deputy oil minister for upstream affairs said on Sunday the country plans to gradually restore crude production to 4.2–4.3 mln bpd. The proposed increase would return output to levels before the Iran war and the closure of the Strait of Hormuz.
-
----
-
-### 2026-06-21 22:47:37  #其他
-
-衣索比亞國家選舉委員會21日宣佈，執政黨繁榮黨贏得議會選舉。 （新華社）
-
----
-
-### 2026-06-21 22:44:19  #國際
-
-瑞士外交部長：我與美國副總統就落實美伊諒解備忘錄的會談交換了意見。
-
----
-
-### 2026-06-21 22:43:57  #MKT News
-
-Ethiopia's National Election Board said Prime Minister Abiy's Prosperity Party won a parliamentary majority.
-
----
-
-### 2026-06-21 22:42:33  #其他
-
-衣索比亞全國選舉委員會：總理阿比領導的繁榮黨拿下議會多數席位。
-
----
-
-### 2026-06-21 22:39:58  #國際
-
-美國能源部長賴特：昨日共有 67 艘船舶經由霍爾木茲海峽通行，前一日通行船舶為 55 艘。原油及成品油運輸量基本恢復至衝突爆發前的水平。
-
----
-
-### 2026-06-21 22:37:01  #公司 #市場 #國際
-
-【美國能源部長預測油價將進一步下跌，並表示霍爾木茲海峽的石油運輸已恢復 “正常水平”】美國能源部長克里斯・賴特週日表示，美伊簽署初步協議恢復這條關鍵航道通航後，霍爾木茲海峽的石油運輸 “已恢復正常”，談判人員將在接下來兩個月內，著力解決尚未敲定的核相關議題。賴特在美國廣播公司新聞節目中稱：“我早已不再預判原油或汽油價格走勢，但油價仍會持續下行。海峽的石油與天然氣運輸量現已迴歸常態，無論美伊談判後續進展如何，運輸都將保持穩定。美國原油產量持續攀升，委內瑞拉產量大幅增長，同時我們與全球其他能源生產國保持合作。因此我認為，美國民眾可以期待能源價格繼續走低。”賴特在節目中對聯合主持人喬納森・卡爾表示，週日這場坦誠的對話將釐清伊朗的訴求，以及伊朗方面認為自身可能需要做出哪些讓步。談及伊朗方面，賴特稱：“他們在此次談判中不再擁有以往談判裡一貫掌握的籌碼。”
-
----
-
-### 2026-06-21 22:36:01  #MKT News #Commodities #Energy #WTI #Impact bearish #Brent
-
-Iran's deputy oil minister said Iraq plans to gradually restore crude oil output to 4.2-4.3 mln bpd, the level before the US-Iran conflict.
-
----
-
-### 2026-06-21 22:35:25  #其他
-
-伊拉克石油部副部長表示，伊拉克計劃逐步將原油產量恢復至危機前水平，即每日420萬至430萬桶。
-
----
-
-### 2026-06-21 22:33:43  #國際
-
-伊朗總統：美以情報機構企圖製造內部分裂，破壞伊朗民族團結。
-
----
-
-### 2026-06-21 22:33:23  #國際
-
-伊朗總統：那些不假思索便隨意表態、不顧及後續後果的人必須認清，他們此舉實則是在為敵人的利益服務。
-
----
-
-### 2026-06-21 22:32:51  #其他
-
-【哥倫比亞軍警擊斃一反政府武裝重要頭目】哥倫比亞國防部長佩德羅·桑切斯20日晚透過社交媒體宣佈，哥倫比亞軍事部隊與國家警察在一次聯合行動中，擊斃反政府武裝“莫爾迪斯科”在該國西南部的最高頭目。桑切斯表示，此次清剿行動在哥倫比亞考卡山谷省布埃納文圖拉市的鄉村地區進行。據介紹，該頭目涉嫌謀殺、強行招募未成年人、販毒和恐怖襲擊等犯罪活動。“莫爾迪斯科”是從原反政府武裝“哥倫比亞革命武裝力量”（“哥武”）分裂出來的非法武裝組織。哥倫比亞政府與“哥武”2016年簽署和平協議，結束長達半個世紀的對抗。“哥武”次年解除武裝並轉型為政黨，但部分成員反對並另立分支。（新華社）
-
----
-
-### 2026-06-21 22:31:42  #市場 #國際
-
-【隨著石油價格下跌，押注石油供應過剩的頭寸重新成為焦點】隨著美伊達成和平協議後原油期貨價格大幅下挫，一批幾乎已被市場遺忘的、押注石油供應過剩的場外期權頭寸重新回到投資者的視野。在美國打擊伊朗之前，部分交易員曾押注原油供應過剩將使近期合約價格低於遠期合約，即市場進入所謂的“遠期升水”結構。但美伊衝突爆發後，由於市場擔心供應短缺，近月價格一度飆升。4月下旬，WTI原油8月合約價格一度較9月合約每桶高出逾5美元，而9月合約又較10月合約高出4美元。那時的一波上漲行情使得超過2萬份（相當於每月2000萬桶石油）以現金結算的看跌期權頭寸幾乎變得一文不值。如今，隨著合約間價差重新收窄至每桶1美元以下，這些期權又重新變得有參考價值了。隨著油價回落至戰前水平，重新進入人們視野的不只是看跌價差的頭寸，整個市場的單向持倉也在變得更加悲觀。美國商品期貨交易委員會的最新周度資料顯示，對沖基金及其他大型投機者所持有的國際基準布倫特原油的淨多頭頭寸已降至六個月來的最低水平，自3月底以來減少了近四分之三。
-
----
-
-### 2026-06-21 22:31:42  #MKT News #Commodities #Energy #WTI #Impact bearish #Brent
-
-【Oil-glut bearish positions regain focus as crude retreats】After a US–Iran peace agreement sent crude futures sharply lower, previously dormant OTC option positions betting on an oil supply glut have resurfaced. Before a US strike on Iran, some traders had positioned for contango (near-month below forward months); the subsequent conflict flipped the curve into strong backwardation — in late April WTI August traded >$5/bbl above September and September ~ $4/bbl above October. That move left more than 20,000 cash-settled put contracts (≈20 mln bbl/month) nearly worthless. With inter-month spreads now narrowed to under $1/bbl and prices back near pre-conflict levels, those puts have regained reference value. CFTC weekly data show hedge funds and other large specs cut net-long Brent to a six-month low, down roughly 75% since end-March, indicating materially more bearish directional positioning.
-
----
-
-### 2026-06-21 22:27:21  #國際
-
-【特朗普稱美國或收取中東地區20%的石油收益】新華社華盛頓6月21日電 美國總統特朗普21日接受美國福克斯新聞頻道採訪時說，如果美國和伊朗未能達成協議，美國將會成為霍爾木茲海峽的“守護者”，並收取中東地區20%的石油收益。該媒體表示，特朗普20日晚與伊朗方面通話，警告他們不要關閉霍爾木茲海峽。特朗普對伊朗官員說：“你們要是關閉它，你們就不會再擁有一個國家。”特朗普稱，“如果有必要，我們可能會接管霍爾木茲海峽”，“我們將對他們（伊朗）實施猛烈打擊”，“如果他們達不成協議，我們就徵收通行費”。特朗普稱，美伊諒解備忘錄只是延長了停火，並非最終協議。如果伊朗在談判桌上不作出嚴肅承諾，他會保留多種選擇。特朗普還就伊朗總統佩澤希齊揚不放棄鈾濃縮權利言論回應說：“他最好注意自己的言辭。”特朗普21日在社交媒體上發文稱，伊朗必須立即停止在黎巴嫩的“代理人”行動，否則美國將會再次對伊朗發起猛烈打擊，“就像上週那樣，而且會更猛烈”。（新華社）
-
----
-
-### 2026-06-21 22:20:48  #國際
-
-【埃及、巴基斯坦、沙特和土耳其舉行會談 聚焦中東局勢】當地時間21日，埃及外長阿卜杜勒阿提、巴基斯坦副總理兼外長達爾、沙特外交大臣費薩爾和土耳其外長費丹在埃及首都開羅舉行四方會談。會議就地區和國際形勢深入交換意見，並重申了四國繼續磋商與協調對於維護中東乃至整個地區的和平、安全、穩定與繁榮的重要性。會後四國發表聯合宣告，主要內容如下：四國外長歡迎美伊於2026年6月18日簽署的《伊斯蘭堡諒解備忘錄》。四國認為這一重要進展是朝著緩和局勢、結束衝突邁出的建設性一步，強調各方必須切實履行其所作承諾。四國對巴基斯坦在實現這一歷史性成果中發揮的關鍵作用，以及卡達為確保諒解備忘錄談判取得成功所提供的支援表示讚賞。強調迅速成功完成下一階段談判的重要性，旨在就懸而未決的問題達成持久且各方都能接受的解決方案。宣告強調，協議應考慮到該地區各國的關切。宣告指出，巴勒斯坦問題對於實現中東和平、安全與穩定至關重要，巴勒斯坦問題仍然是實現該地區公正、全面和持久和平努力的核心，也是構建穩定安全區域秩序的根本支柱。宣告重申支援巴勒斯坦人民的合法權利，包括自決權以及在1967年邊界基礎上建立以東耶路撒冷為首都的獨立巴勒斯坦國的權利。（央視新聞）
-
----
-
-### 2026-06-21 22:19:10  #國際
-
-市場訊息：一架小型飛機在美國馬里蘭州林區墜毀，造成三名以色列人遇難，事發地點距華盛頓特區不足 20 英里。
-
----
-
-### 2026-06-21 22:12:55  #公司
-
-【雷軍對談作家劉震雲 共論AI與人類創造力的邊界】6月21日，小米集團創始人、董事長兼CEO雷軍現身北京國際圖書博覽會，與著名作家劉震雲展開了一場圍繞人工智慧與人類創造力的深度對談。雷軍在對談中表示，進入AI時代後，AI變得越來越聰明，但仍難以替代深度的情感表達。“AI更多是在模仿或者重複，而不是有自己的特點。”他判斷，科學與藝術將長期並行、相互交錯，AI和科技可以幫助延展想象力，但替代不了人的工作。“AI能替代不好的文學作品和不好的企業。”在劉震雲看來，AI在大資料和算力上遠超人類，十秒鐘能讀的書和掌握的知識，能超過人兩到三年。但他隨即表示，AI所依賴的大資料本質上是過去的知識，而無論對於作家還是企業家，最重要的是創新——創新恰恰是在過去的基礎上創造出原本沒有的東西。（上證報）
-
----
-
-### 2026-06-21 22:11:30  #其他
-
-【第28屆上海國際電影節經濟效益近53億元 同比增長5.97%】6月12至21日，第28屆上海國際電影節成功舉辦，“票根經濟”依然強勁。截至6月19日，電影節影展觀影人次超45萬，其中新觀眾佔比27.08%，票房近3800萬元。初步估計，本屆電影節給包括交通、住宿、餐飲、旅遊和零售等其他行業帶來的經濟效益超過52.95億元，同比增長5.97%。其中餐飲業約11.70億元，住宿業約3.66億元，交通出行約1.81億元，旅遊業約1.07億元，購物支出約30.12億元，休閒娛樂約4.58億元，交通、旅遊、住宿收入都實現大幅增長。（上證報）
-
----
-
-### 2026-06-21 22:08:31  #MKT News
-
-UKMTO said the vessel, after an unspecified incident, is en route to its next port of call.
-
----
-
-### 2026-06-21 22:08:14  #MKT News
-
-UKMTO said vessels took evasive action and altered course to avoid a small boat carrying armed personnel.
-
----
-
-### 2026-06-21 22:07:54  #其他
-
-英國海事貿易組織(UKMTO)稱，涉事船隻在葉門附近海域發生事故後，正駛往下一個停靠港。
-
----
-
-### 2026-06-21 22:07:23  #其他
-
-英國海事貿易組織(UKMTO)稱，該船隻採取了規避機動措施，改變航向遠離小艇。
-
----
-
-### 2026-06-21 22:06:56  #MKT News
-
-UKMTO said the captain of a product tanker reported a small boat with five armed individuals approached the vessel and appeared to attempt boarding.
-
----
-
-### 2026-06-21 22:06:45  #公司 #央行 #國際
-
-【國泰海通證券：不確定性在端午節前落地 中國股市新一輪上升視窗期開啟】國泰海通證券認為，在過去一兩週，部分投資人對美伊形勢、通脹形勢以及美聯儲是否加息存有疑慮。國泰海通是看好中國市場的堅定力量，不確定因素會在中國端午節前逐步落地，新一輪中國股市上升視窗期開啟：1）不確定性下降：6月國際油價降至80-90美元/桶區間，美國通脹與緊縮預期環比加速度最大時點或達峰。伴隨戰爭降溫與通航改善，通脹預期未來有望下調，此外美聯儲加減息決議也會在中國端午節前落地。2）增長預期上修：5月強勁的中國出口資料，不僅回應了市場質疑，也預示A股中報改善。反映的是全球AI資本開支與能源轉型龐大需求，以及產業鏈的短缺；美國‌Anthropic的AGI最新進展也有望推升AI能力邊界與應用需求的預期。也帶來中國產業創新、追趕以及全球競爭的歷史性機會。3）增量入市共振：無風險收益下沉，形成持續的財富管理需求與更強的中國市場承託力。新一輪增強資本市場包容性的改革箭在弦上，除此之外6月來公告減持減量、私募備案與公募審批提速，有望在端午節後形成實質的增量入市能力；在年中630考核前後絕對收益權益配置也有望迴流，有助於結構擴散與市場平衡。短暫“陣雨”後中國市場三季度會有不錯的表現，有望走出新高。
-
----
-
-### 2026-06-21 22:06:32  #其他
-
-英國海事貿易行動辦公室（UKMTO）：一艘成品油輪的船長報告稱，一艘載有五名武裝人員的小艇正試圖靠近該油輪，且五名武裝人員看上去企圖登船。
-
----
-
-### 2026-06-21 22:05:55  #MKT News
-
-UKMTO has received reports of an incident 50 nm southeast of Al Shihr, Yemen.
-
----
-
-### 2026-06-21 22:05:52  #其他
-
-英國海事貿易組織(UKMTO)表示，已收到關於葉門什赫爾東南50海里處發生一起事件的報告。
-
----
-
-### 2026-06-21 22:05:48  #MKT News #WTI #Impact bullish #Brent #XAUUSD
-
-【Iran president reiterates Iran will not relinquish uranium enrichment rights】Iranian President Pezeshkian said in a televised video on June 21 that Iran will never give up its right to enrich uranium and that the U.S. will ultimately be forced to accept that right. He added that U.S. President Trump has made a 180-degree reversal — from demanding Iran’s unconditional surrender to acknowledging Iran’s rights — which Pezeshkian said shows Washington cannot ignore Iran’s entitlement.
-
----
-
-### 2026-06-21 22:05:44  #國際
-
-【伊朗總統再強調絕不放棄鈾濃縮權】伊朗總統佩澤希齊揚在伊朗媒體今天（6月21日）播出的影片中表示，伊朗絕不會放棄鈾濃縮的權利，而美國也終將被迫接受。#伊朗總統說美國無法無視伊朗權利#佩澤希齊揚表示，美國總統特朗普的態度前後180度大轉彎，此前說伊朗必須無條件投降，無權這樣、那樣，之後又說伊朗有權，立場完全逆轉，這說明特朗普已承認美國無法無視伊朗的權利。（CCTV國際時訊）
-
----
-
-### 2026-06-21 22:05:06  #MKT News #Important #XAUUSD #Impact bullish #WTI
-
-Israel's army chief of staff said the ceasefire with Lebanon is fragile and forces must remain on high alert, ready to respond if fighting resumes.
-
----
-
-### 2026-06-21 22:03:54  #國際
-
-以色列軍方參謀長稱黎巴嫩停火局勢十分脆弱，部隊必須保持高度戰備，隨時應對戰事再起。
-
----
-
-### 2026-06-21 22:00:09  #國際
-
-特朗普：我祝願斯塔默一切順利。
-
----
-
-### 2026-06-21 22:00:06  #國際
-
-特朗普稱：斯塔默在移民、能源政策方面治理嚴重失策。
-
----
-
-### 2026-06-21 22:00:05  #MKT News #Commodities #Energy
-
-TRUMP said Starmer will resign as UK prime minister, accusing him of poor performance on immigration and energy and urging the opening of North Sea oil.
 
 ---
