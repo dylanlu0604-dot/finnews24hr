@@ -1,7 +1,91 @@
 {
-  "updated": "2026-06-23 10:19:35",
+  "updated": "2026-06-23 10:23:44",
   "count": 17276,
   "items": [
+    {
+      "id": "mkt:019ef249-aea2-7dd8-b0ca-5f1d5e1c4b9c",
+      "time": "2026-06-23 10:22:55",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "White House spokesperson said President Trump will not approve transactions that do not align with U.S. national security interests."
+    },
+    {
+      "id": "mkt:019ef249-457b-7dd8-b0ca-50f78b10a75e",
+      "time": "2026-06-23 10:22:28",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "White House spokesperson said the agreement with Iran serves U.S. interests and that Iran will never possess nuclear weapons."
+    },
+    {
+      "id": "mkt:019ef248-aa00-7dd8-b0ca-4f9083887d0d",
+      "time": "2026-06-23 10:21:48",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "【Volcano Engine president: Doubao model daily token use tops 180 trillion】On June 23 at ByteDance unit Volcano Engine’s Force conference, president Tan Dai said the Doubao large model’s average daily token usage exceeded 180 trillion as of June, a roughly 1,500-fold increase since its launch two years ago, with growth showing no signs of slowing."
+    },
+    {
+      "id": "mkt:019ef248-8f5d-7dd8-b0ca-44abd04704c4",
+      "time": "2026-06-23 10:21:41",
+      "tags": [
+        "MKT News",
+        "Important",
+        "CNH",
+        "Impact bullish",
+        "CSI300",
+        "Hang Seng Index"
+      ],
+      "text": "【Chinese authorities draft targeted policy to support digital cultural exports】Chinese authorities are drafting a targeted policy to support digital cultural exports covering online literature, web dramas, online games, animation and digital music; the draft is currently out for public consultation. Digital cultural products have gained global traction and become a growing export engine. China’s service exports rose 15% YoY in Jan–Apr, with personal cultural and entertainment services up 39.5%. Policy support and industry development have lifted the international competitiveness of Chinese services."
+    },
+    {
+      "id": "4949340",
+      "time": "2026-06-23 10:21:37",
+      "tags": [
+        "其他"
+      ],
+      "text": "【相關部門醞釀推出支援數字文化出口專項政策】近日獲悉，相關部門制定了支援數字文化出口專項政策，涉及網文、網劇、網遊、動漫、數字音樂等內容，目前該政策正在徵求意見。近年來，網文、網劇、網遊等數字文化產品在全球颳起了“中國旋風”，已成為文化消費和文化出海新引擎，“內容+平臺+模式”出海步伐加快。今年1—4月我國服務貿易出口增長15%，其中個人文化和娛樂服務增速高達39.5%。在政策支援和產業發展的驅動下，“中國服務”的國際競爭力不斷提升。（中證報）"
+    },
+    {
+      "id": "4949339",
+      "time": "2026-06-23 10:21:12",
+      "tags": [
+        "國際"
+      ],
+      "text": "白宮發言人：伊朗永遠不會擁有核武器。"
+    },
+    {
+      "id": "mkt:019ef247-1c01-7dd8-b0ca-3e2fdb211018",
+      "time": "2026-06-23 10:20:06",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "SSE Composite",
+        "Impact bullish",
+        "CSI300"
+      ],
+      "text": "China's STAR 50 index recovered from intraday lows to turn positive after earlier falling more than 2%."
+    },
+    {
+      "id": "4949338",
+      "time": "2026-06-23 10:19:40",
+      "tags": [
+        "市場"
+      ],
+      "text": "科創50指數探底回升轉漲，此前跌近3%。"
+    },
+    {
+      "id": "4949337",
+      "time": "2026-06-23 10:19:31",
+      "tags": [
+        "其他"
+      ],
+      "text": "【豆包大模型的日均tokens呼叫量達到180萬億】在2026火山引擎force原動力大會上，火山引擎總裁譚待表示，截至2026年6月，豆包大模型日均tokens呼叫量達180萬億，較釋出時增長超1500倍，過去一年增長超10倍。"
+    },
     {
       "id": "mkt:019ef246-0725-7dd8-b0ca-316d01df6985",
       "time": "2026-06-23 10:18:56",
@@ -158438,100 +158522,6 @@
         "SSE Composite"
       ],
       "text": "China A-share panel stocks briefly rallied; Helitai locked at limit-up. Caihong, Kaisheng Technology, Guanjie Technology, Bayi Shikong and Hehui Optoelectronics also advanced."
-    },
-    {
-      "id": "mkt:019ece3d-e462-7dd8-b01b-efe66766570f",
-      "time": "2026-06-16 10:23:43",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC",
-        "USDJPY",
-        "Impact bearish",
-        "DXY",
-        "Nikkei 225",
-        "Impact mixed"
-      ],
-      "text": "【Deutsche Securities: Bank of Japan may halt tapering of monthly bond purchases】Deutsche Securities chief economist Kentaro Koyama said the Bank of Japan would need to fully explain any decision to halt tapering of its monthly bond purchases, particularly after media reports that the government might tacitly permit further rate hikes only if tapering is stopped. He warned that if the BOJ both raises rates and stops tapering, markets and the public could interpret it as a political deal with the government, creating a serious risk of questions over the BOJ's independence."
-    },
-    {
-      "id": "mkt:019ece3d-a7fb-7dd8-b01b-e2d80755973e",
-      "time": "2026-06-16 10:23:27",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "A-share lab-grown diamond sector strengthened again; Boyun New Materials rose over 8.5%, while Liliang Diamond, Huifeng Diamond, Huanghe Xuanfeng and Sifangda each gained more than 3%."
-    },
-    {
-      "id": "4937531",
-      "time": "2026-06-16 10:22:41",
-      "tags": [
-        "公司"
-      ],
-      "text": "【藍思科技在長沙成立新企業管理諮詢公司  註冊資本1000萬】天眼查App顯示，近日，長沙藍思企業管理諮詢有限公司成立，法定代表人為周群飛，註冊資本1000萬人民幣，經營範圍為企業管理諮詢、社會經濟諮詢服務。股東資訊顯示，該公司由藍思科技（300433）全資持股。"
-    },
-    {
-      "id": "4937530",
-      "time": "2026-06-16 10:22:40",
-      "tags": [
-        "其他"
-      ],
-      "text": "【智譜港股漲超9%】智譜港股漲9.06%，報1588.00港元。"
-    },
-    {
-      "id": "4937529",
-      "time": "2026-06-16 10:22:15",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【面板板塊短線拉昇，合力泰漲停】面板板塊短線拉昇，合力泰漲停，彩虹股份、凱盛科技、冠捷科技、八億時空、和輝光電等跟漲。"
-    },
-    {
-      "id": "mkt:019ece3c-71c5-7dd8-b01b-da538d5ab825",
-      "time": "2026-06-16 10:22:08",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "Chip Wars",
-        "Market Regions",
-        "Greater China",
-        "CSI300",
-        "Impact bullish",
-        "SSE Composite"
-      ],
-      "text": "China A-share storage-chip sector extended gains; Dapuwei rose over 10% after Yachuang Electronics earlier hit the 20% daily limit. Tongyou Technology, Chengdu Huawi Micro, Shenke Technology and GigaDevice also advanced."
-    },
-    {
-      "id": "4937528",
-      "time": "2026-06-16 10:21:23",
-      "tags": [
-        "公司"
-      ],
-      "text": "【中國一汽集團投資成立汽車生態科技公司 含AI及機器人業務】企查查APP顯示，近日，一汽（海南）汽車生態科技有限公司成立，經營範圍包含：智慧無人飛行器銷售；智慧機器人銷售；人工智慧硬體銷售；電動汽車充電基礎設施運營等。企查查股權穿透顯示，該公司由中國第一汽車集團有限公司旗下一汽出行科技有限公司、一汽富華生態股份有限公司共同持股。"
-    },
-    {
-      "id": "mkt:019ece3b-8cec-7dd8-b01b-d0285b9a664e",
-      "time": "2026-06-16 10:21:09",
-      "tags": [
-        "MKT News",
-        "Important",
-        "01208.HK",
-        "Impact bearish",
-        "01378.HK",
-        "02600.HK"
-      ],
-      "text": "Hong Kong-listed non-ferrous metals stocks pulled back sharply intraday. Minmetals Resources (01208.HK) fell nearly 12%, China Hongqiao (01378.HK) dropped over 5%, China Nonferrous Metal Mining (01258.HK) and Rusal (00486.HK) were down more than 4.5% each, Chalco (02600.HK) and Luoyang Molybdenum (03993.HK) slid over 3%, while Ganfeng Lithium (01772.HK) and Lingbao Gold (03330.HK) also declined."
-    },
-    {
-      "id": "4937527",
-      "time": "2026-06-16 10:19:41",
-      "tags": [
-        "公司"
-      ],
-      "text": "【匹克被指拖欠贊助費及員工薪資，董事長許景南迴應】近日，有訊息稱，抖音藍V認證賬號“匹克官方直播間”出現涉及員工欠薪、贊助款逾期等內容。其中，一份由中國現代五項運動協會（下稱五項動協）於2025年8月14日開具的“催款函”指出，匹克未能按照《贊助合作協議書》的約定，將相關的贊助款項按期匯至協會賬戶。 另有截圖顯示，今年1月，廈門匹克貿易有限公司發函稱，其和五項動協雙方於2018年簽署的《現代五項國家隊贊助合作協議書》項下，約定由其在2022年9月30日前支付50萬元贊助款項，“截至目前該筆款項尚未支付。此情況系基於客觀經營環境變化所致，非我司主觀意願”。 針對上述傳聞，6月15日晚間，許景南對浙江日報旗下財聞表示，公司沒有和“五項動協”簽署任何協議，網傳協議均由“五項動協”和中介簽署，“不知道截圖從哪來的，都是假的，我們已經報警了”。 此外，“匹克官方直播間”還曾在評論區留言稱，該直播間的員工已經被欠薪一年。目前，該留言頁面也已經不在。"
     }
   ]
 }
