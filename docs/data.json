@@ -1,7 +1,15 @@
 {
-  "updated": "2026-06-24 03:17:00",
+  "updated": "2026-06-24 03:21:04",
   "count": 17271,
   "items": [
+    {
+      "id": "4951092",
+      "time": "2026-06-24 03:17:32",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：賓夕法尼亞州就業崗位大幅增長。僅過去數月，該州就新增3.2萬個就業崗位，其中製造業崗位2600個。"
+    },
     {
       "id": "4951091",
       "time": "2026-06-24 03:16:25",
@@ -158299,21 +158307,6 @@
         "國際"
       ],
       "text": "【俄羅斯禁止103名加拿大人入境以回應加方制裁】俄羅斯外交部16日晚在官網釋出通報稱，作為對加拿大對俄製裁措施的回應，俄方禁止103名加拿大籍人員入境。俄外交部表示，加拿大一些政治人物損害俄方權利和利益，破壞兩國關係。俄方一貫尊重加拿大人民，但反對加政府當前的敵對立場。根據俄外交部公佈的名單，此次被禁止入境的包括多名加拿大議員、加拿大前駐俄羅斯與烏克蘭大使等人員。（新華社）"
-    },
-    {
-      "id": "mkt:019ed1df-a34b-7dd8-b039-9028bc8ea41e",
-      "time": "2026-06-17 03:19:14",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "DXY",
-        "Impact bullish",
-        "WTI",
-        "S&P500",
-        "Impact bearish"
-      ],
-      "text": "【Industry: China-US shipping routes fully booked】Industry sources say China-US routes are at full capacity. Since May, East and South China slots have tightened with frequent cargo rollovers and June space largely sold out, reverting the trade to peak-season scarcity. In late April a 40-foot box from Ningbo to the US West Coast was quoted about $2,900 and to the US East Coast about $3,900; after several rounds of increases current rates are roughly $6,300 to the West Coast and $7,500 to the East Coast. Demand is supported by low US goods inventories and restocking; supply is constrained by Middle East tensions—more than 300,000 TEU tied up in the Persian Gulf—delayed Red Sea resumptions, vessel rerouting, slower turnaround and reduced speeds, which have lowered effective capacity and intensified the supply-demand imbalance."
     }
   ]
 }
