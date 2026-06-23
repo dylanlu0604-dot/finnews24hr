@@ -1,7 +1,42 @@
 {
-  "updated": "2026-06-24 01:25:01",
+  "updated": "2026-06-24 01:29:09",
   "count": 17270,
   "items": [
+    {
+      "id": "mkt:019ef586-7597-7dd8-b0e0-ee7cd6ce044c",
+      "time": "2026-06-24 01:28:10",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Trump on the Iran deal: anyone who criticizes the agreement must be educated, even my friends."
+    },
+    {
+      "id": "mkt:019ef585-1075-7dd8-b0e0-e7538989c743",
+      "time": "2026-06-24 01:26:38",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "CNBC reports the selection process for the Atlanta Fed presidency has restarted after Wosh was named Federal Reserve chair."
+    },
+    {
+      "id": "4951034",
+      "time": "2026-06-24 01:26:14",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "市場訊息：沃什出任美聯儲主席後，亞特蘭大聯儲行長遴選流程已重新啟動。"
+    },
+    {
+      "id": "mkt:019ef583-8c5e-7dd8-b0e0-dedff855dccc",
+      "time": "2026-06-24 01:24:59",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Asked when IAEA inspectors would be on site in Iran, U.S. President Trump said at the right time and that he was not in a hurry."
+    },
     {
       "id": "mkt:019ef582-6df0-7dd8-b0e0-d75ef4a2078b",
       "time": "2026-06-24 01:23:46",
@@ -158219,42 +158254,6 @@
         "國際"
       ],
       "text": "伊朗議會國家安全委員會主席表示，華盛頓必須透過結束對黎巴嫩的戰爭、遵守該諒解備忘錄的每一項條款來證明其承諾。"
-    },
-    {
-      "id": "mkt:019ed17a-a5ef-7dd8-b038-3bc17d08fe95",
-      "time": "2026-06-17 01:28:56",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK"
-      ],
-      "text": "Financial Times reports U.S. Commerce Secretary Lutnick discussed establishing a \"trusted partners\" program with European diplomats."
-    },
-    {
-      "id": "4939240",
-      "time": "2026-06-17 01:27:35",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國商務部長霍華德·盧特尼克曾與歐洲外交官討論建立“可信夥伴”計劃。"
-    },
-    {
-      "id": "mkt:019ed178-6f27-7dd8-b038-3204fb27cf4b",
-      "time": "2026-06-17 01:26:31",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "Financial Times reports that after controversy over an Anthropic model, U.S. and European policymakers are discussing access rules for AI models."
-    },
-    {
-      "id": "4939239",
-      "time": "2026-06-17 01:25:37",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國和歐洲就人工智慧模型准入問題進行商談，此前Anthropic引發爭議。"
     }
   ]
 }
