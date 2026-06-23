@@ -1,7 +1,53 @@
 {
-  "updated": "2026-06-23 11:21:23",
-  "count": 17277,
+  "updated": "2026-06-23 11:25:24",
+  "count": 17241,
   "items": [
+    {
+      "id": "4949439",
+      "time": "2026-06-23 11:23:42",
+      "tags": [
+        "其他"
+      ],
+      "text": "派珀桑德勒將新思科技評級從中性上調至增持；目標價從450美元上調至550美元。"
+    },
+    {
+      "id": "mkt:019ef280-c1b2-7dd8-b0cb-5bad38132e75",
+      "time": "2026-06-23 11:23:04",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Industrial Metals",
+        "WTI",
+        "Impact bearish"
+      ],
+      "text": "【Middle East peace progress signals supply restoration; aluminum hits three-month low】Aluminum slid to a three-month low as progress in Middle East peace talks raised expectations of a gradual return of regional supply. The US issued a 60-day license allowing Iran to sell oil on international markets, providing Tehran an economic lifeline while talks on a permanent settlement continue. Aluminum had climbed about 11% YTD after the conflict disrupted local production and exports, but one of the biggest supply shocks in the market’s history has been partly unwound as Persian Gulf smelters rebuilt inventories, including risky shipments through the Strait of Hormuz."
+    },
+    {
+      "id": "4949438",
+      "time": "2026-06-23 11:22:30",
+      "tags": [
+        "國際"
+      ],
+      "text": "法拉第未來：今日FF在全美規模最大的芝加哥Automate機器人與自動化展會上，正式舉行FF EAI機器人世界下半場釋出會，正式釋出了全新 Futurist、FF Faber（美國首個工業級EAI輪臂機器人系列），並首次預告FF EAI機器人工業生態戰略。"
+    },
+    {
+      "id": "4949437",
+      "time": "2026-06-23 11:21:31",
+      "tags": [
+        "公司",
+        "焦點"
+      ],
+      "text": "【智譜市值跌破萬億港元】6月23日，港股大模型股走弱，智譜開盤直線下跌，截至發稿，股價2144港元，跌11.04%，總市值9559億港元。昨日受最新旗艦模型與智譜創始人唐傑點評中美模型差距訊息刺激，智譜股價一度漲超40%，市值突破萬億港元。"
+    },
+    {
+      "id": "4949436",
+      "time": "2026-06-23 11:21:30",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金失守4150美元/盎司，日內跌1.26%。"
+    },
     {
       "id": "mkt:019ef27e-af2c-7dd8-b0cb-52d078eb7791",
       "time": "2026-06-23 11:20:49",
@@ -158097,457 +158143,6 @@
         "Impact mixed"
       ],
       "text": "Bank of Japan says Japanese economic growth may slow but is expected to continue moderate expansion."
-    },
-    {
-      "id": "mkt:019ece76-4f1d-7dd8-b01e-261c896fd5ff",
-      "time": "2026-06-16 11:25:20",
-      "tags": [
-        "MKT News",
-        "USDJPY",
-        "Impact bearish",
-        "DXY",
-        "Nikkei 225"
-      ],
-      "text": "Bank of Japan says its holdings of Japanese government bonds will decline about 36–39% by March 2030 versus June 2024."
-    },
-    {
-      "id": "em:qqyh_rbyh:202606163772801928",
-      "time": "2026-06-16 11:25:20",
-      "tags": [
-        "央行",
-        "日本央行"
-      ],
-      "text": "【日本央行：將停止對縮減購債計劃進行中期評估的做法】日本央行表示，將停止對縮減購債計劃進行中期評估的做法。若長期利率快速上升，將靈活應對，例如增加日本國債購買量及實施固定利率購債操作。如有必要，準備在未來政策會議上修改縮減購債計劃。油價上漲的傳導效應正在以相對較快的速度發展，這可能會導致廣泛商品的消費價格上漲。"
-    },
-    {
-      "id": "4937651",
-      "time": "2026-06-16 11:24:56",
-      "tags": [
-        "市場",
-        "央行",
-        "國際"
-      ],
-      "text": "日本央行：工資與物價同步溫和上漲的機制將得以維持。"
-    },
-    {
-      "id": "mkt:019ece75-f120-7dd8-b01e-1a69ea839b14",
-      "time": "2026-06-16 11:24:56",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "China EV Leaders",
-        "Market Regions",
-        "Greater China",
-        "300014.SZ",
-        "Impact bullish",
-        "002074.SZ",
-        "CSI300"
-      ],
-      "text": "A-shares BC battery sector extended gains. Fengyuan locked at the daily limit; EVE Energy and Xiandao Intelligent each rose more than 13%. Xianhui Technology, Tianhong Lithium, Rongbai Technology, Tianji and Gotion High-Tech also advanced."
-    },
-    {
-      "id": "mkt:019ece75-d47b-7dd8-b01e-1426a31c41b6",
-      "time": "2026-06-16 11:24:49",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "USDJPY",
-        "Impact bullish"
-      ],
-      "text": "Bank of Japan says real interest rates are mainly negative in the short-to-medium term."
-    },
-    {
-      "id": "4937650",
-      "time": "2026-06-16 11:24:48",
-      "tags": [
-        "公司"
-      ],
-      "text": "【珠海市建安集團有限公司副總經理周文超接受紀律審查和監察調查】6月16日，據“廉潔香洲”微信公眾號訊息，珠海市建安集團有限公司副總經理周文超涉嫌嚴重違紀違法，目前正接受珠海格力集團有限公司紀委紀律審查和香洲區監委監察調查。"
-    },
-    {
-      "id": "4937649",
-      "time": "2026-06-16 11:24:40",
-      "tags": [
-        "資料",
-        "央行",
-        "國際"
-      ],
-      "text": "日本央行：消費者物價指數（CPI）同比漲幅大機率將加速升至明顯高於2%的水平。"
-    },
-    {
-      "id": "mkt:019ece75-9b4b-7dd8-b01e-097b8e2fd50c",
-      "time": "2026-06-16 11:24:34",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC",
-        "USDJPY",
-        "Impact bullish",
-        "Nikkei 225"
-      ],
-      "text": "Bank of Japan says Japan's financial conditions have remained accommodative."
-    },
-    {
-      "id": "mkt:019ece75-9387-7dd8-b01e-0109ed4bb7b0",
-      "time": "2026-06-16 11:24:32",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC",
-        "USDJPY",
-        "Impact bearish"
-      ],
-      "text": "Bank of Japan says potential CPI inflation carries an upside risk of deviating above the price target."
-    },
-    {
-      "id": "4937648",
-      "time": "2026-06-16 11:24:19",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "日本央行：日本經濟增長或將會放緩，但預計將繼續保持溫和增長。"
-    },
-    {
-      "id": "mkt:019ece75-564a-7dd8-b01d-f81f6b2bad72",
-      "time": "2026-06-16 11:24:16",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC",
-        "USDJPY",
-        "Impact bearish",
-        "DXY",
-        "Nikkei 225"
-      ],
-      "text": "BOJ policy board member Tano proposed cutting JGB purchases by 200 billion yen per quarter starting April 2027."
-    },
-    {
-      "id": "mkt:019ece75-2ae5-7dd8-b01d-f5fc05a6b84e",
-      "time": "2026-06-16 11:24:05",
-      "tags": [
-        "MKT News",
-        "USDJPY",
-        "Impact bearish"
-      ],
-      "text": "Bank of Japan said pass-through from rising oil prices is developing relatively rapidly and could push up consumer prices across a broad range of goods."
-    },
-    {
-      "id": "mkt:019ece75-0fb4-7dd8-b01d-eef22af38090",
-      "time": "2026-06-16 11:23:58",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Japan & APAC",
-        "USDJPY",
-        "Impact bearish",
-        "DXY",
-        "Impact bullish"
-      ],
-      "text": "Bank of Japan says it stands ready to amend its plan to reduce bond purchases at future policy meetings if necessary."
-    },
-    {
-      "id": "mkt:019ece74-db43-7dd8-b01d-e3c523e23ba3",
-      "time": "2026-06-16 11:23:45",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Japan & APAC",
-        "USDJPY",
-        "Impact bearish",
-        "Nikkei 225",
-        "Impact bullish",
-        "DXY"
-      ],
-      "text": "Bank of Japan says it will respond flexibly if long-term interest rates rise rapidly, including increasing JGB purchases and conducting fixed-rate bond purchase operations."
-    },
-    {
-      "id": "mkt:019ece74-c1f8-7dd8-b01d-dd7c307b9e77",
-      "time": "2026-06-16 11:23:38",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "USDJPY",
-        "Impact bullish",
-        "DXY",
-        "Nikkei 225"
-      ],
-      "text": "Bank of Japan plans to buy ¥75 bln of ultra-long JGBs (remaining maturity 25 years or more) twice a month during July–September; previously purchases were also ¥75 bln twice a month."
-    },
-    {
-      "id": "4937647",
-      "time": "2026-06-16 11:23:37",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "日本央行：實際利率主要在短期和中期區間維持負值。"
-    },
-    {
-      "id": "4937646",
-      "time": "2026-06-16 11:23:28",
-      "tags": [
-        "市場",
-        "央行",
-        "國際"
-      ],
-      "text": "日本央行：截至2030年3月，日本國債持有量較2024年6月將下降約36%-39%。"
-    },
-    {
-      "id": "mkt:019ece74-9bdf-7dd8-b01d-d4dbfde72600",
-      "time": "2026-06-16 11:23:28",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC"
-      ],
-      "text": "BOJ policy board member Tano said underlying inflation has basically been consistent with the BOJ's price stability target."
-    },
-    {
-      "id": "4937645",
-      "time": "2026-06-16 11:23:11",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "日本央行：日本金融環境一直保持寬鬆。"
-    },
-    {
-      "id": "mkt:019ece74-385d-7dd8-b01d-ce8e4f597682",
-      "time": "2026-06-16 11:23:03",
-      "tags": [
-        "MKT News",
-        "USDJPY",
-        "Impact bearish",
-        "Nikkei 225",
-        "DXY"
-      ],
-      "text": "Bank of Japan policy board member Takata said the consumer price index (CPI), including underlying inflation, has broadly reached the price-stability target."
-    },
-    {
-      "id": "mkt:019ece74-2bd4-7dd8-b01d-c7ca7d8f7acc",
-      "time": "2026-06-16 11:23:00",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Bank of Japan plans to buy JPY 100 bln of 10-25 year Japanese government bonds twice monthly from July through September, versus a prior schedule of three purchases per month of JPY 80 bln."
-    },
-    {
-      "id": "4937644",
-      "time": "2026-06-16 11:22:56",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "日本央行：核心消費者物價指數通脹存在上行偏離風險，可能升至價格目標上方水平。"
-    },
-    {
-      "id": "4937643",
-      "time": "2026-06-16 11:22:49",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "日本央行：田村的縮量提案遭多數票否決。"
-    },
-    {
-      "id": "mkt:019ece73-f0b5-7dd8-b01d-ba75b80bf4de",
-      "time": "2026-06-16 11:22:45",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC",
-        "USDJPY"
-      ],
-      "text": "Bank of Japan will stop conducting mid-term reviews of its plan to reduce bond purchases."
-    },
-    {
-      "id": "4937642",
-      "time": "2026-06-16 11:22:44",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "日本央行：審議委員田村主張自2027年4月起，每季度縮減購債規模2000億日元。"
-    },
-    {
-      "id": "4937641",
-      "time": "2026-06-16 11:22:36",
-      "tags": [
-        "市場",
-        "央行",
-        "國際"
-      ],
-      "text": "日本央行：油價上漲的傳導程序一直以相對較快的速度推進，這一影響可能擴散至大範圍商品的消費者價格上漲當中。"
-    },
-    {
-      "id": "mkt:019ece73-cbfa-7dd8-b01d-b7924aef347a",
-      "time": "2026-06-16 11:22:35",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC",
-        "USDJPY",
-        "Impact bearish",
-        "DXY",
-        "Nikkei 225"
-      ],
-      "text": "Bank of Japan plans to conduct, from July through September, two purchases per month of JPY 335 billion in 5- to 10-year JGBs, versus three monthly purchases of JPY 240 billion previously."
-    },
-    {
-      "id": "mkt:019ece73-c9ac-7dd8-b01d-acf80b8a5d75",
-      "time": "2026-06-16 11:22:35",
-      "tags": [
-        "MKT News",
-        "Nikkei 225",
-        "Impact bullish",
-        "USDJPY",
-        "Impact bearish",
-        "DXY"
-      ],
-      "text": "Bank of Japan: the risk of a significant economic slowdown appears to have diminished compared with earlier."
-    },
-    {
-      "id": "4937640",
-      "time": "2026-06-16 11:22:29",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "日本央行：必要時將在未來貨幣政策會議上調整債券縮減購債計劃。"
-    },
-    {
-      "id": "mkt:019ece73-87ff-7dd8-b01d-a56bf0cabd51",
-      "time": "2026-06-16 11:22:18",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC"
-      ],
-      "text": "Bank of Japan says Japan's economy has moderately recovered, though some sectors remain weak."
-    },
-    {
-      "id": "4937639",
-      "time": "2026-06-16 11:22:17",
-      "tags": [
-        "市場",
-        "央行",
-        "國際"
-      ],
-      "text": "日本央行：計劃在7月至9月期間每月兩次購買750億日元期限超過25年的日本國債（此前為每月兩次，總額750億日元）。"
-    },
-    {
-      "id": "mkt:019ece73-7d04-7dd8-b01d-9a5599fb5c49",
-      "time": "2026-06-16 11:22:15",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC",
-        "USDJPY",
-        "Impact bullish",
-        "DXY"
-      ],
-      "text": "Bank of Japan plans to buy 3-5 year JGBs twice a month in July–September, ¥320 bln per purchase, versus previously three purchases a month of ¥230 bln."
-    },
-    {
-      "id": "4937638",
-      "time": "2026-06-16 11:22:04",
-      "tags": [
-        "資料",
-        "央行",
-        "國際"
-      ],
-      "text": "日本央行官員田村認為：基礎CPI通脹率已經處於與價格穩定目標基本一致的水平。"
-    },
-    {
-      "id": "mkt:019ece73-4c51-7dd8-b01d-9278525b4708",
-      "time": "2026-06-16 11:22:03",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Japan & APAC",
-        "USDJPY",
-        "Impact bullish",
-        "DXY",
-        "XAUUSD",
-        "Impact bearish"
-      ],
-      "text": "Bank of Japan decision to pause tapering of bond purchases next year was approved by a 7-1 vote."
-    },
-    {
-      "id": "mkt:019ece73-362d-7dd8-b01d-8d13ae66fcac",
-      "time": "2026-06-16 11:21:57",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC"
-      ],
-      "text": "BANK OF JAPAN: Policy Board members Takata and Watanabe dissented over the wording on the price outlook."
-    },
-    {
-      "id": "4937637",
-      "time": "2026-06-16 11:21:52",
-      "tags": [
-        "資料",
-        "央行",
-        "國際"
-      ],
-      "text": "日本央行：審議委員高田創表示，包括核心CPI通脹在內，消費者物價漲幅水平整體已基本達成物價穩定目標。"
-    },
-    {
-      "id": "4937636",
-      "time": "2026-06-16 11:21:46",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美元/日元<JPY=EBS>在日本央行按預期加息後變動不大，最新報160.16。"
-    },
-    {
-      "id": "mkt:019ece73-01f3-7dd8-b01d-861725bd8197",
-      "time": "2026-06-16 11:21:44",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC",
-        "USDJPY",
-        "Impact bearish"
-      ],
-      "text": "Bank of Japan will buy JPY355 billion of 1-3 year Japanese government bonds twice monthly from July through September; previously it bought JPY255 billion three times monthly."
-    },
-    {
-      "id": "mkt:019ece72-e194-7dd8-b01d-7b34789e2faf",
-      "time": "2026-06-16 11:21:35",
-      "tags": [
-        "MKT News",
-        "Nikkei 225"
-      ],
-      "text": "Nikkei 225 futures were little changed after the Bank of Japan delivered an expected rate hike."
-    },
-    {
-      "id": "4937635",
-      "time": "2026-06-16 11:21:30",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "日本央行：實際利率為負值。"
-    },
-    {
-      "id": "mkt:019ece72-bea9-7dd8-b01d-7237bbc7c020",
-      "time": "2026-06-16 11:21:26",
-      "tags": [
-        "MKT News",
-        "USDJPY",
-        "Impact bearish",
-        "Nikkei 225",
-        "Impact bullish",
-        "DXY"
-      ],
-      "text": "Bank of Japan said it expects the accommodative financial environment to persist after a policy rate adjustment and to continue strongly supporting economic activity."
     }
   ]
 }
