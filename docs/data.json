@@ -1,7 +1,39 @@
 {
-  "updated": "2026-06-24 05:37:58",
-  "count": 17354,
+  "updated": "2026-06-24 05:42:00",
+  "count": 17355,
   "items": [
+    {
+      "id": "4951181",
+      "time": "2026-06-24 05:40:51",
+      "tags": [
+        "公司"
+      ],
+      "text": "Cerebras執行長：預計亞馬遜雲科技的影響將在2027年顯現。"
+    },
+    {
+      "id": "4951180",
+      "time": "2026-06-24 05:40:45",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國國家電網系統運營商：預報顯示，受極端高溫影響，週三晚間電力系統備用裕度將處於緊張狀態。"
+    },
+    {
+      "id": "4951179",
+      "time": "2026-06-24 05:40:39",
+      "tags": [
+        "公司"
+      ],
+      "text": "英國國家能源系統運營商（NESO）：電價裕度公告並不意味著電力供應面臨風險。"
+    },
+    {
+      "id": "4951178",
+      "time": "2026-06-24 05:40:29",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國國家能源系統運營商（NESO）：正向市場參與者呼籲，將其可調配的額外發電容量全部投入運營。"
+    },
     {
       "id": "4951177",
       "time": "2026-06-24 05:37:17",
@@ -158993,35 +159025,6 @@
         "MKT News"
       ],
       "text": "【Foreign media: $300 billion private fund in US‑Iran memorandum has over half of capital committed】Foreign media reported on June 16 that the US‑Iran memorandum of understanding includes a $300 billion private fund intended to spur investment in Iran. More than half of the fund’s capital has received commitments, sources said. The vehicle is described as a private investment instrument with no government funding or grants. Committing investors are based in the US, Gulf states, Asia, South America and Africa; target sectors include energy, logistics, manufacturing and transport. The fund is intended to provide economic incentives to both parties to help secure a final agreement."
-    },
-    {
-      "id": "te:economy:559445",
-      "time": "2026-06-17 05:40:04",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "New Zealand",
-        "Consumer Confidence",
-        "Importance 1"
-      ],
-      "text": "New Zealand Consumer Sentiment Hits 2023 Low — New Zealand's Westpac McDermott Miller Consumer Confidence Index fell to 80.4, its lowest level since 2023. Rising fuel and other living costs, exacerbated by tensions in the Middle East, have intensified concerns about household finances in recent months. The cost of essentials, including petrol and electricity, has increased sharply, while higher mortgage rates have added to borrowing pressures. Against this backdrop, more households expect their financial situation to worsen over the next year than to improve. Consumers have also become increasingly pessimistic about the broader economic outlook. As living costs continue to climb, households are growing more cautious with discretionary spending and are less willing to purchase durable goods. Wellington remains the most pessimistic region in the country."
-    },
-    {
-      "id": "4939340",
-      "time": "2026-06-17 05:39:53",
-      "tags": [
-        "公司"
-      ],
-      "text": "【英國首相在G7峰會兜售能源與AI專案獲13億英鎊投資】英國首相斯塔默在法國舉行的七國集團（G7）峰會上宣佈，英國在能源和人工智慧（AI）專案上獲得13億英鎊的投資。投資包括InfraVia Capital Partners SAS公司投資的10億英鎊，用於電池儲能及其他能源專案；以及Atri Energy Transition Pvt Ltd公司投資的3億英鎊，用於電池儲能和先進製造業。據唐寧街10號宣告，斯塔默表示，這些投資將創造數千個高技能就業崗位，支援英國創新，並增強英國的能源系統。"
-    },
-    {
-      "id": "4939339",
-      "time": "2026-06-17 05:38:12",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【6月17日美股成交額前20：SpaceX連漲3天 盤中市值一度超越亞馬遜和微軟】週二美股成交額第1名SpaceX收高4.83%，成交664.96億美元。SpaceX納斯達克上市後連漲三天，股價較開盤價上漲近50%，今日收盤股價上漲9.3美元，漲幅為4.83%，收於201.8美元，公司市值達到2.64萬億美元。SpaceX市值週二盤中一度超越亞馬遜和微軟。"
     }
   ]
 }
