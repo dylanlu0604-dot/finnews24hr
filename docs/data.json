@@ -1,7 +1,54 @@
 {
-  "updated": "2026-06-23 13:08:14",
-  "count": 17217,
+  "updated": "2026-06-23 13:12:30",
+  "count": 17219,
   "items": [
+    {
+      "id": "4949562",
+      "time": "2026-06-23 13:09:42",
+      "tags": [],
+      "text": "【創業板指午後跌超3％】創業板指午後跌超3％，有色金屬、元件、PCB產業鏈跌幅居前。"
+    },
+    {
+      "id": "mkt:019ef2e2-0923-7dd8-b0cc-da70ba6093d3",
+      "time": "2026-06-23 13:09:20",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "SZSE Component",
+        "Impact bearish",
+        "SSE Composite",
+        "CSI300"
+      ],
+      "text": "A-shares extended afternoon declines: ChiNext index down 3.0%, Shenzhen Composite Index down 2.39%, Shanghai Composite down 0.69%."
+    },
+    {
+      "id": "4949561",
+      "time": "2026-06-23 13:09:11",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【與SK海力士掛鉤產品成為香港最大ETF 資產規模飆升至約170億美元】南方東英資產管理有限公司的與SK海力士掛鉤槓桿式交易所交易產品已超越盈富基金，成為香港最大的ETF，凸顯投資者對火熱的半導體行業進行高風險投資的巨大興趣。這款與SK海力士掛鉤的ETF產品於10月推出，旨在提供兩倍於該股單日收益的回報，截至週一，其管理資產規模已迅速超過168億美元。這一數字超過了規模為162億美元的盈富基金，該基金是香港首隻ETF，追蹤恒生指數並且長期以來一直是香港的旗艦被動投資工具。"
+    },
+    {
+      "id": "4949560",
+      "time": "2026-06-23 13:08:47",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "創業板指跌3.00%，現報4228.499點；上證指數跌0.67%，現報4135.215點；深證成指跌2.36%，現報15986.000點。"
+    },
+    {
+      "id": "mkt:019ef2e1-2325-7dd8-b0cc-d79ffb1f9c1f",
+      "time": "2026-06-23 13:08:21",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Iranian President Pezeshkian arrives in Islamabad】Iranian President Pezeshkian arrived in Islamabad, Pakistan, on June 23 (local time)."
+    },
     {
       "id": "te:economy:560989",
       "time": "2026-06-23 13:07:32",
@@ -157864,34 +157911,6 @@
         "國際"
       ],
       "text": "印度政府：在特定有限期間內限制印度境內對Telegram平臺的訪問，截止日期為2026年6月22日。"
-    },
-    {
-      "id": "4937769",
-      "time": "2026-06-16 13:11:57",
-      "tags": [
-        "市場"
-      ],
-      "text": "巴基斯坦KSE-100指數上漲1%，至178,892.70。"
-    },
-    {
-      "id": "4937768",
-      "time": "2026-06-16 13:10:28",
-      "tags": [
-        "國際"
-      ],
-      "text": "【“詐彈”威脅浪費警力 韓國警方索賠數千萬韓元】韓國警方近日起訴5名涉嫌報假警的嫌疑人，索賠3312萬韓元（約合14.77萬元人民幣），以補償警力浪費造成的損失。據韓國《中央日報》報道，京畿道南部警察廳15日說，這5人包括4名十幾歲的青少年和1名20多歲成年人。這4名青少年被指控“惡意報警騷擾”，即透過即時通訊應用反覆提交虛假報案及炸彈威脅，以誘使警方大規模出警。（新華社）"
-    },
-    {
-      "id": "te:economy:559238",
-      "time": "2026-06-16 13:09:01",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Australia",
-        "Government Bond 10Y",
-        "Importance 1"
-      ],
-      "text": "AUS 10Y Yield Stays Near Multi-Month Lows — Australia’s 10-year government bond yield traded around 4.8%, staying near multi-month lows after the Reserve Bank kept rates unchanged for the first time this year. In a unanimous vote, the central bank held the cash rate at 4.35%, citing signs that three rate hikes earlier this year are beginning to filter through the economy. While policymakers reiterated that inflation remains elevated, a recent series of softer economic data gave the RBA room to pause and assess the impact of past tightening. Markets now await Governor Michele Bullock’s press conference later today for clues on whether policymakers are leaning toward an extended pause or maintaining a tightening bias. Three of Australia’s four largest banks expect the RBA to keep rates unchanged for the remainder of 2026, with some forecasting rate cuts next year. Elsewhere, global inflation concerns eased as oil prices fell sharply following a tentative US-Iran peace deal that could lead to the reopening of the Strait of Hormuz."
     }
   ]
 }
