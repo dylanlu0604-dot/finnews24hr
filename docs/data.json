@@ -1,7 +1,195 @@
 {
-  "updated": "2026-06-23 21:42:10",
-  "count": 17302,
+  "updated": "2026-06-23 21:46:22",
+  "count": 17310,
   "items": [
+    {
+      "id": "4950810",
+      "time": "2026-06-23 21:45:35",
+      "tags": [
+        "資料",
+        "國際"
+      ],
+      "text": "美國6月標普全球製造業PMI初值 55.7，預期54.8，前值55.1。\n美國6月標普全球綜合PMI初值 52.2，前值51.5。\n美國6月標普全球服務業PMI初值 51.3，預期51，前值50.7。"
+    },
+    {
+      "id": "mkt:019ef4ba-4b27-7dd8-b0db-0fcf1f35a27a",
+      "time": "2026-06-23 21:45:10",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "US Economy",
+        "DXY",
+        "Impact bullish",
+        "S&P500",
+        "Copper"
+      ],
+      "text": "US S&P Global preliminary June manufacturing PMI 55.7, consensus 54.8, prior 55.1."
+    },
+    {
+      "id": "mkt:019ef4ba-446c-7dd8-b0db-062c09a273bf",
+      "time": "2026-06-23 21:45:08",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "US Economy",
+        "S&P500",
+        "Impact bullish",
+        "DXY",
+        "US10Y",
+        "Impact bearish"
+      ],
+      "text": "US June S&P Global Services PMI flash 51.3; consensus 51.0; prior 50.7."
+    },
+    {
+      "id": "mkt:019ef4ba-4339-7dd8-b0da-fa7a1c43fa4f",
+      "time": "2026-06-23 21:45:08",
+      "tags": [
+        "MKT News",
+        "S&P500",
+        "Impact bullish",
+        "DXY",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "US June S&P Global composite PMI (flash) 52.2, prior 51.5."
+    },
+    {
+      "id": "mkt:019ef4ba-2516-7dd8-b0da-f715ab777501",
+      "time": "2026-06-23 21:45:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | Services PMI Flash (Jun) | actual 51.3 | consensus 51 | previous 50.7"
+    },
+    {
+      "id": "mkt:019ef4ba-24c9-7dd8-b0da-eb3c81f64982",
+      "time": "2026-06-23 21:45:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | Composite PMI Flash (Jun) | actual 52.2 | previous 51.5"
+    },
+    {
+      "id": "mkt:019ef4ba-2457-7dd8-b0da-e0611fbf002b",
+      "time": "2026-06-23 21:45:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | Manufacturing PMI Flash (Jun) | actual 55.7 | consensus 54.8 | previous 55.1"
+    },
+    {
+      "id": "4950809",
+      "time": "2026-06-23 21:44:22",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【美國將提供175億美元貸款支援大型核反應堆建設】據知情人士透露，特朗普政府將提供175億美元資金，用於資助西屋電氣公司的大型核反應堆裝置訂單。這筆資金將提供給已簽署美國能源部貸款意向書的7家未具名公用事業公司。特朗普將核反應堆視為資料中心和經濟增長的關鍵電力來源，並於去年簽署行政令，要求到2030年美國有10座大型常規核反應堆在建。儘管許多公司正致力於在美國推動新一代小型模組化反應堆的開發，但大型傳統核電站的建設大多處於停滯狀態。本世紀以來，美國僅完工了三座此類核電站，目前尚無任何一座在建。"
+    },
+    {
+      "id": "mkt:019ef4b9-6605-7dd8-b0da-ddd6e16a8112",
+      "time": "2026-06-23 21:44:11",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade",
+        "Copper",
+        "Impact bullish"
+      ],
+      "text": "【US to provide $17.5 bln loan to back large nuclear reactor builds】Sources say the Trump administration will provide $17.5 billion to finance Westinghouse Electric equipment orders for large nuclear reactors. The funds will be allocated to seven unnamed utilities that have signed DOE loan intent letters. The administration views large reactors as critical power for data centers and economic growth and issued an executive order last year aiming for 10 large conventional reactors under construction in the US by 2030. Large conventional reactor builds have largely stalled: only three such plants have been completed since 2000 and none are currently under construction."
+    },
+    {
+      "id": "4950808",
+      "time": "2026-06-23 21:44:05",
+      "tags": [
+        "市場"
+      ],
+      "text": "【SpaceX股價跌破150美元的首日開盤價】SpaceX股價下跌4%，報148.51美元/股，已低於150美元的首日開盤價，總市值報1.95萬億美元。"
+    },
+    {
+      "id": "mkt:019ef4b9-27c6-7dd8-b0da-d64ff274166d",
+      "time": "2026-06-23 21:43:55",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "DXY",
+        "Impact bullish",
+        "EURUSD",
+        "Impact bearish"
+      ],
+      "text": "Hungary's central bank governor said he expects two further 25bp rate cuts over the summer."
+    },
+    {
+      "id": "mkt:019ef4b8-a3d5-7dd8-b0da-c8ef833af2fa",
+      "time": "2026-06-23 21:43:21",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Lebanese president said a new US-backed round of talks with Israel could be decisive."
+    },
+    {
+      "id": "te:markets:561205",
+      "time": "2026-06-23 21:43:12",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Cocoa Futures at Over 1-Month High — Cocoa futures traded around $4,600 per tonne, the highest since May 11, driven by short covering and weather-related supply concerns. Traders monitored the end of the mid-season harvest in West Africa and the upcoming main harvest, which starts in September. Farmers in top grower Ivory Coast have expressed concerns that recent above-average rainfall could lead to flooding, higher disease incidence, and reduced cocoa bean quality during the final stretch of the mid-crop harvest. While rainfall is crucial for crop development, excessive moisture also favors the emergence of fungal diseases and an increased presence of insects in crops, particularly at a critical stage for cocoa pod formation and ripening. Meanwhile, concerns about the potential impact of the El Nino persisted. Another factor for investors is the drop in ICE-certified stocks at US ports, which fell by 3,828 bags to 2,914,908, suggesting tighter supply."
+    },
+    {
+      "id": "4950807",
+      "time": "2026-06-23 21:43:08",
+      "tags": [
+        "其他"
+      ],
+      "text": "【CPO量產並未延期，卡點在上移】AI算力狂飆，光互聯賽道在“模糊美好”的想象下估值天花板迅速上行。一方面，股價極易受邊際資訊影響而劇烈波動，另一方面，每一次回踩後，市值又屢創新高。不久前，SemiAnalysis的一紙報告引發全球光通訊板塊集體跳水，“CPO量產延期”的悲觀敘事引起市場巨震，英偉達高管甚至在臺北參會期間緊急“闢謠”。21世紀經濟報道記者也從接近英偉達的業內人士處得到印證，在產業端並不存在CPO量產推遲。市場的巨大分歧，或是混淆了“小批次驗證匯入”和“全行業普及”兩個完全不同的週期。真相遠比單一看多或看空更復雜。多位產業人士對記者表示，真正制約CPO乃至整個高速光通訊產品的是上游的磷化銦鐳射晶片。光晶片產線建設加上客戶驗證的漫長時間週期，使其成為當前產能擴張的最短板。長期看，CPO仍是超大模型訓練叢集的終極方案；短期內，NPO、LPO、傳統可插拔光模組或形成多路並行格局，分擔超高頻寬算力需求。算力頻寬競賽的火熱並不會冷卻，但高速光互聯技術落地，註定是一場上游產能先行、分階段迭代的慢行情。（21世紀經濟報道）"
+    },
+    {
+      "id": "4950806",
+      "time": "2026-06-23 21:43:05",
+      "tags": [
+        "公司"
+      ],
+      "text": "【寧德時代：明年6月啟動鈉電儲能系統全球市場交付】寧德時代釋出了全球首款場站級鈉電儲能解決方案，推出了實證型鈉電儲能系統天恆鈉電。寧德時代同時宣佈，公司鈉電儲能解決方案及供應鏈均已達到商業化水平，即將開啟規模化交付。寧德時代此前已對外表示，在中國市場，公司將於今年9月向客戶交付首批鈉離子電池儲能系統，全年實現GWh級出貨。根據最新披露，寧德時代的鈉電儲能系統在全球市場則將於明年6月啟動交付。（澎湃）"
+    },
+    {
+      "id": "mkt:019ef4b8-090e-7dd8-b0da-c36e02890978",
+      "time": "2026-06-23 21:42:42",
+      "tags": [
+        "MKT News",
+        "Important",
+        "XAUUSD",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Lebanon's president said he will accept no compromise unless the \"Israeli occupation of southern Lebanon\" ends."
+    },
+    {
+      "id": "4950805",
+      "time": "2026-06-23 21:42:18",
+      "tags": [
+        "市場"
+      ],
+      "text": "標普500軟體指數上漲1.2%，逆勢擺脫科技股回撥拖累。"
+    },
+    {
+      "id": "4950804",
+      "time": "2026-06-23 21:42:11",
+      "tags": [
+        "國際"
+      ],
+      "text": "黎巴嫩總統奧恩表示，由美國支援的新一輪與以色列的談判可能具有決定性意義。"
+    },
     {
       "id": "4950803",
       "time": "2026-06-23 21:41:09",
@@ -158361,94 +158549,6 @@
         "公司"
       ],
       "text": "市場訊息：戴比爾斯前執行長彭尼領跑這家鑽石巨頭相關職位的競逐。"
-    },
-    {
-      "id": "4938948",
-      "time": "2026-06-16 21:45:39",
-      "tags": [
-        "國際"
-      ],
-      "text": "斯塔默確認7月22日將在布魯塞爾出席歐盟峰會。"
-    },
-    {
-      "id": "mkt:019ed0ad-8ccd-7dd8-b033-59bea904ecec",
-      "time": "2026-06-16 21:44:55",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【UCloud Ulanqab smart-compute centre D block tops out; plans \"Token Factory\"】UCloud said the D block of its Ulanqab smart-compute centre topped out today. D block is planned for 3,136 total cabinets; initial delivery will include 12 modules totalling 2,352 standard cabinets with per-cabinet power of 15 kW. The site reserves four white spaces offering bespoke power between 8 kW and 24 kW per cabinet. The Ulanqab facility covers about 140,000 sqm and is designed to accommodate roughly 12,000 cabinets of varying power profiles."
-    },
-    {
-      "id": "4938946",
-      "time": "2026-06-16 21:44:49",
-      "tags": [
-        "國際"
-      ],
-      "text": "澤連斯基： 我們將在今年生產大約1000萬架無人機，但我們可以將其翻倍。"
-    },
-    {
-      "id": "4938945",
-      "time": "2026-06-16 21:44:15",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【媒體稱特朗普承諾將在“幾天內”公佈美伊協議內容 “可能召開新聞釋出會逐字宣讀”】據美國有線電視新聞網（CNN）16日報道，美國總統特朗普承諾，將在“幾天內”公佈與伊朗達成的協議內容，並稱目前正在等待一個“正式場合”來披露這份協議。“這是一份很棒的協議”，特朗普在七國集團（G7）峰會期間與阿聯酋總統穆罕默德·本·扎耶德·阿勒納哈揚會面時提到，“協議內容寫著：伊朗永遠不會擁有核武器。”CNN提到，美伊已透過電子方式簽署了諒解備忘錄，但協議全文尚未公開。特朗普稱，“我可能會召開一場新聞釋出會，逐字逐句地向你們宣讀，以便媒體能夠準確報道，因為這是一份非常重要的檔案。” (環球網)"
-    },
-    {
-      "id": "4938944",
-      "time": "2026-06-16 21:43:44",
-      "tags": [
-        "國際"
-      ],
-      "text": "澤連斯基談及與普京談判的中立場地： 我們需要第三國作為談判地點，不能是俄羅斯，也不能是烏克蘭。 瑞士、土耳其、中東國家都可以，我認為美國也可行。"
-    },
-    {
-      "id": "4938943",
-      "time": "2026-06-16 21:43:04",
-      "tags": [
-        "其他"
-      ],
-      "text": "【優刻得烏蘭察布智算中心D樓封頂 將構建“Token工廠”】優刻得烏蘭察布智算中心D樓主體結構今日封頂。此次封頂的D樓規劃總機櫃數3136個，其中首批將交付12個模組、2352個標準機櫃，單機櫃供電能力達到15kW；同時預留4個白空間，可根據客戶需求提供8kW至24kW定製化供電方案。作為優刻得的重要算力基地，烏蘭察布智算中心佔地約14萬平方米，整體設計可容納約12000個多規格功率機櫃。其中，去年啟動交付的B棟機櫃資源已完成全部簽約。優刻得將以烏蘭察布智算中心為核心陣地，構建“Token工廠”，為大模型訓練和推理提供Token供給能力。（科創板日報）"
-    },
-    {
-      "id": "mkt:019ed0ab-b9dc-7dd8-b033-533d90a493c4",
-      "time": "2026-06-16 21:42:55",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "US Economy",
-        "GM.O",
-        "Impact bearish",
-        "WTI",
-        "Impact bullish"
-      ],
-      "text": "GM North America president said rising oil prices have reduced demand, causing sales declines in its pickup trucks and full-size SUVs."
-    },
-    {
-      "id": "4938942",
-      "time": "2026-06-16 21:42:44",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "歐洲央行首席經濟學家連恩：歐洲應當思考如何提振內需。"
-    },
-    {
-      "id": "mkt:019ed0ab-6f56-7dd8-b033-4c44c760add7",
-      "time": "2026-06-16 21:42:36",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Former US vice president Harris said she would absolutely not have launched a war with Iran if she had been elected president."
-    },
-    {
-      "id": "4938941",
-      "time": "2026-06-16 21:42:34",
-      "tags": [
-        "市場"
-      ],
-      "text": "通用汽車北美總裁：因汽油價格上漲，汽車製造商的皮卡和全尺寸SUV銷量出現“萎縮”。"
     }
   ]
 }
