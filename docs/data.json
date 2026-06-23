@@ -1,7 +1,90 @@
 {
-  "updated": "2026-06-23 22:20:17",
-  "count": 17330,
+  "updated": "2026-06-23 22:24:39",
+  "count": 17329,
   "items": [
+    {
+      "id": "mkt:019ef4dc-f221-7dd8-b0dc-0ae64970be41",
+      "time": "2026-06-23 22:23:01",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "Magnificent 7",
+        "NVDA.O",
+        "Impact bearish",
+        "Nasdaq100",
+        "S&P500"
+      ],
+      "text": "NVIDIA (NVDA.O) market cap fell below $5 trillion; shares down 2.6%."
+    },
+    {
+      "id": "4950863",
+      "time": "2026-06-23 22:22:16",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "英偉達市值跌破5萬億美元；盤中股價最新下跌2.6%。"
+    },
+    {
+      "id": "mkt:019ef4dc-3834-7dd8-b0dc-06c199ff0cc0",
+      "time": "2026-06-23 22:22:13",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Wall Street (US)",
+        "Dow",
+        "Impact bullish",
+        "S&P500",
+        "Impact bearish",
+        "Nasdaq100"
+      ],
+      "text": "Dow turns positive, up 0.1%; S&P 500 loss narrows to 0.7%; Nasdaq down 1.2%."
+    },
+    {
+      "id": "4950862",
+      "time": "2026-06-23 22:20:37",
+      "tags": [
+        "宏觀",
+        "兩會"
+      ],
+      "text": "【審計工作報告：審計整改總體格局進一步鞏固完善】《國務院關於2025年度中央預算執行和其他財政收支的審計工作報告》提請全國人大常委會會議審議。報告顯示，審計整改總體格局進一步鞏固完善，至2026年4月底，針對2024年度審計查出問題已整改問題金額1.41萬億元，制定完善制度1150多項，處理處分3690多人。中央財政管理審計結果顯示，2025年，中央一般公共預算收入總量約9.73萬億元、支出總量約14.59萬億元，赤字4.86萬億元，與預算持平。（新華社）"
+    },
+    {
+      "id": "4950861",
+      "time": "2026-06-23 22:20:10",
+      "tags": [
+        "市場"
+      ],
+      "text": "美股三大指數短線拉昇，道瓊斯指數漲0.07%；標普500指數跌幅縮窄至0.77%，此前一度跌超1.5%；納斯達克綜合指數跌幅縮窄至1.17%，此前一度跌超2.3%。"
+    },
+    {
+      "id": "mkt:019ef4da-4c56-7dd8-b0db-f8b45478b609",
+      "time": "2026-06-23 22:20:07",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Baltic Dry Index down for second straight session as freight weakens】Baltic Dry Index fell for a second straight session, sliding 17 pts (0.6%) to 2,667. Capesize index (BCI) dropped 28 pts (0.7%) to 4,046, its lowest since June 18; Capesize daily earnings fell $252 to $33,192. Panamax index (BPI) lost 14 pts (0.7%) to 2,045; Panamax daily earnings declined $126 to $18,406. Supramax index (BSI) slipped 10 pts (0.6%) to 1,705. Handysize index (BHSI) rose 5 pts to 941."
+    },
+    {
+      "id": "4950860",
+      "time": "2026-06-23 22:19:34",
+      "tags": [
+        "其他"
+      ],
+      "text": "【小米電視緊急致歉：地震預警系研發人員誤發】@小米電視 6月23日釋出緊急澄清致歉：2026年6月23日20:15，北京及周邊區域部分小米電視使用者收到的地震預警訊息，系我方研發人員開展功能內部測試時操作失誤，誤將內部模擬測試資料推送至線上正式環境。該內容僅為測試虛構資料，並非官方真實地震預警，當前區域不存在地震險情。我們第一時間攔截錯誤資訊，針對資訊釋出流程、測試環境機制全面整改，對造成的使用者恐慌正式致歉。"
+    },
+    {
+      "id": "4950859",
+      "time": "2026-06-23 22:18:57",
+      "tags": [
+        "市場",
+        "兩會"
+      ],
+      "text": "【2025年度審計工作報告發布 中央財政赤字與預算持平】審計署向全國人大常委會報告了2025年度中央預算執行和其他財政收支的審計情況。報告顯示，2025年中央財政赤字與預算持平。在“兩重”“兩新”政策落實及資金管理使用情況方面，報告揭示了部分超長期國債資金被擠佔挪用、“兩重”建設配套政策等“軟建設”任務落實不到位等問題；在城市地下管網審計方面，揭示了部分“兩重”建設資金被擠佔挪用、騙取套取或閒置等問題。（央視新聞）"
+    },
     {
       "id": "mkt:019ef4d8-e3e3-7dd8-b0db-f4caff690677",
       "time": "2026-06-23 22:18:35",
@@ -23,6 +106,15 @@
         "國際"
       ],
       "text": "美國地質調查局：萬那杜伊桑格爾以南126公里處發生5.3級地震。"
+    },
+    {
+      "id": "4950857",
+      "time": "2026-06-23 22:17:49",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "【王毅談第十六次金磚國家安全事務高階代表會議成果】中共中央政治局委員、中央外辦主任王毅23日在金磚國家安全事務高階代表會議結束前，總結了本次會議的成果和意義。 王毅表示，這次會議形成的重要共識是，我們都支援維護多邊主義，推動熱點問題政治解決，統籌應對傳統和非傳統安全威脅。這次會議發出的共同聲音是，我們都支援金磚和全球南方要堅持獨立自主，加強團結互助，凝聚更多集體智慧，協調更強共同行動。這次會議確定的明確方向是，我們都支援進一步用好金磚安代會機制，就重大國際和地區熱點問題保持溝通和協調，不斷豐富“大金磚”合作內涵。 王毅說，明年中方將接任金磚輪值主席國。期待大家在中國再聚首，進一步深化金磚國家政治安全合作，為世界和平與安全貢獻金磚智慧與力量。（新華社）"
     },
     {
       "id": "te:economy:561220",
@@ -158675,99 +158767,6 @@
         "MKT News"
       ],
       "text": "SpaceX options traded over 500,000 contracts in the first hour after trading opened."
-    },
-    {
-      "id": "mkt:019ed0d1-1ed4-7dd8-b033-ddbdc8bbf4ed",
-      "time": "2026-06-16 22:23:46",
-      "tags": [
-        "MKT News",
-        "Important",
-        "SPCX.O"
-      ],
-      "text": "SpaceX (SPCX.O) shares pared gains to below 10%."
-    },
-    {
-      "id": "4939001",
-      "time": "2026-06-16 22:23:17",
-      "tags": [
-        "市場"
-      ],
-      "text": "SpaceX 期權交易開盤首小時內，成交超 50 萬張期權合約。"
-    },
-    {
-      "id": "4939000",
-      "time": "2026-06-16 22:23:10",
-      "tags": [
-        "市場"
-      ],
-      "text": "標普500指數觸及盤中低點，下跌0.1%。"
-    },
-    {
-      "id": "te:economy:559386",
-      "time": "2026-06-16 22:23:09",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Sri Lanka",
-        "Manufacturing PMI",
-        "Importance 1"
-      ],
-      "text": "Sri Lanka Manufacturing Activity Rebounds in May — Sri Lanka’s Manufacturing PMI rose to 56.6 in May 2026 from 42.6 in the previous month, signaling a rebound in manufacturing activity. All sub-indices moved above the neutral threshold. Stocks of purchases increased to 52.6 from 44.0, in line with gains in new orders (52.6 vs 36.4) and production (54.6 vs 30.5). The rise in new orders and output was mainly driven by the food and beverages and textiles and wearing apparel sectors. Production also benefited from a higher number of working days in May compared to April. Meanwhile, suppliers' delivery times remained lengthened, though the index eased to 66.3 from 68.7. Respondents continued to cite the Middle East conflict as a source of operating challenges."
-    },
-    {
-      "id": "4938999",
-      "time": "2026-06-16 22:22:50",
-      "tags": [
-        "其他",
-        "焦點"
-      ],
-      "text": "SpaceX股價漲幅收窄至不足10%。"
-    },
-    {
-      "id": "4938998",
-      "time": "2026-06-16 22:22:23",
-      "tags": [
-        "市場"
-      ],
-      "text": "納斯達克100指數跌至當日低點，下跌0.5%。"
-    },
-    {
-      "id": "4938997",
-      "time": "2026-06-16 22:22:19",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：作為華盛頓與德黑蘭之間的關鍵調解方，卡達表示，美伊會談的調解人正與伊朗探討互不侵犯條約、非國家武裝組織及核問題，這揭示了談判範圍正在不斷擴大。"
-    },
-    {
-      "id": "mkt:019ed0cf-b3cb-7dd8-b033-d2c8068a99c6",
-      "time": "2026-06-16 22:22:13",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bearish",
-        "XAUUSD",
-        "S&P500",
-        "Impact bullish"
-      ],
-      "text": "Qatar told CNN that mediators between Washington and Tehran are discussing a mutual non‑aggression pact, non‑state armed groups and nuclear issues, indicating the talks' scope is expanding."
-    },
-    {
-      "id": "4938996",
-      "time": "2026-06-16 22:22:05",
-      "tags": [
-        "其他"
-      ],
-      "text": "管理規模達 14 萬億美元的貝萊德正式推出比特幣收益增強型 ETF。"
-    },
-    {
-      "id": "4938995",
-      "time": "2026-06-16 22:20:51",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【美銀：裕信或憑藉德國商業銀行大獲成功】美國銀行的Antonio Reale和Rohan Datta在一份報告中表示，裕信對德國商業銀行的追求有可能帶來盈利的大幅增長，而這一前景似乎被錯誤定價。美國銀行表示，如果該義大利銀行獲得德國商業銀行50%的控制權，它將能夠把該德國銀行的業績併入自己的賬戶。他們估計，如果裕信最終獲得德國商業銀行的完全所有權，到2030年，其調整後淨利潤可能會較去年的101億歐元增至205億歐元。美國銀行將裕信股票的目標價從92歐元上調至100歐元，並稱其為歐盟銀行業中的首選股票。裕信股價上漲4.1%，至77.66歐元。"
     }
   ]
 }
