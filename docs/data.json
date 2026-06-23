@@ -1,7 +1,184 @@
 {
-  "updated": "2026-06-23 17:10:35",
-  "count": 17219,
+  "updated": "2026-06-23 17:14:45",
+  "count": 17223,
   "items": [
+    {
+      "id": "4950130",
+      "time": "2026-06-23 17:13:35",
+      "tags": [
+        "公司"
+      ],
+      "text": "【和順科技：本年度正式啟動MLCC基膜產品客戶送樣工作】和順科技(301237.SZ)釋出投資者關係活動記錄表公告，公當前行業整體開工率持續回升，受美伊地緣局勢影響，薄膜產品價格有所上行，行業景氣度提升，對公司二季度經營業績形成較為明顯的正向提振作用。公司深耕薄膜材料賽道，MLCC基膜相關產品已潛心研發2-3年，於本年度正式啟動MLCC基膜產品客戶送樣工作，有序推進下游客戶樣品測試與驗證流程。此外，公司高階M級碳纖維專案已完成全流程試生產，產品效能指標達標。目前公司已針對性向匹配度最高、落地機率最大的航天核心院所完成專項送樣。"
+    },
+    {
+      "id": "mkt:019ef3c1-9f82-7dd8-b0d3-c389c81f1aa1",
+      "time": "2026-06-23 17:13:33",
+      "tags": [
+        "MKT News",
+        "ENI.MI",
+        "Impact bearish"
+      ],
+      "text": "BofA cut its PT for Italian oil company ENI to $53 from $58."
+    },
+    {
+      "id": "mkt:019ef3c1-90a4-7dd8-b0d3-bfa7bb800139",
+      "time": "2026-06-23 17:13:29",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "【BOT likely to keep rates unchanged to preserve policy space】The Bank of Thailand is expected to leave policy rates unchanged on Wednesday to preserve policy space, a Wall Street Journal survey of eight economists showed, with respondents unanimously forecasting a hold. Economists said the BOT is likely to treat recent inflation as supply-driven and therefore tolerate it; a retreat in oil prices has reduced urgency to act. Thailand's extended period of very low inflation before recent shocks also provides a buffer. Moody's Analytics economists expect the policy rate to remain at 1% to maintain an easy stance and support growth."
+    },
+    {
+      "id": "mkt:019ef3c1-79ab-7dd8-b0d3-b6b50f5cd285",
+      "time": "2026-06-23 17:13:23",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Sinovac launches Phase III trial of fully human anti-tetanus mAb】Sinovac Biotech’s fully human anti-tetanus monoclonal antibody SNA02-48 injection has entered a Phase III trial, with the first volunteer enrolled at Shenzhen Second People’s Hospital. SNA02-48 was cleared for clinical use in March 2025 and is a recombinant fully human mAb for emergency post-exposure prophylaxis against tetanus. Sinovac is expanding a wound-care portfolio covering active and passive immunity: its adsorbed tetanus vaccine is market-approved; Sinovac-backed Xingmeng Biotech’s Class 1 innovative drug Krebi® (monoclonal antibody injection) is approved for passive immunization of adults exposed to rabies; Sinovac’s lyophilized human rabies vaccine (serum-free Vero cell) is in the regulatory filing stage."
+    },
+    {
+      "id": "4950129",
+      "time": "2026-06-23 17:13:22",
+      "tags": [
+        "其他"
+      ],
+      "text": "【企業微信agent“大圓”開始內測】6月23日，介面新聞獲悉，在微信的AI內測訊息曝出後，企業微信也即將推出名為“大圓”的AI agent，目前已進入內測階段。據瞭解，該產品並不要求使用者反覆說上下文，而是可以基於企業微信內已有的群聊、文件、會議、郵件、日程等工作資料，自動理解使用者訴求，並結合對應場景給出回覆。"
+    },
+    {
+      "id": "4950128",
+      "time": "2026-06-23 17:13:21",
+      "tags": [
+        "公司"
+      ],
+      "text": "【貝萊德（BlackRock）對江西銅業股份的多頭持倉比例增至5.52%】據香港交易所披露，貝萊德（BlackRock）對江西銅業股份有限公司 - H股的多頭持倉比例於2026年6月17日從4.52%增至5.52%。"
+    },
+    {
+      "id": "4950127",
+      "time": "2026-06-23 17:13:07",
+      "tags": [
+        "公司"
+      ],
+      "text": "【吉利汽車輔助駕駛專利獲授權】天眼查智慧財產權資訊顯示，近日，浙江吉利控股集團有限公司、吉利汽車研究院（寧波）有限公司申請的 “基於預期功能安全風險評估的輔助駕駛最佳化方法” 發明授權專利獲授權。摘要顯示，本發明提供一種基於預期功能安全風險評估的輔助駕駛最佳化方法。該方法應用於輔助駕駛最佳化系統中的最佳化伺服器，還系統還包括至少一個部署有輔助駕駛系統的車輛，該方法包括：接收任一車輛在檢測到自身的實際行駛場景滿足風險觸發條件的情況下，上傳的臨界場景行駛資料；所述最佳化伺服器基於臨界場景行駛資料反算輔助駕駛系統首次感知到障礙物時與所述障礙物之間的首次有效感知目標狀態，並還原該車輛針對障礙物的避讓資訊；在首次有效感知目標狀態不超出所述任一臨界風險場景對應的安全臨界目標狀態且避讓資訊表明所述任一車輛未能有效避讓障礙物的情況下，根據首次有效感知目標狀態確定用於更新所述第一引數的第二引數。"
+    },
+    {
+      "id": "4950126",
+      "time": "2026-06-23 17:12:56",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "【摩根大通（JPMorgan）對嗶哩嗶哩-W的多頭持倉比例降至16.3%】據香港交易所披露，摩根大通（JPMorgan）對嗶哩嗶哩股份有限公司 - W的多頭持倉比例於2026年6月17日從16.34%降至16.3%。"
+    },
+    {
+      "id": "4950125",
+      "time": "2026-06-23 17:12:52",
+      "tags": [
+        "其他"
+      ],
+      "text": "美銀全球研究將埃尼石油目標股價從58美元下調至53美元。"
+    },
+    {
+      "id": "mkt:019ef3c0-959c-7dd8-b0d3-a8347c17e5cd",
+      "time": "2026-06-23 17:12:25",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "【Oman sultan meets Iran parliament speaker to discuss Iran-US talks】On the 23rd (local time) in Muscat, Oman's Sultan Haitham met visiting Iranian parliament speaker Mohammad Bagher Ghalibaf and his delegation to discuss the latest progress in ongoing Iran‑US negotiations. Haitham received Iran's briefing on the talks, expressed support and said he hoped the negotiations would succeed. He said outstanding issues should be resolved peacefully, explicitly citing restoration of safe shipping and navigation in the Strait of Hormuz, the Iranian nuclear issue and other related matters."
+    },
+    {
+      "id": "4950124",
+      "time": "2026-06-23 17:12:19",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國銀行將殼牌目標價從95美元下調至89美元。"
+    },
+    {
+      "id": "4950123",
+      "time": "2026-06-23 17:12:07",
+      "tags": [
+        "國際"
+      ],
+      "text": "官方稱，俄羅斯襲擊烏克蘭克里維裡赫造成三人死亡。"
+    },
+    {
+      "id": "4950122",
+      "time": "2026-06-23 17:12:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "【北京黃金經濟發展研究中心宣告：此前歷年核發的研究員聘書全部廢止】6月23日，北京黃金經濟發展研究中心釋出宣告稱，該中心全國研究員公開招募及規範化聘任工作已正式啟動並全面落地實施。自本宣告發布之日起，中心此前歷年核發的所有研究員聘書、資質證明及相關任職憑證全部廢止，不再具備任何官方效力及資質證明作用。"
+    },
+    {
+      "id": "4950121",
+      "time": "2026-06-23 17:11:57",
+      "tags": [
+        "國際"
+      ],
+      "text": "【阿曼蘇丹會見伊朗議長 討論伊美談判最新進展】當地時間23日，阿曼蘇丹海賽姆在該國首都馬斯喀特會見到訪的伊朗伊斯蘭議會議長卡利巴夫及隨行代表團。雙方就伊朗與美國正在進行的談判最新進展交換意見，海賽姆聽取了伊方關於談判各項程序的介紹。海賽姆對當前談判表示支援，並祝願談判取得成功。海賽姆稱，希望伊美談判推動所有懸而未決的問題透過和平方式得到解決，其中包括恢復霍爾木茲海峽航運暢通及航行安全、伊朗核問題以及其他相關議題。（央視新聞）"
+    },
+    {
+      "id": "mkt:019ef3bf-fc1a-7dd8-b0d3-a73a452dcbd4",
+      "time": "2026-06-23 17:11:45",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "SHEL.N",
+        "Impact bearish"
+      ],
+      "text": "BofA cut its PT on Shell (SHEL.N) to $89 from $95."
+    },
+    {
+      "id": "4950119",
+      "time": "2026-06-23 17:11:41",
+      "tags": [
+        "其他"
+      ],
+      "text": "【科興全人源抗破傷風單抗啟動Ⅲ期臨床研究】6月23日，據科興訊息，科興全人源抗破傷風單克隆抗體（SNA02-48注射液）已啟動Ⅲ期臨床研究，並在深圳市第二人民醫院完成首例志願者入組。"
+    },
+    {
+      "id": "mkt:019ef3bf-803e-7dd8-b0d3-9be75cdd6596",
+      "time": "2026-06-23 17:11:14",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【Guangzhou Tongze Kangwei ChiNext IPO slated for review on June 30】Shenzhen Stock Exchange said on June 23 its listing review committee will hold the 38th review meeting of 2026 on June 30 to consider the initial public offering of Guangzhou Tongze Kangwei Technology Co., Ltd."
+    },
+    {
+      "id": "4950117",
+      "time": "2026-06-23 17:10:21",
+      "tags": [
+        "公司"
+      ],
+      "text": "【至純科技：控股股東擬不超2億元增資控股子公司】至純科技公告稱，2026年6月22日，公司控股子公司至微半導體與控股股東蔣淵女士簽訂《投資意向書》，蔣淵擬以增資方式向至微半導體投資不超2億元。實際增資金額和增資後持股比例以雙方另行簽署並經審批透過的交易檔案為準。本輪投資將以認繳/認購新增註冊資本方式進行。《投資意向書》屬框架性、意向性約定，能否簽署正式協議並實施存在不確定性，若實施將構成關聯交易。"
+    },
+    {
+      "id": "mkt:019ef3be-8897-7dd8-b0d3-9115e61b97de",
+      "time": "2026-06-23 17:10:10",
+      "tags": [
+        "MKT News",
+        "Hang Seng Index"
+      ],
+      "text": "【SFC publishes consultation conclusions on extending investor identification code regime to HKEX derivatives market】The SFC published consultation conclusions to extend the investor identification code regime to HKEX-traded derivatives, following a similar regime for the securities market (HKIDR-S) introduced in March 2023. Target implementation is Q2 2028. The regime will require licensed corporations and registered institutions that provide brokerage services or conduct proprietary trading to submit clients' names and identity information to a central data repository."
+    },
+    {
+      "id": "4950116",
+      "time": "2026-06-23 17:10:06",
+      "tags": [
+        "其他"
+      ],
+      "text": "美銀全球研究將道達爾能源目標股價從86歐元下調至82歐元。"
+    },
     {
       "id": "4950115",
       "time": "2026-06-23 17:09:49",
@@ -157693,144 +157870,6 @@
         "Importance 1"
       ],
       "text": "Eurozone Investor Sentiment Surprises on the Upside — The ZEW Indicator of Economic Sentiment for the Euro Area climbed by 18.6 points from the prior month to 9.5 in June 2026, way better than market forecasts of -7.2. The improvement was underpinned by hopes of a resolution to the Middle East conflict, which should alleviate pressure on energy prices and inflation. In June, 57.7% of analysts expected no change in economic activity, while 25.9% anticipated improvement and 16.4% expected deterioration. The index measuring inflation expectations declined by 19.5 points to 45.8. Meanwhile, the assessment of the current situation was less favorable, with the index falling by 2 points to -43.4."
-    },
-    {
-      "id": "4938282",
-      "time": "2026-06-16 17:14:04",
-      "tags": [
-        "公司"
-      ],
-      "text": "【新諾威：擬將證券簡稱變更為“石藥創新”】新諾威公告稱，公司於2026年6月16日召開第七屆董事會第二次會議，審議透過《關於變更證券簡稱的議案》。自2024年以來，公司依託巨石生物加速向創新型生物醫藥企業轉型，已形成完整產業鏈。為強化企業形象與品牌價值，使簡稱與主營業務及戰略定位匹配，董事會同意將證券簡稱由“新諾威”變更為“石藥創新”。"
-    },
-    {
-      "id": "4938281",
-      "time": "2026-06-16 17:14:00",
-      "tags": [
-        "公司"
-      ],
-      "text": "【昊志機電：持股5%以上股東333.50萬股解除質押】昊志機電公告稱，持股5%以上股東湯麗君於2025年6月11日質押給粵科擔保的333.50萬股股份，已於2026年6月15日辦理解除質押，佔公司總股本1.08%。截至公告披露日，湯麗君累計質押405.20萬股，佔其所持股份14.41%，佔公司總股本1.31%。本次解除質押無業績補償義務，與公司經營需求無關，不會產生實質影響，質押股份無平倉或強制過戶風險。"
-    },
-    {
-      "id": "4938280",
-      "time": "2026-06-16 17:13:54",
-      "tags": [
-        "公司"
-      ],
-      "text": "【金山辦公：調整2025年度利潤分配方案 每股現金紅利12.5元（含稅）】金山辦公調整2025年度利潤分配方案，原A股每10股派發現金紅利12.52元（含稅）調整為A股每10股派發現金紅利12.5元（含稅）。公司因2023年、2024年及2025年限制性股票激勵計劃部分歸屬期完成，總股本由4.63億股增加至4.64億股，並因歸屬股票來源於回購專用賬戶，導致回購專用證券賬戶股份減少至0股。公司維持分配總額不變，調整每股分紅金額。"
-    },
-    {
-      "id": "4938279",
-      "time": "2026-06-16 17:13:31",
-      "tags": [
-        "公司"
-      ],
-      "text": "【中蘭環保：持股5%以上股東劉青松減持85.23萬股】中蘭環保公告稱，股東劉青松於2026年6月10日至16日，透過集中競價、大宗交易方式累計減持85.23萬股，佔公司現有總股本的0.61%。本次權益變動後，其持股比例從9.61%降至9.00%，觸及1%的整數倍。劉青松本次減持情況與此前計劃一致，且減持數量在計劃範圍內，減持計劃尚未履行完畢。"
-    },
-    {
-      "id": "4938278",
-      "time": "2026-06-16 17:13:07",
-      "tags": [
-        "其他"
-      ],
-      "text": "惠譽評級：我們對巴基斯坦的財政預測仍較巴政府的預測更為謹慎。"
-    },
-    {
-      "id": "4938277",
-      "time": "2026-06-16 17:13:01",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【中國移動：委任陳揚帆為執行董事兼執行長】中國移動公告稱，公司2026年6月16日董事會會議以7票同意審議透過《關於董事委任的議案》，委任陳揚帆為執行董事兼執行長、可持續發展委員會委員，自當日起生效。陳揚帆服務合約無特定服務年期，將適時輪值告退及重選，享有董事袍金18萬港元/年、委員會委員袍金6萬港元/年，但已自願放棄。其無公司股份權益，與其他董高及股東無關係。"
-    },
-    {
-      "id": "4938276",
-      "time": "2026-06-16 17:12:48",
-      "tags": [
-        "其他"
-      ],
-      "text": "惠譽評級：政策推進態勢改善了短期財政前景，但巴基斯坦仍相對容易受到通脹衝擊。"
-    },
-    {
-      "id": "4938275",
-      "time": "2026-06-16 17:12:43",
-      "tags": [
-        "公司"
-      ],
-      "text": "【哈囉出行在巴楚成立新公司】天眼查 App 顯示，近日，哈行網路科技（巴楚）有限公司成立，法定代表人為周偉，註冊資本 50 萬人民幣，經營範圍包括技術服務、技術開發、技術諮詢、技術交流、技術轉讓、技術推廣，機械裝置租賃，共享腳踏車服務，小微型客車租賃經營服務，廣告發布等。股東資訊顯示，該公司由上海哈囉普惠科技有限公司全資持股。"
-    },
-    {
-      "id": "4938274",
-      "time": "2026-06-16 17:12:38",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國銀行全球研究部將聯合信貸銀行目標股價從92歐元上調至100歐元。"
-    },
-    {
-      "id": "4938273",
-      "time": "2026-06-16 17:12:25",
-      "tags": [
-        "其他"
-      ],
-      "text": "惠譽：由於巴基斯坦短期國內債存量龐大且市場收益率居高不下，其利息成本將在結構層面保持高位執行。"
-    },
-    {
-      "id": "4938272",
-      "time": "2026-06-16 17:12:05",
-      "tags": [
-        "公司",
-        "觀點",
-        "國際"
-      ],
-      "text": "【高盛：上調特斯拉第二季交付量預測至42萬輛，維持“中性”評級】高盛發表研報指，根據最新銷售資料，特斯拉在美國、歐洲、中國、韓國及澳洲等市場均表現強勁，預測該公司今年第二季汽車交付量將勝過市場預期，因此相應將第二季交付量預測從40.5萬輛上調至42萬輛，高於市場普遍預期40萬輛，維持“中性”評級及目標價維持375美元不變。該行亦將2026年全年交付量預測從172萬輛微調至173萬輛，並維持2027及2028年188萬及196萬輛的預測；2026年計及股份獎勵開支在內的每股盈利預測則從1.3美元上調至1.35美元，2027及2028年預測維持不變。"
-    },
-    {
-      "id": "te:economy:559314",
-      "time": "2026-06-16 17:12:00",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Germany",
-        "ZEW Economic Sentiment Index",
-        "Importance 3"
-      ],
-      "text": "German Investor Sentiment Rebounds in June — Germany’s ZEW Indicator of Economic Sentiment rose 20.7 points to 10.5 in June 2026, its first positive reading since the war in the Middle East shook confidence in March, and beat market expectations of -6.0. Investors expect the Iran conflict to end soon, easing pressure on energy prices and inflation. This would support energy-intensive industries and households, boosting domestic demand. Sectoral improvements reflect this optimism: the automotive industry’s balance rose by 21.9 points after months of decline, while chemical/pharmaceutical and mechanical engineering sectors gained 16 and 9.2 points, respectively. Private consumption expectations improved by 11.7 points. However, all these sectors remain in negative territory. The construction sector declined further, with its balance dropping 15.2 points to -12, likely due to the ECB’s June 11 interest rate hike. Meanwhile, the current economic situation assessment worsened slightly to -81, below the expected -78."
-    },
-    {
-      "id": "mkt:019ecfb3-949c-7dd8-b028-fe92e4798fbc",
-      "time": "2026-06-16 17:11:53",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "China EV Leaders"
-      ],
-      "text": "【Jin Sanjiang: silica for battery separators enters mass production】Jin Sanjiang said on June 16 at a roadshow that its silica product for PE battery separators has passed application verification by a global industry leader and entered formal mass production. The product, part of the company’s new business segment, is contributing incremental revenue. With downstream demand releasing and continued market expansion, the company expects it to become one of its future growth drivers."
-    },
-    {
-      "id": "4938271",
-      "time": "2026-06-16 17:11:42",
-      "tags": [
-        "其他"
-      ],
-      "text": "【vivo X Fold6 本月26日釋出】vivo今日官宣全新一代大摺疊旗艦vivo X Fold6將在6月26日釋出，並正式開啟線上全平臺預約。vivo X Fold6以“AI輕辦公神器”為定位，圍繞摺疊大屏和AI生產力，將帶來全新的原子工作臺、AI助理等特色功能，對端側AI互動體驗和AI能力進行持續升級，並搭載行業首個專為摺疊大屏產品深度開發的作業系統OriginOS 6 Fold，全面提升日常生活、輕辦公場景的效率體驗，同時影像能力也持續突破，打造“摺疊小V單”。vivo X Fold6成為今年最值得期待的摺疊屏產品之一。"
-    },
-    {
-      "id": "4938270",
-      "time": "2026-06-16 17:11:06",
-      "tags": [
-        "公司"
-      ],
-      "text": "【金三江：蓄電池隔板用二氧化矽進入量產階段】金三江6月16日在路演活動上表示，蓄電池隔板用二氧化矽產品已透過全球蓄電池PE隔板行業領軍企業的應用驗證，並進入正式量產階段。該產品作為新業務板塊的重要組成部分，為公司貢獻了新的業績增量。隨著下游需求釋放和市場拓展的持續推進，預計將成為公司未來的增長點之一。"
-    },
-    {
-      "id": "mkt:019ecfb2-94ba-7dd8-b028-f7a688d28ddf",
-      "time": "2026-06-16 17:10:47",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "cenc automatically determined that at 17:06 on June 16 an earthquake of about magnitude 6.4 occurred near Haixi Mongol and Tibetan Autonomous Prefecture, Qinghai (37.85N, 95.50E). Final parameters pending cenc formal rapid report."
     }
   ]
 }
