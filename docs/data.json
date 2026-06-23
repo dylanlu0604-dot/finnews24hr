@@ -1,7 +1,98 @@
 {
-  "updated": "2026-06-23 21:50:38",
-  "count": 17307,
+  "updated": "2026-06-23 21:54:57",
+  "count": 17311,
   "items": [
+    {
+      "id": "mkt:019ef4c2-9ee8-7dd8-b0db-4e2c02f0d4cf",
+      "time": "2026-06-23 21:54:15",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Li Auto launches new L8 model】Li Auto (02015.HK) launched the updated L8, offered in Ultra and Livis trims with limited-time introductory prices of 359,800 yuan and 419,800 yuan respectively."
+    },
+    {
+      "id": "mkt:019ef4c2-89bb-7dd8-b0db-4706b7f18c1b",
+      "time": "2026-06-23 21:54:10",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Tesla (TSLA.O) shares fell 3.9%."
+    },
+    {
+      "id": "4950819",
+      "time": "2026-06-23 21:53:23",
+      "tags": [
+        "市場"
+      ],
+      "text": "特斯拉股價下跌3.9%。"
+    },
+    {
+      "id": "mkt:019ef4c1-96a4-7dd8-b0db-3d2f470fc88e",
+      "time": "2026-06-23 21:53:08",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy",
+        "S&P500",
+        "Impact bullish",
+        "DXY",
+        "US10Y",
+        "Impact bearish"
+      ],
+      "text": "【US manufacturing activity beats expectations; factory employment falls to six-year low】S&P Global preliminary June US manufacturing PMI rose to 55.7 from 55.1 in May, the strongest since May 2022 and above a Reuters survey forecast of 54.8. Firms said they were front-loading orders to guard against shortages and price increases, supporting output growth. Factory employment slipped to a six-year low, mainly reflecting higher operating costs linked to the Middle East conflict. S&P Global preliminary services PMI rose to 51.3 from 50.7, lifting the composite PMI output index to 52.2 from 51.5; the services rebound was partly attributed to the US-Canada-Mexico joint World Cup hosting."
+    },
+    {
+      "id": "4950818",
+      "time": "2026-06-23 21:51:34",
+      "tags": [
+        "公司"
+      ],
+      "text": "【雲南茶協呼籲整頓普洱茶直播間】雲南省茶業協會6月22日釋出關於雲南普洱茶直播間亟需嚴加整頓的建議和呼籲的公告。公告指出，雲南普洱茶直播間的經營者，大多由原來從事翡翠珠寶的直播團隊轉行而來，他們時刻遊走在政策的紅線上，沒有長期經營的理念和操守，且涉嫌“壟斷”“假冒偽劣”“虛假宣傳”等眾多侵權行為。雲南翡翠珠寶行業的一蹶不振，就是前車之鑑。協會向相關部門建議：對上述報道中涉及的直播間嚴加整頓，觸犯法律的應從重處罰甚至取締，且其主播及團隊以後不得再從事電商直播行業；按照相關法律法規，對全省普洱茶直播間立即展開調查，將“害群之馬”清理出普洱茶直播行業。"
+    },
+    {
+      "id": "mkt:019ef4bf-b49e-7dd8-b0db-3369aa11534e",
+      "time": "2026-06-23 21:51:04",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Navigational warning: military training in South China Sea】Jiangmen Maritime Safety Administration posted on the China Maritime Safety Administration website that parts of the South China Sea will be closed to navigation for military training from June 24 04:00 to 12:00."
+    },
+    {
+      "id": "4950817",
+      "time": "2026-06-23 21:51:02",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：土耳其總統埃爾多安會見波蘭總統。"
+    },
+    {
+      "id": "4950816",
+      "time": "2026-06-23 21:50:59",
+      "tags": [
+        "其他"
+      ],
+      "text": "【航行警告！南海海域軍事訓練】據中國海事局網站訊息，江門海事局釋出航行警告，6月24日4時至12時，南海部分海域進行軍事訓練，禁止駛入。"
+    },
+    {
+      "id": "mkt:019ef4bf-91c2-7dd8-b0db-2fc16093a905",
+      "time": "2026-06-23 21:50:55",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Market news: Turkish President Erdogan met Poland's president."
+    },
+    {
+      "id": "te:economy:561208",
+      "time": "2026-06-23 21:50:20",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "Manufacturing PMI",
+        "Importance 2"
+      ],
+      "text": "US Manufacturing Growth Strongest Since 2022 — The S&P Global US Manufacturing PMI increased to 55.7 in June 2026 from 55.1 in May, surpassing market forecasts of 54.8 and reaching its highest level since May 2022. This expansion signifies that factory business conditions have improved continuously since last August, with growth steadily accelerating from the recent low point in February. Driving this upward momentum, production growth accelerated at the fastest pace since July 2021, propelled by the largest surge in new orders since April 2022. Additionally, input inventories experienced their biggest increase since May 2025, marking the second steepest rise in the history of the survey. The PMI also benefited from the most significant lengthening of supplier delivery times recorded since August 2022. Conversely, the overall index gains were partially constrained by a substantial decline in employment, which represented the sharpest drop in manufacturing workforce levels since May 2020."
+    },
     {
       "id": "mkt:019ef4be-ce55-7dd8-b0db-23cf3b1c0dba",
       "time": "2026-06-23 21:50:05",
@@ -85,6 +176,15 @@
         "國際"
       ],
       "text": "【一家估值40億美元的印度初創公司贏得Meta投資，卻將創始人“拱手讓給”WhatsApp】印度金融科技初創公司Cred即將完成由扎克伯格旗下Meta Platforms領投的9億美元融資，但代價是將其創始人兼執行長Kunal Shah“拱手讓給”了WhatsApp。近日，該公司表示，在這輪最新融資中，這家即將迎來Meta作為少數股東的初創公司估值已超過40億美元。這筆資金將用於“加速業務增長、強化機構實力，並擴大其在各業務領域的領先地位”。"
+    },
+    {
+      "id": "em:jjsj_mgsj:202606233780017685",
+      "time": "2026-06-23 21:46:20",
+      "tags": [
+        "經濟數據",
+        "美國"
+      ],
+      "text": "【美國6月份製造業採購經理指數初值報55.7 高於預期】美國6月份綜合產出指數初值報52.2，高於5月份的51.5。6月份製造業採購經理指數初值報55.7，分析師預估54.6；6月份服務業經營活動指數初值報51.3，分析師預估51.1。"
     },
     {
       "id": "4950810",
@@ -158478,68 +158578,6 @@
         "Importance 0"
       ],
       "text": "Arabica Coffee Futures at Over 2-Week High — Arabica coffee futures traded slightly above $2.60 per pound, the highest since late May, amid concerns about weather conditions in Brazil's producing regions and the progress of the 2025/26 harvest. Local farmers said that several days of rain hindered harvesting and drying of the beans, especially in areas where operations are more advanced. A cold front remains active across southeastern Brazil’s coffee belt, with rain in parts of São Paulo, Minas Gerais, Rio de Janeiro, and Espírito Santo. Although rainfall is expected to ease in some areas over the week, renewed instability is expected thereafter."
-    },
-    {
-      "id": "4938963",
-      "time": "2026-06-16 21:54:44",
-      "tags": [
-        "市場"
-      ],
-      "text": "芝加哥期權交易所股價下跌 3.9%。"
-    },
-    {
-      "id": "4938962",
-      "time": "2026-06-16 21:54:08",
-      "tags": [
-        "市場"
-      ],
-      "text": "【美股雲端計算服務商延續漲勢】美股雲端計算服務商延續漲勢，CoreWeave大漲近10%，Nebius漲近4%，Hut 8、IREN漲約2%。"
-    },
-    {
-      "id": "4938961",
-      "time": "2026-06-16 21:53:43",
-      "tags": [
-        "觀點"
-      ],
-      "text": "市場訊息：高盛高管魯姆勒將留任高階顧問一職。"
-    },
-    {
-      "id": "te:economy:559375",
-      "time": "2026-06-16 21:52:53",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Hungary",
-        "Government Bond 10Y",
-        "Importance 0"
-      ],
-      "text": "Hungary 10Y Bond Yield Hits 4-year Low — Hungary 10 Year Government Bond Yield decreased to 5.14%, the lowest since February 2022. Over the past 4 weeks, Hungary 10Y Bond Yield lost 51.69 basis points, and in the last 12 months, it decreased 189.69 basis points."
-    },
-    {
-      "id": "4938959",
-      "time": "2026-06-16 21:51:47",
-      "tags": [
-        "其他"
-      ],
-      "text": "【水利部啟動水利抗震救災排程指揮機制】從水利部瞭解到，針對6月16日下午青海省海西州直轄區發生的6.3級地震，水利部啟動水利抗震救災排程指揮機制。根據全國“水利一張圖”，排查震區河流以及水庫、水電站、農村供水工程、水文測站分佈情況，並及時通報青海省水利廳，督促地方水利部門立即摸排水利工程震損情況。經初步排查，暫未收到水利工程震損情況報告。（央視新聞）"
-    },
-    {
-      "id": "mkt:019ed0b3-946c-7dd8-b033-75116e08e41b",
-      "time": "2026-06-16 21:51:30",
-      "tags": [
-        "MKT News",
-        "ROKU.O",
-        "Impact bullish"
-      ],
-      "text": "Semafor reports Netflix (NFLX.O) lost to Fox in the bid to acquire Roku."
-    },
-    {
-      "id": "4938958",
-      "time": "2026-06-16 21:51:04",
-      "tags": [
-        "其他"
-      ],
-      "text": "NETFLIX在收購ROKU的爭奪中不敵FOX。"
     }
   ]
 }
