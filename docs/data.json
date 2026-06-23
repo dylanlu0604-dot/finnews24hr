@@ -1,7 +1,107 @@
 {
-  "updated": "2026-06-23 11:17:13",
-  "count": 17296,
+  "updated": "2026-06-23 11:21:23",
+  "count": 17277,
   "items": [
+    {
+      "id": "mkt:019ef27e-af2c-7dd8-b0cb-52d078eb7791",
+      "time": "2026-06-23 11:20:49",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "SHFE silver contract 2608 tumbled 5.18% intraday to 15,137 yuan/kg; turnover surpassed 129.0 bln yuan. Open interest rose by about 5,300 contracts as intraday volatility widened."
+    },
+    {
+      "id": "mkt:019ef27e-8879-7dd8-b0cb-4f1a8db1d74c",
+      "time": "2026-06-23 11:20:39",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Thai baht fell to 33.095 per dollar, its weakest level since 20 May 2025."
+    },
+    {
+      "id": "mkt:019ef27d-8c98-7dd8-b0cb-4605e72ef167",
+      "time": "2026-06-23 11:19:34",
+      "tags": [
+        "MKT News",
+        "SZSE Component",
+        "Impact bearish",
+        "SSE Composite"
+      ],
+      "text": "A-shares extend losses: Shenzhen Component down more than 2%, ChiNext down 2.5%, Shanghai Composite down 0.5%."
+    },
+    {
+      "id": "4949435",
+      "time": "2026-06-23 11:19:08",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "滬深300指數期貨連續主力合約日內跌2%，現報4884.00點。"
+    },
+    {
+      "id": "te:markets:560959",
+      "time": "2026-06-23 11:19:04",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Zinc Hovers Near 4-Year High — Zinc futures hovered near $3,600 per tonne, close to a four-year high, as market sentiment improved following progress in US–Iran talks. The first round of talks in Switzerland concluded with both sides agreeing on a roadmap toward a final deal, easing concerns over further disruptions to global economic activity and improving expectations for industrial demand. Additional support came from tightening near-term supply conditions after production setbacks at key facilities. Glencore’s Kazzinc facility in Kazakhstan is operating at reduced capacity after an explosion, while Nexa’s Cajamarquilla smelter in Peru was temporarily suspended due to fire damage, though production is gradually resuming. In addition, a seismic event at Boliden’s Garpenberg mine earlier this year has raised concerns about the possibility of prolonged lower output. However, a strong US dollar is weighing on zinc prices, as it makes dollar-priced commodities less attractive for buyers using other currencies."
+    },
+    {
+      "id": "4949434",
+      "time": "2026-06-23 11:19:01",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "深證成指跌2.00%，現報16044.253點；上證指數跌0.48%，現報4143.006點；創業板指跌2.49%，現報4250.848點。"
+    },
+    {
+      "id": "4949433",
+      "time": "2026-06-23 11:18:56",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "液化石油氣連續主力合約日內跌4%，現報4492.00元。"
+    },
+    {
+      "id": "4949432",
+      "time": "2026-06-23 11:18:54",
+      "tags": [
+        "市場"
+      ],
+      "text": "鈀金期貨日內跌2%，現報1244.18美元/盎司。"
+    },
+    {
+      "id": "4949431",
+      "time": "2026-06-23 11:18:25",
+      "tags": [
+        "市場"
+      ],
+      "text": "紐約期銀日內跌4%，現報63.42美元/盎司。"
+    },
+    {
+      "id": "4949430",
+      "time": "2026-06-23 11:17:37",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "白銀連續主力合約日內跌5%，現報15162.00元。"
+    },
+    {
+      "id": "4949429",
+      "time": "2026-06-23 11:17:31",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨白銀失守63美元/盎司，日內跌3.17%。"
+    },
     {
       "id": "mkt:019ef279-8a8b-7dd8-b0cb-3ccbbd1cdcb5",
       "time": "2026-06-23 11:15:11",
@@ -158448,313 +158548,6 @@
         "DXY"
       ],
       "text": "Bank of Japan said it expects the accommodative financial environment to persist after a policy rate adjustment and to continue strongly supporting economic activity."
-    },
-    {
-      "id": "4937634",
-      "time": "2026-06-16 11:21:16",
-      "tags": [
-        "市場",
-        "央行",
-        "國際"
-      ],
-      "text": "日本央行：計劃在7-9月期間每月兩次買入面值合計3350億日元的5-10年期日本國債，此前計劃為每月三次買入合計2400億日元。"
-    },
-    {
-      "id": "mkt:019ece72-8979-7dd8-b01d-698436ac6213",
-      "time": "2026-06-16 11:21:13",
-      "tags": [
-        "MKT News",
-        "USDJPY",
-        "Impact mixed",
-        "XAUUSD",
-        "Impact bullish",
-        "DXY"
-      ],
-      "text": "Bank of Japan policy board member Asada said the Middle East situation poses greater downside risks to output and employment than upside risks to prices, and the central bank should maintain its current policy guidance."
-    },
-    {
-      "id": "4937633",
-      "time": "2026-06-16 11:21:08",
-      "tags": [
-        "市場",
-        "央行",
-        "國際"
-      ],
-      "text": "日本央行：計劃在7月至9月期間，每月分兩次購買3200億日元3-5年期日本國債，此前為每月三次，規模2300億日元。"
-    },
-    {
-      "id": "4937632",
-      "time": "2026-06-16 11:21:02",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "日本央行：日本經濟已實現溫和復甦，不過部分領域仍顯現出疲軟態勢。"
-    },
-    {
-      "id": "4937631",
-      "time": "2026-06-16 11:20:53",
-      "tags": [
-        "市場",
-        "央行",
-        "國際"
-      ],
-      "text": "日本央行：縮減國債購買規模的決議以7票贊成、1票反對獲得透過。"
-    },
-    {
-      "id": "mkt:019ece72-3bc0-7dd8-b01d-643d7d03262e",
-      "time": "2026-06-16 11:20:53",
-      "tags": [
-        "MKT News",
-        "USDJPY",
-        "Impact bearish",
-        "DXY",
-        "Nikkei 225"
-      ],
-      "text": "Bank of Japan says it will keep the current plan to trim JGB purchases by ¥200 billion per month through the Jan–Mar 2027 quarter."
-    },
-    {
-      "id": "4937630",
-      "time": "2026-06-16 11:20:46",
-      "tags": [
-        "市場",
-        "央行",
-        "國際"
-      ],
-      "text": "日本央行表示，計劃在7-9月期間每月分兩次買入面值為3550億日元的1-3年期日本國債，此前該操作是每月三次，買入規模為2550億日元。"
-    },
-    {
-      "id": "4937629",
-      "time": "2026-06-16 11:20:42",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "日本央行：政策利率調整後，預計仍將維持寬鬆金融環境，繼續為經濟活動提供有力支撐。"
-    },
-    {
-      "id": "mkt:019ece71-ff72-7dd8-b01d-5ab2ec98674e",
-      "time": "2026-06-16 11:20:37",
-      "tags": [
-        "MKT News",
-        "USDJPY"
-      ],
-      "text": "Bank of Japan says it will, when considering the timing and pace of policy adjustments, assess the likelihood of achieving its baseline scenario and the associated risks."
-    },
-    {
-      "id": "mkt:019ece71-ecd7-7dd8-b01d-5228ae7a33d8",
-      "time": "2026-06-16 11:20:33",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC",
-        "USDJPY"
-      ],
-      "text": "Bank of Japan says new money-market operations guidelines will take effect on June 17."
-    },
-    {
-      "id": "4937628",
-      "time": "2026-06-16 11:20:30",
-      "tags": [
-        "市場",
-        "央行",
-        "國際"
-      ],
-      "text": "日本央行：自2027年4月起暫停縮減債券購買規模，將每月日本國債購買規模維持在約2萬億日元。"
-    },
-    {
-      "id": "4937627",
-      "time": "2026-06-16 11:20:25",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "日本央行：貨幣市場操作新指引將於6月17日起生效。"
-    },
-    {
-      "id": "mkt:019ece71-cc27-7dd8-b01d-4e2639d009c4",
-      "time": "2026-06-16 11:20:24",
-      "tags": [
-        "MKT News",
-        "Important",
-        "USDJPY",
-        "Impact bullish",
-        "DXY",
-        "S&P500"
-      ],
-      "text": "Bank of Japan will suspend tapering of bond purchases from April 2027 and keep monthly JGB purchases at about ¥2 trillion."
-    },
-    {
-      "id": "mkt:019ece71-b759-7dd8-b01d-477798c07f6d",
-      "time": "2026-06-16 11:20:19",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Japan & APAC",
-        "USDJPY",
-        "Impact bullish"
-      ],
-      "text": "After the Bank of Japan rate decision, USD/JPY jumped just over 10 pips to 160.22."
-    },
-    {
-      "id": "4937626",
-      "time": "2026-06-16 11:20:05",
-      "tags": [
-        "市場",
-        "央行",
-        "國際"
-      ],
-      "text": "日本央行：截至2027年1-3月，每季度縮減1萬億日元日本國債月度購買量的當前計劃保持不變。"
-    },
-    {
-      "id": "mkt:019ece71-7c5c-7dd8-b01d-3f2dbc4bda1d",
-      "time": "2026-06-16 11:20:04",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Macro & Rates",
-        "USDJPY",
-        "Impact bearish",
-        "DXY"
-      ],
-      "text": "Bank of Japan said it will continue to raise its policy rate based on developments in economic activity, price trends and financial conditions."
-    },
-    {
-      "id": "em:qqyh_mlc:202606163772793514",
-      "time": "2026-06-16 11:20:02",
-      "tags": [
-        "央行",
-        "美聯儲"
-      ],
-      "text": "【利率並非關鍵？華爾街傳奇：AI熱潮最大政策“死穴”是縮表！】近年來，AI狂潮已將半導體和巨型科技股推向了市場的風口浪尖。而在貨幣政策領域，華爾街傳奇交易員VictorSperandeo本週表示，投資者可能關注了錯誤的美聯儲政策槓桿。"
-    },
-    {
-      "id": "4937625",
-      "time": "2026-06-16 11:20:01",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "日本央行：在考慮政策調整的時機與節奏時，將審視基準情景實現的可能性及相關風險。"
-    },
-    {
-      "id": "em:qqyh_rbyh:202606163772794623",
-      "time": "2026-06-16 11:19:58",
-      "tags": [
-        "央行",
-        "日本央行"
-      ],
-      "text": "【日本央行宣佈加息25個基點 目標利率上調至1.00%】日本央行宣佈加息25個基點，將目標利率由0.75%上調至1.00%。日本央行表示，從2027年4月起暫停縮減購債，將日本國債每月購買規模維持在約2萬億日元。"
-    },
-    {
-      "id": "mkt:019ece71-62aa-7dd8-b01d-37861116e54e",
-      "time": "2026-06-16 11:19:57",
-      "tags": [
-        "MKT News",
-        "Important",
-        "USDJPY",
-        "Impact bearish",
-        "DXY"
-      ],
-      "text": "Bank of Japan policy board member Asada dissented on the interest-rate decision."
-    },
-    {
-      "id": "mkt:019ece71-14ea-7dd8-b01d-2d5f08367560",
-      "time": "2026-06-16 11:19:37",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "Bank of Japan made its interest-rate decision by a 7-1 vote."
-    },
-    {
-      "id": "4937624",
-      "time": "2026-06-16 11:19:33",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "日本央行：將根據經濟和物價情況持續加息。"
-    },
-    {
-      "id": "4937623",
-      "time": "2026-06-16 11:19:27",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "日本央行：理事會成員ASADA投票反對利率決議。"
-    },
-    {
-      "id": "mkt:019ece70-d174-7dd8-b01d-25abb5261c25",
-      "time": "2026-06-16 11:19:20",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Japan & APAC",
-        "USDJPY",
-        "Impact bearish",
-        "DXY"
-      ],
-      "text": "【Bank of Japan raises policy rate 25bp as expected】The Bank of Japan raised its policy rate by 25bp to 1.00% from 0.75%, the highest level in 31 years, in line with market expectations; it had held rates steady at the previous three meetings."
-    },
-    {
-      "id": "mkt:019ece70-b6e0-7dd8-b01d-19f5d79c4a0e",
-      "time": "2026-06-16 11:19:13",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Macro & Rates",
-        "USDJPY",
-        "Impact bearish",
-        "DXY"
-      ],
-      "text": "Japan central bank target rate rose to 1.00% on June 16, matching market expectations of 1.00%; previous 0.75%, up 25 bps."
-    },
-    {
-      "id": "4937622",
-      "time": "2026-06-16 11:19:12",
-      "tags": [
-        "央行",
-        "焦點",
-        "國際"
-      ],
-      "text": "日本央行將隔夜拆借利率上調至1.00%。"
-    },
-    {
-      "id": "4937621",
-      "time": "2026-06-16 11:18:58",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國中央情報局局長約翰·拉特克利夫警告特朗普，美國情報顯示伊朗可能不願意在最終協議中做出所需的核讓步。美國國務卿魯比奧和國防部長赫格塞思也表達了疑慮，而副總統萬斯以及特使威特科夫和賈裡德·庫什納則支援這項協議。（AXIOS）"
-    },
-    {
-      "id": "4937620",
-      "time": "2026-06-16 11:18:12",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "瀝青連續主力合約日內跌5%，現報4072.00元。"
-    },
-    {
-      "id": "4937619",
-      "time": "2026-06-16 11:17:42",
-      "tags": [
-        "其他"
-      ],
-      "text": "【國家統計局：強化逆週期和跨週期調節，持續擴大國內需求】國家統計局新聞發言人付凌暉表示，今年以來，一季度增長增勢較好，一季度GDP增長5%。二季度以來，受到國際環境複雜變化、國內結構調整壓力等影響，部分經濟指標出現了增速回落，一些企業經營面臨困難，但從整個發展大勢看，我國經濟執行總體平穩、穩中有進的態勢沒有改變，動能向新、結構向優的特徵依然明顯。從下階段情況看，儘管還面臨一些困難和挑戰，但是經濟長期向好的基本面沒有變，新質生產力發展培育壯大，改革開放的紅利持續釋放，宏觀政策發力顯效，將會繼續支撐經濟平穩執行、向新向優。總的看，我國經濟基礎穩、優勢多、韌性強、潛能大，推動經濟平穩向好發展具有較好條件。下階段，要用足用好各項宏觀政策，強化逆週期和跨週期調節，持續擴大國內需求，加快培育壯大發展新動能，紮實推進高質量發展，更好地保障和改善民生。"
-    },
-    {
-      "id": "4937618",
-      "time": "2026-06-16 11:17:30",
-      "tags": [
-        "市場"
-      ],
-      "text": "截止11:17，兩市100只個股漲停。"
     }
   ]
 }
