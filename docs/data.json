@@ -1,7 +1,88 @@
 {
-  "updated": "2026-06-24 01:41:24",
-  "count": 17276,
+  "updated": "2026-06-24 01:45:19",
+  "count": 17280,
   "items": [
+    {
+      "id": "mkt:019ef595-65d2-7dd8-b0e1-28e159d1fde6",
+      "time": "2026-06-24 01:44:29",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Paris's Louvre to close early for four days amid heat wave】On June 23 (local time) Paris's Louvre Museum said it will shorten daily hours from June 24–27, closing at 16:00 instead of 18:00, citing sustained high temperatures. The museum said heat is accumulating inside the historic building and, despite some heat resistance, it cannot fully cope with current conditions; combined with high visitor numbers, overheating is most pronounced in the afternoon."
+    },
+    {
+      "id": "4951042",
+      "time": "2026-06-24 01:44:16",
+      "tags": [
+        "其他"
+      ],
+      "text": "【受高溫天氣影響，巴黎盧浮宮將連續4天提前閉館】當地時間6月23日，法國巴黎盧浮宮博物館宣佈，受持續高溫天氣影響，自6月24日至27日，該館每日閉館時間由原定的18時提前至16時。盧浮宮方面表示，近期巴黎遭遇強烈高溫，這座歷史建築雖然具備一定耐熱能力，但整體上並不能充分適應當前氣候變化。隨著熱量在建築內持續積聚，加之遊客數量較多，館內高溫問題在下午時段尤為明顯。此前，巴黎埃菲爾鐵塔也已宣佈因高溫天氣調整開放時間。法國目前正遭受今年以來第二輪大範圍熱浪影響，多地持續釋出高溫預警。（央視新聞）"
+    },
+    {
+      "id": "mkt:019ef595-129c-7dd8-b0e1-26467c1085c2",
+      "time": "2026-06-24 01:44:07",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Refinitiv/Ipsos poll: only 23% of Americans say U.S.-Iran ties are stronger post-war, while 35% say ties are weaker."
+    },
+    {
+      "id": "mkt:019ef594-e9d0-7dd8-b0e1-1f560e26779f",
+      "time": "2026-06-24 01:43:57",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Refinitiv/Ipsos poll: 52% of Americans say the Iran issue is not worth paying a price; 24% say it is."
+    },
+    {
+      "id": "4951041",
+      "time": "2026-06-24 01:43:54",
+      "tags": [
+        "國際"
+      ],
+      "text": "路透社與益普索聯合民調顯示，僅 23% 的美國人認為戰爭過後美國對伊朗佔據更有利地位，35% 受訪者則認為美國處境更為被動。特朗普支援率跌至 34%，平其二任期以來最低水平。 52% 的美國人認為對伊朗開戰得不償失，僅有 24% 持相反觀點。"
+    },
+    {
+      "id": "mkt:019ef594-b26f-7dd8-b0e1-150ada43f4c2",
+      "time": "2026-06-24 01:43:43",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Refinitiv/Ipsos poll shows US President Trump’s approval rating fell to 34%, matching his second-term low."
+    },
+    {
+      "id": "mkt:019ef593-ff7c-7dd8-b0e1-09249741ff1d",
+      "time": "2026-06-24 01:42:57",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "【Trump says IAEA inspectors will enter Iran at an appropriate time】On June 23, US President Trump said Iran's claims about IAEA verification are incorrect and that IAEA inspectors will enter Iran at an appropriate time. Earlier the same day Iranian foreign ministry spokesman BAGHAEI said there are currently no plans for IAEA inspectors to visit Iran's damaged nuclear facilities."
+    },
+    {
+      "id": "4951040",
+      "time": "2026-06-24 01:42:47",
+      "tags": [
+        "國際"
+      ],
+      "text": "【特朗普稱國際原子能機構核查人員將適時訪問伊朗】當地時間6月23日，美國總統特朗普表示，伊朗在國際原子能機構核查問題上的說法是錯誤的。他同時表示，核查人員將在適當時候進入當地開展工作。伊朗外交部發言人巴加埃23日早些時候表示，暫無國際原子能機構核查人員訪問伊朗受損核設施的計劃。（央視新聞）"
+    },
+    {
+      "id": "mkt:019ef592-e80b-7dd8-b0e1-05156cbcc08a",
+      "time": "2026-06-24 01:41:45",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Andy Burnham, a frontrunner to be the next Labour leader, is preparing to replace Chancellor of the Exchequer Rachel Reeves but would offer her another cabinet post."
+    },
+    {
+      "id": "4951039",
+      "time": "2026-06-24 01:40:57",
+      "tags": [
+        "其他"
+      ],
+      "text": "沃爾瑪據悉將以14億美元收購VIBE.CO。"
+    },
     {
       "id": "mkt:019ef58e-0a09-7dd8-b0e0-ff08f48c2885",
       "time": "2026-06-24 01:36:27",
@@ -158257,64 +158338,6 @@
         "MKT News"
       ],
       "text": "Iran's central bank governor said Iran hopes any agreement with the United States will include firm guarantees for the release of frozen funds."
-    },
-    {
-      "id": "4939244",
-      "time": "2026-06-17 01:43:51",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "伊朗央行行長：伊朗要求美伊協議中就資金支取事宜作出完整保障承諾。"
-    },
-    {
-      "id": "4939243",
-      "time": "2026-06-17 01:43:17",
-      "tags": [
-        "市場"
-      ],
-      "text": "標普500指數與納斯達克100指數跌幅擴大，跌至日內低點。"
-    },
-    {
-      "id": "4939242",
-      "time": "2026-06-17 01:42:55",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗議會國家安全委員會主席表示，任何侵犯都將遭到“決定性、毀滅性的回擊”。"
-    },
-    {
-      "id": "mkt:019ed187-644d-7dd8-b038-4c3782f5c434",
-      "time": "2026-06-17 01:42:51",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "Head of Iran's parliamentary National Security Committee said any violations will be met with a decisive, devastating response."
-    },
-    {
-      "id": "mkt:019ed187-4319-7dd8-b038-42448635ec44",
-      "time": "2026-06-17 01:42:43",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "Head of Iran's parliamentary National Security Committee said Washington must prove its commitment by ending the war against Lebanon and complying with every provision of the memorandum of understanding."
-    },
-    {
-      "id": "4939241",
-      "time": "2026-06-17 01:42:27",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "伊朗議會國家安全委員會主席表示，華盛頓必須透過結束對黎巴嫩的戰爭、遵守該諒解備忘錄的每一項條款來證明其承諾。"
     }
   ]
 }
