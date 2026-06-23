@@ -1,7 +1,138 @@
 {
-  "updated": "2026-06-23 10:07:23",
-  "count": 17268,
+  "updated": "2026-06-23 10:11:32",
+  "count": 17270,
   "items": [
+    {
+      "id": "te:markets:560942",
+      "time": "2026-06-23 10:10:50",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Japan",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "Yen Pressured Despite Intervention Warnings — The Japanese yen traded around 161.5 per dollar on Tuesday, hovering near its weakest levels since 1986 as repeated verbal intervention efforts from Tokyo failed to stem the currency’s decline. Finance Minister Satsuki Katayama said she spoke by phone with US Treasury Secretary Scott Bessent, reaffirming an agreement to coordinate action in currency markets if needed. Investors remain on high alert for another round of official intervention after the yen erased all the gains recorded on April 30, when Tokyo conducted a record-sized currency-buying operation. The yen has remained under pressure despite the Bank of Japan’s recent interest rate hike, which markets view as insufficient to significantly reduce the country's interest-rate differential with other major economies. Additional weakness came from a stronger dollar, supported by hawkish signals from the Federal Reserve."
+    },
+    {
+      "id": "mkt:019ef23e-8a43-7dd8-b0c9-fbba986289ee",
+      "time": "2026-06-23 10:10:45",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals"
+      ],
+      "text": "SHFE silver 2608 contract weakened sharply, losses widening to 3.71% as price slid to 15,372 yuan/kg. Turnover topped 110 bln yuan; open interest rose by over 3,600 contracts intraday, boosting market volatility."
+    },
+    {
+      "id": "4949317",
+      "time": "2026-06-23 10:10:34",
+      "tags": [
+        "其他"
+      ],
+      "text": "【最高檢：2025年核准追訴12到14週歲嚴重暴力犯罪24人】今年是我國未成年人檢察工作建立‌40週年，最高人民檢察院今天（23日）釋出未成年人檢察工作40年發展報告‌。報告顯示，我國未成年人檢察工作機制更加健全，制度體系更加完善，依法懲治和幫教涉罪未成年人更加精準。對於主觀惡性大、犯罪性質惡劣、手段殘忍、後果嚴重的涉罪未成年人，堅決依法懲治。2018年以來，檢察機關共起訴34.9萬人。2025年，最高檢依法核准追訴已滿12週歲不滿14週歲未成年人嚴重暴力犯罪24人。對於犯罪情節較輕、社會危害性較小的未成年人犯罪，依法從寬，附條件不起訴14.4萬人，95%以上的未成年人沒有再犯。近五年來，7100餘名涉罪未成年人經檢察機關幫教考上大學。"
+    },
+    {
+      "id": "4949316",
+      "time": "2026-06-23 10:10:08",
+      "tags": [
+        "國際"
+      ],
+      "text": "【金正恩：美韓行為嚴重惡化朝鮮半島局勢】據朝中社23日報道，朝鮮勞動黨第九屆中央委員會第二次擴大全會6月20日至22日舉行。朝鮮勞動黨總書記金正恩在會上指出，今年以來美韓種種行為嚴重惡化朝鮮半島局勢，朝鮮將進一步加強國防力量建設。 金正恩說，今年以來，美國和韓國日益推進域內增兵等活動，甚至推進韓國核潛艇計劃，以及再次召開“核磋商小組會議”，種種行為嚴重惡化朝鮮半島局勢。 金正恩強調，要加快推動1萬噸級戰略導彈巡洋艦建造專案，並致力於研發和生產對提升朝軍戰鬥力具有重要意義的常規武器。他還指出，要保質完成正在進行的南部邊境要塞化工程，新建海軍艦隊基地，以加強國防力量。 金正恩重申朝鮮對外政策立場。他指出，某些“特定國家”凌駕於國際法之上，橫行霸道，導致國際局勢極不穩定。當今複雜的國際局勢與地緣政治現實既無法迴避，也不應迴避。他說，國家的主權和安全要依靠強大實力才能得到保證，要從切實維護國家利益、實現富國強兵的角度出發，主動且積極有為地開展對外工作。(新華社)"
+    },
+    {
+      "id": "mkt:019ef23d-4dbc-7dd8-b0c9-f021da3082a2",
+      "time": "2026-06-23 10:09:24",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "KIHARA declined to comment on the exchange rate."
+    },
+    {
+      "id": "mkt:019ef23c-f46f-7dd8-b0c9-ef6bc9e50e3d",
+      "time": "2026-06-23 10:09:01",
+      "tags": [
+        "MKT News",
+        "Important",
+        "USDJPY",
+        "Impact bearish"
+      ],
+      "text": "Japan's Chief Cabinet Secretary Kihara said the government will, if necessary, take appropriate measures to address FX volatility."
+    },
+    {
+      "id": "4949315",
+      "time": "2026-06-23 10:08:51",
+      "tags": [
+        "其他"
+      ],
+      "text": "日本內閣官房長官木原稔：不對匯率問題置評。"
+    },
+    {
+      "id": "te:markets:560941",
+      "time": "2026-06-23 10:08:40",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Hong Kong",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Hong Kong Stocks Edge Lower — The Hang Seng Index fell 0.3% to 23,766 on Tuesday, extending losses from the previous session as concerns over global interest rates outweighed support from easing geopolitical tensions. Sentiment was underpinned by signs of progress in US-Iran peace talks, which helped keep oil prices near recent lows and supported risk appetite across Asian markets. However, investors remained cautious after the Federal Reserve signaled that borrowing costs could stay elevated for longer amid lingering inflation pressures. Regional sentiment was mixed, with equities struggling for direction after Wall Street ended mostly lower despite a sharp drop in crude prices. Investors also monitored developments in Hong Kong's IPO market and the upcoming release of locked-up shares, which could add to market volatility in the coming weeks. Among notable losers, Tencent (-1.7%), Knowledge Atlas (-5.0%), and Xiaomi (-2.7%) declined. Meanwhile, SMIC (+3.2%), Dongyue Group (+3.2%), and Lenovo (+0.3%) advanced."
+    },
+    {
+      "id": "4949314",
+      "time": "2026-06-23 10:08:37",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本內閣官房長官：必要時將針對匯率走勢採取適當措施。"
+    },
+    {
+      "id": "4949313",
+      "time": "2026-06-23 10:08:27",
+      "tags": [
+        "其他"
+      ],
+      "text": "【加拿大發布核能戰略 擬大幅提升生產與出口能力】加拿大能源與自然資源部22日釋出核能戰略，旨在擴大其本土核電建設並推動相關技術與資源出口，全面提升該國在國際核能領域的地位。根據該戰略，加拿大計劃在其境內新建多達10座大型核反應堆。其中2座將於2035年前開工，另有5座計劃在2040年前進入規劃或開發階段。此外，該國還將推進小型模組化反應堆的執行建設，以及微型反應堆的示範執行和在偏遠社群的部署。在國際合作與技術出口方面，該戰略提出，到2040年加拿大重水鈾反應堆技術將開拓至少4個新的國際市場，並在未來15年內與6至10個新興核能市場建立合作。在核燃料出口與投資方面，加拿大計劃於2027年前對鈾礦開採投資政策進行審查和更新，以吸引外國資本，力爭到2035年實現鈾出口量較2024年翻一番。"
+    },
+    {
+      "id": "mkt:019ef23b-f17e-7dd8-b0c9-e5dacb01671b",
+      "time": "2026-06-23 10:07:55",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "005930.KS",
+        "Impact bearish",
+        "000660.KS"
+      ],
+      "text": "Samsung Electronics shares fell 5%; SK Hynix shares fell 5.5%."
+    },
+    {
+      "id": "4949312",
+      "time": "2026-06-23 10:07:16",
+      "tags": [
+        "公司"
+      ],
+      "text": "三星電子跌5%。"
+    },
+    {
+      "id": "4949311",
+      "time": "2026-06-23 10:07:14",
+      "tags": [
+        "市場"
+      ],
+      "text": "現貨白銀日內跌2%，現報63.68美元/盎司。"
+    },
+    {
+      "id": "4949310",
+      "time": "2026-06-23 10:06:51",
+      "tags": [
+        "市場"
+      ],
+      "text": "韓股下跌4.5%。"
+    },
     {
       "id": "4949309",
       "time": "2026-06-23 10:06:39",
@@ -158372,126 +158503,6 @@
         "Impact bearish"
       ],
       "text": "【Bosera Fund's Tang Yibing: STAR Market earnings entering acceleration】Bosera Fund manager Tang Yibing said the STAR Market is positioned as \"hard tech\", targeting high‑tech and strategic emerging companies that deliver national development objectives and breakthroughs in core technologies. He said A‑share Q1 corporate earnings overall beat expectations and, structurally, growth sectors led by the STAR Market are entering an acceleration phase. With China accelerating construction of a new power system, Tang said competition in the energy‑storage industry is likely to shift from single‑device contests to integrated capabilities—hardware, software and operations—and that digitalization in B2B energy‑storage applications offers broad commercial prospects."
-    },
-    {
-      "id": "mkt:019ece32-a315-7dd8-b01b-8c0cf67ad95d",
-      "time": "2026-06-16 10:11:25",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Greater China",
-        "300059.SZ",
-        "Impact bullish",
-        "000300.SS",
-        "000001.SS"
-      ],
-      "text": "China A-share securities sector jumped; Jinlong Co. hit the daily limit, Bank of China Securities rose over 5%, with Guosheng Securities, East Money and GF Securities also advancing."
-    },
-    {
-      "id": "4937518",
-      "time": "2026-06-16 10:11:18",
-      "tags": [
-        "其他"
-      ],
-      "text": "【火山引擎釋出Seedance 2.0 mini API將於近期上線】據悉，火山引擎旗下火山方舟體驗中心上線 Seedance 2.0 mini 影片生成模型，並將於近期上線 API 服務。價格梯度為，Seedance 2.0 mini 圖生影片定價為 0.023 元/千 tokens，影片生影片定價為 0.014 元/千 tokens。按 720P 規格折算，Seedance 2.0 mini 單秒生成成本約為 0.5 元，相較 Seedance 2.0 的生成成本降低約 50%。目前Seedance 2.0 mini適用於電商內容生產、營銷素材批次生成、UGC 內容創作、特效玩法生成等高頻、規模化影片生成場景。 (科創板日報)"
-    },
-    {
-      "id": "4937517",
-      "time": "2026-06-16 10:10:31",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "券商股異動拉昇，錦龍股份觸及漲停，中銀證券漲超5%，國盛證券、東方財富、廣發證券跟漲。"
-    },
-    {
-      "id": "4937516",
-      "time": "2026-06-16 10:10:04",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "北證50日內漲幅達1.01%，成分股中，戈碧迦漲6.29%，民士達漲4.70%，富士達漲3.25%，則成電子漲2.80%。"
-    },
-    {
-      "id": "4937515",
-      "time": "2026-06-16 10:09:18",
-      "tags": [
-        "市場"
-      ],
-      "text": "港股文遠知行-W(00800.HK)盤中一度漲超20%，現收窄至15.5%；訊息面上，日前文遠知行正在嘗試分拆其Robovan（自動駕駛貨運車）業務進行獨立融資，該業務估值已達4億美元。"
-    },
-    {
-      "id": "mkt:019ece30-b479-7dd8-b01b-81c78a8f4855",
-      "time": "2026-06-16 10:09:18",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "00800.HK",
-        "Impact bullish"
-      ],
-      "text": "CHINA'S WERIDE-W (00800.HK) rose more than 20% intraday, now up 15.5%, after reports it is seeking to spin off its Robovan autonomous freight-vehicle unit for separate financing; the unit is valued at about $400m."
-    },
-    {
-      "id": "4937514",
-      "time": "2026-06-16 10:09:13",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "南向資金淨買入額達20億港元。"
-    },
-    {
-      "id": "te:markets:559182",
-      "time": "2026-06-16 10:09:11",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Hong Kong",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "Hong Kong Stocks Retreat From Two-Day Rally — The Hang Seng Index fell 250 points, or 1.0%, to 24,590 on Tuesday, snapping a two-session rally as investors locked in recent gains following the market's strong advance at the start of the week. Sentiment was also subdued ahead of key Chinese economic data releases, including industrial production, retail sales, house prices and the unemployment figures, which could offer fresh insights into the strength of the country's economic recovery. Meanwhile, weakness in finance and technology stocks added pressure to the benchmark, with both sectors pulling back after leading gains in the previous session. Knowledge Atlas fell to 2.9% as investors took profits following its nearly 33% surge in the previous session. Among notable laggards included Tencent Holdings (-1.4%), Semiconductor Manufacturing International Corporation (-0.4%), AIA (-1.0%), MMG (-10.3%), and China Hongqiao Group (-4.0%)."
-    },
-    {
-      "id": "mkt:019ece30-2ab7-7dd8-b01b-7c09aa2d7f26",
-      "time": "2026-06-16 10:08:43",
-      "tags": [
-        "MKT News",
-        "CNH",
-        "Impact bullish",
-        "Copper",
-        "WTI"
-      ],
-      "text": "【NBS: Goods trade growth quickened; trade structure continued to improve】China's National Bureau of Statistics said May goods trade totaled 4.452 trillion yuan, up 16.9% YoY and accelerating 2.7 percentage points from April; exports were 2.588 trillion yuan (+13.8% YoY) and imports 1.864 trillion yuan (+21.5% YoY). Jan–May goods trade totaled 20.683 trillion yuan, up 15.3% YoY; exports 11.914 trillion yuan (+11.8%) and imports 8.769 trillion yuan (+20.5%). Jan–May general trade rose 8.3% YoY; trade with Belt and Road countries +13.6%; private-sector trade +15.5%; electromechanical exports +18.4%."
-    },
-    {
-      "id": "4937513",
-      "time": "2026-06-16 10:08:39",
-      "tags": [
-        "其他"
-      ],
-      "text": "【國家統計局：貨物進出口較快增長，貿易結構繼續最佳化】5月份，貨物進出口總額44516億元，同比增長16.9%，比上月加快2.7個百分點。其中，出口25878億元，增長13.8%；進口18638億元，增長21.5%。1—5月份，貨物進出口總額206827億元，同比增長15.3%。其中，出口119137億元，增長11.8%；進口87691億元，增長20.5%。1—5月份，一般貿易進出口同比增長8.3%。對共建“一帶一路”國家進出口增長13.6%。民營企業進出口增長15.5%。機電產品出口增長18.4%。"
-    },
-    {
-      "id": "mkt:019ece2f-ce59-7dd8-b01b-749abc9e3dc7",
-      "time": "2026-06-16 10:08:19",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "【China ports to average 2.2 mln daily entry/exit during Dragon Boat holiday — National Immigration Administration】China's National Immigration Administration forecasts national ports will average 2.2 million entry/exit travellers per day over the Dragon Boat Festival holiday, up 11.7% YoY, with a single-day peak exceeding 2.35 million. Large international airports see modest rises: Shanghai Pudong 104k, Beijing Capital 52k, Guangzhou Baiyun 52k, Shenzhen Bao'an 21k, Beijing Daxing 19k, Chengdu Tianfu 17k (daily entry/exit)."
-    },
-    {
-      "id": "4937512",
-      "time": "2026-06-16 10:08:00",
-      "tags": [
-        "其他"
-      ],
-      "text": "【貴州省黔東南州原州委常委、副州長姜學東被開除黨籍】經查，姜學東喪失理想信念，背離初心使命，搞團團夥夥，對抗組織審查；罔顧中央八項規定精神，接受可能影響公正執行公務的旅遊活動安排，退休後違規收受財物，退休前後違規接受他人宴請；廉潔底線失守，收受可能影響公正執行公務的禮品；將公權力當作攫取私利的工具，利用職務便利，為他人在專案承接、撥付工程款等方面提供幫助，並非法收受鉅額財物；退而不休，利用原職權或者地位形成的便利條件，為他人在專案承接、企業經營等方面提供幫助，並非法收受鉅額財物。"
     }
   ]
 }
