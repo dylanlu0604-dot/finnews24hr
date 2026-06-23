@@ -1,7 +1,78 @@
 {
-  "updated": "2026-06-24 01:20:51",
-  "count": 17272,
+  "updated": "2026-06-24 01:25:01",
+  "count": 17270,
   "items": [
+    {
+      "id": "mkt:019ef582-6df0-7dd8-b0e0-d75ef4a2078b",
+      "time": "2026-06-24 01:23:46",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "SpaceX plans to raise $25 billion through issuance of senior high-grade bonds."
+    },
+    {
+      "id": "mkt:019ef582-0a7e-7dd8-b0e0-c8db122240e1",
+      "time": "2026-06-24 01:23:20",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "Iran said it had not arranged visits by IAEA inspectors; U.S. President Trump responded: \"If that's true, I'll cancel all meetings now.\""
+    },
+    {
+      "id": "4951033",
+      "time": "2026-06-24 01:23:10",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：如果伊朗想找麻煩，那就去尋求核武器。在軍事力量和能力遭受重創之後，伊朗已不具備有利的談判地位。伊朗的軍事基礎設施已徹底摧毀，通脹率已達300%。"
+    },
+    {
+      "id": "4951032",
+      "time": "2026-06-24 01:22:47",
+      "tags": [
+        "公司",
+        "焦點",
+        "國際"
+      ],
+      "text": "SpaceX 擬透過首次美國高等級債券發行募資 250 億美元。"
+    },
+    {
+      "id": "mkt:019ef580-e37f-7dd8-b0e0-c472adae4f48",
+      "time": "2026-06-24 01:22:05",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "President Trump said Iran faces hunger, shortages of food and medicine, and high inflation."
+    },
+    {
+      "id": "mkt:019ef57f-ddf3-7dd8-b0e0-bee580c87faa",
+      "time": "2026-06-24 01:20:58",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "TRUMP said Iran's military infrastructure has been completely destroyed and the inf rate has reached 300%."
+    },
+    {
+      "id": "mkt:019ef57f-8dcf-7dd8-b0e0-b1352daef3c7",
+      "time": "2026-06-24 01:20:37",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bearish",
+        "WTI",
+        "DXY"
+      ],
+      "text": "Trump said Iran no longer holds a favorable negotiating position after its military forces and capabilities were severely degraded."
+    },
     {
       "id": "mkt:019ef57e-f76a-7dd8-b0e0-ac29fea0b151",
       "time": "2026-06-24 01:19:59",
@@ -158184,80 +158255,6 @@
         "國際"
       ],
       "text": "美國和歐洲就人工智慧模型准入問題進行商談，此前Anthropic引發爭議。"
-    },
-    {
-      "id": "4939238",
-      "time": "2026-06-17 01:24:48",
-      "tags": [
-        "國際"
-      ],
-      "text": "【美媒：美伊協議簽署後 伊朗即可出口石油】據美國《華爾街日報》16日報道，在美國與伊朗本週簽署諒解備忘錄後，伊朗即可對外銷售其石油和燃料。報道援引匿名知情人士的話說，針對銀行、運輸和保險等伊朗石油出口相關行業的制裁也將同時獲得豁免。據報道，一艘載有原油的伊朗超級油輪當天離開伊朗恰巴哈爾港，穿過美國先前實施封鎖的區域後駛離阿曼灣。該油輪沒有關閉定位追蹤器。（新華社）"
-    },
-    {
-      "id": "mkt:019ed176-1f1f-7dd8-b038-2dc350d6d1a9",
-      "time": "2026-06-17 01:23:59",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "The Russian Defence Ministry said Russian warships acted in accordance with international navigation rules and took all measures to prevent accidents."
-    },
-    {
-      "id": "4939237",
-      "time": "2026-06-17 01:23:39",
-      "tags": [
-        "國際"
-      ],
-      "text": "俄羅斯國防部：俄羅斯軍艦符合國際航行規則開展行動，並已採取一切措施避免這起事故。"
-    },
-    {
-      "id": "mkt:019ed174-eb92-7dd8-b038-2565fa1cdc03",
-      "time": "2026-06-17 01:22:41",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Russian Defence Ministry said that after warning shots were fired, the yacht immediately changed course and continued to move away from the Russian warship."
-    },
-    {
-      "id": "4939236",
-      "time": "2026-06-17 01:22:30",
-      "tags": [
-        "國際"
-      ],
-      "text": "俄羅斯國防部：警告性射擊後，該遊艇立即改變航向，繼續駛離俄羅斯軍艦。"
-    },
-    {
-      "id": "mkt:019ed174-9f46-7dd8-b038-1cbad711bf7a",
-      "time": "2026-06-17 01:22:21",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Russian Defence Ministry said a Russian frigate fired warning shots at a yacht that did not respond to signals."
-    },
-    {
-      "id": "mkt:019ed174-342e-7dd8-b038-1603060c37b9",
-      "time": "2026-06-17 01:21:54",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK"
-      ],
-      "text": "RUSSIAN DEFENCE MINISTRY said on June 16 that the frigate Grigorovich, in the English Channel, encountered a yacht flying the British flag that approached on a dangerous route; the frigate made repeated attempts to contact the yacht but received no response."
-    },
-    {
-      "id": "4939235",
-      "time": "2026-06-17 01:21:36",
-      "tags": [
-        "國際"
-      ],
-      "text": "俄羅斯國防部：護衛艦向未回應訊號的遊艇鳴槍示警。"
-    },
-    {
-      "id": "4939234",
-      "time": "2026-06-17 01:20:53",
-      "tags": [
-        "國際"
-      ],
-      "text": "埃及總統塞西周二在法國出席G7峰會期間，敦促以色列放棄控制加沙地帶70%區域的計劃。"
     }
   ]
 }
