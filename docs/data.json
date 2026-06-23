@@ -1,7 +1,122 @@
 {
-  "updated": "2026-06-24 00:14:56",
-  "count": 17287,
+  "updated": "2026-06-24 00:19:11",
+  "count": 17294,
   "items": [
+    {
+      "id": "mkt:019ef546-5631-7dd8-b0df-74122552b3ec",
+      "time": "2026-06-24 00:18:07",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iranian President Pezeshkian said regional issues should be discussed only on the basis of mutual respect."
+    },
+    {
+      "id": "4950991",
+      "time": "2026-06-24 00:17:56",
+      "tags": [
+        "國際"
+      ],
+      "text": "據伊朗伊斯蘭共和國通訊社（IRNA）：伊朗和阿曼同意成立霍爾木茲海峽委員會。"
+    },
+    {
+      "id": "mkt:019ef546-26e7-7dd8-b0df-6c55409df448",
+      "time": "2026-06-24 00:17:55",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "IRNA reports Iran and Oman have agreed to form a Strait of Hormuz committee."
+    },
+    {
+      "id": "mkt:019ef545-a1bb-7dd8-b0df-60c09a81d438",
+      "time": "2026-06-24 00:17:21",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iranian President Pezeshkian said he hopes to open a new chapter in relations with Pakistan."
+    },
+    {
+      "id": "mkt:019ef545-6372-7dd8-b0df-5d6e37a3f49f",
+      "time": "2026-06-24 00:17:05",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iranian President Pezeshkian said he held constructive talks with Pakistani officials."
+    },
+    {
+      "id": "4950990",
+      "time": "2026-06-24 00:16:49",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗總統：雙方就最新局勢、雙邊關係展開磋商。"
+    },
+    {
+      "id": "mkt:019ef545-0800-7dd8-b0df-55f6c0474b11",
+      "time": "2026-06-24 00:16:42",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iranian President Pezeshkian said he discussed several important perspectives on recent developments in the region."
+    },
+    {
+      "id": "mkt:019ef544-448a-7dd8-b0df-4919a68079f5",
+      "time": "2026-06-24 00:15:52",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Financial Times, citing people familiar with the matter, reports that at last week's G7 summit Trump said he was \"impressed and very appreciative\" of Ukraine's long-range strikes inside Russia and agreed to step up sanctions on Russian energy."
+    },
+    {
+      "id": "4950989",
+      "time": "2026-06-24 00:15:39",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗總統：在巴基斯坦舉行了富有建設性的會談。"
+    },
+    {
+      "id": "mkt:019ef543-642e-7dd8-b0df-454627429ff8",
+      "time": "2026-06-24 00:14:54",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iran's president said recent events have underscored an improvement in relations with Pakistan."
+    },
+    {
+      "id": "te:markets:561257",
+      "time": "2026-06-24 00:14:53",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "commodity",
+        "Importance 0"
+      ],
+      "text": "Coffee Hits 5-week High — Coffee increased to 278.40 USd/Lbs, the highest since May 2026. Over the past 4 weeks, Coffee gained 1.3%, and in the last 12 months, it decreased 12.43%."
+    },
+    {
+      "id": "mkt:019ef543-3edf-7dd8-b0df-3b067c0365d7",
+      "time": "2026-06-24 00:14:45",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iran's president says relations with Pakistan are founded on mutual respect."
+    },
+    {
+      "id": "mkt:019ef542-f908-7dd8-b0df-36dedd610eec",
+      "time": "2026-06-24 00:14:27",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Market sources: SpaceX (SPCX.O) high-grade bond offering drew $89 bln in subscriptions."
+    },
     {
       "id": "4950988",
       "time": "2026-06-24 00:14:03",
@@ -158339,59 +158454,6 @@
         "其他"
       ],
       "text": "科技記者馬克·古爾曼：蘋果在研發多款全新iPhone晶片，其中2028年推出的A22 Pro晶片或將採用1.4奈米制程工藝製造。"
-    },
-    {
-      "id": "mkt:019ed13a-8489-7dd8-b036-c0acbbe5d8c6",
-      "time": "2026-06-17 00:18:53",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Tata Group said India's Tamil Nadu Pollution Control Board has halted its review into water pollution at an iPhone components factory."
-    },
-    {
-      "id": "te:markets:559418",
-      "time": "2026-06-17 00:17:32",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Germany",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "DAX Finishes at Near 2-Week High — The DAX 40 pared gains to close marginally up at 24,910 on Tuesday, but still near a two-week high, marking the fourth session of advances. The prospect of a peace deal in Iran and the reopening of the Strait of Hormuz continued to support market sentiment. The memorandum of understanding is scheduled to be formally signed on Friday, leaving a 60-day window for negotiations toward a final agreement. Insurers and banks, as well as energy-sensitive industrials were among the top performers, while the tech sector and autos saw heavy pressure. GEA Group led gains, rising 5.1%, after Deutsche Bank raised its rating from Neutral to Buy. Munchener Ruck, Hannover Ruck and Allianz also advanced firmly, adding up to 1.3%."
-    },
-    {
-      "id": "4939174",
-      "time": "2026-06-17 00:17:04",
-      "tags": [
-        "其他"
-      ],
-      "text": "德國總理默茨：霍爾木茲海峽護航行動的國際授權尚存諸多待解問題。"
-    },
-    {
-      "id": "4939173",
-      "time": "2026-06-17 00:16:46",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "塔塔集團表示，印度泰米爾納德邦汙染控制委員會已終止對蘋果iPhone元件工廠的水汙染調查。"
-    },
-    {
-      "id": "4939172",
-      "time": "2026-06-17 00:16:36",
-      "tags": [
-        "其他"
-      ],
-      "text": "德國總理默茨：對美伊協議的永續性充滿信心。"
-    },
-    {
-      "id": "mkt:019ed137-4f43-7dd8-b036-bca6434b4314",
-      "time": "2026-06-17 00:15:23",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "The Israeli Defense Forces said its air force intercepted rockets launched from Lebanon."
     }
   ]
 }
