@@ -1,7 +1,133 @@
 {
-  "updated": "2026-06-23 11:04:46",
-  "count": 17281,
+  "updated": "2026-06-23 11:08:56",
+  "count": 17289,
   "items": [
+    {
+      "id": "4949416",
+      "time": "2026-06-23 11:07:53",
+      "tags": [
+        "國際"
+      ],
+      "text": "韓國交易所：對科技股集中的KOSDAQ指數暫停交易。"
+    },
+    {
+      "id": "mkt:019ef272-ba5f-7dd8-b0cb-139efcd87f2a",
+      "time": "2026-06-23 11:07:45",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "00100.HK",
+        "Impact bearish",
+        "02513.HK"
+      ],
+      "text": "Hang Seng Tech Index down more than 2%; constituents MINIMAX-W (00100.HK) off over 12%, Zhipu (02513.HK) off over 9%."
+    },
+    {
+      "id": "te:markets:560955",
+      "time": "2026-06-23 11:07:31",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 2"
+      ],
+      "text": "Gold Pressured by Fed Rate Hike Expectations — Gold fell below $4,150 an ounce on Tuesday, giving back gains from the previous session as firm expectations for Federal Reserve interest rate hikes outweighed optimism surrounding ongoing US-Iran peace negotiations. Both Deutsche Bank and BofA Global Research have revised their forecasts to include a rate increase in September. Investors are now focused on this week’s PCE report, which contains the Fed’s preferred inflation gauge and is expected to offer fresh insight into underlying price pressures. Meanwhile, Washington granted Iran a 60-day license to sell oil on international markets, boosting expectations of a faster recovery in global supply. Shipping through the Strait of Hormuz has also increased, with producers such as Kuwait and the United Arab Emirates finding alternative export routes, while Iran shipped more than 30 million barrels over the past week."
+    },
+    {
+      "id": "4949415",
+      "time": "2026-06-23 11:07:18",
+      "tags": [
+        "市場"
+      ],
+      "text": "澳元兌美元跌幅擴大，跌至4月以來最低水平。"
+    },
+    {
+      "id": "4949414",
+      "time": "2026-06-23 11:07:00",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "恒生科技指數跌超2%，現報4457.290點；恒生指數現跌1.099%。"
+    },
+    {
+      "id": "4949413",
+      "time": "2026-06-23 11:06:33",
+      "tags": [
+        "公司"
+      ],
+      "text": "蘋果公司營運長Sabih Khan訪華，參加釋出《2025-2026中國企業責任報告》 。"
+    },
+    {
+      "id": "mkt:019ef271-930d-7dd8-b0cb-0f7d51de8adf",
+      "time": "2026-06-23 11:06:29",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Goldwind ships first equipment batch for Saudi PIF 53GW onshore wind project】Goldwind shipped the first batch of wind-power equipment for the Saudi PIF 53GW onshore wind project, comprising 12 nacelles, 9 blade sets and associated lifting gear. The cargo departed Changshu port for Saudi Arabia, marking the start of the delivery phase for the world’s largest onshore wind farm under construction."
+    },
+    {
+      "id": "4949412",
+      "time": "2026-06-23 11:05:20",
+      "tags": [
+        "其他"
+      ],
+      "text": "【金風科技為沙特PIF5專案發運首批風電裝置】據金風科技訊息，近日，金風科技為沙特PIF5 3GW風電專案發運首批風電裝置，包含12臺機艙、9套葉片及配套吊裝工具，由常熟港啟運前往沙特，標誌著這一全球在建最大陸上風電場正式邁入交付階段。"
+    },
+    {
+      "id": "4949411",
+      "time": "2026-06-23 11:05:18",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "恒生指數跌超1%，現報23530.520點；恒生科技指數現跌1.850%。"
+    },
+    {
+      "id": "mkt:019ef270-2c39-7dd8-b0cb-0299609b8eb8",
+      "time": "2026-06-23 11:04:58",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact mixed",
+        "S&P500",
+        "Impact bullish",
+        "US10Y"
+      ],
+      "text": "【Analyst: Oil's dominant role in global economy and geopolitics is ending】Columnist Matthew Lynn says the long 'oil crisis' era (1973–2026) is ending. He argues recent US–Israel action against Iran, widely feared to trigger a severe energy shock, pushed oil up briefly but did not hit inflation-adjusted record highs (2008 peak $147/bbl ≈ $224/bbl today). Markets no longer expect emergency energy-consumption curbs or runaway interest-rate spikes. Lynn identifies three market implications: a reduced strategic weight for the Middle East; downward pressure on inf — US headline prices could be near-flat YoY for a decade or more; and greater global economic stability as oil loses its headline-driving role, though it remains economically important."
+    },
+    {
+      "id": "mkt:019ef26f-ff14-7dd8-b0ca-fd710e50ee6c",
+      "time": "2026-06-23 11:04:46",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "WTI"
+      ],
+      "text": "【Israeli national security minister threatens to make Beirut 'like Beit Hanoun'】On June 22, Israeli national security minister and far-right politician Ben-Gvir threatened Lebanon, saying if Israel's security is threatened \"Beirut will become like Beit Hanoun in the Gaza Strip.\" He warned that if Lebanon allows its territory to be used as a base to attack Israel, Beirut \"will not function normally\" and \"those who choose to go to war with Israel will bear the consequences.\""
+    },
+    {
+      "id": "4949410",
+      "time": "2026-06-23 11:04:35",
+      "tags": [
+        "市場"
+      ],
+      "text": "隔夜SHIBOR報1.4550%，上漲3.20個基點。7天SHIBOR報1.4970%，上漲2.20個基點。3個月SHIBOR報1.4310%，上漲0.10個基點。"
+    },
+    {
+      "id": "4949409",
+      "time": "2026-06-23 11:04:24",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【有色板塊持續下挫，銅陵有色觸及跌停】有色板塊盤中持續下挫，小金屬、方向領跌，銅陵有色觸及跌停，此前盛龍股份跌停，中稀有色、江西銅業、招金黃金、興業銀錫、西部礦業、洛陽鉬業均跌超8%。"
+    },
     {
       "id": "mkt:019ef26f-615a-7dd8-b0ca-f71868e12c8f",
       "time": "2026-06-23 11:04:06",
@@ -9,6 +135,14 @@
         "MKT News"
       ],
       "text": "【Guanggang Gas: specialty gases to meet China semiconductor expansion; NF3 still in planning】At an earnings briefing, Guanggang Gas said its nitrogen trifluoride (NF3) project remains in planning/construction and is not yet in production. Projects in Hubei (Qianjiang), Anhui (Hefei) and Shanghai for hexafluorobutadiene, hydrobromic acid (HBr) and electronic‑grade hydrogen chloride (HCl) have completed mechanical completion and are entering commissioning, testing and validation. The company said these specialty‑gas products will support domestic semiconductor firms' ongoing capacity expansion. Guanggang’s SUPER‑N series has won US ASME and South Korea KGS certification; the firm says performance is on par with international majors and commercially competitive."
+    },
+    {
+      "id": "4949408",
+      "time": "2026-06-23 11:03:47",
+      "tags": [
+        "公司"
+      ],
+      "text": "【第十二批國採正式啟動企業填報 65個品種迎大考】今日上午，第12批國家組織藥品集中帶量採購公告（第1號）正式釋出，標誌著第十二批國採進入企業填報階段。本輪集採共涉及65個品種，據行業測算對應市場規模接近600億元。據公告，在資質與合規方面，本次國採設定了嚴格的“硬核”門檻：一是生產經驗限制，企業須提供同型別製劑5年內的放行或銷售證明，且兩份證明的時間跨度須在24個月以上；二是GMP與質量紅線，生產線2年內須無違規情形，且產品2年內無省級及以上抽檢不合格記錄；三是專利高壓線，公告強調對存在專利爭議品種，企業若無法在申報截止前提交智慧財產權承諾書或作出“無侵權承諾”，相關產品將被各省平臺撤網或在協議期內拒絕掛網。"
     },
     {
       "id": "4949407",
@@ -158545,56 +158679,6 @@
         "其他"
       ],
       "text": "【國家統計局：新舊動能加快轉換是當前經濟執行的鮮明特徵】6月16日，國家統計局新聞發言人王冠華表示，新舊動能加快轉換是當前經濟執行的鮮明特徵。今年我國在產業提質、數字賦能、綠色轉型等方面取得新成效，新質生產力培育壯大，不僅為經濟增長提供了重要支撐，而且有效提升了發展的質量、韌性和可持續性。我國依靠創新投入為高質量發展賦能。2025年研究與試驗發展經費投入強度，也就是全社會的研究與試驗發展經費投入與國內生產總值之比，首次超過OECD國家平均水平。在創新資源有力支撐下，航空航天、人工智慧、量子計算、生物醫藥等領域的創新成果競相湧現。（中國網）"
-    },
-    {
-      "id": "4937607",
-      "time": "2026-06-16 11:08:54",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【CPO概念持續走強，永鼎股份漲停】CPO概念持續走強，永鼎股份漲停，太辰光漲超14%、蘅東光、長芯博創、亨通光電、光庫科技等跟漲。"
-    },
-    {
-      "id": "4937606",
-      "time": "2026-06-16 11:07:52",
-      "tags": [
-        "其他"
-      ],
-      "text": "【兩項化妝品強制性國家標準公開徵求意見】國家藥監局組織起草《化妝品唇炎判斷標準及處理原則（徵求意見稿）》和《化妝品接觸性蕁麻疹判斷標準及處理原則（徵求意見稿）》兩項強制性國家標準，現向社會公開徵求意見。"
-    },
-    {
-      "id": "4937605",
-      "time": "2026-06-16 11:07:27",
-      "tags": [
-        "其他"
-      ],
-      "text": "【水利部：全國24條中小河流發生超警洪水】記者從水利部瞭解到，受降雨影響，昨天到今天，雲南瀾滄江支流鳳慶河、金沙江支流果馬河、南盤江支流甸溪河，廣西西江支流清水河、南流江及支流江寧河、北流河及支流六麻河、鬱江支流鯉魚江，廣東珠江三角洲流溪河，福建韓江支流九峰溪、九龍江西溪支流文峰溪，遼寧大淩河支流第二牤牛河，吉林飲馬河支流小營子河等24條中小河流發生超警洪水，最大超警幅度1.69米；目前大部河流已出峰迴落。（央視新聞）"
-    },
-    {
-      "id": "4937604",
-      "time": "2026-06-16 11:07:14",
-      "tags": [
-        "國際"
-      ],
-      "text": "日本公平交易委員會調查冰淇淋生產商價格操縱案。"
-    },
-    {
-      "id": "4937603",
-      "time": "2026-06-16 11:06:18",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "聚丙烯連續主力合約日內跌5%，現報7945.00元。"
-    },
-    {
-      "id": "4937602",
-      "time": "2026-06-16 11:06:15",
-      "tags": [
-        "公司"
-      ],
-      "text": "【研究：社媒和影片平臺首次成為全球最主要新聞來源】英國牛津大學下屬的路透社新聞研究所16日釋出最新年度報告說，全球新聞受眾如今獲取資訊時，比以往更傾向於使用社交媒體和影片平臺，而非傳統媒體。該年度報告追蹤新聞媒體變革趨勢，今年的研究結果基於輿觀調查公司今年早些時候在48個國家和地區對近10萬人展開的線上調查。法新社援引報告主要作者吉姆·伊根的話報道，2026年標誌著“一個重要的里程碑：社交媒體和影片網路首次超過其他途徑，以54%的佔比成為全球最廣泛使用的新聞來源”。“將這一現象視為一種趨勢而非劇變更為恰當，但這無疑是一個重要的時刻。”（新華社）"
     }
   ]
 }
