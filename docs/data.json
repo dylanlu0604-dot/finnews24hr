@@ -1,7 +1,23 @@
 {
-  "updated": "2026-06-24 02:34:18",
-  "count": 17261,
+  "updated": "2026-06-24 02:38:25",
+  "count": 17260,
   "items": [
+    {
+      "id": "4951061",
+      "time": "2026-06-24 02:36:43",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：阿聯酋航空、澳洲航空旗下空客 A380 客機被檢出機身裂紋。"
+    },
+    {
+      "id": "4951060",
+      "time": "2026-06-24 02:36:19",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：空客在發現機身裂紋後，將對 16 架 A380 客機開展檢查。"
+    },
     {
       "id": "mkt:019ef5c1-5ab6-7dd8-b0e1-daa996ce9f26",
       "time": "2026-06-24 02:32:29",
@@ -158159,41 +158175,6 @@
         "WTI"
       ],
       "text": "Iran's Supreme Joint Military Command warned that if Israel does not cease attacks on southern Lebanon, it should expect a strong response from Iran's armed forces."
-    },
-    {
-      "id": "mkt:019ed1ba-1fe2-7dd8-b038-fe3531bcef7e",
-      "time": "2026-06-17 02:38:16",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Precious Metals",
-        "Energy",
-        "XAUUSD",
-        "Impact bearish",
-        "WTI"
-      ],
-      "text": "【Night session main contracts close】At the 02:30 close, SHFE gold front-month contract fell 0.06% to 945 yuan/gram; SHFE silver front-month contract fell 0.07% to 16,847 yuan/kg; SC crude oil front-month contract fell 3.93% to 509 yuan/barrel."
-    },
-    {
-      "id": "mkt:019ed1ba-0d17-7dd8-b038-f6b9770037e4",
-      "time": "2026-06-17 02:38:11",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Precious Metals",
-        "XAUUSD",
-        "Impact bullish"
-      ],
-      "text": "Shanghai Gold Exchange Gold T+D closed the June 16 (Tuesday) night session up 0.06% at 941.78 yuan/gram; Silver T+D closed up 0.47% at 16,770 yuan/kg."
-    },
-    {
-      "id": "4939284",
-      "time": "2026-06-17 02:37:54",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "伊朗外交部阿拉格齊透露，伊朗與美國代表團定於週五在瑞士舉行會晤，兩國代表團團長將先簽署一份諒解備忘錄，隨後開啟首輪後續談判，此次瑞士會晤的具體地點將另行公佈。"
     }
   ]
 }
