@@ -1,7 +1,29 @@
 {
-  "updated": "2026-06-24 06:29:03",
-  "count": 17368,
+  "updated": "2026-06-24 06:32:54",
+  "count": 17366,
   "items": [
+    {
+      "id": "4951216",
+      "time": "2026-06-24 06:31:08",
+      "tags": [
+        "資料",
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "【週三重要財經資訊提醒（以下均為北京時間）】 \n① 時間待定 日本央行副行長冰見野良三發表講話；\n② 07:50 日本央行公佈6月貨幣政策會議審議委員意見摘要；\n③ 時間待定 2026上海世界行動通訊大會開幕；\n④ 09:30 澳大利亞5月CPI；\n⑤ 14:30 澳洲聯儲助理主席Hauser講話；\n⑥ 15:00 泰國央行公佈利率決議，瑞士央行理事Martin講話；\n⑦ 16:00 德國6月IFO商業景氣指數；\n⑧ 17:00 歐洲央行管委兼德國央行行長Nagel討論數字歐元；\n⑨ 19:15 加拿大央行高階副行長Rogers在蘇黎世講話；\n⑩ 19:20 英國央行副行長Breeden在蘇黎世講話；\n⑪ 20:30 美國一季度經常帳；\n⑫ 21:35 歐洲央行執行委員會成員Piero Cipollone透過線上方式參與一場爐邊閒聊；\n⑬ 22:00 美國5月新屋銷售；\n⑭ 22:30 美國能源資訊署（EIA）釋出政府版原油庫存週報；\n⑮ 23:00 英國央行貨幣政策委員會（MPC）成員Swati Dhingra講話；\n⑯ 23:30 法國央行行長Emmanuel Moulin講話；\n⑰ 次日01:30 加拿大央行公佈兩週前貨幣政策會議的摘要；\n⑱ 次日02:00 美聯儲理事庫克講話（為開場白預先錄製）；\n⑲ 次日04:00 美聯儲公佈年度銀行壓力測試結果，日本央行行長植田和男出席IMF舉辦的央行講座活動；\n⑳ 美股盤後 美光科技釋出業績報告。"
+    },
+    {
+      "id": "te:markets:561276",
+      "time": "2026-06-24 06:30:11",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Energy Commodities Updates: Natural gas Drops by 3.01% — Top commodity losers are Natural gas (-3.01%), Methanol (-2.81%), Gasoline (-1.54%), Brent Crude Oil (-1.21%) and Crude Oil WTI (-1%). Gains are led by Heating Oil (2.11%), Natural Gas UK (0.83%) and Natural Gas EU (0.51%)."
+    },
     {
       "id": "4951215",
       "time": "2026-06-24 06:23:54",
@@ -159116,41 +159138,6 @@
         "GM.N"
       ],
       "text": "Market sources say GM is in talks with Raytheon Technologies and L3Harris Technologies to increase munitions production."
-    },
-    {
-      "id": "4939364",
-      "time": "2026-06-17 06:31:35",
-      "tags": [
-        "公司"
-      ],
-      "text": "領益智造在港交所公告，擬全球發售8.118億股H股，發售價格將不高於每股H股10.18港元，預期將於2026年6月26日(星期五)上午九時正在聯交所開始買賣。"
-    },
-    {
-      "id": "4939363",
-      "time": "2026-06-17 06:31:06",
-      "tags": [
-        "其他"
-      ],
-      "text": "【首尾相差超過700個百分點，股票策略私募業績大分化】私募排排網最新資料顯示，截至5月底，全市場12795只有業績記錄的私募證券投資基金年內平均收益為7.78%，其中9299只產品錄得正收益，佔比為72.68%。股票策略業績實現領跑。值得一提的是，股票策略私募內部分化顯著加劇。私募排排網資料顯示，今年前5個月，股票策略私募基金中5%分位數的產品收益率達49.19%，居各策略首位。與此同時，表現最好的股票策略私募今年前5個月收益率超過600%，但同期表現最差的股票策略私募基金則跌逾60%，首尾業績差距高達753.47個百分點。另外，多位渠道人士透露，截至6月12日，部分知名百億級私募年內收益仍為負數，某深圳百億級價值派私募旗下多隻產品更是回撤超過10%。（上證報）"
-    },
-    {
-      "id": "4939362",
-      "time": "2026-06-17 06:30:40",
-      "tags": [
-        "公司"
-      ],
-      "text": "市場訊息：通用汽車正與多家國防承包商展開洽談， 已與雷神技術公司、L3 哈里斯公司洽談擴大彈藥產能相關事宜。"
-    },
-    {
-      "id": "te:markets:559448",
-      "time": "2026-06-17 06:30:09",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Energy Commodities Updates: Crude Oil WTI Falls by 4.89% — Top commodity losers are Crude Oil WTI (-4.89%), Brent Crude Oil (-4.23%) and Methanol (-3.58%). Gains are led by Natural gas (3.46%)."
     }
   ]
 }
