@@ -1,7 +1,56 @@
 {
-  "updated": "2026-06-23 09:08:06",
-  "count": 17320,
+  "updated": "2026-06-23 09:12:08",
+  "count": 17311,
   "items": [
+    {
+      "id": "mkt:019ef208-134a-7dd8-b0c8-0742b5c9c526",
+      "time": "2026-06-23 09:11:15",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Japan 5-year government bond yield rose 1bp to 1.915%."
+    },
+    {
+      "id": "mkt:019ef208-1283-7dd8-b0c7-fe7d10e7d7f4",
+      "time": "2026-06-23 09:11:15",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "005930.KS",
+        "Impact bullish"
+      ],
+      "text": "【Samsung Electronics HBM4 sales top $1.0 bln after four months of mass production】South Korean chip industry sources said on June 23 that Samsung Electronics' sixth-generation high-bandwidth memory (HBM4) has exceeded $1.0 bln in sales. Samsung began global mass production of HBM4 on Feb. 12; sales reached the milestone in just over four months and are forecast to surpass $1.2 bln by end-June."
+    },
+    {
+      "id": "4949188",
+      "time": "2026-06-23 09:10:38",
+      "tags": [
+        "其他"
+      ],
+      "text": "【智元精靈G2開啟首個3C產線質檢工段全覆蓋真實作業直播】介面新聞獲悉，6月23日起，多臺智元精靈G2將在龍旗科技江西工廠開啟為期6天的真實產線作業直播。本次直播全程無剪輯、無預演，機器人遵從工廠“早八晚七”生產節奏，全景展現首個覆蓋3C電子核心製造環節的部署態具身智慧落地案例。據悉，在真實的產線環境中，精靈G2專職承擔平板質檢工段全流程，涵蓋多媒體介面、音訊、輻射雜散發射及耦合測試四大核心工序，實現全鏈路自主作業。"
+    },
+    {
+      "id": "mkt:019ef207-75a9-7dd8-b0c7-f4337ae0fd4c",
+      "time": "2026-06-23 09:10:35",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "Malaysia's Finance Ministry said diesel prices will be set to market levels nationwide from July 1."
+    },
+    {
+      "id": "te:markets:560921",
+      "time": "2026-06-23 09:10:05",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Gasoline Prices Hold Below $3 — US gasoline prices held below $3 per gallon, consolidating just above three-month lows, as progress in US–Iran talks raised expectations of improved global oil supply. The US Treasury issued a 60-day license authorizing the production, shipment, and sale of Iranian oil. While both sides reported progress in early talks toward a broader agreement, inconsistencies remain, with Vice President JD Vance stating that Iran agreed to allow nuclear inspections, an assertion Tehran has disputed. Meanwhile, the US–Iran diplomacy has eased pressure on American motorists, contributing to lower fuel costs at the pump, with gasoline prices falling for a sixth straight week and down roughly 15% from their May peak. Elsewhere, US refining supply faced short-term disruptions, with TotalEnergies’ 238,000 bpd Port Arthur refinery shut after a lightning outage and Marathon’s 631,000 bpd Galveston Bay facility hit by a fire."
+    },
     {
       "id": "4949187",
       "time": "2026-06-23 09:07:10",
@@ -82,6 +131,14 @@
         "其他"
       ],
       "text": "澳大利亞住房稅改革方案預計將於本週在議會獲得透過。"
+    },
+    {
+      "id": "4949175",
+      "time": "2026-06-23 09:01:53",
+      "tags": [
+        "國際"
+      ],
+      "text": "【多地正式進入梅雨季 注意防範強對流、暴雨天氣】中央氣象臺今早（23日）6點繼續釋出強對流天氣藍色預警：預計今天8點至明天8點，內蒙古東南部、東北地區西部等地的部分地區將有8級以上雷暴大風或冰雹天氣，其中，內蒙古東南部、遼寧西部、河北西部等地局地將有10級以上雷暴大風。華北中北部、江南北部、西南地區東部、華南西部等地的部分地區將有小時雨量大於20毫米的短時強降水天氣，其中，浙江西北部、湖南西部、貴州中東部、廣西北部等地的部分地區小時雨量大於50毫米，最大可達80毫米以上。中央氣象臺今早同時釋出了暴雨藍色預警。"
     },
     {
       "id": "mkt:019ef1fe-fbff-7dd8-b0c7-ea370906f503",
@@ -158962,141 +159019,6 @@
         "公司"
       ],
       "text": "【狄耐克子公司狄鴻智創加入開源鴻蒙生態“鴻圖計劃”】近日，開源鴻蒙生態“鴻圖計劃”合作備忘錄簽約儀式舉行。狄耐克旗下子公司——狄鴻智創產業科技（深圳）有限公司與華為終端有限公司正式簽約，雙方將依託開源鴻蒙生態，圍繞生態共建、場景創新、終端適配及智慧空間解決方案落地開展深度協作，加速開源鴻蒙在各行業的規模化落地。"
-    },
-    {
-      "id": "4937387",
-      "time": "2026-06-16 09:12:04",
-      "tags": [
-        "公司"
-      ],
-      "text": "【吳新明赴京東集團深化戰略合作】據南通釋出，6月15日，南通市委書記吳新明率隊赴京東集團總部考察，與京東集團創始人、董事局主席劉強東，圍繞鞏固合作成果、拓展合作領域等進行深入交流，並就新的合作事項達成共識。雙方一致表示，將以此次交流為契機，持續深化戰略合作，共同開創互利共贏的新局面。吳新明指出，京東集團與南通有著良好的合作基礎，希望進一步鞏固發展合作成果，持續拓展合作領域，加快在手專案推進速度，加大在南通投資佈局力度。市委、市政府將一如既往支援京東集團在南通的發展，進一步強化政策供給和要素保障，為京東集團提供更好的發展環境，期待雙方不斷深化戰略合作，取得更加豐碩的合作成果。劉強東指出，南通區位優勢突出，國家戰略疊加賦能，經濟發展向新向優、潛力巨大，京東集團將充分發揮自身優勢，多領域與南通開展深度對接，合力做大做強貨運航空，加快佈局京東物流、京東零售、京東工業等新專案。"
-    },
-    {
-      "id": "mkt:019ecdfb-fbf1-7dd8-b018-8f2dfd8f8e20",
-      "time": "2026-06-16 09:11:43",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC",
-        "USDJPY",
-        "Impact bearish"
-      ],
-      "text": "Japan 20-year government bond yield rose 4.0 bps to 3.500%."
-    },
-    {
-      "id": "4937386",
-      "time": "2026-06-16 09:11:13",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "20年期日本國債收益率上漲4.0個基點，至3.500%。"
-    },
-    {
-      "id": "4937385",
-      "time": "2026-06-16 09:10:59",
-      "tags": [
-        "其他"
-      ],
-      "text": "【海地幫派暴力今年已造成至少2300人死亡】聯合國人權事務高階專員沃爾克·圖爾克15日說，今年以來海地幫派暴力已造成至少2300人死亡、1100人受傷，另有99人被綁架。他呼籲海地司法部門迅速採取行動，追究暴力犯罪者責任。聯合國發言人上週說，聯合國秘書長古特雷斯將於16日訪問海地，將會見當地幫派暴力犯罪受害者，以表達對他們的支援。（新華社）"
-    },
-    {
-      "id": "4937384",
-      "time": "2026-06-16 09:10:54",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國副總統萬斯：我們將與伊朗人一起銷燬濃縮鈾。"
-    },
-    {
-      "id": "mkt:019ecdfb-2f50-7dd8-b018-83c78bac01eb",
-      "time": "2026-06-16 09:10:51",
-      "tags": [
-        "MKT News",
-        "USDJPY",
-        "Impact bearish"
-      ],
-      "text": "Japan 5-year bond yield rose 2.5 bps to 1.890%."
-    },
-    {
-      "id": "4937383",
-      "time": "2026-06-16 09:10:33",
-      "tags": [
-        "國際"
-      ],
-      "text": "【韓國最大在野黨支援率反超執政黨】韓國一項最新民意調查結果顯示，韓國最大在野黨國民力量黨支援率升至44.3%，高於執政黨共同民主黨的38%。這是總統李在明去年6月上任以來，國民力量黨支援率首次反超共同民主黨。媒體分析，地方選舉選票短缺事件是導致共同民主黨支援率下滑的一個主要原因。（新華社）"
-    },
-    {
-      "id": "mkt:019ecdfa-c298-7dd8-b018-7a87d314c40f",
-      "time": "2026-06-16 09:10:23",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bearish"
-      ],
-      "text": "Vice President Vance said Trump may decide to announce an Iran agreement before Friday."
-    },
-    {
-      "id": "4937382",
-      "time": "2026-06-16 09:10:13",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "瀝青連續主力合約日內跌3%，現報4159.00元。"
-    },
-    {
-      "id": "4937381",
-      "time": "2026-06-16 09:09:51",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國副總統萬斯：特朗普可能決定在週五前公佈伊朗協議。"
-    },
-    {
-      "id": "mkt:019ecdfa-2098-7dd8-b018-738d4fccd66c",
-      "time": "2026-06-16 09:09:42",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "U.S. Vice President Vance said an exemption from transit fees in the Strait of Hormuz has been explicitly written into the agreement."
-    },
-    {
-      "id": "4937380",
-      "time": "2026-06-16 09:09:34",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國副總統萬斯：霍爾木茲海峽免費通行在協議中明確規定。"
-    },
-    {
-      "id": "mkt:019ecdf9-834a-7dd8-b018-6d55d1c8d1eb",
-      "time": "2026-06-16 09:09:01",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "U.S. Vice President Vance said Iran will never receive a penny from U.S. taxpayers. He added that if Iran complies with the terms, other countries would be invited to invest in Iran."
-    },
-    {
-      "id": "4937379",
-      "time": "2026-06-16 09:08:46",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "惠譽評級：利率上升將緩解韓國保險公司壓力。"
-    },
-    {
-      "id": "4937378",
-      "time": "2026-06-16 09:08:13",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "聚丙烯連續主力合約日內跌3%，現報8113.00元。"
     }
   ]
 }
