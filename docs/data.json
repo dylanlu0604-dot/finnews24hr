@@ -1,7 +1,77 @@
 {
-  "updated": "2026-06-24 00:35:32",
-  "count": 17271,
+  "updated": "2026-06-24 00:39:35",
+  "count": 17272,
   "items": [
+    {
+      "id": "mkt:019ef559-8d16-7dd8-b0df-bcd6b9aae85b",
+      "time": "2026-06-24 00:39:07",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "MELONI says cooperation with the United States must return to normal."
+    },
+    {
+      "id": "4951000",
+      "time": "2026-06-24 00:37:54",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗總統：伊朗導彈相關內容並未納入諒解備忘錄，且永遠不會納入。我們絕不會同任何人就本國防禦能力展開談判。"
+    },
+    {
+      "id": "mkt:019ef558-7167-7dd8-b0df-b2df52ed0473",
+      "time": "2026-06-24 00:37:54",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "Iranian President Pezeshkian said Iran will never negotiate with anyone over its defensive capabilities."
+    },
+    {
+      "id": "mkt:019ef558-2b02-7dd8-b0df-ad7e6e5c75ab",
+      "time": "2026-06-24 00:37:36",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Iranian President PEZESHKIAN said Iran's missiles are not covered by the memorandum of understanding and never will be."
+    },
+    {
+      "id": "mkt:019ef557-5588-7dd8-b0df-a0b01024f2ab",
+      "time": "2026-06-24 00:36:41",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Iranian President Pezeshkian said Iran has extended a hand of friendship to Islamic countries including Pakistan, Qatar, Saudi Arabia, Egypt and Turkey to promote mutual understanding and lay the groundwork for a new regional security architecture."
+    },
+    {
+      "id": "4950999",
+      "time": "2026-06-24 00:35:52",
+      "tags": [
+        "其他"
+      ],
+      "text": "白宮釋出關於武器轉讓戰略的行政令。"
+    },
+    {
+      "id": "em:qqyh_ozyh:202606243780120724",
+      "time": "2026-06-24 00:32:23",
+      "tags": [
+        "央行",
+        "歐洲央行"
+      ],
+      "text": "【德意志銀行上調對短期美債收益率的預測】德意志銀行經濟學家MatthewRaskin、StevenZang和AndrewFu在週二的研報中寫道，經過上週的聯邦公開市場委員會會議後，該行如今預計美聯儲今年將分別在9月和12月加息，每次加息25個基點，使聯邦基金利率達到4.1%。報告指出，此次修正上調了該行對短期美債收益率的預測——預計年底2年期美債收益率將達到4.3%（較此前的預測上調35個基點）。鑑於該行假設到2028年年中加息將逐步撤回，因此對長債收益率的影響較為有限。德意志銀行目前預計年底10年期美債收益率為4.8%（較此前的預測上調10個基點）。與市場遠期相比，該行對短端收益率的預測大體一致，但對收益率曲線的預測更為陡峭。"
+    },
     {
       "id": "4950998",
       "time": "2026-06-24 00:31:57",
@@ -158196,63 +158266,6 @@
         "國際"
       ],
       "text": "內塔尼亞胡：無論有協議還是沒有協議——只要我是以色列總理，伊朗就不會擁有核武器。"
-    },
-    {
-      "id": "mkt:019ed14d-046a-7dd8-b037-3c594df70194",
-      "time": "2026-06-17 00:39:05",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "The Trump Trade",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "On new sanctions targeting Russia, German Chancellor Merz said he sees Trump taking a cooperative stance and is somewhat optimistic that Europe and the US will do everything to end the war."
-    },
-    {
-      "id": "4939199",
-      "time": "2026-06-17 00:38:57",
-      "tags": [
-        "國際"
-      ],
-      "text": "德國總理默茨談及對俄新制裁時表示：我看到特朗普目前持合作態度，我對歐美將竭盡全力結束這場衝突持一定樂觀態度。"
-    },
-    {
-      "id": "mkt:019ed14b-9d7e-7dd8-b037-302584cdd3a6",
-      "time": "2026-06-17 00:37:34",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK"
-      ],
-      "text": "German Chancellor Merz said in today’s discussion on Ukraine that European participation in negotiations was never in dispute."
-    },
-    {
-      "id": "4939198",
-      "time": "2026-06-17 00:37:19",
-      "tags": [
-        "國際"
-      ],
-      "text": "德國總理默茨：在今天有關烏克蘭的討論中，歐洲人參與談判這一點從未引發爭議。"
-    },
-    {
-      "id": "mkt:019ed14a-c055-7dd8-b037-2a8f6ec74ca5",
-      "time": "2026-06-17 00:36:37",
-      "tags": [
-        "MKT News",
-        "RIVN.O",
-        "Impact mixed"
-      ],
-      "text": "Wall Street Journal reports US electric-vehicle startup Rivian (RIVN.O) has cut several hundred jobs in its service and customer operations, reducing headcount by less than 2%."
-    },
-    {
-      "id": "4939197",
-      "time": "2026-06-17 00:36:10",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國海岸警衛隊聲稱，運輸伊朗、俄羅斯受制裁原油的油輪（即“影子船隊”）正在使用各類數字工具，此舉會對船舶、船員安全及海洋環境構成隱患。"
     }
   ]
 }
