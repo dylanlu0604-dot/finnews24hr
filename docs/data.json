@@ -1,7 +1,26 @@
 {
-  "updated": "2026-06-24 05:13:31",
+  "updated": "2026-06-24 05:17:40",
   "count": 17324,
   "items": [
+    {
+      "id": "4951147",
+      "time": "2026-06-24 05:15:15",
+      "tags": [
+        "市場"
+      ],
+      "text": "富時A50期指連續夜盤收漲0.45%，報15531點。"
+    },
+    {
+      "id": "mkt:019ef656-54df-7dd8-b0e4-313e5b051013",
+      "time": "2026-06-24 05:15:13",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "【Oman, IMO coordinate temporary sea lane through Strait of Hormuz】Oman announced early on the 24th it has coordinated with the International Maritime Organization to open a temporary sea lane through the Strait of Hormuz for all vessels, citing its responsibility for the strait and its importance to the global economy. The lane will operate under international law, including the United Nations Convention on the Law of the Sea, will not charge passage fees, and will follow navigational coordinates published by the IMO and Omani authorities; vessels must coordinate with the IMO in advance. Oman said the step reflects outcomes from US‑Iran negotiations and mediation efforts."
+    },
     {
       "id": "4951146",
       "time": "2026-06-24 05:12:38",
@@ -158743,24 +158762,6 @@
         "MKT News"
       ],
       "text": "【FBI foils plot targeting fight on White House South Lawn】On the 16th U.S. law enforcement said the FBI and partner agencies thwarted an alleged plot to attack a fight held on the White House South Lawn on the 14th. As of the 15th five people had been detained and investigators had identified 23 suspected participants. Authorities say the suspects allegedly planned to use explosive‑laden drones against buildings near the event to force a mass evacuation and funnel the crowd toward pre‑positioned sniper teams, and had plotted a second‑wave assault on the White House gates."
-    },
-    {
-      "id": "mkt:019ed24b-da70-7dd8-b03a-8a9fccf93212",
-      "time": "2026-06-17 05:17:26",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "According to The Information, OpenAI told the Trump administration that foreign talent is vital to U.S. AI development."
-    },
-    {
-      "id": "4939336",
-      "time": "2026-06-17 05:15:36",
-      "tags": [
-        "市場"
-      ],
-      "text": "富時A50期指連續夜盤收跌0.24%，報15623點。"
     }
   ]
 }
