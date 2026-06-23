@@ -1,7 +1,86 @@
 {
-  "updated": "2026-06-23 23:32:31",
+  "updated": "2026-06-23 23:36:44",
   "count": 17308,
   "items": [
+    {
+      "id": "mkt:019ef51f-65e8-7dd8-b0de-32da7b6f1e7a",
+      "time": "2026-06-23 23:35:36",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Pakistan's prime minister said Iran reached a memorandum of understanding with dignity and honor."
+    },
+    {
+      "id": "4950951",
+      "time": "2026-06-23 23:35:28",
+      "tags": [
+        "國際"
+      ],
+      "text": "巴基斯坦總理謝里夫稱伊朗體面且光榮地達成諒解備忘錄。"
+    },
+    {
+      "id": "mkt:019ef51d-6d87-7dd8-b0de-284db2e88d00",
+      "time": "2026-06-23 23:33:26",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish",
+        "USDJPY"
+      ],
+      "text": "US 6-week Treasury auction on June 23: 92.35% of the allotment awarded at the stop-out (high) yield, versus 35.89% previously."
+    },
+    {
+      "id": "mkt:019ef51d-2765-7dd8-b0de-20e7c2303471",
+      "time": "2026-06-23 23:33:08",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y",
+        "Impact bullish",
+        "DXY",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "US 6-week Treasury auction bid-cover ratio 2.91 on June 23; prior 3.12."
+    },
+    {
+      "id": "mkt:019ef51d-0283-7dd8-b0de-1caebfbcc6dc",
+      "time": "2026-06-23 23:32:59",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "DXY",
+        "Impact bullish",
+        "XAUUSD",
+        "Impact bearish",
+        "US10Y"
+      ],
+      "text": "US 6-week Treasury bill auction (to June 23) stop-out yield 3.62%, prior 3.60%."
+    },
+    {
+      "id": "4950950",
+      "time": "2026-06-23 23:32:34",
+      "tags": [
+        "宏觀",
+        "市場",
+        "國際"
+      ],
+      "text": "美國財政部拍賣六週期國債，得標利率3.620%，投標倍數2.91。"
+    },
+    {
+      "id": "4950949",
+      "time": "2026-06-23 23:32:28",
+      "tags": [
+        "其他"
+      ],
+      "text": "中國地震臺網自動測定：06月23日23時29分在青海海西州直轄區附近（北緯37.81度，東經95.39度）發生5.2級左右地震，最終結果以正式速報為準。"
+    },
     {
       "id": "te:markets:561236",
       "time": "2026-06-23 23:31:53",
@@ -158584,78 +158663,6 @@
         "國際"
       ],
       "text": "伊斯蘭國宣稱對敘利亞拉卡的內政部營地襲擊事件負責。"
-    },
-    {
-      "id": "4939115",
-      "time": "2026-06-16 23:36:22",
-      "tags": [
-        "其他"
-      ],
-      "text": "Databricks達成收購Panther AI安全運營平臺的協議。"
-    },
-    {
-      "id": "mkt:019ed111-a7b3-7dd8-b035-d3e82b7ac473",
-      "time": "2026-06-16 23:34:15",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【UK investigating alleged warning shot by Russian warship at British yacht】The UK is investigating whether a Russian warship fired a warning shot at a British-registered yacht outside UK territorial waters, the government said. The yacht reported the warship fired from about 500 yards (457m) away; the incident occurred roughly 20 nautical miles (37km) south of the Isle of Wight. There were no injuries or damage. The government described the episode as isolated and said it was not linked to a Sunday military action against a sanctioned tanker. The Ministry of Defence said: \"We are investigating reports of an incident in the English Channel.\""
-    },
-    {
-      "id": "mkt:019ed111-4911-7dd8-b035-cf8cbe126cbb",
-      "time": "2026-06-16 23:33:51",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "Treasury Yields"
-      ],
-      "text": "US 6-week Treasury bill auction to June 16 — stop-out yield 3.60%; previous 3.60%."
-    },
-    {
-      "id": "mkt:019ed110-f189-7dd8-b035-c2184f8ab325",
-      "time": "2026-06-16 23:33:28",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "Treasury Yields",
-        "US10Y",
-        "Impact bearish"
-      ],
-      "text": "U.S. 6-week Treasury auction through June 16: 35.89% of awards at the stop-out yield, vs 26.63% previously."
-    },
-    {
-      "id": "4939114",
-      "time": "2026-06-16 23:33:23",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "WTI原油失守76美元/桶，日內跌4.36%。"
-    },
-    {
-      "id": "mkt:019ed110-82ee-7dd8-b035-bab8847dc202",
-      "time": "2026-06-16 23:33:00",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "Treasury Yields",
-        "US10Y",
-        "Impact bearish",
-        "DXY",
-        "Impact bullish",
-        "XAUUSD"
-      ],
-      "text": "US 6-week Treasury bill auction on June 16: bid-cover ratio 3.12, prior 3.25."
-    },
-    {
-      "id": "4939113",
-      "time": "2026-06-16 23:32:31",
-      "tags": [
-        "宏觀",
-        "市場",
-        "國際"
-      ],
-      "text": "美國財政部拍賣六週期國債，得標利率3.6%，投標倍數3.12。"
     }
   ]
 }
