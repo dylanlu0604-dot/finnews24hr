@@ -1,7 +1,80 @@
 {
-  "updated": "2026-06-23 14:54:37",
-  "count": 17210,
+  "updated": "2026-06-23 14:58:49",
+  "count": 17204,
   "items": [
+    {
+      "id": "4949738",
+      "time": "2026-06-23 14:57:55",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美國已逮捕7名涉白宮格鬥賽襲擊圖謀嫌疑人】美國司法部22日通報，又逮捕兩名涉嫌圖謀在美總統特朗普14日生日當天白宮舉辦終極格鬥賽時發動襲擊的嫌疑人，至此已有7名涉案人員被逮捕。美司法部已於16日公佈對其中5人的指控罪名。（新華社）"
+    },
+    {
+      "id": "4949737",
+      "time": "2026-06-23 14:56:51",
+      "tags": [
+        "其他"
+      ],
+      "text": "【駐墨爾本總領館提醒領區中國公民注意防範車輛、車內物品盜搶案件】6月23日，據“中國駐墨爾本總領事館”公眾號訊息，近期有中國公民向我館反映稱，車輛及車內物品盜搶案件時有發生。駐墨爾本總領館再次提醒領區內中國公民密切關注當地治安，切實增強安全風險意識，養成良好安全習慣。"
+    },
+    {
+      "id": "4949736",
+      "time": "2026-06-23 14:56:50",
+      "tags": [
+        "公司"
+      ],
+      "text": "【三星推出業界最快UFS 5.0賦能端側AI，Q4開始量產】三星電子今天推出業內速度最快的通用快閃記憶體儲存 (UFS) 5.0 解決方案。該方案實現了業界最高的10.8GB/s頻寬，順序讀取速度高達10.8 GB/s，順序寫入速度高達9.5 GB/s，順序讀寫速度較上一代UFS 4.1標準快兩倍以上。三星UFS 5.0方案顯著提升了移動記憶體的儲存和處理速度，同時提高了能效並縮小了封裝尺寸，可提供更佳的裝置端AI體驗。三星將於今年第四季度開始量產UFS 5.0，容量最高可達1TB。"
+    },
+    {
+      "id": "4949735",
+      "time": "2026-06-23 14:56:26",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "滬深兩市成交額超3.4萬億元，較上日此時縮量3050億元。"
+    },
+    {
+      "id": "mkt:019ef343-dd5a-7dd8-b0ce-ef515f2594ff",
+      "time": "2026-06-23 14:56:11",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "Magnificent 7",
+        "Star Stocks",
+        "Alphabet",
+        "Nasdaq100",
+        "Impact bearish",
+        "S&P500"
+      ],
+      "text": "【US futures tumble as megacap tech leads losses】US equity futures fell after a selloff in large tech names spilled into Asian AI-related shares, while investors awaited further progress in US‑Iran talks. Asia tech subindexes reversed an eight-day rally; Japanese and South Korean markets retreated and South Korean stocks dropped nearly 10%. Megacap tech moved in sync — Alphabet weakened and SpaceX slid as IPO enthusiasm cooled, notably for companies still cash‑flow negative yet reported to have raised about $75bn via an IPO. Market sentiment is shifting from last year’s broad AI euphoria toward a proof‑of‑performance phase, with investors demanding that heavy AI infrastructure investment produce returns. Market focus this week is Micron Technology’s earnings call. Gam Investment Management fund manager Jian Shi Cortesi said many investors holding AI names have large gains and may pare positions, and that tech is unusually sensitive to the interest‑rate outlook and potential Fed hikes."
+    },
+    {
+      "id": "4949734",
+      "time": "2026-06-23 14:55:33",
+      "tags": [
+        "其他"
+      ],
+      "text": "據報道，聯發科可能上調天璣 9600 旗艦晶片的價格，目前天璣 9500 晶片售價在 180~200 美元之間，預估天璣 9600 Pro 晶片的售價或達 216 美元，漲幅8%~20%。"
+    },
+    {
+      "id": "4949733",
+      "time": "2026-06-23 14:54:32",
+      "tags": [
+        "公司"
+      ],
+      "text": "【惠威科技等新設智慧科技公司 含AI業務】企查查APP顯示，近日，深圳億界智慧科技有限公司成立，註冊資本3000萬元，經營範圍包含：資訊科技諮詢服務；新興軟體和新型資訊科技服務；資料處理服務；人工智慧應用軟體開發等。企查查股權穿透顯示，該公司由惠威科技全資子公司深圳惠威智慧有限公司等共同持股。"
+    },
+    {
+      "id": "4949732",
+      "time": "2026-06-23 14:54:17",
+      "tags": [
+        "其他"
+      ],
+      "text": "【我國牽頭提出的國際標準提案“車路協同管理平臺安全要求”在國際電信聯盟正式立項】近日，由我國牽頭提出的國際標準提案“車路協同管理平臺安全要求（X.vrcmp-sec：Security requirements for vehicle-road coordination management platform）”在國際電信聯盟（ITU）正式立項，這是我國一項依託團體標準成果成功轉化的國際標準，標誌著我國在車路雲一體化資訊保安領域的技術研究與實踐應用成果獲得國際認可。"
+    },
     {
       "id": "4949731",
       "time": "2026-06-23 14:53:55",
@@ -157747,130 +157820,6 @@
         "Nikkei 225"
       ],
       "text": "UCHIDA, deputy governor at the Bank of Japan, said that as the BOJ raises rates the timing of reaching a neutral rate can only be judged in real time."
-    },
-    {
-      "id": "4937939",
-      "time": "2026-06-16 14:58:44",
-      "tags": [
-        "國際"
-      ],
-      "text": "【外交部：越來越多外國企業研發在中國】6月16日，外交部發言人林劍主持例行記者會。 有記者提問，根據美中貿易委員會近期釋出的報告，80%的受訪美企認為在華運營對其提升全球競爭力“非常重要”或“重要”。此前，中國德國商會發布的創新調查報告也顯示，為加快創新速度並降低成本，德國汽車企業在中國本土進行研發的比例顯著提升。這反映出，政治層面的對華“去風險”、“不公平競爭”等敘事，對外國企業決策的影響似乎有限。請問發言人對此有何評論？ 林劍表示，加強對華合作是機遇還是風險，作為市場主體的企業最有發言權。是尋求保護主義，還是主動擁抱競爭、實現創新發展，企業也用實際行動作出了選擇。 林劍指出，中國完備的產業體系、豐富的應用場景、高素質的人才儲備、持續最佳化的政策環境，為各國企業提供了創新的沃土。越來越多的外國企業選擇“研發在中國”，將在華的製造基地升級為創新的策源地。在中國大市場的“健身房”中強筋健骨，錘鍊提升了國際競爭力。中國將繼續堅定不移地推進高水平對外開放，為外國企業“在中國創造”提供更多的支援和便利。（北京日報）"
-    },
-    {
-      "id": "4937938",
-      "time": "2026-06-16 14:58:28",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "日本央行內田真一：我們只能在加息過程中研判何時達到中性利率。"
-    },
-    {
-      "id": "4937937",
-      "time": "2026-06-16 14:58:14",
-      "tags": [
-        "其他"
-      ],
-      "text": "【英集芯正式釋出IP3652高速交叉開關晶片】近日，英集芯正式釋出IP3652高速交叉開關晶片。IP3652是一款6:4差分10Gbps雙向高速交叉開關，支援將USB Type-C介面在USB 3.2 Gen2與DisplayPort 2.1 UHBR10訊號之間進行靈活路由。IP3652的釋出，標誌著英集芯Type-C介面產品線，從電源管理進一步拓展至高速訊號處理領域，持續完善在USB-C生態佈局。"
-    },
-    {
-      "id": "4937936",
-      "time": "2026-06-16 14:57:31",
-      "tags": [
-        "其他"
-      ],
-      "text": "巴克萊銀行就石油市場發表看法：在我們的基準情景下，我們預測2026年第三季度將出現小幅供應缺口，因為週期性需求動能正處於2022年以來最強水平。"
-    },
-    {
-      "id": "mkt:019ecf38-75b7-7dd8-b024-00ba29ac0a16",
-      "time": "2026-06-16 14:57:24",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "Barclays: In its base-case forecast, cyclical demand is the strongest since 2022 and it expects a modest oil supply deficit in Q3 2026."
-    },
-    {
-      "id": "mkt:019ecf38-3218-7dd8-b023-fab0f28cb27d",
-      "time": "2026-06-16 14:57:06",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Brent"
-      ],
-      "text": "Barclays: Restoration of freedom of navigation through the Strait of Hormuz may occur broadly in line with its end-June baseline for oil."
-    },
-    {
-      "id": "4937935",
-      "time": "2026-06-16 14:56:47",
-      "tags": [
-        "其他"
-      ],
-      "text": "巴克萊資本關於油價的觀點：霍爾木茲海峽航行自由恢復的時間節點，大體上可能符合我們對6月底做出的基準預測。"
-    },
-    {
-      "id": "4937934",
-      "time": "2026-06-16 14:56:04",
-      "tags": [
-        "其他"
-      ],
-      "text": "巴克萊：維持2026年布倫特原油每桶100美元的價格預測。"
-    },
-    {
-      "id": "4937933",
-      "time": "2026-06-16 14:55:56",
-      "tags": [
-        "公司"
-      ],
-      "text": "【海康威視證券部工作人員：“公司硬碟產品將漲價”訊息屬實】有訊息稱，海康威視（002415.SZ）已向經銷商下發硬碟調價函：自今年7月1日起，公司硬碟產品的價格將進行上調。今日，紅星資本局以投資者身份致電海康威視證券部，其工作人員確認這一訊息屬實，但並未透露具體漲幅。"
-    },
-    {
-      "id": "4937932",
-      "time": "2026-06-16 14:55:20",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "滬深兩市成交額超3萬億元，較上日此時放量194億元。"
-    },
-    {
-      "id": "4937931",
-      "time": "2026-06-16 14:55:19",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "日本央行內田真一：鑑於匯率對經濟和物價的影響，央行在每次貨幣政策會議上都會討論匯率問題。"
-    },
-    {
-      "id": "4937930",
-      "time": "2026-06-16 14:55:04",
-      "tags": [
-        "其他"
-      ],
-      "text": "【瑞銀：中國網際網路資料中心行業處於需求拐點，首選萬國資料及世紀互聯】瑞銀髮表研報指，基於強勁的需求訊號，隨著高階計算供應潛在緩解，預計中國網際網路資料中心(IDC)行業將從2026年下半年開始顯著加速。中國擁有高度整合的全國性電網和電信網路，該行認為這將為AI驅動的需求提供支撐，並視萬國資料與世紀互聯為行業首選。該行因應更好的供需能見度上調行業預測，將2026至2028年的已利用IT電力淨新增預測分別上調4%、25%及22%，至4.0吉瓦、5.8吉瓦及6.7吉瓦，預計到2028年總已利用IT電力將達到31吉瓦，意味著複合年均增長率達25%以上。瑞銀資料顯示，IDC利用率上升趨勢保持韌性，在token需求強勁及國產晶片產量提升的指引下，大型雲服務商的訂單積壓已延伸至2027年下半年。"
-    },
-    {
-      "id": "4937929",
-      "time": "2026-06-16 14:54:52",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "日本央行副行長內田真一：外匯對物價的影響比以往更大。"
-    },
-    {
-      "id": "4937928",
-      "time": "2026-06-16 14:54:48",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "日本央行內田真一：貨幣政策的目標並非調控匯率水平。"
     }
   ]
 }
