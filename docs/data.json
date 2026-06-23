@@ -1,7 +1,81 @@
 {
-  "updated": "2026-06-23 15:24:54",
-  "count": 17175,
+  "updated": "2026-06-23 15:29:27",
+  "count": 17168,
   "items": [
+    {
+      "id": "4949802",
+      "time": "2026-06-23 15:28:19",
+      "tags": [
+        "市場"
+      ],
+      "text": "【北京黃金經濟發展研究中心宣告：此前歷年核發的研究員聘書全部廢止】2026年6月23日，北京黃金經濟發展研究中心釋出宣告稱，該中心全國研究員公開招募及規範化聘任工作已正式啟動並全面落地實施。自本宣告發布之日起，中心此前歷年核發的所有研究員聘書、資質證明及相關任職憑證全部廢止，不再具備任何官方效力及資質證明作用。"
+    },
+    {
+      "id": "4949801",
+      "time": "2026-06-23 15:27:36",
+      "tags": [
+        "其他",
+        "國際"
+      ],
+      "text": "立陶宛總理魯吉尼埃內23日宣佈辭職。根據安排，立陶宛將啟動新內閣組建程式。（新華社）"
+    },
+    {
+      "id": "4949800",
+      "time": "2026-06-23 15:27:26",
+      "tags": [
+        "公司"
+      ],
+      "text": "【超 Claude Mythos 5 成績：OpenAI 最強“抓蟲 AI”GPT-5.5-Cyber 重新整理 CyberGym 紀錄】OpenAI 公司昨日（6 月 22 日）釋出公告，宣佈擴充套件 Daybreak 網路安全專案，面向安全防禦團隊有限開放完整版 GPT-5.5-Cyber（網路安全專用模型）。OpenAI 在博文中指出，強大 AI 模型顯著加快漏洞發現速度，目前行業的痛點和瓶頸，已轉向修復這些披露的漏洞。對於軟體團隊而言，評估影響、編寫修復程式碼、完成測試，並最終釋出補丁，整個鏈條依然耗時。模型能力方面，根據 CyberGym（網路安全評測集）的單模型成績，GPT-5.5-Cyber 取得 85.6% 的最高成績，重新整理了 GPT 系列模型在 CyberGym 測試中的得分紀錄。作為對比，GPT-5.5 模型得分為 81.8%，而 Claude Mythos 5 模型的得分為 83.8%。"
+    },
+    {
+      "id": "4949799",
+      "time": "2026-06-23 15:26:31",
+      "tags": [
+        "公司"
+      ],
+      "text": "【海爾集團在上海成立新公司 註冊資本3000萬】天眼查App顯示，近日，盈康一生（上海）企業發展有限公司成立，法定代表人為龔雯雯，註冊資本3000萬人民幣，經營範圍包括企業總部管理，技術服務、技術開發、技術諮詢、技術交流、技術轉讓、技術推廣等，由海爾集團（青島）金盈控股有限公司全資持股。"
+    },
+    {
+      "id": "4949798",
+      "time": "2026-06-23 15:26:17",
+      "tags": [
+        "其他"
+      ],
+      "text": "蔚來：6月23日，第9,000座蔚來充換電站於陝西安康正式上線，蔚來已建成充換電站9,003座，累計提供充換電服務超2億次。"
+    },
+    {
+      "id": "mkt:019ef35f-4633-7dd8-b0cf-f6ef4beb76e7",
+      "time": "2026-06-23 15:26:07",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【World's first 100,000-ton-class salmon farming vessel Suhai 1 begins first commercial harvest】June 23 — The world's first 100,000-ton-class salmon farming vessel Suhai 1 began its first commercial harvest in Weihai, Shandong. Commissioned for operation at end-2025, the vessel stocked land‑reared juveniles and fattened them in a natural deep‑cold sea environment. Suhai 1 contains 15 closed farming pens with about 83,000 m3 of effective culture water and uses a full-ship intelligent control system for environment monitoring, centralized automatic feeding and ship‑shore integrated management. Its roaming production model follows water temperatures and is designed to avoid typhoon and red tide risks."
+    },
+    {
+      "id": "mkt:019ef35e-cf09-7dd8-b0cf-ed6991a30d04",
+      "time": "2026-06-23 15:25:37",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iranian President PEZESHKIAN said on Tuesday, ahead of his departure for Pakistan, that Tehran is seeking full implementation of a memorandum of understanding with the United States; if all terms are implemented, many regional issues would be resolved."
+    },
+    {
+      "id": "4949797",
+      "time": "2026-06-23 15:24:36",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【印度最大股票基金逆勢佈局 買入重挫的IT股票】投資者擔心人工智慧將衝擊外包行業之際，印度規模最大的主動管理型股票基金卻逆勢佈局，買入暴跌的IT股票。截至5月的過去三個月，PPFAS Mutual Fund旗下規模達149億美元的Flexi Cap Fund增持了估值大幅回落的IT服務公司股票。根據股票首席投資總監Rajeev Thakkar，該基金還買入了金融、公用事業和煤炭開採等行業的股票，同時將此前投資於債券和貨幣市場工具的現金投入市場。“市場上有種悲觀情緒認為，所有工作都會被帶回企業內部，不再需要外包，或這些模型將高效到能夠端到端完成所有任務，不再需要人類參與 —— 我認為這種看法並不現實，”他在6月11日的一次採訪中說道。"
+    },
+    {
+      "id": "4949796",
+      "time": "2026-06-23 15:24:28",
+      "tags": [
+        "公司"
+      ],
+      "text": "【三星HBM4銷售額破10億美元，瑞銀看好半導體超級週期永續性】AI算力需求激增正強力拉動高階儲存晶片市場，三星電子第六代高頻寬記憶體（HBM4）銷售額已強勢突破10億美元大關。在供不應求的背景下，儲存晶片漲價預期持續升溫，據悉三星早前與客戶商討將HBM4價格上調約30%。瑞銀表示，人工智慧帶動的記憶體和邏輯晶片產能擴張，是本輪半導體超級週期的核心力量，部分客戶已經開始向裝置供應商提供8個季度的需求能見度，這意味著半導體裝置端的景氣週期可能遠比市場預期的持久。"
+    },
     {
       "id": "4949795",
       "time": "2026-06-23 15:23:40",
@@ -157364,166 +157438,6 @@
         "Importance 1"
       ],
       "text": "The CAC 40 Index Opens 0.34% Higher — The CAC 40 Index is up by 29 points or 0.34 percent on Tuesday. Top gainers are Schneider Electric (1.94%), Safran (1.83%) and Thales (1.63%). Biggest losses came from STMicroelectronics (-3.77%), Renault (-0.99%) and Kering (-0.86%)."
-    },
-    {
-      "id": "mkt:019ecf55-bb90-7dd8-b025-fa85bee99163",
-      "time": "2026-06-16 15:29:22",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC",
-        "USDJPY",
-        "Impact bullish",
-        "Nikkei 225",
-        "DXY",
-        "Impact mixed"
-      ],
-      "text": "Bank of Japan Deputy Governor UCHIDA said annual JGB purchases of JPY 2 tln will remain sufficient to adjust the BOJ's balance sheet."
-    },
-    {
-      "id": "4938009",
-      "time": "2026-06-16 15:29:13",
-      "tags": [
-        "市場",
-        "央行",
-        "國際"
-      ],
-      "text": "日本央行內田真一：每年2萬億日元的日本國債購買規模仍足以對資產負債表進行適度調整。"
-    },
-    {
-      "id": "mkt:019ecf55-96ac-7dd8-b025-f02d995c5d7a",
-      "time": "2026-06-16 15:29:13",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Vahid, a member of Iran's National Security and Foreign Policy Council, said past experience is still visible and Iran should not enter dialogue with excessive optimism; national interests and safeguards must be prioritized."
-    },
-    {
-      "id": "te:markets:559271",
-      "time": "2026-06-16 15:29:10",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United Kingdom",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "FTSE 100 Trades Cautiously Higher — The FTSE 100 traded flat to slightly higher on Tuesday, following a 0.4% decline in the previous session, as investors awaited more details on the US-Iran agreement that could pave the way for the reopening of the Strait of Hormuz. Among major index constituents, Rolls-Royce and submarine contractor Babcock gained more than 2% each, while banks including HSBC Holdings, Lloyds Banking Group and Barclays rose around 0.4% to 0.6%. Markets are also focused on a busy UK data calendar this week, with inflation, employment and retail sales figures due, alongside the Bank of England interest rate decision and the Makerfield by-election on Thursday. Elsewhere, the Bank of Japan raised interest rates as expected, while the Reserve Bank of Australia kept its policy unchanged."
-    },
-    {
-      "id": "4938008",
-      "time": "2026-06-16 15:28:11",
-      "tags": [
-        "公司"
-      ],
-      "text": "【深圳華強成立智算技術公司 註冊資本5000萬】天眼查App顯示，近日，深圳華強智算技術有限公司成立，法定代表人為汪小紅，註冊資本5000萬人民幣，經營範圍包括人工智慧硬體銷售、人工智慧行業應用系統整合服務、資料處理和儲存支援服務、雲端計算裝置製造等。股東資訊顯示，該公司由深圳華強（000062）全資持股。"
-    },
-    {
-      "id": "4938007",
-      "time": "2026-06-16 15:28:04",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【九方智投獲2026年度上海市防範打擊非法金融活動宣傳作品優秀獎】近日，由上海市金融風險防範處置工作機制主辦，市金融穩定發展研究中心、市金融工會、市金融團工委共同承辦的2026年度上海市防範打擊非法金融活動宣傳作品專項立功競賽獲獎名單公佈。九方智投控股旗下上海九方雲智慧科技有限公司（簡稱“九方智投”）報送的影片作品《“金”險重重》獲評影片組優秀獎，為證券投資諮詢行業唯一獲獎機構。作品緊扣當下火熱的“黃金投資騙局”，透過真實案例的情景化演繹生動揭示了騙局的常見手法、關鍵話術，對廣大投資者起到了深刻的警示作用。此次獲獎是對九方智投在投資者教育領域專業能力與社會擔當的權威認可。未來，公司將持續加大防非打非宣教作品等投教作品的創作與傳播，引導廣大投資者樹立理性投資理財觀，助力維護本市良好經濟金融秩序與社會穩定。"
-    },
-    {
-      "id": "mkt:019ecf54-5577-7dd8-b025-ed244c622a0c",
-      "time": "2026-06-16 15:27:50",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bearish",
-        "Brent",
-        "S&P500",
-        "Impact bullish"
-      ],
-      "text": "Iranian foreign minister Araghchi said a new round of US-Iran talks will begin on Friday in Switzerland."
-    },
-    {
-      "id": "te:markets:559270",
-      "time": "2026-06-16 15:27:41",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Euro Area",
-        "Stock Market",
-        "Importance 2"
-      ],
-      "text": "European Stocks Hit New Highs — Stocks in Europe edged higher on Tuesday, with both the STOXX 50 and STOXX 600 gaining 0.3%, extending the record highs reached in the previous session. Investors continued to assess the preliminary agreement between the US and Iran aimed at ending the conflict and reopening the Strait of Hormuz. Meanwhile, the Bank of Japan raised borrowing costs as widely expected, while the Reserve Bank of Australia left interest rates unchanged. Market attention is also turning to this week's policy decisions from the Fed and the Bank of England while other central banks in Europe including Switzerland, Norway and Sweden will also decide on monetary policy. Industrials and financials were among the top performers."
-    },
-    {
-      "id": "4938006",
-      "time": "2026-06-16 15:27:37",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗外長阿拉格齊表示，新一輪美伊談判將於週五在瑞士啟動。"
-    },
-    {
-      "id": "4938005",
-      "time": "2026-06-16 15:27:10",
-      "tags": [
-        "央行",
-        "市場"
-      ],
-      "text": "【英國央行利率決定及英國經濟資料釋出在即，英國國債收益率持穩】投資者等待定於週四公佈的英國央行利率決定之際，英國國債收益率幾乎沒有變化。市場普遍預計英國央行將把利率維持在3.75%不變，但將關注投票分歧以及英國央行的任何溝通，以獲得有關未來加息可能日期的線索。投資者還在等待分別定於週三和週四公佈的英國通脹資料和就業資料，以深入瞭解英國經濟狀況。Tradeweb資料顯示，10年期英國國債收益率持穩於4.813%。"
-    },
-    {
-      "id": "mkt:019ecf53-a05a-7dd8-b025-e6599a7a2cd1",
-      "time": "2026-06-16 15:27:04",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Iranian foreign minister Araghchi said Lebanon is included in the memorandum of understanding signed with Washington."
-    },
-    {
-      "id": "4938004",
-      "time": "2026-06-16 15:25:50",
-      "tags": [
-        "宏觀",
-        "市場"
-      ],
-      "text": "財政部：6月17日將招標發行200億元91天貼現國債，6月24日將招標發行850億元30年期超長期特別國債和1600億元2年期記賬式附息國債。（財政部）"
-    },
-    {
-      "id": "4938003",
-      "time": "2026-06-16 15:25:48",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【軟銀與OpenAI將在日本推出AI網路安全服務】6月16日，據報道，軟銀創始人兼執行長孫正義在新聞釋出會上表示，軟銀與OpenAI將為企業客戶提供“補丁即服務（patching as a service）”。該服務將幫助企業評估安全漏洞，以保障關鍵基礎設施的安全。孫正義表示：“利用先進AI發起的網路攻擊將日益猖獗。我們決心利用最前沿的AI技術來抵禦這些攻擊。”"
-    },
-    {
-      "id": "mkt:019ecf52-6cbd-7dd8-b025-dbe6eaf05ab9",
-      "time": "2026-06-16 15:25:45",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "CNH"
-      ],
-      "text": "China's Ministry of Finance said it will auction CNY 20 bln of 91-day discounted treasury bonds on June 17, and on June 24 will auction CNY 85 bln of 30-year ultra-long special government bonds and CNY 160 bln of 2-year book-entry coupon-bearing government bonds."
-    },
-    {
-      "id": "mkt:019ecf52-43fe-7dd8-b025-d2531398b73c",
-      "time": "2026-06-16 15:25:35",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC"
-      ],
-      "text": "Bank of Japan Deputy Governor UCHIDA declined to comment on routine market fluctuations."
-    },
-    {
-      "id": "4938002",
-      "time": "2026-06-16 15:25:03",
-      "tags": [
-        "公司",
-        "其他"
-      ],
-      "text": "【“Agent社群”覓遊公測，由美團基礎研發平臺AI原生團隊孵化】6月15日，主打“AI智慧體”自主學習、成長的“Agent社群”覓遊面向全量使用者開放公測。使用者透過關聯包括“龍蝦”在內的各類AI智慧體，可實現“賽博養成”，讓AI智慧體自行成長。"
     }
   ]
 }
