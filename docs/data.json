@@ -1,7 +1,198 @@
 {
-  "updated": "2026-06-23 14:58:49",
-  "count": 17204,
+  "updated": "2026-06-23 15:03:32",
+  "count": 17195,
   "items": [
+    {
+      "id": "4949750",
+      "time": "2026-06-23 15:02:14",
+      "tags": [
+        "市場"
+      ],
+      "text": "日元對美元大幅走強。"
+    },
+    {
+      "id": "4949749",
+      "time": "2026-06-23 15:02:08",
+      "tags": [
+        "其他"
+      ],
+      "text": "【兩部門：國產小客車能“當天買車，當天上牌”】今天（23日），工業和資訊化部辦公廳、公安部辦公廳聯合印發通知，今後，機動車合格證資訊實現了實時共享，國產小客車能“當天購車，當天繳稅，當天上牌”。據瞭解，這一新模式最大的變化是機動車合格證資訊能夠在工信部門和公安部門之間實時共享，實現資料“秒級”傳送，進一步提升了購車上牌效率。相關負責人表示，這次政策除了提升兩部門資料交換效率外，針對國產小客車，兩部門進一步擴充共享內容、最佳化共享模式，為企業提供了統一介面上傳的選擇。企業可以向工信部門統一傳輸合格證、預查驗資訊，並共享至公安部門，資料交換效率得到有效提升。同時，兩部門壓減了車輛標準照片的數量，也不再要求提供紙質資料，降低企業的運營成本，預計每年將有超過2000萬輛車享受到這一便利。（央視新聞）"
+    },
+    {
+      "id": "4949748",
+      "time": "2026-06-23 15:01:48",
+      "tags": [
+        "其他"
+      ],
+      "text": "【ETF兩市成交額報4892.26億元，較昨日此時縮量230.96億元】截至目前，ETF兩市成交額報4892.26億元，較昨日此時縮量230.96億元，分型別來看，股票型ETF成交額2089.04億元，債券型ETF成交額1567.5億元，貨幣型ETF成交額239.95億元，商品型ETF成交額80.04億元，QDII型ETF成交額915.73億元。"
+    },
+    {
+      "id": "4949747",
+      "time": "2026-06-23 15:01:43",
+      "tags": [
+        "市場"
+      ],
+      "text": "意法半導體米蘭上市股票開盤暫停交易，顯示下跌5.2%。"
+    },
+    {
+      "id": "te:markets:561047",
+      "time": "2026-06-23 15:01:39",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Italy",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "Enel Stock Price Hits 12-week Low — Enel shares decreased to 9.32 EUR, the lowest since March 2026. Over the past 4 weeks, Enel gained 0.02%, and in the last 12 months, it increased 21.21%."
+    },
+    {
+      "id": "mkt:019ef348-d30d-7dd8-b0cf-146663743fff",
+      "time": "2026-06-23 15:01:36",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "DAX",
+        "Impact bearish",
+        "FTSE100"
+      ],
+      "text": "At the open on Tuesday, June 23, European equities fell: Germany's DAX 30 down 286.61 points (-1.14%) at 24,864.87; Britain's FTSE 100 down 63.44 points (-0.61%) at 10,374.41; France's CAC 40 down 68.42 points (-0.81%) at 8,331.69; Euro STOXX 50 down 67.27 points (-1.07%) at 6,244.05; Spain's IBEX 35 down 72.38 points (-0.37%) at 19,502.92; Italy's FTSE MIB down 475.28 points (-0.90%) at 52,321.50."
+    },
+    {
+      "id": "mkt:019ef348-9936-7dd8-b0cf-0fd9b7c22b31",
+      "time": "2026-06-23 15:01:21",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals"
+      ],
+      "text": "【International spot platinum and palladium midday quotes】Spot platinum down 2.58% and spot palladium down 3.32% at 15:00 Beijing time."
+    },
+    {
+      "id": "mkt:019ef348-8f07-7dd8-b0cf-06dda16dba68",
+      "time": "2026-06-23 15:01:19",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bearish",
+        "SSE Composite"
+      ],
+      "text": "【Equity index futures midday close】CSI 300 index futures (IF) main contract fell 3.27% at midday; SSE 50 index futures (IH) main contract down 3.05%; CSI 500 index futures (IC) main contract down 2.08%; CSI 1000 index futures (IM) main contract down 1.39%."
+    },
+    {
+      "id": "4949746",
+      "time": "2026-06-23 15:01:17",
+      "tags": [
+        "市場"
+      ],
+      "text": "【ETF收評：科創創新藥ETF領漲3.63%，有色ETF領跌9.03%】ETF收盤漲跌不一，科創創新藥ETF（589120）領漲3.63%，碳中和ETF（159642）漲3.29%，科創創新藥ETF（589720）漲2.96%，有色ETF（159168）領跌9.03%，工業有色ETF（159171）跌8.9%，有色礦業ETF（159690）跌8.88%。"
+    },
+    {
+      "id": "mkt:019ef348-6d75-7dd8-b0ce-fa498d0cc97a",
+      "time": "2026-06-23 15:01:10",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals",
+        "Industrial Metals",
+        "Energy",
+        "Copper",
+        "Impact bearish",
+        "WTI",
+        "Brent"
+      ],
+      "text": "At the midday close, China’s main commodity futures were mostly lower. SHFE silver fell more than 6%; low-sulfur fuel oil (LU), LPG, fuel oil, coke, propylene and SHFE tin dropped over 4%; asphalt and Shanghai crude (SC) fell nearly 4%. Rapeseed meal rose more than 1%, while DCE Soybean No.1 and apples gained about 1%."
+    },
+    {
+      "id": "4949745",
+      "time": "2026-06-23 15:01:02",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "A股收盤，上證指數跌1.37%，深證成指跌3.17%，創業板指跌3.84%。"
+    },
+    {
+      "id": "4949744",
+      "time": "2026-06-23 15:00:59",
+      "tags": [
+        "市場",
+        "觀點",
+        "焦點",
+        "A股"
+      ],
+      "text": "【收評：創業板指縮量調整跌3.84%，醫藥股爆發，有色金屬板塊重挫】A股三大指數今日集體下跌，截至收盤，上證指數跌1.37%，深證成指跌3.17%，創業板指跌3.84%，北證50漲0.77%，科創50指數跌1.68%。全市場成交額34660億元，較上日成交額縮量2961億元，全市場超2600只個股下跌。板塊題材上，生物醫藥、銀行、旅遊及酒店、公路鐵路運輸、豬肉、證券、房地產板塊漲幅居前；貴金屬、小金屬、工業金屬、元件、PCB概念、CPO、光伏裝置、電池板塊跌幅居前。盤面上，由於通脹擔憂蓋過市場早前對美伊談判進展的樂觀情緒，國際金價和銀價價格下跌，金屬相關板塊集體重挫，國城礦業、中國稀土、章源鎢業、中金黃金、興業銀錫多股盤中跌停。PCB、CPO等算力硬體股同樣出現顯著調整，光華科技、超聲電子等股封死跌停，德福科技、南亞新材、強瑞技術跌超10%。此外，電池、光伏裝置、商業航天等板塊同樣表現不佳。另一方面，生物醫藥行業今日集體爆發，新華製藥、海南海藥、亞太藥業等10餘股收穫漲停。銀行、豬肉等防禦板塊同樣有所表現。"
+    },
+    {
+      "id": "mkt:019ef348-3b0f-7dd8-b0ce-f1389df393ca",
+      "time": "2026-06-23 15:00:57",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Europe & UK",
+        "DAX",
+        "Impact bearish",
+        "FTSE100"
+      ],
+      "text": "European equities opened lower: Euro STOXX 50 down >1%, Germany's DAX down 1.2%, UK's FTSE 100 down 0.67%."
+    },
+    {
+      "id": "4949743",
+      "time": "2026-06-23 15:00:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "【股指期貨午盤收盤】 中證1000指數期貨連續跌1.39%， 滬深300指數期貨連續跌3.27%， 中證500指數期貨連續跌2.08%， 上證50指數期貨連續跌3.05%。"
+    },
+    {
+      "id": "4949742",
+      "time": "2026-06-23 15:00:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "歐股開盤漲跌不一，德國DAX指數漲0.62%，英國富時100指數漲0.72%，法國CAC40指數跌0.25%，歐洲斯托克50指數漲0.29%，義大利富時MIB指數跌0.1%。"
+    },
+    {
+      "id": "4949741",
+      "time": "2026-06-23 15:00:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "【商品期貨收盤】白銀連續跌6.06%，低硫燃料油連續跌4.73%，燃料油連續跌4.32%，丙烯連續跌4.19%，液化石油氣連續跌4.15%。"
+    },
+    {
+      "id": "4949740",
+      "time": "2026-06-23 14:59:46",
+      "tags": [
+        "公司"
+      ],
+      "text": "【江南春卸任分眾傳媒法定代表人】天眼查App顯示，近日，分眾傳媒（002027）發生工商變更，江南春（JIANG NANCHUN）卸任法定代表人，由杭璇接任。該公司成立於1997年8月，註冊資本約144.4億人民幣，經營範圍包括資訊科技諮詢服務、軟體開發、計算機系統服務等，由Media Management Hong Kong Limited、杭州灝月企業管理有限公司、香港中央結算有限公司等共同持股。"
+    },
+    {
+      "id": "4949739",
+      "time": "2026-06-23 14:58:44",
+      "tags": [
+        "公司"
+      ],
+      "text": "【訊息稱SK海力士調整HBM4量產步伐，擬重新分配資源至通用DRAM】據報道，SK海力士正加大力度開拓通用DRAM市場，同時調整第六代高頻寬記憶體（HBM4）的量產步伐。該公司表示，由於HBM已佔其營收的40%以上，並佔據絕對優勢，因此正在重新分配資源，以確保從供應嚴重短缺的通用DRAM市場獲得更多營收，而不是盲目地進行產能擴張。據業內人士23日透露，SK海力士似乎略微推遲了部分原計劃升級至HBM4的第五代HBM（HBM3E）生產線的改造。此舉旨在提升目前利潤率高於HBM的通用DRAM市場的響應速度，以確保額外收入。此外，市場傳聞SK海力士與微軟簽訂的三年期DDR5供應合同也被解讀為確保DRAM長期盈利的舉措。"
+    },
+    {
+      "id": "te:economy:561046",
+      "time": "2026-06-23 14:58:21",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "France",
+        "Business Confidence",
+        "Importance 2"
+      ],
+      "text": "France Manufacturing Sentiment Weakens — France’s manufacturing business climate index fell to 100 in June 2026 from 102 in May and below expectations of 101. While the general production outlook improved slightly to -15 from -17, it remained negative. Personal production expectations also weakened to 2 from 4, and expected staffing was flat at 0, signaling muted hiring intentions. There was also a sharp drop in past production to 3 from 14, while order conditions were broadly stable, with global order books unchanged at -14 and foreign order books edging down to -11 from -10, though both remained above long-term averages. Meanwhile, price pressures eased, with expected selling prices declining to 19 from 22, and perceived economic uncertainty falling to 32 from 37. Finished-goods inventories rose slightly to 14 from 13, indicating modest stock rebuilding. Labour market indicators were steady overall, with past staffing unchanged at -2, suggesting broadly stable employment conditions."
+    },
     {
       "id": "4949738",
       "time": "2026-06-23 14:57:55",
@@ -157544,282 +157735,6 @@
         "Importance 1"
       ],
       "text": "Coal Retreats on US-Iran Peace Prospects — Thermal coal futures fell to around $146 per ton, retreating from near three-year highs as expectations of an imminent peace agreement between the US and Iran weighed on oil and natural gas prices, reducing incentives for fuel switching. The two countries are expected to sign the deal in Switzerland on June 19, with reports indicating it includes the reopening of the vital Strait of Hormuz, through which roughly one-fifth of global energy supplies flowed before the conflict erupted. The prolonged disruption had prompted energy importers across Asia and Europe to seek alternatives to Persian Gulf natural gas, with Japan and South Korea notably increasing coal consumption during the war. Meanwhile, coal prices had surged to multi-year highs earlier this month after Indonesia tightened export controls on key commodities, a move expected to delay coal shipments from the world's largest exporter."
-    },
-    {
-      "id": "4937954",
-      "time": "2026-06-16 15:03:15",
-      "tags": [
-        "市場"
-      ],
-      "text": "意法半導體米蘭上市股票早盤下跌2.6%。"
-    },
-    {
-      "id": "mkt:019ecf3d-b18f-7dd8-b024-6f40c0e3bad6",
-      "time": "2026-06-16 15:03:07",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Bank of Korea minutes: one member who voted for the May 28 rate hike said inf risks are rising and rising household debt is a concern."
-    },
-    {
-      "id": "4937953",
-      "time": "2026-06-16 15:03:03",
-      "tags": [
-        "其他"
-      ],
-      "text": "【四部門印發通知 將支援海洋經濟發展促進就業創業】日前，人力資源社會保障部、自然資源部、國家發展改革委、交通運輸部等4部門印發通知，將支援海洋經濟發展，促進就業創業。穩定擴大海洋傳統產業就業規模，培育發展現代漁業產業，支援有條件的地方建設現代化海洋牧場、遠洋漁業基地等，加快推進港航基礎設施現代化，加力挖潛涉海就業空間。創新培育海洋新興產業就業增長點，培育壯大海洋藥物和生物製品產業，加強能源勘查、海水淡化、深海勘探開發、海洋藥物和生物製品等領域新職業的開發、申報和認定。支援發展海洋服務業新業態新模式，推出海洋文化和創意產品，打造高質量旅遊品牌，大力發展航運金融、保險仲裁等現代航運服務業，支援發展高階航運人才叢集，拓寬職業發展渠道。落實就業創業扶持政策，支援航運企業加強自有船員隊伍建設，對新招用符合條件人員就業的，按規定落實稅收優惠、社保補貼等政策，對不裁員、少裁員的用人單位，按規定落實穩崗返還、穩崗擴崗專項貸款等政策。（央視新聞）"
-    },
-    {
-      "id": "mkt:019ecf3d-75df-7dd8-b024-63ad5ea5d785",
-      "time": "2026-06-16 15:02:51",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Shanghai, Shenzhen turnover CNY 3.065 tln; Zhongji Xuchuang tops turnover】Shanghai and Shenzhen bourses traded CNY 3.065 tln on June 16, up CNY 33.50 bln from the prior session. Shanghai turnover was CNY 1.370 tln with trading volume 616m lots (prior session: CNY 1.404 tln, 679m lots). Shenzhen turnover was CNY 1.695 tln with volume 755m lots (prior session: CNY 1.628 tln, 757m lots). Zhongji Xuchuang led stocks by turnover at CNY 29.09 bln, followed by Dongshan Precision CNY 24.94 bln, Hengtong Optic‑Electric CNY 23.77 bln, GigaDevice CNY 22.67 bln and Xinyisheng CNY 22.25 bln."
-    },
-    {
-      "id": "4937952",
-      "time": "2026-06-16 15:02:41",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "韓國央行會議紀要：5 月 28 日投票支援加息的一名理事會委員表示，通脹風險正在加劇，家庭債務攀升令人擔憂。"
-    },
-    {
-      "id": "mkt:019ecf3d-2e6f-7dd8-b024-5bc22c283fa4",
-      "time": "2026-06-16 15:02:33",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC",
-        "USDJPY",
-        "Impact bullish",
-        "Nikkei 225"
-      ],
-      "text": "Bank of Japan Deputy Governor UCHIDA said despite rate hikes, Japan's financial conditions remain accommodative."
-    },
-    {
-      "id": "4937951",
-      "time": "2026-06-16 15:02:05",
-      "tags": [
-        "其他"
-      ],
-      "text": "【新任國防部新聞發言人陳曦亮相】在今天的國防部例行記者會上，新任國防部新聞發言人陳曦亮相。陳曦表示：“我將與各位媒體朋友真誠溝通、共同努力，讓世界更好地認識可愛的中國軍人、瞭解真實的中國軍隊、相信可靠的中國力量。”"
-    },
-    {
-      "id": "mkt:019ecf3c-b4e9-7dd8-b024-53dc8338142b",
-      "time": "2026-06-16 15:02:02",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK",
-        "EURUSD",
-        "Impact bullish",
-        "DXY",
-        "Impact bearish"
-      ],
-      "text": "Spain Q1 labour costs rose 4.9% YoY, up from 3.8% previously."
-    },
-    {
-      "id": "mkt:019ecf3c-a1b1-7dd8-b024-4a20cf624dd9",
-      "time": "2026-06-16 15:01:57",
-      "tags": [
-        "MKT News",
-        "DAX",
-        "Impact bullish",
-        "FTSE100"
-      ],
-      "text": "European stocks opened higher on June 16: Germany's DAX 30 +46.08 pts (+0.19%) at 24,949.50; UK's FTSE 100 +9.72 pts (+0.09%) at 10,440.34; France's CAC 40 +23.44 pts (+0.28%) at 8,407.45; STOXX 50 +17.52 pts (+0.28%) at 6,246.95; Spain's IBEX 35 +36.81 pts (+0.19%) at 19,068.81; Italy's FTSE MIB +224.55 pts (+0.43%) at 52,060.50."
-    },
-    {
-      "id": "mkt:019ecf3c-8ef4-7dd8-b024-408500e97da7",
-      "time": "2026-06-16 15:01:52",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "Spain | Labor Cost (YoY) (Q1) | actual 4.9% | previous 3.80%"
-    },
-    {
-      "id": "mkt:019ecf3c-80d9-7dd8-b024-3a40ab88cf9d",
-      "time": "2026-06-16 15:01:49",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "IC",
-        "Impact bullish",
-        "IM",
-        "IH",
-        "Impact bearish"
-      ],
-      "text": "【Index futures midday close】At midday, main contract for CSI 300 futures (IF) rose 0.21%; SSE 50 futures (IH) fell 0.68%; CSI 500 futures (IC) rose 1.44%; CSI 1000 futures (IM) rose 1.76%."
-    },
-    {
-      "id": "4937950",
-      "time": "2026-06-16 15:01:44",
-      "tags": [
-        "市場"
-      ],
-      "text": "【ETF收評：G60創新ETF領漲5.70%，創業板ETF領跌10.65%】ETF收盤漲跌不一，G60創新ETF（510770）領漲5.70%，科創100增強ETF（588500）漲4.69%，儲能電池ETF（159305）漲4.41%，創業板ETF（159971）領跌10.65%，物流ETF（516530）跌3.2%，油氣ETF（159309）跌3.18%。"
-    },
-    {
-      "id": "mkt:019ecf3c-60c3-7dd8-b024-34772107500e",
-      "time": "2026-06-16 15:01:41",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Precious Metals",
-        "Industrial Metals",
-        "XAUUSD",
-        "Impact bullish"
-      ],
-      "text": "At midday close in China, front-month futures were mostly lower: polysilicon down over 7%; methanol and propylene down more than 5%; ethylene glycol (EG), polypropylene, low-sulfur fuel oil (LU) and asphalt down over 4%. On the upside, stainless steel (SS) rose over 3%; 20# rubber nearly 3%; rubber up more than 2%; Shanghai gold and silver, synthetic rubber and palm oil up over 1%; Shanghai tin up about 1%."
-    },
-    {
-      "id": "mkt:019ecf3c-1198-7dd8-b024-2d8cc63eefc2",
-      "time": "2026-06-16 15:01:20",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK",
-        "DAX",
-        "Impact bullish"
-      ],
-      "text": "European stocks opened slightly higher: Stoxx Europe 600 up 0.14%, France's CAC 40 up 0.27% and Spain's IBEX up 0.25%."
-    },
-    {
-      "id": "4937949",
-      "time": "2026-06-16 15:01:02",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "A股收盤，上證指數跌0.11%，深證成指漲0.93%，創業板指漲1.72%。"
-    },
-    {
-      "id": "4937948",
-      "time": "2026-06-16 15:01:00",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【收評：創業板指高開高走收漲1.72%，鋰電池、超級電容、光纖概念板塊漲幅居前】A股三大指數今日多數上漲，截至收盤，上證指數跌0.11%，深證成指漲0.93%，創業板指漲1.72%，北證50漲1.03%，科創50指數漲0.58%。全市場成交額30863億元，較上日放量356億元，全市場超2700只個股上漲。板塊題材上，超級電容、非金屬材料、鋰電池、光纖概念、PCB概念板塊漲幅居前；港口航運、煤炭開採加工、汽車整車、白酒、機場航運板塊跌幅居前。盤面上，超級電容板塊全天強勢，麥格米特、中國西電、江海股份等股漲停，宏達電子盤中一度漲超19%，風華高科、康鵬科技、瑞泰新材、法拉電子漲幅居前。PCB概念板塊午後繼續走強，本川智慧、宏昌電子、寶鼎科技、興森科技、大族鐳射等近20股漲停，逸豪新材、先導智慧、鴻仕達漲幅居前。光纖概念板塊高開高走，長進光子午後觸及20cm漲停，另有華脈科技、杭電股份、永鼎股份等多股漲停。港口航運板塊持續下挫，中遠海能、南京港、招商輪船、招商南油、青島港領跌板塊。機場航運板塊亦表現不佳，廈門空港、春秋航空、吉祥航空跌幅居前。"
-    },
-    {
-      "id": "4937947",
-      "time": "2026-06-16 15:00:57",
-      "tags": [
-        "其他"
-      ],
-      "text": "【吉林省自然資源廳原一級巡視員王宏智接受審查調查】中央紀委國家監委網站6月16日通報，據吉林省紀委監委訊息：吉林省自然資源廳原一級巡視員王宏智涉嫌嚴重違紀違法，主動向組織交代問題，目前正接受吉林省紀委監委紀律審查和監察調查。"
-    },
-    {
-      "id": "4937946",
-      "time": "2026-06-16 15:00:35",
-      "tags": [
-        "國際"
-      ],
-      "text": "英國對歐洲金融莫斯科國民銀行與Yandex銀行實施制裁。"
-    },
-    {
-      "id": "4937945",
-      "time": "2026-06-16 15:00:14",
-      "tags": [
-        "其他"
-      ],
-      "text": "【國際標準化組織化學氣相沉積塗層分委員會秘書處落戶中國】記者今天瞭解到，國際標準化組織技術管理局（ISO/TMB）近日正式批准成立金屬及其他無機覆蓋層技術委員會化學氣相沉積塗層分委員會，由中國承擔秘書處。化學氣相沉積（CVD）塗層，是一種在材料表面“生長”出高效能薄膜的技術。它透過氣態物質的化學反應，在部件表面形成一層緻密、牢固的功能性塗層，賦予材料高硬度、耐磨損、抗腐蝕、耐高溫、高透光等優異效能。依託該特性，CVD塗層可應用於航空航天、高階裝備、半導體、光電子與顯示、汽車製造、能源化工等重要領域，成為保障關鍵零部件效能與可靠性的核心技術。（央視新聞）"
-    },
-    {
-      "id": "4937944",
-      "time": "2026-06-16 15:00:03",
-      "tags": [
-        "市場"
-      ],
-      "text": "歐股開盤漲跌不一，德國DAX指數漲1.05%，英國富時100指數跌0.39%，法國CAC40指數漲0.4%，歐洲斯托克50指數漲0.68%，義大利富時MIB指數漲0.66%。"
-    },
-    {
-      "id": "4937943",
-      "time": "2026-06-16 15:00:03",
-      "tags": [
-        "市場"
-      ],
-      "text": "【股指期貨午盤收盤】 中證1000指數期貨連續漲1.60%， 滬深300指數期貨連續基本持平， 中證500指數期貨連續漲1.29%， 上證50指數期貨連續跌0.62%。"
-    },
-    {
-      "id": "4937942",
-      "time": "2026-06-16 15:00:03",
-      "tags": [
-        "市場"
-      ],
-      "text": "【商品期貨收盤】多晶矽連續跌7.25%，甲醇連續跌5.66%，丙烯連續跌5.36%，乙二醇連續跌4.31%，聚丙烯連續跌4.30%。"
-    },
-    {
-      "id": "4937941",
-      "time": "2026-06-16 15:00:03",
-      "tags": [
-        "市場"
-      ],
-      "text": "【首創期貨：油價暴跌，純苯期價隨之調整】成本方面，美伊透過電子方式簽署了停戰諒解備忘錄，正式的簽字儀式將於6月19日在日內瓦舉行。地緣風險溢價回落，國際油價連續下跌。供應方面，上週亞洲純苯負荷環比持穩，國內純苯負荷環比下降1.4個百分點，國內加氫苯負荷環比提升0.5個百分點。華東港口純苯庫存環比下降1.9萬噸。需求方面，下游方面苯乙烯、苯胺、MDI負荷均有所提升，其他下游開工持穩。下游工廠整體加工差偏弱，逢低剛需採購為主。總之，國內純苯開工下降延續去庫，但估值中性偏高，加之原油價格下跌，預計短期純苯期價隨成本震盪調整為主，關注地緣局勢及裝置變動情況。（首創期貨）"
-    },
-    {
-      "id": "mkt:019ecf3a-b69f-7dd8-b024-2688cdd13f80",
-      "time": "2026-06-16 14:59:51",
-      "tags": [
-        "MKT News",
-        "USDJPY",
-        "Impact bearish",
-        "DXY",
-        "Nikkei 225"
-      ],
-      "text": "Bank of Japan Deputy Governor Uchida said a rate-hike decision is consistent with the government's economic policy."
-    },
-    {
-      "id": "4937940",
-      "time": "2026-06-16 14:59:20",
-      "tags": [
-        "公司",
-        "觀點"
-      ],
-      "text": "據港交所檔案：上海君賽生物股份有限公司-B向港交所提交上市申請書，獨家保薦人為中信證券。"
-    },
-    {
-      "id": "mkt:019ecf3a-363c-7dd8-b024-180571c5729e",
-      "time": "2026-06-16 14:59:19",
-      "tags": [
-        "MKT News",
-        "DXY",
-        "Impact bullish",
-        "USDJPY",
-        "Nikkei 225",
-        "Impact bearish"
-      ],
-      "text": "Bank of Japan Deputy Governor UCHIDA said the path of the neutral rate has become clearer as rates rise."
-    },
-    {
-      "id": "mkt:019ecf3a-2ad2-7dd8-b024-152db9881028",
-      "time": "2026-06-16 14:59:16",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "HKEX filing: Shanghai Junsai Biological Co., Ltd. -B has submitted a listing application to HKEX; sole sponsor is CITIC Securities."
-    },
-    {
-      "id": "mkt:019ecf3a-1f6f-7dd8-b024-0bde2cdd4d63",
-      "time": "2026-06-16 14:59:13",
-      "tags": [
-        "MKT News",
-        "USDJPY",
-        "Impact bearish",
-        "DXY",
-        "Nikkei 225"
-      ],
-      "text": "UCHIDA, deputy governor at the Bank of Japan, said that as the BOJ raises rates the timing of reaching a neutral rate can only be judged in real time."
     }
   ]
 }
