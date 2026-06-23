@@ -1,7 +1,27 @@
 {
-  "updated": "2026-06-24 04:48:55",
-  "count": 17319,
+  "updated": "2026-06-24 04:52:56",
+  "count": 17321,
   "items": [
+    {
+      "id": "te:economy:561274",
+      "time": "2026-06-24 04:51:50",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Argentina",
+        "GDP Annual Growth Rate",
+        "Importance 0"
+      ],
+      "text": "Argentina GDP Expands More Than Expected — Argentina’s economy grew 2.3% year-on-year in the first quarter of 2026, above forecasts of 1.7% and accelerating from a 2.1% increase in the previous quarter. The strongest sector gains came from fishing (27.5%), agriculture, livestock, hunting and forestry (18.1%), and mining and quarrying (12.3%). Other notable expansions were recorded in financial intermediation (7.5%), private households with domestic service (6.3%), and hotels and restaurants (2.8%), with the latter mainly supported by informal employment. In contrast, manufacturing contracted 1.7% and public administration declined 1.4%, marking the weakest performances. On the demand side, exports rose 9.8%, leading growth, while private consumption increased 2.7%, supported by stronger imports of final consumer goods and automobiles. On a quarter-on-quarter basis, the economy expanded 0.7%."
+    },
+    {
+      "id": "mkt:019ef640-2833-7dd8-b0e3-f8d8ed8fc1d0",
+      "time": "2026-06-24 04:51:00",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Brazil's Foreign Trade Committee Executive Management Committee said it will proceed with planned tariff hikes on imported electric and hybrid vehicles, imposing a 35% import duty on fully built and semi-knocked-down EVs from July 2026; completely knocked-down (CKD) vehicle imports will face the same rate from Jan. 1, 2027."
+    },
     {
       "id": "mkt:019ef63c-4715-7dd8-b0e3-f52a8a2c3f6f",
       "time": "2026-06-24 04:46:45",
