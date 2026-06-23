@@ -1,7 +1,445 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-06-24 00:31:29_
-_本檔包含 3372 則快訊，約 649968 字_
+_更新時間：2026-06-24 01:20:51_
+_本檔包含 3372 則快訊，約 650068 字_
+
+---
+
+### 2026-06-24 01:19:59  #MKT News #XAUUSD #Impact bullish #WTI
+
+U.S. President Trump: If Iran wants to cause trouble, then go seek nuclear weapons.
+
+---
+
+### 2026-06-24 01:19:40  #國際
+
+特朗普：伊朗面臨糧食短缺、藥品匱乏以及通脹高企等難題。
+
+---
+
+### 2026-06-24 01:19:19  #國際
+
+美國總統特朗普被問及AI對卡車司機們構成的風險，兜售就業資料。
+
+---
+
+### 2026-06-24 01:18:46  #MKT News #WTI #Impact bearish #Brent
+
+President Trump said he is reaching an agreement with Iran and expects further progress.
+
+---
+
+### 2026-06-24 01:18:15  #MKT News #XAUUSD #Impact bullish #Brent #DXY
+
+President Trump said the immediate priority is ensuring Iran never acquires nuclear weapons.
+
+---
+
+### 2026-06-24 01:17:40  #MKT News #Important
+
+Trump on Iran: Iran's claim about IAEA inspections is incorrect. IAEA inspectors will arrive on site at an appropriate time.
+
+---
+
+### 2026-06-24 01:16:48  #國際
+
+特朗普談及伊朗：核查人員將在合適時機赴當地開展核查工作。
+
+---
+
+### 2026-06-24 01:16:44  #MKT News #Macro & Rates #The Fed (FOMC)
+
+The Fed accepted $6.484 bln from 10 counterparties in its fixed-rate reverse repo operation.
+
+---
+
+### 2026-06-24 01:16:32  #國際
+
+特朗普：伊朗對國際原子能機構核查人員的相關說法是錯誤的。
+
+---
+
+### 2026-06-24 01:16:07  #央行 #美聯儲
+
+美聯儲隔夜逆回購協議（RRP）週二使用規模為64.84億美元（交易對手10家），上個交易日報39.25億美元。
+
+---
+
+### 2026-06-24 01:16:00  #央行 #國際
+
+週二（6月23日），美聯儲隔夜逆回購協議（RRP）使用規模為64.84億美元（交易對手10家），上個交易日報39.25億美元。
+
+---
+
+### 2026-06-24 01:15:58  #國際
+
+特朗普：明日將與共和黨議員商討選民身份核驗法案。
+
+---
+
+### 2026-06-24 01:15:34  #國際
+
+美國總統特朗普抵達雷丁。
+
+---
+
+### 2026-06-24 01:15:09  #國際
+
+特朗普：是否與伊朗達成協議，我們拭目以待。
+
+---
+
+### 2026-06-24 01:14:12  #Trading Economics #Markets #United States #Stock Market #Importance 1
+
+Chip Stocks Hold Selloff — A selloff for heavyweight chip producers pressured US equity indices on Tuesday. The Nasdaq 100 slid 3% and the S&P 500 dropped 1%. AI infrastructure companies, including semiconductor and memory chip producers, tanked on increasing skepticism that AI spending by hyperscalers will not meet returns. On top of that, SK Hynix slowed production of advanced AI chips to boost commodity DRAM capacity, a sign that demand for compute could slow. Micron, Lam Research, Sandisk, and Qualcomm plunged close to 10%, Tesla lost 5%, and Nvidia and Oracle slipped 3.5%. On the same note, SpaceX plunged 16% before rebounding as it issued bonds only one week after its IPO, adding to caution on colossal capital expenditure. Treasury yields remained elevated despite the decline in energy prices following the hawkish dot plot last week, limiting any respite for traditional sectors of the economy. Still, gains for healthcare and consumer defensive companies aided the Dow to hover around the flatline.
+
+---
+
+### 2026-06-24 01:12:32  #其他
+
+【C羅連續六屆世界盃進球】美加墨世界盃K組，葡萄牙對陣烏茲別克，C羅搶點破門，攻入個人本屆世界盃首球，連續六屆世界盃進球。
+
+---
+
+### 2026-06-24 01:10:40  #MKT News #Important #XAUUSD #Impact bullish #WTI #DXY
+
+【Pezeshkian: Iran–US memorandum does not cover missiles】On the 23rd, while visiting Pakistan, President Pezeshkian said the Iran–US memorandum does not cover missile issues and will not be expanded to do so. He said Iran will never negotiate its defensive capabilities with any party.
+
+---
+
+### 2026-06-24 01:10:16  #國際
+
+【伊朗總統：伊美諒解備忘錄不涉及導彈問題】當地時間23日，正在巴基斯坦訪問的伊朗總統佩澤希齊揚在接受採訪時表示，伊美諒解備忘錄中並不包含導彈問題，未來也不會將其納入議題。佩澤希齊揚稱，伊朗永遠不會與任何人協商伊朗方面的防禦能力。巴基斯坦總理夏巴茲·謝里夫表示，某些國家擁有彈道導彈，而伊朗卻被禁止擁有，這種“雙重標準”是不可接受且不合邏輯的。（央視新聞）
+
+---
+
+### 2026-06-24 01:07:48  #MKT News #Important #WTI #Impact bullish #Brent #XAUUSD
+
+【Iran president says without missiles Iran would have been flattened like Gaza】On June 23, during a visit to Pakistan, President PEZESHKIAN said the Iran‑US memorandum of understanding does not cover Iran’s missiles and that Iran will never negotiate its defensive capabilities; he added that without its missiles Iran would have been flattened by the US and Israel like Gaza. Pakistan Prime Minister Shehbaz Sharif said banning Iran from possessing ballistic missiles while other countries have them would be a double standard, calling that unacceptable and illogical.
+
+---
+
+### 2026-06-24 01:07:11  #MKT News #Market Themes #AI Revolution
+
+Market news: ANTHROPIC seeks deeper integration of Claude into Slack chat.
+
+---
+
+### 2026-06-24 01:06:59  #焦點 #國際
+
+【伊朗總統稱若無導彈伊朗已成加沙】當地時間6月23日，正在巴基斯坦訪問的伊朗總統佩澤希齊揚在接受採訪時表示，伊美諒解備忘錄中不包含伊朗導彈問題，而且未來也絕不會將此納入談判中。佩澤希齊揚說，“如果不是因為我們的導彈，伊朗早就被美國和以色列夷為平地了，就像巴勒斯坦加沙地帶一樣。伊朗永遠不會與任何人談判我們的防禦能力。”巴基斯坦總理夏巴茲·謝里夫表示，其他國家擁有彈道導彈，伊朗被禁止擁有的話那就是“雙重標準”，這是不可接受且不合邏輯的。（CCTV國際時訊）
+
+---
+
+### 2026-06-24 01:05:56  #市場
+
+彭博美元指數創2025年11月份以來盤中新高。
+
+---
+
+### 2026-06-24 01:05:33  #公司 #國際
+
+【嘉年華郵輪：伊朗戰事衝擊預訂業務，下調業績預期】嘉年華郵輪表示，激烈的地緣衝突打亂了郵輪預訂節奏，燃油成本持續攀升不斷擠壓企業利潤，因此下調了本季度業績預期。上一財季的郵輪預訂業務在歐洲地區受衝擊最為嚴重，地中海航線遭遇的影響尤為突出。公司執行長表示，集團旗下全航線旺盛的出行需求與遊客消費能力，一定程度對沖了地緣衝突帶來的業務負面影響。展望後市，隨著近期國際油價回落，嘉年華預計2026年剩餘運營週期的燃油開支將小幅下行。公司將全年燃油總支出預期從此前的21.5億美元下調至21.2億美元。
+
+---
+
+### 2026-06-24 01:04:07  #市場 #國際
+
+美國兩年期國債收益率招標後保持平穩，最新下跌 4.45 個基點，報 4.186%。
+
+---
+
+### 2026-06-24 01:03:39  #公司
+
+Anthropic 釋出公告：面向 Claude 企業版與團隊版客戶，在 Slack 研究預覽渠道推出 Claude 標記功能。
+
+---
+
+### 2026-06-24 01:03:09  #央行 #美聯儲
+
+【美國財政部拍賣690億美元兩年期國債】美國財政部拍賣690億美元兩年期國債，得標利率4.189%，投標倍數2.64。
+
+---
+
+### 2026-06-24 01:02:50  #宏觀 #市場 #國際
+
+美國財政部拍賣690億美元兩年期國債，得標利率4.189%，投標倍數2.64。
+
+---
+
+### 2026-06-24 01:02:40  #其他
+
+Anthropic：計劃將 @Claude 呼叫功能拓展至其他產品介面 。輸入 @Claude 進行標記後，系統會將任務拆解為多個步驟，依次分步執行，並呼叫所有可用工具完成處理。可對 @Claude 可訪問的敏感資料及專項任務工具設定極嚴格的許可權範圍。
+
+---
+
+### 2026-06-24 01:02:24  #MKT News #Macro & Rates #Treasury Yields #US10Y #Impact bearish #DXY #Impact bullish #EURUSD
+
+U.S. 2-year Treasury auction to June 23: share of allotment at the stop-out yield 5.66%, prior 42.14%.
+
+---
+
+### 2026-06-24 01:02:17  #MKT News #Macro & Rates #Treasury Yields #DXY #Impact bullish #S&P500 #Impact bearish #US10Y
+
+U.S. 2-year Treasury auction on June 23 — stop-out yield 4.189%, prior 4.07%.
+
+---
+
+### 2026-06-24 01:02:16  #MKT News #Macro & Rates #Treasury Yields #US10Y
+
+US 2-year Treasury auction on June 23: bid-cover ratio 2.64; prior 2.64.
+
+---
+
+### 2026-06-24 01:02:06  #MKT News #Economic Calendar
+
+United States | 2-Year Note Auction Bid/Cover Ratio (Jun.23) | actual 2.64 | previous 2.64
+
+---
+
+### 2026-06-24 01:02:06  #MKT News #Economic Calendar
+
+United States | 2-Year Note Auction Accepted at High (Jun.23) | actual 5.66% | previous 42.14%
+
+---
+
+### 2026-06-24 01:02:06  #MKT News #Economic Calendar
+
+United States | 2-Year Note Auction High Yield Rate (Jun.23) | actual 4.189% | previous 4.07%
+
+---
+
+### 2026-06-24 01:01:56  #MKT News #Commodities #Industrial Metals #Copper #Impact bearish
+
+【Night session main contracts close】As of 01:00 Beijing time, SHFE copper main contract -1.13%, SHFE aluminum -1.47%, SHFE zinc -1.59%, SHFE nickel -2.21%, SHFE tin -4.59%, SHFE lead +0.06%, SHFE stainless steel main contract -1.41%, SHFE alumina +0.17%, international copper main contract -1.30%.
+
+---
+
+### 2026-06-24 01:00:02  #市場
+
+【夜盤期貨收盤】國際銅夜盤收跌1.30%，滬銅收跌1.13%，滬鋁收跌1.47%，滬鋅收跌1.59%，滬鉛收漲0.06%，滬鎳收跌2.10%，滬錫收跌4.44%。氧化鋁夜盤收漲0.17%，鋁合金收跌1.07%。不鏽鋼夜盤收跌1.41%。
+
+---
+
+### 2026-06-24 00:59:29  #MKT News
+
+S3 Partners estimates SpaceX short interest at roughly 5–7% of float.
+
+---
+
+### 2026-06-24 00:59:22  #其他
+
+S3 Partners 資料：SpaceX 空頭倉位約佔流通股的 5% 至 7%。
+
+---
+
+### 2026-06-24 00:59:11  #MKT News
+
+【US to engage directly with Lebanese government, Rubio says】On June 23, US Secretary of State Rubio said the United States will engage directly with the Lebanese government. Asked about arrangements for the Strait of Hormuz, Rubio said under current international law no country is permitted to levy transit fees or other charges in international waterways, and that specifics will be raised and discussed at an appropriate time.
+
+---
+
+### 2026-06-24 00:58:45  #MKT News #SPSC.O #Impact bullish
+
+Sources say supply-chain software maker SPS Commerce is exploring a sale and has hired Morgan Stanley to advise. SPS Commerce shares were up more than 7%.
+
+---
+
+### 2026-06-24 00:57:48  #MKT News
+
+SpaceX said proceeds will fully repay its bridge loan, with any remaining proceeds used for general corporate purposes.
+
+---
+
+### 2026-06-24 00:57:42  #公司
+
+SpaceX ：本次發債所得資金將全額償還公司過橋貸款，剩餘資金用於一般企業經營用途。
+
+---
+
+### 2026-06-24 00:57:31  #國際
+
+【美國務卿：美國將直接與黎巴嫩政府接觸】當地時間6月23日，美國國務卿魯比奧表示，美國將直接與黎巴嫩政府進行接觸。談及霍爾木茲海峽未來安排時，魯比奧表示，沒有任何國家被允許在國際水道上徵收通行費或其他費用，這是現行國際法的規定。對於相關問題的具體處理方式，他表示將在適當時候提出並討論。（央視新聞）
+
+---
+
+### 2026-06-24 00:55:58  #MKT News
+
+ANEC expects Brazil's soybean-meal exports in June to reach 2.47 mln t, up from its prior forecast of 2.24 mln t.
+
+---
+
+### 2026-06-24 00:55:43  #MKT News
+
+ANEC projects Brazil's June soybean exports at 15.21 mln tonnes, down from a prior estimate of 15.31 mln tonnes.
+
+---
+
+### 2026-06-24 00:55:25  #MKT News
+
+SpaceX filed documents to issue senior unsecured bonds across five maturities: 5-, 7-, 10-, 20- and 30-year; size not disclosed.
+
+---
+
+### 2026-06-24 00:55:08  #其他
+
+市場訊息：SpaceX 提交發行申請，擬推出期限 5 年、7 年、10 年、20 年及 30 年期高階無擔保債券。
+
+---
+
+### 2026-06-24 00:54:21  #MKT News #Commodities #Energy
+
+【Mexico and Brazil to cooperate on oil exploration and refining projects】Mexico's Pemex and Brazil's Petrobras said their CEOs signed a non-binding memorandum of understanding in Rio de Janeiro to cooperate on exploration, production and refining to help expand oil reserves. The agreement covers Gulf of Mexico shallow- and deep-water exploration and cooperation on refining, natural gas, petrochemicals and related areas.
+
+---
+
+### 2026-06-24 00:52:36  #MKT News #Star Stocks #Tesla #Market Themes #Magnificent 7 #TSLA.O #Impact bullish
+
+【Baird: Tesla–SpaceX merger likely within 12–18 months; Tesla Q2 deliveries 392,900, 2026 deliveries 1.68m, PT $522】Baird analyst Ben Kallo forecasts Tesla will deliver 392,900 vehicles in Q2 and 1.68m vehicles in 2026. He says a Tesla–SpaceX merger is "very likely" and could occur within 12–18 months, describing the combination as the "ultimate direction" and "clear and compelling" with scale benefits for both companies. Kallo reiterates an Outperform rating on Tesla and a $522 price target.
+
+---
+
+### 2026-06-24 00:52:22  #其他
+
+LME期銅收跌278美元，報13371美元/噸。LME期鋁收跌132美元，報3232美元/噸。LME期鋅收跌116美元，報3492美元/噸。LME期鉛收跌30美元，報1934美元/噸。LME期鎳收跌582美元，報17172美元/噸。LME期錫收跌3031美元，報51154美元/噸。LME期鈷收平，報56290美元/噸。
+
+---
+
+### 2026-06-24 00:49:39  #公司 #國際
+
+【機構：特斯拉第二季度交付量料達39.29萬 該公司與SpaceX有可能合併】Baird分析師Ben Kallo預測，特斯拉第二季度料將交付392,900輛汽車。他補充說，這家電動汽車公司2026年的總交付量將達到168萬輛。這位分析師寫道：“我們認為SpaceX與特斯拉的合併很有可能發生，預計需要12到18個月的時間。”他還補充說，兩家公司的合併是“最終方向”，而且“清晰並令人信服，兩家公司都將受益於更大的規模”。除了可能與SpaceX合併之外，特斯拉的潛在催化劑還包括Optimus機器人升級、歐盟監管機構進一步採納全自動駕駛技術、無人駕駛計程車業務在美國拓展、Tesla Semi卡車推出，以及能源業務新產品。Kallo重申對特斯拉的“跑贏大盤”評級和目標價522美元。
+
+---
+
+### 2026-06-24 00:49:18  #MKT News
+
+EG Group, a fuel-station and convenience-store operator, has confidentially applied for a U.S. IPO seeking about $1 bln.
+
+---
+
+### 2026-06-24 00:48:19  #公司
+
+埃尼集團、阿爾巴尼亞能源與基礎設施部、阿爾巴尼亞經濟與創新部簽署意向備忘錄，計劃開展可行性研究，在阿爾巴尼亞境內建設並運營國家戰略油氣儲備基地與能源樞紐。
+
+---
+
+### 2026-06-24 00:47:58  #MKT News #Star Stocks #Meta Platforms #Market Themes #AI Revolution #Magnificent 7 #META.O #Impact bullish
+
+The New York Times reports Meta Platforms (META.O) is working on an app called Meta Photos that would use AI to generate new forms of media.
+
+---
+
+### 2026-06-24 00:47:45  #其他
+
+市場訊息：Meta 還在測試一款名為 Meta Photos 的獨立付費產品，該產品將藉助人工智慧生成全新形式的媒體內容。
+
+---
+
+### 2026-06-24 00:45:29  #MKT News #Star Stocks #Meta Platforms #Market Themes #Magnificent 7
+
+The New York Times reports Zuckerberg has instructed Meta Platforms (META.O) to develop a prediction-market app, internally called "Arena", similar to Polymarket and Kalshi.
+
+---
+
+### 2026-06-24 00:43:55  #其他
+
+市場訊息：扎克伯格授意Meta開發預測市場類應用， 這款應用將獨立於臉書和照片牆運營， 該應用使用者不涉及現金投注，僅採用積分機制。
+
+---
+
+### 2026-06-24 00:41:51  #MKT News #WTI #Impact bearish #S&P500 #Impact bullish #DXY
+
+【Hezbollah leader Naim Qassem says Israel must withdraw fully from all Lebanese territory】Hezbollah leader Naim Qassem said on the 23rd (local time) that a ceasefire has now been achieved and Israel must withdraw on schedule, fully vacating all Lebanese territory. He added that after the withdrawal only the Lebanese army would be deployed south of the Litani River.
+
+---
+
+### 2026-06-24 00:41:20  #國際
+
+【黎真主黨領導人：以色列必須從黎全部領土完全撤出】黎巴嫩真主黨領導人納伊姆·卡西姆當地時間23日發表電視講話稱，現在停火已經實現，以色列撤軍必須按照時間表進行。他說，“以色列別無選擇，必須從黎巴嫩全部領土完全撤出，哪怕一寸土地也不能保留。”納伊姆·卡西姆還稱，以色列撤軍後，將僅有黎巴嫩軍隊部署在利塔尼河以南地區。以色列方面對此暫無回應。（央視新聞）
+
+---
+
+### 2026-06-24 00:40:42  #MKT News
+
+MELONI said she does not believe Trump's dispute will harm the Italian economy.
+
+---
+
+### 2026-06-24 00:40:25  #國際
+
+義大利總理梅洛尼：我認為特朗普引發的爭端不會對義大利經濟造成負面影響。
+
+---
+
+### 2026-06-24 00:40:22  #央行 #加拿大央行
+
+【加拿大央行行長髮出警告 稱過度投資美國構成全球金融風險】加拿大央行行長麥克萊姆發出警告稱，對美國的過度投資正給全球金融體系帶來更廣泛的回撥風險。他在巴黎發表講話時指出，“大量流入美國的資本可能再次被錯誤配置，導致股票和信貸市場估值被推高，為痛苦的市場調整埋下隱患，"麥克萊姆（Macklem）週二表示，"這些資本流動可能突然逆轉。無論出現哪種情況，由此產生的壓力都可能波及到美國以外。"麥克萊姆明確表示，全球失衡並非由單一國家造成，而是多種因素共同作用的結果：歐洲投資不足、美國儲蓄率偏低等，這些因素促使全球資本不成比例地湧入美國。加拿大央行行長蒂夫·麥克萊姆”當資本流動過度時，可能會擴大貿易逆差、助長保護主義並扭曲資產價格。資本被錯誤配置，壓力累積，金融穩定風險增加，他說。
+
+---
+
+### 2026-06-24 00:39:52  #MKT News #Market Regions #Europe & UK
+
+Italy's prime minister MELONI said Italy's foreign policy will remain unchanged following a dispute with Trump.
+
+---
+
+### 2026-06-24 00:39:50  #國際
+
+義大利總理梅洛尼：與特朗普發生爭執後，義大利外交政策將保持不變。
+
+---
+
+### 2026-06-24 00:39:07  #MKT News
+
+MELONI says cooperation with the United States must return to normal.
+
+---
+
+### 2026-06-24 00:37:54  #國際
+
+伊朗總統：伊朗導彈相關內容並未納入諒解備忘錄，且永遠不會納入。我們絕不會同任何人就本國防禦能力展開談判。
+
+---
+
+### 2026-06-24 00:37:54  #MKT News #WTI #Impact bullish #XAUUSD #DXY
+
+Iranian President Pezeshkian said Iran will never negotiate with anyone over its defensive capabilities.
+
+---
+
+### 2026-06-24 00:37:36  #MKT News #Important #WTI #Impact bullish #Brent #XAUUSD
+
+Iranian President PEZESHKIAN said Iran's missiles are not covered by the memorandum of understanding and never will be.
+
+---
+
+### 2026-06-24 00:36:41  #MKT News #WTI #Impact bearish #Brent #XAUUSD
+
+Iranian President Pezeshkian said Iran has extended a hand of friendship to Islamic countries including Pakistan, Qatar, Saudi Arabia, Egypt and Turkey to promote mutual understanding and lay the groundwork for a new regional security architecture.
+
+---
+
+### 2026-06-24 00:35:52  #其他
+
+白宮釋出關於武器轉讓戰略的行政令。
+
+---
+
+### 2026-06-24 00:32:23  #央行 #歐洲央行
+
+【德意志銀行上調對短期美債收益率的預測】德意志銀行經濟學家MatthewRaskin、StevenZang和AndrewFu在週二的研報中寫道，經過上週的聯邦公開市場委員會會議後，該行如今預計美聯儲今年將分別在9月和12月加息，每次加息25個基點，使聯邦基金利率達到4.1%。報告指出，此次修正上調了該行對短期美債收益率的預測——預計年底2年期美債收益率將達到4.3%（較此前的預測上調35個基點）。鑑於該行假設到2028年年中加息將逐步撤回，因此對長債收益率的影響較為有限。德意志銀行目前預計年底10年期美債收益率為4.8%（較此前的預測上調10個基點）。與市場遠期相比，該行對短端收益率的預測大體一致，但對收益率曲線的預測更為陡峭。
+
+---
+
+### 2026-06-24 00:31:57  #央行 #國際
+
+【德意志銀行上調對短期美債收益率的預測】德意志銀行經濟學家Matthew Raskin、Steven Zang和Andrew Fu在週二的研報中寫道，經過上週的聯邦公開市場委員會會議後，該行如今預計美聯儲今年將分別在9月和12月加息，每次加息25個基點，使聯邦基金利率達到4.1%。報告指出，此次修正上調了該行對短期美債收益率的預測 —— 預計年底2年期美債收益率將達到4.3%（較此前的預測上調35個基點）。鑑於該行假設到2028年年中加息將逐步撤回，因此對長債收益率的影響較為有限。德意志銀行目前預計年底10年期美債收益率為4.8%（較此前的預測上調10個基點）。與市場遠期相比，該行對短端收益率的預測大體一致，但對收益率曲線的預測更為陡峭。
+
+---
+
+### 2026-06-24 00:31:25  #MKT News #WTI #Impact bullish #Brent #XAUUSD
+
+【Pakistan PM says 'spoilers' trying to derail US-Iran talks】Pakistan Prime Minister Shehbaz Sharif told Al Jazeera that unspecified "spoilers" are trying to sabotage a US‑Iran agreement and the progress achieved. "There are spoilers across the world who want to destroy this peace agreement," he said without naming countries or parties, adding they "do not want Iran to rise from the ruins of war to a glorious peak."
 
 ---
 
@@ -19924,443 +20362,5 @@ United States | 6-Month Bill Auction High Yield Rate (Jun.22) | actual 3.84% | p
 ### 2026-06-22 23:30:00  #Trading Economics #Markets #Colombia #Currency #Importance 1
 
 Colombian Peso Surges to 6-Year High — The Colombian peso surged to 3,425 per USD in June, around the strongest in six years, after rightwing presidential candidate de la Espriella won the presidential elections runoff. The President-elect, seen as an outsider, won the run-off after against leftist Cepeda, who was backed by outgoing President Petro, following the surprise first round win. The surge in the peso tracked similar moves for other Colombian asset classes. Espriella had pledged to cut Colombia's growing budget deficit amid the country's increasingly tight public finances, with last year's shortfall coming at 6.4% of the GDP, a reason cited by the central bank to hold rates restrictive. At the same time, the candidate also pledged to back coal mining and oil drilling in Colombia, which face opposition from the incumbent government.
-
----
-
-### 2026-06-22 23:28:59  #國際
-
-【日本民眾抗議日美軍演攪動地區局勢】日美聯合軍演攪動地區局勢，引發日本民眾強烈反對和擔憂。日本民眾提出抗議，要求停止軍演，避免加劇地區緊張。（CCTV國際時訊）
-
----
-
-### 2026-06-22 23:28:42  #國際
-
-白宮新聞秘書萊維特：自2025年美國政府入股以來，英特爾股價暴漲494%。
-
----
-
-### 2026-06-22 23:28:28  #Trading Economics #Markets #Commodity #Importance 0
-
-Coffee Prices Below Recent Highs — Arabica coffee futures traded around $2.70 per pound, after touching May highs earlier in the month, supported by a stronger US dollar and signs of progress in US-Iran negotiations. The closure of the Strait of Hormuz has tightened coffee supply chains by pushing up global shipping, insurance, fertiliser, and fuel costs, increasing pressure on coffee importers and roasters. At the same time, traders are closely monitoring the El Niño weather pattern, with attention extending beyond the current harvest to its potential impact on Brazil’s 2026/27 production cycle. Coffee trader Commercial noted that El Niño could delay seasonal rains in Brazil this September and October, a critical period for tree flowering, potentially weighing on the country’s upcoming crop. Brazil’s coffee harvest for the 2026/27 season has reached 39% of the planted area as of June 17, according to Safras & Mercado, below 43% a year earlier and slightly under the five-year average of 40%.
-
----
-
-### 2026-06-22 23:28:06  #市場
-
-奈飛股價下跌高達4.6%，跌破斐波那契50%回撥位。
-
----
-
-### 2026-06-22 23:27:48  #國際
-
-白俄羅斯與塞爾維亞計劃簽署社會及勞動領域合作諒解備忘錄。
-
----
-
-### 2026-06-22 23:27:42  #其他
-
-巴西國家開發銀行（BNDES）行長梅爾卡丹特：盧拉要求本行盤活其股權組合，投資人工智慧與生物技術領域。
-
----
-
-### 2026-06-22 23:27:34  #MKT News
-
-IRNA said Iran's interactions with the International Atomic Energy Agency will continue under existing procedures.
-
----
-
-### 2026-06-22 23:27:07  #國際
-
-巴基斯坦常駐聯合國安理會代表：在地區局勢脆弱的大環境下，敘利亞領導層展現出的治理智慧，以及其聚焦本國核心要務與戰後重建的做法值得肯定。
-
----
-
-### 2026-06-22 23:27:00  #MKT News #Important
-
-Iran's foreign ministry spokesperson said Tehran did not negotiate the nuclear issue in talks in Switzerland on Sunday and did not accept any new commitments.
-
----
-
-### 2026-06-22 23:26:37  #國際
-
-伊朗外交部發言人：德黑蘭並未就核問題進行談判，且在週日於瑞士舉行的會談中未接受任何新承諾。
-
----
-
-### 2026-06-22 23:26:25  #國際
-
-印度國防秘書拉傑什·庫馬爾·辛格於2026年6月22日會見以色列國防部總司長、退役少將阿米爾·巴拉姆。雙方會談重點圍繞透過聯合研發、聯合生產，以及在下一代軍事技術與先進國防裝備領域開展協作，深化印以防務合作展開。
-
----
-
-### 2026-06-22 23:25:24  #國際
-
-伊朗官員：結合昨日瑞士談判情況，德黑蘭在長達18小時的會談中未就核議題展開磋商，也未作出任何新承諾。
-
----
-
-### 2026-06-22 23:24:48  #MKT News #Important
-
-Iran's foreign ministry spokesman said Tehran's interactions with the IAEA will require approval from Iran's parliament and a decision by the Supreme National Security Council.
-
----
-
-### 2026-06-22 23:24:46  #公司 #國際
-
-迪士尼旗下美國廣播公司（ABC）將推出廣播宣傳活動，鼓勵觀眾在聯邦通訊委員會的程式中對《觀點》節目以及本廣播公司表示支援。
-
----
-
-### 2026-06-22 23:23:39  #焦點 #國際
-
-伊朗外交部發言人表示，德黑蘭與國際原子能機構（IAEA）的互動將須經伊朗議會批准，並遵循最高國家安全委員會的決定。
-
----
-
-### 2026-06-22 23:23:30  #公司 #國際
-
-印度航空執行長威爾遜：本人任期已進入最後階段，普拉迪普·辛格·卡羅拉的經驗將助力實現向新任執行長的平穩交接。
-
----
-
-### 2026-06-22 23:23:06  #央行 #美聯儲
-
-【RBC策略師稱美股能夠承受美聯儲進行兩次左右的加息】RBCCapitalMarkets的LoriCalvasina表示，只要美聯儲的緊縮週期保持適度，美國股市應該能夠承受加息。“只要未來12個月內進行兩次左右幅度分別為25個基點的加息，我認為股市最終會安好，”該銀行美國股票策略主管Calvasina週一表示，“股市似乎能承受一切適度進行。”上週的美聯儲政策會議令交易員猝不及防，美聯儲新任主席凱文·沃什明確表示不會容忍高通脹。不過，美股在因假期而縮短的交易周仍實現上漲，為連續第二週上漲，也是過去12周內的第11次上漲。標普500指數自3月30日觸及2026年低點以來已上漲18%。
-
----
-
-### 2026-06-22 23:22:22  #央行 #國際
-
-【RBC策略師稱美股能夠承受美聯儲進行兩次左右的加息】RBC Capital Markets的Lori Calvasina表示，只要美聯儲的緊縮週期保持適度，美國股市應該能夠承受加息。“只要未來12個月內進行兩次左右幅度分別為25個基點的加息，我認為股市最終會安好，”該銀行美國股票策略主管Calvasina週一表示，“股市似乎能承受一切適度進行。”
-
----
-
-### 2026-06-22 23:21:46  #公司 #市場
-
-谷歌母公司Alphabet跌超7%，創4月底以來新低，盤中市值蒸發3200億美元。
-
----
-
-### 2026-06-22 23:21:40  #其他
-
-研究人員稱，勒索軟體組織公佈塔塔電子超過20萬份洩露檔案。
-
----
-
-### 2026-06-22 23:21:28  #其他
-
-塔塔電子表示，幾周前其部分系統發生了一起網路安全事件，目前已排查到該事件。
-
----
-
-### 2026-06-22 23:21:24  #其他
-
-研究人員稱，塔塔電子資料洩露包含據稱屬於蘋果、特斯拉的商業機密檔案。
-
----
-
-### 2026-06-22 23:21:15  #公司
-
-訊息人士稱，蘋果公司正在排查其受塔塔電子資料洩露事件影響的範圍，目前全面分析工作正在進行中。
-
----
-
-### 2026-06-22 23:21:09  #國際
-
-伊朗外交部發言人：伊朗將按照現有程式繼續與國際原子能機構開展互動。
-
----
-
-### 2026-06-22 23:20:35  #MKT News #Important #Commodities #Energy #WTI #Impact bearish #Brent
-
-WTI crude fell below $74/bbl, down 4.22% intraday; Brent fell below $77/bbl, down 3.91% intraday.
-
----
-
-### 2026-06-22 23:20:00  #市場 #焦點
-
-布倫特原油失守77美元/桶，日內跌3.81%。
-
----
-
-### 2026-06-22 23:19:32  #國際
-
-【內塔尼亞胡稱以軍在黎南部行動“不受限制”】以色列總理內塔尼亞胡22日發表宣告稱，以軍在黎巴嫩南部擁有“充分行動自由”，可打擊針對以軍士兵和以色列北部居民的任何現實或潛在威脅，以方將繼續在黎南部“安全區”駐留，直至相關安全需求得到滿足。內塔尼亞胡在宣告中稱，他與國防部長卡茨向以軍下達的指令“明確且沒有改變”。以軍在這一問題上“不受任何限制”，他本人及整個以色列社會都支援駐紮在黎南部的以軍部隊。（新華社）
-
----
-
-### 2026-06-22 23:19:15  #國際
-
-以色列國防軍：2026年年初至今已繳獲240餘件槍支，新證據顯示“恐怖組織”在朱迪亞-撒馬利亞地區平民區紮根活動。
-
----
-
-### 2026-06-22 23:17:58  #市場
-
-卡達股市受拉斯拉凡工業城爆炸事件影響下跌，阿聯酋市場上漲。
-
----
-
-### 2026-06-22 23:17:19  #其他
-
-熱浪席捲西歐，萊茵河水位持續走低，嚴重阻礙燃油運往西歐部分地區，駁船載貨量被迫降至正常標準的一半以下。
-
----
-
-### 2026-06-22 23:13:49  #MKT News #Star Stocks #NVIDIA #Market Themes #Magnificent 7 #NVDA.O #Impact bullish
-
-【SpaceX signs roughly $6.3 billion compute deal with Reflection AI】Documents reviewed by CNBC show SpaceX has signed a compute deal with open-source AI developer Reflection AI, making the firm the latest external company to access Elon Musk’s Colossus compute infrastructure. Under the agreement Reflection gains immediate use of NVIDIA GB300 chips and will pay SpaceX $150m per month from July 1, 2026 through 2029; if fully executed total payments would be about $6.3bln. The contract permits either party to terminate after three months from the effective date with 90 days’ notice.
-
----
-
-### 2026-06-22 23:13:19  #公司
-
-【46家A股公司提示風險】6月22日，46家A股公司釋出股票交易異常波動或股票交易風險提示公告，分別是北自科技、博雲新材、中船特氣、旭光電子、源傑科技、裕太微、百潤股份、共達電聲、中紡標、祥龍電業、世名科技、惠豐鑽石、夏農芯創、麥捷科技、晶升股份、派林生物、萬控智造、賽伍技術、溫州宏豐、冰輪環境、武漢天源、ST龍元、ST百利、ST棕櫚、ST海龍、ST西王、ST麥趣、ST圍海、ST達華、ST京機、*ST清越、*ST棒傑、*ST寶馨、*ST瑞茂、*ST東珠、*ST準油、*ST中巖、*ST康佳A、*ST發展、*ST利源、*ST亞士、*ST冀凱、ST嘉應、*ST聯翔、*ST瑞和、*ST聞泰、*ST嶺南。
-
----
-
-### 2026-06-22 23:12:29  #國際
-
-歐盟作物監測機構預測，2026年歐盟向日葵單產為每公頃2.08噸，上月預測值為每公頃1.96噸。
-
----
-
-### 2026-06-22 23:12:11  #國際
-
-歐盟作物監測機構預測，2026年歐盟春季大麥單產為每公頃4.89噸，上月預測值為每公頃4.91噸。
-
----
-
-### 2026-06-22 23:12:01  #公司
-
-卡達能源公司：此次事故已造成13人不幸遇難，目前有66人正在接受治療，所有傷者均無生命危險。
-
----
-
-### 2026-06-22 23:11:29  #公司
-
-卡達能源公司：液化天然氣設施、拉斯拉凡港、其他物流運營以及卡達能源公司的出口能力未受影響。
-
----
-
-### 2026-06-22 23:11:07  #MKT News
-
-QatarEnergy is assessing damage to the Barzan facility and nearby installations.
-
----
-
-### 2026-06-22 23:10:54  #MKT News #Commodities #Energy
-
-QatarEnergy said the incident was an operational accident, not sabotage or hostile action.
-
----
-
-### 2026-06-22 23:10:53  #其他
-
-【布達佩斯工商會副主席：匈中經貿合作機遇持續擴大】匈牙利布達佩斯工商會副主席博爾奈米紹·米克洛什近日接受新華社記者專訪時說，匈中合作正呈現全面、快速發展態勢，政策對接、投資合作及人文交流持續深化，推動雙邊關係不斷向前發展。（新華社）
-
----
-
-### 2026-06-22 23:10:48  #Trading Economics #Markets #commodity #Importance 0
-
-EU Carbon Permits Hits 18-week High — EU Carbon Permits increased to 81.35 EUR, the highest since February 2026. Over the past 4 weeks, EU Carbon Permits gained 5.32%, and in the last 12 months, it increased 10.32%.
-
----
-
-### 2026-06-22 23:10:29  #公司
-
-卡達能源公司：我們想要強調，這是一起運營事故，並非蓄意破壞，也不帶有敵對性質。
-
----
-
-### 2026-06-22 23:10:18  #國際
-
-歐盟作物監測機構預測，2026年歐盟甜選單產為每公頃77.7噸，上月預測值為每公頃77.4噸。
-
----
-
-### 2026-06-22 23:10:13  #公司
-
-卡達能源公司：應急團隊與卡達民防部門迅速撲滅了拉斯拉凡工業城的火災。
-
----
-
-### 2026-06-22 23:08:53  #焦點 #國際
-
-歐盟作物監測機構預測，2026年歐盟穀物玉米單產為每公頃7.38噸，上月預測值為每公頃7.30噸。
-
----
-
-### 2026-06-22 23:08:42  #其他
-
-【柬埔寨開通農產品經寮國出口中國線路】柬埔寨農林漁業部發言人金菲南22日表示，柬埔寨已開通首條農產品經寮國陸路出口中國的線路。 金菲南在農林漁業部官方社交媒體賬號釋出的影片中說，四個裝載新鮮榴蓮的集裝箱已從柬埔寨經寮國運往中國，這是柬埔寨農產品輸往中國的“新路線”，“將運輸時間從15到20天縮短至一週，提高了柬埔寨農產品的競爭力”。 金菲南表示，這條新路線縮短了柬埔寨大米、榴蓮、香蕉等農產品直接出口到中國市場的流程。（新華社）
-
----
-
-### 2026-06-22 23:08:10  #國際
-
-【萬斯：伊朗同意邀請國際原子能機構核查人員重返】美國副總統萬斯22日表示，美國和伊朗的談判取得了很多進展，為達成最終協議奠定了非常好的基礎，伊朗已同意邀請國際原子能機構核查人員重返伊朗。（新華社）
-
----
-
-### 2026-06-22 23:07:59  #公司
-
-卡達能源公司就拉斯拉凡工業城運營事故釋出最新宣告。
-
----
-
-### 2026-06-22 23:07:03  #市場 #焦點
-
-【SpaceX與開源AI初創企業Reflection簽署算力合作協議，合約最高價值63億美元】SpaceX已與Reflection AI簽署大額算力合作協議，這家開源人工智慧初創企業成為又一家租用馬斯克“巨人”算力基礎設施的外部企業。根據協議，Reflection可立即啟用英偉達GB300晶片——這款頂級AI晶片用於訓練、執行前沿大模型；雙方約定，自2026年7月1日至2029年，Reflection每月向SpaceX支付1.5億美元算力租金。若合約完整履行至到期，總交易金額約63億美元。合約生效滿三個月後，任意一方均可提前90天通知對方終止合作。
-
----
-
-### 2026-06-22 23:06:38  #Trading Economics #Markets #United States #Stock Market #Importance 2
-
-Tech Stocks Weigh on Indices — US stock indices were mixed as progress in restoring energy supply from the Middle East offset fresh weakness for AI hyperscalers. The S&P 500 and the Nasdaq 100 swung to trade lower, while the Dow maintained its 200 point gain. Iran stated there was major progress in the recent discussions with the US as both sides agreed to reach a peace deal within two months. Prices for energy commodities fell further on hopes of restored supply, although lingering expectations of a hawkish Fed following last week's meetings prevented support for Treasuries. Chip producers extended their historic rally with Micron and Sandisk adding 5%. Banks were also higher with BofA and JPMorgan adding around 2%. In turn, Alphabet sank 6% while Palantir, Amazon, and Meta fell around 4% on concerns over soaring AI capex. Likewise, SpaceX sank 5% after announcing a new bond sale, although it remains 40% above its IPO. AbbVie added 1% after agreeing to buy Apogee Therapeutics in a $10.9 billion cash deal.
-
----
-
-### 2026-06-22 23:06:36  #Trading Economics #Markets #United States #stocks #Importance 1
-
-Amazon Stock Price Hits 10-week Low — Amazon shares decreased to 233.58 USD, the lowest since April 2026. Over the past 4 weeks, Amazon lost 11.93%, and in the last 12 months, it increased 12.07%.
-
----
-
-### 2026-06-22 23:06:23  #MKT News #Copper #Impact bullish
-
-IEA Executive Director Birol said Iran's energy crisis will accelerate global electrification.
-
----
-
-### 2026-06-22 23:05:37  #公司
-
-Reflection公司將自7月1日起每月向SpaceX支付1.5億美元，若該交易持續執行至2029年，付款總額將達到約63億美元。
-
----
-
-### 2026-06-22 23:05:29  #公司
-
-SpaceX與Reflection簽署價值最高63億美元的合作協議。根據該協議，Reflection公司將立即獲得英偉達GB300 Super晶片的使用權。
-
----
-
-### 2026-06-22 23:05:25  #MKT News #Market Themes #AI Revolution #SPCX.O
-
-CNBC reports SpaceX (SPCX.O) has signed a compute deal with US AI startup Reflection worth up to $6.3 billion.
-
----
-
-### 2026-06-22 23:05:09  #其他
-
-瑞銀將T-Mobile的目標股價從每股300.00美元下調至每股255.00美元，維持T-Mobile的買入評級。
-
----
-
-### 2026-06-22 23:04:45  #其他
-
-SpaceX與Reflection簽署價值最高63億美元的合作協議。
-
----
-
-### 2026-06-22 23:03:42  #MKT News #WTI #Impact bullish #Brent
-
-A State Department spokesperson said Secretary of State Rubio will discuss the Iran memorandum of understanding and issues related to the Strait of Hormuz during his Gulf visit.
-
----
-
-### 2026-06-22 23:03:30  #宏觀 #國際
-
-美國國務院發言人表示，美國國務卿魯比奧將於6月23日至25日出訪阿聯酋、科威特、巴林。魯比奧海灣之行將磋商伊朗諒解備忘錄、霍爾木茲海峽相關事宜，還將赴巴林出席海灣合作委員會會議。
-
----
-
-### 2026-06-22 23:03:15  #MKT News
-
-U.S. Secretary of State Rubio will attend a Gulf Cooperation Council meeting in Bahrain, State Department spokesperson said.
-
----
-
-### 2026-06-22 23:03:10  #Trading Economics #Markets #United States #stocks #Importance 1
-
-AbbVie Stock Price Hits 14-week High — AbbVie shares increased to 230.60 USD, the highest since March 2026. Over the past 4 weeks, AbbVie gained 8%, and in the last 12 months, it increased 25.26%.
-
----
-
-### 2026-06-22 23:02:44  #MKT News
-
-State Department spokesperson said U.S. Secretary of State Rubio will visit the UAE, Kuwait and Bahrain June 23-25.
-
----
-
-### 2026-06-22 23:01:27  #央行 #國際
-
-俄羅斯央行：將6月23日美元對盧布官方匯率設定為1美元兌換73.7650盧布（此前匯率為1美元兌換73.4390盧布）。
-
----
-
-### 2026-06-22 23:01:00  #MKT News #Important #Commodities
-
-As of the 23:00 close, China's main futures contracts were mostly lower: asphalt and coke down nearly 3%; liquefied petroleum gas (LPG) and propylene down over 2%; low-sulfur fuel oil (LU) down nearly 2%; pulp, fuel oil and PVC down over 1%. On the upside, 20# rubber rose over 1%.
-
----
-
-### 2026-06-22 23:00:06  #Trading Economics #Markets #Currency #Importance 1
-
-FX Updates: Polish Zloty Drops by 0.64% — Top currency losers are Polish Zloty (-0.64%), South Korean Won (-0.63%) and Euro (-0.23%). Gains are led by Brazilian Real (0.32%), Norwegian Krone (0.28%) and British Pound (0.22%). Meanwhile, Japanese Yen and Dollar Index were little changed.
-
----
-
-### 2026-06-22 23:00:03  #市場
-
-【夜盤期貨收盤】瀝青連續跌2.83%，焦炭連續跌2.81%，液化石油氣連續跌2.50%，低硫燃料油連續跌1.89%，紙漿連續跌1.73%。
-
----
-
-### 2026-06-22 22:59:18  #公司
-
-據港交所檔案：深圳基本半導體股份有限公司透過港交所上市聆訊。
-
----
-
-### 2026-06-22 22:59:09  #市場
-
-【牛津經濟研究院：英國財政不確定性或推高長期英國國債收益率】牛津經濟研究院的Andrew Goodwin在一份報告中表示，未來幾個月，短期英國國債收益率與長期英國國債收益率之間的差距可能會擴大。他表示，在基爾·斯塔默週一早些時候辭職後，隨著英國等待新領導人上任，財政前景不明朗，長期英國國債收益率可能會上升。Goodwin表示，被普遍預計將接替斯塔默的安迪·伯納姆可能會“淡化“秋季預算中宣佈的嚴格財政措施。不過，Goodwin表示，隨著油價下跌和通脹擔憂緩解，短期英國國債收益率可能會下降。Tradeweb資料顯示，10年期英國國債收益率下跌4.3個基點，最新報4.796%。兩年期英國國債收益率下跌5個基點，至4.200%。
-
----
-
-### 2026-06-22 22:58:29  #MKT News #Market Regions #Greater China
-
-HKEX filings show Shenzhen Basic Semiconductor Co., Ltd. has passed its HKEX listing hearing.
-
----
-
-### 2026-06-22 22:58:01  #公司
-
-Getty Images一度漲超133%，公司與OpenAI達成“展示協議”。
-
----
-
-### 2026-06-22 22:57:50  #國際
-
-法國總統馬克龍：感謝斯塔默對加強法英關係所作的貢獻，他在烏克蘭志願聯盟中的承諾，以及對重振英國與歐盟關係所付出的努力。我們共同在國防、核能、太空和創新領域所做的工作，特別是去年七月我們法英峰會上的成果，見證了這一承諾。
-
----
-
-### 2026-06-22 22:57:21  #市場 #國際
-
-【韓國總統李在明不支援率首超支援率】韓國一項最新民意調查結果顯示，總統李在明的不支援率升至49.7%，支援率降至46.7%。這是李在明去年6月上任以來，不支援率首次高於支援率。民調機構分析，地方選舉選票短缺事件是導致李在明支援率下滑的主要原因之一。受《能源經濟新聞》委託，韓國民調機構“真實計量器”15日至19日就李在明施政情況對全國2517名成年人展開調查。22日釋出的民調結果顯示，李在明支援率為46.7%，較一週前資料下降4.8個百分點，在該機構民調中首次跌破50%。其不支援率為49.7%，較一週前資料上升5.5個百分點。（新華社）
-
----
-
-### 2026-06-22 22:57:21  #Trading Economics #Markets #Commodity #Importance 1
-
-Heating Oil Falls Toward 3-1/2-Month Low — US heating oil prices fell to below $3.14 per gallon, near the lowest since early March, as progress in US-Iran peace talks fueled expectations of easing energy shortages and weaker fuel price pressures. Markets reacted to reports that Washington and Tehran agreed on a roadmap toward a final agreement within 60 days, while the US Treasury authorized production, delivery, and sale of Iranian oil and petroleum products for two months. A potential reopening of the Strait of Hormuz could mark a major shift for global energy markets, restoring traffic through a route that normally handles about a quarter of global seaborne oil shipments. The prospect of returning supply has already pushed Brent crude below $79 per barrel, its lowest level since early March. US refiners are also adjusting operations after months of disruption, producing record levels of jet fuel while reducing gasoline output to capture stronger margins.
-
----
-
-### 2026-06-22 22:56:51  #公司
-
-【程剛：KOOK不是“中國的Discord”，今年商業化收入預增超200%】在近日一場圓桌對話中，KOOK語音創始人兼CEO程剛回應"中國是否會有自己的Discord"的疑問。他表示，對KOOK而言，早期為了讓第一次接觸的使用者更容易理解，我們會說自己是“中國的Discord”，但我們內心希望把KOOK定義為面向中國遊戲玩家及泛娛樂人群的實時社群基礎設施。程剛指出，中國遊戲玩家生態、內容生態和開發者生態與國外均有很大區別，這也決定了KOOK與Discord之間存在許多差異。此外，實時是KOOK與普通社群產品的明顯區別。“我其實不太希望KOOK被定義為‘中國的Discord’。KOOK真正的定義不是在‘對標誰’的商業故事裡，而是在“被使用者需要”的每一個日常裡。我們並不急著證明自己是個大故事，我們要先證明使用者真的離不開KOOK，這也是我們希望能一直做下去的事。”程剛稱。（新浪科技）
 
 ---
