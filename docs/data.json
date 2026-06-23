@@ -1,7 +1,155 @@
 {
-  "updated": "2026-06-23 11:08:56",
-  "count": 17289,
+  "updated": "2026-06-23 11:13:03",
+  "count": 17294,
   "items": [
+    {
+      "id": "mkt:019ef276-cfb9-7dd8-b0cb-34be59b3abbf",
+      "time": "2026-06-23 11:12:13",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals"
+      ],
+      "text": "Spot silver fell as much as 3% intraday, trading at $63.14/oz."
+    },
+    {
+      "id": "4949425",
+      "time": "2026-06-23 11:12:09",
+      "tags": [
+        "市場"
+      ],
+      "text": "現貨白銀日內跌3%，現報63.07美元/盎司。"
+    },
+    {
+      "id": "4949424",
+      "time": "2026-06-23 11:11:39",
+      "tags": [
+        "市場"
+      ],
+      "text": "澳元兌美元下跌0.44%，報0.6970，為4月8日以來最低水平。"
+    },
+    {
+      "id": "mkt:019ef276-1b98-7dd8-b0cb-2ba34b128411",
+      "time": "2026-06-23 11:11:26",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bearish"
+      ],
+      "text": "China CSI 300 index futures (IF) front-month contract fell below 4,900, down 1.52% on the day."
+    },
+    {
+      "id": "4949423",
+      "time": "2026-06-23 11:11:10",
+      "tags": [
+        "其他"
+      ],
+      "text": "【今年前5月霍爾果斯口岸商品車出口16.8萬輛】據霍爾果斯海關統計，今年1至5月霍爾果斯口岸出口商品車16.8萬輛，同比增長24%。"
+    },
+    {
+      "id": "mkt:019ef275-8df0-7dd8-b0cb-2751a4658284",
+      "time": "2026-06-23 11:10:50",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "Chip Wars",
+        "005930.KS",
+        "Impact bearish",
+        "000660.KS"
+      ],
+      "text": "South Korea's KOSPI index plunged 5% intraday; SK Hynix fell 6.5% and Samsung Electronics fell 5.5%."
+    },
+    {
+      "id": "4949422",
+      "time": "2026-06-23 11:10:35",
+      "tags": [
+        "市場",
+        "焦點",
+        "國際"
+      ],
+      "text": "韓國綜合股價指數下跌5％，SK海力士跌6.5%，三星電子跌5.5%。"
+    },
+    {
+      "id": "te:markets:560957",
+      "time": "2026-06-23 11:10:21",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "China",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "Tencent Holdings Stock Price Hits 14-month Low — Tencent Holdings shares decreased to 420.20 HKD, the lowest since April 2025. Over the past 4 weeks, Tencent Holdings lost 4.1%, and in the last 12 months, it decreased 17.37%."
+    },
+    {
+      "id": "4949421",
+      "time": "2026-06-23 11:10:19",
+      "tags": [
+        "市場"
+      ],
+      "text": "港股阿里巴巴(09988.HK)跌破100港元，創2025年4月以來新低，現跌超3%。"
+    },
+    {
+      "id": "mkt:019ef275-0faa-7dd8-b0cb-19b497742d4b",
+      "time": "2026-06-23 11:10:18",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Alibaba",
+        "09988.HK",
+        "Impact bearish",
+        "Hang Seng Index"
+      ],
+      "text": "Alibaba (09988.HK) fell below HK$100, its weakest level since April 2025, and is down more than 3%."
+    },
+    {
+      "id": "4949420",
+      "time": "2026-06-23 11:09:56",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金失守4140美元/盎司，日內跌1.22%。"
+    },
+    {
+      "id": "4949419",
+      "time": "2026-06-23 11:09:55",
+      "tags": [
+        "其他"
+      ],
+      "text": "【第8號颱風“海高斯”已於今早生成】今年第8號颱風“海高斯”已於今天（6月23日）早晨生成。截至8時，“海高斯”位於距離關島塞班東北方向約25公里的海面上，強度為熱帶風暴級，中心最大風力8級（18米/秒），中心氣壓998百帕。預計，“海高斯”將以每小時15至20公里的速度向偏西方向移動，強度變化不大。"
+    },
+    {
+      "id": "4949418",
+      "time": "2026-06-23 11:09:37",
+      "tags": [
+        "其他"
+      ],
+      "text": "日產：目標2027財年末全球工廠開工率接近90%。"
+    },
+    {
+      "id": "4949417",
+      "time": "2026-06-23 11:09:16",
+      "tags": [
+        "其他"
+      ],
+      "text": "日產：預計本財年末全球工廠開工率將達到79%."
+    },
+    {
+      "id": "te:markets:560956",
+      "time": "2026-06-23 11:08:38",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Silver Remains Under Pressure — Silver fell toward $63 an ounce on Tuesday, extending recent losses as firm expectations for Federal Reserve interest rate hikes outweighed optimism surrounding ongoing US-Iran peace negotiations. Both Deutsche Bank and BofA Global Research have revised their forecasts to include a rate increase in September. Investors are now focused on this week’s PCE report, which contains the Fed’s preferred inflation gauge and is expected to offer fresh insight into underlying price pressures. Meanwhile, Washington granted Iran a 60-day license to sell oil on international markets, boosting expectations of a faster recovery in global supply. Shipping through the Strait of Hormuz has also increased, with producers such as Kuwait and the United Arab Emirates finding alternative export routes, while Iran shipped more than 30 million barrels over the past week."
+    },
     {
       "id": "4949416",
       "time": "2026-06-23 11:07:53",
@@ -158588,97 +158736,6 @@
         "日本央行"
       ],
       "text": "【就在今天中午！日本利率將逾30年來首度邁入“1時代”？】市場普遍預計，日本央行今日午間將在首次沒有行長出席的議息會議上，將基準利率上調至1995年以來的最高水平。據業內媒體的調查顯示，幾乎所有日本央行觀察人士都預計，在週二為期兩天的會議結束時，該行決策者將把基準利率上調25個基點至1%。"
-    },
-    {
-      "id": "te:markets:559202",
-      "time": "2026-06-16 11:12:03",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Indonesia",
-        "Currency",
-        "Importance 1"
-      ],
-      "text": "Rupiah Eases from Three-Week High — The Indonesian rupiah edged down to around IDR 17,700 per U.S. dollar in thin holiday trading on Tuesday, reversing gains from the prior two sessions and retreating from a three-week top. Sentiment weakened as traders grew concerned about the rising cost of defending the currency after forex reserves fell in May to their lowest level in almost two years, suggesting continued central bank intervention. Domestic fundamentals were also weak, with May consumer mood falling to its lowest since September 2025 and April retail sales down for the first time in a year. External risks added pressure as Washington prepares to phase in an 18% tariff on Indonesian goods from July 24, threatening exports and capital inflows. Still, losses were capped by optimism that Bank Indonesia may remain hawkish after a total of 75bps of hikes since May, with its two-day policy meeting starting Wednesday. Globally, the U.S. dollar steadied ahead of the Fed’s first policy decision under new Chair Kevin Warsh."
-    },
-    {
-      "id": "4937615",
-      "time": "2026-06-16 11:11:53",
-      "tags": [
-        "市場"
-      ],
-      "text": "【乳業板塊部分走高，莊園牧場漲停】乳業板塊部分走高，莊園牧場漲停，騎士乳業、西部牧業、歡樂家跟漲。"
-    },
-    {
-      "id": "4937614",
-      "time": "2026-06-16 11:11:51",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【光纖概念持續走強 永鼎股份漲停】MPO產業鏈持續活躍，帶動光纖概念走強，永鼎股份漲停，此前杭電股份2連板，長盈通觸及20cm漲停，華脈科技、通鼎互聯、亨通光電、中天科技漲幅靠前。"
-    },
-    {
-      "id": "4937613",
-      "time": "2026-06-16 11:11:17",
-      "tags": [
-        "公司",
-        "觀點"
-      ],
-      "text": "【矽基流動完成新一輪超20億元融資】6月16日，據矽基流動訊息，矽基流動近日已完成超20億元B輪融資。本輪融資由攜程戰投、晶科能源控股、金蝶股份、聯通新沃、盛奕資本（潤澤集團產業資本）、壁仞戰投、蔚來資本、商湯戰投、巨人網路、國泰君安創新投、紀源資本、華登國際、華控基金、國開金融、中關村科學城等聯合投資，華興資本擔任獨家財務顧問。"
-    },
-    {
-      "id": "te:markets:559201",
-      "time": "2026-06-16 11:10:58",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "New Zealand",
-        "Currency",
-        "Importance 1"
-      ],
-      "text": "New Zealand Dollar Edges Lower — The New Zealand dollar edged down to around $0.581 as investors shifted attention toward upcoming central bank decisions, particularly the US Federal Reserve. The Fed is widely expected to hold rates steady at the first meeting under new chair Kevin Warsh. Meanwhile, markets are awaiting further details on a US–Iran agreement that could pave the way for the full reopening of the Strait of Hormuz. On the monetary policy front, expectations for the Reserve Bank of New Zealand remain tilted toward tightening in July, although swap pricing now implies two rate hikes for the year, compared with earlier expectations of three."
-    },
-    {
-      "id": "4937612",
-      "time": "2026-06-16 11:10:53",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "低硫燃料油連續主力合約日內跌4%，現報4034.00元。"
-    },
-    {
-      "id": "4937611",
-      "time": "2026-06-16 11:10:45",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "【中國網際網路金融協會舉辦金融產品網路營銷調研座談會】近日，中國網際網路金融協會組織召開金融產品網路營銷調研座談會。會議聽取了網際網路貸款業務頭部平臺和金融機構關於《金融產品網路營銷管理辦法》（以下簡稱《辦法》）的落實情況和共性問題。各從業機構正在對照《辦法》部署要求，全面推進自查自糾與問題整改工作，同時希望就細則落地等事項得到進一步的業務指導。會議強調，《辦法》的出臺是網際網路金融強化監管、邁向規範健康發展的又一重要里程碑。各從業機構要提高認識、加強學習，認真落實《辦法》各項規定，儘快制定整改方案並推進實施。協會將充分發揮自律管理職能，聚焦行業共性問題，透過出臺自律規則、搭建案例庫等方式，引導全行業統一執行尺度，配合監管部門將《辦法》落實到位，督促各從業機構在過渡期結束前全面完成整改，切實保護金融消費者合法權益，推動行業規範、健康、可持續發展。"
-    },
-    {
-      "id": "4937610",
-      "time": "2026-06-16 11:10:23",
-      "tags": [
-        "市場"
-      ],
-      "text": "美元/日元<JPY=EBS>下跌0.19%，報160.06。"
-    },
-    {
-      "id": "4937609",
-      "time": "2026-06-16 11:10:04",
-      "tags": [
-        "其他"
-      ],
-      "text": "【國家統計局：持續加強對國際能源價格波動跟蹤和研判】6月16日，國家統計局新聞發言人、國民經濟綜合統計司副司長王冠華在國新辦新聞釋出會上表示，5月份國際原油價格呈現震盪回落但仍然處在高位，對於國內石化產業鏈的輸入性影響仍然存在，會持續地加強對國際能源價格波動的跟蹤和研判。王冠華表示，展望下階段，國際環境仍然複雜多變，地緣政治的不確定性較多，但是我國能源供給保障能力較強，進口來源日趨多元，能源的清潔化轉型持續深化，應對外部市場波動具有較好的基礎和條件。"
-    },
-    {
-      "id": "4937608",
-      "time": "2026-06-16 11:09:36",
-      "tags": [
-        "其他"
-      ],
-      "text": "【國家統計局：新舊動能加快轉換是當前經濟執行的鮮明特徵】6月16日，國家統計局新聞發言人王冠華表示，新舊動能加快轉換是當前經濟執行的鮮明特徵。今年我國在產業提質、數字賦能、綠色轉型等方面取得新成效，新質生產力培育壯大，不僅為經濟增長提供了重要支撐，而且有效提升了發展的質量、韌性和可持續性。我國依靠創新投入為高質量發展賦能。2025年研究與試驗發展經費投入強度，也就是全社會的研究與試驗發展經費投入與國內生產總值之比，首次超過OECD國家平均水平。在創新資源有力支撐下，航空航天、人工智慧、量子計算、生物醫藥等領域的創新成果競相湧現。（中國網）"
     }
   ]
 }
