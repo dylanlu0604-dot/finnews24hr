@@ -1,7 +1,51 @@
 {
-  "updated": "2026-06-24 04:36:43",
-  "count": 17298,
+  "updated": "2026-06-24 04:40:45",
+  "count": 17300,
   "items": [
+    {
+      "id": "mkt:019ef636-501f-7dd8-b0e3-59812aa71bae",
+      "time": "2026-06-24 04:40:14",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Cloud security company Zscaler reached an agreement with Amazon Web Services (AWS) to cooperate on integration, reference architectures and joint go-to-market activities; the partners will jointly secure generative AI deployments in government, healthcare and education sectors."
+    },
+    {
+      "id": "4951142",
+      "time": "2026-06-24 04:39:30",
+      "tags": [
+        "其他"
+      ],
+      "text": "哥倫比亞國家管理局：2025年哥倫比亞天然氣儲量下降16.8%，至17.2億立方英尺。"
+    },
+    {
+      "id": "mkt:019ef635-64fb-7dd8-b0e3-5037c03ac992",
+      "time": "2026-06-24 04:39:14",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "MSCI said South Korean investors view related issues as still unresolved; South Korean market participants continue to face significant operational burdens under the reinstated compliance regime."
+    },
+    {
+      "id": "mkt:019ef634-7f53-7dd8-b0e3-497f2315cd09",
+      "time": "2026-06-24 04:38:16",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "MSCI said South Korean market participants still face the burden of early pre-settlement funding requirements."
+    },
+    {
+      "id": "te:markets:561272",
+      "time": "2026-06-24 04:36:12",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Brazil",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Ibovespa Rises on Copom Outlook — The Ibovespa rose 0.5% to close at 171,259 on Tuesday after opening lower, diverging from the sharp selloff on Wall Street as markets digested the latest Copom minutes. According to Banco Central do Brasil, policymakers are considering both a pause and a resumption of Selic cuts as possible paths to bring inflation back to target. In the document, the central bank acknowledged that upside risks to inflation currently outweigh downside risks while leaving the next policy steps open and data-dependent. Banking stocks posted gains, with Bradesco up 0.9% and Banco do Brasil rising 1.4%. Utilities also moved higher, with Axia gaining 2.6% after news it is preparing a debenture issuance of up to R$1 billion, maturing in 2036. Other notable gainers included Ambev (+1.2%) and WEG (+1%). In contrast, Vale fell 1.9% after its board unanimously approved a shareholders’ meeting on July 22 to vote on the removal of chairman Daniel Stieler, following a request from its largest shareholder, Previ."
+    },
     {
       "id": "4951141",
       "time": "2026-06-24 04:36:06",
@@ -158466,39 +158510,6 @@
         "Impact bearish"
       ],
       "text": "Amazon (AMZN.O) may be sued by the US Federal Trade Commission for allegedly misleading advertisers and could face multibillion-dollar civil fines, sources said."
-    },
-    {
-      "id": "4939329",
-      "time": "2026-06-17 04:38:28",
-      "tags": [
-        "國際"
-      ],
-      "text": "【巴西最高法院裁定愛德華多·博索納羅因尋求美國干預其父政變案審判罪名成立】巴西最高法院合議庭多數法官投票裁定，愛德華多·博索納羅（Eduardo Bolsonaro）因在其父親（前總統）的政變陰謀案審判期間尋求美國干預，罪名成立。該合議庭的四名法官中，已有三人投票裁定愛德華多·博索納羅罪名成立。合議庭中僅剩最後一名法官尚未進行投票。"
-    },
-    {
-      "id": "te:markets:559443",
-      "time": "2026-06-17 04:38:00",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Brazil",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "Brazil Shares Fall Ahead of BCB Decision — The Ibovespa fell 0.4% to close at 169,648 on Tuesday as investors assessed fresh election polls and rising inflation expectations. A BTG/Nexus survey released on Monday showed President Lula holding a nine-point lead over Senator Flávio Bolsonaro in first-round voting intentions. Meanwhile, the median forecast for Brazil’s annual inflation increased for the 14th consecutive week, prompting markets to reassess how long the BCB may keep interest rates elevated. Most sectors ended lower. Financial stocks traded mixed amid concerns that higher borrowing costs could weigh on lending activity, with Bradesco falling 0.7%. Petrobras also pressured the index, declining 1.3% as optimism surrounding a preliminary US-Iran peace agreement raised the prospect of the Strait of Hormuz remaining open."
-    },
-    {
-      "id": "mkt:019ed226-9549-7dd8-b03a-7227f09cbdb0",
-      "time": "2026-06-17 04:36:44",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "U.S. API crude oil production change for week to June 12: -17,000 b/d, prior +262,000 b/d."
     }
   ]
 }
