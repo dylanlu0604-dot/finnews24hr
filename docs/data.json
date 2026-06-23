@@ -1,7 +1,138 @@
 {
-  "updated": "2026-06-24 02:58:55",
-  "count": 17254,
+  "updated": "2026-06-24 03:04:06",
+  "count": 17259,
   "items": [
+    {
+      "id": "mkt:019ef5dc-f55d-7dd8-b0e2-3e95e5221e90",
+      "time": "2026-06-24 03:02:39",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "US President Trump said the US is getting along fairly well with Iran."
+    },
+    {
+      "id": "mkt:019ef5dc-bd60-7dd8-b0e2-351b4565465e",
+      "time": "2026-06-24 03:02:24",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "TRUMP on Iran said the US is working to reach a fair deal."
+    },
+    {
+      "id": "mkt:019ef5dc-ae53-7dd8-b0e2-2e6cafad0a5c",
+      "time": "2026-06-24 03:02:20",
+      "tags": [
+        "MKT News",
+        "S&P500",
+        "Impact bullish",
+        "WTI",
+        "Impact bearish",
+        "DXY"
+      ],
+      "text": "US President Trump says Iran has agreed never to possess nuclear weapons."
+    },
+    {
+      "id": "4951079",
+      "time": "2026-06-24 03:02:16",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普談伊朗問題：我們正致力於達成一份公平的協議。"
+    },
+    {
+      "id": "4951078",
+      "time": "2026-06-24 03:01:39",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "特朗普：伊朗已同意永遠不擁有核武器。"
+    },
+    {
+      "id": "4951077",
+      "time": "2026-06-24 03:01:29",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：我們和伊朗相處得很好。"
+    },
+    {
+      "id": "4951076",
+      "time": "2026-06-24 03:01:19",
+      "tags": [
+        "其他"
+      ],
+      "text": "阿根廷國家統計局公佈，2026年第一季度國內生產總值同比增長2.3%。此前路透調查的預期增速為1.70%。"
+    },
+    {
+      "id": "4951075",
+      "time": "2026-06-24 03:01:13",
+      "tags": [
+        "宏觀",
+        "市場",
+        "國際"
+      ],
+      "text": "美國財政部公佈，在最近半個報告期內，外國投資者買入了22.71億美元將於2056年5月15日到期的30年期國債，上月該資料為27.67億美元。"
+    },
+    {
+      "id": "4951074",
+      "time": "2026-06-24 03:01:10",
+      "tags": [
+        "宏觀",
+        "市場",
+        "國際"
+      ],
+      "text": "美國財政部：在最新雙週報報告期內，投資基金買入289.62億美元2036年5月15日到期的10年期國債，上月買入規模為293.32億美元。"
+    },
+    {
+      "id": "4951073",
+      "time": "2026-06-24 03:01:07",
+      "tags": [
+        "宏觀",
+        "市場",
+        "國際"
+      ],
+      "text": "美國財政部：在最近的雙週報告期內，投資基金買入157.23億美元將於2056年5月15日到期的30年期國債，前一個月的買入規模為183.40億美元。"
+    },
+    {
+      "id": "4951072",
+      "time": "2026-06-24 03:01:04",
+      "tags": [
+        "宏觀",
+        "市場",
+        "國際"
+      ],
+      "text": "美國財政部公佈，在最新雙週報報告期內，投資基金買入421.81億美元將於2029年6月15日到期的3年期國債，上月買入規模為416.36億美元。"
+    },
+    {
+      "id": "4951071",
+      "time": "2026-06-24 03:01:00",
+      "tags": [
+        "宏觀",
+        "市場",
+        "國際"
+      ],
+      "text": "美國財政部：在最近兩週報告期內，外國投資者買入52億美元將於2036年5月15日到期的10年期國債，上月買入規模為62.3億美元。"
+    },
+    {
+      "id": "4951070",
+      "time": "2026-06-24 03:00:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "恒指期貨夜盤收漲0.86%，報23487.10點，高水150.82點。"
+    },
+    {
+      "id": "4951069",
+      "time": "2026-06-24 02:59:41",
+      "tags": [
+        "其他"
+      ],
+      "text": "【烏干達和剛果（金）啟動埃博拉疫情監控跨境合作】當地時間23日，烏干達衛生部表示，該國與剛果（金）啟動埃博拉疫情監控跨境合作，以加強對兩國邊境地區的監控，阻止疫情擴散。（央視新聞）"
+    },
     {
       "id": "mkt:019ef5d8-84a7-7dd8-b0e2-22aa6f0615f3",
       "time": "2026-06-24 02:57:48",
@@ -158047,97 +158178,6 @@
         "國際"
       ],
       "text": "切尼爾能源公司CFO：大部分發展中國家不會將能源安全託付給美國。 希望卡達能源儘快重返市場，此舉有助於豐富全球能源供應渠道。"
-    },
-    {
-      "id": "mkt:019ed1d1-b1de-7dd8-b039-697b1c955ad2",
-      "time": "2026-06-17 03:04:01",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "LNG.O"
-      ],
-      "text": "Cheniere Energy's CFO said most developing countries will not entrust their energy security to the United States, and said he hopes QatarEnergy will return to the market soon because that would help create a more diversified global supply base."
-    },
-    {
-      "id": "4939302",
-      "time": "2026-06-17 03:02:50",
-      "tags": [
-        "市場"
-      ],
-      "text": "在岸人民幣兌美元（CNY）北京時間03:00收報6.7575元，較週一夜盤收盤跌7點。成交量418.30億美元。"
-    },
-    {
-      "id": "mkt:019ed1cf-4778-7dd8-b039-66efb6b74450",
-      "time": "2026-06-17 03:01:22",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy"
-      ],
-      "text": "Venezuelan state television reported that state oil company PDVSA signed a memorandum of understanding with Spain's Repsol covering crude oil and natural gas."
-    },
-    {
-      "id": "4939301",
-      "time": "2026-06-17 03:01:15",
-      "tags": [
-        "公司"
-      ],
-      "text": "委內瑞拉國有石油公司 PDVSA 與西班牙雷普索爾公司簽署原油與天然氣合作諒解備忘錄."
-    },
-    {
-      "id": "mkt:019ed1cf-1d2e-7dd8-b039-5e59c8635148",
-      "time": "2026-06-17 03:01:11",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "Hang Seng Index",
-        "Impact bullish"
-      ],
-      "text": "Hang Seng Index futures night session closed up 0.11% at 24,510, a 16-point premium to the cash index."
-    },
-    {
-      "id": "mkt:019ed1ce-52fb-7dd8-b039-54f1fddb071f",
-      "time": "2026-06-17 03:00:20",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "Castle Securities says loose financial conditions, ongoing supply-chain disruptions, an accelerating labor-market recovery and a surge in AI investment are combining to keep inflationary pressures elevated."
-    },
-    {
-      "id": "4939300",
-      "time": "2026-06-17 03:00:02",
-      "tags": [
-        "市場"
-      ],
-      "text": "恒指期貨夜盤收漲0.11%，報24511.80點，高水17.85點。"
-    },
-    {
-      "id": "mkt:019ed1cd-da4a-7dd8-b039-4a5edea6d0a0",
-      "time": "2026-06-17 02:59:49",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "DXY",
-        "Impact bullish",
-        "US10Y",
-        "Impact bearish",
-        "S&P500"
-      ],
-      "text": "Castle Securities (U.S.) says persistent, broad-based inf could prompt the Fed to begin a series of rate hikes as early as September."
-    },
-    {
-      "id": "4939299",
-      "time": "2026-06-17 02:59:33",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "城堡證券表示，隨著通脹呈現持續性、全域擴散特徵，美聯儲最早9月開啟一輪加息週期的機率正在上升。"
     }
   ]
 }
