@@ -1,7 +1,144 @@
 {
-  "updated": "2026-06-23 17:02:34",
-  "count": 17222,
+  "updated": "2026-06-23 17:06:32",
+  "count": 17216,
   "items": [
+    {
+      "id": "te:economy:561154",
+      "time": "2026-06-23 17:05:35",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United Kingdom",
+        "Composite PMI",
+        "Importance 1"
+      ],
+      "text": "UK Private Sector Activity Falls for 2nd Month — The S&P Global UK Composite PMI eased to 49.4 in June of 2026 from 49.7 in May, a second month of contraction following 11 months of expansion in the British private sector activity, according to a flash estimate. This was below expectations of an expansion at 50.6. Activity fell for services (48.7 vs 49.3 in May), outweighing the faster expansion for goods producers (53.6 vs 52.2). Total private sector sales fell the most since April 2025 as a decline in services offset growth in manufacturing, even though the latter slowed to a six-month low. Likewise, backlogs of work increased the most in seven months. Still, input price inflation eased for a second month as a modest de-escalation in the Middle East eased the upward pressure on energy prices, although cost growth remained above average. Output charge inflation also softened. Employment continued to fall at a fast rate, with workers still citing higher National Insurance contributions."
+    },
+    {
+      "id": "4950095",
+      "time": "2026-06-23 17:05:33",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "馬來西亞富時吉隆坡綜合指數收盤下跌1.2%，報1679.92點。"
+    },
+    {
+      "id": "4950094",
+      "time": "2026-06-23 17:05:15",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【水晶光電：公司擬向日本光馳購買鍍膜裝置，交易總金額為2.33億日元】水晶光電公告，公司因業務發展需要，擬向公司之參股公司日本光馳購買鍍膜裝置，交易總金額為2.33億日元（按2026年6月23日匯率約合人民幣980.58萬元），佔公司2025年經審計淨資產的0.10%。"
+    },
+    {
+      "id": "4950093",
+      "time": "2026-06-23 17:05:12",
+      "tags": [
+        "國際"
+      ],
+      "text": "【聯合國調查委員會呼籲以色列停止襲擊巴勒斯坦兒童】當地時間23日，聯合國巴勒斯坦被佔領土（包括東耶路撒冷）和以色列問題獨立國際調查委員會在日內瓦釋出報告稱，以色列當局和安全部隊在加沙地帶及約旦河西岸針對巴勒斯坦兒童實施蓄意襲擊，相關行為構成種族滅絕、危害人類罪和戰爭罪。（央視新聞）"
+    },
+    {
+      "id": "mkt:019ef3b9-f757-7dd8-b0d3-817666434e7c",
+      "time": "2026-06-23 17:05:11",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Alphabet",
+        "Amazon",
+        "Meta Platforms",
+        "Market Themes",
+        "AI Revolution",
+        "Magnificent 7",
+        "Nasdaq100",
+        "Impact bearish",
+        "US10Y"
+      ],
+      "text": "【SpaceX extends premarket slide; market cap may fall below $2 trillion】SpaceX shares extended premarket losses, slipping as much as about 5% to roughly $147 — below their IPO first-day open of $150 — putting the company's market value on track to fall under $2 trillion. After three straight sessions of declines, SpaceX has lost more than $600 billion of market value; Monday alone erased about $400 billion, the second-largest single-day U.S. market-cap decline on record after NVIDIA's roughly $590 billion drop last year. SpaceX said it will issue investment-grade bonds, with the initial offering expected to raise at least $20 billion, a move market participants view as the start of large-scale financing for its AI ambitions. In recent months Alphabet, Amazon, Meta Platforms and Oracle have raised hundreds of billions of dollars of debt across multiple credit markets."
+    },
+    {
+      "id": "mkt:019ef3b9-342b-7dd8-b0d3-799e0015ef2e",
+      "time": "2026-06-23 17:04:21",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "Brent"
+      ],
+      "text": "Lebanese civil defense and security sources said Israeli fire on a town in southern Lebanon killed one person."
+    },
+    {
+      "id": "4950091",
+      "time": "2026-06-23 17:04:02",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中鐵特貨：選舉穆鑫先生擔任公司第三屆董事會副董事長、戰略委員會委員】中鐵特貨公告，公司於2026年6月23日召開第三屆董事會第十次會議，審議透過了《關於選舉公司副董事長、戰略委員會委員的議案》，選舉穆鑫先生擔任公司第三屆董事會副董事長、戰略委員會委員，任期與第三屆董事會任期一致。"
+    },
+    {
+      "id": "4950090",
+      "time": "2026-06-23 17:03:46",
+      "tags": [
+        "國際"
+      ],
+      "text": "黎巴嫩民防部門及安全：以色列炮擊黎巴嫩南部城鎮，造成1人死亡。"
+    },
+    {
+      "id": "te:economy:561151",
+      "time": "2026-06-23 17:03:36",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "South Africa",
+        "Consumer Confidence",
+        "Importance 1"
+      ],
+      "text": "South Africa Consumer Confidence Falls Sharply in Q2 — The FNB/BER Consumer Confidence Index for South Africa plummeted to -19 in Q2 2026 from -7 in the previous period, marking the lowest since Q1 2025. The deterioration in sentiment signaled weaker willingness to spend, as higher fuel costs tied to the Middle East conflict weighed on household budgets, particularly among middle- and high-income groups."
+    },
+    {
+      "id": "4950089",
+      "time": "2026-06-23 17:03:33",
+      "tags": [
+        "其他"
+      ],
+      "text": "【《中國廣告業發展指數報告（2026）》釋出】記者今天瞭解到，《中國廣告業發展指數報告（2026）》正式釋出。作為引導行業從高速增長轉向高質量發展的“風向標”，中國廣告業發展指數已連續五年向社會公開發布。指數以產業實力、產業環境、社會效益和經濟效益四大維度為一級指標，綜合衡量我國廣告業的發展現狀與態勢。（央視新聞）"
+    },
+    {
+      "id": "4950088",
+      "time": "2026-06-23 17:03:19",
+      "tags": [
+        "公司"
+      ],
+      "text": "【交銀投資等在深圳成立新私募創業投資基金 出資額20億】天眼查App顯示，近日，深圳坪山高新區深投控交融硬科技私募創業投資基金合夥企業（有限合夥）成立，執行事務合夥人為深圳市投控資本有限公司、交銀資本管理有限公司，出資額20億人民幣，經營範圍為以私募基金從事股權投資、投資管理、資產管理等活動。合夥人資訊顯示，該基金由交銀金融資產投資有限公司、深圳投控灣區股權投資基金合夥企業（有限合夥）、交銀資本管理有限公司等共同出資。"
+    },
+    {
+      "id": "4950087",
+      "time": "2026-06-23 17:03:13",
+      "tags": [
+        "公司"
+      ],
+      "text": "【三祥新材：主營業務未發生變化 市場環境及行業政策也未發生重大調整】三祥新材(603663.SH)釋出異動公告，公司主要業務為鋯系製品、鑄造改性材料等工業新材料的研發、生產和銷售，主要產品為電熔氧化鋯、海綿鋯、氧氯化鋯、奈米氧化鋯及特種陶瓷等。截至目前，公司的主營業務未發生變化，內部生產經營活動秩序正常，所處的市場環境及行業政策也未發生重大調整。"
+    },
+    {
+      "id": "4950085",
+      "time": "2026-06-23 17:02:58",
+      "tags": [
+        "其他"
+      ],
+      "text": "【商務部電子商務司負責人介紹2026年1-5月我國電子商務發展情況】2026年以來，商務部以“政策+活動”雙輪驅動，推動電子商務平穩創新發展，持續發揮資料、技術、場景優勢，更好賦能產業數字化轉型，開拓對外開放新空間，推動做強做優做大實體經濟。賦能製造業向好向新。培育產業電商，持續開展“電商+產業帶”對接，發揮電子商務精準匹配優勢，提升產業帶商品供需適配性，助力企業數智化製造。據國家統計局資料，1-5月全國網上商品零售額增長5.0%，對社會消費品零售總額增長貢獻率88.3%。據商務大資料監測，1-5月智慧助行外骨骼和智慧眼鏡網上零售額分別增長560.5%和165.9%。推動服務業擴能提質。開展“4+N”網路促銷活動，透過場景融合、推廣引流，提升生活性服務業便捷化水平。據國家統計局資料，1-5月網上服務零售額增長7.6%，商務大資料監測的旅遊、餐飲透過網上渠道實現零售額分別增長30%、17%。電子商務技術創新快，帶動生產性服務業快速發展，據國家郵政局資料，1-4月我國快遞業務收入增長6.6%；據工業和資訊化部資料，1-4月我國移動網際網路流量增長18.5%、雲端計算和大資料服務收入增長12.6%。增強外經貿韌性活力。“絲路電商惠全球”主題活動走深走實，推動全球優質商品“出口中國”。1-5月商務大資料重點監測跨境電商進口平臺全球商品銷售額增長2.9%。冰島三文魚、哈薩克菜籽油、肯亞咖啡豆深受國內消費者喜愛，網上零售額分別增長264.8%、98.3%和67.5%。電子商務促進吸收外資，據商務部資料，1-4月我國數字領域實際使用外資佔比較去年全年提升2.1個百分點。（商務部）"
+    },
+    {
+      "id": "4950083",
+      "time": "2026-06-23 17:02:09",
+      "tags": [
+        "公司"
+      ],
+      "text": "【歐陸通：擬以304.97萬元收購杭州雲電20%股權】歐陸通公告，公司擬以自有資金304.97萬元收購王越天先生持有的杭州雲電科技能源有限公司20%股權。交易完成後，杭州雲電將成為公司的全資子公司。此次交易構成關聯交易，已獲董事會審議透過。"
+    },
     {
       "id": "4950082",
       "time": "2026-06-23 17:01:47",
@@ -217,6 +354,15 @@
         "市場"
       ],
       "text": "【黃河旋風今日漲停，國泰海通上海松江區中山東路淨買入2.97億元】黃河旋風今日漲停，成交額54.72億元，換手率25.56%，盤後龍虎榜資料顯示，滬股通專用席位買入1.79億元並賣出8005.43萬元。國泰海通上海松江區中山東路淨買入2.97億元。"
+    },
+    {
+      "id": "em:qqyh_ozyh:202606233779754973",
+      "time": "2026-06-23 16:56:09",
+      "tags": [
+        "央行",
+        "歐洲央行"
+      ],
+      "text": "【歐洲央行首席經濟學家：通脹率或較長時間維持在2%以上】歐洲央行首席經濟學家菲利普·連恩6月23日稱，通貨膨脹率將“在相當長一段時間內”徘徊在目標水平之上，“一系列前瞻性訊號表明，未來數月將面臨通脹壓力”。"
     },
     {
       "id": "mkt:019ef3b1-ad53-7dd8-b0d3-58ba732bb916",
@@ -157669,212 +157815,6 @@
         "國際"
       ],
       "text": "市場訊息：日本外務大臣茂木敏充與伊朗薩爾達成共識，日以雙方將持續保持溝通。"
-    },
-    {
-      "id": "mkt:019ecfae-6d26-7dd8-b028-e6f32479c78a",
-      "time": "2026-06-16 17:06:15",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK",
-        "EURUSD",
-        "Impact bearish",
-        "DXY",
-        "Impact bullish",
-        "DAX"
-      ],
-      "text": "Eurozone June ZEW current-conditions index -43.4, previous -41.4."
-    },
-    {
-      "id": "mkt:019ecfae-4f80-7dd8-b028-dc8f83e69960",
-      "time": "2026-06-16 17:06:07",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "Eurozone | ZEW Current Situation Index (Jun) | actual -43.4 | previous -41.4"
-    },
-    {
-      "id": "mkt:019ecfad-9947-7dd8-b028-d494623082cc",
-      "time": "2026-06-16 17:05:21",
-      "tags": [
-        "MKT News",
-        "QTEC"
-      ],
-      "text": "Invesco Nasdaq Technology ETF to suspend trading from market open on June 17, 2026; trading will resume at 10:30 on June 17, 2026. Redemption requests will be processed as normal during the suspension."
-    },
-    {
-      "id": "4938255",
-      "time": "2026-06-16 17:05:12",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "馬來西亞富時吉隆坡綜合指數收盤上漲 1.1%，報 1709.99 點。"
-    },
-    {
-      "id": "mkt:019ecfad-75ef-7dd8-b028-cea86ec92aa2",
-      "time": "2026-06-16 17:05:11",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Zhao Leji meets Myanmar president Min Aung Hlaing】Zhao Leji, chairman of the National People’s Congress Standing Committee, met Myanmar President Min Aung Hlaing in Beijing on the afternoon of the 16th. Zhao said China will follow the leaders’ consensus to uphold good‑neighborly ties, deepen mutually beneficial cooperation and strengthen the China‑Myanmar community of shared future. He said the National People’s Congress will expand multi‑level, multi‑area exchanges and legislative experience sharing with Myanmar’s parliament to support bilateral relations."
-    },
-    {
-      "id": "4938254",
-      "time": "2026-06-16 17:05:01",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【納指ETF易方達：提示二級市場交易價格溢價風險】納指ETF易方達公告稱，近期本基金二級市場交易價格明顯高於基金份額參考淨值，出現較大幅度溢價。2026年6月16日，收盤價為2.086元，收盤時基金份額參考淨值為1.9317元。提醒投資者關注溢價風險，審慎投資，盲目投資或遭受重大損失。若6月17日溢價幅度未有效回落，基金有權申請停牌等措施警示風險。目前基金運作正常，無應披露未披露資訊。"
-    },
-    {
-      "id": "4938253",
-      "time": "2026-06-16 17:04:41",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【納斯達克100ETF招商：提示二級市場交易價格溢價風險】納斯達克100ETF招商公告稱，近期該基金二級市場交易價格明顯高於基金份額參考淨值，出現較大幅度溢價。2026年6月16日，收盤價為2.399元，收盤時基金份額參考淨值為2.2354元。若6月17日溢價幅度未有效回落，基金有權申請盤中臨時停牌等措施。投資者可在二級市場交易或申贖，交易價格受多種因素影響。目前基金運作正常，無應披露而未披露的重大資訊。"
-    },
-    {
-      "id": "4938252",
-      "time": "2026-06-16 17:04:36",
-      "tags": [
-        "市場"
-      ],
-      "text": "【基建施工火力全開 中國基建跑出加速度】挖掘機是基礎設施建設的“標配”，是反映基礎設施建設、觀察固定資產投資等經濟變化的風向標。資料顯示，5月份，全國工程機械平均開工率為44.36%，綜合開工率排名前十的省份分別是：安徽、浙江、寧夏、海南、北京、江西、河北、遼寧、青海和福建。5月份，全國港口裝置開工率為38.87%，開工率環比上漲1.53個百分點，同比上漲9.19個百分點。我國港口物流正處於全域協同、多點爆發的強勁發展新格局。5月份，混凝土裝置開工率為46.78%，環比上漲1.82個百分點，同比上漲6.26個百分點，表明全國市政基建、交通工程、產業園區及城市更新專案正加速進入主體施工與澆築高峰期，實體投資落地成效持續顯現，土建施工需求旺盛，成為支撐工程機械行業平穩執行的中堅力量。（央視財經）"
-    },
-    {
-      "id": "4938251",
-      "time": "2026-06-16 17:04:34",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：日本茂木敏充與以色列薩爾於週二舉行電話會談。"
-    },
-    {
-      "id": "4938250",
-      "time": "2026-06-16 17:03:54",
-      "tags": [
-        "國際",
-        "兩會"
-      ],
-      "text": "【趙樂際會見緬甸總統敏昂萊】全國人大常委會委員長趙樂際16日下午在北京會見緬甸總統敏昂萊。趙樂際表示，中緬山水相連，胞波情誼深厚。今天上午，習近平主席同總統先生舉行重要會談，為中緬命運共同體建設擘畫新的藍圖。中方願同緬方一道，以兩國元首重要共識為根本遵循，堅持睦鄰友好，深化互利合作，不斷豐富中緬命運共同體建設時代內涵。中國全國人大願同緬甸聯邦議會密切多層次、多領域交流合作，加強立法經驗交流互鑑，助力中緬關係發展。敏昂萊表示，緬甸恪守一箇中國原則，反對任何形式的“臺獨”，完全支援習近平主席提出的四大全球倡議，願同中方深化互利合作，推動兩國立法機構加強立法交流，拓展專門委員會、人員培訓等方面合作。（新華社）"
-    },
-    {
-      "id": "mkt:019ecfab-d6f1-7dd8-b028-c41277491e4c",
-      "time": "2026-06-16 17:03:25",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "EURUSD",
-        "Impact bullish",
-        "DAX"
-      ],
-      "text": "German think-tank ZEW said this could ease substantial pressure from energy prices and inflation, benefit energy-intensive industries and households, and bolster domestic demand."
-    },
-    {
-      "id": "mkt:019ecfab-d5ec-7dd8-b028-ba32e573c019",
-      "time": "2026-06-16 17:03:25",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Canada May existing-home sales post largest monthly gain since Oct 2024】Seasonally adjusted Canadian Association of Real Estate data showed May existing-home sales rose 5.5% MoM, the biggest monthly increase since Oct 2024; unadjusted sales were down 5.1% YoY. CREA said May was the first month in 2026 to show a clear demand rebound. Sales and new listings remain roughly flat or below year-earlier levels, while the national benchmark price has fallen for a 16th consecutive month. List-to-sale price ratios have narrowed and days on market have shortened, indicating improving market balance."
-    },
-    {
-      "id": "4938249",
-      "time": "2026-06-16 17:03:23",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【加拿大5月成屋銷售增幅創2024年10月以來最大】加拿大5月成屋銷售創下2024年秋季以來最快增速，當時特朗普尚未贏得第二個總統任期，也尚未對加拿大部分關鍵製造業領域加徵關稅。房地產經紀人越來越有信心認為，5月銷售激增標誌著加拿大房地產市場在經歷長期低迷後開始復甦。目前銷售和掛牌數量較上年同期持平或下降，而基準房價已連續16個月下跌。加拿大房地產協會週二表示，經季節性調整後，5月成屋銷售較前一個月增長5.5%，並稱這是2026年以來首次出現需求明顯回升的月份。未經季節性調整的資料則顯示銷售同比下降5.1%。5.5%的月度增幅為2024年10月以來最大。“從表面之下來看，市場狀況改善已有一段時間，”該房地產組織經濟學家肖恩·凱斯卡特表示，賣家和買家的預期正逐漸趨於一致，成交價與掛牌價比率收窄以及房源掛牌至成交時間縮短就是證明。"
-    },
-    {
-      "id": "em:qqyh_rbyh:202606163773097163",
-      "time": "2026-06-16 17:03:15",
-      "tags": [
-        "央行",
-        "日本央行"
-      ],
-      "text": "【加息大門仍敞開？日本央行“二把手”：將密切關注中東局勢 須警惕通脹風險】週二，日本央行宣佈加息25個基點，將目標利率由0.75%上調至1.00%，符合預期。這是31年來的最高利率水平。這標誌著其貨幣政策正常化程序中的又一里程碑式舉措，此舉旨在抑制伊朗戰爭引發的能源衝擊所帶來的價格壓力。"
-    },
-    {
-      "id": "4938248",
-      "time": "2026-06-16 17:03:12",
-      "tags": [
-        "國際"
-      ],
-      "text": "【烏方證實打擊莫斯科地區一煉油廠】當地時間6月16日，烏克蘭總統澤連斯基透過社交媒體發文，證實烏方已襲擊俄羅斯莫斯科地區一處煉油廠。澤連斯基強調，本次襲擊莫斯科地區煉油廠的行動，是對俄方此前打擊烏境內目標的對等自衛回應，也是針對俄方拖延戰事行為的反制舉措，俄烏衝突亟須早日結束。（央視新聞）"
-    },
-    {
-      "id": "mkt:019ecfab-9d93-7dd8-b028-b43e5d175e59",
-      "time": "2026-06-16 17:03:11",
-      "tags": [
-        "MKT News",
-        "DAX",
-        "Impact bullish",
-        "EURUSD",
-        "US10Y",
-        "Impact bearish"
-      ],
-      "text": "German think tank ZEW said that as financial market experts increasingly expect the Iran conflict to be nearing an end, its indicator returned to positive territory."
-    },
-    {
-      "id": "4938247",
-      "time": "2026-06-16 17:02:56",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【納指ETF廣發：二級市場交易價格溢價 提醒投資者注意風險】納指ETF廣發公告稱，近期該基金二級市場交易價格明顯高於基金份額參考淨值，出現較大幅度溢價。2026年6月16日，收盤價為1.6930元，收盤時基金份額參考淨值為1.5567元。若6月17日溢價幅度未有效回落，基金有權申請停牌等措施。基金管理人提醒投資者關注溢價風險，審慎投資，目前基金運作正常，無應披露未披露重大資訊。"
-    },
-    {
-      "id": "4938246",
-      "time": "2026-06-16 17:02:51",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【納斯達克ETF華安：提示二級市場交易價格溢價風險】納斯達克ETF華安公告稱，近期該基金二級市場交易價格明顯高於基金份額參考淨值，出現較大幅度溢價。2026年6月16日，收盤價為2.514元，收盤時基金份額參考淨值為2.3560元。若6月17日溢價幅度未有效回落，基金有權申請停牌等措施。投資者可在二級市場交易或申贖，交易價格受多種因素影響，可能面臨損失。目前基金運作正常，無應披露而未披露的重大資訊。"
-    },
-    {
-      "id": "4938245",
-      "time": "2026-06-16 17:02:45",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【納斯達克100ETF大成：提示基金二級市場交易價格溢價風險】納斯達克100ETF大成公告稱，近期該基金二級市場交易價格明顯高於基金份額參考淨值，出現較大幅度溢價。2026年6月16日，收盤價為1.867元，收盤時基金份額參考淨值為1.7351元。若6月17日溢價幅度未有效回落，基金有權申請停牌等措施警示風險。基金運作正常，無應披露未披露重大資訊。提醒投資者關注溢價風險，審慎投資。"
-    },
-    {
-      "id": "4938244",
-      "time": "2026-06-16 17:02:40",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【納指ETF匯添富：二級市場交易價格溢價 提醒投資風險】納指ETF匯添富公告稱，2026年6月16日，本基金二級市場收盤價為2.443元，收盤時基金份額參考淨值（IOPV）為2.2676元，交易價格明顯高於淨值，出現較大幅度溢價。提醒投資者密切關注溢價風險，審慎投資，盲目投資或遭受重大損失。若6月17日溢價幅度未有效回落，基金有權申請停牌等措施警示風險。目前基金運作正常，無應披露未披露重大資訊。"
-    },
-    {
-      "id": "mkt:019ecfab-1876-7dd8-b028-a84aa9ebe742",
-      "time": "2026-06-16 17:02:37",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Europe & UK",
-        "EURUSD",
-        "Impact bullish",
-        "DXY",
-        "Impact bearish",
-        "DAX"
-      ],
-      "text": "Eurozone June ZEW economic sentiment index 9.5, prior -9.1."
     }
   ]
 }
