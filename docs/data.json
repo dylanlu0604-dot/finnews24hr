@@ -1,7 +1,172 @@
 {
-  "updated": "2026-06-23 14:06:26",
-  "count": 17223,
+  "updated": "2026-06-23 14:10:33",
+  "count": 17226,
   "items": [
+    {
+      "id": "mkt:019ef318-f6a5-7dd8-b0ce-1efbc416bd42",
+      "time": "2026-06-23 14:09:19",
+      "tags": [
+        "MKT News",
+        "Important",
+        "9984.T",
+        "Impact bearish",
+        "N225"
+      ],
+      "text": "Japanese chip stocks extended losses; Kioxia shares fell 14%, SoftBank Group shares fell nearly 10%."
+    },
+    {
+      "id": "te:markets:561021",
+      "time": "2026-06-23 14:09:05",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 2"
+      ],
+      "text": "Brent Drops Further — Brent crude oil dropped below $77 per barrel on Tuesday, extending losses from the previous session to hit a near three-month low on signs of initial progress in ongoing peace negotiations between the US and Iran in Switzerland. In a key development, Washington granted Iran a 60-day license to sell oil on international markets, raising expectations of a quicker recovery in global supply. Traffic through the Strait of Hormuz has also picked up, with producers including Kuwait and the United Arab Emirates finding alternative routes to export energy, while Iran shipped more than 30 million barrels over the past week. Meanwhile, Iran's nuclear program remains a major point of contention after Vice President JD Vance said Tehran had agreed to admit nuclear inspectors, a claim Iranian officials have denied."
+    },
+    {
+      "id": "4949654",
+      "time": "2026-06-23 14:08:14",
+      "tags": [
+        "市場",
+        "焦點",
+        "國際"
+      ],
+      "text": "韓國KOSPI指數向下觸及8300點，日內跌超9%。"
+    },
+    {
+      "id": "mkt:019ef317-c779-7dd8-b0ce-17f3d7789379",
+      "time": "2026-06-23 14:08:02",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Emerging Markets",
+        "Nikkei 225",
+        "Impact bearish",
+        "Hang Seng Index",
+        "S&P500"
+      ],
+      "text": "South Korea's KOSPI hit 8,300 points, down more than 9% intraday."
+    },
+    {
+      "id": "te:markets:561020",
+      "time": "2026-06-23 14:07:40",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Oil Drops Further — Crude oil fell toward $73 per barrel on Tuesday, extending losses from the previous session to hit a near three-month low on signs of initial progress in ongoing peace negotiations between the US and Iran in Switzerland. In a key development, Washington granted Iran a 60-day license to sell oil on international markets, raising expectations of a quicker recovery in global supply. Traffic through the Strait of Hormuz has also picked up, with producers including Kuwait and the United Arab Emirates finding alternative routes to export energy, while Iran shipped more than 30 million barrels over the past week. Meanwhile, Iran's nuclear program remains a major point of contention after Vice President JD Vance said Tehran had agreed to admit nuclear inspectors, a claim Iranian officials have denied."
+    },
+    {
+      "id": "4949653",
+      "time": "2026-06-23 14:07:32",
+      "tags": [
+        "公司"
+      ],
+      "text": "【馬斯克之後誰將成下一個萬億富豪？預測市場顯示扎克伯格最有希望】得益於對SpaceX的持股，埃隆·馬斯克在該公司6月12日上市後，成為全人類歷史上首位身家破萬億美元的人。而預測市場的交易者認為，馬克·扎克伯格最有希望成為下一位萬億美元富豪，不過這仍然是一個小機率事件。在預測平臺Kalshi上，交易員們押注Meta CEO扎克伯格有32%的機率成為全球第二位萬億美元富豪。Kalshi交易員給出了英偉達CEO黃仁勳第二高的機率，認為他達到即萬億美元淨資產的可能性為21%。"
+    },
+    {
+      "id": "mkt:019ef317-4e4b-7dd8-b0ce-0fdc966da4ac",
+      "time": "2026-06-23 14:07:31",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "SZSE Component",
+        "Impact bearish"
+      ],
+      "text": "Shenzhen Component Index fell more than 3%; among constituents, Defu Technology fell over 14% and Tongguan Copper Foil dropped over 11%."
+    },
+    {
+      "id": "4949652",
+      "time": "2026-06-23 14:07:27",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "倫敦證券交易所集團資料顯示，俄羅斯盧布對美元匯率首次跌破75關口，為5月6日以來首次。"
+    },
+    {
+      "id": "4949651",
+      "time": "2026-06-23 14:07:19",
+      "tags": [
+        "其他"
+      ],
+      "text": "【馬士基任命Scott Elliott為亞太區總裁】6月23日，馬士基宣佈任命Scott Elliott為亞太區總裁。Elliott自2026年1月起以臨時總裁身份管理亞太區業務。他於2020年加入馬士基，此前一直擔任亞太區首席財務官。"
+    },
+    {
+      "id": "4949650",
+      "time": "2026-06-23 14:07:11",
+      "tags": [
+        "市場"
+      ],
+      "text": "MSCI亞太指數下跌3%至277.27點。"
+    },
+    {
+      "id": "4949649",
+      "time": "2026-06-23 14:07:10",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "上證50指數期貨連續主力合約日內跌3%，現報2888.20點。"
+    },
+    {
+      "id": "4949648",
+      "time": "2026-06-23 14:06:50",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "深證成指跌3.00%，現報15881.112點；上證指數跌1.27%，現報4110.369點；創業板指跌3.64%，現報4200.884點。"
+    },
+    {
+      "id": "4949647",
+      "time": "2026-06-23 14:06:40",
+      "tags": [
+        "市場",
+        "焦點",
+        "A股"
+      ],
+      "text": "富時中國A50指數期貨跌超3%。"
+    },
+    {
+      "id": "4949646",
+      "time": "2026-06-23 14:06:31",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗駐巴基斯坦大使館23日在社交媒體發文說，伊朗總統佩澤希齊揚將於當天率團訪問巴基斯坦。（新華社）"
+    },
+    {
+      "id": "4949645",
+      "time": "2026-06-23 14:06:26",
+      "tags": [
+        "公司"
+      ],
+      "text": "【兆易創新A股成交額達300億元】6月23日下午，兆易創新A股成交額達300億元，現跌6.23%。"
+    },
+    {
+      "id": "mkt:019ef316-52be-7dd8-b0ce-07a65b9368b8",
+      "time": "2026-06-23 14:06:26",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bearish",
+        "SSE Composite",
+        "Hang Seng Index"
+      ],
+      "text": "FTSE China A50 Index futures fell more than 3%."
+    },
     {
       "id": "4949644",
       "time": "2026-06-23 14:05:33",
@@ -157890,123 +158055,6 @@
         "Impact bullish"
       ],
       "text": "【World Gold Council survey: more central banks plan to raise gold reserves】The World Gold Council said 45% of central banks surveyed expect to increase gold holdings over the next 12 months, up 2 percentage points from a year earlier. The annual survey of 74 central banks (conducted Feb. 5–May 19) found 54% expect holdings to remain unchanged and 1% expect reductions. Most responses were received after the late‑Feb Middle East conflict that pushed oil higher and briefly weighed on gold; WGC said the recent price dip has not changed central banks’ appetite for gold. 93% of respondents now hold gold, versus 81% a year ago. 90% cited gold’s crisis performance as a key reason for holding; other drivers were long‑term value storage and portfolio diversification. Emerging-market and developing-economy respondents (85%) were especially likely to view gold as a geopolitical‑risk hedge. In the past 12 months, 9% of respondents increased domestic gold storage (vs. 5% a year ago) and 10% diversified overseas storage locations (vs. 2%); looking ahead, 7% plan to increase domestic storage and 9% plan to diversify overseas storage in the next 12 months."
-    },
-    {
-      "id": "4937849",
-      "time": "2026-06-16 14:10:09",
-      "tags": [
-        "公司"
-      ],
-      "text": "【巨星科技成立國際貿易公司 含可穿戴智慧裝置業務】企查查APP顯示，近日，杭州瀚際國際貿易有限公司成立，經營範圍包含：充電樁銷售；新能源原動裝置銷售；數字文化創意技術裝備銷售；可穿戴智慧裝置銷售等。企查查股權穿透顯示，該公司由巨星科技全資持股。"
-    },
-    {
-      "id": "4937848",
-      "time": "2026-06-16 14:09:57",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【里昂：預計下半年油價維持80美元以上，予三桶油股份“跑贏大市”評級】里昂發表研報指，中東局勢緩和，令油價回落至每桶85美元，市場普遍預期油價將重返70美元水平，但考慮到生產設施受損及基建瓶頸，預測全球石油供應在未來6至12個月內無法恢復至中東戰事前水平。該行目前預計下半年油價將維持於每桶80美元以上，對比今年上半年平均為94美元，預料中資石油股將因此受惠，錄得近年最佳盈利及現金流表現。在當前的市場波動中，里昂認為中石油和中海油憑藉其穩健的基本面和7%股息率，是相對安全的投資選擇。里昂給予三桶油股份“跑贏大市”評級，選股次序為中石油、中海油，最後為中石化；預期中石油將最平衡地受惠於較高油價及天然氣價格，目標價為12港元；中海油、中石化的目標價分別為36港元和4.9港元。"
-    },
-    {
-      "id": "4937847",
-      "time": "2026-06-16 14:09:26",
-      "tags": [
-        "其他"
-      ],
-      "text": "義大利反壟斷監管機構依據《數字市場法案》規定，就蘋果硬體與軟體元件的互操作性問題對蘋果展開調查。"
-    },
-    {
-      "id": "mkt:019ecf0c-0aeb-7dd8-b021-eb6ddf1e427c",
-      "time": "2026-06-16 14:08:53",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC"
-      ],
-      "text": "Japan's finance minister KATAYAMA said she believes MYTHOS's access status remains consistent with prior commitments, but the ministry is verifying actual implementation."
-    },
-    {
-      "id": "4937846",
-      "time": "2026-06-16 14:08:52",
-      "tags": [
-        "國際"
-      ],
-      "text": "日本財務大臣片山皋月：相信Mythos的訪問許可權狀態仍與先前承諾一致，但正在核實實際操作情況。"
-    },
-    {
-      "id": "mkt:019ecf0c-0098-7dd8-b021-e5550c4813f4",
-      "time": "2026-06-16 14:08:50",
-      "tags": [
-        "MKT News",
-        "DXY",
-        "Impact bearish"
-      ],
-      "text": "Reserve Bank of Australia governor Bullock said waiting to act until inflation eases could be too late."
-    },
-    {
-      "id": "mkt:019ecf0b-db5b-7dd8-b021-d9651803cf1e",
-      "time": "2026-06-16 14:08:41",
-      "tags": [
-        "MKT News",
-        "MU.O",
-        "Impact bullish",
-        "000660.KS",
-        "005930.KS"
-      ],
-      "text": "【TrendForce: 1H 2026 contract prices up >100%; H2 structural shortages to keep NOR Flash, SLC NAND prices rising】TrendForce says memory vendors’ capacity plans are shifting toward HBM and high-layer 3D NAND, squeezing mature-node capacity used by NOR Flash and SLC SLC NAND. With demand stable, cumulative contract prices for both products rose over 100% in 1H 2026; suppliers have no major expansion plans, and TrendForce expects H2 prices to climb further as supply tightness persists."
-    },
-    {
-      "id": "4937845",
-      "time": "2026-06-16 14:07:18",
-      "tags": [
-        "公司",
-        "市場",
-        "焦點"
-      ],
-      "text": "SpaceX股價在tradegate平臺較昨日收盤價上漲10%。"
-    },
-    {
-      "id": "mkt:019ecf0a-41e5-7dd8-b021-d3d24925d7fd",
-      "time": "2026-06-16 14:06:56",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Japan's finance minister Katayama said the government must appropriately implement economic and fiscal policies."
-    },
-    {
-      "id": "mkt:019ecf0a-1d34-7dd8-b021-c8b2f60e947b",
-      "time": "2026-06-16 14:06:46",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC"
-      ],
-      "text": "Japan's finance minister Katayama said she will not comment on Bank of Japan decisions ahead of remarks by the BOJ's deputy governor."
-    },
-    {
-      "id": "mkt:019ecf09-fb0e-7dd8-b021-c728f944294b",
-      "time": "2026-06-16 14:06:38",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Reserve Bank of Australia governor Bullock said she still regards the labor market as somewhat tight at a 4.5% unemployment rate."
-    },
-    {
-      "id": "mkt:019ecf09-f23f-7dd8-b021-bfca1fcc3513",
-      "time": "2026-06-16 14:06:35",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "In a Reuters survey of 25 economists, 20 expect the Philippine central bank to raise its benchmark policy rate by 25 bps to 4.75% at its June 18 meeting; five forecast a 50 bps hike."
-    },
-    {
-      "id": "mkt:019ecf09-cc4e-7dd8-b021-b37444204dd1",
-      "time": "2026-06-16 14:06:26",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Alibaba's QoderWork launches 'Consciousness' feature】Alibaba's desktop AI assistant QoderWork has launched a 'Consciousness' feature combining memory, reflection and skill-evolution modules. In addition to saving conversations, the feature can proactively organize and purge redundant information and convert high-frequency tasks into reusable skills."
     }
   ]
 }
