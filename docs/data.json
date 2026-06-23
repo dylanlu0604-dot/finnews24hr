@@ -1,7 +1,285 @@
 {
-  "updated": "2026-06-23 21:29:45",
-  "count": 17293,
+  "updated": "2026-06-23 21:33:52",
+  "count": 17301,
   "items": [
+    {
+      "id": "4950782",
+      "time": "2026-06-23 21:33:17",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【半導體相關ETF美股開盤暴跌 3倍做多韓國ETF-Direxion重挫35%】美股開盤，3倍做多韓國ETF-Direxion重挫35%，三倍做多半導體ETF-Direxion下挫22%。2倍做多SNDK ETF-Tradr和2倍做多MU ETF-Direxion下跌超22%，2倍做多INTC ETF-Direxion下跌18%。"
+    },
+    {
+      "id": "mkt:019ef4af-4c0d-7dd8-b0da-79adb8d7e88b",
+      "time": "2026-06-23 21:33:09",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Putin says Ukraine is attempting to create energy problems for Russia."
+    },
+    {
+      "id": "mkt:019ef4af-388a-7dd8-b0da-76b6f584968a",
+      "time": "2026-06-23 21:33:04",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "WTI"
+      ],
+      "text": "Putin said that as Ukraine continues to lose territory, it is striking Russian civilian infrastructure."
+    },
+    {
+      "id": "4950781",
+      "time": "2026-06-23 21:33:02",
+      "tags": [
+        "其他"
+      ],
+      "text": "【江蘇揚中通報交通執法人員“違規收受禮品”：成立聯合調查組】6月23日，江蘇揚中市聯合調查組釋出情況通報：針對我市交通執法人員“違規收受禮品”等相關舉報，我市高度重視，已成立由市紀委監委牽頭，相關部門組成的聯合調查組，開展全面核查。根據調查情況，依規依紀依法作出嚴肅處理。據都市現場，6月23日，江蘇鎮江揚中市的何先生（化姓）反映，稱端午節當天，無意中看到一位執法人員開著一輛交通執法車停在路邊，而在路的另一邊，一輛開賓士的車主走向他，並從車上拿了4份禮品遞給他。之後，何先生向12345進行了舉報，但沒想到的，他等來的卻是被舉報人哥哥的電話，要求他做偽證。揚中市12345政務服務便民熱線工作人員回應稱，已按規定將情況轉交至揚中市交通運輸局處理，“交通運輸局反饋表示已經將相關情況以及附件材料作為違紀問題線索，上報市紀委駐派組，請駐派組立即介入調查，核實相關情況”。"
+    },
+    {
+      "id": "4950780",
+      "time": "2026-06-23 21:32:40",
+      "tags": [
+        "市場"
+      ],
+      "text": "多倫多股市GSPTSE指數開盤下跌173.89點，跌幅0.50%，報34828.29點。"
+    },
+    {
+      "id": "mkt:019ef4ae-ad9c-7dd8-b0da-6ec6249fe7f5",
+      "time": "2026-06-23 21:32:28",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "Chip Wars",
+        "Nasdaq100",
+        "Impact bearish"
+      ],
+      "text": "Philadelphia Semiconductor Index fell 7.5%."
+    },
+    {
+      "id": "4950779",
+      "time": "2026-06-23 21:32:12",
+      "tags": [
+        "市場"
+      ],
+      "text": "【SpaceX開盤下跌近3% 市值跌破2萬億美元】美股開盤，SpaceX股價下跌2.88%，報150.150美元/股，總市值報1.98萬億美元。"
+    },
+    {
+      "id": "4950778",
+      "time": "2026-06-23 21:31:56",
+      "tags": [
+        "市場",
+        "觀點",
+        "國際"
+      ],
+      "text": "特朗普簽署指令要求研發高效能量子計算機，摩根大通上調IBM評級後，Infleqtion與IBM股價上漲。"
+    },
+    {
+      "id": "4950777",
+      "time": "2026-06-23 21:31:51",
+      "tags": [
+        "國際"
+      ],
+      "text": "普京：烏克蘭正試圖給俄羅斯製造能源領域的問題。"
+    },
+    {
+      "id": "4950776",
+      "time": "2026-06-23 21:31:46",
+      "tags": [
+        "國際"
+      ],
+      "text": "普京在政府會議上表示：烏克蘭正因領土失守而襲擊我方民用設施。"
+    },
+    {
+      "id": "mkt:019ef4ad-fd00-7dd8-b0da-615beb423f83",
+      "time": "2026-06-23 21:31:43",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Wall Street (US)",
+        "S&P500",
+        "Impact bearish",
+        "SNDK.O",
+        "MU.O"
+      ],
+      "text": "U.S. equities opened lower: Dow down 0.66%, S&P 500 down 1.6%, Nasdaq down 2.3%. Storage names led declines—SanDisk (SNDK.O) down 11.3%, Micron Technology (MU.O) down 11.8%. SpaceX (SPCX.O) opened down 2.8%, marking a fourth straight session of losses and pushing its market value below $2 trillion."
+    },
+    {
+      "id": "4950775",
+      "time": "2026-06-23 21:31:34",
+      "tags": [
+        "國際"
+      ],
+      "text": "普京：政府應採取額外措施，抵消襲擊造成的後果。"
+    },
+    {
+      "id": "mkt:019ef4ad-c5bb-7dd8-b0da-5c5b3a8e5f1a",
+      "time": "2026-06-23 21:31:29",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Wall Street (US)",
+        "Dow",
+        "Impact bearish",
+        "S&P500",
+        "Nasdaq100"
+      ],
+      "text": "U.S. equities opened lower on June 23 (Tuesday): Dow Jones Industrial Average down 358.17 points (-0.69%) at 51,354.54; S&P 500 down 118.80 points (-1.59%) at 7,353.99; Nasdaq Composite down 622.10 points (-2.38%) at 25,544.50."
+    },
+    {
+      "id": "4950774",
+      "time": "2026-06-23 21:31:26",
+      "tags": [
+        "市場"
+      ],
+      "text": "費城半導體指數開盤下挫7%。"
+    },
+    {
+      "id": "te:markets:561201",
+      "time": "2026-06-23 21:31:06",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "China",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "Alibaba Stock Price Hits 14-month Low — Alibaba shares decreased to 102.36 USD, the lowest since April 2025. Over the past 4 weeks, Alibaba lost 21.03%, and in the last 12 months, it decreased 9.43%."
+    },
+    {
+      "id": "4950773",
+      "time": "2026-06-23 21:30:48",
+      "tags": [
+        "其他"
+      ],
+      "text": "義大利經濟部長：義大利無法在4月舉行全國選舉。"
+    },
+    {
+      "id": "4950772",
+      "time": "2026-06-23 21:30:48",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【美股開盤：三大股指齊跌】道指跌0.64%，標普500指數跌1.54%，納指跌2.45%。閃迪跌11.44%，美光跌11.00%，嘉年華跌9.37%，林氏研究跌9.36%。“七姐妹”方面：微軟漲1.05%，亞馬遜跌0.07%，Meta Platforms跌0.30%，蘋果跌0.57%，谷歌跌2.07%，英偉達跌3.64%，特斯拉跌3.79%。"
+    },
+    {
+      "id": "4950771",
+      "time": "2026-06-23 21:30:41",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "加拿大央行行長麥克勒姆：儘管失衡狀況正在緩慢調整，但美元的吸引力可能導致這種失衡持續更長時間。最好在達到臨界點之前調整失衡。我們可以有意識地解決失衡問題，也可以任其“以我們無法控制的方式”自行化解。需要創造更多有利於投資的場所，讓儲蓄有去處。非銀行貸款機構的增長給解決失衡問題帶來了困難。"
+    },
+    {
+      "id": "4950770",
+      "time": "2026-06-23 21:30:39",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "納斯達克中國金龍指數跌超1%，海天網路跌11.45%，世紀互聯跌5.32%，小鵬汽車跌4.79%，新氧跌4.79%，嗶哩嗶哩跌4.47%。"
+    },
+    {
+      "id": "te:economy:561200",
+      "time": "2026-06-23 21:30:31",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "China",
+        "Government Bond 10Y",
+        "Importance 1"
+      ],
+      "text": "China 10Y Bond Yield Hits 4-week High — China 10 Year Government Bond Yield increased to 1.79%, the highest since May 2026. Over the past 4 weeks, China 10Y Bond Yield lost 8.80 basis points, and in the last 12 months, it increased 10.20 basis points."
+    },
+    {
+      "id": "mkt:019ef4ac-56cc-7dd8-b0da-552e7cd1c1b6",
+      "time": "2026-06-23 21:29:55",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "BOC Governor Macklem: growth of non-bank lenders has made addressing imbalances more difficult."
+    },
+    {
+      "id": "mkt:019ef4ac-1cbf-7dd8-b0da-4901f0865f67",
+      "time": "2026-06-23 21:29:40",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "BOC Governor Macklem said Canada needs to create more investment-friendly outlets to give savers places to deploy their funds."
+    },
+    {
+      "id": "4950769",
+      "time": "2026-06-23 21:29:36",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "加拿大央行行長麥克勒姆：必須讓美國以外的投資更具吸引力。貿易戰的相互傷害會降低所有人的經濟增長。"
+    },
+    {
+      "id": "mkt:019ef4ab-fd16-7dd8-b0da-44516afc008e",
+      "time": "2026-06-23 21:29:32",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Bank of Canada Governor Macklem said policymakers can proactively address imbalances, or allow them to resolve \"in ways beyond our control\"."
+    },
+    {
+      "id": "4950768",
+      "time": "2026-06-23 21:29:12",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國：新型儲蓄產品推出後將取代終身個人儲蓄賬戶（LISA）。"
+    },
+    {
+      "id": "mkt:019ef4ab-9f6f-7dd8-b0da-3ab0552ddd8b",
+      "time": "2026-06-23 21:29:08",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "BOC Governor Macklem said it is preferable to address imbalances before they reach a tipping point."
+    },
+    {
+      "id": "mkt:019ef4ab-8c7c-7dd8-b0da-34f166abae89",
+      "time": "2026-06-23 21:29:03",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish",
+        "USDJPY",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "BOC Governor Macklem said imbalances are slowly adjusting, but the dollar's appeal could prolong them."
+    },
+    {
+      "id": "mkt:019ef4ab-574b-7dd8-b0da-2d50d61d1dfe",
+      "time": "2026-06-23 21:28:50",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Canada's central bank governor Macklem said more channels are needed to direct savings to regions outside the United States to build a more balanced, resilient global system."
+    },
+    {
+      "id": "4950767",
+      "time": "2026-06-23 21:28:38",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "加拿大央行行長麥克勒姆批評使用關稅和貨幣貶值的做法。加拿大央行行長麥克勒姆表示，對沖基金和非銀行金融機構採用的槓桿交易策略，可能正在使這一核心市場變得更加脆弱。全球失衡現象正在加劇，這可能也在加大金融穩定風險。"
+    },
     {
       "id": "mkt:019ef4aa-f5db-7dd8-b0da-26dcda21bf74",
       "time": "2026-06-23 21:28:25",
@@ -158167,218 +158445,6 @@
         "焦點"
       ],
       "text": "納斯達克中國金龍指數跌超2%，水滴公司跌7.14%，海天網路跌8.41%，金山雲跌5.91%，大全新能源跌4.46%，禾賽科技跌4.16%。"
-    },
-    {
-      "id": "4938922",
-      "time": "2026-06-16 21:33:26",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "歐洲央行首席經濟學家連恩：諸多經濟指標表現向好，能源衝擊發生在經濟具備韌性的大背景下。"
-    },
-    {
-      "id": "mkt:019ed0a2-c705-7dd8-b032-f2bd7f134b4a",
-      "time": "2026-06-16 21:33:09",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Star Stocks",
-        "Tesla",
-        "Market Themes",
-        "Magnificent 7",
-        "Nasdaq100",
-        "Impact bearish",
-        "S&P500"
-      ],
-      "text": "US marquee tech stocks retreated: Tesla (TSLA.O) -1.9%, Intel (INTC.O) -1.5%, Oracle (ORCL.N) -2.4%, ASML (ASML.O) -1.3%."
-    },
-    {
-      "id": "4938921",
-      "time": "2026-06-16 21:33:08",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "美國明星科技股普遍回落，特斯拉(TSLA.O)跌1.9%、英特爾(INTC.O)跌1.5%、甲骨文(ORCL.N)跌2.4%、阿斯麥(ASML.O)跌1.3%。"
-    },
-    {
-      "id": "te:markets:559370",
-      "time": "2026-06-16 21:33:07",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "stocks",
-        "Importance 1"
-      ],
-      "text": "General Electric Aerospace Stock Price Hits Near 25-year High — General Electric Aerospace shares increased to 348.88 USD, the highest since July 2001. Over the past 4 weeks, General Electric Aerospace gained 21.68%, and in the last 12 months, it increased 47.11%."
-    },
-    {
-      "id": "mkt:019ed0a2-4207-7dd8-b032-eddb386a6e02",
-      "time": "2026-06-16 21:32:35",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Wall Street (US)",
-        "Dow",
-        "Impact bullish",
-        "S&P500"
-      ],
-      "text": "U.S. equities opened higher Tuesday, June 16: Dow Jones Industrial Average +278.62 pts (+0.54%) to 51,949.65; S&P 500 +2.20 pts (+0.03%) to 7,556.49; Nasdaq Composite +4.87 pts (+0.02%) to 26,688.81."
-    },
-    {
-      "id": "te:markets:559369",
-      "time": "2026-06-16 21:32:19",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Baltic Dry Index Down for 2nd Day — The Baltic Exchange's dry bulk freight index, which monitors rates for ships carrying dry bulk commodities, eased for a second session on Tuesday, falling about 1.8% to 2,670 points, weighed down by the larger vessel segments. The capesize index, which typically transports 150,000-ton cargoes including iron ore and coal, dropped about 3.5% to 3,911 points; and the panamax index, which tracks vessels carrying around 60,000 to 70,000 tons of coal or grain, fell by 1.1% to 2,266 points. On the other hand, the supramax index increased by 1.3% to 1,685 points."
-    },
-    {
-      "id": "4938920",
-      "time": "2026-06-16 21:32:18",
-      "tags": [
-        "其他",
-        "焦點"
-      ],
-      "text": "大摩警告硬碟短缺至少持續到2028年，西部資料(WDC.O)漲超7%、希捷科技(STX.O)漲超5%。"
-    },
-    {
-      "id": "4938919",
-      "time": "2026-06-16 21:32:06",
-      "tags": [
-        "市場"
-      ],
-      "text": "鈀金期貨日內漲1%，現報1376.00美元/盎司。"
-    },
-    {
-      "id": "4938918",
-      "time": "2026-06-16 21:31:59",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "歐洲央行首席經濟學家連恩：建築業復甦至關重要；實際收入正逐步上升。"
-    },
-    {
-      "id": "4938917",
-      "time": "2026-06-16 21:31:47",
-      "tags": [
-        "公司",
-        "焦點"
-      ],
-      "text": "SpaceX市值超越亞馬遜，躋身全球第五大市值企業。"
-    },
-    {
-      "id": "te:markets:559368",
-      "time": "2026-06-16 21:31:31",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "stocks",
-        "Importance 1"
-      ],
-      "text": "Amphenol Stock Price Hits 20-week High — Amphenol shares increased to 159.90 USD, the highest since January 2026. Over the past 4 weeks, Amphenol gained 30.2%, and in the last 12 months, it increased 69.72%."
-    },
-    {
-      "id": "mkt:019ed0a1-368b-7dd8-b032-e230af0eabb7",
-      "time": "2026-06-16 21:31:26",
-      "tags": [
-        "MKT News",
-        "Important",
-        "SPCX.O",
-        "Impact bullish"
-      ],
-      "text": "SpaceX (SPCX.O) extended early trading gains to 8%."
-    },
-    {
-      "id": "4938916",
-      "time": "2026-06-16 21:31:25",
-      "tags": [
-        "其他",
-        "焦點"
-      ],
-      "text": "SpaceX(SPCX.O)盤初漲幅擴大至8%。"
-    },
-    {
-      "id": "4938915",
-      "time": "2026-06-16 21:31:20",
-      "tags": [
-        "市場"
-      ],
-      "text": "RACKSPACE股價飆升21%，創下5月15日以來盤中最高水平。"
-    },
-    {
-      "id": "4938914",
-      "time": "2026-06-16 21:31:11",
-      "tags": [
-        "其他"
-      ],
-      "text": "禮來收購4E Therapeutics，以推進慢性疼痛的非阿片類藥物治療方案。"
-    },
-    {
-      "id": "4938913",
-      "time": "2026-06-16 21:31:00",
-      "tags": [
-        "市場"
-      ],
-      "text": "特斯拉股價在連續三個交易日上漲後下跌2.1%。"
-    },
-    {
-      "id": "4938912",
-      "time": "2026-06-16 21:30:48",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "【美股開盤：三大股指漲跌不一】道指漲0.43%，標普500指數跌0.03%，納指跌0.02%。ZS跌3.18%，阿帕奇公司跌2.21%，派拓網路跌2.14%，西部資料漲6.45%，希捷漲3.88%。“七姐妹”方面：亞馬遜漲0.42%，谷歌漲0.32%，Meta Platforms漲0.15%，蘋果跌0.41%，英偉達跌0.95%，微軟跌1.25%，特斯拉跌1.95%。"
-    },
-    {
-      "id": "mkt:019ed0a0-98c2-7dd8-b032-dfc3648e828e",
-      "time": "2026-06-16 21:30:46",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Star Stocks",
-        "Amazon",
-        "Market Regions",
-        "Wall Street (US)",
-        "Market Themes",
-        "Magnificent 7",
-        "SPCX.O",
-        "Impact bullish"
-      ],
-      "text": "U.S. equities at the open: Dow up 0.08%, S&P 500 near unchanged, Nasdaq down 0.17%. SpaceX (SPCX.O) rose 3.9%; its market value surpassed Amazon to become the fifth-largest U.S. company by market capitalisation."
-    },
-    {
-      "id": "4938911",
-      "time": "2026-06-16 21:30:26",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "納斯達克中國金龍指數跌超1%，金山雲跌5.64%，禾賽科技跌4.21%，百度跌3.92%，嗶哩嗶哩跌3.53%，小鵬汽車跌3.04%。"
-    },
-    {
-      "id": "4938910",
-      "time": "2026-06-16 21:30:23",
-      "tags": [
-        "市場"
-      ],
-      "text": "多倫多證券交易所指數.GSPTSE開盤上漲64.49點，漲幅0.18%，報35,340.13點。"
-    },
-    {
-      "id": "4938909",
-      "time": "2026-06-16 21:29:47",
-      "tags": [
-        "其他"
-      ],
-      "text": "中國地震臺網自動測定：06月16日21時27分在青海海西州直轄區附近（北緯37.89度，東經95.35度）發生4.2級左右地震，最終結果以正式速報為準。"
     }
   ]
 }
