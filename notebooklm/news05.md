@@ -1,7 +1,385 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-06-24 04:17:36_
-_本檔包含 3074 則快訊，約 650630 字_
+_更新時間：2026-06-24 05:13:31_
+_本檔包含 3104 則快訊，約 651687 字_
+
+---
+
+### 2026-06-18 00:26:55  #Trading Economics #Markets #Germany #Stock Market #Importance 1
+
+DAX Rises for 5th Day — The DAX 40 ended marginally higher at 24,932 on Wednesday after a volatile session, its highest in nearly two weeks and marking a fifth straight gain. Market sentiment remained supported by optimism over a US-Iran interim peace deal, despite renewed threats from President Donald Trump toward Iran. Meanwhile, traders turned more cautious ahead of the Fed's policy announcement. While the US central bank is widely expected to hold rates steady, remarks from new Fed Chair Kevin Warsh will be closely scrutinized for clues on the policy outlook. Banks were the standout performers, with Commerzbank and Deutsche Bank surging 4.9% and 2.3%, respectively.
+
+---
+
+### 2026-06-18 00:26:53  #Trading Economics #Economy #Russia #GDP Annual Growth Rate #Importance 1
+
+Russia GDP Contracts for 1st Time in 3 Years — The Russian GDP contracted by 0.2% from the previous year in the first quarter of 2026, aligned with the preliminary estimate to confirm the first annual decline since the first quarter of 2023. Output contracted for manufacturing (-1.5%), professional, scientific, and technical activities (-6.1%), and transportation and storage (-1.8%). The data was aligned with the government's downgrade of the year's expected GDP to 0.4% from an earlier estimate of 1.3%. The downturn occurred despite a sharp rise in the prices of key Russian exports, including oil, natural gas, coal, industrial metals, and grains, following disruptions to Middle Eastern shipping routes caused by the war. Economic activity also weakened even as the Duma ramped up deficit spending in an effort to support an economy still constrained by Western sanctions, which continue to isolate Russian producers and financial institutions from international markets.
+
+---
+
+### 2026-06-18 00:25:43  #MKT News
+
+President Trump thanked Pakistan and Qatar for their assistance in reaching the agreement.
+
+---
+
+### 2026-06-18 00:25:04  #MKT News
+
+U.S. President Trump said he will discuss ballistic missiles and terrorist proxies.
+
+---
+
+### 2026-06-18 00:24:54  #國際
+
+特朗普：將商討彈道導彈、代理人相關議題。
+
+---
+
+### 2026-06-18 00:24:27  #其他
+
+捷藍航空：計劃裁撤紐瓦克機場空乘人員駐地，以及紐瓦克機場與拉瓜迪亞機場兩處技術運營基地。
+
+---
+
+### 2026-06-18 00:24:03  #市場
+
+【風力驟降致德國電價突破400歐元，創一年來新高】隨著風力發電量驟降，迫使市場不得不依賴成本更高的化石燃料發電，德國週四高峰時段的電價飆升至近一年來的最高水平。根據Epex Spot的資料，德國日前電力合約均價為每兆瓦時140歐元，而晚高峰時段的電價已攀升至400歐元以上。彭博社的模型預測顯示，週四晚8點，德國的風力發電量預計將降至1.5吉瓦的低谷。這一時段恰逢晚間用電需求高峰，同時也是太陽能發電逐漸消退的階段。
+
+---
+
+### 2026-06-18 00:23:56  #國際
+
+特朗普：與海灣國家討論非核問題。與海灣國家並行努力。
+
+---
+
+### 2026-06-18 00:23:53  #MKT News #Market Themes #The Trump Trade
+
+Trump says he is working in parallel with Gulf states.
+
+---
+
+### 2026-06-18 00:23:47  #MKT News
+
+President Trump said he discussed non-nuclear issues with Gulf states.
+
+---
+
+### 2026-06-18 00:23:22  #MKT News
+
+U.S. President Trump praised Iranians as smart and skilled negotiators.
+
+---
+
+### 2026-06-18 00:23:11  #市場 #國際
+
+特朗普：股市將繼續上漲。
+
+---
+
+### 2026-06-18 00:23:07  #MKT News #Important #Commodities #Energy #WTI #Impact bearish #Brent
+
+U.S. President Trump said maritime traffic through the Strait of Hormuz has risen sharply and that energy flows through the strait will resume in the coming days.
+
+---
+
+### 2026-06-18 00:22:58  #國際
+
+特朗普稱讚伊朗人聰慧，是出色的談判對手。
+
+---
+
+### 2026-06-18 00:22:35  #國際
+
+特朗普：霍爾木茲海峽的通航流量已經有所上升，海峽的能源流動將在未來幾天恢復。
+
+---
+
+### 2026-06-18 00:21:45  #國際
+
+特朗普：認為伊朗現任領導層等同於政權更迭。
+
+---
+
+### 2026-06-18 00:21:45  #MKT News #WTI #Impact bullish #Brent #DXY
+
+U.S. President Trump said the U.S. will provide Iran no funding or investment.
+
+---
+
+### 2026-06-18 00:21:25  #國際
+
+特朗普談及伊朗協議表示，在資金、投資方面，美國不會向伊朗做出任何讓步。
+
+---
+
+### 2026-06-18 00:21:14  #MKT News #Important #Market Themes #The Trump Trade
+
+U.S. President Trump said technical talks on the nuclear stockpile will begin immediately.
+
+---
+
+### 2026-06-18 00:21:12  #國際
+
+特朗普：不給伊朗錢。
+
+---
+
+### 2026-06-18 00:20:49  #公司
+
+CrowdStrike與亞馬遜旗下AWS擴大Project Quiltworks。
+
+---
+
+### 2026-06-18 00:20:28  #國際
+
+特朗普：有關核儲備的技術性磋商將即刻啟動。
+
+---
+
+### 2026-06-18 00:19:46  #MKT News #Market Themes #The Trump Trade
+
+Trump: Iran's behavior has been very appropriate.
+
+---
+
+### 2026-06-18 00:19:26  #MKT News #Market Themes #The Trump Trade
+
+U.S. President Trump said he was very saddened by Lebanon.
+
+---
+
+### 2026-06-18 00:19:16  #資料 #市場 #國際
+
+特朗普：我很同情黎巴嫩。
+
+---
+
+### 2026-06-18 00:19:09  #MKT News
+
+U.S. President Trump said Israel could do better in dealing with Hezbollah.
+
+---
+
+### 2026-06-18 00:18:49  #MKT News #WTI #Impact bearish #XAUUSD #S&P500 #Impact bullish
+
+President Trump said Iran has agreed not to produce or acquire nuclear weapons.
+
+---
+
+### 2026-06-18 00:18:43  #國際
+
+特朗普：以色列在對待真主黨問題上可以做得更好。
+
+---
+
+### 2026-06-18 00:18:42  #MKT News #Important
+
+President Trump has sent a copy of a memorandum of understanding to Israel.
+
+---
+
+### 2026-06-18 00:18:24  #焦點 #國際
+
+特朗普：向以色列傳送了一份伊朗核協議副本。
+
+---
+
+### 2026-06-18 00:18:14  #MKT News #Important #WTI #Impact bearish #Brent #XAUUSD
+
+Trump said a deal with Iran will be signed tomorrow or the day after; it could be signed on Friday.
+
+---
+
+### 2026-06-18 00:17:32  #國際
+
+特朗普談及伊朗協議：該協議很快將簽署，或許是週五。
+
+---
+
+### 2026-06-18 00:15:39  #MKT News #Commodities #Energy
+
+U.S. Interior Department says Invenergy will voluntarily terminate four offshore wind leases held by its subsidiaries in New York, California and the Gulf of Maine.
+
+---
+
+### 2026-06-18 00:15:16  #其他
+
+內部備忘錄顯示， Meta 新任負責 “職場人工智慧” 轉型業務的產品主管即將離職。
+
+---
+
+### 2026-06-18 00:14:14  #MKT News #Important #Market Themes #The Trump Trade #WTI #Impact bullish #Brent #XAUUSD
+
+President Trump said if an Iran deal is not reached within 60 days the U.S. will resume bombing, adding he does not want to bomb Iran again but may have to.
+
+---
+
+### 2026-06-18 00:13:54  #國際
+
+特朗普：我不想再次轟炸伊朗，但可能不得不這麼做。
+
+---
+
+### 2026-06-18 00:13:36  #MKT News
+
+President Trump said he will publish the memorandum of understanding for review.
+
+---
+
+### 2026-06-18 00:13:33  #焦點 #國際
+
+特朗普：若 60 天內無法敲定伊朗協議，將恢復轟炸行動。
+
+---
+
+### 2026-06-18 00:13:14  #國際
+
+特朗普：將釋出與伊朗相關的諒解備忘錄（MoU），從而讓你們可以瞭解情況。
+
+---
+
+### 2026-06-18 00:12:40  #MKT News
+
+U.S. President Trump said his working relationship with Netanyahu is excellent.
+
+---
+
+### 2026-06-18 00:12:16  #Trading Economics #Markets #Italy #Stock Market #Importance 1
+
+The FTSE MIB Index Closes 0.31% Higher — The FTSE MIB Index rose 163 points or 0.31 percent on Wednesday to close at 52595 points. Leading the gains are Banco BPM SPA (2.92%), Saipem (2.87%) and Banca Mediolanum (2.31%). Top losers were Infrastrutture Wire (-3.12%), Stellantis N.V. (-3.08%) and Diasorin (-2.83%).
+
+---
+
+### 2026-06-18 00:11:38  #國際
+
+特朗普：內塔尼亞胡沒必要每次都把樓房夷為平地。
+
+---
+
+### 2026-06-18 00:11:35  #MKT News
+
+U.S. President Trump said Netanyahu does not need to blow up entire buildings every time.
+
+---
+
+### 2026-06-18 00:11:18  #國際
+
+特朗普：我和內塔尼亞胡的合作關係非常棒。
+
+---
+
+### 2026-06-18 00:11:18  #MKT News
+
+U.S. President Trump said he and Netanyahu disagree on Lebanon.
+
+---
+
+### 2026-06-18 00:11:16  #Trading Economics #Markets #Germany #Stock Market #Importance 1
+
+The DAX Index Closes 0.10% Higher — The DAX Index gained 24 points or 0.10 percent on Wednesday to close at 24935 points. Gains were led by Commerzbank (5.18%), Bayer (4.80%) and HeidelbergCement (4.06%). Biggest losers were BMW (-8.34%), Mercedes-Benz AG (-4.48%) and Volkswagen (-3.68%).
+
+---
+
+### 2026-06-18 00:10:59  #國際
+
+特朗普：內塔尼亞胡有時會有點激動， 我和內塔尼亞胡在黎巴嫩問題上存在分歧。
+
+---
+
+### 2026-06-18 00:10:59  #MKT News
+
+US President Trump said Israeli Prime Minister Netanyahu can sometimes appear a bit excitable.
+
+---
+
+### 2026-06-18 00:10:49  #MKT News #BA.O
+
+Trump said Boeing's 757 is a great airplane.
+
+---
+
+### 2026-06-18 00:10:43  #國際
+
+特朗普：波音 757 是一款很棒的飛機。
+
+---
+
+### 2026-06-18 00:10:16  #Trading Economics #Markets #France #Stock Market #Importance 1
+
+The CAC 40 Index Closes 0.20% Lower — The CAC 40 Index decreased 16 points or 0.20 percent on Wednesday to close at 8431 points. The decline was led by Essilor (-4.32%), Orange (-3.23%) and Stellantis NV (-3.21%). On the upside, the strongest performers were Legrand (4.33%), TP (2.48%) and Schneider Electric (1.97%).
+
+---
+
+### 2026-06-18 00:09:03  #Trading Economics #Markets #Euro Area #Stock Market #Importance 1
+
+European Stocks Rise to Fresh Records — European stock indices rose for a fifth session to new records on Wednesday with further support from softer pro-inflationary risks. The Euro STOXX 50 rose by 0.6% to 6,297 and the STOXX Europe 600 rose 0.5% to 639. Sovereign yields fell further as Iran and the US maintained their intent to sign an agreement that restores energy trade from the Middle East this Friday. Energy prices pulled back and scaled down expectations that the ECB would be forced to raise interest rates this year. Banks led the gains for another session amid the improved credit outlook, with Santander, UniCredit, and Deutsche Bank gaining 2.5%. On the other hand, BMW shares fell more than 6% after the carmaker cut its guidance, citing worsening conditions in the Chinese market and the broader impact of the Middle East conflict.
+
+---
+
+### 2026-06-18 00:07:16  #Trading Economics #Markets #United Kingdom #Stock Market #Importance 1
+
+The FTSE 100 Index Closes 0.10% Higher — The FTSE 100 Index rose 10 points or 0.10 percent on Wednesday to close at 10504 points. Leading the gains are Endeavour (4.48%), Barclays (3.40%) and Persimmon (3.25%). Top losers were Entain (-4.45%), Marks & Spencer (-3.28%) and Halma (-3.13%).
+
+---
+
+### 2026-06-18 00:07:12  #MKT News
+
+U.S. President Trump praised French President Macron.
+
+---
+
+### 2026-06-18 00:06:39  #國際
+
+特朗普讚揚馬克龍。
+
+---
+
+### 2026-06-18 00:05:56  #MKT News #Important #Market Themes #The Trump Trade
+
+Trump: The stock market understands matters better than anyone.
+
+---
+
+### 2026-06-18 00:05:11  #國際
+
+特朗普：股市表現遠超所有人預期。
+
+---
+
+### 2026-06-18 00:05:08  #MKT News #Market Themes #The Trump Trade
+
+Trump says he does not want to see an economic disaster.
+
+---
+
+### 2026-06-18 00:05:03  #MKT News
+
+Trump says he believes Iran's behavior will change significantly.
+
+---
+
+### 2026-06-18 00:04:59  #國際
+
+特朗普：我不願目睹經濟災難發生。
+
+---
+
+### 2026-06-18 00:04:49  #國際
+
+特朗普：我認為伊朗今後的行事作風將會大為改觀。
+
+---
+
+### 2026-06-18 00:04:48  #MKT News
+
+Brazil's finance minister Durigan said he is highly concerned about inflation. Recent fuel measures underscore the government's focus on inflation.
+
+---
+
+### 2026-06-18 00:03:52  #國際
+
+特朗普：過去兩天提供了與盟友討論伊朗問題的機會，與盟友討論了伊朗協議的細節，各方對我們達成協議感到非常高興。
 
 ---
 
@@ -18394,203 +18772,5 @@ According to The Information, OpenAI told the Trump administration that foreign 
 ### 2026-06-17 05:15:36  #市場
 
 富時A50期指連續夜盤收跌0.24%，報15623點。
-
----
-
-### 2026-06-17 05:11:58  #國際
-
-【共和黨警告特朗普政府或面臨“停擺”，因民主黨反對五角大樓大幅增支】美國參議院共和黨人指責民主黨人拒絕為9月30日之後的政府機構提供資金，藉此施壓以推動在中期選舉前推進陷入停滯的年度支出法案。參議院多數黨領袖約翰·圖恩（John Thune，南達科他州共和黨人）說：“參議院民主黨領導人舒默和民主黨人最想要的就是再次政府停擺。民主黨人不想在正常的撥款程式上配合。”
-
----
-
-### 2026-06-17 05:09:36  #市場
-
-【現貨黃金漲約0.5%，白銀持平，鉑金漲2%】週二（6月16日）紐約尾盤，現貨黃金漲0.48%，報4332.23美元/盎司，亞太盤初以來持續走高，北京時間20:59重新整理日高至4354.88美元，隨後在22:34回落至逼近4313美元。COMEX黃金期貨漲0.08%，報4355.20美元/盎司。現貨白銀大致持平，報69.9850美元/盎司，日內交投區間為69.0730-71.1951美元，21:00重新整理日高。COMEX白銀期貨大致持平，報70.160美元/盎司，21:00曾達到71.310美元。COMEX銅期貨跌0.11%，報6.5510美元/磅。現貨鉑金漲2.02%，現貨鈀金漲0.75%。
-
----
-
-### 2026-06-17 05:09:26  #其他
-
-西太平洋銀行：紐西蘭二季度消費者信心下滑至80.4，創三年新低。
-
----
-
-### 2026-06-17 05:09:21  #市場
-
-週二（6月16日）紐約尾盤（週三北京時間04:59），離岸人民幣（CNH）兌美元報6.7566元，較週一紐約尾盤漲27點，日內整體交投於6.7635-6.7551元區間。
-
----
-
-### 2026-06-17 04:56:11  #市場
-
-【現貨黃金漲約0.5%，白銀持平，鉑金漲2%】週二（6月16日）紐約尾盤，現貨黃金漲0.48%，報4332.23美元/盎司，亞太盤初以來持續走高，北京時間20:59重新整理日高至4354.88美元，隨後在22:34回落至逼近4313美元。COMEX黃金期貨漲0.08%，報4355.20美元/盎司。現貨白銀大致持平，報69.9850美元/盎司，日內交投區間為69.0730-71.1951美元，21:00重新整理日高。COMEX白銀期貨大致持平，報70.160美元/盎司，21:00曾達到71.310美元。COMEX銅期貨跌0.11%，報6.5510美元/磅。現貨鉑金漲2.02%，現貨鈀金漲0.75%。
-
----
-
-### 2026-06-17 04:55:29  #公司
-
-Kalshi因向谷歌、LinkedIn披露使用者活動而被起訴。
-
----
-
-### 2026-06-17 04:48:31  #MKT News #Commodities #Energy
-
-Sources say ExxonMobil will supply LNG to South Africa to help reduce South Africa's dependence on coal.
-
----
-
-### 2026-06-17 04:44:37  #MKT News #Star Stocks #Amazon #Market Themes #Magnificent 7 #AMZN.O #Impact bearish
-
-Amazon (AMZN.O) may be sued by the US Federal Trade Commission for allegedly misleading advertisers and could face multibillion-dollar civil fines, sources said.
-
----
-
-### 2026-06-17 04:38:28  #國際
-
-【巴西最高法院裁定愛德華多·博索納羅因尋求美國干預其父政變案審判罪名成立】巴西最高法院合議庭多數法官投票裁定，愛德華多·博索納羅（Eduardo Bolsonaro）因在其父親（前總統）的政變陰謀案審判期間尋求美國干預，罪名成立。該合議庭的四名法官中，已有三人投票裁定愛德華多·博索納羅罪名成立。合議庭中僅剩最後一名法官尚未進行投票。
-
----
-
-### 2026-06-17 04:38:00  #Trading Economics #Markets #Brazil #Stock Market #Importance 1
-
-Brazil Shares Fall Ahead of BCB Decision — The Ibovespa fell 0.4% to close at 169,648 on Tuesday as investors assessed fresh election polls and rising inflation expectations. A BTG/Nexus survey released on Monday showed President Lula holding a nine-point lead over Senator Flávio Bolsonaro in first-round voting intentions. Meanwhile, the median forecast for Brazil’s annual inflation increased for the 14th consecutive week, prompting markets to reassess how long the BCB may keep interest rates elevated. Most sectors ended lower. Financial stocks traded mixed amid concerns that higher borrowing costs could weigh on lending activity, with Bradesco falling 0.7%. Petrobras also pressured the index, declining 1.3% as optimism surrounding a preliminary US-Iran peace agreement raised the prospect of the Strait of Hormuz remaining open.
-
----
-
-### 2026-06-17 04:36:44  #MKT News #Commodities #Energy #WTI #Impact bullish #Brent
-
-U.S. API crude oil production change for week to June 12: -17,000 b/d, prior +262,000 b/d.
-
----
-
-### 2026-06-17 04:36:33  #MKT News #Economic Calendar
-
-United States | API Weekly Crude Oil Runs (Jun.12) | actual -17000M | previous 262000M
-
----
-
-### 2026-06-17 04:36:30  #MKT News #Commodities #Energy #WTI #Impact bullish #Brent
-
-US API petroleum product imports for week to June 12: -121,000 b/d, prior -51,000 b/d.
-
----
-
-### 2026-06-17 04:36:23  #其他
-
-KBRA指數顯示，私人信用市場違約率創2023年3月份以來最高。
-
----
-
-### 2026-06-17 04:36:22  #MKT News #Commodities #Energy #WTI #Impact bullish #Brent
-
-US API crude oil imports for the week ended June 12: -276,000 bbl; prior -358,000 bbl.
-
----
-
-### 2026-06-17 04:36:21  #MKT News #Economic Calendar
-
-United States | API Weekly Petroleum Products Imports Change (Jun.12) | actual -121000M | previous -51000M
-
----
-
-### 2026-06-17 04:36:14  #MKT News #Economic Calendar
-
-United States | API Weekly Crude Oil Imports Change (Jun.12) | actual -276000M | previous -358000M
-
----
-
-### 2026-06-17 04:36:05  #焦點 #國際
-
-美國至6月12日當週API原油庫存 -833萬桶，預期-451.5萬桶，前值-911.9萬桶。
-
----
-
-### 2026-06-17 04:36:03  #MKT News #Commodities #Energy #WTI #Impact bullish #Brent
-
-API: U.S. heating oil inventories fell 125,000 barrels in the week to June 12, versus a 407,000‑barrel draw the prior week.
-
----
-
-### 2026-06-17 04:35:56  #MKT News #Commodities #Energy #WTI #Impact bullish
-
-US API Cushing crude stocks -1.523 mln barrels in week to June 12; prior -1.125 mln barrels.
-
----
-
-### 2026-06-17 04:35:56  #MKT News #Economic Calendar
-
-United States | API Weekly Heating Oil Stocks Change (Jun.12) | actual -125000M | previous -407000M
-
----
-
-### 2026-06-17 04:35:47  #MKT News #Economic Calendar #Important
-
-United States | API Weekly Cushing Crude Oil Stocks Change (Jun.12) | actual -1523000M | previous -1125000M
-
----
-
-### 2026-06-17 04:35:47  #MKT News #Commodities #Energy #WTI #Impact bullish #Brent
-
-US API weekly refined-product inventories fell 461,000 barrels in the week to June 12, versus an expected decline of 198,000 barrels; prior was an increase of 1.316 million barrels.
-
----
-
-### 2026-06-17 04:35:38  #MKT News #Commodities #Energy #WTI #Impact bearish #Brent
-
-U.S. API gasoline stocks rose 2.479 mln barrels in the week to June 12, versus an expected draw of 1.401 mln and a prior draw of 1.191 mln.
-
----
-
-### 2026-06-17 04:35:35  #MKT News #Economic Calendar #Important
-
-United States | API Weekly Distillate Stocks Change (Jun.12) | actual -461000M | consensus -198000M | previous 1316000M
-
----
-
-### 2026-06-17 04:35:27  #MKT News #Economic Calendar #Important
-
-United States | API Weekly Gasoline Stocks Change (Jun.12) | actual 2479000M | consensus -1401000M | previous -1191000M
-
----
-
-### 2026-06-17 04:35:21  #MKT News #Important
-
-US API weekly crude inventories fell 8.33 mln barrels in the week to June 12 vs market-expected draw of 4.52 mln; prior week draw 9.12 mln.
-
----
-
-### 2026-06-17 04:35:10  #MKT News #Economic Calendar #Important
-
-United States | API Weekly Crude Oil Stocks Change (Jun.12) | actual -8330000M | consensus -4515000M | previous -9119000M
-
----
-
-### 2026-06-17 04:35:09  #Trading Economics #Markets #United States #Stock Market #Importance 1
-
-The Dow Jones Index Closes 0.64% Higher — The Dow Jones Index gained 332 points or 0.64 percent on Tuesday to close at 52003 points. Gains were led by JPMorgan (3.72%), Visa (2.83%) and 3M (2.15%). Biggest losers were Nvidia (-2.17%), Salesforce (-1.74%) and Microsoft (-1.46%).
-
----
-
-### 2026-06-17 04:30:13  #Trading Economics #Markets #Canada #Stock Market #Importance 1
-
-TSX Climbs on US-Iran Peace Prospects — The S&P/TSX Composite Index rose 0.3% to close at 35,390 on Tuesday, supported by optimism over a potential US-Iran peace deal. US President Donald Trump said at the G7 summit that negotiations with Iran had entered a second stage. Oil prices fell as markets assessed the prospect of renewed supplies, easing concerns about energy-driven inflation and reducing fears of a hawkish shift by central banks. Lower bond yields supported financial stocks and the broader market, with RBC rising 1.1%, while TD Bank and BMO both added 0.7%. Higher gold prices lifted mining shares, with Agnico Eagle gaining 2.6%, WPM advancing 3.6%, and Barrick rising 2.3%. In contrast, lower oil prices weighed on energy stocks, with Canadian Natural down 1.7%, Suncor losing 2.4%, and Cenovus falling 3.2%. Meanwhile, home sales rose 5.5% in May, while home prices edged lower. Investors are now awaiting the US Fed's policy decision on Wednesday, with markets widely expecting interest rates to remain unchanged.
-
----
-
-### 2026-06-17 04:29:38  #其他
-
-【譚德塞：近三週未報告新增漢坦病毒感染病例】世衛組織總幹事譚德塞16日在社交媒體上表示，漢坦病毒的感染病例數仍為13例，死亡病例數仍為3例。近三週以來沒有報告新的感染病例，超過一個月沒有報告新的死亡病例，疫情總體情況保持穩定。（央視）
-
----
-
-### 2026-06-17 04:29:31  #MKT News
-
-【TEDROS: No new hantavirus infections reported in nearly three weeks】WHO Director-General Tedros said on the 16th the hantavirus case count remains 13 with 3 deaths. No new infections have been reported in nearly three weeks and no new deaths for over a month; overall situation is stable.
-
----
-
-### 2026-06-17 04:20:08  #MKT News #Important
-
-U.S. API weekly crude inventories for the week to June 12 due in 10 minutes.
 
 ---
