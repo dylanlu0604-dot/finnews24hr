@@ -1,7 +1,161 @@
 {
-  "updated": "2026-06-23 20:13:46",
-  "count": 17320,
+  "updated": "2026-06-23 20:17:50",
+  "count": 17323,
   "items": [
+    {
+      "id": "mkt:019ef469-b555-7dd8-b0d8-77a3969649d9",
+      "time": "2026-06-23 20:17:08",
+      "tags": [
+        "MKT News",
+        "01024.HK",
+        "Impact mixed"
+      ],
+      "text": "【Kuaishou launches expedited delivery service Jisuda】Kuaishou (01024.HK) has launched an expedited delivery service, Jisuda, in the mall section of its app with a dedicated entry. Unlike mainstream instant-retail offerings, Jisuda only provides next-day and two-day out-of-area courier fulfillment and does not offer hour‑level or same‑city same‑day delivery."
+    },
+    {
+      "id": "mkt:019ef469-b2aa-7dd8-b0d8-6e88d26bccdc",
+      "time": "2026-06-23 20:17:08",
+      "tags": [
+        "MKT News",
+        "GBPUSD",
+        "Impact bullish"
+      ],
+      "text": "UK Chancellor Reeves announced Jonathan Haskel as chair-designate of the Office for Budget Responsibility (OBR)."
+    },
+    {
+      "id": "4950616",
+      "time": "2026-06-23 20:16:53",
+      "tags": [
+        "國際"
+      ],
+      "text": "製藥行業遊說團體負責人：歐洲必須重新審視藥品定價，否則將面臨流失製造業投資與臨床試驗的風險。"
+    },
+    {
+      "id": "mkt:019ef469-082b-7dd8-b0d8-601c624f2eb8",
+      "time": "2026-06-23 20:16:24",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Sri Lanka dengue strain mutation; single-day cases top 1,000】Media reported on the 23rd that Sri Lanka has recorded 47,530 dengue cases year-to-date and 29 deaths. The National Dengue Control Unit said 1,069 new cases were reported on the 21st; the unit’s acting director on the 22nd said the surge has sharply increased hospital visits and is placing heavy strain on the health system. The deputy health minister said a recent virus mutation is among the reasons for the rapid rise and that the currently circulating strain appears more transmissible than strains seen in prior outbreaks."
+    },
+    {
+      "id": "te:economy:561193",
+      "time": "2026-06-23 20:16:15",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Hungary",
+        "Interest Rate",
+        "Importance 1"
+      ],
+      "text": "Hungary Cuts Key Interest Rate as Inflation Falls — The National Bank of Hungary cut its benchmark interest rate by 25 bps to 6% at its June 2026 meeting, in line with market expectations, resuming its easing cycle as inflation continues to ease, helped by a stronger forint and softer import costs. The currency has gained more than 8% against the euro this year, significantly improving Hungary’s inflation outlook by reducing the price of imported goods. The annual inflation rate eased to 1.8% in May from a three-month high of 2.1% in the previous month, giving policymakers more room to cut rates further. The easing cycle contrasts with central banks elsewhere in Europe, where energy-driven inflation risks linked to geopolitical tensions have kept policy tighter."
+    },
+    {
+      "id": "em:jjsj_mgsj:202606233779940676",
+      "time": "2026-06-23 20:16:03",
+      "tags": [
+        "經濟數據",
+        "美國"
+      ],
+      "text": "【ADP資料：截至6月6日當週美國私營部門就業崗位四周移動均值周均新增30,750人】ADP資料顯示，截至6月6日當週，美國私營部門就業崗位四周移動均值周均新增30,750人。"
+    },
+    {
+      "id": "4950615",
+      "time": "2026-06-23 20:15:49",
+      "tags": [
+        "公司"
+      ],
+      "text": "【恆為科技：合計4.67億元收購併增資數珩科技取得51%股權 完善AI全產業鏈佈局】恆為科技公告，公司擬以4.37億元現金收購上海數珩49.3667%股權，同時增資3000萬元，交易完成後合計持有標的51%股權，數珩科技將成為控股子公司。標的整體估值9億元，本次交易為AI應用賽道非常具有代表性的併購案例。本次交易設定三年業績承諾：2026-2028年淨利潤分別不低於7200萬元、9600萬元、1.14億元，三年累計承諾淨利2.82億元，未達標承諾方以現金+股權補償，超額利潤可按30%給予獎勵。張繼生等業績承諾方承諾，收到二期股權轉讓款6個月內，二級市場增持公司股票不低於1.1億元；增持完成後股份分兩期解鎖，滿12個月解禁50%，剩餘50%鎖24個月。數珩科技主營企業級AI應用服務，自研行業大模型與智慧體平臺，本次交易補齊公司AI模型與應用層，打造“算力底座+AI模型+場景應用”垂直整合競爭力和AI完整產業鏈。"
+    },
+    {
+      "id": "4950614",
+      "time": "2026-06-23 20:15:27",
+      "tags": [
+        "國際"
+      ],
+      "text": "菲利普斯66表示，中東原油定價影響重質原油價差。"
+    },
+    {
+      "id": "4950613",
+      "time": "2026-06-23 20:15:14",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國至6月6日當週ADP就業人數週度變動 3.075萬人，前值2.55萬人。"
+    },
+    {
+      "id": "4950612",
+      "time": "2026-06-23 20:15:12",
+      "tags": [
+        "其他"
+      ],
+      "text": "【毒株變異，斯里蘭卡登革熱疫情單日新增病例過千】據斯里蘭卡媒體23日報道，截至當日，該國今年登革熱病例已達47530例，29例死亡。其中，21日單日新增病例超千例，達1069例。斯里蘭卡國家登革熱防控中心代理主任卡皮拉·坎南加拉22日說，近期的登革熱感染高發導致該國醫院就診人數大幅增長，醫療系統承受巨大壓力。斯衛生部副部長漢薩卡·維傑穆尼此前表示，近期登革熱病例數快速上升的原因之一是病毒毒株發生了變異。他說，與該國以往發生登革熱疫情時檢測到的毒株相比，當前流行的毒株傳播力更強。斯里蘭卡6月已數次開展全國範圍的預防登革熱行動，旨在對登革熱感染風險較高的場所進行蚊蟲消殺。衛生部門呼籲民眾積極清理住所內及周邊的積水，避免蚊蟲滋生。（新華社）"
+    },
+    {
+      "id": "mkt:019ef467-e296-7dd8-b0d8-5d9347b504b9",
+      "time": "2026-06-23 20:15:09",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "US Economy",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "EURUSD",
+        "Impact bearish"
+      ],
+      "text": "US ADP private payrolls increased 30.75k in the week to June 6, up from 25.5k the prior week."
+    },
+    {
+      "id": "4950611",
+      "time": "2026-06-23 20:15:02",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國財政大臣提名喬納森·哈斯克爾為預算責任辦公室主席首選人選。"
+    },
+    {
+      "id": "4950610",
+      "time": "2026-06-23 20:14:45",
+      "tags": [
+        "其他"
+      ],
+      "text": "【快手電商上線快時效服務“極速達”】快手電商在快手App的商城內上線快時效服務“極速達”，並在商城內設有獨立入口，區別於行業主流即時零售，快手的極速達僅落地明天達、後天達兩類異地快遞履約產品，不佈局小時達、同城當日達。"
+    },
+    {
+      "id": "4950609",
+      "time": "2026-06-23 20:14:10",
+      "tags": [
+        "公司"
+      ],
+      "text": "【雷軍回應小米YU7“深海藍”絕版：可以考慮復活】日前有博主在微博曬出小米YU7絕版車色——“深海藍”的照片，6月23日晚，小米董事長兼CEO雷軍轉發該微博，並表示：“深海藍確實很好看，但選的人不多。如果大家特別喜歡，我們可以考慮復活。”"
+    },
+    {
+      "id": "4950608",
+      "time": "2026-06-23 20:13:59",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【維科精密：擬發行6.3億元可轉債用於半導體零部件及泰國生產基地專案】維科精密公告稱，公司董事會審議透過向不特定物件發行可轉換公司債券方案，擬發行總額6.3億元，每張面值100元，期限6年，初始轉股價35.62元/股。募集資金將用於半導體零部件生產基地建設專案3.5億元、泰國生產基地建設專案2.3億元及補充流動資金5000萬元。"
+    },
+    {
+      "id": "4950607",
+      "time": "2026-06-23 20:13:43",
+      "tags": [
+        "公司"
+      ],
+      "text": "裕信銀行CEO：圍繞德國商業銀行的各類輿論干擾了併購本身的價值評判。"
+    },
+    {
+      "id": "4950606",
+      "time": "2026-06-23 20:13:31",
+      "tags": [
+        "公司"
+      ],
+      "text": "菲利普斯66公司表示，原油運輸流恢復正常將是一個漫長過程。"
+    },
     {
       "id": "4950605",
       "time": "2026-06-23 20:13:00",
@@ -158626,131 +158780,6 @@
         "公司"
       ],
       "text": "法國國防採購局(DGA)表示，空客防務與航天公司已獲得合同，將為A400M運輸機開發新的多工能力。"
-    },
-    {
-      "id": "4938776",
-      "time": "2026-06-16 20:17:39",
-      "tags": [
-        "市場",
-        "央行",
-        "國際"
-      ],
-      "text": "【歐洲央行Escriva：儘管達成和平協議 能源供應的複雜局面仍將持續】歐洲央行管委會成員Jose Luis Escriva警告稱，儘管達成了重開霍爾木茲海峽的協議，但能源供應方面的複雜局面可能仍將持續。美伊協議已推動油價下跌，因為投資者認為這場持續逾3個月的衝突即將結束。但法蘭克福的歐洲央行決策者並不認為危險已經過去，市場預計其仍將進一步加息。“目前尚不確定市場能否充分反映供應中斷的影響程度、規模以及恢復生產所需的時間，”Escriva週二在馬德里表示。“這仍然不確定，仍有疑問，而且將是一個在一段時間內伴隨我們的因素。”"
-    },
-    {
-      "id": "em:jjsj_mgsj:202606163773281215",
-      "time": "2026-06-16 20:16:58",
-      "tags": [
-        "經濟數據",
-        "美國"
-      ],
-      "text": "美國至5月30日當週ADP就業人數週度增加2.55萬人，前值2.9萬人。"
-    },
-    {
-      "id": "4938775",
-      "time": "2026-06-16 20:16:26",
-      "tags": [
-        "其他"
-      ],
-      "text": "百勝中國：該交易預計將在2026年攤薄後每股收益產生正向增益，2027至2028年將為中個位數正向增益。"
-    },
-    {
-      "id": "4938774",
-      "time": "2026-06-16 20:16:18",
-      "tags": [
-        "其他"
-      ],
-      "text": "百勝中國：2026年全年財務指引維持不變。"
-    },
-    {
-      "id": "4938773",
-      "time": "2026-06-16 20:16:03",
-      "tags": [
-        "其他"
-      ],
-      "text": "百勝中國：目標到2028年必勝客門店突破6000家，到2029年營業利潤翻番。"
-    },
-    {
-      "id": "mkt:019ed05c-33f8-7dd8-b02f-69af439f8965",
-      "time": "2026-06-16 20:16:03",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Macro & Rates",
-        "US Economy"
-      ],
-      "text": "ADP weekly employment report: Over the four weeks ending May 30, 2026, private-sector payrolls rose by an average of 25,500 jobs per week."
-    },
-    {
-      "id": "4938772",
-      "time": "2026-06-16 20:15:58",
-      "tags": [
-        "公司"
-      ],
-      "text": "百勝中國：交易完成後，必勝客中國將不再向百勝全球餐飲集團支付授權許可費。"
-    },
-    {
-      "id": "mkt:019ed05b-b25e-7dd8-b02f-6605809313db",
-      "time": "2026-06-16 20:15:30",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "Brent"
-      ],
-      "text": "【Commerzbank: Brent to stay near $85/bbl through year-end】Commerzbank expects Brent crude to remain around $85/bbl through year-end, commodity research head Thu Lan Nguyen said. She warned US‑Iran talks on a new nuclear deal are likely to be bumpy and the bank is cautious about forecasts of oil falling well below pre‑war levels. Even if the Strait of Hormuz fully and sustainably reopens, shipping and Gulf energy exports will take substantial time to normalize. Commerzbank added that rapid inventory rebuilding could lift near‑term demand and that countries most affected by disruption may seek higher strategic stocks, amplifying restocking demand."
-    },
-    {
-      "id": "mkt:019ed05b-6a8a-7dd8-b02f-59ed62c1d046",
-      "time": "2026-06-16 20:15:12",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Macro & Rates",
-        "US Economy"
-      ],
-      "text": "US ADP private payrolls, week to May 30: +25.5k jobs; prior +29.0k."
-    },
-    {
-      "id": "4938771",
-      "time": "2026-06-16 20:15:05",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "美國至5月30日當週ADP就業人數週度變動 2.55萬人，前值2.9萬人。"
-    },
-    {
-      "id": "4938770",
-      "time": "2026-06-16 20:14:58",
-      "tags": [
-        "公司"
-      ],
-      "text": "【中國海防：中船集團擬延期5年履行同業競爭承諾】中國海防公告稱，2026年6月15日，公司收到中船集團《關於延期履行同業競爭承諾的函》，擬延期履行前期同業競爭承諾。2021年6月，中船集團曾承諾5年內解決同業競爭問題。因相關業務及資產盈利能力不符合注入條件，此次擬延期5年，自股東會審議透過之日起算，其他承諾內容不變。6月16日，公司獨立董事專門會議和董事會均審議透過該議案，該事項尚需提交股東會審議。"
-    },
-    {
-      "id": "4938769",
-      "time": "2026-06-16 20:14:46",
-      "tags": [
-        "國際"
-      ],
-      "text": "德國外長：普京目前可能已進入考慮和談的階段。"
-    },
-    {
-      "id": "4938768",
-      "time": "2026-06-16 20:14:24",
-      "tags": [
-        "公司"
-      ],
-      "text": "【尤洛卡：擬定增募資不超過10億元用於火箭發動機核心零部件專案】尤洛卡公告，公司釋出2026年度向特定物件發行A股股票預案。公司擬向不超過35名特定物件發行股票，募集資金總額不超過10億元（含本數），扣除發行費用後全部用於火箭發動機核心零部件精密製造及產業化專案（一期），該專案總投資10.04億元。發行價格不低於定價基準日前20個交易日股票交易均價的80%，發行數量不超過2.21億股（佔發行前總股本的30%），限售期6個月。本次發行方案已獲董事會審議透過，尚需股東會、深交所稽核及中國證監會同意註冊。"
-    },
-    {
-      "id": "4938767",
-      "time": "2026-06-16 20:13:47",
-      "tags": [
-        "國際"
-      ],
-      "text": "德國外長：今年夏季有望啟動結束烏克蘭戰爭的相關談判。"
     }
   ]
 }
