@@ -1,7 +1,174 @@
 {
-  "updated": "2026-06-24 03:04:06",
-  "count": 17259,
+  "updated": "2026-06-24 03:09:00",
+  "count": 17270,
   "items": [
+    {
+      "id": "mkt:019ef5e0-fee0-7dd8-b0e2-840bb5d4d12d",
+      "time": "2026-06-24 03:07:03",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bearish",
+        "XAUUSD",
+        "S&P500",
+        "Impact bullish"
+      ],
+      "text": "US President Trump said the US will strip Iran of its nuclear capability and that Iran has agreed to this."
+    },
+    {
+      "id": "4951086",
+      "time": "2026-06-24 03:06:59",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普談及伊朗： 我們會讓伊朗徹底喪失導彈作戰能力。"
+    },
+    {
+      "id": "mkt:019ef5e0-ae86-7dd8-b0e2-7fb37495d0af",
+      "time": "2026-06-24 03:06:43",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Market Themes",
+        "The Trump Trade",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "U.S. President Trump said energy prices have fallen sharply."
+    },
+    {
+      "id": "4951085",
+      "time": "2026-06-24 03:06:38",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：沙特國王曾對我說“閣下，您要知道，兩年前貴國當時處境岌岌可危”。"
+    },
+    {
+      "id": "mkt:019ef5e0-42a8-7dd8-b0e2-7606bcbe1869",
+      "time": "2026-06-24 03:06:15",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "U.S. President Trump said \"We can fly over Tehran whenever we want; no one would dare do anything to us,\" and said he had seen \"fake news\" reports claiming they (Iran) are doing quite well."
+    },
+    {
+      "id": "mkt:019ef5df-f4b5-7dd8-b0e2-6a3bb6ee03ed",
+      "time": "2026-06-24 03:05:55",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Market Themes",
+        "The Trump Trade",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "President Trump said the US is working to reach a fair deal with Iran. Yesterday 19 mln barrels of oil transited the Strait of Hormuz."
+    },
+    {
+      "id": "4951084",
+      "time": "2026-06-24 03:05:22",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普談及伊朗： 我們可以隨意飛越德黑蘭上空，沒人能拿我們怎麼樣。"
+    },
+    {
+      "id": "4951083",
+      "time": "2026-06-24 03:05:18",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普談及伊朗： 我們會徹底剝奪其所有核能力，伊朗方面已對此表示同意。 目前雙方溝通進展十分順利。"
+    },
+    {
+      "id": "4951082",
+      "time": "2026-06-24 03:04:49",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：美國正致力於與伊朗達成公平協議，昨日有1900萬桶石油經由霍爾木茲海峽運輸。"
+    },
+    {
+      "id": "mkt:019ef5de-d779-7dd8-b0e2-64cabe1411a4",
+      "time": "2026-06-24 03:04:42",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade",
+        "Nasdaq100",
+        "Impact bearish"
+      ],
+      "text": "At a Pennsylvania rally, Trump claimed US stocks hit a new high today. The Nasdaq Composite is currently down about 2%."
+    },
+    {
+      "id": "4951081",
+      "time": "2026-06-24 03:04:16",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普稱讚汽油價格下降。"
+    },
+    {
+      "id": "mkt:019ef5de-2486-7dd8-b0e2-5e067218ec02",
+      "time": "2026-06-24 03:03:56",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "US President Trump said Iran is in poor shape and lacks both an army and air-defence systems."
+    },
+    {
+      "id": "mkt:019ef5dd-b874-7dd8-b0e2-56fa8d64d23f",
+      "time": "2026-06-24 03:03:29",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "U.S. President Trump said Iran's economy has been severely damaged and will take years to recover."
+    },
+    {
+      "id": "mkt:019ef5dd-7d15-7dd8-b0e2-4cbbee3e6c3b",
+      "time": "2026-06-24 03:03:13",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y",
+        "Impact bearish"
+      ],
+      "text": "U.S. Treasury Department data show foreign investors bought $5.2bn of 10-year Treasuries maturing May 2036 in the latest two-week reporting period, down from $6.23bn the prior month."
+    },
+    {
+      "id": "mkt:019ef5dd-4eac-7dd8-b0e2-452e9b0a0e7f",
+      "time": "2026-06-24 03:03:01",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "Hang Seng Index",
+        "Impact bullish"
+      ],
+      "text": "Hang Seng index futures night session closed up 0.78% at 23,498, trading at a 162-point premium to the cash index."
+    },
+    {
+      "id": "4951080",
+      "time": "2026-06-24 03:02:53",
+      "tags": [
+        "其他"
+      ],
+      "text": "【C羅梅開二度 葡萄牙5-0戰勝烏茲別克】北京時間6月24日，2026美加墨世界盃小組賽K組第二輪中，葡萄牙5-0戰勝烏茲別克，小組賽一勝一平積4分。"
+    },
     {
       "id": "mkt:019ef5dc-f55d-7dd8-b0e2-3e95e5221e90",
       "time": "2026-06-24 03:02:39",
@@ -158136,48 +158303,6 @@
         "國際"
       ],
       "text": "【以軍持續在黎南部軍事行動 伊朗軍方發聲警告】16日，伊朗武裝部隊哈塔姆安比亞中央總部發布宣告稱，在美伊雙方達成諒解備忘錄之後，以色列軍隊已在黎巴嫩南部違反停火協議84次，並繼續對黎巴嫩無辜民眾實施犯罪和屠殺。宣告警告，如果以色列不停止其在黎巴嫩南部的侵略和挑釁行為，那麼它將不得不等待“伊朗強大武裝力量的嚴厲回應”。（央視新聞）"
-    },
-    {
-      "id": "4939306",
-      "time": "2026-06-17 03:07:32",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國國防部長赫格塞思明日將前往比利時出席北約部長級會議。"
-    },
-    {
-      "id": "mkt:019ed1d4-6cb4-7dd8-b039-72d2fefb6cdc",
-      "time": "2026-06-17 03:07:00",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Serbian state television said NIS, Serbia's oil company majority-owned by Russia and subject to U.S. sanctions, has had its sanctions waiver extended to July 1."
-    },
-    {
-      "id": "4939305",
-      "time": "2026-06-17 03:05:38",
-      "tags": [
-        "市場"
-      ],
-      "text": "【芝加哥大豆期貨漲超0.9%，咖啡豆漲超5.5%，紐約可可漲超6.5%】週二（6月16日）紐約尾盤，彭博穀物分類指數漲0.38%，報29.5554點。CBOT玉米期貨漲0.34%，報4.4325美元/蒲式耳。CBOT小麥期貨漲0.62%，報6.0425美元/蒲式耳。CBOT大豆期貨漲0.95%，報11.4550美元/蒲式耳，北京時間21:30美股開盤時拉昇、日內整體瞬間轉漲，豆粕期貨漲0.52%，豆油期貨跌1.83%。CBOT瘦肉豬期貨跌0.73%，活牛期貨漲2.40%，飼牛期貨漲1.68%。ICE原糖期貨漲0.80%，ICE白糖期貨漲1.40%。ICE阿拉比卡咖啡期貨漲5.74%，咖啡“C”期貨漲5.56%。羅布斯塔咖啡期貨漲2.04%。紐約可可期貨漲6.55%，報4232美元/噸。倫敦可可期貨漲6.31%。芝加哥WCE雙低油菜籽期貨跌0.79%。ICE棉花期貨漲1.24%。"
-    },
-    {
-      "id": "4939304",
-      "time": "2026-06-17 03:05:31",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "塞爾維亞國家廣播電視臺報道，塞爾維亞由俄羅斯控股、遭美國製裁的尼什石油公司獲得制裁豁免，有效期至 7 月 1 日。"
-    },
-    {
-      "id": "4939303",
-      "time": "2026-06-17 03:04:23",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "切尼爾能源公司CFO：大部分發展中國家不會將能源安全託付給美國。 希望卡達能源儘快重返市場，此舉有助於豐富全球能源供應渠道。"
     }
   ]
 }
