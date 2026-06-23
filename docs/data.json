@@ -1,7 +1,96 @@
 {
-  "updated": "2026-06-24 02:30:13",
-  "count": 17258,
+  "updated": "2026-06-24 02:34:18",
+  "count": 17261,
   "items": [
+    {
+      "id": "mkt:019ef5c1-5ab6-7dd8-b0e1-daa996ce9f26",
+      "time": "2026-06-24 02:32:29",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "The US Federal Communications Commission said wireless spectrum auctions raised more than $3.5 billion."
+    },
+    {
+      "id": "mkt:019ef5c0-82a2-7dd8-b0e1-d406e3b72c6f",
+      "time": "2026-06-24 02:31:34",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish"
+      ],
+      "text": "U.S. crude futures settled at $73.21/barrel, down $0.65, or 0.88%."
+    },
+    {
+      "id": "mkt:019ef5c0-6ddc-7dd8-b0e1-cfa2bc5453f2",
+      "time": "2026-06-24 02:31:29",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "Energy",
+        "XAUUSD",
+        "Impact bearish",
+        "WTI"
+      ],
+      "text": "【Night session main contracts close】As of the 02:30 close, SHFE gold main contract fell 0.82% to 902 yuan/gram; SHFE silver main contract fell 4.36% to 14,868 yuan/kg; SC crude oil main contract fell 1.52% to 492 yuan/barrel."
+    },
+    {
+      "id": "mkt:019ef5c0-4ba4-7dd8-b0e1-c18a85677457",
+      "time": "2026-06-24 02:31:20",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "Shanghai Gold Exchange June 23 evening session: gold T+D closed down 0.35% at 900.43 yuan/gram; silver T+D closed down 2.75% at 14,827.0 yuan/kg."
+    },
+    {
+      "id": "4951058",
+      "time": "2026-06-24 02:31:19",
+      "tags": [
+        "市場"
+      ],
+      "text": "WTI 7月原油期貨收報73.21美元/桶。NYMEX 7月天然氣期貨收報3.1470美元/百萬英熱單位。NYMEX 7月汽油期貨收報2.9590美元/加侖，NYMEX 7月取暖油期貨收報3.1546美元/加侖。"
+    },
+    {
+      "id": "mkt:019ef5c0-39aa-7dd8-b0e1-bfc91bdd8b23",
+      "time": "2026-06-24 02:31:15",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "AP: A US Department of Homeland Security spokesman said the US has eased restrictions on the Iranian World Cup team, allowing the team to depart for the match venue two days before its next game."
+    },
+    {
+      "id": "4951057",
+      "time": "2026-06-24 02:30:58",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國聯邦通訊委員會表示，無線頻譜拍賣募款總額超 35 億美元。"
+    },
+    {
+      "id": "4951056",
+      "time": "2026-06-24 02:30:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "上期所原油期貨夜盤收跌1.52%，報492.00元人民幣/桶。滬金夜盤收跌0.82%，滬銀收跌4.36%。"
+    },
+    {
+      "id": "te:markets:561264",
+      "time": "2026-06-24 02:30:00",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Crypto",
+        "Importance 1"
+      ],
+      "text": "Crypto Updates: Ether Drops by 4.09% — Top crypto losers are Ether (-4.09%), Bitcoin (-2.60%) and Binance (-2.58%)."
+    },
     {
       "id": "mkt:019ef5bd-edd4-7dd8-b0e1-b33b588dad91",
       "time": "2026-06-24 02:28:45",
@@ -158105,59 +158194,6 @@
         "國際"
       ],
       "text": "伊朗外交部阿拉格齊透露，伊朗與美國代表團定於週五在瑞士舉行會晤，兩國代表團團長將先簽署一份諒解備忘錄，隨後開啟首輪後續談判，此次瑞士會晤的具體地點將另行公佈。"
-    },
-    {
-      "id": "4939283",
-      "time": "2026-06-17 02:32:21",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "伊朗最高聯合軍事指揮部表示，如果以色列不停止對黎巴嫩南部的進攻，伊朗武裝部隊將對其作出強硬回應。"
-    },
-    {
-      "id": "4939282",
-      "time": "2026-06-17 02:31:14",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "美國原油期貨結算價報每桶76.05美元，下跌4.70美元，跌幅5.82%。"
-    },
-    {
-      "id": "4939281",
-      "time": "2026-06-17 02:31:08",
-      "tags": [
-        "其他"
-      ],
-      "text": "諾基亞：將把基站產能提升至當前水平的十倍，新增產能將於第三季度末前投產。"
-    },
-    {
-      "id": "4939280",
-      "time": "2026-06-17 02:30:58",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國參議院共和黨領袖圖恩：（針對克萊頓缺乏情報領域從業背景一事）紐約南區聯邦檢察官本身就需要處理各類情報相關事務。"
-    },
-    {
-      "id": "4939279",
-      "time": "2026-06-17 02:30:31",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國參議院共和黨領袖圖恩談及國家情報總監提名候選人傑伊·克萊頓：我們期待本週完成對他的相關稽核流程，想要在本週完成他的提名確認，需要各方配合，目前這一結果尚無法保證。"
-    },
-    {
-      "id": "te:markets:559438",
-      "time": "2026-06-17 02:30:18",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Crypto",
-        "Importance 1"
-      ],
-      "text": "Crypto Updates: Binance Drops by 1.66% — Top crypto losers are Binance (-1.66%), XRP (-1.22%), Bitcoin (-0.66%) and Ether (-0.09%)."
     }
   ]
 }
