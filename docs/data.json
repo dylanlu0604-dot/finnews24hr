@@ -1,7 +1,54 @@
 {
-  "updated": "2026-06-23 08:30:39",
-  "count": 17330,
+  "updated": "2026-06-23 08:34:42",
+  "count": 17333,
   "items": [
+    {
+      "id": "4949140",
+      "time": "2026-06-23 08:33:36",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "【中信證券：PCIe協議將成為AI時代的慢通脹環節】中信證券研報稱，PCIe是CPU與外設互聯的核心協議，其需求通脹被市場相對忽視；AI時代，由於CPU原生PCIe通道不足且GPU通道需求高，需要PCIe Switch實現通道拓展等需求。研報測算，PCIe Switch 2028年全球市場或達300億元，其中國產算力晶片配套空間約70億元，為2026年2倍以上。用量上，伺服器中XPU:PCIe Switch一般在4:1到2:1，PCIe Switch用量隨算力晶片不斷增長；其中，八卡AI伺服器為基本盤，方案相對確定；超節點伺服器有私有生態瓜分市場風險，海外趨勢較為明顯；整體用量呈現慢通脹特點，為空間主要驅動因素。價格上，主流104通道產品在3000—5000元。國產替代尚在早期，建議關注相對領先的公司，以及有望切入PCIe Switch市場的標的。"
+    },
+    {
+      "id": "te:economy:560902",
+      "time": "2026-06-23 08:32:42",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Japan",
+        "Composite PMI",
+        "Importance 1"
+      ],
+      "text": "Japan Composite PMI Hits 3-Month High — Japan’s S&P Global Composite PMI rose to 52.5 in June 2026 from a final 51.1 in the previous month, flash data showed. It was the highest reading since March and marking the 15th straight month of expansion in private sector activity."
+    },
+    {
+      "id": "em:jjsj_rbsj:202606233778728942",
+      "time": "2026-06-23 08:30:46",
+      "tags": [
+        "經濟數據",
+        "日本"
+      ],
+      "text": "日本6月製造業PMI初值54.9，前值54.5。"
+    },
+    {
+      "id": "4949139",
+      "time": "2026-06-23 08:30:30",
+      "tags": [
+        "觀點"
+      ],
+      "text": "【中信證券：關注景氣度蔓延擴散至的新方向】中信證券研報稱，2026年陸家嘴論壇在上海開幕，透過完善制度化的規則建設，加快金融強國建設，正逢科創板“1+6”改革一週年，會議強調金融資源向硬科技、新質生產力傾斜。上週A股呈現區間震盪、先揚後抑格局，各大指數走勢顯著分化，滬指承壓回撥、成長賽道相對抗跌；短線題材輪動節奏進一步加快，增量資金逐步向籌碼結構健康、業績兌現確定性強的科技成長板塊集中，結構性資金遷移趨勢進一步強化。從催化因素和時序上看，AI上游通脹、液冷、儲存、具身智慧的主題熱情有望爆發。結合市場環境、催化因素以及綜合量化指標研判，建議關注上述四大主題方向。"
+    },
+    {
+      "id": "4949138",
+      "time": "2026-06-23 08:30:27",
+      "tags": [
+        "資料",
+        "國際"
+      ],
+      "text": "日本6月份標普全球製造業PMI報54.9，標普全球服務業PMI報51.8。日本6月份標普全球綜合PMI報52.5。"
+    },
     {
       "id": "mkt:019ef1e2-6c9a-7dd8-b0c7-66a756d9fdea",
       "time": "2026-06-23 08:30:08",
@@ -159174,22 +159221,6 @@
         "MKT News"
       ],
       "text": "【Qualified retail investors at major U.S. brokers received at least one share in SpaceX IPO】In SpaceX's $86.2 bln IPO, eligible customers at major U.S. brokers including Robinhood, Charles Schwab and Fidelity were allocated at least one share after submitting purchase requests, broker representatives said. SpaceX earmarked roughly 20% of the offering proceeds for global retail; demand topped $100 bln, leaving many investors unable to secure larger allocations. Shares were up more than 40% by the second trading day, valuing SpaceX at about $2.5 tln."
-    },
-    {
-      "id": "4937315",
-      "time": "2026-06-16 08:34:25",
-      "tags": [
-        "公司"
-      ],
-      "text": "微軟尋求亞馬遜協助解決GitHub的AI驅動型容量問題。"
-    },
-    {
-      "id": "4937314",
-      "time": "2026-06-16 08:33:18",
-      "tags": [
-        "公司"
-      ],
-      "text": "【國泰海通：基於創新藥行業高景氣度、上市公司基本面表現強勁及估值低位 看好中國創新藥產業發展】國泰海通證券釋出研究報告稱，基於創新藥行業高景氣度的產業趨勢、上市公司強勁的基本面表現、以及當前的低位估值，看好中國創新藥產業的發展，並看好以下方向：1)核心推薦處於估值低位的權重股；2)推薦2026年存在BD潛力的biotech公司；3)雙抗產業趨勢已成。"
     }
   ]
 }
