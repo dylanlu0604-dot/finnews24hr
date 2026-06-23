@@ -1,7 +1,103 @@
 {
-  "updated": "2026-06-23 10:27:46",
-  "count": 17271,
+  "updated": "2026-06-23 10:31:50",
+  "count": 17273,
   "items": [
+    {
+      "id": "4949351",
+      "time": "2026-06-23 10:30:48",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【芯聯整合控股公司芯聯動力推出3300V SiC MOSFET】芯聯整合控股公司芯聯動力日前宣佈正式推出3300V SiC MOSFET器件，並已向核心客戶送樣驗證。據介紹，該產品填補了國內高壓SiC器件在固態變壓器核心功率級應用中的關鍵空白，是AI基礎設施電源及高壓寬禁帶半導體領域的關鍵突破。基於3300V器件優勢形成的綜合方案，可實現系統級BOM成本降低20%-35%，為固態變壓器向更高開關頻率、更小體積和更高轉換效率演進提供核心器件支撐。"
+    },
+    {
+      "id": "mkt:019ef250-83cc-7dd8-b0ca-71de3ca3a613",
+      "time": "2026-06-23 10:30:23",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "002008.SZ",
+        "Impact bullish"
+      ],
+      "text": "A-share fiber-optic sector rallied: Yangtze Optical Fibre hit the daily price limit and extended to a fresh record high; Sanfu and Tefa Information earlier hit limit-up; Han's Laser rose over 9%; Changjiang Communication and FiberHome also advanced."
+    },
+    {
+      "id": "mkt:019ef24f-354a-7dd8-b0ca-6b6189d666a3",
+      "time": "2026-06-23 10:28:57",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish",
+        "SSE Composite"
+      ],
+      "text": "China A-share film and media sector showed intraday strength; Zhongke Jincai and China Film rose over 5%, while Hubei Broadcasting, Jinyi Film and Huanrui Century gained more than 3%."
+    },
+    {
+      "id": "4949350",
+      "time": "2026-06-23 10:28:38",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【光纖概念股反覆走強，長飛光纖漲停繼續重新整理歷史新高】光纖概念股反覆走強，長飛光纖漲停繼續重新整理歷史新高，三孚股份、特發資訊此前封板，長江通訊、烽火通訊跟漲。"
+    },
+    {
+      "id": "4949349",
+      "time": "2026-06-23 10:28:30",
+      "tags": [
+        "其他"
+      ],
+      "text": "【第41屆國際超算大會聚焦AI、量子計算】第41屆國際超級計算大會22日在德國漢堡拉開帷幕。為期5天的大會聚焦人工智慧（AI）、量子計算等領域發展，以及相關技術在科學研究和產業中的應用。本屆大會以“連點成線”為主題，設定技術培訓課程、主會議、主題演講、專題技術工作坊等環節，內容涵蓋高效能運算在AI工廠、數字孿生、量子計算、能源效率提升以及可持續發展等方面發揮的作用。與此同時，全球約188家超算供應商和研究機構將現場展示相關產品及研究成果，包括華為、聯想、中科曙光等中國企業。"
+    },
+    {
+      "id": "4949348",
+      "time": "2026-06-23 10:28:21",
+      "tags": [
+        "市場"
+      ],
+      "text": "截止10:28，兩市100只個股漲停。"
+    },
+    {
+      "id": "4949347",
+      "time": "2026-06-23 10:27:51",
+      "tags": [
+        "公司"
+      ],
+      "text": "【亞馬遜雲科技亞太區聯席總裁儲瑞松：Agentic AI爆發的拐點已然來臨】在亞馬遜雲科技中國峰會上，亞馬遜全球副總裁、亞馬遜雲科技亞太區聯席總裁儲瑞松表示，Agentic AI爆發的拐點已然來臨。這背後，是模型能力的不斷提升和Agentic工程體系的日益成熟，兩者形成了一個相互促進的飛輪。一方面，模型能力在你追我趕、交替領先中持續突破，從推理能力、程式碼生成到多模態理解，模型的智力水平不斷跨越新的門檻。另一方面，基於模型能力的Agentic工程體系正在快速成熟。最近半年成為焦點的駕馭工程（Harness Engineering），側重於圍繞模型搭建穩定的執行框架，包括智慧體迴圈、工具呼叫、評估、重試及護欄等，讓模型能“可靠地把事情做完”。"
+    },
+    {
+      "id": "te:markets:560946",
+      "time": "2026-06-23 10:27:35",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Soybean Prices Struggle at 4-Month Lows — Soybean futures hovered around $11.2 per bushel, pressured near four-month lows as favourable US crop weather conditions and falling crude oil prices weighed on prices. Signs of progress in ongoing US-Iran peace negotiations improved shipping activity through the Strait of Hormuz, fueling expectations of a faster recovery in global supply and pushing crude oil prices lower. Soybeans often track crude oil due to its use as feedstock for biofuel. Abundant rainfall and moderate temperatures in the US Midwest have also curbed prices this month. However, excess wet conditions are beginning to disrupt fieldwork, delaying fertilizer applications and crop treatments. Additionally, the US dollar remained firm, making soybeans more expensive for foreign buyers. Meanwhile, traders are closely monitoring signs of renewed Chinese buying. The USDA confirmed last week a 132,000-ton US soybean sale to China for 2026/27 delivery, the first publicly reported Chinese purchase since the May summit."
+    },
+    {
+      "id": "4949346",
+      "time": "2026-06-23 10:27:34",
+      "tags": [
+        "公司"
+      ],
+      "text": "【於東來：胖東來員工至親離世可帶薪休假1年】6月22日晚，於東來在社交平臺釋出集團近半年經營資料，累計銷售達139.5億元，同比增長24.23%；本月累計銷售15.94億元，同比增長31.76%。此外，於東來還表示，胖東來要學習谷歌及世界優秀企業的福利文化。其中，胖東來正在研究制定更具人性化的帶薪休假政策：若員工夫妻或孩子因意外離世，可享一年帶薪假期；父母及岳父岳母離世，可享一個月帶薪假期。此外，胖東來將保障任何崗位不能產生疲勞工作的狀態，組織員工討論制定相關制度標準，特別是針對收銀臺等繁忙崗位，將規劃在工作時間內增加中間休息時間。事實上，胖東來員工全年休假累計已達145天，每週二閉店休息，嚴禁加班，還有10天“不開心假”。（中新經緯）"
+    },
+    {
+      "id": "4949345",
+      "time": "2026-06-23 10:27:31",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "南向資金淨買入額達50億港元。"
+    },
     {
       "id": "mkt:019ef24d-6a27-7dd8-b0ca-65d2c8922e52",
       "time": "2026-06-23 10:27:00",
@@ -158401,78 +158497,6 @@
         "市場"
       ],
       "text": "騰訊港股下跌3%。"
-    },
-    {
-      "id": "4937543",
-      "time": "2026-06-16 10:30:58",
-      "tags": [
-        "其他"
-      ],
-      "text": "【習近平舉行儀式歡迎緬甸總統敏昂萊訪華】6月16日上午，國家主席習近平在北京人民大會堂北大廳舉行儀式，歡迎緬甸總統敏昂萊訪華。應國家主席習近平邀請，緬甸總統敏昂萊於6月15日至19日對中國進行國事訪問。（央視新聞）"
-    },
-    {
-      "id": "4937542",
-      "time": "2026-06-16 10:30:40",
-      "tags": [
-        "觀點"
-      ],
-      "text": "摩根士丹利預計原油產量將從 7 月中旬開始逐步恢復，到 9 月份將恢復 50% 的損失產量，到 12 月份將恢復 80%。"
-    },
-    {
-      "id": "em:jjsj_zgsj:202606163772716477",
-      "time": "2026-06-16 10:30:18",
-      "tags": [
-        "經濟數據",
-        "中國"
-      ],
-      "text": "【國家統計局：裝備製造業對工業生產的支撐作用比較明顯】國家統計局新聞發言人付凌暉6月16日在國新辦新聞釋出會上表示，裝備製造業對工業生產的支撐作用比較明顯，成為工業生產加快的重要支撐力量。5月份，裝備製造業增加值同比增長9.5%，對規模以上工業增加值增長貢獻率接近8成。"
-    },
-    {
-      "id": "4937541",
-      "time": "2026-06-16 10:30:16",
-      "tags": [
-        "觀點"
-      ],
-      "text": "摩根士丹利預計第三季度布倫特原油均價為每桶 90 美元。"
-    },
-    {
-      "id": "em:jjsj_zgsj:202606163772718290",
-      "time": "2026-06-16 10:29:52",
-      "tags": [
-        "經濟數據",
-        "中國"
-      ],
-      "text": "【國家統計局：5月份裝備製造業增加值同比增長9.5% 對規模以上工業增加值增長貢獻率接近8成】國家統計局新聞發言人付凌暉16日在國新辦新聞釋出會上表示，裝備製造業對工業生產的支撐作用比較明顯，成為工業生產加快的重要支撐力量。5月份，裝備製造業增加值同比增長9.5%，對規模以上工業增加值增長貢獻率接近8成。"
-    },
-    {
-      "id": "4937540",
-      "time": "2026-06-16 10:28:50",
-      "tags": [
-        "觀點"
-      ],
-      "text": "摩根士丹利因美伊達成和平協議將第四季度布倫特原油價格預期下調至每桶80美元。"
-    },
-    {
-      "id": "mkt:019ece42-362a-7dd8-b01c-0febc7a03e4f",
-      "time": "2026-06-16 10:28:26",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "CSI300",
-        "Impact bullish",
-        "SSE Composite",
-        "CNH"
-      ],
-      "text": "【CHINA'S FU: Equipment manufacturing clearly supporting industrial production】CHINA'S FU said at a State Council Information Office briefing on June 16 that the equipment-manufacturing sector is providing clear support to industrial production and has become an important driver of faster industrial output. In May, equipment-manufacturing value added rose 9.5% YoY and accounted for nearly 80% of the increase in industrial value added among enterprises above designated size."
-    },
-    {
-      "id": "4937539",
-      "time": "2026-06-16 10:28:23",
-      "tags": [
-        "其他"
-      ],
-      "text": "【國家統計局付凌暉：裝備製造業對工業生產的支撐作用比較明顯】國家統計局新聞發言人付凌暉16日在國新辦新聞釋出會上表示，裝備製造業對工業生產的支撐作用比較明顯，成為工業生產加快的重要支撐力量。5月份，裝備製造業增加值同比增長9.5%，對規模以上工業增加值增長貢獻率接近8成。（新華財經）"
     }
   ]
 }
