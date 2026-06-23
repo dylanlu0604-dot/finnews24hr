@@ -1,7 +1,159 @@
 {
-  "updated": "2026-06-24 02:38:25",
-  "count": 17260,
+  "updated": "2026-06-24 02:58:55",
+  "count": 17254,
   "items": [
+    {
+      "id": "mkt:019ef5d8-84a7-7dd8-b0e2-22aa6f0615f3",
+      "time": "2026-06-24 02:57:48",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Trump says Iran cannot have nuclear weapons."
+    },
+    {
+      "id": "4951068",
+      "time": "2026-06-24 02:57:45",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普談及伊朗問題： 伊朗絕不能擁有核武器，這點沒得商量。"
+    },
+    {
+      "id": "4951067",
+      "time": "2026-06-24 02:57:16",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：已會見工會領袖。"
+    },
+    {
+      "id": "mkt:019ef5d7-7d12-7dd8-b0e2-1b343e86f307",
+      "time": "2026-06-24 02:56:40",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【US allows Iran team to enter US two days before next match】On June 23 the U.S. Department of Homeland Security said it has relaxed travel restrictions to allow Iran’s national football team to enter the United States two days before its June 26 group match against Egypt in Seattle; the team must depart the same night. DHS said overall security measures and procedures remain unchanged. Iran will remain based in Tijuana, Mexico, for the tournament and several team staff and federation officials continue to be barred from entry."
+    },
+    {
+      "id": "4951066",
+      "time": "2026-06-24 02:56:13",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美國允許伊朗隊下一場比賽前2天入境】當地時間6月23日，美國國土安全部發言人表示，美國放寬對參加世界盃比賽的伊朗國家足球隊的旅行限制，伊朗隊將被允許在26日對陣埃及隊的比賽前兩天入境美國，但仍須在比賽結束當晚離境。發言人表示，整體安全措施和流程保持不變。由於在美國停留的限制，伊朗隊在整個世界盃賽事期間駐紮在墨西哥蒂華納，往返美國參加比賽，同時多名伊朗隊工作人員和足協官員被禁止入境。當地時間6月26日，伊朗隊將在美國西雅圖迎戰小組賽的最後一個對手埃及隊。（央視新聞）"
+    },
+    {
+      "id": "mkt:019ef5d6-807b-7dd8-b0e2-15ff44159fc7",
+      "time": "2026-06-24 02:55:35",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Trump on Iran: we are doing pretty well."
+    },
+    {
+      "id": "4951065",
+      "time": "2026-06-24 02:55:30",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普談伊朗局勢：我們目前進展相當順利。"
+    },
+    {
+      "id": "mkt:019ef5d6-3734-7dd8-b0e2-0c0833784531",
+      "time": "2026-06-24 02:55:17",
+      "tags": [
+        "MKT News",
+        "6758.T",
+        "Impact bullish"
+      ],
+      "text": "Nikkei reports Sony's new image sensor increases resolution by 20% by rearranging the color filter array."
+    },
+    {
+      "id": "mkt:019ef5d4-f55a-7dd8-b0e2-061045dea306",
+      "time": "2026-06-24 02:53:54",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "President Trump said he may run again, asked whether he should, and said he would like to."
+    },
+    {
+      "id": "4951064",
+      "time": "2026-06-24 02:49:04",
+      "tags": [
+        "市場"
+      ],
+      "text": "納斯達克100指數跌幅擴大至3.5%，觸及盤中低點。"
+    },
+    {
+      "id": "mkt:019ef5cf-6d9b-7dd8-b0e1-fa3deedc0287",
+      "time": "2026-06-24 02:47:52",
+      "tags": [
+        "MKT News",
+        "Nasdaq100",
+        "Impact bearish",
+        "S&P500",
+        "US10Y",
+        "Impact bullish"
+      ],
+      "text": "【SpaceX prepares first bond sale, plans $25 billion offering】SpaceX is preparing its first bond issuance to raise $25 billion to test fixed-income investor appetite for Elon Musk’s vision for the company. Bonds would span 5- to 30-year maturities. Banks view the deal as a bellwether for further fundraising; a buy-side source said SpaceX could return in the next few years seeking roughly $10 billion more in refinancing. The planned sale comes amid a renewed large-cap tech selloff and market concern over high valuations and a rising-rate outlook."
+    },
+    {
+      "id": "4951063",
+      "time": "2026-06-24 02:43:13",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期銀失守62美元/盎司，日內跌6.15%。"
+    },
+    {
+      "id": "mkt:019ef5ca-f7af-7dd8-b0e1-f490e135506d",
+      "time": "2026-06-24 02:42:59",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Italian Prime Minister Meloni said allowing Iran to impose transit fees in the Strait of Hormuz would turn a strategic trade waterway into a geopolitical weapon and is unacceptable."
+    },
+    {
+      "id": "te:markets:561265",
+      "time": "2026-06-24 02:42:42",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "Tesla Stock Price Hits 7-week Low — Tesla shares decreased to 380.12 USD, the lowest since May 2026. Over the past 4 weeks, Tesla lost 12.18%, and in the last 12 months, it increased 11.84%."
+    },
+    {
+      "id": "mkt:019ef5ca-4753-7dd8-b0e1-ecb1678a4212",
+      "time": "2026-06-24 02:42:14",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact mixed",
+        "Brent"
+      ],
+      "text": "【Several gas exporters warn EU methane rules could threaten energy security】The US, Qatar and other natural gas exporters have urged the EU to relax parts of proposed methane-emissions rules, warning the measures could threaten EU energy security. In a letter to European leaders co-signed by Nigeria and Algeria they called for a \"pragmatic approach\" to clarify and amend rule details so importers can continue supplying required oil and gas. The appeal comes as the EU faces pressure to lower high energy prices and plans to boost US gas imports amid the Middle East conflict; several member states want the methane rules' impact on energy security discussed at this week's EU energy ministers meeting."
+    },
+    {
+      "id": "mkt:019ef5c7-a0ba-7dd8-b0e1-e23d5e23ac86",
+      "time": "2026-06-24 02:39:21",
+      "tags": [
+        "MKT News",
+        "AIR.PA",
+        "Impact bearish"
+      ],
+      "text": "Fuselage cracks detected on Airbus A380s operated by Emirates and Qantas; Airbus to inspect 16 A380 aircraft."
+    },
     {
       "id": "4951061",
       "time": "2026-06-24 02:36:43",
@@ -157986,195 +158138,6 @@
         "國際"
       ],
       "text": "城堡證券表示，隨著通脹呈現持續性、全域擴散特徵，美聯儲最早9月開啟一輪加息週期的機率正在上升。"
-    },
-    {
-      "id": "4939298",
-      "time": "2026-06-17 02:58:12",
-      "tags": [
-        "市場"
-      ],
-      "text": "布倫特原油期貨結算價報每桶78.96美元，下跌4.21美元，跌幅5.06%。"
-    },
-    {
-      "id": "4939297",
-      "time": "2026-06-17 02:57:39",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國有線電視新聞網證實，加州州長的妻子詹妮弗·西貝爾·紐瑟姆正遭到司法部調查。就在此事曝光前一日，加州州長加文·紐瑟姆剛指責本屆政府牽頭對其核心圈子展開一場帶有政治目的的調查。不過一名瞭解此次調查內情的人士否認，這項調查是由司法部內部特朗普任命的領導層發起的。"
-    },
-    {
-      "id": "4939296",
-      "time": "2026-06-17 02:54:49",
-      "tags": [
-        "國際"
-      ],
-      "text": "【伊朗警告以色列停止黎南部軍事行動】當地時間6月16日晚，伊朗武裝部隊哈塔姆·安比亞中央司令部發布宣告稱，在美國總統特朗普宣佈戰爭結束後的兩天裡，以色列軍隊在黎巴嫩南部違反停火協議84次，繼續對黎巴嫩無辜民眾實施犯罪和屠殺。伊朗武裝部隊鄭重警告：如果以色列不停止對黎巴嫩南部的侵略和挑釁行為，等待它的將是伊朗武裝力量的強力回應。"
-    },
-    {
-      "id": "mkt:019ed1c9-4504-7dd8-b039-45440b47d320",
-      "time": "2026-06-17 02:54:48",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "cenc measured a magnitude-3.7 earthquake at 02:50 on June 17 in Haixi Prefecture, Qinghai; hypocenter depth 10 km."
-    },
-    {
-      "id": "mkt:019ed1c9-131f-7dd8-b039-3f8766fbf54d",
-      "time": "2026-06-17 02:54:36",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "Sources said US Commerce Secretary Lutnick warned in a letter to ANTHROPIC that Washington would impose restrictions on advanced AI models, prompting ANTHROPIC to disable features of its MYTHOS model."
-    },
-    {
-      "id": "4939294",
-      "time": "2026-06-17 02:53:29",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗革命衛隊哈塔姆·安比亞中央總部：儘管美國總統宣稱戰事已經結束，但以色列軍隊過去兩天內已84次破壞黎巴嫩南部停火協議，持續對毫無防禦能力的黎巴嫩民眾實施暴行。以色列若不停止在黎巴嫩南部的侵略行徑，就應當做好準備，迎接伊朗武裝力量堅決、果斷的反擊。"
-    },
-    {
-      "id": "4939293",
-      "time": "2026-06-17 02:52:35",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場資訊：美國國防部長赫格塞思今日現身國會山，有人剛剛看到他在參議院區域，隨行有安保團隊。"
-    },
-    {
-      "id": "mkt:019ed1c5-f687-7dd8-b039-32f345621ed2",
-      "time": "2026-06-17 02:51:12",
-      "tags": [
-        "MKT News",
-        "DXY",
-        "Impact bullish"
-      ],
-      "text": "Peru's central bank bought USD 221 mln in the spot FX market."
-    },
-    {
-      "id": "mkt:019ed1c5-d0d8-7dd8-b039-2fc39fb3dd7a",
-      "time": "2026-06-17 02:51:02",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Peru's central bank conducted FX swap operations totaling 1.1 million soles."
-    },
-    {
-      "id": "4939292",
-      "time": "2026-06-17 02:50:21",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "訊息人士透露：美國商務部長盧特尼克致信人工智慧公司Anthropic，警告政府將對高階人工智慧模型實施管制，受此影響Anthropic關停了Mythos相關功能。"
-    },
-    {
-      "id": "4939291",
-      "time": "2026-06-17 02:49:59",
-      "tags": [
-        "國際"
-      ],
-      "text": "幣安表示將持續服務歐洲使用者，在有報道稱其可能失去歐盟經營許可後，平臺仍會依法合規運營。"
-    },
-    {
-      "id": "mkt:019ed1c1-e88b-7dd8-b039-27641789cf8b",
-      "time": "2026-06-17 02:46:46",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Emerging Markets"
-      ],
-      "text": "Fitch: Brazil general government gross debt-to-GDP rises to 78.6% in 2025; expected to exceed 80% in 2026."
-    },
-    {
-      "id": "mkt:019ed1c0-e092-7dd8-b039-1ada18449460",
-      "time": "2026-06-17 02:45:38",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Fitch expects Brazil’s general government deficit-to-GDP ratio to widen from 8.1% in 2025 to 8.6% in 2026."
-    },
-    {
-      "id": "4939290",
-      "time": "2026-06-17 02:45:27",
-      "tags": [
-        "國際"
-      ],
-      "text": "【烏克蘭空軍蘇-24轟炸機墜毀 兩人遇難】烏克蘭空軍16日晚在社交媒體發文說，當天19時許，烏空軍一架蘇-24轟炸機在赫梅利尼茨基州執行任務時墜毀，機上兩人遇難。初步資訊顯示，墜機未造成平民傷亡。墜機原因正在調查中。（新華社）"
-    },
-    {
-      "id": "4939289",
-      "time": "2026-06-17 02:45:19",
-      "tags": [
-        "國際"
-      ],
-      "text": "【伊朗官員：美方必須停止針對黎巴嫩的軍事行動、嚴格履行協議全部條款】伊朗議會國家安全與外交政策委員會主席易卜拉欣·阿齊茲表示，美方必須停止針對黎巴嫩的軍事行動、嚴格履行協議全部條款，以此證明其恪守美伊諒解備忘錄的誠意。美方若違背協議任何條款，伊朗都將予以堅決、毀滅性的回擊。單方面向伊朗施壓的時代已經落幕。"
-    },
-    {
-      "id": "4939288",
-      "time": "2026-06-17 02:43:46",
-      "tags": [
-        "其他"
-      ],
-      "text": "【受青海海西州6.3級地震影響 大柴旦轄區多個景區景點臨時關停】青海海西州文體旅遊廣電局17日釋出通告，為保障人民群眾生命財產安全，嚴防地震次生災害引發安全事故，大柴旦轄區全部文旅經營場所及旅遊點位實施臨時關停管控。"
-    },
-    {
-      "id": "4939287",
-      "time": "2026-06-17 02:42:47",
-      "tags": [
-        "其他"
-      ],
-      "text": "惠譽維持巴西評級“BB”，展望穩定。"
-    },
-    {
-      "id": "mkt:019ed1be-0235-7dd8-b039-17d128b6ff3f",
-      "time": "2026-06-17 02:42:30",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Fitch affirms Brazil's sovereign rating at BB, outlook stable."
-    },
-    {
-      "id": "4939286",
-      "time": "2026-06-17 02:40:33",
-      "tags": [
-        "國際"
-      ],
-      "text": "以色列媒體：以色列曾正式申請查閱美伊諒解備忘錄，遭到白宮拒絕。美以是最緊密的戰略盟友，但以色列政府對特朗普存在嚴重信任缺失。以色列國內瀰漫挫敗情緒，輿論層面伊朗佔據上風。"
-    },
-    {
-      "id": "4939285",
-      "time": "2026-06-17 02:40:04",
-      "tags": [
-        "公司"
-      ],
-      "text": "檔案顯示：巴西石油監管機構巴西國家石油局（ANP）已批准向巴西國家石油公司（Petrobras）支付柴油補貼計劃第一階段的7.4億雷亞爾款項。"
-    },
-    {
-      "id": "mkt:019ed1bb-8aa6-7dd8-b039-0c6709cdf247",
-      "time": "2026-06-17 02:39:49",
-      "tags": [
-        "MKT News",
-        "PETR4.SA",
-        "Impact bullish"
-      ],
-      "text": "Brazilian oil regulator ANP approved payment of 740 million reais to Petrobras for the first tranche of a diesel subsidy program."
-    },
-    {
-      "id": "mkt:019ed1ba-4da2-7dd8-b039-00d133163d44",
-      "time": "2026-06-17 02:38:28",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "DXY",
-        "WTI"
-      ],
-      "text": "Iran's Supreme Joint Military Command warned that if Israel does not cease attacks on southern Lebanon, it should expect a strong response from Iran's armed forces."
     }
   ]
 }
