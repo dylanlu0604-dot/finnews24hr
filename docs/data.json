@@ -1,7 +1,47 @@
 {
-  "updated": "2026-06-24 07:26:43",
-  "count": 17352,
+  "updated": "2026-06-24 07:30:35",
+  "count": 17351,
   "items": [
+    {
+      "id": "mkt:019ef6d1-ac16-7dd8-b0e4-bbaa2b8ca298",
+      "time": "2026-06-24 07:29:56",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. House passed an affordable housing bill by an overwhelming majority; the measure has been sent to President Trump for signature."
+    },
+    {
+      "id": "4951261",
+      "time": "2026-06-24 07:29:01",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國眾議院壓倒性透過可負擔住房法案，已遞交特朗普簽署生效。"
+    },
+    {
+      "id": "4951260",
+      "time": "2026-06-24 07:28:37",
+      "tags": [
+        "其他"
+      ],
+      "text": "【中國駐里約熱內盧總領館提醒領區中國公民和機構，密切關注有關安全形勢】6月23日清晨，里約警方在市區南部多納瑪爾塔（Dona Marta）社群開展大規模執法行動，其間與犯罪團伙發生激烈交火，導致一名路人遭流彈擊傷，多名遊客一度滯留避險。駐里約總領館提醒領區中國公民和機構，密切關注有關安全形勢，避免前往相關地區。如身處危險區域，選擇安全地點暫避，待情況穩定後儘速離開。如遇緊急情況請及時報警並聯系我館。"
+    },
+    {
+      "id": "4951259",
+      "time": "2026-06-24 07:28:21",
+      "tags": [
+        "其他"
+      ],
+      "text": "【“崔賢”號新型多用途驅逐艦正式進入朝鮮海軍服役 】據朝中社24日報道，“崔賢”號新型多用途驅逐艦入列典禮23日在朝鮮南浦港隆重舉行，朝鮮勞動黨總書記、國務委員長金正恩出席典禮。報道說，“崔賢”號驅逐艦結束為期一年零兩個月的作戰執行能力評估試驗程式，正式進入朝鮮人民軍海軍服役。金正恩在典禮上致賀詞說，朝鮮海軍的變化並不是單純的艦艇大型化與裝備現代化，而是在地位、任務、作戰水域範圍等方面發生了變化。他說，朝鮮海軍正在發展成為具備戰略手段的軍種。（新華社）"
+    },
+    {
+      "id": "4951258",
+      "time": "2026-06-24 07:26:23",
+      "tags": [
+        "國際"
+      ],
+      "text": "【SK海力士將向韓國金融監督院提交美國存託憑證配套新股發行方案】韓國每日經濟援引不願具名金融投資業內人士報道，SK海力士擬於週三向韓國金融監督院提交與美國存託憑證（ADR）上市相關的有價證券申報書。企業需先在韓國本土發行股票，才能於納斯達克交易所掛牌上市美國存託憑證。SK海力士預計韓國金融監督院最快7月3日完成相關檔案稽核；市場猜測本次ADR上市工作有望在7月落地。"
+    },
     {
       "id": "4951257",
       "time": "2026-06-24 07:24:34",
@@ -158915,57 +158955,6 @@
         "Impact mixed"
       ],
       "text": "【G7 reiterates Iran must not obtain nuclear weapons】G7 said it supports and is willing to help implement the US–Iran agreement and reaffirmed freedom of navigation and duty-free passage as pillars of international trade. It endorsed a France- and UK-led defensive initiative to protect merchant shipping, reassure shipping firms and assist clearance of sea mines to restore traffic through the Strait of Hormuz. The group called for a strong, comprehensive diplomatic follow-up to the memorandum of understanding reached by President Trump, saying negotiations must address Iran’s regional threats and ensure it never obtains nuclear weapons; talks should include active involvement from the International Atomic Energy Agency (IAEA) and other regional and international partners. G7 committed to accelerate diversification of energy supply routes and increase strategic stocks to cut global reliance on the Strait of Hormuz, and welcomed Canada’s pledge to add significant export capacity to global markets in coming years."
-    },
-    {
-      "id": "mkt:019ed2c4-a5b3-7dd8-b03b-347ed1c93989",
-      "time": "2026-06-17 07:29:23",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "The Information reports OpenAI burned $3.7 billion in the first three quarters of 2026."
-    },
-    {
-      "id": "4939417",
-      "time": "2026-06-17 07:28:48",
-      "tags": [
-        "其他"
-      ],
-      "text": "OpenAI在2026年第一季度燒掉37億美元資金。"
-    },
-    {
-      "id": "4939416",
-      "time": "2026-06-17 07:28:02",
-      "tags": [
-        "市場"
-      ],
-      "text": "【證券行業佣金率下行勢頭仍在延續 滬上A股平均佣金率低至1.73‱】證券行業佣金率下行勢頭仍在延續。上海市證券同業公會最新資料顯示，2026年5月，上海地區A股平均佣金率（高頻量化業務除外）降至1.73‱，環比下降3.4%，再創歷史新低。這也是繼4月首次跌破1.8‱關口後，平均佣金率在短短一個月內的再次下探。與此同時，券商經紀業務核心指標普遍回暖。5月，上海地區A股交易量環比增長18%至20.3萬億元，新增資金賬戶51萬戶，環比大增15.9%，客戶保證金餘額也環比回升超過15%。量升價跌，逼近成本紅線的佣金價格戰也引發了投資者和監管的關注。券商依靠通道賺佣金的打法不斷受到考驗，轉型已是迫在眉睫。"
-    },
-    {
-      "id": "4939415",
-      "time": "2026-06-17 07:27:52",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【英國首相斯塔默：英國和歐盟將於7月22日舉行峰會】英國首相斯塔默週二表示，英國與歐盟將於7月22日舉行第二次峰會。目前，英國政府正尋求重塑與歐盟的關係，並推動在貿易、安全和經濟領域加強合作。“我的工黨政府正在兌現我們的承諾，重塑雙邊關係，”斯塔默在社交媒體平臺發文稱。“我們將共同應對生活成本問題，增加就業，併為年輕人創造機會。”在黨內壓力加劇之際，斯塔默正為其政治前途而努力。他將加強與歐盟的關係視為推動經濟增長和緩解生活成本壓力的重要舉措。在法國舉行的七國集團(G7)峰會期間，斯塔默週二與歐洲理事會主席科斯塔(Antonio Costa)會晤。斯塔默辦公室一位發言人隨後表示，兩位領導人均指出，“更緊密的關係對於歐洲的安全、韌性和繁榮至關重要。”"
-    },
-    {
-      "id": "4939414",
-      "time": "2026-06-17 07:26:55",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【逾千家上市公司十年未換審計機構 超長審計任期易滋生風險】審計關乎公眾利益，獨立性是審計的根基。根據規定，國有企業（含國有控股上市公司）連續聘用同一會計師事務所的時間不得超過8年，確有需要的，可按規定延長至不超過10年，之後須開展輪換。對於非國有上市公司，相關規定未作強制。證券時報記者梳理統計發現，A股市場超千家上市公司聘任同一會計師事務所連續審計超過10年，部分服務週期長達二三十年。規範審計是資本市場風險防控的關鍵一環。看似穩定、高效的長期合作模式，暗藏深層次結構性弊端。多位業內人士認為，超長期繫結的合作關係，可能逐步削弱審計的獨立性與約束力。審計任期引發的行業矛盾日漸凸顯：審計機構與企業長期合作容易形成利益繫結，影響審計獨立性；而簡單地“一換了之”，又會造成財報資料口徑波動、企業合規成本上漲。針對當前行業痛點，多位業內人士結合市場實操情況，提出分層最佳化方案，平衡審計獨立性與資本市場資訊披露穩定性。"
-    },
-    {
-      "id": "4939413",
-      "time": "2026-06-17 07:26:47",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "【韓國考慮提前解除石腦油出口限制】韓國《首爾經濟日報》援引不願具名的政府官員訊息稱，韓國正考慮較原定時間提前取消石腦油出口管控措施。此次考量背景為國內石腦油裂解裝置開工率已恢復至正常水平，且美國與伊朗即將正式簽署臨時和平協議。注：韓國於3月27日出臺石腦油出口限制政策，該管控原定於8月到期。"
     }
   ]
 }
