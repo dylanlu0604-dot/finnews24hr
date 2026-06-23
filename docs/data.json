@@ -1,7 +1,50 @@
 {
-  "updated": "2026-06-24 03:09:00",
-  "count": 17270,
+  "updated": "2026-06-24 03:13:01",
+  "count": 17272,
   "items": [
+    {
+      "id": "mkt:019ef5e6-06ce-7dd8-b0e2-963bae6a7583",
+      "time": "2026-06-24 03:12:33",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "President Trump accused former President Obama of attempting to bribe Iran with tens of billions of dollars and said Iran's leadership only understands \"iron-fist measures\"."
+    },
+    {
+      "id": "4951089",
+      "time": "2026-06-24 03:12:17",
+      "tags": [
+        "觀點"
+      ],
+      "text": "摩根大通已獲批推出一隻全新間隔基金，投資於公募及私募信貸資產，並允許投資者按月贖回份額；當前直接信貸行業正遭遇新一輪大規模撤資申請的衝擊。"
+    },
+    {
+      "id": "4951088",
+      "time": "2026-06-24 03:11:43",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：我們與伊朗達成了一份具有歷史意義的和平協議，以此終結衝突。而最重要的是，我們明確落實了一項關鍵訴求——這也是我促成這份協議的初衷——伊朗永遠不得擁有核武器，伊朗方面已對此表示認同。"
+    },
+    {
+      "id": "mkt:019ef5e4-ce80-7dd8-b0e2-8be5ddeec71f",
+      "time": "2026-06-24 03:11:13",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Emerging Markets"
+      ],
+      "text": "Argentina's statistics agency said Q1 2026 GDP rose 2.3% YoY, above market consensus of 1.7%."
+    },
+    {
+      "id": "4951087",
+      "time": "2026-06-24 03:09:50",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "特朗普稱讚禮來公司。"
+    },
     {
       "id": "mkt:019ef5e0-fee0-7dd8-b0e2-840bb5d4d12d",
       "time": "2026-06-24 03:07:03",
@@ -158277,32 +158320,6 @@
         "MKT News"
       ],
       "text": "【CNN: U.S. refused Israel’s request to review U.S.-Iran memorandum】CNN on June 16 quoted an Israeli source saying Washington refused Israel’s request to review the text of a U.S.-Iran memorandum. The source said the Trump administration partly declined because it feared Prime Minister Netanyahu would leak the text before formal release. At a June 15 news conference Netanyahu barely mentioned the memorandum and said he and Trump “are not always of one mind,” adding “we still do not know what this memorandum actually is.”"
-    },
-    {
-      "id": "4939309",
-      "time": "2026-06-17 03:12:08",
-      "tags": [
-        "國際"
-      ],
-      "text": "【美被曝拒絕以色列看美伊諒解備忘錄】當地時間6月16日，據美國有線電視新聞網（CNN）報道，一名以色列訊息人士透露，以色列曾要求美國提供美伊諒解備忘錄文字供其審閱，但遭到拒絕。該訊息人士稱，美方拒絕以色列的部分原因在於，特朗普政府“擔心以色列總理內塔尼亞胡會在該備忘錄正式公佈前洩露文字內容”。 內塔尼亞胡當地時間6月15日晚舉行記者會，在開場發言中幾乎未提及這項備忘錄。在隨後的提問環節中，他表示，自己與特朗普“並非總是意見一致”。他還稱：“我們仍然不知道這項備忘錄究竟是什麼。”（CCTV國際時訊）"
-    },
-    {
-      "id": "mkt:019ed1d7-deb7-7dd8-b039-7f8c8c4200d6",
-      "time": "2026-06-17 03:10:45",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK"
-      ],
-      "text": "U.S. Defense Secretary Hegseth will travel to Belgium tomorrow to attend a NATO ministerial meeting."
-    },
-    {
-      "id": "4939308",
-      "time": "2026-06-17 03:10:13",
-      "tags": [
-        "國際"
-      ],
-      "text": "【以軍持續在黎南部軍事行動 伊朗軍方發聲警告】16日，伊朗武裝部隊哈塔姆安比亞中央總部發布宣告稱，在美伊雙方達成諒解備忘錄之後，以色列軍隊已在黎巴嫩南部違反停火協議84次，並繼續對黎巴嫩無辜民眾實施犯罪和屠殺。宣告警告，如果以色列不停止其在黎巴嫩南部的侵略和挑釁行為，那麼它將不得不等待“伊朗強大武裝力量的嚴厲回應”。（央視新聞）"
     }
   ]
 }
