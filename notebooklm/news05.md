@@ -1,7 +1,265 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-06-24 01:20:51_
-_本檔包含 3119 則快訊，約 649812 字_
+_更新時間：2026-06-24 02:17:56_
+_本檔包含 3098 則快訊，約 649770 字_
+
+---
+
+### 2026-06-17 23:11:46  #Trading Economics #Markets #Canada #currency #Importance 1
+
+Canadian Dollar Hits 28-week Low — The Canadian Dollar touched 1.40 against the USD, the lowest since November 2025. Over the past 4 weeks, US Dollar Canadian Dollar gained 2.06%, and in the last 12 months, it increased 2.4%.
+
+---
+
+### 2026-06-17 23:10:51  #MKT News #Market Regions #Greater China
+
+【Shanghai releases plan to expand Lingang New Area offshore financial services pilot to full-scope offshore business】Shanghai on June 17 released a PBOC-approved plan to expand and upgrade the Lingang New Area offshore financial services pilot. The scope is widened from an offshore-trade single scenario to full-scope offshore business, enabling pilot firms to deepen integration into global supply chains and broaden participation in cross-border production, sales and services. The move formalises Lingang’s strategic coordination of onshore and offshore activity and renames the scheme accordingly.
+
+---
+
+### 2026-06-17 23:10:26  #國際
+
+法國總統馬克龍：伊朗、真主黨與以色列避免重啟衝突至關重要。
+
+---
+
+### 2026-06-17 23:10:25  #MKT News
+
+MACRON said it is vital that Iran, HEZBOLLAH and Israel refrain from resuming hostilities.
+
+---
+
+### 2026-06-17 23:09:57  #國際
+
+法國總統馬克龍：美國意識到前沿人工智慧模型存在風險，這是件好事。
+
+---
+
+### 2026-06-17 23:09:57  #MKT News
+
+SpaceX shares fell a further 6.3%.
+
+---
+
+### 2026-06-17 23:09:54  #MKT News #Market Themes #AI Revolution #Nasdaq100 #Impact bullish #S&P500 #DXY #Impact bearish
+
+French President Macron said consumers do not want AI tools that can be turned off. He called the U.S. recognizing the risks of frontier AI models a positive development.
+
+---
+
+### 2026-06-17 23:09:21  #市場
+
+Prosus於6月8-12日期間按均價39.8172歐元回購237.3260萬股股票，合計超0.9446億歐元（摺合超1.091億美元）。Naspers同期按均價879.9588南非蘭特回購90.4340萬股，合計將近7.958億蘭特（摺合約0.484億美元）。
+
+---
+
+### 2026-06-17 23:08:54  #MKT News #WTI #Impact bearish #Brent
+
+【Trump says European allies offered minesweeping help for Strait of Hormuz but US may not rely on them】Trump said on Wednesday European allies have pledged to help clear the Strait of Hormuz to keep shipping lanes open but he did not name specific countries. Asked which states offered to clear Iranian mines, he said “all of them,” adding that those with the equipment have offered assistance and every ally has pledged to take part. He added that, following a deal with Iran, the US would not necessarily have to rely on Europe to reopen the strait, though allied minesweepers would be “a good thing.” Trump continued to frame rapid restoration of traffic through the Strait of Hormuz as a key benefit of any Iran agreement, but said returning tanker flows to pre-crisis levels will likely take time.
+
+---
+
+### 2026-06-17 23:08:43  #國際
+
+法國總統馬克龍：客戶不希望使用隨時可能被關停的人工智慧工具。
+
+---
+
+### 2026-06-17 23:08:27  #公司
+
+【臨港新片區離岸貿易金融服務綜合改革試點擴圍方案在滬釋出】今天（6月17日），臨港新片區離岸貿易金融服務綜合改革試點擴圍方案在上海正式釋出。2025年陸家嘴論壇期間，中國人民銀行行長潘功勝宣佈支援上海國際金融中心建設的八項創新舉措，其中包括在臨港新片區開展離岸貿易金融服務綜合改革試點。一年來，臨港新片區在人民銀行上海總部指導下穩步推進試點工作，採用“專營公司＋一線放開、二線管住”的管理模式，在風險可控前提下顯著提升了離岸貿易結算便利化水平，為試點擴圍奠定了堅實基礎。（央視新聞）
+
+---
+
+### 2026-06-17 23:07:37  #國際
+
+法國總統馬克龍：相信未來幾周內，其他民主國家在獲取美國前沿人工智慧模型方面將取得進展。
+
+---
+
+### 2026-06-17 23:07:12  #其他
+
+市場訊息：義大利將於週五重開駐德黑蘭大使館。
+
+---
+
+### 2026-06-17 23:05:34  #國際
+
+伊朗伊斯蘭共和國通訊社（IRNA）：日內瓦會談日程無變動。
+
+---
+
+### 2026-06-17 23:04:17  #MKT News
+
+An EU official said European Council President Costa has spent recent weeks coordinating closely with European leaders on the possibility of engaging with Russia and on the issues to be raised when timing is right.
+
+---
+
+### 2026-06-17 23:04:13  #國際
+
+歐盟官員：歐洲理事會主席科斯塔近幾週一直與歐洲領導人密切協調，商討與俄羅斯進行接觸的可能性，以及時機成熟時將討論的議題。
+
+---
+
+### 2026-06-17 23:03:54  #公司
+
+Anthropic公司在首爾開設辦公室。
+
+---
+
+### 2026-06-17 23:03:48  #國際
+
+歐盟官員：歐洲理事會主席科斯塔的辦公室近幾周與克里姆林宮進行了“外交層面的簡短接觸”，旨在開啟溝通渠道，但未討論任何實質性內容。歐盟在未來任何情況下都有需要捍衛的利益，因此與俄羅斯建立外交渠道至關重要。歐盟並非調解方，但支援烏克蘭為實現公正持久和平所做的努力。
+
+---
+
+### 2026-06-17 23:03:39  #Trading Economics #Markets #Commodity #Importance 0
+
+Rubber Futures at Near 2-Week High — Rubber futures rose further to surpass 231 US cents per kilogram, near the highest since early June, amid ongoing weather-related supply concerns. Major Asian producers, including Thailand and Vietnam, are in the midst of a heavy rainfall spell, disrupting tapping activities and potentially weighing on output. Supply typically increases during the main tapping season from May to October, when more favourable weather conditions support higher latex production. Limiting gains, lower oil prices following the anticipated US-Iran deal have made synthetic rubber more competitive, reducing demand for natural rubber.
+
+---
+
+### 2026-06-17 23:03:31  #MKT News #Important
+
+ANTHROPIC opens an office in Seoul.
+
+---
+
+### 2026-06-17 23:03:12  #MKT News #Market Regions #Europe & UK
+
+EU official said the bloc is not a mediator but supports Ukraine's efforts to secure a just, lasting peace.
+
+---
+
+### 2026-06-17 23:01:42  #MKT News #Market Regions #Europe & UK
+
+An EU official said the bloc will have interests to defend under any future circumstances, making diplomatic channels with Russia essential.
+
+---
+
+### 2026-06-17 23:01:41  #MKT News
+
+【Chinese researchers identify gene CHPO that confers cold tolerance and improved N-use in rice】A research team at the Institute of Botany, Chinese Academy of Sciences has cloned a core gene, CHPO, at locus qCR2 that links post-freeze tiller regrowth with efficient nitrogen uptake in rice. Using recombinant inbred lines from japonica KY131 and indica ZF802, the team treated regrowth after freezing as a novel metric of frost-recovery and identified CHPO as a regulatory switch that triggers tiller re-growth and enhanced nitrogen absorption after cold damage. The finding provides a molecular module and breeding strategy to develop cold-tolerant, yield-stable, nitrogen-efficient rice varieties. Results were published in Nature on June 17.
+
+---
+
+### 2026-06-17 23:01:34  #MKT News
+
+Macron said the G7 summit showed a genuine shift in the US stance on Ukraine.
+
+---
+
+### 2026-06-17 23:01:20  #MKT News #EURUSD #Impact bullish #DXY #Impact bearish
+
+INSEE projects French HICP inflation will rise from 2.4% in June to 3.0% in December.
+
+---
+
+### 2026-06-17 23:01:08  #國際
+
+馬克龍：本次G7峰會表明，美國對烏克蘭問題的處理方式發生了切實轉變。
+
+---
+
+### 2026-06-17 23:01:04  #MKT News #Market Regions #Europe & UK #EURUSD #Impact bullish
+
+France's National Institute for Statistics and Economic Studies (INSEE) forecasts quarterly GDP growth of 0.3% in Q2 and 0.1% in both Q3 and Q4.
+
+---
+
+### 2026-06-17 23:01:01  #國際
+
+日本首相高市早苗：我不認為美國對印太地區的關注度正在下降。
+
+---
+
+### 2026-06-17 23:00:52  #其他
+
+法國國家統計與經濟研究所（INSEE）預計，法國第二季度季度經濟增長率為0.3%，第三季度和第四季度均為0.1%。
+
+---
+
+### 2026-06-17 23:00:41  #MKT News #EURUSD #Impact bullish
+
+INSEE expects France's GDP to grow 0.7% this year.
+
+---
+
+### 2026-06-17 23:00:40  #其他
+
+法國：法國國家統計與經濟研究所（INSEE）預測，2026年法國經濟增長率為0.7%。
+
+---
+
+### 2026-06-17 23:00:34  #其他
+
+VULTR選擇HPE和NVIDIA為其雲規模資料中心打造下一代人工智慧基礎設施。
+
+---
+
+### 2026-06-17 23:00:26  #國際
+
+以色列軍方：另一架爆炸型無人機數分鐘後發生爆炸，另有一名士兵受傷。
+
+---
+
+### 2026-06-17 23:00:20  #資料
+
+法國國家統計與經濟研究所（INSEE）：法國調和CPI通脹率預計將從6月的2.4%升至12月的3.0%。
+
+---
+
+### 2026-06-17 23:00:13  #MKT News #Market Regions #Europe & UK
+
+An EU official said European Council president Costa's office held brief diplomatic contacts with the Kremlin in recent weeks to open lines of communication, but no substantive issues were discussed.
+
+---
+
+### 2026-06-17 23:00:12  #Trading Economics #Markets #Currency #Importance 1
+
+FX Updates: Brazilian Real Increases by 0.83% — Top currency gainers are Brazilian Real (0.83%), Dollar Index (0.17%) and Japanese Yen (0.06%). Biggest losers are South Korean Won (-0.39%), Swedish Krona (-0.37%), Norwegian Krone (-0.33%), British Pound (-0.25%) and Euro (-0.17%).
+
+---
+
+### 2026-06-17 23:00:11  #國際
+
+一名歐盟官員表示，歐洲理事會主席科斯塔的辦公室近幾周與克里姆林宮進行了外交層級的初步接觸，以開闢溝通渠道，但並未討論任何實質性內容。
+
+---
+
+### 2026-06-17 23:00:02  #市場
+
+【夜盤期貨收盤】低硫燃料油連續漲2.47%，焦煤連續跌2.26%，純鹼連續跌2.24%，玻璃連續跌1.69%，PTA連續漲1.38%。
+
+---
+
+### 2026-06-17 22:59:53  #MKT News #S&P500 #Impact bearish #DXY #Impact bullish #XAUUSD
+
+Macron said US President Trump has noted that Russia does not want peace; Trump and other leaders acknowledge Russia has no intention of achieving peace.
+
+---
+
+### 2026-06-17 22:59:37  #MKT News #Commodities #Energy #WTI #Impact mixed #Brent
+
+【Trump says decision to reinstate sanctions on Russian oil hinges on global energy prices】President Trump said at the G7 summit on Wednesday that the path of global oil prices will determine whether the United States reinstates sanctions on shipments of Russian crude. He added, We are watching how low oil will go; prices have fallen substantially. The administration earlier this year eased sanctions on some Russian oil and the Treasury has repeatedly extended temporary waivers, but it has not said whether the current authorization, which expires later this week, will be renewed. G7 leaders on Tuesday pledged firm support for Ukraine and backed tightening sanctions, including measures targeting Russia's oil and gas sector. Oil has fallen sharply since Trump announced earlier this week that the US reached a deal with Iran, though prices remain well above pre-war levels.
+
+---
+
+### 2026-06-17 22:59:28  #公司
+
+阿斯麥執行長表示，必須保障新專案不會出現供應短缺。
+
+---
+
+### 2026-06-17 22:59:23  #國際
+
+法國總統馬克龍：特朗普已注意到俄羅斯不願求和這一事實。
+
+---
+
+### 2026-06-17 22:59:05  #宏觀 #國際
+
+【王毅看望柬埔寨國王西哈莫尼和太后莫尼列】中共中央政治局委員、外交部長王毅17日受國家主席習近平委派，看望正在北京查體休養的柬埔寨國王西哈莫尼和太后莫尼列。王毅轉達了習近平主席和夫人彭麗媛的親切問候和良好祝願。國王陛下繼承西哈努克太皇友華傳統，同習近平主席建立深厚友誼。在兩國元首戰略引領下，中柬關係邁入新階段。中方願同柬方增進務實合作，為兩國人民創造更多福祉。西哈莫尼和莫尼列請王毅轉達對習近平主席和夫人彭麗媛的誠摯問候和祝願，感謝中方為柬提供真誠幫助。祝願中國國泰民安，人民安居樂業。（新華社）
 
 ---
 
@@ -18474,389 +18732,5 @@ Israeli public broadcaster reported that a senior UAE security official secretly
 ### 2026-06-17 02:20:18  #Trading Economics #Markets #Commodity #Importance 1
 
 Metals Commodities Updates: Platinum Gains by 2.81% — Top commodity gainers are Platinum (2.81%) and Gold (0.70%). Biggest losers are Iron Ore CNY (-1.23%), Lithium Carbonate (-0.88%) and Steel Rebar (-0.76%).
-
----
-
-### 2026-06-17 02:17:26  #國際
-
-卡達埃米爾表示，與特朗普討論了加強合作的方式。
-
----
-
-### 2026-06-17 02:15:18  #Trading Economics #Markets #Commodity #Importance 1
-
-Energy Commodities Updates: Crude Oil WTI Slumps by 6.21% — Top commodity losers are Crude Oil WTI (-6.21%), Brent Crude Oil (-5.32%) and Heating Oil (-3.06%). Gains are led by Natural gas (2.46%).
-
----
-
-### 2026-06-17 02:14:54  #MKT News
-
-【Iran central bank governor says Iran‑US MOU obliges US to unfreeze Iranian assets】Iran central bank governor Abdolnaser Hemmati said on the 16th (local time) that the Iran‑US memorandum of understanding explicitly obliges the United States to unfreeze Iranian assets. He said the MOU’s clauses were drafted with reference to past cases to build enforceable mechanisms that ensure secure access and use of funds, and that the US will be required to meet its commitments. Hemmati added that once the MOU is signed and implemented, technical and banking‑level checks will be carried out to verify assets are genuinely unfrozen and usable.
-
----
-
-### 2026-06-17 02:14:06  #MKT News #Market Regions #Emerging Markets
-
-【Equatorial Guinea government resigns after failing to meet policy goals】On 16 June local time Vice‑President Teodoro Obiang Mangue announced the government has formally resigned, citing failure to meet established policy objectives. No new cabinet list or formation timetable has been released.
-
----
-
-### 2026-06-17 02:12:41  #MKT News
-
-Iran's foreign minister said negotiations will continue for 60 days after the first phase to reach a final agreement covering nuclear issues and sanctions relief.
-
----
-
-### 2026-06-17 02:12:14  #焦點 #國際
-
-伊朗外交部長：第一階段談判結束後，各方將繼續展開為期60天的談判，以達成最終協議，協議內容將涵蓋核問題以及解除制裁。
-
----
-
-### 2026-06-17 02:11:24  #國際
-
-伊朗外交部長表示，美國與伊朗的談判將在雙方簽署諒解備忘錄的當日啟動。
-
----
-
-### 2026-06-17 02:11:24  #MKT News #Important
-
-Iran's foreign minister said negotiations with the United States will begin on the day the two countries sign a memorandum of understanding.
-
----
-
-### 2026-06-17 02:08:20  #國際
-
-烏克蘭空軍通報： 一架蘇-24M戰鬥轟炸機墜毀，兩名飛行員全部遇難。
-
----
-
-### 2026-06-17 02:07:50  #公司
-
-谷歌：今日起向符合條件的Pixel Watch推送Wear OS 7，該版本將為全天日常使用提供可靠平臺。
-
----
-
-### 2026-06-17 02:07:48  #MKT News #Star Stocks #Alphabet #Market Themes #Magnificent 7
-
-Google begins rolling out Wear OS 7 to eligible Pixel Watch devices today; the update is intended to provide a reliable platform for all‑day everyday use.
-
----
-
-### 2026-06-17 02:06:29  #MKT News #Star Stocks #Alphabet #Market Themes #Magnificent 7
-
-Google says its US digital health fund has increased to over $50 mln.
-
----
-
-### 2026-06-17 02:06:05  #MKT News #GOOGL.O
-
-Google will extend Android parental-control features to all devices upgraded to Android 17.
-
----
-
-### 2026-06-17 02:05:02  #MKT News
-
-【US cargo Dragon undocks from ISS, returns to Earth】SpaceX’s cargo Dragon undocked from the International Space Station on the 16th at 12:25 US Eastern Time (00:25 Beijing, 17th), carrying scientific experiment samples and supplies for return. It is scheduled to splash down off the coast of California at 05:08 US Pacific Time on the 17th (20:08 Beijing).
-
----
-
-### 2026-06-17 02:05:01  #公司 #國際
-
-谷歌：已將美國數字健康基金規模增至逾5000萬美元。
-
----
-
-### 2026-06-17 02:04:54  #公司
-
-谷歌：將安卓家長控制功能擴充套件至所有升級至安卓17系統的安卓裝置。
-
----
-
-### 2026-06-17 02:04:51  #MKT News #EURUSD #Impact mixed
-
-Bank of France expects 2026 inf at 2.5% (previously 1.7%) and sees Q2 GDP flat after a contraction in Q1.
-
----
-
-### 2026-06-17 02:04:51  #MKT News #EURUSD #Impact bearish #DXY #Impact bullish
-
-Bank of France cuts its 2026 GDP growth forecast to 0.5% from 0.9%.
-
----
-
-### 2026-06-17 02:02:58  #國際
-
-【美貨運“龍”飛船脫離空間站返回地球】SpaceX的貨運“龍”飛船16日脫離國際空間站，攜帶科學實驗樣品和物資返回地球。據美國國家航空航天局介紹，“龍”飛船於美國東部時間16日12時25分（北京時間17日0時25分）脫離國際空間站，啟程返回地球。按計劃，“龍”飛船將於美國西部時間17日5時08分（北京時間同日20時08分）濺落在美加利福尼亞州附近海域。（新華社）
-
----
-
-### 2026-06-17 02:02:53  #央行 #其他
-
-法國央行預計本國第二季度經濟零增長。
-
----
-
-### 2026-06-17 02:00:41  #MKT News #EURUSD #Impact bullish
-
-Bank of France raises its 2027 GDP growth forecast to 0.9% from 0.8%; keeps 2028 forecast at 1.2%.
-
----
-
-### 2026-06-17 02:00:31  #央行 #其他
-
-法國央行將2026年經濟增長預測從此前的0.9%下調至0.5%。
-
----
-
-### 2026-06-17 02:00:28  #央行 #其他
-
-法國央行預測，2027年經濟增長率為0.9%，此前預測值為0.8%；2028年經濟增長率維持1.2%不變。
-
----
-
-### 2026-06-17 02:00:21  #央行 #其他
-
-法國央行預計2026年通脹率為2.5%，此前預測值為1.7%。
-
----
-
-### 2026-06-17 02:00:20  #MKT News #Market Regions #Europe & UK
-
-Brazilian President Lula and European Commission President von der Leyen pledged to seek a solution to address EU concerns.
-
----
-
-### 2026-06-17 01:59:42  #其他
-
-【赤道幾內亞政府集體辭職】當地時間16日，赤道幾內亞副總統特奧多羅·奧比昂·曼格宣佈，由於未能實現既定施政目標，政府已正式辭職。曼格在宣告中指出，此次辭職旨在為組建新的政府團隊鋪平道路，以提高行政效率並加快國家發展計劃的落實。他強調，政府各部門需要進一步提升工作表現，更有效地回應國家經濟和社會發展需求。目前，赤道幾內亞方面尚未公佈新內閣成員名單及具體組閣時間表。（央視新聞）
-
----
-
-### 2026-06-17 01:59:20  #國際
-
-巴西總統盧拉與歐盟委員會主席馮德萊恩承諾，將致力於尋求解決方案，化解歐盟的關切。
-
----
-
-### 2026-06-17 01:58:47  #國際
-
-美國國家颶風中心（NHC）表示，潛在一號熱帶氣旋正導致得克薩斯州和路易斯安那州部分地區出現危險的突發洪水。
-
----
-
-### 2026-06-17 01:58:32  #國際
-
-巴西總統盧拉與歐盟委員會主席馮德萊恩確定建立雙邊機制，以識別涉及動物產品與鋼鐵領域的相關難題。
-
----
-
-### 2026-06-17 01:58:17  #MKT News
-
-Brazilian President Lula met with European Commission President Von der Leyen to discuss trade restrictions targeting Brazilian products.
-
----
-
-### 2026-06-17 01:58:01  #央行 #國際
-
-【伊朗央行行長：諒解備忘錄規定美有義務解凍伊資產】伊朗中央銀行行長阿卜杜勒納賽爾·赫馬提當地時間16日表示，關於伊美諒解備忘錄框架下被凍結資產解凍問題，在相關條款的制定過程中，已充分考慮過去所有經驗與歷史案例，並努力確保協議中設定的機制能夠提供最高程度的保障，以確保這些資金能夠被順利獲取與使用。赫馬提說，諒解備忘錄條款已明確規定美國在解凍資產方面的義務，且這些義務具有清晰性和可執行性，美國方面將被要求履行其承諾。赫馬提還強調，在諒解備忘錄簽署並開始執行後，將進行必要的技術與銀行層面的核查，以驗證資產是否真正解凍並可實際使用。赫馬提表示，這些被解凍的資金屬於伊朗中央銀行資產，這些資金的管理、分配與使用方式，將在央行法定許可權框架內決定。央行將根據國家需求、經濟狀況及外匯優先事項，對資金使用方式作出安排。 (央視新聞)
-
----
-
-### 2026-06-17 01:57:34  #MKT News
-
-Canada's minister for U.S. trade said after meeting the U.S. trade representative on the sidelines of the G7 that talks are continuing to make progress.
-
----
-
-### 2026-06-17 01:56:44  #國際
-
-巴西宣告：總統盧拉會見歐盟委員會主席馮德萊恩，就針對巴西產品的貿易限制措施展開討論。
-
----
-
-### 2026-06-17 01:56:33  #MKT News #Important
-
-【US-Iran framework to include $300 billion private fund to spur investment in Iran】Refinitiv sources say the US-Iran framework includes plans to set up a $300 billion private investment fund to attract capital into Iran. The fund would only become operational after a final agreement is signed, would be privately financed (no government funds), and is separate from talks over Iran’s frozen sovereign assets. Organizers have secured commitments for more than half the fund from companies in the US, Gulf Arab states, Asia, South America and Africa.
-
----
-
-### 2026-06-17 01:56:19  #市場
-
-阿根廷交易所股指下跌3%。
-
----
-
-### 2026-06-17 01:55:38  #國際
-
-加拿大負責對美貿易事務部長勒布朗在G7峰會上談及與美國貿易代表辦公室會晤時表示：我們持續取得進展。
-
----
-
-### 2026-06-17 01:54:02  #國際
-
-【擬設立3000億美元私募基金，用於加大對伊朗投資】訊息人士稱，一份美伊框架協議中包含設立規模3000億美元私人投資基金以扶持伊朗經濟的規劃。該基金僅在正式終版協議簽署後啟動，不包含任何政府出資。來自美國、海灣地區、亞洲、南美及非洲多國企業已承諾認繳過半資金。
-
----
-
-### 2026-06-17 01:51:39  #國際
-
-一位直接參與協議內容的訊息人士透露，美伊框架協議包含一項規模3000億美元私募基金的設立計劃，以帶動對伊朗的投資。
-
----
-
-### 2026-06-17 01:51:29  #焦點 #國際
-
-訊息人士稱，規模達3000億美元的伊朗投資基金只有在最終協議簽署後才會投入運作。
-
----
-
-### 2026-06-17 01:51:22  #國際
-
-訊息人士稱，3000億美元伊朗投資基金中，已有逾一半金額獲得來自美國、海灣阿拉伯國家、亞洲、南美洲及非洲企業的投資承諾。
-
----
-
-### 2026-06-17 01:49:14  #其他
-
-加拿大對美貿易部長：雙方已商定下週再次溝通。
-
----
-
-### 2026-06-17 01:48:59  #MKT News
-
-Canada's minister for trade with the U.S. said he held a lengthy, constructive meeting with U.S. Trade Representative Greer; both agreed to re-engage next week.
-
----
-
-### 2026-06-17 01:48:03  #市場
-
-標普500指數下跌0.3%，納斯達克指數下挫0.7%，跌幅持續擴大。
-
----
-
-### 2026-06-17 01:47:46  #國際
-
-加拿大負責對美貿易事務部長：與美國貿易代表格里舉行了漫長且富有建設性的會談。
-
----
-
-### 2026-06-17 01:47:06  #MKT News
-
-Iran's central bank governor said Iran hopes any agreement with the United States will include firm guarantees for the release of frozen funds.
-
----
-
-### 2026-06-17 01:43:51  #央行 #國際
-
-伊朗央行行長：伊朗要求美伊協議中就資金支取事宜作出完整保障承諾。
-
----
-
-### 2026-06-17 01:43:17  #市場
-
-標普500指數與納斯達克100指數跌幅擴大，跌至日內低點。
-
----
-
-### 2026-06-17 01:42:55  #國際
-
-伊朗議會國家安全委員會主席表示，任何侵犯都將遭到“決定性、毀滅性的回擊”。
-
----
-
-### 2026-06-17 01:42:51  #MKT News #WTI #Impact bullish #Brent #XAUUSD
-
-Head of Iran's parliamentary National Security Committee said any violations will be met with a decisive, devastating response.
-
----
-
-### 2026-06-17 01:42:43  #MKT News #WTI #Impact bullish #Brent #XAUUSD
-
-Head of Iran's parliamentary National Security Committee said Washington must prove its commitment by ending the war against Lebanon and complying with every provision of the memorandum of understanding.
-
----
-
-### 2026-06-17 01:42:27  #焦點 #國際
-
-伊朗議會國家安全委員會主席表示，華盛頓必須透過結束對黎巴嫩的戰爭、遵守該諒解備忘錄的每一項條款來證明其承諾。
-
----
-
-### 2026-06-17 01:28:56  #MKT News #Market Regions #Europe & UK
-
-Financial Times reports U.S. Commerce Secretary Lutnick discussed establishing a "trusted partners" program with European diplomats.
-
----
-
-### 2026-06-17 01:27:35  #國際
-
-美國商務部長霍華德·盧特尼克曾與歐洲外交官討論建立“可信夥伴”計劃。
-
----
-
-### 2026-06-17 01:26:31  #MKT News #Market Themes #AI Revolution
-
-Financial Times reports that after controversy over an Anthropic model, U.S. and European policymakers are discussing access rules for AI models.
-
----
-
-### 2026-06-17 01:25:37  #國際
-
-美國和歐洲就人工智慧模型准入問題進行商談，此前Anthropic引發爭議。
-
----
-
-### 2026-06-17 01:24:48  #國際
-
-【美媒：美伊協議簽署後 伊朗即可出口石油】據美國《華爾街日報》16日報道，在美國與伊朗本週簽署諒解備忘錄後，伊朗即可對外銷售其石油和燃料。報道援引匿名知情人士的話說，針對銀行、運輸和保險等伊朗石油出口相關行業的制裁也將同時獲得豁免。據報道，一艘載有原油的伊朗超級油輪當天離開伊朗恰巴哈爾港，穿過美國先前實施封鎖的區域後駛離阿曼灣。該油輪沒有關閉定位追蹤器。（新華社）
-
----
-
-### 2026-06-17 01:23:59  #MKT News
-
-The Russian Defence Ministry said Russian warships acted in accordance with international navigation rules and took all measures to prevent accidents.
-
----
-
-### 2026-06-17 01:23:39  #國際
-
-俄羅斯國防部：俄羅斯軍艦符合國際航行規則開展行動，並已採取一切措施避免這起事故。
-
----
-
-### 2026-06-17 01:22:41  #MKT News
-
-Russian Defence Ministry said that after warning shots were fired, the yacht immediately changed course and continued to move away from the Russian warship.
-
----
-
-### 2026-06-17 01:22:30  #國際
-
-俄羅斯國防部：警告性射擊後，該遊艇立即改變航向，繼續駛離俄羅斯軍艦。
-
----
-
-### 2026-06-17 01:22:21  #MKT News
-
-Russian Defence Ministry said a Russian frigate fired warning shots at a yacht that did not respond to signals.
-
----
-
-### 2026-06-17 01:21:54  #MKT News #Market Regions #Europe & UK
-
-RUSSIAN DEFENCE MINISTRY said on June 16 that the frigate Grigorovich, in the English Channel, encountered a yacht flying the British flag that approached on a dangerous route; the frigate made repeated attempts to contact the yacht but received no response.
-
----
-
-### 2026-06-17 01:21:36  #國際
-
-俄羅斯國防部：護衛艦向未回應訊號的遊艇鳴槍示警。
-
----
-
-### 2026-06-17 01:20:53  #國際
-
-埃及總統塞西周二在法國出席G7峰會期間，敦促以色列放棄控制加沙地帶70%區域的計劃。
 
 ---
