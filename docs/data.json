@@ -1,7 +1,254 @@
 {
-  "updated": "2026-06-23 12:59:58",
-  "count": 17199,
+  "updated": "2026-06-23 13:04:08",
+  "count": 17215,
   "items": [
+    {
+      "id": "4949554",
+      "time": "2026-06-23 13:03:11",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本氣象廳：7月至9月氣溫高於正常水平的機率為50%。"
+    },
+    {
+      "id": "4949553",
+      "time": "2026-06-23 13:03:02",
+      "tags": [
+        "公司"
+      ],
+      "text": "【港股PCB產業鏈午後繼續走低，勝宏科技跌超10%】港股PCB產業鏈午後繼續走低，勝宏科技跌超10%，建滔積層板、建滔集團跌超8%。"
+    },
+    {
+      "id": "te:economy:560988",
+      "time": "2026-06-23 13:02:55",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "India",
+        "Composite PMI",
+        "Importance 1"
+      ],
+      "text": "India Composite PMI Eases to 3-Month Low — India’s HSBC Composite PMI fell to 57.4 in June 2026 from a final 59.3 in the previous month, flash data showed. It was the lowest reading since March."
+    },
+    {
+      "id": "em:qqyh_mlc:202606233779530188",
+      "time": "2026-06-23 13:02:28",
+      "tags": [
+        "央行",
+        "美聯儲"
+      ],
+      "text": "【美聯儲前主席格林斯潘去世 享年100歲 “他能瞬間將股市捧上天堂，或打入地獄”】美國聯邦儲備委員會前主席艾倫·格林斯潘22日因帕金森病併發症去世，享年100歲。在他的任期內，美聯儲首次非正式地確立了2%的通脹目標，這一決定對現代貨幣政策產生了深遠影響。《華盛頓郵報》曾在專欄中寫道：“寥寥幾句措辭，他便能瞬間將股市捧上天堂，抑或打入地獄。”"
+    },
+    {
+      "id": "4949552",
+      "time": "2026-06-23 13:01:52",
+      "tags": [
+        "其他"
+      ],
+      "text": "【江蘇省交通運輸廳原副廳長金凌接受審查調查】中央紀委國家監委網站6月23日通報，據江蘇省紀委監委訊息：江蘇省交通運輸廳原黨組成員、副廳長金凌涉嫌嚴重違紀違法，目前正接受江蘇省紀委監委紀律審查和監察調查。"
+    },
+    {
+      "id": "4949551",
+      "time": "2026-06-23 13:01:12",
+      "tags": [
+        "資料",
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "日本央行：5月剔除特殊因素的核心-核心CPI同比上漲2.1%，4月為上漲2.2%。"
+    },
+    {
+      "id": "4949550",
+      "time": "2026-06-23 13:01:05",
+      "tags": [
+        "資料",
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "日本央行：扣除特殊因素的核心CPI在5月同比上漲2.7%，4月為上漲2.8%。"
+    },
+    {
+      "id": "4949549",
+      "time": "2026-06-23 13:01:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "富時中國A50指數期貨下跌2%。"
+    },
+    {
+      "id": "mkt:019ef2da-7134-7dd8-b0cc-c76d7568f724",
+      "time": "2026-06-23 13:01:02",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bearish"
+      ],
+      "text": "China's CSI 300 index futures main contract (IF) fell more than 2.0% intraday to 4,875.0 points."
+    },
+    {
+      "id": "mkt:019ef2da-4f32-7dd8-b0cc-bae646e3386e",
+      "time": "2026-06-23 13:00:53",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Emerging Markets",
+        "000660.KS",
+        "Impact bearish",
+        "005930.KS"
+      ],
+      "text": "South Korea's KOSPI index plunged 7.00% intraday to 8,475.26. SK Hynix fell nearly 10% and Samsung Electronics declined nearly 7%."
+    },
+    {
+      "id": "4949548",
+      "time": "2026-06-23 13:00:46",
+      "tags": [
+        "市場"
+      ],
+      "text": "富時中國A50指數期貨午後跌幅擴大至2%。"
+    },
+    {
+      "id": "4949547",
+      "time": "2026-06-23 13:00:42",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "【韓國綜指跌幅擴大至7%】韓國KOSPI指數日內大跌7.00%，現報8475.26點。SK海力士跌近10%，三星電子跌近7%。"
+    },
+    {
+      "id": "mkt:019ef2d9-e74a-7dd8-b0cc-b25b24fbbe93",
+      "time": "2026-06-23 13:00:27",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bearish",
+        "Hang Seng Index",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "FTSE China A50 futures extended afternoon losses to 2%."
+    },
+    {
+      "id": "te:markets:560987",
+      "time": "2026-06-23 13:00:13",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "commodity",
+        "Importance 0"
+      ],
+      "text": "Copper Hits 4-week Low — Copper decreased to 6.24 USD/Lbs, the lowest since May 2026. Over the past 4 weeks, Copper lost 1.76%, and in the last 12 months, it increased 27.94%."
+    },
+    {
+      "id": "mkt:019ef2d9-b035-7dd8-b0cc-ae4e52bbbb67",
+      "time": "2026-06-23 13:00:13",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "India June manufacturing PMI (preliminary) 54.5, expected 56.2, prior 55.0."
+    },
+    {
+      "id": "mkt:019ef2d9-ad27-7dd8-b0cc-a4898d81acd2",
+      "time": "2026-06-23 13:00:12",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "【Oman reiterates guarantee of free, safe passage through Strait of Hormuz】Oman’s foreign minister met visiting Iranian parliament speaker Mohammad Bagher Ghalibaf in Muscat on the evening of the 22nd and said they held constructive talks on elements of a U.S.-Iran memorandum related to the Strait of Hormuz, reiterating Oman will abide by international law to ensure free, safe passage. Iran’s Supreme National Security Council said on the 18th that for 60 days it will not charge merchant vessels applying to transit the Strait; under Article 5 of the U.S.-Iran memorandum applicants must submit filings to the Persian Gulf Strait Authority and the Iranian government will cover any fees during the 60-day period."
+    },
+    {
+      "id": "mkt:019ef2d9-aa73-7dd8-b0cc-9d2dea79a60f",
+      "time": "2026-06-23 13:00:11",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Emerging Markets"
+      ],
+      "text": "Singapore May CPI YoY 1.8% vs 2.0% expected; April 1.8%."
+    },
+    {
+      "id": "mkt:019ef2d9-a901-7dd8-b0cc-93045840342c",
+      "time": "2026-06-23 13:00:11",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "India preliminary June services PMI 57.3, vs forecast 58.8 and prior 59.8."
+    },
+    {
+      "id": "mkt:019ef2d9-a8d7-7dd8-b0cc-8b933eb9b14f",
+      "time": "2026-06-23 13:00:11",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "India June composite PMI preliminary 57.4, below expected 59 and down from prior 59.3."
+    },
+    {
+      "id": "4949546",
+      "time": "2026-06-23 13:00:05",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期銀失守63美元/盎司，日內跌4.64%。"
+    },
+    {
+      "id": "mkt:019ef2d9-7de0-7dd8-b0cc-86792e38d817",
+      "time": "2026-06-23 13:00:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Singapore | CPI (YoY) (May) | actual 1.8% | consensus 2.00% | previous 1.80%"
+    },
+    {
+      "id": "mkt:019ef2d9-597c-7dd8-b0cc-7eff4527f8b7",
+      "time": "2026-06-23 12:59:50",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "Spot gold slid $25 intraday to trade below $4,120/oz, down 1.74% on the day."
+    },
+    {
+      "id": "4949545",
+      "time": "2026-06-23 12:59:35",
+      "tags": [
+        "其他"
+      ],
+      "text": "SK海力士股價跌幅擴大至9.7%。"
+    },
+    {
+      "id": "4949544",
+      "time": "2026-06-23 12:59:21",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金失守4120美元/盎司，日內跌1.75%。"
+    },
+    {
+      "id": "4949543",
+      "time": "2026-06-23 12:59:20",
+      "tags": [
+        "國際"
+      ],
+      "text": "【阿曼重申將保障霍爾木茲海峽免費安全通行】當地時間22日晚間，阿曼外交大臣巴德爾在阿曼首都馬斯喀特會見來訪的伊朗伊斯蘭議會議長卡利巴夫一行。會見結束後，巴德爾在社交媒體上表示，雙方重點就近期美伊諒解備忘錄中涉及霍爾木茲海峽的內容進行了建設性討論，並重申將遵守國際法，保障海峽免費、安全通行。"
+    },
     {
       "id": "4949542",
       "time": "2026-06-23 12:59:06",
@@ -157622,95 +157869,6 @@
         "Greater China"
       ],
       "text": "China A-share compute-power leasing sector rallied in the afternoon session after volatile trading; Lianhua Holdings locked the daily limit-up, with Guiguang Network, Nanwei Software, Nanxing and Zhongbei Communications also rising."
-    },
-    {
-      "id": "4937763",
-      "time": "2026-06-16 13:04:01",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "A股算力租賃概念震盪拉昇，蓮花控股午後漲停，貴廣網路、南威軟體、南興股份、中貝通訊跟漲。"
-    },
-    {
-      "id": "te:markets:559237",
-      "time": "2026-06-16 13:03:11",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Palm Oil Rebounds Before Midweek Break — Malaysian palm oil futures climbed about 1.7% to above MYR 4,500 per tonne, reversing losses in the previous two sessions as a weaker ringgit and firmer palm oil prices on the Dalian exchange boosted sentiment. Support also came from stronger exports, with cargo surveyors noting that palm oil shipments during June 1–15 rose between 9.6% and 23.8% from May. Simultaneously, El Niño is expected to reduce Malaysian palm oil yields by 8%–10% this year. However, gains were capped by weaker rival edible oils on Chicago markets. Meanwhile, Malaysia has cut its July crude palm oil reference price to a level that keeps the export duty unchanged at 10%. In top buyer India, palm oil imports edged higher in May from April's four-month low but remained below normal levels. Analysts view the rally to lose momentum, citing the prospect of lower crude oil prices following the U.S.-Iran peace deal and weaker consumer spending in China, a key consumer. Markets will be closed Wednesday for a holiday."
-    },
-    {
-      "id": "4937762",
-      "time": "2026-06-16 13:03:10",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "滬深兩市成交額超2萬億元，較上日此時縮量908億元。"
-    },
-    {
-      "id": "mkt:019ecece-8873-7dd8-b020-6d9c8f5cb12b",
-      "time": "2026-06-16 13:01:42",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "According to The Information, DeepSeek completed a record financing exceeding $7.0 billion, valuing the company at over $50.0 billion."
-    },
-    {
-      "id": "mkt:019ecece-37c9-7dd8-b020-62b032851638",
-      "time": "2026-06-16 13:01:21",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC",
-        "USDJPY",
-        "Impact bearish",
-        "DXY"
-      ],
-      "text": "Japan 5-year government bond yield rose 5bps to 1.915%."
-    },
-    {
-      "id": "mkt:019ececd-bf1f-7dd8-b020-591025ae4b3d",
-      "time": "2026-06-16 13:00:50",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Ukraine's central bank said the country will accelerate reforms to align its banking and insurance sectors with EU standards by 2028."
-    },
-    {
-      "id": "mkt:019ececd-ad91-7dd8-b020-55c2698d6bf9",
-      "time": "2026-06-16 13:00:46",
-      "tags": [
-        "MKT News",
-        "DXY",
-        "Impact bearish",
-        "S&P500",
-        "Impact bullish",
-        "EURUSD"
-      ],
-      "text": "Ukraine's central bank expects foreign aid of $53bn this year, $42bn in 2027 and $22bn in 2028."
-    },
-    {
-      "id": "4937761",
-      "time": "2026-06-16 13:00:15",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "*ST聯翔盤中漲停，上演“地天板”，現報34.39元，成交額1.24億元。"
-    },
-    {
-      "id": "4937760",
-      "time": "2026-06-16 13:00:03",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【加拿大獲得首份“歐洲安全行動”合同】加拿大總理馬克·卡尼15日宣佈，該國已獲得“歐洲安全行動”框架下的首份國防合同。 根據新聞公報，總部位於蒙特利爾的國防科技企業馬可尼技術獲得了這份價值1000萬加元（約合715萬美元）的合同，將向波蘭網路司令部供應加拿大製造的“獵戶座”戰術電臺。 該專案將與波蘭科技公司合作開展，涉及近100家加拿大企業，交付工作預計將從今年晚些時候開始，持續至2030年。 新聞公報稱，加入“歐洲安全行動”意味著加拿大國防企業可以參與對歐洲合同的競爭，從而在本土創造就業機會。 歐盟理事會去年5月正式批准設立“歐洲安全行動”工具，為成員國採購安全與防務武器裝備提供總額達1500億歐元的金融支援。“歐洲安全行動”以利率優惠的長期貸款形式向有需求的歐盟成員國提供資金支援，35%的貸款可用於採購歐洲以外地區生產的武器零部件。 今年年初，加拿大成為首個加入“歐洲安全行動”的非歐洲國家。(新華社)"
     }
   ]
 }
