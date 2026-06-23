@@ -1,7 +1,83 @@
 {
-  "updated": "2026-06-23 21:54:57",
-  "count": 17311,
+  "updated": "2026-06-23 21:59:09",
+  "count": 17313,
   "items": [
+    {
+      "id": "4950825",
+      "time": "2026-06-23 21:58:01",
+      "tags": [
+        "市場"
+      ],
+      "text": "標普500指數下跌至1%。"
+    },
+    {
+      "id": "4950824",
+      "time": "2026-06-23 21:57:47",
+      "tags": [
+        "市場"
+      ],
+      "text": "SpaceX股價拉昇，現漲0.5%，逆轉了一度高達5%的跌幅。"
+    },
+    {
+      "id": "mkt:019ef4c5-849f-7dd8-b0db-537906b75ecb",
+      "time": "2026-06-23 21:57:25",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "AIR.PA",
+        "Impact bullish"
+      ],
+      "text": "【China MOFCOM vice minister meets Airbus EVP on investment, supply-chain stability】June 23 — China MOFCOM vice minister and deputy trade negotiator Ling Ji met with Airbus executive vice-president Harrison to discuss Airbus expanding investment in China and measures to preserve stability in the global aerospace production and supply chain."
+    },
+    {
+      "id": "4950823",
+      "time": "2026-06-23 21:56:48",
+      "tags": [
+        "公司",
+        "焦點"
+      ],
+      "text": "【商務部副部長兼國際貿易談判副代表凌激會見空客公司執行副總裁哈里森】6月23日，商務部副部長兼國際貿易談判副代表凌激會見空客公司執行副總裁哈里森，雙方就空客擴大在華投資以及保持全球航空產供鏈穩定等問題進行交流。"
+    },
+    {
+      "id": "4950822",
+      "time": "2026-06-23 21:56:27",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "據美國紐約聯儲資料，上個交易日（6月22日）擔保隔夜融資利率（SOFR）報3.61%，之前一天報3.62%。上個交易日有效的聯邦基金利率報3.63%，之前一天報3.63%。"
+    },
+    {
+      "id": "4950821",
+      "time": "2026-06-23 21:55:53",
+      "tags": [
+        "宏觀",
+        "兩會"
+      ],
+      "text": "【報告：去年中央決算情況總體較好 財政政策更加積極】財政部部長藍佛安6月23日向十四屆全國人大常委會第二十三次會議作關於2025年中央決算的報告。根據報告，2025年，中央決算情況總體較好，財政政策更加積極，著力穩定經濟執行、推動高質量發展。（新華社）"
+    },
+    {
+      "id": "te:economy:561209",
+      "time": "2026-06-23 21:55:34",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "Composite PMI",
+        "Importance 1"
+      ],
+      "text": "US Private Sector Activity Rises Faster — The S&P Global US Composite PMI rose to 52.2 in June of 2026 from 51.5 in the previous month, reflecting the sharpest pace of growth in the US private economic activity since January, according to a preliminary estimate. The expansion was supported by the largest growth in the manufacturing output in six years (57.7 vs 56.6 in May) and a sharper increase in services activity (51.3 vs 50.7). Total new orders grew, with those for services likely supported by the start of the Fifa World Cup, and manufacturing orders remaining attributable to clients front-running contracts before the war in the Middle East causes further supply disruptions. This was aligned with larger magnitude of supply chain delays in the period, driving prices to continue increasing at last month's pace. In turn, employment fell for a second month as companies attempted to cut costs. Looking ahead, firms' confidence was recorded at the highest since February."
+    },
+    {
+      "id": "4950820",
+      "time": "2026-06-23 21:54:33",
+      "tags": [
+        "公司"
+      ],
+      "text": "【Meta釋出起售價299美元的新款智慧眼鏡，扎克伯格持續推進可穿戴裝置佈局】Meta推出起售價為299美元的全新智慧眼鏡，比該公司入門級第二代Meta雷朋眼鏡的售價至少低80美元。此舉標誌著執行長馬克·扎克伯格在可穿戴裝置領域的持續發力。新款Meta Glasses採用全新設計，由Meta與雷朋母公司依視路陸遜梯卡（EssilorLuxottica）合作打造，但產品上不帶有雷朋（Ray-Ban）或奧克利（Oakley）的品牌標識。"
+    },
     {
       "id": "mkt:019ef4c2-9ee8-7dd8-b0db-4e2c02f0d4cf",
       "time": "2026-06-23 21:54:15",
@@ -158522,62 +158598,6 @@
         "其他"
       ],
       "text": "【目前絲綢面料企業工廠處於滿負荷生產狀態 訂單已經排到了今年8月底】每年5月下旬至6月中旬，是江浙多地春繭集中開秤收購期，今年白繭、彩色蠶繭產銷兩旺，不同品類價差明顯。今年受到“國潮風”等因素帶動，下游對面料需求增加，目前工廠處於滿負荷生產狀態，訂單已經排到了今年8月底。在絲綢集散地之一的杭州中國絲綢城，許多店鋪裡擺放著香雲紗、提花和宋錦等面料。當地一家服裝企業負責人告訴記者，自己一週會來市場兩到三趟，“我們一般一個月採購10萬米以上，香雲紗為主。現在正旺季，基本上一個月我們就剩下10%左右庫存量。”據這裡的商戶反饋，雖生絲價格有小幅回落，但一些香雲紗等桑蠶絲面料因產能限制、技術要求高，議價空間相對更大。他們目前面料並不愁賣，且出廠價不降反而略漲。 (央視財經)"
-    },
-    {
-      "id": "4938966",
-      "time": "2026-06-16 21:58:59",
-      "tags": [
-        "公司"
-      ],
-      "text": "【雄安新區管委會與拼多多集團簽署《數字服務戰略合作框架協議》】6月16日，拼多多集團執行總裁兼新拼姆總裁朱政一行到雄安新區考察調研。河北省委常委，雄安新區黨工委書記、管委會主任張國華與朱政一行舉行工作座談。座談會後，雄安新區管委會與拼多多集團簽署《數字服務戰略合作框架協議》。"
-    },
-    {
-      "id": "4938965",
-      "time": "2026-06-16 21:56:38",
-      "tags": [
-        "公司"
-      ],
-      "text": "據港交所檔案：深圳庫博能源股份有限公司向港交所提交上市申請書。"
-    },
-    {
-      "id": "mkt:019ed0b8-31f0-7dd8-b033-7bf85cae961a",
-      "time": "2026-06-16 21:56:32",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "HKEX filings show Shenzhen Kubo Energy Co. has submitted a listing application."
-    },
-    {
-      "id": "te:markets:559377",
-      "time": "2026-06-16 21:56:18",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Brazil",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "Ibovespa Falls on Political and Inflation Concerns — The Ibovespa fell about 0.5% to hover near the 169,500 mark on Tuesday as investors digested fresh election polls and rising inflation expectations. According to a BTG/Nexus survey released on Monday, President Lula holds a nine-point lead over Senator Flávio Bolsonaro in first-round voting intentions. Meanwhile, the median forecast for Brazil’s annual inflation rose for the 14th consecutive week, prompting markets to reassess the duration of the BCB’s easing cycle. Most sectors traded lower. Financial stocks were pressured by concerns over higher borrowing costs, with Bradesco and Itaúsa losing around 0.5%. Petrobras weighed on the index, falling nearly 2% on optimism surrounding a preliminary US-Iran peace agreement that could reopen the Strait of Hormuz. In contrast, Sabesp gained more than 1.5% after announcing that Claudio Kawa Hermolin had assumed leadership of the newly created Customer Experience Division."
-    },
-    {
-      "id": "4938964",
-      "time": "2026-06-16 21:56:16",
-      "tags": [
-        "焦點",
-        "A股"
-      ],
-      "text": "【6月16日增減持彙總】據不完全統計，6月16日盤後，盛泰集團、新里程披露增持情況，播恩集團、福達合金、和遠氣體、百合花4家A股上市公司披露擬減持情況。"
-    },
-    {
-      "id": "te:markets:559376",
-      "time": "2026-06-16 21:55:16",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 0"
-      ],
-      "text": "Arabica Coffee Futures at Over 2-Week High — Arabica coffee futures traded slightly above $2.60 per pound, the highest since late May, amid concerns about weather conditions in Brazil's producing regions and the progress of the 2025/26 harvest. Local farmers said that several days of rain hindered harvesting and drying of the beans, especially in areas where operations are more advanced. A cold front remains active across southeastern Brazil’s coffee belt, with rain in parts of São Paulo, Minas Gerais, Rio de Janeiro, and Espírito Santo. Although rainfall is expected to ease in some areas over the week, renewed instability is expected thereafter."
     }
   ]
 }
