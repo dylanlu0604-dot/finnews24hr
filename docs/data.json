@@ -1,7 +1,15 @@
 {
-  "updated": "2026-06-24 05:05:14",
-  "count": 17326,
+  "updated": "2026-06-24 05:09:21",
+  "count": 17327,
   "items": [
+    {
+      "id": "mkt:019ef650-4043-7dd8-b0e4-2dcd44b3bd89",
+      "time": "2026-06-24 05:08:34",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Morgan Stanley private credit fund sets redemption cap at 5%】Morgan Stanley’s North Haven Private Income Fund, a $7bn private credit vehicle, has set a 5% redemption cap and said it will pay out less than half of investors’ Q2 redemption requests. The fund said investors applied to redeem 11.6% of shares in Q2, up from 10.9% in Q1. It noted that across the roughly $1.8trn private credit market many funds had already restricted full exits in the prior quarter, and that over half of Q2 repurchase requests came from investors who had been unable to redeem fully in the previous three months."
+    },
     {
       "id": "4951145",
       "time": "2026-06-24 05:03:42",
