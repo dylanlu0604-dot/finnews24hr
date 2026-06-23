@@ -1,7 +1,62 @@
 {
-  "updated": "2026-06-24 03:29:10",
-  "count": 17272,
+  "updated": "2026-06-24 03:33:11",
+  "count": 17276,
   "items": [
+    {
+      "id": "mkt:019ef5f8-6b75-7dd8-b0e2-c11063f704b5",
+      "time": "2026-06-24 03:32:38",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "【International oil prices fall on 23rd】By the close, NYMEX August WTI fell $0.65 to $73.21 a barrel, down 0.88%; ICE August Brent fell $0.82 to $77.08 a barrel, down 1.05%."
+    },
+    {
+      "id": "4951099",
+      "time": "2026-06-24 03:31:51",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗稱三家銀行銀行卡業務遭網路攻擊】伊朗國有銀行技術服務商表示，網路攻擊導致國民銀行、出口銀行與德賈拉特銀行的銀行卡相關業務癱瘓。該企業透露，為阻止非法入侵持續擴散，上述三家銀行臨時關停全部銀行卡業務，網路安全團隊正在搶修，力爭恢復正常服務。企業公關負責人稱，此次受波及的業務涵蓋自動取款機、線下收銀終端以及繫結銀行卡系統的手機銀行應用。"
+    },
+    {
+      "id": "4951098",
+      "time": "2026-06-24 03:31:11",
+      "tags": [
+        "市場"
+      ],
+      "text": "【國際油價23日下跌】國際油價23日下跌。截至當天收盤，紐約商品交易所8月交貨的輕質原油期貨價格下跌65美分，收於每桶73.21美元，跌幅為0.88%；8月交貨的倫敦布倫特原油期貨價格下跌82美分，收於每桶77.08美元，跌幅為1.05%。"
+    },
+    {
+      "id": "4951097",
+      "time": "2026-06-24 03:29:30",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普： 民主黨人當初投票支援伊朗擁有核武器。"
+    },
+    {
+      "id": "mkt:019ef5f5-02c3-7dd8-b0e2-bf08189ce24f",
+      "time": "2026-06-24 03:28:55",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "The New York Times reports several major Iranian banks experienced disruption to bank-card services on Tuesday; Iranian state media reported some of those banks suffered cyberattacks less than two weeks earlier."
+    },
+    {
+      "id": "mkt:019ef5f4-fbd4-7dd8-b0e2-b217156551ae",
+      "time": "2026-06-24 03:28:53",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "WTI"
+      ],
+      "text": "【Wall Street Journal: Moscow pressing Belarus to open new front in Ukraine conflict】The Wall Street Journal reports former and current Russian and European officials say Moscow launched a pressure campaign earlier this year to turn Belarus into a springboard for expanded operations in Ukraine or to enable unconventional actions against NATO. Ukraine has threatened strikes on targets inside Belarus. Officials say Russia has deployed tactical nuclear weapons to Belarus, a development that suggests Moscow may be weighing a high-risk escalation."
+    },
     {
       "id": "mkt:019ef5f3-dbf0-7dd8-b0e2-abf4551b5c5b",
       "time": "2026-06-24 03:27:39",
@@ -158298,26 +158353,6 @@
         "Brent"
       ],
       "text": "【Iran vice president: Tehran will retain control of Strait of Hormuz】Press TV quoted First Vice President Mohammad Reza Aref on Tuesday saying Tehran will retain control and management of the Strait of Hormuz and that vessels using the waterway should pay for security services provided by Iran, the presidential office said. Aref said Iran has made major sacrifices to protect its rights in the strait and that without Iranian security services vessels could face risks including sea mines and environmental damage."
-    },
-    {
-      "id": "mkt:019ed1eb-beb7-7dd8-b039-ae914fb055e0",
-      "time": "2026-06-17 03:32:28",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "Security sources said a drone struck an Iranian opposition camp east of Erbil, Iraq."
-    },
-    {
-      "id": "4939314",
-      "time": "2026-06-17 03:31:26",
-      "tags": [
-        "國際"
-      ],
-      "text": "安全訊息人士：無人機襲擊伊拉克埃爾比勒東部一處伊朗反對派營地。"
     }
   ]
 }
