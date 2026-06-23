@@ -1,7 +1,79 @@
 {
-  "updated": "2026-06-23 14:25:41",
+  "updated": "2026-06-23 14:29:49",
   "count": 17226,
   "items": [
+    {
+      "id": "4949690",
+      "time": "2026-06-23 14:27:58",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "中證500指數期貨連續主力合約日內跌3%，現報8390.20點。"
+    },
+    {
+      "id": "mkt:019ef329-a403-7dd8-b0ce-67a3dcd46b84",
+      "time": "2026-06-23 14:27:32",
+      "tags": [
+        "MKT News",
+        "CSI300",
+        "Impact bearish",
+        "CNH",
+        "Hang Seng Index"
+      ],
+      "text": "China's CSI 500 index futures (IC) most-active contract slipped below 8,400, down 2.72% intraday. CSI 1000 index futures (IM) most-active contract fell more than 2.00% to 8,350.2."
+    },
+    {
+      "id": "4949689",
+      "time": "2026-06-23 14:27:18",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "中證1000指數期貨連續主力合約日內跌2%，現報8351.60點。"
+    },
+    {
+      "id": "4949688",
+      "time": "2026-06-23 14:27:12",
+      "tags": [
+        "其他"
+      ],
+      "text": "【夏季達沃斯論壇釋出2026年十大新興技術】23日，第十七屆夏季達沃斯論壇釋出了《2026年十大新興技術》報告，介紹了未來五年最有望重塑產業格局、影響政策走向和變革社會面貌的關鍵技術。 這十大新興技術包括：萬物互聯電網、直接提鋰技術、被動輻射冷卻材料、全氟/多氟烷基物質降解技術、精密發酵、外泌體藥物遞送、個性化mRNA癌症疫苗、量子模擬藥物發現、世界模型、格密碼學。（新華社）"
+    },
+    {
+      "id": "4949687",
+      "time": "2026-06-23 14:26:43",
+      "tags": [
+        "市場"
+      ],
+      "text": "LME倫鋁日內跌超4.00%，現報3228.835美元/噸。"
+    },
+    {
+      "id": "4949686",
+      "time": "2026-06-23 14:26:40",
+      "tags": [
+        "市場"
+      ],
+      "text": "紐約期銀日內跌5%，現報62.73美元/盎司。"
+    },
+    {
+      "id": "4949685",
+      "time": "2026-06-23 14:26:14",
+      "tags": [
+        "其他"
+      ],
+      "text": "【新易盛成交額達200億元】6月23日下午，新易盛成交額達200億元，現跌5.98%。"
+    },
+    {
+      "id": "4949684",
+      "time": "2026-06-23 14:25:39",
+      "tags": [
+        "市場",
+        "觀點",
+        "其他"
+      ],
+      "text": "德意志銀行預計，到2026年第四季度，金價將達到每盎司4800美元。"
+    },
     {
       "id": "4949683",
       "time": "2026-06-23 14:23:58",
@@ -157977,88 +158049,6 @@
         "Importance 1"
       ],
       "text": "The Nikkei 225 Index Closes 0.07% Higher — The Nikkei 225 Index gained 50 points or 0.07 percent on Tuesday to close at 69367 points. Gains were led by Fujikura (8.70%), Mitsui Mining & Smelting (8.57%) and Citizen Holdings (6.70%). Biggest losers were Obayashi (-4.27%), Inpex (-3.61%) and Sumitomo Realty & Development (-3.50%)."
-    },
-    {
-      "id": "mkt:019ecf1e-d8ce-7dd8-b022-59da095ebda5",
-      "time": "2026-06-16 14:29:25",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "Market Regions",
-        "Greater China",
-        "00857.HK",
-        "Impact bullish",
-        "00883.HK",
-        "00386.HK"
-      ],
-      "text": "【Lyon Securities: H2 oil likely to stay above $80; assigns OUTPERFORM to China's three oil majors】Lyon Securities said easing Middle East tensions pushed oil down to $85/bbl but, despite market expectations of a return to ~$70, damage to production facilities and infrastructure bottlenecks mean global supply is unlikely to recover to pre-conflict levels within 6–12 months. The bank now expects H2 oil to remain above $80/bbl (1H average $94). It forecasts Chinese oil producers will post their strongest earnings and cash flow in years, with PetroChina (00857.HK) and CNOOC (00883.HK) Q2 EPS seen rising about 50% YoY. Lyon views PetroChina and CNOOC as relatively defensive amid volatility given solid fundamentals and roughly 7% dividend yields. Lyon assigns OUTPERFORM to the three state oil majors, preferring PetroChina, then CNOOC, then Sinopec (00386.HK); price targets: PetroChina HK$12, CNOOC HK$36, Sinopec HK$4.9. The bank says CNOOC's removal from a US-related list could trigger re-rating, while Sinopec's Q2 profit may face headwinds."
-    },
-    {
-      "id": "4937882",
-      "time": "2026-06-16 14:29:06",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "【瑞穗：日本央行暫停縮減購債規模不太可能造成重大市場影響】瑞穗證券經濟學家Yusuke Matsuo表示，日本央行暫停縮減國債購買規模的決定，不太可能對債券收益率造成持續的下行壓力。“日本央行將以合理的速度推進資產負債表縮減，這一事實沒有改變，“他說。日本央行週二決定，從2027年4月起，將其月度購債步伐維持在2萬億日圓。Matsuo說，在該央行不打算對該計劃進行進一步審查的背景下，預計購債規模將穩定在該水平。"
-    },
-    {
-      "id": "4937881",
-      "time": "2026-06-16 14:28:52",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "【標普全球市場財智：日本央行預計將在12月再次加息】標普全球市場財智的Harumi Taguchi表示，預計日本央行將在12月再次加息，儘管美伊達成和平協議，但通脹壓力可能持續存在。該經濟學家表示，儘管油價因和平協議的訊息而回落，但能源供應鏈恢復正常仍需要時間。Taguchi表示：“對美國貨幣政策的持續不確定性以及日圓的持續疲軟，也可能增加價格壓力。“日圓兌美元最新報160.25左右。"
-    },
-    {
-      "id": "4937880",
-      "time": "2026-06-16 14:28:10",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "多晶矽連續主力合約日內跌7%，現報35515.00元。"
-    },
-    {
-      "id": "4937879",
-      "time": "2026-06-16 14:27:51",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【美國輿論稱全球能源危機緩解仍需時間】美國方面15日訊息稱，全球能源危機恢復的速度，取決於航運企業對美伊諒解備忘錄是否可以維持並延期抱有多大的信心。雖然美伊諒解備忘錄使國際油價顯著下跌，但要實現大量的石油和天然氣輸送，仍需很長時間。訊息稱，當前考驗美伊協議的首要因素是，航運企業是否有足夠的信心派遣船隻透過霍爾木茲海峽；其次，是這些企業對霍爾木茲海峽開放時間的預期；另一個重要問題則是，海灣地區的石油和天然氣生產商是否有信心開始恢復生產。訊息還稱，受油輪運輸以及成品油加工和分銷等因素影響，能源價格不會在短時間內恢復到衝突前的水平。（央視新聞）"
-    },
-    {
-      "id": "4937878",
-      "time": "2026-06-16 14:26:37",
-      "tags": [
-        "公司",
-        "觀點"
-      ],
-      "text": "【高盛：頤海國際目標價微降至19港元 維持“買入”評級】高盛釋出研報稱，頤海國際（01579）近期股價回撥13%，相信是由於市場對原材料成本及非經營性專案波動過份擔憂，強調公司基本面實力及增長可見性依然穩健，今年首五個月第三方業務維持強勁雙位數增長，維持該股“買入”評級，目標價則由19.1港元微降至19港元。 該行預期頤海國際2026年全年核心經營溢利將增長17%，計及政府補貼減少及人民幣升值帶來的匯兌損失後，全年淨利潤預計同比增長10%至9.43億元人民幣。"
-    },
-    {
-      "id": "mkt:019ecf1b-9823-7dd8-b022-514e9071b09d",
-      "time": "2026-06-16 14:25:52",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "09992.HK",
-        "Impact bullish"
-      ],
-      "text": "【China International Capital Co: Pop Mart's LABUBU to debut at World Cup; reiterates sector top pick】China International Capital Co (CICC) says Pop Mart (09992.HK) will feature its LABUBU IP at the 2026 US-Canada-Mexico World Cup opening ceremony, the first third-party IP to appear on a World Cup stage. CICC said the exposure should boost LABUBU and Pop Mart recognition in the Americas and globally and marks a step up in globalization for Chinese IP toy companies. CICC maintains adjusted net profit forecasts for Pop Mart of RMB13.3 bln for 2026 and RMB15.5 bln for 2027, notes the stock sits at historically low valuation, views the World Cup appearance as a short-term event catalyst and sees potential for medium-term earnings improvement. CICC reiterates Pop Mart as its industry top pick, PT HKD218, rating Outperform."
-    },
-    {
-      "id": "4937877",
-      "time": "2026-06-16 14:25:46",
-      "tags": [
-        "公司",
-        "觀點"
-      ],
-      "text": "【中金：泡泡瑪特LABUBU亮相世界盃助提升認知度 重申行業首選股】中金髮表研究報告指出，在2026年美加墨世界盃開幕式上，泡泡瑪特(09992.HK)的LABUBU作為世界盃歷史上首個第三方IP亮相舞臺。該行認為，這有望帶動LABUBU及泡泡瑪特在美洲文化圈乃至全球市場進一步提升認知度，並標誌著中國IP潮玩公司全球化發展達到新高度。該行維持泡泡瑪特2026及27年的經調整淨利潤預測133億和155億元人民幣，又認為公司正處於歷史估值低位，短期具備事件催化，中期業績有望改善，重申為行業首選股，續予目標價218港元，評級為跑贏行業。"
     }
   ]
 }
