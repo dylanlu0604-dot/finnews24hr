@@ -1,7 +1,165 @@
 {
-  "updated": "2026-06-23 21:38:01",
-  "count": 17300,
+  "updated": "2026-06-23 21:42:10",
+  "count": 17302,
   "items": [
+    {
+      "id": "4950803",
+      "time": "2026-06-23 21:41:09",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "匈牙利央行行長：生產力亟需提升。"
+    },
+    {
+      "id": "4950802",
+      "time": "2026-06-23 21:40:51",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "匈牙利央行行長：企業可透過對沖工具緩釋外匯風險。"
+    },
+    {
+      "id": "4950801",
+      "time": "2026-06-23 21:40:42",
+      "tags": [
+        "國際"
+      ],
+      "text": "黎巴嫩總統奧恩表示，只有結束以色列對黎巴嫩南部的佔領，他才會接受。"
+    },
+    {
+      "id": "4950800",
+      "time": "2026-06-23 21:40:37",
+      "tags": [
+        "其他"
+      ],
+      "text": "【香港城大和新加坡教育機構攜手成立“應用資料科學與政策研究院”】新加坡科技與管理學院（GSTM）向香港城市大學（簡稱“城大”）捐贈2000萬港元，以支援城大計算學院的學術教研與創科人才培育，攜手為區域科技發展注入動能。有關儀式23日在城大舉行。 據介紹，該捐款中1500萬港元將用於城大成立“應用資料科學與政策研究院”，以促進資料科學、人工智慧與政策研究的應用，支援城大在資料科學、人工智慧領域，尤其是知識轉移工作中保持領先地位，助力應用政策研究領域邁上新臺階。（新華社）"
+    },
+    {
+      "id": "te:markets:561203",
+      "time": "2026-06-23 21:40:03",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The Dow Jones Index Opens 0.64% Lower — The Dow Jones Index is losing 332 points. Losses were led by Caterpillar (-4.70%), Nvidia (-3.09%) and Cisco Systems (-2.77%). Offsetting the fall, top gainers were IBM (3.29%), Amgen (2.79%) and Microsoft (2.19%)."
+    },
+    {
+      "id": "4950799",
+      "time": "2026-06-23 21:40:00",
+      "tags": [
+        "公司"
+      ],
+      "text": "【ST新華錦：公司股票被實施其他風險警示及相關進展情況】ST新華錦公告稱，中興華對公司2025年度財務報告內部控制審計出具否定意見，公司股票自2026年4月27日起被實施其他風險警示。4月20日，公司解決資金佔用問題，相關警示已撤銷。公司將健全內控制度。此外，若連續2個會計年度內控審計被出具否定意見，公司股票將被實施退市風險警示；公司及實控人被立案調查；公司及關聯方可能被處罰；控股股東等公司重整或影響控制權，存在不確定性。"
+    },
+    {
+      "id": "4950798",
+      "time": "2026-06-23 21:39:48",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "匈牙利央行行長：未設定外匯目標。"
+    },
+    {
+      "id": "4950797",
+      "time": "2026-06-23 21:39:42",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "英國央行委員泰勒：英國央行必須防範“短期偏見”，避免重蹈覆轍。"
+    },
+    {
+      "id": "4950796",
+      "time": "2026-06-23 21:39:26",
+      "tags": [
+        "公司"
+      ],
+      "text": "【一博科技：目前包括光模組在內的AI領域、機器人領域及ATE領域訂單增長較快】一博科技在機構調研時表示，目前公司前十大簽單客戶結構較往年有所變化，逐漸在向AI/ATE/機器人/新能源等領域靠攏。現有前十大客戶中有2家主業是光模組的，有2家主業與ATE相關，其餘為機器人、新能源、伺服器、高階裝備等相關領域。目前包括光模組在內的AI領域、機器人領域及ATE領域訂單增長較快，公司會結合訂單增長變化做出針對性的調整安排，以更好地滿足客戶需求。"
+    },
+    {
+      "id": "mkt:019ef4b4-f404-7dd8-b0da-bcd4fae74e11",
+      "time": "2026-06-23 21:39:20",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Bank of England Monetary Policy Committee member Taylor said the central bank must guard against 'short-term bias' to avoid repeating past mistakes."
+    },
+    {
+      "id": "4950795",
+      "time": "2026-06-23 21:39:19",
+      "tags": [
+        "市場"
+      ],
+      "text": "墨西哥主要股指早盤下跌1.5%。"
+    },
+    {
+      "id": "mkt:019ef4b4-72d3-7dd8-b0da-b3a0421bdb78",
+      "time": "2026-06-23 21:38:46",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Wall Street (US)",
+        "S&P500",
+        "Impact bearish",
+        "Nasdaq100",
+        "Dow"
+      ],
+      "text": "The Russell 2000 index fell 1.6%."
+    },
+    {
+      "id": "mkt:019ef4b4-57f5-7dd8-b0da-ac35d570845e",
+      "time": "2026-06-23 21:38:40",
+      "tags": [
+        "MKT News",
+        "AMC.N",
+        "Impact bearish"
+      ],
+      "text": "AMC (AMC.N) shares plunged nearly 30% to below $2 after the company announced a $200 million offering of new shares."
+    },
+    {
+      "id": "4950793",
+      "time": "2026-06-23 21:38:28",
+      "tags": [
+        "國際"
+      ],
+      "text": "【俄油出口量繼續增加 伊朗供應湧入將構成挑戰】在美國製裁豁免釋放了競爭對手伊朗的石油出口後，俄羅斯正面臨向主要客戶印度銷售石油的激烈競爭，但其石油出口量仍達到今年以來的最高水平。根據彭博彙編的油輪運輸資料，截至6月21日的四周內，俄羅斯原油平均出口量為389萬桶/日，較前一週略有上升。原油出口增加之際，烏克蘭持續對俄羅斯煉油廠發動襲擊，這可能導致無法加工的原油轉而進行出口。由於被美國封鎖的船隻獲准離開，伊朗的石油供應（其中一些是俄羅斯烏拉爾原油的良好替代品）正大量湧入市場。在霍爾木茲海峽關閉期間，俄羅斯藉助美國對其出口的制裁豁免，為其增加的出口找到了現成的市場，尤其方便了印度加工商增加採購。但針對俄羅斯的最新制裁豁免已於6月17日到期，若未能續期，加工商可能轉向其他來源採購。"
+    },
+    {
+      "id": "4950792",
+      "time": "2026-06-23 21:38:15",
+      "tags": [
+        "其他"
+      ],
+      "text": "【高溫天氣持續，法國埃菲爾鐵塔提前停止接待遊客】當地時間6月23日，由於法國巴黎持續遭遇高溫天氣，埃菲爾鐵塔運營方宣佈，鐵塔將於當天16時起停止接待遊客，而非原定的次日凌晨0時45分關閉。運營方表示，此舉是為了應對當前高溫天氣帶來的影響，並保障遊客及工作人員的安全。（央視新聞）"
+    },
+    {
+      "id": "4950791",
+      "time": "2026-06-23 21:38:00",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "半導體相關公司股價多數下跌，邁威爾科技集團跌9.2%，高通跌6.9%，Arm下跌8.5%，微芯科技下跌5.4%，應用材料下跌9.7%，英偉達下跌3.7%，AMD下跌7.5%，博通下跌2.8%，英特爾下滑9%。ISHARES半導體ETF下跌6.9%，VANECK半導體ETF下跌6.2%，ROUNDHILL記憶體ETF下跌13.5%。"
+    },
+    {
+      "id": "mkt:019ef4b3-7580-7dd8-b0da-a63d489b6f86",
+      "time": "2026-06-23 21:37:42",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "【Russian oil exports rise; inflow of Iranian supply poses challenge】Russian crude exports reached a year-to-date high, averaging 3.89 mln b/d over the four weeks to June 21, Bloomberg tanker data show. Continued Ukrainian strikes on Russian refineries have cut domestic processing, potentially diverting barrels into exports. At the same time, a recent release of detained Iranian tankers has pushed significant Iranian crude—some viewed as a close substitute for Urals—into the market, intensifying competition for buyers, particularly Indian refiners. A US exemption for Russian buyers expired on June 17; failure to renew it could prompt processors to shift to other suppliers."
+    },
     {
       "id": "mkt:019ef4b3-31ed-7dd8-b0da-9dce8225fec2",
       "time": "2026-06-23 21:37:24",
@@ -158291,149 +158449,6 @@
         "市場"
       ],
       "text": "通用汽車北美總裁：因汽油價格上漲，汽車製造商的皮卡和全尺寸SUV銷量出現“萎縮”。"
-    },
-    {
-      "id": "mkt:019ed0aa-d25b-7dd8-b033-43d59d410f10",
-      "time": "2026-06-16 21:41:56",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【China foreign minister Wang Yi phones Pakistan deputy PM and foreign minister Dar】China foreign minister Wang Yi and Pakistan deputy prime minister and foreign minister Dar spoke by phone on the evening of June 16, 2026. Pakistan reported that Iran and the United States had reached a first‑phase memorandum of understanding and thanked China for close communication and support for Pakistan’s mediation efforts. Pakistan said it expects continued coordination with China to sustain the momentum of talks and help secure regional peace and stability. Wang congratulated Pakistan on advancing the Iran‑US first‑phase MOU, said pursuing peace is an international responsibility, and said China has engaged parties since hostilities began, backed Pakistan as a mediator and separately engaged both Iran and the United States."
-    },
-    {
-      "id": "4938940",
-      "time": "2026-06-16 21:41:51",
-      "tags": [
-        "其他"
-      ],
-      "text": "中國地震臺網正式測定：06月16日21時31分在河南濮陽市範縣（北緯35.78度，東經115.64度）發生2.9級地震，震源深度10千米。"
-    },
-    {
-      "id": "4938939",
-      "time": "2026-06-16 21:41:24",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "美國前副總統哈里斯：400美元的意外支出就足以讓普通美國人陷入破產境地。而這場戰爭導致了500美元的額外開支，其中很大一部分是由於汽油價格上漲造成的。無論談判內容如何，特朗普都會宣佈勝利，最終會回到《聯合全面行動計劃》（JCPOA）簽署後所經歷的局面，並稱之為勝利。"
-    },
-    {
-      "id": "4938938",
-      "time": "2026-06-16 21:40:53",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "【王毅同巴基斯坦副總理兼外長達爾通電話】 中共中央政治局委員、外交部長王毅16日晚同巴基斯坦副總理兼外長達爾通電話。達爾通報了伊朗與美國達成第一階段諒解備忘錄情況，感謝中方在過去幾個月同巴方保持密切溝通，對巴方斡旋努力予以寶貴支援。巴方期待同中方繼續溝通協調，維持當前和談勢頭，共同為實現地區持久和平穩定發揮積極作用。王毅祝賀巴基斯坦推動伊美達成第一階段諒解備忘錄，強調為和平而努力是包括中巴在內所有國家應盡的國際責任。只要和平還有希望，就值得為此付出。戰事發生以來，中方同各方開展接觸，積極止戰促和，從一開始就力挺巴方，向各方強調巴是值得信賴的斡旋者，也以自己的方式分別做了伊朗和美國工作。王毅表示，行百里者半九十，目前的共識遠非終點，而是新的起點，中東海灣地區持久和平仍需各方不懈努力。可以預見同第一階段相比，第二階段談判的難度將更大。但中方認為不能走回頭路，更不能重新訴諸武力。國際社會應當進一步為伊美談判提供助力，聯合國安理會等多邊機構也應發揮更大作用。中方一直主張地區國家要把前途命運掌握在自己手中，希望透過對話協商探討地區所有國家共同參與的和平安全架構。和平的大門既已開啟，就不應再次關上。中東地區飽受戰火摧殘，中東人民值得擁有和平。中方願同巴方一道，勸和不停歇，促談不止步，為早日恢復中東和平穩定與發展繼續作出努力。（新華社）"
-    },
-    {
-      "id": "mkt:019ed0a9-c981-7dd8-b033-3a113fce908d",
-      "time": "2026-06-16 21:40:48",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "Former U.S. vice president Harris said that regardless of negotiation terms, Trump will declare victory and ultimately revert to the post‑JCPOA (Iran nuclear deal) situation, calling it a win."
-    },
-    {
-      "id": "te:markets:559374",
-      "time": "2026-06-16 21:40:06",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The Dow Jones Index Opens 0.78% Higher — The Dow Jones Index is picking up 401 points or 0.78 percent on Tuesday. Gains are led by Caterpillar (2.30%), Home Depot (2.25%) and JPMorgan (2.08%). Biggest losers are Microsoft (-1.78%), Nvidia (-1.43%) and Amgen (-0.86%)."
-    },
-    {
-      "id": "mkt:019ed0a8-f361-7dd8-b033-321abaf34d13",
-      "time": "2026-06-16 21:39:53",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Greater China",
-        "Nasdaq100",
-        "Impact bearish",
-        "S&P500"
-      ],
-      "text": "【Huaqiangbei check: MLCC price rises concentrated in high-end; mid/low-capacitance lead times lengthen】Spot checks at Shenzhen’s Huaqiangbei show distributors holding MLCC reels from major manufacturers (Murata, Taiyo Yuden, Samsung Electro‑Mechanics, TDK) amid active buyer enquiries. Dealers report a price surge since May concentrated in high‑capacitance MLCCs—many quotes have roughly doubled versus May—and delivery times have generally extended, notably for mid/low‑capacitance parts. A domestic MLCC maker said price adjustments are following the market and that increases are focused on the high end, with overall supply‑demand not yet at extreme tightness."
-    },
-    {
-      "id": "mkt:019ed0a8-c970-7dd8-b033-2d00969cb30d",
-      "time": "2026-06-16 21:39:42",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Former U.S. vice president Harris said a $400 unexpected expense is enough to push an ordinary American into bankruptcy. She said this war has added about $500 in extra costs, much of it driven by higher gasoline prices."
-    },
-    {
-      "id": "4938937",
-      "time": "2026-06-16 21:39:31",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國前副總統哈里斯：據估算，自戰爭爆發以來，普通美國人因這場戰爭而額外支出了500美元。為了更直觀地理解這一數字，我還要補充一點，對於普通美國人而言，一旦面臨意外開支，只要花費400美元就可能導致破產。"
-    },
-    {
-      "id": "mkt:019ed0a8-8fc8-7dd8-b033-25fbbcbd42b7",
-      "time": "2026-06-16 21:39:28",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Former U.S. vice president Harris said she estimates ordinary Americans have incurred an additional $500 in costs since the war began and that an unexpected $400 expense can push a typical American into bankruptcy."
-    },
-    {
-      "id": "4938936",
-      "time": "2026-06-16 21:39:13",
-      "tags": [
-        "公司"
-      ],
-      "text": "【實探華強北：目前MLCC行業漲價集中在高階領域 中低容產品交貨週期延長】記者走進深圳華強北，就近期MLCC（多層陶瓷片式電容器）市場價格波動情況進行了實地探訪。在華強電子世界，記者看見多家代理商、經銷商檔口的貨架上整齊碼放著MLCC料盤，門口和過道密集堆疊著紙箱，箱體清晰標有村田、太陽誘電、三星電機、TDK等頭部MLCC原廠標識。檔口工作人員忙著拆箱清點料盤、核對相關資訊，同時接待多名詢價客戶。多家代理商、經銷商反映，現貨市場本輪漲價自今年5月起明顯加速，其中高容MLCC漲價尤為突出，多數產品目前的報價相較5月份已經翻倍，交貨週期也普遍延長。“我們的產品也沒有全面普漲，產品價格調控隨行就市。”某國內MLCC廠商負責人告訴記者，整個行業目前漲價集中在高階領域，整體供需尚未達到極端緊缺狀態。 (新華財經)"
-    },
-    {
-      "id": "4938935",
-      "time": "2026-06-16 21:39:07",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "歐洲央行首席經濟學家連恩：我們將繼續對貨幣政策採取積極主動的應對措施。"
-    },
-    {
-      "id": "mkt:019ed0a8-3236-7dd8-b033-1b2b2213337d",
-      "time": "2026-06-16 21:39:04",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "EURUSD",
-        "Impact bullish",
-        "DXY",
-        "Impact bearish",
-        "XAUUSD"
-      ],
-      "text": "ECB chief economist Lane said inflation is expected to remain well above target over the next year, implying immediate monetary policy action is required."
-    },
-    {
-      "id": "4938934",
-      "time": "2026-06-16 21:38:38",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "歐洲央行首席經濟學家連恩：展望一年後，若通脹仍顯著高於目標，確實意味著我們現在就必須調整貨幣政策。"
-    },
-    {
-      "id": "4938933",
-      "time": "2026-06-16 21:38:09",
-      "tags": [
-        "其他"
-      ],
-      "text": "美股盤初，主要行業ETF漲跌不一，全球航空業ETF漲超2%，銀行業ETF漲超1%，能源業ETF跌超1%。"
     }
   ]
 }
