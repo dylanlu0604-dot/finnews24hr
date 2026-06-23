@@ -1,7 +1,27 @@
 {
-  "updated": "2026-06-24 01:53:17",
-  "count": 17275,
+  "updated": "2026-06-24 01:57:24",
+  "count": 17272,
   "items": [
+    {
+      "id": "4951044",
+      "time": "2026-06-24 01:55:36",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "蘇利南總理：馬來西亞國家石油公司（馬石油）在 52 號海上區塊再獲油氣新發現。"
+    },
+    {
+      "id": "te:markets:561260",
+      "time": "2026-06-24 01:54:48",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "commodity",
+        "Importance 0"
+      ],
+      "text": "Silver is down by 5% — Silver decreased 5% to 61.8 USD/t.oz"
+    },
     {
       "id": "mkt:019ef59c-de7e-7dd8-b0e1-30a0eab389fd",
       "time": "2026-06-24 01:52:38",
@@ -158260,47 +158280,6 @@
         "MKT News"
       ],
       "text": "Canada's minister for U.S. trade said after meeting the U.S. trade representative on the sidelines of the G7 that talks are continuing to make progress."
-    },
-    {
-      "id": "4939254",
-      "time": "2026-06-17 01:56:44",
-      "tags": [
-        "國際"
-      ],
-      "text": "巴西宣告：總統盧拉會見歐盟委員會主席馮德萊恩，就針對巴西產品的貿易限制措施展開討論。"
-    },
-    {
-      "id": "mkt:019ed193-ef8f-7dd8-b038-63abc9ef6e8a",
-      "time": "2026-06-17 01:56:33",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "【US-Iran framework to include $300 billion private fund to spur investment in Iran】Refinitiv sources say the US-Iran framework includes plans to set up a $300 billion private investment fund to attract capital into Iran. The fund would only become operational after a final agreement is signed, would be privately financed (no government funds), and is separate from talks over Iran’s frozen sovereign assets. Organizers have secured commitments for more than half the fund from companies in the US, Gulf Arab states, Asia, South America and Africa."
-    },
-    {
-      "id": "4939253",
-      "time": "2026-06-17 01:56:19",
-      "tags": [
-        "市場"
-      ],
-      "text": "阿根廷交易所股指下跌3%。"
-    },
-    {
-      "id": "4939252",
-      "time": "2026-06-17 01:55:38",
-      "tags": [
-        "國際"
-      ],
-      "text": "加拿大負責對美貿易事務部長勒布朗在G7峰會上談及與美國貿易代表辦公室會晤時表示：我們持續取得進展。"
-    },
-    {
-      "id": "4939251",
-      "time": "2026-06-17 01:54:02",
-      "tags": [
-        "國際"
-      ],
-      "text": "【擬設立3000億美元私募基金，用於加大對伊朗投資】訊息人士稱，一份美伊框架協議中包含設立規模3000億美元私人投資基金以扶持伊朗經濟的規劃。該基金僅在正式終版協議簽署後啟動，不包含任何政府出資。來自美國、海灣地區、亞洲、南美及非洲多國企業已承諾認繳過半資金。"
     }
   ]
 }
