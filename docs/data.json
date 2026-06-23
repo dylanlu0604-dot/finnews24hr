@@ -1,7 +1,87 @@
 {
-  "updated": "2026-06-24 05:29:54",
-  "count": 17344,
+  "updated": "2026-06-24 05:33:56",
+  "count": 17353,
   "items": [
+    {
+      "id": "mkt:019ef666-5090-7dd8-b0e4-55e04e08f6c7",
+      "time": "2026-06-24 05:32:40",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Meta Platforms",
+        "Market Themes",
+        "Magnificent 7",
+        "META.O",
+        "Impact bearish"
+      ],
+      "text": "NYT reports the US is pressuring Meta Platforms (META.O) to conduct an AI safety review amid rising security concerns."
+    },
+    {
+      "id": "4951175",
+      "time": "2026-06-24 05:32:27",
+      "tags": [
+        "公司"
+      ],
+      "text": "Cerebras首席財務官：公司利潤率將下滑10至15個百分點。"
+    },
+    {
+      "id": "4951174",
+      "time": "2026-06-24 05:31:51",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國監管機構向Meta施壓，要求其同意接受人工智慧安全審查。"
+    },
+    {
+      "id": "mkt:019ef665-1d8c-7dd8-b0e4-4cba525c1815",
+      "time": "2026-06-24 05:31:22",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Chicago Board Options Exchange (CBOE) has launched CBOE Predicts, a prediction-market platform, and will roll out initial products in a new series of prediction markets."
+    },
+    {
+      "id": "4951173",
+      "time": "2026-06-24 05:30:33",
+      "tags": [
+        "其他"
+      ],
+      "text": "聯邦快遞首席財務官：2026日曆年收入增長預測為11%，其中包含燃油附加費假設帶來3個百分點的收益。"
+    },
+    {
+      "id": "4951172",
+      "time": "2026-06-24 05:30:25",
+      "tags": [
+        "其他"
+      ],
+      "text": "芝加哥期權交易所全球市場：將透過報價價差簿機制開放XSP垂直價差交易。"
+    },
+    {
+      "id": "4951171",
+      "time": "2026-06-24 05:30:09",
+      "tags": [
+        "公司",
+        "焦點"
+      ],
+      "text": "德國鐵路公司：受全國性鐵路數字無線系統中斷影響，目前所有列車均已停靠在車站待命。"
+    },
+    {
+      "id": "4951170",
+      "time": "2026-06-24 05:29:55",
+      "tags": [
+        "市場"
+      ],
+      "text": "芝加哥期權交易所全球市場：盈透證券將上線該批二元期權合約，嘉信理財預計後續落地。"
+    },
+    {
+      "id": "4951169",
+      "time": "2026-06-24 05:29:41",
+      "tags": [
+        "市場"
+      ],
+      "text": "芝加哥期權交易所全球市場推出小型標普500指數二元期權產品XSPBW與XSPBX。"
+    },
     {
       "id": "4951168",
       "time": "2026-06-24 05:28:39",
