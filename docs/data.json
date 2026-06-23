@@ -1,7 +1,35 @@
 {
-  "updated": "2026-06-24 01:49:22",
+  "updated": "2026-06-24 01:53:17",
   "count": 17275,
   "items": [
+    {
+      "id": "mkt:019ef59c-de7e-7dd8-b0e1-30a0eab389fd",
+      "time": "2026-06-24 01:52:38",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Financial Times reported SpaceX (SPCX.O) drew roughly $90 bln of orders for a $25 bln bond offering by midday local time."
+    },
+    {
+      "id": "4951043",
+      "time": "2026-06-24 01:52:31",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：SpaceX 此次 250 億美元債券發行，午間時段認購訂單規模接近 900 億美元。"
+    },
+    {
+      "id": "te:markets:561259",
+      "time": "2026-06-24 01:51:04",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "CME Stock Price Hits 16-month Low — CME shares decreased to 244.52 USD, the lowest since February 2025. Over the past 4 weeks, CME lost 13.42%, and in the last 12 months, it decreased 9.86%."
+    },
     {
       "id": "mkt:019ef595-65d2-7dd8-b0e1-28e159d1fde6",
       "time": "2026-06-24 01:44:29",
@@ -158273,31 +158301,6 @@
         "國際"
       ],
       "text": "【擬設立3000億美元私募基金，用於加大對伊朗投資】訊息人士稱，一份美伊框架協議中包含設立規模3000億美元私人投資基金以扶持伊朗經濟的規劃。該基金僅在正式終版協議簽署後啟動，不包含任何政府出資。來自美國、海灣地區、亞洲、南美及非洲多國企業已承諾認繳過半資金。"
-    },
-    {
-      "id": "4939250",
-      "time": "2026-06-17 01:51:39",
-      "tags": [
-        "國際"
-      ],
-      "text": "一位直接參與協議內容的訊息人士透露，美伊框架協議包含一項規模3000億美元私募基金的設立計劃，以帶動對伊朗的投資。"
-    },
-    {
-      "id": "4939249",
-      "time": "2026-06-17 01:51:29",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "訊息人士稱，規模達3000億美元的伊朗投資基金只有在最終協議簽署後才會投入運作。"
-    },
-    {
-      "id": "4939248",
-      "time": "2026-06-17 01:51:22",
-      "tags": [
-        "國際"
-      ],
-      "text": "訊息人士稱，3000億美元伊朗投資基金中，已有逾一半金額獲得來自美國、海灣阿拉伯國家、亞洲、南美洲及非洲企業的投資承諾。"
     }
   ]
 }
