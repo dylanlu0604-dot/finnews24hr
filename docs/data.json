@@ -1,7 +1,108 @@
 {
-  "updated": "2026-06-23 13:29:06",
-  "count": 17230,
+  "updated": "2026-06-23 13:33:17",
+  "count": 17227,
   "items": [
+    {
+      "id": "mkt:019ef2f6-c6ab-7dd8-b0cd-3ebaee3e9661",
+      "time": "2026-06-23 13:31:59",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "601988.SS",
+        "Impact bullish",
+        "601288.SS",
+        "601939.SS"
+      ],
+      "text": "A-share banking sector rebounded in afternoon trading; Bank of Xi'an climbed more than 4%, while Bank of China, Postal Savings Bank of China, Bank of Chongqing, Agricultural Bank of China and Chongqing Rural Commercial Bank rose over 3%."
+    },
+    {
+      "id": "4949594",
+      "time": "2026-06-23 13:31:41",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "錫連續主力合約日內跌4%，現報400400.00元。"
+    },
+    {
+      "id": "mkt:019ef2f6-0565-7dd8-b0cd-3140bbc6b943",
+      "time": "2026-06-23 13:31:09",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals",
+        "Industrial Metals",
+        "Copper",
+        "Impact bearish"
+      ],
+      "text": "SHFE most-active silver contract fell 6.00% intraday to 15,006 yuan/kg; SHFE most-active tin contract dropped 4.00% intraday to 400,370 yuan/ton."
+    },
+    {
+      "id": "4949593",
+      "time": "2026-06-23 13:30:27",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "白銀連續主力合約日內跌6%，現報15006.00元。"
+    },
+    {
+      "id": "mkt:019ef2f5-4b7a-7dd8-b0cd-2b90d8fe8e09",
+      "time": "2026-06-23 13:30:22",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals"
+      ],
+      "text": "Spot silver plunged 4.00% intraday to $62.47/oz."
+    },
+    {
+      "id": "4949592",
+      "time": "2026-06-23 13:30:17",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "甲醇連續主力合約日內跌1%，現報2506.00元。"
+    },
+    {
+      "id": "4949591",
+      "time": "2026-06-23 13:30:14",
+      "tags": [
+        "其他"
+      ],
+      "text": "【銀行板塊震盪上行，中國銀行等股漲超3%】銀行板塊震盪上行，中國銀行、西安銀行、郵儲銀行、渝農商行、重慶銀行等股漲超3%。"
+    },
+    {
+      "id": "4949590",
+      "time": "2026-06-23 13:30:09",
+      "tags": [
+        "市場"
+      ],
+      "text": "現貨白銀日內跌4%，現報62.43美元/盎司。"
+    },
+    {
+      "id": "4949589",
+      "time": "2026-06-23 13:30:04",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "上證50指數期貨連續主力合約日內跌2%，現報2914.60點。"
+    },
+    {
+      "id": "4949587",
+      "time": "2026-06-23 13:28:32",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【房地產板塊逆勢走強 光明地產等多股漲停】午後房地產板塊逆勢走強，光明地產漲停，此前津投城開2連板，中洲控股、華遠控股漲停，中交發展、光大嘉寶、珠江股份、大龍地產等跟漲。"
+    },
     {
       "id": "4949586",
       "time": "2026-06-23 13:28:04",
@@ -157879,125 +157980,6 @@
         "國際"
       ],
       "text": "基準 10 年期日本國債期貨擴大跌幅，跌至 5 月中旬以來的最低水平、"
-    },
-    {
-      "id": "4937790",
-      "time": "2026-06-16 13:32:49",
-      "tags": [
-        "其他"
-      ],
-      "text": "澳大利亞儲備銀行（RBA）行長布洛克：不排除必要時進一步收緊貨幣政策的可能性。"
-    },
-    {
-      "id": "mkt:019eceea-f733-7dd8-b020-f63422f9a951",
-      "time": "2026-06-16 13:32:45",
-      "tags": [
-        "MKT News",
-        "DXY",
-        "Impact bearish"
-      ],
-      "text": "Reserve Bank of Australia Governor Bullock said he would not rule out further policy tightening if necessary."
-    },
-    {
-      "id": "mkt:019ecee9-f7b7-7dd8-b020-ecf45e501053",
-      "time": "2026-06-16 13:31:40",
-      "tags": [
-        "MKT News",
-        "DXY",
-        "Impact bearish",
-        "XAUUSD",
-        "S&P500",
-        "Impact bullish"
-      ],
-      "text": "Reserve Bank of Australia Governor Bullock said news of a Middle East peace agreement was encouraging."
-    },
-    {
-      "id": "4937789",
-      "time": "2026-06-16 13:31:31",
-      "tags": [
-        "其他"
-      ],
-      "text": "【中國信達等在北京新設企管中心】企查查APP顯示，近日，北京信錦方弘企業管理中心（有限合夥）成立，出資額約10億元，經營範圍包含：企業管理；企業管理諮詢。企查查股權穿透顯示，該企業由中國信達等共同出資。"
-    },
-    {
-      "id": "mkt:019ecee9-7028-7dd8-b020-e72a997202a4",
-      "time": "2026-06-16 13:31:05",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Reserve Bank of Australia Governor Bullock said incoming data are consistent with the bank's expectations."
-    },
-    {
-      "id": "mkt:019ecee9-4aa6-7dd8-b020-d8354ad11cef",
-      "time": "2026-06-16 13:30:55",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Reserve Bank of Australia Governor Bullock said inflation remains too high."
-    },
-    {
-      "id": "4937788",
-      "time": "2026-06-16 13:30:41",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "丙烯連續主力合約日內跌7%，現報7357.00元。"
-    },
-    {
-      "id": "mkt:019ecee8-f12f-7dd8-b020-d00bd6a9bd43",
-      "time": "2026-06-16 13:30:32",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy"
-      ],
-      "text": "Most-active Chinese fuel oil contract fell 4.00% intraday to 3,311.00 yuan/ton."
-    },
-    {
-      "id": "4937787",
-      "time": "2026-06-16 13:30:04",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "燃料油連續主力合約日內跌4%，現報3311.00元。"
-    },
-    {
-      "id": "te:markets:559242",
-      "time": "2026-06-16 13:30:03",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Crypto",
-        "Importance 1"
-      ],
-      "text": "Crypto Updates: Ether Drops by 1.81% — Top crypto losers are Ether (-1.81%), XRP (-1.05%) and Bitcoin (-0.40%)."
-    },
-    {
-      "id": "4937786",
-      "time": "2026-06-16 13:29:27",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【上交所：暫停景順長城全球半導體晶片LOF、財通多策略福鑫基金交易至收市】上交所公告，6月16日盤中即時起至收市暫停景順長城全球半導體晶片產業股票型證券投資基金（QDII-LOF）、財通多策略福鑫定期開放靈活配置混合型發起式證券投資基金交易業務。"
-    },
-    {
-      "id": "mkt:019ecee7-c075-7dd8-b020-c9195d3a770e",
-      "time": "2026-06-16 13:29:14",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Thai foreign minister said Thailand has appointed two representatives to participate in UN-framework arbitration proceedings with Cambodia over a maritime dispute."
-    },
-    {
-      "id": "4937785",
-      "time": "2026-06-16 13:29:06",
-      "tags": [
-        "國際"
-      ],
-      "text": "泰國外交部長表示，泰國已任命兩名代表參與泰國與柬埔寨海事爭端的聯合國仲裁程式。"
     }
   ]
 }
