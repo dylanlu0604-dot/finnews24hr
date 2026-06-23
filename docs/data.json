@@ -1,7 +1,31 @@
 {
-  "updated": "2026-06-24 00:27:21",
-  "count": 17289,
+  "updated": "2026-06-24 00:31:29",
+  "count": 17277,
   "items": [
+    {
+      "id": "mkt:019ef550-9048-7dd8-b0df-941b1ce5d3de",
+      "time": "2026-06-24 00:29:18",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iranian President PEZESHKIAN said Pakistan's efforts were essential to today's achievements."
+    },
+    {
+      "id": "mkt:019ef54f-fda1-7dd8-b0df-895ac2780166",
+      "time": "2026-06-24 00:28:40",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "Market Regions",
+        "Japan & APAC",
+        "Nikkei 225",
+        "Impact bullish",
+        "USDJPY",
+        "Impact bearish"
+      ],
+      "text": "【Blackstone to invest $30 billion in Japanese AI data centers】Blackstone plans to invest $30 billion in AI data centers in Japan over the next three to five years, president and COO Jonathan Gray told Nikkei. The firm is negotiating to develop facilities exceeding 1 GW in Japan."
+    },
     {
       "id": "mkt:019ef54d-297e-7dd8-b0df-82a5be6a6a5e",
       "time": "2026-06-24 00:25:35",
@@ -158289,118 +158313,6 @@
         "其他"
       ],
       "text": "慧與（HPE）：與英偉達聯合研發的HPE私有云人工智慧可將token吞吐量最高提升20%"
-    },
-    {
-      "id": "4939192",
-      "time": "2026-06-17 00:31:27",
-      "tags": [
-        "其他"
-      ],
-      "text": "慧與（HPE）：搭載英偉達技術的HPE AI工廠新增英偉達Vera CPU、英偉達智慧體工具包與英偉達機密計算技術。"
-    },
-    {
-      "id": "4939191",
-      "time": "2026-06-17 00:31:16",
-      "tags": [
-        "其他"
-      ],
-      "text": "慧與（HPE）：攜手英偉達將智慧體AI投入生產應用。"
-    },
-    {
-      "id": "4939190",
-      "time": "2026-06-17 00:31:08",
-      "tags": [
-        "其他"
-      ],
-      "text": "慧與（HPE）：HPE資料編織軟體將擴大智慧體工作流的資料可用性，預計於2026年10月正式推出。"
-    },
-    {
-      "id": "4939189",
-      "time": "2026-06-17 00:31:01",
-      "tags": [
-        "其他"
-      ],
-      "text": "慧與（HPE）：配備英偉達技術的HPE人工智慧工廠將於2026年第四季度支援英偉達保密計算服務。"
-    },
-    {
-      "id": "4939188",
-      "time": "2026-06-17 00:30:54",
-      "tags": [
-        "其他"
-      ],
-      "text": "慧與科技（HPE）：西門子能源已從公有云遷移至HPE GreenLake Flex按需付費私有云。"
-    },
-    {
-      "id": "4939187",
-      "time": "2026-06-17 00:30:44",
-      "tags": [
-        "國際"
-      ],
-      "text": "慧與（HPE）：GreenLake Flex已在美國和德國落地部署，美國站點已投入運營；德國站點按計劃將於2026年年中完成全面部署。"
-    },
-    {
-      "id": "4939186",
-      "time": "2026-06-17 00:30:35",
-      "tags": [
-        "其他"
-      ],
-      "text": "慧與科技攜手英偉達，將智慧體AI投入商用落地，覆蓋安全、治理、規模化部署與資料主權能力。"
-    },
-    {
-      "id": "4939185",
-      "time": "2026-06-17 00:29:54",
-      "tags": [
-        "其他"
-      ],
-      "text": "市場資訊：微軟考慮與DeepSeek合作開發Copilot。"
-    },
-    {
-      "id": "mkt:019ed143-7d5a-7dd8-b037-02dedd06cb65",
-      "time": "2026-06-17 00:28:41",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Canada said Prime Minister Carney and Indian Prime Minister Modi agreed to launch negotiations on an information-security agreement."
-    },
-    {
-      "id": "4939184",
-      "time": "2026-06-17 00:28:33",
-      "tags": [
-        "其他"
-      ],
-      "text": "加拿大宣告：卡尼與莫迪同意啟動《全面資訊保安協議》談判。"
-    },
-    {
-      "id": "mkt:019ed143-4e13-7dd8-b036-fb12945d9ede",
-      "time": "2026-06-17 00:28:29",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Canada said Prime Minister Carney and Indian Prime Minister Modi expressed satisfaction with progress in negotiations on a Comprehensive Economic Partnership Agreement."
-    },
-    {
-      "id": "4939183",
-      "time": "2026-06-17 00:28:12",
-      "tags": [
-        "國際"
-      ],
-      "text": "加拿大宣告：加拿大總理卡尼與印度總理莫迪重申，雙方共同目標是在2026年完成全面經濟夥伴關係協定（CEPA）談判。"
-    },
-    {
-      "id": "4939182",
-      "time": "2026-06-17 00:27:53",
-      "tags": [
-        "其他"
-      ],
-      "text": "加拿大宣告：卡尼與莫迪對全面經濟夥伴關係協定談判取得的進展表示滿意。"
-    },
-    {
-      "id": "mkt:019ed142-4882-7dd8-b036-f60d6f30f416",
-      "time": "2026-06-17 00:27:22",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Canada said Prime Minister Carney met Indian Prime Minister Modi on the sidelines of the G7 summit to review progress in bilateral economic cooperation."
     }
   ]
 }
