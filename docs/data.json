@@ -1,7 +1,70 @@
 {
-  "updated": "2026-06-23 13:12:30",
-  "count": 17219,
+  "updated": "2026-06-23 13:16:38",
+  "count": 17217,
   "items": [
+    {
+      "id": "4949567",
+      "time": "2026-06-23 13:15:25",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗稱將成立關於制裁和核問題的小組。"
+    },
+    {
+      "id": "te:markets:560993",
+      "time": "2026-06-23 13:15:03",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "FX Updates: Australian Dollar Drops by 0.52% — Top currency losers are Australian Dollar (-0.52%), New Zealand Dollar (-0.39%), Norwegian Krone (-0.31%), British Pound (-0.10%) and Euro (-0.06%). Gains are led by Dollar Index (0.06%). Meanwhile Japanese Yen was little changed."
+    },
+    {
+      "id": "4949566",
+      "time": "2026-06-23 13:14:51",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗稱，關於落實諒解備忘錄的技術會談已經結束。"
+    },
+    {
+      "id": "te:economy:560992",
+      "time": "2026-06-23 13:14:45",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "India",
+        "Manufacturing PMI",
+        "Importance 2"
+      ],
+      "text": "India Manufacturing Growth Hits 3-Month Low — India's HSBC Manufacturing PMI fell to 54.5 in June 2026, a three-month low, down from 55.0 in May, preliminary estimates showed. Growth in manufacturing activity slowed as demand softened and cost pressures persisted, restricting output expansion. New orders continued to rise but at a weaker pace, with firms citing competitive pressures and subdued domestic and export demand. Export orders grew at the slowest pace since March 2023. Employment rose only marginally, marking the weakest hiring pace in six months, as manufacturers adjusted staffing to softer demand conditions. Backlogs of work were broadly stable. Purchasing activity also increased at its slowest pace in two-and-a-half years, prompting a softer increase in stocks of purchases and an outright decline in inventories of finished products. On prices, cost pressures remained elevated. Business confidence remained positive but weakened to its lowest level in close to four years."
+    },
+    {
+      "id": "4949565",
+      "time": "2026-06-23 13:14:22",
+      "tags": [
+        "公司"
+      ],
+      "text": "【華為等成立雲衢星匯技術服務新公司】企查查APP顯示，近日，雲衢星匯（深圳）技術服務有限公司成立，經營範圍包含：資訊系統整合服務；資訊系統執行維護服務；資料處理和儲存支援服務等。企查查股權穿透顯示，該公司由華為投資控股有限公司等共同持股。"
+    },
+    {
+      "id": "4949564",
+      "time": "2026-06-23 13:14:11",
+      "tags": [
+        "國際"
+      ],
+      "text": "【夏季達沃斯論壇今起舉行 將釋出多份旗艦報告】第十七屆夏季達沃斯論壇今天起在遼寧大連舉行，來自90多個國家和地區的1700餘名各界代表齊聚大連，共同探尋全球經濟復甦與高質量發展新路徑。今年的外國嘉賓比去年增長近三成，專精特新“小巨人”和獨角獸企業參會數量增長40%，三天的會期將舉辦百餘場論壇活動，議題涵蓋科技、經濟、能源、文化等多個領域。本屆論壇的主題是“規模化創新”，將聚焦人工智慧、新能源、生物醫藥、量子科技等前沿領域，共繪全球科技創新合作新藍圖。論壇期間還將釋出“能源轉型指數”和“十大新興技術”等多份旗艦報告。夏季達沃斯論壇是世界經濟論壇的重要年度活動，自2007年創辦以來在天津和大連兩地輪流舉辦，今年是夏季達沃斯論壇與大連第九次“牽手”。"
+    },
+    {
+      "id": "4949563",
+      "time": "2026-06-23 13:11:56",
+      "tags": [
+        "國際"
+      ],
+      "text": "【卡達再派一艘空艙液化天然氣運輸船穿越霍爾木茲海峽】船舶追蹤資料顯示，卡達國有航運企業旗下的液化天然氣運輸船“米拉哈卡達號”（ Milaha Qatar）週二出現在阿聯酋以北的波斯灣水域，說明該船剛剛駛過霍爾木茲海峽。船舶航行資料顯示，這艘油輪6月21日曾現身阿曼東部附近海域，隨後船舶定位訊號一度中斷。該船當前報出下一目的地為卡達拉斯拉凡液化天然氣出口基地。注：此前週一已有四艘空載LNG運輸船經霍爾木茲海峽駛入波斯灣。這也意味著自2月末伊朗衝突爆發以來，含“米拉哈卡達號”在內，總計八艘卡達相關空載LNG船已駛入波斯灣。卡達計劃在航道恢復通航後的兩個月內，重啟拉斯拉凡基地大部分液化天然氣出口業務，為此加大船舶排程通行量。"
+    },
     {
       "id": "4949562",
       "time": "2026-06-23 13:09:42",
@@ -157820,97 +157883,6 @@
         "焦點"
       ],
       "text": "恒生科技指數跌超2%，現報4670.140點；恒生指數現跌1.414%。"
-    },
-    {
-      "id": "mkt:019ecedc-0298-7dd8-b020-8a10bc551ecc",
-      "time": "2026-06-16 13:16:25",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "【14th NPC Standing Committee to meet June 23-26 in Beijing】The 14th National People's Congress Standing Committee will meet in Beijing June 23-26. The committee will review State Council-submitted drafts including amendments to the People's Bank of China Law, a proposed Financial Law, revisions to the Tendering and Bidding Law, and a draft decision to authorize the Hong Kong SAR to exercise jurisdiction over the mainland port area at Huanggang and related extension zones."
-    },
-    {
-      "id": "te:economy:559240",
-      "time": "2026-06-16 13:16:24",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Philippines",
-        "Remittances",
-        "Importance 1"
-      ],
-      "text": "Philippine Remittances Rise 2% in April — Cash remittances coursed through banks in the Philippines rose by 2% year-on-year to USD 2.72 billion in April 2026 from USD 2.66 billion in the same month of the previous year. Both land-based workers and sea-based workers recorded higher remittances, increasing 2.12% and 0.59% from a year earlier, respectively. By country of origin, the US remained the top source, accounting for 39.7% of total remittances, followed by Singapore (7.3%), Saudi Arabia (6.4%), Japan (5.1%), and United Arab Emirates (4.6%). Considering the first four months of the year, cash remittances grew by 2.6% to USD 11.4 billion compared to the same period a year earlier. Meanwhile, personal remittances, which include bank transfers, informal channels, and in-kind transfers, went up by 2.1% to USD 3.04 billion from USD 2.97 billion a year ago."
-    },
-    {
-      "id": "mkt:019ecedb-bdbf-7dd8-b020-856b05d93349",
-      "time": "2026-06-16 13:16:07",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "CSI300",
-        "Impact bullish",
-        "SSE Composite"
-      ],
-      "text": "China A-share retail sector rallied in afternoon trading; Dalian Youyi hit the daily limit-up, while Zhongbai Group, Small Commodity City, Gongxiao Daji and Quanxinhao also advanced."
-    },
-    {
-      "id": "4937775",
-      "time": "2026-06-16 13:15:52",
-      "tags": [
-        "宏觀",
-        "焦點",
-        "國際",
-        "兩會"
-      ],
-      "text": "【趙樂際主持召開十四屆全國人大常委會第六十八次委員長會議 決定十四屆全國人大常委會第二十三次會議6月23日至26日在京舉行】十四屆全國人大常委會第六十八次委員長會議16日上午在北京人民大會堂舉行。趙樂際委員長主持會議。會議決定，十四屆全國人大常委會第二十三次會議6月23日至26日在北京舉行。\n委員長會議建議，十四屆全國人大常委會第二十三次會議審議商標法修訂草案、註冊會計師法修正草案、檢察公益訴訟法草案、南極活動與環境保護法草案、國家消防救援人員法草案；審議全國人大財政經濟委員會關於提請審議政府採購法修訂草案的議案；審議國務院關於提請審議招標投標法修訂草案的議案、關於提請審議金融法草案的議案、關於提請審議中國人民銀行法修訂草案的議案、關於提請審議關於授權香港特別行政區對皇崗口岸港方口岸區及相關延伸區實施管轄的決定草案的議案。\n委員長會議建議的常委會第二十三次會議議程還有：審議國務院關於2025年中央決算的報告，審查和批准2025年中央決算；審議國務院關於2025年度中央預算執行和其他財政收支的審計工作報告；審議國務院關於“八五”普法決議實施情況的報告、關於建設全國統一大市場工作情況的報告、關於在粵港澳大灣區內地九市開展香港法律執業者和澳門執業律師取得內地執業資質和從事律師職業試點工作情況的報告；審議趙樂際委員長訪問哈薩克、俄羅斯並出席中俄議會合作委員會第十一次會議情況的書面報告；審議全國人大常委會代表資格審查委員會關於個別代表的代表資格的報告；審議有關任免案等。\n委員長會議還審議了國務院研究處理常委會審議意見情況報告和相關專門委員會、工作委員會意見等。\n委員長會議上，全國人大常委會秘書長劉奇就常委會第二十三次會議議程草案和日程安排等作了彙報。全國人大常委會有關副秘書長，全國人大有關專門委員會、常委會有關工作委員會負責人就有關議題作了彙報。\n全國人大常委會副委員長李鴻忠、王東明、肖捷、鄭建邦、丁仲禮、蔡達峰、何維、武維華、鐵凝、彭清華、張慶偉、洛桑江村、雪克來提·扎克爾出席會議。（新華社）"
-    },
-    {
-      "id": "4937774",
-      "time": "2026-06-16 13:15:18",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【零售板塊震盪拉昇，大連友誼漲停】零售板塊震盪拉昇，大連友誼漲停，中百集團、小商品城、供銷大集、全新好跟漲。"
-    },
-    {
-      "id": "te:markets:559239",
-      "time": "2026-06-16 13:15:03",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Currency",
-        "Importance 1"
-      ],
-      "text": "FX Updates: Australian Dollar Drops by 0.32% — Top currency losers are Australian Dollar (-0.32%), Norwegian Krone (-0.29%), New Zealand Dollar (-0.25%), British Pound (-0.12%) and Euro (-0.10%). Gains are led by Dollar Index (0.08%). Meanwhile Japanese Yen was little changed."
-    },
-    {
-      "id": "4937772",
-      "time": "2026-06-16 13:14:33",
-      "tags": [
-        "國際"
-      ],
-      "text": "印度政府：釋出指令，要求平臺在印度境內禁用已傳送訊息的編輯功能，該規定實施至6月30日。"
-    },
-    {
-      "id": "4937771",
-      "time": "2026-06-16 13:13:38",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【陽光股份盤中漲停】陽光股份盤中漲停，漲幅9.97%，成交額超3億元。"
-    },
-    {
-      "id": "4937770",
-      "time": "2026-06-16 13:12:50",
-      "tags": [
-        "國際"
-      ],
-      "text": "印度政府：在特定有限期間內限制印度境內對Telegram平臺的訪問，截止日期為2026年6月22日。"
     }
   ]
 }
