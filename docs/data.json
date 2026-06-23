@@ -1,7 +1,65 @@
 {
-  "updated": "2026-06-24 05:25:50",
-  "count": 17339,
+  "updated": "2026-06-24 05:29:54",
+  "count": 17344,
   "items": [
+    {
+      "id": "4951168",
+      "time": "2026-06-24 05:28:39",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "日本樂天執行長表示，合作方在該合資企業中的持股比例大致均等，但樂天集團將牽頭負責管理。"
+    },
+    {
+      "id": "4951167",
+      "time": "2026-06-24 05:28:25",
+      "tags": [
+        "公司"
+      ],
+      "text": "樂天集團執行長日經表示，衛星直連智慧手機服務將自2026年底起分階段推出。"
+    },
+    {
+      "id": "4951166",
+      "time": "2026-06-24 05:28:20",
+      "tags": [
+        "其他"
+      ],
+      "text": "Cerebras首席財務官表示：隨著雲容量部署擴容加速，全年下半年將帶來更多收入，預計2026年每個季度的同比增長率都將逐季提升。"
+    },
+    {
+      "id": "4951165",
+      "time": "2026-06-24 05:28:08",
+      "tags": [
+        "其他"
+      ],
+      "text": "芝加哥期權交易所推出CBOE PREDICTS預測平臺，全新預測市場產品線首批產品正式上線。"
+    },
+    {
+      "id": "4951164",
+      "time": "2026-06-24 05:27:48",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "日本樂天集團將攜手美國初創企業AST SpaceMobile，在日本推出衛星直連手機通訊服務。"
+    },
+    {
+      "id": "4951163",
+      "time": "2026-06-24 05:26:30",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國最高法院裁定，石油巨頭埃克森美孚可就逾10億美元被沒收資產起訴古巴政府。"
+    },
+    {
+      "id": "4951162",
+      "time": "2026-06-24 05:25:26",
+      "tags": [
+        "觀點"
+      ],
+      "text": "【摩根士丹利旗下70億美元私募信貸基金限制贖回 回購上限設為5%】摩根士丹利管理的一隻規模70億美元的私募信貸基金將贖回比例上限定為5%，意味著不到第二季度申請贖回比例的一半。據週二釋出的信函，North Haven Private Income Fund表示投資者申請贖回比例為11.6%，高於第一季度的10.9%。在規模達1.8萬億美元的私募信貸市場中，由於許多基金在上一季度限制投資者全額退出，本季度主要基金面臨的贖回申請普遍增加。摩根士丹利在信中表示，該基金第二季度超過一半的贖回申請來自上一季度未能全額贖回資金的投資者。"
+    },
     {
       "id": "4951161",
       "time": "2026-06-24 05:25:13",
@@ -158875,26 +158933,6 @@
         "國際"
       ],
       "text": "【馬斯克已接近實現第二個萬億美元目標的三分之一】馬斯克花了54年時間才賺到他的第一個萬億美元。而在兩個交易日之後，他已經完成了下一個萬億美元目標的近三分之一。根據彭博億萬富翁指數，馬斯克的財富在週二攀升至1.32萬億美元。這比他在上週三（即SpaceX以每股135美元定價進行IPO的前一天）的6960億美元身家增長了近90%。 馬斯克在過去四個交易日中增加了6200億美元的財富，這是彭博財富指數有史以來記錄的最大單週增幅。這一數字超過了拉丁美洲或中東地區所有上榜億萬富翁財富的總和。這一增長規模大約是比爾·蓋茨淨資產的六倍，略高於挪威的國內生產總值（GDP）。"
-    },
-    {
-      "id": "4939337",
-      "time": "2026-06-17 05:28:48",
-      "tags": [
-        "其他"
-      ],
-      "text": "【姆巴佩梅開二度，法國3-1塞內加爾】2026年美加墨世界盃I組首輪比賽中，法國隊對陣塞內加爾隊。姆巴佩表現出色，梅開二度，幫助法國隊以3-1戰勝塞內加爾隊。比賽預告顯示，今天還將進行多場激烈角逐，包括伊拉克VS挪威、阿根廷VS阿爾及利亞和奧地利VS約旦。（央視新聞）"
-    },
-    {
-      "id": "te:economy:559444",
-      "time": "2026-06-17 05:27:41",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "United States",
-        "API Crude Oil Stock Change",
-        "Importance 1"
-      ],
-      "text": "US Crude Inventories Fall More Than Expected — US crude oil inventories fell by 8.33 million barrels in the week ended June 12, exceeding expectations for a 4.5 million-barrel draw. This followed a 9.12 million-barrel decline in the previous week. Despite inventories falling by about 52 million barrels over the past nine weeks, US crude stockpiles are down just 1.4 million barrels since the start of the year. Inventories in the SPR also continued to decline, dropping by 8.9 million barrels to 340.3 million, leaving stocks 385 million barrels below maximum capacity. Meanwhile, inventories at the Cushing hub fell by 1.52 million barrels after declining by 1.13 million barrels the previous week. US crude production rose to 13.80 million barrels per day in the week ended June 5, up from 13.71 million bpd a week earlier. Gasoline inventories rose by 2.48 million barrels, reversing the prior week's 1.19 million-barrel decline, while distillate stockpiles fell by 461,000 barrels after rising by 1.3 million barrels in the previous week."
     }
   ]
 }
