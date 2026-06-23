@@ -1,7 +1,115 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-06-23 17:58:55_
-_本檔包含 3450 則快訊，約 650029 字_
+_更新時間：2026-06-23 18:08:37_
+_本檔包含 3453 則快訊，約 650979 字_
+
+---
+
+### 2026-06-22 17:39:12  #國際
+
+烏克蘭鐵路擬自 8 月 1 日起上調貨運費率 30%。
+
+---
+
+### 2026-06-22 17:38:45  #公司
+
+江蘇高凱精密流體技術股份有限公司科創板IPO獲上市委會議透過。
+
+---
+
+### 2026-06-22 17:38:41  #國際
+
+市場訊息：寧德時代將為歐洲電動卡車提供換電服務。
+
+---
+
+### 2026-06-22 17:36:56  #MKT News
+
+A German government spokesman said he expects UK Prime Minister Starmer will still attend the E5 meeting in Berlin and called him a reliable, close partner.
+
+---
+
+### 2026-06-22 17:36:49  #MKT News
+
+【China Telecom's Tianyan-P2000 quantum computer enters operation】China Telecom’s quantum unit and Jiuzhang (Jinan) Quantum Technology have brought the Jiuzhang-series photonic quantum computer Tianyan-P2000 into service and integrated it with China Telecom’s Tianyan quantum computing cloud platform. Built on the same core architecture as Jiuzhang No.4, the system is reported to offer online photonic quantum computational-advantage services to global users for the first time.
+
+---
+
+### 2026-06-22 17:36:39  #公司 #市場
+
+【溫州宏豐：股票交易異常波動 提醒投資者注意風險】溫州宏豐公告稱，公司股票於2026年6月17日、18日、22日連續三個交易日收盤價格漲幅偏離值累計達到33.93%，屬於異常波動。經核查，公司、控股股東和實控人不存在應披露未披露的重大事項，控股股東和實控人在此期間也未買賣公司股票。公司提醒，白銀價格下跌或影響盈利，向特定物件發行A股尚不確定，當前滾動市盈率遠高於行業水平，可能存在非理性炒作風險，提醒投資者注意投資風險。
+
+---
+
+### 2026-06-22 17:36:21  #國際
+
+俄羅斯方面報道稱，布古利馬、喀山、下卡姆斯克和切博克薩里等機場已實施臨時限制措施。
+
+---
+
+### 2026-06-22 17:36:06  #MKT News
+
+Russian authorities reported temporary restrictions at Bugulma, Kazan, Nizhnekamsk and Cheboksary airports.
+
+---
+
+### 2026-06-22 17:36:04  #國際
+
+德國政府發言人：我們認為斯塔默仍將出席在柏林舉行的歐洲五大領導人會議；斯塔默一直是可靠且親密的合作伙伴。
+
+---
+
+### 2026-06-22 17:35:53  #公司
+
+【“天衍-P2000”正式執行】近日，中國電信量子科技領域再添重磅成果，中電信量子集團聯合九章（濟南）量子科技有限公司建設的“九章四號”同系列光量子計算機“天衍-P2000”已正式執行，並接入中國電信“天衍”量子計算雲平臺，首次面向全球使用者推出光量子線上優越性服務能力。此次釋出的“天衍-P2000”採用與“九章四號”同源核心架構，具備量子計算優越性服務能力。
+
+---
+
+### 2026-06-22 17:34:41  #MKT News #Important
+
+【Wang Yi meets Iran deputy SNSC secretary Nezamipour in New Delhi】June 22, 2026, New Delhi — Wang Yi, Politburo member and director of the Office of the Central Foreign Affairs Commission, met Iran’s deputy secretary of the Supreme National Security Council, Nezamipour. Wang welcomed US‑Iran follow‑up consultations on the memorandum of understanding, launched with assistance from Pakistan and Qatar, and called for agreement on the next negotiation mechanism. He said China, as Iran’s comprehensive strategic partner, supports efforts that facilitate peace, safeguards Iranian sovereignty and security, and improvement of Tehran’s ties with Gulf and regional states, and is willing to continue providing assistance to help restore regional stability. Nezamipour briefed Wang on the Middle East situation and progress in US‑Iran talks, thanked China for urging de‑escalation, urged Beijing to help ensure implementation of the Phase‑I MOU, and said Iran is willing to deepen bilateral contacts at all levels, strengthen mutual support, expand cooperation and coordinate within BRICS and other multilateral frameworks to address shared challenges.
+
+---
+
+### 2026-06-22 17:34:37  #公司
+
+【雲賽智聯：出資0.85億元參與設立上海儀電智算產業生態基金】雲賽智聯公告，公司作為有限合夥人參與出資設立“上海儀電智算產業生態基金（有限合夥）”，基金總規模10.02億元，公司出資0.85億元，出資比例8.483%。本次交易構成關聯交易，但未構成重大資產重組。
+
+---
+
+### 2026-06-22 17:34:30  #公司
+
+【瑞銀：今年A股盈利增長有望進一步提速】瑞銀證券中國股票策略分析師孟磊22日發表中國股票分析報告稱，今年A股盈利增長有望進一步提速。預計基準情景下，今年全部A股上市公司的盈利增速將從去年的3.9%提升至11%。據孟磊分析，全部A股上市公司一季報顯示A股盈利正在加速恢復。其中，非金融板塊今年一季度盈利同比增長11.8%，2025年全年增幅為0.8%。今年一季度全部A股非金融板塊的毛利率與淨利率分別同比提升0.6和0.3個百分點。中期來看，更多支援政策的推出、“反內卷”的推進以及海外收入佔比的提升均有利於A股上市公司利潤率提升。事實上，近期工業企業利潤增長的提速以及市場盈利一致預期的持續上修均指向今年盈利環境不斷向好。(中國新聞網)
+
+---
+
+### 2026-06-22 17:33:14  #MKT News #SPCX.O #Impact bearish
+
+【Institutional: SpaceX long-term high growth expected but short-term risk-reward balanced】SpaceX (SPCX.O) fell more than 4% in U.S. pre-market trading on Monday and was poised for a third consecutive session of declines after losing over 8% across last Wednesday and Thursday. As of Thursday’s close the stock remained 37% above its $135 IPO price, valuing the company at $2.4 trillion. KeyBanc Capital Markets initiated coverage with a MAINTAIN rating, saying multiple long-term high-growth paths exist but the near-term risk‑reward profile appears balanced.
+
+---
+
+### 2026-06-22 17:33:09  #市場
+
+【機構：SpaceX長期高增長可期 但短期風險回報平衡】SpaceX(SPCX.O)週一美股盤前交易一度跌超4%，預計連續第三個交易日下跌。在上週三和週四的交易時段，SpaceX股價已累跌超8%。儘管如此，截至週四收盤，SpaceX股價仍較135美元的IPO發行價高出37%，市值達到2.4萬億美元。KeyBanc資本市場對該股首次給予中性評級，並指出，儘管長期來看存在諸多高增長路徑，但短期內風險回報比似乎較為平衡。
+
+---
+
+### 2026-06-22 17:32:19  #宏觀 #國際
+
+【王毅會見伊朗最高國家安全委員會副秘書內扎米普爾】2026年6月22日，中共中央政治局委員、中央外辦主任王毅在新德里會見伊朗最高國家安全委員會副秘書內扎米普爾。王毅表示，中方歡迎伊美雙方在巴基斯坦、卡達協助下啟動諒解備忘錄後續磋商，並就下步談判機制形成共識。諒解備忘錄十四點核心條款來之不易，明確提出立即永久停止敵對行動，不再使用或威脅使用武力，相互尊重彼此主權和領土完整，避免干涉對方內政等，這些內容體現了平等精神，符合聯合國憲章宗旨，符合國際關係準則。維護和落實好諒解備忘錄，有助於鞏固得來不易的停火局面，有助於開啟伊美關係新的前景，有助於讓和平重返中東地區，不僅符合伊方國家和民族的根本利益，也順應國際社會的共同期待。中方作為伊朗全面戰略伙伴，始終秉持公正立場，支援一切有助於和平的努力，支援伊方維護主權安全和民族尊嚴，支援伊朗改善同海灣各國及地區國家關係，願繼續以自己的方式提供協助，為早日恢復地區和平安寧發揮建設性作用。(外交部網站)
+
+---
+
+### 2026-06-22 17:32:07  #MKT News #Star Stocks #Alibaba #9988.HK #Impact bearish #0981.HK #Impact mixed #1113.HK #Impact bullish
+
+Southbound flows were net sellers of RMB 5.82 bln today. On Shanghai Stock Connect to Hong Kong, Yangtze Optical Fibre & Cable and SMIC were net sold HKD 1.287 bln and HKD 609 mln respectively; Kingboard Holdings was the largest net buy at HKD 2.692 bln. On Shenzhen Stock Connect to Hong Kong, Yangtze Optical Fibre & Cable and Alibaba (HK) were net sold HKD 1.188 bln and HKD 930 mln respectively; SMIC led net buys at HKD 1.429 bln.
+
+---
+
+### 2026-06-22 17:31:23  #Trading Economics #Economy #Macau #Tourist Arrivals #Importance 1
+
+Macau Tourist Arrivals Continue to Rise — The number of tourist arrivals in Macau rose 3.4% year-on-year to 3,488 million in May 2026 from an 11.3% jump in the previous month. Same-day visitors increased by 7.9%, while overnight visitors dropped by 3%. Additionally, the average length of stay shortened by 0.1 day from a year earlier to 1 day and the average stay of overnight visitors remained unchanged at 2.3 days. By source market, visitors from China grew by 4.2% year-on-year to 2.54 million in May, with arrivals under the Individual Visit Scheme rising 5.2% to 1.38 million. Visitors from Taiwan (93,701) and Thailand (20,447) increased by 18.9% and 36.1%, respectively. On the other hand, arrivals from Hong Kong (-0.4% to 618,341), the Philippines (-11.5% to 50,462), and South Korea (-14.6% to 35,663) posted declines. In the first five months of 2026, total visitor arrivals increased by 11.1% year-on-year to 18.14 million.
 
 ---
 
@@ -20725,95 +20833,5 @@ Iran's deputy energy minister said the Russian side is ready to dispatch experts
 ### 2026-06-20 00:31:55  #MKT News
 
 【Russia Agriculture Ministry: YTD mineral fertilizer exports up 7% to $5.5bln】Russia's Agriculture Ministry said year-to-date mineral fertilizer exports rose 7% to $5.5 billion. The ministry said total agricultural-technology exports since the start of 2026 reached $5.9 billion, up 6% versus the same period in 2025.
-
----
-
-### 2026-06-20 00:28:34  #MKT News
-
-Lebanon's prime minister said the state should have independent authority to decide on war and peace.
-
----
-
-### 2026-06-20 00:28:19  #公司 #市場
-
-【迦納正考慮將Gold Fields最大金礦交由本國企業掌控】迦納正考慮在Gold Fields Ltd.（金田公司）旗下Tarkwa金礦的租約於2027年4月到期時，將該礦的控制權移交給本國企業，這是迦納旨在加強對本國黃金產業控制力的一項舉措。知情人士透露，如果政府推進該計劃，迦納礦業企業需提交競標書以供評估；同時，當局也在權衡為Gold Fields延長租約的選項。移交Tarkwa金礦的所有權將有助於為迦納的工程師、供應商和企業家創造更多就業機會。在評估競標時，政府將重點關注競標方在環境修復、本地就業以及東道社群基礎設施建設方面的承諾。
-
----
-
-### 2026-06-20 00:27:27  #MKT News #Important #Market Regions #Europe & UK
-
-【British media: PM Starmer to use weekend to weigh staying amid cabinet pressure】The Times reports that after Andy Burnham's by-election win, Prime Minister Starmer is weighing whether to remain in office amid rising pressure from his cabinet. He has publicly ruled out resigning and said he would contest a leadership challenge if Burnham mounted one; privately, aides say he recognizes growing calls from Labour MPs for him to step down. He is expected to spend the weekend with his family while deciding whether to continue resisting the pressure.
-
----
-
-### 2026-06-20 00:22:19  #市場
-
-【德國30年期國債收益率週五漲7個基點，整體持續上揚】週五（6月19日）歐市尾盤，德國10年期國債收益率漲5.6個基點，報2.985%，本週累計下跌1個基點，整體交投於2.988%-2.914%區間。兩年期德債收益率漲3.9個基點，報2.646%，本週累漲2.9個基點，整體交投於2.547%-2.827%區間，6月18日北京時間14:00曾高開至2.827%，隨後快速下挫至2.618%；30年期德債收益率漲7.0個基點，報3.538%，本週累跌1.1個基點。2/10年期德債收益率利差漲1.691個基點，報+33.751個基點，本週累跌3.807個基點。本週，法國10年期國債收益率累跌0.3個基點，義大利10年期國債收益率累跌2.5個基點，西班牙10年期國債收益率累漲3.5個基點，希臘10年期國債收益率累跌2.1個基點。
-
----
-
-### 2026-06-20 00:20:29  #其他
-
-《泰晤士報》訊息：英國首相斯塔默將在本週末考量自身去留。
-
----
-
-### 2026-06-20 00:19:46  #國際
-
-【中國隊奪體操亞青賽男團金 】19日是2026年第19屆亞洲青年體操錦標賽的首個比賽日，賽事在貴州省遵義市奧體中心舉行，當日進行了男子團體、個人全能決賽暨單項預賽的比拼，中國隊力壓日本隊和印度隊奪得男團金牌。（新華社）
-
----
-
-### 2026-06-20 00:19:27  #MKT News
-
-Brazil's finance minister said further monetary policy moves are for the central bank to decide but he believes there is room for another 25bps rate cut. He added an end to the Middle East war would imply Brazil may be moving toward disinflation.
-
----
-
-### 2026-06-20 00:17:32  #市場
-
-布倫特原油日內漲1%，現報80.31美元/桶。
-
----
-
-### 2026-06-20 00:13:18  #Trading Economics #Markets #Italy #Stock Market #Importance 0
-
-FTSE MIB Holds Near Record High — The FTSE MIB rose 0.3% to close at 52,849 on Friday, staying near record highs as gains in the energy sector supported the index. Markets remained focused on developments in the Middle East after planned follow-up US-Iran talks in Switzerland were canceled, adding fresh uncertainty to the diplomatic outlook. The news pushed oil prices modestly higher and lifted energy-related stocks, with Eni up 2.4%, Tenaris rising 2%, and Prysmian gaining 3.7%. Defense stocks also advanced on geopolitical concerns, with Leonardo up 1.7%. Financials traded mixed as energy-driven inflation concerns resurfaced, with UniCredit down 0.7% and Banco BPM losing 0.8%, while Intesa Sanpaolo added 0.4% and Generali gained 0.5%. Luxury stocks weakened on higher risk aversion, with Ferrari down 1.9% and Moncler falling 1.7%. Meanwhile, Pierre Wunsch said the European Central Bank may raise interest rates again next month if inflation continues to broaden.
-
----
-
-### 2026-06-20 00:12:05  #Trading Economics #Markets #Italy #Stock Market #Importance 1
-
-The FTSE MIB Index Closes 0.30% Higher — The FTSE MIB Index gained 161 points or 0.30 percent on Friday to close at 52849 points. Gains were led by Fincantieri (3.39%), Saipem (3.19%) and Poste Italiane (2.58%). Biggest losers were Brunello Cucinelli (-3.80%), Moncler (-1.60%) and Lottomatica (-1.42%).
-
----
-
-### 2026-06-20 00:11:52  #MKT News
-
-Hezbollah leader Qassim said the plan to destroy Hezbollah has failed, Israel’s conspiracy has come to an end, and final victory — defined as the complete and permanent expulsion of occupiers from every inch of Lebanese territory — is inevitable.
-
----
-
-### 2026-06-20 00:11:21  #央行 #其他
-
-秘魯央行預測 2026 年通脹率為 3.8%，2027 年通脹率為 2.0%。
-
----
-
-### 2026-06-20 00:11:05  #Trading Economics #Markets #Germany #Stock Market #Importance 1
-
-The DAX Index Closes 0.16% Lower — The DAX Index decreased 41 points or 0.16 percent on Friday to close at 24986 points. The decline was led by Volkswagen (-4.58%), Adidas (-1.71%) and Beiersdorf (-1.54%). On the upside, the strongest performers were Rheinmetall (2.67%), Bayer (1.86%) and Porsche Automobil (1.52%).
-
----
-
-### 2026-06-20 00:10:05  #Trading Economics #Markets #France #Stock Market #Importance 1
-
-The CAC 40 Index Closes 0.55% Lower — The CAC 40 Index fell 47 points or 0.55 percent on Friday to close at 8421 points. Leading the losses are L'Oréal (-2.51%), Essilor (-2.31%) and Hermes International (-2.24%). Top gainers were Renault (3.20%), TotalEnergies SE (1.01%) and Dassault Systemes (0.88%).
-
----
-
-### 2026-06-20 00:08:29  #MKT News
-
-【U.S. intelligence warns Israel may undermine U.S.-Iran accord】Multiple U.S. intelligence agencies have warned the Trump administration that Israeli Prime Minister Netanyahu may act to undermine President Trump's push for a long-term U.S.-Iran accord, U.S. officials say. Intelligence assesses Netanyahu, under heavy domestic political pressure ahead of autumn elections, needs to show voters he will not withdraw forces from Lebanon and is likely to escalate operations against Hezbollah. The report also says Israeli officials are deeply unhappy with key provisions of Trump’s memorandum, viewing them as weakening Israel’s core objectives.
 
 ---

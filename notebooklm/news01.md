@@ -1,7 +1,194 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-06-23 17:58:55_
-_本檔包含 3382 則快訊，約 650818 字_
+_更新時間：2026-06-23 18:08:37_
+_本檔包含 3395 則快訊，約 650763 字_
+
+---
+
+### 2026-06-23 18:06:38  #公司 #市場
+
+【雙良節能：決定不向下修正“雙良轉債”轉股價格】雙良節能公告稱，截至2026年6月23日，公司股價已出現連續30個交易日中至少15個交易日的收盤價低於當期轉股價格的85%（5.25元/股）之情形，觸及“雙良轉債”轉股價格向下修正條款。經九屆董事會2026年第五次臨時會議審議透過，公司董事會決定本次不向下修正轉股價格，且未來3個月（2026年6月24日至9月23日）內如再次觸及相關條款，亦不提出向下修正方案。9月24日起重新起算，若再觸發，屆時董事會將再做決定。
+
+---
+
+### 2026-06-23 18:06:29  #公司
+
+【諾德股份：參與設立的16億元產業基金完成備案】諾德股份公告稱，公司於2026年5月22日同意與凱博資本、中創新航等共同投資設立產業基金，首期規模16億元，公司擬出資2億元。近日，該產業基金已完成工商設立，並在中國證券投資基金業協會完成備案，備案日期為2026年6月22日。本次投資將加快公司融合發展，培育新增長點，不會對公司經營產生重大不利影響。
+
+---
+
+### 2026-06-23 18:06:24  #公司
+
+【新天綠能：控股股東一致行動人完成2999萬元股份增持】新天綠能公告稱，控股股東河北建投的一致行動人國富基金自2026年6月16日至6月23日，透過上海證券交易所港股通從二級市場以集中競價交易方式累計增持公司H股股份1039.1萬股，佔公司總股本的0.23%，累計增持金額約2999萬元，增持計劃已實施完畢。本次增持後，河北建投及其一致行動人合計持有公司股份佔總股本的52.66%。本次增持符合相關規定，且可免於提出豁免發出要約申請，公司已履行現階段資訊披露義務，尚需披露實施結果。
+
+---
+
+### 2026-06-23 18:06:17  #公司
+
+【南京醫藥：因權益分派調整“南藥轉債”轉股價格並停復牌】南京醫藥公告稱，因實施2025年年度權益分派，“南藥轉債”轉股價格由5.12元/股調整為4.95元/股，調整實施日期為2026年6月30日。“南藥轉債”自2026年6月23日至2026年6月29日停止轉股，2026年6月30日起恢復轉股。
+
+---
+
+### 2026-06-23 18:06:10  #MKT News
+
+【Netanyahu says Israel must reduce reliance on US, build domestic weapons production】On June 23 Prime Minister Netanyahu told reserve combat officers Israel must break dependence on external suppliers and establish an independent domestic weapons-production network. He said that despite years of US support, Israel now needs to manufacture its own weapons. Netanyahu added Israel is confronting Iran and its proxies and that its future will depend on its own strength.
+
+---
+
+### 2026-06-23 18:05:02  #國際
+
+【以總理說要擺脫對美依賴自主造武器】今天（6月23日），以色列總理內塔尼亞胡與預備役作戰軍官會面時表示，以色列需要擺脫對外部的依賴，建立自身獨立的武器生產網路。內塔尼亞胡表示，儘管美國多年來為以色列提供支援，但以色列現在需要建立獨立的武器網路，自主製造武器。內塔尼亞胡稱，以色列目前正對抗伊朗及其代理人，以色列未來的走向取決於自身的實力。（CCTV國際時訊）
+
+---
+
+### 2026-06-23 18:04:30  #公司
+
+【新和成：擬3-6億元回購股份用於股權激勵或員工持股】新和成公告稱，公司第九屆董事會第二十次會議審議透過回購股份方案，擬以自有資金3-6億元回購公司部分社會公眾股份，回購價格不超45.5元/股，預計回購股份659.34-1318.68萬股，佔總股本比例0.21%-0.43%，用於實施股權激勵計劃或員工持股計劃。回購期限自董事會審議透過之日起12個月。本次回購存在多種實施風險，相關股東暫無明確增減持計劃。
+
+---
+
+### 2026-06-23 18:04:22  #宏觀 #公司 #國際
+
+【財政部副部長廖岷會見標普國際信用評級公司主權信用評級全球主管羅伯託·西豐—阿雷瓦羅】2026年6月16日，財政部副部長廖岷在北京會見標普國際信用評級公司主權信用評級全球主管羅伯託·西豐—阿雷瓦羅，雙方就中國宏觀經濟韌性、中美雙邊關係、中東局勢影響等議題進行了交流。(財政部)
+
+---
+
+### 2026-06-23 18:04:02  #公司
+
+【平安基金：調整港股醫藥ETF平安主流動性服務商為一般服務商】平安基金公告稱，自2026年6月22日起，將平安中證港股通醫藥衛生綜合交易型開放式指數證券投資基金（基金程式碼：159718，場內簡稱：港股醫藥ETF平安）的主流動性服務商方正證券股份有限公司調整為一般流動性服務商。
+
+---
+
+### 2026-06-23 18:03:46  #公司
+
+馬士基執行長預計下半年集裝箱貨運需求將持續保持旺盛。
+
+---
+
+### 2026-06-23 18:03:32  #MKT News #Market Regions #Greater China #CSI300 #Impact bullish #CNH #DXY #Impact bearish
+
+【GSMA projects mobile tech to add $2.1tn to China economy by 2030】Ahead of MWC Shanghai opening June 24, GSMA released a report estimating mobile technology generated $1.5tn of economic value in China in 2025 (about 7.2% of GDP) and that contribution will rise to $2.1tn by 2030. GSMA also said China accounts for more than 40% of global 5G connections.
+
+---
+
+### 2026-06-23 18:03:28  #MKT News #Commodities #Precious Metals
+
+Norilsk Nickel expects a global PLATINUM surplus of about 300k oz in 2026 and, excluding investment and inventory changes, a 200k oz surplus in 2027.
+
+---
+
+### 2026-06-23 18:02:47  #央行 #其他
+
+【央行等三部門印發《關於進一步加強金融支援婦女就業發展的實施意見》】近日，中國人民銀行、金融監管總局、全國婦聯印發《關於進一步加強金融支援婦女就業發展的實施意見》。《實施意見》提出，要加大金融資源投入力度，助力婦女就業發展。加強創業孵化基地等創業載體建設融資支援，為女性創業專案落地提供保障。鼓勵各地結合實際最佳化創業擔保貸款政策，對信用良好的女性創業者適當降低或取消反擔保要求。拓寬婦女就業創業多元化融資渠道，支援符合條件的婦女創業企業註冊發行債務融資工具、開展供應鏈票據業務。最佳化教育培訓金融服務，提升婦女就業發展能力。用好國家助學貸款政策，規範開展研究生商業性助學貸款業務，支援女性接受高等教育。加強對職業院校等培訓機構的融資支援，探索“培訓+信貸”模式，支援婦女參加職業技能培訓、提升金融知識素養。
+
+---
+
+### 2026-06-23 18:02:42  #MKT News #Commodities #Industrial Metals
+
+Russia's Norilsk Nickel expects a global nickel surplus of about 20 kt in 2026 and about 55 kt in 2027.
+
+---
+
+### 2026-06-23 18:02:24  #公司
+
+【廣西能源：向特定物件發行A股獲間接控股股東上級批覆】廣西能源公告稱，公司間接控股股東廣西能源集團收到廣西投資集團批覆，同意公司向特定物件發行A股總體方案，募集資金不超14.00億元，用於收購橋鞏能源33.7202%股權和補充流動資金。同時，同意廣西能源集團參與認購，認購股份不超2500萬股，金額不超1億元，發行後合計持股比例不低於40.03%。本次發行需獲股東會批准、上交所稽核及證監會註冊後方可實施。
+
+---
+
+### 2026-06-23 18:02:16  #公司 #市場
+
+【恆盛能源：股價異常波動 實控人已減持361.7萬股】恆盛能源公告稱，公司股票於2026年6月22日、23日連續兩個交易日收盤價格漲幅偏離值累計超20%，屬異常波動。經自查，公司經營正常，無應披露未披露重大事項。2025年CVD金剛石產品營收152.16萬元，佔比0.15%。實控人之一杜順仙擬於6月1日至8月31日減持不超840萬股，截至公告日已減持361.7萬股。此外，公司擬3311萬元收購華大發電70%股權，相關變更尚在辦理。
+
+---
+
+### 2026-06-23 18:01:53  #其他
+
+【GSMA預計2030年移動技術對中國經濟貢獻達2萬億美元】MWC26上海（世界行動通訊大會上海）將在6月24日開幕。大會開幕前夕，GSMA （全球行動通訊系統協會）釋出《2026 中國移動經濟發展》報告。資料顯示，中國5G連線數在全球比重已逾40%；2025年移動技術為中國創造了1.5萬億美元的經濟價值，佔GDP的7.2%，預計到2030年這一數字將攀升至2.1萬億美元。GSMA 大中華區總裁斯寒表示：“中國5G連線數在全球比重已超過40%；2025年移動技術為中國創造了1.5萬億美元的經濟價值。這些數字折射出移動產業早已超越連線範疇，進化為無處不在的基礎能力，成為賦能生產力提升、深化 AI 驅動服務、引領可持續經濟增長的關鍵底座。”(澎湃新聞)
+
+---
+
+### 2026-06-23 18:01:43  #其他
+
+【自然資源部與中國氣象局6月23日18時聯合釋出橙色地質災害氣象風險預警】預計，6月23日20時至24日20時，江西東北部、湖南西南部、廣西北部、貴州南部、雲南西部、西藏東南部等地部分地區發生地質災害的氣象風險較高（黃色預警），其中，廣西北部、貴州東南部等地局地發生地質災害的氣象風險高（橙色預警）。各級政府及有關部門按照應急預案做好地質災害防禦工作。請社會公眾及時關注地質災害氣象風險預警資訊，謹慎前往地質災害預警區域。
+
+---
+
+### 2026-06-23 18:01:31  #國際
+
+俄羅斯諾里爾斯克鎳業預計，2026年全球鎳供應過剩量約為2萬噸，2027年全球鎳供應過剩量約為5.5萬噸。
+
+---
+
+### 2026-06-23 18:01:26  #國際
+
+俄羅斯諾里爾斯克鎳業預計，2026年全球鈀金過剩30萬盎司，2027年若不計投資及庫存變動，將過剩20萬盎司。
+
+---
+
+### 2026-06-23 18:01:04  #其他
+
+英國6月CBI工業訂單差值 -45，前值-41。
+英國6月CBI工業物價預期差值 22，前值38。
+
+---
+
+### 2026-06-23 18:00:42  #MKT News #Important #GBPUSD #Impact bearish
+
+UK June CBI industrial orders balance recorded -45, the weakest reading since September 2020.
+
+---
+
+### 2026-06-23 18:00:37  #國際
+
+【伊朗稱將繼續追究參與侵略伊朗者的責任】據伊朗伊斯蘭共和國通訊社23日報道，伊朗外交部發言人巴加埃當天表示，某些中東地區國家參與美國和以色列侵略伊朗的戰事，伊朗將繼續追究其責任。巴加埃說，伊朗有足夠的證據證明某些地區國家參與襲擊伊朗，伊朗“絕不會放棄這個問題”，將追究其法律責任，並提出相應要求。（新華社）
+
+---
+
+### 2026-06-23 18:00:23  #MKT News #Market Regions #Europe & UK #GBPUSD #Impact bearish #DXY #Impact bullish
+
+UK June CBI industrial price expectations balance 22, prior 38.
+
+---
+
+### 2026-06-23 18:00:20  #其他
+
+【我國首本英文資料期刊Data Express創刊釋出】今天（6月23日），我國首本英文資料期刊Data Express（簡稱DE，中文譯名《資料快報（英文）》）創刊釋出，期刊定位為綜合性資料出版平臺。主編由我國生態領域戰略科學家、中國科學院院士、中國科學院地理科學與資源研究所研究員於貴瑞擔任。（央視新聞）
+
+---
+
+### 2026-06-23 18:00:14  #MKT News #Economic Calendar #Important
+
+United Kingdom | CBI Industrial Trends Survey - Selling Prices (Jun) | actual 22 | previous 38
+
+---
+
+### 2026-06-23 18:00:06  #MKT News #Important #Market Regions #Europe & UK #GBPUSD #Impact bearish
+
+UK June CBI industrial orders balance -45, prior -41.
+
+---
+
+### 2026-06-23 18:00:00  #MKT News #Economic Calendar #Important
+
+United Kingdom | CBI Industrial Trends Survey - Orders (Jun) | actual -45 | previous -41
+
+---
+
+### 2026-06-23 17:59:35  #公司
+
+【ST龍大：控股股東部分股份被司法再凍結及輪候凍結】ST龍大公告稱，近日公司控股股東藍潤發展部分股份被司法再凍結及輪候凍結。本次司法再凍結股份6683.31萬股，佔其持股比例23.54%，佔公司總股本比例6.19%；輪候凍結股份16.69萬股，佔其持股比例0.06%，佔公司總股本比例0.02%。截至公告披露日，藍潤髮展累計被凍結股份1.20億股，佔其所持股份比例42.15%，佔公司總股本比例11.09%。若2677.71萬股司法拍賣股份全部成交過戶，藍潤髮展持股比例將降至23.82%，凍結股份佔比降至8.61%。本次股份凍結不會導致公司實控權變更，對生產經營無不利影響。
+
+---
+
+### 2026-06-23 17:59:24  #公司 #市場
+
+【豐元股份：股票交易異常波動 正推進定增事項】豐元股份公告稱，公司股票連續三個交易日（2026年6月18日、6月22日、6月23日）收盤價格漲幅偏離值累計超20%，屬異常波動。經核查，公司前期資訊無需更正補充，經營正常，未發現公共傳媒報道未公開重大資訊。目前公司正推進向特定物件發行A股股票事項，尚需股東會審議、深交所稽核及證監會註冊，能否實施及時間不確定。控股股東及實控人期間未買賣公司股票。提醒投資者注意風險。
+
+---
+
+### 2026-06-23 17:59:21  #公司 #市場
+
+【特發資訊：股票連續兩日漲幅偏離值超20% 不存在應披露未披露資訊】特發資訊公告稱，2026年6月22日至6月23日，公司股票連續兩個交易日收盤價格漲幅偏離值累計超20%，屬異常波動情形。經核查，公司未發現前期披露資訊需更正、補充，近期經營正常，內外部環境無重大變化，公司、控股股東和實控人不存在應披露未披露的重大事項，異動期間控股股東和實控人無買賣公司股票行為。提醒投資者理性投資，注意風險。
 
 ---
 
@@ -20312,113 +20499,5 @@ A German government spokesperson said attacks in recent days give Russia every r
 ### 2026-06-22 17:39:21  #Trading Economics #Economy #Luxembourg #Unemployment Rate #Importance 1
 
 Luxembourg Unemployment Rate Edges Down to 6.2% — Luxembourg’s seasonally adjusted unemployment rate edged down to 6.2% in May 2026 from 6.3% in the previous four months. The number of unemployed persons fell by 456 from the previous month to 19,674, while total employment increased by 138 to 303,958. Meanwhile, the number of unemployed resident jobseekers declined by 36 to 530,871. Regarding cross-border employment, the number of outgoing resident workers rose by 26 to 15,293, whereas the number of incoming cross border workers decreased by 177 to 234,836. The seasonally adjusted unemployment rate remained above the 6.0% recorded in May 2025.
-
----
-
-### 2026-06-22 17:39:12  #國際
-
-烏克蘭鐵路擬自 8 月 1 日起上調貨運費率 30%。
-
----
-
-### 2026-06-22 17:38:45  #公司
-
-江蘇高凱精密流體技術股份有限公司科創板IPO獲上市委會議透過。
-
----
-
-### 2026-06-22 17:38:41  #國際
-
-市場訊息：寧德時代將為歐洲電動卡車提供換電服務。
-
----
-
-### 2026-06-22 17:36:56  #MKT News
-
-A German government spokesman said he expects UK Prime Minister Starmer will still attend the E5 meeting in Berlin and called him a reliable, close partner.
-
----
-
-### 2026-06-22 17:36:49  #MKT News
-
-【China Telecom's Tianyan-P2000 quantum computer enters operation】China Telecom’s quantum unit and Jiuzhang (Jinan) Quantum Technology have brought the Jiuzhang-series photonic quantum computer Tianyan-P2000 into service and integrated it with China Telecom’s Tianyan quantum computing cloud platform. Built on the same core architecture as Jiuzhang No.4, the system is reported to offer online photonic quantum computational-advantage services to global users for the first time.
-
----
-
-### 2026-06-22 17:36:39  #公司 #市場
-
-【溫州宏豐：股票交易異常波動 提醒投資者注意風險】溫州宏豐公告稱，公司股票於2026年6月17日、18日、22日連續三個交易日收盤價格漲幅偏離值累計達到33.93%，屬於異常波動。經核查，公司、控股股東和實控人不存在應披露未披露的重大事項，控股股東和實控人在此期間也未買賣公司股票。公司提醒，白銀價格下跌或影響盈利，向特定物件發行A股尚不確定，當前滾動市盈率遠高於行業水平，可能存在非理性炒作風險，提醒投資者注意投資風險。
-
----
-
-### 2026-06-22 17:36:21  #國際
-
-俄羅斯方面報道稱，布古利馬、喀山、下卡姆斯克和切博克薩里等機場已實施臨時限制措施。
-
----
-
-### 2026-06-22 17:36:06  #MKT News
-
-Russian authorities reported temporary restrictions at Bugulma, Kazan, Nizhnekamsk and Cheboksary airports.
-
----
-
-### 2026-06-22 17:36:04  #國際
-
-德國政府發言人：我們認為斯塔默仍將出席在柏林舉行的歐洲五大領導人會議；斯塔默一直是可靠且親密的合作伙伴。
-
----
-
-### 2026-06-22 17:35:53  #公司
-
-【“天衍-P2000”正式執行】近日，中國電信量子科技領域再添重磅成果，中電信量子集團聯合九章（濟南）量子科技有限公司建設的“九章四號”同系列光量子計算機“天衍-P2000”已正式執行，並接入中國電信“天衍”量子計算雲平臺，首次面向全球使用者推出光量子線上優越性服務能力。此次釋出的“天衍-P2000”採用與“九章四號”同源核心架構，具備量子計算優越性服務能力。
-
----
-
-### 2026-06-22 17:34:41  #MKT News #Important
-
-【Wang Yi meets Iran deputy SNSC secretary Nezamipour in New Delhi】June 22, 2026, New Delhi — Wang Yi, Politburo member and director of the Office of the Central Foreign Affairs Commission, met Iran’s deputy secretary of the Supreme National Security Council, Nezamipour. Wang welcomed US‑Iran follow‑up consultations on the memorandum of understanding, launched with assistance from Pakistan and Qatar, and called for agreement on the next negotiation mechanism. He said China, as Iran’s comprehensive strategic partner, supports efforts that facilitate peace, safeguards Iranian sovereignty and security, and improvement of Tehran’s ties with Gulf and regional states, and is willing to continue providing assistance to help restore regional stability. Nezamipour briefed Wang on the Middle East situation and progress in US‑Iran talks, thanked China for urging de‑escalation, urged Beijing to help ensure implementation of the Phase‑I MOU, and said Iran is willing to deepen bilateral contacts at all levels, strengthen mutual support, expand cooperation and coordinate within BRICS and other multilateral frameworks to address shared challenges.
-
----
-
-### 2026-06-22 17:34:37  #公司
-
-【雲賽智聯：出資0.85億元參與設立上海儀電智算產業生態基金】雲賽智聯公告，公司作為有限合夥人參與出資設立“上海儀電智算產業生態基金（有限合夥）”，基金總規模10.02億元，公司出資0.85億元，出資比例8.483%。本次交易構成關聯交易，但未構成重大資產重組。
-
----
-
-### 2026-06-22 17:34:30  #公司
-
-【瑞銀：今年A股盈利增長有望進一步提速】瑞銀證券中國股票策略分析師孟磊22日發表中國股票分析報告稱，今年A股盈利增長有望進一步提速。預計基準情景下，今年全部A股上市公司的盈利增速將從去年的3.9%提升至11%。據孟磊分析，全部A股上市公司一季報顯示A股盈利正在加速恢復。其中，非金融板塊今年一季度盈利同比增長11.8%，2025年全年增幅為0.8%。今年一季度全部A股非金融板塊的毛利率與淨利率分別同比提升0.6和0.3個百分點。中期來看，更多支援政策的推出、“反內卷”的推進以及海外收入佔比的提升均有利於A股上市公司利潤率提升。事實上，近期工業企業利潤增長的提速以及市場盈利一致預期的持續上修均指向今年盈利環境不斷向好。(中國新聞網)
-
----
-
-### 2026-06-22 17:33:14  #MKT News #SPCX.O #Impact bearish
-
-【Institutional: SpaceX long-term high growth expected but short-term risk-reward balanced】SpaceX (SPCX.O) fell more than 4% in U.S. pre-market trading on Monday and was poised for a third consecutive session of declines after losing over 8% across last Wednesday and Thursday. As of Thursday’s close the stock remained 37% above its $135 IPO price, valuing the company at $2.4 trillion. KeyBanc Capital Markets initiated coverage with a MAINTAIN rating, saying multiple long-term high-growth paths exist but the near-term risk‑reward profile appears balanced.
-
----
-
-### 2026-06-22 17:33:09  #市場
-
-【機構：SpaceX長期高增長可期 但短期風險回報平衡】SpaceX(SPCX.O)週一美股盤前交易一度跌超4%，預計連續第三個交易日下跌。在上週三和週四的交易時段，SpaceX股價已累跌超8%。儘管如此，截至週四收盤，SpaceX股價仍較135美元的IPO發行價高出37%，市值達到2.4萬億美元。KeyBanc資本市場對該股首次給予中性評級，並指出，儘管長期來看存在諸多高增長路徑，但短期內風險回報比似乎較為平衡。
-
----
-
-### 2026-06-22 17:32:19  #宏觀 #國際
-
-【王毅會見伊朗最高國家安全委員會副秘書內扎米普爾】2026年6月22日，中共中央政治局委員、中央外辦主任王毅在新德里會見伊朗最高國家安全委員會副秘書內扎米普爾。王毅表示，中方歡迎伊美雙方在巴基斯坦、卡達協助下啟動諒解備忘錄後續磋商，並就下步談判機制形成共識。諒解備忘錄十四點核心條款來之不易，明確提出立即永久停止敵對行動，不再使用或威脅使用武力，相互尊重彼此主權和領土完整，避免干涉對方內政等，這些內容體現了平等精神，符合聯合國憲章宗旨，符合國際關係準則。維護和落實好諒解備忘錄，有助於鞏固得來不易的停火局面，有助於開啟伊美關係新的前景，有助於讓和平重返中東地區，不僅符合伊方國家和民族的根本利益，也順應國際社會的共同期待。中方作為伊朗全面戰略伙伴，始終秉持公正立場，支援一切有助於和平的努力，支援伊方維護主權安全和民族尊嚴，支援伊朗改善同海灣各國及地區國家關係，願繼續以自己的方式提供協助，為早日恢復地區和平安寧發揮建設性作用。(外交部網站)
-
----
-
-### 2026-06-22 17:32:07  #MKT News #Star Stocks #Alibaba #9988.HK #Impact bearish #0981.HK #Impact mixed #1113.HK #Impact bullish
-
-Southbound flows were net sellers of RMB 5.82 bln today. On Shanghai Stock Connect to Hong Kong, Yangtze Optical Fibre & Cable and SMIC were net sold HKD 1.287 bln and HKD 609 mln respectively; Kingboard Holdings was the largest net buy at HKD 2.692 bln. On Shenzhen Stock Connect to Hong Kong, Yangtze Optical Fibre & Cable and Alibaba (HK) were net sold HKD 1.188 bln and HKD 930 mln respectively; SMIC led net buys at HKD 1.429 bln.
-
----
-
-### 2026-06-22 17:31:23  #Trading Economics #Economy #Macau #Tourist Arrivals #Importance 1
-
-Macau Tourist Arrivals Continue to Rise — The number of tourist arrivals in Macau rose 3.4% year-on-year to 3,488 million in May 2026 from an 11.3% jump in the previous month. Same-day visitors increased by 7.9%, while overnight visitors dropped by 3%. Additionally, the average length of stay shortened by 0.1 day from a year earlier to 1 day and the average stay of overnight visitors remained unchanged at 2.3 days. By source market, visitors from China grew by 4.2% year-on-year to 2.54 million in May, with arrivals under the Individual Visit Scheme rising 5.2% to 1.38 million. Visitors from Taiwan (93,701) and Thailand (20,447) increased by 18.9% and 36.1%, respectively. On the other hand, arrivals from Hong Kong (-0.4% to 618,341), the Philippines (-11.5% to 50,462), and South Korea (-14.6% to 35,663) posted declines. In the first five months of 2026, total visitor arrivals increased by 11.1% year-on-year to 18.14 million.
 
 ---

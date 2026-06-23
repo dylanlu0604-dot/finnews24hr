@@ -1,7 +1,105 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-06-23 17:58:55_
-_本檔包含 3502 則快訊，約 650665 字_
+_更新時間：2026-06-23 18:08:37_
+_本檔包含 3505 則快訊，約 651114 字_
+
+---
+
+### 2026-06-18 16:04:08  #MKT News #Economic Calendar #Important
+
+China | Total Electricity Consumption (YoY) (May) | actual 6.9% | previous 6%
+
+---
+
+### 2026-06-18 16:04:03  #Trading Economics #Economy #Norway #Interest Rate #Importance 2
+
+Norges Bank Signals Further Tightening Ahead — The Norges Bank kept its policy rate steady at 4.25% in June, as expected, while signaling that further tightening may be needed as inflation remains too high. Governor Ida Wolden Bache said rising business costs are likely to keep price pressures elevated and that the bank may raise rates again at one of its upcoming meetings. The central bank noted that inflation has stayed above target for several years, while economic activity has softened slightly. Norges Bank said uncertainty remains high due to the Middle East conflict and its impact on energy prices. Oil and gas prices have fallen since March, while the potential reopening of the Strait of Hormuz could reduce external price pressures. The bank’s updated forecast points to a policy rate slightly above 4.5% by year-end. Inflation is expected to gradually decline toward the 2% target by 2029, though the future rate path will depend on inflation and labor market developments.
+
+---
+
+### 2026-06-18 16:03:56  #MKT News #Important #Market Regions #Greater China #Commodities #Energy #Copper #Impact bullish #CNH
+
+China's National Energy Administration: total electricity consumption rose 6.9% YoY in May 2026.
+
+---
+
+### 2026-06-18 16:03:50  #其他
+
+【國家能源局：5月份，全社會用電量8671億千瓦時，同比增長6.9%】據國家能源局，5月份，全社會用電量8671億千瓦時，同比增長6.9%。1～5月，全社會用電量累計42018億千瓦時，同比增長5.7%。從分產業用電看，第一產業用電量574億千瓦時，同比增長5.6%。第二產業用電量27324億千瓦時，同比增長5.1%。第三產業用電量8055億千瓦時，同比增長8.6%。
+
+---
+
+### 2026-06-18 16:03:34  #其他
+
+國際能源署署長比羅爾稱：國際能源署將與其合作成員國討論新能源戰略。
+
+---
+
+### 2026-06-18 16:03:28  #公司 #市場 #觀點
+
+【博通盤前漲3.07%，現報404.97美元】博通盤前漲3.07%，現報404.97美元。訊息面上，摩根大通稱博通與谷歌TPU五年合作專案按計劃推進、AI收入可見性延伸至2031年，並維持“買入”上調目標價至580美元。
+
+---
+
+### 2026-06-18 16:03:14  #公司 #市場
+
+【超威半導體盤前漲3.08%，現報528.27美元】超威半導體盤前漲3.08%，現報528.27美元。訊息面上，AMD與Rackspace簽署協議部署30兆瓦AI算力基礎設施，並獲聯博集團與伯恩斯坦上調目標價至600美元推動盤前走強。
+
+---
+
+### 2026-06-18 16:02:52  #其他
+
+【2026年1季度末金融業機構總資產556.3萬億元】初步統計，2026年1季度末，我國金融業機構總資產為556.34萬億元，同比增長8.8%，其中，銀行業機構總資產為494.72萬億元，同比增長8.0%；證券業機構總資產為19.15萬億元，同比增長25.4%；保險業機構總資產為42.47萬億元，同比增長12.2%。金融業機構負債為509.53萬億元，同比增長9.0%，其中，銀行業機構負債為455.69萬億元，同比增長8.1%；證券業機構負債為15.14萬億元，同比增長30.9%；保險業機構負債為38.69萬億元，同比增長12.7%。
+
+---
+
+### 2026-06-18 16:02:41  #國際
+
+市場訊息：韓國政府將燃油價格上限凍結再延長一個月。
+
+---
+
+### 2026-06-18 16:02:34  #公司
+
+【艾華集團：超級電容相關產品目前不屬於公司主營業務範圍 截至目前未形成相關銷售收入】艾華集團公告，近期超級電容產品關注度較高，公司核心主營業務為研發、生產和銷售鋁電解電容器、薄膜電容器、電極箔和金屬化膜，超級電容相關產品目前不屬於公司主營業務範圍，未納入公司現有主營業務體系，截至目前未形成相關銷售收入，對公司當期及近期經營業績無重大影響。在AI伺服器業務方面，公司現階段主要處於產品匯入和產能爬坡階段，放量節奏取決於客戶驗證進度和供應鏈配套成熟度。目前AI伺服器在公司整體收入中的佔比低，且當前該業務仍處於早期階段，客戶認證週期、訂單釋放節奏及行業整體需求變化等因素均存在正常的不確定性。
+
+---
+
+### 2026-06-18 16:02:28  #MKT News
+
+IEA Executive Director Birol said the crisis will create a new global energy landscape.
+
+---
+
+### 2026-06-18 16:02:27  #MKT News
+
+Korean media NEWSIS reports the South Korean government will extend the freeze on the fuel price cap for another month.
+
+---
+
+### 2026-06-18 16:02:13  #央行 #國際
+
+【今日特朗普要聞】
+1、特朗普於美國時間17日早晨稱，美伊達成的諒解備忘錄並非最終協議，若他對協議不滿或伊朗不守規矩，美方將恢復對伊轟炸，且該備忘錄不含立即解除對伊制裁的相關內容。
+2、特朗普於美國時間17日早晨同埃及總統會見記者時稱伊朗擁有核武器的機率僅 0.01%，認為美伊框架協議力度十足，還表示股市大漲、油價大跌足以印證市場對這份協議十分滿意，並透露霍爾木茲海峽將在一兩天內全面開放。
+3、特朗普於美國時間17日早晨在法國七國集團峰會上再度否認美方會向伊朗提供 3000 億美元重建資金，美國不會出資投資，他國可自行決定是否投資。
+4、特朗普在七國集團峰會後的記者會上稱自己未必會出席美伊諒解備忘錄簽署儀式，還稱協議順利則攬功、談崩便歸咎副總統萬斯。
+5、特朗普17日稱，美伊諒解備忘錄可能在18日或19日簽署。
+6、據美國官員，特朗普已親自遠端簽署旨在結束戰事、開放霍爾木茲海峽的美伊諒解備忘錄，協議提前生效、原定 19 日瑞士簽約儀式照常舉辦，提前簽署是為儘早打通海峽，伊朗要求暫不對外公開備忘錄文字。
+7、特朗普在法國 G7 峰會被問及相關計劃時表示美方將研究由本國軍工企業在歐洲、烏克蘭授權生產導彈的方案，因應對伊朗局勢消耗大量防空導彈庫存且擴產週期較長。
+8、特朗普於17日表示，過去兩天他在G7峰會期間和各國商討了俄烏衝突議題，已分別與普京、澤連斯基通話，並向各國領導人通報了和普京的溝通情況，重申自己有意推動俄烏實現停火。
+9、特朗普稱在七國集團上進行了一些非常良好的談話，他稱讚印度總理莫迪，並稱與印度的貿易協定正在推進當中，會在未來某個時間出訪印度。
+10、特朗普稱他同期黎巴嫩，認為黎巴嫩的問題需要解決，黎巴嫩總統將於未來一到兩週訪問美國，希望擴大《亞伯拉罕協議》的覆蓋範圍。
+11、特朗普在新任美聯儲主席沃什首次議息會議選擇維持利率不變、近半數官員預判年內或加息後受訪表示對此結果無所謂，認為加息會拖累經濟、情況反常，但他認可沃什的能力並表示會尊重沃什的政策判斷。
+12、特朗普於17日法國七國集團峰會記者會上再度公開感謝中俄在美伊戰事期間全程保持完全中立。
+13、特朗普17日在真相社交平臺發文稱蘋果將與英特爾合作在美國設計、製造晶片，雙方歷經一年多磋商已達成初步代工協議。
+14、特朗普稱與人工智慧公司Anthropic的談判進展順利，並在七國集團峰會上就人工智慧進行了一場很好的會議。
+
+---
+
+### 2026-06-18 16:02:09  #MKT News #Important
+
+【Chinese Foreign Ministry: NATO should reflect on its role in peace and stability】At a routine press briefing on the 18th, Foreign Ministry spokesperson Lin Jian said China has maintained an objective, impartial stance on the Ukraine crisis, has not supplied lethal weapons to any party, and strictly controls military‑civilian dual‑use items. He urged NATO to correct erroneous perceptions of China, stop stoking confrontation and shifting blame, and deeply reflect on the role and impact of an organization born in the Cold War on today’s peace and stability.
 
 ---
 
@@ -21107,71 +21205,5 @@ A German government spokesperson said Russia cannot achieve a military victory i
 ### 2026-06-17 17:34:07  #MKT News
 
 【JP Morgan: Oil pullback opens selective opportunities in European equities】A JP Morgan Asset Management global markets strategist said the recent oil-price decline, prompted by a temporary US–Iran peace agreement due Friday, has cooled energy prices and opened selective value opportunities in European equities beneath headline indices. With the yield curve steepening, bank stocks “still have further upside,” and chemicals look attractive given their energy sensitivity and would gain if the recent oil shock reverses. He added market expectations that the ECB needs further hikes “appear overestimated.” He said 2025’s theme of embracing global asset diversification should continue as investors begin to navigate past the worst of the shock.
-
----
-
-### 2026-06-17 17:34:03  #宏觀 #公司 #國際
-
-【Semafor：特朗普顧問考慮美國政府入股AI巨頭的可能結構】Semafor援引未具名知情人士報道稱，在對Anthropic實施出口管制之前，特朗普政府高階官員曾權衡如何設計政府在大型人工智慧公司中潛在持股的結構。美國財政部長斯科特·貝森特支援利用人工智慧公司的股權，為特朗普賬戶提供種子資金。美國商務部長霍華德·盧特尼克則傾向於將股權劃入某種主權財富基金。有關人工智慧公司可能讓渡給政府股權的討論仍處於早期階段，尚未作出決定。
-
----
-
-### 2026-06-17 17:33:32  #公司
-
-【華海清科：向特定物件發行A股股票申請獲上交所受理】華海清科公告，公司於2026年6月17日收到上海證券交易所出具的《關於受理華海清科股份有限公司科創板上市公司發行證券申請的通知》，上交所對公司報送的科創板上市公司發行證券的募集說明書及相關申請檔案進行了核對，認為該項申請檔案齊備，符合法定形式，決定予以受理並依法進行稽核。公司本次向特定物件發行A股股票事項尚需透過上交所稽核，並獲得中國證監會作出同意註冊的決定後方可實施，最終能否透過上交所稽核，並獲得中國證監會同意註冊的決定及其時間尚存在不確定性。
-
----
-
-### 2026-06-17 17:33:03  #宏觀
-
-【2026年中央國庫現金管理商業銀行定期存款（十期）招投標 操作量1000億元】為提高中央國庫現金使用效益，加強財政政策與貨幣政策的協調配合，財政部、中國人民銀行定於2026年6月23日上午9:50至10:20，透過中國人民銀行中央國庫現金管理商業銀行定期存款業務系統進行2026年中央國庫現金管理商業銀行定期存款（十期）招投標。本期操作量1000億元，期限1個月，起息日為2026年6月23日，到期日為2026年7月21日（遇節假日順延），以利率招標、單一價位中標方式面向中央國庫現金管理商業銀行定期存款業務參與銀行進行招投標。招投標有關事宜按照《中央國庫現金管理商業銀行定期存款業務操作規程》、《中央國庫現金管理商業銀行定期存款招投標規則》及相關規定執行。
-
----
-
-### 2026-06-17 17:32:44  #行業
-
-【建行副董事長張毅：做好資本市場的參與者 強化銀行系耐心資本的優質供給】中國建設銀行副董事長、行長張毅今日在2026陸家嘴論壇上表示，建立健全功能完善的資本市場，銀行業金融機構可以在多個方面發揮更大的作用。其中之一是做好資本市場的參與者，強化銀行系耐心資本的優質供給。大型銀行已經建立起長期穩健的經營風格，參與到股權投資市場將有利於增強市場的內在穩定性。張毅以建行為例稱，近幾年該行堅持投早、投小、投長期、投硬科技，陸續參與了綠色、製造業和積體電路等國家級重大基金的組建，今後還將在量子科技、腦機介面等未來產業方面積極探索前瞻性佈局。
-
----
-
-### 2026-06-17 17:32:19  #公司
-
-【*ST太和：2025年淨虧損3.04億元 擬不進行利潤分配】*ST太和公告稱，公司2025年度實現合併報表歸屬於母公司股東的淨利潤為-3.04億元，擬定的2025年度利潤分配預案為不進行利潤分配。截至2025年12月31日，合併報表未分配利潤為-7.16億元，實收股本為1.13億元，未彌補的虧損達到實收股本總額三分之一。此外，會議還將審議2025年度董事會工作報告、確認公司董事2025年度薪酬、制定2026年度董事薪酬方案等議案。會議將於2026年6月24日召開。
-
----
-
-### 2026-06-17 17:32:07  #國際
-
-北約秘書長呂特：歐洲、美國、加拿大國防工業產出不足。
-
----
-
-### 2026-06-17 17:31:53  #公司
-
-【麗尚國潮：股東杭州驥瑜及其一致行動人累計減持2.00%】麗尚國潮公告，股東杭州驥瑜商業管理有限公司於2026年6月16日透過大宗交易方式減持公司股份1502.07萬股，佔公司總股本的1.97%。本次權益變動後，杭州驥瑜不再直接持有公司股份，其持股比例由1.97%下降至0.00%。杭州驥瑜及其一致行動人開化利錦科技有限公司合計持股比例由7.75%下降至5.78%，股東權益變動觸及1%刻度。
-
----
-
-### 2026-06-17 17:31:37  #公司
-
-【利亞德勵豐文化與小黃鴨德盈文旅達成戰略合作】據利亞德集團訊息，6月16日，廣州勵豐文化科技股份有限公司（簡稱“勵豐文化”）與小黃鴨德盈控股國際有限公司旗下全資子公司小黃鴨德盈文旅有限公司（簡稱“小黃鴨德盈文旅”）達成戰略合作，雙方將充分整合各自核心資源優勢，探索“IP+文旅”創新融合路徑。
-
----
-
-### 2026-06-17 17:31:09  #MKT News #Market Themes #AI Revolution #Commodities #Industrial Metals #Copper #Impact bullish
-
-【AI-driven copper rally lifts 10-yen coin metal value above face value】AI-driven demand has pushed copper prices so that the metal value of Japan's 10-yen coin now exceeds its face value. JX Advanced Metals, Mitsui Kinzoku and Mitsubishi Materials say the coin is about 95% copper, 4% zinc and 1% tin; using Japan exchange benchmark prices the metal content is worth roughly 10.4 yen. Japan depends on imported copper concentrate, leaving its domestic industry exposed to global price swings; JX Metals' domestic benchmark copper price was up 56% YoY as of May. Local media report a spike in water-meter thefts targeting copper-alloy components, with hundreds taken across multiple cities.
-
----
-
-### 2026-06-17 17:31:08  #市場 #國際
-
-【人工智慧拉動銅價飆升 10日元硬幣金屬價值已超過面值】日本10日元硬幣主要由銅製成，隨著人工智慧熱潮推動銅價上漲，其金屬價值已超過面值。根據JX Advanced Metals、Mitsui Kinzoku和Mitsubishi Materials最新公開資料，10日元硬幣約95%為銅、4%為鋅、1%為錫，按日本交易所採用的基準價格計算，金屬成分總價值約為10.4日元。日本的銅精礦依賴進口，因此本土產業對全球市場波動尤為敏感。JX Metals國內基準銅價截至5月的一年內已上漲56%。日本地方媒體報道稱，今年水錶盜竊案件異常激增，據信目標正是裝置中的銅合金部件。據報道，竊賊闖入公寓樓，在全日本多個城市盜走數百個水錶。
-
----
-
-### 2026-06-17 17:31:05  #Trading Economics #Markets #South Africa #Currency #Importance 1
-
-South African Rand Hovers Around 3-Month High — The South African rand traded around 16.2 per USD, holding close to the highest since early March, as traders weighed the latest inflation data while also eyeing the anticipated formal signing of the US-Iran peace agreement. Headline inflation rose to 4.5% in May, the steepest since July 2024, accelerating further from 4% in April, though below the expected 4.7%. Core inflation also quickened to 3.8% from 3.6%, signaling broader price pressures. The central bank increased rates in May, on expectations that inflation would rise as second-round effects of the Iran war and the energy crisis filtered through the economy. Meanwhile, most economists anticipated that the interim US-Iran deal to reopen the Strait of Hormuz could allow policymakers to keep the benchmark rate unchanged at the July 23 meeting.
 
 ---

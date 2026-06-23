@@ -1,7 +1,97 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-06-23 17:58:55_
-_本檔包含 3734 則快訊，約 649994 字_
+_更新時間：2026-06-23 18:08:37_
+_本檔包含 3735 則快訊，約 650537 字_
+
+---
+
+### 2026-06-20 00:28:34  #MKT News
+
+Lebanon's prime minister said the state should have independent authority to decide on war and peace.
+
+---
+
+### 2026-06-20 00:28:19  #公司 #市場
+
+【迦納正考慮將Gold Fields最大金礦交由本國企業掌控】迦納正考慮在Gold Fields Ltd.（金田公司）旗下Tarkwa金礦的租約於2027年4月到期時，將該礦的控制權移交給本國企業，這是迦納旨在加強對本國黃金產業控制力的一項舉措。知情人士透露，如果政府推進該計劃，迦納礦業企業需提交競標書以供評估；同時，當局也在權衡為Gold Fields延長租約的選項。移交Tarkwa金礦的所有權將有助於為迦納的工程師、供應商和企業家創造更多就業機會。在評估競標時，政府將重點關注競標方在環境修復、本地就業以及東道社群基礎設施建設方面的承諾。
+
+---
+
+### 2026-06-20 00:27:27  #MKT News #Important #Market Regions #Europe & UK
+
+【British media: PM Starmer to use weekend to weigh staying amid cabinet pressure】The Times reports that after Andy Burnham's by-election win, Prime Minister Starmer is weighing whether to remain in office amid rising pressure from his cabinet. He has publicly ruled out resigning and said he would contest a leadership challenge if Burnham mounted one; privately, aides say he recognizes growing calls from Labour MPs for him to step down. He is expected to spend the weekend with his family while deciding whether to continue resisting the pressure.
+
+---
+
+### 2026-06-20 00:22:19  #市場
+
+【德國30年期國債收益率週五漲7個基點，整體持續上揚】週五（6月19日）歐市尾盤，德國10年期國債收益率漲5.6個基點，報2.985%，本週累計下跌1個基點，整體交投於2.988%-2.914%區間。兩年期德債收益率漲3.9個基點，報2.646%，本週累漲2.9個基點，整體交投於2.547%-2.827%區間，6月18日北京時間14:00曾高開至2.827%，隨後快速下挫至2.618%；30年期德債收益率漲7.0個基點，報3.538%，本週累跌1.1個基點。2/10年期德債收益率利差漲1.691個基點，報+33.751個基點，本週累跌3.807個基點。本週，法國10年期國債收益率累跌0.3個基點，義大利10年期國債收益率累跌2.5個基點，西班牙10年期國債收益率累漲3.5個基點，希臘10年期國債收益率累跌2.1個基點。
+
+---
+
+### 2026-06-20 00:20:29  #其他
+
+《泰晤士報》訊息：英國首相斯塔默將在本週末考量自身去留。
+
+---
+
+### 2026-06-20 00:19:46  #國際
+
+【中國隊奪體操亞青賽男團金 】19日是2026年第19屆亞洲青年體操錦標賽的首個比賽日，賽事在貴州省遵義市奧體中心舉行，當日進行了男子團體、個人全能決賽暨單項預賽的比拼，中國隊力壓日本隊和印度隊奪得男團金牌。（新華社）
+
+---
+
+### 2026-06-20 00:19:27  #MKT News
+
+Brazil's finance minister said further monetary policy moves are for the central bank to decide but he believes there is room for another 25bps rate cut. He added an end to the Middle East war would imply Brazil may be moving toward disinflation.
+
+---
+
+### 2026-06-20 00:17:32  #市場
+
+布倫特原油日內漲1%，現報80.31美元/桶。
+
+---
+
+### 2026-06-20 00:13:18  #Trading Economics #Markets #Italy #Stock Market #Importance 0
+
+FTSE MIB Holds Near Record High — The FTSE MIB rose 0.3% to close at 52,849 on Friday, staying near record highs as gains in the energy sector supported the index. Markets remained focused on developments in the Middle East after planned follow-up US-Iran talks in Switzerland were canceled, adding fresh uncertainty to the diplomatic outlook. The news pushed oil prices modestly higher and lifted energy-related stocks, with Eni up 2.4%, Tenaris rising 2%, and Prysmian gaining 3.7%. Defense stocks also advanced on geopolitical concerns, with Leonardo up 1.7%. Financials traded mixed as energy-driven inflation concerns resurfaced, with UniCredit down 0.7% and Banco BPM losing 0.8%, while Intesa Sanpaolo added 0.4% and Generali gained 0.5%. Luxury stocks weakened on higher risk aversion, with Ferrari down 1.9% and Moncler falling 1.7%. Meanwhile, Pierre Wunsch said the European Central Bank may raise interest rates again next month if inflation continues to broaden.
+
+---
+
+### 2026-06-20 00:12:05  #Trading Economics #Markets #Italy #Stock Market #Importance 1
+
+The FTSE MIB Index Closes 0.30% Higher — The FTSE MIB Index gained 161 points or 0.30 percent on Friday to close at 52849 points. Gains were led by Fincantieri (3.39%), Saipem (3.19%) and Poste Italiane (2.58%). Biggest losers were Brunello Cucinelli (-3.80%), Moncler (-1.60%) and Lottomatica (-1.42%).
+
+---
+
+### 2026-06-20 00:11:52  #MKT News
+
+Hezbollah leader Qassim said the plan to destroy Hezbollah has failed, Israel’s conspiracy has come to an end, and final victory — defined as the complete and permanent expulsion of occupiers from every inch of Lebanese territory — is inevitable.
+
+---
+
+### 2026-06-20 00:11:21  #央行 #其他
+
+秘魯央行預測 2026 年通脹率為 3.8%，2027 年通脹率為 2.0%。
+
+---
+
+### 2026-06-20 00:11:05  #Trading Economics #Markets #Germany #Stock Market #Importance 1
+
+The DAX Index Closes 0.16% Lower — The DAX Index decreased 41 points or 0.16 percent on Friday to close at 24986 points. The decline was led by Volkswagen (-4.58%), Adidas (-1.71%) and Beiersdorf (-1.54%). On the upside, the strongest performers were Rheinmetall (2.67%), Bayer (1.86%) and Porsche Automobil (1.52%).
+
+---
+
+### 2026-06-20 00:10:05  #Trading Economics #Markets #France #Stock Market #Importance 1
+
+The CAC 40 Index Closes 0.55% Lower — The CAC 40 Index fell 47 points or 0.55 percent on Friday to close at 8421 points. Leading the losses are L'Oréal (-2.51%), Essilor (-2.31%) and Hermes International (-2.24%). Top gainers were Renault (3.20%), TotalEnergies SE (1.01%) and Dassault Systemes (0.88%).
+
+---
+
+### 2026-06-20 00:08:29  #MKT News
+
+【U.S. intelligence warns Israel may undermine U.S.-Iran accord】Multiple U.S. intelligence agencies have warned the Trump administration that Israeli Prime Minister Netanyahu may act to undermine President Trump's push for a long-term U.S.-Iran accord, U.S. officials say. Intelligence assesses Netanyahu, under heavy domestic political pressure ahead of autumn elections, needs to show voters he will not withdraw forces from Lebanon and is likely to escalate operations against Hezbollah. The report also says Israeli officials are deeply unhappy with key provisions of Trump’s memorandum, viewing them as weakening Israel’s core objectives.
 
 ---
 
@@ -22424,103 +22514,5 @@ China | Total Electricity Consumption (May) | actual 867100000000B | previous 82
 ### 2026-06-18 16:04:15  #MKT News #Important #Commodities #Energy #Market Regions #Greater China #Copper #Impact bullish #CNH #S&P500
 
 China's total electricity consumption rose 6.9% YoY in May, up from 6.0% in April.
-
----
-
-### 2026-06-18 16:04:08  #MKT News #Economic Calendar #Important
-
-China | Total Electricity Consumption (YoY) (May) | actual 6.9% | previous 6%
-
----
-
-### 2026-06-18 16:04:03  #Trading Economics #Economy #Norway #Interest Rate #Importance 2
-
-Norges Bank Signals Further Tightening Ahead — The Norges Bank kept its policy rate steady at 4.25% in June, as expected, while signaling that further tightening may be needed as inflation remains too high. Governor Ida Wolden Bache said rising business costs are likely to keep price pressures elevated and that the bank may raise rates again at one of its upcoming meetings. The central bank noted that inflation has stayed above target for several years, while economic activity has softened slightly. Norges Bank said uncertainty remains high due to the Middle East conflict and its impact on energy prices. Oil and gas prices have fallen since March, while the potential reopening of the Strait of Hormuz could reduce external price pressures. The bank’s updated forecast points to a policy rate slightly above 4.5% by year-end. Inflation is expected to gradually decline toward the 2% target by 2029, though the future rate path will depend on inflation and labor market developments.
-
----
-
-### 2026-06-18 16:03:56  #MKT News #Important #Market Regions #Greater China #Commodities #Energy #Copper #Impact bullish #CNH
-
-China's National Energy Administration: total electricity consumption rose 6.9% YoY in May 2026.
-
----
-
-### 2026-06-18 16:03:50  #其他
-
-【國家能源局：5月份，全社會用電量8671億千瓦時，同比增長6.9%】據國家能源局，5月份，全社會用電量8671億千瓦時，同比增長6.9%。1～5月，全社會用電量累計42018億千瓦時，同比增長5.7%。從分產業用電看，第一產業用電量574億千瓦時，同比增長5.6%。第二產業用電量27324億千瓦時，同比增長5.1%。第三產業用電量8055億千瓦時，同比增長8.6%。
-
----
-
-### 2026-06-18 16:03:34  #其他
-
-國際能源署署長比羅爾稱：國際能源署將與其合作成員國討論新能源戰略。
-
----
-
-### 2026-06-18 16:03:28  #公司 #市場 #觀點
-
-【博通盤前漲3.07%，現報404.97美元】博通盤前漲3.07%，現報404.97美元。訊息面上，摩根大通稱博通與谷歌TPU五年合作專案按計劃推進、AI收入可見性延伸至2031年，並維持“買入”上調目標價至580美元。
-
----
-
-### 2026-06-18 16:03:14  #公司 #市場
-
-【超威半導體盤前漲3.08%，現報528.27美元】超威半導體盤前漲3.08%，現報528.27美元。訊息面上，AMD與Rackspace簽署協議部署30兆瓦AI算力基礎設施，並獲聯博集團與伯恩斯坦上調目標價至600美元推動盤前走強。
-
----
-
-### 2026-06-18 16:02:52  #其他
-
-【2026年1季度末金融業機構總資產556.3萬億元】初步統計，2026年1季度末，我國金融業機構總資產為556.34萬億元，同比增長8.8%，其中，銀行業機構總資產為494.72萬億元，同比增長8.0%；證券業機構總資產為19.15萬億元，同比增長25.4%；保險業機構總資產為42.47萬億元，同比增長12.2%。金融業機構負債為509.53萬億元，同比增長9.0%，其中，銀行業機構負債為455.69萬億元，同比增長8.1%；證券業機構負債為15.14萬億元，同比增長30.9%；保險業機構負債為38.69萬億元，同比增長12.7%。
-
----
-
-### 2026-06-18 16:02:41  #國際
-
-市場訊息：韓國政府將燃油價格上限凍結再延長一個月。
-
----
-
-### 2026-06-18 16:02:34  #公司
-
-【艾華集團：超級電容相關產品目前不屬於公司主營業務範圍 截至目前未形成相關銷售收入】艾華集團公告，近期超級電容產品關注度較高，公司核心主營業務為研發、生產和銷售鋁電解電容器、薄膜電容器、電極箔和金屬化膜，超級電容相關產品目前不屬於公司主營業務範圍，未納入公司現有主營業務體系，截至目前未形成相關銷售收入，對公司當期及近期經營業績無重大影響。在AI伺服器業務方面，公司現階段主要處於產品匯入和產能爬坡階段，放量節奏取決於客戶驗證進度和供應鏈配套成熟度。目前AI伺服器在公司整體收入中的佔比低，且當前該業務仍處於早期階段，客戶認證週期、訂單釋放節奏及行業整體需求變化等因素均存在正常的不確定性。
-
----
-
-### 2026-06-18 16:02:28  #MKT News
-
-IEA Executive Director Birol said the crisis will create a new global energy landscape.
-
----
-
-### 2026-06-18 16:02:27  #MKT News
-
-Korean media NEWSIS reports the South Korean government will extend the freeze on the fuel price cap for another month.
-
----
-
-### 2026-06-18 16:02:13  #央行 #國際
-
-【今日特朗普要聞】
-1、特朗普於美國時間17日早晨稱，美伊達成的諒解備忘錄並非最終協議，若他對協議不滿或伊朗不守規矩，美方將恢復對伊轟炸，且該備忘錄不含立即解除對伊制裁的相關內容。
-2、特朗普於美國時間17日早晨同埃及總統會見記者時稱伊朗擁有核武器的機率僅 0.01%，認為美伊框架協議力度十足，還表示股市大漲、油價大跌足以印證市場對這份協議十分滿意，並透露霍爾木茲海峽將在一兩天內全面開放。
-3、特朗普於美國時間17日早晨在法國七國集團峰會上再度否認美方會向伊朗提供 3000 億美元重建資金，美國不會出資投資，他國可自行決定是否投資。
-4、特朗普在七國集團峰會後的記者會上稱自己未必會出席美伊諒解備忘錄簽署儀式，還稱協議順利則攬功、談崩便歸咎副總統萬斯。
-5、特朗普17日稱，美伊諒解備忘錄可能在18日或19日簽署。
-6、據美國官員，特朗普已親自遠端簽署旨在結束戰事、開放霍爾木茲海峽的美伊諒解備忘錄，協議提前生效、原定 19 日瑞士簽約儀式照常舉辦，提前簽署是為儘早打通海峽，伊朗要求暫不對外公開備忘錄文字。
-7、特朗普在法國 G7 峰會被問及相關計劃時表示美方將研究由本國軍工企業在歐洲、烏克蘭授權生產導彈的方案，因應對伊朗局勢消耗大量防空導彈庫存且擴產週期較長。
-8、特朗普於17日表示，過去兩天他在G7峰會期間和各國商討了俄烏衝突議題，已分別與普京、澤連斯基通話，並向各國領導人通報了和普京的溝通情況，重申自己有意推動俄烏實現停火。
-9、特朗普稱在七國集團上進行了一些非常良好的談話，他稱讚印度總理莫迪，並稱與印度的貿易協定正在推進當中，會在未來某個時間出訪印度。
-10、特朗普稱他同期黎巴嫩，認為黎巴嫩的問題需要解決，黎巴嫩總統將於未來一到兩週訪問美國，希望擴大《亞伯拉罕協議》的覆蓋範圍。
-11、特朗普在新任美聯儲主席沃什首次議息會議選擇維持利率不變、近半數官員預判年內或加息後受訪表示對此結果無所謂，認為加息會拖累經濟、情況反常，但他認可沃什的能力並表示會尊重沃什的政策判斷。
-12、特朗普於17日法國七國集團峰會記者會上再度公開感謝中俄在美伊戰事期間全程保持完全中立。
-13、特朗普17日在真相社交平臺發文稱蘋果將與英特爾合作在美國設計、製造晶片，雙方歷經一年多磋商已達成初步代工協議。
-14、特朗普稱與人工智慧公司Anthropic的談判進展順利，並在七國集團峰會上就人工智慧進行了一場很好的會議。
-
----
-
-### 2026-06-18 16:02:09  #MKT News #Important
-
-【Chinese Foreign Ministry: NATO should reflect on its role in peace and stability】At a routine press briefing on the 18th, Foreign Ministry spokesperson Lin Jian said China has maintained an objective, impartial stance on the Ukraine crisis, has not supplied lethal weapons to any party, and strictly controls military‑civilian dual‑use items. He urged NATO to correct erroneous perceptions of China, stop stoking confrontation and shifting blame, and deeply reflect on the role and impact of an organization born in the Cold War on today’s peace and stability.
 
 ---
