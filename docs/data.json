@@ -1,7 +1,31 @@
 {
-  "updated": "2026-06-24 03:53:20",
-  "count": 17286,
+  "updated": "2026-06-24 03:57:23",
+  "count": 17285,
   "items": [
+    {
+      "id": "mkt:019ef60d-6587-7dd8-b0e2-d89cc904be2a",
+      "time": "2026-06-24 03:55:33",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Congress passes symbolic war powers resolution on Iran】The Senate voted 50-48 Tuesday to approve a House-passed war powers concurrent resolution that calls on the president to \"withdraw US forces from hostilities against Iran\" unless Congress declares war or authorizes use of military force. The measure, marking a rare congressional rebuke of President Trump’s handling of the US-Iran conflict, is the first such resolution to clear both chambers. As a concurrent resolution it carries no legal force, requires no presidential signature and is largely symbolic."
+    },
+    {
+      "id": "4951113",
+      "time": "2026-06-24 03:54:39",
+      "tags": [
+        "國際"
+      ],
+      "text": "【特朗普政府擬提名白宮助理執掌美國食品藥品監督管理局】美國白宮國內政策助理海蒂·奧弗頓是特朗普政府考慮出任美國食品藥品監督管理局局長的最終候選人之一。相關人選尚未敲定，目前尚不清楚奧弗頓能否獲得衛生部長小羅伯特·F·肯尼迪的支援。FDA局長提名人選需經參議院投票確認。"
+    },
+    {
+      "id": "4951112",
+      "time": "2026-06-24 03:53:46",
+      "tags": [
+        "公司"
+      ],
+      "text": "穆迪評級確認強生公司B2級企業家族評級，展望調整為穩定。"
+    },
     {
       "id": "4951111",
       "time": "2026-06-24 03:51:59",
@@ -158402,45 +158426,6 @@
         "焦點"
       ],
       "text": "【納斯達克中國金龍指數收跌2.42%】海天網路跌13.94%，水滴公司跌9.28%，禾賽科技跌8.47%，復朗集團跌7.84%，BOSS直聘跌7.08%。"
-    },
-    {
-      "id": "4939319",
-      "time": "2026-06-17 03:55:02",
-      "tags": [
-        "其他"
-      ],
-      "text": "市場訊息： 出於安全考量，微軟放棄了一份價值 30 億美元、租賃甲骨文雲算力的合作協議。"
-    },
-    {
-      "id": "mkt:019ed200-498b-7dd8-b039-c0e6cfdec733",
-      "time": "2026-06-17 03:54:54",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Equatorial Guinea cabinet submits collective resignation】Equatorial Guinea Vice-President Mangue said on social media on the evening of the 16th that Prime Minister Manuel Osa Nsue Nsua submitted a collective resignation of all cabinet members to the president that day. Mangue said a review found the government's completion rate of its set targets was \"barely 10%\". He said the state had committed substantial human, material and financial resources to meet public needs but execution fell well short of expectations and promises, and called for a more dynamic, efficient and people-focused administration."
-    },
-    {
-      "id": "4939318",
-      "time": "2026-06-17 03:54:44",
-      "tags": [
-        "其他"
-      ],
-      "text": "【赤道幾內亞內閣集體辭職】赤道幾內亞副總統曼格16日晚在社交媒體發文說，赤幾總理曼努埃爾·奧薩·恩蘇埃·恩蘇阿當天向總統提交了所有內閣成員的集體辭呈。曼格表示，此前經評估確認，本屆政府既定目標的完成率僅“勉強達到10%”。他說：“國家為政府配置了大量人力、物力和財力資源以滿足民眾需求，但目前的執行程度與預期及所作承諾相比差距較大。”曼格表示，赤道幾內亞需要一個更具活力、更高效、更貼近民眾需求的行政機構。（新華社）"
-    },
-    {
-      "id": "mkt:019ed200-0c19-7dd8-b039-bd0a750a6852",
-      "time": "2026-06-17 03:54:38",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Microsoft",
-        "Market Themes",
-        "Magnificent 7",
-        "MSFT.O",
-        "Impact bearish",
-        "ORCL.N"
-      ],
-      "text": "Business Insider reports Microsoft (MSFT.O) abandoned a $3 billion cloud capacity lease with Oracle (ORCL.N) over security concerns."
     }
   ]
 }
