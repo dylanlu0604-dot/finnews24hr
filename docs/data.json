@@ -1,7 +1,119 @@
 {
-  "updated": "2026-06-23 08:18:33",
-  "count": 17312,
+  "updated": "2026-06-23 08:22:35",
+  "count": 17317,
   "items": [
+    {
+      "id": "4949122",
+      "time": "2026-06-23 08:21:54",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "日本東證股價指數(TOPIX)下跌0.5%，報4,074.09點。"
+    },
+    {
+      "id": "mkt:019ef1da-b062-7dd8-b0c7-2a2828616c13",
+      "time": "2026-06-23 08:21:41",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "South Korea's KOSPI slid below 9,000, down 1.29% intraday."
+    },
+    {
+      "id": "4949121",
+      "time": "2026-06-23 08:20:58",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "韓國綜合股價指數下跌1%，至9021點。"
+    },
+    {
+      "id": "mkt:019ef1d9-d70f-7dd8-b0c7-20c4043807a1",
+      "time": "2026-06-23 08:20:45",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "South Korea's KOSPI fell 1.00% intraday."
+    },
+    {
+      "id": "mkt:019ef1d9-9dd0-7dd8-b0c7-1a4b94a41b19",
+      "time": "2026-06-23 08:20:31",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "9984.T",
+        "Impact bearish"
+      ],
+      "text": "SoftBank shares in Tokyo fell 5.3%."
+    },
+    {
+      "id": "4949120",
+      "time": "2026-06-23 08:20:12",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "軟銀集團股價下跌5.3%，此前Arm股價隔夜大幅下挫。"
+    },
+    {
+      "id": "mkt:019ef1d8-c94d-7dd8-b0c7-140af65141eb",
+      "time": "2026-06-23 08:19:36",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "Magnificent 7",
+        "Star Stocks",
+        "Tesla",
+        "TSLA.O",
+        "Impact bullish"
+      ],
+      "text": "【CITIC Securities: 2026 Seen as Potential Breakout Year for Humanoid Robot Vertical Applications】CITIC Securities says 2026 could be a breakout year for vertical applications of humanoid robots as rising robot generalization enables industrial and commercial deployments. The report calls physical AI the next wave of AI and identifies robots as a primary physical carrier. It highlights Tesla’s Optimus approaching mass production, with supply‑chain volume guidance becoming clearer and the ramp progressively validated; upcoming V3 product releases and mass‑production progress warrant close monitoring. Ongoing IPOs of domestic robot makers may trigger a hardware valuation re-rating; the firm expects continued sector catalysts over the next quarter and recommends focusing on high‑quality segments of the value chain."
+    },
+    {
+      "id": "4949119",
+      "time": "2026-06-23 08:19:25",
+      "tags": [
+        "其他"
+      ],
+      "text": "【加拿大推出首部國家級核能戰略】當地時間6月22日，加拿大能源與自然資源部部長蒂姆·霍奇森公佈該國首份國家核能戰略，他表示，該計劃將復興加拿大民用核能發展。霍奇森表示，新的國家核能戰略與該電力戰略相契合，將由四大“支柱”組成：推動在加拿大各地新建核電專案；將加拿大定位為全球首選的核能供應商和出口國；擴大鈾礦生產和核燃料機遇，同時支援建設世界一流的核廢料長期管理體系；發展加拿大核能新創新。霍奇森表示，加拿大計劃在未來15年新建10座核反應堆，向更多國家出售加拿大製造反應堆，並將鈾出口量翻一番。（中央廣電總檯國際線上）"
+    },
+    {
+      "id": "4949118",
+      "time": "2026-06-23 08:18:52",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "【中信建投：2026年有望成為人形機器人垂類應用大年 重視機器人場景應用表現】 中信建投證券研報稱，2026年有望成為人形機器人垂類應用大年，重視機器人場景應用表現。人形機器人的落地應用是市場關注的重點，2026年有望成為人形垂類應用大年，隨著機器人泛化水平提高，預計在工業、商業等領域將逐步看到機器人落地應用。物理AI是人工智慧的下一波浪潮，機器人是AI最好的物理載體之一，值得重視。此外，Optimus量產漸行漸近，近期對供應鏈量產量綱指引逐步清晰，其放量節奏逐步得以驗證，後續V3產品釋出、量產推進仍值得密切關注。此外，國產機器人公司IPO持續推進，有望帶來本體估值重估，預計未來一個季度內板塊催化不斷，建議聚焦優質環節。"
+    },
+    {
+      "id": "4949117",
+      "time": "2026-06-23 08:18:47",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "10年期日本國債收益率上漲1.0個基點，至2.680%。"
+    },
+    {
+      "id": "4949116",
+      "time": "2026-06-23 08:18:35",
+      "tags": [
+        "國際"
+      ],
+      "text": "【聯合國糧農組織：新一輪厄爾尼諾現象威脅全球多地農業】當地時間6月22日，聯合國糧農組織釋出全球農業高風險區分佈圖，警告新一輪厄爾尼諾現象或將在未來數週內形成，對全球農業構成嚴峻威脅。基於過去41年衛星影像資料的風險評估，薩赫勒地區、南部非洲、南亞、東南亞、中美洲乾旱走廊及加勒比地區被列為風險最高區域，部分農田和牧場在未來數月出現乾旱的機率超過50%。糧農組織指出，當前全球氣溫較以往更高，衝突與糧食不安全問題廣泛存在，本輪厄爾尼諾現象將對脆弱地區造成更為嚴重的衝擊。（央視）"
+    },
+    {
+      "id": "mkt:019ef1d7-d248-7dd8-b0c7-0eef28a9cd41",
+      "time": "2026-06-23 08:18:33",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【FAO warns new El Nifio threatens agriculture across multiple regions】On June 22 the UN Food and Agriculture Organization (FAO) released a global high‑risk agricultural map, warning a new El Nifio could form within weeks and pose a severe threat to crop and pasture production. Using 41 years of satellite imagery, FAO identified the Sahel, southern Africa, South Asia, Southeast Asia, Central America’s dry corridor and the Caribbean as highest‑risk areas, with some cropland and rangeland facing >50% odds of drought in the coming months. FAO said higher baseline global temperatures and widespread conflict and food insecurity will amplify impacts on vulnerable regions."
+    },
     {
       "id": "mkt:019ef1d7-076d-7dd8-b0c7-02732115a6f8",
       "time": "2026-06-23 08:17:41",
@@ -158963,69 +159075,6 @@
         "國際"
       ],
       "text": "【機構：英國6月房屋要價創14年來同月最大跌幅】英國房地產網站Rightmove週一表示，由於異常炎熱的天氣以及伊朗戰爭引發的經濟不確定性打擊了需求，本月英國新掛牌房屋和公寓的要價創下14年來同月最大跌幅。在Rightmove統計的6月期間（5月10日至6月6日），新掛牌房產的要價較前一個月下降了0.6%。而在5月期間，房價環比上漲1.2%。Rightmove房產專家Colleen Babcock表示：“6月出現如此幅度的價格下跌實屬罕見，因為按照往年情況，這一時期通常會出現溫和上漲。”“此次情況不同，是多種因素共同作用的結果，包括整體經濟不確定性、5月銀行假日的時間安排以及異常的熱浪，再加上市場上待售房源數量較多，這些因素似乎共同導致了傳統上較為清淡的夏季市場提前到來。”"
-    },
-    {
-      "id": "4937304",
-      "time": "2026-06-16 08:22:23",
-      "tags": [
-        "公司",
-        "市場",
-        "觀點"
-      ],
-      "text": "【摩根大通因估值與成長性上調恆瑞醫藥評級至增持】摩根大通將恆瑞醫藥港股評級上調至增持，理由是該股估值具備吸引力、盈利走勢持續改善，且管線價值快速提升。包括 Yang Huang在內的分析師在研報中寫道：“近期股價下跌源於宏觀層面的不利因素，其中包括地緣緊張局勢加劇，以及機構普遍減持港股醫藥資產以降低風險；本次下跌是整個板塊估值重估，並非恆瑞單獨承壓。”考慮到地緣衝突加劇或將影響未來創新藥對外授權交易，機構下調了企業對外合作授權收入預期；目標價由70港元下調至68港元。"
-    },
-    {
-      "id": "4937303",
-      "time": "2026-06-16 08:21:41",
-      "tags": [
-        "其他"
-      ],
-      "text": "日經指數抹去早前跌幅，現漲0.4%，報69583.75點。"
-    },
-    {
-      "id": "4937302",
-      "time": "2026-06-16 08:20:20",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【特朗普稱美伊諒解備忘錄已簽署，是否減免制裁將視伊朗表現】當地時間6月15日，赴法國出席七國集團峰會的美國總統特朗普在與法國總統馬克龍會晤時稱，與伊朗的協議（諒解備忘錄）“已經簽署”，協議文字將在本週五（6月19日）正式簽署儀式後的某個時間公佈。他還補充說，霍爾木茲海峽屆時也將完全開放。根據美國副總統萬斯等人的表態，特朗普所稱的“已簽署”可能是指已線上上電子簽署。特朗普還稱，針對伊朗的任何制裁減免“實際上關乎其行為表現，如果他們按規矩行事，制裁減免就會生效。”（CCTV國際時訊）"
-    },
-    {
-      "id": "4937301",
-      "time": "2026-06-16 08:19:13",
-      "tags": [
-        "公司",
-        "市場",
-        "央行",
-        "國際"
-      ],
-      "text": "【日經指數下跌0.1% 受科技和金融股拖累】日本股市在早盤交易中走低，此前週一受美伊和平協議推動大幅上漲。日經225指數下跌0.1%，至69268.36點。科技股和金融股領跌。軟銀集團下跌2.8%，野村控股下跌2.1%。在美國總統特朗普表示霍爾木茲海峽將於週五全面開放後，投資者正密切關注原油價格。日本央行定於週二晚些時候公佈的利率決定也備受關注。"
-    },
-    {
-      "id": "4937300",
-      "time": "2026-06-16 08:19:06",
-      "tags": [
-        "公司"
-      ],
-      "text": "【聖邦股份推出45V、1.5A步進電機驅動器SGM42685】據聖邦股份訊息，聖邦股份推出SGM42685，一款整合電流檢測、1/256微步進及高階衰減模式的45V、1.5A步進電機驅動器。該器件可應用於自動取款機、3D印表機/鐳射印表機、舞臺燈光裝置、多功能印表機/掃描器、紡織與縫紉裝置、辦公與家庭自動化和工廠自動化與機器人等。"
-    },
-    {
-      "id": "4937299",
-      "time": "2026-06-16 08:18:40",
-      "tags": [
-        "市場",
-        "觀點"
-      ],
-      "text": "【中信建投：2030碳達峰目標在即 綠電氫氨醇確定性增強】中信建投證券釋出研究報告稱，伴隨“雙碳”考核的頂層設計逐步完善，地方政府的碳排放管控有望持續收緊。在此基礎上，綠色燃料及綠色原料的需求有望持續增長，綠色電力的非電利用市場將加速拓展。火電方面，目前在可再生能源出力政策的情況下，動力煤價格大幅上漲可能較小，火電燃料成本漲幅可控。同時，火電26年年度長協電價同比下降，後續月度交易存在漲價空間。新能源方面，在新能源消納壓力增長且裝機規模有望持續增長的大背景下，預期 “新能源非電消納”及“算電協同”市場潛力有望逐漸兌現。"
-    },
-    {
-      "id": "mkt:019ecdcb-51ac-7dd8-b017-f85f9984004f",
-      "time": "2026-06-16 08:18:34",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【CITIC Securities: Strait reopening possible; monitor tanker valuation inflection】CITIC Securities says a partial reopening of the Strait of Hormuz in late June would boost VLCC fleet efficiency. Phase 1: Gulf bunker fuel would likely flow first to fuel-short regions such as Southeast Asia, driving a temporary spike in freight rates; spot differentials and the pace of supply-chain normalization would be key drivers. Phase 2: inventory replenishment as Gulf producers raise output while consumers restock; a sustained inventory gap could be an important marginal variable over the next year. CITIC flags Q2 2026 quarterly results for major tanker owners could reach new highs and urges monitoring for a valuation inflection among oil-transport leaders."
     }
   ]
 }
