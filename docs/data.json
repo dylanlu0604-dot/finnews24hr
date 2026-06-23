@@ -1,7 +1,94 @@
 {
-  "updated": "2026-06-23 11:00:43",
-  "count": 17276,
+  "updated": "2026-06-23 11:04:46",
+  "count": 17281,
   "items": [
+    {
+      "id": "mkt:019ef26f-615a-7dd8-b0ca-f71868e12c8f",
+      "time": "2026-06-23 11:04:06",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Guanggang Gas: specialty gases to meet China semiconductor expansion; NF3 still in planning】At an earnings briefing, Guanggang Gas said its nitrogen trifluoride (NF3) project remains in planning/construction and is not yet in production. Projects in Hubei (Qianjiang), Anhui (Hefei) and Shanghai for hexafluorobutadiene, hydrobromic acid (HBr) and electronic‑grade hydrogen chloride (HCl) have completed mechanical completion and are entering commissioning, testing and validation. The company said these specialty‑gas products will support domestic semiconductor firms' ongoing capacity expansion. Guanggang’s SUPER‑N series has won US ASME and South Korea KGS certification; the firm says performance is on par with international majors and commercially competitive."
+    },
+    {
+      "id": "4949407",
+      "time": "2026-06-23 11:03:38",
+      "tags": [
+        "國際"
+      ],
+      "text": "【#以部長威脅將貝魯特變成加沙】以色列國家安全部長、極右翼政治人士本-格維爾6月22日威脅黎巴嫩稱，若以色列安全受到威脅，“貝魯特就會變成（加沙地帶）拜特哈嫩的樣子”，並警告稱，若黎巴嫩允許其領土成為攻擊以色列的基地，貝魯特將無法照常運轉，“誰選擇與以色列開戰，誰就要承擔後果”。 （CCTV國際時訊）"
+    },
+    {
+      "id": "mkt:019ef26e-f1e6-7dd8-b0ca-ee97823f83c5",
+      "time": "2026-06-23 11:03:37",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "Hang Seng Index",
+        "Impact bearish"
+      ],
+      "text": "Hong Kong stocks opened higher before reversing; HSI fell 1.0% and the Hang Seng Tech Index dropped 1.8%."
+    },
+    {
+      "id": "4949406",
+      "time": "2026-06-23 11:03:23",
+      "tags": [
+        "國際"
+      ],
+      "text": "【以部長威脅將貝魯特變成加沙】以色列國家安全部長、極右翼政治人士本-格維爾6月22日威脅黎巴嫩稱，若以色列安全受到威脅，“貝魯特就會變成（加沙地帶）拜特哈嫩的樣子”，並警告稱，若黎巴嫩允許其領土成為攻擊以色列的基地，貝魯特將無法照常運轉，“誰選擇與以色列開戰，誰就要承擔後果”。（CCTV國際時訊）"
+    },
+    {
+      "id": "4949405",
+      "time": "2026-06-23 11:03:05",
+      "tags": [
+        "國際"
+      ],
+      "text": "【機構：馬來西亞下半年汽車銷量料將上升】RHB IB分析師Iftaar Hakim Rusli在一份報告中表示，受季節性因素以及新車型推出的提振，馬來西亞下半年汽車銷量可能會回升。他預計Proton的e.MAS 7 Premium Plus、比亞迪的Atto 3和Mazda的CX-5等車型的推出將支撐需求。然而，美伊和平談判的進展可能會促使一些消費者採取觀望態度。他補充說，逐漸上升的通脹也可能拖累非必需性支出。RHB對馬來西亞汽車和汽車零部件板塊維持中性評級，並將森那美列為首選股。"
+    },
+    {
+      "id": "4949404",
+      "time": "2026-06-23 11:02:58",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【廣鋼氣體：公司特氣產品將滿足國內半導體企業持續擴張需求】廣鋼氣體(688548)近日在業績說明會上表示，公司三氟化氮專案目前仍在規劃建設階段，尚未投入生產。公司目前在湖北潛江、安徽合肥以及上海建設的六氟丁二烯、溴化氫以及電子級氯化氫專案已完成機械竣工，陸續投入產品除錯生產，並逐步推進驗證。公司特氣產品將滿足國內半導體企業持續擴張需求。公司SUPER-N系列產品已取得美國ASME和韓國KGS認證，產品效能比肩國際巨頭，具有較強的市場競爭力。自2020年始，廣鋼氣體持續為國內主流光纖客戶供氣，合作關係穩固良好。"
+    },
+    {
+      "id": "4949403",
+      "time": "2026-06-23 11:02:16",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金失守4160美元/盎司，日內跌1.02%。"
+    },
+    {
+      "id": "4949402",
+      "time": "2026-06-23 11:02:16",
+      "tags": [
+        "市場"
+      ],
+      "text": "紐約期金日內跌1%，現報4160.10美元/盎司。"
+    },
+    {
+      "id": "mkt:019ef26c-6617-7dd8-b0ca-e66736fe6c1e",
+      "time": "2026-06-23 11:00:50",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Kingsoft Office says task force investigating WPS C‑drive usage; free fixes available】Kingsoft Office said it has set up a task force to investigate user reports that WPS is consuming excessive C‑drive space and has provided remedies. All fixes are free and require no subscription: change cache/backup storage to another disk via WPS cloud settings or File > Backup & Recovery > Backup Center; manually clear local caches and backups (deleting local copies will not affect files stored in the cloud); and choose a custom install path during installation."
+    },
+    {
+      "id": "4949401",
+      "time": "2026-06-23 11:00:31",
+      "tags": [
+        "市場"
+      ],
+      "text": "現貨白銀<XAG=>下跌近3%，至每盎司63.21美元。"
+    },
     {
       "id": "mkt:019ef26b-adb4-7dd8-b0ca-d9e1dfa09d43",
       "time": "2026-06-23 11:00:03",
@@ -158508,47 +158595,6 @@
         "公司"
       ],
       "text": "【研究：社媒和影片平臺首次成為全球最主要新聞來源】英國牛津大學下屬的路透社新聞研究所16日釋出最新年度報告說，全球新聞受眾如今獲取資訊時，比以往更傾向於使用社交媒體和影片平臺，而非傳統媒體。該年度報告追蹤新聞媒體變革趨勢，今年的研究結果基於輿觀調查公司今年早些時候在48個國家和地區對近10萬人展開的線上調查。法新社援引報告主要作者吉姆·伊根的話報道，2026年標誌著“一個重要的里程碑：社交媒體和影片網路首次超過其他途徑，以54%的佔比成為全球最廣泛使用的新聞來源”。“將這一現象視為一種趨勢而非劇變更為恰當，但這無疑是一個重要的時刻。”（新華社）"
-    },
-    {
-      "id": "4937601",
-      "time": "2026-06-16 11:04:27",
-      "tags": [
-        "其他"
-      ],
-      "text": "【中歐班列“東通道”累計通行量突破4萬列】從中國鐵路哈爾濱局獲悉，截至2026年6月16日，經中歐班列“東通道”滿洲里、綏芬河、同江鐵路口岸累計通行的中歐班列已突破4萬列大關，傳送貨物超390萬標箱。"
-    },
-    {
-      "id": "4937600",
-      "time": "2026-06-16 11:04:11",
-      "tags": [
-        "國際"
-      ],
-      "text": "【伊朗2比2戰平紐西蘭】美加墨世界盃小組賽G組第1輪，伊朗2-2戰平紐西蘭。紐西蘭兩次取得領先，兩粒進球均來自伍德助攻賈斯特破門，禮薩揚、穆希比為伊朗扳平比分。亞洲球隊目前仍保持不敗。"
-    },
-    {
-      "id": "4937599",
-      "time": "2026-06-16 11:02:41",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "丙烯連續主力合約日內跌6%，現報7436.00元。"
-    },
-    {
-      "id": "4937598",
-      "time": "2026-06-16 11:01:26",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "【市場監管總局：徵集科研力量 攻關食品摻假檢驗關鍵技術】市場監管總局釋出2026年食品補充檢驗方法“揭榜掛帥”專案榜單，面向全國徵集科研力量，集中攻關三類食品摻假檢驗關鍵技術。本次榜單明確三大重點攻關領域。一是酒類產品摻假鑑別與定量測定，重點研發白酒中外源性乙醇以及呈色、呈香、呈味物質的系統測定方法。二是乳及乳製品真偽檢測，著力破解羊乳摻雜牛乳等鑑別、定量測定難題。三是調味品摻假檢驗，主要針對醬油違規摻雜其他水解蛋白等問題。此次“揭榜掛帥”旨在突破食品摻假檢驗核心技術瓶頸，補齊監管技術短板，嚴厲打擊食品摻雜摻假違法行為，切實保障人民群眾“舌尖上的安全”。"
-    },
-    {
-      "id": "4937597",
-      "time": "2026-06-16 11:01:00",
-      "tags": [
-        "其他"
-      ],
-      "text": "【黑龍江省紀委副書記、省監委副主任姜宏偉被查】黑龍江省紀委副書記、省監委副主任姜宏偉涉嫌嚴重違紀違法，目前正接受中央紀委國家監委紀律審查和監察調查。（央視新聞）"
     }
   ]
 }
