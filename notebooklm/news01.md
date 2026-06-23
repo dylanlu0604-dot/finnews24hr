@@ -1,7 +1,289 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-06-24 03:21:04_
-_本檔包含 3408 則快訊，約 650278 字_
+_更新時間：2026-06-24 04:17:36_
+_本檔包含 3383 則快訊，約 650766 字_
+
+---
+
+### 2026-06-24 04:15:13  #Trading Economics #Markets #Canada #Stock Market #Importance 1
+
+TSX Slips on Global Tech Selloff — The S&P/TSX Composite Index fell 0.2% to close at 34,927 on Tuesday, tracking global equities amid a broad selloff in technology stocks and persistent concerns over elevated interest rates. Worries that speculative AI spending by hyperscalers may be running ahead of fundamentals weighed on North American tech shares and hurt overall risk appetite. Celestica plunged 6.2%, leading losses in the tech sector. Gold prices also declined, extending pressure on mining stocks following the hawkish projections from the US Federal Reserve last week. Agnico Eagle shed 3.5%, Barrick lost 4.7%, and WPM dropped 4.1%. Meanwhile, oil prices fell for a second straight session as supply concerns eased amid progress in restoring shipments through the Strait of Hormuz, reducing fears of energy-driven inflation but weighing on energy shares.
+
+---
+
+### 2026-06-24 04:14:53  #公司
+
+黑石集團預計2026年第二季度已實現業績收入及主體投資收益將超5億美元。
+
+---
+
+### 2026-06-24 04:14:37  #市場
+
+聯邦快遞股價盤後交易跌3.6%。
+
+---
+
+### 2026-06-24 04:12:56  #國際
+
+【特朗普稱美國正致力於與伊朗達成一項公平協議】當地時間6月23日，美國總統特朗普表示，美國“正致力於與伊朗達成一項公平的協議”，以結束霍爾木茲海峽的衝突。他稱，僅在前一天（6月22日），就有1900萬桶石油透過霍爾木茲海峽運輸。特朗普再次強調稱“伊朗不能擁有核武器”，並表示當前相關工作進展順利。（央視新聞）
+
+---
+
+### 2026-06-24 04:12:41  #MKT News #Commodities #Energy #WTI #Impact bearish #Brent
+
+【Trump says U.S. seeking fair deal with Iran to end Strait of Hormuz conflict】On June 23, Trump said the U.S. is seeking a fair deal with Iran to end the conflict in the Strait of Hormuz, noting 19 million barrels of oil transited the strait on June 22. He reiterated that Iran must not possess nuclear weapons and said related efforts are progressing well.
+
+---
+
+### 2026-06-24 04:11:04  #國際
+
+【美參議院透過決議 旨在限制特朗普對伊戰爭權力】當地時間6月23日，美國國會參議院以50票贊成、48票反對透過眾議院此前已透過的關於伊朗的戰爭權力決議。這是相關決議首次獲得國會兩院透過。該決議要求總統在未經國會宣戰或授權使用武力的情況下，結束美國對伊朗的軍事行動。不過，由於該決議屬於國會共同決議，不具有法律約束力，也無需總統簽署，因此主要具有象徵意義。
+
+---
+
+### 2026-06-24 04:09:34  #MKT News
+
+【Trump administration mulls White House aide Heidi Overton for FDA commissioner】White House domestic policy aide Heidi Overton is among the final candidates the Trump administration is considering to lead the FDA. No selection has been made and it is unclear whether Overton has the backing of Health Secretary Robert F. Kennedy Jr. Any nominee for FDA commissioner would require Senate confirmation.
+
+---
+
+### 2026-06-24 04:09:19  #公司
+
+聯邦快遞：將擇機回購至多10億美元公司股票。
+
+---
+
+### 2026-06-24 04:09:06  #Trading Economics #Markets #United States #Stock Market #Importance 2
+
+US Stocks Close Lower on Tech Selloff — US stock indices closed negative on Tuesday amid a selloff in heavyweight chip producers. The S&P 500 fell 1.4%, and the Nasdaq 100 lost 3.3% as AI infrastructure companies, including semiconductor and memory chip producers, tanked on increasing skepticism that AI spending by hyperscalers will not meet returns. Also, SK Hynix slowed production of advanced AI chips to boost commodity DRAM capacity, a sign that demand for compute could slow. Nvidia (-3.1%), Micron (-13.2%), AMD(-5.8%), Broadcom (-3.1%), Sandisk (-11.2%), and Qualcomm (-8%) posted losses. Tesla lost 4.7% and Oracle slipped 5.7%. Meanwhile, SpaceX added 1%, rebounding as it issued bonds only one week after its IPO, adding to caution on colossal capital expenditure. Treasury yields remained elevated despite the decline in energy prices following the hawkish dot plot last week, limiting any respite for traditional sectors of the economy. Gains for healthcare and consumer defensive companies aided the Dow to close near flat.
+
+---
+
+### 2026-06-24 04:06:05  #公司
+
+【聯邦快遞財報超市場預期，預計本年度利潤將實現增長】多位訊息人士稱，聯邦快遞集團最新季度盈利資料好於華爾街一致預期，公司預計全年利潤增長，為其精簡業務的戰略提供利好支撐。聯邦快遞週二釋出公告稱，第四財季調整後每股收益6.31美元。市場一致預期均值為5.97美元。公司表示，2026自然年調整後每股收益區間為16.90–18.10美元，高於2025年預估的15美元。
+
+---
+
+### 2026-06-24 04:05:59  #MKT News #Market Regions #Wall Street (US) #S&P500 #Impact bearish #Dow #Nasdaq100
+
+U.S. equities closed lower on Tuesday, June 23: the Dow Jones Industrial Average fell 45.87 points, or 0.09%, to 51,666.84; the S&P 500 fell 107.29 points, or 1.44%, to 7,365.50; the Nasdaq Composite fell 579.56 points, or 2.21%, to 25,587.04.
+
+---
+
+### 2026-06-24 04:05:52  #Trading Economics #Markets #United States #Earnings #Importance 0
+
+FedEx earnings above expectations at 6.31 USD — FedEx (FDX) released earnings per share at 6.31 USD, compared to market expectations of 5.96 USD.
+
+---
+
+### 2026-06-24 04:02:27  #其他
+
+聯邦快遞預計2026全年持續經營業務調整後每股收益區間為16.90至18.10美元。
+
+---
+
+### 2026-06-24 04:02:17  #其他 #焦點
+
+費城半導體指數收跌7.9%，創6月5日以來最大跌幅。
+
+---
+
+### 2026-06-24 04:02:01  #MKT News #Important #Star Stocks #NVIDIA #Market Themes #Magnificent 7 #Nasdaq100 #Impact bearish #MU.O #NVDA.O
+
+【U.S. close: Nasdaq down 2.2%, chip stocks plunge】U.S. stocks closed Tuesday: Dow fell 0.09%, S&P 500 fell 1.4%, Nasdaq fell 2.2%. Philadelphia Semiconductor Index plunged 7.8%; Marvell (MRVL.O) down 9%, Micron (MU.O) down 13%, NVIDIA (NVDA.O) down 4%. SpaceX (SPCX.O) rose 1%. Nasdaq Golden Dragon China Index fell 0.55%; XPeng (XPEV.N) down more than 4%.
+
+---
+
+### 2026-06-24 04:01:44  #國際
+
+特朗普表示，委內瑞拉應被納入美國石油產量統計資料之中。
+
+---
+
+### 2026-06-24 04:00:48  #市場 #焦點
+
+【美股收盤：三大股指集體收跌】道指跌0.09%，標普500指數跌1.43%，納指跌2.18%。閃迪跌13.75%，美光跌13.23%，VRT跌11.08%，ON SEMICONDUCTOR跌11.06%，Coherent Corp跌10.38%。“七姐妹”方面：微軟漲1.89%，亞馬遜漲0.63%，Meta Platforms跌0.18%，谷歌跌0.67%，蘋果跌0.80%，英偉達跌4.03%，特斯拉跌5.81%。
+
+---
+
+### 2026-06-24 04:00:02  #市場 #焦點
+
+【納斯達克中國金龍指數收跌0.60%】海天網路跌8.95%，阿特斯跌7.99%，復朗集團跌6.51%，新氧跌6.39%，嗶哩嗶哩跌4.68%。
+
+---
+
+### 2026-06-24 03:57:44  #MKT News
+
+AP reports Republican senators who have clashed with TRUMP in recent weeks will have a chance to question him face-to-face at a Capitol luncheon on Wednesday.
+
+---
+
+### 2026-06-24 03:55:33  #MKT News
+
+【Congress passes symbolic war powers resolution on Iran】The Senate voted 50-48 Tuesday to approve a House-passed war powers concurrent resolution that calls on the president to "withdraw US forces from hostilities against Iran" unless Congress declares war or authorizes use of military force. The measure, marking a rare congressional rebuke of President Trump’s handling of the US-Iran conflict, is the first such resolution to clear both chambers. As a concurrent resolution it carries no legal force, requires no presidential signature and is largely symbolic.
+
+---
+
+### 2026-06-24 03:54:39  #國際
+
+【特朗普政府擬提名白宮助理執掌美國食品藥品監督管理局】美國白宮國內政策助理海蒂·奧弗頓是特朗普政府考慮出任美國食品藥品監督管理局局長的最終候選人之一。相關人選尚未敲定，目前尚不清楚奧弗頓能否獲得衛生部長小羅伯特·F·肯尼迪的支援。FDA局長提名人選需經參議院投票確認。
+
+---
+
+### 2026-06-24 03:53:46  #公司
+
+穆迪評級確認強生公司B2級企業家族評級，展望調整為穩定。
+
+---
+
+### 2026-06-24 03:51:59  #國際
+
+特朗普擬提名一名白宮助理出任美國食品藥品監督管理局局長一職。
+
+---
+
+### 2026-06-24 03:49:29  #焦點 #國際
+
+特朗普：正在努力爭取全國範圍內的持槍權。
+
+---
+
+### 2026-06-24 03:48:13  #其他 #焦點
+
+Meta正在開發預測市場應用，對標Polymarket與Kalshi兩款競品。
+
+---
+
+### 2026-06-24 03:47:24  #焦點 #國際
+
+伊朗外交部發言人：只有美伊雙方開始落實《伊斯蘭堡諒解備忘錄》五項核心條款後，伊朗才會啟動與美國締結最終協議的談判。該備忘錄包含五項核心內容：全線停止一切軍事行動、解除美國海上封鎖、恢復霍爾木茲海峽商業船隻安全通行、豁免伊朗石油出口及相關交易限制、全額解凍伊朗遭凍結與受限海外資產。待上述條款落地執行，雙方才會開啟最終和約磋商。
+
+---
+
+### 2026-06-24 03:47:01  #國際
+
+美國國務卿魯比奧表示，霍爾木茲海峽屬於國際航道，任何國家都無權在此收取通行費，地區各國均認同這一觀點；相關合作框架已搭建完成，不過仍有大量實質性工作有待推進。
+
+---
+
+### 2026-06-24 03:44:07  #MKT News #XAUUSD #Impact bearish #WTI #S&P500 #Impact bullish
+
+The U.S. Senate voted to block military action against Iran unless President Trump secures congressional authorization.
+
+---
+
+### 2026-06-24 03:43:10  #焦點 #國際
+
+美國參議院投票決定，除非特朗普獲得國會批准，否則不得對伊朗發動戰爭。
+
+---
+
+### 2026-06-24 03:42:54  #國際
+
+美國法院裁定拜登紀念園區擴建專案需接受審查。
+
+---
+
+### 2026-06-24 03:37:21  #MKT News #DXY #Impact bullish #EURUSD #Impact bearish #USDJPY
+
+【US dollar index rises 0.38% to 101.408 at New York close】US dollar index (DXY) rose 0.38% to 101.408 at the New York FX close. EUR/USD 1.1379 (prev. 1.1424); GBP/USD 1.3188 (prev. 1.3244). USD/JPY 161.57 (prev. 161.42); USD/CHF 0.8100 (prev. 0.8091); USD/CAD 1.4214 (prev. 1.4157); USD/SEK 9.7466 (prev. 9.6212).
+
+---
+
+### 2026-06-24 03:36:53  #市場
+
+【美元指數23日上漲】美元指數23日上漲。衡量美元對六種主要貨幣的美元指數當天上漲0.38%，在匯市尾市收於101.408。截至紐約匯市尾市，1歐元兌換1.1379美元，低於前一交易日的1.1424美元；1英鎊兌換1.3188美元，低於前一交易日的1.3244美元。1美元兌換161.57日元，高於前一交易日的161.42日元；1美元兌換0.8100瑞士法郎，高於前一交易日的0.8091瑞士法郎；1美元兌換1.4214加元，高於前一交易日的1.4157加元；1美元兌換9.7466瑞典克朗，高於前一交易日的9.6212瑞典克朗。
+
+---
+
+### 2026-06-24 03:35:52  #國際
+
+美國聯邦航空管理局暫停部分飛往拉瓜迪亞機場的航班。
+
+---
+
+### 2026-06-24 03:34:13  #焦點 #國際
+
+特朗普稱，他能在一週之內“徹底解決伊朗問題”。
+
+---
+
+### 2026-06-24 03:33:50  #國際
+
+特朗普：我有個朋友，是超大型地產開發商，但他特別怕當眾演講，一上臺就緊張得說不出話，慌得不行。他問我怎麼做到從容演講的？我告訴他，這很簡單，因為臺下全是喜愛我的人。
+
+---
+
+### 2026-06-24 03:33:19  #國際
+
+路透社與益普索聯合民調顯示：僅有四分之一的美國人認為，這場對伊朗戰爭付出的各類代價是值得的；多數受訪者則擔憂，當前達成的停火協議難以長久維繫。
+
+---
+
+### 2026-06-24 03:32:38  #MKT News #WTI #Impact bearish #Brent
+
+【International oil prices fall on 23rd】By the close, NYMEX August WTI fell $0.65 to $73.21 a barrel, down 0.88%; ICE August Brent fell $0.82 to $77.08 a barrel, down 1.05%.
+
+---
+
+### 2026-06-24 03:31:51  #國際
+
+【伊朗稱三家銀行銀行卡業務遭網路攻擊】伊朗國有銀行技術服務商表示，網路攻擊導致國民銀行、出口銀行與德賈拉特銀行的銀行卡相關業務癱瘓。該企業透露，為阻止非法入侵持續擴散，上述三家銀行臨時關停全部銀行卡業務，網路安全團隊正在搶修，力爭恢復正常服務。企業公關負責人稱，此次受波及的業務涵蓋自動取款機、線下收銀終端以及繫結銀行卡系統的手機銀行應用。
+
+---
+
+### 2026-06-24 03:31:11  #市場
+
+【國際油價23日下跌】國際油價23日下跌。截至當天收盤，紐約商品交易所8月交貨的輕質原油期貨價格下跌65美分，收於每桶73.21美元，跌幅為0.88%；8月交貨的倫敦布倫特原油期貨價格下跌82美分，收於每桶77.08美元，跌幅為1.05%。
+
+---
+
+### 2026-06-24 03:29:30  #國際
+
+特朗普： 民主黨人當初投票支援伊朗擁有核武器。
+
+---
+
+### 2026-06-24 03:28:55  #MKT News
+
+The New York Times reports several major Iranian banks experienced disruption to bank-card services on Tuesday; Iranian state media reported some of those banks suffered cyberattacks less than two weeks earlier.
+
+---
+
+### 2026-06-24 03:28:53  #MKT News #XAUUSD #Impact bullish #DXY #WTI
+
+【Wall Street Journal: Moscow pressing Belarus to open new front in Ukraine conflict】The Wall Street Journal reports former and current Russian and European officials say Moscow launched a pressure campaign earlier this year to turn Belarus into a springboard for expanded operations in Ukraine or to enable unconventional actions against NATO. Ukraine has threatened strikes on targets inside Belarus. Officials say Russia has deployed tactical nuclear weapons to Belarus, a development that suggests Moscow may be weighing a high-risk escalation.
+
+---
+
+### 2026-06-24 03:27:39  #MKT News #XAUUSD #Impact bullish #WTI #DXY
+
+【Israel's US ambassador: including Iran in Lebanon talks would be a 'disaster'】The Times of Israel reported Israel's ambassador to the US sharply criticized the Trump administration for agreeing to fold Iran into a Washington memorandum on Lebanon ceasefire talks signed last week, calling it a "disaster." He is leading the fifth round of direct Israel-Lebanon negotiations at the State Department. He said when Israel and Lebanon began direct talks "we all boarded the same train," with the US as the locomotive aiming for comprehensive peace, the removal of Iranian influence from Lebanon, the disarmament of Hezbollah and security between the two countries. He warned the train now risks derailing and said he hopes to get it back on track.
+
+---
+
+### 2026-06-24 03:25:12  #國際
+
+【特朗普在賓夕法尼亞州的活動上大力宣傳其減稅政策】特朗普在賓夕法尼亞州的活動上大力宣傳其減稅政策，以此作為中期競選宣傳的核心內容。特朗普重點提出兩項政策：加班收入免稅、老年人社保福利免稅，並預估這兩項政策每年能讓家庭增收超1萬美元。他說：“國會里所有民主黨人全都投票反對我們的減稅方案。”
+
+---
+
+### 2026-06-24 03:24:24  #國際
+
+【香港對沖基金Ovata將關閉 創始人及大部分員工加入ExodusPoint】知情人士透露，資產管理規模為15億美元的香港對沖基金Ovata Capital Management Ltd.將關閉業務，其創始人及大部分員工準備加入美國多策略對沖基金巨頭ExodusPoint Capital Management。
+
+---
+
+### 2026-06-24 03:22:32  #央行 #國際
+
+【沃什上任後亞特蘭大聯儲總裁遴選程式已重啟】知情人士稱，在沃什出任美聯儲主席後，亞特蘭大聯邦儲備銀行下一任總裁的遴選程式已被重新啟動。美聯儲曾考慮讓前美國副財長福爾肯德出任該職，但其目前的任命進展尚不得而知。
+
+---
+
+### 2026-06-24 03:20:44  #MKT News #LLY.N #Impact bullish
+
+U.S. President Trump, while discussing the jobs market, called Eli Lilly (LLY.N) "a great pharmaceutical company" and referenced the company's investment.
 
 ---
 
@@ -20146,437 +20428,5 @@ Canadian police say a shooting in Montreal killed three people, including the su
 ### 2026-06-23 02:03:33  #MKT News
 
 Politico reports Hegseth will confidentially brief a large group of House Republicans on Wednesday at a Republican Study Committee lunch regarding the Trump administration's military funding targets and a separate partisan bill.
-
----
-
-### 2026-06-23 02:01:08  #市場 #焦點
-
-超微電腦股價盤中漲幅擴大至19%。
-
----
-
-### 2026-06-23 01:57:27  #國際
-
-伊朗議會議長卡利巴夫表示，僅靠軍事成果遠遠不夠，外交手段對於鞏固既得成果至關重要。
-
----
-
-### 2026-06-23 01:53:20  #其他
-
-剛果埃博拉疫情：最新官方統計顯示，確診病例超1000例，死亡254例。
-
----
-
-### 2026-06-23 01:51:36  #MKT News
-
-According to CNN, U.S. Vice President Vance departed Switzerland after U.S.-Iran talks concluded.
-
----
-
-### 2026-06-23 01:50:51  #國際
-
-【伊朗說將按現行機制繼續與國際原子能機構合作】伊朗伊斯蘭共和國通訊社22日援引伊朗外交部發言人巴加埃的話報道，伊朗與國際原子能機構的合作與互動將按照現行機制繼續進行，並遵循伊朗議會相關法律以及最高國家安全委員會作出的決定。報道還援引訊息人士的話說，伊美在瑞士持續約18小時的談判過程中，伊朗方面未就核問題展開談判，也未作出任何新的相關承諾。（新華社）
-
----
-
-### 2026-06-23 01:49:43  #國際
-
-美國國防部長赫格塞思讚揚美國海軍部隊，稱儘管伊朗連日呼籲，但憑藉美國海軍的實力，胡塞武裝並未參與對抗美國的行動。
-
----
-
-### 2026-06-23 01:44:49  #MKT News
-
-CNN reports Argentina's Lionel Messi has become the World Cup's all-time leading scorer.
-
----
-
-### 2026-06-23 01:44:13  #國際
-
-伊朗、土耳其兩國總統通電話，就伊美諒解備忘錄交換意見。
-
----
-
-### 2026-06-23 01:41:47  #國際
-
-美國法官叫停特朗普政府將改版後的移民資料庫用於選民登記核查。
-
----
-
-### 2026-06-23 01:41:41  #MKT News
-
-A U.S. judge blocked the Trump administration from using the revised immigration database to conduct voter-registration checks.
-
----
-
-### 2026-06-23 01:41:00  #MKT News #WTI #Impact bullish #Brent
-
-U.S. Vice President Vance said Iran's funds will not be unfrozen absent progress.
-
----
-
-### 2026-06-23 01:39:51  #其他
-
-萬斯：技術討論方面持續取得進展。
-
----
-
-### 2026-06-23 01:39:39  #MKT News #Important #WTI #Impact bearish #DXY #XAUUSD
-
-US Vice President Vance said Iran has allowed inspectors to enter; this is the first such access in some time.
-
----
-
-### 2026-06-23 01:39:19  #MKT News
-
-U.S. Vice President Vance said technical talks are continuing to make progress.
-
----
-
-### 2026-06-23 01:39:16  #MKT News #S&P500 #Impact bullish #WTI #Impact bearish #XAUUSD
-
-U.S. Vice President Vance said he was satisfied with the ceasefire.
-
----
-
-### 2026-06-23 01:39:13  #國際
-
-萬斯：若無談判進展，伊朗凍結資產不予解凍。
-
----
-
-### 2026-06-23 01:39:00  #MKT News
-
-U.S. Vice President Vance said inspectors must be allowed into Iranian nuclear facilities.
-
----
-
-### 2026-06-23 01:38:53  #其他
-
-萬斯談及停火協議：對此前景持樂觀態度。
-
----
-
-### 2026-06-23 01:38:46  #MKT News #Commodities #Energy #WTI #Brent
-
-U.S. Vice President Vance said he saw about 15 mln barrels of oil flow out of the Strait of Hormuz.
-
----
-
-### 2026-06-23 01:38:20  #其他
-
-萬斯：將建立機制確保霍爾木茲海峽保持開放。
-
----
-
-### 2026-06-23 01:38:15  #MKT News #Important #WTI #Impact bearish #Brent
-
-U.S. Vice President Vance said he is very satisfied with progress on Iran and that a mechanism will be set up to keep the Strait of Hormuz open.
-
----
-
-### 2026-06-23 01:38:05  #國際
-
-兩名歐洲官員表示，塔利班代表團已獲得比利時簽發的單日簽證，該簽證僅在6月23日星期二有效。
-
----
-
-### 2026-06-23 01:37:54  #國際
-
-萬斯：伊朗首次允許國際原子能機構檢查人員入境。
-
----
-
-### 2026-06-23 01:37:31  #國際
-
-萬斯談伊朗談判：我們必須繼續努力。
-
----
-
-### 2026-06-23 01:37:23  #其他
-
-萬斯：繼續推進技術討論。
-
----
-
-### 2026-06-23 01:37:01  #其他
-
-萬斯：監測到約1500萬桶原油經霍爾木茲海峽外運。
-
----
-
-### 2026-06-23 01:36:36  #國際
-
-萬斯談伊朗談判：對我們取得的進展感到非常自豪。
-
----
-
-### 2026-06-23 01:33:33  #MKT News #Important
-
-【Iran rebuts Vance claim that IAEA inspectors will enter Iran】CNN reported Monday that Iran said it will "continue to cooperate under existing procedures" with the UN nuclear watchdog, rejecting US assertions that Tehran had agreed to let IAEA inspectors return. IRNA quoted foreign ministry spokesman BAGHAEI saying Iran's engagement with the IAEA will proceed "under Iran's obligations under the safeguards agreement" and "in line with resolutions passed by parliament and decisions of the Supreme National Security Council." Earlier, Vice President Vance told a Swiss press conference that Iran had agreed to IAEA inspector entry.
-
----
-
-### 2026-06-23 01:31:58  #公司
-
-加拿大汽車工人聯合工會（UNIFOR）：工會已設定7月10日為與福特汽車公司達成初步協議的最後期限。
-
----
-
-### 2026-06-23 01:30:03  #MKT News #Macro & Rates #The Fed (FOMC) #Treasury Yields #US10Y
-
-【Castle Securities: Kevin Warsh's new Fed policy framework could stabilise US long-term Treasury yields】Castle Securities said Kevin Warsh's commitment to lowering inflation has bolstered Fed credibility, supporting US long-term Treasury yields and compressing the term premium. After last week's Fed meeting, trading in the $31 trillion US Treasury market showed long-end yields were more stable than the more policy-sensitive two-year yield, and Nohshad Shah, head of fixed-income sales, said a highly credible Fed should benefit long-end performance.
-
----
-
-### 2026-06-23 01:26:05  #MKT News #Market Themes #The Trump Trade #LMT.O #Impact bullish #RTX.O #NOC.O
-
-【Trump to meet defense contractors on Wednesday as U.S.-Iran talks proceed】President Trump is expected to meet executives from several of the largest U.S. defense contractors on Wednesday, people familiar with the matter said, a meeting that coincides with U.S.-Iran peace talks. The session follows a March 6 White House meeting with executives from Lockheed Martin, RTX, BAE Systems, Boeing, Honeywell Aerospace, L3Harris and Northrop Grumman. The administration has stepped up pressure on contractors to prioritize production and U.S. manufacturing over shareholder payouts. A source said most defense firms have been told to fulfill existing contracts and to ramp up and accelerate production to support the Pentagon.
-
----
-
-### 2026-06-23 01:25:37  #公司
-
-谷歌Interactions API正式全面上線。
-
----
-
-### 2026-06-23 01:23:58  #國際
-
-一名聯邦法官叫停了特朗普政府在移民執法調查中傳喚明尼蘇達州州長蒂姆·沃爾茲等人的行動。
-
----
-
-### 2026-06-23 01:22:59  #公司 #國際
-
-【特朗普預計週三會見軍工企業巨頭】多位知情人士透露，特朗普計劃於週三會見美國各大頭部國防承包商高管，此次會面恰逢其政府正與伊朗開展和平談判。今年3月6日，白宮曾召開一場軍工企業負責人會議，參會企業包括洛克希德·馬丁、雷神母公司雷神技術公司、英國宇航系統公司、波音、霍尼韋爾航空航天、L3哈里斯以及諾斯羅普·格魯曼，本次週三會談是那次會面的後續跟進。特朗普政府持續向各大國防承包商施壓，要求企業將產能提升、強化美國本土製造能力置於股東分紅之上。一名熟悉相關會議的訊息人士稱，軍工行業多數企業已充分領會總統的要求：履行現有合同、擴大並提速生產，為國防部提供支撐。
-
----
-
-### 2026-06-23 01:22:26  #Trading Economics #Markets #United States #stocks #Importance 1
-
-McDonalds Stock Price Hits 22-month Low — McDonalds shares decreased to 271.85 USD, the lowest since August 2024. Over the past 4 weeks, McDonalds lost 2.56%, and in the last 12 months, it decreased 6.02%.
-
----
-
-### 2026-06-23 01:22:16  #MKT News
-
-US President Trump is expected to meet with defense contractors on Wednesday, CBS reported.
-
----
-
-### 2026-06-23 01:18:32  #MKT News #Macro & Rates #The Fed (FOMC)
-
-The Federal Reserve accepted $3.925 billion from four counterparties in its fixed-rate reverse repo operation.
-
----
-
-### 2026-06-23 01:17:22  #央行 #美聯儲
-
-美聯儲隔夜逆回購協議（RRP）週一使用規模為39.25億美元（交易對手4家），上個交易日報2.51億美元。
-
----
-
-### 2026-06-23 01:16:13  #央行 #國際
-
-週一（6月22日），美聯儲隔夜逆回購協議（RRP）使用規模為39.25億美元（交易對手4家），上個交易日報2.51億美元。
-
----
-
-### 2026-06-23 01:15:35  #MKT News
-
-The Mirror reports the UK Labour Party's top governing body will meet Thursday to set the full timetable and rules for a leadership contest, if one takes place.
-
----
-
-### 2026-06-23 01:13:25  #國際
-
-【印度北方邦一商業樓起火 至少15人死亡】據印度媒體報道，印度北方邦首府勒克瑙一棟商業樓22日下午發生火災，截至目前已造成至少15人身亡、7人受傷。 報道說，事故現場救援工作目前仍在進行，死亡人數可能進一步上升。事故發生的具體原因仍在調查中，有官員認為火災可能由地下室空調系統短路產生的火花引發。 報道還說，北方邦首席部長約吉·阿迪蒂亞納特已要求有關部門繼續全力搜救倖存者並對傷者進行妥善治療。（新華社）
-
----
-
-### 2026-06-23 01:13:04  #國際
-
-特朗普表態支援布魯斯·布萊克曼競選紐約州州長。
-
----
-
-### 2026-06-23 01:12:35  #國際
-
-瑞士聯邦外交部：瑞士對美、伊、巴、卡四國在比爾根施托克開展密集外交磋商並取得建設性進展表示歡迎。 各方依據諒解備忘錄成立高階別委員會，並商定60天內達成最終協議的路線圖，上述積極舉措為下一階段談判搭建框架，也便於各方即刻開展技術性磋商。 瑞士願繼續發揮斡旋作用，助力各方開展對話、緩和局勢，維護地區穩定與和平。
-
----
-
-### 2026-06-23 01:12:33  #MKT News
-
-Switzerland's foreign ministry said it will continue to mediate, supporting dialogue and de-escalation to preserve regional stability and peace.
-
----
-
-### 2026-06-23 01:12:22  #MKT News
-
-Switzerland's foreign ministry said it has set up a high-level committee under a memorandum of understanding and agreed a roadmap to reach a final agreement within 60 days, calling the measures positive and saying they provide a framework for the next phase and enable immediate technical talks.
-
----
-
-### 2026-06-23 01:12:14  #MKT News
-
-Switzerland's Foreign Ministry said it welcomed constructive progress from intensive diplomatic talks involving the United States, Iran, Pakistan and Qatar held at Bürgenstock.
-
----
-
-### 2026-06-23 01:11:25  #MKT News
-
-Montreal police are responding to a shooting in the Côte-des-Neiges neighborhood adjacent to Jewish institutions, the Jerusalem Post reports.
-
----
-
-### 2026-06-23 01:09:59  #MKT News #Market Themes #AI Revolution
-
-Market sources: Google DeepMind and A24 have announced a research collaboration.
-
----
-
-### 2026-06-23 01:08:29  #公司 #資料
-
-谷歌DeepMind與A24宣佈達成研究合作關係。
-
----
-
-### 2026-06-23 01:07:44  #國際
-
-伊朗總統：伊美雙方依據新近簽署的諒解備忘錄持續談判期間，伊朗絕不會妥協於對方的過分訴求，也無法容忍本國人民的合法權利受到打壓。
-
----
-
-### 2026-06-23 01:07:15  #MKT News #Important
-
-Iranian President Pezeshkian said that as negotiations between Tehran and Washington proceed under a recently signed memorandum of understanding, Iran will not give in to excessive demands nor tolerate suppression of its people’s rights.
-
----
-
-### 2026-06-23 01:06:48  #MKT News
-
-At least two police officers were shot in Montreal, Canada.
-
----
-
-### 2026-06-23 01:06:01  #國際
-
-美國將一家總部位於敘利亞的比特幣交易所列入制裁清單。
-
----
-
-### 2026-06-23 01:04:38  #MKT News
-
-OpenAI launched Patch the Planet, part of its Daybreak initiative, to support open-source software maintainers.
-
----
-
-### 2026-06-23 01:04:34  #其他
-
-OpenAI：Trail of Bits已調動其整個安全研究團隊投入“修補地球”（Patch the Planet）專案的首輪攻堅行動。
-
----
-
-### 2026-06-23 01:03:16  #其他
-
-OpenAI：推出“修補地球”計劃，這是一項旨在支援開源維護者的黎明倡議。
-
----
-
-### 2026-06-23 01:01:46  #國際
-
-俄羅斯聯邦安全域性通報，兩名俄羅斯公民受基輔方面指使，預謀在莫斯科州破壞一列燃油運輸列車，現已被拘留。
-
----
-
-### 2026-06-23 01:01:30  #MKT News
-
-According to i24News, the Israel Defense Forces said it will conduct a military drill in the Eilat area on Tuesday morning; security forces and naval vessels will be active but the military said the activity will not pose a security threat.
-
----
-
-### 2026-06-23 01:00:04  #國際
-
-【伊朗公佈已故最高領袖葬禮日程】伊朗方面6月22日更新了伊朗已故最高領袖阿里·哈梅內伊的葬禮安排。據已故最高領袖告別送葬及安葬委員會發言人伊曼·阿塔爾扎德介紹，7月4日、5日，公開的悼念儀式將在伊朗首都德黑蘭舉行，7月6日在德黑蘭舉行送葬儀式；7月7日在伊朗聖城庫姆舉行送葬儀式；應伊拉克方面要求，7月8日在伊拉克兩座什葉派聖城納傑夫和卡爾巴拉舉行送葬儀式，具體時間和地點將由伊拉克方面另行公佈；7月9日，阿里·哈梅內伊及其遇害家屬的送葬儀式將在伊朗聖城馬什哈德舉行。儀式結束後，阿里·哈梅內伊的遺體將被安葬。據阿塔爾扎德介紹，哈梅內伊的葬禮將以“緊握的拳頭”為象徵標識——這一符號源自穆傑塔巴·哈梅內伊今年3月接任最高領袖後首次宣告中所說：他瞻仰了父親阿里·哈梅內伊的遺體，“他那隻未受傷的手緊握成拳”。（CCTV國際時訊）
-
----
-
-### 2026-06-23 01:00:03  #市場
-
-【夜盤期貨收盤】國際銅夜盤收跌0.11%，滬銅收跌0.08%，滬鋁收跌0.23%，滬鋅收漲0.53%，滬鉛收漲0.34%，滬鎳收漲0.26%，滬錫收跌1.96%。氧化鋁夜盤收跌2.63%，鋁合金收漲0.30%。不鏽鋼夜盤收跌1.46%。
-
----
-
-### 2026-06-23 00:59:33  #MKT News #Important
-
-Trump said everyone knows Iran will agree to accept major weapons inspections to ensure long-term "nuclear integrity".
-
----
-
-### 2026-06-23 00:59:01  #焦點 #國際
-
-特朗普：所有人都清楚，伊朗將同意接受大規模武器核查，以確保未來長期的“核誠信”。
-
----
-
-### 2026-06-23 00:58:03  #MKT News #Commodities #Energy #WTI #Impact bearish #Brent
-
-U.S. will release 500,000 barrels of crude from the Strategic Petroleum Reserve to Vitol.
-
----
-
-### 2026-06-23 00:57:36  #公司 #國際
-
-美國將從戰略石油儲備庫（SPR）向維多公司（VITOL）釋放50萬桶原油。
-
----
-
-### 2026-06-23 00:53:47  #MKT News #XAUUSD #Impact bullish #DXY #Brent
-
-Israeli Prime Minister Netanyahu said the military has "full freedom of action" in southern Lebanon to prevent threats.
-
----
-
-### 2026-06-23 00:51:36  #MKT News #WTI #Brent
-
-Tasnim News Agency, citing insiders, said the United States appears to be circulating messages to divert attention from decisions to grant tax exemptions on sales of oil and its derivatives.
-
----
-
-### 2026-06-23 00:51:22  #焦點 #國際
-
-以色列總理表態，軍隊在黎巴嫩南部擁有充分行動許可權，以抵禦各類威脅。
-
----
-
-### 2026-06-23 00:51:01  #國際
-
-【伊朗知情人士：動用凍結資金採購糧食一事並不屬實】伊朗談判相關訊息人士表示，所謂伊朗動用凍結資金購買糧食的說法是假訊息，相關共識檔案中也從未提及該內容。該知情人士透露，美方放出此類言論主要是出於其國內政治考量，否則動用120億美元資金採購糧食完全不合邏輯。其指出，美方刻意散佈該訊息，意在掩蓋美方批准伊朗石油及石油衍生品免稅出口這一訊息。
-
----
-
-### 2026-06-23 00:50:18  #國際
-
-伊朗塔斯尼姆通訊社援引知情人士訊息：有關動用凍結資金採購糧食的說法不實。
-
----
-
-### 2026-06-23 00:49:55  #MKT News
-
-TASNIM NEWS, citing informed sources, said reports that frozen funds would be used to buy food were unfounded.
-
----
-
-### 2026-06-23 00:46:49  #MKT News #WTI #Impact bullish #XAUUSD #DXY
-
-KATZ said the Israel Defense Forces will remain deployed in the Lebanon security zone to protect northern settlements, eliminate threats and destroy militant infrastructure above and below ground.
-
----
-
-### 2026-06-23 00:46:26  #MKT News #Brent #Impact bullish #XAUUSD #DXY
-
-Israeli defense minister KATZ said IDF commanders and troops have full backing from the prime minister, him and military leadership, and possess broad operational freedom to strike decisively at any threats in southern Lebanon, the Gaza Strip or elsewhere to defend Israel.
 
 ---
