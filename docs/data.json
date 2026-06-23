@@ -1,7 +1,154 @@
 {
-  "updated": "2026-06-23 22:28:51",
+  "updated": "2026-06-23 22:33:14",
   "count": 17328,
   "items": [
+    {
+      "id": "mkt:019ef4e5-54d9-7dd8-b0dc-4fb62875ffc0",
+      "time": "2026-06-23 22:32:10",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Emerging Markets"
+      ],
+      "text": "REUTERS SURVEY: Of 27 analysts surveyed, 13 expect Colombia's central bank to raise rates by 50bp to 11.75% in June."
+    },
+    {
+      "id": "mkt:019ef4e5-049e-7dd8-b0dc-421508f538b4",
+      "time": "2026-06-23 22:31:50",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "REUTERS SURVEY: Colombia's key policy rate is expected to reach 12.25% by end-2026, up from 12.0% in the prior survey."
+    },
+    {
+      "id": "mkt:019ef4e4-9b02-7dd8-b0dc-3e5918409792",
+      "time": "2026-06-23 22:31:22",
+      "tags": [
+        "MKT News",
+        "Macro & Rates"
+      ],
+      "text": "REUTERS SURVEY: Expectations for Colombia's interest rate at end-2027 rose to 10.50% from 10% in the prior survey."
+    },
+    {
+      "id": "4950876",
+      "time": "2026-06-23 22:31:07",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行副行長武伊契奇：歐元區經濟增長在面對供應衝擊時展現出的韌性超出人們預期。"
+    },
+    {
+      "id": "te:markets:561226",
+      "time": "2026-06-23 22:30:35",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Canada",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "CIBC Stock Price Hits 4-year High — CIBC shares increased to 162.22 CAD, the highest since March 2022. Over the past 4 weeks, CIBC gained 0.9%, and in the last 12 months, it increased 68.22%."
+    },
+    {
+      "id": "4950875",
+      "time": "2026-06-23 22:30:34",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行副行長武伊契奇：經濟增長具備 “較強韌性”。"
+    },
+    {
+      "id": "4950874",
+      "time": "2026-06-23 22:30:25",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "路透民調：在參與本次調查的27名分析師中，有13名認為哥倫比亞央行將在6月把加息50個基點，將政策利率上調至11.75%。"
+    },
+    {
+      "id": "mkt:019ef4e3-b779-7dd8-b0dc-37867de05a4c",
+      "time": "2026-06-23 22:30:24",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "ECB Vice President VUJCIC: growth relatively steady."
+    },
+    {
+      "id": "4950873",
+      "time": "2026-06-23 22:30:22",
+      "tags": [
+        "其他"
+      ],
+      "text": "路透調查：預測哥倫比亞基準利率2026年末將升至12.25%，前次調查預期為12%。"
+    },
+    {
+      "id": "4950872",
+      "time": "2026-06-23 22:30:18",
+      "tags": [
+        "其他"
+      ],
+      "text": "路透調查：市場對哥倫比亞2027年末的利率預期上調至10.50%，此前調查預期為10%。"
+    },
+    {
+      "id": "mkt:019ef4e3-52d8-7dd8-b0dc-2ea151fbf3ac",
+      "time": "2026-06-23 22:29:58",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "ECB Vice President VUJCIC said he believes markets have a full understanding of the ECB."
+    },
+    {
+      "id": "4950871",
+      "time": "2026-06-23 22:29:52",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【6月23日增減持彙總】據不完全統計，6月23日盤後，康平科技、ST海王披露增持情況，三六零、深深房A、金丹科技、南威軟體、威帝股份、富淼科技、康惠股份7家A股上市公司披露擬減持情況。"
+    },
+    {
+      "id": "mkt:019ef4e3-052a-7dd8-b0dc-2350af6c78b7",
+      "time": "2026-06-23 22:29:39",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "EURUSD",
+        "Impact mixed",
+        "DXY",
+        "US10Y"
+      ],
+      "text": "VUJCIC, ECB vice-president, said the bank does not want to provide any forward guidance and will treat each policy meeting on a meeting-by-meeting, real-time basis."
+    },
+    {
+      "id": "4950870",
+      "time": "2026-06-23 22:29:34",
+      "tags": [
+        "其他"
+      ],
+      "text": "【海關總署：5月份中國進口煉焦煤1114.5萬噸 同比增長50.9%】海關總署最新資料顯示，2026年5月份，中國進口煉焦煤1114.5萬噸，同比增長50.9%，環比下降1.4%。2026年1-5月，中國累計進口煉焦煤5469.6萬噸，同比增長25.1%。"
+    },
+    {
+      "id": "4950869",
+      "time": "2026-06-23 22:28:47",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行副行長武伊契奇：我認為市場對歐洲央行有著充分的理解。"
+    },
+    {
+      "id": "4950868",
+      "time": "2026-06-23 22:28:28",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行副行長武伊契奇：我們不會給出任何前瞻指引，歐洲央行每次議息會議均靈活應變、無預設路徑。"
+    },
     {
       "id": "mkt:019ef4df-d183-7dd8-b0dc-18678c438e6a",
       "time": "2026-06-23 22:26:09",
@@ -158632,140 +158779,6 @@
         "國際"
       ],
       "text": "【花旗：美股資金流向整體擴容，但納斯達克持倉風險仍存】上週美股各類資產持倉規模普遍擴張，不過花旗警示，納斯達克市場過度集中的多頭敞口仍是核心風險。小盤股迎來大額資金流入，納斯達克的上漲則由空頭回補與新增多頭頭寸推動。歐洲市場情緒轉好，投資者持續買入歐洲斯托克 600 指數、德國 DAX 指數與英國富時指數，但空頭持倉規模依舊偏高。亞洲資金流向分化偏弱，恒生指數資金持續流出，韓國綜合指數再度遭遇空頭打壓。"
-    },
-    {
-      "id": "4939016",
-      "time": "2026-06-16 22:33:05",
-      "tags": [
-        "觀點"
-      ],
-      "text": "【摩根大通：與AI相關的債券發行預計未來數年將保持火熱】摩根大通分析師寫道，為AI和資料中心融資的債券發行可能會保持火熱。摩根大通表示，貸款平均佔專案成本的85%，這一高比例可能會推動到2030年底的總AI支出達到5.5萬億美元，其中4.1萬億美元由債務融資。預計發債人將利用各國“每一個資本市場“來支援其增長需求。頂級企業或超大規模雲服務提供商的盈利能力足以在發行量不斷增加的情況下讓投資者保持冷靜。摩根大通懷疑，他們現在大舉借款是為了保留大量現金，以防經濟惡化和借貸成本飆升。"
-    },
-    {
-      "id": "mkt:019ed0d9-9d8f-7dd8-b034-19c4368e8a70",
-      "time": "2026-06-16 22:33:02",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Tesla",
-        "Market Themes",
-        "Magnificent 7"
-      ],
-      "text": "【Forbes: Elon Musk briefly hits $1.4 trillion net worth】Forbes' latest global billionaires list shows Elon Musk's net worth briefly rose to $1.4 trillion, a record high. SpaceX rallied more than 15% earlier."
-    },
-    {
-      "id": "4939015",
-      "time": "2026-06-16 22:32:52",
-      "tags": [
-        "公司"
-      ],
-      "text": "【中船集團與國開行簽署戰略合作協議】6月16日下午，中國船舶集團有限公司黨組副書記、董事、總經理王國強在總部分別與來訪的中國農業發展銀行黨委副書記、行長張小東，國開行黨委副書記、副董事長、行長譚炯舉行會談，並見證中船集團與國開行簽署戰略合作協議。會談中，王國強與張小東、譚炯圍繞更好服務海洋強國戰略等主題，就進一步深化戰略協同、加強產融結合深入交流並達成共識。"
-    },
-    {
-      "id": "4939014",
-      "time": "2026-06-16 22:32:34",
-      "tags": [
-        "公司"
-      ],
-      "text": "【民爆光電：目前PCB鑽針訂單充沛 正全力推進擴產】民爆光電在互動平臺表示，公司目前PCB鑽針訂單充沛，公司正全力推進擴產來滿足市場需求。"
-    },
-    {
-      "id": "4939013",
-      "time": "2026-06-16 22:32:08",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國將召開G20埃博拉問題外長會議。"
-    },
-    {
-      "id": "4939012",
-      "time": "2026-06-16 22:32:04",
-      "tags": [
-        "其他"
-      ],
-      "text": "英國首相斯塔默的發言人：英國在泰晤士水務問題上已做好應對各種可能性準備。英國政府備選方案包含必要時臨時國有化泰晤士水務。"
-    },
-    {
-      "id": "mkt:019ed0d8-496d-7dd8-b034-14806a955014",
-      "time": "2026-06-16 22:31:35",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "U.S. to convene G20 foreign ministers' meeting on Ebola."
-    },
-    {
-      "id": "mkt:019ed0d7-fff9-7dd8-b034-09d385da7ac5",
-      "time": "2026-06-16 22:31:17",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "A spokesperson for British Prime Minister Starmer said the UK is prepared to respond to all contingencies over the Thames Water situation."
-    },
-    {
-      "id": "4939011",
-      "time": "2026-06-16 22:31:05",
-      "tags": [
-        "公司"
-      ],
-      "text": "七國集團領導人呼籲對埃博拉疫情采取強有力和協調一致的應對措施。"
-    },
-    {
-      "id": "4939010",
-      "time": "2026-06-16 22:30:58",
-      "tags": [
-        "國際"
-      ],
-      "text": "【受石腦油短缺影響 日本多行業遭受衝擊】受中東局勢不確定性所帶來的影響，油墨和塑膠包裝等石化產品的重要原料石腦油在全球範圍內的供應仍然緊俏。在大量依賴進口原材料的日本，部分企業開始透過減少包裝印刷顏色、簡化設計等方式來節約原材料。不少日本民眾在採訪中表示，多種原材料的短缺已經波及日本的諸多行業，其影響可遠比食品包裝變成黑白色要嚴重得多。他們同時也表示，幾個月以來，日本政府仍然沒有拿出有力的舉措來應對當前國內企業生產和民生保障方面的種種問題。（央視新聞）"
-    },
-    {
-      "id": "mkt:019ed0d7-94fb-7dd8-b034-0499f6558fb4",
-      "time": "2026-06-16 22:30:49",
-      "tags": [
-        "MKT News",
-        "HO.PA",
-        "Impact bullish"
-      ],
-      "text": "Renault and Thales signed a cooperation agreement to produce drones as early as next year."
-    },
-    {
-      "id": "mkt:019ed0d7-7ecd-7dd8-b033-f8d7c3d79aaa",
-      "time": "2026-06-16 22:30:44",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Chinese researchers develop large-area all‑perovskite tandem PV module; JET-certified PCE a world record 26.2%】Nanjing University said Professor Tan Hairen’s team, together with the RenShuo Photonics industrialization research team and Professor Wang Yuanyuan’s chemistry group at Nanjing University, developed a large-area all‑perovskite tandem photovoltaic module that achieved a Japan Electrical Safety and Environment Technology Laboratory (JET)‑certified power conversion efficiency of 26.2%, a world record."
-    },
-    {
-      "id": "mkt:019ed0d7-6d1c-7dd8-b033-f174964c6234",
-      "time": "2026-06-16 22:30:39",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "G7 leaders called for a strong, coordinated response to the Ebola outbreak."
-    },
-    {
-      "id": "4939009",
-      "time": "2026-06-16 22:30:28",
-      "tags": [
-        "其他"
-      ],
-      "text": "市場訊息：雷諾與泰雷茲合作製造無人機 以支援法國國防工業。"
-    },
-    {
-      "id": "4939008",
-      "time": "2026-06-16 22:29:23",
-      "tags": [
-        "其他"
-      ],
-      "text": "【馬斯克個人財富飆升至1.4萬億美元】據《福布斯》最新發布的全球富豪榜，特斯拉與SpaceX掌門人埃隆·馬斯克的個人財富一度飆升至驚人的1.4萬億美元，重新整理歷史紀錄。"
-    },
-    {
-      "id": "4939007",
-      "time": "2026-06-16 22:28:52",
-      "tags": [
-        "其他"
-      ],
-      "text": "智利銅業機構Cochilco預計將於9月釋出關於Codelco產量審計的初步報告。"
     }
   ]
 }
