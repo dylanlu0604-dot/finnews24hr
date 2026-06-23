@@ -1,7 +1,150 @@
 {
-  "updated": "2026-06-23 19:28:49",
-  "count": 17330,
+  "updated": "2026-06-23 19:32:49",
+  "count": 17334,
   "items": [
+    {
+      "id": "mkt:019ef440-adcc-7dd8-b0d7-8f23b3ee3ba3",
+      "time": "2026-06-23 19:32:19",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "UK PM Starmer's spokesperson said Starmer is seeking to resolve thorny issues before a leadership change."
+    },
+    {
+      "id": "mkt:019ef440-977e-7dd8-b0d7-812b95db05a9",
+      "time": "2026-06-23 19:32:14",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "UK PM Starmer's spokesperson said the prime minister has agreed, effective immediately, to refrain from initiating any new policies or spending."
+    },
+    {
+      "id": "4950531",
+      "time": "2026-06-23 19:31:52",
+      "tags": [
+        "其他"
+      ],
+      "text": "土耳其非金融企業截至4月外匯淨缺口達2056億美元。"
+    },
+    {
+      "id": "4950530",
+      "time": "2026-06-23 19:31:38",
+      "tags": [
+        "其他"
+      ],
+      "text": "美銀全球研究將美光科技目標價從950美元上調至1500美元。"
+    },
+    {
+      "id": "4950529",
+      "time": "2026-06-23 19:31:23",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國首相發言人：斯塔默告知內閣，將平穩完成領導層交接。"
+    },
+    {
+      "id": "4950528",
+      "time": "2026-06-23 19:31:16",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國首相發言人：斯塔默計劃在換屆前解決各類棘手難題。"
+    },
+    {
+      "id": "4950527",
+      "time": "2026-06-23 19:31:05",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國首相發言人：英國首相敲定即日起不再推出新政策、新增支出計劃。"
+    },
+    {
+      "id": "4950526",
+      "time": "2026-06-23 19:30:27",
+      "tags": [
+        "其他"
+      ],
+      "text": "國泰航空5月運載貨物150089公噸。"
+    },
+    {
+      "id": "4950525",
+      "time": "2026-06-23 19:30:08",
+      "tags": [
+        "市場"
+      ],
+      "text": "SpaceX盤前上漲0.2%。"
+    },
+    {
+      "id": "4950524",
+      "time": "2026-06-23 19:29:57",
+      "tags": [
+        "其他"
+      ],
+      "text": "美銀全球研究將安謀目標價從335美元上調至460美元。"
+    },
+    {
+      "id": "mkt:019ef43e-5327-7dd8-b0d7-7f0963edc41e",
+      "time": "2026-06-23 19:29:45",
+      "tags": [
+        "MKT News",
+        "INTC.O",
+        "Impact bullish"
+      ],
+      "text": "BofA raises Intel (INTC.O) PT to $160 from $135."
+    },
+    {
+      "id": "4950523",
+      "time": "2026-06-23 19:29:43",
+      "tags": [
+        "其他"
+      ],
+      "text": "伊拉克國家石油營銷組織SOMO：經北部路線出口的基爾庫克原油量已從400萬桶增至近700萬桶/月。"
+    },
+    {
+      "id": "4950522",
+      "time": "2026-06-23 19:29:30",
+      "tags": [
+        "其他"
+      ],
+      "text": "美銀全球研究將英特爾目標股價從135美元上調至160美元。"
+    },
+    {
+      "id": "mkt:019ef43e-157e-7dd8-b0d7-751d5db95852",
+      "time": "2026-06-23 19:29:29",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "Iraq's State Organization for Marketing of Oil (SOMO) said Kirkuk crude exports via the northern route rose to nearly 7.0 mln barrels/month from 4.0 mln barrels/month."
+    },
+    {
+      "id": "4950521",
+      "time": "2026-06-23 19:29:18",
+      "tags": [
+        "國際"
+      ],
+      "text": "【特朗普稱允許霍爾木茲海峽保持開放】美國總統特朗普23日在社交媒體發文說，基於伊朗作出的讓步，他已同意允許霍爾木茲海峽保持開放，不再實施海上封鎖。“不過，所有船隻仍將原地待命，以備必要時重新實施封鎖。儘管目前看來，這種可能性極低。”（新華社）"
+    },
+    {
+      "id": "4950520",
+      "time": "2026-06-23 19:29:11",
+      "tags": [
+        "市場"
+      ],
+      "text": "【德州儀器美股盤前跌超5%】德州儀器美股盤前跌超5%，現報315.58美元。"
+    },
+    {
+      "id": "4950519",
+      "time": "2026-06-23 19:28:35",
+      "tags": [
+        "公司"
+      ],
+      "text": "美銀全球研究將應用材料公司目標股價從540美元上調至720美元。"
+    },
     {
       "id": "mkt:019ef43c-bb99-7dd8-b0d7-69ec12ac3861",
       "time": "2026-06-23 19:28:01",
@@ -158732,128 +158875,6 @@
         "國際"
       ],
       "text": "【盛寶銀行：美伊協議後比特幣難以尋找方向】隨著投資者等待美國和伊朗之間達成的臨時和平協議的細節明朗，比特幣難以尋找方向。盛寶銀行分析師在一份報告中表示：“該臨時協議定於週五在瑞士簽署，不過未公佈的備忘錄文字令投資者保持謹慎。“他們表示，儘管包括數字資產在內的風險資產的市場情緒有所改善，但現貨比特幣交易所交易基金仍連續第五週錄得淨流出。投資者還在期待週三的美聯儲政策決定。根據倫敦證券交易所集團的資料，比特幣在週一觸及67,241美元的12天高點後，目前平盤報66,491美元。它已從6月5日觸及的59,125美元的20個月低點小幅回升。"
-    },
-    {
-      "id": "4938684",
-      "time": "2026-06-16 19:32:34",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "印度10年期指標公債收益率收報6.8651%；前收盤報6.8704%。"
-    },
-    {
-      "id": "mkt:019ed033-f78f-7dd8-b02e-367427cfc4bf",
-      "time": "2026-06-16 19:32:07",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Ukraine's President Zelenskiy said Ukraine can assist in producing air-defense systems and has discussed related licensing arrangements with the US."
-    },
-    {
-      "id": "mkt:019ed033-b361-7dd8-b02e-287860965d92",
-      "time": "2026-06-16 19:31:49",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "UK Prime Minister Starmer said there is a 'consensus' among parties that the situation in Ukraine is changing."
-    },
-    {
-      "id": "4938683",
-      "time": "2026-06-16 19:31:41",
-      "tags": [
-        "國際"
-      ],
-      "text": "英國首相斯塔默：莫斯科對烏克蘭衝突的情緒正在轉變。"
-    },
-    {
-      "id": "4938682",
-      "time": "2026-06-16 19:31:31",
-      "tags": [
-        "國際"
-      ],
-      "text": "烏克蘭總統澤連斯基：特朗普態度非常積極，認為美國可以向烏克蘭提供更多防空導彈以提供援助。"
-    },
-    {
-      "id": "4938681",
-      "time": "2026-06-16 19:31:19",
-      "tags": [
-        "國際"
-      ],
-      "text": "俄羅斯外長拉夫羅夫：烏克蘭未來的歐盟成員資格將被那些希望使歐盟軍事化的人所利用。"
-    },
-    {
-      "id": "mkt:019ed033-159a-7dd8-b02e-23f8b6e97f94",
-      "time": "2026-06-16 19:31:09",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "UK Prime Minister Starmer said Moscow's sentiment toward the Ukraine conflict is shifting."
-    },
-    {
-      "id": "4938680",
-      "time": "2026-06-16 19:31:08",
-      "tags": [
-        "國際"
-      ],
-      "text": "【韓國2025年居民槓桿率為88.6% 創6年多新低】據韓聯社16日報道，截至2025年末，韓國家庭債務佔名義國內生產總值(GDP)比率降至近6年3個月以來最低水平，韓國政府債務佔GDP比率也大幅下滑。 (中新經緯)"
-    },
-    {
-      "id": "mkt:019ed033-0937-7dd8-b02e-1a2f828248f3",
-      "time": "2026-06-16 19:31:06",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK",
-        "DXY",
-        "Impact bullish",
-        "EURUSD",
-        "Impact bearish",
-        "DAX"
-      ],
-      "text": "Russia's foreign minister Lavrov said Ukraine's prospective EU membership would be exploited by those seeking to militarize the EU."
-    },
-    {
-      "id": "mkt:019ed032-d4c6-7dd8-b02e-12d7b006cec7",
-      "time": "2026-06-16 19:30:52",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "The Trump Trade"
-      ],
-      "text": "Zelenskiy says Trump is very positive and believes the U.S. can provide more air-defense missiles to assist Ukraine."
-    },
-    {
-      "id": "4938679",
-      "time": "2026-06-16 19:30:27",
-      "tags": [
-        "其他"
-      ],
-      "text": "【我國服務外包產業20年間合同執行額增長220倍】第十五屆中國國際服務外包交易博覽會6月16日在湖北武漢開幕。會上釋出的《中國數字服務暨服務外包發展報告（2026年度）》顯示，20年間，中國服務外包產業合同執行額從13.8億美元增長至3032.4億美元，增長約220倍；企業數量從約500家增至9萬多家，從業人員從不足6萬人增至1765.5萬人。（新華社）"
-    },
-    {
-      "id": "mkt:019ed032-16fa-7dd8-b02e-0ec0537930d9",
-      "time": "2026-06-16 19:30:03",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bullish",
-        "DXY",
-        "S&P500",
-        "Impact bearish"
-      ],
-      "text": "Ukrainian President Zelenskiy said the G7 discussed sanctions targeting Russia's energy, banking and military sectors."
-    },
-    {
-      "id": "4938678",
-      "time": "2026-06-16 19:29:40",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "澤連斯基：七國集團已討論針對俄羅斯能源、銀行業及軍事領域的制裁。"
     }
   ]
 }
