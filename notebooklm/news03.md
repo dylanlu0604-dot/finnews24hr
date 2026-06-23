@@ -1,7 +1,373 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-06-24 05:50:02_
-_本檔包含 3818 則快訊，約 652177 字_
+_更新時間：2026-06-24 06:36:56_
+_本檔包含 3835 則快訊，約 652054 字_
+
+---
+
+### 2026-06-21 21:03:30  #國際
+
+卡達總理：我們看到了來自範斯、巴基斯坦總理和伊朗外長的奉獻和巨大努力。
+
+---
+
+### 2026-06-21 21:02:49  #MKT News #Important
+
+【US, Iran, Pakistan and Qatar begin four-party talks in Switzerland】Delegations from Iran, the United States, Pakistan and Qatar began four-party talks in Switzerland on June 21.
+
+---
+
+### 2026-06-21 21:01:53  #國際
+
+【美伊巴卡四方會談開始】伊朗法爾斯通訊社今天（6月21日）報道，伊朗、美國、巴基斯坦和卡達代表團的四方會談在瑞士開始。（CCTV國際時訊）
+
+---
+
+### 2026-06-21 21:01:30  #其他
+
+據燈塔專業版資料，截至6月21日21時，2026年端午檔票房3.94億，《玩具總動員5》成為2026端午檔（6.19-6.21）票房冠軍。2026年端午檔票房TOP5影片為《玩具總動員5》《給阿嬤的情書》《抓特務》《火遮眼》《我看見兩朵一樣的雲》。
+
+---
+
+### 2026-06-21 21:01:26  #MKT News
+
+【Colombia holds presidential runoff vote】On June 21 Colombia is holding a presidential runoff between independent Avelardo de la Espriella of the far‑right Homeland Defenders grouping and Ivan Cepeda of the left‑wing Historic Pact coalition to choose the president for 2026–2030. Polls opened at 08:00 and close at 16:00 local time; counting begins immediately after and preliminary results are expected tonight. No candidate won a majority in the May 31 first round; under current rules the candidate with the most votes in the runoff will be elected.
+
+---
+
+### 2026-06-21 21:01:21  #國際
+
+【萬斯稱特朗普致力於區域全面停火】美國副總統萬斯今天（6月21日）表示，美國總統特朗普致力於區域全面停火，希望改善與伊朗人的關係。他還說，過去數小時在相關問題上取得重大進展，希望能夠透過外交手段合作以改變中東。（CCTV國際時訊）
+
+---
+
+### 2026-06-21 21:00:40  #MKT News
+
+U.S. Vice President Vance said more work remains and he looks forward to working together.
+
+---
+
+### 2026-06-21 21:00:37  #MKT News
+
+Vice President Vance said today leaders are attending primarily to establish a framework for technical negotiations and to ensure their teams have full backing and can seek help to overcome any obstacles.
+
+---
+
+### 2026-06-21 21:00:17  #其他
+
+【哥倫比亞舉行總統選舉第二輪投票】當地時間6月21日，哥倫比亞舉行總統選舉第二輪投票，選民將從極右翼政治團體“祖國捍衛者”的獨立候選人阿韋拉多·德拉埃斯普列亞和左翼執政聯盟“哥倫比亞歷史公約聯盟”候選人伊萬·塞佩達中選出新一任總統，任期為2026年至2030年。當天上午8時，第二輪投票正式開始。投票將於當日16時結束，隨後進入計票階段，初步計票結果預計於當晚公佈。（央視新聞）
+
+---
+
+### 2026-06-21 21:00:01  #MKT News
+
+U.S. Vice President Vance said President Trump envisions the Middle East will be completely different in a decade.
+
+---
+
+### 2026-06-21 20:59:36  #焦點 #國際
+
+【萬斯：美國願與伊朗實現關係 “根本性轉變”】美國副總統 J.D. 萬斯在這場事關重大、層級頗高的美伊高階別會談前發表的講話，他表示美國願意同伊朗實現雙邊關係的 “根本性轉變”。萬斯開篇稱：“伊美兩國領導層從未開展過如此高階別的會面。”他補充道：“總統囑託我們翻開全新一頁，重塑美國與伊朗民眾的關係，向伊朗人民伸出和解之手。我們想告訴伊朗方面：只要伊朗領導層不再主動製造地區動盪、長期放棄核武器研發訴求，美國就願意同伊朗實現雙邊關係的根本性轉變。這無疑是我們的目標。”“短短數小時內我們已經取得顯著進展，我預計接下來的幾小時內還將收穫更多成果。”
+
+---
+
+### 2026-06-21 20:57:54  #公司
+
+【眾泰汽車：2026年第三次臨時股東會將審議董事罷免等議案】眾泰汽車公告稱，公司將於2026年6月29日召開2026年第三次臨時股東會。6月19日，股東厚土蘭德（截至提案提出日持股1.29億股，佔比2.55%）提議將罷免王伊安、鍾雨菲董事職務的議案提交審議，因許明哲已辭職，厚土蘭德撤回對其罷免議案。董事會同意將上述兩項罷免議案提交會議審議，會議還將審議全資三級子公司登出生產地址、與債權人達成債務和解等議案。
+
+---
+
+### 2026-06-21 20:56:41  #MKT News
+
+U.S. Vice President Vance said technical talks may not resolve all differences, but they will, for the first time in history, enable us to sit together as a team.
+
+---
+
+### 2026-06-21 20:56:35  #國際
+
+美國副總統萬斯：技術性談判或許無法解決所有分歧，但這將讓我們雙方團隊有史以來第一次能夠坐在一起共事。
+
+---
+
+### 2026-06-21 20:56:18  #國際
+
+美國副總統萬斯：各方有意搭建框架，用以開展技術性磋商。
+
+---
+
+### 2026-06-21 20:55:45  #其他
+
+卡達總理：今天的會議只是實現目標的開始。
+
+---
+
+### 2026-06-21 20:55:37  #公司
+
+利比亞國家石油公司稱原油產量達到144萬桶/日，為2013年以來最高水平。
+
+---
+
+### 2026-06-21 20:55:36  #MKT News #Important #S&P500 #Impact bullish #DXY #Impact bearish #XAUUSD
+
+U.S. Vice President Vance said President Trump is committed to securing a comprehensive regional ceasefire.
+
+---
+
+### 2026-06-21 20:55:34  #國際
+
+美國副總統萬斯：今天的會議意味著技術談判的開始。
+
+---
+
+### 2026-06-21 20:55:24  #焦點 #國際
+
+美國副總統萬斯：特朗普承諾推動實現該地區全面停火。
+
+---
+
+### 2026-06-21 20:55:06  #國際
+
+美國副總統萬斯：這類停火協議往往“有點混亂”。
+
+---
+
+### 2026-06-21 20:54:41  #MKT News #Important #S&P500 #Impact bullish #WTI #Impact bearish #XAUUSD
+
+U.S. Vice President Vance said over the past few days the U.S. has made significant progress in securing a ceasefire in Lebanon.
+
+---
+
+### 2026-06-21 20:54:37  #國際
+
+美國副總統萬斯：對於黎巴嫩問題目前的進展，我感到十分樂觀。
+
+---
+
+### 2026-06-21 20:54:29  #MKT News
+
+Qatar's prime minister said today's meeting is only the beginning of achieving the objectives.
+
+---
+
+### 2026-06-21 20:54:03  #MKT News #Important
+
+U.S. Vice President Vance expects further progress within hours.
+
+---
+
+### 2026-06-21 20:53:50  #MKT News
+
+U.S. Vice President Vance said President Trump has asked us to "open a new chapter" to change our relationship with the Iranian people.
+
+---
+
+### 2026-06-21 20:53:29  #國際
+
+美國副總統萬斯：如果伊朗放棄核武器，美國願意改變與伊朗的關係。
+
+---
+
+### 2026-06-21 20:53:17  #MKT News
+
+U.S. Vice President Vance said a shared future is now visible and parties can work together to advance peace and prosperity.
+
+---
+
+### 2026-06-21 20:53:13  #國際
+
+美國副總統萬斯：如今我們看到，未來我們能夠攜手共進，合力推動和平與繁榮。
+
+---
+
+### 2026-06-21 20:53:04  #MKT News
+
+U.S. Vice President Vance said Iran should abandon its nuclear ambitions.
+
+---
+
+### 2026-06-21 20:52:58  #MKT News
+
+US Vice President Vance said he witnessed a historic meeting between the US and Iran.
+
+---
+
+### 2026-06-21 20:52:50  #MKT News
+
+US Vice President Vance said significant progress had been made in the past few hours.
+
+---
+
+### 2026-06-21 20:52:46  #焦點 #國際
+
+美國副總統萬斯：預計數小時內將取得更多進展。
+
+---
+
+### 2026-06-21 20:52:34  #焦點 #國際
+
+美國副總統萬斯：我們已開放霍爾木茲海峽，期待進一步舉措。
+
+---
+
+### 2026-06-21 20:52:32  #MKT News #WTI #Impact bullish #XAUUSD
+
+U.S. Vice President Vance said Iran has long been a driver of regional instability.
+
+---
+
+### 2026-06-21 20:52:31  #MKT News
+
+U.S. Vice President Vance said the U.S. is working to transform the situation in the Middle East through diplomatic cooperation.
+
+---
+
+### 2026-06-21 20:52:21  #MKT News #Important #WTI #Impact bullish #Brent #DXY
+
+US Vice President Vance said the United States has opened the Strait of Hormuz and expects further measures.
+
+---
+
+### 2026-06-21 20:52:11  #國際
+
+美國副總統萬斯：過去幾個小時取得了很大進展。
+
+---
+
+### 2026-06-21 20:52:00  #國際
+
+美國副總統萬斯：特朗普要求我們翻開全新一頁。
+
+---
+
+### 2026-06-21 20:51:53  #國際
+
+美國副總統萬斯：伊朗一直是地區不穩定的推手。
+
+---
+
+### 2026-06-21 20:51:30  #國際
+
+美國副總統萬斯：我們正試圖透過外交手段共同努力，實現中東局勢的轉變。
+
+---
+
+### 2026-06-21 20:51:00  #MKT News
+
+U.S. Vice President Vance said the key is whether the United States can permanently alter relations in the Middle East.
+
+---
+
+### 2026-06-21 20:50:52  #MKT News
+
+U.S. Vice President Vance said Trump authorized them to seek diplomatic solutions on a range of issues.
+
+---
+
+### 2026-06-21 20:50:33  #國際
+
+美國副總統萬斯： 我們並不希望重回以往的行事方式 。
+
+---
+
+### 2026-06-21 20:50:21  #國際
+
+美國副總統萬斯：特朗普授權我們就一系列問題尋求外交解決方案。
+
+---
+
+### 2026-06-21 20:49:53  #其他
+
+巴基斯坦總理：我相信我們將進行卓有成效的討論，結果會非常好。
+
+---
+
+### 2026-06-21 20:49:45  #國際
+
+萬斯：關鍵問題在於我們在中東還能取得多少進展。
+
+---
+
+### 2026-06-21 20:48:52  #MKT News
+
+Pakistan's prime minister said he expects productive talks and very positive outcomes.
+
+---
+
+### 2026-06-21 20:48:44  #其他
+
+巴基斯坦總理表示，這是一個偉大的日子，將促進地區的和平與繁榮。
+
+---
+
+### 2026-06-21 20:48:36  #MKT News
+
+Saudi outlet Hadas reports Pakistan's prime minister said the day will promote regional peace and prosperity.
+
+---
+
+### 2026-06-21 20:48:12  #國際
+
+美國國家安全域性局長：在美國國家安全域性一次授權紅藍對抗測試中，Anthropic 旗下人工智慧模型Mythos在數小時內便獲取了幾乎全部涉密系統的訪問許可權。
+
+---
+
+### 2026-06-21 20:45:42  #MKT News #Important
+
+【US, Iran Begin Talks in Switzerland】US and Iranian delegations have arrived and begun negotiations in Switzerland.
+
+---
+
+### 2026-06-21 20:44:50  #焦點 #國際
+
+【美伊在瑞士開始談判】新華社記者21日在瑞士比爾根山現場看到，美國和伊朗代表團已抵達會場開始談判。 （新華社）
+
+---
+
+### 2026-06-21 20:40:04  #其他 #焦點
+
+美伊談判現場即將召開新聞釋出會。
+
+---
+
+### 2026-06-21 20:40:01  #MKT News #Important
+
+Al-Arabiya reports a press conference is scheduled shortly at the U.S.-Iran talks venue.
+
+---
+
+### 2026-06-21 20:38:07  #國際
+
+加沙急救中心的一名訊息人士表示，以色列政權對加沙地帶南部汗尤尼斯市西部進行了空襲，2人遇難，若干人受傷。
+
+---
+
+### 2026-06-21 20:38:04  #國際
+
+法航將往返以色列的航班取消期限延長至 6 月 30 日。
+
+---
+
+### 2026-06-21 20:36:04  #國際
+
+埃及與阿聯酋企業簽署合作協議，將投資逾30億美元開發新開羅城市專案。
+
+---
+
+### 2026-06-21 20:35:32  #市場
+
+市場訊息：幾內亞總統下令禁止黃金原礦出口。
+
+---
+
+### 2026-06-21 20:31:24  #公司
+
+【眾泰汽車：董事許明哲先生因個人工作調整辭職】眾泰汽車公告，公司董事會於2026年6月20日收到董事許明哲先生的書面辭職報告。許明哲先生因個人工作調整，申請辭去公司第九屆董事會董事等相關職務，辭職後將不在公司擔任任何職務。根據相關規定，許明哲先生的辭職不會導致公司董事會成員低於法定最低人數，不會影響公司董事會的正常執行，亦不會對公司的日常經營產生不利影響，辭職報告自送達董事會之日起生效。
+
+---
+
+### 2026-06-21 20:26:01  #MKT News
+
+【CITIC Securities says China's nano‑zirconia set for rapid growth】CITIC Securities research says demand for high‑end zirconia in China should rise as solid‑state battery supply chains accelerate, SOFCs expand rapidly, electronic‑grade bioceramics grow and nuclear power enters a recovery cycle. Yttria (yttrium oxide), the key stabilizer for zirconia, faces constrained rare‑earth supply after output from Japanese suppliers including Tosoh and First Rare Element Chemical fell sharply, supporting expectations that Chinese producers will gain significant share of the global high‑end zirconia market. Zirconium oxychloride feedstock prices are up about 30% since the start of the year and downstream zirconia prices have risen roughly 30% YTD. Electronic‑grade high‑purity nano‑zirconia is quoted at $50–65.7/kg and yttria‑stabilized zirconia (YSZ) high‑end powders at $50–150/kg. Domestic high‑end zirconia market is seeing simultaneous volume and price increases.
 
 ---
 
@@ -22763,269 +23129,5 @@ Equinix Stock Price Hits 7-week High — Equinix shares increased to 1108.00 USD
 ### 2026-06-18 22:21:58  #Trading Economics #Markets #Canada #Stock Market #Importance 1
 
 TSX Edges Lower Amid Hawkish Fed Outlook — Canada’s S&P/TSX Composite Index edged lower to trade near 35,000 on Wednesday as investors weighed a hawkish US Fed outlook and the signing of an interim peace deal between the US and Iran. The Fed kept interest rates unchanged, but its projections were seen as more hawkish than anticipated, with roughly half of FOMC members expecting at least one rate hike this year, raising concerns over higher borrowing costs. Financial stocks traded mixed, with TD Bank up nearly 1%, while Brookfield edged lower. Mining stocks were also mixed as gold prices eased, with Barrick gaining nearly 1%, while Agnico Eagle and WPM slipped. The energy sector weighed heavily as oil prices declined after the US-Iran agreement aimed at ending the conflict and reopening the Strait of Hormuz. Canadian Natural and Suncor fell over 3%, while Imperial Oil lost nearly 4%. Tech stocks also weakened, tracking losses in the US software sector, with Shopify down 0.9% and Constellation Software falling more than 2%.
-
----
-
-### 2026-06-18 22:21:56  #公司
-
-華納兄弟探索宣佈推出由智慧體人工智慧驅動的廣告技術，該技術搭建在其首選雲服務提供商亞馬遜雲科技的雲上。
-
----
-
-### 2026-06-18 22:21:44  #其他
-
-訊息人士：巴基斯坦總理原定瑞士之行因美伊協議電子簽署事宜推遲。
-
----
-
-### 2026-06-18 22:20:23  #其他
-
-德國正在就延長石油儲備豁免進行談判。
-
----
-
-### 2026-06-18 22:20:03  #MKT News #Important #Commodities #Energy
-
-U.S. EIA weekly natural gas storage for the week ending June 12 due in 10 minutes.
-
----
-
-### 2026-06-18 22:19:53  #MKT News #Market Themes #The Trump Trade
-
-Kan News reported President Trump said he may back Netanyahu in Israel's election, but that would depend on who his opponent is.
-
----
-
-### 2026-06-18 22:19:33  #國際
-
-特朗普：我大機率會在內塔尼亞胡的選舉中支援他，但還得看看誰會作為對手參選。
-
----
-
-### 2026-06-18 22:19:23  #公司
-
-【寧波遠洋：向特定物件發行A股股票申請獲上交所稽核透過】寧波遠洋公告稱，公司於2026年6月18日收到上交所出具的稽核意見，公司向特定物件發行股票申請符合發行條件、上市條件和資訊披露要求，上交所將在收到申請檔案後提交中國證監會註冊。本次發行尚需獲中國證監會同意註冊後方可實施，最終能否獲批及時間存在不確定性。
-
----
-
-### 2026-06-18 22:19:09  #MKT News
-
-EU plans to re-examine bank rules on bonuses and market risk.
-
----
-
-### 2026-06-18 22:18:48  #其他
-
-市場訊息：訊息人士透露，巴基斯坦將調整其在即將舉行的瑞士會議上的代表級別。
-
----
-
-### 2026-06-18 22:18:35  #公司
-
-【山東藥玻：獲國資批覆向特定物件發行不超1.99億股A股】山東藥玻公告稱，6月18日公司收到沂源縣財政局轉來的《淄博市人民政府國有資產監督管理委員會關於山東省藥用玻璃股份有限公司向特定物件發行股票有關事項的批覆》，原則同意公司本次向特定物件發行不超過199,084,233股（含本數）A股股份。本次定向增發尚需獲有權國有資產監督管理部門批准、公司股東會審議、上交所稽核、中國證監會同意註冊後實施，最終結果存在不確定性。
-
----
-
-### 2026-06-18 22:18:27  #國際
-
-美國地質調查局：阿拉斯加州阿達克西南偏西 211 公里處發生 5.0 級地震。
-
----
-
-### 2026-06-18 22:18:19  #國際
-
-歐盟計劃重新審議銀行薪酬獎金及市場風險相關監管法規。
-
----
-
-### 2026-06-18 22:18:17  #MKT News
-
-TASNIM NEWS cites sources saying Pakistan will adjust the level of its delegation at an upcoming Swiss meeting.
-
----
-
-### 2026-06-18 22:16:37  #國際
-
-美國聯邦能源管理委員會主席斯韋特：將責令電網制定明確規則，以接入資料中心。
-
----
-
-### 2026-06-18 22:16:16  #國際
-
-正在訪問黎巴嫩的英國發展大臣表示，以色列軍隊必須從黎巴嫩南部撤軍，以允許流離失所者返回家園。
-
----
-
-### 2026-06-18 22:16:00  #MKT News #S&P500 #Impact bullish #Copper
-
-FERC Chair Swett said he will order U.S. grid operators to adopt clear interconnection rules for data centers.
-
----
-
-### 2026-06-18 22:15:51  #市場 #焦點
-
-現貨黃金失守4240美元/盎司，日內跌0.41%。
-
----
-
-### 2026-06-18 22:15:20  #MKT News
-
-Austria's chancellor said Europe should engage in dialogue with Putin.
-
----
-
-### 2026-06-18 22:15:09  #國際
-
-奧地利總理稱歐洲應與普京對話。
-
----
-
-### 2026-06-18 22:15:04  #MKT News #GBPUSD #Impact bearish #DXY #Impact bullish
-
-【TD Securities: Bank of England may resume cuts in 2027】A TD Securities strategist said the Bank of England could keep Bank Rate at 3.75% for the remainder of 2026 and resume cutting in 2027. Elevated uncertainty over the inflation outlook and UK political risk could prompt the BoE to hold rates. LSEG data show markets have fully priced a 25bp BoE hike in 2026.
-
----
-
-### 2026-06-18 22:14:55  #MKT News #Market Regions #Greater China
-
-【China Resources Beer opens exit economic-responsibility audit of Shuijingfang GM Gan Xiaofeng; company says internal process】Market reports say China Resources Beer (Holdings) Ltd has launched a special exit audit of the economic-responsibility performance of Gan Xiaofeng, former GM of Jingzhi Baijiu and current GM of Shuijingfang. A contact in China Resources Beer's audit team confirmed the audit is underway, described it as an internal company process and said there is nothing for external disclosure. Shuijingfang had not responded by publication time.
-
----
-
-### 2026-06-18 22:14:46  #其他
-
-臺積電美股漲超4%，再創歷史新高。
-
----
-
-### 2026-06-18 22:14:46  #MKT News #XAUUSD #Impact bullish
-
-Iran foreign minister said under a memorandum of understanding the US has a responsibility to end wars on all fronts, including in Lebanon.
-
----
-
-### 2026-06-18 22:14:31  #市場 #國際
-
-惠譽評美國消費者支出：油價若能持續下跌，或將緩解支出承壓狀況。
-
----
-
-### 2026-06-18 22:14:14  #MKT News #Important #Commodities #Energy #WTI #Impact bearish
-
-WTI crude futures fell to $73/bbl, down 3.97% intraday.
-
----
-
-### 2026-06-18 22:14:12  #國際
-
-伊朗外長：根據諒解備忘錄，美國有責任結束包括黎巴嫩在內的所有戰線的戰爭。
-
----
-
-### 2026-06-18 22:14:01  #MKT News
-
-Iran's foreign minister held a phone call with France's foreign minister.
-
----
-
-### 2026-06-18 22:13:39  #MKT News #SNDK.O #Impact bullish
-
-【SanDisk shares up more than 800% YTD】SanDisk (SNDK.O) shares jumped 10% to $2,147, lifting market cap to $317.9 bln; up over 800% YTD.
-
----
-
-### 2026-06-18 22:13:31  #市場
-
-WTI原油日內跌4%，現報72.96美元/桶。
-
----
-
-### 2026-06-18 22:13:31  #市場 #焦點
-
-WTI原油失守73美元/桶，日內跌3.96%。
-
----
-
-### 2026-06-18 22:13:01  #MKT News #GBPUSD #Impact bearish #DXY #Impact bullish
-
-【Weak UK economy lowers Bank of England rate‑hike odds, Candriam says】Candriam strategist Jamie Niven says weak UK growth reduces the urgency for Bank of England rate hikes. At Thursday’s decision the Bank held rates at 3.75%; two of nine policymakers voted to raise. Niven expects the Bank to keep rates at 3.75% for the remainder of 2026, conditional on no further escalation in the Middle East conflict.
-
----
-
-### 2026-06-18 22:12:58  #市場
-
-迪拜黃金和商品交易所(DGCX)表示，將於6月22日推出當日結算黃金期貨合約。
-
----
-
-### 2026-06-18 22:12:18  #公司
-
-【對水井坊總經理幹曉峰啟動離任經濟責任審計，華潤啤酒：屬內部流程】6月18日，市場傳出訊息稱，華潤啤酒（控股）有限公司已對景芝白酒原總經理、現任水井坊總經理幹曉峰任職期間的經濟責任履行情況開展專項審計。記者就上述網傳電話致電華潤啤酒審計組聯絡人，對方表示確有此事，屬於公司內部流程，並沒有可以對外披露的內容。同時，記者聯絡到水井坊方面，截至發稿並未獲得回覆。（藍鯨新聞）
-
----
-
-### 2026-06-18 22:11:35  #國際
-
-惠譽評級：通脹擠壓收入，美國消費者動能放緩。
-
----
-
-### 2026-06-18 22:11:30  #國際
-
-伊朗外長：伊朗與法國外長舉行電話會談。
-
----
-
-### 2026-06-18 22:10:49  #市場
-
-【閃迪股價漲幅擴大至10% 今年以來累計大漲超800%】閃迪股價漲幅擴大至10%，報2147美元/股，總市值報3179億美元，今年以來累計大漲超800%。其他三隻儲存股也大幅上漲，美光科技漲6.6%，西部資料漲10%，希捷科技漲超4%。
-
----
-
-### 2026-06-18 22:10:35  #其他
-
-【巴奴更新招股書：2025年人均消費下探至139元、利潤同比增長88.7%，擬三年新開177家門店】6月17日，巴奴第三次衝刺港股。最新招股書顯示，2025年巴奴收入和利潤雙增，人均消費下降但翻檯率回升，會員數量大增，門店擴張提速且盈利能力提升。本次IPO募資主要用於拓展直營網路等。在火鍋行業承壓背景下，巴奴營收利潤高增長，此次衝擊港股，拓店計劃和品牌增長韌性或成資本市場關注焦點。
-
----
-
-### 2026-06-18 22:09:50  #MKT News #Macro & Rates #GBPUSD #Impact bearish #FTSE100 #DXY #Impact bullish
-
-【Pantheon Macro: Bank of England likely to stay on hold long term but tilt toward hikes remains】Pantheon Macro's Rob Wood says the Bank of England appears set to keep policy on hold for an extended period, although most MPC members acknowledge a risk that further rate hikes may be needed. Policymakers flagged the risk of oil prices remaining elevated, and noted recent inflation has undershot expectations but they see little evidence the Middle East conflict has caused a rapid demand shock. Pantheon Macro expects Bank Rate to remain at 3.75% through end-2027; unchanged guidance may disappoint markets after some had priced a chance of more than two MPC votes for a hike at the July meeting.
-
----
-
-### 2026-06-18 22:09:10  #央行 #國際
-
-【資深策略師Yardeni：美聯儲若真想實現通脹目標就很可能加息】資深市場策略師Ed Yardeni表示，如果美聯儲真打算將通脹率降至2%的目標水平，那很有可能會上調利率。週三美聯儲維持利率不變，新任主席凱文·沃什在隨後的新聞釋出會上展現的鷹派姿態令市場感到意外。“讓我印象最深的是沃什說的一句話：‘看，我們已經五年多沒有達到2%的通脹目標了’，”Yardeni Research總裁兼首席投資策略師Yardeni在彭博電視上表示，“如果不加息，怎麼能實現這一目標呢？所以我認為市場現在的判斷是正確的。”
-
----
-
-### 2026-06-18 22:08:45  #MKT News #Important
-
-【Pakistani media: Pakistan PM cancels Swiss visit】Pakistani media, citing sources on the 18th, reported Prime Minister Shehbaz Sharif has cancelled a planned trip to Switzerland. Shehbaz, acting as mediator for a US‑Iran memorandum of understanding, had said on the 15th the MoU signing would take place on the 19th in Switzerland and that Pakistan would host the ceremony.
-
----
-
-### 2026-06-18 22:08:34  #公司 #市場
-
-【6月18日增減持彙總】據不完全統計，6月18日盤後，華凱易佰、秋田微、璉升科技、坤彩科技、鐵科軌道、騰亞精工6家上市公司披露擬減持情況，當日暫無A股公司披露增持情況。
-
----
-
-### 2026-06-18 22:07:52  #其他 #焦點
-
-據巴基斯坦媒體援引訊息人士18日報道，作為美伊諒解備忘錄調解人的巴基斯坦總理夏巴茲已取消原定的瑞士之行。 夏巴茲15日曾表示，美伊諒解備忘錄簽署儀式將於19日在瑞士舉行，巴方將主持儀式。（新華社）
-
----
-
-### 2026-06-18 22:07:42  #其他
-
-【國產衛星發動機價格打下來了】當前我國用於對地觀測的商業遙感技術能力不斷迭代，組網提速，據不完全統計，總規劃遙感衛星數量超萬顆。為突破遙感資料利用的瓶頸，一些遙感星座也將AI晶片部署上星。業內人士分析，如果遙感資料能夠充分實現在軌AI分析處理，需要下傳的資料量可以減少到原來的5%到10%。從給衛星裝上"發動機"的電推進系統，到提供能源的柔性太陽翼，一批平臺級硬科技正加速從實驗室走向生產線，支撐我國衛星星座的規模化部署。在浙江杭州的一個航天產品實驗室內，電推進系統正在模擬的太空環境中進行所謂的點火測試。幽藍色的等離子光環就是將惰性氣體如氙氣、氪氣電離，再用磁場把離子加速噴出的效果，它產生的推力，就足夠衛星在空間中航行。這也是目前最先進的空間推進技術之一。低軌衛星執行時需依靠推進器實現維持軌道、切換軌道和末期離軌等任務。這款國產電推進系統可以實現將離子以每秒15到30公里的速度噴出，效率是化學推進的5倍以上。雖然推力只有十幾到三十幾毫牛，僅相當於托起一張A4紙所需的力，但勝在可以持續輸出。如今，這套擁有自主智慧財產權的電推進產品與效能達到國際先進水平，可以適配商業航天領域不同任務需求，價格也從傳統航天任務的近200萬元一套，降到了現在的50到70萬元。（央視財經）
-
----
-
-### 2026-06-18 22:07:35  #MKT News #Market Regions #Europe & UK #GBPUSD #Impact bearish
-
-【Monex: Pound outlook after BoE decision hinges on data, politics】Monex Europe strategist Nick Rees said after the Bank of England left the policy rate at 3.75% on Thursday that upcoming UK economic data and domestic political developments will determine whether the pound weakens further. Two of nine MPC members voted to raise rates, but BoE communications signalled an overall lack of urgency to change policy in the near term. Rees said further evidence of economic weakness combined with rising political risk could push the pound lower.
 
 ---

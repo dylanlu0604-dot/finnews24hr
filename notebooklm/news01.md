@@ -1,7 +1,243 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-06-24 05:50:02_
-_本檔包含 3416 則快訊，約 651910 字_
+_更新時間：2026-06-24 06:36:56_
+_本檔包含 3410 則快訊，約 651513 字_
+
+---
+
+### 2026-06-24 06:35:11  #Trading Economics #Markets #Commodity #Importance 1
+
+Metals Commodities Updates: Silver Tumbles by 5.39% — Top commodity losers are Silver (-5.39%), Copper (-3.79%) and Gold (-2.16%). Gains are led by Lithium Carbonate (0.96%).
+
+---
+
+### 2026-06-24 06:34:37  #MKT News #Commodities #Precious Metals #XAUUSD #Impact bearish
+
+Spot gold slipped below $4,100/oz, down 0.24% intraday.
+
+---
+
+### 2026-06-24 06:34:05  #其他
+
+德國擬取消建造二戰以來最大軍艦的計劃。
+
+---
+
+### 2026-06-24 06:33:59  #MKT News #Commodities #Energy #PETR4.SA #Impact bullish
+
+Petrobras CEO said production from January through May rose 10% year-on-year.
+
+---
+
+### 2026-06-24 06:33:32  #MKT News
+
+According to the Financial Times, Germany plans to cancel construction of its largest warship since World War II.
+
+---
+
+### 2026-06-24 06:31:08  #資料 #市場 #央行 #國際
+
+【週三重要財經資訊提醒（以下均為北京時間）】 
+① 時間待定 日本央行副行長冰見野良三發表講話；
+② 07:50 日本央行公佈6月貨幣政策會議審議委員意見摘要；
+③ 時間待定 2026上海世界行動通訊大會開幕；
+④ 09:30 澳大利亞5月CPI；
+⑤ 14:30 澳洲聯儲助理主席Hauser講話；
+⑥ 15:00 泰國央行公佈利率決議，瑞士央行理事Martin講話；
+⑦ 16:00 德國6月IFO商業景氣指數；
+⑧ 17:00 歐洲央行管委兼德國央行行長Nagel討論數字歐元；
+⑨ 19:15 加拿大央行高階副行長Rogers在蘇黎世講話；
+⑩ 19:20 英國央行副行長Breeden在蘇黎世講話；
+⑪ 20:30 美國一季度經常帳；
+⑫ 21:35 歐洲央行執行委員會成員Piero Cipollone透過線上方式參與一場爐邊閒聊；
+⑬ 22:00 美國5月新屋銷售；
+⑭ 22:30 美國能源資訊署（EIA）釋出政府版原油庫存週報；
+⑮ 23:00 英國央行貨幣政策委員會（MPC）成員Swati Dhingra講話；
+⑯ 23:30 法國央行行長Emmanuel Moulin講話；
+⑰ 次日01:30 加拿大央行公佈兩週前貨幣政策會議的摘要；
+⑱ 次日02:00 美聯儲理事庫克講話（為開場白預先錄製）；
+⑲ 次日04:00 美聯儲公佈年度銀行壓力測試結果，日本央行行長植田和男出席IMF舉辦的央行講座活動；
+⑳ 美股盤後 美光科技釋出業績報告。
+
+---
+
+### 2026-06-24 06:30:11  #Trading Economics #Markets #Commodity #Importance 1
+
+Energy Commodities Updates: Natural gas Drops by 3.01% — Top commodity losers are Natural gas (-3.01%), Methanol (-2.81%), Gasoline (-1.54%), Brent Crude Oil (-1.21%) and Crude Oil WTI (-1%). Gains are led by Heating Oil (2.11%), Natural Gas UK (0.83%) and Natural Gas EU (0.51%).
+
+---
+
+### 2026-06-24 06:23:54  #其他
+
+國泰航空：5月客運載客率為86.8%，同比上升2.0個百分點。
+
+---
+
+### 2026-06-24 06:22:50  #公司
+
+巴西國家石油公司執行長表示，今年1月至5月，該公司產量較去年同期增長10%。
+
+---
+
+### 2026-06-24 06:22:22  #市場
+
+日經股指期貨當前報價為69430點，而現貨收盤報69788點。
+
+---
+
+### 2026-06-24 06:19:37  #公司
+
+【北交所公司迎來密集調研，機構掘金“專精特新”標的】據不完全統計，近一個月內，有近40家北交所公司密集接待機構調研，其中新能源、半導體裝置、生物醫藥、高階製造領域的“隱形冠軍”成為機構扎堆目的地。機構調研過程中，公募、保險等長線資金頻繁現身。當前機構調研的關注重心已不再侷限於單純的財務資料核驗，進一步延伸至產能週期拐點、技術商業化落地節點及全球供應鏈格局變動等深層維度，各方借實地調研研判企業真實發展前景，重點挖掘存在估值窪地的專精特新企業標的。（上證報）
+
+---
+
+### 2026-06-24 06:19:10  #公司
+
+【擴產、增效步履不停 多家公司上半年業績預喜】2026年A股公司半年報披露即將拉開帷幕。目前，已有一批上市公司提前報喜。Wind資料顯示，截至6月23日20時，A股共有11家公司“透底”2026年上半年業績，若以預告歸母淨利潤同比增長上限來看，10家公司業績預盈。上述公司業績的穩步增長，得益於“內”“外”兼修：一方面，透過“勤練內功”，加強研發投入、產品迭代更新、降本增效，驅動公司業務持續拓展；另一方面，不少公司快速響應客戶需求，銷售業績大幅增長，積極把握市場機遇。（上證報）
+
+---
+
+### 2026-06-24 06:15:11  #Trading Economics #Markets #Currency #Importance 1
+
+FX Updates: Swedish Krona Drops by 1.25% — Top currency losers are Swedish Krona (-1.25%), Australian Dollar (-1.20%), Mexican Peso (-1.09%), Euro (-0.42%) and British Pound (-0.37%). Gains are led by South Korean Won (0.46%) and Dollar Index (0.36%). Meanwhile Japanese Yen was little changed.
+
+---
+
+### 2026-06-24 06:14:26  #公司 #市場
+
+【港股市場謹慎情緒蔓延 機構建議把握三條主線】近期，港股市場持續調整。今年以來，港股整體震盪走弱，行業板塊表現分化，截至6月23日收盤，恒生指數累計跌近9%，恒生科技指數累計跌逾20%，工業、綜合企業、金融業等傳統行業板塊領漲。 資金表現相對謹慎，南向資金淨流入額和上市公司回購金額均同比減少。Wind資料顯示，截至6月23日，今年以來南向資金累計淨流入超3000億港元；截至6月22日，港股上市公司回購金額超850億港元。 機構人士認為，本輪港股下跌的主要驅動因素或來自沽空力量的抬升，而並非多頭的拋壓，中樞反轉仍要看大廠AI進展和消費修復催化，當前尚未到合適時機。投資應把握三條主線，包括超跌板塊，高股息、紅利資產，科技板塊。（中證報）
+
+---
+
+### 2026-06-24 06:14:07  #央行 #國際
+
+【港股新股市場火熱態勢延續 上半年“吸金”有望超2000億港元】2026年上半年行情接近尾聲。就港股而言，儘管二級市場表現難言出彩，但一級市場仍然延續了2025年以來的火熱態勢：Wind資料顯示，本週將有10家企業密集登陸港股，2026年上半年預計有83家企業完成IPO上市，募資總額有望超過2000億港元，上市企業數量及募資規模均較上年同期大幅增長。 業內人士認為，2026年上半年，香港市場新股數量及融資額有望再創高峰，全年新股募資規模有望位列全球前三位；就二級市場走勢而言，當前港股基本面拐點已確認，但市場信心和資金流向尚未形成合力，短期建議關注沽空壓力較重、盈利預期邊際企穩的超跌品種及高股息防禦資產，並警惕美聯儲釋放偏“鷹”訊號所引發的市場波動。（中證報）
+
+---
+
+### 2026-06-24 06:13:43  #公司 #市場
+
+【期貨行業監管加碼 雙罰機制壓實合規主體責任】期貨行業的監管風向，正在從“提醒”變成“動真格”。 過去，期貨公司分支機構出現員工管理不到位、居間合作不規範、網際網路營銷留痕缺失等問題，往往以警示函、責令改正、監管談話為主。但從2026年以來，監管力度明顯升級。中國證券報記者梳理各地證監局（監管局）及中國期貨業協會公開資訊發現，上半年，期貨行業處罰不僅覆蓋機構本身，還進一步追責至公司總部高管和分支機構負責人，處罰手段也擴充套件至暫停經紀業務新開戶、暫停新增居間合同、暫停資產管理業務等經營限制措施。 業內人士表示，本輪期貨行業監管邏輯十分清晰：一方面，透過“機構+負責人”雙罰制，倒逼總部承擔對分支機構的最終管理責任；另一方面，監管持續聚焦從業人員管理、居間合作、線上網際網路營銷等獲客前端風險，引導行業擺脫重規模、輕合規的發展老路，轉向注重內控、治理和穩健的良性競爭格局。（中證報）
+
+---
+
+### 2026-06-24 06:13:17  #觀點
+
+【投行業務“馬太效應”加劇 頭部券商主導股權承銷市場】Wind資料顯示，截至6月23日，2026年以來A股市場券商股權承銷金額排名中，中信證券以1382.48億元、32.88%的市場份額斷層領先，前五名券商合計承銷金額約3304億元，佔全市場總額的78.58%，前十名券商合計市場份額超87%，而其餘40餘家券商合計市場份額約為12.74%。 分析人士認為，頭部券商因在承銷保薦收入和跟投收益兩方面均能獲取較好回報，帶動資源進一步向其集中；中小券商在專案儲備、資金實力和跟投能力方面與頭部機構的差距仍在拉大，投行業務強者愈強的格局短期內難以改變。（中證報）
+
+---
+
+### 2026-06-24 06:13:00  #其他
+
+【告別3%以上利率“躺賺”時代 一批儲戶正經歷收益落差】2026年海量中長期定期存款將集中到期，多年前鎖定3%以上利率的儲戶們需直面利率接近腰斬的現實落差。隨著存款利率持續走低，當前多數銀行各期限存款利率進入“1字頭”區間，大額存單額度收緊、長期限存款產品不斷縮減，儲戶不得不向高息存款“躺賺”時代說再見。 業內人士表示，規模龐大的存款集中到期，既推動居民調整資金配置、切換風險偏好，配置重心由單一追逐保本高息轉向統籌平衡安全、收益與流動性，也倒逼銀行加速財富管理業務轉型。（中證報）
+
+---
+
+### 2026-06-24 06:11:57  #市場
+
+【半年報視窗期將至 機構看好39股高成長潛力】A股半年報視窗臨近，多家券商密集釋出研報梳理投資主線，行業景氣度成為個股估值核心錨點。當前多個板塊盈利預期持續上調，AI硬體和出海製造等賽道增長動能充足，一批一季報業績大幅翻倍、2026年預期增長的個股，受到機構重點關注。 從二級市場表現來看，上述39股年內平均漲幅累計超過47%，大幅跑贏同期各大主要指數。其中，25股實現上漲，佔比超過六成，整體表現顯著優於市場平均水平。（證券時報）
+
+---
+
+### 2026-06-24 06:11:00  #公司
+
+【年內重要股東增持超350億元 77家公司增持回購並舉提振信心】據資料寶統計，以變動截止日統計，截至6月23日，今年以來454家A股公司重要股東增持近30億股（僅統計增持方向），按照區間交易均價計算，合計增持金額超350億元。上市公司越來越多地打出 “增持+回購”組合拳，透過“關鍵少數”增持與股份回購雙管齊下，合力維護股價穩定、提振市場信心。（證券時報）
+
+---
+
+### 2026-06-24 06:08:58  #其他
+
+北約秘書長呂特：北約各國國防開支差距已大幅縮小。
+
+---
+
+### 2026-06-24 06:07:59  #其他
+
+【英格蘭0比0戰平迦納】北京時間6月24日，2026年美加墨世界盃進行L組第2輪角逐，英格蘭隊對陣迦納隊。最終，英格蘭隊0比0戰平迦納隊。
+
+---
+
+### 2026-06-24 06:05:40  #國際
+
+北約秘書長呂特：特朗普針對伊朗採取的舉措正中要害。
+
+---
+
+### 2026-06-24 06:05:19  #其他
+
+馬斯克須在得州選民資金相關訴訟中出庭接受質詢。
+
+---
+
+### 2026-06-24 06:01:50  #央行 #國際
+
+【美聯儲7月維持利率不變的機率為62.6%】據CME“美聯儲觀察”：美聯儲7月維持利率不變的機率為62.6%，累計加息25個基點的機率為37.4%。 美聯儲到9月維持利率不變的機率為29.8%，累計加息25個基點的機率為50.6%，累計加息50個基點的機率為19.6%。
+
+---
+
+### 2026-06-24 06:01:45  #國際
+
+故障監測網站DownDetector：超1.8萬名使用者報告臉書服務出現異常，其中美國地區針對臉書的故障報告超2萬份。
+
+---
+
+### 2026-06-24 06:01:18  #市場 #焦點
+
+標普500指數期貨上漲0.2%，納斯達克指數期貨上漲0.4%。
+
+---
+
+### 2026-06-24 06:00:22  #國際
+
+【古巴外長批評美國收緊對古制裁】古巴外長羅德里格斯23日批評美國國務卿魯比奧進一步收緊對古巴制裁，稱驅使其採取相關行動的“是一種犯罪行為”。羅德里格斯當天在社交媒體上表示，在“一個不誠實、滿口謊言的國務卿”主導下，美國政府繼續加強對古巴經濟圍困。儘管面臨美國“無情打壓”以及針對古巴人民的“集體懲罰”，古巴經濟展現出的韌性、能力和效率都超出美方預期。（新華社）
+
+---
+
+### 2026-06-24 06:00:19  #市場 #焦點
+
+紐約期金突破4130美元/盎司，日內跌0.47%。
+
+---
+
+### 2026-06-24 05:59:24  #其他
+
+故障監測網站DownDetector：使用者報告反映英國境內Instagram與Facebook服務出現故障。
+
+---
+
+### 2026-06-24 05:59:02  #公司 #市場 #觀點
+
+高盛公司將浪潮公司評級下調至賣出，目標價62.50元人民幣，即下跌2.3%。
+
+---
+
+### 2026-06-24 05:58:06  #公司
+
+谷歌YouTube在加州第二次庭審前就社交媒體傷害兒童案與原告和解。
+
+---
+
+### 2026-06-24 05:57:35  #國際
+
+故障監測網站DownDetector：使用者報告顯示美國境內Instagram與Facebook出現服務故障。
+
+---
+
+### 2026-06-24 05:55:55  #市場
+
+Cerebras Systems的股價盤後延續跌勢，最新下跌10%，報203.66美元。
+
+---
+
+### 2026-06-24 05:55:47  #公司 #國際
+
+【安全風險擔憂加劇，美國施壓Meta接受人工智慧審查】知情人士稱，特朗普政府正施壓Meta，要求其自願提交人工智慧模型接受審查，方便政府評估模型效能與安全漏洞。美方透過郵件向這家社交媒體巨頭提出該要求，當前政府正加大對人工智慧行業的監管力度。本月早些時候，美國政府以國家安全為由，強制Anthropic公司暫停境外人員呼叫其最先進人工智慧模型的許可權。Meta表示：“我們認同政府推動美國在安全可靠的前沿人工智慧領域保持領先地位的目標。相關細則仍在協商，我們希望儘快簽署相關協議。”在美國主流人工智慧技術開發商中，僅有Meta尚未與聯邦政府達成協議、自願上交模型供官方審查。
+
+---
+
+### 2026-06-24 05:52:18  #其他
+
+剛果民主共和國表示，確診埃博拉病例已升至1094例，其中277例死亡。
 
 ---
 
@@ -20371,258 +20607,5 @@ Dow Jones closed up 147.83 points, or 0.29%, at 51,712.53 on Monday, June 22. S&
 ### 2026-06-23 04:05:14  #其他
 
 芝加哥商品交易所（CME）：已留意到部分 CME 直連客戶遭遇連線中斷問題，技術支援團隊正在排查故障。
-
----
-
-### 2026-06-23 04:04:14  #MKT News
-
-Iran's chief negotiator said the United States and Iran will both guarantee Lebanon's territorial integrity.
-
----
-
-### 2026-06-23 04:04:07  #公司
-
-谷歌母公司Alphabet收跌5%，此前該公司AI負責人Jumper離職。
-
----
-
-### 2026-06-23 04:03:27  #焦點 #國際
-
-伊朗首席談判代表表示，基於在瑞士舉行的會談，美國和伊朗都將保證黎巴嫩的領土完整。
-
----
-
-### 2026-06-23 04:03:22  #國際
-
-【英媒：伊美磋商期間逾400艘船在霍爾木茲海峽等待】據英國《金融時報》網站22日報道，超過400艘船舶停在霍爾木茲海峽東側外圍海域，等待伊朗和美國談判後這一能源運輸要道全面開放。由於停火安排和相關安全機制尚未完全落實，全球航運業對霍爾木茲海峽全面恢復通航前景依然保持謹慎。歐洲航天局衛星資料顯示，21日下午約441艘大型油輪規格的船舶聚集在阿曼蘇哈爾港和阿聯酋富查伊拉港附近海域，等待霍爾木茲海峽恢復開放。報道說，這一數字明顯高於正常水平，但較5天前減少42艘。伊朗和美國此前宣佈達成諒解備忘錄後，一些航運企業一度趁局勢緩和恢復通航。但在以色列對黎巴嫩發動襲擊後，伊朗再次宣佈關閉霍爾木茲海峽。（新華社）
-
----
-
-### 2026-06-23 04:03:09  #MKT News #Important
-
-Trading was interrupted on CME Group after its platform experienced a connectivity outage.
-
----
-
-### 2026-06-23 04:02:16  #國際
-
-【美官員稱美方已針對黎巴嫩局勢建立“監測機制”】當地時間6月22日，一名美國官員表示，鑑於以色列和黎巴嫩真主黨屢次違反停火協議，威脅到美伊談判的程序，美國已針對黎巴嫩局勢建立了一套“監測機制”。該官員透露，美國務卿魯比奧19日分別與以色列總理內塔尼亞胡及黎巴嫩總統奧恩通話，討論了“鞏固停火及未來談判”的事宜。在這些通話之後，美國透過中央司令部啟動了一項監測機制，以便決策者能夠實時、準確地掌握黎巴嫩境內的交戰情況。（央視新聞）
-
----
-
-### 2026-06-23 04:01:54  #國際
-
-美國能源部長賴特： 儘管伊朗方面予以抵制，我們仍維持危機前的原油運輸規模，保障石油經霍爾木茲海峽外運。
-
----
-
-### 2026-06-23 04:01:24  #MKT News #Commodities #Energy #WTI #Impact bearish #Brent
-
-U.S. Energy Secretary wright said the U.S. continues to ship oil through the Strait of Hormuz at pre-crisis levels despite Iranian interference.
-
----
-
-### 2026-06-23 04:01:16  #公司 #市場 #焦點 #國際
-
-SPACEX股價下跌16%，市值蒸發4000億美元。
-
----
-
-### 2026-06-23 04:01:11  #MKT News #Important #Market Regions #Wall Street (US) #Star Stocks #NVIDIA #Market Themes #Magnificent 7 #SPCX.O #Impact bearish #MU.O #Impact bullish #TME.N
-
-【US stocks close mixed; SpaceX plunges 16%】US equities closed mixed Monday: Dow Jones Industrial Average up 0.29%, S&P 500 down 0.37%, Nasdaq Composite down 1.3%. SpaceX (SPCX.O) plunged 16.4%; Intel (INTC.O) rose 5%; Micron Technology (MU.O) gained about 7%; NVIDIA (NVDA.O) fell 1%. Nasdaq Golden Dragon China Index fell 1.3%; Tencent Music (TME.N) dropped 4%.
-
----
-
-### 2026-06-23 04:00:48  #市場 #焦點
-
-【美股收盤：三大股指集體漲跌不一】道指漲0.29%，標普500指數跌0.37%，納指跌1.30%。Arm Holdings跌7.23%，Moderna跌7.22%，Palantir Technologies跌6.97%，超微電腦漲15.75%，Coherent Corp漲9.23%，ON SEMICONDUCTOR漲8.16%。“七姐妹”方面：特斯拉漲1.11%，蘋果跌0.38%，英偉達跌1.01%，Meta Platforms跌2.34%，微軟跌3.18%，亞馬遜跌4.67%，谷歌跌5.12%。
-
----
-
-### 2026-06-23 04:00:47  #國際
-
-特朗普：大量石油正從霍爾木茲海峽運出。
-
----
-
-### 2026-06-23 04:00:16  #焦點 #國際
-
-伊朗首席談判代表：我們已同意就霍爾木茲海峽的船舶通航建立溝通線路，以避免衝突。
-
----
-
-### 2026-06-23 04:00:13  #MKT News #Important #WTI #Impact bearish #Brent
-
-Iran's chief negotiator said the US and Iran have agreed to establish a communication channel on vessel transit through the Strait of Hormuz to avoid conflict.
-
----
-
-### 2026-06-23 04:00:02  #市場 #焦點
-
-【納斯達克中國金龍指數收跌1.26%】1藥網跌11.34%，萬物新生跌7.14%，網易有道跌7.63%，中比能源跌5.60%，小牛電動跌5.32%。
-
----
-
-### 2026-06-23 03:58:02  #MKT News
-
-Trump says unfrozen Iranian assets will be used to purchase agricultural products from U.S. farmers.
-
----
-
-### 2026-06-23 03:57:19  #MKT News #WTI #Impact bullish #XAUUSD #DXY
-
-President Trump said the war with Iran is, in some respects, going very well.
-
----
-
-### 2026-06-23 03:55:58  #國際
-
-特朗普：伊朗被凍結資金將用於採購美國農產品。
-
----
-
-### 2026-06-23 03:55:31  #國際
-
-特朗普： 從某種層面來看，和伊朗的這場博弈進展十分順利。 伊朗永遠不會擁有核武器。
-
----
-
-### 2026-06-23 03:54:38  #MKT News
-
-US President Trump said Iran will never possess nuclear weapons.
-
----
-
-### 2026-06-23 03:54:36  #MKT News #Commodities #Energy #WTI #Impact bearish #Brent
-
-Trump said the situation in the Strait of Hormuz is good; oil volumes transiting the strait hit a record high yesterday and the waterway remains open.
-
----
-
-### 2026-06-23 03:54:10  #國際
-
-特朗普談伊朗問題：我們正在談判，看看結果如何。
-
----
-
-### 2026-06-23 03:54:07  #MKT News #WTI #Impact bearish #Brent
-
-Trump on Iran: Strait of Hormuz fully open; situation in the Strait of Hormuz is progressing well.
-
----
-
-### 2026-06-23 03:53:55  #國際
-
-特朗普談及伊朗：霍爾木茲海峽完全暢通 。
-
----
-
-### 2026-06-23 03:53:37  #國際
-
-特朗普談及伊朗問題：霍爾木茲海峽局勢目前進展非常順利。
-
----
-
-### 2026-06-23 03:53:30  #MKT News #Important #WTI #Impact bearish #S&P500 #Impact bullish #DXY
-
-Iran's chief negotiator told Iranian state TV that talks in Switzerland have finalized an agreement to unfreeze $12 bln of Iranian assets.
-
----
-
-### 2026-06-23 03:53:24  #MKT News
-
-【U.S. sets up monitoring mechanism to track Lebanon ceasefire, official says】A U.S. official told CNN on Monday that Washington has established a monitoring mechanism for the fragile Lebanon ceasefire after repeated violations by Israel and Hezbollah that risked US‑Iran talks. The official said Secretary of State Rubio phoned Israeli Prime Minister Netanyahu and Lebanese President Aoun last Friday to discuss consolidating the ceasefire and future negotiations. Following those calls, U.S. Central Command launched the monitoring mechanism to give policymakers real‑time, accurate visibility of fighting inside Lebanon. It was unclear whether this is the same as the “conflict‑avoidance mechanism” Vice President Vance said had been set up on Sunday afternoon Swiss time.
-
----
-
-### 2026-06-23 03:53:07  #焦點 #國際
-
-伊朗首席談判代表向國家電視臺表示，瑞士會談中已敲定解凍 120 億美元伊朗資產的相關簽署事宜。
-
----
-
-### 2026-06-23 03:52:47  #MKT News #Market Themes #The Trump Trade #IBM.N
-
-US President Trump praised IBM CEO (IBM.N).
-
----
-
-### 2026-06-23 03:51:36  #國際
-
-特朗普在白宮發表講話。
-
----
-
-### 2026-06-23 03:51:26  #MKT News #Star Stocks #Tesla #Market Themes #Magnificent 7 #TSLA.O #Impact bearish
-
-【NHTSA opens probe into fatal Tesla (TSLA.O) Model 3 crash near Houston】NHTSA said on Monday it will investigate a fatal crash involving a Tesla (TSLA.O) Model 3 that drove into a residence near Houston, Texas, late Friday. Harris County sheriff’s office said the driver told police he was using an automatic driving‑assist system; the vehicle left the road at high speed and struck a brick home, fatally injuring a woman inside.
-
----
-
-### 2026-06-23 03:51:15  #公司 #市場 #國際
-
-特朗普稱讚IBM執行長，IBM股價上漲。
-
----
-
-### 2026-06-23 03:50:32  #MKT News #Market Themes #The Trump Trade
-
-U.S. President Trump is signing an executive order.
-
----
-
-### 2026-06-23 03:41:42  #MKT News #Macro & Rates #USDJPY #Impact bullish #EURUSD #GBPUSD #Impact bearish
-
-CFTC weekly positions for the week ended June 16: JPY net short 150,132 contracts; EUR net long 34,353 contracts; GBP net short 71,585 contracts; CHF net short 40,058 contracts.
-
----
-
-### 2026-06-23 03:40:31  #國際
-
-【歐盟停止出售成員國碳配額，以推動能源轉型】歐盟已停止出售一批提前分配的碳排放配額。此前，歐盟計劃利用其碳排放交易體系（ETS）籌集資金，以幫助實現擺脫俄羅斯天然氣的能源轉型。歐盟委員會在官網的一份宣告中表示，歐盟已於週一達成目標，透過拍賣原本將由各國政府在2027年至2030年間出售的配額，成功籌集了80億歐元。隨著該目標的達成，歐盟碳排放交易體系中成員國常規配額拍賣的日程表已作出相應調整。
-
----
-
-### 2026-06-23 03:39:33  #MKT News #Macro & Rates #Treasury Yields #US10Y #Impact bearish
-
-CFTC: for the week to June 16, speculators raised net short positions in CBOT US 2-year Treasury futures by 50,669 contracts to 1,270,507 contracts and increased net short in CBOT US 10-year Treasury futures by 47,275 contracts to 911,082 contracts.
-
----
-
-### 2026-06-23 03:38:36  #MKT News #Commodities #Energy
-
-CFTC: For the week ended June 16, speculative positions in NYMEX and ICE natural-gas futures flipped to a net long of 1,332 contracts, an increase of 30,288 contracts from the prior week.
-
----
-
-### 2026-06-23 03:37:51  #MKT News #Market Regions #Wall Street (US) #S&P500 #Impact mixed
-
-U.S. Commodity Futures Trading Commission (CFTC): For the week to June 16, equity fund managers raised net long positions in CME S&P 500 futures by 3,319 contracts to 983,431 contracts. Equity fund speculators increased net short positions in CME S&P 500 futures by 64,644 contracts to 501,690 contracts.
-
----
-
-### 2026-06-23 03:36:18  #MKT News #Commodities #Energy #WTI
-
-CFTC data: For the week to June 16, speculators cut WTI crude net-long positions by 2,441 contracts to 100,978.
-
----
-
-### 2026-06-23 03:35:52  #MKT News #Commodities #Precious Metals #Industrial Metals #XAUUSD #Impact bullish #Copper #Impact bearish
-
-CFTC: week to June 16, COMEX gold speculators increased net longs by 9,258 contracts to 112,918; silver net longs rose 2,275 contracts to 12,070; copper net longs fell 52 contracts to 71,076.
-
----
-
-### 2026-06-23 03:33:37  #市場 #國際
-
-美國商品期貨交易委員會（CFTC）：6月16日當週，投機者所持NYMEX鉑金淨多頭頭寸降低至8,072手合約，創逾14周新低。
-所持NYMEX鈀金淨空頭頭寸降低至4,268手合約。
-
----
-
-### 2026-06-23 03:32:51  #MKT News
-
-US Coast Guard says it is actively responding to a crash in Sitka, Alaska today involving a Coast Guard MH-60 "Jayhawk" helicopter.
 
 ---

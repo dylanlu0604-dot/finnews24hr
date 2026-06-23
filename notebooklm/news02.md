@@ -1,7 +1,260 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-06-24 05:50:02_
-_本檔包含 3494 則快訊，約 651956 字_
+_更新時間：2026-06-24 06:36:56_
+_本檔包含 3475 則快訊，約 651461 字_
+
+---
+
+### 2026-06-23 04:04:14  #MKT News
+
+Iran's chief negotiator said the United States and Iran will both guarantee Lebanon's territorial integrity.
+
+---
+
+### 2026-06-23 04:04:07  #公司
+
+谷歌母公司Alphabet收跌5%，此前該公司AI負責人Jumper離職。
+
+---
+
+### 2026-06-23 04:03:27  #焦點 #國際
+
+伊朗首席談判代表表示，基於在瑞士舉行的會談，美國和伊朗都將保證黎巴嫩的領土完整。
+
+---
+
+### 2026-06-23 04:03:22  #國際
+
+【英媒：伊美磋商期間逾400艘船在霍爾木茲海峽等待】據英國《金融時報》網站22日報道，超過400艘船舶停在霍爾木茲海峽東側外圍海域，等待伊朗和美國談判後這一能源運輸要道全面開放。由於停火安排和相關安全機制尚未完全落實，全球航運業對霍爾木茲海峽全面恢復通航前景依然保持謹慎。歐洲航天局衛星資料顯示，21日下午約441艘大型油輪規格的船舶聚集在阿曼蘇哈爾港和阿聯酋富查伊拉港附近海域，等待霍爾木茲海峽恢復開放。報道說，這一數字明顯高於正常水平，但較5天前減少42艘。伊朗和美國此前宣佈達成諒解備忘錄後，一些航運企業一度趁局勢緩和恢復通航。但在以色列對黎巴嫩發動襲擊後，伊朗再次宣佈關閉霍爾木茲海峽。（新華社）
+
+---
+
+### 2026-06-23 04:03:09  #MKT News #Important
+
+Trading was interrupted on CME Group after its platform experienced a connectivity outage.
+
+---
+
+### 2026-06-23 04:02:16  #國際
+
+【美官員稱美方已針對黎巴嫩局勢建立“監測機制”】當地時間6月22日，一名美國官員表示，鑑於以色列和黎巴嫩真主黨屢次違反停火協議，威脅到美伊談判的程序，美國已針對黎巴嫩局勢建立了一套“監測機制”。該官員透露，美國務卿魯比奧19日分別與以色列總理內塔尼亞胡及黎巴嫩總統奧恩通話，討論了“鞏固停火及未來談判”的事宜。在這些通話之後，美國透過中央司令部啟動了一項監測機制，以便決策者能夠實時、準確地掌握黎巴嫩境內的交戰情況。（央視新聞）
+
+---
+
+### 2026-06-23 04:01:54  #國際
+
+美國能源部長賴特： 儘管伊朗方面予以抵制，我們仍維持危機前的原油運輸規模，保障石油經霍爾木茲海峽外運。
+
+---
+
+### 2026-06-23 04:01:24  #MKT News #Commodities #Energy #WTI #Impact bearish #Brent
+
+U.S. Energy Secretary wright said the U.S. continues to ship oil through the Strait of Hormuz at pre-crisis levels despite Iranian interference.
+
+---
+
+### 2026-06-23 04:01:16  #公司 #市場 #焦點 #國際
+
+SPACEX股價下跌16%，市值蒸發4000億美元。
+
+---
+
+### 2026-06-23 04:01:11  #MKT News #Important #Market Regions #Wall Street (US) #Star Stocks #NVIDIA #Market Themes #Magnificent 7 #SPCX.O #Impact bearish #MU.O #Impact bullish #TME.N
+
+【US stocks close mixed; SpaceX plunges 16%】US equities closed mixed Monday: Dow Jones Industrial Average up 0.29%, S&P 500 down 0.37%, Nasdaq Composite down 1.3%. SpaceX (SPCX.O) plunged 16.4%; Intel (INTC.O) rose 5%; Micron Technology (MU.O) gained about 7%; NVIDIA (NVDA.O) fell 1%. Nasdaq Golden Dragon China Index fell 1.3%; Tencent Music (TME.N) dropped 4%.
+
+---
+
+### 2026-06-23 04:00:48  #市場 #焦點
+
+【美股收盤：三大股指集體漲跌不一】道指漲0.29%，標普500指數跌0.37%，納指跌1.30%。Arm Holdings跌7.23%，Moderna跌7.22%，Palantir Technologies跌6.97%，超微電腦漲15.75%，Coherent Corp漲9.23%，ON SEMICONDUCTOR漲8.16%。“七姐妹”方面：特斯拉漲1.11%，蘋果跌0.38%，英偉達跌1.01%，Meta Platforms跌2.34%，微軟跌3.18%，亞馬遜跌4.67%，谷歌跌5.12%。
+
+---
+
+### 2026-06-23 04:00:47  #國際
+
+特朗普：大量石油正從霍爾木茲海峽運出。
+
+---
+
+### 2026-06-23 04:00:16  #焦點 #國際
+
+伊朗首席談判代表：我們已同意就霍爾木茲海峽的船舶通航建立溝通線路，以避免衝突。
+
+---
+
+### 2026-06-23 04:00:13  #MKT News #Important #WTI #Impact bearish #Brent
+
+Iran's chief negotiator said the US and Iran have agreed to establish a communication channel on vessel transit through the Strait of Hormuz to avoid conflict.
+
+---
+
+### 2026-06-23 04:00:02  #市場 #焦點
+
+【納斯達克中國金龍指數收跌1.26%】1藥網跌11.34%，萬物新生跌7.14%，網易有道跌7.63%，中比能源跌5.60%，小牛電動跌5.32%。
+
+---
+
+### 2026-06-23 03:58:02  #MKT News
+
+Trump says unfrozen Iranian assets will be used to purchase agricultural products from U.S. farmers.
+
+---
+
+### 2026-06-23 03:57:19  #MKT News #WTI #Impact bullish #XAUUSD #DXY
+
+President Trump said the war with Iran is, in some respects, going very well.
+
+---
+
+### 2026-06-23 03:55:58  #國際
+
+特朗普：伊朗被凍結資金將用於採購美國農產品。
+
+---
+
+### 2026-06-23 03:55:31  #國際
+
+特朗普： 從某種層面來看，和伊朗的這場博弈進展十分順利。 伊朗永遠不會擁有核武器。
+
+---
+
+### 2026-06-23 03:54:38  #MKT News
+
+US President Trump said Iran will never possess nuclear weapons.
+
+---
+
+### 2026-06-23 03:54:36  #MKT News #Commodities #Energy #WTI #Impact bearish #Brent
+
+Trump said the situation in the Strait of Hormuz is good; oil volumes transiting the strait hit a record high yesterday and the waterway remains open.
+
+---
+
+### 2026-06-23 03:54:10  #國際
+
+特朗普談伊朗問題：我們正在談判，看看結果如何。
+
+---
+
+### 2026-06-23 03:54:07  #MKT News #WTI #Impact bearish #Brent
+
+Trump on Iran: Strait of Hormuz fully open; situation in the Strait of Hormuz is progressing well.
+
+---
+
+### 2026-06-23 03:53:55  #國際
+
+特朗普談及伊朗：霍爾木茲海峽完全暢通 。
+
+---
+
+### 2026-06-23 03:53:37  #國際
+
+特朗普談及伊朗問題：霍爾木茲海峽局勢目前進展非常順利。
+
+---
+
+### 2026-06-23 03:53:30  #MKT News #Important #WTI #Impact bearish #S&P500 #Impact bullish #DXY
+
+Iran's chief negotiator told Iranian state TV that talks in Switzerland have finalized an agreement to unfreeze $12 bln of Iranian assets.
+
+---
+
+### 2026-06-23 03:53:24  #MKT News
+
+【U.S. sets up monitoring mechanism to track Lebanon ceasefire, official says】A U.S. official told CNN on Monday that Washington has established a monitoring mechanism for the fragile Lebanon ceasefire after repeated violations by Israel and Hezbollah that risked US‑Iran talks. The official said Secretary of State Rubio phoned Israeli Prime Minister Netanyahu and Lebanese President Aoun last Friday to discuss consolidating the ceasefire and future negotiations. Following those calls, U.S. Central Command launched the monitoring mechanism to give policymakers real‑time, accurate visibility of fighting inside Lebanon. It was unclear whether this is the same as the “conflict‑avoidance mechanism” Vice President Vance said had been set up on Sunday afternoon Swiss time.
+
+---
+
+### 2026-06-23 03:53:07  #焦點 #國際
+
+伊朗首席談判代表向國家電視臺表示，瑞士會談中已敲定解凍 120 億美元伊朗資產的相關簽署事宜。
+
+---
+
+### 2026-06-23 03:52:47  #MKT News #Market Themes #The Trump Trade #IBM.N
+
+US President Trump praised IBM CEO (IBM.N).
+
+---
+
+### 2026-06-23 03:51:36  #國際
+
+特朗普在白宮發表講話。
+
+---
+
+### 2026-06-23 03:51:26  #MKT News #Star Stocks #Tesla #Market Themes #Magnificent 7 #TSLA.O #Impact bearish
+
+【NHTSA opens probe into fatal Tesla (TSLA.O) Model 3 crash near Houston】NHTSA said on Monday it will investigate a fatal crash involving a Tesla (TSLA.O) Model 3 that drove into a residence near Houston, Texas, late Friday. Harris County sheriff’s office said the driver told police he was using an automatic driving‑assist system; the vehicle left the road at high speed and struck a brick home, fatally injuring a woman inside.
+
+---
+
+### 2026-06-23 03:51:15  #公司 #市場 #國際
+
+特朗普稱讚IBM執行長，IBM股價上漲。
+
+---
+
+### 2026-06-23 03:50:32  #MKT News #Market Themes #The Trump Trade
+
+U.S. President Trump is signing an executive order.
+
+---
+
+### 2026-06-23 03:41:42  #MKT News #Macro & Rates #USDJPY #Impact bullish #EURUSD #GBPUSD #Impact bearish
+
+CFTC weekly positions for the week ended June 16: JPY net short 150,132 contracts; EUR net long 34,353 contracts; GBP net short 71,585 contracts; CHF net short 40,058 contracts.
+
+---
+
+### 2026-06-23 03:40:31  #國際
+
+【歐盟停止出售成員國碳配額，以推動能源轉型】歐盟已停止出售一批提前分配的碳排放配額。此前，歐盟計劃利用其碳排放交易體系（ETS）籌集資金，以幫助實現擺脫俄羅斯天然氣的能源轉型。歐盟委員會在官網的一份宣告中表示，歐盟已於週一達成目標，透過拍賣原本將由各國政府在2027年至2030年間出售的配額，成功籌集了80億歐元。隨著該目標的達成，歐盟碳排放交易體系中成員國常規配額拍賣的日程表已作出相應調整。
+
+---
+
+### 2026-06-23 03:39:33  #MKT News #Macro & Rates #Treasury Yields #US10Y #Impact bearish
+
+CFTC: for the week to June 16, speculators raised net short positions in CBOT US 2-year Treasury futures by 50,669 contracts to 1,270,507 contracts and increased net short in CBOT US 10-year Treasury futures by 47,275 contracts to 911,082 contracts.
+
+---
+
+### 2026-06-23 03:38:36  #MKT News #Commodities #Energy
+
+CFTC: For the week ended June 16, speculative positions in NYMEX and ICE natural-gas futures flipped to a net long of 1,332 contracts, an increase of 30,288 contracts from the prior week.
+
+---
+
+### 2026-06-23 03:37:51  #MKT News #Market Regions #Wall Street (US) #S&P500 #Impact mixed
+
+U.S. Commodity Futures Trading Commission (CFTC): For the week to June 16, equity fund managers raised net long positions in CME S&P 500 futures by 3,319 contracts to 983,431 contracts. Equity fund speculators increased net short positions in CME S&P 500 futures by 64,644 contracts to 501,690 contracts.
+
+---
+
+### 2026-06-23 03:36:18  #MKT News #Commodities #Energy #WTI
+
+CFTC data: For the week to June 16, speculators cut WTI crude net-long positions by 2,441 contracts to 100,978.
+
+---
+
+### 2026-06-23 03:35:52  #MKT News #Commodities #Precious Metals #Industrial Metals #XAUUSD #Impact bullish #Copper #Impact bearish
+
+CFTC: week to June 16, COMEX gold speculators increased net longs by 9,258 contracts to 112,918; silver net longs rose 2,275 contracts to 12,070; copper net longs fell 52 contracts to 71,076.
+
+---
+
+### 2026-06-23 03:33:37  #市場 #國際
+
+美國商品期貨交易委員會（CFTC）：6月16日當週，投機者所持NYMEX鉑金淨多頭頭寸降低至8,072手合約，創逾14周新低。
+所持NYMEX鈀金淨空頭頭寸降低至4,268手合約。
+
+---
+
+### 2026-06-23 03:32:51  #MKT News
+
+US Coast Guard says it is actively responding to a crash in Sitka, Alaska today involving a Coast Guard MH-60 "Jayhawk" helicopter.
 
 ---
 
@@ -20693,371 +20946,5 @@ Al Arabiya reported Iran's negotiating team entered the meeting room after journ
 ### 2026-06-21 21:03:36  #MKT News
 
 Qatar's prime minister said he had seen dedication and significant efforts from Fansi, Pakistan's prime minister and Iran's foreign minister.
-
----
-
-### 2026-06-21 21:03:30  #國際
-
-卡達總理：我們看到了來自範斯、巴基斯坦總理和伊朗外長的奉獻和巨大努力。
-
----
-
-### 2026-06-21 21:02:49  #MKT News #Important
-
-【US, Iran, Pakistan and Qatar begin four-party talks in Switzerland】Delegations from Iran, the United States, Pakistan and Qatar began four-party talks in Switzerland on June 21.
-
----
-
-### 2026-06-21 21:01:53  #國際
-
-【美伊巴卡四方會談開始】伊朗法爾斯通訊社今天（6月21日）報道，伊朗、美國、巴基斯坦和卡達代表團的四方會談在瑞士開始。（CCTV國際時訊）
-
----
-
-### 2026-06-21 21:01:30  #其他
-
-據燈塔專業版資料，截至6月21日21時，2026年端午檔票房3.94億，《玩具總動員5》成為2026端午檔（6.19-6.21）票房冠軍。2026年端午檔票房TOP5影片為《玩具總動員5》《給阿嬤的情書》《抓特務》《火遮眼》《我看見兩朵一樣的雲》。
-
----
-
-### 2026-06-21 21:01:26  #MKT News
-
-【Colombia holds presidential runoff vote】On June 21 Colombia is holding a presidential runoff between independent Avelardo de la Espriella of the far‑right Homeland Defenders grouping and Ivan Cepeda of the left‑wing Historic Pact coalition to choose the president for 2026–2030. Polls opened at 08:00 and close at 16:00 local time; counting begins immediately after and preliminary results are expected tonight. No candidate won a majority in the May 31 first round; under current rules the candidate with the most votes in the runoff will be elected.
-
----
-
-### 2026-06-21 21:01:21  #國際
-
-【萬斯稱特朗普致力於區域全面停火】美國副總統萬斯今天（6月21日）表示，美國總統特朗普致力於區域全面停火，希望改善與伊朗人的關係。他還說，過去數小時在相關問題上取得重大進展，希望能夠透過外交手段合作以改變中東。（CCTV國際時訊）
-
----
-
-### 2026-06-21 21:00:40  #MKT News
-
-U.S. Vice President Vance said more work remains and he looks forward to working together.
-
----
-
-### 2026-06-21 21:00:37  #MKT News
-
-Vice President Vance said today leaders are attending primarily to establish a framework for technical negotiations and to ensure their teams have full backing and can seek help to overcome any obstacles.
-
----
-
-### 2026-06-21 21:00:17  #其他
-
-【哥倫比亞舉行總統選舉第二輪投票】當地時間6月21日，哥倫比亞舉行總統選舉第二輪投票，選民將從極右翼政治團體“祖國捍衛者”的獨立候選人阿韋拉多·德拉埃斯普列亞和左翼執政聯盟“哥倫比亞歷史公約聯盟”候選人伊萬·塞佩達中選出新一任總統，任期為2026年至2030年。當天上午8時，第二輪投票正式開始。投票將於當日16時結束，隨後進入計票階段，初步計票結果預計於當晚公佈。（央視新聞）
-
----
-
-### 2026-06-21 21:00:01  #MKT News
-
-U.S. Vice President Vance said President Trump envisions the Middle East will be completely different in a decade.
-
----
-
-### 2026-06-21 20:59:36  #焦點 #國際
-
-【萬斯：美國願與伊朗實現關係 “根本性轉變”】美國副總統 J.D. 萬斯在這場事關重大、層級頗高的美伊高階別會談前發表的講話，他表示美國願意同伊朗實現雙邊關係的 “根本性轉變”。萬斯開篇稱：“伊美兩國領導層從未開展過如此高階別的會面。”他補充道：“總統囑託我們翻開全新一頁，重塑美國與伊朗民眾的關係，向伊朗人民伸出和解之手。我們想告訴伊朗方面：只要伊朗領導層不再主動製造地區動盪、長期放棄核武器研發訴求，美國就願意同伊朗實現雙邊關係的根本性轉變。這無疑是我們的目標。”“短短數小時內我們已經取得顯著進展，我預計接下來的幾小時內還將收穫更多成果。”
-
----
-
-### 2026-06-21 20:57:54  #公司
-
-【眾泰汽車：2026年第三次臨時股東會將審議董事罷免等議案】眾泰汽車公告稱，公司將於2026年6月29日召開2026年第三次臨時股東會。6月19日，股東厚土蘭德（截至提案提出日持股1.29億股，佔比2.55%）提議將罷免王伊安、鍾雨菲董事職務的議案提交審議，因許明哲已辭職，厚土蘭德撤回對其罷免議案。董事會同意將上述兩項罷免議案提交會議審議，會議還將審議全資三級子公司登出生產地址、與債權人達成債務和解等議案。
-
----
-
-### 2026-06-21 20:56:41  #MKT News
-
-U.S. Vice President Vance said technical talks may not resolve all differences, but they will, for the first time in history, enable us to sit together as a team.
-
----
-
-### 2026-06-21 20:56:35  #國際
-
-美國副總統萬斯：技術性談判或許無法解決所有分歧，但這將讓我們雙方團隊有史以來第一次能夠坐在一起共事。
-
----
-
-### 2026-06-21 20:56:18  #國際
-
-美國副總統萬斯：各方有意搭建框架，用以開展技術性磋商。
-
----
-
-### 2026-06-21 20:55:45  #其他
-
-卡達總理：今天的會議只是實現目標的開始。
-
----
-
-### 2026-06-21 20:55:37  #公司
-
-利比亞國家石油公司稱原油產量達到144萬桶/日，為2013年以來最高水平。
-
----
-
-### 2026-06-21 20:55:36  #MKT News #Important #S&P500 #Impact bullish #DXY #Impact bearish #XAUUSD
-
-U.S. Vice President Vance said President Trump is committed to securing a comprehensive regional ceasefire.
-
----
-
-### 2026-06-21 20:55:34  #國際
-
-美國副總統萬斯：今天的會議意味著技術談判的開始。
-
----
-
-### 2026-06-21 20:55:24  #焦點 #國際
-
-美國副總統萬斯：特朗普承諾推動實現該地區全面停火。
-
----
-
-### 2026-06-21 20:55:06  #國際
-
-美國副總統萬斯：這類停火協議往往“有點混亂”。
-
----
-
-### 2026-06-21 20:54:41  #MKT News #Important #S&P500 #Impact bullish #WTI #Impact bearish #XAUUSD
-
-U.S. Vice President Vance said over the past few days the U.S. has made significant progress in securing a ceasefire in Lebanon.
-
----
-
-### 2026-06-21 20:54:37  #國際
-
-美國副總統萬斯：對於黎巴嫩問題目前的進展，我感到十分樂觀。
-
----
-
-### 2026-06-21 20:54:29  #MKT News
-
-Qatar's prime minister said today's meeting is only the beginning of achieving the objectives.
-
----
-
-### 2026-06-21 20:54:03  #MKT News #Important
-
-U.S. Vice President Vance expects further progress within hours.
-
----
-
-### 2026-06-21 20:53:50  #MKT News
-
-U.S. Vice President Vance said President Trump has asked us to "open a new chapter" to change our relationship with the Iranian people.
-
----
-
-### 2026-06-21 20:53:29  #國際
-
-美國副總統萬斯：如果伊朗放棄核武器，美國願意改變與伊朗的關係。
-
----
-
-### 2026-06-21 20:53:17  #MKT News
-
-U.S. Vice President Vance said a shared future is now visible and parties can work together to advance peace and prosperity.
-
----
-
-### 2026-06-21 20:53:13  #國際
-
-美國副總統萬斯：如今我們看到，未來我們能夠攜手共進，合力推動和平與繁榮。
-
----
-
-### 2026-06-21 20:53:04  #MKT News
-
-U.S. Vice President Vance said Iran should abandon its nuclear ambitions.
-
----
-
-### 2026-06-21 20:52:58  #MKT News
-
-US Vice President Vance said he witnessed a historic meeting between the US and Iran.
-
----
-
-### 2026-06-21 20:52:50  #MKT News
-
-US Vice President Vance said significant progress had been made in the past few hours.
-
----
-
-### 2026-06-21 20:52:46  #焦點 #國際
-
-美國副總統萬斯：預計數小時內將取得更多進展。
-
----
-
-### 2026-06-21 20:52:34  #焦點 #國際
-
-美國副總統萬斯：我們已開放霍爾木茲海峽，期待進一步舉措。
-
----
-
-### 2026-06-21 20:52:32  #MKT News #WTI #Impact bullish #XAUUSD
-
-U.S. Vice President Vance said Iran has long been a driver of regional instability.
-
----
-
-### 2026-06-21 20:52:31  #MKT News
-
-U.S. Vice President Vance said the U.S. is working to transform the situation in the Middle East through diplomatic cooperation.
-
----
-
-### 2026-06-21 20:52:21  #MKT News #Important #WTI #Impact bullish #Brent #DXY
-
-US Vice President Vance said the United States has opened the Strait of Hormuz and expects further measures.
-
----
-
-### 2026-06-21 20:52:11  #國際
-
-美國副總統萬斯：過去幾個小時取得了很大進展。
-
----
-
-### 2026-06-21 20:52:00  #國際
-
-美國副總統萬斯：特朗普要求我們翻開全新一頁。
-
----
-
-### 2026-06-21 20:51:53  #國際
-
-美國副總統萬斯：伊朗一直是地區不穩定的推手。
-
----
-
-### 2026-06-21 20:51:30  #國際
-
-美國副總統萬斯：我們正試圖透過外交手段共同努力，實現中東局勢的轉變。
-
----
-
-### 2026-06-21 20:51:00  #MKT News
-
-U.S. Vice President Vance said the key is whether the United States can permanently alter relations in the Middle East.
-
----
-
-### 2026-06-21 20:50:52  #MKT News
-
-U.S. Vice President Vance said Trump authorized them to seek diplomatic solutions on a range of issues.
-
----
-
-### 2026-06-21 20:50:33  #國際
-
-美國副總統萬斯： 我們並不希望重回以往的行事方式 。
-
----
-
-### 2026-06-21 20:50:21  #國際
-
-美國副總統萬斯：特朗普授權我們就一系列問題尋求外交解決方案。
-
----
-
-### 2026-06-21 20:49:53  #其他
-
-巴基斯坦總理：我相信我們將進行卓有成效的討論，結果會非常好。
-
----
-
-### 2026-06-21 20:49:45  #國際
-
-萬斯：關鍵問題在於我們在中東還能取得多少進展。
-
----
-
-### 2026-06-21 20:48:52  #MKT News
-
-Pakistan's prime minister said he expects productive talks and very positive outcomes.
-
----
-
-### 2026-06-21 20:48:44  #其他
-
-巴基斯坦總理表示，這是一個偉大的日子，將促進地區的和平與繁榮。
-
----
-
-### 2026-06-21 20:48:36  #MKT News
-
-Saudi outlet Hadas reports Pakistan's prime minister said the day will promote regional peace and prosperity.
-
----
-
-### 2026-06-21 20:48:12  #國際
-
-美國國家安全域性局長：在美國國家安全域性一次授權紅藍對抗測試中，Anthropic 旗下人工智慧模型Mythos在數小時內便獲取了幾乎全部涉密系統的訪問許可權。
-
----
-
-### 2026-06-21 20:45:42  #MKT News #Important
-
-【US, Iran Begin Talks in Switzerland】US and Iranian delegations have arrived and begun negotiations in Switzerland.
-
----
-
-### 2026-06-21 20:44:50  #焦點 #國際
-
-【美伊在瑞士開始談判】新華社記者21日在瑞士比爾根山現場看到，美國和伊朗代表團已抵達會場開始談判。 （新華社）
-
----
-
-### 2026-06-21 20:40:04  #其他 #焦點
-
-美伊談判現場即將召開新聞釋出會。
-
----
-
-### 2026-06-21 20:40:01  #MKT News #Important
-
-Al-Arabiya reports a press conference is scheduled shortly at the U.S.-Iran talks venue.
-
----
-
-### 2026-06-21 20:38:07  #國際
-
-加沙急救中心的一名訊息人士表示，以色列政權對加沙地帶南部汗尤尼斯市西部進行了空襲，2人遇難，若干人受傷。
-
----
-
-### 2026-06-21 20:38:04  #國際
-
-法航將往返以色列的航班取消期限延長至 6 月 30 日。
-
----
-
-### 2026-06-21 20:36:04  #國際
-
-埃及與阿聯酋企業簽署合作協議，將投資逾30億美元開發新開羅城市專案。
-
----
-
-### 2026-06-21 20:35:32  #市場
-
-市場訊息：幾內亞總統下令禁止黃金原礦出口。
-
----
-
-### 2026-06-21 20:31:24  #公司
-
-【眾泰汽車：董事許明哲先生因個人工作調整辭職】眾泰汽車公告，公司董事會於2026年6月20日收到董事許明哲先生的書面辭職報告。許明哲先生因個人工作調整，申請辭去公司第九屆董事會董事等相關職務，辭職後將不在公司擔任任何職務。根據相關規定，許明哲先生的辭職不會導致公司董事會成員低於法定最低人數，不會影響公司董事會的正常執行，亦不會對公司的日常經營產生不利影響，辭職報告自送達董事會之日起生效。
-
----
-
-### 2026-06-21 20:26:01  #MKT News
-
-【CITIC Securities says China's nano‑zirconia set for rapid growth】CITIC Securities research says demand for high‑end zirconia in China should rise as solid‑state battery supply chains accelerate, SOFCs expand rapidly, electronic‑grade bioceramics grow and nuclear power enters a recovery cycle. Yttria (yttrium oxide), the key stabilizer for zirconia, faces constrained rare‑earth supply after output from Japanese suppliers including Tosoh and First Rare Element Chemical fell sharply, supporting expectations that Chinese producers will gain significant share of the global high‑end zirconia market. Zirconium oxychloride feedstock prices are up about 30% since the start of the year and downstream zirconia prices have risen roughly 30% YTD. Electronic‑grade high‑purity nano‑zirconia is quoted at $50–65.7/kg and yttria‑stabilized zirconia (YSZ) high‑end powders at $50–150/kg. Domestic high‑end zirconia market is seeing simultaneous volume and price increases.
 
 ---
