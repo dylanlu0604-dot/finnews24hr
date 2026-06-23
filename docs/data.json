@@ -1,7 +1,81 @@
 {
-  "updated": "2026-06-23 13:04:08",
-  "count": 17215,
+  "updated": "2026-06-23 13:08:14",
+  "count": 17217,
   "items": [
+    {
+      "id": "te:economy:560989",
+      "time": "2026-06-23 13:07:32",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "India",
+        "Services PMI",
+        "Importance 1"
+      ],
+      "text": "India Services PMI Falls to 17-Month Low — The HSBC India Services PMI declined to 57.3 in June 2026 from May’s six-month high of 58.9, preliminary data showed. It was the weakest growth in the services sector since January 2025, as new order growth eased and some companies struggled to secure new work. Employment increased, though at the slowest pace since December 2025."
+    },
+    {
+      "id": "4949559",
+      "time": "2026-06-23 13:07:06",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【Meta斥資9億美元投資印度金融科技公司Cred】當地時間6月22日，據報道，Facebook母公司Meta Platforms斥資9億美元，投資印度金融科技初創公司Cred。此外，Meta同時任命Cred的創始人Kunal Shah為WhatsApp的新主管。報道稱，該筆投資將使Meta獲得了Cred約20%的股份。Cred目前的投後估值為45億美元。"
+    },
+    {
+      "id": "4949558",
+      "time": "2026-06-23 13:06:40",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗總統佩澤希齊揚抵達伊斯蘭堡】當地時間6月23日，伊朗總統佩澤希齊揚抵達巴基斯坦首都伊斯蘭堡。"
+    },
+    {
+      "id": "4949557",
+      "time": "2026-06-23 13:06:23",
+      "tags": [
+        "其他"
+      ],
+      "text": "剛果民主共和國稱，已確診的埃博拉病例達1,048例，其中267人死亡。"
+    },
+    {
+      "id": "4949556",
+      "time": "2026-06-23 13:05:40",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "電力板塊區域性異動，大連熱電漲停，杭州熱電、福能股份、京能熱力、國投電力、川投能源跟漲。"
+    },
+    {
+      "id": "4949555",
+      "time": "2026-06-23 13:04:52",
+      "tags": [
+        "國際"
+      ],
+      "text": "【日本氣象廳：今年7至9月日本氣溫偏高機率為50%】日本氣象廳最新發布的三個月氣象展望顯示，日本東西部地區7、8、9三個月氣溫高於常年均值的機率為50%。分月份來看，7月、8月高溫異常機率最高，日本東西部出現異常高溫的可能性為60%。未來三個月，日本北部氣溫較常年偏高的機率為40%。日本氣象廳按氣溫偏低、接近常年、偏高三個等級測算氣溫異常機率。同期全國降水量預計接近常年水平。"
+    },
+    {
+      "id": "em:jjsj_rbsj:202606233779534351",
+      "time": "2026-06-23 13:04:24",
+      "tags": [
+        "經濟數據",
+        "日本"
+      ],
+      "text": "日本剔除特殊因素的核心CPI在5月升2.7%，此前4月升2.8%。"
+    },
+    {
+      "id": "mkt:019ef2dc-f0b4-7dd8-b0cc-cc4d20f615f4",
+      "time": "2026-06-23 13:03:46",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact mixed",
+        "Brent"
+      ],
+      "text": "【Sources: India's June U.S. LPG imports expected to exceed 1.0 mln tonnes】Refinitiv-cited industry sources say India is likely to import more than 1.0 mln tonnes of U.S. liquefied petroleum gas (LPG) in June, a record, as refiners shift to higher-cost suppliers to plug Middle East supply disruptions. Before the U.S.-Iran war and the Strait of Hormuz closure, about 90% of India’s LPG came from Middle Eastern producers, with total monthly imports near 2.0 mln tonnes. India had planned to raise U.S. LPG share to roughly 10% to rebalance trade; after the strait closure spot purchases from the U.S. accelerated. Refiners paid unprecedented premiums to secure LPG as the government prioritised uninterrupted cooking-gas supply. Partial reopening of the strait in the coming months is expected to restore Middle East flows and help ease prices."
+    },
     {
       "id": "4949554",
       "time": "2026-06-23 13:03:11",
@@ -157818,57 +157892,6 @@
         "Importance 1"
       ],
       "text": "AUS 10Y Yield Stays Near Multi-Month Lows — Australia’s 10-year government bond yield traded around 4.8%, staying near multi-month lows after the Reserve Bank kept rates unchanged for the first time this year. In a unanimous vote, the central bank held the cash rate at 4.35%, citing signs that three rate hikes earlier this year are beginning to filter through the economy. While policymakers reiterated that inflation remains elevated, a recent series of softer economic data gave the RBA room to pause and assess the impact of past tightening. Markets now await Governor Michele Bullock’s press conference later today for clues on whether policymakers are leaning toward an extended pause or maintaining a tightening bias. Three of Australia’s four largest banks expect the RBA to keep rates unchanged for the remainder of 2026, with some forecasting rate cuts next year. Elsewhere, global inflation concerns eased as oil prices fell sharply following a tentative US-Iran peace deal that could lead to the reopening of the Strait of Hormuz."
-    },
-    {
-      "id": "4937767",
-      "time": "2026-06-16 13:08:12",
-      "tags": [
-        "其他"
-      ],
-      "text": "澳大利亞氣象局：熱帶太平洋地區已出現厄爾尼諾現象。"
-    },
-    {
-      "id": "mkt:019eced3-a0da-7dd8-b020-7850590e48bb",
-      "time": "2026-06-16 13:07:16",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Shenzhen issues red rainstorm warning; city enters emergency defence】Shenzhen Meteorological Observatory at 12:35 issued a red rainstorm warning for Guangming District (Gongming, Fenghuang, Matian subdistricts) after cumulative rainfall over the past three hours reached extremely heavy levels; an additional 40–60 mm is forecast in the next two hours. At 12:35 the observatory also issued an orange rainstorm warning for Luohu, Nanshan, Futian, Yantian, Bao'an, the Pearl River Estuary, Shenzhen Bay, Longgang (Nanwan, Bantian, Buji, Henggang, Jihua, Yuanshan subdistricts), Guangming (Yutang subdistrict) and Longhua (Minzhi, Longhua, Dalang subdistricts) following strong rain in the past three hours; 30–40 mm expected in the next two hours. Shenzhen has entered an emergency rainstorm defence state."
-    },
-    {
-      "id": "4937766",
-      "time": "2026-06-16 13:06:56",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "超級電容概念持續活躍，華鋒股份2連板，此前江海股份、時代新材漲停，法拉電子、宏明電子、仙鶴股份、東方鉭業等漲幅靠前。"
-    },
-    {
-      "id": "4937765",
-      "time": "2026-06-16 13:06:22",
-      "tags": [
-        "其他"
-      ],
-      "text": "【深圳釋出暴雨紅色預警 全市進入暴雨緊急防禦狀態】過去3小時，廣東深圳光明區（公明、鳳凰、馬田街道）累計雨量已達大暴雨，預計未來2小時還將出現40-60毫米降水，深圳市氣象臺12時35分在上述區域釋出暴雨紅色預警訊號。過去3小時，羅湖區、南山區、福田區、鹽田區、寶安區、珠江口、深圳灣、龍崗區（南灣、坂田、布吉、橫崗、吉華、園山街道）、光明區（玉塘街道）和龍華區（民治、龍華、大浪街道）已出現強降雨，預計未來2小時還將出現30-40毫米降水，深圳市氣象臺12時35分在上述區域釋出暴雨橙色預警訊號。深圳全市進入暴雨緊急防禦狀態，請迅速做好防禦工作，遠離低窪易澇等危險區域，上述區域山洪風險很大，注意防禦暴雨及其引發的內澇、山洪、滑坡、泥石流、地面塌陷等災害。（央視）"
-    },
-    {
-      "id": "4937764",
-      "time": "2026-06-16 13:06:04",
-      "tags": [
-        "其他"
-      ],
-      "text": "【深汕特別合作區暴雨黃色預警訊號升級為橙色】過去3小時，深汕區累計雨量已達暴雨，預計未來2-3小時還將出現30-40毫米降水，深圳市氣象臺2026年06月16日13時05分將深汕特別合作區、深汕海域暴雨黃色預警訊號升級為橙色，全區進入暴雨防禦狀態，請遠離低窪易澇等危險區域。"
-    },
-    {
-      "id": "mkt:019eced1-4283-7dd8-b020-71d68b978e82",
-      "time": "2026-06-16 13:04:40",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "China A-share compute-power leasing sector rallied in the afternoon session after volatile trading; Lianhua Holdings locked the daily limit-up, with Guiguang Network, Nanwei Software, Nanxing and Zhongbei Communications also rising."
     }
   ]
 }
