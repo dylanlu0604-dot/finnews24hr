@@ -1,7 +1,152 @@
 {
-  "updated": "2026-06-23 21:59:09",
-  "count": 17313,
+  "updated": "2026-06-23 22:03:19",
+  "count": 17318,
   "items": [
+    {
+      "id": "4950828",
+      "time": "2026-06-23 22:02:36",
+      "tags": [
+        "國際"
+      ],
+      "text": "官方資料顯示，截至6月21日，歐盟2025/26年度軟小麥出口量為2273萬噸，上年同期為2122萬噸。"
+    },
+    {
+      "id": "4950827",
+      "time": "2026-06-23 22:01:59",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：英國政府將低價值進口商品徵稅措施提前六個月至2028年10月實施。"
+    },
+    {
+      "id": "te:economy:561212",
+      "time": "2026-06-23 22:01:48",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "Services PMI",
+        "Importance 1"
+      ],
+      "text": "US Services Growth Remains Subdued — The S&P Global US Services PMI rose to 51.3 in June 2026 from 50.7 in May, just above the market consensus of 51, according to a preliminary estimate. The latest reading indicated a modest improvement in business activity, the strongest since February, partly linked to the soccer World Cup, though growth remained subdued. Output and new orders rose only slightly, with firms citing high prices, elevated interest rates, and weak confidence among businesses and consumers."
+    },
+    {
+      "id": "4950826",
+      "time": "2026-06-23 22:00:58",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美國6月里奇蒙德聯儲製造業指數 4，前值13。\n美國6月里奇蒙德聯儲製造業裝船指數 3，前值16。\n美國6月里奇蒙德聯儲服務業收入指數 -1，前值14。"
+    },
+    {
+      "id": "mkt:019ef4c8-91a9-7dd8-b0db-94f9d9ddb455",
+      "time": "2026-06-23 22:00:45",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. Richmond Fed services revenue index -1 in June; prior 14."
+    },
+    {
+      "id": "mkt:019ef4c8-81a6-7dd8-b0db-895f0490a0cc",
+      "time": "2026-06-23 22:00:41",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "US Richmond Fed manufacturing shipments index for June 3, down from 16 previously."
+    },
+    {
+      "id": "mkt:019ef4c8-7a3a-7dd8-b0db-87aea6b8d811",
+      "time": "2026-06-23 22:00:39",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "US Economy",
+        "S&P500",
+        "Impact bearish",
+        "DXY",
+        "US10Y",
+        "Impact bullish"
+      ],
+      "text": "U.S. Richmond Fed manufacturing index, June: 4; prior 13."
+    },
+    {
+      "id": "mkt:019ef4c8-77e2-7dd8-b0db-7e07242df3e2",
+      "time": "2026-06-23 22:00:38",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | Richmond Fed Services Revenue Index (Jun) | actual -1 | previous 14"
+    },
+    {
+      "id": "mkt:019ef4c8-5e81-7dd8-b0db-75d7672c033c",
+      "time": "2026-06-23 22:00:32",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | Richmond Fed Manufacturing Shipments Index (Jun) | actual 3 | previous 16"
+    },
+    {
+      "id": "mkt:019ef4c8-5e80-7dd8-b0db-68e5e4479e89",
+      "time": "2026-06-23 22:00:32",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | Richmond Fed Manufacturing Index (Jun) | actual 4 | previous 13"
+    },
+    {
+      "id": "te:markets:561211",
+      "time": "2026-06-23 22:00:24",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Canada",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "TSX Slips on Global Risk-Off Mood — The S&P/TSX Composite Index fell 0.5% to trade below the 35,000 mark on Tuesday, tracking global equities amid a broad selloff in technology stocks and persistent concerns over elevated interest rates. Worries that speculative AI spending by hyperscalers is running ahead of fundamentals weighed on North American tech shares and hurt overall risk appetite. Celestica plunged nearly 7%, leading losses in the tech sector. Gold prices also declined, extending pressure on mining stocks after the hawkish projections from the US Federal Reserve last week. Agnico Eagle, Barrick, and Franco-Nevada lost around 3%, while WPM fell more than 4%. Meanwhile, oil prices dropped for a second straight session as supply concerns eased amid progress in restoring shipments through the Strait of Hormuz, reducing fears of energy-driven inflation but weighing on energy shares."
+    },
+    {
+      "id": "mkt:019ef4c7-dc4a-7dd8-b0db-66a433a086e5",
+      "time": "2026-06-23 21:59:59",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Wall Street (US)",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "S&P 500 decline narrows to 1%."
+    },
+    {
+      "id": "mkt:019ef4c7-b4eb-7dd8-b0db-5a917ae53acc",
+      "time": "2026-06-23 21:59:49",
+      "tags": [
+        "MKT News",
+        "Important",
+        "SPCX.O"
+      ],
+      "text": "SpaceX (SPCX.O) stock reversed earlier losses and was up 1%."
+    },
+    {
+      "id": "te:markets:561210",
+      "time": "2026-06-23 21:59:35",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Brazil",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Ibovespa Slips as Global Tech Selloff Weighs — The Ibovespa edged lower to trade below the 170,000 mark on Tuesday, tracking a broader risk-off mood as a selloff in technology stocks weighed on global markets. Losses were broad-based, led by Vale, which fell 2.2%. Vale’s board unanimously approved the call for a shareholders’ meeting on July 22 to vote on the removal of its chairman, Daniel Stieler, following a request from the miner’s largest shareholder, Previ, triggering an internal dispute over the position. Utility stocks also moved lower, with Axia and Sabesp down around 1%. Major banks declined after minutes from the latest Banco Central do Brasil meeting showed policymakers see Selic paths closer to market expectations as more appropriate. On Monday, the BCB’s Focus survey showed the year-end Selic forecast rising from 13.75% to 14.00%. Bradesco and Itaú both lost more than 0.5%. Other notable laggards included Petrobras (-0.6%), WEG (-1%), and Embraer (-1%)."
+    },
     {
       "id": "4950825",
       "time": "2026-06-23 21:58:01",
@@ -158513,91 +158658,6 @@
         "其他"
       ],
       "text": "高知特與Rubrik擴大合作，助力企業掌控生產環境中的自主人工智慧。"
-    },
-    {
-      "id": "4938972",
-      "time": "2026-06-16 22:03:07",
-      "tags": [
-        "公司"
-      ],
-      "text": "賽富時公司：面向Databricks的Data 360功能增強計劃於2026年下半年及以後推出。"
-    },
-    {
-      "id": "mkt:019ed0be-2395-7dd8-b033-88fc42727265",
-      "time": "2026-06-16 22:03:02",
-      "tags": [
-        "MKT News",
-        "Important",
-        "SPCX.O",
-        "Impact bullish",
-        "MSFT.O",
-        "Impact bearish"
-      ],
-      "text": "SpaceX (SPCX.O) extended gains to 15%, lifting its market capitalization above Microsoft (MSFT.O) and making it the world's fourth-largest company by market value."
-    },
-    {
-      "id": "4938971",
-      "time": "2026-06-16 22:02:22",
-      "tags": [
-        "其他"
-      ],
-      "text": "賽富時(CRM.N)：MuleSoft針對Databricks的代理掃描器及基礎資料360零複製功能今日正式全面上市。"
-    },
-    {
-      "id": "4938970",
-      "time": "2026-06-16 22:01:55",
-      "tags": [
-        "公司"
-      ],
-      "text": "盛諾集團：最終發售價定為每股H股18.36港元。"
-    },
-    {
-      "id": "te:markets:559378",
-      "time": "2026-06-16 22:01:49",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Canada",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "TSX Rises on US-Iran Deal Optimism — The S&P/TSX Composite Index gained nearly 0.5% to trade above 35,000 on Tuesday amid optimism over a pending US-Iran peace deal. US President Donald Trump said at the G7 summit that negotiations with Iran had entered a second stage. Oil prices slid as markets weighed the prospect of renewed supplies, easing concerns about energy-driven inflation and reducing fears of a hawkish shift by central banks. Lower bond yields supported financial stocks and the broader market, with RBC up more than 0.6%, TD Bank adding 0.5%, and BMO advancing nearly 1%. Higher gold prices boosted mining shares, with Agnico Eagle and WPM rising more than 1.5% and Barrick gaining over 1%. In contrast, lower oil prices weighed on energy stocks, with Canadian Natural shedding 1.5% and Suncor losing nearly 2%. Meanwhile, home sales rose 5.5% in May while home prices edged lower. Investors are awaiting the US Fed's policy decision on Wednesday, with markets widely expecting interest rates to remain unchanged."
-    },
-    {
-      "id": "4938969",
-      "time": "2026-06-16 22:01:38",
-      "tags": [
-        "公司",
-        "其他",
-        "焦點"
-      ],
-      "text": "SpaceX市值超越微軟，成為全球第四大市值企業。"
-    },
-    {
-      "id": "4938968",
-      "time": "2026-06-16 22:01:21",
-      "tags": [
-        "市場"
-      ],
-      "text": "SPACEX股價繼續上漲至15%。"
-    },
-    {
-      "id": "mkt:019ed0bb-afea-7dd8-b033-809937cd4790",
-      "time": "2026-06-16 22:00:21",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "【China silk mills at full capacity; orders booked through end-August】Late-May to mid-June is the concentrated spring cocoon purchase season in Jiangsu and Zhejiang. This year white and colored cocoons posted strong production and sales, with pronounced price dispersion across varieties. Downstream demand, supported by domestic fashion trends, has pushed silk fabric mills to full capacity and left order books filled through the end of August. At Hangzhou China Silk City merchants report strong demand for xiangyunsha, jacquard and Song brocade; one garment buyer says monthly procurement exceeds 100,000 metres and inventory levels fall to roughly 10% after a month. Raw silk prices have eased slightly, but capacity-constrained, technically demanding mulberry-silk fabrics such as xiangyunsha retain pricing power and factory-gate prices have held or risen modestly."
-    },
-    {
-      "id": "4938967",
-      "time": "2026-06-16 21:59:18",
-      "tags": [
-        "其他"
-      ],
-      "text": "【目前絲綢面料企業工廠處於滿負荷生產狀態 訂單已經排到了今年8月底】每年5月下旬至6月中旬，是江浙多地春繭集中開秤收購期，今年白繭、彩色蠶繭產銷兩旺，不同品類價差明顯。今年受到“國潮風”等因素帶動，下游對面料需求增加，目前工廠處於滿負荷生產狀態，訂單已經排到了今年8月底。在絲綢集散地之一的杭州中國絲綢城，許多店鋪裡擺放著香雲紗、提花和宋錦等面料。當地一家服裝企業負責人告訴記者，自己一週會來市場兩到三趟，“我們一般一個月採購10萬米以上，香雲紗為主。現在正旺季，基本上一個月我們就剩下10%左右庫存量。”據這裡的商戶反饋，雖生絲價格有小幅回落，但一些香雲紗等桑蠶絲面料因產能限制、技術要求高，議價空間相對更大。他們目前面料並不愁賣，且出廠價不降反而略漲。 (央視財經)"
     }
   ]
 }
