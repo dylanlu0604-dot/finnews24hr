@@ -1,7 +1,108 @@
 {
-  "updated": "2026-06-23 20:01:35",
-  "count": 17333,
+  "updated": "2026-06-23 20:05:38",
+  "count": 17329,
   "items": [
+    {
+      "id": "mkt:019ef45e-afc1-7dd8-b0d8-4730845bc6c0",
+      "time": "2026-06-23 20:05:06",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "US ADP employment change for the week to June 6 due in 10 minutes."
+    },
+    {
+      "id": "mkt:019ef45d-c407-7dd8-b0d8-388bc01a31c4",
+      "time": "2026-06-23 20:04:06",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "CENC officially determined a magnitude-3.1 earthquake occurred at 19:57 on June 23 in Haixi Prefecture, Qinghai (37.83N, 95.33E); hypocenter depth 10 km."
+    },
+    {
+      "id": "4950594",
+      "time": "2026-06-23 20:04:05",
+      "tags": [
+        "公司"
+      ],
+      "text": "【建研設計：公司尚未承接過高等級工業超淨廠房的設計業務】建研設計6月23日在互動平臺表示，公司尚未承接過高等級工業超淨廠房的設計業務，未來是否規劃佈局半導體產線潔淨室設計業務目前尚不能確定。"
+    },
+    {
+      "id": "4950593",
+      "time": "2026-06-23 20:03:03",
+      "tags": [
+        "公司"
+      ],
+      "text": "【格力電器：與珠海格力供應鏈管理有限公司沒有任何關係】格力電器6月23日在互動平臺表示，珠海格力供應鏈管理有限公司與珠海格力電器股份有限公司沒有任何關係。"
+    },
+    {
+      "id": "4950592",
+      "time": "2026-06-23 20:02:53",
+      "tags": [
+        "市場"
+      ],
+      "text": "波羅的海乾散貨指數下跌0.63%，至2667點。"
+    },
+    {
+      "id": "4950591",
+      "time": "2026-06-23 20:02:48",
+      "tags": [
+        "市場"
+      ],
+      "text": "【上期能源：調整原油、低硫燃料油期貨品種相關合約交易手續費】6月23日，上海國際能源交易中心釋出關於調整原油、低硫燃料油期貨品種相關合約交易手續費的通知，經研究決定，自2026年6月25日交易（即6月24日晚夜盤）起：原油期貨SC2608合約交易手續費調整為20元/手，免收日內平今倉交易手續費。原油期貨SC2609、SC2610、SC2611、SC2612、SC2701、SC2702、SC2703、SC2706、SC2709、SC2712、SC2803、SC2806、SC2809、SC2812、SC2903合約免收日內平今倉交易手續費。低硫燃料油期貨LU2608合約交易手續費調整為成交金額的萬分之零點一，日內平今倉交易手續費調整為成交金額的萬分之零點一。低硫燃料油期貨LU2609、LU2610、LU2611、LU2612、LU2701、LU2702、LU2703合約日內平今倉交易手續費調整為成交金額的萬分之零點一。"
+    },
+    {
+      "id": "mkt:019ef45c-85b3-7dd8-b0d8-34873d6527a6",
+      "time": "2026-06-23 20:02:44",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Baltic Dry Index fell 0.63% to 2,667."
+    },
+    {
+      "id": "mkt:019ef45c-72a4-7dd8-b0d8-2cffb8223b2f",
+      "time": "2026-06-23 20:02:39",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Cambodia's Hun Sen to make official visit to China June 25-27】The Chinese Communist Party's International Liaison Department said on June 23 that, at the CCP's invitation, Cambodian People's Party chairman and Senate president Hun Sen will make an official goodwill visit to China from June 25 to 27."
+    },
+    {
+      "id": "4950590",
+      "time": "2026-06-23 20:01:58",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【涉及零食、飲料等 37批次食品抽檢不合格】記者今天瞭解到，市場監管總局近日組織食品安全監督抽檢1865批次樣品，檢出37批次樣品不合格。對抽檢發現的不合格食品，有關省級市場監管部門已組織開展核查處置。（央視新聞）"
+    },
+    {
+      "id": "4950589",
+      "time": "2026-06-23 20:01:42",
+      "tags": [
+        "公司"
+      ],
+      "text": "APEXON與亞馬遜雲科技（AWS）簽署戰略合作協議，為醫療保健與生命科學領域推出智慧體AI解決方案。"
+    },
+    {
+      "id": "4950588",
+      "time": "2026-06-23 20:01:18",
+      "tags": [
+        "其他"
+      ],
+      "text": "【柬埔寨人民黨主席、參議院主席洪森將訪華】中共中央對外聯絡部發言人23日宣佈：應中國共產黨邀請，柬埔寨人民黨主席、參議院主席洪森將於6月25日至27日對中國進行正式友好訪問。（新華社）"
+    },
+    {
+      "id": "mkt:019ef45b-07de-7dd8-b0d8-264476db7fd3",
+      "time": "2026-06-23 20:01:06",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "Shanghai Gold Exchange Gold T+D fell 0.5% to 899.0 yuan/gram in early evening trade on June 23 (Tue). Silver T+D fell 1.89% to 14,959 yuan/kg."
+    },
     {
       "id": "4950587",
       "time": "2026-06-23 20:00:44",
@@ -158738,158 +158839,6 @@
         "其他"
       ],
       "text": "【三部門向青海調撥1萬件中央救災物資 支援做好受災群眾救災救助工作】6月16日，針對青海省海西州6.3級地震，國家防災減災救災委員會辦公室、應急管理部會同國家糧食和儲備局向青海省調撥帳篷、摺疊床、被褥、毛毯、家庭應急包、應急照明燈等1萬件中央救災物資，並啟動應急物資政社協同保障機制，支援做好受災群眾生活救助工作。（央視新聞）"
-    },
-    {
-      "id": "mkt:019ed052-2c6f-7dd8-b02f-28e84a648c68",
-      "time": "2026-06-16 20:05:06",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "YUMC.N",
-        "Impact bullish",
-        "YUM.N",
-        "Impact bearish"
-      ],
-      "text": "Yum! Brands (YUM.N) said Pizza Hut’s mainland China business will be acquired by Yum China."
-    },
-    {
-      "id": "mkt:019ed052-27bb-7dd8-b02f-201ea2c6780a",
-      "time": "2026-06-16 20:05:05",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "US ADP private payrolls weekly change for the week to May 30 due in 10 minutes."
-    },
-    {
-      "id": "mkt:019ed051-ae9a-7dd8-b02f-1f2f3184a871",
-      "time": "2026-06-16 20:04:34",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "China's Ministry of Industry and Information Technology (MIIT) is seeking public comment on 34 industry standard projects and 22 recommended national standard projects, including \"Industrial Internet: Modal Conversion Architecture Based on Time-Sensitive Networking\"."
-    },
-    {
-      "id": "4938749",
-      "time": "2026-06-16 20:04:27",
-      "tags": [
-        "其他"
-      ],
-      "text": "【工信部公開徵求《工業網際網路 基於時間敏感網路的模態轉換架構》等34項行業標準、22項推薦性國家標準計劃專案意見】工信部公開徵求《工業網際網路 基於時間敏感網路的模態轉換架構》等34項行業標準、22項推薦性國家標準計劃專案意見。"
-    },
-    {
-      "id": "4938748",
-      "time": "2026-06-16 20:04:02",
-      "tags": [
-        "市場"
-      ],
-      "text": "波羅的海乾散貨指數下跌1.84%，至2670點。"
-    },
-    {
-      "id": "mkt:019ed051-1794-7dd8-b02f-10e8455f4812",
-      "time": "2026-06-16 20:03:55",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "The Baltic Dry Index fell 1.84% to 2,670."
-    },
-    {
-      "id": "mkt:019ed050-42d7-7dd8-b02f-0bb89b1bcc26",
-      "time": "2026-06-16 20:03:01",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "NVIDIA",
-        "Market Themes",
-        "Magnificent 7",
-        "EQIX.O",
-        "Impact bullish",
-        "NVDA.O",
-        "CSCO.O"
-      ],
-      "text": "Equinix partners with Cisco (CSCO.O) and NVIDIA (NVDA.O) to deploy AI factories."
-    },
-    {
-      "id": "mkt:019ed050-3c90-7dd8-b02f-02c8afb19438",
-      "time": "2026-06-16 20:02:59",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "【China's Li meets Myanmar president Min Aung Hlaing】On June 16 China's Premier Li Qiang met Myanmar president Min Aung Hlaing in Beijing. Li said China will deepen high‑quality Belt and Road cooperation and accelerate major China‑Myanmar Economic Corridor projects, further extend benefits from China's zero‑tariff policy and expand bilateral trade. He flagged expanded cooperation in renewable energy, artificial intelligence and the digital economy. Both sides agreed to strengthen law‑enforcement cooperation to tackle cross‑border online gambling and telecom fraud and to protect Chinese personnel, institutions and projects in Myanmar. Li also called for closer coordination in multilateral forums including the UN, Lancang‑Mekong cooperation and the Shanghai Cooperation Organization to defend developing countries' interests."
-    },
-    {
-      "id": "4938747",
-      "time": "2026-06-16 20:02:58",
-      "tags": [
-        "公司"
-      ],
-      "text": "【冠中生態：終止建水縣歷史遺留礦山生態修復專案並將剩餘募集資金永久補充流動資金】冠中生態公告，公司於2026年6月16日召開第五屆董事會第十次會議，審議透過了《關於終止部分募投專案並將剩餘募集資金永久補充流動資金的議案》。同意公司終止“建水縣歷史遺留礦山生態修復專案勘查設計施工總承包”專案，並將剩餘募集資金永久補充流動資金。該專案涉及募集資金投資金額為1.4億元，佔可轉債募集資金淨額的35.76%。截至2026年6月11日，該專案已使用募集資金5767.94萬元，剩餘尚未使用募集資金8756.75萬元。終止該專案是基於市場環境變化及公司經營發展戰略需要，旨在提高募集資金使用效率，對公司生產經營無重大不利影響。"
-    },
-    {
-      "id": "4938746",
-      "time": "2026-06-16 20:02:54",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【鹿山新材：擬開展最高合約價值1億元外匯套期保值業務】鹿山新材公告稱，為規避外匯市場風險，防範匯率大幅波動影響，公司擬開展外匯套期保值業務。2026年度任意時點佔用保證金最高不超1000萬元，任一交易日持有的最高合約價值不超1億元，授權期限12個月，資金為自有資金。該事項已獲董事會及審計委員會審議透過，無需股東會批准。業務存在市場、流動性等風險，公司將採取風控措施。"
-    },
-    {
-      "id": "4938745",
-      "time": "2026-06-16 20:02:46",
-      "tags": [
-        "其他"
-      ],
-      "text": "Yum！Brands(YUM.N)達成協議，將以27億美元出售必勝客。"
-    },
-    {
-      "id": "mkt:019ed050-04aa-7dd8-b02e-fc3c6f9df768",
-      "time": "2026-06-16 20:02:45",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "【Another company added under ChiNext's fourth listing standards】On June 16, the Shenzhen Stock Exchange accepted the ChiNext IPO filing of Sichuan Tengdun Kechuang Co., Ltd., marking another issuer applying ChiNext’s fourth set of listing standards. Tengdun develops, manufactures, sells and services high-end unmanned aerial vehicle (UAV) systems, offering intelligent, modular and swarm UAV products and integrated multi-scenario solutions for defense equipment, the low-altitude economy and general aviation."
-    },
-    {
-      "id": "4938744",
-      "time": "2026-06-16 20:02:42",
-      "tags": [
-        "其他"
-      ],
-      "text": "中國地震臺網正式測定：06月16日19時56分在青海海西州直轄區（北緯37.90度，東經95.53度）發生3.2級地震，震源深度10千米。"
-    },
-    {
-      "id": "mkt:019ed04f-c39c-7dd8-b02e-f4fc7fd04ac8",
-      "time": "2026-06-16 20:02:28",
-      "tags": [
-        "MKT News",
-        "YUM.N",
-        "Impact mixed"
-      ],
-      "text": "Yum! Brands (YUM.N) agreed to sell Pizza Hut for $2.7 billion."
-    },
-    {
-      "id": "4938743",
-      "time": "2026-06-16 20:02:27",
-      "tags": [
-        "其他"
-      ],
-      "text": "EQUINIX攜手思科與英偉達，在全球資料中心佈局中部署安全AI工廠。"
-    },
-    {
-      "id": "4938742",
-      "time": "2026-06-16 20:01:43",
-      "tags": [
-        "市場"
-      ],
-      "text": "布倫特原油日內跌3%，現報80.67美元/桶。"
     }
   ]
 }
