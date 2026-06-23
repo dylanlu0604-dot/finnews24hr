@@ -1,7 +1,48 @@
 {
-  "updated": "2026-06-24 00:19:11",
-  "count": 17294,
+  "updated": "2026-06-24 00:23:18",
+  "count": 17295,
   "items": [
+    {
+      "id": "mkt:019ef54a-5295-7dd8-b0df-7c9b4b180da7",
+      "time": "2026-06-24 00:22:29",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "【Pakistan PM: MoU did not mention Iran's ballistic missile capability】Al Jazeera reports Pakistan PM Shehbaz Sharif said the U.S.-Iran memorandum of understanding did not mention ballistic missiles because the issue was never on the table. He warned against double standards, saying Tehran should not be restricted while other countries are free to possess ballistic missiles."
+    },
+    {
+      "id": "4950995",
+      "time": "2026-06-24 00:22:14",
+      "tags": [
+        "國際"
+      ],
+      "text": "據伊朗伊斯蘭共和國通訊社（IRNA）： 真主黨表示，停火之後，下一階段的目標是以色列軍隊全部撤出黎巴嫩領土。"
+    },
+    {
+      "id": "4950994",
+      "time": "2026-06-24 00:21:26",
+      "tags": [
+        "國際"
+      ],
+      "text": "據Axios：特朗普將出席麥考密克防務峰會。"
+    },
+    {
+      "id": "4950993",
+      "time": "2026-06-24 00:19:44",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗總統：我們堅信唯有透過坦誠對話與區域內合作，才能實現地區和平與穩定。"
+    },
+    {
+      "id": "4950992",
+      "time": "2026-06-24 00:19:10",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗總統：我們伸出友誼之手，同地區各國一道構建全新地區安全架構。"
+    },
     {
       "id": "mkt:019ef546-5631-7dd8-b0df-74122552b3ec",
       "time": "2026-06-24 00:18:07",
@@ -158418,42 +158459,6 @@
         "Magnificent 7"
       ],
       "text": "Apple (AAPL.O) is preparing a new series of iPhone chips, including an A22 Pro that could use a 1.4nm process and is expected to debut in 2028, US tech reporter Gurman says."
-    },
-    {
-      "id": "4939177",
-      "time": "2026-06-17 00:23:13",
-      "tags": [
-        "其他",
-        "焦點"
-      ],
-      "text": "馬斯克當前個人財富總值已超越比特幣整體市值。\n馬斯克淨資產：1.4萬億美元。\n比特幣總市值：1.3萬億美元。"
-    },
-    {
-      "id": "mkt:019ed13e-27bb-7dd8-b036-cf9a00c02ccb",
-      "time": "2026-06-17 00:22:51",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "A senior U.S. official said Iran could begin selling oil and fuel immediately once an agreement is signed this week."
-    },
-    {
-      "id": "4939176",
-      "time": "2026-06-17 00:21:09",
-      "tags": [
-        "國際"
-      ],
-      "text": "一位監管機構知情官員透露，美國衍生品監管機構將對境外交易平臺展開審查，這類平臺允許美國境內個人直接接入其電子交易系統。"
-    },
-    {
-      "id": "4939175",
-      "time": "2026-06-17 00:19:25",
-      "tags": [
-        "其他"
-      ],
-      "text": "科技記者馬克·古爾曼：蘋果在研發多款全新iPhone晶片，其中2028年推出的A22 Pro晶片或將採用1.4奈米制程工藝製造。"
     }
   ]
 }
