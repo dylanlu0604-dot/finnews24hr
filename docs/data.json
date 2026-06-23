@@ -1,7 +1,32 @@
 {
-  "updated": "2026-06-24 04:57:01",
-  "count": 17320,
+  "updated": "2026-06-24 05:01:09",
+  "count": 17323,
   "items": [
+    {
+      "id": "4951144",
+      "time": "2026-06-24 04:58:29",
+      "tags": [
+        "市場"
+      ],
+      "text": "週二（6月23日）紐約尾盤，現貨黃金跌1.89%，報4111.48美元/盎司，北京時間09:00微幅上揚至4198.46美元重新整理日高，隨後持續走低，12:00以來持續交投於4120美元附近、16:07重新整理日低至4091.05美元。COMEX黃金期貨跌1.92%，報4129.10美元/盎司。現貨白銀跌5.50%，報61.5025美元/盎司，06:00微幅高開至65.7325美元重新整理日高，隨後持續走低。COMEX白銀期貨跌6.15%，報62.005美元/盎司。COMEX銅期貨跌3.64%，報6.1950美元/磅。現貨鉑金跌1.85%，現貨鈀金跌2.90%。"
+    },
+    {
+      "id": "mkt:019ef646-79a4-7dd8-b0e4-170df3074663",
+      "time": "2026-06-24 04:57:54",
+      "tags": [
+        "MKT News",
+        "SPCX.O"
+      ],
+      "text": "SEC filing: SpaceX (SPCX.O) will use bond proceeds to repay transition loans and for general corporate purposes; issuance expected to complete on June 26, 2026."
+    },
+    {
+      "id": "mkt:019ef646-0c20-7dd8-b0e4-0bcd1093ec60",
+      "time": "2026-06-24 04:57:26",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "SEC filing: SpaceX (SPCX.O) priced a $25 billion inaugural bond offering, selling senior notes in five tranches maturing 2031–2056."
+    },
     {
       "id": "mkt:019ef643-5f52-7dd8-b0e4-01d08741b9fe",
       "time": "2026-06-24 04:54:30",
