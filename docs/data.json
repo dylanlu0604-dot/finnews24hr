@@ -1,7 +1,61 @@
 {
-  "updated": "2026-06-23 23:49:29",
-  "count": 17302,
+  "updated": "2026-06-23 23:53:33",
+  "count": 17295,
   "items": [
+    {
+      "id": "mkt:019ef52c-d156-7dd8-b0de-a65c3f934638",
+      "time": "2026-06-23 23:50:15",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Microsoft",
+        "Market Themes",
+        "Magnificent 7",
+        "MSFT.O",
+        "Impact bullish"
+      ],
+      "text": "Microsoft (MSFT.O) announced the Azure Copilot observability agent is now generally available."
+    },
+    {
+      "id": "mkt:019ef52c-8a17-7dd8-b0de-9b106b432dd6",
+      "time": "2026-06-23 23:49:57",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Pakistan's prime minister said there should be no double standards: some countries can possess ballistic missiles while Iran should not."
+    },
+    {
+      "id": "mkt:019ef52c-8272-7dd8-b0de-979c25464723",
+      "time": "2026-06-23 23:49:55",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Lebanese president, US officials discuss ceasefire-monitoring mechanism】On the 23rd Lebanese President Joseph Aoun spoke by phone with U.S. Vice President Vance and Secretary of State Rubio to discuss Lebanon’s situation and progress after U.S.-Iran talks in Switzerland, the presidential office said. Vance and Rubio reiterated U.S. support for the Lebanese government and sovereignty and said Washington is following up on memoranda of understanding from the Swiss talks, including creating a U.S.-Lebanon-Iran mechanism to shore up the ceasefire and monitor implementation. U.S. officials said they are reviewing the proposed mechanism’s structure and operational arrangements."
+    },
+    {
+      "id": "4950967",
+      "time": "2026-06-23 23:49:31",
+      "tags": [
+        "其他"
+      ],
+      "text": "微軟：Azure Copilot 視覺化代理現已全面上線。"
+    },
+    {
+      "id": "4950966",
+      "time": "2026-06-23 23:48:53",
+      "tags": [
+        "國際"
+      ],
+      "text": "巴基斯坦總理謝里夫：不應存在雙重標準，不能允許部分國家擁有彈道導彈，卻禁止伊朗擁有。"
+    },
+    {
+      "id": "4950965",
+      "time": "2026-06-23 23:48:42",
+      "tags": [
+        "國際"
+      ],
+      "text": "知情人士訊息：特朗普將於週三在橢圓形辦公室會見各大武器製造商。"
+    },
     {
       "id": "te:markets:561244",
       "time": "2026-06-23 23:48:32",
@@ -158459,139 +158513,6 @@
         "其他"
       ],
       "text": "布倫特原油價格觸及日內低點，交易價格接近每桶79美元。"
-    },
-    {
-      "id": "4939141",
-      "time": "2026-06-16 23:53:23",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "【美伊協議允許伊朗立即對外出售原油 WTI原油跌5%】知情人士透露，美國將依據停戰協議允許伊朗立刻對外出售石油與燃油。本週協議一經簽署，針對石油銷售的制裁豁免條款即刻生效，豁免範圍還包含促成石油交易所需的配套服務，涵蓋金融結算、運輸及保險業務。知情人士透露，根據這份旨在結束衝突的協議，美國將准許伊朗立即出口原油與成品油，以此向德黑蘭提供先期經濟利好，推動其緩和戰事。WTI原油日內跌5%，現報75.46美元/桶。"
-    },
-    {
-      "id": "4939140",
-      "time": "2026-06-16 23:53:22",
-      "tags": [
-        "市場"
-      ],
-      "text": "布倫特原油日內跌5%，現報78.98美元/桶。"
-    },
-    {
-      "id": "4939139",
-      "time": "2026-06-16 23:53:22",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "布倫特原油失守79美元/桶，日內跌5.04%。"
-    },
-    {
-      "id": "te:markets:559404",
-      "time": "2026-06-16 23:53:16",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "commodity",
-        "Importance 0"
-      ],
-      "text": "Brent Crude Oil is down by 5.02% — Brent Crude Oil decreased 5.02% to 78.996 USD/Bbl"
-    },
-    {
-      "id": "mkt:019ed122-9adf-7dd8-b036-5489b0d288f5",
-      "time": "2026-06-16 23:52:46",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "【WSJ: U.S. to allow Iran to immediately resume oil exports under deal】Wall Street Journal, citing people familiar with the matter, reports the U.S. will allow Iran to immediately resume oil and fuel exports under a deal, with sanctions waivers on oil sales taking effect upon the agreement’s expected signing this week. Waivers will extend to banking, shipping and insurance to ensure transactions can proceed. Anti-nuclear group UANI said a supertanker loaded with Iranian crude left Chabahar, crossed the U.S. blockade line and exited the Gulf of Oman with AIS on — the first such movement since the U.S. maritime blockade in April. A U.S. senior official said the waivers are an upfront economic incentive to cool the conflict, but longer-term, sustained sanction relief will depend on Iranian compliance with U.S. demands, including reopening the straits and nuclear-related commitments; Iran will not immediately regain billions frozen overseas."
-    },
-    {
-      "id": "4939138",
-      "time": "2026-06-16 23:51:48",
-      "tags": [
-        "其他"
-      ],
-      "text": "寶馬：額外措施將在2026年下半年產生一次性負面影響。"
-    },
-    {
-      "id": "4939137",
-      "time": "2026-06-16 23:51:41",
-      "tags": [
-        "其他"
-      ],
-      "text": "寶馬：將透過深化並加速結構調整與效率提升措施，擴大2026年現有降成本計劃的規模。"
-    },
-    {
-      "id": "te:markets:559403",
-      "time": "2026-06-16 23:51:38",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Italy",
-        "Stock Market",
-        "Importance 0"
-      ],
-      "text": "FTSE MIB Advances on Financial Sector Strength — The FTSE MIB gained 1.1% to close at 52,421 on Tuesday, supported by strength in the financial sector as UniCredit's buyout offer for Commerzbank reached its final day. The 12.41% take-up of Commerzbank's capital lifted UniCredit's overall holding to 42.4%, including a previously built 26.77% equity stake and another 3.22% in share-settled derivatives. The bank also holds 13.19% through cash-settled derivatives. The German government reiterated its opposition and formally rejected the offer. Although the bid officially ended on June 16, investors have an additional two weeks to tender their shares, with final results due on July 8. ECB approval remains necessary for the process to conclude. UniCredit surged 4.2%, while peers Intesa Sanpaolo (+2.9%) and Generali (+1.8%) also advanced. Financial stocks and the broader index were further supported by lower bond yields, as falling oil prices and optimism over a US-Iran peace agreement eased inflation concerns."
-    },
-    {
-      "id": "4939136",
-      "time": "2026-06-16 23:51:20",
-      "tags": [
-        "國際"
-      ],
-      "text": "【美國多家情報機構：伊朗可隨時有效封鎖霍爾木茲海峽】美國多家情報機構近期評估認為，伊朗可隨時有效封鎖霍爾木茲海峽。這意味著受戰事影響，伊朗手握了一項能夠重創全球經濟的全新強力手段。訊息人士表示：“我們如今等於把海峽的實際控制權交到了伊朗手中，這是一件比任何核武器都更具威懾力的武器。”一名美國高階官員透露，只有霍爾木茲海峽保持通航、伊朗履行協議其餘條款，該國才能獲得這份框架協議帶來的全部利好。該官員稱，美方將根據伊朗恢復海峽通航的進度，同步解除相關封鎖措施。另一名訊息人士表示，伊朗此前試圖擾亂海峽能源自由流通，此舉已引發各國不滿。伊朗這麼做必將付出相應代價。”"
-    },
-    {
-      "id": "mkt:019ed121-2973-7dd8-b036-4b7b137d5b5c",
-      "time": "2026-06-16 23:51:11",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "Brent",
-        "Impact bearish"
-      ],
-      "text": "Brent crude fell 5.00% intraday to $78.79/barrel."
-    },
-    {
-      "id": "mkt:019ed120-ed83-7dd8-b036-436ab4d6f8e2",
-      "time": "2026-06-16 23:50:56",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "WTI crude plunged 6.00% intraday to $76.50 per barrel. Brent crude touched $79.00 per barrel, down 4.76% intraday."
-    },
-    {
-      "id": "4939135",
-      "time": "2026-06-16 23:50:54",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "WTI原油日內跌5%，現報75.46美元/桶。"
-    },
-    {
-      "id": "mkt:019ed120-1db4-7dd8-b036-3cac33d5a998",
-      "time": "2026-06-16 23:50:03",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "Wall Street Journal: Sanctions waivers for Iranian oil sales will take effect immediately upon signing of an agreement expected this week and will cover essential services including banking, shipping and insurance to facilitate sales."
     }
   ]
 }
