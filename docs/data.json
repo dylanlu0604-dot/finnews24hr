@@ -1,7 +1,105 @@
 {
-  "updated": "2026-06-23 14:02:15",
-  "count": 17222,
+  "updated": "2026-06-23 14:06:26",
+  "count": 17223,
   "items": [
+    {
+      "id": "4949644",
+      "time": "2026-06-23 14:05:33",
+      "tags": [
+        "市場"
+      ],
+      "text": "滬深300指數期貨下跌3.0%至4,825.00點。"
+    },
+    {
+      "id": "te:markets:561019",
+      "time": "2026-06-23 14:04:48",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Japan",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "Toyota Motor Stock Price Hits 45-week Low — Toyota Motor shares decreased to 2719.00 JPY, the lowest since August 2025. Over the past 4 weeks, Toyota Motor lost 10.15%, and in the last 12 months, it increased 9.2%."
+    },
+    {
+      "id": "te:markets:561018",
+      "time": "2026-06-23 14:04:34",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Thailand",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "Thai Baht Slides to 1-Year Low — The Thai baht depreciated past 33 per dollar in late June, its weakest level since May 2025, as widening interest rate expectations between the US and Thailand weighed on the currency. Markets are now pricing in a potential further tightening by the Federal Reserve by October, while Thai rate expectations point to less than a 50% chance of any move over the next six months, reinforcing yield differentials that continue to pressure the baht. The Bank of Thailand is widely expected to keep its policy rate unchanged at 1% this week, maintaining an accommodative stance to support growth. At the same time, Thailand’s economic backdrop remains fragile, with elevated household debt, weak consumption, and external challenges weighing on momentum. Slower Chinese demand and increased global competition are also dampening prospects, while structural issues such as a shrinking workforce and softer tourism flows add further pressure."
+    },
+    {
+      "id": "4949643",
+      "time": "2026-06-23 14:04:25",
+      "tags": [
+        "國際"
+      ],
+      "text": "【瓜地馬拉總統拒絕美軍入境行動】瓜地馬拉總統貝爾納多·阿雷瓦洛22日表示，拒絕美軍進入這個拉美國家開展所謂“打擊有組織犯罪”行動，原因是瓜地馬拉憲法不允許。美國國防部長皮特·赫格塞思近日接受美國哥倫比亞廣播公司採訪時稱，美軍人員可能被部署到瓜地馬拉和厄瓜多，針對有組織犯罪和販毒集團實施定點清除式空襲。(新華社)"
+    },
+    {
+      "id": "mkt:019ef313-f749-7dd8-b0cd-f8ec0b7c4a59",
+      "time": "2026-06-23 14:03:52",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Tan Dai: Volcano Engine has no plans to spin off or pursue a separate IPO】At today’s FORCE conference media session, Volcano Engine president Tan Dai said he is not aware of any plans to spin off Volcano Engine and pursue a separate IPO. ByteDance is currently focused on its Doubao large model, Seedance video generation, and deploying enterprise AI-native architecture and related industry/business initiatives."
+    },
+    {
+      "id": "4949642",
+      "time": "2026-06-23 14:03:38",
+      "tags": [
+        "公司"
+      ],
+      "text": "【譚待：火山引擎暫無拆分獨立上市相關計劃】在今日FORCE大會媒體溝通環節，針對AI公司市值走高背景下火山引擎是否存在分拆上市規劃，火山引擎總裁譚待回應：據其所知，火山引擎暫無單獨拆分上市的相關計劃。位元組現階段重心聚焦豆包大模型、Seedance影片生成、企業AI原生架構落地等技術與產業業務推進。"
+    },
+    {
+      "id": "4949641",
+      "time": "2026-06-23 14:03:21",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "燃料油連續主力合約日內跌4%，現報2998.00元。"
+    },
+    {
+      "id": "mkt:019ef313-511a-7dd8-b0cd-f4a466acc170",
+      "time": "2026-06-23 14:03:09",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Europe & UK",
+        "Wall Street (US)",
+        "S&P500",
+        "Impact bearish",
+        "Nasdaq100",
+        "STOXX Europe 50"
+      ],
+      "text": "【European and US stock index futures extend losses】STOXX Europe 50, German DAX and UK FTSE futures fell more than 1%; Nasdaq-100 futures widened losses to 1.8%, S&P 500 futures were down nearly 1% and Dow futures fell 0.34%."
+    },
+    {
+      "id": "4949640",
+      "time": "2026-06-23 14:02:31",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "WTI原油失守73美元/桶，日內跌1.16%。"
+    },
+    {
+      "id": "4949639",
+      "time": "2026-06-23 14:02:07",
+      "tags": [
+        "公司"
+      ],
+      "text": "【貪玩遊戲等成立芯宸雲智科技公司 含AI及積體電路晶片業務】企查查APP顯示，近日，芯宸雲智（蘭州）科技有限公司成立，註冊資本10億元，經營範圍包含：人工智慧應用軟體開發；人工智慧理論與演算法軟體開發；人工智慧雙創服務平臺；積體電路晶片及產品製造；積體電路晶片及產品銷售等。企查查股權穿透顯示，該公司由貪玩遊戲關聯公司江西貪玩資訊科技有限公司等共同持股。"
+    },
     {
       "id": "4949638",
       "time": "2026-06-23 14:01:31",
@@ -157909,83 +158007,6 @@
         "MKT News"
       ],
       "text": "【Alibaba's QoderWork launches 'Consciousness' feature】Alibaba's desktop AI assistant QoderWork has launched a 'Consciousness' feature combining memory, reflection and skill-evolution modules. In addition to saving conversations, the feature can proactively organize and purge redundant information and convert high-frequency tasks into reusable skills."
-    },
-    {
-      "id": "4937844",
-      "time": "2026-06-16 14:06:22",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "日本財務大臣：在日本央行副行長髮言前，不會對央行決策置評。"
-    },
-    {
-      "id": "4937843",
-      "time": "2026-06-16 14:05:57",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "路透調查：預估中值顯示，菲律賓央行將在2026年底前將關鍵政策利率上調至5.25%。"
-    },
-    {
-      "id": "4937842",
-      "time": "2026-06-16 14:05:54",
-      "tags": [
-        "其他"
-      ],
-      "text": "Salesforce宣佈在義大利投資10億美元，以加速自主式人工智慧轉型與增長。"
-    },
-    {
-      "id": "4937841",
-      "time": "2026-06-16 14:05:30",
-      "tags": [
-        "市場"
-      ],
-      "text": "【機構：上半年合約價漲幅皆破100% 2026年下半年結構性缺貨將帶動NOR Flash、SLC NAND價格持續上漲】根據TrendForce集邦諮詢最新儲存器產業研究，由於儲存器大廠的產能規劃持續傾向HBM、高層數3D NAND等高附加價值產品，擠壓NOR Flash、SLC NAND依賴的成熟製程產能，然而因需求穩定，已推動2026上半年NOR Flash、SLC NAND累積合約價漲幅分別突破100%。由於供應商未有大規模擴產計劃，預估下半年兩項產品的價格將隨供需緊張而繼續調升。"
-    },
-    {
-      "id": "4937840",
-      "time": "2026-06-16 14:05:17",
-      "tags": [
-        "其他"
-      ],
-      "text": "【阿里QoderWork上線“意識”功能】據阿里雲訊息，6月16日，阿里桌面AI助理QoderWork上線“意識”功能，整合記憶、反思、技能進化三個模組。該功能在儲存對話的基礎上，可主動整理和淘汰冗餘資訊，並將高頻任務沉澱為可複用的技能。"
-    },
-    {
-      "id": "mkt:019ecf08-725a-7dd8-b021-ac996afdf569",
-      "time": "2026-06-16 14:04:57",
-      "tags": [
-        "MKT News",
-        "NVO.O",
-        "Impact bullish"
-      ],
-      "text": "NOVO NORDISK CEO said the company is producing an oral form of Wegovy in Denmark and the US and will continue to evaluate additional manufacturing locations."
-    },
-    {
-      "id": "4937839",
-      "time": "2026-06-16 14:04:09",
-      "tags": [
-        "公司"
-      ],
-      "text": "【甬金股份在浙江成立精密新材料公司】企查查APP顯示，近日，浙江甬金精密新材料有限公司成立，註冊資本2億元，經營範圍包含：電子專用材料製造；新材料技術研發；新材料技術推廣服務；新型金屬功能材料銷售等。企查查股權穿透顯示，該公司由甬金股份全資持股。"
-    },
-    {
-      "id": "4937838",
-      "time": "2026-06-16 14:03:30",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "歐洲斯托克50指數期貨下跌0.02%，德國DAX30指數期貨下跌0.1%，英國富時100指數期貨下跌0.1%。"
-    },
-    {
-      "id": "4937837",
-      "time": "2026-06-16 14:03:24",
-      "tags": [
-        "公司"
-      ],
-      "text": "【滴滴領投 深樸智慧完成數億元Pre-A輪融資】據深樸智慧訊息，近日，通用具身智慧機器人公司深樸智慧（Simple AI）宣佈完成數億元Pre-A輪融資。本輪融資由滴滴領投，梅花創投、柯力感測跟投，老股東創世夥伴創投、線性資本、普華資本持續加碼。"
     }
   ]
 }
