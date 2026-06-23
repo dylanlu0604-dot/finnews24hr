@@ -1,7 +1,54 @@
 {
-  "updated": "2026-06-23 23:57:38",
-  "count": 17291,
+  "updated": "2026-06-24 00:02:23",
+  "count": 17285,
   "items": [
+    {
+      "id": "mkt:019ef535-84d1-7dd8-b0de-c9a72683d994",
+      "time": "2026-06-23 23:59:45",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Pakistan's prime minister said Iran's loss would be Pakistan's loss and described the two countries as closely connected brothers rather than merely neighbors."
+    },
+    {
+      "id": "4950972",
+      "time": "2026-06-23 23:58:52",
+      "tags": [
+        "其他"
+      ],
+      "text": "中國地震臺網自動測定：06月23日23時56分在青海海西州直轄區附近（北緯37.81度，東經95.42度）發生4.2級左右地震，最終結果以正式速報為準。"
+    },
+    {
+      "id": "4950971",
+      "time": "2026-06-23 23:58:15",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【特朗普政府將提供175億美元貸款 推動美國大型核電站建設】特朗普政府將提供175億美元貸款，用於支援公用事業公司訂購西屋電氣公司(Westinghouse Electric Co.)設計的反應堆裝置，此舉旨在重振美國大型核電站建設。美國能源部週二宣佈的這筆資金將以有條件的形式提供，最多包含五筆貸款，面向將各建造兩座反應堆的公用事業公司及其他能源企業。美國能源部表示，西屋電氣已與七家潛在合作方簽署意向書，相關專案均已確定建設地點。該部門表示，在最終確定名單前不會披露相關公用事業公司的名稱。美國總統唐納德·特朗普將核反應堆視為資料中心和經濟增長的核心電力來源。他去年簽署的行政令要求到2030年美國有10臺大型傳統核反應堆在建，並提出將全國核電裝機容量增加三倍至400吉瓦的目標。"
+    },
+    {
+      "id": "4950970",
+      "time": "2026-06-23 23:58:09",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "【高盛二季度股票交易業務營收據悉將突破50億美元 再創行業紀錄】知情人士透露，高盛集團的股票交易業務即將在第二季度創下另一項紀錄，營收額有望超過50億美元。知情人士表示，在本季度僅剩最後一週之際，高管們預計高盛股票交易業務營收可能超過第一季度報告的53億美元。這一業績將超越彭博調查的分析師平均預期的47.7億美元，標誌著高盛股票交易部門連續第三個季度創下行業紀錄。知情人士稱，高盛股票交易的業績受到亞洲市場活躍度激增的提振，這種活躍度推動了交易和融資活動的增長。這一局面主要歸功於對沖基金的強勁需求，它們熱衷於押注AI及其相關基礎設施投資的爆發式增長。"
+    },
+    {
+      "id": "mkt:019ef533-3cb4-7dd8-b0de-c5aea4661c40",
+      "time": "2026-06-23 23:57:16",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Microsoft",
+        "Market Themes",
+        "Magnificent 7",
+        "MSFT.O"
+      ],
+      "text": "Microsoft (MSFT.O) announced the Azure Copilot observability agent is now live."
+    },
     {
       "id": "mkt:019ef532-d881-7dd8-b0de-b9728e2d828a",
       "time": "2026-06-23 23:56:50",
@@ -158366,119 +158413,6 @@
         "觀點"
       ],
       "text": "花旗集團任命保羅·史密斯為全球化學品業務主席。"
-    },
-    {
-      "id": "te:markets:559411",
-      "time": "2026-06-17 00:02:00",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "France",
-        "Stock Market",
-        "Importance 0"
-      ],
-      "text": "CAC 40 Gains for Fourth Straight Session — The CAC 40 gained 0.7% to close at 8,447 on Tuesday, extending gains for a fourth straight session and reaching its highest level in two months amid optimism over a preliminary US-Iran deal. President Donald Trump said at the G7 summit that negotiations with Iran had entered a second stage. Oil prices slid as markets weighed the prospect of renewed supplies, easing concerns about energy-driven inflation and reducing fears of a hawkish shift by central banks. Lower bond yields supported financial stocks and the broader market, with BNP Paribas advancing 1.3% and Crédit Agricole gaining 1.8%. Luxury shares benefited from improved risk sentiment, with LVMH rising 1.5% and Hermès adding 2.2%. Industrial stocks also posted gains, with Safran up 2.4% and Schneider Electric advancing 2.5%. In contrast, STMicroelectronics fell 4% after announcing plans to issue $1.5 billion in convertible bonds."
-    },
-    {
-      "id": "4939155",
-      "time": "2026-06-17 00:01:52",
-      "tags": [
-        "其他",
-        "焦點"
-      ],
-      "text": "蘋果計劃2027年末推出搭載攝像頭的全新AirPods，該款AirPods將與第二代摺疊iPhone同步首發；蘋果還將在2027年末推出iPhone二十週年紀念機型。"
-    },
-    {
-      "id": "4939154",
-      "time": "2026-06-17 00:01:17",
-      "tags": [
-        "其他"
-      ],
-      "text": "微軟：客戶目前可在Frontier模型服務中使用GPT-5.5，CoWork 1即將推出。"
-    },
-    {
-      "id": "4939153",
-      "time": "2026-06-17 00:01:11",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "強生CEO稱特朗普稅收政策推動公司在美國加碼550億美元投資，其中佛羅里達州投資額達10億美元。"
-    },
-    {
-      "id": "mkt:019ed129-b4c1-7dd8-b036-6e29e18b6fb6",
-      "time": "2026-06-17 00:00:31",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Microsoft",
-        "Market Themes",
-        "Magnificent 7",
-        "MSFT.O"
-      ],
-      "text": "Microsoft (MSFT.O): Copilot CoWork is now fully rolled out."
-    },
-    {
-      "id": "4939152",
-      "time": "2026-06-16 23:59:59",
-      "tags": [
-        "其他"
-      ],
-      "text": "微軟：Copilot協作功能現已全面推出。"
-    },
-    {
-      "id": "4939151",
-      "time": "2026-06-16 23:59:51",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "法國國內情報局（DGSI）將停用Palantir公司產品，總理勒科爾尼稱此舉是出於對本國戰略層面依賴美國的擔憂。"
-    },
-    {
-      "id": "4939150",
-      "time": "2026-06-16 23:59:02",
-      "tags": [
-        "國際"
-      ],
-      "text": "鮑勃·奧登柯克再度化身索爾·古德曼，拍攝一則主題為“知曉自身合法權利”的公益宣傳片，以此紀念美國建國250週年。"
-    },
-    {
-      "id": "te:markets:559407",
-      "time": "2026-06-16 23:58:29",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 0"
-      ],
-      "text": "Cotton Futures at Over 1-Week High — Cotton futures rose toward 78 cents per pound, near the highest in over a week, amid a subdued dollar and as traders weighed weather concerns in key cotton-growing regions of the US. Beneficial rainfall was reported along the Texas coast, while dry conditions are forecast for West Texas. In the meantime, India is expected to receive below-average rainfall over the next two weeks, especially in central and northern regions that could delay planting of summer-sown crops, including cotton. Meanwhile, the June US agricultural supply and demand report pointed to a tighter global cotton balance in 2026/27, with lower beginning and ending stocks and slightly higher consumption. Easing geopolitical tensions also lent support, as lower crude oil prices may ease pressure on textile production by reducing costs."
-    },
-    {
-      "id": "te:markets:559406",
-      "time": "2026-06-16 23:58:27",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United Kingdom",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "FTSE 100 Rebounds on Tuesday — The FTSE 100 rose 0.7% on Tuesday, recovering from a 0.4% loss in the previous session, as oil prices fall further on growing hopes that this deal between the US and Iran could stick. Among major index constituents, Rolls-Royce added 2.7% and submarine contractor Babcock gained more than 2%, while banks including HSBC Holdings, Lloyds Banking Group and Barclays rose between 1.4% to 1.8%. Markets are also focused on a busy UK data calendar this week, with inflation, employment and retail sales figures due, alongside the Bank of England interest rate decision and the Makerfield by-election on Thursday."
-    },
-    {
-      "id": "mkt:019ed127-9a1a-7dd8-b036-65221ba5dbbf",
-      "time": "2026-06-16 23:58:13",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "SC crude main contract fell 4.00% intraday to 508.40 yuan/barrel."
     }
   ]
 }
