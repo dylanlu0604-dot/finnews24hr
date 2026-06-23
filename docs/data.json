@@ -1,7 +1,101 @@
 {
-  "updated": "2026-06-24 05:42:00",
-  "count": 17355,
+  "updated": "2026-06-24 05:45:59",
+  "count": 17363,
   "items": [
+    {
+      "id": "mkt:019ef671-cf96-7dd8-b0e4-70881e9d0ff2",
+      "time": "2026-06-24 05:45:14",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Meta Platforms",
+        "Market Themes",
+        "AI Revolution",
+        "Magnificent 7",
+        "META.O",
+        "Impact bullish"
+      ],
+      "text": "Meta Platforms (META.O) said it supports the government's goal of promoting US leadership in powerful, secure frontier AI."
+    },
+    {
+      "id": "mkt:019ef671-2e62-7dd8-b0e4-6a860c9d4170",
+      "time": "2026-06-24 05:44:32",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "Britain's National Grid ESO said it has issued a power margin notice to the market, adding the notice does not indicate any risk to electricity supply."
+    },
+    {
+      "id": "4951186",
+      "time": "2026-06-24 05:44:18",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普計劃週三在國會大廈簽署住房法案。"
+    },
+    {
+      "id": "4951185",
+      "time": "2026-06-24 05:43:56",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場資訊：阿里爾·伊曼紐爾正洽談以60億美元收購倫敦西區與百老匯演藝巨頭ATG。"
+    },
+    {
+      "id": "mkt:019ef670-8265-7dd8-b0e4-63090c7eb0b6",
+      "time": "2026-06-24 05:43:48",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "National Grid ESO said extreme temperatures are expected to leave electricity system margins very tight on Wednesday evening and asked market participants to make any available additional generation capacity available."
+    },
+    {
+      "id": "4951184",
+      "time": "2026-06-24 05:43:31",
+      "tags": [
+        "國際"
+      ],
+      "text": "Meta就美國政府人工智慧審查表態：目前我們仍在梳理細節，希望能儘快簽署協議。"
+    },
+    {
+      "id": "4951183",
+      "time": "2026-06-24 05:43:05",
+      "tags": [
+        "國際"
+      ],
+      "text": "Meta：我們認同本屆政府的目標，即推動美國在穩健安全的前沿人工智慧領域保持領先地位。"
+    },
+    {
+      "id": "4951182",
+      "time": "2026-06-24 05:42:18",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【Alphabet股價盤後上漲 將取代Verizon納入道指】Alphabet股價盤後上漲1.2%，該公司將取代Verizon Communications成為道瓊斯工業平均指數成分股，調整將於6月29日開盤前生效。Verizon股價下跌0.5%。"
+    },
+    {
+      "id": "mkt:019ef66e-dd13-7dd8-b0e4-5edf972b5e49",
+      "time": "2026-06-24 05:42:01",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Alphabet",
+        "Market Themes",
+        "Magnificent 7",
+        "GOOGL.O",
+        "Impact bullish",
+        "VZ.N",
+        "Impact bearish"
+      ],
+      "text": "Alphabet's Class A shares (GOOGL.O) rose more than 1% in after-hours trading and will replace Verizon (VZ.N) in the Dow Jones Industrial Average; Verizon fell about 0.6% in after-hours trading."
+    },
     {
       "id": "4951181",
       "time": "2026-06-24 05:40:51",
@@ -159017,14 +159111,6 @@
         "MKT News"
       ],
       "text": "Chile's central bank held its policy rate at 4.50%, in line with expectations."
-    },
-    {
-      "id": "mkt:019ed264-9193-7dd8-b03a-9ddf5904ae73",
-      "time": "2026-06-17 05:44:26",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Foreign media: $300 billion private fund in US‑Iran memorandum has over half of capital committed】Foreign media reported on June 16 that the US‑Iran memorandum of understanding includes a $300 billion private fund intended to spur investment in Iran. More than half of the fund’s capital has received commitments, sources said. The vehicle is described as a private investment instrument with no government funding or grants. Committing investors are based in the US, Gulf states, Asia, South America and Africa; target sectors include energy, logistics, manufacturing and transport. The fund is intended to provide economic incentives to both parties to help secure a final agreement."
     }
   ]
 }
