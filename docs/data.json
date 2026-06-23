@@ -1,7 +1,28 @@
 {
-  "updated": "2026-06-24 03:37:12",
+  "updated": "2026-06-24 03:41:15",
   "count": 17280,
   "items": [
+    {
+      "id": "mkt:019ef5fc-b9fb-7dd8-b0e2-ca26c118ca8e",
+      "time": "2026-06-24 03:37:21",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish",
+        "EURUSD",
+        "Impact bearish",
+        "USDJPY"
+      ],
+      "text": "【US dollar index rises 0.38% to 101.408 at New York close】US dollar index (DXY) rose 0.38% to 101.408 at the New York FX close. EUR/USD 1.1379 (prev. 1.1424); GBP/USD 1.3188 (prev. 1.3244). USD/JPY 161.57 (prev. 161.42); USD/CHF 0.8100 (prev. 0.8091); USD/CAD 1.4214 (prev. 1.4157); USD/SEK 9.7466 (prev. 9.6212)."
+    },
+    {
+      "id": "4951104",
+      "time": "2026-06-24 03:36:53",
+      "tags": [
+        "市場"
+      ],
+      "text": "【美元指數23日上漲】美元指數23日上漲。衡量美元對六種主要貨幣的美元指數當天上漲0.38%，在匯市尾市收於101.408。截至紐約匯市尾市，1歐元兌換1.1379美元，低於前一交易日的1.1424美元；1英鎊兌換1.3188美元，低於前一交易日的1.3244美元。1美元兌換161.57日元，高於前一交易日的161.42日元；1美元兌換0.8100瑞士法郎，高於前一交易日的0.8091瑞士法郎；1美元兌換1.4214加元，高於前一交易日的1.4157加元；1美元兌換9.7466瑞典克朗，高於前一交易日的9.6212瑞典克朗。"
+    },
     {
       "id": "4951103",
       "time": "2026-06-24 03:35:52",
@@ -158365,27 +158386,6 @@
         "國際"
       ],
       "text": "隨著燃料、汽車和食品突破封鎖，美國對古巴的出口大幅增長。"
-    },
-    {
-      "id": "4939315",
-      "time": "2026-06-17 03:41:10",
-      "tags": [
-        "公司",
-        "央行",
-        "國際"
-      ],
-      "text": "【歐洲央行管委：英國可助力歐盟打破資本市場停滯局面】歐洲央行管理委員會成員兼荷蘭央行行長Olaf Sleijpen表示，英國可以幫助歐盟整合該集團的資本市場。歐盟與英國之間更緊密的合作，有助於推動深化資本市場和儲蓄聯盟的程序。他呼籲與英國展開合作，表示互相借鑑經驗、改善市場準入可以支援金融穩定與經濟增長。"
-    },
-    {
-      "id": "mkt:019ed1f1-bd04-7dd8-b039-b695506e15cd",
-      "time": "2026-06-17 03:39:01",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "【Iran vice president: Tehran will retain control of Strait of Hormuz】Press TV quoted First Vice President Mohammad Reza Aref on Tuesday saying Tehran will retain control and management of the Strait of Hormuz and that vessels using the waterway should pay for security services provided by Iran, the presidential office said. Aref said Iran has made major sacrifices to protect its rights in the strait and that without Iranian security services vessels could face risks including sea mines and environmental damage."
     }
   ]
 }
