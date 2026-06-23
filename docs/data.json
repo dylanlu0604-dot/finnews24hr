@@ -1,7 +1,31 @@
 {
-  "updated": "2026-06-24 07:34:28",
-  "count": 17356,
+  "updated": "2026-06-24 07:38:18",
+  "count": 17355,
   "items": [
+    {
+      "id": "4951269",
+      "time": "2026-06-24 07:37:00",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：晶片製造初創企業XLight計劃尋求3.5億美元新融資。"
+    },
+    {
+      "id": "4951268",
+      "time": "2026-06-24 07:36:12",
+      "tags": [
+        "公司"
+      ],
+      "text": "【耐克任命前輝瑞CFO丹頓接任首席財務官，8月17日生效】耐克當地時間6月23日宣佈，大衛·丹頓（David M. Denton）將於8月17日出任公司執行副總裁兼首席財務官。現任CFO馬修·弗蘭德（Matthew Friend）屆時卸任，並留任至9月4日協助完成職責交接，仍將參加6月30日的2026財年第四季度業績電話會議。丹頓擁有逾30年跨國上市公司財務與運營領導經驗。他此前擔任輝瑞公司CFO兼執行副總裁，更早曾在勞氏公司（Lowe's）及CVS健康公司擔任CFO。耐克同時披露，2026財年第四季度業績將因關稅退款帶來一次性收益，但剔除該專案後，業績預計與此前指引基本一致。"
+    },
+    {
+      "id": "4951267",
+      "time": "2026-06-24 07:34:33",
+      "tags": [
+        "公司"
+      ],
+      "text": "【若車輛追蹤法未獲推遲   汽車製造商或暫停加州汽車銷售】一個代表主要汽車製造商的團體週二警告稱，除非加利福尼亞州推遲實施旨在防止家庭暴力施暴者追蹤倖存者的車輛技術規定，否則汽車公司可能被迫於7月1日在該州暫停新車和二手車的銷售。代表通用汽車、豐田、大眾、現代以及其他大多數汽車製造商的“汽車創新聯盟”表示，除非相關立法提案在7月1日前簽署成為法律，“否則加利福尼亞州的汽車銷售將面臨被暫停的重大風險”。該組織表示，汽車製造商正在落實2024年法律要求的家庭暴力受害者保護措施，“但今年無法遵守該法律的某些條款”。"
+    },
     {
       "id": "4951266",
       "time": "2026-06-24 07:33:52",
@@ -158962,45 +158986,6 @@
         "Importance 0"
       ],
       "text": "Brent Holds Decline on Supply Optimism — Brent traded near three-month lows below $80 per barrel on Wednesday after falling for four straight sessions, pressured by expectations of increased supply following the anticipated peace agreement between the US and Iran. The two nations are set to sign an interim deal in Switzerland on Friday, granting Tehran broad economic incentives, including the immediate resumption of its oil exports. Tankers from other countries are also expected to resume transit through the Strait of Hormuz once the agreement takes effect, although shipping firms remain cautious about its long-term stability. Additional supplies from the region are expected to boost refinery inventories worldwide, alongside higher OPEC+ export quotas and increased production from the UAE, which exited the cartel during the conflict. Meanwhile, industry data indicated that US crude inventories fell by 8.3 million barrels last week."
-    },
-    {
-      "id": "te:markets:559462",
-      "time": "2026-06-17 07:37:36",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 2"
-      ],
-      "text": "Oil Holds Decline on Supply Optimism — Crude oil traded near three-month lows below $77 per barrel on Wednesday after falling for four straight sessions, pressured by expectations of increased supply following the anticipated peace agreement between the US and Iran. The two nations are set to sign an interim deal in Switzerland on Friday, granting Tehran broad economic incentives, including the immediate resumption of its oil exports. Tankers from other countries are also expected to resume transit through the Strait of Hormuz once the agreement takes effect, although shipping firms remain cautious about its long-term stability. Additional supplies from the region are expected to boost refinery inventories worldwide, alongside higher OPEC+ export quotas and increased production from the UAE, which exited the cartel during the conflict. Meanwhile, industry data indicated that US crude inventories fell by 8.3 million barrels last week."
-    },
-    {
-      "id": "4939423",
-      "time": "2026-06-17 07:37:25",
-      "tags": [
-        "公司",
-        "市場",
-        "央行",
-        "國際"
-      ],
-      "text": "【城堡證券認為美聯儲9月開始加息的機率上升】城堡證券表示，隨著通脹變得更加持續而廣泛，美聯儲最早從9月開始啟動一系列加息的機率正在上升。該公司宏觀策略主管Frank Flight在給客戶的一份報告中寫道，儘管在美國和伊朗宣佈達成結束衝突的臨時和平協議後，油價有所回落，但戰爭期間通脹壓力卻日益根深蒂固。他表示，寬鬆的金融環境、持續的供應鏈擾動、勞動力市場重新加速增長以及人工智慧投資激增等因素共同作用，導致價格壓力持續存在。Flight預測，在此背景下，美聯儲主席凱文·沃什在週三他主持的首次政策會議上可能會採取更為鷹派的立場，導致在9月、12月和2027年3月加息的風險不斷攀升。這一預期遠比當前市場定價更為激進，利率互換合約對應的9月加息可能性僅為三分之一左右。"
-    },
-    {
-      "id": "4939422",
-      "time": "2026-06-17 07:36:36",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【G7領導人承諾加大努力應對全球債務風險】七國集團(G7)領導人週二承諾加大力度，應對困擾發展中國家的高額債務負擔，其中包括不符合20國集團(G20)在新冠疫情期間推出的債務減免計劃條件的中等收入國家。在肯亞、埃及、印度、巴西和韓國等受邀國參與的會議後，G7發表聯合宣告，重申推進發展合作，並敦促加快改革及更加側重私人投資。各國領導人表示，傳統發展政策雖有成效，但在減少對外部援助依賴方面影響“有限”。他們在法國埃維昂萊班表示，近年來因美國及其他發達經濟體削減而受限的公共資源仍將發揮關鍵作用，但不足以滿足全球需求。宣告稱：“我們將加大努力，應對不斷加劇的全球債務脆弱性，這些脆弱性威脅經濟穩定，並限制提供基本公共服務所需的財政空間。”該宣告得到韓國和肯亞支援。"
-    },
-    {
-      "id": "4939421",
-      "time": "2026-06-17 07:35:56",
-      "tags": [
-        "公司"
-      ],
-      "text": "【燃氣輪機走俏上市公司訂單飽滿】受能源結構轉型、AI資料中心建設提速等因素推動，全球燃氣輪機需求持續旺盛，行業景氣度與關注度同步升溫。有受訪專家對記者表示，當前燃機行業增長邏輯清晰、需求根基穩固，高景氣態勢有望延續。旺盛的市場需求不僅為相關上市公司帶來充足訂單，也為企業業績爆發創造了有利條件。"
     }
   ]
 }
