@@ -1,7 +1,127 @@
 {
-  "updated": "2026-06-23 21:33:52",
-  "count": 17301,
+  "updated": "2026-06-23 21:38:01",
+  "count": 17300,
   "items": [
+    {
+      "id": "mkt:019ef4b3-31ed-7dd8-b0da-9dce8225fec2",
+      "time": "2026-06-23 21:37:24",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Semiconductor stocks fell sharply: Marvell (MRVL.O) down 9.2%, Qualcomm (QCOM.O) down 6.9%, Arm (ARM.O) down 8.5%, Microchip Technology (MCHP.O) down 5.4%, Applied Materials (AMAT.O) down 9.7%, NVIDIA (NVDA.O) down 3.7%, AMD (AMD.O) down 7.5%, Broadcom (AVGO.O) down 2.8% and Intel (INTC.O) down 9%. Sector ETFs also plunged: iShares Semiconductor ETF down 6.9%, VanEck Semiconductor ETF down 6.2% and Roundhill Memory ETF down 13.5%."
+    },
+    {
+      "id": "4950790",
+      "time": "2026-06-23 21:36:36",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "匈牙利央行行長：預計夏季將分三次降息，每次降息25個基點。"
+    },
+    {
+      "id": "4950789",
+      "time": "2026-06-23 21:36:15",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中企承建奈及利亞首都區衛星城供水專案交付】奈及利亞首都區衛星城供水專案22日舉行交付儀式。專案由中地海外奈及利亞有限公司承建，新建供水管道近400公里，覆蓋布瓦里、卡魯兩個片區，預計將為近100萬居民提供潔淨用水。(新華社)"
+    },
+    {
+      "id": "4950788",
+      "time": "2026-06-23 21:35:49",
+      "tags": [
+        "市場"
+      ],
+      "text": "羅素2000指數下跌1.6%。"
+    },
+    {
+      "id": "te:markets:561202",
+      "time": "2026-06-23 21:35:45",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "US Tech Stocks Sell Off — US equity indices slumped on Tuesday amid a selloff in the heavyweight tech sector. The Nasdaq 100 slid 3%, the S&P 500 dropped 1.5%, and the Dow lost 0.5%. AI stocks tanked on increasing skepticism that spending by hyperscalers will not meet returns. Nvidia and Tesla lost 4%. On the same note, SpaceX plunged 16% as it issued bonds only one week after its IPO, adding to fears of colossal capital expenditure. Chip stocks slipped as SK Hynix slowed production of advanced AI chips to boost commodity DRAM capacity, also aligned with concerns that AI datacenter speculation does not match fundamentals. Micron tanked 11% ahead of its earnings tomorrow and Sandisk lost over 12%. Treasury yields remained elevated despite the decline in energy prices following the hawkish dot plot last week, limiting any respite for traditional sectors of the economy. Finance was pressured as Apollo once again capped private equity withdrawals."
+    },
+    {
+      "id": "4950787",
+      "time": "2026-06-23 21:35:30",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "匈牙利央行行長：開啟降息小週期。"
+    },
+    {
+      "id": "4950786",
+      "time": "2026-06-23 21:35:21",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "匈牙利央行行長：我們將在9月重新評估經濟前景。"
+    },
+    {
+      "id": "4950785",
+      "time": "2026-06-23 21:35:03",
+      "tags": [
+        "公司"
+      ],
+      "text": "AMC娛樂控股股價暴跌25.5%，報2.06美元，此前該公司宣佈完成規模2億美元的股票發行定價。"
+    },
+    {
+      "id": "mkt:019ef4b1-0bd3-7dd8-b0da-96532f485395",
+      "time": "2026-06-23 21:35:03",
+      "tags": [
+        "MKT News",
+        "Important",
+        "DXY",
+        "Impact mixed",
+        "S&P500",
+        "US10Y"
+      ],
+      "text": "US June S&P Global manufacturing and services PMI preliminary readings due in 10 minutes."
+    },
+    {
+      "id": "4950784",
+      "time": "2026-06-23 21:34:37",
+      "tags": [
+        "其他"
+      ],
+      "text": "【劉海星會見南非非國大副主席、副總統馬沙蒂萊】6月23日，中共中央對外聯絡部部長劉海星在北京會見南非非國大副主席、副總統馬沙蒂萊。雙方就共同落實好兩國元首重要共識，加強黨際交流合作、推動中南關係發展等交換意見。(新華社)"
+    },
+    {
+      "id": "mkt:019ef4b0-6675-7dd8-b0da-8865aeb78d5e",
+      "time": "2026-06-23 21:34:21",
+      "tags": [
+        "MKT News",
+        "Important",
+        "SPCX.O",
+        "Impact bearish"
+      ],
+      "text": "Shares of SpaceX (SPCX.O) extended losses, down 3.9%, and briefly fell below their first-day opening price."
+    },
+    {
+      "id": "4950783",
+      "time": "2026-06-23 21:33:57",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【劉國中在江蘇調研時強調 打造生物醫藥新興支柱產業 培育發展腦機介面未來產業】中共中央政治局委員、國務院副總理劉國中22日至23日到江蘇調研。他強調，要深入學習貫徹習近平總書記重要指示精神，落實黨中央、國務院部署，堅持“四個面向”戰略導向，強化創新引領和政策協同，打造生物醫藥新興支柱產業，培育發展腦機介面未來產業，加快高水平科技自立自強，不斷催生新質生產力，為健康中國建設提供有力支撐。（新華社）"
+    },
+    {
+      "id": "mkt:019ef4af-8af5-7dd8-b0da-879b0dbac66f",
+      "time": "2026-06-23 21:33:25",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Putin said the government should take additional measures to offset the impact of the attack."
+    },
     {
       "id": "4950782",
       "time": "2026-06-23 21:33:17",
@@ -111,6 +231,15 @@
         "MU.O"
       ],
       "text": "U.S. equities opened lower: Dow down 0.66%, S&P 500 down 1.6%, Nasdaq down 2.3%. Storage names led declines—SanDisk (SNDK.O) down 11.3%, Micron Technology (MU.O) down 11.8%. SpaceX (SPCX.O) opened down 2.8%, marking a fourth straight session of losses and pushing its market value below $2 trillion."
+    },
+    {
+      "id": "em:qqyh_jndyh:202606233779990051",
+      "time": "2026-06-23 21:31:41",
+      "tags": [
+        "央行",
+        "加拿大央行"
+      ],
+      "text": "【加拿大央行行長：必須讓美國以外的投資更具吸引力】據報道，加拿大央行行長麥克勒姆警告稱，對美國的過度投資正在給全球金融體系帶來更廣泛的調整風險。他表示，必須讓美國以外的投資更具吸引力。"
     },
     {
       "id": "4950775",
@@ -470,6 +599,14 @@
         "其他"
       ],
       "text": "加拿大央行：美元的吸引力可能導致失衡持續存在。"
+    },
+    {
+      "id": "4950755",
+      "time": "2026-06-23 21:25:04",
+      "tags": [
+        "其他"
+      ],
+      "text": "【王浩在杭州調研專案建設時強調 抓專案 強創新 為高質量發展增添新動能】23日下午，浙江省委書記王浩在杭州調研專案建設並下訪接訪。他強調，專案建設是高質量發展的引擎和支撐。各地各部門要深入學習貫徹習近平總書記考察浙江重要講話精神特別是“4+1”重要要求，進一步樹牢“以專案看發展論英雄”理念，堅定不移抓專案、強創新，確保“時間過半、任務過半”，為推動取得“決定性進展”、率先呈現“生動圖景”提供堅實支撐。（浙江釋出）"
     },
     {
       "id": "te:economy:561199",
@@ -158297,154 +158434,6 @@
         "其他"
       ],
       "text": "美股盤初，主要行業ETF漲跌不一，全球航空業ETF漲超2%，銀行業ETF漲超1%，能源業ETF跌超1%。"
-    },
-    {
-      "id": "4938932",
-      "time": "2026-06-16 21:37:48",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國前副總統哈里斯：雖然目前還只是處於達成協議的構想階段，尚不確定最終結果如何，但毫無疑問，這場“選擇”戰爭與汽油價格的變動之間存在直接關聯。"
-    },
-    {
-      "id": "mkt:019ed0a6-f70c-7dd8-b033-16767b9ba781",
-      "time": "2026-06-16 21:37:43",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Former U.S. vice president Harris said the proposal is still only at the conceptual stage of reaching an agreement and the final outcome remains uncertain, but there is no doubt the 'choice' war is directly linked to gasoline price movements."
-    },
-    {
-      "id": "4938931",
-      "time": "2026-06-16 21:37:05",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國前副總統哈里斯：（談及伊朗問題）首先，這是一場美國人民並不想要的戰爭。這是一場“選擇”的戰爭。這位總統已證明自己行事完全任性妄為。至於後續的談判進展，我們將拭目以待。"
-    },
-    {
-      "id": "mkt:019ed0a6-56ce-7dd8-b033-0a5e2d515f7e",
-      "time": "2026-06-16 21:37:02",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "U.S. Vice President Harris, on Iran, said the conflict is not what the American people want, called it a \"chosen\" war, accused the president of acting recklessly, and said she will await developments in negotiations."
-    },
-    {
-      "id": "4938930",
-      "time": "2026-06-16 21:36:57",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "SSR礦業公司股價上漲9%，此前該公司宣佈追加股票回購。"
-    },
-    {
-      "id": "4938929",
-      "time": "2026-06-16 21:36:28",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "高通開盤股價上漲3%，此前有報道稱該公司正洽談收購Tenstorrent。"
-    },
-    {
-      "id": "4938928",
-      "time": "2026-06-16 21:35:47",
-      "tags": [
-        "其他"
-      ],
-      "text": "【中老年悅己消費崛起】資料顯示，目前全國60週歲以上網民網購使用率達69.8%，更多銀髮族跨越數字門檻，融入智慧社會。國家稅務總局增值稅發票資料印證了這一熱度：上半年老年營養保健品、助行助聽產品銷售收入同比分別增長30.1%和32.2%，智慧可穿戴裝備銷售更飆漲32.6%。京東“618”開門紅期間，自動呼吸機、血糖儀等醫療器械品類增長超過100%，護士到家失能照護服務訂單量同比增長超4倍。天貓資料顯示，中老年滋補品、服飾美妝成交佔比持續擴大，55–65歲新銀髮群體消費同比增長超60%，美妝品類中，抗衰、修復、舒敏等相關功效類護膚產品成交額同比增長翻倍。從“省心”到“悅己”，銀髮族網購正從生存型向品質型躍遷。（央視財經）"
-    },
-    {
-      "id": "4938927",
-      "time": "2026-06-16 21:35:26",
-      "tags": [
-        "其他"
-      ],
-      "text": "SpaceX股票期權開始交易。"
-    },
-    {
-      "id": "mkt:019ed0a4-d476-7dd8-b033-0153af0fb347",
-      "time": "2026-06-16 21:35:23",
-      "tags": [
-        "MKT News",
-        "SPCX.O"
-      ],
-      "text": "Options on SpaceX (SPCX.O) stock began trading."
-    },
-    {
-      "id": "4938926",
-      "time": "2026-06-16 21:34:53",
-      "tags": [
-        "其他"
-      ],
-      "text": "中國地震臺網正式測定：06月16日21時27分在青海海西州直轄區（北緯37.91度，東經95.42度）發生4.2級地震，震源深度10千米。"
-    },
-    {
-      "id": "4938925",
-      "time": "2026-06-16 21:34:46",
-      "tags": [
-        "市場"
-      ],
-      "text": "Robinhood宣佈將裁減10%全職員工後，其股價上漲1.2%。"
-    },
-    {
-      "id": "te:markets:559372",
-      "time": "2026-06-16 21:34:28",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "stocks",
-        "Importance 1"
-      ],
-      "text": "Charles Schwab Stock Price Hits 4-week High — Charles Schwab shares increased to 92.58 USD, the highest since May 2026. Over the past 4 weeks, Charles Schwab gained 0.03%, and in the last 12 months, it increased 3.88%."
-    },
-    {
-      "id": "te:markets:559371",
-      "time": "2026-06-16 21:34:11",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Stock Market",
-        "Importance 2"
-      ],
-      "text": "US Stocks Hold Rally — US equity indices were little changed on Tuesday, holding their three-session rally after the US and Iran said they agreed to a deal that ends the conflict and reestablishes energy exports from the Persian Gulf. The S&P 500 edged higher and the Dow rose 350 points to extend its record high, while the Nasdaq 100 was lower. Despite lingering inconsistencies in the terms of the deal, the US and Iran were still due to sign the agreement on Friday, with US authorities stating the Strait of Hormuz will reopen. Bond yields pulled back further as the development softened pro-inflationary concerns ahead of the Fed's likely rate hold tomorrow, although Chairman Warsh may continue to push for monetary framework overhauls in his first meeting. SpaceX was 10% higher premarket to gain 40% since its IPO on Friday following news it will acquire Cursor for $60 billion. In turn, tech heavyweights trimmed their gains following their rallies earlier, with Microsoft, Meta, and Alphabet traded lower."
-    },
-    {
-      "id": "mkt:019ed0a3-ade5-7dd8-b032-fa7a60dfcbda",
-      "time": "2026-06-16 21:34:08",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "Nasdaq100",
-        "Impact bearish",
-        "Hang Seng Index",
-        "DXY",
-        "Impact bullish"
-      ],
-      "text": "Nasdaq Golden Dragon China Index falls 2%."
-    },
-    {
-      "id": "4938924",
-      "time": "2026-06-16 21:34:00",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "MOBILEYE宣佈2027年在美國推出自動駕駛計程車業務，開盤股價上漲1.7%。"
-    },
-    {
-      "id": "4938923",
-      "time": "2026-06-16 21:33:56",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "納斯達克中國金龍指數跌超2%，水滴公司跌7.14%，海天網路跌8.41%，金山雲跌5.91%，大全新能源跌4.46%，禾賽科技跌4.16%。"
     }
   ]
 }
