@@ -1,7 +1,93 @@
 {
-  "updated": "2026-06-23 13:16:38",
-  "count": 17217,
+  "updated": "2026-06-23 13:20:54",
+  "count": 17221,
   "items": [
+    {
+      "id": "4949573",
+      "time": "2026-06-23 13:20:03",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "韓國綜合股價指數(KOSPI)下跌7.3%。"
+    },
+    {
+      "id": "mkt:019ef2ea-bcb6-7dd8-b0cc-eb702c537cf6",
+      "time": "2026-06-23 13:18:50",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "03750.HK",
+        "Impact bearish",
+        "Hang Seng Index",
+        "CSI300"
+      ],
+      "text": "CATL (03750.HK) Hong Kong shares fell more than 5%; A-shares down about 3%."
+    },
+    {
+      "id": "4949571",
+      "time": "2026-06-23 13:18:46",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "滬深兩市成交額超2.5萬億元，較上日此時縮量2290億元。"
+    },
+    {
+      "id": "4949570",
+      "time": "2026-06-23 13:18:17",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "南向資金淨買入額達80億港元。"
+    },
+    {
+      "id": "4949569",
+      "time": "2026-06-23 13:17:38",
+      "tags": [
+        "國際"
+      ],
+      "text": "印度礦業部長：印度即將敲定電池礦物加工計劃。"
+    },
+    {
+      "id": "mkt:019ef2e8-d6c7-7dd8-b0cc-e3bc20ce21e5",
+      "time": "2026-06-23 13:16:45",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【UK considers requiring social platforms to prioritise reliable news】The UK government said on June 22 it is considering requiring social media platforms such as Facebook and YouTube to prioritise content from government-designated reliable news sources, including broadcasters and TV stations, as part of plans to tighten industry regulation, Reuters reported. The government said making reliable news easier to find would help combat misinformation."
+    },
+    {
+      "id": "4949568",
+      "time": "2026-06-23 13:16:30",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗總統：會談的有效性取決於對商定義務的充分承諾及其精確執行。在這條道路上的進展將透過對已接受責任的實際遵守來衡量。超出商定文字的宣告無助於推動談判的進展。"
+    },
+    {
+      "id": "te:economy:560997",
+      "time": "2026-06-23 13:16:17",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Singapore",
+        "Inflation Rate",
+        "Importance 1"
+      ],
+      "text": "Singapore Inflation Remains Highest Since 2024 — Singapore's annual inflation rate held steady at 1.8% in May 2026, unchanged for a second consecutive month but below market expectations of 2%. It remained the highest reading since September 2024, as price pressures accelerated across several categories, including food (1.8% vs 1.6% in April), transport (7.4% vs 7%), clothing and footwear (1.1% vs 1%), recreation, sport and culture (1.3% vs 0.9%), and miscellaneous goods and services (2.4% vs 1.7%). In addition, inflation was stable for housing and utilities (0.2%), health (3.1%), and education (-0.8%). On the other hand, price growth moderated for household durables and services (0.7% vs 1.1%), and deflation deepened for information and communication (-2.9% vs -0.9%). On a monthly basis, consumer prices rose 0.7%, rebounding from a 0.3% fall in April. Meanwhile, core inflation, which excludes accommodation and private transport costs, held steady at 1.4% in May, undershooting market expectations of 1.6%."
+    },
+    {
+      "id": "em:qqyh_rbyh:202606233779539041",
+      "time": "2026-06-23 13:15:31",
+      "tags": [
+        "央行",
+        "日本央行"
+      ],
+      "text": "【日元匯率逼近四十年最低水平！市場屏息等待：政府何時出手？】本週二，日元匯率持續貶值，一度接近近40年來最低水平，而市場對日本政府幹預舉動的討論再度升溫。"
+    },
     {
       "id": "4949567",
       "time": "2026-06-23 13:15:25",
@@ -157830,59 +157916,6 @@
         "其他"
       ],
       "text": "半導體港股走勢分化，華虹宏力跌5%，中芯國際跌3%；建滔積層板漲6%。"
-    },
-    {
-      "id": "mkt:019ecee0-140f-7dd8-b020-9c871253bba7",
-      "time": "2026-06-16 13:20:52",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Themes",
-        "China Tech Giants",
-        "Market Regions",
-        "Greater China",
-        "Star Stocks",
-        "Meituan",
-        "01347.HK",
-        "Impact bearish",
-        "09626.HK",
-        "01024.HK"
-      ],
-      "text": "Hang Seng Tech Index fell more than 2% in afternoon trade; HSI down 1.42%. Hua Hong Semiconductor (01347.HK), China Hongqiao (01378.HK) and China Resources Mixc Lifestyle (01209.HK) slid over 5%; Bilibili (09626.HK) and Kuaishou (01024.HK) dropped more than 4%; Baidu (09888.HK), Meituan (03690.HK), Horizon Robotics (09660.HK) and SenseTime (00020.HK) fell over 3.5%."
-    },
-    {
-      "id": "mkt:019ecedf-637f-7dd8-b020-9020b8e0534a",
-      "time": "2026-06-16 13:20:06",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "Reserve Bank of Australia Governor Bullock will hold a monetary policy press conference in ten minutes."
-    },
-    {
-      "id": "4937778",
-      "time": "2026-06-16 13:19:59",
-      "tags": [
-        "公司"
-      ],
-      "text": "【華鯤振宇：2025年中國非IA晶片伺服器出貨量份額第一】據華鯤振宇官微披露，國際資料公司（IDC）最新發布的《中國非IA晶片伺服器市場份額》報告顯示，2025年，中國非IA晶片伺服器市場的出貨量達到142.3萬臺，同比增長24.3%，遠超整體市場4.4%的增速。其中，中國非IA晶片伺服器的廠商出貨量佔比為：華鯤振宇13.7%，排名第一。從伺服器臺數來看，80%以上為通用伺服器，邊緣推理應用帶來的需求是臺數增長的核心驅動力之一。"
-    },
-    {
-      "id": "4937777",
-      "time": "2026-06-16 13:19:55",
-      "tags": [
-        "公司"
-      ],
-      "text": "【大灣區重點工程獅子洋通道主橋完成首套主索鞍吊裝】從廣東交通集團瞭解到，6月14日晚，大灣區重點工程獅子洋通道的專案控制性工程、世界首座超2000米雙層懸索橋——獅子洋大橋，完成主塔首套主索鞍吊裝，標誌著大橋施工進入工序轉換關鍵階段，為專案後續先導索過江、貓道架設等上部結構施工奠定基礎。"
-    },
-    {
-      "id": "4937776",
-      "time": "2026-06-16 13:18:52",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "恒生科技指數跌超2%，現報4670.140點；恒生指數現跌1.414%。"
     }
   ]
 }
