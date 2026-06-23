@@ -1,7 +1,109 @@
 {
-  "updated": "2026-06-23 13:20:54",
-  "count": 17221,
+  "updated": "2026-06-23 13:24:58",
+  "count": 17228,
   "items": [
+    {
+      "id": "4949580",
+      "time": "2026-06-23 13:24:08",
+      "tags": [
+        "其他"
+      ],
+      "text": "港股儲存晶片板塊震盪走低，南方兩倍做多海力士跌超20%，瀾起科技跌超9%，兆易創新跌超5%。"
+    },
+    {
+      "id": "4949579",
+      "time": "2026-06-23 13:23:56",
+      "tags": [
+        "觀點"
+      ],
+      "text": "花旗將大眾汽車歐股目標價從110歐元下調至94歐元。"
+    },
+    {
+      "id": "mkt:019ef2ef-1e97-7dd8-b0cd-0abe6ba3a1cb",
+      "time": "2026-06-23 13:23:37",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Industrial Metals",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "【South Korea trade minister says positive consensus reached with EU on duty-free steel quotas】South Korea's trade minister said talks with the EU produced a positive consensus on duty-free steel import quotas. The EU will from July 1 cut annual duty-free steel imports to 18.35 mln t from 33.82 mln t (a 46% reduction) and raise tariffs on above-quota steel to 50% from 25%. Seoul is negotiating to maximize its allocation; its current duty-free quota is about 2.58 mln t. The EU has pledged any cut to South Korea's allocation will be smaller than 46% but gave no figure. The minister said South Korea made no special concessions and warned the measure violates the Korea-EU FTA and could prompt retaliatory action."
+    },
+    {
+      "id": "4949578",
+      "time": "2026-06-23 13:23:31",
+      "tags": [
+        "市場"
+      ],
+      "text": "恒生中國企業指數較去年10月高點下跌20%。"
+    },
+    {
+      "id": "4949577",
+      "time": "2026-06-23 13:22:46",
+      "tags": [
+        "市場"
+      ],
+      "text": "【貴金屬概念持續走弱 招金黃金、興業銀錫雙雙跌停】貴金屬概念持續走弱，招金黃金、興業銀錫雙雙跌停，赤峰黃金觸及跌停，湖南黃金、西部黃金、山東黃金、四川黃金跟跌。"
+    },
+    {
+      "id": "4949576",
+      "time": "2026-06-23 13:21:50",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "SK海力士跌幅擴大至10％，三星下跌7.5％。"
+    },
+    {
+      "id": "4949575",
+      "time": "2026-06-23 13:21:32",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗稱未來的會談將包括巴基斯坦總理和卡達首相。"
+    },
+    {
+      "id": "mkt:019ef2ed-2c20-7dd8-b0cd-06ac4561d811",
+      "time": "2026-06-23 13:21:29",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Xiaomi",
+        "01810.HK",
+        "Impact bearish"
+      ],
+      "text": "Hong Kong-listed Xiaomi Corp (01810.HK) continues to fall, trading down more than 5%."
+    },
+    {
+      "id": "mkt:019ef2ec-8262-7dd8-b0cc-ff977902543a",
+      "time": "2026-06-23 13:20:46",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "603993.SS",
+        "Impact bearish",
+        "2899.HK"
+      ],
+      "text": "China's SSE 50 Index fell more than 2%; constituent Luoyang Molybdenum dropped over 9% and Zijin Mining fell nearly 8%."
+    },
+    {
+      "id": "4949574",
+      "time": "2026-06-23 13:20:28",
+      "tags": [
+        "市場"
+      ],
+      "text": "日經225指數擴大跌幅，最新下跌2.3%，報70,721.95點。"
+    },
+    {
+      "id": "mkt:019ef2ec-28c3-7dd8-b0cc-f2251f34bf3d",
+      "time": "2026-06-23 13:20:23",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "India's mines minister said India is set to finalize a battery-minerals processing plan."
+    },
     {
       "id": "4949573",
       "time": "2026-06-23 13:20:03",
@@ -157878,44 +157980,6 @@
         "市場"
       ],
       "text": "【有機矽概念震盪反彈，合盛矽業漲停】有機矽概念震盪反彈，合盛矽業漲停，錦華新材漲超11%，東嶽矽材、瑞泰新材、康鵬科技、宏柏新材、潤禾材料等跟漲。"
-    },
-    {
-      "id": "mkt:019ecee2-a0be-7dd8-b020-a9cda2aab4d5",
-      "time": "2026-06-16 13:23:39",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bearish"
-      ],
-      "text": "WTI crude down more than 1.00% intraday, trading at $80.57/bbl."
-    },
-    {
-      "id": "4937780",
-      "time": "2026-06-16 13:21:39",
-      "tags": [
-        "公司"
-      ],
-      "text": "【德國晶圓製造商Siltronic募資3.16億美元以支援增長】Siltronic表示，該公司已籌集2.73億歐元（合3.164億美元），以支援長期增長並增強其資產負債表，該公司正尋求在半導體市場擴張。這家德國晶圓製造商表示，該公司已透過一次排除了股東認購權的加速簿記建檔過程完成了一項增資。晶圓是用於製造半導體晶片的。新股以每股91歐元的價格配售，募資總額為2.73億歐元。該公司補充稱，此次交易是面向機構投資者的國際私募配售，並獲得了大幅超額認購。"
-    },
-    {
-      "id": "mkt:019ecee0-90ae-7dd8-b020-a4961522670e",
-      "time": "2026-06-16 13:21:23",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "Chip Wars"
-      ],
-      "text": "【Huakun Zhenyu tops China non-IA chip server shipment share in 2025】IDC reports China non-IA chip server shipments reached 1.423 mln units in 2025, up 24.3% YoY versus overall market growth of 4.4%. Huakun Zhenyu led vendor shipments with a 13.7% share. Over 80% of units were general-purpose servers; edge inference demand is a primary driver of unit growth."
-    },
-    {
-      "id": "4937779",
-      "time": "2026-06-16 13:20:55",
-      "tags": [
-        "其他"
-      ],
-      "text": "半導體港股走勢分化，華虹宏力跌5%，中芯國際跌3%；建滔積層板漲6%。"
     }
   ]
 }
