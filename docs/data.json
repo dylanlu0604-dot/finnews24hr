@@ -1,7 +1,43 @@
 {
-  "updated": "2026-06-24 02:26:08",
-  "count": 17260,
+  "updated": "2026-06-24 02:30:13",
+  "count": 17258,
   "items": [
+    {
+      "id": "mkt:019ef5bd-edd4-7dd8-b0e1-b33b588dad91",
+      "time": "2026-06-24 02:28:45",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "OpenAI opens applications for its 2026 DevDay developer conference."
+    },
+    {
+      "id": "4951055",
+      "time": "2026-06-24 02:27:34",
+      "tags": [
+        "其他"
+      ],
+      "text": "【CFA一級考試透過率降至39%】CFA協會週二公佈，5月份39%的考生透過了一級考試，低於2月的45%，也低於去年11月和8月考試的43%。雖然這一透過率低於過去十年40%的平均水平，但仍高於2021年創下的低點。據CFA的資料，5月有超過3.1萬名考生參加一級考試，為2019年以來同級考試規模最大的一次。"
+    },
+    {
+      "id": "mkt:019ef5bb-c8da-7dd8-b0e1-ae532793fe41",
+      "time": "2026-06-24 02:26:24",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "FIFA president says Trump will personally present the World Cup trophy."
+    },
+    {
+      "id": "mkt:019ef5bb-7a59-7dd8-b0e1-a5d6d479d913",
+      "time": "2026-06-24 02:26:04",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Rubio: Iran denies agreeing to IAEA inspections for 'internal reasons'】The New York Times reports U.S. Secretary of State Rubio said Iran, citing domestic political reasons, has denied the Switzerland agreement to allow IAEA inspections. Rubio said Iran committed to inspections and must either honor that commitment—if it does the process will move forward; if it does not, President Trump will have to decide next steps."
+    },
     {
       "id": "te:markets:561263",
       "time": "2026-06-24 02:25:00",
@@ -158122,62 +158158,6 @@
         "Importance 1"
       ],
       "text": "Crypto Updates: Binance Drops by 1.66% — Top crypto losers are Binance (-1.66%), XRP (-1.22%), Bitcoin (-0.66%) and Ether (-0.09%)."
-    },
-    {
-      "id": "4939278",
-      "time": "2026-06-17 02:30:02",
-      "tags": [
-        "市場"
-      ],
-      "text": "上期所原油期貨夜盤收跌3.93%，報508.90元人民幣/桶。滬金夜盤收跌0.06%，滬銀收跌0.07%。"
-    },
-    {
-      "id": "4939277",
-      "time": "2026-06-17 02:29:28",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國參議院共和黨領袖圖恩：住房法案的落地事宜已 “近在咫尺”。"
-    },
-    {
-      "id": "mkt:019ed1b1-ebdf-7dd8-b038-ede62aaa694e",
-      "time": "2026-06-17 02:29:18",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Senate Republican leader Thune said the Senate will hold a procedural vote today on a bipartisan housing bill, but there are still unresolved issues in the measure."
-    },
-    {
-      "id": "mkt:019ed1b1-a859-7dd8-b038-e632443a3bff",
-      "time": "2026-06-17 02:29:01",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "US Economy",
-        "S&P500",
-        "Impact bearish",
-        "DXY",
-        "Impact bullish",
-        "US10Y"
-      ],
-      "text": "Senate Republican leader John Thune said he believes Senate Minority Leader Chuck Schumer and Democrats appear to want another government shutdown."
-    },
-    {
-      "id": "4939276",
-      "time": "2026-06-17 02:28:54",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "【法國央行新行長稱無鷹派或鴿派傾向 決策將以資料為依據】法國央行行長Emmanuel Moulin表示，他在歐洲央行的政策選擇將以資料為依據，並沒有預先傾向加息或降息。Moulin上週首次出席歐洲央行貨幣政策會議，當時決策者一致決定上調借貸成本，以遏制通脹在經濟中蔓延。"
-    },
-    {
-      "id": "4939275",
-      "time": "2026-06-17 02:26:47",
-      "tags": [
-        "其他"
-      ],
-      "text": "南非總統拉馬福薩週二告誡民眾，切勿將本國經濟困境歸咎於移民，他表示不該讓移民成為南非各類社會問題的替罪羊。"
     }
   ]
 }
