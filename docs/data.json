@@ -1,7 +1,41 @@
 {
-  "updated": "2026-06-24 04:05:31",
-  "count": 17287,
+  "updated": "2026-06-24 04:09:31",
+  "count": 17288,
   "items": [
+    {
+      "id": "4951119",
+      "time": "2026-06-24 04:06:05",
+      "tags": [
+        "公司"
+      ],
+      "text": "【聯邦快遞財報超市場預期，預計本年度利潤將實現增長】多位訊息人士稱，聯邦快遞集團最新季度盈利資料好於華爾街一致預期，公司預計全年利潤增長，為其精簡業務的戰略提供利好支撐。聯邦快遞週二釋出公告稱，第四財季調整後每股收益6.31美元。市場一致預期均值為5.97美元。公司表示，2026自然年調整後每股收益區間為16.90–18.10美元，高於2025年預估的15美元。"
+    },
+    {
+      "id": "mkt:019ef616-f1bf-7dd8-b0e2-f7acc18c313f",
+      "time": "2026-06-24 04:05:59",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Wall Street (US)",
+        "S&P500",
+        "Impact bearish",
+        "Dow",
+        "Nasdaq100"
+      ],
+      "text": "U.S. equities closed lower on Tuesday, June 23: the Dow Jones Industrial Average fell 45.87 points, or 0.09%, to 51,666.84; the S&P 500 fell 107.29 points, or 1.44%, to 7,365.50; the Nasdaq Composite fell 579.56 points, or 2.21%, to 25,587.04."
+    },
+    {
+      "id": "te:markets:561266",
+      "time": "2026-06-24 04:05:52",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "FedEx earnings above expectations at 6.31 USD — FedEx (FDX) released earnings per share at 6.31 USD, compared to market expectations of 5.96 USD."
+    },
     {
       "id": "4951118",
       "time": "2026-06-24 04:02:27",
@@ -158416,31 +158450,6 @@
         "市場"
       ],
       "text": "【國際油價16日大幅下跌】截至當天收盤，紐約商品交易所7月交貨的輕質原油期貨價格下跌4.70美元，收於每桶76.05美元，跌幅為5.82%；8月交貨的倫敦布倫特原油期貨價格下跌4.21美元，收於每桶78.96美元，跌幅為5.06%。"
-    },
-    {
-      "id": "4939324",
-      "time": "2026-06-17 04:07:25",
-      "tags": [
-        "公司",
-        "市場",
-        "國際"
-      ],
-      "text": "SpaceX收漲4.77%，報201.68美元，收盤市值2.65萬億美元，超過亞馬遜、成為全球第五大上市公司。"
-    },
-    {
-      "id": "mkt:019ed20a-1148-7dd8-b039-dc76810f4e96",
-      "time": "2026-06-17 04:05:35",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Wall Street (US)",
-        "Dow",
-        "Impact bullish",
-        "S&P500",
-        "Impact bearish",
-        "Nasdaq100"
-      ],
-      "text": "U.S. stocks on Tuesday, June 16: Dow Jones Industrial Average closed up 331.17 points (+0.64%) at 52,002.20; S&P 500 closed down 42.86 points (-0.57%) at 7,511.43; Nasdaq Composite closed down 307.60 points (-1.15%) at 26,376.34."
     }
   ]
 }
