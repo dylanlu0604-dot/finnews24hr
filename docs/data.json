@@ -1,7 +1,89 @@
 {
-  "updated": "2026-06-23 22:15:54",
-  "count": 17327,
+  "updated": "2026-06-23 22:20:17",
+  "count": 17330,
   "items": [
+    {
+      "id": "mkt:019ef4d8-e3e3-7dd8-b0db-f4caff690677",
+      "time": "2026-06-23 22:18:35",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent",
+        "CADUSD"
+      ],
+      "text": "【Macklem welcomes temporary US‑Iran agreement; global energy prices starting to fall】BOC Governor Macklem said the temporary US‑Iran agreement to end hostilities and restore crude flow through the Strait of Hormuz is a welcome development for the global economy, and global energy prices have begun to decline, though many issues remain. Canada’s May headline inflation accelerated to its highest level since 2023, driven by higher gasoline prices. Economists say an immediate pullback in energy prices should ease headline inflation, and with core CPI appearing contained this should give the BOC further comfort."
+    },
+    {
+      "id": "4950858",
+      "time": "2026-06-23 22:18:02",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國地質調查局：萬那杜伊桑格爾以南126公里處發生5.3級地震。"
+    },
+    {
+      "id": "te:economy:561220",
+      "time": "2026-06-23 22:17:13",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "Richmond Fed Manufacturing Index",
+        "Importance 1"
+      ],
+      "text": "US Fifth District Manufacturing Falls — The Federal Reserve's Fifth District manufacturing index decreased by 9 points from the previous month to 4 point in June 2026, down from 13 in May and below market expectations. The result reflected an unchanged level of manufacturing activity in the district, with most key components weakening during the month. Shipments eased to 3 from 16, while new orders declined to 9 from 17, though both indicators remained positive. Meanwhile, raw materials inventories increased to 9 from 5. On the other hand, the employment index slipped into negative territory at -1, reversing from 3 in the previous month. Price pressures strengthened, with the average growth rates of prices paid rising to 6.99% from 5.96%, and prices received increasing to 4.57% from 4.21%. Looking ahead, shipments expectations improved to 38 from 35. However, expectations for new orders and employment softened, falling to 32 from 36 and to 16 from 23, respectively."
+    },
+    {
+      "id": "mkt:019ef4d7-5dd1-7dd8-b0db-e8c7a08ec891",
+      "time": "2026-06-23 22:16:55",
+      "tags": [
+        "MKT News",
+        "EURUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "ECB Vice-President VUJCIC: inf will remain elevated."
+    },
+    {
+      "id": "4950856",
+      "time": "2026-06-23 22:16:50",
+      "tags": [
+        "公司"
+      ],
+      "text": "【多家中小銀行，逆勢上調理財產品業績比較基準】據金融時報，在銀行理財市場整體收益率持續下行的背景下，有地方性中小銀行卻選擇“逆勢而動”，上調部分理財產品的業績比較基準。記者注意到，近日，多地中小銀行釋出公告，小幅上調旗下低風險固收類理財產品的業績比較基準。在業內人士看來，中小銀行逆勢上調理財業績比較基準，核心訴求在於穩定理財規模、穩固客群基本盤。"
+    },
+    {
+      "id": "4950855",
+      "time": "2026-06-23 22:16:28",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行副行長武伊契奇：通脹高企狀態或將持續更長時間。"
+    },
+    {
+      "id": "mkt:019ef4d6-35cc-7dd8-b0db-e6e0f14dc69e",
+      "time": "2026-06-23 22:15:39",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "ECB Vice‑President VUJCIC said inf expectations remain stable over the long term."
+    },
+    {
+      "id": "4950854",
+      "time": "2026-06-23 22:15:15",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行副行長武伊契奇：長期通脹預期仍保持穩定。"
+    },
     {
       "id": "mkt:019ef4d5-2adb-7dd8-b0db-da014bec2e00",
       "time": "2026-06-23 22:14:31",
@@ -158686,53 +158768,6 @@
         "國際"
       ],
       "text": "【美銀：裕信或憑藉德國商業銀行大獲成功】美國銀行的Antonio Reale和Rohan Datta在一份報告中表示，裕信對德國商業銀行的追求有可能帶來盈利的大幅增長，而這一前景似乎被錯誤定價。美國銀行表示，如果該義大利銀行獲得德國商業銀行50%的控制權，它將能夠把該德國銀行的業績併入自己的賬戶。他們估計，如果裕信最終獲得德國商業銀行的完全所有權，到2030年，其調整後淨利潤可能會較去年的101億歐元增至205億歐元。美國銀行將裕信股票的目標價從92歐元上調至100歐元，並稱其為歐盟銀行業中的首選股票。裕信股價上漲4.1%，至77.66歐元。"
-    },
-    {
-      "id": "4938994",
-      "time": "2026-06-16 22:19:29",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "塞爾維亞總統：匈牙利MOL石油公司與俄羅斯天然氣石油工業公司、俄羅斯天然氣工業股份公司，就收購受美國製裁的塞爾維亞石油工業公司51.56%股權的談判，應獲得15天延期。"
-    },
-    {
-      "id": "4938993",
-      "time": "2026-06-16 22:18:52",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：美伊達成旨在結束雙方衝突的框架協議後，美軍計劃從以色列本・古裡安機場撤走約 20% 的空中加油機。美軍目前在該機場部署了 72 架加油機，佔用了機場近一半的停機位。目前尚不清楚這批戰機是會撤離以色列本土，還是轉場至以色列空軍基地。"
-    },
-    {
-      "id": "4938992",
-      "time": "2026-06-16 22:17:54",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗代理國防部長：相比此前同美國、以色列及其盟友爆發的第二場強加戰爭，伊朗在本次衝突中的作戰效率大幅提升。"
-    },
-    {
-      "id": "4938991",
-      "time": "2026-06-16 22:17:39",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗代理國防部長：儘管在第三場強加戰爭期間國防需求持續攀升，但導彈、無人機及戰略武器的生產工作從未中斷。"
-    },
-    {
-      "id": "mkt:019ed0c9-ef36-7dd8-b033-cde95b703175",
-      "time": "2026-06-16 22:15:55",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "EURUSD",
-        "Impact bullish",
-        "WTI",
-        "XAUUSD"
-      ],
-      "text": "【ECB chief economist Lane: inflationary pressures still building; oil unlikely to fall sharply】ECB chief economist Lane said inflationary pressures from the Middle East conflict have not yet fully shown up and the bank must prepare. Despite a US‑Iran deal to reopen the Strait of Hormuz, oil has not returned to pre-crisis paths. Four months of elevated energy prices mean inflation is likely to exceed 3% in the transmission chain, with energy this year and next feeding indirectly into food, goods and services. Investors and economists broadly expect at least another 25bp ECB hike to about 2.5% and for inflation to remain above the 2% target for a period. Even if shipping normalizes, oil supply normalization will take months, so high energy costs are likely to increasingly pass through to consumer prices; oil is unlikely to fall sharply from around $80–81 a barrel."
     }
   ]
 }
