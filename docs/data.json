@@ -1,7 +1,231 @@
 {
-  "updated": "2026-06-23 19:24:41",
-  "count": 17318,
+  "updated": "2026-06-23 19:28:49",
+  "count": 17330,
   "items": [
+    {
+      "id": "mkt:019ef43c-bb99-7dd8-b0d7-69ec12ac3861",
+      "time": "2026-06-23 19:28:01",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Putin said Russian forces are close to capturing Kostiantynivka in Ukraine's Donetsk region."
+    },
+    {
+      "id": "4950518",
+      "time": "2026-06-23 19:27:49",
+      "tags": [
+        "公司"
+      ],
+      "text": "【新鄉化纖：擬定增募資不超13億元用於高品質生物質纖維素長絲及配套工程等】新鄉化纖(000949.SZ)公告稱，公司擬向特定物件發行A股股票，募集資金總額不超過13億元，扣除發行費用後淨額將用於高品質生物質纖維素長絲及配套工程、菌草材料高值化利用研發中心專案及補充流動資金。"
+    },
+    {
+      "id": "4950517",
+      "time": "2026-06-23 19:27:37",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "普京：俄羅斯部隊即將攻佔頓涅茨克地區的康斯坦丁尼夫卡。"
+    },
+    {
+      "id": "mkt:019ef43c-4013-7dd8-b0d7-64fa39d807a8",
+      "time": "2026-06-23 19:27:29",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "WTI"
+      ],
+      "text": "Putin said he cannot negotiate with Ukrainian President ZELENSKIY, citing Ukrainian attacks on civilian targets."
+    },
+    {
+      "id": "4950516",
+      "time": "2026-06-23 19:27:06",
+      "tags": [
+        "國際"
+      ],
+      "text": "普京：由於烏克蘭襲擊民用目標，目前不存在與澤連斯基舉行談判的基礎。"
+    },
+    {
+      "id": "4950515",
+      "time": "2026-06-23 19:26:45",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "【特朗普：伊朗已完全同意接受長期核檢查 這是進一步談判的前提】美國總統特朗普發文稱：儘管伊朗提出了抗議並發表了相反的虛假宣告，加上假新聞媒體不遺餘力地試圖將美國的勝利貶低得微不足道，但伊朗已完全、徹底地同意接受長期（甚至永久！）的最高階別核檢查。這將確保“核誠信”。如果伊朗不同意這一點，就不會有進一步的談判！基於此以及伊朗做出的其他重大讓步，我已同意允許霍爾木茲海峽保持開放，不再實施海上封鎖。然而，所有艦船將繼續原地待命，以便在必要時重新實施封鎖，儘管目前看來，這極不可能發生。美國財政部釋放的資金和/或制裁解除將被置於由美國控制的託管賬戶之下，並用於購買食品和醫療物資，且必須完全從美國採購，包括從我們偉大的美國農民那裡購買玉米、小麥和大豆。這些都是伊朗急需的物資。這是一場人道主義危機，我認為有必要立即施以援手，以免為時過晚。談判進展順利！"
+    },
+    {
+      "id": "mkt:019ef43b-8d8f-7dd8-b0d7-5bbf9c2dd466",
+      "time": "2026-06-23 19:26:43",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "【Trump says Iran agreed to long-term highest-level nuclear inspections; Hormuz blockade lifted, funds to be placed in US-controlled escrow】President Trump said Iran has fully agreed to accept long-term, potentially permanent, highest-level nuclear inspections and warned there would be no further talks if Iran refused. He said he has agreed not to impose a maritime blockade on the Strait of Hormuz and to keep the waterway open, though US vessels will remain on standby to reimpose a blockade if necessary. Any US Treasury disbursements and/or sanctions relief will be placed in a US-controlled escrow account and restricted to purchases of food and medical supplies procured entirely from the United States, including corn, wheat and soybeans. Trump characterized the move as humanitarian and said negotiations are progressing."
+    },
+    {
+      "id": "4950514",
+      "time": "2026-06-23 19:26:30",
+      "tags": [
+        "國際"
+      ],
+      "text": "Argentum AI將在波蘭部署英偉達GB300晶片。"
+    },
+    {
+      "id": "4950513",
+      "time": "2026-06-23 19:26:09",
+      "tags": [
+        "公司"
+      ],
+      "text": "UREVO：UREVO年中促銷活動將為亞馬遜帶來2026年迄今為止最大的優惠。"
+    },
+    {
+      "id": "mkt:019ef43a-e125-7dd8-b0d7-55e1baac1d9e",
+      "time": "2026-06-23 19:25:59",
+      "tags": [
+        "MKT News",
+        "SPCX.O",
+        "Impact bullish"
+      ],
+      "text": "SpaceX (SPCX.O) shares erased earlier losses in premarket trading and turned higher."
+    },
+    {
+      "id": "4950512",
+      "time": "2026-06-23 19:25:49",
+      "tags": [
+        "國際"
+      ],
+      "text": "【阿曼和伊朗將協調霍爾木茲海峽未來航行管理】當地時間23日，阿曼同伊朗就霍爾木茲海峽問題發表聯合宣告，雙方同意透過兩國外交部之間的一個聯合工作組保持對話，以便就霍爾木茲海峽未來航行管理、提供的服務以及相關費用達成共識。（央視新聞）"
+    },
+    {
+      "id": "mkt:019ef43a-abbe-7dd8-b0d7-4bf177d47674",
+      "time": "2026-06-23 19:25:46",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "S&P500",
+        "Impact bullish",
+        "DXY"
+      ],
+      "text": "President Trump said oil prices are crashing and the world is becoming safer."
+    },
+    {
+      "id": "4950511",
+      "time": "2026-06-23 19:25:37",
+      "tags": [
+        "其他"
+      ],
+      "text": "【重新整理世界算力新高度 “靈晟”問鼎全球超算TOP500】2026年6月23日，德國漢堡ISC2026大會（國際超算大會）釋出全球超算Top500榜單：全國產自主研製的“靈晟”超級計算機以2.19EFlops（每秒1018次浮點運算）持續雙精度浮點效能登頂全球超算TOP500，時隔九年，我國超算再次排名全球第一。（央視新聞）"
+    },
+    {
+      "id": "4950510",
+      "time": "2026-06-23 19:25:32",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：昨天有1900萬桶石油從霍爾木茲海峽運出。"
+    },
+    {
+      "id": "4950509",
+      "time": "2026-06-23 19:25:24",
+      "tags": [
+        "國際"
+      ],
+      "text": "普京：烏克蘭打擊俄羅斯民用目標意在在社會製造恐慌。"
+    },
+    {
+      "id": "mkt:019ef43a-4b56-7dd8-b0d7-435b7cea528c",
+      "time": "2026-06-23 19:25:21",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "Brent"
+      ],
+      "text": "Putin said Ukraine’s attacks on Russian civilian targets are aimed at creating social panic."
+    },
+    {
+      "id": "4950508",
+      "time": "2026-06-23 19:25:17",
+      "tags": [
+        "國際"
+      ],
+      "text": "【黎真主黨譴責以軍襲擊平民違反停火協議】黎巴嫩真主黨當地時間6月23日表示，以色列軍隊當天在黎巴嫩南部向平民開槍，造成兩人死亡，多人受傷，並稱該事件違反了雙方之間的停火協議。黎南部民防部門當天稱，以色列軍隊在黎南部奈拜提耶地區向平民開火，造成人員傷亡。以色列方面對此暫無回應。（央視新聞）"
+    },
+    {
+      "id": "mkt:019ef43a-0889-7dd8-b0d7-3bd8375f5307",
+      "time": "2026-06-23 19:25:04",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "U.S. President Trump said Iran urgently needs food and medical supplies."
+    },
+    {
+      "id": "4950507",
+      "time": "2026-06-23 19:25:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "SPACEX股價抹去跌幅，盤前轉為上漲。"
+    },
+    {
+      "id": "mkt:019ef439-db71-7dd8-b0d7-368d88e1fe2e",
+      "time": "2026-06-23 19:24:52",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "【World's largest clean-energy corridor frees 35.8 bln cu m of flood-control capacity】Three Gorges Group said the six-station cascade on the Yangtze — Wudongde, Baihetan, Xiluodu, Xiangjiaba, Three Gorges and Gezhouba — completed its annual drawdown, releasing 35.8 bln cubic metres of flood-control reservoir capacity to secure the Yangtze basin ahead of flood season."
+    },
+    {
+      "id": "mkt:019ef439-d919-7dd8-b0d7-2d141ff56512",
+      "time": "2026-06-23 19:24:52",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "U.S. President Trump said 19 million barrels of oil flowed out of the Strait of Hormuz yesterday."
+    },
+    {
+      "id": "4950506",
+      "time": "2026-06-23 19:24:51",
+      "tags": [
+        "公司"
+      ],
+      "text": "【新鄉化纖：擬定增募資不超13億元用於高品質生物質纖維素長絲等專案】新鄉化纖公告，公司2026年度擬向特定物件發行A股股票募集資金總額不超過13億元，扣除發行費用後募集資金淨額將全部用於高品質生物質纖維素長絲及配套工程、菌草材料高值化利用研發中心專案和補充流動資金等專案。其中，控股股東白鷺集團、新鄉國資集團擬合計認購金額不低於1億元，且在本次發行後兩者合計持有的公司股份比例不低於25.00%。"
+    },
+    {
+      "id": "4950505",
+      "time": "2026-06-23 19:24:46",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：伊朗迫切地需要食品和醫療用品。"
+    },
+    {
+      "id": "4950504",
+      "time": "2026-06-23 19:24:40",
+      "tags": [
+        "其他"
+      ],
+      "text": "Argentum AI與英偉達達成總規模78億美元合作協議。"
+    },
     {
       "id": "mkt:019ef439-0443-7dd8-b0d7-223bb9fe6e9c",
       "time": "2026-06-23 19:23:57",
@@ -10,6 +234,14 @@
         "Important"
       ],
       "text": "Trump said funds unfrozen by the U.S. Treasury and/or sanctions lifted will be deposited into a U.S.-controlled escrow account and used exclusively to buy U.S. food and medical supplies, including corn, wheat and soybeans grown by U.S. farmers."
+    },
+    {
+      "id": "4950503",
+      "time": "2026-06-23 19:23:52",
+      "tags": [
+        "公司"
+      ],
+      "text": "【上海電氣與陝投集團攜手深化能源產業協同與高階裝備合作】據上海電氣訊息，6月23日上午，上海電氣集團黨委副書記、總裁朱兆開與陝西投資集團有限公司（簡稱“陝投集團”）黨委副書記、總經理唐宏軍舉行會談，雙方就深化滬陝兩地能源產業協同、推動高階裝備與能源場景融合落地達成多項共識。"
     },
     {
       "id": "4950502",
@@ -158622,135 +158854,6 @@
         "國際"
       ],
       "text": "澤連斯基：七國集團已討論針對俄羅斯能源、銀行業及軍事領域的制裁。"
-    },
-    {
-      "id": "mkt:019ed030-c42d-7dd8-b02e-03e2f62aa100",
-      "time": "2026-06-16 19:28:37",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "WTI"
-      ],
-      "text": "ZELENSKIY said the G7 discussed imposing additional sanctions on Russia."
-    },
-    {
-      "id": "4938677",
-      "time": "2026-06-16 19:28:20",
-      "tags": [
-        "公司"
-      ],
-      "text": "【行雲科技：深圳行雲簽訂算力服務協議，金額10.14億元】行雲科技公告，公司全資子公司深圳市行雲控股有限責任公司近日與VB客戶簽署《算力服務協議》，深圳行雲向其提供算力服務，服務期限5年，含稅總金額10.14億元。該合同已獲公司第七屆董事會第二十次會議審議透過，無需股東會審議，不涉及關聯交易，亦不構成重大資產重組。合同若能順利履行，預計將對公司經營成果產生一定影響。"
-    },
-    {
-      "id": "mkt:019ed030-4744-7dd8-b02d-f913cef5aa22",
-      "time": "2026-06-16 19:28:05",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "DXY",
-        "Impact bullish",
-        "US10Y",
-        "S&P500",
-        "Impact bearish"
-      ],
-      "text": "【BofA survey: majority of investors expect Fed hawkish hold】BofA's June global fund manager survey showed about 55% expect a \"hawkish hold\"—rates unchanged with new Federal Reserve chair Kevin Warsh signaling higher-for-longer—while 33% expect a \"dovish hold\", i.e. Warsh leaving the door open to future cuts."
-    },
-    {
-      "id": "4938676",
-      "time": "2026-06-16 19:28:04",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "澤連斯基：七國集團討論了對俄羅斯實施更多制裁。"
-    },
-    {
-      "id": "4938675",
-      "time": "2026-06-16 19:27:52",
-      "tags": [
-        "公司"
-      ],
-      "text": "【廣深港高鐵香港段直達內地站點7月1日起增至113個】由香港鐵路有限公司（港鐵）營運的高速鐵路（香港段）7月1日起新增廣州北、義烏、福清西三個站點。至此，香港西九龍站直達內地站點增至113個，相關車票將於6月17日起發售。根據安排，往返西九龍站與張家界西站的G6080/G6079次列車、天津西站開往西九龍站的G903次列車，新增停靠廣州北站；往返西九龍站與上海虹橋站的臥鋪列車G896/G895次，加停義烏站；往返西九龍站與福州站的G924/G923次列車，加停福清西站。（新華社）"
-    },
-    {
-      "id": "te:economy:559341",
-      "time": "2026-06-16 19:27:29",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Macedonia",
-        "Interest Rate",
-        "Importance 1"
-      ],
-      "text": "North Macedonia Lifts Key Policy Rate to 4.25% — The National Bank of North Macedonia raised its key interest rate by 25 bps to 4.25% at its June 2026 meeting, the first hike since September 2023, citing lingering risks from geopolitical tensions. Policymakers said the current stance together with previous adjustments to other instruments including reserve requirements and macroprudential measures will help maintain exchange rate stability and anchor inflation expectations They noted that the annual inflation rate slowed to 4.8% in May from 5.7% in April, but remains elevated, indicating persistent inflationary pressures and a slower return to historical averages. Meanwhile, the central bank said the domestic economy remains resilient despite an uncertain external environment. Real GDP increased by 3.1% in Q1 2026, close to early projections, while available high-frequency indicators for Q2 remain scarce, though April data point to stronger industrial output and softer trade turnover."
-    },
-    {
-      "id": "mkt:019ed02e-f485-7dd8-b02d-f558bf8a8178",
-      "time": "2026-06-16 19:26:38",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "DXY",
-        "WTI"
-      ],
-      "text": "Ukrainian President Zelenskiy said all G7 leaders recognize that Russia intends to target civilian infrastructure."
-    },
-    {
-      "id": "4938674",
-      "time": "2026-06-16 19:26:15",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "澤連斯基稱，七國集團所有領導人都已確認俄羅斯計劃襲擊民用基礎設施。"
-    },
-    {
-      "id": "mkt:019ed02e-425d-7dd8-b02d-ec82a80cc327",
-      "time": "2026-06-16 19:25:52",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Ukrainian President Zelenskiy said 60% of Russians want the war in Ukraine to end."
-    },
-    {
-      "id": "mkt:019ed02e-1171-7dd8-b02d-e513f9051f04",
-      "time": "2026-06-16 19:25:40",
-      "tags": [
-        "MKT News",
-        "DXY",
-        "Impact bullish",
-        "XAUUSD",
-        "WTI"
-      ],
-      "text": "Ukrainian President Zelenskiy said many people around Putin are pushing him to carry out a larger-scale troop mobilization."
-    },
-    {
-      "id": "4938673",
-      "time": "2026-06-16 19:25:34",
-      "tags": [
-        "國際"
-      ],
-      "text": "澤連斯基稱60%的俄羅斯民眾希望這場戰爭停止。"
-    },
-    {
-      "id": "4938672",
-      "time": "2026-06-16 19:25:12",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "烏克蘭總統澤連斯基：我們舉行了一次非常積極的峰會。七國集團所有領導人一致認為，俄羅斯並未贏得這場戰爭，且必須儘快達成協議。普京身邊有大量人員在推動他進行更大規模的軍事動員。"
-    },
-    {
-      "id": "mkt:019ed02d-5011-7dd8-b02d-db32a6a3c721",
-      "time": "2026-06-16 19:24:50",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Zelenskiy said all G7 leaders agreed Russia has not won the war and that an agreement must be reached as soon as possible."
     }
   ]
 }
