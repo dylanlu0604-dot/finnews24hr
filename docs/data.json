@@ -1,7 +1,105 @@
 {
-  "updated": "2026-06-24 00:10:49",
-  "count": 17289,
+  "updated": "2026-06-24 00:14:56",
+  "count": 17287,
   "items": [
+    {
+      "id": "4950988",
+      "time": "2026-06-24 00:14:03",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗總統：感謝巴基斯坦所做的努力與提供的支援。"
+    },
+    {
+      "id": "4950987",
+      "time": "2026-06-24 00:13:23",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗總統：近期一系列事態彰顯了伊巴兩國的雙邊關係。"
+    },
+    {
+      "id": "mkt:019ef541-e5bd-7dd8-b0df-28bee5ac5dcc",
+      "time": "2026-06-24 00:13:16",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Emerging Markets"
+      ],
+      "text": "Fitch says Chile's medium-term fiscal targets face growth and implementation challenges."
+    },
+    {
+      "id": "mkt:019ef541-bb76-7dd8-b0df-20bf93d67f6a",
+      "time": "2026-06-24 00:13:06",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "S&P/TSX Composite Index turned higher, rebounding from an earlier 12-day low."
+    },
+    {
+      "id": "4950985",
+      "time": "2026-06-24 00:13:00",
+      "tags": [
+        "其他"
+      ],
+      "text": "SpaceX 首筆高等級債券認購峰值需求達 890 億美元。"
+    },
+    {
+      "id": "te:markets:561255",
+      "time": "2026-06-24 00:12:32",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Italy",
+        "Stock Market",
+        "Importance 0"
+      ],
+      "text": "FTSE MIB Closes Sharply Lower — The FTSE MIB declined 1.5% to close at 52,024 on Tuesday, as a global sell-off in technology stocks weighed on investor sentiment. Semiconductor firm STMicroelectronics led the decline, plunging near 8% amid concerns over elevated valuations in artificial intelligence-related companies and renewed market volatility. The automotive sector also weakened, with losses in Ferrari (-1.5%) and Stellantis (-6.8%). Banking and insurance stocks contributed to the market's decline, led by losses in Intesa Sanpaolo (-1.5%), UniCredit (-1.5%), Assicurazioni Generali (-0.8%), BPER Banca (-0.7%) and BMPS (-0.6%). Elsewhere, Prysmian declined 4.1%. Utilities were relatively resilient, with Enel and Terna advancing on the back of lower oil prices, although Snam ended the session in negative territory."
+    },
+    {
+      "id": "4950984",
+      "time": "2026-06-24 00:12:16",
+      "tags": [
+        "公司"
+      ],
+      "text": "市場訊息：EG 集團已秘密遞交申請，計劃赴美進行規模 10 億美元的首次公開募股。"
+    },
+    {
+      "id": "te:markets:561254",
+      "time": "2026-06-24 00:12:10",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Italy",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The FTSE MIB Index Closes 1.46% Lower — The FTSE MIB Index dropped 772 points or 1.46 percent on Tuesday to close at 52024 points. Losses were led by STMicroelectronics (-8.12%), Stellantis N.V. (-6.95%) and Prysmian (-4.28%)."
+    },
+    {
+      "id": "te:markets:561253",
+      "time": "2026-06-24 00:11:10",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Germany",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The DAX Index Closes 0.98% Lower — The DAX Index decreased 246 points or 0.98 percent on Tuesday to close at 24894 points. The decline was led by Infineon (-5.86%), Siemens Energy (-3.93%) and Vonovia (-3.21%). On the upside, the strongest performers were SAP (2.13%), Airbus (1.97%) and Qiagen NV (1.51%)."
+    },
+    {
+      "id": "te:markets:561251",
+      "time": "2026-06-24 00:10:10",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "France",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The CAC 40 Index Closes 0.71% Lower — The CAC 40 Index fell 59 points or 0.71 percent on Tuesday to close at 8341 points. Leading the losses are STMicroelectronics (-9.11%), Stellantis NV (-6.43%) and Legrand (-4.15%). Top gainers were Eurofins Scientific SE (2.77%), Dassault Systemes (2.35%) and Airbus (1.97%)."
+    },
     {
       "id": "4950983",
       "time": "2026-06-24 00:09:58",
@@ -158294,130 +158392,6 @@
         "MKT News"
       ],
       "text": "The Israeli Defense Forces said its air force intercepted rockets launched from Lebanon."
-    },
-    {
-      "id": "mkt:019ed136-c534-7dd8-b036-b08600d8378a",
-      "time": "2026-06-17 00:14:47",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Wall Street (US)",
-        "Dow",
-        "Impact bullish",
-        "S&P500",
-        "Impact bearish",
-        "Nasdaq100"
-      ],
-      "text": "Dow Jones Industrial Average extends gains as intraday advance widens to 1.0%; S&P 500 down 0.08%, Nasdaq down 0.38%."
-    },
-    {
-      "id": "4939171",
-      "time": "2026-06-17 00:14:19",
-      "tags": [
-        "其他"
-      ],
-      "text": "Coinbase Global：已知部分使用者在轉賬和接收Axelar網路資產時出現延遲；買入、賣出以及法幣提款/存款業務未受影響。"
-    },
-    {
-      "id": "4939170",
-      "time": "2026-06-17 00:14:00",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "美國股市延續漲勢，道瓊斯指數上漲1.00%。"
-    },
-    {
-      "id": "mkt:019ed135-630e-7dd8-b036-ad5b6a179d69",
-      "time": "2026-06-17 00:13:17",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "DXY"
-      ],
-      "text": "German Chancellor Merz said the G7 agreed pressure on Russia must be stepped up."
-    },
-    {
-      "id": "mkt:019ed135-3191-7dd8-b036-a490b20a733c",
-      "time": "2026-06-17 00:13:04",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution",
-        "Market Regions",
-        "Europe & UK"
-      ],
-      "text": "OpenAI developers said this week more CODEX features are rolling out across Europe. CODEX users in the European Economic Area, the UK and Switzerland are being given computer-control capabilities, a CODEX Chrome extension, personalized memory and Chronicle."
-    },
-    {
-      "id": "4939169",
-      "time": "2026-06-17 00:12:34",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "德國總理默茨：七國集團達成共識，必須加大對俄羅斯施壓力度。"
-    },
-    {
-      "id": "te:markets:559417",
-      "time": "2026-06-17 00:12:13",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Italy",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The FTSE MIB Index Closes 1.15% Higher — The FTSE MIB Index gained 597 points or 1.15 percent on Tuesday to close at 52433 points. Gains were led by UniCredit (4.47%), Intesa Sanpaolo (2.72%) and Azimut Holding (2.04%)."
-    },
-    {
-      "id": "4939168",
-      "time": "2026-06-17 00:12:08",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國能源資訊署(EIA)稱，2026年前五個月，加州獨立系統運營商(CAISO)區域太陽能發電量超過天然氣。"
-    },
-    {
-      "id": "4939167",
-      "time": "2026-06-17 00:11:47",
-      "tags": [
-        "其他"
-      ],
-      "text": "意法半導體：完成15億美元兩檔可轉換債券發行定價。"
-    },
-    {
-      "id": "mkt:019ed133-cc9e-7dd8-b036-9f8c2d40866e",
-      "time": "2026-06-17 00:11:33",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact mixed"
-      ],
-      "text": "German Chancellor Merz said he told U.S. President Trump that Germany is willing to contribute to a mission in the Strait of Hormuz."
-    },
-    {
-      "id": "te:markets:559416",
-      "time": "2026-06-17 00:11:13",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Germany",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The DAX Index Closes 0.07% Higher — The DAX Index went up by 16 points or 0.07 percent on Tuesday to close at 24910 points. The rise was led by Gea Group (3.61%), Qiagen NV (1.53%) and Munich RE (1.36%). On the downside, the weakerst performers were Infineon (-1.81%), RWE (-1.67%) and Brenntag (-1.64%)."
-    },
-    {
-      "id": "4939166",
-      "time": "2026-06-17 00:11:01",
-      "tags": [
-        "國際"
-      ],
-      "text": "德國總理默茨：已告知特朗普，德國願意參與霍爾木茲海峽護航行動。"
     }
   ]
 }
