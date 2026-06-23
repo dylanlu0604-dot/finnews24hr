@@ -1,7 +1,91 @@
 {
-  "updated": "2026-06-23 23:40:51",
-  "count": 17310,
+  "updated": "2026-06-23 23:45:03",
+  "count": 17312,
   "items": [
+    {
+      "id": "4950961",
+      "time": "2026-06-23 23:44:08",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "市場訊息：黑石集團總裁兼營運長：公司計劃未來 3 至 5 年在日本人工智慧資料中心領域投資 300 億美元。"
+    },
+    {
+      "id": "mkt:019ef527-36ee-7dd8-b0de-7c7cfc2af897",
+      "time": "2026-06-23 23:44:08",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Pakistan's prime minister says double standards on ballistic missiles are unacceptable."
+    },
+    {
+      "id": "mkt:019ef526-ec72-7dd8-b0de-729833df15c9",
+      "time": "2026-06-23 23:43:49",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Pakistan's prime minister said Iran has no intention of discussing the matter."
+    },
+    {
+      "id": "4950960",
+      "time": "2026-06-23 23:43:48",
+      "tags": [
+        "其他"
+      ],
+      "text": "巴基斯坦總理謝里夫： 彈道導彈問題不能實行雙重標準。"
+    },
+    {
+      "id": "4950959",
+      "time": "2026-06-23 23:42:55",
+      "tags": [
+        "國際"
+      ],
+      "text": "巴基斯坦總理謝里夫：巴基斯坦與伊朗將攜手合作，實現互利共贏。"
+    },
+    {
+      "id": "mkt:019ef525-db1f-7dd8-b0de-6f81614850d5",
+      "time": "2026-06-23 23:42:39",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Pakistan's prime minister said the memorandum of understanding does not mention ballistic missiles."
+    },
+    {
+      "id": "4950958",
+      "time": "2026-06-23 23:42:28",
+      "tags": [
+        "其他",
+        "焦點"
+      ],
+      "text": "巴基斯坦總理謝里夫： 諒解備忘錄並未提及彈道導彈， 伊朗方面無意展開相關磋商。"
+    },
+    {
+      "id": "mkt:019ef524-f3ad-7dd8-b0de-62e455b5de51",
+      "time": "2026-06-23 23:41:40",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Pakistan's prime minister says Pakistan and Iran will cooperate to achieve mutual benefits."
+    },
+    {
+      "id": "mkt:019ef523-df8a-7dd8-b0de-5feea5e08f9e",
+      "time": "2026-06-23 23:40:29",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Italy's energy minister said he does not believe tensions with the United States will jeopardize Italy's liquefied natural gas (LNG) supplies."
+    },
+    {
+      "id": "4950957",
+      "time": "2026-06-23 23:40:07",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "【印度總理莫迪會見王毅等金磚國家安全事務高階代表】印度總理莫迪23日在新德里總理府會見出席金磚國家安全事務高階代表會議的各國代表時，同中共中央政治局委員、中央外辦主任王毅進行友好交流。（新華社）"
+    },
     {
       "id": "mkt:019ef523-1fb2-7dd8-b0de-55a00bf1ee5a",
       "time": "2026-06-23 23:39:40",
@@ -158604,76 +158688,6 @@
         "USDJPY"
       ],
       "text": "The Russian ruble's real effective exchange rate rose 4.8% MoM in May."
-    },
-    {
-      "id": "mkt:019ed11b-75ae-7dd8-b036-03c91684b75c",
-      "time": "2026-06-16 23:44:58",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "The Trump Trade"
-      ],
-      "text": "Politico, citing two people familiar with the matter, reports organizers of the 2028 Los Angeles Olympics are coordinating with the Trump administration to hold a tournament at Trump National Golf Club Los Angeles on the eve of the Games. Organizers view maintaining good relations with the White House as crucial to delivering the event."
-    },
-    {
-      "id": "4939123",
-      "time": "2026-06-16 23:42:26",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "美國交易所運營商股價下跌。"
-    },
-    {
-      "id": "4939122",
-      "time": "2026-06-16 23:42:21",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "芝加哥期權交易所全球市場公司股價下跌7.1%，芝加哥商業交易所集團股價下跌2.8%。"
-    },
-    {
-      "id": "4939121",
-      "time": "2026-06-16 23:42:16",
-      "tags": [
-        "市場"
-      ],
-      "text": "納斯達克指數下跌1.8%，邁阿密國際控股股價下跌8.4%。"
-    },
-    {
-      "id": "4939120",
-      "time": "2026-06-16 23:42:06",
-      "tags": [
-        "其他"
-      ],
-      "text": "L3哈里斯股價漲近2%。"
-    },
-    {
-      "id": "mkt:019ed118-aa96-7dd8-b035-fa47886b3e88",
-      "time": "2026-06-16 23:41:55",
-      "tags": [
-        "MKT News",
-        "LHX.O",
-        "Impact bullish"
-      ],
-      "text": "L3Harris shares rose 1.9%."
-    },
-    {
-      "id": "mkt:019ed118-8df4-7dd8-b035-f5ed3d37cd2d",
-      "time": "2026-06-16 23:41:47",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Axyv, a unit of L3Harris, has tapped JP Morgan and Morgan Stanley as lead underwriters for its IPO, sources said."
-    },
-    {
-      "id": "4939119",
-      "time": "2026-06-16 23:41:01",
-      "tags": [
-        "其他"
-      ],
-      "text": "L3哈里斯導彈武器部門接洽多家銀行，計劃最高融資20億美元進行IPO。"
     }
   ]
 }
