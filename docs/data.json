@@ -1,7 +1,19 @@
 {
-  "updated": "2026-06-24 06:58:22",
-  "count": 17364,
+  "updated": "2026-06-24 07:07:14",
+  "count": 17356,
   "items": [
+    {
+      "id": "te:economy:561281",
+      "time": "2026-06-24 07:01:18",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "API Crude Oil Stock Change",
+        "Importance 1"
+      ],
+      "text": "US Crude Stocks Extend Decline — US crude oil inventories fell by 765,000 barrels in the week ending June 19, following a sharp 8.33 million-barrel decline in the previous week. According to American Petroleum Institute data, commercial crude inventories excluding the SPR have dropped by 53 million barrels over the past ten weeks. Still, total US crude inventories are down by only 2.1 million barrels so far this year, as ongoing transfers from the SPR have helped offset steeper commercial draws. Commercial stockpiles have been supported by a steady release of barrels from the SPR into the market, pushing reserve holdings to their lowest level in more than four decades. In the latest week, another 9.1 million barrels were withdrawn from the SPR, bringing total reserves to 331.2 million barrels, or 394 million barrels below maximum capacity. Meanwhile, US crude production rose to 13.806 million barrels per day in the week ending June 12, up slightly from 13.799 million barrels per day in the prior week."
+    },
     {
       "id": "4951230",
       "time": "2026-06-24 06:57:53",
@@ -159004,104 +159016,6 @@
         "其他"
       ],
       "text": "【2025年度個稅彙算6月30日結束】2025年度個稅綜合所得彙算辦理將於6月30日結束。國家稅務總局釋出的最新資料顯示，截至5月底，已有超1.6億人完成個稅彙算申報，超過1.1億人辦理了退稅，退稅金額也明顯增大，退稅規模同比增加超過17%。稅務部門提示，在申請退稅過程中，需要重點關注的是“稅務稽核不透過”和“國庫退庫失敗”兩種情況。（央視）"
-    },
-    {
-      "id": "4939381",
-      "time": "2026-06-17 07:06:28",
-      "tags": [
-        "宏觀",
-        "公司",
-        "資料",
-        "央行",
-        "國際"
-      ],
-      "text": "【日本製造業信心連續第二個月上升，受晶片需求帶動】路透短觀調查顯示，受半導體需求持續支撐化學和機械製造商的提振，日本6月製造業信心連續第二個月改善。這項月度調查是日本央行備受關注的季度短觀企業景氣調查的先行指標。調查顯示，製造業信心指數從5月的正8，升至6月的正13。受強勁晶片需求帶動的製造商引領行業信心提升，其中化學工業信心指數從正6升至正20。\"儘管地緣政治局勢緊張，但需求依然強勁，尤其是半導體相關產業，\"一家化學公司的經理表示。一些電子和機械公司也指出晶片需求的成長。\"訂單激增，主要受半導體市場需求的推動，\"一家電子公司的經理表示。這項調查於6月3日至12日進行，490家公司受訪，共收到215家公司的回覆。指數的計算方法是用樂觀受訪者的百分比減去悲觀受訪者的百分比，正值表示樂觀者多於悲觀者。"
-    },
-    {
-      "id": "mkt:019ed2af-3ba0-7dd8-b03b-17dfa290b252",
-      "time": "2026-06-17 07:05:59",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Amazon",
-        "Microsoft",
-        "Market Themes",
-        "Magnificent 7"
-      ],
-      "text": "【CNBC’s Jim Cramer: Investors are buying Elon Musk, not SpaceX’s earnings】CNBC commentator Jim Cramer said investors are piling into SpaceX because they are betting on Elon Musk’s ability to build disruptive companies rather than the firm’s current profitability. After last Friday’s IPO SpaceX quickly became one of the world’s most valuable companies; the stock rose about 5% on Tuesday and its market cap topped several tech giants including Amazon and briefly exceeded Microsoft. The rally has intensified questions over the reasonableness of an approximately $2.5 trillion valuation. Cramer warned that traditional valuation metrics may miss what buyers are paying for, saying the company could incur losses for years and that such a high valuation may be unjustified; he added the stock’s appeal extends beyond any single forecast, despite Musk’s projection of up to $1 trillion in annual revenue by 2030. \"Buying SpaceX is buying Elon Musk,\" Cramer said."
-    },
-    {
-      "id": "4939380",
-      "time": "2026-06-17 07:05:45",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【G7討論了合作伙伴訪問美國先進AI模型的話題】據媒體援引三位未透露姓名外交訊息人士報道，七國集團(G7)領導人討論了一項計劃，該計劃將允許部分受信任的合作伙伴訪問來自Anthropic等美國公司的先進人工智慧AI模型。 多位國家代表與包括商務部長霍華德·盧特尼克在內的美國代表討論了擴大訪問先進AI模型的問題。一位白宮官員在宣告中表示，總統團隊與盟友保持著暢通的溝通渠道，並將繼續致力於解決Anthropic模型的國家安全關切。"
-    },
-    {
-      "id": "4939379",
-      "time": "2026-06-17 07:04:07",
-      "tags": [
-        "其他"
-      ],
-      "text": "今年1至5月，中國進出口銀行新發放外貿領域貸款4900億元，其中近40%投向穩外貿主體和穩外貿產業鏈領域。"
-    },
-    {
-      "id": "4939377",
-      "time": "2026-06-17 07:00:42",
-      "tags": [
-        "國際"
-      ],
-      "text": "日本6月路透短觀製造業景氣判斷指數 13，前值8。\n日本6月路透短觀非製造業景氣判斷指數 32，前值29。"
-    },
-    {
-      "id": "mkt:019ed2a9-e406-7dd8-b03b-0b455ca17fb8",
-      "time": "2026-06-17 07:00:09",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC",
-        "USDJPY",
-        "Impact bearish",
-        "Nikkei 225",
-        "Impact bullish"
-      ],
-      "text": "Japan Jun Refinitiv Tankan manufacturing sentiment index rose to 13 from 8 previously."
-    },
-    {
-      "id": "mkt:019ed2a9-e38b-7dd8-b03b-05d1b5349a6a",
-      "time": "2026-06-17 07:00:09",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC",
-        "USDJPY",
-        "Impact bearish",
-        "Nikkei 225",
-        "Impact bullish"
-      ],
-      "text": "Japan June Refinitiv Tankan non-manufacturing business conditions index 32, up from 29 in May."
-    },
-    {
-      "id": "mkt:019ed2a9-bf8e-7dd8-b03a-feb64d4d4f74",
-      "time": "2026-06-17 07:00:00",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "Japan | Reuters-Tankan Non-manufacturing Index (Jun) | actual 32 | previous 29"
-    },
-    {
-      "id": "mkt:019ed2a9-bf8c-7dd8-b03a-f53977e8b699",
-      "time": "2026-06-17 07:00:00",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "Japan | Reuters-Tankan Manufacturing Index (Jun) | actual 13 | previous 8"
     }
   ]
 }
