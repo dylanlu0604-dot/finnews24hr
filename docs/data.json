@@ -1,7 +1,104 @@
 {
-  "updated": "2026-06-24 07:30:35",
-  "count": 17351,
+  "updated": "2026-06-24 07:34:28",
+  "count": 17356,
   "items": [
+    {
+      "id": "4951266",
+      "time": "2026-06-24 07:33:52",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【年內重要股東增持超350億元 77家公司打出“增持+回購”組合拳】2026年以來，A股上市公司股東增持熱情持續高漲。在市場持續震盪背景下，上市公司重要股東密集增持，以“真金白銀”向市場傳遞信心。據證券時報·資料寶統計，以變動截止日統計，截至6月23日，今年以來454家A股公司重要股東增持近30億股（僅統計增持方向），按照區間交易均價計算，合計增持金額超350億元。上市公司越來越多地打出“增持+回購”組合拳，透過“關鍵少數”增持與股份回購雙管齊下，合力維護股價穩定、提振市場信心。統計顯示，上述454家公司中，今年以來已實施回購及重要股東增持的共有77家，數量約佔增持公司總數的六分之一，其中興發集團、愷英網路等公司重要股東增持、已回購金額均在1億元以上。"
+    },
+    {
+      "id": "mkt:019ef6d4-5b16-7dd8-b0e4-d4341a4fc988",
+      "time": "2026-06-24 07:32:52",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Emerging Markets"
+      ],
+      "text": "【MSCI keeps South Korea as emerging market in 2026 review】On June 23, MSCI released its 2026 market classification review and declined to upgrade South Korea to developed market status. MSCI said Korean regulators have announced a series of reforms but key market-access issues remain unresolved, so the market will stay classified as emerging. MSCI reiterated its classification framework is based on the actual market accessibility and investment experience of international institutional investors and that classifications are reassessed as conditions change."
+    },
+    {
+      "id": "4951265",
+      "time": "2026-06-24 07:32:19",
+      "tags": [
+        "市場"
+      ],
+      "text": "日經指數期貨在新交所開盤下跌475點，報69325點。"
+    },
+    {
+      "id": "te:markets:561284",
+      "time": "2026-06-24 07:31:58",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Brent Slips as Hormuz Traffic Resumes — Brent fell below $77 per barrel on Wednesday, moving closer to levels seen before the Middle East conflict began as a growing number of tankers resumed transit through the Strait of Hormuz amid advances in US-Iran peace negotiations. The International Maritime Organization said it had received security assurances that could enable hundreds of vessels to leave the Persian Gulf via Hormuz, as efforts continue to evacuate thousands of seafarers. The IEA also reported that UAE oil exports in early June rebounded to nearly 85% of pre-conflict levels, supported by the use of pipelines, storage facilities, and alternative shipping routes. Adding to supply expectations, a new 60-day US waiver allows global buyers, including US refiners, to purchase Iranian crude and refined products. Meanwhile, Iran and Oman announced the start of discussions on a joint framework for managing Hormuz transit, including fee structures, raising concerns that Tehran could impose passage charges."
+    },
+    {
+      "id": "4951264",
+      "time": "2026-06-24 07:31:53",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【熱浪使電網承壓，英國發布電力供應預警】受高溫酷暑衝擊能源系統，英國電網運營機構罕見釋出夏季電力供應預警，預警生效時間為週三晚間。英國電網運營方預計電力備用缺口將達190萬千瓦，已要求各發電廠全面釋放富餘發電產能。當電網所需安全緩衝容量不足時，英國便會發布此類預警通知。本輪席捲歐洲大陸的熱浪已對多國電網造成嚴重衝擊。歐洲各地用電高峰電價大幅飆升；作為本國電力支柱，法國多座核電站被迫削減發電量。英國國家能源系統運營商（NESO）於週二晚間釋出公告說明：電網預警屬於常規電力保供調控手段，不代表即將發生大面積停電。電網運營機構發言人在郵件宣告中表示：“電力系統備用容量將進入緊張區間，成因是英國及歐洲大陸極端高溫疊加風力發電出力不足。”"
+    },
+    {
+      "id": "mkt:019ef6d3-2cfa-7dd8-b0e4-cd9b1ab543b2",
+      "time": "2026-06-24 07:31:35",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【N. Korea commissions new multipurpose destroyer Choe Hyon】KCNA reported on the 24th that the new multipurpose destroyer Choe Hyon was commissioned into the Korean People's Navy at a ceremony in Nampo on the 23rd. The ship completed a 14-month operational capability assessment and has entered service. Kim Jong Un attended and said the navy’s status, missions and operating areas are changing and that it is developing into a force with strategic capabilities."
+    },
+    {
+      "id": "te:markets:561283",
+      "time": "2026-06-24 07:31:04",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 2"
+      ],
+      "text": "Oil Slips as Hormuz Traffic Resumes — Crude oil fell below $73 per barrel on Wednesday, moving closer to levels seen before the Middle East conflict began as a growing number of tankers resumed transit through the Strait of Hormuz amid advances in US-Iran peace negotiations. The International Maritime Organization said it had received security assurances that could enable hundreds of vessels to leave the Persian Gulf via Hormuz, as efforts continue to evacuate thousands of seafarers. The IEA also reported that UAE oil exports in early June rebounded to nearly 85% of pre-conflict levels, supported by the use of pipelines, storage facilities, and alternative shipping routes. Adding to supply expectations, a new 60-day US waiver allows global buyers, including US refiners, to purchase Iranian crude and refined products. Meanwhile, Iran and Oman announced the start of discussions on a joint framework for managing Hormuz transit, including fee structures, raising concerns that Tehran could impose passage charges."
+    },
+    {
+      "id": "4951263",
+      "time": "2026-06-24 07:30:53",
+      "tags": [
+        "其他"
+      ],
+      "text": "【英偉達要求PCB廠商降價10%？ PCB廠商、市場人士稱傳聞存在明顯誇大和誤讀】6月23日，PCB板塊大跌之際，市場圍繞產業鏈出現多重討論。一方面，市場流傳“英偉達要求PCB廠商降價10%”“勝宏科技擴產拖累Rubin平臺出貨”等訊息。對此，記者向PCB廠商、市場人士等進行了求證。多位受訪者表示，上述傳聞存在明顯誇大和誤讀，其中“勝宏科技導致Rubin延期”的說法缺乏產業邏輯支撐。另一方面，外資行傑富瑞近日釋出研報稱，原計劃於2027年匯入的Kyber背板PCB方案或推遲至2028年落地，引發市場對AI PCB景氣度的討論。（上證報）"
+    },
+    {
+      "id": "4951262",
+      "time": "2026-06-24 07:30:40",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【MSCI將印尼股市評估推遲至11月進行】MSCI公司再次決定推遲對印尼股票的評估，稱需要更多時間來觀察最近宣佈的透明度改革是否有效。"
+    },
+    {
+      "id": "mkt:019ef6d2-35b3-7dd8-b0e4-c32fdcee5bb8",
+      "time": "2026-06-24 07:30:31",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "Magnificent 7",
+        "NVDA.O"
+      ],
+      "text": "【NVIDIA asked PCB makers for 10% cut? Suppliers, market sources say reports exaggerated】June 23 — As PCB stocks plunged, market chatter that NVIDIA had demanded a 10% price cut from PCB suppliers and that Shenghong Technology’s capacity expansion delayed Rubin platform shipments circulated. Multiple PCB manufacturers and market sources told reporters these claims are materially exaggerated and misread; the assertion that Shenghong caused Rubin delays lacks industry logic. Separately, foreign bank JEFFERIES said the Kyber backplane PCB rollout originally planned for 2027 may slip to 2028, reviving debate over the timing of AI-related PCB demand."
+    },
     {
       "id": "mkt:019ef6d1-ac16-7dd8-b0e4-bbaa2b8ca298",
       "time": "2026-06-24 07:29:56",
@@ -158904,57 +159001,6 @@
         "公司"
       ],
       "text": "【燃氣輪機走俏上市公司訂單飽滿】受能源結構轉型、AI資料中心建設提速等因素推動，全球燃氣輪機需求持續旺盛，行業景氣度與關注度同步升溫。有受訪專家對記者表示，當前燃機行業增長邏輯清晰、需求根基穩固，高景氣態勢有望延續。旺盛的市場需求不僅為相關上市公司帶來充足訂單，也為企業業績爆發創造了有利條件。"
-    },
-    {
-      "id": "mkt:019ed2c8-c550-7dd8-b03b-413c1076b221",
-      "time": "2026-06-17 07:33:53",
-      "tags": [
-        "MKT News",
-        "Brent",
-        "Impact bullish",
-        "WTI"
-      ],
-      "text": "【G7 to tighten sanctions on Russia's oil and gas sector】G7 said it will increase deliveries of air‑defence systems, associated equipment, interceptors and long‑range strike capabilities to Ukraine and is prepared to consider licensing to expand Ukrainian military production. The group pledged to intensify pressure on the Russian economy and to strengthen sanctions, including measures targeting the oil and gas sector. The statement said now is an appropriate time for further steps, citing an agreement by Trump to support reopening the Strait of Hormuz."
-    },
-    {
-      "id": "4939420",
-      "time": "2026-06-17 07:31:30",
-      "tags": [
-        "其他"
-      ],
-      "text": "【高息大額存單日漸稀缺 存單加價倒賣暗流湧動】據中證報，存款利率持續下行，高息大額存單日漸稀缺，一場圍繞存單轉讓的私下加價交易在社交平臺上悄然升溫。一邊是轉出方試圖繞開官方平臺以加價方式尋求更高回報；另一邊是受讓方願意接受溢價，只為搶到心儀利率的存單。"
-    },
-    {
-      "id": "4939419",
-      "time": "2026-06-17 07:31:24",
-      "tags": [
-        "其他"
-      ],
-      "text": "【厄瓜多10省3市進入緊急狀態】厄瓜多總統丹尼爾·諾沃亞16日簽署政令，宣佈為應對近期犯罪暴力事件加劇引發的“嚴重內部動盪”，包括首都基多所在省份在內的10省3市進入為期60天的緊急狀態。政令說，6月初以來，由於全國範圍暴力事件、武裝襲擊及有組織犯罪活動顯著增加，謀殺、綁架勒索、搶劫和毒品販運等犯罪活動持續發生，造成社會恐慌，影響經濟活動正常開展，因此決定在多地實施緊急狀態。其中包括基多所在的皮欽查省、瓜亞斯省、馬納維省等10個省，以及科託帕希省拉馬納市等3個市。"
-    },
-    {
-      "id": "4939418",
-      "time": "2026-06-17 07:31:05",
-      "tags": [
-        "公司"
-      ],
-      "text": "【OpenAI2026年前三個月燒錢37億美元】OpenAI向股東披露的檔案顯示，公司一季度現金消耗達37億美元，超過其57億美元營收的半數。現金消耗與營收規模均同比增長兩倍，這表明即便人工智慧市場需求旺盛，依靠AI業務實現盈利依舊困難重重。本季度末，公司持有現金及有價證券超730億美元，去年12月末該數值僅為400億美元，這一變化源於公司三月底完成的鉅額融資。若後續現金消耗規模維持一季度水平，OpenAI短期內無需新一輪融資，或將緩解其倉促推進上市的壓力。不過，現金消耗金額可能每季度出現波動。據報道，該公司此前預測今年現金消耗250億美元，明年消耗570億美元。"
-    },
-    {
-      "id": "mkt:019ed2c5-c473-7dd8-b03b-3ad4ef05ef05",
-      "time": "2026-06-17 07:30:36",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK",
-        "XAUUSD",
-        "Impact bullish",
-        "Brent",
-        "Impact bearish",
-        "DXY",
-        "Impact mixed"
-      ],
-      "text": "【G7 reiterates Iran must not obtain nuclear weapons】G7 said it supports and is willing to help implement the US–Iran agreement and reaffirmed freedom of navigation and duty-free passage as pillars of international trade. It endorsed a France- and UK-led defensive initiative to protect merchant shipping, reassure shipping firms and assist clearance of sea mines to restore traffic through the Strait of Hormuz. The group called for a strong, comprehensive diplomatic follow-up to the memorandum of understanding reached by President Trump, saying negotiations must address Iran’s regional threats and ensure it never obtains nuclear weapons; talks should include active involvement from the International Atomic Energy Agency (IAEA) and other regional and international partners. G7 committed to accelerate diversification of energy supply routes and increase strategic stocks to cut global reliance on the Strait of Hormuz, and welcomed Canada’s pledge to add significant export capacity to global markets in coming years."
     }
   ]
 }
