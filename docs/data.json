@@ -1,7 +1,145 @@
 {
-  "updated": "2026-06-23 10:15:30",
-  "count": 17270,
+  "updated": "2026-06-23 10:19:35",
+  "count": 17276,
   "items": [
+    {
+      "id": "mkt:019ef246-0725-7dd8-b0ca-316d01df6985",
+      "time": "2026-06-23 10:18:56",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "KIHARA said he was aware of Finance Minister Satsuki Katayama's meeting with US Treasury Secretary BESSENT but declined to comment further."
+    },
+    {
+      "id": "4949336",
+      "time": "2026-06-23 10:18:32",
+      "tags": [
+        "市場"
+      ],
+      "text": "【半導體板塊短線拉昇，國民技術、康希通訊漲超10%】半導體板塊短線拉昇，國民技術、康希通訊漲超10%，新潔能、納芯微、盛景微、芯聯整合、成都華微等跟漲。"
+    },
+    {
+      "id": "4949335",
+      "time": "2026-06-23 10:18:28",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【玻璃基板概念震盪回升 彩虹股份、五方光電雙雙漲停】玻璃基板概念日內震盪回升，彩虹股份、五方光電漲停，凱盛科技、隆利科技、銳科鐳射、藍思科技跟漲。"
+    },
+    {
+      "id": "4949334",
+      "time": "2026-06-23 10:18:14",
+      "tags": [
+        "市場"
+      ],
+      "text": "【銀行股集體上攻，交行、農行、郵儲、中行漲超2%】A股市場銀行股集體上漲，其中，中信銀行、交通銀行、紫金銀行、農業銀行、西安銀行、重慶銀行、無錫銀行、渝農商行、郵儲銀行、中國銀行漲超2%，蘭州銀行、工商銀行漲近2%。"
+    },
+    {
+      "id": "mkt:019ef245-62f1-7dd8-b0ca-2d74e3c7fc45",
+      "time": "2026-06-23 10:18:13",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "The U.S. Embassy in the Philippines said the U.S. government has transferred four Ocean Aero \"Haishen\" autonomous surface vessels to the Philippine military in a transaction valued at $13m."
+    },
+    {
+      "id": "mkt:019ef244-3583-7dd8-b0ca-21a7dd03f780",
+      "time": "2026-06-23 10:16:56",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bullish"
+      ],
+      "text": "【South Korea's 2025 tourism deficit with Japan hits record high】Bank of Korea data show South Korea's 2025 tourism deficit with Japan widened to US$5.7054bn, the largest since comparable records began in 1998. Receipts from Japanese visitors were US$2.7373bn while outbound spending by South Korean residents in Japan reached US$8.4427bn. The travel balance swung to a surplus in 2020-21 amid COVID disruptions but reverted to a deficit in 2022 and has expanded annually, surpassing US$5.7bn in 2025. The Bank of Korea attributed the widening deficit to record outbound travel to Japan, citing yen depreciation and the full post-COVID restoration of international flight routes as drivers of strong demand."
+    },
+    {
+      "id": "4949333",
+      "time": "2026-06-23 10:16:47",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國駐菲律賓大使館：美國政府已向菲律賓軍方移交了四架海洋航空“海神”自主水面無人艇，這筆交易總價值為1300萬美元。"
+    },
+    {
+      "id": "te:economy:560944",
+      "time": "2026-06-23 10:16:25",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "Government Bond 10Y",
+        "Importance 1"
+      ],
+      "text": "US 10-Year Treasury Yield Holds Steady — The yield on the US 10-year Treasury note hovered around 4.5% on Tuesday after climbing in the previous session, as investors monitored US-Iran peace talks while continuing to gauge the outlook for Federal Reserve interest rate hikes this year. In a key development, Washington granted Tehran a 60-day license to sell oil on international markets, boosting expectations of a faster recovery in global supply. Meanwhile, markets remain positioned for tighter monetary policy after the Fed struck a hawkish tone last week and raised its inflation projections. Both Deutsche Bank and BofA Global Research have revised their forecasts to include a rate hike in September. Investors are now looking ahead to this week’s PCE report, which contains the Fed’s preferred inflation measure and is expected to provide fresh clues about underlying price pressures."
+    },
+    {
+      "id": "4949332",
+      "time": "2026-06-23 10:16:19",
+      "tags": [
+        "其他"
+      ],
+      "text": "【最高檢：2025年未成年人犯罪和侵害未成年人犯罪“雙下降”】最高人民檢察院今天（23日）釋出未成年人檢察工作40年發展報告‌。報告顯示，2025年，檢察機關受理審查起訴未成年人犯罪和起訴侵害未成年人犯罪人數同比分別下降9.8%、2.2%，實現近五年來首次“雙下降”。"
+    },
+    {
+      "id": "4949331",
+      "time": "2026-06-23 10:15:51",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "日本五年期國債收益率下跌0.5個基點，至1.900%。"
+    },
+    {
+      "id": "mkt:019ef243-25f5-7dd8-b0ca-1927456350d1",
+      "time": "2026-06-23 10:15:47",
+      "tags": [
+        "MKT News",
+        "CSI300",
+        "Impact bullish",
+        "SSE Composite",
+        "SZSE Component"
+      ],
+      "text": "A-share panel stocks active: Kaisheng Technology extended gains to fresh intraday highs; Rainbow Co. hit the daily limit; Bayi Shikong rose over 10%. Huasu Holdings, Shenhuafa A and Tongxingda also climbed."
+    },
+    {
+      "id": "4949330",
+      "time": "2026-06-23 10:15:45",
+      "tags": [
+        "其他"
+      ],
+      "text": "【2018年以來檢察機關共起訴侵害未成年人犯罪53.1萬人】最高人民檢察院今天（23日）釋出未成年人檢察工作40年發展報告‌。報告顯示我國未成年人檢察工作機制更加健全，制度體系更加完善，落實“雙向保護”原則更加有力。2018年以來，檢察機關共起訴侵害未成年人犯罪53.1萬人。嚴厲打擊性侵害未成年人犯罪，加強未成年被害人關愛救助，推動建立集“詢問、取證、身體檢查、心理疏導”等功能於一體的“一站式”辦案區2600餘個，一次性詢問10萬餘人，提供心理疏導11.9萬次，發放救助金8.6億元。"
+    },
+    {
+      "id": "te:markets:560943",
+      "time": "2026-06-23 10:15:17",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "Asia FX Updates: Australian Dollar Depreciates by 0.26% — Top currency loser is Australian Dollar (-0.26%). Gains are led by South Korean Won (0.23%). Meanwhile, Japanese Yen and Chinese Yuan were little changed."
+    },
+    {
+      "id": "4949329",
+      "time": "2026-06-23 10:15:05",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【面板板塊拉昇，彩虹股份漲停】面板板塊拉昇，凱盛科技盤中創新高，彩虹股份漲停，八億時空漲超10%，華塑控股、深華髮A、深紡織A、康冠科技、同興達跟漲。"
+    },
+    {
+      "id": "4949328",
+      "time": "2026-06-23 10:14:58",
+      "tags": [
+        "市場"
+      ],
+      "text": "【晶片電感概念逆勢拉昇 龍磁科技觸及20cm漲停】晶片電感概念逆勢拉昇，龍磁科技觸及20cm漲停，田中精機漲超10%，悅安新材、科瑞思、麥捷科技衝高。"
+    },
     {
       "id": "4949327",
       "time": "2026-06-23 10:14:54",
@@ -158394,94 +158532,6 @@
         "公司"
       ],
       "text": "【匹克被指拖欠贊助費及員工薪資，董事長許景南迴應】近日，有訊息稱，抖音藍V認證賬號“匹克官方直播間”出現涉及員工欠薪、贊助款逾期等內容。其中，一份由中國現代五項運動協會（下稱五項動協）於2025年8月14日開具的“催款函”指出，匹克未能按照《贊助合作協議書》的約定，將相關的贊助款項按期匯至協會賬戶。 另有截圖顯示，今年1月，廈門匹克貿易有限公司發函稱，其和五項動協雙方於2018年簽署的《現代五項國家隊贊助合作協議書》項下，約定由其在2022年9月30日前支付50萬元贊助款項，“截至目前該筆款項尚未支付。此情況系基於客觀經營環境變化所致，非我司主觀意願”。 針對上述傳聞，6月15日晚間，許景南對浙江日報旗下財聞表示，公司沒有和“五項動協”簽署任何協議，網傳協議均由“五項動協”和中介簽署，“不知道截圖從哪來的，都是假的，我們已經報警了”。 此外，“匹克官方直播間”還曾在評論區留言稱，該直播間的員工已經被欠薪一年。目前，該留言頁面也已經不在。"
-    },
-    {
-      "id": "em:jjsj_zgsj:202606163772693971",
-      "time": "2026-06-16 10:19:12",
-      "tags": [
-        "經濟數據",
-        "中國"
-      ],
-      "text": "【國家統計局：5月全國服務業生產指數同比增長4.4% 比上月加快0.1個百分點】據國家統計局，5月份，全國服務業生產指數同比增長4.4%，比上月加快0.1個百分點。分行業看，資訊傳輸、軟體和資訊科技服務業，租賃和商務服務業，金融業，交通運輸、倉儲和郵政業生產指數同比分別增長11.3%、10.9%、7.0%、4.8%。"
-    },
-    {
-      "id": "te:economy:559190",
-      "time": "2026-06-16 10:19:07",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "China",
-        "Fixed Asset Investment",
-        "Importance 1"
-      ],
-      "text": "China Fixed Investment Falls More Than Expected — China’s fixed-asset investment contracted by 4.1% year-on-year in the January–May 2026 period, exceeding market expectations for a 2.0% decline and worsening from the 1.6% drop recorded in the first four months of the year. Property investment remained the main drag, falling 16.2%, compared with a 13.7% decline in January–April, while growth in infrastructure and manufacturing investment slowed sharply, easing to 0.6% from 4.3% and to 0.4% from 1.2%, respectively."
-    },
-    {
-      "id": "mkt:019ece38-a5c0-7dd8-b01b-c983bcca8e65",
-      "time": "2026-06-16 10:17:59",
-      "tags": [
-        "MKT News",
-        "02331.HK",
-        "Impact bearish",
-        "02020.HK",
-        "01368.HK"
-      ],
-      "text": "Hong Kong-listed sportswear stocks extended losses: Li Ning (02331.HK) fell over 5%, 361 Degrees (01361.HK) fell more than 4%; Anta Sports (02020.HK), the outdoor retailer (02720.HK), Xtep International (01368.HK) and Yue Yuen Industrial (00551.HK) each dropped over 2%."
-    },
-    {
-      "id": "mkt:019ece38-9bac-7dd8-b01b-c05fca820c5c",
-      "time": "2026-06-16 10:17:56",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy"
-      ],
-      "text": "Indonesia's Energy Ministry set the benchmark price for 5,300 kcal/kg coal at $88.40 per tonne for the second half of June."
-    },
-    {
-      "id": "mkt:019ece38-54bc-7dd8-b01b-bdf4c340df28",
-      "time": "2026-06-16 10:17:38",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy"
-      ],
-      "text": "Indonesia's Energy Ministry set the benchmark price for 4,100 kcal coal at $60.19 per tonne, effective for the second half of June."
-    },
-    {
-      "id": "4937526",
-      "time": "2026-06-16 10:17:26",
-      "tags": [
-        "市場"
-      ],
-      "text": "【儲存晶片概念持續走強 大普微漲超10%】儲存晶片概念持續走強，大普微漲超10%，此前雅創電子20cm漲停，同有科技、成都華微、深科技、兆易創新等跟漲。"
-    },
-    {
-      "id": "mkt:019ece37-3ec5-7dd8-b01b-b10e113b9707",
-      "time": "2026-06-16 10:16:27",
-      "tags": [
-        "MKT News",
-        "USDJPY",
-        "Impact bearish",
-        "DXY"
-      ],
-      "text": "【Deutsche Securities: BOJ may revise description of policy looseness】Deutsche Securities says the BOJ faces a communications crossroads: it must choose to keep current forward‑guidance wording or recharacterize the degree of monetary ease. If wording is unchanged, a move to a 1.25% policy rate would create a new challenge in justifying further hikes; with the BOJ’s estimated lower bound of the nominal neutral rate at about 1.1% and the policy rate already near 1.0%, policy above ~1.1% would be difficult to describe as accommodative."
-    },
-    {
-      "id": "4937525",
-      "time": "2026-06-16 10:16:11",
-      "tags": [
-        "國際"
-      ],
-      "text": "印尼能源部設定6月下半月4100大卡等級煤炭的基準價格為每噸60.19美元。"
-    },
-    {
-      "id": "4937524",
-      "time": "2026-06-16 10:15:58",
-      "tags": [
-        "國際"
-      ],
-      "text": "印尼能源部宣佈，6月下半月5300千卡級煤炭基準價格為每公噸88.40美元。"
     }
   ]
 }
