@@ -1,7 +1,27 @@
 {
-  "updated": "2026-06-24 00:43:45",
-  "count": 17271,
+  "updated": "2026-06-24 00:47:47",
+  "count": 17264,
   "items": [
+    {
+      "id": "mkt:019ef55f-64cb-7dd8-b0df-df43899e09c1",
+      "time": "2026-06-24 00:45:29",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Meta Platforms",
+        "Market Themes",
+        "Magnificent 7"
+      ],
+      "text": "The New York Times reports Zuckerberg has instructed Meta Platforms (META.O) to develop a prediction-market app, internally called \"Arena\", similar to Polymarket and Kalshi."
+    },
+    {
+      "id": "4951004",
+      "time": "2026-06-24 00:43:55",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：扎克伯格授意Meta開發預測市場類應用， 這款應用將獨立於臉書和照片牆運營， 該應用使用者不涉及現金投注，僅採用積分機制。"
+    },
     {
       "id": "mkt:019ef55c-0ebc-7dd8-b0df-d29d783b634a",
       "time": "2026-06-24 00:41:51",
@@ -158168,98 +158188,6 @@
         "觀點"
       ],
       "text": "高盛併購交易規模突破1萬億美元，創下史上最快達成該規模紀錄。"
-    },
-    {
-      "id": "4939208",
-      "time": "2026-06-17 00:47:45",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "聯合太平洋公司：7月4日美國獨立日假期期間，路網運營預計將維持正常開展，所有主要換裝站均保持開放。"
-    },
-    {
-      "id": "mkt:019ed154-7d84-7dd8-b037-7e0acda5e814",
-      "time": "2026-06-17 00:47:15",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy"
-      ],
-      "text": "U.S. natural gas futures rose more than 3% intraday to $3.242/MMBtu."
-    },
-    {
-      "id": "4939207",
-      "time": "2026-06-17 00:47:06",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "歐洲央行官員馬克魯夫：直接通脹壓力難以快速緩解。"
-    },
-    {
-      "id": "mkt:019ed154-1f88-7dd8-b037-77e0a455f1f1",
-      "time": "2026-06-17 00:46:51",
-      "tags": [
-        "MKT News",
-        "Important",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "WTI crude's intraday decline widened to 7%, trading at $75.68/bbl."
-    },
-    {
-      "id": "4939206",
-      "time": "2026-06-17 00:46:25",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "歐洲央行官員馬克魯夫：伊朗戰事落幕並不意味著衝擊就此終結，能源價格調整速度仍有待觀察。"
-    },
-    {
-      "id": "mkt:019ed153-1589-7dd8-b037-6c517c0ce03a",
-      "time": "2026-06-17 00:45:43",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK",
-        "EURUSD",
-        "Impact bullish",
-        "DXY",
-        "Impact bearish"
-      ],
-      "text": "ECB Executive Board member Makhlouf said if war-related infrastructure damage delays production recovery, direct price pressures may not ease quickly."
-    },
-    {
-      "id": "mkt:019ed152-ddc3-7dd8-b037-6436664922f0",
-      "time": "2026-06-17 00:45:29",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "ECB Governing Council member MAKHLOUF said the end of the Middle East conflict would not necessarily end the energy shock immediately."
-    },
-    {
-      "id": "4939205",
-      "time": "2026-06-17 00:45:27",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "歐洲央行官員馬克魯夫：若烏克蘭衝突造成的基礎設施損毀致使生產復甦滯後，直接價格壓力可能不會那麼快消退。"
-    },
-    {
-      "id": "4939204",
-      "time": "2026-06-17 00:44:06",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "道指漲1.00%，現報52189.738點；納指跌0.48%，現報26557.174點；標普500指數跌0.16%，現報7542.270點。"
     }
   ]
 }
