@@ -1,7 +1,128 @@
 {
-  "updated": "2026-06-23 14:21:28",
-  "count": 17221,
+  "updated": "2026-06-23 14:25:41",
+  "count": 17226,
   "items": [
+    {
+      "id": "4949683",
+      "time": "2026-06-23 14:23:58",
+      "tags": [
+        "市場"
+      ],
+      "text": "鈀金期貨日內跌3%，現報1232.50美元/盎司。"
+    },
+    {
+      "id": "mkt:019ef325-f728-7dd8-b0ce-5ff4badb220a",
+      "time": "2026-06-23 14:23:31",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Nasdaq100",
+        "Impact bearish",
+        "S&P500",
+        "Dow"
+      ],
+      "text": "Nasdaq-100 futures fell more than 2%, S&P 500 futures were down 1.08% and Dow futures fell 0.36%."
+    },
+    {
+      "id": "mkt:019ef325-f44e-7dd8-b0ce-5689befb8105",
+      "time": "2026-06-23 14:23:31",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "Market Themes",
+        "Chip Wars",
+        "005930.KS",
+        "Impact bearish",
+        "000660.KS",
+        "9984.T"
+      ],
+      "text": "【South Korea and Japan stocks fall after sharp tech sell-off】South Korean and Japanese equities plunged after a sudden reversal in global AI sentiment and macro developments. In Seoul, Samsung Electronics fell 7.4% and SK Hynix dropped 10.1% intraday; the two memory-chip makers account for roughly half of KOSPI market capitalization. KOSPI slid more than 9% intraday and triggered a 20-minute trading halt — the fourth such pause this year. In Tokyo, the Nikkei 225 fell over 3%, led by SoftBank and Kioxia, down about 10% and 14% respectively. Both markets had recently hit multiple record highs on AI optimism, progress in US–Iran talks and expectations of BOJ tightening; analysts warn the chip names’ rapid run-up has left valuations elevated and exposed to semiconductor cyclical risk."
+    },
+    {
+      "id": "4949682",
+      "time": "2026-06-23 14:23:28",
+      "tags": [
+        "其他"
+      ],
+      "text": "【民航局局長宋志勇與香港民航業界座談交流】據中國民航報，6月22日，民航局局長宋志勇在京同香港民航處與香港民航業界管理層人員國情研習專班（研習班）學員圍繞中國民航高質量發展座談交流。在座談中，宋志勇介紹了黨的十八大以來，中國民航高質量發展取得的成效，以及高質高效謀劃新時代加快建設交通強國民航篇章的思路與舉措，並與研習班學員圍繞發展國際航空運輸與樞紐建設、促進大灣區航空產業融合發展、加強中國民航參與國際競爭與合作、國產大飛機發展、人工智慧在民航的應用等學員們關心的話題進行深入討論。"
+    },
+    {
+      "id": "4949681",
+      "time": "2026-06-23 14:23:12",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "滬深兩市成交額超3萬億元，較上日此時縮量3082億元。"
+    },
+    {
+      "id": "4949680",
+      "time": "2026-06-23 14:23:08",
+      "tags": [
+        "其他"
+      ],
+      "text": "德意志銀行將歐萊雅目標股價從360歐元下調至340歐元。"
+    },
+    {
+      "id": "4949679",
+      "time": "2026-06-23 14:22:55",
+      "tags": [
+        "市場"
+      ],
+      "text": "【美股納斯達克100指數期貨跌超2%】美股納斯達克100指數期貨跌超2%，標普500指數期貨跌1.08%，道瓊斯指數期貨跌0.37%。"
+    },
+    {
+      "id": "te:markets:561030",
+      "time": "2026-06-23 14:21:57",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Euro Area",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "European Stocks Set to Open Lower — European equity markets were set to open lower on Tuesday, after closing at fresh records in the previous session, as attention continued to remain on US–Iran peace negotiations and political developments in the UK. The US Treasury issued a 60-day license authorizing the production, shipment, and sale of Iranian oil, pushing crude prices to a three-month low. Still, Iran’s nuclear program remains a major source of uncertainty, following Vice President JD Vance’s claim that Tehran had agreed to host nuclear inspectors, which Iranian authorities have denied. On the economic front, markets will be closely monitoring the latest PMI data across the region, due out later today. In premarket trading, Euro Stoxx 50 and Stoxx 600 futures were 0.9% and 0.7% lower, respectively."
+    },
+    {
+      "id": "mkt:019ef324-765f-7dd8-b0ce-4daa0caf017a",
+      "time": "2026-06-23 14:21:53",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "Hang Seng Index",
+        "Impact bearish",
+        "03993.HK"
+      ],
+      "text": "HSI falls over 2%; China Molybdenum (03993.HK) drops more than 10%, the largest decliner among index constituents."
+    },
+    {
+      "id": "4949678",
+      "time": "2026-06-23 14:21:41",
+      "tags": [
+        "公司"
+      ],
+      "text": "【河南一“橘子賓館”被“桔子酒店”索賠10萬元，華住會回應】近日，河南平頂山一家橘子賓館被連鎖酒店品牌“桔子酒店管理（中國）有限公司”（簡稱“桔子酒店”）起訴侵權索賠10萬元一事引發關注。“橘子賓館”的店老闆馮女士告訴記者，自己的賓館很小，只有16間房，也沒有用任何跟“桔子酒店”相似的圖文、logo和裝修風格，對於侵權的說法無法接受。6月22日，華住集團回應稱，該賓館名稱與桔子酒店品牌存在相似之處，索賠並非最終目的，6月16日已與橘子賓館溝通表達了希望共同協商、妥善解決的意願。（羊城晚報）"
+    },
+    {
+      "id": "4949677",
+      "time": "2026-06-23 14:21:08",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "恒生指數跌超2%，現報23290.840點；恒生科技指數現跌3.376%。"
+    },
+    {
+      "id": "4949676",
+      "time": "2026-06-23 14:20:44",
+      "tags": [
+        "其他"
+      ],
+      "text": "【商務部等8部門辦公廳聯合印發《關於公佈汽車流通消費改革試點城市名單的通知》】近日，商務部等8部門辦公廳聯合印發《關於公佈汽車流通消費改革試點城市名單的通知》（以下簡稱《通知》），確定40個城市開展汽車流通消費改革試點，圍繞汽車購買和使用管理、二手車流通、報廢車回收利用，以及汽車改裝、房車露營、汽車租賃等後市場領域，先行先試，激發汽車消費市場活力。\n\n《通知》提出，各試點城市要結合本地產業特色、市場特點、資源稟賦、區位條件等實際情況，針對汽車流通消費不合理限制等堵點問題，聚焦重點方向，進一步細化目標任務、完善改革創新舉措；要強化土地、資金等要素保障，統籌用好相關支援政策，培育汽車消費新場景新模式，帶動商旅文體健融合發展。\n\n《通知》要求，各省級相關部門要加強組織領導，指導相關城市進一步完善試點方案。要做好常態化跟蹤問效和服務保障，在相關政策支援中對試點城市予以適當傾斜，為試點工作順暢開展創造便利、提供支撐。\n\n下一步，商務部將會同相關部門，進一步加大對試點地區的跟蹤指導，推動各項試點任務落實落細，形成一批可複製推廣的改革創新做法，更好激發全鏈條汽車消費活力，為促進汽車行業高質量發展提供有力支撐。"
+    },
     {
       "id": "mkt:019ef323-016b-7dd8-b0ce-441d10eae192",
       "time": "2026-06-23 14:20:18",
@@ -157938,68 +158059,6 @@
         "觀點"
       ],
       "text": "【中金：泡泡瑪特LABUBU亮相世界盃助提升認知度 重申行業首選股】中金髮表研究報告指出，在2026年美加墨世界盃開幕式上，泡泡瑪特(09992.HK)的LABUBU作為世界盃歷史上首個第三方IP亮相舞臺。該行認為，這有望帶動LABUBU及泡泡瑪特在美洲文化圈乃至全球市場進一步提升認知度，並標誌著中國IP潮玩公司全球化發展達到新高度。該行維持泡泡瑪特2026及27年的經調整淨利潤預測133億和155億元人民幣，又認為公司正處於歷史估值低位，短期具備事件催化，中期業績有望改善，重申為行業首選股，續予目標價218港元，評級為跑贏行業。"
-    },
-    {
-      "id": "4937876",
-      "time": "2026-06-16 14:24:50",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "多晶矽連續主力合約日內跌6%，現報35800.00元。"
-    },
-    {
-      "id": "mkt:019ecf1a-49f8-7dd8-b022-4f05a4993a86",
-      "time": "2026-06-16 14:24:26",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "01357.HK",
-        "Impact bullish"
-      ],
-      "text": "【UBS keeps Meitu PT at HK$8.4 and buy rating】UBS keeps Meitu (01357.HK) PT at HK$8.4 and maintains a buy rating. UBS reports Meitu’s apps posted May revenue +40% YoY, below April’s +45% and 2025’s +44%. China app revenue was +43% YoY in May, marginally under April’s +47% and 2025’s +64%; overseas revenue rose +36% YoY, below April’s +42% but above 2025’s +31%, aided by overseas expansion of Meitu, BeautyCam and Wink. Management said it remains focused on AI-driven efficiency—AI can materially shorten R&D cycles—and that Meitu’s value lies in post-generation optimization of images and video, which it says is hard to express with natural-language prompts."
-    },
-    {
-      "id": "4937875",
-      "time": "2026-06-16 14:23:56",
-      "tags": [
-        "其他"
-      ],
-      "text": "【里昂：吉利汽車海外擴張步伐加快，維持“高度確信跑贏大市”評級】里昂發表研報指，吉利汽車海外擴張步伐加快，5月出口量達8.5萬輛；管理層更表示若非物流瓶頸，單月海外訂單已可突破10萬輛。里昂預料，隨著物流問題逐步決解，6月起月出口量可達10萬輛，帶動下半年出口量達約60萬輛，全年出口預測由80萬輛上調至106萬輛，佔總銷量約32%。該行維持對其“高度確信跑贏大市”評級及目標價30港元不變，目前預測吉利2026年總銷量同比增長8.9%至約329.5萬輛，純利預測則上調0.3%至196.4億元。"
-    },
-    {
-      "id": "4937874",
-      "time": "2026-06-16 14:23:33",
-      "tags": [
-        "市場"
-      ],
-      "text": "【5月北上廣深二手房價格環比齊漲 業內：70城新房價格指數同比跌幅收窄 房價止跌回穩關鍵訊號已現】6月16日，國家統計局公佈的2026年5月份70個大中城市商品住宅銷售價格變動情況顯示，5月新建商品住宅銷售價格環比上漲城市有16個，比4月增加2個，杭州、深圳分別以漲幅0.5%和0.4%領跑70城。一線城市二手住宅銷售價格環比上漲0.4%，其中，上海、深圳漲幅0.6%，廣州和北京上漲0.1%。 58安居客研究院院長張波書面分析道：“5月全國房價延續市場持續復甦、房價結構性分化的趨勢，樓市的穩定性進一步加強，各地公積金最佳化、住房以舊換新、城市更新等政策持續落地，推動了當下信心復甦、需求穩步修復。”（每經）"
-    },
-    {
-      "id": "4937873",
-      "time": "2026-06-16 14:22:53",
-      "tags": [
-        "國際"
-      ],
-      "text": "印度取消在農村地區銷售止咳糖漿的豁免政策。"
-    },
-    {
-      "id": "4937872",
-      "time": "2026-06-16 14:22:10",
-      "tags": [
-        "市場",
-        "觀點"
-      ],
-      "text": "【報告：紐商所黃金期貨料將測試每盎司4,400美元阻力位】RHB Retail Research的Joseph Chai在一份研究報告中表示，根據日線圖，紐商所黃金期貨料將測試每盎司4,400美元的阻力位。該分析師表示，該期貨週一連續第二個交易日反彈，最新價格走勢表明市場情緒已轉為樂觀。不過Chai表示，50日簡單移動平均線呈下降趨勢，對該大宗商品構成下行壓力。該分析師補充說，如果該大宗商品未能升破這一阻力位，可能會導致價格恢復下行趨勢，跌向每盎司4,000美元的初步支撐位。現貨黃金上漲0.2%，報每盎司4,316.78美元。"
-    },
-    {
-      "id": "4937871",
-      "time": "2026-06-16 14:21:36",
-      "tags": [
-        "國際"
-      ],
-      "text": "印度就擬建中東管道的報道作出澄清：目前沒有與海灣國家就該專案進行積極磋商。"
     }
   ]
 }
