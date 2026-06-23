@@ -1,7 +1,36 @@
 {
-  "updated": "2026-06-24 02:01:29",
-  "count": 17262,
+  "updated": "2026-06-24 02:05:34",
+  "count": 17258,
   "items": [
+    {
+      "id": "mkt:019ef5a7-d69b-7dd8-b0e1-43e153082e9a",
+      "time": "2026-06-24 02:04:37",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "【Dallas Fed: U.S. far more resilient to oil-price shocks than in 1980s】The Federal Reserve Bank of Dallas estimates in a new study that a recent spring oil surge above $120/bbl reduced U.S. output by roughly 0.3 percentage point, far less than similar shocks in the 1980s when U.S. oil import dependence was higher. A U.S.-backed war on Iran cut about 15% of global oil supply, disrupted Strait of Hormuz shipping, roiled commodity markets, pushed prices higher, caused regional shortages and weighed on overall demand."
+    },
+    {
+      "id": "4951047",
+      "time": "2026-06-24 02:03:28",
+      "tags": [
+        "市場"
+      ],
+      "text": "甲骨文股價創逾一個月新低，最新下跌 5.1%。"
+    },
+    {
+      "id": "4951046",
+      "time": "2026-06-24 02:01:51",
+      "tags": [
+        "央行",
+        "市場",
+        "國際"
+      ],
+      "text": "【達拉斯聯儲：美國經濟對油價衝擊的抵抗力遠強於1980年代】美國達拉斯聯儲一項最新研究估計，去年春季油價飆升至每桶120美元以上，使美國經濟產出減少約0.3個百分點，但這一衝擊遠低於20世紀80年代類似石油衝擊造成的影響，當時美國對石油進口依賴程度更高。在美國支援下對伊朗發動的戰爭導致全球石油供應減少約15%，霍爾木茲海峽航運受阻，全球大宗商品市場陷入動盪，價格上漲、部分地區供應短缺且整體需求下降。"
+    },
     {
       "id": "mkt:019ef5a1-1616-7dd8-b0e1-38441b0aa83a",
       "time": "2026-06-24 01:57:15",
@@ -158128,70 +158157,6 @@
         "GOOGL.O"
       ],
       "text": "Google will extend Android parental-control features to all devices upgraded to Android 17."
-    },
-    {
-      "id": "mkt:019ed19b-b3e1-7dd8-b038-9bcfe2f95fab",
-      "time": "2026-06-17 02:05:02",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【US cargo Dragon undocks from ISS, returns to Earth】SpaceX’s cargo Dragon undocked from the International Space Station on the 16th at 12:25 US Eastern Time (00:25 Beijing, 17th), carrying scientific experiment samples and supplies for return. It is scheduled to splash down off the coast of California at 05:08 US Pacific Time on the 17th (20:08 Beijing)."
-    },
-    {
-      "id": "4939266",
-      "time": "2026-06-17 02:05:01",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "谷歌：已將美國數字健康基金規模增至逾5000萬美元。"
-    },
-    {
-      "id": "4939265",
-      "time": "2026-06-17 02:04:54",
-      "tags": [
-        "公司"
-      ],
-      "text": "谷歌：將安卓家長控制功能擴充套件至所有升級至安卓17系統的安卓裝置。"
-    },
-    {
-      "id": "mkt:019ed19b-88a7-7dd8-b038-9624ee286739",
-      "time": "2026-06-17 02:04:51",
-      "tags": [
-        "MKT News",
-        "EURUSD",
-        "Impact mixed"
-      ],
-      "text": "Bank of France expects 2026 inf at 2.5% (previously 1.7%) and sees Q2 GDP flat after a contraction in Q1."
-    },
-    {
-      "id": "mkt:019ed19b-8871-7dd8-b038-8b3d56793e51",
-      "time": "2026-06-17 02:04:51",
-      "tags": [
-        "MKT News",
-        "EURUSD",
-        "Impact bearish",
-        "DXY",
-        "Impact bullish"
-      ],
-      "text": "Bank of France cuts its 2026 GDP growth forecast to 0.5% from 0.9%."
-    },
-    {
-      "id": "4939264",
-      "time": "2026-06-17 02:02:58",
-      "tags": [
-        "國際"
-      ],
-      "text": "【美貨運“龍”飛船脫離空間站返回地球】SpaceX的貨運“龍”飛船16日脫離國際空間站，攜帶科學實驗樣品和物資返回地球。據美國國家航空航天局介紹，“龍”飛船於美國東部時間16日12時25分（北京時間17日0時25分）脫離國際空間站，啟程返回地球。按計劃，“龍”飛船將於美國西部時間17日5時08分（北京時間同日20時08分）濺落在美加利福尼亞州附近海域。（新華社）"
-    },
-    {
-      "id": "4939263",
-      "time": "2026-06-17 02:02:53",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "法國央行預計本國第二季度經濟零增長。"
     }
   ]
 }
