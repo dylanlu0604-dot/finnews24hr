@@ -1,7 +1,36 @@
 {
-  "updated": "2026-06-24 02:09:40",
-  "count": 17255,
+  "updated": "2026-06-24 02:13:47",
+  "count": 17254,
   "items": [
+    {
+      "id": "4951050",
+      "time": "2026-06-24 02:11:52",
+      "tags": [
+        "國際"
+      ],
+      "text": "據美聯社：美國放寬對伊朗世界盃球隊的限制。"
+    },
+    {
+      "id": "mkt:019ef5ae-0ad3-7dd8-b0e1-5401ccc157f4",
+      "time": "2026-06-24 02:11:24",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "Kpler analyst Amena Bakr said Strait of Hormuz transit volumes rebounded to 4.8 mln b/d after detained vessels and a previously sanctioned fleet were unblocked."
+    },
+    {
+      "id": "4951049",
+      "time": "2026-06-24 02:11:04",
+      "tags": [
+        "公司"
+      ],
+      "text": "軍工初創公司Stark Defence按32億歐元估值融資5億歐元（摺合5.70億美元），紅杉資本、Peter Thiel旗下Founders Fund領投。"
+    },
     {
       "id": "mkt:019ef5aa-20b1-7dd8-b0e1-4f408f888af7",
       "time": "2026-06-24 02:07:07",
@@ -158090,40 +158119,6 @@
         "Emerging Markets"
       ],
       "text": "【Equatorial Guinea government resigns after failing to meet policy goals】On 16 June local time Vice‑President Teodoro Obiang Mangue announced the government has formally resigned, citing failure to meet established policy objectives. No new cabinet list or formation timetable has been released."
-    },
-    {
-      "id": "mkt:019ed1a2-b42c-7dd8-b038-c66d2341a331",
-      "time": "2026-06-17 02:12:41",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Iran's foreign minister said negotiations will continue for 60 days after the first phase to reach a final agreement covering nuclear issues and sanctions relief."
-    },
-    {
-      "id": "4939270",
-      "time": "2026-06-17 02:12:14",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "伊朗外交部長：第一階段談判結束後，各方將繼續展開為期60天的談判，以達成最終協議，協議內容將涵蓋核問題以及解除制裁。"
-    },
-    {
-      "id": "4939269",
-      "time": "2026-06-17 02:11:24",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗外交部長表示，美國與伊朗的談判將在雙方簽署諒解備忘錄的當日啟動。"
-    },
-    {
-      "id": "mkt:019ed1a1-869f-7dd8-b038-ba2ee597c972",
-      "time": "2026-06-17 02:11:24",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "Iran's foreign minister said negotiations with the United States will begin on the day the two countries sign a memorandum of understanding."
     }
   ]
 }
