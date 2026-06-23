@@ -1,7 +1,23 @@
 {
-  "updated": "2026-06-24 02:05:34",
-  "count": 17258,
+  "updated": "2026-06-24 02:09:40",
+  "count": 17255,
   "items": [
+    {
+      "id": "mkt:019ef5aa-20b1-7dd8-b0e1-4f408f888af7",
+      "time": "2026-06-24 02:07:07",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Argentina's interbank peso closed 0.61% weaker at 1,471.5 per USD, its weakest level in eight months."
+    },
+    {
+      "id": "4951048",
+      "time": "2026-06-24 02:06:34",
+      "tags": [
+        "市場"
+      ],
+      "text": "交易商訊息：阿根廷比索銀行間匯率收盤下跌 0.61%，報 1 美元兌 1471.5 比索，創八個月新低。"
+    },
     {
       "id": "mkt:019ef5a7-d69b-7dd8-b0e1-43e153082e9a",
       "time": "2026-06-24 02:04:37",
@@ -158108,55 +158124,6 @@
         "Important"
       ],
       "text": "Iran's foreign minister said negotiations with the United States will begin on the day the two countries sign a memorandum of understanding."
-    },
-    {
-      "id": "4939268",
-      "time": "2026-06-17 02:08:20",
-      "tags": [
-        "國際"
-      ],
-      "text": "烏克蘭空軍通報： 一架蘇-24M戰鬥轟炸機墜毀，兩名飛行員全部遇難。"
-    },
-    {
-      "id": "4939267",
-      "time": "2026-06-17 02:07:50",
-      "tags": [
-        "公司"
-      ],
-      "text": "谷歌：今日起向符合條件的Pixel Watch推送Wear OS 7，該版本將為全天日常使用提供可靠平臺。"
-    },
-    {
-      "id": "mkt:019ed19e-3bda-7dd8-b038-b65ea3e66d5e",
-      "time": "2026-06-17 02:07:48",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Alphabet",
-        "Market Themes",
-        "Magnificent 7"
-      ],
-      "text": "Google begins rolling out Wear OS 7 to eligible Pixel Watch devices today; the update is intended to provide a reliable platform for all‑day everyday use."
-    },
-    {
-      "id": "mkt:019ed19d-0557-7dd8-b038-abb6509efe06",
-      "time": "2026-06-17 02:06:29",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Alphabet",
-        "Market Themes",
-        "Magnificent 7"
-      ],
-      "text": "Google says its US digital health fund has increased to over $50 mln."
-    },
-    {
-      "id": "mkt:019ed19c-a8a8-7dd8-b038-a149e9ea41c6",
-      "time": "2026-06-17 02:06:05",
-      "tags": [
-        "MKT News",
-        "GOOGL.O"
-      ],
-      "text": "Google will extend Android parental-control features to all devices upgraded to Android 17."
     }
   ]
 }
