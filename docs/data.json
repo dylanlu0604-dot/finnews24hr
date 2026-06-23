@@ -1,7 +1,89 @@
 {
-  "updated": "2026-06-24 05:17:40",
-  "count": 17324,
+  "updated": "2026-06-24 05:21:42",
+  "count": 17333,
   "items": [
+    {
+      "id": "4951157",
+      "time": "2026-06-24 05:20:50",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "谷歌母公司Alphabet（谷歌A）將被納入道瓊斯工業平均指數（道指）。"
+    },
+    {
+      "id": "4951156",
+      "time": "2026-06-24 05:20:08",
+      "tags": [
+        "公司"
+      ],
+      "text": "聯邦快遞執行長：公司正有意向市場中收益率更高的業務板塊拓展。"
+    },
+    {
+      "id": "4951155",
+      "time": "2026-06-24 05:19:45",
+      "tags": [
+        "公司"
+      ],
+      "text": "聯邦快遞執行長：在上一財年，聯邦快遞成功應對了包括貿易政策變動、MD-11貨機編隊停飛在內的“重大不利因素”。"
+    },
+    {
+      "id": "4951154",
+      "time": "2026-06-24 05:19:27",
+      "tags": [
+        "公司"
+      ],
+      "text": "聯邦快遞執行長：預計在旺季來臨前讓全部MD-11機隊恢復運營。"
+    },
+    {
+      "id": "4951153",
+      "time": "2026-06-24 05:19:13",
+      "tags": [
+        "公司"
+      ],
+      "text": "Cerebras執行長：截至本週，公司已與亞馬遜雲科技（AWS）達成最終協議，雙方將啟動技術協作，併為在亞馬遜雲科技的資料中心部署相關專案做準備。"
+    },
+    {
+      "id": "4951152",
+      "time": "2026-06-24 05:18:47",
+      "tags": [
+        "其他"
+      ],
+      "text": "【法國高溫持續 埃菲爾鐵塔提前關閉】由於法國高溫天氣持續，埃菲爾鐵塔運營方宣佈，為保障遊客和工作人員安全，埃菲爾鐵塔於23日下午提前關閉。法國氣象局目前將54個省級行政區劃列為高溫紅色預警區域，約佔該國面積的一半。"
+    },
+    {
+      "id": "4951151",
+      "time": "2026-06-24 05:18:28",
+      "tags": [
+        "公司"
+      ],
+      "text": "Cerebras執行長在電話會議上表示，OpenAI GPT 5.4目前已部署執行在Cerebras的AI系統上；作為下一階段部署計劃的一部分，公司正推動將GPT 5.5部署到Cerebras系統上。"
+    },
+    {
+      "id": "4951150",
+      "time": "2026-06-24 05:17:42",
+      "tags": [
+        "市場"
+      ],
+      "text": "聯邦快遞高管：收益率提升得益於基準運價上漲與燃油附加費。"
+    },
+    {
+      "id": "4951149",
+      "time": "2026-06-24 05:17:33",
+      "tags": [
+        "市場"
+      ],
+      "text": "標普道瓊斯指數：霍尼韋爾航空航天將納入標普500與標普100，其餘個股分別納入標普中型股400與標普小型股600。"
+    },
+    {
+      "id": "4951148",
+      "time": "2026-06-24 05:17:13",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "霍尼韋爾航空航天公司將納入標普500指數成分股。"
+    },
     {
       "id": "4951147",
       "time": "2026-06-24 05:15:15",
@@ -158754,14 +158836,6 @@
         "Importance 1"
       ],
       "text": "US Crude Inventories Fall More Than Expected — US crude oil inventories fell by 8.33 million barrels in the week ended June 12, exceeding expectations for a 4.5 million-barrel draw. This followed a 9.12 million-barrel decline in the previous week. Despite inventories falling by about 52 million barrels over the past nine weeks, US crude stockpiles are down just 1.4 million barrels since the start of the year. Inventories in the SPR also continued to decline, dropping by 8.9 million barrels to 340.3 million, leaving stocks 385 million barrels below maximum capacity. Meanwhile, inventories at the Cushing hub fell by 1.52 million barrels after declining by 1.13 million barrels the previous week. US crude production rose to 13.80 million barrels per day in the week ended June 5, up from 13.71 million bpd a week earlier. Gasoline inventories rose by 2.48 million barrels, reversing the prior week's 1.19 million-barrel decline, while distillate stockpiles fell by 461,000 barrels after rising by 1.3 million barrels in the previous week."
-    },
-    {
-      "id": "mkt:019ed24c-5430-7dd8-b03a-913734cf8d1e",
-      "time": "2026-06-17 05:17:58",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【FBI foils plot targeting fight on White House South Lawn】On the 16th U.S. law enforcement said the FBI and partner agencies thwarted an alleged plot to attack a fight held on the White House South Lawn on the 14th. As of the 15th five people had been detained and investigators had identified 23 suspected participants. Authorities say the suspects allegedly planned to use explosive‑laden drones against buildings near the event to force a mass evacuation and funnel the crowd toward pre‑positioned sniper teams, and had plotted a second‑wave assault on the White House gates."
     }
   ]
 }
