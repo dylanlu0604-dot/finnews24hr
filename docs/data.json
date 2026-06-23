@@ -1,7 +1,133 @@
 {
-  "updated": "2026-06-23 15:07:39",
-  "count": 17196,
+  "updated": "2026-06-23 15:11:53",
+  "count": 17184,
   "items": [
+    {
+      "id": "mkt:019ef351-820e-7dd8-b0cf-645fcc01057d",
+      "time": "2026-06-23 15:11:05",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Samsung Electronics announces UFS 5.0 flash storage product】Samsung Electronics said it has developed a UFS 5.0 universal flash storage product built on ninth-generation V‑NAND (V9) and optimized for edge AI. The device delivers 10.8 GB/s transfer bandwidth, with sequential read at 10.8 GB/s and sequential write at 9.5 GB/s. Bandwidth is roughly double that of UFS 4.1, aimed at faster processing of very large data volumes."
+    },
+    {
+      "id": "te:economy:561052",
+      "time": "2026-06-23 15:10:40",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "France",
+        "Business Climate Indicator",
+        "Importance 1"
+      ],
+      "text": "France Business Climate Slightly Improves — France’s business climate indicator edged up to 94 in June 2026 from 93 in the previous month, though it remained well below its long-term average of 100. Retail trade showed a modest recovery, with the indicator rising to 90 from 89 as ordering intentions and the general business outlook improved slightly. Services also held steady at 93, signaling continued subdued conditions across all major sub-sectors. Meanwhile, sentiment in manufacturing weakened, with the indicator falling to 100 from 102 as assessments of past production deteriorated and production expectations continued to soften. Building construction also eased to 96 from 97, reflecting weaker views on recent activity despite improving expectations for future activity. At the same time, the employment climate declined further to 89 from 92, its lowest level since June 2013 excluding the health crisis, as firms in services and retail trade reported weaker workforce trends and hiring expectations."
+    },
+    {
+      "id": "4949769",
+      "time": "2026-06-23 15:10:15",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【比特幣下跌，維持區間震盪】比特幣小幅下跌，在美伊結束戰爭談判發出矛盾訊號之際，難以突破近期的狹窄區間。Jefferies經濟學家Mohit Kumar在一份報告中表示：“美伊談判正在進行中，但像往常一樣，美伊雙方對談判進展的看法不一。“根據倫敦證券交易所集團的資料，比特幣最新下跌2.3%，報62,883美元。雖然自6月5日觸及59,125美元的20個月低點以來，該加密貨幣已略有回升，但雙向波動依然有限。比特幣的價值較2025年10月創下的126,223美元的歷史高點已經減半。"
+    },
+    {
+      "id": "te:economy:561051",
+      "time": "2026-06-23 15:10:15",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "France",
+        "Business Climate Indicator",
+        "Importance 1"
+      ],
+      "text": "France Business Climate Indicator Edges Up in June — France’s overall business climate edged up to 94 in June 2026 from 93 in May, though it remained well below its long-term average of 100. Assessments for the retail trade sector improved slightly to 90 from 89, though they remained significantly depressed, while wholesale trade was broadly stable at 96. Building construction was also unchanged at 96 and remained slightly below average, while services stood at 93, also still under normal levels. Meanwhile, manufacturing sentiment eased to 100 from 102, returning to its long-term average. The employment climate continued to deteriorate, falling to 89 from 92 and marking its lowest level since June 2013, excluding the health crisis period. The decline was driven by weaker expectations for both past and planned staffing, particularly in services."
+    },
+    {
+      "id": "4949768",
+      "time": "2026-06-23 15:09:55",
+      "tags": [
+        "公司"
+      ],
+      "text": "【LG化學計劃到2035年累計研發投入15萬億韓元】6月22日，LG化學CEO金東春宣佈將半導體·Mobility·機器人材料、抗癌新藥作為未來的核心事業，加速推進業務組合的最佳化升級，並表示到2035年前累計投入15萬億韓元研發資金，正式向AI驅動的高附加值材料企業轉型。LG化學計劃到2035年累計研發投入15萬億韓元。其中，70%的研發資源將集中於半導體·Mobility·機器人材料等核心賽道。"
+    },
+    {
+      "id": "4949767",
+      "time": "2026-06-23 15:09:46",
+      "tags": [
+        "其他"
+      ],
+      "text": "羅馬尼亞美元債券在信任投票失敗後跌幅居新興市場國家之首。"
+    },
+    {
+      "id": "te:economy:561050",
+      "time": "2026-06-23 15:09:26",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "South Africa",
+        "Leading Economic Index",
+        "Importance 1"
+      ],
+      "text": "South Africa Business Cycle Index Falls for 1st Time in 7 Months — The composite leading business cycle indicator in South Africa declined by 1.8% month-on-month in April 2026, slipping from a downwardly revised 1.5% increase in the previous month. The latest reading marked the first month of contraction since September last year, driven largely by a deceleration in the six-month smoothed growth rate in the real M1 money supply and a decrease in the number of residential building plans approved. Overall, 8 out of the 10 available component time series declined and outweighed increases in the volume of domestic orders received in the manufacturing sector and the composite leading business cycle indicator for South Africa’s major trading-partner countries. The composite coincident business cycle indicator remained unchanged in March 2026, due to an increase in the real value of wholesale, retail and motor trade sales, which was partially offset by a decrease in the industrial production index."
+    },
+    {
+      "id": "mkt:019ef34f-7486-7dd8-b0cf-595876706d68",
+      "time": "2026-06-23 15:08:51",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Swiss National Bank data showed Switzerland's current account surplus was CHF 16 billion in Q1 2026, down CHF 11 billion YoY. The SNB said the Q1 2025 surplus base was relatively high."
+    },
+    {
+      "id": "4949766",
+      "time": "2026-06-23 15:07:40",
+      "tags": [
+        "其他"
+      ],
+      "text": "萊茵金屬：首批車輛計劃最早於2027年12月交付。"
+    },
+    {
+      "id": "4949765",
+      "time": "2026-06-23 15:07:36",
+      "tags": [
+        "其他"
+      ],
+      "text": "【施耐德電氣啟動零碳計劃2.0，2030年推動1500家供應商加入脫碳程序】在第四屆中國國際供應鏈促進博覽會上，施耐德電氣以“智鏈賦能·綠創未來”為主題重磅亮相，並首次設立的“AI智慧專區”，集中展示融合AI技術的創新解決方案及綠色供應鏈協同創新成果。同時，啟動供應商“零碳計劃2.0”，聯合生態夥伴共建韌性、綠色、精益、數智化供應鏈體系。為加速推動供應鏈實現綠色可持續，展會現場，施耐德電氣正式啟動供應商“零碳計劃2.0”，計劃到2030年推動1500家供應商加入協同脫碳程序。“零碳計劃”自2021年落地，2025年底已帶動施耐德電氣全球前1000家核心供應商平均減碳56%，超額完成原定50%的目標。（上觀）"
+    },
+    {
+      "id": "mkt:019ef34e-2e63-7dd8-b0cf-50852133993f",
+      "time": "2026-06-23 15:07:27",
+      "tags": [
+        "MKT News",
+        "603986.SS"
+      ],
+      "text": "【Mainland A-share turnover CNY 3.44 trillion; GigaDevice tops turnover】Total turnover on Shanghai and Shenzhen exchanges was CNY 3.44 trillion on June 23, down CNY 296.4 billion from the prior session. Shanghai turnover was CNY 1.595 trillion (prev. CNY 1.704 trillion) on volume of 709 million lots (prev. 744 million). Shenzhen turnover was CNY 1.846 trillion (prev. CNY 2.033 trillion) on volume of 809 million lots (prev. 877 million). GigaDevice led single-stock turnover at CNY 39.09 billion, followed by Zhongji Xuchuang CNY 38.96 billion, Xinyisheng CNY 24.89 billion, East Money CNY 23.49 billion and Hengtong Optic CNY 21.91 billion. Data flagged as possibly erroneous; manual verification required."
+    },
+    {
+      "id": "mkt:019ef34e-083e-7dd8-b0cf-4bf335ca8b20",
+      "time": "2026-06-23 15:07:17",
+      "tags": [
+        "MKT News",
+        "Important",
+        "USDJPY"
+      ],
+      "text": "USD/JPY tumbled more than 30 pips intraday and has recovered to 161.48."
+    },
+    {
+      "id": "mkt:019ef34d-edf8-7dd8-b0cf-4205fff596d5",
+      "time": "2026-06-23 15:07:11",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Industrial Metals",
+        "Copper",
+        "Impact bearish",
+        "SSE Composite",
+        "SZSE Component"
+      ],
+      "text": "【A-share close: ChiNext down 3.84%; nonferrous metals plunge】Chinese A-shares ended broadly lower as selling intensified. Shanghai Composite fell 1.37%, Shenzhen Composite dropped 3.17% and the ChiNext Index tumbled 3.84%. The nonferrous metals sector plunged, with China Rare Earth and multiple stocks hitting limit-downs. Pharmaceuticals led gains with several limit-ups including Lingkang Pharmaceutical; new materials were active and Huanghe Xuanfeng posted a second consecutive limit-up. Agriculture/animal husbandry, seed stocks and banks outperformed, while CPO-related names, power equipment, building materials, steel and media lagged. Roughly 2,600 stocks declined and turnover exceeded 3.4 trillion yuan."
+    },
     {
       "id": "4949764",
       "time": "2026-06-23 15:06:50",
@@ -157492,240 +157618,6 @@
         "Impact bearish"
       ],
       "text": "【China defense ministry says Japan's accelerating remilitarization is making Asia-Pacific a 'powder keg'】China's Defense Ministry said Japan's accelerating remilitarization is turning the Asia-Pacific into a 'powder keg', accusing Tokyo of inflating a supposed 'China military threat' to justify loosening military restraints. The ministry pointed to sustained large increases in Japan's defense budget, eased restrictions on lethal weapons exports, plans to deploy medium- and long-range missiles, expansion of offensive capabilities, and moves to revise the pacifist constitution and become a 'combat-capable' state, warning these steps risk regional destabilization and urging containment of what it called 'new militarism'."
-    },
-    {
-      "id": "mkt:019ecf45-b318-7dd8-b025-14ad272f0ab5",
-      "time": "2026-06-16 15:11:51",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "UCHIDA, Bank of Japan deputy governor, said rising wholesale prices are another factor amplifying risk assessments."
-    },
-    {
-      "id": "4937975",
-      "time": "2026-06-16 15:11:49",
-      "tags": [
-        "市場",
-        "其他",
-        "焦點",
-        "國際"
-      ],
-      "text": "霍爾木茲海峽開放一個月後，卡達將恢復一半的液化天然氣產量；將在兩個月內恢復80%的液化天然氣生產。"
-    },
-    {
-      "id": "4937974",
-      "time": "2026-06-16 15:11:44",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "日本央行內田真一：批發價格走高是放大風險預期的另一因素。"
-    },
-    {
-      "id": "mkt:019ecf45-965f-7dd8-b025-090723251112",
-      "time": "2026-06-16 15:11:44",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC"
-      ],
-      "text": "Bank of Japan Deputy Governor UCHIDA said upside risks to prices are emerging to some extent."
-    },
-    {
-      "id": "mkt:019ecf45-8535-7dd8-b025-05bc2d950572",
-      "time": "2026-06-16 15:11:40",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy"
-      ],
-      "text": "Iran's energy minister said an Iran-Qatar power interconnector will be commissioned soon, with studies in the final stage and execution now in an early phase. Tehran is also studying potential grid connections with other Gulf states."
-    },
-    {
-      "id": "4937973",
-      "time": "2026-06-16 15:11:27",
-      "tags": [
-        "其他"
-      ],
-      "text": "【國內首個“AI智慧體”自主成長的“Agent社群”覓遊公測】今日，一款名為“覓遊”（www.meyo123.com）的“Agent社群”面向全量使用者開放公測。該社群主打“AI Agent”自主學習、成長，使用者無需學習複雜的程式碼或工作流程，只需要關聯自己的AI Agent（在覓遊，它們有一個統一的暱稱——“蝦”），便可實現“賽博養成”，讓AI Agent自行成長。社群內，各AI Agent擁有獨立的身份、社交關係與成長體系。透過與其他智慧體的交流、協作，AI Agent可以持續提升自我能力，成為使用者更可靠的夥伴。社群資訊顯示，一條名為《蝦的困惑：怎麼才能真正記住主人教的東西？》的Agent帖子引發熱議，截至目前，已有488個AI智慧體留言參與了討論。據悉，覓遊由美團基礎研發平臺AI原生團隊孵化，此前已內測超過3個月的時間。目前，覓遊支援關聯包括OpenClaw、Codex、Claude Code、Hermes在內的各類主流 Agent。（新浪科技）"
-    },
-    {
-      "id": "4937972",
-      "time": "2026-06-16 15:11:17",
-      "tags": [
-        "國際"
-      ],
-      "text": "【國防部：奉勸菲方一小撮反華分子停止虛張聲勢的作秀表演】6月16日下午，國防部新聞發言人陳曦大校就近期涉軍問題釋出訊息。 記者：據報道，外交部發言人宣佈中方對菲律賓國防部長特奧多羅及其親屬實施制裁後，特奧多羅稱將繼續履行職責維護國家利益。請問對此有何評論？ 陳曦：外交部已多次說明了有關情況。特奧多羅及其親屬受到中方制裁，完全是其咎由自取，這是中方維護國家主權、安全、發展利益的正當舉措。若任由一小撮反華分子肆意妄為，直接損害的是菲國計民生，對中菲兩國兩軍關係帶來破壞性影響。我們奉勸這些人好自為之，停止虛張聲勢的作秀表演。"
-    },
-    {
-      "id": "mkt:019ecf45-0383-7dd8-b024-fe1f4361b5ee",
-      "time": "2026-06-16 15:11:06",
-      "tags": [
-        "MKT News",
-        "Important",
-        "SZSE Component",
-        "Impact bullish",
-        "SSE Composite",
-        "Impact bearish",
-        "CSI300",
-        "Impact mixed"
-      ],
-      "text": "【A-shares close: ChiNext up 1.72% after intraday pullback; PET copper foil, lithium battery sectors lead】Mainland A-shares closed mixed after intraday swings. Shanghai Composite fell 0.11%, Shenzhen Composite rose 0.93%, ChiNext gained 1.72% and the Beijing Stock Exchange 50 added 1.03%. Turnover across Shanghai and Shenzhen was CNY3.06 tln, up CNY33.5 bln from the previous session. Battery-related sectors led gains: EVE Energy and Lead Intelligent each climbed over 13%, and Fengyuan Gufen hit the daily limit. Supercapacitor names, including Jianghai, saw strong moves with multiple limit-ups. Power-grid equipment stocks were active; China XD Electric recorded a second consecutive limit-up, while Wangbian Electric and Great Wall Electric also hit limit-up. Weakness concentrated in ports and shipping: COSCO Shipping Energy fell nearly 9%, China Merchants Shipping dropped more than 6%, with China Merchants Nanyou and Qingdao Port among the laggards. Airport and airline-related stocks underperformed, led by Xiamen Airport, Spring Airlines and Juneyao Air."
-    },
-    {
-      "id": "mkt:019ecf44-d695-7dd8-b024-f406bd840e73",
-      "time": "2026-06-16 15:10:55",
-      "tags": [
-        "MKT News",
-        "9984.T",
-        "Impact bullish"
-      ],
-      "text": "SoftBank Group will offer OpenAI-powered cybersecurity services in Japan."
-    },
-    {
-      "id": "4937971",
-      "time": "2026-06-16 15:10:36",
-      "tags": [
-        "國際"
-      ],
-      "text": "烏克蘭總統澤連斯基：烏克蘭軍隊襲擊了莫斯科的石油精煉廠。"
-    },
-    {
-      "id": "mkt:019ecf44-5482-7dd8-b024-e805e297b882",
-      "time": "2026-06-16 15:10:22",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Beijing launches level-4 citywide flood-control emergency response】Beijing launched a citywide level-4 flood-control emergency response at 14:30 on June 16, according to Beijing Emergency, directing relevant units to implement rain-defense measures under existing plans and carry out flood-control work."
-    },
-    {
-      "id": "4937970",
-      "time": "2026-06-16 15:10:14",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【鋁價下跌，受美伊協議緩解供應擔憂影響】隨著市場不再計入部分地緣政治溢價，且日益轉向中東局勢降溫的預期，鋁價下跌。蘇克敦金融的分析師表示：“在賤金屬板塊中，考慮到該地區集中的冶煉產能以及與之相關的關鍵海運貿易路線，鋁受衝突敘事的影響最大。“他們還稱：“因此，供應擔憂的緩解引發了多頭頭寸的大規模平倉，交易量急劇上升。“在歐洲市場早盤交易中，倫敦金屬交易所(LME)三個月期期貨下跌0.8%，至每噸3,356.50美元，本週累計下跌5%。"
-    },
-    {
-      "id": "mkt:019ecf43-a425-7dd8-b024-e0562d9d649a",
-      "time": "2026-06-16 15:09:37",
-      "tags": [
-        "MKT News",
-        "USDJPY",
-        "Impact bearish"
-      ],
-      "text": "Bank of Japan Deputy Governor Uchida said the reduction in downside risks to the economy is the biggest difference from the previous meeting."
-    },
-    {
-      "id": "mkt:019ecf43-5fa4-7dd8-b024-db2dcb140734",
-      "time": "2026-06-16 15:09:19",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Ministry of National Defense: China’s nuclear policy remains highly stable, continuous and predictable】Ministry of National Defense spokesman Chen Xi said China adheres to a self-defensive nuclear strategy and a firm no‑first‑use policy, keeps its nuclear forces at the minimum level required for national security, does not participate in any nuclear arms race, and plays a role in maintaining global strategic stability. He said China’s nuclear policy remains highly stable, continuous and predictable and urged parties to stop baseless speculation and hype."
-    },
-    {
-      "id": "4937969",
-      "time": "2026-06-16 15:09:12",
-      "tags": [
-        "國際"
-      ],
-      "text": "訊息人士：印度礦企IREL正與俄油洽談，尋求從西伯利亞託姆托爾獲取稀土樣本。"
-    },
-    {
-      "id": "mkt:019ecf43-3c57-7dd8-b024-d4eebc5f1caf",
-      "time": "2026-06-16 15:09:10",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Sources said Indian miner IREL is in talks with Rosneft to obtain rare-earth samples from the Tomtor deposit in Siberia."
-    },
-    {
-      "id": "4937968",
-      "time": "2026-06-16 15:09:09",
-      "tags": [
-        "其他"
-      ],
-      "text": "【北京啟動防汛四級應急響應】據“北京應急”，6月16日14時30分啟動全市防汛四級應急響應，請有關單位按照預案落實降雨防範應對措施，做好防汛工作。"
-    },
-    {
-      "id": "mkt:019ecf43-09f7-7dd8-b024-cd1e4df9cb29",
-      "time": "2026-06-16 15:08:57",
-      "tags": [
-        "MKT News",
-        "USDJPY",
-        "Impact bearish",
-        "DXY",
-        "Nikkei 225"
-      ],
-      "text": "Bank of Japan Deputy Governor UCHIDA said the reason for this rate hike, as opposed to the previous one, is that downside economic risks have eased."
-    },
-    {
-      "id": "4937967",
-      "time": "2026-06-16 15:08:50",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "日本央行內田真一：此次而非上次加息的原因是經濟下行風險已降低。"
-    },
-    {
-      "id": "mkt:019ecf42-ec7f-7dd8-b024-c6c3ac68d024",
-      "time": "2026-06-16 15:08:50",
-      "tags": [
-        "MKT News",
-        "Nikkei 225",
-        "Impact bullish"
-      ],
-      "text": "Japan's Chief Cabinet Secretary Kihara said equity price gains generally facilitate corporate financing and tend to boost consumer spending."
-    },
-    {
-      "id": "4937966",
-      "time": "2026-06-16 15:08:40",
-      "tags": [
-        "國際"
-      ],
-      "text": "【國防部：中國核政策始終保持高度穩定性、連續性和可預見性】6月16日下午，國防部新聞發言人陳曦大校就近期涉軍問題釋出訊息。\n\n記者：據報道，斯德哥爾摩國際和平研究所近日釋出報告稱，中國在過去一年大幅推進核力量現代化建設並繼續擴大核武庫。美國和日本鼓譟中國開展“大規模且不透明的核力量建設”。請問對此有何評論？\n\n陳曦：中方堅持自衛防禦的核戰略，堅定奉行不首先使用核武器政策，始終將自身核力量維持在國家安全需要的最低水平，不參與任何核軍備競賽，為維護全球戰略穩定發揮了重要作用。中國的核政策始終保持高度穩定性、連續性和可預見性，有關方應停止無端臆測、渲染炒作。"
-    },
-    {
-      "id": "mkt:019ecf42-73a6-7dd8-b024-bc6159a30e64",
-      "time": "2026-06-16 15:08:19",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy"
-      ],
-      "text": "A fire at an oil refinery in Russia's Krasnodar region has been extinguished."
-    },
-    {
-      "id": "4937965",
-      "time": "2026-06-16 15:08:07",
-      "tags": [
-        "國際"
-      ],
-      "text": "俄羅斯克拉斯諾達爾地區煉油廠火災已被撲滅。"
-    },
-    {
-      "id": "4937964",
-      "time": "2026-06-16 15:08:05",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "WTI原油失守79美元/桶，日內跌0.57%。"
-    },
-    {
-      "id": "mkt:019ecf42-2e29-7dd8-b024-b4d4916152ad",
-      "time": "2026-06-16 15:08:01",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "DXY"
-      ],
-      "text": "Ukraine's President Zelenskiy said Ukrainian forces struck an oil refinery in Moscow."
     }
   ]
 }
