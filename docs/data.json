@@ -1,7 +1,478 @@
 {
-  "updated": "2026-06-24 00:51:53",
-  "count": 17260,
+  "updated": "2026-06-24 01:20:51",
+  "count": 17272,
   "items": [
+    {
+      "id": "mkt:019ef57e-f76a-7dd8-b0e0-ac29fea0b151",
+      "time": "2026-06-24 01:19:59",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI"
+      ],
+      "text": "U.S. President Trump: If Iran wants to cause trouble, then go seek nuclear weapons."
+    },
+    {
+      "id": "4951031",
+      "time": "2026-06-24 01:19:40",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：伊朗面臨糧食短缺、藥品匱乏以及通脹高企等難題。"
+    },
+    {
+      "id": "4951030",
+      "time": "2026-06-24 01:19:19",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國總統特朗普被問及AI對卡車司機們構成的風險，兜售就業資料。"
+    },
+    {
+      "id": "mkt:019ef57d-d9c8-7dd8-b0e0-a51a8c5983fa",
+      "time": "2026-06-24 01:18:46",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "President Trump said he is reaching an agreement with Iran and expects further progress."
+    },
+    {
+      "id": "mkt:019ef57d-60c9-7dd8-b0e0-9e8f6f740381",
+      "time": "2026-06-24 01:18:15",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "Brent",
+        "DXY"
+      ],
+      "text": "President Trump said the immediate priority is ensuring Iran never acquires nuclear weapons."
+    },
+    {
+      "id": "mkt:019ef57c-dace-7dd8-b0e0-9064dfd5f196",
+      "time": "2026-06-24 01:17:40",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Trump on Iran: Iran's claim about IAEA inspections is incorrect. IAEA inspectors will arrive on site at an appropriate time."
+    },
+    {
+      "id": "4951029",
+      "time": "2026-06-24 01:16:48",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普談及伊朗：核查人員將在合適時機赴當地開展核查工作。"
+    },
+    {
+      "id": "mkt:019ef57b-ff4a-7dd8-b0e0-8f0e1484f839",
+      "time": "2026-06-24 01:16:44",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "The Fed accepted $6.484 bln from 10 counterparties in its fixed-rate reverse repo operation."
+    },
+    {
+      "id": "4951028",
+      "time": "2026-06-24 01:16:32",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：伊朗對國際原子能機構核查人員的相關說法是錯誤的。"
+    },
+    {
+      "id": "em:qqyh_mlc:202606243780127028",
+      "time": "2026-06-24 01:16:07",
+      "tags": [
+        "央行",
+        "美聯儲"
+      ],
+      "text": "美聯儲隔夜逆回購協議（RRP）週二使用規模為64.84億美元（交易對手10家），上個交易日報39.25億美元。"
+    },
+    {
+      "id": "4951027",
+      "time": "2026-06-24 01:16:00",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "週二（6月23日），美聯儲隔夜逆回購協議（RRP）使用規模為64.84億美元（交易對手10家），上個交易日報39.25億美元。"
+    },
+    {
+      "id": "4951026",
+      "time": "2026-06-24 01:15:58",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：明日將與共和黨議員商討選民身份核驗法案。"
+    },
+    {
+      "id": "4951025",
+      "time": "2026-06-24 01:15:34",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國總統特朗普抵達雷丁。"
+    },
+    {
+      "id": "4951024",
+      "time": "2026-06-24 01:15:09",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：是否與伊朗達成協議，我們拭目以待。"
+    },
+    {
+      "id": "te:markets:561258",
+      "time": "2026-06-24 01:14:12",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Chip Stocks Hold Selloff — A selloff for heavyweight chip producers pressured US equity indices on Tuesday. The Nasdaq 100 slid 3% and the S&P 500 dropped 1%. AI infrastructure companies, including semiconductor and memory chip producers, tanked on increasing skepticism that AI spending by hyperscalers will not meet returns. On top of that, SK Hynix slowed production of advanced AI chips to boost commodity DRAM capacity, a sign that demand for compute could slow. Micron, Lam Research, Sandisk, and Qualcomm plunged close to 10%, Tesla lost 5%, and Nvidia and Oracle slipped 3.5%. On the same note, SpaceX plunged 16% before rebounding as it issued bonds only one week after its IPO, adding to caution on colossal capital expenditure. Treasury yields remained elevated despite the decline in energy prices following the hawkish dot plot last week, limiting any respite for traditional sectors of the economy. Still, gains for healthcare and consumer defensive companies aided the Dow to hover around the flatline."
+    },
+    {
+      "id": "4951023",
+      "time": "2026-06-24 01:12:32",
+      "tags": [
+        "其他"
+      ],
+      "text": "【C羅連續六屆世界盃進球】美加墨世界盃K組，葡萄牙對陣烏茲別克，C羅搶點破門，攻入個人本屆世界盃首球，連續六屆世界盃進球。"
+    },
+    {
+      "id": "mkt:019ef576-72f2-7dd8-b0e0-850d31d70965",
+      "time": "2026-06-24 01:10:40",
+      "tags": [
+        "MKT News",
+        "Important",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "DXY"
+      ],
+      "text": "【Pezeshkian: Iran–US memorandum does not cover missiles】On the 23rd, while visiting Pakistan, President Pezeshkian said the Iran–US memorandum does not cover missile issues and will not be expanded to do so. He said Iran will never negotiate its defensive capabilities with any party."
+    },
+    {
+      "id": "4951022",
+      "time": "2026-06-24 01:10:16",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗總統：伊美諒解備忘錄不涉及導彈問題】當地時間23日，正在巴基斯坦訪問的伊朗總統佩澤希齊揚在接受採訪時表示，伊美諒解備忘錄中並不包含導彈問題，未來也不會將其納入議題。佩澤希齊揚稱，伊朗永遠不會與任何人協商伊朗方面的防禦能力。巴基斯坦總理夏巴茲·謝里夫表示，某些國家擁有彈道導彈，而伊朗卻被禁止擁有，這種“雙重標準”是不可接受且不合邏輯的。（央視新聞）"
+    },
+    {
+      "id": "mkt:019ef573-d13b-7dd8-b0e0-7f96617f31a3",
+      "time": "2026-06-24 01:07:48",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "【Iran president says without missiles Iran would have been flattened like Gaza】On June 23, during a visit to Pakistan, President PEZESHKIAN said the Iran‑US memorandum of understanding does not cover Iran’s missiles and that Iran will never negotiate its defensive capabilities; he added that without its missiles Iran would have been flattened by the US and Israel like Gaza. Pakistan Prime Minister Shehbaz Sharif said banning Iran from possessing ballistic missiles while other countries have them would be a double standard, calling that unacceptable and illogical."
+    },
+    {
+      "id": "mkt:019ef573-3ee1-7dd8-b0e0-70b32c4fb955",
+      "time": "2026-06-24 01:07:11",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "Market news: ANTHROPIC seeks deeper integration of Claude into Slack chat."
+    },
+    {
+      "id": "4951021",
+      "time": "2026-06-24 01:06:59",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "【伊朗總統稱若無導彈伊朗已成加沙】當地時間6月23日，正在巴基斯坦訪問的伊朗總統佩澤希齊揚在接受採訪時表示，伊美諒解備忘錄中不包含伊朗導彈問題，而且未來也絕不會將此納入談判中。佩澤希齊揚說，“如果不是因為我們的導彈，伊朗早就被美國和以色列夷為平地了，就像巴勒斯坦加沙地帶一樣。伊朗永遠不會與任何人談判我們的防禦能力。”巴基斯坦總理夏巴茲·謝里夫表示，其他國家擁有彈道導彈，伊朗被禁止擁有的話那就是“雙重標準”，這是不可接受且不合邏輯的。（CCTV國際時訊）"
+    },
+    {
+      "id": "4951020",
+      "time": "2026-06-24 01:05:56",
+      "tags": [
+        "市場"
+      ],
+      "text": "彭博美元指數創2025年11月份以來盤中新高。"
+    },
+    {
+      "id": "4951019",
+      "time": "2026-06-24 01:05:33",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【嘉年華郵輪：伊朗戰事衝擊預訂業務，下調業績預期】嘉年華郵輪表示，激烈的地緣衝突打亂了郵輪預訂節奏，燃油成本持續攀升不斷擠壓企業利潤，因此下調了本季度業績預期。上一財季的郵輪預訂業務在歐洲地區受衝擊最為嚴重，地中海航線遭遇的影響尤為突出。公司執行長表示，集團旗下全航線旺盛的出行需求與遊客消費能力，一定程度對沖了地緣衝突帶來的業務負面影響。展望後市，隨著近期國際油價回落，嘉年華預計2026年剩餘運營週期的燃油開支將小幅下行。公司將全年燃油總支出預期從此前的21.5億美元下調至21.2億美元。"
+    },
+    {
+      "id": "4951017",
+      "time": "2026-06-24 01:04:07",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國兩年期國債收益率招標後保持平穩，最新下跌 4.45 個基點，報 4.186%。"
+    },
+    {
+      "id": "4951016",
+      "time": "2026-06-24 01:03:39",
+      "tags": [
+        "公司"
+      ],
+      "text": "Anthropic 釋出公告：面向 Claude 企業版與團隊版客戶，在 Slack 研究預覽渠道推出 Claude 標記功能。"
+    },
+    {
+      "id": "em:qqyh_mlc:202606243780126465",
+      "time": "2026-06-24 01:03:09",
+      "tags": [
+        "央行",
+        "美聯儲"
+      ],
+      "text": "【美國財政部拍賣690億美元兩年期國債】美國財政部拍賣690億美元兩年期國債，得標利率4.189%，投標倍數2.64。"
+    },
+    {
+      "id": "4951015",
+      "time": "2026-06-24 01:02:50",
+      "tags": [
+        "宏觀",
+        "市場",
+        "國際"
+      ],
+      "text": "美國財政部拍賣690億美元兩年期國債，得標利率4.189%，投標倍數2.64。"
+    },
+    {
+      "id": "4951014",
+      "time": "2026-06-24 01:02:40",
+      "tags": [
+        "其他"
+      ],
+      "text": "Anthropic：計劃將 @Claude 呼叫功能拓展至其他產品介面 。輸入 @Claude 進行標記後，系統會將任務拆解為多個步驟，依次分步執行，並呼叫所有可用工具完成處理。可對 @Claude 可訪問的敏感資料及專項任務工具設定極嚴格的許可權範圍。"
+    },
+    {
+      "id": "mkt:019ef56e-de61-7dd8-b0e0-6a0501f34d68",
+      "time": "2026-06-24 01:02:24",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish",
+        "EURUSD"
+      ],
+      "text": "U.S. 2-year Treasury auction to June 23: share of allotment at the stop-out yield 5.66%, prior 42.14%."
+    },
+    {
+      "id": "mkt:019ef56e-c23f-7dd8-b0e0-66d8a1848be5",
+      "time": "2026-06-24 01:02:17",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "DXY",
+        "Impact bullish",
+        "S&P500",
+        "Impact bearish",
+        "US10Y"
+      ],
+      "text": "U.S. 2-year Treasury auction on June 23 — stop-out yield 4.189%, prior 4.07%."
+    },
+    {
+      "id": "mkt:019ef56e-c1b9-7dd8-b0e0-5ba3fa14a0da",
+      "time": "2026-06-24 01:02:16",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y"
+      ],
+      "text": "US 2-year Treasury auction on June 23: bid-cover ratio 2.64; prior 2.64."
+    },
+    {
+      "id": "mkt:019ef56e-984d-7dd8-b0e0-4c56aeaa5e2c",
+      "time": "2026-06-24 01:02:06",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United States | 2-Year Note Auction Bid/Cover Ratio (Jun.23) | actual 2.64 | previous 2.64"
+    },
+    {
+      "id": "mkt:019ef56e-9856-7dd8-b0e0-55f5031c534d",
+      "time": "2026-06-24 01:02:06",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United States | 2-Year Note Auction Accepted at High (Jun.23) | actual 5.66% | previous 42.14%"
+    },
+    {
+      "id": "mkt:019ef56e-9833-7dd8-b0e0-44b211fd7cd1",
+      "time": "2026-06-24 01:02:06",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United States | 2-Year Note Auction High Yield Rate (Jun.23) | actual 4.189% | previous 4.07%"
+    },
+    {
+      "id": "mkt:019ef56e-70a7-7dd8-b0e0-3d2846488055",
+      "time": "2026-06-24 01:01:56",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Industrial Metals",
+        "Copper",
+        "Impact bearish"
+      ],
+      "text": "【Night session main contracts close】As of 01:00 Beijing time, SHFE copper main contract -1.13%, SHFE aluminum -1.47%, SHFE zinc -1.59%, SHFE nickel -2.21%, SHFE tin -4.59%, SHFE lead +0.06%, SHFE stainless steel main contract -1.41%, SHFE alumina +0.17%, international copper main contract -1.30%."
+    },
+    {
+      "id": "4951013",
+      "time": "2026-06-24 01:00:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "【夜盤期貨收盤】國際銅夜盤收跌1.30%，滬銅收跌1.13%，滬鋁收跌1.47%，滬鋅收跌1.59%，滬鉛收漲0.06%，滬鎳收跌2.10%，滬錫收跌4.44%。氧化鋁夜盤收漲0.17%，鋁合金收跌1.07%。不鏽鋼夜盤收跌1.41%。"
+    },
+    {
+      "id": "mkt:019ef56c-3226-7dd8-b0e0-32c459a59a81",
+      "time": "2026-06-24 00:59:29",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "S3 Partners estimates SpaceX short interest at roughly 5–7% of float."
+    },
+    {
+      "id": "4951012",
+      "time": "2026-06-24 00:59:22",
+      "tags": [
+        "其他"
+      ],
+      "text": "S3 Partners 資料：SpaceX 空頭倉位約佔流通股的 5% 至 7%。"
+    },
+    {
+      "id": "mkt:019ef56b-ee74-7dd8-b0e0-2e52904fd972",
+      "time": "2026-06-24 00:59:11",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【US to engage directly with Lebanese government, Rubio says】On June 23, US Secretary of State Rubio said the United States will engage directly with the Lebanese government. Asked about arrangements for the Strait of Hormuz, Rubio said under current international law no country is permitted to levy transit fees or other charges in international waterways, and that specifics will be raised and discussed at an appropriate time."
+    },
+    {
+      "id": "mkt:019ef56b-88fe-7dd8-b0e0-20c90b00bb14",
+      "time": "2026-06-24 00:58:45",
+      "tags": [
+        "MKT News",
+        "SPSC.O",
+        "Impact bullish"
+      ],
+      "text": "Sources say supply-chain software maker SPS Commerce is exploring a sale and has hired Morgan Stanley to advise. SPS Commerce shares were up more than 7%."
+    },
+    {
+      "id": "mkt:019ef56a-a788-7dd8-b0e0-18facba45625",
+      "time": "2026-06-24 00:57:48",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "SpaceX said proceeds will fully repay its bridge loan, with any remaining proceeds used for general corporate purposes."
+    },
+    {
+      "id": "4951011",
+      "time": "2026-06-24 00:57:42",
+      "tags": [
+        "公司"
+      ],
+      "text": "SpaceX ：本次發債所得資金將全額償還公司過橋貸款，剩餘資金用於一般企業經營用途。"
+    },
+    {
+      "id": "4951010",
+      "time": "2026-06-24 00:57:31",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美國務卿：美國將直接與黎巴嫩政府接觸】當地時間6月23日，美國國務卿魯比奧表示，美國將直接與黎巴嫩政府進行接觸。談及霍爾木茲海峽未來安排時，魯比奧表示，沒有任何國家被允許在國際水道上徵收通行費或其他費用，這是現行國際法的規定。對於相關問題的具體處理方式，他表示將在適當時候提出並討論。（央視新聞）"
+    },
+    {
+      "id": "mkt:019ef568-fc4a-7dd8-b0e0-162cf8ed03ed",
+      "time": "2026-06-24 00:55:58",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "ANEC expects Brazil's soybean-meal exports in June to reach 2.47 mln t, up from its prior forecast of 2.24 mln t."
+    },
+    {
+      "id": "mkt:019ef568-c1f7-7dd8-b0e0-080f3a326f55",
+      "time": "2026-06-24 00:55:43",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "ANEC projects Brazil's June soybean exports at 15.21 mln tonnes, down from a prior estimate of 15.31 mln tonnes."
+    },
+    {
+      "id": "mkt:019ef568-7c8c-7dd8-b0e0-05bbfae0152f",
+      "time": "2026-06-24 00:55:25",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "SpaceX filed documents to issue senior unsecured bonds across five maturities: 5-, 7-, 10-, 20- and 30-year; size not disclosed."
+    },
+    {
+      "id": "4951009",
+      "time": "2026-06-24 00:55:08",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：SpaceX 提交發行申請，擬推出期限 5 年、7 年、10 年、20 年及 30 年期高階無擔保債券。"
+    },
+    {
+      "id": "mkt:019ef567-811e-7dd8-b0df-fba8f5172cbc",
+      "time": "2026-06-24 00:54:21",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "【Mexico and Brazil to cooperate on oil exploration and refining projects】Mexico's Pemex and Brazil's Petrobras said their CEOs signed a non-binding memorandum of understanding in Rio de Janeiro to cooperate on exploration, production and refining to help expand oil reserves. The agreement covers Gulf of Mexico shallow- and deep-water exploration and cooperation on refining, natural gas, petrochemicals and related areas."
+    },
+    {
+      "id": "mkt:019ef565-e5f3-7dd8-b0df-f04582991a45",
+      "time": "2026-06-24 00:52:36",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Tesla",
+        "Market Themes",
+        "Magnificent 7",
+        "TSLA.O",
+        "Impact bullish"
+      ],
+      "text": "【Baird: Tesla–SpaceX merger likely within 12–18 months; Tesla Q2 deliveries 392,900, 2026 deliveries 1.68m, PT $522】Baird analyst Ben Kallo forecasts Tesla will deliver 392,900 vehicles in Q2 and 1.68m vehicles in 2026. He says a Tesla–SpaceX merger is \"very likely\" and could occur within 12–18 months, describing the combination as the \"ultimate direction\" and \"clear and compelling\" with scale benefits for both companies. Kallo reiterates an Outperform rating on Tesla and a $522 price target."
+    },
+    {
+      "id": "4951008",
+      "time": "2026-06-24 00:52:22",
+      "tags": [
+        "其他"
+      ],
+      "text": "LME期銅收跌278美元，報13371美元/噸。LME期鋁收跌132美元，報3232美元/噸。LME期鋅收跌116美元，報3492美元/噸。LME期鉛收跌30美元，報1934美元/噸。LME期鎳收跌582美元，報17172美元/噸。LME期錫收跌3031美元，報51154美元/噸。LME期鈷收平，報56290美元/噸。"
+    },
     {
       "id": "4951007",
       "time": "2026-06-24 00:49:39",
@@ -157787,372 +158258,6 @@
         "國際"
       ],
       "text": "埃及總統塞西周二在法國出席G7峰會期間，敦促以色列放棄控制加沙地帶70%區域的計劃。"
-    },
-    {
-      "id": "4939233",
-      "time": "2026-06-17 01:20:43",
-      "tags": [
-        "國際"
-      ],
-      "text": "俄羅斯國防部：俄羅斯護衛艦多次嘗試與該遊艇取得聯絡，但未獲回應。"
-    },
-    {
-      "id": "4939232",
-      "time": "2026-06-17 01:20:02",
-      "tags": [
-        "國際"
-      ],
-      "text": "俄羅斯國防部：6月16日，俄羅斯護衛艦“格里戈羅維奇海軍上將”號在英吉利海峽發現一艘懸掛英國國旗的遊艇，該遊艇正以危險航向靠近這艘俄軍艦。"
-    },
-    {
-      "id": "4939231",
-      "time": "2026-06-17 01:19:03",
-      "tags": [
-        "國際"
-      ],
-      "text": "德國總理默茨：我們已聯合澤連斯基告知特朗普，我方願意開啟和平談判，但談判必須在合適的契機下啟動。 俄方要求烏克蘭放棄頓巴斯現有控制區，這一點我們無法接受。"
-    },
-    {
-      "id": "mkt:019ed170-3738-7dd8-b038-0873c9602813",
-      "time": "2026-06-17 01:17:32",
-      "tags": [
-        "MKT News",
-        "MRNA.O",
-        "Impact bullish"
-      ],
-      "text": "Moderna (MRNA.O) shares rose more than 8% after the FDA said data on Moderna’s influenza vaccine may support its use in older adults."
-    },
-    {
-      "id": "4939230",
-      "time": "2026-06-17 01:16:56",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "美國食品藥品監督管理局稱莫德納新冠流感聯合疫苗資料或支援其用於老年人後，莫德納股價上漲8.6%。"
-    },
-    {
-      "id": "4939229",
-      "time": "2026-06-17 01:16:27",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "週二（6月16日），美聯儲隔夜逆回購協議（RRP）使用規模為107.21億美元（交易對手5家），上個交易日報5.81億美元。"
-    },
-    {
-      "id": "mkt:019ed16f-32c9-7dd8-b038-04191efd6fe9",
-      "time": "2026-06-17 01:16:26",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)"
-      ],
-      "text": "The Fed accepted $10.721 billion from five counterparties in its fixed-rate reverse repo operation."
-    },
-    {
-      "id": "mkt:019ed16e-1876-7dd8-b037-fc05cfed49e9",
-      "time": "2026-06-17 01:15:13",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Industrial Metals",
-        "Market Regions",
-        "Emerging Markets",
-        "Copper",
-        "Impact bullish"
-      ],
-      "text": "Argentina's economy minister said the Vicuna copper mine project, valued at $9.7 billion, was approved under the RIGI investment program."
-    },
-    {
-      "id": "mkt:019ed16b-7758-7dd8-b037-f3e687ac7be3",
-      "time": "2026-06-17 01:12:21",
-      "tags": [
-        "MKT News",
-        "SNAP.N"
-      ],
-      "text": "Snap Inc (SNAP.N) reversed course and was trading down 2.8%."
-    },
-    {
-      "id": "4939228",
-      "time": "2026-06-17 01:12:20",
-      "tags": [
-        "市場"
-      ],
-      "text": "Snap股價走勢反轉，最新下跌2.8%。"
-    },
-    {
-      "id": "4939227",
-      "time": "2026-06-17 01:10:32",
-      "tags": [
-        "其他"
-      ],
-      "text": "高通推出驍龍啟航專案。"
-    },
-    {
-      "id": "4939226",
-      "time": "2026-06-17 01:09:32",
-      "tags": [
-        "國際"
-      ],
-      "text": "德國總理默茨談及美伊協議： 從伊朗釋放的所有訊號都能看出，伊朗也會接受這份協議，在美國佔據絕對軍事優勢的局面下，它根本別無選擇。 我昨晚已向特朗普總統表明，從這件事就能看出，強大的軍事實力同樣能夠促成外交層面的解決方案。倘若這套邏輯同樣適用於烏克蘭局勢，那麼全球兩處關鍵衝突地區或許都能更快迎來和平。"
-    },
-    {
-      "id": "4939225",
-      "time": "2026-06-17 01:07:18",
-      "tags": [
-        "其他"
-      ],
-      "text": "沙特王儲主持內閣會議，重申恢復霍爾木茲海峽通航自由、使其迴歸戰前常態的重要性。"
-    },
-    {
-      "id": "mkt:019ed166-c8b3-7dd8-b037-ecaaa5c38af8",
-      "time": "2026-06-17 01:07:14",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy"
-      ],
-      "text": "The Saudi cabinet reiterated the importance of restoring freedom of navigation in the Strait of Hormuz and called for its return to pre-war status."
-    },
-    {
-      "id": "mkt:019ed166-0b24-7dd8-b037-e5675360b8f2",
-      "time": "2026-06-17 01:06:26",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "Treasury Yields",
-        "US10Y",
-        "Impact bullish",
-        "DXY",
-        "Impact bearish",
-        "S&P500"
-      ],
-      "text": "US 20-year Treasury yield dipped slightly after auction results, last at 4.93%."
-    },
-    {
-      "id": "4939224",
-      "time": "2026-06-17 01:06:07",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "美國20年期國債收益率在拍賣後小幅走低；最新報4.93%，下跌0.5個基點。"
-    },
-    {
-      "id": "4939223",
-      "time": "2026-06-17 01:02:52",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國20年期美債中標收益率4.927%，發行前預發行收益率為4.937%。"
-    },
-    {
-      "id": "4939222",
-      "time": "2026-06-17 01:02:38",
-      "tags": [
-        "宏觀",
-        "市場",
-        "國際"
-      ],
-      "text": "美國財政部拍賣130億美元20年期國債，得標利率4.927%，投標倍數2.75。"
-    },
-    {
-      "id": "mkt:019ed162-3262-7dd8-b037-deaa352cc41e",
-      "time": "2026-06-17 01:02:13",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "Treasury Yields",
-        "US10Y",
-        "Impact bearish"
-      ],
-      "text": "U.S. 20-year Treasury auction on June 16 bid-cover ratio 2.75; prior 2.55."
-    },
-    {
-      "id": "mkt:019ed162-324f-7dd8-b037-d5eef8691631",
-      "time": "2026-06-17 01:02:13",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "Treasury Yields",
-        "US10Y",
-        "Impact bearish",
-        "DXY",
-        "Impact bullish",
-        "S&P500"
-      ],
-      "text": "U.S. 20-year Treasury auction on June 16: 56.57% of the award was allocated at the stop-out yield, versus 1.67% previously."
-    },
-    {
-      "id": "mkt:019ed162-2352-7dd8-b037-cd52efd21e0c",
-      "time": "2026-06-17 01:02:10",
-      "tags": [
-        "MKT News",
-        "US10Y",
-        "Impact bullish",
-        "S&P500"
-      ],
-      "text": "U.S. 20-year Treasury auction on June 16: stop-out yield 4.927% vs 5.12% previously."
-    },
-    {
-      "id": "4939221",
-      "time": "2026-06-17 01:02:08",
-      "tags": [
-        "其他"
-      ],
-      "text": "洛克希德·馬丁：通用汽車防務部門總裁表示，未來數週內，雙方將協同梳理首批聯合推進專案。"
-    },
-    {
-      "id": "mkt:019ed162-0b9e-7dd8-b037-b92e6faa2241",
-      "time": "2026-06-17 01:02:04",
-      "tags": [
-        "MKT News",
-        "Economic Calendar"
-      ],
-      "text": "United States | 20-Year Bond Auction Bid/Cover Ratio (Jun.16) | actual 2.75 | previous 2.55"
-    },
-    {
-      "id": "mkt:019ed162-0bf4-7dd8-b037-c015b751ee44",
-      "time": "2026-06-17 01:02:04",
-      "tags": [
-        "MKT News",
-        "Economic Calendar"
-      ],
-      "text": "United States | 20-Year Bond Auction Accepted at High (Jun.16) | actual 56.57% | previous 1.67%"
-    },
-    {
-      "id": "mkt:019ed162-0b9b-7dd8-b037-b2d17f8d4943",
-      "time": "2026-06-17 01:02:04",
-      "tags": [
-        "MKT News",
-        "Economic Calendar"
-      ],
-      "text": "United States | 20-Year Bond Auction High Yield Rate (Jun.16) | actual 4.927% | previous 5.12%"
-    },
-    {
-      "id": "mkt:019ed161-64a7-7dd8-b037-a8e2dbbd3515",
-      "time": "2026-06-17 01:01:21",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "DR Congo reports 837 confirmed Ebola cases, including 196 deaths."
-    },
-    {
-      "id": "4939220",
-      "time": "2026-06-17 01:00:58",
-      "tags": [
-        "其他"
-      ],
-      "text": "剛果表示，埃博拉確診病例數升至837例，其中包括196例死亡病例。"
-    },
-    {
-      "id": "te:economy:559432",
-      "time": "2026-06-17 01:00:37",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Paraguay",
-        "Consumer Confidence",
-        "Importance 0"
-      ],
-      "text": "Paraguay Consumer Confidence Weakens in May — Paraguay’s Consumer Confidence Index fell to 38.21 in May 2026 from 40.17 in April, remaining below the neutral threshold. The Economic Situation Index declined by 2.29 points from the previous month to 27.04, reflecting weaker assessments of current conditions. Meanwhile, the Economic Expectations Index eased by 1.62 points to 49.38. Regarding saving intentions, 11.0% of respondents reported being willing to save, down 4.5 percentage points from April. Willingness to purchase durable goods weakened across all categories, with the exception of household appliances, which remained unchanged."
-    },
-    {
-      "id": "4939219",
-      "time": "2026-06-17 01:00:02",
-      "tags": [
-        "市場"
-      ],
-      "text": "【夜盤期貨收盤】國際銅夜盤收漲0.24%，滬銅收漲0.23%，滬鋁收漲0.27%，滬鋅收跌0.40%，滬鉛收漲0.77%，滬鎳收漲0.07%，滬錫收跌0.53%。氧化鋁夜盤收漲0.73%，鋁合金收漲0.39%。不鏽鋼夜盤收漲0.80%。"
-    },
-    {
-      "id": "te:markets:559429",
-      "time": "2026-06-17 00:59:38",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 0"
-      ],
-      "text": "Brent Crude Falls to 3-Month Low — Brent crude prices fell over 5% to below $80 per barrel on Tuesday, the lowest since the first week of March, erasing the bulk of the surge from the conflict in the Middle East amid expectations that exports from GCC countries will be restored imminently. The US and Iran continued to signal they will sign a memorandum of understanding this Friday. The deal reportedly has both countries allowing tankers to cross the Strait of Hormuz upon the agreement, with the US unopposed of Tehran deploying tankers immediately. The fresh supply from the region is due to replenish refineries across the globe with the higher export quotas from OPEC+ and higher output from the UAE, which left the cartel during the conflict. The US Strategic Petroleum Reserves had fallen to a 43-year low. In turn, Iranian output will likely refill Chinese oil stockpiles, which were depleted in the last months as the world's largest importer refrained from purchasing oil to prop up prices further."
-    },
-    {
-      "id": "mkt:019ed15f-c9a0-7dd8-b037-a5f6d18f694e",
-      "time": "2026-06-17 00:59:36",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "【U.S. intelligence: Iran retains ability to again close Strait of Hormuz】A U.S. intelligence assessment says Iran retains the ability to again close the Strait of Hormuz after demonstrating related capabilities during the conflict. The assessment expects an agreement to reopen the waterway, but Tehran still fields missiles, drones, fast boats and sea mines that could disrupt global energy shipments. Intelligence officials say Iran has gained leverage over the route and could use regional energy infrastructure as a pressure tool."
-    },
-    {
-      "id": "te:markets:559427",
-      "time": "2026-06-17 00:56:32",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 3"
-      ],
-      "text": "Crude Oil Extends Plunge on Deal Hopes — Crude oil prices fell over 6% to $75.5 per barrel on Tuesday, the lowest since the first week of March, erasing the bulk of the surge from the conflict in the Middle East amid expectations that exports from GCC countries will be restored imminently. The US and Iran continued to signal they will sign a memorandum of understanding this Friday. The deal reportedly has both countries allowing tankers to cross the Strait of Hormuz upon the agreement, with the US unopposed of Tehran deploying tankers immediately. The fresh supply from the region is due to replenish refineries across the globe with the higher export quotas from OPEC+ and higher output from the UAE, which left the cartel during the conflict. The US Strategic Petroleum Reserves had fallen to a 43-year low. In turn, Iranian output will likely refill Chinese oil stockpiles, which were depleted in the last months as the world's largest importer refrained from purchasing oil to prop up prices further."
-    },
-    {
-      "id": "4939218",
-      "time": "2026-06-17 00:54:50",
-      "tags": [
-        "國際"
-      ],
-      "text": "一架烏克蘭軍用飛機（據稱是米格-29戰鬥機）在烏克蘭赫梅利尼茨基州墜毀。 事故原因及飛行員狀況相關細節尚未得到證實。"
-    },
-    {
-      "id": "mkt:019ed15b-3cb9-7dd8-b037-9edaa8f58a5e",
-      "time": "2026-06-17 00:54:37",
-      "tags": [
-        "MKT News",
-        "SNAP.N",
-        "Impact bullish"
-      ],
-      "text": "Snap (SNAP.N) shares rose more than 2% after the company launched AR glasses priced at $2,195."
-    },
-    {
-      "id": "4939217",
-      "time": "2026-06-17 00:54:08",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "Snap股價上漲2.2%，此前該公司推出售價2195美元的增強現實眼鏡Specs。"
-    },
-    {
-      "id": "mkt:019ed15a-b44f-7dd8-b037-9343c2c0a0e5",
-      "time": "2026-06-17 00:54:02",
-      "tags": [
-        "MKT News",
-        "RIVN.O"
-      ],
-      "text": "Rivian (RIVN.O) will cut under 2% of its workforce, a company spokesperson said."
-    },
-    {
-      "id": "4939216",
-      "time": "2026-06-17 00:53:32",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國駐以色列大使邁克·哈克比表示，國務卿魯比奧已明確真主黨不在美伊協議相關範疇內，以色列無需獲得德黑蘭許可即可開展自衛行動。"
-    },
-    {
-      "id": "4939215",
-      "time": "2026-06-17 00:53:04",
-      "tags": [
-        "公司"
-      ],
-      "text": "Rivian發言人：公司將裁員約2%。"
     }
   ]
 }
