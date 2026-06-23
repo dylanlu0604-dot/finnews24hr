@@ -1,7 +1,35 @@
 {
-  "updated": "2026-06-24 04:13:33",
-  "count": 17292,
+  "updated": "2026-06-24 04:17:36",
+  "count": 17294,
   "items": [
+    {
+      "id": "te:markets:561269",
+      "time": "2026-06-24 04:15:13",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Canada",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "TSX Slips on Global Tech Selloff — The S&P/TSX Composite Index fell 0.2% to close at 34,927 on Tuesday, tracking global equities amid a broad selloff in technology stocks and persistent concerns over elevated interest rates. Worries that speculative AI spending by hyperscalers may be running ahead of fundamentals weighed on North American tech shares and hurt overall risk appetite. Celestica plunged 6.2%, leading losses in the tech sector. Gold prices also declined, extending pressure on mining stocks following the hawkish projections from the US Federal Reserve last week. Agnico Eagle shed 3.5%, Barrick lost 4.7%, and WPM dropped 4.1%. Meanwhile, oil prices fell for a second straight session as supply concerns eased amid progress in restoring shipments through the Strait of Hormuz, reducing fears of energy-driven inflation but weighing on energy shares."
+    },
+    {
+      "id": "4951124",
+      "time": "2026-06-24 04:14:53",
+      "tags": [
+        "公司"
+      ],
+      "text": "黑石集團預計2026年第二季度已實現業績收入及主體投資收益將超5億美元。"
+    },
+    {
+      "id": "4951123",
+      "time": "2026-06-24 04:14:37",
+      "tags": [
+        "市場"
+      ],
+      "text": "聯邦快遞股價盤後交易跌3.6%。"
+    },
     {
       "id": "4951122",
       "time": "2026-06-24 04:12:56",
@@ -158474,18 +158502,6 @@
         "Important"
       ],
       "text": "U.S. API weekly crude inventories for the week to June 12 due in 10 minutes."
-    },
-    {
-      "id": "te:markets:559439",
-      "time": "2026-06-17 04:15:21",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Stock Market",
-        "Importance 2"
-      ],
-      "text": "US Stock Market Closes Mixed — US equities closed mixed on Tuesday amid a pullback in AI-related stocks. The S&P 500 lost 0.6%, while weakness in technology shares drove the Nasdaq down 1.9%. Investors took profits in semiconductor names after their recent rally, with Nvidia (-2%), Broadcom (-4.2%), Micron (-5.6%), AMD (-6.8%), and Intel (-7.9%) all posting losses. In contrast, SpaceX gained 4.8%, extending its advance since Friday's IPO, after reports that it would acquire Cursor for $60 billion. Meanwhile, the Dow Jones rose 0.6%, supported by optimism surrounding the preliminary US-Iran agreement. Both countries are expected to sign the deal on Friday, with US officials stating that the Strait of Hormuz will reopen. Bond yields continued to ease as lower oil prices softened inflation concerns ahead of the Fed's expected rate hold on Wednesday, although Chairman Warsh is still expected to advocate changes to the monetary framework and a smaller balance sheet. JPMorgan rose 3.7%, while Visa gained 2.8%."
     }
   ]
 }
