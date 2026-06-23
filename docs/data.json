@@ -1,7 +1,147 @@
 {
-  "updated": "2026-06-24 07:50:06",
-  "count": 17352,
+  "updated": "2026-06-24 07:53:58",
+  "count": 17350,
   "items": [
+    {
+      "id": "mkt:019ef6e7-5a6c-7dd8-b0e5-1cd2e045cfbe",
+      "time": "2026-06-24 07:53:37",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Bank of Japan June policy meeting summary: Even if the BOJ raises rates in June, it should remain positioned for further rate hikes, provided economic and price developments align with expectations."
+    },
+    {
+      "id": "4951295",
+      "time": "2026-06-24 07:53:15",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "日本央行意見摘要：一位委員表示，必須儘快將日本央行的政策利率上調至更接近中性利率的水平。"
+    },
+    {
+      "id": "mkt:019ef6e6-fdf5-7dd8-b0e5-12666887095a",
+      "time": "2026-06-24 07:53:13",
+      "tags": [
+        "MKT News",
+        "USDJPY",
+        "Impact bearish"
+      ],
+      "text": "Bank of Japan June policy meeting minutes: one member said that as exchange-rate volatility pushes up import prices, adjusting the degree of monetary support has become a more appropriate option."
+    },
+    {
+      "id": "4951294",
+      "time": "2026-06-24 07:53:07",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國財長貝森特：我們已告訴伊朗人我們想要一個“大協議”。"
+    },
+    {
+      "id": "mkt:019ef6e6-a528-7dd8-b0e5-0c86a1bed9c7",
+      "time": "2026-06-24 07:52:51",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Bank of Japan June policy meeting summary: Japan's economy has shown a moderate recovery, though some sectors remain weak, partly affected by the Middle East situation."
+    },
+    {
+      "id": "4951293",
+      "time": "2026-06-24 07:52:42",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "日本央行會議紀要：即便在6月加息後，若經濟與物價走勢符合預期，央行仍須維持進一步加息的立場。"
+    },
+    {
+      "id": "4951292",
+      "time": "2026-06-24 07:52:33",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "日本央行會議紀要：一名委員認為，由於當前金融環境仍處於寬鬆狀態，適宜繼續加息。"
+    },
+    {
+      "id": "4951291",
+      "time": "2026-06-24 07:52:00",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "日本央行6月會議意見摘要：一位委員表示，由於匯率波動推高進口價格，調整貨幣支援力度已變得更加合適。"
+    },
+    {
+      "id": "4951290",
+      "time": "2026-06-24 07:51:20",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【油價下跌，受中東供應干擾進一步緩解跡象影響】亞洲早盤油價下跌，受中東供應干擾進一步緩解的跡象影響。澳新銀行研究部分析師在一份研究報告中說：“油輪在透過霍爾木茲海峽時變得更加公開。“這些分析師說：“國際海事組織表示，已獲得安全保證，允許數百艘船隻駛出波斯灣。“這些分析師補充說：“該計劃將與伊朗、阿曼和美國合作執行。“霍爾木茲海峽是一條關鍵水道，全球五分之一的石油通常透過該水道運輸。近月西得州中質油期貨下跌0.4%，報每桶72.89美元。"
+    },
+    {
+      "id": "mkt:019ef6e4-88ea-7dd8-b0e5-023cc08f48be",
+      "time": "2026-06-24 07:50:32",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bearish",
+        "DXY",
+        "EURUSD",
+        "Impact bullish"
+      ],
+      "text": "Japan May corporate services price index YoY 3.3% (prior 3.0%)."
+    },
+    {
+      "id": "mkt:019ef6e4-7dfd-7dd8-b0e4-ff828519b983",
+      "time": "2026-06-24 07:50:30",
+      "tags": [
+        "MKT News",
+        "USDJPY"
+      ],
+      "text": "Japan corporate services price index MoM 0.0% in May, down from 0.5% in April."
+    },
+    {
+      "id": "mkt:019ef6e4-6a73-7dd8-b0e4-f29619900378",
+      "time": "2026-06-24 07:50:24",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Japan | Services Producer Price Index (All items) (YoY) (May) | actual 3.3% | previous 3.00%"
+    },
+    {
+      "id": "mkt:019ef6e4-5b37-7dd8-b0e4-ed64f435bd75",
+      "time": "2026-06-24 07:50:21",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Japan | Services Producer Price Index (All items) (MoM) (May) | actual 0% | previous 0.5%"
+    },
+    {
+      "id": "4951289",
+      "time": "2026-06-24 07:50:17",
+      "tags": [
+        "其他"
+      ],
+      "text": "古茗控股：擬將發債所得款項淨額用於採購鮮果等原材料及其他用途。"
+    },
+    {
+      "id": "4951288",
+      "time": "2026-06-24 07:50:00",
+      "tags": [
+        "公司"
+      ],
+      "text": "古茗控股有限公司：擬發行19.6億港元零息有擔保可轉換債券並同步進行股份回購。"
+    },
     {
       "id": "4951287",
       "time": "2026-06-24 07:49:24",
@@ -158768,193 +158908,6 @@
         "Impact bearish"
       ],
       "text": "Japan's Finance Ministry said exports to the EU rose 14.5% year-on-year in May."
-    },
-    {
-      "id": "4939448",
-      "time": "2026-06-17 07:53:09",
-      "tags": [
-        "觀點"
-      ],
-      "text": "【中信建投：當前房地產市場築底訊號明確，供給端延續提質縮量態勢】中信建投研報稱，當前房地產市場築底訊號明確，一線城市率先量價企穩回升，二手房活躍度顯著高於新房，成為全國回暖標杆，但三四線城市仍深陷庫存高企、價格陰跌的困境。供給端延續提質縮量態勢，土地供應與新開工面積持續下滑，未來新房供應收縮將加速供需平衡，保障房建設穩步推進但仍面臨資金、土地等堵點。資金端行業融資規模創歷史同期新低，央國企與民企融資成本差距拉大，居民加槓桿意願持續低迷成為市場修復的主要制約。風險化解取得決定性進展，保交樓任務基本完成，房企債務違約進入重組末期，增量風險基本出清。長期來看，人口總量見頂推動行業從增量擴張轉向存量博弈，市場保障雙軌制新模式加速構建，政策將堅持“一城一策”，一線城市仍有鬆綁空間。"
-    },
-    {
-      "id": "mkt:019ed2da-20ea-7dd8-b03b-b3032854e414",
-      "time": "2026-06-17 07:52:51",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC",
-        "USDJPY",
-        "Impact bearish",
-        "Nikkei 225",
-        "Impact bullish"
-      ],
-      "text": "Japan's Ministry of Finance said exports to the U.S. in May rose 12.5% YoY."
-    },
-    {
-      "id": "te:markets:559464",
-      "time": "2026-06-17 07:52:36",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Stock Market",
-        "Importance 2"
-      ],
-      "text": "US Futures Steady Ahead of Fed Decision — US stock futures stabilized on Wednesday as investors prepared for the upcoming Federal Reserve policy decision, where it is widely expected to keep interest rates unchanged. On the economic front, markets will monitor retail sales and pending home sales data, while earnings reports from CarMax and Jabil are also due. In regular trading on Tuesday, the Dow gained 0.64%, whereas the S&P 500 and Nasdaq Composite fell 0.57% and 1.15%, respectively. Technology shares came under pressure as investors locked in profits following a strong rally in semiconductor stocks, with Nvidia (-2.4%), Broadcom (-4.4%), Micron (-6.2%), AMD (-7.3%), and Intel (-8.5%) posting notable declines. Meanwhile, SpaceX advanced 4.8%, extending gains since its IPO on Friday, amid reports that the company plans to acquire Cursor in a deal valued at $60 billion."
-    },
-    {
-      "id": "4939447",
-      "time": "2026-06-17 07:52:30",
-      "tags": [
-        "觀點",
-        "央行",
-        "國際"
-      ],
-      "text": "【華泰證券：預計日本央行年內再加息1次】華泰證券研報稱，6月16日，日本央行上調25個基點至1%，符合市場預期。往前看，預計日央行年內再加息1次，隨著日元持續貶值，日本當局可能再度干預日元。慢加息+匯率干預的政策組合或扭曲日元資產價格。"
-    },
-    {
-      "id": "4939446",
-      "time": "2026-06-17 07:52:27",
-      "tags": [
-        "國際"
-      ],
-      "text": "【日本4月核心機械品訂單較上年同期增加15.6%】據日本內閣府釋出的資料，日本4月核心機械品訂單較上年同期增加15.6%，預估為增加8.7%；日本4月核心機械品訂單較上月增加8.7%，預期增加0.9%。"
-    },
-    {
-      "id": "mkt:019ed2d9-1b9e-7dd8-b03b-abdd32e277dd",
-      "time": "2026-06-17 07:51:44",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "Japanese Ministry of Finance: May crude oil imports down 57.3% YoY; LNG imports down 15.1% YoY to 3.96 mln tonnes."
-    },
-    {
-      "id": "4939445",
-      "time": "2026-06-17 07:51:30",
-      "tags": [
-        "國際"
-      ],
-      "text": "日本財務省資料顯示：5月日本對歐盟出口同比增長14.5%，對亞洲出口同比增長19.5%。日本5月對美出口同比增長12.5%，對華出口同比增長17.9%。"
-    },
-    {
-      "id": "4939444",
-      "time": "2026-06-17 07:50:52",
-      "tags": [
-        "國際"
-      ],
-      "text": "日本財務省（MOF）資料顯示，日本5月動力煤進口量同比增長14.1%，至660.1萬噸。5月日本液化天然氣進口量同比下降15.1%，至396萬噸。"
-    },
-    {
-      "id": "mkt:019ed2d8-4176-7dd8-b03b-a07fa1a3ac6e",
-      "time": "2026-06-17 07:50:48",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC",
-        "USDJPY",
-        "Impact bearish",
-        "DXY"
-      ],
-      "text": "Japan May seasonally adjusted merchandise trade balance: -¥90.4bn, expected -¥207.0bn, prior +¥236.4bn."
-    },
-    {
-      "id": "mkt:019ed2d8-167e-7dd8-b03b-9c32db0583b7",
-      "time": "2026-06-17 07:50:37",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "Japan | Adjusted Merchandise Trade Balance (May) | actual -90401000000B | consensus -207000000000B | previous 236400000000B"
-    },
-    {
-      "id": "4939443",
-      "time": "2026-06-17 07:50:34",
-      "tags": [
-        "國際"
-      ],
-      "text": "日本財務省公佈，5月原油進口量初步資料同比下降57.3%。"
-    },
-    {
-      "id": "4939442",
-      "time": "2026-06-17 07:50:18",
-      "tags": [
-        "國際"
-      ],
-      "text": "日本5月份出口同比增長17.0%，預估為16.5%。日本5月份進口同比增長12.5%，預估為12.8%。"
-    },
-    {
-      "id": "mkt:019ed2d7-befd-7dd8-b03b-92401d4cc261",
-      "time": "2026-06-17 07:50:14",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC",
-        "USDJPY",
-        "Impact bearish",
-        "Nikkei 225",
-        "Impact bullish",
-        "DXY"
-      ],
-      "text": "Japan April core machine orders +8.7% MoM vs 0.9% expected; March -9.4%."
-    },
-    {
-      "id": "mkt:019ed2d7-bcbb-7dd8-b03b-8aff508aca95",
-      "time": "2026-06-17 07:50:14",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC",
-        "USDJPY",
-        "Impact bearish",
-        "Nikkei 225",
-        "Impact bullish"
-      ],
-      "text": "Japan April core machinery orders YoY 15.6% (consensus 9.3%; prior 5.9%)."
-    },
-    {
-      "id": "mkt:019ed2d7-adce-7dd8-b03b-83f762d2aa5a",
-      "time": "2026-06-17 07:50:10",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC",
-        "USDJPY",
-        "Impact bearish",
-        "Nikkei 225",
-        "Impact bullish",
-        "DXY"
-      ],
-      "text": "Japan merchandise exports rose 17.0% YoY in May, versus 16.5% expected and 14.8% previously."
-    },
-    {
-      "id": "mkt:019ed2d7-acb8-7dd8-b03b-7a1233027c2f",
-      "time": "2026-06-17 07:50:10",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC",
-        "USDJPY",
-        "Impact bearish",
-        "DXY",
-        "Nikkei 225",
-        "Impact bullish"
-      ],
-      "text": "Japan May goods trade balance, not seasonally adjusted: -¥378.7 billion vs -¥547.6 billion expected; April surplus revised to ¥299.3 billion from ¥301.9 billion."
-    },
-    {
-      "id": "mkt:019ed2d7-ac44-7dd8-b03b-71b52aebb19e",
-      "time": "2026-06-17 07:50:10",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC"
-      ],
-      "text": "Japan May merchandise imports YoY 12.5% (expected 12.8%); April revised to 9.8% from 9.7%."
     }
   ]
 }
