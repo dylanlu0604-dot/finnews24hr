@@ -1,7 +1,58 @@
 {
-  "updated": "2026-06-24 06:32:54",
-  "count": 17366,
+  "updated": "2026-06-24 06:36:56",
+  "count": 17365,
   "items": [
+    {
+      "id": "te:markets:561277",
+      "time": "2026-06-24 06:35:11",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Metals Commodities Updates: Silver Tumbles by 5.39% — Top commodity losers are Silver (-5.39%), Copper (-3.79%) and Gold (-2.16%). Gains are led by Lithium Carbonate (0.96%)."
+    },
+    {
+      "id": "mkt:019ef69f-07ee-7dd8-b0e4-956a001b0753",
+      "time": "2026-06-24 06:34:37",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "Spot gold slipped below $4,100/oz, down 0.24% intraday."
+    },
+    {
+      "id": "4951217",
+      "time": "2026-06-24 06:34:05",
+      "tags": [
+        "其他"
+      ],
+      "text": "德國擬取消建造二戰以來最大軍艦的計劃。"
+    },
+    {
+      "id": "mkt:019ef69e-70ca-7dd8-b0e4-8e31262f2e1b",
+      "time": "2026-06-24 06:33:59",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "PETR4.SA",
+        "Impact bullish"
+      ],
+      "text": "Petrobras CEO said production from January through May rose 10% year-on-year."
+    },
+    {
+      "id": "mkt:019ef69e-0854-7dd8-b0e4-81da1c8e0825",
+      "time": "2026-06-24 06:33:32",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "According to the Financial Times, Germany plans to cancel construction of its largest warship since World War II."
+    },
     {
       "id": "4951216",
       "time": "2026-06-24 06:31:08",
@@ -159077,67 +159128,6 @@
         "Importance 1"
       ],
       "text": "Agricultural Commodities Updates: Cocoa Spikes by 6.47% — Top commodity gainers are Cocoa (6.47%), Coffee (5.54%) and Palm Oil (1.98%). Biggest losers are Rapeseed (-1.12%) and Canola (-0.82%)."
-    },
-    {
-      "id": "4939368",
-      "time": "2026-06-17 06:36:38",
-      "tags": [
-        "央行",
-        "市場"
-      ],
-      "text": "【境外投資者重返中國債市】央行上海總部資料顯示，截至5月末，境外機構持有銀行間市場債券3.21萬億元，環比增長0.09萬億元，為2025年4月末以來首次增持。國家外匯管理局資料顯示，5月外資總體淨買入境內股票和債券。（上證報）"
-    },
-    {
-      "id": "4939367",
-      "time": "2026-06-17 06:36:24",
-      "tags": [
-        "公司"
-      ],
-      "text": "【KBRA旗下指數顯示私募信貸違約率追平2023年高點】Kroll Bond Rating Agency LLC旗下指數顯示，私募信貸借款人的違約率已升至該指數約三年曆史以來的最高水平，再次凸顯這一規模達1.8萬億美元行業面臨的壓力。這家評級與分析公司的資料顯示，截至週一，KBRA DLD Direct Lending指數的12個月滾動違約率升至2.3%，追平了該指數創立以來的最高水平。該公司預計違約率將繼續上升，到2026年底將達到3.5%，約對應111家發行人違約。該指數於2023年12月推出時的發行人違約率也為2.3%。這項指數包含約3000家發行人，涉及商業發展公司資產規模達3000億美元。按貸款規模計算，KBRA DLD預計2026年該指數中將有2.5%的貸款發生違約，高於2025年的1.4%。這意味著今年的違約貸款金額將達到76億美元，高於2025年的43億美元。"
-    },
-    {
-      "id": "4939366",
-      "time": "2026-06-17 06:35:50",
-      "tags": [
-        "資料",
-        "央行",
-        "國際"
-      ],
-      "text": "【週三重要財經資訊提醒（以下均為北京時間）】\n① 07:50 日本4月核心機械訂單，5月進出口、商品貿易帳；\n② 時間待定 2026陸家嘴論壇開幕（為期兩天）；\n③ 09:30 澳洲聯儲負責金融系統的助理主席Jones講話；\n④ 時間待定 歐洲最大的科技活動VivaTech 2026開幕；\n⑤ 14:00 英國5月CPI，歐洲央行管委Simkus遞交立陶宛經濟預期並講話；\n⑥ 17:00 歐元區5月CPI終值；\n⑦ 20:30 美國5月零售銷售；\n⑧ 21:00 歐洲央行管理委員會成員兼荷蘭央行行長Olaf Sleijpen講話；\n⑨ 22:00 美國5月成屋簽約銷售指數；\n⑩ 22:30 美國能源資訊署（EIA）釋出政府版原油庫存週報；\n⑪ 次日02:00 美聯儲釋出FOMC利率決議宣告和經濟預期概要（SEP，含利率預測點陣圖）；\n⑫ 次日02:30 美聯儲主席沃什舉行新聞釋出會；\n⑬ 次日05:30 巴西央行公佈利率決議；\n⑭ 次日06:45 紐西蘭一季度GDP。"
-    },
-    {
-      "id": "te:markets:559449",
-      "time": "2026-06-17 06:35:09",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Metals Commodities Updates: Platinum Rises by 2.14% — Top commodity gainers are Platinum (2.14%) and Gold (0.51%). Biggest losers are Iron Ore CNY (-1.23%), Lithium Carbonate (-0.88%) and Steel Rebar (-0.76%)."
-    },
-    {
-      "id": "4939365",
-      "time": "2026-06-17 06:34:16",
-      "tags": [
-        "公司",
-        "市場",
-        "觀點",
-        "國際"
-      ],
-      "text": "【6月17日隔夜要聞一覽】\n1、國際油價16日大幅下跌。WTI原油期貨價格下跌4.70美元，收於每桶76.05美元，跌幅為5.82%；布倫特原油期貨價格下跌4.21美元，收於每桶78.96美元，跌幅為5.06%。\n2、SpaceX收漲4.77%，報201.68美元，收盤市值2.65萬億美元，盤中一度超過微軟和亞馬遜。\n3、SpaceX的貨運“龍”飛船16日脫離國際空間站，攜帶科學實驗樣品和物資返回地球。\n4、在美國與伊朗本週簽署諒解備忘錄後，伊朗即可對外銷售其石油和燃料。\n5、一份美伊框架協議中包含設立規模3000億美元私人投資基金以扶持伊朗經濟的規劃。該基金僅在正式終版協議簽署後啟動，不包含任何政府出資。來自美國、海灣地區、亞洲、南美及非洲多國企業已承諾認繳過半資金。\n6、以色列曾要求美國提供美伊諒解備忘錄文字供其審閱，但遭到拒絕。\n7、瑞士外交部證實美國和伊朗的框架協議將於19日在瑞士中部盧塞恩附近的比爾根山簽署。\n8、蘋果計劃2027年末推出搭載攝像頭的全新AirPods，該款AirPods將與第二代摺疊iPhone同步首發；蘋果還將在2027年末推出iPhone二十週年紀念機型。\n9、高盛今年提供諮詢的併購交易總額已破萬億美元，創史上最快達成紀錄。"
-    },
-    {
-      "id": "mkt:019ed291-b8cb-7dd8-b03a-bc95d63f9800",
-      "time": "2026-06-17 06:33:45",
-      "tags": [
-        "MKT News",
-        "RTX.N",
-        "Impact bullish",
-        "LHX.N",
-        "GM.N"
-      ],
-      "text": "Market sources say GM is in talks with Raytheon Technologies and L3Harris Technologies to increase munitions production."
     }
   ]
 }
