@@ -1,7 +1,41 @@
 {
-  "updated": "2026-06-23 20:17:50",
-  "count": 17323,
+  "updated": "2026-06-23 20:22:04",
+  "count": 17317,
   "items": [
+    {
+      "id": "4950620",
+      "time": "2026-06-23 20:20:46",
+      "tags": [
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "【分析師：隨著投資者輪動撤出科技股，比特幣下跌】Trade Nation分析師David Morrison在一份報告中表示，隨著投資者繼續輪動撤出大型科技股，比特幣與美國股指期貨一同下跌。“本週到目前為止，比特幣的走勢一直跟隨美國股指的走勢，尤其是科技板塊，”他說。對美聯儲今年可能加息的預期正在拖累風險偏好。他表示，潛在的加息還可能使借貸融資的成本大幅增加，從而影響在人工智慧(AI)基礎設施方面的支出。比特幣下跌2.9%，至62,460美元，此前曾觸及61,934美元的12天低點。"
+    },
+    {
+      "id": "4950619",
+      "time": "2026-06-23 20:19:33",
+      "tags": [
+        "其他"
+      ],
+      "text": "【廣鐵7月1日調圖，廣州北站直達香港西九龍站】自7月1日零時起，全國鐵路將實行新的列車執行圖。廣州北站首開直達西九龍列車。據悉，廣深港高鐵從7月1日起新增廣州北、義烏及福清西3個站點，直達站點增至113個。往返香港西九龍與張家界西的G6080/G6079次列車，以及天津西開往香港西九龍的G903次列車，均增停廣州北站。 新建佛山站即將建成投入運營，屆時將新增2列佛山往返長沙的動車組列車，填補佛山沒有直達京廣高鐵沿線城市的空白，佛山市民無需繞行廣州樞紐即可直達長沙、武漢等京廣沿線核心城市。（廣州日報）"
+    },
+    {
+      "id": "4950618",
+      "time": "2026-06-23 20:18:39",
+      "tags": [
+        "國際"
+      ],
+      "text": "【芬蘭監管機構正評估是否批准特斯拉FSD進入該國市場】芬蘭交通和通訊局6月23日釋出宣告稱，正評估是否批准特斯拉FSD進入該國市場。該機構表示，將參與歐盟層面的審批流程，與特斯拉及其他相關方對話，並評估其FSD系統的安全性。"
+    },
+    {
+      "id": "4950617",
+      "time": "2026-06-23 20:17:15",
+      "tags": [
+        "其他"
+      ],
+      "text": "菲利普斯66表示，委內瑞拉原油流入其墨西哥灣沿岸資產已給西部加拿大Select原油（WCS）帶來定價壓力。"
+    },
     {
       "id": "mkt:019ef469-b555-7dd8-b0d8-77a3969649d9",
       "time": "2026-06-23 20:17:08",
@@ -158684,102 +158718,6 @@
         "市場"
       ],
       "text": "標普 500 指數期貨抹去此前漲幅，轉跌。"
-    },
-    {
-      "id": "4938781",
-      "time": "2026-06-16 20:20:09",
-      "tags": [
-        "其他"
-      ],
-      "text": "據Kpler分析師Amena Bakr：截至6月15日，經由受監測的霍爾木茲海峽區域的確認通行量（涵蓋商業及非商業船隻）保持在5艘，與前一日持平。"
-    },
-    {
-      "id": "mkt:019ed05f-efa2-7dd8-b02f-82cb9a9cfbaa",
-      "time": "2026-06-16 20:20:08",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "Brent",
-        "Impact bearish",
-        "WTI"
-      ],
-      "text": "Brent crude down 4.00% intraday at $79.63/bbl."
-    },
-    {
-      "id": "mkt:019ed05f-ec1f-7dd8-b02f-7a48f511d398",
-      "time": "2026-06-16 20:20:07",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Macro & Rates",
-        "US Economy",
-        "DXY",
-        "US10Y"
-      ],
-      "text": "U.S. May housing starts (total, annualized), building permits (total) and import price index MoM due in 10 minutes."
-    },
-    {
-      "id": "mkt:019ed05f-e9c7-7dd8-b02f-70d33aed607c",
-      "time": "2026-06-16 20:20:07",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Kpler analyst Amena Bakr said confirmed transits through the monitored Strait of Hormuz region, covering commercial and non-commercial vessels, stood at 5 on June 15, unchanged from the previous day."
-    },
-    {
-      "id": "4938780",
-      "time": "2026-06-16 20:19:50",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "布倫特原油失守80美元/桶，日內跌3.83%。"
-    },
-    {
-      "id": "te:economy:559345",
-      "time": "2026-06-16 20:19:45",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "United States",
-        "ADP Employment Change Weekly",
-        "Importance 0"
-      ],
-      "text": "US Private Sector Job Growth Eases Again — US private employers added an average of 25,500 jobs per week in the four weeks ending May 30, 2026, per the ADP Research Institute, a slight dip from the previous period’s 29,000 weekly gain. This marks the fourth straight week of slowing job growth. Yet, ADP’s May report released earlier this month revealed private businesses added a net 122,000 jobs, the largest increase since January 2025."
-    },
-    {
-      "id": "4938779",
-      "time": "2026-06-16 20:19:40",
-      "tags": [
-        "公司"
-      ],
-      "text": "【AI重構電商消費新模式】今年上半年電商行業正式進入“AI原生+即時零售”的深水整合期，AI技術全面滲透選品、營銷、客服、直播等電商全鏈路。AI電商能幹啥？ 在京東，“全場景AI大促”，24小時待命的數字人表現亮眼，一出場帶貨成交額破7000萬元，AI客服服務量同比增長14倍。營業打烊，數字人不打烊。 在天貓，用千問大模型，使用者一句話就能完成挑貨、比價、下單，AI試穿、優惠測算，網購也有了“售貨員”。 抖音、拼多多也上線了AI搜尋、AI導購，用自然語言對話匹配需求，從“人找貨”轉向“貨找人”。 在美團，利用“AI驅動”打造分鐘級配送，“618”大促首日整體成交額同比增長2倍，酒類品類暴漲18倍，白酒成交額更是12小時破3億元，同比激增70倍。（央視財經）"
-    },
-    {
-      "id": "em:qqyh_ozyh:202606163773284928",
-      "time": "2026-06-16 20:18:49",
-      "tags": [
-        "央行",
-        "歐洲央行"
-      ],
-      "text": "【歐洲央行Escriva：儘管達成和平協議 能源供應的複雜局面仍將持續】歐洲央行管委會成員Jose Luis Escriva警告稱，儘管達成了重開霍爾木茲海峽的協議，但能源供應方面的複雜局面可能仍將持續。法蘭克福的歐洲央行決策者並不認為危險已經過去，市場預計其仍將進一步加息。"
-    },
-    {
-      "id": "4938778",
-      "time": "2026-06-16 20:18:00",
-      "tags": [
-        "公司"
-      ],
-      "text": "【和遠氣體：持股5%以上股東減持至5%以下 未來擬繼續減持】和遠氣體公告稱，截至2026年6月16日，持股5%以上股東乾圖私募已透過集中競價交易減持103,500股，持股比例降至4.999%，不再是公司5%以上股東。本次減持計劃尚未完成，乾圖私募將在2026年6月16日-9月13日，繼續以集中競價減持不超2,106,250股（佔總股本1%）。其減持不會導致公司控制權變更。"
-    },
-    {
-      "id": "4938777",
-      "time": "2026-06-16 20:17:55",
-      "tags": [
-        "公司"
-      ],
-      "text": "法國國防採購局(DGA)表示，空客防務與航天公司已獲得合同，將為A400M運輸機開發新的多工能力。"
     }
   ]
 }
