@@ -1,7 +1,58 @@
 {
-  "updated": "2026-06-23 08:46:54",
-  "count": 17331,
+  "updated": "2026-06-23 08:50:57",
+  "count": 17328,
   "items": [
+    {
+      "id": "4949154",
+      "time": "2026-06-23 08:49:03",
+      "tags": [
+        "公司"
+      ],
+      "text": "Eide Bailly將以18億美元的價格向私募股權公司出售股份。"
+    },
+    {
+      "id": "te:markets:560914",
+      "time": "2026-06-23 08:49:01",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Japan",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "Japanese Shares Retreat on Profit Taking — The Nikkei 225 Index fell 0.6% to below 72,000, while the broader Topix Index declined 0.5% to 7,073 on Tuesday, with both benchmarks pulling back from record highs as investors took profits following a strong rally in semiconductor and artificial intelligence-related stocks. Japanese equities also mirrored overnight weakness on Wall Street, where major US technology stocks came under pressure. Meanwhile, investors drew encouragement from signs of progress in ongoing US-Iran negotiations after Washington granted Tehran a 60-day license to sell oil on international markets, fueling expectations of a faster recovery in global supply. Among individual movers, SoftBank Group dropped 5.8%, JX Advanced Metals fell 3.1%, Furukawa Electric lost 4.6%, Taiyo Yuden declined 1.7%, and Murata Manufacturing slipped 3.9%."
+    },
+    {
+      "id": "mkt:019ef1f2-7ab7-7dd8-b0c7-8d2533dff57a",
+      "time": "2026-06-23 08:47:40",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish",
+        "SSE Composite",
+        "SZSE Component"
+      ],
+      "text": "【Margin financing across China's two exchanges rises CNY 29.02 bln】As of June 22, margin financing on the Shanghai Stock Exchange was CNY 1,505.56 bln, up CNY 10.37 bln from the previous trading day; on the Shenzhen Stock Exchange it was CNY 1,458.12 bln, up CNY 18.65 bln. Combined margin financing totaled CNY 2,963.68 bln, up CNY 29.02 bln day-on-day."
+    },
+    {
+      "id": "4949153",
+      "time": "2026-06-23 08:47:26",
+      "tags": [
+        "其他"
+      ],
+      "text": "【兩市融資餘額增加290.19億元】截至6月22日，上交所融資餘額報15055.58億元，較前一交易日增加103.73億元；深交所融資餘額報14581.19億元，較前一交易日增加186.46億元；兩市合計29636.77億元，較前一交易日增加290.19億元。"
+    },
+    {
+      "id": "4949152",
+      "time": "2026-06-23 08:46:53",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗議會議長卡利巴夫表示霍爾木茲海峽將由伊朗管轄】據伊朗伊斯蘭共和國通訊社報道，伊朗議會議長卡利巴夫表示，霍爾木茲海峽再也回不到戰前狀態。加利巴夫剛結束在瑞士的會談返程，並表態：伊朗會遵守國際準則，但霍爾木茲海峽由伊朗負責管轄。"
+    },
     {
       "id": "4949151",
       "time": "2026-06-23 08:45:21",
@@ -159130,86 +159181,6 @@
         "Impact bearish"
       ],
       "text": "SpaceX (SPCX.O) rose 10% in U.S. after-hours trading; if the gain holds into Tuesday's open, its market value would surpass Amazon (AMZN.O)."
-    },
-    {
-      "id": "4937334",
-      "time": "2026-06-16 08:50:33",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "【《重慶市突發事件總體應急預案》出臺】據重慶日報，近日，重慶市委、市政府印發《重慶市突發事件總體應急預案》（以下簡稱《總體預案》）併發出通知，要求各地各部門結合實際認真貫徹落實。《總體預案》是指導全市突發事件應急管理工作的總綱，全文共5個部分，從組織指揮體系、執行機制、應急保障等方面，對突發事件應急管理全鏈條、全流程工作進行了規範。在監測預警方面，明確行業感知裝置與資料資源全量接入三級治理中心，重點區域建立風險管控清單並全量落圖，構建統一的全域監測網路與資訊共享平臺，提升風險早發現、早處置能力。"
-    },
-    {
-      "id": "4937333",
-      "time": "2026-06-16 08:50:02",
-      "tags": [
-        "公司"
-      ],
-      "text": "【帝爾鐳射：公司TGV鐳射微孔裝置已實現晶圓級、面板級裝置交付】帝爾鐳射6月16日在互動平臺表示，公司TGV鐳射微孔裝置主要面向玻璃基板精密通孔加工，目前已實現晶圓級、面板級裝置交付，整體佈局半導體先進封裝、新型顯示相關領域。"
-    },
-    {
-      "id": "4937332",
-      "time": "2026-06-16 08:49:21",
-      "tags": [
-        "市場"
-      ],
-      "text": "【酒價內參6月16日價格釋出：青花郎青花汾20領跌 總價自23天高位回落】新浪財經“酒價內參”過去24小時收集的資料顯示，中國白酒市場主要大單品的終端零售均價6月16日整體溫和回落。如果主要單品各取一瓶整體打包售賣，今日總售價為9927元，較昨日下跌18元，結束此前連續兩日回升走勢，自昨日創下的23天以來最高位回落。今日總價仍處於進入六月以來的次高位，終端交投情緒環比有所修復，但核心單品的漲跌分化依然顯著。今日11大白酒單品三漲八跌，輸家數量佔據明顯優勢。上漲方面，習酒君品漲幅居前，上漲5元/瓶，收穫三連陽，價格快速升至5月20日以來最高位；洋河夢之藍M6+上漲3元/瓶，重返600元大關；飛天茅臺小幅上漲1元/瓶。下跌方面，青花郎跌幅居前，下跌6元/瓶，再度回落至700元關口下方；青花汾20與古井貢古20均下跌5元/瓶，其中前者價格已落至月內次低位；五糧液普五八代下跌4元/瓶，回吐昨日全部漲幅，結束此前連續三日反彈，重回810元一線；國窖1573下跌3元/瓶；水晶劍南春下跌2元/瓶，平進入六月份以來最低價紀錄；精品茅臺與五糧液1618均小幅下跌1元/瓶，其中後者創下近一月最低點。"
-    },
-    {
-      "id": "4937331",
-      "time": "2026-06-16 08:48:40",
-      "tags": [
-        "其他"
-      ],
-      "text": "【南方多地強降雨持續悶熱感加劇 東北華北雨水送清涼】未來三天（6月16日至18日），南方大範圍降雨持續，強降雨區域將逐漸北抬至長江中下游地區，伴隨較大溼度，多地悶熱感加劇。在北方，東北、華北等地受頻繁降雨影響，今明天體感較涼爽，後天起將迎來升溫，而新疆、內蒙古西部、陝西關中到黃淮等地高溫天氣發展，需注意防暑。"
-    },
-    {
-      "id": "4937330",
-      "time": "2026-06-16 08:48:01",
-      "tags": [
-        "市場",
-        "央行",
-        "國際"
-      ],
-      "text": "【美伊停火後金價小幅走高，延續漲勢】現貨黃金上漲0.1%，報4,310.11美元。澳新銀行研究部分析師在一份報告中表示，亞洲早盤金價小幅走高，延續了週一的漲勢，此前美國和伊朗達成了一項臨時和平協議，這有助於緩解全球通脹擔憂。整個市場不斷改善的風險偏好可能也抑制了投資者對進一步提高利率的預期，這一觀點可能會得到本週一系列央行決定的證實，包括美聯儲和英國央行的決定。特別是，市場正密切關注美聯儲，該機構料將在新任主席凱文·沃什的領導下舉行首次政策會議。"
-    },
-    {
-      "id": "4937329",
-      "time": "2026-06-16 08:47:30",
-      "tags": [
-        "其他"
-      ],
-      "text": "【兩市融資餘額增加240.6億元】截至6月15日，上交所融資餘額報14617.67億元，較前一交易日增加128.71億元；深交所融資餘額報14057.07億元，較前一交易日增加111.89億元；兩市合計28674.74億元，較前一交易日增加240.6億元。"
-    },
-    {
-      "id": "mkt:019ecde5-b9ec-7dd8-b018-2f97c8a75dae",
-      "time": "2026-06-16 08:47:25",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Greater China",
-        "CSI300",
-        "Impact bullish",
-        "SSE Composite",
-        "SZSE Component"
-      ],
-      "text": "【Margin balances across Shanghai and Shenzhen rise CNY 24.06 bln】As of June 15, margin financing at the Shanghai Stock Exchange was CNY 1.4618 tln, up CNY 12.87 bln from the prior session; at the Shenzhen Stock Exchange it was CNY 1.4057 tln, up CNY 11.19 bln. Combined margin balances across the two exchanges totaled CNY 2.8675 tln, an increase of CNY 24.06 bln."
-    },
-    {
-      "id": "mkt:019ecde5-6252-7dd8-b018-2394fdc66660",
-      "time": "2026-06-16 08:47:02",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC",
-        "USDJPY",
-        "Impact bearish",
-        "DXY",
-        "XAUUSD",
-        "Impact bullish"
-      ],
-      "text": "【Bank of Japan deputy governor Uchida likely to be more direct than Ueda】Deputy Governor Uchida will stand in for hospitalized Governor Ueda to explain the Bank of Japan’s latest decisions and future policy direction; markets will watch Uchida for clues on the rate-hike path and BOJ bond-buying. He faces a delicate balancing act: signal enough resolve to avoid a sharp yen sell-off while taking into account Prime Minister Takaichi Sanae’s tilt toward more supportive monetary policy. Some economists warn that any notable departure from Ueda’s stance could unsettle markets. Daiwa Research’s chief economist expects Uchida to draw on his implementation experience to deliver a carefully considered explanation, particularly on the normalization process."
     }
   ]
 }
