@@ -1,7 +1,77 @@
 {
-  "updated": "2026-06-23 13:45:49",
-  "count": 17228,
+  "updated": "2026-06-23 13:50:00",
+  "count": 17224,
   "items": [
+    {
+      "id": "4949620",
+      "time": "2026-06-23 13:48:51",
+      "tags": [
+        "市場"
+      ],
+      "text": "布倫特原油日內跌1%，現報76.73美元/桶。"
+    },
+    {
+      "id": "4949619",
+      "time": "2026-06-23 13:48:36",
+      "tags": [
+        "市場"
+      ],
+      "text": "WTI原油日內跌1%，現報73.12美元/桶。"
+    },
+    {
+      "id": "mkt:019ef304-cc4a-7dd8-b0cd-b6df1d11caa9",
+      "time": "2026-06-23 13:47:18",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Industrial Metals",
+        "Copper",
+        "Impact bearish"
+      ],
+      "text": "LME tin fell nearly 4% intraday, trading at $52,090/ton."
+    },
+    {
+      "id": "4949618",
+      "time": "2026-06-23 13:46:44",
+      "tags": [
+        "其他"
+      ],
+      "text": "【火山引擎總裁譚待：位元組內部已大規模落地AI Coding生產流程】針對記者提出的智譜港股走高、Anthropic頂尖模型實現AI Coding突破相關行業問題，火山引擎總裁譚稱，AI Coding是大模型泛化能力的核心體現，也是支撐複雜Agent任務的關鍵能力，當前市場對具備程式碼生產力的大模型給予高估值具備產業邏輯支撐。他表示，位元組新推出的豆包2.1Pro已正式跨過生產級生產力質變點，多項評測穩定超越Anthropic旗下標杆模型，部分指標與海外高階版本持平，可落地晶片RTL開發等真實工業程式碼迭代任務，位元組內部已大規模落地AI Coding生產流程。（科創板日報）"
+    },
+    {
+      "id": "4949617",
+      "time": "2026-06-23 13:46:21",
+      "tags": [
+        "市場"
+      ],
+      "text": "標普500指數期貨延續跌勢至0.9%，納斯達克指數期貨下跌1.6%。"
+    },
+    {
+      "id": "4949616",
+      "time": "2026-06-23 13:46:10",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "歐洲斯托克50指數期貨下跌0.9%，德國DAX指數期貨下跌1.0%，英國富時100指數期貨下跌1.0%。"
+    },
+    {
+      "id": "4949615",
+      "time": "2026-06-23 13:45:35",
+      "tags": [
+        "市場"
+      ],
+      "text": "鎧俠股價一度下跌16%，為自2025年11月以來最大跌幅。"
+    },
+    {
+      "id": "4949614",
+      "time": "2026-06-23 13:45:13",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "低硫燃料油連續主力合約日內跌4%，現報3852.00元。"
+    },
     {
       "id": "4949613",
       "time": "2026-06-23 13:43:51",
@@ -157921,103 +157991,6 @@
         "Importance 1"
       ],
       "text": "NZX Hits Over 3-Month High, Ends 0.5% Higher — The NZX 50 rose 66 points, or 0.5%, to close at 13,426 on Tuesday, halting losses from the previous session, mainly buoyed by gains in the utilities, energy, technology, and consumer discretionary sectors. The broader index hit its highest level since March 6, tracking a rally on Wall Street overnight as concerns over inflation eased due to lower oil prices following a peace deal between the US and Iran. However, fresh data limited the gains, as New Zealand's food inflation accelerated to 3.2% in May. Traders also anticipated this week's release of New Zealand's Q1 GDP data and the Fed's monetary policy decision. Delegat Group jumped 14.3% after the company revised its full-year earnings forecast upward. Other top performers were Henderson Far East Income (3.7%), Skellerup Holdings (3.1%), Fletcher Building (1.3%), Fisher & Paykel Healthcare (1.2%), Infratil (0.7%), and ANZ Group (0.6%)."
-    },
-    {
-      "id": "4937816",
-      "time": "2026-06-16 13:49:35",
-      "tags": [
-        "其他"
-      ],
-      "text": "巴克萊將保時捷目標股價從40歐元上調至50歐元。"
-    },
-    {
-      "id": "mkt:019ecefa-4db1-7dd8-b021-615992ed8d33",
-      "time": "2026-06-16 13:49:30",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Fars News: Iran will only reciprocate if US fully implements obligations】Fars News, citing informed sources, says Iran’s Supreme National Security Council approved a resolution adopting a precise, step‑by‑step “interpretive theory” that conditions Iranian reciprocal measures on full US performance. The doctrine, which cites past US breaches, assigns an execution step to each US obligation and ties Iran’s responses to actual, complete fulfillment; any unmet clause would immediately trigger the mapped response, including suspension of the corresponding Iranian commitments."
-    },
-    {
-      "id": "4937815",
-      "time": "2026-06-16 13:49:17",
-      "tags": [
-        "資料",
-        "央行"
-      ],
-      "text": "澳洲聯儲行長布洛克：失業率需要上升，經濟活動需要放緩才能降溫 CPI。"
-    },
-    {
-      "id": "4937814",
-      "time": "2026-06-16 13:48:54",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "【1—5月我國共授權發明專利37.2萬件 同比增長12.1%】在國務院新聞辦公室今天舉行的新聞釋出會上，國家統計局新聞發言人表示，新舊動能加快轉換是當前經濟執行的鮮明特徵。今年我國在產業提質、數字賦能、綠色轉型等方面取得新成效，新質生產力培育壯大，有效提升了發展的質量、韌性和可持續性。國家統計局新聞發言人表示，今年以來，我國創新成果加速湧現，各地更加註重打通科技成果轉化堵點，讓創新成果真正從“實驗室”走向“生產線”。1—5月份我國共授權發明專利37.2萬件，同比增長12.1%，一批高價值專利在智慧化綠色化產業場景中加速落地。產業升級加快。工業結構向高階化、智慧化、綠色化、融合化轉型，產業整體競爭力在提升。1—5月份，高技術製造業貢獻了近四成的工業增長，裝備製造業貢獻了近六成的工業增長，引領作用十分突出。"
-    },
-    {
-      "id": "4937813",
-      "time": "2026-06-16 13:48:04",
-      "tags": [
-        "其他"
-      ],
-      "text": "【數字人民幣國際運營中心與26家直接參與者簽約】在6月16日開幕的2026中國國際金融展上，數字人民幣國際運營中心與包括工銀亞洲在內的首批26家金融機構在滬簽署直接參與者服務協議，CBETS參與者可依託CBETS的系統能力為客戶提供低成本、多元化和安全高效的跨境數字支付服務，助力跨境貿易和投融資便利化與金融高水平對外開放。 (上證報)"
-    },
-    {
-      "id": "mkt:019ecef8-b05e-7dd8-b021-5812cc48cf82",
-      "time": "2026-06-16 13:47:44",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Online-and-offline firm's shares tumble; company responds】Shares plunged today. The company said the decline reflected multiple factors and that a previously disclosed executive share-sell plan has not yet been implemented; timing and price of any sales are at the discretion of the individuals. Performance and order trends await the upcoming half-year report. In an investor-relations note the company said it will pursue higher asset-use efficiency in 2026 and aims to stabilise and sustain business growth while improving operating efficiency and long-term viability."
-    },
-    {
-      "id": "4937812",
-      "time": "2026-06-16 13:47:42",
-      "tags": [
-        "公司"
-      ],
-      "text": "【線上線下股價大跌，公司回應】今日，線上線下股價大跌。對於股價大跌，線上線下方面回應稱，股價受多重因素影響，前期披露的高管減持計劃還沒有開始實施，減持時間和減持價格由當事人自行決定。業績及訂單情況需要參考後續披露的半年報。對於2026年是否可以扭虧，公司在最新披露的投資者關係記錄表中提到，2026年，公司將繼續最佳化資產利用效率，實現業務平穩與持續發展，提升經營效率與可持續經營能力。（中證金牛座）"
-    },
-    {
-      "id": "4937811",
-      "time": "2026-06-16 13:47:08",
-      "tags": [
-        "國際"
-      ],
-      "text": "何小鵬：小鵬 X9 已在歐洲開啟交付，這是小鵬全球化的新一步。期待它走進更多歐洲家庭的日常。"
-    },
-    {
-      "id": "4937810",
-      "time": "2026-06-16 13:46:48",
-      "tags": [
-        "其他"
-      ],
-      "text": "【lululemon：長城瑜伽主題活動始終秉持致敬中華文化的初衷，已下架所有相關宣傳內容】6月16日，lululemon釋出宣告，稱本次舉辦的長城瑜伽主題活動始終秉持致敬中華文化的初衷。lululemon高度重視社會各界的反饋。由於在相關專業認知上的侷限，未能在前期充分識別潛在爭議，也已充分認識到在鼓樂表演的前期策劃與稽核過程中，應更加審慎和周到。在此，lululemon向公眾及朱一龍先生致以誠摯的歉意，並已下架所有相關宣傳內容。"
-    },
-    {
-      "id": "mkt:019ecef7-55d0-7dd8-b021-52ab66b46079",
-      "time": "2026-06-16 13:46:16",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "RBA Governor Bullock said she cannot rule out the need for further rate hikes."
-    },
-    {
-      "id": "4937809",
-      "time": "2026-06-16 13:46:15",
-      "tags": [
-        "其他"
-      ],
-      "text": "澳儲行行長布洛克：不排除我們可能需要在利率方面採取更多措施的可能性。"
-    },
-    {
-      "id": "mkt:019ecef6-f626-7dd8-b021-4dc22aa31bab",
-      "time": "2026-06-16 13:45:51",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【2026 China‑US Local Cooperation Dialogue held in Zhengzhou】June 16 — The 2026 China‑US Local Cooperation Dialogue, hosted by the China People’s Association for Friendship with Foreign Countries and the Henan provincial government, was held in Zhengzhou. Over 200 attendees included delegations from more than 20 U.S. states including Illinois, Iowa and Minnesota; U.S. industry groups such as the Heartland China Association, the US‑China Chamber of Commerce, the American Soybean Association, the US Soybean Export Council, the American Rice Industry Alliance and the US Grains & Bioproducts Association; major US agribusiness and retail firms including Cargill, Corteva and Walmart; roughly 15 US universities and research institutions including Harvard and Yale; and provincial delegations from Henan, Liaoning, Anhui, Hunan and Shaanxi."
     }
   ]
 }
