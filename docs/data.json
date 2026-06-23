@@ -1,7 +1,28 @@
 {
-  "updated": "2026-06-24 00:31:29",
-  "count": 17277,
+  "updated": "2026-06-24 00:35:32",
+  "count": 17271,
   "items": [
+    {
+      "id": "4950998",
+      "time": "2026-06-24 00:31:57",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "【德意志銀行上調對短期美債收益率的預測】德意志銀行經濟學家Matthew Raskin、Steven Zang和Andrew Fu在週二的研報中寫道，經過上週的聯邦公開市場委員會會議後，該行如今預計美聯儲今年將分別在9月和12月加息，每次加息25個基點，使聯邦基金利率達到4.1%。報告指出，此次修正上調了該行對短期美債收益率的預測 —— 預計年底2年期美債收益率將達到4.3%（較此前的預測上調35個基點）。鑑於該行假設到2028年年中加息將逐步撤回，因此對長債收益率的影響較為有限。德意志銀行目前預計年底10年期美債收益率為4.8%（較此前的預測上調10個基點）。與市場遠期相比，該行對短端收益率的預測大體一致，但對收益率曲線的預測更為陡峭。"
+    },
+    {
+      "id": "mkt:019ef552-829d-7dd8-b0df-999c8f1d9dcc",
+      "time": "2026-06-24 00:31:25",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "【Pakistan PM says 'spoilers' trying to derail US-Iran talks】Pakistan Prime Minister Shehbaz Sharif told Al Jazeera that unspecified \"spoilers\" are trying to sabotage a US‑Iran agreement and the progress achieved. \"There are spoilers across the world who want to destroy this peace agreement,\" he said without naming countries or parties, adding they \"do not want Iran to rise from the ruins of war to a glorious peak.\""
+    },
     {
       "id": "mkt:019ef550-9048-7dd8-b0df-941b1ce5d3de",
       "time": "2026-06-24 00:29:18",
@@ -158232,87 +158253,6 @@
         "國際"
       ],
       "text": "美國海岸警衛隊聲稱，運輸伊朗、俄羅斯受制裁原油的油輪（即“影子船隊”）正在使用各類數字工具，此舉會對船舶、船員安全及海洋環境構成隱患。"
-    },
-    {
-      "id": "4939196",
-      "time": "2026-06-17 00:35:11",
-      "tags": [
-        "公司"
-      ],
-      "text": "電動汽車公司Rivian裁員數百人。"
-    },
-    {
-      "id": "mkt:019ed149-3cbc-7dd8-b037-2694112fd5cf",
-      "time": "2026-06-17 00:34:58",
-      "tags": [
-        "MKT News",
-        "HPE.O"
-      ],
-      "text": "HPE's data fabric software will expand data availability for AI agent workflows and is scheduled to launch in October 2026."
-    },
-    {
-      "id": "4939195",
-      "time": "2026-06-17 00:34:27",
-      "tags": [
-        "其他"
-      ],
-      "text": "慧與（HPE）：慧與資料編織軟體拓寬智慧體工作流的資料可用範圍，產品將於2026年10月上市；慧與AI工廠將在2026年第四季度搭載英偉達機密計算技術。"
-    },
-    {
-      "id": "mkt:019ed148-86e1-7dd8-b037-1e3ff99b7b77",
-      "time": "2026-06-17 00:34:11",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "Huiyu Technology said new private-cloud AI features will launch in July 2026."
-    },
-    {
-      "id": "mkt:019ed148-53cd-7dd8-b037-128c066b643d",
-      "time": "2026-06-17 00:33:58",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "NVIDIA",
-        "Market Themes",
-        "AI Revolution",
-        "Magnificent 7",
-        "NVDA.O",
-        "Impact bullish"
-      ],
-      "text": "Huiyu Technology said its Huiyu private-cloud AI, co-designed with NVIDIA (NVDA.O), can boost token throughput by up to 20%."
-    },
-    {
-      "id": "4939194",
-      "time": "2026-06-17 00:33:09",
-      "tags": [
-        "其他"
-      ],
-      "text": "DoorDash 表示已修復一項技術故障。"
-    },
-    {
-      "id": "mkt:019ed146-8c69-7dd8-b037-0acd351e7512",
-      "time": "2026-06-17 00:32:02",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "NVIDIA",
-        "Market Themes",
-        "AI Revolution",
-        "Magnificent 7",
-        "NVDA.O",
-        "Impact bullish"
-      ],
-      "text": "Huiyu Technology partners with NVIDIA (NVDA.O) to deploy agent-based AI into production environments."
-    },
-    {
-      "id": "4939193",
-      "time": "2026-06-17 00:31:46",
-      "tags": [
-        "其他"
-      ],
-      "text": "慧與（HPE）：與英偉達聯合研發的HPE私有云人工智慧可將token吞吐量最高提升20%"
     }
   ]
 }
