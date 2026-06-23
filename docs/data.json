@@ -1,7 +1,197 @@
 {
-  "updated": "2026-06-23 22:33:14",
-  "count": 17328,
+  "updated": "2026-06-23 22:37:30",
+  "count": 17339,
   "items": [
+    {
+      "id": "4950887",
+      "time": "2026-06-23 22:36:40",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "俄羅斯副總理諾瓦克：截至今日，石油公司已將燃料產量提升至最高水平。"
+    },
+    {
+      "id": "mkt:019ef4e9-689d-7dd8-b0dc-939877b4251e",
+      "time": "2026-06-23 22:36:37",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Russian Deputy Prime Minister Novak said Russia has postponed maintenance at oil refineries."
+    },
+    {
+      "id": "4950886",
+      "time": "2026-06-23 22:36:23",
+      "tags": [
+        "公司"
+      ],
+      "text": "魯比奧：兩家與GAESA有關聯的公司正在為古巴政權轉移資金。"
+    },
+    {
+      "id": "mkt:019ef4e9-194f-7dd8-b0dc-8b35742453b8",
+      "time": "2026-06-23 22:36:17",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Industrial Metals",
+        "Copper",
+        "Impact bearish"
+      ],
+      "text": "LME tin down 4.00% intraday at 51,105 dlr/ton."
+    },
+    {
+      "id": "mkt:019ef4e8-f841-7dd8-b0dc-809adc935d14",
+      "time": "2026-06-23 22:36:09",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Russia Deputy Prime Minister Novak said Moscow is considering a ban on diesel exports."
+    },
+    {
+      "id": "4950885",
+      "time": "2026-06-23 22:35:58",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯副總理諾瓦克：我們推遲了煉油廠的維護工作。"
+    },
+    {
+      "id": "4950884",
+      "time": "2026-06-23 22:35:44",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯副總理諾瓦克：我們考慮禁止柴油出口。"
+    },
+    {
+      "id": "4950883",
+      "time": "2026-06-23 22:35:39",
+      "tags": [
+        "其他"
+      ],
+      "text": "魯比奧：GAESA為古巴安全機構提供資金支援。"
+    },
+    {
+      "id": "mkt:019ef4e8-2ed9-7dd8-b0dc-7ea9cd1fd8a2",
+      "time": "2026-06-23 22:35:17",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Russian Deputy Prime Minister Novak: We can cope with the challenges."
+    },
+    {
+      "id": "mkt:019ef4e8-1839-7dd8-b0dc-7312cae75299",
+      "time": "2026-06-23 22:35:11",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "Russian Deputy Prime Minister Novak said the fuel market is complex but remains within a controllable range."
+    },
+    {
+      "id": "4950882",
+      "time": "2026-06-23 22:35:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "英鎊兌美元GBP/USD失守1.32，日內跌幅0.38%。"
+    },
+    {
+      "id": "mkt:019ef4e7-e082-7dd8-b0dc-69c882f27797",
+      "time": "2026-06-23 22:34:57",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "GBPUSD",
+        "Impact bearish"
+      ],
+      "text": "GBP/USD slipped below 1.32, down 0.38% intraday."
+    },
+    {
+      "id": "mkt:019ef4e7-d730-7dd8-b0dc-61ceaa1d9cd5",
+      "time": "2026-06-23 22:34:55",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals"
+      ],
+      "text": "New York silver futures fell 6.00% intraday to $61.62/oz."
+    },
+    {
+      "id": "4950881",
+      "time": "2026-06-23 22:34:54",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯副總理：我們有能力應對挑戰。"
+    },
+    {
+      "id": "4950880",
+      "time": "2026-06-23 22:34:37",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯副總理：燃料市場形勢並不簡單，但處於可控狀態。"
+    },
+    {
+      "id": "4950879",
+      "time": "2026-06-23 22:34:16",
+      "tags": [
+        "其他"
+      ],
+      "text": "魯比奧：5個古巴FRIMS專案被指定用於為古巴創收。"
+    },
+    {
+      "id": "4950878",
+      "time": "2026-06-23 22:34:04",
+      "tags": [
+        "其他"
+      ],
+      "text": "【安理會決議追究對維和人員犯罪罪責】今天（6月23日），聯合國安理會一致透過關於“追究針對聯合國維和人員所犯罪行責任”的第2823號決議。決議由丹麥和巴基斯坦起草，獲得包括中國在內的150多個聯合國會員國共同提案支援。決議旨在推動安理會超越單純譴責襲擊的做法，建立一種更加制度化的後續跟進機制，使安理會能夠持續關注相關進展，包括事實查明、調查推進以及責任追究等工作，表明安理會致力於維護維和人員的安全與保障，並強調調查和起訴侵害維和人員犯罪行為的重要性。 決議譴責一切針對聯合國維和人員的襲擊，並向所有在執行任務期間犧牲的維和人員致敬；強調對維和人員的襲擊可能構成戰爭罪，並指出確保追究責任對於威懾未來襲擊、提升維和人員安全與保障具有重要意義；決議呼籲所有利益攸關方與聯合國合作推進有關工作，並強調東道國有責任採取一切必要措施調查此類犯罪並起訴肇事者。（CCTV國際時訊）"
+    },
+    {
+      "id": "4950877",
+      "time": "2026-06-23 22:34:04",
+      "tags": [
+        "市場"
+      ],
+      "text": "紐約期銀日內跌6%，現報62.03美元/盎司。"
+    },
+    {
+      "id": "mkt:019ef4e5-e7ac-7dd8-b0dc-5cda5d6be459",
+      "time": "2026-06-23 22:32:48",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "EURUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish",
+        "DAX"
+      ],
+      "text": "ECB Vice President Vujcic said euro-area growth has shown greater resilience to supply shocks than expected."
+    },
+    {
+      "id": "mkt:019ef4e5-c280-7dd8-b0dc-55d300bbdfcc",
+      "time": "2026-06-23 22:32:38",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Emerging Markets"
+      ],
+      "text": "REUTERS SURVEY: Of 27 analysts, 6 forecast Colombia's central bank will raise rates by 75bp, 4 forecast a 100bp hike, 1 forecasts 25bp, and 3 expect no change."
+    },
     {
       "id": "mkt:019ef4e5-54d9-7dd8-b0dc-4fb62875ffc0",
       "time": "2026-06-23 22:32:10",
@@ -158692,93 +158882,6 @@
         "公司"
       ],
       "text": "七國集團領導人表示，將加大力度應對全球債務脆弱性問題。"
-    },
-    {
-      "id": "mkt:019ed0dd-8634-7dd8-b034-36395388ff41",
-      "time": "2026-06-16 22:37:19",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "RBC CEO McKay said artificial intelligence has driven an \"insatiable demand\" for capital."
-    },
-    {
-      "id": "4939023",
-      "time": "2026-06-16 22:36:59",
-      "tags": [
-        "其他"
-      ],
-      "text": "加拿大皇家銀行：人工智慧催生市場對資本 “永無止境的需求”。"
-    },
-    {
-      "id": "mkt:019ed0dd-2a92-7dd8-b034-297eeb7c3336",
-      "time": "2026-06-16 22:36:55",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "3690.HK",
-        "Impact bearish",
-        "BABA.N",
-        "JD.O"
-      ],
-      "text": "【Shenzhen regulator summons Meituan, Taobao Flash and JD Waimai after June 15 'ghost delivery' food‑safety probe】Shenzhen Market Supervision Bureau summoned heads of local operations for Meituan, Taobao Flash and JD Waimai after a June 15 unified enforcement action uncovered prominent food‑safety issues tied to 'ghost deliveries'. The bureau served a formal Reminder and Urging Letter requiring platforms to fulfil primary food‑safety responsibilities, strictly vet merchant onboarding, conduct on‑site verification of stores and licenses, prohibit unlicensed, shared or forged credentials and cross‑store subcontracted processing, establish routine risk‑screening mechanisms and take measures to prevent a recurrence."
-    },
-    {
-      "id": "4939022",
-      "time": "2026-06-16 22:36:23",
-      "tags": [
-        "其他"
-      ],
-      "text": "馬斯克：想到如果我們能將太陽能量的僅僅百萬分之一用於人工智慧，其所蘊含的智慧將超過全人類總智慧的百萬倍，這不禁讓人感到自身的渺小。"
-    },
-    {
-      "id": "4939021",
-      "time": "2026-06-16 22:36:12",
-      "tags": [
-        "公司"
-      ],
-      "text": "【長光華芯：200G EML晶片處於客戶驗證階段】長光華芯在互動平臺表示，公司200G EML晶片尚處於客戶驗證階段，100G EML晶片在持續批次交付。"
-    },
-    {
-      "id": "mkt:019ed0dc-821a-7dd8-b034-241edc50484f",
-      "time": "2026-06-16 22:36:12",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "Musk said if just one‑millionth of solar energy were devoted to AI, the resulting intelligence would be one million times greater than all human intelligence, underscoring human smallness."
-    },
-    {
-      "id": "4939020",
-      "time": "2026-06-16 22:35:42",
-      "tags": [
-        "行業",
-        "公司",
-        "其他",
-        "焦點"
-      ],
-      "text": "【深圳市市場監督管理局集中約談美團、淘寶閃購和京東外賣平臺】針對6月15日全市打擊“幽靈外賣”統一執法行動發現的網路餐飲食品安全突出問題，深圳市市場監督管理局依法對美團、淘寶閃購、京東外賣三家網路餐飲平臺駐深運營機構負責人進行約談，現場送達《嚴格落實網路餐飲平臺食品安全主體責任提醒敦促函》。約談強調，平臺必須落實食品安全主體責任，從嚴稽核入網資質，實地核驗門店與證照資訊，嚴禁無證、套證、假證商戶上線，嚴禁跨店委託加工，健全常態化風險排查機制，自覺踐行社會責任，堅決防範“幽靈外賣”亂象反彈，切實築牢網路餐飲食品安全防線，全力守護市民群眾“舌尖上的安全”。"
-    },
-    {
-      "id": "4939019",
-      "time": "2026-06-16 22:35:39",
-      "tags": [
-        "其他"
-      ],
-      "text": "加拿大皇家銀行：市場當前呈現風險偏好升溫態勢。"
-    },
-    {
-      "id": "4939018",
-      "time": "2026-06-16 22:34:35",
-      "tags": [
-        "市場",
-        "觀點",
-        "國際"
-      ],
-      "text": "【花旗：美股資金流向整體擴容，但納斯達克持倉風險仍存】上週美股各類資產持倉規模普遍擴張，不過花旗警示，納斯達克市場過度集中的多頭敞口仍是核心風險。小盤股迎來大額資金流入，納斯達克的上漲則由空頭回補與新增多頭頭寸推動。歐洲市場情緒轉好，投資者持續買入歐洲斯托克 600 指數、德國 DAX 指數與英國富時指數，但空頭持倉規模依舊偏高。亞洲資金流向分化偏弱，恒生指數資金持續流出，韓國綜合指數再度遭遇空頭打壓。"
     }
   ]
 }
