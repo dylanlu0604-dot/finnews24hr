@@ -1,7 +1,163 @@
 {
-  "updated": "2026-06-23 16:54:31",
-  "count": 17223,
+  "updated": "2026-06-23 16:58:31",
+  "count": 17233,
   "items": [
+    {
+      "id": "mkt:019ef3b3-01f9-7dd8-b0d3-6f3d2b176114",
+      "time": "2026-06-23 16:57:35",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Huawei Cloud passes CAICT Trusted AI-Token Service Quality assessment】China Academy of Information and Communications Technology (CAICT) said in June 2026 that Huawei Cloud Computing Technologies Co.'s Huawei Cloud MaaS Model-as-a-Service passed its Trusted AI-Token Service Quality assessment under the Quality Capability Requirements for AI Token Services, meeting indicator requirements across six dimensions: model service capability; token service performance; token service trustworthiness; token service operations; token service user experience; and token metering and billing."
+    },
+    {
+      "id": "4950067",
+      "time": "2026-06-23 16:57:25",
+      "tags": [
+        "市場"
+      ],
+      "text": "【江西銅業今日跌停，2家機構專用席位淨買入1.17億元】江西銅業今日跌停，成交額47.98億元，換手率4.57%，盤後龍虎榜資料顯示，滬股通專用席位買入1.19億元並賣出3.91億元，2家機構專用席位淨買入1.17億元，有1家機構專用席位淨賣出8197.99萬元。"
+    },
+    {
+      "id": "4950066",
+      "time": "2026-06-23 16:57:12",
+      "tags": [
+        "其他"
+      ],
+      "text": "【世界超高畫質影片產業聯盟國際交流活動在滬舉辦】6月22日，在第三十一屆上海電視節期間，世界超高畫質影片產業聯盟在上海舉辦國際交流活動。本次活動以超高畫質視聽技術體驗、國際產業對話和精品內容首發為核心，匯聚來自影視製作、內容發行、文旅傳播等領域的10餘國嘉賓，圍繞菁彩影像HDR Vivid、菁彩聲Audio Vivid等新一代沉浸式視聽技術在內容創作、產業落地與國際生態協作中的發展機遇展開深度探討。中央廣播電視總檯作為 世界超高畫質影片產業聯盟的常務理事單位參加了此次活動。（央視新聞）"
+    },
+    {
+      "id": "mkt:019ef3b2-9948-7dd8-b0d3-650818fe2ceb",
+      "time": "2026-06-23 16:57:08",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "Hang Seng Index",
+        "Impact mixed"
+      ],
+      "text": "【Hong Kong new listings may raise HK$208.0bn in 1H as IPO activity surges】Wind shows 83 Hong Kong IPOs raised HK$208.02bn in 1H 2026, nearly double 42 deals in 1H 2025; proceeds rose about 90% YoY from HK$109.04bn. Around 10 companies are slated to list in Hong Kong this week. By contrast, the secondary market is softer: the HSI and other major indices hit intraday YTD lows today. Market participants say with external interest rates and capital flows still unsettled, Hong Kong equities are likely to remain range-bound as markets digest listings, making a swift broad-based rally unlikely. They recommend focusing allocations on AI-supported segments, names attracting southbound flows, and subsectors with stronger fundamentals."
+    },
+    {
+      "id": "4950065",
+      "time": "2026-06-23 16:57:00",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【“吸金”或超2000億港元，港股新股市場上半年行情火熱】上半年行情即將收官，港股新股市場熱度不減。Wind資料顯示，本週，包括聖邦股份、領益智造、芯碁微裝等在內的10家企業將在港股密集上市。從港股市場上半年IPO企業數量和募資總額來看，預計2026年上半年將有83家新上市企業募資2080.23億港元，IPO企業數量較2025年上半年的42家近乎翻倍，募資總額較2025年上半年的1090.38億港元同比增長約90%。與一級市場的熱鬧相比，港股二級市場的表現卻冷清得多。今日，恒生指數等主要股指盤中集體創出年內新低。業內機構認為，在外部利率和資金流尚未完全穩定之前，港股指數層面或仍以震盪消化為主，難以快速形成全面上行趨勢，配置上建議繼續關注受AI產業趨勢支撐、南向資金仍有配置意願且基本面景氣度較高的細分領域。（中證報）"
+    },
+    {
+      "id": "4950064",
+      "time": "2026-06-23 16:56:54",
+      "tags": [
+        "公司",
+        "市場",
+        "觀點"
+      ],
+      "text": "【新易盛現4.75億元平價大宗交易】新易盛今日出現4.75億元平價大宗交易，成交價552元/股，買方為中信建投北京海淀分公司、機構專用席位，賣方均為機構專用席位。"
+    },
+    {
+      "id": "4950063",
+      "time": "2026-06-23 16:56:42",
+      "tags": [
+        "市場"
+      ],
+      "text": "【黃河旋風今日漲停，國泰海通上海松江區中山東路淨買入2.97億元】黃河旋風今日漲停，成交額54.72億元，換手率25.56%，盤後龍虎榜資料顯示，滬股通專用席位買入1.79億元並賣出8005.43萬元。國泰海通上海松江區中山東路淨買入2.97億元。"
+    },
+    {
+      "id": "mkt:019ef3b1-ad53-7dd8-b0d3-58ba732bb916",
+      "time": "2026-06-23 16:56:08",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "Oman foreign ministry said the Sultan of Oman listened to Iran’s explanations on multiple issues, expressed support for the talks and hope they succeed, and urged peaceful resolution of all outstanding matters—priority given to restoring and securing navigation in the Strait of Hormuz, the nuclear issue, and other related challenges."
+    },
+    {
+      "id": "4950062",
+      "time": "2026-06-23 16:55:31",
+      "tags": [
+        "公司"
+      ],
+      "text": "【傳阿里計劃出售遊戲業務，官方暫無回應】今日，有訊息稱，“阿里巴巴集團計劃出售靈犀互娛（遊戲業務品牌）。結合多位資深遊戲行業人士的訊息，阿里巴巴目前至少已經接觸過五位買家，分別是三七互娛、中國儒意、世紀華通、巨人網路以及某兩傢俬募股權巨頭集團（抱團收購），出售價格則為70-90億元人民幣（約10-13億元美金）。”有業內人士猜測，阿里此舉或是希望透過出售遊戲業務來獲得更為充足的現金流。對此訊息，新浪科技向阿里巴巴集團官方進行求證，截至發稿暫無回應。（新浪科技）"
+    },
+    {
+      "id": "mkt:019ef3b0-fb81-7dd8-b0d3-518443b9f5f0",
+      "time": "2026-06-23 16:55:22",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Oman's foreign ministry said the Sultan met today with Iran's parliament speaker Ghalibaf and Iranian foreign minister Araghchi; they discussed progress in Iran–U.S. negotiations."
+    },
+    {
+      "id": "4950061",
+      "time": "2026-06-23 16:54:52",
+      "tags": [
+        "公司"
+      ],
+      "text": "【華為雲透過中國信通院“可信AI-Token服務質量評估”】中國資訊通訊研究院長期關注高質量詞元（Token）服務的發展，依據《人工智慧詞元（Token）服務質量能力要求》開展“可信AI-Token服務質量評估”工作。2026年6月，華為雲端計算技術有限公司的“華為雲MaaS模型即服務”透過“可信AI-Token服務質量”評估，在模型服務能力、Token服務效能、Token服務可信、Token服務運維、Token服務使用者體驗、Token計量計費六大維度均滿足指標要求。"
+    },
+    {
+      "id": "4950060",
+      "time": "2026-06-23 16:54:49",
+      "tags": [
+        "公司"
+      ],
+      "text": "【航天彩虹：公司的膜業務與MLCC暫無關聯】航天彩虹(002389)6月23日在互動平臺表示，公司的膜業務與MLCC暫無關聯。"
+    },
+    {
+      "id": "4950059",
+      "time": "2026-06-23 16:54:46",
+      "tags": [
+        "公司"
+      ],
+      "text": "【ST合縱：收到執行通知書 涉案金額7071.02萬元】ST合縱公告稱，公司因業務回款壓力、資金流動性問題，與興業銀行北京西直門支行7099.64萬元債務逾期。近日，公司收到北京市海淀區人民法院送達的《執行通知書》，執行標的7071.02萬元，執行費13.81萬元。本次案件對公司利潤的影響以年度審計報告為準，公司將密切關注後續進展並及時披露。"
+    },
+    {
+      "id": "4950058",
+      "time": "2026-06-23 16:54:39",
+      "tags": [
+        "公司"
+      ],
+      "text": "【退市創興：公司股票退市整理期預計最後交易日為6月29日】退市創興公告稱，公司股票於2026年6月8日進入退市整理期，將交易15個交易日，預計最後交易日期為6月29日。期間首個交易日無漲跌幅限制，此後每日漲跌幅限制為10%。退市整理期屆滿後5個交易日內，上交所將對公司股票予以摘牌。公司在退市整理期不籌劃或實施重大資產重組事項，提醒投資者了結相關業務，注意投資風險。"
+    },
+    {
+      "id": "4950057",
+      "time": "2026-06-23 16:54:32",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "【聖暉整合：子公司簽訂2.23億元印尼廠房建設專案合同】聖暉整合公告稱，公司控股子公司印尼合資與客戶簽署《PT.HAI F12及F12 - 1膠底與鞋類生產廠房建設專案》合同，合同總金額約2.23億元，未稅。合同自雙方法定代表人或委託代理人簽字並加蓋公章或合同章後成立且生效，履行期限根據合約或訂單約定執行。此次合同簽訂利於公司在印尼業務發展，對業績有積極影響，但履行過程可能受政策等因素影響，存在不確定性。"
+    },
+    {
+      "id": "4950056",
+      "time": "2026-06-23 16:54:25",
+      "tags": [
+        "公司"
+      ],
+      "text": "【華北製藥：獲得甲苯磺酸艾多沙班片《藥品註冊證書》】華北製藥公告稱，公司近日收到國家藥監局核准簽發的甲苯磺酸艾多沙班片（30mg、60mg）《藥品註冊證書》，視為透過仿製藥質量和療效一致性評價。截至目前，累計研發投入1853.98萬元。該藥品用於預防卒中和體迴圈栓塞等，2024 - 2025年國內銷售額分別達4.9億元、6.1億元。此次獲證使產品具備集採招標基本准入條件，補充了公司口服抗凝藥產品管線，但銷售業務受政策、市場等因素影響，存在不確定性。"
+    },
+    {
+      "id": "4950055",
+      "time": "2026-06-23 16:54:20",
+      "tags": [
+        "公司"
+      ],
+      "text": "【魯抗醫藥：1.12億股限售股6月30日上市流通】魯抗醫藥公告稱，公司向特定物件發行股票，除控股股東華魯集團外其他15名發行物件認購的股份限售期已滿。本次可上市流通的限售股數量為111,628,565股，佔公司總股本的10.68%，上市流通日期為2026年6月30日。保薦機構認為，本次限售股上市流通相關事項符合規定，資訊披露真實、準確、完整。"
+    },
+    {
+      "id": "4950054",
+      "time": "2026-06-23 16:54:11",
+      "tags": [
+        "公司"
+      ],
+      "text": "【三星電子公眾號登出】有網友發現，三星電子公眾號目前處於凍結狀態，疑似登出。此前，三星電子宣佈，家電業務將退出中國大陸市場。"
+    },
     {
       "id": "mkt:019ef3af-8781-7dd8-b0d3-48b1a9094c0e",
       "time": "2026-06-23 16:53:47",
@@ -157838,77 +157994,6 @@
         "國際"
       ],
       "text": "【今日特朗普要聞】\n1、特朗普15日表示，美伊協議內容將在19日正式簽署後對外公佈。\n2、特朗普15日發文稱已有船隻開始駛離霍爾木茲海峽，其中許多船隻滿載石油。\n3、特朗普聲稱伊朗將被允許進行有限的低水平鈾濃縮活動，並稱美伊新協議將確保伊朗的鈾濃縮永遠只能用於非軍事目的。\n4、特朗普15日表示，俄羅斯總統普京與烏克蘭總統澤連斯基願意就解決烏克蘭危機採取行動。\n5、德國總理默茨稱烏克蘭問題外交談判的視窗將首次開啟，其將在七國集團峰會上與特朗普討論此事。\n6、特朗普與馬克龍舉行會晤，特朗普稱與馬克龍關係極佳。\n7、路透社與益普索聯合民調顯示：24%的美國民眾認可特朗普應對生活成本問題的舉措，特朗普支援率升至36%。"
-    },
-    {
-      "id": "4938226",
-      "time": "2026-06-16 16:58:11",
-      "tags": [
-        "公司"
-      ],
-      "text": "【華潤雙鶴：子公司部分產品獲得藥品註冊證書】華潤雙鶴公告，全資子公司華潤賽科藥業有限責任公司、山西晉新雙鶴藥業有限責任公司，控股子公司華潤雙鶴湘中藥業（湖南）有限公司分別收到了國家藥品監督管理局頒發的利格列汀二甲雙胍片（Ⅱ）、黃體酮注射液（Ⅱ）和氫溴酸伏硫西汀片《藥品註冊證書》。"
-    },
-    {
-      "id": "4938225",
-      "time": "2026-06-16 16:57:55",
-      "tags": [
-        "公司"
-      ],
-      "text": "【藏格礦業：麻米錯專案預計第三季度開始投產】藏格礦業6月16日在業績說明會上表示，公司麻米錯專案預計2026年第三季度開始投產，屆時將進入產能釋放期。公司正全力以赴保障專案高效推進，預計今年可實現產量為2萬噸—2.5萬噸。麻米錯鹽湖碳酸鋰資源儲量約217萬噸，資源儲量豐富，專案整體規劃為年產10萬噸碳酸鋰產能。"
-    },
-    {
-      "id": "4938224",
-      "time": "2026-06-16 16:57:04",
-      "tags": [
-        "市場"
-      ],
-      "text": "美股儲存概念盤前延續漲勢，西部資料、希捷科技漲超5%， 美光科技 漲近3%，閃迪、 Roundhill Memory ETF漲超1%。"
-    },
-    {
-      "id": "mkt:019ecfa5-758b-7dd8-b028-4cb72b7f847c",
-      "time": "2026-06-16 16:56:27",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "【Analyst: ANTHROPIC holds clear enterprise-market advantage over OpenAI】Julius Baer analyst Enrico Chinello says US AI adoption momentum indicates ANTHROPIC has overtaken OpenAI; OpenAI is considering price cuts to boost usage and regain share. About 85% of ANTHROPIC’s revenue comes from enterprise customers, while OpenAI earns most revenue from ChatGPT consumer subscriptions and the vast majority of users remain on the free tier, leaving OpenAI’s profitability uncertain. Recent across-the-board token price increases suggest AI labs may still have some pricing power without obviously sacrificing margins."
-    },
-    {
-      "id": "mkt:019ecfa5-4d05-7dd8-b028-474411fa8886",
-      "time": "2026-06-16 16:56:17",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "Chip Wars",
-        "TSM.O"
-      ],
-      "text": "【TSMC issues 'CoWoS glass-substrate development plan' to suppliers; first public technical update】TSMC has circulated a 'CoWoS glass-substrate development plan' to its supply chain, naming ABF substrate maker Ibiden and panelmaker Innolux to jointly validate the feasibility of introducing glass substrates into CoWoS advanced packaging. TSMC says this is its first public disclosure of glass-substrate technical progress and indicates the technology has entered industrial verification. The company cautioned glass substrates remain some way from full mass production and further R&D is required on glass thickness and large-format CoWoS package layouts."
-    },
-    {
-      "id": "4938223",
-      "time": "2026-06-16 16:55:59",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【伯恩斯坦：鎧俠股價高估五成，NAND快閃記憶體價格預計2027年見頂】伯恩斯坦投行表示，日本儲存晶片廠商鎧俠股價估值高出合理水平50%，且NAND快閃記憶體價格大機率將於2027年觸頂，並重申該股“跑輸大盤”評級。馬克・李等分析師週一釋出研報稱，短期來看股價仍有上漲動能，並將鎧俠目標價由17000日元上調至40000日元。鎧俠股價年內暴漲超800%，當前報94720日元；該股週二上漲4.2%。伯恩斯坦表示，2027年上半年前後，NAND快閃記憶體價格或將見頂、企業盈利增速放緩，市場對該股的估值預期屆時或將重新修正。鎧俠當前高利潤率源於突發的需求暴漲，而NAND快閃記憶體行業的市場競爭只會愈發激烈。"
-    },
-    {
-      "id": "4938222",
-      "time": "2026-06-16 16:55:01",
-      "tags": [
-        "其他"
-      ],
-      "text": "【訊息稱臺積電向供應鏈釋出玻璃基板開發計劃 首次公開技術進度】裝置端稱，臺積電近期向供應鏈釋出“CoWoS玻璃基板開發計劃”，確定攜手ABF載板廠商Ibiden與面板廠商群創，共同驗證玻璃基板匯入CoWoS先進封裝的可行性。這是臺積電首次公開玻璃基板技術應用程序，意味著玻璃基板正式跨入產業化驗證階段。不過玻璃基板距離全面量產仍有一段距離，臺積電強調，未來仍需持續研究驗證玻璃厚度及大型CoWoS封裝佈局。"
-    },
-    {
-      "id": "4938221",
-      "time": "2026-06-16 16:54:32",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "布倫特原油失守81美元/桶，日內跌2.61%。"
     }
   ]
 }
