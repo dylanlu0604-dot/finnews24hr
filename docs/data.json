@@ -1,7 +1,77 @@
 {
-  "updated": "2026-06-23 22:41:45",
-  "count": 17330,
+  "updated": "2026-06-23 22:45:58",
+  "count": 17321,
   "items": [
+    {
+      "id": "mkt:019ef4f1-0989-7dd8-b0dc-d6d1b4a90459",
+      "time": "2026-06-23 22:44:57",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "According to an HKEX filing, Luxshare Precision Industry Co Ltd has passed its HKEX listing hearing."
+    },
+    {
+      "id": "4950896",
+      "time": "2026-06-23 22:43:53",
+      "tags": [
+        "公司"
+      ],
+      "text": "【第九屆進博會肯亞座談會在內羅畢舉行】第九屆中國國際進口博覽會肯亞座談會23日在肯亞首都內羅畢舉行，來自中肯兩國政府機構、商協會及企業代表參會交流。 中國駐肯亞大使館公使銜參贊周振成致辭時表示，進博會成功舉辦八屆，已成為全球共享的國際公共產品。肯亞作為本年度“出口中國”主題國，透過綜合展示，將進一步加深中國及世界其他國家對肯亞的瞭解和認識，併為肯亞企業開拓中國市場創造新的良機。同時以參展交流為紐帶，從商品貿易拓展到投資合作，延伸產業鏈條、最佳化產業結構、助推產業升級，促進中肯經貿合作持續健康發展。 肯亞全國工商聯合會主席埃裡克·魯託說，肯中貿易關係的發展勢頭令人振奮，進博會是肯亞實現出口多元化、將更多肯亞生產商與中國買家對接的核心戰略平臺。本屆進博會肯亞將重點展示牛油果、夏威夷果、茶葉、咖啡等高附加值農產品和天然產品，以及皮革製品、手工藝品等，以契合中國消費者對非洲原產地商品日益增長的需求。 國家會展中心（上海）有限責任公司總裁華慰表示，自首屆進博會以來，有近80家肯亞企業參展，透過進博會這一平臺進入中國市場。進博會已經成為連線兩國企業、促進務實合作的重要紐帶。(新華社)"
+    },
+    {
+      "id": "4950895",
+      "time": "2026-06-23 22:42:33",
+      "tags": [
+        "其他"
+      ],
+      "text": "【算電協同迎重大機遇】在距離第四屆鏈博會會場不到100公里外的河北張家口，當地正在打造國家級超大規模綠色算力叢集。來自張北的風，如何“點亮”AI大腦？央視財經記者瞭解到，這一位於張家口懷來縣的大型單體AI算力叢集，一期專案已全面投產，部署伺服器數量超20萬臺，其中不少都是用於國內網際網路企業的AI大模型迭代訓練和應用推理，整個算力叢集執行1小時的用電量就要超百萬度。而張家口風能資源可開發量超4000萬千瓦，豐富的綠電資源，為算力產業提供穩定支撐。在距離這一專案不遠位置，另一處在建的算力中心今年5月也完成了新一棟機房樓的投產。資料顯示，2025年全國算力中心總用電量達1700億千瓦時，佔全社會用電量的1.6%。與此同時，我國綠色電力供應規模持續擴大，2025年全國綠色電力交易電量達3285億千瓦時。業內預計，“十五五”時期隨著全國綠色電力與算力協同佈局的推進，上下游產業鏈將迎來更大的發展機遇。（央視財經）"
+    },
+    {
+      "id": "mkt:019ef4ee-3a58-7dd8-b0dc-ccece19201b9",
+      "time": "2026-06-23 22:41:53",
+      "tags": [
+        "MKT News",
+        "S&P500",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish",
+        "XAUUSD"
+      ],
+      "text": "Putin said Russia is prepared to hold peace talks with Ukraine under the \"Istanbul-2022\" framework."
+    },
+    {
+      "id": "mkt:019ef4ee-05ab-7dd8-b0dc-c7ff472d4f06",
+      "time": "2026-06-23 22:41:40",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "【Russia weighing diesel export ban, delays refinery maintenance — Novak】Russian Deputy Prime Minister Novak said Moscow is considering a ban on diesel exports. He described the fuel market as complex but under control, saying refiners have postponed maintenance and oil firms have pushed fuel output to maximum. Authorities are tapping fuel reserves and have proposed tax changes aimed at increasing fuel supply."
+    },
+    {
+      "id": "4950894",
+      "time": "2026-06-23 22:41:38",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "俄羅斯總統普京：俄羅斯準備在“伊斯坦布林-2022”框架下與烏克蘭進行和平談判。"
+    },
+    {
+      "id": "4950893",
+      "time": "2026-06-23 22:41:28",
+      "tags": [
+        "公司"
+      ],
+      "text": "【AI智慧終端全面爆發】在第四屆鏈博會現場，原有的“數字科技鏈”升級成為“數智科技鏈”。這一字之變，背後體現的是人工智慧正在成為產業鏈上的主角。現場首設的人工智慧專區，集聚了中外AI領軍企業，展示了從資料、算力到應用的全鏈條。不同廠家的AI眼鏡、數字底盤的智慧汽車、會踢足球的人形機器人……央視財經記者在鏈博會現場看到，人工智慧接入物理世界的形態，正在從手機和電腦走向各類新的智慧終端。今年以來，AI智慧體應用也全面爆發。高通公司全球高階副總裁錢堃表示，AI智慧體的賦能使得現有終端裝置有一個大的升級換代週期。中國的產業鏈非常完善，透過跟中國合作伙伴不斷合作，他們的產品能很快走向市場並被全球接受。阿里雲智慧集團副總裁劉湘雯表示，AI從原來的聊天進入到幹活的生產力要素，所有全棧上的，無論是GPU的雲還是CPU，發展非常迅速，相信接下來還有更大的空間。（央視財經）"
+    },
     {
       "id": "mkt:019ef4ec-ebea-7dd8-b0dc-bbb2a3b848c8",
       "time": "2026-06-23 22:40:27",
@@ -158672,152 +158742,6 @@
         "國際"
       ],
       "text": "【歐洲天然氣價格跌幅擴大 花旗稱還有下行空間】在美國與伊朗達成重開霍爾木茲海峽的臨時協議後，市場對中東供應重返全球市場的樂觀情緒升溫，歐洲天然氣價格延續跌勢。在早些時候震盪後，基準期貨下跌，4日累計跌幅擴大至約16%。美國總統特朗普重申，霍爾木茲海峽到週五將恢復全面開放。早些時候，彭博新聞社報道稱，該地區最大生產國卡達計劃在霍爾木茲海峽的安全通行恢復後迅速提高液化天然氣產量。在衝突導致波斯灣出口運輸幾近停頓之前，全球約五分之一的海運天然氣都要經過霍爾木茲海峽這一咽喉要道。關於美伊協議將如何落實，目前仍有許多問題，包括對航運安全的擔憂。歐洲天然氣價格仍比危機前水平高出約30%，不過花旗集團在週二的一份報告中表示，隨著“衝突降級”，價格還有進一步下行的空間。截至阿姆斯特丹當地時間3:53，歐洲天然氣基準——荷蘭近月期貨價格下跌1.6%，報每兆瓦時41.90歐元。花旗將今年下半年的價格預測下調至37歐元。"
-    },
-    {
-      "id": "4939047",
-      "time": "2026-06-16 22:45:56",
-      "tags": [
-        "其他"
-      ],
-      "text": "加拿大皇家銀行：拿大缺乏企業規模化發展所需資本，加拿大皇家銀行有意佈局該領域。"
-    },
-    {
-      "id": "4939046",
-      "time": "2026-06-16 22:45:37",
-      "tags": [
-        "其他"
-      ],
-      "text": "加拿大皇家銀行：加拿大需採取更多舉措助力本土企業發展壯大。"
-    },
-    {
-      "id": "4939045",
-      "time": "2026-06-16 22:45:11",
-      "tags": [
-        "國際"
-      ],
-      "text": "加拿大皇家銀行：正考慮拓展中東及亞洲業務。"
-    },
-    {
-      "id": "4939044",
-      "time": "2026-06-16 22:44:01",
-      "tags": [
-        "國際"
-      ],
-      "text": "幣安：持續深耕歐洲市場。"
-    },
-    {
-      "id": "mkt:019ed0e3-a65c-7dd8-b034-84a1d137efef",
-      "time": "2026-06-16 22:44:00",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution",
-        "Nasdaq100",
-        "Impact bullish",
-        "US10Y",
-        "Impact bearish"
-      ],
-      "text": "【JP Morgan: AI-related bond issuance likely to remain robust for years】JP Morgan analysts say bond issuance to finance AI and data centers is likely to remain robust over the coming years. Loans currently cover about 85% of project costs on average; JP Morgan estimates AI-related spending will reach $5.5 trillion by 2030, roughly $4.1 trillion of which is expected to be debt-financed. Issuers are expected to tap capital markets in every country to meet growth financing needs. The bank adds that large tech \"super-scale cloud service providers\" have sufficient profitability that investors should remain comfortable even as issuance expands, and that these firms are borrowing heavily in part to preserve large cash buffers against potential economic deterioration and higher funding costs."
-    },
-    {
-      "id": "4939043",
-      "time": "2026-06-16 22:43:56",
-      "tags": [
-        "其他"
-      ],
-      "text": "加拿大食品檢驗局表示，儘管加拿大境內尚未出現非洲豬瘟，但該疾病仍在全球持續蔓延。"
-    },
-    {
-      "id": "4939042",
-      "time": "2026-06-16 22:43:49",
-      "tags": [
-        "國際"
-      ],
-      "text": "幣安：在歐盟加密資產監管法案（MiCA）立法程序中與監管機構開展了建設性合作。"
-    },
-    {
-      "id": "4939041",
-      "time": "2026-06-16 22:43:39",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "【歐洲央行首席經濟學家：儘管美伊達成協議 通脹仍將持續】歐洲央行首席經濟學家Philip Lane表示，必須為中東衝突已引發但尚未顯現的通脹做好準備。這位來自愛爾蘭的官員週二在路透社的活動中表示，儘管美國和伊朗宣佈達成重新開放霍爾木茲海峽的協議，但油價走勢尚未簡單地恢復到危機前的路徑。“能源價格連續四個月高企，這意味著我們可以預見，未來通脹率將超過3%，”他說道，“這將對今年乃至明年的食品、商品和服務產生間接影響。”歐洲央行上週自2023年以來首次加息，行長克里斯蒂娜·拉加德警告稱，由伊朗戰爭引發的通脹正在擴散，不再侷限於能源領域。拉加德週一重申了這一觀點。投資者和經濟學家仍然預計至少還會再進行一次25基點的加息，使利率達到2.5%，而且價格漲幅將在一段時間內遠高於2%的目標。Lane表示，原油價格不太可能從目前每桶80至81美元的水平大幅下降，並稱遠期曲線“在未來幾年內基本上相當平緩”。他說：“基於市場定價，我們不會大幅回落至戰前水平。但也不會出現像我們之前設想的不利情境或嚴重情境下那樣高得多的價格。”"
-    },
-    {
-      "id": "4939040",
-      "time": "2026-06-16 22:43:02",
-      "tags": [
-        "國際"
-      ],
-      "text": "加拿大食品檢驗局：即便加拿大其他地區出現非洲豬瘟，無疫地區仍可繼續向日本出口豬肉。"
-    },
-    {
-      "id": "4939039",
-      "time": "2026-06-16 22:42:44",
-      "tags": [
-        "其他"
-      ],
-      "text": "【生態環境損害賠償制度改革工作推進視訊會議召開】生態環境損害賠償制度改革工作推進視訊會議6月16日召開，系統總結生態環境損害賠償工作進展情況，交流工作經驗，推動制度改革走深走實。會議強調，黨的二十屆四中全會指出“加快經濟社會發展全面綠色轉型，建設美麗中國”，要牢固樹立和踐行綠水青山就是金山銀山的理念，以強烈的責任擔當，把“十五五”時期生態環境損害賠償工作推向新高度，以高品質保護支撐高質量發展，為全面推進美麗中國建設、加快推進人與自然和諧共生的現代化作出新的更大貢獻。"
-    },
-    {
-      "id": "4939038",
-      "time": "2026-06-16 22:42:23",
-      "tags": [
-        "國際"
-      ],
-      "text": "加拿大食品檢驗局：加拿大與日本達成新分割槽安排，推進非洲豬瘟防控準備工作。"
-    },
-    {
-      "id": "mkt:019ed0e2-0271-7dd8-b034-7c9a5b1b2179",
-      "time": "2026-06-16 22:42:13",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "RBC CEO McKay said Canada seeks to maintain trade with the U.S. while diversifying into other markets."
-    },
-    {
-      "id": "4939037",
-      "time": "2026-06-16 22:42:11",
-      "tags": [
-        "國際"
-      ],
-      "text": "幣安表示將持續服務歐洲使用者。"
-    },
-    {
-      "id": "mkt:019ed0e1-b3da-7dd8-b034-744fb0a7697c",
-      "time": "2026-06-16 22:41:52",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Wall Street (US)",
-        "S&P500",
-        "Impact bullish",
-        "DXY",
-        "EURUSD",
-        "Impact bearish"
-      ],
-      "text": "RBC CEO McKay said the bank is increasing risk exposure in the U.S. market as the local economy is strong, while conditions in the Canadian market are weaker."
-    },
-    {
-      "id": "4939036",
-      "time": "2026-06-16 22:41:50",
-      "tags": [
-        "其他"
-      ],
-      "text": "加拿大皇家銀行：加拿大希望維持對美貿易，並拓展其他地區市場。"
-    },
-    {
-      "id": "te:economy:559387",
-      "time": "2026-06-16 22:41:50",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Sri Lanka",
-        "Services PMI",
-        "Importance 1"
-      ],
-      "text": "Sri Lanka Services Activity Rebounds in May — Sri Lanka’s Services PMI rose to 56.9 in May 2026 from 46.7 in April, signaling a rebound in services activity. The expansion was driven mainly by the financial, professional, and personal services sub-sectors, while real estate, IT programming, and goods transportation also posted notable growth. New business increased to 58.0 from 48.9, supported primarily by financial and professional services, with additional contributions from wholesale and retail trade, personal services, and goods transportation. Expectations for business activity over the next three months remained positive, although easing slightly to 64.7 from 65.9, supported by anticipated tourist arrivals during the Perahera season and improving economic conditions. Meanwhile, employment (49.4 vs 44.4) and backlogs of work (48.1 vs 48.8) remained below the 50 threshold."
     }
   ]
 }
