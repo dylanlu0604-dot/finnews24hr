@@ -1,7 +1,27 @@
 {
-  "updated": "2026-06-24 03:25:04",
-  "count": 17274,
+  "updated": "2026-06-24 03:29:10",
+  "count": 17272,
   "items": [
+    {
+      "id": "mkt:019ef5f3-dbf0-7dd8-b0e2-abf4551b5c5b",
+      "time": "2026-06-24 03:27:39",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "DXY"
+      ],
+      "text": "【Israel's US ambassador: including Iran in Lebanon talks would be a 'disaster'】The Times of Israel reported Israel's ambassador to the US sharply criticized the Trump administration for agreeing to fold Iran into a Washington memorandum on Lebanon ceasefire talks signed last week, calling it a \"disaster.\" He is leading the fifth round of direct Israel-Lebanon negotiations at the State Department. He said when Israel and Lebanon began direct talks \"we all boarded the same train,\" with the US as the locomotive aiming for comprehensive peace, the removal of Iranian influence from Lebanon, the disarmament of Hezbollah and security between the two countries. He warned the train now risks derailing and said he hopes to get it back on track."
+    },
+    {
+      "id": "4951096",
+      "time": "2026-06-24 03:25:12",
+      "tags": [
+        "國際"
+      ],
+      "text": "【特朗普在賓夕法尼亞州的活動上大力宣傳其減稅政策】特朗普在賓夕法尼亞州的活動上大力宣傳其減稅政策，以此作為中期競選宣傳的核心內容。特朗普重點提出兩項政策：加班收入免稅、老年人社保福利免稅，並預估這兩項政策每年能讓家庭增收超1萬美元。他說：“國會里所有民主黨人全都投票反對我們的減稅方案。”"
+    },
     {
       "id": "4951095",
       "time": "2026-06-24 03:24:24",
@@ -158298,42 +158318,6 @@
         "國際"
       ],
       "text": "安全訊息人士：無人機襲擊伊拉克埃爾比勒東部一處伊朗反對派營地。"
-    },
-    {
-      "id": "mkt:019ed1e8-7216-7dd8-b039-a469a643a17e",
-      "time": "2026-06-17 03:28:52",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "Brent",
-        "DXY"
-      ],
-      "text": "Iran's Armed Forces Hatam al-Anbiya Central Headquarters accused Israel of violating the Lebanon ceasefire 84 times over the past two days and warned it would respond with force if such incursions continue."
-    },
-    {
-      "id": "4939313",
-      "time": "2026-06-17 03:27:39",
-      "tags": [
-        "觀點"
-      ],
-      "text": "【高盛今年提供諮詢的併購交易總額已破萬億美元 創史上最快達成紀錄】根據Dealogic資料，高盛今年以來提供諮詢服務的併購交易總額已突破1萬億美元，成為有史以來達到這一里程碑速度最快的銀行。資料顯示，今年迄今已宣佈的併購交易總額約為1.7萬億美元，不包括SpaceX與xAI的合併。這與併購高峰期2021年同期的水平基本持平。不過，在2021年的併購熱潮中，高盛直到7月中旬才達到1萬億美元的門檻。根據Dealogic資料，今年高盛最接近的競爭對手距離這一水平仍相差約3,000億美元。"
-    },
-    {
-      "id": "mkt:019ed1e6-0f89-7dd8-b039-9e80e18af5cb",
-      "time": "2026-06-17 03:26:15",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Russia bars 103 Canadians from entry in response to Canadian sanctions】Russia's Foreign Ministry said on its website on the evening of the 16th that, in response to Canadian sanctions against Russia, it has banned 103 Canadian nationals from entering the country. The ministry accused some Canadian politicians of harming Russian rights and interests and damaging bilateral ties, and said it respects the Canadian people but opposes the Canadian government's current hostile stance. The travel ban list includes several Canadian MPs and former Canadian ambassadors to Russia and Ukraine."
-    },
-    {
-      "id": "4939312",
-      "time": "2026-06-17 03:25:56",
-      "tags": [
-        "國際"
-      ],
-      "text": "【俄羅斯禁止103名加拿大人入境以回應加方制裁】俄羅斯外交部16日晚在官網釋出通報稱，作為對加拿大對俄製裁措施的回應，俄方禁止103名加拿大籍人員入境。俄外交部表示，加拿大一些政治人物損害俄方權利和利益，破壞兩國關係。俄方一貫尊重加拿大人民，但反對加政府當前的敵對立場。根據俄外交部公佈的名單，此次被禁止入境的包括多名加拿大議員、加拿大前駐俄羅斯與烏克蘭大使等人員。（新華社）"
     }
   ]
 }
