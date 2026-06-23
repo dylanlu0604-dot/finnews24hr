@@ -1,7 +1,137 @@
 {
-  "updated": "2026-06-24 04:32:34",
-  "count": 17301,
+  "updated": "2026-06-24 04:36:43",
+  "count": 17298,
   "items": [
+    {
+      "id": "4951141",
+      "time": "2026-06-24 04:36:06",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "明晟公司（MSCI Inc.）：提前預先結算資金要求仍對韓國市場參與者構成負擔。"
+    },
+    {
+      "id": "4951140",
+      "time": "2026-06-24 04:35:56",
+      "tags": [
+        "其他"
+      ],
+      "text": "巴西外貿委員會管理與執行委員會：散件整車的35%關稅稅率將於2027年1月1日起生效。"
+    },
+    {
+      "id": "4951139",
+      "time": "2026-06-24 04:35:43",
+      "tags": [
+        "公司"
+      ],
+      "text": "明晟公司（MSCI Inc）：若截至11月指數審議時，土耳其市場未顯現足夠切實可信的進展，或啟動針對土耳其市場的徵求意見程式。"
+    },
+    {
+      "id": "mkt:019ef632-1abb-7dd8-b0e3-46ceccdd1b46",
+      "time": "2026-06-24 04:35:39",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "MSCI said if significant progress is not achieved by November 2026 it may consult on reclassifying Indonesia from emerging-market status to frontier-market status."
+    },
+    {
+      "id": "te:markets:561271",
+      "time": "2026-06-24 04:35:03",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The Dow Jones Index Closes 0.09% Lower — The Dow Jones Index dropped 47 points or 0.09 percent on Tuesday to close at 51665 points. Losses were led by Nvidia (-3.99%), Caterpillar (-3.55%) and Honeywell International (-2.37%). Offsetting the fall, top gainers were IBM (4.92%), Merck (3.54%) and J&J (3.36%)."
+    },
+    {
+      "id": "mkt:019ef631-3f73-7dd8-b0e3-3ff86837c2e5",
+      "time": "2026-06-24 04:34:43",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "State media reported Oman has coordinated with the International Maritime Organization to provide a temporary maritime corridor in the Strait of Hormuz."
+    },
+    {
+      "id": "4951138",
+      "time": "2026-06-24 04:34:09",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "明晟公司（MSCI INC）：認可印尼及土耳其股市為解決上述問題所採取並已公佈的各項措施。"
+    },
+    {
+      "id": "4951137",
+      "time": "2026-06-24 04:34:03",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "明晟公司（MSCI Inc）就印尼市場發表觀點：對於印尼而言，市場參與者對其可投資性提出了重大擔憂，這些擔憂源於相關問題。"
+    },
+    {
+      "id": "4951136",
+      "time": "2026-06-24 04:33:53",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "明晟公司（MSCI Inc）就印尼市場發表觀點：對於印尼而言，市場參與者對其可投資性提出了重大擔憂，這些擔憂源於相關問題。"
+    },
+    {
+      "id": "4951135",
+      "time": "2026-06-24 04:33:46",
+      "tags": [
+        "國際"
+      ],
+      "text": "明晟就印尼問題表態：明晟將在自由流通量確定與更廣泛可投資性評估的框架下，持續評估相關規則的覆蓋範圍、一致性和長期有效性。"
+    },
+    {
+      "id": "4951134",
+      "time": "2026-06-24 04:33:41",
+      "tags": [
+        "國際"
+      ],
+      "text": "明晟：持續監測針對提升韓國股市對國際機構投資者可及性的相關措施的落實情況。"
+    },
+    {
+      "id": "4951133",
+      "time": "2026-06-24 04:33:34",
+      "tags": [
+        "公司"
+      ],
+      "text": "Grindr宣佈任命執行長喬治·阿里森為董事會主席，並授予股權，以延續阿里森截至2030年秋季的薪酬安排。"
+    },
+    {
+      "id": "mkt:019ef62f-ffc0-7dd8-b0e3-3275af83c7ca",
+      "time": "2026-06-24 04:33:21",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Emerging Markets"
+      ],
+      "text": "MSCI is assessing shareholder transparency and coordinated trading issues in Indonesian and Turkish equity markets."
+    },
+    {
+      "id": "mkt:019ef62f-b321-7dd8-b0e3-2f141af5ceed",
+      "time": "2026-06-24 04:33:01",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "MSCI said if by its November 2026 index review the Indonesian market has not shown significant progress, it will consider a range of options to determine its treatment in MSCI indices."
+    },
+    {
+      "id": "mkt:019ef62f-05ac-7dd8-b0e3-20df30075c78",
+      "time": "2026-06-24 04:32:17",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "MSCI released the results of its 2026 market classification review."
+    },
     {
       "id": "mkt:019ef62b-4bc2-7dd8-b0e3-1a364ee7af95",
       "time": "2026-06-24 04:28:12",
@@ -158369,197 +158499,6 @@
         "Brent"
       ],
       "text": "U.S. API crude oil production change for week to June 12: -17,000 b/d, prior +262,000 b/d."
-    },
-    {
-      "id": "mkt:019ed226-6c08-7dd8-b03a-6ee6864badd8",
-      "time": "2026-06-17 04:36:33",
-      "tags": [
-        "MKT News",
-        "Economic Calendar"
-      ],
-      "text": "United States | API Weekly Crude Oil Runs (Jun.12) | actual -17000M | previous 262000M"
-    },
-    {
-      "id": "mkt:019ed226-5f89-7dd8-b03a-629d0a366204",
-      "time": "2026-06-17 04:36:30",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "US API petroleum product imports for week to June 12: -121,000 b/d, prior -51,000 b/d."
-    },
-    {
-      "id": "4939328",
-      "time": "2026-06-17 04:36:23",
-      "tags": [
-        "其他"
-      ],
-      "text": "KBRA指數顯示，私人信用市場違約率創2023年3月份以來最高。"
-    },
-    {
-      "id": "mkt:019ed226-3e3f-7dd8-b03a-5eab79828e04",
-      "time": "2026-06-17 04:36:22",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "US API crude oil imports for the week ended June 12: -276,000 bbl; prior -358,000 bbl."
-    },
-    {
-      "id": "mkt:019ed226-3ccb-7dd8-b03a-54181f6b305f",
-      "time": "2026-06-17 04:36:21",
-      "tags": [
-        "MKT News",
-        "Economic Calendar"
-      ],
-      "text": "United States | API Weekly Petroleum Products Imports Change (Jun.12) | actual -121000M | previous -51000M"
-    },
-    {
-      "id": "mkt:019ed226-1ec8-7dd8-b03a-4a1039d7e57f",
-      "time": "2026-06-17 04:36:14",
-      "tags": [
-        "MKT News",
-        "Economic Calendar"
-      ],
-      "text": "United States | API Weekly Crude Oil Imports Change (Jun.12) | actual -276000M | previous -358000M"
-    },
-    {
-      "id": "4939327",
-      "time": "2026-06-17 04:36:05",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "美國至6月12日當週API原油庫存 -833萬桶，預期-451.5萬桶，前值-911.9萬桶。"
-    },
-    {
-      "id": "mkt:019ed225-f5b2-7dd8-b03a-47d9add0befe",
-      "time": "2026-06-17 04:36:03",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "API: U.S. heating oil inventories fell 125,000 barrels in the week to June 12, versus a 407,000‑barrel draw the prior week."
-    },
-    {
-      "id": "mkt:019ed225-db55-7dd8-b03a-3b7fb9b38a76",
-      "time": "2026-06-17 04:35:56",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bullish"
-      ],
-      "text": "US API Cushing crude stocks -1.523 mln barrels in week to June 12; prior -1.125 mln barrels."
-    },
-    {
-      "id": "mkt:019ed225-d8aa-7dd8-b03a-34fdfcb64a25",
-      "time": "2026-06-17 04:35:56",
-      "tags": [
-        "MKT News",
-        "Economic Calendar"
-      ],
-      "text": "United States | API Weekly Heating Oil Stocks Change (Jun.12) | actual -125000M | previous -407000M"
-    },
-    {
-      "id": "mkt:019ed225-b72b-7dd8-b03a-2d20ff9a0079",
-      "time": "2026-06-17 04:35:47",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "United States | API Weekly Cushing Crude Oil Stocks Change (Jun.12) | actual -1523000M | previous -1125000M"
-    },
-    {
-      "id": "mkt:019ed225-b657-7dd8-b03a-25d1bda0199a",
-      "time": "2026-06-17 04:35:47",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "US API weekly refined-product inventories fell 461,000 barrels in the week to June 12, versus an expected decline of 198,000 barrels; prior was an increase of 1.316 million barrels."
-    },
-    {
-      "id": "mkt:019ed225-94eb-7dd8-b03a-1def6661d6dd",
-      "time": "2026-06-17 04:35:38",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "U.S. API gasoline stocks rose 2.479 mln barrels in the week to June 12, versus an expected draw of 1.401 mln and a prior draw of 1.191 mln."
-    },
-    {
-      "id": "mkt:019ed225-8a1d-7dd8-b03a-1010af7cb8dc",
-      "time": "2026-06-17 04:35:35",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "United States | API Weekly Distillate Stocks Change (Jun.12) | actual -461000M | consensus -198000M | previous 1316000M"
-    },
-    {
-      "id": "mkt:019ed225-67bd-7dd8-b03a-0f6f04fe9d8a",
-      "time": "2026-06-17 04:35:27",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "United States | API Weekly Gasoline Stocks Change (Jun.12) | actual 2479000M | consensus -1401000M | previous -1191000M"
-    },
-    {
-      "id": "mkt:019ed225-5106-7dd8-b03a-02ceefc5d2a4",
-      "time": "2026-06-17 04:35:21",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "US API weekly crude inventories fell 8.33 mln barrels in the week to June 12 vs market-expected draw of 4.52 mln; prior week draw 9.12 mln."
-    },
-    {
-      "id": "mkt:019ed225-26d3-7dd8-b039-f81900874638",
-      "time": "2026-06-17 04:35:10",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "United States | API Weekly Crude Oil Stocks Change (Jun.12) | actual -8330000M | consensus -4515000M | previous -9119000M"
-    },
-    {
-      "id": "te:markets:559442",
-      "time": "2026-06-17 04:35:09",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The Dow Jones Index Closes 0.64% Higher — The Dow Jones Index gained 332 points or 0.64 percent on Tuesday to close at 52003 points. Gains were led by JPMorgan (3.72%), Visa (2.83%) and 3M (2.15%). Biggest losers were Nvidia (-2.17%), Salesforce (-1.74%) and Microsoft (-1.46%)."
     }
   ]
 }
