@@ -1,7 +1,61 @@
 {
-  "updated": "2026-06-23 08:34:42",
-  "count": 17333,
+  "updated": "2026-06-23 08:38:48",
+  "count": 17331,
   "items": [
+    {
+      "id": "4949144",
+      "time": "2026-06-23 08:37:10",
+      "tags": [
+        "其他"
+      ],
+      "text": "深交所港股通標的證券名單調整， 6月23日起調入星源材質。"
+    },
+    {
+      "id": "mkt:019ef1e8-d69d-7dd8-b0c7-69ea81b4714d",
+      "time": "2026-06-23 08:37:08",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "Shenzhen Stock Exchange adjusts Hong Kong Stock Connect eligible securities list; effective June 23 adds Xingyuan Materials."
+    },
+    {
+      "id": "4949143",
+      "time": "2026-06-23 08:36:48",
+      "tags": [
+        "其他"
+      ],
+      "text": "【阿波羅旗下私募信貸基金ABS設定5%的贖回比例上限】阿波羅全球管理旗下規模達260億美元的私募信貸基金Apollo Debt Solutions (ADS)週一表示，已將贖回額度限制在基金份額的5%；此前投資者尋求贖回約16.8%的基金份額。該基金在提交的檔案中表示，根據初步資料，向這些投資者支付贖回款項將導致基金總流出額達到7億美元，高於3億美元的流入額。這意味著今年迄今為止，基金淨流出額約佔其資產價值的3%。該基金贖回申請比例高於上一季度的約11.2%。該基金主要面向富裕人群，通常允許投資者每三個月贖回一次部分資金。"
+    },
+    {
+      "id": "te:economy:560903",
+      "time": "2026-06-23 08:36:25",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Japan",
+        "Manufacturing PMI",
+        "Importance 2"
+      ],
+      "text": "Japan Manufacturing Expansion Strengthens in June — The S&P Global Japan Manufacturing PMI increased to 54.9 in June 2026, above both the previous month and market expectations of 54.5, preliminary estimates showed. It was the sixth consecutive month of expansion in factory activity, supported by faster output growth. Output growth was the second-quickest since January 2022."
+    },
+    {
+      "id": "4949142",
+      "time": "2026-06-23 08:34:28",
+      "tags": [
+        "其他"
+      ],
+      "text": "【普洛藥業：海外CDMO專案透過官方審計並投入商業化生產】據普洛藥業訊息，近日，普洛藥業與海外某長期戰略合作伙伴共同推進的創新藥CDMO DS專案，順利透過海外官方審計認證，並全面進入商業化生產供應階段。"
+    },
+    {
+      "id": "4949141",
+      "time": "2026-06-23 08:34:19",
+      "tags": [
+        "市場"
+      ],
+      "text": "【圖表顯示西得州中質油價格可能出現“修正性“反彈】FOREX.com的Fawad Razaqzada在一封電子郵件中表示，根據日線圖，西得州中質油價格顯示出“修正性“反彈的可能性。“西得州中質油幾周來一直呈下跌趨勢，導致動能指標越來越向下極度延伸，“該市場分析師指出。“這增加了出現修正性反彈的可能性，”Razaqzada說。最初的主要阻力位在每桶76.10美元左右。“該區域在今年早些時候曾作為支撐位，隨後最終失守，而最新的價格走勢表明，它現在正發揮阻力位的作用，“該分析師補充道。近月西得州中質油期貨上漲0.5%，報每桶74.21美元。"
+    },
     {
       "id": "4949140",
       "time": "2026-06-23 08:33:36",
@@ -159153,74 +159207,6 @@
         "公司"
       ],
       "text": "【微軟求助亞馬遜，解決GitHub人工智慧相關算力緊缺問題】兩名知情人士透露，GitHub平臺接連因人工智慧相關業務出現服務中斷故障，微軟如今不得不向其頭號雲業務競爭對手亞馬遜尋求協助，以緩解平臺算力不足的難題。微軟2018年收購的GitHub是全球工程師廣泛使用的程式碼託管平臺，可供開發人員儲存、管理程式碼並開展專案協作。GitHub早年獨立運營時主要依靠自有資料中心承載業務，微軟原本計劃在2027年前將該程式碼平臺完整遷移至自家Azure雲服務。而當下人工智慧需求爆發式增長，迫使微軟轉而借力亞馬遜。AI程式碼工具大幅降低了軟體開發門檻，開發者產出的程式碼量激增，海量新增程式碼湧入GitHub，造成平臺計算資源嚴重承壓。"
-    },
-    {
-      "id": "mkt:019ecddd-7bdb-7dd8-b018-155c28df76c1",
-      "time": "2026-06-16 08:38:24",
-      "tags": [
-        "MKT News",
-        "BA.O",
-        "Impact bearish"
-      ],
-      "text": "Boeing said two of its employees were aboard the B-52 bomber that crashed."
-    },
-    {
-      "id": "4937320",
-      "time": "2026-06-16 08:37:50",
-      "tags": [
-        "其他"
-      ],
-      "text": "波音就加州B-52轟炸機墜毀事件發表宣告：機上人員包括兩名波音員工。"
-    },
-    {
-      "id": "mkt:019ecddc-cee2-7dd8-b018-0be934528463",
-      "time": "2026-06-16 08:37:40",
-      "tags": [
-        "MKT News",
-        "9984.T"
-      ],
-      "text": "Internal memo shows SoftBank Vision Fund CFO Navneet Govil will depart."
-    },
-    {
-      "id": "4937319",
-      "time": "2026-06-16 08:36:53",
-      "tags": [
-        "其他"
-      ],
-      "text": "【北京釋出全國首個餐飲外賣商戶綠色包裝使用指南，9月1日起實施】近日，北京市正式釋出《餐飲外賣商戶綠色包裝使用指南》（DB11/T 2510-2026）（以下簡稱《指南》）。該標準將於2026年9月1日起正式實施。作為全國首個專門針對餐飲外賣商戶綠色包裝使用的地方標準，該《指南》從安全性、減量化、易回收或可降解、重複使用四大原則出發，為商戶提供清晰、可操作的技術指引，也為全國外賣包裝的“綠色瘦身”貢獻了北京方案。(北京釋出)"
-    },
-    {
-      "id": "4937318",
-      "time": "2026-06-16 08:36:32",
-      "tags": [
-        "其他"
-      ],
-      "text": "內部備忘錄顯示，軟銀願景基金首席財務官納文特·戈維爾即將離職。"
-    },
-    {
-      "id": "4937317",
-      "time": "2026-06-16 08:35:32",
-      "tags": [
-        "其他"
-      ],
-      "text": "【銀河證券：AI伺服器和資料中心等推動CCL量價齊升】銀河證券釋出電子行業2026年中期策略稱，AI伺服器和資料中心等推動CCL量價齊升。PCB主要由CCL、銅線路、絕緣層/保護層等構成。CCL在AI PCB中約佔據50%—60%的價值量。低介電、低損耗CCL研發量產提速，2025年全球M8及以下產品已實現量產。CCL需求結構持續向新興領域轉移。AI算力領域，AI伺服器、資料中心等拉動高層數、低損耗CCL需求。2026年以來CCL龍頭繼續高頻、大幅度漲價，年內已累計漲價4次；生益科技、南亞新材等亦跟隨漲價。漲價預計趨勢將在2026下半年持續，CCL構成中的銅箔、電子布、樹脂等材料受益。"
-    },
-    {
-      "id": "4937316",
-      "time": "2026-06-16 08:34:52",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【銀河證券：AI伺服器和新能源車拉動MLCC的需求高增 國產替代空間大】銀河證券釋出電子行業2026年中期策略稱，AI伺服器和新能源車拉動MLCC的需求高增，國產替代空間大。AI伺服器的MLCC用量約為傳統通用伺服器的約8—12倍。純電車對MLCC的用量約為油車的6倍。此外，智慧駕駛滲透率的提升將大幅增加高階MLCC的使用量。中國MLCC市場由日韓廠商主導，村田與三星電機合計佔據超過50%的份額；三環集團、微容科技、風華高科等中國領先廠商正加速崛起，合計市場份額已達10.4%。陶瓷粉體供應由日美廠商主導。國內的國瓷材料市佔率為10%，日本廠商佔據高階陶瓷粉體市場約75%的份額，國產替代空間大。"
-    },
-    {
-      "id": "mkt:019ecdda-2fe1-7dd8-b018-03b6d0a99580",
-      "time": "2026-06-16 08:34:48",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Qualified retail investors at major U.S. brokers received at least one share in SpaceX IPO】In SpaceX's $86.2 bln IPO, eligible customers at major U.S. brokers including Robinhood, Charles Schwab and Fidelity were allocated at least one share after submitting purchase requests, broker representatives said. SpaceX earmarked roughly 20% of the offering proceeds for global retail; demand topped $100 bln, leaving many investors unable to secure larger allocations. Shares were up more than 40% by the second trading day, valuing SpaceX at about $2.5 tln."
     }
   ]
 }
