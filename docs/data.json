@@ -1,7 +1,65 @@
 {
-  "updated": "2026-06-23 23:53:33",
-  "count": 17295,
+  "updated": "2026-06-23 23:57:38",
+  "count": 17291,
   "items": [
+    {
+      "id": "mkt:019ef532-d881-7dd8-b0de-b9728e2d828a",
+      "time": "2026-06-23 23:56:50",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "DXY"
+      ],
+      "text": "Hezbollah leader demanded Israel carry out a full withdrawal of its forces according to a set timetable."
+    },
+    {
+      "id": "te:markets:561246",
+      "time": "2026-06-23 23:55:34",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Italy",
+        "Stock Market",
+        "Importance 0"
+      ],
+      "text": "FTSE MIB Retreats From Record Highs — The FTSE MIB fell 1.5% to close at 52,024 on Tuesday, retreating from record highs and hitting a one-week low as investors reassessed the outlook for global monetary policy. Markets increasingly expect the US Federal Reserve to deliver a total of 50 basis points in rate hikes by year-end to contain inflationary pressures. In Europe, traders also continued to price in an additional 25 basis-point increase from the ECB later this year, despite Christine Lagarde recently downplaying concerns over second-round inflation effects. Financial stocks traded lower, with Intesa Sanpaolo down 1.6% and UniCredit losing 1.4%. STMicroelectronics led losses, sliding 8.1% amid a global tech sell-off as concerns mounted that the sector’s recent rally may have outpaced fundamentals, with scrutiny intensifying over AI-related spending and elevated valuations. Stellantis dropped 6.7% after reporting slower sales growth in Europe. Other notable laggards included Ferrari (-1.5%) and Prysmian (-4.1%)."
+    },
+    {
+      "id": "mkt:019ef531-3c85-7dd8-b0de-b1a603abda68",
+      "time": "2026-06-23 23:55:05",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "Spanish police said a fire at a Madrid skyscraper is under control and no casualties have been reported."
+    },
+    {
+      "id": "4950969",
+      "time": "2026-06-23 23:54:51",
+      "tags": [
+        "其他"
+      ],
+      "text": "西班牙警方：馬德里摩天大樓火情已得到控制，暫無人員受傷。"
+    },
+    {
+      "id": "mkt:019ef530-4d62-7dd8-b0de-a9691154cf16",
+      "time": "2026-06-23 23:54:03",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【IMO launches evacuation plan for seafarers stranded in Strait of Hormuz】The International Maritime Organization on the 23rd launched an evacuation plan for more than 11,000 seafarers stranded in the Strait of Hormuz. Secretary-General Domingues said the IMO will coordinate with Iran, Oman, the United States and the shipping industry, has secured required safety guarantees and completed checks of navigation conditions to enable the operation, and welcomed a US‑Iran memorandum of understanding as an important step toward restoring regional maritime security and ending attacks on civilian vessels."
+    },
+    {
+      "id": "4950968",
+      "time": "2026-06-23 23:53:26",
+      "tags": [
+        "國際"
+      ],
+      "text": "【國際海事組織宣佈啟動霍爾木茲海峽滯留海員疏散計劃】國際海事組織23日宣佈啟動霍爾木茲海峽地區滯留海員疏散計劃。國際海事組織秘書長多明格斯在一份宣告中說，將與伊朗、阿曼等地區沿岸國家、美國以及國際航運業密切合作，疏散目前仍滯留在霍爾木茲海峽地區的超過1.1萬名海員。（新華社）"
+    },
     {
       "id": "mkt:019ef52c-d156-7dd8-b0de-a65c3f934638",
       "time": "2026-06-23 23:50:15",
@@ -158421,98 +158479,6 @@
         "Brent"
       ],
       "text": "SC crude main contract fell 4.00% intraday to 508.40 yuan/barrel."
-    },
-    {
-      "id": "4939149",
-      "time": "2026-06-16 23:57:15",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "據伊朗塔斯尼姆通訊社16日報道，伊朗此後在與美國談判期間將不會允許國際原子能機構人員進入其核設施進行檢查。"
-    },
-    {
-      "id": "mkt:019ed126-95e2-7dd8-b036-5cc5c8a0afcf",
-      "time": "2026-06-16 23:57:07",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bearish"
-      ],
-      "text": "WTI crude oil dropped below $76/bbl to its lowest since March 5, down 6.63% intraday."
-    },
-    {
-      "id": "4939148",
-      "time": "2026-06-16 23:56:57",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "WTI原油失守75美元/桶，日內跌5.59%。"
-    },
-    {
-      "id": "4939147",
-      "time": "2026-06-16 23:56:45",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "上海原油連續主力合約日內跌4%，現報508.40元。"
-    },
-    {
-      "id": "4939146",
-      "time": "2026-06-16 23:55:48",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "【以媒：以色列在“最後一刻”取消大規模空襲伊朗計劃】據《以色列時報》16日報道，以色列空軍司令奧默·蒂施勒當天在一封給以軍的內部信件中證實，以空軍原計劃本月8日對伊朗發動的大規模空襲在“最後一刻”被取消。（新華社）"
-    },
-    {
-      "id": "te:markets:559405",
-      "time": "2026-06-16 23:55:25",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "US Natgas Prices Rise for 3rd Day — US natural gas prices climbed more than 2% to $3.2 per MMBtu, extending gains for a third consecutive session, on expectations of stronger demand from warmer weather and improving LNG export activity. Forecasts indicate temperatures will remain above normal through July 1, likely increasing gas consumption from power generators as air conditioning demand rises. Also, flows to LNG export terminals rose 13.2% week-on-week on Monday, reaching a six-week high of 19.3 billion cubic feet per day. However, average gas deliveries to the nine major US LNG export facilities slipped to 17.0 bcfd so far in June due to seasonal maintenance at several sites, including ExxonMobil and QatarEnergy’s Golden Pass facility and Freeport LNG in Texas. US Lower 48 gas production has also eased, averaging 109.3 bcfd so far in June compared with 109.7 bcfd in May."
-    },
-    {
-      "id": "4939145",
-      "time": "2026-06-16 23:55:22",
-      "tags": [
-        "國際"
-      ],
-      "text": "【俄總統助理：期待美代表在美伊諒解備忘錄簽署後訪俄】俄羅斯總統助理烏沙科夫16日對媒體表示，俄羅斯期待美伊諒解備忘錄簽署後，美國談判代表、美總統特朗普特使威特科夫和女婿庫什納能夠前往莫斯科與俄方就烏克蘭問題進行會談。烏沙科夫還表示，俄總統普京與特朗普並未討論在美國舉行俄烏會晤的可能性，俄方也未收到相關提議。（新華社）"
-    },
-    {
-      "id": "4939144",
-      "time": "2026-06-16 23:55:06",
-      "tags": [
-        "公司"
-      ],
-      "text": "七國集團領導人週二呼籲針對剛果民主共和國的埃博拉疫情采取強有力、協同統一的應對舉措，並敦促各國投入資源，力求將病毒限制在儘可能小的區域內。"
-    },
-    {
-      "id": "4939143",
-      "time": "2026-06-16 23:54:32",
-      "tags": [
-        "兩會"
-      ],
-      "text": "【貴州省政協人口資源環境委員會原主任李光榮一審被判十一年】貴州省黔東南苗族侗族自治州中級人民法院16日一審公開宣判貴州省政協人口資源環境委員會原主任李光榮受賄、利用影響力受賄案，對被告人李光榮以受賄罪判處有期徒刑十年二個月，並處罰金人民幣六十萬元；以利用影響力受賄罪，判處有期徒刑三年，並處罰金人民幣二十萬元；決定執行有期徒刑十一年，並處罰金人民幣八十萬元；對被告人李光榮犯罪所得財物及孳息依法予以追繳，上繳國庫。（新華社）"
-    },
-    {
-      "id": "4939142",
-      "time": "2026-06-16 23:54:01",
-      "tags": [
-        "其他"
-      ],
-      "text": "布倫特原油價格觸及日內低點，交易價格接近每桶79美元。"
     }
   ]
 }
