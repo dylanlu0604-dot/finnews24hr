@@ -1,7 +1,101 @@
 {
-  "updated": "2026-06-23 14:42:18",
-  "count": 17192,
+  "updated": "2026-06-23 14:46:27",
+  "count": 17195,
   "items": [
+    {
+      "id": "mkt:019ef33a-2c3a-7dd8-b0ce-acb31513e4f5",
+      "time": "2026-06-23 14:45:36",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Indonesia's benchmark stock index fell nearly 2%."
+    },
+    {
+      "id": "4949713",
+      "time": "2026-06-23 14:45:09",
+      "tags": [
+        "資料"
+      ],
+      "text": "法國6月INSEE製造業信心指數 100，預期101，前值102。\n法國6月INSEE商業信心指數 94，預期95，前值由94修正為93。"
+    },
+    {
+      "id": "mkt:019ef339-c235-7dd8-b0ce-a17978219fa9",
+      "time": "2026-06-23 14:45:09",
+      "tags": [
+        "MKT News",
+        "EURUSD",
+        "Impact bearish"
+      ],
+      "text": "France June INSEE manufacturing confidence index 100, below consensus 101 and down from previous 102."
+    },
+    {
+      "id": "mkt:019ef339-ba9c-7dd8-b0ce-988c242f0571",
+      "time": "2026-06-23 14:45:07",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "France June INSEE business confidence index 94, below consensus 95; May reading revised down to 93 from 94."
+    },
+    {
+      "id": "4949712",
+      "time": "2026-06-23 14:45:00",
+      "tags": [
+        "國際"
+      ],
+      "text": "印尼基準股指跌1.9%，至5,999.11點。"
+    },
+    {
+      "id": "mkt:019ef339-a02c-7dd8-b0ce-8c900e5c511b",
+      "time": "2026-06-23 14:45:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "France | INSEE Manufacturing Confidence Index (Jun) | actual 100 | consensus 101 | previous 102"
+    },
+    {
+      "id": "mkt:019ef339-a02d-7dd8-b0ce-97321a010ff6",
+      "time": "2026-06-23 14:45:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "France | INSEE Business Confidence (Jun) | actual 94 | consensus 95 | previous 94"
+    },
+    {
+      "id": "4949711",
+      "time": "2026-06-23 14:44:42",
+      "tags": [
+        "公司"
+      ],
+      "text": "【華福證券：首予迎駕貢酒“買入”評級，盈利能力有望逐步修復】華福證券研報指出，當前白酒行業呈現3大核心特徵。其一、從產業格局發展趨勢看，“強者恆強”的品牌集中特徵仍在繼續。其二、從近兩年的需求場景看，呈現“兩端消費”更穩定的特徵。其三、從近期迎駕貢酒應對看，龍頭企業正積極進行供需、內在管理等調整。迎駕貢酒較早建立市場根基，省內優勢逐步確立。系列聚焦大眾商務與宴席主流價格帶，從洞6、洞9向洞16、洞20延伸，形成“高階形象款+大眾基礎款”的產品矩陣。展望未來，隨著行業需求逐步復甦，公司省內市場份額持續提升、省外核心區域穩步拓展，疊加產品結構持續最佳化，盈利能力有望逐步修復，具備較強的安全邊際與長期成長空間，當前股價對應2026-2028年PE分別為13/11/10倍，首次覆蓋給予“買入”評級。"
+    },
+    {
+      "id": "4949710",
+      "time": "2026-06-23 14:44:24",
+      "tags": [
+        "其他"
+      ],
+      "text": "【第十三屆APEC旅遊部長會議將在澳門舉行】第十三屆APEC旅遊部長會議即將於6月24日至28日在澳門舉行。這是此項會議繼2014年後再度落戶澳門。（新華社）"
+    },
+    {
+      "id": "mkt:019ef337-1037-7dd8-b0ce-86dfbcba92b4",
+      "time": "2026-06-23 14:42:12",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "WTI crude down 2% intraday at $73.19/bbl; Brent down 1.9% at $76.22/bbl."
+    },
     {
       "id": "4949709",
       "time": "2026-06-23 14:41:28",
@@ -157652,71 +157746,6 @@
         "其他"
       ],
       "text": "【中國科研人員在黃巖島發現大規模綠海龜種群】日前，中國科學院黃巖島發育演化與生態韌性綜合科考隊在我國黃巖島潟湖海草床，發現大規模國家一級保護野生動物綠海龜種群，初步觀測數量超50只。科研人員介紹，黃巖島潟湖發育有大面積的海草床，近年來，在持續保護下，海草床發育態勢良好，分佈有圓葉絲粉草、卵葉喜鹽草等，是綠海龜的重要食物來源。（新華社）"
-    },
-    {
-      "id": "4937917",
-      "time": "2026-06-16 14:46:05",
-      "tags": [
-        "公司"
-      ],
-      "text": "【報道：DeepSeek以非常規交易架構完成逾70億美元融資】DeepSeek在首輪融資中籌得逾500億元人民幣（74億美元），估值超500億美元，並採用了旨在維持創始人控制權的交易結構。報道稱，此次融資要求投資者將資金注入由DeepSeek CEO梁文鋒管理的有限合夥企業，而非直接投資DeepSeek公司本身。DeepSeek暫未置評。報道稱，投資者需遵守五年鎖定期，且不享有表決權。媒體早些時候報道稱，創始人梁文鋒在本輪融資中個人投資200億元，此外騰訊正考慮投資100億元，寧德時代則計劃投資50億元，這將使它們成為本輪融資中最大的外部投資者。"
-    },
-    {
-      "id": "4937916",
-      "time": "2026-06-16 14:44:19",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "日本央行副行長內田真一：工資-價格機制已紮根。"
-    },
-    {
-      "id": "4937915",
-      "time": "2026-06-16 14:44:14",
-      "tags": [
-        "國際"
-      ],
-      "text": "【外交部：中蒙攜手朝著構建和平共處、守望相助、合作共贏的雙邊命運共同體方向不斷作出努力】6月16日，外交部發言人林劍主持例行記者會。有記者提問，王毅外長剛剛結束了對蒙古國的訪問，發言人能否介紹相關情況？林劍表示，雙方一致認為，中蒙山水相連、命運與共，是永遠的鄰居，也是全面戰略伙伴。雙方始終尊重彼此獨立、主權和領土完整，不允許第三國利用其領土損害另一方國家主權和安全，這是中蒙關係健康發展的重要保障。雙方同意以兩國元首達成的重要共識為引領，加強戰略互信、深化務實合作、促進民心相通，攜手朝著構建和平共處、守望相助、合作共贏的雙邊命運共同體方向不斷作出努力。（央視新聞）"
-    },
-    {
-      "id": "mkt:019ecf2c-407b-7dd8-b023-437231e4c523",
-      "time": "2026-06-16 14:44:04",
-      "tags": [
-        "MKT News",
-        "USDJPY",
-        "Impact bearish",
-        "DXY"
-      ],
-      "text": "BOJ Deputy Governor UCHIDA said inflation trends are gradually converging toward 2%."
-    },
-    {
-      "id": "4937914",
-      "time": "2026-06-16 14:43:38",
-      "tags": [
-        "市場"
-      ],
-      "text": "阿曼5月消費者價格同比上漲3.76%。"
-    },
-    {
-      "id": "4937913",
-      "time": "2026-06-16 14:43:26",
-      "tags": [
-        "其他"
-      ],
-      "text": "意法半導體15億美元雙期可轉換債券 全發行規模已獲足額認購（指示需求超出發行規模）。"
-    },
-    {
-      "id": "mkt:019ecf2b-8ce3-7dd8-b023-39c5fd243226",
-      "time": "2026-06-16 14:43:18",
-      "tags": [
-        "MKT News",
-        "S&P500",
-        "Impact bullish",
-        "USDJPY",
-        "Impact bearish",
-        "XAUUSD"
-      ],
-      "text": "BANK OF JAPAN Deputy Governor UCHIDA said the material recession risk from the Middle East conflict is waning."
     }
   ]
 }
