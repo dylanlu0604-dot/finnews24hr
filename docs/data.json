@@ -1,7 +1,71 @@
 {
-  "updated": "2026-06-24 00:39:35",
-  "count": 17272,
+  "updated": "2026-06-24 00:43:45",
+  "count": 17271,
   "items": [
+    {
+      "id": "mkt:019ef55c-0ebc-7dd8-b0df-d29d783b634a",
+      "time": "2026-06-24 00:41:51",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "S&P500",
+        "Impact bullish",
+        "DXY"
+      ],
+      "text": "【Hezbollah leader Naim Qassem says Israel must withdraw fully from all Lebanese territory】Hezbollah leader Naim Qassem said on the 23rd (local time) that a ceasefire has now been achieved and Israel must withdraw on schedule, fully vacating all Lebanese territory. He added that after the withdrawal only the Lebanese army would be deployed south of the Litani River."
+    },
+    {
+      "id": "4951003",
+      "time": "2026-06-24 00:41:20",
+      "tags": [
+        "國際"
+      ],
+      "text": "【黎真主黨領導人：以色列必須從黎全部領土完全撤出】黎巴嫩真主黨領導人納伊姆·卡西姆當地時間23日發表電視講話稱，現在停火已經實現，以色列撤軍必須按照時間表進行。他說，“以色列別無選擇，必須從黎巴嫩全部領土完全撤出，哪怕一寸土地也不能保留。”納伊姆·卡西姆還稱，以色列撤軍後，將僅有黎巴嫩軍隊部署在利塔尼河以南地區。以色列方面對此暫無回應。（央視新聞）"
+    },
+    {
+      "id": "mkt:019ef55a-fffe-7dd8-b0df-cd8beb42b796",
+      "time": "2026-06-24 00:40:42",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "MELONI said she does not believe Trump's dispute will harm the Italian economy."
+    },
+    {
+      "id": "4951002",
+      "time": "2026-06-24 00:40:25",
+      "tags": [
+        "國際"
+      ],
+      "text": "義大利總理梅洛尼：我認為特朗普引發的爭端不會對義大利經濟造成負面影響。"
+    },
+    {
+      "id": "em:qqyh_jndyh:202606243780121817",
+      "time": "2026-06-24 00:40:22",
+      "tags": [
+        "央行",
+        "加拿大央行"
+      ],
+      "text": "【加拿大央行行長髮出警告 稱過度投資美國構成全球金融風險】加拿大央行行長麥克萊姆發出警告稱，對美國的過度投資正給全球金融體系帶來更廣泛的回撥風險。他在巴黎發表講話時指出，“大量流入美國的資本可能再次被錯誤配置，導致股票和信貸市場估值被推高，為痛苦的市場調整埋下隱患，\"麥克萊姆（Macklem）週二表示，\"這些資本流動可能突然逆轉。無論出現哪種情況，由此產生的壓力都可能波及到美國以外。\"麥克萊姆明確表示，全球失衡並非由單一國家造成，而是多種因素共同作用的結果：歐洲投資不足、美國儲蓄率偏低等，這些因素促使全球資本不成比例地湧入美國。加拿大央行行長蒂夫·麥克萊姆”當資本流動過度時，可能會擴大貿易逆差、助長保護主義並扭曲資產價格。資本被錯誤配置，壓力累積，金融穩定風險增加，他說。"
+    },
+    {
+      "id": "mkt:019ef55a-3e58-7dd8-b0df-c6cd6e14cc07",
+      "time": "2026-06-24 00:39:52",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "Italy's prime minister MELONI said Italy's foreign policy will remain unchanged following a dispute with Trump."
+    },
+    {
+      "id": "4951001",
+      "time": "2026-06-24 00:39:50",
+      "tags": [
+        "國際"
+      ],
+      "text": "義大利總理梅洛尼：與特朗普發生爭執後，義大利外交政策將保持不變。"
+    },
     {
       "id": "mkt:019ef559-8d16-7dd8-b0df-bcd6b9aae85b",
       "time": "2026-06-24 00:39:07",
@@ -158196,76 +158260,6 @@
         "焦點"
       ],
       "text": "道指漲1.00%，現報52189.738點；納指跌0.48%，現報26557.174點；標普500指數跌0.16%，現報7542.270點。"
-    },
-    {
-      "id": "mkt:019ed150-44bf-7dd8-b037-5c427f840416",
-      "time": "2026-06-17 00:42:39",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Israeli Prime Minister Netanyahu said Iran will not obtain nuclear weapons, whether or not an agreement is reached."
-    },
-    {
-      "id": "mkt:019ed150-2726-7dd8-b037-544b2e2169f0",
-      "time": "2026-06-17 00:42:31",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "German Chancellor Merz told U.S. President Trump the case shows military force can facilitate a diplomatic solution and could serve as a model for the Ukraine issue."
-    },
-    {
-      "id": "4939203",
-      "time": "2026-06-17 00:42:11",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "德國總理默茨：我已向特朗普表示，這就是軍事實力能夠促成外交解決方案的範例，這可以為烏克蘭提供借鑑。"
-    },
-    {
-      "id": "mkt:019ed14f-bade-7dd8-b037-4f36e828dae5",
-      "time": "2026-06-17 00:42:03",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "MERZ said the U.S. MILITARY's advantage has left Iran with no options."
-    },
-    {
-      "id": "mkt:019ed14f-97e0-7dd8-b037-44a02d341f79",
-      "time": "2026-06-17 00:41:54",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bearish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "German Chancellor Merz said he is willing to participate, is confident the deal will succeed, and said Iran will accept the terms because it must."
-    },
-    {
-      "id": "4939202",
-      "time": "2026-06-17 00:41:45",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "德國總理默茨：美國軍事優勢不會給伊朗選擇餘地。"
-    },
-    {
-      "id": "4939201",
-      "time": "2026-06-17 00:41:14",
-      "tags": [
-        "國際"
-      ],
-      "text": "德國默茨談及伊朗問題：我們已準備好參與，我相信該協議是可行的，伊朗必將接受相關條件。"
-    },
-    {
-      "id": "4939200",
-      "time": "2026-06-17 00:40:18",
-      "tags": [
-        "國際"
-      ],
-      "text": "內塔尼亞胡：無論有協議還是沒有協議——只要我是以色列總理，伊朗就不會擁有核武器。"
     }
   ]
 }
