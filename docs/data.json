@@ -1,7 +1,225 @@
 {
-  "updated": "2026-06-24 04:40:45",
-  "count": 17300,
+  "updated": "2026-06-24 04:44:50",
+  "count": 17319,
   "items": [
+    {
+      "id": "mkt:019ef639-71c3-7dd8-b0e3-ec038cd078d5",
+      "time": "2026-06-24 04:43:40",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "API: U.S. refinery crude runs fell 205,000 b/d in the week to June 19; prior week -17,000 b/d."
+    },
+    {
+      "id": "mkt:019ef639-4b38-7dd8-b0e3-e3062c957e30",
+      "time": "2026-06-24 04:43:30",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United States | API Weekly Crude Oil Runs (Jun.19) | actual -205000M | previous -17000M"
+    },
+    {
+      "id": "mkt:019ef639-45c4-7dd8-b0e3-de8df9320d38",
+      "time": "2026-06-24 04:43:28",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "US week to Jun 19 API refined product imports -152,000 b/d; prior -121,000 b/d."
+    },
+    {
+      "id": "mkt:019ef639-2e2e-7dd8-b0e3-d579d4b2917a",
+      "time": "2026-06-24 04:43:22",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Brent"
+      ],
+      "text": "API: US crude imports for week to June 19 226,000 bbl; prior -276,000 bbl."
+    },
+    {
+      "id": "mkt:019ef639-27e2-7dd8-b0e3-cf4bdcdf8594",
+      "time": "2026-06-24 04:43:21",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United States | API Weekly Petroleum Products Imports Change (Jun.19) | actual -152000M | previous -121000M"
+    },
+    {
+      "id": "mkt:019ef639-14ed-7dd8-b0e3-c2764be73ea3",
+      "time": "2026-06-24 04:43:16",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "U.S. API heating oil inventories for the week to June 19 rose 405,000 barrels; prior week showed a draw of 125,000 barrels."
+    },
+    {
+      "id": "mkt:019ef639-0adb-7dd8-b0e3-b8be1c5e12e0",
+      "time": "2026-06-24 04:43:13",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United States | API Weekly Crude Oil Imports Change (Jun.19) | actual 226000M | previous -276000M"
+    },
+    {
+      "id": "te:economy:561273",
+      "time": "2026-06-24 04:43:10",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Paraguay",
+        "Interest Rate",
+        "Importance 1"
+      ],
+      "text": "Paraguay Keeps Interest Rates Unchanged in June — The Central Bank of Paraguay kept its benchmark interest rate unchanged at 5.50% during its June 2026 meeting. Policymakers said the economy remained resilient, with the IMAEP rising 3.4% year-on-year in April and the ECN increasing 3.0%. Annual inflation stood at 2.4%, while core inflation was 1.1%, both below the central bank’s 3.5% target. Abroad, policymakers noted stronger-than-expected US labor market data and rising inflation, with headline inflation reaching 4.2% in May. The US Federal Reserve kept rates steady at 3.50%-3.75%, though markets continue to price in further tightening. Meanwhile, Brent crude fell below $80 per barrel as geopolitical tensions eased after a provisional US-Iran agreement and the reopening of the Strait of Hormuz. Soybean, corn, and wheat prices also moved lower. The decision to hold rates signals that policymakers continue to view the current stance as neutral, balancing strong growth with moderate inflation."
+    },
+    {
+      "id": "mkt:019ef638-f51f-7dd8-b0e3-b4e204ce888a",
+      "time": "2026-06-24 04:43:08",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "U.S. API Cushing crude stocks -982,000 barrels in week to June 19; prior -1.523 mln barrels."
+    },
+    {
+      "id": "mkt:019ef638-ee64-7dd8-b0e3-ade1c6892e68",
+      "time": "2026-06-24 04:43:06",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United States | API Weekly Heating Oil Stocks Change (Jun.19) | actual 405000M | previous -125000M"
+    },
+    {
+      "id": "mkt:019ef638-ca3a-7dd8-b0e3-a49298ca6166",
+      "time": "2026-06-24 04:42:57",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | API Weekly Cushing Crude Oil Stocks Change (Jun.19) | actual -982000M | previous -1523000M"
+    },
+    {
+      "id": "4951143",
+      "time": "2026-06-24 04:42:52",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國石油協會（API）資料顯示，上週，美國API原油庫存 -76.5萬桶，之前一週 -833萬桶。"
+    },
+    {
+      "id": "mkt:019ef638-b79a-7dd8-b0e3-9f0578e50140",
+      "time": "2026-06-24 04:42:52",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "U.S. API refined products inventories for the week to June 19 rose 1.447 mln barrels, versus -0.38 mln expected and -0.461 mln prior."
+    },
+    {
+      "id": "mkt:019ef638-8985-7dd8-b0e3-92f485f46926",
+      "time": "2026-06-24 04:42:40",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "API: US gasoline stocks rose 1.238 mln barrels in the week to June 19, versus market expectations for a 350,000-barrel draw; prior week's build was 2.479 mln barrels."
+    },
+    {
+      "id": "mkt:019ef638-8783-7dd8-b0e3-8876ca33368e",
+      "time": "2026-06-24 04:42:40",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | API Weekly Distillate Stocks Change (Jun.19) | actual 1447000M | consensus -380000M | previous -461000M"
+    },
+    {
+      "id": "mkt:019ef638-7228-7dd8-b0e3-805e09250faf",
+      "time": "2026-06-24 04:42:34",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "API weekly U.S. crude inventories for week to June 19: down 765,000 barrels; market expected a 4.995 mln-barrel draw; prior week down 8.33 mln barrels."
+    },
+    {
+      "id": "mkt:019ef638-66bb-7dd8-b0e3-784a31a5c801",
+      "time": "2026-06-24 04:42:31",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | API Weekly Gasoline Stocks Change (Jun.19) | actual 1238000M | consensus -350000M | previous 2479000M"
+    },
+    {
+      "id": "mkt:019ef638-4151-7dd8-b0e3-76a308cba6ce",
+      "time": "2026-06-24 04:42:22",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | API Weekly Crude Oil Stocks Change (Jun.19) | actual -765000M | consensus -4995000M | previous -8330000M"
+    },
+    {
+      "id": "mkt:019ef638-11ef-7dd8-b0e3-6844ce2a0f0e",
+      "time": "2026-06-24 04:42:10",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "Colombia's oil reserves are estimated to decline 0.74% in 2025 to 2.02 bln barrels; natural gas reserves are estimated to fall 16.8% to 1.72 bln cubic feet (bcf)."
+    },
+    {
+      "id": "mkt:019ef637-33df-7dd8-b0e3-61e425239c7d",
+      "time": "2026-06-24 04:41:13",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "MSCI said liquidity in South Korea’s onshore FX market remains broadly insufficient during extended FX trading hours to support execution as tight as in developed markets."
+    },
     {
       "id": "mkt:019ef636-501f-7dd8-b0e3-59812aa71bae",
       "time": "2026-06-24 04:40:14",
@@ -158496,20 +158714,6 @@
         "Energy"
       ],
       "text": "Sources say ExxonMobil will supply LNG to South Africa to help reduce South Africa's dependence on coal."
-    },
-    {
-      "id": "mkt:019ed22d-cc42-7dd8-b03a-7dfdd59d0cfa",
-      "time": "2026-06-17 04:44:37",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Amazon",
-        "Market Themes",
-        "Magnificent 7",
-        "AMZN.O",
-        "Impact bearish"
-      ],
-      "text": "Amazon (AMZN.O) may be sued by the US Federal Trade Commission for allegedly misleading advertisers and could face multibillion-dollar civil fines, sources said."
     }
   ]
 }
