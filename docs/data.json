@@ -1,7 +1,59 @@
 {
-  "updated": "2026-06-24 00:02:23",
-  "count": 17285,
+  "updated": "2026-06-24 00:06:34",
+  "count": 17280,
   "items": [
+    {
+      "id": "4950976",
+      "time": "2026-06-24 00:05:41",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國國務卿魯比奧： 若伊朗代理人持續發射導彈，中東地區的敵對沖突便無從平息。"
+    },
+    {
+      "id": "4950975",
+      "time": "2026-06-24 00:05:20",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國國務卿魯比奧： 伊朗諒解備忘錄將在與中東地區的會談中被提及。"
+    },
+    {
+      "id": "mkt:019ef53a-2dfa-7dd8-b0de-dfa99bc067eb",
+      "time": "2026-06-24 00:04:51",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "US Secretary of State Rubio said the US will engage directly with the Lebanese government."
+    },
+    {
+      "id": "4950974",
+      "time": "2026-06-24 00:04:38",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國國務卿魯比奧：我們將直接與黎巴嫩政府打交道。"
+    },
+    {
+      "id": "mkt:019ef537-d72d-7dd8-b0de-d6ef1dd44126",
+      "time": "2026-06-24 00:02:17",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "【Wang Yi meets UAE Supreme National Security Council secretary al-Shamsi in New Delhi】Chinese Politburo member and director of the Central Foreign Affairs Office Wang Yi met UAE Supreme National Security Council secretary al-Shamsi in New Delhi on the 23rd and said China and Arab states have maintained close communication since the US‑Israel‑Iran hostilities began. He urged a swift end to the fighting and set out three priorities: insist on a permanent, comprehensive ceasefire and implement the recently signed memorandum of understanding; restore normal navigation through the Strait of Hormuz as soon as possible to reopen the region’s development lifeline; and rebuild mutual trust among regional states and explore a new regional security architecture adapted to current conditions. Wang said the Middle East should not become an arena for great‑power rivalry and that China will continue to support the UAE’s constructive role in promoting long‑term regional stability."
+    },
+    {
+      "id": "4950973",
+      "time": "2026-06-24 00:01:49",
+      "tags": [
+        "國際"
+      ],
+      "text": "巴基斯坦總理謝里夫： 就伊朗重大人員傷亡、含已故最高領袖一事向伊朗致哀。 伊朗的損失就是我們的損失。巴基斯坦和伊朗是緊密相連的兄弟，我們不僅僅是鄰國。"
+    },
     {
       "id": "mkt:019ef535-84d1-7dd8-b0de-c9a72683d994",
       "time": "2026-06-23 23:59:45",
@@ -158302,117 +158354,6 @@
         "國際"
       ],
       "text": "【劉國中出席非洲應對埃博拉疫情特別影片峰會並致辭】6月16日，中共中央政治局委員、國務院副總理劉國中應邀出席非洲應對埃博拉疫情特別影片峰會並致辭。劉國中表示，習近平主席提出構建人類命運共同體重要理念，倡導構建人類衛生健康共同體，為國際抗疫合作指明瞭方向。中非從來都是命運共同體。中方已向剛果（金）和非洲聯盟提供緊急人道主義援助，向剛果（金）派遣醫療專家組，近千名醫療隊專業人員會同非洲民眾並肩抗疫。中方將在中非合作論壇框架內，落實好中非衛生健康夥伴行動，呼籲國際社會加強團結合作、向非洲提供更多支援。峰會由非盟輪值主席、蒲隆地總統恩達伊施米耶主持，南非、赤道幾內亞、辛巴威等十餘個非洲國家元首和政府首腦，以及世界衛生組織等國際和地區組織、非洲域外夥伴代表等參會。（新華社）"
-    },
-    {
-      "id": "mkt:019ed12f-26b3-7dd8-b036-8460d1f1b7de",
-      "time": "2026-06-17 00:06:28",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Apple",
-        "Market Themes",
-        "AI Revolution",
-        "Magnificent 7",
-        "AAPL.O"
-      ],
-      "text": "【Apple to launch camera-equipped AirPods by 2027; smart glasses could arrive as early as year-end next year】Apple plans to launch camera-equipped AirPods by end-2027, alongside multiple new products including a next-generation foldable iPhone and a 20th‑anniversary iPhone. The AirPods would be Apple’s first AI-focused wearable, integrating a computer-vision camera to feed Siri with real-world visual input. Apple is also developing chips for follow-on devices on next-generation process nodes, and is targeting its first smart glasses as early as year-end next year."
-    },
-    {
-      "id": "4939163",
-      "time": "2026-06-17 00:05:40",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "智利比索和波蘭茲羅提飆升至日內高點，油價下跌。"
-    },
-    {
-      "id": "4939162",
-      "time": "2026-06-17 00:04:57",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "美國眾議院民主黨小組質詢谷歌、蘋果公司。"
-    },
-    {
-      "id": "4939161",
-      "time": "2026-06-17 00:04:27",
-      "tags": [
-        "公司"
-      ],
-      "text": "谷歌：為資料中心推出布拉佐斯液冷系統。"
-    },
-    {
-      "id": "4939160",
-      "time": "2026-06-17 00:04:03",
-      "tags": [
-        "國際"
-      ],
-      "text": "【伊朗暫不允許國際原子能機構檢查其核設施】據伊朗塔斯尼姆通訊社16日報道，伊朗此後在與美國談判期間將不會允許國際原子能機構人員進入其核設施進行檢查。（新華社）"
-    },
-    {
-      "id": "4939159",
-      "time": "2026-06-17 00:03:44",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【特朗普：美方可能近期恢復對俄羅斯石油制裁】美國總統特朗普16日稱，美國可能很快重新實施對俄羅斯石油的制裁。特朗普當天在法國埃維昂萊班出席七國集團峰會期間對媒體稱：“（恢復制裁）很快就能落實，因為目前石油已在正常流通……我們此前之所以暫緩制裁，顯然是不希望影響石油供應。目前條件已經具備，可以儘快採取行動。”（新華社）"
-    },
-    {
-      "id": "4939158",
-      "time": "2026-06-17 00:03:32",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【瑞士外交部確認美伊框架協議簽署地點】據瑞士廣播電視公司報道，瑞士外交部向這家媒體證實美國和伊朗的框架協議將於19日在瑞士中部盧塞恩附近的比爾根山簽署。瑞士廣播電視公司還說，簽署地是比爾根山的一家豪華度假村。報道援引瑞士外交部的說法稱，會談地點是由巴基斯坦、卡達、美國、伊朗共同提議的。瑞士正在為會談提供便利，併為此創造外交條件。美國總統特朗普14日宣佈與伊朗達成停戰諒解備忘錄，正式簽字儀式將於19日在瑞士舉行。（新華社）"
-    },
-    {
-      "id": "mkt:019ed12c-55c3-7dd8-b036-7971eccfe46b",
-      "time": "2026-06-17 00:03:24",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Apple",
-        "Market Themes",
-        "Magnificent 7",
-        "AAPL.O"
-      ],
-      "text": "Apple (AAPL.O) plans to launch new AirPods with built-in cameras at end-2027."
-    },
-    {
-      "id": "4939157",
-      "time": "2026-06-17 00:02:54",
-      "tags": [
-        "公司",
-        "焦點"
-      ],
-      "text": "【蘋果2027年將推出帶攝像頭AirPods與新一代摺疊iPhone】蘋果公司計劃在2027年末推出全新搭載攝像頭的AirPods，同期還有多款新品一同亮相，包括新一代摺疊手機以及全新紀念款iPhone。這款全新AirPods是蘋果首款主打人工智慧的可穿戴裝置，配備計算機視覺攝像頭作為感測元件，為Siri提供實景視覺資訊。蘋果還在為旗下後續裝置研發多款新一代製程工藝打造的晶片，並最早計劃於明年年末推出首款智慧眼鏡。"
-    },
-    {
-      "id": "mkt:019ed12b-acf6-7dd8-b036-74aba6be20e0",
-      "time": "2026-06-17 00:02:40",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Star Stocks",
-        "Apple",
-        "Market Themes",
-        "Magnificent 7",
-        "AAPL.O"
-      ],
-      "text": "Apple (AAPL.O) will launch a 20th anniversary iPhone at the end of 2027."
-    },
-    {
-      "id": "4939156",
-      "time": "2026-06-17 00:02:33",
-      "tags": [
-        "公司",
-        "觀點"
-      ],
-      "text": "花旗集團任命保羅·史密斯為全球化學品業務主席。"
     }
   ]
 }
