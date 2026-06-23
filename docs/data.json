@@ -1,7 +1,183 @@
 {
-  "updated": "2026-06-23 15:16:39",
-  "count": 17177,
+  "updated": "2026-06-23 15:20:47",
+  "count": 17182,
   "items": [
+    {
+      "id": "mkt:019ef359-d484-7dd8-b0cf-da9442440e3f",
+      "time": "2026-06-23 15:20:10",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "German Chancellor Merz said the pension reform proposal is crucial."
+    },
+    {
+      "id": "mkt:019ef359-d2f4-7dd8-b0cf-d169ba48b370",
+      "time": "2026-06-23 15:20:10",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "【Foreign Ministry: China-India border communication channels open】Foreign Ministry spokesman Guo Jiakun said on June 23 the China-India border situation is broadly stable, communication channels on border issues remain open, Beijing is actively implementing the consensus from the special representatives' 24th meeting and preparing the 25th meeting."
+    },
+    {
+      "id": "mkt:019ef359-ba55-7dd8-b0cf-c9d09e66ddec",
+      "time": "2026-06-23 15:20:04",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Germany's preliminary June manufacturing PMI is due in 10 minutes."
+    },
+    {
+      "id": "4949789",
+      "time": "2026-06-23 15:19:40",
+      "tags": [
+        "國際"
+      ],
+      "text": "【外交部：中印雙方涉邊境問題溝通渠道暢通】外交部發言人郭嘉昆23日在例行記者會上說，當前中印邊境局勢總體穩定，雙方涉邊境問題溝通渠道暢通，正在積極落實中印邊界問題特別代表第24次會晤共識，同時也在認真籌備舉行特別代表第25次會晤。（新華社）"
+    },
+    {
+      "id": "4949788",
+      "time": "2026-06-23 15:19:38",
+      "tags": [
+        "國際"
+      ],
+      "text": "【墨西哥總統稱美墨加協定依然穩固】墨西哥總統辛鮑姆6月22日表示，儘管北美地區貿易摩擦持續，《美國-墨西哥-加拿大協定》（T-MEC）依然保持穩固，墨西哥希望繼續維護這一貿易框架，並堅持推動墨、美、加三邊對話機制。"
+    },
+    {
+      "id": "mkt:019ef358-f91a-7dd8-b0cf-c2ba61ee38e6",
+      "time": "2026-06-23 15:19:14",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iran's Press TV quoted President PEZESHKIAN as saying his visit to Pakistan was to thank Islamabad for its role in facilitating the U.S.-Iran memorandum of understanding."
+    },
+    {
+      "id": "4949786",
+      "time": "2026-06-23 15:18:54",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "瑞士財政部長凱勒-祖特爾：瑞銀獲得了國家擔保，這屬於市場扭曲行為。"
+    },
+    {
+      "id": "4949785",
+      "time": "2026-06-23 15:18:45",
+      "tags": [
+        "國際"
+      ],
+      "text": "【韓國Kospi指數波動率指標升至接近90 逼近6月初峰值】外國投資者週二賣出韓國Kospi股票接近5萬億韓元，而散戶投資者增持創紀錄的7.9萬億韓元頭寸。韓國Kospi指數波動率指標升至接近90，逼近6月初峰值。"
+    },
+    {
+      "id": "4949784",
+      "time": "2026-06-23 15:18:42",
+      "tags": [
+        "國際"
+      ],
+      "text": "【高市將缺席北約峰會】據日本《朝日新聞》網站6月23日報道，日本首相高市早苗決定不以印太四國（IP4）領導人的身份出席定於7月7日至8日在土耳其舉行的北約峰會。這是日本首相連續第二年缺席北約峰會，這可能導致日本在北約的影響力下降。多名政府官員透露了這一訊息。高市缺席北約峰會的理由是需要處理國會事務，預計日本外務大臣茂木敏充將代為出席峰會。（參考訊息）"
+    },
+    {
+      "id": "mkt:019ef358-4c04-7dd8-b0cf-bc64c147cda4",
+      "time": "2026-06-23 15:18:30",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【China declines comment on UK prime minister Starmer's resignation】June 23 — Foreign Ministry spokesman Guo Jiakun said Starmer's resignation is a UK domestic matter and China will not comment. He added that China and the UK, both UN Security Council permanent members, should develop a long-term, stable and comprehensive strategic partnership, deepen bilateral cooperation and multilateral coordination, and work to maintain the improving momentum of bilateral relations, which serves both countries' interests and supports global peace, stability and prosperity."
+    },
+    {
+      "id": "4949783",
+      "time": "2026-06-23 15:17:58",
+      "tags": [
+        "其他"
+      ],
+      "text": "【火山引擎譚待：豆包還是會保持免費 專業版辦公任務模式搭載2.1Pro模型】火山引擎force原動力大會期間，總裁譚待談到豆包收費問題時稱，“豆包不是火山的業務範疇，但據我所知，豆包還是會保持免費，而且高質量地服務廣大使用者。同時它最近會推出面向生產力場景的專業版辦公任務模式，搭載的就是我們最新推出的2.1Pro。”6月3日豆包釋出說明稱，計劃針對專業人群的生產力需求推出豆包專業版，對於廣大使用者日常使用的豆包功能將保持目前的免費服務。"
+    },
+    {
+      "id": "4949782",
+      "time": "2026-06-23 15:17:46",
+      "tags": [
+        "國際"
+      ],
+      "text": "【斯塔默辭職對中英關係有何影響？外交部回應】6月23日，外交部發言人郭嘉昆主持例行記者會。德新社記者提問，英國首相斯塔默昨天宣佈辭職，請問外交部對此有何評論？另外斯塔默辭職對中英關係有何影響？郭嘉昆表示，這是英國內政，中方不做評論。中國和英國都是聯合國安理會常任理事國和世界主要經濟體，發展長期穩定的全面戰略伙伴關係符合兩國和兩國人民根本利益，也有利於世界和平穩定繁榮。雙方應該相向而行，深化雙邊合作和多邊協調，共同維護好兩國關係，改善發展勢頭。（澎湃新聞）"
+    },
+    {
+      "id": "4949781",
+      "time": "2026-06-23 15:17:29",
+      "tags": [
+        "國際"
+      ],
+      "text": "印尼將創造就業機會納入中央銀行擴大後的職責範圍。"
+    },
+    {
+      "id": "4949780",
+      "time": "2026-06-23 15:17:19",
+      "tags": [
+        "央行",
+        "宏觀",
+        "國際"
+      ],
+      "text": "印尼允許財政部、印尼央行和DANANTARA持有印尼證券交易所（IDX）股。"
+    },
+    {
+      "id": "mkt:019ef357-104b-7dd8-b0cf-b1ae5613d5db",
+      "time": "2026-06-23 15:17:09",
+      "tags": [
+        "MKT News",
+        "EURUSD",
+        "Impact mixed",
+        "DXY"
+      ],
+      "text": "France's preliminary June manufacturing PMI 50.7, highest in two months. Services PMI 47.4, highest in three months. Composite PMI 47.6, highest in two months."
+    },
+    {
+      "id": "4949779",
+      "time": "2026-06-23 15:16:50",
+      "tags": [
+        "國際"
+      ],
+      "text": "【外交部：中國擴大高水平對外開放，歡迎各國企業深挖中國大市場潛力】6月23日，外交部發言人郭嘉昆主持例行記者會。\n\n有記者提問，昨天第四屆中國國際供應鏈促進博覽會在北京順義開幕，吸引超過1200家中外參展商，其中美國參展企業和機構數量繼續位列外資參展商榜首。我們注意到，中方近期密集舉辦系列博覽會，中國南亞博覽會上週在昆明閉幕，後天中國亞歐博覽會將在烏魯木齊舉行，有分析認為在一些國家築牆設壘推行保護主義的同時，中國則選擇進一步敞開開放的大門，請問發言人對此有何評論？\n\n郭嘉昆表示，共同維護全球產業鏈、供應鏈穩定是世界經濟健康發展的重要保障。中國作為負責任大國，積極發揮完整產業體系、超大規模市場等優勢，努力暢通世界經濟執行脈絡，堅定維護產業鏈、供應鏈的公共產品屬性。鏈博會是全球首個以供應鏈為主題的國家級展會，為中外企業提供展鏈條、展生態、展場景的平臺，搭建找合作伙伴、找解決方案的橋樑。\n\n本屆鏈博會吸引超過1200家參展商，涉及85個國家地區和國際組，外資參展商佔比超過36%，世界500強及行業龍頭企業參展比例超過65%。各國企業的參展熱情反映出對中國大市場的重視，對中國經濟前景的信心。\n\n開放的中國處處是機遇，無論是進博會、廣交會、鏈博會還是你剛剛提到的中國南亞博覽會、中國亞歐博覽會，都是中國擴大高水平對外開放的務實舉措。我們歡迎各國企業深挖中國大市場的潛力，共享中國高質量發展的紅利，讓產業鏈、供應鏈成為合作鏈、共贏鏈。"
+    },
+    {
+      "id": "te:markets:561057",
+      "time": "2026-06-23 15:16:31",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Taiwan",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "TAIEX Retreats from Record High, Ends 1.3% Lower — The TAIEX, Taiwan’s benchmark stock index, fell 641 points, or 1.3%, to close at 47,101 on Tuesday, snapping a six-session winning streak, as traders took profits after the index hit a record high a day earlier. The broader market retreated from a fresh high of 47,571 reached on Monday, surpassing the 47,000 level for the first time, mainly weighed down by electronic technology, manufacturing, and technology services stocks. Electronic technology stocks shed 1.6%, reversing a 3.1% surge in the previous session, with TSMC, the world's largest contract chipmaker and a company accounting for more than 40% of the market's total value, falling 0.8% after a 3.1% jump on Monday. TSMC surged following reports that it is accelerating its CoWoS rollout, a technology that replaces traditional round wafers. Meanwhile, Delta Electronics dropped 3.2%, while Hon Hai Precision Industry declined 3.4%, after rising 0.9% and 2.2%, respectively, a day earlier."
+    },
+    {
+      "id": "mkt:019ef356-66c5-7dd8-b0cf-a8d5254003a3",
+      "time": "2026-06-23 15:16:26",
+      "tags": [
+        "MKT News",
+        "Macro & Rates"
+      ],
+      "text": "【China bond futures midday close】At the midday close, China bond futures: 2-year (TS) most-active contract fell 0.03%; 5-year (TF) fell 0.07%; 10-year (T) fell 0.11%; 30-year (TL) fell 0.32%."
+    },
+    {
+      "id": "4949778",
+      "time": "2026-06-23 15:16:11",
+      "tags": [
+        "國際"
+      ],
+      "text": "【印尼推出26.34萬億印尼盾刺激計劃】印尼經濟統籌部長艾爾朗加·哈爾塔託6月22日宣佈，印尼政府推出總規模達26.34萬億印尼盾（約合100億元人民幣）的經濟刺激方案，以對沖全球經濟不確定性帶來的外部衝擊，維護國內經濟穩定和增長勢頭。"
+    },
+    {
+      "id": "te:markets:561056",
+      "time": "2026-06-23 15:16:05",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "China",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The Shangai Composite Index Closes 1.37% Lower — The Shangai Composite Index fell 57 points or 1.37 percent on Tuesday to close at 4106 points. Leading the losses are China Molybdenum (-9.98%), Zijin Mining (-9.00%) and Aluminum Corporation of China (-7.61%)."
+    },
     {
       "id": "mkt:019ef355-79a6-7dd8-b0cf-a19da750bb75",
       "time": "2026-06-23 15:15:25",
@@ -157415,148 +157591,6 @@
         "DXY"
       ],
       "text": "Iran's foreign minister Araghchi said the formal activation of the memorandum of understanding will begin on Friday and will immediately end the wars on all fronts, including in Lebanon."
-    },
-    {
-      "id": "te:economy:559266",
-      "time": "2026-06-16 15:20:44",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Czech Republic",
-        "Producer Prices Change",
-        "Importance 1"
-      ],
-      "text": "Czechia Producer Prices Rise for Second Month — Producer prices in the Czech Republic rose 1.5% year-on-year in May 2026, following a 1% rise in the previous month, though remaining below market expectations of 2.3% rise. This marked the second consecutive month of annual growth after fourteen months of contraction, as prices continued to increase for manufactured products (3.6% vs 3.1% in April), particularly basic metals (3% vs 2.6%). Costs also rose at a faster pace for mining and quarrying (2.3% vs 1.7%), while prices for water supply, sewerage, waste management and remediation services remained steady at 3.9%. Meanwhile, deflation softened for electricity, gas, steam and air conditioning supply (-6% vs -6.4%). On a monthly basis, producer prices fell 0.1%, reversing a 1.4% increase in April and missing market expectations of a 0.6% growth."
-    },
-    {
-      "id": "mkt:019ecf4d-8172-7dd8-b025-98f1e6972f85",
-      "time": "2026-06-16 15:20:23",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Iranian foreign minister Araghchi said ending the war in Lebanon is a necessary condition for ending the war with Iran."
-    },
-    {
-      "id": "4937992",
-      "time": "2026-06-16 15:19:46",
-      "tags": [
-        "其他"
-      ],
-      "text": "【“信用數智創新發展”總觀摩會在北京召開】6月5日，“信用數智創新發展”總觀摩會在北京召開，北京、上海、江蘇、湖南、廣東等5個省份和濱海新區、蘇州、杭州、寧波、廈門、開封、南陽、廣州、深圳、蘭州、石河子等11個城市圍繞公共信用資料開發利用、“信用+”應用場景、“信用+AI大模型”進行了現場展示。國家發展改革委黨組成員、副主任李春臨同志出席會議並講話。 會議指出，資訊化建設是實現社會信用體系建設高質量發展的技術支撐，各地方把握數字化、網路化、智慧化發展大勢，形成了一批成效突出、值得推廣的信用資訊化建設成果。（發改委）"
-    },
-    {
-      "id": "mkt:019ecf4c-f13c-7dd8-b025-919b434d61c6",
-      "time": "2026-06-16 15:19:46",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy"
-      ],
-      "text": "【Qatar plans rapid LNG capacity recovery once Strait of Hormuz reopens】QatarEnergy, which operates the country’s LNG facilities, told buyers it plans to rapidly ramp output after safe passage through the Strait of Hormuz is restored, targeting roughly 50% of capacity within one month and about 80% within two months. The remaining capacity — equivalent to two liquefaction trains damaged by Iranian missile strikes in March — will take years to fully restore. The guidance is conditional on resumption of secure shipping through the strait."
-    },
-    {
-      "id": "mkt:019ecf4c-e2f9-7dd8-b025-8dd7380eaab2",
-      "time": "2026-06-16 15:19:42",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bearish",
-        "S&P500",
-        "Impact bullish",
-        "DXY"
-      ],
-      "text": "Iranian Foreign Minister Araghchi said declaring an end to the war is the most important event in the agreement’s first phase; the declaration was issued Monday morning."
-    },
-    {
-      "id": "4937991",
-      "time": "2026-06-16 15:19:21",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "【羅素投資：機構普遍預期美聯儲不會再度加息】羅素投資策略師指出，美國經濟韌性充足、用工需求回暖，美聯儲釋放降息訊號的難度顯著加大。機構普遍預期美聯儲不會再度加息。"
-    },
-    {
-      "id": "mkt:019ecf4c-8cb8-7dd8-b025-81df326595a0",
-      "time": "2026-06-16 15:19:20",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Iranian foreign minister Araghchi said nuclear issues will be discussed in the final stage of negotiations."
-    },
-    {
-      "id": "4937990",
-      "time": "2026-06-16 15:19:01",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【市場等待美伊協議細節之際，歐元區債券收益率變動不大】在美伊達成結束敵對行動的協議後，歐元區政府債券收益率保持穩定，跟隨了美國國債平靜的交易走勢。德國商業銀行的Erik Liem在一份報告中表示：“儘管收益率仍低於關鍵關口，但美伊協議開始讓人感覺越來越像5月底的停火。“該利率策略師表示，大部分相關細節，特別是涉及核計劃的問題，仍有待談判。此外，他表示，重新開放霍爾木茲海峽的具體細節仍然模糊不清。根據Tradeweb的資料，10年期德國國債收益率穩定在2.955%。"
-    },
-    {
-      "id": "mkt:019ecf4c-1c87-7dd8-b025-7b12cd5b205c",
-      "time": "2026-06-16 15:18:52",
-      "tags": [
-        "MKT News",
-        "USDJPY",
-        "Impact bearish",
-        "Nikkei 225"
-      ],
-      "text": "Bank of Japan Deputy Governor UCHIDA said today's decision factored in the risk that delayed policy adjustment could require substantial rate hikes."
-    },
-    {
-      "id": "em:qqyh_mlc:202606163772991647",
-      "time": "2026-06-16 15:18:45",
-      "tags": [
-        "央行",
-        "美聯儲"
-      ],
-      "text": "【羅素投資：機構普遍預期美聯儲不會再度加息】羅素投資策略師指出，美國經濟韌性充足、用工需求回暖，美聯儲釋放降息訊號的難度顯著加大。機構普遍預期美聯儲不會再度加息。"
-    },
-    {
-      "id": "4937989",
-      "time": "2026-06-16 15:18:14",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "【卡達計劃在霍爾木茲海峽開放後迅速重啟LNG生產】據知情人士透露，卡達計劃在霍爾木茲海峽重新開放後迅速提高液化天然氣(LNG)產量，目標是在兩個月內恢復大部分出口能力。知情人士說，運營著該國LNG設施的卡達能源公司已告知買家，預計在恢復海峽安全通行一個月後，產量提高到產能的50%左右，並在兩個月內提高到產能的80%左右。他們表示，剩餘產能（相當於兩條生產線）在3月伊朗導彈襲擊中受損後，需要數年時間才能完全恢復。卡達能源未立即回應尋求評論的請求。"
-    },
-    {
-      "id": "mkt:019ecf4b-5383-7dd8-b025-7705bc4fb908",
-      "time": "2026-06-16 15:18:00",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【AliExpress June 618 sale: Brazil brand sales penetration tops 50%】During the recently concluded overseas 618 promotion, AliExpress Brazil GMV rose more than 50% versus the March 28 (3/28) promotion. GMV for mid-to-large items stocked in local overseas warehouses and priced above US$50 increased over 70%. Brand transaction penetration exceeded 50%, a record high."
-    },
-    {
-      "id": "mkt:019ecf4a-df16-7dd8-b025-6a6ac8c4ef79",
-      "time": "2026-06-16 15:17:30",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "RIA reported President Putin signed a decree scheduling Russia's State Duma elections for Sept. 20."
-    },
-    {
-      "id": "mkt:019ecf4a-b810-7dd8-b025-62393f13ef84",
-      "time": "2026-06-16 15:17:20",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Alibaba",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "【Over 100,000 T-Head (Pingtouge) Zhenwu AI cards deployed across Chinese financial sector, covering 150+ major institutions】Alibaba Cloud Intelligence Group said at the 32nd China International Financial Expo that T-Head (Pingtouge)'s self-developed Zhenwu AI chip has exceeded 100,000 AI cards deployed in the Chinese financial sector, covering more than 150 major institutions across banking, securities, insurance and fund management. As of May 2026, cumulative shipments of the Zhenwu series reached 560,000 chips; in finance the chips are used in wealth management, credit risk control, investment research and advisory, application intake recognition and compliance monitoring."
-    },
-    {
-      "id": "mkt:019ecf4a-32a4-7dd8-b025-5f8069a0e86a",
-      "time": "2026-06-16 15:16:46",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Bank of Japan Deputy Governor Shinichi Uchida said Governor Haruhiko Ueda did not participate in this policy vote due to medical treatment."
     }
   ]
 }
