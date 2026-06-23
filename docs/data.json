@@ -1,7 +1,67 @@
 {
-  "updated": "2026-06-23 12:51:40",
-  "count": 17201,
+  "updated": "2026-06-23 12:55:50",
+  "count": 17199,
   "items": [
+    {
+      "id": "4949534",
+      "time": "2026-06-23 12:54:39",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "日本日經指數擴大跌幅，最新下跌2.0%，報70,919.03點。"
+    },
+    {
+      "id": "mkt:019ef2d4-646b-7dd8-b0cc-758195bcd697",
+      "time": "2026-06-23 12:54:26",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Nikkei 225",
+        "Impact bearish"
+      ],
+      "text": "Japan's Nikkei 225 fell below 71,000, with intraday losses widening to 2%."
+    },
+    {
+      "id": "4949533",
+      "time": "2026-06-23 12:54:16",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【騰訊據悉考慮退出對Marvelous等遊戲工作室的投資】據知情人士透露，騰訊控股正在洽談退出對日本幾家遊戲工作室的投資，其中包括在東京上市的Marvelous Inc.，這是騰訊重新評估其全球投資組合行動的一部分。知情人士說，這家中國遊戲發行巨頭正在評估其在許多家工作室的少數股權，在某些情況下準備將股份出售回給原管理團隊，即使這意味著造成虧損。一位知情人士說，騰訊退出投資的標準之一是，該公司會考慮其與投資組合公司預期的協同效應是否已經消失。因討論未公開事務，知情人士要求匿名。騰訊在宣告中表示，電子遊戲是騰訊的核心業務，公司將繼續全力與我們的投資企業合作，並長期保持在日本遊戲市場的強大存在。"
+    },
+    {
+      "id": "mkt:019ef2d3-5ca2-7dd8-b0cc-696cbf5e0ae1",
+      "time": "2026-06-23 12:53:18",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Tencent",
+        "0700.HK",
+        "7844.T",
+        "Impact bearish"
+      ],
+      "text": "Tencent is reportedly weighing exits from game studios, including Marvelous."
+    },
+    {
+      "id": "4949532",
+      "time": "2026-06-23 12:52:50",
+      "tags": [
+        "市場"
+      ],
+      "text": "泰銖兌美元匯率跌至2025年5月以來的最低水平。"
+    },
+    {
+      "id": "mkt:019ef2d1-0897-7dd8-b0cc-64aa26d58518",
+      "time": "2026-06-23 12:50:45",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "300750.SZ"
+      ],
+      "text": "【CATL unveils first validated station-level sodium-ion storage solution】CATL on June 22 unveiled what it describes as the world’s first validated station-level sodium-ion energy storage solution, launching the Tianheng sodium-ion system. A single system exceeds 30MWh and uses a fully modular design separating energy and power modules. CATL plans first China deliveries in September (this year), targets 1GWh of sodium-ion shipments in 2026, and expects global deliveries to start in June next year."
+    },
     {
       "id": "4949531",
       "time": "2026-06-23 12:49:56",
@@ -157653,83 +157713,6 @@
         "市場"
       ],
       "text": "上交所公告，於2026年6月16日盤中即時起至收市暫停景順長城全球半導體晶片產業股票型證券投資基金、財通多策略福鑫定期開放靈活配置混合型發起式證券投資基金交易業務。"
-    },
-    {
-      "id": "mkt:019ecec8-72a9-7dd8-b020-3cee0d3efdac",
-      "time": "2026-06-16 12:55:03",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "AUDUSD",
-        "Impact bullish"
-      ],
-      "text": "【RBA holds cash rate at 4.35% as expected; warns hikes may not be over】The Reserve Bank of Australia left the cash rate target at 4.35% and said inflation remains high, warning it will take all necessary measures — including further increases in the cash rate target if required — to curb inflation. The Board noted recent Middle East developments have eased oil prices and reduced near-term inflation risk but cautioned that resolution is at an early stage and there are plausible scenarios where inflation exceeds May baseline forecasts while activity is weaker; global oil-supply issues could continue to pressure energy prices and inflation. The unanimous decision was largely priced; the swap market implies about a 30% chance of an August hike and roughly 16bps of tightening priced for the year."
-    },
-    {
-      "id": "4937754",
-      "time": "2026-06-16 12:54:38",
-      "tags": [
-        "其他"
-      ],
-      "text": "【星海圖聯合凱輝基金髮起創業夥伴計劃，計劃5年內投入10億元】6月16日，在星海圖首屆全球開發者大會現場，星海圖與北京亦莊共建的亦數智慧正式揭牌，啟動100萬小時超高質量真實資料計劃，並規劃未來三年資料規模從百萬小時邁向千萬小時。在投資層面，星海圖聯合凱輝基金髮起創業夥伴計劃“星途計劃”，面向具身智慧早期創業團隊提供資本、技術與場景支援，計劃5年內投入10億元。"
-    },
-    {
-      "id": "4937753",
-      "time": "2026-06-16 12:53:23",
-      "tags": [
-        "公司"
-      ],
-      "text": "【壹連科技：斯洛伐克工廠暫無配套海外雲廠商、英偉達供應鏈的擴產規劃】壹連科技6月16日在互動平臺表示，公司新增產能將服務於實際訂單需求，斯洛伐克工廠暫無配套海外雲廠商、英偉達供應鏈的擴產規劃。"
-    },
-    {
-      "id": "mkt:019ecec6-cbfc-7dd8-b020-3271b9de0594",
-      "time": "2026-06-16 12:53:15",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC",
-        "USDJPY",
-        "Impact bearish"
-      ],
-      "text": "Japan's 10-year government bond yield rose 8 basis points to 2.655%."
-    },
-    {
-      "id": "4937752",
-      "time": "2026-06-16 12:53:01",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "10年期日本國債收益率上漲8個基點，至2.655%。"
-    },
-    {
-      "id": "4937751",
-      "time": "2026-06-16 12:52:46",
-      "tags": [
-        "其他"
-      ],
-      "text": "【河北啟動重大氣象災害（暴雨）Ⅳ級應急響應】河北省氣象臺6月16日10時19分發布暴雨黃色預警：預計16日下午到夜間，承德、唐山北部、秦皇島北部、保定北部、廊坊等地有較強降水，部分地區6小時降水量可達50-70毫米或1小時降水量可達30-50毫米，個別地點超過100毫米，上述地區的山區及淺山區有出現山洪、泥石流、滑坡等次生災害的風險。為此，省氣象災害防禦指揮部於6月16日12時啟動重大氣象災害（暴雨）Ⅳ級應急響應。提請相關部門密切關注此次強降水天氣過程，加強風險研判和安全隱患排查，適時啟動相應應急響應，做好防範應對工作。"
-    },
-    {
-      "id": "4937750",
-      "time": "2026-06-16 12:52:12",
-      "tags": [
-        "央行"
-      ],
-      "text": "澳大利亞四大銀行中有三家認為，澳洲聯儲將在2026年餘下時間維持利率不變。澳大利亞國民銀行首席經濟學家Sally Auld指出經濟動能減弱，因而放棄了她此前關於8月再次加息的預測，並預計澳大利亞聯儲明年將降息三次。"
-    },
-    {
-      "id": "mkt:019ecec5-9254-7dd8-b020-2df850874a55",
-      "time": "2026-06-16 12:51:54",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "Brent",
-        "DXY"
-      ],
-      "text": "Iran's Islamic Revolutionary Guard Corps said HEZBOLLAH fought very strongly in the recent war and will never be destroyed."
     }
   ]
 }
