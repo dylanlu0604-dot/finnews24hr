@@ -1,7 +1,35 @@
 {
-  "updated": "2026-06-24 03:13:01",
-  "count": 17272,
+  "updated": "2026-06-24 03:17:00",
+  "count": 17271,
   "items": [
+    {
+      "id": "4951091",
+      "time": "2026-06-24 03:16:25",
+      "tags": [
+        "其他",
+        "焦點"
+      ],
+      "text": "美光科技跌幅超13%，或創下2025年4月以來最大單日跌幅。"
+    },
+    {
+      "id": "4951090",
+      "time": "2026-06-24 03:13:58",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "特朗普：全美汽油均價相較不久前每加侖下跌了60美分。美國經濟即將騰飛，達到前所未有的高度。"
+    },
+    {
+      "id": "mkt:019ef5e6-b4b3-7dd8-b0e2-9dad42d7c9ff",
+      "time": "2026-06-24 03:13:17",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "Trump claimed he cut the US trade deficit by 67%, the largest reduction in US history."
+    },
     {
       "id": "mkt:019ef5e6-06ce-7dd8-b0e2-963bae6a7583",
       "time": "2026-06-24 03:12:33",
@@ -158286,40 +158314,6 @@
         "Impact bearish"
       ],
       "text": "【Industry: China-US shipping routes fully booked】Industry sources say China-US routes are at full capacity. Since May, East and South China slots have tightened with frequent cargo rollovers and June space largely sold out, reverting the trade to peak-season scarcity. In late April a 40-foot box from Ningbo to the US West Coast was quoted about $2,900 and to the US East Coast about $3,900; after several rounds of increases current rates are roughly $6,300 to the West Coast and $7,500 to the East Coast. Demand is supported by low US goods inventories and restocking; supply is constrained by Middle East tensions—more than 300,000 TEU tied up in the Persian Gulf—delayed Red Sea resumptions, vessel rerouting, slower turnaround and reduced speeds, which have lowered effective capacity and intensified the supply-demand imbalance."
-    },
-    {
-      "id": "mkt:019ed1dd-6b0c-7dd8-b039-881584c7b737",
-      "time": "2026-06-17 03:16:49",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "Nasdaq's decline widened to 1%; SpaceX (SPCX.O) gain narrowed to 5%."
-    },
-    {
-      "id": "4939311",
-      "time": "2026-06-17 03:16:20",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "納指跌1.01%，現報26414.720點；道指漲0.67%，現報52015.289點；標普500指數跌0.51%，現報7515.690點。"
-    },
-    {
-      "id": "4939310",
-      "time": "2026-06-17 03:16:01",
-      "tags": [
-        "公司"
-      ],
-      "text": "【紅杉資本看好SpaceX太空資料中心與AI實力，長期持有者稱其願景“永恆”】紅杉資本合夥人Shaun Maguire對SpaceX將資料中心送入太空的能力及其在人工智慧領域的實力表達了信心。Maguire概述了SpaceX的五層業務模式，並表示計劃“永遠”持有其股份，稱埃隆·馬斯克為公司描繪的願景是“史上使命最宏大、市場潛力最大的公司”。“我不明白為什麼SpaceX不能在星艦首次有效載荷飛行後的六個月內，就發射一顆軌道計算衛星。”關於人工智慧領域，他表示，SpaceX在地球上構建下一代AI雲基礎設施的能力已經比競爭對手“高出一個數量級”。"
-    },
-    {
-      "id": "mkt:019ed1db-9161-7dd8-b039-8278c7a6fa1f",
-      "time": "2026-06-17 03:14:48",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【CNN: U.S. refused Israel’s request to review U.S.-Iran memorandum】CNN on June 16 quoted an Israeli source saying Washington refused Israel’s request to review the text of a U.S.-Iran memorandum. The source said the Trump administration partly declined because it feared Prime Minister Netanyahu would leak the text before formal release. At a June 15 news conference Netanyahu barely mentioned the memorandum and said he and Trump “are not always of one mind,” adding “we still do not know what this memorandum actually is.”"
     }
   ]
 }
