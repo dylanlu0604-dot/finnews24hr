@@ -1,7 +1,55 @@
 {
-  "updated": "2026-06-23 22:24:39",
-  "count": 17329,
+  "updated": "2026-06-23 22:28:51",
+  "count": 17328,
   "items": [
+    {
+      "id": "mkt:019ef4df-d183-7dd8-b0dc-18678c438e6a",
+      "time": "2026-06-23 22:26:09",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Israel, Lebanon begin Washington talks】Israel and Lebanon began a new round of talks in Washington on June 23, the Israeli embassy said, with discussions on both diplomatic and military tracks. A US State Department official said the sequence starts with a joint military-political meeting, followed by military-only sessions and concluding with political talks. The talks are expected to run through June 25."
+    },
+    {
+      "id": "4950867",
+      "time": "2026-06-23 22:25:36",
+      "tags": [
+        "資料",
+        "市場",
+        "國際"
+      ],
+      "text": "【美國企業活動創五個月來最快擴張 製造業表現強勁】美國企業活動擴張速度升至五個月來最快，主要得益於製造業商品需求的激增。週二公佈的資料顯示，標普全球6月綜合採購經理人指數初值升至52.2。該數字高於50表明活動處於擴張。其中，製造業PMI升至55.7，為2022年5月以來最高水平，因為工廠加快生產，以滿足逾四年來最強勁的新訂單增長。服務業活動也有所改善，部分受世界盃賽事帶動。不過，高企的價格和低迷的消費者信心繼續抑制需求。標普全球市場財智的首席商業經濟學家Chris Williamson在宣告中表示：“中東傳來的積極訊息幫助美國企業在6月恢復了一些信心。”儘管如此，服務業“增長速度仍然異常疲弱”，他說。“儘管製造業傳來了好訊息，但我們仍然感到擔憂，因為在供應憂慮的背景下，製造業增長繼續受到存貨的短暫提振。”總體投入成本繼續上升，但增速略有放緩，同時供應商交貨時間延長。隨著供應鏈延遲現象更加普遍，且未來可能出現更多價格上漲，製造商持續增加原材料庫存。6月工廠採購投入品的力度大幅增強，投入品庫存增速創歷史第二高水平。"
+    },
+    {
+      "id": "mkt:019ef4df-163f-7dd8-b0dc-14345188f087",
+      "time": "2026-06-23 22:25:21",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "CENTCOM said the aircraft carrier \"USS George H.W. Bush\" is operating in the Arabian Sea. Two carriers remain on station as US forces continue a vigilant deployment in the Middle East."
+    },
+    {
+      "id": "4950866",
+      "time": "2026-06-23 22:25:20",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "美國中央司令部：“喬治·布什”號航空母艦正在阿拉伯海航行。隨著美軍繼續在中東地區駐留並保持警惕，兩艘航空母艦仍在該地區執行任務。"
+    },
+    {
+      "id": "4950865",
+      "time": "2026-06-23 22:25:10",
+      "tags": [
+        "市場"
+      ],
+      "text": "交易員稱，阿根廷比索在非官方平行市場走弱0.33%，跌至五個月來最低水平，兌美元報1比索兌1500比索。"
+    },
     {
       "id": "mkt:019ef4dc-f221-7dd8-b0dc-0ae64970be41",
       "time": "2026-06-23 22:23:01",
@@ -18,6 +66,16 @@
         "S&P500"
       ],
       "text": "NVIDIA (NVDA.O) market cap fell below $5 trillion; shares down 2.6%."
+    },
+    {
+      "id": "4950864",
+      "time": "2026-06-23 22:22:45",
+      "tags": [
+        "宏觀",
+        "焦點",
+        "國際"
+      ],
+      "text": "【以色列與黎巴嫩新一輪會談在美國啟動】央視記者當地時間6月23日獲悉，以色列駐美國大使館表示，以色列與黎巴嫩之間新一輪的會談已在華盛頓特區啟動。大使館方面稱：“會談將同時在外交和軍事兩個層面展開。”美國國務院一名官員此前表示，會談將首先舉行“軍事與政治聯合會議”，隨後進行軍事層面的會議，最後以政治層面的會議結束。此次會談預計將持續至25日。（央視新聞）"
     },
     {
       "id": "4950863",
@@ -158708,65 +158766,6 @@
         "其他"
       ],
       "text": "智利銅業機構Cochilco預計將於9月釋出關於Codelco產量審計的初步報告。"
-    },
-    {
-      "id": "4939006",
-      "time": "2026-06-16 22:28:30",
-      "tags": [
-        "公司"
-      ],
-      "text": "中國恒大新能源汽車集團：若停牌時間超過截至2026年9月30日屆滿的18個月期限，港交所可能會將其除牌。"
-    },
-    {
-      "id": "4939005",
-      "time": "2026-06-16 22:28:28",
-      "tags": [
-        "公司"
-      ],
-      "text": "中國恒大新能源汽車集團：港交所發出第三份復牌指引，要求集團重新符合上市規則要求。"
-    },
-    {
-      "id": "4939004",
-      "time": "2026-06-16 22:27:52",
-      "tags": [
-        "國際"
-      ],
-      "text": "【美媒稱美伊備忘錄細節即將公佈】據美國阿克西奧斯新聞網站6月15日報道，美伊諒解備忘錄細節將在未來24到48小時內公佈。報道還說，雙方將於本週晚些時候啟動技術性討論，解凍資金和放鬆制裁與履約掛鉤。美方計劃在下一階段談判期間保持當前美軍在該地區的軍事力量。 （CCTV國際時訊）"
-    },
-    {
-      "id": "mkt:019ed0d4-d511-7dd8-b033-ecce2d961cba",
-      "time": "2026-06-16 22:27:49",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "【SAMR approves National Standard Reference Data Metrology Technical Committee (MTC48)】China’s State Administration for Market Regulation has approved the establishment of the National Standard Reference Data Metrology Technical Committee (code MTC48). The committee is intended to accelerate construction of a self-reliant, authoritative and trustworthy standard reference data system and to strengthen independent assurance of key foundational datasets. MTC48 will address common foundational issues in standard reference data, promote an authoritative, interoperable technical framework, and coordinate development and application of urgently needed baseline datasets for AI, quantum technology, advanced materials, life and health, green low-carbon and advanced manufacturing to support scientific discovery, R&D, industrial development and governance modernization."
-    },
-    {
-      "id": "4939003",
-      "time": "2026-06-16 22:27:16",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "【全國標準參考資料計量技術委員會獲批成立】記者今天瞭解到，市場監管總局近日批准成立全國標準參考資料計量技術委員會（代號MTC48）。這是我國加快構建自主可控、權威可信的標準參考資料體系，提升關鍵基礎資料自主保障能力的重要舉措。標準參考資料是科學研究、產業創新和質量評價中具有“標尺”作用的高質量資料。小到一個材料效能引數，大到生命健康、碳達峰碳中和、先進製造等領域的關鍵資料，都需要標準參考資料作為判斷依據。它就像資料世界裡的“標準砝碼”，用來回答資料“準不準”、結果“可不可信”、方法“能不能復現”等基礎問題。在數智化轉型的當下，可信資料基礎的重要性更加凸顯。標準參考資料不僅服務傳統計量、檢測和質量控制，也正在成為數字化、智慧化條件下的新質生產力，為人工智慧模型訓練、智慧製造過程控制、數字孿生系統建設、重大科學工程驗證等提供可信的資料基座。近年來，我國持續推進標準參考資料建設，但在部分關鍵領域仍存在高質量資料資源不足、技術體系不夠完善、自主供給能力有待提升等問題，與發達國家存在較大差距。全國標準參考資料計量技術委員會成立後，將聚焦標準參考資料建設中的基礎共性問題，推動形成權威可信、協同高效的技術體系，面向人工智慧、量子科技、先進材料、生命健康、綠色低碳、先進製造等重點領域，統籌推進一批急需、關鍵、基礎的標準參考資料建設和應用，為科學發現、技術攻關、產業發展和治理現代化提供有力可信資料支撐。（央視新聞）"
-    },
-    {
-      "id": "4939002",
-      "time": "2026-06-16 22:26:14",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【我國成功研製出大面積全鈣鈦礦疊層光伏元件 光電轉換效率重新整理世界紀錄達26.2%】據南京大學訊息，該校教授譚海仁團隊聯合仁爍光能（蘇州）有限公司團隊成功研製出大面積全鈣鈦礦疊層光伏元件，經日本電氣安全環境研究所（JET）認證，該元件的光電轉換效率高達26.2%，重新整理了該面積等級全鈣鈦礦疊層光伏元件的世界紀錄。相關研究成果15日以快速預覽的形式線上發表於國際學術期刊《自然》。團隊此次製備出一種65平方釐米的無空穴傳輸層的隧穿複合結結構的光伏元件，該結構採用奈米晶功能層替代傳統超薄金屬複合層，並去除PEDOT:PSS空穴傳輸層，實現了介面連線層的結構重構。 (科技日報)"
-    },
-    {
-      "id": "mkt:019ed0d2-932d-7dd8-b033-e2d5973197e5",
-      "time": "2026-06-16 22:25:21",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "SpaceX options traded over 500,000 contracts in the first hour after trading opened."
     }
   ]
 }
