@@ -1,7 +1,59 @@
 {
-  "updated": "2026-06-23 10:36:00",
-  "count": 17276,
+  "updated": "2026-06-23 10:40:06",
+  "count": 17270,
   "items": [
+    {
+      "id": "4949364",
+      "time": "2026-06-23 10:38:27",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "韓國交易所啟動SIDECAR機制，暫停KOSDAQ程式化賣單5分鐘。"
+    },
+    {
+      "id": "mkt:019ef257-8d47-7dd8-b0ca-9c2dd81d918b",
+      "time": "2026-06-23 10:38:04",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【CAS institute finds atomic-scale failure mechanism in LiCoO2 at ultrahigh voltage】Researchers at the Institute of Metal Research, Chinese Academy of Sciences and the Shenyang National Center for Materials Science led by Wang Chunyang used atomic-scale super-resolution imaging to reveal, for the first time, the atomic origins of failure in LiCoO2 cathodes operating at ultrahigh voltages. The study, titled Atomic origins of ultrahigh-voltage failure in LiCoO2 cathodes, was published in the Journal of the American Chemical Society after nearly two years of work and is presented by the authors as a major advance in understanding battery-material failure under extreme conditions."
+    },
+    {
+      "id": "4949363",
+      "time": "2026-06-23 10:37:38",
+      "tags": [
+        "公司"
+      ],
+      "text": "芝商所集團（CME GROUP）： CME Direct斷開問題及連線故障現已解決。"
+    },
+    {
+      "id": "te:markets:560952",
+      "time": "2026-06-23 10:36:57",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "US Natgas Prices Ease — US natural gas prices dropped to $3.23 per MMBtu after hitting a more than two-week high in the previous session on higher gas flows to LNG export facilities and forecasts of warmer weather. Average flows to major LNG export terminals edged up to 17.2 bcfd so far in June from 17.1 bcfd in May, as liquefaction units, including those at Freeport LNG, returned from maintenance outages. At the same time, forecasts indicate temperatures will remain above normal through July 7, likely increasing gas demand from power generators as air conditioning use rises. On the supply side, average production in the Lower 48 states remained unchanged at 109.7 bcfd so far in June. Inventories remained around 5.8% above normal as of the week ending June 19, signaling a well-supplied market. Separately, two LNG carriers were reportedly en route directly from the US to China."
+    },
+    {
+      "id": "4949362",
+      "time": "2026-06-23 10:36:32",
+      "tags": [
+        "國際"
+      ],
+      "text": "【中國科學院金屬研究所首次揭示極端條件下的電池材料失效機制】近日，中國科學院金屬研究所瀋陽材料科學國家研究中心王春陽研究員團隊經過近兩年的科研攻關，利用原子尺度超分辨成像技術，首次揭示了鈷酸鋰正極材料在極端高電壓工況下的原子尺度失效機制。相關研究以《Atomic origins of ultrahigh-voltage failure in LiCoO2 cathodes》為題發表於《美國化學會志》（Journal of the American Chemical Society），標誌著極端條件下的電池材料微觀失效機制研究取得重大突破。"
+    },
+    {
+      "id": "4949361",
+      "time": "2026-06-23 10:36:08",
+      "tags": [
+        "國際"
+      ],
+      "text": "【外國企業對特定可調節兒童揹帶及其元件提起337調查申請】6月22日，美國The Ergobaby Carrier, Inc.根據《美國1930年關稅法》第337節規定向美國際貿易委員會提出申請，主張對美出口、在美進口及銷售的特定可調節兒童揹帶及其元件（Certain Adjustable Child Carriers and Components Thereof）違反了美國337條款。"
+    },
     {
       "id": "mkt:019ef255-1ee1-7dd8-b0ca-90a9225f271b",
       "time": "2026-06-23 10:35:25",
@@ -158430,107 +158482,6 @@
         "其他"
       ],
       "text": "【習近平同緬甸總統敏昂萊會談】6月16日上午，國家主席習近平在北京人民大會堂同來華進行國事訪問的緬甸總統敏昂萊舉行會談。（央視新聞）"
-    },
-    {
-      "id": "4937564",
-      "time": "2026-06-16 10:39:45",
-      "tags": [
-        "公司"
-      ],
-      "text": "【漯河建匯盛達建築工程有限公司成立，註冊資本5000萬】天眼查App顯示，近日，漯河建匯盛達建築工程有限公司成立，法定代表人為陶豔峰，註冊資本5000萬人民幣，經營範圍包括建設工程施工、建築勞務分包、普通機械裝置安裝服務、園林綠化工程施工等。股東資訊顯示，該公司由雙匯發展旗下漯河雙匯肉業有限公司、鄭州一建集團有限公司、漯河時開企業管理有限公司共同持股。"
-    },
-    {
-      "id": "4937563",
-      "time": "2026-06-16 10:39:29",
-      "tags": [
-        "觀點"
-      ],
-      "text": "高盛：將2026年第四季度布倫特原油價格預期從此前的90美元下調至80美元。"
-    },
-    {
-      "id": "4937562",
-      "time": "2026-06-16 10:39:12",
-      "tags": [
-        "其他"
-      ],
-      "text": "【國家統計局：工業企業的營業收入和利潤保持了穩步增長】國家統計局新聞發言人王冠華6月16日在國新辦新聞釋出會上表示，受產業鏈分工不同，市場需求、行業競爭等多種因素的影響，行業之間的盈利表現呈現一定的分化。中下游企業面臨著階段性的成本壓力。面對成本的變化，很多企業主動作為，透過技術改造、精細化管理，拓展市場等方式挖潛增效，對沖壓力。相關部門和地區持續落實落細助企政策，支援企業大規模的裝置更新改造，採取措施降低企業成本，效果有望逐步顯現。從全國層面來看，儘管部分企業的生產經營有壓力，但是隨著工業生產較快增長，工業品價格回升，工業企業的營業收入和利潤保持了穩步增長，工業經濟的韌性在繼續顯現。（新華財經）"
-    },
-    {
-      "id": "4937561",
-      "time": "2026-06-16 10:39:11",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "深證成指漲1.00%，現報15686.555點；上證指數漲0.09%，現報4100.007點；創業板指漲1.80%，現報4106.142點。"
-    },
-    {
-      "id": "4937560",
-      "time": "2026-06-16 10:39:01",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "電機板塊震盪反彈，佳電股份觸及漲停，迪貝電氣、神力股份、江蘇雷利、三協電機、大洋電機、湘電股份等跟漲。"
-    },
-    {
-      "id": "4937559",
-      "time": "2026-06-16 10:38:46",
-      "tags": [
-        "其他"
-      ],
-      "text": "滬深兩市成交額突破1.5萬億元。"
-    },
-    {
-      "id": "4937558",
-      "time": "2026-06-16 10:37:49",
-      "tags": [
-        "其他"
-      ],
-      "text": "【2026端午檔新片預售票房破3000萬】據燈塔專業版，2026年端午檔新片預售總票房突破3000萬，《我看見兩朵一樣的雲》《玩具總動員5》《愛是憤怒》暫列前三。"
-    },
-    {
-      "id": "4937557",
-      "time": "2026-06-16 10:37:32",
-      "tags": [
-        "公司"
-      ],
-      "text": "【聯訊儀器等成立牧鐳光儀科技公司 含光學儀器業務】企查查APP顯示，近日，南京牧鐳光儀科技有限公司成立，經營範圍包含：光學儀器製造；電子測量儀器製造；儀器儀表製造；光學儀器銷售等。企查查股權穿透顯示，該公司由聯訊儀器等共同持股。"
-    },
-    {
-      "id": "em:jjsj_zgsj:202606163772727058",
-      "time": "2026-06-16 10:36:50",
-      "tags": [
-        "經濟數據",
-        "中國"
-      ],
-      "text": "【國家統計局：本月首次釋出社會消費商品和服務零售總額指標】6月16日，國家統計局新聞發言人、總經濟師、國民經濟綜合統計司司長付凌暉在國新辦新聞釋出會上表示，國家統計局於本月首次釋出社會消費商品和服務零售總額指標。1—5月，社會消費商品和服務零售總額同比增長2.8%。"
-    },
-    {
-      "id": "4937556",
-      "time": "2026-06-16 10:36:48",
-      "tags": [
-        "其他"
-      ],
-      "text": "【國家統計局：本月首次釋出社會消費商品和服務零售總額指標】6月16日，國家統計局新聞發言人、總經濟師、國民經濟綜合統計司司長付凌暉在國新辦新聞釋出會上表示，國家統計局於本月首次釋出社會消費商品和服務零售總額指標。1—5月，社會消費商品和服務零售總額同比增長2.8%。付凌暉表示，跟蹤消費情況，要全面地看，不僅是商品消費，還有服務消費。5月當月，商品零售額略有下降，主要原因是去年同期基數較高，以及部分地區受高溫多雨因素影響了居民的線下消費。但綜合商品和服務銷售的總體情況看，消費市場穩定執行，提質升級態勢沒有改變。"
-    },
-    {
-      "id": "4937555",
-      "time": "2026-06-16 10:36:13",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【港股人工智慧股走強 智譜漲近11%】截至發稿，智譜(02513.HK)漲10.98%，聯想集團(00992.HK)漲3.77%，納芯微(02676.HK)漲2.71%。"
-    },
-    {
-      "id": "4937554",
-      "time": "2026-06-16 10:36:04",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "中證500指數期貨連續主力合約日內漲1%，現報8288.80點。"
     }
   ]
 }
