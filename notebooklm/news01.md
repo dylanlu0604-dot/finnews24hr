@@ -1,7 +1,313 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-06-24 05:13:31_
-_本檔包含 3402 則快訊，約 651782 字_
+_更新時間：2026-06-24 05:50:02_
+_本檔包含 3416 則快訊，約 651910 字_
+
+---
+
+### 2026-06-24 05:46:41  #公司 #市場 #焦點 #國際
+
+【Alphabet納入道指，象徵意義遠大於實際影響】Alphabet入選道瓊斯工業平均指數，真正的深層意義在於這件事折射出美國企業格局的變遷。此次它取代威瑞森通訊納入該藍籌股指，意味著這一老牌指數終於跟上了市場大勢——多年來美股市場一直由大型科技龍頭主導。道瓊斯指數採用價格加權機制，而非標普500、納斯達克100那樣的市值加權，因此Alphabet在道指中無法擁有在後兩大指數里同等的權重影響力。2022年該科技巨頭完成1拆20股票拆分，掃清了長期阻礙其納入道指的門檻；拆分前其股價過高，一旦納入會嚴重扭曲指數走勢。跟蹤道指的基金雖需買入Alphabet股票、減持威瑞森，但對標該指數的資金體量相對有限，由此帶來的資金流動影響預計十分微弱。總而言之，此次調整更多隻是象徵層面的意義。
+
+---
+
+### 2026-06-24 05:45:38  #MKT News #Star Stocks #Meta Platforms #Market Themes #Magnificent 7 #META.O
+
+Meta Platforms (META.O) said on the U.S. government AI review it hopes to sign an agreement as soon as possible while details are being worked out.
+
+---
+
+### 2026-06-24 05:45:14  #MKT News #Star Stocks #Meta Platforms #Market Themes #AI Revolution #Magnificent 7 #META.O #Impact bullish
+
+Meta Platforms (META.O) said it supports the government's goal of promoting US leadership in powerful, secure frontier AI.
+
+---
+
+### 2026-06-24 05:44:32  #MKT News #Commodities #Energy #Market Regions #Europe & UK
+
+Britain's National Grid ESO said it has issued a power margin notice to the market, adding the notice does not indicate any risk to electricity supply.
+
+---
+
+### 2026-06-24 05:44:18  #國際
+
+特朗普計劃週三在國會大廈簽署住房法案。
+
+---
+
+### 2026-06-24 05:43:56  #其他
+
+市場資訊：阿里爾·伊曼紐爾正洽談以60億美元收購倫敦西區與百老匯演藝巨頭ATG。
+
+---
+
+### 2026-06-24 05:43:48  #MKT News #Commodities #Energy
+
+National Grid ESO said extreme temperatures are expected to leave electricity system margins very tight on Wednesday evening and asked market participants to make any available additional generation capacity available.
+
+---
+
+### 2026-06-24 05:43:31  #國際
+
+Meta就美國政府人工智慧審查表態：目前我們仍在梳理細節，希望能儘快簽署協議。
+
+---
+
+### 2026-06-24 05:43:05  #國際
+
+Meta：我們認同本屆政府的目標，即推動美國在穩健安全的前沿人工智慧領域保持領先地位。
+
+---
+
+### 2026-06-24 05:42:18  #公司 #市場
+
+【Alphabet股價盤後上漲 將取代Verizon納入道指】Alphabet股價盤後上漲1.2%，該公司將取代Verizon Communications成為道瓊斯工業平均指數成分股，調整將於6月29日開盤前生效。Verizon股價下跌0.5%。
+
+---
+
+### 2026-06-24 05:42:01  #MKT News #Star Stocks #Alphabet #Market Themes #Magnificent 7 #GOOGL.O #Impact bullish #VZ.N #Impact bearish
+
+Alphabet's Class A shares (GOOGL.O) rose more than 1% in after-hours trading and will replace Verizon (VZ.N) in the Dow Jones Industrial Average; Verizon fell about 0.6% in after-hours trading.
+
+---
+
+### 2026-06-24 05:40:51  #公司
+
+Cerebras執行長：預計亞馬遜雲科技的影響將在2027年顯現。
+
+---
+
+### 2026-06-24 05:40:45  #其他
+
+英國國家電網系統運營商：預報顯示，受極端高溫影響，週三晚間電力系統備用裕度將處於緊張狀態。
+
+---
+
+### 2026-06-24 05:40:39  #公司
+
+英國國家能源系統運營商（NESO）：電價裕度公告並不意味著電力供應面臨風險。
+
+---
+
+### 2026-06-24 05:40:29  #其他
+
+英國國家能源系統運營商（NESO）：正向市場參與者呼籲，將其可調配的額外發電容量全部投入運營。
+
+---
+
+### 2026-06-24 05:37:17  #國際
+
+【黎真主黨：以色列必須從黎巴嫩領土完全撤出】黎巴嫩真主黨領導人卡西姆23日表示，以色列“別無選擇”，必須從黎巴嫩領土上完全撤出並全面落實停火協議。卡西姆當天在黎巴嫩首都貝魯特南郊舉行的一場活動上說，“任何理由都不能允許以色列繼續駐紮在黎巴嫩哪怕一寸土地上”。他還表示，以色列企圖消滅真主黨的計劃已經破滅。卡西姆強調，“抵抗力量”仍然是黎巴嫩實現解放、獨立和主權的唯一保障。他對伊朗在黎以衝突期間予以黎巴嫩和真主黨支援表示讚賞。（新華社）
+
+---
+
+### 2026-06-24 05:33:42  #市場 #焦點
+
+【芝加哥期權交易所推出預測市場系列首批產品】芝加哥期權交易所全球市場上線其全新預測市場產品線的首批產品，其中包含基於小型標普500指數的二元期權合約。芝交所在宣告中稱，相關合約現已可在盈透證券交易，預計未來數月登陸嘉信理財平臺，後續也將陸續接入更多零售券商渠道。
+
+---
+
+### 2026-06-24 05:32:40  #MKT News #Star Stocks #Meta Platforms #Market Themes #Magnificent 7 #META.O #Impact bearish
+
+NYT reports the US is pressuring Meta Platforms (META.O) to conduct an AI safety review amid rising security concerns.
+
+---
+
+### 2026-06-24 05:32:27  #公司
+
+Cerebras首席財務官：公司利潤率將下滑10至15個百分點。
+
+---
+
+### 2026-06-24 05:31:51  #國際
+
+美國監管機構向Meta施壓，要求其同意接受人工智慧安全審查。
+
+---
+
+### 2026-06-24 05:31:22  #MKT News #Important
+
+Chicago Board Options Exchange (CBOE) has launched CBOE Predicts, a prediction-market platform, and will roll out initial products in a new series of prediction markets.
+
+---
+
+### 2026-06-24 05:30:33  #其他
+
+聯邦快遞首席財務官：2026日曆年收入增長預測為11%，其中包含燃油附加費假設帶來3個百分點的收益。
+
+---
+
+### 2026-06-24 05:30:25  #其他
+
+芝加哥期權交易所全球市場：將透過報價價差簿機制開放XSP垂直價差交易。
+
+---
+
+### 2026-06-24 05:30:09  #公司 #焦點
+
+德國鐵路公司：受全國性鐵路數字無線系統中斷影響，目前所有列車均已停靠在車站待命。
+
+---
+
+### 2026-06-24 05:29:55  #市場
+
+芝加哥期權交易所全球市場：盈透證券將上線該批二元期權合約，嘉信理財預計後續落地。
+
+---
+
+### 2026-06-24 05:29:41  #市場
+
+芝加哥期權交易所全球市場推出小型標普500指數二元期權產品XSPBW與XSPBX。
+
+---
+
+### 2026-06-24 05:28:39  #公司 #國際
+
+日本樂天執行長表示，合作方在該合資企業中的持股比例大致均等，但樂天集團將牽頭負責管理。
+
+---
+
+### 2026-06-24 05:28:25  #公司
+
+樂天集團執行長日經表示，衛星直連智慧手機服務將自2026年底起分階段推出。
+
+---
+
+### 2026-06-24 05:28:20  #其他
+
+Cerebras首席財務官表示：隨著雲容量部署擴容加速，全年下半年將帶來更多收入，預計2026年每個季度的同比增長率都將逐季提升。
+
+---
+
+### 2026-06-24 05:28:08  #其他
+
+芝加哥期權交易所推出CBOE PREDICTS預測平臺，全新預測市場產品線首批產品正式上線。
+
+---
+
+### 2026-06-24 05:27:48  #公司 #國際
+
+日本樂天集團將攜手美國初創企業AST SpaceMobile，在日本推出衛星直連手機通訊服務。
+
+---
+
+### 2026-06-24 05:26:30  #國際
+
+美國最高法院裁定，石油巨頭埃克森美孚可就逾10億美元被沒收資產起訴古巴政府。
+
+---
+
+### 2026-06-24 05:25:26  #觀點
+
+【摩根士丹利旗下70億美元私募信貸基金限制贖回 回購上限設為5%】摩根士丹利管理的一隻規模70億美元的私募信貸基金將贖回比例上限定為5%，意味著不到第二季度申請贖回比例的一半。據週二釋出的信函，North Haven Private Income Fund表示投資者申請贖回比例為11.6%，高於第一季度的10.9%。在規模達1.8萬億美元的私募信貸市場中，由於許多基金在上一季度限制投資者全額退出，本季度主要基金面臨的贖回申請普遍增加。摩根士丹利在信中表示，該基金第二季度超過一半的贖回申請來自上一季度未能全額贖回資金的投資者。
+
+---
+
+### 2026-06-24 05:25:13  #公司
+
+聯邦快遞首席客戶官表示，該公司預計從8月開始將關稅退還款項全額轉遞給客戶。
+
+---
+
+### 2026-06-24 05:24:59  #MKT News #HON.O #Impact bullish
+
+S&P Dow Jones Indices said Honeywell (HON.O) will remain in the Dow Jones Industrial Average.
+
+---
+
+### 2026-06-24 05:24:17  #MKT News #Important #Star Stocks #Alphabet #Market Themes #Magnificent 7 #GOOGL.O #Impact bullish
+
+S&P Dow Jones Indices said the Dow Jones Industrial Average will add Alphabet Class A (GOOGL.O).
+
+---
+
+### 2026-06-24 05:23:24  #市場
+
+標普道瓊斯指數： Alphabet Inc將於6月29日開盤前正式取代威瑞森通訊，成為道瓊斯工業平均指數成分股。
+
+---
+
+### 2026-06-24 05:21:50  #公司 #國際
+
+Cerebras執行長：正就在以色列、阿聯酋、澳大利亞、新加坡、印度及印度尼西亞建設資料中心開展早期洽談。
+
+---
+
+### 2026-06-24 05:21:31  #公司 #市場
+
+谷歌母公司Alphabet盤後漲超1%。
+
+---
+
+### 2026-06-24 05:20:50  #公司 #市場
+
+谷歌母公司Alphabet（谷歌A）將被納入道瓊斯工業平均指數（道指）。
+
+---
+
+### 2026-06-24 05:20:08  #公司
+
+聯邦快遞執行長：公司正有意向市場中收益率更高的業務板塊拓展。
+
+---
+
+### 2026-06-24 05:19:45  #公司
+
+聯邦快遞執行長：在上一財年，聯邦快遞成功應對了包括貿易政策變動、MD-11貨機編隊停飛在內的“重大不利因素”。
+
+---
+
+### 2026-06-24 05:19:27  #公司
+
+聯邦快遞執行長：預計在旺季來臨前讓全部MD-11機隊恢復運營。
+
+---
+
+### 2026-06-24 05:19:13  #公司
+
+Cerebras執行長：截至本週，公司已與亞馬遜雲科技（AWS）達成最終協議，雙方將啟動技術協作，併為在亞馬遜雲科技的資料中心部署相關專案做準備。
+
+---
+
+### 2026-06-24 05:18:47  #其他
+
+【法國高溫持續 埃菲爾鐵塔提前關閉】由於法國高溫天氣持續，埃菲爾鐵塔運營方宣佈，為保障遊客和工作人員安全，埃菲爾鐵塔於23日下午提前關閉。法國氣象局目前將54個省級行政區劃列為高溫紅色預警區域，約佔該國面積的一半。
+
+---
+
+### 2026-06-24 05:18:28  #公司
+
+Cerebras執行長在電話會議上表示，OpenAI GPT 5.4目前已部署執行在Cerebras的AI系統上；作為下一階段部署計劃的一部分，公司正推動將GPT 5.5部署到Cerebras系統上。
+
+---
+
+### 2026-06-24 05:17:42  #市場
+
+聯邦快遞高管：收益率提升得益於基準運價上漲與燃油附加費。
+
+---
+
+### 2026-06-24 05:17:33  #市場
+
+標普道瓊斯指數：霍尼韋爾航空航天將納入標普500與標普100，其餘個股分別納入標普中型股400與標普小型股600。
+
+---
+
+### 2026-06-24 05:17:13  #公司 #市場
+
+霍尼韋爾航空航天公司將納入標普500指數成分股。
+
+---
+
+### 2026-06-24 05:15:15  #市場
+
+富時A50期指連續夜盤收漲0.45%，報15531點。
+
+---
+
+### 2026-06-24 05:15:13  #MKT News #WTI #Impact bearish #Brent
+
+【Oman, IMO coordinate temporary sea lane through Strait of Hormuz】Oman announced early on the 24th it has coordinated with the International Maritime Organization to open a temporary sea lane through the Strait of Hormuz for all vessels, citing its responsibility for the strait and its importance to the global economy. The lane will operate under international law, including the United Nations Convention on the Law of the Sea, will not charge passage fees, and will follow navigational coordinates published by the IMO and Omani authorities; vessels must coordinate with the IMO in advance. Oman said the step reflects outcomes from US‑Iran negotiations and mediation efforts.
 
 ---
 
@@ -20318,229 +20624,5 @@ CFTC: week to June 16, COMEX gold speculators increased net longs by 9,258 contr
 ### 2026-06-23 03:32:51  #MKT News
 
 US Coast Guard says it is actively responding to a crash in Sitka, Alaska today involving a Coast Guard MH-60 "Jayhawk" helicopter.
-
----
-
-### 2026-06-23 03:31:39  #MKT News
-
-A U.S. official told NewsNation that Secretary of State Rubio spoke last Friday with Israeli Prime Minister Netanyahu and Lebanese President Aoun about consolidating a ceasefire and future negotiations. After the calls, U.S. Central Command activated a monitoring mechanism to provide policymakers with real-time battlefield information from Lebanon.
-
----
-
-### 2026-06-23 03:31:33  #兩會
-
-【恩蘇埃宣誓就任赤道幾內亞總理】當地時間22日，曼努埃爾·奧薩·恩蘇埃·恩蘇阿宣誓就任赤道幾內亞總理。赤道幾內亞副總統曼格16日晚在社交媒體上發文說，恩蘇埃當天向總統提交了所有內閣成員的集體辭呈。經評估確認，上一屆政府既定目標的完成率與預期嚴重不符。赤道幾內亞總統奧比昂19日簽署法令，重新任命曼努埃爾·奧薩·恩蘇埃·恩蘇阿為政府總理，負責行政協調。（央視新聞）
-
----
-
-### 2026-06-23 03:30:53  #其他
-
-【伊拉克總理將於7月訪問土耳其 討論石油出口問題】據伊拉克總理辦公室發表的一份宣告，伊拉克總理阿里·扎伊迪收到土耳其總統埃爾多安的邀請，將於7月訪問土耳其。阿里·扎伊迪在與埃爾多安通話時討論了雙方共同關心的議題，包括經由Kirkuk-Ceyhan管道進行的石油出口。阿里·扎伊迪還邀請土耳其企業投資伊拉克。雙方還討論了水資源問題。
-
----
-
-### 2026-06-23 03:30:24  #宏觀 #市場 #觀點
-
-【摩根大通看好英鎊 因政治不確定性消退】英國首相基爾·斯塔默宣佈辭職後，英國政治不確定性開始減弱，摩根大通恢復對英鎊的看漲觀點。摩根大通長期以來一直認為，英鎊兌其他低息貨幣的套利交易具有良好價值，儘管市場共識大體上一直是中性或看空。斯塔默表示將辭去英國首相職務後，英鎊上漲0.1%，至1.3245，抹去早前一度達0.4%的跌幅。市場還對前衛生大臣韋斯·斯特里廷決定支援安迪·伯納姆出任下一任首相，而不是自己角逐黨魁作出積極反應，這進一步緩解了近期政治不確定性。全球外匯策略師James Nelligan週一在報告中表示，辭職“使政治局勢多了些許清晰度”，使工黨能夠團結在”伯納姆周圍，由他領導該黨。伯納姆“已淡化其在財政政策上的表態，這意味著套利、英國韌性、估值和倉位更能夠支撐英鎊，”他還表示。
-
----
-
-### 2026-06-23 03:29:15  #市場 #國際
-
-美國商品期貨交易委員會（CFTC）資料：截至 6 月 16 日當週，WTI 原油投機客淨多頭頭寸削減 2441 手，降至 100978 手。
-
----
-
-### 2026-06-23 03:28:33  #市場 #國際
-
-美國商品期貨交易委員會（CFTC）資料：截至 6 月 16 日當週，紐約商品交易所（COMEX）銅投機客淨多頭頭寸削減 52 手，降至 71076 手。
-黃金投機者淨多頭頭寸增加 9258 手，至 112918 手。 
- 白銀投機客淨多頭頭寸增加 2275 手，升至 12070 手。
-
----
-
-### 2026-06-23 03:27:21  #市場 #國際
-
-【長週末歸來，美債收益率普遍漲超5個基點】週一（6月22日）紐約尾盤，美國10年期基準國債收益率漲5.35個基點，報4.5068%，日內交投於4.4731%-4.5128%區間。兩年期美債收益率漲5.76個基點，報4.2342%，全天處於上漲狀態、窄幅震盪於4.22%附近。20年期美債收益率漲5.19個基點，30年期美債收益率漲4.67個基點。三年期美債收益率漲5.93個基點，五年期美債收益率漲5.51個基點，七年期美債收益率漲5.29個基點。
-
----
-
-### 2026-06-23 03:24:11  #MKT News #WTI #Impact bearish #Brent #XAUUSD
-
-【Vance says Switzerland talks 'very productive', warns you can't trust words alone】U.S. Vice President Vance described talks in Switzerland as "very productive" and said mechanisms were established to help keep the Strait of Hormuz open now and in the future. He said Iran has for the first time in a long time allowed weapons and nuclear inspectors into the country, but cautioned that only actions matter — inspectors' actual access and permitted activities will determine progress and remain part of ongoing negotiations.
-
----
-
-### 2026-06-23 03:23:42  #MKT News
-
-US President Trump said he looks forward to working with Colombia's new president.
-
----
-
-### 2026-06-23 03:23:04  #國際
-
-特朗普：我期待攜手合作，共建哥倫比亞與美利堅合眾國之間牢固的雙邊關係。
-
----
-
-### 2026-06-23 03:20:51  #市場
-
-【日元在美股盤初創將近兩年新低，隨後出現兩波反彈行情】週一（6月22日）紐約尾盤，美元兌日元漲0.14%，報161.53日元，亞太盤初微幅下跌、跌穿161.20日元，隨後持續上揚，北京時間22:03達到161.93日元——逼近2024年7月3日頂部161.95日元、1986年年底頂部164.50日元、1986年年中頂部182.85日元，隨後出現兩波短線跳水行情、22:51重新整理日低至161.08日元。歐元兌日元跌0.28%，報184.56日元；英鎊兌日元漲0.28%，報214.020日元。
-
----
-
-### 2026-06-23 03:18:11  #其他
-
-市場訊息：美方宣佈，美軍中央司令部將負責監管黎巴嫩停火監督機制。
-
----
-
-### 2026-06-23 03:17:45  #MKT News
-
-U.S. officials said CENTCOM will oversee a Lebanon ceasefire mechanism.
-
----
-
-### 2026-06-23 03:17:29  #國際
-
-伊朗代理國防部長：武裝部隊處於最高戒備狀態；侵略者若有任何新的挑釁或誤判，都將招致比以往更強有力的回擊。伊朗有能力同時採取談判與對抗策略，並能針對美國在談判期間違背承諾的行為做出回應。在談判期間及整個60天期限內，伊朗將維持並加強其在各區域的軍事態勢。
-
----
-
-### 2026-06-23 03:17:19  #MKT News #XAUUSD #Impact bullish #WTI #Brent
-
-Iran's acting defense minister said Iran will maintain and strengthen its military posture across all theaters during negotiations and throughout the 60-day period.
-
----
-
-### 2026-06-23 03:17:02  #MKT News #WTI #Impact bullish #XAUUSD #DXY
-
-Iran's acting defense minister said Iran is capable of pursuing negotiations and confrontation simultaneously and can respond if the US breaches commitments during talks.
-
----
-
-### 2026-06-23 03:16:50  #國際
-
-特朗普背書約翰・詹姆斯競選密歇根州州長。
-
----
-
-### 2026-06-23 03:16:39  #MKT News
-
-Iran's acting defense minister said the armed forces are at highest alert and warned any new provocation or miscalculation by aggressors would be met with a more forceful response than previously.
-
----
-
-### 2026-06-23 03:09:55  #市場 #央行 #國際
-
-【巴克萊建議投資者為美國國債收益率走高佈局】在美聯儲上週轉向更為鷹派的立場後，巴克萊利率策略師建議客戶為美國國債收益率走高佈局。該巴克萊團隊將各期限美債的目標收益率上調了約35個基點，這與該行經濟學家的預估調整相符。巴克萊經濟學家一度預測美聯儲將在2027年降息，而如今認為美聯儲政策將維持不變。此外，巴克萊策略師Anshul Pradhan和Demi Hu上週晚些時候寫道，主席凱文·沃什領導下美聯儲放棄前瞻性指引的做法，導致“透過不確定性渠道而產生的風險溢價應該上升”。
-
----
-
-### 2026-06-23 03:09:29  #其他
-
-【阿根廷2-0戰勝奧地利 小組賽兩連勝提前出線】美加墨世界盃J組小組賽，阿根廷2-0戰勝奧地利，收穫小組賽兩連勝，提前晉級32強。
-
----
-
-### 2026-06-23 03:07:52  #其他
-
-市場訊息：特斯拉車輛衝撞得州住宅致人死亡事故已啟動聯邦安全調查。
-
----
-
-### 2026-06-23 03:07:17  #市場
-
-SPACEX股價跌幅擴大至13%，跌破首日收盤價。
-
----
-
-### 2026-06-23 03:03:11  #市場
-
-在岸人民幣兌美元（CNY）北京時間03:00收報6.7773元，較上週四夜盤收盤跌45點。成交量632.89億美元。
-
----
-
-### 2026-06-23 03:01:57  #MKT News #Market Regions #Greater China #Hang Seng Index #Impact bullish
-
-Hang Seng Index futures night session rose 0.29% to 23,830, trading 61 points above the cash index.
-
----
-
-### 2026-06-23 03:01:02  #其他
-
-阿根廷一季度失業率7.8%。
-
----
-
-### 2026-06-23 03:00:02  #市場
-
-恒指期貨夜盤收漲0.26%，報23823.00點，高水54.48點。
-
----
-
-### 2026-06-23 02:58:11  #國際
-
-特朗普提名的美國疾控中心負責人施瓦茨若獲提名確認，將辭去現有職務並出售所持資產。
-
----
-
-### 2026-06-23 02:57:51  #其他
-
-【加拿大蒙特利爾市發生槍擊事件 3人死亡】加拿大魁北克省蒙特利爾市警方22日說，該市一社群當天發生槍擊事件，目前已造成包括警員和嫌疑人在內的3人死亡。（新華社）
-
----
-
-### 2026-06-23 02:54:58  #公司
-
-【Strategy購入520枚比特幣 連續三週依靠發行普通股融資】Michael Saylor旗下的Strategy公司買入了價值3940萬美元的比特幣。儘管此前曾承諾要轉向透過發行永續優先股為購買比特幣提供資金，但該公司已連續第三週利用發行普通股融資。根據週一提交的監管檔案，這家前身為MicroStrategy的公司在6月15日至6月21日期間買入了520枚比特幣。
-
----
-
-### 2026-06-23 02:51:02  #MKT News #Commodities #Energy
-
-Venezuela's central bank said oil export revenue rose to $5.49 billion in Q1 2026.
-
----
-
-### 2026-06-23 02:50:55  #央行 #其他
-
-委內瑞拉央行：2026年第一季度委內瑞拉石油出口收入升至54.9億美元。
-
----
-
-### 2026-06-23 02:48:32  #MKT News #Commodities #Energy #Brent #Impact bearish
-
-Brent crude futures settled at $77.90 a barrel, down $2.67, or 3.31%.
-
----
-
-### 2026-06-23 02:47:45  #市場
-
-布倫特原油期貨結算價報每桶77.90美元，下跌2.67美元，跌幅3.31%。
-
----
-
-### 2026-06-23 02:47:42  #公司 #國際
-
-美國聯合航空公司：預計到年底將有近1000架配備星鏈系統的飛機。
-
----
-
-### 2026-06-23 02:47:21  #其他
-
-美聯航加速星鏈Wi-Fi部署，首個寬體機跨大西洋航班已投入運營。
-
----
-
-### 2026-06-23 02:42:58  #MKT News #UAL.O #Impact bullish
-
-Starlink satellite internet has been rolled out on United Airlines' international flights.
-
----
-
-### 2026-06-23 02:42:15  #MKT News
-
-TASNIM NEWS reported the head of Iran's negotiating delegation arrived in Muscat and was welcomed by Oman's foreign minister.
 
 ---

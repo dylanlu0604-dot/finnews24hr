@@ -1,7 +1,337 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-06-24 05:13:31_
-_本檔包含 3104 則快訊，約 651687 字_
+_更新時間：2026-06-24 05:50:02_
+_本檔包含 3149 則快訊，約 651782 字_
+
+---
+
+### 2026-06-18 00:51:24  #國際
+
+特朗普：如果有人想投資伊朗，他們確實有石油。
+
+---
+
+### 2026-06-18 00:50:37  #國際
+
+特朗普：（關於黎巴嫩和平）我們將與以色列合作，完成這項工作。以色列對貝魯特的襲擊是一次毫無必要的沉重打擊。
+
+---
+
+### 2026-06-18 00:50:37  #Trading Economics #Markets #United States #Stock Market #Importance 2
+
+US Stocks Maintain Slight Increase — US stock indices remained mostly higher on Wednesday ahead of the Federal Reserve's likely rate hold. The S&P 500 hovered around the flatline, although the Dow extended its record past 52,150 and the Nasdaq 100 added 0.3% after chip producers pared their losses. The Fed is due to holds rate but should unveil hints on its outlook with a fresh SEP, and Chairman Warsh could unveil timelines on framework changes he previously called for. Meanwhile, Iran and the US remained on track to sign their agreement by Friday, which will restore the export of energy from all countries in the Persian Gulf and remove sanctions on Iran, softening concerns of energy-drive inflation. Chip producers rebounded to extend their recent surges, with Broadcom, Micron, and Applied Materials adding between 4% and 7%. Also, Intel added 4% as its new chip reached risk production. In the other hand, AI hyperscalers maintained their underperformance, with Meta, Microsoft, Amazon, and Alphabet dropping over 2%.
+
+---
+
+### 2026-06-18 00:49:46  #國際
+
+特朗普：我們的儲備在大約四周內就會用完。
+
+---
+
+### 2026-06-18 00:47:16  #公司 #國際
+
+【意總理呼籲歐盟派特使就烏克蘭危機與俄方接觸】義大利總理梅洛尼17日呼籲歐盟選派一名特使就烏克蘭危機與俄羅斯接觸。梅洛尼當天在法國埃維昂萊班七國集團峰會後新聞釋出會上說，特使人選不應來自歐盟最大的幾個成員國。她表示，找到一個代表歐盟的聲音至關重要，與俄方接觸時歐洲內部外交渠道太多會造成混亂。（新華社）
+
+---
+
+### 2026-06-18 00:46:39  #國際
+
+特朗普：倘若我們不歸還伊朗的資金，今後再也無人願意以美元開展投資。
+
+---
+
+### 2026-06-18 00:45:53  #其他
+
+市場訊息：沙特阿美正尋求數百億美元資金，考慮在資產出售計劃中一併出讓硫磺業務股權。
+
+---
+
+### 2026-06-18 00:45:15  #國際
+
+特朗普：如果不歸還伊朗的資金，將對美元造成不利影響。
+
+---
+
+### 2026-06-18 00:44:54  #國際
+
+特朗普：美元在我執政期間變得非常強勢。
+
+---
+
+### 2026-06-18 00:44:35  #國際
+
+特朗普談及伊朗被凍結資金：這筆錢本就屬於伊朗，到合適時機，我們大概會歸還伊朗的這筆資金。
+
+---
+
+### 2026-06-18 00:43:21  #國際
+
+特朗普：感謝普京在伊朗問題上保持中立。
+
+---
+
+### 2026-06-18 00:43:14  #國際
+
+特朗普：如果伊朗不守規矩，他們將再次遭受打擊。
+
+---
+
+### 2026-06-18 00:42:52  #焦點 #國際
+
+特朗普：3000 億美元相關資金的落實，前提是伊朗必須做出正確履約舉動。伊朗重建需要15到20年。
+
+---
+
+### 2026-06-18 00:42:14  #國際
+
+特朗普：美國只有在伊朗表現良好的情況下才會解除對伊朗的石油制裁。
+
+---
+
+### 2026-06-18 00:41:47  #國際
+
+特朗普：歐洲在移民和能源方面有些做法很糟糕。
+
+---
+
+### 2026-06-18 00:41:03  #國際
+
+特朗普：我們阻止了一場核浩劫。
+
+---
+
+### 2026-06-18 00:40:14  #國際
+
+特朗普：我對內塔尼亞胡說，以色列最大的風險是遭到核打擊，但這種情況不會發生。
+
+---
+
+### 2026-06-18 00:40:02  #國際
+
+特朗普：我認為以色列對這份伊朗協議感到滿意。
+
+---
+
+### 2026-06-18 00:39:42  #國際
+
+【特朗普：美伊諒解備忘錄可能在18日或19日簽署 】美國總統特朗普17日說，美伊諒解備忘錄可能在18日或19日簽署。（新華社）
+
+---
+
+### 2026-06-18 00:38:23  #公司 #國際
+
+特朗普：墨西哥已經 “失去對本國的管控”，販毒集團實際掌控著墨西哥。
+
+---
+
+### 2026-06-18 00:37:36  #國際
+
+印度國家證券交易所提交印度本土 IPO 招股草案檔案。
+
+---
+
+### 2026-06-18 00:37:09  #公司 #國際
+
+【特朗普據悉計劃要求美國國防企業在歐洲生產導彈】知情官員透露，美國總統特朗普計劃要求美國國防企業在歐洲和烏克蘭進行武器的授權生產。週三，在法國舉行的七國集團(G7)峰會上，當被問及這些計劃時，特朗普對記者表示：“他們想這樣做，我們會對此進行研究。”烏克蘭需要防空能力，特別是攔截彈，而這類導彈只有美國能夠製造。但據匿名官員透露，由於美國在應對伊朗局勢時已消耗了大量庫存，加上提高產能需要時間，特朗普已向盟友表示將研究授權生產的可能性。“相關具體許可將由參與國進行詳細討論，”德國總理默茨週三告訴記者，“這確實涉及美國公司向歐洲製造商授予全面許可的問題。”法國總統馬克龍證實，特朗普“堅持動員美國國防工業以及供應此類裝備的能力”。
+
+---
+
+### 2026-06-18 00:36:26  #國際
+
+特朗普：我們必須對人工智慧非常謹慎。人工智慧既是好事，也可能是壞事。
+
+---
+
+### 2026-06-18 00:35:17  #國際
+
+特朗普：圍繞經濟、AI舉行了一些不錯的會議。
+
+---
+
+### 2026-06-18 00:35:11  #國際
+
+特朗普：與普京和澤連斯基進行了非常好的對話。認為俄羅斯和烏克蘭想要採取行動，但他們不知道該如何做。
+
+---
+
+### 2026-06-18 00:35:02  #國際
+
+特朗普：上週日與俄羅斯總統普京進行了交談。在G7會議上，討論了與普京通話的最新情況。俄羅斯計程車兵傷亡人數超過烏克蘭。認為普京和澤連斯基都希望在戰爭問題上有所行動。
+
+---
+
+### 2026-06-18 00:33:06  #公司 #國際
+
+特朗普：過去兩天已同七國集團磋商其他核心議題。
+
+---
+
+### 2026-06-18 00:32:16  #MKT News
+
+President Trump said Lebanon has been treated worse than any other country.
+
+---
+
+### 2026-06-18 00:32:14  #國際
+
+特朗普：沙烏地阿拉伯若在各項協議上發揮領導作用，將對自身有利。
+
+---
+
+### 2026-06-18 00:31:54  #MKT News #Market Themes #The Trump Trade
+
+Trump said Saudi Arabia would benefit if it took a leading role in the agreement.
+
+---
+
+### 2026-06-18 00:31:50  #國際
+
+特朗普：黎巴嫩總統將在未來一兩週內訪問美國。 黎巴嫩遭受的不公待遇遠超其他任何一方，希望擴大《亞伯拉罕協議》的覆蓋範圍。
+
+---
+
+### 2026-06-18 00:31:01  #MKT News
+
+U.S. President Trump said the Lebanese president will visit the United States within the next one to two weeks.
+
+---
+
+### 2026-06-18 00:30:38  #MKT News #WTI #Impact bearish #Brent #XAUUSD
+
+U.S. President Trump said the agreement will end Iran's aggression and bring peace to Lebanon.
+
+---
+
+### 2026-06-18 00:30:10  #國際
+
+特朗普：黎巴嫩和平只是拼圖中的一小部分。需要在黎巴嫩和平問題上多做一些工作。
+
+---
+
+### 2026-06-18 00:30:06  #MKT News
+
+President Trump said more needs to be done on the Lebanon peace issue.
+
+---
+
+### 2026-06-18 00:30:01  #MKT News
+
+Trump: Lebanon peace is only a small piece of the puzzle.
+
+---
+
+### 2026-06-18 00:29:56  #MKT News
+
+Trump says the US must work to address the Lebanon issue.
+
+---
+
+### 2026-06-18 00:29:48  #國際
+
+特朗普：黎巴嫩問題需要加以解決。
+
+---
+
+### 2026-06-18 00:29:36  #MKT News #WTI #Impact bullish #XAUUSD #DXY
+
+U.S. President Trump said he will seek to disarm Hamas.
+
+---
+
+### 2026-06-18 00:29:30  #MKT News
+
+US President Trump said he hopes the peace agreement will mark the start of broader peace in the Middle East.
+
+---
+
+### 2026-06-18 00:29:25  #國際
+
+特朗普：希望這份和平協議能成為中東大範圍和平的開端。
+
+---
+
+### 2026-06-18 00:29:11  #國際
+
+特朗普：試圖解除哈馬斯的武裝。
+
+---
+
+### 2026-06-18 00:28:51  #MKT News #LMT.O #Impact bullish
+
+U.S. President Trump said he is ordering additional F-22 fighters.
+
+---
+
+### 2026-06-18 00:28:31  #MKT News
+
+President Trump said the agreement offers Iran a historic opportunity.
+
+---
+
+### 2026-06-18 00:28:28  #國際
+
+特朗普：將增購一批 F-22 戰機。
+
+---
+
+### 2026-06-18 00:28:25  #MKT News #Important #WTI #Impact bullish #XAUUSD
+
+U.S. President Trump said keeping the Strait of Hormuz open is far less important than preventing Iran from possessing nuclear weapons.
+
+---
+
+### 2026-06-18 00:28:13  #國際
+
+特朗普：相比霍爾木茲海峽，阻止伊朗擁有核武器更為重要。
+
+---
+
+### 2026-06-18 00:27:59  #國際
+
+【知情外交官稱流傳的美伊備忘錄非最終簽署文字】一名瞭解美伊備忘錄細節的地區外交官表示，目前流傳的14點備忘錄文字，並非美伊雙方於上週末簽署的正式文字。該外交官稱，相關媒體報道的內容實際上是一份5月形成的備忘錄草案。美國總統特朗普14日宣佈與伊朗達成停戰諒解備忘錄，正式簽字儀式將於19日在瑞士比爾根山舉行。 (央視新聞)
+
+---
+
+### 2026-06-18 00:27:39  #MKT News
+
+President Trump said the agreement makes clear Iran will not possess nuclear weapons.
+
+---
+
+### 2026-06-18 00:27:38  #國際
+
+特朗普：我們在某些事情上達成了共識，儘管沒有書面記錄。協議明確表明伊朗不會擁有核武器。
+
+---
+
+### 2026-06-18 00:27:26  #MKT News
+
+US President Trump said they had reached a consensus on certain matters, though there was no written record.
+
+---
+
+### 2026-06-18 00:27:24  #國際
+
+特朗普：感謝以色列及內塔尼亞胡為伊朗相關事務付出的努力。 如果伊朗不遵守協議，我們大機率會恢復轟炸，直到他們履約為止。
+
+---
+
+### 2026-06-18 00:27:17  #MKT News #Market Themes #The Trump Trade
+
+President Trump said the breakthrough would not have been possible without U.S. pressure.
+
+---
+
+### 2026-06-18 00:27:11  #MKT News
+
+Trump thanked Israel and Israeli Prime Minister Netanyahu for their efforts on Iran.
+
+---
+
+### 2026-06-18 00:27:00  #MKT News #XAUUSD #Impact bullish #WTI #DXY
+
+US President TRUMP said if they do not comply with the agreement, we may resume bombing them until they comply.
 
 ---
 
@@ -18712,65 +19042,5 @@ WTI crude opened slightly lower on Wednesday, trading at $76.54/bbl.
 ### 2026-06-17 06:00:39  #MKT News
 
 Chile's central bank held its policy rate at 4.50%, in line with expectations.
-
----
-
-### 2026-06-17 05:44:26  #MKT News
-
-【Foreign media: $300 billion private fund in US‑Iran memorandum has over half of capital committed】Foreign media reported on June 16 that the US‑Iran memorandum of understanding includes a $300 billion private fund intended to spur investment in Iran. More than half of the fund’s capital has received commitments, sources said. The vehicle is described as a private investment instrument with no government funding or grants. Committing investors are based in the US, Gulf states, Asia, South America and Africa; target sectors include energy, logistics, manufacturing and transport. The fund is intended to provide economic incentives to both parties to help secure a final agreement.
-
----
-
-### 2026-06-17 05:40:04  #Trading Economics #Economy #New Zealand #Consumer Confidence #Importance 1
-
-New Zealand Consumer Sentiment Hits 2023 Low — New Zealand's Westpac McDermott Miller Consumer Confidence Index fell to 80.4, its lowest level since 2023. Rising fuel and other living costs, exacerbated by tensions in the Middle East, have intensified concerns about household finances in recent months. The cost of essentials, including petrol and electricity, has increased sharply, while higher mortgage rates have added to borrowing pressures. Against this backdrop, more households expect their financial situation to worsen over the next year than to improve. Consumers have also become increasingly pessimistic about the broader economic outlook. As living costs continue to climb, households are growing more cautious with discretionary spending and are less willing to purchase durable goods. Wellington remains the most pessimistic region in the country.
-
----
-
-### 2026-06-17 05:39:53  #公司
-
-【英國首相在G7峰會兜售能源與AI專案獲13億英鎊投資】英國首相斯塔默在法國舉行的七國集團（G7）峰會上宣佈，英國在能源和人工智慧（AI）專案上獲得13億英鎊的投資。投資包括InfraVia Capital Partners SAS公司投資的10億英鎊，用於電池儲能及其他能源專案；以及Atri Energy Transition Pvt Ltd公司投資的3億英鎊，用於電池儲能和先進製造業。據唐寧街10號宣告，斯塔默表示，這些投資將創造數千個高技能就業崗位，支援英國創新，並增強英國的能源系統。
-
----
-
-### 2026-06-17 05:38:12  #公司 #市場
-
-【6月17日美股成交額前20：SpaceX連漲3天 盤中市值一度超越亞馬遜和微軟】週二美股成交額第1名SpaceX收高4.83%，成交664.96億美元。SpaceX納斯達克上市後連漲三天，股價較開盤價上漲近50%，今日收盤股價上漲9.3美元，漲幅為4.83%，收於201.8美元，公司市值達到2.64萬億美元。SpaceX市值週二盤中一度超越亞馬遜和微軟。
-
----
-
-### 2026-06-17 05:35:51  #國際
-
-【馬斯克已接近實現第二個萬億美元目標的三分之一】馬斯克花了54年時間才賺到他的第一個萬億美元。而在兩個交易日之後，他已經完成了下一個萬億美元目標的近三分之一。根據彭博億萬富翁指數，馬斯克的財富在週二攀升至1.32萬億美元。這比他在上週三（即SpaceX以每股135美元定價進行IPO的前一天）的6960億美元身家增長了近90%。 馬斯克在過去四個交易日中增加了6200億美元的財富，這是彭博財富指數有史以來記錄的最大單週增幅。這一數字超過了拉丁美洲或中東地區所有上榜億萬富翁財富的總和。這一增長規模大約是比爾·蓋茨淨資產的六倍，略高於挪威的國內生產總值（GDP）。
-
----
-
-### 2026-06-17 05:28:48  #其他
-
-【姆巴佩梅開二度，法國3-1塞內加爾】2026年美加墨世界盃I組首輪比賽中，法國隊對陣塞內加爾隊。姆巴佩表現出色，梅開二度，幫助法國隊以3-1戰勝塞內加爾隊。比賽預告顯示，今天還將進行多場激烈角逐，包括伊拉克VS挪威、阿根廷VS阿爾及利亞和奧地利VS約旦。（央視新聞）
-
----
-
-### 2026-06-17 05:27:41  #Trading Economics #Economy #United States #API Crude Oil Stock Change #Importance 1
-
-US Crude Inventories Fall More Than Expected — US crude oil inventories fell by 8.33 million barrels in the week ended June 12, exceeding expectations for a 4.5 million-barrel draw. This followed a 9.12 million-barrel decline in the previous week. Despite inventories falling by about 52 million barrels over the past nine weeks, US crude stockpiles are down just 1.4 million barrels since the start of the year. Inventories in the SPR also continued to decline, dropping by 8.9 million barrels to 340.3 million, leaving stocks 385 million barrels below maximum capacity. Meanwhile, inventories at the Cushing hub fell by 1.52 million barrels after declining by 1.13 million barrels the previous week. US crude production rose to 13.80 million barrels per day in the week ended June 5, up from 13.71 million bpd a week earlier. Gasoline inventories rose by 2.48 million barrels, reversing the prior week's 1.19 million-barrel decline, while distillate stockpiles fell by 461,000 barrels after rising by 1.3 million barrels in the previous week.
-
----
-
-### 2026-06-17 05:17:58  #MKT News
-
-【FBI foils plot targeting fight on White House South Lawn】On the 16th U.S. law enforcement said the FBI and partner agencies thwarted an alleged plot to attack a fight held on the White House South Lawn on the 14th. As of the 15th five people had been detained and investigators had identified 23 suspected participants. Authorities say the suspects allegedly planned to use explosive‑laden drones against buildings near the event to force a mass evacuation and funnel the crowd toward pre‑positioned sniper teams, and had plotted a second‑wave assault on the White House gates.
-
----
-
-### 2026-06-17 05:17:26  #MKT News #Market Themes #AI Revolution
-
-According to The Information, OpenAI told the Trump administration that foreign talent is vital to U.S. AI development.
-
----
-
-### 2026-06-17 05:15:36  #市場
-
-富時A50期指連續夜盤收跌0.24%，報15623點。
 
 ---
