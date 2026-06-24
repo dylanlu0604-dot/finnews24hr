@@ -1,7 +1,104 @@
 {
-  "updated": "2026-06-24 13:28:27",
-  "count": 17379,
+  "updated": "2026-06-24 13:32:32",
+  "count": 17372,
   "items": [
+    {
+      "id": "4951815",
+      "time": "2026-06-24 13:30:47",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "印度盧比在跌破94.90後回升，兌美元報94.64。"
+    },
+    {
+      "id": "4951814",
+      "time": "2026-06-24 13:30:36",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "交易員稱，印度央行可能透過國有銀行賣出美元以支撐盧比。"
+    },
+    {
+      "id": "mkt:019ef81b-daf6-7dd8-b0ec-d550dac57db0",
+      "time": "2026-06-24 13:30:35",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "Traders say the Reserve Bank of India may be conducting USD/INR buy-and-sell swap trades alongside spot-market intervention."
+    },
+    {
+      "id": "4951813",
+      "time": "2026-06-24 13:30:31",
+      "tags": [
+        "市場"
+      ],
+      "text": "美元/盧比遠期溢價下跌；1年期下滑10個基點至2.82%。"
+    },
+    {
+      "id": "mkt:019ef81b-ad44-7dd8-b0ec-caeef6f27bbc",
+      "time": "2026-06-24 13:30:23",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bearish",
+        "USDJPY",
+        "EURUSD",
+        "Impact bullish"
+      ],
+      "text": "Traders say the Reserve Bank of India may sell dollars via state-owned banks to support the rupee."
+    },
+    {
+      "id": "4951812",
+      "time": "2026-06-24 13:30:04",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "中證1000指數期貨連續主力合約日內漲1%，現報8501.20點。"
+    },
+    {
+      "id": "4951811",
+      "time": "2026-06-24 13:30:04",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "中證500指數期貨連續主力合約日內漲2%，現報8624.40點。"
+    },
+    {
+      "id": "4951810",
+      "time": "2026-06-24 13:29:24",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "南向資金淨買入額達50億港元。"
+    },
+    {
+      "id": "mkt:019ef81a-2c5c-7dd8-b0ec-c6a317125f47",
+      "time": "2026-06-24 13:28:45",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "688981.SS",
+        "Impact bullish"
+      ],
+      "text": "STAR Market 50 Index rose over 4%; constituents Zhongke Feice, Hua Hong Hongli, Geke Micro and SMIC each gained over 10%."
+    },
+    {
+      "id": "4951809",
+      "time": "2026-06-24 13:28:38",
+      "tags": [
+        "其他"
+      ],
+      "text": "【藥明生物第25個原液生產廠完成首批GMP生產】6月24日，藥明生物宣佈， 其位於上海奉賢基地的生物藥原液十七廠（MFG17）已成功完成首批GMP生產。據藥明生物介紹，MFG17配備多組一次性生物反應器（Single-Use Bioreactor, SUB），具備9000升產能和每年80-100批次的原液生產能力。"
+    },
     {
       "id": "te:economy:561374",
       "time": "2026-06-24 13:27:42",
@@ -158977,178 +159074,6 @@
         "國際"
       ],
       "text": "韓國央行行長申鉉松：應該關注基本面，而不是每日市場波動。"
-    },
-    {
-      "id": "mkt:019ed40f-c2d2-7dd8-b042-d43258aa8a57",
-      "time": "2026-06-17 13:31:03",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "LPG main contract plunged 8.00% intraday to 4,781.00 yuan/ton; fuel oil main contract fell 6.00% intraday to 3,122.00 yuan/ton."
-    },
-    {
-      "id": "mkt:019ed40f-bfcd-7dd8-b042-cd4cd2f3f586",
-      "time": "2026-06-17 13:31:02",
-      "tags": [
-        "MKT News",
-        "Important",
-        "SSE Composite",
-        "Impact bullish",
-        "CSI300"
-      ],
-      "text": "A-share Sci-Tech Innovation 50 Index rose more than 3% in afternoon trade; Shengmei Shanghai jumped over 19% and Tuojing Technology rose over 10%."
-    },
-    {
-      "id": "mkt:019ed40f-8c86-7dd8-b042-c5877454a409",
-      "time": "2026-06-17 13:30:49",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC"
-      ],
-      "text": "Japan plans to cut the food tax rate to 1% from April 2027, NHK says."
-    },
-    {
-      "id": "4940022",
-      "time": "2026-06-17 13:30:34",
-      "tags": [
-        "公司",
-        "市場",
-        "國際"
-      ],
-      "text": "【韓股上漲 SK海力士創下歷史新高】韓國綜指抹去早盤跌勢，漲幅擴大至1%，現報8817.86點。SK海力士上漲逾4%，創下歷史新高。三星電子下跌0.6%。電池廠商LG新能源上漲1.2%。美國股市納斯達克指數和標普500指數週二收低，受科技股拖累；而道瓊斯工業指數則連續第二日創下收盤歷史新高，SpaceX股價大漲，成為美國市值排名第五的公司。"
-    },
-    {
-      "id": "4940021",
-      "time": "2026-06-17 13:30:26",
-      "tags": [
-        "其他"
-      ],
-      "text": "傑富瑞將寶馬目標價從92歐元下調至70歐元。"
-    },
-    {
-      "id": "mkt:019ed40e-fa01-7dd8-b042-bff6c7040fed",
-      "time": "2026-06-17 13:30:11",
-      "tags": [
-        "MKT News",
-        "BMW.DE",
-        "Impact bearish"
-      ],
-      "text": "Jefferies cuts BMW target price to €70 from €92."
-    },
-    {
-      "id": "mkt:019ed40e-f67a-7dd8-b042-b064a5eaccc3",
-      "time": "2026-06-17 13:30:10",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "000300.SS",
-        "Impact bearish",
-        "000001.SS"
-      ],
-      "text": "Onshore A-share prepackaged food sector plunged; Shuangqiang Technology hit intraday limit-down. Tiandi Online, Bubugao, Yike Foods, Shuangta Food, Tianma Technology and Haixin Food also declined."
-    },
-    {
-      "id": "4940020",
-      "time": "2026-06-17 13:30:05",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "燃料油連續主力合約日內跌6%，現報3134.00元。"
-    },
-    {
-      "id": "4940019",
-      "time": "2026-06-17 13:30:05",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "PTA連續主力合約日內跌2%，現報5720.00元。"
-    },
-    {
-      "id": "4940018",
-      "time": "2026-06-17 13:30:05",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "甲醇連續主力合約日內跌4%，現報2603.00元。"
-    },
-    {
-      "id": "4940017",
-      "time": "2026-06-17 13:30:05",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "低硫燃料油連續主力合約日內跌5%，現報3872.00元。"
-    },
-    {
-      "id": "4940016",
-      "time": "2026-06-17 13:30:05",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "液化石油氣連續主力合約日內跌8%，現報4655.00元。"
-    },
-    {
-      "id": "4940015",
-      "time": "2026-06-17 13:29:57",
-      "tags": [
-        "市場"
-      ],
-      "text": "【預製菜板塊大幅調整，雙槍科技盤中觸及跌停】預製菜板塊大幅調整，雙槍科技盤中觸及跌停，天地線上、步步高、益客食品、雙塔食品、天馬科技、海欣食品等跟跌。"
-    },
-    {
-      "id": "4940014",
-      "time": "2026-06-17 13:29:32",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "科創50日內漲幅達3.08%，成分股中，盛美上海漲18.27%，拓荊科技漲9.91%，華海清科漲7.66%，芯聯整合漲7.65%。"
-    },
-    {
-      "id": "4940013",
-      "time": "2026-06-17 13:29:00",
-      "tags": [
-        "市場"
-      ],
-      "text": "美股期指上漲，標普500指數期貨上漲0.3%，納斯達克指數期貨上揚0.6%，布倫特原油期貨下跌1%。"
-    },
-    {
-      "id": "te:economy:559578",
-      "time": "2026-06-17 13:28:56",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "China",
-        "Reverse Repo Rate",
-        "Importance 1"
-      ],
-      "text": "PBoC Moves to Strengthen Rate Framework — The People's Bank of China announced on Wednesday several measures to improve its short-term interest rate framework, signaling a possible shift toward using the overnight policy rate as its main benchmark instead of the current seven-day reverse repo rate. Governor Pan Gongsheng said the central bank will narrow the interest rate corridor for its temporary overnight repo and reverse repo facilities while increasing overnight reverse repo operations. He said further that the central bank is developing tools to provide emergency liquidity to non-bank financial institutions during times of market stress. Chinese authorities also rolled out new measures to promote the yuan's international use, including a repo facility allowing foreign monetary authorities and sovereign wealth funds to access yuan liquidity using bonds as collateral, alongside a pilot program for offshore yuan foreign exchange trading in the Shanghai Free Trade Zone."
-    },
-    {
-      "id": "mkt:019ed40d-74fb-7dd8-b042-acd6ffd8c24a",
-      "time": "2026-06-17 13:28:32",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Wall Street (US)",
-        "S&P500",
-        "Impact bullish",
-        "Nasdaq100"
-      ],
-      "text": "S&P 500 futures rose 0.3%; Nasdaq futures rose 0.6%."
     }
   ]
 }
