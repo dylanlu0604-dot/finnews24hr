@@ -1,7 +1,133 @@
 {
-  "updated": "2026-06-24 23:32:25",
-  "count": 17257,
+  "updated": "2026-06-24 23:36:41",
+  "count": 17263,
   "items": [
+    {
+      "id": "te:markets:561605",
+      "time": "2026-06-24 23:35:32",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Heating Oil Falls to Over 3-Month Low — Heating oil futures for delivery in the New York Harbor fell to below $3.15 per gallon in late June, hovering near their lowest level since early March, on evidence that oil exports from the Middle East are gradually returning. Satellite data showed that loaded tankers are crossing the Strait of Hormuz as the memorandum of understanding and improved talks between the US and Iran drove both countries to lift their blockade. On top of that, the US remained on track to lift sanction on Iran to unlock fresh sources of energy supply from Western refiners and dollar buyers. Unlike crude oil prices, heating oil futures remained above pre-Iran war levels from late February. Distilling capacity in refiners was hit the hardest from depleted feedstock inventories in Europe and Asia, exemplified by shortages of jet fuel. On top of that, denser crude oil grades from the Persian Gulf, which commonly yield more diesel, were still not at full capacity due to attacks on local refineries."
+    },
+    {
+      "id": "te:markets:561604",
+      "time": "2026-06-24 23:35:30",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 2"
+      ],
+      "text": "Crude Oil Falls Below $70 — Crude oil fell below $70 a barrel on Wednesday, reaching its lowest level since late February, as increasing tanker traffic through the Strait of Hormuz and progress in US-Iran peace talks eased supply fears. Shipowners are confidently transiting the chokepoint with active satellite signals following safety guarantees from the International Maritime Organization. The International Energy Agency estimates the United Arab Emirates is exporting oil at nearly 85% of pre-war levels, selling roughly 60 million barrels from the Persian Gulf recently. Consequently, oil prices have dropped about 40% from their wartime peak. This resumed global flow overshadowed US data from the Energy Information Administration showing US crude inventories plunged to their lowest since 1984, with Cushing stockpiles dipping below operational minimums."
+    },
+    {
+      "id": "mkt:019efa45-7fb2-7dd8-b0fe-a6d154aa2df1",
+      "time": "2026-06-24 23:35:19",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bearish"
+      ],
+      "text": "【China's foreign minister held phone call with Pakistan deputy prime minister and foreign minister Durr】China's foreign minister Wang Yi spoke by phone with Pakistan's deputy prime minister and foreign minister Durr on the evening of the 24th; Durr said Iran and the United States have entered a new phase of negotiations. Wang said China will work with parties to support the talks and set three priorities: consolidate a comprehensive ceasefire and prevent fighting from restarting; restore normal navigation through the Strait of Hormuz as soon as possible to protect global supply chains, with arrangements that respect littoral sovereignty and international practice; and support Middle Eastern states in improving ties and exploring a new regional security architecture to reduce major‑power rivalry and strengthen regional strategic autonomy."
+    },
+    {
+      "id": "4953140",
+      "time": "2026-06-24 23:34:39",
+      "tags": [
+        "市場",
+        "焦點",
+        "國際"
+      ],
+      "text": "【歐洲主要股指收盤漲跌不一】歐洲斯托克600指數上漲0.05%，歐元斯托克指數下跌0.27%，歐元區藍籌股指數下跌0.26%。法國CAC 40指數上漲0.55%，西班牙IBEX指數下跌0.44%，英國富時100指數上漲0.25%，德國DAX指數下跌0.71%。"
+    },
+    {
+      "id": "mkt:019efa43-bc33-7dd8-b0fe-99f8a29a9298",
+      "time": "2026-06-24 23:33:23",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "DXY",
+        "Impact bearish",
+        "S&P500",
+        "Impact bullish"
+      ],
+      "text": "U.S. 4-month Treasury bill auction as of June 24: percentage allocated at the stop-out rate 11.15%, prior 11.86%."
+    },
+    {
+      "id": "4953139",
+      "time": "2026-06-24 23:33:07",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國拍賣17週期國庫券，中標最高利率為3.770%，最高價位配售量佔投標總量的11.15%。"
+    },
+    {
+      "id": "mkt:019efa43-67a4-7dd8-b0fe-97c10ca7e550",
+      "time": "2026-06-24 23:33:01",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y",
+        "Impact bullish",
+        "DXY"
+      ],
+      "text": "US 4-month Treasury auction on June 24: bid-cover ratio 2.55, prior 2.87."
+    },
+    {
+      "id": "mkt:019efa43-4d6d-7dd8-b0fe-8abdfd1a216a",
+      "time": "2026-06-24 23:32:55",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "DXY",
+        "Impact bullish",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "US 4-month Treasury auction on June 24: stop-out yield 3.77%, up 10 bps from 3.67% previously."
+    },
+    {
+      "id": "mkt:019efa43-3d72-7dd8-b0fe-821d0e2f9df3",
+      "time": "2026-06-24 23:32:51",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United States | 4-Month Bill Auction Bid/Cover Ratio (Jun.24) | actual 2.55 | previous 2.87"
+    },
+    {
+      "id": "4953137",
+      "time": "2026-06-24 23:32:46",
+      "tags": [
+        "國際"
+      ],
+      "text": "【烏軍打擊俄羅斯天然氣精煉廠和氦氣廠】烏克蘭武裝部隊總參謀部24日在社交媒體上發文稱，當天凌晨，烏國防軍對俄羅斯奧倫堡州一座天然氣精煉廠和一座氦氣廠實施打擊。烏武裝部隊總參謀部表示，此次行動地點距烏方前線超過1200公里，兩座工廠已起火，受損情況正在核實中。此外，烏軍還打擊了俄羅斯別爾哥羅德州一處無人機倉庫。（新華社）"
+    },
+    {
+      "id": "mkt:019efa43-1c42-7dd8-b0fe-7b4d8b550a28",
+      "time": "2026-06-24 23:32:42",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United States | 4-Month Bill Auction High Yield Rate (Jun.24) | actual 3.77% | previous 3.67%"
+    },
+    {
+      "id": "4953136",
+      "time": "2026-06-24 23:32:26",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國1年10個月遠期利率協議貼現利差為0.079%。"
+    },
     {
       "id": "4953135",
       "time": "2026-06-24 23:31:22",
@@ -158011,68 +158137,6 @@
         "FTSE100"
       ],
       "text": "European equities on June 17: Germany's DAX closed up 38.22 pts (+0.15%) at 24,952.98; UK's FTSE 100 closed up 14.02 pts (+0.13%) at 10,508.23; France's CAC 40 closed down 16.48 pts (-0.20%) at 8,430.79; STOXX Europe 50 closed up 44.38 pts (+0.71%) at 6,301.80; Spain's IBEX 35 closed up 266.56 pts (+1.39%) at 19,430.16; Italy's FTSE MIB closed up 187.94 pts (+0.36%) at 52,620.50."
-    },
-    {
-      "id": "mkt:019ed637-11e1-7dd8-b057-ede734c2ab38",
-      "time": "2026-06-17 23:33:13",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "Treasury Yields",
-        "US10Y"
-      ],
-      "text": "US 4-month Treasury bill auction through June 17: 11.86% of awards allocated at the stop-out yield, versus 16.25% previously."
-    },
-    {
-      "id": "mkt:019ed636-dd96-7dd8-b057-e4dea08cda47",
-      "time": "2026-06-17 23:32:59",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "Treasury Yields"
-      ],
-      "text": "U.S. four-month Treasury bill auction to June 17 — stop-out yield 3.67%, prior 3.67%."
-    },
-    {
-      "id": "mkt:019ed636-bfc2-7dd8-b057-dea029fad103",
-      "time": "2026-06-17 23:32:52",
-      "tags": [
-        "MKT News",
-        "Economic Calendar"
-      ],
-      "text": "United States | 4-Month Bill Auction High Yield Rate (Jun.17) | actual 3.67% | previous 3.67%"
-    },
-    {
-      "id": "mkt:019ed636-b736-7dd8-b057-d786110376ba",
-      "time": "2026-06-17 23:32:50",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "Treasury Yields",
-        "US10Y"
-      ],
-      "text": "US 4-month Treasury auction on June 17 – bid-cover ratio 2.87; prior 2.88."
-    },
-    {
-      "id": "mkt:019ed636-92ed-7dd8-b057-ca5637c8a13e",
-      "time": "2026-06-17 23:32:41",
-      "tags": [
-        "MKT News",
-        "Economic Calendar"
-      ],
-      "text": "United States | 4-Month Bill Auction Bid/Cover Ratio (Jun.17) | actual 2.87 | previous 2.88"
-    },
-    {
-      "id": "te:markets:559774",
-      "time": "2026-06-17 23:32:37",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "stocks",
-        "Importance 1"
-      ],
-      "text": "Newmont Mining Stock Price Hits 4-week High — Newmont Mining shares increased to 111.95 USD, the highest since May 2026. Over the past 4 weeks, Newmont Mining gained 1.89%, and in the last 12 months, it increased 92.12%."
     }
   ]
 }
