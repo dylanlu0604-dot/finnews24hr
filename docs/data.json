@@ -1,7 +1,124 @@
 {
-  "updated": "2026-06-24 21:53:58",
-  "count": 17270,
+  "updated": "2026-06-24 21:58:11",
+  "count": 17274,
   "items": [
+    {
+      "id": "te:markets:561571",
+      "time": "2026-06-24 21:56:51",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Silver Falls to December-Lows — Silver prices fell about 5% to $59 per ounce on Wednesday, their lowest level since December, tracking broader weakness across the precious metals complex. The decline was driven by a stronger US dollar and growing expectations that the Fed will maintain a hawkish policy stance, prompting traders to increase bets on an interest-rate hike later this year. Markets currently assign a roughly 68% probability of a Fed rate increase in September, up from 29% a week ago. Silver and other precious metals also came under additional selling pressure as a sharp decline in US technology stocks led some investors to reduce bullion holdings to help offset losses elsewhere in their portfolios. Silver is now down about 13% year-to-date and nearly 47% below its record high reached in January, before the outbreak of the conflict with Iran."
+    },
+    {
+      "id": "4952988",
+      "time": "2026-06-24 21:56:29",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國電網運營機構撤銷週三電力供應餘量預警。"
+    },
+    {
+      "id": "mkt:019ef9ea-e7e9-7dd8-b0fb-8f472babeb77",
+      "time": "2026-06-24 21:56:21",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "XAUUSD",
+        "Impact bearish",
+        "HOC.L",
+        "FRES.L"
+      ],
+      "text": "【Gold falls below $4,000/oz; precious‑metals miners slump】Gold slipped below $4,000/oz for the first time since November 2025 as market expectations of further Federal Reserve rate hikes and a firmer dollar pressured bullion. Silver also tumbled, weighing on miners. London‑listed precious‑metals stocks moved sharply lower: Hochschild fell more than 9% in after‑hours trade to a six‑month low, Fresnillo dropped 5.1% and Endeavour Mining slid 5.25%."
+    },
+    {
+      "id": "4952987",
+      "time": "2026-06-24 21:54:52",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行執委奇波洛內：數字歐元不會對金融穩定構成風險。數字歐元對銀行的影響“微乎其微”。"
+    },
+    {
+      "id": "4952986",
+      "time": "2026-06-24 21:54:31",
+      "tags": [
+        "其他"
+      ],
+      "text": "葛蘭素史克宣佈要約收購Nuvalent。"
+    },
+    {
+      "id": "mkt:019ef9e9-02ce-7dd8-b0fb-83c6792656da",
+      "time": "2026-06-24 21:54:17",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Guanzhong Customs: Xi'an Jan-May 2026 total trade up 85.1% YoY】Guanzhong Customs said Xi'an's Jan-May 2026 imports and exports totaled 352.5 bln yuan, up 85.1% YoY — 69.8 percentage points above national trade growth and the fastest pace among 15 sub-provincial cities. Exports were 277.3 bln yuan (+107.8% YoY); imports 75.2 bln yuan (+31.9% YoY). Trade surplus totaled 202.1 bln yuan."
+    },
+    {
+      "id": "mkt:019ef9e8-fb9c-7dd8-b0fb-7a739b6dc243",
+      "time": "2026-06-24 21:54:15",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Brent",
+        "Impact bearish"
+      ],
+      "text": "【Brent near-month spread flips to contango for first time since Feb; oversupply expectations rise】A US-Iran agreement reopening the Strait of Hormuz has increased Middle East supply, and Brent's near-month spread has flipped into contango for the first time since February — the front-month now trades below the next-month contract. Contango typically signals expected supply surplus; the move coincides with falling physical crude premia and similar weakness in the Dubai market. Earlier today Brent dipped below $75/bbl for the first time since the outbreak of the Iran war."
+    },
+    {
+      "id": "mkt:019ef9e8-dfec-7dd8-b0fb-72a113cb11be",
+      "time": "2026-06-24 21:54:08",
+      "tags": [
+        "MKT News",
+        "S&P500",
+        "Impact bullish"
+      ],
+      "text": "S&P 500 extended gains to 0.5%."
+    },
+    {
+      "id": "4952985",
+      "time": "2026-06-24 21:54:07",
+      "tags": [
+        "市場"
+      ],
+      "text": "標普500指數漲幅擴大至0.5%。"
+    },
+    {
+      "id": "mkt:019ef9e8-c00d-7dd8-b0fb-691388209fa4",
+      "time": "2026-06-24 21:54:00",
+      "tags": [
+        "MKT News",
+        "EURUSD"
+      ],
+      "text": "ECB executive board member Cipellone said the digital euro will not pose a risk to financial stability."
+    },
+    {
+      "id": "4952984",
+      "time": "2026-06-24 21:53:50",
+      "tags": [
+        "其他"
+      ],
+      "text": "墨西哥能源部長：到 2030 年將新增 22376 兆瓦清潔能源裝機，墨西哥 2030 年清潔能源佔比將達 38%。"
+    },
+    {
+      "id": "mkt:019ef9e8-8eaa-7dd8-b0fb-631cb5c51a56",
+      "time": "2026-06-24 21:53:48",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "ECB executive board member Cipellone said the impact of a digital euro on banks is 'negligible'."
+    },
     {
       "id": "4952983",
       "time": "2026-06-24 21:53:10",
@@ -157978,73 +158095,6 @@
         "歐洲央行"
       ],
       "text": "【歐洲央行管委斯萊普恩：如果歐洲央行再次加息至2.5% 利率水平仍將處於中性區間】歐洲央行管委斯萊普恩稱，根據當前分析，如果歐洲央行再次加息至2.5%，利率水平仍將處於中性區間。"
-    },
-    {
-      "id": "4941234",
-      "time": "2026-06-17 21:57:20",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國參議員湯姆·科頓表示，克萊頓出任美國情報總監的提名聽證會將按計劃推進。"
-    },
-    {
-      "id": "4941233",
-      "time": "2026-06-17 21:56:51",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "歐洲央行斯萊普：根據當前分析，若歐洲央行再度加息至2.5%，利率水平仍將處於中性區間。"
-    },
-    {
-      "id": "4941232",
-      "time": "2026-06-17 21:56:36",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "SPACEX股價轉跌，抹去了高達6%的漲幅。"
-    },
-    {
-      "id": "4941231",
-      "time": "2026-06-17 21:56:32",
-      "tags": [
-        "央行",
-        "市場"
-      ],
-      "text": "【荷蘭合作銀行：受英國央行謹慎態度及英國政治風險影響，英鎊面臨打擊】荷蘭合作銀行的Jane Foley在一份報告中表示，如果英國央行對加息表現出謹慎態度，並且英國特別選舉加劇了政治擔憂，英鎊可能會下跌。她說，週三低於預期的英國通脹資料加劇了關於英國央行週四是否會延長其“觀望“策略的爭論。如果安迪·伯納姆贏得週四的特別選舉，他可能會挑戰首相基爾·斯塔默的領導地位。他的左傾立場以及財政保守的財政大臣蕾切爾·裡夫斯可能被替換的前景，可能會讓英國國債市場感到擔憂，並“使英鎊動盪“。英鎊下跌0.1%，至1.3414美元，荷蘭合作銀行認為未來幾個月英鎊有跌至1.33美元的風險。歐元上漲0.1%，至0.8647英鎊。"
-    },
-    {
-      "id": "4941230",
-      "time": "2026-06-17 21:55:40",
-      "tags": [
-        "公司"
-      ],
-      "text": "斯泰蘭蒂斯集團執行長：我們將在波米利亞諾工廠生產至少兩款純電車型，我希望能有三款。"
-    },
-    {
-      "id": "4941229",
-      "time": "2026-06-17 21:54:50",
-      "tags": [
-        "國際"
-      ],
-      "text": "槍殺美國聯合健康保險執行長布賴恩·湯普森的嫌犯路易吉·曼焦內 (Luigi Mangione)在紐約州審判中提出精神狀態抗辯。"
-    },
-    {
-      "id": "4941228",
-      "time": "2026-06-17 21:54:30",
-      "tags": [
-        "其他"
-      ],
-      "text": "巴西財長：我們今後無疑必須繼續推進嚴肅的財政工作，這項任務尚未完成。"
-    },
-    {
-      "id": "mkt:019ed5dc-9227-7dd8-b052-d87623a93119",
-      "time": "2026-06-17 21:54:22",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Luigi Mangione, the suspect accused of fatally shooting UnitedHealth CEO Brian Thompson, has raised an insanity defense at his New York state trial."
     }
   ]
 }
