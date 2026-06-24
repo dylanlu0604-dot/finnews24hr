@@ -1,7 +1,132 @@
 {
-  "updated": "2026-06-24 08:07:37",
-  "count": 17373,
+  "updated": "2026-06-24 08:11:31",
+  "count": 17377,
   "items": [
+    {
+      "id": "mkt:019ef6f7-06b4-7dd8-b0e5-adb121137bed",
+      "time": "2026-06-24 08:10:44",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Australia's S&P/ASX 200 opened up 13.4 points, or 0.15%, at 8,800.40 on Wednesday, June 24."
+    },
+    {
+      "id": "4951338",
+      "time": "2026-06-24 08:10:02",
+      "tags": [
+        "觀點"
+      ],
+      "text": "【中信建投：業績修復有望帶動保險板塊股價回暖 建議把握配置機會】中信建投研報稱，業績修復有望帶動保險板塊股價回暖，居民存款搬家開啟長期增長空間。存款搬家與“反內卷”政策有望驅動負債端保持較快增長，滬深300二季度漲超13%明顯提振資產端收益；頭部險企估值處歷史低分位；“報行合一”強化價值率、分紅險擴容與健康險政策催化，產業趨勢加速開啟中長期成長空間。建議沿高景氣彈性與低估值修復雙主線擇優佈局。"
+    },
+    {
+      "id": "4951337",
+      "time": "2026-06-24 08:09:39",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "韓國綜合股價指數上漲3%，至8452.64。"
+    },
+    {
+      "id": "mkt:019ef6f5-e5e2-7dd8-b0e5-a35a4fc92a44",
+      "time": "2026-06-24 08:09:30",
+      "tags": [
+        "MKT News",
+        "Important",
+        "005930.KS",
+        "Impact bullish"
+      ],
+      "text": "South Korea's KOSPI extended gains to about 3%; Samsung Electronics rose 6.6%."
+    },
+    {
+      "id": "4951336",
+      "time": "2026-06-24 08:09:24",
+      "tags": [
+        "公司"
+      ],
+      "text": "三星電子股價漲幅擴大至6%。"
+    },
+    {
+      "id": "4951335",
+      "time": "2026-06-24 08:09:17",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國財長貝森特：特朗普和我明白債券市場的力量。"
+    },
+    {
+      "id": "4951334",
+      "time": "2026-06-24 08:09:05",
+      "tags": [
+        "公司"
+      ],
+      "text": "【世界最大清潔能源走廊完成年度消落 騰出358億立方米防洪庫容】記者從三峽集團獲悉，為全力保障長江流域汛期安全，由烏東德、白鶴灘、溪洛渡、向家壩、三峽和葛洲壩六座梯級水電站構成的世界最大清潔能源走廊，日前全面完成年度消落工作，累計騰空防洪庫容358億立方米。"
+    },
+    {
+      "id": "4951333",
+      "time": "2026-06-24 08:08:38",
+      "tags": [
+        "其他"
+      ],
+      "text": "【《中國核能發展報告（2026）》：2030年前我國核電執行裝機規模有望登頂世界第一】在全球能源轉型與算力產業高速發展的背景下，核能憑藉零碳清潔、穩定高效的核心優勢，成為我國能源結構升級的核心力量，也是保障國家能源安全的重要支撐。據《中國核能發展報告（2026）》藍皮書披露，2030年前我國核電執行裝機規模有望登頂世界第一。（央視新聞）"
+    },
+    {
+      "id": "4951332",
+      "time": "2026-06-24 08:08:31",
+      "tags": [
+        "其他"
+      ],
+      "text": "【打破國外壟斷 “核”心突破啟用千億產業】在全球能源轉型與算力產業高速發展的背景下，核能憑藉零碳清潔、穩定高效的核心優勢，成為我國能源結構升級的核心力量，也是保障國家能源安全的重要支撐。據《中國核能發展報告（2026）》藍皮書披露，2030年前我國核電執行裝機規模有望登頂世界第一。長三角三澳核電基地的“華龍一號”機組已正式投產，規劃6臺機組全面投產後，年發電量超540億千瓦時。專案搭載國內自主研發的和睦核安全級數字化儀控平臺，打破國外壟斷，累計為國家節省超百億元成本。該平臺適配多種主流堆型，依託海量演算法實現廠區裝置智慧化管控。同時，電站引入智慧巡檢機器人，結合物聯網、AI技術實現安全穿透式管理，大幅提升巡檢效率。此外，專案創新引入民間資本，帶動近2000家民營企業參與核電建設。（央視）"
+    },
+    {
+      "id": "4951331",
+      "time": "2026-06-24 08:07:51",
+      "tags": [
+        "市場"
+      ],
+      "text": "澳大利亞S&P/ASX 200指數早盤持平，報8,789.30點。"
+    },
+    {
+      "id": "4951330",
+      "time": "2026-06-24 08:07:37",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美國財長貝森特：美聯儲主席沃什將最佳化增長和價格穩定的路徑。"
+    },
+    {
+      "id": "mkt:019ef6f3-b518-7dd8-b0e5-9ce211309c81",
+      "time": "2026-06-24 08:07:07",
+      "tags": [
+        "MKT News",
+        "S&P500",
+        "Impact bullish",
+        "Nasdaq100",
+        "Impact bearish"
+      ],
+      "text": "【CSC Financial: securities sector in a window where high earnings growth, low valuations and accelerating industry trends converge】CSC Financial says the securities sector is in a convergence window of high earnings growth, low valuations and accelerating structural trends. Earnings: strong interim results plus conversion of investment‑banking deal flow provide ongoing validation. Industry: consolidation in large-scale wealth-management, scaling of sci‑tech investment‑banking capabilities and faster international expansion underpin a higher medium-to-long-term earnings baseline. Valuation: PB at historically low percentiles offers a margin of safety. Against rising trade overcrowding in technology and capital rotating from high- to low-valuation areas, the sector’s risk/reward profile remains attractive."
+    },
+    {
+      "id": "4951329",
+      "time": "2026-06-24 08:06:37",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美國財長貝森特：有信心美聯儲主席將最佳化經濟路徑。"
+    },
+    {
+      "id": "4951328",
+      "time": "2026-06-24 08:05:24",
+      "tags": [
+        "宏觀",
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "【韓國股市暴跌引發投資者重新審視2900億美元槓桿ETF熱潮】在韓國股市AI驅動的拋售中，市場的目光重新聚焦於散戶投資增長最快的領域之一：槓桿交易所交易基金(ETF)。這些產品多年來一直是日內交易員的常用工具，但本週三星電子和SK海力士股價波動劇烈，而且韓國最高市場監管機構對允許發行單一股票槓桿ETF表達了後悔之意，這引發了投資者對這類ETF是否在加劇市場波動的重新審視。這個問題在週二變得更加緊迫，當日韓國基準Kospi指數暴跌10%，引發全球半導體股票遭拋售，並拖累歐洲和美國股指下跌。雖然很少有投資者將此次下跌歸咎於槓桿ETF，但策略師們越來越將它們視為投機機制的一部分，一旦動能發生轉變，槓桿ETF就會放大市場波動。隨著槓桿ETF產品達到空前規模，市場對其的關注度也隨之升溫。資料顯示，目前槓桿ETF的資產規模已超過2900億美元，其中亞洲市場規模超過450億美元，美國市場規模超過2200億美元。巴克萊股票戰術策略的Alexander Altmann估計，過去10個交易日中，美國槓桿ETF的再平衡平均每天約為200億美元，大約是過去一年平均水平的四倍。"
+    },
     {
       "id": "4951327",
       "time": "2026-06-24 08:04:27",
@@ -159044,100 +159169,6 @@
         "日本央行"
       ],
       "text": "【中信證券：預計日本央行在本次加息後將維持政策利率不變於1%】中信證券研報指出，日銀6月如期加息25bps，宣佈計劃暫停縮減購債規模，決議的措辭立場中性略鷹，延續了可能繼續加息的前瞻指引，植田因病缺席本次會議。我們預計日本表觀通脹率將在年內延續溫和表現，日銀沒有繼續加息的緊迫感、可能在本次加息後將維持政策利率不變於1%。"
-    },
-    {
-      "id": "te:economy:559471",
-      "time": "2026-06-17 08:11:00",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Japan",
-        "Machinery Orders",
-        "Importance 1"
-      ],
-      "text": "Japan Machinery Orders Rebound Sharply — Japan’s core machinery orders, which exclude volatile sectors such as ships and electric power, rose by 8.7% month-on-month to JPY 1,098.5 billion in April 2026, far exceeded market expectations for a 0.9% gain and marked a sharp rebound from the 9.4% decline recorded in March. The recovery was driven by a 5.1% increase in manufacturing orders to JPY 513.5 billion and a 6.7% rise in non-manufacturing orders excluding utilities to JPY 570.1 billion. Among manufacturers, strong gains were recorded in ship building (+160.7%), textile mill products (+61.7%), and non-ferrous metals (+51.3%). In the non-manufacturing sector, real estate (+107.7%), transportation and postal activities (+36.9%), and goods leasing (+32.7%) posted notable increases. On an annual basis, core machinery orders grew by 15.6%, beating market forecasts for a 9.3% gain and accelerating from a 5.9% rise in the preceding period."
-    },
-    {
-      "id": "4939471",
-      "time": "2026-06-17 08:10:38",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國南方司令部在東太平洋擊沉一艘船隻，造成一人死亡。"
-    },
-    {
-      "id": "4939470",
-      "time": "2026-06-17 08:10:28",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "現貨黃金突破4340美元/盎司，日內漲0.18%。"
-    },
-    {
-      "id": "mkt:019ed2ea-3722-7dd8-b03b-ed764ea06a89",
-      "time": "2026-06-17 08:10:25",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Australia's S&P/ASX 200 opened down 23.80 points, or 0.27%, at 8,893.90 on Wednesday, June 17."
-    },
-    {
-      "id": "4939469",
-      "time": "2026-06-17 08:10:21",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "紐約期金突破4360美元/盎司，日內漲0.11%。"
-    },
-    {
-      "id": "4939468",
-      "time": "2026-06-17 08:10:09",
-      "tags": [
-        "公司"
-      ],
-      "text": "【領益智造：H股香港公開發售今日開始 預計6月26日掛牌交易】領益智造(002600)6月17日早間公告，公司全球發售H股基礎發行股數為8.12億股，其中，初步安排香港公開發售8118.13萬股（可予重新分配），約佔全球發售總數的10.00%。發行價格最高不超過每股10.18港元。公司H股香港公開發售於2026年6月17日開始，預計於6月23日結束，6月25日前（含當日）公佈發行價格，6月26日在香港聯交所掛牌並開始上市交易。"
-    },
-    {
-      "id": "mkt:019ed2e9-b459-7dd8-b03b-e5e2b5e9a4fa",
-      "time": "2026-06-17 08:09:51",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC",
-        "USDJPY",
-        "Impact bullish",
-        "DXY"
-      ],
-      "text": "CITIC Securities expects Japan's headline inflation to remain moderate through the year. It says the Bank of Japan lacks urgency to press on with further hikes and may leave the policy rate unchanged at 1% after the current increase."
-    },
-    {
-      "id": "4939467",
-      "time": "2026-06-17 08:09:43",
-      "tags": [
-        "其他"
-      ],
-      "text": "【我國233部測雨雷達已覆蓋90萬平方公里】據水利部，2022年以來，我國推進測雨雷達建設。截至目前，全國24個省區建成水利測雨雷達233部，覆蓋約90萬平方公里區域。今年入汛以來，全國暴雨洪水多發頻發，水利測雨雷達在山洪災害、中小河流洪水防禦監測預警中發揮了重要的作用，為危險區人員及時轉移避險提供了精準決策支援。據瞭解，傳統洪水預報系統，主要是基於對“落地雨”觀測，也就是對天空降雨量進行觀測分析再進行洪水預報，但中小河流、山洪災害從降雨到形成洪水，預見時間短。時間一般在半個小時到一個小時之間。等到雨量站將監測到的資料輸入模型，再提供防禦決策，這一過程時間較長，留給應對洪水的反應時間非常有限，有時根本來不及反應。而測雨雷達剛好彌補了“雨量站”的這一缺陷。目前，天津已成為全國首個水利測雨雷達全域覆蓋的省級行政區。"
-    },
-    {
-      "id": "4939466",
-      "time": "2026-06-17 08:08:02",
-      "tags": [
-        "其他"
-      ],
-      "text": "【京東即將開源視覺語言實時互動模型】京東團隊即將開源視覺語言實時互動模型JoyAI-VL-Interaction。記者從一份在開源社群和海外AI技術圈受到關注的技術報告獲悉，JoyAI-VL-Interaction把多模態大模型從\"一問一答\"，推進到\"實時流式互動\"，適合需要AI持續在場的場景。報告將JoyAI-VL-Interaction與豆包、Gemini 的App內視訊通話助手進行了人工評測，覆蓋監控預警、實時計數、實時翻譯、時間感知、直播解說和引導、長程記憶六類場景。在58個案例中，JoyAI-VL-Interaction對豆包的總體勝率為77.6%，對Gemini的總體勝率為87.9%。其中，在監控預警場景中，對兩個基線均取得100%勝率。"
-    },
-    {
-      "id": "te:markets:559467",
-      "time": "2026-06-17 08:07:42",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 0"
-      ],
-      "text": "Silver Holds Gains Ahead of US-Iran Deal — Silver traded around $70 per ounce on Wednesday and was up about 3% so far this week, as investors awaited the signing of a US-Iran peace agreement that is expected to restore oil flows through the Persian Gulf, helping ease concerns over inflation and interest rates. The two countries are scheduled to sign an interim deal in Switzerland on Friday, offering Tehran broad economic incentives, including the immediate resumption of its oil exports. Market participants also turned their attention to the Federal Reserve’s upcoming policy decision, where officials are widely expected to leave interest rates unchanged. The meeting will be the first chaired by Kevin Warsh, though he is not expected to submit a \"dot\" to the FOMC’s quarterly rate projections. Earlier this week, the Reserve Bank of Australia left its benchmark interest rate unchanged at 4.35%, while the Bank of Japan raised its policy rate by 25 basis points to 1%."
     }
   ]
 }
