@@ -1,7 +1,190 @@
 {
-  "updated": "2026-06-24 15:30:05",
-  "count": 17371,
+  "updated": "2026-06-24 15:34:11",
+  "count": 17364,
   "items": [
+    {
+      "id": "mkt:019ef88c-76be-7dd8-b0f0-d2142f9b7d35",
+      "time": "2026-06-24 15:33:35",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Riksbank Governor Thedéen said the central bank will continue to closely monitor and assess the intensity of the inflation shock currently spreading through the business sector."
+    },
+    {
+      "id": "mkt:019ef88c-4548-7dd8-b0f0-cc4d79f0ae55",
+      "time": "2026-06-24 15:33:22",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Riksbank Governor Thedéen said the SEK exchange rate will be an important factor going forward."
+    },
+    {
+      "id": "mkt:019ef88c-2308-7dd8-b0f0-c7873ed6e062",
+      "time": "2026-06-24 15:33:13",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Riksbank Governor Thedéen said keeping the policy rate unchanged is balanced for now, but the likelihood of future rate hikes has increased and that is reasonable."
+    },
+    {
+      "id": "4952062",
+      "time": "2026-06-24 15:32:47",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "瑞典央行耶爾姆：若通脹如當前情景般明顯由供給側驅動，貨幣政策應在條件允許的情況下，穿透暫時高通脹的表象制定政策。"
+    },
+    {
+      "id": "4952061",
+      "time": "2026-06-24 15:32:41",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "瑞典央行特登表示：我們將繼續密切追蹤並評估當前正蔓延至整個企業界的通脹脈衝強度。"
+    },
+    {
+      "id": "4952060",
+      "time": "2026-06-24 15:32:19",
+      "tags": [
+        "公司"
+      ],
+      "text": "瑞銀執行長埃爾莫蒂：我們目前投入執行的人工智慧智慧體和應用程式共有500個。"
+    },
+    {
+      "id": "4952059",
+      "time": "2026-06-24 15:32:13",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "瑞典央行瑟丁：維持當前利率不變是一項平衡的政策，同時表明未來我們上調政策利率的可能性有所上升也是合理的。"
+    },
+    {
+      "id": "te:markets:561417",
+      "time": "2026-06-24 15:32:11",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United Kingdom",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The FTSE 100 Index Opens Unchanged — The FTSE 100 Index is up by 0.2 points or 0.00 percent on Wednesday. Top gainers are Segro (15.85%), Berkeley (5.40%) and Land Securities (3.84%). Biggest losses came from WPP (-6.35%), Airtel Africa (-3.16%) and London Stock Exchange (-2.53%)."
+    },
+    {
+      "id": "4952058",
+      "time": "2026-06-24 15:32:10",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "瑞典央行布熱：我們的利率路徑顯示，今年秋季存在一定加息可能性，但我們會在夏季過後重新審議這一問題。"
+    },
+    {
+      "id": "4952057",
+      "time": "2026-06-24 15:31:28",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國柴油價格自3月以來首次跌破每加侖5美元。"
+    },
+    {
+      "id": "4952056",
+      "time": "2026-06-24 15:31:24",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "南向資金淨買入額達130億港元。"
+    },
+    {
+      "id": "te:markets:561416",
+      "time": "2026-06-24 15:31:11",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Germany",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The DAX Index Opens 0.48% Lower — The DAX Index is dropping 119 points. Leading the losses are Rheinmetall (-12.84%), RWE (-2.25%) and HeidelbergCement (-1.58%). Top gainers were MTU Aero Engines AG (2.62%), Brenntag (2.43%) and Zalando (1.14%)."
+    },
+    {
+      "id": "4952055",
+      "time": "2026-06-24 15:31:05",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本專家小組敦促將食品銷售稅降至1%，為期兩年。"
+    },
+    {
+      "id": "4952054",
+      "time": "2026-06-24 15:30:55",
+      "tags": [
+        "公司",
+        "央行",
+        "國際"
+      ],
+      "text": "【近期科技股遭拋售之際，比特幣僅略有回升】在近期全球科技股遭遇拋售之際，比特幣在週二觸及12天低點後僅略有回升。IG分析師在一份報告中表示，隨著市場預計美聯儲將在未來幾個月加息，金融狀況收緊，加上對人工智慧(AI)領域債務融資支出的擔憂，令科技股承壓。倫敦證券交易所集團(LSEG)的資料顯示，受上週美聯儲會議和近期強勁資料的推動，市場目前反映出9月份加息機率達90%的預期。倫敦證券交易所集團(LSEG)的資料顯示，比特幣在週二跌至61,921美元的低點後，微升0.5%，至62,686美元。自6月5日觸及59,125美元的20個月低點以來，比特幣一直難以實現有意義的回升，在窄幅區間內交易。"
+    },
+    {
+      "id": "4952053",
+      "time": "2026-06-24 15:30:46",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【油價下跌，受霍爾木茲海峽活動樂觀情緒影響】油價下跌，因有跡象表明透過霍爾木茲海峽的航運活動正在逐步恢復，國際機構報告安全狀況有所改善。三菱日聯(MUFG)的分析師表示：“儘管談判仍然複雜，對霍爾木茲海峽未來治理的疑問依然存在，但市場正日益預期中東能源供應將逐步恢復正常。“美國對伊朗石油銷售的制裁豁免也提振了市場情緒，這增強了對該地區原油供應將大幅增加的預期。在歐洲早盤交易中，布倫特原油下跌1.1%，至每桶75.93美元；西得州中質油期貨下跌1.3%，至每桶72.31美元。"
+    },
+    {
+      "id": "4952052",
+      "time": "2026-06-24 15:30:35",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗議會議長卡利巴夫：我們不能忽視巴勒斯坦問題。"
+    },
+    {
+      "id": "4952051",
+      "time": "2026-06-24 15:30:11",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗議會議長卡利巴夫：黎巴嫩停火與伊朗停火同等重要。"
+    },
+    {
+      "id": "te:markets:561415",
+      "time": "2026-06-24 15:30:11",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "France",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The CAC 40 Index Opens 0.24% Higher — The CAC 40 Index is picking up 20 points or 0.24 percent on Wednesday. Gains are led by L'Oréal (2.07%), LVMH (1.44%) and Pernod Ricard (1.30%). Biggest losers are Thales (-2.19%), Publicis (-1.86%) and Stellantis NV (-1.78%)."
+    },
+    {
+      "id": "4952050",
+      "time": "2026-06-24 15:30:03",
+      "tags": [
+        "國際"
+      ],
+      "text": "【中方回應日本阻撓設立慰安婦雕像】6月24日，外交部發言人郭嘉昆主持例行記者會。 有記者提問，近日，泰國媒體刊登文章《“慰安婦”不能被抹去》，提及二戰時期日本在亞洲多地建“慰安所”、形成制度化軍事性奴役，而泰國、菲律賓等地區國家出於種種原因，不願正視甚至刻意弱化這一歷史，阻礙了真相的世代傳承。前不久，紐西蘭奧克蘭市曾計劃設立一座“慰安婦”主題雕像，但在日方施壓下叫停。近年來，美國、加拿大、德國、澳大利亞、菲律賓也都出現過日方阻撓設立“慰安婦”雕像的情況。請問發言人對此有何評論？ 郭嘉昆表示，中方多次就慰安婦問題闡明立場。強徵慰安婦是日本軍國主義對外侵略擴張期間犯下的嚴重反人類罪行，是對包括中國、朝鮮半島、東南亞等各國人民基本人權的粗暴踐踏。累累惡行，鐵證如山，不容否認。 郭嘉昆指出，不久前去世的河野洋平先生曾作為日本內閣官房長官就慰安婦問題發表正式談話，承認日本政府責任，表示反省和道歉。然而長期以來，日本一些勢力妄圖否認甚至篡改侵略歷史，對慰安婦問題輕描淡寫，剝奪受害者尋求正義和獲得賠償的權利，不斷在受害者傷口上撒鹽。日本政府還阻撓有關國家設立慰安婦紀念雕像，引發民間團體和各界民眾強烈憤慨。不久前聯合國人權專家對慰安婦問題表達嚴重關切，呼籲日本正式道歉，充分賠償。我們敦促日本執政當局正視侵略歷史，真誠認罪謝罪，停止掩蓋真相，壓制正義之聲，停止“再軍事化”的逆流妄動。 郭嘉昆說，我們也注意到，聯合國消除對婦女歧視委員會，還敦促菲律賓將慰安婦問題納入主流教育。歷史是最好的清醒劑，各受害國更應樹立正確二戰史觀，守護歷史真相，防止悲劇重演，共護亞太地區來之不易的和平穩定。（北京日報）"
+    },
+    {
+      "id": "4952049",
+      "time": "2026-06-24 15:29:37",
+      "tags": [
+        "央行",
+        "市場",
+        "國際"
+      ],
+      "text": "泰銖兌美元跌至自2025年5月以來的最低水平，此前泰國央行維持利率不變。"
+    },
     {
       "id": "mkt:019ef888-b8bc-7dd8-b0f0-be8b0f9e2695",
       "time": "2026-06-24 15:29:30",
@@ -10,6 +193,14 @@
         "Important"
       ],
       "text": "【China says two Japanese detained in Dalian over alleged legal violations amid rare-earth export query】June 24 — Foreign Ministry spokesperson Guo Jiakun, at a regular briefing, was asked by Kyodo about reports that two Japanese employees were detained in Dalian in May while exporting rare-earth-related products. Guo said the two were lawfully detained by Chinese authorities for violating Chinese law, that Beijing has informed Tokyo of the case, and urged Japan to remind its citizens and companies in China to comply with Chinese laws and regulations."
+    },
+    {
+      "id": "4952048",
+      "time": "2026-06-24 15:29:30",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗議會議長卡利巴夫：地區未來在於合作。"
     },
     {
       "id": "mkt:019ef888-ac7c-7dd8-b0f0-b32b5742a92b",
@@ -36,6 +227,23 @@
         "MKT News"
       ],
       "text": "【How will China ensure U.S. compliance and full implementation of the U.S.-Iran memorandum? Foreign Ministry responds】June 24 — China's Foreign Ministry spokesman Guo Jiakun said Beijing favors resolving regional disputes through dialogue, opposes the use or threat of force, and views the U.S.-Iran memorandum of understanding (MoU)—under which both parties pledge to respect each other's sovereignty and territorial integrity, refrain from military action and avoid interference in internal affairs—as a positive signal that should be jointly maintained and implemented. Guo said China maintains an impartial stance, supports efforts conducive to peace, backs Iran's sovereignty, security and national dignity, and supports Iran improving ties with Gulf and regional states. He added China is willing, under Xi Jinping's four-point proposal, to provide assistance in its own way and play a constructive role in restoring regional peace and stability."
+    },
+    {
+      "id": "4952046",
+      "time": "2026-06-24 15:29:03",
+      "tags": [
+        "國際"
+      ],
+      "text": "【中方如何確保美國遵守承諾、使美伊諒解備忘錄全面履行？外交部回應】6月24日，外交部發言人郭嘉昆主持例行記者會。針對記者提問，郭嘉昆表示，中方始終認為，應透過對話談判解決地區熱點和各方分歧，反對使用武力或用武力相威脅。美伊簽署諒解備忘錄，承諾尊重彼此主權和領土完整，不再發動任何軍事行動，避免干涉對方內政，對外發出了積極訊號，應共同加以維護和落實。中方始終秉持公正立場，支援一切有助於和平的努力，支援伊方維護主權、安全和民族尊嚴，支援伊朗改善同海灣各國及地區國家關係。中方願根據習近平主席“四點主張”精神，繼續以自己的方式提供協助，為早日恢復地區和平安寧發揮建設性作用。（澎湃）"
+    },
+    {
+      "id": "4952045",
+      "time": "2026-06-24 15:28:59",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "【夏季達沃斯論壇在大連開幕，外交部：真誠歡迎各國企業來華投資興業】6月24日，外交部發言人郭嘉昆主持例行記者會。有記者提問，以“規模化創新”為主題的第十七屆夏季達沃斯論壇正在大連舉行。今天上午，李強總理在論壇開幕式上發表致辭，引發與會各國嘉賓的熱烈反響，各方高度肯定中國創新成果，看好“中國機遇2.0”，期待加強同中國的創新合作。發言人能否進一步介紹有關情況？\n\n郭嘉昆表示，今天上午，第十七屆夏季達沃斯論壇在大連開幕，國務院總理李強出席論壇開幕式並致辭。李強總理在致辭中結合中國經濟發展實踐，分享了中國創新的故事，以及對全球創新合作的思考。\n\n李強總理表示，“十五五”伊始，中國經濟在應變局中開新局。在國際形勢愈發動盪不安背景下，中國經濟不懼風雨、奮楫破浪，呈現出“穩、新、活、融”的一幅多維圖景，展現了堅韌向前、蓬勃向好的開局之勢，為不確定性增多的世界注入了寶貴的確定性。\n\n李強總理指出，創新驅動是中國經濟長期向好、行穩致遠的關鍵密碼。中國的創新是苦練內功“拼”出來的，是千行百業“用”出來的，是厚植生態“育”出來的。近期，國際上不少機構媒體提到“中國機遇2.0”，中國在提供更大市場紅利的同時，還透過科技進步與產業升級，為全球提供越來越多的創新紅利。對各國企業而言，“中國機遇2.0”意味著全方位的創新賦能、高收益的投資機會。對全球發展而言，“中國機遇2.0”意味著更可及的先進技術、更普惠的成果共享。事實有力證明，中國的新興領域技術和產品帶給世界的不是衝擊而是機遇，不是威脅而是賦能。\n\n李強總理表示，創新合作是破解全球增長困境的必然選擇。各方應當深化聯通協作，共建開放型世界經濟，維護全球產供鏈穩定暢通，更加廣泛地凝聚創新合力。堅持科技向善，健全人工智慧等領域全球治理制度規則、提升監管效能，更加有效地推進共同治理。中國將進一步擴大市場準入，持續打造一流營商環境，真誠歡迎各國企業來華投資興業，更多分享中國發展新機遇。"
     },
     {
       "id": "mkt:019ef888-3033-7dd8-b0f0-a7f90c9715df",
@@ -118,6 +326,14 @@
         "焦點"
       ],
       "text": "南向資金淨買入額達120億港元。"
+    },
+    {
+      "id": "4952037",
+      "time": "2026-06-24 15:26:01",
+      "tags": [
+        "其他"
+      ],
+      "text": "【中國氣象學家許健民獲國際氣象組織獎】世界氣象組織24日在日內瓦為中國工程院院士、中國氣象局衛星氣象專家許健民頒發第70屆國際氣象組織獎，表彰他為天氣預報、衛星氣象事業以及氣象業務服務作出的卓越貢獻。據介紹，許健民全額捐贈獎金用於中國氣象局設立“媽祖”獎。（新華社）"
     },
     {
       "id": "mkt:019ef885-7df1-7dd8-b0f0-8cb0e96c1189",
@@ -158778,296 +158994,6 @@
         "公司"
       ],
       "text": "【國芯科技：新一代汽車電子離手檢測觸控MCU產品CCM4202S-O內部測試成功】國芯科技公告，公司研發的新一代汽車電子離手檢測觸控MCU產品CCM4202S-O在內部測試中獲得成功。該晶片基於40nm EFLASH工藝開發和生產，整合32KB SRAM，512KB FLASH，4KB EEPROM(FLASH模擬），1路CAN匯流排控制器（CAN FD），1路LIN，1路UART，1路I2C，2路SPI，1個ADC（總計15通道），1個TSI（觸控模組，總計16通道），2個PWMT和其他通用周邊模組。該晶片按照汽車電子Grade2等級、功能安全ASIL-B等級進行設計和生產，具備高可靠性和高安全性，可以應用於苛刻的使用場景。"
-    },
-    {
-      "id": "4940273",
-      "time": "2026-06-17 15:34:04",
-      "tags": [
-        "公司"
-      ],
-      "text": "【維力醫療：微網霧化器獲二類醫療器械註冊證】維力醫療公告，公司近日收到廣東省藥品監督管理局頒發的《中華人民共和國醫療器械註冊證》。產品名稱為微網霧化器，註冊證編號為粵械注準20262080647。該產品適用於對液態霧化藥物進行霧化，並透過患者吸入，起到預期的治療效果。此次取得上述醫療器械註冊證，有利於豐富公司產品種類，有助於提高公司產品的市場競爭力，對公司經營將產生積極影響。"
-    },
-    {
-      "id": "4940272",
-      "time": "2026-06-17 15:33:53",
-      "tags": [
-        "公司"
-      ],
-      "text": "賽峰集團與赫梅里亞公司簽署諒解備忘錄，合作開發結合人工智慧與高空氣球的電磁情報解決方案。"
-    },
-    {
-      "id": "4940271",
-      "time": "2026-06-17 15:33:36",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "瑞典央行：預計2026年第四季度政策利率將平均為1.82%，高於之前預測的1.77%。預計2028年第二季度政策利率將平均為2.07%，高於之前預測的2.03%。預計2026年第三季度政策利率將平均為1.76%，高於之前預測的1.75%。"
-    },
-    {
-      "id": "mkt:019ed47f-830e-7dd8-b046-bd86476f11c9",
-      "time": "2026-06-17 15:33:06",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Riksbank says the probability of holding the policy rate steady is currently higher, but the odds of a rate hike this year have increased."
-    },
-    {
-      "id": "4940270",
-      "time": "2026-06-17 15:33:04",
-      "tags": [
-        "國際"
-      ],
-      "text": "【韓國散戶湧入SpaceX：上市首日淨買入7.96億美元 創海外股票單日買入之最】據韓國證券存管院週三公佈的資料，在SpaceX6月12日上市當天，韓國投資者淨買入價值7.9593億美元（約合1.215萬億韓元）SpaceX股票。這次“掃貨”是韓國散戶投資者有史以來單日海外股票買入額最大的一次。"
-    },
-    {
-      "id": "4940269",
-      "time": "2026-06-17 15:32:51",
-      "tags": [
-        "其他"
-      ],
-      "text": "【張永偉：具身智慧產業70%供應鏈來自汽車行業】6月17日，在綠色交通轉型（香港）暨甲醇電動汽車發展論壇2026上，車百會研究院理事長張永偉表示，當前具身智慧產業70%供應鏈來自汽車產業，低空經濟領域也與汽車行業密不可分，未來融合發展勢不可擋。"
-    },
-    {
-      "id": "4940268",
-      "time": "2026-06-17 15:32:40",
-      "tags": [
-        "其他"
-      ],
-      "text": "斯塔默：我將迎戰任何旨在罷免我首相職位的挑戰。"
-    },
-    {
-      "id": "te:markets:559632",
-      "time": "2026-06-17 15:32:12",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United Kingdom",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The FTSE 100 Index Opens 0.07% Lower — The FTSE 100 Index is falling 8 points. Losses were driven by Rightmove (-1.88%), Entain (-1.73%) and Rio Tinto (-1.44%). Biggest rises came from Antofagasta (2.48%), Endeavour (2.20%) and Fresnillo (1.96%)."
-    },
-    {
-      "id": "4940267",
-      "time": "2026-06-17 15:32:02",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普顧問推動石油資源豐富的利比亞實行權力共享方案。"
-    },
-    {
-      "id": "te:economy:559631",
-      "time": "2026-06-17 15:31:59",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "United Kingdom",
-        "Government Bond 10Y",
-        "Importance 1"
-      ],
-      "text": "UK Gilt Yields Fall as Inflation Data Eases BoE Pressure — UK 10-year gilt yields dipped toward 4.75%, hitting their lowest since mid-April, as traders scaled back expectations for Bank of England rate hikes following weaker-than-expected UK inflation data and a continued drop in oil prices. Annual CPI held steady at 2.8% in May, falling short of economists’ forecasts for a rise to 3%. However, the services sector saw a faster increase, climbing to 3.7% from 3.2% in April and surpassing the 3.6% estimate. The core inflation rate rose less than expected, edging up to 2.6% from 2.5%. Oil prices, meanwhile, reached fresh three-month lows amid growing expectations of a US-Iran deal this week. Markets now anticipate just 25 basis points of rate increases for 2026, equivalent to a single hike by December. Before the conflict in Iran, the BoE had been expected to cut rates this year. However, the surge in crude prices, still well above pre-war levels of $65 per barrel, disrupted those plans, exposing the UK’s susceptibility to energy shocks."
-    },
-    {
-      "id": "4940266",
-      "time": "2026-06-17 15:31:49",
-      "tags": [
-        "央行",
-        "市場"
-      ],
-      "text": "瑞典央行：預計今年經濟增速將高於去年，經濟活動將進一步走強。"
-    },
-    {
-      "id": "4940265",
-      "time": "2026-06-17 15:31:45",
-      "tags": [
-        "市場"
-      ],
-      "text": "英國兩年期國債收益率跌至4.12%，創4月17日以來新低，單日降幅超6個基點、"
-    },
-    {
-      "id": "mkt:019ed47e-3593-7dd8-b046-b3c8ca2ebadd",
-      "time": "2026-06-17 15:31:41",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK",
-        "FTSE100",
-        "Impact bullish",
-        "GBPUSD",
-        "Impact mixed"
-      ],
-      "text": "UK 2-year government bond yield fell to 4.12%, the lowest since April 17, down more than 6 bps on the day."
-    },
-    {
-      "id": "4940264",
-      "time": "2026-06-17 15:31:40",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "瑞典央行表示，與3月的評估相比，本次預測意味著今年晚些時候加息的機率有所上升。"
-    },
-    {
-      "id": "mkt:019ed47e-1d96-7dd8-b046-a85444cf1f28",
-      "time": "2026-06-17 15:31:35",
-      "tags": [
-        "MKT News",
-        "Brent",
-        "Impact bullish",
-        "XAUUSD",
-        "DXY"
-      ],
-      "text": "Riksbank said supply disruptions from the Middle East war have intensified inf pressure. The disruptions have persisted for nearly four months; the longer they last, the greater the inf risk."
-    },
-    {
-      "id": "4940263",
-      "time": "2026-06-17 15:31:33",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "瑞典央行：目前預測仍存在相當大的不確定性。"
-    },
-    {
-      "id": "4940262",
-      "time": "2026-06-17 15:31:25",
-      "tags": [
-        "公司"
-      ],
-      "text": "斯塔默：正與保險公司洽談霍爾木茲海峽航運安全相關事宜 。"
-    },
-    {
-      "id": "4940261",
-      "time": "2026-06-17 15:31:20",
-      "tags": [
-        "其他"
-      ],
-      "text": "中國地震臺網正式測定：06月17日15時27分在青海海西州直轄區（北緯37.86度，東經95.53度）發生4.0級地震，震源深度10千米。"
-    },
-    {
-      "id": "mkt:019ed47d-cf7a-7dd8-b046-a6f1d4a79641",
-      "time": "2026-06-17 15:31:15",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Riksbank expects the policy rate to average 1.76% in Q3 2026, up from 1.75% in its previous projection."
-    },
-    {
-      "id": "te:markets:559630",
-      "time": "2026-06-17 15:31:12",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Germany",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The DAX Index Opens 0.21% Lower — The DAX Index is dropping 53 points. Leading the losses are BMW (-6.75%), Mercedes-Benz AG (-3.20%) and Volkswagen (-2.45%). Top gainers were Zalando (1.89%), MTU Aero Engines AG (1.05%) and Rheinmetall (0.93%)."
-    },
-    {
-      "id": "mkt:019ed47d-ab20-7dd8-b046-9c077076be1e",
-      "time": "2026-06-17 15:31:06",
-      "tags": [
-        "MKT News",
-        "DXY",
-        "Impact bearish",
-        "USDJPY"
-      ],
-      "text": "Sweden's Riksbank expects the policy rate to average 1.82% in Q4 2026, up from its previous forecast of 1.77%."
-    },
-    {
-      "id": "mkt:019ed47d-97b2-7dd8-b046-94dccb53b7b1",
-      "time": "2026-06-17 15:31:01",
-      "tags": [
-        "MKT News",
-        "Macro & Rates"
-      ],
-      "text": "Sweden's Riksbank expects the policy rate to average 2.07% in Q2 2028, up from a prior forecast of 2.03%."
-    },
-    {
-      "id": "4940260",
-      "time": "2026-06-17 15:30:58",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "瑞典央行：與今年3月的評估相比，今年晚些時候加息的機率已經上升。"
-    },
-    {
-      "id": "4940259",
-      "time": "2026-06-17 15:30:52",
-      "tags": [
-        "公司"
-      ],
-      "text": "【一電詐骨幹被押解回國】近日，在柬埔寨有關部門大力支援下，公安部派出工作組，成功將陳志犯罪集團重要骨幹成員劉忍，從柬埔寨金邊押解回國。這是中柬執法合作取得的又一戰果。經查，2016年，陳志指揮劉忍等人在柬埔寨創立金貝集團，運營多個網路賭博平臺，對我境內公民大肆招賭吸賭。2020年以來，金貝集團在柬埔寨經營電詐園區，大肆實施電信網路詐騙犯罪，涉案金額特別巨大。此外，劉忍還涉嫌非法拘禁、故意傷害等嚴重暴力犯罪。目前，劉忍已被依法採取強制措施，相關案件正在進一步偵辦中。（央視新聞）"
-    },
-    {
-      "id": "mkt:019ed47d-5336-7dd8-b046-8812b9adb401",
-      "time": "2026-06-17 15:30:43",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Precious Metals",
-        "XAUUSD",
-        "Impact bearish"
-      ],
-      "text": "Shanghai Gold Exchange Gold T+D closed down 0.15% at 939.8 yuan/gram on Wednesday, June 17. Silver T+D closed up 0.5% at 16,775 yuan/kg."
-    },
-    {
-      "id": "mkt:019ed47d-3eb7-7dd8-b046-8174c905bf72",
-      "time": "2026-06-17 15:30:38",
-      "tags": [
-        "MKT News",
-        "Macro & Rates"
-      ],
-      "text": "Riksbank left its policy rate unchanged, in line with market expectations."
-    },
-    {
-      "id": "4940258",
-      "time": "2026-06-17 15:30:25",
-      "tags": [
-        "其他"
-      ],
-      "text": "斯塔默：對於黨內領導層的現狀，我並無怨懟，也毫無怒意。"
-    },
-    {
-      "id": "4940257",
-      "time": "2026-06-17 15:30:17",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "瑞典至6月17日央行基準利率 1.75%，預期1.75%，前值1.75%。"
-    },
-    {
-      "id": "mkt:019ed47c-e6b5-7dd8-b046-7e55dbd0d738",
-      "time": "2026-06-17 15:30:15",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Sweden central bank policy rate as of June 17: 1.75% (expected 1.75%; prior 1.75%)."
-    },
-    {
-      "id": "te:markets:559629",
-      "time": "2026-06-17 15:30:12",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "France",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The CAC 40 Index Opens Unchanged — The CAC 40 Index is picking up 0.1 points or 0.00 percent on Wednesday. Gains are led by Legrand (1.87%), Schneider Electric (1.26%) and Safran (0.91%). Biggest losers are Orange (-2.88%), STMicroelectronics (-1.78%) and Stellantis NV (-1.71%)."
-    },
-    {
-      "id": "mkt:019ed47c-c7c3-7dd8-b046-723742f60d28",
-      "time": "2026-06-17 15:30:07",
-      "tags": [
-        "MKT News",
-        "Economic Calendar"
-      ],
-      "text": "Sweden | Riksbank's Benchmark Interest Rate (Jun.17) | actual 1.75% | consensus 1.75% | previous 1.75%"
     }
   ]
 }
