@@ -1,7 +1,226 @@
 {
-  "updated": "2026-06-25 01:58:50",
-  "count": 17230,
+  "updated": "2026-06-25 02:12:48",
+  "count": 17183,
   "items": [
+    {
+      "id": "4953315",
+      "time": "2026-06-25 02:11:29",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國參議員沃倫計劃敦促國會加大對人工智慧等新興技術領域的反壟斷執法力度，並修訂併購相關法律，要求公開更多交易資訊。"
+    },
+    {
+      "id": "4953314",
+      "time": "2026-06-25 02:08:23",
+      "tags": [
+        "國際"
+      ],
+      "text": "路透社調查顯示，美國能源資訊署（EIA）週四釋出的報告預計，上週美國天然氣庫存增加740億立方英尺。"
+    },
+    {
+      "id": "4953313",
+      "time": "2026-06-25 02:06:05",
+      "tags": [
+        "公司"
+      ],
+      "text": "巴西國家石油公司：布齊奧斯油田日產量達110萬桶。"
+    },
+    {
+      "id": "4953312",
+      "time": "2026-06-25 02:05:14",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國國家運輸安全委員會：將在30天內初步形成特斯拉撞車事故的初步調查報告。"
+    },
+    {
+      "id": "4953311",
+      "time": "2026-06-25 02:04:16",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金失守3960美元/盎司，日內跌3.66%。"
+    },
+    {
+      "id": "4953310",
+      "time": "2026-06-25 02:03:51",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲負責監管事務的副主席米歇爾·鮑曼完成了美聯儲銀行監管部門的大規模人事調整，此舉旨在將她認定的核心金融風險列為監管工作重中之重。"
+    },
+    {
+      "id": "4953309",
+      "time": "2026-06-25 02:03:31",
+      "tags": [
+        "市場"
+      ],
+      "text": "現貨白銀日內跌9%，現報55.81美元/盎司。"
+    },
+    {
+      "id": "4953308",
+      "time": "2026-06-25 02:03:30",
+      "tags": [
+        "市場"
+      ],
+      "text": "紐約期銀日內跌10%，現報56.25美元/盎司。"
+    },
+    {
+      "id": "4953307",
+      "time": "2026-06-25 02:03:29",
+      "tags": [
+        "市場"
+      ],
+      "text": "鈀金期貨日內跌7%，現報1156.55美元/盎司。"
+    },
+    {
+      "id": "4953306",
+      "time": "2026-06-25 02:03:27",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金失守3980美元/盎司，日內跌4.11%。"
+    },
+    {
+      "id": "4953305",
+      "time": "2026-06-25 02:02:56",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨白銀失守56美元/盎司，日內跌8.97%。"
+    },
+    {
+      "id": "4953304",
+      "time": "2026-06-25 02:02:35",
+      "tags": [
+        "其他",
+        "焦點"
+      ],
+      "text": "OpenAI：推出全新版本GPT-5.5 Instant，對話體驗趣味感大幅提升。這款平臺使用量最高的模型如今能更精準讀懂提問背後的真實意圖，並據此靈活調整回答內容。同時它處理複雜限定條件時穩定性更強，給出的購物、本地生活推薦也更實用、邏輯更連貫。今日起向付費使用者推送上線，明日開放給免費使用者使用。"
+    },
+    {
+      "id": "4953303",
+      "time": "2026-06-25 02:01:31",
+      "tags": [
+        "公司"
+      ],
+      "text": "索尼影視：將收購COSM少數股權，執行長拉維·阿胡賈將加入COSM董事會。"
+    },
+    {
+      "id": "4953302",
+      "time": "2026-06-25 02:01:08",
+      "tags": [
+        "其他"
+      ],
+      "text": "索尼影業向巨幕初創企業COSM投資1億美元。"
+    },
+    {
+      "id": "4953301",
+      "time": "2026-06-25 02:00:52",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國國家運輸安全委員會將在特斯拉事故調查中重點核查駕駛員操作狀態與自動駕駛系統技術狀況。"
+    },
+    {
+      "id": "mkt:019efad4-e10d-7dd8-b101-da4103d9dd01",
+      "time": "2026-06-25 02:00:50",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals"
+      ],
+      "text": "SHFE most-active silver contract tumbled 8.00% intraday to 13,700 yuan/kg."
+    },
+    {
+      "id": "4953300",
+      "time": "2026-06-25 02:00:29",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲理事庫克未就經濟前景與貨幣政策發表相關評論。"
+    },
+    {
+      "id": "mkt:019efaca-63b2-7dd8-b101-d4bdd520ce73",
+      "time": "2026-06-25 02:00:28",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Fed Governor Cook did not comment on monetary policy or the economic outlook in remarks at the opening of a small-business symposium."
+    },
+    {
+      "id": "4953299",
+      "time": "2026-06-25 02:00:26",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "白銀連續主力合約日內跌8%，現報13700.00元。"
+    },
+    {
+      "id": "4953298",
+      "time": "2026-06-25 02:00:26",
+      "tags": [
+        "市場"
+      ],
+      "text": "紐約期銀日內跌9%，現報56.84美元/盎司。"
+    },
+    {
+      "id": "4953297",
+      "time": "2026-06-25 02:00:05",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期銀失守57美元/盎司，日內跌8.82%。"
+    },
+    {
+      "id": "mkt:019efac9-c8d3-7dd8-b101-c97f0e9862d3",
+      "time": "2026-06-25 01:59:48",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals"
+      ],
+      "text": "Spot silver plunged 8.00% intraday to $56.58/oz."
+    },
+    {
+      "id": "4953296",
+      "time": "2026-06-25 01:59:37",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨白銀日內跌8%，現報56.59美元/盎司。"
+    },
+    {
+      "id": "4953295",
+      "time": "2026-06-25 01:59:11",
+      "tags": [
+        "其他"
+      ],
+      "text": "阿聯酋宣佈，巴布氣頂開發專案預計天然氣日產量約為15億標準立方英尺。"
+    },
+    {
+      "id": "mkt:019efac8-ae60-7dd8-b101-c44804a794f4",
+      "time": "2026-06-25 01:58:36",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "UAE state news agency said the project is expected to have production capacity of about 1.5 bln standard cubic feet per day of natural gas."
+    },
     {
       "id": "4953294",
       "time": "2026-06-25 01:58:15",
@@ -157072,824 +157291,6 @@
         "國際"
       ],
       "text": "倫敦金屬交易所（LME）表示：自 2026 年 7 月 25 日（含當日）起，僅當有證據證明相關金屬已於 2026 年 7 月 25 日前完全依照歐盟理事會第 2026/506 號法規進口至歐盟境內，俄羅斯產銅、鈷方可存入歐盟境內倫敦金屬交易所指定交割倉庫生成倉單。"
-    },
-    {
-      "id": "mkt:019ed6c8-a830-7dd8-b05e-404552f68ffe",
-      "time": "2026-06-18 02:12:14",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Macro & Rates",
-        "The Fed (FOMC)"
-      ],
-      "text": "Fed statement removed the practice of publishing individual FOMC voting records."
-    },
-    {
-      "id": "4941632",
-      "time": "2026-06-18 02:12:01",
-      "tags": [
-        "國際"
-      ],
-      "text": "倫敦金屬交易所（LME）表示：過去一年多以來，歐盟境內所有 LME 認證倉庫均未入庫任何俄羅斯產鈷與銅交割品。"
-    },
-    {
-      "id": "4941631",
-      "time": "2026-06-18 02:11:48",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "【“新美聯儲通訊社”：美聯儲明顯鷹派，政策宣告大改】“新美聯儲通訊社”Nick Timiraos認為：本次美聯儲點陣圖顯示出明顯的鷹派傾向。在18名官員中，有9人預計今年至少會加息一次，其中6人甚至預計將出現多次加息。相比之下，僅有1名官員預計今年會降息；此外，還有1名參與者（推測為美聯儲主席沃什）未提交經濟預測摘要（SEP）。與此同時，美聯儲政策宣告從頭到尾進行了全面修訂，文字長度明顯縮短。整體來看，本次會議的溝通框架發生顯著變化，市場對利率路徑的預期或將因此被重新調整。"
-    },
-    {
-      "id": "mkt:019ed6c7-900c-7dd8-b05e-3ce611206c83",
-      "time": "2026-06-18 02:11:03",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)"
-      ],
-      "text": "Michelle, head of global fixed income at JP Morgan, said she did not expect half of people to predict a rate hike."
-    },
-    {
-      "id": "4941630",
-      "time": "2026-06-18 02:10:57",
-      "tags": [
-        "市場"
-      ],
-      "text": "現貨黃金日內跌1%，現報4286.22美元/盎司。"
-    },
-    {
-      "id": "mkt:019ed6c7-597a-7dd8-b05e-367ec4d3e48c",
-      "time": "2026-06-18 02:10:49",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "DXY",
-        "Impact bullish",
-        "US10Y",
-        "Impact bearish",
-        "S&P500"
-      ],
-      "text": "【TIMIRAOS: Fed clearly more hawkish; policy statement overhauled】TIMIRAOS on the Fed decision: the dot plot shows a clear hawkish tilt — 9 of 18 officials expect at least one hike this year, six expect multiple hikes and only one expects cuts. One participant (likely Fed chair KEVIN WARSH) did not submit an SEP. The policy statement was rewritten end-to-end and notably shortened. Communication framework has shifted materially, which could prompt markets to reprice the interest-rate path."
-    },
-    {
-      "id": "4941629",
-      "time": "2026-06-18 02:10:11",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗外交部： 以色列持續佔領黎巴嫩南部地區的行為違反諒解備忘錄，我方將採取必要舉措。"
-    },
-    {
-      "id": "mkt:019ed6c6-8480-7dd8-b05e-2b86f71fc362",
-      "time": "2026-06-18 02:09:54",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "DXY",
-        "Impact bullish",
-        "US10Y",
-        "Impact bearish",
-        "S&P500"
-      ],
-      "text": "JP Morgan global head of fixed income Michelle said the FOMC's stance is leaning hawkish."
-    },
-    {
-      "id": "4941628",
-      "time": "2026-06-18 02:09:28",
-      "tags": [
-        "央行",
-        "焦點",
-        "國際"
-      ],
-      "text": "交易員在點陣圖調整後押注美聯儲更大幅度收緊政策。"
-    },
-    {
-      "id": "4941627",
-      "time": "2026-06-18 02:09:02",
-      "tags": [
-        "觀點",
-        "央行",
-        "焦點",
-        "國際"
-      ],
-      "text": "摩根大通全球固定收益主管：美聯儲正在讓市場做好加息準備， 美聯儲正關注其他央行加息動向。"
-    },
-    {
-      "id": "4941626",
-      "time": "2026-06-18 02:08:50",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "現貨黃金失守4290美元/盎司，日內跌0.97%。"
-    },
-    {
-      "id": "4941625",
-      "time": "2026-06-18 02:08:49",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "現貨白銀失守69美元/盎司，日內跌1.74%。"
-    },
-    {
-      "id": "4941624",
-      "time": "2026-06-18 02:08:37",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "紐約期金失守4310美元/盎司，日內跌1.04%。"
-    },
-    {
-      "id": "4941623",
-      "time": "2026-06-18 02:08:36",
-      "tags": [
-        "市場"
-      ],
-      "text": "紐約期金日內跌1%，現報4310.40美元/盎司。"
-    },
-    {
-      "id": "4941622",
-      "time": "2026-06-18 02:08:32",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "紐約期金失守4320美元/盎司，日內跌0.80%。"
-    },
-    {
-      "id": "4941621",
-      "time": "2026-06-18 02:07:20",
-      "tags": [
-        "公司",
-        "央行",
-        "國際"
-      ],
-      "text": "原美聯儲副主席、太平洋投資管理公司（PIMCO，品浩）全球經濟顧問克拉裡達：主席沃什沒有給出點陣圖看法不足為奇。"
-    },
-    {
-      "id": "mkt:019ed6c3-9346-7dd8-b05e-23fc746678aa",
-      "time": "2026-06-18 02:06:41",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)"
-      ],
-      "text": "Former Fed Vice Chair Richard Clarida said he was not surprised that Fed Chair Kevin Warsh did not submit a dot plot."
-    },
-    {
-      "id": "em:qqyh_mlc:202606183775037222",
-      "time": "2026-06-18 02:06:16",
-      "tags": [
-        "央行",
-        "美聯儲"
-      ],
-      "text": "【美聯儲將美國2026年GDP增長預期中值從2.4%下調至2.2%】美聯儲將美國2026年至2028年GDP增速預期中值調整為2.2%、2.3%、2.2%，3月預期分別為2.4%、2.3%、2.1%；將2026年至2028年底PCE通脹預期中值調整為3.6%、2.3%、2.0%，3月預期分別為2.7%、2.2%、2.0%。"
-    },
-    {
-      "id": "4941620",
-      "time": "2026-06-18 02:06:04",
-      "tags": [
-        "央行",
-        "焦點",
-        "國際"
-      ],
-      "text": "【美聯儲點陣圖：有9位官員預計2026年應採取加息行動】美聯儲點陣圖顯示，19名官員中，只有18人提交了點陣圖預測。在18位官員中，有1位官員認為2026年剩餘時間應累計加息75個基點，有5位官員認為應累計加息50個基點，有3位官員認為應累計加息25個基點，有8位官員認為應維持利率不變，有1位官員認為應累計降息25個基點。"
-    },
-    {
-      "id": "mkt:019ed6c2-c0f7-7dd8-b05e-1e6116dd6756",
-      "time": "2026-06-18 02:05:48",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "DXY",
-        "Impact bullish",
-        "US10Y",
-        "Impact bearish",
-        "S&P500"
-      ],
-      "text": "FOMC median unemployment projections: 4.3% for end-2026, 4.3% for end-2027 and 4.2% for end-2028; March medians were 4.4%, 4.3%, 4.2%."
-    },
-    {
-      "id": "4941619",
-      "time": "2026-06-18 02:05:47",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "現貨黃金失守4310美元/盎司，日內跌0.61%。"
-    },
-    {
-      "id": "4941618",
-      "time": "2026-06-18 02:05:46",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "納斯達克中國金龍指數跌超0.5%，海天網路跌18.25%，新氧跌9.83%，迅雷跌6.45%，億咖通科技跌4.92%，霧芯科技跌3.81%。"
-    },
-    {
-      "id": "4941617",
-      "time": "2026-06-18 02:05:46",
-      "tags": [
-        "市場"
-      ],
-      "text": "現貨白銀日內跌1%，現報69.19美元/盎司。"
-    },
-    {
-      "id": "mkt:019ed6c2-b2c5-7dd8-b05e-14b0a2bb1ad6",
-      "time": "2026-06-18 02:05:44",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "DXY",
-        "Impact bullish",
-        "US10Y",
-        "S&P500",
-        "Impact bearish"
-      ],
-      "text": "Fed FOMC projections: median core PCE inflation at 3.3% for end-2026, 2.5% for end-2027 and 2.1% for end-2028, versus March medians of 2.7%, 2.2% and 2.0%."
-    },
-    {
-      "id": "4941616",
-      "time": "2026-06-18 02:05:43",
-      "tags": [
-        "市場"
-      ],
-      "text": "鈀金期貨日內跌2%，現報1342.95美元/盎司。"
-    },
-    {
-      "id": "4941615",
-      "time": "2026-06-18 02:05:41",
-      "tags": [
-        "市場"
-      ],
-      "text": "紐約期銀日內跌1%，現報69.78美元/盎司。"
-    },
-    {
-      "id": "mkt:019ed6c2-a0b6-7dd8-b05e-0eefa61aca46",
-      "time": "2026-06-18 02:05:39",
-      "tags": [
-        "MKT News",
-        "EURUSD",
-        "Impact bearish",
-        "GBPUSD",
-        "USDJPY",
-        "Impact bullish"
-      ],
-      "text": "Non-dollar currencies were broadly weaker: EUR/USD slid nearly 50 pips intra-session, GBP/USD fell over 40 pips and USD/JPY jumped more than 20 pips."
-    },
-    {
-      "id": "4941614",
-      "time": "2026-06-18 02:05:38",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "紐約期金失守4330美元/盎司，日內跌0.58%。"
-    },
-    {
-      "id": "mkt:019ed6c2-9ac8-7dd8-b05e-010dedaa2054",
-      "time": "2026-06-18 02:05:38",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "DXY",
-        "Impact bullish",
-        "US10Y",
-        "Impact bearish",
-        "S&P500"
-      ],
-      "text": "【Fed dot plot: nine officials project rate hikes in 2026】The Fed dot plot covered 19 officials; 18 submitted projections. Among those 18, 1 projects a cumulative 75 bps increase in 2026, 5 project 50 bps, 3 project 25 bps, 8 project unchanged rates, and 1 projects a cumulative 25 bps cut."
-    },
-    {
-      "id": "te:markets:559795",
-      "time": "2026-06-18 02:05:22",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "stocks",
-        "Importance 1"
-      ],
-      "text": "Union Pacific Stock Price Hits 7-week Low — Union Pacific shares decreased to 258.52 USD, the lowest since April 2026. Over the past 4 weeks, Union Pacific lost 5.93%, and in the last 12 months, it increased 16.58%."
-    },
-    {
-      "id": "mkt:019ed6c2-3e10-7dd8-b05d-f895966cb37a",
-      "time": "2026-06-18 02:05:14",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "US10Y",
-        "Impact bearish",
-        "DXY",
-        "Impact bullish",
-        "EURUSD"
-      ],
-      "text": "FOMC median PCE inflation projections for end-2026, end-2027 and end-2028 are 3.6%, 2.3% and 2.0%, versus March medians of 2.7%, 2.2% and 2.0%."
-    },
-    {
-      "id": "4941613",
-      "time": "2026-06-18 02:05:06",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲FOMC經濟預期： 2026 年至 2028 年GDP增速預期中值分別為 2.2%、2.3%、2.2%。（3月預期分別為2.4%、2.3%、2.1%）\n 2026、2027、2028年底和長期聯邦基金利率預期中值分別為3.8%、3.6%、3.4%、3.1%。（3月預期分別為3.4%、3.1%、3.1%、3.1%）\n2026年至2028年底PCE通脹預期中值分別為3.6%、2.3%、2.0%。（3月預期分別為2.7%、2.2%、2.0%）"
-    },
-    {
-      "id": "mkt:019ed6c2-1768-7dd8-b05d-f3c3d82b14fe",
-      "time": "2026-06-18 02:05:04",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "S&P500",
-        "Impact bullish",
-        "DXY",
-        "Impact bearish",
-        "XAUUSD"
-      ],
-      "text": "Federal Reserve FOMC statement reiterated it will maintain ample reserves in the banking system and directed the Open Market Trading Desk to increase securities holdings as appropriate."
-    },
-    {
-      "id": "mkt:019ed6c1-edc8-7dd8-b05d-eadf6301ef0e",
-      "time": "2026-06-18 02:04:53",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "DXY",
-        "Impact bullish",
-        "US10Y",
-        "Impact bearish",
-        "S&P500"
-      ],
-      "text": "Markets now fully price a 25bp Fed rate hike before year-end."
-    },
-    {
-      "id": "mkt:019ed6c1-d494-7dd8-b05d-e2308afa9f5c",
-      "time": "2026-06-18 02:04:47",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "DXY",
-        "Impact bullish",
-        "US10Y",
-        "EURUSD",
-        "Impact bearish"
-      ],
-      "text": "FOMC median federal funds rate projections for end-2026, end-2027, end-2028 and the longer run are 3.8%, 3.6%, 3.4% and 3.1%, respectively; March projections were 3.4%, 3.1%, 3.1% and 3.1%."
-    },
-    {
-      "id": "mkt:019ed6c1-91a8-7dd8-b05d-dcb0d900099a",
-      "time": "2026-06-18 02:04:30",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Macro & Rates",
-        "The Fed (FOMC)"
-      ],
-      "text": "Fed FOMC median GDP growth projections for 2026–28 are 2.2%, 2.3% and 2.2% respectively (March projections: 2.4%, 2.3%, 2.1%)."
-    },
-    {
-      "id": "mkt:019ed6c1-74cd-7dd8-b05d-d4fdf59b0dd2",
-      "time": "2026-06-18 02:04:22",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "S&P500",
-        "Impact bearish",
-        "DXY",
-        "US10Y",
-        "Impact bullish"
-      ],
-      "text": "Federal Reserve FOMC projections: median 2026 GDP growth forecast lowered to 2.2% from 2.4%."
-    },
-    {
-      "id": "mkt:019ed6c1-5590-7dd8-b05d-c82bb2c4aa54",
-      "time": "2026-06-18 02:04:14",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "S&P500",
-        "Impact bearish",
-        "Dow",
-        "Nasdaq100"
-      ],
-      "text": "Following the Fed rate decision, US equity indices slipped in a brief selloff: Dow -0.1%, S&P 500 -0.44%, Nasdaq -0.47%."
-    },
-    {
-      "id": "mkt:019ed6c1-4e77-7dd8-b05d-c73c48b79edf",
-      "time": "2026-06-18 02:04:12",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "DXY",
-        "Impact bullish",
-        "US10Y",
-        "S&P500",
-        "Impact bearish"
-      ],
-      "text": "Markets priced in further Fed tightening after the dot plot release."
-    },
-    {
-      "id": "mkt:019ed6c1-4df4-7dd8-b05d-bedb58c1b430",
-      "time": "2026-06-18 02:04:11",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "DXY",
-        "Impact bullish",
-        "US10Y",
-        "S&P500",
-        "Impact bearish"
-      ],
-      "text": "FOMC statement said productivity growth and capital investment have been strong."
-    },
-    {
-      "id": "mkt:019ed6c1-4bc6-7dd8-b05d-b70e7baf90d9",
-      "time": "2026-06-18 02:04:11",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "DXY",
-        "Impact bullish",
-        "S&P500",
-        "Impact mixed",
-        "US10Y"
-      ],
-      "text": "FOMC statement: Despite elevated uncertainty from the Middle East conflict, economic activity continues to expand at a solid pace."
-    },
-    {
-      "id": "mkt:019ed6c1-4a71-7dd8-b05d-ad2c0c866eb6",
-      "time": "2026-06-18 02:04:11",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "DXY",
-        "Impact bullish",
-        "USDJPY",
-        "EURUSD",
-        "Impact bearish"
-      ],
-      "text": "Federal Reserve officials project the median federal funds rate at 3.8% at end-2026, up from a 3.4% projection in March."
-    },
-    {
-      "id": "mkt:019ed6c1-4660-7dd8-b05d-8ea73ea5c152",
-      "time": "2026-06-18 02:04:09",
-      "tags": [
-        "MKT News",
-        "Macro & Rates"
-      ],
-      "text": "FOMC statement: keeps overnight reverse repurchase rate unchanged at 3.50%."
-    },
-    {
-      "id": "mkt:019ed6c1-492b-7dd8-b05d-a301d5df1d85",
-      "time": "2026-06-18 02:04:07",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Brent"
-      ],
-      "text": "After the Fed's rate decision, WTI and Brent crude saw limited short-term volatility, trading at $76.40/bbl and $79.20/bbl respectively."
-    },
-    {
-      "id": "mkt:019ed6c1-48c0-7dd8-b05d-9ee531b8b4d5",
-      "time": "2026-06-18 02:04:05",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)"
-      ],
-      "text": "Federal Reserve FOMC statement: employment growth has kept pace with labor force growth."
-    },
-    {
-      "id": "mkt:019ed6c1-46ca-7dd8-b05d-95684a4e91b5",
-      "time": "2026-06-18 02:04:05",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Precious Metals",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "XAUUSD",
-        "Impact bearish",
-        "DXY",
-        "Impact bullish"
-      ],
-      "text": "After the Federal Reserve's rate decision, spot gold plunged more than $40 intraday and the dollar index (DXY) rallied about 35 points."
-    },
-    {
-      "id": "mkt:019ed6c1-30d8-7dd8-b05d-79b1b2de55bd",
-      "time": "2026-06-18 02:04:05",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "DXY",
-        "S&P500",
-        "XAUUSD"
-      ],
-      "text": "Federal Reserve FOMC statement: members unanimously agreed on the Committee's rate decision."
-    },
-    {
-      "id": "mkt:019ed6c1-388b-7dd8-b05d-8515393fa2d1",
-      "time": "2026-06-18 02:04:02",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Macro & Rates",
-        "The Fed (FOMC)"
-      ],
-      "text": "Fed dot plot shows 18 of 19 officials submitted projections; one official did not submit."
-    },
-    {
-      "id": "mkt:019ed6c1-119f-7dd8-b05d-7780d0ecb7dc",
-      "time": "2026-06-18 02:03:51",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "DXY",
-        "Impact bullish",
-        "US10Y",
-        "Impact bearish",
-        "EURUSD"
-      ],
-      "text": "FOMC statement: nine of 18 participants expect a rate hike in 2026."
-    },
-    {
-      "id": "mkt:019ed6c1-094c-7dd8-b05d-699830a5b4bd",
-      "time": "2026-06-18 02:03:51",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Macro & Rates",
-        "The Fed (FOMC)"
-      ],
-      "text": "FOMC statement: 17 of 19 Fed officials submitted interest-rate projections for 2028."
-    },
-    {
-      "id": "mkt:019ed6c0-bfe8-7dd8-b05d-614d88f78f3b",
-      "time": "2026-06-18 02:03:30",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Macro & Rates",
-        "The Fed (FOMC)"
-      ],
-      "text": "FOMC statement: the Committee will achieve price stability."
-    },
-    {
-      "id": "4941612",
-      "time": "2026-06-18 02:03:16",
-      "tags": [
-        "央行",
-        "焦點",
-        "國際"
-      ],
-      "text": "美聯儲表示，委員會將實現價格穩定。"
-    },
-    {
-      "id": "4941611",
-      "time": "2026-06-18 02:03:01",
-      "tags": [
-        "市場",
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲宣告發布後，美國 10 年期美債收益率走高，收益率上漲 4.5 個基點，報 4.47%。 美國 2 年期美債收益率上行，收益率上漲 8 個基點，報 4.13%。"
-    },
-    {
-      "id": "4941610",
-      "time": "2026-06-18 02:02:08",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲經濟預期概要（SEP）：預計2026年美國失業率4.3%，3月份預計4.4%。"
-    },
-    {
-      "id": "te:economy:559793",
-      "time": "2026-06-18 02:01:57",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "United States",
-        "Interest Rate",
-        "Importance 3"
-      ],
-      "text": "Fed Leaves Rates Steady — The Federal Reserve kept the federal funds rate unchanged at 3.50%-3.75% for a fourth consecutive meeting on June 17th 2026, in line with market expectations."
-    },
-    {
-      "id": "4941609",
-      "time": "2026-06-18 02:01:51",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲FOMC宣告：委員們一致同意此次的利率決定。19名美聯儲官員中有17人提交了2028年的利率預測。"
-    },
-    {
-      "id": "em:qqyh_mlc:202606183775036553",
-      "time": "2026-06-18 02:01:44",
-      "tags": [
-        "央行",
-        "美聯儲"
-      ],
-      "text": "美聯儲FOMC宣告顯示，18位FOMC參與者中有9位預計2026年加息。"
-    },
-    {
-      "id": "4941608",
-      "time": "2026-06-18 02:01:32",
-      "tags": [
-        "央行",
-        "焦點",
-        "國際"
-      ],
-      "text": "美聯儲在宣告中刪除關於進一步調整利率的表述。將隔夜逆回購利率維持在3.5%不變。18位FOMC參與者中有9位預計2026年加息。19名官員中，只有18人提交了點陣圖預測。"
-    },
-    {
-      "id": "mkt:019ed6bf-2390-7dd8-b05d-598fee6aff38",
-      "time": "2026-06-18 02:01:21",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "DXY",
-        "US10Y",
-        "EURUSD"
-      ],
-      "text": "Fed's FOMC holds the interest rate on reserve balances at 3.65%."
-    },
-    {
-      "id": "4941607",
-      "time": "2026-06-18 02:01:09",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲：生產率增長與資本投資表現強勁。"
-    },
-    {
-      "id": "4941606",
-      "time": "2026-06-18 02:00:44",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲：委員會重申維持銀行體系充足準備金的政策，並指示公開市場操作部門在適當時機增持證券資產。"
-    },
-    {
-      "id": "4941605",
-      "time": "2026-06-18 02:00:40",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲官員預計，2028 年末聯邦基金利率中值為 3.4%。"
-    },
-    {
-      "id": "mkt:019ed6bd-f721-7dd8-b05d-52be776dd9c0",
-      "time": "2026-06-18 02:00:34",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "DXY",
-        "Impact bearish",
-        "S&P500",
-        "Impact bullish",
-        "US10Y"
-      ],
-      "text": "The Federal Reserve removed wording in its statement referring to further rate adjustments."
-    },
-    {
-      "id": "mkt:019ed6bd-a89e-7dd8-b05d-494b81c7cac3",
-      "time": "2026-06-18 02:00:14",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "DXY",
-        "S&P500",
-        "US10Y"
-      ],
-      "text": "【Fed holds policy rate at 3.50%-3.75% as expected】The Fed left the target range for the federal funds rate at 3.50%-3.75% for a fourth consecutive meeting, in line with market expectations."
-    },
-    {
-      "id": "4941604",
-      "time": "2026-06-18 02:00:09",
-      "tags": [
-        "央行",
-        "焦點",
-        "國際"
-      ],
-      "text": "美聯儲決定維持基準利率在3.50%-3.75%區間不變。"
-    },
-    {
-      "id": "mkt:019ed6bd-9774-7dd8-b05d-43ae3cfc3fd7",
-      "time": "2026-06-18 02:00:09",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "S&P500",
-        "Impact bullish",
-        "DXY",
-        "US10Y"
-      ],
-      "text": "US Federal Reserve held the upper bound of the Fed funds target at 3.75% on June 17; in line with expectations and the prior rate of 3.75%."
-    },
-    {
-      "id": "mkt:019ed6bd-93a3-7dd8-b05d-3a218b5b5b47",
-      "time": "2026-06-18 02:00:08",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)"
-      ],
-      "text": "US federal funds target rate (lower bound) 3.50% as of June 17; expected 3.50%, prior 3.50%."
-    },
-    {
-      "id": "mkt:019ed6bd-924d-7dd8-b05d-31cbf049784f",
-      "time": "2026-06-18 02:00:08",
-      "tags": [
-        "MKT News",
-        "Macro & Rates"
-      ],
-      "text": "US rate on reserve balances 3.65% as of June 18; expected 3.65%; prior 3.65%."
-    },
-    {
-      "id": "mkt:019ed6bd-76ab-7dd8-b05d-2141a9e10b11",
-      "time": "2026-06-18 02:00:01",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "United States | FED‘s Federal Fund Rate (Upper Bound) (Jun.17) | actual 3.75% | consensus 3.75% | previous 3.75%"
-    },
-    {
-      "id": "mkt:019ed6bd-774d-7dd8-b05d-292ca8c618df",
-      "time": "2026-06-18 02:00:01",
-      "tags": [
-        "MKT News",
-        "Economic Calendar"
-      ],
-      "text": "United States | Interest on Reserve Balances (Jun.18) | actual 3.65% | consensus 3.65% | previous 3.65%"
-    },
-    {
-      "id": "mkt:019ed6bd-7683-7dd8-b05d-1ec81be61550",
-      "time": "2026-06-18 02:00:01",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "United States | FED's Federal Fund Rate (Lower Bound) (Jun.17) | actual 3.5% | consensus 3.50% | previous 3.50%"
-    },
-    {
-      "id": "mkt:019ed6bc-69fc-7dd8-b05d-13077f072cfc",
-      "time": "2026-06-18 01:58:52",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)"
-      ],
-      "text": "JP Morgan's head of global fixed income Michelle said Fed Chair Kevin Warsh should be asked whether DISINFLATION is temporary."
     }
   ]
 }
