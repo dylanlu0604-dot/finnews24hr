@@ -1,7 +1,436 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-06-25 04:18:15_
-_本檔包含 3306 則快訊，約 625571 字_
+_更新時間：2026-06-25 05:10:53_
+_本檔包含 3320 則快訊，約 625635 字_
+
+---
+
+### 2026-06-23 04:11:14  #國際
+
+特朗普：我能快速解決各類爭端，包括與內塔尼亞胡之間的分歧。
+
+---
+
+### 2026-06-23 04:10:55  #市場
+
+IBM股價盤後上漲2.4%。
+
+---
+
+### 2026-06-23 04:10:46  #國際
+
+特朗普談及以色列、黎巴嫩局勢：我們會對此進行評估。
+
+---
+
+### 2026-06-23 04:10:03  #公司 #市場
+
+達美樂披薩任命新CEO後股價下跌約2%。
+
+---
+
+### 2026-06-23 04:09:57  #國際
+
+美國鋼鐵協會（AISI）資料：截至 6 月 20 日當週，美國鋼鐵產能利用率為 80.2%。
+
+---
+
+### 2026-06-23 04:08:54  #MKT News #Macro & Rates #US Economy #Commodities #Energy #WTI #Impact bearish
+
+US President Trump said the economy is the opposite of a depression and oil prices have fallen sharply.
+
+---
+
+### 2026-06-23 04:08:39  #宏觀 #國際
+
+特朗普：（被問及財政部已解除針對伊朗石油的制裁）我得先核實具體情況，但如果制裁確實取消，資金會迴流伊朗，所有被凍結的資金都將釋放。
+
+---
+
+### 2026-06-23 04:08:17  #MKT News #Important
+
+US President Trump said he would take necessary measures if Iran failed to comply with the agreement.
+
+---
+
+### 2026-06-23 04:08:01  #國際
+
+特朗普：若伊朗不遵守協議，我將採取必要行動。
+
+---
+
+### 2026-06-23 04:07:32  #市場 #國際
+
+特朗普談及經濟：我們當下的局面與經濟大蕭條截然相反。 油價大幅下跌。
+
+---
+
+### 2026-06-23 04:06:37  #國際
+
+特朗普：伊朗理應動用這筆資金為本國民眾採購糧食。
+
+---
+
+### 2026-06-23 04:05:55  #MKT News #Important
+
+CME Group said some of its direct clients are experiencing disconnects; its support team is investigating.
+
+---
+
+### 2026-06-23 04:05:33  #MKT News #Dow #Impact bullish #S&P500 #Impact bearish
+
+Dow Jones closed up 147.83 points, or 0.29%, at 51,712.53 on Monday, June 22. S&P 500 closed down 27.60 points, or 0.37%, at 7,472.98. Nasdaq Composite closed down 351.33 points, or 1.32%, at 26,166.60.
+
+---
+
+### 2026-06-23 04:05:14  #其他
+
+芝加哥商品交易所（CME）：已留意到部分 CME 直連客戶遭遇連線中斷問題，技術支援團隊正在排查故障。
+
+---
+
+### 2026-06-23 04:04:14  #MKT News
+
+Iran's chief negotiator said the United States and Iran will both guarantee Lebanon's territorial integrity.
+
+---
+
+### 2026-06-23 04:04:07  #公司
+
+谷歌母公司Alphabet收跌5%，此前該公司AI負責人Jumper離職。
+
+---
+
+### 2026-06-23 04:03:27  #焦點 #國際
+
+伊朗首席談判代表表示，基於在瑞士舉行的會談，美國和伊朗都將保證黎巴嫩的領土完整。
+
+---
+
+### 2026-06-23 04:03:22  #國際
+
+【英媒：伊美磋商期間逾400艘船在霍爾木茲海峽等待】據英國《金融時報》網站22日報道，超過400艘船舶停在霍爾木茲海峽東側外圍海域，等待伊朗和美國談判後這一能源運輸要道全面開放。由於停火安排和相關安全機制尚未完全落實，全球航運業對霍爾木茲海峽全面恢復通航前景依然保持謹慎。歐洲航天局衛星資料顯示，21日下午約441艘大型油輪規格的船舶聚集在阿曼蘇哈爾港和阿聯酋富查伊拉港附近海域，等待霍爾木茲海峽恢復開放。報道說，這一數字明顯高於正常水平，但較5天前減少42艘。伊朗和美國此前宣佈達成諒解備忘錄後，一些航運企業一度趁局勢緩和恢復通航。但在以色列對黎巴嫩發動襲擊後，伊朗再次宣佈關閉霍爾木茲海峽。（新華社）
+
+---
+
+### 2026-06-23 04:03:09  #MKT News #Important
+
+Trading was interrupted on CME Group after its platform experienced a connectivity outage.
+
+---
+
+### 2026-06-23 04:02:16  #國際
+
+【美官員稱美方已針對黎巴嫩局勢建立“監測機制”】當地時間6月22日，一名美國官員表示，鑑於以色列和黎巴嫩真主黨屢次違反停火協議，威脅到美伊談判的程序，美國已針對黎巴嫩局勢建立了一套“監測機制”。該官員透露，美國務卿魯比奧19日分別與以色列總理內塔尼亞胡及黎巴嫩總統奧恩通話，討論了“鞏固停火及未來談判”的事宜。在這些通話之後，美國透過中央司令部啟動了一項監測機制，以便決策者能夠實時、準確地掌握黎巴嫩境內的交戰情況。（央視新聞）
+
+---
+
+### 2026-06-23 04:01:54  #國際
+
+美國能源部長賴特： 儘管伊朗方面予以抵制，我們仍維持危機前的原油運輸規模，保障石油經霍爾木茲海峽外運。
+
+---
+
+### 2026-06-23 04:01:24  #MKT News #Commodities #Energy #WTI #Impact bearish #Brent
+
+U.S. Energy Secretary wright said the U.S. continues to ship oil through the Strait of Hormuz at pre-crisis levels despite Iranian interference.
+
+---
+
+### 2026-06-23 04:01:16  #公司 #市場 #焦點 #國際
+
+SPACEX股價下跌16%，市值蒸發4000億美元。
+
+---
+
+### 2026-06-23 04:01:11  #MKT News #Important #Market Regions #Wall Street (US) #Star Stocks #NVIDIA #Market Themes #Magnificent 7 #SPCX.O #Impact bearish #MU.O #Impact bullish #TME.N
+
+【US stocks close mixed; SpaceX plunges 16%】US equities closed mixed Monday: Dow Jones Industrial Average up 0.29%, S&P 500 down 0.37%, Nasdaq Composite down 1.3%. SpaceX (SPCX.O) plunged 16.4%; Intel (INTC.O) rose 5%; Micron Technology (MU.O) gained about 7%; NVIDIA (NVDA.O) fell 1%. Nasdaq Golden Dragon China Index fell 1.3%; Tencent Music (TME.N) dropped 4%.
+
+---
+
+### 2026-06-23 04:00:48  #市場 #焦點
+
+【美股收盤：三大股指集體漲跌不一】道指漲0.29%，標普500指數跌0.37%，納指跌1.30%。Arm Holdings跌7.23%，Moderna跌7.22%，Palantir Technologies跌6.97%，超微電腦漲15.75%，Coherent Corp漲9.23%，ON SEMICONDUCTOR漲8.16%。“七姐妹”方面：特斯拉漲1.11%，蘋果跌0.38%，英偉達跌1.01%，Meta Platforms跌2.34%，微軟跌3.18%，亞馬遜跌4.67%，谷歌跌5.12%。
+
+---
+
+### 2026-06-23 04:00:47  #國際
+
+特朗普：大量石油正從霍爾木茲海峽運出。
+
+---
+
+### 2026-06-23 04:00:16  #焦點 #國際
+
+伊朗首席談判代表：我們已同意就霍爾木茲海峽的船舶通航建立溝通線路，以避免衝突。
+
+---
+
+### 2026-06-23 04:00:13  #MKT News #Important #WTI #Impact bearish #Brent
+
+Iran's chief negotiator said the US and Iran have agreed to establish a communication channel on vessel transit through the Strait of Hormuz to avoid conflict.
+
+---
+
+### 2026-06-23 04:00:02  #市場 #焦點
+
+【納斯達克中國金龍指數收跌1.26%】1藥網跌11.34%，萬物新生跌7.14%，網易有道跌7.63%，中比能源跌5.60%，小牛電動跌5.32%。
+
+---
+
+### 2026-06-23 03:58:02  #MKT News
+
+Trump says unfrozen Iranian assets will be used to purchase agricultural products from U.S. farmers.
+
+---
+
+### 2026-06-23 03:57:19  #MKT News #WTI #Impact bullish #XAUUSD #DXY
+
+President Trump said the war with Iran is, in some respects, going very well.
+
+---
+
+### 2026-06-23 03:55:58  #國際
+
+特朗普：伊朗被凍結資金將用於採購美國農產品。
+
+---
+
+### 2026-06-23 03:55:31  #國際
+
+特朗普： 從某種層面來看，和伊朗的這場博弈進展十分順利。 伊朗永遠不會擁有核武器。
+
+---
+
+### 2026-06-23 03:54:38  #MKT News
+
+US President Trump said Iran will never possess nuclear weapons.
+
+---
+
+### 2026-06-23 03:54:36  #MKT News #Commodities #Energy #WTI #Impact bearish #Brent
+
+Trump said the situation in the Strait of Hormuz is good; oil volumes transiting the strait hit a record high yesterday and the waterway remains open.
+
+---
+
+### 2026-06-23 03:54:10  #國際
+
+特朗普談伊朗問題：我們正在談判，看看結果如何。
+
+---
+
+### 2026-06-23 03:54:07  #MKT News #WTI #Impact bearish #Brent
+
+Trump on Iran: Strait of Hormuz fully open; situation in the Strait of Hormuz is progressing well.
+
+---
+
+### 2026-06-23 03:53:55  #國際
+
+特朗普談及伊朗：霍爾木茲海峽完全暢通 。
+
+---
+
+### 2026-06-23 03:53:37  #國際
+
+特朗普談及伊朗問題：霍爾木茲海峽局勢目前進展非常順利。
+
+---
+
+### 2026-06-23 03:53:30  #MKT News #Important #WTI #Impact bearish #S&P500 #Impact bullish #DXY
+
+Iran's chief negotiator told Iranian state TV that talks in Switzerland have finalized an agreement to unfreeze $12 bln of Iranian assets.
+
+---
+
+### 2026-06-23 03:53:24  #MKT News
+
+【U.S. sets up monitoring mechanism to track Lebanon ceasefire, official says】A U.S. official told CNN on Monday that Washington has established a monitoring mechanism for the fragile Lebanon ceasefire after repeated violations by Israel and Hezbollah that risked US‑Iran talks. The official said Secretary of State Rubio phoned Israeli Prime Minister Netanyahu and Lebanese President Aoun last Friday to discuss consolidating the ceasefire and future negotiations. Following those calls, U.S. Central Command launched the monitoring mechanism to give policymakers real‑time, accurate visibility of fighting inside Lebanon. It was unclear whether this is the same as the “conflict‑avoidance mechanism” Vice President Vance said had been set up on Sunday afternoon Swiss time.
+
+---
+
+### 2026-06-23 03:53:07  #焦點 #國際
+
+伊朗首席談判代表向國家電視臺表示，瑞士會談中已敲定解凍 120 億美元伊朗資產的相關簽署事宜。
+
+---
+
+### 2026-06-23 03:52:47  #MKT News #Market Themes #The Trump Trade #IBM.N
+
+US President Trump praised IBM CEO (IBM.N).
+
+---
+
+### 2026-06-23 03:51:36  #國際
+
+特朗普在白宮發表講話。
+
+---
+
+### 2026-06-23 03:51:26  #MKT News #Star Stocks #Tesla #Market Themes #Magnificent 7 #TSLA.O #Impact bearish
+
+【NHTSA opens probe into fatal Tesla (TSLA.O) Model 3 crash near Houston】NHTSA said on Monday it will investigate a fatal crash involving a Tesla (TSLA.O) Model 3 that drove into a residence near Houston, Texas, late Friday. Harris County sheriff’s office said the driver told police he was using an automatic driving‑assist system; the vehicle left the road at high speed and struck a brick home, fatally injuring a woman inside.
+
+---
+
+### 2026-06-23 03:51:15  #公司 #市場 #國際
+
+特朗普稱讚IBM執行長，IBM股價上漲。
+
+---
+
+### 2026-06-23 03:50:32  #MKT News #Market Themes #The Trump Trade
+
+U.S. President Trump is signing an executive order.
+
+---
+
+### 2026-06-23 03:41:42  #MKT News #Macro & Rates #USDJPY #Impact bullish #EURUSD #GBPUSD #Impact bearish
+
+CFTC weekly positions for the week ended June 16: JPY net short 150,132 contracts; EUR net long 34,353 contracts; GBP net short 71,585 contracts; CHF net short 40,058 contracts.
+
+---
+
+### 2026-06-23 03:40:31  #國際
+
+【歐盟停止出售成員國碳配額，以推動能源轉型】歐盟已停止出售一批提前分配的碳排放配額。此前，歐盟計劃利用其碳排放交易體系（ETS）籌集資金，以幫助實現擺脫俄羅斯天然氣的能源轉型。歐盟委員會在官網的一份宣告中表示，歐盟已於週一達成目標，透過拍賣原本將由各國政府在2027年至2030年間出售的配額，成功籌集了80億歐元。隨著該目標的達成，歐盟碳排放交易體系中成員國常規配額拍賣的日程表已作出相應調整。
+
+---
+
+### 2026-06-23 03:39:33  #MKT News #Macro & Rates #Treasury Yields #US10Y #Impact bearish
+
+CFTC: for the week to June 16, speculators raised net short positions in CBOT US 2-year Treasury futures by 50,669 contracts to 1,270,507 contracts and increased net short in CBOT US 10-year Treasury futures by 47,275 contracts to 911,082 contracts.
+
+---
+
+### 2026-06-23 03:38:36  #MKT News #Commodities #Energy
+
+CFTC: For the week ended June 16, speculative positions in NYMEX and ICE natural-gas futures flipped to a net long of 1,332 contracts, an increase of 30,288 contracts from the prior week.
+
+---
+
+### 2026-06-23 03:37:51  #MKT News #Market Regions #Wall Street (US) #S&P500 #Impact mixed
+
+U.S. Commodity Futures Trading Commission (CFTC): For the week to June 16, equity fund managers raised net long positions in CME S&P 500 futures by 3,319 contracts to 983,431 contracts. Equity fund speculators increased net short positions in CME S&P 500 futures by 64,644 contracts to 501,690 contracts.
+
+---
+
+### 2026-06-23 03:36:18  #MKT News #Commodities #Energy #WTI
+
+CFTC data: For the week to June 16, speculators cut WTI crude net-long positions by 2,441 contracts to 100,978.
+
+---
+
+### 2026-06-23 03:35:52  #MKT News #Commodities #Precious Metals #Industrial Metals #XAUUSD #Impact bullish #Copper #Impact bearish
+
+CFTC: week to June 16, COMEX gold speculators increased net longs by 9,258 contracts to 112,918; silver net longs rose 2,275 contracts to 12,070; copper net longs fell 52 contracts to 71,076.
+
+---
+
+### 2026-06-23 03:33:37  #市場 #國際
+
+美國商品期貨交易委員會（CFTC）：6月16日當週，投機者所持NYMEX鉑金淨多頭頭寸降低至8,072手合約，創逾14周新低。
+所持NYMEX鈀金淨空頭頭寸降低至4,268手合約。
+
+---
+
+### 2026-06-23 03:32:51  #MKT News
+
+US Coast Guard says it is actively responding to a crash in Sitka, Alaska today involving a Coast Guard MH-60 "Jayhawk" helicopter.
+
+---
+
+### 2026-06-23 03:31:39  #MKT News
+
+A U.S. official told NewsNation that Secretary of State Rubio spoke last Friday with Israeli Prime Minister Netanyahu and Lebanese President Aoun about consolidating a ceasefire and future negotiations. After the calls, U.S. Central Command activated a monitoring mechanism to provide policymakers with real-time battlefield information from Lebanon.
+
+---
+
+### 2026-06-23 03:31:33  #兩會
+
+【恩蘇埃宣誓就任赤道幾內亞總理】當地時間22日，曼努埃爾·奧薩·恩蘇埃·恩蘇阿宣誓就任赤道幾內亞總理。赤道幾內亞副總統曼格16日晚在社交媒體上發文說，恩蘇埃當天向總統提交了所有內閣成員的集體辭呈。經評估確認，上一屆政府既定目標的完成率與預期嚴重不符。赤道幾內亞總統奧比昂19日簽署法令，重新任命曼努埃爾·奧薩·恩蘇埃·恩蘇阿為政府總理，負責行政協調。（央視新聞）
+
+---
+
+### 2026-06-23 03:30:53  #其他
+
+【伊拉克總理將於7月訪問土耳其 討論石油出口問題】據伊拉克總理辦公室發表的一份宣告，伊拉克總理阿里·扎伊迪收到土耳其總統埃爾多安的邀請，將於7月訪問土耳其。阿里·扎伊迪在與埃爾多安通話時討論了雙方共同關心的議題，包括經由Kirkuk-Ceyhan管道進行的石油出口。阿里·扎伊迪還邀請土耳其企業投資伊拉克。雙方還討論了水資源問題。
+
+---
+
+### 2026-06-23 03:30:24  #宏觀 #市場 #觀點
+
+【摩根大通看好英鎊 因政治不確定性消退】英國首相基爾·斯塔默宣佈辭職後，英國政治不確定性開始減弱，摩根大通恢復對英鎊的看漲觀點。摩根大通長期以來一直認為，英鎊兌其他低息貨幣的套利交易具有良好價值，儘管市場共識大體上一直是中性或看空。斯塔默表示將辭去英國首相職務後，英鎊上漲0.1%，至1.3245，抹去早前一度達0.4%的跌幅。市場還對前衛生大臣韋斯·斯特里廷決定支援安迪·伯納姆出任下一任首相，而不是自己角逐黨魁作出積極反應，這進一步緩解了近期政治不確定性。全球外匯策略師James Nelligan週一在報告中表示，辭職“使政治局勢多了些許清晰度”，使工黨能夠團結在”伯納姆周圍，由他領導該黨。伯納姆“已淡化其在財政政策上的表態，這意味著套利、英國韌性、估值和倉位更能夠支撐英鎊，”他還表示。
+
+---
+
+### 2026-06-23 03:29:15  #市場 #國際
+
+美國商品期貨交易委員會（CFTC）資料：截至 6 月 16 日當週，WTI 原油投機客淨多頭頭寸削減 2441 手，降至 100978 手。
+
+---
+
+### 2026-06-23 03:28:33  #市場 #國際
+
+美國商品期貨交易委員會（CFTC）資料：截至 6 月 16 日當週，紐約商品交易所（COMEX）銅投機客淨多頭頭寸削減 52 手，降至 71076 手。
+黃金投機者淨多頭頭寸增加 9258 手，至 112918 手。 
+ 白銀投機客淨多頭頭寸增加 2275 手，升至 12070 手。
+
+---
+
+### 2026-06-23 03:27:21  #市場 #國際
+
+【長週末歸來，美債收益率普遍漲超5個基點】週一（6月22日）紐約尾盤，美國10年期基準國債收益率漲5.35個基點，報4.5068%，日內交投於4.4731%-4.5128%區間。兩年期美債收益率漲5.76個基點，報4.2342%，全天處於上漲狀態、窄幅震盪於4.22%附近。20年期美債收益率漲5.19個基點，30年期美債收益率漲4.67個基點。三年期美債收益率漲5.93個基點，五年期美債收益率漲5.51個基點，七年期美債收益率漲5.29個基點。
+
+---
+
+### 2026-06-23 03:24:11  #MKT News #WTI #Impact bearish #Brent #XAUUSD
+
+【Vance says Switzerland talks 'very productive', warns you can't trust words alone】U.S. Vice President Vance described talks in Switzerland as "very productive" and said mechanisms were established to help keep the Strait of Hormuz open now and in the future. He said Iran has for the first time in a long time allowed weapons and nuclear inspectors into the country, but cautioned that only actions matter — inspectors' actual access and permitted activities will determine progress and remain part of ongoing negotiations.
+
+---
+
+### 2026-06-23 03:23:42  #MKT News
+
+US President Trump said he looks forward to working with Colombia's new president.
+
+---
+
+### 2026-06-23 03:23:04  #國際
+
+特朗普：我期待攜手合作，共建哥倫比亞與美利堅合眾國之間牢固的雙邊關係。
+
+---
+
+### 2026-06-23 03:20:51  #市場
+
+【日元在美股盤初創將近兩年新低，隨後出現兩波反彈行情】週一（6月22日）紐約尾盤，美元兌日元漲0.14%，報161.53日元，亞太盤初微幅下跌、跌穿161.20日元，隨後持續上揚，北京時間22:03達到161.93日元——逼近2024年7月3日頂部161.95日元、1986年年底頂部164.50日元、1986年年中頂部182.85日元，隨後出現兩波短線跳水行情、22:51重新整理日低至161.08日元。歐元兌日元跌0.28%，報184.56日元；英鎊兌日元漲0.28%，報214.020日元。
+
+---
+
+### 2026-06-23 03:18:11  #其他
+
+市場訊息：美方宣佈，美軍中央司令部將負責監管黎巴嫩停火監督機制。
+
+---
+
+### 2026-06-23 03:17:45  #MKT News
+
+U.S. officials said CENTCOM will oversee a Lebanon ceasefire mechanism.
+
+---
+
+### 2026-06-23 03:17:29  #國際
+
+伊朗代理國防部長：武裝部隊處於最高戒備狀態；侵略者若有任何新的挑釁或誤判，都將招致比以往更強有力的回擊。伊朗有能力同時採取談判與對抗策略，並能針對美國在談判期間違背承諾的行為做出回應。在談判期間及整個60天期限內，伊朗將維持並加強其在各區域的軍事態勢。
+
+---
+
+### 2026-06-23 03:17:19  #MKT News #XAUUSD #Impact bullish #WTI #Brent
+
+Iran's acting defense minister said Iran will maintain and strengthen its military posture across all theaters during negotiations and throughout the 60-day period.
 
 ---
 
@@ -19587,347 +20016,5 @@ Qatari PM welcomed today's Lake Lucerne summit in Switzerland and the ongoing U.
 ### 2026-06-22 01:25:23  #MKT News #Commodities #Energy #WTI #Impact bearish #Brent #Copper #Impact bullish
 
 【Columbia researcher: Middle East conflict to accelerate energy transition and supply diversification】Karen Young, researcher at Columbia University’s Center on Global Energy Policy, said a conflict involving Iran is exerting irreversible pressure on the oil sector and has pushed major economies to evaluate energy options outside the Middle East. "Countries are now more focused on energy security and therefore seek to diversify oil supplies and energy resources. In many regions this will mean a shift to renewables, especially in transport and electric vehicles," she said. Young warned the shift will reshape power-generation mixes and reduce the scale of gas sourced from the Middle East as countries rely more on domestic and accessible resources. "The key is not to depend on any single source, especially oil, or any single type of fuel," she added.
-
----
-
-### 2026-06-22 01:24:32  #國際
-
-以色列向美國承諾，將恪守黎巴嫩南部的黃線邊界相關立場。
-
----
-
-### 2026-06-22 01:21:54  #MKT News #Commodities #Energy
-
-Sources said a fire broke out at the combined-heat-and-power unit of Marathon's Galveston Bay refinery in Texas; no injuries reported so far.
-
----
-
-### 2026-06-22 01:21:18  #MKT News #Important
-
-Al Arabiya reported the Iranian delegation left the negotiating table and returned to its residence in Switzerland; talks with the US are continuing via intermediaries.
-
----
-
-### 2026-06-22 01:21:07  #其他
-
-訊息人士稱，馬拉松石油位於得克薩斯州加爾維斯頓灣的煉油廠聯產裝置發生火災，目前未造成人員傷亡。
-
----
-
-### 2026-06-22 01:16:49  #國際
-
-【訊息人士：伊朗方面並未離場，伊美之間的談判仍在繼續】伊朗媒體週日報道稱，伊朗代表團與此次談判的調解方之一卡達代表團會面後，已離開談判場地。該報道引發外界猜測，伊美兩國在瑞士舉行的相關磋商已暫停或結束。但美國阿克西奧斯新聞網記者巴拉克·拉維德援引一名參與談判的外交官說法，否認了上述訊息。這名外交官表示：“伊朗方面並未離場，伊美之間的談判仍在繼續。”
-
----
-
-### 2026-06-22 01:06:01  #MKT News #WTI #Impact bearish #XAUUSD #DXY
-
-Iranian state media quoted a Foreign Ministry spokesman saying Sunday’s talks centered on ending the war, lifting sanctions and securing the release of Iran’s frozen funds.
-
----
-
-### 2026-06-22 01:05:26  #MKT News #Important
-
-Axios reported a diplomat participating in the talks said the Iranian delegation had not left and U.S.-Iran negotiations were continuing.
-
----
-
-### 2026-06-22 01:05:24  #國際
-
-一名參與瑞士談判的外交官稱，伊朗代表團並未離場，美伊談判仍在進行。
-
----
-
-### 2026-06-22 01:05:18  #其他 #焦點 #國際
-
-伊朗外交部發言人表示，週日會談的重點為結束戰爭、解除制裁以及解凍伊朗被凍結資金。
-
----
-
-### 2026-06-22 01:04:40  #MKT News #XAUUSD #Impact bullish #WTI
-
-【Ghalibaf rebuffs Trump's latest threat】Ghalibaf, head of Iran’s negotiating delegation in Switzerland and speaker of the Iranian parliament, said on social media on June 21 that Iran does not take US threats seriously, warned Washington to choose its words carefully and said Iran’s armed forces are fully prepared to respond “in another way.” He added that regardless of US bluster, “we will be the ones to act.” Earlier, Trump posted that “Iran must immediately stop its ‘proxies’ in Lebanon. If not, we will strike Iran again, like last week, and only harder.”
-
----
-
-### 2026-06-22 00:48:11  #MKT News #Important #WTI #Impact bullish #Brent #XAUUSD
-
-【Iran delegation leaves Swiss talks in protest at Trump threat】On the 21st, Iran said a source close to its negotiating team reported the delegation had left the negotiating site in protest at President Trump’s threats. Informed sources said Trump’s latest remarks have paused US‑Iran talks in Switzerland and cast doubt on whether negotiations can continue. Earlier, Trump posted on Truth Social that Iran must immediately stop its "proxy" actions in Lebanon or the United States will strike Iran.
-
----
-
-### 2026-06-22 00:47:41  #焦點 #國際
-
-【抗議特朗普威脅言論 伊朗代表團離開談判地點】當地時間21日，伊朗方面釋出訊息稱，一名接近談判團隊的訊息人士透露，伊朗談判代表團因抗議特朗普的威脅言論，已離開談判地點。另據知情人士訊息，美國總統特朗普最新對伊朗發出的威脅言論導致美伊在瑞士的會談暫停，並使談判能否繼續進行蒙上陰影。此前，特朗普在社交平臺“真實社交”上發文稱，伊朗必須立即停止其在黎巴嫩的“代理人”行動，否則美國將對伊朗發動打擊。（央視新聞）
-
----
-
-### 2026-06-22 00:44:28  #國際
-
-【世界拳聯世界盃中國站：中國選手斬獲5金】2026世界拳擊聯合會（世界拳聯）世界盃中國站21日迎來決賽日，中國選手楊柳、王霄萌、包子怡、詹依蓮、吳愉分別獲得女子70公斤級、80公斤級、75公斤級、80公斤以上級和51公斤級冠軍。張家茂不敵美國選手帕特里西奧，獲得男子55公斤級亞軍。（新華社）
-
----
-
-### 2026-06-22 00:40:51  #MKT News #Important #Commodities #Energy #WTI #Impact bearish #Brent
-
-Iranian state media reported a member of Iran's negotiating team said a draft for exemptions from sanctions on Iranian oil has been finalized and formal publication of the exemptions is expected soon.
-
----
-
-### 2026-06-22 00:40:26  #宏觀 #焦點 #國際
-
-伊朗談判代表團成員對伊朗官方媒體表示：伊朗石油制裁豁免相關草案已敲定，豁免令很快就會出臺。
-
----
-
-### 2026-06-22 00:38:19  #MKT News
-
-Iranian state media reported a member of Iran's negotiation team said procedures to execute the release of Iran's frozen funds have begun, with a Qatari delegation participating.
-
----
-
-### 2026-06-22 00:37:41  #焦點 #國際
-
-伊朗談判代表團成員對官方媒體表示：伊朗凍結資金解凍的執行流程已在卡達代表團參與下完成。
-
----
-
-### 2026-06-22 00:35:54  #MKT News #WTI #Impact bullish #Brent
-
-Iranian state media reports a member of Iran's negotiating team said talks on other issues will not proceed unless the war in Lebanon ends.
-
----
-
-### 2026-06-22 00:34:57  #國際
-
-伊朗談判團隊成員對伊朗國家媒體表示：如果黎巴嫩戰事不結束，就不會就其他議題進行談判。
-
----
-
-### 2026-06-22 00:33:47  #MKT News #Market Regions #Europe & UK
-
-France's foreign ministry said the foreign minister will meet Qatar's prime minister in Switzerland on Monday local time.
-
----
-
-### 2026-06-22 00:33:11  #國際
-
-法國外交部：法國外長將於週一在瑞士會見卡達首相。
-
----
-
-### 2026-06-22 00:31:49  #MKT News #WTI #Impact bullish #Brent
-
-TASNIM NEWS, citing sources, says Iran's delegation walked out of talks in protest at comments by Trump.
-
----
-
-### 2026-06-22 00:31:25  #焦點 #國際
-
-訊息人士：伊朗代表團為抗議特朗普言論已離開談判會場。
-
----
-
-### 2026-06-22 00:28:28  #MKT News #XAUUSD #Impact bullish #DXY #WTI
-
-【Israel says it killed more than 20 Hezbollah fighters in southern Lebanon】On the 21st the IDF said it discovered an underground tunnel with four shafts and hundreds of weapons beneath the southern Lebanese village of Majdal Zoun, about 10 km from the Israel-Lebanon border, and that the 551st Brigade of its 91st Division is conducting operations there. The IDF said it killed more than 20 Hezbollah fighters during the operation, including over 10 members of the elite Radwan unit, and destroyed more than 50 military sites including observation posts and weapons storage facilities.
-
----
-
-### 2026-06-22 00:27:07  #國際
-
-伊朗塔斯尼姆通訊社稱，特朗普近期發表的威脅言論致使瑞士談判陷入暫停，也給談判程序帶來極大不確定性。
-
----
-
-### 2026-06-22 00:24:22  #國際
-
-伊朗稱，特朗普發表的威脅言論致使美伊瑞士談判中止。
-
----
-
-### 2026-06-22 00:22:41  #國際
-
-【以軍稱在黎巴嫩南部打死多名黎真主黨武裝人員】當地時間21日，以色列國防軍發表宣告稱，以軍在距離以黎邊境約10公里的黎巴嫩南部村鎮馬吉代勒祖恩地下，發現了一條建有4個地道豎井並藏有數百件武器的地道。據以色列國防軍釋出的宣告，以軍第91師指揮下的第551旅目前正在該地區展開行動。在行動期間，以軍共打死了20多名黎巴嫩真主黨武裝人員，其中包括10多名真主黨精銳武裝拉德萬部隊的成員。此外，以軍還聲稱摧毀了50多個軍事基礎設施站點，包括觀察哨和武器儲存設施。以軍透露，其在現場具體定位了一條長度超過200米、深度超過25米的地道。以方聲稱，該地道內設有4個地道豎井和12個房間，其中包括生活區以及用於儲存簡易爆炸裝置、反坦克導彈和無人機的房間。（央視新聞）
-
----
-
-### 2026-06-22 00:21:58  #國際
-
-【真主黨領導人明確拒絕以色列在黎巴嫩境內設立任何安全區】黎巴嫩真主黨領導人納伊姆·卡西姆明確拒絕以色列在黎巴嫩境內設立任何安全區。此前以色列總理內塔尼亞胡宣稱，以軍會駐守黎巴嫩南部，直至局勢不再需要駐軍為止。卡西姆表示：“以色列軍隊盤踞黎巴嫩領土，這絕無可能。”他補充稱，“以色列是侵略者，必須撤離。”
-
----
-
-### 2026-06-22 00:21:09  #國際
-
-訊息人士：伊朗代表團正在開展內部磋商，目前尚不清楚其是否會重返談判。
-
----
-
-### 2026-06-22 00:19:16  #MKT News
-
-Republican Senator Lindsey Graham said he hopes diplomacy will succeed but warned that if Iran attempts to challenge the United States, the U.S. will utterly destroy Iran.
-
----
-
-### 2026-06-22 00:18:56  #MKT News #XAUUSD #Impact bullish #DXY #WTI
-
-【Hezbollah leader says will respond to any ceasefire violations】Hezbollah leader Naim Qassem said Israel will not continue to remain stationed in Lebanon and the group will respond to any Israeli violations of the ceasefire. His remarks came as Israeli officials said the ceasefire, which took effect on Friday, still permits the Israel Defense Forces to act without restriction to remove threats inside Lebanon.
-
----
-
-### 2026-06-22 00:15:30  #國際
-
-伊朗首席談判代表卡利巴夫：他們難道就沒想過，倘若其威脅真能奏效，又怎會落到如今這般絕望的境地？我們根本不把美國的威脅放在眼裡。美方最好謹言慎行，我方武裝力量已準備好採取另一種方式予以回擊。無論美方如何叫囂，付諸行動的終將是我們。
-
----
-
-### 2026-06-22 00:15:06  #國際
-
-伊朗首席談判代表卡利巴夫表示，美國應當對自身言論謹慎行事，伊方武裝力量已做好反擊準備。
-
----
-
-### 2026-06-22 00:14:44  #MKT News #XAUUSD #Impact bullish #WTI #DXY
-
-Iran parliament speaker Ghalibaf said Iran does not care about US threats, told Washington to watch its words, and said Iran’s armed forces are prepared to respond in other ways; he added that regardless of US statements, Iran will be the one to take real action.
-
----
-
-### 2026-06-22 00:14:01  #國際
-
-【伊朗抗議特朗普近期發出的威脅 並正在考量應對舉措】伊朗已就特朗普近期發出的威脅向美國正式提出抗議，並正在考量應對舉措。德黑蘭稱，任何形式的威脅行為都違反相關協議第一條條款，該條款規定美方不得實施威脅，因此特朗普此番言論嚴重違背雙方達成的共識。
-
----
-
-### 2026-06-22 00:11:17  #國際
-
-【伊朗：若以色列不從黎巴嫩撤軍，將終止與美國的談判】伊朗方面表示，除非以色列全面撤出黎巴嫩且各戰線戰事全部平息，否則伊美之間所有談判都將中止。伊朗警告，若以色列繼續採取相關行動，伊朗將採取強硬得多的反擊措施。德黑蘭方面還懷疑美國借談判為以色列爭取喘息時間。
-
----
-
-### 2026-06-22 00:11:03  #MKT News #Important #Commodities #Energy #WTI #Impact bearish #Brent
-
-Iranian state TV quoted the head of the National Iranian Oil Company (NIOC) saying more than 25 million barrels of Iranian oil have crossed blockade lines since last Monday.
-
----
-
-### 2026-06-22 00:10:24  #公司 #焦點 #國際
-
-伊朗國家石油公司負責人表示，自週一以來，已有超過2500萬桶伊朗石油突破封鎖線運輸。
-
----
-
-### 2026-06-22 00:10:06  #焦點 #國際
-
-伊朗塔斯尼姆通訊社：若以色列不從黎巴嫩撤軍，伊朗將終止與美國的談判。
-
----
-
-### 2026-06-22 00:09:02  #國際
-
-美國能源部長賴特：伊朗依然我行我素。
-
----
-
-### 2026-06-22 00:08:01  #國際
-
-【萬斯稱特朗普要求與伊朗“翻開新篇章”】美國副總統萬斯週日（6月21日）在伊美會談前表示，特朗普已要求與伊朗“翻開新篇章”，以轉變美伊關係。
-
----
-
-### 2026-06-22 00:07:18  #MKT News #XAUUSD #Impact bullish #DXY #WTI
-
-【Hezbollah opposes Lebanon-US direct talks, says they will harm sovereignty and serve Israel】Al Jazeera reported Hezbollah opposes direct talks between the Lebanese government and the US, saying such negotiations would weaken Lebanon’s sovereignty and serve Israeli interests. The group said the Lebanese delegation in Washington was asked to sign US-proposed terms that “deprive Lebanese sovereignty” and align Lebanon with forces reconciled with Israel, calling the talks based on a “flawed” premise that would produce “surrender” rather than serve Lebanon’s interests. Hezbollah added that government participation hinders efforts to counter enemy plans and resistance on the ground, risks Lebanon’s stability and independence, and amounts to compliance with US and Israeli policy objectives.
-
----
-
-### 2026-06-22 00:05:37  #MKT News #Brent #Impact bullish #XAUUSD #DXY
-
-【Israeli chief of staff: military operations in Lebanon continue】The Israel Defense Forces said on the 21st Chief of Staff Zamir, speaking in southern Lebanon at a meeting with commanders, said military operations in Lebanon remain ongoing. Zamir said the IDF is fighting on multiple fronts and continuing strikes against Hezbollah; he added some units suffered "significant losses" with multiple soldiers and commanders killed. Israeli media reported on the 20th that the prime minister and defence minister instructed the IDF to call a cease-fire in Lebanon, but the army has not withdrawn from areas it controls in southern Lebanon. Prime Minister Netanyahu reiterated the IDF will remain in south Lebanon "as long as necessary."
-
----
-
-### 2026-06-22 00:05:28  #國際
-
-【以軍總參謀長：在黎巴嫩軍事行動仍在繼續】據以色列國防軍21日發表的宣告，以軍總參謀長扎米爾當天在黎巴嫩南部與以軍指揮官會面時稱，以軍在黎巴嫩的軍事行動仍在繼續。扎米爾稱，以軍“正在多線作戰”，持續打擊黎真主黨武裝組織。他還稱，以軍一些部隊遭受“重大損失”，有多名士兵和指揮官死亡。以色列媒體20日報道說，以總理和國防部長指示以軍在黎巴嫩停火，但以軍未撤出其在黎南部控制的地區。以總理內塔尼亞胡重申“只要有必要”，以軍會一直駐留在黎南部。（新華社）
-
----
-
-### 2026-06-22 00:01:58  #國際
-
-訊息人士：伊朗代表團將不在日內瓦與國際原子能機構總幹事舉行會談。美方原本希望國際原子能機構總幹事格羅西出席瑞士舉行的伊美談判，但伊朗拒絕了這一提議。
-
----
-
-### 2026-06-22 00:01:19  #國際
-
-伊朗方面稱，特朗普的威脅行為嚴重違反諒解備忘錄。
-
----
-
-### 2026-06-21 23:57:48  #其他
-
-迪士尼《玩具總動員5》北美首映票房達1.6億美元。
-
----
-
-### 2026-06-21 23:55:26  #MKT News #XAUUSD #Impact bullish #Brent
-
-Hezbollah leader said the group will respond to any act of aggression.
-
----
-
-### 2026-06-21 23:55:24  #其他
-
-真主黨領袖稱將對任何侵犯行為作出回應。
-
----
-
-### 2026-06-21 23:55:14  #MKT News #XAUUSD #Impact bullish #WTI #DXY
-
-Hezbollah leader says Israel will not continue to be stationed in Lebanon.
-
----
-
-### 2026-06-21 23:55:00  #宏觀 #國際
-
-【以總理稱以軍將根據需要繼續駐留黎巴嫩南部】當地時間21日，以色列總理內塔尼亞胡公開表示，以色列軍隊將根據安全需要在黎巴嫩南部的“安全區”長期駐留，並重申將採取一切手段阻止伊朗獲得核武器。內塔尼亞胡在當天的一場講話中表示，以色列在過去一年中針對伊朗實施了兩次重大軍事行動，旨在“消除來自伊朗的緊迫威脅”。他強調，以色列已經取得了“重大成果”，且絕不會妥協，將繼續捍衛其根本利益。在談及黎巴嫩南部局勢時，內塔尼亞胡強調，以軍將繼續駐留在黎南部的所謂“安全區”，直至消除對以色列北部及全國民眾的“安全威脅”。內塔尼亞胡堅稱，只要其還擔任以色列總理，他在這一問題上的堅定立場就絕不改變。同時，只要其還擔任以色列總理，無論政治局勢如何發展，他都絕不允許伊朗擁有核武器。（央視新聞）
-
----
-
-### 2026-06-21 23:54:42  #國際
-
-真主黨領導人稱，以色列不會留在黎巴嫩。
-
----
-
-### 2026-06-21 23:54:33  #MKT News
-
-According to Axios, a U.S. official said Iranian delegates had agreed to hold an on-site media briefing at the start of a meeting and brought state media to the venue, but left after seeing the number of journalists present and later issued an inaccurate account through state media.
-
----
-
-### 2026-06-21 23:54:08  #其他
-
-【亞洲接力錦標賽 中國隊創造男子4x100米接力賽會紀錄】2026亞洲接力錦標賽北京時間6月21日在紹興上虞結束，由謝震業、施君豪、黃友聞、陳錦豐組成的中國隊以38.08秒的成績奪得冠軍，並創男子4x100米接力賽會紀錄。（央視新聞）
-
----
-
-### 2026-06-21 23:52:57  #國際
-
-一名美方官員透露，伊朗代表此前已同意會談開場安排媒體採訪環節。該官員稱：“他們甚至攜帶本國官方媒體記者到場報道，相關人員也已提前就位。但在看到現場媒體人數眾多後，伊朗代表直接離場，隨後還透過本國官媒釋出與事實不符的會談情況說明。”
-
----
-
-### 2026-06-21 23:48:49  #國際
-
-據伊朗媒體21日報道，伊朗代表團已就美國總統特朗普近期口頭威脅向美方提出抗議，目前正在制定適當回應方案。
-
----
-
-### 2026-06-21 23:48:49  #MKT News #Market Themes #The Trump Trade #XAUUSD #Impact bullish #DXY #WTI
-
-【Iranian delegation lodges protest over Trump's verbal threats】Iranian media said on the 21st the Iranian delegation has lodged a protest with the US over recent verbal threats by President Trump and is preparing an appropriate response.
 
 ---
