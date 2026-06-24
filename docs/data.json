@@ -1,7 +1,43 @@
 {
-  "updated": "2026-06-25 05:10:53",
-  "count": 17061,
+  "updated": "2026-06-25 05:14:52",
+  "count": 17062,
   "items": [
+    {
+      "id": "4953535",
+      "time": "2026-06-25 05:13:46",
+      "tags": [
+        "國際"
+      ],
+      "text": "【特朗普回應拒籤住房法案：比任何人都懂房地產 降息才是關鍵】當地時間6月24日，被問及臨時取消旨在降低住房成本和增加住房供應法案的簽署計劃時，美國總統特朗普表示，“我說過我不會簽署那個法案。我在房地產行業賺了幾十億美元，我比任何人都更瞭解房地產。這完全是利率的事情，我們要降低利率。我也不想傷害那些擁有房產的人。對這些人來說，他們人生中第一次擁有了有價值的房子，他們變得富有了。我也不想傷害他們。”"
+    },
+    {
+      "id": "te:economy:561645",
+      "time": "2026-06-25 05:13:43",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "South Korea",
+        "Business Confidence",
+        "Importance 1"
+      ],
+      "text": "South Korea Manufacturing Confidence Eases in June — South Korea’s Business Survey Index for the manufacturing sector edged down to 79 in June 2026 from 80 in the previous month. The production index was unchanged at 90, while the new orders index rose to 88 from 87. Meanwhile, the inventories index held steady at 100, and the financial conditions index improved slightly to 80 from 79. The Composite Business Sentiment Index for manufacturing rose 0.4 points to 101.2, signaling a modest improvement in current conditions. However, the outlook for the following month weakened, with the forward-looking sentiment index falling 2.1 points to 98.2."
+    },
+    {
+      "id": "mkt:019efb7b-319a-7dd8-b105-b3182f458e57",
+      "time": "2026-06-25 05:13:35",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "US Economy",
+        "US10Y",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish",
+        "S&P500"
+      ],
+      "text": "【Trump says he will not sign housing bill, frames issue as interest-rate driven and backs rate cuts】On June 24, asked about his decision not to sign a bill intended to lower housing costs and boost supply, President Trump said he will not sign the measure. He said he has made billions in real estate and \"understands real estate better than anyone,\" called the problem \"entirely about rates,\" and said \"we need to lower rates.\" He added he does not want to hurt homeowners who have gained wealth from rising house values."
+    },
     {
       "id": "4953534",
       "time": "2026-06-25 05:08:42",
@@ -155891,30 +155927,6 @@
         "市場"
       ],
       "text": "富時A50期指連續夜盤收跌0.48%，報15522點。"
-    },
-    {
-      "id": "4941855",
-      "time": "2026-06-18 05:14:09",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【特朗普戲稱若美伊沒簽成就賴萬斯】美國總統特朗普當地時間6月17日在七國集團峰會結束後的記者會上表示，他可能會繼續留在歐洲出席美國與伊朗諒解備忘錄的簽署儀式，但也可能不會，因為這畢竟“不是一份重要到必須由他來簽署的檔案”。在回答記者提問時，他還戲稱，“簽署儀式如果成了，我就把功勞攬過來；如果黃了，我就怪（出席儀式的美國副總統）萬斯。”在回答有關“設立3000億美元基金用於伊朗重建和經濟發展”的問題時，特朗普強調，“美國不出錢”，但如果伊朗“表現好、守規矩”，美國將允許其出售石油，允許別人投資伊朗。 特朗普還再次威脅“如果伊朗違約將遭美軍轟炸”。但現場有記者質疑“諒解備忘錄中並不包括相關強制執行的條款”。特朗普對此回應稱，“難道非得有（強制執行條款）不可嗎？"
-    },
-    {
-      "id": "mkt:019ed76e-b24f-7dd8-b064-5e2ce4bdab6b",
-      "time": "2026-06-18 05:13:36",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "Chip Wars",
-        "Magnificent 7",
-        "Star Stocks",
-        "Apple",
-        "AAPL.O",
-        "Impact mixed"
-      ],
-      "text": "【Cook says Apple will raise prices to offset surge in memory-chip costs】According to the Wall Street Journal, Apple CEO Cook said the company plans to raise product prices to offset a sharp rise in memory and storage chip costs, calling price increases \"unavoidable\"; he declined to specify timing, magnitude or which products would be affected. Cook flagged DRAM pressure in particular, saying more capacity is being allocated to AI servers and high‑bandwidth memory, tightening supply for consumer devices as vendors push prices higher. He said Apple is prepared to use its cash balance to secure additional memory supply and support more capacity but ruled out building its own memory or storage fabs."
     }
   ]
 }
