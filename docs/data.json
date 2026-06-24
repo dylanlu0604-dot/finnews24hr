@@ -1,7 +1,75 @@
 {
-  "updated": "2026-06-24 12:54:50",
-  "count": 17356,
+  "updated": "2026-06-24 12:58:59",
+  "count": 17358,
   "items": [
+    {
+      "id": "4951763",
+      "time": "2026-06-24 12:58:02",
+      "tags": [
+        "公司"
+      ],
+      "text": "【成都林家壩5宗打包地塊43.44億元底價成交 未來新房售價或達5.2萬元/平】成都林家壩TOD核心區5宗約195畝組合地塊今日成功出讓，成交總價43.44億元，競得方為成都軌道集團與錦江統建聯合體。上述5宗土地採取整體打包出讓方式，意向競買人須同時報名參與全部地塊競買。該地塊位於林家壩TOD核心區域，疊加TOD開發、商業自持、約120米地標建築建設及代建綠地等多重成本約束。中指研究院分析師表示，經初步測算，在扣除相關開發及持有成本後，專案實際可售住宅樓面價已突破26500元/平方米，接近板塊歷史“地王”水平，專案未來新房售價預計將站上5.2萬元/平方米。"
+    },
+    {
+      "id": "4951762",
+      "time": "2026-06-24 12:57:50",
+      "tags": [
+        "公司"
+      ],
+      "text": "【東寶生物：公司膠原蛋白產品可作為電解銅箔生產專用工藝新增劑使用】東寶生物(300239)在互動平臺表示，公司主營明膠、膠原蛋白、空心膠囊等系列產品，不直接生產電解銅箔成品。膠原蛋白產品可作為電解銅箔生產專用工藝新增劑使用，相關產品已實現市場應用，2025年相關銷量、收入同比有所增長，是公司持續拓展的新興業務，目前該業務實現的收入佔比還較小。"
+    },
+    {
+      "id": "mkt:019ef7fd-c5de-7dd8-b0ec-1cd41cdde111",
+      "time": "2026-06-24 12:57:44",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "JD.com",
+        "JD.O",
+        "Impact mixed"
+      ],
+      "text": "【Citigroup: JD.com 618 order users hit record high, keeps Buy】Citigroup said JD.com (JD.O) recorded a record number of ordering users during its 618 campaign; demand for home services, childcare and appliance installation was strong, but overall weak consumption left promotional impact moderate. Citigroup cut its Q2 revenue and non-GAAP net income forecasts by 4.3% and 6.6%, respectively, and now forecasts Q2 revenue of CNY 342.5 billion (down 4% YoY) and non-GAAP net income of CNY 7.4 billion (up 0.4% YoY). It also trimmed 2026–28 revenue forecasts by about 1.3–1.4% and earnings forecasts by 4.4–6%, citing persistent soft consumer sentiment. Citigroup maintained its Buy rating on JD.com and left the PT at $39."
+    },
+    {
+      "id": "4951761",
+      "time": "2026-06-24 12:56:40",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "高通美股夜盤直線拉昇，現漲3%。此前報道援引四位知情人士表示，美國高通正與中國位元組跳動就提供晶片設計服務進行磋商。三位訊息人士稱，高通正討論為位元組跳動設計定製晶片。其中兩位訊息人士表示，這些晶片將部分基於高通去年收購的高速連線技術公司AlphaWave Semi的技術。不過，三位訊息人士表示，談判仍在進行中，結果尚不確定。"
+    },
+    {
+      "id": "mkt:019ef7fc-2ac0-7dd8-b0ec-16a9dbda6291",
+      "time": "2026-06-24 12:55:58",
+      "tags": [
+        "MKT News",
+        "QCOM.O",
+        "Impact bullish"
+      ],
+      "text": "Qualcomm (QCOM.O) shares jumped in US after-hours trading, surging more than 4% at one point; gains later narrowed to about 3%."
+    },
+    {
+      "id": "te:markets:561370",
+      "time": "2026-06-24 12:55:23",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "India",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "Indian Rupee Slides to One-Week Low — The Indian rupee fell to around 94.8 per dollar, retreating after a brief stabilization as renewed strength in the greenback and shifting expectations for US monetary policy overshadowed lower crude oil prices. The currency came under renewed pressure after the dollar index climbed to its highest level in more than a year, driven by growing market expectations that the Federal Reserve could implement one or two additional interest-rate hikes before the end of the year. The rupee's decline was partly cushioned by a sharp drop in oil prices, with Brent crude falling below $77 per barrel and posting losses of roughly 16.5% for the month. The decline in energy prices has been supported by signs that tanker movements through the Strait of Hormuz are gradually returning to normal. Additional support came from improving capital-flow dynamics. Foreign investment into Indian debt markets has strengthened, while equity-market outflows have moderated compared with earlier months."
+    },
+    {
+      "id": "4951760",
+      "time": "2026-06-24 12:54:16",
+      "tags": [
+        "公司"
+      ],
+      "text": "阿達尼集團董事長：按計劃將於2030年前建成3吉瓦資料中心平臺。"
+    },
     {
       "id": "4951759",
       "time": "2026-06-24 12:53:19",
@@ -158876,49 +158944,6 @@
         "市場"
       ],
       "text": "【上交所：暫停景順長城全球半導體晶片LOF、財通多策略福鑫基金交易至收市】上交所公告，6月17日盤中即時起至收市暫停景順長城全球半導體晶片產業股票型證券投資基金（QDII-LOF）、財通多策略福鑫定期開放靈活配置混合型發起式證券投資基金交易業務。"
-    },
-    {
-      "id": "4939978",
-      "time": "2026-06-17 12:58:56",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【印尼60億元訂單在深圳龍崗釋出】6月15日下午，“廣東—印尼AI+醫療+新能源產業交流合作活動”在龍崗區企業國際化服務基地舉辦。作為APEC“中國年”背景下的精準對接會，本次活動釋放了印尼方49個採購訂單，總金額高達60億元。活動當天，廣東省對印尼貿易促進會深圳辦事處正式落戶龍崗區企業國際化服務基地。活動現場，印尼方一次性發布49個採購訂單，涵蓋安防、能源、礦業、漁業、醫療等領域。其中，由龍崗企業自主研發專利的電煙灶產品前期訂單量5萬臺，後續長期訂單有望增至500萬臺，對應規模約40億元。深圳星焰電火科技有限公司、深圳市八方通達科技有限公司、中環興業（深圳）實業有限公司3家企業現場簽署合作備忘錄。"
-    },
-    {
-      "id": "4939977",
-      "time": "2026-06-17 12:58:28",
-      "tags": [
-        "市場"
-      ],
-      "text": "【遼寧：引導金融機構創新產品和服務 積極支援優質企業上市】據遼寧日報，6月17日，全省服務業大會在瀋陽召開。遼寧省委書記許昆林出席會議並講話。許昆林強調，生產性服務業是產業延鏈增值的關鍵支撐，要深入挖掘潛力，著力提高生產性服務業發展能級。堅持向“專”深耕、促進供需高效適配，推動研發設計、檢驗檢測認證、智慧財產權等業態專業化、定製化、精細化發展，引導大型工業企業外包專業服務業務，加強撮合對接，推動生產性服務業更好嵌入製造業價值鏈各環節。堅持向“高”而進、推動價值鏈延伸，做強現代物流，完善現代化綜合交通運輸體系，加強水網、路網等建設，加快推進內河復航，培育智慧物流等新業態；做優金融服務，大力發展期貨、基金、融資租賃，引導金融機構創新產品和服務，積極支援優質企業上市；壯大科技服務，健全技術轉移轉化服務體系，加快發展軟體、租賃和商務服務業，推動生產性服務業全鏈條升級。"
-    },
-    {
-      "id": "mkt:019ed3ef-e239-7dd8-b042-3470b5e0006a",
-      "time": "2026-06-17 12:56:14",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Iranian MP Ruhollah said Iran's negotiating team, aware of years of US insidious tactics, has pursued a step-by-step, reciprocal and action-for-action approach in diplomacy and talks."
-    },
-    {
-      "id": "4939976",
-      "time": "2026-06-17 12:55:45",
-      "tags": [
-        "公司",
-        "央行",
-        "國際"
-      ],
-      "text": "【機構：日本央行的加息理由標誌著政策邏輯的轉向】索尼金融集團經濟學家Tetsuya Inoue表示，日本央行決定將通脹上行風險作為加息理由，這標誌著其政策邏輯出現了明顯的轉向。這一轉變與先前的加息形成鮮明對比，當時該央行強調調整貨幣政策是為了以穩定和可持續的方式實現其2%的通脹目標。Inoue表示，如果該央行在採取政策行動方面落後於形勢，可能會引發長期債券收益率激增，進一步削弱日元，並加速通脹。"
-    },
-    {
-      "id": "4939975",
-      "time": "2026-06-17 12:54:58",
-      "tags": [
-        "公司"
-      ],
-      "text": "【芯生視界近日完成近億元人民幣種子輪融資】侵入式腦機介面公司芯生視界近日完成近億元人民幣種子輪融資。本輪融資由經緯創投領投，星連資本、燕緣創投、水木創投跟投。"
     }
   ]
 }
