@@ -1,7 +1,65 @@
 {
-  "updated": "2026-06-24 12:29:47",
-  "count": 17356,
+  "updated": "2026-06-24 12:33:51",
+  "count": 17357,
   "items": [
+    {
+      "id": "te:markets:561368",
+      "time": "2026-06-24 12:31:00",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "South Korea",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "South Korean Won at Over 2-Week Low — The South Korean won traded around 1,539 per dollar, extending losses to its lowest level in over two weeks after MSCI kept South Korea in its emerging-market category. MSCI cited persistent foreign-exchange market accessibility issues, including limited offshore won convertibility and insufficient liquidity during extended trading hours, delaying South Korea's progress toward developed-market status. Additionally, the US dollar remained relatively firm as investors continued to assess the outlook for US monetary policy. Meanwhile, the Bank of Korea reinforced its hawkish stance, signaling that higher interest rates may be needed at an appropriate time as rising housing prices, household debt, and leveraged investments threaten to fuel financial imbalances. Limiting further losses, oil prices eased as concerns over potential disruptions to energy supplies through the Strait of Hormuz softened, providing some relief for the energy-importing economy."
+    },
+    {
+      "id": "mkt:019ef7e5-11f5-7dd8-b0eb-c68f00181f24",
+      "time": "2026-06-24 12:30:45",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "China Tech Giants",
+        "DXY",
+        "Impact bullish",
+        "CNH",
+        "Impact bearish"
+      ],
+      "text": "Market sources say ByteDance is seeking a roughly $20 billion offshore loan, which would be the largest overseas loan on record."
+    },
+    {
+      "id": "te:markets:561366",
+      "time": "2026-06-24 12:30:32",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "India",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Sensex Starts Session Higher — India’s BSE Sensex rose about 0.3% to 76,456 at the open on Wednesday, recouping earlier losses as investors weighed the benefits of lower crude oil prices against growing expectations of further US interest-rate hikes. Market sentiment remained cautious after the benchmark fell roughly 1.2% in the previous session, pressured by weakness in information technology and metal stocks. Concerns over domestic business activity and monsoon developments also weighed on investor confidence. Among individual stocks, Indian Railway Finance Corporation shares dropped 5.4% following reports of a planned government stake sale, while Wipro drew attention after expanding its cybersecurity partnership initiatives. JPMorgan downgraded HCL Tech, Wipro, and Tata Tech, warning that AI-driven disruption, cautious enterprise spending, and geopolitical uncertainty could keep growth across India's IT sector subdued. Notable gainers were KPR Mill (12.6%), Roto (8.5%), and JSW Infrastructure (4.4%)."
+    },
+    {
+      "id": "mkt:019ef7e4-b135-7dd8-b0eb-bd1471a82889",
+      "time": "2026-06-24 12:30:20",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "【Trump says Senate resolution restricting presidential war powers 'untimely'】On the 23rd, President Trump said on social media the Senate resolution limiting presidential war powers was \"untimely,\" adding he has \"driven Iran to the brink\" and that Iran is \"willing to make substantive concessions.\" He called the vote \"aid and comfort to the enemy\" and said senators had made his job harder but he would \"get it done.\" The U.S. Senate on the 23rd passed a resolution requiring Trump to end U.S. military action against Iran and to obtain congressional authorization before undertaking future military action; the measure had previously cleared the House."
+    },
+    {
+      "id": "4951739",
+      "time": "2026-06-24 12:30:02",
+      "tags": [
+        "公司"
+      ],
+      "text": "【位元組跳動尋求200億美元境外貸款 規模為該公司歷來最大】媒體援引知情人士透露，位元組跳動有限公司正與多家銀行開展初步洽談，計劃籌措約 200 億美元貸款。此番融資或將成為該公司有史以來規模最大的離岸貸款，當前位元組正持續加大人工智慧領域的投入。不願具名的知情人士表示，這家總部位於北京的社交媒體巨頭已向多家銀行接洽這筆新增貸款，貸款期限初定為三年，同時可選擇延長至五年。知情人士稱，目前尚不清楚位元組跳動將如何使用這筆資金，相關磋商仍處於初期階段，具體條款存在變動可能。"
+    },
     {
       "id": "4951738",
       "time": "2026-06-24 12:28:40",
@@ -158881,38 +158939,6 @@
         "焦點"
       ],
       "text": "紐約期金失守4340美元/盎司，日內跌0.34%。"
-    },
-    {
-      "id": "4939960",
-      "time": "2026-06-17 12:33:37",
-      "tags": [
-        "公司"
-      ],
-      "text": "【孚能科技與德國WLF Energy簽署戰略合作協議】據孚能科技訊息，近日，孚能科技與德國能源技術公司WLF Energy簽署戰略合作協議。根據協議，雙方將共同制定技術與產品路線圖，聯合開發面向公用事業、商業與工業以及分散式儲能市場的下一代電池技術和儲能產品。合作內容涵蓋電芯、電池系統、能源管理軟體、人工智慧以及大規模儲能解決方案的部署。雙方還將探索虛擬電廠、智慧能源基礎設施、可再生能源併網及電網穩定等應用場景，並共同制定面向未來十年的長期技術路線圖，評估和實施多種電池化學體系、先進電池管理技術及AI驅動的最佳化演算法，推動標準化產品架構的全球可擴充套件性。"
-    },
-    {
-      "id": "4939959",
-      "time": "2026-06-17 12:33:09",
-      "tags": [
-        "市場"
-      ],
-      "text": "巴基斯坦KSE-100指數開盤後上漲0.5%，至181,356.90點。"
-    },
-    {
-      "id": "4939958",
-      "time": "2026-06-17 12:32:19",
-      "tags": [
-        "其他"
-      ],
-      "text": "塔塔資本：董事會批准透過發行不可轉換債券籌集高達3600億盧比資金。"
-    },
-    {
-      "id": "4939957",
-      "time": "2026-06-17 12:30:21",
-      "tags": [
-        "國際"
-      ],
-      "text": "【大眾汽車要求各方提交發動機業務密封最終報價】英國金融時報援引不願具名知情人士訊息稱，大眾汽車已通知三家收購財團，於下週提交密封最終報價，競購其估值100億美元的發動機業務板塊。上述收購財團背後投資方包括歐洲富豪家族，以及卡達、加拿大資本。此前EQT聯合保時捷控股、卡達投資局參與競標，市場擔憂EQT具備不公平競爭優勢，大眾此舉意在化解相關顧慮。大眾汽車、保時捷控股及EQT均不予置評。"
     }
   ]
 }
