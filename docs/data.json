@@ -1,7 +1,726 @@
 {
-  "updated": "2026-06-25 03:30:52",
-  "count": 16972,
+  "updated": "2026-06-25 04:18:15",
+  "count": 16997,
   "items": [
+    {
+      "id": "mkt:019efb47-cfeb-7dd8-b104-67e4d81625ac",
+      "time": "2026-06-25 04:17:27",
+      "tags": [
+        "MKT News",
+        "Important",
+        "MU.O"
+      ],
+      "text": "Micron Technology (MU.O) expects FY2026 capital expenditure of about $27 billion."
+    },
+    {
+      "id": "4953449",
+      "time": "2026-06-25 04:16:37",
+      "tags": [
+        "其他"
+      ],
+      "text": "高通首席財務官：未來營收、每股收益增速將大幅提升。"
+    },
+    {
+      "id": "mkt:019efb47-07cd-7dd8-b104-5bb289b14491",
+      "time": "2026-06-25 04:16:36",
+      "tags": [
+        "MKT News",
+        "Important",
+        "MU.O",
+        "Impact mixed"
+      ],
+      "text": "Micron Technology (MU.O) CEO said he expects capex of about $10 billion in the fourth fiscal quarter."
+    },
+    {
+      "id": "mkt:019efb46-70a1-7dd8-b104-546d5a0059af",
+      "time": "2026-06-25 04:15:57",
+      "tags": [
+        "MKT News",
+        "MU.O",
+        "Impact bearish"
+      ],
+      "text": "Micron Technology (MU.O) CEO said project-related operating expenses in fiscal 2027 are expected to rise by about $1 bln."
+    },
+    {
+      "id": "4953448",
+      "time": "2026-06-25 04:15:55",
+      "tags": [
+        "其他"
+      ],
+      "text": "【SpaceX投資者David George看好星艦 稱發展太空AI算力不可避免】SpaceX投資者、Andreessen Horowitz LLC普通合夥人David George表示，新型星艦火箭的“快速可重複使用”特性，對於實現埃隆·馬斯克利用軌道資料中心擴充套件AI算力的願景至關重要。George週三在接受採訪時表示，一旦星艦投入使用，將那些能力拓展至太空是不可避免的，因為地球上的AI資料中心容量正日益受限。他提出了一個看待這些未來衛星的新視角：“太空中飛機大小的GPU機架”。“至少，軌道資料中心將作為地球現有設施之外的補充算力存在於太空中，”George說，從經濟角度看，太空基礎設施最終可能比地面設施更具優勢。他還指出，SpaceX已經展示了部署此類系統的技術能力。"
+    },
+    {
+      "id": "mkt:019efb45-d84f-7dd8-b104-48a16f5a07dc",
+      "time": "2026-06-25 04:15:18",
+      "tags": [
+        "MKT News",
+        "MU.O",
+        "Impact bullish"
+      ],
+      "text": "Micron Technology (MU.O) CEO says the company plans to increase capital returns."
+    },
+    {
+      "id": "4953447",
+      "time": "2026-06-25 04:15:08",
+      "tags": [
+        "公司",
+        "觀點",
+        "焦點",
+        "國際"
+      ],
+      "text": "高盛計劃將派息從每股4.50美元提高至每股5美元。"
+    },
+    {
+      "id": "4953446",
+      "time": "2026-06-25 04:14:47",
+      "tags": [
+        "公司",
+        "其他",
+        "焦點",
+        "國際"
+      ],
+      "text": "美光科技：目前無法預測記憶體供應何時能趕上需求；預計緊張局面將持續到2027年之後。"
+    },
+    {
+      "id": "mkt:019efb44-74dd-7dd8-b104-43ded5273587",
+      "time": "2026-06-25 04:13:47",
+      "tags": [
+        "MKT News",
+        "Important",
+        "MU.O",
+        "Impact bullish"
+      ],
+      "text": "Micron Technology (MU.O) CEO said he cannot predict when memory supply will catch up to demand and expects the tight supply-demand balance to persist beyond 2027."
+    },
+    {
+      "id": "mkt:019efb43-dd9e-7dd8-b104-381cff8a8b7e",
+      "time": "2026-06-25 04:13:09",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "MU.O",
+        "Impact bullish"
+      ],
+      "text": "Micron Technology (MU.O) says R&D on next-generation DRAM and NAND nodes is progressing well and expects to begin mass production in H2 2027."
+    },
+    {
+      "id": "mkt:019efb43-bd4d-7dd8-b104-33d4f776e01b",
+      "time": "2026-06-25 04:13:01",
+      "tags": [
+        "MKT News",
+        "MU.O",
+        "Impact bullish"
+      ],
+      "text": "Micron Technology (MU.O) said the mass-production ramp of its 12-layer HBM4 is currently twice that of the 12-layer HBM3E; the company has delivered more than $1 bln in cumulative HBM4 revenue."
+    },
+    {
+      "id": "mkt:019efb43-80bf-7dd8-b104-2d44b1fba88d",
+      "time": "2026-06-25 04:12:45",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "AI Revolution",
+        "MU.O",
+        "Impact bullish",
+        "Nasdaq100",
+        "S&P500"
+      ],
+      "text": "【Micron posts strong results, rises nearly 10% after hours】Micron Technology said it expects fourth fiscal-quarter revenue of $50.0 bln +/- $1.0 bln, above analysts' average forecast of $43.58 bln, and attributed strength to continued demand for AI-related infrastructure. The company said generative AI growth has made HBM and similar products essential for large data centres, driving sharp price gains. Third-quarter revenue was $41.4 bln, beating expectations of $35.4 bln. Micron shares rose about 10% in after-hours trading."
+    },
+    {
+      "id": "4953445",
+      "time": "2026-06-25 04:11:44",
+      "tags": [
+        "公司"
+      ],
+      "text": "高通執行長：公司將擴大與 Hugging Face 的戰略合作關係。"
+    },
+    {
+      "id": "mkt:019efb42-3522-7dd8-b104-22cb8a360366",
+      "time": "2026-06-25 04:11:20",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "U.S. official says Trump will include language in a supplemental appropriations bill to allow year‑round sales of gasoline blended with a higher ethanol share."
+    },
+    {
+      "id": "4953444",
+      "time": "2026-06-25 04:10:53",
+      "tags": [
+        "其他"
+      ],
+      "text": "美光科技：下一代 DRAM 與 NAND 製程研發進展順利，按計劃將於 2027 年下半年啟動量產。"
+    },
+    {
+      "id": "te:markets:561640",
+      "time": "2026-06-25 04:10:28",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "Wall Street Closes Mixed Ahead of Micron Earnings — US equities closed mixed on Wednesday as losses in chipmakers ahead of Micron earnings weighed. The S&P 500 fell 0.1%, while the Nasdaq 100 lost 0.4%. Micron dropped 0.4% ahead of its earnings report, due after the bell, as investors focus on whether AI-driven demand can sustain the sector’s rally. The move followed a 13% plunge in the previous session amid growing concerns that capital expenditure by AI companies may have become excessive. Other semiconductor producers also traded lower, with Nvidia down 0.7%, and Intel shedding 0.3%. AI-related fundraising remained elevated, with SK Hynix reportedly seeking to raise $29 billion through a US listing, shortly after SpaceX’s record IPO. Other sectors found support from lower Treasury yields as prospects of restored energy exports from the Middle East eased inflation concerns. The Dow Jones outperformed, rising 182 points, aided by its exposure to traditional sectors, ahead of Alphabet replacing Verizon in the index on Monday."
+    },
+    {
+      "id": "4953443",
+      "time": "2026-06-25 04:10:25",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國官員：特朗普將在補充撥款法案中納入全年銷售高乙醇含量汽油的相關條款。"
+    },
+    {
+      "id": "4953442",
+      "time": "2026-06-25 04:10:08",
+      "tags": [
+        "其他"
+      ],
+      "text": "美光科技：HBM4 12 層堆疊晶片量產爬坡速度是 HBM3E 12 層堆疊的兩倍；HBM4 相關出貨營收已超 10 億美元。"
+    },
+    {
+      "id": "4953441",
+      "time": "2026-06-25 04:09:44",
+      "tags": [
+        "公司",
+        "觀點",
+        "焦點",
+        "國際"
+      ],
+      "text": "摩根大通將股息上調至每股 1.65 美元，計劃實施 500 億美元股票回購。"
+    },
+    {
+      "id": "4953440",
+      "time": "2026-06-25 04:09:21",
+      "tags": [
+        "市場"
+      ],
+      "text": "美光科技美股盤後漲超9%。"
+    },
+    {
+      "id": "mkt:019efb3f-bcc9-7dd8-b104-1f5a556ed58f",
+      "time": "2026-06-25 04:08:38",
+      "tags": [
+        "MKT News",
+        "Important",
+        "MU.O",
+        "Impact bullish"
+      ],
+      "text": "Micron Technology (MU.O) extended after-hours gains to 7.5%."
+    },
+    {
+      "id": "4953439",
+      "time": "2026-06-25 04:08:26",
+      "tags": [
+        "其他"
+      ],
+      "text": "美光科技：根據目前已簽署的戰略客戶協議，預計將獲得 220 億美元現金保證金及相關資金承諾。"
+    },
+    {
+      "id": "4953436",
+      "time": "2026-06-25 04:08:08",
+      "tags": [
+        "公司",
+        "其他",
+        "焦點",
+        "國際"
+      ],
+      "text": "美光科技：長期來看，我們計劃將全部富餘現金返還給股東。"
+    },
+    {
+      "id": "4953433",
+      "time": "2026-06-25 04:07:17",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "Hertz Global（HTZ）股價下跌41%，創該公司美國IPO以來最大單日跌幅。"
+    },
+    {
+      "id": "4953432",
+      "time": "2026-06-25 04:06:48",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "美光科技：我們給出的業績指引並未納入貿易或地緣政治局勢變化可能帶來的各類影響。"
+    },
+    {
+      "id": "4953431",
+      "time": "2026-06-25 04:06:35",
+      "tags": [
+        "公司"
+      ],
+      "text": "AI初創公司Mirendil按10億美元估值融資2億美元，英偉達、A16Z、Kleiner Perkins參與投資。"
+    },
+    {
+      "id": "mkt:019efb3d-7c1a-7dd8-b104-108fe077b372",
+      "time": "2026-06-25 04:06:11",
+      "tags": [
+        "MKT News",
+        "MU.O",
+        "Impact bullish"
+      ],
+      "text": "Micron Technology (MU.O) expects adjusted gross margin for the fiscal fourth quarter of about 86%, versus prior guidance of 83.6%."
+    },
+    {
+      "id": "4953430",
+      "time": "2026-06-25 04:05:42",
+      "tags": [
+        "其他"
+      ],
+      "text": "美光科技：受全領域人工智慧相關需求推動，晶片供應緊張局面預計將持續至 2027 年之後。"
+    },
+    {
+      "id": "4953429",
+      "time": "2026-06-25 04:05:28",
+      "tags": [
+        "市場"
+      ],
+      "text": "【美元指數24日上漲】衡量美元對六種主要貨幣的美元指數當天上漲0.2%，在匯市尾市收於101.611。截至紐約匯市尾市，1歐元兌換1.1355美元，低於前一交易日的1.1379美元；1英鎊兌換1.3162美元，低於前一交易日的1.3188美元。1美元兌換161.76日元，高於前一交易日的161.57日元；1美元兌換0.8124瑞士法郎，高於前一交易日的0.8100瑞士法郎；1美元兌換1.4237加元，高於前一交易日的1.4214加元；1美元兌換9.7714瑞典克朗，高於前一交易日的9.7466瑞典克朗。"
+    },
+    {
+      "id": "mkt:019efb3c-c59d-7dd8-b104-0a7747392473",
+      "time": "2026-06-25 04:05:24",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish",
+        "EURUSD",
+        "Impact bearish",
+        "USDJPY"
+      ],
+      "text": "【Dollar index rises 0.2% to 101.611】Dollar index (DXY), which measures the dollar against six major currencies, rose 0.2% to 101.611. At the New York close EUR/USD 1.1355 (prev. 1.1379); GBP/USD 1.3162 (prev. 1.3188); USD/JPY 161.76 (prev. 161.57); USD/CHF 0.8124 (prev. 0.8100); USD/CAD 1.4237 (prev. 1.4214); USD/SEK 9.7714 (prev. 9.7466)."
+    },
+    {
+      "id": "4953428",
+      "time": "2026-06-25 04:05:11",
+      "tags": [
+        "市場"
+      ],
+      "text": "【國際油價24日顯著下跌】截至當天收盤，紐約商品交易所8月交貨的輕質原油期貨價格下跌2.87美元，收於每桶70.34美元，跌幅為3.92%；8月交貨的倫敦布倫特原油期貨價格下跌3.34美元，收於每桶73.74美元，跌幅為4.33%。"
+    },
+    {
+      "id": "mkt:019efb3c-858e-7dd8-b104-06f4a27093f2",
+      "time": "2026-06-25 04:05:07",
+      "tags": [
+        "MKT News",
+        "MU.O",
+        "Impact bullish"
+      ],
+      "text": "Micron Technology (MU.O): fiscal Q3 operating cash flow was $25.39 billion."
+    },
+    {
+      "id": "mkt:019efb3c-5fd9-7dd8-b103-ff512dacf6f4",
+      "time": "2026-06-25 04:04:58",
+      "tags": [
+        "MKT News",
+        "MU.O"
+      ],
+      "text": "Micron Technology (MU.O) said it expects fourth fiscal quarter EPS of $30.73 ± $1.00."
+    },
+    {
+      "id": "4953427",
+      "time": "2026-06-25 04:04:17",
+      "tags": [
+        "央行",
+        "焦點",
+        "國際"
+      ],
+      "text": "美聯儲：最新壓力測試顯示，32 家大型銀行具備充足抵禦能力，即便遭遇嚴重經濟衰退仍可持續開展放貸業務。接受測試的銀行在假設情景下能夠承受超過7000億美元的損失，資本僅下降1.6%，仍然高於最低監管要求。"
+    },
+    {
+      "id": "4953426",
+      "time": "2026-06-25 04:03:30",
+      "tags": [
+        "其他"
+      ],
+      "text": "美光：客戶需求快速增長。"
+    },
+    {
+      "id": "mkt:019efb3a-d9d9-7dd8-b103-f667bffe3990",
+      "time": "2026-06-25 04:03:18",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "Chip Wars",
+        "MU.O",
+        "Impact bullish"
+      ],
+      "text": "Micron Technology (MU.O) reported fiscal 2026 third-quarter EPS of $24.67, versus $20.42 expected and $1.68 a year earlier."
+    },
+    {
+      "id": "mkt:019efb3a-4df2-7dd8-b103-eee5242e3594",
+      "time": "2026-06-25 04:02:42",
+      "tags": [
+        "MKT News",
+        "Important",
+        "MU.O",
+        "Impact bullish"
+      ],
+      "text": "Micron Technology (MU.O) forecasts fourth-quarter revenue of $50.0 bln, versus market consensus of $42.915 bln."
+    },
+    {
+      "id": "mkt:019efb3a-2c0c-7dd8-b103-e77ccc764620",
+      "time": "2026-06-25 04:02:33",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Wall Street (US)",
+        "MU.O",
+        "Impact bullish"
+      ],
+      "text": "U.S.-listed shares of Micron Technology (MU.O) rose more than 2% in after-hours trading."
+    },
+    {
+      "id": "mkt:019efb39-c19e-7dd8-b103-da4afb519287",
+      "time": "2026-06-25 04:02:06",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "Chip Wars",
+        "MU.O",
+        "Impact bullish"
+      ],
+      "text": "Micron Technology (MU.O) reported fiscal 2026 Q3 revenue of $41.456 bln, versus market expectation of $35.423 bln and $9.301 bln in the year-ago quarter."
+    },
+    {
+      "id": "mkt:019efb39-3497-7dd8-b103-d4ae6390fc13",
+      "time": "2026-06-25 04:01:30",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "S&P500",
+        "Impact bullish",
+        "Dow"
+      ],
+      "text": "Federal Reserve says banks included in its stress test would absorb more than $700bn of losses under the hypothetical scenario; capital falls only 1.6% and remains above minimum regulatory requirements."
+    },
+    {
+      "id": "mkt:019efb39-0594-7dd8-b103-ccb09c96486b",
+      "time": "2026-06-25 04:01:18",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Star Stocks",
+        "Microsoft",
+        "Alibaba",
+        "Market Themes",
+        "Magnificent 7",
+        "BABA.N",
+        "Impact bearish",
+        "MSFT.O",
+        "ORCL.N"
+      ],
+      "text": "【US close: major indexes mixed; Nasdaq Golden Dragon China Index down 1.7%】US stocks closed mixed on Wednesday: Dow Jones Industrial Average +0.36%, S&P 500 -0.09%, Nasdaq Composite -0.40%. Notable movers: SpaceX (SPCX.O) -1.0%, Microsoft (MSFT.O) -2.0%, Oracle (ORCL.N) -4.5%. The Nasdaq Golden Dragon China Index fell 1.77%; Alibaba (BABA.N) down about 3%, Bilibili (BILI.O) up over 3%."
+    },
+    {
+      "id": "4953425",
+      "time": "2026-06-25 04:01:16",
+      "tags": [
+        "公司",
+        "其他",
+        "焦點",
+        "國際"
+      ],
+      "text": "美光科技第三財季調整後營收414.6億美元，分析師預期356.9億美元。\n第三財季核心資料中心營收115.2億美元，分析師預期68億美元。\n第三財季雲端儲存營收137.7億美元，分析師預期106.9億美元。\n第三財季移動與客戶營收115.2億美元，分析師預期97.3億美元。\n第三財季調整後每股收益（EPS）為25.11美元，分析師預期20.49美元。\n第三財季調整後運營利潤336.8億美元，分析師預期278.6億美元。\n第三財季調整後毛利潤率84.9%，分析師預期81.9%。\n預計第四財季調整後營收490億-510億美元，分析師預期432.4億美元。\n預計第四財季調整後EPS為30-32美元，分析師預期25.31美元。"
+    },
+    {
+      "id": "4953424",
+      "time": "2026-06-25 04:00:48",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【美股收盤：三大股指集體漲跌不一】道指漲0.36%，標普500指數跌0.10%，納指跌0.46%。Strategy跌9.22%，阿波羅全球管理跌6.18%，黑石跌5.88%，羅賓漢跌5.83%，Builders FirstSource漲11.20%，Iqvia Holdings Inc.漲8.35%，查爾斯河實驗室漲8.30%。“七姐妹”方面：亞馬遜漲0.09%，谷歌跌0.40%，蘋果跌0.45%，英偉達跌0.54%，Meta Platforms跌0.79%，特斯拉跌1.64%，微軟跌2.33%。"
+    },
+    {
+      "id": "4953423",
+      "time": "2026-06-25 04:00:13",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "銀行透過美聯儲壓力測試，為股東分紅鋪平道路。"
+    },
+    {
+      "id": "4953422",
+      "time": "2026-06-25 04:00:02",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【納斯達克中國金龍指數收跌1.81%】金生遊樂跌14.84%，盛豐物流跌13.85%，海天網路跌9.77%，Tims中國跌9.38%，網易有道跌9.25%。"
+    },
+    {
+      "id": "mkt:019efb34-74ac-7dd8-b103-c41850c8a352",
+      "time": "2026-06-25 03:56:19",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "Brent",
+        "Impact bearish",
+        "WTI"
+      ],
+      "text": "【Global crude futures retreat to pre-conflict levels】Brent settled down $3.34 (-4.3%) at $73.74/bbl and U.S. crude fell $2.87 (-3.9%) to $70.34/bbl, returning to levels seen before the US‑Israel‑Iran conflict erupted as more previously idled tankers left the Strait of Hormuz and supply concerns eased. ING said positive signals from the Persian Gulf are boosting optimism about restored flows through the Strait of Hormuz; vessel transits have risen but remain well below pre‑war levels."
+    },
+    {
+      "id": "4953421",
+      "time": "2026-06-25 03:55:27",
+      "tags": [
+        "其他"
+      ],
+      "text": "輝瑞：董事會批准每股 0.43 美元季度現金股息。"
+    },
+    {
+      "id": "mkt:019efb33-68b3-7dd8-b103-bbce0be9766e",
+      "time": "2026-06-25 03:55:10",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "【Iran's foreign ministry spokesman says US military presence, interventionism blocking regional peace】On the 24th, Iran's foreign ministry spokesman Baghaei wrote on social media that so long as US military presence and interventionism persist, and occupation forces acting as US proxies continue waging unending wars with impunity and committing genocide and other crimes, true peace in the region will be impossible."
+    },
+    {
+      "id": "4953420",
+      "time": "2026-06-25 03:55:02",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗外交部發言人：美國軍事與干涉主義阻礙地區和平】當地時間24日，伊朗外交部發言人巴加埃在其個人社交媒體平臺上表示，只要美國的軍事與干涉主義持續存在，只要作為其代理人的佔領軍在完全免責的情況下繼續對本地區施加無休止的戰爭，並實施種族滅絕及其他罪行，本地區就不可能實現真正的和平。（央視新聞）"
+    },
+    {
+      "id": "te:economy:561639",
+      "time": "2026-06-25 03:54:55",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Argentina",
+        "Current Account",
+        "Importance 1"
+      ],
+      "text": "Argentina Current Account Deficit Narrows — Argentina posted a current account deficit of $1.651 billion in the first quarter of 2026, narrowing from a $5.158 billion gap a year earlier. The result reflected negative balances in the services account, at $4.028 billion, and primary income, at $4.676 billion, partially offset by a goods trade surplus of $6.339 billion and a secondary income surplus of $714 million. The year-on-year improvement was mainly supported by a $3.214 billion increase in goods exports, a $532 million reduction in the services deficit, and a $1.066 billion decline in goods imports. The secondary income account also rose by $354 million. Meanwhile, the primary income deficit widened by $1.658 billion compared with the same period last year."
+    },
+    {
+      "id": "4953419",
+      "time": "2026-06-25 03:54:01",
+      "tags": [
+        "市場"
+      ],
+      "text": "【比特幣再次跌破6萬美元關口 幾大支撐力量均現動搖】比特幣跌回6萬美元下方，重新喚起了過去兩年在加密貨幣市場基本上消失的一種擔憂：當散戶投資者失去興趣的時候，如果市場最大買家也受到壓力，會發生什麼。由於投資者對Michael Saylor旗下Strategy Inc.的融資機器日益擔憂，以及個人投資者更廣泛退場——其中許多人已將注意力和資金轉向人工智慧股票，週三比特幣跌破了一個受到密切關注的支撐位。“市場正在對MSTR和STRC進行整個的重新定價，”Monarq Asset Management管理合夥人Shiliang Tang表示。MSTR和STRC分別是Strategy普通股和優先股的股票程式碼。CoinGlass彙編的資料顯示，過去24小時，近8億美元加密貨幣多頭頭寸被強制平倉。Deribit資料顯示，這輪下跌發生在週五約100億美元比特幣期權的季度到期之前。"
+    },
+    {
+      "id": "mkt:019efb32-06ea-7dd8-b103-b0c4f940bc78",
+      "time": "2026-06-25 03:53:40",
+      "tags": [
+        "MKT News",
+        "Copper"
+      ],
+      "text": "Chile's state miner Codelco said its chairman said the company will begin evaluating investment projects and determine their priority."
+    },
+    {
+      "id": "mkt:019efb31-ab76-7dd8-b103-ab927c2ec8a6",
+      "time": "2026-06-25 03:53:16",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "A U.S. judge dismissed the Justice Department's lawsuit challenging sanctuary immigration policies in four New Jersey cities."
+    },
+    {
+      "id": "mkt:019efb30-e6f6-7dd8-b103-a5ab8e69a28a",
+      "time": "2026-06-25 03:52:26",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Iran says US officials' comments on MoU are 'contradictory'】On the 24th, Iran's foreign ministry spokesman Baghaei said on social media that US officials have never shown sincerity toward the Iranian people and that their comments on the memorandum of understanding are 'contradictory'. He said such remarks will not lessen Iranian public distrust and instead recall past US breaches of commitment. Baghaei urged the US to recognise the principle of 'reciprocal commitments', fulfil its obligations and refrain from interpreting the MoU in ways that contradict its text."
+    },
+    {
+      "id": "4953418",
+      "time": "2026-06-25 03:52:16",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗指責美官員涉諒解備忘錄宣告“相互矛盾”】當地時間24日，伊朗外交部發言人巴加埃在其個人社交媒體表示，美國政府在對待伊朗人民的行為上從未展現出誠意。巴加埃表示，美國官員關於該諒解備忘錄相互矛盾的言論，不僅不會減少伊朗民眾積累的不信任，反而只會讓人想起美國曾屢屢違約的記憶。美國政府必須認識到，“承諾對等”原則要求雙方履行各自義務，並避免對諒解備忘錄文字作出與其明確內容完全相悖的解釋。他表示，伊朗雖然有足夠的理由來懷疑，但卻仍帶著善意加入外交程序，並簽署了結束強加戰爭的諒解備忘錄。伊朗人清楚，敵人的敵意不會因為一份協議的簽署而結束，考慮到過去50年的經驗——特別是過去一年半的局勢發展，伊朗將保持警惕地走每一步。（央視新聞）"
+    },
+    {
+      "id": "4953417",
+      "time": "2026-06-25 03:52:01",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國國務卿魯比奧與德國外長舉行會談，討論了伊朗和霍爾木茲海峽。"
+    },
+    {
+      "id": "te:markets:561638",
+      "time": "2026-06-25 03:51:31",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "Microsoft Stock Price Hits 10-week Low — Microsoft shares decreased to 367.06 USD, the lowest since April 2026. Over the past 4 weeks, Microsoft lost 11.69%, and in the last 12 months, it decreased 25.37%."
+    },
+    {
+      "id": "mkt:019efb2e-c492-7dd8-b103-9cdd5c8d25e9",
+      "time": "2026-06-25 03:50:06",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "Market Regions",
+        "Japan & APAC",
+        "S&P500",
+        "Impact mixed",
+        "USDJPY"
+      ],
+      "text": "Federal Reserve to release annual bank stress test results in ten minutes; Bank of Japan Governor UEDA to attend an event in ten minutes."
+    },
+    {
+      "id": "mkt:019efb2e-353c-7dd8-b103-90f88791aa5f",
+      "time": "2026-06-25 03:49:29",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "According to The Information, General Atlantic is in talks to lead a financing round for SambaNova that would exceed $1bln and could close as early as next week."
+    },
+    {
+      "id": "4953415",
+      "time": "2026-06-25 03:48:59",
+      "tags": [
+        "市場"
+      ],
+      "text": "Cerebras Systems跌幅擴大至19%，跌破IPO發行價。"
+    },
+    {
+      "id": "mkt:019efb2d-0526-7dd8-b103-8aa28d2608ab",
+      "time": "2026-06-25 03:48:12",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "Intel-backed AI chipmaker SambaNova is targeting a $10 billion valuation — a fivefold increase — and plans to raise $800m–$1bn, The Information reports."
+    },
+    {
+      "id": "4953412",
+      "time": "2026-06-25 03:47:15",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：英特爾投資的 AI 晶片企業 Sambanova 估值將增至五倍，達到 100 億美元。"
+    },
+    {
+      "id": "4953410",
+      "time": "2026-06-25 03:44:58",
+      "tags": [
+        "國際"
+      ],
+      "text": "【頁岩油高管稱特朗普關於伊朗的言論引發能源市場混亂】美國頁岩油高管表示，白宮關於伊朗戰爭的不規律溝通正在能源市場引發混亂，並使得對未來幾個月的規劃幾乎變得不可能。行業高管對特朗普政府關於中東衝突前後矛盾的政策宣告表示擔憂，一位受訪者表示：“市場能夠給風險定價，但無法給一條推文定價。”大多數高管認為，即使敵對行動結束且霍爾木茲海峽的流量增加，市場波動仍將持續。一位受訪者表示：“在當前伊朗戰爭的局勢下，很難有任何把握地預測原油價格。”"
+    },
+    {
+      "id": "mkt:019efb27-f462-7dd8-b103-83464d26e5c3",
+      "time": "2026-06-25 03:42:40",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Brent",
+        "Impact bullish",
+        "WTI"
+      ],
+      "text": "【US energy secretary warns EU methane rules will inflict \"unnecessary pain\" on Europe】US Energy Secretary Wright warned the EU that if it refuses to relax methane regulations, US gas supplies will \"flow to other regions.\" He said: \"If this regulation is not meaningfully reformed, it will cause serious pain for Europe that is entirely unnecessary,\" and added the issue is not about escalation but that \"our energy will go somewhere else.\" EU energy commissioner Dan Jørgensen has vowed to resist pressure from the US and other LNG exporters and to press ahead with revisions aimed at curbing methane emissions. The US has previously warned the regulation's complexity and potential fines could threaten trade. EU energy ministers will meet in Luxembourg on Friday to discuss the rules."
+    },
+    {
+      "id": "mkt:019efb24-b052-7dd8-b103-7feb60de4fc8",
+      "time": "2026-06-25 03:39:06",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Alibaba",
+        "BABA.N",
+        "Impact bearish"
+      ],
+      "text": "Alibaba (BABA.N) shares slipped, losses widened to 3%."
+    },
+    {
+      "id": "4953405",
+      "time": "2026-06-25 03:39:02",
+      "tags": [
+        "其他"
+      ],
+      "text": "阿里巴巴短線下挫，跌幅擴大至3%。"
+    },
+    {
+      "id": "mkt:019efb21-11bb-7dd8-b103-77d65011cae4",
+      "time": "2026-06-25 03:35:08",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Fox News reported the funds will also be used for verification and validation work."
+    },
+    {
+      "id": "4953403",
+      "time": "2026-06-25 03:34:17",
+      "tags": [
+        "其他"
+      ],
+      "text": "據福克斯新聞： 這筆資金還將用於核查與核驗工作。"
+    },
+    {
+      "id": "4953399",
+      "time": "2026-06-25 03:32:15",
+      "tags": [
+        "國際"
+      ],
+      "text": "據福克斯新聞：美國總統特朗普尋求6.72億美元撥款，用於移除伊朗核材料。"
+    },
+    {
+      "id": "mkt:019efb1e-6611-7dd8-b103-6a4349d015c8",
+      "time": "2026-06-25 03:32:13",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Fox News reports President Trump is seeking $672 mln in funding to remove Iranian nuclear material."
+    },
+    {
+      "id": "mkt:019efb1e-4d53-7dd8-b103-673a651559c5",
+      "time": "2026-06-25 03:32:07",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish",
+        "WTI",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "【House Speaker Johnson to meet Trump after president refuses to sign housing bill】House Speaker Johnson will meet President Trump tomorrow to address a legislative impasse after Trump refused to sign a housing bill, saying he will sign it only after Congress approves the SAVE America Act, which he framed as necessary for election integrity. Johnson earlier met with Defense Secretary Hegseth to discuss a supplemental defense appropriations bill; the meetings appear to confirm reports the White House will seek a new congressional spending package to pay for a war with Iran."
+    },
+    {
+      "id": "mkt:019efb1d-08c3-7dd8-b103-598f98d784b8",
+      "time": "2026-06-25 03:30:44",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Punchbowl reports the Pentagon is expected to submit a supplemental spending request to Congress today for about $80 bln to replenish munitions supplies and bolster Pentagon funding."
+    },
     {
       "id": "mkt:019efb1c-4ec2-7dd8-b103-518d42a0a5c9",
       "time": "2026-06-25 03:29:56",
@@ -154598,487 +155317,6 @@
         "國際"
       ],
       "text": "伊朗首席談判代表卡利巴夫：霍爾木茲海峽不會恢復戰前狀態，但這不意味著我們會違反國際法或破壞海上航行。"
-    },
-    {
-      "id": "4941834",
-      "time": "2026-06-18 04:15:07",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗議會議長卡利巴夫：談判帶來的收益，遠超我們透過針對黎巴嫩實施報復打擊所能取得的成效。"
-    },
-    {
-      "id": "te:markets:559819",
-      "time": "2026-06-18 04:11:07",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Stock Market",
-        "Importance 2"
-      ],
-      "text": "US Stocks Retreat on Hawkish Fed Outlook — US stock closed lower after the Federal Reserve held interest rates unchanged and signaled the possibility of rate hikes this year. The S&P 500 fell 1.2% and the Nasdaq 100 dropped 1%, while the Dow lost 507 points from its record high. The Summary of Economic Projections from the Fed's June meeting showed that half of the FOMC members projected one rate hike or more this year, as underlying inflation gauges pointed to rising prices and employment data remained robust despite economic shocks stemming from the war in Iran. Chairman Warsh refrained from posting a dot in the projections, reflecting his intention to change the Fed's monetary framework. Meanwhile, Iran and the US remained on track to sign their agreement. Magnificent Seven stocks led the losses amid the selloff in Treasuries, with Meta down 4.2%, Microsoft losing 3.6%, Alphabet shedding 2.4%, and Amazon dropping 3.1%. Chipmakers extended their rally, with Micron up 2.2%, Marvell gaining 3.9%, and Intel advancing 3.5%."
-    },
-    {
-      "id": "4941833",
-      "time": "2026-06-18 04:07:33",
-      "tags": [
-        "國際"
-      ],
-      "text": "日本首相高市早苗將於7月初訪問印度阿薩姆邦，同行人員包括五十多家日本企業及機構的負責人。"
-    },
-    {
-      "id": "mkt:019ed731-9292-7dd8-b064-104e32eb9832",
-      "time": "2026-06-18 04:06:50",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Wall Street (US)",
-        "Dow",
-        "Impact bearish",
-        "S&P500",
-        "Nasdaq100"
-      ],
-      "text": "On Wednesday, June 17, the Dow Jones Industrial Average closed down 506.51 points, or 0.97%, at 51,493.16; the S&P 500 closed down 91.22 points, or 1.21%, at 7,420.13; the Nasdaq Composite closed down 354.69 points, or 1.34%, at 26,021.66."
-    },
-    {
-      "id": "4941832",
-      "time": "2026-06-18 04:04:54",
-      "tags": [
-        "公司"
-      ],
-      "text": "【蘋果籌備第二代iPhone Air，計劃2027年春季推出】蘋果公司正在研發第二代iPhone Air，定於2027年春季釋出，旨在提升這款機型的產品吸引力。新款機型現有原型機新增一枚後置超廣角攝像頭，同時蘋果正著力最佳化裝置續航表現。升級後的iPhone Air將搭載定製版A20 Pro晶片，蘋果認為影像系統與續航是該機型兩大核心升級方向。"
-    },
-    {
-      "id": "4941831",
-      "time": "2026-06-18 04:03:44",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "特朗普媒體科技集團：傑夫·伍德伯裡出任總裁兼營運長。"
-    },
-    {
-      "id": "4941830",
-      "time": "2026-06-18 04:03:21",
-      "tags": [
-        "其他"
-      ],
-      "text": "SpaceX：選舉魯洛夫·博塔為獨立普通股董事，於2026年6月16日生效。"
-    },
-    {
-      "id": "4941829",
-      "time": "2026-06-18 04:01:27",
-      "tags": [
-        "市場"
-      ],
-      "text": "SpaceX股價下跌4.9%，為上市以來首次走低。"
-    },
-    {
-      "id": "mkt:019ed72c-5ed1-7dd8-b064-080cd03bd50e",
-      "time": "2026-06-18 04:01:09",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "Star Stocks",
-        "NVIDIA",
-        "Market Themes",
-        "Magnificent 7",
-        "S&P500",
-        "Impact bearish",
-        "Dow",
-        "Nasdaq100"
-      ],
-      "text": "【US close: Fed's hawkish tilt; all three major indexes fall】The Fed's rate-setting stance skewed hawkish, pressuring US equities. The Dow fell 0.97%, the S&P 500 dropped 1.2% and the Nasdaq slid 1.3%. SpaceX (SPCX.O) -5%, NVIDIA (NVDA.O) -1%, Western Digital (WDC.O) +4%. The Nasdaq Golden Dragon China Index fell 1.1%; Li Auto (LI.O) -3%."
-    },
-    {
-      "id": "4941828",
-      "time": "2026-06-18 04:00:48",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "【美股收盤：三大股指集體收跌】道指跌0.96%，標普500指數跌1.19%，納指跌1.37%。Carvana Co.跌10.39%，回聲星通訊跌7.64%，艾可菲跌7.53%，特許通訊跌6.97%，APP AppLovin跌6.90%。“七姐妹”方面：蘋果跌1.13%，英偉達跌1.32%，特斯拉跌2.05%，谷歌跌2.43%，亞馬遜跌3.46%，微軟跌3.80%，Meta Platforms跌5.31%。"
-    },
-    {
-      "id": "4941827",
-      "time": "2026-06-18 04:00:02",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "【納斯達克中國金龍指數收跌1.21%】海天網路跌15.49%，新氧跌10.98%，迅雷跌9.46%，億咖通科技跌6.97%，逸仙電商跌5.56%。"
-    },
-    {
-      "id": "4941826",
-      "time": "2026-06-18 03:58:59",
-      "tags": [
-        "市場",
-        "央行",
-        "國際"
-      ],
-      "text": "【美聯儲立場偏鷹提振加息押注 交易員認為到10月加息機率為100%】短期美國國債收益率跳升，因美聯儲官員暗示他們預計未來數月會加息，促使交易員預計10月底前加息的機率為100%。在週三決策公佈後，對央行短期政策變化尤為敏感的2年期美國國債收益率上漲14個基點，報4.19%。這是凱文·沃什擔任主席後的首次決策。貨幣市場顯示，交易員目前認為到9月加息的機率較高，到10月加息機率為100%。"
-    },
-    {
-      "id": "mkt:019ed72a-2af0-7dd8-b064-0569aef335c3",
-      "time": "2026-06-18 03:58:45",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Apple",
-        "Market Themes",
-        "Magnificent 7",
-        "AAPL.O"
-      ],
-      "text": "Apple (AAPL.O) is preparing a second-generation iPhone Air for a spring 2027 release. Prototypes include a second rear camera and an upgraded battery."
-    },
-    {
-      "id": "mkt:019ed729-98eb-7dd8-b063-fb1411d64fb7",
-      "time": "2026-06-18 03:58:07",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "XAUUSD",
-        "Impact bullish",
-        "DXY",
-        "Impact mixed",
-        "US10Y"
-      ],
-      "text": "【Wosh rejects forward guidance, avoids rate-path commitments as he reshapes Fed communication】At his first press conference as Fed chair, Wosh announced reforms including multiple task forces to broaden data collection and review the Fed’s statistical indicators. He repeatedly refused to provide forward guidance and declined to answer questions on the future path of interest rates. He did not submit a personal rate projection to the dot plot and said he will not comment on any market price moves during the press conference. Core message: reduce policy signaling to markets, avoid pre-committing to a rate path, and focus on institutional, data and communication reforms at the Fed."
-    },
-    {
-      "id": "4941825",
-      "time": "2026-06-18 03:57:29",
-      "tags": [
-        "其他"
-      ],
-      "text": "蘋果籌備第二代iPhone Air，計劃2027年春季推出。iPhone Air樣機新增後置第二顆攝像頭，電池配置同步升級。"
-    },
-    {
-      "id": "mkt:019ed726-9b57-7dd8-b063-f20a7e85d8f8",
-      "time": "2026-06-18 03:54:51",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "DXY",
-        "Impact bullish",
-        "US10Y",
-        "EURUSD",
-        "Impact bearish"
-      ],
-      "text": "Markets are fully pricing in two Federal Reserve rate hikes by end‑Q1 2027."
-    },
-    {
-      "id": "4941824",
-      "time": "2026-06-18 03:53:58",
-      "tags": [
-        "市場"
-      ],
-      "text": "加元兌美元下跌0.9%，報1美元兌1.4122加元，創七個月新低。"
-    },
-    {
-      "id": "4941823",
-      "time": "2026-06-18 03:53:36",
-      "tags": [
-        "央行",
-        "焦點",
-        "國際"
-      ],
-      "text": "交易員已充分預期美聯儲將在2027年第一季度末之前加息兩次。"
-    },
-    {
-      "id": "te:markets:559818",
-      "time": "2026-06-18 03:53:31",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Canada",
-        "Currency",
-        "Importance 1"
-      ],
-      "text": "Canadian Dollar Hits 7-Month Low — The Canadian dollar weakened to around 1.41 per USD following the Fed's latest policy decision, hovering near a seven-month low. As widely expected, the Federal Reserve left interest rates unchanged. However, its projections were viewed as more hawkish than anticipated, with roughly half of FOMC members expecting at least one rate hike this year. The Fed also sharply raised its inflation forecasts, boosting the appeal of US assets and supporting the US dollar. Meanwhile, the BoC kept its key interest rate unchanged at 2.25% at its latest meeting. The central bank said uncertainty remains elevated amid conflict in the Middle East and US tariff proposals, but reiterated that it stands ready to act if needed and will not allow high energy prices to trigger persistent inflation. Investors largely expect the BoC to raise borrowing costs by 25 basis points in December."
-    },
-    {
-      "id": "4941822",
-      "time": "2026-06-18 03:51:31",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗議會議長卡利巴夫：如果本國民眾沒有走上街頭（表達愛國支援），我們根本無法以如此強硬的姿態與對手談判。"
-    },
-    {
-      "id": "4941821",
-      "time": "2026-06-18 03:50:28",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "伊朗議會議長卡利巴夫：當年伊核協議談判期間我就表態，只有談判本身能成為一種抵抗與鬥爭方式，我才會支援對話磋商。"
-    },
-    {
-      "id": "4941820",
-      "time": "2026-06-18 03:49:41",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗議會議長卡利巴夫：（此前的）停火協議生效後，美方仍在波斯灣採取挑釁行動，我方當即予以回擊。最近一例就是美軍直升機相關衝突事件。另有兩艘試圖穿越霍爾木茲海峽的敵方軍艦遭打擊，艦體燃起大火，衛星影像也證實了這一情況。除此之外，所有起飛敵方戰機的他國機場均遭到我方打擊。以上所有行動，都是我們同步開展談判期間發生的。"
-    },
-    {
-      "id": "4941819",
-      "time": "2026-06-18 03:47:03",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "伊朗議會議長卡利巴夫：如果沒有談判，我們就無法實現我們的目標。我們透過談判獲得的成果，是透過軍事行動所尋求實現目標的許多倍——多到兩者甚至無法相提並論。"
-    },
-    {
-      "id": "4941818",
-      "time": "2026-06-18 03:46:25",
-      "tags": [
-        "其他"
-      ],
-      "text": "墨西哥比索跌幅超1%。"
-    },
-    {
-      "id": "4941817",
-      "time": "2026-06-18 03:45:54",
-      "tags": [
-        "央行",
-        "焦點",
-        "國際"
-      ],
-      "text": "【美聯儲主席沃什首次新聞釋出會要點總結】\n1、 溝通框架重塑：拋棄前瞻指引，淡化點陣圖。\n這是本次釋出會最核心的變革訊號，沃什正在實質性推進其“少說話、多思考”的理念。\n正式拋棄前瞻指引：沃什明確表示美聯儲已經放棄了前瞻指引，承認該工具不再適合當前形勢。他無法對未來的具體行動提供任何前瞻指引。\n點陣圖失效：他認為提供點陣圖對執行政策毫無幫助，FOMC並不認為自己受利率預測的約束。他本人在今天也未提供點陣圖預測。\n調整新聞釋出會：他認為新聞釋出會是有用的溝通方式，但未來對其進行某些調整將是有價值的。\n新溝通框架預期：如果年底前披露新版溝通框架，將不足為奇。\n\n2、 通脹目標與應對：堅守2%目標，防範第二輪效應。\n堅守2%目標：2%的通脹目標是美聯儲的長期目標，只要未實現，就沒有理由重新評估該目標。美聯儲承諾將解決長達五年的通脹偏離問題。\n通脹歸因與應對：美聯儲無法對特定價格（如能源等供給衝擊）產生顯著影響，其核心工作是確保不會出現“第二輪價格效應”。\n資料來源缺陷：他指出目前美聯儲依賴的大多數資料來源自過時的調查方式，這也是未來需要改革的地方。\n\n3、 制度改革：成立五大特別工作組。\n為應對當前挑戰，沃什宣佈任命五個貨幣政策領域的特別工作組，並預期它們在年底前完成大部分工作：\n溝通工作組：圍繞經濟預期概要（SEP）的調整提供建議。\n資產負債表工作組：評估合適的儲備職責。\n資料來源工作組：解決資料滯後問題。\n生產力工作組：專門審查人工智慧（AI）對生產力的影響。\n就業工作組：聚焦勞動力市場動態。(注：通脹工作組將專門檢查通脹的驅動因素)\n\n4、獨立性與外部關係。\n捍衛獨立性：沃什強調美聯儲絕不會將決策權轉交給任何外部人。\n與政府溝通：他透露迄今已與美國財長貝森特有過三次共進早餐的經歷。\n內部治理：他透露已與美聯儲監察長會面，後者將在今年夏季圍繞聯儲大樓翻修問題釋出報告。\n市場定價：他強調當市場對未來的實時資料做出反應時，表現是最佳的，市場價格本身可能是最重要的參考資訊。"
-    },
-    {
-      "id": "mkt:019ed71e-1560-7dd8-b063-eb500a8ded18",
-      "time": "2026-06-18 03:45:33",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)"
-      ],
-      "text": "According to the Wall Street Journal, Federal Reserve Chair Kevin Warsh's first press conference was slightly shorter than usual."
-    },
-    {
-      "id": "mkt:019ed718-385c-7dd8-b063-e592dde6eca1",
-      "time": "2026-06-18 03:39:09",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Precious Metals"
-      ],
-      "text": "Spot silver fell below $67/oz, down 4.32% intraday."
-    },
-    {
-      "id": "4941816",
-      "time": "2026-06-18 03:39:08",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "現貨白銀失守67美元/盎司，日內跌4.29%。"
-    },
-    {
-      "id": "4941815",
-      "time": "2026-06-18 03:39:07",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "現貨黃金失守4220美元/盎司，日內跌2.57%。"
-    },
-    {
-      "id": "4941814",
-      "time": "2026-06-18 03:38:29",
-      "tags": [
-        "市場"
-      ],
-      "text": "鈀金期貨日內跌4%，現報1315.50美元/盎司。"
-    },
-    {
-      "id": "4941813",
-      "time": "2026-06-18 03:38:18",
-      "tags": [
-        "市場"
-      ],
-      "text": "紐約期銀日內跌4%，現報67.69美元/盎司。"
-    },
-    {
-      "id": "4941812",
-      "time": "2026-06-18 03:38:06",
-      "tags": [
-        "市場"
-      ],
-      "text": "歐元兌美元跌逾1%，觸及日內低點1.1483。"
-    },
-    {
-      "id": "4941811",
-      "time": "2026-06-18 03:38:03",
-      "tags": [
-        "市場"
-      ],
-      "text": "現貨白銀日內跌4%，現報67.17美元/盎司。"
-    },
-    {
-      "id": "mkt:019ed716-3370-7dd8-b063-db59b724739c",
-      "time": "2026-06-18 03:36:56",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "【Israeli military says it struck Hezbollah rocket launch site】Israeli military said it recently conducted an airstrike that destroyed a Hezbollah rocket launch site it says had been used to fire rockets at Israeli forces in southern Lebanon. The military said Hezbollah fired multiple rockets at its troops earlier; some were intercepted and the remainder fell nearby with no injuries reported."
-    },
-    {
-      "id": "4941810",
-      "time": "2026-06-18 03:36:25",
-      "tags": [
-        "國際"
-      ],
-      "text": "【以軍稱空襲一處黎真主黨火箭彈陣地】當地時間17日晚間，以色列國防軍表示，不久前其空襲並摧毀了一處真主黨火箭彈發射陣地。以軍稱該陣地早些時候被用來向黎南部的以色列軍隊發射火箭彈。此前，以軍稱真主黨武裝人員向黎南部的以軍部隊發射多枚火箭彈。其中部分被以軍攔截，其餘則落入部隊附近地區，未造成人員傷亡。（央視新聞）"
-    },
-    {
-      "id": "4941809",
-      "time": "2026-06-18 03:35:12",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "【美股三大指數均跌超1%】道指跌1.00%，現報51479.328點；納指跌1.21%，現報26058.257點；標普500指數跌1.23%，現報7419.210點。"
-    },
-    {
-      "id": "mkt:019ed713-eea1-7dd8-b063-d19272c9afae",
-      "time": "2026-06-18 03:34:28",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Wall Street (US)",
-        "Nasdaq100",
-        "Impact bearish",
-        "Dow",
-        "S&P500"
-      ],
-      "text": "Nasdaq-100 hit an intraday low; Dow Jones Industrial Average down nearly 1%; S&P 500 down 1.2%."
-    },
-    {
-      "id": "4941808",
-      "time": "2026-06-18 03:33:58",
-      "tags": [
-        "市場"
-      ],
-      "text": "納斯達克100指數跌至當日低點，下跌0.7%。"
-    },
-    {
-      "id": "4941807",
-      "time": "2026-06-18 03:33:28",
-      "tags": [
-        "市場"
-      ],
-      "text": "達美航空股價放量小幅下跌，最新下跌1%，報每股82.18美元。"
-    },
-    {
-      "id": "mkt:019ed712-f29d-7dd8-b063-cb58b6a1d127",
-      "time": "2026-06-18 03:33:23",
-      "tags": [
-        "MKT News",
-        "Important",
-        "USDJPY",
-        "Impact bullish",
-        "DXY",
-        "XAUUSD",
-        "Impact bearish"
-      ],
-      "text": "USD/JPY climbed to its strongest since July 2024, trading at 160.75."
-    },
-    {
-      "id": "mkt:019ed712-6788-7dd8-b063-c48d6f0b993a",
-      "time": "2026-06-18 03:32:47",
-      "tags": [
-        "MKT News",
-        "DXY",
-        "Impact bullish",
-        "US10Y",
-        "Hang Seng Index",
-        "Impact bearish"
-      ],
-      "text": "Emerging-market stock index erased gains as the Fed turned hawkish."
-    },
-    {
-      "id": "4941806",
-      "time": "2026-06-18 03:32:30",
-      "tags": [
-        "市場"
-      ],
-      "text": "日元兌美元匯率跌至2024年7月以來的最低水平。"
-    },
-    {
-      "id": "mkt:019ed712-116a-7dd8-b063-b8ab8a59b12b",
-      "time": "2026-06-18 03:32:25",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "DXY",
-        "Impact bullish",
-        "US10Y",
-        "Impact bearish",
-        "EURUSD"
-      ],
-      "text": "【Asked if cuts were discussed, Kevin Warsh said 'only one proposal on the table'】Asked whether Fed officials had discussed rate cuts at the meeting through Wednesday, Fed Chair Kevin Warsh said \"there was only one proposal on the table\" and \"no discussion of any other proposals.\" He said officials debated a single core issue vigorously and ultimately reached agreement. The Federal Reserve left the federal funds target range unchanged at 3.50%-3.75% in a unanimous vote."
-    },
-    {
-      "id": "4941805",
-      "time": "2026-06-18 03:32:14",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "【伊朗公佈美伊臨時協議完整文字】伊朗公佈美伊臨時協議完整文字，具體內容如下：\n1. 伊朗與美國承諾互不干涉對方內政；\n2. 雙方約定60日內達成最終協議，談判期限可延長；\n3. 伊朗重申絕不研發、獲取核武器；\n4. 美伊雙方同意透過共同認可的機制解決濃縮核材料庫存處置問題；\n5. 所有濃縮核材料的稀釋處理工作均在國際原子能機構監督下開展；\n6. 談判期間伊朗維持現有核計劃規模不變；\n7. 美方承諾談判期間不對伊朗新增制裁，不在該地區增派軍事力量；\n8. 美方承諾在最終協議框架內，按照約定時間表全面解除對伊所有制裁；\n9. 美方立即解除對伊朗海上封鎖，計劃30日內完全撤銷封鎖措施；\n10. 霍爾木茲海峽商業航運即刻恢復，運力迴歸戰前水平；\n11. 伊朗將與阿曼合作，共同負責霍爾木茲海峽後續管理與海事服務事務；\n12. 伊朗保障波斯灣至阿曼灣之間商業船舶安全通行；\n13. 前60天內商業船舶通行免收相關費用；\n14. 航運常態化推進工作同步開展水雷清除及各類航道技術障礙清理作業；\n15. 協議簽署後美方立刻發放豁免許可，允許伊朗出口原油、石化產品、衍生品及配套相關服務；\n16. 根據本諒解備忘錄，美方解凍伊朗被凍結資產並允許伊朗動用該筆資金；\n17. 美伊將在談判期間商定解凍凍結資產的執行機制；\n18. 美國聯合地區合作伙伴推出總額至少3000億美元的伊朗經濟重建計劃；\n19. 上述3000億美元重建計劃的落地細則，將作為60日內最終協議的組成部分敲定；\n20. 本協議有望促成數十年來美伊規模最大的外交與經濟關係重啟。"
-    },
-    {
-      "id": "mkt:019ed711-4938-7dd8-b063-b68ea5148740",
-      "time": "2026-06-18 03:31:34",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Macro & Rates",
-        "Treasury Yields",
-        "DXY",
-        "Impact bullish",
-        "S&P500",
-        "Impact bearish",
-        "US10Y"
-      ],
-      "text": "U.S. 2-year Treasury yield rose to 4.20%, the highest since February 2025."
-    },
-    {
-      "id": "4941804",
-      "time": "2026-06-18 03:31:19",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "美國兩年期國債收益率升至4.20%，為2025年2月以來最高水平。"
-    },
-    {
-      "id": "mkt:019ed710-a2ce-7dd8-b063-aee2a290a591",
-      "time": "2026-06-18 03:30:52",
-      "tags": [
-        "MKT News",
-        "EURUSD",
-        "Impact bearish"
-      ],
-      "text": "EUR/USD is down 1.00% intraday at 1.1492."
     }
   ]
 }
