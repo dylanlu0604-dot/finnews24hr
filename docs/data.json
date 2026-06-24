@@ -1,7 +1,105 @@
 {
-  "updated": "2026-06-24 12:25:48",
-  "count": 17351,
+  "updated": "2026-06-24 12:29:47",
+  "count": 17356,
   "items": [
+    {
+      "id": "4951738",
+      "time": "2026-06-24 12:28:40",
+      "tags": [
+        "觀點"
+      ],
+      "text": "傑富瑞將摩根大通目標價從325美元上調至340美元。"
+    },
+    {
+      "id": "4951737",
+      "time": "2026-06-24 12:28:23",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：位元組跳動尋求200億美元的史上最大規模海外貸款。"
+    },
+    {
+      "id": "mkt:019ef7e2-4905-7dd8-b0eb-b07a2802a912",
+      "time": "2026-06-24 12:27:42",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Reserve Bank of India governor said FX market volatility has remained orderly after the central bank took measures to curb speculative activity."
+    },
+    {
+      "id": "mkt:019ef7e2-0183-7dd8-b0eb-a94d011eca67",
+      "time": "2026-06-24 12:27:24",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Reserve Bank of India governor said measures to facilitate investment are being prepared."
+    },
+    {
+      "id": "4951736",
+      "time": "2026-06-24 12:27:14",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "印度央行行長：一系列便利投資的措施正在籌備中。"
+    },
+    {
+      "id": "mkt:019ef7e1-73df-7dd8-b0eb-a57cc4c3dd95",
+      "time": "2026-06-24 12:26:48",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Reserve Bank of India governor said inclusion of Indian bonds in the Bloomberg index would be positive."
+    },
+    {
+      "id": "4951735",
+      "time": "2026-06-24 12:26:24",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "印度央行行長：若印度債券納入彭博指數，將是一件好事。"
+    },
+    {
+      "id": "4951734",
+      "time": "2026-06-24 12:26:06",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "印度央行行長：必須確保外匯市場不出現過度投機行為。"
+    },
+    {
+      "id": "mkt:019ef7e0-d21d-7dd8-b0eb-9b3bebb3a8ef",
+      "time": "2026-06-24 12:26:06",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "DXY",
+        "Impact bearish",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "【Westpac: Middle East supply shock broadening second‑round inflation; still expects RBA hike in August】After Wednesday's CPI release, Westpac kept its forecast that the Reserve Bank of Australia (RBA) will raise rates in August. Westpac said May headline CPI undershot expectations mainly due to falls in travel, clothing and recreation prices that are largely seasonal, and this does not change its view that underlying inflationary pressure is intensifying. The bank said May data more strongly signals a widening second‑round effect from Middle East supply shocks: rising costs for fuel, transport, plastics and chemical inputs are transmitting beyond energy‑related goods. Westpac warned wage‑cost pressure in H2 2026 could further lift inflation, especially in market‑based services. Policy supports, including fuel excise relief, are expected to be withdrawn gradually over coming months, keeping inflation risks alive beyond the August monetary policy meeting."
+    },
+    {
+      "id": "4951733",
+      "time": "2026-06-24 12:25:58",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "印度央行行長：未對盧比匯率設定任何目標水平；應讓市場力量決定盧比匯率水平，干預舉措旨在確保外匯市場有序執行。"
+    },
+    {
+      "id": "4951732",
+      "time": "2026-06-24 12:25:41",
+      "tags": [
+        "其他"
+      ],
+      "text": "【李家超：在廣東和福建養老的長者下月起可選擇將現金津貼匯入內地賬戶】今日（24日），香港特區行政長官李家超與多位在福建生活的香港長者在當地酒樓茶聚，瞭解他們在福建養老的生活。 李家超指出，目前特區政府推行“福建計劃”，為遷往福建養老的合資格香港長者提供支援。部分參與今天會面的長者正是“福建計劃”的受惠者。李家超表示，很高興聽到長者們表示，特區政府發放的每月現金津貼有效改善了他們的退休生活水平，大家在福建都過得舒適愉快。 李家超表示，他在去年《施政報告》中提出，特區政府將最佳化可攜現金援助的發放安排，容許在廣東省和福建省養老的香港受惠長者，選擇由特區政府將款項直接匯入其內地指定銀行賬戶。李家超特意告訴在場的長者，這項新服務即將於下月推出，相信能進一步方便長者領取津貼，讓退休生活更加安心。"
+    },
     {
       "id": "mkt:019ef7de-782e-7dd8-b0eb-90ed603e8f0c",
       "time": "2026-06-24 12:23:32",
@@ -158815,56 +158913,6 @@
         "國際"
       ],
       "text": "【大眾汽車要求各方提交發動機業務密封最終報價】英國金融時報援引不願具名知情人士訊息稱，大眾汽車已通知三家收購財團，於下週提交密封最終報價，競購其估值100億美元的發動機業務板塊。上述收購財團背後投資方包括歐洲富豪家族，以及卡達、加拿大資本。此前EQT聯合保時捷控股、卡達投資局參與競標，市場擔憂EQT具備不公平競爭優勢，大眾此舉意在化解相關顧慮。大眾汽車、保時捷控股及EQT均不予置評。"
-    },
-    {
-      "id": "mkt:019ed3d7-44e8-7dd8-b041-d1f0b0bde9c7",
-      "time": "2026-06-17 12:29:20",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Market sources: Foxconn is teaming with French AI firm Bull to deploy an NVIDIA Vera Rubin NVL72 platform in Europe."
-    },
-    {
-      "id": "4939956",
-      "time": "2026-06-17 12:27:51",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "韓國綜合股價指數轉升；上漲0.8%，報8793.52點。"
-    },
-    {
-      "id": "4939955",
-      "time": "2026-06-17 12:27:41",
-      "tags": [
-        "國際"
-      ],
-      "text": "印度國家證券交易所（NSE）今日將向印度證券交易委員會（SEBI）提交印度IPO申請檔案。"
-    },
-    {
-      "id": "4939954",
-      "time": "2026-06-17 12:26:47",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "【伊朗央行稱美應履行解凍伊資產承諾】據伊朗塔斯尼姆通訊社6月16日報道，伊朗中央銀行行長阿卜杜勒納賽爾·赫馬提在接受該媒體採訪時表示，伊朗與美國簽訂的諒解備忘錄明確規定了美國在解凍伊朗資產方面的義務，且這些義務具有清晰性和可執行性，美國方面將被要求履行其承諾。赫馬提還強調，在諒解備忘錄開始執行後，伊朗將進行必要的核查，以驗證資產是否真正解凍並可實際使用。"
-    },
-    {
-      "id": "mkt:019ed3d4-e4ad-7dd8-b041-ced52a6962eb",
-      "time": "2026-06-17 12:26:45",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "SPIEGEL reports the German government has drafted a potential Bundestag authorization to determine Bundeswehr participation in international missions; the proposal could spark legal challenges."
-    },
-    {
-      "id": "4939953",
-      "time": "2026-06-17 12:25:52",
-      "tags": [
-        "其他"
-      ],
-      "text": "【比特幣未能突破67,000美元后幾無變動】亞洲交易時段，比特幣幾無變動。Apollo Crypto基金經理Pratik Kala表示，隨著該加密貨幣未能突破67,000美元的關鍵水平且交易量低迷，市場處於冷清狀態。與此同時，比特幣ETF繼續出現溫和的淨流出。Strategy發行的在納斯達克上市的比特幣掛鉤永續優先股STRC在其除息日交投於相對疲軟的91.00美元水平附近。Kala表示，這表明這家最大的比特幣企業買家可能已經沒有餘力進一步購買比特幣。比特幣最新持平於65,760.73美元。"
     }
   ]
 }
