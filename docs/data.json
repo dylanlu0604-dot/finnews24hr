@@ -1,7 +1,105 @@
 {
-  "updated": "2026-06-25 04:46:44",
-  "count": 17047,
+  "updated": "2026-06-25 04:50:47",
+  "count": 17057,
   "items": [
+    {
+      "id": "mkt:019efb65-75c1-7dd8-b105-4df261874d18",
+      "time": "2026-06-25 04:49:50",
+      "tags": [
+        "MKT News",
+        "XOM.O",
+        "Impact bearish",
+        "CVX.O"
+      ],
+      "text": "Trump said ExxonMobil, Chevron and other firms are under investigation over surging natural gas prices."
+    },
+    {
+      "id": "mkt:019efb65-18f5-7dd8-b105-438bfe0c0b5c",
+      "time": "2026-06-25 04:49:27",
+      "tags": [
+        "MKT News",
+        "QCOM.O",
+        "Impact bullish"
+      ],
+      "text": "Qualcomm (QCOM.O) targets IoT revenue of more than $14 bln in fiscal 2029."
+    },
+    {
+      "id": "4953518",
+      "time": "2026-06-25 04:48:50",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "特朗普：今天與石油公司進行了交談，石油公司對汽油的降價力度還不夠。"
+    },
+    {
+      "id": "4953517",
+      "time": "2026-06-25 04:48:46",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國副總統萬斯：美國官員正在審查土耳其是否遵守美國針對俄羅斯 S-400 防空導彈系統的相關法律。"
+    },
+    {
+      "id": "mkt:019efb64-0481-7dd8-b105-3f0b7397c497",
+      "time": "2026-06-25 04:48:16",
+      "tags": [
+        "MKT News",
+        "QCOM.O",
+        "Impact bullish"
+      ],
+      "text": "Qualcomm (QCOM.O) targets non-GAAP EPS above $18 for fiscal 2029."
+    },
+    {
+      "id": "te:markets:561643",
+      "time": "2026-06-25 04:47:30",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Brazil",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Ibovespa Falls on Commodity and Bank Losses — The Ibovespa fell 0.4% to close at 170,507 on Wednesday, pressured by losses in commodity and banking stocks. Petrobras was among the main drags, down 2.6% as oil prices declined on signs that more tankers were moving through the Strait of Hormuz amid progress in US-Iran talks. Vale lost 2.1% amid an internal dispute over its chairman position. Major banks also traded lower after Citigroup cut target prices for several Brazilian lenders, citing a more cautious stance on the sector due to a deteriorating macroeconomic backdrop and rising pressure on asset quality, particularly in consumer lending and agribusiness. Bradesco fell 1.1%, while Banco do Brasil dropped 0.6%. On the upside, WEG gained 2% as it accelerates the expansion of its Rugao unit in China. Embraer rose 1.5% amid renewed speculation over a sale of the C-390 Millennium to Morocco."
+    },
+    {
+      "id": "4953515",
+      "time": "2026-06-25 04:47:19",
+      "tags": [
+        "其他"
+      ],
+      "text": "道富銀行：該行資本留存緩衝比率（SCB）下限維持 2.5% 不變，有效期至 2027 年 9 月 30 日；一級普通股本充足率要求維持 8% 不變。"
+    },
+    {
+      "id": "4953514",
+      "time": "2026-06-25 04:47:01",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國副總統萬斯：能否向土耳其交付 F-35 戰機取決於國會。"
+    },
+    {
+      "id": "mkt:019efb62-9b48-7dd8-b105-3255f80c5dbf",
+      "time": "2026-06-25 04:46:43",
+      "tags": [
+        "MKT News",
+        "QCOM.O",
+        "Impact bullish"
+      ],
+      "text": "Qualcomm (QCOM.O) CFO said the company is targeting about $10 billion in automotive revenue in fiscal 2029."
+    },
+    {
+      "id": "mkt:019efb62-679d-7dd8-b105-29253222f7ec",
+      "time": "2026-06-25 04:46:30",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "QCOM.O",
+        "Impact bullish"
+      ],
+      "text": "Qualcomm (QCOM.O) CFO said two hyperscale custom-chip customers will generate $1.0 bln in revenue in fiscal 2027."
+    },
     {
       "id": "mkt:019efb62-32f4-7dd8-b105-26c9cab7fc94",
       "time": "2026-06-25 04:46:17",
