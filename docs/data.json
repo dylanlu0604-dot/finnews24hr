@@ -1,7 +1,114 @@
 {
-  "updated": "2026-06-24 20:11:31",
-  "count": 17281,
+  "updated": "2026-06-24 20:15:46",
+  "count": 17287,
   "items": [
+    {
+      "id": "mkt:019ef98e-32f3-7dd8-b0f9-04e13c710389",
+      "time": "2026-06-24 20:15:06",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Fox News reported U.S. President Trump said Iran will initially receive US$500 mln to buy U.S. goods."
+    },
+    {
+      "id": "mkt:019ef98d-f4ba-7dd8-b0f8-fdc1cdf4b464",
+      "time": "2026-06-24 20:14:50",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Keda Guodun rolls off first domestic ez‑QF1500 dilution refrigerator】Under guidance from the Chinese Academy of Sciences' Institute of Quantum Information and Quantum Technology Innovation, Keda Guodun Quantum Technology Co. completed engineering development of the domestically produced single‑core, high‑cold‑capacity dilution refrigerator ez‑QF1500; the first unit rolled off on June 24, laying groundwork for China's subsequent development of thousand‑qubit, error‑corrected superconducting quantum computers."
+    },
+    {
+      "id": "4952771",
+      "time": "2026-06-24 20:14:43",
+      "tags": [
+        "其他"
+      ],
+      "text": "【殼牌到訪中遠海能】6月24日，殼牌到訪中遠海能，雙方圍繞油氣運輸等領域業務協同開展交流。殼牌對雙方近期高效達成LNG運輸船期租合作表示高度肯定，並期待雙方未來在油氣運輸、船舶燃料供應等方面進一步拓展合作空間。此外，雙方還就全球LNG貿易與運輸市場發展、供應鏈多元化等話題進行了交流。雙方共同表示，將基於現有良好合作基礎，不斷深化戰略協同，持續挖掘油氣運輸、LNG加註等全產業鏈領域的合作機遇。"
+    },
+    {
+      "id": "4952770",
+      "time": "2026-06-24 20:14:28",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普對福克斯新聞表示：先期向伊朗提供5億美元用於購買美國商品。"
+    },
+    {
+      "id": "4952769",
+      "time": "2026-06-24 20:13:04",
+      "tags": [
+        "公司"
+      ],
+      "text": "【國產單核心大冷量稀釋製冷機成功下線】6月24日，在中國科學院量子資訊與量子科技創新研究院授權指導下，科大國盾量子技術股份有限公司完成工程化開發的國產稀釋製冷機ez-Q F1500首臺正式下線，為我國後續千位元可糾錯超導量子計算機的研製奠定基礎。據瞭解，目前商用單核心稀釋製冷機的製冷量多在400至800微瓦區間，難以滿足千位元超導量子計算機需求。國際通用做法是將至少兩個核心單元並聯，但系統複雜度大幅增加，對裝置長期穩定執行構成挑戰。為此，中國科學院量子資訊與量子科技創新研究院於2025年完成“單稀釋製冷單元大功率稀釋製冷機”原型研製，實現了20毫開爾文溫度下40微瓦製冷量的技術突破。在此基礎上，國盾量子進一步聯合攻關，ez-Q F1500僅依靠單核心就能在100毫開爾文溫度下製冷量達1700微瓦，20毫開爾文溫度下製冷量達48微瓦，低溫極限可降至約5.42毫開爾文，單核心製冷量達國際領先水平。（新華社）"
+    },
+    {
+      "id": "mkt:019ef98c-389c-7dd8-b0f8-f2d65b0770af",
+      "time": "2026-06-24 20:12:56",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Fox News reported US President Trump said there is no need to rush to send inspectors into Iranian facilities."
+    },
+    {
+      "id": "4952768",
+      "time": "2026-06-24 20:12:23",
+      "tags": [
+        "市場"
+      ],
+      "text": "現貨鉑金<XPT=>下跌超3%，至每盎司1601美元。"
+    },
+    {
+      "id": "4952767",
+      "time": "2026-06-24 20:12:02",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普告訴福克斯新聞，不急於派遣檢查人員進入伊朗場所。"
+    },
+    {
+      "id": "4952766",
+      "time": "2026-06-24 20:11:55",
+      "tags": [
+        "公司"
+      ],
+      "text": "高通：將在收購完成時透過私募配售發行股份。"
+    },
+    {
+      "id": "mkt:019ef98b-277d-7dd8-b0f8-efdf6036aad5",
+      "time": "2026-06-24 20:11:46",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Fox News reports US President Trump said inspectors would be allowed access to Iran's uranium storage sites."
+    },
+    {
+      "id": "4952765",
+      "time": "2026-06-24 20:11:30",
+      "tags": [
+        "其他"
+      ],
+      "text": "高通將向Modular股權持有人發行至多1920萬股股票。"
+    },
+    {
+      "id": "4952764",
+      "time": "2026-06-24 20:11:12",
+      "tags": [
+        "市場"
+      ],
+      "text": "SOLAREDGE盤前股價上漲6%，ENPHASE ENERGY股價上漲4.8%。"
+    },
+    {
+      "id": "4952763",
+      "time": "2026-06-24 20:11:01",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "特朗普向福克斯新聞表示：伊朗鈾存放地點將允許核查人員進入。"
+    },
     {
       "id": "4952762",
       "time": "2026-06-24 20:10:36",
@@ -26,6 +133,14 @@
         "市場"
       ],
       "text": "【海南海藥：股票交易異常波動 創新藥臨床試驗有進展】海南海藥公告稱，公司股票於2026年6月22日至6月24日連續3個交易日收盤價格漲幅偏離值累計達20%以上，屬異常波動。經核查，公司前期披露資訊無更正、補充，未發現重大未公開資訊，經營正常，內外部環境無重大變化。抗肝纖維化創新藥氟非尼酮膠囊Ⅲ期臨床、抗癲癇創新藥派恩加濱片IIb期臨床試驗正按計劃推進，但獲批上市有不確定性。2026年一季度，公司淨虧損7645.21萬元，所有者權益444.74萬元。"
+    },
+    {
+      "id": "4952759",
+      "time": "2026-06-24 20:08:42",
+      "tags": [
+        "其他"
+      ],
+      "text": "【最高法釋出2025年全國海事審判典型案例】2025年，全國海事審判隊伍統籌推進國內法治與涉外法治，充分發揮海事審判職能作用，聚焦船員權益保障這一民生重點，全力服務保障高水平對外開放和海洋經濟高質量發展。為充分發揮典型案例的示範引領作用，全面展現人民法院海事審判在化解國際海事糾紛、維護海上航運秩序、促進海洋經濟高質量發展方面發揮的重要作用，在6月25日“世界海員日”即將到來之際，最高人民法院釋出2025年全國海事審判典型案例。此次釋出的案例，具有以下三個方面的特點：\n\n一是民生為重，堅決保障船員勞動權益。船員權益保障不僅是法律要求和人道關懷，更是國際航運供應鏈安全和航行安全的基石，是促推海洋經濟高質量發展的前提。本批典型案例將船員勞動權益保護擺在突出位置，以司法裁判劃定權益邊界、守住民生底線。\n\n二是專業高效，打造國際海事糾紛解決優選地。涉外海事糾紛解決程式煩瑣，維權成本高昂，並經常涉及外國法、國際條約和國際慣例的適用。海事司法能力是衡量國際海事糾紛解決優選地的重要標準。\n\n三是依法反制，堅定維護中國企業正當合法權益。面對部分國家濫用“長臂管轄”、實施單邊制裁，擾亂正常國際經貿秩序，損害中國企業合法權益的行為，海事法院立足涉外法治建設要求，依託司法裁判劃定法律紅線。（央視新聞）"
     },
     {
       "id": "4952758",
@@ -158042,81 +158157,6 @@
         "公司"
       ],
       "text": "【波音上海新機庫在臨港保稅區啟用】6月17日，上海波音航空改裝維修工程有限公司（簡稱“上海波音”）宣佈其新機庫啟用。新機庫位於上海臨港特殊綜合保稅區，機庫寬度200米，採用無內柱設計，可同時容納4架寬體機和2架窄體機。"
-    },
-    {
-      "id": "4941015",
-      "time": "2026-06-17 20:15:32",
-      "tags": [
-        "央行",
-        "公司",
-        "市場"
-      ],
-      "text": "【荷蘭國際：瑞典克朗走低，因瑞典央行加息暗示未能說服市場】荷蘭國際集團的Francesco Pesole在一份報告中表示，瑞典克朗走弱，因為瑞典央行關於今年晚些時候加息機率增加的宣告未能說服市場。他表示，該央行週四將利率維持在1.75%的決定及其言論，與其新的通脹預測相矛盾。“通脹處於低位，預計到2027年都將保持在目標水平以下，因此我們堅持瑞典央行今年不會加息的預測。“歐元兌瑞典克朗上漲0.2%，至10.8039瑞典克朗，在上述決定公佈後曾短暫下跌。荷蘭國際集團仍預計，在能源價格走低以及瑞典相對於歐元區更強勁的增長前景的支撐下，下半年歐元兌瑞典克朗將達到10.70。"
-    },
-    {
-      "id": "mkt:019ed581-e48a-7dd8-b04f-57f2690ee047",
-      "time": "2026-06-17 20:15:20",
-      "tags": [
-        "MKT News",
-        "Hang Seng Index",
-        "Impact bullish"
-      ],
-      "text": "【Paul Chan: 212 Shanghai firms listed in Hong Kong — HKD4.3 tln, ~10% of market cap】Hong Kong Financial Secretary Paul Chan said as of May 212 Shanghai-headquartered companies were listed in Hong Kong with combined market capitalization above HKD4.3 tln, about 10% of Hong Kong’s total market cap. Several Shanghai science-and-technology firms have listed in Hong Kong this year, attracting strong domestic and overseas capital demand."
-    },
-    {
-      "id": "4941014",
-      "time": "2026-06-17 20:14:27",
-      "tags": [
-        "市場",
-        "央行",
-        "國際"
-      ],
-      "text": "【美股盤前要聞速遞】\n①美股三大股指期貨漲跌不一，道指期貨跌0.02%，標普500指數期貨漲0.05%，納指期貨漲0.41%。\n②德國DAX指數漲跌0.15%，英國富時100指數跌0.05%，法國CAC40指數漲0.09%，歐洲斯托克50指數漲0.35%。\n③WTI原油漲0.83%，報76.68美元/桶。布倫特原油漲0.80%，報79.59美元/桶。\n④美聯儲6月會議料按兵不動，為新主席沃什任內首次決策。\n⑤美伊本週五簽署協議，特朗普稱海峽永久免費開放，美伊協議檔案數日內公佈。\n⑥IEA預警：2027年油市將滑向“顯著過剩”。\n⑦英特爾盤前漲超3%，18A-P製程進入風險生產階段。\n⑧臺積電盤前漲近2%，蘋果A22 Pro或採用其1.4nm製程。\n⑨Coherent盤前一度漲超4%，德州工廠擴建動工，將擴大磷化銦產線。"
-    },
-    {
-      "id": "4941013",
-      "time": "2026-06-17 20:13:51",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【中天精裝：股票交易異常波動 目前經營情況正常】中天精裝公告稱，公司股票交易價格在2026年6月15日至17日連續3個交易日內收盤價格漲幅偏離值累計超20%，屬異常波動。經核查，公司前期披露資訊無需更正補充，目前經營正常，內外部環境未變。公司參股科睿斯半導體，2025年度、2026年一季度確認的投資收益為負。控股股東、實控人無應披露未披露重大事項，期間也未買賣公司股票。2025年營收3.52億元，淨虧損1.66億元；2026年一季度營收0.45億元，淨虧損0.09億元。"
-    },
-    {
-      "id": "4941012",
-      "time": "2026-06-17 20:13:44",
-      "tags": [
-        "其他"
-      ],
-      "text": "【中國工商銀行董事長廖林會見新加坡金融管理局行長謝啇真】6月16日，中國工商銀行董事長廖林會見新加坡金融管理局行長謝啇真，雙方就助力中新經貿往來合作、推動工商銀行在新加坡高質量發展等話題進行深入交流。中國工商銀行新加坡分行是工商銀行在境外設立的第一家營業性分支機構，持有新加坡金融管理局頒發的特許全面銀行牌照，在新擔任中資人民幣清算行，同時也是工商銀行在東盟市場規模最大的境外機構。工商銀行將依託全球經營網路，持續發揮新加坡人民幣清算行、BRBR等平臺作用，積極服務中資企業赴新投資、新加坡企業來華展業，進一步深化與新加坡同業的交流合作，為兩國經貿金融往來貢獻更大力量。"
-    },
-    {
-      "id": "4941011",
-      "time": "2026-06-17 20:13:41",
-      "tags": [
-        "其他"
-      ],
-      "text": "【陳茂波：今年前五個月，上海在港上市企業總市值超4.3萬億港元】香港特別行政區政府財政司司長陳茂波在上海出席陸家嘴論壇致辭時透露，截至今年5月，上海在港上市企業已達212家，總市值超4.3萬億港元，約佔香港整體市值的10%。今年以來，多家上海科創企業赴港上市，獲得海內外資本的積極追捧。（介面新聞）"
-    },
-    {
-      "id": "te:economy:559728",
-      "time": "2026-06-17 20:13:40",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Brazil",
-        "Leading Economic Index",
-        "Importance 1"
-      ],
-      "text": "Brazil IBC-Br Rebounds In April — Brazil’s IBC-Br economic activity index rose 0.5% month-over-month in April 2026, rebounding from a 0.7% decline in the previous month and slightly below forecasts of 0.6%. Industrial activity increased 0.4% after a 0.2% drop in March, while services rose 0.3% following a 0.8% decline. The taxes index advanced 0.3% after falling 0.2% in the previous month. Meanwhile, the agriculture and livestock sector was flat after a 0.2% contraction in March. Excluding agriculture and livestock, the IBC-Br rose 0.4%."
-    },
-    {
-      "id": "4941010",
-      "time": "2026-06-17 20:13:16",
-      "tags": [
-        "公司"
-      ],
-      "text": "STELLANTIS執行長：我們將繼續在義大利進行重大投資。"
     }
   ]
 }
