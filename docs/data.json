@@ -1,7 +1,85 @@
 {
-  "updated": "2026-06-25 04:38:48",
-  "count": 17031,
+  "updated": "2026-06-25 04:42:40",
+  "count": 17038,
   "items": [
+    {
+      "id": "4953499",
+      "time": "2026-06-25 04:42:02",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普談伊朗：我們在談判中進展順利。"
+    },
+    {
+      "id": "4953498",
+      "time": "2026-06-25 04:41:45",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：對霍爾木茲海峽收費是不可接受的。"
+    },
+    {
+      "id": "mkt:019efb5d-58cc-7dd8-b104-f4721609f221",
+      "time": "2026-06-25 04:40:59",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish"
+      ],
+      "text": "Trump said he had heard that Burnham, a potential successor to the UK prime minister, is very liberal and therefore may not open the North Sea."
+    },
+    {
+      "id": "mkt:019efb5d-434e-7dd8-b104-ebc1928a8bcf",
+      "time": "2026-06-25 04:40:53",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "QCOM.O",
+        "Impact bullish"
+      ],
+      "text": "Hugging Face CEO said AI models from the Hugging Face ecosystem are planned to be integrated and deployed on Qualcomm platforms."
+    },
+    {
+      "id": "mkt:019efb5d-0c1f-7dd8-b104-e11ef83eabf4",
+      "time": "2026-06-25 04:40:39",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bearish",
+        "EURUSD",
+        "Impact bullish",
+        "S&P500"
+      ],
+      "text": "US President Trump said the US needs low interest rates."
+    },
+    {
+      "id": "4953495",
+      "time": "2026-06-25 04:39:06",
+      "tags": [
+        "公司"
+      ],
+      "text": "高通首席財務官：公司有機會將年度營收規模拓展至 1000 億美元。"
+    },
+    {
+      "id": "4953494",
+      "time": "2026-06-25 04:38:25",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：我們需要低利率。"
+    },
+    {
+      "id": "4953493",
+      "time": "2026-06-25 04:38:16",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國白宮：特朗普追加撥款申請中包含 671.5 億美元，用於國防部各類軍事專案。"
+    },
     {
       "id": "4953491",
       "time": "2026-06-25 04:37:23",
@@ -155605,14 +155683,6 @@
         "MKT News"
       ],
       "text": "Iranian parliament speaker Ghalibaf said commitments in the memorandum of understanding are conditional on an \"action-for-action\" principle; if the U.S. fails to meet its commitments, Iran will not be able to meet its own."
-    },
-    {
-      "id": "4941843",
-      "time": "2026-06-18 04:39:26",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗議長卡利巴夫稱沒有禁止美國在伊朗投資。"
     }
   ]
 }
