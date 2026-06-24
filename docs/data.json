@@ -1,7 +1,85 @@
 {
-  "updated": "2026-06-24 14:10:12",
-  "count": 17329,
+  "updated": "2026-06-24 14:14:24",
+  "count": 17326,
   "items": [
+    {
+      "id": "4951870",
+      "time": "2026-06-24 14:13:20",
+      "tags": [
+        "市場"
+      ],
+      "text": "澳大利亞標普200指數收盤上漲0.2%，報8808.40點。"
+    },
+    {
+      "id": "4951869",
+      "time": "2026-06-24 14:12:15",
+      "tags": [
+        "公司"
+      ],
+      "text": "KNDS：德意志聯邦共和國已與韋格曼集團達成原則性協議，將從韋格曼集團手中收購KNDS 40%的普通股股本。"
+    },
+    {
+      "id": "4951868",
+      "time": "2026-06-24 14:11:50",
+      "tags": [
+        "其他"
+      ],
+      "text": "KNDS：宣佈計劃推進首次公開募股（IPO），為其長期增長戰略提供支撐。"
+    },
+    {
+      "id": "mkt:019ef841-325d-7dd8-b0ed-91231cdfa32f",
+      "time": "2026-06-24 14:11:22",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "【IAEA to inspect Iran's enrichment facilities; timing unclear】IAEA Director General Rafael Grossi said inspectors will ultimately inspect Iran's enrichment facilities, though the timing is uncertain and could range from days to about ten days. He said a memorandum of understanding signed by the US and Iranian presidents stipulates that the covered nuclear activities will be under IAEA supervision and requires Iran to dilute its stock of highly enriched uranium. US vice president JD Vance said Iran agreed to invite IAEA inspectors back, but Iranian foreign ministry spokesman Baghaei said Iran has not met with Grossi and there is no concrete inspection timetable."
+    },
+    {
+      "id": "4951867",
+      "time": "2026-06-24 14:10:36",
+      "tags": [
+        "其他"
+      ],
+      "text": "TANKMAKER KNDS 計劃在巴黎和法蘭克福首次公開募股。"
+    },
+    {
+      "id": "4951866",
+      "time": "2026-06-24 14:10:32",
+      "tags": [
+        "公司"
+      ],
+      "text": "【高樂股份成立智聚算網科技公司 含AI及積體電路業務】企查查APP顯示，近日，楚雄智聚算網科技有限公司成立，經營範圍包含：半導體分立器件銷售；積體電路銷售；光電子器件銷售；人工智慧硬體銷售等。企查查股權穿透顯示，該公司由高樂股份(002348)全資持股。"
+    },
+    {
+      "id": "mkt:019ef840-5145-7dd8-b0ed-8f3d53c62ddf",
+      "time": "2026-06-24 14:10:25",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "【Foxconn, Sharp sign memorandum to pursue AI infrastructure and robotics】Foxconn Technology Group and Sharp signed a strategic cooperation memorandum to establish a joint R&D and commercialization framework targeting new businesses in AI infrastructure, energy and ESG, robotics and intelligent automation, next‑generation communications and smart cities."
+    },
+    {
+      "id": "4951865",
+      "time": "2026-06-24 14:09:53",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本能源電商JERA董事長表示：鑑於如果霍爾木茲海峽以外的地緣政治風險升級，卡達有能力額外供應液化天然氣，JERA將維持從卡達採購一定規模的液化天然氣。"
+    },
+    {
+      "id": "4951864",
+      "time": "2026-06-24 14:09:42",
+      "tags": [
+        "國際"
+      ],
+      "text": "【機構：日本加速佈局全固態電池產業鏈，下一代電池技術全球競爭加劇】根據TrendForce集邦諮詢最新《全球固態電池產業發展動態季報_2Q26》，日本近年擴大支援下一代蓄電池技術，其經濟產業省（METI）2023年起實施《電池供應保障計劃》，重點扶持全固態電池（ASSB）、雙極型低成本磷酸鐵鋰（LFP）電池等研發與早期量產。截至2026年第一季，該計劃已核准與全固態電池供應鏈相關的五大專案，合計補助金額達6.6億美元（約1,057億日元）。"
+    },
     {
       "id": "4951863",
       "time": "2026-06-24 14:08:19",
@@ -158534,115 +158612,6 @@
         "國際"
       ],
       "text": "【機構：美聯儲本月的會議正被視為年內最重要的會議之一】儘管投資者對美聯儲將聯邦基金利率目標區間維持在3.50%–3.75%的決定毫無疑問，但法國外貿銀行的分析師Mabrouk Chetouane在一份報告中指出，此次貨幣政策會議仍是今年最重要的會議之一。“自上任以來，凱文·沃什作為FOMC主席出席的首場會議，將面臨艱鉅的任務，”這位全球市場策略主管表示。他指出，這位新任美聯儲主席不僅需要評估經濟形勢，還可能推動變革，特別是在央行溝通策略方面。“他上任後的首項舉措及其初期表態將受到密切關注，因為在這個全球最具影響力的貨幣機構中，過渡期通常會給資本市場帶來壓力。”"
-    },
-    {
-      "id": "4940085",
-      "time": "2026-06-17 14:14:21",
-      "tags": [
-        "資料",
-        "市場"
-      ],
-      "text": "英國5月剔除能源、食品、菸酒後的核心CPI同比上漲2.6%，路透調查預期為同比上漲2.7%。"
-    },
-    {
-      "id": "4940084",
-      "time": "2026-06-17 14:14:09",
-      "tags": [
-        "市場"
-      ],
-      "text": "英國5月零售物價指數（RPI）同比上漲3.1%，調查預期為上漲3.3%。"
-    },
-    {
-      "id": "4940083",
-      "time": "2026-06-17 14:13:32",
-      "tags": [
-        "市場"
-      ],
-      "text": "澳大利亞標普/澳交所200指數收盤上漲0.5%，報8966.30點。"
-    },
-    {
-      "id": "4940082",
-      "time": "2026-06-17 14:13:15",
-      "tags": [
-        "公司",
-        "觀點"
-      ],
-      "text": "【高盛：首予零跑汽車“買入”評級及目標價50港元】高盛發表研報，首予零跑汽車“買入”評級，12個月目標價為50港元，預期公司在未來三個季度推出的具競爭力新車型將推動內地市場增長加速。該行指出，零跑汽車2026年海外目標銷量為12.5萬輛，而該行預計其海外銷量有60%的上行空間，這使該行對公司2026年至2028年的淨利潤預測較市場共識高出7%至12%。該行預測，零跑汽車在2025年至2027年將實現行業領先的48%收入複合年增長率和143%的盈利複合年增長率。"
-    },
-    {
-      "id": "mkt:019ed436-3e39-7dd8-b044-8a117d20825e",
-      "time": "2026-06-17 14:13:05",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "【WeChat Pay launches AI-specific card】WeChat Pay has launched an AI-specific card that lets users submit purchase requests within an Agent chat; it handles smart recommendations through order placement and payment. The card is currently supported in WorkBuddy."
-    },
-    {
-      "id": "mkt:019ed435-d266-7dd8-b044-80d5b6e345c5",
-      "time": "2026-06-17 14:12:37",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "DXY",
-        "Impact mixed",
-        "US10Y",
-        "S&P500"
-      ],
-      "text": "【Institution: This month’s Fed meeting is being viewed as one of the year’s most important】Investors widely expect the Fed to hold the federal funds target range at 3.50%–3.75% at this month’s meeting, but Natixis global markets strategist Mabrouk Chetouane says the meeting remains one of the year’s most important. He notes this will be Kevin Walsh’s first FOMC meeting as chair and that Walsh faces a difficult task: assessing the economy and possibly driving change, particularly in the Fed’s communication strategy. Chetouane says Walsh’s initial actions and early remarks will be closely watched, since leadership transitions at the world’s most influential central bank often create pressure on capital markets."
-    },
-    {
-      "id": "4940081",
-      "time": "2026-06-17 14:12:25",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "立陶宛央行下調2026年國內生產總值增速預期，從此前3.1%降至2.7%。"
-    },
-    {
-      "id": "4940080",
-      "time": "2026-06-17 14:12:11",
-      "tags": [
-        "其他"
-      ],
-      "text": "【中國紅十字會總會向青海地震災區調撥救災物資】2026年6月16日，青海海西州直轄區發生6.3級地震。根據青海省紅十字會上報的災情及需求，中國紅十字會總會啟動應急響應，向受災地區調撥摺疊床、棉被、衝鋒衣等救災物資共8000件（套），用於支援當地救災救助工作。"
-    },
-    {
-      "id": "4940079",
-      "time": "2026-06-17 14:11:18",
-      "tags": [
-        "其他"
-      ],
-      "text": "【FF：正式釋出全球首個“三位一體”EAI機器人教育生態戰略】FF於今日舉辦六大系列全形態FF EAI機器人世界&EAI教育生態及產品線釋出會，正式釋出全球首個“三位一體”EAI機器人教育生態戰略，全新Futurist（2027款）人形機器人與 FX Navi四足機器人，以及面紗釋出 FF Master Mini與FF Nova 四款EAI機器人。FX Navi本體售價1,990美元，即日開啟銷售與交付。"
-    },
-    {
-      "id": "mkt:019ed434-6a5e-7dd8-b044-7bf597c71d5f",
-      "time": "2026-06-17 14:11:05",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy"
-      ],
-      "text": "Prime Minister Albanese said he met today with Shell’s global chair to discuss measures to help the industry purchase more fuel and boost fuel inflows into Australia to secure domestic supply."
-    },
-    {
-      "id": "4940078",
-      "time": "2026-06-17 14:10:54",
-      "tags": [
-        "國際"
-      ],
-      "text": "印度航空：推出“基礎票價”產品。"
-    },
-    {
-      "id": "4940077",
-      "time": "2026-06-17 14:10:33",
-      "tags": [
-        "公司"
-      ],
-      "text": "【王新偉會見瑞士布克哈德集團董事會主席雅克·桑奇】據遼寧日報，6月17日，遼寧省委副書記、省長王新偉在瀋陽會見瑞士布克哈德集團董事會主席雅克·桑奇一行。王新偉說，希望布克哈德集團加大在遼投資和研發力度，推進瀋陽遠大壓縮機裝置迭代更新、產線升級改造、產能擴容提質，推動瀋陽工廠深化“智改數轉”，加快向零碳工廠邁進，深度佈局綠氫壓縮機產業鏈，做實上下游對接、本地化配套、供應鏈佈局，開創互利共贏新局面。我們將持續打造一流營商環境，最佳化創新生態、產業生態，細化服務“顆粒度”，支援企業在遼實現更好發展。"
     }
   ]
 }
