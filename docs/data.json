@@ -1,7 +1,83 @@
 {
-  "updated": "2026-06-25 00:50:32",
-  "count": 17248,
+  "updated": "2026-06-25 00:54:37",
+  "count": 17250,
   "items": [
+    {
+      "id": "4953219",
+      "time": "2026-06-25 00:53:51",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國能源部長賴特稱，關於延長《瓊斯法案》豁免期限一事，相關“磋商對話”仍在進行中。"
+    },
+    {
+      "id": "mkt:019efa8d-633d-7dd8-b100-4c45c7857ca5",
+      "time": "2026-06-25 00:53:50",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "DXY"
+      ],
+      "text": "i24News reported the Israel Defense Forces struck a vehicle in southern Lebanon carrying suspects who were attempting to cross into an Israeli security zone."
+    },
+    {
+      "id": "mkt:019efa8c-ed0a-7dd8-b100-44ca8643fb75",
+      "time": "2026-06-25 00:53:20",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "【Rubio says U.S., Iran to resume technical talks at end of June】Multiple foreign outlets reported on the 24th that U.S. Secretary of State Rubio said U.S. and Iranian technical teams will resume talks in Switzerland at the end of June."
+    },
+    {
+      "id": "4953218",
+      "time": "2026-06-25 00:53:17",
+      "tags": [
+        "國際"
+      ],
+      "text": "【魯比奧：美伊本月底將繼續技術磋商】據多家外媒24日報道，美國國務卿魯比奧表示，美國和伊朗技術團隊將於6月底在瑞士繼續舉行會談。（新華社）"
+    },
+    {
+      "id": "4953217",
+      "time": "2026-06-25 00:52:07",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國能源部長賴特稱，人們相信石油供應將會增長。"
+    },
+    {
+      "id": "4953216",
+      "time": "2026-06-25 00:51:13",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "比特幣跌破60000美元，日內跌4.36%。"
+    },
+    {
+      "id": "4953215",
+      "time": "2026-06-25 00:50:21",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國能源部長賴特稱，霍爾木茲海峽航運恢復常態尚需數週時間。"
+    },
+    {
+      "id": "mkt:019efa89-f33c-7dd8-b100-3a8de93c57f6",
+      "time": "2026-06-25 00:50:05",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "Magnificent 7",
+        "NVDA.O"
+      ],
+      "text": "NVIDIA will hold its annual shareholder meeting in 10 minutes."
+    },
     {
       "id": "4953214",
       "time": "2026-06-25 00:49:42",
@@ -157990,58 +158066,6 @@
         "國際"
       ],
       "text": "特朗普：若伊朗核不擴散承諾無法永久落實，美方將實施轟炸。"
-    },
-    {
-      "id": "4941526",
-      "time": "2026-06-18 00:53:32",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：沒有人故意襲擊伊朗境內學校。"
-    },
-    {
-      "id": "4941525",
-      "time": "2026-06-18 00:53:05",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：美國對伊朗學校的襲擊正在調查中。"
-    },
-    {
-      "id": "4941524",
-      "time": "2026-06-18 00:52:01",
-      "tags": [
-        "其他"
-      ],
-      "text": "LME期銅收漲40美元，報13814美元/噸。LME期鋁收漲22美元，報3410美元/噸。LME期鋅收漲19美元，報3588美元/噸。LME期鉛收跌3美元，報1979美元/噸。LME期鎳收漲64美元，報18060美元/噸。LME期錫收漲218美元，報55344美元/噸。LME期鈷收平，報56290美元/噸。"
-    },
-    {
-      "id": "4941523",
-      "time": "2026-06-18 00:51:24",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：如果有人想投資伊朗，他們確實有石油。"
-    },
-    {
-      "id": "4941522",
-      "time": "2026-06-18 00:50:37",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：（關於黎巴嫩和平）我們將與以色列合作，完成這項工作。以色列對貝魯特的襲擊是一次毫無必要的沉重打擊。"
-    },
-    {
-      "id": "te:markets:559791",
-      "time": "2026-06-18 00:50:37",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Stock Market",
-        "Importance 2"
-      ],
-      "text": "US Stocks Maintain Slight Increase — US stock indices remained mostly higher on Wednesday ahead of the Federal Reserve's likely rate hold. The S&P 500 hovered around the flatline, although the Dow extended its record past 52,150 and the Nasdaq 100 added 0.3% after chip producers pared their losses. The Fed is due to holds rate but should unveil hints on its outlook with a fresh SEP, and Chairman Warsh could unveil timelines on framework changes he previously called for. Meanwhile, Iran and the US remained on track to sign their agreement by Friday, which will restore the export of energy from all countries in the Persian Gulf and remove sanctions on Iran, softening concerns of energy-drive inflation. Chip producers rebounded to extend their recent surges, with Broadcom, Micron, and Applied Materials adding between 4% and 7%. Also, Intel added 4% as its new chip reached risk production. In the other hand, AI hyperscalers maintained their underperformance, with Meta, Microsoft, Amazon, and Alphabet dropping over 2%."
     }
   ]
 }
