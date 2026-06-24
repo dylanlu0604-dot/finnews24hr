@@ -1,7 +1,72 @@
 {
-  "updated": "2026-06-24 13:53:36",
-  "count": 17376,
+  "updated": "2026-06-24 13:57:43",
+  "count": 17375,
   "items": [
+    {
+      "id": "mkt:019ef833-b098-7dd8-b0ed-6896b28b303b",
+      "time": "2026-06-24 13:56:37",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Industrial Metals"
+      ],
+      "text": "China lithium carbonate most-active futures contract rose more than 4.0% intraday to 162,860 yuan/ton."
+    },
+    {
+      "id": "4951845",
+      "time": "2026-06-24 13:56:23",
+      "tags": [
+        "國際"
+      ],
+      "text": "多名官員表示，參與行動的黎巴嫩武裝人員將接受美國的培訓與審查。"
+    },
+    {
+      "id": "mkt:019ef833-7905-7dd8-b0ed-635e8fbdfda8",
+      "time": "2026-06-24 13:56:23",
+      "tags": [
+        "MKT News",
+        "S&P500",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish",
+        "XAUUSD"
+      ],
+      "text": "Three Israeli officials said Israel and Lebanon are discussing a US-backed pilot project under which the Israeli military would hand over control of parts of southern Lebanon to the Lebanese Armed Forces."
+    },
+    {
+      "id": "4951844",
+      "time": "2026-06-24 13:55:59",
+      "tags": [
+        "國際"
+      ],
+      "text": "三名以色列官員稱，以色列與黎巴嫩正在討論一項由美國支援的\"試點\"專案，根據該專案，以色列軍隊將把黎巴嫩南部部分領土移交給黎巴嫩武裝部隊。"
+    },
+    {
+      "id": "mkt:019ef832-bd7a-7dd8-b0ed-5b6b21fdc837",
+      "time": "2026-06-24 13:55:35",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "ABC News reports H5N1 avian influenza was again confirmed in migratory birds on Australia’s southern coast, the third confirmed case on the mainland."
+    },
+    {
+      "id": "4951843",
+      "time": "2026-06-24 13:55:29",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "碳酸鋰連續主力合約日內漲4%，現報162880.00元。"
+    },
+    {
+      "id": "4951842",
+      "time": "2026-06-24 13:54:39",
+      "tags": [
+        "觀點"
+      ],
+      "text": "摩根士丹利將易捷航空目標價從280便士上調至310便士。"
+    },
     {
       "id": "4951841",
       "time": "2026-06-24 13:52:44",
@@ -159051,73 +159116,6 @@
         "焦點"
       ],
       "text": "滬深兩市成交額超2.5萬億元，較上日此時放量66億元。"
-    },
-    {
-      "id": "4940051",
-      "time": "2026-06-17 13:57:10",
-      "tags": [
-        "公司"
-      ],
-      "text": "【蘇州2宗宅地11.1億元底價成交】6月17日，蘇州2宗宅地出讓，最終均底價成交，總成交金額11.1億元。其中，吳中經開區宅地由蘇州天鴻偉業置地有限公司以底價7.08億元競得，成交樓面價13500元/㎡；吳中區宅地由蘇州吳城置業有限公司以底價4.02億元競得，成交樓面價12500元/㎡。"
-    },
-    {
-      "id": "4940050",
-      "time": "2026-06-17 13:56:17",
-      "tags": [
-        "公司"
-      ],
-      "text": "【水利部發布6項水利行業標準】近日，水利部發布2026年第12號公告，批准釋出《水工金屬結構安全檢測、評價與報廢技術規範》等6項水利行業標準。相關標準將於2026年8月25日起實施。"
-    },
-    {
-      "id": "4940049",
-      "time": "2026-06-17 13:56:13",
-      "tags": [
-        "市場"
-      ],
-      "text": "A股中字頭個股區域性異動，中國化學午後漲停，中紡標、中國能建、中國電建、中鐵裝配等紛紛衝高。"
-    },
-    {
-      "id": "mkt:019ed426-a591-7dd8-b043-549cb4ec84fe",
-      "time": "2026-06-17 13:56:02",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "【Rumors that Caitong Fund faced a surprise inspection are false, insiders say】Market reports claimed today Caitong Fund was subject to a surprise inspection, with staff phones and computers seized and links to PCB-sector stocks. Insiders say the reports are baseless."
-    },
-    {
-      "id": "mkt:019ed426-715c-7dd8-b043-4881c9fa9ec8",
-      "time": "2026-06-17 13:55:49",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "Chip Wars"
-      ],
-      "text": "【Bank of Korea warns AI-driven semiconductor boom could complicate inflation outlook】The Bank of Korea said on Wednesday an AI-driven boom in the semiconductor sector — marked by exceptionally large bonus payouts at some chipmakers and major tech firms — could complicate the inflation outlook by prompting broader wage demands. If bonus-driven wage gains spill beyond tech, they would lift consumer demand and corporate costs and, together with rising energy prices, add to inflationary pressure. While broad wage acceleration has not yet materialized, the central bank urged close monitoring of outsized bonus payments and rising wage demands as policymakers work to prevent transient supply shocks from becoming persistent inflation."
-    },
-    {
-      "id": "4940048",
-      "time": "2026-06-17 13:55:00",
-      "tags": [
-        "國際"
-      ],
-      "text": "【MLCC大廠太陽誘電：現階段沒有計劃因供需緊繃而調漲價格】日本積層陶瓷電容（MLCC）大廠太陽誘電（Taiyo Yuden）正加快MLCC 擴產速度。社長佐瀨克表示，“在中期（2026-2030年度）運營計劃中，原先計劃是將以每年約10%的速度擴增MLCC產能，不過最終將視超大規模雲端商等客戶實際動向而定，有可能將擴產速度上修至每年15%。”關於漲價計劃，佐瀨克表示，現階段沒有計劃因供需緊繃而調漲價格。"
-    },
-    {
-      "id": "4940047",
-      "time": "2026-06-17 13:54:42",
-      "tags": [
-        "其他"
-      ],
-      "text": "【網傳財通基金被突擊檢查，知情人士：純屬謠言】今日，市場有訊息稱，財通基金被突擊檢查，手機、電腦被收走，並涉及PCB板塊個股。據記者瞭解，上述傳聞純屬謠言。（每經）"
-    },
-    {
-      "id": "4940046",
-      "time": "2026-06-17 13:54:09",
-      "tags": [
-        "公司"
-      ],
-      "text": "【全球首個具身互動世界模型重點實驗室獲批】6月17日，據“星源智機器人”微信公眾號訊息，北京市科學技術委員會、中關村科技園區管理委員會於近日正式釋出2026年北京市重點實驗室認定結果。由北京星源智機器人科技有限公司牽頭，聯合北京智源人工智慧研究院、北京面壁智慧科技有限責任公司共同建設的“具身互動世界模型北京市重點實驗室”正式獲批。星源智創始人兼CEO劉東擔任實驗室主任。"
     }
   ]
 }
