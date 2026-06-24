@@ -1,7 +1,162 @@
 {
-  "updated": "2026-06-24 12:05:44",
-  "count": 17339,
+  "updated": "2026-06-24 12:09:47",
+  "count": 17345,
   "items": [
+    {
+      "id": "4951710",
+      "time": "2026-06-24 12:08:59",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "印度央行行長：目前尚未看到通脹出現普遍化的跡象。"
+    },
+    {
+      "id": "mkt:019ef7d0-e12a-7dd8-b0eb-2bbd5841d61f",
+      "time": "2026-06-24 12:08:41",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Reserve Bank of India governor said he has not yet seen signs of broad-based inflation."
+    },
+    {
+      "id": "mkt:019ef7d0-8405-7dd8-b0eb-205ed8d6ac90",
+      "time": "2026-06-24 12:08:18",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Reserve Bank of India governor said second-round effects on inf are uncertain; upside risks have eased."
+    },
+    {
+      "id": "4951709",
+      "time": "2026-06-24 12:07:53",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "印度央行行長：上行風險已減弱。"
+    },
+    {
+      "id": "4951708",
+      "time": "2026-06-24 12:07:39",
+      "tags": [
+        "公司"
+      ],
+      "text": "【矽基流動完成股改】企查查APP顯示，近日，北京矽基流動科技有限公司更名為北京矽基流動科技股份有限公司，企業型別由其他有限責任公司變更為股份有限公司（非上市），同時，公司主要人員亦發生變更。企查查顯示，矽基流動成立於2023年8月，法定代表人為袁進輝，現由袁進輝、北京矽基未來企業管理合夥企業（有限合夥）、杭州多項網路科技有限公司等共同持股。"
+    },
+    {
+      "id": "mkt:019ef7cf-ed6d-7dd8-b0eb-1daeca5fbf15",
+      "time": "2026-06-24 12:07:39",
+      "tags": [
+        "MKT News",
+        "S&P500",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish",
+        "XAUUSD"
+      ],
+      "text": "Reserve Bank of India governor says easing of the West Asia conflict is a major positive."
+    },
+    {
+      "id": "4951707",
+      "time": "2026-06-24 12:07:33",
+      "tags": [
+        "其他"
+      ],
+      "text": "加拿大國防部長稱， 加拿大計劃今年分兩次向印太地區派遣軍艦。"
+    },
+    {
+      "id": "4951706",
+      "time": "2026-06-24 12:06:56",
+      "tags": [
+        "國際"
+      ],
+      "text": "加拿大國防部長：正與日本洽談國防工業交易。"
+    },
+    {
+      "id": "4951705",
+      "time": "2026-06-24 12:06:38",
+      "tags": [
+        "公司"
+      ],
+      "text": "傑富瑞將波士頓科學公司目標價從100美元下調至67美元。"
+    },
+    {
+      "id": "te:markets:561358",
+      "time": "2026-06-24 12:06:22",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "China",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "Offshore Yuan Hits 1-Month Low — The offshore yuan depreciated to around 6.80 per dollar on Wednesday, hitting its lowest level in a month, as a stronger US dollar continued to weigh on the currency. The greenback remained supported by mounting expectations that the Federal Reserve could raise interest rates in September, with markets now assigning roughly a 70% chance of a rate hike. Further pressure came from the People's Bank of China, which continued to set the yuan's daily reference rate at weaker-than-expected levels. The central bank fixed the currency at 6.8195 per dollar on Wednesday, extending its longest streak of weaker fixings since April 2025. Meanwhile, China has effectively halted certain tungsten exports to Japan, while rare-earth magnet shipments fell to a one-year low in May, when Beijing first rolled out its global export-control regime. Such restrictions have remained in place amid tensions over Taiwan-related remarks by Japanese Prime Minister Sanae Takaichi."
+    },
+    {
+      "id": "4951704",
+      "time": "2026-06-24 12:06:19",
+      "tags": [
+        "公司"
+      ],
+      "text": "【麗臣實業：工業清洗劑系列產品目前仍處於市場開拓初期】麗臣實業(001218)在互動平臺表示，公司的工業清洗劑系列產品目前仍處於市場開拓初期，營業收入佔比極低。依託表面活性劑原料和技術優勢，工業清洗是公司近幾年重點培育和發展的業務板塊。當前高精製造領域快速發展，其對清洗效率、材料相容性與環保效能的要求日益嚴苛，給工業清洗市場帶來新一輪發展機遇。結合工業清洗業務板塊目前所處階段及在公司營收中的佔比、相關行業發展情況，其發展可期。"
+    },
+    {
+      "id": "mkt:019ef7ce-5452-7dd8-b0eb-169c15d63c45",
+      "time": "2026-06-24 12:05:54",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "According to the Financial Times, Qatari PM Sheikh Mohammed said the US‑Iran hotline is crucial to reopening the Strait of Hormuz."
+    },
+    {
+      "id": "4951703",
+      "time": "2026-06-24 12:05:52",
+      "tags": [
+        "公司"
+      ],
+      "text": "【邁為股份疊層電池整線裝置進駐客戶生產基地】據邁為股份訊息，6月23日，邁為股份自主研發的鈣鈦礦/矽異質結疊層電池整線裝置，正式入駐國內新能源企業生產基地。此舉標誌著該疊層技術領域首個整線商業化訂單圓滿交付，將助力客戶打造行業領先的210半片全面積鈣鈦礦/矽異質結疊層電池量產線。"
+    },
+    {
+      "id": "mkt:019ef7ce-165d-7dd8-b0eb-0f21a0a8be67",
+      "time": "2026-06-24 12:05:38",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Reserve Bank of India governor said monetary and external uncertainties are concerns for all of us."
+    },
+    {
+      "id": "4951702",
+      "time": "2026-06-24 12:05:34",
+      "tags": [
+        "市場"
+      ],
+      "text": "塔塔汽車股價延續漲勢，最新上漲3.1%。"
+    },
+    {
+      "id": "mkt:019ef7cd-e7fd-7dd8-b0eb-07dc6f852bf5",
+      "time": "2026-06-24 12:05:27",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Brent",
+        "Impact bearish",
+        "WTI"
+      ],
+      "text": "Financial Times reports Qatari PM Sheikh Mohammed said QatarEnergy is preparing to resume normal operations as the situation in the strait normalizes."
+    },
+    {
+      "id": "4951701",
+      "time": "2026-06-24 12:05:25",
+      "tags": [
+        "其他"
+      ],
+      "text": "卡達首相：美伊熱線對重啟霍爾木茲海峽至關重要。"
+    },
     {
       "id": "mkt:019ef7cd-9dff-7dd8-b0ea-f8ea034ca6f9",
       "time": "2026-06-24 12:05:08",
@@ -158670,107 +158825,6 @@
         "CNH"
       ],
       "text": "【Wu Qing: Support and protect investors' cross‑border investment via legal channels】June 17, 2026 — CSRC Chair Wu Qing said at the Lujiazui Forum that regulators have recently cracked down on individual firms conducting illegal cross‑border securities business and will further strengthen cross‑border supervisory coordination, routine information sharing and market communication. The policy intent is to open lawful cross‑border channels while blocking illegal ones; unlicensed entities providing cross‑border securities trading services domestically are the enforcement target, not investors who invest overseas through legal channels. Wu said investors using legitimate channels will be supported and effectively protected."
-    },
-    {
-      "id": "4939934",
-      "time": "2026-06-17 12:09:04",
-      "tags": [
-        "公司"
-      ],
-      "text": "七國集團領導人就地緣政治問題發表宣告。"
-    },
-    {
-      "id": "4939931",
-      "time": "2026-06-17 12:08:50",
-      "tags": [
-        "公司"
-      ],
-      "text": "【振芯科技：公司現有產品暫不涉及電容業務】振芯科技(300101)6月17日在互動平臺表示，公司積體電路產品以處理模擬和數字訊號的數模混合積體電路為主，包括北斗基帶SOC、直接數字頻率合成器、數模/模數轉換器、鎖相環、時鐘驅動器和時鐘分配器、軟體無線電、矽基多功能MMIC、影片訊號處理SOC、高速介面等產品。截至目前，公司現有產品暫不涉及電容業務。"
-    },
-    {
-      "id": "4939930",
-      "time": "2026-06-17 12:08:46",
-      "tags": [
-        "公司"
-      ],
-      "text": "【法國將為公職人員配備“主權可控”的AI工具】法國總理勒科爾尼16日在社交媒體平臺上說，法國將為公職人員配備一個主權可控的對話式人工智慧（AI）助手，避免依賴外國技術工具，確保國家資料得到保護。據介紹，這項工作將由法國政府的跨部門數字事務管理局主導。這款名為“AI助手”的工具由法國米斯特拉爾人工智慧公司協助開發，可以幫助公職人員進行對話、文件轉錄、文件分析、內容生成等。"
-    },
-    {
-      "id": "mkt:019ed3c4-6d56-7dd8-b041-76e2d4b6208f",
-      "time": "2026-06-17 12:08:46",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "USDCHF",
-        "CNH",
-        "Impact mixed"
-      ],
-      "text": "【Bank wealth managers quietly cleared for interbank FX and Bond Connect Southbound access】Chinese bank wealth management firms have been granted two market access approvals. On June 16 Bank of China Wealth Management completed the first interbank FX trade by a wealth manager via the China Foreign Exchange Trade System with Bank of China, executing USD/CHF spot and forward trades. Separately, three wealth managers received first-batch qualification to participate in Bond Connect Southbound; the inaugural Southbound transaction landed at the end of last month and was executed by CMB Wealth Management with Bank of Communications’ Hong Kong branch, which said it proactively coordinated and completed preparations after the participant expansion. Industry sources say the other two initial Bond Connect-qualified firms are wealth-management arms of two state-owned banks."
-    },
-    {
-      "id": "4939929",
-      "time": "2026-06-17 12:08:17",
-      "tags": [
-        "公司"
-      ],
-      "text": "【陽光數科與螞蟻數科達成戰略合作，共建AI保險應用聯合實驗室】據陽光保險集團訊息，6月16日，陽光保險集團旗下陽光數智科技有限責任公司與螞蟻區塊鏈科技（上海）有限公司在北京正式簽署戰略合作協議。雙方將深度融合AI技術與保險業務洞察，打造覆蓋保險全流程的智慧化解決方案，共同探索保險行業數字化轉型的新路徑。"
-    },
-    {
-      "id": "4939928",
-      "time": "2026-06-17 12:07:53",
-      "tags": [
-        "公司",
-        "市場",
-        "焦點"
-      ],
-      "text": "【銀行理財兩大業務資質低調開閘】銀行理財迎利好，近日兩大業務資質低調開閘。記者獲悉，銀行理財公司近日被首度引入銀行間外幣對市場，於6月16日完成理財資金在該市場的首筆交易；同時，三家理財公司已低調獲批首批債券通“南向通”參與主體資格，首筆交易於上月末落地。具體來看，銀行理財在銀行間外幣對市場的首筆交易由，由中銀理財依託外匯交易中心平臺與中國銀行達成，業務品種是美元對瑞士法郎的即期、遠期交易。而銀行理財在債券通“南向通”的首筆交易，由招銀理財和交行香港分行達成。據交行香港分行，在債券通“南向通”參與主體擴容後，該行主動對接理財公司，並迅速完成相關交易籌備流程。另據記者獨家從業內多方確認，另外兩家獲得債券通“南向通”首批資格的理財公司，是兩家國有行理財公司。（ 證券時報  ）"
-    },
-    {
-      "id": "4939927",
-      "time": "2026-06-17 12:07:18",
-      "tags": [
-        "其他"
-      ],
-      "text": "【國盾量子等取得量子通訊工程技術領域新突破】近日，國盾量子攜手國科量子，將緊湊型量子金鑰分發（QKD）模組整合至光傳輸網路（OTN）裝置，實現量子訊號與經典光訊號同機框、同光纖下的穩定執行。成果有望進一步推動量子通訊網路規模化部署，發表於國際期刊《Optical Fiber Technology》。"
-    },
-    {
-      "id": "4939926",
-      "time": "2026-06-17 12:07:09",
-      "tags": [
-        "其他"
-      ],
-      "text": "大眾汽車要求各競標方下週提交發動機單元的最終報價。（英國金融時報）"
-    },
-    {
-      "id": "te:markets:559566",
-      "time": "2026-06-17 12:07:06",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 2"
-      ],
-      "text": "Brent Extends Decline for Fifth Straight Session — Brent fell toward $78 per barrel on Wednesday, sliding for the fifth straight session and reaching its lowest level since early March, as expectations of increased supply continued to weigh on prices ahead of the signing of a peace agreement between the US and Iran. The two countries are scheduled to sign an interim deal in Switzerland on Friday, offering Tehran broad economic incentives, including the immediate resumption of its oil exports. Tankers from other nations are also expected to resume passage through the Strait of Hormuz once the agreement takes effect, although shipping companies remain cautious about its long-term durability. Additional supplies from the region are expected to replenish refinery inventories globally, alongside higher OPEC+ export quotas and increased output from the UAE, which left the cartel during the conflict. Meanwhile, industry data showed that US crude inventories declined by 8.3 million barrels last week."
-    },
-    {
-      "id": "te:markets:559565",
-      "time": "2026-06-17 12:06:23",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 0"
-      ],
-      "text": "Oil Extends Decline for Fifth Straight Session — Crude oil fell toward $75 per barrel on Wednesday, sliding for the fifth straight session and reaching its lowest level since early March, as expectations of increased supply continued to weigh on prices ahead of the signing of a peace agreement between the US and Iran. The two countries are scheduled to sign an interim deal in Switzerland on Friday, offering Tehran broad economic incentives, including the immediate resumption of its oil exports. Tankers from other nations are also expected to resume passage through the Strait of Hormuz once the agreement takes effect, although shipping companies remain cautious about its long-term durability. Additional supplies from the region are expected to replenish refinery inventories globally, alongside higher OPEC+ export quotas and increased output from the UAE, which left the cartel during the conflict. Meanwhile, industry data showed that US crude inventories declined by 8.3 million barrels last week."
-    },
-    {
-      "id": "4939925",
-      "time": "2026-06-17 12:05:47",
-      "tags": [
-        "公司"
-      ],
-      "text": "【石基資訊披露發行股份購買資產報告書（草案）】石基資訊披露購買資產報告書（草案），擬透過發行股份的方式向上海雲鑫、張育宏和張偉3名交易對方購買其持有的思迅軟體13.50%股份（對應思迅軟體14,312,500股）"
     }
   ]
 }
