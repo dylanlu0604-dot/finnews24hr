@@ -1,7 +1,65 @@
 {
-  "updated": "2026-06-24 13:03:14",
-  "count": 17358,
+  "updated": "2026-06-24 13:07:34",
+  "count": 17353,
   "items": [
+    {
+      "id": "mkt:019ef805-359d-7dd8-b0ec-342dabe3b89e",
+      "time": "2026-06-24 13:05:51",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Industrial Metals",
+        "Market Regions",
+        "Greater China",
+        "002460.SZ",
+        "Impact bullish"
+      ],
+      "text": "A-share lithium-mining sector extended afternoon gains. Shengxin Lithium Energy hit the daily limit; Yongshan Lithium and Rongjie were earlier locked at the limit; TTANQT Lithium and Ganfeng Lithium also gained."
+    },
+    {
+      "id": "4951773",
+      "time": "2026-06-24 13:05:22",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【鋰礦板塊午後持續走高，盛新鋰能漲停】鋰礦板塊午後持續走高，盛新鋰能漲停，永杉鋰業、融捷股份此前封板，天齊鋰業、贛鋒鋰業跟漲。"
+    },
+    {
+      "id": "4951772",
+      "time": "2026-06-24 13:04:24",
+      "tags": [
+        "資料",
+        "市場"
+      ],
+      "text": "芬蘭統計局公佈，芬蘭5月生產者價格指數（PPI）同比上漲7.4%。"
+    },
+    {
+      "id": "4951771",
+      "time": "2026-06-24 13:03:38",
+      "tags": [
+        "市場"
+      ],
+      "text": "【東方鋯業漲停走出4連板】東方鋯業漲停走出4連板，4天累計漲幅達46.38%。"
+    },
+    {
+      "id": "4951770",
+      "time": "2026-06-24 13:03:15",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "日本普通汽油價格上漲0.1日元/升，至169.8日元/升。"
+    },
+    {
+      "id": "4951769",
+      "time": "2026-06-24 13:02:39",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【韓國綜合指數上漲2%】韓國綜合指數震盪回升，現漲2%。"
+    },
     {
       "id": "4951768",
       "time": "2026-06-24 13:02:18",
@@ -158838,105 +158896,6 @@
         "SZSE Component"
       ],
       "text": "China A-share storage-chip sector stayed active in the afternoon; Xiangnong Xinchuang rose over 15%, while Shengmei Shanghai, Puran, Montage Technology, Demingli, Unigroup Guowei and GigaDevice also advanced."
-    },
-    {
-      "id": "4939990",
-      "time": "2026-06-17 13:07:04",
-      "tags": [
-        "市場"
-      ],
-      "text": "富時中國A50指數期跌超1%。"
-    },
-    {
-      "id": "mkt:019ed3f9-ac74-7dd8-b042-612c5bf8e6a6",
-      "time": "2026-06-17 13:06:55",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Greater China",
-        "CNH",
-        "Impact bearish",
-        "Hang Seng Index",
-        "CSI300"
-      ],
-      "text": "FTSE China A50 index futures fell more than 1% in afternoon trade."
-    },
-    {
-      "id": "mkt:019ed3f9-93c8-7dd8-b042-5a9a06e56096",
-      "time": "2026-06-17 13:06:49",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Bank of Korea Governor Shin said he will act proactively until confident inf is moving toward the target and stabilizing."
-    },
-    {
-      "id": "4939989",
-      "time": "2026-06-17 13:06:38",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "韓國央行行長：將採取積極行動，直至通脹明確朝著目標水平企穩。"
-    },
-    {
-      "id": "4939988",
-      "time": "2026-06-17 13:06:25",
-      "tags": [
-        "國際"
-      ],
-      "text": "印度國防部長：印度和泰國同意深化防務合作。"
-    },
-    {
-      "id": "4939987",
-      "time": "2026-06-17 13:05:41",
-      "tags": [
-        "國際"
-      ],
-      "text": "【勒令伊朗國足連夜離境 美方辯稱“本應如此”】伊朗國家足球隊在美國洛杉磯結束世界盃首戰後被美方勒令“立即離開美國、返回墨西哥駐地”。伊朗隊就此指責美方出爾反爾，而白宮分管本屆世界盃事務的官員16日辯稱，原定計劃就是這樣。白宮國際足聯工作組執行總監安德魯·朱利亞尼告訴美聯社：“我們事先已表明，流程就是這麼定的。”在採訪中，朱利亞尼證實美方拒絕伊朗隊部分後勤人員和官員入境申請，但不肯作出具體說明，只說美國務卿魯比奧先前已表明，“任何與伊朗伊斯蘭革命衛隊有直接關聯的人員都不能進入美國”。（新華社）"
-    },
-    {
-      "id": "4939986",
-      "time": "2026-06-17 13:04:23",
-      "tags": [
-        "公司"
-      ],
-      "text": "【公司和長鑫科技是否有合作？藍箭電子回應】有投資者向藍箭電子提問，貴公司和長鑫科技有合作嗎？是貴公司的客戶嗎？ 6月17日，公司回答表示，公司與長鑫科技暫無業務合作，所有資訊請以公司在指定資訊披露媒體披露的公告為準。(財聞)"
-    },
-    {
-      "id": "4939985",
-      "time": "2026-06-17 13:04:03",
-      "tags": [
-        "公司"
-      ],
-      "text": "【機構：私募信貸領域的軟體違約很大程度上被視為成長的煩惱】英仕曼集團在其下半年信貸展望報告中表示，私募信貸領域備受關注的軟體違約很大程度上被視為該行業的成長的煩惱，而不是像一些人所描繪的那樣，是該資產類別走向終結的開始。這家投資管理公司認為，信貸質量和嚴格的管理人選擇對於私募信貸仍將至關重要。英仕曼集團表示，私募信貸行業可能必須區分部署人工智慧(AI)以增強和鞏固其競爭地位的軟體公司，與那些核心產品正被人工智慧(AI)取代的軟體公司。該機構補充道：“具有深度客戶整合、高轉換成本和強定價能力的關鍵任務企業軟體，與單點解決方案、商品化的[軟體即服務]產品，是截然不同的信貸主張。”"
-    },
-    {
-      "id": "mkt:019ed3f6-e248-7dd8-b042-511f4a07463f",
-      "time": "2026-06-17 13:03:52",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Emerging Markets"
-      ],
-      "text": "Reuters survey: 22 of 35 economists expect Bank Indonesia to raise the 7-day reverse repo rate by 25bp to 5.75% or higher on June 18."
-    },
-    {
-      "id": "mkt:019ed3f6-b598-7dd8-b042-48ad5eb099ac",
-      "time": "2026-06-17 13:03:41",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "REUTERS SURVEY: Bank Indonesia's 7-day reverse repo rate is forecast at 5.75% at end-2026, versus a prior forecast of 5.50%."
-    },
-    {
-      "id": "4939984",
-      "time": "2026-06-17 13:03:24",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "路透調查：印尼央行7天期逆回購利率2026年底料為5.75%，預估中值顯示（5月快速調查預估為5.50%）。"
     }
   ]
 }
