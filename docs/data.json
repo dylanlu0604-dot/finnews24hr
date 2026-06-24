@@ -1,7 +1,192 @@
 {
-  "updated": "2026-06-24 21:16:11",
-  "count": 17263,
+  "updated": "2026-06-24 21:20:34",
+  "count": 17272,
   "items": [
+    {
+      "id": "4952915",
+      "time": "2026-06-24 21:19:28",
+      "tags": [
+        "國際"
+      ],
+      "text": "黎巴嫩國家通訊社：以色列無人機襲擊黎巴嫩南部凱夫雷曼附近一輛車輛。"
+    },
+    {
+      "id": "mkt:019ef9c9-197e-7dd8-b0fa-c4ed61033473",
+      "time": "2026-06-24 21:19:26",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Industrial Metals"
+      ],
+      "text": "London Metal Exchange (LME) three-month aluminium fell 3.2% to $3,129.50 a tonne, the lowest level since March 19."
+    },
+    {
+      "id": "4952914",
+      "time": "2026-06-24 21:19:19",
+      "tags": [
+        "其他"
+      ],
+      "text": "保加利亞內閣設定2026年財政預算，財政赤字佔國內生產總值比重為5.7%。"
+    },
+    {
+      "id": "4952913",
+      "time": "2026-06-24 21:19:13",
+      "tags": [
+        "市場"
+      ],
+      "text": "倫敦金屬交易所（LME）三個月期鋁下跌3.2%，至每噸3129.50美元，為3月19日以來的最低價位。"
+    },
+    {
+      "id": "te:markets:561548",
+      "time": "2026-06-24 21:18:57",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Currency",
+        "Importance 2"
+      ],
+      "text": "Dollar Continues to Strengthen — The dollar index extended its gains to above 101.7 on Wednesday, reaching its highest level since March 2025 and putting it on track for its longest winning streak in more than a month. The greenback continued to draw support from expectations that the Fed will keep monetary policy restrictive, with traders currently assigning a roughly 68% probability of an interest-rate increase in September, up from 29% a week earlier. Recent volatility in equity markets also boosted demand for safe-haven assets. The dollar advanced against most major currencies, including the euro, the pound, and the Swiss franc, as investors priced in a more hawkish Federal Reserve than other major central banks, supported by resilient economic activity and inflation that is expected to remain well above its target. The dollar has gained 3.5% so far this year."
+    },
+    {
+      "id": "mkt:019ef9c8-7caf-7dd8-b0fa-bad44a81989a",
+      "time": "2026-06-24 21:18:46",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish"
+      ],
+      "text": "WTI crude futures slid 4.00% intraday to $70.28/bbl."
+    },
+    {
+      "id": "te:markets:561547",
+      "time": "2026-06-24 21:18:35",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "commodity",
+        "Importance 0"
+      ],
+      "text": "Copper traded below 6 USD/Lbs — Copper decreased below 6, according to trading on a contract for difference (CFD)."
+    },
+    {
+      "id": "4952912",
+      "time": "2026-06-24 21:18:27",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【中東衝突緩和之際美債收益率下滑】隨著美伊和平談判繼續以及原油期貨下跌3%，美債收益率下降。一項調查顯示，定於美東時間上午10點公佈的美國5月份預售屋銷量預計將增長1.6%，而4月份為萎縮6.2%。儘管美元走強，收益率依然下降。華爾街日報美元指數上漲0.3%。Bannockburn的Marc Chandler表示，這一匯率走勢受到美元空頭頭寸平倉的影響，而收益率則受到美國經濟韌性的驅動。10年期國債收益率報4.445%，低於昨日的4.493%。兩年期國債收益率從4.191%降至4.168%。"
+    },
+    {
+      "id": "mkt:019ef9c8-095f-7dd8-b0fa-b24bf6247c07",
+      "time": "2026-06-24 21:18:16",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "White House says President Trump will hold a press conference in Washington, D.C., on Friday."
+    },
+    {
+      "id": "mkt:019ef9c7-e61c-7dd8-b0fa-a9c06235bc4e",
+      "time": "2026-06-24 21:18:07",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "EURUSD",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "【SOCGEN: EUR/USD decline may slow】SOCGEN strategist Kit Juckes said EUR/USD could slow its decline after sliding to a one-year low of 1.1324 as rising Federal Reserve rate expectations and reduced bets on ECB tightening pushed the pair below the 1.14–1.20 range that held most of the past year, which may limit further downside. He said markets have largely repriced Fed and ECB outlooks and that new economic data will be needed to drive the next phase."
+    },
+    {
+      "id": "4952911",
+      "time": "2026-06-24 21:17:40",
+      "tags": [
+        "市場"
+      ],
+      "text": "WTI原油日內跌4%，現報70.28美元/桶。"
+    },
+    {
+      "id": "4952910",
+      "time": "2026-06-24 21:17:09",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普將於週五在華盛頓特區主持新聞釋出會。"
+    },
+    {
+      "id": "mkt:019ef9c6-a9a0-7dd8-b0fa-a5e667a002fc",
+      "time": "2026-06-24 21:16:46",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Iran parliament speaker says Iran-US memorandum signals \"US defeat\"】Speaker of Iran's parliament Mohammad Bagher Ghalibaf said on June 24 in Baku that a memorandum of understanding between Iran and the United States signals a \"US defeat\" and reflects the outcome of Iranian resistance. He said efforts to coerce Iran through military pressure, blockade, psychological warfare and terrorism have failed, and that the conflict caused heavy losses but demonstrated Iranian resilience."
+    },
+    {
+      "id": "4952909",
+      "time": "2026-06-24 21:16:45",
+      "tags": [
+        "市場"
+      ],
+      "text": "LME倫鋁日內跌超3.00%，現報3133.595美元/噸。"
+    },
+    {
+      "id": "4952908",
+      "time": "2026-06-24 21:16:41",
+      "tags": [
+        "公司"
+      ],
+      "text": "【知情人士：xAI正加碼研發影片影象生成工具】知情專案人士透露，SpaceX旗下人工智慧企業 xAI 正加碼研發影片、影象生成工具，瞄準 OpenAI 與 Anthropic 留下的市場空白 —— 這兩家競品平臺的視覺生成功能相對薄弱。xAI 於上週推出升級款影片大模型，藉此彰顯自身在視覺生成賽道的推進力度；與此同時，該公司也引入外部技術支援，以求在程式碼生成等領域對標競爭對手。在重磅上市前夕，SpaceX 還大肆宣傳自家 AI 影片工具的高人氣。但 SpaceX 未曾提及，該工具大量使用者需求的根源在於 Grok 寬鬆的內容稽核規則，這也使其成為生成色情及各類露骨內容的主要平臺。兩名近期離職的 xAI 員工估算，Grok 超過半數的整體訪問流量，都來自色情圖文影片生成、成人角色扮演對話以及其他不適宜公開展示（NSFW）的內容。"
+    },
+    {
+      "id": "mkt:019ef9c6-965c-7dd8-b0fa-9af4f27ca9de",
+      "time": "2026-06-24 21:16:41",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y",
+        "Impact bullish",
+        "DXY",
+        "WTI",
+        "Impact bearish"
+      ],
+      "text": "【U.S. Treasury yields slip as Middle East tensions ease】U.S. Treasury yields fell as U.S.-Iran talks continued and crude futures slid about 3%. A Wall Street Journal survey projects May pending home sales up 1.6% (April -6.2%); the report is due at 10:00 a.m. ET (22:00 Beijing). Yields eased despite a firmer dollar. Bannockburn analyst Marc Chandler said currency moves reflect dollar-short covering, while yields are being driven by U.S. economic resilience."
+    },
+    {
+      "id": "4952907",
+      "time": "2026-06-24 21:16:12",
+      "tags": [
+        "市場"
+      ],
+      "text": "洲際交易所（ICE）紐約可可期貨上漲超7%，報每噸4,983美元。"
+    },
+    {
+      "id": "mkt:019ef9c6-00f4-7dd8-b0fa-92e699a73932",
+      "time": "2026-06-24 21:16:03",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "People familiar said Russia has requested 50,000 tonnes of gasoline from Kazakhstan to ease domestic fuel shortages."
+    },
+    {
+      "id": "te:markets:561546",
+      "time": "2026-06-24 21:15:52",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Canada",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "TSX Futures Edge Lower on Commodity Weakness — Fututres tracking the S&P/TSX Composite Index edged lower on Wednesday on persistently high borrowing costs and pressure from energy producers. Gold prices declined as the dollar strengthened on rising bets for further US rate hikes, weighing on mining stocks. Oil prices also fell, extending this week’s losses on signs that more tankers are set to leave the Strait of Hormuz, easing concerns over energy-driven inflation but pressuring energy shares. Adding to caution, a broader reassessment of AI valuations on Wall Street wiped roughly $1.3 trillion in market value in the previous session, weighing on global risk sentiment."
+    },
     {
       "id": "4952906",
       "time": "2026-06-24 21:15:00",
@@ -157864,92 +158049,6 @@
         "公司"
       ],
       "text": "【攻克“怕冷”等難題 國產“極地鋼”出爐】記者17日獲悉，中國極地研究中心、中國船級社攜手我國多家鋼廠經過2年多技術攻關，成功攻克極地船用高強度鋼一系列難題，國產“極地鋼”順利出爐。目前，相關鋼廠已啟動極地船用高強度鋼的認證工作。其中，寶山鋼鐵股份有限公司研發的極地船用高強度鋼，成為首個獲得中國船級社認證的產品。（新華社）"
-    },
-    {
-      "id": "4941157",
-      "time": "2026-06-17 21:20:06",
-      "tags": [
-        "公司"
-      ],
-      "text": "埃尼集團(ENI)與芬坎蒂尼集團(FINCANTIERI)簽署戰略協議，共同推進創新水下監測技術發展。"
-    },
-    {
-      "id": "4941156",
-      "time": "2026-06-17 21:19:48",
-      "tags": [
-        "其他"
-      ],
-      "text": "據SEC檔案顯示，SHARONAI宣佈將推出9億美元私募股權發行。"
-    },
-    {
-      "id": "mkt:019ed5bc-b34f-7dd8-b051-fb3a97eeb3f4",
-      "time": "2026-06-17 21:19:34",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Tesla",
-        "Market Themes",
-        "Magnificent 7",
-        "TSLA.O",
-        "Impact bullish"
-      ],
-      "text": "Dutch vehicle authority RDW said it has found no accidents to date linked to Tesla's autonomous-driving software."
-    },
-    {
-      "id": "4941155",
-      "time": "2026-06-17 21:19:24",
-      "tags": [
-        "其他"
-      ],
-      "text": "荷蘭道路管理局RDW稱特斯拉自動駕駛軟體迄今“未發生相關事故”。"
-    },
-    {
-      "id": "4941154",
-      "time": "2026-06-17 21:18:20",
-      "tags": [
-        "公司"
-      ],
-      "text": "【匯成股份：擬設立合資公司收購鄭隆芯創 拓展HITS先進封裝工藝平臺】匯成股份(688403)6月17日公告，公司擬出資4億元與百瑞發（公司實控人、董事長鄭瑞俊控制的企業，亦是公司間接股東）、香港匯微（擬作為晶瑞旺團隊持股平臺）共同投資設立合資公司合肥晶瑞旺科技有限公司（簡稱“晶瑞旺”），並且由晶瑞旺以零元對價收購香港匯微所持有的上海鄭隆芯創微電子有限公司（簡稱“鄭隆芯創”）100%股權，晶瑞旺註冊資本7億元，公司持股57.14%。晶瑞旺設立後將作為公司HITS先進封裝工藝研發及量產平臺；鄭隆芯創未來將作為晶瑞旺全資子公司暨HITS先進封裝研發總部，承擔技術工藝研發及業務匯入的重要功能。"
-    },
-    {
-      "id": "4941153",
-      "time": "2026-06-17 21:18:15",
-      "tags": [
-        "其他"
-      ],
-      "text": "【五月上海離境退稅銷售額同比增長超八成，消費券槓桿效應顯現】上海五五購物節對消費的促進作用已顯現。2026年6月16日，上海市商務委透露，第七屆上海五五購物節以“愛購上海、樂享消費”為主題，特色消費場景不斷，補貼和消費券的槓桿效應也得以體現。上海市稅務局資料顯示，5月，上海開具離境退稅申請單同比增長3.6倍；離境退稅銷售額同比增長83.9%。目前，全市備案離境退稅商店2100餘家，全市16區離境退稅商店全覆蓋。（澎湃）"
-    },
-    {
-      "id": "4941152",
-      "time": "2026-06-17 21:17:40",
-      "tags": [
-        "其他"
-      ],
-      "text": "巴西財長杜裡甘：通脹始終是一個關注點，但在巴西總統盧拉任期內的通脹將是歷史上最低的。通脹已得到控制。"
-    },
-    {
-      "id": "mkt:019ed5ba-7588-7dd8-b051-f6330de017c6",
-      "time": "2026-06-17 21:17:07",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Brazil's finance minister Durigan said inflation has been brought under control."
-    },
-    {
-      "id": "mkt:019ed5ba-751e-7dd8-b051-ea37d868abad",
-      "time": "2026-06-17 21:17:07",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Brazil's finance minister said inf remains a concern, but said inf during President LULA's term will be the lowest on record."
-    },
-    {
-      "id": "4941151",
-      "time": "2026-06-17 21:16:22",
-      "tags": [
-        "公司"
-      ],
-      "text": "亞馬遜創始人貝佐斯：人工智慧只會賦能人類，而非取代人類。"
     }
   ]
 }
