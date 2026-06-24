@@ -1,7 +1,102 @@
 {
-  "updated": "2026-06-25 02:21:02",
-  "count": 17182,
+  "updated": "2026-06-25 02:25:10",
+  "count": 17184,
   "items": [
+    {
+      "id": "4953328",
+      "time": "2026-06-25 02:23:44",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普稱讚油價走勢與就業資料表現。"
+    },
+    {
+      "id": "mkt:019efadf-83ff-7dd8-b102-45bd117e30ca",
+      "time": "2026-06-25 02:23:32",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bearish",
+        "DXY",
+        "S&P500",
+        "Impact bullish"
+      ],
+      "text": "U.S. President Trump said Iran is agreeing to everything he wants and has no choice."
+    },
+    {
+      "id": "4953327",
+      "time": "2026-06-25 02:23:15",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "特朗普稱：伊朗正同意我提出的所有要求，而且他們必須同意。"
+    },
+    {
+      "id": "mkt:019efadf-38ea-7dd8-b102-3d0803ada364",
+      "time": "2026-06-25 02:23:13",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "President Trump said he does not like some members of Congress but believes people know who they are."
+    },
+    {
+      "id": "4953325",
+      "time": "2026-06-25 02:22:17",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國交通部：2026年第一季度美國國內機票價格上漲4.7%。"
+    },
+    {
+      "id": "mkt:019efade-5f2b-7dd8-b102-35fdb0ff6165",
+      "time": "2026-06-25 02:22:17",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy"
+      ],
+      "text": "U.S. Department of Transportation said U.S. domestic airfares rose 4.7% in the first three months of 2026."
+    },
+    {
+      "id": "4953324",
+      "time": "2026-06-25 02:22:00",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【谷歌再有兩名重磅AI核心研究員跳槽至Anthropic 股價下挫】谷歌的兩名頂尖人工智慧研究員喬納斯·阿德勒、亞歷山大·普里策爾計劃離職，轉投競品公司Anthropic。此次人才流失是谷歌接連多名核心技術人員出走事件的延續，或將削弱谷歌在人工智慧領域的行業地位；此前諾貝爾化學獎得主約翰·江珀、明星研究員諾阿姆·沙澤爾也已分別跳槽至Anthropic與OpenAI。這一系列人事變動凸顯出谷歌面臨的競爭壓力：Anthropic、OpenAI兩家初創企業即將啟動IPO，員工在上市前入職可獲得一筆罕見的高額股權收益，這對頭部科技大廠的資深研發人員吸引力極強。谷歌股價迅速轉跌，下跌0.6%。"
+    },
+    {
+      "id": "mkt:019efade-12b3-7dd8-b102-2e6d6040ad61",
+      "time": "2026-06-25 02:21:58",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "President Trump said he had a good meeting with lawmakers."
+    },
+    {
+      "id": "mkt:019efadd-fbaf-7dd8-b102-2120ff855e19",
+      "time": "2026-06-25 02:21:52",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "【Senator Warren to call for antitrust scrutiny of AI and reform of M&A review】U.S. Senator Warren will urge Congress to strengthen antitrust enforcement for emerging technologies such as AI and reform M&A review rules to increase information transparency, according to her prepared remarks. She is expected to say: \"Companies cannot escape antitrust scrutiny simply because they use algorithms. If a firm uses AI to illegally drive up rents during a national housing affordability crisis, we must push back.\""
+    },
+    {
+      "id": "4953323",
+      "time": "2026-06-25 02:21:49",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：與國會議員的會面非常愉快。"
+    },
     {
       "id": "te:markets:561633",
       "time": "2026-06-25 02:20:06",
@@ -157164,97 +157259,6 @@
         "Importance 1"
       ],
       "text": "US 10-Year Yield Rebounds After Fed — The yield on the 10-year US Treasury note erased losses to hover at the 4.46% mark on Wednesday after the Federal Reserve held interest rates unchanged and projected the possibility of a rate hike this year. The Summary of Economic Projections showed that nearly half of the FOMC projected that at least one rate hike may be warranted this year, aligned with the upward revision to core inflation and lower expectations of unemployment. The pivot followed a batch of data pointing to higher underlying price growth following the war in the Middle East and its impact on energy prices, although labor market gauges remained robust. Notably, new Chairman Kevin Warsh refrained from penciling in his projections, reflecting continuity to his pushback against forward guidance by the Fed. The Chairman had also called for a smaller balance sheet for the central bank, particularly regarding longer term Treasury notes and bonds."
-    },
-    {
-      "id": "te:markets:559800",
-      "time": "2026-06-18 02:25:03",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Agricultural Commodities Updates: Wheat Gains by 2.95% — Top commodity gainers are Wheat (2.95%), Cotton (2.46%) and Corn (1.80%). Biggest losers are Canola (-1.12%) and Cocoa (-0.71%)."
-    },
-    {
-      "id": "4941642",
-      "time": "2026-06-18 02:24:34",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "德意志銀行經濟學家LUZZETTI：（美聯儲）在預期的鷹派範圍內。宣告中有大量多餘內容。明確訊號顯示需要提高利率以遏制通脹。"
-    },
-    {
-      "id": "mkt:019ed6d2-dd56-7dd8-b05e-a16867416155",
-      "time": "2026-06-18 02:23:23",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "DXY",
-        "Impact bullish",
-        "USDJPY",
-        "US10Y",
-        "Impact bearish"
-      ],
-      "text": "Deutsche Bank US chief economist Luzzetti said clear signals indicate interest rates need to be raised to curb inf."
-    },
-    {
-      "id": "4941641",
-      "time": "2026-06-18 02:22:53",
-      "tags": [
-        "國際"
-      ],
-      "text": "【伊朗外交部發言人：美必須在30天內結束海上封鎖】據伊朗方面6月17日訊息，伊朗外交部發言人巴加埃表示，如果以色列繼續佔領黎巴嫩，將被視為違反諒解備忘錄，伊方將採取必要措施。巴加埃說，美伊雙方已達成一致，將在未來60天內就最終協議展開談判。美國必須在30天內結束海上封鎖。巴加埃表示，關於霍爾木茲海峽，已商定在特定期限內使海上交通恢復正常。這是伊朗自身的職責，將完全由伊朗負責執行，不需要其他方面的參與或干預。在制定霍爾木茲海峽管理機制方面，伊朗將與阿曼開展合作。在有需要的情況下，也會與本地區其他國家交換意見。（央視新聞）"
-    },
-    {
-      "id": "mkt:019ed6d2-10bc-7dd8-b05e-9bbac4525f2f",
-      "time": "2026-06-18 02:22:31",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Deutsche Bank's US chief economist Luzzetti said the statement contains a large amount of redundant content."
-    },
-    {
-      "id": "mkt:019ed6d1-7465-7dd8-b05e-90e9d2201fc0",
-      "time": "2026-06-18 02:21:51",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "DXY",
-        "Impact bullish",
-        "S&P500",
-        "Impact bearish",
-        "XAUUSD"
-      ],
-      "text": "Deutsche Bank US chief economist Luzzetti said the Fed is operating within the expected hawkish range."
-    },
-    {
-      "id": "4941640",
-      "time": "2026-06-18 02:21:45",
-      "tags": [
-        "市場",
-        "央行",
-        "焦點",
-        "國際"
-      ],
-      "text": "【 美聯儲利率決議關鍵要點一覽：利率前景存分歧 政策宣告措辭調整 】\n1、聯邦公開市場委員會一致投票決定維持基準利率在3.5%-3.75%的目標區間不變。\n2、反映利率預測的“點陣圖”顯示，官員們對於是否在2026年底前加息存在分歧，18位官員中有9位預計會加息，利率預測中值從3月的3.4%升至3.75%；預測中值還顯示2027年利率將降至3.6%。\n3、一位美聯儲官員沒有提交任何利率預測；另一位官員未提供2028年的利率預測。\n4、美聯儲官員預測中值顯示，到2026年底核心通脹率為3.3%，高於3月預測的2.7%；GDP增速預計為2.2%，低於此前預測的2.4%。\n5、美聯儲精簡了政策宣告，刪除有關可能進一步調整利率的措辭，並宣告“委員會將實現物價穩定”。\n6、美聯儲表示，“儘管存在因中東衝突等因素引起的高度不確定性，但經濟活動仍以穩健步伐擴張”，“生產率增長和資本投資表現強勁”。\n7、美聯儲表示，就業增長“與勞動力增長保持同步，失業率變化不大”；通脹依然高企，“部分反映了導致能源等行業價格上漲的供應衝擊”。"
-    },
-    {
-      "id": "mkt:019ed6d0-d59c-7dd8-b05e-8de63b8ab6e1",
-      "time": "2026-06-18 02:21:10",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "DXY",
-        "Impact mixed",
-        "US10Y",
-        "S&P500"
-      ],
-      "text": "【Warsh influence emerging; Fed statements shift toward pre-global financial crisis lower-transparency phrasing】Analysts say Kevin Warsh's influence is apparent in the latest Fed statement, with wording moving closer to the lower-transparency style used before the global financial crisis. They caution that reduced communication may damp short-term daily market volatility but could trigger larger, jumpy market moves if the Fed's policy reaction function or incoming economic data deviate from expectations."
     }
   ]
 }
