@@ -1,7 +1,62 @@
 {
-  "updated": "2026-06-24 12:13:47",
-  "count": 17350,
+  "updated": "2026-06-24 12:17:48",
+  "count": 17348,
   "items": [
+    {
+      "id": "4951722",
+      "time": "2026-06-24 12:15:08",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：汽油價格“最好趕緊下降”。"
+    },
+    {
+      "id": "4951721",
+      "time": "2026-06-24 12:14:50",
+      "tags": [
+        "其他"
+      ],
+      "text": "【受降雨影響 全國6條河流發生超警洪水】從水利部瞭解到，受降雨影響，昨天到今天，廣西西江干流平南江段及支流白沙江、柳江上游都柳江，貴州北盤江支流打邦河，湖南沅水支流渠水，江西長江中游支流烏石港等6條河流發生超警洪水，最大超警幅度0.49米，目前除白沙江外均已退至警戒以下。"
+    },
+    {
+      "id": "4951720",
+      "time": "2026-06-24 12:14:25",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "特朗普：汽油價格最好開始以比我目前看到的快得多的速度下跌。"
+    },
+    {
+      "id": "mkt:019ef7d5-b5c7-7dd8-b0eb-5d8f78c7b3de",
+      "time": "2026-06-24 12:13:58",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "The Trump Trade",
+        "WTI",
+        "Brent"
+      ],
+      "text": "U.S. President Trump has directed the Justice Department to immediately open investigations into oil companies that have not lowered fuel prices."
+    },
+    {
+      "id": "4951719",
+      "time": "2026-06-24 12:13:42",
+      "tags": [
+        "國際"
+      ],
+      "text": "【特朗普：已下令司法部調查汽油價格】特朗普稱，已指示司法部立即調查未降低加油站油價的石油公司。"
+    },
+    {
+      "id": "4951718",
+      "time": "2026-06-24 12:13:16",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "特朗普：大型石油公司沒有降低油價。"
+    },
     {
       "id": "4951717",
       "time": "2026-06-24 12:12:46",
@@ -158792,84 +158847,6 @@
         "09868.HK"
       ],
       "text": "【Hong Kong midday: Hang Seng down 0.37%; PCB, newly listed AI names extend three-day rally】By the midday break the Hang Seng Index was down 0.37% after plunging more than 200 points earlier and breaching the 24,400 level. The index opened near 24,495, ran to 24,560 before heavy selling pushed an intraday low of 24,272 (-221 points); losses narrowed to under 100 points before the break. The Hang Seng Tech Index was up 0.17%. Market turnover was HKD 145.51 bln. PCB names and newly listed AI stocks rose for a third session; storage, semiconductor and domestic retail stocks staged a strong rebound. Building materials & cement, electronic components and power equipment led gains. Rare earths, property management and computer hardware pulled back; internet healthcare, autos and oil & gas fell for a third straight day; aluminum and dairy were weak. Notable movers: Sunny Optical (02382.HK) +~8.5%, MINIMAX-W (00100.HK) +6%+, Kuaishou (01024.HK) ~+6%, Huahong Hongli (01347.HK) +5%; XPeng (09868.HK), Geely Auto (00175.HK) and China Resources MixC Lifestyle (01209.HK) each down >3%, CNOOC (00883.HK) and Laopu Gold (06181.HK) near -3%."
-    },
-    {
-      "id": "mkt:019ed3cb-ed71-7dd8-b041-ac2b6040ed08",
-      "time": "2026-06-17 12:16:57",
-      "tags": [
-        "MKT News",
-        "LMT.O",
-        "Impact bullish",
-        "RTX.O",
-        "NOC.O"
-      ],
-      "text": "G7 considering extending license durations to boost Ukraine's weapons output."
-    },
-    {
-      "id": "mkt:019ed3cb-d7a0-7dd8-b041-a58fdba23e93",
-      "time": "2026-06-17 12:16:51",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "G7: Iran will never obtain nuclear weapons."
-    },
-    {
-      "id": "mkt:019ed3cb-b388-7dd8-b041-9c5383d41e54",
-      "time": "2026-06-17 12:16:42",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "G7 supports a comprehensive follow-up agreement to the memorandum of understanding signed between the US and Iran."
-    },
-    {
-      "id": "mkt:019ed3cb-94bb-7dd8-b041-92d6f66e7abc",
-      "time": "2026-06-17 12:16:34",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "G7 agreed to strengthen sanctions on Russian oil and gas."
-    },
-    {
-      "id": "4939943",
-      "time": "2026-06-17 12:16:03",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "七國集團考慮延長許可證期限以提升烏克蘭武器產量。"
-    },
-    {
-      "id": "4939942",
-      "time": "2026-06-17 12:15:31",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "七國集團就伊朗問題重申：伊朗永遠不會獲得核武器。"
-    },
-    {
-      "id": "4939941",
-      "time": "2026-06-17 12:15:23",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "七國集團就中東問題表態：支援簽署諒解備忘錄的全面後續協議。"
-    },
-    {
-      "id": "4939940",
-      "time": "2026-06-17 12:14:02",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "七國集團：同意加強對俄羅斯石油和天然氣的制裁。"
     }
   ]
 }
