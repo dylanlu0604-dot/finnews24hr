@@ -1,7 +1,72 @@
 {
-  "updated": "2026-06-24 23:28:22",
-  "count": 17258,
+  "updated": "2026-06-24 23:32:25",
+  "count": 17257,
   "items": [
+    {
+      "id": "4953135",
+      "time": "2026-06-24 23:31:22",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列總理內塔尼亞胡：我面見特朗普總統時對他說“我們要進軍伊朗”。我並未尋求許可，只是告知他我方計劃。"
+    },
+    {
+      "id": "4953134",
+      "time": "2026-06-24 23:30:32",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國國家運輸安全委員會主席：正考慮調查得州特斯拉車禍。"
+    },
+    {
+      "id": "te:economy:561603",
+      "time": "2026-06-24 23:30:18",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Bonds",
+        "Importance 1"
+      ],
+      "text": "Bonds Update: Brazil 10Y Bond Yield Drops by 26 bps — Government bonds yields are lower on Wednesday. Top losers are Brazil 10Y (-26bps), US 10Y (-9.40bps), Germany 10Y (-4.71bps) and Japan 10Y (-0.94bps)."
+    },
+    {
+      "id": "mkt:019efa40-467c-7dd8-b0fe-709c40f2e165",
+      "time": "2026-06-24 23:29:36",
+      "tags": [
+        "MKT News",
+        "WBD.O",
+        "Impact bullish",
+        "PARA.O",
+        "Impact bearish"
+      ],
+      "text": "Sources: Paramount preparing to sell its joint venture with Universal Pictures to complete a deal with Warner Bros. Discovery (WBD.O)."
+    },
+    {
+      "id": "4953133",
+      "time": "2026-06-24 23:29:25",
+      "tags": [
+        "其他"
+      ],
+      "text": "國際奧委會將投入超1億美元設立運動員專項基金，運動員只要參加過夏季或冬季奧運會，均可申請1萬美元補助。"
+    },
+    {
+      "id": "4953132",
+      "time": "2026-06-24 23:28:26",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國法院聽證會訊息：法官稱將阻止美國司法部獲取紐約市醫院中未成年時接受跨性別醫療服務的患者相關記錄。"
+    },
+    {
+      "id": "4953131",
+      "time": "2026-06-24 23:27:48",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "印度執法局（ED）突擊搜查拉傑什出口公司（印度大型黃金珠寶上市企業）關聯9處經營及辦公場所。"
+    },
     {
       "id": "mkt:019efa3c-c3b4-7dd8-b0fe-6e4c9ae92989",
       "time": "2026-06-24 23:25:46",
@@ -158008,82 +158073,6 @@
         "Importance 1"
       ],
       "text": "Newmont Mining Stock Price Hits 4-week High — Newmont Mining shares increased to 111.95 USD, the highest since May 2026. Over the past 4 weeks, Newmont Mining gained 1.89%, and in the last 12 months, it increased 92.12%."
-    },
-    {
-      "id": "4941435",
-      "time": "2026-06-17 23:32:24",
-      "tags": [
-        "宏觀",
-        "市場",
-        "國際"
-      ],
-      "text": "美國財政部拍賣四個月期國債，得標利率3.670%，投標倍數2.87。"
-    },
-    {
-      "id": "mkt:019ed635-d0cc-7dd8-b057-c72eb58cccdb",
-      "time": "2026-06-17 23:31:51",
-      "tags": [
-        "MKT News",
-        "DXY",
-        "Impact bullish",
-        "S&P500",
-        "Impact mixed"
-      ],
-      "text": "【Oxford Economics: Canadian core CPI to remain subdued through end-2026】Oxford Economics expects Canadian core inflation to stay below 2% for the remainder of 2026, citing spare capacity, slowing population growth and business and household uncertainty from U.S. trade policy, the Middle East conflict and AI deployment. Economist Michael Davenport said the BOC would need to see \"clear signs of broadened inflation\" across the CPI basket and a rise in long-term inflation expectations to justify rate hikes this year. Oxford's baseline anticipates a 50bp BOC policy rate increase in 1H 2027, but Davenport said that outlook depends on the outcome of U.S.-Canada trade talks."
-    },
-    {
-      "id": "4941434",
-      "time": "2026-06-17 23:31:43",
-      "tags": [
-        "公司",
-        "市場",
-        "國際"
-      ],
-      "text": "【軟銀縮減拉美投資佈局，當地創投熱潮消退】隨著拉美地區的科技熱潮在吸引創紀錄的風險資本後逐漸降溫，軟銀集團正難以在當地找到準備好接受大額投資的初創企業。軟銀表示，符合其5000萬美元及以上主力投資門檻的企業數量正在減少，目前正對少數潛在目標進行評估。過去兩年，軟銀僅完成了兩筆新增交易。其管理合夥人表示，由於拉美地區在硬體產能、基礎設施和人才儲備方面存在短板，很難找到能與歐洲、美國及亞洲相媲美的優質企業。"
-    },
-    {
-      "id": "4941433",
-      "time": "2026-06-17 23:30:18",
-      "tags": [
-        "其他"
-      ],
-      "text": "德國DAX 30指數初步收跌0.08%，報24891.45點。法國股指初步收跌0.33%，義大利股指初步收漲0.09%、銀行指數漲1.29%，英國股指初步收跌0.04%。"
-    },
-    {
-      "id": "4941432",
-      "time": "2026-06-17 23:30:15",
-      "tags": [
-        "國際"
-      ],
-      "text": "歐洲STOXX 600指數初步收漲0.31%，報637.99點。歐元區STOXX 50指數初步收漲0.45%，報6285.79點。富時泛歐績優300指數初步收漲0.35%，報2552.28點。"
-    },
-    {
-      "id": "te:economy:559773",
-      "time": "2026-06-17 23:30:14",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Bonds",
-        "Importance 1"
-      ],
-      "text": "Bonds Update: Brazil 10Y Bond Yield Rises by 10 bps — Majority of government bonds yields are lower on Wednesday. Top gainers are Brazil 10Y (10bps). Biggest losers are Japan 10Y (-4.23bps), Germany 10Y (-1.48bps) and US 10Y (-1.20bps)."
-    },
-    {
-      "id": "4941431",
-      "time": "2026-06-17 23:29:49",
-      "tags": [
-        "其他"
-      ],
-      "text": "【我國工業經濟總體實現良好開局】記者從工業和資訊化部17日召開的部分省份工業經濟執行座談交流活動上瞭解到，今年以來，我國工業經濟總體實現良好開局，要堅持穩中求進工作總基調，更好統籌國內經濟工作和國際經貿鬥爭，統籌發展和安全，不斷鞏固工業經濟執行良好態勢。（新華社）"
-    },
-    {
-      "id": "4941430",
-      "time": "2026-06-17 23:29:05",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "【德意志銀行：沃什若避免釋放政策訊號 套利交易將迎來機會】德意志銀行全球外匯研究主管George Saravelos表示，美聯儲主席凱文·沃什的目標是“儘可能避免就今年的貨幣政策發表看法，從而將對市場定價的影響降至最低”。如果沃什能夠做到這一點，那麼美元很可能走弱，而“夏季套利交易的道路將完全開啟”。德銀在週三發給客戶的報告中表示，隨著伊朗戰爭對市場造成的有限影響逐漸消退，“很難不看好”風險資產。該行指出，自去年以來，全球經濟增長預測幾乎沒有發生變化，而這種具有韌性的增長前景“並不是特別利好美元的訊號”。德銀還認為，就未來幾個月增長預期上修的空間而言，歐洲“擁有最大的潛力”。"
     }
   ]
 }
