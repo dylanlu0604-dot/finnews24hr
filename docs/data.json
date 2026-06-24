@@ -1,7 +1,74 @@
 {
-  "updated": "2026-06-25 06:38:02",
-  "count": 16988,
+  "updated": "2026-06-25 06:42:06",
+  "count": 16990,
   "items": [
+    {
+      "id": "mkt:019efbcb-a29e-7dd8-b106-443b182eab4a",
+      "time": "2026-06-25 06:41:27",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "NHK reported that no tsunami warning was issued after an earthquake in Japan."
+    },
+    {
+      "id": "te:markets:561650",
+      "time": "2026-06-25 06:40:17",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Agricultural Commodities Updates: Cocoa Rallies by 7.21% — Top commodity gainers are Cocoa (7.21%) and Coffee (0.62%). Biggest losers are Oat (-6.37%) and Cotton (-3.23%)."
+    },
+    {
+      "id": "mkt:019efbc9-ea81-7dd8-b106-3e2eb1d41df1",
+      "time": "2026-06-25 06:39:34",
+      "tags": [
+        "MKT News",
+        "USDJPY",
+        "Impact bearish",
+        "XAUUSD",
+        "Impact bullish",
+        "Nikkei 225"
+      ],
+      "text": "【6.9-magnitude quake offshore Iwate Prefecture】Around 07:30 Tokyo time on the 25th, a magnitude-6.9 earthquake struck offshore Iwate Prefecture; the Japan Meteorological Agency reported a maximum seismic intensity of JMA 6-upper. Strong shaking was felt in Tokyo."
+    },
+    {
+      "id": "4953575",
+      "time": "2026-06-25 06:39:33",
+      "tags": [
+        "公司"
+      ],
+      "text": "【A股公司年度“紅包”派發進行時，“雙創”板塊成現金分紅硬核力量】截至6月23日（按派息日計），今年已有2379家上市公司實施了2025年年度現金分紅，合計派發現金紅利7087.55億元。其中，工商銀行以601.97億元的分紅金額居首，中國移動、農業銀行、中國平安緊隨其後，分紅金額均超過300億元。從行業分佈來看，除銀行、證券等金融板塊外，通訊、電力裝置、醫藥生物、電子等行業已發放的分紅金額位居前列。值得注意的是，一批來自創業板、科創板的硬核科技企業正步入業績收穫期，並以持續高分紅回饋耐心陪跑的投資者。（上證報）"
+    },
+    {
+      "id": "4953574",
+      "time": "2026-06-25 06:39:20",
+      "tags": [
+        "國際"
+      ],
+      "text": "【日本巖手縣近海發生6.9級地震】東京時間25日早上7時30分左右，巖手縣近海發生里氏6.9級地震，最大震感為震度6強。日本首都東京有明顯震感。（央視新聞）"
+    },
+    {
+      "id": "mkt:019efbc8-f57e-7dd8-b106-3624bd94aade",
+      "time": "2026-06-25 06:38:31",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Japan Meteorological Agency: a magnitude 6.9 earthquake struck off the coast of Iwate Prefecture; maximum seismic intensity 6+ (Japan scale)."
+    },
+    {
+      "id": "mkt:019efbc8-2182-7dd8-b106-2b37d83c2983",
+      "time": "2026-06-25 06:37:37",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Japan & APAC"
+      ],
+      "text": "EMSC reports a magnitude-6.9 earthquake off the east coast of Honshu, Japan."
+    },
     {
       "id": "4953573",
       "time": "2026-06-25 06:36:38",
@@ -155215,49 +155282,6 @@
         "Important"
       ],
       "text": "New Zealand | GDP (QoQ) (Q1) | actual 0.8% | consensus 0.8% | previous 0.20%"
-    },
-    {
-      "id": "mkt:019ed7be-af72-7dd8-b065-ab0160a22f22",
-      "time": "2026-06-18 06:40:58",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Iran's foreign ministry spokesman said a meeting between Iran and the United States due to take place in Switzerland on Friday has not yet been confirmed."
-    },
-    {
-      "id": "4941944",
-      "time": "2026-06-18 06:40:30",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗外交部發言人：目前尚未確認伊美雙方將於週五在瑞士舉行會談。"
-    },
-    {
-      "id": "te:markets:559832",
-      "time": "2026-06-18 06:40:13",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Agricultural Commodities Updates: Wheat Gains by 2.81% — Top commodity gainers are Wheat (2.81%), Cotton (2.62%) and Corn (1.75%). Biggest losers are Canola (-0.91%) and Cocoa (-0.75%)."
-    },
-    {
-      "id": "4941943",
-      "time": "2026-06-18 06:38:34",
-      "tags": [
-        "市場"
-      ],
-      "text": "【分散化配置底層邏輯仍然有效，多資產組合急需“動態校準”】今年以來，科技主導單邊行情。無論是價值風格還是黃金等商品資產，在外部擾動因素不斷的情況下都表現不盡如人意，這給多資產投資帶來了一定衝擊。今年以來就有不少採取多資產策略的FOF產品回報率為負，FOF扎堆重倉的底層基金，比如黃金、紅利、港股通網際網路等主題ETF，普遍表現不及預期。雖然今年部分資產表現不盡如人意，但在專業投資人士看來，恰恰說明不同資產輪動具有階段性，面對這種環境，更應進行動態均衡而非靜態分散。比如，權益投資保持適度偏積極，結構上更加關注具備產業趨勢支撐的成長方向，同時兼顧部分估值具備安全邊際的優質價值資產；黃金資產在全球地緣政治、財政擴張、長期資產配置需求下，仍具有組合分散風險的價值，更適合作為戰略配置而非戰術交易工具。（中證報）"
-    },
-    {
-      "id": "4941942",
-      "time": "2026-06-18 06:38:11",
-      "tags": [
-        "國際"
-      ],
-      "text": "【伊朗外交部：與阿曼基本敲定霍爾木茲海峽管理機制】據伊朗塔斯尼姆通訊社18日報道，伊朗外交部發言人巴加埃當天表示，伊方已與阿曼基本敲定霍爾木茲海峽管理機制，將對在該海峽提供的服務收取費用。目前，相關機制安排正在起草中。（新華社）"
     }
   ]
 }
