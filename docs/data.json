@@ -1,7 +1,15 @@
 {
-  "updated": "2026-06-25 05:30:40",
-  "count": 17054,
+  "updated": "2026-06-25 05:34:36",
+  "count": 17050,
   "items": [
+    {
+      "id": "mkt:019efb8b-db5a-7dd8-b105-d57966d80c09",
+      "time": "2026-06-25 05:31:47",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【DRC Ebola outbreak still spreading; WHO says response lagging, vaccine R&D must accelerate】WHO said the Ebola outbreak in the Democratic Republic of Congo is still spreading rapidly and response efforts are lagging, with frontline health workers facing severe safety risks and containment confronting multiple major challenges. UNICEF and Gavi urged acceleration of vaccine development and supply for the Bundibugyo ebolavirus. Gavi plans to transfer R&D materials to manufacturers shortly and expects to have doses prepared and to begin trials by end-2026."
+    },
     {
       "id": "4953542",
       "time": "2026-06-25 05:29:48",
@@ -155816,48 +155824,6 @@
         "國際"
       ],
       "text": "【伊朗外交部發言人：美伊已簽署諒解備忘錄】伊朗外交部發言人巴加埃當地時間18日表示，目前伊朗與美國的諒解備忘錄文字已最終正式敲定，雙方已經簽署。（央視新聞）"
-    },
-    {
-      "id": "4941871",
-      "time": "2026-06-18 05:33:22",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "美國空軍授予通用原子公司安杜里爾工業公司無人機僚機生產合同，未披露合同訂購數量。"
-    },
-    {
-      "id": "mkt:019ed780-27b3-7dd8-b064-9558389eaa8b",
-      "time": "2026-06-18 05:32:40",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Iran Foreign Ministry spokesman said the negotiating delegation will still attend the scheduled talks in Geneva, Switzerland."
-    },
-    {
-      "id": "4941870",
-      "time": "2026-06-18 05:32:20",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗外交部發言人：談判團隊按計劃仍將前往日內瓦。"
-    },
-    {
-      "id": "4941869",
-      "time": "2026-06-18 05:32:09",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【伊朗議長卡利巴夫稱沒有禁止美國在伊朗投資】伊朗首席談判代表卡利巴夫在電視採訪中表示，自伊斯蘭革命以來，伊朗從未禁止美國公司投資其經濟基礎設施、石油、天然氣或礦業領域。“美國人制裁了他們自己的公司，不讓它們在伊朗運營，同時還阻止其他公司進入伊朗市場。”卡利巴夫稱，伊朗在與美國達成的協議中獲得了一項3000億美元投資條款，“其中一部分將用於彌補我們的損失和重建”。"
-    },
-    {
-      "id": "mkt:019ed77f-5e4e-7dd8-b064-8ef9486bf182",
-      "time": "2026-06-18 05:31:49",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Iran foreign ministry spokesman says Iran and US have signed memorandum of understanding】Iran’s foreign ministry spokesman Baghaei said on the 18th (local time) that the text of a memorandum of understanding between Iran and the US has been finalized and signed by both sides."
     }
   ]
 }
