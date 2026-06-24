@@ -1,7 +1,637 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-06-25 01:22:50_
-_本檔包含 3561 則快訊，約 632021 字_
+_更新時間：2026-06-25 02:16:53_
+_本檔包含 3608 則快訊，約 629902 字_
+
+---
+
+### 2026-06-25 02:16:26  #國際
+
+俄羅斯總統普京視察最新國產飛機，並確認莫斯科已完全成功替代了西方制裁所涉及的外國飛機部件。
+
+---
+
+### 2026-06-25 02:15:06  #Trading Economics #Markets #Commodity #Importance 1
+
+Energy Commodities Updates: Brent Crude Oil Falls by 4.24% — Top commodity losers are Brent Crude Oil (-4.24%), Crude Oil WTI (-3.88%) and Methanol (-3.30%). Gains are led by Natural gas (1.90%).
+
+---
+
+### 2026-06-25 02:14:48  #MKT News #Market Themes #AI Revolution
+
+【Andreessen investor: Starship's rapid reusability could enable orbital AI data centers; SpaceX has shown capability】David George, partner at Andreessen Horowitz and a SpaceX investor, said Starship's rapid reusability is critical to Elon Musk's vision of expanding AI compute via orbital data centers. He said once Starship is operational, extending AI capacity to space would be inevitable as terrestrial data-center capacity becomes constrained, describing future satellites as "aircraft-sized GPU racks." George added orbital data centers would at minimum supplement ground facilities and could ultimately be economically superior, and that SpaceX has demonstrated the technical ability to deploy such systems.
+
+---
+
+### 2026-06-25 02:12:58  #其他 #焦點
+
+特斯拉跌幅擴大至2%。
+
+---
+
+### 2026-06-25 02:12:48  #MKT News #Macro & Rates #The Fed (FOMC)
+
+【Fed finalizes reorganization of bank supervision unit】Federal Reserve Vice Chair for Supervision Michelle Bowman has completed a reorganization of the Fed’s bank supervision function to concentrate resources on what she describes as key financial risks, Bowman said in a memo to staff. The restructuring, effective July 12, reallocates personnel and resources into four functional groups—Supervision; Financial Research, Risk & Applications; Regulation & Policy; and Business Enablement—and the division will begin recruiting leaders and staff.
+
+---
+
+### 2026-06-25 02:11:29  #國際
+
+美國參議員沃倫計劃敦促國會加大對人工智慧等新興技術領域的反壟斷執法力度，並修訂併購相關法律，要求公開更多交易資訊。
+
+---
+
+### 2026-06-25 02:08:23  #國際
+
+路透社調查顯示，美國能源資訊署（EIA）週四釋出的報告預計，上週美國天然氣庫存增加740億立方英尺。
+
+---
+
+### 2026-06-25 02:06:05  #公司
+
+巴西國家石油公司：布齊奧斯油田日產量達110萬桶。
+
+---
+
+### 2026-06-25 02:05:14  #國際
+
+美國國家運輸安全委員會：將在30天內初步形成特斯拉撞車事故的初步調查報告。
+
+---
+
+### 2026-06-25 02:04:28  #MKT News #Important #Commodities #Precious Metals #XAUUSD #Impact bearish
+
+Spot gold fell below $3,960/oz, down 3.64% intraday.
+
+---
+
+### 2026-06-25 02:04:17  #MKT News
+
+Fed Vice Chair for Supervision Michelle Bowman has completed a personnel reshuffle of the Fed's bank regulatory division.
+
+---
+
+### 2026-06-25 02:04:16  #市場 #焦點
+
+現貨黃金失守3960美元/盎司，日內跌3.66%。
+
+---
+
+### 2026-06-25 02:03:51  #央行 #國際
+
+美聯儲負責監管事務的副主席米歇爾·鮑曼完成了美聯儲銀行監管部門的大規模人事調整，此舉旨在將她認定的核心金融風險列為監管工作重中之重。
+
+---
+
+### 2026-06-25 02:03:31  #市場
+
+現貨白銀日內跌9%，現報55.81美元/盎司。
+
+---
+
+### 2026-06-25 02:03:30  #市場
+
+紐約期銀日內跌10%，現報56.25美元/盎司。
+
+---
+
+### 2026-06-25 02:03:29  #市場
+
+鈀金期貨日內跌7%，現報1156.55美元/盎司。
+
+---
+
+### 2026-06-25 02:03:27  #市場 #焦點
+
+紐約期金失守3980美元/盎司，日內跌4.11%。
+
+---
+
+### 2026-06-25 02:03:02  #MKT News #Important #Commodities #Precious Metals
+
+Spot silver fell below $56/oz for the first time since November last year, sliding about 9% intraday.
+
+---
+
+### 2026-06-25 02:02:56  #市場 #焦點
+
+現貨白銀失守56美元/盎司，日內跌8.97%。
+
+---
+
+### 2026-06-25 02:02:35  #其他 #焦點
+
+OpenAI：推出全新版本GPT-5.5 Instant，對話體驗趣味感大幅提升。這款平臺使用量最高的模型如今能更精準讀懂提問背後的真實意圖，並據此靈活調整回答內容。同時它處理複雜限定條件時穩定性更強，給出的購物、本地生活推薦也更實用、邏輯更連貫。今日起向付費使用者推送上線，明日開放給免費使用者使用。
+
+---
+
+### 2026-06-25 02:01:31  #公司
+
+索尼影視：將收購COSM少數股權，執行長拉維·阿胡賈將加入COSM董事會。
+
+---
+
+### 2026-06-25 02:01:29  #MKT News #Important #Commodities #Precious Metals
+
+Spot silver hit its lowest level since last November, trading at $56.17/oz, down more than 8% intraday.
+
+---
+
+### 2026-06-25 02:01:08  #其他
+
+索尼影業向巨幕初創企業COSM投資1億美元。
+
+---
+
+### 2026-06-25 02:00:52  #國際
+
+美國國家運輸安全委員會將在特斯拉事故調查中重點核查駕駛員操作狀態與自動駕駛系統技術狀況。
+
+---
+
+### 2026-06-25 02:00:50  #MKT News #Important #Commodities #Precious Metals
+
+SHFE most-active silver contract tumbled 8.00% intraday to 13,700 yuan/kg.
+
+---
+
+### 2026-06-25 02:00:29  #央行 #國際
+
+美聯儲理事庫克未就經濟前景與貨幣政策發表相關評論。
+
+---
+
+### 2026-06-25 02:00:28  #MKT News #Macro & Rates #The Fed (FOMC)
+
+Fed Governor Cook did not comment on monetary policy or the economic outlook in remarks at the opening of a small-business symposium.
+
+---
+
+### 2026-06-25 02:00:26  #市場 #焦點
+
+白銀連續主力合約日內跌8%，現報13700.00元。
+
+---
+
+### 2026-06-25 02:00:26  #市場
+
+紐約期銀日內跌9%，現報56.84美元/盎司。
+
+---
+
+### 2026-06-25 02:00:05  #市場 #焦點
+
+紐約期銀失守57美元/盎司，日內跌8.82%。
+
+---
+
+### 2026-06-25 01:59:48  #MKT News #Important #Commodities #Precious Metals
+
+Spot silver plunged 8.00% intraday to $56.58/oz.
+
+---
+
+### 2026-06-25 01:59:37  #市場 #焦點
+
+現貨白銀日內跌8%，現報56.59美元/盎司。
+
+---
+
+### 2026-06-25 01:59:11  #其他
+
+阿聯酋宣佈，巴布氣頂開發專案預計天然氣日產量約為15億標準立方英尺。
+
+---
+
+### 2026-06-25 01:58:36  #MKT News #Commodities #Energy
+
+UAE state news agency said the project is expected to have production capacity of about 1.5 bln standard cubic feet per day of natural gas.
+
+---
+
+### 2026-06-25 01:58:15  #國際
+
+【聯邦法官永久叫停美政府要求選民提供身份證明的命令】當地時間6月24日，美國聯邦地區法院法官丹尼斯·卡斯珀裁定，永久禁止特朗普政府實施其首份選舉行政令中的大部分內容。該行政令要求選民在登記投票時提供公民身份檔案證明，並規定郵寄選票若在選舉日後送達，即使郵戳日期符合要求，也不得計票。法官表示，根據美國憲法，規範選舉事務的權力屬於各州和國會，而非總統，因此總統無權透過行政命令單方面修改相關選舉規則。（
+
+---
+
+### 2026-06-25 01:56:35  #MKT News #Important #Commodities #Precious Metals
+
+Spot silver broke below $57/oz, down 7.40% intraday.
+
+---
+
+### 2026-06-25 01:56:27  #市場 #焦點
+
+現貨白銀失守57美元/盎司，日內跌7.51%。
+
+---
+
+### 2026-06-25 01:56:23  #MKT News #Commodities #Energy #BP.L #Impact bearish #TTE.PA
+
+ADNOC will hold a 60% stake in the Bab natural gas cap concession; TotalEnergies and BP Abu Dhabi will each hold 10%.
+
+---
+
+### 2026-06-25 01:56:13  #市場
+
+紐約期銀日內跌8%，現報57.51美元/盎司。
+
+---
+
+### 2026-06-25 01:55:39  #公司
+
+阿聯酋宣佈，阿布扎比國家石油公司將持有巴布氣頂開發專案60%特許股權，道達爾能源、英國石油阿布扎比分公司各持股10%。
+
+---
+
+### 2026-06-25 01:54:55  #觀點
+
+【摩根大通下調特斯拉第二季度汽車交付量預期】摩根大通分析師Rajat Gupta把對特斯拉第二季度汽車交付量的預估從43.05萬輛下調至42萬輛，原因是近期電動汽車需求方面的訊號喜憂參半。由於下調交付量預期，Gupta還將第二季度盈利預期從0.44美元下調至0.42美元，並將2026年每股收益預期從1.95美元下調至1.90美元。
+
+---
+
+### 2026-06-25 01:54:20  #MKT News #WTI #Impact bearish #Brent
+
+UAE state news agency says the government has awarded the development concession for the Bab gas cap to Abu Dhabi National Oil Company (ADNOC) and its partners.
+
+---
+
+### 2026-06-25 01:53:50  #公司
+
+阿聯酋將巴布氣田氣頂開發特許權授予阿布扎比國家石油公司及其合作伙伴。
+
+---
+
+### 2026-06-25 01:52:36  #市場
+
+現貨白銀日內跌7%，現報57.21美元/盎司。
+
+---
+
+### 2026-06-25 01:51:24  #MKT News #Important #Commodities #Precious Metals
+
+Spot silver fell 7.00% intraday to $57.23/oz; spot palladium fell 6.00% to $1,154.40/oz.
+
+---
+
+### 2026-06-25 01:51:11  #Trading Economics #Economy #Brazil #Government Bond 10Y #Importance 1
+
+Brazil 10-Year Yield Eases After Copom Minutes — Brazil’s 10-year government bond yield edged down to 14.4% in late June after the release of the minutes from the latest Copom meeting, in which the benchmark Selic rate was cut by 25 basis points to 14.25% per year. The view that Copom left the door open for further Selic cuts helped ease the Brazilian yield curve. Still, the minutes struck a slightly more hawkish tone than the initial statement, explicitly describing the inflation risk balance as asymmetric and tilted to the upside. Meanwhile, the US Federal Reserve adopted a more hawkish stance at its latest meeting, with policymakers signaling additional rate hikes by December. The shift led investors to scale back expectations for monetary easing, limiting the decline in bond yields.
+
+---
+
+### 2026-06-25 01:50:36  #市場 #焦點
+
+白銀連續主力合約日內跌7%，現報13853.00元。
+
+---
+
+### 2026-06-25 01:50:25  #其他
+
+Coinbase：部分使用者在OP網路上發起轉賬可能失敗。
+
+---
+
+### 2026-06-25 01:48:05  #MKT News #Commodities #Energy #WTI #Brent
+
+Iraq's state news agency reported the Kurdistan Regional Government said several foreign oil companies have resumed operations in Iraqi Kurdistan.
+
+---
+
+### 2026-06-25 01:47:49  #國際
+
+市場資訊：歐洲各國領導人堅稱，他們正在落實美國總統特朗普的訴求，即推動北約實現“歐洲化”。
+
+---
+
+### 2026-06-25 01:47:06  #Trading Economics #Markets #other #currency #Importance 0
+
+Bitcoin Hits 20-month Low — The Bitcoin touched 59140.00 against the BTC, the highest since October 2024. Over the past 4 weeks, Bitcoin US Dollar lost 23.38%, and in the last 12 months, it decreased 44.89%.
+
+---
+
+### 2026-06-25 01:46:58  #公司 #市場 #國際
+
+【SpaceX發行的250億美元債券走弱，長期債券領跌】在透過債市募資250億美元次日，SpaceX債券大多走弱，長債領跌。投資者在該公司的首次發債中更青睞期限較短的債券。Trace資料顯示，截至紐約週三上午10點25分，SpaceX發行的30年期債券較同期美國國債收益率高出188個基點，而交易最終定價為高出175個基點。期限最短的5年期債券價格持穩。
+
+---
+
+### 2026-06-25 01:46:47  #市場 #觀點 #國際
+
+【高盛分析師稱石油多頭誤判油價跌幅 低估系統靈活性】高盛全球大宗商品研究聯席主管Daan Struyven表示，石油多頭分析師誤判了伊朗局勢緩和後原油價格的下跌幅度。美國與伊朗在4月達成臨時停火協議，並開啟了旨在正式結束戰爭的談判。Struyven表示，市場“低估了系統的靈活性”。
+
+---
+
+### 2026-06-25 01:46:00  #國際
+
+【賴特稱依託“創新方案”，美國戰略石油儲備儲量有望突破5億桶】美國能源部長克里斯·賴特週三在路透社舉辦的論壇上表示，無需動用納稅人資金，依靠各類“創新方案”，就能將儲量已大幅消耗的美國戰略石油儲備（SPR）提升至5億桶以上。賴特拒絕詳細說明正在考量的具體辦法，不過一名知情人士此前透露，美國正考慮開採軍方所屬土地下的石油資源。賴特表示，作為1.72億桶原油置換計劃的一部分，此前借給石油企業的原油將連本帶息歸還，這會讓戰略石油儲備總量提升至遠超4億桶的規模。他補充，這批原油預計從今年年末至明年初開始歸還，歸還總量將比當初儲備借出的原油多出3500萬至4000萬桶。
+
+---
+
+### 2026-06-25 01:45:19  #公司 #焦點
+
+伊拉克庫爾德斯坦自治區政府表示，已有多家外國石油公司恢復在該地區的運營。
+
+---
+
+### 2026-06-25 01:41:40  #國際
+
+美國南方司令部：協助完成抓捕行動518起，查獲攔截可卡因305.5公噸，阻斷毒品恐怖分子非法收入77億美元。
+
+---
+
+### 2026-06-25 01:41:03  #MKT News #Commodities #Energy #WTI #Impact bearish #Brent
+
+【US energy secretary: ~20 mln barrels transited Strait of Hormuz in past 24 hours】US Energy Secretary Wright said roughly 20 million barrels of oil, carried on about 72 vessels, transited the Strait of Hormuz in the past 24 hours. Asked how much oil had passed after a preliminary US‑Iran agreement to end hostilities, Wright repeated the figures and added that Iran would no longer be able to close the strait, calling that its main leverage and saying the US is taking that leverage away.
+
+---
+
+### 2026-06-25 01:40:23  #公司 #國際
+
+美國南方司令部：致力於搗毀西半球境內毒品恐怖分子網路。南方跨機構聯合特遣部隊是覆蓋全區域打擊販毒集團、保障西半球安全的關鍵力量。
+
+---
+
+### 2026-06-25 01:39:42  #Trading Economics #Markets #Brazil #Currency #Importance 1
+
+BRL Weakens as US-Brazil Rate Gap Narrows — The Brazilian real weakened to around 5.19 per USD in late June, tracking broad dollar strength against nearly all major currencies. The greenback advanced against G10 and emerging market peers after hawkish projections from Federal Open Market Committee members in their latest policy decision led markets to price in more than one rate hike by the US Federal Reserve this year. In Brazil, the dollar also found support in the minutes of the latest Copom meeting, which reinforced expectations that the benchmark Selic rate may fall in the near term, even as policymakers acknowledged that upside risks to inflation still outweigh downside risks. The outlook points to a narrower interest rate differential between Brazil and the US, reducing the appeal of Brazilian carry trades and supporting further gains for the dollar.
+
+---
+
+### 2026-06-25 01:39:24  #國際
+
+【白宮告知共和黨：本週末前將提交戰爭撥款申請】特朗普政府官員已向國會共和黨核心議員通報，政府預計將於本週末前提交一份針對伊朗戰事的追加撥款方案。訊息人士表示，這筆撥款申請總額約800億美元。但眾議院共和黨撥款委員會議員認為，參議院大機率會在法案中附加救災、農業補貼等非軍事相關條款。眾議院共和黨領導層擔憂，推進這份追加撥款法案，會打亂他們另一項立法計劃——推動僅靠共和黨票倉透過、包含共和黨優先議程與額外國防資金的預算協調法案。國會長久以來一直在等待特朗普總統提交資金申請，用以覆蓋中東軍事行動成本。但這份法案想要在參議院獲得透過，至少需要跨黨派支援，落地成法律的阻力極大。大量反對這場戰爭的民主黨議員幾乎必然會投反對票；他們不認可這場衝突，且認為特朗普未經國會授權開戰，屬於非法行動。此次800億美元的申請規模，遠低於近幾個月外界傳聞政府曾考量的2000億美元額度。這筆追加資金主要用於補充戰爭初期大量消耗的導彈庫存，同時覆蓋近幾個月美軍在中東開展各類軍事行動產生的其他開支。
+
+---
+
+### 2026-06-25 01:38:24  #市場 #焦點
+
+紐約期銀失守58美元/盎司，日內跌7.22%。
+
+---
+
+### 2026-06-25 01:37:16  #MKT News
+
+Trump administration officials told key House Republican leaders they expect to submit a supplemental funding request to Congress for Iran war-related costs before the end of this week.
+
+---
+
+### 2026-06-25 01:36:11  #央行 #其他
+
+加拿大央行會議紀要：在加拿大銀行6月10日利率決定之前，理事會成員一致認為貨幣政策需要保持靈活。
+
+---
+
+### 2026-06-25 01:36:06  #央行 #其他
+
+加拿大央行會議紀要：成員們指出，美墨加協定談判取得有利結果可能恢復一些確定性，並潛在地提振投資。
+
+---
+
+### 2026-06-25 01:35:47  #MKT News #Commodities #Energy #WTI #Impact mixed #Brent
+
+【BOC minutes: weak economy, limited oil pass‑through cited as rationale for 2.25% hold】Bank of Canada minutes released Wednesday said policymakers left the policy rate at 2.25% on June 10 — the fifth straight pause — citing a weak economy and little evidence that recent oil-price increases have passed through to other goods and services. Six senior decision-makers led by Governor Macklem agreed the hold balanced upside inflation pressure against economic weakness; the minutes noted Canada has unexpectedly recorded two consecutive quarters of contraction. The minutes said: In responding to rising inflation, the Governing Council neither wants to overreact nor underreact.
+
+---
+
+### 2026-06-25 01:34:41  #市場 #國際
+
+美國7年期國債收益率日內下跌10個基點至4.27%。
+
+---
+
+### 2026-06-25 01:34:28  #央行 #其他
+
+加拿大央行：利率走勢高度取決於能源價格走向。
+
+---
+
+### 2026-06-25 01:34:15  #央行 #其他
+
+加拿大央行：若央行加息對抗通脹，而油價隨後快速回落，待到加息政策對實體經濟產生影響時，緊縮舉措已然多餘。
+
+---
+
+### 2026-06-25 01:34:00  #央行 #宏觀
+
+加拿大央行：如果高油價長期持續並擴散至全產業鏈，而央行長期按兵不動，後續出臺的貨幣政策收緊力度，將遠大於提前行動所需的幅度。
+
+---
+
+### 2026-06-25 01:33:05  #市場
+
+比特幣觸及盤中低點59,283.53美元，為6月5日以來最低水平，最新下跌4.45%，報59,612.54美元
+
+---
+
+### 2026-06-25 01:32:26  #MKT News #DXY #Impact bullish #XAUUSD #Copper #Impact bearish
+
+BOC minutes: policy makers agreed the economy is weak, in a state of excess supply with slack in the labour market, but not in recession.
+
+---
+
+### 2026-06-25 01:32:12  #央行 #市場
+
+【加拿大央行否認經濟疲軟等同於衰退】加拿大央行官員否認本國經濟陷入衰退的說法，同時承認經濟增長乏力、勞動力市場存在閒置產能。央行表示，當前經濟走弱、勞動力市場供給過剩，但並未出現典型衰退特徵——即整體經濟活動深度、大範圍且持續性下滑。政策制定者將政策利率維持在2.25%不變，稱當下進退兩難：降息提振經濟，又恐油價上漲推升全面通脹；收緊利率托住物價，又會進一步壓制增長。
+
+---
+
+### 2026-06-25 01:32:05  #MKT News
+
+Bank of Canada meeting minutes showed council members unanimously agreed monetary policy needs to remain flexible.
+
+---
+
+### 2026-06-25 01:31:53  #MKT News
+
+BOC minutes: Governing Council members agreed the economic situation presents a dilemma for monetary policy.
+
+---
+
+### 2026-06-25 01:31:38  #MKT News
+
+BOC minutes: An adverse USMCA outcome could broaden spillovers to the Canadian economy by weakening employment and investment.
+
+---
+
+### 2026-06-25 01:31:30  #央行 #市場
+
+加拿大央行：委員會討論了疲軟的經濟和不斷上漲的通貨膨脹如何構成兩難困境。
+
+---
+
+### 2026-06-25 01:31:14  #MKT News #DXY #Impact bearish
+
+BOC minutes: members agreed that if inf data begin to show pressures spreading, that would signal the need to tighten monetary policy.
+
+---
+
+### 2026-06-25 01:31:12  #央行 #其他
+
+加拿大央行：加拿大經濟似乎正在恢復增長。
+
+---
+
+### 2026-06-25 01:30:56  #央行 #其他
+
+加拿大央行：經濟疲軟，供應過剩，但尚未陷入衰退。
+
+---
+
+### 2026-06-25 01:30:56  #MKT News #DXY #Impact bullish
+
+BOC minutes: economy weak; inf excluding fuel "generally under control".
+
+---
+
+### 2026-06-25 01:30:51  #MKT News #DXY #Impact bearish #EURUSD #Impact bullish
+
+BOC meeting minutes: despite two quarters of economic contraction, the economy "has not clearly entered a recession".
+
+---
+
+### 2026-06-25 01:30:48  #MKT News #Macro & Rates
+
+BOC minutes: policy rate held unchanged to balance inf risks against weak economic growth.
+
+---
+
+### 2026-06-25 01:30:41  #MKT News
+
+BOC minutes: Limited evidence of pass-through from rising energy prices to other goods.
+
+---
+
+### 2026-06-25 01:30:38  #MKT News
+
+BOC minutes: policymakers said they did not want to overreact to developments, nor to react too slowly.
+
+---
+
+### 2026-06-25 01:30:37  #央行 #其他
+
+加拿大央行：第一季度GDP最大的意外是政府支出下降。
+
+---
+
+### 2026-06-25 01:30:26  #央行 #其他
+
+加拿大央行：美墨加協定若談判結果不利，或將加劇經濟困境。
+
+---
+
+### 2026-06-25 01:30:20  #MKT News
+
+New York silver futures plunged 7.00% intraday to $57.73/oz.
+
+---
+
+### 2026-06-25 01:30:15  #MKT News
+
+【Trump says Iran is making 'major concessions'】President Trump told reporters before heading to the Senate that "we're gaining a tremendous advantage" and that "Iran is making major concessions," but he offered no details. He added the situation was progressing "very, very well," also without elaboration.
+
+---
+
+### 2026-06-25 01:30:14  #市場
+
+紐約期銀日內跌7%，現報58.13美元/盎司。
+
+---
+
+### 2026-06-25 01:28:29  #其他
+
+中國地震臺網正式測定：06月25日01時22分在新疆阿克蘇地區沙雅縣（北緯40.99度，東經83.34度）發生3.8級地震，震源深度28千米。
+
+---
+
+### 2026-06-25 01:28:19  #公司 #焦點 #國際
+
+一家由前特朗普政府官員執掌的遊說公司推出一項利潤豐厚的業務，專門協助客戶爭取總統特赦。
+
+---
+
+### 2026-06-25 01:28:01  #MKT News #Commodities #Precious Metals
+
+Spot platinum fell more than 5% to $1,567.15 per ounce.
+
+---
+
+### 2026-06-25 01:27:28  #MKT News
+
+An ECB official said the central bank’s primary objective is price stability.
+
+---
+
+### 2026-06-25 01:27:18  #國際
+
+伊朗總統佩澤希基揚週二訪問伊斯蘭堡期間，獲巴基斯坦內外科學院授予心臟外科榮譽院士頭銜。
+
+---
+
+### 2026-06-25 01:27:17  #MKT News #Important #Commodities #Precious Metals
+
+SHFE silver main contract plunged 6.00% intraday, now at 14,001.00 yuan/kg.
+
+---
+
+### 2026-06-25 01:26:54  #MKT News #WTI #Impact bearish
+
+ECB official Siegmann said falling oil prices will help reduce inflation.
+
+---
+
+### 2026-06-25 01:26:42  #央行 #國際
+
+歐洲央行官員齊格曼：（央行）首要目標是物價穩定。
+
+---
+
+### 2026-06-25 01:26:25  #市場
+
+現貨白銀日內跌6%，現報57.80美元/盎司。
+
+---
+
+### 2026-06-25 01:26:19  #市場 #焦點
+
+白銀連續主力合約日內跌6%，現報14001.00元。
+
+---
+
+### 2026-06-25 01:25:32  #央行 #國際
+
+歐洲央行官員齊格曼：油價走低將對通脹產生利好作用。
+
+---
+
+### 2026-06-25 01:25:27  #MKT News #Important #Commodities #Precious Metals
+
+Spot silver plunged 6.00% intraday to $57.83/oz.
+
+---
+
+### 2026-06-25 01:25:12  #Trading Economics #Markets #other #currency #Importance 0
+
+LTCUSD traded below 40 — The Litecoin exchange rate decreased below 40 US Dollars in the foreign exchange interbank market.
+
+---
+
+### 2026-06-25 01:23:56  #市場 #焦點
+
+現貨白銀失守58美元/盎司，日內跌5.79%。
+
+---
+
+### 2026-06-25 01:23:50  #國際
+
+美國眾議院議長邁克·約翰遜：世界盃讓美國出現極具反差的一幕，世界各地的遊客都無比喜愛美國，反觀那些參選國會議員的左翼人士卻處處唱衰本國。
+
+---
+
+### 2026-06-25 01:23:43  #MKT News #Important #Commodities #Precious Metals
+
+Spot silver fell to $58/oz, the lowest since December last year, down 5.75% intraday.
 
 ---
 
@@ -21134,353 +21764,5 @@ US Secretary of State Rubio said the matter will be raised at an appropriate tim
 ### 2026-06-24 00:06:12  #MKT News
 
 CENC recorded a magnitude-4.2 earthquake at 23:56 on June 23 (local time) in Haixi prefecture, Qinghai (37.85°N, 95.54°E); depth 10 km.
-
----
-
-### 2026-06-24 00:05:41  #國際
-
-美國國務卿魯比奧： 若伊朗代理人持續發射導彈，中東地區的敵對沖突便無從平息。
-
----
-
-### 2026-06-24 00:05:20  #國際
-
-美國國務卿魯比奧： 伊朗諒解備忘錄將在與中東地區的會談中被提及。
-
----
-
-### 2026-06-24 00:04:51  #MKT News
-
-US Secretary of State Rubio said the US will engage directly with the Lebanese government.
-
----
-
-### 2026-06-24 00:04:38  #國際
-
-美國國務卿魯比奧：我們將直接與黎巴嫩政府打交道。
-
----
-
-### 2026-06-24 00:02:17  #MKT News #WTI #Impact bearish #Brent #XAUUSD
-
-【Wang Yi meets UAE Supreme National Security Council secretary al-Shamsi in New Delhi】Chinese Politburo member and director of the Central Foreign Affairs Office Wang Yi met UAE Supreme National Security Council secretary al-Shamsi in New Delhi on the 23rd and said China and Arab states have maintained close communication since the US‑Israel‑Iran hostilities began. He urged a swift end to the fighting and set out three priorities: insist on a permanent, comprehensive ceasefire and implement the recently signed memorandum of understanding; restore normal navigation through the Strait of Hormuz as soon as possible to reopen the region’s development lifeline; and rebuild mutual trust among regional states and explore a new regional security architecture adapted to current conditions. Wang said the Middle East should not become an arena for great‑power rivalry and that China will continue to support the UAE’s constructive role in promoting long‑term regional stability.
-
----
-
-### 2026-06-24 00:01:49  #國際
-
-巴基斯坦總理謝里夫： 就伊朗重大人員傷亡、含已故最高領袖一事向伊朗致哀。 伊朗的損失就是我們的損失。巴基斯坦和伊朗是緊密相連的兄弟，我們不僅僅是鄰國。
-
----
-
-### 2026-06-23 23:59:45  #MKT News
-
-Pakistan's prime minister said Iran's loss would be Pakistan's loss and described the two countries as closely connected brothers rather than merely neighbors.
-
----
-
-### 2026-06-23 23:58:52  #其他
-
-中國地震臺網自動測定：06月23日23時56分在青海海西州直轄區附近（北緯37.81度，東經95.42度）發生4.2級左右地震，最終結果以正式速報為準。
-
----
-
-### 2026-06-23 23:58:15  #公司 #國際
-
-【特朗普政府將提供175億美元貸款 推動美國大型核電站建設】特朗普政府將提供175億美元貸款，用於支援公用事業公司訂購西屋電氣公司(Westinghouse Electric Co.)設計的反應堆裝置，此舉旨在重振美國大型核電站建設。美國能源部週二宣佈的這筆資金將以有條件的形式提供，最多包含五筆貸款，面向將各建造兩座反應堆的公用事業公司及其他能源企業。美國能源部表示，西屋電氣已與七家潛在合作方簽署意向書，相關專案均已確定建設地點。該部門表示，在最終確定名單前不會披露相關公用事業公司的名稱。美國總統唐納德·特朗普將核反應堆視為資料中心和經濟增長的核心電力來源。他去年簽署的行政令要求到2030年美國有10臺大型傳統核反應堆在建，並提出將全國核電裝機容量增加三倍至400吉瓦的目標。
-
----
-
-### 2026-06-23 23:58:09  #公司 #觀點
-
-【高盛二季度股票交易業務營收據悉將突破50億美元 再創行業紀錄】知情人士透露，高盛集團的股票交易業務即將在第二季度創下另一項紀錄，營收額有望超過50億美元。知情人士表示，在本季度僅剩最後一週之際，高管們預計高盛股票交易業務營收可能超過第一季度報告的53億美元。這一業績將超越彭博調查的分析師平均預期的47.7億美元，標誌著高盛股票交易部門連續第三個季度創下行業紀錄。知情人士稱，高盛股票交易的業績受到亞洲市場活躍度激增的提振，這種活躍度推動了交易和融資活動的增長。這一局面主要歸功於對沖基金的強勁需求，它們熱衷於押注AI及其相關基礎設施投資的爆發式增長。
-
----
-
-### 2026-06-23 23:57:16  #MKT News #Star Stocks #Microsoft #Market Themes #Magnificent 7 #MSFT.O
-
-Microsoft (MSFT.O) announced the Azure Copilot observability agent is now live.
-
----
-
-### 2026-06-23 23:56:50  #MKT News #XAUUSD #Impact bullish #WTI #DXY
-
-Hezbollah leader demanded Israel carry out a full withdrawal of its forces according to a set timetable.
-
----
-
-### 2026-06-23 23:55:34  #Trading Economics #Markets #Italy #Stock Market #Importance 0
-
-FTSE MIB Retreats From Record Highs — The FTSE MIB fell 1.5% to close at 52,024 on Tuesday, retreating from record highs and hitting a one-week low as investors reassessed the outlook for global monetary policy. Markets increasingly expect the US Federal Reserve to deliver a total of 50 basis points in rate hikes by year-end to contain inflationary pressures. In Europe, traders also continued to price in an additional 25 basis-point increase from the ECB later this year, despite Christine Lagarde recently downplaying concerns over second-round inflation effects. Financial stocks traded lower, with Intesa Sanpaolo down 1.6% and UniCredit losing 1.4%. STMicroelectronics led losses, sliding 8.1% amid a global tech sell-off as concerns mounted that the sector’s recent rally may have outpaced fundamentals, with scrutiny intensifying over AI-related spending and elevated valuations. Stellantis dropped 6.7% after reporting slower sales growth in Europe. Other notable laggards included Ferrari (-1.5%) and Prysmian (-4.1%).
-
----
-
-### 2026-06-23 23:55:05  #MKT News #Market Regions #Europe & UK
-
-Spanish police said a fire at a Madrid skyscraper is under control and no casualties have been reported.
-
----
-
-### 2026-06-23 23:54:51  #其他
-
-西班牙警方：馬德里摩天大樓火情已得到控制，暫無人員受傷。
-
----
-
-### 2026-06-23 23:54:03  #MKT News
-
-【IMO launches evacuation plan for seafarers stranded in Strait of Hormuz】The International Maritime Organization on the 23rd launched an evacuation plan for more than 11,000 seafarers stranded in the Strait of Hormuz. Secretary-General Domingues said the IMO will coordinate with Iran, Oman, the United States and the shipping industry, has secured required safety guarantees and completed checks of navigation conditions to enable the operation, and welcomed a US‑Iran memorandum of understanding as an important step toward restoring regional maritime security and ending attacks on civilian vessels.
-
----
-
-### 2026-06-23 23:53:26  #國際
-
-【國際海事組織宣佈啟動霍爾木茲海峽滯留海員疏散計劃】國際海事組織23日宣佈啟動霍爾木茲海峽地區滯留海員疏散計劃。國際海事組織秘書長多明格斯在一份宣告中說，將與伊朗、阿曼等地區沿岸國家、美國以及國際航運業密切合作，疏散目前仍滯留在霍爾木茲海峽地區的超過1.1萬名海員。（新華社）
-
----
-
-### 2026-06-23 23:50:15  #MKT News #Star Stocks #Microsoft #Market Themes #Magnificent 7 #MSFT.O #Impact bullish
-
-Microsoft (MSFT.O) announced the Azure Copilot observability agent is now generally available.
-
----
-
-### 2026-06-23 23:49:57  #MKT News
-
-Pakistan's prime minister said there should be no double standards: some countries can possess ballistic missiles while Iran should not.
-
----
-
-### 2026-06-23 23:49:55  #MKT News
-
-【Lebanese president, US officials discuss ceasefire-monitoring mechanism】On the 23rd Lebanese President Joseph Aoun spoke by phone with U.S. Vice President Vance and Secretary of State Rubio to discuss Lebanon’s situation and progress after U.S.-Iran talks in Switzerland, the presidential office said. Vance and Rubio reiterated U.S. support for the Lebanese government and sovereignty and said Washington is following up on memoranda of understanding from the Swiss talks, including creating a U.S.-Lebanon-Iran mechanism to shore up the ceasefire and monitor implementation. U.S. officials said they are reviewing the proposed mechanism’s structure and operational arrangements.
-
----
-
-### 2026-06-23 23:49:31  #其他
-
-微軟：Azure Copilot 視覺化代理現已全面上線。
-
----
-
-### 2026-06-23 23:48:53  #國際
-
-巴基斯坦總理謝里夫：不應存在雙重標準，不能允許部分國家擁有彈道導彈，卻禁止伊朗擁有。
-
----
-
-### 2026-06-23 23:48:42  #國際
-
-知情人士訊息：特朗普將於週三在橢圓形辦公室會見各大武器製造商。
-
----
-
-### 2026-06-23 23:48:32  #Trading Economics #Markets #France #Stock Market #Importance 0
-
-CAC 40 Dips on Hawkish Fed and ECB Prospects — The CAC 40 fell 0.7% to close at 8,341 on Tuesday, extending losses for a third straight session as investors reassessed the outlook for global monetary policy. Markets increasingly expect the US Federal Reserve to deliver a total of 50 basis points in rate hikes by year-end to contain inflationary pressures. In Europe, traders also continued to price in an additional 25 basis-point increase from the European Central Bank later this year, despite Christine Lagarde recently downplaying concerns over second-round inflation effects. Financial stocks traded lower, with Societe Generale down 1.5%. Luxury stocks were mixed as risk aversion increased, with L'Oréal down 0.3%, Hermès losing 1%, and Kering falling 0.9%, while LVMH rose 0.6%. STMicroelectronics plunged 8.1%, tracking Wall Street as technology stocks came under pressure amid concerns that AI-driven valuations have become overstretched. Industrials were mixed, with Schneider Electric down 4%, while Airbus gained 2.2%.
-
----
-
-### 2026-06-23 23:48:27  #國際
-
-【黎總統與美官員通話 討論建立黎巴嫩停火監督機制】當地時間23日，黎巴嫩總統約瑟夫·奧恩與美國副總統萬斯、美國國務卿魯比奧通電話，雙方討論了黎巴嫩最新局勢以及美伊瑞士會談後的階段性進展。黎巴嫩總統府釋出的宣告表示，萬斯和魯比奧重申了美國對黎巴嫩政府立場和國家主權的支援。宣告稱，美國官員強調，美方正在跟進落實瑞士會談期間達成的各項諒解備忘錄內容，包括建立一個由美國、黎巴嫩和伊朗組成的機制，以鞏固黎巴嫩停火併監督相關措施的執行情況。美方補充說，目前正在審查有關該機制的結構和運作安排。（央視新聞）
-
----
-
-### 2026-06-23 23:48:20  #Trading Economics #Markets #Euro Area #Stock Market #Importance 1
-
-European Stocks Pull Back from Records — European equity indices closed sharply lower from records on Tuesday as a selloff in the tech sector drove markets to trim their position in risk. The Euro STOXX 50 fell 1.2% to 6,235 and the STOXX Europe 600 dropped a softer 0.5% to 636. ASML slipped 5.5% and Infineon lost 5.8% amid concerns that hyperscalers overspent on AI infrastructure and will be forced to slow expenditure should returns fail to match their guidance. The latest triggers were more cash being raised by SpaceX after its IPO, while Korean SK Hynix announced it would slow production of AI chips to allocate capacity on commodity DRAM chips. Industrial giants with exposure to datacenter projects also retreated, with Siemens and Schneider dropping 2.5% and 4%, respectively. On the other hand, pharmaceuticals closed higher, with Sanofi gaining 1.5% after the EU approved its Cenrifki treatment. PMI data reflected a softer-than-expected contraction in the Eurozone private sector activity.
-
----
-
-### 2026-06-23 23:48:15  #Trading Economics #Markets #United Kingdom #Stock Market #Importance 1
-
-FTSE 100 Outperforms Global Markets — The FTSE 100 edged higher on Tuesday, outperforming global markets that suffered from souring sentiment surrounding artificial intelligence stocks. The UK index was supported by gains in major healthcare and consumer firms, as AstraZeneca rose 2.5%, GSK added 1.9%, Unilever climbed 1.6%, and British American Tobacco gained 3.4%. Additionally, Bunzl shares surged over 5% after a strong first half led the company to raise its annual revenue growth outlook. Conversely, mining stocks fell sharply, with Antofagasta dropping 5.6% and Anglo American losing 5%. Investors also monitored local political developments following the resignation of Prime Minister Keir Starmer, with Andy Burnham widely expected to succeed him amid concerns over soaring public debt approaching 100% of economic output. These market movements unfolded alongside fresh economic data showing the domestic services sector contracted at its fastest rate in nearly three and a half years in June.
-
----
-
-### 2026-06-23 23:48:00  #MKT News
-
-【Lebanese president says talks must secure end to Israel's occupation】Lebanese President Aoun said his government will not accept any negotiation outcome short of Israel ending its occupation of Lebanese territory and Lebanon restoring full territorial sovereignty. He was briefed on a Lebanese delegation's report from the fifth round of Lebanon–US–Israel talks in Washington. In calls with US Vice President Vance and Secretary of State Rubio, Aoun and US officials discussed recent developments and phased progress in US–Iran talks in Switzerland; Vance and Rubio said the US supports Lebanon's push to extend legitimate state authority across its territory and strengthen control over national sovereignty.
-
----
-
-### 2026-06-23 23:46:49  #國際
-
-【黎總統稱談判必須確保“以色列結束對黎佔領”】黎巴嫩總統奧恩23日表示，黎巴嫩政府不會接受任何低於“以色列結束對黎巴嫩領土佔領、黎巴嫩恢復全部領土主權”的談判結果。 據黎總統府發表的宣告，奧恩當天聽取了黎巴嫩代表團赴華盛頓參加第五輪黎美以三方會談情況彙報，隨後作出上述表態。 奧恩表示，近期事態發展證明，透過談判解決問題是實現黎巴嫩國家目標和維護國家主權的正確選擇。他希望談判能夠在恢復黎巴嫩國家主權、結束以色列對黎南部佔領等問題上取得決定性進展。 奧恩當天還與美國副總統萬斯和美國國務卿魯比奧通電話，雙方就黎巴嫩局勢最新發展以及美伊瑞士談判的階段性進展進行了討論。 萬斯和魯比奧表示，美國支援黎巴嫩政府在推進國家合法權力全面覆蓋、強化國家對全部領土主權控制方面的立場。奧恩感謝美方對推動結束黎巴嫩戰事、加強黎國家權力等方面的關注。(新華社)
-
----
-
-### 2026-06-23 23:46:45  #公司
-
-網路安全企業 Varonis 在收到收購意向後，據傳正在考量出售事宜。公司漲幅擴大至最高 23%。
-
----
-
-### 2026-06-23 23:44:40  #MKT News
-
-【Modi meets Wang Yi, BRICS security envoys in New Delhi】June 23, 2026, New Delhi — Indian Prime Minister Modi met Wang Yi, member of the CPC Politburo and director of the Office of the Central Foreign Affairs Commission, and other BRICS senior security representatives. Modi said India supports China taking the BRICS rotating chair next year and will work with China to advance BRICS cooperation and safeguard Global South interests. Wang Yi conveyed Chinese leadership’s good wishes, said China and India should lead unity and self-reliance among Global South nations, urged implementation of leaders’ consensus, greater mutual trust, proper handling of sensitive issues and deeper mutually beneficial cooperation, and said China will continue to support India in fulfilling its BRICS rotating-chair responsibilities. Wang also met Indian National Security Adviser Ajit Doval during the visit.
-
----
-
-### 2026-06-23 23:44:08  #公司 #國際
-
-市場訊息：黑石集團總裁兼營運長：公司計劃未來 3 至 5 年在日本人工智慧資料中心領域投資 300 億美元。
-
----
-
-### 2026-06-23 23:44:08  #MKT News
-
-Pakistan's prime minister says double standards on ballistic missiles are unacceptable.
-
----
-
-### 2026-06-23 23:43:49  #MKT News
-
-Pakistan's prime minister said Iran has no intention of discussing the matter.
-
----
-
-### 2026-06-23 23:43:48  #其他
-
-巴基斯坦總理謝里夫： 彈道導彈問題不能實行雙重標準。
-
----
-
-### 2026-06-23 23:42:55  #國際
-
-巴基斯坦總理謝里夫：巴基斯坦與伊朗將攜手合作，實現互利共贏。
-
----
-
-### 2026-06-23 23:42:39  #MKT News #Important
-
-Pakistan's prime minister said the memorandum of understanding does not mention ballistic missiles.
-
----
-
-### 2026-06-23 23:42:28  #其他 #焦點
-
-巴基斯坦總理謝里夫： 諒解備忘錄並未提及彈道導彈， 伊朗方面無意展開相關磋商。
-
----
-
-### 2026-06-23 23:41:40  #MKT News
-
-Pakistan's prime minister says Pakistan and Iran will cooperate to achieve mutual benefits.
-
----
-
-### 2026-06-23 23:40:29  #MKT News
-
-Italy's energy minister said he does not believe tensions with the United States will jeopardize Italy's liquefied natural gas (LNG) supplies.
-
----
-
-### 2026-06-23 23:40:07  #宏觀 #國際
-
-【印度總理莫迪會見王毅等金磚國家安全事務高階代表】印度總理莫迪23日在新德里總理府會見出席金磚國家安全事務高階代表會議的各國代表時，同中共中央政治局委員、中央外辦主任王毅進行友好交流。（新華社）
-
----
-
-### 2026-06-23 23:39:40  #MKT News #Market Regions #Europe & UK #DAX #Impact bearish #FTSE100 #Impact bullish
-
-At Tuesday close June 23, European equities: Germany's DAX 30 fell 237.30 points (-0.94%) to 24,914.18; UK's FTSE 100 rose 1.37 points (+0.01%) to 10,439.22; France's CAC 40 fell 59.40 points (-0.71%) to 8,340.71; Euro Stoxx 50 fell 75.96 points (-1.20%) to 6,235.36; Spain's IBEX 35 fell 93.84 points (-0.48%) to 19,481.46; Italy's FTSE MIB fell 755.28 points (-1.43%) to 52,041.50.
-
----
-
-### 2026-06-23 23:39:12  #其他
-
-義大利能源部長：我認為意美之間的緊張局勢不會危及義大利液化天然氣供應。
-
----
-
-### 2026-06-23 23:38:04  #公司
-
-巴西國家石油公司執行長表示，墨西哥灣墨西哥一側海域值得重新評估開發潛力。
-
----
-
-### 2026-06-23 23:37:52  #宏觀 #國際
-
-【王毅會見阿聯酋最高國家安全委員會秘書長沙姆西 】中共中央政治局委員、中央外辦主任王毅23日在新德里會見阿聯酋最高國家安全委員會秘書長沙姆西。王毅表示，中國和阿聯酋是全面戰略伙伴。近年來，在習近平主席和穆罕默德總統戰略引領下，中阿關係歷經國際風雲，持續向前發展。中方願同阿方堅定信心、共同努力，保持高層交往，深挖合作潛力，增進民心相通，推動中阿關係向更高水平邁進。（新華社）
-
----
-
-### 2026-06-23 23:37:21  #國際
-
-巴基斯坦總理謝里夫：（與伊朗總統會晤時）我們絕不會讓你們失望。巴基斯坦將履行這一職責，直至實現永久和平。
-
----
-
-### 2026-06-23 23:36:55  #MKT News
-
-Pakistan's prime minister said the country will fulfill its duty until permanent peace is achieved.
-
----
-
-### 2026-06-23 23:36:48  #其他
-
-聯合國航運機構：針對滯留在海灣地區、分佈於 500 至 600 艘船舶上的 1.1 萬名海員的撤離計劃已正式啟動。正在聯絡船隻，按照計劃透過霍爾木茲海峽啟動撤離。
-
----
-
-### 2026-06-23 23:36:41  #MKT News #Brent #Impact bullish #WTI #XAUUSD
-
-UN shipping agency says it is contacting vessels to begin planned evacuations through the Strait of Hormuz.
-
----
-
-### 2026-06-23 23:36:10  #MKT News
-
-Pakistan's prime minister told Iran's president during a meeting that Pakistan will not let Iran down.
-
----
-
-### 2026-06-23 23:35:36  #MKT News
-
-Pakistan's prime minister said Iran reached a memorandum of understanding with dignity and honor.
-
----
-
-### 2026-06-23 23:35:28  #國際
-
-巴基斯坦總理謝里夫稱伊朗體面且光榮地達成諒解備忘錄。
-
----
-
-### 2026-06-23 23:33:26  #MKT News #Macro & Rates #Treasury Yields #US10Y #Impact bearish #DXY #Impact bullish #USDJPY
-
-US 6-week Treasury auction on June 23: 92.35% of the allotment awarded at the stop-out (high) yield, versus 35.89% previously.
-
----
-
-### 2026-06-23 23:33:08  #MKT News #Macro & Rates #Treasury Yields #US10Y #Impact bullish #DXY #XAUUSD #Impact bearish
-
-US 6-week Treasury auction bid-cover ratio 2.91 on June 23; prior 3.12.
-
----
-
-### 2026-06-23 23:32:59  #MKT News #Macro & Rates #Treasury Yields #DXY #Impact bullish #XAUUSD #Impact bearish #US10Y
-
-US 6-week Treasury bill auction (to June 23) stop-out yield 3.62%, prior 3.60%.
-
----
-
-### 2026-06-23 23:32:34  #宏觀 #市場 #國際
-
-美國財政部拍賣六週期國債，得標利率3.620%，投標倍數2.91。
-
----
-
-### 2026-06-23 23:32:28  #其他
-
-中國地震臺網自動測定：06月23日23時29分在青海海西州直轄區附近（北緯37.81度，東經95.39度）發生5.2級左右地震，最終結果以正式速報為準。
-
----
-
-### 2026-06-23 23:31:53  #Trading Economics #Markets #Germany #Stock Market #Importance 1
-
-DAX Finishes Lower — The DAX 40 pared early losses but still closed about 0.7% down at 24,973 on Tuesday, dragged by tech-related stocks amid concerns over AI firms' capital expenditures and prospective Fed rate hikes. Meanwhile, investors also monitored progress on US-Iran negotiations, including the 60-day license granted by the US allowing Iran to sell its oil on the international market. The chip segment was the hardest hit, with Infineon Technologies sliding over 5%. The construction company Hochtief (-3.8%) and Siemens Energy (-3.5%) also posted steep losses. Both had benefited significantly from the massive investments in data centers in recent months. Vonovia shares dropped 3.4% following the announcement of a convertible bond issue. On the upside, heavyweight SAP and Airbus were the top gainers, adding more than 2% each. RWE reversed initial losses and rose 0.5% following the announcement of a €4 billion capital raise for a majority stake in Amprion.
 
 ---
