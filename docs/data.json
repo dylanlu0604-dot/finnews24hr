@@ -1,7 +1,78 @@
 {
-  "updated": "2026-06-25 04:58:51",
-  "count": 17061,
+  "updated": "2026-06-25 05:02:44",
+  "count": 17065,
   "items": [
+    {
+      "id": "mkt:019efb70-bf84-7dd8-b105-abf96853320c",
+      "time": "2026-06-25 05:02:10",
+      "tags": [
+        "MKT News",
+        "LMT.O",
+        "Impact bullish",
+        "NOC.O",
+        "RTX.O"
+      ],
+      "text": "NATO Secretary-General Rutte said Germany and other allies are stepping up efforts to increase defense spending."
+    },
+    {
+      "id": "4953531",
+      "time": "2026-06-25 05:01:07",
+      "tags": [
+        "市場"
+      ],
+      "text": "【紐約期金週三跌3.2%，現貨黃金失守4000美元整數位心理關口，白銀跌超6%】週三（6月24日）紐約尾盤，現貨黃金跌2.86%，報3999.08美元/盎司，全天處於下跌狀態，交投區間為4117.78-3959.33美元，北京時間02:04逼近2025年11月4日底部3928.98美元和當年10月28日底部3886.62美元。COMEX黃金期貨跌3.21%，報4016.40美元/盎司，紐約中午一度跌至3975.70美元。現貨白銀跌6.72%，報57.4512美元/盎司，交投區間為62.3762-55.6125美元，02:04逼近2025年11月28日底部53.3447美元。COMEX白銀期貨跌6.64%，報57.940美元/盎司。COMEX銅期貨跌2.57%，報6.0525美元/磅。現貨鉑金跌4.25%，現貨鈀金跌5.01%。"
+    },
+    {
+      "id": "mkt:019efb6f-2e07-7dd8-b105-a11a00b7d067",
+      "time": "2026-06-25 05:00:27",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "【Trump: will not accept any shipping-related fees in US-Iran deal】On June 24, Trump said any final US-Iran agreement that imposes fees on shipping or maritime activity would be \"unacceptable\" to him."
+    },
+    {
+      "id": "4953530",
+      "time": "2026-06-25 05:00:22",
+      "tags": [
+        "資料",
+        "國際"
+      ],
+      "text": "韓國製造業信心指數6月份升至101.2。"
+    },
+    {
+      "id": "4953529",
+      "time": "2026-06-25 04:59:55",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "【特朗普：不接受美伊協議包含任何涉及航運的費用】當地時間6月24日，美國總統特朗普表示，如果最終達成的美伊協議中包含針對航運或海事活動的任何形式的費用，這對他來說是“不可接受的”。（央視新聞）"
+    },
+    {
+      "id": "mkt:019efb6d-e4a5-7dd8-b105-9ecc10c6b3c3",
+      "time": "2026-06-25 04:59:03",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "Timiraos said some forecasters who backcast May PCE from US PPI and CPI expect a strong core PCE print and a sizable divergence from CPI, projecting core PCE YoY at 3.4% when the May figure is released on Thursday."
+    },
+    {
+      "id": "4953526",
+      "time": "2026-06-25 04:58:57",
+      "tags": [
+        "資料",
+        "央行",
+        "國際"
+      ],
+      "text": "“美聯儲傳聲筒”Nick Timiraos：一些將美國PPI和CPI資料換算為5月PCE的預測人士預計，美國核心PCE將錄得較強讀數，並且與CPI之間的差距（分歧）較大，預計在週四公佈時，核心PCE同比增速將達到3.4%。"
+    },
     {
       "id": "mkt:019efb6c-d01f-7dd8-b105-97b239f3a892",
       "time": "2026-06-25 04:57:52",
@@ -155885,37 +155956,6 @@
         "Impact bullish"
       ],
       "text": "Apple (AAPL.O) shares rose 0.7% in after-hours U.S. trading."
-    },
-    {
-      "id": "mkt:019ed764-1ae4-7dd8-b064-4a0ff62b8c04",
-      "time": "2026-06-18 05:02:02",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Gulf Times reports a fire on the top floor of the Emirates Financial Tower in Dubai; cause unknown."
-    },
-    {
-      "id": "mkt:019ed764-15cc-7dd8-b064-4261df9bb6b9",
-      "time": "2026-06-18 05:02:01",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Star Stocks",
-        "Apple",
-        "Market Themes",
-        "Magnificent 7",
-        "AAPL.O",
-        "Impact mixed"
-      ],
-      "text": "【Cook says Apple will raise prices】Tim Cook told the Wall Street Journal price increases are unavoidable; Apple (AAPL.O) has not yet raised prices but the situation is \"unsustainable\", and surging memory and storage costs will force price increases."
-    },
-    {
-      "id": "4941849",
-      "time": "2026-06-18 04:59:14",
-      "tags": [
-        "其他"
-      ],
-      "text": "迪拜酋長國金融大廈高層發生火災，起火原因不明。"
     }
   ]
 }
