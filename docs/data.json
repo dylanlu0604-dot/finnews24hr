@@ -1,7 +1,31 @@
 {
-  "updated": "2026-06-25 06:57:56",
-  "count": 16986,
+  "updated": "2026-06-25 07:06:14",
+  "count": 16972,
   "items": [
+    {
+      "id": "4953587",
+      "time": "2026-06-25 07:00:57",
+      "tags": [
+        "市場"
+      ],
+      "text": "英國汽車製造商與經銷商協會（SMMT）：5 月英國汽車總產量上漲 2.7%，達 51178 輛。"
+    },
+    {
+      "id": "4953586",
+      "time": "2026-06-25 07:00:45",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國汽車製造商與經銷商協會（SMMT）：5 月英國乘用車產量增長 3.2%，達 49249 輛；商用車產量下降 7.6%，至 1929 輛。"
+    },
+    {
+      "id": "4953585",
+      "time": "2026-06-25 07:00:26",
+      "tags": [
+        "公司"
+      ],
+      "text": "【黃仁勳股東大會放言：本輪AI基建週期長達數十年】在當地時間6月24日的英偉達2026年度股東大會上，股東批准了該公司全部10名董事會成員提名。英偉達CEO黃仁勳在股東大會上還進行了發言，強調“有用的AI時代”已經到來，並釋放了對AI基礎設施建設將繼續的信心。就AI基礎設施建設的可持續性，黃仁勳則表示，算力越多，token越多，收入也就越多。這輪建設將以數十年為單位來衡量，涉及電網、網際網路等關鍵基礎設施建設。相信這將成為人類歷史上規模最大的基礎設施建設。"
+    },
     {
       "id": "te:markets:561652",
       "time": "2026-06-25 06:54:12",
@@ -155083,167 +155107,6 @@
         "國際"
       ],
       "text": "針對美聯儲主席凱文·沃爾什備受期待的首次新聞釋出會，據許多美聯儲觀察人士稱，順利、精煉且控制得當。"
-    },
-    {
-      "id": "mkt:019ed7d5-ad9e-7dd8-b065-fb88e437bfe5",
-      "time": "2026-06-18 07:06:05",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "The Trump Trade",
-        "WTI",
-        "Impact bearish",
-        "Brent",
-        "DXY"
-      ],
-      "text": "U.S. President Trump said he signed a memorandum of understanding with Iran."
-    },
-    {
-      "id": "te:markets:559836",
-      "time": "2026-06-18 07:05:46",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "New Zealand",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "NZX 50 Falls, Tracking Wall Street Lower — The NZX 50 dropped 30 points, or 0.2%, to 13,363 in Thursday morning trade, extending losses from the previous session and tracking a decline on Wall Street overnight after the Fed kept interest rates steady and signaled the possibility of rate hikes this year. Wednesday's data also continued to pressure sentiment, as New Zealand's consumer confidence fell to its lowest level since 2023 in Q2, while the Q1 current account deficit widened from the same period a year earlier. However, the latest data helped cap the fall, as New Zealand's GDP growth accelerated to 0.8% qoq in Q1, while annual growth held steady at 1.5%. Reports that the US and Iran plan to sign an agreement to end the war also limited losses, as lower oil prices eased concerns over inflationary pressures. Energy, materials, and industrial stocks mainly weighed on the index, with notable losses from Contact Energy (-1.2%), Freightways Group (-0.8%), AFT Pharmaceuticals (-0.7%), and Auckland International Airport (-0.5%)."
-    },
-    {
-      "id": "em:qqyh_mlc:202606183775079477",
-      "time": "2026-06-18 07:05:00",
-      "tags": [
-        "央行",
-        "美聯儲"
-      ],
-      "text": "【美聯儲新掌門首秀！加息預期已拉滿】當地時間6月17日，美國聯邦儲備委員會以一份“超短”篇幅的宣告，更新了FOMC決議的開啟方式，並邁出了其溝通機制改革的第一步。在這份宣告中，美聯儲宣佈，繼續將聯邦基金利率目標區間維持在3.5%至3.75%之間不變。這一今年連續第四次維持利率不變的決定符合市場普遍預期。"
-    },
-    {
-      "id": "4941963",
-      "time": "2026-06-18 07:04:29",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【SpaceX股價上市以來首度下跌 市場人士稱或逢低吸納】SpaceX股價自創紀錄首次公開募股(IPO)以來首次下跌，終結了此前連續三天近50%的漲勢。埃隆·馬斯克旗下這家火箭和人工智慧公司的股價週三下跌約5%，此前盤中波動劇烈，一度上漲6%，隨後轉跌。此次下跌使SpaceX市值重新落後於亞馬遜，成為全球市值第六大公司，市值約2.5萬億美元。不過，該股目前仍較135美元的IPO價格高出逾42%。“簡而言之，我認為目前這只是市場噪音。如果出現大幅下跌，那就另當別論了，”達拉斯Founder Funds的合夥人兼投資組合經理Michael Monaghan表示，該公司持有SpaceX的股票。“如果股價真的進一步下跌，我們可能會加倉，”他說。"
-    },
-    {
-      "id": "mkt:019ed7d2-f1ea-7dd8-b065-f5702596617e",
-      "time": "2026-06-18 07:03:06",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Hong Kong Monetary Authority will keep its base rate unchanged at 4%."
-    },
-    {
-      "id": "4941962",
-      "time": "2026-06-18 07:02:11",
-      "tags": [
-        "其他",
-        "焦點"
-      ],
-      "text": "香港金融管理局將基準利率維持在4%。"
-    },
-    {
-      "id": "4941961",
-      "time": "2026-06-18 07:01:35",
-      "tags": [
-        "其他"
-      ],
-      "text": "渤健將以最高10億美元收購雷瑟拉制藥，交易金額包括里程碑付款。"
-    },
-    {
-      "id": "mkt:019ed7d1-5a4b-7dd8-b065-eac2f3cc4430",
-      "time": "2026-06-18 07:01:21",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "REUTERS SURVEY: 30% of Japanese companies cite misuse of advanced AI models as their top concern."
-    },
-    {
-      "id": "4941960",
-      "time": "2026-06-18 07:01:19",
-      "tags": [
-        "國際"
-      ],
-      "text": "路透社調查顯示，儘管日本政府已向市場保證供應充足，但仍幾乎所有日本企業都擔憂石油及石油製品的採購問題。"
-    },
-    {
-      "id": "4941959",
-      "time": "2026-06-18 07:01:17",
-      "tags": [
-        "國際"
-      ],
-      "text": "路透社調查顯示，30%的日本企業將先進人工智慧模型濫用的潛在風險列為首要優先順序問題。"
-    },
-    {
-      "id": "mkt:019ed7d1-3724-7dd8-b065-e7efee99a1a4",
-      "time": "2026-06-18 07:01:12",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "Market Regions",
-        "Japan & APAC",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "Reuters survey: Despite Japanese government assurances of adequate supply, nearly all Japanese companies surveyed express concern about procuring crude oil and petroleum products."
-    },
-    {
-      "id": "4941958",
-      "time": "2026-06-18 07:01:00",
-      "tags": [
-        "國際"
-      ],
-      "text": "【俄莫斯科州一輕型飛機墜毀致兩人死亡】據塔斯社17日報道，一架輕型飛機在俄羅斯莫斯科州墜毀致兩人死亡。 據塔斯社援引訊息人士的話報道，一架輕型飛機在降落時墜毀，飛機撞擊地面後起火，機上兩人遇難。報道稱，沒有地面人員傷亡，事故原因正在調查中。"
-    },
-    {
-      "id": "mkt:019ed7d0-9a2a-7dd8-b065-df9fad974f4b",
-      "time": "2026-06-18 07:00:32",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC"
-      ],
-      "text": "Reuters survey: Nearly half of Japanese firms expect it will take more than six months to resume normal operations after a US-Iran ceasefire."
-    },
-    {
-      "id": "4941957",
-      "time": "2026-06-18 07:00:20",
-      "tags": [
-        "國際"
-      ],
-      "text": "【已簽署 美伊諒解備忘錄生效 60天談判視窗期開啟】美國當地時間17日，美伊雙方已遠端簽署諒解備忘錄。美官員稱檔案由特朗普親自簽署，現已生效。伊朗外交部發言人巴加埃表示，從備忘錄生效之時起，即現在開始，將在60天內就核問題和制裁問題展開談判。協議簽署前，美伊公佈雙方達成的諒解備忘錄正式文字，就外界普遍關注的伊朗核議題，文字內容顯示，伊朗重申其不會獲取或研製核武器，雙方同意在國際原子能機構的監督下對伊朗的濃縮鈾進行現場稀釋等。（央視新聞）"
-    },
-    {
-      "id": "mkt:019ed7d0-5d3e-7dd8-b065-d31be633e1fb",
-      "time": "2026-06-18 07:00:17",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【US-Iran memorandum takes effect; 60-day negotiation window opens】US and Iran remotely signed a memorandum of understanding effective US local time on the 17th, a US official said, adding Trump personally signed the document. Iranian Foreign Ministry spokesman BAGHAEI said the memorandum starts a 60-day negotiation window on nuclear and sanctions issues from the effective time. The published text shows Iran reaffirming it will not acquire or develop nuclear weapons and the parties agreeing to IAEA‑supervised on‑site dilution of Iran's enriched uranium."
-    },
-    {
-      "id": "4941956",
-      "time": "2026-06-18 06:59:09",
-      "tags": [
-        "其他",
-        "焦點"
-      ],
-      "text": "【國家外匯局：人民幣金融紐帶功能持續拓展】在2026陸家嘴論壇上，中國人民銀行副行長、國家外匯管理局局長朱鶴新表示，全球創新資本配置中國動能增強，人民幣金融紐帶功能持續拓展。朱鶴新表示，2026年一季度末，境外投資者持有境內股票市值約6000億美元，其中，持有資訊科技行業市值約900億美元。朱鶴新介紹中國與全球資本流動雙向互動中，人民幣金融紐帶功能持續拓展。中國資本項下跨境人民幣收付佔比，已上升至60%左右。（央視新聞）"
-    },
-    {
-      "id": "4941955",
-      "time": "2026-06-18 06:58:18",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國國土安全部稱，世界盃開賽初期已有數十架無人機被攔截處置。"
     }
   ]
 }
