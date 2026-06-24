@@ -1,7 +1,57 @@
 {
-  "updated": "2026-06-24 13:36:45",
-  "count": 17371,
+  "updated": "2026-06-24 13:40:58",
+  "count": 17363,
   "items": [
+    {
+      "id": "4951825",
+      "time": "2026-06-24 13:40:07",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：一艘油輪在海灣地區被以基準運費的897%預訂。"
+    },
+    {
+      "id": "mkt:019ef824-5b0b-7dd8-b0ed-13db7f1da286",
+      "time": "2026-06-24 13:39:52",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "Hang Seng Index",
+        "Impact bullish"
+      ],
+      "text": "Hong Kong shares extended gains; Hang Seng Tech Index rose more than 3% and the HSI gained over 0.8%. Pharma outsourcing and semiconductor stocks were active throughout the session."
+    },
+    {
+      "id": "4951824",
+      "time": "2026-06-24 13:38:46",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "恒生科技指數漲超3%，現報4531.620點；恒生指數現漲0.845%。"
+    },
+    {
+      "id": "mkt:019ef822-a1dd-7dd8-b0ed-0ee5ab0c90a8",
+      "time": "2026-06-24 13:37:59",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Tencent",
+        "00700.HK",
+        "Impact bullish"
+      ],
+      "text": "Hong Kong-listed Tencent Holdings (00700.HK) extended gains, trading more than 5% higher on turnover of HK$9.3 billion."
+    },
+    {
+      "id": "4951823",
+      "time": "2026-06-24 13:37:36",
+      "tags": [
+        "其他"
+      ],
+      "text": "【復旦大學芮明傑：關注未來產業可能存在的隱性汙染】科學學上海論壇·2026科技創新智庫國際研討會6月24日至25日舉行。復旦大學企業發展與管理創新研究中心主任芮明傑表示，部分未來產業或存在隱性汙染。例如，數字產業的“非物質化”環境成本（算力能耗、電子垃圾處理等）尚未得到有效解決，AI虛擬資訊與知識的甄別、操控和防範也是亟待破解的重大難題。同時，要注意未來產業資源需求與生態承載力的矛盾。例如，資料中心、半導體制造等高耗能未來產業，與“雙碳”目標存在一定衝突，鋰、鈷、稀土等關鍵礦產資源的開採，與生態環境保護之間也存在矛盾。"
+    },
     {
       "id": "mkt:019ef820-e067-7dd8-b0ed-05c20da97064",
       "time": "2026-06-24 13:36:04",
@@ -158948,120 +158998,6 @@
         "公司"
       ],
       "text": "七國集團領導人承諾降低對霍爾木茲海峽的依賴，增加能源儲備。"
-    },
-    {
-      "id": "4940038",
-      "time": "2026-06-17 13:40:56",
-      "tags": [
-        "其他"
-      ],
-      "text": "【覓蜂科技獲數億元天使+輪融資】近日，一站式物理AI資料服務平臺覓蜂科技完成新一輪數億元天使 + 輪戰略融資。本輪由國方創投領投，孚騰資本、上海電科基金、元啟創新等跟投，老股東均普智慧、鼎暉VGC持續追加投資。"
-    },
-    {
-      "id": "4940037",
-      "time": "2026-06-17 13:39:33",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "科創50日內漲幅達4％，成分股中，盛美上海漲20％，拓荊科技漲11.8％，華海清科漲10％，晶合整合漲8.7％。"
-    },
-    {
-      "id": "te:markets:559581",
-      "time": "2026-06-17 13:39:11",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "New Zealand",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "NZX 50 Closes 0.3% Lower Ahead of GDP Data, Fed Decision — The NZX 50 fell 33 points, or 0.3%, to close at 13,393 on Wednesday, erasing gains from the previous session, as traders remained cautious ahead of New Zealand's Q1 GDP data and the Fed's monetary policy decision. Fresh data also pressured sentiment, as New Zealand's consumer confidence fell to its lowest level since 2023 in Q2, weighed by rising fuel and other living costs, while the Q1 current account gap widened from the same period a year earlier. The broader index declined from its highest level since March 6, reached a day earlier, tracking a fall in Wall Street's Nasdaq and S&P 500 indexes overnight amid a pullback in AI-related stocks. Technology stocks, materials, utilities, financials, and communication services mainly weighed on the index, with notable losses from Delegat Group (-2.6%), Hallenstein Glasson (-2.5%), and Mainfreight (-2.0%), while Ebos Group, Infratil, and Summerset Group each fell 1.3%, and ANZ Group declined 0.9%."
-    },
-    {
-      "id": "mkt:019ed417-3294-7dd8-b043-19bb09c5cd06",
-      "time": "2026-06-17 13:39:10",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bearish",
-        "Brent",
-        "DXY"
-      ],
-      "text": "G7 supports an immediate, robust ceasefire in Lebanon to back Lebanese leadership's efforts to disarm Hezbollah."
-    },
-    {
-      "id": "4940036",
-      "time": "2026-06-17 13:38:49",
-      "tags": [
-        "公司"
-      ],
-      "text": "七國集團領導人：我們支援透過黎巴嫩立即實現強力停火，支援黎巴嫩領導層為解除真主黨武裝所做的努力。"
-    },
-    {
-      "id": "mkt:019ed416-e00d-7dd8-b043-15be431fd267",
-      "time": "2026-06-17 13:38:49",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Bank of Korea: demand-driven price pressures in May exceeded prior levels."
-    },
-    {
-      "id": "mkt:019ed415-f58b-7dd8-b043-08b84e196ee8",
-      "time": "2026-06-17 13:37:49",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "G7 supports and stands ready to contribute to implementation of the US-Iran agreement."
-    },
-    {
-      "id": "4940035",
-      "time": "2026-06-17 13:37:35",
-      "tags": [
-        "公司"
-      ],
-      "text": "七國集團領導人：我們支援並準備為美伊協議的落實提供助力。"
-    },
-    {
-      "id": "4940034",
-      "time": "2026-06-17 13:37:28",
-      "tags": [
-        "其他"
-      ],
-      "text": "【北京電動腳踏車註冊、登出、變更資訊可線上申請】從北京公安交管局獲悉，“北京交警”App正式推出電動腳踏車註冊登記、登出登記、聯絡方式變更三項高頻業務線上辦理功能。群眾可透過“北京交警”App線上申報、預約後，選擇合適的非機動車登記站或登記服務點就近辦理。"
-    },
-    {
-      "id": "em:qqyh_zgyh:202606173774381512",
-      "time": "2026-06-17 13:37:13",
-      "tags": [
-        "央行",
-        "中國央行"
-      ],
-      "text": "【金融結構正發生深刻變化！央行最新發聲釋放了哪些訊號？】潘功勝表示，金融結構有很多衡量的維度，融資結構是其中最重要的維度。長期以來，中國的金融結構由銀行貸款主導，金融市場的規模較小。近年來，以銀行貸款為主體的間接融資佔比持續下降，包括債券、股票在內的直接融資佔比穩步上升，金融結構正在發生深刻的變化。"
-    },
-    {
-      "id": "4940033",
-      "time": "2026-06-17 13:37:09",
-      "tags": [
-        "公司"
-      ],
-      "text": "【三人行投資成立未來數字科技公司】企查查APP顯示，近日，南京三人行未來數字科技有限公司成立，經營範圍包含：資訊系統整合服務；計算機系統服務；數字技術服務；資訊科技諮詢服務等。企查查股權穿透顯示，該公司由三人行全資持股。"
-    },
-    {
-      "id": "4940032",
-      "time": "2026-06-17 13:36:57",
-      "tags": [
-        "公司"
-      ],
-      "text": "七國集團領導人重申，不受限制、不徵收通行費的過境通行權是國際貿易的基石。"
-    },
-    {
-      "id": "4940031",
-      "time": "2026-06-17 13:36:51",
-      "tags": [
-        "市場"
-      ],
-      "text": "寶馬股價在Tradegate平臺上下跌6.9%。"
     }
   ]
 }
