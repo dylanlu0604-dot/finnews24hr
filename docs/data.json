@@ -1,7 +1,79 @@
 {
-  "updated": "2026-06-25 00:58:36",
-  "count": 17254,
+  "updated": "2026-06-25 01:02:45",
+  "count": 17246,
   "items": [
+    {
+      "id": "mkt:019efa94-f786-7dd8-b100-8244f6ac866c",
+      "time": "2026-06-25 01:02:07",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United States | 5-Year Note Auction Bid/Cover Ratio (Jun.24) | actual 2.35 | previous 2.34"
+    },
+    {
+      "id": "mkt:019efa94-f74c-7dd8-b100-7cc271b37a98",
+      "time": "2026-06-25 01:02:07",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United States | 5-Year Note Auction Accepted at High (Jun.24) | actual 86.81% | previous 75.22%"
+    },
+    {
+      "id": "mkt:019efa94-f73a-7dd8-b100-74e3636052a2",
+      "time": "2026-06-25 01:02:07",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United States | 5-Year Note Auction High Yield Rate (Jun.24) | actual 4.2% | previous 4.18%"
+    },
+    {
+      "id": "mkt:019efa94-4cd2-7dd8-b100-6cb860701b12",
+      "time": "2026-06-25 01:01:23",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Industrial Metals",
+        "Copper",
+        "Impact bearish"
+      ],
+      "text": "【Night session most-active contracts close】At the 01:00 night-session close, Shanghai most-active copper contract fell 2.30%, aluminum down 2.13%, zinc down 1.33%, nickel down 1.72%, tin down 2.64%, lead down 0.95%, stainless steel down 0.85% and alumina down 0.84%; international most-active copper contract fell 2.29%."
+    },
+    {
+      "id": "4953228",
+      "time": "2026-06-25 01:00:27",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "700億美元拍賣前，美國國債5年期收益率為4.193%。"
+    },
+    {
+      "id": "4953227",
+      "time": "2026-06-25 01:00:16",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國能源部長賴特稱，預計將於今年晚些時候前往委內瑞拉。"
+    },
+    {
+      "id": "4953226",
+      "time": "2026-06-25 01:00:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "【夜盤期貨收盤】國際銅夜盤收跌2.29%，滬銅收跌2.30%，滬鋁收跌2.13%，滬鋅收跌1.33%，滬鉛收跌0.95%，滬鎳收跌1.76%，滬錫收跌2.65%。氧化鋁夜盤收跌0.84%，鋁合金收跌1.69%。不鏽鋼夜盤收跌0.85%。"
+    },
+    {
+      "id": "4953225",
+      "time": "2026-06-25 00:58:42",
+      "tags": [
+        "國際"
+      ],
+      "text": "【以黎華盛頓首輪談判首日未能取得任何進展】以色列與黎巴嫩在華盛頓舉行的首輪談判首日未能取得任何進展，雙方在以色列撤軍範圍與時間節點上存在重大分歧。會談氣氛愈發緊張，兩國分歧依舊懸殊。美國調解方目前實質上重啟談判，試圖促使雙方軟化立場，推動磋商重回正軌。"
+    },
     {
       "id": "mkt:019efa90-ff06-7dd8-b100-6672a696b6ed",
       "time": "2026-06-25 00:57:46",
@@ -157972,145 +158044,6 @@
         "WTI"
       ],
       "text": "【Netherlands to provide €500m weapons support to Ukraine】The Netherlands on Wednesday announced €500m (~$580m) in weapons support for Ukraine, with half (€250m) earmarked for the Ukraine priority needs list (PURL) mechanism under which European allies procure U.S.-made weapons. The government will separately provide €250m (~$290m) for drones, bringing total announced support to €750m (~$870m). Dutch defence minister, meeting Ukrainian officials in The Hague, said continued Russian attacks make air defence a heightened priority."
-    },
-    {
-      "id": "4941537",
-      "time": "2026-06-18 01:02:43",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：霍爾木茲海峽不需要其他國家駐軍，不過現在各國都想來部署兵力。"
-    },
-    {
-      "id": "mkt:019ed688-44d1-7dd8-b05b-19dbd6668902",
-      "time": "2026-06-18 01:01:55",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "The Trump Trade"
-      ],
-      "text": "Trump: You cannot cover everything in one document."
-    },
-    {
-      "id": "mkt:019ed688-302a-7dd8-b05b-117ab96dc6ca",
-      "time": "2026-06-18 01:01:49",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "U.S. President Trump said moves on sanctions would follow if Iran behaves."
-    },
-    {
-      "id": "mkt:019ed688-0560-7dd8-b05b-0a013a781654",
-      "time": "2026-06-18 01:01:38",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "U.S. President Trump said Japanese Prime Minister Takaichi is his biggest supporter."
-    },
-    {
-      "id": "4941536",
-      "time": "2026-06-18 01:01:37",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：日本發展得非常好，日本首相高市早苗是我最大的支持者。"
-    },
-    {
-      "id": "mkt:019ed687-d807-7dd8-b05b-018d3907883a",
-      "time": "2026-06-18 01:01:27",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "President Trump said the United States will have the cheapest energy in the world."
-    },
-    {
-      "id": "4941535",
-      "time": "2026-06-18 01:01:18",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：只要伊朗規範自身行為，制裁相關舉措就會有所調整。"
-    },
-    {
-      "id": "4941534",
-      "time": "2026-06-18 01:01:06",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：我們將擁有全球成本最低的能源。"
-    },
-    {
-      "id": "mkt:019ed687-0bc5-7dd8-b05a-f85cc7599ba6",
-      "time": "2026-06-18 01:00:34",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "US President Trump said affordability is a made-up term invented by Democrats."
-    },
-    {
-      "id": "mkt:019ed686-d38c-7dd8-b05a-f37ffec39949",
-      "time": "2026-06-18 01:00:20",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "UK Maritime Trade Operations (UKMTO) said crew are safe and advised all transiting vessels to exercise caution."
-    },
-    {
-      "id": "4941533",
-      "time": "2026-06-18 01:00:05",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "據AXIOS：OpenAI的CEO Altman、谷歌公司高管Hassabis、Anthropic的CEO Amodei、Meta高管Wang、Mistral AI高管Mensch、Cohere高管Gomez、Salesforce高管Benioff出席（美國）AI會議。"
-    },
-    {
-      "id": "4941532",
-      "time": "2026-06-18 01:00:03",
-      "tags": [
-        "市場"
-      ],
-      "text": "【夜盤期貨收盤】國際銅夜盤收漲0.25%，滬銅收漲0.26%，滬鋁收漲0.21%，滬鋅收漲0.73%，滬鉛收漲0.15%，滬鎳收漲0.59%，滬錫收漲0.21%。氧化鋁夜盤收漲0.52%，鋁合金收漲0.17%。不鏽鋼夜盤收跌0.43%。"
-    },
-    {
-      "id": "mkt:019ed686-6057-7dd8-b05a-ec2f44e00d79",
-      "time": "2026-06-18 00:59:51",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "UK Maritime Trade Operations reported a vessel was approached by two small boats to within 4 metres; the boats carried an unspecified number of armed personnel and opened fire on the vessel."
-    },
-    {
-      "id": "4941531",
-      "time": "2026-06-18 00:59:35",
-      "tags": [
-        "其他"
-      ],
-      "text": "英國海上貿易行動辦公室： 涉事船舶已部署安保人員並實施還擊，可疑快艇現已撤離，距離該船超過 4 海里。"
-    },
-    {
-      "id": "4941530",
-      "time": "2026-06-18 00:59:22",
-      "tags": [
-        "其他"
-      ],
-      "text": "英國海上貿易行動辦公室：收到一則事發於葉門亞丁東北方向 105 海里海域的險情報告。   兩艘小型快艇逼近一艘船隻至 4 米範圍內，並向該船開火，快艇上武裝人員人數不明。"
-    },
-    {
-      "id": "mkt:019ed685-bfc9-7dd8-b05a-e7efb713ca9b",
-      "time": "2026-06-18 00:59:10",
-      "tags": [
-        "MKT News",
-        "Brent",
-        "Impact bullish",
-        "WTI"
-      ],
-      "text": "UK Maritime Trade Operations said it received a report of an incident 105 nautical miles northeast of Aden, Yemen."
     }
   ]
 }
