@@ -1,7 +1,96 @@
 {
-  "updated": "2026-06-25 04:42:40",
-  "count": 17038,
+  "updated": "2026-06-25 04:46:44",
+  "count": 17047,
   "items": [
+    {
+      "id": "mkt:019efb62-32f4-7dd8-b105-26c9cab7fc94",
+      "time": "2026-06-25 04:46:17",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Qualcomm (QCOM.O) CFO said the company targets data-center revenue exceeding $15 billion in fiscal 2029."
+    },
+    {
+      "id": "mkt:019efb61-c49e-7dd8-b105-197b1ec8b222",
+      "time": "2026-06-25 04:45:48",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "QCOM.O",
+        "Impact bullish"
+      ],
+      "text": "Qualcomm (QCOM.O) raised its fiscal 2029 revenue target for non-handset businesses to $40 bln."
+    },
+    {
+      "id": "mkt:019efb61-af23-7dd8-b105-13c0b8617523",
+      "time": "2026-06-25 04:45:43",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "AI Revolution",
+        "QCOM.O",
+        "Impact bullish"
+      ],
+      "text": "Qualcomm (QCOM.O) shares rose over 14% in after-hours US trading after the CFO said the company targets $5.0 billion in AI data-center revenue in fiscal 2027."
+    },
+    {
+      "id": "4953513",
+      "time": "2026-06-25 04:45:11",
+      "tags": [
+        "公司"
+      ],
+      "text": "道富集團計劃將 2026 年第三季度股息上調 10%，至每股 0.92 美元。"
+    },
+    {
+      "id": "4953512",
+      "time": "2026-06-25 04:44:46",
+      "tags": [
+        "市場"
+      ],
+      "text": "美光科技盤後上漲至15%。"
+    },
+    {
+      "id": "mkt:019efb60-0a83-7dd8-b105-0c385263dd63",
+      "time": "2026-06-25 04:43:55",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Trump said he nearly made progress in talks with NATO Secretary-General Rutte."
+    },
+    {
+      "id": "4953504",
+      "time": "2026-06-25 04:43:08",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：關於伊朗戰爭授權的投票毫無意義。"
+    },
+    {
+      "id": "mkt:019efb5f-3c96-7dd8-b105-066ab1165d3b",
+      "time": "2026-06-25 04:43:03",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "US President Trump said an Iran deal that includes transportation costs would be unacceptable."
+    },
+    {
+      "id": "mkt:019efb5e-c209-7dd8-b104-ffccd776f091",
+      "time": "2026-06-25 04:42:31",
+      "tags": [
+        "MKT News",
+        "LMT.O",
+        "Impact bullish",
+        "RTX.O",
+        "NOC.O"
+      ],
+      "text": "White House says Trump's supplemental budget request includes $67.15 bln for Defense Department military projects."
+    },
     {
       "id": "4953499",
       "time": "2026-06-25 04:42:02",
