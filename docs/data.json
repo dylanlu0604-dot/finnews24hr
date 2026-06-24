@@ -1,7 +1,88 @@
 {
-  "updated": "2026-06-25 02:16:53",
-  "count": 17185,
+  "updated": "2026-06-25 02:21:02",
+  "count": 17182,
   "items": [
+    {
+      "id": "te:markets:561633",
+      "time": "2026-06-25 02:20:06",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Metals Commodities Updates: Silver Slumps by 7.80% — Top commodity losers are Silver (-7.80%), Platinum (-5.80%), Copper (-3.23%) and Gold (-3.07%). Gains are led by Iron Ore CNY (0.74%)."
+    },
+    {
+      "id": "mkt:019efadc-30ae-7dd8-b102-1d6dda7a6b74",
+      "time": "2026-06-25 02:19:54",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Star Stocks",
+        "Alphabet",
+        "Market Themes",
+        "AI Revolution",
+        "Magnificent 7",
+        "GOOG.O",
+        "Impact bearish"
+      ],
+      "text": "Google (GOOG.O) slipped briefly after reports that two more AI employees may be leaving for ANTHROPIC."
+    },
+    {
+      "id": "4953322",
+      "time": "2026-06-25 02:19:47",
+      "tags": [
+        "公司"
+      ],
+      "text": "巴西石油公司執行長：公司重啟投資，將深耕巴西本土市場。"
+    },
+    {
+      "id": "4953321",
+      "time": "2026-06-25 02:19:14",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "谷歌股價迅速轉跌，下跌0.6%。"
+    },
+    {
+      "id": "4953320",
+      "time": "2026-06-25 02:18:56",
+      "tags": [
+        "其他"
+      ],
+      "text": "國際艾滋病疫苗倡議組織（IAVI）發言人：首款埃博拉候選疫苗預計將於2026年底前完成製備，可開展人體評估。"
+    },
+    {
+      "id": "4953319",
+      "time": "2026-06-25 02:18:49",
+      "tags": [
+        "其他"
+      ],
+      "text": "高通投資者日會議開幕。"
+    },
+    {
+      "id": "4953318",
+      "time": "2026-06-25 02:18:09",
+      "tags": [
+        "公司",
+        "焦點"
+      ],
+      "text": "谷歌再有兩名人工智慧員工或將跳槽至Anthropic公司。"
+    },
+    {
+      "id": "mkt:019efad9-6b74-7dd8-b102-140aa2ae63eb",
+      "time": "2026-06-25 02:16:53",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bearish",
+        "EURUSD",
+        "Impact mixed"
+      ],
+      "text": "【ECB's Zigman: price stability is priority; oil decline eases task】ECB official Zigman said price stability is the ECB’s primary task and that falling oil prices are making that task relatively easier. Speaking in his first public appearance since becoming governor of the Croatian central bank this month, he said ECB rate hikes have signalled determination despite the risk of further slowing an already fragile regional economy. He added that geopolitical developments around the Strait of Hormuz have pushed oil prices down, which he said will have a positive effect on inflation."
+    },
     {
       "id": "4953317",
       "time": "2026-06-25 02:16:26",
@@ -157174,143 +157255,6 @@
         "S&P500"
       ],
       "text": "【Warsh influence emerging; Fed statements shift toward pre-global financial crisis lower-transparency phrasing】Analysts say Kevin Warsh's influence is apparent in the latest Fed statement, with wording moving closer to the lower-transparency style used before the global financial crisis. They caution that reduced communication may damp short-term daily market volatility but could trigger larger, jumpy market moves if the Fed's policy reaction function or incoming economic data deviate from expectations."
-    },
-    {
-      "id": "mkt:019ed6d0-971b-7dd8-b05e-8602c0e3a4d1",
-      "time": "2026-06-18 02:20:54",
-      "tags": [
-        "MKT News",
-        "US10Y",
-        "Impact bearish",
-        "DXY",
-        "Impact bullish",
-        "EURUSD"
-      ],
-      "text": "Michelle, head of global fixed income at JP Morgan, said she sees a possibility of two rate hikes this year."
-    },
-    {
-      "id": "mkt:019ed6d0-7fa9-7dd8-b05e-7ba232ff239e",
-      "time": "2026-06-18 02:20:48",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "DXY",
-        "Impact bullish",
-        "US10Y",
-        "Impact bearish",
-        "S&P500"
-      ],
-      "text": "Short-term interest-rate futures currently price a higher probability of a Fed rate hike in September than of holding policy unchanged."
-    },
-    {
-      "id": "4941639",
-      "time": "2026-06-18 02:20:27",
-      "tags": [
-        "市場",
-        "央行",
-        "國際"
-      ],
-      "text": "短期利率期貨當前定價顯示，美聯儲 9 月加息的機率高於維持利率不變的機率。"
-    },
-    {
-      "id": "mkt:019ed6cf-d55a-7dd8-b05e-705588e74170",
-      "time": "2026-06-18 02:20:05",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "DXY",
-        "Impact mixed",
-        "US10Y",
-        "S&P500"
-      ],
-      "text": "Federal Reserve Chairman Kevin Warsh will hold a monetary policy press conference in 10 minutes."
-    },
-    {
-      "id": "te:markets:559799",
-      "time": "2026-06-18 02:20:02",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Metals Commodities Updates: Platinum Falls by 2.38% — Top commodity losers are Platinum (-2.38%), Iron Ore CNY (-1.90%), Steel Rebar (-1.12%) and Gold (-0.56%)."
-    },
-    {
-      "id": "4941638",
-      "time": "2026-06-18 02:19:41",
-      "tags": [
-        "國際"
-      ],
-      "text": "【伊朗外交部稱伊方前往瑞士會談的計劃未變】當地時間17日，總檯記者獲悉，伊朗外交部發言人巴加埃表示，截至目前，伊朗前往瑞士會談的計劃沒有變化。關於諒解備忘錄的簽署方式，其中一個設想是由伊朗和美國兩國總統出面簽署，目前該方案仍在審議之中。瑞士外交部此前表示，美伊諒解備忘錄的簽署儀式將於19日在瑞士比爾根山度假村舉行。有訊息稱，美國副總統萬斯和伊朗議會議長卡利巴夫預計將出席簽字儀式。（央視新聞）"
-    },
-    {
-      "id": "mkt:019ed6ce-c3ce-7dd8-b05e-6c3d55b77783",
-      "time": "2026-06-18 02:18:55",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "S&P500",
-        "Impact bullish",
-        "US10Y",
-        "DXY",
-        "Impact bearish"
-      ],
-      "text": "【Fed adds wording on strong productivity and capital investment, echoing Warsh on AI investment boom】Analysts said the Fed inserted new language in its rate-decision statement noting productivity growth and capital investment remain strong. The wording mirrors Fed chair Kevin Warsh’s emphasis on an AI investment boom; Warsh and some in the Trump camp argue AI-related investment could, over time, reduce inflationary pressures."
-    },
-    {
-      "id": "mkt:019ed6ce-7239-7dd8-b05e-6233931c8199",
-      "time": "2026-06-18 02:18:34",
-      "tags": [
-        "MKT News",
-        "DXY",
-        "Impact bullish",
-        "US10Y",
-        "Impact bearish",
-        "XAUUSD"
-      ],
-      "text": "Michelle, head of global fixed income at JP Morgan, said the Federal Reserve has told us we have not yet reached the neutral rate."
-    },
-    {
-      "id": "mkt:019ed6cd-ec58-7dd8-b05e-5eef8eed5cc9",
-      "time": "2026-06-18 02:17:59",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK"
-      ],
-      "text": "Prime Minister Magyar said Hungary will remove its fuel price cap."
-    },
-    {
-      "id": "4941637",
-      "time": "2026-06-18 02:17:42",
-      "tags": [
-        "國際"
-      ],
-      "text": "【以軍及猶太定居者在約旦河西岸襲擊巴居民】當地時間17日，約旦河西岸多地當天發生以色列軍隊拆除房屋、推平土地以及猶太定居者襲擊巴勒斯坦居民事件，造成大量農業設施和建築受損，多名巴勒斯坦居民受到嚴重影響。（央視）"
-    },
-    {
-      "id": "mkt:019ed6cd-1947-7dd8-b05e-53222d2d0917",
-      "time": "2026-06-18 02:17:05",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "DXY",
-        "Impact bullish",
-        "USDJPY",
-        "EURUSD",
-        "Impact bearish"
-      ],
-      "text": "【Dot-plot read: One Fed participant backs three hikes in 2026】Fed dot plot for 2026: 1 participant expects three hikes (March: 0), 5 expect two hikes (March: 0), 3 expect one hike (March: 0), 8 expect rates unchanged (March: 7), 1 expects one cut (March: 7), 0 expect two cuts (March: 2), 0 expect three cuts (March: 2), 0 expect four cuts (March: 1). Overall, supporters of 2026 rate increases rose to 9 participants — including one who favors an aggressive 75bp tightening — while supporters of cuts fell to 1."
     }
   ]
 }
