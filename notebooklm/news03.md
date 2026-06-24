@@ -1,7 +1,229 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-06-25 05:34:36_
-_本檔包含 3337 則快訊，約 626258 字_
+_更新時間：2026-06-25 06:38:02_
+_本檔包含 3312 則快訊，約 625343 字_
+
+---
+
+### 2026-06-23 05:06:31  #央行 #國際
+
+美聯儲古爾斯比： 我們尚未遭遇滯脹衝擊，就業市場保持穩定。
+
+---
+
+### 2026-06-23 05:06:03  #央行 #國際
+
+美聯儲古爾斯比： 通脹遠高於目標水平，且走勢趨於惡化。
+
+---
+
+### 2026-06-23 05:05:48  #其他
+
+Apollo私人信用基金將投資者贖回上限設在5%。
+
+---
+
+### 2026-06-23 05:05:45  #央行 #國際
+
+美聯儲古爾斯比： 不後悔投出反對票。
+
+---
+
+### 2026-06-23 05:05:15  #央行 #國際
+
+美聯儲古爾斯比：市場當前整體保持穩定。
+
+---
+
+### 2026-06-23 05:03:09  #其他
+
+市場訊息：據傳高通即將達成收購 AI 晶片初創企業 Modular 的交易。
+
+---
+
+### 2026-06-23 05:02:01  #市場
+
+【現貨黃金漲約0.9%，亞太早盤一度突破4220美元】週一（6月22日）紐約尾盤，現貨黃金漲0.87%，報4192.04美元/盎司，日內整體高位震盪、北京時間09:00漲至4220.72美元重新整理日高。COMEX黃金期貨跌0.87%，報4209.10美元/盎司，06:00低開至4151.40美元重新整理日低，08:00也開啟一波顯著的回升行情、逼近4240美元但日內整體沒能出現轉漲。現貨白銀漲0.35%，報65.1285美元/盎司，08:00出現一波顯著的拉昇行情、09:00重新整理日高至67.1472美元。COMEX白銀期貨漲0.21%，報65.700美元/盎司。COMEX銅期貨漲0.94%，報6.4340美元/磅。現貨鉑金漲0.89%，現貨鈀金漲0.52%。
+
+---
+
+### 2026-06-23 05:00:55  #央行 #國際
+
+韓國央行：韓國 6 月消費者 12 個月通脹預期中值為 2.8%，5 月同樣為 2.8%。
+
+---
+
+### 2026-06-23 05:00:10  #MKT News #Market Regions #Japan & APAC
+
+South Korea June consumer confidence index 106.6, versus 106.1 previously.
+
+---
+
+### 2026-06-23 05:00:09  #資料 #國際
+
+韓國6月消費者信心指數 106.6，前值106.1。
+
+---
+
+### 2026-06-23 05:00:00  #MKT News #Economic Calendar #Important
+
+South Korea | Consumer Confidence Index (Jun) | actual 106.6 | previous 106.1
+
+---
+
+### 2026-06-23 04:55:23  #國際
+
+【特斯拉致命車禍引發美國汽車安全監管機構調查】一起涉及特斯拉轎車的致命碰撞事故正接受聯邦調查，此前一輛電動汽車在德克薩斯州衝進一棟住宅，導致屋內一名女子身亡。美國國家公路交通安全管理局(NHTSA)週一表示，已對6月19日發生的這起事故展開特別撞車事故調查。該機構在電子郵件宣告中確認調查，但未提供更多細節。週五晚間，一輛特斯拉Model 3在休斯敦附近衝進一棟磚房。事故被前門攝像頭拍下後引發廣泛關注。Harris County警長辦公室在宣告中表示，司機告訴當局，車輛駛離道路並高速碰撞時，他正在使用自動駕駛輔助系統。
+
+---
+
+### 2026-06-23 04:49:32  #MKT News
+
+Iran's central bank governor said remaining frozen funds will not necessarily be restricted to basic goods and that Iran will be able to purchase other non-sanctioned goods.
+
+---
+
+### 2026-06-23 04:49:04  #央行 #國際
+
+塔斯尼姆通訊社訊息：伊朗央行行長稱，剩餘被凍結資金未必只能用於採購民生必需品，伊朗可動用該資金購置其他不受制裁限制的商品。
+
+---
+
+### 2026-06-23 04:48:52  #MKT News #WTI #Impact bearish #DXY #S&P500 #Impact bullish
+
+【Trump says Iran will accept large-scale weapons inspections】President Trump said on social media on June 22 that all parties understand Iran will agree to large-scale weapons inspections to ensure its long-term nuclear integrity. Earlier the same day US and Iranian delegations concluded a first round of talks at Bürgenstock, Switzerland. Vice President Vance said at a press briefing the talks made substantial progress, laying a strong foundation for a final deal, and that Iran had agreed to invite IAEA inspectors back. Iran's state news agency IRNA quoted Foreign Ministry spokesman BAGHAEI saying Iran's cooperation with the IAEA will continue under existing mechanisms and in accordance with Iranian parliamentary law and decisions of the Supreme National Security Council.
+
+---
+
+### 2026-06-23 04:48:48  #國際
+
+【特朗普稱伊朗將同意接受武器核查】美國總統特朗普22日在社交媒體發文稱，各方都完全清楚，伊朗將同意接受大規模武器核查，以確保其在未來長期保持“核誠信”。當天早些時候，美國和伊朗代表團在瑞士比爾根山的首輪談判結束。美國副總統萬斯在新聞釋出會上表示，美伊談判取得很多進展，為達成最終協議奠定非常好的基礎，伊朗已同意邀請國際原子能機構核查人員重返伊朗。伊朗伊斯蘭共和國通訊社22日援引伊朗外交部發言人巴加埃的話報道，伊朗與國際原子能機構的合作與互動將按照現行機制繼續進行，並遵循伊朗議會相關法律以及最高國家安全委員會作出的決定。（新華社）
+
+---
+
+### 2026-06-23 04:47:09  #MKT News
+
+【Iran parliament speaker says Iran, US should jointly guarantee Lebanon's territorial integrity】On 22 June, Iran's chief negotiator and parliament speaker Ghalibaf said an Iran‑US memorandum of understanding explicitly calls for ending wars against Iran and its allies. He said both sides concluded in Swiss talks that Iran and the United States should jointly guarantee Lebanon's territorial integrity. The MoU already includes assurances on territorial integrity and should be implemented; the parties agreed to establish a coordination center to resolve related issues, enable displaced Lebanese to return and facilitate withdrawal of Israeli forces from Lebanese territory.
+
+---
+
+### 2026-06-23 04:46:44  #國際
+
+美國聯邦航空管理局向一家美國航空航天防務企業授予一份價值 8.75 億美元的多年期軟體及人工智慧專案合同。
+
+---
+
+### 2026-06-23 04:46:43  #MKT News
+
+TASNIM NEWS: Iran's central bank governor said Tehran has no obligation under existing agreements to buy agricultural inputs from the United States.
+
+---
+
+### 2026-06-23 04:46:16  #國際
+
+【伊朗議長：伊美應共同保障黎巴嫩領土完整】當地時間22日，伊朗談判代表團團長、伊朗議會議長卡利巴夫表示，在伊美諒解備忘錄中，明確強調結束針對伊朗及其盟友的戰爭。卡利巴夫表示，伊美雙方在瑞士談判中達成結論，伊朗和美國應共同保障黎巴嫩的領土完整。諒解備忘錄中已包含對領土完整的保證，應繼續推進落實。為此，雙方同意建立協調中心以解決相關問題，從而使黎巴嫩民眾能夠返回家園，並促使以色列軍隊從黎巴嫩領土撤出。（央視新聞）
+
+---
+
+### 2026-06-23 04:45:57  #MKT News #Commodities #Energy
+
+Goldman Sachs says a two-month delay in Qatar LNG export restart to end-September 2026 could push Q4 2026 TTF gas prices toward €50/MWh versus its €40/MWh forecast.
+
+---
+
+### 2026-06-23 04:43:13  #國際
+
+【特朗普簽署兩項行政令 推動2028年部署用於科學研究的量子計算機】據華爾街日報報道，特朗普簽署了兩項行政命令，旨在加速先進量子計算機的研發，並降低其帶來的安全威脅。其中一項行政命令於週一簽署，指示包括能源部在內的聯邦機構與私營部門及學術界合作，在2028年前部署一臺能夠用於科學研究的量子計算機。這樣的目標被認為是展示該技術具備現實應用能力的關鍵指標。量子計算機能夠以遠超傳統超級計算機的速度解決問題，因此正成為全球各國日益重視的領域。特朗普簽署的第二項行政命令則要求各政府機構及安全專家為量子系統做準備——這些系統可能比預期更快地突破標準加密體系。其目標是強化政府與私營部門的安全系統，防止先進的量子駭客攻擊摧毀關鍵基礎設施。
+
+---
+
+### 2026-06-23 04:42:59  #MKT News #Market Themes #Crypto Concepts #Nasdaq100 #Impact bullish #S&P500
+
+【Trump signs two executive orders to accelerate quantum computing, seeks scientific-use machine by 2028】Trump signed two executive orders to speed advanced quantum computing R&D and reduce related security risks. One order, signed Monday, directs federal agencies including the Department of Energy to work with industry and academia to deploy a quantum computer usable for scientific research by 2028, a benchmark intended to demonstrate practical capability. The second directs agencies and security experts to prepare for quantum systems that could break standard encryption sooner than expected and to strengthen government and private-sector defenses to protect critical infrastructure.
+
+---
+
+### 2026-06-23 04:42:07  #Trading Economics #Markets #Canada #Stock Market #Importance 1
+
+TSX Rises on US-Iran Talks and Soft Core Inflation — The S&P/TSX Composite Index rose 0.4% to close at 35,002 on Monday as investors assessed US-Iran peace talks and Canada’s May inflation report. The US and Iran reportedly made progress in their first round of talks aimed at reaching a final peace deal. Oil prices fell, easing concerns over energy-driven inflation pressures. Meanwhile, annual inflation accelerated more than expected, driven by higher gasoline prices. However, the data is unlikely to alter the Bank of Canada’s view on underlying inflation, as core price measures remained soft. The BoC said earlier this month it saw limited evidence that higher energy prices were feeding into broader inflation. In addition, Canada’s banking regulator lowered capital requirements for the country’s largest lenders, a move expected to support credit growth. Banking stocks advanced, with RBC up 1% and BMO gaining 1.2%. Elsewhere, higher gold prices lifted Agnico Eagle by 2.2%, WPM by 4.7%, and Barrick by 1.2%.
+
+---
+
+### 2026-06-23 04:41:45  #觀點
+
+高盛：卡達液化天然氣出口擴產將推遲兩個月至 2026 年 9 月末，這一情況或推動 2026 年第四季度荷蘭 TTF 天然氣價格逼近 50 歐元 / 兆瓦時，高於該行此前 40 歐元 / 兆瓦時的預期。
+
+---
+
+### 2026-06-23 04:41:32  #央行 #焦點 #國際
+
+塔斯尼姆通訊社訊息：伊朗央行行長表示，依據現行相關協議，德黑蘭並無義務從美國採購農業生產資料。
+
+---
+
+### 2026-06-23 04:41:22  #MKT News #DXY #Impact bullish #EURUSD #Impact bearish #USDJPY
+
+【Dollar index up 0.29% on 22nd】The dollar index, measuring the dollar against six major currencies, rose 0.29% to 101.024 at the New York FX close on the 22nd. EUR/USD 1.1424 (prev. 1.1477); GBP/USD 1.3244 (1.3234); USD/JPY 161.42 (161.26); USD/CHF 0.8091 (0.8066); USD/CAD 1.4157 (1.4174); USD/SEK 9.6212 (9.5742).
+
+---
+
+### 2026-06-23 04:41:11  #公司 #市場 #國際
+
+【CFTC：資產管理公司美國國債期貨淨多頭增加 對沖基金淨空頭增加】美國商品期貨交易委員會(CFTC)資料顯示，截至6月16日當週，資產管理公司總體偏看漲美國國債期貨，尤其是在長端顯著增加淨多頭頭寸。另一方面，對沖基金在多個期限的美國國債期貨上增加淨空頭頭寸。當週，從10年期國債期貨到超長期國債合約，資產管理公司的淨多頭頭寸合計增加2020萬美元/DV01，其中大部分淨增幅出現在長期國債期貨，多頭增加約900萬美元/DV01。對沖基金當週最看空10年期國債期貨，淨空頭頭寸增加650萬美元/DV01。其長期國債期貨淨空頭頭寸增加近400萬美元/DV01。
+
+---
+
+### 2026-06-23 04:40:34  #市場
+
+【美元指數22日上漲】美元指數22日上漲。衡量美元對六種主要貨幣的美元指數當天上漲0.29%，在匯市尾市收於101.024。截至紐約匯市尾市，1歐元兌換1.1424美元，低於前一交易日的1.1477美元；1英鎊兌換1.3244美元，高於前一交易日的1.3234美元。1美元兌換161.42日元，高於前一交易日的161.26日元；1美元兌換0.8091瑞士法郎，高於前一交易日的0.8066瑞士法郎；1美元兌換1.4157加元，低於前一交易日的1.4174加元；1美元兌換9.6212瑞典克朗，高於前一交易日的9.5742瑞典克朗。
+
+---
+
+### 2026-06-23 04:39:48  #MKT News #Commodities #Energy #WTI #Impact bearish #Brent
+
+【International oil prices fell on the 22nd】NYMEX July light sweet crude futures fell $1.78 to $74.82/bbl, down 2.32% at the close; ICE August Brent crude futures fell $2.67 to $77.90/bbl, down 3.31%.
+
+---
+
+### 2026-06-23 04:39:26  #MKT News #Important
+
+【Ghalibaf says Strait of Hormuz to be managed under Iranian mechanism】On June 22, Ghalibaf, head of Iran’s negotiation delegation and parliament speaker, said management of the Strait of Hormuz will not return to its pre-war status and, while claiming compliance with international law, will be carried out under a mechanism set by Iran. He said Iran and the US agreed to establish a coordination centre and hotline to resolve incidents more quickly within a 30-day timeframe. The hotline is not for approving transit permits, which will follow existing procedures; it is intended only to handle vessel problems or emergencies.
+
+---
+
+### 2026-06-23 04:38:50  #焦點 #國際
+
+【伊朗議長：霍爾木茲海峽將按伊方制定的機制進行管理】當地時間22日，伊朗談判代表團團長、伊朗議會議長卡利巴夫表示，霍爾木茲海峽的管理絕不會回到戰前狀態。在遵守國際法的前提下，霍爾木茲海峽將按照伊朗制定的機制，由伊朗進行管理。卡利巴夫說，在霍爾木茲海峽可能會出現一些問題，因此伊朗和美國同意設立一個協調中心並開通熱線，以便在30天期限內，更快速地解決出現的問題。卡利巴夫表示，這一通話熱線並非用於審批通行許可，相關許可仍有其既定流程。該熱線僅用於處理船隻出現的問題或突發事件。（央視新聞）
+
+---
+
+### 2026-06-23 04:38:18  #市場
+
+【國際油價22日下跌】截至當天收盤，紐約商品交易所7月交貨的輕質原油期貨價格下跌1.78美元，收於每桶74.82美元，跌幅為2.32%；8月交貨的倫敦布倫特原油期貨價格下跌2.67美元，收於每桶77.90美元，跌幅為3.31%。
+
+---
+
+### 2026-06-23 04:38:13  #MKT News #Market Themes #AI Revolution #IBM.O #Impact bullish
+
+IBM shares rose 2% in after-hours trading after the company announced a partnership with OpenAI to launch AI products targeting enterprise cybersecurity defense.
+
+---
+
+### 2026-06-23 04:37:40  #央行 #國際
+
+美聯儲主席沃什將於7月14日美國東部時間上午（北京時間晚上）10點，在眾議院金融服務委員會作證。
+
+---
+
+### 2026-06-23 04:37:30  #MKT News #Important #Macro & Rates #The Fed (FOMC)
+
+Federal Reserve chair Kevin Warsh will testify before the House Financial Services Committee on July 14 at 10:00 a.m. ET (14:00 UTC; 22:00 Beijing).
+
+---
+
+### 2026-06-23 04:36:58  #MKT News #XAUUSD #Impact bullish #Brent #DXY
+
+【Israel says it will continue decisive action to destroy military infrastructure in southern Lebanon】Late on the 22nd local time, the Israeli prime minister's office said after a phone call between Prime Minister Netanyahu, Defense Minister Katz, IDF Chief of Staff Zamir and Northern Command commander Rafi Milo that the IDF will continue to take decisive action to thwart threats to Israeli soldiers and civilians, destroy military infrastructure in southern Lebanon and maintain a "security zone" there.
 
 ---
 
@@ -19746,377 +19968,5 @@ Insiders report an explosion at the Barzan gas plant in Ras Laffan, Qatar; cause
 ### 2026-06-22 04:11:16  #MKT News
 
 According to Iran's Press TV, four-party talks in Switzerland have ended after Iran's delegation walked out.
-
----
-
-### 2026-06-22 04:10:02  #焦點 #國際
-
-伊朗新聞電視臺稱，在瑞士舉行的四方會談結束後，伊朗代表團已離場。
-
----
-
-### 2026-06-22 04:08:11  #MKT News
-
-A U.S. diplomat participating in talks in Switzerland told Axios he expects negotiations with Iran and mediators from Pakistan and Qatar to continue overnight.
-
----
-
-### 2026-06-22 04:07:15  #國際
-
-一名參與瑞士談判的美國外交官透露，預計美方與伊朗、巴基斯坦及卡達斡旋方的磋商將持續至深夜。
-
----
-
-### 2026-06-22 04:02:42  #焦點 #國際
-
-土耳其外交部長警告，以色列存在破壞美伊協議的風險。
-
----
-
-### 2026-06-22 04:01:54  #MKT News #WTI #Impact bearish #Brent
-
-A U.S. diplomat said the Iranian delegation remains in Switzerland and nuclear talks are continuing; intensive negotiations on all elements of a nuclear agreement are underway, with some sessions focused on clarifying confusion about the Strait of Hormuz to ensure it remains open.
-
----
-
-### 2026-06-22 04:01:54  #MKT News #Important #Commodities #Energy
-
-Qatar's Ministry of Interior said the Ras Laffan plant explosion was caused by a "technical accident".
-
----
-
-### 2026-06-22 04:01:20  #其他
-
-卡達內政部表示，拉斯拉凡工業園區一家工廠發生的爆炸由“技術事故”導致。
-
----
-
-### 2026-06-22 03:55:08  #其他
-
-卡達內政部報告稱，拉斯拉凡一處工廠發生爆炸，目前尚無人員傷亡報告，也未發生洩漏。
-
----
-
-### 2026-06-22 03:54:06  #MKT News #Important
-
-Qatar's Ministry of Interior said an explosion occurred inside a factory in the Ras Laffan industrial area; no casualties or leaks have been reported so far.
-
----
-
-### 2026-06-22 03:51:28  #國際
-
-以色列國家安全部長本-格維爾談及特朗普： 美方此番（談判）想法未免有些天真，是典型的美式天真。
-
----
-
-### 2026-06-22 03:50:47  #國際
-
-以色列國家安全部長本-格維爾： 對待伊朗人，妥協毫無意義，簽署協議也毫無意義。 必須轟炸伊朗，反覆轟炸，持續打擊。 對待真主黨也是同理——持續轟炸，一輪又一輪地打擊。這才是可行之道。 任何人想譴責我都悉聽尊便，全世界的人想說什麼都隨便。我由衷堅信這套主張。
-
----
-
-### 2026-06-22 03:50:10  #其他
-
-卡達多哈、巴林境內傳來劇烈爆炸聲，當地伴有震感。
-
----
-
-### 2026-06-22 03:45:46  #MKT News #Important
-
-Refinitiv reported a loud explosion was heard in Doha, Qatar.
-
----
-
-### 2026-06-22 03:45:21  #其他
-
-目擊者：卡達多哈傳來巨大爆炸聲。
-
----
-
-### 2026-06-22 03:43:21  #MKT News
-
-President Trump said that after the U.S. spent tens of trillions of dollars defending NATO, Italy and its prime minister never even considered intervening against Iran and its nuclear threat. He said that despite decades of U.S. protection they were not there when tested and when the U.S. and other nations needed them most, calling it very disappointing.
-
----
-
-### 2026-06-22 03:43:05  #國際
-
-【特朗普：義大利並未承擔保衛美國的職責】特朗普在社交媒體發文稱：“我們已為北約投入數萬億美元，可義大利及其總理，卻壓根不願介入應對伊朗及其嚴峻的核威脅問題。數十年來，一直是我們在保護他們，可一旦到了需要出力的時候，他們卻不肯站出來守護我們乃至世界其他地區。情況很糟糕。”
-
----
-
-### 2026-06-22 03:42:19  #國際
-
-烏克蘭總統澤連斯基：烏克蘭襲擊了被佔領克里米亞的油庫以及俄羅斯克拉斯諾達爾邊疆區一處石油運輸設施。
-
----
-
-### 2026-06-22 03:41:04  #國際
-
-特朗普：義大利未站出來支援我們，此舉不妥。
-
----
-
-### 2026-06-22 03:40:58  #國際
-
-特朗普：伊朗核威脅形勢嚴峻。
-
----
-
-### 2026-06-22 03:40:33  #其他
-
-市場資訊：英國議員、首相競爭者安迪·伯納姆已向英國首相斯塔默下最後通牒，要求其在週二晚間前給出辭職時間表。其支持者警告，若首相未能照做，或將引發一波內閣大臣集體請辭，後續還會有更多官員離職。
-
----
-
-### 2026-06-22 03:34:11  #MKT News #Important
-
-Saudi outlet Asharq News reports Lebanese authorities have been informed that Israel plans to withdraw from several positions inside Lebanon ahead of Lebanon‑Israel talks this week.
-
----
-
-### 2026-06-22 03:30:56  #國際
-
-法國總統馬克龍宣佈將於6月22日（週一）成立一個全新的跨部門危機應對小組。
-
----
-
-### 2026-06-22 03:30:04  #市場
-
-英鎊兌美元跌幅擴大至0.3%，有訊息稱英國首相斯塔默可能會辭職。
-
----
-
-### 2026-06-22 03:20:00  #公司
-
-據訊息人士透露，克勞斯-瑪菲·威格曼防務集團（KNDS）估值約在150億至190億歐元之間。
-
----
-
-### 2026-06-22 03:17:32  #其他
-
-知情人士透露，KNDS計劃於下週週一至週三啟動上市流程。
-
----
-
-### 2026-06-22 03:15:29  #國際
-
-【伊朗議長稱不會把美國的威脅當回事】伊朗伊斯蘭議會議長卡利巴夫21日在社交媒體上發文稱，伊方根本不會把美國人的威脅當回事。他們最好謹慎發言。21日，美國總統特朗普在社交平臺“真實社交”上發文稱，伊朗必須立即停止其在黎巴嫩的“代理人”行動，否則美國將對伊朗再次進行猛烈打擊。（央視新聞）
-
----
-
-### 2026-06-22 03:14:49  #國際
-
-以色列國防部長卡茨：以色列無意從貝卡夫要塞撤退，該要塞是黎巴嫩安全區不可分割的一部分，對保護加利利定居點和以色列國防軍部隊至關重要。正如總理內塔尼亞胡和我所澄清的，以色列不會從黎巴嫩的安全區撤退。
-
----
-
-### 2026-06-22 03:02:04  #其他
-
-英國統計機構承認關鍵就業資料存在新錯誤。
-
----
-
-### 2026-06-22 02:58:16  #MKT News #Important
-
-【Israel to end nationwide public restrictions, including Lebanon border area】CNN reports Israel will end nationwide public restrictions, including those along the Lebanon border, a move cited as a sign of recent ceasefire progress. Israel’s Home Front Command said the current measures will expire at 0600 local on Monday. The restrictions had limited gatherings and school activities in northern communities since the conflict with Iran began three months ago. By Monday morning there will be no nationwide measures affecting schools, work or public gatherings.
-
----
-
-### 2026-06-22 02:55:54  #MKT News
-
-【CSIS: Iran war has cost US about $40 billion】CSIS senior fellow Mark Cancian said a preliminary CSIS analysis estimates the Iran war has cost the US Department of Defense about $40 billion, covering munitions use, equipment losses and base damage; the figure excludes routine combat spending already budgeted in the DoD's FY26 budget of more than $1 trillion. The analysis says other agencies, chiefly the Department of Homeland Security and Veterans Affairs, incurred roughly $1 billion in costs. US pump prices rose from a national average below $3/gal to above $4/gal for much of the conflict; Brown University energy-cost tracking estimates the average household would have spent at least $253 less without the war. Inflation outpaced average wage growth in April and May, effectively eroding pay for the first time since 2023.
-
----
-
-### 2026-06-22 02:53:44  #國際
-
-烏克蘭總統澤連斯基：波蘭總統納夫羅茨基正走著和歐爾班一樣的路，最終只會釀成糟糕的後果；納夫羅茨基企圖透過煽動反烏情緒攫取政治利益。
-
----
-
-### 2026-06-22 02:45:56  #國際
-
-以色列解除該國北部所有與戰事相關的集會限制。
-
----
-
-### 2026-06-22 02:42:08  #公司
-
-持有坦克製造商KNDS半數股權的家族股東，同意向德國政府出售40%股份。
-
----
-
-### 2026-06-22 02:38:48  #MKT News
-
-Israel's Prime Minister Netanyahu said that for every one civilian wounded, five terrorists have been eliminated, a 5-to-1 ratio he called unprecedented.
-
----
-
-### 2026-06-22 02:38:14  #國際
-
-以色列總理內塔尼亞胡：我們在加沙設立了“安全區”，我們在敘利亞設立了“安全區”，我們在黎巴嫩設立了“安全區”，只要有必要，我們就會一直保留下去。
-
----
-
-### 2026-06-22 02:37:51  #國際
-
-以色列總理內塔尼亞胡：多年來一直有人跟我們說“你們不能打擊伊朗本土。”雖說摩薩德可以開展行動，我們也確實實施過不少，其中很多都是我批准的。但絕不允許派遣本國軍隊進入伊朗境內。如今我們打破了這條限制。我們派遣英勇的飛行員飛越了伊朗上空。
-
----
-
-### 2026-06-22 02:37:05  #國際
-
-以色列總理內塔尼亞胡：恐怖分子不僅以平民為襲擊目標，還藏身於平民之中。他們此舉犯下雙重戰爭罪行。我們的打擊目標是恐怖分子，但任何此類戰爭都會造成部分平民傷亡。
-
----
-
-### 2026-06-22 02:36:18  #MKT News
-
-Cuban president says long-time revolutionary leader and Castro ally Ramiro Valdés has died.
-
----
-
-### 2026-06-22 02:35:55  #國際
-
-巴基斯坦總理稱讚伊朗以不失尊嚴的方式處理危機，肯定伊朗方面的處事姿態。
-
----
-
-### 2026-06-22 02:35:32  #MKT News
-
-Israeli Prime Minister Netanyahu said claims by some in the US that Trump wholly follows him, and by some in Israel that he wholly defers to Trump, are both untrue. He said leaders are heads of independent states and that he represents Israel's interests.
-
----
-
-### 2026-06-22 02:34:55  #MKT News #XAUUSD #Impact bullish #Brent #S&P500 #Impact bearish
-
-Israeli Prime Minister Netanyahu said he was told not to enter Rafah but did; told not to strike Hezbollah but did; and told not to confront Iran but did.
-
----
-
-### 2026-06-22 02:34:29  #MKT News #WTI #Impact bullish #Brent #XAUUSD
-
-NETANYAHU said Israel struck bridges and multiple targets. He estimated cumulative damage to the "IRGC economy" at hundreds of billions of dollars — not millions or tens of billions — and said recovery would take a long time.
-
----
-
-### 2026-06-22 02:33:08  #MKT News #WTI #Impact bullish #XAUUSD #DXY
-
-【Netanyahu says Israel has shifted limits on military action against Iran】Prime Minister Netanyahu said Israel has changed its limits on military action against Iran. He said Israelis were long told they could not strike Iranian territory and were limited to Mossad operations — which he has approved many times — but those restrictions have been lifted, and Israel has sent pilots to fly over Iranian airspace.
-
----
-
-### 2026-06-22 02:32:40  #其他
-
-古巴總統：長期追隨卡斯特羅的革命領袖拉米羅·巴爾德斯逝世。
-
----
-
-### 2026-06-22 02:32:19  #其他
-
-SpaceX：獵鷹9號火箭於加利福尼亞發射24顆星鏈衛星。
-
----
-
-### 2026-06-22 02:26:41  #MKT News #XAUUSD #Impact bullish #Brent
-
-Israel's Prime Minister NETANYAHU said Israel will maintain a 'security zone' in Lebanon as needed to protect its citizens.
-
----
-
-### 2026-06-22 02:26:30  #MKT News #XAUUSD #Impact bullish #Brent #DXY
-
-i24News reports Israeli Prime Minister Netanyahu said Israel thwarted an Iranian plan "aimed at completely annihilating us."
-
----
-
-### 2026-06-22 02:22:17  #國際
-
-以色列總理內塔尼亞胡：在美國，人們都說特朗普對我言聽計從。在以色列，又有人說我凡事都順著他的意思。兩種說法都不符合事實。我們是兩個獨立且擁有民族自豪感國家的領導人。我始終以以色列的利益為先。
-
----
-
-### 2026-06-22 02:18:48  #MKT News #Brent #Impact bullish #XAUUSD #DXY
-
-【HEZBOLLAH leader says group will respond to any Israeli aggression】On the evening of the 21st, HEZBOLLAH leader Naim Qassem said in a televised address the group would respond to any Israeli aggression, called Israel an aggressor that must withdraw, and said continued Israeli troop presence on Lebanese territory was "impossible" and there is no space in Lebanon for an Israeli "security zone." He added Lebanon has its own national army responsible for safeguarding sovereignty and said HEZBOLLAH cooperates with the Lebanese Armed Forces.
-
----
-
-### 2026-06-22 02:18:17  #國際
-
-【黎真主黨領導人：將對以色列的任何侵犯行為作出回應】當地時間21日晚，黎巴嫩真主黨領導人納伊姆·卡西姆發表電視講話表示，該組織將對以色列的任何侵犯行為作出回應。卡西姆說，以色列是侵略者，必須撤離，以色列軍隊繼續駐紮在黎巴嫩領土上是“不可能的”，而且黎巴嫩境內沒有以色列設立“安全區”的空間。卡西姆還表示，黎巴嫩有自己的國家軍隊，負責維護國家主權，真主黨也與黎巴嫩軍隊合作。（央視新聞）
-
----
-
-### 2026-06-22 02:16:34  #MKT News
-
-【Lebanese Health Ministry says Israeli strikes have killed 4,106 in Lebanon through June 21】The Lebanese Health Ministry's emergency operations center said on June 21 that sustained Israeli air raids and other attacks in Lebanon between March 2 and June 21 had killed 4,106 people and injured 12,153.
-
----
-
-### 2026-06-22 02:16:23  #國際
-
-【黎巴嫩衛生部：以色列襲擊已致4106人死亡】據黎巴嫩公共衛生部緊急行動中心21日訊息，3月2日至6月21日期間，以色列在黎巴嫩發動的持續不斷的空襲和襲擊已造成4106人死亡，另有12153人受傷。（央視新聞）
-
----
-
-### 2026-06-22 02:15:21  #公司
-
-德國KNDS集團家族股東達成股權轉讓協議，為上市鋪路。
-
----
-
-### 2026-06-22 02:09:12  #其他
-
-中國地震臺網正式測定：06月22日01時58分在新疆伊犁州昭蘇縣（北緯43.36度，東經81.10度）發生4.0級地震，震源深度20千米。
-
----
-
-### 2026-06-22 02:09:07  #國際
-
-【特朗普言論令伊美未來的談判走向仍不明朗】伊朗國家電視臺一名記者週日表示，在美國總統特朗普發表相關言論後，伊朗與美國談判的後續走向仍存變數。這名記者稱：“談判能否繼續目前尚不明確。”他還補充道，伊朗首席談判代表針對特朗普威脅言論作出回應後的各方反應，將很大程度決定下一步談判程序。此番表態釋出前，伊朗與美國代表團在瑞士舉行的談判已暫停。此前一名伊朗訊息人士透露，談判只是臨時休會，並未徹底終止。
-
----
-
-### 2026-06-22 02:07:29  #國際
-
-德國部長表示，霍爾木茲海峽一旦遭封鎖，責任在於特朗普。
-
----
-
-### 2026-06-22 02:06:24  #MKT News #WTI #Impact bullish #Brent
-
-【German defense minister says Trump responsible for Strait of Hormuz closure】Germany’s defense minister Boris Pistorius said President Trump bears responsibility for the closure of the Strait of Hormuz, adding that “ultimately the plug in this bottleneck was pushed in by Trump, not us, but we have an interest in pulling it back out.” He said Iran had earlier agreed under a preliminary deal signed by Trump and Iranian president Pezeshkian to reopen the waterway and shipping flows had begun to resume, but Iran on Saturday said it had reclosed the route citing Israeli strikes in Lebanon. Pistorius said keeping the Strait open, or ensuring safe passage, is in Europe’s energy-security and economic-recovery interest.
-
----
-
-### 2026-06-22 02:04:38  #MKT News #WTI #Impact bearish #Brent
-
-【Iran negotiator says draft oil sanctions exemption finalized】On the 21st, a member of Iran’s negotiating team said a draft exemption for oil sanctions has been finalized and will be issued soon. Administrative steps to unfreeze Iran’s frozen funds are underway with participation from a Qatari delegation.
-
----
-
-### 2026-06-22 02:04:05  #國際
-
-【伊朗談判團隊成員稱伊石油制裁豁免草案已敲定】當地時間21日，據伊朗方面訊息，伊朗談判團隊一名成員透露，有關伊朗石油制裁豁免的草案已經最終定稿，並補充說豁免將很快釋出。有關解凍伊朗被凍結資金的行政程式已在卡達代表團的參與下進行。（央視新聞）
-
----
-
-### 2026-06-22 02:02:30  #MKT News
-
-Pakistan's prime minister thanked Switzerland for its support and constructive engagement after signing a historic Islamabad MoU, saying both sides agreed that successful implementation would aid regional peace and stability and bolster global economic prosperity.
-
----
-
-### 2026-06-22 02:02:26  #其他
-
-【西班牙4比0沙烏地阿拉伯】美加墨世界盃H組第二輪，西班牙隊VS沙烏地阿拉伯隊。 第11分鐘，亞馬爾門前包抄破門打入個人世界盃首球。此後奧亞薩瓦爾雙響、坦巴克蒂烏龍。最終西班牙隊4-0大勝沙烏地阿拉伯。
-
----
-
-### 2026-06-22 02:01:30  #MKT News #WTI #Impact bullish #Brent #XAUUSD
-
-【Chubb CEO: Strait of Hormuz shipping to resume gradually but remains war-zone environment】Chubb CEO Evan Greenberg said US efforts to reopen shipping lanes through the Strait of Hormuz should gradually increase vessel traffic, but the security situation remains highly unstable and can change day-to-day or hour-to-hour. He identified sea mines as the biggest uncertainty and said only a single narrow channel is currently usable, constraining the number of ships able to transit. The US Navy is working to open wider passages, and Greenberg said shipping activity will rise incrementally as that work progresses.
 
 ---

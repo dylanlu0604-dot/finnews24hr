@@ -1,7 +1,289 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-06-25 05:34:36_
-_本檔包含 3220 則快訊，約 625564 字_
+_更新時間：2026-06-25 06:38:02_
+_本檔包含 3230 則快訊，約 625345 字_
+
+---
+
+### 2026-06-24 04:51:00  #MKT News
+
+Brazil's Foreign Trade Committee Executive Management Committee said it will proceed with planned tariff hikes on imported electric and hybrid vehicles, imposing a 35% import duty on fully built and semi-knocked-down EVs from July 2026; completely knocked-down (CKD) vehicle imports will face the same rate from Jan. 1, 2027.
+
+---
+
+### 2026-06-24 04:46:45  #MKT News
+
+Brazil's Foreign Trade Committee Executive Management Committee decided to implement additional zero-tariff import quotas from July 1 for completely and semi-knocked-down (CKD and SKD) electric vehicles.
+
+---
+
+### 2026-06-24 04:43:40  #MKT News #Commodities #Energy #WTI #Impact bearish #Brent
+
+API: U.S. refinery crude runs fell 205,000 b/d in the week to June 19; prior week -17,000 b/d.
+
+---
+
+### 2026-06-24 04:43:30  #MKT News #Economic Calendar
+
+United States | API Weekly Crude Oil Runs (Jun.19) | actual -205000M | previous -17000M
+
+---
+
+### 2026-06-24 04:43:28  #MKT News #Commodities #Energy #WTI #Impact bullish #Brent
+
+US week to Jun 19 API refined product imports -152,000 b/d; prior -121,000 b/d.
+
+---
+
+### 2026-06-24 04:43:22  #MKT News #Commodities #Energy #WTI #Brent
+
+API: US crude imports for week to June 19 226,000 bbl; prior -276,000 bbl.
+
+---
+
+### 2026-06-24 04:43:21  #MKT News #Economic Calendar
+
+United States | API Weekly Petroleum Products Imports Change (Jun.19) | actual -152000M | previous -121000M
+
+---
+
+### 2026-06-24 04:43:16  #MKT News #Commodities #Energy #WTI #Impact bearish #Brent
+
+U.S. API heating oil inventories for the week to June 19 rose 405,000 barrels; prior week showed a draw of 125,000 barrels.
+
+---
+
+### 2026-06-24 04:43:13  #MKT News #Economic Calendar
+
+United States | API Weekly Crude Oil Imports Change (Jun.19) | actual 226000M | previous -276000M
+
+---
+
+### 2026-06-24 04:43:10  #Trading Economics #Economy #Paraguay #Interest Rate #Importance 1
+
+Paraguay Keeps Interest Rates Unchanged in June — The Central Bank of Paraguay kept its benchmark interest rate unchanged at 5.50% during its June 2026 meeting. Policymakers said the economy remained resilient, with the IMAEP rising 3.4% year-on-year in April and the ECN increasing 3.0%. Annual inflation stood at 2.4%, while core inflation was 1.1%, both below the central bank’s 3.5% target. Abroad, policymakers noted stronger-than-expected US labor market data and rising inflation, with headline inflation reaching 4.2% in May. The US Federal Reserve kept rates steady at 3.50%-3.75%, though markets continue to price in further tightening. Meanwhile, Brent crude fell below $80 per barrel as geopolitical tensions eased after a provisional US-Iran agreement and the reopening of the Strait of Hormuz. Soybean, corn, and wheat prices also moved lower. The decision to hold rates signals that policymakers continue to view the current stance as neutral, balancing strong growth with moderate inflation.
+
+---
+
+### 2026-06-24 04:43:08  #MKT News #Commodities #Energy #WTI #Impact bullish #Brent
+
+U.S. API Cushing crude stocks -982,000 barrels in week to June 19; prior -1.523 mln barrels.
+
+---
+
+### 2026-06-24 04:43:06  #MKT News #Economic Calendar
+
+United States | API Weekly Heating Oil Stocks Change (Jun.19) | actual 405000M | previous -125000M
+
+---
+
+### 2026-06-24 04:42:57  #MKT News #Economic Calendar #Important
+
+United States | API Weekly Cushing Crude Oil Stocks Change (Jun.19) | actual -982000M | previous -1523000M
+
+---
+
+### 2026-06-24 04:42:52  #國際
+
+美國石油協會（API）資料顯示，上週，美國API原油庫存 -76.5萬桶，之前一週 -833萬桶。
+
+---
+
+### 2026-06-24 04:42:52  #MKT News #Commodities #Energy #WTI #Impact bearish #Brent
+
+U.S. API refined products inventories for the week to June 19 rose 1.447 mln barrels, versus -0.38 mln expected and -0.461 mln prior.
+
+---
+
+### 2026-06-24 04:42:40  #MKT News #Commodities #Energy #WTI #Impact bearish #Brent
+
+API: US gasoline stocks rose 1.238 mln barrels in the week to June 19, versus market expectations for a 350,000-barrel draw; prior week's build was 2.479 mln barrels.
+
+---
+
+### 2026-06-24 04:42:40  #MKT News #Economic Calendar #Important
+
+United States | API Weekly Distillate Stocks Change (Jun.19) | actual 1447000M | consensus -380000M | previous -461000M
+
+---
+
+### 2026-06-24 04:42:34  #MKT News #Important #Commodities #Energy #WTI #Impact bearish #Brent
+
+API weekly U.S. crude inventories for week to June 19: down 765,000 barrels; market expected a 4.995 mln-barrel draw; prior week down 8.33 mln barrels.
+
+---
+
+### 2026-06-24 04:42:31  #MKT News #Economic Calendar #Important
+
+United States | API Weekly Gasoline Stocks Change (Jun.19) | actual 1238000M | consensus -350000M | previous 2479000M
+
+---
+
+### 2026-06-24 04:42:22  #MKT News #Economic Calendar #Important
+
+United States | API Weekly Crude Oil Stocks Change (Jun.19) | actual -765000M | consensus -4995000M | previous -8330000M
+
+---
+
+### 2026-06-24 04:42:10  #MKT News #Commodities #Energy
+
+Colombia's oil reserves are estimated to decline 0.74% in 2025 to 2.02 bln barrels; natural gas reserves are estimated to fall 16.8% to 1.72 bln cubic feet (bcf).
+
+---
+
+### 2026-06-24 04:41:13  #MKT News
+
+MSCI said liquidity in South Korea’s onshore FX market remains broadly insufficient during extended FX trading hours to support execution as tight as in developed markets.
+
+---
+
+### 2026-06-24 04:40:14  #MKT News
+
+Cloud security company Zscaler reached an agreement with Amazon Web Services (AWS) to cooperate on integration, reference architectures and joint go-to-market activities; the partners will jointly secure generative AI deployments in government, healthcare and education sectors.
+
+---
+
+### 2026-06-24 04:39:30  #其他
+
+哥倫比亞國家管理局：2025年哥倫比亞天然氣儲量下降16.8%，至17.2億立方英尺。
+
+---
+
+### 2026-06-24 04:39:14  #MKT News
+
+MSCI said South Korean investors view related issues as still unresolved; South Korean market participants continue to face significant operational burdens under the reinstated compliance regime.
+
+---
+
+### 2026-06-24 04:38:16  #MKT News
+
+MSCI said South Korean market participants still face the burden of early pre-settlement funding requirements.
+
+---
+
+### 2026-06-24 04:36:12  #Trading Economics #Markets #Brazil #Stock Market #Importance 1
+
+Ibovespa Rises on Copom Outlook — The Ibovespa rose 0.5% to close at 171,259 on Tuesday after opening lower, diverging from the sharp selloff on Wall Street as markets digested the latest Copom minutes. According to Banco Central do Brasil, policymakers are considering both a pause and a resumption of Selic cuts as possible paths to bring inflation back to target. In the document, the central bank acknowledged that upside risks to inflation currently outweigh downside risks while leaving the next policy steps open and data-dependent. Banking stocks posted gains, with Bradesco up 0.9% and Banco do Brasil rising 1.4%. Utilities also moved higher, with Axia gaining 2.6% after news it is preparing a debenture issuance of up to R$1 billion, maturing in 2036. Other notable gainers included Ambev (+1.2%) and WEG (+1%). In contrast, Vale fell 1.9% after its board unanimously approved a shareholders’ meeting on July 22 to vote on the removal of chairman Daniel Stieler, following a request from its largest shareholder, Previ.
+
+---
+
+### 2026-06-24 04:36:06  #公司 #國際
+
+明晟公司（MSCI Inc.）：提前預先結算資金要求仍對韓國市場參與者構成負擔。
+
+---
+
+### 2026-06-24 04:35:56  #其他
+
+巴西外貿委員會管理與執行委員會：散件整車的35%關稅稅率將於2027年1月1日起生效。
+
+---
+
+### 2026-06-24 04:35:43  #公司
+
+明晟公司（MSCI Inc）：若截至11月指數審議時，土耳其市場未顯現足夠切實可信的進展，或啟動針對土耳其市場的徵求意見程式。
+
+---
+
+### 2026-06-24 04:35:39  #MKT News
+
+MSCI said if significant progress is not achieved by November 2026 it may consult on reclassifying Indonesia from emerging-market status to frontier-market status.
+
+---
+
+### 2026-06-24 04:35:03  #Trading Economics #Markets #United States #Stock Market #Importance 1
+
+The Dow Jones Index Closes 0.09% Lower — The Dow Jones Index dropped 47 points or 0.09 percent on Tuesday to close at 51665 points. Losses were led by Nvidia (-3.99%), Caterpillar (-3.55%) and Honeywell International (-2.37%). Offsetting the fall, top gainers were IBM (4.92%), Merck (3.54%) and J&J (3.36%).
+
+---
+
+### 2026-06-24 04:34:43  #MKT News
+
+State media reported Oman has coordinated with the International Maritime Organization to provide a temporary maritime corridor in the Strait of Hormuz.
+
+---
+
+### 2026-06-24 04:34:09  #公司 #國際
+
+明晟公司（MSCI INC）：認可印尼及土耳其股市為解決上述問題所採取並已公佈的各項措施。
+
+---
+
+### 2026-06-24 04:34:03  #公司 #國際
+
+明晟公司（MSCI Inc）就印尼市場發表觀點：對於印尼而言，市場參與者對其可投資性提出了重大擔憂，這些擔憂源於相關問題。
+
+---
+
+### 2026-06-24 04:33:53  #公司 #國際
+
+明晟公司（MSCI Inc）就印尼市場發表觀點：對於印尼而言，市場參與者對其可投資性提出了重大擔憂，這些擔憂源於相關問題。
+
+---
+
+### 2026-06-24 04:33:46  #國際
+
+明晟就印尼問題表態：明晟將在自由流通量確定與更廣泛可投資性評估的框架下，持續評估相關規則的覆蓋範圍、一致性和長期有效性。
+
+---
+
+### 2026-06-24 04:33:41  #國際
+
+明晟：持續監測針對提升韓國股市對國際機構投資者可及性的相關措施的落實情況。
+
+---
+
+### 2026-06-24 04:33:34  #公司
+
+Grindr宣佈任命執行長喬治·阿里森為董事會主席，並授予股權，以延續阿里森截至2030年秋季的薪酬安排。
+
+---
+
+### 2026-06-24 04:33:21  #MKT News #Market Regions #Emerging Markets
+
+MSCI is assessing shareholder transparency and coordinated trading issues in Indonesian and Turkish equity markets.
+
+---
+
+### 2026-06-24 04:33:01  #MKT News
+
+MSCI said if by its November 2026 index review the Indonesian market has not shown significant progress, it will consider a range of options to determine its treatment in MSCI indices.
+
+---
+
+### 2026-06-24 04:32:17  #MKT News
+
+MSCI released the results of its 2026 market classification review.
+
+---
+
+### 2026-06-24 04:28:12  #MKT News
+
+Market sources said Morgan Stanley's private credit fund has set a 5% redemption limit.
+
+---
+
+### 2026-06-24 04:25:56  #國際
+
+【中國駐美國大使謝鋒在美洲國家組織成員國與觀察員國對話會上針對巴拿馬方面無端指責闡明中方立場】中國駐美國大使館微信公眾號發文稱，2026年6月23日，中國駐美國大使兼駐美洲國家組織（OAS）觀察員謝鋒在巴拿馬出席OAS成員國與觀察員國對話會時，針對巴方領導人在年會開幕式上無端指責中方對到港船舶開展港口國監督檢查等，發表不實言論，第一時間澄清事實，闡明中方嚴正立場。謝鋒強調，作為航運大國，中國始終高度重視海上運輸和生命安全。但2026年以來，巴拿馬旗船舶在中國水域連續發生多起商漁船碰撞事故，造成多人死亡失蹤，本著對航運安全，包括船隻特別是人員安全負責的態度，中國依照中國法律和國際公約，對到港船舶開展港口國監督檢查，不針對特定國家和船旗，無可指責。謝鋒表示，中國企業自1997年獲准並依法經營運河兩端港口，為促進巴經濟發展作出了積極貢獻。近30年來雙方合作順暢，不存在任何重大爭議，巴方也從未提出任何抱怨。今年1月，巴最高法院突然做出判決，強行沒收、接管，強制驅逐中國企業，明眼人都看得出這背後是政治操弄。如果契約想撕毀就撕毀，市場規則說不遵守就不遵守，資產想接管就接管，經營者說驅逐就驅逐，誰還來投資，誰還來合作？謝鋒再次敦促巴方糾正錯誤，保障中國企業的正當合法權益。
+
+---
+
+### 2026-06-24 04:25:33  #觀點
+
+摩根士丹利私募信貸基金將贖回比例上限設為5%。
+
+---
+
+### 2026-06-24 04:25:02  #其他
+
+【厄瓜多邊境省份發生槍擊事件 致至少4人死亡】當地時間6月22日，厄瓜多東北部、與哥倫比亞接壤的蘇崑比奧斯省發生一起槍擊事件，造成至少4人死亡、3人受傷。據悉，事件發生在新洛哈市一家娛樂場所內，數名武裝人員闖入後向現場人員連續開槍射擊。經警方確認，4名遇難者中包括2名哥倫比亞公民和2名厄瓜多公民。（央視新聞）
+
+---
+
+### 2026-06-24 04:24:17  #MKT News
+
+【China's U.S. ambassador Xie Feng rebuts Panama accusations over port-state inspections】On June 23, 2026, at an OAS dialogue in Panama, Chinese Ambassador to the U.S. and OAS observer Xie Feng rejected Panama's allegations that China improperly carried out port-state inspections on arriving ships. Xie said the charges were false, citing multiple collisions since 2026 involving Panama-flagged vessels in Chinese waters that caused deaths and missing persons. He said China, under Chinese law and relevant international conventions, has conducted port-state control inspections to protect maritime and crew safety and that inspections are not targeted at any specific country or flag. Xie urged Panama to correct the record and safeguard the lawful rights of Chinese firms.
 
 ---
 
@@ -19225,227 +19507,5 @@ GOOLSBEE said markets remain stable; inf is well above target and the trend is u
 ### 2026-06-23 05:06:36  #Trading Economics #Markets #Brazil #Stock Market #Importance 1
 
 Ibovespa Gains on US-Iran Peace Progress — The Ibovespa rose 1.2% to close at 170,370 on Monday as progress in peace talks between the US and Iran boosted market sentiment. US Vice President JD Vance and Iran’s Foreign Minister took part in negotiations in Switzerland, with mediators from Qatar and Pakistan reporting encouraging progress, including the establishment of a framework for future technical talks. Both sides agreed on a roadmap to reach a final agreement within 60 days. Oil prices declined, pushing bond yields lower and easing concerns over energy-driven inflation. Major banks led gains, with Itaú up 2.7% and Bradesco rising 1.8%. Utilities also advanced, with Axia up 2% and Sabesp gaining 3.5%. Petrobras rose 0.9% despite lower oil prices, supported by the payment of its latest interest on equity installment and the signing of a memorandum of understanding with Pemex. Retailers also contributed to gains, with Azzas surging 10.3% after presenting alternatives for Farm.
-
----
-
-### 2026-06-23 05:06:31  #央行 #國際
-
-美聯儲古爾斯比： 我們尚未遭遇滯脹衝擊，就業市場保持穩定。
-
----
-
-### 2026-06-23 05:06:03  #央行 #國際
-
-美聯儲古爾斯比： 通脹遠高於目標水平，且走勢趨於惡化。
-
----
-
-### 2026-06-23 05:05:48  #其他
-
-Apollo私人信用基金將投資者贖回上限設在5%。
-
----
-
-### 2026-06-23 05:05:45  #央行 #國際
-
-美聯儲古爾斯比： 不後悔投出反對票。
-
----
-
-### 2026-06-23 05:05:15  #央行 #國際
-
-美聯儲古爾斯比：市場當前整體保持穩定。
-
----
-
-### 2026-06-23 05:03:09  #其他
-
-市場訊息：據傳高通即將達成收購 AI 晶片初創企業 Modular 的交易。
-
----
-
-### 2026-06-23 05:02:01  #市場
-
-【現貨黃金漲約0.9%，亞太早盤一度突破4220美元】週一（6月22日）紐約尾盤，現貨黃金漲0.87%，報4192.04美元/盎司，日內整體高位震盪、北京時間09:00漲至4220.72美元重新整理日高。COMEX黃金期貨跌0.87%，報4209.10美元/盎司，06:00低開至4151.40美元重新整理日低，08:00也開啟一波顯著的回升行情、逼近4240美元但日內整體沒能出現轉漲。現貨白銀漲0.35%，報65.1285美元/盎司，08:00出現一波顯著的拉昇行情、09:00重新整理日高至67.1472美元。COMEX白銀期貨漲0.21%，報65.700美元/盎司。COMEX銅期貨漲0.94%，報6.4340美元/磅。現貨鉑金漲0.89%，現貨鈀金漲0.52%。
-
----
-
-### 2026-06-23 05:00:55  #央行 #國際
-
-韓國央行：韓國 6 月消費者 12 個月通脹預期中值為 2.8%，5 月同樣為 2.8%。
-
----
-
-### 2026-06-23 05:00:10  #MKT News #Market Regions #Japan & APAC
-
-South Korea June consumer confidence index 106.6, versus 106.1 previously.
-
----
-
-### 2026-06-23 05:00:09  #資料 #國際
-
-韓國6月消費者信心指數 106.6，前值106.1。
-
----
-
-### 2026-06-23 05:00:00  #MKT News #Economic Calendar #Important
-
-South Korea | Consumer Confidence Index (Jun) | actual 106.6 | previous 106.1
-
----
-
-### 2026-06-23 04:55:23  #國際
-
-【特斯拉致命車禍引發美國汽車安全監管機構調查】一起涉及特斯拉轎車的致命碰撞事故正接受聯邦調查，此前一輛電動汽車在德克薩斯州衝進一棟住宅，導致屋內一名女子身亡。美國國家公路交通安全管理局(NHTSA)週一表示，已對6月19日發生的這起事故展開特別撞車事故調查。該機構在電子郵件宣告中確認調查，但未提供更多細節。週五晚間，一輛特斯拉Model 3在休斯敦附近衝進一棟磚房。事故被前門攝像頭拍下後引發廣泛關注。Harris County警長辦公室在宣告中表示，司機告訴當局，車輛駛離道路並高速碰撞時，他正在使用自動駕駛輔助系統。
-
----
-
-### 2026-06-23 04:49:32  #MKT News
-
-Iran's central bank governor said remaining frozen funds will not necessarily be restricted to basic goods and that Iran will be able to purchase other non-sanctioned goods.
-
----
-
-### 2026-06-23 04:49:04  #央行 #國際
-
-塔斯尼姆通訊社訊息：伊朗央行行長稱，剩餘被凍結資金未必只能用於採購民生必需品，伊朗可動用該資金購置其他不受制裁限制的商品。
-
----
-
-### 2026-06-23 04:48:52  #MKT News #WTI #Impact bearish #DXY #S&P500 #Impact bullish
-
-【Trump says Iran will accept large-scale weapons inspections】President Trump said on social media on June 22 that all parties understand Iran will agree to large-scale weapons inspections to ensure its long-term nuclear integrity. Earlier the same day US and Iranian delegations concluded a first round of talks at Bürgenstock, Switzerland. Vice President Vance said at a press briefing the talks made substantial progress, laying a strong foundation for a final deal, and that Iran had agreed to invite IAEA inspectors back. Iran's state news agency IRNA quoted Foreign Ministry spokesman BAGHAEI saying Iran's cooperation with the IAEA will continue under existing mechanisms and in accordance with Iranian parliamentary law and decisions of the Supreme National Security Council.
-
----
-
-### 2026-06-23 04:48:48  #國際
-
-【特朗普稱伊朗將同意接受武器核查】美國總統特朗普22日在社交媒體發文稱，各方都完全清楚，伊朗將同意接受大規模武器核查，以確保其在未來長期保持“核誠信”。當天早些時候，美國和伊朗代表團在瑞士比爾根山的首輪談判結束。美國副總統萬斯在新聞釋出會上表示，美伊談判取得很多進展，為達成最終協議奠定非常好的基礎，伊朗已同意邀請國際原子能機構核查人員重返伊朗。伊朗伊斯蘭共和國通訊社22日援引伊朗外交部發言人巴加埃的話報道，伊朗與國際原子能機構的合作與互動將按照現行機制繼續進行，並遵循伊朗議會相關法律以及最高國家安全委員會作出的決定。（新華社）
-
----
-
-### 2026-06-23 04:47:09  #MKT News
-
-【Iran parliament speaker says Iran, US should jointly guarantee Lebanon's territorial integrity】On 22 June, Iran's chief negotiator and parliament speaker Ghalibaf said an Iran‑US memorandum of understanding explicitly calls for ending wars against Iran and its allies. He said both sides concluded in Swiss talks that Iran and the United States should jointly guarantee Lebanon's territorial integrity. The MoU already includes assurances on territorial integrity and should be implemented; the parties agreed to establish a coordination center to resolve related issues, enable displaced Lebanese to return and facilitate withdrawal of Israeli forces from Lebanese territory.
-
----
-
-### 2026-06-23 04:46:44  #國際
-
-美國聯邦航空管理局向一家美國航空航天防務企業授予一份價值 8.75 億美元的多年期軟體及人工智慧專案合同。
-
----
-
-### 2026-06-23 04:46:43  #MKT News
-
-TASNIM NEWS: Iran's central bank governor said Tehran has no obligation under existing agreements to buy agricultural inputs from the United States.
-
----
-
-### 2026-06-23 04:46:16  #國際
-
-【伊朗議長：伊美應共同保障黎巴嫩領土完整】當地時間22日，伊朗談判代表團團長、伊朗議會議長卡利巴夫表示，在伊美諒解備忘錄中，明確強調結束針對伊朗及其盟友的戰爭。卡利巴夫表示，伊美雙方在瑞士談判中達成結論，伊朗和美國應共同保障黎巴嫩的領土完整。諒解備忘錄中已包含對領土完整的保證，應繼續推進落實。為此，雙方同意建立協調中心以解決相關問題，從而使黎巴嫩民眾能夠返回家園，並促使以色列軍隊從黎巴嫩領土撤出。（央視新聞）
-
----
-
-### 2026-06-23 04:45:57  #MKT News #Commodities #Energy
-
-Goldman Sachs says a two-month delay in Qatar LNG export restart to end-September 2026 could push Q4 2026 TTF gas prices toward €50/MWh versus its €40/MWh forecast.
-
----
-
-### 2026-06-23 04:43:13  #國際
-
-【特朗普簽署兩項行政令 推動2028年部署用於科學研究的量子計算機】據華爾街日報報道，特朗普簽署了兩項行政命令，旨在加速先進量子計算機的研發，並降低其帶來的安全威脅。其中一項行政命令於週一簽署，指示包括能源部在內的聯邦機構與私營部門及學術界合作，在2028年前部署一臺能夠用於科學研究的量子計算機。這樣的目標被認為是展示該技術具備現實應用能力的關鍵指標。量子計算機能夠以遠超傳統超級計算機的速度解決問題，因此正成為全球各國日益重視的領域。特朗普簽署的第二項行政命令則要求各政府機構及安全專家為量子系統做準備——這些系統可能比預期更快地突破標準加密體系。其目標是強化政府與私營部門的安全系統，防止先進的量子駭客攻擊摧毀關鍵基礎設施。
-
----
-
-### 2026-06-23 04:42:59  #MKT News #Market Themes #Crypto Concepts #Nasdaq100 #Impact bullish #S&P500
-
-【Trump signs two executive orders to accelerate quantum computing, seeks scientific-use machine by 2028】Trump signed two executive orders to speed advanced quantum computing R&D and reduce related security risks. One order, signed Monday, directs federal agencies including the Department of Energy to work with industry and academia to deploy a quantum computer usable for scientific research by 2028, a benchmark intended to demonstrate practical capability. The second directs agencies and security experts to prepare for quantum systems that could break standard encryption sooner than expected and to strengthen government and private-sector defenses to protect critical infrastructure.
-
----
-
-### 2026-06-23 04:42:07  #Trading Economics #Markets #Canada #Stock Market #Importance 1
-
-TSX Rises on US-Iran Talks and Soft Core Inflation — The S&P/TSX Composite Index rose 0.4% to close at 35,002 on Monday as investors assessed US-Iran peace talks and Canada’s May inflation report. The US and Iran reportedly made progress in their first round of talks aimed at reaching a final peace deal. Oil prices fell, easing concerns over energy-driven inflation pressures. Meanwhile, annual inflation accelerated more than expected, driven by higher gasoline prices. However, the data is unlikely to alter the Bank of Canada’s view on underlying inflation, as core price measures remained soft. The BoC said earlier this month it saw limited evidence that higher energy prices were feeding into broader inflation. In addition, Canada’s banking regulator lowered capital requirements for the country’s largest lenders, a move expected to support credit growth. Banking stocks advanced, with RBC up 1% and BMO gaining 1.2%. Elsewhere, higher gold prices lifted Agnico Eagle by 2.2%, WPM by 4.7%, and Barrick by 1.2%.
-
----
-
-### 2026-06-23 04:41:45  #觀點
-
-高盛：卡達液化天然氣出口擴產將推遲兩個月至 2026 年 9 月末，這一情況或推動 2026 年第四季度荷蘭 TTF 天然氣價格逼近 50 歐元 / 兆瓦時，高於該行此前 40 歐元 / 兆瓦時的預期。
-
----
-
-### 2026-06-23 04:41:32  #央行 #焦點 #國際
-
-塔斯尼姆通訊社訊息：伊朗央行行長表示，依據現行相關協議，德黑蘭並無義務從美國採購農業生產資料。
-
----
-
-### 2026-06-23 04:41:22  #MKT News #DXY #Impact bullish #EURUSD #Impact bearish #USDJPY
-
-【Dollar index up 0.29% on 22nd】The dollar index, measuring the dollar against six major currencies, rose 0.29% to 101.024 at the New York FX close on the 22nd. EUR/USD 1.1424 (prev. 1.1477); GBP/USD 1.3244 (1.3234); USD/JPY 161.42 (161.26); USD/CHF 0.8091 (0.8066); USD/CAD 1.4157 (1.4174); USD/SEK 9.6212 (9.5742).
-
----
-
-### 2026-06-23 04:41:11  #公司 #市場 #國際
-
-【CFTC：資產管理公司美國國債期貨淨多頭增加 對沖基金淨空頭增加】美國商品期貨交易委員會(CFTC)資料顯示，截至6月16日當週，資產管理公司總體偏看漲美國國債期貨，尤其是在長端顯著增加淨多頭頭寸。另一方面，對沖基金在多個期限的美國國債期貨上增加淨空頭頭寸。當週，從10年期國債期貨到超長期國債合約，資產管理公司的淨多頭頭寸合計增加2020萬美元/DV01，其中大部分淨增幅出現在長期國債期貨，多頭增加約900萬美元/DV01。對沖基金當週最看空10年期國債期貨，淨空頭頭寸增加650萬美元/DV01。其長期國債期貨淨空頭頭寸增加近400萬美元/DV01。
-
----
-
-### 2026-06-23 04:40:34  #市場
-
-【美元指數22日上漲】美元指數22日上漲。衡量美元對六種主要貨幣的美元指數當天上漲0.29%，在匯市尾市收於101.024。截至紐約匯市尾市，1歐元兌換1.1424美元，低於前一交易日的1.1477美元；1英鎊兌換1.3244美元，高於前一交易日的1.3234美元。1美元兌換161.42日元，高於前一交易日的161.26日元；1美元兌換0.8091瑞士法郎，高於前一交易日的0.8066瑞士法郎；1美元兌換1.4157加元，低於前一交易日的1.4174加元；1美元兌換9.6212瑞典克朗，高於前一交易日的9.5742瑞典克朗。
-
----
-
-### 2026-06-23 04:39:48  #MKT News #Commodities #Energy #WTI #Impact bearish #Brent
-
-【International oil prices fell on the 22nd】NYMEX July light sweet crude futures fell $1.78 to $74.82/bbl, down 2.32% at the close; ICE August Brent crude futures fell $2.67 to $77.90/bbl, down 3.31%.
-
----
-
-### 2026-06-23 04:39:26  #MKT News #Important
-
-【Ghalibaf says Strait of Hormuz to be managed under Iranian mechanism】On June 22, Ghalibaf, head of Iran’s negotiation delegation and parliament speaker, said management of the Strait of Hormuz will not return to its pre-war status and, while claiming compliance with international law, will be carried out under a mechanism set by Iran. He said Iran and the US agreed to establish a coordination centre and hotline to resolve incidents more quickly within a 30-day timeframe. The hotline is not for approving transit permits, which will follow existing procedures; it is intended only to handle vessel problems or emergencies.
-
----
-
-### 2026-06-23 04:38:50  #焦點 #國際
-
-【伊朗議長：霍爾木茲海峽將按伊方制定的機制進行管理】當地時間22日，伊朗談判代表團團長、伊朗議會議長卡利巴夫表示，霍爾木茲海峽的管理絕不會回到戰前狀態。在遵守國際法的前提下，霍爾木茲海峽將按照伊朗制定的機制，由伊朗進行管理。卡利巴夫說，在霍爾木茲海峽可能會出現一些問題，因此伊朗和美國同意設立一個協調中心並開通熱線，以便在30天期限內，更快速地解決出現的問題。卡利巴夫表示，這一通話熱線並非用於審批通行許可，相關許可仍有其既定流程。該熱線僅用於處理船隻出現的問題或突發事件。（央視新聞）
-
----
-
-### 2026-06-23 04:38:18  #市場
-
-【國際油價22日下跌】截至當天收盤，紐約商品交易所7月交貨的輕質原油期貨價格下跌1.78美元，收於每桶74.82美元，跌幅為2.32%；8月交貨的倫敦布倫特原油期貨價格下跌2.67美元，收於每桶77.90美元，跌幅為3.31%。
-
----
-
-### 2026-06-23 04:38:13  #MKT News #Market Themes #AI Revolution #IBM.O #Impact bullish
-
-IBM shares rose 2% in after-hours trading after the company announced a partnership with OpenAI to launch AI products targeting enterprise cybersecurity defense.
-
----
-
-### 2026-06-23 04:37:40  #央行 #國際
-
-美聯儲主席沃什將於7月14日美國東部時間上午（北京時間晚上）10點，在眾議院金融服務委員會作證。
-
----
-
-### 2026-06-23 04:37:30  #MKT News #Important #Macro & Rates #The Fed (FOMC)
-
-Federal Reserve chair Kevin Warsh will testify before the House Financial Services Committee on July 14 at 10:00 a.m. ET (14:00 UTC; 22:00 Beijing).
-
----
-
-### 2026-06-23 04:36:58  #MKT News #XAUUSD #Impact bullish #Brent #DXY
-
-【Israel says it will continue decisive action to destroy military infrastructure in southern Lebanon】Late on the 22nd local time, the Israeli prime minister's office said after a phone call between Prime Minister Netanyahu, Defense Minister Katz, IDF Chief of Staff Zamir and Northern Command commander Rafi Milo that the IDF will continue to take decisive action to thwart threats to Israeli soldiers and civilians, destroy military infrastructure in southern Lebanon and maintain a "security zone" there.
 
 ---
