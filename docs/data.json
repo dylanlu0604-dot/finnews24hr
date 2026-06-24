@@ -1,7 +1,54 @@
 {
-  "updated": "2026-06-25 04:50:47",
-  "count": 17057,
+  "updated": "2026-06-25 04:54:50",
+  "count": 17058,
   "items": [
+    {
+      "id": "mkt:019efb69-7069-7dd8-b105-6ad0610a33fe",
+      "time": "2026-06-25 04:54:11",
+      "tags": [
+        "MKT News",
+        "QCOM.O",
+        "Impact bullish"
+      ],
+      "text": "Qualcomm (QCOM.O) targets roughly $8 billion in industrial, networking and robotics revenue by fiscal 2029."
+    },
+    {
+      "id": "mkt:019efb68-0bca-7dd8-b105-607ed2b14d1e",
+      "time": "2026-06-25 04:52:40",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "QCOM.O",
+        "Impact bullish"
+      ],
+      "text": "Qualcomm (QCOM.O) says its automotive design-win pipeline has expanded to $65 bln."
+    },
+    {
+      "id": "mkt:019efb67-84b2-7dd8-b105-5ed4e940d5a4",
+      "time": "2026-06-25 04:52:05",
+      "tags": [
+        "MKT News",
+        "QCOM.O"
+      ],
+      "text": "Qualcomm (QCOM.O): By fiscal 2029, the handset business is expected to account for about one-third of revenue in its core semiconductor business."
+    },
+    {
+      "id": "mkt:019efb66-0dbb-7dd8-b105-51e2a388d823",
+      "time": "2026-06-25 04:50:29",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. Vice President Vance said U.S. officials are reviewing Turkey's compliance with U.S. laws over its purchase of Russia's S-400 missile defense system."
+    },
+    {
+      "id": "4953519",
+      "time": "2026-06-25 04:50:19",
+      "tags": [
+        "國際"
+      ],
+      "text": "被問及司法部調查汽油價格，特朗普點名雪佛龍、BP和埃克森美孚。"
+    },
     {
       "id": "mkt:019efb65-75c1-7dd8-b105-4df261874d18",
       "time": "2026-06-25 04:49:50",
@@ -155834,42 +155881,6 @@
         "國際"
       ],
       "text": "美國紐約拉瓜迪亞機場將於美國東部時間週三下午5點關閉一條跑道，以處理跑道地面沉降問題。"
-    },
-    {
-      "id": "4941845",
-      "time": "2026-06-18 04:54:11",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國國家颶風中心（NHC）表示，美國東南部部分地區預計將出現危及生命的洪水。"
-    },
-    {
-      "id": "4941844",
-      "time": "2026-06-18 04:53:37",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國國家颶風中心（NHC）表示，美國東南部部分地區將面臨危及生命的洪災，德克薩斯州和路易斯安那州部分海岸仍維持熱帶風暴警告生效狀態。"
-    },
-    {
-      "id": "te:economy:559825",
-      "time": "2026-06-18 04:53:18",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Canada",
-        "Government Bond 10Y",
-        "Importance 1"
-      ],
-      "text": "Canadian Yields Rise on Fed Outlook — Canada's 10-year government bond yield rose slightly to around 3.4% after the Federal Reserve struck a more hawkish tone at its latest meeting. As widely expected, the Fed left interest rates unchanged, but its projections were viewed as more hawkish than anticipated, with roughly half of FOMC members expecting at least one rate hike this year. The Fed also raised its inflation forecasts, prompting investors to scale back expectations for monetary easing and putting upward pressure on North American bond yields. Meanwhile, the BoC kept its key interest rate unchanged at 2.25% at its latest meeting. The central bank said uncertainty remains elevated amid tensions in the Middle East and new US tariff proposals, but reiterated that it stands ready to act if needed and will not allow higher energy prices to trigger persistent inflation. Investors largely expect the BoC to raise borrowing costs by 25 basis points in December."
-    },
-    {
-      "id": "mkt:019ed75b-9c96-7dd8-b064-3ff71319680b",
-      "time": "2026-06-18 04:52:45",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Iranian parliament speaker Ghalibaf said commitments in the memorandum of understanding are conditional on an \"action-for-action\" principle; if the U.S. fails to meet its commitments, Iran will not be able to meet its own."
     }
   ]
 }
