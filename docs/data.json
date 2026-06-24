@@ -1,7 +1,87 @@
 {
-  "updated": "2026-06-24 23:07:55",
-  "count": 17243,
+  "updated": "2026-06-24 23:12:03",
+  "count": 17241,
   "items": [
+    {
+      "id": "mkt:019efa2f-20d2-7dd8-b0fd-fbb4883239b9",
+      "time": "2026-06-24 23:10:52",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Trump cancels today's housing bill signing and press conference】President Trump said on social media he will not sign a bipartisan housing bill on Wednesday at Capitol Hill as planned, and has canceled today’s signing and press conference, saying he wants Congress to first pass the Save America Act. Trump called the measure a national emergency and is pushing the Senate to repeal the filibuster to pass the Save America Act, which would introduce new voter ID requirements; Democrats say the current text would amount to voter suppression."
+    },
+    {
+      "id": "4953115",
+      "time": "2026-06-24 23:10:19",
+      "tags": [
+        "國際"
+      ],
+      "text": "【特朗普突然取消兩黨住房法案的簽署儀式】美國總統特朗普突然取消了簽署一項跨黨派住房法案的計劃，並表示，在議員們透過一項在國會擱置已久的選民資格法案之前，他將拒絕就該住房法案採取任何行動。週三上午，特朗普在社交媒體上連發數帖，令國會山的議員們感到措手不及。特朗普在帖子中稱，儘管該住房法案以壓倒性多數透過了參眾兩院，但與他的其他優先事項相比“微不足道”。他還嘲諷該法案居然得到了馬薩諸塞州民主黨參議員伊麗莎白.沃倫(Elizabeth Warren)的支援。他寫道，取消簽署儀式是必要的，因為他認為透過旨在收緊全國的投票規則的《拯救美國法案》(SAVE America Act)屬於“國家緊急事務”。特朗普原定於週三中午出席在國會大廈舉行的簽署儀式。就在幾個小時前，白宮還在高調宣揚這項立法，稱其為總統解決生活成本問題議程的一大支柱。週二晚間，白宮新聞秘書萊維特更是稱讚該法案是“美國歷史上減輕住房負擔最重大的立法之一”。根據美國憲法，國會透過的法案如果總統既不簽署也不否決，將在大約兩週後自動成為法律。"
+    },
+    {
+      "id": "4953114",
+      "time": "2026-06-24 23:09:46",
+      "tags": [
+        "國際"
+      ],
+      "text": "埃及總統塞西：自7月1日起上調養老金。"
+    },
+    {
+      "id": "te:markets:561601",
+      "time": "2026-06-24 23:09:37",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "US Stocks Gain Ground, Dow Rises to Record — US equities gained ground on Wednesday, rebounding from the selloff in the chip sector on signs of improvement to broader credit conditions. The Nasdaq 100 and the S&P 500 gained nearly 1%, while the Dow added 400 points for a new record. Micron was flat ahead of its earnings after the bell. It followed the 13% plunge last session on fresh doubts that capital expenditures from AI companies were overdone and are due to slow. Other semiconductor and memory producers halted the selloff, with Nvidia, Intel, and Broadcom adding up to 2%. AI fundraising remained at soaring levels as SK Hynix was looking to raise $29 billion with a US listing shortly after the record SpaceX IPO. Broader sectors were supported by a pullback in yields across the curve as the outlook of restored energy exports from the Middle East tempered inflationary risks. The Dow Jones outperformed due to its exposure to traditional sectors of the economy, set to change on Monday when Alphabet replaces Verizon."
+    },
+    {
+      "id": "4953113",
+      "time": "2026-06-24 23:09:21",
+      "tags": [
+        "國際"
+      ],
+      "text": "【國際海事組織公佈霍爾木茲海峽撤離計劃操作細則】當地時間24日，國際海事組織（IMO）公佈霍爾木茲海峽撤離計劃操作細則，稱超過1.1萬名滯留在海灣地區船舶上的船員將按照統一協調機制分階段撤離。根據國際海事組織釋出的檔案，目前所有等待撤離的船舶應保持當前位置，不得自行駛向霍爾木茲海峽或指定等待區，而應等待進一步通知。國際海事組織強調，此舉旨在避免航道擁堵，並降低水雷和複雜航行環境帶來的風險。檔案顯示，英國海上貿易行動辦公室（UKMTO）和法國主導的印度洋海事資訊中心（MICACentre）將負責聯絡相關船舶，並通知其前往指定等待區域。船舶隨後可根據自身風險評估，自主選擇經伊朗水域的北部航線或經阿曼及美國協調水域的南部航線離開霍爾木茲海峽。（央視新聞）"
+    },
+    {
+      "id": "mkt:019efa2d-a21b-7dd8-b0fd-f3d83bdd7e2a",
+      "time": "2026-06-24 23:09:15",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【IMO issues operational rules for Strait of Hormuz evacuation plan】On the 24th the International Maritime Organization issued operational rules for a staged evacuation of more than 11,000 seafarers aboard vessels stranded in the Gulf under a unified coordination mechanism. The IMO said all vessels awaiting evacuation must remain in place and must not transit into the Strait of Hormuz or designated holding areas until further notice. The move is intended to prevent channel congestion and reduce risks from sea mines and complex navigation. UK Maritime Trade Operations (UKMTO) and the French‑led Indian Ocean Maritime Information Centre (MICACentre) will contact affected ships and direct them to designated holding areas; vessels may then, based on their own risk assessments, choose a northern route via Iranian waters or a southern route via Omani waters under US coordination to exit the Strait."
+    },
+    {
+      "id": "4953112",
+      "time": "2026-06-24 23:09:11",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【理想蔚來隔空口水戰：理想高管稱“增程的盡頭是5C增程”，蔚來馬麟以兩個字疑似回應】6月24日晚間訊息，近日，圍繞增程與純電兩個路線，理想與蔚來兩家企業高管出現隔空口水戰。此前，蔚來對外打出了“增程的盡頭是純電，純電的盡頭是換電”的口號。蔚來創始人、董事長、CEO李斌也多次在公開場合稱，純電拐點已經到來。6月17日，理想汽車創始人、董事長兼CEO李想在微博上發文稱，最近一段時間，有人認為增程車份額下降了，開始唱衰整個市場。“我認為純電和增程車，是滿足不同使用者需求，不要踩一捧一，不要搞能源鄙視鏈，要尊重使用者對長途和野外使用汽油完全沒有焦慮的偏好。”隨即，6月18日，樂道汽車總裁沈斐也在微博發文，稱5月國內新能源汽車滲透率已達62.9%，其中純電車型份額攀升至67%，成為新能源市場絕對主力，發展勢頭勢不可擋；而增程車型份額進一步下滑，僅剩餘7%。在6月23日晚間的全新理想L8上市釋出會上，理想汽車產品線總裁劉傑再次提及該話題。他表示不認同行業內“增程的盡頭是純電”的話術，並提出全新觀點，劉傑稱“增程的盡頭，是5C增程。”今日，蔚來副總裁馬麟則在微博上僅釋出“謝謝”兩個字，被外界視為是針對理想汽車產品線總裁劉傑言論的隔空回應。（新浪科技）"
+    },
+    {
+      "id": "te:markets:561600",
+      "time": "2026-06-24 23:07:39",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "commodity",
+        "Importance 0"
+      ],
+      "text": "Gold traded below 4000 USD/t.oz — Gold decreased below 4000, according to trading on a contract for difference (CFD)."
+    },
+    {
+      "id": "4953111",
+      "time": "2026-06-24 23:07:36",
+      "tags": [
+        "公司"
+      ],
+      "text": "【華恒生物：終止發行H股股票】華恒生物(688639.SH)公告稱，公司決定終止發行H股股票並在香港聯交所主機板上市的申請。"
+    },
     {
       "id": "4953110",
       "time": "2026-06-24 23:06:59",
@@ -157837,110 +157917,6 @@
         "Importance 1"
       ],
       "text": "Colombia Consumer Confidence Improves In May — Colombia’s Consumer Confidence Index rose 4.1 percentage points to 17.8% in May 2026 from April, supported by a 6.8 percentage point increase in the Consumer Expectations Index to 26.7%. Households’ economic outlook improved to 42.1% from 40.2%. Expectations for the general economy rose to 21.1% from 10.2%, while expectations for the country’s future economic conditions increased to 16.8% from 9.2%. Meanwhile, the Economic Conditions Index fell 0.1 percentage point. Assessments of households’ current economic situation weakened to 3.1% from 5.7%, while willingness to purchase durable goods rose to 5.8% from 3.3%. Compared to May 2025, the Consumer Confidence Index was up 21.6 percentage points."
-    },
-    {
-      "id": "te:markets:559766",
-      "time": "2026-06-17 23:11:46",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Canada",
-        "currency",
-        "Importance 1"
-      ],
-      "text": "Canadian Dollar Hits 28-week Low — The Canadian Dollar touched 1.40 against the USD, the lowest since November 2025. Over the past 4 weeks, US Dollar Canadian Dollar gained 2.06%, and in the last 12 months, it increased 2.4%."
-    },
-    {
-      "id": "mkt:019ed622-96cb-7dd8-b057-9fa72e479794",
-      "time": "2026-06-17 23:10:51",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "【Shanghai releases plan to expand Lingang New Area offshore financial services pilot to full-scope offshore business】Shanghai on June 17 released a PBOC-approved plan to expand and upgrade the Lingang New Area offshore financial services pilot. The scope is widened from an offshore-trade single scenario to full-scope offshore business, enabling pilot firms to deepen integration into global supply chains and broaden participation in cross-border production, sales and services. The move formalises Lingang’s strategic coordination of onshore and offshore activity and renames the scheme accordingly."
-    },
-    {
-      "id": "4941421",
-      "time": "2026-06-17 23:10:26",
-      "tags": [
-        "國際"
-      ],
-      "text": "法國總統馬克龍：伊朗、真主黨與以色列避免重啟衝突至關重要。"
-    },
-    {
-      "id": "mkt:019ed622-309e-7dd8-b057-921ddc8a9e55",
-      "time": "2026-06-17 23:10:25",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "MACRON said it is vital that Iran, HEZBOLLAH and Israel refrain from resuming hostilities."
-    },
-    {
-      "id": "4941420",
-      "time": "2026-06-17 23:09:57",
-      "tags": [
-        "國際"
-      ],
-      "text": "法國總統馬克龍：美國意識到前沿人工智慧模型存在風險，這是件好事。"
-    },
-    {
-      "id": "mkt:019ed621-c2f5-7dd8-b057-8977b61658d0",
-      "time": "2026-06-17 23:09:57",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "SpaceX shares fell a further 6.3%."
-    },
-    {
-      "id": "mkt:019ed621-b856-7dd8-b057-82a9854be18c",
-      "time": "2026-06-17 23:09:54",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution",
-        "Nasdaq100",
-        "Impact bullish",
-        "S&P500",
-        "DXY",
-        "Impact bearish"
-      ],
-      "text": "French President Macron said consumers do not want AI tools that can be turned off. He called the U.S. recognizing the risks of frontier AI models a positive development."
-    },
-    {
-      "id": "4941419",
-      "time": "2026-06-17 23:09:21",
-      "tags": [
-        "市場"
-      ],
-      "text": "Prosus於6月8-12日期間按均價39.8172歐元回購237.3260萬股股票，合計超0.9446億歐元（摺合超1.091億美元）。Naspers同期按均價879.9588南非蘭特回購90.4340萬股，合計將近7.958億蘭特（摺合約0.484億美元）。"
-    },
-    {
-      "id": "mkt:019ed620-cf4a-7dd8-b057-7915daf7d73a",
-      "time": "2026-06-17 23:08:54",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "【Trump says European allies offered minesweeping help for Strait of Hormuz but US may not rely on them】Trump said on Wednesday European allies have pledged to help clear the Strait of Hormuz to keep shipping lanes open but he did not name specific countries. Asked which states offered to clear Iranian mines, he said “all of them,” adding that those with the equipment have offered assistance and every ally has pledged to take part. He added that, following a deal with Iran, the US would not necessarily have to rely on Europe to reopen the strait, though allied minesweepers would be “a good thing.” Trump continued to frame rapid restoration of traffic through the Strait of Hormuz as a key benefit of any Iran agreement, but said returning tanker flows to pre-crisis levels will likely take time."
-    },
-    {
-      "id": "4941417",
-      "time": "2026-06-17 23:08:43",
-      "tags": [
-        "國際"
-      ],
-      "text": "法國總統馬克龍：客戶不希望使用隨時可能被關停的人工智慧工具。"
-    },
-    {
-      "id": "4941416",
-      "time": "2026-06-17 23:08:27",
-      "tags": [
-        "公司"
-      ],
-      "text": "【臨港新片區離岸貿易金融服務綜合改革試點擴圍方案在滬釋出】今天（6月17日），臨港新片區離岸貿易金融服務綜合改革試點擴圍方案在上海正式釋出。2025年陸家嘴論壇期間，中國人民銀行行長潘功勝宣佈支援上海國際金融中心建設的八項創新舉措，其中包括在臨港新片區開展離岸貿易金融服務綜合改革試點。一年來，臨港新片區在人民銀行上海總部指導下穩步推進試點工作，採用“專營公司＋一線放開、二線管住”的管理模式，在風險可控前提下顯著提升了離岸貿易結算便利化水平，為試點擴圍奠定了堅實基礎。（央視新聞）"
     }
   ]
 }
