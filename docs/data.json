@@ -1,7 +1,33 @@
 {
-  "updated": "2026-06-25 03:06:38",
-  "count": 17092,
+  "updated": "2026-06-25 03:10:42",
+  "count": 17069,
   "items": [
+    {
+      "id": "4953377",
+      "time": "2026-06-25 03:09:21",
+      "tags": [
+        "市場"
+      ],
+      "text": "在岸人民幣兌美元（CNY）北京時間03:00收報6.8092元，較週二夜盤收盤跌154點。成交量714.35億美元。"
+    },
+    {
+      "id": "mkt:019efb07-f317-7dd8-b103-054f7af03a8e",
+      "time": "2026-06-25 03:07:42",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "The Wall Street Journal reports a startup founded by former Anthropic employees plans to help scientists develop their own AI."
+    },
+    {
+      "id": "4953375",
+      "time": "2026-06-25 03:06:14",
+      "tags": [
+        "公司"
+      ],
+      "text": "巴西國家石油公司：布齊奧斯油田週二原油日產量達到 110 萬桶。"
+    },
     {
       "id": "4953374",
       "time": "2026-06-25 03:05:50",
@@ -156041,259 +156067,6 @@
         "國際"
       ],
       "text": "特朗普談美聯儲：好吧，他們維持利率不變，隨便吧。"
-    },
-    {
-      "id": "4941737",
-      "time": "2026-06-18 03:10:38",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：伊朗核協議將在未來48小時內簽署。"
-    },
-    {
-      "id": "4941736",
-      "time": "2026-06-18 03:10:33",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：伊朗方面的簽字已成定局，但尚未最終確定。"
-    },
-    {
-      "id": "mkt:019ed6fd-fb6c-7dd8-b062-2dbaf0d1f4ec",
-      "time": "2026-06-18 03:10:29",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "President Trump said the United States may maintain a military presence in the Gulf region for some time."
-    },
-    {
-      "id": "4941735",
-      "time": "2026-06-18 03:10:26",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：可能會在海灣地區保留一段時間的軍事存在。"
-    },
-    {
-      "id": "4941734",
-      "time": "2026-06-18 03:10:20",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗官方通訊社談諒解備忘錄文字：伊朗與美國已同意透過雙方共同商定的機制解決濃縮鈾庫存的地位問題。"
-    },
-    {
-      "id": "mkt:019ed6fd-b402-7dd8-b062-27a1a9facfb1",
-      "time": "2026-06-18 03:10:11",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "DXY",
-        "Impact mixed",
-        "US10Y",
-        "EURUSD"
-      ],
-      "text": "Fed Chair Kevin Warsh said a new communications framework before year-end would not be surprising."
-    },
-    {
-      "id": "mkt:019ed6fd-a44f-7dd8-b062-1b8f077121a3",
-      "time": "2026-06-18 03:10:07",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bearish",
-        "XAUUSD",
-        "DXY"
-      ],
-      "text": "U.S. President Trump said the Iran agreement will be signed within the next 48 hours."
-    },
-    {
-      "id": "4941733",
-      "time": "2026-06-18 03:10:06",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲主席沃什：聯邦公開市場委員會已承諾釋出經濟預測，預計將兌現這一承諾。"
-    },
-    {
-      "id": "mkt:019ed6fd-8b58-7dd8-b062-10dc7adf29dd",
-      "time": "2026-06-18 03:10:00",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "DXY",
-        "Impact bullish",
-        "US10Y",
-        "S&P500",
-        "Impact bearish"
-      ],
-      "text": "Trump said the Fed keeping rates unchanged is fine and that a Fed rate hike could happen."
-    },
-    {
-      "id": "4941732",
-      "time": "2026-06-18 03:09:50",
-      "tags": [
-        "央行",
-        "焦點",
-        "國際"
-      ],
-      "text": "特朗普談美聯儲可能加息：這有可能發生。"
-    },
-    {
-      "id": "4941731",
-      "time": "2026-06-18 03:09:41",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：伊朗協議似乎正在順利推進。"
-    },
-    {
-      "id": "4941730",
-      "time": "2026-06-18 03:09:31",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "伊朗官方通訊社就諒解備忘錄文字表態：伊朗重申不會製造或獲取核武器。"
-    },
-    {
-      "id": "4941729",
-      "time": "2026-06-18 03:09:22",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲主席沃什：六週後會議時將瞭解更多情況。"
-    },
-    {
-      "id": "4941728",
-      "time": "2026-06-18 03:09:11",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲主席沃什：根據我在會場聽到的發言，結合預測資料來看，有一半的同事認為利率應該下調，而另一半則認為應該上調。"
-    },
-    {
-      "id": "mkt:019ed6fc-b98b-7dd8-b062-08dc3a72fd96",
-      "time": "2026-06-18 03:09:07",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "Iranian state news agency said, per the memorandum of understanding text, the U.S. and Iran committed to reach a final agreement within 60 days of negotiations; the period may be extended."
-    },
-    {
-      "id": "mkt:019ed6fc-48b3-7dd8-b062-04a63224497a",
-      "time": "2026-06-18 03:08:38",
-      "tags": [
-        "MKT News",
-        "S&P500",
-        "Impact bullish",
-        "WTI",
-        "Impact bearish",
-        "DXY"
-      ],
-      "text": "Iran's state news agency reported the MoU text states the U.S. and Iran will not interfere in each other's internal affairs."
-    },
-    {
-      "id": "4941727",
-      "time": "2026-06-18 03:08:34",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "伊朗官方通訊社就諒解備忘錄文字表示：雙方承諾將在60天談判期內達成最終協議，該談判期限可延長。"
-    },
-    {
-      "id": "4941726",
-      "time": "2026-06-18 03:08:25",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "伊朗官方通訊社就諒解備忘錄文字內容稱：兩國互不干涉內政。"
-    },
-    {
-      "id": "mkt:019ed6fb-ee51-7dd8-b061-fd5c3790e27a",
-      "time": "2026-06-18 03:08:15",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Macro & Rates",
-        "The Fed (FOMC)"
-      ],
-      "text": "【WSJ's Timiraos not called on during first 30 minutes of Warsh's opening press conference】Wall Street Journal reporter Nick Timiraos had not been called on for a question roughly 30 minutes into Fed Chair Kevin Warsh's first press conference. If deliberate, the omission could be a subtle signal that Warsh intends to differentiate his communication style from his predecessor."
-    },
-    {
-      "id": "4941725",
-      "time": "2026-06-18 03:08:12",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "【“美聯儲傳聲筒”在新主席釋出會的30分鐘內未獲提問機會】在美聯儲主席沃什首場新聞釋出會開始約30分鐘後，華爾街日報記者、“美聯儲傳聲筒”Nick Timiraos仍未獲得提問機會。如果這一安排是刻意為之，這可能又是一個微妙訊號，表明美聯儲主席沃什希望在溝通方式上與其前任作出區分。"
-    },
-    {
-      "id": "4941724",
-      "time": "2026-06-18 03:08:01",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲主席沃什：美聯儲監察長將於今年夏末釋出翻新工程相關報告。"
-    },
-    {
-      "id": "4941723",
-      "time": "2026-06-18 03:07:42",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲主席沃什：翻新工程方面，我們將盡己所能，妥善管理納稅人資金。"
-    },
-    {
-      "id": "4941722",
-      "time": "2026-06-18 03:07:17",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲主席沃什：（在被問及美聯儲總部大樓翻新事宜時）已經與監察長會面。"
-    },
-    {
-      "id": "4941721",
-      "time": "2026-06-18 03:06:59",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "現貨黃金失守4270美元/盎司，日內跌1.41%。"
-    },
-    {
-      "id": "4941720",
-      "time": "2026-06-18 03:06:58",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "紐約期銀失守69美元/盎司，日內跌2.22%。"
-    },
-    {
-      "id": "4941719",
-      "time": "2026-06-18 03:06:39",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲主席沃什：美聯儲將毫不猶豫地向行政部門機構提交統計資料方面的建議。"
     }
   ]
 }
