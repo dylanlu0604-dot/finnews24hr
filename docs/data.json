@@ -1,7 +1,93 @@
 {
-  "updated": "2026-06-24 12:21:51",
-  "count": 17346,
+  "updated": "2026-06-24 12:25:48",
+  "count": 17351,
   "items": [
+    {
+      "id": "mkt:019ef7de-782e-7dd8-b0eb-90ed603e8f0c",
+      "time": "2026-06-24 12:23:32",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "RBI governor said intervention measures aim to ensure orderly volatility in the FX market."
+    },
+    {
+      "id": "mkt:019ef7de-5453-7dd8-b0eb-8eb303d897e9",
+      "time": "2026-06-24 12:23:23",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Reserve Bank of India governor: as equity valuations undergo a modest pullback, capital-market-driven foreign inflows should slow."
+    },
+    {
+      "id": "mkt:019ef7de-31cd-7dd8-b0eb-827a6a0216c7",
+      "time": "2026-06-24 12:23:14",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Reserve Bank of India governor says the central bank will not set any exchange-rate target for the rupee."
+    },
+    {
+      "id": "mkt:019ef7dd-f4e7-7dd8-b0eb-7ec644d914ae",
+      "time": "2026-06-24 12:22:58",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Reserve Bank of India governor says market forces should determine the rupee's exchange-rate level."
+    },
+    {
+      "id": "mkt:019ef7dd-d56e-7dd8-b0eb-71db3593226c",
+      "time": "2026-06-24 12:22:50",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "Brent"
+      ],
+      "text": "Russian Defence Ministry said it shot down 323 drones overnight."
+    },
+    {
+      "id": "4951731",
+      "time": "2026-06-24 12:22:42",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯新聞機構援引國防部稱，俄軍昨夜擊落323架無人機。"
+    },
+    {
+      "id": "4951730",
+      "time": "2026-06-24 12:22:10",
+      "tags": [
+        "國際"
+      ],
+      "text": "傑富瑞將美國銀行目標價從65美元上調至70美元。"
+    },
+    {
+      "id": "4951729",
+      "time": "2026-06-24 12:21:46",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "印度央行行長：隨著股市估值回落，由資本市場驅動的外資撤回情況應當會有所緩解。"
+    },
+    {
+      "id": "4951728",
+      "time": "2026-06-24 12:21:34",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "30年期日本國債收益率上漲2.5個基點，至3.865%。"
+    },
+    {
+      "id": "4951727",
+      "time": "2026-06-24 12:21:23",
+      "tags": [
+        "市場"
+      ],
+      "text": "日經225指數下跌超過1100點，人工智慧相關股票的拋售仍在繼續。該指數現跌1.6%，報68652.17點。"
+    },
     {
       "id": "mkt:019ef7da-c786-7dd8-b0eb-6ae642f980bf",
       "time": "2026-06-24 12:19:30",
@@ -158779,51 +158865,6 @@
         "其他"
       ],
       "text": "【比特幣未能突破67,000美元后幾無變動】亞洲交易時段，比特幣幾無變動。Apollo Crypto基金經理Pratik Kala表示，隨著該加密貨幣未能突破67,000美元的關鍵水平且交易量低迷，市場處於冷清狀態。與此同時，比特幣ETF繼續出現溫和的淨流出。Strategy發行的在納斯達克上市的比特幣掛鉤永續優先股STRC在其除息日交投於相對疲軟的91.00美元水平附近。Kala表示，這表明這家最大的比特幣企業買家可能已經沒有餘力進一步購買比特幣。比特幣最新持平於65,760.73美元。"
-    },
-    {
-      "id": "4939952",
-      "time": "2026-06-17 12:24:45",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【七國集團領導人同意加大對俄羅斯油氣領域制裁力度】七國集團官方宣告顯示，七國集團領導人已達成共識，加碼針對俄羅斯的制裁措施，覆蓋石油、天然氣行業。各方還商定向烏克蘭增供防空裝備、配套攔截系統以及遠端打擊武器。七國集團預備考慮向烏克蘭開放相關許可許可權，助力其擴大本土軍工產能。七國集團領導人大力支援在美伊諒解備忘錄基礎上，達成一份強有力、內容全面的後續外交協議。各方重申，絕不允許伊朗獲取核武器。"
-    },
-    {
-      "id": "4939951",
-      "time": "2026-06-17 12:23:55",
-      "tags": [
-        "其他"
-      ],
-      "text": "貝倫貝格將埃森哲目標價從273美元下調至220美元。"
-    },
-    {
-      "id": "te:economy:559567",
-      "time": "2026-06-17 12:23:35",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Cape Verde",
-        "Inflation Rate",
-        "Importance 1"
-      ],
-      "text": "Cape Verde Inflation Rate Rises from 2-Year Low — The annual inflation rate in Cape Verde rose to 0.8% in May 2026 from 0.3% in the previous month, which marked the lowest reading since March 2024. Upward pressure came mainly from transportation (3.4% vs 0.8% in April), alcoholic beverages and tobacco (3.9% vs 3.8%), and food and non-alcoholic beverages (0.8% vs 0.2%). Additionally, deflation eased in housing and utilities (-3.8% vs -4.2%). Meanwhile, price growth slowed in furnishings and household equipment (6.2% vs 6.7%), clothing and footwear (4.2% vs 4.7%), health (2.9% vs 3.1%), recreation and culture (1.3% vs 1.5%), education (0.2% vs 0.3%), hotels, restaurants and cafés (3.5% vs 3.9%), and miscellaneous goods and services (0.6% vs 1.3%), while communication costs declined (-0.3% vs 0.1%). On a monthly basis, the CPI rose 0.5%, following gains of 0.1% in each of the previous two months."
-    },
-    {
-      "id": "mkt:019ed3d0-f69f-7dd8-b041-c79b1aebbf59",
-      "time": "2026-06-17 12:22:27",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【China launches 22 LEO satellites for satellite internet】At 10:44 Beijing time on June 17, 2026, China launched 22 LEO satellites for satellite internet from the Hainan commercial launch site aboard a Long March-12 rocket; the satellites entered their planned orbit and the launch was successful."
-    },
-    {
-      "id": "4939950",
-      "time": "2026-06-17 12:22:11",
-      "tags": [
-        "其他"
-      ],
-      "text": "【我國成功發射衛星網際網路低軌22組衛星】北京時間2026年6月17日10時44分，我國在海南商業航天發射場使用長征十二號運載火箭，成功將衛星網際網路低軌22組衛星發射升空，衛星順利進入預定軌道，發射任務獲得圓滿成功。"
     }
   ]
 }
