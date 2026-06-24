@@ -1,7 +1,68 @@
 {
-  "updated": "2026-06-25 02:45:29",
-  "count": 17132,
+  "updated": "2026-06-25 02:49:33",
+  "count": 17118,
   "items": [
+    {
+      "id": "mkt:019efaf5-a6e6-7dd8-b102-b61928133be2",
+      "time": "2026-06-25 02:47:43",
+      "tags": [
+        "MKT News",
+        "QCOM.O"
+      ],
+      "text": "Qualcomm's head of data-center business said commercial samples of the firm's first-generation high-bandwidth computer, equipped with the AI250 accelerator, are expected in mid-2027."
+    },
+    {
+      "id": "mkt:019efaf5-55fe-7dd8-b102-ae8a0ed614e7",
+      "time": "2026-06-25 02:47:22",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "QCOM.O"
+      ],
+      "text": "Qualcomm's head of data center business said the company will launch a second-generation HBC chip in 2028."
+    },
+    {
+      "id": "4953347",
+      "time": "2026-06-25 02:47:14",
+      "tags": [
+        "市場"
+      ],
+      "text": "布倫特原油期貨結算價報每桶73.74美元，下跌3.34美元，跌幅4.33%。"
+    },
+    {
+      "id": "4953346",
+      "time": "2026-06-25 02:47:11",
+      "tags": [
+        "其他"
+      ],
+      "text": "高通資料中心部門主管：高通將於2028年推出第二代HBC晶片。"
+    },
+    {
+      "id": "4953345",
+      "time": "2026-06-25 02:46:19",
+      "tags": [
+        "其他"
+      ],
+      "text": "高通資料中心主管表示，搭載AI250的高通第三代高頻寬計算晶片Gen 1預計將於2027年年中進入商業取樣階段。"
+    },
+    {
+      "id": "mkt:019efaf3-5e5e-7dd8-b102-a45c6c689040",
+      "time": "2026-06-25 02:45:13",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Star Stocks",
+        "Microsoft",
+        "Market Themes",
+        "Chip Wars",
+        "Magnificent 7",
+        "QCOM.O",
+        "Impact bullish",
+        "MSFT.O"
+      ],
+      "text": "Qualcomm data‑center business head says Microsoft will deploy the company's high‑bandwidth compute chips in Azure data centers."
+    },
     {
       "id": "4953344",
       "time": "2026-06-25 02:44:30",
@@ -156493,210 +156554,6 @@
         "Impact bearish"
       ],
       "text": "Fed Chair KEVIN WARSH said the Fed has missed its inf target for five years and must now begin correcting it."
-    },
-    {
-      "id": "mkt:019ed6ea-b086-7dd8-b060-81a127705407",
-      "time": "2026-06-18 02:49:25",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)"
-      ],
-      "text": "Fed chair Kevin Warsh said the statement included the wording we prepared on inflation."
-    },
-    {
-      "id": "mkt:019ed6ea-8ccd-7dd8-b060-79f2c36b74eb",
-      "time": "2026-06-18 02:49:16",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "DXY",
-        "Impact bullish",
-        "US10Y",
-        "S&P500",
-        "Impact bearish"
-      ],
-      "text": "Fed Chair KEVIN WARSH said the Fed's commitment to achieving a 2% inf target is firm, consistent and clear."
-    },
-    {
-      "id": "4941680",
-      "time": "2026-06-18 02:49:09",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲主席沃什： 我們將扭轉過去五年通脹持續不達標的局面。"
-    },
-    {
-      "id": "4941679",
-      "time": "2026-06-18 02:48:52",
-      "tags": [
-        "央行",
-        "焦點",
-        "國際"
-      ],
-      "text": "美聯儲主席沃什： 實現 2% 通脹目標的承諾堅定、全體一致且立場明確。"
-    },
-    {
-      "id": "mkt:019ed6ea-2d6e-7dd8-b060-73230ec00fb5",
-      "time": "2026-06-18 02:48:51",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Macro & Rates",
-        "The Fed (FOMC)"
-      ],
-      "text": "Fed Chair Kevin Warsh said some of those changes may take the form of press conferences."
-    },
-    {
-      "id": "4941678",
-      "time": "2026-06-18 02:48:37",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲主席沃什：不想預判溝通審查的結果。對過去兩天同事們的開放態度印象深刻。"
-    },
-    {
-      "id": "mkt:019ed6e9-f1be-7dd8-b060-6f9e920a8cd0",
-      "time": "2026-06-18 02:48:36",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "US10Y",
-        "DXY",
-        "S&P500"
-      ],
-      "text": "Federal Reserve Chairman Kevin Warsh said he expects further changes."
-    },
-    {
-      "id": "mkt:019ed6e9-a7d5-7dd8-b060-62c919e5aa9b",
-      "time": "2026-06-18 02:48:17",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "Fed chair Kevin Warsh indicated future press conferences may depend on specific communication objectives."
-    },
-    {
-      "id": "mkt:019ed6e9-8e82-7dd8-b060-5d6746cd00d3",
-      "time": "2026-06-18 02:48:11",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)"
-      ],
-      "text": "Federal Reserve Chair Kevin Warsh said some future changes may warrant holding a press conference."
-    },
-    {
-      "id": "mkt:019ed6e9-5c14-7dd8-b060-5532ce4fc327",
-      "time": "2026-06-18 02:47:58",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Macro & Rates",
-        "The Fed (FOMC)"
-      ],
-      "text": "Fed Chair KEVIN WARSH said press conferences are a very effective means of communication and he hopes to use them to convey important information."
-    },
-    {
-      "id": "4941677",
-      "time": "2026-06-18 02:47:44",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲主席沃什： 其中部分最佳化方向很可能會涉及新聞釋出會機制。 將會推出一些新穎且有價值的調整方案，後續還會有更多相關舉措，其中部分內容值得召開新聞釋出會予以說明。"
-    },
-    {
-      "id": "mkt:019ed6e8-d906-7dd8-b060-4c7a4e881223",
-      "time": "2026-06-18 02:47:24",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)"
-      ],
-      "text": "Federal Reserve chair Kevin Warsh said he does not want to pre-judge the outcome of the communications review."
-    },
-    {
-      "id": "4941676",
-      "time": "2026-06-18 02:47:17",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲主席沃什：我預計未來還會有更多變革。"
-    },
-    {
-      "id": "mkt:019ed6e8-69b1-7dd8-b060-41874071d5f0",
-      "time": "2026-06-18 02:46:56",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)"
-      ],
-      "text": "Fed Chair Kevin Warsh said submitting his personal dot plot would not help policy implementation."
-    },
-    {
-      "id": "4941675",
-      "time": "2026-06-18 02:46:30",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲主席沃什： 在被問及新聞釋出會的存續規劃時稱，新聞釋出會是非常有效的政策溝通渠道。"
-    },
-    {
-      "id": "mkt:019ed6e7-e6fa-7dd8-b060-3b56d29f4a62",
-      "time": "2026-06-18 02:46:22",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)"
-      ],
-      "text": "Federal Reserve Chair Kevin Warsh said he was impressed by colleagues' openness over the past two days."
-    },
-    {
-      "id": "mkt:019ed6e7-d533-7dd8-b060-371ac230ac2f",
-      "time": "2026-06-18 02:46:18",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)"
-      ],
-      "text": "Fed chair Kevin Warsh said he has not heard strong conviction in participants' submitted forecasts."
-    },
-    {
-      "id": "4941674",
-      "time": "2026-06-18 02:46:05",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲主席沃什： 態度十分開放。 本人提交點陣預測值無益於政策制定工作。"
-    },
-    {
-      "id": "mkt:019ed6e7-7a76-7dd8-b060-2833d9f23b5b",
-      "time": "2026-06-18 02:45:54",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Macro & Rates",
-        "The Fed (FOMC)"
-      ],
-      "text": "Fed Chair Kevin Warsh said he expects a comprehensive review of Fed communications by year-end, covering press conferences, the dot plot and meeting schedules."
-    },
-    {
-      "id": "4941673",
-      "time": "2026-06-18 02:45:42",
-      "tags": [
-        "央行",
-        "焦點",
-        "國際"
-      ],
-      "text": "美聯儲主席沃什： 預計年底前將針對政策溝通機制開展全面評估，涵蓋新聞釋出會、點陣圖及議息會議相關安排。"
     }
   ]
 }
