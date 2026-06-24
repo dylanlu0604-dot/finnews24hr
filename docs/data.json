@@ -1,7 +1,64 @@
 {
-  "updated": "2026-06-24 23:44:57",
-  "count": 17271,
+  "updated": "2026-06-24 23:49:05",
+  "count": 17273,
   "items": [
+    {
+      "id": "4953155",
+      "time": "2026-06-24 23:48:20",
+      "tags": [
+        "其他"
+      ],
+      "text": "波音漲超2%。"
+    },
+    {
+      "id": "4953154",
+      "time": "2026-06-24 23:47:41",
+      "tags": [
+        "國際"
+      ],
+      "text": "訊息人士稱，特朗普政府正計劃推進向土耳其出售價值數億美元噴氣發動機的交易。"
+    },
+    {
+      "id": "4953153",
+      "time": "2026-06-24 23:47:38",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美軍在敘利亞打死一名“伊斯蘭國”重要頭目】美軍中央司令部24日稱，美軍於19日在敘利亞西北部發動空襲，打死一名“伊斯蘭國”重要頭目。 美軍中央司令部當天在社交媒體發表宣告說，美軍在空襲行動中打死“伊斯蘭國”重要頭目阿里·侯賽因·烏萊維。宣告稱，“這是美方持續努力的一部分，旨在打擊並消滅那些企圖襲擊海外美國人或美國本土的恐怖分子”。（新華社）"
+    },
+    {
+      "id": "4953152",
+      "time": "2026-06-24 23:46:26",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列總理內塔尼亞胡：未來十年，我們將為國防預算新增3500億謝克爾（合1172億美元）。為何如此？因為我希望以色列在武器製造領域儘可能實現自主。我要打造強大、自給自足的國防工業。我們會維繫現有同盟並進一步拓展合作，但首要前提是，我們必須擁有獨立自主的自保能力。"
+    },
+    {
+      "id": "4953151",
+      "time": "2026-06-24 23:45:47",
+      "tags": [
+        "其他"
+      ],
+      "text": "【中國氣象學家許健民獲頒國際氣象組織獎】世界氣象組織24日在日內瓦為中國工程院院士、中國氣象局衛星氣象專家許健民頒發第70屆國際氣象組織獎，表彰他為天氣預報、衛星氣象事業以及氣象業務服務作出的卓越貢獻。"
+    },
+    {
+      "id": "4953150",
+      "time": "2026-06-24 23:45:28",
+      "tags": [
+        "國際"
+      ],
+      "text": "印度民用航空安全域性（DGCA）表示，已對阿姆利則空管人員及印度航空機組人員採取臨時處分，原因是二人未上報該事件。"
+    },
+    {
+      "id": "4953149",
+      "time": "2026-06-24 23:44:55",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "印度民航監管機構表示，週一印度航空一架班機在接近阿姆利則時短暫進入了巴基斯坦領空。"
+    },
     {
       "id": "4953148",
       "time": "2026-06-24 23:42:09",
@@ -158146,58 +158203,6 @@
         "國際"
       ],
       "text": "【新加坡冬海集團悄然進軍美國市場，測試AI聊天機器人Migoo】新加坡網際網路領軍企業冬海集團(Sea Ltd.)正在包括美國在內的地區推出一款生成式人工智慧(AI)聊天機器人，這是該公司首次進軍競爭激烈的美國消費市場，加快AI佈局。據知情人士透露，這款名為Migoo的AI陪伴聊天機器人已經上線，可能很快會進行更大規模釋出。Migoo的網站和應用並未提及冬海為所有者。該應用直接接入蘋果iMessage等平臺，旨在充當高度個性化的陪伴型聊天機器人，能夠記住使用者的喜好和習慣。在美國，冬海的目標是利潤豐厚且競爭激烈的Z世代AI市場，該市場由OpenAI和位元組跳等公司主導"
-    },
-    {
-      "id": "mkt:019ed645-68b6-7dd8-b058-0d528cbf4af3",
-      "time": "2026-06-17 23:48:53",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "Commodities",
-        "Precious Metals",
-        "XAUUSD",
-        "Impact bullish",
-        "DXY",
-        "US10Y",
-        "Impact bearish"
-      ],
-      "text": "【Fed rate decision imminent; gold edges up】Gold ticked higher on Wednesday as markets awaited the Fed’s first policy decision under new chair Kevin Walsh and monitored details of a US‑Iran peace accord that could shift risk sentiment. Independent metals trader Tai Wong said: \"Buyers may be wagering Walsh will signal dovishness later, so gold is slowly climbing despite muted equities and firmer yields and the dollar.\" FXTM senior research analyst Lukman Otunuga said: \"If the $4,300 support holds, gold could push toward $4,350; a break below $4,300 could trigger selling toward the $4,250–$4,200/oz support band.\""
-    },
-    {
-      "id": "te:markets:559776",
-      "time": "2026-06-17 23:48:09",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Baltic Dry Index at Near 2-Month Low — The Baltic Exchange's dry bulk freight index, which monitors rates for ships carrying dry bulk commodities, was down for the third session on Wednesday, falling about 0.6% to its lowest since April 21 at 2,653 points. The decline reflected lower rates across the larger vessel segments. The capesize index, which typically transports 150,000-ton cargoes including iron ore and coal, fell about 0.9% to an over two-month low of 3,877 points; and the panamax index, which tracks vessels carrying around 60,000 to 70,000 tons of coal or grain, decreased 43 points to 2,223 points. On the other hand, the supramax index rose by 1.2% to 1,705 points."
-    },
-    {
-      "id": "4941439",
-      "time": "2026-06-17 23:47:00",
-      "tags": [
-        "公司"
-      ],
-      "text": "惠與（HPE）：Vultr為AI基礎設施選擇本公司和英偉達。"
-    },
-    {
-      "id": "4941438",
-      "time": "2026-06-17 23:46:56",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國前副總統彭斯： 對美伊諒解備忘錄存有 “極大擔憂”。"
-    },
-    {
-      "id": "mkt:019ed643-8c88-7dd8-b058-038287754c06",
-      "time": "2026-06-17 23:46:51",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Former U.S. Vice President Mike Pence said he is \"very concerned\" about a U.S.-Iran memorandum of understanding."
     }
   ]
 }
