@@ -1,7 +1,262 @@
 {
-  "updated": "2026-06-24 14:29:21",
-  "count": 17323,
+  "updated": "2026-06-24 14:33:21",
+  "count": 17338,
   "items": [
+    {
+      "id": "mkt:019ef854-8b28-7dd8-b0ee-1aa557877cda",
+      "time": "2026-06-24 14:32:30",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "N Zhenbao shares surged more than 1,200% in late trade, triggering an intraday trading suspension; market capitalization exceeded 90 bln yuan and profit per trading lot topped 230,000 yuan."
+    },
+    {
+      "id": "4951918",
+      "time": "2026-06-24 14:32:13",
+      "tags": [],
+      "text": "【新股N臻寶尾盤持續拉昇漲超1200％觸發臨停】新股N臻寶尾盤持續拉昇漲超1200％觸發臨停，每籤最高獲利超23萬元。"
+    },
+    {
+      "id": "4951917",
+      "time": "2026-06-24 14:32:07",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本財務大臣：中東局勢仍存不確定性，正持續關注相關影響。"
+    },
+    {
+      "id": "mkt:019ef853-9dec-7dd8-b0ee-116dcc923f02",
+      "time": "2026-06-24 14:31:29",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bearish",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "Reserve Bank of Australia deputy governor hauser said timely policy measures to lower inf could result in a smaller rise in unemployment."
+    },
+    {
+      "id": "4951916",
+      "time": "2026-06-24 14:31:24",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "南向資金淨買入額達80億港元。"
+    },
+    {
+      "id": "mkt:019ef853-67aa-7dd8-b0ee-0c23d0a02768",
+      "time": "2026-06-24 14:31:15",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "RESERVE BANK OF AUSTRALIA deputy governor hauser said the bank took forward-looking policy action, using rate hikes to ease excess capacity pressures."
+    },
+    {
+      "id": "4951915",
+      "time": "2026-06-24 14:31:12",
+      "tags": [
+        "市場",
+        "焦點",
+        "國際"
+      ],
+      "text": "【日韓股市收盤漲跌不一】日經225指數收跌0.88%，報69174.97點；韓國KOSPI指數收漲3.71%，報8507.81點。"
+    },
+    {
+      "id": "mkt:019ef853-1608-7dd8-b0ee-0560576752fd",
+      "time": "2026-06-24 14:30:55",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "Reserve Bank of Australia deputy governor Hauser said a fall in global oil prices would be a welcome development, but a full resolution of the conflict is not guaranteed."
+    },
+    {
+      "id": "mkt:019ef852-fdd2-7dd8-b0ed-feb66eaac3f9",
+      "time": "2026-06-24 14:30:48",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Reserve Bank of Australia deputy governor Hauser said the economic outlook has changed materially since May, particularly regarding prospects for a US-Iran agreement."
+    },
+    {
+      "id": "4951914",
+      "time": "2026-06-24 14:30:41",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "澳洲央行官員豪澤：及時採取政策措施降低通脹，可能以較小的失業成本為代價。"
+    },
+    {
+      "id": "4951913",
+      "time": "2026-06-24 14:30:38",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "澳洲央行官員豪澤：透過加息採取積極的政策行動，以減輕過度的產能壓力。"
+    },
+    {
+      "id": "4951912",
+      "time": "2026-06-24 14:30:35",
+      "tags": [
+        "央行",
+        "市場"
+      ],
+      "text": "澳洲央行官員豪澤：全球油價下跌將是受歡迎的發展，衝突的全面解決尚未得到保證。"
+    },
+    {
+      "id": "mkt:019ef852-c97d-7dd8-b0ed-f3fbebcf4632",
+      "time": "2026-06-24 14:30:35",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bearish",
+        "XAUUSD"
+      ],
+      "text": "hauser said the RESERVE BANK OF AUSTRALIA still needs to do more to reduce inf; current levels remain too high."
+    },
+    {
+      "id": "4951911",
+      "time": "2026-06-24 14:30:31",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "澳洲央行官員豪澤：自5月以來出現重要經濟發展，尤其是美伊達成協議的前景。"
+    },
+    {
+      "id": "te:markets:561389",
+      "time": "2026-06-24 14:30:26",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Iron Ore Gains as Hot Metal Production Picks Up — Iron ore futures rose above CNY 740 per ton, rebounding modestly from near one-year lows as hot metal production showed a slight recovery, with output restarts at some steel mills helping offset blast furnace maintenance at others. Bargain hunting and short covering also lent support to prices as near-term demand in top consumer China remained relatively resilient. Lower prices encouraged buying activity among steelmakers and traders, with daily transaction volumes for seaborne cargoes increasing sharply in recent sessions. However, the market continued to face headwinds from expectations of higher exports by major suppliers and a subdued demand outlook. Mining firms are expected to boost shipments this month to meet production targets, coinciding with a seasonal slowdown in steel consumption."
+    },
+    {
+      "id": "mkt:019ef852-a202-7dd8-b0ed-e83789aee103",
+      "time": "2026-06-24 14:30:25",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bearish",
+        "Nikkei 225",
+        "Impact bullish"
+      ],
+      "text": "Japanese Prime Minister Sanae Takaichi said the government will develop a strategy to position Japan as an asset-management nation."
+    },
+    {
+      "id": "te:markets:561387",
+      "time": "2026-06-24 14:30:08",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Japan",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The Nikkei 225 Index Closes 0.58% Lower — The Nikkei 225 Index fell 405 points or 0.58 percent on Wednesday to close at 69384 points. Leading the losses are T&D Holdings (-6.01%), Dai-ichi Life (-4.50%) and Nippon Express (-3.85%). Top gainers were Panasonic (6.31%), Citizen Holdings (4.83%) and J Front Retailing (4.30%)."
+    },
+    {
+      "id": "4951910",
+      "time": "2026-06-24 14:30:04",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本能源企業JERA董事長：伊朗戰爭中受損的卡達液化天然氣設施的修復工作可能需要兩年以上乃至三年時間才能完成。"
+    },
+    {
+      "id": "4951909",
+      "time": "2026-06-24 14:29:59",
+      "tags": [
+        "國際"
+      ],
+      "text": "【報道：伊朗石油部長前往印度參加金磚國家能源峰會】據伊朗國家電視臺報道，伊朗石油部長Mohsen Paknejad將出席在印度城市Gurugram舉行的金磚國家能源部長會議，並與印度對口官員會面。報道稱，預計Paknejad將與印度官員討論發展雙邊關係以及在石油、天然氣、煉油和石化領域的合作。"
+    },
+    {
+      "id": "4951908",
+      "time": "2026-06-24 14:29:56",
+      "tags": [
+        "其他"
+      ],
+      "text": "【外資獨角獸企業考慮在華建亞太區總部】6月24日，第十七屆夏季達沃斯論壇正在大連進行，談及今年達沃斯論壇的變化，黑湖科技創始人周宇翔表示，今年有大量外企參會，發現不少外企尤其外資獨角獸企業正考慮在中國建立亞太區總部，他們認為中國是不可忽視的市場。（中新網）"
+    },
+    {
+      "id": "mkt:019ef852-2b12-7dd8-b0ed-e4add928a30d",
+      "time": "2026-06-24 14:29:54",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "DXY"
+      ],
+      "text": "Sevastopol regional governor said a Ukrainian drone attack overnight damaged seven apartment buildings and sparked fires."
+    },
+    {
+      "id": "mkt:019ef851-b647-7dd8-b0ed-de403a3afad4",
+      "time": "2026-06-24 14:29:25",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "KATAYAMA, Japan's finance minister, said the United States may soon allow Japan to use ANTHROPIC's MYTHOS large AI model."
+    },
+    {
+      "id": "4951907",
+      "time": "2026-06-24 14:29:23",
+      "tags": [
+        "國際"
+      ],
+      "text": "克里米亞塞瓦斯托波爾州州長表示，烏克蘭夜間無人機襲擊造成七棟公寓樓受損，並引發多起火災。"
+    },
+    {
+      "id": "mkt:019ef851-4585-7dd8-b0ed-d42434dead30",
+      "time": "2026-06-24 14:28:56",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "SSE Composite",
+        "Impact bullish",
+        "Hang Seng Index",
+        "Copper"
+      ],
+      "text": "【Tianwan nuclear base cumulative on-grid generation tops 500 billion kWh】China National Nuclear Power’s Tianwan nuclear base in Lianyungang, Jiangsu has delivered cumulative on-grid generation exceeding 500 billion kWh, saving the equivalent of more than 150 mln tonnes of standard coal and cutting CO2 emissions by over 400 mln tonnes. The output equals annual electricity for about 136 mln Chinese households and could power the nation’s computing centers continuously for roughly 2.9 years."
+    },
+    {
+      "id": "4951905",
+      "time": "2026-06-24 14:28:53",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "日本能源合資企業JERA董事長：鑑於卡達液化天然氣設施恢復產能需要時間，且歐洲在冬季來臨前需要補充天然氣庫存，全球液化天然氣價格從當前水平進一步大幅下跌的可能性不大。"
+    },
+    {
+      "id": "4951904",
+      "time": "2026-06-24 14:28:45",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本財務大臣：美國或將很快允許日本使用 Anthropic 旗下 Mythos 大模型。"
+    },
     {
       "id": "4951903",
       "time": "2026-06-24 14:28:34",
@@ -158467,109 +158722,6 @@
         "Impact mixed"
       ],
       "text": "UK Chancellor Reeves said the Middle East war has driven up global prices, but the government's economic plan is appropriate and inf remains stable."
-    },
-    {
-      "id": "4940123",
-      "time": "2026-06-17 14:33:17",
-      "tags": [
-        "市場"
-      ],
-      "text": "【兆易創新午後封漲停續創歷史新高 A+H股總市值超4100億】午後A股兆易創新封漲停，續創歷史新高，兆易創新H股現漲超11%，A+H股總市值突破4100億。"
-    },
-    {
-      "id": "4940122",
-      "time": "2026-06-17 14:32:58",
-      "tags": [
-        "公司"
-      ],
-      "text": "【四川：1—5月全省規模以上工業增加值同比增長6.0%】1—5月，四川全省規模以上工業增加值同比增長6.0%，規模以上工業企業產品銷售率為95.1%。分三大門類看，採礦業增加值同比增長7.5%；製造業增長5.7%；電力、熱力、燃氣及水生產和供應業增長6.5%。分經濟型別看，國有控股企業增加值同比增長5.8%；股份制企業增長6.4%，外商及港澳臺商投資企業增長2.6%；私營企業增長3.4%。"
-    },
-    {
-      "id": "te:markets:559602",
-      "time": "2026-06-17 14:32:45",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "China",
-        "Currency",
-        "Importance 1"
-      ],
-      "text": "Offshore Yuan Holds Near a Multi-Year High — The offshore yuan traded around 6.75 per dollar on Wednesday, remaining close to its strongest level since February 2023 after the People's Bank of China unveils fresh measures designed to deepen global usage of the Chinese currency. The central bank said it will expand access to yuan liquidity through its Foreign and International Monetary Authorities (FIMA) repo facility, enabling foreign central banks, sovereign wealth funds, and other official institutions to borrow yuan against holdings of Chinese government bonds and other eligible securities. The announcement marks another step in Beijing's long-running campaign to internationalize the yuan and reduce reliance on the US dollar in global finance. Reflecting this ambition, China's latest five-year plan pledged to advance yuan internationalization, while President Xi Jinping has emphasized the objective of building a strong and influential global currency."
-    },
-    {
-      "id": "4940121",
-      "time": "2026-06-17 14:31:57",
-      "tags": [
-        "其他"
-      ],
-      "text": "中國地震臺網正式測定：06月17日14時28分在青海海西州直轄區（北緯37.83度，東經95.53度）發生3.8級地震，震源深度10千米。"
-    },
-    {
-      "id": "em:jjsj_ygsj:202606173774462338",
-      "time": "2026-06-17 14:31:45",
-      "tags": [
-        "經濟數據",
-        "英國"
-      ],
-      "text": "【英國5月CPI同比增長2.8%】英國國家統計局6月17日公佈，5月CPI同比上漲2.8%，漲幅與4月持平，低於經濟學家預期的3%。"
-    },
-    {
-      "id": "mkt:019ed447-5422-7dd8-b045-0fc93cc0233f",
-      "time": "2026-06-17 14:31:44",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Nikkei 225",
-        "Impact bullish"
-      ],
-      "text": "【Japan and South Korea stocks rise; Nikkei 225 hits fresh closing high】June 17 — Japan's Nikkei 225 closed up 497.75 points (+0.72%) at 69,902.25, marking a new closing high. South Korea's KOSPI closed up 137.64 points (+1.58%) at 8,864.24."
-    },
-    {
-      "id": "4940120",
-      "time": "2026-06-17 14:31:33",
-      "tags": [
-        "市場",
-        "焦點",
-        "國際"
-      ],
-      "text": "【日韓股市低開高走 日經225指數續創新高】日經225指數6月17日（週三）收盤上漲497.75點，漲幅0.72%，報69902.25點，續創收盤新高。韓國KOSPI指數6月17日（週三）收盤上漲137.64點，漲幅1.58%，報8864.24點。"
-    },
-    {
-      "id": "4940119",
-      "time": "2026-06-17 14:31:22",
-      "tags": [
-        "其他"
-      ],
-      "text": "拜耳完成對Perfuse Therapeutics的收購，交易總價值最高達24.5億美元，預付款為3億美元。"
-    },
-    {
-      "id": "te:markets:559600",
-      "time": "2026-06-17 14:30:10",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Japan",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The Nikkei 225 Index Closes 0.77% Higher — The Nikkei 225 Index rose 531 points or 0.77 percent on Wednesday to close at 69936 points. Leading the gains are Lasertec Corp (12.22%), Kawasaki (7.92%) and Sumitomo Osaka Cement (7.73%). Top losers were T&D Holdings (-2.90%), Olympus (-2.77%) and Japan Post (-2.76%)."
-    },
-    {
-      "id": "4940118",
-      "time": "2026-06-17 14:29:59",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【埃及擬擴建液化天然氣儲存設施 應對進口需求峰值】據知情人士透露，埃及國有天然氣企業埃及天然氣控股公司（EGAS）計劃引進一座浮式液化天然氣儲存裝置，以保障夏季用電高峰期的液化天然氣運輸接收能力。不願具名的知情人士表示，埃及天然氣控股公司計劃在 6、7 月至 9 月底期間租賃該儲存船，投放在艾因蘇赫納港或達米埃塔港，同時保留續租選擇權；相關人員未獲公開發言授權。"
-    },
-    {
-      "id": "mkt:019ed445-ad06-7dd8-b045-0682c06fd987",
-      "time": "2026-06-17 14:29:56",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Canada's Prime Minister Carney said a trade agreement with India will be completed before the November G20 summit."
     }
   ]
 }
