@@ -1,7 +1,39 @@
 {
-  "updated": "2026-06-24 23:12:03",
-  "count": 17241,
+  "updated": "2026-06-24 23:16:15",
+  "count": 17244,
   "items": [
+    {
+      "id": "4953117",
+      "time": "2026-06-24 23:15:18",
+      "tags": [
+        "公司"
+      ],
+      "text": "派拉蒙為推進收購華納交易，準備出售其與環球影業的合資公司資產。"
+    },
+    {
+      "id": "mkt:019efa31-0e95-7dd8-b0fe-0b45959c8b8a",
+      "time": "2026-06-24 23:12:59",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iran’s foreign ministry said Iran and Saudi Arabia reviewed recent regional and international developments and emphasized continuing consultations, maintaining diplomatic channels and bolstering joint cooperation to support regional stability, advance negotiations and secure positive, sustainable outcomes."
+    },
+    {
+      "id": "4953116",
+      "time": "2026-06-24 23:12:47",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗、沙特外長通電話，商討美伊談判最新進展。"
+    },
+    {
+      "id": "mkt:019efa30-b706-7dd8-b0fe-0763a69de22c",
+      "time": "2026-06-24 23:12:36",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iran's foreign minister Araghchi held a phone call with his Saudi counterpart on Wednesday evening, briefing him on the latest negotiation progress, implementation of agreed measures and consultations carried out under that framework."
+    },
     {
       "id": "mkt:019efa2f-20d2-7dd8-b0fd-fbb4883239b9",
       "time": "2026-06-24 23:10:52",
@@ -157905,18 +157937,6 @@
         "國際"
       ],
       "text": "普京會見汶萊蘇丹哈桑納爾。"
-    },
-    {
-      "id": "te:economy:559770",
-      "time": "2026-06-17 23:14:32",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Colombia",
-        "Consumer Confidence",
-        "Importance 1"
-      ],
-      "text": "Colombia Consumer Confidence Improves In May — Colombia’s Consumer Confidence Index rose 4.1 percentage points to 17.8% in May 2026 from April, supported by a 6.8 percentage point increase in the Consumer Expectations Index to 26.7%. Households’ economic outlook improved to 42.1% from 40.2%. Expectations for the general economy rose to 21.1% from 10.2%, while expectations for the country’s future economic conditions increased to 16.8% from 9.2%. Meanwhile, the Economic Conditions Index fell 0.1 percentage point. Assessments of households’ current economic situation weakened to 3.1% from 5.7%, while willingness to purchase durable goods rose to 5.8% from 3.3%. Compared to May 2025, the Consumer Confidence Index was up 21.6 percentage points."
     }
   ]
 }
