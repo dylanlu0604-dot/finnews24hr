@@ -1,7 +1,50 @@
 {
-  "updated": "2026-06-25 06:12:13",
-  "count": 16987,
+  "updated": "2026-06-25 06:17:18",
+  "count": 16986,
   "items": [
+    {
+      "id": "te:markets:561647",
+      "time": "2026-06-25 06:15:17",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "FX Updates: Norwegian Krone Drops by 0.59% — Top currency losers are Norwegian Krone (-0.59%), Mexican Peso (-0.38%), New Zealand Dollar (-0.33%), British Pound (-0.30%), Euro (-0.22%) and Japanese Yen (-0.14%). Gains are led by Indian Rupee (0.41%) and Dollar Index (0.17%)."
+    },
+    {
+      "id": "4953555",
+      "time": "2026-06-25 06:15:09",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【嚴控風格漂移，公募分階段糾偏“盲盒基金”】“盲盒基金”的整改進入倒計時。近期，基金投資風格監督自律規則出臺，劍指主題基金監督管理、嚴控風格漂移現象。上海證券報記者從業內瞭解到，部分公募機構快速響應，已按新規將風格糾偏工作分為“摸排，更新，調倉”三個階段，並有序推進。據第三方機構統計，當前公募主題基金規模近3萬億元，涉及約2500只基金。隨著糾偏工作推進，基民投資“開盲盒”的困擾將得到改善。（上證報）"
+    },
+    {
+      "id": "4953554",
+      "time": "2026-06-25 06:13:50",
+      "tags": [
+        "其他"
+      ],
+      "text": "德國地學研究中心GFZ：委內瑞拉沿海發生6.39級地震。"
+    },
+    {
+      "id": "4953553",
+      "time": "2026-06-25 06:13:38",
+      "tags": [
+        "其他"
+      ],
+      "text": "【2036年奧運會舉辦地2029年敲定 奧運設項評估轉向分項】國際奧委會第146次全會24日透過兩項重要改革方案，分別涉及奧運會舉辦地遴選程式和奧運專案設定方法。根據新的遴選程式，2036年奧運會舉辦地將於2029年產生；一套以競賽“分項”為基礎的評估新方法，則將為奧運專案設定注入更多靈活性。自去年6月接替前任主席巴赫執掌國際奧委會以來，考文垂啟動了以“適應未來”為主題的系列改革，最佳化奧運會舉辦地遴選程式正是其中的重要內容。此前，2028年奧運會和2032年奧運會的舉辦城市均提前11年產生。（央視新聞）"
+    },
+    {
+      "id": "mkt:019efbb0-abe9-7dd8-b105-f3166c574804",
+      "time": "2026-06-25 06:11:59",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "GFZ reported a magnitude 6.39 earthquake off Venezuela's coast."
+    },
     {
       "id": "mkt:019efbb0-832a-7dd8-b105-e868367308e0",
       "time": "2026-06-25 06:11:49",
@@ -155209,57 +155252,6 @@
         "國際"
       ],
       "text": "伊朗外交部發言人：我們將能夠從今天開始銷售石油，為期60天；關於諒解備忘錄執行機制的談判將立即開始。"
-    },
-    {
-      "id": "te:markets:559829",
-      "time": "2026-06-18 06:15:13",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Currency",
-        "Importance 1"
-      ],
-      "text": "FX Updates: Swedish Krona Drops by 1.49% — Top currency losers are Swedish Krona (-1.49%), Norwegian Krone (-1.40%), South Korean Won (-1.22%), British Pound (-1%), Euro (-0.91%) and Japanese Yen (-0.12%). Gains are led by Dollar Index (0.83%)."
-    },
-    {
-      "id": "mkt:019ed7a6-d4dd-7dd8-b065-6f4a8ba87eca",
-      "time": "2026-06-18 06:14:55",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Iran says MoU signed in Persian and English, both carry equal legal force】On the 18th, Iranian foreign ministry spokesman Baghaei said the memorandum of understanding was signed in Persian and English, a requirement Iran insists on to prevent subjective translation differences. Tehran regards the Persian and English texts as identical and carrying equal legal effect."
-    },
-    {
-      "id": "4941926",
-      "time": "2026-06-18 06:14:48",
-      "tags": [
-        "國際"
-      ],
-      "text": "【伊朗稱諒解備忘錄以兩種語言簽署 具有同等效力】當地時間18日，伊朗外交部發言人巴加埃表示，諒解備忘錄是以兩種語言簽署的，這一點非常重要，因為伊朗堅持，必須同時具備波斯語和英語兩個版本的文字。他稱，如果只有英文版本，可能會出現帶有主觀傾向的翻譯差異。波斯語文字與英文文字完全一致，在伊朗方面看來具有完全同等的法律效力。（央視新聞）"
-    },
-    {
-      "id": "mkt:019ed7a6-5621-7dd8-b065-6096bcaae945",
-      "time": "2026-06-18 06:14:22",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Iran’s Foreign Ministry spokesman said the 60-day period under the agreement begins today."
-    },
-    {
-      "id": "4941925",
-      "time": "2026-06-18 06:13:28",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗外交部發言人：根據協議文字，60天期限自今日起開始計算。"
-    },
-    {
-      "id": "4941924",
-      "time": "2026-06-18 06:12:44",
-      "tags": [
-        "國際"
-      ],
-      "text": "俄羅斯副外長阿里莫夫表示，莫斯科和德黑蘭正在聯合國協調行動，以期徹底解除對伊朗的制裁。"
     }
   ]
 }
