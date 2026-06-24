@@ -1,7 +1,95 @@
 {
-  "updated": "2026-06-24 22:06:56",
-  "count": 17272,
+  "updated": "2026-06-24 22:11:25",
+  "count": 17267,
   "items": [
+    {
+      "id": "mkt:019ef9f6-f639-7dd8-b0fb-dd5a69254a02",
+      "time": "2026-06-24 22:09:32",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y",
+        "Impact mixed",
+        "S&P500",
+        "Impact bullish"
+      ],
+      "text": "U.S. 30-year Treasury yield fell to 4.8572%, the lowest level since April 15."
+    },
+    {
+      "id": "te:markets:561581",
+      "time": "2026-06-24 22:08:47",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "Nvidia Stock Price Hits 7-week Low — Nvidia shares decreased to 199.32 USD, the lowest since May 2026. Over the past 4 weeks, Nvidia Corporation lost 7.09%, and in the last 12 months, it increased 29.36%."
+    },
+    {
+      "id": "4953008",
+      "time": "2026-06-24 22:08:21",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國 30 年期美債收益率跌至 4.8572%，創 4 月 15 日以來新低。"
+    },
+    {
+      "id": "4953007",
+      "time": "2026-06-24 22:07:55",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國郵政署告知國會，根據一項提案，該機構將不為不披露選民登記名單的各州遞送選票。"
+    },
+    {
+      "id": "mkt:019ef9f5-7730-7dd8-b0fb-d1c7ab37b071",
+      "time": "2026-06-24 22:07:54",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Market sources say the US will remove some individuals from a Russia-related sanctions list."
+    },
+    {
+      "id": "4953006",
+      "time": "2026-06-24 22:07:30",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：美國將部分個人從與俄羅斯相關的制裁名單中移除。"
+    },
+    {
+      "id": "te:economy:561577",
+      "time": "2026-06-24 22:07:01",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "New Home Sales",
+        "Importance 3"
+      ],
+      "text": "US New Home Sales Fall for 2nd Month — Sales of new single-family homes in the US tumbled 7.3% month-over-month to a seasonally adjusted annualized rate of 580 thousand in May 2026, the lowest in four months, following an upwardly revised 626 thousand in April and well below forecasts of 640 thousand. New home sales fell for a second straight month, mainly due to a 26.9% plunge in the West (to 117 thousand) and a 4.1% fall in the South (to 350 thousand). In contrast, sales rose 3% in the Northeast (to 34 thousand) and soared 16.2% in the Midwest (to 79 thousand)."
+    },
+    {
+      "id": "4953005",
+      "time": "2026-06-24 22:06:19",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "【機構：在AI相關擔憂之際，歐元信用違約保護成本微升】隨著對科技股估值的擔憂降低了對風險資產的偏好，為歐元計價信用債提供違約保險的成本上升。瑞訊銀行的Ipek Ozkardeskaya在一份報告中表示，投資者擔心科技公司的高估值，其中一些公司缺乏清晰的盈利途徑。市場等待美國科技公司美光科技的業績，該業績料將於週三美國股市收盤後釋出。該業績可能為AI相關的投資是否值得提供線索。標普全球市場財智資料顯示，歐元高收益信用違約掉期的iTraxx Europe Crossover指數上漲1個基點，報249個基點。"
+    },
+    {
+      "id": "4953004",
+      "time": "2026-06-24 22:06:09",
+      "tags": [
+        "其他"
+      ],
+      "text": "【迪拜連續五年成為全球綠地FDI首選地 一年吸金88.3億美元】fDi Markets資料庫釋出的資料顯示，迪拜連續第五年穩居全球綠地外商直接投資（FDI）專案首選目的地排名首位，在引入FDI的表現上創下其自2015年以來同期最佳水平之一。2025年迪拜吸引了88.3億美元（約324.3億迪拉姆）的綠地FDI資本，已公佈的綠地FDI專案總數增至1253個，較2024年增長10.5%。 (21財經)"
+    },
     {
       "id": "4953003",
       "time": "2026-06-24 22:05:22",
@@ -157996,122 +158084,6 @@
         "國際"
       ],
       "text": "特朗普：已與普京及烏克蘭總統澤連斯基舉行了建設性會談。"
-    },
-    {
-      "id": "4941269",
-      "time": "2026-06-17 22:11:19",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "【國家發展改革委、人力資源社會保障部有關負責人就《實施就業優先戰略“十五五”規劃》答記者問】近日，國務院印發《實施就業優先戰略“十五五”規劃》，明確了“十五五”時期深入實施就業優先戰略、促進高質量充分就業的思路目標、重點任務和政策舉措。為何印發規劃？規劃有哪些重點部署？國家發展改革委、人力資源社會保障部有關負責人17日回答了記者提問。（新華社）"
-    },
-    {
-      "id": "4941268",
-      "time": "2026-06-17 22:10:41",
-      "tags": [
-        "國際"
-      ],
-      "text": "印度總理莫迪：確保在和平協議中將海員安全列為優先事項。"
-    },
-    {
-      "id": "4941267",
-      "time": "2026-06-17 22:10:02",
-      "tags": [
-        "國際"
-      ],
-      "text": "印度總理莫迪：我認為印度海員的安全至關重要。"
-    },
-    {
-      "id": "4941266",
-      "time": "2026-06-17 22:09:40",
-      "tags": [
-        "其他"
-      ],
-      "text": "【我國水電裝機容量世界第一 我國建成全球最大清潔能源走廊】我國是水電大國，水電在我國能源版圖中佔有十分重要的地位。當前我國水電裝機容量已經達4.5億千瓦，居世界首位。白鶴灘水電站是世界第二大水電站，總裝機容量1600萬千瓦，一天的發電量可滿足1.48億人日常用電。如今，白鶴灘水電站已安全穩定執行2000多天，年均發電量約624億千瓦時，相當於節約標準煤超1800萬噸，減少二氧化碳排放超5100萬噸。我國已在長江流域建成世界最大“清潔能源走廊”。烏東德、白鶴灘、溪洛渡、向家壩、三峽和葛洲壩六座大型水電站，跨越1800公里，總裝機容量達7169.5萬千瓦，年發電量3000億千瓦時，減排二氧化碳約2.48億噸。不只是裝機容量增加，在新能源結構最佳化互補模式的探索中，水電也在扮演越來越重要的角色。四川甘孜州雅江縣，兩河口抽水蓄能電站正在建設，它是全球最大的混合式抽水蓄能電站。它將於2028年建成投產，預計每年可提供清潔電能14億度，能滿足60萬戶家庭全年用電需求，還能為兩河口周邊700萬千瓦級風光新能源提供靈活調節。（央視新聞）"
-    },
-    {
-      "id": "4941265",
-      "time": "2026-06-17 22:09:31",
-      "tags": [
-        "國際"
-      ],
-      "text": "印度總理莫迪：霍爾木茲海峽保持暢通對全球經濟至關重要。"
-    },
-    {
-      "id": "4941264",
-      "time": "2026-06-17 22:09:02",
-      "tags": [
-        "國際"
-      ],
-      "text": "印度總理莫迪：希望海灣地區實現永久和平。"
-    },
-    {
-      "id": "4941263",
-      "time": "2026-06-17 22:08:59",
-      "tags": [
-        "公司"
-      ],
-      "text": "斯泰蘭蒂斯集團執行長：所有合作關係都將採用同一架構，由我方持有51%的股份。"
-    },
-    {
-      "id": "4941262",
-      "time": "2026-06-17 22:08:54",
-      "tags": [
-        "市場"
-      ],
-      "text": "【滙豐：英國國債收益率未來幾個月可能進一步下降】滙豐的Daniela Russell在一份報告中表示，隨著通脹擔憂緩解，英國國債收益率預計將在未來幾個月進一步下降。Russell表示，短期英國國債收益率的下降速度可能會快於長期國債收益率。她說，預計到2026年底，10年期英國國債收益率將降至4.50%。Tradeweb的資料顯示，10年期國債收益率最新下跌5.5個基點，至4.750%，此前在英國通脹資料低於預期後，該收益率曾觸及4.734%的兩個月低點。"
-    },
-    {
-      "id": "4941261",
-      "time": "2026-06-17 22:08:19",
-      "tags": [
-        "國際"
-      ],
-      "text": "印度總理莫迪：很高興我們的團隊一直緊密協作，以達成各專案標。"
-    },
-    {
-      "id": "4941260",
-      "time": "2026-06-17 22:08:03",
-      "tags": [
-        "國際"
-      ],
-      "text": "烏克蘭國防部長表示，烏方正努力從拉姆斯坦合作陣營獲得額外200億美元資金。"
-    },
-    {
-      "id": "4941259",
-      "time": "2026-06-17 22:07:53",
-      "tags": [
-        "國際"
-      ],
-      "text": "印度總理莫迪：印美關係現已迎來全新發展速度與活力。"
-    },
-    {
-      "id": "4941258",
-      "time": "2026-06-17 22:07:35",
-      "tags": [
-        "國際"
-      ],
-      "text": "【瑞士為美伊諒解備忘錄簽字儀式加強安保措施】據瑞士聯邦政府網站訊息，瑞士聯邦委員會6月17日批准部署軍隊，為19日在瑞士比爾根山舉行的美國和伊朗諒解備忘錄簽字儀式提供安保支援，並在活動期間臨時關閉部分空域。（新華社）"
-    },
-    {
-      "id": "te:economy:559752",
-      "time": "2026-06-17 22:07:34",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "United States",
-        "Pending Home Sales MoM",
-        "Importance 2"
-      ],
-      "text": "US Pending Home Sales Jump 3.8% in May — US pending home sales surged 3.8% month-over-month in May 2026, following a downwardly revised 0.3% rise in April and exceeding market expectations of 0.8%. This marked the steepest monthly increase since September 2024, with gains across all regions: Northeast (+8.7%), Midwest (+8.1%), South (+1.0%), and West (+0.7%). Year-over-year, pending home sales rose 4.8%. NAR Chief Economist Dr. Lawrence Yun noted that a late spring buyer rush, even with mortgage rates holding steady above 6%, signals pent-up housing demand and growing acceptance of higher rates as the new normal. “The inventory-constrained Northeast region, which has seen faster home price growth but slower home sales for several months, is now showing more buyer contract signings. More supply is needed to help moderate home price growth,” he added."
-    },
-    {
-      "id": "4941257",
-      "time": "2026-06-17 22:07:00",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：莫迪是我的老朋友了。"
     }
   ]
 }
