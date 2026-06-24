@@ -1,7 +1,914 @@
 {
-  "updated": "2026-06-24 23:53:22",
-  "count": 17276,
+  "updated": "2026-06-25 00:42:19",
+  "count": 17240,
   "items": [
+    {
+      "id": "4953203",
+      "time": "2026-06-25 00:40:36",
+      "tags": [
+        "市場"
+      ],
+      "text": "特斯拉股價延續跌勢，跌至當日低點，下跌0.9%。"
+    },
+    {
+      "id": "mkt:019efa7f-2756-7dd8-b0ff-f9c0d31a05ee",
+      "time": "2026-06-25 00:38:17",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iraq's prime minister says ties with the United States will shift from a military relationship to an economic partnership."
+    },
+    {
+      "id": "mkt:019efa7e-e9fe-7dd8-b0ff-f31a95b08f26",
+      "time": "2026-06-25 00:38:01",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Market Regions",
+        "Emerging Markets",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "Brazil's oil regulator ANP head said domestic fuel prices are gradually easing after a preliminary U.S.-Iran agreement."
+    },
+    {
+      "id": "4953202",
+      "time": "2026-06-25 00:37:57",
+      "tags": [
+        "國際"
+      ],
+      "text": "巴西石油監管機構國家石油、天然氣和生物燃料局（ANP）局長表示，在美國與伊朗達成初步協議後，巴西國內燃油價格正逐步下降。"
+    },
+    {
+      "id": "mkt:019efa7e-c93c-7dd8-b0ff-ecd5828afe2a",
+      "time": "2026-06-25 00:37:53",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "German Chancellor Merz urged a NATO \"renewal\" after the E5 leaders' meeting."
+    },
+    {
+      "id": "te:economy:561624",
+      "time": "2026-06-25 00:34:33",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Russia",
+        "Industrial Production",
+        "Importance 1"
+      ],
+      "text": "Russia Industrial Output Declines — Industrial production in Russia declined by 0.7% year-on-year in May 2026, reversing a 1.9% gain in the previous month. Output declines were recorded in mining, extending a decline to 2.7% from 0.4% in the previous month, followed by weakened activity in the provision of electricity, gas and steam, air conditioning (-2.2% vs 0.9%) and water supply, sanitation, waste collection and disposal, pollution control activities (-3.4% vs 0.9%). Manufacturing growth slowed sharply, increasing only 0.5% compared to 3.1%. On a seasonally adjusted monthly basis, industrial production declined 0.8% in May, following an increase of 0.3% in the prior period."
+    },
+    {
+      "id": "4953201",
+      "time": "2026-06-25 00:34:29",
+      "tags": [
+        "其他"
+      ],
+      "text": "德國總理默茨出席E5國家領導人會晤後，呼籲北約進行“革新重塑”。"
+    },
+    {
+      "id": "te:markets:561623",
+      "time": "2026-06-25 00:34:20",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "Starbucks Stock Price Hits 4-week High — Starbucks shares increased to 103.70 USD, the highest since May 2026. Over the past 4 weeks, Starbucks gained 2.11%, and in the last 12 months, it increased 13.68%."
+    },
+    {
+      "id": "mkt:019efa7b-5499-7dd8-b0ff-e24375659272",
+      "time": "2026-06-25 00:34:06",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "【Rubio: Iran must honor commitments or Trump will act】U.S. Secretary of State Rubio called Washington’s 60-day sanctions waiver for Iran a temporary measure and said the U.S. expects Tehran to honor commitments made under the agreement. He warned that if Iran does not comply, President Trump has multiple options, including — Rubio said he was not asserting Trump would necessarily use them — reimposing sanctions. Rubio noted the commitments were made clearly in Switzerland and said compliance would allow the U.S. to proceed, while non‑compliance would prompt presidential responses."
+    },
+    {
+      "id": "4953200",
+      "time": "2026-06-25 00:33:47",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國駐義大利大使正進一步緩和兩國的緊張關係，他表示，儘管義大利總理梅洛尼與特朗普發生過公開爭執，但兩國關係“一切良好”。"
+    },
+    {
+      "id": "4953199",
+      "time": "2026-06-25 00:31:19",
+      "tags": [
+        "其他"
+      ],
+      "text": "如果方案獲批，搭載（本田、日產、三菱）標準化電子控制單元的車輛最早可於2029年或2030年上市。"
+    },
+    {
+      "id": "4953198",
+      "time": "2026-06-25 00:30:50",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場資訊：以色列與黎巴嫩討論移交領土的試點方案。"
+    },
+    {
+      "id": "mkt:019efa78-0aa7-7dd8-b0ff-df21a2c14c66",
+      "time": "2026-06-25 00:30:31",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Abu Dhabi National Oil Co (ADNOC) set July Murban crude official selling price (OSP) at $101.48 per barrel."
+    },
+    {
+      "id": "4953197",
+      "time": "2026-06-25 00:30:29",
+      "tags": [
+        "公司"
+      ],
+      "text": "阿聯酋阿布扎比國家石油公司（ADNOC）將7月穆爾班原油官方售價定在每桶101.48美元。"
+    },
+    {
+      "id": "4953196",
+      "time": "2026-06-25 00:28:33",
+      "tags": [
+        "其他"
+      ],
+      "text": "本田、日產、三菱就下一代汽車電子控制單元標準化進入最終談判階段。"
+    },
+    {
+      "id": "mkt:019efa75-f6e9-7dd8-b0ff-d61ecf9ee1ac",
+      "time": "2026-06-25 00:28:15",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC"
+      ],
+      "text": "Nikkei reports Honda, Nissan and Mitsubishi plan to standardize next-generation components to reduce costs."
+    },
+    {
+      "id": "mkt:019efa75-777d-7dd8-b0ff-cdb4d7a404cb",
+      "time": "2026-06-25 00:27:42",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iran Foreign Ministry spokesman BAGHAEI said ending US interference and occupation is the only way to secure genuine peace in West Asia."
+    },
+    {
+      "id": "4953195",
+      "time": "2026-06-25 00:27:24",
+      "tags": [
+        "國際"
+      ],
+      "text": "官方資料顯示，俄羅斯5月石油產品與焦炭產量同比下降13.5%。"
+    },
+    {
+      "id": "4953194",
+      "time": "2026-06-25 00:26:11",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國國務卿魯比奧：我沒有感受到（中東地區盟友）各方對我方安全保障存在任何疑慮，因為這些保障是實打實的。"
+    },
+    {
+      "id": "mkt:019efa72-779b-7dd8-b0ff-c2cc51d87d0d",
+      "time": "2026-06-25 00:24:26",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Colombia's president-elect said Colombia will restore and strengthen relations with Israel on an unprecedented scale."
+    },
+    {
+      "id": "mkt:019efa71-b79d-7dd8-b0ff-ba8977107551",
+      "time": "2026-06-25 00:23:36",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Alphabet",
+        "Market Themes",
+        "Magnificent 7",
+        "GOOG.O"
+      ],
+      "text": "Google (GOOG.O) introduced a \"computer usage\" feature in Gemini 3.5 Flash."
+    },
+    {
+      "id": "4953193",
+      "time": "2026-06-25 00:23:17",
+      "tags": [
+        "公司"
+      ],
+      "text": "谷歌：在Gemini 3.5 Flash模型中推出電腦使用功能。"
+    },
+    {
+      "id": "4953192",
+      "time": "2026-06-25 00:22:28",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗外交部發言人：沒人會被矇蔽。只要美國奉行軍國主義與干涉主義、其扶持的佔領代理人不受任何懲罰，持續在該地區挑起無休止戰爭、實施種族滅絕、恐怖暴力及各類暴行，這片地區就不可能迎來和平。"
+    },
+    {
+      "id": "4953191",
+      "time": "2026-06-25 00:21:44",
+      "tags": [
+        "國際"
+      ],
+      "text": "【魯比奧：霍爾木茲海峽必須保持“開放、自由通航”】美國國務卿魯比奧表示，美國不會採取任何有損波斯灣盟友安全的行動，並堅稱霍爾木茲海峽必須保持“開放、自由通航”。魯比奧此番表態發表於其出訪科威特城期間，在當地會見了科威特王儲謝赫·薩巴赫·哈立德·阿勒哈馬德·薩巴赫。此前伊朗相關衝突結束、霍爾木茲海峽恢復通航，華盛頓正力求安撫地區盟友。美伊諒解備忘錄雖已恢復霍爾木茲海峽的商業航運，但海峽管控相關爭端仍存，其中包括伊朗主張擁有通行許可審批權及未來徵收通航費的相關許可權。"
+    },
+    {
+      "id": "mkt:019efa6f-6eab-7dd8-b0ff-b2eb00e0b427",
+      "time": "2026-06-25 00:21:07",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Asked about U.S. intelligence assessments that Israel intends to undermine the existing memorandum of understanding, U.S. Secretary of State Rubio said: I don't know what intelligence you're referring to, nor do I know where those claims come from."
+    },
+    {
+      "id": "mkt:019efa6e-c3d6-7dd8-b0ff-a933c2a04407",
+      "time": "2026-06-25 00:20:23",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Rubio: US will not take actions that undermine Gulf allies' security】US Secretary of State Rubio said the Trump administration will remain fully aligned with Gulf partners as talks with Iran progress, will keep them informed and consult on any decisions from the negotiations, and will not take actions that undermine the security of long-standing allies during his regional visit."
+    },
+    {
+      "id": "4953190",
+      "time": "2026-06-25 00:20:07",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "記者：美國情報部門部分人員評估認為，以色列有意破壞當前這份諒解備忘錄。\n美國國務卿魯比奧：我不知道你說的是哪份情報，也不清楚你這些訊息從何而來。"
+    },
+    {
+      "id": "mkt:019efa6e-7fe4-7dd8-b0ff-a01df1108a8f",
+      "time": "2026-06-25 00:20:06",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "Iraq's prime minister said Iraq hopes OPEC will increase oil output in line with its production capacity and population size."
+    },
+    {
+      "id": "4953189",
+      "time": "2026-06-25 00:19:34",
+      "tags": [
+        "其他"
+      ],
+      "text": "伊拉克總理表示，伊拉克希望石油輸出國組織（歐佩克）按照本國的石油產能和人口規模上調伊拉克的石油產量配額。"
+    },
+    {
+      "id": "4953188",
+      "time": "2026-06-25 00:19:24",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國國務卿魯比奧：任何談判都是一個相互讓步、各有取捨的過程。本次措施僅為期60天，屬於臨時安排。因此我們要求伊朗履行其在瑞士作出的承諾。倘若對方未能兌現承諾，特朗普總統手中握有多種應對手段。"
+    },
+    {
+      "id": "4953187",
+      "time": "2026-06-25 00:18:20",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯5月份化肥產量同比下降3.7%。"
+    },
+    {
+      "id": "mkt:019efa6c-6906-7dd8-b0ff-9e92966f047d",
+      "time": "2026-06-25 00:17:49",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish"
+      ],
+      "text": "【Rubio reiterates Iran cannot levy fees for transit through Strait of Hormuz】According to Al Jazeera, US Secretary of State Rubio said the world will oppose any mechanism to charge fees for passage through international waterways, reiterating that Iran cannot levy fees for transit through the Strait of Hormuz. \"It's that simple. The president has said this will not happen,\" Rubio said, adding he believes Gulf states will support the position."
+    },
+    {
+      "id": "4953186",
+      "time": "2026-06-25 00:17:20",
+      "tags": [
+        "其他"
+      ],
+      "text": "法新社：本輪高溫熱浪來襲以來，法國已有超50個省份氣溫突破40攝氏度。"
+    },
+    {
+      "id": "4953185",
+      "time": "2026-06-25 00:16:02",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國：監測期結束，未發現漢坦病毒陽性病例。終止此次漢坦病毒暴露事件應急處置工作。"
+    },
+    {
+      "id": "mkt:019efa6a-4733-7dd8-b0ff-9279dd7112de",
+      "time": "2026-06-25 00:15:29",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Ukraine's national oil company says Russian strikes have severely damaged its gas production and storage facilities."
+    },
+    {
+      "id": "mkt:019efa6a-3375-7dd8-b0ff-8b909be5c1d2",
+      "time": "2026-06-25 00:15:24",
+      "tags": [
+        "MKT News",
+        "S&P500",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish",
+        "WTI"
+      ],
+      "text": "ZELENSKIY said relay stations used to coordinate strikes launched from Belarusian territory against Ukraine have ceased operating."
+    },
+    {
+      "id": "4953184",
+      "time": "2026-06-25 00:15:22",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "烏克蘭石油天然氣公司表示，俄羅斯的襲擊對其天然氣生產和儲存設施造成了嚴重破壞。"
+    },
+    {
+      "id": "mkt:019efa69-d96d-7dd8-b0ff-87ca557a0981",
+      "time": "2026-06-25 00:15:01",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Rubio said the US technical team will return to talks with Iran on the 30th of this month."
+    },
+    {
+      "id": "4953183",
+      "time": "2026-06-25 00:14:50",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "俄羅斯聯邦統計局表示，今年1-5月俄羅斯天然氣產量同比增長5.2%。"
+    },
+    {
+      "id": "te:markets:561622",
+      "time": "2026-06-25 00:14:14",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Italy",
+        "Stock Market",
+        "Importance 0"
+      ],
+      "text": "FTSE MIB Edges Lower — The FTSE MIB declined 0.8% to close at 51,639 on Wednesday, with sentiment weighed down by a combination of defensive sector weakness and ongoing tech pressure. Defense contractor Leonardo extended losses to 5% after reports that Germany is considering cancelling plans for its largest post–World War II warship in favor of purchasing eight smaller frigates from TKMS. Avio followed losing 4.2%. Semiconductor company STMicroelectronics edged lower by 0.5% while Prysmian declined 1.1%, as investors stayed cautious ahead of Micron earnings results for further conclusions on the sector. Contributing to the market decline, Unipol led losses in the banking sector with a 2.6% drop, followed by Banco BPM (-2.1%), UniCredit(-1.4%) and BPER Banca (-1.4%). Elsewhere, Ferrari recorded strong gains of 1.9%. Energy stocks were mixed, with Italgas down 1.2% and Enel 0.3%, and Snam up 1.6%."
+    },
+    {
+      "id": "4953182",
+      "time": "2026-06-25 00:13:46",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國國務卿魯比奧：相關技術性磋商目前僅在工作人員層級開展。"
+    },
+    {
+      "id": "mkt:019efa68-8b3e-7dd8-b0ff-78e6f99cc521",
+      "time": "2026-06-25 00:13:35",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "U.S. Secretary of State Rubio said technical teams are finalizing details of an agreement with Iran."
+    },
+    {
+      "id": "mkt:019efa68-4359-7dd8-b0ff-7093354c2ecb",
+      "time": "2026-06-25 00:13:17",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. Secretary of State Rubio said the United States will help the Lebanese government achieve full control of its territory."
+    },
+    {
+      "id": "mkt:019efa67-ea5c-7dd8-b0ff-6b84c3c1da4a",
+      "time": "2026-06-25 00:12:54",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent",
+        "S&P500",
+        "Impact bullish"
+      ],
+      "text": "US Secretary of State Rubio said when the US says it will open the Strait of Hormuz it means unobstructed free passage; the strait is an international waterway."
+    },
+    {
+      "id": "4953181",
+      "time": "2026-06-25 00:12:43",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國國務卿魯比奧：伊朗問題技術小組將於本月晚些時候重啟運作。"
+    },
+    {
+      "id": "mkt:019efa67-9775-7dd8-b0ff-67f4cf823328",
+      "time": "2026-06-25 00:12:33",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Rubio says the technical working group on Iran will return later this month."
+    },
+    {
+      "id": "4953180",
+      "time": "2026-06-25 00:12:25",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國國務卿魯比奧開啟為期三天的中東地區訪問。"
+    },
+    {
+      "id": "te:markets:561621",
+      "time": "2026-06-25 00:12:17",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Italy",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The FTSE MIB Index Closes 0.74% Lower — The FTSE MIB Index fell 385 points or 0.74 percent on Wednesday to close at 51639 points. Leading the losses are Leonardo SpA (-5.05%), Avio (-3.69%) and Eni (-3.28%). Top gainers were Diasorin (3.13%), Ferrari NV (2.06%) and Telecom Italia (1.62%)."
+    },
+    {
+      "id": "mkt:019efa66-f812-7dd8-b0ff-5bee0bad046a",
+      "time": "2026-06-25 00:11:52",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. Secretary of State Rubio said he hopes negotiations between Lebanon and Israel succeed."
+    },
+    {
+      "id": "mkt:019efa66-dcb5-7dd8-b0ff-564f3d416b41",
+      "time": "2026-06-25 00:11:45",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "Brent",
+        "DXY"
+      ],
+      "text": "US Secretary of State Rubio said Israel is in Lebanon because Hezbollah is launching attacks against Israel from there."
+    },
+    {
+      "id": "te:markets:561619",
+      "time": "2026-06-25 00:11:17",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Germany",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The DAX Index Closes 0.62% Lower — The DAX Index dropped 153 points or 0.62 percent on Wednesday to close at 24740 points. Losses were led by Rheinmetall (-19.06%), Deutsche Bank (-2.58%) and RWE (-2.50%). Offsetting the fall, top gainers were MTU Aero Engines AG (6.36%), Qiagen NV (4.60%) and Beiersdorf (3.79%)."
+    },
+    {
+      "id": "mkt:019efa66-602e-7dd8-b0ff-4a43d21ca47d",
+      "time": "2026-06-25 00:11:13",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Tesla",
+        "Market Themes",
+        "Magnificent 7",
+        "TSLA.O",
+        "Impact bearish"
+      ],
+      "text": "U.S. National Transportation Safety Board opens safety investigation into Tesla (TSLA.O) Model 3 crash on June 19."
+    },
+    {
+      "id": "4953179",
+      "time": "2026-06-25 00:10:36",
+      "tags": [
+        "國際"
+      ],
+      "text": "澤連斯基：俄羅斯部署在白俄羅斯境內的無人機訊號發射中繼站現已全部失效。"
+    },
+    {
+      "id": "4953178",
+      "time": "2026-06-25 00:10:22",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "美國國務卿魯比奧：霍爾木茲海峽不會收取通行費。"
+    },
+    {
+      "id": "te:markets:561617",
+      "time": "2026-06-25 00:10:17",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "France",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The CAC 40 Index Closes 0.54% Higher — The CAC 40 Index went up by 45 points or 0.54 percent on Wednesday to close at 8385 points. The rise was led by Saint-Gobain (3.31%), L'Oréal (3.05%) and Danone (2.84%). On the downside, the weakerst performers were TP (-4.85%), ArcelorMittal (-2.90%) and TotalEnergies SE (-1.96%)."
+    },
+    {
+      "id": "mkt:019efa65-28a6-7dd8-b0ff-42c54a200d2b",
+      "time": "2026-06-25 00:09:53",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. Secretary of State Rubio said talks between Lebanon and Israel will continue today and tomorrow."
+    },
+    {
+      "id": "mkt:019efa64-ab45-7dd8-b0ff-3ab5f7d6800e",
+      "time": "2026-06-25 00:09:21",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Al Jazeera reported Kuwait's Emir held discussions with U.S. Secretary of State Rubio on regional developments."
+    },
+    {
+      "id": "te:markets:561616",
+      "time": "2026-06-25 00:09:08",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "commodity",
+        "Importance 0"
+      ],
+      "text": "Cheese Hits 18-week Low — Cheese decreased to 1.55 USD/Lbs, the lowest since February 2026. Over the past 4 weeks, Cheese lost 3.99%, and in the last 12 months, it decreased 19.01%."
+    },
+    {
+      "id": "mkt:019efa64-4cf2-7dd8-b0ff-3421ab07a82d",
+      "time": "2026-06-25 00:08:57",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Rubio said the US expects Iran to fulfill its obligations."
+    },
+    {
+      "id": "4953177",
+      "time": "2026-06-25 00:08:53",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "美國國家運輸安全委員會（NTSB）針對6月19日特斯拉Model 3交通事故啟動安全調查。\n注：此次事故發生於美國得州凱蒂市，涉事Model 3高速撞入居民住宅，造成屋內一名76歲女性身亡。"
+    },
+    {
+      "id": "mkt:019efa64-0e6f-7dd8-b0ff-2d3b6833bc83",
+      "time": "2026-06-25 00:08:41",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. Secretary of State Rubio said U.S. security assurances to the Gulf region are 'concrete'."
+    },
+    {
+      "id": "mkt:019efa63-7eb6-7dd8-b0ff-2095f08ddaa2",
+      "time": "2026-06-25 00:08:04",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "US Secretary of State Rubio said if Iran closes the Strait of Hormuz, we have measures to respond."
+    },
+    {
+      "id": "4953176",
+      "time": "2026-06-25 00:07:52",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國國務卿魯比奧：美國與海灣國家關係穩固，我方感謝各國提供的支援，且所有與伊朗談判相關事宜都會同步告知海灣各國。"
+    },
+    {
+      "id": "mkt:019efa63-3cfe-7dd8-b0ff-1daee63b58da",
+      "time": "2026-06-25 00:07:48",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bearish",
+        "WTI",
+        "XAUUSD"
+      ],
+      "text": "AFP, citing a diplomat, reports Saudi Arabia is preparing to host a summit aimed at reconciling Iran and Gulf Arab states, following Iran's earlier attacks on neighboring countries."
+    },
+    {
+      "id": "te:markets:561614",
+      "time": "2026-06-25 00:07:47",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Germany",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "DAX Falls for 2nd Day — The DAX 40 closed about 0.7% down at 24,716 on Wednesday, extending losses from the prior day, dragged down by defense stocks, while investors awaited Micron’s quarterly results for clues on the semiconductor outlook. Meanwhile, investors continued to assess developments in US-Iran negotiations, with reports of improved traffic through the Strait of Hormuz offering some reassurance. Giant Rheinmetall plunged over 18%, the steepest fall on record, after the Merz government confirmed it was cancelling the purchase of six F126 anti-submarine frigates, a program worth €15.2 billion that was slated to become the largest acquisition project in the history of the German Navy. Other defense names, such as Renk and Hensoldt, slipped 7.9% and 4.3%, respectively. Berlin is now targeting the purchase of eight Meko frigates from TKMS, whose shares jumped more than 15% on the news. Meanwhile, MTU Aero Engines rose over 5% after JP Morgan reiterated its “Buy” rating."
+    },
+    {
+      "id": "te:markets:561613",
+      "time": "2026-06-25 00:07:17",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United Kingdom",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The FTSE 100 Index Closes 0.24% Higher — The FTSE 100 Index rose 25 points or 0.24 percent on Wednesday to close at 10454 points. Leading the gains are Segro (17.18%), B&M European Value (13.12%) and Berkeley (7.60%). Top losers were Endeavour (-3.61%), BP (-3.56%) and Glencore (-3.53%)."
+    },
+    {
+      "id": "mkt:019efa62-78e2-7dd8-b0ff-1437560502e9",
+      "time": "2026-06-25 00:06:57",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "US Secretary of State Rubio said the US has close ties with Gulf states, thanked them for their support and will keep them continuously informed on all matters related to negotiations with Iran."
+    },
+    {
+      "id": "4953175",
+      "time": "2026-06-25 00:06:45",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國國務卿魯比奧：堅持認為霍爾木茲海峽應保持開放與通航自由。"
+    },
+    {
+      "id": "4953174",
+      "time": "2026-06-25 00:06:29",
+      "tags": [
+        "公司"
+      ],
+      "text": "【OpenAI和博通開發首款定製化人工智慧晶片 比傳統GPU節省約50%成本】OpenAI釋出與博通合作開發的首款定製人工智慧晶片，試圖透過最佳化硬體來獲取競爭優勢。兩家公司週三表示，OpenAI已收到這款名為“Jalapeno”的晶片的首批樣品，正在測試其執行人工智慧任務的能力。博通執行長陳福陽在接受採訪時表示，目前這款AI加速器相比傳統AI圖形處理器(GPU)可節省約50%的成本。"
+    },
+    {
+      "id": "mkt:019efa62-00b1-7dd8-b0ff-092a44e6b63d",
+      "time": "2026-06-25 00:06:27",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "US Secretary of State Rubio said he insists the Strait of Hormuz should remain open and free."
+    },
+    {
+      "id": "mkt:019efa61-52a5-7dd8-b0ff-01b9a39c9644",
+      "time": "2026-06-25 00:05:42",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent",
+        "DXY"
+      ],
+      "text": "US Secretary of State Rubio said the US will not take actions that harm the security of Gulf allies."
+    },
+    {
+      "id": "4953173",
+      "time": "2026-06-25 00:05:21",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國國務卿魯比奧：美國不會採取任何損害海灣盟友安全的行動。"
+    },
+    {
+      "id": "4953172",
+      "time": "2026-06-25 00:04:56",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "“木頭姐”凱西·伍德：凱文·沃什委託開展了五項研究，從這些研究成果來看，我認為他既清楚生產力正在發揮的抑制通脹作用，也明白官方統計通脹資料存在缺陷。如今不少市場人士預判央行會更早、更大幅度加息，而我認為，沃什將為金融市場帶來一堂極具深度的貨幣政策公開課。"
+    },
+    {
+      "id": "4953171",
+      "time": "2026-06-25 00:04:35",
+      "tags": [
+        "市場"
+      ],
+      "text": "“木頭姐”凱西·伍德：我正在亞歐多地開展路演，各地投資者對通脹的擔憂讓我深有感觸。當我提出通脹可能會大幅回落，且下跌動因不只是油價時，他們都十分意外。以單位勞動力成本衡量，當前通脹同比增速已降至0.5%。"
+    },
+    {
+      "id": "4953170",
+      "time": "2026-06-25 00:02:40",
+      "tags": [
+        "資料",
+        "國際"
+      ],
+      "text": "俄羅斯第二季度消費者信心指數-13。"
+    },
+    {
+      "id": "4953169",
+      "time": "2026-06-25 00:02:24",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯5月工業產出同比下降0.7%。"
+    },
+    {
+      "id": "te:markets:561612",
+      "time": "2026-06-25 00:02:06",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United Kingdom",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "FTSE 100 Rises on Wednesday — The FTSE 100 advanced on Wednesday, outperforming major European equities due to strong corporate earnings and a massive real estate rally. Commercial property landlord Segro saw its shares surge over 15% after its board unequivocally rejected an all-share takeover proposal from American rival Prologis. Discount retailer B&M jumped over 13% following the appointment of former Asda executive Atheeq Akbar as its new chief financial officer, while housebuilder Berkeley climbed over 7% after full-year operating profits beat expectations. Large-cap heavyweights also provided vital support, with AstraZeneca and Unilever rising more than 2%, Rolls-Royce adding 1.5%, and British American Tobacco gaining 1.9%. However, these gains were capped by a broader commodity sell-off. Declining oil prices dragged Shell and BP down as much as 3.6%, while falling metal and gold prices pulled miners like Glencore, Antofagasta, Anglo American, Rio Tinto, Endeavour, and Fresnillo down between 1.7% and 3.6%."
+    },
+    {
+      "id": "4953168",
+      "time": "2026-06-25 00:01:45",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗官員稱，以色列是“該地區所有問題”的始作俑者。"
+    },
+    {
+      "id": "mkt:019efa5d-7272-7dd8-b0fe-fbbdf6e5fbfb",
+      "time": "2026-06-25 00:01:28",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Al Jazeera cited Iranian officials as saying Israel should be held responsible for \"the problems of the entire region.\""
+    },
+    {
+      "id": "4953167",
+      "time": "2026-06-25 00:01:25",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "俄羅斯消費者價格指數在6月第22周環比上漲0.25%。"
+    },
+    {
+      "id": "mkt:019efa5d-2b42-7dd8-b0fe-f7b8fb478577",
+      "time": "2026-06-25 00:01:10",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "Russia industrial output fell 0.7% YoY in May, versus market expectations for 1.6% growth."
+    },
+    {
+      "id": "mkt:019efa5b-ee80-7dd8-b0fe-e9a6a1f4fd7f",
+      "time": "2026-06-24 23:59:49",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "【Trump: U.S. to join IAEA inspections of Iran nuclear sites】Trump told Fox News on June 24 that U.S. personnel will participate in International Atomic Energy Agency inspections of Iranian nuclear facilities. He said Iran has agreed to allow inspectors in but has in the past agreed in writing and then reneged, and that he is not pushing for inspectors to enter Iran immediately."
+    },
+    {
+      "id": "4953166",
+      "time": "2026-06-24 23:59:15",
+      "tags": [
+        "國際"
+      ],
+      "text": "【特朗普：美方將參與國際原子能機構對伊朗核查行動】美國總統特朗普24日接受美國福克斯新聞頻道採訪時說，美方人員將參與國際原子能機構對伊朗核設施的核查行動。針對伊朗方面稱目前沒有允許國際原子能機構進入遭襲核設施的計劃，特朗普回應說，“他們會達成協議，將其寫成書面檔案，隨後又會出爾反爾，聲稱那並非事實”。特朗普表示：“他們已經同意了，同意核查人員進入。”他還說，並不急於讓核查人員立即進駐伊朗。（新華社）"
+    },
+    {
+      "id": "te:markets:561611",
+      "time": "2026-06-24 23:58:36",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Euro Area",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "European Stocks Close Mixed — European stock indices closed mixed on Wednesday as weakness for banks and the chip sector offset gains elsewhere. The Euro STOXX 50 dropped 0.2% to 6,215 while the STOXX Europe 600 inched higher to 635. US President Trump assured that Iran will not pressure vessels crossing the Strait of Hormuz for toll payments, solidifying the de-escalatory momentum and stretching the plunge in energy prices. Consequently, sovereign yields in the Eurozone retreated and lifted consumer discretionary companies, with Adidas, LVMH, Hermes, and Inditex rising up to 3%. Still, banks fell as markets took profits. In the meantime, Rheinmetall plunged 19% following reports that Germany plans to abandon proposals to build its largest warship since World War II and instead purchase eight smaller frigates from TKMS. Also, Argenx dropped over 7% on setbacks in its myositis drug trial update."
+    },
+    {
+      "id": "4953165",
+      "time": "2026-06-24 23:57:20",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "印度塔塔通訊表示，德里資料中心火災後，公司正盡最大努力推進後續恢復工作。"
+    },
+    {
+      "id": "mkt:019efa58-fd88-7dd8-b0fe-e2920aef4893",
+      "time": "2026-06-24 23:56:36",
+      "tags": [
+        "MKT News",
+        "TATACOMM.NS"
+      ],
+      "text": "Tata Communications said a June 5 fire at its Delhi data center prompted immediate activation of its business continuity plan, citing a force majeure."
+    },
+    {
+      "id": "4953164",
+      "time": "2026-06-24 23:56:17",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "印度塔塔通訊：對於所有訂購了災難恢復與備份服務的客戶，公司已能夠保障服務連續執行，或已完成服務恢復。"
+    },
+    {
+      "id": "4953163",
+      "time": "2026-06-24 23:56:12",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "印度塔塔通訊：6月5日德里資料中心火災發生後，公司立即啟動了針對不可抗力事件預設的業務連續性預案。"
+    },
+    {
+      "id": "4953162",
+      "time": "2026-06-24 23:55:43",
+      "tags": [
+        "國際"
+      ],
+      "text": "據TankerTrackers：自2026年6月15日起，伊朗已出口4000萬桶原油。其中總量的一半都集中在單日外運，也就是上週五（2026年6月19日）。"
+    },
+    {
+      "id": "mkt:019efa57-d891-7dd8-b0fe-d9c9833d2fea",
+      "time": "2026-06-24 23:55:21",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "Sources said due to refinery shutdowns Russia's oil exports from western ports are expected to hit a record 2.7 mln bpd in June."
+    },
+    {
+      "id": "4953161",
+      "time": "2026-06-24 23:54:31",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "【特朗普批評汽油價格下跌不夠快 稱已命令司法部展開調查】美國總統特朗普抱怨汽油價格下降速度不夠快，稱他已下令司法部調查汽油價格。“大型石油公司並沒有像他們支付的石油價格大幅下降那樣，相應地下調加油站的汽油價格，”他在社交媒體上發帖稱，“汽油價格最好能比我現在看到的降得快得多！”特朗普沒有詳述向司法部下達的指示。"
+    },
+    {
+      "id": "4953160",
+      "time": "2026-06-24 23:54:16",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "訊息人士稱，由於煉油廠維持閒置狀態，俄羅斯6月經西部港口出口的石油量將達到創紀錄的270萬桶/日。"
+    },
+    {
+      "id": "te:markets:561610",
+      "time": "2026-06-24 23:53:51",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "France",
+        "Stock Market",
+        "Importance 0"
+      ],
+      "text": "CAC 40 Rebounds on Luxury Sector Gains — The CAC 40 rose 0.5% to close at 8,385 on Wednesday, snapping a three-session losing streak as gains in the luxury sector supported the index. Luxury heavyweights outperformed after Jefferies raised L'Oreal’s target price to €328 from €323, while maintaining a “below market performance” recommendation and citing elevated profitability. Peers LVMH (+1.9%), Hermes (+1.5%), and Kering (+1%) also advanced. Investors remained focused on US-Iran peace negotiations amid signs of improving shipping activity through the Strait of Hormuz, although uncertainty persisted over whether Tehran would allow United Nations inspectors access to its nuclear facilities. Industrial stocks also traded higher, with Airbus up 0.9% and Safran gaining 2.2%. Meanwhile, Thales fell 1.2% as European defense stocks came under pressure after Rheinmetall plunged on reports that the German government may withdraw funding for a new warship project. Elsewhere, TotalEnergies lost 1.8% on lower oil prices."
+    },
+    {
+      "id": "4953159",
+      "time": "2026-06-24 23:53:18",
+      "tags": [
+        "其他"
+      ],
+      "text": "GE航空航天漲超2%。"
+    },
     {
       "id": "4953158",
       "time": "2026-06-24 23:51:13",
@@ -157051,1187 +157958,6 @@
         "國際"
       ],
       "text": "特朗普：3000 億美元相關資金的落實，前提是伊朗必須做出正確履約舉動。伊朗重建需要15到20年。"
-    },
-    {
-      "id": "4941510",
-      "time": "2026-06-18 00:42:14",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：美國只有在伊朗表現良好的情況下才會解除對伊朗的石油制裁。"
-    },
-    {
-      "id": "4941509",
-      "time": "2026-06-18 00:41:47",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：歐洲在移民和能源方面有些做法很糟糕。"
-    },
-    {
-      "id": "4941508",
-      "time": "2026-06-18 00:41:03",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：我們阻止了一場核浩劫。"
-    },
-    {
-      "id": "4941507",
-      "time": "2026-06-18 00:40:14",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：我對內塔尼亞胡說，以色列最大的風險是遭到核打擊，但這種情況不會發生。"
-    },
-    {
-      "id": "4941506",
-      "time": "2026-06-18 00:40:02",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：我認為以色列對這份伊朗協議感到滿意。"
-    },
-    {
-      "id": "4941505",
-      "time": "2026-06-18 00:39:42",
-      "tags": [
-        "國際"
-      ],
-      "text": "【特朗普：美伊諒解備忘錄可能在18日或19日簽署 】美國總統特朗普17日說，美伊諒解備忘錄可能在18日或19日簽署。（新華社）"
-    },
-    {
-      "id": "4941504",
-      "time": "2026-06-18 00:38:23",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "特朗普：墨西哥已經 “失去對本國的管控”，販毒集團實際掌控著墨西哥。"
-    },
-    {
-      "id": "4941503",
-      "time": "2026-06-18 00:37:36",
-      "tags": [
-        "國際"
-      ],
-      "text": "印度國家證券交易所提交印度本土 IPO 招股草案檔案。"
-    },
-    {
-      "id": "4941502",
-      "time": "2026-06-18 00:37:09",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【特朗普據悉計劃要求美國國防企業在歐洲生產導彈】知情官員透露，美國總統特朗普計劃要求美國國防企業在歐洲和烏克蘭進行武器的授權生產。週三，在法國舉行的七國集團(G7)峰會上，當被問及這些計劃時，特朗普對記者表示：“他們想這樣做，我們會對此進行研究。”烏克蘭需要防空能力，特別是攔截彈，而這類導彈只有美國能夠製造。但據匿名官員透露，由於美國在應對伊朗局勢時已消耗了大量庫存，加上提高產能需要時間，特朗普已向盟友表示將研究授權生產的可能性。“相關具體許可將由參與國進行詳細討論，”德國總理默茨週三告訴記者，“這確實涉及美國公司向歐洲製造商授予全面許可的問題。”法國總統馬克龍證實，特朗普“堅持動員美國國防工業以及供應此類裝備的能力”。"
-    },
-    {
-      "id": "4941501",
-      "time": "2026-06-18 00:36:26",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：我們必須對人工智慧非常謹慎。人工智慧既是好事，也可能是壞事。"
-    },
-    {
-      "id": "4941500",
-      "time": "2026-06-18 00:35:17",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：圍繞經濟、AI舉行了一些不錯的會議。"
-    },
-    {
-      "id": "4941499",
-      "time": "2026-06-18 00:35:11",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：與普京和澤連斯基進行了非常好的對話。認為俄羅斯和烏克蘭想要採取行動，但他們不知道該如何做。"
-    },
-    {
-      "id": "4941498",
-      "time": "2026-06-18 00:35:02",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：上週日與俄羅斯總統普京進行了交談。在G7會議上，討論了與普京通話的最新情況。俄羅斯計程車兵傷亡人數超過烏克蘭。認為普京和澤連斯基都希望在戰爭問題上有所行動。"
-    },
-    {
-      "id": "4941496",
-      "time": "2026-06-18 00:33:06",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "特朗普：過去兩天已同七國集團磋商其他核心議題。"
-    },
-    {
-      "id": "mkt:019ed66d-21d0-7dd8-b059-b87df29866fb",
-      "time": "2026-06-18 00:32:16",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "President Trump said Lebanon has been treated worse than any other country."
-    },
-    {
-      "id": "4941495",
-      "time": "2026-06-18 00:32:14",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：沙烏地阿拉伯若在各項協議上發揮領導作用，將對自身有利。"
-    },
-    {
-      "id": "mkt:019ed66c-c94c-7dd8-b059-b02898c2dca4",
-      "time": "2026-06-18 00:31:54",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "The Trump Trade"
-      ],
-      "text": "Trump said Saudi Arabia would benefit if it took a leading role in the agreement."
-    },
-    {
-      "id": "4941494",
-      "time": "2026-06-18 00:31:50",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：黎巴嫩總統將在未來一兩週內訪問美國。 黎巴嫩遭受的不公待遇遠超其他任何一方，希望擴大《亞伯拉罕協議》的覆蓋範圍。"
-    },
-    {
-      "id": "mkt:019ed66b-fa7a-7dd8-b059-a88a2807f468",
-      "time": "2026-06-18 00:31:01",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "U.S. President Trump said the Lebanese president will visit the United States within the next one to two weeks."
-    },
-    {
-      "id": "mkt:019ed66b-a292-7dd8-b059-a33818f2e246",
-      "time": "2026-06-18 00:30:38",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bearish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "U.S. President Trump said the agreement will end Iran's aggression and bring peace to Lebanon."
-    },
-    {
-      "id": "4941493",
-      "time": "2026-06-18 00:30:10",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：黎巴嫩和平只是拼圖中的一小部分。需要在黎巴嫩和平問題上多做一些工作。"
-    },
-    {
-      "id": "mkt:019ed66b-25ff-7dd8-b059-99ce1f46261c",
-      "time": "2026-06-18 00:30:06",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "President Trump said more needs to be done on the Lebanon peace issue."
-    },
-    {
-      "id": "mkt:019ed66b-1258-7dd8-b059-967dd4c1008b",
-      "time": "2026-06-18 00:30:01",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Trump: Lebanon peace is only a small piece of the puzzle."
-    },
-    {
-      "id": "mkt:019ed66b-0003-7dd8-b059-8e5ee6ec6088",
-      "time": "2026-06-18 00:29:56",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Trump says the US must work to address the Lebanon issue."
-    },
-    {
-      "id": "4941492",
-      "time": "2026-06-18 00:29:48",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：黎巴嫩問題需要加以解決。"
-    },
-    {
-      "id": "mkt:019ed66a-b067-7dd8-b059-87734236b9e4",
-      "time": "2026-06-18 00:29:36",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "XAUUSD",
-        "DXY"
-      ],
-      "text": "U.S. President Trump said he will seek to disarm Hamas."
-    },
-    {
-      "id": "mkt:019ed66a-9763-7dd8-b059-7d9bf0d60fb6",
-      "time": "2026-06-18 00:29:30",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "US President Trump said he hopes the peace agreement will mark the start of broader peace in the Middle East."
-    },
-    {
-      "id": "4941491",
-      "time": "2026-06-18 00:29:25",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：希望這份和平協議能成為中東大範圍和平的開端。"
-    },
-    {
-      "id": "4941490",
-      "time": "2026-06-18 00:29:11",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：試圖解除哈馬斯的武裝。"
-    },
-    {
-      "id": "mkt:019ed66a-0009-7dd8-b059-7120d8b87866",
-      "time": "2026-06-18 00:28:51",
-      "tags": [
-        "MKT News",
-        "LMT.O",
-        "Impact bullish"
-      ],
-      "text": "U.S. President Trump said he is ordering additional F-22 fighters."
-    },
-    {
-      "id": "mkt:019ed669-b28d-7dd8-b059-6e103d7f2ff6",
-      "time": "2026-06-18 00:28:31",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "President Trump said the agreement offers Iran a historic opportunity."
-    },
-    {
-      "id": "4941489",
-      "time": "2026-06-18 00:28:28",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：將增購一批 F-22 戰機。"
-    },
-    {
-      "id": "mkt:019ed669-9b7c-7dd8-b059-6284c178ce15",
-      "time": "2026-06-18 00:28:25",
-      "tags": [
-        "MKT News",
-        "Important",
-        "WTI",
-        "Impact bullish",
-        "XAUUSD"
-      ],
-      "text": "U.S. President Trump said keeping the Strait of Hormuz open is far less important than preventing Iran from possessing nuclear weapons."
-    },
-    {
-      "id": "4941488",
-      "time": "2026-06-18 00:28:13",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：相比霍爾木茲海峽，阻止伊朗擁有核武器更為重要。"
-    },
-    {
-      "id": "4941487",
-      "time": "2026-06-18 00:27:59",
-      "tags": [
-        "國際"
-      ],
-      "text": "【知情外交官稱流傳的美伊備忘錄非最終簽署文字】一名瞭解美伊備忘錄細節的地區外交官表示，目前流傳的14點備忘錄文字，並非美伊雙方於上週末簽署的正式文字。該外交官稱，相關媒體報道的內容實際上是一份5月形成的備忘錄草案。美國總統特朗普14日宣佈與伊朗達成停戰諒解備忘錄，正式簽字儀式將於19日在瑞士比爾根山舉行。 (央視新聞)"
-    },
-    {
-      "id": "mkt:019ed668-e5ec-7dd8-b059-5fa70904c185",
-      "time": "2026-06-18 00:27:39",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "President Trump said the agreement makes clear Iran will not possess nuclear weapons."
-    },
-    {
-      "id": "4941486",
-      "time": "2026-06-18 00:27:38",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：我們在某些事情上達成了共識，儘管沒有書面記錄。協議明確表明伊朗不會擁有核武器。"
-    },
-    {
-      "id": "mkt:019ed668-b594-7dd8-b059-5215a77927f9",
-      "time": "2026-06-18 00:27:26",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "US President Trump said they had reached a consensus on certain matters, though there was no written record."
-    },
-    {
-      "id": "4941485",
-      "time": "2026-06-18 00:27:24",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：感謝以色列及內塔尼亞胡為伊朗相關事務付出的努力。 如果伊朗不遵守協議，我們大機率會恢復轟炸，直到他們履約為止。"
-    },
-    {
-      "id": "mkt:019ed668-8f3b-7dd8-b059-4b5892695530",
-      "time": "2026-06-18 00:27:17",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "The Trump Trade"
-      ],
-      "text": "President Trump said the breakthrough would not have been possible without U.S. pressure."
-    },
-    {
-      "id": "mkt:019ed668-7943-7dd8-b059-4106f9401484",
-      "time": "2026-06-18 00:27:11",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Trump thanked Israel and Israeli Prime Minister Netanyahu for their efforts on Iran."
-    },
-    {
-      "id": "mkt:019ed668-4f2a-7dd8-b059-3e1bfda1413d",
-      "time": "2026-06-18 00:27:00",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "WTI",
-        "DXY"
-      ],
-      "text": "US President TRUMP said if they do not comply with the agreement, we may resume bombing them until they comply."
-    },
-    {
-      "id": "te:markets:559789",
-      "time": "2026-06-18 00:26:55",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Germany",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "DAX Rises for 5th Day — The DAX 40 ended marginally higher at 24,932 on Wednesday after a volatile session, its highest in nearly two weeks and marking a fifth straight gain. Market sentiment remained supported by optimism over a US-Iran interim peace deal, despite renewed threats from President Donald Trump toward Iran. Meanwhile, traders turned more cautious ahead of the Fed's policy announcement. While the US central bank is widely expected to hold rates steady, remarks from new Fed Chair Kevin Warsh will be closely scrutinized for clues on the policy outlook. Banks were the standout performers, with Commerzbank and Deutsche Bank surging 4.9% and 2.3%, respectively."
-    },
-    {
-      "id": "te:economy:559788",
-      "time": "2026-06-18 00:26:53",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Russia",
-        "GDP Annual Growth Rate",
-        "Importance 1"
-      ],
-      "text": "Russia GDP Contracts for 1st Time in 3 Years — The Russian GDP contracted by 0.2% from the previous year in the first quarter of 2026, aligned with the preliminary estimate to confirm the first annual decline since the first quarter of 2023. Output contracted for manufacturing (-1.5%), professional, scientific, and technical activities (-6.1%), and transportation and storage (-1.8%). The data was aligned with the government's downgrade of the year's expected GDP to 0.4% from an earlier estimate of 1.3%. The downturn occurred despite a sharp rise in the prices of key Russian exports, including oil, natural gas, coal, industrial metals, and grains, following disruptions to Middle Eastern shipping routes caused by the war. Economic activity also weakened even as the Duma ramped up deficit spending in an effort to support an economy still constrained by Western sanctions, which continue to isolate Russian producers and financial institutions from international markets."
-    },
-    {
-      "id": "mkt:019ed667-2291-7dd8-b059-346fe59bdf1a",
-      "time": "2026-06-18 00:25:43",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "President Trump thanked Pakistan and Qatar for their assistance in reaching the agreement."
-    },
-    {
-      "id": "mkt:019ed666-8acb-7dd8-b059-28dc64491374",
-      "time": "2026-06-18 00:25:04",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "U.S. President Trump said he will discuss ballistic missiles and terrorist proxies."
-    },
-    {
-      "id": "4941484",
-      "time": "2026-06-18 00:24:54",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：將商討彈道導彈、代理人相關議題。"
-    },
-    {
-      "id": "4941483",
-      "time": "2026-06-18 00:24:27",
-      "tags": [
-        "其他"
-      ],
-      "text": "捷藍航空：計劃裁撤紐瓦克機場空乘人員駐地，以及紐瓦克機場與拉瓜迪亞機場兩處技術運營基地。"
-    },
-    {
-      "id": "4941482",
-      "time": "2026-06-18 00:24:03",
-      "tags": [
-        "市場"
-      ],
-      "text": "【風力驟降致德國電價突破400歐元，創一年來新高】隨著風力發電量驟降，迫使市場不得不依賴成本更高的化石燃料發電，德國週四高峰時段的電價飆升至近一年來的最高水平。根據Epex Spot的資料，德國日前電力合約均價為每兆瓦時140歐元，而晚高峰時段的電價已攀升至400歐元以上。彭博社的模型預測顯示，週四晚8點，德國的風力發電量預計將降至1.5吉瓦的低谷。這一時段恰逢晚間用電需求高峰，同時也是太陽能發電逐漸消退的階段。"
-    },
-    {
-      "id": "4941481",
-      "time": "2026-06-18 00:23:56",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：與海灣國家討論非核問題。與海灣國家並行努力。"
-    },
-    {
-      "id": "mkt:019ed665-73a8-7dd8-b059-26c7bb1f0008",
-      "time": "2026-06-18 00:23:53",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "The Trump Trade"
-      ],
-      "text": "Trump says he is working in parallel with Gulf states."
-    },
-    {
-      "id": "mkt:019ed665-5b24-7dd8-b059-1eac32c3e989",
-      "time": "2026-06-18 00:23:47",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "President Trump said he discussed non-nuclear issues with Gulf states."
-    },
-    {
-      "id": "mkt:019ed664-fa3a-7dd8-b059-17f4ce026928",
-      "time": "2026-06-18 00:23:22",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "U.S. President Trump praised Iranians as smart and skilled negotiators."
-    },
-    {
-      "id": "4941480",
-      "time": "2026-06-18 00:23:11",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "特朗普：股市將繼續上漲。"
-    },
-    {
-      "id": "mkt:019ed664-bfeb-7dd8-b059-0fe5cef5a988",
-      "time": "2026-06-18 00:23:07",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "U.S. President Trump said maritime traffic through the Strait of Hormuz has risen sharply and that energy flows through the strait will resume in the coming days."
-    },
-    {
-      "id": "4941479",
-      "time": "2026-06-18 00:22:58",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普稱讚伊朗人聰慧，是出色的談判對手。"
-    },
-    {
-      "id": "4941478",
-      "time": "2026-06-18 00:22:35",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：霍爾木茲海峽的通航流量已經有所上升，海峽的能源流動將在未來幾天恢復。"
-    },
-    {
-      "id": "4941477",
-      "time": "2026-06-18 00:21:45",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：認為伊朗現任領導層等同於政權更迭。"
-    },
-    {
-      "id": "mkt:019ed663-80ea-7dd8-b059-04ee36580a3c",
-      "time": "2026-06-18 00:21:45",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "DXY"
-      ],
-      "text": "U.S. President Trump said the U.S. will provide Iran no funding or investment."
-    },
-    {
-      "id": "4941476",
-      "time": "2026-06-18 00:21:25",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普談及伊朗協議表示，在資金、投資方面，美國不會向伊朗做出任何讓步。"
-    },
-    {
-      "id": "mkt:019ed663-0667-7dd8-b058-fb49c09fff3b",
-      "time": "2026-06-18 00:21:14",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Themes",
-        "The Trump Trade"
-      ],
-      "text": "U.S. President Trump said technical talks on the nuclear stockpile will begin immediately."
-    },
-    {
-      "id": "4941475",
-      "time": "2026-06-18 00:21:12",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：不給伊朗錢。"
-    },
-    {
-      "id": "4941474",
-      "time": "2026-06-18 00:20:49",
-      "tags": [
-        "公司"
-      ],
-      "text": "CrowdStrike與亞馬遜旗下AWS擴大Project Quiltworks。"
-    },
-    {
-      "id": "4941473",
-      "time": "2026-06-18 00:20:28",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：有關核儲備的技術性磋商將即刻啟動。"
-    },
-    {
-      "id": "mkt:019ed661-aec4-7dd8-b058-f73dd7185c09",
-      "time": "2026-06-18 00:19:46",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "The Trump Trade"
-      ],
-      "text": "Trump: Iran's behavior has been very appropriate."
-    },
-    {
-      "id": "mkt:019ed661-6192-7dd8-b058-e95ffb96f00a",
-      "time": "2026-06-18 00:19:26",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "The Trump Trade"
-      ],
-      "text": "U.S. President Trump said he was very saddened by Lebanon."
-    },
-    {
-      "id": "4941472",
-      "time": "2026-06-18 00:19:16",
-      "tags": [
-        "資料",
-        "市場",
-        "國際"
-      ],
-      "text": "特朗普：我很同情黎巴嫩。"
-    },
-    {
-      "id": "mkt:019ed661-1fe8-7dd8-b058-e06f965b7008",
-      "time": "2026-06-18 00:19:09",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "U.S. President Trump said Israel could do better in dealing with Hezbollah."
-    },
-    {
-      "id": "mkt:019ed660-d283-7dd8-b058-ddab3f422cd8",
-      "time": "2026-06-18 00:18:49",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bearish",
-        "XAUUSD",
-        "S&P500",
-        "Impact bullish"
-      ],
-      "text": "President Trump said Iran has agreed not to produce or acquire nuclear weapons."
-    },
-    {
-      "id": "4941471",
-      "time": "2026-06-18 00:18:43",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：以色列在對待真主黨問題上可以做得更好。"
-    },
-    {
-      "id": "mkt:019ed660-b454-7dd8-b058-d21f0a44ae19",
-      "time": "2026-06-18 00:18:42",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "President Trump has sent a copy of a memorandum of understanding to Israel."
-    },
-    {
-      "id": "4941470",
-      "time": "2026-06-18 00:18:24",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "特朗普：向以色列傳送了一份伊朗核協議副本。"
-    },
-    {
-      "id": "mkt:019ed660-46bc-7dd8-b058-c9a08ad32fa1",
-      "time": "2026-06-18 00:18:14",
-      "tags": [
-        "MKT News",
-        "Important",
-        "WTI",
-        "Impact bearish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "Trump said a deal with Iran will be signed tomorrow or the day after; it could be signed on Friday."
-    },
-    {
-      "id": "4941469",
-      "time": "2026-06-18 00:17:32",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普談及伊朗協議：該協議很快將簽署，或許是週五。"
-    },
-    {
-      "id": "mkt:019ed65d-e963-7dd8-b058-c1dc5d0bc07e",
-      "time": "2026-06-18 00:15:39",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy"
-      ],
-      "text": "U.S. Interior Department says Invenergy will voluntarily terminate four offshore wind leases held by its subsidiaries in New York, California and the Gulf of Maine."
-    },
-    {
-      "id": "4941468",
-      "time": "2026-06-18 00:15:16",
-      "tags": [
-        "其他"
-      ],
-      "text": "內部備忘錄顯示， Meta 新任負責 “職場人工智慧” 轉型業務的產品主管即將離職。"
-    },
-    {
-      "id": "mkt:019ed65c-9f0b-7dd8-b058-bb3207d18662",
-      "time": "2026-06-18 00:14:14",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Themes",
-        "The Trump Trade",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "President Trump said if an Iran deal is not reached within 60 days the U.S. will resume bombing, adding he does not want to bomb Iran again but may have to."
-    },
-    {
-      "id": "4941467",
-      "time": "2026-06-18 00:13:54",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：我不想再次轟炸伊朗，但可能不得不這麼做。"
-    },
-    {
-      "id": "mkt:019ed65c-0885-7dd8-b058-b22ab10c1761",
-      "time": "2026-06-18 00:13:36",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "President Trump said he will publish the memorandum of understanding for review."
-    },
-    {
-      "id": "4941466",
-      "time": "2026-06-18 00:13:33",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "特朗普：若 60 天內無法敲定伊朗協議，將恢復轟炸行動。"
-    },
-    {
-      "id": "4941465",
-      "time": "2026-06-18 00:13:14",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：將釋出與伊朗相關的諒解備忘錄（MoU），從而讓你們可以瞭解情況。"
-    },
-    {
-      "id": "mkt:019ed65b-2fe6-7dd8-b058-a9a049990740",
-      "time": "2026-06-18 00:12:40",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "U.S. President Trump said his working relationship with Netanyahu is excellent."
-    },
-    {
-      "id": "te:markets:559787",
-      "time": "2026-06-18 00:12:16",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Italy",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The FTSE MIB Index Closes 0.31% Higher — The FTSE MIB Index rose 163 points or 0.31 percent on Wednesday to close at 52595 points. Leading the gains are Banco BPM SPA (2.92%), Saipem (2.87%) and Banca Mediolanum (2.31%). Top losers were Infrastrutture Wire (-3.12%), Stellantis N.V. (-3.08%) and Diasorin (-2.83%)."
-    },
-    {
-      "id": "4941464",
-      "time": "2026-06-18 00:11:38",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：內塔尼亞胡沒必要每次都把樓房夷為平地。"
-    },
-    {
-      "id": "mkt:019ed65a-31fe-7dd8-b058-a453c7fd491e",
-      "time": "2026-06-18 00:11:35",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "U.S. President Trump said Netanyahu does not need to blow up entire buildings every time."
-    },
-    {
-      "id": "4941463",
-      "time": "2026-06-18 00:11:18",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：我和內塔尼亞胡的合作關係非常棒。"
-    },
-    {
-      "id": "mkt:019ed659-f0e6-7dd8-b058-9c10dea4e5ac",
-      "time": "2026-06-18 00:11:18",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "U.S. President Trump said he and Netanyahu disagree on Lebanon."
-    },
-    {
-      "id": "te:markets:559786",
-      "time": "2026-06-18 00:11:16",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Germany",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The DAX Index Closes 0.10% Higher — The DAX Index gained 24 points or 0.10 percent on Wednesday to close at 24935 points. Gains were led by Commerzbank (5.18%), Bayer (4.80%) and HeidelbergCement (4.06%). Biggest losers were BMW (-8.34%), Mercedes-Benz AG (-4.48%) and Volkswagen (-3.68%)."
-    },
-    {
-      "id": "4941462",
-      "time": "2026-06-18 00:10:59",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：內塔尼亞胡有時會有點激動， 我和內塔尼亞胡在黎巴嫩問題上存在分歧。"
-    },
-    {
-      "id": "mkt:019ed659-a59c-7dd8-b058-92ede4c2c481",
-      "time": "2026-06-18 00:10:59",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "US President Trump said Israeli Prime Minister Netanyahu can sometimes appear a bit excitable."
-    },
-    {
-      "id": "mkt:019ed659-7fa3-7dd8-b058-8a38bbd0b4a9",
-      "time": "2026-06-18 00:10:49",
-      "tags": [
-        "MKT News",
-        "BA.O"
-      ],
-      "text": "Trump said Boeing's 757 is a great airplane."
-    },
-    {
-      "id": "4941461",
-      "time": "2026-06-18 00:10:43",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：波音 757 是一款很棒的飛機。"
-    },
-    {
-      "id": "te:markets:559785",
-      "time": "2026-06-18 00:10:16",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "France",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The CAC 40 Index Closes 0.20% Lower — The CAC 40 Index decreased 16 points or 0.20 percent on Wednesday to close at 8431 points. The decline was led by Essilor (-4.32%), Orange (-3.23%) and Stellantis NV (-3.21%). On the upside, the strongest performers were Legrand (4.33%), TP (2.48%) and Schneider Electric (1.97%)."
-    },
-    {
-      "id": "te:markets:559784",
-      "time": "2026-06-18 00:09:03",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Euro Area",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "European Stocks Rise to Fresh Records — European stock indices rose for a fifth session to new records on Wednesday with further support from softer pro-inflationary risks. The Euro STOXX 50 rose by 0.6% to 6,297 and the STOXX Europe 600 rose 0.5% to 639. Sovereign yields fell further as Iran and the US maintained their intent to sign an agreement that restores energy trade from the Middle East this Friday. Energy prices pulled back and scaled down expectations that the ECB would be forced to raise interest rates this year. Banks led the gains for another session amid the improved credit outlook, with Santander, UniCredit, and Deutsche Bank gaining 2.5%. On the other hand, BMW shares fell more than 6% after the carmaker cut its guidance, citing worsening conditions in the Chinese market and the broader impact of the Middle East conflict."
-    },
-    {
-      "id": "te:markets:559783",
-      "time": "2026-06-18 00:07:16",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United Kingdom",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The FTSE 100 Index Closes 0.10% Higher — The FTSE 100 Index rose 10 points or 0.10 percent on Wednesday to close at 10504 points. Leading the gains are Endeavour (4.48%), Barclays (3.40%) and Persimmon (3.25%). Top losers were Entain (-4.45%), Marks & Spencer (-3.28%) and Halma (-3.13%)."
-    },
-    {
-      "id": "mkt:019ed656-2c0b-7dd8-b058-83f9c43e6c1a",
-      "time": "2026-06-18 00:07:12",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "U.S. President Trump praised French President Macron."
-    },
-    {
-      "id": "4941460",
-      "time": "2026-06-18 00:06:39",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普讚揚馬克龍。"
-    },
-    {
-      "id": "mkt:019ed655-06b7-7dd8-b058-7f1c25b4fbc6",
-      "time": "2026-06-18 00:05:56",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Themes",
-        "The Trump Trade"
-      ],
-      "text": "Trump: The stock market understands matters better than anyone."
-    },
-    {
-      "id": "4941459",
-      "time": "2026-06-18 00:05:11",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：股市表現遠超所有人預期。"
-    },
-    {
-      "id": "mkt:019ed654-4a2c-7dd8-b058-76168d325166",
-      "time": "2026-06-18 00:05:08",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "The Trump Trade"
-      ],
-      "text": "Trump says he does not want to see an economic disaster."
-    },
-    {
-      "id": "mkt:019ed654-350d-7dd8-b058-6b16138e40c6",
-      "time": "2026-06-18 00:05:03",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Trump says he believes Iran's behavior will change significantly."
-    },
-    {
-      "id": "4941458",
-      "time": "2026-06-18 00:04:59",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：我不願目睹經濟災難發生。"
-    },
-    {
-      "id": "4941457",
-      "time": "2026-06-18 00:04:49",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：我認為伊朗今後的行事作風將會大為改觀。"
-    },
-    {
-      "id": "mkt:019ed653-fcc7-7dd8-b058-6179c11cf139",
-      "time": "2026-06-18 00:04:48",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Brazil's finance minister Durigan said he is highly concerned about inflation. Recent fuel measures underscore the government's focus on inflation."
-    },
-    {
-      "id": "4941455",
-      "time": "2026-06-18 00:03:52",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：過去兩天提供了與盟友討論伊朗問題的機會，與盟友討論了伊朗協議的細節，各方對我們達成協議感到非常高興。"
-    },
-    {
-      "id": "mkt:019ed653-1895-7dd8-b058-5c8b5d5a9c13",
-      "time": "2026-06-18 00:03:50",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "The Trump Trade"
-      ],
-      "text": "President Trump: They are very excited about the deal we reached."
-    },
-    {
-      "id": "mkt:019ed652-ea6e-7dd8-b058-50a0942e5d1e",
-      "time": "2026-06-18 00:03:38",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "US President Trump said he discussed details of the Iran deal with allies."
-    },
-    {
-      "id": "mkt:019ed652-deb1-7dd8-b058-4c811cc200ed",
-      "time": "2026-06-18 00:03:35",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "Trump said bombing would continue for weeks if no deal is reached with Iran."
-    },
-    {
-      "id": "mkt:019ed652-a87d-7dd8-b058-4225220dd287",
-      "time": "2026-06-18 00:03:21",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "U.S. President Trump said the past two days provided an opportunity to consult with allies on Iran."
-    },
-    {
-      "id": "4941454",
-      "time": "2026-06-18 00:03:14",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：若未與伊朗達成協議，他會持續轟炸伊朗數週。"
-    },
-    {
-      "id": "mkt:019ed652-3455-7dd8-b058-3b7a4e26fd44",
-      "time": "2026-06-18 00:02:51",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "The Trump Trade"
-      ],
-      "text": "US President Trump defended the Iran deal at the conclusion of the G7 summit."
-    },
-    {
-      "id": "mkt:019ed651-d558-7dd8-b058-30086a5f0ad6",
-      "time": "2026-06-18 00:02:27",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "DXY",
-        "WTI"
-      ],
-      "text": "HEZBOLLAH leader rejects U.S.-brokered no-fly zone agreement between Lebanon and Israel."
-    },
-    {
-      "id": "4941453",
-      "time": "2026-06-18 00:01:55",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普重申與伊朗的協議將令霍爾木茲海峽重新開放。"
-    },
-    {
-      "id": "mkt:019ed651-31c0-7dd8-b058-2a804bbd98f0",
-      "time": "2026-06-18 00:01:45",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "U.S. President Trump will pay fees to Invenergy to cancel an offshore wind lease agreement."
-    },
-    {
-      "id": "4941452",
-      "time": "2026-06-18 00:01:37",
-      "tags": [
-        "國際"
-      ],
-      "text": "俄羅斯一季度GDP初值同比下降0.2%。"
-    },
-    {
-      "id": "4941451",
-      "time": "2026-06-18 00:01:17",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "美國總統特朗普將因“取消海上風電租賃協議”而向Ivenergy支付賠償金。"
-    },
-    {
-      "id": "4941450",
-      "time": "2026-06-18 00:00:44",
-      "tags": [
-        "國際"
-      ],
-      "text": "黎巴嫩真主黨領導人拒絕接受由美國斡旋的黎以之間達成的空中禁區協議。"
-    },
-    {
-      "id": "te:markets:559780",
-      "time": "2026-06-18 00:00:15",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "France",
-        "Stock Market",
-        "Importance 0"
-      ],
-      "text": "CAC 40 Slips As Luxury Stocks Weigh — The CAC 40 edged down 0.2% to close at 8,431 on Wednesday as investors paused after recent gains tied to the US-Iran peace agreement. The deal is expected to be signed on Friday, paving the way for the reopening of the Strait of Hormuz and an end to hostilities. With the Federal Reserve widely expected to keep interest rates unchanged, investors are now focused on the central bank’s signals for the future path of monetary policy. Luxury stocks led losses, with LVMH down 1.8% and Hermès falling 1.3%. STMicroelectronics lost 0.8%, trimming earlier gains after announcing a $1.5 billion convertible bond sale. Financials moved higher as bond yields eased on lower energy-driven inflation concerns, with BNP Paribas up 1.2% and Crédit Agricole adding 1.6%. Industrial stocks also advanced, led by Schneider Electric, up 2.1%, and Airbus, which gained 0.9%."
-    },
-    {
-      "id": "mkt:019ed64f-ac7b-7dd8-b058-25e1514beed3",
-      "time": "2026-06-18 00:00:06",
-      "tags": [
-        "MKT News",
-        "Important",
-        "WTI",
-        "Impact bearish",
-        "Brent",
-        "S&P500",
-        "Impact bullish"
-      ],
-      "text": "U.S. President Trump said the strait will be fully opened soon."
-    },
-    {
-      "id": "4941449",
-      "time": "2026-06-17 23:59:50",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：伊朗協議是一項非常強有力的交易，海峽很快將全面開放。"
-    },
-    {
-      "id": "mkt:019ed64f-2c9b-7dd8-b058-1b63ccc2f8ca",
-      "time": "2026-06-17 23:59:33",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "US President Trump said the Iran deal is a very strong deal."
-    },
-    {
-      "id": "4941448",
-      "time": "2026-06-17 23:59:28",
-      "tags": [
-        "市場"
-      ],
-      "text": "【法意西希四國主權債週三大致持穩】週三（6月17日）歐市尾盤，法國10年期國債收益率漲0.4個基點，報3.666%，日內整體持穩於3.665%附近，在一波瞬間衝高回落行情中、北京時間22:47達到3.686%。\n兩年期法債收益率漲1.8個基點，報2.749%，22:47曾達到2.761%；30年期法債收益率跌0.9個基點，報4.454%。\n義大利10年期國債收益率跌0.3個基點，報3.624%。\n西班牙10年期國債收益率跌0.3個基點，報3.344%。\n希臘10年期國債收益率跌0.4個基點，報3.587%。"
-    },
-    {
-      "id": "4941447",
-      "time": "2026-06-17 23:59:07",
-      "tags": [
-        "國際"
-      ],
-      "text": "俄羅斯外交部長拉夫羅夫： 烏克蘭武裝部隊蓄意襲擊載有兒童的巴士，意圖製造恐慌。"
-    },
-    {
-      "id": "4941446",
-      "time": "2026-06-17 23:58:37",
-      "tags": [
-        "國際"
-      ],
-      "text": "真主黨：與以色列敵方談判的底線是雙方共同安全，任何解除我方武裝的方案都絕不會接受。"
-    },
-    {
-      "id": "4941445",
-      "time": "2026-06-17 23:57:52",
-      "tags": [
-        "其他"
-      ],
-      "text": "達美航空：決定為旗下波音 737-800、737-900ER 機隊加裝鰭片裝置，體現航司持續致力於降低燃油消耗。"
-    },
-    {
-      "id": "4941444",
-      "time": "2026-06-17 23:57:18",
-      "tags": [
-        "公司"
-      ],
-      "text": "達美航空：公司將為旗下全部波音 737-800 與 737-900ER 機隊加裝渦流控制技術公司研發的 Finlet 改裝套件。"
-    },
-    {
-      "id": "4941443",
-      "time": "2026-06-17 23:54:53",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【埃克森美孚將向南非供應LNG，助其降低對煤炭的依賴】埃克森美孚公司達成一項初步協議，將向南非輸送液化天然氣（LNG），以鞏固該國高度依賴煤炭的電網，並提振工業增長。根據週三由荷蘭皇家孚寶公司（Koninklijke Vopak NV）與南非國有企業Transnet共同開發的擬建專案方釋出的宣告，這家美國公司已簽署協議要點，計劃透過位於該國東海岸工業城市理查茲灣的祖魯蘭能原始碼頭（Zululand Energy Terminal）進口LNG。"
-    },
-    {
-      "id": "4941442",
-      "time": "2026-06-17 23:53:51",
-      "tags": [
-        "公司",
-        "市場",
-        "觀點",
-        "國際"
-      ],
-      "text": "美國大型銀行股價創下歷史新高， 摩根士丹利上漲 2.6%，高盛上漲 2.3%，花旗集團上漲 1.8% 。"
-    },
-    {
-      "id": "mkt:019ed649-f455-7dd8-b058-13eaff7c39d0",
-      "time": "2026-06-17 23:53:51",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "US Economy",
-        "MS.O",
-        "Impact bullish",
-        "GS.O",
-        "C.O"
-      ],
-      "text": "U.S. large-bank shares rose; Morgan Stanley up 2.6%, Goldman Sachs up 2.3%, Citigroup up 1.8%."
-    },
-    {
-      "id": "te:markets:559778",
-      "time": "2026-06-17 23:53:39",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Italy",
-        "Stock Market",
-        "Importance 0"
-      ],
-      "text": "FTSE MIB Rises on Financial Sector Strength — The FTSE MIB rose 0.3% to close at 52,595 on Wednesday as markets awaited confirmation of the US-Iran peace agreement and the US Federal Reserve’s monetary policy outlook. Iran and the US remained on track to sign the deal on Friday, despite lingering uncertainty over the terms. Oil prices hovered near a three-month low amid prospects of the reopening of the Strait of Hormuz and the International Energy Agency warning of a supply overhang next year. Bond yields edged lower as energy-driven inflation concerns eased. Financial stocks led gains, with UniCredit up 2.2%, BPER Banca rising 1%, Banco BPM gaining 2.4%, and Intesa Sanpaolo adding 0.7%. UniCredit’s buyout offer for Commerzbank officially ended on June 16, lifting its overall stake to 42.4% after a 12.41% take-up. The German government reiterated its opposition and formally rejected the offer. Investors now have two additional weeks to tender shares, with final results due on July 8. Approval from the ECB is still required."
     }
   ]
 }
