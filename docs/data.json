@@ -1,7 +1,51 @@
 {
-  "updated": "2026-06-25 06:34:00",
-  "count": 16989,
+  "updated": "2026-06-25 06:38:02",
+  "count": 16988,
   "items": [
+    {
+      "id": "4953573",
+      "time": "2026-06-25 06:36:38",
+      "tags": [
+        "國際"
+      ],
+      "text": "NHK稱日本地震沒有引發海嘯威脅。"
+    },
+    {
+      "id": "4953572",
+      "time": "2026-06-25 06:35:22",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "日本北部發生6.9級地震，東京有震感。"
+    },
+    {
+      "id": "te:markets:561649",
+      "time": "2026-06-25 06:35:17",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Metals Commodities Updates: Silver Slumps by 6.24% — Top commodity losers are Silver (-6.24%), Platinum (-4.51%) and Gold (-2.66%). Gains are led by Iron Ore CNY (0.74%)."
+    },
+    {
+      "id": "4953571",
+      "time": "2026-06-25 06:34:51",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：日本青森縣發生強烈震動。"
+    },
+    {
+      "id": "4953570",
+      "time": "2026-06-25 06:34:29",
+      "tags": [
+        "國際"
+      ],
+      "text": "【中國銀河證券：A股或迴歸多主線 建議關注AI基建等三大方向】6月24日，中國銀河證券2026年中期投資策略報告會暨科技金融會議在上海舉行。在全球經濟格局加速重構、A股市場機遇與風險共生的當下，與會專家圍繞宏觀經濟走勢與產業變革機遇展開了深入研討。與會專家認為，AI與中東衝突正在重塑宏觀經濟格局。下半年投資環境或有所改善，市場有望迴歸多主線並行的格局，從而推動A股行情上行，建議關注AI基建領域、週期與製造板塊和紅利板塊的投資機遇。（中證報）"
+    },
     {
       "id": "4953569",
       "time": "2026-06-25 06:32:48",
@@ -155214,60 +155258,6 @@
         "國際"
       ],
       "text": "【伊朗外交部：與阿曼基本敲定霍爾木茲海峽管理機制】據伊朗塔斯尼姆通訊社18日報道，伊朗外交部發言人巴加埃當天表示，伊方已與阿曼基本敲定霍爾木茲海峽管理機制，將對在該海峽提供的服務收取費用。目前，相關機制安排正在起草中。（新華社）"
-    },
-    {
-      "id": "mkt:019ed7bb-ddfe-7dd8-b065-a0a8848c6d60",
-      "time": "2026-06-18 06:37:53",
-      "tags": [
-        "MKT News",
-        "Brent",
-        "Impact bullish",
-        "WTI"
-      ],
-      "text": "【Iran says it has essentially finalized Strait of Hormuz management mechanism with Oman】Iran's foreign ministry spokesperson Baghaei said Iran and Oman have essentially finalized a management mechanism for the Strait of Hormuz that will charge fees for services provided in the waterway. Related arrangements are currently being drafted."
-    },
-    {
-      "id": "mkt:019ed7bb-891c-7dd8-b065-9aa33d458b6c",
-      "time": "2026-06-18 06:37:32",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Iran foreign ministry spokesperson said Iran must be able to sell its oil smoothly, with transport and insurance unimpeded, and must receive the proceeds from oil sales."
-    },
-    {
-      "id": "mkt:019ed7bb-0ad8-7dd8-b065-902b9a44a7ca",
-      "time": "2026-06-18 06:36:59",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Iran's foreign ministry spokesman said a memorandum of understanding was finalized last Sunday, but its release was delayed until Wednesday due to routine diplomatic procedures and the need to coordinate with all parties."
-    },
-    {
-      "id": "4941941",
-      "time": "2026-06-18 06:36:02",
-      "tags": [
-        "公司"
-      ],
-      "text": "微軟透過銷售OpenAI模型，在中國搭建起龐大人工智慧業務，國內微軟最大的人工智慧客戶是位元組跳動，騰訊、美團、螞蟻集團也是微軟人工智慧的客戶。"
-    },
-    {
-      "id": "te:markets:559831",
-      "time": "2026-06-18 06:35:13",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Metals Commodities Updates: Platinum Drops by 3.91% — Top commodity losers are Platinum (-3.91%), Silver (-2.92%), Copper (-1.92%) and Gold (-1.50%)."
-    },
-    {
-      "id": "4941940",
-      "time": "2026-06-18 06:34:16",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗外交部發言人：伊朗必須能夠在運輸和保險不受阻礙的前提下出售石油，並且必須全額收回石油銷售收入。"
     }
   ]
 }
