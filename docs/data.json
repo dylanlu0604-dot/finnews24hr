@@ -1,7 +1,103 @@
 {
-  "updated": "2026-06-24 22:02:37",
-  "count": 17275,
+  "updated": "2026-06-24 22:06:56",
+  "count": 17272,
   "items": [
+    {
+      "id": "4953003",
+      "time": "2026-06-24 22:05:22",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國10年期國債收益率跌至4.4138%，為5月11日以來的最低水平。"
+    },
+    {
+      "id": "mkt:019ef9f3-0d7a-7dd8-b0fb-cd2ea762ee1f",
+      "time": "2026-06-24 22:05:15",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y",
+        "Impact bearish",
+        "S&P500",
+        "Impact bullish",
+        "DXY"
+      ],
+      "text": "U.S. 10-year Treasury yield fell to 4.4138%, the lowest since May 11."
+    },
+    {
+      "id": "4953002",
+      "time": "2026-06-24 22:04:36",
+      "tags": [
+        "其他"
+      ],
+      "text": "訊息人士透露，雲初創企業 RunPod 融資 1 億美元，投後估值達 10 億美元。"
+    },
+    {
+      "id": "mkt:019ef9f1-36d9-7dd8-b0fb-c340a37d36a8",
+      "time": "2026-06-24 22:03:15",
+      "tags": [
+        "MKT News",
+        "Nasdaq100",
+        "Impact bearish"
+      ],
+      "text": "Nasdaq-100 turned negative."
+    },
+    {
+      "id": "4953001",
+      "time": "2026-06-24 22:02:56",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "赫茲全球控股提交最高1億美元的增發申請後，安飛士預算集團股價下跌7.2%。"
+    },
+    {
+      "id": "4953000",
+      "time": "2026-06-24 22:02:38",
+      "tags": [
+        "市場"
+      ],
+      "text": "納斯達克100指數轉跌。"
+    },
+    {
+      "id": "4952999",
+      "time": "2026-06-24 22:02:22",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【光伏太陽能股Sunrun大漲逾26%】光伏太陽能股Sunrun大漲逾26%，該公司宣佈與Renew Home、特斯拉達成合作協議，將為超大規模雲服務商與公用事業企業提供超16吉瓦可調儲能容量。"
+    },
+    {
+      "id": "te:markets:561576",
+      "time": "2026-06-24 22:02:21",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Canada",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "TSX Slips on High Borrowing Costs and Commodity Weakness — The S&P/TSX Composite Index lost more than 0.5% to trade below 35,000 on Wednesday amid persistently high borrowing costs and weakness in commodity-linked sectors. Gold prices declined as the dollar strengthened on rising bets for further US rate hikes, pressuring mining stocks. Agnico Eagle and WPM shed nearly 3%, while Barrick fell more than 4%. Oil prices also extended this week’s losses on signs that more tankers are set to leave the Strait of Hormuz, easing concerns over energy-driven inflation but weighing on energy shares. Canadian Natural and Imperial Oil lost more than 2%, while Suncor retreated 2.5% and Cenovus shed about 3%. Major banks traded near the flatline, with RBC, BMO, and TD Bank edging lower. In contrast, Canadian tech stocks rebounded from the prior session’s global selloff, with Shopify gaining nearly 3%, while Celestica and Constellation Software rose around 1%."
+    },
+    {
+      "id": "4952998",
+      "time": "2026-06-24 22:02:05",
+      "tags": [
+        "其他"
+      ],
+      "text": "萊哈里斯科技（L3Harris Technologies）預計今年將向德國軍隊交付新訂單。"
+    },
+    {
+      "id": "4952997",
+      "time": "2026-06-24 22:01:57",
+      "tags": [
+        "其他"
+      ],
+      "text": "高管表示，道達爾能源及其合作伙伴可能“在數週內”就奈米比亞深水金星石油專案做出最終投資決定。"
+    },
     {
       "id": "mkt:019ef9ef-d2dd-7dd8-b0fb-bae8e9f070d1",
       "time": "2026-06-24 22:01:44",
@@ -158016,124 +158112,6 @@
         "國際"
       ],
       "text": "特朗普：莫迪是我的老朋友了。"
-    },
-    {
-      "id": "4941256",
-      "time": "2026-06-17 22:06:45",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普談及美印貿易：雙方對話進展順利，貿易協定正在推進當中。"
-    },
-    {
-      "id": "4941255",
-      "time": "2026-06-17 22:06:40",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：與印度總理莫迪進行了非常好的對話。"
-    },
-    {
-      "id": "4941254",
-      "time": "2026-06-17 22:06:17",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "特朗普：在七國集團峰會上舉行了一些非常棒的會談。"
-    },
-    {
-      "id": "4941253",
-      "time": "2026-06-17 22:06:09",
-      "tags": [
-        "公司"
-      ],
-      "text": "斯特蘭蒂斯執行長：我們將與合作伙伴在卡西諾和摩德納工廠共同運營瑪莎拉蒂業務。"
-    },
-    {
-      "id": "te:markets:559751",
-      "time": "2026-06-17 22:05:52",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "US Natgas Prices Snap 3-Day Winning Streak — US natural gas prices fell more than 3% to $3.12 per MMBtu on Wednesday after three consecutive sessions of gains, as traders weighed demand expectations, weather forecasts and supply trends. Temperatures are expected to remain above normal through July 1, which could support stronger gas consumption from power generators as air conditioning demand increases. However, LNG export activity has softened, with average gas deliveries to the nine major US LNG export terminals declining to 17.0 billion cubic feet per day so far in June due to seasonal maintenance at several facilities, including ExxonMobil and QatarEnergy’s Golden Pass project and Freeport LNG in Texas. Domestic supply has also edged lower, with US Lower 48 gas production averaging 109.3 bcfd in June, down from 109.7 bcfd in May."
-    },
-    {
-      "id": "4941252",
-      "time": "2026-06-17 22:05:00",
-      "tags": [
-        "公司"
-      ],
-      "text": "谷歌為旗下影片平臺 Google Vids 中的 AI 影片工具 Veo 推送更新。"
-    },
-    {
-      "id": "4941251",
-      "time": "2026-06-17 22:04:47",
-      "tags": [
-        "公司",
-        "市場",
-        "央行",
-        "國際"
-      ],
-      "text": "【荷蘭國際：若瑞士央行暗示長期維持利率不變，瑞郎或將下跌】荷蘭國際集團的Chris Turner在一份報告中表示，如果瑞士央行週四將利率維持在0%並暗示將長期維持利率不變，瑞士法郎兌歐元可能會小幅走低。他說，瑞士的低通脹意味著瑞士央行並不像其他一些央行那樣急於收緊政策。他表示，自伊朗戰爭以來，瑞士央行也表現出更大的意願進行干預以遏制瑞郎走強，6月30日的資料可能會顯示第一季度外匯購買量增加。他說，如果歐洲央行在7月和9月再次加息，瑞郎也面臨下跌風險。歐元兌瑞郎下跌0.1%，至0.9194瑞郎。"
-    },
-    {
-      "id": "4941250",
-      "time": "2026-06-17 22:03:55",
-      "tags": [
-        "國際"
-      ],
-      "text": "以色列國防軍：5名士兵在黎巴嫩南部遭自爆無人機襲擊受傷。"
-    },
-    {
-      "id": "te:markets:559750",
-      "time": "2026-06-17 22:03:30",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Brazil",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "Ibovespa Rises Ahead of Central Bank Decision — The Ibovespa rose nearly 1% to trade close to 171,000 on Wednesday as investors focused on monetary policy decisions from the BCB and the US Federal Reserve. Markets expect Brazil’s central bank to cut the Selic rate by 0.25 percentage point to 14.25%, although a pause remains possible amid a worsening external backdrop, higher oil prices, and deteriorating inflation expectations. The Fed is holding its first meeting under the leadership of Kevin Warsh and is expected to keep its benchmark rate unchanged. Oil prices hovered near a three-month low amid prospects of the reopening of the Strait of Hormuz and the International Energy Agency warning of a supply overhang next year. Financial stocks moved higher, with Itaú Unibanco, Banco Bradesco, and Itaúsa rising nearly 1%. Utilities also advanced, with Auren Energia up more than 1%. WEG gained over 2.5% after approving R$438.1 million in interest on equity, while Vale fell more than 1.5% on lower iron ore prices."
-    },
-    {
-      "id": "4941249",
-      "time": "2026-06-17 22:03:07",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普在真相社交平臺發文：45 分鐘後我將在法國召開新聞釋出會。隨後我會前往凡爾賽宮，與法國及其他歐洲國家領導人共進晚宴，今晚便啟程回國！此次出訪取得巨大成功。但眾人談論最多的核心議題有兩點：一是伊朗絕不會擁有核武器，二是霍爾木茲海峽將即刻恢復通航！美國各項經濟資料表現亮眼，當前就業人數創下歷史新高。超 19.1 萬億美元資金投向美國本土，各地工廠建設等專案全面鋪開。尤為關鍵的是，得益於本次達成的相關協議，近期股市行情一路暴漲；與此同時，油價大幅回落！"
-    },
-    {
-      "id": "te:markets:559749",
-      "time": "2026-06-17 22:02:56",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 0"
-      ],
-      "text": "Brent Crude Rebounds — Brent crude oil rose more than 1% to nearly $80 per barrel on Wednesday after US President Donald Trump warned that bombing of Iran could resume if Tehran failed to “behave,” raising fresh uncertainty over a potential ceasefire deal. Trump said the memorandum of understanding with Iran was not final, adding that military action remained possible. The US-Iran memorandum, which extends a fragile ceasefire by 60 days, could allow talks toward a lasting truce and help rebuild depleted inventories. Still, industry officials said a full recovery in Iranian production and refining capacity could take weeks, months or even years, limiting the speed of any supply rebound. Nevertheless, oil prices remained near three-month lows, however, as the International Energy Agency warned of a looming supply surplus. In its first outlook for 2027, the IEA said global oil supply could rise by 8 million barrels a day while demand grows by only 2 million bpd, creating significant oversupply."
-    },
-    {
-      "id": "4941248",
-      "time": "2026-06-17 22:02:44",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：美國經濟各項資料都非常出色。"
-    },
-    {
-      "id": "4941247",
-      "time": "2026-06-17 22:02:39",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普重申伊朗不會擁有核武器。"
     }
   ]
 }
