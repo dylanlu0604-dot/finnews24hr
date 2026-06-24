@@ -1,7 +1,76 @@
 {
-  "updated": "2026-06-25 01:22:50",
-  "count": 17218,
+  "updated": "2026-06-25 01:26:47",
+  "count": 17220,
   "items": [
+    {
+      "id": "4953256",
+      "time": "2026-06-25 01:26:19",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "白銀連續主力合約日內跌6%，現報14001.00元。"
+    },
+    {
+      "id": "4953255",
+      "time": "2026-06-25 01:25:32",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行官員齊格曼：油價走低將對通脹產生利好作用。"
+    },
+    {
+      "id": "mkt:019efaaa-5655-7dd8-b100-fcd4940ed876",
+      "time": "2026-06-25 01:25:27",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals"
+      ],
+      "text": "Spot silver plunged 6.00% intraday to $57.83/oz."
+    },
+    {
+      "id": "te:markets:561627",
+      "time": "2026-06-25 01:25:12",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "other",
+        "currency",
+        "Importance 0"
+      ],
+      "text": "LTCUSD traded below 40 — The Litecoin exchange rate decreased below 40 US Dollars in the foreign exchange interbank market."
+    },
+    {
+      "id": "4953254",
+      "time": "2026-06-25 01:23:56",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨白銀失守58美元/盎司，日內跌5.79%。"
+    },
+    {
+      "id": "4953253",
+      "time": "2026-06-25 01:23:50",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國眾議院議長邁克·約翰遜：世界盃讓美國出現極具反差的一幕，世界各地的遊客都無比喜愛美國，反觀那些參選國會議員的左翼人士卻處處唱衰本國。"
+    },
+    {
+      "id": "mkt:019efaa8-bfde-7dd8-b100-f533c06d503c",
+      "time": "2026-06-25 01:23:43",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals"
+      ],
+      "text": "Spot silver fell to $58/oz, the lowest since December last year, down 5.75% intraday."
+    },
     {
       "id": "4953252",
       "time": "2026-06-25 01:22:16",
@@ -157751,62 +157820,6 @@
         "國際"
       ],
       "text": "馬來西亞總理感謝普京推進能源合作，並感謝俄方承諾在能源危機期間提供援助。"
-    },
-    {
-      "id": "mkt:019ed69c-91bb-7dd8-b05c-417b40940637",
-      "time": "2026-06-18 01:24:05",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "S&P500",
-        "Impact bullish",
-        "DXY",
-        "Impact bearish",
-        "WTI"
-      ],
-      "text": "【Hedge fund CIO says new Fed chair likely to open dovish, avoid hawkish signals】Oraclum Capital CIO Vuk Vukovic says the market’s immediate focus is political risk rather than inflation or rates. He notes the new Fed chair took office amid accelerating inflation—CPI 4.2%, PPI 6.5%—which constrains the Fed’s room to deliver any previously promised rate cuts. Recent easing in geopolitical tensions, notably a thaw in US‑Iran pressures that has pushed oil prices lower, gives the chair breathing room. Vukovic does not expect hawkish signals at this meeting and judges a dovish opening is the most likely path. If the chair abandons rigid forward guidance, markets will shift to other signal sources—trade, foreign policy and fiscal measures will gain weight. Whether that communication approach succeeds will be the new chair’s first major test."
-    },
-    {
-      "id": "4941574",
-      "time": "2026-06-18 01:23:17",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國高階官員：我們將採取一些措施以建立信任，看看是否能夠達成協議。商定步驟的先後順序將是即將與伊朗舉行會談的重要議題。諒解備忘錄已簽署，但在具有約束力的協議達成之前，任何一方均可退出。與以色列一直保持非常頻繁的聯絡。本週末在瑞士舉行的會議對於觀察與伊朗談判的進展將是至關重要的。"
-    },
-    {
-      "id": "mkt:019ed69b-ad03-7dd8-b05c-3c1152861fa9",
-      "time": "2026-06-18 01:23:07",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact mixed",
-        "Brent"
-      ],
-      "text": "A U.S. official said the meeting in Switzerland this weekend will be critical for gauging progress in talks with Iran."
-    },
-    {
-      "id": "mkt:019ed69b-9a6a-7dd8-b05c-37206bd21f40",
-      "time": "2026-06-18 01:23:02",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "US10Y",
-        "Impact mixed",
-        "DXY",
-        "S&P500"
-      ],
-      "text": "【Institutions preview Fed rate path: hold widely expected, forecasts split on timing of cuts vs. hikes】Major institutions broadly expect the Fed to hold at the upcoming FOMC, but forecasts diverge sharply on subsequent direction and timing. No-cut/steady camp: Moody’s, Nomura, JP Morgan, Wells Fargo and BNY Mellon see a hold as baseline and deem near-term cuts unlikely; JP Morgan and others expect policy language to shift from easing-leaning toward neutral. Moody’s warns re-accelerating inflation expectations could prompt hikes. BNY Mellon expects the statement to signal two-way rate risks and to remove prior 2026 cut expectations; it does not expect any moves this year. Cut camp: Goldman expects a hold but will remove easing-leaning forward guidance and projects two 25bp cuts in June and December 2027. UBS expects the Fed to drop a dovish tilt yet still forecasts 25bp cuts in March and June 2027. Citi projects three 25bp cuts in September, October and December. Deutsche Bank expects the Fed to abandon easing language and begin cuts from mid‑next year, totalling 75bps by end‑2027. Hike/insurance-hike camp: Capital Economics and BNP Paribas see a real risk of precautionary hikes (Capital Economics flags two potential “insurance” hikes around December/early next year; BNP Paribas sees the earliest hike in December). Deutsche Bank flags rising upside risk to rates. PGIM expects the Fed to hold now but projects three hikes this year, three cuts in 2027 and one cut in 2028, with a terminal rate around 3.375%. Other notes: Barclays, BofA and ANZ also expect a hold and say the Fed will likely delete easing-leaning language in the statement; BofA expects potential tweaks to employment wording, ANZ expects a renewed 2% inflation commitment. Mitsubishi UFJ says the meeting’s market importance is driven mainly by forward guidance. Asset manager MFS expects a hold with signals of a neutral stance and possible changes to communication tools (less use of the dot plot, fewer/shorter press interactions)."
-    },
-    {
-      "id": "mkt:019ed69b-6e88-7dd8-b05c-293c73ff942c",
-      "time": "2026-06-18 01:22:50",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "A U.S. official said the United States has maintained very frequent contact with Israel."
     }
   ]
 }
