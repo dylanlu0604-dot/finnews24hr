@@ -1,7 +1,33 @@
 {
-  "updated": "2026-06-25 02:37:24",
-  "count": 17159,
+  "updated": "2026-06-25 02:41:32",
+  "count": 17146,
   "items": [
+    {
+      "id": "4953341",
+      "time": "2026-06-25 02:40:53",
+      "tags": [
+        "其他"
+      ],
+      "text": "高通資料中心部門主管：從2027年第一財季開始，定製矽晶片業務將在年末為高通帶來可觀營收。"
+    },
+    {
+      "id": "mkt:019efaef-59db-7dd8-b102-8fb05b36e1f9",
+      "time": "2026-06-25 02:40:50",
+      "tags": [
+        "MKT News",
+        "Important",
+        "QCOM.O"
+      ],
+      "text": "Qualcomm's data-center chief said the company plans to launch a data-center CPU in mid-2028."
+    },
+    {
+      "id": "4953340",
+      "time": "2026-06-25 02:39:17",
+      "tags": [
+        "其他"
+      ],
+      "text": "高通資料中心部門主管：高通將於2028年年中推出資料中心CPU。"
+    },
     {
       "id": "4953339",
       "time": "2026-06-25 02:36:31",
@@ -156821,161 +156847,6 @@
         "Impact bearish"
       ],
       "text": "Fed chair Kevin Warsh said the Fed has the ability and determination to achieve its 2% inf target."
-    },
-    {
-      "id": "mkt:019ed6e3-5028-7dd8-b05f-d419022f1b33",
-      "time": "2026-06-18 02:41:21",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)"
-      ],
-      "text": "Kevin Warsh, chair of the Federal Reserve, said assessments of the inf framework should focus on the drivers of inf."
-    },
-    {
-      "id": "mkt:019ed6e3-3e65-7dd8-b05f-cdc35d75f3a3",
-      "time": "2026-06-18 02:41:17",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)"
-      ],
-      "text": "Fed Chair Kevin Warsh said the 2% inflation target will not fall within the remit of the inflation working group."
-    },
-    {
-      "id": "mkt:019ed6e2-ecda-7dd8-b05f-c296c8478b0d",
-      "time": "2026-06-18 02:40:56",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Macro & Rates",
-        "The Fed (FOMC)"
-      ],
-      "text": "Fed Chair Kevin Warsh said there is no reason to revisit the Fed’s 2% inflation target until that level is reached."
-    },
-    {
-      "id": "4941663",
-      "time": "2026-06-18 02:40:24",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲主席沃什：2%的通脹率是美聯儲長期以來的目標。在實現 2% 通脹目標之前，我認為沒有理由重新審議該目標。"
-    },
-    {
-      "id": "mkt:019ed6e2-2c47-7dd8-b05f-ba8375472e0c",
-      "time": "2026-06-18 02:40:07",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Macro & Rates",
-        "The Fed (FOMC)"
-      ],
-      "text": "KEVIN WARSH: 2% inf has long been the Federal Reserve's target."
-    },
-    {
-      "id": "mkt:019ed6e1-ec3f-7dd8-b05f-b419d2ee3020",
-      "time": "2026-06-18 02:39:50",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)"
-      ],
-      "text": "Fed Chair Kevin Warsh said he expects to achieve partial results before autumn and that working groups will complete their work by year-end."
-    },
-    {
-      "id": "4941662",
-      "time": "2026-06-18 02:39:30",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲主席沃什： 預計今年秋季取得部分階段性成果，各專項工作組將於年底完成全部調研工作。 各專項工作組將在未來兩週內啟動工作。"
-    },
-    {
-      "id": "mkt:019ed6e1-4775-7dd8-b05f-ac69d9f47209",
-      "time": "2026-06-18 02:39:08",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Federal Reserve chair Kevin Warsh said a working group will begin operations within the next few weeks."
-    },
-    {
-      "id": "mkt:019ed6e1-0c33-7dd8-b05f-a3153170d18b",
-      "time": "2026-06-18 02:38:53",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)"
-      ],
-      "text": "Federal Reserve Chair Kevin Warsh said each independent working group will assemble top talent from inside and outside the economics profession."
-    },
-    {
-      "id": "4941661",
-      "time": "2026-06-18 02:38:51",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲主席沃什：溝通工作組可能重塑點陣圖。資產負債表工作組將審查美聯儲的債券持有情況。生產力與就業工作組將調查人工智慧及其他通用技術的影響範圍。資料工作組將考慮新的資料來源和方法論變更。資產負債表工作組將審查充足準備金制度的好處和風險。"
-    },
-    {
-      "id": "mkt:019ed6e1-0027-7dd8-b05f-9f89f1490bf8",
-      "time": "2026-06-18 02:38:50",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)"
-      ],
-      "text": "Fed Chair Kevin Warsh said the balance-sheet working group will review the benefits and risks of an ample-reserves regime."
-    },
-    {
-      "id": "mkt:019ed6e0-9b52-7dd8-b05f-96dea8be22ad",
-      "time": "2026-06-18 02:38:24",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)"
-      ],
-      "text": "Federal Reserve Chair Kevin Warsh said the Fed's data working group will consider new data sources and methodological changes."
-    },
-    {
-      "id": "mkt:019ed6e0-863a-7dd8-b05f-89a92a426f97",
-      "time": "2026-06-18 02:38:19",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Federal Reserve Chair Kevin Warsh said the Productivity and Employment Task Force will study the scope of the impact of artificial intelligence and other general‑purpose technologies."
-    },
-    {
-      "id": "mkt:019ed6e0-68ba-7dd8-b05f-811c1f425427",
-      "time": "2026-06-18 02:38:11",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)"
-      ],
-      "text": "Federal Reserve Chair Kevin Warsh said a balance-sheet working group will review the Fed's bond holdings."
-    },
-    {
-      "id": "mkt:019ed6e0-2874-7dd8-b05f-7f606d7b1451",
-      "time": "2026-06-18 02:37:55",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Macro & Rates",
-        "The Fed (FOMC)"
-      ],
-      "text": "Fed Chair Kevin Warsh said a communications working group could reshape the Fed's dot plot."
-    },
-    {
-      "id": "4941660",
-      "time": "2026-06-18 02:37:41",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲主席沃什： 各獨立專項工作組將匯聚經濟學界內外頂尖專業人才。 各專項工作組將獲得美聯儲工作人員支援。 各專項工作組最終將提出後續行動方案。"
     }
   ]
 }
