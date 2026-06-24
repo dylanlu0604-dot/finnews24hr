@@ -1,7 +1,138 @@
 {
-  "updated": "2026-06-24 15:14:03",
-  "count": 17368,
+  "updated": "2026-06-24 15:17:57",
+  "count": 17371,
   "items": [
+    {
+      "id": "mkt:019ef87d-dae6-7dd8-b0f0-3681a1110f98",
+      "time": "2026-06-24 15:17:38",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Al Jazeera reports technical-level talks between Tehran and Washington continue, though participants occasionally pause."
+    },
+    {
+      "id": "mkt:019ef87d-1f88-7dd8-b0f0-2f48639b481b",
+      "time": "2026-06-24 15:16:50",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【China government bond futures midday close】At the midday close, 2-year China government bond futures (TS) main contract rose 0.02%, 5-year (TF) rose 0.05%, 10-year (T) rose 0.03%, and 30-year (TL) fell 0.12%."
+    },
+    {
+      "id": "mkt:019ef87d-027e-7dd8-b0f0-2576854252cb",
+      "time": "2026-06-24 15:16:42",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Emerging Markets"
+      ],
+      "text": "BOT expects Thailand's exports to rise 14.0% in 2026, up from its early-June forecast of 12–13%."
+    },
+    {
+      "id": "mkt:019ef87c-ac70-7dd8-b0f0-1930dcf5c4bf",
+      "time": "2026-06-24 15:16:20",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "BOT expects foreign visitor arrivals to reach 33 million in 2026, unchanged from its April forecast."
+    },
+    {
+      "id": "4952025",
+      "time": "2026-06-24 15:16:18",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "南向資金淨買入額達110億港元。"
+    },
+    {
+      "id": "te:markets:561405",
+      "time": "2026-06-24 15:16:10",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "China",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The Shangai Composite Index Closes 0.11% Higher — The Shangai Composite Index went up by 5 points or 0.11 percent on Wednesday to close at 4111 points. The rise was led by Sanan Optoelectron (9.98%), Foshan Haitian (2.31%) and Jiangsu Hengrui (2.29%). On the downside, the weakerst performers were Datang Intl (-5.04%), China Fortune (-4.72%) and Huaneng (-4.24%)."
+    },
+    {
+      "id": "4952024",
+      "time": "2026-06-24 15:16:04",
+      "tags": [
+        "其他"
+      ],
+      "text": "【即夢 AI 上線 Seedance 2.0 VIP 原生 4K 版本】6月23日，即夢 AI 網頁版Seedance 2.0 VIP 正式上線原生 4K 功能，支援超清輸出。與後期超分不同，原生4K 能夠從源頭保留更多區域性細節。人物髮絲、服裝紋理、建築線條、材質肌理等高密度資訊，都能更完整、清晰呈現，進一步提升畫面細節、色彩層次與光影表現，適配影視後期、品牌視覺、廣告營銷等高品質創作場景。"
+    },
+    {
+      "id": "4952023",
+      "time": "2026-06-24 15:15:33",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "泰國央行：預計2026年外國入境遊客數量為3300萬人次（4月預測值同樣為3300萬人次）。"
+    },
+    {
+      "id": "4952022",
+      "time": "2026-06-24 15:15:23",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "泰國央行：預計2026年出口將增長14.0%（6月初預期為增長12%至13%）。"
+    },
+    {
+      "id": "4952021",
+      "time": "2026-06-24 15:15:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "【國債期貨收盤】 30年期主力合約跌0.12%， 10年期主力合約漲0.03%， 5年期主力合約漲0.05%， 2年期主力合約漲0.02%。"
+    },
+    {
+      "id": "4952020",
+      "time": "2026-06-24 15:14:57",
+      "tags": [
+        "市場"
+      ],
+      "text": "英國10年期國債收益率跌至4.736%，創一週新低。"
+    },
+    {
+      "id": "mkt:019ef87b-654a-7dd8-b0f0-12e0ef2db4cd",
+      "time": "2026-06-24 15:14:56",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "UK 10-year government bond yield fell to 4.736%, a one-week low."
+    },
+    {
+      "id": "mkt:019ef87b-517c-7dd8-b0f0-09eab7193a81",
+      "time": "2026-06-24 15:14:51",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Swiss National Bank deputy governor says the bank is working to improve cross-border payments."
+    },
+    {
+      "id": "4952019",
+      "time": "2026-06-24 15:14:18",
+      "tags": [
+        "國際"
+      ],
+      "text": "丹麥預計今年將與美國就格陵蘭島問題達成協議。"
+    },
+    {
+      "id": "4952018",
+      "time": "2026-06-24 15:13:49",
+      "tags": [
+        "公司",
+        "央行",
+        "國際"
+      ],
+      "text": "【三菱日聯：在美國利率動態變化之際，部分東盟貨幣面臨新的壓力】三菱日聯銀行的Lloyd Chan在一份研究報告中表示，在美國利率動態變化之際，部分東盟貨幣面臨新的壓力。這位高階外匯分析師表示：“美聯儲偏緊縮的政策立場和前瞻性指引的減少強化了美國的高收益率環境，透過套利驅動的需求維持了美元的強勢。”Chan表示：“隨著美聯儲主席Warsh淡出點陣圖，政策不確定性有所增加，這可能會推高期限溢價，並在短期內使美國收益率保持在高位。“這些東盟貨幣包括印尼盾、馬來西亞林吉特、新加坡元和泰銖。三菱日聯銀行對第四季度美元的預測為18,350印尼盾、4.2600馬來西亞林吉特、1.3200新加坡元和34.40泰銖。根據倫敦證券交易所集團的資料，美元最新報17,950印尼盾、4.1400馬來西亞林吉特、1.2974新加坡元和33.39泰銖。"
+    },
     {
       "id": "4952017",
       "time": "2026-06-24 15:12:19",
@@ -158935,124 +159066,6 @@
         "Greater China"
       ],
       "text": "【After regulatory talks with Sam's Club, Walmart China announces multiple senior management changes】Walmart China said Sam's Club China chief procurement officer Zhang Qing has resigned. Neil Maffey will serve as acting CPO while the company conducts a global search for a permanent successor. Tony Paladinetti, currently SVP, Strategy at Walmart International, will join Walmart China as SVP, Strategy reporting to Zhu Xiaojing. During the transition Maffey, former Sam CPO and current full-time adviser, will report to Liu Peng, president of Sam's Club China, until a new CPO is appointed. Zhu Jun, president of Walmart's store format, will take on additional responsibility for Walmart China real estate."
-    },
-    {
-      "id": "4940229",
-      "time": "2026-06-17 15:17:19",
-      "tags": [
-        "公司"
-      ],
-      "text": "【朝陽科技成立新公司 含無人飛行器業務】企查查APP顯示，近日，律笙（深圳）電子有限公司成立，經營範圍包含：服務消費機器人制造；服務消費機器人銷售；智慧無人飛行器製造；智慧無人飛行器銷售等。企查查股權穿透顯示，該公司由朝陽科技全資持股。"
-    },
-    {
-      "id": "4940228",
-      "time": "2026-06-17 15:16:43",
-      "tags": [
-        "公司",
-        "觀點"
-      ],
-      "text": "【華泰證券：維持影石創新“增持”評級，正式切入手持雲臺相機主賽道】華泰證券日前研報指出，影石創新近期釋出新品Luna Ultra，正式切入手持雲臺相機主賽道。產品搭載雙徠卡鏡頭、可拆卸圖傳遙控屏與AI 三芯架構，強化畫質、操控與智慧拍攝體驗；相較於競品，公司新品更側重降低普通使用者創作門檻，有望形成差異化競爭，並開啟第二增長曲線。同時，公司聯手群核科技，推動業務邊界由影像裝置向空間智慧基礎解決方案延伸。認為Luna Ultra 首發熱銷驗證專業級便攜影像裝置的使用者付費意願，未來隨著高客單價新品逐步放量，收入結構有望向高價值量品類延展，維持“增持”評級。"
-    },
-    {
-      "id": "mkt:019ed470-1d0a-7dd8-b046-1372ad12fb9d",
-      "time": "2026-06-17 15:16:17",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "Treasury Yields",
-        "US10Y",
-        "Impact bearish"
-      ],
-      "text": "【Bond futures midday close】2-year bond futures (TS) most-active contract up 0.01%; 5-year (TF) up 0.03%; 10-year (T) up 0.07%; 30-year (TL) up 0.21% at the midday close."
-    },
-    {
-      "id": "te:markets:559621",
-      "time": "2026-06-17 15:16:12",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "China",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The Shangai Composite Index Closes 0.44% Higher — The Shangai Composite Index went up by 18 points or 0.44 percent on Wednesday to close at 4110 points. The rise was led by Power Construction Corporation of China (7.04%), Datang Intl (4.71%) and China Communications Construction (3.40%). On the downside, the weakerst performers were BAIC BluePark (-4.62%), Shaanxi Coal (-3.36%) and Yonghui Superstore (-3.35%)."
-    },
-    {
-      "id": "4940227",
-      "time": "2026-06-17 15:15:45",
-      "tags": [
-        "央行",
-        "公司",
-        "國際"
-      ],
-      "text": "【機構：英國通脹弱於預期，降低了英國基準利率上調的可能性】Quilter的Lindsay James在一份報告中表示，英國5月份通脹率低於預期，緩解了對通脹壓力的擔憂，並降低了英國央行在未來幾個月加息的可能性。同比整體通脹率維持在2.8%不變，低於經濟學家給出的3.0%的平均預期。James表示，弱於預期的英國通脹，疊加中東局勢趨於平靜，降低了英國央行加息的可能性。倫敦證券交易所集團的資料顯示，投資者已完全反映了12月份英國基準利率上調25個基點的預期。"
-    },
-    {
-      "id": "4940226",
-      "time": "2026-06-17 15:15:27",
-      "tags": [
-        "其他"
-      ],
-      "text": "5月赴日外國遊客同比下降3.6%，總數為356萬人次。"
-    },
-    {
-      "id": "mkt:019ed46e-fe30-7dd8-b046-0e290c328a08",
-      "time": "2026-06-17 15:15:04",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Alibaba"
-      ],
-      "text": "【Alibaba Cloud launches Paris and Johor regions, expands Tokyo and Mexico capacity】On June 17, Alibaba Cloud launched services in Paris and Johor, Malaysia, and expanded data-center capacity in Tokyo and Mexico to meet rising demand from AI international services and a surge in token calls. The expansion raises Alibaba Cloud’s global footprint to 32 regions and 105 availability zones."
-    },
-    {
-      "id": "4940225",
-      "time": "2026-06-17 15:15:02",
-      "tags": [
-        "市場"
-      ],
-      "text": "【國債期貨收盤】 30年期主力合約漲0.23%， 10年期主力合約漲0.07%， 5年期主力合約漲0.03%， 2年期主力合約漲0.01%。"
-    },
-    {
-      "id": "mkt:019ed46e-9b1e-7dd8-b046-05f65697d2d1",
-      "time": "2026-06-17 15:14:38",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "GBPUSD",
-        "Impact bearish",
-        "FTSE100",
-        "Impact bullish"
-      ],
-      "text": "UK 10-year gilt yield fell to 4.754%, the lowest since April 17, down nearly 4 basis points on the day."
-    },
-    {
-      "id": "4940224",
-      "time": "2026-06-17 15:14:25",
-      "tags": [
-        "其他"
-      ],
-      "text": "【上緯新材旗下啟元機器人將在深圳開設亞洲首家線下門店】記者獲悉，上緯新材旗下啟元機器人將在深圳福田卓悅中心商圈開設亞洲首家線下門店，主要用於消費級人形機器人線下體驗。記者在現場看到，該門店目前處於施工裝修階段，商鋪外牆已設定圍擋，圍擋上印有“coming soon 深圳”字樣，並配有啟元 Q1 小尺寸全身力控人形機器人產品形象及“Quester1”名稱。現場工作人員告訴記者，該門店預計將於今年7月底或8月開業，佔地面積約300平方米。（介面新聞）"
-    },
-    {
-      "id": "mkt:019ed46e-46ba-7dd8-b045-ff355471470f",
-      "time": "2026-06-17 15:14:17",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "CSI300",
-        "Impact bullish"
-      ],
-      "text": "【Report: China asset management industry likely to sustain >5% annual growth over next five years】China Everbright Bank and Everbright Wealth in Beijing released a China Asset Management Market 2024–2025 report saying the industry could sustain annual growth above 5% over the next five years, driven by rising total household wealth, a larger share of financial assets, greater wealth-management penetration and valuation support. Households are reallocating wealth away from property and deposits toward diversified financial assets, following a gradual pathway: fixed income as the base, progressive equity allocation and multi-strategy expansion. Against a backdrop of low deposit rates, retail demand remains focused on principal protection, keeping bank wealth-management and other fixed-income products as the primary safety cushion and main vehicle for flows. Expansion of personal pension schemes and a more developed ETF ecosystem should shift equity allocation from a niche of aggressive investors to marginal inflows from high-net-worth clients and long-duration institutional capital."
-    },
-    {
-      "id": "4940223",
-      "time": "2026-06-17 15:14:16",
-      "tags": [
-        "其他"
-      ],
-      "text": "【《中國資產管理市場2015-2026》今日正式釋出：中國資管行業在未來五年或將持續保持5%以上的年增長率】中國光大銀行、光大理財在北京正式釋出《中國資產管理市場2024—2025》報告。報告顯示，在居民總財富、金融資產佔比、財富管理滲透率及估值因子四大因素驅動下，我國資管行業未來五年或將持續保持5%以上的年增長率。報告同時指出，當前我國居民財富從房地產和存款轉向多元金融資產，正在形成一條“固收為基、權益漸進、多策並舉”的漸進式路徑。在“存款利率1時代”背景下，居民對本金安全的訴求依然壓倒對高風險收益的追逐。因此，以銀行理財為代表的固收類產品憑藉其低波穩健的特性，將繼續充當資金轉移的“安全氣囊”和主要載體。同時，隨著個人養老金制度的擴圍與 ETF 生態的完善，權益類資產的配置將不再僅僅是少數激進者的博弈，而是逐步演變為高淨值客戶與長期資金的“邊際增量”選擇。"
     }
   ]
 }
