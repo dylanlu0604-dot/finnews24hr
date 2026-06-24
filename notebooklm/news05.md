@@ -1,7 +1,139 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-06-25 05:10:53_
-_本檔包含 3259 則快訊，約 626062 字_
+_更新時間：2026-06-25 05:34:36_
+_本檔包含 3256 則快訊，約 625941 字_
+
+---
+
+### 2026-06-19 00:33:08  #國際
+
+美國教育部宣佈降低學生貸款利率。
+
+---
+
+### 2026-06-19 00:33:00  #MKT News #SPCX.O #Impact mixed
+
+【SpaceX plans at least $20bln bond issue to refinance $20bln bridge loan】SpaceX (SPCX.O) is planning an investment-grade US dollar bond offering of at least $20 billion to refinance a $20 billion bridge loan maturing September 2027, people familiar with the matter said. Banks may begin investor calls as early as next week, with outreach possibly starting Monday; size and timing remain subject to change. Proceeds would replace the bridge facility that, as of March 31, accounted for the bulk of SpaceX’s $29.1 billion of long-term debt. BofA, Citigroup, JP Morgan, Goldman Sachs and Morgan Stanley jointly provided the bridge and are expected to lead underwriting.
+
+---
+
+### 2026-06-19 00:31:47  #其他
+
+XAI：Grok 模型現已上線 Databricks Agent Bricks。
+
+---
+
+### 2026-06-19 00:31:38  #公司 #國際
+
+【美國參議員桑德斯將提出法案，賦予民眾AI企業股權】美國參議院桑德斯（Bernie Sanders）正提出一項法案，旨在讓美國公民在人工智慧（AI）公司的運營中擁有發言權。這項名為《美國人工智慧主權財富基金法案》（American AI Sovereign Wealth Fund Act）的提案將設立一項基金，對美國最大的人工智慧公司股票徵收一次性50%的稅。桑德斯表示，該法案將賦予美國民眾阻止對其生活產生負面影響的AI發展的能力，並允許聯邦政府否決損害公眾利益的決策。
+
+---
+
+### 2026-06-19 00:31:11  #公司 #市場 #央行 #國際
+
+【分析：美聯儲公佈決定後加密貨幣未平倉合約驟降】CryptoQuant的Amr Taha在一份報告中表示，在幣安交易的兩大主要加密貨幣——比特幣和以太幣的衍生品未平倉合約出現了“大幅槓桿重置”。Taha說，在宣佈利率保持不變後，比特幣未平倉合約下降了18%，以太幣未平倉合約下降了25%。“比特幣和以太幣同時下降，表明幣安衍生品市場的風險偏好普遍降低，”Taha說。“交易員可能選擇在美聯儲釋出公告前後平倉，而不是帶著槓桿去面對可能出現波動的市場反應。”
+
+---
+
+### 2026-06-19 00:30:38  #國際
+
+荷蘭首相：美國對俄羅斯施壓對達成和平協議至關重要。
+
+---
+
+### 2026-06-19 00:30:25  #國際
+
+美國教育部公佈最新學生貸款違約資料：美國整治行動下，學生貸款違約人數增至916萬。
+
+---
+
+### 2026-06-19 00:29:59  #國際
+
+【萬斯回應以色列批評特朗普言論：不該抨擊盟友】美國副總統 JD・萬斯嚴厲斥責以色列國內反對美伊臨時和平協議的人士，他於週四發出警告：“我絕不會去攻擊我國如今在全球僅存的重要盟友。”萬斯在白宮接受記者採訪時稱，當下全世界只有唐納德・特朗普總統真心站在以色列這邊。他同時批評以色列內閣官員，以色列絕大多數防禦武器均由美國出資提供。萬斯表示：“以色列真正的難題根本不是唐納德・J・特朗普。以色列國內但凡有人把美國總統視作本國最大麻煩，都該清醒認清國家當下的現實處境。”
+
+---
+
+### 2026-06-19 00:29:16  #MKT News #EURUSD #Impact bearish #DAX
+
+Dutch prime minister says the EU budget proposal currently on the table is not good enough for the Netherlands.
+
+---
+
+### 2026-06-19 00:29:02  #MKT News
+
+Iranian state TV said Iran's Supreme Leader will soon deliver a speech on a memorandum of understanding.
+
+---
+
+### 2026-06-19 00:28:16  #國際
+
+荷蘭首相：當前提交的歐盟預算提案對荷蘭而言仍不夠完善。
+
+---
+
+### 2026-06-19 00:28:05  #焦點 #國際
+
+伊朗最高領袖將就終止與美國的戰爭協議發表最新講話。
+
+---
+
+### 2026-06-19 00:27:33  #國際
+
+以色列前總理埃胡德・巴拉克聲稱：內塔尼亞胡很可能會在大選前夕進攻黎巴嫩，並且他正試圖與伊朗、真主黨開啟一場無休止的戰爭。
+
+---
+
+### 2026-06-19 00:26:49  #公司 #觀點 #國際
+
+【SpaceX 的合作投行團隊計劃發行至少 200 億美元投資級美元債券】知情人士透露，埃隆・馬斯克旗下 SpaceX 的合作投行團隊，最快將於下週與投資者開展投資者電話會議，商討在公司完成創紀錄 IPO 後推出債券發行計劃。不願公開身份的訊息人士表示，本次債券發行規模預計至少 200 億美元，投資者溝通最早週一啟動；相關方案與時間節點仍有可能變動。這家主營火箭、衛星、AI 業務的綜合企業計劃首次發行投資級美元債券，發債所得將用於置換一筆 200 億美元、2027 年 9 月到期的過橋貸款。SpaceX 提交給美國證券交易委員會的 IPO 申報檔案顯示，截至 3 月 31 日，這筆過橋貸款佔公司 291 億美元長期債務的大頭。訊息人士稱，美國銀行、花旗集團、摩根大通、高盛集團、摩根士丹利聯合提供了這筆過橋貸款，並將牽頭承銷本次債券發行。
+
+---
+
+### 2026-06-19 00:26:48  #MKT News #WTI #Impact bearish #DXY #XAUUSD
+
+Dutch prime minister said U.S. pressure on Russia is crucial for a peace agreement.
+
+---
+
+### 2026-06-19 00:25:53  #國際
+
+【美國白宮向國會提交美伊諒解備忘錄文字】央視記者當地時間6月18日獲悉，美國白宮向國會提交了美伊諒解備忘錄文字。當地時間17日，一名美國政府高階官員宣讀了美國同伊朗達成的諒解備忘錄正式文字。該檔案包含14項條款，詳細列出了重新開放霍爾木茲海峽及放寬對伊部分金融限制的內容，並闡明瞭在未來技術性會談中解決伊朗核問題的預期目標。伊朗伊斯蘭共和國通訊社當地時間17日晚也公佈了伊美諒解備忘錄文字全文。（央視新聞）
+
+---
+
+### 2026-06-19 00:25:45  #MKT News #Important
+
+SpaceX (SPCX.O) investment banking team is preparing at least $20 bln in bond sales.
+
+---
+
+### 2026-06-19 00:24:40  #MKT News
+
+Dutch prime minister said Russia has shown no sign of serious willingness to negotiate a fair settlement.
+
+---
+
+### 2026-06-19 00:24:34  #國際
+
+荷蘭首相：俄羅斯並未展現出任何願意透過談判達成公平協議的誠意。
+
+---
+
+### 2026-06-19 00:24:22  #Trading Economics #Markets #United States #stocks #Importance 1
+
+AT&T Stock Price Hits 16-month Low — AT&T shares decreased to 22.24 USD, the lowest since January 2025. Over the past 4 weeks, AT&T lost 8.88%, and in the last 12 months, it decreased 19.52%.
+
+---
+
+### 2026-06-19 00:24:17  #其他
+
+SpaceX投行團隊籌備發行至少200億美元債券。
+
+---
+
+### 2026-06-19 00:23:55  #國際
+
+【伊朗將獲准動用60億美元被凍結資金 僅限購買美國產品】據報道，根據美伊之間達成的臨時協議，特朗普政府將允許伊朗動用存放在卡達的60億美元石油收入，用於購買美國的人道主義物資及非受制裁商品。此舉是特朗普政府為確保伊朗信守諒解備忘錄及後續核談判承諾，而丟擲的數十億美元經濟激勵措施的一部分。這筆資金將分階段解凍，具體時間安排在協議規定的60天停火延長期內，並取決於霍爾木茲海峽的重新開放情況以及旨在達成最終解決方案的談判進展。一位知悉該協議的外交官表示，這些資金僅能用於購買美國產品。白宮在被問及此事時未對具體細節置評，但一位美國官員表示，只要伊朗表現出良好行為（例如移交其濃縮鈾），華盛頓將在最終談判期間解凍部分資產。特朗普政府還將給予豁免，允許伊朗在上述60天內出口石油，並解除對伊朗港口的海上封鎖。
 
 ---
 
@@ -19531,155 +19663,5 @@ NewsNation reporter said US-Iran officials have not explained how the electronic
 ### 2026-06-18 05:35:09  #國際
 
 【伊朗外交部發言人：美伊已簽署諒解備忘錄】伊朗外交部發言人巴加埃當地時間18日表示，目前伊朗與美國的諒解備忘錄文字已最終正式敲定，雙方已經簽署。（央視新聞）
-
----
-
-### 2026-06-18 05:33:22  #公司 #國際
-
-美國空軍授予通用原子公司安杜里爾工業公司無人機僚機生產合同，未披露合同訂購數量。
-
----
-
-### 2026-06-18 05:32:40  #MKT News
-
-Iran Foreign Ministry spokesman said the negotiating delegation will still attend the scheduled talks in Geneva, Switzerland.
-
----
-
-### 2026-06-18 05:32:20  #國際
-
-伊朗外交部發言人：談判團隊按計劃仍將前往日內瓦。
-
----
-
-### 2026-06-18 05:32:09  #公司 #國際
-
-【伊朗議長卡利巴夫稱沒有禁止美國在伊朗投資】伊朗首席談判代表卡利巴夫在電視採訪中表示，自伊斯蘭革命以來，伊朗從未禁止美國公司投資其經濟基礎設施、石油、天然氣或礦業領域。“美國人制裁了他們自己的公司，不讓它們在伊朗運營，同時還阻止其他公司進入伊朗市場。”卡利巴夫稱，伊朗在與美國達成的協議中獲得了一項3000億美元投資條款，“其中一部分將用於彌補我們的損失和重建”。
-
----
-
-### 2026-06-18 05:31:49  #MKT News
-
-【Iran foreign ministry spokesman says Iran and US have signed memorandum of understanding】Iran’s foreign ministry spokesman Baghaei said on the 18th (local time) that the text of a memorandum of understanding between Iran and the US has been finalized and signed by both sides.
-
----
-
-### 2026-06-18 05:29:54  #MKT News #Important
-
-Iran's foreign ministry spokesman said Friday's meeting in Switzerland is not intended to result in a signed agreement; a decision on whether the meeting will proceed is expected within the next few hours.
-
----
-
-### 2026-06-18 05:29:01  #國際
-
-伊朗外交部發言人：原定週五在瑞士舉行的會議並非為簽署協議而召開，且該會議是否會如期舉行，預計未來幾小時內就會有結果。
-
----
-
-### 2026-06-18 05:27:47  #MKT News
-
-Iran Foreign Ministry spokesperson said the agreement text should exist in electronic form and be signed by the presidents of both countries.
-
----
-
-### 2026-06-18 05:27:39  #焦點 #國際
-
-伊朗外交部發言人：我們已商定，協議文字應為電子形式，由雙方兩國總統簽署。
-
----
-
-### 2026-06-18 05:27:31  #國際
-
-伊朗議會議長卡利巴夫：談判結束、諒解備忘錄簽署完成後，政府的工作重心將轉向服務民眾、解決國內民生需求。
-
----
-
-### 2026-06-18 05:25:50  #國際
-
-美國多名高階官員出面澄清美伊諒解備忘錄的核心條款，駁斥了相關報道中所稱伊朗簽署協議後就能動用被凍結資產、獲得制裁豁免或數百億美元重建配套資金的說法。
-
----
-
-### 2026-06-18 05:24:50  #國際
-
-伊朗外交部發言人：伊朗和美國總統可能已簽署諒解備忘錄文字。
-
----
-
-### 2026-06-18 05:24:10  #MKT News #S&P500 #Impact bullish #DXY #Impact bearish #WTI
-
-Axios, citing two U.S. officials, reported the U.S. and Iran signed a memorandum of understanding on Wednesday to end the war; the agreement is now in effect.
-
----
-
-### 2026-06-18 05:24:02  #國際
-
-美國和伊朗今天以電子方式簽署了諒解備忘錄。
-
----
-
-### 2026-06-18 05:23:47  #其他 #焦點
-
-美伊諒解備忘錄已完成雙方簽署，即刻生效。
-
----
-
-### 2026-06-18 05:23:40  #MKT News #Important #WTI #Impact bearish #Brent
-
-Iranian state broadcaster Press TV quoted an Iranian foreign ministry spokesman saying a memorandum of understanding between Iran and the United States has been finalized and signed by both parties.
-
----
-
-### 2026-06-18 05:22:36  #焦點 #國際
-
-伊朗外交部發言人：伊美諒解備忘錄文字已正式敲定，雙方均已簽署該檔案。
-
----
-
-### 2026-06-18 05:22:05  #MKT News
-
-Ukrainian President Zelenskiy said he held coordinated talks with U.S. President Trump and French President Macron, thanking Trump for help advancing the peace process and Macron for organizing a summit and their joint efforts.
-
----
-
-### 2026-06-18 05:21:43  #國際
-
-澤連斯基表示，他感謝特朗普助力推動和平程序，感謝馬克龍組織此次峰會並開展聯合工作。
-
----
-
-### 2026-06-18 05:21:39  #國際
-
-烏克蘭總統澤連斯基稱，他與特朗普、馬克龍進行了“協調立場對話”。
-
----
-
-### 2026-06-18 05:20:15  #公司 #市場
-
-【儲存晶片供應緊張，庫克宣佈漲價計劃，蘋果股價小幅走高】蘋果公司股價盤後小幅上漲0.5%。此前庫克透露，計劃上調旗下產品售價，以此消化記憶體與儲存晶片上漲帶來的成本壓力。庫克在採訪中表示，蘋果準備動用自有現金儲備，增加儲存晶片的供貨供給。
-
----
-
-### 2026-06-18 05:15:47  #公司
-
-【庫克：受儲存晶片緊缺影響，蘋果將上調產品售價】蘋果公司執行長蒂姆·庫克透露，受記憶體、儲存晶片成本飆升衝擊，蘋果計劃上調旗下產品售價以對沖成本壓力。“很遺憾，漲價已是無法避免。”他表示，“我們一直在盡力消化轉嫁而來的鉅額成本，努力不讓消費者承擔漲價壓力，但當前局面已經難以為繼。”庫克並未透露漲價的具體落地時間、上調幅度以及受影響的產品品類。蘋果下一場大型新品釋出會預計在9月，屆時將推出iPhone 18系列，其中包含全新摺疊款iPhone。
-
----
-
-### 2026-06-18 05:15:24  #市場
-
-富時A50期指連續夜盤收跌0.48%，報15522點。
-
----
-
-### 2026-06-18 05:14:09  #公司 #國際
-
-【特朗普戲稱若美伊沒簽成就賴萬斯】美國總統特朗普當地時間6月17日在七國集團峰會結束後的記者會上表示，他可能會繼續留在歐洲出席美國與伊朗諒解備忘錄的簽署儀式，但也可能不會，因為這畢竟“不是一份重要到必須由他來簽署的檔案”。在回答記者提問時，他還戲稱，“簽署儀式如果成了，我就把功勞攬過來；如果黃了，我就怪（出席儀式的美國副總統）萬斯。”在回答有關“設立3000億美元基金用於伊朗重建和經濟發展”的問題時，特朗普強調，“美國不出錢”，但如果伊朗“表現好、守規矩”，美國將允許其出售石油，允許別人投資伊朗。 特朗普還再次威脅“如果伊朗違約將遭美軍轟炸”。但現場有記者質疑“諒解備忘錄中並不包括相關強制執行的條款”。特朗普對此回應稱，“難道非得有（強制執行條款）不可嗎？
-
----
-
-### 2026-06-18 05:13:36  #MKT News #Market Themes #Chip Wars #Magnificent 7 #Star Stocks #Apple #AAPL.O #Impact mixed
-
-【Cook says Apple will raise prices to offset surge in memory-chip costs】According to the Wall Street Journal, Apple CEO Cook said the company plans to raise product prices to offset a sharp rise in memory and storage chip costs, calling price increases "unavoidable"; he declined to specify timing, magnitude or which products would be affected. Cook flagged DRAM pressure in particular, saying more capacity is being allocated to AI servers and high‑bandwidth memory, tightening supply for consumer devices as vendors push prices higher. He said Apple is prepared to use its cash balance to secure additional memory supply and support more capacity but ruled out building its own memory or storage fabs.
 
 ---

@@ -1,7 +1,97 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-06-25 05:10:53_
-_本檔包含 3237 則快訊，約 626135 字_
+_更新時間：2026-06-25 05:34:36_
+_本檔包含 3220 則快訊，約 625564 字_
+
+---
+
+### 2026-06-24 04:23:49  #公司
+
+遊戲驛站董事會取消執行長瑞安・科恩的績效獎金，以便其全身心推進收購eBay的相關工作。
+
+---
+
+### 2026-06-24 04:22:22  #其他
+
+遊戲驛站：擬於本週釋出對eBay發起收購的戰略依據與計劃。
+
+---
+
+### 2026-06-24 04:21:52  #公司 #市場
+
+耐克公司公佈首席財務官繼任計劃及第四財季業績指引後，盤後股價上漲1%。
+
+---
+
+### 2026-06-24 04:20:05  #MKT News #Important #Commodities #Energy #WTI #Impact mixed #Brent
+
+API weekly U.S. crude inventory for week to June 19 due in 10 minutes.
+
+---
+
+### 2026-06-24 04:17:48  #其他
+
+耐克：任命戴維·M·登頓為首席財務官，8月17日起生效。
+
+---
+
+### 2026-06-24 04:17:38  #其他
+
+耐克：首席財務官馬修·弗倫德將卸任，留任至9月4日。
+
+---
+
+### 2026-06-24 04:15:13  #Trading Economics #Markets #Canada #Stock Market #Importance 1
+
+TSX Slips on Global Tech Selloff — The S&P/TSX Composite Index fell 0.2% to close at 34,927 on Tuesday, tracking global equities amid a broad selloff in technology stocks and persistent concerns over elevated interest rates. Worries that speculative AI spending by hyperscalers may be running ahead of fundamentals weighed on North American tech shares and hurt overall risk appetite. Celestica plunged 6.2%, leading losses in the tech sector. Gold prices also declined, extending pressure on mining stocks following the hawkish projections from the US Federal Reserve last week. Agnico Eagle shed 3.5%, Barrick lost 4.7%, and WPM dropped 4.1%. Meanwhile, oil prices fell for a second straight session as supply concerns eased amid progress in restoring shipments through the Strait of Hormuz, reducing fears of energy-driven inflation but weighing on energy shares.
+
+---
+
+### 2026-06-24 04:14:53  #公司
+
+黑石集團預計2026年第二季度已實現業績收入及主體投資收益將超5億美元。
+
+---
+
+### 2026-06-24 04:14:37  #市場
+
+聯邦快遞股價盤後交易跌3.6%。
+
+---
+
+### 2026-06-24 04:12:56  #國際
+
+【特朗普稱美國正致力於與伊朗達成一項公平協議】當地時間6月23日，美國總統特朗普表示，美國“正致力於與伊朗達成一項公平的協議”，以結束霍爾木茲海峽的衝突。他稱，僅在前一天（6月22日），就有1900萬桶石油透過霍爾木茲海峽運輸。特朗普再次強調稱“伊朗不能擁有核武器”，並表示當前相關工作進展順利。（央視新聞）
+
+---
+
+### 2026-06-24 04:12:41  #MKT News #Commodities #Energy #WTI #Impact bearish #Brent
+
+【Trump says U.S. seeking fair deal with Iran to end Strait of Hormuz conflict】On June 23, Trump said the U.S. is seeking a fair deal with Iran to end the conflict in the Strait of Hormuz, noting 19 million barrels of oil transited the strait on June 22. He reiterated that Iran must not possess nuclear weapons and said related efforts are progressing well.
+
+---
+
+### 2026-06-24 04:11:04  #國際
+
+【美參議院透過決議 旨在限制特朗普對伊戰爭權力】當地時間6月23日，美國國會參議院以50票贊成、48票反對透過眾議院此前已透過的關於伊朗的戰爭權力決議。這是相關決議首次獲得國會兩院透過。該決議要求總統在未經國會宣戰或授權使用武力的情況下，結束美國對伊朗的軍事行動。不過，由於該決議屬於國會共同決議，不具有法律約束力，也無需總統簽署，因此主要具有象徵意義。
+
+---
+
+### 2026-06-24 04:09:34  #MKT News
+
+【Trump administration mulls White House aide Heidi Overton for FDA commissioner】White House domestic policy aide Heidi Overton is among the final candidates the Trump administration is considering to lead the FDA. No selection has been made and it is unclear whether Overton has the backing of Health Secretary Robert F. Kennedy Jr. Any nominee for FDA commissioner would require Senate confirmation.
+
+---
+
+### 2026-06-24 04:09:19  #公司
+
+聯邦快遞：將擇機回購至多10億美元公司股票。
+
+---
+
+### 2026-06-24 04:09:06  #Trading Economics #Markets #United States #Stock Market #Importance 2
+
+US Stocks Close Lower on Tech Selloff — US stock indices closed negative on Tuesday amid a selloff in heavyweight chip producers. The S&P 500 fell 1.4%, and the Nasdaq 100 lost 3.3% as AI infrastructure companies, including semiconductor and memory chip producers, tanked on increasing skepticism that AI spending by hyperscalers will not meet returns. Also, SK Hynix slowed production of advanced AI chips to boost commodity DRAM capacity, a sign that demand for compute could slow. Nvidia (-3.1%), Micron (-13.2%), AMD(-5.8%), Broadcom (-3.1%), Sandisk (-11.2%), and Qualcomm (-8%) posted losses. Tesla lost 4.7% and Oracle slipped 5.7%. Meanwhile, SpaceX added 1%, rebounding as it issued bonds only one week after its IPO, adding to caution on colossal capital expenditure. Treasury yields remained elevated despite the decline in energy prices following the hawkish dot plot last week, limiting any respite for traditional sectors of the economy. Gains for healthcare and consumer defensive companies aided the Dow to close near flat.
 
 ---
 
@@ -19357,197 +19447,5 @@ Federal Reserve chair Kevin Warsh will testify before the House Financial Servic
 ### 2026-06-23 04:36:58  #MKT News #XAUUSD #Impact bullish #Brent #DXY
 
 【Israel says it will continue decisive action to destroy military infrastructure in southern Lebanon】Late on the 22nd local time, the Israeli prime minister's office said after a phone call between Prime Minister Netanyahu, Defense Minister Katz, IDF Chief of Staff Zamir and Northern Command commander Rafi Milo that the IDF will continue to take decisive action to thwart threats to Israeli soldiers and civilians, destroy military infrastructure in southern Lebanon and maintain a "security zone" there.
-
----
-
-### 2026-06-23 04:35:19  #Trading Economics #Markets #United States #Stock Market #Importance 1
-
-The Dow Jones Index Closes 0.29% Higher — The Dow Jones Index went up by 148 points or 0.29 percent on Monday to close at 51713 points. The rise was led by Caterpillar (3.50%), Amgen (2.12%) and JPMorgan (2.01%). On the downside, the weakerst performers were Amazon (-4.62%), Nike (-4.42%) and Microsoft (-3.20%).
-
----
-
-### 2026-06-23 04:34:56  #其他
-
-委內瑞拉一季度石油銷售在總體出口的佔比為70.8%。
-
----
-
-### 2026-06-23 04:34:26  #MKT News
-
-U.S. President Trump signed an executive order on quantum technology.
-
----
-
-### 2026-06-23 04:34:19  #國際
-
-【以色列稱將繼續採取行動摧毀黎南部軍事設施】當地時間22日深夜，以色列總理辦公室透過社交媒體釋出宣告稱，不久前，以色列總理內塔尼亞胡、國防部長卡茨、以軍總參謀長扎米爾以及以軍北方司令部司令拉菲·米洛舉行了電話會議。內塔尼亞胡、卡茨和扎米爾在會後發表的聯合宣告中宣稱，以色列國防軍將繼續採取決斷行動，以挫敗針對以色列士兵和民眾的威脅，摧毀黎巴嫩南部的軍事基礎設施，並繼續維持在黎南部的所謂“安全區”。（央視新聞）
-
----
-
-### 2026-06-23 04:32:09  #MKT News #Market Themes #AI Revolution #IBM.N #Impact bullish
-
-IBM (IBM.N) expands its cybersecurity collaboration with OpenAI, launching advanced AI capabilities intended to help enterprises defend against machine-speed cyber threats.
-
----
-
-### 2026-06-23 04:31:33  #MKT News #IBM.N #Impact bullish
-
-IBM (IBM.N) launched a new application security service today and said additional integrations will follow.
-
----
-
-### 2026-06-23 04:31:29  #MKT News #ORCL.N
-
-Oracle (ORCL.N) said it had about 141,000 full-time employees as of May 31.
-
----
-
-### 2026-06-23 04:30:54  #其他
-
-IBM：全新應用安全服務今日正式上線，後續還規劃了更多整合功能。
-
----
-
-### 2026-06-23 04:30:19  #國際
-
-特朗普談及北約： 他們跟我們說 “我們不想出力相助”，這話實在愚蠢。 畢竟只要我們願意，我們也能對他們說出同樣的話，而且我們或許真會這麼做。
-
----
-
-### 2026-06-23 04:30:16  #MKT News #Market Themes #AI Revolution #Magnificent 7 #Star Stocks #Meta Platforms #META.O
-
-Business Insider reported Meta has suspended an internal AI training program after a recent sensitive-data leak that was accessible company-wide.
-
----
-
-### 2026-06-23 04:29:42  #其他
-
-IBM 與 OpenAI 聯手將前沿人工智慧技術應用於網路防禦領域，助力企業應對機器級高速網路威脅。
-
----
-
-### 2026-06-23 04:28:48  #其他
-
-市場訊息：羅馬尼亞總理候選人信任投票失利，政壇僵局進一步延續。
-
----
-
-### 2026-06-23 04:27:44  #公司
-
-甲骨文：截至 5 月 31 日，公司全職員工約 14.1 萬人。
-
----
-
-### 2026-06-23 04:27:20  #公司
-
-市場訊息：因全公司範圍內可訪問敏感資料，Meta 暫停一項內部 AI 培訓專案。
-
----
-
-### 2026-06-23 04:25:01  #其他
-
-Groq：完成 6.5 億美元融資，用於擴大其 AI 推理雲業務規模。本輪融資由 Disruptive 與 Infinitum 領投，多家原有投資者選擇追加投資參與本輪募資。
-
----
-
-### 2026-06-23 04:22:13  #MKT News
-
-【Nabil Fahmy formally appointed Arab League secretary-general】The Arab League Council of Foreign Ministers meeting in Amman on the 22nd approved the appointment of Egypt’s former foreign minister Nabil Fahmy as Arab League secretary-general. He will replace Ahmed Gheit when Gheit’s term expires on June 30, 2026; Fahmy will assume office on July 1, 2026 for a term running to 2031.
-
----
-
-### 2026-06-23 04:21:38  #國際
-
-【納比勒·法赫米正式被任命為阿盟秘書長】當地時間22日，在約旦首都安曼舉行的阿拉伯國家聯盟（阿盟）外長理事會會議正式批准任命埃及前外交部長納比勒·法赫米為阿盟秘書長，接替任期將於2026年6月30日屆滿的艾哈邁德·蓋特。納比勒·法赫米將於2026年7月1日就任阿盟第九任秘書長，任期至2031年。（央視新聞）
-
----
-
-### 2026-06-23 04:17:47  #MKT News #Market Themes #The Trump Trade #S&P500 #Impact bearish #DXY #Impact bullish #WTI
-
-President Trump said he could quickly reimpose lockdowns if necessary.
-
----
-
-### 2026-06-23 04:17:20  #MKT News #Market Themes #The Trump Trade
-
-Trump: defense contractors will not be permitted to repurchase shares.
-
----
-
-### 2026-06-23 04:17:14  #國際
-
-特朗普：我們與哥倫比亞的關係將會大幅改善。
-
----
-
-### 2026-06-23 04:17:00  #國際
-
-特朗普：哥倫比亞總統致電感謝我。
-
----
-
-### 2026-06-23 04:16:58  #MKT News
-
-US President Trump said Colombia's president called to thank him.
-
----
-
-### 2026-06-23 04:16:06  #MKT News
-
-President Trump said as long as Iran respects the United States, we will have no problems.
-
----
-
-### 2026-06-23 04:15:32  #國際
-
-特朗普：我們完全掌控了海峽，如有必要，可以迅速重啟封鎖。
-
----
-
-### 2026-06-23 04:15:12  #MKT News
-
-U.S. President Trump wished Starmer well.
-
----
-
-### 2026-06-23 04:15:00  #MKT News
-
-US President Trump said he told UK Prime Minister Starmer that Starmer had really messed up on energy.
-
----
-
-### 2026-06-23 04:14:52  #國際
-
-特朗普：通用汽車 “熱衷於製造武器”。
-
----
-
-### 2026-06-23 04:14:14  #國際
-
-特朗普談及國防承包商：禁止股票回購，股票回購是人為抬高股價的虛假手段。
-
----
-
-### 2026-06-23 04:12:51  #國際
-
-特朗普談及英國首相斯塔默：我祝他一切順利。
-
----
-
-### 2026-06-23 04:11:44  #國際
-
-以色列總理、國防部長和參謀長聯合宣告：以色列國防軍將繼續果斷行動，消除威脅，摧毀基礎設施，並繼續維護黎巴嫩南部的安全區。
-
----
-
-### 2026-06-23 04:11:40  #MKT News #XAUUSD #Impact bullish #Brent #DXY
-
-In a joint statement, Israel's prime minister, defense minister and chief of staff said the Israel Defense Forces will continue decisive operations to eliminate threats, destroy infrastructure and maintain the security zone in southern Lebanon.
-
----
-
-### 2026-06-23 04:11:26  #Trading Economics #Markets #United States #Stock Market #Importance 2
-
-US Stocks Close Mixed Pressured by Megacaps — US stock indexes closed mixed on Monday as losses in megacap tech stocks offset optimism over progress in restoring energy supply from the Middle East. The S&P 500 fell 0.4%, while the Nasdaq 100 lost 0.2%. Alphabet dropped 5.2% after reports that another top AI researcher left for a rival, deepening concerns over its competitive position in artificial intelligence. Broadcom tumbled 4.7%, Amazon declined 4.4%, Microsoft lost 3.2% and Meta fell 2.7%. SpaceX plunged 16.4% after announcing a new bond sale. In contrast, Micron gained 6.8% after announcing a strategic agreement with Anthropic. Meanwhile, the Dow Jones rose 148 points after Iran said recent talks with the US made significant progress, with both sides aiming to reach a peace deal within two months. Energy prices extended losses on expectations of restored supply, while lingering expectations of a hawkish Federal Reserve following last week’s meeting kept pressure on Treasuries.
 
 ---

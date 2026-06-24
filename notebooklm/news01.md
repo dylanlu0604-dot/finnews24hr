@@ -1,7 +1,91 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-06-25 05:10:53_
-_本檔包含 3594 則快訊，約 626528 字_
+_更新時間：2026-06-25 05:34:36_
+_本檔包含 3593 則快訊，約 626799 字_
+
+---
+
+### 2026-06-25 05:31:47  #MKT News
+
+【DRC Ebola outbreak still spreading; WHO says response lagging, vaccine R&D must accelerate】WHO said the Ebola outbreak in the Democratic Republic of Congo is still spreading rapidly and response efforts are lagging, with frontline health workers facing severe safety risks and containment confronting multiple major challenges. UNICEF and Gavi urged acceleration of vaccine development and supply for the Bundibugyo ebolavirus. Gavi plans to transfer R&D materials to manufacturers shortly and expects to have doses prepared and to begin trials by end-2026.
+
+---
+
+### 2026-06-25 05:29:48  #國際
+
+北約秘書長呂特：特朗普還希望北約盟友增加開支。
+
+---
+
+### 2026-06-25 05:28:37  #國際
+
+北約秘書長呂特：特朗普堅定支援北約同盟。
+
+---
+
+### 2026-06-25 05:25:31  #國際
+
+北約秘書長呂特：與特朗普的會談十分順利。
+
+---
+
+### 2026-06-25 05:20:35  #MKT News #Market Regions #Wall Street (US) #JPM.O #Impact bullish #GS.O #MS.O
+
+【US big banks raise dividends after Fed stress tests; JP Morgan launches $50bn buyback】US large banks raised dividends after passing the Federal Reserve's annual stress tests, following gradual regulatory adjustments that have eased the test hurdle. JP Morgan raised its quarterly dividend to $1.65 from $1.50 and approved a $50 billion share buyback effective July 1. Wells Fargo raised its dividend to $0.50 from $0.45. Morgan Stanley raised its dividend to $1.15 from $1.00. Goldman Sachs raised its dividend to $5.00 from $4.50.
+
+---
+
+### 2026-06-25 05:18:13  #其他
+
+市場訊息：貝恩資本即將達成交易，收購大眾旗下 Everllence 部分股權。
+
+---
+
+### 2026-06-25 05:17:52  #公司 #市場
+
+標普道瓊斯指數公司：Netstreit 公司將於 6 月 29 日開盤前替換 ProAssurance 公司，納入標普小盤 600 指數。
+
+---
+
+### 2026-06-25 05:17:40  #MKT News #Market Regions #Europe & UK
+
+【Trump on potential UK PM Burnham: not familiar, 'extremely liberal'】US President Trump dismissed Andy Burnham, saying he was unfamiliar with the former Greater Manchester mayor and had 'only heard' he is 'extremely liberal.' Trump added he thought Burnham 'may not develop North Sea resources.' Burnham is reportedly likely to be the sole nominee to replace Keir Starmer as Labour leader and could become UK prime minister by mid-July. The comments also lay groundwork for possible future tensions between the two leaders.
+
+---
+
+### 2026-06-25 05:16:40  #MKT News
+
+【Pakistan counterterrorism unit says it killed six terrorists】Pakistan's Khyber Pakhtunkhwa counterterrorism department said on the 24th that a joint operation with police killed six terrorists. The department said the group had earlier attacked a local police post, killing one officer.
+
+---
+
+### 2026-06-25 05:16:15  #其他
+
+【巴基斯坦反恐部門稱擊斃6名恐怖分子】巴基斯坦西北部開伯爾－普什圖省反恐部門24日釋出宣告說，該部門在和警方的聯合行動中擊斃6名恐怖分子。宣告說，這夥恐怖分子此前襲擊該地區一警察哨所，導致一名警員殉職。
+
+---
+
+### 2026-06-25 05:15:20  #市場
+
+富時A50期指連續夜盤收跌0.02%，報15537點。
+
+---
+
+### 2026-06-25 05:13:46  #國際
+
+【特朗普回應拒籤住房法案：比任何人都懂房地產 降息才是關鍵】當地時間6月24日，被問及臨時取消旨在降低住房成本和增加住房供應法案的簽署計劃時，美國總統特朗普表示，“我說過我不會簽署那個法案。我在房地產行業賺了幾十億美元，我比任何人都更瞭解房地產。這完全是利率的事情，我們要降低利率。我也不想傷害那些擁有房產的人。對這些人來說，他們人生中第一次擁有了有價值的房子，他們變得富有了。我也不想傷害他們。”
+
+---
+
+### 2026-06-25 05:13:43  #Trading Economics #Economy #South Korea #Business Confidence #Importance 1
+
+South Korea Manufacturing Confidence Eases in June — South Korea’s Business Survey Index for the manufacturing sector edged down to 79 in June 2026 from 80 in the previous month. The production index was unchanged at 90, while the new orders index rose to 88 from 87. Meanwhile, the inventories index held steady at 100, and the financial conditions index improved slightly to 80 from 79. The Composite Business Sentiment Index for manufacturing rose 0.4 points to 101.2, signaling a modest improvement in current conditions. However, the outlook for the following month weakened, with the forward-looking sentiment index falling 2.1 points to 98.2.
+
+---
+
+### 2026-06-25 05:13:35  #MKT News #Important #Macro & Rates #US Economy #US10Y #Impact bullish #DXY #Impact bearish #S&P500
+
+【Trump says he will not sign housing bill, frames issue as interest-rate driven and backs rate cuts】On June 24, asked about his decision not to sign a bill intended to lower housing costs and boost supply, President Trump said he will not sign the measure. He said he has made billions in real estate and "understands real estate better than anyone," called the problem "entirely about rates," and said "we need to lower rates." He added he does not want to hurt homeowners who have gained wealth from rising house values.
 
 ---
 
@@ -21598,95 +21682,5 @@ Market sources said Morgan Stanley's private credit fund has set a 5% redemption
 ### 2026-06-24 04:24:17  #MKT News
 
 【China's U.S. ambassador Xie Feng rebuts Panama accusations over port-state inspections】On June 23, 2026, at an OAS dialogue in Panama, Chinese Ambassador to the U.S. and OAS observer Xie Feng rejected Panama's allegations that China improperly carried out port-state inspections on arriving ships. Xie said the charges were false, citing multiple collisions since 2026 involving Panama-flagged vessels in Chinese waters that caused deaths and missing persons. He said China, under Chinese law and relevant international conventions, has conducted port-state control inspections to protect maritime and crew safety and that inspections are not targeted at any specific country or flag. Xie urged Panama to correct the record and safeguard the lawful rights of Chinese firms.
-
----
-
-### 2026-06-24 04:23:49  #公司
-
-遊戲驛站董事會取消執行長瑞安・科恩的績效獎金，以便其全身心推進收購eBay的相關工作。
-
----
-
-### 2026-06-24 04:22:22  #其他
-
-遊戲驛站：擬於本週釋出對eBay發起收購的戰略依據與計劃。
-
----
-
-### 2026-06-24 04:21:52  #公司 #市場
-
-耐克公司公佈首席財務官繼任計劃及第四財季業績指引後，盤後股價上漲1%。
-
----
-
-### 2026-06-24 04:20:05  #MKT News #Important #Commodities #Energy #WTI #Impact mixed #Brent
-
-API weekly U.S. crude inventory for week to June 19 due in 10 minutes.
-
----
-
-### 2026-06-24 04:17:48  #其他
-
-耐克：任命戴維·M·登頓為首席財務官，8月17日起生效。
-
----
-
-### 2026-06-24 04:17:38  #其他
-
-耐克：首席財務官馬修·弗倫德將卸任，留任至9月4日。
-
----
-
-### 2026-06-24 04:15:13  #Trading Economics #Markets #Canada #Stock Market #Importance 1
-
-TSX Slips on Global Tech Selloff — The S&P/TSX Composite Index fell 0.2% to close at 34,927 on Tuesday, tracking global equities amid a broad selloff in technology stocks and persistent concerns over elevated interest rates. Worries that speculative AI spending by hyperscalers may be running ahead of fundamentals weighed on North American tech shares and hurt overall risk appetite. Celestica plunged 6.2%, leading losses in the tech sector. Gold prices also declined, extending pressure on mining stocks following the hawkish projections from the US Federal Reserve last week. Agnico Eagle shed 3.5%, Barrick lost 4.7%, and WPM dropped 4.1%. Meanwhile, oil prices fell for a second straight session as supply concerns eased amid progress in restoring shipments through the Strait of Hormuz, reducing fears of energy-driven inflation but weighing on energy shares.
-
----
-
-### 2026-06-24 04:14:53  #公司
-
-黑石集團預計2026年第二季度已實現業績收入及主體投資收益將超5億美元。
-
----
-
-### 2026-06-24 04:14:37  #市場
-
-聯邦快遞股價盤後交易跌3.6%。
-
----
-
-### 2026-06-24 04:12:56  #國際
-
-【特朗普稱美國正致力於與伊朗達成一項公平協議】當地時間6月23日，美國總統特朗普表示，美國“正致力於與伊朗達成一項公平的協議”，以結束霍爾木茲海峽的衝突。他稱，僅在前一天（6月22日），就有1900萬桶石油透過霍爾木茲海峽運輸。特朗普再次強調稱“伊朗不能擁有核武器”，並表示當前相關工作進展順利。（央視新聞）
-
----
-
-### 2026-06-24 04:12:41  #MKT News #Commodities #Energy #WTI #Impact bearish #Brent
-
-【Trump says U.S. seeking fair deal with Iran to end Strait of Hormuz conflict】On June 23, Trump said the U.S. is seeking a fair deal with Iran to end the conflict in the Strait of Hormuz, noting 19 million barrels of oil transited the strait on June 22. He reiterated that Iran must not possess nuclear weapons and said related efforts are progressing well.
-
----
-
-### 2026-06-24 04:11:04  #國際
-
-【美參議院透過決議 旨在限制特朗普對伊戰爭權力】當地時間6月23日，美國國會參議院以50票贊成、48票反對透過眾議院此前已透過的關於伊朗的戰爭權力決議。這是相關決議首次獲得國會兩院透過。該決議要求總統在未經國會宣戰或授權使用武力的情況下，結束美國對伊朗的軍事行動。不過，由於該決議屬於國會共同決議，不具有法律約束力，也無需總統簽署，因此主要具有象徵意義。
-
----
-
-### 2026-06-24 04:09:34  #MKT News
-
-【Trump administration mulls White House aide Heidi Overton for FDA commissioner】White House domestic policy aide Heidi Overton is among the final candidates the Trump administration is considering to lead the FDA. No selection has been made and it is unclear whether Overton has the backing of Health Secretary Robert F. Kennedy Jr. Any nominee for FDA commissioner would require Senate confirmation.
-
----
-
-### 2026-06-24 04:09:19  #公司
-
-聯邦快遞：將擇機回購至多10億美元公司股票。
-
----
-
-### 2026-06-24 04:09:06  #Trading Economics #Markets #United States #Stock Market #Importance 2
-
-US Stocks Close Lower on Tech Selloff — US stock indices closed negative on Tuesday amid a selloff in heavyweight chip producers. The S&P 500 fell 1.4%, and the Nasdaq 100 lost 3.3% as AI infrastructure companies, including semiconductor and memory chip producers, tanked on increasing skepticism that AI spending by hyperscalers will not meet returns. Also, SK Hynix slowed production of advanced AI chips to boost commodity DRAM capacity, a sign that demand for compute could slow. Nvidia (-3.1%), Micron (-13.2%), AMD(-5.8%), Broadcom (-3.1%), Sandisk (-11.2%), and Qualcomm (-8%) posted losses. Tesla lost 4.7% and Oracle slipped 5.7%. Meanwhile, SpaceX added 1%, rebounding as it issued bonds only one week after its IPO, adding to caution on colossal capital expenditure. Treasury yields remained elevated despite the decline in energy prices following the hawkish dot plot last week, limiting any respite for traditional sectors of the economy. Gains for healthcare and consumer defensive companies aided the Dow to close near flat.
 
 ---
