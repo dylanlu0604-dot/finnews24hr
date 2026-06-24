@@ -1,7 +1,84 @@
 {
-  "updated": "2026-06-24 15:17:57",
-  "count": 17371,
+  "updated": "2026-06-24 15:22:00",
+  "count": 17370,
   "items": [
+    {
+      "id": "4952028",
+      "time": "2026-06-24 15:20:52",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美媒稱伊朗研讀《交易的藝術》以破解特朗普談判策略】伊朗外交官表示，由於特朗普行事風格與眾不同，他們一直在研讀特朗普與記者託尼·施瓦茨於1987年合著的《交易的藝術》。該書建議談判者提出極端且難以預測的要求，以製造焦慮，迫使對手作出讓步。伊朗談判代表曾告訴中間人，他們諮詢了一個心理學家團隊以幫助理解特朗普的思維方式，試圖預測特朗普對伊朗提議的公開反應。政治分析人士和調解人士表示，特朗普高調且強硬的表態迄今尚未從伊朗方面換取額外讓步。華盛頓智庫威爾遜中心伊朗問題專家穆罕默德·阿梅爾西表示：“特朗普正在運用《交易的藝術》中的策略，透過極端威脅來測試對方的決心。但伊朗人非常清楚他的策略。”而一位瞭解伊朗在瑞士外交談判情況的人士表示，伊朗談判團隊中並沒有心理學家，而且伊朗方面更傾向於避免從心理層面揣測特朗普的動機或決策。"
+    },
+    {
+      "id": "4952027",
+      "time": "2026-06-24 15:20:41",
+      "tags": [
+        "市場"
+      ],
+      "text": "【安永報告：上半年A股首日平均回報率超230%】安永6月24日釋出的中國內地和香港IPO市場報告顯示，2026年上半年，A股IPO市場未出現破發，平均首日回報率為233%，位居近五年榜首；港股上半年首日平均回報率61%，新股首日破發率12%，創下近五年新低。"
+    },
+    {
+      "id": "mkt:019ef880-a7ac-7dd8-b0f0-5e84d3c88feb",
+      "time": "2026-06-24 15:20:41",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish",
+        "Hang Seng Index"
+      ],
+      "text": "【Ernst & Young: 1H 2026 A-share IPOs average 233% first-day return】Ernst & Young's June 24 report on mainland China and Hong Kong IPO markets shows that in 1H 2026 A-share listings saw no first-day price declines and averaged a 233% first-day return, the highest in five years. Hong Kong listings averaged a 61% first-day return, with a 12% first-day loss rate for new issues, the lowest in five years."
+    },
+    {
+      "id": "mkt:019ef880-a68a-7dd8-b0f0-5031000a5d3e",
+      "time": "2026-06-24 15:20:41",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【US media say Iran studied The Art of the Deal to decode Trump's negotiating tactics】The Wall Street Journal on the 23rd reported Iranian diplomats say they have been studying The Art of the Deal—which advocates extreme, unpredictable demands to create anxiety and force concessions—to understand Trump's negotiating style. Iranian negotiators told intermediaries they consulted a team of psychologists to help anticipate Trump's likely public reactions; a person familiar with Iran's talks in Switzerland said there were no psychologists on the team and Tehran prefers not to psychoanalyze Trump's motives. Political analysts and mediators say Trump's high-profile, hardline statements have so far not produced additional concessions. Mohammad Amersi of the Wilson Center said Trump is deploying those tactics to test opponents' resolve, but Iranians are aware of his approach."
+    },
+    {
+      "id": "mkt:019ef880-36c1-7dd8-b0f0-4fd0e2183152",
+      "time": "2026-06-24 15:20:12",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "Copper",
+        "Impact bullish"
+      ],
+      "text": "【China EV charging connectors total 22.497 million at end‑May】National Energy Administration data from the national charging facilities monitoring platform show China had 22.497 million EV charging connectors at end‑May 2026, up 44.9% YoY. Public connectors numbered 4.951 million (+25.9% YoY) with aggregate rated power of 242 GW and average power per connector of about 48.89 kW. Private connectors reached 17.546 million (+51.4% YoY); private charging reported installed capacity was 151 million kVA."
+    },
+    {
+      "id": "mkt:019ef87e-f46e-7dd8-b0f0-4421980e47f6",
+      "time": "2026-06-24 15:18:50",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "BOT expects inf to peak at 4.5% this year."
+    },
+    {
+      "id": "4952026",
+      "time": "2026-06-24 15:18:47",
+      "tags": [
+        "公司"
+      ],
+      "text": "【無錫資料集團與帕西尼達成戰略合作】6月22日，無錫資料集團與帕西尼感知科技（深圳）（簡稱“帕西尼”）達成戰略合作。雙方將依託無錫城市級全域真實場景網路，打通“EGO空間語義採集—高自由度觸覺感知—多模態資料對齊—資料資產化運營”的全鏈路。"
+    },
+    {
+      "id": "mkt:019ef87e-c84d-7dd8-b0f0-383db7b573fc",
+      "time": "2026-06-24 15:18:38",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Pakistan says US and Iran technical talks will resume next week, Saudi broadcaster Al Arabiya reports."
+    },
     {
       "id": "mkt:019ef87d-dae6-7dd8-b0f0-3681a1110f98",
       "time": "2026-06-24 15:17:38",
@@ -158982,90 +159059,6 @@
         "MKT News"
       ],
       "text": "【ByteDance launches nationwide request for expressions of interest for integrated testing vendors for self-built data centers】ByteDance issued a nationwide request for expressions of interest (EOI) to build a framework pool of integrated testing and validation service providers for its self-built data-center facilities. It seeks vendors with large data-center testing capabilities. Required services include project documentation review, process inspections, equipment functional verification, room and subsystem performance testing, in-room system energy-efficiency testing, system integration testing and delivery of full test reports. Scope covers single-building delivered IT capacity of approximately 22MW–60MW."
-    },
-    {
-      "id": "4940237",
-      "time": "2026-06-17 15:21:32",
-      "tags": [
-        "公司"
-      ],
-      "text": "【悅達投資等成立悅芯智慧科技公司 含AI及機器人業務】企查查APP顯示，近日，江蘇悅芯智慧科技有限公司成立，經營範圍包含：人工智慧行業應用系統整合服務；人工智慧基礎資源與技術平臺；工業機器人制造；智慧機器人的研發等。企查查股權穿透顯示，該公司由悅達投資等共同持股。"
-    },
-    {
-      "id": "4940236",
-      "time": "2026-06-17 15:21:22",
-      "tags": [
-        "其他"
-      ],
-      "text": "【我國自主研發了OSCAR智慧編譯最佳化系統 攻克國產晶片編譯最佳化核心瓶頸】據大連理工大學訊息，近日，大連理工大學“雙擎智譯”科研團隊自主研發的OSCAR智慧編譯最佳化系統，攻克了國產晶片編譯最佳化核心瓶頸，有效提升國產處理器高效能編譯水平，為國產晶片效能迭代與生態建設提供了可靠技術方案。在國產處理器向高效能運算升級的過程中，編譯最佳化是充分釋放晶片底層算力、保障裝置適配性與執行穩定性的關鍵。長期以來，高階編譯最佳化技術門檻高、壁壘大，成為制約國產晶片效能發揮與生態完善的突出短板。"
-    },
-    {
-      "id": "4940235",
-      "time": "2026-06-17 15:21:09",
-      "tags": [
-        "其他"
-      ],
-      "text": "【位元組跳動釋出自建資料中心機房綜合測試服務供應商意向徵詢】今日位元組跳動釋出“自建資料中心機房綜合測試服務供應商意向徵詢”，面向全國範圍公開尋找具備大型資料中心綜合測試與驗證能力的服務商，建立綜合測試服務框架資源池。服務內容包括但不限於：完成機房樓專案資料審查、專案工藝檢查、裝置功能驗證、機房及子系統效能測試、機房內系統能效測試、系統聯調測試等工作，並出具完整測試報告。綜合測試服務需覆蓋的單棟機房樓交付IT容量約為22MW至60MW。"
-    },
-    {
-      "id": "mkt:019ed474-55a5-7dd8-b046-29fd9e628432",
-      "time": "2026-06-17 15:20:54",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "【Hikvision to raise HDD prices from July 1 as storage costs climb; launches \"Guanlan encoding\" to cut storage over 50% vs H.265】Market sources said Hikvision has sent price-adjustment letters to distributors, with HDD prices to rise effective July 1. Hikvision said global AI compute buildout and rising data storage demand have pushed some storage-product costs higher in Q3; it will monitor market conditions and seek to ensure stable supply and protect customers. To offset HDD price pressure, Hikvision launched video encoding \"Guanlan encoding\", driven by the Guanlan large model, using AI-enabled precision encoding to cut video bitrate while preserving image quality and AI application performance. Hikvision said \"Guanlan encoding\" reduces storage needs by more than 50% versus H.265 and can save up to 90% in some scenarios, aiming to lower customers' storage use and overall build costs."
-    },
-    {
-      "id": "4940232",
-      "time": "2026-06-17 15:20:48",
-      "tags": [
-        "公司"
-      ],
-      "text": "【監管約談山姆後，沃爾瑪中國多位高管變動】 山姆會員商店中國 CMO（首席採購官）張青已於近日提交辭呈。對此，沃爾瑪中國回應稱：“衷心感謝她在任職期間對山姆業務作出的卓越貢獻，並誠摯祝願她在未來一切順利。目前我們正在全球範圍內積極物色繼任人選。過渡期間，Neil Maffey將出任代理山姆會員商店首席採購官。Neil曾於2013-2017年間擔任山姆首席採購官，卸任後長期擔任公司全職顧問至今。”此外，據瞭解，沃爾瑪中國本次人事變動還包括：Tony Paladinetti，現任沃爾瑪國際部戰略副總裁，將加入沃爾瑪中國，擔任沃爾瑪中國戰略副總裁，直接向朱曉靜彙報。內部郵件稱，Tony 將在完成工作簽證流程後於 2026 年 8 月正式加入中國團隊，並與妻子 Meg 及孩子一起搬遷至深圳。現任沃爾瑪中國戰略副總裁楊智安將直接向 Tony 彙報。過渡期間，Neil Maffey，前任山姆會員商店首席採購官及現任全職顧問，將擔任代理山姆會員商店首席採購官，直接向劉鵬，山姆會員商店業態總裁彙報，直至新負責人到崗。祝駿，沃爾瑪商店業態總裁將擴大其職責，分管沃爾瑪中國地產部。現任沃爾瑪中國地產部高階副總裁張晉元將直接向祝駿彙報。"
-    },
-    {
-      "id": "4940231",
-      "time": "2026-06-17 15:19:26",
-      "tags": [
-        "公司"
-      ],
-      "text": "【富信科技與北京科技大學順德創新學院產學研合作簽約】6月15日，廣東富信科技股份有限公司（簡稱“富信科技”）與北京科技大學順德創新學院舉行產學研合作簽約暨“產學研合作基地”“研究生聯合培養基地”揭牌儀式。雙方將依託富信科技在半導體熱電領域的技術積澱與產業優勢，以及北京科技大學的科研資源與人才力量，共同推動半導體熱電器件材料與系統整合的技術突破及產業化落地。"
-    },
-    {
-      "id": "mkt:019ed472-9e24-7dd8-b046-27c234c9152a",
-      "time": "2026-06-17 15:19:01",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "DXY",
-        "Impact mixed",
-        "US10Y",
-        "XAUUSD"
-      ],
-      "text": "【Institutions preview Woshe press conference — first outing uncertain; hawkish or dovish remarks risk market pricing】UBS: Insufficient clarity on Woshe’s policy stance and reaction function; either a hawkish or dovish tilt could create market pricing risk. ANZ: Woshe appears intent on reforms; the press conference may outline reform ideas, with fuller detail likely at the Jackson Hole opening speech in August. BofA: Expects a dovish tone — Woshe may argue the Iran conflict only causes a one-off effect on price levels and should be ‘ignored’ by the Fed, especially after reports of potential resolutions. Capital Economics: Markets risk a more hawkish-than-expected delivery, whether from communication error or because his current stance is less dovish than when courting Trump’s nomination. Yale: Warns that overreliance on soft arguments like an ‘AI disinflation’ thesis while sidelining hard data risks repeating a ‘transitory inflation’ mistake. Nordea: Expects a neutral-to-slightly-hawkish posture to build credibility; any communication shift would be signaling rather than immediate policy action. BNY Mellon: Woshe has criticized forward guidance and may use the press conference — or limit future appearances — to signal changes to Fed communication under his tenure. MFS: Given his views on tech-driven productivity, dovish comments are possible but unlikely, since they would undermine a hawkish image."
-    },
-    {
-      "id": "4940230",
-      "time": "2026-06-17 15:19:00",
-      "tags": [
-        "公司"
-      ],
-      "text": "【螞蟻阿福的2025：讓超8400萬三線及以下地區使用者就醫更簡單】6月17日，螞蟻集團釋出《2025年可持續發展報告》，報告顯示，過去一年螞蟻持續推動AI服務於人，讓就醫更簡單，生活更健康。其AI健康管家“螞蟻阿福”服務三線及以下地區使用者超8400萬（含阿福 App 和支付寶雙端資料）、超過30%使用者為中老年人；AI支付服務使用者中三線及以下地區使用者佔比40%；AI理財助理“螞小財”累計服務使用者超1億，全年發出1.2億次理性投資提醒。"
-    },
-    {
-      "id": "mkt:019ed472-84a1-7dd8-b046-18673d00f7c0",
-      "time": "2026-06-17 15:18:55",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "【After regulatory talks with Sam's Club, Walmart China announces multiple senior management changes】Walmart China said Sam's Club China chief procurement officer Zhang Qing has resigned. Neil Maffey will serve as acting CPO while the company conducts a global search for a permanent successor. Tony Paladinetti, currently SVP, Strategy at Walmart International, will join Walmart China as SVP, Strategy reporting to Zhu Xiaojing. During the transition Maffey, former Sam CPO and current full-time adviser, will report to Liu Peng, president of Sam's Club China, until a new CPO is appointed. Zhu Jun, president of Walmart's store format, will take on additional responsibility for Walmart China real estate."
     }
   ]
 }
