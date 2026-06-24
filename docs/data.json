@@ -1,7 +1,154 @@
 {
-  "updated": "2026-06-24 20:19:45",
-  "count": 17292,
+  "updated": "2026-06-24 20:23:51",
+  "count": 17301,
   "items": [
+    {
+      "id": "mkt:019ef995-ac39-7dd8-b0f9-494d420fd7aa",
+      "time": "2026-06-24 20:23:16",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【MillTech: Chancellor pick likely to drive gilts and sterling】The choice of chancellor is expected to drive UK gilts and sterling, MillTech analyst Nick Wood said. Investors are eager for the chancellor appointment after Starmer's resignation this week; incumbent Chancellor Reeves is likely to be replaced. Wood said the chancellor could be as important to market confidence as the new prime minister and investors want clarity on the incoming team's economic policy. With no other credible challengers so far, front-runner Andy Burnham appears increasingly likely to be appointed prime minister unopposed."
+    },
+    {
+      "id": "mkt:019ef995-0b85-7dd8-b0f9-455e69f18b81",
+      "time": "2026-06-24 20:22:35",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "AFP reports Qatari PM held talks in Oman with Iran and Gulf states on the Strait of Hormuz."
+    },
+    {
+      "id": "4952784",
+      "time": "2026-06-24 20:22:00",
+      "tags": [
+        "國際"
+      ],
+      "text": "【皮尤民調：全球對特朗普及美國的信任度下降】皮尤研究中心週二釋出的一項最新調查顯示，全球對美國總統特朗普領導能力的信心依然低迷，而對美國作為可靠夥伴的看法也持續下降。這項調查於2026年2月至5月期間進行，涵蓋36個國家的42151名成年人。平均而言，只有23%的成年人表示他們相信特朗普會在國際事務中做出正確的決定，而約三分之二的人表示幾乎沒有信心或完全沒有信心。在24個有相關趨勢資料的國家中，有16個國家的信心下降，沒有一個國家的信心有所改善。與此同時，人們對美國本身的看法仍然普遍負面。在36個國家中，只有37%的人對美國持好感，而57%的人持負面看法。"
+    },
+    {
+      "id": "4952783",
+      "time": "2026-06-24 20:21:46",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "卡達首相到訪阿曼，就霍爾木茲海峽局勢斡旋伊朗與海灣國家開展會談。"
+    },
+    {
+      "id": "4952782",
+      "time": "2026-06-24 20:21:36",
+      "tags": [
+        "市場"
+      ],
+      "text": "【機構：未來英國財政大臣人選料將驅動英國國債和英鎊走勢】MillTech的Nick Wood在一份報告中表示，英國投資者急切想知道誰將被任命為財政大臣，因為在本週基爾·斯塔默辭去首相職務後，現任財政大臣蕾切爾·裡夫斯很可能被替換。“對於市場信心而言，財政大臣的人選可能與新首相一樣重要，”他說。投資者急切想了解新領導團隊的經濟政策。鑑於尚未出現其他競爭者，首相職位的熱門人選安迪·伯納姆似乎越來越有可能在沒有競爭對手的情況下被任命為該領導職位。"
+    },
+    {
+      "id": "mkt:019ef993-f315-7dd8-b0f9-38c78843649b",
+      "time": "2026-06-24 20:21:23",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Pew poll: Global confidence in Trump, US falls】A Pew Research Center poll conducted Feb–May 2026 across 36 countries and 42,151 adults found average global confidence in President Trump’s international decision-making at 23%. Roughly two-thirds of respondents said they had little or no confidence. Of 24 countries with trend data, confidence declined in 16 and rose in none. Overall favorability toward the United States averaged 37% positive versus 57% negative."
+    },
+    {
+      "id": "mkt:019ef993-d9db-7dd8-b0f9-362de0b134bf",
+      "time": "2026-06-24 20:21:16",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "Brent",
+        "Impact bearish"
+      ],
+      "text": "Brent crude fell 3.00% intraday to $74.43/bbl."
+    },
+    {
+      "id": "mkt:019ef993-b03e-7dd8-b0f9-2c34ba442974",
+      "time": "2026-06-24 20:21:06",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iranian parliament speaker Ghalibaf said he held a meeting with the president of Azerbaijan in Baku."
+    },
+    {
+      "id": "te:markets:561525",
+      "time": "2026-06-24 20:21:02",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "commodity",
+        "Importance 0"
+      ],
+      "text": "Platinum Hits 30-week Low — Platinum decreased to 1593.00 USD/t.oz, the lowest since November 2025. Over the past 4 weeks, Platinum lost 18.28%, and in the last 12 months, it increased 17.9%."
+    },
+    {
+      "id": "4952781",
+      "time": "2026-06-24 20:20:45",
+      "tags": [
+        "宏觀",
+        "焦點",
+        "國際"
+      ],
+      "text": "【李強出席2026年夏季達沃斯論壇工商界代表座談會】6月24日下午，國務院總理李強在大連出席2026年夏季達沃斯論壇工商界代表座談會。\n在聽取與會工商界代表發言後，李強指出，近些年，國際社會日益認識到貿易戰、關稅戰沒有贏家，越來越多國家更加積極推進經貿往來，向著互利共贏的正道迴歸。這充分反映，開放合作是不可逆轉的時代潮流，也是各國擴大發展空間的內在需要。無論外部環境如何變化，中國始終遵循開放合作的歷史大勢，將繼續深度參與國際貿易、投資等合作，推動中國市場與世界市場聯通融合。中國出口的優質產品對世界經濟是重要貢獻，有利於提升進口國的經濟效益和居民福利。我們從不刻意追求貿易順差，一直在與世界分享國內市場，願進口各國更多優質產品，同各方透過做大貿易蛋糕的方式，推動貿易最佳化平衡發展。中國的產業競爭力不是靠補貼補出來的，而是來自於自身完備產業體系、超大規模市場、良好創新生態形成的綜合優勢，來自於企業長期不懈的拼搏、投入。中國的產業補貼嚴格遵守世貿組織規則，是公平、普惠的，堅持對內外資企業一視同仁。希望在座企業家向國際社會傳遞更多理性聲音，為世界經貿合作注入更多正能量。\n李強表示，這些年，中國經濟向新向優發展，將為各國企業帶來更多新機遇。中國市場的煥新升級將創造更為豐富的增量空間，特別是在龐大體量上需求層次的多元拓展，是各國企業不容錯過的寶貴機會。中國製造的煥新升級將形成更為高效的產業生態，為各國企業新產品提供定製化落地的解決方案，幫助企業快速提高發展能級。中國基建的煥新升級將提供更為優越的綜合條件，透過傳統基建的數智化提升、新基建的網路化佈局，助力各國企業在創新發展中領先一步，同時也提供大量投資機會。\n李強表示，中國政府將竭盡所能為各國企業做好服務，營造更加開放、公平、友好的環境。我們將持續擴大服務業開放範圍與程度，拿出更多務實行動，全面落實外資企業國民待遇，更好了解和回應各國企業訴求，幫助解決實際困難，讓大家在中國安心經營、舒心工作，創造良好業績。（新華社）"
+    },
+    {
+      "id": "4952780",
+      "time": "2026-06-24 20:20:32",
+      "tags": [
+        "公司"
+      ],
+      "text": "【世航智慧創始人陳曉博：中國是世界第一航運大國，50米下海洋作業卻近乎“空白”】在哈爾濱工程大學2026屆畢業典禮暨學位授予儀式上，世航智慧創始人、董事長陳曉博作為傑出校友代表登臺致辭，分享了自己從哈工程實驗室走向萬米深海的19年曆程。致辭中，陳曉博提及自己從電子設計起步，打造了真正能上天入海的機器人。據他介紹，大二期間，自己獨立研發的第一臺水下清潔機器人，成功下水。大三那年，他同時拿下中國機器人大賽空中和水下賽道雙冠軍。碩博時期，他參與了諸多國家科研專案，並於28歲獲得國防科技進步一等獎。從地下室裡的第一臺機器人，到國家級獎項最年輕獲得者，陳曉博在哈工程完成了從興趣到專業的蛻變。但在科研體系裡待得越久，他心裡的感觸越強烈：中國是世界第一航運大國，淺水作業卻常靠潛水員冒生命危險完成，50米以下的海洋作業更是幾乎空白。從資源探索的角度，海洋佔地球70%以上，人類的開發卻不足5%，從0米到海下10000米，都需去探索。“實驗室裡那麼多頂尖技術，不能止步於論文和報告，要真正走進大海、服務產業。”2023年，陳曉博創立了世航智慧，專注海洋通用機器人研發。很多人不理解：放著安穩科研坦途不走，為什麼要去吃創業的苦？陳曉博的回答是：“要把技術轉化成真正的海洋超級生產力。”如今，世航智慧已成為全球首個海洋機器人百億獨角獸，產品具備0-10000米全海深作業能力，擁有超400項智慧財產權。其“虎鯨”機器人作業效率達人工70倍，已應用於全球成千上萬艘船舶；2026年上半年，公司訂單突破10億元，並於6月完成超10億元A輪融資。“國之所需，就是心之所向，更是業之所往。”陳曉博勉勵臺下學子們，不要怕領域小眾，不要怕路途艱苦。“哈工程人最幸運的地方，就是專業方向天然和國家戰略同頻——船舶、海洋、半導體、核能、人工智慧，每一個都是國運所繫的賽道。”他說。（新浪科技）"
+    },
+    {
+      "id": "4952779",
+      "time": "2026-06-24 20:20:07",
+      "tags": [
+        "其他"
+      ],
+      "text": "伊斯蘭議會議長在巴庫會見亞塞拜然總統。"
+    },
+    {
+      "id": "mkt:019ef992-c226-7dd8-b0f9-201892ae99b1",
+      "time": "2026-06-24 20:20:05",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "DXY"
+      ],
+      "text": "U.S. Q1 current account balance due for release in 10 minutes."
+    },
+    {
+      "id": "mkt:019ef992-9aae-7dd8-b0f9-18b16c96952d",
+      "time": "2026-06-24 20:19:55",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish"
+      ],
+      "text": "WTI crude oil fell 3.0% intraday to $71.45/bbl."
+    },
+    {
+      "id": "4952778",
+      "time": "2026-06-24 20:19:34",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國財長貝森特稱自己曾經專門做“反向交易”。"
+    },
+    {
+      "id": "4952777",
+      "time": "2026-06-24 20:19:31",
+      "tags": [
+        "市場"
+      ],
+      "text": "布倫特原油日內跌3%，現報74.47美元/桶。"
+    },
     {
       "id": "mkt:019ef991-718d-7dd8-b0f9-150f1f46954b",
       "time": "2026-06-24 20:18:38",
@@ -158130,73 +158277,6 @@
         "公司"
       ],
       "text": "斯泰蘭蒂斯(STLA.N)CEO：2026年頭5個月，義大利工廠產量增長了16%。義大利卡西諾（Cassino）工廠的未來規劃將與瑪莎拉蒂的計劃掛鉤。計劃在五年內向義大利的研發與創新領域投資50億歐元。"
-    },
-    {
-      "id": "4941020",
-      "time": "2026-06-17 20:23:15",
-      "tags": [
-        "公司",
-        "市場",
-        "國際"
-      ],
-      "text": "【分析：比特幣回落，進一步回升前景不明】Trade Nation的David Morrison在一份報告中表示，在美國和伊朗達成臨時和平協議後，比特幣從週一觸及的近兩週高點回落，目前走低。不過，比特幣已從6月5日觸及的59,125美元的20個月低點回升。“自本月早些時候觸及低點以來，買盤興趣已緩慢回升，“他說。“但現在判斷比特幣能否在此漲幅基礎上進一步上行還為時過早。“他表示，比特幣目前在65,000美元至70,000美元之間遇到阻力帶。倫敦證券交易所集團資料顯示，比特幣下跌1.5%，至64,767美元，週一曾最高升至67,241美元。"
-    },
-    {
-      "id": "4941019",
-      "time": "2026-06-17 20:22:19",
-      "tags": [
-        "國際"
-      ],
-      "text": "【哈馬斯高官：決不向美以移交武器】巴勒斯坦伊斯蘭抵抗運動（哈馬斯）高階官員穆薩·阿布·馬爾祖克17日重申，哈馬斯不會向美國和以色列交出武器，只願意交給巴勒斯坦民族權力機構或巴方其他組織。馬爾祖克接受俄新社採訪時說，哈馬斯手中武器永遠不會交給美以及其“附庸”，只會交給巴勒斯坦方面。他認為，解除武裝本質上是政治問題，必須要有解決巴勒斯坦問題的明確政治路徑，而美國總統特朗普提出的加沙地帶解決方案對此欠缺考慮。（新華社）"
-    },
-    {
-      "id": "mkt:019ed587-d452-7dd8-b04f-74a8d9e3ecfd",
-      "time": "2026-06-17 20:21:49",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "i24News reported Lebanese President Aoun said he has received assurances and will maintain Lebanon's independence in negotiations. He said Lebanon supports a ceasefire and welcomes assistance from any country, including Iran."
-    },
-    {
-      "id": "4941018",
-      "time": "2026-06-17 20:21:47",
-      "tags": [
-        "國際"
-      ],
-      "text": "黎巴嫩總統：“黎巴嫩政府主導談判，擁有自主決策權。任何一方都無法取代我們，所有和解方案都必須經由黎巴嫩達成，不能以損害黎巴嫩利益為代價。我們已收到多方保證，同時堅持黎巴嫩在談判中保持獨立自主立場。我們無疑支援停火，也歡迎包括伊朗在內的所有國家向我方提供援助。”"
-    },
-    {
-      "id": "mkt:019ed587-2dd4-7dd8-b04f-6d7586c36245",
-      "time": "2026-06-17 20:21:06",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "President Aoun said Lebanon will lead the negotiations and retain sovereign decision-making; no one can replace its role, and any solution must be reached by Lebanon without sacrificing the country's interests."
-    },
-    {
-      "id": "mkt:019ed586-38e8-7dd8-b04f-64dd79b84bfb",
-      "time": "2026-06-17 20:20:03",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Macro & Rates",
-        "US Economy",
-        "DXY",
-        "Impact mixed",
-        "S&P500",
-        "US10Y"
-      ],
-      "text": "U.S. May retail sales (MoM) due in 10 minutes."
-    },
-    {
-      "id": "4941017",
-      "time": "2026-06-17 20:19:50",
-      "tags": [
-        "公司",
-        "焦點",
-        "國際"
-      ],
-      "text": "【特朗普再次否認向伊朗提供3000億美元】正在法國出席七國集團峰會的美國總統特朗普今天（6月17日）再次否認美國將向伊朗提供3000億美元的資金。他說，這是個假訊息，美國不會去投資，別人可以自己決定要不要投。他還表示，美國與伊朗的諒解備忘錄文字已經確定，但如果伊朗的表現沒讓他滿意，美國將對伊朗重新採取軍事行動。伊朗媒體此前披露的伊美諒解備忘錄14項條款中涉及具體金額的一項為：美國及其盟友有必要提出對伊朗的重建計劃，金額至少3000億美元。（CCTV國際時訊）"
     }
   ]
 }
