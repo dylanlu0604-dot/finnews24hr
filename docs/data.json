@@ -1,7 +1,73 @@
 {
-  "updated": "2026-06-25 01:34:54",
-  "count": 17241,
+  "updated": "2026-06-25 01:38:55",
+  "count": 17243,
   "items": [
+    {
+      "id": "4953277",
+      "time": "2026-06-25 01:38:24",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期銀失守58美元/盎司，日內跌7.22%。"
+    },
+    {
+      "id": "mkt:019efab5-291f-7dd8-b101-8fc586da8085",
+      "time": "2026-06-25 01:37:16",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Trump administration officials told key House Republican leaders they expect to submit a supplemental funding request to Congress for Iran war-related costs before the end of this week."
+    },
+    {
+      "id": "4953276",
+      "time": "2026-06-25 01:36:11",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "加拿大央行會議紀要：在加拿大銀行6月10日利率決定之前，理事會成員一致認為貨幣政策需要保持靈活。"
+    },
+    {
+      "id": "4953275",
+      "time": "2026-06-25 01:36:06",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "加拿大央行會議紀要：成員們指出，美墨加協定談判取得有利結果可能恢復一些確定性，並潛在地提振投資。"
+    },
+    {
+      "id": "mkt:019efab3-ca8f-7dd8-b101-83c1b62b783b",
+      "time": "2026-06-25 01:35:47",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact mixed",
+        "Brent"
+      ],
+      "text": "【BOC minutes: weak economy, limited oil pass‑through cited as rationale for 2.25% hold】Bank of Canada minutes released Wednesday said policymakers left the policy rate at 2.25% on June 10 — the fifth straight pause — citing a weak economy and little evidence that recent oil-price increases have passed through to other goods and services. Six senior decision-makers led by Governor Macklem agreed the hold balanced upside inflation pressure against economic weakness; the minutes noted Canada has unexpectedly recorded two consecutive quarters of contraction. The minutes said: In responding to rising inflation, the Governing Council neither wants to overreact nor underreact."
+    },
+    {
+      "id": "4953274",
+      "time": "2026-06-25 01:34:41",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國7年期國債收益率日內下跌10個基點至4.27%。"
+    },
+    {
+      "id": "4953273",
+      "time": "2026-06-25 01:34:28",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "加拿大央行：利率走勢高度取決於能源價格走向。"
+    },
     {
       "id": "4953272",
       "time": "2026-06-25 01:34:15",
@@ -157957,50 +158023,6 @@
         "國際"
       ],
       "text": "摩根大通全球固定收益主管： 這並非適合降息的經濟環境， 如果美聯儲取消寬鬆傾向，不會出現委員反對意見。"
-    },
-    {
-      "id": "4941584",
-      "time": "2026-06-18 01:38:30",
-      "tags": [
-        "國際"
-      ],
-      "text": "據以色列今日報：以色列希望加快與黎巴嫩的談判，儘快達成協議，甚至爭取在美伊全面協議形成之前完成。"
-    },
-    {
-      "id": "mkt:019ed6a9-aeda-7dd8-b05c-6f096165610f",
-      "time": "2026-06-18 01:38:24",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "According to Israel Hayom, Israel wants to accelerate talks with Lebanon to reach an agreement as soon as possible and is seeking to complete it even before a comprehensive U.S.-Iran deal is reached."
-    },
-    {
-      "id": "4941583",
-      "time": "2026-06-18 01:38:06",
-      "tags": [
-        "觀點",
-        "國際"
-      ],
-      "text": "摩根大通全球固定收益主管：  對沃什來說，問題是機制更替意味著什麼。 沃什註定會讓特朗普失望。"
-    },
-    {
-      "id": "mkt:019ed6a7-5eae-7dd8-b05c-633a77816acb",
-      "time": "2026-06-18 01:35:53",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "Colombia's state oil company said blockades have halted production of more than 800,000 barrels of oil."
-    },
-    {
-      "id": "4941582",
-      "time": "2026-06-18 01:35:29",
-      "tags": [
-        "公司"
-      ],
-      "text": "哥倫比亞國家石油公司表示，封鎖已導致逾80萬桶石油停產。"
     }
   ]
 }
