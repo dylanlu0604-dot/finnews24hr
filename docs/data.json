@@ -1,7 +1,92 @@
 {
-  "updated": "2026-06-24 19:26:04",
-  "count": 17218,
+  "updated": "2026-06-24 19:30:06",
+  "count": 17220,
   "items": [
+    {
+      "id": "mkt:019ef964-770b-7dd8-b0f7-27209c38a4c5",
+      "time": "2026-06-24 19:29:31",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "【FysicsAI says Fysiverse achieves breakthrough in physical world modeling】FysicsAI said its new Fysiverse physical-world model, built on a differentiable physics engine, has achieved a breakthrough. FysicsAI says Fysiverse mitigates common failures in data-driven world models — physics hallucinations, inference breakdowns and collapse in non-standard scenarios — by adopting an explicit-physics-simulator × generative-renderer architecture: a computable physical state as an intermediate layer, a differentiable physics engine as the world-evolution mechanism and a renderer for visual output. The model restructures the computation chain to observation—state—physical evolution—visual presentation rather than treating motion trajectories as external overlays."
+    },
+    {
+      "id": "4952651",
+      "time": "2026-06-24 19:28:33",
+      "tags": [
+        "其他"
+      ],
+      "text": "【我國在物理世界模型上取得突破性進展】飛捷科思（Fysics AI）近日以Fysics可微分物理引擎為底座，打造的全新一代物理世界模型Fysiverse取得突破性進展。開闢了全新的世界模型技術路線，有效解決了當前資料驅動的世界模型普遍面臨的“物理幻覺、推理失效、非標場景崩壞”等問題，進而打造出創新的遵循真實世界物理規律的全新一代物理世界模型Fysiverse。Fysiverse 的顛覆式創新在於提出了一條“顯式物理模擬器 × 生成式渲染器”的系統路徑：以可計算的物理狀態作為中間層，以可微分物理引擎作為世界演化機制，以渲染器作為視覺表達層。它不是為世界模型外掛運動軌跡，而是將世界模型的計算鏈路重構為“觀測—狀態—物理演化—視覺呈現”。 (科技日報)"
+    },
+    {
+      "id": "4952650",
+      "time": "2026-06-24 19:27:55",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【德爾未來：石墨烯業務收入佔比僅0.07%】德爾未來公告，公司股票在2026年6月23日、24日連續兩個交易日收盤價格漲幅偏離值累計超過20%，屬於股票交易異常波動。經公司董事會分析，2025年度公司實現營業收入11.66億元，同比下降23.53%，歸屬於上市公司股東的淨利潤為-2.21億元，同比下降146.77%；2026年第一季度實現營業收入1.47億元，歸屬於上市公司股東的淨利潤為-1404.51萬元，公司業績仍處於虧損狀態。此外，公司石墨烯相關業務（石墨烯製備裝置、應用產品及檢測服務）2025年度收入合計僅佔營業收入的0.07%，目前石墨烯製備裝置及應用產品暫無在手訂單，2026年上述兩項業務亦未產生收入。公司自查後確認，不存在應披露而未披露的重大事項，公司生產經營正常，主要經營業務未發生重大變化。"
+    },
+    {
+      "id": "4952649",
+      "time": "2026-06-24 19:27:44",
+      "tags": [
+        "公司"
+      ],
+      "text": "【軟通動力：子公司以5150萬元參與投資共青城尚融星河創業投資合夥企業】軟通動力公告，公司的全資子公司北京軟通旭天科技發展有限公司作為有限合夥人以自有資金5150萬元參與投資共青城尚融星河創業投資合夥企業（有限合夥）。"
+    },
+    {
+      "id": "4952648",
+      "time": "2026-06-24 19:27:41",
+      "tags": [
+        "公司"
+      ],
+      "text": "【因授信管理不審慎等，安徽固鎮農商行被罰180萬元】6月24日，國家金融監督管理總局蚌埠監管分局行政處罰資訊公開表顯示，安徽固鎮農村商業銀行股份有限公司因授信管理不審慎、公司治理不規範違法違規行為，被罰款180萬元；相關責任人許威被禁止從事銀行業工作21年，鄭小樂、李錦亞、張寬旭被警告。"
+    },
+    {
+      "id": "4952647",
+      "time": "2026-06-24 19:27:32",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【德爾未來：股價異常波動 業績虧損且石墨烯業務收入低】德爾未來公告稱，2026年6月23日、24日公司股票連續兩個交易日收盤價格漲幅偏離值累計超20%，屬異常波動。2025年營收11.66億元，同比降23.53%，淨虧損2.21億元，同比降146.77%；2026年一季度營收1.47億元，淨虧損1404.51萬元。2025年石墨烯相關業務收入合計僅佔營收0.07%，2026年訂單額極小。公司目前生產經營正常，不存在應披露未披露事項，提醒投資者理性投資。"
+    },
+    {
+      "id": "4952646",
+      "time": "2026-06-24 19:27:21",
+      "tags": [
+        "公司"
+      ],
+      "text": "【因貸款管理不審慎等，浙江新昌農商行被罰190萬元】6月24日，國家金融監督管理總局紹興監管分局行政處罰資訊公開表顯示，浙江新昌農村商業銀行股份有限公司因貸款管理不審慎等違法違規行為，被罰款190萬元；相關責任人邢曉洪、陳方永、孫敏潔警告。"
+    },
+    {
+      "id": "mkt:019ef962-3d76-7dd8-b0f7-1e8bae7719d6",
+      "time": "2026-06-24 19:27:05",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Guangzhou Baiyun Airport passenger traffic tops 10 million year-to-date】Guangzhou Customs said year-to-date through June 24 entry and exit passenger traffic at Guangzhou Baiyun Airport exceeded 10 million, reaching the milestone one month earlier than last year, up more than 21% year-on-year and a record for the period."
+    },
+    {
+      "id": "4952645",
+      "time": "2026-06-24 19:26:12",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【美銀大幅上調半導體行業預測：2030年市場規模或達2.7萬億美元】美國銀行在最新研報中大幅上調全球半導體行業預測，認為AI需求正從驗證投資回報轉向解決晶片、儲存和電力等結構性供給約束，儲存晶片短缺與價格上漲將成為未來數年行業增長的核心驅動力。美銀預計，全球半導體市場規模將從2025年的7870億美元增至2030年的2.734萬億美元，2025—2030年複合增長率達28%，高於此前預期的2.3萬億美元和23%。美銀預計，晶片行業用約50年實現首個1萬億美元銷售額，而AI有望在未來5年再創造1萬億美元增量。"
+    },
+    {
+      "id": "4952644",
+      "time": "2026-06-24 19:25:36",
+      "tags": [
+        "其他"
+      ],
+      "text": "【跨境TRS新增規模被叫停！私募緊急應對，海外科技投資或受影響】多位私募業內人士向記者透露，6月23日晚間開始，陸續收到合作券商通知，監管層要求暫停新增管理人跨境TRS（總收益互換）業務規模。受此影響，部分透過跨境TRS參與海外市場投資的私募機構開始評估後續策略調整方案。有百億私募人士表示，目前部分存量頭寸暫未受到影響，但新增倉位已無法繼續擴張，部分產品甚至面臨“只能賣出、不能換倉”的情況。截至目前，監管部門尚未公開發布相關檔案。（券商中國）"
+    },
     {
       "id": "mkt:019ef960-c045-7dd8-b0f7-11b40dfbb8c7",
       "time": "2026-06-24 19:25:27",
@@ -157419,71 +157504,6 @@
         "國際"
       ],
       "text": "【國際能源署：自中東戰事爆發以來，經濟合作與發展組織國家石油儲備累計減少1.63億桶】國際能源署17日釋出最新月度石油報告說，自中東戰事爆發以來，經濟合作與發展組織國家石油儲備累計減少1.63億桶，降至1990年12月以來最低水平，主要原因是應急庫存加速釋放。報告說，美國與伊朗日前達成諒解備忘錄，被視為緩和地區局勢的重要進展，可能為霍爾木茲海峽重新開放以及美國解除對伊朗封鎖創造條件。（新華社）"
-    },
-    {
-      "id": "mkt:019ed558-6e2e-7dd8-b04e-7a3ef42a6074",
-      "time": "2026-06-17 19:30:02",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【TrendForce: 2026 set as critical validation year for TSMC CoPoS equipment and materials; glass substrates mass production likely after 2030】TrendForce said TSMC is focusing on CoPoS and has locked a 310×310 mm substrate size. It expects 2026 to be the key validation year for related equipment and materials vendors, 2027 for pilot production and H2 2028 for mass production. TSMC’s next-stage focus is expected to shift to glass substrates, with mass production likely after 2030."
-    },
-    {
-      "id": "mkt:019ed558-5fd8-7dd8-b04e-75aefca0e43b",
-      "time": "2026-06-17 19:29:59",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "An Iran Red Crescent official said the helicopters are fitted with firefighting equipment and can provide medical and rescue services."
-    },
-    {
-      "id": "4940927",
-      "time": "2026-06-17 19:29:54",
-      "tags": [
-        "國際"
-      ],
-      "text": "惠譽：受伊朗戰爭影響，更多新興市場行業展望轉為負面。"
-    },
-    {
-      "id": "4940926",
-      "time": "2026-06-17 19:29:48",
-      "tags": [
-        "其他"
-      ],
-      "text": "【TrendForce：預計今年是臺積電CoPoS裝置與材料關鍵驗證期 玻璃基板或2030年後實現量產】TrendForce最新報告指出，臺積電目前聚焦CoPoS，並鎖定310×310毫米基板尺寸，預計2026年是相關裝置與材料商的關鍵驗證期，2027年進入試產，2028下半年正式量產。此外，臺積電下一階段佈局重點預計將轉向玻璃基板，量產或將在2030年後實現。"
-    },
-    {
-      "id": "mkt:019ed557-d76d-7dd8-b04e-692eaccb7832",
-      "time": "2026-06-17 19:29:24",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "IRNA: Iran and Russia signed a memorandum of understanding to purchase 20 helicopters."
-    },
-    {
-      "id": "4940925",
-      "time": "2026-06-17 19:29:11",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗伊斯蘭共和國通訊社（IRNA）：伊朗與俄羅斯簽署諒解備忘錄，購買20架直升機。"
-    },
-    {
-      "id": "4940924",
-      "time": "2026-06-17 19:28:08",
-      "tags": [
-        "其他"
-      ],
-      "text": "【寧夏多舉措加強困難高校畢業生兜底保障】根據寧夏回族自治區最新印發的《關於促進高校畢業生就業創業和服務高品質供給的實施方案》，針對困難高校畢業生，寧夏將透過強化公益性崗位兜底和社會救助、實施精準幫扶等，多措並舉進行兜底保障。一方面，寧夏將延續實施城鎮公益性崗位兜底安置城鎮困難高校畢業生政策，優先安置2026年度困難高校畢業生，剩餘崗位拓展至離校2年未就業畢業生；規範支援符合條件的防止返貧致貧家庭畢業生從事公益崗位；將符合條件的離校未就業困難畢業生按規定納入低保、臨時救助等社會救助範圍。另一方面，寧夏將健全困難高校畢業生就業幫扶機制，完善“一人一策”精準幫扶臺賬，優先為困難高校畢業生推薦高質量就業崗位；做好高校離校未就業畢業生就業幫扶，精準提供“1131”就業服務，為困難高校畢業生髮放一次性求職補貼2000元；實施“中央專項彩票公益金宏志助航計劃”，組織困難高校畢業生全員參加線上線下培訓1000人以上，提高困難畢業生綜合素質和就業能力。（新華社）"
-    },
-    {
-      "id": "4940923",
-      "time": "2026-06-17 19:27:05",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【興森科技：股票交易異常波動 多項業務暫未貢獻顯著收益】興森科技公告稱，公司股票於2026年6月15 - 17日連續3個交易日收盤價格漲幅偏離值累計超20%，屬異常波動。公司子公司廣州興森2025年營收2689.99萬元，佔比0.37%，淨虧損53299.98萬元，FCBGA封裝基板專案未大批次生產；2025年光模組PCB收入不超1.5億元，佔比不超2.08%；玻璃基板研發專案處技術儲備階段，暫無量產訂單。此外，公司有籌劃向特定物件發行A股及戰略投資者退出方案，均未審議。公司市盈率高於同行業，提醒投資者注意風險。"
     }
   ]
 }
