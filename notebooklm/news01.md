@@ -1,7 +1,127 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-06-25 06:38:02_
-_本檔包含 3591 則快訊，約 626429 字_
+_更新時間：2026-06-25 07:06:14_
+_本檔包含 3579 則快訊，約 625194 字_
+
+---
+
+### 2026-06-25 07:00:57  #市場
+
+英國汽車製造商與經銷商協會（SMMT）：5 月英國汽車總產量上漲 2.7%，達 51178 輛。
+
+---
+
+### 2026-06-25 07:00:45  #其他
+
+英國汽車製造商與經銷商協會（SMMT）：5 月英國乘用車產量增長 3.2%，達 49249 輛；商用車產量下降 7.6%，至 1929 輛。
+
+---
+
+### 2026-06-25 07:00:26  #公司
+
+【黃仁勳股東大會放言：本輪AI基建週期長達數十年】在當地時間6月24日的英偉達2026年度股東大會上，股東批准了該公司全部10名董事會成員提名。英偉達CEO黃仁勳在股東大會上還進行了發言，強調“有用的AI時代”已經到來，並釋放了對AI基礎設施建設將繼續的信心。就AI基礎設施建設的可持續性，黃仁勳則表示，算力越多，token越多，收入也就越多。這輪建設將以數十年為單位來衡量，涉及電網、網際網路等關鍵基礎設施建設。相信這將成為人類歷史上規模最大的基礎設施建設。
+
+---
+
+### 2026-06-25 06:54:12  #Trading Economics #Markets #New Zealand #Stock Market #Importance 1
+
+NZX 50 Edges Higher in Morning Trade — The NZX 50 climbed 25 points, or 0.2%, to 13,426 in Thursday morning trade, erasing losses from the previous three sessions, tracking a rise in US futures after Micron posted a sizeable earnings beat and a better-than-expected outlook. Easing oil prices also lifted sentiment as inflation concerns moderated, reducing expectations of an interest rate hike. However, traders remained cautious ahead of the release of the final US Q1 GDP data and the May PCE Price Index later today, which could provide clues about the Federal Reserve's monetary policy decision at its upcoming meeting, after it left interest rates unchanged last week. Consumer staples, energy, communication services, and utilities primarily drove the index, with notable gains from A2 Milk (4.2%), Scott Technology (2.4%), Channel Infrastructure (0.9%), Ebos Group (0.8%), and ANZ Group (0.4%).
+
+---
+
+### 2026-06-25 06:53:59  #市場 #焦點
+
+紐約期金失守4010美元/盎司，日內漲0.05%。
+
+---
+
+### 2026-06-25 06:52:45  #其他
+
+海嘯預警中心稱巨浪可能襲擊委內瑞拉海岸。
+
+---
+
+### 2026-06-25 06:52:21  #國際
+
+【俄稱控制一定居點 烏稱打擊俄能源設施】24日，俄羅斯國防部發布戰報稱，俄軍控制了蘇梅地區伊沃爾詹斯科耶居民點。俄軍各部隊叢集在蘇梅、哈爾科夫、頓涅茨克、第聶伯羅彼得羅夫斯克、扎波羅熱方向多地打擊烏軍。俄軍還對烏軍特種作戰部隊無人系統中心、烏燃料能源和交通基礎設施等目標實施打擊。烏克蘭武裝部隊總參謀部24日稱，當天凌晨，烏國防軍對俄羅斯奧倫堡州一座天然氣精煉廠和一座氦氣廠實施打擊。烏方稱，此次行動地點距烏方前線超過1200公里，兩座工廠已起火，受損情況正在核實中。此外，烏軍還打擊了俄羅斯別爾哥羅德州一處無人機倉庫。（央視新聞）
+
+---
+
+### 2026-06-25 06:49:59  #國際
+
+美國海嘯預警系統：本次日本地震未觸發海嘯預警、提示、觀測警報及海嘯風險警報。
+
+---
+
+### 2026-06-25 06:49:00  #國際
+
+【國際原子能機構要求核查伊朗核設施】國際原子能機構總幹事格羅西24日在日本表示，對於伊朗核相關設施的核查“必須進行”，具體地點和時間仍在研究之中，希望能儘快實施核查。 (央視新聞)
+
+---
+
+### 2026-06-25 06:47:15  #公司 #國際
+
+【阿里巴巴證實：已起訴美國防部】多家外媒23日報道稱，阿里巴巴起訴美國國防部，要求將其從“中國軍事企業名單”中移除。24日，阿里巴巴向《環球時報》記者證實了上述訊息。阿里巴巴在宣告中表示：“我們已正式對美國國防部提起訴訟，要求將公司從‘中國軍事企業名單’中移除。”阿里巴巴強調，公司並非中國軍工企業，亦未參與任何“軍民融合”戰略。將阿里巴巴列入名單的決定毫無事實依據，武斷且反覆無常。
+
+---
+
+### 2026-06-25 06:46:56  #MKT News #Star Stocks #Alibaba #BABA.N #Impact bullish
+
+【Alibaba confirms lawsuit against Pentagon over US 'Chinese military companies' list】Alibaba confirmed it has filed suit against the Pentagon seeking removal from the US list of Chinese military companies. The company said it is not a Chinese defense contractor, has not participated in military-civil fusion, and called the designation baseless, arbitrary and inconsistent.
+
+---
+
+### 2026-06-25 06:45:37  #市場 #央行 #國際
+
+【對沖基金持續加大美國國債敞口 美聯儲稱基差交易是主要推手】美聯儲表示，對沖基金對美國國債敞口不斷增加，主要是由於現貨-期貨基差交易的復甦。由首席經濟學家Phillip Monin撰寫的報告表示，截至去年9月，這種高槓杆交易已在對沖基金所持美國國債多頭頭寸中佔8300億美元，約為2020年初上一峰值的兩倍。其在對沖基金國債多頭總敞口中佔比35%。在對沖基金的美債多頭頭寸中，互換利差和期限匹配交易等套利策略佔據主導地位。報告稱，基差交易涉及做空國債期貨合約，同時做多以回購融資方式購買的、可交割到期貨的國債。
+
+---
+
+### 2026-06-25 06:45:17  #Trading Economics #Markets #Crypto #Importance 1
+
+Crypto Updates: Ether Depreciates by 3.05% — Top crypto losers are Ether (-3.05%), Bitcoin (-2.93%) and Binance (-2.38%).
+
+---
+
+### 2026-06-25 06:41:27  #MKT News
+
+NHK reported that no tsunami warning was issued after an earthquake in Japan.
+
+---
+
+### 2026-06-25 06:40:17  #Trading Economics #Markets #Commodity #Importance 1
+
+Agricultural Commodities Updates: Cocoa Rallies by 7.21% — Top commodity gainers are Cocoa (7.21%) and Coffee (0.62%). Biggest losers are Oat (-6.37%) and Cotton (-3.23%).
+
+---
+
+### 2026-06-25 06:39:34  #MKT News #USDJPY #Impact bearish #XAUUSD #Impact bullish #Nikkei 225
+
+【6.9-magnitude quake offshore Iwate Prefecture】Around 07:30 Tokyo time on the 25th, a magnitude-6.9 earthquake struck offshore Iwate Prefecture; the Japan Meteorological Agency reported a maximum seismic intensity of JMA 6-upper. Strong shaking was felt in Tokyo.
+
+---
+
+### 2026-06-25 06:39:33  #公司
+
+【A股公司年度“紅包”派發進行時，“雙創”板塊成現金分紅硬核力量】截至6月23日（按派息日計），今年已有2379家上市公司實施了2025年年度現金分紅，合計派發現金紅利7087.55億元。其中，工商銀行以601.97億元的分紅金額居首，中國移動、農業銀行、中國平安緊隨其後，分紅金額均超過300億元。從行業分佈來看，除銀行、證券等金融板塊外，通訊、電力裝置、醫藥生物、電子等行業已發放的分紅金額位居前列。值得注意的是，一批來自創業板、科創板的硬核科技企業正步入業績收穫期，並以持續高分紅回饋耐心陪跑的投資者。（上證報）
+
+---
+
+### 2026-06-25 06:39:20  #國際
+
+【日本巖手縣近海發生6.9級地震】東京時間25日早上7時30分左右，巖手縣近海發生里氏6.9級地震，最大震感為震度6強。日本首都東京有明顯震感。（央視新聞）
+
+---
+
+### 2026-06-25 06:38:31  #MKT News
+
+Japan Meteorological Agency: a magnitude 6.9 earthquake struck off the coast of Iwate Prefecture; maximum seismic intensity 6+ (Japan scale).
+
+---
+
+### 2026-06-25 06:37:37  #MKT News #Important #Market Regions #Japan & APAC
+
+EMSC reports a magnitude-6.9 earthquake off the east coast of Honshu, Japan.
 
 ---
 
@@ -21500,197 +21620,5 @@ Chicago Board Options Exchange (CBOE) has launched CBOE Predicts, a prediction-m
 ### 2026-06-24 05:28:20  #其他
 
 Cerebras首席財務官表示：隨著雲容量部署擴容加速，全年下半年將帶來更多收入，預計2026年每個季度的同比增長率都將逐季提升。
-
----
-
-### 2026-06-24 05:28:08  #其他
-
-芝加哥期權交易所推出CBOE PREDICTS預測平臺，全新預測市場產品線首批產品正式上線。
-
----
-
-### 2026-06-24 05:27:48  #公司 #國際
-
-日本樂天集團將攜手美國初創企業AST SpaceMobile，在日本推出衛星直連手機通訊服務。
-
----
-
-### 2026-06-24 05:26:30  #國際
-
-美國最高法院裁定，石油巨頭埃克森美孚可就逾10億美元被沒收資產起訴古巴政府。
-
----
-
-### 2026-06-24 05:25:26  #觀點
-
-【摩根士丹利旗下70億美元私募信貸基金限制贖回 回購上限設為5%】摩根士丹利管理的一隻規模70億美元的私募信貸基金將贖回比例上限定為5%，意味著不到第二季度申請贖回比例的一半。據週二釋出的信函，North Haven Private Income Fund表示投資者申請贖回比例為11.6%，高於第一季度的10.9%。在規模達1.8萬億美元的私募信貸市場中，由於許多基金在上一季度限制投資者全額退出，本季度主要基金面臨的贖回申請普遍增加。摩根士丹利在信中表示，該基金第二季度超過一半的贖回申請來自上一季度未能全額贖回資金的投資者。
-
----
-
-### 2026-06-24 05:25:13  #公司
-
-聯邦快遞首席客戶官表示，該公司預計從8月開始將關稅退還款項全額轉遞給客戶。
-
----
-
-### 2026-06-24 05:24:59  #MKT News #HON.O #Impact bullish
-
-S&P Dow Jones Indices said Honeywell (HON.O) will remain in the Dow Jones Industrial Average.
-
----
-
-### 2026-06-24 05:24:17  #MKT News #Important #Star Stocks #Alphabet #Market Themes #Magnificent 7 #GOOGL.O #Impact bullish
-
-S&P Dow Jones Indices said the Dow Jones Industrial Average will add Alphabet Class A (GOOGL.O).
-
----
-
-### 2026-06-24 05:23:24  #市場
-
-標普道瓊斯指數： Alphabet Inc將於6月29日開盤前正式取代威瑞森通訊，成為道瓊斯工業平均指數成分股。
-
----
-
-### 2026-06-24 05:21:50  #公司 #國際
-
-Cerebras執行長：正就在以色列、阿聯酋、澳大利亞、新加坡、印度及印度尼西亞建設資料中心開展早期洽談。
-
----
-
-### 2026-06-24 05:21:31  #公司 #市場
-
-谷歌母公司Alphabet盤後漲超1%。
-
----
-
-### 2026-06-24 05:20:50  #公司 #市場
-
-谷歌母公司Alphabet（谷歌A）將被納入道瓊斯工業平均指數（道指）。
-
----
-
-### 2026-06-24 05:20:08  #公司
-
-聯邦快遞執行長：公司正有意向市場中收益率更高的業務板塊拓展。
-
----
-
-### 2026-06-24 05:19:45  #公司
-
-聯邦快遞執行長：在上一財年，聯邦快遞成功應對了包括貿易政策變動、MD-11貨機編隊停飛在內的“重大不利因素”。
-
----
-
-### 2026-06-24 05:19:27  #公司
-
-聯邦快遞執行長：預計在旺季來臨前讓全部MD-11機隊恢復運營。
-
----
-
-### 2026-06-24 05:19:13  #公司
-
-Cerebras執行長：截至本週，公司已與亞馬遜雲科技（AWS）達成最終協議，雙方將啟動技術協作，併為在亞馬遜雲科技的資料中心部署相關專案做準備。
-
----
-
-### 2026-06-24 05:18:47  #其他
-
-【法國高溫持續 埃菲爾鐵塔提前關閉】由於法國高溫天氣持續，埃菲爾鐵塔運營方宣佈，為保障遊客和工作人員安全，埃菲爾鐵塔於23日下午提前關閉。法國氣象局目前將54個省級行政區劃列為高溫紅色預警區域，約佔該國面積的一半。
-
----
-
-### 2026-06-24 05:18:28  #公司
-
-Cerebras執行長在電話會議上表示，OpenAI GPT 5.4目前已部署執行在Cerebras的AI系統上；作為下一階段部署計劃的一部分，公司正推動將GPT 5.5部署到Cerebras系統上。
-
----
-
-### 2026-06-24 05:17:42  #市場
-
-聯邦快遞高管：收益率提升得益於基準運價上漲與燃油附加費。
-
----
-
-### 2026-06-24 05:17:33  #市場
-
-標普道瓊斯指數：霍尼韋爾航空航天將納入標普500與標普100，其餘個股分別納入標普中型股400與標普小型股600。
-
----
-
-### 2026-06-24 05:17:13  #公司 #市場
-
-霍尼韋爾航空航天公司將納入標普500指數成分股。
-
----
-
-### 2026-06-24 05:15:15  #市場
-
-富時A50期指連續夜盤收漲0.45%，報15531點。
-
----
-
-### 2026-06-24 05:15:13  #MKT News #WTI #Impact bearish #Brent
-
-【Oman, IMO coordinate temporary sea lane through Strait of Hormuz】Oman announced early on the 24th it has coordinated with the International Maritime Organization to open a temporary sea lane through the Strait of Hormuz for all vessels, citing its responsibility for the strait and its importance to the global economy. The lane will operate under international law, including the United Nations Convention on the Law of the Sea, will not charge passage fees, and will follow navigational coordinates published by the IMO and Omani authorities; vessels must coordinate with the IMO in advance. Oman said the step reflects outcomes from US‑Iran negotiations and mediation efforts.
-
----
-
-### 2026-06-24 05:12:38  #國際
-
-【阿曼與國際海事組織協調開闢霍爾木茲海峽臨時航道】當地時間24日凌晨，阿曼方面釋出宣告表示，鑑於該國對霍爾木茲海峽的責任以及該海峽對全球經濟的重要作用，在遵守國際法和《聯合國海洋法公約》、保障海峽自由通行且不收取通行費用的基礎上，並結合美國與伊朗相關談判和斡旋努力所取得的成果，阿曼已與國際海事組織協調，為所有船舶開闢一條臨時海上航道。根據安排，相關航道將按照國際海事組織及阿曼主管部門公佈的航行座標執行，計劃使用該航道的船舶需提前與國際海事組織進行協調。
-
----
-
-### 2026-06-24 05:08:34  #MKT News
-
-【Morgan Stanley private credit fund sets redemption cap at 5%】Morgan Stanley’s North Haven Private Income Fund, a $7bn private credit vehicle, has set a 5% redemption cap and said it will pay out less than half of investors’ Q2 redemption requests. The fund said investors applied to redeem 11.6% of shares in Q2, up from 10.9% in Q1. It noted that across the roughly $1.8trn private credit market many funds had already restricted full exits in the prior quarter, and that over half of Q2 repurchase requests came from investors who had been unable to redeem fully in the previous three months.
-
----
-
-### 2026-06-24 05:03:42  #其他
-
-【德國全境鐵路暫停運營】據德國媒體《每日鏡報》報道，德國23日晚出現大規模列車無線通訊系統故障，導致全境鐵路暫停運營。（新華社）
-
----
-
-### 2026-06-24 05:03:40  #MKT News
-
-【Nationwide rail services suspended in Germany after large-scale train radio failure】German outlet Daily Mirror reported that on the evening of the 23rd a large-scale failure of the train radio communications system forced suspension of rail services nationwide.
-
----
-
-### 2026-06-24 05:02:24  #MKT News
-
-SEC filing: SpaceX (SPCX.O) plans a multi-tranche bond offering totaling $25.0bn — $7.0bn 5.35% senior notes due 2031, $6.0bn 5.65% due 2033, $6.0bn 5.875% due 2036, $2.5bn 6.6% due 2046 and $3.5bn 6.65% due 2056.
-
----
-
-### 2026-06-24 04:58:29  #市場
-
-週二（6月23日）紐約尾盤，現貨黃金跌1.89%，報4111.48美元/盎司，北京時間09:00微幅上揚至4198.46美元重新整理日高，隨後持續走低，12:00以來持續交投於4120美元附近、16:07重新整理日低至4091.05美元。COMEX黃金期貨跌1.92%，報4129.10美元/盎司。現貨白銀跌5.50%，報61.5025美元/盎司，06:00微幅高開至65.7325美元重新整理日高，隨後持續走低。COMEX白銀期貨跌6.15%，報62.005美元/盎司。COMEX銅期貨跌3.64%，報6.1950美元/磅。現貨鉑金跌1.85%，現貨鈀金跌2.90%。
-
----
-
-### 2026-06-24 04:57:54  #MKT News #SPCX.O
-
-SEC filing: SpaceX (SPCX.O) will use bond proceeds to repay transition loans and for general corporate purposes; issuance expected to complete on June 26, 2026.
-
----
-
-### 2026-06-24 04:57:26  #MKT News
-
-SEC filing: SpaceX (SPCX.O) priced a $25 billion inaugural bond offering, selling senior notes in five tranches maturing 2031–2056.
-
----
-
-### 2026-06-24 04:54:30  #MKT News #Market Regions #Wall Street (US) #FDX.N #Impact bearish
-
-FedEx (FDX.N) U.S. shares extended overnight losses in after-hours trading, down about 6%.
-
----
-
-### 2026-06-24 04:51:50  #Trading Economics #Economy #Argentina #GDP Annual Growth Rate #Importance 0
-
-Argentina GDP Expands More Than Expected — Argentina’s economy grew 2.3% year-on-year in the first quarter of 2026, above forecasts of 1.7% and accelerating from a 2.1% increase in the previous quarter. The strongest sector gains came from fishing (27.5%), agriculture, livestock, hunting and forestry (18.1%), and mining and quarrying (12.3%). Other notable expansions were recorded in financial intermediation (7.5%), private households with domestic service (6.3%), and hotels and restaurants (2.8%), with the latter mainly supported by informal employment. In contrast, manufacturing contracted 1.7% and public administration declined 1.4%, marking the weakest performances. On the demand side, exports rose 9.8%, leading growth, while private consumption increased 2.7%, supported by stronger imports of final consumer goods and automobiles. On a quarter-on-quarter basis, the economy expanded 0.7%.
 
 ---

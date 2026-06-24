@@ -1,7 +1,169 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-06-25 06:38:02_
-_本檔包含 3620 則快訊，約 625889 字_
+_更新時間：2026-06-25 07:06:14_
+_本檔包含 3598 則快訊，約 625215 字_
+
+---
+
+### 2026-06-22 04:53:43  #其他
+
+【德邦基金迎新董事長 年內近20家公募“換帥”】2026年以來，公募基金行業高管變更保持高頻。Wind資料顯示，截至6月19日，年內已有74家公募機構完成高管變更，涉及高管變動169人次，其中19家機構更換董事長、21家機構更換總經理。（證券時報）
+
+---
+
+### 2026-06-22 04:53:03  #市場
+
+【美晶片股再度走強 多隻重倉QDII基金收益翻倍】美股晶片股又一次刷屏了，國內重倉科技的QDII基金可能要提前“上漲”了。 當地時間6月18日，美伊達成停戰諒解備忘錄後，市場風險偏好明顯回升。霍爾木茲海峽恢復商業航運的訊息傳出後，美股三大指數集體收漲，其中納斯達克指數上漲1.91%，費城半導體指數大漲6.42%。個股表現更加亮眼。英特爾漲超10%，美光科技漲超8%，臺積電、高通漲超6%；閃迪漲超11%，總市值突破3200億美元，今年以來累計漲幅已經超過800%。 對於國內投資者而言，雖然無法直接買入這些熱門晶片股，但今年以來，一批重倉半導體資產的QDII基金同樣賺得盆滿缽滿。（證券時報）
+
+---
+
+### 2026-06-22 04:52:12  #其他
+
+【玻利維亞空軍一架飛機墜毀 機上6人全部遇難】玻利維亞空軍21日發表宣告說，一架執行民事援助任務的空軍飛機當天在玻中部科恰班巴省山區墜毀，機上6人全部遇難，包括4名軍人和2名平民。（新華社）
+
+---
+
+### 2026-06-22 04:51:31  #其他
+
+【低利率催化疊加銀行渠道發力 FOF上半年新發規模超歷史峰值】2026年以來，曾長期處於公募基金市場邊緣的FOF（基金中基金）迎來爆發式增長。Wind資料顯示，截至6月20日，年內新成立FOF基金已達88只，合計發行規模高達1137.69億元，不僅超越2025年全年水平，還超過了2021年創下的歷史峰值。與此同時，全市場FOF基金平均收益率達5.28%，在權益市場波動的背景下展現出穩健的抗風險能力，FOF正從公募基金的“配角”加速走向舞臺中央。 業績表現方面，易方達優勢回報A以52.20%的收益率位居榜首。此外，易方達旗下多隻FOF產品表現優異，優勢驅動一年持有A/C、優勢領航六個月持有A/C、優勢價值一年持有A/C等產品均進入前十，收益率介於44.74%至48.66%之間。（證券時報）
+
+---
+
+### 2026-06-22 04:51:00  #行業
+
+【多元策略基金業績承壓 傳統分散策略需動態最佳化】近兩年來，隨著A股市場結構性行情極致演繹，基金的多元配置策略越來越難。公募、遊資等機構高度聚焦AI、算力等少數賽道，導致固守分散持倉策略的基金收益持續低迷，多元策略失效一度成為行業話題。 不過，面對市場的變化，也有一批均衡基金透過主動調整倉位，業績表現也十分亮眼。在當前科技行情獨當一面的背景下，基金行業對多元投資的認知也在變化，業內普遍認為，公募投研正在打破賽道和均衡二選一的固有認知，兩種投資框架逐步融合發展。（證券時報）
+
+---
+
+### 2026-06-22 04:50:32  #公司 #市場
+
+【多隻LOF連續漲停 高溢價背後暗藏風險】近期，LOF市場異動頻現，財通基金旗下多隻產品場內份額連續漲停，溢價率飆升至20%以上，引發市場廣泛關注。表面看，這與基金經理金梓才押注AI算力賽道、近一年回報近530%的亮眼業績密切相關；但深入分析，高溢價的背後實則是極小流通盤下的資金博弈——部分產品僅需數十萬元即可拉漲停。基金公司雖已緊急限購、頻頻停牌，但在社交媒體放大效應下，“堵住場外”反而可能加劇投機情緒。 業內人士提醒，此類脫離基本面的高溢價猶如“流沙上的博弈”，一旦情緒退潮，投資者將面臨價格迴歸與溢價破裂的雙重風險。（證券時報）
+
+---
+
+### 2026-06-22 04:50:06  #公司 #市場
+
+【兩大六氟化鎢概念股釋出風險提示】中船特氣(688146)、中巨芯（688549）等六氟化鎢概念股近期持續走強，上市公司多次釋出風險提示。 其中，中船特氣的股票價格於5月11日至6月18日連續29個交易日累計漲幅356.20%（經前復權計算股價漲幅），多次觸發股票交易異常波動和嚴重異常波動的情形。 6月21日晚，中船特氣釋出股票交易風險提示公告稱，近期六氟化鎢產品關注度較高，公司關注到有媒體報道及市場傳聞提及公司六氟化鎢產品產能、產品價格、產品規格、產品訂單等內容。公司鄭重提醒，公司所有資訊均以在上交所網站及指定資訊披露媒體刊登的資訊為準，切勿輕信市場傳聞及網路平臺上未經核實的資訊，勿過度放大單一產品對公司業績的影響。中巨芯6月21日晚同步釋出股票交易風險提示公告，公司關注到近期媒體報道及市場傳聞涉及“六氟化鎢海外斷供”“六氟化鎢價格暴漲”“國產替代核心標的”“國內六氟化鎢頭部企業有望在本輪產業鏈景氣爆發週期中充分受益”等事項。（證券時報）
+
+---
+
+### 2026-06-22 04:49:10  #公司 #市場 #觀點 #國際
+
+【成果亮眼遭遇股價背離 百餘藥企掀起超百億回購】近日，中國生物製藥一紙公告，宣佈擬於12個月內以不超過20億港元在公開市場上回購公司普通股。這是今年以來醫藥上市企業大手筆的回購動作之一。公告還特別強調：董事會認為公司價值目前被嚴重低估，希望透過這一股份購買計劃儘快提振投資者信心，提升股東回報。 中國生物製藥的公告，道出了近期眾多醫藥上市公司的痛處。一方面，國內創新藥、CXO（醫藥研發生產外包）領域的發展捷報頻傳，如國產創新藥閃耀ASCO（美國臨床腫瘤學會）舞臺，多項突破性技術成就大放異彩，創新藥對外授權金額再創新高……但另一方面，資本市場上的表現卻與之背離，AH股醫藥板塊持續下跌，走勢低迷。 在這一背景下，一輪由上市公司層面主導的回購潮開始發力。據東吳證券統計，今年4月初至6月中旬，A股和H股中已有百餘家醫藥上市公司宣佈或實施回購股份。Wind資料顯示，今年以來，AH股醫藥公司已累計回購近130億元。（證券時報）
+
+---
+
+### 2026-06-22 04:48:21  #MKT News
+
+QatarEnergy said the fire has been brought under control following efforts by emergency response teams.
+
+---
+
+### 2026-06-22 04:47:29  #公司
+
+卡達能源公司表示，在應急響應小組被部署控制火勢後，火情已得到控制。
+
+---
+
+### 2026-06-22 04:47:15  #MKT News #Brent #Impact bullish #WTI
+
+QatarEnergy confirmed an operational incident during start-up at Ras Laffan Industrial City that caused an explosion and fire at Barzan gas-supply facilities.
+
+---
+
+### 2026-06-22 04:46:59  #公司
+
+卡達能源公司確認，拉斯拉凡工業城投產作業期間發生執行事故，導致巴爾贊天然氣供應設施發生爆炸火災。
+
+---
+
+### 2026-06-22 04:40:18  #國際
+
+特朗普：遭嚴重蓄意破壞的倒影池修繕工程將即刻動工。我剛剛前去實地視察，當時我不禁自言自語，也對著身旁隨行人員感嘆，天吶，什麼樣的人能幹出這種事？一群病態、精神失常之徒！我們一定會將其修復。
+
+---
+
+### 2026-06-22 04:37:38  #其他
+
+目前有訊息猜測，美伊新一輪談判結束後或將釋出一份初步聯合宣告。
+
+---
+
+### 2026-06-22 04:35:13  #MKT News #WTI #Impact bearish #Brent #XAUUSD
+
+【US diplomat says progress in US-Iran talks on keeping Strait of Hormuz open】A US diplomat told Axios that US-Iran talks, which began Sunday morning local time and have continued in various formats with minimal interruption, made progress on keeping the Strait of Hormuz fully open after recent Iranian statements about possible closure. The talks also addressed a Lebanon de‑escalation mechanism and ceasefire implementation. The diplomat said discussions covered all components of the nuclear agreement and were productive on implementing a memorandum of understanding, aligning positions, and planning political and technical follow‑up.
+
+---
+
+### 2026-06-22 04:27:31  #國際
+
+伊朗廣播電視臺一名記者表示，目前尚無法確認談判是否已經結束，但種種跡象顯示伊朗代表團或許正準備返回伊朗。
+
+---
+
+### 2026-06-22 04:26:05  #國際
+
+伊朗革命衛隊聖城旅指揮官伊斯梅爾·卡阿尼警告以色列，若繼續推行當下政策，以色列或將重演2000年從黎巴嫩南部撤軍的結局。
+
+---
+
+### 2026-06-22 04:25:20  #國際
+
+以色列一名高階安全官員表示，若再度嘗試將伊朗議題與黎巴嫩議題分割處理，只會惡化以美關係。
+
+---
+
+### 2026-06-22 04:21:49  #國際
+
+【美國外交官：美伊談判富有建設性】一名美國外交官透露，美伊談判於週日上午啟動，此後幾乎不間斷持續推進，磋商議題涵蓋黎巴嫩衝突隔離機制、停火安排、伊朗核計劃以及霍爾木茲海峽通航事宜，美方著重強調海峽必須保持暢通。該外交官表示，雙方圍繞落實諒解備忘錄、推進後續政治與技術層面磋商的討論富有建設性。
+
+---
+
+### 2026-06-22 04:19:01  #MKT News #WTI #Impact bearish #Brent
+
+Axios: U.S. diplomats say Iran talks are focused on a Lebanon conflict de-escalation mechanism and on implementing a ceasefire agreement.
+
+---
+
+### 2026-06-22 04:18:47  #國際
+
+美國外交官就伊朗談判表態：重點是建立黎巴嫩去衝突機制以及落實停火協議。
+
+---
+
+### 2026-06-22 04:18:39  #焦點 #國際
+
+美國外交官談伊朗談判：在維持霍爾木茲海峽暢通方面已取得良好進展。
+
+---
+
+### 2026-06-22 04:18:25  #MKT News #Important #WTI #Impact bearish #Brent
+
+Axios reported U.S. diplomats said they have made good progress in keeping the Strait of Hormuz open.
+
+---
+
+### 2026-06-22 04:15:37  #MKT News #Commodities #Energy #Brent #Impact bullish #WTI
+
+Insiders report an explosion at the Barzan gas plant in Ras Laffan, Qatar; cause cited as "operational error".
+
+---
+
+### 2026-06-22 04:15:04  #MKT News #WTI #Impact bearish #XAUUSD #S&P500 #Impact bullish
+
+【Egypt, Pakistan, Saudi Arabia, Turkey foreign ministers meet in Cairo】Foreign ministers of Egypt, Pakistan, Saudi Arabia and Turkey met in Cairo on the 21st and issued a joint statement saying the US‑Iran conflict poses significant risks to regional security, international energy markets, maritime trade routes, global supply chains and international trade. They welcomed the recent US‑Iran memorandum of understanding as a constructive step toward de‑escalation and urged all parties to honor commitments. The ministers said the US and Iran should sustain current momentum, promptly complete next‑stage talks and agree a durable, verifiable and mutually acceptable solution that addresses regional states' concerns.
+
+---
+
+### 2026-06-22 04:12:16  #國際
+
+【埃及、巴基斯坦、沙特、土耳其外長在開羅舉行會談】埃及外長阿卜杜勒阿提、巴基斯坦副總理兼外交部長達爾、沙烏地阿拉伯外交大臣費薩爾和土耳其外長費丹21日在開羅舉行會談，就包括伊朗問題在內的當前地區局勢交換意見。埃及、巴基斯坦、沙特、土耳其當天釋出聯合宣告稱，美國與伊朗衝突對地區安全與穩定、國際能源市場、海上航線、全球供應鏈和國際貿易構成重大風險。各方對近期美伊簽署諒解備忘錄表示歡迎，認為這對推動局勢緩和、結束地區衝突起建設性作用，並強調有關方應忠實履行承諾。（新華社）
+
+---
+
+### 2026-06-22 04:11:16  #MKT News
+
+According to Iran's Press TV, four-party talks in Switzerland have ended after Iran's delegation walked out.
 
 ---
 
@@ -21539,299 +21701,5 @@ The Pentagon disclosed that Elon Musk's Grok AI was used to coordinate operation
 ### 2026-06-19 01:46:42  #焦點 #國際
 
 【伊朗最高領袖釋出宣告】當地時間6月18日晚，伊朗最高領袖穆傑塔巴·哈梅內伊就伊美諒解備忘錄釋出宣告。宣告中說：“正如諸位所知，伊朗與美國總統簽署了一份諒解備忘錄。在達成這一點的過程中，相關負責人出於關切與善意付出了諸多努力；當然，是美國總統迫於無奈，動用了各類手段來實現此事。我原則上持有不同意見，但基於伊朗總統作為最高國家安全委員會主席、代表自身及全體委員，就維護伊朗民族與抵抗陣線權利向我作出的承諾，並明確承擔相關責任，我予以了許可。他同時也明確表示，若美方得寸進尺、提出過分要求，伊朗決不屈從。此刻起，我們將靜候所述條件的落實。但顯然，未來開展的面對面談判，絕不意味著接受敵方的意志。”（CCTV國際時訊）
-
----
-
-### 2026-06-19 01:45:18  #Trading Economics #Markets #commodity #Importance 0
-
-Lumber Hits 34-week High — Lumber increased to 633.50 USD/1000 board feet, the highest since October 2025. Over the past 4 weeks, Lumber gained 6.31%, and in the last 12 months, it increased 2.68%.
-
----
-
-### 2026-06-19 01:44:50  #國際
-
-【以色列外長切斷與歐盟最高外交官的全部聯絡 指其言論有失公允】以色列外交部長表示，將切斷與歐盟最高外交官卡拉斯的一切聯絡，稱她“明目張膽的不公”。這凸顯出以色列日益孤立於許多最親密的盟友。以色列外長吉迪恩·薩爾稱卡拉斯最近將以色列比作南非的種族隔離政權。“對於這一嚴重的言論，她沒有做出任何否認、澄清或回應，”他週四在X上表示，“我別無選擇，只能斷絕與卡拉斯女士的一切聯絡，直到她撤回針對全球唯一猶太國家的血祭誹謗。”
-
----
-
-### 2026-06-19 01:44:49  #MKT News #WTI #Impact bullish #Brent #XAUUSD
-
-An Israeli Channel 14 reporter asked President Trump whether the US would provide defensive support if Israel unilaterally struck Iran; he said, "If provoked, absolutely will."
-
----
-
-### 2026-06-19 01:44:15  #市場
-
-週四（6月18日），韓元兌美元最終跌1.68%，報1540.47韓元。全天處於下跌狀態，北京時間14:00-20:00持續下跌。
-
----
-
-### 2026-06-19 01:43:29  #MKT News #Market Regions #Europe & UK
-
-ECB governing council member Escrivá said second-round wage effects have yet to materialize.
-
----
-
-### 2026-06-19 01:43:02  #MKT News #Market Regions #Europe & UK #EURUSD #Impact mixed
-
-ECB Governing Council member Escrivá said uncertainty remains over second‑round wage effects.
-
----
-
-### 2026-06-19 01:42:46  #MKT News #Commodities #Energy
-
-ESCRIVA, an ECB governing council member, said uncertainty remains over oil prices and their pass-through to inflation.
-
----
-
-### 2026-06-19 01:42:20  #央行 #國際
-
-歐洲央行官員埃斯克裡瓦：薪資層面的第二輪通脹效應尚未顯現。
-
----
-
-### 2026-06-19 01:41:58  #央行 #國際
-
-歐洲央行官員埃斯克裡瓦：薪資引發的第二輪通脹效應存在不確定性。
-
----
-
-### 2026-06-19 01:41:47  #國際
-
-【歐盟稱解除對伊朗制裁時機未到】歐盟外交與安全政策高階代表卡拉斯18日在布魯塞爾表示，如果伊朗核問題達成相關協議，歐盟成員國可討論解除對伊制裁問題，但目前“尚未到那一步”。卡拉斯在歐盟峰會前向媒體記者表示，歐盟對伊朗設有不同型別的制裁，其中包括與核問題相關的制裁。她說，如果條件允許並達成核協議，歐盟成員國將討論是否解除有關制裁，但目前“尚未到那一步”。談及中東局勢，卡拉斯表示，美國和伊朗簽署諒解備忘錄，為緩和當前緊張局勢、推動霍爾木茲海峽重新開放提供了基礎。不過，包括伊核問題在內的複雜議題仍需在接下來60天內繼續談判。（新華社）
-
----
-
-### 2026-06-19 01:41:35  #其他
-
-【健身爬樓機銷量暴增近300%】來自京東的資料顯示，今年618，寵物經濟表現亮眼，細分需求持續釋放：618期間，京東小寵異寵用品成交額同比增長67% ，老年寵物糧成交額同比增長61%，還有寵物智慧電器成交額同比增長28%。除了給自家“毛孩子”們花錢，今年大家的消費更注重自我提升和愉悅：京東618期間健身爬樓機成交額同比增長276% ，翡翠項鍊成交額同比增長116%。天貓618期間“巨好吃的小零食”搜尋暴漲1800倍。（央視財經）
-
----
-
-### 2026-06-19 01:41:19  #央行 #國際
-
-歐洲央行官員埃斯克裡瓦：油價、通脹傳導均存在不確定性。
-
----
-
-### 2026-06-19 01:41:06  #其他
-
-【上海市奉賢區氣象臺釋出大霧黃色預警訊號】上海市奉賢區氣象臺2026年06月19日01時35分發布大霧黃色預警訊號：預計今天上午以前，本區大部地區將出現能見度小於500米的霧，區域性地區能見度小於200米，請注意防範低能見度對道路交通的不利影響。
-
----
-
-### 2026-06-19 01:40:36  #國際
-
-【伊朗最高領袖：面對面談判不意味接受敵方觀點】伊朗最高領袖穆傑塔巴·哈梅內伊18日就伊美諒解備忘錄發表宣告說，未來將開展面對面談判，並不意味著接受“敵人”觀點。 (新華社)
-
----
-
-### 2026-06-19 01:40:16  #央行 #國際
-
-歐洲央行官員埃斯克裡瓦： 物價預期走勢存在顯著不確定性。
-
----
-
-### 2026-06-19 01:40:03  #國際
-
-澤連斯基：與希臘總理重點探討了烏克蘭加入歐盟相關事宜。首個談判章節已啟動磋商，當下首要任務是儘快開啟剩餘五大談判章節的談判工作。
-
----
-
-### 2026-06-19 01:39:11  #焦點 #國際
-
-以色列媒體：特朗普稱，如果以色列攻擊伊朗，美國將支援以色列。
-
----
-
-### 2026-06-19 01:39:10  #MKT News
-
-ECB Governing Council member ESCRIVA said the baseline scenario is subject to considerable uncertainty.
-
----
-
-### 2026-06-19 01:39:05  #MKT News #Commodities #Energy #WTI #Impact bullish #Brent
-
-ECB Governing Council member ESCRIVA said the timeline for oil output recovery remains unclear.
-
----
-
-### 2026-06-19 01:37:46  #央行 #國際
-
-歐洲央行官員埃斯克裡瓦：石油設施受損規模尚不明確。
-
----
-
-### 2026-06-19 01:37:39  #央行 #國際
-
-歐洲央行官員埃斯克裡瓦：石油產能恢復所需時長尚無法確定。
-
----
-
-### 2026-06-19 01:37:39  #MKT News #WTI #Impact bearish #S&P500 #Impact bullish #DXY
-
-【Iran supreme leader approves MoU with U.S., warns face‑to‑face talks do not equal acceptance of U.S. positions】Iran Supreme Leader Khamenei said he has approved the signing of a memorandum of understanding with the U.S. president after initially opposing it, following assurances from Iran’s president—head of the Supreme National Security Council—that Tehran will protect the interests of the Iranian people and the resistance front and that he will assume responsibility. Khamenei said the U.S. used leverage out of desperation, that Tehran will reject any excessive U.S. demands, and that it will wait to see implementation of agreed conditions; he stressed future face‑to‑face negotiations do not imply acceptance of the enemy’s positions.
-
----
-
-### 2026-06-19 01:37:31  #其他
-
-【世界氣象組織：去年極端天氣影響非洲超千萬人】18日，世界氣象組織在衣索比亞首都亞的斯亞貝巴釋出《2025年非洲氣候狀況》報告，資料顯示去年極端天氣和氣候相關事件影響非洲至少1300萬人，報告的死亡人數超過3000人，對經濟社會各領域均造成連鎖影響。（央視新聞）
-
----
-
-### 2026-06-19 01:36:49  #國際
-
-伊朗最高領袖：如果美方提出過高要求，我方將不會接受。
-
----
-
-### 2026-06-19 01:35:42  #國際
-
-伊朗最高領袖表示，即將舉行的未來面對面談判並不意味著接受“敵方觀點”。
-
----
-
-### 2026-06-19 01:35:38  #央行 #國際
-
-歐洲央行官員埃斯克裡瓦：基準情景存在極大不確定性。
-
----
-
-### 2026-06-19 01:34:13  #國際
-
-伊朗最高領袖稱，他原本對與美國簽署諒解備忘錄持不同看法，但出於對伊朗總統以及最高國家安全委員會其他成員的承諾，他已批准該備忘錄。
-
----
-
-### 2026-06-19 01:34:09  #國際
-
-伊朗最高領袖：從今往後，驕傲的全體國民與我這個卑微的僕人，將一同等候美方兌現協議載明的各項條款。但顯而易見，後續開展的面對面談判絕不代表我們認同敵方的立場。
-
----
-
-### 2026-06-19 01:33:22  #國際
-
-伊朗最高領袖：我原本持不同意見，但鑑於尊敬的總統作為最高國家安全委員會負責人，代表自身及委員會其他成員向我作出承諾，保證維護伊朗民族與抵抗陣線的各項權益，並明確願為此承擔全部責任，我最終予以批准。
-
----
-
-### 2026-06-19 01:32:52  #焦點 #國際
-
-伊朗最高領袖：走到如今這一步，我方負責相關事務的官員懷著真摯的關切與善意付出了諸多努力；當然，促成此事的另一方是美國總統，美方是迫於形勢，動用各類施壓手段才達成這份檔案。
-
----
-
-### 2026-06-19 01:32:31  #焦點 #國際
-
-伊朗最高領袖哈梅內伊就諒解備忘錄表態：這份備忘錄是我批准的。
-
----
-
-### 2026-06-19 01:32:13  #國際
-
-伊朗最高領袖穆傑塔巴·哈梅內伊發表書面宣告。
-
----
-
-### 2026-06-19 01:32:07  #國際
-
-伊朗最高領袖：致熱忱忠貞的伊朗全體國民，想必諸位已知悉，伊朗與美利堅合眾國兩國總統已簽署一份諒解備忘錄。
-
----
-
-### 2026-06-19 01:31:06  #國際
-
-美國消費品安全委員會（CPSC）宣佈將總部從馬里蘭州遷至華盛頓哥倫比亞特區。
-
----
-
-### 2026-06-19 01:30:54  #國際
-
-【足球球衣成交額暴漲超60倍 投影儀在海外賣爆了】2026美加墨世界盃正在火熱進行中，球迷的熱情也點燃了消費熱情。京東618銷售資料顯示，近一月來足球球衣成交額同比暴漲超60倍，“世界盃球衣”搜尋量增長5.5倍。賽事也直接拉動觀賽裝置的銷售增長，大尺寸大螢幕成為今年的新趨勢。海外618開賣後，一款投影儀新品在歐洲銷量翻倍，在西班牙市場增長甚至達90倍。大屏電視同樣熱銷，小米國際在義大利市場增長3倍。（央視財經）
-
----
-
-### 2026-06-19 01:30:29  #國際
-
-美國銀行證券維持蘋果目標股價為每股380.00美元。
-
----
-
-### 2026-06-19 01:30:03  #MKT News #Important
-
-Iran's supreme leader Mojtaba said Iranian officials, acting from compassion and goodwill, made extensive efforts to secure a memorandum of understanding with the United States, and that the U.S. president signed it out of desperation.
-
----
-
-### 2026-06-19 01:29:30  #公司
-
-亞馬遜將獨家銷售無人工色素款 M&M 巧克力豆。
-
----
-
-### 2026-06-19 01:28:38  #MKT News #Market Regions #Europe & UK
-
-【Slovakia's National Council backs Fico government in confidence vote】On June 18 local time, Slovakia's National Council voted confidence in the Fico government. Following a Constitutional Court order requiring the government to promptly fulfil related statutory obligations, the ruling coalition secured parliamentary confidence with 78 votes.
-
----
-
-### 2026-06-19 01:27:28  #其他
-
-【斯洛伐克國民議會透過對菲佐政府信任投票】當地時間6月18日，斯洛伐克國民議會透過對菲佐政府的信任投票。在此前憲法法院要求政府儘快履行相關法定義務後，執政聯盟最終以78票支援的結果幫助政府順利獲得議會信任。斯洛伐克國民議會18日就政府信任案舉行特別會議。經過全天辯論和表決，由總理羅伯特·菲佐領導的政府獲得78名議員支援，成功透過信任投票。（央視新聞）
-
----
-
-### 2026-06-19 01:27:17  #國際
-
-美國聯邦能源監管委員會將要求公用事業企業申報資料中心相關成本。
-
----
-
-### 2026-06-19 01:27:07  #其他
-
-Kraken交易所：正在調查秘密網路（SCRT）出入金通道的問題，目前充值和提現可能會出現延遲。
-
----
-
-### 2026-06-19 01:25:45  #國際
-
-美國一名法官縮減了多州及選舉權組織針對特朗普限制郵寄選票行政令提起的訴訟範圍。
-
----
-
-### 2026-06-19 01:22:06  #公司
-
-輝瑞製藥公司：仍然預測全年調整後每股收益2.80美元至3.00美元。
-
----
-
-### 2026-06-19 01:21:58  #公司
-
-輝瑞製藥公司：仍然預測全年營收595億美元至625億美元。
-
----
-
-### 2026-06-19 01:20:20  #國際
-
-英國部長呼籲以色列從黎巴嫩南部撤軍。
-
----
-
-### 2026-06-19 01:19:59  #國際
-
-伊朗媒體訊息：作為對以色列在黎巴嫩南部屢次違反停火協議的回應，真主黨啟動代號Ashura的系列軍事行動。
-
----
-
-### 2026-06-19 01:19:47  #MKT News
-
-【Vance says Israel mistrusts US over US-Iran memorandum】June 18 — US Vice President Vance accused Israeli officials of showing "strange panic" and "hysteria" over a US-Iran memorandum of understanding, saying Israel lacks trust in the United States. Israeli politicians across parties, including some Netanyahu allies, have criticized the MoU for failing to resolve Israel's concerns about Iran's nuclear and ballistic-missile programs and for restricting Israel's freedom to act against Hezbollah. Vance rejected claims the MoU is a "bad deal," saying that characterization is false and noting the memorandum does not guarantee benefits to Iran absent changes in Iranian behavior.
-
----
-
-### 2026-06-19 01:19:16  #國際
-
-【經濟學家：加拿大經濟前景取決於該國在資源和金屬領域的表現】加鼎華阜合作銀行首席經濟學家Jimmy Jean表示，加拿大的經濟前景取決於利用其在能源領域的專業知識以及生產關鍵礦物。他說，由於加拿大擁有龐大的油氣儲量，目前外國投資者的興趣似乎很濃厚。Jean表示，加拿大不能再依賴作為通往美國的免關稅門戶來吸引投資者。Jean說：“加拿大必須實現的不僅僅是目前普遍的自我吹噓的言辭：而是將其比較優勢——清潔能源、資源、專業知識——轉化為新的產能。”外國人也在以創紀錄的速度大量買入加拿大證券。他表示，如果加拿大將目前的樂觀情緒視為對“加拿大兌現承諾能力無條件的信任投票”，那將是一個錯誤。
 
 ---

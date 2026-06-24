@@ -1,7 +1,157 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-06-25 06:38:02_
-_本檔包含 3312 則快訊，約 625343 字_
+_更新時間：2026-06-25 07:06:14_
+_本檔包含 3310 則快訊，約 625145 字_
+
+---
+
+### 2026-06-23 05:42:45  #Trading Economics #Economy #Argentina #Unemployment Rate #Importance 0
+
+Argentina Unemployment Rises in Q1 2026 — Argentina’s unemployment rate rose to 7.8% in the first quarter of 2026, up from 7.5% in the previous quarter. The number of unemployed reached 1.1 million people. By region, unemployment was highest in Greater Buenos Aires at 8.7%, followed by the Pampas region at 8.2%. The jobless rate stood at 8.3% for women and 7.5% for men. Among the unemployed, 28.2% were the main income providers in their households. By education level, 36% had completed secondary education, while 10.8% had tertiary or university studies. Regarding job-search duration, 31.8% had been looking for work for more than a year, while 78.7% had previous work experience. By sector, 16.8% had last worked in construction and 16.6% in commerce. Meanwhile, the employment rate edged down to 44.8% from 45%, while labor force participation remained stable at 48.6%.
+
+---
+
+### 2026-06-23 05:35:11  #公司
+
+據傳舒適剃鬚刀母公司已拒絕非邀約收購提案。
+
+---
+
+### 2026-06-23 05:32:58  #市場
+
+彭博股指：SpaceX將於2026年6月24日收盤時被納入彭博全球股指的大盤股板塊。
+
+---
+
+### 2026-06-23 05:32:46  #MKT News
+
+Bloomberg Indices says SpaceX will be added to the large-cap segment of the Bloomberg Global Index at the close of trading on June 24, 2026.
+
+---
+
+### 2026-06-23 05:32:02  #其他
+
+Bending Spoons 投資方擬透過 IPO 募資至多 16.2 億美元。
+
+---
+
+### 2026-06-23 05:29:33  #公司 #市場 #觀點 #國際
+
+【百度ADR盤後上漲，花旗對其開啟30天的看漲催化觀察】百度在美國上市的ADR盤後交易上漲1.5%，此前花旗對這家網際網路搜尋引擎巨頭開啟30天的看漲催化觀察。分析師Alicia Yap寫道，百度“晶片和雲業務的內在實力可能成為推動股價上漲的催化因素。”“雖然難以判斷整體市場情緒何時會發生轉變，但我們相信，一旦百度晶片業務分拆時間表及市場興趣變得明朗，仍存在釋放價值的機會。”花旗給予百度“買入”評級。該公司股價今年以來下跌逾14%。
+
+---
+
+### 2026-06-23 05:26:57  #國際
+
+市場訊息： 烏克蘭與日本將設立規模達數千萬美元的聯合基金， 相關細節將於週四在波蘭舉辦的烏克蘭重建大會上公佈。
+
+---
+
+### 2026-06-23 05:25:38  #國際
+
+市場訊息：烏克蘭與日本計劃依託日立、東芝設立重建基金。
+
+---
+
+### 2026-06-23 05:19:49  #Trading Economics #Markets #Colombia #Stock Market #Importance 1
+
+COLCAP Drops After Tight Election Result — The MSCI COLCAP index fell 4.4% to close at 2,393 on June 22, reversing part of its recent rally after one of the tightest presidential elections in Colombian history. Optimism following the victory of Abelardo de la Espriella faded as investors assessed the narrow margin of victory and the challenges it may pose for implementing market-friendly reforms. The right-wing outsider secured the presidency with a lead of roughly one percentage point over leftist Senator Iván Cepeda, disappointing investors who had hoped for a stronger mandate. De la Espriella has pledged to reduce Colombia’s widening budget deficit while supporting coal mining and oil drilling to strengthen fiscal revenues. Financial and energy stocks led losses, with Cibest down 5.3% and Ecopetrol plunging 8.5%.
+
+---
+
+### 2026-06-23 05:15:44  #市場
+
+富時A50期指連續夜盤收跌0.01%，報16003點。
+
+---
+
+### 2026-06-23 05:11:39  #市場
+
+週一（6月22日）紐約尾盤（週二北京時間04:59），離岸人民幣（CNH）兌美元報6.7781元，較上週五紐約尾盤漲57點，日內整體交投於6.7863-6.7730元區間。
+
+---
+
+### 2026-06-23 05:10:49  #國際
+
+阿曼外交大臣：阿曼與伊朗談判代表共同重申恪守國際法，承諾保障霍爾木茲海峽航道安全、通行免收通行費。
+
+---
+
+### 2026-06-23 05:10:43  #MKT News #Macro & Rates #The Fed (FOMC) #S&P500 #Impact bullish #DXY #Impact bearish #US10Y #Impact mixed
+
+Federal Reserve's Goolsbee said Fed Chair Warsh's approach to reduce speculation about interest rates and pare back forward guidance is one he largely supports.
+
+---
+
+### 2026-06-23 05:10:12  #MKT News
+
+Oman's foreign minister said the country reiterated its commitment to international law and to safe, fee-free passage.
+
+---
+
+### 2026-06-23 05:09:38  #公司 #國際
+
+【美國FAA選用Air Space Intelligence打造AI空管工具】Air Space Intelligence公司贏得美國政府合同，將提供用於管理航班交通的人工智慧技術。該公司為美國聯邦航空局（FAA）開發了兩款AI工具：一款用於規劃飛行軌跡，另一款用於識別擁堵區域併為空中交通管制員提供解決方案。美國政府表示，新系統將減少航班延誤、改善交通流量並增加空域容量，預計整個過渡工作將於2028年底前完成。
+
+---
+
+### 2026-06-23 05:09:30  #MKT News
+
+Oman’s foreign minister said he hosted Iranian parliamentary speaker Ghalibaf and foreign minister Araghchi in Muscat tonight; they held constructive talks on the recent Iran‑US memorandum of understanding, with particular focus on the Strait of Hormuz.
+
+---
+
+### 2026-06-23 05:09:29  #央行 #國際
+
+美聯儲古爾斯比：在我看來，需要判斷本輪通脹是否具備持續性。 沃什的思路是減少市場對利率的猜測、弱化前瞻指引；我相當認同這一思路。
+
+---
+
+### 2026-06-23 05:08:41  #MKT News
+
+Fed's GOOLSBEE said he needs to assess whether the current inf will be persistent.
+
+---
+
+### 2026-06-23 05:07:58  #央行 #國際
+
+美聯儲古爾斯比：服務業通脹形勢略顯令人擔憂。
+
+---
+
+### 2026-06-23 05:07:35  #MKT News #Macro & Rates #The Fed (FOMC) #DXY #Impact bullish #US10Y #S&P500 #Impact bearish
+
+Fed's GOOLSBEE said more evidence is needed to show the current bout of inf is temporary; services‑sector inf is mildly concerning.
+
+---
+
+### 2026-06-23 05:07:17  #MKT News #Macro & Rates #The Fed (FOMC) #US Economy #S&P500 #Impact bullish #DXY #USDJPY
+
+Fed's Goolsbee said the US has not yet experienced a stagflation shock and the labor market has remained stable.
+
+---
+
+### 2026-06-23 05:06:57  #MKT News
+
+Romania's prime minister-designate failed to win parliamentary approval for the proposed cabinet.
+
+---
+
+### 2026-06-23 05:06:45  #其他
+
+【羅馬尼亞候任總理提交的內閣名單未獲議會透過】當地時間6月22日晚，羅馬尼亞參眾兩院聯席會議對候任總理阿德里安·韋什泰亞此前向議會提交的內閣成員名單和施政綱領進行投票。議會以189票贊成、23票反對否決了阿德里安·韋什泰亞的內閣成員名單。據悉，根據相關程式，羅馬尼亞總統達恩需再次提名新的總理人選。（央視新聞）
+
+---
+
+### 2026-06-23 05:06:42  #MKT News #DXY #Impact bullish #US10Y #Impact bearish #S&P500
+
+GOOLSBEE said markets remain stable; inf is well above target and the trend is unfavorable.
+
+---
+
+### 2026-06-23 05:06:36  #Trading Economics #Markets #Brazil #Stock Market #Importance 1
+
+Ibovespa Gains on US-Iran Peace Progress — The Ibovespa rose 1.2% to close at 170,370 on Monday as progress in peace talks between the US and Iran boosted market sentiment. US Vice President JD Vance and Iran’s Foreign Minister took part in negotiations in Switzerland, with mediators from Qatar and Pakistan reporting encouraging progress, including the establishment of a framework for future technical talks. Both sides agreed on a roadmap to reach a final agreement within 60 days. Oil prices declined, pushing bond yields lower and easing concerns over energy-driven inflation. Major banks led gains, with Itaú up 2.7% and Bradesco rising 1.8%. Utilities also advanced, with Axia up 2% and Sabesp gaining 3.5%. Petrobras rose 0.9% despite lower oil prices, supported by the payment of its latest interest on equity installment and the signing of a memorandum of understanding with Pemex. Retailers also contributed to gains, with Azzas surging 10.3% after presenting alternatives for Farm.
 
 ---
 
@@ -19806,167 +19956,5 @@ TASNIM NEWS reported Iran's delegation refused to return to four-way talks after
 ### 2026-06-22 04:55:35  #行業
 
 【首批四隻商業不動產REITs上市 助力房企轉型升級】6月18日，我國首批4只商業不動產REITs登陸上交所，標誌著商業不動產REITs試點工作實現良好開局，。我國公募REITs市場正邁入新階段，資本市場服務實體經濟的深度和廣度進一步拓展。首批商業不動產REITs的落地，對於盤活存量資產擴大有效投資、構建房地產行業發展新模式、豐富資本市場資產配置功能、更好服務實體經濟高質量發展具有重要意義。（上證報）
-
----
-
-### 2026-06-22 04:53:43  #其他
-
-【德邦基金迎新董事長 年內近20家公募“換帥”】2026年以來，公募基金行業高管變更保持高頻。Wind資料顯示，截至6月19日，年內已有74家公募機構完成高管變更，涉及高管變動169人次，其中19家機構更換董事長、21家機構更換總經理。（證券時報）
-
----
-
-### 2026-06-22 04:53:03  #市場
-
-【美晶片股再度走強 多隻重倉QDII基金收益翻倍】美股晶片股又一次刷屏了，國內重倉科技的QDII基金可能要提前“上漲”了。 當地時間6月18日，美伊達成停戰諒解備忘錄後，市場風險偏好明顯回升。霍爾木茲海峽恢復商業航運的訊息傳出後，美股三大指數集體收漲，其中納斯達克指數上漲1.91%，費城半導體指數大漲6.42%。個股表現更加亮眼。英特爾漲超10%，美光科技漲超8%，臺積電、高通漲超6%；閃迪漲超11%，總市值突破3200億美元，今年以來累計漲幅已經超過800%。 對於國內投資者而言，雖然無法直接買入這些熱門晶片股，但今年以來，一批重倉半導體資產的QDII基金同樣賺得盆滿缽滿。（證券時報）
-
----
-
-### 2026-06-22 04:52:12  #其他
-
-【玻利維亞空軍一架飛機墜毀 機上6人全部遇難】玻利維亞空軍21日發表宣告說，一架執行民事援助任務的空軍飛機當天在玻中部科恰班巴省山區墜毀，機上6人全部遇難，包括4名軍人和2名平民。（新華社）
-
----
-
-### 2026-06-22 04:51:31  #其他
-
-【低利率催化疊加銀行渠道發力 FOF上半年新發規模超歷史峰值】2026年以來，曾長期處於公募基金市場邊緣的FOF（基金中基金）迎來爆發式增長。Wind資料顯示，截至6月20日，年內新成立FOF基金已達88只，合計發行規模高達1137.69億元，不僅超越2025年全年水平，還超過了2021年創下的歷史峰值。與此同時，全市場FOF基金平均收益率達5.28%，在權益市場波動的背景下展現出穩健的抗風險能力，FOF正從公募基金的“配角”加速走向舞臺中央。 業績表現方面，易方達優勢回報A以52.20%的收益率位居榜首。此外，易方達旗下多隻FOF產品表現優異，優勢驅動一年持有A/C、優勢領航六個月持有A/C、優勢價值一年持有A/C等產品均進入前十，收益率介於44.74%至48.66%之間。（證券時報）
-
----
-
-### 2026-06-22 04:51:00  #行業
-
-【多元策略基金業績承壓 傳統分散策略需動態最佳化】近兩年來，隨著A股市場結構性行情極致演繹，基金的多元配置策略越來越難。公募、遊資等機構高度聚焦AI、算力等少數賽道，導致固守分散持倉策略的基金收益持續低迷，多元策略失效一度成為行業話題。 不過，面對市場的變化，也有一批均衡基金透過主動調整倉位，業績表現也十分亮眼。在當前科技行情獨當一面的背景下，基金行業對多元投資的認知也在變化，業內普遍認為，公募投研正在打破賽道和均衡二選一的固有認知，兩種投資框架逐步融合發展。（證券時報）
-
----
-
-### 2026-06-22 04:50:32  #公司 #市場
-
-【多隻LOF連續漲停 高溢價背後暗藏風險】近期，LOF市場異動頻現，財通基金旗下多隻產品場內份額連續漲停，溢價率飆升至20%以上，引發市場廣泛關注。表面看，這與基金經理金梓才押注AI算力賽道、近一年回報近530%的亮眼業績密切相關；但深入分析，高溢價的背後實則是極小流通盤下的資金博弈——部分產品僅需數十萬元即可拉漲停。基金公司雖已緊急限購、頻頻停牌，但在社交媒體放大效應下，“堵住場外”反而可能加劇投機情緒。 業內人士提醒，此類脫離基本面的高溢價猶如“流沙上的博弈”，一旦情緒退潮，投資者將面臨價格迴歸與溢價破裂的雙重風險。（證券時報）
-
----
-
-### 2026-06-22 04:50:06  #公司 #市場
-
-【兩大六氟化鎢概念股釋出風險提示】中船特氣(688146)、中巨芯（688549）等六氟化鎢概念股近期持續走強，上市公司多次釋出風險提示。 其中，中船特氣的股票價格於5月11日至6月18日連續29個交易日累計漲幅356.20%（經前復權計算股價漲幅），多次觸發股票交易異常波動和嚴重異常波動的情形。 6月21日晚，中船特氣釋出股票交易風險提示公告稱，近期六氟化鎢產品關注度較高，公司關注到有媒體報道及市場傳聞提及公司六氟化鎢產品產能、產品價格、產品規格、產品訂單等內容。公司鄭重提醒，公司所有資訊均以在上交所網站及指定資訊披露媒體刊登的資訊為準，切勿輕信市場傳聞及網路平臺上未經核實的資訊，勿過度放大單一產品對公司業績的影響。中巨芯6月21日晚同步釋出股票交易風險提示公告，公司關注到近期媒體報道及市場傳聞涉及“六氟化鎢海外斷供”“六氟化鎢價格暴漲”“國產替代核心標的”“國內六氟化鎢頭部企業有望在本輪產業鏈景氣爆發週期中充分受益”等事項。（證券時報）
-
----
-
-### 2026-06-22 04:49:10  #公司 #市場 #觀點 #國際
-
-【成果亮眼遭遇股價背離 百餘藥企掀起超百億回購】近日，中國生物製藥一紙公告，宣佈擬於12個月內以不超過20億港元在公開市場上回購公司普通股。這是今年以來醫藥上市企業大手筆的回購動作之一。公告還特別強調：董事會認為公司價值目前被嚴重低估，希望透過這一股份購買計劃儘快提振投資者信心，提升股東回報。 中國生物製藥的公告，道出了近期眾多醫藥上市公司的痛處。一方面，國內創新藥、CXO（醫藥研發生產外包）領域的發展捷報頻傳，如國產創新藥閃耀ASCO（美國臨床腫瘤學會）舞臺，多項突破性技術成就大放異彩，創新藥對外授權金額再創新高……但另一方面，資本市場上的表現卻與之背離，AH股醫藥板塊持續下跌，走勢低迷。 在這一背景下，一輪由上市公司層面主導的回購潮開始發力。據東吳證券統計，今年4月初至6月中旬，A股和H股中已有百餘家醫藥上市公司宣佈或實施回購股份。Wind資料顯示，今年以來，AH股醫藥公司已累計回購近130億元。（證券時報）
-
----
-
-### 2026-06-22 04:48:21  #MKT News
-
-QatarEnergy said the fire has been brought under control following efforts by emergency response teams.
-
----
-
-### 2026-06-22 04:47:29  #公司
-
-卡達能源公司表示，在應急響應小組被部署控制火勢後，火情已得到控制。
-
----
-
-### 2026-06-22 04:47:15  #MKT News #Brent #Impact bullish #WTI
-
-QatarEnergy confirmed an operational incident during start-up at Ras Laffan Industrial City that caused an explosion and fire at Barzan gas-supply facilities.
-
----
-
-### 2026-06-22 04:46:59  #公司
-
-卡達能源公司確認，拉斯拉凡工業城投產作業期間發生執行事故，導致巴爾贊天然氣供應設施發生爆炸火災。
-
----
-
-### 2026-06-22 04:40:18  #國際
-
-特朗普：遭嚴重蓄意破壞的倒影池修繕工程將即刻動工。我剛剛前去實地視察，當時我不禁自言自語，也對著身旁隨行人員感嘆，天吶，什麼樣的人能幹出這種事？一群病態、精神失常之徒！我們一定會將其修復。
-
----
-
-### 2026-06-22 04:37:38  #其他
-
-目前有訊息猜測，美伊新一輪談判結束後或將釋出一份初步聯合宣告。
-
----
-
-### 2026-06-22 04:35:13  #MKT News #WTI #Impact bearish #Brent #XAUUSD
-
-【US diplomat says progress in US-Iran talks on keeping Strait of Hormuz open】A US diplomat told Axios that US-Iran talks, which began Sunday morning local time and have continued in various formats with minimal interruption, made progress on keeping the Strait of Hormuz fully open after recent Iranian statements about possible closure. The talks also addressed a Lebanon de‑escalation mechanism and ceasefire implementation. The diplomat said discussions covered all components of the nuclear agreement and were productive on implementing a memorandum of understanding, aligning positions, and planning political and technical follow‑up.
-
----
-
-### 2026-06-22 04:27:31  #國際
-
-伊朗廣播電視臺一名記者表示，目前尚無法確認談判是否已經結束，但種種跡象顯示伊朗代表團或許正準備返回伊朗。
-
----
-
-### 2026-06-22 04:26:05  #國際
-
-伊朗革命衛隊聖城旅指揮官伊斯梅爾·卡阿尼警告以色列，若繼續推行當下政策，以色列或將重演2000年從黎巴嫩南部撤軍的結局。
-
----
-
-### 2026-06-22 04:25:20  #國際
-
-以色列一名高階安全官員表示，若再度嘗試將伊朗議題與黎巴嫩議題分割處理，只會惡化以美關係。
-
----
-
-### 2026-06-22 04:21:49  #國際
-
-【美國外交官：美伊談判富有建設性】一名美國外交官透露，美伊談判於週日上午啟動，此後幾乎不間斷持續推進，磋商議題涵蓋黎巴嫩衝突隔離機制、停火安排、伊朗核計劃以及霍爾木茲海峽通航事宜，美方著重強調海峽必須保持暢通。該外交官表示，雙方圍繞落實諒解備忘錄、推進後續政治與技術層面磋商的討論富有建設性。
-
----
-
-### 2026-06-22 04:19:01  #MKT News #WTI #Impact bearish #Brent
-
-Axios: U.S. diplomats say Iran talks are focused on a Lebanon conflict de-escalation mechanism and on implementing a ceasefire agreement.
-
----
-
-### 2026-06-22 04:18:47  #國際
-
-美國外交官就伊朗談判表態：重點是建立黎巴嫩去衝突機制以及落實停火協議。
-
----
-
-### 2026-06-22 04:18:39  #焦點 #國際
-
-美國外交官談伊朗談判：在維持霍爾木茲海峽暢通方面已取得良好進展。
-
----
-
-### 2026-06-22 04:18:25  #MKT News #Important #WTI #Impact bearish #Brent
-
-Axios reported U.S. diplomats said they have made good progress in keeping the Strait of Hormuz open.
-
----
-
-### 2026-06-22 04:15:37  #MKT News #Commodities #Energy #Brent #Impact bullish #WTI
-
-Insiders report an explosion at the Barzan gas plant in Ras Laffan, Qatar; cause cited as "operational error".
-
----
-
-### 2026-06-22 04:15:04  #MKT News #WTI #Impact bearish #XAUUSD #S&P500 #Impact bullish
-
-【Egypt, Pakistan, Saudi Arabia, Turkey foreign ministers meet in Cairo】Foreign ministers of Egypt, Pakistan, Saudi Arabia and Turkey met in Cairo on the 21st and issued a joint statement saying the US‑Iran conflict poses significant risks to regional security, international energy markets, maritime trade routes, global supply chains and international trade. They welcomed the recent US‑Iran memorandum of understanding as a constructive step toward de‑escalation and urged all parties to honor commitments. The ministers said the US and Iran should sustain current momentum, promptly complete next‑stage talks and agree a durable, verifiable and mutually acceptable solution that addresses regional states' concerns.
-
----
-
-### 2026-06-22 04:12:16  #國際
-
-【埃及、巴基斯坦、沙特、土耳其外長在開羅舉行會談】埃及外長阿卜杜勒阿提、巴基斯坦副總理兼外交部長達爾、沙烏地阿拉伯外交大臣費薩爾和土耳其外長費丹21日在開羅舉行會談，就包括伊朗問題在內的當前地區局勢交換意見。埃及、巴基斯坦、沙特、土耳其當天釋出聯合宣告稱，美國與伊朗衝突對地區安全與穩定、國際能源市場、海上航線、全球供應鏈和國際貿易構成重大風險。各方對近期美伊簽署諒解備忘錄表示歡迎，認為這對推動局勢緩和、結束地區衝突起建設性作用，並強調有關方應忠實履行承諾。（新華社）
-
----
-
-### 2026-06-22 04:11:16  #MKT News
-
-According to Iran's Press TV, four-party talks in Switzerland have ended after Iran's delegation walked out.
 
 ---

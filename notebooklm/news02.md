@@ -1,7 +1,199 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-06-25 06:38:02_
-_本檔包含 3230 則快訊，約 625345 字_
+_更新時間：2026-06-25 07:06:14_
+_本檔包含 3237 則快訊，約 625381 字_
+
+---
+
+### 2026-06-24 05:28:08  #其他
+
+芝加哥期權交易所推出CBOE PREDICTS預測平臺，全新預測市場產品線首批產品正式上線。
+
+---
+
+### 2026-06-24 05:27:48  #公司 #國際
+
+日本樂天集團將攜手美國初創企業AST SpaceMobile，在日本推出衛星直連手機通訊服務。
+
+---
+
+### 2026-06-24 05:26:30  #國際
+
+美國最高法院裁定，石油巨頭埃克森美孚可就逾10億美元被沒收資產起訴古巴政府。
+
+---
+
+### 2026-06-24 05:25:26  #觀點
+
+【摩根士丹利旗下70億美元私募信貸基金限制贖回 回購上限設為5%】摩根士丹利管理的一隻規模70億美元的私募信貸基金將贖回比例上限定為5%，意味著不到第二季度申請贖回比例的一半。據週二釋出的信函，North Haven Private Income Fund表示投資者申請贖回比例為11.6%，高於第一季度的10.9%。在規模達1.8萬億美元的私募信貸市場中，由於許多基金在上一季度限制投資者全額退出，本季度主要基金面臨的贖回申請普遍增加。摩根士丹利在信中表示，該基金第二季度超過一半的贖回申請來自上一季度未能全額贖回資金的投資者。
+
+---
+
+### 2026-06-24 05:25:13  #公司
+
+聯邦快遞首席客戶官表示，該公司預計從8月開始將關稅退還款項全額轉遞給客戶。
+
+---
+
+### 2026-06-24 05:24:59  #MKT News #HON.O #Impact bullish
+
+S&P Dow Jones Indices said Honeywell (HON.O) will remain in the Dow Jones Industrial Average.
+
+---
+
+### 2026-06-24 05:24:17  #MKT News #Important #Star Stocks #Alphabet #Market Themes #Magnificent 7 #GOOGL.O #Impact bullish
+
+S&P Dow Jones Indices said the Dow Jones Industrial Average will add Alphabet Class A (GOOGL.O).
+
+---
+
+### 2026-06-24 05:23:24  #市場
+
+標普道瓊斯指數： Alphabet Inc將於6月29日開盤前正式取代威瑞森通訊，成為道瓊斯工業平均指數成分股。
+
+---
+
+### 2026-06-24 05:21:50  #公司 #國際
+
+Cerebras執行長：正就在以色列、阿聯酋、澳大利亞、新加坡、印度及印度尼西亞建設資料中心開展早期洽談。
+
+---
+
+### 2026-06-24 05:21:31  #公司 #市場
+
+谷歌母公司Alphabet盤後漲超1%。
+
+---
+
+### 2026-06-24 05:20:50  #公司 #市場
+
+谷歌母公司Alphabet（谷歌A）將被納入道瓊斯工業平均指數（道指）。
+
+---
+
+### 2026-06-24 05:20:08  #公司
+
+聯邦快遞執行長：公司正有意向市場中收益率更高的業務板塊拓展。
+
+---
+
+### 2026-06-24 05:19:45  #公司
+
+聯邦快遞執行長：在上一財年，聯邦快遞成功應對了包括貿易政策變動、MD-11貨機編隊停飛在內的“重大不利因素”。
+
+---
+
+### 2026-06-24 05:19:27  #公司
+
+聯邦快遞執行長：預計在旺季來臨前讓全部MD-11機隊恢復運營。
+
+---
+
+### 2026-06-24 05:19:13  #公司
+
+Cerebras執行長：截至本週，公司已與亞馬遜雲科技（AWS）達成最終協議，雙方將啟動技術協作，併為在亞馬遜雲科技的資料中心部署相關專案做準備。
+
+---
+
+### 2026-06-24 05:18:47  #其他
+
+【法國高溫持續 埃菲爾鐵塔提前關閉】由於法國高溫天氣持續，埃菲爾鐵塔運營方宣佈，為保障遊客和工作人員安全，埃菲爾鐵塔於23日下午提前關閉。法國氣象局目前將54個省級行政區劃列為高溫紅色預警區域，約佔該國面積的一半。
+
+---
+
+### 2026-06-24 05:18:28  #公司
+
+Cerebras執行長在電話會議上表示，OpenAI GPT 5.4目前已部署執行在Cerebras的AI系統上；作為下一階段部署計劃的一部分，公司正推動將GPT 5.5部署到Cerebras系統上。
+
+---
+
+### 2026-06-24 05:17:42  #市場
+
+聯邦快遞高管：收益率提升得益於基準運價上漲與燃油附加費。
+
+---
+
+### 2026-06-24 05:17:33  #市場
+
+標普道瓊斯指數：霍尼韋爾航空航天將納入標普500與標普100，其餘個股分別納入標普中型股400與標普小型股600。
+
+---
+
+### 2026-06-24 05:17:13  #公司 #市場
+
+霍尼韋爾航空航天公司將納入標普500指數成分股。
+
+---
+
+### 2026-06-24 05:15:15  #市場
+
+富時A50期指連續夜盤收漲0.45%，報15531點。
+
+---
+
+### 2026-06-24 05:15:13  #MKT News #WTI #Impact bearish #Brent
+
+【Oman, IMO coordinate temporary sea lane through Strait of Hormuz】Oman announced early on the 24th it has coordinated with the International Maritime Organization to open a temporary sea lane through the Strait of Hormuz for all vessels, citing its responsibility for the strait and its importance to the global economy. The lane will operate under international law, including the United Nations Convention on the Law of the Sea, will not charge passage fees, and will follow navigational coordinates published by the IMO and Omani authorities; vessels must coordinate with the IMO in advance. Oman said the step reflects outcomes from US‑Iran negotiations and mediation efforts.
+
+---
+
+### 2026-06-24 05:12:38  #國際
+
+【阿曼與國際海事組織協調開闢霍爾木茲海峽臨時航道】當地時間24日凌晨，阿曼方面釋出宣告表示，鑑於該國對霍爾木茲海峽的責任以及該海峽對全球經濟的重要作用，在遵守國際法和《聯合國海洋法公約》、保障海峽自由通行且不收取通行費用的基礎上，並結合美國與伊朗相關談判和斡旋努力所取得的成果，阿曼已與國際海事組織協調，為所有船舶開闢一條臨時海上航道。根據安排，相關航道將按照國際海事組織及阿曼主管部門公佈的航行座標執行，計劃使用該航道的船舶需提前與國際海事組織進行協調。
+
+---
+
+### 2026-06-24 05:08:34  #MKT News
+
+【Morgan Stanley private credit fund sets redemption cap at 5%】Morgan Stanley’s North Haven Private Income Fund, a $7bn private credit vehicle, has set a 5% redemption cap and said it will pay out less than half of investors’ Q2 redemption requests. The fund said investors applied to redeem 11.6% of shares in Q2, up from 10.9% in Q1. It noted that across the roughly $1.8trn private credit market many funds had already restricted full exits in the prior quarter, and that over half of Q2 repurchase requests came from investors who had been unable to redeem fully in the previous three months.
+
+---
+
+### 2026-06-24 05:03:42  #其他
+
+【德國全境鐵路暫停運營】據德國媒體《每日鏡報》報道，德國23日晚出現大規模列車無線通訊系統故障，導致全境鐵路暫停運營。（新華社）
+
+---
+
+### 2026-06-24 05:03:40  #MKT News
+
+【Nationwide rail services suspended in Germany after large-scale train radio failure】German outlet Daily Mirror reported that on the evening of the 23rd a large-scale failure of the train radio communications system forced suspension of rail services nationwide.
+
+---
+
+### 2026-06-24 05:02:24  #MKT News
+
+SEC filing: SpaceX (SPCX.O) plans a multi-tranche bond offering totaling $25.0bn — $7.0bn 5.35% senior notes due 2031, $6.0bn 5.65% due 2033, $6.0bn 5.875% due 2036, $2.5bn 6.6% due 2046 and $3.5bn 6.65% due 2056.
+
+---
+
+### 2026-06-24 04:58:29  #市場
+
+週二（6月23日）紐約尾盤，現貨黃金跌1.89%，報4111.48美元/盎司，北京時間09:00微幅上揚至4198.46美元重新整理日高，隨後持續走低，12:00以來持續交投於4120美元附近、16:07重新整理日低至4091.05美元。COMEX黃金期貨跌1.92%，報4129.10美元/盎司。現貨白銀跌5.50%，報61.5025美元/盎司，06:00微幅高開至65.7325美元重新整理日高，隨後持續走低。COMEX白銀期貨跌6.15%，報62.005美元/盎司。COMEX銅期貨跌3.64%，報6.1950美元/磅。現貨鉑金跌1.85%，現貨鈀金跌2.90%。
+
+---
+
+### 2026-06-24 04:57:54  #MKT News #SPCX.O
+
+SEC filing: SpaceX (SPCX.O) will use bond proceeds to repay transition loans and for general corporate purposes; issuance expected to complete on June 26, 2026.
+
+---
+
+### 2026-06-24 04:57:26  #MKT News
+
+SEC filing: SpaceX (SPCX.O) priced a $25 billion inaugural bond offering, selling senior notes in five tranches maturing 2031–2056.
+
+---
+
+### 2026-06-24 04:54:30  #MKT News #Market Regions #Wall Street (US) #FDX.N #Impact bearish
+
+FedEx (FDX.N) U.S. shares extended overnight losses in after-hours trading, down about 6%.
+
+---
+
+### 2026-06-24 04:51:50  #Trading Economics #Economy #Argentina #GDP Annual Growth Rate #Importance 0
+
+Argentina GDP Expands More Than Expected — Argentina’s economy grew 2.3% year-on-year in the first quarter of 2026, above forecasts of 1.7% and accelerating from a 2.1% increase in the previous quarter. The strongest sector gains came from fishing (27.5%), agriculture, livestock, hunting and forestry (18.1%), and mining and quarrying (12.3%). Other notable expansions were recorded in financial intermediation (7.5%), private households with domestic service (6.3%), and hotels and restaurants (2.8%), with the latter mainly supported by informal employment. In contrast, manufacturing contracted 1.7% and public administration declined 1.4%, marking the weakest performances. On the demand side, exports rose 9.8%, leading growth, while private consumption increased 2.7%, supported by stronger imports of final consumer goods and automobiles. On a quarter-on-quarter basis, the economy expanded 0.7%.
 
 ---
 
@@ -19357,155 +19549,5 @@ Iranian media reported that Parliament Speaker Ghalibaf, Foreign Minister Araghc
 ### 2026-06-23 05:48:47  #Trading Economics #Economy #South Korea #Consumer Confidence #Importance 1
 
 South Korea Consumer Sentiment Improves in June — South Korea’s Composite Consumer Sentiment Index rose by 0.5 point to 95.5 in June 2026 compared with the previous month. Consumer sentiment regarding current domestic economic conditions increased three points to 86, while expectations for future economic conditions slipped one point to 92. Sentiment on current living standards rose one point to 94, while the outlook for future living standards remained unchanged at 97. Expectations for future household income and spending were also unchanged at 100 and 110, respectively. Meanwhile, the expected inflation rate for the next year stood at 2.8%, while three-year and five-year inflation expectations were 2.7% and 2.6%, respectively.
-
----
-
-### 2026-06-23 05:42:45  #Trading Economics #Economy #Argentina #Unemployment Rate #Importance 0
-
-Argentina Unemployment Rises in Q1 2026 — Argentina’s unemployment rate rose to 7.8% in the first quarter of 2026, up from 7.5% in the previous quarter. The number of unemployed reached 1.1 million people. By region, unemployment was highest in Greater Buenos Aires at 8.7%, followed by the Pampas region at 8.2%. The jobless rate stood at 8.3% for women and 7.5% for men. Among the unemployed, 28.2% were the main income providers in their households. By education level, 36% had completed secondary education, while 10.8% had tertiary or university studies. Regarding job-search duration, 31.8% had been looking for work for more than a year, while 78.7% had previous work experience. By sector, 16.8% had last worked in construction and 16.6% in commerce. Meanwhile, the employment rate edged down to 44.8% from 45%, while labor force participation remained stable at 48.6%.
-
----
-
-### 2026-06-23 05:35:11  #公司
-
-據傳舒適剃鬚刀母公司已拒絕非邀約收購提案。
-
----
-
-### 2026-06-23 05:32:58  #市場
-
-彭博股指：SpaceX將於2026年6月24日收盤時被納入彭博全球股指的大盤股板塊。
-
----
-
-### 2026-06-23 05:32:46  #MKT News
-
-Bloomberg Indices says SpaceX will be added to the large-cap segment of the Bloomberg Global Index at the close of trading on June 24, 2026.
-
----
-
-### 2026-06-23 05:32:02  #其他
-
-Bending Spoons 投資方擬透過 IPO 募資至多 16.2 億美元。
-
----
-
-### 2026-06-23 05:29:33  #公司 #市場 #觀點 #國際
-
-【百度ADR盤後上漲，花旗對其開啟30天的看漲催化觀察】百度在美國上市的ADR盤後交易上漲1.5%，此前花旗對這家網際網路搜尋引擎巨頭開啟30天的看漲催化觀察。分析師Alicia Yap寫道，百度“晶片和雲業務的內在實力可能成為推動股價上漲的催化因素。”“雖然難以判斷整體市場情緒何時會發生轉變，但我們相信，一旦百度晶片業務分拆時間表及市場興趣變得明朗，仍存在釋放價值的機會。”花旗給予百度“買入”評級。該公司股價今年以來下跌逾14%。
-
----
-
-### 2026-06-23 05:26:57  #國際
-
-市場訊息： 烏克蘭與日本將設立規模達數千萬美元的聯合基金， 相關細節將於週四在波蘭舉辦的烏克蘭重建大會上公佈。
-
----
-
-### 2026-06-23 05:25:38  #國際
-
-市場訊息：烏克蘭與日本計劃依託日立、東芝設立重建基金。
-
----
-
-### 2026-06-23 05:19:49  #Trading Economics #Markets #Colombia #Stock Market #Importance 1
-
-COLCAP Drops After Tight Election Result — The MSCI COLCAP index fell 4.4% to close at 2,393 on June 22, reversing part of its recent rally after one of the tightest presidential elections in Colombian history. Optimism following the victory of Abelardo de la Espriella faded as investors assessed the narrow margin of victory and the challenges it may pose for implementing market-friendly reforms. The right-wing outsider secured the presidency with a lead of roughly one percentage point over leftist Senator Iván Cepeda, disappointing investors who had hoped for a stronger mandate. De la Espriella has pledged to reduce Colombia’s widening budget deficit while supporting coal mining and oil drilling to strengthen fiscal revenues. Financial and energy stocks led losses, with Cibest down 5.3% and Ecopetrol plunging 8.5%.
-
----
-
-### 2026-06-23 05:15:44  #市場
-
-富時A50期指連續夜盤收跌0.01%，報16003點。
-
----
-
-### 2026-06-23 05:11:39  #市場
-
-週一（6月22日）紐約尾盤（週二北京時間04:59），離岸人民幣（CNH）兌美元報6.7781元，較上週五紐約尾盤漲57點，日內整體交投於6.7863-6.7730元區間。
-
----
-
-### 2026-06-23 05:10:49  #國際
-
-阿曼外交大臣：阿曼與伊朗談判代表共同重申恪守國際法，承諾保障霍爾木茲海峽航道安全、通行免收通行費。
-
----
-
-### 2026-06-23 05:10:43  #MKT News #Macro & Rates #The Fed (FOMC) #S&P500 #Impact bullish #DXY #Impact bearish #US10Y #Impact mixed
-
-Federal Reserve's Goolsbee said Fed Chair Warsh's approach to reduce speculation about interest rates and pare back forward guidance is one he largely supports.
-
----
-
-### 2026-06-23 05:10:12  #MKT News
-
-Oman's foreign minister said the country reiterated its commitment to international law and to safe, fee-free passage.
-
----
-
-### 2026-06-23 05:09:38  #公司 #國際
-
-【美國FAA選用Air Space Intelligence打造AI空管工具】Air Space Intelligence公司贏得美國政府合同，將提供用於管理航班交通的人工智慧技術。該公司為美國聯邦航空局（FAA）開發了兩款AI工具：一款用於規劃飛行軌跡，另一款用於識別擁堵區域併為空中交通管制員提供解決方案。美國政府表示，新系統將減少航班延誤、改善交通流量並增加空域容量，預計整個過渡工作將於2028年底前完成。
-
----
-
-### 2026-06-23 05:09:30  #MKT News
-
-Oman’s foreign minister said he hosted Iranian parliamentary speaker Ghalibaf and foreign minister Araghchi in Muscat tonight; they held constructive talks on the recent Iran‑US memorandum of understanding, with particular focus on the Strait of Hormuz.
-
----
-
-### 2026-06-23 05:09:29  #央行 #國際
-
-美聯儲古爾斯比：在我看來，需要判斷本輪通脹是否具備持續性。 沃什的思路是減少市場對利率的猜測、弱化前瞻指引；我相當認同這一思路。
-
----
-
-### 2026-06-23 05:08:41  #MKT News
-
-Fed's GOOLSBEE said he needs to assess whether the current inf will be persistent.
-
----
-
-### 2026-06-23 05:07:58  #央行 #國際
-
-美聯儲古爾斯比：服務業通脹形勢略顯令人擔憂。
-
----
-
-### 2026-06-23 05:07:35  #MKT News #Macro & Rates #The Fed (FOMC) #DXY #Impact bullish #US10Y #S&P500 #Impact bearish
-
-Fed's GOOLSBEE said more evidence is needed to show the current bout of inf is temporary; services‑sector inf is mildly concerning.
-
----
-
-### 2026-06-23 05:07:17  #MKT News #Macro & Rates #The Fed (FOMC) #US Economy #S&P500 #Impact bullish #DXY #USDJPY
-
-Fed's Goolsbee said the US has not yet experienced a stagflation shock and the labor market has remained stable.
-
----
-
-### 2026-06-23 05:06:57  #MKT News
-
-Romania's prime minister-designate failed to win parliamentary approval for the proposed cabinet.
-
----
-
-### 2026-06-23 05:06:45  #其他
-
-【羅馬尼亞候任總理提交的內閣名單未獲議會透過】當地時間6月22日晚，羅馬尼亞參眾兩院聯席會議對候任總理阿德里安·韋什泰亞此前向議會提交的內閣成員名單和施政綱領進行投票。議會以189票贊成、23票反對否決了阿德里安·韋什泰亞的內閣成員名單。據悉，根據相關程式，羅馬尼亞總統達恩需再次提名新的總理人選。（央視新聞）
-
----
-
-### 2026-06-23 05:06:42  #MKT News #DXY #Impact bullish #US10Y #Impact bearish #S&P500
-
-GOOLSBEE said markets remain stable; inf is well above target and the trend is unfavorable.
-
----
-
-### 2026-06-23 05:06:36  #Trading Economics #Markets #Brazil #Stock Market #Importance 1
-
-Ibovespa Gains on US-Iran Peace Progress — The Ibovespa rose 1.2% to close at 170,370 on Monday as progress in peace talks between the US and Iran boosted market sentiment. US Vice President JD Vance and Iran’s Foreign Minister took part in negotiations in Switzerland, with mediators from Qatar and Pakistan reporting encouraging progress, including the establishment of a framework for future technical talks. Both sides agreed on a roadmap to reach a final agreement within 60 days. Oil prices declined, pushing bond yields lower and easing concerns over energy-driven inflation. Major banks led gains, with Itaú up 2.7% and Bradesco rising 1.8%. Utilities also advanced, with Axia up 2% and Sabesp gaining 3.5%. Petrobras rose 0.9% despite lower oil prices, supported by the payment of its latest interest on equity installment and the signing of a memorandum of understanding with Pemex. Retailers also contributed to gains, with Azzas surging 10.3% after presenting alternatives for Farm.
 
 ---
