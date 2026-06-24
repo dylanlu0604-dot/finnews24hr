@@ -1,7 +1,15 @@
 {
-  "updated": "2026-06-25 05:22:45",
-  "count": 17062,
+  "updated": "2026-06-25 05:26:37",
+  "count": 17057,
   "items": [
+    {
+      "id": "4953540",
+      "time": "2026-06-25 05:25:31",
+      "tags": [
+        "國際"
+      ],
+      "text": "北約秘書長呂特：與特朗普的會談十分順利。"
+    },
     {
       "id": "mkt:019efb81-9cc6-7dd8-b105-c8d8206c34a6",
       "time": "2026-06-25 05:20:35",
@@ -155876,64 +155884,6 @@
         "國際"
       ],
       "text": "伊朗議會議長卡利巴夫：談判結束、諒解備忘錄簽署完成後，政府的工作重心將轉向服務民眾、解決國內民生需求。"
-    },
-    {
-      "id": "4941865",
-      "time": "2026-06-18 05:25:50",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國多名高階官員出面澄清美伊諒解備忘錄的核心條款，駁斥了相關報道中所稱伊朗簽署協議後就能動用被凍結資產、獲得制裁豁免或數百億美元重建配套資金的說法。"
-    },
-    {
-      "id": "4941864",
-      "time": "2026-06-18 05:24:50",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗外交部發言人：伊朗和美國總統可能已簽署諒解備忘錄文字。"
-    },
-    {
-      "id": "mkt:019ed778-5f05-7dd8-b064-75cbea531a63",
-      "time": "2026-06-18 05:24:10",
-      "tags": [
-        "MKT News",
-        "S&P500",
-        "Impact bullish",
-        "DXY",
-        "Impact bearish",
-        "WTI"
-      ],
-      "text": "Axios, citing two U.S. officials, reported the U.S. and Iran signed a memorandum of understanding on Wednesday to end the war; the agreement is now in effect."
-    },
-    {
-      "id": "4941863",
-      "time": "2026-06-18 05:24:02",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國和伊朗今天以電子方式簽署了諒解備忘錄。"
-    },
-    {
-      "id": "4941862",
-      "time": "2026-06-18 05:23:47",
-      "tags": [
-        "其他",
-        "焦點"
-      ],
-      "text": "美伊諒解備忘錄已完成雙方簽署，即刻生效。"
-    },
-    {
-      "id": "mkt:019ed777-eaea-7dd8-b064-6e81fa4f92f1",
-      "time": "2026-06-18 05:23:40",
-      "tags": [
-        "MKT News",
-        "Important",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "Iranian state broadcaster Press TV quoted an Iranian foreign ministry spokesman saying a memorandum of understanding between Iran and the United States has been finalized and signed by both parties."
     }
   ]
 }
