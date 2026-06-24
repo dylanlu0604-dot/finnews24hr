@@ -1,7 +1,128 @@
 {
-  "updated": "2026-06-24 13:32:32",
-  "count": 17372,
+  "updated": "2026-06-24 13:36:45",
+  "count": 17371,
   "items": [
+    {
+      "id": "mkt:019ef820-e067-7dd8-b0ed-05c20da97064",
+      "time": "2026-06-24 13:36:04",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Taiwan Weighted Index (TAIEX) closed June 24 (Wednesday) down 1,057.05 points (-2.24%) at 46,043.6."
+    },
+    {
+      "id": "mkt:019ef820-c847-7dd8-b0ec-fd5c9065ec33",
+      "time": "2026-06-24 13:35:58",
+      "tags": [
+        "MKT News",
+        "2269.HK",
+        "Impact bullish"
+      ],
+      "text": "【WuXi Biologics completes first GMP run at 25th drug-substance plant】WuXi Biologics said its MFG17 biologics drug-substance plant at the Shanghai Fengxian campus completed its first GMP production. MFG17 is the company’s 25th global drug-substance facility and will provide scaled clinical and commercial supply for multiple biologics. The plant is equipped with multiple single-use bioreactors (SUBs), has 9,000‑liter capacity and is designed for about 80–100 drug-substance batches a year."
+    },
+    {
+      "id": "mkt:019ef820-74ad-7dd8-b0ec-f278fdaadfda",
+      "time": "2026-06-24 13:35:36",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "Market sources: Iran's oil minister has traveled to India to attend the BRICS energy ministers' meeting."
+    },
+    {
+      "id": "4951822",
+      "time": "2026-06-24 13:35:31",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "滬深兩市成交額超2.5萬億元，較上日此時縮量1233億元。"
+    },
+    {
+      "id": "4951821",
+      "time": "2026-06-24 13:35:11",
+      "tags": [
+        "其他"
+      ],
+      "text": "臺灣證交所加權股價指數收低2.2%報46,043.60。"
+    },
+    {
+      "id": "4951820",
+      "time": "2026-06-24 13:34:33",
+      "tags": [
+        "市場"
+      ],
+      "text": "港股騰訊控股快速拉昇漲超4.5%，報434港元。"
+    },
+    {
+      "id": "mkt:019ef81f-28e7-7dd8-b0ec-ef1ed616cd5b",
+      "time": "2026-06-24 13:34:12",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【GCL Group to start dynamic operational testing of perovskite cells; says efficiency rivals triple‑junction GaAs】GCL Group said on its official Weibo its perovskite solar cells will undergo dynamic operational testing at the upcoming Wuxi commercial aerospace industry conference. The company claims efficiencies comparable with triple‑junction gallium arsenide (GaAs) and says the work could provide a viable path for space power applications, addressing aerospace energy challenges."
+    },
+    {
+      "id": "mkt:019ef81e-e110-7dd8-b0ec-e6567254fdb4",
+      "time": "2026-06-24 13:33:53",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "005930.KS",
+        "Impact bearish",
+        "000660.KS"
+      ],
+      "text": "【Analyst: Leveraged ETFs forced to sell $6bn of Korean chip stocks Tuesday, amplifying losses】Analysts say single-stock leveraged ETFs tracking Samsung Electronics and SK Hynix were forced on Tuesday to sell about $6bn of shares to restore target leverage, with those sales amounting to roughly 14% of each stock’s daily turnover. Both names tumbled about 13%, driving the KOSPI to its largest one-day drop since the Iran war outbreak; the two firms together account for more than 55% of the index’s weight. Bloomberg ETF analyst Rebecca Sin said: \"Yesterday's decline was not a market rebound. The selling pressure stemmed from mechanical rebalancing by these products to reset their daily 2x weights, which amplified falls in stocks that already make up half the index.\""
+    },
+    {
+      "id": "mkt:019ef81e-d912-7dd8-b0ec-dfa4313d5a6a",
+      "time": "2026-06-24 13:33:51",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish"
+      ],
+      "text": "A-share copper cable and high-speed connector names continued to rebound; Hangjin Technology hit the daily limit, Zhongfu Circuit rose over 11%, Shenglan Co. climbed over 10%, Yihua Co. gained over 8% and Yidong Electronics gained over 7%."
+    },
+    {
+      "id": "4951819",
+      "time": "2026-06-24 13:33:12",
+      "tags": [
+        "公司"
+      ],
+      "text": "【協鑫集團：即將開展鈣鈦礦電池動態服役實驗 破解空天能源難題】協鑫集團今日官微訊息，無錫商業航天產業大會即將舉行，即將開展鈣鈦礦電池動態服役實驗，效率比肩三結砷化鎵，為空間能源場景提供可行路徑，破解空天能源難題。"
+    },
+    {
+      "id": "4951818",
+      "time": "2026-06-24 13:32:57",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗石油部長帕克內賈德赴印度出席金磚國家能源部長會議。"
+    },
+    {
+      "id": "4951817",
+      "time": "2026-06-24 13:32:45",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【算力晶片概念持續走強 航錦科技等多股漲停】午後算力晶片概念持續走強，航錦科技封漲停，此前萬通發展、盛視科技漲停，中科藍訊、中國長城、艾布魯、芯原股份、雲天勵飛漲幅靠前。"
+    },
+    {
+      "id": "4951816",
+      "time": "2026-06-24 13:32:38",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【港股科網股午後走強 騰訊控股漲3%】截至發稿，騰訊控股(00700.HK)漲超3%，百度集團-SW(09888.HK)漲2%，阿里巴巴-W(09988.HK)漲1%。訊息面上，微信AI助手“小微”近日已啟動灰度測試。"
+    },
     {
       "id": "4951815",
       "time": "2026-06-24 13:30:47",
@@ -158941,139 +159062,6 @@
         "市場"
       ],
       "text": "寶馬股價在Tradegate平臺上下跌6.9%。"
-    },
-    {
-      "id": "mkt:019ed414-d43f-7dd8-b043-07c3def0fb3e",
-      "time": "2026-06-17 13:36:35",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "G7: Freedom of navigation without restrictions or charges is a cornerstone of international trade."
-    },
-    {
-      "id": "mkt:019ed414-cd12-7dd8-b042-fd2e5a107433",
-      "time": "2026-06-17 13:36:33",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "Taiwan Stock Exchange Weighted Index (TAIEX) closed up 68.2 points, or 0.15%, at 45,877.39 on Wednesday, June 17."
-    },
-    {
-      "id": "mkt:019ed414-9523-7dd8-b042-f4312d63bcdc",
-      "time": "2026-06-17 13:36:19",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "CNH",
-        "Impact bullish"
-      ],
-      "text": "【PBOC governor Pan to narrow temporary overnight repo band, expand overnight reverse repos】At the Lujiazui Forum on June 17, PBOC governor Pan Gongsheng said the central bank will narrow the temporary overnight repo rate corridor from 70bps to a symmetric 50bps and will add overnight reverse-repo instruments as needed. Pan said the PBOC will move the timing of temporary repo operations earlier and disclosed trigger conditions: DR001 persistently below or above the corresponding temporary repo operation rate would activate the tool to better anchor market expectations. The measures are presented as accelerating the shift to a price-based monetary framework to strengthen transmission from policy rates to market rates. DR001 has traded about ±20bps around policy rates this year; the PBOC said specific overnight reverse-repo operational details will be set by market demand and implemented progressively."
-    },
-    {
-      "id": "4940030",
-      "time": "2026-06-17 13:36:09",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "【專家解讀兩大舉措完善短端利率調控機制】中國人民銀行行長潘功勝6月17日在2026陸家嘴論壇上提出，完善短端利率調控機制的兩項舉措，一是將臨時隔夜正/逆回購的操作利率區間由此前的70bp收窄為對稱的50bp；二是將適時增加公開市場隔夜逆回購操作品種。專家表示，這是持續推動貨幣政策框架向價格型轉型，使政策利率向市場利率傳導不斷增強的重要舉措。今年以來，隔夜利率DR001基本在政策利率上下20bp的區間執行，央行順勢收窄臨時回購利率區間，也體現了穩中求進的總體原則。上述專家表示，央行此次還將臨時回購的操作時間適當提前，並披露了工具的觸發條件，即DR001持續低於或高於臨時回購相應操作利率，能更好穩定市場預期。專家表示，此次央行宣佈將適時增加隔夜逆回購品種，既是順應市場需求，也有利於增強短端利率調控的精準性和有效性。隔夜逆回購的具體操作安排將結合市場需求確定，也體現了循序漸進的改革思路。（中證金牛座）"
-    },
-    {
-      "id": "4940029",
-      "time": "2026-06-17 13:35:56",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "七國集團領導人歡迎美國與伊朗達成協議。"
-    },
-    {
-      "id": "4940028",
-      "time": "2026-06-17 13:35:09",
-      "tags": [
-        "其他"
-      ],
-      "text": "臺灣證交所加權股價指數收高0.1%報45,877.39。"
-    },
-    {
-      "id": "mkt:019ed413-6447-7dd8-b042-ebaaef159675",
-      "time": "2026-06-17 13:35:01",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "DXY"
-      ],
-      "text": "G7 says now is the appropriate time to take further measures against Russia."
-    },
-    {
-      "id": "4940027",
-      "time": "2026-06-17 13:34:56",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "七國集團領導人：此刻正是對俄羅斯推出額外措施的適當時機。"
-    },
-    {
-      "id": "4940026",
-      "time": "2026-06-17 13:34:35",
-      "tags": [
-        "國際"
-      ],
-      "text": "伯恩斯坦將理想汽車美國存託憑證目標價從19美元下調至15.50美元。"
-    },
-    {
-      "id": "4940025",
-      "time": "2026-06-17 13:34:19",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "韓國央行申鉉松：五月份需求端價格壓力高於此前水平。"
-    },
-    {
-      "id": "4940024",
-      "time": "2026-06-17 13:34:06",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "七國集團領導人同意向烏克蘭增加空運防空能力、額外防空系統與攔截彈以及遠端作戰能力的供應。"
-    },
-    {
-      "id": "mkt:019ed412-9023-7dd8-b042-e1f063643932",
-      "time": "2026-06-17 13:34:06",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "G7 agreed to boost Ukraine's air-defence capacity by supplying additional systems and interceptors and delivering long-range capabilities."
-    },
-    {
-      "id": "mkt:019ed412-50bf-7dd8-b042-d9dbc3239537",
-      "time": "2026-06-17 13:33:50",
-      "tags": [
-        "MKT News",
-        "Important",
-        "XAUUSD",
-        "Impact bullish",
-        "DXY",
-        "WTI"
-      ],
-      "text": "TASNIM NEWS reported Iran's Armed Forces Command issued a stern warning over Israel's breach of the Lebanon ceasefire."
-    },
-    {
-      "id": "4940023",
-      "time": "2026-06-17 13:33:13",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "韓國央行行長申鉉松：應該關注基本面，而不是每日市場波動。"
     }
   ]
 }
