@@ -1,7 +1,59 @@
 {
-  "updated": "2026-06-24 12:17:48",
-  "count": 17348,
+  "updated": "2026-06-24 12:21:51",
+  "count": 17346,
   "items": [
+    {
+      "id": "mkt:019ef7da-c786-7dd8-b0eb-6ae642f980bf",
+      "time": "2026-06-24 12:19:30",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Reserve Bank of India governor said measures to attract dollar inflows have seen a positive initial response and that sizable capital inflows are expected."
+    },
+    {
+      "id": "4951726",
+      "time": "2026-06-24 12:19:20",
+      "tags": [
+        "其他"
+      ],
+      "text": "【1點點就部分門店食材效期管理混亂、環境髒亂等問題致歉：涉事門店立即停業】1點點alittleTea官方微博6月24日釋出《關於近日媒體報道我司門店食品安全問題的致歉與整改宣告》：涉事門店（溫嶺澤國店）立即停業，啟動解約程式，絕不姑息。立即召開涉事區域會議，向全體夥伴重申食品安全是不可觸碰的紅線與底線，直面問題，嚴肅處理，加強稽核。立即展開全國門店稽核檢查。"
+    },
+    {
+      "id": "4951725",
+      "time": "2026-06-24 12:18:40",
+      "tags": [
+        "公司"
+      ],
+      "text": "據英國金融時報報道，英國電信的養老基金在泰晤士水務公司上損失了3億英鎊。"
+    },
+    {
+      "id": "4951724",
+      "time": "2026-06-24 12:18:12",
+      "tags": [
+        "公司"
+      ],
+      "text": "【阿里雲：QoderWork推出“峰谷Token”，錯峰使用Qwen3.7低至2折】阿里雲公告，剛剛，QoderWork推出“峰谷Token”，其在每晚22:00到次日08:00執行可自動享受優惠，其中Qwen3.7-Max模型低至2折。夜間折扣覆蓋QoderWork、QoderDesktop、CLI等產品。使用者可在白天設好定時任務，或者睡前提交長程任務指令，由Agent在夜間自主執行完整流程，早上起來驗收即可，積分消耗僅為白天的20%-40%。"
+    },
+    {
+      "id": "mkt:019ef7d9-8cd2-7dd8-b0eb-64634f7561d0",
+      "time": "2026-06-24 12:18:10",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "【Qatar says US-Iran hotline vital to reopening Strait of Hormuz】Qatari PM Sheikh Mohammed said a US-Iran hotline set up during talks in Switzerland is essential to prevent “spoilers” from blocking a reopening of the Strait of Hormuz by countering misinformation and coordinating communications during sea-mine clearance. He warned actors have been sending spoofed shipping messages threatening vessels with claims such as being from the Islamic Revolutionary Guard Corps, and said the hotline will let ships verify threats with Iranian authorities to transit safely. Qatar has begun preparing tankers and expects to restore normal LNG production within weeks after the parties signed a memorandum of understanding last week."
+    },
+    {
+      "id": "4951723",
+      "time": "2026-06-24 12:17:43",
+      "tags": [
+        "公司"
+      ],
+      "text": "【輝瑞製藥無錫公司變更負責人】天眼查App顯示，近日，輝瑞製藥（無錫）有限公司發生工商變更，Jean-Christophe，Michel Pointeau 卸任法定代表人、執行董事、經理，由蔡芳接任法定代表人、經理，並擔任董事。該公司成立於1995年9月，註冊資本3600萬美元，經營範圍包括生產凍乾粉針劑、小容量注射劑、藥品生產等，由輝瑞投資有限公司全資持股。"
+    },
     {
       "id": "4951722",
       "time": "2026-06-24 12:15:08",
@@ -158772,81 +158824,6 @@
         "其他"
       ],
       "text": "【我國成功發射衛星網際網路低軌22組衛星】北京時間2026年6月17日10時44分，我國在海南商業航天發射場使用長征十二號運載火箭，成功將衛星網際網路低軌22組衛星發射升空，衛星順利進入預定軌道，發射任務獲得圓滿成功。"
-    },
-    {
-      "id": "mkt:019ed3d0-411c-7dd8-b041-bd197ca91ddd",
-      "time": "2026-06-17 12:21:41",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC",
-        "USDJPY",
-        "Impact bullish"
-      ],
-      "text": "【Institution: BOJ successfully maintained market stability but yen remains in weak range】The BOJ’s policy decision kept financial markets relatively calm, but the yen remains near historic lows. On Tuesday USD/JPY’s intraday range was just 0.43 yen, the smallest on a BOJ meeting final day since Jan 2021. Wednesday morning USD/JPY was still above 160, close to the level that triggered late-April MOF intervention to support the yen. Investors are watching for further intervention after Finance Minister KATAYAMA said her team stands ready to act if needed. A Mitsubishi UFJ strategist said: \"Given continued verbal intervention from MOF officials, many investors remain wary of actual intervention risk. Therefore we continue to expect USD/JPY to trade within a range.\""
-    },
-    {
-      "id": "4939949",
-      "time": "2026-06-17 12:21:23",
-      "tags": [
-        "其他"
-      ],
-      "text": "【證監會推出主動ETF，有關方面：將先行落地試點產品 堅持分階段、有步驟、穩健漸進的發展思路】證監會主席吳清在2026陸家嘴論壇上表示，推出主動管理ETF是公募基金行業的又一重大創新，有助於打造被動與主動協同發展、覆蓋多元資產的完整ETF生態，驅動公募行業高質量發展。記者從有關方面瞭解到，後續將堅持分階段、有步驟、穩健漸進的發展思路，先行落地試點產品，同步完善配套制度體系與生態建設。待首批試點平穩執行後，逐步擴容產品供給，持續豐富財富管理工具，為資本市場引入長期增量資金，為公募行業創新發展注入持久動力。 (財聯社)"
-    },
-    {
-      "id": "4939948",
-      "time": "2026-06-17 12:21:02",
-      "tags": [
-        "其他"
-      ],
-      "text": "【快手：今年以來，配合有關部門抓獲34名劇情演繹詐騙犯罪嫌疑人】6月17日，快手發文透露，今年以來，快手安全中心協助有關部門抓獲劇情演繹詐騙犯罪嫌疑人共34名。"
-    },
-    {
-      "id": "4939947",
-      "time": "2026-06-17 12:20:57",
-      "tags": [
-        "其他"
-      ],
-      "text": "【司機打瞌睡全程95%靠智駕？哈囉道歉：已被平臺永久封禁】對於有使用者反映，哈囉順風車司機被指打瞌睡全程95%靠智駕，6月17日，哈囉回應記者稱，哈囉平臺收到相關舉報後已於第一時間介入調查。本次事件中車主行為已構成危險駕駛，觸及平臺安全紅線，已被平臺永久封禁。哈囉介紹，對乘客的不良體驗深表致歉，目前正在與乘客溝通補償事宜。哈囉將進一步加大對平臺註冊車主的安全駕駛宣講力度，明確獎懲規則，對涉及乘客安全的問題哈囉一直秉承零容忍的態度。如廣大乘客在行程中遇到安全隱患，可隨時撥打安全專線，平臺將第一時間介入。（新京報貝殼財經）"
-    },
-    {
-      "id": "4939946",
-      "time": "2026-06-17 12:19:42",
-      "tags": [
-        "其他"
-      ],
-      "text": "【摩爾執行緒率先完成智譜GLM-5.2適配】 6月17日，摩爾執行緒宣佈在AI訓推一體全功能GPU智算卡MTT S5000上，完成對智譜新一代開源旗艦模型GLM-5.2的Day-0適配。此次適配延續了摩爾執行緒在GLM-5.1長上下文Prefill與P/D異構分離推理場景中的最佳化積累，並面向GLM-5.2超長上下文與複雜推理負載，進一步釋放MTT S5000在長輸入Prefill階段的高吞吐優勢。"
-    },
-    {
-      "id": "4939945",
-      "time": "2026-06-17 12:19:02",
-      "tags": [
-        "其他"
-      ],
-      "text": "【聯合國難民署：2027年全球近240萬難民需安置 】 聯合國難民署16日釋出報告說，預計到2027年，全球將有近240萬難民亟需安置。這份《2027年全球重新安置需求預測報告》說，預測資料涵蓋兩類難民：一是無法安全返回原籍國的難民；二是在收容國人身安全得不到保障、或是難以獲得充足幫扶的難民。"
-    },
-    {
-      "id": "4939944",
-      "time": "2026-06-17 12:18:48",
-      "tags": [
-        "其他"
-      ],
-      "text": "【快手持續打擊劇情演繹黑灰產，配合有關部門抓獲34名犯罪嫌疑人】 據“快手黑板報”，近日，快手安全中心在直播治理中發現，一些不法分子虛構富豪、法師、高官等人設，以劇情演繹方式向中老年使用者高價售賣低價值商品，並承諾高價回收，誘騙中老年使用者下單購買，實施詐騙行為。對此，快手安全中心不斷升級風控策略，提升違規線索識別、研判和處置能力，嚴肅處理違規內容及賬號，針對查實詐騙線索，依法固定證據並移交有關部門處理。今年以來，快手安全中心協助有關部門抓獲劇情演繹詐騙犯罪嫌疑人共34名。"
-    },
-    {
-      "id": "mkt:019ed3cd-32d7-7dd8-b041-b67b01604d82",
-      "time": "2026-06-17 12:18:20",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "Hang Seng Index",
-        "Impact bearish",
-        "02382.HK",
-        "Impact bullish",
-        "09868.HK"
-      ],
-      "text": "【Hong Kong midday: Hang Seng down 0.37%; PCB, newly listed AI names extend three-day rally】By the midday break the Hang Seng Index was down 0.37% after plunging more than 200 points earlier and breaching the 24,400 level. The index opened near 24,495, ran to 24,560 before heavy selling pushed an intraday low of 24,272 (-221 points); losses narrowed to under 100 points before the break. The Hang Seng Tech Index was up 0.17%. Market turnover was HKD 145.51 bln. PCB names and newly listed AI stocks rose for a third session; storage, semiconductor and domestic retail stocks staged a strong rebound. Building materials & cement, electronic components and power equipment led gains. Rare earths, property management and computer hardware pulled back; internet healthcare, autos and oil & gas fell for a third straight day; aluminum and dairy were weak. Notable movers: Sunny Optical (02382.HK) +~8.5%, MINIMAX-W (00100.HK) +6%+, Kuaishou (01024.HK) ~+6%, Huahong Hongli (01347.HK) +5%; XPeng (09868.HK), Geely Auto (00175.HK) and China Resources MixC Lifestyle (01209.HK) each down >3%, CNOOC (00883.HK) and Laopu Gold (06181.HK) near -3%."
     }
   ]
 }
