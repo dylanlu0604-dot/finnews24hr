@@ -1,7 +1,235 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-06-24 23:32:25_
-_本檔包含 3546 則快訊，約 631433 字_
+_更新時間：2026-06-24 23:53:22_
+_本檔包含 3541 則快訊，約 631565 字_
+
+---
+
+### 2026-06-24 23:51:13  #國際
+
+【美國推進向土耳其出售戰機發動機相關交易】儘管美國國會表示反對，特朗普政府仍計劃推進一筆價值超7億美元的交易，向土耳其出售通用電氣（GE）戰機發動機，用於該國“可汗”（Kaan）戰鬥機。這筆交易預計將在未來數日內敲定，趕在下月於土耳其舉辦的北約峰會之前完成。此前美土雙方曾因F-35戰機專案、土耳其採購俄羅斯S-400防空系統產生矛盾，而此次舉措釋放出美土防務合作持續推進的訊號。
+
+---
+
+### 2026-06-24 23:50:19  #國際
+
+美加州州長加文·紐森：簡直離譜。特朗普拿保障性住房議題當籌碼要挾國會，逼迫國會透過他那套壓制選民的法案。他故意拖延為住房困難家庭提供救助，只為抬高已婚女性、美國黑人的投票門檻。這個人心理扭曲。
+
+---
+
+### 2026-06-24 23:49:46  #MKT News #Commodities #Energy
+
+U.S., Qatar, Nigeria and Algeria urged the EU to amend methane regulations, warning the rules may pose risks to gas supply and prices.
+
+---
+
+### 2026-06-24 23:49:13  #MKT News #Market Themes #The Trump Trade
+
+Sources say the Trump administration plans to continue selling jet engines worth several hundred million dollars to Turkey.
+
+---
+
+### 2026-06-24 23:48:52  #MKT News #Commodities #Energy #WTI #Impact bullish #Brent
+
+Iraq ordered a halt to oil production at the West Qurna-2 oilfield.
+
+---
+
+### 2026-06-24 23:48:29  #國際
+
+美國、卡達、奈及利亞和阿爾及利亞敦促歐盟修訂甲烷法規，並警告該法規會給天然氣供應和天然氣價格帶來風險。
+
+---
+
+### 2026-06-24 23:48:20  #其他
+
+波音漲超2%。
+
+---
+
+### 2026-06-24 23:47:41  #國際
+
+訊息人士稱，特朗普政府正計劃推進向土耳其出售價值數億美元噴氣發動機的交易。
+
+---
+
+### 2026-06-24 23:47:38  #國際
+
+【美軍在敘利亞打死一名“伊斯蘭國”重要頭目】美軍中央司令部24日稱，美軍於19日在敘利亞西北部發動空襲，打死一名“伊斯蘭國”重要頭目。 美軍中央司令部當天在社交媒體發表宣告說，美軍在空襲行動中打死“伊斯蘭國”重要頭目阿里·侯賽因·烏萊維。宣告稱，“這是美方持續努力的一部分，旨在打擊並消滅那些企圖襲擊海外美國人或美國本土的恐怖分子”。（新華社）
+
+---
+
+### 2026-06-24 23:46:26  #國際
+
+以色列總理內塔尼亞胡：未來十年，我們將為國防預算新增3500億謝克爾（合1172億美元）。為何如此？因為我希望以色列在武器製造領域儘可能實現自主。我要打造強大、自給自足的國防工業。我們會維繫現有同盟並進一步拓展合作，但首要前提是，我們必須擁有獨立自主的自保能力。
+
+---
+
+### 2026-06-24 23:45:47  #其他
+
+【中國氣象學家許健民獲頒國際氣象組織獎】世界氣象組織24日在日內瓦為中國工程院院士、中國氣象局衛星氣象專家許健民頒發第70屆國際氣象組織獎，表彰他為天氣預報、衛星氣象事業以及氣象業務服務作出的卓越貢獻。
+
+---
+
+### 2026-06-24 23:45:28  #國際
+
+印度民用航空安全域性（DGCA）表示，已對阿姆利則空管人員及印度航空機組人員採取臨時處分，原因是二人未上報該事件。
+
+---
+
+### 2026-06-24 23:44:55  #焦點 #國際
+
+印度民航監管機構表示，週一印度航空一架班機在接近阿姆利則時短暫進入了巴基斯坦領空。
+
+---
+
+### 2026-06-24 23:42:09  #國際
+
+【以色列襲擊黎巴嫩南部致2人死亡】據黎巴嫩國家通訊社24日報道，一輛行駛中的汽車在黎南部奈拜提耶市附近遭以色列軍隊襲擊，造成2人死亡。黎巴嫩安全部門訊息人士向新華社記者透露，以軍無人機向該汽車發射了一枚導彈，造成車內2人當場死亡。襲擊發生後，黎巴嫩軍隊和安全部隊封鎖現場，遇難者遺體被運往奈拜提耶市一家醫院。（新華社）
+
+---
+
+### 2026-06-24 23:41:31  #MKT News
+
+【Magnitude 5.5 earthquake in Northern California】The European-Mediterranean Seismological Centre (EMSC) reported a magnitude-5.5 earthquake in Northern California on June 24 (local time).
+
+---
+
+### 2026-06-24 23:41:06  #國際
+
+【美國加利福尼亞州北部地區發生5.5級地震】當地時間6月24日，據歐洲—地中海地震中心（EMSC）訊息，美國加利福尼亞州北部地區發生5.5級地震。（央視新聞）
+
+---
+
+### 2026-06-24 23:40:37  #公司
+
+阿根廷國家石油公司CEO：與比德投資集團（Bidinvest）簽署價值5億美元的瓦卡穆爾塔油氣專案投資協議。
+
+---
+
+### 2026-06-24 23:40:23  #Trading Economics #Markets #commodity #Importance 0
+
+Lead Hits 10-week Low — Lead decreased to 1922.00 USD/T, the lowest since April 2026. Over the past 4 weeks, Lead lost 4.9%, and in the last 12 months, it decreased 5.68%.
+
+---
+
+### 2026-06-24 23:39:57  #公司
+
+體育競猜應用Onyx Odds完成2000萬美元融資，本輪由加密交易所Kraken母公司Payward領投。
+
+---
+
+### 2026-06-24 23:39:20  #國際
+
+以色列總理內塔尼亞胡：只要我擔任總理，我們就會維持黎巴嫩南部的“安全區”。
+
+---
+
+### 2026-06-24 23:39:19  #MKT News #Commodities #Industrial Metals
+
+LME three-month aluminum fell to $3,110 a tonne, the lowest since Feb 25, down 3.6%.
+
+---
+
+### 2026-06-24 23:39:05  #MKT News #Market Regions #Europe & UK #DAX #Impact bearish #FTSE100 #Impact bullish
+
+Germany's DAX fell 197.03 pts (-0.79%) to 24,740.00 at the close on June 24; Britain's FTSE 100 rose 34.31 pts (0.33%) to 10,463.16; France's CAC 40 gained 44.78 pts (0.54%) to 8,385.49; Euro STOXX 50 slipped 12.10 pts (-0.19%) to 6,218.45; Spain's IBEX 35 fell 89.69 pts (-0.46%) to 19,386.81; Italy's FTSE MIB dropped 382.91 pts (-0.74%) to 51,641.50.
+
+---
+
+### 2026-06-24 23:38:46  #其他 #焦點
+
+倫敦金屬交易所（LME）三個月期鋁跌至每噸3110美元，為2月25日以來最低水平，最新跌幅為3.6%。
+
+---
+
+### 2026-06-24 23:37:37  #國際
+
+歐洲地中海地震中心：美國加利福尼亞州北部發生5.7級地震，震源深度8千米。
+
+---
+
+### 2026-06-24 23:37:34  #Trading Economics #Markets #Commodity #Importance 0
+
+Brent Crude Oil Hits Pre-War Levels — Brent Crude oil fell below $74 a barrel on Wednesday, reaching its lowest level since late February, as increasing tanker traffic through the Strait of Hormuz and progress in US-Iran peace talks eased supply fears. Shipowners are confidently transiting the chokepoint with active satellite signals following safety guarantees from the International Maritime Organization. The International Energy Agency estimates the United Arab Emirates is exporting oil at nearly 85% of pre-war levels, selling roughly 60 million barrels from the Persian Gulf recently. Consequently, oil prices have dropped about 40% from their wartime peak. This resumed global flow overshadowed US data from the Energy Information Administration showing US crude inventories plunged to their lowest since 1984, with Cushing stockpiles dipping below operational minimums.
+
+---
+
+### 2026-06-24 23:36:57  #國際
+
+以色列總理內塔尼亞胡：安全無法靠空談換取。安全源於實力與堅定的決心。遵循一條簡單的準則，我們的先祖早已深諳此理“若有人前來取你性命，當先起身將其斬殺”。
+
+---
+
+### 2026-06-24 23:35:32  #Trading Economics #Markets #Commodity #Importance 1
+
+Heating Oil Falls to Over 3-Month Low — Heating oil futures for delivery in the New York Harbor fell to below $3.15 per gallon in late June, hovering near their lowest level since early March, on evidence that oil exports from the Middle East are gradually returning. Satellite data showed that loaded tankers are crossing the Strait of Hormuz as the memorandum of understanding and improved talks between the US and Iran drove both countries to lift their blockade. On top of that, the US remained on track to lift sanction on Iran to unlock fresh sources of energy supply from Western refiners and dollar buyers. Unlike crude oil prices, heating oil futures remained above pre-Iran war levels from late February. Distilling capacity in refiners was hit the hardest from depleted feedstock inventories in Europe and Asia, exemplified by shortages of jet fuel. On top of that, denser crude oil grades from the Persian Gulf, which commonly yield more diesel, were still not at full capacity due to attacks on local refineries.
+
+---
+
+### 2026-06-24 23:35:30  #Trading Economics #Markets #Commodity #Importance 2
+
+Crude Oil Falls Below $70 — Crude oil fell below $70 a barrel on Wednesday, reaching its lowest level since late February, as increasing tanker traffic through the Strait of Hormuz and progress in US-Iran peace talks eased supply fears. Shipowners are confidently transiting the chokepoint with active satellite signals following safety guarantees from the International Maritime Organization. The International Energy Agency estimates the United Arab Emirates is exporting oil at nearly 85% of pre-war levels, selling roughly 60 million barrels from the Persian Gulf recently. Consequently, oil prices have dropped about 40% from their wartime peak. This resumed global flow overshadowed US data from the Energy Information Administration showing US crude inventories plunged to their lowest since 1984, with Cushing stockpiles dipping below operational minimums.
+
+---
+
+### 2026-06-24 23:35:19  #MKT News #Important #WTI #Impact bearish
+
+【China's foreign minister held phone call with Pakistan deputy prime minister and foreign minister Durr】China's foreign minister Wang Yi spoke by phone with Pakistan's deputy prime minister and foreign minister Durr on the evening of the 24th; Durr said Iran and the United States have entered a new phase of negotiations. Wang said China will work with parties to support the talks and set three priorities: consolidate a comprehensive ceasefire and prevent fighting from restarting; restore normal navigation through the Strait of Hormuz as soon as possible to protect global supply chains, with arrangements that respect littoral sovereignty and international practice; and support Middle Eastern states in improving ties and exploring a new regional security architecture to reduce major‑power rivalry and strengthen regional strategic autonomy.
+
+---
+
+### 2026-06-24 23:34:39  #市場 #焦點 #國際
+
+【歐洲主要股指收盤漲跌不一】歐洲斯托克600指數上漲0.05%，歐元斯托克指數下跌0.27%，歐元區藍籌股指數下跌0.26%。法國CAC 40指數上漲0.55%，西班牙IBEX指數下跌0.44%，英國富時100指數上漲0.25%，德國DAX指數下跌0.71%。
+
+---
+
+### 2026-06-24 23:33:23  #MKT News #Macro & Rates #Treasury Yields #DXY #Impact bearish #S&P500 #Impact bullish
+
+U.S. 4-month Treasury bill auction as of June 24: percentage allocated at the stop-out rate 11.15%, prior 11.86%.
+
+---
+
+### 2026-06-24 23:33:07  #國際
+
+美國拍賣17週期國庫券，中標最高利率為3.770%，最高價位配售量佔投標總量的11.15%。
+
+---
+
+### 2026-06-24 23:33:01  #MKT News #Macro & Rates #Treasury Yields #US10Y #Impact bullish #DXY
+
+US 4-month Treasury auction on June 24: bid-cover ratio 2.55, prior 2.87.
+
+---
+
+### 2026-06-24 23:32:55  #MKT News #Macro & Rates #Treasury Yields #DXY #Impact bullish #S&P500 #Impact bearish
+
+US 4-month Treasury auction on June 24: stop-out yield 3.77%, up 10 bps from 3.67% previously.
+
+---
+
+### 2026-06-24 23:32:51  #MKT News #Economic Calendar
+
+United States | 4-Month Bill Auction Bid/Cover Ratio (Jun.24) | actual 2.55 | previous 2.87
+
+---
+
+### 2026-06-24 23:32:46  #國際
+
+【烏軍打擊俄羅斯天然氣精煉廠和氦氣廠】烏克蘭武裝部隊總參謀部24日在社交媒體上發文稱，當天凌晨，烏國防軍對俄羅斯奧倫堡州一座天然氣精煉廠和一座氦氣廠實施打擊。烏武裝部隊總參謀部表示，此次行動地點距烏方前線超過1200公里，兩座工廠已起火，受損情況正在核實中。此外，烏軍還打擊了俄羅斯別爾哥羅德州一處無人機倉庫。（新華社）
+
+---
+
+### 2026-06-24 23:32:42  #MKT News #Economic Calendar
+
+United States | 4-Month Bill Auction High Yield Rate (Jun.24) | actual 3.77% | previous 3.67%
+
+---
+
+### 2026-06-24 23:32:26  #國際
+
+美國1年10個月遠期利率協議貼現利差為0.079%。
 
 ---
 
@@ -21132,263 +21360,5 @@ NVIDIA (NVDA.O) market cap fell below $5 trillion; shares down 2.6%.
 ### 2026-06-23 22:22:45  #宏觀 #焦點 #國際
 
 【以色列與黎巴嫩新一輪會談在美國啟動】央視記者當地時間6月23日獲悉，以色列駐美國大使館表示，以色列與黎巴嫩之間新一輪的會談已在華盛頓特區啟動。大使館方面稱：“會談將同時在外交和軍事兩個層面展開。”美國國務院一名官員此前表示，會談將首先舉行“軍事與政治聯合會議”，隨後進行軍事層面的會議，最後以政治層面的會議結束。此次會談預計將持續至25日。（央視新聞）
-
----
-
-### 2026-06-23 22:22:16  #市場 #焦點
-
-英偉達市值跌破5萬億美元；盤中股價最新下跌2.6%。
-
----
-
-### 2026-06-23 22:22:13  #MKT News #Market Regions #Wall Street (US) #Dow #Impact bullish #S&P500 #Impact bearish #Nasdaq100
-
-Dow turns positive, up 0.1%; S&P 500 loss narrows to 0.7%; Nasdaq down 1.2%.
-
----
-
-### 2026-06-23 22:20:37  #宏觀 #兩會
-
-【審計工作報告：審計整改總體格局進一步鞏固完善】《國務院關於2025年度中央預算執行和其他財政收支的審計工作報告》提請全國人大常委會會議審議。報告顯示，審計整改總體格局進一步鞏固完善，至2026年4月底，針對2024年度審計查出問題已整改問題金額1.41萬億元，制定完善制度1150多項，處理處分3690多人。中央財政管理審計結果顯示，2025年，中央一般公共預算收入總量約9.73萬億元、支出總量約14.59萬億元，赤字4.86萬億元，與預算持平。（新華社）
-
----
-
-### 2026-06-23 22:20:10  #市場
-
-美股三大指數短線拉昇，道瓊斯指數漲0.07%；標普500指數跌幅縮窄至0.77%，此前一度跌超1.5%；納斯達克綜合指數跌幅縮窄至1.17%，此前一度跌超2.3%。
-
----
-
-### 2026-06-23 22:20:07  #MKT News
-
-【Baltic Dry Index down for second straight session as freight weakens】Baltic Dry Index fell for a second straight session, sliding 17 pts (0.6%) to 2,667. Capesize index (BCI) dropped 28 pts (0.7%) to 4,046, its lowest since June 18; Capesize daily earnings fell $252 to $33,192. Panamax index (BPI) lost 14 pts (0.7%) to 2,045; Panamax daily earnings declined $126 to $18,406. Supramax index (BSI) slipped 10 pts (0.6%) to 1,705. Handysize index (BHSI) rose 5 pts to 941.
-
----
-
-### 2026-06-23 22:19:34  #其他
-
-【小米電視緊急致歉：地震預警系研發人員誤發】@小米電視 6月23日釋出緊急澄清致歉：2026年6月23日20:15，北京及周邊區域部分小米電視使用者收到的地震預警訊息，系我方研發人員開展功能內部測試時操作失誤，誤將內部模擬測試資料推送至線上正式環境。該內容僅為測試虛構資料，並非官方真實地震預警，當前區域不存在地震險情。我們第一時間攔截錯誤資訊，針對資訊釋出流程、測試環境機制全面整改，對造成的使用者恐慌正式致歉。
-
----
-
-### 2026-06-23 22:18:57  #市場 #兩會
-
-【2025年度審計工作報告發布 中央財政赤字與預算持平】審計署向全國人大常委會報告了2025年度中央預算執行和其他財政收支的審計情況。報告顯示，2025年中央財政赤字與預算持平。在“兩重”“兩新”政策落實及資金管理使用情況方面，報告揭示了部分超長期國債資金被擠佔挪用、“兩重”建設配套政策等“軟建設”任務落實不到位等問題；在城市地下管網審計方面，揭示了部分“兩重”建設資金被擠佔挪用、騙取套取或閒置等問題。（央視新聞）
-
----
-
-### 2026-06-23 22:18:35  #MKT News #Commodities #Energy #WTI #Impact bearish #Brent #CADUSD
-
-【Macklem welcomes temporary US‑Iran agreement; global energy prices starting to fall】BOC Governor Macklem said the temporary US‑Iran agreement to end hostilities and restore crude flow through the Strait of Hormuz is a welcome development for the global economy, and global energy prices have begun to decline, though many issues remain. Canada’s May headline inflation accelerated to its highest level since 2023, driven by higher gasoline prices. Economists say an immediate pullback in energy prices should ease headline inflation, and with core CPI appearing contained this should give the BOC further comfort.
-
----
-
-### 2026-06-23 22:18:02  #國際
-
-美國地質調查局：萬那杜伊桑格爾以南126公里處發生5.3級地震。
-
----
-
-### 2026-06-23 22:17:49  #宏觀 #國際
-
-【王毅談第十六次金磚國家安全事務高階代表會議成果】中共中央政治局委員、中央外辦主任王毅23日在金磚國家安全事務高階代表會議結束前，總結了本次會議的成果和意義。 王毅表示，這次會議形成的重要共識是，我們都支援維護多邊主義，推動熱點問題政治解決，統籌應對傳統和非傳統安全威脅。這次會議發出的共同聲音是，我們都支援金磚和全球南方要堅持獨立自主，加強團結互助，凝聚更多集體智慧，協調更強共同行動。這次會議確定的明確方向是，我們都支援進一步用好金磚安代會機制，就重大國際和地區熱點問題保持溝通和協調，不斷豐富“大金磚”合作內涵。 王毅說，明年中方將接任金磚輪值主席國。期待大家在中國再聚首，進一步深化金磚國家政治安全合作，為世界和平與安全貢獻金磚智慧與力量。（新華社）
-
----
-
-### 2026-06-23 22:17:13  #Trading Economics #Economy #United States #Richmond Fed Manufacturing Index #Importance 1
-
-US Fifth District Manufacturing Falls — The Federal Reserve's Fifth District manufacturing index decreased by 9 points from the previous month to 4 point in June 2026, down from 13 in May and below market expectations. The result reflected an unchanged level of manufacturing activity in the district, with most key components weakening during the month. Shipments eased to 3 from 16, while new orders declined to 9 from 17, though both indicators remained positive. Meanwhile, raw materials inventories increased to 9 from 5. On the other hand, the employment index slipped into negative territory at -1, reversing from 3 in the previous month. Price pressures strengthened, with the average growth rates of prices paid rising to 6.99% from 5.96%, and prices received increasing to 4.57% from 4.21%. Looking ahead, shipments expectations improved to 38 from 35. However, expectations for new orders and employment softened, falling to 32 from 36 and to 16 from 23, respectively.
-
----
-
-### 2026-06-23 22:16:55  #MKT News #EURUSD #Impact bullish #DXY #Impact bearish
-
-ECB Vice-President VUJCIC: inf will remain elevated.
-
----
-
-### 2026-06-23 22:16:50  #公司
-
-【多家中小銀行，逆勢上調理財產品業績比較基準】據金融時報，在銀行理財市場整體收益率持續下行的背景下，有地方性中小銀行卻選擇“逆勢而動”，上調部分理財產品的業績比較基準。記者注意到，近日，多地中小銀行釋出公告，小幅上調旗下低風險固收類理財產品的業績比較基準。在業內人士看來，中小銀行逆勢上調理財業績比較基準，核心訴求在於穩定理財規模、穩固客群基本盤。
-
----
-
-### 2026-06-23 22:16:28  #央行 #國際
-
-歐洲央行副行長武伊契奇：通脹高企狀態或將持續更長時間。
-
----
-
-### 2026-06-23 22:15:39  #MKT News #Market Regions #Europe & UK
-
-ECB Vice‑President VUJCIC said inf expectations remain stable over the long term.
-
----
-
-### 2026-06-23 22:15:15  #央行 #國際
-
-歐洲央行副行長武伊契奇：長期通脹預期仍保持穩定。
-
----
-
-### 2026-06-23 22:14:31  #MKT News #Market Themes #AI Revolution #Magnificent 7 #Star Stocks #Microsoft #MSFT.O #Impact bullish
-
-【Microsoft completes first Wisconsin data center, facility fully operational】Microsoft said on Tuesday its first data center in Mount Pleasant, Wisconsin — the Fairwater campus — is complete and fully operational. Equipment went online and commissioning finished in April; construction was announced in May 2024. Nearly 10,000 construction workers participated over the past two years and the project finished ahead of schedule. The site currently has about 550 full‑time employees supporting operations; Microsoft and its contractors are actively recruiting and expect headcount to rise. Microsoft said the Fairwater campus will provide compute capacity for next‑generation AI and represents a key investment milestone in southeastern Wisconsin.
-
----
-
-### 2026-06-23 22:13:34  #公司
-
-德國商業銀行：我們確認，機構和散戶投資者僅貢獻了約1%的投標股份。
-
----
-
-### 2026-06-23 22:13:13  #國際
-
-市場訊息：美國新增數十個實體至制裁名單。
-
----
-
-### 2026-06-23 22:13:02  #宏觀 #國際
-
-美國財政部發布美英制裁製度相關操作指引。
-
----
-
-### 2026-06-23 22:12:43  #MKT News
-
-U.S. adds dozens of entities to its sanctions list.
-
----
-
-### 2026-06-23 22:12:18  #國際
-
-【伊朗代表：霍爾木茲海峽已免費開放】伊朗常駐聯合國日內瓦辦事處代表阿里·巴赫雷尼23日表示，霍爾木茲海峽已對商船完全開放，且不收取任何費用。巴赫雷尼當天就伊朗和美國談判情況回答聯合國日內瓦記者協會的提問時說，霍爾木茲海峽現已開放，為期60天，其間不會收取任何費用。此外，伊美雙方決定就此問題建立溝通機制，以監控和解決可能出現的任何問題。60天后，海峽開放的具體情況將由伊美之間的談判結果決定。伊美談判代表22日在瑞士比爾根山結束了關於落實雙方上週簽署的諒解備忘錄的首輪會談。（新華社）
-
----
-
-### 2026-06-23 22:12:01  #其他
-
-量子計算概念股普漲，Infleqtion漲逾14%，SEALSQ漲逾8%，D-Wave Quantum漲逾7%，Quantum Computing漲近5%，Rigetti Computing、IBM、IonQ Inc漲逾4% 。
-
----
-
-### 2026-06-23 22:11:30  #國際
-
-【中菲合作遣返4名涉綁架犯罪嫌疑人】中國駐菲律賓大使館23日釋出訊息，中菲兩國執法部門19日合作抓獲遣返兩名在菲從事博彩業並實施綁架犯罪的嫌疑人，於22日再次合作遣返兩名參與2023年10月薄荷島綁架案的嫌疑人，該案受害人已由中菲警方合作解救。中國駐菲使館表示，中方將繼續堅定打擊跨國犯罪，保護在菲中國公民生命財產安全。（新華社）
-
----
-
-### 2026-06-23 22:11:21  #MKT News
-
-US Treasury posted on its website a list of designated transnational criminal organizations.
-
----
-
-### 2026-06-23 22:11:00  #宏觀 #國際
-
-美國財政部網：美國對跨國犯罪組織實施制裁認定。
-
----
-
-### 2026-06-23 22:10:37  #MKT News #Important
-
-U.S. Treasury website: the United States has announced sanctions targeting Cuba.
-
----
-
-### 2026-06-23 22:10:24  #宏觀 #焦點 #國際
-
-美國財政部官網：美國發布對古巴相關制裁。
-
----
-
-### 2026-06-23 22:09:27  #國際
-
-官方資料顯示，截至6月21日，歐盟2025/26年度棕櫚油進口量為278萬噸，去年同期為295萬噸。
-
----
-
-### 2026-06-23 22:09:22  #MKT News #Star Stocks #MSFT.O #Impact bullish
-
-Microsoft (MSFT.O) expects to spend $4.7 bln in Wisconsin between 2024 and 2028.
-
----
-
-### 2026-06-23 22:09:19  #國際
-
-官方資料顯示，截至6月21日，歐盟2025/26年度豆粕進口量為1847萬噸，去年同期為1898萬噸。
-
----
-
-### 2026-06-23 22:09:10  #國際
-
-官方資料顯示，截至6月21日，歐盟2025/26年度油菜籽進口量為517萬噸，去年同期為739萬噸。
-
----
-
-### 2026-06-23 22:08:48  #國際
-
-官方資料顯示，截至6月21日，歐盟2025/26年度大豆進口量為1370萬噸，去年同期為1426萬噸。
-
----
-
-### 2026-06-23 22:08:39  #公司 #國際
-
-濱化集團股份有限公司向港交所提交上市申請書，聯席保薦人為華泰國際、建銀國際。
-
----
-
-### 2026-06-23 22:08:32  #MKT News #Important #Star Stocks #Microsoft #Market Themes #Magnificent 7 #MSFT.O #Impact bullish
-
-Microsoft (MSFT.O) said construction is complete on its first data center in Mount Pleasant, Wisconsin, US.
-
----
-
-### 2026-06-23 22:07:40  #央行 #觀點
-
-【高盛：巴西央行預計將交替進行降息和按兵不動】高盛的Alberto Ramos寫道，巴西央行可能會交替暫停降息和下調其基準Selic利率。巴西央行上週將Selic利率從14.5%下調至14.25%，並且對其下一步行動尚不明確。在面臨粘性通脹和經濟放緩風險之際，會議紀要讓人們對該央行的想法有了一些瞭解。Ramos說，間歇性降息“將導致產出波動更溫和，通脹在2028年第一季度收斂於目標水平“。他說：“總體而言，在增長與通脹的短期權衡中，Copom更傾向於保護經濟活動，而不是採取更激進的以通脹為重點的策略。”
-
----
-
-### 2026-06-23 22:07:23  #其他
-
-微軟預估2024至2028年間將在威斯康星州投入47億美元。
-
----
-
-### 2026-06-23 22:06:54  #宏觀
-
-【何立峰在河南調研時指出 加快完善產業創新體系 持續推動外貿穩規模優結構】中共中央政治局委員、國務院副總理何立峰6月21日至23日在河南調研。何立峰指出，要深入學習貫徹習近平總書記在河南考察時的重要講話精神，認真落實黨中央、國務院決策部署，加快完善產業創新體系，持續推動外貿穩規模優結構，進一步鞏固經濟穩中向好基礎。何立峰先後到河南安陽、新鄉等地，深入瞭解相關製造企業、科技企業和消費類企業的生產經營、技術創新、外貿出口等情況。何立峰指出，要加強產學研合作，更好促進科研成果高效轉化應用，推動科技創新與產業創新深度融合，加力賦能傳統產業煥新升級。要充分發揮我國產業、市場、技術等方面的優勢，深化國際規則標準對接，有效應對外部不確定性，促進貨物貿易與服務貿易融合發展，持續推動外貿提質增效。要進一步豐富消費場景，提高產品和服務質量，增強居民消費意願，更好滿足群眾高品質生活需求。要有效防範化解重點領域風險，有力有序推進地方融資平臺退出和改革轉型，持續推動地方中小金融機構改革化險，著力穩定房地產市場。（新華社）
-
----
-
-### 2026-06-23 22:05:56  #其他
-
-【SpaceX漲超2%】SpaceX漲超2%，報158美元/股，總市值報2.06萬億美元。
-
----
-
-### 2026-06-23 22:05:48  #其他
-
-微軟已完成在威斯康星州建造資料中心的工程。
-
----
-
-### 2026-06-23 22:05:20  #國際
-
-【美國銀行研究顯示：自2023年以來首次，美國消費者更傾向於購房而非租房】根據美國銀行最新的購房者洞察報告，目前大多數美國消費者表示，他們更傾向於買房，而不是租房或與親屬同住。這是自2023年以來，購房意願首次超越租房意願。調查顯示，潛在購房者似乎不再願意等待市場條件好轉，Z世代和千禧一代引領了這一態度的轉變。在美國銀行這項涵蓋2000名受訪者的調查中，53%的人現在傾向於購房，而47%的人傾向於租房或與親屬同住。這一結果表明，儘管高昂的抵押貸款利率、居高不下的房價以及有限的房屋供應量繼續給市場帶來壓力，但消費者對購房的態度正在改善。
-
----
-
-### 2026-06-23 22:05:18  #其他
-
-網信廣東： 截至6月23日，廣東省新增21款已完成備案的生成式人工智慧服務，累計已完成164款生成式人工智慧服務備案。
-
----
-
-### 2026-06-23 22:05:12  #其他
-
-美股太空概念股多數反彈，AST SpaceMobile 漲近6%，Momentus漲超3%，SpaceX漲2.4%，Rocket Lab、Redwire漲超1%。
 
 ---

@@ -1,7 +1,235 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-06-24 23:32:25_
-_本檔包含 3400 則快訊，約 630751 字_
+_更新時間：2026-06-24 23:53:22_
+_本檔包含 3419 則快訊，約 631152 字_
+
+---
+
+### 2026-06-18 21:06:25  #MKT News #Market Regions #Europe & UK #Star Stocks #Microsoft #Amazon #Market Themes #Magnificent 7 #AMZN.O #Impact bullish #MSFT.O
+
+EU expects to publish preliminary findings as early as next week, saying Amazon's AWS and Microsoft's Azure appear to comply with the Digital Markets Act.
+
+---
+
+### 2026-06-18 21:06:16  #公司
+
+【雲南昆明產業開發投資有限責任公司董事長劉曉航接受審查調查】據昆明市紀委監委訊息：昆明產業開發投資有限責任公司黨委書記、董事長劉曉航涉嫌嚴重違紀違法，目前正接受昆明市紀委監委紀律審查和監察調查。
+
+---
+
+### 2026-06-18 21:06:16  #MKT News #Commodities #Energy #Brent #Impact bullish
+
+BofA said a full reopening of the Strait of Hormuz could lift Brent to $82 a barrel this year and expects Brent to trade mostly in a $70-$80/bbl range for most of H2 2026.
+
+---
+
+### 2026-06-18 21:06:09  #其他 #焦點
+
+科威特開始提高石油產量，一週內將突破200萬桶/日。
+
+---
+
+### 2026-06-18 21:05:50  #公司
+
+【中國長城資產等簽署戰略合作協議 “十五五”時期投入百億級資金服務上海科創產業】6月18日，記者從中國長城資產瞭解到，在2026陸家嘴論壇上，該公司與中國銀行、中國中信金融資產、中國東方資產、上海國投公司簽署了科創金融生態共建合作框架協議，在“十五五”時期，合作各方將協同投入百億級規模資金賦能上海科創產業，聚焦服務上海積體電路、人工智慧、生物醫藥三大先導產業。根據協議，各方將創新打造全國首個集“創新創業股權投資+銀行綜合服務賦能+AMC資本盤活接續”於一體的科創金融生態共建新模式，助推上海打造全球標杆性科創金融高地。本次合作由中國銀行發起，旨在充分發揮國有大型商業銀行綜合金融服務優勢、全國性金融資產管理公司價值重塑專長以及地方國有資本產業資源統籌效能。
+
+---
+
+### 2026-06-18 21:05:37  #其他
+
+美銀預計，霍爾木茲海峽全面重新開放可能使布倫特原油價格今年降至82美元/桶，並使2026年下半年大部分時間價格區間維持在70-80美元。
+
+---
+
+### 2026-06-18 21:05:10  #其他
+
+市場訊息：人工智慧企業 Manus 的早期中國投資方有意推進香港 IPO，並搭建全新合資架構。
+
+---
+
+### 2026-06-18 21:05:00  #Trading Economics #Economy #Canada #Wholesale Prices #Importance 1
+
+Canada RMPI Rises Less Than Expected — Canada’s raw materials prices rose 0.7% month-over-month in May 2026, following a 2.6% increase in the previous month and below forecasts of a 1.1% rise. Crop product prices increased 2.2%, marking a fifth consecutive monthly gain, led by canola (3.5%), grains (3.2%), and wheat (4.6%). Prices for metal ores, concentrates, and scrap rose 0.5%, supported by higher prices for nickel ores and concentrates (4.6%) and copper ores and concentrates (4.6%). Lower prices for gold, silver, and platinum group metal ores and concentrates (-0.6%) partially offset the increase. Meanwhile, crude energy products fell 0.5% after sharp gains in March and April, mainly due to a 4.3% drop in synthetic crude oil. Despite the monthly decline, crude energy prices remained elevated in May amid conflict in the Middle East. The RMPI rose 33.4% year-on-year.
+
+---
+
+### 2026-06-18 21:03:47  #公司
+
+據港交所檔案：數說故事人工智慧科技股份有限公司向港交所提交上市申請書。
+
+---
+
+### 2026-06-18 21:03:44  #MKT News
+
+HKEX filing shows Shushuo Gushi Artificial Intelligence Technology Co., Ltd. has submitted a listing application with HKEX.
+
+---
+
+### 2026-06-18 21:03:38  #其他
+
+Life360：使用者可透過 Life360 應用為他人呼叫優步車輛。
+
+---
+
+### 2026-06-18 21:03:31  #MKT News #Commodities #Energy #Market Regions #Europe & UK #EURUSD #Impact bullish #DXY #Impact bearish #Brent
+
+【ECB chief economist Lane: euro-area inf to remain elevated for extended period】ECB chief economist Lane said on Thursday that despite recent energy-price declines, euro-area inf will remain elevated for an extended period. He noted the ECB raised rates last week — its first hike in nearly three years — to counter energy-price jumps after the late-February Middle East shock. An Iran–US peace agreement has since pushed oil and gas prices sharply lower. Lane said the ECB has no doubt the rate decision was correct and still expects inf to stay above the 2% target for a prolonged period, citing upward pressure on food, goods and services prices; even under a milder oil-price scenario, tightening was appropriate.
+
+---
+
+### 2026-06-18 21:03:29  #央行 #國際
+
+美聯儲擬推出相關計劃，對穩定幣發行方設立監管要求。
+
+---
+
+### 2026-06-18 21:03:11  #央行 #國際
+
+美聯儲就穩定幣發行人識別計劃徵求意見。
+
+---
+
+### 2026-06-18 21:02:53  #央行 #其他
+
+捷克央行行長：今日的決定將有助於維持低通脹環境。
+
+---
+
+### 2026-06-18 21:02:34  #MKT News #Commodities #Energy
+
+India's May diesel exports fell 36.8% YoY to 1.5 mln tonnes.
+
+---
+
+### 2026-06-18 21:02:33  #其他
+
+Life360 與優步達成合作，助力家長統籌出行接送。
+
+---
+
+### 2026-06-18 21:02:23  #MKT News #Commodities #Energy
+
+India's gasoline exports fell 37.4% YoY to 900,000 tonnes in May.
+
+---
+
+### 2026-06-18 21:02:17  #國際
+
+美國電池企業QuantumScape：就固態電池技術與本田達成合作協議。
+
+---
+
+### 2026-06-18 21:02:16  #MKT News #Commodities #Energy #WTI #Impact bullish #Brent
+
+India's May crude oil imports rose 1.1% YoY to 21.6 mln tonnes.
+
+---
+
+### 2026-06-18 21:02:09  #國際
+
+印度 5 月原油進口量同比增長 1.1%，達 2160 萬噸。
+
+---
+
+### 2026-06-18 21:02:01  #MKT News #QS.O #Impact bullish #HMC.O
+
+US battery company QuantumScape said it has reached a cooperation agreement with Honda on solid-state battery technology.
+
+---
+
+### 2026-06-18 21:02:00  #國際
+
+印度 5 月汽油出口量同比下降 37.4%，降至 90 萬噸。
+
+---
+
+### 2026-06-18 21:01:49  #國際
+
+印度 5 月柴油出口量同比下滑 36.8%，至 150 萬噸。
+
+---
+
+### 2026-06-18 21:01:25  #其他
+
+Adobe在 Firefly 與創意雲全線推出創意智慧助手。
+
+---
+
+### 2026-06-18 21:01:07  #其他
+
+野村證券現在預計挪威將在8月加息，而此前預計是在9月。
+
+---
+
+### 2026-06-18 21:00:26  #其他
+
+PolyMarket 與 Splash Sports 宣佈達成戰略合作。
+
+---
+
+### 2026-06-18 21:00:26  #MKT News #Macro & Rates #EURUSD #Impact bullish #DXY #Impact bearish
+
+【ECB chief economist Lane: euro area neutral-rate upper bound rises to 2.50%】ECB chief economist Lane said on Thursday the upper bound of the euro area neutral-rate range has risen from 2.25% to 2.50%. He said he believes the estimate applies to the terminal policy rate once shocks subside and cited a range of neutral-rate models that point to the higher upper bound.
+
+---
+
+### 2026-06-18 21:00:21  #央行 #其他
+
+一名捷克央行官員投票支援維持利率不變。
+
+---
+
+### 2026-06-18 20:59:42  #國際
+
+美國聯邦儲備資料顯示，6月17日有效聯邦基金利率為3.63%，基於1,070億美元交易量，6月16日為3.63%，基於1,060億美元交易量。
+
+---
+
+### 2026-06-18 20:59:35  #Trading Economics #Economy #South Africa #Building Permits #Importance 1
+
+South Africa Building Permits Surge for 2nd Month — The value of building plans approved in South Africa climbed by 16.9% year-on-year to ZAR 8513.5 million in April 2026, following an upwardly revised 17.2% jump in the prior month. Non-residential buildings (43.5% vs 3.3%) and residential construction (18% vs 27.3%) posted strong increases, more than offsetting a decline in additions and alterations (-2.2% vs 10.2%).
+
+---
+
+### 2026-06-18 20:59:04  #公司
+
+【哈森股份：發行股份購買資產申請獲上交所受理】哈森股份公告稱，公司擬以發行股份方式購買蘇州郎克斯45%股權並募集配套資金。2026年6月18日，公司收到上交所通知，其申請檔案齊備、符合法定形式，上交所決定予以受理並依法稽核。本次交易尚需上交所稽核透過，並獲中國證監會同意註冊方可實施，最終能否成功存在不確定性。
+
+---
+
+### 2026-06-18 20:58:23  #國際
+
+【“堅決不撤” 以色列正就保留在黎駐軍問題與美談判】兩名以色列官員18日透露，以方堅定謀求在黎巴嫩南部地區保留駐軍，正就此問題與美方展開磋商。一名以色列官員在匿名前提下向路透社記者透露，以方正與美國政府“開展固守立場的談判”。以方立場不會妥協，包括繼續在黎巴嫩利塔尼河以南地區部署軍隊。另一名匿名以方官員說，磋商結果最終取決於美國總統特朗普是否決定就駐軍議題“強力施壓”並威脅以色列“若不遵守美伊所籤諒解備忘錄條款，美方將採取相應措施”。以色列總理辦公室暫未就上述報道作出回應。在美伊雙方17日公佈的諒解備忘錄文字中，均有涉及立即並永久停止包括黎巴嫩在內的所有戰線的軍事行動條款，其中明確提到尊重黎巴嫩領土完整和國家主權。另據黎巴嫩“廣場”電視臺18日報道，以軍當天對黎南部兩地發動襲擊。伊朗外交部發言人巴加埃18日表示，如果以色列繼續襲擊黎巴嫩，將被視為違反美國的承諾。（新華社）
+
+---
+
+### 2026-06-18 20:57:42  #Trading Economics #Markets #Canada #Stock Market #Importance 1
+
+TSX Futures Edge Higher After US-Iran Deal — Futures tracking Canada’s S&P/TSX Composite Index edged higher after the signing of an interim peace deal between the US and Iran. The agreement aims to end the conflict and reopen the Strait of Hormuz, while negotiations over Tehran’s nuclear program are set to begin later this week. Oil prices fell following the deal, easing concerns over a fresh wave of global inflation and prolonged high interest rates, supporting financial stocks and the broader index. Meanwhile, gold prices edged lower as the US dollar strengthened amid a hawkish Federal Reserve outlook, weighing on mining stocks. Energy shares are also set to come under pressure as oil prices decline.
+
+---
+
+### 2026-06-18 20:57:40  #市場
+
+埃森哲股價盤前跌幅進一步擴大，最新下跌16%。
+
+---
+
+### 2026-06-18 20:57:34  #公司
+
+【上海報業集團召開幹部會議宣佈有關幹部任免決定】6月18日，上海報業集團幹部會議召開，宣佈市委有關幹部任免的決定。 市委決定：胡明華同志任中共上海報業集團委員會書記、上海報業集團社長，免去其上海報業集團總經理職務；繆克構同志任中共上海報業集團委員會副書記，中共解放日報社委員會書記、解放日報社社長，免去其中共文匯報社委員會書記、文匯報社社長職務；免去陳頌清同志的中共上海報業集團委員會副書記，中共解放日報社委員會書記、解放日報社社長職務。
+
+---
+
+### 2026-06-18 20:57:33  #MKT News #WTI #Impact bullish #Brent
+
+Iranian parliament speaker Ghalibaf said Iran will charge vessels transiting the Strait of Hormuz once a 60-day 'no-fee' period stipulated in a memorandum of understanding with the US expires.
+
+---
+
+### 2026-06-18 20:56:53  #MKT News
+
+【Netanyahu seeks to sway Trump on final Iran deal via right‑wing media and pro‑Israel U.S. senators】Foreign media citing an Israeli source report Prime Minister Netanyahu is trying to influence the final Iran agreement by using right‑wing media figures and pro‑Israel U.S. senators to pressure President Trump. Netanyahu remains skeptical during negotiations, saying he does not expect the U.S. and Iran to reach a deal and doubts Iran will accept real limits on its nuclear programme. He has enlisted pro‑Israel commentators such as podcaster Mark Levin — who on Wednesday called the deal “nonsense” — and is courting pro‑Israel senators, though Republican Senator Lindsey Graham, who had pushed for tougher action on Iran, has shifted his stance.
 
 ---
 
@@ -20470,119 +20698,5 @@ U.S. large-bank shares rose; Morgan Stanley up 2.6%, Goldman Sachs up 2.3%, Citi
 ### 2026-06-17 23:53:39  #Trading Economics #Markets #Italy #Stock Market #Importance 0
 
 FTSE MIB Rises on Financial Sector Strength — The FTSE MIB rose 0.3% to close at 52,595 on Wednesday as markets awaited confirmation of the US-Iran peace agreement and the US Federal Reserve’s monetary policy outlook. Iran and the US remained on track to sign the deal on Friday, despite lingering uncertainty over the terms. Oil prices hovered near a three-month low amid prospects of the reopening of the Strait of Hormuz and the International Energy Agency warning of a supply overhang next year. Bond yields edged lower as energy-driven inflation concerns eased. Financial stocks led gains, with UniCredit up 2.2%, BPER Banca rising 1%, Banco BPM gaining 2.4%, and Intesa Sanpaolo adding 0.7%. UniCredit’s buyout offer for Commerzbank officially ended on June 16, lifting its overall stake to 42.4% after a 12.41% take-up. The German government reiterated its opposition and formally rejected the offer. Investors now have two additional weeks to tender shares, with final results due on July 8. Approval from the ECB is still required.
-
----
-
-### 2026-06-17 23:53:20  #Trading Economics #Markets #Commodity #Importance 0
-
-Rice Futures at Over 1-Month Low — Rice futures traded below $12 per hundredweight, hovering near the lowest since May 8, amid signs of ample global supply. Latest data showed India’s rice stocks held in government warehouses surged to a record high of 68.43 million metric tonnes as of June 1, up 15% from a year earlier and more than five times the government’s buffer stock requirement of 13.5 million tonnes for July 1. The country’s rice output reached a record 154.02 million tonnes in the 2025-26 agricultural year, up from 150.18 million tonnes in the previous period. Strong rice stocks are seen supporting India, which contributes about 40% of global rice exports, allowing it to maintain robust export flows despite El Niño-driven weather risks and potential rainfall disruptions.
-
----
-
-### 2026-06-17 23:52:32  #兩會
-
-【2026中國品牌論壇在雄安舉行 】2026中國品牌論壇6月17日在河北雄安新區舉行，全國人大常委會副委員長洛桑江村出席並致辭。（新華社）
-
----
-
-### 2026-06-17 23:51:55  #公司 #國際
-
-【新加坡冬海集團悄然進軍美國市場，測試AI聊天機器人Migoo】新加坡網際網路領軍企業冬海集團(Sea Ltd.)正在包括美國在內的地區推出一款生成式人工智慧(AI)聊天機器人，這是該公司首次進軍競爭激烈的美國消費市場，加快AI佈局。據知情人士透露，這款名為Migoo的AI陪伴聊天機器人已經上線，可能很快會進行更大規模釋出。Migoo的網站和應用並未提及冬海為所有者。該應用直接接入蘋果iMessage等平臺，旨在充當高度個性化的陪伴型聊天機器人，能夠記住使用者的喜好和習慣。在美國，冬海的目標是利潤豐厚且競爭激烈的Z世代AI市場，該市場由OpenAI和位元組跳等公司主導
-
----
-
-### 2026-06-17 23:48:53  #MKT News #Macro & Rates #The Fed (FOMC) #Commodities #Precious Metals #XAUUSD #Impact bullish #DXY #US10Y #Impact bearish
-
-【Fed rate decision imminent; gold edges up】Gold ticked higher on Wednesday as markets awaited the Fed’s first policy decision under new chair Kevin Walsh and monitored details of a US‑Iran peace accord that could shift risk sentiment. Independent metals trader Tai Wong said: "Buyers may be wagering Walsh will signal dovishness later, so gold is slowly climbing despite muted equities and firmer yields and the dollar." FXTM senior research analyst Lukman Otunuga said: "If the $4,300 support holds, gold could push toward $4,350; a break below $4,300 could trigger selling toward the $4,250–$4,200/oz support band."
-
----
-
-### 2026-06-17 23:48:09  #Trading Economics #Markets #Commodity #Importance 1
-
-Baltic Dry Index at Near 2-Month Low — The Baltic Exchange's dry bulk freight index, which monitors rates for ships carrying dry bulk commodities, was down for the third session on Wednesday, falling about 0.6% to its lowest since April 21 at 2,653 points. The decline reflected lower rates across the larger vessel segments. The capesize index, which typically transports 150,000-ton cargoes including iron ore and coal, fell about 0.9% to an over two-month low of 3,877 points; and the panamax index, which tracks vessels carrying around 60,000 to 70,000 tons of coal or grain, decreased 43 points to 2,223 points. On the other hand, the supramax index rose by 1.2% to 1,705 points.
-
----
-
-### 2026-06-17 23:47:00  #公司
-
-惠與（HPE）：Vultr為AI基礎設施選擇本公司和英偉達。
-
----
-
-### 2026-06-17 23:46:56  #國際
-
-美國前副總統彭斯： 對美伊諒解備忘錄存有 “極大擔憂”。
-
----
-
-### 2026-06-17 23:46:51  #MKT News
-
-Former U.S. Vice President Mike Pence said he is "very concerned" about a U.S.-Iran memorandum of understanding.
-
----
-
-### 2026-06-17 23:44:56  #MKT News #Macro & Rates #The Fed (FOMC) #DXY #Impact mixed #US10Y #S&P500
-
-【Timiraos flags three market takeaways from Wosh’s first Fed meeting】Nick Timiraos identifies three market-relevant points for the new Fed chair’s first meeting. 1) Will the easing-leaning language — the phrase since 2024 signaling that the next move is more likely a cut than a hike — be dropped, and if so what replaces it? Removing it would satisfy hawks and can be packaged as procedural reform rather than an overt move to a hawkish stance; Trump reportedly previewed this change at the swearing-in. 2) Will the dot plot resume as the primary forward guide, and who will signal possible hikes? The Fed will release its first rate projections since March (then 12 of 19 officials penciled in at least one 2026 cut); market focus is on how many officials now forecast hikes and whether the chair will submit a personal projection or dilute the dot plot’s weight by abstaining. 3) How will the chair communicate at the press conference? Markets move when the chair is perceived to speak for the majority; Wosh leads a divided committee not fully under his control — accurately relaying colleagues’ views would build authority, whereas failure to do so will leave dissenting members to signal policy via votes or other means, with dissents themselves becoming a source of information.
-
----
-
-### 2026-06-17 23:44:44  #市場 #觀點 #央行 #國際
-
-【摩根資產管理：AI熱潮料推動美股續漲 下半年宜持有高風險資產】摩根大通旗下資產管理部門正敦促投資者在2026年下半年繼續持有股票及其他高風險資產。該機構稱，儘管通脹持續且美聯儲維持利率不變，但AI投資熱潮和消費者韌性將支撐美國經濟持續擴張。市場日益擔憂今年美股的大幅上漲使其容易面臨回撥風險。而這家管理4.3萬億美元資產的機構指出，隨著企業加大對AI基礎設施的投入，經濟增長動能正在增強。與此同時，受股價和房價上漲帶來的財富效應推動，高收入消費者仍在持續消費。摩根資產管理在2026年中展望中表示，由於收益率居高不下，債券再次變得具有吸引力，而且新興市場與亞洲晶片供應鏈的聯絡日益緊密。為實現多元化投資，該機構建議投資者選擇房地產、基礎設施和交通運輸等防禦性投資標的，同時也引導投資者關注歐洲和日本市場。
-
----
-
-### 2026-06-17 23:44:21  #Trading Economics #Markets #United Kingdom #Stock Market #Importance 1
-
-FTSE 100 Edges Up Ahead Central Bank Decision — The FTSE 100 edged slightly higher on Wednesday as investors assessed UK inflation data and looked ahead to the Federal Reserve’s interest rate decision later in the day, followed by the Bank of England meeting on Thursday. UK markets reduced expectations for BoE rate hikes this year after inflation unexpectedly held steady in May, supporting a more cautious stance among some policymakers. Energy stocks remained under pressure, with Shell and BP both falling more than 1%. BAT dropped over 2%, Rio Tinto declined more than 0.9%, and Unilever slipped around 0.7%. In contrast, HSBC gained about 1.5%, while AstraZeneca rose 1.3% and GSK advanced 1.1%.
-
----
-
-### 2026-06-17 23:38:25  #公司
-
-【阿斯麥警告：馬斯克Terafab專案可能面臨供應限制】阿斯麥控股執行長Christophe Fouquet表示，在服務於馬斯克旗下的Terafab等新專案時，這家晶片裝置製造商必須確保自身不會遭遇供應瓶頸。在被問及來自Terafab的新業務時，Fouquet表示：“只要不受供應限制，新專案就是一種機遇。因此，我們必須確保這方面得到妥善解決。不過我認為，Terafab確實是一個重大的晶圓廠專案。”
-
----
-
-### 2026-06-17 23:37:18  #MKT News #Market Regions #Europe & UK #DAX #Impact bullish #FTSE100
-
-European equities on June 17: Germany's DAX closed up 38.22 pts (+0.15%) at 24,952.98; UK's FTSE 100 closed up 14.02 pts (+0.13%) at 10,508.23; France's CAC 40 closed down 16.48 pts (-0.20%) at 8,430.79; STOXX Europe 50 closed up 44.38 pts (+0.71%) at 6,301.80; Spain's IBEX 35 closed up 266.56 pts (+1.39%) at 19,430.16; Italy's FTSE MIB closed up 187.94 pts (+0.36%) at 52,620.50.
-
----
-
-### 2026-06-17 23:33:13  #MKT News #Macro & Rates #Treasury Yields #US10Y
-
-US 4-month Treasury bill auction through June 17: 11.86% of awards allocated at the stop-out yield, versus 16.25% previously.
-
----
-
-### 2026-06-17 23:32:59  #MKT News #Macro & Rates #Treasury Yields
-
-U.S. four-month Treasury bill auction to June 17 — stop-out yield 3.67%, prior 3.67%.
-
----
-
-### 2026-06-17 23:32:52  #MKT News #Economic Calendar
-
-United States | 4-Month Bill Auction High Yield Rate (Jun.17) | actual 3.67% | previous 3.67%
-
----
-
-### 2026-06-17 23:32:50  #MKT News #Macro & Rates #Treasury Yields #US10Y
-
-US 4-month Treasury auction on June 17 – bid-cover ratio 2.87; prior 2.88.
-
----
-
-### 2026-06-17 23:32:41  #MKT News #Economic Calendar
-
-United States | 4-Month Bill Auction Bid/Cover Ratio (Jun.17) | actual 2.87 | previous 2.88
-
----
-
-### 2026-06-17 23:32:37  #Trading Economics #Markets #United States #stocks #Importance 1
-
-Newmont Mining Stock Price Hits 4-week High — Newmont Mining shares increased to 111.95 USD, the highest since May 2026. Over the past 4 weeks, Newmont Mining gained 1.89%, and in the last 12 months, it increased 92.12%.
 
 ---

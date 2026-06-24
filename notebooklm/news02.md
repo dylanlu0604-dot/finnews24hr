@@ -1,7 +1,265 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-06-24 23:32:25_
-_本檔包含 3249 則快訊，約 631649 字_
+_更新時間：2026-06-24 23:53:22_
+_本檔包含 3263 則快訊，約 632087 字_
+
+---
+
+### 2026-06-23 22:22:16  #市場 #焦點
+
+英偉達市值跌破5萬億美元；盤中股價最新下跌2.6%。
+
+---
+
+### 2026-06-23 22:22:13  #MKT News #Market Regions #Wall Street (US) #Dow #Impact bullish #S&P500 #Impact bearish #Nasdaq100
+
+Dow turns positive, up 0.1%; S&P 500 loss narrows to 0.7%; Nasdaq down 1.2%.
+
+---
+
+### 2026-06-23 22:20:37  #宏觀 #兩會
+
+【審計工作報告：審計整改總體格局進一步鞏固完善】《國務院關於2025年度中央預算執行和其他財政收支的審計工作報告》提請全國人大常委會會議審議。報告顯示，審計整改總體格局進一步鞏固完善，至2026年4月底，針對2024年度審計查出問題已整改問題金額1.41萬億元，制定完善制度1150多項，處理處分3690多人。中央財政管理審計結果顯示，2025年，中央一般公共預算收入總量約9.73萬億元、支出總量約14.59萬億元，赤字4.86萬億元，與預算持平。（新華社）
+
+---
+
+### 2026-06-23 22:20:10  #市場
+
+美股三大指數短線拉昇，道瓊斯指數漲0.07%；標普500指數跌幅縮窄至0.77%，此前一度跌超1.5%；納斯達克綜合指數跌幅縮窄至1.17%，此前一度跌超2.3%。
+
+---
+
+### 2026-06-23 22:20:07  #MKT News
+
+【Baltic Dry Index down for second straight session as freight weakens】Baltic Dry Index fell for a second straight session, sliding 17 pts (0.6%) to 2,667. Capesize index (BCI) dropped 28 pts (0.7%) to 4,046, its lowest since June 18; Capesize daily earnings fell $252 to $33,192. Panamax index (BPI) lost 14 pts (0.7%) to 2,045; Panamax daily earnings declined $126 to $18,406. Supramax index (BSI) slipped 10 pts (0.6%) to 1,705. Handysize index (BHSI) rose 5 pts to 941.
+
+---
+
+### 2026-06-23 22:19:34  #其他
+
+【小米電視緊急致歉：地震預警系研發人員誤發】@小米電視 6月23日釋出緊急澄清致歉：2026年6月23日20:15，北京及周邊區域部分小米電視使用者收到的地震預警訊息，系我方研發人員開展功能內部測試時操作失誤，誤將內部模擬測試資料推送至線上正式環境。該內容僅為測試虛構資料，並非官方真實地震預警，當前區域不存在地震險情。我們第一時間攔截錯誤資訊，針對資訊釋出流程、測試環境機制全面整改，對造成的使用者恐慌正式致歉。
+
+---
+
+### 2026-06-23 22:18:57  #市場 #兩會
+
+【2025年度審計工作報告發布 中央財政赤字與預算持平】審計署向全國人大常委會報告了2025年度中央預算執行和其他財政收支的審計情況。報告顯示，2025年中央財政赤字與預算持平。在“兩重”“兩新”政策落實及資金管理使用情況方面，報告揭示了部分超長期國債資金被擠佔挪用、“兩重”建設配套政策等“軟建設”任務落實不到位等問題；在城市地下管網審計方面，揭示了部分“兩重”建設資金被擠佔挪用、騙取套取或閒置等問題。（央視新聞）
+
+---
+
+### 2026-06-23 22:18:35  #MKT News #Commodities #Energy #WTI #Impact bearish #Brent #CADUSD
+
+【Macklem welcomes temporary US‑Iran agreement; global energy prices starting to fall】BOC Governor Macklem said the temporary US‑Iran agreement to end hostilities and restore crude flow through the Strait of Hormuz is a welcome development for the global economy, and global energy prices have begun to decline, though many issues remain. Canada’s May headline inflation accelerated to its highest level since 2023, driven by higher gasoline prices. Economists say an immediate pullback in energy prices should ease headline inflation, and with core CPI appearing contained this should give the BOC further comfort.
+
+---
+
+### 2026-06-23 22:18:02  #國際
+
+美國地質調查局：萬那杜伊桑格爾以南126公里處發生5.3級地震。
+
+---
+
+### 2026-06-23 22:17:49  #宏觀 #國際
+
+【王毅談第十六次金磚國家安全事務高階代表會議成果】中共中央政治局委員、中央外辦主任王毅23日在金磚國家安全事務高階代表會議結束前，總結了本次會議的成果和意義。 王毅表示，這次會議形成的重要共識是，我們都支援維護多邊主義，推動熱點問題政治解決，統籌應對傳統和非傳統安全威脅。這次會議發出的共同聲音是，我們都支援金磚和全球南方要堅持獨立自主，加強團結互助，凝聚更多集體智慧，協調更強共同行動。這次會議確定的明確方向是，我們都支援進一步用好金磚安代會機制，就重大國際和地區熱點問題保持溝通和協調，不斷豐富“大金磚”合作內涵。 王毅說，明年中方將接任金磚輪值主席國。期待大家在中國再聚首，進一步深化金磚國家政治安全合作，為世界和平與安全貢獻金磚智慧與力量。（新華社）
+
+---
+
+### 2026-06-23 22:17:13  #Trading Economics #Economy #United States #Richmond Fed Manufacturing Index #Importance 1
+
+US Fifth District Manufacturing Falls — The Federal Reserve's Fifth District manufacturing index decreased by 9 points from the previous month to 4 point in June 2026, down from 13 in May and below market expectations. The result reflected an unchanged level of manufacturing activity in the district, with most key components weakening during the month. Shipments eased to 3 from 16, while new orders declined to 9 from 17, though both indicators remained positive. Meanwhile, raw materials inventories increased to 9 from 5. On the other hand, the employment index slipped into negative territory at -1, reversing from 3 in the previous month. Price pressures strengthened, with the average growth rates of prices paid rising to 6.99% from 5.96%, and prices received increasing to 4.57% from 4.21%. Looking ahead, shipments expectations improved to 38 from 35. However, expectations for new orders and employment softened, falling to 32 from 36 and to 16 from 23, respectively.
+
+---
+
+### 2026-06-23 22:16:55  #MKT News #EURUSD #Impact bullish #DXY #Impact bearish
+
+ECB Vice-President VUJCIC: inf will remain elevated.
+
+---
+
+### 2026-06-23 22:16:50  #公司
+
+【多家中小銀行，逆勢上調理財產品業績比較基準】據金融時報，在銀行理財市場整體收益率持續下行的背景下，有地方性中小銀行卻選擇“逆勢而動”，上調部分理財產品的業績比較基準。記者注意到，近日，多地中小銀行釋出公告，小幅上調旗下低風險固收類理財產品的業績比較基準。在業內人士看來，中小銀行逆勢上調理財業績比較基準，核心訴求在於穩定理財規模、穩固客群基本盤。
+
+---
+
+### 2026-06-23 22:16:28  #央行 #國際
+
+歐洲央行副行長武伊契奇：通脹高企狀態或將持續更長時間。
+
+---
+
+### 2026-06-23 22:15:39  #MKT News #Market Regions #Europe & UK
+
+ECB Vice‑President VUJCIC said inf expectations remain stable over the long term.
+
+---
+
+### 2026-06-23 22:15:15  #央行 #國際
+
+歐洲央行副行長武伊契奇：長期通脹預期仍保持穩定。
+
+---
+
+### 2026-06-23 22:14:31  #MKT News #Market Themes #AI Revolution #Magnificent 7 #Star Stocks #Microsoft #MSFT.O #Impact bullish
+
+【Microsoft completes first Wisconsin data center, facility fully operational】Microsoft said on Tuesday its first data center in Mount Pleasant, Wisconsin — the Fairwater campus — is complete and fully operational. Equipment went online and commissioning finished in April; construction was announced in May 2024. Nearly 10,000 construction workers participated over the past two years and the project finished ahead of schedule. The site currently has about 550 full‑time employees supporting operations; Microsoft and its contractors are actively recruiting and expect headcount to rise. Microsoft said the Fairwater campus will provide compute capacity for next‑generation AI and represents a key investment milestone in southeastern Wisconsin.
+
+---
+
+### 2026-06-23 22:13:34  #公司
+
+德國商業銀行：我們確認，機構和散戶投資者僅貢獻了約1%的投標股份。
+
+---
+
+### 2026-06-23 22:13:13  #國際
+
+市場訊息：美國新增數十個實體至制裁名單。
+
+---
+
+### 2026-06-23 22:13:02  #宏觀 #國際
+
+美國財政部發布美英制裁製度相關操作指引。
+
+---
+
+### 2026-06-23 22:12:43  #MKT News
+
+U.S. adds dozens of entities to its sanctions list.
+
+---
+
+### 2026-06-23 22:12:18  #國際
+
+【伊朗代表：霍爾木茲海峽已免費開放】伊朗常駐聯合國日內瓦辦事處代表阿里·巴赫雷尼23日表示，霍爾木茲海峽已對商船完全開放，且不收取任何費用。巴赫雷尼當天就伊朗和美國談判情況回答聯合國日內瓦記者協會的提問時說，霍爾木茲海峽現已開放，為期60天，其間不會收取任何費用。此外，伊美雙方決定就此問題建立溝通機制，以監控和解決可能出現的任何問題。60天后，海峽開放的具體情況將由伊美之間的談判結果決定。伊美談判代表22日在瑞士比爾根山結束了關於落實雙方上週簽署的諒解備忘錄的首輪會談。（新華社）
+
+---
+
+### 2026-06-23 22:12:01  #其他
+
+量子計算概念股普漲，Infleqtion漲逾14%，SEALSQ漲逾8%，D-Wave Quantum漲逾7%，Quantum Computing漲近5%，Rigetti Computing、IBM、IonQ Inc漲逾4% 。
+
+---
+
+### 2026-06-23 22:11:30  #國際
+
+【中菲合作遣返4名涉綁架犯罪嫌疑人】中國駐菲律賓大使館23日釋出訊息，中菲兩國執法部門19日合作抓獲遣返兩名在菲從事博彩業並實施綁架犯罪的嫌疑人，於22日再次合作遣返兩名參與2023年10月薄荷島綁架案的嫌疑人，該案受害人已由中菲警方合作解救。中國駐菲使館表示，中方將繼續堅定打擊跨國犯罪，保護在菲中國公民生命財產安全。（新華社）
+
+---
+
+### 2026-06-23 22:11:21  #MKT News
+
+US Treasury posted on its website a list of designated transnational criminal organizations.
+
+---
+
+### 2026-06-23 22:11:00  #宏觀 #國際
+
+美國財政部網：美國對跨國犯罪組織實施制裁認定。
+
+---
+
+### 2026-06-23 22:10:37  #MKT News #Important
+
+U.S. Treasury website: the United States has announced sanctions targeting Cuba.
+
+---
+
+### 2026-06-23 22:10:24  #宏觀 #焦點 #國際
+
+美國財政部官網：美國發布對古巴相關制裁。
+
+---
+
+### 2026-06-23 22:09:27  #國際
+
+官方資料顯示，截至6月21日，歐盟2025/26年度棕櫚油進口量為278萬噸，去年同期為295萬噸。
+
+---
+
+### 2026-06-23 22:09:22  #MKT News #Star Stocks #MSFT.O #Impact bullish
+
+Microsoft (MSFT.O) expects to spend $4.7 bln in Wisconsin between 2024 and 2028.
+
+---
+
+### 2026-06-23 22:09:19  #國際
+
+官方資料顯示，截至6月21日，歐盟2025/26年度豆粕進口量為1847萬噸，去年同期為1898萬噸。
+
+---
+
+### 2026-06-23 22:09:10  #國際
+
+官方資料顯示，截至6月21日，歐盟2025/26年度油菜籽進口量為517萬噸，去年同期為739萬噸。
+
+---
+
+### 2026-06-23 22:08:48  #國際
+
+官方資料顯示，截至6月21日，歐盟2025/26年度大豆進口量為1370萬噸，去年同期為1426萬噸。
+
+---
+
+### 2026-06-23 22:08:39  #公司 #國際
+
+濱化集團股份有限公司向港交所提交上市申請書，聯席保薦人為華泰國際、建銀國際。
+
+---
+
+### 2026-06-23 22:08:32  #MKT News #Important #Star Stocks #Microsoft #Market Themes #Magnificent 7 #MSFT.O #Impact bullish
+
+Microsoft (MSFT.O) said construction is complete on its first data center in Mount Pleasant, Wisconsin, US.
+
+---
+
+### 2026-06-23 22:07:40  #央行 #觀點
+
+【高盛：巴西央行預計將交替進行降息和按兵不動】高盛的Alberto Ramos寫道，巴西央行可能會交替暫停降息和下調其基準Selic利率。巴西央行上週將Selic利率從14.5%下調至14.25%，並且對其下一步行動尚不明確。在面臨粘性通脹和經濟放緩風險之際，會議紀要讓人們對該央行的想法有了一些瞭解。Ramos說，間歇性降息“將導致產出波動更溫和，通脹在2028年第一季度收斂於目標水平“。他說：“總體而言，在增長與通脹的短期權衡中，Copom更傾向於保護經濟活動，而不是採取更激進的以通脹為重點的策略。”
+
+---
+
+### 2026-06-23 22:07:23  #其他
+
+微軟預估2024至2028年間將在威斯康星州投入47億美元。
+
+---
+
+### 2026-06-23 22:06:54  #宏觀
+
+【何立峰在河南調研時指出 加快完善產業創新體系 持續推動外貿穩規模優結構】中共中央政治局委員、國務院副總理何立峰6月21日至23日在河南調研。何立峰指出，要深入學習貫徹習近平總書記在河南考察時的重要講話精神，認真落實黨中央、國務院決策部署，加快完善產業創新體系，持續推動外貿穩規模優結構，進一步鞏固經濟穩中向好基礎。何立峰先後到河南安陽、新鄉等地，深入瞭解相關製造企業、科技企業和消費類企業的生產經營、技術創新、外貿出口等情況。何立峰指出，要加強產學研合作，更好促進科研成果高效轉化應用，推動科技創新與產業創新深度融合，加力賦能傳統產業煥新升級。要充分發揮我國產業、市場、技術等方面的優勢，深化國際規則標準對接，有效應對外部不確定性，促進貨物貿易與服務貿易融合發展，持續推動外貿提質增效。要進一步豐富消費場景，提高產品和服務質量，增強居民消費意願，更好滿足群眾高品質生活需求。要有效防範化解重點領域風險，有力有序推進地方融資平臺退出和改革轉型，持續推動地方中小金融機構改革化險，著力穩定房地產市場。（新華社）
+
+---
+
+### 2026-06-23 22:05:56  #其他
+
+【SpaceX漲超2%】SpaceX漲超2%，報158美元/股，總市值報2.06萬億美元。
+
+---
+
+### 2026-06-23 22:05:48  #其他
+
+微軟已完成在威斯康星州建造資料中心的工程。
+
+---
+
+### 2026-06-23 22:05:20  #國際
+
+【美國銀行研究顯示：自2023年以來首次，美國消費者更傾向於購房而非租房】根據美國銀行最新的購房者洞察報告，目前大多數美國消費者表示，他們更傾向於買房，而不是租房或與親屬同住。這是自2023年以來，購房意願首次超越租房意願。調查顯示，潛在購房者似乎不再願意等待市場條件好轉，Z世代和千禧一代引領了這一態度的轉變。在美國銀行這項涵蓋2000名受訪者的調查中，53%的人現在傾向於購房，而47%的人傾向於租房或與親屬同住。這一結果表明，儘管高昂的抵押貸款利率、居高不下的房價以及有限的房屋供應量繼續給市場帶來壓力，但消費者對購房的態度正在改善。
+
+---
+
+### 2026-06-23 22:05:18  #其他
+
+網信廣東： 截至6月23日，廣東省新增21款已完成備案的生成式人工智慧服務，累計已完成164款生成式人工智慧服務備案。
+
+---
+
+### 2026-06-23 22:05:12  #其他
+
+美股太空概念股多數反彈，AST SpaceMobile 漲近6%，Momentus漲超3%，SpaceX漲2.4%，Rocket Lab、Redwire漲超1%。
 
 ---
 
@@ -19454,179 +19712,5 @@ Comcast Stock Price Hits 14-1/2-year Low — Comcast shares decreased to 22.15 U
 ### 2026-06-22 21:49:41  #MKT News
 
 【Commerce vice minister Ling Ji meets Asia‑Pacific Medical Technology Association delegation】June 22 — Vice Minister of Commerce and deputy chief trade negotiator Ling Ji met with a delegation from the Asia‑Pacific Medical Technology Association and member firms to discuss the operating environment and concerns of foreign medtech companies in China. Ling said that during the 15th Five‑Year Plan period China will accelerate development of biopharma and other emerging pillar industries, advance the Healthy China agenda, and welcomes multinational pharmaceutical and medtech companies to deepen cooperation, expand in‑China R&D, and increase localization of production and supply chains to help safeguard global pharmaceutical supply‑chain stability. The association and member firms said they see significant market potential in China and plan to increase investment, deepen local partnerships and intensify regional technology exchanges.
-
----
-
-### 2026-06-22 21:48:57  #其他
-
-【商務部副部長兼國際貿易談判副代表凌激會見亞太醫療技術協會及會員企業代表團】6月22日，商務部副部長兼國際貿易談判副代表凌激會見亞太醫療技術協會及會員企業代表團，雙方就醫療技術行業外資企業在華髮展情況和關注的問題等進行了交流。凌激表示，“十五五”期間中國將加快發展生物醫藥等新興支柱產業，全面推進健康中國建設，歡迎跨國醫藥企業與中國企業密切合作，加大在華創新研發，提升產供鏈本土化水平，共同維護全球醫藥產業鏈供應鏈穩定。亞太醫療技術協會和會員企業代表一致表示，中國市場潛力巨大，將加大在華投入，深化與中國企業合作，加強區域技術交流，共同促進全球醫療健康事業發展。（商務部）
-
----
-
-### 2026-06-22 21:48:08  #央行 #資料 #市場
-
-【機構：食品價格在加拿大CPI報告中再次抬頭】加拿大5月份整體通脹率加速至3.2%，為2023年底以來的最高水平。BMO資本市場首席經濟學家道格拉斯·波特表示，重要的是，加拿大央行的兩項主要核心CPI指標當月基本持平，接近2%。波特說，繼能源之後，食品價格在推高通脹方面發揮著顯著的次要作用；他指出，由於墨西哥產量下降，番茄價格同比上漲了45%。此外，餐飲食品被加拿大統計局列為5月份3.2%通脹率的主要貢獻因素。“食品通脹的持續是一個棘手的問題，“波特說。
-
----
-
-### 2026-06-22 21:47:48  #市場 #焦點
-
-燃料油連續主力合約日內跌3%，現報3030.00元。
-
----
-
-### 2026-06-22 21:47:47  #MKT News #Commodities #Energy #WTI #Impact bearish
-
-WTI crude futures fell 3.00% intraday to $73.57/barrel.
-
----
-
-### 2026-06-22 21:47:36  #市場
-
-WTI原油日內跌3%，現報73.57美元/桶。
-
----
-
-### 2026-06-22 21:46:44  #其他 #焦點
-
-【農業農村部、國家發展改革委召開強化生豬產能綜合調控座談會】近日，農業農村部、國家發展改革委有關司局組織部分生豬主產省份和大型生豬養殖企業召開座談會，分析研判當前生豬生產形勢，指導地方和企業開展常態化精準調控，推動豬價盡快回到合理水平。會議認為，當前生豬價格築底企穩，必須持續抓緊抓實各項產能綜合調控措施，切實改善市場供需關係，鞏固生豬價格回升基礎。會議要求，大型生豬養殖企業要積極響應號召，提高生產統計監測資料包送質量，帶頭壓減生豬產能和產量，帶頭嚴控二次育肥，帶頭淘汰弱仔豬，帶頭降低出欄體重。相關主產省份要加強各環節監管和監測資訊共享，強化穿透式管理；抓緊修訂落實省級產能調控方案，更好形成政策合力，繼續實質性壓減產能。（農業農村部畜牧獸醫局）
-
----
-
-### 2026-06-22 21:46:31  #MKT News #Important
-
-【Ministry of Agriculture and Rural Affairs, NDRC convene meeting to tighten comprehensive control of hog production capacity】The Ministry of Agriculture and Rural Affairs and the National Development and Reform Commission convened major hog-producing provinces and large hog producers to assess current live-hog production and to steer routine, targeted capacity controls aimed at returning hog prices to reasonable levels. Officials said prices have bottomed and stabilised but demanded continued, tightened comprehensive capacity-control measures to improve the supply-demand balance and cement the price recovery. Large producers were ordered to improve the quality of production statistics and monitoring-data reporting, take the lead in reducing capacity and output, strictly curb secondary re-fattening, cull weak piglets and lower slaughter weights. Major producing provinces were instructed to strengthen oversight and monitoring-data sharing, finalise and implement provincial capacity-control plans and continue substantive capacity reductions.
-
----
-
-### 2026-06-22 21:46:04  #MKT News #EURUSD #Impact mixed
-
-ECB President Lagarde said the bank will not use the neutral interest-rate range as the basis for policy decisions.
-
----
-
-### 2026-06-22 21:46:03  #央行 #國際
-
-歐洲央行行長拉加德：不會依據中性利率區間制定政策決議。
-
----
-
-### 2026-06-22 21:45:42  #市場 #焦點
-
-聚丙烯連續主力合約日內跌2%，現報7468.00元。
-
----
-
-### 2026-06-22 21:44:44  #宏觀 #焦點 #國際
-
-【美財政部放寬對伊朗能源相關交易限制】當地時間6月22日，美國財政部發布一般許可證，授權至8月21日期間，允許涉及伊朗原產原油、石化產品及石油產品的生產、運輸與銷售。檔案顯示，該一般許可證涵蓋允許進口伊朗原產原油、石化及石油產品進入美國的相關交易。（央視新聞）
-
----
-
-### 2026-06-22 21:44:28  #MKT News #MU.O #Impact bullish
-
-Micron Technology (MU.O) opened higher and rose, at one point up more than 6% in early trade, extending gains to fresh record highs; market capitalization about 1.36 tln dlr.
-
----
-
-### 2026-06-22 21:44:20  #央行 #資料 #市場
-
-【牛津經濟研究院：加拿大CPI籃子未見明顯擴大跡象】牛津經濟研究院的Michael Davenport表示，加拿大5月份核心通脹率略有回升，但仍處於受控狀態。5月份剔除食品和能源的通脹率同比上升0.1個百分點，至1.6%，Davenport將這歸因於機票和旅遊價格上漲。“然而，並沒有跡象表明通脹在整個CPI籃子中出現明顯擴大，”Davenport說。加拿大央行行長蒂夫·麥克勒姆(Tiff Macklem)本月表達了類似的資訊，同時將政策利率維持在2.25%不變。牛津經濟研究院預計，在2026年剩餘時間裡，整體通脹率將徘徊在3%以下，但該國經濟中的過度閒置和住房成本的減速應會使核心CPI保持在2%以下。加拿大央行制定利率政策是為了實現並維持2%的通脹率。
-
----
-
-### 2026-06-22 21:43:58  #國際
-
-【伊朗國足在洛杉磯體育場留下手寫感謝字條】伊朗國家足球隊21日在美加墨世界盃小組賽中戰平比利時隊後，在洛杉磯體育場更衣室留下一張手寫感謝字條，感謝洛杉磯方面款待，並表示伊朗隊“帶著尊嚴離開”。由於美方施加旅行限制，伊朗隊的備戰訓練基地被迫設在墨西哥蒂華納，小組賽前兩場比賽都只能在賽前一天下午從蒂華納趕到洛杉磯，並在比賽結束當天返回蒂華納。此外，伊朗隊多名工作人員和足協官員因美方拒籤無法入境。面對困境，伊朗隊在首場比賽中2:2逼平紐西蘭隊，第二場比賽與比利時隊0:0戰平，仍有晉級淘汰賽的希望。（新華社）
-
----
-
-### 2026-06-22 21:42:38  #其他
-
-【德銀：英國領導層更迭不必然引發政策動盪】德意志銀行分析師吉姆·裡德在一份報告中表示，英國領導層的變更並不自動意味著政策的斷檔。他指出，英國擁有成熟的制度架構，能夠在領導人更替後為政策連續性提供支撐。在斯塔默週一早間宣佈辭去首相職務後，英國正等待新任領導人，安迪·伯納姆目前看來最有可能接任。
-
----
-
-### 2026-06-22 21:42:29  #市場
-
-【美光科技續刷記錄新高】美光科技股價高開高走漲超6%，報1203.66美元/股，總市值報1.36萬億美元，續刷記錄新高。
-
----
-
-### 2026-06-22 21:42:06  #MKT News
-
-【Deutsche Bank: UK leadership change does not necessarily trigger policy disruption】Deutsche Bank analyst Jim Reid said in a report that a change of UK leadership does not automatically imply policy discontinuity, citing the country's mature institutional framework as supportive of continuity. After Starmer announced his resignation Monday morning, the UK is awaiting a successor; Andy Burnham currently appears most likely to take the post.
-
----
-
-### 2026-06-22 21:41:34  #國際
-
-美國總統特朗普：在我們重建、翻新、清理和修繕的眾多雕像和噴泉中，唯一遭到破壞的只有那座倒影池。倒影池的問題正在儘快處理。
-
----
-
-### 2026-06-22 21:41:29  #其他
-
-越疆(02432.HK)：預計26年第一季度錄得未經審計營業收入約人民幣1.12億元，較去年同期增加約111%。
-
----
-
-### 2026-06-22 21:40:58  #MKT News #Important #Market Regions #Greater China #02432.HK #Impact bullish
-
-Yuejiang (02432.HK) expects to record unaudited revenue of about RMB 112 mln for Q1 2026, up about 111% YoY.
-
----
-
-### 2026-06-22 21:40:52  #MKT News
-
-President Trump said that of the many statues and fountains we have rebuilt, renovated, cleaned and repaired, only the reflecting pool was vandalized, and that the reflecting pool issue is being addressed as quickly as possible.
-
----
-
-### 2026-06-22 21:40:46  #市場
-
-戴爾科技股價上漲8.05%，報442.48美元/股，總市值報2859億美元。
-
----
-
-### 2026-06-22 21:40:34  #Trading Economics #Markets #Brazil #Stock Market #Importance 1
-
-Ibovespa Gains on Lower Oil Quotes — The Ibovespa rose 1% to trade above the 170,000 mark on Monday as lower oil prices supported risk appetite. Oil prices fell after US and Iranian officials concluded their first round of talks in Switzerland, easing concerns over energy-driven inflation pressures. Major banks led gains, with Itaú and Bradesco up nearly 2%, while Banco do Brasil gained 1%. Utility stocks also moved higher, with Axia and Sabesp adding around 1%. In contrast, Petrobras edged lower as oil prices declined. Meanwhile, the latest BCB Focus survey showed higher expectations for the Selic rate and inflation in 2026. Investors also assessed a new Datafolha survey showing President Lula leading in a hypothetical second-round presidential race.
-
----
-
-### 2026-06-22 21:40:33  #公司
-
-【海南省與中國中化舉行工作會談 馮飛劉小明李凡榮參加】6月22日，海南省委書記馮飛、省長劉小明在北京與出席第四屆中國國際供應鏈促進博覽會的中國中化控股有限責任公司董事長李凡榮一行舉行工作會談。馮飛、劉小明感謝中國中化長期以來對海南自由貿易港建設的大力支援。馮飛表示，海南自由貿易港封關運作以來，政策紅利持續釋放，物暢其流、人享其行、流量集聚等成效初顯。當前，海南正著力構建具有海南特色和優勢的現代化產業體系，以科技創新引領產業創新，加快發展“種源+種業+種市”南繁產業。希望中國中化充分發揮技術、資金、人才等優勢，持續擴大投資規模，搭建創新研發平臺，打造央地合作典範。海南將持續最佳化營商環境、做好服務保障，助力企業實現更好更快發展。（海南釋出）
-
----
-
-### 2026-06-22 21:40:19  #Trading Economics #Markets #United States #Stock Market #Importance 1
-
-The Dow Jones Index Opens 0.30% Higher — The Dow Jones Index is up by 155 points or 0.30 percent on Monday. Top gainers are Caterpillar (2.49%), Amgen (1.45%) and Nvidia (1.34%). Biggest losses came from Home Depot (-1.88%), Amazon (-1.76%) and McDonalds (-1.22%).
-
----
-
-### 2026-06-22 21:39:55  #公司 #國際
-
-【上海市長會見美國萬寶盛華集團董事會主席兼CEO普里辛，讓全球人才近悅遠來】上海市市長龔正今天（6月22日）會見了美國萬寶盛華集團董事會主席兼執行長約納斯·普里辛一行。龔正說，當前，上海正在按照中央政府的部署，加快建設“五個中心”，著力推動高質量發展。人力資源是現代化產業體系的重要組成部分，我們堅持人才是第一資源，加快建設高水平人才高地，持續完善全球引才網路體系，努力聚天下英才而用之，讓全球人才近悅遠來。歡迎萬寶盛華等世界知名企業發揮所長、積極參與，將更多先進服務理念引入上海，依託全球業務網路和渠道資源，助力上海更好發揮開放引才優勢，創新探索人才合作交流方式，大力引進更多頂尖人才和各類專業人才。同時，歡迎萬寶盛華為上海最佳化營商環境建言獻策，圍繞人才培育和引進等方面多提寶貴建議，幫助上海持續最佳化為企服務水平，助力各類企業實現更大發展。（澎湃）
-
----
-
-### 2026-06-22 21:39:45  #市場
-
-布倫特原油日內跌3%，現報77.64美元/桶。
-
----
-
-### 2026-06-22 21:39:26  #其他 #焦點
-
-市場訊息：安迪·伯納姆宣誓就任英國國會議員。
-
----
-
-### 2026-06-22 21:39:24  #MKT News #Macro & Rates #The Fed (FOMC)
-
-【Federal Reserve issues statement on death of former Chair Greenspan】The Federal Reserve issued a statement on the death of former chair Alan Greenspan, who died at 100 from complications of Parkinson’s disease. The Fed said Greenspan, in an 18‑year tenure, led the central bank through periods of significant expansion and major stress, contributing to sustained price stability, support for economic growth and bolstering public confidence in the institution.
 
 ---
