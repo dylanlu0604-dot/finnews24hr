@@ -1,7 +1,43 @@
 {
-  "updated": "2026-06-24 23:03:36",
-  "count": 17247,
+  "updated": "2026-06-24 23:07:55",
+  "count": 17243,
   "items": [
+    {
+      "id": "4953110",
+      "time": "2026-06-24 23:06:59",
+      "tags": [
+        "其他"
+      ],
+      "text": "加拿大政府正計劃加急推進一批北部基建專案，這是該國首次啟用新授權以簡化審批流程、縮短監管週期。"
+    },
+    {
+      "id": "4953109",
+      "time": "2026-06-24 23:06:34",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普宣佈取消原定在國會大廈簽署住房法案的計劃，稱應當先由國會透過一項投票相關法案。"
+    },
+    {
+      "id": "4953108",
+      "time": "2026-06-24 23:04:39",
+      "tags": [
+        "其他"
+      ],
+      "text": "CoreWeave與Conapto達成合作，依託可再生能源在瑞典擴容人工智慧雲算力。"
+    },
+    {
+      "id": "mkt:019efa29-5a21-7dd8-b0fd-eda9d48098c4",
+      "time": "2026-06-24 23:04:34",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "CRWV.O",
+        "Impact bullish"
+      ],
+      "text": "CoreWeave (CRWV.O) has partnered with Conapto to deploy data-center capacity in Stockholm."
+    },
     {
       "id": "4953107",
       "time": "2026-06-24 23:02:25",
@@ -157905,73 +157941,6 @@
         "公司"
       ],
       "text": "【臨港新片區離岸貿易金融服務綜合改革試點擴圍方案在滬釋出】今天（6月17日），臨港新片區離岸貿易金融服務綜合改革試點擴圍方案在上海正式釋出。2025年陸家嘴論壇期間，中國人民銀行行長潘功勝宣佈支援上海國際金融中心建設的八項創新舉措，其中包括在臨港新片區開展離岸貿易金融服務綜合改革試點。一年來，臨港新片區在人民銀行上海總部指導下穩步推進試點工作，採用“專營公司＋一線放開、二線管住”的管理模式，在風險可控前提下顯著提升了離岸貿易結算便利化水平，為試點擴圍奠定了堅實基礎。（央視新聞）"
-    },
-    {
-      "id": "4941415",
-      "time": "2026-06-17 23:07:37",
-      "tags": [
-        "國際"
-      ],
-      "text": "法國總統馬克龍：相信未來幾周內，其他民主國家在獲取美國前沿人工智慧模型方面將取得進展。"
-    },
-    {
-      "id": "4941414",
-      "time": "2026-06-17 23:07:12",
-      "tags": [
-        "其他"
-      ],
-      "text": "市場訊息：義大利將於週五重開駐德黑蘭大使館。"
-    },
-    {
-      "id": "4941413",
-      "time": "2026-06-17 23:05:34",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗伊斯蘭共和國通訊社（IRNA）：日內瓦會談日程無變動。"
-    },
-    {
-      "id": "mkt:019ed61c-9414-7dd8-b057-73671d72d89c",
-      "time": "2026-06-17 23:04:17",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "An EU official said European Council President Costa has spent recent weeks coordinating closely with European leaders on the possibility of engaging with Russia and on the issues to be raised when timing is right."
-    },
-    {
-      "id": "4941411",
-      "time": "2026-06-17 23:04:13",
-      "tags": [
-        "國際"
-      ],
-      "text": "歐盟官員：歐洲理事會主席科斯塔近幾週一直與歐洲領導人密切協調，商討與俄羅斯進行接觸的可能性，以及時機成熟時將討論的議題。"
-    },
-    {
-      "id": "4941410",
-      "time": "2026-06-17 23:03:54",
-      "tags": [
-        "公司"
-      ],
-      "text": "Anthropic公司在首爾開設辦公室。"
-    },
-    {
-      "id": "4941409",
-      "time": "2026-06-17 23:03:48",
-      "tags": [
-        "國際"
-      ],
-      "text": "歐盟官員：歐洲理事會主席科斯塔的辦公室近幾周與克里姆林宮進行了“外交層面的簡短接觸”，旨在開啟溝通渠道，但未討論任何實質性內容。歐盟在未來任何情況下都有需要捍衛的利益，因此與俄羅斯建立外交渠道至關重要。歐盟並非調解方，但支援烏克蘭為實現公正持久和平所做的努力。"
-    },
-    {
-      "id": "te:markets:559762",
-      "time": "2026-06-17 23:03:39",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 0"
-      ],
-      "text": "Rubber Futures at Near 2-Week High — Rubber futures rose further to surpass 231 US cents per kilogram, near the highest since early June, amid ongoing weather-related supply concerns. Major Asian producers, including Thailand and Vietnam, are in the midst of a heavy rainfall spell, disrupting tapping activities and potentially weighing on output. Supply typically increases during the main tapping season from May to October, when more favourable weather conditions support higher latex production. Limiting gains, lower oil prices following the anticipated US-Iran deal have made synthetic rubber more competitive, reducing demand for natural rubber."
     }
   ]
 }
