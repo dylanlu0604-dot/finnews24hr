@@ -1,7 +1,106 @@
 {
-  "updated": "2026-06-24 09:44:24",
-  "count": 17391,
+  "updated": "2026-06-24 09:48:34",
+  "count": 17388,
   "items": [
+    {
+      "id": "mkt:019ef74f-d6f5-7dd8-b0e8-2e64be5eca71",
+      "time": "2026-06-24 09:47:45",
+      "tags": [
+        "MKT News",
+        "01347.HK",
+        "Impact bullish",
+        "00981.HK",
+        "03986.HK"
+      ],
+      "text": "Hong Kong semiconductor names advanced: Hua Hong Semiconductor (01347.HK) up nearly 7%, SMIC (00981.HK) up over 3%, GigaDevice (03986.HK) and Montage Technology (06809.HK) up more than 2%."
+    },
+    {
+      "id": "4951483",
+      "time": "2026-06-24 09:47:40",
+      "tags": [
+        "其他"
+      ],
+      "text": "港股半導體板塊走高，華虹宏力(01347.HK)漲近7%，中芯國際(00981.HK)漲超3%，兆易創新(03986.HK)、瀾起科技(06809.HK)漲超2%。"
+    },
+    {
+      "id": "mkt:019ef74e-fac6-7dd8-b0e8-238ac2c5c511",
+      "time": "2026-06-24 09:46:48",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "01138.HK",
+        "Impact bullish",
+        "03382.HK",
+        "01919.HK"
+      ],
+      "text": "Hong Kong port and transport stocks opened higher; COSCO Shipping Energy (01138.HK) rose over 6%, Tianjin Port Development (03382.HK) gained more than 5%, Orient Overseas International (00316.HK) and COSCO Shipping Holdings (01919.HK) also advanced."
+    },
+    {
+      "id": "mkt:019ef74e-0f39-7dd8-b0e8-1b1e0ad00534",
+      "time": "2026-06-24 09:45:48",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "06681.HK",
+        "Impact bullish",
+        "00553.HK",
+        "00992.HK"
+      ],
+      "text": "Hong Kong brain–computer interface-related stocks strengthened in early trade: 06681.HK rose more than 9%, Nanjing Panda Electronics (00553.HK) gained over 8%, and Lenovo Group (00992.HK) advanced about 4%."
+    },
+    {
+      "id": "mkt:019ef74d-5253-7dd8-b0e8-173e3110eb30",
+      "time": "2026-06-24 09:44:59",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "005930.KS",
+        "Impact bullish",
+        "000660.KS"
+      ],
+      "text": "China Southern 2x-long Samsung Electronics (07747) rose over 10%; China Southern 2x-long SK Hynix (07709) rose over 6%."
+    },
+    {
+      "id": "4951482",
+      "time": "2026-06-24 09:44:55",
+      "tags": [
+        "公司"
+      ],
+      "text": "南方兩倍做多三星電子(07747)漲超10%，南方兩倍做多海力士(07709)漲超6%。"
+    },
+    {
+      "id": "mkt:019ef74c-d28c-7dd8-b0e8-0876607c2a80",
+      "time": "2026-06-24 09:44:27",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "02391.HK",
+        "Impact bearish"
+      ],
+      "text": "Hong Kong-listed Tuya Smart (02391.HK) fell more than 14%; turnover exceeded HK$80,000."
+    },
+    {
+      "id": "4951481",
+      "time": "2026-06-24 09:44:08",
+      "tags": [
+        "市場"
+      ],
+      "text": "大盤主力淨流出超100億。"
+    },
+    {
+      "id": "mkt:019ef74c-68b5-7dd8-b0e8-03fe910fdfd5",
+      "time": "2026-06-24 09:44:00",
+      "tags": [
+        "MKT News",
+        "Nikkei 225",
+        "Impact bullish"
+      ],
+      "text": "【BofA Global Research sees further upside for Japanese stocks into year‑end】BofA Global Research raised its year‑end targets for Japanese equities, flagging stronger‑than‑expected AI demand, a higher probability the Strait of Hormuz stays open and improving corporate ROE. It lifted its Nikkei 225 year‑end target to 76,000 from 67,000 and its TOPIX target to 4,400 from 4,200. BofA said ROE gains to date were mainly driven by margin improvement, but as the manufacturing cycle recovers leverage expansion is likely to become the new driver."
+    },
     {
       "id": "mkt:019ef74c-283b-7dd8-b0e7-fd30a2babf3b",
       "time": "2026-06-24 09:43:43",
@@ -159214,116 +159313,6 @@
         "SSE Composite"
       ],
       "text": "A-share supercapacitor concept stocks spiked intraday, led by Haixing Co., which hit its third straight limit-up. Aihua Group and Tongfeng Electronics closed at the daily limit; Jianghai Co., Dongyangguang, Longchen Technology and Wanshun New Materials also rose."
-    },
-    {
-      "id": "mkt:019ed343-f6b7-7dd8-b03d-92524a38fdc1",
-      "time": "2026-06-17 09:48:27",
-      "tags": [
-        "MKT News",
-        "CSI300",
-        "Impact bearish",
-        "SSE Composite"
-      ],
-      "text": "China A-share rare-earth permanent-magnet sector weakened intraday; Sanchuan Zhihui fell more than 7%, Chalco International dropped over 6%, while Longci Technology, Zhongke Magnetic, Dongfang Zirconium and Yingluohua also declined."
-    },
-    {
-      "id": "4939630",
-      "time": "2026-06-17 09:48:12",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【超級電容概念異動拉昇 海星股份3連板】早盤超級電容概念異動拉昇，海星股份3連板，艾華集團、銅峰電子漲停，江海股份、東陽光、龍辰科技、萬順新材衝高。"
-    },
-    {
-      "id": "4939629",
-      "time": "2026-06-17 09:47:46",
-      "tags": [
-        "公司"
-      ],
-      "text": "【中性原子量子計算企業太一量生完成3億元Pre-A輪融資】近日，中性原子量子計算企業太一量生（上海）量子科技有限公司完成3億元Pre-A輪融資，由高榕創投、IDG資本等領投，跟投方包括華控基金、雲啟資本、達晨財智、博遠資本、上汽金控、恆旭資本、雅瑞資本、啟賦資本、電科基金等機構和產業方。"
-    },
-    {
-      "id": "4939628",
-      "time": "2026-06-17 09:47:14",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "南向資金淨買入額達10億港元。"
-    },
-    {
-      "id": "4939627",
-      "time": "2026-06-17 09:46:52",
-      "tags": [
-        "其他"
-      ],
-      "text": "【受相關資源端供應緊缺影響 LPDDR5X/4X及渠道DDR5價格全面調漲】伺服器市場對儲存的虹吸效應持續發酵，仍具備供貨配額的消費類客戶正尋求原廠包括次級DRAM在內的各類資源供應，產能有限下未來一段時間記憶體儲廠商獲取上游資源將愈發艱難，本週LP5X/LP4X及渠道DDR5記憶體條全面調漲。自Grace CPU選用LPDDR5X作為記憶體配置之後，英偉達Vera CPU繼續沿用該方案，AMD亦明確跟進，其下一代Verano CPU確認首次引入LPDDR5X。隨著基於LP5X的伺服器CPU解決方案陸續實現量產並進入大規模商用推廣階段，LP5X正加速向伺服器市場進一步滲透。在面對伺服器市場對高頻率LP5X的應用需求呈現顯著增長的情況下，海外原廠也正持續將更多的LP5X產能向伺服器市場進一步傾斜，相應的面向手機、PC等消費類終端的供應快速收緊。 (快閃記憶體市場)"
-    },
-    {
-      "id": "4939626",
-      "time": "2026-06-17 09:46:09",
-      "tags": [
-        "市場"
-      ],
-      "text": "【面板概念震盪反彈，萊寶高科、深天馬Ａ雙雙漲停】面板概念震盪反彈，萊寶高科、深天馬Ａ雙雙漲停，京東方Ａ、龍騰光電、超穎電子、瑞聯新材、緯達光電、凱盛科技等跟漲。"
-    },
-    {
-      "id": "4939625",
-      "time": "2026-06-17 09:45:43",
-      "tags": [
-        "其他"
-      ],
-      "text": "【ETF排名再洗牌 國泰基金新進ETF管理規模第三】6月程序過半，頭部ETF管理人排位再次出現變化。Wind資料顯示，截至6月16日，易方達基金在管ETF規模保持領先，達6045.73億元，雖然較月初有所回落，但跟第二的華夏基金規模差距已經拉大至35.64億元，後者最新在管ETF規模為6010.1億元。國泰基金則新進為行業第三，最新規模3422.74億元，較月初增長121.46億元；華泰柏瑞基金回落至行業第四，旗下最新ETF規模為3405.59億元，較月初稍有回落。"
-    },
-    {
-      "id": "mkt:019ed341-4c17-7dd8-b03d-8f0bc6b05f1e",
-      "time": "2026-06-17 09:45:32",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Themes",
-        "Chip Wars",
-        "CSI300",
-        "Impact bullish",
-        "SZSE Component",
-        "SSE Composite"
-      ],
-      "text": "A-share memory-chip sector staged a choppy rally: Nan Ya New Material rose over 11%, Woge Optoelectronics hit the daily up-limit, Chaoying Electronics and Xingsen Technology gained more than 7%, while Shennan Circuits, Yishitong and Shengmei Shanghai also advanced."
-    },
-    {
-      "id": "4939624",
-      "time": "2026-06-17 09:45:09",
-      "tags": [
-        "其他",
-        "焦點"
-      ],
-      "text": "【國家金融監管總局局長丁向群：建議加快制定數字金融、綠色金融等領域的國際標準】2026陸家嘴論壇今日上午開幕，國家金融監督管理總局局長、論壇共同輪值主席丁向群致開幕詞時表示，適應全球經濟格局變化，需要更加包容平等的金融治理機制；維護全球金融執行秩序，需要更加有效適配的規則體系。妥善應對全球性風險挑戰，需要更加務實高效的金融監管協作。丁向群建議，加快制定數字金融、綠色金融等領域的國際標準。"
-    },
-    {
-      "id": "4939623",
-      "time": "2026-06-17 09:44:47",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【SENASIC上市首日股價一度翻倍】SENASIC(琻捷電子；06675.HK)上市首日大漲，截至發稿漲98%，報36.52港元，成交近3億港元。該公司是無線感測SoC領域的全球供應商，致力於提供創新的感測晶片。"
-    },
-    {
-      "id": "mkt:019ed340-5d17-7dd8-b03d-87e033a34b26",
-      "time": "2026-06-17 09:44:31",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Singapore's benchmark index rose as much as 1% to 5,169.40, hitting a record high."
-    },
-    {
-      "id": "4939622",
-      "time": "2026-06-17 09:44:24",
-      "tags": [
-        "其他"
-      ],
-      "text": "【國家禁毒辦：新發現35歲以下青少年吸毒人數同比下降41.6%】今天上午，國家禁毒辦召開新聞釋出會。國家禁毒辦常務副主任、公安部禁毒局局長魏曉軍介紹，2025年，以防範青少年藥物濫用為主題，全國組織禁毒宣傳活動19.7萬場、直接覆蓋4.5億人，突出青少年特別是未成年人群體，聯合中央網信辦、教育部等7部門開展網路集中宣傳教育，深化秋季開學在校學生“五個一”專題教育，舉辦全國青少年禁毒知識競賽，青少年防範藥物濫用的認知能力明顯提升，全年新發現35歲以下青少年吸毒人數同比下降41.6%。2025年共查處吸毒人員13.4萬人次。堅持教育、感化、挽救方針，加強涉毒未成年人干預矯治，全力防範未成年人藥物濫用，推進未成年人涉毒違法犯罪預防治理，呵護未成年人健康成長。推進社群戒毒社群康復標準化建設，落實戒毒治療、康復指導、幫扶救助、就業扶持等措施。截至2025年底，全國戒斷三年以上未發現復吸人員440.3萬人，同比上升2.7%。"
     }
   ]
 }
