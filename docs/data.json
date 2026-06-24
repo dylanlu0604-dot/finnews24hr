@@ -1,7 +1,57 @@
 {
-  "updated": "2026-06-25 01:38:55",
-  "count": 17243,
+  "updated": "2026-06-25 01:42:59",
+  "count": 17238,
   "items": [
+    {
+      "id": "4953280",
+      "time": "2026-06-25 01:41:40",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國南方司令部：協助完成抓捕行動518起，查獲攔截可卡因305.5公噸，阻斷毒品恐怖分子非法收入77億美元。"
+    },
+    {
+      "id": "mkt:019efab8-9ee3-7dd8-b101-9633e537adbb",
+      "time": "2026-06-25 01:41:03",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "【US energy secretary: ~20 mln barrels transited Strait of Hormuz in past 24 hours】US Energy Secretary Wright said roughly 20 million barrels of oil, carried on about 72 vessels, transited the Strait of Hormuz in the past 24 hours. Asked how much oil had passed after a preliminary US‑Iran agreement to end hostilities, Wright repeated the figures and added that Iran would no longer be able to close the strait, calling that its main leverage and saying the US is taking that leverage away."
+    },
+    {
+      "id": "4953279",
+      "time": "2026-06-25 01:40:23",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "美國南方司令部：致力於搗毀西半球境內毒品恐怖分子網路。南方跨機構聯合特遣部隊是覆蓋全區域打擊販毒集團、保障西半球安全的關鍵力量。"
+    },
+    {
+      "id": "te:markets:561628",
+      "time": "2026-06-25 01:39:42",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Brazil",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "BRL Weakens as US-Brazil Rate Gap Narrows — The Brazilian real weakened to around 5.19 per USD in late June, tracking broad dollar strength against nearly all major currencies. The greenback advanced against G10 and emerging market peers after hawkish projections from Federal Open Market Committee members in their latest policy decision led markets to price in more than one rate hike by the US Federal Reserve this year. In Brazil, the dollar also found support in the minutes of the latest Copom meeting, which reinforced expectations that the benchmark Selic rate may fall in the near term, even as policymakers acknowledged that upside risks to inflation still outweigh downside risks. The outlook points to a narrower interest rate differential between Brazil and the US, reducing the appeal of Brazilian carry trades and supporting further gains for the dollar."
+    },
+    {
+      "id": "4953278",
+      "time": "2026-06-25 01:39:24",
+      "tags": [
+        "國際"
+      ],
+      "text": "【白宮告知共和黨：本週末前將提交戰爭撥款申請】特朗普政府官員已向國會共和黨核心議員通報，政府預計將於本週末前提交一份針對伊朗戰事的追加撥款方案。訊息人士表示，這筆撥款申請總額約800億美元。但眾議院共和黨撥款委員會議員認為，參議院大機率會在法案中附加救災、農業補貼等非軍事相關條款。眾議院共和黨領導層擔憂，推進這份追加撥款法案，會打亂他們另一項立法計劃——推動僅靠共和黨票倉透過、包含共和黨優先議程與額外國防資金的預算協調法案。國會長久以來一直在等待特朗普總統提交資金申請，用以覆蓋中東軍事行動成本。但這份法案想要在參議院獲得透過，至少需要跨黨派支援，落地成法律的阻力極大。大量反對這場戰爭的民主黨議員幾乎必然會投反對票；他們不認可這場衝突，且認為特朗普未經國會授權開戰，屬於非法行動。此次800億美元的申請規模，遠低於近幾個月外界傳聞政府曾考量的2000億美元額度。這筆追加資金主要用於補充戰爭初期大量消耗的導彈庫存，同時覆蓋近幾個月美軍在中東開展各類軍事行動產生的其他開支。"
+    },
     {
       "id": "4953277",
       "time": "2026-06-25 01:38:24",
@@ -157929,100 +157979,6 @@
         "其他"
       ],
       "text": "Meta：自今日起，土耳其使用者可透過官網下載 Threads 應用。"
-    },
-    {
-      "id": "mkt:019ed6ac-8b2b-7dd8-b05c-8864143c72df",
-      "time": "2026-06-18 01:41:32",
-      "tags": [
-        "MKT News",
-        "Brent",
-        "Impact bearish",
-        "WTI"
-      ],
-      "text": "Iran's foreign ministry spokesman said Iran and Oman will establish a strait-management mechanism and will consult other countries if necessary."
-    },
-    {
-      "id": "4941590",
-      "time": "2026-06-18 01:41:08",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "伊朗外交部發言人表示，伊朗與阿曼將建立針對霍爾木茲海峽的協調機制，必要時會同其他國家交換意見。"
-    },
-    {
-      "id": "4941589",
-      "time": "2026-06-18 01:40:58",
-      "tags": [
-        "國際"
-      ],
-      "text": "巴西總統盧拉：我並未要求在G7峰會上與特朗普舉行雙邊會晤。"
-    },
-    {
-      "id": "4941588",
-      "time": "2026-06-18 01:40:48",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "紐約期銀突破72美元/盎司，日內漲2.20%。"
-    },
-    {
-      "id": "4941587",
-      "time": "2026-06-18 01:40:43",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "伊朗官方媒體訊息：伊朗外交部發言人表示，雙方已就霍爾木茲海峽達成共識，將在一段時期內恢復航道航運正常通行。"
-    },
-    {
-      "id": "mkt:019ed6ab-ba69-7dd8-b05c-840da51fe9ef",
-      "time": "2026-06-18 01:40:39",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "The Trump Trade"
-      ],
-      "text": "Brazilian President Lula said he did not request a bilateral meeting with US President Trump at the G7 summit."
-    },
-    {
-      "id": "4941586",
-      "time": "2026-06-18 01:40:33",
-      "tags": [
-        "市場"
-      ],
-      "text": "紐約期銀日內漲2%，現報71.96美元/盎司。"
-    },
-    {
-      "id": "mkt:019ed6ab-88ea-7dd8-b05c-7d109aa015d9",
-      "time": "2026-06-18 01:40:26",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "Iranian state media quoted a Foreign Ministry spokesman saying an agreement has been reached to restore maritime traffic in the Strait of Hormuz to normal within a certain period."
-    },
-    {
-      "id": "mkt:019ed6aa-62f6-7dd8-b05c-7515b9c2cfff",
-      "time": "2026-06-18 01:39:11",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "【U.S. official says U.S.-Iran 14-point memorandum is nonbinding, text aligns with prior leaks】Refinitiv reported a senior U.S. official on Wednesday read a 14-point memorandum due to be signed in Switzerland on Friday, saying it is not a final, binding agreement and either side may withdraw. The official said the next negotiation phase will focus on sequencing and implementation of measures in the preliminary pact and described the Swiss meeting as critical to whether the memorandum can evolve into a comprehensive agreement. He said the text he read largely matches versions previously leaked to the media."
-    },
-    {
-      "id": "4941585",
-      "time": "2026-06-18 01:38:58",
-      "tags": [
-        "觀點",
-        "央行",
-        "國際"
-      ],
-      "text": "摩根大通全球固定收益主管： 這並非適合降息的經濟環境， 如果美聯儲取消寬鬆傾向，不會出現委員反對意見。"
     }
   ]
 }
