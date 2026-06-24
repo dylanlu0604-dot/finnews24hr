@@ -1,7 +1,39 @@
 {
-  "updated": "2026-06-24 11:25:04",
-  "count": 17348,
+  "updated": "2026-06-24 11:29:11",
+  "count": 17344,
   "items": [
+    {
+      "id": "mkt:019ef7ab-dd1f-7dd8-b0ea-557b3910ee88",
+      "time": "2026-06-24 11:28:16",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Multiple private funds told to suspend new cross-border TRS allocations】Multiple private fund managers said they received notices from cooperating brokerages overnight instructing them to suspend additions to managers' cross-border TRS (total return swap) exposure. TRS lets funds capture returns on overseas assets without moving principal offshore. The move follows a May CSRC-led, eight-agency implementation plan targeting illegal cross-border securities and futures fund operations and recent enforcement actions against brokers including Tiger Brokers, Futu Holdings and Longbridge Securities. After a strong run in global tech this year, many private funds had been using cross-border TRS to increase overseas tech exposure; the notice halts new TRS scale increases."
+    },
+    {
+      "id": "4951644",
+      "time": "2026-06-24 11:28:11",
+      "tags": [
+        "公司"
+      ],
+      "text": "【B站公佈笑聲識別相關專利  可基於笑聲相似度觸發內容互動】天眼查智慧財產權資訊顯示，近日，B站關聯公司上海嗶哩嗶哩科技有限公司申請的 “基於笑聲識別的內容互動方法及裝置、裝置、儲存介質和程式產品” 專利公佈。摘要顯示，本公開提供了基於笑聲識別的內容互動方法及裝置、裝置、儲存介質和程式產品。該方法包括：對從電子裝置的環境中採集的音訊資料進行笑聲識別；響應於識別到所述音訊資料中存在笑聲，提取識別到的第一笑聲對應的第一笑聲特徵；將所述第一笑聲特徵與所述電子裝置的迴圈快取區中儲存的第二笑聲特徵進行匹配，以得到所述第一笑聲特徵與所述第二笑聲特徵的相似度，其中，所述第二笑聲特徵是過去經過的預設時長內提取的至少一個第二笑聲對應的笑聲特徵；基於所述第一笑聲特徵與所述第二笑聲特徵的相似度觸發與所述電子裝置當前播放內容的互動。"
+    },
+    {
+      "id": "4951643",
+      "time": "2026-06-24 11:27:24",
+      "tags": [
+        "市場"
+      ],
+      "text": "【多傢俬募收到通知 暫停跨境TRS新增】多位私募業人士向記者透露，昨晚陸續收到合作券商的通知，監管要求暫停管理人跨境TRS（總收益互換）規模新增。據公開資料，TRS為Total Return Swap（總收益互換)是一種金融衍生品，私募可以透過這一工具在不直接持有境外資產（本金不出境）的前提下，透過與對手券商簽訂收益互換協議，獲得該資產的收益（或虧損）。今年以來，由於全球科技板塊的亮眼表現，不少私募透過跨境TRS配置海外資產。5月以來，證監會等八部門聯合印發《綜合整治非法跨境證券期貨基金經營活動實施方案》，對老虎證券、富途控股、長橋證券等頭部跨境網際網路券商亮出重拳，內地居民違規跨境炒股空間收縮後，使用跨境TRS配置海外科技標的的私募產品愈發受到資金關注。多位私募人士透露：“相關通知較為突然，部分產品策略短期可能出現一定變化，目前正在等待進一步細化的跨境TRS額度規範。” (上證報)"
+    },
+    {
+      "id": "mkt:019ef7a8-edfb-7dd8-b0ea-480910e744d8",
+      "time": "2026-06-24 11:25:03",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Russia's Orenburg region governor said regional forces shot down a drone that attempted to strike local industrial facilities."
+    },
     {
       "id": "4951642",
       "time": "2026-06-24 11:24:16",
@@ -158792,81 +158824,6 @@
         "MKT News"
       ],
       "text": "cenc recorded a magnitude-3.2 earthquake at 11:25 on June 17 in Haixi prefecture, Qinghai (37.84N, 95.53E); depth 10 km."
-    },
-    {
-      "id": "4939868",
-      "time": "2026-06-17 11:29:01",
-      "tags": [
-        "宏觀",
-        "其他"
-      ],
-      "text": "【2025年末我國經營主體對外資產存量超8萬億美元】中國人民銀行副行長、國家外匯管理局局長朱鶴新6月17日在2026陸家嘴論壇發表主題演講時表示，近年來，中國資本專案開放政策持續完善，有力支援跨境資本流動雙向增長、結構最佳化。2025年末，我國經營主體對外資產存量超8萬億美元，外商直接投資存量達4萬億美元，外資持有境內股票和債券市值超1萬億美元。（新華社）"
-    },
-    {
-      "id": "4939867",
-      "time": "2026-06-17 11:28:09",
-      "tags": [
-        "其他"
-      ],
-      "text": "【一季度末境外投資者持有境內股票市值約6000億美元】中國人民銀行副行長、國家外匯管理局局長朱鶴新6月17日在2026陸家嘴論壇發表主題演講時透露，2025年，我國實際使用外資超1000億美元，其中，高技術產業佔比約1/3，醫療器械、航空航天業利用外資增速分別達42%和23%。2026年一季度末，境外投資者持有境內股票市值約6000億美元，其中，持有資訊科技行業市值超過900億美元。（新華社）"
-    },
-    {
-      "id": "mkt:019ed39e-af0d-7dd8-b040-479700a5928b",
-      "time": "2026-06-17 11:27:32",
-      "tags": [
-        "MKT News",
-        "Nasdaq100",
-        "Impact bullish",
-        "S&P500",
-        "Impact mixed",
-        "DXY"
-      ],
-      "text": "【SAFE Director Zhu Hexin: Foundation for Global Openness Remains Solid; Cross‑border Allocation Momentum Strong】At the Lujiazui Forum opening, PBOC vice governor and State Administration of Foreign Exchange director Zhu Hexin said since 2020 global instability and uncertainty have risen, and capital flows now exhibit 'volatility, divergence and resilience.' He flagged three market features: first, global financial conditions have shifted rapidly, with higher international market volatility and increased capital‑flow volatility amid changes in financial structure; second, global capital is reallocating toward future industries — notably artificial intelligence, semiconductors, biomanufacturing and the energy transition — widening dispersion across countries, sectors and assets; third, the foundation for global openness and cooperation remains solid and cross‑border private allocation momentum is strong. Zhu said global financial system resilience has continued to improve and many emerging economies, including China, have richer macro policy and macroprudential experience, enhancing their capacity to withstand external shocks."
-    },
-    {
-      "id": "4939866",
-      "time": "2026-06-17 11:27:25",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "【國家外匯管理局局長朱鶴新：全球開放合作的基礎依然堅實，各類主體跨境配置資源的內生動力強勁】在2026陸家嘴論壇開幕式上，中國人民銀行副行長、國家外匯管理局局長朱鶴新表示，2020年以來，世界動盪變革，不穩定不確定因素增多，全球資本流動呈現出“波動、分化與韌性”的新特徵。一是全球金融條件快速變化，國際金融市場波動增加，疊加金融結構變化影響，資本流動的波動性上升。二是全球資金進一步向人工智慧、半導體、生物製造、能源轉型等未來產業集聚，不同國家、行業和資產之間分化加大。三是全球開放合作的基礎依然堅實，各類主體跨境配置資源的內生動力強勁。全球金融體系韌性也持續提升，包括中國在內的許多新興經濟體，宏觀調控政策和宏觀審慎管理經驗更加豐富，抵禦外部衝擊能力增強。（21財經）"
-    },
-    {
-      "id": "mkt:019ed39d-8947-7dd8-b040-3f9c7903e2fd",
-      "time": "2026-06-17 11:26:17",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Industrial Metals",
-        "Precious Metals",
-        "Copper",
-        "XAUUSD"
-      ],
-      "text": "Australian miner Aoruikai is increasing investment in copper and gold."
-    },
-    {
-      "id": "4939862",
-      "time": "2026-06-17 11:26:04",
-      "tags": [
-        "公司"
-      ],
-      "text": "【九識智慧增資至2.13億】天眼查App顯示，近日，九識（蘇州）智慧科技有限公司發生工商變更，註冊資本由1.93億人民幣增至2.13億人民幣。該公司成立於2021年8月，法定代表人為崔霄，經營範圍包括人工智慧應用軟體開發、人工智慧硬體銷售、人工智慧理論與演算法軟體開發等，由Zelos Group Inc.全資持股。"
-    },
-    {
-      "id": "4939860",
-      "time": "2026-06-17 11:25:51",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "【證監會主席吳清：依法從嚴打擊利用人工智慧非法薦股等亂象】中國證監會主席吳清17日在2026陸家嘴論壇上表示，下一步將嚴查嚴處借科技之名蹭熱點、炒概念，甚至操作市場、內幕交易等違法違規行為。適時釋出規範發展資本市場人工智慧的指導意見，依法從嚴打擊利用人工智慧非法薦股，甚至利用人工智慧造謠傳謠、違法交易等亂象。（上證報）"
-    },
-    {
-      "id": "4939859",
-      "time": "2026-06-17 11:25:48",
-      "tags": [
-        "市場"
-      ],
-      "text": "【明晚，國內油價或迎“兩連降”】按照現行成品油定價機制，本計價週期（6月4日24時-6月18日24時）內，前期美以伊衝突不斷，國際原油價格跌後反彈；後期受美伊局勢緩和以及霍爾木茲海峽即將開放的樂觀預期影響，國際原油價格承壓走低，16日WTI和布倫特原油期貨價格雙雙跌破每桶80美元，收盤價均創三個月來最低。受此影響，國內參考的原油變化率在負值範圍內不斷加深。卓創資訊分析師於雅欣稱，目前國內原油變化率處於負值深位局面難以改變，明日24時國內成品油限價或將落實下調，預計幅度在475元/噸，摺合升價92號汽油、95號汽油、0號柴油分別下調0.37、0.39、0.4元。（經參報）"
     }
   ]
 }
