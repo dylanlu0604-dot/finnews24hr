@@ -1,7 +1,18 @@
 {
-  "updated": "2026-06-25 06:42:06",
-  "count": 16990,
+  "updated": "2026-06-25 06:46:04",
+  "count": 16985,
   "items": [
+    {
+      "id": "te:markets:561651",
+      "time": "2026-06-25 06:45:17",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Crypto",
+        "Importance 1"
+      ],
+      "text": "Crypto Updates: Ether Depreciates by 3.05% — Top crypto losers are Ether (-3.05%), Bitcoin (-2.93%) and Binance (-2.38%)."
+    },
     {
       "id": "mkt:019efbcb-a29e-7dd8-b106-443b182eab4a",
       "time": "2026-06-25 06:41:27",
@@ -155222,66 +155233,6 @@
         "市場"
       ],
       "text": "紐西蘭元小幅走強，因為同比GDP增長超過預期。"
-    },
-    {
-      "id": "4941947",
-      "time": "2026-06-18 06:45:18",
-      "tags": [
-        "其他"
-      ],
-      "text": "紐西蘭第一季度GDP環比增長0.8%；預估0.8%。紐西蘭第一季度 GDP 同比增長 1.5%；預計+1.0%。"
-    },
-    {
-      "id": "te:markets:559833",
-      "time": "2026-06-18 06:45:14",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Crypto",
-        "Importance 1"
-      ],
-      "text": "Crypto Updates: Ether Drops by 2.72% — Top crypto losers are Ether (-2.72%), XRP (-2.62%) and Bitcoin (-2.08%)."
-    },
-    {
-      "id": "mkt:019ed7c2-7fdd-7dd8-b065-ccd5ea6dcd30",
-      "time": "2026-06-18 06:45:08",
-      "tags": [
-        "MKT News",
-        "DXY",
-        "Impact bearish",
-        "XAUUSD",
-        "Impact bullish",
-        "Copper"
-      ],
-      "text": "New Zealand Q1 GDP YoY 1.5% (exp. 1.1%); prior revised from 1.3% to 1.5%."
-    },
-    {
-      "id": "mkt:019ed7c2-7ec9-7dd8-b065-c223dbf4d684",
-      "time": "2026-06-18 06:45:08",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "New Zealand Q1 GDP QoQ 0.8% (consensus 0.8%); prior quarter revised up to 0.5% from 0.2%."
-    },
-    {
-      "id": "mkt:019ed7c2-60e0-7dd8-b065-bc7e7c5962a7",
-      "time": "2026-06-18 06:45:00",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "New Zealand | GDP (YoY) (Q1) | actual 1.5% | consensus 1.10% | previous 1.30%"
-    },
-    {
-      "id": "mkt:019ed7c2-60d0-7dd8-b065-b13db8c124e7",
-      "time": "2026-06-18 06:45:00",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "New Zealand | GDP (QoQ) (Q1) | actual 0.8% | consensus 0.8% | previous 0.20%"
     }
   ]
 }
