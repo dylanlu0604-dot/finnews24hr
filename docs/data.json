@@ -1,7 +1,99 @@
 {
-  "updated": "2026-06-24 15:09:57",
-  "count": 17370,
+  "updated": "2026-06-24 15:14:03",
+  "count": 17368,
   "items": [
+    {
+      "id": "4952017",
+      "time": "2026-06-24 15:12:19",
+      "tags": [
+        "行業",
+        "其他"
+      ],
+      "text": "【券商取消部分私募收益互換額度】證券時報記者獲悉，私募接到券商通知，監管要求暫停管理人跨境TRS（總收益互換）規模新增。部分券商通知客戶，不再新增額度，原有收益互換平倉後額度也收回。多傢俬募和券商確認了相關訊息。"
+    },
+    {
+      "id": "4952016",
+      "time": "2026-06-24 15:12:02",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "【策略師：三星電子、SK海力士槓桿ETF面臨現實檢驗】據衍生品與量化策略師高登茨·施耐德在Smartkarma釋出的一份報告指出，跟蹤三星電子和SK海力士的2倍槓桿交易所交易基金（ETF）若要回升至6月22日的水平，需上漲約33%，這意味著其股票需反彈約16.5%。報告稱，週二三星電子和SK海力士股價雙雙下跌兩位數，導致相關ETF價格下挫近25%，其中三星2倍槓桿ETF自5月27日推出以來已累跌5.4%。他表示，韓國新推出的單隻股票2倍槓桿ETF可在趨勢市場中提升收益，但市場波動性較強時會迅速侵蝕價值，因此最適合用於短期戰術動量投資。"
+    },
+    {
+      "id": "te:economy:561402",
+      "time": "2026-06-24 15:11:53",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Azerbaijan",
+        "Interest Rate",
+        "Importance 1"
+      ],
+      "text": "Azerbaijan Holds Rates for 3rd Meeting — The Central Bank of the Republic of Azerbaijan kept its discount rate unchanged at 6.5% for a third consecutive meeting in June 2026, maintaining borrowing costs at the lowest level since September 2021. The interest rate corridor was also left intact, with the lower bound at 5.5% and the upper bound at 7.5%, as policymakers judged inflation risks to be broadly balanced. Annual inflation stood at 5.6% in May, while non-food inflation stayed relatively subdued. The central bank noted favorable foreign exchange market conditions, declining dollarization, and strong foreign currency inflows. External conditions also remained supportive, helped by higher energy prices and a stronger trade balance. However, policymakers warned that global inflation risks, including higher food, fertilizer, and transportation costs, could affect domestic prices. The bank reiterated that future policy decisions will depend on inflation dynamics, external developments, and overall macroeconomic conditions."
+    },
+    {
+      "id": "te:economy:561401",
+      "time": "2026-06-24 15:11:48",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Czech Republic",
+        "Business Confidence",
+        "Importance 1"
+      ],
+      "text": "Czech Business Morale Hits 5-Month Low — The business confidence indicator in the Czech Republic fell to 99.8 in June 2026 from 100.0 in the previous month, marking its lowest level since January. The decline reflected weaker sentiment across several sectors, with confidence falling in trade (91.9 vs. 92.8 in May), selected services (102.2 vs. 102.4), and construction (111.4 vs. 117.9). In contrast, confidence in the industrial sector rose to 97.5 from 94.5, providing some support to the overall indicator."
+    },
+    {
+      "id": "mkt:019ef878-85ef-7dd8-b0f0-054458b7337e",
+      "time": "2026-06-24 15:11:48",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "005930.KS",
+        "Impact bearish",
+        "000660.KS"
+      ],
+      "text": "【Strategist: Samsung Electronics, SK Hynix 2x ETFs face reality check】A Smartkarma report by a derivatives and quantitative strategist says 2x single-stock ETFs tracking Samsung Electronics and SK Hynix must rally roughly 33% to recover June 22 levels, implying the underlying shares need about a 16.5% rise. Both chipmakers fell double digits on Tuesday, knocking the linked ETFs down about 25%; the Samsung 2x ETF is down 5.4% since its May 27 launch. The report warns Korea’s single-stock 2x ETFs boost returns in trending markets but quickly erode value in high volatility, making them best suited to short-term tactical momentum trades."
+    },
+    {
+      "id": "4952015",
+      "time": "2026-06-24 15:11:36",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中化化肥有限公司所屬中化吉林長山化工有限公司複合肥生產總監陳乃標被查】6月24日，據“中化清風線上”微信公眾號訊息，中國中化控股有限責任公司下屬中化化肥有限公司所屬中化吉林長山化工有限公司複合肥生產總監陳乃標涉嫌嚴重違紀違法，主動投案，目前正在接受中化化肥有限公司紀律檢查委員會紀律審查和吉林省松原市乾安縣監察委員會監察調查。"
+    },
+    {
+      "id": "4952014",
+      "time": "2026-06-24 15:11:13",
+      "tags": [
+        "其他"
+      ],
+      "text": "【國產大飛機C919首飛延安】6月24日8時許，國航CA1279航班由北京飛抵延安，國產大飛機C919完成延安首飛。目前，國航已開通北京至井岡山、遵義、延安等十餘條紅色航線，每週計劃執行260個航班，為革命老區發展注入新動能。（新華社）"
+    },
+    {
+      "id": "te:economy:561400",
+      "time": "2026-06-24 15:10:13",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Thailand",
+        "Interest Rate",
+        "Importance 1"
+      ],
+      "text": "Bank of Thailand Holds Rates as Expected — The Bank of Thailand left its benchmark interest rate unchanged at 1% at its June 2026 meeting, in line with market expectations and keeping borrowing costs at their lowest level since 2022. The Thai economy is now forecast to grow 2.3% in 2026 and 1.8% in 2027, with growth proving stronger than previously anticipated. The outlook is supported by robust merchandise exports, private investment linked to the technology and AI cycle, government measures aimed at cushioning the impact of the energy crisis, and improving conditions surrounding the Middle East conflict. Meanwhile, the central bank maintained its inflation outlook, projecting headline inflation to average 2.8% in 2026 and 1.4% in 2027. While recent price pressures have been driven by supply-side factors, officials expect inflation to moderate as these pressures gradually ease. The Committee also said it will continue to closely monitor the inflation outlook and related risks."
+    },
+    {
+      "id": "4952013",
+      "time": "2026-06-24 15:09:58",
+      "tags": [
+        "其他"
+      ],
+      "text": "保加利亞2026年預算計劃存在“遠超3%”的缺口。"
+    },
     {
       "id": "mkt:019ef875-d52e-7dd8-b0ef-fc0a580abc08",
       "time": "2026-06-24 15:08:52",
@@ -158961,100 +159053,6 @@
         "其他"
       ],
       "text": "【《中國資產管理市場2015-2026》今日正式釋出：中國資管行業在未來五年或將持續保持5%以上的年增長率】中國光大銀行、光大理財在北京正式釋出《中國資產管理市場2024—2025》報告。報告顯示，在居民總財富、金融資產佔比、財富管理滲透率及估值因子四大因素驅動下，我國資管行業未來五年或將持續保持5%以上的年增長率。報告同時指出，當前我國居民財富從房地產和存款轉向多元金融資產，正在形成一條“固收為基、權益漸進、多策並舉”的漸進式路徑。在“存款利率1時代”背景下，居民對本金安全的訴求依然壓倒對高風險收益的追逐。因此，以銀行理財為代表的固收類產品憑藉其低波穩健的特性，將繼續充當資金轉移的“安全氣囊”和主要載體。同時，隨著個人養老金制度的擴圍與 ETF 生態的完善，權益類資產的配置將不再僅僅是少數激進者的博弈，而是逐步演變為高淨值客戶與長期資金的“邊際增量”選擇。"
-    },
-    {
-      "id": "4940222",
-      "time": "2026-06-17 15:13:25",
-      "tags": [
-        "其他"
-      ],
-      "text": "歐萊雅：與OpenAI的協議是歐萊雅轉型人工智慧路線圖中的里程碑。"
-    },
-    {
-      "id": "4940221",
-      "time": "2026-06-17 15:13:03",
-      "tags": [
-        "公司"
-      ],
-      "text": "【中集集團等在鹽城成立海洋戰新產業股權投資基金 出資額10億】天眼查App顯示，近日，鹽城市中集蘇悅海洋戰新產業股權投資基金合夥企業（有限合夥）成立，執行事務合夥人為鹽城市集悅企業管理合夥企業（普通合夥），出資額10億人民幣，經營範圍為以私募基金從事股權投資、投資管理、資產管理等活動。合夥人資訊顯示，該基金由江蘇省海洋經濟股權投資基金（有限合夥）、中集集團（000039）旗下中集資本控股有限公司、阜寧縣阜開科技創業發展有限公司、悅達資本股份有限公司、鹽城市集悅企業管理合夥企業（普通合夥）共同出資。"
-    },
-    {
-      "id": "4940220",
-      "time": "2026-06-17 15:12:07",
-      "tags": [
-        "市場"
-      ],
-      "text": "法國電信巨頭Orange股價跌幅進一步擴大，目前已下跌3.2%，位居CAC 40指數成分股跌幅榜首位，此前巴克萊恢復對該股票的覆蓋研究。"
-    },
-    {
-      "id": "4940219",
-      "time": "2026-06-17 15:11:59",
-      "tags": [
-        "市場"
-      ],
-      "text": "寶馬下調業績展望後，法拉利股價下跌1.3%。"
-    },
-    {
-      "id": "4940218",
-      "time": "2026-06-17 15:11:41",
-      "tags": [
-        "其他"
-      ],
-      "text": "【梅西升至世界盃射手榜第一，親籤球衣起拍價達2.5萬元】北京時間6月17日，美加墨世界盃J組首輪，阿根廷隊在堪薩斯城體育場對陣阿爾及利亞隊。本場比賽中，阿根廷職業足球運動員梅西個人世界盃總進球數達到16球，升至世界盃歷史射手榜第1位，與德國傳奇前鋒克洛澤並列。這是梅西代表國家隊的第200場比賽，他也成為了首位六登世界盃賽場的球員。受賽事熱度帶動，梅西親筆簽名球衣受到追捧。在得物APP上，一件梅西親筆簽名球衣起拍價高達2.5萬元，加價幅度為300元，起拍時間為6月17日9點30分，結拍時間為當日21點30分。不過，截至介面新聞發稿前，此次拍賣參拍人數為0。"
-    },
-    {
-      "id": "4940217",
-      "time": "2026-06-17 15:11:37",
-      "tags": [
-        "國際"
-      ],
-      "text": "【阿里雲新增巴黎、柔佛地域，擴建日本、墨西哥資料中心】阿里雲在 VIVATECH大會期間宣佈法國巴黎、馬來西亞柔佛地域開服，同時擴建日本東京和墨西哥的資料中心，以滿足AI出海與全球市場激增的Token呼叫需求。本輪擴張完成後，阿里雲全球佈局升至 32 個地域、105個可用區。據 Gartner 資料，阿里雲是中國最大、亞太第一的雲服務商。（新浪科技）"
-    },
-    {
-      "id": "te:markets:559618",
-      "time": "2026-06-17 15:11:28",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Steel Drops to Two-Month Low — Steel rebar futures declined to around CNY 3,120 per ton, reaching their lowest level in two months as disappointing economic data from China weighed on demand expectations. Crude steel production in the world's largest producer continued to weaken amid a prolonged downturn in the property sector, with May output falling 2.7% year-on-year to 84.35 million tons. Broader economic indicators also pointed to slowing momentum, with fixed-asset investment and consumer spending retreating to levels last seen during the pandemic period. Meanwhile, earlier data showed China's steel exports rose 8.8% in May from the previous month, supported by subdued domestic demand and stronger profit margins for overseas shipments. However, cumulative steel exports in the first five months of the year were still down 8.1% from a year earlier, reflecting rising trade barriers in several major export markets."
-    },
-    {
-      "id": "mkt:019ed46b-60b1-7dd8-b045-f6acae7d5a57",
-      "time": "2026-06-17 15:11:07",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK"
-      ],
-      "text": "UK 5-year gilt yield fell to its lowest since April 20 after inflation data, down 5bps on the day to 4.28%."
-    },
-    {
-      "id": "4940216",
-      "time": "2026-06-17 15:11:00",
-      "tags": [
-        "市場"
-      ],
-      "text": "通脹資料公佈後，英國5年期國債收益率跌至4月20日以來最低，日內下行5個基點，報4.28%。英國10年期國債收益率跌至4.754%，為4月17日以來最低水平，日內跌幅近4個基點。"
-    },
-    {
-      "id": "4940215",
-      "time": "2026-06-17 15:10:53",
-      "tags": [
-        "市場"
-      ],
-      "text": "寶馬汽車股價或將錄得 2025 年 10 月以來最差單日表現。"
-    },
-    {
-      "id": "4940214",
-      "time": "2026-06-17 15:10:01",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【福特在美召回近4.5萬輛F-150，變速箱可能意外降入一擋存安全隱患】據美國國家公路交通安全管理局（NHTSA）6月17日披露，福特汽車公司正在召回部分2014款F-150車型，共計44963輛。公告顯示，上述車輛變速箱輸出軸轉速感測器與動力總成控制模組（PCM）之間的訊號傳輸可能中斷，導致變速箱意外降入一擋，引發車輛失控風險，增加碰撞機率。"
     }
   ]
 }
