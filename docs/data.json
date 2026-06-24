@@ -1,7 +1,65 @@
 {
-  "updated": "2026-06-25 03:18:49",
-  "count": 17021,
+  "updated": "2026-06-25 03:22:50",
+  "count": 17007,
   "items": [
+    {
+      "id": "mkt:019efb14-c4a6-7dd8-b103-4b9e7d2f9f23",
+      "time": "2026-06-25 03:21:42",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "U.S. ambassador to the United Nations said Iran will buy surplus U.S. farm crops."
+    },
+    {
+      "id": "mkt:019efb14-60be-7dd8-b103-43b0b1a01f69",
+      "time": "2026-06-25 03:21:17",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "U.S. UN envoy Walz said Iran’s unfrozen funds will be placed in an escrow account."
+    },
+    {
+      "id": "mkt:019efb13-fb42-7dd8-b103-38ca7ba46130",
+      "time": "2026-06-25 03:20:51",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "U.S. Ambassador to the United Nations Walz said sanctions on Iran have not been lifted and are only temporary."
+    },
+    {
+      "id": "4953389",
+      "time": "2026-06-25 03:19:53",
+      "tags": [
+        "國際"
+      ],
+      "text": "美常駐聯合國代表沃爾茨： 伊朗解凍資金將存入第三方託管賬戶， 伊朗將採購美國農戶的過剩農產品。"
+    },
+    {
+      "id": "4953388",
+      "time": "2026-06-25 03:19:04",
+      "tags": [
+        "國際"
+      ],
+      "text": "美常駐聯合國代表沃爾茨：針對伊朗的制裁並未取消，此次僅為臨時性措施。 這只是談判期間發放的臨時許可。"
+    },
+    {
+      "id": "mkt:019efb12-593d-7dd8-b103-356a0b37e04a",
+      "time": "2026-06-25 03:19:04",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish"
+      ],
+      "text": "CBS reports Trump plans to push to make the 15% ethanol gasoline blend policy (E15) permanent."
+    },
     {
       "id": "mkt:019efb11-6129-7dd8-b103-2e2d0242a8c7",
       "time": "2026-06-25 03:18:00",
@@ -155369,222 +155427,6 @@
         "Brent"
       ],
       "text": "Iranian state news agency IRNA reported the US will begin immediately lifting its maritime blockade of Iran after signing a memorandum and will fully lift the blockade within 30 days; IRNA said shipping traffic would return to pre-war levels during that period."
-    },
-    {
-      "id": "mkt:019ed709-0c7f-7dd8-b063-25a18cc64e29",
-      "time": "2026-06-18 03:22:34",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)"
-      ],
-      "text": "【Warsh: Fed inspector general to publish HQ renovation cost-overrun report this summer】Fed Chair Kevin Warsh said on Wednesday he met with the Fed inspector general, who expects to publish a report this summer on cost overruns in the Federal Reserve’s Washington headquarters renovation. The project drew intense political scrutiny; the Trump administration previously opened a criminal probe into former Fed Chair Powell over the work, which was later dropped. The episode was cited as a factor in Powell’s decision to remain on the Fed’s Board of Governors after his chair term expired in May."
-    },
-    {
-      "id": "mkt:019ed708-8906-7dd8-b063-1e2865e9182e",
-      "time": "2026-06-18 03:22:01",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "DXY",
-        "Impact bullish",
-        "US10Y",
-        "Impact bearish",
-        "S&P500"
-      ],
-      "text": "Markets have fully priced in the possibility of a Fed rate hike by October."
-    },
-    {
-      "id": "4941780",
-      "time": "2026-06-18 03:21:52",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "標普500指數跌1.01%，現報7435.410點；道指跌0.71%，現報51629.090點；納指跌0.99%，現報26116.418點。"
-    },
-    {
-      "id": "4941779",
-      "time": "2026-06-18 03:21:47",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "納指跌1.00%，現報26112.182點；道指跌0.71%，現報51632.660點；標普500指數跌0.98%，現報7437.950點。"
-    },
-    {
-      "id": "4941778",
-      "time": "2026-06-18 03:21:44",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "納斯達克中國金龍指數跌超1%，海天網路跌17.43%，新氧跌10.40%，迅雷跌7.64%，億咖通科技跌4.92%，霧芯科技跌4.82%。"
-    },
-    {
-      "id": "4941777",
-      "time": "2026-06-18 03:21:39",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "美國股市跌幅擴大，標普500指數下跌1.00%。"
-    },
-    {
-      "id": "mkt:019ed708-0a13-7dd8-b063-114dd11f160f",
-      "time": "2026-06-18 03:21:28",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "According to documents and oilfield officials, as exports resume Iraq will raise production at the Rumaila oilfield by 300,000 b/d to 650,000 b/d."
-    },
-    {
-      "id": "4941776",
-      "time": "2026-06-18 03:21:24",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "現貨黃金失守4240美元/盎司，日內跌2.11%。"
-    },
-    {
-      "id": "4941775",
-      "time": "2026-06-18 03:21:19",
-      "tags": [
-        "央行",
-        "焦點",
-        "國際"
-      ],
-      "text": "交易員已完全定價美聯儲將於10月加息。"
-    },
-    {
-      "id": "te:markets:559815",
-      "time": "2026-06-18 03:21:16",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Euro Area",
-        "Currency",
-        "Importance 0"
-      ],
-      "text": "Euro Down to March-Lows — The euro fell to $1.15, its lowest level since late March, as the US dollar strengthened broadly following the Fed’s latest monetary policy decision. While the Fed left interest rates unchanged, as widely expected, policymakers’ projections were viewed as hawkish, with around half of officials anticipating at least one rate hike in 2026. In Europe, the ECB raised interest rates by 25 basis points last week, in line with expectations, as it continues to combat elevated inflation. However, following the preliminary agreement between the US and Iran, money markets have scaled back expectations for further ECB tightening, now pricing in less than 30 basis points of additional rate hikes this year. ECB policymaker Gediminas Šimkus reiterated on Wednesday that upside risks to inflation continue to justify further monetary tightening. He said he expects at least one more rate hike to help keep inflation expectations anchored."
-    },
-    {
-      "id": "mkt:019ed707-9abe-7dd8-b063-0a0d608e2a31",
-      "time": "2026-06-18 03:21:00",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "State news agency IRNA reports Iran will consult with Oman on future management and maritime services of the Strait of Hormuz."
-    },
-    {
-      "id": "4941774",
-      "time": "2026-06-18 03:20:15",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "伊朗伊斯蘭共和國通訊社談及諒解備忘錄文字：商用船舶通航將立即啟動，考慮到清除水雷與消除技術障礙的需求，（完整通航機制）將在30日內建成。"
-    },
-    {
-      "id": "mkt:019ed706-ed43-7dd8-b063-0086af13b0a4",
-      "time": "2026-06-18 03:20:15",
-      "tags": [
-        "MKT News",
-        "DXY",
-        "Impact bullish",
-        "US10Y",
-        "Impact bearish",
-        "S&P500",
-        "Impact mixed"
-      ],
-      "text": "【Kevin Warsh: Trends matter more than single data points; employment continuing to improve】Federal Reserve Chair Kevin Warsh said on Wednesday many Fed colleagues view the US labor market as stable and some see the employment trend improving. He stressed the three- to six-month trend is more important than any single data release and said overall employment data has been moving in a positive direction."
-    },
-    {
-      "id": "mkt:019ed706-ea88-7dd8-b062-fe6880a16767",
-      "time": "2026-06-18 03:20:15",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "Iranian state news agency IRNA reported the US has pledged to lift all sanctions on Iran according to the timetable set out in the final agreement framework."
-    },
-    {
-      "id": "4941773",
-      "time": "2026-06-18 03:20:10",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普談及烏克蘭局勢： 烏克蘭目前打得相當不錯。俄羅斯的軍隊規模要龐大得多。 但烏克蘭表現亮眼，能守住自身陣線。 別忘了，他們手中精良的裝備不少都源自我方援助。"
-    },
-    {
-      "id": "mkt:019ed706-8f73-7dd8-b062-f4354380db93",
-      "time": "2026-06-18 03:19:51",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bearish",
-        "XAUUSD",
-        "S&P500",
-        "Impact bullish"
-      ],
-      "text": "Iran's Islamic Republic News Agency (IRNA) said Iran will maintain the status quo of its nuclear program until a final agreement is reached, and the US will not impose new sanctions on Iran or deploy additional military forces in the region."
-    },
-    {
-      "id": "mkt:019ed706-8110-7dd8-b062-ed6833c0d32f",
-      "time": "2026-06-18 03:19:48",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "DXY",
-        "Impact bullish",
-        "US10Y",
-        "S&P500",
-        "Impact bearish"
-      ],
-      "text": "【Kevin Warsh: Fed still has 'some work to do' on curbing inflation】Federal Reserve Chair Kevin Warsh gave no forward guidance at a press conference but said he has heard FOMC members say the Fed still has \"some work to do\" to achieve price stability. On artificial intelligence, Warsh said the technology could be the most significant economic change of his adult life, bringing both opportunities and risks. He added that if the Fed \"does its job\" it can sustain strong growth, price stability and robust employment."
-    },
-    {
-      "id": "4941772",
-      "time": "2026-06-18 03:19:46",
-      "tags": [
-        "市場"
-      ],
-      "text": "鈀金期貨日內跌3%，現報1329.00美元/盎司。"
-    },
-    {
-      "id": "4941771",
-      "time": "2026-06-18 03:19:27",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "【美聯儲主席沃什：就業資料正朝著好的方向發展】美聯儲主席凱文·沃什週三表示，其他央行官員普遍認為美國勞動力市場保持穩定，部分人甚至認為其走勢好於穩定水平；他還補充道，趨勢比具體資料點更為重要。“過去三到六個月的整體走勢比任何單個資料點、任何單次資料釋出都更為重要，我認為就業資料一直朝著積極的方向發展，”沃什表示。"
-    },
-    {
-      "id": "mkt:019ed705-f8ed-7dd8-b062-e66bc995b52b",
-      "time": "2026-06-18 03:19:13",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "DXY",
-        "Impact bearish",
-        "US10Y",
-        "S&P500",
-        "Impact bullish"
-      ],
-      "text": "Gundlach said the Federal Reserve is unlikely to adjust interest rates before autumn."
     }
   ]
 }
