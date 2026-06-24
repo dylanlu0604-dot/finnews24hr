@@ -1,7 +1,169 @@
 {
-  "updated": "2026-06-24 10:30:48",
-  "count": 17390,
+  "updated": "2026-06-24 10:34:54",
+  "count": 17392,
   "items": [
+    {
+      "id": "4951565",
+      "time": "2026-06-24 10:34:17",
+      "tags": [
+        "其他"
+      ],
+      "text": "孫正義：隨著科技巨頭將目光投向臺積電以外的領域，英特爾的製造作用至關重要。"
+    },
+    {
+      "id": "mkt:019ef77a-618d-7dd8-b0e9-41f9a0165c6c",
+      "time": "2026-06-24 10:34:13",
+      "tags": [
+        "MKT News",
+        "INTC.O",
+        "Impact bullish"
+      ],
+      "text": "SoftBank CEO Masayoshi Son said imminent deals involving NVIDIA (NVDA.O) and Apple (AAPL.O) are driving a sharp rise in Intel's (INTC.O) market value."
+    },
+    {
+      "id": "mkt:019ef77a-458e-7dd8-b0e9-3e2b3b780b79",
+      "time": "2026-06-24 10:34:05",
+      "tags": [
+        "MKT News",
+        "CSI300",
+        "Impact bullish",
+        "Hang Seng Index"
+      ],
+      "text": "【Ultra-long special sovereign bonds support upgrade of over 360,000 residential elevators】The Ministry of Housing and Urban-Rural Development said that since the central government included renovation of old residential elevators in the funding scope of ultra-long special sovereign bonds, localities have used the policy support to accelerate upgrades, with more than 360,000 old residential elevators cumulatively replaced."
+    },
+    {
+      "id": "4951564",
+      "time": "2026-06-24 10:33:43",
+      "tags": [
+        "市場"
+      ],
+      "text": "軟銀孫正義：即將達成的與英偉達、蘋果的交易推動英特爾股價大漲。"
+    },
+    {
+      "id": "mkt:019ef779-e669-7dd8-b0e9-36e4179c04d4",
+      "time": "2026-06-24 10:33:41",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "INTC.O",
+        "Impact bullish"
+      ],
+      "text": "SoftBank CEO Masayoshi Son said Intel (INTC.O) plays an indispensable role in U.S. national security."
+    },
+    {
+      "id": "4951563",
+      "time": "2026-06-24 10:33:25",
+      "tags": [
+        "市場"
+      ],
+      "text": "【超長期特別國債已助力超36萬臺電梯更新】記者今天（24日）從住房城鄉建設部獲悉，自國家將住宅老舊電梯更新改造納入超長期特別國債資金支援範圍以來，各地積極依託政策支援，大力推進住宅老舊電梯更新改造，助力居民便捷出行，目前已累計更新住宅老舊電梯超36萬臺。(央視新聞)"
+    },
+    {
+      "id": "4951562",
+      "time": "2026-06-24 10:32:47",
+      "tags": [
+        "國際"
+      ],
+      "text": "軟銀孫正義：英特爾對美國而言是不可或缺的國家安全資產。"
+    },
+    {
+      "id": "te:markets:561325",
+      "time": "2026-06-24 10:32:37",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Australia",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "Australian Dollar Muted After Mixed CPI Data — The Australian dollar was largely unchanged around $0.691, staying near an eleven-week low after a mixed inflation report reinforced a further rise in interest rates. Headline consumer prices fell 0.7% in May from the previous month, pulling annual inflation down to 4.0% from 4.2% and marking the slowest pace in three months. However, underlying price pressures remained firm, with trimmed mean inflation rising 0.4% on the month, above forecasts and lifting the annual core rate to 3.6%. After raising interest rates three times this year, the Reserve Bank left the cash rate unchanged at 4.35% this month but reiterated that it would not hesitate to tighten further if inflation remains above its 2.5% target. The mixed inflation figures are likely to keep the policy outlook tilted hawkish, with markets still pricing in around a 22% probability of an August rate move and expectations of roughly 15 basis points of additional tightening over the remainder of the year."
+    },
+    {
+      "id": "4951561",
+      "time": "2026-06-24 10:32:10",
+      "tags": [
+        "市場"
+      ],
+      "text": "泰銖兌美元走軟至33.425，為2025年5月15日以來最低。"
+    },
+    {
+      "id": "mkt:019ef777-8dab-7dd8-b0e9-2cda2f555389",
+      "time": "2026-06-24 10:31:07",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "9984.T",
+        "Impact bullish"
+      ],
+      "text": "SoftBank CEO Masayoshi Son said the company's physical AI factory for robotics has begun producing robots."
+    },
+    {
+      "id": "4951560",
+      "time": "2026-06-24 10:31:01",
+      "tags": [
+        "公司"
+      ],
+      "text": "軟銀執行長孫正義：我們的機器人實體人工智慧工廠已開始投產機器人。"
+    },
+    {
+      "id": "4951559",
+      "time": "2026-06-24 10:30:56",
+      "tags": [
+        "公司"
+      ],
+      "text": "【賽力斯康波：汽車產業正轉向AI定義汽車】6 月 23 日，2026 夏季達沃斯新浪財經之夜在大連舉行。賽力斯集團董事、副總裁康波表示，汽車產業已迎來智慧化下半場，正從 “軟體定義汽車” 全面轉向 “AI 定義汽車”。 賽力斯以 AI 推動智慧化規模化落地，全鏈路賦能研產供銷服，超級工廠核心工序自動化率 100%，自研人形機器人已落地商用。康波稱，AI 融入產業需全產業鏈協同，賽力斯將攜手夥伴推動行業高質量發展。"
+    },
+    {
+      "id": "mkt:019ef777-3631-7dd8-b0e9-25e8fd8a160c",
+      "time": "2026-06-24 10:30:45",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Emerging Markets",
+        "DXY",
+        "Impact bullish",
+        "USDJPY"
+      ],
+      "text": "【Malaysia central bank pledges stepped-up measures to boost FX inflows】Bank Negara Malaysia said on Wednesday it will intensify measures to encourage foreign-exchange inflows, including promoting repatriation and conversion of corporate offshore earnings. The central bank said Malaysia's solid economic fundamentals will continue to support the ringgit. The statement helped pare the ringgit's losses; the currency has fallen 4.3% in June, the weakest in Asia. Rising US rate-hike expectations have pressured EM FX, and two upcoming state elections are raising political risk for Malaysia's currency."
+    },
+    {
+      "id": "4951558",
+      "time": "2026-06-24 10:30:42",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "玻璃連續主力合約日內漲1%，現報980.00元。"
+    },
+    {
+      "id": "4951557",
+      "time": "2026-06-24 10:30:35",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "甲醇連續主力合約日內跌2%，現報2466.00元。"
+    },
+    {
+      "id": "4951556",
+      "time": "2026-06-24 10:30:33",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "滬深兩市成交額超1.5萬億元，較上日此時縮量2552億元。"
+    },
+    {
+      "id": "4951555",
+      "time": "2026-06-24 10:30:12",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "中證500指數期貨連續主力合約日內漲1%，現報8540.20點。"
+    },
     {
       "id": "4951554",
       "time": "2026-06-24 10:29:29",
@@ -159166,149 +159328,6 @@
         "公司"
       ],
       "text": "【半導體裝置板塊持續回暖 盛美上海漲超10%創歷史新高】半導體裝置板塊日內持續回暖，盛美上海漲超10%，創歷史新高，福光股份、精智達、盛劍科技、芯碁微裝、長川科技、華峰測控跟漲。"
-    },
-    {
-      "id": "mkt:019ed36e-737a-7dd8-b03e-92efa07358aa",
-      "time": "2026-06-17 10:34:51",
-      "tags": [
-        "MKT News",
-        "CSI300",
-        "Impact mixed",
-        "Hang Seng Index",
-        "Impact bearish",
-        "CNH"
-      ],
-      "text": "【State Administration of Financial Regulation to curb disorderly competition, crack down on black-and-gray financial activity】State Administration of Financial Regulation Director Ding Xiangqun said the agency will tighten market discipline, deepen a cleanup of disorderly competition and sharply crack down on financial black-and-gray operations, and will firmly implement the insurance sector’s \"reporting-and-operating-as-one\" measure. He said authorities will press firms to strengthen governance, reinforce incentive and constraint mechanisms, and shift from pursuing speed and scale to prioritizing quality and efficiency to safeguard market order."
-    },
-    {
-      "id": "mkt:019ed36d-dc17-7dd8-b03e-8a2ab7ce69d7",
-      "time": "2026-06-17 10:34:12",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "03323.HK",
-        "Impact bullish",
-        "02128.HK",
-        "02009.HK"
-      ],
-      "text": "Hong Kong-listed construction materials and cement stocks firmed after volatile trading: China National Building Material (03323.HK) surged over 17%, China Lesso Group (02128.HK) rose more than 5%, while Huajian New Materials (06655.HK) and BBMG (02009.HK) also advanced."
-    },
-    {
-      "id": "em:qqyh_zgyh:202606173774211584",
-      "time": "2026-06-17 10:34:11",
-      "tags": [
-        "央行",
-        "中國央行"
-      ],
-      "text": "【央行：完善短端利率調控機制】在2026陸家嘴論壇上，中國人民銀行行長潘功勝表示，將完善短端利率調控機制。"
-    },
-    {
-      "id": "4939718",
-      "time": "2026-06-17 10:34:09",
-      "tags": [
-        "其他"
-      ],
-      "text": "【工行新加坡分行成為“數幣達”（CBETS）首批直接參與者 助力數字人民幣跨境應用拓展】數字人民幣跨境應用迎來新進展。6月16日，數字人民幣國際運營中心在上海舉行“數幣達”（Cross-bordere-CNYTransferServices，簡稱CBETS）跨境結算綜合服務平臺首批直接參與者簽約儀式。中國工商銀行新加坡分行作為首批直接參與機構簽署服務協議，將依託平臺為跨境貿易、投融資及支付等場景提供數字人民幣服務。"
-    },
-    {
-      "id": "mkt:019ed36d-7e10-7dd8-b03e-82c6506f7c1d",
-      "time": "2026-06-17 10:33:48",
-      "tags": [
-        "MKT News",
-        "Important",
-        "CNH",
-        "Impact mixed"
-      ],
-      "text": "PBOC's Pan said the central bank will refine the short-end interest rate control mechanism."
-    },
-    {
-      "id": "4939717",
-      "time": "2026-06-17 10:33:41",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "【央行：完善短端利率調控機制】在2026陸家嘴論壇上，中國人民銀行行長潘功勝表示，將完善短端利率調控機制。（央視新聞）"
-    },
-    {
-      "id": "4939716",
-      "time": "2026-06-17 10:33:21",
-      "tags": [
-        "其他"
-      ],
-      "text": "【高層建築消防治理再出重拳 多部門將部署開展專項整治工作】今天（6月17日）上午，國家消防救援局舉行例行新聞釋出會，通報了近期消防安全形勢和消防救援重點工作。國家消防救援局相關負責人表示，近期部分地區發生高層建築火災，引發社會廣泛關注，將會同有關部門，持續深化高層建築消防安全治理，堅決整治消防設施癱瘓、控制室無人值守、消防管網無水、防火分隔不到位、佔用消防通道等突出問題隱患，強化人防物防技防措施，提升滅火救援能力。國家消防救援局將重點抓好四方面工作：一是壓實各方責任，推動相關部門強化行業安全管理，督促物業按照合同約定把消防服務做到位；二是全面排查整治，聚焦高層建築外牆保溫、豎向管井等高風險部位，重點糾治違規動火施工、消防設施損壞、安全出口上鎖、消防控制室值班脫崗、電動腳踏車進樓入戶等突出問題；三是有效應急處置，督促管理單位建強微型消防站、志願消防隊，確保滅早、滅小、滅初期；四是加強宣傳警示，選取典型火災案例以案說法，強化全社會消防安全意識。"
-    },
-    {
-      "id": "4939715",
-      "time": "2026-06-17 10:33:06",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "科創50日內漲幅達1.03%，成分股中，盛美上海漲11.08%，生益電子漲10.37%，中控技術漲5.55%，天嶽先進漲4.98%。"
-    },
-    {
-      "id": "mkt:019ed36c-6372-7dd8-b03e-7d30fdf2e3a2",
-      "time": "2026-06-17 10:32:36",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Greater China",
-        "CNH"
-      ],
-      "text": "China has officially released the Action Plan for Developing Offshore Finance in the Shanghai International Financial Center."
-    },
-    {
-      "id": "4939714",
-      "time": "2026-06-17 10:32:35",
-      "tags": [
-        "其他"
-      ],
-      "text": "【交通運輸部煙臺打撈局原局長楊曉仁接受審查調查】據中央紀委國家監委駐交通運輸部紀檢監察組、山東省紀委監委訊息：交通運輸部煙臺打撈局原黨委副書記、局長楊曉仁涉嫌嚴重違紀違法，目前正接受中央紀委國家監委駐交通運輸部紀檢監察組紀律審查和山東省煙臺市監察委員會監察調查。"
-    },
-    {
-      "id": "4939713",
-      "time": "2026-06-17 10:32:26",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【國家禁毒辦介紹中美禁毒合作情況】今天上午（6月17日）國家禁毒辦召開新聞釋出會。國家禁毒辦常務副主任、公安部禁毒局局長魏曉軍介紹中美雙方禁毒合作情況及下步合作展望。一是雙方開展了很多機制性交流和務實合作，我們與美國白宮國家禁毒政策辦公室等政策部門保持聯絡溝通，定期相互通報工作進展，商討下步合作優先事項；與美國緝毒署、聯邦調查局和移民海關執法局等執法部門聯合偵辦多起案件，合作遣返涉毒逃犯，具體情況已對外發布。二是為積極合作應對非列管化學品流入北美製毒渠道問題，2025年11月，商務部等五部委聯合釋出公告，將13種芬太尼類物質前體化學品和美國、墨西哥、加拿大分別增列到《向特定國家（地區）出口易製毒化學品管理目錄》《特定國家（地區）目錄》，今年5月又針對上述三國增列了3種芬太尼類物質前體化學品；2025年11月和今年5月，國家禁毒辦連續兩次釋出警示通告，提醒相關企業和個人在從事相關經營活動時嚴格遵守相關國家法律法規，防範前體化學品和裝置流入製毒渠道；海關部門加強了對相關品種化學品的出口監管和風險分析，提醒出口企業識別客戶、防範風險；郵政部門敦促寄遞企業嚴格落實“實名收寄、收寄驗視、過機安檢”三項制度，持續開展宣傳教育，切實提升寄遞行業從業人員對重點敏感化學品的防範意識。三是針對國內少數不法分子向境外販運列管或非列管前體化學品及新精神活性物質等敏感化學品的情況，在全國範圍內多輪次部署開展打擊管控專項行動，全面強化案件偵辦。去年12月中國石油和化學工業聯合會還主辦了“清朗網路空間·共築禁毒防線”全國化工行業淨網倡議活動，有效提高行業自律，取得良好效果。"
-    },
-    {
-      "id": "4939712",
-      "time": "2026-06-17 10:32:07",
-      "tags": [
-        "市場"
-      ],
-      "text": "上海鋼聯釋出資料顯示，今日MMLC電池級碳酸鋰（早盤）中間價報169150元/噸，較上日16:30價格上漲300元/噸。"
-    },
-    {
-      "id": "4939711",
-      "time": "2026-06-17 10:31:32",
-      "tags": [
-        "其他"
-      ],
-      "text": "【《上海國際金融中心發展離岸金融行動方案》正式釋出】在2026陸家嘴論壇上，《上海國際金融中心發展離岸金融行動方案》正式釋出。（央視新聞）"
-    },
-    {
-      "id": "4939710",
-      "time": "2026-06-17 10:31:14",
-      "tags": [
-        "公司"
-      ],
-      "text": "【滙豐中國落地首單QDLP託管業務】滙豐銀行（中國）有限公司（下稱“滙豐中國”）今日宣佈為國內一基金公司發行的QDLP（合格境內有限合夥人）產品提供託管服務。滙豐中國由此成為首家落地QDLP基金託管業務的外資銀行。"
-    },
-    {
-      "id": "4939709",
-      "time": "2026-06-17 10:31:05",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【卡達擬在霍爾木茲海峽重開後快速恢復天然氣生產】據美國媒體16日報道，卡達打算在霍爾木茲海峽重開後快速恢復液化天然氣生產，在兩個月內恢復至伊朗戰事前產能的八成。彭博新聞社援引知情人士的話報道，經營卡達最大液化天然氣設施的卡達能源公司已告知其客戶，預計將在霍爾木茲海峽重開後一個月內把產能恢復至戰前的五成，兩個月內提升至八成。（新華社）"
     }
   ]
 }
