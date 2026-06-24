@@ -1,7 +1,132 @@
 {
-  "updated": "2026-06-24 15:22:00",
-  "count": 17370,
+  "updated": "2026-06-24 15:26:02",
+  "count": 17372,
   "items": [
+    {
+      "id": "te:economy:561412",
+      "time": "2026-06-24 15:25:11",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Czech Republic",
+        "Consumer Confidence",
+        "Importance 1"
+      ],
+      "text": "Czech Republic Consumer Morale Strengthens in June — The consumer confidence indicator in the Czech Republic rose by 3.1 points to 106.5 in June 2026 from 103.4 in the previous month. The increase was supported by improved expectations for the general economic situation over the next 12 months, as the share of consumers anticipating a deterioration in the domestic economy decreased. Sentiment regarding personal finances also strengthened, with more households expecting an improvement in their financial situation over the coming year, while the proportion of respondents reporting their current financial situation as worse than a year earlier remained unchanged. Meanwhile, the share of consumers not planning major purchases over the next 12 months declined slightly from May. Concerns about rising prices and further increases in unemployment were broadly unchanged from the previous month."
+    },
+    {
+      "id": "mkt:019ef884-7d00-7dd8-b0f0-8593835f93bc",
+      "time": "2026-06-24 15:24:52",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "XAUUSD",
+        "Impact bullish",
+        "Brent",
+        "Impact mixed",
+        "DXY"
+      ],
+      "text": "【BOT holds policy rate at 1.00%; reassessing economic risks from Middle East tensions】The Bank of Thailand kept its policy rate at 1.00%, in line with market expectations, and said it is reassessing economic risks from the Middle East conflict. While war-related risks have eased, uncertainty remains elevated. Several central banks, including the Fed, have taken a wait-and-see stance; Japan, Indonesia and the Philippines raised rates last week to offset conflict-related shocks. The BOT said pre-ceasefire cost shocks had squeezed firms, weakened household purchasing power and hit tourism through higher costs and travel constraints, and that lagged effects will continue to weigh on growth. It also flagged El Nifio-driven food supply risks and ongoing uncertainty from US tariff policy. Many economists expect the BOT to remain on hold for the rest of the year, maintaining an accommodative stance to support a still-fragile economy."
+    },
+    {
+      "id": "4952034",
+      "time": "2026-06-24 15:24:29",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "印尼股市基準指數下跌3%，至5918.95美元。"
+    },
+    {
+      "id": "mkt:019ef883-ecc5-7dd8-b0f0-7d166fa3b6e2",
+      "time": "2026-06-24 15:24:15",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Ukraine's drone force commander said Ukrainian drones attacked a major substation at the Sevastopol power plant in Crimea last night."
+    },
+    {
+      "id": "mkt:019ef883-dd74-7dd8-b0f0-753404233061",
+      "time": "2026-06-24 15:24:11",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【South Korea April newborns +18% YoY to 24,521; highest April since 2019】Statistics Korea said in its April 2026 Population Trends report on the 24th that April newborns totaled 24,521, up 18% YoY. Both the monthly count and YoY growth were the highest for an April since 2019."
+    },
+    {
+      "id": "4952033",
+      "time": "2026-06-24 15:23:57",
+      "tags": [
+        "國際"
+      ],
+      "text": "無人機部隊指揮官稱，烏克蘭無人機夜間襲擊了俄羅斯控制的克里米亞塞瓦斯托波爾發電廠的主變電站。"
+    },
+    {
+      "id": "4952032",
+      "time": "2026-06-24 15:23:54",
+      "tags": [
+        "公司"
+      ],
+      "text": "義大利國家天然氣運輸公司（Snam）執行長表示：對天然氣儲氣注氣計劃充滿信心，當前儲氣庫存率為65%，預計到10月底將提升至90%以上。"
+    },
+    {
+      "id": "te:economy:561410",
+      "time": "2026-06-24 15:23:32",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Brunei",
+        "Balance of Trade",
+        "Importance 1"
+      ],
+      "text": "Brunei Trade Surplus Hits 12-Year High — Brunei’s trade surplus surged to BND 1.12 billion in April 2026 from BND 0.4 billion in the same month a year earlier. It was the largest amount since April 2014, as exports jumped 75.8% yoy to BND 2.06 billion, the highest since December 2009, boosted by strong gains in mineral fuels (83.1%) and chemicals (48.4%). Australia was the largest export destination, accounting for 32.8% of total shipments, followed by Singapore (16.0%), Japan (12.9%), China (11.2%), and Thailand (10.3%). Imports grew at a slower 21.6% to BND 0.94 billion, driven by a sharp rise in mineral fuel purchases (22.6%) and machinery and transport equipment (33.4%). Malaysia was the top source of imports, supplying 67.8% of total inbound shipments, ahead of Vietnam (6.0%), China (5.4%), the UK (4.2%), and the U.S. (2.6%). For the first four months of 2026, trade surplus widened to BND 2.69 billion from BND 1.86 billion in the same period last year, as exports climbed 23.3% while imports rose more slowly by 8.0%."
+    },
+    {
+      "id": "mkt:019ef882-dc7b-7dd8-b0f0-6a448c6fcd10",
+      "time": "2026-06-24 15:23:06",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【South Korea April births rise 18% YoY】Statistics Korea's April population report, released June 24 and reported by Yonhap, showed April births of 24,521, up 18% year-on-year — the highest April tally since 2019 and the largest April YoY increase since records began in 1981. Cumulative Jan–Apr births were 99,534, up 15.5% YoY and the highest Jan–Apr total since 2019. April total fertility rate was 0.93, up 0.13 points YoY."
+    },
+    {
+      "id": "4952031",
+      "time": "2026-06-24 15:22:39",
+      "tags": [
+        "其他"
+      ],
+      "text": "滙豐銀行將新加坡2026年GDP增長預期從2.9%上調至3.3%。"
+    },
+    {
+      "id": "4952030",
+      "time": "2026-06-24 15:22:09",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "泰國央行：預計今年經常賬戶收支基本持平。"
+    },
+    {
+      "id": "mkt:019ef881-c734-7dd8-b0f0-6285de4b84c2",
+      "time": "2026-06-24 15:21:55",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "RHM.DE",
+        "Impact bearish"
+      ],
+      "text": "Rheinmetall shares extended losses, down 12.6%, on track for their largest single-day decline since November 2001."
+    },
+    {
+      "id": "4952029",
+      "time": "2026-06-24 15:21:36",
+      "tags": [
+        "公司"
+      ],
+      "text": "萊茵金屬公司股價延續跌勢，目前跌幅已達12.6%，正朝著2001年11月以來最大單日跌幅邁進。"
+    },
     {
       "id": "4952028",
       "time": "2026-06-24 15:20:52",
@@ -158953,112 +159078,6 @@
         "國際"
       ],
       "text": "【外交部：美方應停止將經貿科技問題政治化、工具化、武器化】6月17日，外交部發言人林劍主持例行記者會。有記者提問，有報道稱，美國商務部暫緩將多家中國企業列入出口管制實體清單。請問中方對此有何評論？林劍表示，中方一貫反對美方泛化國家安全概念，濫用實體清單等出口管制的工具，遏制打壓中方企業，美方應停止將經貿科技問題政治化、工具化、武器化。（央視新聞）"
-    },
-    {
-      "id": "te:markets:559627",
-      "time": "2026-06-17 15:25:52",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United Kingdom",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "FTSE 100 Treads Water After Inflation Report — The FTSE 100 traded close to flat on Wednesday as investors digested UK inflation data and awaited the Federal Reserve’s policy decision for further signals on the global interest rate outlook. Falling oil prices continued to weigh on the index, with energy majors Shell and BP both down around 1%. BAT and Rio Tinto also declined more than 1%, while Unilever slipped about 0.7%. On the upside, Rolls-Royce gained around 1.5% and AstraZeneca also traded higher. UK markets scaled back expectations for Bank of England rate increases this year after inflation unexpectedly remained unchanged in May, supporting a more cautious approach from some policymakers ahead of Thursday’s meeting. Meanwhile, Brent fell to a three-month low after dropping 15% over four sessions on expectations that a US-Iran agreement to reopen the Strait of Hormuz could boost supply and reduce inflation pressures. Investors are now turning their focus to the Federal Reserve’s latest decision and its view on future policy."
-    },
-    {
-      "id": "4940244",
-      "time": "2026-06-17 15:25:48",
-      "tags": [
-        "國際"
-      ],
-      "text": "【日方決定延長持刀闖入中國使館的村田晃大的鑑定留置時間，繼續調查其是否具備刑事責任能力，外交部：再次敦促日方給中方一個負責任的交代】6月17日，外交部發言人林劍主持例行記者會。 有記者提問，據報道，針對日本自衛隊現役官員村田晃大非法持刀闖入中國駐日本使館，日本東京地方檢察廳決定延長對村田的鑑定留置時間，繼續調查其是否具備刑事責任能力。請問中方對此有何評論？ 林劍表示，日本自衛隊現役官員村田晃大非法持刀闖入中國駐日本使館案件發生已經過去了將近三個月，日方調查處置的程序緩慢，威脅中國駐日使領館安全的惡性事件還在不斷髮生。中方嚴重關切並多次提出交涉。此次的事件再次暴露出日本國記憶體在的諸多深層次的問題，包括日本國內右翼思潮和勢力猖獗，客觀理性的聲音受到壓制，日本政府在歷史、臺灣等涉及中日關係重大核心問題上的錯誤政策流毒深重，正確的歷史教育嚴重缺失，錯誤史觀大行其道，日本安保政策朝著進攻性、擴張性方向轉變。 日方對自衛隊失管失控，自衛隊內部失管失教。我們注意到一段時間以來，不少日方有識之士要求日政府對中方道歉，還有的敦促日政府對自衛隊內部管理、日方歷史教育及對華政策認真反思和整改，從根本上解決問題，剷除背後的社會土壤。我們再次敦促日方反思糾錯，徹底整改給中方一個負責任的交代。"
-    },
-    {
-      "id": "4940243",
-      "time": "2026-06-17 15:25:24",
-      "tags": [
-        "公司",
-        "市場",
-        "國際"
-      ],
-      "text": "【國信證券：首予海博思創“優於大市”評級，獨立儲能出貨有望快速增長】國信證券研報指出，海博思創26年第一季度實現歸母淨利潤2.0億元，同比+117%。公司是國內領先的大型儲能系統整合商，規模化交付能力持續驗證。公司長期聚焦電化學儲能系統研發、生產、銷售及服務，產品覆蓋大型儲能、工商業儲能及系統控制等多類場景，2025年公司累計裝機量超過50GWh。國內儲能需求由政策配儲轉向市場化收益驅動，公司獨立儲能出貨有望快速增長。近期公司簽訂美國2GWh儲能訂單，在北美市場實現重要突破，預期北美市場持續發展。該行認為公司合理價值區間為290.6-311.8元/股，對應2026年動態PE約26.1-28.0倍，相對當前股價具備約10%-18%上漲空間。首次覆蓋可考慮給予“優於大市”評級。"
-    },
-    {
-      "id": "4940242",
-      "time": "2026-06-17 15:23:50",
-      "tags": [
-        "其他"
-      ],
-      "text": "南非民主聯盟（DA）：希爾-劉易斯已要求拉馬福薩解除約翰·斯廷惠森農業部長的職務。"
-    },
-    {
-      "id": "4940241",
-      "time": "2026-06-17 15:23:10",
-      "tags": [
-        "公司",
-        "市場",
-        "央行",
-        "國際"
-      ],
-      "text": "【分析師：比特幣在美聯儲決議公佈前小幅走低】隨著投資者在美聯儲政策決議公佈前對風險資產表現出謹慎態度，比特幣小幅下跌。倫敦證券交易所集團的資料顯示，市場幾乎充分預期利率將維持不變，但焦點在於美聯儲新任主席凱文·沃什對未來政策的立場。德意志銀行分析師在一份報告中表示，沃什可能會傾向於美聯儲公開市場委員會的中間立場，既不主張降息，也不排除加息的可能性。與此同時，伊朗外交部長阿巴斯·阿拉格齊表示，與美國達成和平協議取決於以色列從黎巴嫩撤軍，如果沒有這一點，戰爭就沒有完全結束。倫敦證券交易所集團的資料顯示，比特幣下跌0.4%，至65,522美元。"
-    },
-    {
-      "id": "4940240",
-      "time": "2026-06-17 15:22:34",
-      "tags": [
-        "國際"
-      ],
-      "text": "【韓國計劃將“民統線”向北移動】韓國國防部17日釋出軍事設施管制改革方案，計劃自2027年起分階段將現在的韓朝邊境“民間人出入統制線”（簡稱“民統線”）向北移動，由現在的平均距離韓朝軍事分界線約8公里處調整至約6公里處。韓國國防部長官安圭伯17日表示，此舉旨在適應新的安全環境，在保障軍事作戰需求的同時，改善邊境居民生產和生活條件，促進地方發展。（新華社）"
-    },
-    {
-      "id": "te:economy:559625",
-      "time": "2026-06-17 15:22:34",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Austria",
-        "Inflation Rate",
-        "Importance 1"
-      ],
-      "text": "Austria Inflation Rate Confirmed at 3.7% — The annual inflation rate in Austria rose 3.7% in May 2026 from 3.4% in the previous month, matching preliminary estimates. This marked the highest reading since November 2025, driven by faster price growth in transportation (8.8% vs. 7.7% in April) and miscellaneous goods and services (4.8% vs. 3.9%). Meanwhile, inflation remained steady in housing and utilities (3.3%), recreation and culture (1.0%), education (5.4%), and insurance and financial services (4.2%). Additionally, deflation eased in information and communication (-1.0% vs. -2.3%). On the other hand, price growth moderated in food and non-alcoholic beverages (2.2% vs. 2.4%), alcoholic beverages and tobacco (2.0% vs. 3.5%), health (4.4% vs. 4.5%), and restaurants and hotels (4.7% vs. 4.9%). On a monthly basis, consumer prices increased 0.1% in May, slowing from a 0.4% rise in the previous month. The harmonised inflation rate (HICP) also accelerated to 3.7% year-on-year from 3.4% in April."
-    },
-    {
-      "id": "4940239",
-      "time": "2026-06-17 15:22:30",
-      "tags": [
-        "市場"
-      ],
-      "text": "【中國駐巴布亞紐幾內亞大使館提醒中國公民和機構切勿參與黃金走私、電信詐騙違法活動】近日，巴布亞紐幾內亞再次發生我公民因涉非法開採砂金和走私黃金被當地執法部門查獲、羈押和遣返等案件。同時，也出現電信詐騙苗頭。中國駐巴布亞紐幾內亞大使館再次鄭重提醒在巴新中國公民和機構，切勿從事非法採金和走私黃金活動，切實增強安全風險意識、確保人身財產安全，從事採金的中國企業應及時向使館報備。不參與、不協助、不隱瞞電信詐騙，警惕可疑人員、可疑活動，堅決抵制電信詐騙。發現可疑苗頭，及時舉報。如遇緊急情況第一時間報警並與中國駐巴新大使館聯絡尋求幫助。"
-    },
-    {
-      "id": "mkt:019ed475-98a5-7dd8-b046-3d409073e2f6",
-      "time": "2026-06-17 15:22:16",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "DXY",
-        "US10Y",
-        "S&P500"
-      ],
-      "text": "【LBBW: New Fed chair Walsh's first press conference to be market focus】LBBW analysts say investors will focus on new Fed chair Kevin Walsh’s first press conference on Wednesday and expect his communication to be more restrained. The Fed is expected to hold policy rates at 3.50%–3.75% this month."
-    },
-    {
-      "id": "4940238",
-      "time": "2026-06-17 15:22:13",
-      "tags": [
-        "公司"
-      ],
-      "text": "【美圖釋出奇想大模型V6，支援多模態輸入】美圖公司在2026美圖影像節上正式釋出了美圖奇想大模型V6，該模型支援文字、影象、影片、音訊等多模態輸入。此外，創始人吳欣鴻還宣佈設立了1億元的孵化基金，面向全球AI開發者徵集影像產品。參賽標準包括產品需為AI原生應用、與美圖影像賽道相關、已上線且具備種子使用者。"
-    },
-    {
-      "id": "mkt:019ed475-6b1e-7dd8-b046-3484df399cdd",
-      "time": "2026-06-17 15:22:05",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【ByteDance launches nationwide request for expressions of interest for integrated testing vendors for self-built data centers】ByteDance issued a nationwide request for expressions of interest (EOI) to build a framework pool of integrated testing and validation service providers for its self-built data-center facilities. It seeks vendors with large data-center testing capabilities. Required services include project documentation review, process inspections, equipment functional verification, room and subsystem performance testing, in-room system energy-efficiency testing, system integration testing and delivery of full test reports. Scope covers single-building delivered IT capacity of approximately 22MW–60MW."
     }
   ]
 }
