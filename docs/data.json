@@ -1,7 +1,159 @@
 {
-  "updated": "2026-06-24 21:41:29",
-  "count": 17260,
+  "updated": "2026-06-24 21:45:32",
+  "count": 17268,
   "items": [
+    {
+      "id": "4952971",
+      "time": "2026-06-24 21:44:43",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "20號膠連續主力合約日內跌4%，現報15015.00元。"
+    },
+    {
+      "id": "4952970",
+      "time": "2026-06-24 21:44:40",
+      "tags": [
+        "公司"
+      ],
+      "text": "菲利普斯66執行長表示，公司已將煉油業務每桶成本削減約1美元；目標是將加州地區成本降至每桶5.50美元，其他地區降至每桶15美元。"
+    },
+    {
+      "id": "4952969",
+      "time": "2026-06-24 21:44:26",
+      "tags": [
+        "市場"
+      ],
+      "text": "SpaceX股價下跌2.7%。"
+    },
+    {
+      "id": "te:markets:561564",
+      "time": "2026-06-24 21:44:15",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "BlackRock Stock Price Hits 10-week Low — BlackRock shares decreased to 982.40 USD, the lowest since April 2026. Over the past 4 weeks, BlackRock lost 8.51%, and in the last 12 months, it decreased 3.18%."
+    },
+    {
+      "id": "4952968",
+      "time": "2026-06-24 21:43:57",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：幣安已與愛爾蘭、拉脫維亞、希臘三方溝通，但遭遇阻力。"
+    },
+    {
+      "id": "4952967",
+      "time": "2026-06-24 21:43:28",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "納斯達克中國金龍指數跌超1%，金生遊樂跌14.84%，海天網路跌5.75%，金山雲跌3.69%，新氧跌2.72%，京東跌1.93%。"
+    },
+    {
+      "id": "mkt:019ef9de-d415-7dd8-b0fb-55a8b2abe5d1",
+      "time": "2026-06-24 21:43:10",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "DAX",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish",
+        "EURUSD"
+      ],
+      "text": "Italy's FTSE MIB index fell as much as 1.00% intraday."
+    },
+    {
+      "id": "4952966",
+      "time": "2026-06-24 21:43:08",
+      "tags": [
+        "其他"
+      ],
+      "text": "義大利富時MIB指數日內跌幅達1.00%。"
+    },
+    {
+      "id": "4952965",
+      "time": "2026-06-24 21:43:01",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "據美國紐約聯儲資料，上個交易日（6月23日）擔保隔夜融資利率（SOFR）報3.62%，之前一天報3.61%。上個交易日有效的聯邦基金利率報3.63%，之前一天報3.63%。"
+    },
+    {
+      "id": "te:markets:561561",
+      "time": "2026-06-24 21:42:53",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "Abbott Stock Price Hits 8-week High — Abbott shares increased to 92.74 USD, the highest since April 2026. Over the past 4 weeks, Abbott gained 6.87%, and in the last 12 months, it decreased 32.59%."
+    },
+    {
+      "id": "4952964",
+      "time": "2026-06-24 21:42:44",
+      "tags": [
+        "市場",
+        "焦點",
+        "國際"
+      ],
+      "text": "紐約原油期貨主力合約價格24日盤中跌破每桶70美元，為伊朗戰事爆發以來首次。（新華社）"
+    },
+    {
+      "id": "mkt:019ef9de-64df-7dd8-b0fb-4a1ea025c36f",
+      "time": "2026-06-24 21:42:42",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "XOM.N",
+        "Impact bearish",
+        "CVX.N",
+        "OXY.N"
+      ],
+      "text": "US energy stocks fell: Chevron (CVX.N) down 2.3%, ExxonMobil (XOM.N) down 2.5%, ConocoPhillips (COP.N) down 2.7%, Occidental Petroleum (OXY.N) down 3.0%."
+    },
+    {
+      "id": "4952963",
+      "time": "2026-06-24 21:42:35",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：幣安承諾留守歐盟，將重新遞交當地運營牌照申請。"
+    },
+    {
+      "id": "te:markets:561560",
+      "time": "2026-06-24 21:41:44",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "J&J Stock Price Hits 10-week High — J&J shares increased to 241.72 USD, the highest since April 2026. Over the past 4 weeks, Johnson & Johnson gained 4.9%, and in the last 12 months, it increased 58.65%."
+    },
+    {
+      "id": "4952962",
+      "time": "2026-06-24 21:41:40",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "美國能源企業股價下跌，因油價跌至伊朗戰爭爆發以來最低點，跌幅近4%。雪佛龍下跌2.3%，埃克森美孚下跌2.5%，康菲石油下跌2.7%。西方石油公司股價下跌3%，APA公司股價下跌3.5%。瓦萊羅能源股價下跌2.3%，德文能源股價下跌2.7%。"
+    },
     {
       "id": "4952961",
       "time": "2026-06-24 21:40:51",
@@ -157880,77 +158032,6 @@
         "國際"
       ],
       "text": "花旗上調多隻半導體裝置股目標價後，美國半導體裝置製造商股價大漲。應用材料上漲9%，泛林集團上漲6.8%，科磊上漲5.2%。"
-    },
-    {
-      "id": "mkt:019ed5d4-653a-7dd8-b052-c519289cab7f",
-      "time": "2026-06-17 21:45:26",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "Treasury Yields",
-        "S&P500",
-        "Impact bullish",
-        "XAUUSD",
-        "DXY",
-        "Impact bearish"
-      ],
-      "text": "【Strategist: Fed least wants 10-year Treasury yield to spike】LPL Financial chief equity strategist Jeff Buchbinder said investors are watching the Fed’s new chair’s first press conference for signals on inflation, unemployment and the economic outlook. The 10-year US Treasury yield is trading around 4.43%. Buchbinder said the Fed least wants to see a sharp rise in the 10-year yield; keeping it below 4.5% is critical, particularly with oil prices already down. He said investors should not expect the Fed to act quickly."
-    },
-    {
-      "id": "4941217",
-      "time": "2026-06-17 21:44:22",
-      "tags": [
-        "其他"
-      ],
-      "text": "【上海等八地電商協會發布“618”倡議：杜絕“先漲後降”“明降暗升”等套路】臨近“618”電商大促，北京、上海、安徽、浙江杭州、江蘇、廣東、山東及四川等8地的電子商務相關協會已經發布倡議書。倡議書裡都要求商家在大促期間誠信促銷、合規經營。（澎湃）"
-    },
-    {
-      "id": "te:markets:559746",
-      "time": "2026-06-17 21:43:54",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "stocks",
-        "Importance 1"
-      ],
-      "text": "Comcast Stock Price Hits 14-1/2-year Low — Comcast shares decreased to 23.12 USD, the lowest since December 2011. Over the past 4 weeks, Comcast lost 6.82%, and in the last 12 months, it decreased 32.73%."
-    },
-    {
-      "id": "4941216",
-      "time": "2026-06-17 21:43:23",
-      "tags": [
-        "市場",
-        "觀點",
-        "國際"
-      ],
-      "text": "【摩根士丹利：如果霍爾木茲海峽重新開放，歐洲銀行股料將反彈】摩根士丹利分析師在一份報告中寫道，如果霍爾木茲海峽重新開放，到今年年底，歐洲銀行的股市估值應會升至其盈利的11至12倍。貸款規模的增長將快於目前的預期，同時銀行手續費的增速也快於摩根士丹利分析師的預測。摩根士丹利的分析師表示，歐洲銀行創造的利潤與金融危機前的水平相當，儘管估值尚未跟上。摩根士丹利的分析師指出，投資者青睞增長，因此風險追逐型的市場反彈將給德意志銀行和法國興業銀行等投資銀行帶來最大回報。他們表示，雖然AI可能會加劇銀行業之間的存款競爭，但該技術更廣泛的促增長效益將大於任何利潤率壓縮的影響。一項歐洲銀行指標上漲1.4%。"
-    },
-    {
-      "id": "4941215",
-      "time": "2026-06-17 21:42:39",
-      "tags": [
-        "公司",
-        "觀點"
-      ],
-      "text": "【摩根士丹利高浩灃：中國市場“應流入”的資金遠未到位】在2026陸家嘴論壇上，摩根士丹利亞洲執行長兼股票部全球聯席主管高浩灃（Gokul Laroia）表示，受人工智慧等驅動，全球投資者對中國市場的興趣持續升溫，而當前已流入的資本規模，相較於“應該流入、也實際需要流入”的體量，仍只是很小一部分。"
-    },
-    {
-      "id": "4941214",
-      "time": "2026-06-17 21:42:37",
-      "tags": [
-        "其他"
-      ],
-      "text": "SHARONAI股價飆升21%；宣佈超額認購的16億美元戰略融資，以加速在澳大利亞及亞太地區擴充套件人工智慧工廠。"
-    },
-    {
-      "id": "4941213",
-      "time": "2026-06-17 21:41:56",
-      "tags": [
-        "市場"
-      ],
-      "text": "【興業證券劉鬱：特定情景給予非銀機構支援，意在及時平抑流動性短缺】6月17日，中國人民銀行行長潘功勝在2026陸家嘴論壇上表示，將研究設立特定情景非銀流動性支援宏觀審慎工具。對此，興業證券首席經濟學家劉鬱在接受中國證券報·中證金牛座記者採訪時表示，在特定情景下給予非銀機構的支援，將能夠鼓勵機構在日常經營中嚴格遵守宏觀審慎要求。在劉鬱看來，近年來，隨著非銀產品規模快速擴張，其內部所面臨的流動性風險，也容易透過機構行為，放大為對整個市場的衝擊，典型案例包括2022年末的理財贖回負反饋和2025年三季度債基產品的集中降久期。在這兩段風波中，10年國債收益率的上行幅度均超過20bp。（中證報）"
     }
   ]
 }
