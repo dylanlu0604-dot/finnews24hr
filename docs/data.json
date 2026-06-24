@@ -1,7 +1,126 @@
 {
-  "updated": "2026-06-25 04:30:28",
-  "count": 17015,
+  "updated": "2026-06-25 04:34:43",
+  "count": 17026,
   "items": [
+    {
+      "id": "mkt:019efb57-12a3-7dd8-b104-cafa3b6b2586",
+      "time": "2026-06-25 04:34:08",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. President Trump said he may take action on fighter-jet sales to Turkey."
+    },
+    {
+      "id": "4953483",
+      "time": "2026-06-25 04:34:04",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "美光釋出財報後，盤後晶片股普漲；英特爾漲 4.4%，AMD 漲 3.4%，英偉達上漲 0.6%。"
+    },
+    {
+      "id": "mkt:019efb56-c916-7dd8-b104-c0d75c4266ea",
+      "time": "2026-06-25 04:33:49",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "S&P500",
+        "Impact bullish",
+        "Nasdaq100",
+        "Dow"
+      ],
+      "text": "【Wall Street banks pass Fed stress test, clear way for tens of billions in buybacks and dividends】All major US banks passed the Fed's annual stress test, clearing the way for tens of billions of dollars in share buybacks and dividends. The Fed said 2026 results will not affect capital requirements as it continues to revise the exercise to be more favorable to banks. The test covered 32 large bank holding companies under a severe global shock — commercial real estate down 39%, residential prices down 30%, unemployment peaking at 10% — and assumed lenders would absorb more than $708bn of loan losses. Regulators said aggregate capital fell only 1.6 percentage points and remained above minimum requirements."
+    },
+    {
+      "id": "4953482",
+      "time": "2026-06-25 04:33:00",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普談及向土耳其交付戰機一事：認為此舉會讓土方滿意。"
+    },
+    {
+      "id": "4953481",
+      "time": "2026-06-25 04:32:41",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普談及北約峰會：此舉是出於對埃爾多安的尊重。"
+    },
+    {
+      "id": "mkt:019efb55-a46e-7dd8-b104-bc48e38348f4",
+      "time": "2026-06-25 04:32:34",
+      "tags": [
+        "MKT News",
+        "GS.N",
+        "Impact bullish"
+      ],
+      "text": "Goldman Sachs (GS.N) plans to raise its dividend from $4.50 to $5.00."
+    },
+    {
+      "id": "4953480",
+      "time": "2026-06-25 04:32:09",
+      "tags": [
+        "公司",
+        "其他",
+        "焦點",
+        "國際"
+      ],
+      "text": "富國銀行將每股股息從 0.45 美元上調至 0.50 美元。"
+    },
+    {
+      "id": "mkt:019efb55-04ab-7dd8-b104-b3df2a50a500",
+      "time": "2026-06-25 04:31:53",
+      "tags": [
+        "MKT News",
+        "MS.O",
+        "Impact bullish"
+      ],
+      "text": "Morgan Stanley raised its quarterly dividend by $0.15 to $1.15 per share and reauthorized a $20 billion multi-year common stock repurchase program."
+    },
+    {
+      "id": "mkt:019efb54-a401-7dd8-b104-ac13ce7a3fa7",
+      "time": "2026-06-25 04:31:28",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "Chip Wars",
+        "QCOM.O",
+        "Impact bullish"
+      ],
+      "text": "Qualcomm and Hugging Face expand their partnership to advance open, developer-driven AI across device-to-cloud environments."
+    },
+    {
+      "id": "4953479",
+      "time": "2026-06-25 04:31:26",
+      "tags": [
+        "市場"
+      ],
+      "text": "美光公佈業績後，閃迪盤後股價上漲 11.8%。"
+    },
+    {
+      "id": "4953478",
+      "time": "2026-06-25 04:30:30",
+      "tags": [
+        "公司",
+        "觀點",
+        "焦點",
+        "國際"
+      ],
+      "text": "摩根士丹利：每股股息上調 15 美分至 1.15 美元，重新批准一項規模 200 億美元的多年期普通股回購計劃。"
+    },
+    {
+      "id": "4953476",
+      "time": "2026-06-25 04:30:03",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：我欣賞土耳其總統埃爾多安。"
+    },
     {
       "id": "4953475",
       "time": "2026-06-25 04:29:42",
@@ -155461,14 +155580,6 @@
         "Importance 1"
       ],
       "text": "The Dow Jones Index Closes 0.99% Lower — The Dow Jones Index fell 514 points or 0.99 percent on Wednesday to close at 51486 points. Leading the losses are Salesforce (-4.16%), Microsoft (-3.80%) and Amazon (-3.48%). Top gainers were Caterpillar (1.01%), Goldman Sachs (0.77%) and JPMorgan (0.71%)."
-    },
-    {
-      "id": "4941841",
-      "time": "2026-06-18 04:31:45",
-      "tags": [
-        "市場"
-      ],
-      "text": "【美元指數17日上漲】美元指數17日上漲。衡量美元對六種主要貨幣的美元指數當天上漲0.55%，在匯市尾市收於100.091。截至紐約匯市尾市，1歐元兌換1.1539美元，低於前一交易日的1.1610美元；1英鎊兌換1.3338美元，低於前一交易日的1.3429美元。1美元兌換160.50日元，高於前一交易日的160.44日元；1美元兌換0.7971瑞士法郎，高於前一交易日的0.7931瑞士法郎；1美元兌換1.4071加元，高於前一交易日的1.3993加元；1美元兌換9.4610瑞典克朗，高於前一交易日的9.3618瑞典克朗。"
     }
   ]
 }
