@@ -1,7 +1,66 @@
 {
-  "updated": "2026-06-25 01:50:58",
-  "count": 17221,
+  "updated": "2026-06-25 01:54:52",
+  "count": 17224,
   "items": [
+    {
+      "id": "mkt:019efac4-c57b-7dd8-b101-aae4debf813a",
+      "time": "2026-06-25 01:54:20",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "UAE state news agency says the government has awarded the development concession for the Bab gas cap to Abu Dhabi National Oil Company (ADNOC) and its partners."
+    },
+    {
+      "id": "4953289",
+      "time": "2026-06-25 01:53:50",
+      "tags": [
+        "公司"
+      ],
+      "text": "阿聯酋將巴布氣田氣頂開發特許權授予阿布扎比國家石油公司及其合作伙伴。"
+    },
+    {
+      "id": "4953288",
+      "time": "2026-06-25 01:52:36",
+      "tags": [
+        "市場"
+      ],
+      "text": "現貨白銀日內跌7%，現報57.21美元/盎司。"
+    },
+    {
+      "id": "mkt:019efac2-1732-7dd8-b101-a375041a183f",
+      "time": "2026-06-25 01:51:24",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals"
+      ],
+      "text": "Spot silver fell 7.00% intraday to $57.23/oz; spot palladium fell 6.00% to $1,154.40/oz."
+    },
+    {
+      "id": "te:economy:561630",
+      "time": "2026-06-25 01:51:11",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Brazil",
+        "Government Bond 10Y",
+        "Importance 1"
+      ],
+      "text": "Brazil 10-Year Yield Eases After Copom Minutes — Brazil’s 10-year government bond yield edged down to 14.4% in late June after the release of the minutes from the latest Copom meeting, in which the benchmark Selic rate was cut by 25 basis points to 14.25% per year. The view that Copom left the door open for further Selic cuts helped ease the Brazilian yield curve. Still, the minutes struck a slightly more hawkish tone than the initial statement, explicitly describing the inflation risk balance as asymmetric and tilted to the upside. Meanwhile, the US Federal Reserve adopted a more hawkish stance at its latest meeting, with policymakers signaling additional rate hikes by December. The shift led investors to scale back expectations for monetary easing, limiting the decline in bond yields."
+    },
+    {
+      "id": "4953287",
+      "time": "2026-06-25 01:50:36",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "白銀連續主力合約日內跌7%，現報13853.00元。"
+    },
     {
       "id": "4953286",
       "time": "2026-06-25 01:50:25",
@@ -157776,46 +157835,6 @@
         "國際"
       ],
       "text": "美聯儲決議宣告發布前，標普500指數大致持平，道指漲0.3%，納指漲0.2%，半導體指數漲3.6%，銀行指數漲1.3%。美元指數漲0.1%，美元兌日元跌0.16%，歐元兌美元跌0.1%，英鎊兌美元跌0.2%。現貨黃金漲1.1%，白銀漲1.8%。美國10年期國債收益率跌1.38個基點，報4.4256%，兩年期美債收益率漲幅收窄至不足0.5個基點。"
-    },
-    {
-      "id": "mkt:019ed6b7-8075-7dd8-b05d-0ce8bf0c1ab7",
-      "time": "2026-06-18 01:53:30",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "US10Y",
-        "Impact bearish",
-        "DXY",
-        "Impact bullish",
-        "S&P500"
-      ],
-      "text": "【Analyst: Wash faces major credibility test at first Fed rate decision】Analyst Marte said this week's Fed meeting is Wash's first major credibility test as Fed chair; investors, policymakers and the public are watching whether he will defend the Fed's political independence. Trump has publicly urged independence on rate-setting but continues to signal a preference for lower borrowing costs. Some investors warn that if Wash fails to send a strong inflation signal he risks losing control of the bond market. April CPI rose 4.2% YoY, the fastest in over three years. Any impression the new chair intends to alter the Fed's 2% inflation target could push yields higher and further restrain the economy, running counter to Trump's objectives. A US–Iran peace deal could ease some fuel-price pressure, but pass-through to consumers would likely be delayed."
-    },
-    {
-      "id": "mkt:019ed6b6-4ff4-7dd8-b05d-025191ec7486",
-      "time": "2026-06-18 01:52:12",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "DXY",
-        "Impact bullish",
-        "US10Y",
-        "XAUUSD",
-        "Impact bearish"
-      ],
-      "text": "Societe Generale head of US research Rajappa said core inflation will become the Fed's real concern."
-    },
-    {
-      "id": "mkt:019ed6b5-b391-7dd8-b05c-fb3fd976c0b9",
-      "time": "2026-06-18 01:51:32",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact mixed"
-      ],
-      "text": "JP Morgan global fixed income head Michelle said the oil-price shock is to some extent temporary."
     }
   ]
 }
