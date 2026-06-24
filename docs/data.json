@@ -1,7 +1,62 @@
 {
-  "updated": "2026-06-25 02:25:10",
-  "count": 17184,
+  "updated": "2026-06-25 02:29:16",
+  "count": 17185,
   "items": [
+    {
+      "id": "mkt:019efae3-d171-7dd8-b102-53376be8fbea",
+      "time": "2026-06-25 02:28:14",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "According to Punchbowl, a Republican senator called Trump's meeting \"more like a venting session by the president.\""
+    },
+    {
+      "id": "4953330",
+      "time": "2026-06-25 02:28:13",
+      "tags": [
+        "市場"
+      ],
+      "text": "隨著成交量放大，Alphabet股價小幅回落，最新下跌約0.1%，報345.89美元。"
+    },
+    {
+      "id": "mkt:019efae3-11f4-7dd8-b102-4c98cc3d31ae",
+      "time": "2026-06-25 02:27:25",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Market sources: President Trump spent roughly 90% of a lunch with Republican lawmakers criticizing Lisa Murkowski, Bill Cassidy and Mitch McConnell as RINOs."
+    },
+    {
+      "id": "4953329",
+      "time": "2026-06-25 02:26:22",
+      "tags": [
+        "國際"
+      ],
+      "text": "【特朗普正與參議院共和黨議員爆發一場公開激烈對峙】美國參議院共和黨人遲遲未能透過《拯救美國法案》，這令特朗普頗為惱火；而黨內不少議員如今也對他心生不滿——由於該法案推進陷入停滯，特朗普取消了原定今日舉行的法案簽署儀式。黨內的緊張矛盾，疊加伊朗局勢不斷升級，預計將成為今日特朗普與參議院共和黨閉門午餐會的核心討論議題。此次分歧凸顯出共和黨內部的一道裂痕。自特朗普以自身政治主張重塑共和黨以來，黨內如此明顯的對立局面實屬罕見。"
+    },
+    {
+      "id": "te:markets:561635",
+      "time": "2026-06-25 02:25:29",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "Danaher Stock Price Hits 9-week High — Danaher shares increased to 189.23 USD, the highest since April 2026. Over the past 4 weeks, Danaher gained 9.31%, and in the last 12 months, it decreased 6.02%."
+    },
+    {
+      "id": "te:markets:561634",
+      "time": "2026-06-25 02:25:06",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Agricultural Commodities Updates: Cocoa Rallies by 7.26% — Top commodity gainers are Cocoa (7.26%) and Coffee (0.65%). Biggest losers are Oat (-6.34%) and Cotton (-2.90%)."
+    },
     {
       "id": "4953328",
       "time": "2026-06-25 02:23:44",
@@ -157194,71 +157249,6 @@
         "XAUUSD"
       ],
       "text": "【Goldman Sachs: Fed can barely avoid a hike; inflation is the key variable】Goldman Sachs Asset Management analyst Kay Haigh said today's Fed decision confirms the recent hawkish shift is not solely driven by higher oil. Despite a pullback in oil, half of FOMC participants expect a rate increase as early as this year, reflecting a strong labor market and inflation prints. Goldman’s base case remains that the Fed can narrowly avoid raising rates, but the path is tight and incoming inflation data will carry high weight."
-    },
-    {
-      "id": "mkt:019ed6d7-91cf-7dd8-b05e-b6354ed177cc",
-      "time": "2026-06-18 02:28:32",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "DXY",
-        "Impact bullish",
-        "WTI",
-        "US10Y",
-        "Impact bearish"
-      ],
-      "text": "【Middle East conflict reshapes Fed expectations: nearly half of policymakers shift toward rate-hike outlook; inflation forecasts revised up】Nearly half of Federal Reserve policymakers no longer believe that holding borrowing costs steady would be sufficient to bring inflation back to 2% if oil prices spike after a war involving Iran. The Fed's latest dot plot shows views on the rate path shifting from how long to hold rates before cuts to growing concern about the need for additional hikes; some officials now expect rate increases. Wednesday's projections revised inflation sharply higher since March: median PCE YoY is now seen at 3.6% by year-end (March: 2.7%), median core PCE YoY at 3.3% (March: 2.7%). Median year-end unemployment is 4.3% — matching May's reading and below March's 4.4% — indicating policymakers increasingly see the labor market as not weakening and reducing the case for rate cuts."
-    },
-    {
-      "id": "em:qqyh_mlc:202606183775041186",
-      "time": "2026-06-18 02:26:48",
-      "tags": [
-        "央行",
-        "美聯儲"
-      ],
-      "text": "利率期貨定價美聯儲到年底將加息30個基點，較美聯儲利率決議前上升約9個基點。"
-    },
-    {
-      "id": "mkt:019ed6d5-896b-7dd8-b05e-ab9930cc973b",
-      "time": "2026-06-18 02:26:18",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "US10Y",
-        "Impact bearish",
-        "DXY",
-        "Impact bullish",
-        "S&P500"
-      ],
-      "text": "Interest-rate futures price a cumulative 30bp of Fed tightening by year-end, about 9bp higher than immediately before the Fed policy decision."
-    },
-    {
-      "id": "te:markets:559802",
-      "time": "2026-06-18 02:25:50",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Currency",
-        "Importance 2"
-      ],
-      "text": "Dollar Rallies After Fed — The dollar Index rose above 100 on Wednesday as traders digested the latest FOMC decision. The Federal Reserve left interest rates unchanged, as widely expected, in Kevin Warsh’s first meeting as Fed Chair. However, policymakers’ projections were interpreted as more hawkish than anticipated, with roughly half of FOMC members expecting at least one rate hike this year. The Fed also sharply revised upward its inflation forecasts. The 2026 PCE inflation projection was raised to 3.6% from 2.7% in the March forecast, while core PCE inflation is now expected to reach 3.3%, up from 2.7% previously. Traders have now fully priced in a quarter-point Fed rate hike by the end of the year. The greenback strengthened broadly, posting its largest gains against the British pound and the euro."
-    },
-    {
-      "id": "te:economy:559801",
-      "time": "2026-06-18 02:25:24",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "United States",
-        "Government Bond 10Y",
-        "Importance 1"
-      ],
-      "text": "US 10-Year Yield Rebounds After Fed — The yield on the 10-year US Treasury note erased losses to hover at the 4.46% mark on Wednesday after the Federal Reserve held interest rates unchanged and projected the possibility of a rate hike this year. The Summary of Economic Projections showed that nearly half of the FOMC projected that at least one rate hike may be warranted this year, aligned with the upward revision to core inflation and lower expectations of unemployment. The pivot followed a batch of data pointing to higher underlying price growth following the war in the Middle East and its impact on energy prices, although labor market gauges remained robust. Notably, new Chairman Kevin Warsh refrained from penciling in his projections, reflecting continuity to his pushback against forward guidance by the Fed. The Chairman had also called for a smaller balance sheet for the central bank, particularly regarding longer term Treasury notes and bonds."
     }
   ]
 }
