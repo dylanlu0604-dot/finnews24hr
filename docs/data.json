@@ -1,7 +1,245 @@
 {
-  "updated": "2026-06-24 19:46:55",
-  "count": 17245,
+  "updated": "2026-06-24 19:51:09",
+  "count": 17251,
   "items": [
+    {
+      "id": "mkt:019ef977-a55f-7dd8-b0f8-0cd44957c04d",
+      "time": "2026-06-24 19:50:28",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish"
+      ],
+      "text": "WTI crude futures slid below $71/bbl, down 3.03% intraday."
+    },
+    {
+      "id": "mkt:019ef977-7b8a-7dd8-b0f8-05ff98f58096",
+      "time": "2026-06-24 19:50:17",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals"
+      ],
+      "text": "Spot silver fell 3.00% intraday to $59.69/oz."
+    },
+    {
+      "id": "mkt:019ef977-6672-7dd8-b0f7-ff2fee163cfa",
+      "time": "2026-06-24 19:50:12",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy",
+        "S&P500",
+        "Impact bullish"
+      ],
+      "text": "U.S. Treasury Secretary Bessent said he expects the economy to accelerate over the remainder of the year without pushing up inflation."
+    },
+    {
+      "id": "mkt:019ef977-579c-7dd8-b0f7-f3f822a44aa2",
+      "time": "2026-06-24 19:50:08",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "【Unitree R1 humanoid robot price cut to 29,900 yuan; in‑stock sales begin】Unitree Technology said the official price of its bipedal humanoid Unitree R1 has been reduced from 39,900 yuan to start at 29,900 yuan, and the model is available for immediate in‑stock purchase. The 25 kg robot has 26 high‑precision joints, supports voice and image multimodal interaction with large models, and offers development and customization capabilities."
+    },
+    {
+      "id": "4952709",
+      "time": "2026-06-24 19:49:48",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "WTI原油失守71美元/桶，日內跌3.03%。"
+    },
+    {
+      "id": "4952708",
+      "time": "2026-06-24 19:49:47",
+      "tags": [
+        "市場"
+      ],
+      "text": "WTI原油日內跌3%，現報71.01美元/桶。"
+    },
+    {
+      "id": "4952707",
+      "time": "2026-06-24 19:49:40",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國財長貝森特： 預計今年剩餘時間，經濟將無通脹壓力地加速增長。"
+    },
+    {
+      "id": "4952706",
+      "time": "2026-06-24 19:49:30",
+      "tags": [
+        "其他"
+      ],
+      "text": "【聯想聯合中國移動芯昇科技等釋出全球首款AI可信一體機】2026 MWC上海期間，聯想聯合中國移動旗下芯昇科技、熠序科技釋出全球首款AI可信一體機。此外，聯想在大會上推出了支援eSIM的多款智慧終端，如聯想moto手機、聯想拯救者電競手機，以及聯想小新、YOGA、拯救者等多款AI平板。"
+    },
+    {
+      "id": "4952705",
+      "time": "2026-06-24 19:49:20",
+      "tags": [
+        "公司"
+      ],
+      "text": "【精智達：與多方簽署2億元投資基金合夥協議】精智達公告稱，6月23日，公司與相關方簽署《南京精智達清源創業投資合夥企業（有限合夥）合夥協議》。該基金擬定規模2億元，存續期8年，聚焦半導體等領域產業投資。公司作為有限合夥人，以自有資金認繳出資5400萬元，佔比27%。本次投資可能受多種因素影響，存在募資不足、收益不達預期等風險，不納入公司合併報表，不會對公司經營及財務狀況產生重大不利影響。"
+    },
+    {
+      "id": "4952704",
+      "time": "2026-06-24 19:49:11",
+      "tags": [
+        "其他"
+      ],
+      "text": "【中科曙光萬卡叢集儲存重新整理IO500榜單全球紀錄】6月24日，最新一期IO500全球儲存效能榜單在德國ISC 2026期間正式釋出。記者獲悉，中科曙光ParaStor F9000分散式全快閃記憶體儲系統包攬生產型總榜與10節點挑戰榜兩項冠軍，並重新整理世界紀錄。據瞭解，該儲存系統已在數萬卡叢集中穩定執行超過一年，持續支撐大模型訓練與科學計算等關鍵負載，並聯合龍訊曠騰MatPL軟體，依託scaleX萬卡級算力平臺，完成414.7億原子規模液態水分子動力學模擬計算，重新整理該領域世界紀錄。（科創板日報）"
+    },
+    {
+      "id": "4952703",
+      "time": "2026-06-24 19:48:30",
+      "tags": [
+        "公司"
+      ],
+      "text": "【深科達：實際控制人及其一致行動人、5%以上股東擬合計減持不超過3%股份】深科達公告，因自身資金需求，公司實際控制人黃奕宏及其一致行動人深科達投資、黃奕奮計劃透過集中競價及大宗交易方式合計減持不超過212.53萬股，佔公司總股本2.25%；持股5%以上股東肖演加計劃透過集中競價及大宗交易方式減持不超過70.84萬股，佔公司總股本0.75%。減持期間為2026年7月16日至2026年10月14日，減持價格根據市場價格確定。若減持期間公司發生送紅股、資本公積金轉增股本等事項，擬減持數量將相應調整。"
+    },
+    {
+      "id": "4952702",
+      "time": "2026-06-24 19:48:27",
+      "tags": [
+        "公司"
+      ],
+      "text": "萊茵金屬股份公司：萊茵金屬地面系統有限責任公司與GEK TERNA股份公司簽署合作協議，旨在提升希臘國防工業能力。"
+    },
+    {
+      "id": "4952701",
+      "time": "2026-06-24 19:48:20",
+      "tags": [
+        "國際"
+      ],
+      "text": "貝森特：整體來看，依託美國經濟增長，美元有望維持強勢。"
+    },
+    {
+      "id": "4952700",
+      "time": "2026-06-24 19:48:19",
+      "tags": [
+        "市場"
+      ],
+      "text": "現貨白銀日內跌3%，現報59.64美元/盎司。"
+    },
+    {
+      "id": "mkt:019ef975-76a3-7dd8-b0f7-ee67b888a7d3",
+      "time": "2026-06-24 19:48:05",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "XAUUSD",
+        "Impact bearish",
+        "WTI"
+      ],
+      "text": "U.S. Treasury Secretary Bessent said the dollar can remain strong during a period of rate cuts."
+    },
+    {
+      "id": "4952699",
+      "time": "2026-06-24 19:48:01",
+      "tags": [
+        "其他"
+      ],
+      "text": "貝森特：即便降息，美元依舊能夠保持強勢。"
+    },
+    {
+      "id": "4952698",
+      "time": "2026-06-24 19:47:56",
+      "tags": [
+        "公司"
+      ],
+      "text": "【星源材質：公司與專業投資機構共同投資設立產業基金 認繳出資額人民幣1.51億元】星源材質公告，公司與遠致儲能、科發資本、新型儲能、產業投資共同投資設立產業基金，基金計劃認繳規模為人民幣5億元。公司作為有限合夥人擬以自有資金認繳出資額人民幣1.51億元，佔比30.20%；產業投資認繳出資額人民幣9800萬元，佔比19.60%；新型儲能認繳出資額人民幣2.49億元，佔比49.80%；普通合夥人遠致儲能、科發資本各認繳出資額人民幣100萬元，各佔比0.20%。產業基金主要投資於新型儲能全產業鏈領域的重點專案。"
+    },
+    {
+      "id": "4952697",
+      "time": "2026-06-24 19:47:39",
+      "tags": [
+        "公司"
+      ],
+      "text": "【*ST智勝：公司股票將撤銷退市風險警示並變更簡稱】*ST智勝公告稱，公司股票將於2026年6月25日開市起停牌1天，6月26日開市起復牌並撤銷退市風險警示。股票簡稱由“*ST智勝”變更為“川大智勝”，程式碼仍為“002253”，漲跌幅限制由5%變為10%。2025年度扣除後營收3.23億元，利潤總額虧損2.88億元，歸母淨利潤虧損2.43億元。此前因2024年度財務指標觸及相關情形，公司股票自2025年4月29日起被實施退市風險警示。"
+    },
+    {
+      "id": "mkt:019ef974-d62e-7dd8-b0f7-e1d0a16f1e10",
+      "time": "2026-06-24 19:47:24",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "Brent",
+        "Impact bearish"
+      ],
+      "text": "Brent crude slipped below $75 a barrel, down 2.16% intraday."
+    },
+    {
+      "id": "mkt:019ef974-741e-7dd8-b0f7-dcf0a748603f",
+      "time": "2026-06-24 19:46:59",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy",
+        "DXY",
+        "Impact bullish",
+        "USDJPY",
+        "EURUSD",
+        "Impact bearish"
+      ],
+      "text": "U.S. Treasury Secretary Bessent said the Treasury is willing to take appropriate measures to keep the dollar strong."
+    },
+    {
+      "id": "4952696",
+      "time": "2026-06-24 19:46:50",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "美國財政部長貝森特表示：“我們樂見採取恰當舉措維持美元強勢地位。”"
+    },
+    {
+      "id": "te:markets:561521",
+      "time": "2026-06-24 19:46:27",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "US Futures Inch Higher after Chip Selloff — US equity futures inched higher following yesterday's selloff for chip producers. Contracts tracking the Nasdaq 100 gained 0.5%, while those for the S&P 500 and the Dow inched above the flatline. Micron traded around 3% higher premarket ahead of its earnings after the bell. It followed the 13% plunge last session on fresh doubts that capital expenditures by hyerperscalers were overdone and AI companies are due to slow spending in infrastructure. Other semiconductor and memory producers rebounded from the selloff, with Nvidia, Lam Research, and Sandisk set to open higher. Fundraising in the sector remained at soaring levels as SK Hynix was looking to raise $29 billion with a US listing, shortly after the record SpaceX IPO. In turn, yields remained elevated along the curve despite the return of oil prices to pre-Iran war levels amid the risk that the Federal Reserve could deliver more than one rate hike this year. Financial stocks traded muted ahead of the open."
+    },
+    {
+      "id": "mkt:019ef973-f0f3-7dd8-b0f7-d30419a925b8",
+      "time": "2026-06-24 19:46:25",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "Magnificent 7",
+        "Star Stocks",
+        "Tesla",
+        "Market Regions",
+        "Greater China",
+        "TSLA.O"
+      ],
+      "text": "【Tesla OTA rumoured to add Doubao voice LLM; customer service says unconfirmed】On June 24 Tesla customer service told callers reports that an OTA will deploy Doubao, a vehicle voice large language model, are unconfirmed and there has been no official announcement. On April 21 the Shanghai Cyberspace Administration recorded one newly filed generative AI service described as a Tesla in‑vehicle voice large model, which it said represents the first major update to Tesla’s car voice assistant since the company entered China in 2013."
+    },
+    {
+      "id": "4952695",
+      "time": "2026-06-24 19:46:19",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "布倫特原油失守75美元/桶，日內跌2.38%。"
+    },
     {
       "id": "4952694",
       "time": "2026-06-24 19:45:57",
@@ -157558,180 +157796,6 @@
         "Europe & UK"
       ],
       "text": "Market sources say senior EU officials have contacted Moscow seeking to establish a secret backchannel with Putin."
-    },
-    {
-      "id": "mkt:019ed56b-9f83-7dd8-b04e-f012175b5ac9",
-      "time": "2026-06-17 19:51:00",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Switzerland says Pakistan, Qatar to attend U.S.-Iran signing; will mobilize up to 2,000 troops】Switzerland said on Wednesday the United States and Iran will sign a temporary peace agreement and a 14-point memorandum of understanding on Friday at a four-party envoys meeting at the Burgenstock resort. Pakistan and Qatar will send representatives. Switzerland said it would mobilize up to 2,000 troops for security and impose airspace restrictions around the event."
-    },
-    {
-      "id": "4940969",
-      "time": "2026-06-17 19:50:48",
-      "tags": [
-        "國際"
-      ],
-      "text": "訊息人士：美伊框架協議中概述了一項旨在推動對伊朗投資的3000億美元私人基金，且該金額中超過一半的資金已獲認繳承諾。"
-    },
-    {
-      "id": "mkt:019ed56b-4cb3-7dd8-b04e-ea57eb0f5515",
-      "time": "2026-06-17 19:50:39",
-      "tags": [
-        "MKT News",
-        "Brent",
-        "Impact bearish",
-        "XAUUSD"
-      ],
-      "text": "Sources said the U.S.-Iran framework agreement outlines a $300 billion private fund to drive investment into Iran, and more than half of the capital has already received subscription commitments."
-    },
-    {
-      "id": "4940968",
-      "time": "2026-06-17 19:50:14",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：歐洲理事會主席科斯塔的辦公室與克里姆林宮進行了兩次通話。歐盟最高負責人接洽俄方，擬搭建與普京溝通的幕後秘密渠道。"
-    },
-    {
-      "id": "mkt:019ed56a-eaa6-7dd8-b04e-e3bf79d269d2",
-      "time": "2026-06-17 19:50:14",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK"
-      ],
-      "text": "Market sources said the office of European Council President Costa held two calls with the Kremlin."
-    },
-    {
-      "id": "mkt:019ed56a-7ff2-7dd8-b04e-dec86140aa85",
-      "time": "2026-06-17 19:49:46",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bearish",
-        "S&P500",
-        "Impact bullish",
-        "XAUUSD"
-      ],
-      "text": "Swiss authorities say Pakistan and Qatar will attend the signing of a U.S.-Iran agreement; Switzerland will deploy 2,000 troops to provide security."
-    },
-    {
-      "id": "mkt:019ed56a-74e3-7dd8-b04e-d370f9a682b5",
-      "time": "2026-06-17 19:49:44",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "CNH",
-        "Impact bullish",
-        "CSI300"
-      ],
-      "text": "【Paul Chan: Over 70% of foreign-held mainland equities held via Stock Connect】At the Lujiazui Forum plenary on June 17, Hong Kong Financial Secretary Paul Chan said currently more than 70% of foreign-held mainland equities are held via Stock Connect and about two-thirds of foreign-held mainland bonds enter via Bond Connect, reflecting international investors' sustained confidence in cross-border institutional arrangements, settlement security and regulatory coordination."
-    },
-    {
-      "id": "4940967",
-      "time": "2026-06-17 19:49:27",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "【瑞士稱巴基斯坦和卡達將出席美伊協議簽署 將動員兩千士兵確保安全】瑞士政府表示，美國和伊朗週五簽署臨時和平協議時，巴基斯坦和卡達代表也將出席。瑞士將在布林根施托克酒店綜合體接待四國特使，這是一個俯瞰盧塞恩湖的山區度假地。美國和伊朗計劃屆時簽署一份14點諒解備忘錄，以結束導致霍爾木茲海峽通航受阻的敵對行動。瑞士政府週三在一份宣告中表示，為確保安全，瑞士同意動員多達2000名士兵。還將對相關空域實施限制。"
-    },
-    {
-      "id": "4940966",
-      "time": "2026-06-17 19:49:04",
-      "tags": [
-        "其他"
-      ],
-      "text": "【陳茂波：目前外資持有內地股票超過七成透過股票通配置】2026陸家嘴論壇全體大會四“滬港金融協同發展賦能高水平金融開放”6月17日晚間舉行。香港特別行政區政府財政司司長陳茂波表示，目前外資持有內地股票超過七成透過股票通配置，境外投資者持有的內地債券約三分之二經過債券通進入，體現國際投資者對兩地制度安排、結算安全、監管協同的長期信任。"
-    },
-    {
-      "id": "4940963",
-      "time": "2026-06-17 19:48:53",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "英國商務大臣：若不出臺相關舉措，英國將淪為全球鋼鐵傾銷地。"
-    },
-    {
-      "id": "mkt:019ed569-7efd-7dd8-b04e-c913ac380e56",
-      "time": "2026-06-17 19:48:41",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "Commodities",
-        "Precious Metals",
-        "CNH",
-        "Impact bullish",
-        "XAUUSD",
-        "Impact mixed"
-      ],
-      "text": "【Paul Chan urges faster Shanghai–Hong Kong push for \"industry in Shanghai, offshore treasury in Hong Kong\"】Paul Chan, Hong Kong’s Financial Secretary, said at the Lujiazui Forum on June 17 that global investor demand for RMB allocations is rising and Shanghai and Hong Kong should coordinate to broaden RMB investment products and risk‑management tools. He urged aligning Shanghai’s futures and spot markets to introduce more RMB‑priced, deliverable \"China‑priced\" products in gold and commodities to bolster the RMB’s international investment and reserve functions. Chan called for scaling Chinese outbound direct investment and a coordinated onshore–offshore treasury platform, proposing an \"industry in Shanghai, offshore treasury in Hong Kong\" model to provide integrated domestic and offshore funding and asset‑allocation solutions."
-    },
-    {
-      "id": "mkt:019ed568-de93-7dd8-b04e-c082d46be012",
-      "time": "2026-06-17 19:48:00",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【National Financial Regulatory Administration issues notice on commercial banks' Pudong New Area FTZ offshore bond business】The National Financial Regulatory Administration issued a notice requiring commercial banks to conduct Pudong New Area FTZ offshore bond business on a lawful, risk‑based and prudential basis, and to strictly comply with the Shanghai Pudong New Area FTZ offshore bond development provisions and related rules. Banks are instructed to focus issuance and underwriting on serving overseas financing needs of China’s going‑out enterprises and high‑quality firms in Belt and Road partner countries and regions, and to support reasonable financing for the real economy."
-    },
-    {
-      "id": "4940962",
-      "time": "2026-06-17 19:47:57",
-      "tags": [
-        "其他"
-      ],
-      "text": "【金融監督管理總局釋出商業銀行開展浦東新區自貿離岸債業務有關事項】國家金融監督管理總局辦公廳釋出關於商業銀行開展浦東新區自貿離岸債業務有關事項的通知。商業銀行應當堅持依法合規、風險為本和審慎經營原則開展浦東新區自貿離岸債業務，嚴格遵守《上海市浦東新區自貿離岸債業務發展若干規定》等相關法規和監管規定。商業銀行開展浦東新區自貿離岸債業務，應當聚焦服務“走出去”企業及“一帶一路”共建國家和地區等優質企業的海外投融資需求，支援實體經濟領域合理融資。"
-    },
-    {
-      "id": "4940961",
-      "time": "2026-06-17 19:47:54",
-      "tags": [
-        "市場"
-      ],
-      "text": "【陳茂波：未來滬港可加快推動“產業在上海，境外財資在香港”的協同組合】2026陸家嘴論壇全體大會四“滬港金融協同發展賦能高水平金融開放”6月17日晚間舉行。香港特別行政區政府財政司司長陳茂波表示，全球投資者對人民幣的配置需求持續上升，滬港可以協同豐富投資產品與風險管理工具。在黃金與大宗商品領域，配合上海期貨與現貨市場，推動更多以人民幣計價交割的“中國價格”產品落地，實質提升人民幣的國際投資與儲備功能。中國對外直接投資急需擴大，企業出海既要走得穩，更要走得遠、走得好，這背後需要統籌境內外的資源，提供專業的財資服務國際平臺。未來滬港可以加快推動“產業在上海，境外財資在香港”的協同組合，為企業提供一條龍的境內外資金與資產配置方案。"
-    },
-    {
-      "id": "4940960",
-      "time": "2026-06-17 19:47:50",
-      "tags": [
-        "國際"
-      ],
-      "text": "【報告稱全球13個熱點國家飢餓狀況持續惡化】當地時間6月17日，聯合國糧食及農業組織和聯合國世界糧食計劃署在一份報告中警告，在2026年6月至11月期間，被列為“飢餓熱點”的13個國家中，數百萬人的嚴重糧食不安全狀況預計將進一步惡化。報告指出，蘇丹、南蘇丹、葉門和巴勒斯坦是全球最嚴峻的飢餓熱點，其嚴重程度和波及範圍均最為危急。奈及利亞、索馬利亞也已被新增至最高關注國家名單。（央視新聞）"
-    },
-    {
-      "id": "mkt:019ed568-759d-7dd8-b04e-bc5e739a74f6",
-      "time": "2026-06-17 19:47:33",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Industrial Metals",
-        "GBPUSD",
-        "Impact mixed",
-        "FTSE100"
-      ],
-      "text": "UK Business Secretary McDonald said he has held extensive talks with the EU on steel measures and warned that if the UK does not act it will lose its steel manufacturing base."
-    },
-    {
-      "id": "4940959",
-      "time": "2026-06-17 19:47:31",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "【沃什美聯儲首秀要來了 市場預期美聯儲將按兵不動】當地時間16日，為期兩天的美聯儲議息會議在美國首都華盛頓召開。這也是凱文·沃什就任美聯儲主席後、首次主持議息會議。除了當地時間17日公佈的利率決議，市場也在密切關注議息會議之後的新聞釋出會上，沃什就美國通脹、就業市場現狀，以及經濟前景做出何種表態。根據安排，當地時間17日下午，也就是北京時間18日凌晨，美聯儲將公佈利率決議，外界普遍預期，美聯儲此次將按兵不動。分析人士指出，由於美伊即將簽署諒解備忘錄，能源價格回落、市場對通脹壓力緩解抱有期待。但這也意味著，沃什將不得不在緩解通脹與降低利率的政治壓力之間取得平衡。（央視財經）"
-    },
-    {
-      "id": "4940958",
-      "time": "2026-06-17 19:46:56",
-      "tags": [
-        "其他"
-      ],
-      "text": "英國商務大臣：英國若不採取行動，本土鋼鐵製造業將不復存在。"
     }
   ]
 }
