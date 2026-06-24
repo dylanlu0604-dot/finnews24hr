@@ -1,7 +1,61 @@
 {
-  "updated": "2026-06-24 11:45:12",
-  "count": 17346,
+  "updated": "2026-06-24 11:49:10",
+  "count": 17347,
   "items": [
+    {
+      "id": "4951673",
+      "time": "2026-06-24 11:48:34",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "印度NIFTY 50指數轉跌為升，最新上漲0.12%。"
+    },
+    {
+      "id": "4951672",
+      "time": "2026-06-24 11:47:45",
+      "tags": [
+        "公司"
+      ],
+      "text": "【淮北礦業集團原現代服務公司黨委書記、總經理孟德軍接受紀律審查和監察調查】6月24日，據安徽紀檢監察網訊息，淮北礦業集團原現代服務公司黨委書記、總經理孟德軍涉嫌嚴重違紀違法，目前正接受淮北礦業集團紀委紀律審查；經安徽省監委指定管轄，接受宿州市監委監察調查。"
+    },
+    {
+      "id": "4951671",
+      "time": "2026-06-24 11:47:38",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【特朗普指責國會限武決議毫無意義】當地時間6月23日，美國國會參議院透過一項限制總統戰爭權力的決議，要求總統特朗普結束對伊朗軍事行動，並在今後對伊朗採取軍事行動前必須獲得國會授權。該決議此前已由眾議院透過。對此，美國總統特朗普在社交平臺發文，指責該投票\"時機不當且毫無意義\"，並指控贊成者向伊朗提供\"慰藉\"，使他的工作\"更加艱難\"。 據美國哥倫比亞廣播公司等媒體報道，這項決議不具有法律效力，很大程度上只是象徵性的，但在參眾兩院透過也反映出包括部分共和黨人在內的國會議員對特朗普戰爭策略的不滿。（CCTV國際時訊）"
+    },
+    {
+      "id": "4951670",
+      "time": "2026-06-24 11:47:20",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "南向資金淨買入額達30億港元。"
+    },
+    {
+      "id": "mkt:019ef7bc-54f3-7dd8-b0ea-a6eec2c2cf4e",
+      "time": "2026-06-24 11:46:15",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "cenc automatically measured a magnitude ~3.0 earthquake near Zhenning, Anshun, Guizhou at 11:44 on June 24 (25.47°N, 105.82°E). This is a preliminary automatic estimate; final parameters await the official rapid report."
+    },
+    {
+      "id": "te:markets:561353",
+      "time": "2026-06-24 11:45:50",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Corn Extends Decline to 9-Month Low — Corn futures fell further below $4.1 per bushel, hitting their lowest level since early September 2025, as weaker crude oil prices and favourable US crop weather weighed on prices. Ample rainfall and moderate temperatures across the US Midwest continued to pressure the market by supporting strong crop conditions. However, traders warned that excessive moisture could start to hinder crop development. Meanwhile, progress in ongoing US-Iran peace talks has improved shipping activity through the Strait of Hormuz, fueling expectations of a faster recovery in global supply and pushing crude oil prices lower. Corn prices often track crude oil due to its use as feedstock for biofuel. The US dollar also remained firm, making US commodities more expensive for foreign buyers. Strong export demand lent some support, with the USDA confirming private sales of 100,000 metric tons to Mexico, including 30,000 tons for delivery in the 2025/26 marketing year and 70,000 tons for 2026/27 delivery."
+    },
     {
       "id": "4951669",
       "time": "2026-06-24 11:44:22",
@@ -158797,56 +158851,6 @@
         "Impact bullish"
       ],
       "text": "Japan's Nikkei 225 extended gains to hit fresh record highs."
-    },
-    {
-      "id": "mkt:019ed3b1-ec77-7dd8-b040-bfa12d9f0059",
-      "time": "2026-06-17 11:48:33",
-      "tags": [
-        "MKT News",
-        "Brent",
-        "Impact bearish"
-      ],
-      "text": "Brent crude down 1.00% intraday at $78.44/bbl."
-    },
-    {
-      "id": "4939900",
-      "time": "2026-06-17 11:48:23",
-      "tags": [
-        "公司"
-      ],
-      "text": "【步步高在湘潭成立新公司 註冊資本1000萬】天眼查 App 顯示，近日，湘潭大信京迪科技發展有限公司成立，法定代表人為劉軍，註冊資本1000萬人民幣，經營範圍包括房地產開發經營、建設工程施工、建設工程設計等，由步步高（002251）全資持股。"
-    },
-    {
-      "id": "mkt:019ed3b1-84ad-7dd8-b040-b48fcf64d26b",
-      "time": "2026-06-17 11:48:06",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "【Tuozhu Technology domestic cumulative sales exceed 1 mln units】Sources said Tuozhu Technology’s consumer 3D-printer domestic cumulative sales have topped 1.0 mln units from 2022 through June this year. Separately, in 2025 Tuozhu reported annual revenue above CNY 10 bln — the first Chinese 3D‑printing firm to cross that threshold — and global shipments exceeded 1.0 mln units."
-    },
-    {
-      "id": "4939899",
-      "time": "2026-06-17 11:47:56",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "【我國將制定統一的航空醫療救護標準】 記者今天瞭解到，市場監管總局（國家標準委）近日下達國家標準制定計劃，由北京市地方標準《航空醫療救護服務規範》轉化升級的《應急救援 航空醫療救護通用要求》國家標準工作啟動。長期以來，我國航空醫療救護行業缺乏統一的技術規範，運營主體參差不齊、服務流程要求不一、權責邊界劃分不清、裝備配置要求不明，嚴重製約了航空醫療體系整體效能的發揮。此次擬修訂的國家標準，將全面吸納北京地方標準的核心內容與實踐經驗，緊扣資源完備、流程規範、管理有效、持續改進四項工作重點，從機構資質、人員配置、裝備設施、服務流程、安全管理等方面作出系統性規定，適用於各類有人駕駛航空器開展的醫療救護工作。《應急救援 航空醫療救護通用要求》國家標準的統一制定，將有力推動全國立體化航空醫療救護體系的構建，打通全域覆蓋、響應迅速的“空中生命線”，夯實我國應急救援體系建設基礎。（央視新聞）"
-    },
-    {
-      "id": "mkt:019ed3b0-a281-7dd8-b040-a9501732f856",
-      "time": "2026-06-17 11:47:08",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "CNH",
-        "Impact bullish",
-        "CSI300",
-        "Hang Seng Index"
-      ],
-      "text": "【Wu Qing: International investors increasingly favor Chinese assets for safety, resilience and innovation】On the morning of June 17, 2026 at the Lujiazui Forum in Shanghai, CSRC chairman Wu Qing said international investors are increasingly focused on and favoring Chinese assets for their safety, resilience and innovation value. He said regulators will, with determined focus on implementation, ensure the new \"National Nine\" measures and the 1+N policy framework are effectively enacted, consolidate the capital market's momentum toward steady improvement, raise the market's long-term investment value and reinforce the foundations for high-quality development."
     }
   ]
 }
