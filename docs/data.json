@@ -1,7 +1,278 @@
 {
-  "updated": "2026-06-24 14:41:22",
-  "count": 17332,
+  "updated": "2026-06-24 14:45:17",
+  "count": 17348,
   "items": [
+    {
+      "id": "mkt:019ef85f-cb73-7dd8-b0ee-b6d5dc3efacb",
+      "time": "2026-06-24 14:44:47",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Indonesia's benchmark stock index extended losses to 2%."
+    },
+    {
+      "id": "mkt:019ef85f-6db5-7dd8-b0ee-ae24ebf6f5de",
+      "time": "2026-06-24 14:44:23",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bearish"
+      ],
+      "text": "BANK OF JAPAN Governor UEDA said high oil prices could push underlying inf above the BANK OF JAPAN's 2% target."
+    },
+    {
+      "id": "mkt:019ef85f-6c87-7dd8-b0ee-a435022fae2c",
+      "time": "2026-06-24 14:44:23",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC"
+      ],
+      "text": "UEDA said Japan's financial system remains broadly stable."
+    },
+    {
+      "id": "4951952",
+      "time": "2026-06-24 14:44:19",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "印尼基準股指下跌2%，報5979.92點。"
+    },
+    {
+      "id": "te:markets:561395",
+      "time": "2026-06-24 14:44:18",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "commodity",
+        "Importance 0"
+      ],
+      "text": "Aluminum Hits 12-week Low — Aluminum decreased to 3224.00 USD/T, the lowest since March 2026. Over the past 4 weeks, Aluminum lost 12.28%, and in the last 12 months, it increased 25.28%."
+    },
+    {
+      "id": "mkt:019ef85f-37a9-7dd8-b0ee-9decc55ea1c4",
+      "time": "2026-06-24 14:44:10",
+      "tags": [
+        "MKT News",
+        "USDJPY"
+      ],
+      "text": "USD/JPY slid roughly 10 pips intraday to 161.66."
+    },
+    {
+      "id": "4951951",
+      "time": "2026-06-24 14:44:07",
+      "tags": [
+        "其他"
+      ],
+      "text": "美元兌日元USD/JPY短線下挫近十點，現報161.66。"
+    },
+    {
+      "id": "mkt:019ef85e-b774-7dd8-b0ee-92be7ae331ff",
+      "time": "2026-06-24 14:43:37",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Bank of Japan Governor Ueda said the timing and pace of any future rate hikes will be decided after a careful assessment of the likelihood that baseline projections are met and of related risks."
+    },
+    {
+      "id": "4951950",
+      "time": "2026-06-24 14:43:30",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "日本央行行長植田和男：未來加息的時機與幅度，將在充分研判基線預測兌現的可能性及相關風險後再行決定。"
+    },
+    {
+      "id": "mkt:019ef85e-8045-7dd8-b0ee-8f43597c1a65",
+      "time": "2026-06-24 14:43:23",
+      "tags": [
+        "MKT News",
+        "Important",
+        "USDJPY",
+        "Impact bearish"
+      ],
+      "text": "Bank of Japan Governor UEDA said he expects to continue raising rates once underlying inflation approaches 2%."
+    },
+    {
+      "id": "mkt:019ef85e-40ee-7dd8-b0ee-8046b03742bd",
+      "time": "2026-06-24 14:43:06",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "USDJPY",
+        "Impact mixed",
+        "Nikkei 225",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "Bank of Japan Governor UEDA said that after recent rate hikes, financial conditions remain accommodative and continue to support economic activity."
+    },
+    {
+      "id": "4951948",
+      "time": "2026-06-24 14:43:05",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "日本央行行長植田和男：隨著核心通脹逐步接近2%的目標水平，預計日本央行將繼續加息。"
+    },
+    {
+      "id": "mkt:019ef85e-1e56-7dd8-b0ee-7ec8a2c19f13",
+      "time": "2026-06-24 14:42:58",
+      "tags": [
+        "MKT News",
+        "USDJPY",
+        "Impact mixed"
+      ],
+      "text": "Bank of Japan Governor Ueda said he will weigh the timing and pace of rate hikes while assessing the impact of the Middle East conflict."
+    },
+    {
+      "id": "4951947",
+      "time": "2026-06-24 14:42:50",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "日本央行行長植田和男：將在評估中東衝突影響的同時，考慮加息的時機與節奏。"
+    },
+    {
+      "id": "mkt:019ef85d-cd5f-7dd8-b0ee-77d44459c5b0",
+      "time": "2026-06-24 14:42:37",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bearish",
+        "DXY",
+        "Nikkei 225"
+      ],
+      "text": "Bank of Japan Governor Ueda said the central bank will continue to raise interest rates depending on economic, price and financial conditions."
+    },
+    {
+      "id": "4951946",
+      "time": "2026-06-24 14:42:35",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "日本央行行長植田和男：在最近加息後，金融環境仍保持寬鬆，將繼續為經濟活動提供支撐。"
+    },
+    {
+      "id": "mkt:019ef85d-46d4-7dd8-b0ee-6a475041edaa",
+      "time": "2026-06-24 14:42:02",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "N Zhenbao's post-resumption rally narrowed to a 1,000% gain; trading value exceeded 9.2 billion yuan and turnover rate topped 73%."
+    },
+    {
+      "id": "mkt:019ef85d-39f8-7dd8-b0ee-60493849988c",
+      "time": "2026-06-24 14:41:59",
+      "tags": [
+        "MKT News",
+        "USDJPY",
+        "Impact bearish",
+        "DXY"
+      ],
+      "text": "Bank of Japan Governor UEDA said the risk that inf may exceed 2% remains."
+    },
+    {
+      "id": "4951945",
+      "time": "2026-06-24 14:41:53",
+      "tags": [
+        "其他"
+      ],
+      "text": "N臻寶復牌後漲幅縮窄至1000%，成交額超92億元，換手率超73%。"
+    },
+    {
+      "id": "4951944",
+      "time": "2026-06-24 14:41:46",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "日本央行行長植田和男：潛在通脹存在超調2%目標的風險。"
+    },
+    {
+      "id": "4951943",
+      "time": "2026-06-24 14:41:39",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "日本央行植田和男：當前金融環境寬鬆。"
+    },
+    {
+      "id": "4951942",
+      "time": "2026-06-24 14:41:38",
+      "tags": [
+        "公司"
+      ],
+      "text": "【美團副總裁陶雪璇：必吃榜覆蓋全球264座城市和地區】大眾點評必吃榜10週年盛典舉行，美團副總裁、點評事業部總經理陶雪璇發表《用真實的微光照亮美好生活》主題演講。陶雪璇表示，必吃榜自2017年釋出至今，已經覆蓋全球264座城市和地區，4279家商戶上榜。“必吃榜不是評出來的，而是靠真實食客吃出來的。”陶雪璇強調，大眾點評的底色是“真使用者推薦給真使用者”，“讓使用者把生活經驗交給使用者，讓真實體驗沉澱為可信賴的消費參考。”陶雪璇強調，在AI時代，大眾點評的價值不只在於幫助找店，而是建設彼此信任、真誠交流的社群，“讓每一個熱愛生活的人所留下的真實生活足跡成為其他人可信任的決策參考。”（新浪科技）"
+    },
+    {
+      "id": "em:qqyh_rbyh:202606243781337761",
+      "time": "2026-06-24 14:41:34",
+      "tags": [
+        "央行",
+        "日本央行"
+      ],
+      "text": "日本央行行長植田和男表示，日本經濟正溫和復甦，將根據經濟和物價情況繼續升息。"
+    },
+    {
+      "id": "te:markets:561393",
+      "time": "2026-06-24 14:41:16",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Australia",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "ASX 200 Closes Slightly Higher — The ASX 200 edged up 21 points or 0.2% to finish at 8,808 on Wednesday, snapping a four-session slide as softer May headline inflation supported sentiment despite core readings running a touch hot. In Asia, markets mainly advanced as U.S. stock futures ticked up amid easing tensions in the Middle East, with tanker traffic through the Strait of Hormuz gradually normalising. Later this week, focus will turn to the U.S. PCE price index and final GDP figures. Gains in local markets were broad across tech services, healthcare, consumer, and commercial sectors, offset by weakness in energy and mining. Three of the big four banks rose between 0.1% and 1.2%, while Wisetech Global rebounded 14.5% after its prior slump. Other standouts included Lynas Rare Earths (4.3%), PLS Group (3.6%), and Pro Medicus (3.9%). In contrast, Woodside Energy slipped 1.4%, and Santos fell 1.0%. Traders now await Thursday’s labor market and household spending data for further cues on domestic resilience."
+    },
+    {
+      "id": "mkt:019ef85c-922c-7dd8-b0ee-5d38512951c5",
+      "time": "2026-06-24 14:41:16",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bullish"
+      ],
+      "text": "Bank of Japan Governor UEDA said economic growth may slow but will continue a moderate recovery."
+    },
+    {
+      "id": "mkt:019ef85c-8549-7dd8-b0ee-57c3ce31ffc0",
+      "time": "2026-06-24 14:41:13",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC"
+      ],
+      "text": "Bank of Japan Governor UEDA, in a speech read on his behalf by a deputy governor, said Japan's economy is moderately recovering, though some weaknesses remain."
+    },
+    {
+      "id": "4951941",
+      "time": "2026-06-24 14:41:07",
+      "tags": [
+        "央行",
+        "焦點",
+        "國際"
+      ],
+      "text": "日本央行行長植田和男：將根據經濟與物價形勢持續加息。"
+    },
     {
       "id": "4951940",
       "time": "2026-06-24 14:40:49",
@@ -26,6 +297,14 @@
         "公司"
       ],
       "text": "據港交所檔案：深圳市豐宜科技集團股份有限公司向港交所提交上市申請書。"
+    },
+    {
+      "id": "4951938",
+      "time": "2026-06-24 14:40:26",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【統戰部：所謂新疆少數民族“強制遷徙”“強迫勞動”說法極其荒謬可笑】6月24日上午，國務院新聞辦公室舉行新聞釋出會，介紹《中華人民共和國民族團結進步促進法》和我國民族工作有關情況。有記者問：有些西方媒體報道，中國對新疆少數民族“強迫勞動”“強制遷徙”議題，而民族團結進步促進法在“促進交往交流交融”章節中明確保障跨區域就業創業公民的合法權利，請問如何評價這種將促進各民族共同發展的舉措與“強迫勞動”掛鉤的言論？中國法律如何保障各族勞動者在流動就業中的合法權益不受侵犯？中央統戰部副部長、國家民委主任陳瑞峰表示，民族團結進步促進法明確了保障跨區域就業創業公民的合法權益，這些法律規定集中體現在第二十五條，作出這樣的規定，目的是維護各族群眾平等發展權利、拓寬增收渠道、促進各民族交往交流交融，始終堅持完全自願、雙向選擇、依法合規、來去自由的核心原則。新疆勞動力轉移就業是尊重各族群眾意願前提下實施的，目的在於幫助各族群眾增加就業機會，提高經濟收入，完全是、純粹是在為新疆老百姓辦實事、做好事。所有外出就業的新疆群眾，全部都是基於改善家庭生活、提升自身技能的個人意願自主報名，根本不存在所謂的“強制遷徙”“強迫勞動”，此類說法是極其荒謬、極其可笑的。（央視新聞）"
     },
     {
       "id": "4951937",
@@ -158541,108 +158820,6 @@
         "Importance 1"
       ],
       "text": "ASX 200 Closes at Two-Month High — The ASX 200 rose 49 points, or 0.5%, to finish at 8,966 on Wednesday, extending gains for a fourth session and notching a two-month peak. Sentiment was lifted by firmer U.S. futures ahead of Kevin Warsh’s first Federal Reserve meeting. At the same time, key details emerged on the interim U.S.-Iran agreement, which allows oil tanker passage through Hormuz in exchange for lifting port blockades. Locally, the Reserve Bank of Australia held cash rates at 4.35% Tuesday, in line with estimates, as the board balanced slowing growth against sticky inflation. Most sectors advanced, led by producer manufacturing, consumer services, and non-energy minerals. Index heavyweight BHP Group rose 0.6%, briefly hitting a record high. Meanwhile, gold miners surged as bullion rallied on Middle East news, with Northern Star up 2.5% and Regis 6.1%. Three of the four major banks added between 0.2% and 1.2%. In contrast, Karoon Energy slumped 13.4% after cutting its annual output forecast."
-    },
-    {
-      "id": "mkt:019ed453-6179-7dd8-b045-7f27f371da29",
-      "time": "2026-06-17 14:44:54",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Emerging Markets"
-      ],
-      "text": "Philippine stock index rose 2%."
-    },
-    {
-      "id": "mkt:019ed453-3ff1-7dd8-b045-712832fa070c",
-      "time": "2026-06-17 14:44:46",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Canadian prime minister Carney said the U.S. and Trump are shifting toward a more pragmatic stance on Ukraine."
-    },
-    {
-      "id": "mkt:019ed452-faa3-7dd8-b045-6c4db322efaf",
-      "time": "2026-06-17 14:44:28",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Pakistan says 30 Iranian nationals to be repatriated】Pakistan will assist the repatriation of 30 Iranian nationals in the coming days: 8 fishermen rescued at sea by UK vessel MMA Valour after their boat grounded, and 22 crew from the vessel Lenore/Davina recently intercepted by US authorities. The groups are expected to transit Karachi; Pakistan says it is coordinating with Iranian, US and UK authorities to secure their safe transfer and return."
-    },
-    {
-      "id": "4940149",
-      "time": "2026-06-17 14:44:15",
-      "tags": [
-        "國際"
-      ],
-      "text": "加拿大總理卡尼：在烏克蘭問題上，美國及特朗普的態度轉向更為務實，已出現轉變。"
-    },
-    {
-      "id": "4940148",
-      "time": "2026-06-17 14:44:11",
-      "tags": [
-        "國際"
-      ],
-      "text": "巴基斯坦副總理：巴基斯坦方面樂於協助 30 名伊朗公民遣返回國。"
-    },
-    {
-      "id": "4940147",
-      "time": "2026-06-17 14:44:03",
-      "tags": [
-        "其他"
-      ],
-      "text": "【6月17日：“農產品批發價格200指數”比昨天下降0.10個點】據農業農村部監測，6月17日“農產品批發價格200指數”為112.72，比昨天下降0.10個點，“菜籃子”產品批發價格指數為112.66，比昨天下降0.10個點。截至今日14:00時，全國農產品批發市場豬肉平均價格為14.75元/公斤，比昨天上升1.2%；牛肉66.65元/公斤，比昨天下降0.1%；羊肉64.25元/公斤，比昨天上升0.8%；雞蛋10.53元/公斤，比昨天下降1.2%；白條雞17.09元/公斤，比昨天下降0.7%。重點監測的28種蔬菜平均價格為4.33元/公斤，比昨天上升0.9%；重點監測的6種水果平均價格為7.44元/公斤，比昨天上升0.1%。鯽魚20.16元/公斤，比昨天上升0.5%；鯉魚14.41元/公斤，比昨天下降1.2%；白鰱魚10.48元/公斤，比昨天上升1.9%；大帶魚40.81元/公斤，比昨天下降1.3%。今日，國內鮮活農產品批發市場重點監測的46個品種中，與昨天相比價格升幅前五名的是西紅柿、蓮藕、菠蘿、蔥頭和黃瓜，幅度分別為3.5%、3.2%、2.8%、2.1%和2.1%；價格降幅前五名的是平菇、大帶魚、鯉魚、雞蛋和南瓜，幅度分別為2.0%、1.3%、1.2%、1.2%和0.8%。"
-    },
-    {
-      "id": "4940146",
-      "time": "2026-06-17 14:43:57",
-      "tags": [
-        "國際"
-      ],
-      "text": "菲律賓股指漲2%。"
-    },
-    {
-      "id": "mkt:019ed452-68cc-7dd8-b045-648b58c5196a",
-      "time": "2026-06-17 14:43:50",
-      "tags": [
-        "MKT News",
-        "011070.KS",
-        "Impact bullish"
-      ],
-      "text": "【LG Innotek plans further FCBGA substrate expansion】LG Innotek’s packaging solutions head said on the 16th the company will invest 1 tln won to build a semiconductor substrate plant in Vietnam as the first phase of expanding its packaging substrate business. It is negotiating a second-phase investment to enlarge FCBGA capacity for AI servers; discussions have made substantive progress and the company expects to announce scale soon. LG Innotek also plans additional FCBGA expansion at its Gumi, North Gyeongsang factory in South Korea beyond a previously announced 600 bln won investment, scaling production according to customer-agreed volumes."
-    },
-    {
-      "id": "4940145",
-      "time": "2026-06-17 14:43:46",
-      "tags": [
-        "其他"
-      ],
-      "text": "ORIGO預測：瑞典第1年GDP增速預期2.1%，3月預測為2.2%；瑞典第2年GDP增速預期2.2%，3月預測為2.2%；瑞典第5年GDP增速預期2.1%，3月預測為2.1%。"
-    },
-    {
-      "id": "4940144",
-      "time": "2026-06-17 14:43:23",
-      "tags": [
-        "公司"
-      ],
-      "text": "【美騰科技起訴晉能控股煤業集團下屬馬道頭煤業，追討近兩千萬元合同款和違約金】6月16日，美騰科技（688420）釋出公告，該公司因與大同煤礦集團馬道頭煤業有限責任公司發生買賣合同糾紛，向山西省左雲縣人民法院提起訴訟，請求判令馬道頭煤業立即支付合同款1794萬元並支付違約金，合計金額為1973萬元。據財中社報道，2023年3月，美騰科技與馬道頭煤業簽訂裝置採購合同，並已依約履行相關合同義務，但馬道頭煤業未依約及時支付合同價款。根據美騰科技的上述公告，其目前就這起訴訟已經收到法院的《受理案件通知書》，案件尚未開庭審理。（澎湃）"
-    },
-    {
-      "id": "4940143",
-      "time": "2026-06-17 14:42:04",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "深證成指漲1.00%，現報15832.053點；上證指數漲0.13%，現報4097.155點；創業板指漲1.15%，現報4150.125點。"
-    },
-    {
-      "id": "4940142",
-      "time": "2026-06-17 14:42:01",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "【機構：英國通脹持平確保英國央行本週將維持利率不變】MHA的Joe Nellis在一份報告中表示，5月份通脹率保持不變，幾乎肯定意味著英國央行週四不會加息。5月份同比通脹率為2.8%，與上月持平，且低於預期。Nellis說：“英國央行繼續保持鎮定，當下他們正在監測控制通脹與避免對經濟造成進一步損害之間艱難且持續的權衡。”在中東保持和平、通脹率可能保持在4%以下的背景下，英國央行今年可能根本不需要加息。Nellis補充說，儘管如此，即使中東緊張局勢迅速得到解決，未來幾個月通脹率仍可能小幅走高。"
     }
   ]
 }
