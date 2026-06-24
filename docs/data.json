@@ -1,7 +1,183 @@
 {
-  "updated": "2026-06-24 16:59:37",
-  "count": 17319,
+  "updated": "2026-06-24 17:03:44",
+  "count": 17313,
   "items": [
+    {
+      "id": "4952301",
+      "time": "2026-06-24 17:02:58",
+      "tags": [
+        "行業"
+      ],
+      "text": "【香港證監會2025財年年報：資本市場全球地位鞏固 IPO集資額同比增272%】香港證監會今天發表《2025-26年報》（截至2026年3月31日止財年），顯示香港資本市場過去一年在眾多資產類別均取得顯著增長，當中包括投資基金、數字資產及股票市場，鞏固了香港作為領先國際金融中心的地位。"
+    },
+    {
+      "id": "mkt:019ef8de-2166-7dd8-b0f3-d2981d93dfa9",
+      "time": "2026-06-24 17:02:47",
+      "tags": [
+        "MKT News",
+        "DAX",
+        "Impact bearish"
+      ],
+      "text": "Germany's DAX fell as much as 1.00% intraday."
+    },
+    {
+      "id": "4952300",
+      "time": "2026-06-24 17:02:32",
+      "tags": [
+        "國際"
+      ],
+      "text": "波蘭拍賣138萬噸現貨碳排放配額，成交價為每噸80.43歐元。"
+    },
+    {
+      "id": "4952299",
+      "time": "2026-06-24 17:02:26",
+      "tags": [
+        "其他"
+      ],
+      "text": "【一週3班、單程最大業載22噸 海口⇌新加坡國際貨運航線來了】6月24日，一架B738全貨機從海口美蘭國際機場直飛新加坡，標誌著海南自貿港至東南亞的又一重要空中貨運通道正式貫通。（央視新聞）"
+    },
+    {
+      "id": "4952298",
+      "time": "2026-06-24 17:02:15",
+      "tags": [
+        "公司"
+      ],
+      "text": "【四川能源氣電集團增資至62億】天眼查App顯示，近日，四川川投燃氣發電集團有限責任公司發生工商變更，企業名稱變更為四川能源氣電集團有限責任公司，姚欣卸任法定代表人，由譚先明接任，同時，註冊資本由37億人民幣增至62億人民幣，增幅約68%。該公司成立於1994年5月，經營範圍包括髮電業務、輸電業務、供（配）電業務，石油天然氣技術服務，熱力生產和供應等，由四川能源發展集團有限責任公司全資持股。"
+    },
+    {
+      "id": "te:economy:561464",
+      "time": "2026-06-24 17:02:02",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Slovenia",
+        "Tourist Arrivals",
+        "Importance 1"
+      ],
+      "text": "Slovenia Tourist Arrivals Up 10.1% in May — Tourist arrivals in Slovenia rose by 10.1% year-on-year to 680.1 thousand in May 2026, the highest level since September 2025, following a 0.2% increase in April. Foreign tourist arrivals climbed by 13.2% to 551.8 thousand, with visitors mainly coming from Germany (54.5%), Italy (15.5%), the US (26.8%), and the UK (32.9%), while arrivals from Austria fell by 0.4%. Meanwhile, domestic tourism declined by 1.4% to 128.3 thousand. Overnight stays increased by 10.8% to 1.590 million, with the highest numbers recorded in mountain resorts (26.0%), health resorts (2.6%), and seaside resorts (4.6%). For the first five months of the year, total arrivals grew by 6.3% from a year earlier to 2.131 million."
+    },
+    {
+      "id": "4952297",
+      "time": "2026-06-24 17:01:58",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【商務部公佈《產業鏈供應鏈安全調查工作辦法》】為貫徹落實《國務院關於產業鏈供應鏈安全的規定》，做好產業鏈供應鏈安全調查工作，維護我國產業鏈供應鏈安全，商務部制定了《產業鏈供應鏈安全調查工作辦法》，現予以公佈，自公佈之日起施行。（商務部）"
+    },
+    {
+      "id": "mkt:019ef8dd-12e9-7dd8-b0f3-ca4cac9f5848",
+      "time": "2026-06-24 17:01:38",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "MOFCOM published measures to further improve handling of reports on illegal or non-compliant conduct under export controls for strategic minerals and dual-use items."
+    },
+    {
+      "id": "4952296",
+      "time": "2026-06-24 17:01:32",
+      "tags": [
+        "其他",
+        "焦點"
+      ],
+      "text": "商務部制定了《產業鏈供應鏈安全調查工作辦法》，現予以公佈，自公佈之日起施行。"
+    },
+    {
+      "id": "4952295",
+      "time": "2026-06-24 17:01:26",
+      "tags": [
+        "公司"
+      ],
+      "text": "【三峰環境：財務總監陽正文因工作調動辭職】三峰環境6月24日公告，公司董事會於近日收到公司財務總監陽正文的書面辭職申請。陽正文因工作調動，申請辭去公司財務總監職務。根據公司職業經理人相關管理制度，陽正文的辭職申請已經公司董事會於2026年6月23日召開的第三屆董事會第十三次會議審議透過。陽正文因工作調動原因辭去公司財務總監職務，不會影響公司正常生產經營工作開展，公司將按照有關規定儘快完成新任財務總監的選聘工作。"
+    },
+    {
+      "id": "4952294",
+      "time": "2026-06-24 17:01:23",
+      "tags": [
+        "市場"
+      ],
+      "text": "科倫坡全股指數收盤下跌 0.2%，報 22218.16 點。"
+    },
+    {
+      "id": "mkt:019ef8dc-b7f6-7dd8-b0f3-c289d66a78bf",
+      "time": "2026-06-24 17:01:14",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "China's MOFCOM has published the Measures for Investigations into Industrial Chain and Supply Chain Security; they take effect from the date of publication."
+    },
+    {
+      "id": "mkt:019ef8dc-a9c0-7dd8-b0f3-be7d34f990e8",
+      "time": "2026-06-24 17:01:11",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "AI Revolution",
+        "Chip Wars",
+        "Magnificent 7",
+        "000660.KS",
+        "Impact bullish"
+      ],
+      "text": "【SK Hynix's 14-year HBM bet and how it overtook Samsung as Korea's top stock】2012: SK Group acquired Hynix; Samsung's market value was more than ten times Hynix and it led global DRAM. SK Hynix targeted HBM (high-bandwidth memory), launching the world’s first HBM product in 2014 but suffering a setback on second‑generation chips that left it behind Samsung and prompted internal debate about halting R&D. The company nonetheless ramped R&D and capacity, betting on growing NVIDIA demand, and invested 880 bln won (about $640m) in a packaging plant and related assets that were underutilized after demand fell in 2019. The bet paid off after 2022: ChatGPT-driven AI demand sharply increased global need for HBM, which is a key component of NVIDIA data‑center AI accelerators, and SK Hynix is now a major HBM supplier to NVIDIA."
+    },
+    {
+      "id": "4952293",
+      "time": "2026-06-24 17:00:46",
+      "tags": [
+        "公司"
+      ],
+      "text": "【開創電氣：5616萬股限售股6月30日上市流通】開創電氣公告稱，公司首次公開發行前已發行部分股份將於2026年6月30日上市流通，本次解除限售股份數量為5616萬股，佔公司股本總數的53.6902%，涉及4名股東。截至公告披露日，相關股東均嚴格履行承諾，不存在非經營性佔用公司資金及公司對其違規擔保情形。本次限售股上市流通後，有限售條件流通股佔比降至32.2342%，無限售條件流通股佔比升至67.7658%。"
+    },
+    {
+      "id": "4952292",
+      "time": "2026-06-24 17:00:33",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中廣天擇：控股股東擬以22.95元/股轉讓28%股份，6月25日開市起股票復牌】中廣天擇公告，公司控股股東長沙廣播電視集團有限公司於2026年6月24日與長沙城發文化旅遊集團有限公司簽署《股份轉讓協議》，擬將所持公司3640萬股股份（佔總股本28%）轉讓給城發文旅，轉讓價格22.95元/股，轉讓總價8.35億元。本次交易完成後，公司控股股東將由長沙廣電變更為城發文旅，實際控制人仍為長沙市人民政府國有資產監督管理委員會。公司股票將於2026年6月25日開市起復牌。"
+    },
+    {
+      "id": "te:markets:561462",
+      "time": "2026-06-24 17:00:19",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "FX Updates: South Korean Won Depreciates by 0.89% — Top currency losers are South Korean Won (-0.89%), Norwegian Krone (-0.39%), New Zealand Dollar (-0.38%), Euro (-0.25%), Japanese Yen (-0.13%) and British Pound (-0.09%). Gains are led by Brazilian Real (0.30%) and Dollar Index (0.17%)."
+    },
+    {
+      "id": "4952291",
+      "time": "2026-06-24 17:00:17",
+      "tags": [
+        "其他"
+      ],
+      "text": "嗶哩嗶哩宣佈 3 億美元股票回購計劃。"
+    },
+    {
+      "id": "4952290",
+      "time": "2026-06-24 17:00:02",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中廣天擇：控股股東擬變更 轉讓總價8.35億元】中廣天擇公告稱，2026年6月24日，長沙廣電與城發文旅簽署協議，擬將3640萬股（佔總股本28%）轉讓給城發文旅，轉讓價22.95元/股，總價8.35億元。轉讓後，公司控股股東將由長沙廣電變更為城發文旅，實控人仍為長沙市國資委。本次轉讓尚需國資監管機構批覆、上交所確認及辦理過戶等手續，能否完成及時間不確定。"
+    },
+    {
+      "id": "4952289",
+      "time": "2026-06-24 16:59:56",
+      "tags": [
+        "公司"
+      ],
+      "text": "【正乾金融控股：將與京東科技就大模型平臺建設及詞元供應等合作】6月24日，正乾金融控股在港交所公告，公司全資附屬公司上海鐸峰網路科技有限公司與京東科技資訊科技有限公司訂立合作框架協議。根據合作框架協議，憑藉上海鐸峰於產業鏈及渠道資源方面的優勢以及京東科技於智慧計算及其詞元平臺JoyAgent的優勢，上海鐸峰與京東科技將就大模型平臺建設、人工智慧智慧體應用場景開發及詞元供應進行合作。"
+    },
     {
       "id": "mkt:019ef8da-2d40-7dd8-b0f3-b42cfbe52bbd",
       "time": "2026-06-24 16:58:28",
@@ -158252,247 +158428,6 @@
         "公司"
       ],
       "text": "【金源發展國際實業：預計截至2026年3月31日止年度將錄得股東應占溢利約2720萬港元】金源發展國際實業公告，根據集團未經稽核綜合管理賬目之初步審閱，預期截至2026年3月31日止年度將可能錄得約2720萬港元之股東應占溢利，而截至2025年3月31日止的上一個年度則錄得股東應占虧損約1450萬港元。董事會認為預期轉虧為盈主要是毛利上升約1860萬港元、投資物業重估盈餘約1080萬港元、管理費用減少約1980萬港元及銷售及分銷成本上升約3980萬港元等綜合影響。"
-    },
-    {
-      "id": "mkt:019ed4d2-2ebb-7dd8-b04a-1ec15a18efe8",
-      "time": "2026-06-17 17:03:24",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "CSI300",
-        "Impact bullish",
-        "CNH",
-        "Hang Seng Index"
-      ],
-      "text": "【China issues Employment‑First Strategy 15th Five‑Year Plan: stabilize labor‑intensive jobs, expand service‑sector employment capacity】China's State Council released the Implementation Plan for the Employment‑First Strategy under the 15th Five‑Year Plan, setting nine priorities: strengthen macro policy coordination to prioritize employment and implement measures to stabilize, expand and improve jobs while adapting to AI to support employment and entrepreneurship; align industry and employment to stabilize employment in labor‑intensive sectors, enlarge service‑sector job capacity and tap emerging fields for job creation; accelerate modernization of human resources, improve match between education supply and labor demand and carry out large‑scale vocational skills training; broaden employment channels for college graduates and youth and build full‑chain support covering policy incentives, services, safety nets and rights protection; scale up targeted support for migrant workers, veterans and other key groups and strengthen help for the unemployed and registered jobseekers; promote healthy development of flexible employment and new employment forms, expand channels, bolster public services and protect legal rights; improve employment and entrepreneurship service systems and the quality of human‑resources services; strengthen protection of workers’ employment rights, refine labor standards and labor‑relations consultation mechanisms to ensure equal employment; and enhance employment monitoring, early‑warning and risk‑response capabilities and scientific analysis of the employment outlook."
-    },
-    {
-      "id": "4940531",
-      "time": "2026-06-17 17:03:21",
-      "tags": [
-        "國際"
-      ],
-      "text": "【今日特朗普要聞】\n1、特朗普16日稱，美國和伊朗已成功線上上簽署諒解備忘錄，現在美伊協議談判已進入第二階段，“這應該比第一階段更容易”。他還稱，美國不會在伊朗投入任何資金。\n2、特朗普16日稱，俄羅斯應該與烏克蘭達成協議，他將“盡其所能”解決這一衝突。\n3、特朗普已告訴以色列方面，不喜歡其對黎巴嫩首都貝魯特的襲擊，他表示以色列總理內塔尼亞胡在黎巴嫩問題上必須更加負責任。\n4、特朗普稱，美國可能很快恢復對俄羅斯石油的制裁。\n5、特朗普稱其卸任之時美國或將掌控超五成晶片產業。\n6、特朗普宣佈普爾特將繼續擔任國家情報總監代理一職，並取消今日針對國家情報總監提名的參議院聽證會，他表示不會批准《外國情報監視法》，除非與《拯救美國法案》一起透過。\n7、特朗普稱與卡達保持良好關係。\n8、德國總理默茨送給特朗普一件定製的德國國家足球隊球衣，背後印有“TRUMP”字樣和“47號”。"
-    },
-    {
-      "id": "4940530",
-      "time": "2026-06-17 17:03:17",
-      "tags": [
-        "其他"
-      ],
-      "text": "英國競爭與市場管理局（CMA）：這些新舉措將確保搜尋結果排名公平客觀，就排名變更提供更清晰的資訊，並建立有效的投訴渠道。"
-    },
-    {
-      "id": "4940529",
-      "time": "2026-06-17 17:02:52",
-      "tags": [
-        "公司"
-      ],
-      "text": "英國競爭與市場管理局（CMA）：該局將採取進一步行動，為英國企業爭取更公平的交易環境，並最佳化英國境內的谷歌搜尋服務。"
-    },
-    {
-      "id": "4940528",
-      "time": "2026-06-17 17:02:47",
-      "tags": [
-        "公司"
-      ],
-      "text": "英國競爭與市場管理局（CMA）：今日新增兩項行為要求，將確保谷歌包括AI摘要在內的搜尋排名公平，並保障使用者能夠從自身資料共享中獲益。"
-    },
-    {
-      "id": "4940527",
-      "time": "2026-06-17 17:02:37",
-      "tags": [
-        "公司"
-      ],
-      "text": "英國競爭與市場管理局（CMA）表示，已根據英國數字市場競爭制度，針對谷歌的通用搜尋服務新增兩項行為要求。"
-    },
-    {
-      "id": "4940525",
-      "time": "2026-06-17 17:02:21",
-      "tags": [
-        "宏觀",
-        "焦點"
-      ],
-      "text": "【國務院印發《實施就業優先戰略“十五五”規劃》】日前，國務院印發《實施就業優先戰略“十五五”規劃》（以下簡稱《規劃》），明確了“十五五”時期深入實施就業優先戰略、促進高質量充分就業的思路目標、重點任務和政策舉措。《規劃》強調，堅持以習近平新時代中國特色社會主義思想為指導，聚焦促進高質量充分就業目標，圍繞就業領域人力資源供需不匹配的主要矛盾，堅持投資於物和投資於人緊密結合，以推動高質量發展為基礎，以實施就業優先戰略為引領，以強化就業優先政策為抓手，以破解結構性就業矛盾為著力點，以深化就業體制機制改革為動力，以不發生規模性失業風險為底線，健全就業促進機制，構建就業友好型發展方式，加強人力資源開發利用，強化擇業和用人觀念引導，持續促進就業質的有效提升和量的合理增長，不斷增強廣大勞動者獲得感幸福感安全感。（央視新聞）"
-    },
-    {
-      "id": "4940524",
-      "time": "2026-06-17 17:01:42",
-      "tags": [
-        "公司"
-      ],
-      "text": "【熱景生物：子公司創新藥SGT003注射液獲藥物臨床試驗批准通知書】熱景生物公告，子公司北京舜景生物醫藥技術有限公司研製的創新藥SGT003注射液臨床試驗申請（IND）已獲得國家藥品監督管理局（NMPA）批准。SGT003注射液是一款基於舜景醫藥自主構建的NexTreg™技術平臺開發的全球首款進入臨床研究（FIH）的新型雙特異性抗體候選藥物，其核心創新在於精準清除腫瘤微環境調節性T細胞（Tregs），啟用抗腫瘤免疫。"
-    },
-    {
-      "id": "mkt:019ed4d0-8b60-7dd8-b04a-17b076f4b7a6",
-      "time": "2026-06-17 17:01:37",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Precious Metals",
-        "XAUUSD",
-        "Impact bullish",
-        "DXY",
-        "Impact bearish"
-      ],
-      "text": "【DWS sees significant upside for gold】Asset manager DWS says gold has substantial upside. After a YTD pullback and a clear retreat from prior highs leaving year-to-date returns slightly negative, DWS says US rate-cut expectations, a potentially softer dollar and continued strong central-bank buying over the next 12 months should support prices; it expects gold to reach $5,400/oz by June 2027."
-    },
-    {
-      "id": "mkt:019ed4cf-fef5-7dd8-b04a-0a1e3ecad6b1",
-      "time": "2026-06-17 17:01:01",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "China's State Council issued the 'Implementation Plan for the Employment-First Strategy under the 15th Five-Year Plan', Xinhua said."
-    },
-    {
-      "id": "mkt:019ed4cf-d84f-7dd8-b04a-04c60a07cb8b",
-      "time": "2026-06-17 17:00:51",
-      "tags": [
-        "MKT News",
-        "Important",
-        "3690.HK",
-        "Impact bearish"
-      ],
-      "text": "China opens public consultation on draft rules for food-delivery platforms that bar long-term, large-scale subsidies that disrupt market order."
-    },
-    {
-      "id": "4940523",
-      "time": "2026-06-17 17:00:42",
-      "tags": [
-        "資料"
-      ],
-      "text": "歐元區5月CPI年率終值 3.2%，預期3.20%，前值3.20%。\n歐元區5月CPI月率終值 0.1%，預期0.10%，前值0.10%。\n歐元區5月核心CPI年率終值 2.3%，預期2.3%，前值2.3%。\n歐元區5月核心CPI月率終值 0.3%，預期0.3%，前值0.3%。"
-    },
-    {
-      "id": "4940522",
-      "time": "2026-06-17 17:00:31",
-      "tags": [
-        "公司",
-        "焦點"
-      ],
-      "text": "【非法收受財物1.52億餘元 中國海油原副總經理袁光宇一審被判死緩】2026年6月17日，江蘇省徐州市中級人民法院一審公開宣判中國海洋石油集團有限公司原黨組成員、副總經理袁光宇受賄案，對被告人袁光宇以受賄罪判處死刑，緩期二年執行，剝奪政治權利終身，並處沒收個人全部財產；對追繳在案的袁光宇受賄所得財物及孳息依法予以追繳，上繳國庫。"
-    },
-    {
-      "id": "4940521",
-      "time": "2026-06-17 17:00:22",
-      "tags": [
-        "宏觀",
-        "焦點"
-      ],
-      "text": "【不得以長期、大額補貼擾亂市場秩序 外賣平臺新規公開徵求意見】為規範外賣平臺補貼行為，市場監管總局依據《中華人民共和國反壟斷法》《中華人民共和國反不正當競爭法》《中華人民共和國價格法》《中華人民共和國電子商務法》《中華人民共和國食品安全法》等法律法規規定，在廣泛聽取各方面意見的基礎上，加強研究論證，起草形成《外賣平臺補貼行為規範十條（徵求意見稿）》（以下簡稱《徵求意見稿》），自即日起至7月17日公開徵求意見。近段時間以來，外賣平臺“拼補貼、拼價格、控流量”問題突出，損害平臺內經營者、外賣騎手、消費者利益，擠壓實體經濟，加劇行業“內卷式”競爭。國務院反壟斷反不正當競爭委員會辦公室開展外賣行業市場競爭狀況調查、評估發現，我國外賣平臺存在利用資本優勢搶佔市場、裹挾平臺內經營者參加補貼、導致行業非理性競爭等問題，亟須規範外賣平臺補貼行為，引導外賣平臺依法合規經營，開展良性競爭。"
-    },
-    {
-      "id": "em:jjsj_oyqsj:202606173774614864",
-      "time": "2026-06-17 17:00:20",
-      "tags": [
-        "經濟數據",
-        "歐元區"
-      ],
-      "text": "【歐元區5月CPI終值同比增長3.2% 符合預期】歐元區5月CPI終值同比增長3.2%，預估3.2%，前值3.2%；環比增長0.1%，預計0.1%，前值0.1%。"
-    },
-    {
-      "id": "te:markets:559682",
-      "time": "2026-06-17 17:00:16",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Currency",
-        "Importance 1"
-      ],
-      "text": "FX Updates: Brazilian Real Increases by 0.31% — Top currency gainers are Brazilian Real (0.31%) and Japanese Yen (0.14%). Biggest losers are South Korean Won (-0.29%), British Pound (-0.08%) and Euro (-0.06%). Meanwhile Dollar Index was little changed."
-    },
-    {
-      "id": "mkt:019ed4cf-49a8-7dd8-b049-fc2e23094bc7",
-      "time": "2026-06-17 17:00:14",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Europe & UK"
-      ],
-      "text": "Eurozone May final CPI YoY 3.2%; consensus 3.2%, prior 3.2%."
-    },
-    {
-      "id": "mkt:019ed4cf-350c-7dd8-b049-f4be2ec0aa8d",
-      "time": "2026-06-17 17:00:09",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "Eurozone May CPI (final) MoM +0.1%; expected +0.1%; prior +0.1%."
-    },
-    {
-      "id": "mkt:019ed4cf-33c8-7dd8-b049-ec2b7b466686",
-      "time": "2026-06-17 17:00:09",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK",
-        "EURUSD"
-      ],
-      "text": "Euro-area May core CPI final y/y 2.3%; expected 2.3%, prior 2.3%."
-    },
-    {
-      "id": "mkt:019ed4cf-33c7-7dd8-b049-e27acc5bde4c",
-      "time": "2026-06-17 17:00:09",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK",
-        "EURUSD"
-      ],
-      "text": "Euro area May core CPI (final) m/m +0.3%, in line with expectations and the prior +0.3%."
-    },
-    {
-      "id": "4940520",
-      "time": "2026-06-17 17:00:05",
-      "tags": [
-        "其他"
-      ],
-      "text": "據中指研究院，2026年5月末上海二手房庫存為23.11萬套，對比2025年8月庫存高峰期已經下降了約28.4%。"
-    },
-    {
-      "id": "mkt:019ed4cf-130f-7dd8-b049-d9a36eb4819f",
-      "time": "2026-06-17 17:00:01",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "Eurozone | CPI Final (YoY) (May) | actual 3.2% | consensus 3.20% | previous 3.20%"
-    },
-    {
-      "id": "mkt:019ed4cf-130d-7dd8-b049-d32bae9c52a3",
-      "time": "2026-06-17 17:00:01",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "Eurozone | Core CPI Final (YoY) (May) | actual 2.3% | consensus 2.3% | previous 2.3%"
-    },
-    {
-      "id": "mkt:019ed4cf-12f4-7dd8-b049-cf51f771a691",
-      "time": "2026-06-17 17:00:01",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "Eurozone | Core CPI Final (MoM) (May) | actual 0.3% | consensus 0.3% | previous 0.3%"
-    },
-    {
-      "id": "4940519",
-      "time": "2026-06-17 16:59:49",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：與波羅的海海運石油基礎設施資產有關聯的俄羅斯知名商人伊利亞·特拉伯在聖彼得堡被拘留。"
     }
   ]
 }
