@@ -1,7 +1,133 @@
 {
-  "updated": "2026-06-24 21:12:09",
+  "updated": "2026-06-24 21:16:11",
   "count": 17263,
   "items": [
+    {
+      "id": "4952906",
+      "time": "2026-06-24 21:15:00",
+      "tags": [
+        "市場"
+      ],
+      "text": "倫敦洲際交易所（ICE）可可期貨上漲超7%，報每噸3757英鎊。"
+    },
+    {
+      "id": "4952905",
+      "time": "2026-06-24 21:14:35",
+      "tags": [
+        "國際"
+      ],
+      "text": "訊息人士稱，俄羅斯已向哈薩克請求提供5萬噸汽油，以緩解國內燃料短缺問題。"
+    },
+    {
+      "id": "4952904",
+      "time": "2026-06-24 21:14:31",
+      "tags": [
+        "公司"
+      ],
+      "text": "紫訊技術（福建）股份有限公司向港交所提交上市申請書，獨家保薦人為國泰海通。"
+    },
+    {
+      "id": "mkt:019ef9c4-1425-7dd8-b0fa-8a3be1426138",
+      "time": "2026-06-24 21:13:57",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "NEM.O",
+        "Impact bearish",
+        "KGC.O",
+        "GLD.O"
+      ],
+      "text": "US-listed gold mining stocks fell: Newmont (NEM.N) -4.4%, Sibanye -6.1%, AngloGold Ashanti -7.0%, SPDR Gold Shares (GLD) -3.0%, Gold Fields -6.5%, Harmony Gold -6.0%, Kinross Gold -3.9%."
+    },
+    {
+      "id": "4952903",
+      "time": "2026-06-24 21:13:55",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【*ST未名：股票連續3日收盤跌幅累計偏離13.82% 屬異常波動】*ST未名公告稱，公司股票2026年6月22日-6月24日連續3個交易日收盤價格跌幅累計偏離13.82%，屬於異常波動。經自查，公司未發現公共傳媒報道可能影響股價的未公開重大資訊，近期經營及內外部環境未變，公司及控股股東無應披露未披露事項，控股股東在此期間無買賣公司股票行為，公司不存在違反公平資訊披露規定情形。公司股票於4月30日起被實施“退市風險警示”，提醒投資者理性投資，注意風險。"
+    },
+    {
+      "id": "4952902",
+      "time": "2026-06-24 21:13:47",
+      "tags": [
+        "公司"
+      ],
+      "text": "【宏和科技：Q布已透過下游客戶認證並具備量產能力】有投資者問宏和科技，公司是否已經提供Q布在進行測試了？是否有量產計劃？今年訂購的豐田織布機五百臺是否都到位了？宏和科技在互動平臺表示，公司Q布已透過下游客戶認證，並已具備量產能力，將依客戶訂單需求量生產Q布。織布機後續會按進度到貨。"
+    },
+    {
+      "id": "4952901",
+      "time": "2026-06-24 21:13:43",
+      "tags": [
+        "其他"
+      ],
+      "text": "聯合國兒童基金會與全球疫苗免疫聯盟呼籲藥企合作，加快推廣邦迪布約埃博拉病毒疫苗的可及性。"
+    },
+    {
+      "id": "4952900",
+      "time": "2026-06-24 21:13:27",
+      "tags": [
+        "公司"
+      ],
+      "text": "Top Ships公司公告：Legio X號油輪已安全駛出霍爾木茲海峽。"
+    },
+    {
+      "id": "4952899",
+      "time": "2026-06-24 21:12:38",
+      "tags": [
+        "其他"
+      ],
+      "text": "【OpenAI攜手博通推出首款定製晶片】OpenAI與博通於週三聯合釋出了雙方合作打造的首款定製晶片，代號“Jalapeño”，標誌著OpenAI正式進軍人工智慧晶片領域。該晶片將由博通製造，用於OpenAI的推理任務。這是OpenAI“構建模型及產品背後完整技術棧”計劃的重要一步。OpenAI總裁格雷格·布羅克曼在宣告中表示：“透過自行設計更多的技術棧，我們能夠以更高的效率提供更多的智慧服務，並持續推動先進AI向更廣泛人群普及。”雙方將這款晶片稱為Intelligence Processor，並稱其為正在構建的平臺上的首款“AI加速器”，旨在“使先進AI更快、更可靠，並讓更多人能夠使用”。該晶片的物理樣品將於週三交付OpenAI。雙方表示，目標是在2026年底前實現Jalapeño晶片的初步部署，並在未來數年逐步擴大規模。"
+    },
+    {
+      "id": "mkt:019ef9c2-d026-7dd8-b0fa-871d84250ae0",
+      "time": "2026-06-24 21:12:34",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "AI Revolution",
+        "AVGO.O"
+      ],
+      "text": "【OpenAI and Broadcom unveil first custom chip】OpenAI and Broadcom on Wednesday unveiled a jointly developed custom inference chip codenamed \"Jalapeño\", marking OpenAI's formal entry into AI chip development. Broadcom will manufacture the Intelligence Processor, which both parties call the platform’s first \"AI accelerator\"; a physical sample was delivered Wednesday and initial deployment is targeted by end‑2026 with scale‑up planned over subsequent years. OpenAI president Greg Brockman said designing more of the technology stack will let the company deliver intelligent services more efficiently and broaden access to advanced AI."
+    },
+    {
+      "id": "4952898",
+      "time": "2026-06-24 21:12:17",
+      "tags": [
+        "其他"
+      ],
+      "text": "瑞銀將AMD目標股價從455美元上調至670美元。"
+    },
+    {
+      "id": "4952897",
+      "time": "2026-06-24 21:11:58",
+      "tags": [
+        "市場"
+      ],
+      "text": "紐約期金日內跌4%，現報3983.30美元/盎司。"
+    },
+    {
+      "id": "mkt:019ef9c2-3afe-7dd8-b0fa-7c350a257b6d",
+      "time": "2026-06-24 21:11:56",
+      "tags": [
+        "MKT News",
+        "GOOG.O",
+        "Impact bullish"
+      ],
+      "text": "Google (GOOG.O): Google Wallet extends access to the TSA's contactless identity verification for more travelers."
+    },
+    {
+      "id": "4952896",
+      "time": "2026-06-24 21:11:54",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金失守3970美元/盎司，日內跌3.41%。"
+    },
     {
       "id": "4952895",
       "time": "2026-06-24 21:11:03",
@@ -157824,129 +157950,6 @@
         "公司"
       ],
       "text": "亞馬遜創始人貝佐斯：人工智慧只會賦能人類，而非取代人類。"
-    },
-    {
-      "id": "mkt:019ed5b8-fc2f-7dd8-b051-e17feaca63da",
-      "time": "2026-06-17 21:15:30",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "【Shanghai mayor meets Myanmar president; Min urges Shanghai firms to deepen trade and investment ties】Shanghai mayor Gong Zheng met Myanmar President Min Aung Hlaing on June 17. Min said Shanghai is central to China’s economy, noting strong development in industry, trade, finance and shipping, and called for strengthened comprehensive cooperation and deeper economic, trade and investment links. He invited more Shanghai companies to invest in Myanmar to expand bilateral commercial ties and benefit both populations."
-    },
-    {
-      "id": "4941150",
-      "time": "2026-06-17 21:15:10",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "甲醇連續主力合約日內跌1%，現報2615.00元。"
-    },
-    {
-      "id": "4941149",
-      "time": "2026-06-17 21:14:50",
-      "tags": [
-        "國際"
-      ],
-      "text": "歐盟委員會主席馮德萊恩呼籲與美國在人工智慧領域加強合作。"
-    },
-    {
-      "id": "4941148",
-      "time": "2026-06-17 21:14:44",
-      "tags": [
-        "國際"
-      ],
-      "text": "埃及航空訊息：開羅航空開通亞美尼亞至新阿拉曼航線。"
-    },
-    {
-      "id": "mkt:019ed5b8-1b7f-7dd8-b051-da98384439e3",
-      "time": "2026-06-17 21:14:33",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【SpaceX cargo Dragon returns to Earth with research samples】SpaceX’s cargo Dragon splashed down off Southern California on June 17, returning scientific samples and flight hardware to NASA. Recovered payloads include bioprinted organs and cartilage, DNA biomimetic materials for cancer-therapy research, and experimental data on cryogenic fuel-storage technologies aimed at informing future missions. Hardware recovered includes an ocular imager for astronaut eye monitoring, an air purifier for trace-contaminant removal, and a waste/hygiene separation pump."
-    },
-    {
-      "id": "mkt:019ed5b8-1982-7dd8-b051-d02e026ca229",
-      "time": "2026-06-17 21:14:32",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "European Commission President Ursula von der Leyen urged stronger cooperation with the United States on artificial intelligence."
-    },
-    {
-      "id": "4941147",
-      "time": "2026-06-17 21:14:15",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【美貨運“龍”飛船攜科研樣品返回地球】美國太空探索技術公司的貨運“龍”飛船攜帶大量科研物資和裝置返回地球，17日濺落在美加利福尼亞州附近海域。據美國航空航天局介紹，“龍”飛船於美國東部時間16日12時25分許（北京時間17日0時25分許）脫離國際空間站，啟程返回地球。“龍”飛船於美國西部時間17日5時11分許（北京時間17日20時11分許），濺落在加利福尼亞州附近海域。（新華社）"
-    },
-    {
-      "id": "4941146",
-      "time": "2026-06-17 21:14:01",
-      "tags": [
-        "國際"
-      ],
-      "text": "【龔正會見緬甸總統敏昂萊 為兩國務實合作作出上海積極貢獻】上海市市長龔正今天（6月17日）會見了緬甸總統敏昂萊一行。龔正代表上海市人民政府，對敏昂萊總統到訪上海表示熱烈歡迎。龔正說，中國和緬甸是山水相連的友好鄰邦，上海十分重視與緬甸的友好往來。近年來雙方開展了務實合作，取得積極成效。我們將認真落實習近平主席和您達成的重要共識，發揮地方合作優勢，為兩國務實合作作出上海的積極貢獻。上海作為中國最大的經濟中心城市，正在積極推進高水平對外開放，加強國際合作交流。希望以高質量共建“一帶一路”為契機，進一步加強與緬甸在經貿投資、人文交流等領域的合作，實現更高水平的互利共贏，為兩地人民謀取更大福祉。熱忱歡迎更多緬甸企業亮相第九屆進博會，投資上海、共享發展機遇。同時，希望雙方進一步深化文化、教育等方面交流合作，促進雙方民眾加強溝通、增進了解，推動中緬情誼源遠流長。敏昂萊說，談到中國就離不開上海，上海是中國經濟最活躍的城市，在工業、貿易、金融、航運等各個領域發展成果顯著，很高興再次訪問上海。緬甸和中國胞波情誼源遠流長，兩國睦鄰友好夥伴關係堅實牢固，合作空間廣闊。期待與中國加強全方位合作，進一步深化經貿投資往來，歡迎更多上海企業來到緬甸投資興業，更好惠及兩國民眾。緬甸外交部部長丁貌瑞、緬甸駐華大使佐溫敏，中國駐緬甸大使馬珈、上海市副市長賀青參加會見。 (上觀新聞)"
-    },
-    {
-      "id": "4941145",
-      "time": "2026-06-17 21:14:00",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "PTA連續主力合約日內漲1%，現報5838.00元。"
-    },
-    {
-      "id": "4941144",
-      "time": "2026-06-17 21:13:34",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "【歐洲央行行長拉加德發出警告 稱AI對金融穩定構成巨大風險】歐洲央行行長拉加德表示，人工智慧可能引發危險的金融危機，該行決心確保這種情況不會發生。“即使有我們穩健的監管，我們也無法阻止人工智慧，”她週三在威尼斯發表演講時說。“不過，我們能做的是做好準備，讓我們的居民能夠從中受益，並免受其所帶來危險的傷害，而這正是我們正在做的事情。”她警告稱，真正的風險並不是人工智慧本身，而是在這樣一個具有顛覆性的新變數出現之後可能引發的動盪。拉加德表示：“在近代史上，有一種力量摧毀的就業崗位、吞噬的儲蓄比科技還要多，這種力量就是金融危機。”“隨著這些系統變得更加強大，它們正在越來越深入地擴充套件到經濟之中。”"
-    },
-    {
-      "id": "mkt:019ed5b6-f7a0-7dd8-b051-cb3629a70019",
-      "time": "2026-06-17 21:13:18",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "ECB President LAGARDE warned AI poses a huge risk to financial stability."
-    },
-    {
-      "id": "te:markets:559741",
-      "time": "2026-06-17 21:13:04",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 0"
-      ],
-      "text": "UK Natural Gas Prices Fall to 2-Month Low — UK natural gas prices fell to around 98 pence a therm, the lowest since April 17, as markets awaited further details on a US-Iran deal that could lead to the reopening of the Strait of Hormuz. The interim accord is set to be signed in Switzerland on June 19, though the memorandum of understanding has not yet been released. President Donald Trump reiterated on Monday that the strategic waterway would be fully accessible by Friday and operate \"toll-free.\" The prospect of restored maritime traffic through the strait has significantly eased concerns about prolonged disruptions to oil and gas flows from the Persian Gulf. However, uncertainty remains over how quickly regional production can recover, particularly after extensive damage to Qatar's Ras Laffan complex, the world's largest LNG export facility. Meanwhile, forecasts of hot weather across Europe next week are expected to boost gas consumption."
-    },
-    {
-      "id": "4941143",
-      "time": "2026-06-17 21:12:47",
-      "tags": [
-        "市場",
-        "央行",
-        "國際"
-      ],
-      "text": "【在沃什領導下的美聯儲首次利率決議公佈前，美債收益率走高】在美聯儲主席凱文·沃什領導下的首次利率決議公佈前，美債收益率小幅走高。預計利率將維持不變。投資者對沃什將如何改變該央行與公眾的溝通及其前瞻性指引感到好奇。在源於伊朗戰爭的通脹壓力下，今年至少加息一次的機率依然很高。和平協議的主要細節仍處於保密狀態。原油期貨小幅走高，但仍低於80美元。5月零售額增速從修正後的0.4%加快至0.9%，高於《華爾街日報》0.5%的平均預期。10年期美債收益率報4.443%，高於昨日的4.427%。兩年期美債收益率從4.046%升至4.068%。"
-    },
-    {
-      "id": "4941142",
-      "time": "2026-06-17 21:12:19",
-      "tags": [
-        "國際"
-      ],
-      "text": "GENSPARK.AI：本輪融資獲SOZO VENTURES、韓國未來資產、UPHONEST CAPITAL支援。"
     }
   ]
 }
