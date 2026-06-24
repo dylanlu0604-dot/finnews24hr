@@ -1,7 +1,294 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-06-24 07:34:28_
-_本檔包含 3466 則快訊，約 651086 字_
+_更新時間：2026-06-24 08:01:44_
+_本檔包含 3450 則快訊，約 650760 字_
+
+---
+
+### 2026-06-23 06:38:11  #MKT News #Commodities #Energy #WTI #Impact bearish #Brent
+
+【Iran crude re-entry expectations rise; oil steadies】Markets have steadied as investors weigh early progress in Iran peace talks and a U.S. decision to allow some Iranian crude sales. A U.S. 60-day license permits the sale of limited volumes of Iranian oil and petroleum products. Rebecca Babin, managing director and senior energy trader at CIBC Private Wealth Management, said, "The road to a deal remains long; however, markets may price in a supply glut before it arrives — just as they sometimes anticipate shortages before they materialize — oil prices often overshoot."
+
+---
+
+### 2026-06-23 06:35:46  #公司 #國際
+
+黑石集團Gray：投資日本（多個）資料中心。
+
+---
+
+### 2026-06-23 06:35:09  #MKT News #Commodities #Energy #WTI #Impact bullish
+
+WTI crude reached $75.00/bbl, up 0.44% intraday.
+
+---
+
+### 2026-06-23 06:35:06  #Trading Economics #Markets #Commodity #Importance 1
+
+Metals Commodities Updates: Lithium Carbonate Plunges by 6.13% — Top commodity losers are Lithium Carbonate (-6.13%), Iron Ore CNY (-1%) and Silicon (-0.65%). Gains are led by Gold (0.98%) and Platinum (0.64%).
+
+---
+
+### 2026-06-23 06:34:08  #市場
+
+【稀有“味精” 供需錯配加劇，鍺價半年漲逾八成】截至6月18日，鍺錠已攀升至25000元/千克，較2025年末漲逾83%。驅動這一輪價格飆升的，主要是AI算力基礎設施等領域對光纖的旺盛需求。在光纖製造中，四氯化鍺扮演著“味精”般的關鍵角色。它是光纖預製棒纖芯摻雜的核心原料，主要作用是提高纖芯折射率等，讓光纖的傳輸效能更“能打”。“在光纖預製棒的原材料成本里，鍺的佔比很低，但由於下游對鍺材料的純度要求高，加上國內鍺供給較為集中、材料不可替代性強，相比其他材料，鍺的供需矛盾會更為明顯。”一家頭部光纖預製棒生產商介紹。對於鍺價一路走高，上海鋼聯分析師陳琪琪表示，原因是原料供應緊張、需求增加。短期來看，鍺由於原料招標價格高企，對鍺產品成本形成支撐。此外，由於今年光纖需求、太陽能電池、軍工增量明顯，預計短期鍺錠價格高位震盪，長期依舊延續上漲態勢。有機構預計，近兩年光纖級鍺產品需求增速將維持在15%至20%。（上證報）
+
+---
+
+### 2026-06-23 06:32:27  #其他
+
+【二季度北交所過會企業掃描：業績真實性與可持續性成問詢“標配”】2026年二季度，北交所上市稽核保持常態化發行節奏，過會企業數量穩步增長。資料顯示，截至6月22日，二季度北交所過會企業達26家，今年以來累計過會企業超過60家。從上市委問詢情況來看，經營業績的真實性與可持續性成為稽核問詢的核心關注點，收入確認、毛利率變動、客戶穩定性等問題被頻繁提及。（上證報）
+
+---
+
+### 2026-06-23 06:32:09  #市場
+
+【芝商所CME Direct平臺恢復交易 早前出現連線中斷情況】據交易員表示，芝商所旗下CME Direct平臺在週一因技術故障短暫中斷後，目前已恢復交易。“由於第三方網路問題，部分CME Direct客戶在中部時間下午1點左右遇到連線中斷情況。部分受影響的客戶在重新連線時也遇到了延遲。CME Globex未受影響，”芝商所一位代表在電子郵件宣告中表示。交易員表示，此次事件影響了石油、天然氣、銅、黃金和白銀等交易。
+
+---
+
+### 2026-06-23 06:31:40  #公司 #資料 #市場 #央行 #國際
+
+【週二重要財經資訊提醒（以下均為北京時間）】
+① 08:30 日本6月製造業、服務業、綜合PMI初值；
+② 時間待定 “夏季達沃斯論壇”在大連開幕（6月23-25日），位元組跳動旗下雲與AI服務平臺2026火山引擎原動力大會（FORCE）開幕（6月23-34日）；
+③ 13:00 日本6月製造業、服務業、綜合PMI初值；
+④ 15:15 法國6月製造業、服務業、綜合PMI初值；
+⑤ 15:30 德國6月製造業、服務業、綜合PMI初值；
+⑥ 16:00 歐元區6月製造業、服務業、綜合PMI初值，歐洲央行管委Kazimir講話；
+⑦ 16:30 英國6月製造業、服務業、綜合PMI初值，歐洲央行首席經濟學家Lane在歐洲議會講話；
+⑧ 21:00 加拿大央行行長Tiff Macklem在法國巴黎講話；
+⑨ 21:45 美國6月標普全球服務業、製造業、綜合PMI初值；
+⑩ 21:55 英國央行貨幣政策委員會（MPC）成員Alan Taylor，歐洲央行副主席Boris Vujcic在英國倫敦出席2026年貨幣政策論壇並講話；
+⑪ 22:00 美國6月里士滿聯儲製造業指數；
+⑫ 次日01:30 英國央行貨幣政策委員會（MPC）成員Swati Dhingra講話；
+⑬ 時間待定 明晟公司（MSCI）將公佈年度市場分類評審結果，韓國有望進入發達市場觀察名單；
+⑭ 美股盤後 聯邦快遞釋出業績報告。
+
+---
+
+### 2026-06-23 06:30:33  #公司 #市場
+
+【光棒之渴：個別型別較年初漲價逾五倍，供應緊缺或將延續至2027年】受益於AI算力網路建設帶來的巨量光纖光纜需求，作為光纖製造“母體”的光纖預製棒（下稱“光棒”）價格較2025年初快速上漲：通用G.652D光棒報價漲幅超過180%；用於資料中心高密度佈線的G.657.A2類光棒，每等效芯公里報價則由22元至30元漲到160元，漲幅近550%。多家上市公司表示，本輪光棒價格上漲與供需失衡以及上游原材料漲價傳導等因素共同導致，預計緊缺狀態將持續到2027年。（上證報）
+
+---
+
+### 2026-06-23 06:30:05  #Trading Economics #Markets #Commodity #Importance 1
+
+Energy Commodities Updates: Crude Oil WTI Drops by 4.01% — Top commodity losers are Crude Oil WTI (-4.01%), Methanol (-3.94%) and Brent Crude Oil (-3.01%). Gains are led by Liquefied Natural Gas Japan Korea (3.56%) and Natural gas (1.32%).
+
+---
+
+### 2026-06-23 06:28:33  #MKT News #Commodities #Energy #Brent
+
+Despite a continued recovery in Persian Gulf oil flows, Barclays maintains its 2026 Brent crude price forecast at $100/bbl.
+
+---
+
+### 2026-06-23 06:28:18  #宏觀 #公司 #市場 #觀點 #國際
+
+【6月23日隔夜要聞一覽】
+1、美國財政部長貝森特宣佈，作為美國與伊朗談判框架的一部分，美國財政部已經發布一份為期60天的一般許可，授權允許伊朗石油的生產、交付和銷售。
+2、特朗普發文稱，各方都完全清楚，伊朗將同意接受大規模武器核查，以確保其在未來長期保持“核誠信”。
+3、特朗普簽署兩項行政令，推動2028年部署用於科學研究的量子計算機。
+4、國際油價22日下跌，WTI原油期貨價格下跌1.78美元，收於每桶74.82美元，跌幅為2.32%；布倫特原油期貨價格下跌2.67美元，收於每桶77.90美元，跌幅為3.31%。
+5、美國戰略石油儲備原油庫存上週減少約910萬桶，降至3.312億桶，為1983年以來最低水平。
+6、SpaceX股價週一下跌16%，收於154.60美元，創下該公司上市首日以來的最低水平。過去三個交易日累計跌幅達到23%，市值蒸發逾6000億美元。目前公司市值略高於2萬億美元。
+7、百度ADR盤後上漲，花旗對其開啟30天的看漲催化觀察。
+8、白宮將召集武器製造商開會，在庫存承壓之際推動加大彈藥生產。
+9、甲骨文上財年裁員約2.1萬，人工智慧取代部分工作崗位。
+
+---
+
+### 2026-06-23 06:28:13  #國際
+
+儘管波斯灣的石油流動性持續恢復，巴克萊仍維持2026年布倫特原油價格預測為每桶100美元。
+
+---
+
+### 2026-06-23 06:26:23  #公司
+
+【券商分類評價考核將啟，“功能發揮”成加分關鍵】從業內獲悉，2026年券商分類評價自評材料報送臨近截止日期，各家券商須於6月底前完成提交。對券商來說，這是《證券公司分類評價規定》自2025年8月修訂實施以來的又一次“大考”。從今年的工作底稿來看，加分項與扣分項均有細化調整，“功能發揮”成為加分關鍵。（上證報）
+
+---
+
+### 2026-06-23 06:25:21  #其他
+
+【AI飛輪驅動加速，半導體更多領域進入上行週期】儲存晶片的供需關係，要到2027年才會有改善跡象；AI帶動的需求正在擴散，下半年功率、模擬晶片的供應會持續緊張……展望下半年半導體產業發展趨勢，多位業內人士表示，AI給半導體帶來的成長動力愈發強勁，並持續輻射到更多的細分領域。隨著AI發展提速，半導體產業對於新材料、新技術的需求也在持續增強，超高密度高速互聯、玻璃基板封裝、碳化矽和金剛石散熱等技術加速突破，成為半導體板塊的另一條投資主線。（上證報）
+
+---
+
+### 2026-06-23 06:23:27  #MKT News
+
+Kyiv issued an air-raid alert; the government urged residents to seek shelter.
+
+---
+
+### 2026-06-23 06:22:11  #國際
+
+烏克蘭首都基輔釋出空襲警報，有關部門呼籲民眾前往防空掩體避險。
+
+---
+
+### 2026-06-23 06:21:39  #其他
+
+【二季度北交所過會企業掃描：業績真實性與可持續性成問詢“標配”】2026年二季度，北交所上市稽核保持常態化發行節奏，過會企業數量穩步增長。資料顯示，截至6月22日，二季度北交所過會企業達26家，今年以來累計過會企業超過60家。從上市委問詢情況來看，經營業績的真實性與可持續性成為稽核問詢的核心關注點，收入確認、毛利率變動、客戶穩定性等問題被頻繁提及。（上證報）
+
+---
+
+### 2026-06-23 06:21:36  #公司 #市場
+
+【超1600億元“紅包”本週派發 紅利資產配置價值仍獲看好 】Wind資料顯示，本週將有超過280家上市公司派發2025年年度現金紅利，派現總金額超過1600億元（含稅，下同），中國石油、貴州茅臺這樣的分紅“大戶”，本週計劃派現規模均在350億元以上。從二級市場表現看，中證紅利指數近幾個月有所調整，在6月22日盤中還創出年內新低。在業內人士看來，具備稀缺性的紅利資產有望在調整後獲得保險資金的進一步增配，考慮到外部不確定性風險仍存，建議關注銀行、煤炭、交通運輸、家電等具有業績改善預期、分紅穩定可持續且具備較強分紅能力的紅利資產。（中證報）
+
+---
+
+### 2026-06-23 06:20:54  #公司
+
+【首批理財公司試水“南向通” 多元跨境配置增厚收益 】監管部門擴容債券通“南向通”境內投資者範圍的政策紅利持續落地，工銀理財、中銀理財、招銀理財成為首批試點入局的理財公司，多家國有大行及股份行理財公司也在積極申請參與。業內人士表示，“南向通”顯著提升了理財公司參與跨境人民幣投資額度，理財公司可依託離岸點心債等資產增厚產品收益。與此同時，該機制也搭建起理財資金對接實體經濟離岸融資需求的渠道。（中證報）
+
+---
+
+### 2026-06-23 06:20:22  #其他
+
+【深化“兩創板”改革 資本市場釋放“新”動能 】擴大第五套標準適用範圍至人工智慧領域；支援量子科技、生物製造、具身智慧等更多領域“硬科技”企業在科創板上市；有序推進深化創業板改革，加大對新型消費和現代服務業的支援力度……2026陸家嘴論壇上，證監會集中公佈多項改革措施，核心聚焦深化“兩創板”改革，主動擁抱產業變革新趨勢。市場人士預計，隨著制度包容性持續增強、板塊定位更加清晰，資本市場將精準匹配新質生產力培育需求，全方位適配新一輪科技革命和產業變革趨勢，持續為經濟高質量發展注入資本活水與創新動能。（中證報）
+
+---
+
+### 2026-06-23 06:18:42  #國際
+
+【點心債持續擴容 離岸人民幣市場融資加速 】6月22日，工商銀行首爾分行、交通銀行香港分行等五家銀行共發行規模為27.74億元點心債。今年以來，點心債市場發行規模超8000億元，遠高於去年同期。專家認為，2026年以來，點心債發行規模持續擴容，首要原因是人民幣資產吸引力增強、離岸人民幣流動性改善，疊加中美利率分化帶來融資成本優勢。未來，境內企業“走出去”步伐加快、境外機構對人民幣融資需求上升、離岸市場基準利率曲線的建立與完善，都將推動點心債發行規模穩步增長。（中證報）
+
+---
+
+### 2026-06-23 06:17:50  #市場
+
+【LPR連續13個月保持不變 貸款利率定價基準有望多元化】6月22日，中國人民銀行授權全國銀行間同業拆借中心公佈新一期貸款市場報價利率（LPR），1年期為3.0%，5年期以上為3.5%，連續13個月保持不變。專家表示，6月兩個期限品種的LPR保持不變，符合市場預期。專家分析，一方面是由於主要政策利率保持不變，當月LPR定價基礎沒有變化；另一方面從穩息差角度看，當前報價行缺乏主動下調LPR報價加點的動力。（中證報）
+
+---
+
+### 2026-06-23 06:15:05  #Trading Economics #Markets #Currency #Importance 1
+
+FX Updates: Polish Zloty Depreciates by 0.55% — Top currency losers are Polish Zloty (-0.55%), New Zealand Dollar (-0.45%), South Korean Won (-0.43%), Euro (-0.37%) and Japanese Yen (-0.20%). Gains are led by Dollar Index (0.15%) and British Pound (0.14%).
+
+---
+
+### 2026-06-23 06:11:32  #MKT News #Hang Seng Index #Impact mixed
+
+Anker Innovations plans to issue 46.63 mln H shares in a Hong Kong listing, subject to adjustment for final offering size and any exercise of the over-allotment option. Offering price capped at HKD99.32 per share. Shares expected to begin trading on HKEX on July 2.
+
+---
+
+### 2026-06-23 06:11:31  #其他
+
+安克創新：在港上市擬發行 4663萬股H股（視乎發售量調整 權及超額配股權行使情況而定），發行價不高於99.32港元/股，預期於7月2日在港交所開始買賣。
+
+---
+
+### 2026-06-23 06:11:03  #其他
+
+【科技鏈從“數字”升級為“數智”，第四屆鏈博會折射AI產業重心躍遷】第四屆中國國際供應鏈促進博覽會6月22日在北京開幕。本屆鏈博會設定“6鏈1展區”，共吸引來自85個國家、地區和國際組織的676家企業參展。記者走訪多家展位後發現，今年最密集的駐足與快門聲，出現在首次亮相的人工智慧專區。此外，展商談及最多的不是AI有多強，而是能在哪些場景中解決什麼樣的問題，產業鏈對AI的期待從過去的“炫技”逐步走向“落地”。（上證報）
+
+---
+
+### 2026-06-23 06:10:35  #公司
+
+【甲骨文上財年裁員約2.1萬 人工智慧取代部分工作崗位】甲骨文上財年裁員約2.1萬，減員規模大於此前已知水平，其中包括因使用人工智慧(AI)而被取消的崗位。甲骨文週一在年度財務監管申報檔案中稱：“我們在各項業務中採用和部署AI技術，已經導致並且未來可能繼續導致員工人數減少。”甲骨文表示，截至5月31日的財年，公司全球全職員工總數從前一年的16.2萬降至14.1萬。此次人員縮減帶來約18億美元的重組成本。由於投入巨資為OpenAI等客戶建設AI資料中心，甲骨文面臨財務壓力
+
+---
+
+### 2026-06-23 06:08:41  #宏觀 #國際
+
+【報道：美國財長貝森特與日本財務大臣片山皋月舉行線上會議】NHK援引未具名人士報道，日本財務大臣片山皋月與美國財政部長斯科特·貝森特於日本週一晚間舉行了線上會議。日本最高外匯官員三村淳也參加了會議。
+
+---
+
+### 2026-06-23 06:07:53  #其他
+
+在費城舉辦的法國對陣伊拉克世界盃賽事，下半場開賽因強雷暴天氣推遲。
+
+---
+
+### 2026-06-23 06:07:31  #MKT News
+
+Iranian media reported that Parliament Speaker Ghalibaf, Foreign Minister Araghchi, U.S. Vice President Vance, Qatari Prime Minister Al Thani and Pakistan Prime Minister Sharif will oversee upcoming negotiations.
+
+---
+
+### 2026-06-23 06:02:41  #公司 #國際
+
+【白宮將召集武器製造商開會 在庫存承壓之際推動加大彈藥生產】白宮本週將召集防務承包商開會，推動加大彈藥生產；與伊朗近四個月的戰爭後，庫存正承受壓力。美國總統唐納德·特朗普確認了這次會議。白宮一名官員此前表示，會議將於週三舉行。“我們確實在大力推動武器生產，一些汽車公司如果有多餘產能，正在達成協議來製造導彈，特別是愛國者，”特朗普週一在白宮對記者表示，“我們已經有不少，但希望確保始終擁有大量庫存。”一位知情人士透露，RTX Corp.預計將參加討論。
+
+---
+
+### 2026-06-23 06:02:07  #央行 #國際
+
+【美聯儲7月維持利率不變的機率為63.7%】據CME“美聯儲觀察”：美聯儲7月維持利率不變的機率為63.7%，累計加息25個基點的機率為36.3%。 美聯儲到9月維持利率不變的機率為26.1%，累計加息25個基點的機率為52.5%，累計加息50個基點的機率為21.4%。
+
+---
+
+### 2026-06-23 06:01:00  #市場 #焦點
+
+紐約期銀突破66美元/盎司，日內跌0.70%。
+
+---
+
+### 2026-06-23 06:00:34  #市場 #焦點
+
+現貨白銀突破66美元/盎司，日內跌0.03%。
+
+---
+
+### 2026-06-23 05:54:32  #MKT News
+
+【Iran denies using unfrozen funds to buy US farm goods】US Vice President Vance said on June 22 in Switzerland the US has procedures to ensure any unfrozen Iranian assets would support Iranian civilians, not fund terrorism, and that released funds would be used to purchase US soybeans, corn and wheat under a US–Qatar approval mechanism. TASNIM NEWS quoted a source close to Iran‑US talks denying any agreement contains such a provision, calling Vance’s claim untrue and suggesting it was driven by US domestic politics; the source asked why Iran would spend US$12 bln buying US agricultural products.
+
+---
+
+### 2026-06-23 05:54:16  #國際
+
+【伊朗否認將用解凍資金買美農產品】美國副總統萬斯6月22日在瑞士就伊朗資產解凍問題表示，美方已建立相關流程，確保未來任何解凍資金將用於支援伊朗民眾，而非“資助恐怖主義”。據萬斯稱，被解凍的伊朗資金將用於購買美國大豆、玉米和小麥等農產品，該機制將由美國與卡達方面共同審批。不過據伊朗塔斯尼姆通訊社隨後援引一名接近伊美談判的訊息人士的話報道稱，“伊朗被凍結資金將被用於購買糧食”的說法並不屬實，在任何協議中都沒有這樣的表述。這位訊息人士表示，萬斯之所以提出這類說法，“主要是出於美國國內政治因素的考慮——出於什麼邏輯伊朗會拿120億美元去購買美國農產品呢？”(CCTV國際時訊)
+
+---
+
+### 2026-06-23 05:48:47  #Trading Economics #Economy #South Korea #Consumer Confidence #Importance 1
+
+South Korea Consumer Sentiment Improves in June — South Korea’s Composite Consumer Sentiment Index rose by 0.5 point to 95.5 in June 2026 compared with the previous month. Consumer sentiment regarding current domestic economic conditions increased three points to 86, while expectations for future economic conditions slipped one point to 92. Sentiment on current living standards rose one point to 94, while the outlook for future living standards remained unchanged at 97. Expectations for future household income and spending were also unchanged at 100 and 110, respectively. Meanwhile, the expected inflation rate for the next year stood at 2.8%, while three-year and five-year inflation expectations were 2.7% and 2.6%, respectively.
+
+---
+
+### 2026-06-23 05:42:45  #Trading Economics #Economy #Argentina #Unemployment Rate #Importance 0
+
+Argentina Unemployment Rises in Q1 2026 — Argentina’s unemployment rate rose to 7.8% in the first quarter of 2026, up from 7.5% in the previous quarter. The number of unemployed reached 1.1 million people. By region, unemployment was highest in Greater Buenos Aires at 8.7%, followed by the Pampas region at 8.2%. The jobless rate stood at 8.3% for women and 7.5% for men. Among the unemployed, 28.2% were the main income providers in their households. By education level, 36% had completed secondary education, while 10.8% had tertiary or university studies. Regarding job-search duration, 31.8% had been looking for work for more than a year, while 78.7% had previous work experience. By sector, 16.8% had last worked in construction and 16.6% in commerce. Meanwhile, the employment rate edged down to 44.8% from 45%, while labor force participation remained stable at 48.6%.
+
+---
+
+### 2026-06-23 05:35:11  #公司
+
+據傳舒適剃鬚刀母公司已拒絕非邀約收購提案。
+
+---
+
+### 2026-06-23 05:32:58  #市場
+
+彭博股指：SpaceX將於2026年6月24日收盤時被納入彭博全球股指的大盤股板塊。
+
+---
+
+### 2026-06-23 05:32:46  #MKT News
+
+Bloomberg Indices says SpaceX will be added to the large-cap segment of the Bloomberg Global Index at the close of trading on June 24, 2026.
+
+---
+
+### 2026-06-23 05:32:02  #其他
+
+Bending Spoons 投資方擬透過 IPO 募資至多 16.2 億美元。
+
+---
+
+### 2026-06-23 05:29:33  #公司 #市場 #觀點 #國際
+
+【百度ADR盤後上漲，花旗對其開啟30天的看漲催化觀察】百度在美國上市的ADR盤後交易上漲1.5%，此前花旗對這家網際網路搜尋引擎巨頭開啟30天的看漲催化觀察。分析師Alicia Yap寫道，百度“晶片和雲業務的內在實力可能成為推動股價上漲的催化因素。”“雖然難以判斷整體市場情緒何時會發生轉變，但我們相信，一旦百度晶片業務分拆時間表及市場興趣變得明朗，仍存在釋放價值的機會。”花旗給予百度“買入”評級。該公司股價今年以來下跌逾14%。
 
 ---
 
@@ -20532,365 +20819,5 @@ SpaceX：24顆星鏈衛星確認成功部署。
 ### 2026-06-22 01:35:02  #MKT News
 
 Qatari PM welcomed today's Lake Lucerne summit in Switzerland and the ongoing U.S.-Iran talks, thanked Pakistan and other parties for helping secure a consensus, said he looks forward to building on it, and thanked Switzerland for hosting.
-
----
-
-### 2026-06-22 01:32:26  #其他
-
-哥倫比亞總統大選投票站關閉。
-
----
-
-### 2026-06-22 01:25:23  #MKT News #Commodities #Energy #WTI #Impact bearish #Brent #Copper #Impact bullish
-
-【Columbia researcher: Middle East conflict to accelerate energy transition and supply diversification】Karen Young, researcher at Columbia University’s Center on Global Energy Policy, said a conflict involving Iran is exerting irreversible pressure on the oil sector and has pushed major economies to evaluate energy options outside the Middle East. "Countries are now more focused on energy security and therefore seek to diversify oil supplies and energy resources. In many regions this will mean a shift to renewables, especially in transport and electric vehicles," she said. Young warned the shift will reshape power-generation mixes and reduce the scale of gas sourced from the Middle East as countries rely more on domestic and accessible resources. "The key is not to depend on any single source, especially oil, or any single type of fuel," she added.
-
----
-
-### 2026-06-22 01:24:32  #國際
-
-以色列向美國承諾，將恪守黎巴嫩南部的黃線邊界相關立場。
-
----
-
-### 2026-06-22 01:21:54  #MKT News #Commodities #Energy
-
-Sources said a fire broke out at the combined-heat-and-power unit of Marathon's Galveston Bay refinery in Texas; no injuries reported so far.
-
----
-
-### 2026-06-22 01:21:18  #MKT News #Important
-
-Al Arabiya reported the Iranian delegation left the negotiating table and returned to its residence in Switzerland; talks with the US are continuing via intermediaries.
-
----
-
-### 2026-06-22 01:21:07  #其他
-
-訊息人士稱，馬拉松石油位於得克薩斯州加爾維斯頓灣的煉油廠聯產裝置發生火災，目前未造成人員傷亡。
-
----
-
-### 2026-06-22 01:16:49  #國際
-
-【訊息人士：伊朗方面並未離場，伊美之間的談判仍在繼續】伊朗媒體週日報道稱，伊朗代表團與此次談判的調解方之一卡達代表團會面後，已離開談判場地。該報道引發外界猜測，伊美兩國在瑞士舉行的相關磋商已暫停或結束。但美國阿克西奧斯新聞網記者巴拉克·拉維德援引一名參與談判的外交官說法，否認了上述訊息。這名外交官表示：“伊朗方面並未離場，伊美之間的談判仍在繼續。”
-
----
-
-### 2026-06-22 01:06:01  #MKT News #WTI #Impact bearish #XAUUSD #DXY
-
-Iranian state media quoted a Foreign Ministry spokesman saying Sunday’s talks centered on ending the war, lifting sanctions and securing the release of Iran’s frozen funds.
-
----
-
-### 2026-06-22 01:05:26  #MKT News #Important
-
-Axios reported a diplomat participating in the talks said the Iranian delegation had not left and U.S.-Iran negotiations were continuing.
-
----
-
-### 2026-06-22 01:05:24  #國際
-
-一名參與瑞士談判的外交官稱，伊朗代表團並未離場，美伊談判仍在進行。
-
----
-
-### 2026-06-22 01:05:18  #其他 #焦點 #國際
-
-伊朗外交部發言人表示，週日會談的重點為結束戰爭、解除制裁以及解凍伊朗被凍結資金。
-
----
-
-### 2026-06-22 01:04:40  #MKT News #XAUUSD #Impact bullish #WTI
-
-【Ghalibaf rebuffs Trump's latest threat】Ghalibaf, head of Iran’s negotiating delegation in Switzerland and speaker of the Iranian parliament, said on social media on June 21 that Iran does not take US threats seriously, warned Washington to choose its words carefully and said Iran’s armed forces are fully prepared to respond “in another way.” He added that regardless of US bluster, “we will be the ones to act.” Earlier, Trump posted that “Iran must immediately stop its ‘proxies’ in Lebanon. If not, we will strike Iran again, like last week, and only harder.”
-
----
-
-### 2026-06-22 00:48:11  #MKT News #Important #WTI #Impact bullish #Brent #XAUUSD
-
-【Iran delegation leaves Swiss talks in protest at Trump threat】On the 21st, Iran said a source close to its negotiating team reported the delegation had left the negotiating site in protest at President Trump’s threats. Informed sources said Trump’s latest remarks have paused US‑Iran talks in Switzerland and cast doubt on whether negotiations can continue. Earlier, Trump posted on Truth Social that Iran must immediately stop its "proxy" actions in Lebanon or the United States will strike Iran.
-
----
-
-### 2026-06-22 00:47:41  #焦點 #國際
-
-【抗議特朗普威脅言論 伊朗代表團離開談判地點】當地時間21日，伊朗方面釋出訊息稱，一名接近談判團隊的訊息人士透露，伊朗談判代表團因抗議特朗普的威脅言論，已離開談判地點。另據知情人士訊息，美國總統特朗普最新對伊朗發出的威脅言論導致美伊在瑞士的會談暫停，並使談判能否繼續進行蒙上陰影。此前，特朗普在社交平臺“真實社交”上發文稱，伊朗必須立即停止其在黎巴嫩的“代理人”行動，否則美國將對伊朗發動打擊。（央視新聞）
-
----
-
-### 2026-06-22 00:44:28  #國際
-
-【世界拳聯世界盃中國站：中國選手斬獲5金】2026世界拳擊聯合會（世界拳聯）世界盃中國站21日迎來決賽日，中國選手楊柳、王霄萌、包子怡、詹依蓮、吳愉分別獲得女子70公斤級、80公斤級、75公斤級、80公斤以上級和51公斤級冠軍。張家茂不敵美國選手帕特里西奧，獲得男子55公斤級亞軍。（新華社）
-
----
-
-### 2026-06-22 00:40:51  #MKT News #Important #Commodities #Energy #WTI #Impact bearish #Brent
-
-Iranian state media reported a member of Iran's negotiating team said a draft for exemptions from sanctions on Iranian oil has been finalized and formal publication of the exemptions is expected soon.
-
----
-
-### 2026-06-22 00:40:26  #宏觀 #焦點 #國際
-
-伊朗談判代表團成員對伊朗官方媒體表示：伊朗石油制裁豁免相關草案已敲定，豁免令很快就會出臺。
-
----
-
-### 2026-06-22 00:38:19  #MKT News
-
-Iranian state media reported a member of Iran's negotiation team said procedures to execute the release of Iran's frozen funds have begun, with a Qatari delegation participating.
-
----
-
-### 2026-06-22 00:37:41  #焦點 #國際
-
-伊朗談判代表團成員對官方媒體表示：伊朗凍結資金解凍的執行流程已在卡達代表團參與下完成。
-
----
-
-### 2026-06-22 00:35:54  #MKT News #WTI #Impact bullish #Brent
-
-Iranian state media reports a member of Iran's negotiating team said talks on other issues will not proceed unless the war in Lebanon ends.
-
----
-
-### 2026-06-22 00:34:57  #國際
-
-伊朗談判團隊成員對伊朗國家媒體表示：如果黎巴嫩戰事不結束，就不會就其他議題進行談判。
-
----
-
-### 2026-06-22 00:33:47  #MKT News #Market Regions #Europe & UK
-
-France's foreign ministry said the foreign minister will meet Qatar's prime minister in Switzerland on Monday local time.
-
----
-
-### 2026-06-22 00:33:11  #國際
-
-法國外交部：法國外長將於週一在瑞士會見卡達首相。
-
----
-
-### 2026-06-22 00:31:49  #MKT News #WTI #Impact bullish #Brent
-
-TASNIM NEWS, citing sources, says Iran's delegation walked out of talks in protest at comments by Trump.
-
----
-
-### 2026-06-22 00:31:25  #焦點 #國際
-
-訊息人士：伊朗代表團為抗議特朗普言論已離開談判會場。
-
----
-
-### 2026-06-22 00:28:28  #MKT News #XAUUSD #Impact bullish #DXY #WTI
-
-【Israel says it killed more than 20 Hezbollah fighters in southern Lebanon】On the 21st the IDF said it discovered an underground tunnel with four shafts and hundreds of weapons beneath the southern Lebanese village of Majdal Zoun, about 10 km from the Israel-Lebanon border, and that the 551st Brigade of its 91st Division is conducting operations there. The IDF said it killed more than 20 Hezbollah fighters during the operation, including over 10 members of the elite Radwan unit, and destroyed more than 50 military sites including observation posts and weapons storage facilities.
-
----
-
-### 2026-06-22 00:27:07  #國際
-
-伊朗塔斯尼姆通訊社稱，特朗普近期發表的威脅言論致使瑞士談判陷入暫停，也給談判程序帶來極大不確定性。
-
----
-
-### 2026-06-22 00:24:22  #國際
-
-伊朗稱，特朗普發表的威脅言論致使美伊瑞士談判中止。
-
----
-
-### 2026-06-22 00:22:41  #國際
-
-【以軍稱在黎巴嫩南部打死多名黎真主黨武裝人員】當地時間21日，以色列國防軍發表宣告稱，以軍在距離以黎邊境約10公里的黎巴嫩南部村鎮馬吉代勒祖恩地下，發現了一條建有4個地道豎井並藏有數百件武器的地道。據以色列國防軍釋出的宣告，以軍第91師指揮下的第551旅目前正在該地區展開行動。在行動期間，以軍共打死了20多名黎巴嫩真主黨武裝人員，其中包括10多名真主黨精銳武裝拉德萬部隊的成員。此外，以軍還聲稱摧毀了50多個軍事基礎設施站點，包括觀察哨和武器儲存設施。以軍透露，其在現場具體定位了一條長度超過200米、深度超過25米的地道。以方聲稱，該地道內設有4個地道豎井和12個房間，其中包括生活區以及用於儲存簡易爆炸裝置、反坦克導彈和無人機的房間。（央視新聞）
-
----
-
-### 2026-06-22 00:21:58  #國際
-
-【真主黨領導人明確拒絕以色列在黎巴嫩境內設立任何安全區】黎巴嫩真主黨領導人納伊姆·卡西姆明確拒絕以色列在黎巴嫩境內設立任何安全區。此前以色列總理內塔尼亞胡宣稱，以軍會駐守黎巴嫩南部，直至局勢不再需要駐軍為止。卡西姆表示：“以色列軍隊盤踞黎巴嫩領土，這絕無可能。”他補充稱，“以色列是侵略者，必須撤離。”
-
----
-
-### 2026-06-22 00:21:09  #國際
-
-訊息人士：伊朗代表團正在開展內部磋商，目前尚不清楚其是否會重返談判。
-
----
-
-### 2026-06-22 00:19:16  #MKT News
-
-Republican Senator Lindsey Graham said he hopes diplomacy will succeed but warned that if Iran attempts to challenge the United States, the U.S. will utterly destroy Iran.
-
----
-
-### 2026-06-22 00:18:56  #MKT News #XAUUSD #Impact bullish #DXY #WTI
-
-【Hezbollah leader says will respond to any ceasefire violations】Hezbollah leader Naim Qassem said Israel will not continue to remain stationed in Lebanon and the group will respond to any Israeli violations of the ceasefire. His remarks came as Israeli officials said the ceasefire, which took effect on Friday, still permits the Israel Defense Forces to act without restriction to remove threats inside Lebanon.
-
----
-
-### 2026-06-22 00:15:30  #國際
-
-伊朗首席談判代表卡利巴夫：他們難道就沒想過，倘若其威脅真能奏效，又怎會落到如今這般絕望的境地？我們根本不把美國的威脅放在眼裡。美方最好謹言慎行，我方武裝力量已準備好採取另一種方式予以回擊。無論美方如何叫囂，付諸行動的終將是我們。
-
----
-
-### 2026-06-22 00:15:06  #國際
-
-伊朗首席談判代表卡利巴夫表示，美國應當對自身言論謹慎行事，伊方武裝力量已做好反擊準備。
-
----
-
-### 2026-06-22 00:14:44  #MKT News #XAUUSD #Impact bullish #WTI #DXY
-
-Iran parliament speaker Ghalibaf said Iran does not care about US threats, told Washington to watch its words, and said Iran’s armed forces are prepared to respond in other ways; he added that regardless of US statements, Iran will be the one to take real action.
-
----
-
-### 2026-06-22 00:14:01  #國際
-
-【伊朗抗議特朗普近期發出的威脅 並正在考量應對舉措】伊朗已就特朗普近期發出的威脅向美國正式提出抗議，並正在考量應對舉措。德黑蘭稱，任何形式的威脅行為都違反相關協議第一條條款，該條款規定美方不得實施威脅，因此特朗普此番言論嚴重違背雙方達成的共識。
-
----
-
-### 2026-06-22 00:11:17  #國際
-
-【伊朗：若以色列不從黎巴嫩撤軍，將終止與美國的談判】伊朗方面表示，除非以色列全面撤出黎巴嫩且各戰線戰事全部平息，否則伊美之間所有談判都將中止。伊朗警告，若以色列繼續採取相關行動，伊朗將採取強硬得多的反擊措施。德黑蘭方面還懷疑美國借談判為以色列爭取喘息時間。
-
----
-
-### 2026-06-22 00:11:03  #MKT News #Important #Commodities #Energy #WTI #Impact bearish #Brent
-
-Iranian state TV quoted the head of the National Iranian Oil Company (NIOC) saying more than 25 million barrels of Iranian oil have crossed blockade lines since last Monday.
-
----
-
-### 2026-06-22 00:10:24  #公司 #焦點 #國際
-
-伊朗國家石油公司負責人表示，自週一以來，已有超過2500萬桶伊朗石油突破封鎖線運輸。
-
----
-
-### 2026-06-22 00:10:06  #焦點 #國際
-
-伊朗塔斯尼姆通訊社：若以色列不從黎巴嫩撤軍，伊朗將終止與美國的談判。
-
----
-
-### 2026-06-22 00:09:02  #國際
-
-美國能源部長賴特：伊朗依然我行我素。
-
----
-
-### 2026-06-22 00:08:01  #國際
-
-【萬斯稱特朗普要求與伊朗“翻開新篇章”】美國副總統萬斯週日（6月21日）在伊美會談前表示，特朗普已要求與伊朗“翻開新篇章”，以轉變美伊關係。
-
----
-
-### 2026-06-22 00:07:18  #MKT News #XAUUSD #Impact bullish #DXY #WTI
-
-【Hezbollah opposes Lebanon-US direct talks, says they will harm sovereignty and serve Israel】Al Jazeera reported Hezbollah opposes direct talks between the Lebanese government and the US, saying such negotiations would weaken Lebanon’s sovereignty and serve Israeli interests. The group said the Lebanese delegation in Washington was asked to sign US-proposed terms that “deprive Lebanese sovereignty” and align Lebanon with forces reconciled with Israel, calling the talks based on a “flawed” premise that would produce “surrender” rather than serve Lebanon’s interests. Hezbollah added that government participation hinders efforts to counter enemy plans and resistance on the ground, risks Lebanon’s stability and independence, and amounts to compliance with US and Israeli policy objectives.
-
----
-
-### 2026-06-22 00:05:37  #MKT News #Brent #Impact bullish #XAUUSD #DXY
-
-【Israeli chief of staff: military operations in Lebanon continue】The Israel Defense Forces said on the 21st Chief of Staff Zamir, speaking in southern Lebanon at a meeting with commanders, said military operations in Lebanon remain ongoing. Zamir said the IDF is fighting on multiple fronts and continuing strikes against Hezbollah; he added some units suffered "significant losses" with multiple soldiers and commanders killed. Israeli media reported on the 20th that the prime minister and defence minister instructed the IDF to call a cease-fire in Lebanon, but the army has not withdrawn from areas it controls in southern Lebanon. Prime Minister Netanyahu reiterated the IDF will remain in south Lebanon "as long as necessary."
-
----
-
-### 2026-06-22 00:05:28  #國際
-
-【以軍總參謀長：在黎巴嫩軍事行動仍在繼續】據以色列國防軍21日發表的宣告，以軍總參謀長扎米爾當天在黎巴嫩南部與以軍指揮官會面時稱，以軍在黎巴嫩的軍事行動仍在繼續。扎米爾稱，以軍“正在多線作戰”，持續打擊黎真主黨武裝組織。他還稱，以軍一些部隊遭受“重大損失”，有多名士兵和指揮官死亡。以色列媒體20日報道說，以總理和國防部長指示以軍在黎巴嫩停火，但以軍未撤出其在黎南部控制的地區。以總理內塔尼亞胡重申“只要有必要”，以軍會一直駐留在黎南部。（新華社）
-
----
-
-### 2026-06-22 00:01:58  #國際
-
-訊息人士：伊朗代表團將不在日內瓦與國際原子能機構總幹事舉行會談。美方原本希望國際原子能機構總幹事格羅西出席瑞士舉行的伊美談判，但伊朗拒絕了這一提議。
-
----
-
-### 2026-06-22 00:01:19  #國際
-
-伊朗方面稱，特朗普的威脅行為嚴重違反諒解備忘錄。
-
----
-
-### 2026-06-21 23:57:48  #其他
-
-迪士尼《玩具總動員5》北美首映票房達1.6億美元。
-
----
-
-### 2026-06-21 23:55:26  #MKT News #XAUUSD #Impact bullish #Brent
-
-Hezbollah leader said the group will respond to any act of aggression.
-
----
-
-### 2026-06-21 23:55:24  #其他
-
-真主黨領袖稱將對任何侵犯行為作出回應。
-
----
-
-### 2026-06-21 23:55:14  #MKT News #XAUUSD #Impact bullish #WTI #DXY
-
-Hezbollah leader says Israel will not continue to be stationed in Lebanon.
-
----
-
-### 2026-06-21 23:55:00  #宏觀 #國際
-
-【以總理稱以軍將根據需要繼續駐留黎巴嫩南部】當地時間21日，以色列總理內塔尼亞胡公開表示，以色列軍隊將根據安全需要在黎巴嫩南部的“安全區”長期駐留，並重申將採取一切手段阻止伊朗獲得核武器。內塔尼亞胡在當天的一場講話中表示，以色列在過去一年中針對伊朗實施了兩次重大軍事行動，旨在“消除來自伊朗的緊迫威脅”。他強調，以色列已經取得了“重大成果”，且絕不會妥協，將繼續捍衛其根本利益。在談及黎巴嫩南部局勢時，內塔尼亞胡強調，以軍將繼續駐留在黎南部的所謂“安全區”，直至消除對以色列北部及全國民眾的“安全威脅”。內塔尼亞胡堅稱，只要其還擔任以色列總理，他在這一問題上的堅定立場就絕不改變。同時，只要其還擔任以色列總理，無論政治局勢如何發展，他都絕不允許伊朗擁有核武器。（央視新聞）
-
----
-
-### 2026-06-21 23:54:42  #國際
-
-真主黨領導人稱，以色列不會留在黎巴嫩。
-
----
-
-### 2026-06-21 23:54:33  #MKT News
-
-According to Axios, a U.S. official said Iranian delegates had agreed to hold an on-site media briefing at the start of a meeting and brought state media to the venue, but left after seeing the number of journalists present and later issued an inaccurate account through state media.
-
----
-
-### 2026-06-21 23:54:08  #其他
-
-【亞洲接力錦標賽 中國隊創造男子4x100米接力賽會紀錄】2026亞洲接力錦標賽北京時間6月21日在紹興上虞結束，由謝震業、施君豪、黃友聞、陳錦豐組成的中國隊以38.08秒的成績奪得冠軍，並創男子4x100米接力賽會紀錄。（央視新聞）
-
----
-
-### 2026-06-21 23:52:57  #國際
-
-一名美方官員透露，伊朗代表此前已同意會談開場安排媒體採訪環節。該官員稱：“他們甚至攜帶本國官方媒體記者到場報道，相關人員也已提前就位。但在看到現場媒體人數眾多後，伊朗代表直接離場，隨後還透過本國官媒釋出與事實不符的會談情況說明。”
-
----
-
-### 2026-06-21 23:48:49  #國際
-
-據伊朗媒體21日報道，伊朗代表團已就美國總統特朗普近期口頭威脅向美方提出抗議，目前正在制定適當回應方案。
-
----
-
-### 2026-06-21 23:48:49  #MKT News #Market Themes #The Trump Trade #XAUUSD #Impact bullish #DXY #WTI
-
-【Iranian delegation lodges protest over Trump's verbal threats】Iranian media said on the 21st the Iranian delegation has lodged a protest with the US over recent verbal threats by President Trump and is preparing an appropriate response.
-
----
-
-### 2026-06-21 23:44:49  #MKT News
-
-【Iran delegation begins bilateral talks with Qatar】Iranian media on the 21st reported that after the first round of Iran‑US negotiations concluded, Iran's delegation began bilateral talks with Qatar's delegation.
 
 ---
