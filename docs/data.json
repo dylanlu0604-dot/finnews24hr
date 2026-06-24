@@ -1,7 +1,86 @@
 {
-  "updated": "2026-06-25 04:34:43",
-  "count": 17026,
+  "updated": "2026-06-25 04:38:48",
+  "count": 17031,
   "items": [
+    {
+      "id": "4953491",
+      "time": "2026-06-25 04:37:23",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國白宮：特朗普向國會申請 5 億美元用於紐約賓夕法尼亞車站翻新工程，另申請 10 億美元，用以提高通用汽車破產期間福利受損工人的養老金。"
+    },
+    {
+      "id": "4953490",
+      "time": "2026-06-25 04:37:05",
+      "tags": [
+        "其他"
+      ],
+      "text": "美光科技：目前看不到供應實現供需平衡的明確時間點。"
+    },
+    {
+      "id": "4953489",
+      "time": "2026-06-25 04:36:51",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普談及伊朗校園襲擊事件：不確定他們能否解決此事。"
+    },
+    {
+      "id": "4953488",
+      "time": "2026-06-25 04:35:50",
+      "tags": [
+        "公司",
+        "其他",
+        "焦點",
+        "國際"
+      ],
+      "text": "美光科技：預計 2028 年儲存晶片供應將逐步改善。"
+    },
+    {
+      "id": "4953486",
+      "time": "2026-06-25 04:35:30",
+      "tags": [
+        "其他"
+      ],
+      "text": "高通：預計安卓系統硬體裝置營收將增長大約5%。在2029財年，預計硬體將在收入佔比大約三分之一。"
+    },
+    {
+      "id": "te:markets:561642",
+      "time": "2026-06-25 04:35:10",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The Dow Jones Index Closes 0.34% Higher — The Dow Jones Index rose 174 points or 0.34 percent on Wednesday to close at 51840 points. Leading the gains are Home Depot (5.35%), Sherwin-Williams (3.12%) and 3M (2.49%). Top losers were Chevron (-2.43%), Walt Disney (-2.34%) and Microsoft (-2.27%)."
+    },
+    {
+      "id": "4953485",
+      "time": "2026-06-25 04:34:58",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：烏克蘭總統澤連斯基表現得相當不錯， 他撐得住局面。"
+    },
+    {
+      "id": "mkt:019efb57-aa61-7dd8-b104-dfa8ba0a6aac",
+      "time": "2026-06-25 04:34:46",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "US President Trump said Ukrainian President Zelenskiy has performed quite well."
+    },
+    {
+      "id": "mkt:019efb57-734f-7dd8-b104-d220ade9aac0",
+      "time": "2026-06-25 04:34:32",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "US President Trump said he would not have attended the NATO summit in Ankara if not for Turkish President Erdogan."
+    },
     {
       "id": "mkt:019efb57-12a3-7dd8-b104-cafa3b6b2586",
       "time": "2026-06-25 04:34:08",
@@ -155534,52 +155613,6 @@
         "國際"
       ],
       "text": "伊朗議長卡利巴夫稱沒有禁止美國在伊朗投資。"
-    },
-    {
-      "id": "4941842",
-      "time": "2026-06-18 04:38:44",
-      "tags": [
-        "國際"
-      ],
-      "text": "真主黨領導人稱讚伊朗在與美國達成諒解備忘錄後取得了“重大勝利”。"
-    },
-    {
-      "id": "te:markets:559824",
-      "time": "2026-06-18 04:38:10",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Brazil",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "Ibovespa Falls on Hawkish Fed Outlook — The Ibovespa fell 0.7% to close at 168,454 on Wednesday as investors assessed monetary policy decisions from the BCB and the Federal Reserve. Markets had largely expected Brazil's central bank to cut the Selic rate by 25 basis points to 14.25%, although a pause remained possible amid a worsening external backdrop, higher oil prices, and deteriorating inflation expectations. As expected, the Fed left interest rates unchanged at 3.50%-3.75% but signaled a more hawkish outlook, reinforcing expectations that borrowing costs could remain elevated for longer and weighing on risk sentiment. Banks traded mixed, with Itaú rising 0.9% while Bradesco slipped 0.6%. Utilities also posted losses, with Axia down 1.4%. Vale fell 2% amid lower iron ore prices, while WEG advanced 2.3% after approving R$438.1 million in interest on equity."
-    },
-    {
-      "id": "mkt:019ed74c-d204-7dd8-b064-37aedb921d88",
-      "time": "2026-06-18 04:36:36",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "DXY",
-        "Impact bullish",
-        "EURUSD",
-        "Impact bearish",
-        "USDJPY"
-      ],
-      "text": "【Dollar index rises 0.55% to 100.091 on the 17th】The dollar index, which tracks the greenback against six major currencies, rose 0.55% to 100.091 at the New York FX close on the 17th. EUR/USD 1.1539 (prior 1.1610); GBP/USD 1.3338 (prior 1.3429); USD/JPY 160.50 (prior 160.44); USD/CHF 0.7971 (prior 0.7931); USD/CAD 1.4071 (prior 1.3993); USD/SEK 9.4610 (prior 9.3618)."
-    },
-    {
-      "id": "te:markets:559823",
-      "time": "2026-06-18 04:35:11",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The Dow Jones Index Closes 0.99% Lower — The Dow Jones Index fell 514 points or 0.99 percent on Wednesday to close at 51486 points. Leading the losses are Salesforce (-4.16%), Microsoft (-3.80%) and Amazon (-3.48%). Top gainers were Caterpillar (1.01%), Goldman Sachs (0.77%) and JPMorgan (0.71%)."
     }
   ]
 }
