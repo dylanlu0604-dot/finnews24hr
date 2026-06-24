@@ -1,7 +1,58 @@
 {
-  "updated": "2026-06-25 05:14:52",
-  "count": 17062,
+  "updated": "2026-06-25 05:18:53",
+  "count": 17066,
   "items": [
+    {
+      "id": "4953539",
+      "time": "2026-06-25 05:18:13",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：貝恩資本即將達成交易，收購大眾旗下 Everllence 部分股權。"
+    },
+    {
+      "id": "4953538",
+      "time": "2026-06-25 05:17:52",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "標普道瓊斯指數公司：Netstreit 公司將於 6 月 29 日開盤前替換 ProAssurance 公司，納入標普小盤 600 指數。"
+    },
+    {
+      "id": "mkt:019efb7e-ef9b-7dd8-b105-c5033b9cbaae",
+      "time": "2026-06-25 05:17:40",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "【Trump on potential UK PM Burnham: not familiar, 'extremely liberal'】US President Trump dismissed Andy Burnham, saying he was unfamiliar with the former Greater Manchester mayor and had 'only heard' he is 'extremely liberal.' Trump added he thought Burnham 'may not develop North Sea resources.' Burnham is reportedly likely to be the sole nominee to replace Keir Starmer as Labour leader and could become UK prime minister by mid-July. The comments also lay groundwork for possible future tensions between the two leaders."
+    },
+    {
+      "id": "mkt:019efb7e-0706-7dd8-b105-bc959d60c40b",
+      "time": "2026-06-25 05:16:40",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Pakistan counterterrorism unit says it killed six terrorists】Pakistan's Khyber Pakhtunkhwa counterterrorism department said on the 24th that a joint operation with police killed six terrorists. The department said the group had earlier attacked a local police post, killing one officer."
+    },
+    {
+      "id": "4953537",
+      "time": "2026-06-25 05:16:15",
+      "tags": [
+        "其他"
+      ],
+      "text": "【巴基斯坦反恐部門稱擊斃6名恐怖分子】巴基斯坦西北部開伯爾－普什圖省反恐部門24日釋出宣告說，該部門在和警方的聯合行動中擊斃6名恐怖分子。宣告說，這夥恐怖分子此前襲擊該地區一警察哨所，導致一名警員殉職。"
+    },
+    {
+      "id": "4953536",
+      "time": "2026-06-25 05:15:20",
+      "tags": [
+        "市場"
+      ],
+      "text": "富時A50期指連續夜盤收跌0.02%，報15537點。"
+    },
     {
       "id": "4953535",
       "time": "2026-06-25 05:13:46",
@@ -155911,22 +155962,6 @@
         "市場"
       ],
       "text": "【儲存晶片供應緊張，庫克宣佈漲價計劃，蘋果股價小幅走高】蘋果公司股價盤後小幅上漲0.5%。此前庫克透露，計劃上調旗下產品售價，以此消化記憶體與儲存晶片上漲帶來的成本壓力。庫克在採訪中表示，蘋果準備動用自有現金儲備，增加儲存晶片的供貨供給。"
-    },
-    {
-      "id": "4941857",
-      "time": "2026-06-18 05:15:47",
-      "tags": [
-        "公司"
-      ],
-      "text": "【庫克：受儲存晶片緊缺影響，蘋果將上調產品售價】蘋果公司執行長蒂姆·庫克透露，受記憶體、儲存晶片成本飆升衝擊，蘋果計劃上調旗下產品售價以對沖成本壓力。“很遺憾，漲價已是無法避免。”他表示，“我們一直在盡力消化轉嫁而來的鉅額成本，努力不讓消費者承擔漲價壓力，但當前局面已經難以為繼。”庫克並未透露漲價的具體落地時間、上調幅度以及受影響的產品品類。蘋果下一場大型新品釋出會預計在9月，屆時將推出iPhone 18系列，其中包含全新摺疊款iPhone。"
-    },
-    {
-      "id": "4941856",
-      "time": "2026-06-18 05:15:24",
-      "tags": [
-        "市場"
-      ],
-      "text": "富時A50期指連續夜盤收跌0.48%，報15522點。"
     }
   ]
 }
