@@ -1,7 +1,28 @@
 {
-  "updated": "2026-06-25 06:53:54",
+  "updated": "2026-06-25 06:57:56",
   "count": 16986,
   "items": [
+    {
+      "id": "te:markets:561652",
+      "time": "2026-06-25 06:54:12",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "New Zealand",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "NZX 50 Edges Higher in Morning Trade — The NZX 50 climbed 25 points, or 0.2%, to 13,426 in Thursday morning trade, erasing losses from the previous three sessions, tracking a rise in US futures after Micron posted a sizeable earnings beat and a better-than-expected outlook. Easing oil prices also lifted sentiment as inflation concerns moderated, reducing expectations of an interest rate hike. However, traders remained cautious ahead of the release of the final US Q1 GDP data and the May PCE Price Index later today, which could provide clues about the Federal Reserve's monetary policy decision at its upcoming meeting, after it left interest rates unchanged last week. Consumer staples, energy, communication services, and utilities primarily drove the index, with notable gains from A2 Milk (4.2%), Scott Technology (2.4%), Channel Infrastructure (0.9%), Ebos Group (0.8%), and ANZ Group (0.4%)."
+    },
+    {
+      "id": "4953584",
+      "time": "2026-06-25 06:53:59",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金失守4010美元/盎司，日內漲0.05%。"
+    },
     {
       "id": "4953583",
       "time": "2026-06-25 06:52:45",
@@ -155223,26 +155244,6 @@
         "國際"
       ],
       "text": "美國國土安全部稱，世界盃開賽初期已有數十架無人機被攔截處置。"
-    },
-    {
-      "id": "te:economy:559835",
-      "time": "2026-06-18 06:55:59",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "New Zealand",
-        "GDP Annual Growth Rate",
-        "Importance 2"
-      ],
-      "text": "New Zealand Q1 GDP Annual Growth Beats Estimates — New Zealand’s economy expanded by 1.5% year-on-year in the three months to March 2026, matching the revised figure in the previous quarter and marking its third consecutive quarter of annual growth. The latest figure was faster than the expected 1.1% growth."
-    },
-    {
-      "id": "4941954",
-      "time": "2026-06-18 06:55:21",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗外交部發言人：伊朗的國防實力不會在任何談判程序中、與任何一方展開討論。"
     }
   ]
 }
