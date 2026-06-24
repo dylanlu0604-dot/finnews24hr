@@ -1,7 +1,88 @@
 {
-  "updated": "2026-06-24 11:37:09",
-  "count": 17345,
+  "updated": "2026-06-24 11:41:09",
+  "count": 17350,
   "items": [
+    {
+      "id": "mkt:019ef7b7-0487-7dd8-b0ea-98440514d582",
+      "time": "2026-06-24 11:40:26",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bearish"
+      ],
+      "text": "Japan 10-year JGB yield fell 1.5 bps to 2.660%."
+    },
+    {
+      "id": "mkt:019ef7b6-f73a-7dd8-b0ea-91bd3136638d",
+      "time": "2026-06-24 11:40:23",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC"
+      ],
+      "text": "Draft of Japan's growth strategy report indicates the government plans to improve management of its $1.3 trillion foreign-exchange reserves."
+    },
+    {
+      "id": "4951663",
+      "time": "2026-06-24 11:40:22",
+      "tags": [
+        "市場"
+      ],
+      "text": "日經225指數下跌1%，至69,090.36點."
+    },
+    {
+      "id": "4951662",
+      "time": "2026-06-24 11:39:54",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "10年期日本國債<JP10YTN=JBTC>收益率下跌1.5個基點，報2.660%。"
+    },
+    {
+      "id": "4951661",
+      "time": "2026-06-24 11:38:37",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美濫施關稅等導致拉美和加勒比海地區外資流入遇阻】聯合國拉丁美洲和加勒比經濟委員會（拉加經委會）23日在智利首都聖地亞哥釋出報告指出，由於美國越來越頻繁地採取濫施關稅等貿易措施，甚至動輒把關稅用作政治談判工具引發巨大不確定性，外資在拉美和加勒比海地區投資日趨謹慎，導致該地區去年部分產業的投資額大幅減少。最新資料顯示，受全球地緣政治緊張和美國關稅政策變化等因素影響，2025年拉美和加勒比地區吸引外國直接投資1942.33億美元，同比僅增長1.7%。（新華社）"
+    },
+    {
+      "id": "4951660",
+      "time": "2026-06-24 11:38:18",
+      "tags": [
+        "公司"
+      ],
+      "text": "【捷捷微電：目前有少量碳化矽器件的封測，該系列產品仍在持續研究推進過程中】捷捷微電6月24日在互動平臺表示，公司目前有少量碳化矽器件的封測，該系列產品仍在持續研究推進過程中，尚未進入量產階段。"
+    },
+    {
+      "id": "4951659",
+      "time": "2026-06-24 11:37:51",
+      "tags": [
+        "國際"
+      ],
+      "text": "【特朗普稱對委軍事行動“回報率”已超28倍】據俄羅斯衛星社6月24日報道，美國總統特朗普表示，美國透過出售從委內瑞拉運出的數百萬桶石油所獲得的收入，已超過2026年1月在該國開展軍事行動支出金額的28倍以上。 報道稱，今年1月初，華盛頓對加拉加斯發動襲擊，並強行控制委內瑞拉總統馬杜羅及其妻子。隨後，特朗普宣佈有意控制委內瑞拉石油並透過出售石油獲利。 特朗普在賓夕法尼亞州向支持者發表講話時表示：“我們現在從委內瑞拉賺了很多錢，為了贏得那場戰爭，我們只用了48分鐘。我們完全收回了戰爭成本，回報率達到28倍以上，甚至更多，至少是28倍。我們已經收回了所有軍事支出，因為我們從那裡運出了數百萬桶石油。” （參考訊息）"
+    },
+    {
+      "id": "mkt:019ef7b4-0997-7dd8-b0ea-81455b3eafcb",
+      "time": "2026-06-24 11:37:11",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "【Qwen releases Qwen-AgentWorld】Qwen today released Qwen-AgentWorld, billed as the first native Language World Model (LWM) that can simulate agent interaction environments across seven domains. Native world modeling: environment modeling is an explicit training objective beginning in continued pretraining (CPT) and maintained through CPT → supervised fine-tuning (SFT) → reinforcement learning (RL), rather than as a post‑hoc adaptation of a general LLM. Seven domains, one model: a single model covers text environments (MCP, Search, Terminal, SWE) and GUI environments (Web, OS, Android), enabling cross‑domain knowledge transfer."
+    },
+    {
+      "id": "4951658",
+      "time": "2026-06-24 11:37:09",
+      "tags": [
+        "其他"
+      ],
+      "text": "【千問正式釋出 Qwen-AgentWorld】千問大模型今天正式釋出 Qwen-AgentWorld——首個原生語言世界模型（Language World Model, LWM），能夠在七大領域中模擬智慧體互動環境。原生世界建模： 環境建模從繼續預訓練（CPT）階段起即為訓練目標，貫穿 CPT → SFT → RL 全流程，而非對通用大語言模型的事後適配。七大領域，一個模型：單一模型同時覆蓋文字類環境（MCP、Search、Terminal、SWE）與 GUI 類環境（Web、OS、Android），實現跨領域知識遷移。（千問大模型）"
+    },
     {
       "id": "4951657",
       "time": "2026-06-24 11:35:40",
@@ -168,6 +249,20 @@
         "市場"
       ],
       "text": "【股指期貨早盤收盤】 中證1000指數期貨連續漲0.57%， 滬深300指數期貨連續漲0.38%， 中證500指數期貨連續漲1.31%， 上證50指數期貨連續漲0.44%。"
+    },
+    {
+      "id": "mkt:019ef7b5-8f7f-7dd8-b0ea-8913f0bfb7af",
+      "time": "2026-06-24 11:29:53",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "AI Revolution",
+        "Chip Wars",
+        "MU.O",
+        "Impact bullish"
+      ],
+      "text": "【Micron earnings ahead: 12 banks say storage price gains will lift margins and shares】Twelve investment banks raised Micron Technology (MU.O) price targets ahead of the company’s earnings, citing AI-driven data‑centre demand, tight DRAM/NAND supply and rapidly rising ASPs. Morgan Stanley raised its PT to $1,050 from $520, kept overweight and raised Q3 forecasts, expecting DRAM and NAND ASPs to rise roughly 20% QoQ. Wedbush lifted its PT to $1,300, raised FY guidance to $22.84 EPS (from $19.16) and revenue to $38.5bn (from $33.5bn), and also sees Q3 DRAM/NAND prices up ~20% QoQ. Deutsche Bank raised its PT to $1,500, maintained buy, and said DRAM shortages could persist into 2028 or beyond; it models Q3 revenue at $35.1bn (above Micron’s guide upper $34.25bn) and sees 2027 EPS near $160 with gross margins above 80%. Citi bumped its PT to $1,200, expects elevated storage pricing into 2027—especially HBM—and projects DRAM ASPs could rise ~200% this year. Stifel raised its PT to $1,500, saying current DRAM ASPs are roughly double Micron’s initial model; data‑centre contract pricing has exceeded $2.50/GB and consumer pricing remains above $1.50/GB, implying a ~20% QoQ revenue jump. Jefferies flagged severe HBM tightness (global monthly wafer capacity ~330k today, ~480k by 2027 while near‑term demand could rise ~70%) and projects Micron Q3 storage ASPs +40–50% QoQ, Q4 +30–40%, and 2027 ASPs up ~40–45% YoY. Bernstein, Needham, Hina International, Wells Fargo, Goldman and other houses also materially raised targets (PTs now spanning roughly $900–$1,750) and reiterated that sustained supply constraints and strong AI-related demand should keep pricing and margins elevated through 2027, with some firms extending shortages into 2028."
     },
     {
       "id": "mkt:019ef7ab-dd1f-7dd8-b0ea-557b3910ee88",
@@ -2291,6 +2386,15 @@
         "SZSE Component"
       ],
       "text": "A-share coal sector weakened in choppy trade; Dayou Energy fell more than 8%, with Yunmei Energy, Antai Group, Huadian Energy, Shaanxi Black Cat and Baotailong also sliding."
+    },
+    {
+      "id": "em:qqyh_mlc:202606243780782768",
+      "time": "2026-06-24 09:51:04",
+      "tags": [
+        "央行",
+        "美聯儲"
+      ],
+      "text": "【華爾街吵起來了？與美銀、高盛“唱反調” 瑞銀稱美聯儲加息風險被高估】近幾日，多家華爾街大行調整了對美聯儲利率路徑的預測。美國銀行6月22日表示，由於通脹變得“明顯惡化”，預計美聯儲今年將加息三次。這是目前全球各大主流投行中最為激進的加息預期。德意志銀行則在6月19日釋出的一份報告中預測，美聯儲今年將加息兩次。但瑞銀集團（UBS）分析師認為，市場可能高估了美聯儲加息的風險。"
     },
     {
       "id": "mkt:019ef752-a1af-7dd8-b0e8-48dd22e0e99e",
@@ -158783,57 +158887,6 @@
         "公司"
       ],
       "text": "【中亦科技：公司為螞蟻集團OceanBase鉑金經銷商、金牌技術服務夥伴】中亦科技6月17日在互動平臺表示，截至目前，公司為螞蟻集團OceanBase鉑金經銷商、金牌技術服務夥伴。"
-    },
-    {
-      "id": "4939885",
-      "time": "2026-06-17 11:39:09",
-      "tags": [
-        "公司"
-      ],
-      "text": "丸紅：構建以北美為核心的天然氣價值鏈是本公司核心戰略之一。"
-    },
-    {
-      "id": "4939884",
-      "time": "2026-06-17 11:38:44",
-      "tags": [
-        "國際"
-      ],
-      "text": "【美軍印太司令部複用原名太平洋司令部】美國國防部16日宣佈，美軍印太司令部將正式恢復其原名，即美軍太平洋司令部。美國國防部在一份宣告中稱，該司令部的所謂責任區域保持不變，即從美國西海岸沿岸海域延伸至印度西部邊界。美軍太平洋司令部1947年1月1日設立，以美軍太平洋司令部的名義運作長達70餘年，2018年更名為美軍印太司令部。（新華社）"
-    },
-    {
-      "id": "4939883",
-      "time": "2026-06-17 11:38:33",
-      "tags": [
-        "國際"
-      ],
-      "text": "俄羅斯：由於烏克蘭無人機活動，已對莫斯科兩座機場實施限制。"
-    },
-    {
-      "id": "4939882",
-      "time": "2026-06-17 11:38:19",
-      "tags": [
-        "公司"
-      ],
-      "text": "【中油工程等在成都成立科技公司】天眼查App顯示，近日，成都崑崙新能科技有限公司成立，法定代表人為杜通林，註冊資本4500萬人民幣，經營範圍包括石油天然氣技術服務、工程技術服務、新興能源技術研發等。股東資訊顯示，該公司由崑崙北工（北京）綠色創業投資基金（有限合夥）、中油工程（600339）旗下中國石油工程建設有限公司共同持股。"
-    },
-    {
-      "id": "4939881",
-      "time": "2026-06-17 11:37:58",
-      "tags": [
-        "其他"
-      ],
-      "text": "【廣東釋出山洪災害風險預警】廣東省水利廳6月17日9時釋出山洪災害風險預警：根據氣象降雨預報分析，預計未來24小時，茂名高州市、化州市、信宜市，陽江陽東區，湛江廉江市，局地發生山洪災害可能性大（橙色預警）。肇慶高要區、懷集縣，惠州博羅縣、龍門縣，雲浮云城區、雲安區、新興縣、羅定市，汕尾陸豐市，江門台山市、開平市、鶴山市、恩平市，廣州增城區，湛江遂溪縣，清遠佛岡縣、連山壯族瑤族自治縣，茂名電白區，陽江陽春市，佛山高明區，局地發生山洪災害可能性較大（黃色預警）。其他地區也可能因局地短歷時強降水引發山洪災害。請各地密切關注天氣預報及雨水情變化，結合實際加強研判，做好實時監測、防汛預警和轉移避險等防範工作。請相關地區公眾留意預報預警資訊，增強災害防範避險意識，儘量避免前往山丘區溝溪、河灘地等低窪區域，確保自身生命財產安全。（央視新聞）"
-    },
-    {
-      "id": "mkt:019ed3a7-f771-7dd8-b040-8cf2cffb0769",
-      "time": "2026-06-17 11:37:40",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "【SAFE head Zhu Hexin says near-term package to overhaul cross-border FDI, ease ODI and foreign-debt FX rules】At the opening of the 2026 Lujiazui Forum, Zhu Hexin, vice governor of the People’s Bank of China and head of the State Administration of Foreign Exchange (SAFE), said authorities will shortly roll out a package of incremental measures: comprehensively reform cross-border FDI policy; further simplify FX procedures for outbound direct investment (ODI) and external debt; optimize rules for foreign-exchange loans and cross-border equity-incentive arrangements; and issue a new tranche of QDII quotas."
     }
   ]
 }
