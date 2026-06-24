@@ -1,7 +1,100 @@
 {
-  "updated": "2026-06-24 21:20:34",
-  "count": 17272,
+  "updated": "2026-06-24 21:24:46",
+  "count": 17268,
   "items": [
+    {
+      "id": "mkt:019ef9cd-08e5-7dd8-b0fa-e0d1c50c5c11",
+      "time": "2026-06-24 21:23:44",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "State Dept official: U.S. embassy in Kuwait has resumed operations after suspending them following an Iranian attack."
+    },
+    {
+      "id": "mkt:019ef9cc-3f47-7dd8-b0fa-dceebec06374",
+      "time": "2026-06-24 21:22:52",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Europe & UK",
+        "GBPUSD",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "Market pricing no longer fully prices a 25bp Bank of England rate hike this year."
+    },
+    {
+      "id": "4952921",
+      "time": "2026-06-24 21:22:34",
+      "tags": [
+        "公司"
+      ],
+      "text": "【範波與奧地利外長賴辛格一行座談交流】6月23日，江蘇省委常委、蘇州市委書記範波在太倉與奧地利外長貝婭特·邁因爾-賴辛格一行座談交流，並一同參觀奧資企業艾伯納工業爐（太倉）有限公司。範波代表市委、市政府對賴辛格一行到訪蘇州表示歡迎。他說，蘇州是中國東部地區重要的中心城市，當前正錨定“代表未來的發展方向”，因地制宜發展新質生產力，持續增強經濟韌性，加快建設國際化現代化人民城市。今年是中奧建交55週年，蘇州與奧地利淵源深厚、交往密切，近50家奧地利企業在這裡深耕發展。希望雙方持續深化各領域交流交往，進一步拓展在智慧製造、數字經濟、綠色低碳等領域務實合作，推動更多奧地利企業和高階專案落戶蘇州，共同為推動中奧關係邁上新臺階作出新貢獻。蘇州將認真學習貫徹習近平主席同奧地利總統範德貝倫就中奧建交55週年互致賀電精神，堅定不移擴大高水平對外開放，持續打造市場化、法治化、國際化一流營商環境，為奧地利企業在蘇發展提供全方位服務保障。（蘇州日報）"
+    },
+    {
+      "id": "mkt:019ef9cb-8830-7dd8-b0fa-d78ad41f154e",
+      "time": "2026-06-24 21:22:05",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Industrial Metals",
+        "Copper",
+        "Impact bearish"
+      ],
+      "text": "LME copper fell 2.00% intraday to $13,105.80 per tonne."
+    },
+    {
+      "id": "4952920",
+      "time": "2026-06-24 21:22:04",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "美國國務院官員表示，美國駐科威特大使館在因伊朗襲擊而暫停運作後，已恢復業務。"
+    },
+    {
+      "id": "4952919",
+      "time": "2026-06-24 21:21:40",
+      "tags": [
+        "市場"
+      ],
+      "text": "LME倫銅日內跌超2.00%，現報13103.350美元/噸。"
+    },
+    {
+      "id": "4952918",
+      "time": "2026-06-24 21:21:33",
+      "tags": [
+        "觀點"
+      ],
+      "text": "【雲洲智慧科創板IPO稽核狀態變更為'已受理'】雲洲智慧科創板IPO專案科創板IPO稽核狀態變更為'已受理'，保薦機構為中信證券。"
+    },
+    {
+      "id": "mkt:019ef9ca-8490-7dd8-b0fa-cb865ad8fede",
+      "time": "2026-06-24 21:20:59",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Lebanon's National News Agency reported Israeli drones struck a vehicle near Kfar Reman in southern Lebanon."
+    },
+    {
+      "id": "4952917",
+      "time": "2026-06-24 21:20:47",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "交易員們今年尚未完全消化英國央行加息25個基點的預期。"
+    },
+    {
+      "id": "4952916",
+      "time": "2026-06-24 21:19:42",
+      "tags": [
+        "市場"
+      ],
+      "text": "法國興業銀行的Kit Juckes在一份報告中表示，歐元兌美元的跌勢至少可能會放緩。"
+    },
     {
       "id": "4952915",
       "time": "2026-06-24 21:19:28",
@@ -157923,132 +158016,6 @@
         "其他"
       ],
       "text": "萬斯稱：巴基斯坦要求暫緩公佈美伊諒解備忘錄全文。"
-    },
-    {
-      "id": "mkt:019ed5c1-1cdc-7dd8-b052-1c2dd7922eda",
-      "time": "2026-06-17 21:24:23",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Precious Metals",
-        "Market Regions",
-        "Greater China",
-        "XAUUSD",
-        "Impact bullish"
-      ],
-      "text": "【Xu: Three traits to power Shanghai‑Hong Kong financial coordination; push to build international gold trading hub in Hong Kong】At the Lujiazui Forum on June 17, Hong Kong Secretary for Financial Services and the Treasury Xu said Shanghai‑Hong Kong financial cooperation is comprehensive, long‑term and interlinked. He noted Hong Kong lacks commodity markets and said gold will be the strategic entry point, advancing strategic cooperation with the Shanghai Gold Exchange and aiming to establish an international gold trading center in Hong Kong. He said next steps will better leverage Hong Kong’s financial capabilities and Shanghai’s real‑economy strengths through two‑way linkage."
-    },
-    {
-      "id": "mkt:019ed5c1-01b6-7dd8-b052-120ab6441dcd",
-      "time": "2026-06-17 21:24:16",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "Brazil's finance minister Durigan said if war pushes oil prices higher and raises government revenue, he would share the windfall with the nation to prevent households from paying more."
-    },
-    {
-      "id": "4941167",
-      "time": "2026-06-17 21:23:53",
-      "tags": [
-        "其他"
-      ],
-      "text": "【聯合國報告：全球漁業和水產養殖產量創歷史新高】聯合國糧食及農業組織16日釋出報告說，全球漁業和水產養殖產量2024年創歷史新高，但該行業仍面臨可持續發展等挑戰。這份名為《2026年世界漁業和水產養殖狀況》的報告估算，2024年全球漁業和水產養殖產量達到創紀錄的2.35億噸，其中水生動物產量為1.95億噸。（央視新聞）"
-    },
-    {
-      "id": "mkt:019ed5c0-79ff-7dd8-b052-09dab22ad748",
-      "time": "2026-06-17 21:23:41",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Ukraine's military denied Russian claims that Ukrainian drones struck a bus carrying children in Russia's Bryansk region."
-    },
-    {
-      "id": "4941166",
-      "time": "2026-06-17 21:23:34",
-      "tags": [
-        "市場"
-      ],
-      "text": "【許正宇：三大特質賦能滬港金融協同 雙向聯動助力金融強國建設】2026陸家嘴論壇全體大會四“滬港金融協同發展賦能高水平金融開放”6月17日晚間舉行。香港特別行政區政府財經事務及庫務局局長許正宇表示，綜合性、長期性、聯動性是滬港金融協同發展的三大特質。例如，作為國際金融中心，香港只有股票、債券，沒有商品。基於此，香港以黃金品類為核心突破口，推動與上海黃金交易所的戰略合作，力爭在香港建設國際性的黃金交易中心。下一步要更好利用香港的金融性和上海實體經濟的元素來進行聯動。"
-    },
-    {
-      "id": "4941165",
-      "time": "2026-06-17 21:23:21",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "【王毅看望柬埔寨國王西哈莫尼和太后莫尼列】2026年6月17日，中共中央政治局委員、外交部長王毅受國家主席習近平委派，看望正在北京查體休養的柬埔寨國王西哈莫尼和太后莫尼列。王毅轉達了習近平主席和夫人彭麗媛的親切問候和良好祝願，表示中柬友誼由西哈努克太皇和中國老一輩領導人親手締造。今年是西哈努克太皇首次訪華70週年。70年來，無論國際風雲如何變幻，中柬兩國始終以心相交、以誠相待，樹立了國與國交往的典範。國王陛下繼承太皇友華傳統，同習近平主席建立深厚友誼。在兩國元首戰略引領下，中柬關係邁入新時代全天候命運共同體建設新階段。中方願同柬方弘揚傳統友誼，深化戰略互信，增進務實合作，為兩國人民創造更多福祉，為地區和世界和平作出新的貢獻。西哈莫尼和莫尼列請王毅轉達對習近平主席和夫人彭麗媛的誠摯問候和祝願，感謝中方長期以來為柬王室治療查體提供良好保障和周到安排，為柬經濟社會發展提供真誠幫助。柬方高度珍視柬中傳統友誼。不管國際形勢如何變化，柬埔寨始終是中國最好的朋友。祝願中國國泰民安，人民安居樂業。（外交部）"
-    },
-    {
-      "id": "4941164",
-      "time": "2026-06-17 21:22:57",
-      "tags": [
-        "其他"
-      ],
-      "text": "AWS：ZELIS與AWS攜手合作，推進醫療保健財務體驗現代化。"
-    },
-    {
-      "id": "4941163",
-      "time": "2026-06-17 21:22:43",
-      "tags": [
-        "其他"
-      ],
-      "text": "荷蘭道路運輸局：目前荷蘭有4萬輛特斯拉搭載全自動駕駛（FSD）軟體投入使用。"
-    },
-    {
-      "id": "4941162",
-      "time": "2026-06-17 21:22:17",
-      "tags": [
-        "市場"
-      ],
-      "text": "芝加哥大豆價格上漲0.7%，至每蒲式耳11.5475美元。芝加哥小麥上漲1.4%。巴黎玉米上漲2.5%，至每噸215歐元。"
-    },
-    {
-      "id": "4941161",
-      "time": "2026-06-17 21:22:08",
-      "tags": [
-        "其他"
-      ],
-      "text": "荷蘭道路交通管理局（RDW）：已對使用全自動駕駛（FSD）駕駛輔助軟體的特斯拉車輛加強監管。"
-    },
-    {
-      "id": "mkt:019ed5be-b82c-7dd8-b052-01c19d80a832",
-      "time": "2026-06-17 21:21:46",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Industrial Metals",
-        "600019.SS",
-        "Impact bullish"
-      ],
-      "text": "【China resolves technical hurdles for polar-ship high-strength steel; domestic product produced】China Polar Research Center and the China Classification Society (CCS), together with several domestic steelmakers, after more than two years of R&D resolved a series of technical problems for high-strength steel for polar vessels and have produced a domestic polar-ship high-strength steel. Relevant steelmakers have begun certification work; Baoshan Iron & Steel Co., Ltd.'s polar-ship high-strength steel is the first product to receive CCS certification."
-    },
-    {
-      "id": "4941160",
-      "time": "2026-06-17 21:21:42",
-      "tags": [
-        "其他"
-      ],
-      "text": "荷蘭道路運輸局（RDW）表示，已加強對配備全自動駕駛（FSD）駕駛輔助軟體的特斯拉車輛的監管。"
-    },
-    {
-      "id": "4941159",
-      "time": "2026-06-17 21:21:12",
-      "tags": [
-        "公司"
-      ],
-      "text": "【蘇交科：收到政府補助1900萬元 佔最近一年歸母淨利潤80.8%】蘇交科(300284)6月17日公告，公司近日收到與收益相關的政府補助資金1900萬元，佔公司最近一個會計年度經審計的歸屬於上市公司股東淨利潤的80.8%。"
-    },
-    {
-      "id": "4941158",
-      "time": "2026-06-17 21:21:08",
-      "tags": [
-        "公司"
-      ],
-      "text": "【攻克“怕冷”等難題 國產“極地鋼”出爐】記者17日獲悉，中國極地研究中心、中國船級社攜手我國多家鋼廠經過2年多技術攻關，成功攻克極地船用高強度鋼一系列難題，國產“極地鋼”順利出爐。目前，相關鋼廠已啟動極地船用高強度鋼的認證工作。其中，寶山鋼鐵股份有限公司研發的極地船用高強度鋼，成為首個獲得中國船級社認證的產品。（新華社）"
     }
   ]
 }
