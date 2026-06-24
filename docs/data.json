@@ -1,7 +1,113 @@
 {
-  "updated": "2026-06-25 01:26:47",
-  "count": 17220,
+  "updated": "2026-06-25 01:30:52",
+  "count": 17231,
   "items": [
+    {
+      "id": "mkt:019efaae-cf8a-7dd8-b101-2c1c48222759",
+      "time": "2026-06-25 01:30:20",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "New York silver futures plunged 7.00% intraday to $57.73/oz."
+    },
+    {
+      "id": "mkt:019efaae-bb3e-7dd8-b101-252ded20a182",
+      "time": "2026-06-25 01:30:15",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Trump says Iran is making 'major concessions'】President Trump told reporters before heading to the Senate that \"we're gaining a tremendous advantage\" and that \"Iran is making major concessions,\" but he offered no details. He added the situation was progressing \"very, very well,\" also without elaboration."
+    },
+    {
+      "id": "4953262",
+      "time": "2026-06-25 01:30:14",
+      "tags": [
+        "市場"
+      ],
+      "text": "紐約期銀日內跌7%，現報58.13美元/盎司。"
+    },
+    {
+      "id": "4953261",
+      "time": "2026-06-25 01:28:29",
+      "tags": [
+        "其他"
+      ],
+      "text": "中國地震臺網正式測定：06月25日01時22分在新疆阿克蘇地區沙雅縣（北緯40.99度，東經83.34度）發生3.8級地震，震源深度28千米。"
+    },
+    {
+      "id": "4953260",
+      "time": "2026-06-25 01:28:19",
+      "tags": [
+        "公司",
+        "焦點",
+        "國際"
+      ],
+      "text": "一家由前特朗普政府官員執掌的遊說公司推出一項利潤豐厚的業務，專門協助客戶爭取總統特赦。"
+    },
+    {
+      "id": "mkt:019efaac-b0f2-7dd8-b101-18803ed164ee",
+      "time": "2026-06-25 01:28:01",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals"
+      ],
+      "text": "Spot platinum fell more than 5% to $1,567.15 per ounce."
+    },
+    {
+      "id": "mkt:019efaac-2d65-7dd8-b101-1362af3e1c01",
+      "time": "2026-06-25 01:27:28",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "An ECB official said the central bank’s primary objective is price stability."
+    },
+    {
+      "id": "4953259",
+      "time": "2026-06-25 01:27:18",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗總統佩澤希基揚週二訪問伊斯蘭堡期間，獲巴基斯坦內外科學院授予心臟外科榮譽院士頭銜。"
+    },
+    {
+      "id": "mkt:019efaac-02ae-7dd8-b101-0f03247c344b",
+      "time": "2026-06-25 01:27:17",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals"
+      ],
+      "text": "SHFE silver main contract plunged 6.00% intraday, now at 14,001.00 yuan/kg."
+    },
+    {
+      "id": "mkt:019efaab-a8c6-7dd8-b101-039ac214a788",
+      "time": "2026-06-25 01:26:54",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish"
+      ],
+      "text": "ECB official Siegmann said falling oil prices will help reduce inflation."
+    },
+    {
+      "id": "4953258",
+      "time": "2026-06-25 01:26:42",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行官員齊格曼：（央行）首要目標是物價穩定。"
+    },
+    {
+      "id": "4953257",
+      "time": "2026-06-25 01:26:25",
+      "tags": [
+        "市場"
+      ],
+      "text": "現貨白銀日內跌6%，現報57.80美元/盎司。"
+    },
     {
       "id": "4953256",
       "time": "2026-06-25 01:26:19",
@@ -157812,14 +157918,6 @@
         "Impact mixed"
       ],
       "text": "【Analyst: Fed meeting's core isn't the rate decision; DXY 99.50 seen as key watershed】Analyst Matthew Weller says the core of the first Fed meeting under FOMC chair Kevin Walsh will likely be the SEP, dot plot and press conference rather than the near-term rate decision, and these could materially reshape market expectations for the policy path. Traders and economists broadly expect the Fed to hold the target range at 3.50–3.75%. Walsh's remarks on central-bank independence and communication strategy at the press conference are expected to have lasting market impact. DXY 99.50 is viewed as the key watershed for this week and beyond: if the Fed leaves the door open to a later-year hike and Walsh stresses FOMC independence, the dollar could rebound toward ~100.50 (a one-year high); if the SEP is more cautious and Walsh is ambiguous on independence, the dollar would come under pressure and a break below 99.50 would likely pull the 50-day moving average toward 99.00."
-    },
-    {
-      "id": "4941575",
-      "time": "2026-06-18 01:27:12",
-      "tags": [
-        "國際"
-      ],
-      "text": "馬來西亞總理感謝普京推進能源合作，並感謝俄方承諾在能源危機期間提供援助。"
     }
   ]
 }
