@@ -1,7 +1,50 @@
 {
-  "updated": "2026-06-25 03:10:42",
-  "count": 17069,
+  "updated": "2026-06-25 03:14:45",
+  "count": 17050,
   "items": [
+    {
+      "id": "mkt:019efb0d-b2ba-7dd8-b103-1b1902c73588",
+      "time": "2026-06-25 03:13:59",
+      "tags": [
+        "MKT News",
+        "QCOM.O",
+        "Impact bullish"
+      ],
+      "text": "Qualcomm (QCOM.O) said its automotive business will reach an annualized revenue run rate of $6.0 bln in fiscal 2026."
+    },
+    {
+      "id": "mkt:019efb0d-a4b0-7dd8-b103-10793127405e",
+      "time": "2026-06-25 03:13:55",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Meta Platforms",
+        "Market Themes",
+        "AI Revolution",
+        "Chip Wars",
+        "Magnificent 7",
+        "QCOM.O",
+        "Impact bearish",
+        "META.O"
+      ],
+      "text": "【Qualcomm unveils Dragonfly C1000 data‑center AI CPU; Meta to adopt in 2028】Qualcomm (QCOM.O) unveiled the Dragonfly C1000, a data‑center CPU tailored for agent-style AI workloads that prioritizes high compute with low power draw. Qualcomm said Meta Platforms (META.O) will adopt the chip for mass production beginning in 2028. The launch underscores Qualcomm's push from smartphone processors and modems into the data‑center market. Qualcomm shares fell more than 5% after the announcement."
+    },
+    {
+      "id": "4953379",
+      "time": "2026-06-25 03:13:16",
+      "tags": [
+        "其他"
+      ],
+      "text": "高通：2026 財年末汽車業務年化營收將達 60 億美元。"
+    },
+    {
+      "id": "mkt:019efb0a-667e-7dd8-b103-0ffcc4ff363c",
+      "time": "2026-06-25 03:10:23",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. appeals court upholds lower-court ruling that bars the Justice Department from obtaining Michigan voter rolls."
+    },
     {
       "id": "4953377",
       "time": "2026-06-25 03:09:21",
@@ -155841,232 +155884,6 @@
         "國際"
       ],
       "text": "特朗普：我不傾向於簽署新的《美墨加協定》，但對此持開放態度。"
-    },
-    {
-      "id": "mkt:019ed701-8726-7dd8-b062-7617aebdb0e4",
-      "time": "2026-06-18 03:14:21",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "President Trump said it would be \"a bit unfair\" if other countries possess ballistic missiles while Iran has none."
-    },
-    {
-      "id": "mkt:019ed700-fe56-7dd8-b062-6f2669e5c622",
-      "time": "2026-06-18 03:13:46",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Fed chair Kevin Warsh said the Fed meeting had been a fairly cordial few days."
-    },
-    {
-      "id": "4941749",
-      "time": "2026-06-18 03:13:44",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗伊斯蘭共和國通訊社關於諒解備忘錄文字：美國承諾在最終協議框架內，按照商定時間表取消所有對伊朗制裁。"
-    },
-    {
-      "id": "4941748",
-      "time": "2026-06-18 03:13:36",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲主席沃什：美聯儲委員會認為勞動力市場已趨穩定。"
-    },
-    {
-      "id": "mkt:019ed700-8050-7dd8-b062-62c69236c973",
-      "time": "2026-06-18 03:13:14",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)"
-      ],
-      "text": "Federal Reserve Chairman Kevin Warsh said some view current conditions as acceptable, but many have expressed strong interest in substantive reform of the Fed's Summary of Economic Projections."
-    },
-    {
-      "id": "4941747",
-      "time": "2026-06-18 03:13:10",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：若沒有《美墨加協定》，美國表現會更好。"
-    },
-    {
-      "id": "4941746",
-      "time": "2026-06-18 03:12:57",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普談美墨加協定：我在想我們或許無法達成協議。"
-    },
-    {
-      "id": "mkt:019ed6ff-f1cf-7dd8-b062-5bdf87b0055f",
-      "time": "2026-06-18 03:12:38",
-      "tags": [
-        "MKT News",
-        "GBPUSD",
-        "Impact bearish",
-        "DXY",
-        "Impact bullish",
-        "EURUSD"
-      ],
-      "text": "GBP/USD fell 1.00% intraday to 1.3292."
-    },
-    {
-      "id": "4941745",
-      "time": "2026-06-18 03:12:34",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "日元兌美元匯率跌至日內低點160.60，為4月30日以來最低水平。"
-    },
-    {
-      "id": "mkt:019ed6ff-d478-7dd8-b062-55c984b86124",
-      "time": "2026-06-18 03:12:30",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)"
-      ],
-      "text": "Federal Reserve Chairman Kevin Warsh said he would not be surprised if a new communication framework or adjustments to the Fed’s Summary of Economic Projections emerge by year-end; until then he expects colleagues to continue submitting their forecasts."
-    },
-    {
-      "id": "mkt:019ed6ff-952a-7dd8-b062-4e7ebc315710",
-      "time": "2026-06-18 03:12:14",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)"
-      ],
-      "text": "Kevin Warsh said the Federal Open Market Committee (FOMC) has committed to provide projections and is expected to honor that commitment."
-    },
-    {
-      "id": "mkt:019ed6ff-9515-7dd8-b062-46560851fb04",
-      "time": "2026-06-18 03:12:14",
-      "tags": [
-        "MKT News",
-        "DXY",
-        "Impact bullish",
-        "USDJPY",
-        "XAUUSD",
-        "Impact bearish"
-      ],
-      "text": "NZD/USD fell more than 1.00% intraday to 0.5770."
-    },
-    {
-      "id": "4941744",
-      "time": "2026-06-18 03:12:06",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲主席沃什：將全力實現價格穩定目標。"
-    },
-    {
-      "id": "4941743",
-      "time": "2026-06-18 03:11:57",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗伊斯蘭共和國通訊社就諒解備忘錄文字發表宣告：濃縮鈾的處置將在雙方達成共識、且國際原子能機構監督下開展。"
-    },
-    {
-      "id": "4941742",
-      "time": "2026-06-18 03:11:50",
-      "tags": [
-        "其他"
-      ],
-      "text": "中國地震臺網自動測定：06月18日02時56分在中大西洋海嶺中部附近（南緯0.38度，西經20.07度）發生6.7級左右地震，最終結果以正式速報為準。"
-    },
-    {
-      "id": "4941741",
-      "time": "2026-06-18 03:11:48",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲主席沃什：我們的信譽要求我們在所有領域都兌現承諾。"
-    },
-    {
-      "id": "te:markets:559811",
-      "time": "2026-06-18 03:11:45",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "currency",
-        "Importance 1"
-      ],
-      "text": "Dollar Index Hits 11-week High — DXY increased to 100.32, the highest since March 2026. Over the past 4 weeks, Dollar Index gained 1.13%, and in the last 12 months, it increased 1.42%."
-    },
-    {
-      "id": "te:markets:559810",
-      "time": "2026-06-18 03:11:28",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United Kingdom",
-        "currency",
-        "Importance 1"
-      ],
-      "text": "British Pound Hits 10-week Low — GBPUSD decreased to 1.33, the lowest since April 2026. Over the past 4 weeks, British Pound US Dollar lost 0.92%, and in the last 12 months, it decreased 0.81%."
-    },
-    {
-      "id": "mkt:019ed6fe-a879-7dd8-b062-3f2fc52b88d0",
-      "time": "2026-06-18 03:11:13",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)"
-      ],
-      "text": "Fed Chair Kevin Warsh said more information will be available at the meeting in six weeks."
-    },
-    {
-      "id": "4941740",
-      "time": "2026-06-18 03:11:08",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "紐約期金失守4280美元/盎司，日內跌1.71%。"
-    },
-    {
-      "id": "mkt:019ed6fe-919c-7dd8-b062-321a6b92eba8",
-      "time": "2026-06-18 03:11:07",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "US10Y",
-        "Impact mixed",
-        "DXY",
-        "S&P500"
-      ],
-      "text": "Federal Reserve Chair Kevin Warsh said that, based on his observations at the meeting (reflected in the projections), his understanding is that roughly half his colleagues favor lower interest rates and the other half favor higher rates."
-    },
-    {
-      "id": "4941739",
-      "time": "2026-06-18 03:10:59",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "特朗普：如果其他國家擁有彈道導彈，伊朗卻一枚都沒有“有點不公平”。"
-    },
-    {
-      "id": "4941738",
-      "time": "2026-06-18 03:10:46",
-      "tags": [
-        "央行",
-        "焦點",
-        "國際"
-      ],
-      "text": "特朗普談美聯儲：好吧，他們維持利率不變，隨便吧。"
     }
   ]
 }
