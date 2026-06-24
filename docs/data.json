@@ -1,7 +1,74 @@
 {
-  "updated": "2026-06-24 08:11:31",
-  "count": 17377,
+  "updated": "2026-06-24 08:15:24",
+  "count": 17374,
   "items": [
+    {
+      "id": "mkt:019ef6fa-ec96-7dd8-b0e5-c1eb79acdf08",
+      "time": "2026-06-24 08:15:00",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【CITIC Securities: Compute and power-related supply chains offer medium- to long-term allocation value】CITIC Securities says weakening investment from property and traditional infrastructure contrasts with a long-term uplift in compute demand driven by massive AI workloads and rising capex by Chinese and US firms, leaving scope for higher domestic compute spending. China’s \"six networks\" rollout could unlock trillion-yuan compute investment, creating large-scale import-substitution opportunities for domestic chips, memory and optical communications. China’s power supply and lower green-power costs, together with accelerated direct renewable connections and source–grid–load–storage integration, bolster a compute–power competitive edge. Data center build-outs will materially lift demand for copper, tin and other industrial metals; semiconductor tightness will transmit to upstream raw materials and downstream electronics; broader funding channels for data-center REITs are supporting capacity expansion. CITIC expects sustained price gains in industrial metals, semiconductors and end-user electronics and views compute- and power-related supply chains as medium- to long-term allocation opportunities."
+    },
+    {
+      "id": "4951343",
+      "time": "2026-06-24 08:14:38",
+      "tags": [
+        "觀點",
+        "國際"
+      ],
+      "text": "【中信證券：算力、電力相關產業鏈具備中長期配置價值】中信證券研報稱，近年來，地產、傳統基建拉動投資的動能持續弱化，而海量AI Token需求開啟算力長期增長空間，中美企業同步加大資本開支，國內算力投入仍有較大提升潛力。政策層面，“六張網”落地帶來萬億算力投資，國產晶片、儲存、光通訊迎來大規模國產替代機遇，同時我國電力供給與綠電成本優勢突出，綠電直連、源網荷儲一體化加速推進，算電協同構築獨有產業優勢。產業鏈端，算力建設大幅提振銅、錫等AI金屬需求，晶片供需緊張向上遊原料、下游消費電子傳導，疊加算力重資產屬性下IDC REITs持續拓寬資金來源、支撐行業擴產，中信證券預期工業金屬、半導體及終端電子產品將迎來持續漲價行情，算力、電力相關產業鏈具備中長期配置價值。"
+    },
+    {
+      "id": "4951342",
+      "time": "2026-06-24 08:13:57",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國財長貝森特：已經看到了人工智慧帶來的經濟增長。"
+    },
+    {
+      "id": "4951341",
+      "time": "2026-06-24 08:13:38",
+      "tags": [
+        "公司"
+      ],
+      "text": "【谷歌旗下的YouTube就社交媒體對兒童造成傷害一案達成和解】谷歌旗下的YouTube已就一起由 未成年人提起的訴訟 達成和解，該未成年人聲稱該平臺 損害了其心理健康 。其律師週二表示，此訊息公佈之際，加利福尼亞州正準備就社交媒體在青少年心理健康危機中的作用展開第二場庭審。谷歌發言人卡斯塔內達（Jose Castaneda）在一份宣告中表示 ，該訴訟已達成友好和解。“我們的重點仍然是開發適合不同年齡段的產品和家長控制功能，以兌現這一承諾，”卡斯塔內達說道。原告（以其姓名首字母R.K.C.命名）的代理律師摩根（John Morgan）和傑夫科特（Emily Jeffcott）在一份宣告中表示：“YouTube在面臨陪審團審判前決定解決此案，這一決定本身就說明了一切。”“我們將繼續代表所有受社交媒體成癮影響的人士奮戰，將這些公司繩之以法，並迫使它們將年輕使用者的安全置於利潤之上。”根據法庭檔案顯示，R.K.C.是一名來自佛羅里達州的16歲男孩，他表示自己大約8歲時就開始使用社交媒體。檔案稱，他因此沉迷其中，導致睡眠不足，並患上了抑鬱症和焦慮症。"
+    },
+    {
+      "id": "4951340",
+      "time": "2026-06-24 08:13:23",
+      "tags": [
+        "市場"
+      ],
+      "text": "SK海力士股價上漲5%。"
+    },
+    {
+      "id": "mkt:019ef6f8-88c8-7dd8-b0e5-bc29b9080fe6",
+      "time": "2026-06-24 08:12:23",
+      "tags": [
+        "MKT News",
+        "Macro & Rates"
+      ],
+      "text": "Bank of Japan June policy meeting summary: a Cabinet Office representative said the central bank must assess the macroeconomic impact of reducing the size of its balance sheet and take appropriate measures to maintain market stability."
+    },
+    {
+      "id": "mkt:019ef6f8-1d60-7dd8-b0e5-b6c014334074",
+      "time": "2026-06-24 08:11:55",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Huatai Securities: Overseas high costs argue against pessimistic forward aluminium prices】Huatai Securities says market fears of 2027–28 overseas electrolytic aluminium capacity additions—focused on Indonesia, India, Angola and Saudi Arabia—are overstated. Accounting for China's domestic capacity ceiling, uncertainty over overseas power infrastructure and supply-demand modelling, Huatai judges current forward pricing too pessimistic and expects overseas forward supply-demand to remain at a tight balance. If global power constraints worsen and AI-related new demand scales up, the market could move into a material shortfall. On costs, Huatai expects the full-cost midpoint at high-cost smelters to continue rising and estimates a 2027–28 overseas spot aluminium floor (including spot premiums) above $3,000/t, roughly ¥22,000/t domestically. Current equity market pricing for the aluminium sector is materially below those support levels, implying valuations may be depressed."
+    },
+    {
+      "id": "4951339",
+      "time": "2026-06-24 08:11:15",
+      "tags": [
+        "觀點",
+        "國際"
+      ],
+      "text": "【華泰證券：海外高成本支撐 遠期鋁價不宜悲觀】華泰證券研報稱，近期市場對2027年—2028年海外電解鋁擴產的擔憂持續升溫，焦點集中於印尼、印度、安哥拉、沙特等地在建產能。但綜合國內產能天花板約束、海外專案電力配套不確定性及供需平衡測算，華泰證券認為當前市場對於鋁價遠期供需格局的定價過於悲觀，海外遠期供需仍能維持緊平衡，若全球電力緊張加劇以及AI相關新型需求放量，或進一步拉動鋁供需格局走向較大幅度短缺。而成本端來看，未來高成本冶煉廠完全成本中樞或持續上行，華泰證券測算2027年—2028年海外現貨鋁價(包含現貨升水)底部支撐仍在約3000美元/噸以上，對應國內約22000元/噸以上，根據測算，當前權益市場對鋁板塊計價已明顯低於上述價格支撐，估值或處於低估狀態。"
+    },
     {
       "id": "mkt:019ef6f7-06b4-7dd8-b0e5-adb121137bed",
       "time": "2026-06-24 08:10:44",
@@ -159065,110 +159132,6 @@
         "國際"
       ],
       "text": "【中信證券：日銀無加息緊迫感，仍預計其在本次加息後將在年內按兵不動】中信證券研報指出，日銀6月如期加息25bps，宣佈計劃暫停縮減購債規模，決議的措辭立場中性略鷹，延續了可能繼續加息的前瞻指引，植田因病缺席本次會議。我們預計日本表觀通脹率將在年內延續溫和表現，日銀沒有繼續加息的緊迫感、可能在本次加息後將維持政策利率不變於1%。"
-    },
-    {
-      "id": "4939477",
-      "time": "2026-06-17 08:15:21",
-      "tags": [
-        "公司"
-      ],
-      "text": "【聖邦股份：H股香港公開發售今日開始 預計6月26日掛牌交易】聖邦股份(300661)6月17日早間公告，公司全球發售H股基礎發行股數為5400.12萬股。其中，初步安排香港公開發售540.02萬股（可予重新分配），約佔全球發售總數的10.00%。發行價格最高不超過每股85.20港元。公司本次H股香港公開發售於2026年6月17日開始，預計於6月23日結束，6月24日前（含當日）公佈發行價格，6月26日在香港聯交所掛牌並開始上市交易。"
-    },
-    {
-      "id": "te:markets:559475",
-      "time": "2026-06-17 08:15:11",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Japan",
-        "stocks",
-        "Importance 1"
-      ],
-      "text": "Mizuho Financial Stock Price Hits All-time High — Mizuho Financial shares increased to an all-time high of 7995.00 JPY. Over the past 4 weeks, Mizuho Financial gained 18.88%, and in the last 12 months, it increased 95.44%."
-    },
-    {
-      "id": "4939476",
-      "time": "2026-06-17 08:15:00",
-      "tags": [
-        "資料",
-        "觀點",
-        "國際"
-      ],
-      "text": "【中信證券：經濟K型分化在加速】中信證券研報指出，5月經濟資料有所分化，呈現“生產強於需求”、“外需強於內需”的格局。從生產側來看，5月工業增加值增速有所回升，主要是出口增速強勁、油價見頂回落帶動工業生產強度改善，內需疲軟使服務業生產指數低位執行。從需求側來看，受補貼資金同比錯位和端午節備貨時間差異影響，5月社零表現欠佳，增速低於預期和前值；5月固投增速整體延續回落，但製造業投資單月增速邊際有所回升。展望未來，隨著美國宣佈解除對霍爾木茲海峽的封鎖，我們提示持續關注海峽恢復通航後油價的走勢以及對國內PPI-CPI剪刀差、工業企業利潤的影響。需求端，我們認為外貿出口仍是今年經濟增長的主要抓手，外需強於內需的格局在年內或將維持。生產端，我們判斷海峽恢復通航有利於緩解高油價對國內工業生產造成的潛在壓力。"
-    },
-    {
-      "id": "mkt:019ed2ee-1cca-7dd8-b03b-fc5c755a68e9",
-      "time": "2026-06-17 08:14:40",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Xiaomi",
-        "1810.HK",
-        "Impact bullish"
-      ],
-      "text": "【Hubei party secretary Guan Zhiou meets Xiaomi chairman Lei Jun】June 15, Wuhan — Hubei party secretary Guan Zhiou met Xiaomi founder-chairman and CEO Lei Jun. Guan urged Xiaomi to expand and deepen its Hubei footprint, contribute to building Wuhan as a regional tech innovation center, and said the province will optimize the business environment and provide full-service support. Lei said Xiaomi is bullish on prospects in Hubei, will increase local business deployment, and seek to attract more talent and upstream and downstream firms to the province."
-    },
-    {
-      "id": "4939475",
-      "time": "2026-06-17 08:14:20",
-      "tags": [
-        "公司",
-        "觀點"
-      ],
-      "text": "【中信證券：AI產業進展處於早期階段，AI帶來的機遇大於挑戰】中信證券研報指出，站在當前時點，我們認為AI產業進展處於早期階段，AI帶來的機遇大於挑戰。產業層面，影片生成模型、世界模型與物理AI等新方向新正規化仍層出不窮，影片理解與生成融合、語言模型與多模態模型融合、模型持續學習等技術創新將會持續引領模型創新趨勢。我們預計模型迭代週期將持續縮短，以Anthropic為代表的模型公司ARR持續提升，並逐步向金融、法律、醫療等更多高價值的企業級場景落地。市場層面，全球科技股估值偏高，持倉偏擁擠是當前最大的挑戰，同時未來半年至一年SpaceX、Anthropic與OpenAI上市也可能給市場流動性帶來衝擊，將成為全球科技股最重磅的事件和觀察視窗。考慮到下半年宏觀流動性邊際或有所收緊，市場演繹將更加依賴業績端的持續兌現和驗證，但只要產業趨勢景氣度不變，若流動性衝擊導致估值回撥，帶來的機遇大於風險。同時國產模型與海外模型差距持續縮小，國產雲廠商相比海外亦有更充分的CAPEX加碼空間，隨著“國模國芯”生態持續完善，國產算力將有更大的彈性。"
-    },
-    {
-      "id": "4939474",
-      "time": "2026-06-17 08:13:32",
-      "tags": [
-        "其他"
-      ],
-      "text": "【青海海西州6.3級地震造成1死8傷 傷者已出院 】記者從大柴旦6.3級地震抗震救災現場指揮部瞭解到，經過兩輪全面人員排查，截至6月16日23時，青海海西州地震已造成1人遇難，8人受傷，受傷人員經包紮處理後已離開醫院。（新華社）"
-    },
-    {
-      "id": "te:economy:559473",
-      "time": "2026-06-17 08:13:13",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Japan",
-        "Exports YoY",
-        "Importance 2"
-      ],
-      "text": "Japan Export Growth at 3-1/2-Year High — Japan’s exports rose 17.0% year-on-year in May 2026, accelerating from a 14.8% growth in the prior month while marking the strongest growth since November 2022 and exceeding the consensus of 16.2%, supported by robust demand from China, the U.S., ASEAN countries, and the EU."
-    },
-    {
-      "id": "4939473",
-      "time": "2026-06-17 08:12:20",
-      "tags": [
-        "公司"
-      ],
-      "text": "【湖北省委書記關志鷗會見小米集團董事長雷軍】據湖北日報，6月15日下午，湖北省委書記關志鷗在武漢會見小米集團創始人、董事長兼執行長雷軍一行。關志鷗說，希望小米集團持續佈局湖北、深耕湖北，進一步深化與湖北的多領域合作，對建設武漢區域科技創新中心、最佳化營商環境等多提意見建議。我們將全力做好服務保障，支援小米集團等各類企業在鄂實現更好發展。雷軍表示，小米集團堅定看好企業在鄂發展前景，將進一步加大業務佈局，吸引更多人才和上下游企業集聚湖北，為湖北加快建成中部地區崛起的重要戰略支點作出新的更大貢獻。"
-    },
-    {
-      "id": "mkt:019ed2eb-d81b-7dd8-b03b-f08fd8555cb3",
-      "time": "2026-06-17 08:12:12",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "The U.S. military said it conducted a lethal strike in the eastern Pacific on a drug-smuggling vessel it said was operated by a 'terrorist organization'."
-    },
-    {
-      "id": "4939472",
-      "time": "2026-06-17 08:11:39",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國南方司令部：6月16日，在南方司令部指揮官弗朗西斯·L·多諾萬將軍的指示下，聯合特遣部隊“南方之矛”對一艘由指定恐怖組織操作的船隻實施了致命動能打擊。情報確認該船隻正沿東太平洋已知毒品販運路線航行，並參與毒品販執行動。此次行動中，一名男性毒梟恐怖分子被擊斃，有兩名男性倖存者。交戰結束後，美國南方司令部立即通知美國海岸警衛隊啟動針對倖存者的搜尋與救援系統。無美軍人員受傷。"
-    },
-    {
-      "id": "em:qqyh_rbyh:202606173773722774",
-      "time": "2026-06-17 08:11:31",
-      "tags": [
-        "央行",
-        "日本央行"
-      ],
-      "text": "【中信證券：預計日本央行在本次加息後將維持政策利率不變於1%】中信證券研報指出，日銀6月如期加息25bps，宣佈計劃暫停縮減購債規模，決議的措辭立場中性略鷹，延續了可能繼續加息的前瞻指引，植田因病缺席本次會議。我們預計日本表觀通脹率將在年內延續溫和表現，日銀沒有繼續加息的緊迫感、可能在本次加息後將維持政策利率不變於1%。"
     }
   ]
 }
