@@ -1,7 +1,76 @@
 {
-  "updated": "2026-06-24 09:52:43",
-  "count": 17394,
+  "updated": "2026-06-24 09:56:53",
+  "count": 17393,
   "items": [
+    {
+      "id": "mkt:019ef757-ad39-7dd8-b0e8-688ce1811285",
+      "time": "2026-06-24 09:56:18",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "STAR 50 Index rose 1%. Among constituents, Geke Microelectronics jumped about 9% and Semiconductor Manufacturing International Corp (SMIC) gained over 3%."
+    },
+    {
+      "id": "4951498",
+      "time": "2026-06-24 09:55:36",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "科創50日內漲幅達1.02%，成分股中，格科微漲8.54%，艾力斯漲8.01%，中科飛測漲6.56%，華虹宏力漲5.04%。"
+    },
+    {
+      "id": "4951497",
+      "time": "2026-06-24 09:55:32",
+      "tags": [
+        "國際"
+      ],
+      "text": "韓國總統政策室長：韓國必須採取特別措施擴大住房供應。"
+    },
+    {
+      "id": "4951496",
+      "time": "2026-06-24 09:53:42",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【韓國總統政策室長：三星與SK海力士新晶片叢集規劃進入收尾階段】韓國總統辦公室政策室長金容範6月24日表示，三星電子和SK海力士建立新半導體叢集的計劃已進入最後討論階段，一旦最終敲定將正式向大眾公佈。金容範指出，由於人工智慧（AI）行業對晶片的需求呈現“爆發式增長”，兩家公司現有的龍仁半導體叢集建設程序將大幅提前。其中，SK海力士計劃在龍仁建設四座晶圓廠，目前正討論將第四座工廠的完工時間從原定的2044年大幅提前至2034年。"
+    },
+    {
+      "id": "4951495",
+      "time": "2026-06-24 09:53:23",
+      "tags": [
+        "市場"
+      ],
+      "text": "房地產板塊震盪走低，深深房A跌停，合肥城建、天地源、北辰實業、京能置業、大龍地產跌幅居前。"
+    },
+    {
+      "id": "mkt:019ef754-66c1-7dd8-b0e8-65f97704512f",
+      "time": "2026-06-24 09:52:44",
+      "tags": [
+        "MKT News",
+        "Important",
+        "01347.HK",
+        "Impact bullish"
+      ],
+      "text": "Hong Kong-listed Huahong Hongli (01347.HK) continued to push higher, now up more than 10%."
+    },
+    {
+      "id": "4951494",
+      "time": "2026-06-24 09:52:16",
+      "tags": [
+        "其他"
+      ],
+      "text": "【港股半導體、算力硬體股走高，華虹宏力漲近10%】港股半導體、算力硬體股走高，華虹宏力漲近10%，劍橋科技漲超8%，中芯國際、瀾起科技、建滔積層板跟漲。"
+    },
+    {
+      "id": "4951493",
+      "time": "2026-06-24 09:52:10",
+      "tags": [
+        "國際"
+      ],
+      "text": "白宮發言人萊維特：明天中午12點，在國會山，特朗普總統將簽署《21世紀住房之路法案》成為法律，這是美國歷史上最重要的住房可負擔性立法之一。這項兩黨法案包括總統長期倡導的政策。它削減不必要的繁文縟節，有助於增加住房供應，並限制大型機構投資者購買獨棟住宅的能力。 正如總統所說，房屋應該由美國家庭擁有，而不是大型企業。"
+    },
     {
       "id": "4951492",
       "time": "2026-06-24 09:51:48",
@@ -159286,98 +159355,6 @@
         "MKT News"
       ],
       "text": "【WSJ survey: PHILIPPINE C.BANK likely to hike rates on Thursday】A Wall Street Journal survey of 12 economists found 10 expect the PHILIPPINE C.BANK to raise its policy rate by 25bps to 4.75% on Thursday; two forecast a 50bp move. Capital Economics says the Philippines is among Asian economies most affected by the energy shock and that inflation has run above the central bank's target range for months, but notes policymakers will also factor in recent economic weakness. HSBC analyst Aris Dacanay says the bank’s price-stability objective could justify a larger increase."
-    },
-    {
-      "id": "4939644",
-      "time": "2026-06-17 09:55:59",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "甲醇連續主力合約日內跌3%，現報2630.00元。"
-    },
-    {
-      "id": "mkt:019ed34a-821c-7dd8-b03d-c909b83d7e2e",
-      "time": "2026-06-17 09:55:35",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC",
-        "USDJPY",
-        "Impact bullish",
-        "DXY"
-      ],
-      "text": "Japan 10-year bond yield fell 4.5 bps to 2.600%."
-    },
-    {
-      "id": "mkt:019ed34a-4ded-7dd8-b03d-c0670ba3d665",
-      "time": "2026-06-17 09:55:22",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Greater China",
-        "SZSE Component",
-        "Impact bullish",
-        "CSI300",
-        "SSE Composite"
-      ],
-      "text": "China A-share display-panel sector extended intraday gains; Changxin Technology, BOE A, Woge Optoelectronics, Rainbow Co. and Kaiseng Technology hit the daily limit, while Longteng Optoelectronics, Qiutian Micro and TCL Technology also rallied."
-    },
-    {
-      "id": "4939643",
-      "time": "2026-06-17 09:55:07",
-      "tags": [
-        "其他"
-      ],
-      "text": "【2025年破獲部級毒品目標案件365起 抓獲犯罪嫌疑人14667名】今天上午（6月17日）國家禁毒辦召開新聞釋出會。釋出會上，國家禁毒辦副主任、公安部禁毒局副局長蘭衛紅介紹，2025年，各地禁毒部門結合“專業+機制+大資料”新型警務模式，破獲部級毒品目標案件365起，抓獲犯罪嫌疑人14667名，繳獲冰毒、海洛因、大麻等主要毒品18.1噸。"
-    },
-    {
-      "id": "4939642",
-      "time": "2026-06-17 09:54:50",
-      "tags": [
-        "A股"
-      ],
-      "text": "創業板指、深證成指均已翻紅，上證指數跌0.08%，電子紙、元件、PET銅箔等板塊漲幅居前。"
-    },
-    {
-      "id": "mkt:019ed349-932a-7dd8-b03d-bdeca7b1455f",
-      "time": "2026-06-17 09:54:34",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "SZSE Component",
-        "Impact bullish",
-        "SSE Composite",
-        "Impact bearish"
-      ],
-      "text": "A-shares ChiNext and Shenzhen Composite Index turned positive; Shanghai Composite fell 0.08%. Leading sector gainers were electronic paper, electronic components and PET copper foil."
-    },
-    {
-      "id": "4939641",
-      "time": "2026-06-17 09:54:00",
-      "tags": [
-        "其他"
-      ],
-      "text": "【國家禁毒辦：2025年打擊毒品犯罪十大典型案例釋出】今天（6月17日）上午國家禁毒辦召開新聞釋出會，並公佈2025年公安禁毒部門打擊毒品犯罪十大典型案例：一、中泰美偵破“集盛輪”特大海上走私毒品案。二、遼寧偵破“部目標2025-49”號毒品案件。三、上海偵破“部目標2021-87”號毒品案件。四、浙江偵破“部目標2025-59”號毒品案件。五、江西偵破“部目標2024-357”號毒品案件。六、湖北偵破“部目標2025-121”號毒品案件。七、福建、西藏聯合偵破“部目標2025 -119”號毒品案件。八、廣東偵破“部目標2024-113”號毒品案件。九、雲南偵破“部目標2022-323”號毒品案件。十、貴州偵破“7.27”龍華等人特大毒品犯罪集團案。（央視新聞）"
-    },
-    {
-      "id": "4939640",
-      "time": "2026-06-17 09:53:23",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【面板板塊持續走高，京東方A漲停】面板板塊持續走高，長信科技、京東方A、沃格光電、彩虹股份、凱盛科技等股漲停，龍騰光電、秋天微、TCL科技漲幅居前。"
-    },
-    {
-      "id": "4939638",
-      "time": "2026-06-17 09:53:08",
-      "tags": [
-        "公司"
-      ],
-      "text": "【星樞天算：與中國電信簽署戰略合作協議 將在股權投資等五方面開展深度合作】近日，鈞達股份間接控股公司上海星樞天算航天科技與中國電信上海分公司簽署戰略合作協議。本次戰略合作雙方將圍繞資料基礎設施供給、太空算力成果轉化、股權投資合作、科技創新攻關、全渠道市場宣傳等五個方面開展深度合作。中國電信將優先保障星樞天算的算力排程與網路資源，共同推進“天數天算、天地一體”協同發展，打造太空算力產業閉環。其中，雙方將探索以直投或基金投資形式深化資本合作，共同培育戰略新興業務增長點。公開資訊顯示，鈞達股份持有星樞天算母公司巡天千河60%的股權，間接控股星樞天算。"
     }
   ]
 }
