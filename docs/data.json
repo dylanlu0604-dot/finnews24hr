@@ -1,7 +1,23 @@
 {
-  "updated": "2026-06-25 05:26:37",
-  "count": 17057,
+  "updated": "2026-06-25 05:30:40",
+  "count": 17054,
   "items": [
+    {
+      "id": "4953542",
+      "time": "2026-06-25 05:29:48",
+      "tags": [
+        "國際"
+      ],
+      "text": "北約秘書長呂特：特朗普還希望北約盟友增加開支。"
+    },
+    {
+      "id": "4953541",
+      "time": "2026-06-25 05:28:37",
+      "tags": [
+        "國際"
+      ],
+      "text": "北約秘書長呂特：特朗普堅定支援北約同盟。"
+    },
     {
       "id": "4953540",
       "time": "2026-06-25 05:25:31",
@@ -155842,48 +155858,6 @@
         "MKT News"
       ],
       "text": "【Iran foreign ministry spokesman says Iran and US have signed memorandum of understanding】Iran’s foreign ministry spokesman Baghaei said on the 18th (local time) that the text of a memorandum of understanding between Iran and the US has been finalized and signed by both sides."
-    },
-    {
-      "id": "mkt:019ed77d-9fe9-7dd8-b064-81d04b95432b",
-      "time": "2026-06-18 05:29:54",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "Iran's foreign ministry spokesman said Friday's meeting in Switzerland is not intended to result in a signed agreement; a decision on whether the meeting will proceed is expected within the next few hours."
-    },
-    {
-      "id": "4941868",
-      "time": "2026-06-18 05:29:01",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗外交部發言人：原定週五在瑞士舉行的會議並非為簽署協議而召開，且該會議是否會如期舉行，預計未來幾小時內就會有結果。"
-    },
-    {
-      "id": "mkt:019ed77b-af86-7dd8-b064-7bb037127cff",
-      "time": "2026-06-18 05:27:47",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Iran Foreign Ministry spokesperson said the agreement text should exist in electronic form and be signed by the presidents of both countries."
-    },
-    {
-      "id": "4941867",
-      "time": "2026-06-18 05:27:39",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "伊朗外交部發言人：我們已商定，協議文字應為電子形式，由雙方兩國總統簽署。"
-    },
-    {
-      "id": "4941866",
-      "time": "2026-06-18 05:27:31",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗議會議長卡利巴夫：談判結束、諒解備忘錄簽署完成後，政府的工作重心將轉向服務民眾、解決國內民生需求。"
     }
   ]
 }
