@@ -1,7 +1,67 @@
 {
-  "updated": "2026-06-25 01:46:58",
-  "count": 17223,
+  "updated": "2026-06-25 01:50:58",
+  "count": 17221,
   "items": [
+    {
+      "id": "4953286",
+      "time": "2026-06-25 01:50:25",
+      "tags": [
+        "其他"
+      ],
+      "text": "Coinbase：部分使用者在OP網路上發起轉賬可能失敗。"
+    },
+    {
+      "id": "mkt:019efabf-0f9c-7dd8-b101-9f39756d4ff6",
+      "time": "2026-06-25 01:48:05",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Brent"
+      ],
+      "text": "Iraq's state news agency reported the Kurdistan Regional Government said several foreign oil companies have resumed operations in Iraqi Kurdistan."
+    },
+    {
+      "id": "4953285",
+      "time": "2026-06-25 01:47:49",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場資訊：歐洲各國領導人堅稱，他們正在落實美國總統特朗普的訴求，即推動北約實現“歐洲化”。"
+    },
+    {
+      "id": "te:markets:561629",
+      "time": "2026-06-25 01:47:06",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "other",
+        "currency",
+        "Importance 0"
+      ],
+      "text": "Bitcoin Hits 20-month Low — The Bitcoin touched 59140.00 against the BTC, the highest since October 2024. Over the past 4 weeks, Bitcoin US Dollar lost 23.38%, and in the last 12 months, it decreased 44.89%."
+    },
+    {
+      "id": "4953284",
+      "time": "2026-06-25 01:46:58",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "【SpaceX發行的250億美元債券走弱，長期債券領跌】在透過債市募資250億美元次日，SpaceX債券大多走弱，長債領跌。投資者在該公司的首次發債中更青睞期限較短的債券。Trace資料顯示，截至紐約週三上午10點25分，SpaceX發行的30年期債券較同期美國國債收益率高出188個基點，而交易最終定價為高出175個基點。期限最短的5年期債券價格持穩。"
+    },
+    {
+      "id": "4953283",
+      "time": "2026-06-25 01:46:47",
+      "tags": [
+        "市場",
+        "觀點",
+        "國際"
+      ],
+      "text": "【高盛分析師稱石油多頭誤判油價跌幅 低估系統靈活性】高盛全球大宗商品研究聯席主管Daan Struyven表示，石油多頭分析師誤判了伊朗局勢緩和後原油價格的下跌幅度。美國與伊朗在4月達成臨時停火協議，並開啟了旨在正式結束戰爭的談判。Struyven表示，市場“低估了系統的靈活性”。"
+    },
     {
       "id": "4953282",
       "time": "2026-06-25 01:46:00",
@@ -157756,81 +157816,6 @@
         "Impact mixed"
       ],
       "text": "JP Morgan global fixed income head Michelle said the oil-price shock is to some extent temporary."
-    },
-    {
-      "id": "4941602",
-      "time": "2026-06-18 01:50:47",
-      "tags": [
-        "央行",
-        "焦點",
-        "國際"
-      ],
-      "text": "【美聯儲6月決議宣告和新聞釋出會關注點】\n1、美聯儲是否會維持聯邦基金利率目標區間不變。\n2、美聯儲官員們對利率預測的點陣圖是否會有變化。\n3、美聯儲對美國經濟形勢（通脹和就業等）的看法。\n4、美聯儲主席凱文·沃什將在新聞釋出會上釋放哪些資訊。"
-    },
-    {
-      "id": "mkt:019ed6b4-5e82-7dd8-b05c-f3ddc3cbc789",
-      "time": "2026-06-18 01:50:05",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "DXY",
-        "Impact mixed",
-        "US10Y",
-        "S&P500"
-      ],
-      "text": "The Federal Reserve's FOMC will release its rate decision and the Summary of Economic Projections in 10 minutes."
-    },
-    {
-      "id": "mkt:019ed6b3-abe7-7dd8-b05c-ecaac1581927",
-      "time": "2026-06-18 01:49:19",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Brazilian President Lula said he expects U.S. President Trump will not interfere in Brazil's election."
-    },
-    {
-      "id": "4941601",
-      "time": "2026-06-18 01:49:02",
-      "tags": [
-        "國際"
-      ],
-      "text": "巴西總統盧拉：但我希望特朗普不要干涉巴西大選。"
-    },
-    {
-      "id": "4941600",
-      "time": "2026-06-18 01:48:48",
-      "tags": [
-        "國際"
-      ],
-      "text": "巴西總統盧拉：我認為特朗普有權對巴西大選持有個人偏向立場。"
-    },
-    {
-      "id": "mkt:019ed6b2-950a-7dd8-b05c-e37236a41297",
-      "time": "2026-06-18 01:48:08",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Lula said officials from the foreign and commerce ministries are negotiating with the United States."
-    },
-    {
-      "id": "mkt:019ed6b2-7a81-7dd8-b05c-de0388f89476",
-      "time": "2026-06-18 01:48:01",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "The Trump Trade"
-      ],
-      "text": "Brazilian President Lula said Trump talks too much and listens too little."
-    },
-    {
-      "id": "4941599",
-      "time": "2026-06-18 01:47:15",
-      "tags": [
-        "國際"
-      ],
-      "text": "巴西總統盧拉：倘若特朗普僅透過博索納羅家族來認識巴西，那他根本不瞭解這個國家。"
     }
   ]
 }
