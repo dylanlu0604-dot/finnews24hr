@@ -1,7 +1,195 @@
 {
-  "updated": "2026-06-24 19:13:46",
-  "count": 17219,
+  "updated": "2026-06-24 19:18:04",
+  "count": 17233,
   "items": [
+    {
+      "id": "te:economy:561520",
+      "time": "2026-06-24 19:16:59",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Brazil",
+        "Economic Optimism Index",
+        "Importance 1"
+      ],
+      "text": "Brazil's Consumer Confidence Remains Stable — Brazil's seasonally adjusted FGV-IBRE Consumer Confidence Index retreated 0.1 points to 88.7 in June 2026 from 88.8 in May. Sentiment remained relatively stable, although reflecting contrasting variations. Expectations for the future worsened, with the index falling 0.9 points to 90.4, while the perception of the current situation improved, advancing 0.9 points to 87, marking the third consecutive increase and the highest level since October 2014. Purchase intentions of durable goods (80 vs 83) and future financial situation (87.7 vs 89.4) suggest a more pessimistic sentiment, although the current financial situation confidence improved (79 vs 81.3). In contrast, future local economic expectations increased by 2.4 points to 105.3, while current perceptions fell by 0.4 points to 95.4. Across income groups, consumer confidence improved among lower-income households, while sentiment deteriorated among consumers earning R$4,800 or more."
+    },
+    {
+      "id": "mkt:019ef958-aad1-7dd8-b0f6-f97161bd7fbc",
+      "time": "2026-06-24 19:16:38",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals"
+      ],
+      "text": "New York silver futures fell as much as 3.0% intraday to $60.21/oz."
+    },
+    {
+      "id": "4952633",
+      "time": "2026-06-24 19:16:29",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金失守4040美元/盎司，日內跌1.71%。"
+    },
+    {
+      "id": "mkt:019ef958-8a52-7dd8-b0f6-f16865e0ef73",
+      "time": "2026-06-24 19:16:29",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "DXY"
+      ],
+      "text": "IDF spokesperson said earlier today the military received reports of suspected Hamas activity at the Gaza-side Kerem Shalom crossing and deployed to the area. One unarmed suspect was arrested and handed to security forces for further interrogation."
+    },
+    {
+      "id": "te:markets:561519",
+      "time": "2026-06-24 19:16:00",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "commodity",
+        "Importance 0"
+      ],
+      "text": "Palladium Hits 39-week Low — Palladium decreased to 1199.00 USD/t.oz, the lowest since September 2025. Over the past 4 weeks, Palladium lost 14.76%, and in the last 12 months, it increased 12.03%."
+    },
+    {
+      "id": "4952632",
+      "time": "2026-06-24 19:15:54",
+      "tags": [
+        "其他"
+      ],
+      "text": "【財通福鑫定開混合(501046)二級市場出現極大幅度溢價 6月25日全天停牌】財通福鑫定開混合(501046)二級市場交易價格嚴重高於基金份額淨值，出現極大幅度溢價。特此提示投資者關注二級市場交易價格溢價風險，投資者如果盲目投資，可能遭受重大損失。為維護投資者利益，基金將於2026年6月25日全天停牌。"
+    },
+    {
+      "id": "4952631",
+      "time": "2026-06-24 19:15:54",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨白銀失守60美元/盎司，日內跌2.47%。"
+    },
+    {
+      "id": "4952630",
+      "time": "2026-06-24 19:15:44",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金失守4060美元/盎司，日內跌2.16%。"
+    },
+    {
+      "id": "4952629",
+      "time": "2026-06-24 19:15:41",
+      "tags": [
+        "市場"
+      ],
+      "text": "紐約期銀日內跌3%，現報60.62美元/盎司。"
+    },
+    {
+      "id": "4952628",
+      "time": "2026-06-24 19:15:24",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【*ST嶺南：股票收盤價低於1元 存在終止上市風險】*ST嶺南公告稱，公司股票於2026年6月24日收盤價為0.97元/股，低於1元。根據相關規定，若連續二十個交易日收盤價均低於1元，深交所將終止其股票上市交易，且不進入退市整理期。這是公司可能觸發面值退市的第一次終止上市風險提示公告。此外，公司還因主要銀行賬戶被凍結、財務指標虛假記載等情況被實施風險警示。公司董事會正積極採取措施改善經營，提醒投資者注意風險。"
+    },
+    {
+      "id": "4952627",
+      "time": "2026-06-24 19:14:44",
+      "tags": [
+        "其他"
+      ],
+      "text": "【盟友稱伯納姆將尋求財政規則“靈活性” 暗示其或偏離英國當前財政路線】英國下任首相熱門人選安迪·伯納姆的一位長期盟友表示，這位大曼徹斯特前市長將在政府的支出和借貸規則中尋求“靈活性”。這一表態暗示，伯納姆可能考慮偏離現任財政大臣蕾切爾·裡夫斯所堅持的路線。曾在伯納姆麾下擔任大曼徹斯特副市長的Richard Leese週三接受採訪時表示：“我認為，他可能會尋求在財政規則的適用方式上擁有更大靈活性，以確保我們能夠推動經濟增長。如果經濟無法增長，財政規則對政府施政能力造成的約束就會越來越大。”"
+    },
+    {
+      "id": "mkt:019ef956-cca8-7dd8-b0f6-e89d19ab651c",
+      "time": "2026-06-24 19:14:35",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "【Wuhan launches 1 bln yuan municipal AI sci‑tech fund】Wuhan has launched its first municipal-level AI science-and-technology innovation fund, the Wuhan Wuchuang Future Intelligent Venture Fund, with total capital of 1 billion yuan. Investors include Wuchuang Investment, Wuhan Fund and the Hubei Humanoid Robot Fund of Funds. The vehicle will target AI, humanoid robots and embodied intelligence, prioritizing financing for full humanoid robot systems, high-precision sensors, intelligent chips and other core tech R&D and industrialization projects."
+    },
+    {
+      "id": "te:economy:561517",
+      "time": "2026-06-24 19:14:24",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "Mortgage Applications",
+        "Importance 1"
+      ],
+      "text": "US Mortgage Applications Inch Higher — Mortgage applications in the US inched higher by 1% in the third week of June following the 3.8% drop in the previous period, according to data compiled by the Mortgage Bankers Association. The slight uptick was aligned with a 1bps drop in the benchmark 30-year mortgage rate. The drop in oil prices on de-escalation between Iran and the US brought relief from a pro-inflationary outlook in the economy, but the outlook of a hawkish Federal Reserve following the last FOMC meeting prevented significant respite for long-term Treasury bonds. Applications to refinance an existing mortgage, which are more sensitive to short-term changes in interest rates, rose by 3%. Meanwhile, applications for a mortgage to purchase a home eased by less than 1%."
+    },
+    {
+      "id": "4952626",
+      "time": "2026-06-24 19:14:23",
+      "tags": [
+        "國際"
+      ],
+      "text": "幣安表示，儘管此前申請失敗，但仍將留在歐盟，並將再次嘗試申請加密貨幣牌照。"
+    },
+    {
+      "id": "4952625",
+      "time": "2026-06-24 19:13:57",
+      "tags": [
+        "市場"
+      ],
+      "text": "現貨白銀日內跌2%，現報60.25美元/盎司。"
+    },
+    {
+      "id": "mkt:019ef956-2cb9-7dd8-b0f6-e2ce8976ba02",
+      "time": "2026-06-24 19:13:54",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals"
+      ],
+      "text": "Spot silver falls more than 2.0% intraday to $60.30/oz."
+    },
+    {
+      "id": "4952624",
+      "time": "2026-06-24 19:13:49",
+      "tags": [
+        "公司"
+      ],
+      "text": "【新城市：望遠科技、遠方實業累計減持公司2.12%股份】新城市公告，持股5%以上股東望遠科技、遠方實業減持計劃時間屆滿。截至2026年6月23日，望遠科技累計減持316.5萬股，佔公司總股本剔除回購專用賬戶後股本的比例為1.58%；遠方實業累計減持108萬股，佔比0.54%。減持方式包括集中競價和大宗交易。減持期間，望遠科技因誤操作構成短線交易，已上繳收益並收到深圳證監局警示函。減持後，望遠科技持股比例降至13.26%，遠方實業持股比例降至10.74%。"
+    },
+    {
+      "id": "4952623",
+      "time": "2026-06-24 19:13:38",
+      "tags": [
+        "公司"
+      ],
+      "text": "【退市太和：第五次提示公司股票退市整理期交易風險】退市太和公告稱，公司股票於2026年6月8日進入退市整理期，預計最後交易日為6月29日。退市整理期為15個交易日，期滿後5個交易日內將被上交所摘牌，終止上市。首個交易日無漲跌幅限制，此後每日10%。期間公司不籌劃或實施重大資產重組，投資者應提前了結相關業務，司法凍結建議提前續凍，提醒投資者審慎投資、注意風險。"
+    },
+    {
+      "id": "mkt:019ef955-dac9-7dd8-b0f6-dcb25a8930aa",
+      "time": "2026-06-24 19:13:33",
+      "tags": [
+        "MKT News",
+        "S&P500",
+        "Impact bullish"
+      ],
+      "text": "JP Morgan raises its S&P 500 year-end target to 7,800 points, saying the outlook is approaching a \"clear-sky\" scenario."
+    },
+    {
+      "id": "4952622",
+      "time": "2026-06-24 19:13:24",
+      "tags": [
+        "國際"
+      ],
+      "text": "【出人意料、原因不明！上任僅18個月，美軍又一名四星上將被爆將提前離職】據英國《金融時報》、美聯社報道，美國陸軍當地時間23日晚證實，美國駐歐洲與非洲陸軍司令、四星上將克里斯托弗·多納休在上任僅18個月後，將被美國防部長赫格塞思提前解除職務。 據報道介紹，多納休曾在伊拉克、敘利亞等地區服役，在美國前總統拜登2021年下令美軍撤離阿富汗後，多納休成為最後一名離開阿富汗的美軍人員。 報道稱，在赫格塞思解僱美國四星上將、陸軍參謀長蘭迪·喬治僅兩個月後，多納休就被迫離職，此舉在美軍軍官中引發不滿。《金融時報》在報道中直言，多納休是在赫格塞思的“迫使”下離職的，此次解職將在美軍內部引發又一次震動。 目前尚不清楚赫格塞思為何要將多納休解職，但赫格塞思一直公開批評拜登政府處理撤軍的方式，並已下令對撤軍背後的情況進行調查。 （環球網）"
+    },
     {
       "id": "4952621",
       "time": "2026-06-24 19:13:03",
@@ -171,6 +359,14 @@
         "Importance 2"
       ],
       "text": "US Mortgage Rates Edge Down — The average interest rate on 30-year fixed-rate mortgages for conforming loan balances of $806,500 or less in the US edged down by 1 basis point to 6.59% in the week ended June 19, 2026, from 6.60% in the previous week, according to the Mortgage Bankers Association’s Weekly Mortgage Applications Survey. Despite the slight decline, borrowing costs remained close to their highest levels since August last year. Meanwhile, total mortgage applications increased 1%, rebounding from a 3.8% decline in the prior week. Refinancing activity rose 3%, while applications for home purchases slipped 0.6%."
+    },
+    {
+      "id": "4952608",
+      "time": "2026-06-24 19:09:48",
+      "tags": [
+        "其他"
+      ],
+      "text": "【重慶市南川區人大常委會原副巡視員鄧昭軍被開除黨籍】經查，鄧昭軍喪失理想信念，背棄初心使命，罔顧中央八項規定精神，違規收受禮品；無視組織原則，不按規定報告個人有關事項，在組織函詢時不如實說明問題；廉潔底線失守，違規從事營利活動，退休後違反從業禁止規定到任職轄區企業兼職取酬；私慾膨脹，將公權力作為謀取私利的工具，利用職務便利為他人在工程承攬、證照辦理、資金撥付等方面謀利，並非法收受鉅額財物。"
     },
     {
       "id": "4952607",
@@ -157428,76 +157624,6 @@
         "MKT News"
       ],
       "text": "【Trump denies $300 billion Iran reconstruction funding; says US will not invest】President Trump said reports that a US-Iran agreement includes $300 billion in reconstruction funding for Tehran are false, adding \"We will not pay a penny\" and that the US will not invest or establish such a fund. He said he did not ask Gulf states to invest in Iran but would not oppose them doing so, and expects they will likely wait until Iran’s behavior is clarified."
-    },
-    {
-      "id": "4940900",
-      "time": "2026-06-17 19:17:23",
-      "tags": [
-        "國際"
-      ],
-      "text": "【美媒披露美伊14條諒解備忘錄草案文字】據美國媒體當地時間17日報道，美國媒體獲得的一份文字顯示，伊朗與美國達成的協議列出了雙方停火條款、霍爾木茲海峽重新開放安排、對伊朗的部分財政紓困措施，以及德黑蘭重申永不製造核武器的承諾。這份包含14項條款的諒解備忘錄尚未正式公佈，但美國媒體從一名美國官員處獲得了文字副本。一名本週在法國G7峰會上看到該檔案的外交官證實了其內容，另外兩名瞭解談判情況的外交訊息人士也予以確認。目前尚不清楚該草案是否與定於週五在瑞士正式簽署的最終文字完全一致。此外，技術細節仍在最後敲定過程中，因此措辭仍可能發生變化。白宮在美國媒體出示其獲得的草案後未回應置評請求。伊朗半官方媒體塔斯尼姆通訊社則稱，外界流出的草案版本並不準確。"
-    },
-    {
-      "id": "mkt:019ed54c-04cc-7dd8-b04e-3862bf7c3ac7",
-      "time": "2026-06-17 19:16:29",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bearish",
-        "XAUUSD"
-      ],
-      "text": "【CNN obtains draft 14-point US-Iran memorandum】CNN said it obtained a 14-point draft memorandum between the United States and Iran that includes a ceasefire, arrangements to reopen the Strait of Hormuz, partial financial relief measures for Iran, and Tehran’s renewed pledge not to build nuclear weapons. A US official provided the text; a diplomat who saw the document at this week’s G7 and two other diplomatic sources confirmed its contents. It is unclear whether the draft matches the final text scheduled to be signed on Friday in Switzerland; technical details and wording remain under negotiation. The White House did not respond to CNN’s request for comment. Iran’s semi-official Tasnim news agency said the leaked draft is inaccurate."
-    },
-    {
-      "id": "te:economy:559723",
-      "time": "2026-06-17 19:15:59",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "United States",
-        "Mortgage Applications",
-        "Importance 1"
-      ],
-      "text": "US Mortgage Applications Ease — Mortgage applications in the US fell by 3.8% in the second week of June, trimming the 10.8% jump in the earlier period, to mark the fourth week of contraction from the last five, according to data compiled by the Mortgage Bankers Association. The drop took place despite the steadiness in benchmark mortgage rates, which remained unchanged despite the pullback in long-term Treasury yields in the period. Applications to refinance an existing mortgage, which are more sensitive to short-term changes in interest rates, fell by 4.5%. Meanwhile, applications for a mortgage to purchase a home dropped by 3.4%."
-    },
-    {
-      "id": "4940899",
-      "time": "2026-06-17 19:14:58",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "【部分省份工業經濟執行座談交流活動在京召開】工業和資訊化部黨組成員、副部長辛國斌6月17日在北京主持召開部分省份工業經濟執行座談交流活動，深入學習貫徹中央政治局會議精神，瞭解各地區當前工業經濟執行情況，分析研判二季度工業經濟形勢，研究提出工作舉措及政策建議。會議指出，今年以來，在全系統共同努力下，工業經濟總體實現良好開局。要切實把思想和行動統一到黨中央對經濟形勢的科學判斷和關於經濟工作的決策部署上來，堅持穩中求進工作總基調，更好統籌國內經濟工作和國際經貿鬥爭，統籌發展和安全，不斷鞏固工業經濟執行良好態勢。會議強調，當前工業經濟執行中還存在一些困難和問題，但工業經濟發展的基本面和長期向好的趨勢沒有變。要推動供需適配，深入挖掘內需潛力，擴大優質商品供給，以高質量供給創造和引領需求。要加快培育新動能，深入實施“人工智慧＋製造”專項行動，加快新一代資訊科技全方位全鏈條普及應用，持續培育壯大新質生產力，深入整治“內卷式”競爭，推動工業經濟實現質的有效提升和量的合理增長相統一。要堅持底線思維，強化形勢研判和政策儲備，穿透資料表象準確分析經濟執行的實際情況和趨勢性變化，紮實做好重點企業紓困幫扶，謀劃好迎峰度夏期間能源保供和應急防災減災工作，切實推動二季度工業經濟平穩執行，努力完成全年目標任務，為“十五五”良好開局奠定基礎。"
-    },
-    {
-      "id": "mkt:019ed549-f838-7dd8-b04e-3226aac6fa41",
-      "time": "2026-06-17 19:14:15",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "NVIDIA",
-        "Market Themes",
-        "Chip Wars",
-        "Magnificent 7",
-        "NVDA.O",
-        "Impact bullish"
-      ],
-      "text": "【U.S. grants $500m to SandboxAQ for domestic chip materials, including PFAS substitutes】The U.S. government on Wednesday granted SandboxAQ $500m to develop new chemicals and materials for domestic semiconductor manufacturing, including alternatives to PFAS. The funding is part of CHIPS Act research allocations directed by President Trump; the program previously committed $150m to new chip-making equipment and $2bn to quantum computing. SandboxAQ, backed by NVIDIA (NVDA.O), was valued at $5.75bn in April 2025 and has raised more than $1bn to date."
-    },
-    {
-      "id": "4940898",
-      "time": "2026-06-17 19:14:11",
-      "tags": [
-        "國際"
-      ],
-      "text": "【美國向SandboxAQ撥款5億美元，用於尋找新的晶片製造材料】美國政府週三向SandboxAQ撥款5億美元，用於開發美國本土半導體制造所需的新型化學品與材料，包括PFAS（全氟和多氟烷基物質）的替代品。這筆資金屬於美國總統特朗普依據晶片法案（CHIPS Act）配置科研資金的一部分。此前該計劃已提供1.5億美元投資於新型晶片製造裝置，以及20億美元投入量子運算領域。由英偉達(NVDA.O)支援的SandboxAQ，在2025年4月的估值為57.5億美元，至今已募資超過10億美元。"
-    },
-    {
-      "id": "4940897",
-      "time": "2026-06-17 19:13:53",
-      "tags": [
-        "公司"
-      ],
-      "text": "【海順新材：三名股東擬減持不超0.19%股份】海順新材公告稱，董事兼財務總監倪海龍、副總經理陳平、李俊擬在2026年7月10日-10月9日以集中競價方式減持公司股份。倪海龍擬減持150,015股（佔剔除回購股份後總股本的0.0558%），陳平擬減持82,125股（佔0.0306%），李俊擬減持271,560股（佔0.1011%），合計減持503,700股，佔比0.1875%。減持原因為個人資金需求，本次減持不會導致公司控制權變更。"
     }
   ]
 }
