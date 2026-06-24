@@ -1,7 +1,60 @@
 {
-  "updated": "2026-06-25 02:41:32",
-  "count": 17146,
+  "updated": "2026-06-25 02:45:29",
+  "count": 17132,
   "items": [
+    {
+      "id": "4953344",
+      "time": "2026-06-25 02:44:30",
+      "tags": [
+        "其他",
+        "焦點"
+      ],
+      "text": "高通資料中心主管：微軟將在Azure資料中心部署高通高頻寬計算晶片。"
+    },
+    {
+      "id": "mkt:019efaf1-f3d1-7dd8-b102-9854c4e01799",
+      "time": "2026-06-25 02:43:41",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Star Stocks",
+        "Alphabet",
+        "Market Themes",
+        "AI Revolution",
+        "Magnificent 7",
+        "GOOG.O",
+        "Impact bearish"
+      ],
+      "text": "Alphabet shares (GOOG.O) extended losses to 0.8% after reports Google pushed back the launch of its Gemini 3.5 Pro large AI model to July to gather more early-tester feedback and further tune the model."
+    },
+    {
+      "id": "4953343",
+      "time": "2026-06-25 02:42:21",
+      "tags": [
+        "其他"
+      ],
+      "text": "委內瑞拉代總統羅德里格斯：委內瑞拉謀求與哥倫比亞新一屆政府開展合作。"
+    },
+    {
+      "id": "mkt:019efaf0-a63e-7dd8-b102-97f7d10f4788",
+      "time": "2026-06-25 02:42:15",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "QCOM.O",
+        "Impact bullish"
+      ],
+      "text": "Qualcomm's data-center business head said the company expects its custom-chip business to begin contributing meaningful revenue from Q1 2027 and to be materially revenue-generating by end-2027."
+    },
+    {
+      "id": "4953342",
+      "time": "2026-06-25 02:41:45",
+      "tags": [
+        "公司"
+      ],
+      "text": "谷歌將Gemini 3.5 Pro大模型釋出時間推遲至7月。"
+    },
     {
       "id": "4953341",
       "time": "2026-06-25 02:40:53",
@@ -156644,209 +156697,6 @@
         "國際"
       ],
       "text": "美聯儲主席沃什： 預計年底前將針對政策溝通機制開展全面評估，涵蓋新聞釋出會、點陣圖及議息會議相關安排。"
-    },
-    {
-      "id": "4941672",
-      "time": "2026-06-18 02:45:24",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲主席沃什： 並未感受到委員們提交的經濟預測中帶有十足篤定的判斷。"
-    },
-    {
-      "id": "mkt:019ed6e6-d829-7dd8-b060-225d6cfade84",
-      "time": "2026-06-18 02:45:13",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Macro & Rates",
-        "The Fed (FOMC)"
-      ],
-      "text": "Federal Reserve Chair Kevin Warsh said the Fed's dot plot is drawn in pencil and can be erased."
-    },
-    {
-      "id": "4941671",
-      "time": "2026-06-18 02:45:03",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲主席沃什： 政策制定者不會受點陣預測數值約束。"
-    },
-    {
-      "id": "4941670",
-      "time": "2026-06-18 02:44:47",
-      "tags": [
-        "央行",
-        "焦點",
-        "國際"
-      ],
-      "text": "美聯儲主席沃什： 提到點陣圖的預測資料都是可修改提交的，留有很大調整空間。"
-    },
-    {
-      "id": "mkt:019ed6e6-1d23-7dd8-b060-1cf7d9f7593c",
-      "time": "2026-06-18 02:44:25",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)"
-      ],
-      "text": "Federal Reserve Chair Kevin Warsh: We have work to do."
-    },
-    {
-      "id": "4941669",
-      "time": "2026-06-18 02:44:18",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲主席沃什：被問及點陣圖的未來走向時，稱我們已成立專項工作組處理此事 。"
-    },
-    {
-      "id": "mkt:019ed6e5-f994-7dd8-b060-112f6b47b073",
-      "time": "2026-06-18 02:44:16",
-      "tags": [
-        "MKT News",
-        "Macro & Rates"
-      ],
-      "text": "Fed Chair Kevin Warsh said the Fed's policy stance is uneven across economic sectors."
-    },
-    {
-      "id": "4941668",
-      "time": "2026-06-18 02:44:02",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲主席沃什： 美聯儲政策對房地產市場已顯現收緊效果，但對金融市場尚未形成抑制作用。美聯儲政策對各經濟板塊的作用力度不均衡。"
-    },
-    {
-      "id": "mkt:019ed6e5-9ba3-7dd8-b060-0f70279d77e1",
-      "time": "2026-06-18 02:43:52",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "DXY",
-        "Impact bullish",
-        "US10Y",
-        "S&P500",
-        "Impact bearish"
-      ],
-      "text": "Fed chair Kevin Warsh said the Fed's policy is unevenly restrictive."
-    },
-    {
-      "id": "mkt:019ed6e5-5acc-7dd8-b060-049a47c6ffa1",
-      "time": "2026-06-18 02:43:35",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)"
-      ],
-      "text": "Fed chair Kevin Warsh said Fed policy appears restrictive for the housing market but not for financial markets."
-    },
-    {
-      "id": "mkt:019ed6e4-ab13-7dd8-b05f-fb15adecf4b5",
-      "time": "2026-06-18 02:42:50",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "DXY",
-        "US10Y",
-        "XAUUSD"
-      ],
-      "text": "Federal Reserve Chair Kevin Warsh said he cannot provide forward guidance on the Fed's next actions."
-    },
-    {
-      "id": "4941667",
-      "time": "2026-06-18 02:42:43",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲主席沃什：無法就後續政策操作給出任何前瞻性指引。有些人認為此時提供前瞻指引並不合適。"
-    },
-    {
-      "id": "mkt:019ed6e4-7495-7dd8-b05f-f657a4880030",
-      "time": "2026-06-18 02:42:36",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)"
-      ],
-      "text": "Fed Chair Kevin Warsh said some believe providing forward guidance at this time would be inappropriate."
-    },
-    {
-      "id": "mkt:019ed6e4-3e86-7dd8-b05f-ea4d4bdbaf59",
-      "time": "2026-06-18 02:42:22",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "DXY",
-        "Impact bullish",
-        "US10Y",
-        "Impact bearish",
-        "S&P500"
-      ],
-      "text": "Fed chair Kevin Warsh said the Fed has abandoned forward guidance."
-    },
-    {
-      "id": "4941666",
-      "time": "2026-06-18 02:42:02",
-      "tags": [
-        "央行",
-        "焦點",
-        "國際"
-      ],
-      "text": "美聯儲主席沃什：我們已取消前瞻性指引。"
-    },
-    {
-      "id": "mkt:019ed6e3-dfbb-7dd8-b05f-e38236db3402",
-      "time": "2026-06-18 02:41:58",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)"
-      ],
-      "text": "Fed chair Kevin Warsh said inf is primarily determined by monetary policy."
-    },
-    {
-      "id": "4941665",
-      "time": "2026-06-18 02:41:45",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "沃爾美聯儲主席沃什：通脹主要由貨幣政策決定。"
-    },
-    {
-      "id": "4941664",
-      "time": "2026-06-18 02:41:35",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲主席沃什： 美聯儲有決心、有能力實現 2% 的通脹目標。關於2%的通脹目標將不在通脹工作組的範圍內。通脹框架評估工作的重點應放在通脹的驅動因素上。"
-    },
-    {
-      "id": "mkt:019ed6e3-79f4-7dd8-b05f-dd33827ed93d",
-      "time": "2026-06-18 02:41:32",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "DXY",
-        "Impact bullish",
-        "US10Y",
-        "S&P500",
-        "Impact bearish"
-      ],
-      "text": "Fed chair Kevin Warsh said the Fed has the ability and determination to achieve its 2% inf target."
     }
   ]
 }
