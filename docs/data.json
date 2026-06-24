@@ -1,7 +1,43 @@
 {
-  "updated": "2026-06-25 01:06:44",
-  "count": 17238,
+  "updated": "2026-06-25 01:10:47",
+  "count": 17220,
   "items": [
+    {
+      "id": "mkt:019efa9c-8586-7dd8-b100-b1ca3bd38960",
+      "time": "2026-06-25 01:10:21",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Trump said Iran is making very large concessions."
+    },
+    {
+      "id": "mkt:019efa9c-19fa-7dd8-b100-a874c92b0760",
+      "time": "2026-06-25 01:09:54",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "RNO.PA"
+      ],
+      "text": "Renault's head of HR in France said the company plans to cut 800 positions in its French engineering division through voluntary departures; the division currently employs 5,500 staff."
+    },
+    {
+      "id": "4953232",
+      "time": "2026-06-25 01:08:59",
+      "tags": [
+        "其他",
+        "焦點"
+      ],
+      "text": "法國人力資源主管稱，雷諾計劃在法國工程部門的5500名員工中，開展800例自願裁員。"
+    },
+    {
+      "id": "4953231",
+      "time": "2026-06-25 01:07:36",
+      "tags": [
+        "國際"
+      ],
+      "text": "據白宮隨行記者團訊息，特朗普車隊已啟程前往國會大廈。"
+    },
     {
       "id": "4953230",
       "time": "2026-06-25 01:05:27",
@@ -157796,202 +157832,6 @@
         "US Economy"
       ],
       "text": "US officials said the US and its partners will devise a plan worth at least $300 billion."
-    },
-    {
-      "id": "mkt:019ed690-50b3-7dd8-b05b-91b56757aa56",
-      "time": "2026-06-18 01:10:42",
-      "tags": [
-        "MKT News",
-        "Important",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "U.S. official says Washington will lift all sanctions on Iran as planned."
-    },
-    {
-      "id": "4941560",
-      "time": "2026-06-18 01:10:37",
-      "tags": [
-        "其他"
-      ],
-      "text": "伊拉克南部石油產量現為150萬桶/日，高於此前的100萬桶/日。"
-    },
-    {
-      "id": "mkt:019ed68f-d754-7dd8-b05b-8fbc9385f6f4",
-      "time": "2026-06-18 01:10:11",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "A U.S. official said the Iran agreement would enable the U.S. to adjust its actions based on Iran's behavior."
-    },
-    {
-      "id": "mkt:019ed68f-ca6e-7dd8-b05b-86bfac50e97b",
-      "time": "2026-06-18 01:10:08",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "U.S. official says Iran agreement will immediately trigger sanctions relief."
-    },
-    {
-      "id": "4941559",
-      "time": "2026-06-18 01:09:39",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "美國高階官員：伊朗已同意，最低限度將透過稀釋丰度的方式銷燬其濃縮鈾儲備。"
-    },
-    {
-      "id": "4941558",
-      "time": "2026-06-18 01:09:30",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國高階官員：已商定步驟的推進次序將是與伊朗即將舉行談判的重要議題。"
-    },
-    {
-      "id": "mkt:019ed68f-342c-7dd8-b05b-7eaa1bb0bd42",
-      "time": "2026-06-18 01:09:29",
-      "tags": [
-        "MKT News",
-        "Important",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "A US official said Iran has begun lifting its blockade and may publish the text of a memorandum of understanding tonight. The official said the memorandum text has not changed since Sunday."
-    },
-    {
-      "id": "4941557",
-      "time": "2026-06-18 01:09:25",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國高階官員：核問題解決後，我們將討論代理人武裝的資助問題。"
-    },
-    {
-      "id": "4941556",
-      "time": "2026-06-18 01:09:17",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國高階官員：我們將採取若干措施建立信任，看看能否促成協議達成。"
-    },
-    {
-      "id": "4941555",
-      "time": "2026-06-18 01:09:13",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國高階官員：內塔尼亞胡尚未向我方索要諒解備忘錄文字。"
-    },
-    {
-      "id": "4941554",
-      "time": "2026-06-18 01:09:09",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國高階官員：若無法達成協議，特朗普不懼動用其可用工具。"
-    },
-    {
-      "id": "4941553",
-      "time": "2026-06-18 01:09:05",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國高階官員：一直與以色列保持非常密切的溝通。"
-    },
-    {
-      "id": "4941552",
-      "time": "2026-06-18 01:09:00",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國高階官員：諒解備忘錄已簽署，但在達成具有約束力的協議之前，任何一方都可退出交易。"
-    },
-    {
-      "id": "4941551",
-      "time": "2026-06-18 01:08:52",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國高階官員：我們觀察到伊朗在簽署停火協議前，已採取行動切斷霍爾木茲海峽的通航。"
-    },
-    {
-      "id": "4941550",
-      "time": "2026-06-18 01:08:49",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國高階官員：伊朗稱將銷燬濃縮鈾庫存，目前正就具體銷燬方案進行說明。"
-    },
-    {
-      "id": "4941549",
-      "time": "2026-06-18 01:08:45",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "美國高階官員：若達成最終協議且伊朗方面行為合規，我們將同意解除制裁。"
-    },
-    {
-      "id": "mkt:019ed68e-1d85-7dd8-b05b-7522c711c4f1",
-      "time": "2026-06-18 01:08:18",
-      "tags": [
-        "MKT News",
-        "Important",
-        "WTI",
-        "Impact bearish",
-        "DXY",
-        "S&P500",
-        "Impact bullish"
-      ],
-      "text": "US President Trump said he may remain to attend the signing ceremony for an Iran agreement."
-    },
-    {
-      "id": "4941548",
-      "time": "2026-06-18 01:08:15",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：或留在（歐洲）出席伊朗協議簽署儀式。"
-    },
-    {
-      "id": "4941547",
-      "time": "2026-06-18 01:07:54",
-      "tags": [
-        "國際"
-      ],
-      "text": "以色列國防軍稱，真主黨向在黎巴嫩南部執行任務的以軍部隊發射火箭彈。部分彈藥被攔截，其餘落在部隊附近，暫無人員受傷報告。"
-    },
-    {
-      "id": "4941546",
-      "time": "2026-06-18 01:07:38",
-      "tags": [
-        "國際"
-      ],
-      "text": "以色列本土前線司令部表示，經形勢評估後，現行防空防護指引維持不變，有效期至2026年6月20日（週六）21時。"
-    },
-    {
-      "id": "4941545",
-      "time": "2026-06-18 01:07:19",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "美國國務院宣告：已批准向奧地利出售UH-60M“黑鷹”直升機的潛在軍售專案，預估金額為15億美元。"
-    },
-    {
-      "id": "4941544",
-      "time": "2026-06-18 01:07:14",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場資訊：特朗普誤以為巴西逮捕了正在參選總統的弗拉維奧·博索納羅，但實際上遭到起訴的是他並未參選公職的兄弟。"
     }
   ]
 }
