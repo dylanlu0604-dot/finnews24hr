@@ -1,7 +1,116 @@
 {
-  "updated": "2026-06-24 13:24:20",
-  "count": 17370,
+  "updated": "2026-06-24 13:28:27",
+  "count": 17379,
   "items": [
+    {
+      "id": "te:economy:561374",
+      "time": "2026-06-24 13:27:42",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Finland",
+        "Producer Prices Change",
+        "Importance 1"
+      ],
+      "text": "Finland Producer Prices Rise in May — Producer prices in Finland advanced by 7.4% year-on-year in May 2026 from 4.6% in the previous month. Costs increased in manufactured products (6.4% vs 4.7% in April), particularly in beverages (4.9% vs 0.4%), wearing apparel (4% vs 2.6%), chemical and chemical products (4.9% vs 0.9%), and rubber and plastic products (5.3% vs 1.1%), while prices rebounded in textiles (1.0% vs. -0.6%) and basic pharmaceutical products (3.4% vs. -4.2%). In addition, inflation accelerated in mining and quarrying (11.9% vs. 9.3%), electricity, gas, steam and air-conditioning supply (17.9% vs. 1.0%), and water supply, sewerage, waste management, and remediation services (10.1% vs. 6.6%). On a monthly basis, producer prices increased 1.3% in May, following a 1.2% rise in the previous month."
+    },
+    {
+      "id": "mkt:019ef819-13f9-7dd8-b0ec-b8c9a1470366",
+      "time": "2026-06-24 13:27:33",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "China A-share OLED-themed names spiked intraday; Xinxiangwei, Pengcheng New Materials and Yake Technology were among several stocks that hit the daily limit. Jingce Electronics jumped more than 18% and Toread gained over 13%."
+    },
+    {
+      "id": "4951808",
+      "time": "2026-06-24 13:27:31",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "科創50日內漲幅達4.03%，成分股中，中科飛測漲10.80%，格科微漲10.14%，中芯國際漲10.01%，華虹宏力漲9.90%。"
+    },
+    {
+      "id": "4951807",
+      "time": "2026-06-24 13:26:42",
+      "tags": [
+        "國際"
+      ],
+      "text": "阿斯麥與TNO合作擴大歐洲光子晶片製造規模。"
+    },
+    {
+      "id": "mkt:019ef816-b978-7dd8-b0ec-b3a3f1faa319",
+      "time": "2026-06-24 13:24:59",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Tencent",
+        "00700.HK",
+        "Impact bullish"
+      ],
+      "text": "Hong Kong-listed Tencent Holdings (00700.HK) is up more than 3% in intraday trade."
+    },
+    {
+      "id": "mkt:019ef816-7fc8-7dd8-b0ec-a90eb0e258c6",
+      "time": "2026-06-24 13:24:44",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "Chip Wars",
+        "00981.HK",
+        "Impact bullish",
+        "01347.HK",
+        "03986.HK"
+      ],
+      "text": "Hong Kong semiconductor stocks extended gains: Huahong Hongli (01347.HK) rose over 18%, Semiconductor Manufacturing International Corp (SMIC) (00981.HK) climbed over 10%, GigaDevice (03986.HK) gained more than 6%, and Lanqi Technology (06809.HK) and Hongguang Semiconductor (06908.HK) each advanced over 5%."
+    },
+    {
+      "id": "4951806",
+      "time": "2026-06-24 13:24:36",
+      "tags": [
+        "市場"
+      ],
+      "text": "BCA RESEARCH將標普500指數2026年底目標位從7,700點上調至8,100點。"
+    },
+    {
+      "id": "mkt:019ef816-472f-7dd8-b0ec-a5da3689b83d",
+      "time": "2026-06-24 13:24:29",
+      "tags": [
+        "MKT News",
+        "S&P500",
+        "Impact bullish"
+      ],
+      "text": "BCA Research raised its year-end 2026 S&P 500 target to 8,100 from 7,700."
+    },
+    {
+      "id": "4951805",
+      "time": "2026-06-24 13:24:25",
+      "tags": [
+        "其他"
+      ],
+      "text": "港股晶片股持續活躍，華虹宏力(01347.HK)漲超18%，中芯國際(00981.HK)漲超10%，兆易創新(03986.HK)漲超6%，瀾起科技(06809.HK)、宏光半導體(06908.HK)漲超5%。"
+    },
+    {
+      "id": "4951804",
+      "time": "2026-06-24 13:24:00",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "北證50日內漲幅達1.00%，成分股中，戈碧迦漲15.55%，民士達漲3.97%，同惠電子漲3.83%，納科諾爾漲3.80%。"
+    },
+    {
+      "id": "4951803",
+      "time": "2026-06-24 13:23:52",
+      "tags": [
+        "其他"
+      ],
+      "text": "桑坦德銀行計劃向西班牙員工推出提前退休方案。"
+    },
     {
       "id": "4951802",
       "time": "2026-06-24 13:23:30",
@@ -159040,22 +159149,6 @@
         "Nasdaq100"
       ],
       "text": "S&P 500 futures rose 0.3%; Nasdaq futures rose 0.6%."
-    },
-    {
-      "id": "4940012",
-      "time": "2026-06-17 13:27:08",
-      "tags": [
-        "市場"
-      ],
-      "text": "WTI原油日內跌1%，現報74.51美元/桶。"
-    },
-    {
-      "id": "4940011",
-      "time": "2026-06-17 13:26:16",
-      "tags": [
-        "其他"
-      ],
-      "text": "瑞銀將馬士基的目標股價從14600丹麥克朗上調至15500丹麥克朗。"
     }
   ]
 }
