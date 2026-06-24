@@ -1,7 +1,90 @@
 {
-  "updated": "2026-06-24 17:56:19",
-  "count": 17263,
+  "updated": "2026-06-24 18:01:27",
+  "count": 17255,
   "items": [
+    {
+      "id": "4952447",
+      "time": "2026-06-24 17:59:16",
+      "tags": [
+        "觀點"
+      ],
+      "text": "香港交易所資訊顯示，摩根大通（JPMorgan）在中興通訊H股的持股比例於6月19日從7.05%降至6.82%。"
+    },
+    {
+      "id": "mkt:019ef911-958c-7dd8-b0f4-a943990827b6",
+      "time": "2026-06-24 17:58:59",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "【MOFCOM assistant minister Zhang Li meets Saudi International Power and Water chairman to discuss expanded investment, new-energy and desalination cooperation】On June 23, MOFCOM assistant minister Zhang Li met with Saudi International Power and Water Co. chairman Abunayyan to discuss expanding contracted engineering projects and two-way investment. Zhang encouraged Saudi firms to leverage opportunities under China’s 15th Five-Year Plan to increase investment and called for deeper collaboration in new energy, power and seawater desalination. Abunayyan said the company will strengthen ties with Chinese firms and pursue additional projects and bilateral investments to advance trade ties."
+    },
+    {
+      "id": "mkt:019ef911-556c-7dd8-b0f4-a1fa073d8f7c",
+      "time": "2026-06-24 17:58:43",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【MOFCOM: Whistleblower reporting to monitor export-control breaches is internationally common practice】MOFCOM spokesperson, answering questions on improving handling of reports of export-control violations involving strategic minerals and dual-use items, said strengthening report-handling and enforcement capability is a basic requirement of China’s export-control system and a measure to safeguard national security and interests. The ministry said using reporting to monitor export-control violations is common internationally and that drawing on other countries’ practices to improve China’s reporting system can help prevent controlled items being diverted to illicit uses."
+    },
+    {
+      "id": "mkt:019ef910-b827-7dd8-b0f4-9c1949aa8b9b",
+      "time": "2026-06-24 17:58:02",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Two sources said a Moscow refinery will be offline for at least six months for repairs after sustaining damage in a recent Ukrainian drone attack."
+    },
+    {
+      "id": "4952446",
+      "time": "2026-06-24 17:57:17",
+      "tags": [
+        "國際"
+      ],
+      "text": "兩名訊息人士稱，莫斯科煉油廠在近期烏克蘭無人機襲擊中受損後，將停產至少六個月以進行維修。"
+    },
+    {
+      "id": "4952445",
+      "time": "2026-06-24 17:57:09",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【韓國推遲單隻股票周度期權計劃】韓國推遲了原定於6月29日推出的單隻股票周度期權計劃，該計劃涵蓋SK海力士和三星電子等股票。此舉再次表明，在股市劇烈波動之後，監管機構對市場感到擔憂。韓國交易所一位代表稱，“尚未做出任何決定”。此前，韓國金融監管機構對上個月推出單隻股票槓桿ETF表示遺憾，並警告其負面副作用已經加劇。"
+    },
+    {
+      "id": "4952444",
+      "time": "2026-06-24 17:56:43",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【商務部部長助理張力會見沙特國際電力和水務公司董事長阿布納揚】6月23日，商務部部長助理張力在京會見沙特國際電力和水務公司董事長阿布納揚。雙方重點就加強承包工程、雙向投資合作進行交流。張力表示，近年來兩國全面戰略伙伴關係深入發展，中沙經貿合作取得豐碩成果。中方歡迎沙特國際電力和水務公司等沙方企業充分利用中國“十五五”時期的廣闊機遇，持續擴大對華投資。中方讚賞沙特國際電力和水務公司與中國企業間的良好夥伴關係，希望雙方繼續深化新能源、電力、海水淡化等領域合作。阿布納揚讚賞中國經濟取得的巨大成就和為全球發展作出的積極貢獻，表示沙特國際電力和水務公司將持續加強與中國企業合作，共同實施更多工程、雙向投資領域專案，促進雙邊經貿關係發展。（商務部）"
+    },
+    {
+      "id": "mkt:019ef90f-706d-7dd8-b0f4-95aee302428b",
+      "time": "2026-06-24 17:56:39",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【South Korea delays single-stock weekly options plan】South Korea has delayed a planned June 29 launch of single-stock weekly options that would have covered names including SK Hynix and Samsung Electronics. The move signals regulatory caution after recent market volatility. A Korea Exchange spokesperson said \"no decision has been made yet.\" Earlier, South Korea’s financial regulator voiced regret over last month’s introduction of single-stock leveraged ETFs and warned their negative side-effects have intensified."
+    },
+    {
+      "id": "4952443",
+      "time": "2026-06-24 17:56:27",
+      "tags": [
+        "市場"
+      ],
+      "text": "鈀金期貨日內跌2%，現報1219.00美元/盎司。"
+    },
     {
       "id": "4952442",
       "time": "2026-06-24 17:55:39",
@@ -157772,148 +157855,6 @@
         "國際"
       ],
       "text": "印度盧比<INR=IN>收盤變動微乎其微，報1美元兌94.5250盧比；前收盤價為94.56。"
-    },
-    {
-      "id": "4940706",
-      "time": "2026-06-17 18:01:14",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "泰國證交所綜合指數收盤微幅波動，報 1587.07 點。"
-    },
-    {
-      "id": "4940705",
-      "time": "2026-06-17 18:00:55",
-      "tags": [
-        "公司"
-      ],
-      "text": "Ouster與AIM智慧機器公司宣佈達成戰略協議，將數字鐳射雷達用於搭載人工智慧的重型土方工程裝置，該合作是在推出自帶原生色彩功能的Rev8產品之後達成的。"
-    },
-    {
-      "id": "4940704",
-      "time": "2026-06-17 18:00:41",
-      "tags": [
-        "國際"
-      ],
-      "text": "印度 Nifty 50 指數 (.NSEI) 收漲 0.39%。"
-    },
-    {
-      "id": "mkt:019ed506-6c7a-7dd8-b04b-cef9ce612ac2",
-      "time": "2026-06-17 18:00:28",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "The Trump Trade"
-      ],
-      "text": "【Trump arrives nearly an hour late to G7 leaders' session, jokes 'I'm the boss'】U.S. President Trump arrived nearly an hour late to a morning leaders' session at the G7 summit in Evian-les-Bains. French President Macron had already opened the meeting and U.S. Treasury Secretary Bessent was seated in the chair marked for Trump. On entering, Trump walked to the table and said I am the boss. He then addressed the media, asking do you want to stay and sit in on the meeting? I have no objection, after which French hosts quickly asked journalists to leave the room."
-    },
-    {
-      "id": "4940703",
-      "time": "2026-06-17 18:00:23",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "【王毅：中國願同各國一道重振聯合國壯大聯合國】中共中央政治局委員、外交部長王毅6月17日在國新辦新聞釋出會上表示，作為第一個在聯合國憲章上簽字的國家，中國責無旁貸，願透過全球治理倡議維護聯合國權威，同各國一道重振聯合國、壯大聯合國。（新華社）"
-    },
-    {
-      "id": "4940702",
-      "time": "2026-06-17 18:00:00",
-      "tags": [
-        "公司"
-      ],
-      "text": "【沃格光電：公司在泛半導體領域的業務尚處於早期階段】沃格光電釋出異動公告，公司關注到近期市場對玻璃基在半導體領域應用的關注度較高。目前，公司在泛半導體領域的業務尚處於早期階段，相關產品技術仍處於研發驗證或送樣驗證階段，尚未形成規模化工業量產，營收規模佔比極低，且相關經營主體目前仍處於虧損狀態。該業務的產業化程序、未來訂單規模及經營效益存在較大不確定性，敬請廣大投資者注意相關風險。"
-    },
-    {
-      "id": "4940701",
-      "time": "2026-06-17 17:59:55",
-      "tags": [
-        "國際"
-      ],
-      "text": "烏克蘭武裝部隊總參謀部：與羅馬尼亞武裝部隊總參謀長通了電話。討論了黑海地區當前的安保形勢。"
-    },
-    {
-      "id": "4940700",
-      "time": "2026-06-17 17:59:19",
-      "tags": [
-        "其他"
-      ],
-      "text": "【上海碳普惠體系已覆蓋約90%出行場景】上海碳普惠體系正在向數智化、市場化的新模式轉變。 “目前為止，在氣象風險防控領域，上海已搭建起了從監測預警到評估分析，再到行動反饋與最佳化提升的完整工作閉環。這一過程中，上海也落地了兩項具有特色的創新實踐，即智慧技術賦能氣象監測與海綿城市建設。” 在今日（17日）舉辦的全國低碳日上海市主場活動中，上海市環境科學研究院環境政策與低碳發展所所長鬍靜對包括第一財經在內的多家媒體作如上介紹。 胡靜舉例稱，在智慧技術賦能氣象監測方面，氣象監測模型依託AI大資料，預警可能到來的高溫，這使得2025年上海因高溫誘發疾病的病例顯著下降。再如，在海綿城市建設方面，位於虹口區的和平公園透過雨水回收再利用的方案來減少原生水資源消耗，海綿城市協同建設同步收穫了生態、經濟、社會等多重綜合效益。 （第一財經）"
-    },
-    {
-      "id": "4940699",
-      "time": "2026-06-17 17:59:16",
-      "tags": [
-        "公司"
-      ],
-      "text": "【匯成股份：與關聯方共同投資設立合資公司 擬持股57.14%】匯成股份公告，公司擬與百瑞發、香港匯微共同出資設立合肥晶瑞旺科技有限公司，註冊資本7億元，其中公司持股57.14%，投資金額為4億元。合資公司設立後將收購香港匯微持有的上海鄭隆芯創微電子有限公司100%股權，交易對價為0元。本次交易構成關聯交易，尚需提交公司股東會審議批准。"
-    },
-    {
-      "id": "4940698",
-      "time": "2026-06-17 17:59:06",
-      "tags": [
-        "公司"
-      ],
-      "text": "【上海鳳凰：完成回購3.88%公司股份】上海鳳凰公告，截至2026年6月11日，公司透過上海證券交易所交易系統以集中競價交易方式累計回購公司股份2000萬股，佔公司總股本5.15億股的比例為3.88%，回購成交的最高價為0.442美元/股，最低價為0.384美元/股，支付的資金總額為815.71萬美元（不含印花稅、交易佣金等交易費用），公司本次股份回購方案實施完畢。"
-    },
-    {
-      "id": "4940697",
-      "time": "2026-06-17 17:58:40",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【廣匯能源：在中東局勢緩和的背景下 市場對煤炭、油氣及相關化工品供應預期的短期情緒發生了較大變化】廣匯能源公告，釋出異動公告，經自查，公司目前生產經營活動一切正常，內部經營管理有序推進，行業政策不存在重大調整；但在中東地區地緣局勢緩和的背景下，市場對公司主營產品相關的煤炭、油氣及相關化工品供應預期的短期情緒發生了較大變化。"
-    },
-    {
-      "id": "4940696",
-      "time": "2026-06-17 17:58:10",
-      "tags": [
-        "其他"
-      ],
-      "text": "中央氣象臺6月17日18時繼續釋出暴雨橙色預警。"
-    },
-    {
-      "id": "mkt:019ed504-10e6-7dd8-b04b-c2ae4908e6dc",
-      "time": "2026-06-17 17:57:53",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Lijian-1 Yao-15 launch vehicle rolls off production line, sets delivery record】June 17 — The Lijian-1 Yao-15 launch vehicle completed final assembly and testing at the Zhongke Yuhang industrialization base, passed factory acceptance and is scheduled to perform a one‑rocket, five‑satellite launch from the Dongfeng commercial space innovation test area in the near term. The roll‑out sets a model delivery record and follows the Lijian‑1 Yao‑14's one‑rocket, eight‑satellite mission completion on June 15 by two days, marking a rapid handover between mission completion and new-vehicle delivery. The manufacturer says Lijian‑1 now operates at a high cadence of monthly rollouts and monthly launches and is capable of bulk storage, rolling backup and rapid launch."
-    },
-    {
-      "id": "4940695",
-      "time": "2026-06-17 17:57:49",
-      "tags": [
-        "其他"
-      ],
-      "text": "【重新整理型號交付紀錄 力箭一號遙十五運載火箭順利出廠】6月17日，力箭一號遙十五運載火箭在中科宇航產業化基地如期完成總裝測試工作，順利透過出廠評審，擬於近期在東風商業航天創新試驗區執行“一箭5星”發射任務。力箭一號遙十五運載火箭順利完成出廠，再度重新整理型號交付紀錄。距離6月15日力箭一號遙十四運載火箭“一箭8星”發射任務圓滿收官僅間隔兩日，實現發射任務收官與新箭出廠高效接續。當前力箭一號已實現“月月火箭出廠、月月實施發射”的高密度運營節奏，全面印證該型號已具備批次儲存、滾動備份、快速發射的成熟運營能力。（中科宇航）"
-    },
-    {
-      "id": "4940694",
-      "time": "2026-06-17 17:57:20",
-      "tags": [
-        "公司"
-      ],
-      "text": "【潞安環能：子公司姚家山煤礦專案獲國家能源局核准】潞安環能公告，子公司山西潞安元豐礦業有限公司收到國家能源局下發的《國家能源局關於山西離柳礦區姚家山煤礦專案核准的批覆》，同意建設離柳礦區姚家山煤礦專案。姚家山煤礦專案建設規模為300萬噸/年，配套建設相同規模的選煤廠。專案投資資金來源包括潞安元豐企業自有資金及銀行貸款。專案建成後，將新增300萬噸/年的煤炭產能。"
-    },
-    {
-      "id": "4940693",
-      "time": "2026-06-17 17:57:16",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【外交部副部長苗得雨談全球治理“南北失衡”問題】外交部副部長苗得雨6月17日在國新辦新聞釋出會上表示，在國際事務中，聽取南方聲音、擴大南方存在、維護南方國家權益，是構建更加公正合理全球治理體系的應有之義。中方將繼續同廣大發展中國家緊密團結合作，在邁向現代化的道路上攜手同行，在推進全球治理體系變革的程序中同心致遠。 當日，中國政府釋出《構建更加公正合理的全球治理體系：中國的理念、倡議與行動》白皮書。有記者問：全球南方對世界經濟增長貢獻率已達80%，但在全球治理中卻長期被邊緣化。應如何推進解決全球治理格局中的“南北失衡”問題？ 苗得雨說，對全球治理的“南北失衡”問題，各方應切實予以重視。中方認為，全球南方群體性崛起不可阻擋，少數國家壟斷國際事務的時代已一去不返，長期存在的歷史不公理應得到糾正。在國際事務中，聽取南方聲音、擴大南方存在、維護南方國家權益，是構建更加公正合理全球治理體系的應有之義。 苗得雨說，為了實現這個目標，要支援全球南方聯合自強，建好用好金磚國家、上海合作組織、“77國集團和中國”等重要合作平臺，做大做強新開發銀行、亞洲基礎設施投資銀行等新興金融機構，為世界和平與發展事業注入強大的南方動力。 他表示，要優先增加南方國家在國際事務中的權重，堅持安理會改革要增加發展中國家代表性和發言權這個正確方向。要加快世界銀行股權審議，儘早實現有意義的國際貨幣基金組織份額佔比調整。要爭取更多聯合國機構和國際組織總部在發展中國家落戶，爭取更多來自發展中國家的優秀人才擔任國際組織負責人。 苗得雨說，我們還要推動南北對話，加強宏觀經濟政策協調，推動發達國家在彌合發展鴻溝、應對氣候變化等全球性問題上認真履行歷史責任和應盡義務，營造開放包容的國際環境。 “作為全球南方的天然成員，中國始終心繫全球南方、紮根全球南方，始終秉持真實親誠理念助力南方國家發展，在國際事務中為發展中國家仗義執言。”苗得雨說，“我們將繼續同廣大發展中國家緊密團結合作，在邁向現代化的道路上攜手同行，在推進全球治理體系變革的程序中同心致遠。”（新華社）"
-    },
-    {
-      "id": "4940692",
-      "time": "2026-06-17 17:56:47",
-      "tags": [
-        "公司"
-      ],
-      "text": "【陽光100中國：清盤呈請聆訊延期至2026年10月16日】陽光100中國公告，公司此前已披露針對公司的清盤呈請。2026年5月29日，高等法院根據呈請人及公司於2026年5月27日提交的同意傳票，下令取消原定於2026年6月22日舉行的聆訊，實質聆訊已定於2026年10月16日舉行。"
     }
   ]
 }
