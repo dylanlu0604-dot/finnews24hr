@@ -1,7 +1,96 @@
 {
-  "updated": "2026-06-24 10:13:38",
-  "count": 17395,
+  "updated": "2026-06-24 10:17:43",
+  "count": 17393,
   "items": [
+    {
+      "id": "4951533",
+      "time": "2026-06-24 10:16:54",
+      "tags": [
+        "其他"
+      ],
+      "text": "【港股智譜漲幅擴大至13%，總市值重回1萬億港元】港股大模型概念股智譜漲幅擴大至13%，總市值重回1萬億港元。"
+    },
+    {
+      "id": "4951532",
+      "time": "2026-06-24 10:16:25",
+      "tags": [
+        "其他"
+      ],
+      "text": "軟銀孫正義：說人工智慧處於泡沫之中是對人工智慧的侮辱。"
+    },
+    {
+      "id": "mkt:019ef769-dcf4-7dd8-b0e8-d9563cf7bdaa",
+      "time": "2026-06-24 10:16:10",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "【South Korea says some vessels leaving Strait of Hormuz】South Korea’s Ministry of Oceans and Fisheries said some Korean vessels trapped in the Strait of Hormuz have begun departing but declined to disclose details, citing crew safety, shipowners’ requests and the high-risk nature of the waters. The strait has been blocked since late February after the outbreak of the Middle East war; 26 Korean ships were trapped. Following a US-Iran peace agreement earlier this month two Korean vessels have already left; the ministry did not say how many are leaving now, so the number still in the strait is unknown."
+    },
+    {
+      "id": "mkt:019ef769-1165-7dd8-b0e8-d32d6d73d8dd",
+      "time": "2026-06-24 10:15:18",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "005930.KS",
+        "Impact bullish",
+        "000660.KS"
+      ],
+      "text": "【South Korean presidential office: Samsung and SK Hynix chip-cluster plan in final stage】South Korea presidential office policy chief Kim Yong-beom said on June 24 that Samsung Electronics and SK Hynix’s plan to build a new semiconductor cluster has entered final discussions and will be publicly announced once finalized. He said AI-driven chip demand has led to a substantial acceleration of construction at the existing Yongin cluster. SK Hynix plans four fabs in Yongin and is discussing moving completion of the fourth fab forward from 2044 to 2034."
+    },
+    {
+      "id": "te:markets:561322",
+      "time": "2026-06-24 10:15:03",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "Asia FX Updates: Indian Rupee Increases by 0.27% — Top currency gainer is Indian Rupee (0.27%). Biggest loser is South Korean Won (-0.24%). Meanwhile, Japanese Yen and Chinese Yuan were little changed."
+    },
+    {
+      "id": "te:markets:561321",
+      "time": "2026-06-24 10:14:47",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "New Zealand",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "New Zealand Dollar Holds at Multi-Month Lows — The New Zealand dollar held around $0.566, hovering at its lowest level since November 2025, as the sustained strength of the US dollar continued to weigh on the currency. The kiwi has been particularly affected by the US Federal Reserve's hawkish stance, which has further boosted the greenback. Investor risk appetite has also weakened amid a reversal in sentiment toward semiconductor and AI-related stocks, contributing to broader market declines. Meanwhile, the Reserve Bank of New Zealand is widely expected to raise interest rates by 25 basis points at its July meeting, with the OCR projected to reach 3.35% by the end of next year."
+    },
+    {
+      "id": "4951531",
+      "time": "2026-06-24 10:14:30",
+      "tags": [
+        "其他"
+      ],
+      "text": "軟銀孫正義：目標實現淨資產價值1,000萬億日元。"
+    },
+    {
+      "id": "4951530",
+      "time": "2026-06-24 10:14:24",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "南向資金淨買入額達20億港元。"
+    },
+    {
+      "id": "4951529",
+      "time": "2026-06-24 10:14:07",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "科創50日內漲幅達2.06%，成分股中，格科微漲8.96%，華虹宏力漲8.87%，生益電子漲7.96%，艾力斯漲8.01%。"
+    },
     {
       "id": "mkt:019ef767-0664-7dd8-b0e8-cdc54f1e86f8",
       "time": "2026-06-24 10:13:04",
@@ -159254,111 +159343,6 @@
         "市場"
       ],
       "text": "中證5G通訊指數早盤漲1.8%，創歷史新高。"
-    },
-    {
-      "id": "mkt:019ed35e-54f8-7dd8-b03e-35bbcd6f5850",
-      "time": "2026-06-17 10:17:15",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC",
-        "USDJPY",
-        "Impact bearish"
-      ],
-      "text": "【Goldman Sachs: Bank of Japan likely to hike in January 2027】Goldman Sachs economist Akira Otani said the Bank of Japan is likely to raise rates again in January 2027, but the timing remains highly uncertain. With underlying inflation near 2%, even a small move — for example further modest yen depreciation — could materially raise the risk that inflation exceeds 2%, skewing the probability distribution toward an earlier hike. Otani added the actual timing will be significantly affected by the progress of communication between the BOJ and the government."
-    },
-    {
-      "id": "4939681",
-      "time": "2026-06-17 10:17:10",
-      "tags": [
-        "其他"
-      ],
-      "text": "【截至5月31日 海南“零關稅”政策進口貨值達26.45億元】在海南自由貿易港封關半年新聞釋出會上，中共海南省委深改辦（自貿港工委辦）副主任、新聞發言人王奉利表示，封關半年以來，政策紅利加速釋放。進口貨物“零關稅”、加工增值免關稅、禁限清單等封關核心政策全面實施，享惠主體快速擴容，實際業務保持穩定增長。封關以來截至2026年5月31日，“零關稅”政策進口貨值26.45億元、同比增長1.2倍，減免稅款4.4億元、增長74.1%；加工增值免關稅政策內銷貨值5.8億元，減免關稅3024.6萬元，保稅上下游加工增值累計享惠、島內自產貨物納入增值部分等最佳化政策全面落地。禁限清單項下“兩頭在外”保稅維修、取消進口許可證管理業務完成17票，貨值701.2萬元。離島免稅政策繼續最佳化，離島免稅銷售金額203.4億元，增長20.5%。"
-    },
-    {
-      "id": "4939680",
-      "time": "2026-06-17 10:16:44",
-      "tags": [
-        "其他"
-      ],
-      "text": "【電子特氣概念震盪回升 中巨芯漲超10%續創歷史新高】電子特氣概念日內震盪回升，中巨芯漲超10%，續創歷史新高，廣鋼氣體、雅克科技、正帆科技、矽烷科技、昊華科技、中船特氣衝高。"
-    },
-    {
-      "id": "mkt:019ed35d-9a0f-7dd8-b03e-2d7f27fc6b28",
-      "time": "2026-06-17 10:16:27",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "CSI300",
-        "Impact bullish",
-        "SSE Composite"
-      ],
-      "text": "China CSI 500 index futures (IC) front-month contract rose 1.00% intraday to 8,563.0."
-    },
-    {
-      "id": "te:economy:559541",
-      "time": "2026-06-17 10:16:22",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "United States",
-        "Government Bond 10Y",
-        "Importance 1"
-      ],
-      "text": "US 10Y Yield Steadies Ahead of Fed Decision — The yield on the US 10-year Treasury note hovered around 4.43% on Wednesday as investors awaited the Federal Reserve’s latest policy decision, where it is widely expected to leave interest rates unchanged. The meeting will also be the first chaired by Kevin Warsh, although he is not expected to submit a \"dot\" to the FOMC’s quarterly projections that outline individual officials’ expectations for the future path of interest rates. Investors will also focus on upcoming US retail sales and pending home sales data for additional signals on the strength of the economy. Meanwhile, markets continued to monitor the anticipated US-Iran peace agreement, scheduled to be signed on Friday, which is expected to reopen the Strait of Hormuz and help restore oil flows from the Middle East."
-    },
-    {
-      "id": "4939679",
-      "time": "2026-06-17 10:15:56",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "【丁向群：支援新型金融業務在上海先行先試，最佳化促進高水平開放的監管政策】6月17日，國家金融監督管理總局局長丁向群在2026陸家嘴論壇上表示，金融監管總局將立足職能定位，持續強化監管賦能，助力上海打造國際一流的金融營商環境，健全審慎包容的監管機制，加快完善離岸金融監管制度，積極推進養老金融、科技金融等領域試點，支援新型金融業務在上海先行先試，最佳化促進高水平開放的監管政策，聯合出臺加快上海國際再保險中心建設若干舉措，大力推進國際航運保險合作，指導釋出航貿金融資料標準，助力上海打造制度型開放高地，夯實風險防控的監管基礎，設立金監工程數字監管上海研發基地，支援完善金融風險監測預警系統，提升金融業整體安全水平，助推上海國際金融中心建設再上新臺階。"
-    },
-    {
-      "id": "mkt:019ed35c-b473-7dd8-b03e-27475950a237",
-      "time": "2026-06-17 10:15:28",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "cenc reported a magnitude-4.1 earthquake at 10:06 a.m. Beijing time on June 17 in Haixi Prefecture, Qinghai (37.85°N, 95.55°E); focal depth 10 km."
-    },
-    {
-      "id": "te:markets:559540",
-      "time": "2026-06-17 10:15:19",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Currency",
-        "Importance 1"
-      ],
-      "text": "Asia FX Updates: Indian Rupee Increases by 0.41% — Top currency gainers are Indian Rupee (0.41%) and Japanese Yen (0.06%). Biggest loser is South Korean Won (-0.23%). Meanwhile Chinese Yuan was little changed."
-    },
-    {
-      "id": "4939678",
-      "time": "2026-06-17 10:14:50",
-      "tags": [
-        "其他"
-      ],
-      "text": "中國地震臺網正式測定：06月17日10時06分在青海海西州直轄區（北緯37.85度，東經95.55度）發生4.1級地震，震源深度10千米。"
-    },
-    {
-      "id": "4939677",
-      "time": "2026-06-17 10:14:13",
-      "tags": [
-        "其他"
-      ],
-      "text": "泛大西洋投資據悉洽談領投快手旗下可靈AI首輪融資。據知情人士透露，可靈AI計劃以180億美元的投資後估值，籌集超過20億美元資金。"
-    },
-    {
-      "id": "4939676",
-      "time": "2026-06-17 10:13:51",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【光纖概念反覆活躍 通鼎互聯逼近漲停】光纖概念反覆活躍，通鼎互聯逼近漲停，此前杭電股份3連板，永鼎股份、中天科技、烽火通訊跟漲。"
     }
   ]
 }
