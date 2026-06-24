@@ -1,7 +1,42 @@
 {
-  "updated": "2026-06-25 00:46:24",
-  "count": 17247,
+  "updated": "2026-06-25 00:50:32",
+  "count": 17248,
   "items": [
+    {
+      "id": "4953214",
+      "time": "2026-06-25 00:49:42",
+      "tags": [
+        "國際"
+      ],
+      "text": "昨日於華盛頓舉行的以黎首輪談判首日結束，未取得任何進展，某種程度上雙方立場甚至出現倒退。一名訊息人士透露，雙方談判過程中部分階段氣氛十分“糟糕”。以色列方面承認雙方存在分歧，但聲稱會談整體氛圍“融洽”。"
+    },
+    {
+      "id": "mkt:019efa89-50d8-7dd8-b100-342d8c656ccb",
+      "time": "2026-06-25 00:49:23",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "U.S. Energy Secretary wright said the Strait of Hormuz will take several weeks to return to normal."
+    },
+    {
+      "id": "mkt:019efa89-317d-7dd8-b100-2b7604e97ff0",
+      "time": "2026-06-25 00:49:15",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "According to the AP, a federal judge barred President Trump from enforcing a requirement that voters present proof of citizenship when voting."
+    },
+    {
+      "id": "4953213",
+      "time": "2026-06-25 00:48:50",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國國務卿魯比奧：我們希望黎巴嫩武裝部隊以及擁有合法主權的黎巴嫩政府能夠持續掌控並保衛該國越來越多的領土。"
+    },
     {
       "id": "mkt:019efa85-a1e6-7dd8-b100-24581e9acd98",
       "time": "2026-06-25 00:45:22",
@@ -158007,31 +158042,6 @@
         "Importance 2"
       ],
       "text": "US Stocks Maintain Slight Increase — US stock indices remained mostly higher on Wednesday ahead of the Federal Reserve's likely rate hold. The S&P 500 hovered around the flatline, although the Dow extended its record past 52,150 and the Nasdaq 100 added 0.3% after chip producers pared their losses. The Fed is due to holds rate but should unveil hints on its outlook with a fresh SEP, and Chairman Warsh could unveil timelines on framework changes he previously called for. Meanwhile, Iran and the US remained on track to sign their agreement by Friday, which will restore the export of energy from all countries in the Persian Gulf and remove sanctions on Iran, softening concerns of energy-drive inflation. Chip producers rebounded to extend their recent surges, with Broadcom, Micron, and Applied Materials adding between 4% and 7%. Also, Intel added 4% as its new chip reached risk production. In the other hand, AI hyperscalers maintained their underperformance, with Meta, Microsoft, Amazon, and Alphabet dropping over 2%."
-    },
-    {
-      "id": "4941520",
-      "time": "2026-06-18 00:49:46",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：我們的儲備在大約四周內就會用完。"
-    },
-    {
-      "id": "4941519",
-      "time": "2026-06-18 00:47:16",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【意總理呼籲歐盟派特使就烏克蘭危機與俄方接觸】義大利總理梅洛尼17日呼籲歐盟選派一名特使就烏克蘭危機與俄羅斯接觸。梅洛尼當天在法國埃維昂萊班七國集團峰會後新聞釋出會上說，特使人選不應來自歐盟最大的幾個成員國。她表示，找到一個代表歐盟的聲音至關重要，與俄方接觸時歐洲內部外交渠道太多會造成混亂。（新華社）"
-    },
-    {
-      "id": "4941518",
-      "time": "2026-06-18 00:46:39",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：倘若我們不歸還伊朗的資金，今後再也無人願意以美元開展投資。"
     }
   ]
 }
