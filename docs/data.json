@@ -1,7 +1,197 @@
 {
-  "updated": "2026-06-24 09:27:38",
-  "count": 17392,
+  "updated": "2026-06-24 09:31:45",
+  "count": 17390,
   "items": [
+    {
+      "id": "mkt:019ef740-a9ae-7dd8-b0e7-6119e2331079",
+      "time": "2026-06-24 09:31:10",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "China's ChiNext Index led gains, turning positive; Shanghai Composite's decline narrowed to 0.11%."
+    },
+    {
+      "id": "4951455",
+      "time": "2026-06-24 09:31:04",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "40年期日本國債收益率上升1個基點，至3.770%。"
+    },
+    {
+      "id": "mkt:019ef740-8f61-7dd8-b0e7-5ea9083a7da7",
+      "time": "2026-06-24 09:31:03",
+      "tags": [
+        "MKT News",
+        "AUDUSD",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "Australia May non-seasonally adjusted CPI MoM -0.7% (est. -0.4%), prior +0.4%."
+    },
+    {
+      "id": "mkt:019ef740-73d0-7dd8-b0e7-53a4ecdd660a",
+      "time": "2026-06-24 09:30:56",
+      "tags": [
+        "MKT News",
+        "Important",
+        "DXY",
+        "Impact bullish",
+        "WTI",
+        "Impact bearish",
+        "Copper"
+      ],
+      "text": "Australia May unadjusted CPI YoY 4.0%, versus 4.3% consensus and prior 4.2%."
+    },
+    {
+      "id": "4951454",
+      "time": "2026-06-24 09:30:55",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【鋰電池電解液概念盤初活躍 孚日股份一字漲停】早盤鋰電池電解液概念活躍，孚日股份一字漲停，海科新源、華盛鋰電、海辰藥業、永太科技、奧克股份漲幅靠前。"
+    },
+    {
+      "id": "mkt:019ef740-635e-7dd8-b0e7-4b101e748671",
+      "time": "2026-06-24 09:30:52",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "CSI300",
+        "Impact bearish"
+      ],
+      "text": "A-share storage-chip sector pulled back in early trade; Yuanlin Co. hit the daily down limit, Huate Gas fell over 6%, and Jinhong Gas, Guanggang Gas and Shengmei Shanghai also declined."
+    },
+    {
+      "id": "4951453",
+      "time": "2026-06-24 09:30:36",
+      "tags": [
+        "資料"
+      ],
+      "text": "澳大利亞5月消費者價格指數(CPI)環比下降0.7%。"
+    },
+    {
+      "id": "4951452",
+      "time": "2026-06-24 09:30:32",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "恒生科技指數漲超1%，現報4445.790點；恒生指數現漲0.574%。"
+    },
+    {
+      "id": "4951451",
+      "time": "2026-06-24 09:30:29",
+      "tags": [
+        "資料",
+        "市場"
+      ],
+      "text": "澳大利亞5月整體消費者價格指數(CPI)同比上漲4%。"
+    },
+    {
+      "id": "4951450",
+      "time": "2026-06-24 09:30:24",
+      "tags": [
+        "資料"
+      ],
+      "text": "澳大利亞5月澳洲儲備銀行加權中位數CPI同比上升3.6%。"
+    },
+    {
+      "id": "mkt:019ef73f-b8ad-7dd8-b0e7-47ffe29cfb56",
+      "time": "2026-06-24 09:30:08",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Emerging Markets"
+      ],
+      "text": "Indonesia Financial Services Authority (OJK) said that while it has received positive recognition, global index reviews are not the ultimate goal; OJK will continue to strengthen and accelerate implementation of its reform agenda."
+    },
+    {
+      "id": "4951449",
+      "time": "2026-06-24 09:30:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "【國債期貨開盤】 30年期主力合約漲0.04%， 10年期主力合約漲0.04%， 5年期主力合約漲0.02%， 2年期主力合約跌0.01%。"
+    },
+    {
+      "id": "4951448",
+      "time": "2026-06-24 09:30:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "【股指期貨早盤開盤】 中證1000指數期貨連續漲0.38%， 滬深300指數期貨連續漲0.42%， 中證500指數期貨連續漲0.41%， 上證50指數期貨連續漲0.21%。"
+    },
+    {
+      "id": "mkt:019ef73f-5764-7dd8-b0e7-3ac3f004dadb",
+      "time": "2026-06-24 09:29:43",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Emerging Markets"
+      ],
+      "text": "Indonesia's Financial Services Authority (OJK) said it and market operators will deepen engagement with global index providers and investors."
+    },
+    {
+      "id": "4951447",
+      "time": "2026-06-24 09:29:30",
+      "tags": [
+        "公司"
+      ],
+      "text": "【惠威科技新設子公司 含多項AI業務】企查查APP顯示，近日，深圳惠威智慧有限公司成立，經營範圍包含：人工智慧應用軟體開發；人工智慧基礎軟體開發；軟體開發；人工智慧通用應用系統等。企查查股權穿透顯示，該公司由惠威科技(002888)全資持股。"
+    },
+    {
+      "id": "mkt:019ef73f-1f11-7dd8-b0e7-37b08c869472",
+      "time": "2026-06-24 09:29:29",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "China A-share lab-grown diamond sector weakened, with Huifeng Diamond down nearly 8% and Liliang Diamond off 5%; Sifangda, Boyun New Materials, Huanghe Whirlwind and Zhongbing Hongjian also fell."
+    },
+    {
+      "id": "mkt:019ef73f-0565-7dd8-b0e7-2b3575073506",
+      "time": "2026-06-24 09:29:22",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Indonesia Financial Services Authority (OJK) said MSCI's review results provide impetus to accelerate capital market reforms."
+    },
+    {
+      "id": "mkt:019ef73e-dbbe-7dd8-b0e7-26c15a85e14e",
+      "time": "2026-06-24 09:29:12",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Emerging Markets"
+      ],
+      "text": "Indonesia Financial Services Authority welcomes MSCI's decision to retain Indonesia's emerging-market classification."
+    },
+    {
+      "id": "4951446",
+      "time": "2026-06-24 09:27:27",
+      "tags": [
+        "市場"
+      ],
+      "text": "【新股N臻寶高開超900%】新股N臻寶高開超900%，根據招股書，臻寶科技專注於積體電路及顯示面板刻蝕、薄膜沉積和蒸鍍裝置真空腔內零部件及零部件表面處理服務等。"
+    },
+    {
+      "id": "mkt:019ef73d-385b-7dd8-b0e7-18f4830c4106",
+      "time": "2026-06-24 09:27:24",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "SSE Composite",
+        "Impact bearish",
+        "SZSE Component",
+        "CSI300"
+      ],
+      "text": "At the open on Wednesday, June 24, China's Shanghai Composite Index fell 16.15 pts (-0.39%) to 4,090.10; Shenzhen Composite Index fell 71.80 pts (-0.45%) to 15,782.40; CSI 300 Index fell 19.00 pts (-0.39%) to 4,900.38; ChiNext Index fell 10.29 pts (-0.25%) to 4,181.91; STAR 50 Index fell 19.87 pts (-1.04%) to 1,896.34."
+    },
     {
       "id": "4951443",
       "time": "2026-06-24 09:25:52",
@@ -159115,206 +159305,6 @@
         "市場"
       ],
       "text": "【印製電路板板塊直線拉昇，一博科技漲超10%】印製電路板板塊直線拉昇，一博科技漲超10%，寶鼎科技、滿坤科技、深南電路、中京電子、超聲電子等跟漲。"
-    },
-    {
-      "id": "mkt:019ed334-a91f-7dd8-b03d-1df192916420",
-      "time": "2026-06-17 09:31:44",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "A-share organosilicon sector pulled back in early trade; Jin Sanjiang down more than 10.5%, Heyuan Gas and Sanfu New Materials off over 5%, Xin'an, Dongyue Silicones and Huangma Technology also declined."
-    },
-    {
-      "id": "4939592",
-      "time": "2026-06-17 09:31:41",
-      "tags": [
-        "公司",
-        "市場",
-        "焦點"
-      ],
-      "text": "【玻璃基板概念再度走強 旗濱集團3連板】早盤玻璃基板概念再度走強，旗濱集團3連板，長信科技漲超10%，力諾藥包、美迪凱、沃格光電、帝爾鐳射漲幅靠前。"
-    },
-    {
-      "id": "4939591",
-      "time": "2026-06-17 09:31:29",
-      "tags": [
-        "公司"
-      ],
-      "text": "【中國人民銀行：將招標發行2026年第六期中央銀行票據 發行量人民幣400億元】中國人民銀行公告，2026年6月22日（週一）中國人民銀行將透過香港金融管理局債務工具中央結算系統（CMU）債券投標平臺，招標發行2026年第六期中央銀行票據。第六期中央銀行票據期限6個月（182天），為固定利率附息債券，到期還本付息，發行量為人民幣400億元，起息日為2026年6月24日，到期日為2026年12月23日，到期日遇節假日順延。"
-    },
-    {
-      "id": "mkt:019ed334-4818-7dd8-b03d-1742adffefb2",
-      "time": "2026-06-17 09:31:19",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "【China government bond futures open】China government bond futures opened: 2-year (TS) most-active contract unchanged, 5-year (TF) up 0.01%, 10-year (T) up 0.02%, 30-year (TL) up 0.11%."
-    },
-    {
-      "id": "mkt:019ed334-3a66-7dd8-b03d-09100218de21",
-      "time": "2026-06-17 09:31:15",
-      "tags": [
-        "MKT News",
-        "CSI300",
-        "Impact bearish"
-      ],
-      "text": "【Index futures morning open】CSI 300 index futures (IF) most-active contract down 0.10%; SSE 50 index futures (IH) down 0.02%; CSI 500 index futures (IC) down 0.11%; CSI 1000 index futures (IM) down 0.18% at the morning open."
-    },
-    {
-      "id": "mkt:019ed334-192f-7dd8-b03d-028dc0a8bb18",
-      "time": "2026-06-17 09:31:07",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC"
-      ],
-      "text": "Japan 10-year government bond yield fell 3 bps to 2.615%."
-    },
-    {
-      "id": "mkt:019ed333-f2ed-7dd8-b03c-fafbbbcca05f",
-      "time": "2026-06-17 09:30:57",
-      "tags": [
-        "MKT News",
-        "Important",
-        "000660.KS",
-        "Impact bullish"
-      ],
-      "text": "SK Hynix extends gains, shares hit a fresh record high."
-    },
-    {
-      "id": "4939590",
-      "time": "2026-06-17 09:30:34",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "日本10年期國債收益率下跌3.0個基點，至2.615%。"
-    },
-    {
-      "id": "4939589",
-      "time": "2026-06-17 09:30:29",
-      "tags": [
-        "市場"
-      ],
-      "text": "中證轉債指數開盤下跌0.02%。本川轉債、歐通轉債、精測轉2、鶴21轉債、電化轉債跌幅居前，分別跌2.80%、2.29%、2.14%、1.87%、1.80%。通合轉債、冠中轉債、聞泰轉債、山玻轉債、三房轉債漲幅居前，分別漲30.00%、6.17%、4.02%、2.90%、2.13%。"
-    },
-    {
-      "id": "4939588",
-      "time": "2026-06-17 09:30:24",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【PCB概念港股低開 建滔積層板跌5%】截至發稿，建滔積層板(01888.HK)跌5%報81.5港元，建滔集團(00148.HK)跌近2%，廣合科技(01989.HK)跌近1%。"
-    },
-    {
-      "id": "mkt:019ed333-3448-7dd8-b03c-f2fcd0689ee1",
-      "time": "2026-06-17 09:30:08",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Former U.S. Vice President Pence said a U.S.-Iran agreement clearly amounted to appeasement."
-    },
-    {
-      "id": "4939587",
-      "time": "2026-06-17 09:30:03",
-      "tags": [
-        "市場"
-      ],
-      "text": "【股指期貨早盤開盤】 中證1000指數期貨連續跌0.33%， 滬深300指數期貨連續跌0.26%， 中證500指數期貨連續跌0.29%， 上證50指數期貨連續跌0.03%。"
-    },
-    {
-      "id": "4939586",
-      "time": "2026-06-17 09:30:03",
-      "tags": [
-        "市場"
-      ],
-      "text": "【國債期貨開盤】 30年期主力合約漲0.06%， 10年期主力合約漲0.01%， 5年期主力合約漲0.02%， 2年期主力合約漲0.01%。"
-    },
-    {
-      "id": "4939585",
-      "time": "2026-06-17 09:30:03",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "科創50日內跌幅達1.66%，成分股中，滬矽產業跌3.38%，天嶽先進跌2.63%，華海清科跌2.57%，拓荊科技跌2.41%。"
-    },
-    {
-      "id": "4939584",
-      "time": "2026-06-17 09:29:51",
-      "tags": [
-        "其他"
-      ],
-      "text": "【廣東跨境電商十年規模增長55倍】6月16日，中國（廣州）跨境電商交易會啟動儀式在廣州舉辦，超過50家跨境電商平臺企業、全國近40個產業帶、200多家跨境電商服務商和1000多家供應鏈企業參加；展覽規模、展商、展位分別增長24.6%、8.7%和15.7%；參展電商平臺首次突破50家，增長21.4%。廣東省商務廳副廳長姚林指出，廣東省跨境電商進出口規模從2015年的113億元躍升至2025年的6230億元，10年擴大55倍、年均增長49.3%，在全國佔比超過1/3，規模穩居全國第一。"
-    },
-    {
-      "id": "4939583",
-      "time": "2026-06-17 09:29:39",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【簽署35.57億元算力服務合同 高樂股份開盤一字漲停】6月17日，高樂股份開盤一字漲停，訊息面上，高樂股份6月16日公告，公司全資子公司哈爾濱智浩科技有限公司與客戶簽署《服務採購協議》，由公司按照客戶要求提供算力服務，合同總金額為35.57億元（含稅）。"
-    },
-    {
-      "id": "4939582",
-      "time": "2026-06-17 09:29:15",
-      "tags": [
-        "公司"
-      ],
-      "text": "【愛旭股份中標京能庫布齊沙漠基地一期專案】據愛旭股份訊息，近日，愛旭股份成功中標庫布齊沙漠基地京能準旗光伏專案（一期），獨家供應全部240MW N型BC光伏元件。"
-    },
-    {
-      "id": "mkt:019ed332-4647-7dd8-b03c-e8c5a78c183b",
-      "time": "2026-06-17 09:29:07",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC",
-        "Nikkei 225",
-        "Impact bullish"
-      ],
-      "text": "Japan's Nikkei 225 extended gains to 0.5%, trading at 69,752.22 points."
-    },
-    {
-      "id": "4939581",
-      "time": "2026-06-17 09:29:04",
-      "tags": [
-        "公司",
-        "觀點"
-      ],
-      "text": "【高盛下調MiniMax目標價】高盛將MiniMax目標價從從1000港元下調至860港元，因其更激進的降價策略導致基礎文字模型API（應用程式程式設計介面）毛利率預期受損，進而擴大了對公司的淨虧損預測。"
-    },
-    {
-      "id": "4939580",
-      "time": "2026-06-17 09:28:48",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【深交所：“通合轉債”盤中臨時停牌】深交所公告，“通合轉債”（123271）盤中成交價較發行價首次上漲達到或超過30%，自今日09時30分00秒起對該債券實施臨時停牌，於14時57分00秒復牌。"
-    },
-    {
-      "id": "4939579",
-      "time": "2026-06-17 09:28:41",
-      "tags": [
-        "市場"
-      ],
-      "text": "日經225指數上漲0.5%，報69752.22點。"
-    },
-    {
-      "id": "4939578",
-      "time": "2026-06-17 09:28:24",
-      "tags": [
-        "市場",
-        "觀點",
-        "原創"
-      ],
-      "text": "【摩根大通將MSCI新興市場指數年底目標位上調27%】摩根大通將新興市場股票的年底目標位上調27%，稱霍爾木茲海峽的重新開放有助於新興市場交易回暖，同時科技板塊仍將是市場主線。該行將MSCI新興市場指數2026年底目標位從1575點上調至2000點，意味著較週二收盤水平約有13%的上漲空間。摩根大通策略師預計，油價走低將利好石油進口國，並預計2026年布倫特原油均價為每桶96美元，2027年將降至每桶75美元。"
     }
   ]
 }
