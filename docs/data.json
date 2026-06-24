@@ -1,7 +1,31 @@
 {
-  "updated": "2026-06-25 03:26:59",
-  "count": 16987,
+  "updated": "2026-06-25 03:30:52",
+  "count": 16972,
   "items": [
+    {
+      "id": "mkt:019efb1c-4ec2-7dd8-b103-518d42a0a5c9",
+      "time": "2026-06-25 03:29:56",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【U.S. pilot reports Iranian drones operating in coordinated 'jellyfish' formation】CNN, citing four people familiar with the account, reported the U.S. F-15 pilot whose jet was shot down over Iran in April recalled that, before ejecting, he observed multiple Iranian drones circling in a coordinated 'jellyfish' formation. The sighting has prompted intense debate within U.S. intelligence and remains unresolved; if the pilot did see a coordinated swarm, it would represent a significant advance in Iranian drone capability. The pilot described the drones as appearing interconnected and moving as a single unit, with smaller drones positioned under larger ones 'like legs,' and likened the configuration to 'alien' technology."
+    },
+    {
+      "id": "4953393",
+      "time": "2026-06-25 03:29:27",
+      "tags": [
+        "其他"
+      ],
+      "text": "高通：未來十年機器人行業將擁有一萬億美元市場機遇。"
+    },
+    {
+      "id": "4953392",
+      "time": "2026-06-25 03:26:51",
+      "tags": [
+        "其他"
+      ],
+      "text": "【西班牙遭遇今夏首輪熱浪，6月單日平均氣溫創新高】西班牙國家氣象局24日表示，在今年首輪熱浪襲擊下，該國已連續兩天創下有記錄以來6月單日平均氣溫新高，近日多地最高氣溫超過40攝氏度。本輪熱浪自21日開始影響西班牙大部分地區，預計將持續至24日晚間。多個地區釋出最高階別高溫預警。初步資料顯示，22日和23日，西班牙全國平均氣溫較往年同期正常水平高出7.1攝氏度，達到有記錄以來6月單日平均氣溫新高，超過此前2025年6月30日創下的記錄。與此同時，與高溫相關的就診病例明顯增加。（新華社）"
+    },
     {
       "id": "mkt:019efb14-c4a6-7dd8-b103-4b9e7d2f9f23",
       "time": "2026-06-25 03:21:42",
@@ -155055,173 +155079,6 @@
         "Impact bearish"
       ],
       "text": "EUR/USD is down 1.00% intraday at 1.1492."
-    },
-    {
-      "id": "mkt:019ed710-5518-7dd8-b063-a47940cfa0aa",
-      "time": "2026-06-18 03:30:32",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Precious Metals",
-        "XAUUSD",
-        "Impact bearish"
-      ],
-      "text": "Spot gold plunged $100 intraday to $4,230.52/oz, down 2.32%."
-    },
-    {
-      "id": "4941803",
-      "time": "2026-06-18 03:30:30",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "紐約期金失守4240美元/盎司，日內跌2.63%。"
-    },
-    {
-      "id": "4941802",
-      "time": "2026-06-18 03:30:18",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "【沃什：希望市場依據真實經濟狀況定價 而非追隨美聯儲解讀】美聯儲主席沃什週三表示，他希望金融市場能夠基於自身對經濟的判斷來定價證券，而不是試圖根據其對央行官員如何解讀資料的預期來進行定價。他表示：“市場越是關注真實經濟的變化，越能夠自行判斷哪些資料更重要、哪些相對不那麼重要，就越能形成自身認為最可能發生的定價。”他補充說，這樣可以避免出現一種情況，即“金融市場只是在不斷反映我們說過的話”。"
-    },
-    {
-      "id": "mkt:019ed710-1baa-7dd8-b063-9982c054051a",
-      "time": "2026-06-18 03:30:17",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Macro & Rates",
-        "The Fed (FOMC)"
-      ],
-      "text": "【Kevin Warsh urges markets to price on economic fundamentals, not Fed interpretations】Federal Reserve Chair Kevin Warsh said on Wednesday he wants markets to price securities based on their own read of the economy rather than on expectations of how Fed officials will interpret data. \"The more markets focus on real economic changes and can judge which data are more or less important, the more they will form pricing they consider most likely,\" he said, adding this would avoid a situation in which \"financial markets are merely echoing what we have said.\""
-    },
-    {
-      "id": "4941801",
-      "time": "2026-06-18 03:30:03",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "紐約期銀失守68美元/盎司，日內跌3.60%。"
-    },
-    {
-      "id": "4941800",
-      "time": "2026-06-18 03:29:35",
-      "tags": [
-        "國際"
-      ],
-      "text": "【特朗普稱美伊60天談判期並非硬性截止日期】美國總統特朗普表示，與伊朗協議中提及的60天期限並非硬性截止日期。特朗普在法國對記者表示：“我不認為這是硬性的，只要他們表現良好就行。”"
-    },
-    {
-      "id": "4941799",
-      "time": "2026-06-18 03:29:22",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "現貨黃金失守4230美元/盎司，日內跌2.36%。"
-    },
-    {
-      "id": "mkt:019ed70e-d437-7dd8-b063-97896ed58b46",
-      "time": "2026-06-18 03:28:53",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Iran's Islamic Republic News Agency reports the United States has pledged to grant Iran access to its frozen funds during implementation of a memorandum of understanding. The two sides will agree an asset-unfreezing mechanism during negotiations."
-    },
-    {
-      "id": "4941798",
-      "time": "2026-06-18 03:28:51",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "紐約期金失守4250美元/盎司，日內跌2.42%。"
-    },
-    {
-      "id": "4941797",
-      "time": "2026-06-18 03:28:39",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國眾議院委員會將於6月24日就精神航空破產後的航空業競爭問題舉行聽證會。"
-    },
-    {
-      "id": "4941796",
-      "time": "2026-06-18 03:28:21",
-      "tags": [
-        "央行",
-        "焦點",
-        "國際"
-      ],
-      "text": "美國利率市場定價顯示，美聯儲在10月會議前加息的機率為72%。"
-    },
-    {
-      "id": "4941795",
-      "time": "2026-06-18 03:28:17",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "美國國債價格跌幅進一步擴大；兩年期收益率上漲15個基點，報4.197%。"
-    },
-    {
-      "id": "mkt:019ed70e-2587-7dd8-b063-8d25dacb364d",
-      "time": "2026-06-18 03:28:08",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)"
-      ],
-      "text": "【Kevin Warsh declined to disclose whether he had communicated with Trump】Federal Reserve Chair Kevin Warsh declined to say whether he has communicated with President Trump since formally taking office last month, but confirmed meetings with Treasury Secretary Bessent. Warsh said Bessent posted a social-media photo of their breakfast and noted the long-standing practice of weekly meetings between the Fed chair and the treasury secretary; they have met three times so far. He added Bessent is overseas this week, so a meeting this week would be an exception."
-    },
-    {
-      "id": "4941793",
-      "time": "2026-06-18 03:28:06",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "美國10年期國債收益率上升5個基點，報4.481%。"
-    },
-    {
-      "id": "4941792",
-      "time": "2026-06-18 03:27:58",
-      "tags": [
-        "其他"
-      ],
-      "text": "KBW銀行指數轉負，抹去了高達1.6%的漲幅。"
-    },
-    {
-      "id": "4941791",
-      "time": "2026-06-18 03:27:53",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國發布與多明尼加共和國諒解備忘錄相關宣告。"
-    },
-    {
-      "id": "mkt:019ed70d-b26f-7dd8-b063-831a31123f48",
-      "time": "2026-06-18 03:27:39",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "IRNA reports the U.S. has pledged to issue waivers for Iranian crude, petrochemical and derivative exports and all related services from the memorandum's signing until sanctions are formally lifted."
-    },
-    {
-      "id": "4941790",
-      "time": "2026-06-18 03:27:11",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗伊斯蘭共和國通訊社就諒解備忘錄文字表示：伊朗與美國將在談判期間就一項解凍資產的機制達成一致。"
     }
   ]
 }
