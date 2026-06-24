@@ -1,7 +1,40 @@
 {
-  "updated": "2026-06-25 07:27:33",
-  "count": 16969,
+  "updated": "2026-06-25 07:31:34",
+  "count": 16964,
   "items": [
+    {
+      "id": "4953628",
+      "time": "2026-06-25 07:30:45",
+      "tags": [
+        "公司",
+        "觀點",
+        "央行",
+        "國際"
+      ],
+      "text": "【壓力測試過關 摩根大通、高盛等大型銀行提高股利並回購股份】美國幾家大型銀行在透過了今年的美聯儲壓力測試後提高了股息；近年來，隨著監管機構研擬新的要求，壓力測試已趨於寬鬆。美聯儲年度評估結果公佈後，美國最大貸款機構摩根大通將季度股利由每股1.50美元提高到1.65美元，高盛的股利從4.50美元上調至5美元。摩根大通也批准了一項新的500億美元股票回購計劃，自7月1日起生效。富國銀行的股利從45美分升至50美分，摩根士丹利也上調股利，從1美元升至1.15美元。這項源於2008年金融危機後建立的美聯儲壓力測試顯示，所有受檢銀行都能維持足夠資本，以承受假設中的經濟衰退衝擊。該項檢測通常決定銀行透過股利與股票回購向股東返還資本時，能採取多大程度的積極作為。測試要求銀行評估假設的危機情境，並根據其業務組合估算可能面臨的損失。"
+    },
+    {
+      "id": "te:markets:561655",
+      "time": "2026-06-25 07:30:31",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Brent Sinks to Pre-War Levels — Brent dropped toward $73 per barrel on Thursday, extending losses for a fourth consecutive session and wiping out all the gains made since the outbreak of the Middle East conflict, as progress in US-Iran peace efforts improved the supply outlook. Growing confidence in a lasting agreement has encouraged more tankers to transit the Strait of Hormuz with their tracking signals turned on. Supply has also increased across key segments of the market, with buyers facing a surge of crude offers from the Middle East and other exporting regions, including West Africa. In addition, a temporary US waiver permitting purchases of already-loaded Iranian oil is expected to further boost available supply. Reflecting the weaker market sentiment, Brent’s prompt spread, a closely watched indicator, shifted into bearish contango on Wednesday for the first time since the conflict began."
+    },
+    {
+      "id": "te:markets:561654",
+      "time": "2026-06-25 07:28:53",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 2"
+      ],
+      "text": "Oil Sinks Toward Pre-War Levels — Crude oil dropped below $70 per barrel on Thursday, extending losses for a fourth consecutive session and nearly wiping out all the gains made since the outbreak of the Middle East conflict, as progress in US-Iran peace efforts improved the supply outlook. Growing confidence in a lasting agreement has encouraged more tankers to transit the Strait of Hormuz with their tracking signals turned on. Supply has also increased across key segments of the market, with buyers facing a surge of crude offers from the Middle East and other exporting regions, including West Africa. In addition, a temporary US waiver permitting purchases of already-loaded Iranian oil is expected to further boost available supply. Reflecting the weaker market sentiment, Brent’s prompt spread, a closely watched indicator, shifted into bearish contango on Wednesday for the first time since the conflict began."
+    },
     {
       "id": "mkt:019efbf4-e7ca-7dd8-b106-6525eede8cd9",
       "time": "2026-06-25 07:26:31",
@@ -155001,74 +155034,6 @@
         "國際"
       ],
       "text": "美國國家颶風中心表示，隨著亞瑟中心進一步向內陸移動，預計其強度將減弱，並可能在今晚晚些時候或週四早些時候消散。"
-    },
-    {
-      "id": "4942006",
-      "time": "2026-06-18 07:31:21",
-      "tags": [
-        "其他"
-      ],
-      "text": "中國地震臺網正式測定：06月18日07時26分在青海海西州直轄區（北緯37.83度，東經95.53度）發生3.1級地震，震源深度10千米。"
-    },
-    {
-      "id": "4942005",
-      "time": "2026-06-18 07:31:13",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國國家颶風中心表示， 颶風“亞瑟”  的中心在德克薩斯州加爾維斯頓附近向東北方向重新形成，預計美國東南部部分地區將出現威脅生命的洪水。"
-    },
-    {
-      "id": "4942004",
-      "time": "2026-06-18 07:30:40",
-      "tags": [
-        "其他"
-      ],
-      "text": "SK海力士：向主要客戶交付12層堆疊新一代HBM4E晶片樣品。"
-    },
-    {
-      "id": "4942003",
-      "time": "2026-06-18 07:30:29",
-      "tags": [
-        "其他"
-      ],
-      "text": "SK 海力士已出貨 12 層新一代 HBM4E 儲存晶片樣品。"
-    },
-    {
-      "id": "mkt:019ed7eb-e4e4-7dd8-b066-302a0f75f432",
-      "time": "2026-06-18 07:30:21",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Ecuador president says willing to restore diplomatic ties with Mexico】Ecuador President Daniel Noboa told a Mexican TV station on the 17th he sees no reason to maintain the break in relations and is willing to restore diplomatic ties, noting historically good bilateral relations and Mexican investment in Ecuador. On April 5, 2024, Ecuadorian security forces entered Mexico’s embassy in Ecuador and arrested former vice president Glas, who had sought political asylum from Mexico; Mexico subsequently severed diplomatic relations."
-    },
-    {
-      "id": "4942002",
-      "time": "2026-06-18 07:28:39",
-      "tags": [
-        "市場"
-      ],
-      "text": "納斯達克100指數期貨漲幅擴大至1%。"
-    },
-    {
-      "id": "mkt:019ed7ea-52d5-7dd8-b066-28e592294342",
-      "time": "2026-06-18 07:28:38",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Nasdaq100",
-        "Impact bullish",
-        "S&P500"
-      ],
-      "text": "Nasdaq futures extended gains to 1% in early trade; S&P 500 futures rose 0.6%."
-    },
-    {
-      "id": "4942001",
-      "time": "2026-06-18 07:28:15",
-      "tags": [
-        "其他"
-      ],
-      "text": "【軟體“供應鏈投毒”來勢洶洶 國家安全部發布安全提醒】國家安全部今天釋出安全提示文章，國家網路安全通報中心監測發現，近期集中爆發多起供應鏈投毒攻擊事件，涉及開源軟體倉庫和商用工具兩大核心供應鏈場景。相關“供應鏈投毒”事件呈現攻擊隱蔽性強、影響範圍廣、危害程度高和傳播速度快的共性特徵，可造成憑據遭竊取、遠端程式碼執行和敏感資料洩露等嚴重危害。軟體供應鏈，是軟體從元件獲取、開發整合、版本分發，直至交付終端使用者使用的全流程鏈條。與直接針對終端的網路攻擊不同，“供應鏈投毒”是一種典型的“上游汙染、下游傳導”模式。攻擊者透過劫持開發者官方賬號、篡改開原始碼倉庫原始碼、汙染軟體安裝包與釋出版本等方式，將惡意程式植入各類軟體中。隨著軟體的釋出與更新，這些潛伏的“毒瘤”便被源源不斷地輸送至海量終端裝置。"
     }
   ]
 }
