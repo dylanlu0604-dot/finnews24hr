@@ -1,7 +1,148 @@
 {
-  "updated": "2026-06-24 20:23:51",
-  "count": 17301,
+  "updated": "2026-06-24 20:28:01",
+  "count": 17303,
   "items": [
+    {
+      "id": "mkt:019ef999-33a1-7dd8-b0f9-620e1aec17e0",
+      "time": "2026-06-24 20:27:07",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "New York gold futures dropped 3.00% intraday to $4,024.80/oz."
+    },
+    {
+      "id": "mkt:019ef998-61e2-7dd8-b0f9-5d98c15f00d2",
+      "time": "2026-06-24 20:26:13",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "Spot gold plunged $100.96 intraday to $4,008.72/oz, down 2.46%."
+    },
+    {
+      "id": "4952795",
+      "time": "2026-06-24 20:26:11",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金失守4010美元/盎司，日內跌2.48%。"
+    },
+    {
+      "id": "4952794",
+      "time": "2026-06-24 20:26:02",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨白銀失守59美元/盎司，日內跌4.28%。"
+    },
+    {
+      "id": "4952793",
+      "time": "2026-06-24 20:26:01",
+      "tags": [
+        "市場"
+      ],
+      "text": "紐約期銀日內跌5%，現報59.37美元/盎司。"
+    },
+    {
+      "id": "4952792",
+      "time": "2026-06-24 20:26:00",
+      "tags": [
+        "市場"
+      ],
+      "text": "紐約期金日內跌3%，現報4024.84美元/盎司。"
+    },
+    {
+      "id": "4952791",
+      "time": "2026-06-24 20:25:41",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金失守4030美元/盎司，日內跌2.88%。"
+    },
+    {
+      "id": "mkt:019ef997-993f-7dd8-b0f9-573d0ba42753",
+      "time": "2026-06-24 20:25:22",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals"
+      ],
+      "text": "Spot silver fell 4.00% intraday to $59.06/oz."
+    },
+    {
+      "id": "4952790",
+      "time": "2026-06-24 20:25:13",
+      "tags": [
+        "市場"
+      ],
+      "text": "現貨黃金日內跌2%，現報4015.49美元/盎司。"
+    },
+    {
+      "id": "4952789",
+      "time": "2026-06-24 20:25:13",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金失守4020美元/盎司，日內跌2.30%。"
+    },
+    {
+      "id": "4952788",
+      "time": "2026-06-24 20:25:13",
+      "tags": [
+        "市場"
+      ],
+      "text": "現貨白銀日內跌4%，現報59.05美元/盎司。"
+    },
+    {
+      "id": "te:markets:561526",
+      "time": "2026-06-24 20:25:04",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "commodity",
+        "Importance 0"
+      ],
+      "text": "Gold Hits 31-week Low — Gold decreased to 4016.00 USD/t.oz, the lowest since November 2025. Over the past 4 weeks, Gold lost 11.74%, and in the last 12 months, it increased 21%."
+    },
+    {
+      "id": "4952787",
+      "time": "2026-06-24 20:25:03",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金失守4040美元/盎司，日內跌2.70%。"
+    },
+    {
+      "id": "4952786",
+      "time": "2026-06-24 20:24:42",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金失守4050美元/盎司，日內跌2.40%。"
+    },
+    {
+      "id": "4952785",
+      "time": "2026-06-24 20:24:35",
+      "tags": [
+        "其他"
+      ],
+      "text": "KRAKEN：SPACEX XSTOCKS代幣化股權SPCXX現已支援現貨保證金交易。"
+    },
     {
       "id": "mkt:019ef995-ac39-7dd8-b0f9-494d420fd7aa",
       "time": "2026-06-24 20:23:16",
@@ -158152,131 +158293,6 @@
         "其他"
       ],
       "text": "烏茲別克中央銀行維持基準利率在14%不變。"
-    },
-    {
-      "id": "mkt:019ed58d-7542-7dd8-b04f-9fa8d1f9fcbd",
-      "time": "2026-06-17 20:27:58",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution",
-        "Macro & Rates",
-        "US Economy",
-        "S&P500",
-        "Impact bullish",
-        "Nasdaq100",
-        "WTI",
-        "Impact bearish"
-      ],
-      "text": "【JPMorgan Asset Management: AI investment surge and resilient consumer spending to sustain expansion】JPMorgan Asset Management says an AI investment surge and resilient consumer spending will sustain economic expansion. Firms' ramp-up of AI infrastructure spending is boosting momentum, while rising stock and house prices are creating a wealth effect that supports high‑income consumption. Chief global strategist David Kelly said the economy should strengthen by mid‑year, with income‑tax refunds and AI‑related spending as key near‑term growth drivers. Continued growth into Q4 hinges on further Washington fiscal stimulus; JPMorgan's baseline assumes Democrats retake the House, which it says would reduce the probability of new fiscal stimulus in 2027. Assuming tensions in the Strait of Hormuz ease, Kelly expects inflationary pressures to moderate through the rest of 2026 and into 2027 as energy costs fall, housing inflation cools and wage growth moderates. The team does not forecast a recession."
-    },
-    {
-      "id": "4941029",
-      "time": "2026-06-17 20:27:36",
-      "tags": [
-        "國際"
-      ],
-      "text": "黎巴嫩總統奧恩：與以色列的談判和伊朗協議“相互獨立”。"
-    },
-    {
-      "id": "mkt:019ed58c-c159-7dd8-b04f-9591c21548c4",
-      "time": "2026-06-17 20:27:11",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Lebanese President AOUN said negotiations with Israel and the Iran agreement are independent of each other."
-    },
-    {
-      "id": "4941027",
-      "time": "2026-06-17 20:26:25",
-      "tags": [
-        "公司"
-      ],
-      "text": "斯泰蘭蒂斯執行長：義大利高昂的能源成本削弱了集團競爭力，今年一季度當地能源成本是西班牙、法國兩地的兩倍多。"
-    },
-    {
-      "id": "mkt:019ed58b-f5ba-7dd8-b04f-8e577368d2fd",
-      "time": "2026-06-17 20:26:19",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Amazon founder Jeff Bezos said if space travel becomes sufficiently reliable and low-cost and raw materials can be sourced from asteroids, near-Earth objects and the Moon, pollution-generating industrial activity could be relocated off Earth."
-    },
-    {
-      "id": "mkt:019ed58b-e772-7dd8-b04f-8291a972b1a3",
-      "time": "2026-06-17 20:26:16",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "Hang Seng Index",
-        "Impact bullish"
-      ],
-      "text": "【Fang Xinghai urges Hong Kong regulators to attract mainland quant firms】At the Lujiazui Forum plenary on June 17, Fang Xinghai, former CSRC vice‑chair and vice‑president of the Chinese Finance Society, said a number of mainland quantitative investment firms have matured and are keen to expand operations in Hong Kong. He urged Hong Kong financial authorities to actively recruit these firms and said coordinated arrangements among Hong Kong, Shanghai and Shenzhen would help draw more international capital into both Hong Kong and the mainland."
-    },
-    {
-      "id": "4941026",
-      "time": "2026-06-17 20:26:15",
-      "tags": [
-        "其他"
-      ],
-      "text": "【方星海：建議香港金融管理部門吸引內地量化機構在香港展業】2026陸家嘴論壇全體大會四“滬港金融協同發展賦能高水平金融開放”6月17日晚間舉行。中國證券監督管理委員會原副主席、中國金融學會副會長方星海表示，內地有一批成長得很好、管理能力很強的量化投資機構，許多機構非常願意在香港更多地開展業務。這些機構值得香港金融管理部門著力去吸引。香港、上海、深圳可以聯合運作，這對吸引更多國際資金投資香港、投資內地都會起到很好的作用。"
-    },
-    {
-      "id": "4941025",
-      "time": "2026-06-17 20:25:30",
-      "tags": [
-        "公司",
-        "觀點",
-        "國際"
-      ],
-      "text": "【摩根士丹利高浩灃：中國AI生態蘊含數萬億美元增量機遇】6月17日，摩根士丹利亞洲執行長兼股票部全球聯席主管高浩灃（GokulLaroia）在陸家嘴論壇上表示，全球投資者對中國市場的興趣正變得越來越濃厚。中國是除美國外，唯一擁有獨立且全面AI生態系統的市場，且該生態正在不斷演進。從半導體本地化，到資料中心和雲服務提供商，到大語言模型，再到應用——包括數字化應用和物理應用，即人形機器人領域——都在發展。高浩灃透露，在中國與許多公司交流時發現，有數百家公司參與這一AI生態系統的創新和建設，每一家都有潛力創造巨大價值。他估算，整個生態系統有潛力創造三萬億至四萬億美元的增量市值。（e公司）"
-    },
-    {
-      "id": "mkt:019ed58b-2e8b-7dd8-b04f-7cdbf2452c07",
-      "time": "2026-06-17 20:25:28",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution",
-        "CSI300",
-        "Impact bullish",
-        "Hang Seng Index",
-        "CNH"
-      ],
-      "text": "【MORGAN STANLEY's Gokul Laroia says China AI ecosystem could add $30–40 trillion】June 17, Lujiazui Forum — MORGAN STANLEY Asia CEO and global co-head of equities Gokul Laroia said global investor interest in China is strengthening. He called China, after the US, the only market with an independent, end-to-end AI ecosystem, evolving from semiconductor localization to data centers and cloud providers, large language models and downstream applications including digital services and humanoid robots. He said hundreds of companies are already participating and estimated the ecosystem could generate an incremental $30–40 trillion in market value."
-    },
-    {
-      "id": "4941024",
-      "time": "2026-06-17 20:25:17",
-      "tags": [
-        "公司"
-      ],
-      "text": "【*ST天山：公司股票將於6月22日起撤銷退市風險警示及其他風險警示】*ST天山公告，公司股票將於2026年6月18日停牌一天，並於6月22日復牌。自6月22日起，公司股票將撤銷退市風險警示及其他風險警示，股票簡稱由“*ST天山”變更為“天山生物”，股票程式碼“300313”保持不變，日漲跌幅限制仍為20%。"
-    },
-    {
-      "id": "4941023",
-      "time": "2026-06-17 20:24:50",
-      "tags": [
-        "公司"
-      ],
-      "text": "【遼寧省與華潤集團舉行工作會商並簽署戰略合作框架協議】遼寧日報訊息，6月17日，遼寧省與華潤（集團）有限公司在瀋陽舉行工作會商並簽署戰略合作框架協議。根據戰略合作框架協議，雙方將推動資源共享、產業互融，開展深層次戰略合作，建立銜接落實等工作機制，專案化、清單化推進合作事項，實現更高水平互利共贏。"
-    },
-    {
-      "id": "4941022",
-      "time": "2026-06-17 20:24:16",
-      "tags": [
-        "公司"
-      ],
-      "text": "【愛麗家居：職工代表董事兼副總經理離任 選舉宋毅為新董事】愛麗家居公告稱，職工代表董事兼副總經理丁盛因個人原因，於6月16日辭去相關職務，辭職後不再擔任公司及控股子公司任何職務。丁盛直接持有公司股票297,500.00股，間接持股476,610.00股。6月17日，公司召開職工代表大會，選舉宋毅為第三屆董事會職工代表董事，任期至第三屆董事會任期屆滿。宋毅直接持股198,800股，間接持股1,000股。"
-    },
-    {
-      "id": "4941021",
-      "time": "2026-06-17 20:24:03",
-      "tags": [
-        "公司"
-      ],
-      "text": "斯泰蘭蒂斯(STLA.N)CEO：2026年頭5個月，義大利工廠產量增長了16%。義大利卡西諾（Cassino）工廠的未來規劃將與瑪莎拉蒂的計劃掛鉤。計劃在五年內向義大利的研發與創新領域投資50億歐元。"
     }
   ]
 }
