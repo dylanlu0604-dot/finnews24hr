@@ -1,7 +1,43 @@
 {
-  "updated": "2026-06-25 06:29:58",
-  "count": 16987,
+  "updated": "2026-06-25 06:34:00",
+  "count": 16989,
   "items": [
+    {
+      "id": "4953569",
+      "time": "2026-06-25 06:32:48",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【延期合約保證金比例升至140% 多家銀行收緊個人貴金屬業務 】6月24日，工商銀行宣佈將於近期停辦代理上海黃金交易所個人貴金屬競價交易業務。6月以來，多家銀行收緊個人貴金屬相關業務，華夏銀行、廣發銀行、中國銀行等近10家全國性銀行先後釋出公告，調整個人貴金屬延期合約保證金比例，部分銀行將保證金比例上調至140%。業內人士認為，上述保證金比例突破100%意味著個人貴金屬延期合約的槓桿水平已實質性歸零，投機性資金將逐步退出市場。（中證報）"
+    },
+    {
+      "id": "4953568",
+      "time": "2026-06-25 06:32:01",
+      "tags": [
+        "公司"
+      ],
+      "text": "【直接融資勢頭超過信貸，金融“脫媒”深化倒逼銀行轉型】一家股份行支行的對公條線人士，最近察覺到一些變化：部分7年期、10年期乃至更長期限的固定資產貸款到期後，企業主動選擇不再續貸；與此同時，越來越多優質客戶將融資主渠道從銀行轉向債券市場。種種跡象表明，金融“脫媒”趨勢愈發明顯，資金開始繞開銀行等金融中介，直接進行交易。在這種情況下，銀行的角色將迎來重塑。未來，銀行不再只是“放貸者”，而將轉型為“服務中介”，以綜合服務能力重新定義自身價值。（上證報）"
+    },
+    {
+      "id": "mkt:019efbc1-8a81-7dd8-b106-26ef99283eac",
+      "time": "2026-06-25 06:30:25",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Volkswagen will sell a 51% stake in Everllence and remain a 49% principal shareholder in the medium term. The automaker said the planned leveraged buyout would generate roughly €7.4 billion."
+    },
+    {
+      "id": "te:markets:561648",
+      "time": "2026-06-25 06:30:17",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Energy Commodities Updates: Brent Crude Oil Plunges by 5.20% — Top commodity losers are Brent Crude Oil (-5.20%), Crude Oil WTI (-4.66%) and Methanol (-3.99%). Gains are led by Natural gas (2.25%) and Heating Oil (0.68%)."
+    },
     {
       "id": "4953567",
       "time": "2026-06-25 06:26:57",
@@ -155232,25 +155268,6 @@
         "國際"
       ],
       "text": "伊朗外交部發言人：伊朗必須能夠在運輸和保險不受阻礙的前提下出售石油，並且必須全額收回石油銷售收入。"
-    },
-    {
-      "id": "mkt:019ed7b6-eac4-7dd8-b065-8f9da67aaa34",
-      "time": "2026-06-18 06:32:29",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Iran's foreign ministry spokesman said the negotiating team will still attend meetings in Switzerland. The agreement has been signed electronically and no signing ceremony will be held in Switzerland."
-    },
-    {
-      "id": "te:markets:559830",
-      "time": "2026-06-18 06:30:13",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Energy Commodities Updates: Natural gas Drops by 2.37% — Top commodity losers are Natural gas (-2.37%), Methanol (-2.22%) and Natural Gas EU (-0.84%). Gains are led by Naphtha (1.18%), Gasoline (1.16%), Brent Crude Oil (0.27%) and Crude Oil WTI (0.24%)."
     }
   ]
 }
