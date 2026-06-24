@@ -1,6 +1,155 @@
 {
-  "updated": "2026-06-24 08:25:44",
+  "updated": "2026-06-24 09:36:55",
   "items": [
+    {
+      "id": "2026062409",
+      "date": "2026-06-24",
+      "run_hour": 9,
+      "started_at": "2026-06-24 09:36:26",
+      "finished_at": "2026-06-24 09:36:55",
+      "status": "PARTIAL",
+      "total_sources": 12,
+      "success_count": 9,
+      "failure_count": 3,
+      "success_sources": [
+        "cnyes",
+        "taishin",
+        "edwardjones",
+        "nomura",
+        "jin10",
+        "fx678",
+        "investrade",
+        "westpac",
+        "uob"
+      ],
+      "failed_sources": [
+        "cathay",
+        "factset",
+        "mizuho"
+      ],
+      "sources": [
+        {
+          "source": "cnyes",
+          "ok": true,
+          "status": "SUCCESS",
+          "reason": "",
+          "title": "〈美股盤後〉獲利了結潮湧現 美光財報前夕暴跌超13% 費半下殺近8% | 鉅亨網 - 美股雷達",
+          "url": "https://news.cnyes.com/news/id/6509288",
+          "expected_date": "2026-06-24",
+          "actual_date": "2026-06-24"
+        },
+        {
+          "source": "taishin",
+          "ok": true,
+          "status": "SUCCESS",
+          "reason": "",
+          "title": "",
+          "url": "https://www.taishinbank.com.tw/eServiceA/invst/servlet/servlet.invst.IReportServlet?action=file&no=182203",
+          "expected_date": "2026-06-24",
+          "actual_date": "2026-06-24"
+        },
+        {
+          "source": "cathay",
+          "ok": false,
+          "status": "DATE_MISMATCH",
+          "reason": "cathay 日期不符：頁面最新日期是 2026-06-23，預期日期是 2026-06-24",
+          "title": "",
+          "url": "",
+          "expected_date": "2026-06-24",
+          "actual_date": "2026-06-23"
+        },
+        {
+          "source": "edwardjones",
+          "ok": true,
+          "status": "SUCCESS",
+          "reason": "",
+          "title": "",
+          "url": "https://www.edwardjones.com/us-en/market-news-insights/stock-market-news/daily-market-recap",
+          "expected_date": "2026-06-23",
+          "actual_date": "2026-06-23"
+        },
+        {
+          "source": "nomura",
+          "ok": true,
+          "status": "SUCCESS",
+          "reason": "",
+          "title": "",
+          "url": "https://www.nomura-am.co.jp/market/marketcomment/20260624_Global_TECH_Equity.pdf",
+          "expected_date": "2026-06-24",
+          "actual_date": "2026-06-24"
+        },
+        {
+          "source": "factset",
+          "ok": false,
+          "status": "DATE_MISMATCH",
+          "reason": "factset 日期不符：頁面最新日期是 2026-06-22，預期日期是 2026-06-23",
+          "title": "",
+          "url": "",
+          "expected_date": "2026-06-23",
+          "actual_date": "2026-06-22"
+        },
+        {
+          "source": "jin10",
+          "ok": true,
+          "status": "SUCCESS",
+          "reason": "",
+          "title": "",
+          "url": "https://xnews.jin10.com/details/222574",
+          "expected_date": "2026-06-24",
+          "actual_date": "2026-06-24"
+        },
+        {
+          "source": "fx678",
+          "ok": true,
+          "status": "SUCCESS",
+          "reason": "",
+          "title": "",
+          "url": "https://news.fx678.com/202606240527172468.shtml",
+          "expected_date": "2026-06-24",
+          "actual_date": "2026-06-24"
+        },
+        {
+          "source": "investrade",
+          "ok": true,
+          "status": "SUCCESS",
+          "reason": "",
+          "title": "",
+          "url": "https://investrade.com/market-review-june-23-2026/",
+          "expected_date": "2026-06-23",
+          "actual_date": "2026-06-23"
+        },
+        {
+          "source": "westpac",
+          "ok": true,
+          "status": "SUCCESS",
+          "reason": "",
+          "title": "",
+          "url": "https://library.westpaciq.com.au/content/dam/public/westpaciq/secure/economics/documents/aus/2026/06/WBC_MorningReport24Jun2026.pdf",
+          "expected_date": "2026-06-24",
+          "actual_date": "2026-06-24"
+        },
+        {
+          "source": "uob",
+          "ok": true,
+          "status": "SUCCESS",
+          "reason": "",
+          "title": "",
+          "url": "https://www.uobgroup.com/assets/web-resources/research/pdf/MO_260624.pdf",
+          "expected_date": "2026-06-24",
+          "actual_date": "2026-06-24"
+        },
+        {
+          "source": "mizuho",
+          "ok": false,
+          "status": "DATE_MISMATCH",
+          "reason": "mizuho 日期不符：頁面最新日期是 2026-06-23，預期日期是 2026-06-24",
+          "title": "",
+          "url": "",
+          "expected_date": "2026-06-24",
+          "actual_date": "2026-06-23"
+        }
+      ]
+    },
     {
       "id": "2026062408",
       "date": "2026-06-24",
