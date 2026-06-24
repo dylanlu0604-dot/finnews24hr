@@ -1,7 +1,112 @@
 {
-  "updated": "2026-06-24 12:01:47",
+  "updated": "2026-06-24 12:05:44",
   "count": 17339,
   "items": [
+    {
+      "id": "mkt:019ef7cd-9dff-7dd8-b0ea-f8ea034ca6f9",
+      "time": "2026-06-24 12:05:08",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "Qatari prime minister Sheikh Mohammed expects the country to resume normal LNG production within weeks, the Financial Times reports."
+    },
+    {
+      "id": "4951700",
+      "time": "2026-06-24 12:04:54",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "印度央行行長：不確定通脹是否會產生第二輪效應。"
+    },
+    {
+      "id": "4951698",
+      "time": "2026-06-24 12:04:31",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "印度央行行長：匯率波動與外部不確定性是我們共同關切的問題。"
+    },
+    {
+      "id": "4951697",
+      "time": "2026-06-24 12:04:16",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "【居民消費貸今年前五月減少超1.1萬億元】居民負債卸槓桿的力度，可能比預想的還要大。記者查閱央行金融機構信貸收支表資料，發現今年前五個月居民消費貸餘額減少超1.1萬億元。分結構來看，其中短期消費貸從2025年末的94900.77億元，降至2026年5月末的87869.54億元，今年前五個月減少約7031.23億元，降幅約7.41%；截至今年5月末，中長期消費貸餘額為482620.85億元，較去年末的486820.09億元減少了超4200億元。兩者合計，我國居民的消費貸餘額在今年前五月減少約11230.47億元——從去年末的581720.86億元，跌至570490.39億元。（證券時報）"
+    },
+    {
+      "id": "mkt:019ef7cc-5759-7dd8-b0ea-f008186798c0",
+      "time": "2026-06-24 12:03:44",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "HSI",
+        "Impact bullish",
+        "02359.HK",
+        "00981.HK"
+      ],
+      "text": "【Hong Kong midday: HSI up 0.04%, Hang Seng Tech up 1.34%】By midday in Hong Kong the Hang Seng Index was up 0.04% and the Hang Seng Tech Index gained 1.34%. Morning turnover reached HK$175.56 billion. Sector gains were led by pharma outsourcing (CDMO), storage, optical communications and chip stocks; declines were concentrated in rare earths, power equipment, Chinese brokers and commercial space. Notable stock moves: Huahong Hongli (01347.HK) +16%, WuXi AppTec (02359.HK) +9%, SMIC (00981.HK) +8%, Zhipu (02513.HK) +5%, BeiGene (06160.HK) +4%; MINIMAX-W (00100.HK) -5%, China Life (02628.HK) -4%, Midea Group (00300.HK) -3%."
+    },
+    {
+      "id": "4951696",
+      "time": "2026-06-24 12:03:42",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【美企發射“星落”返回艙 演示再入返回技術】美國太空探索技術公司23日利用“獵鷹9”號火箭首次發射“星落”返回艙，旨在對這種新型無人再入返回飛行器進行演示與驗證。太空探索技術公司表示，完成受控飛行演示後，飛行器將在太平洋海域濺落。（新華社）"
+    },
+    {
+      "id": "4951695",
+      "time": "2026-06-24 12:03:03",
+      "tags": [
+        "其他"
+      ],
+      "text": "卡達首相謝赫·穆罕默德表示，該國將在數週內恢復液化天然氣正常生產。"
+    },
+    {
+      "id": "4951694",
+      "time": "2026-06-24 12:02:53",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【港股午評：恒生指數漲0.04%，恒生科技指數漲1.34%】港股午間收盤，恒生指數漲0.04%，恒生科技指數漲1.34%。恒指港股通ETF銀華（159318）漲0.17%，港股通科技ETF鵬華（159751）漲1.69%。板塊方面，生命科學工具、客運航空公司板塊漲幅靠前；金屬與採礦、林業與紙製品板塊跌幅靠前。個股方面，麥科醫藥-B漲89.56%，凱萊英漲16.22%，華虹宏力漲16.0%，海西新藥漲14.56%，仙工智慧漲13.48%；海清智元跌27.89%，星源材質跌12.82%，博泰車聯跌11.46%，曦智科技-P跌10.52%，威勝控股跌8.99%。"
+    },
+    {
+      "id": "te:markets:561357",
+      "time": "2026-06-24 12:02:51",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Australia",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "BHP Group Stock Price Hits 4-week Low — BHP Group shares decreased to 59.03 AUD, the lowest since May 2026. Over the past 4 weeks, BHP Group lost 1.77%, and in the last 12 months, it increased 63.54%."
+    },
+    {
+      "id": "4951693",
+      "time": "2026-06-24 12:02:50",
+      "tags": [
+        "公司"
+      ],
+      "text": "【智譜據悉考慮在香港發售數十億美元的股票】媒體援引知情人士透露，中國人工智慧模型公司智譜考慮在香港發售股份，融資規模可能達數十億美元。該公司自1月上市以來，股價已飆升2000%。因涉及非公開資訊，要求匿名的知情人士稱，智譜在與顧問商討潛在股份配售事宜，最早可能下個月進行。智譜IPO後為期六個月的鎖定期將於7月8日到期。知情人士稱，智譜股份發售事宜仍在商討中，也可能無法達成交易。"
+    },
+    {
+      "id": "4951692",
+      "time": "2026-06-24 12:01:02",
+      "tags": [
+        "公司"
+      ],
+      "text": "傑富瑞將歷峰集團目標價從165瑞士法郎上調至200瑞士法郎。"
+    },
     {
       "id": "4951691",
       "time": "2026-06-24 12:00:36",
@@ -158666,112 +158771,6 @@
         "公司"
       ],
       "text": "【石基資訊披露發行股份購買資產報告書（草案）】石基資訊披露購買資產報告書（草案），擬透過發行股份的方式向上海雲鑫、張育宏和張偉3名交易對方購買其持有的思迅軟體13.50%股份（對應思迅軟體14,312,500股）"
-    },
-    {
-      "id": "mkt:019ed3c0-a10c-7dd8-b041-6fc6e8acb67c",
-      "time": "2026-06-17 12:04:37",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "FT reports the EU is preparing to offer trade-relief measures to Armenia should the bloc introduce an import ban on Russian goods."
-    },
-    {
-      "id": "4939924",
-      "time": "2026-06-17 12:04:32",
-      "tags": [
-        "公司"
-      ],
-      "text": "【協創資料旗下算力科技公司增資至10.5億元】企查查APP顯示，近日，協創算力科技（深圳）有限公司發生工商變更，註冊資本從1000萬元增加至10.5億元，增幅達10400%。企查查顯示，該公司成立於2025年11月，法定代表人為易洲，經營範圍包含：資料處理服務；雲端計算裝備技術服務；雲端計算裝置銷售；人工智慧應用軟體開發等，由協創資料全資持股。"
-    },
-    {
-      "id": "4939923",
-      "time": "2026-06-17 12:03:37",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "5年期日本國債收益率下跌4.5個基點，至1.865%。"
-    },
-    {
-      "id": "mkt:019ed3bf-aa1f-7dd8-b041-63fc9143c456",
-      "time": "2026-06-17 12:03:33",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC",
-        "Macro & Rates",
-        "Treasury Yields",
-        "USDJPY",
-        "Impact bullish"
-      ],
-      "text": "Japan 5-year government bond yield fell 4.5 bps to 1.865%."
-    },
-    {
-      "id": "4939922",
-      "time": "2026-06-17 12:03:19",
-      "tags": [
-        "其他"
-      ],
-      "text": "傑夫・貝索斯領投英國初創企業 CUSPAI，後者完成 4 億美元融資。"
-    },
-    {
-      "id": "mkt:019ed3be-b835-7dd8-b041-59d3b1e340a9",
-      "time": "2026-06-17 12:02:31",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "MAS survey: Economists trimmed Singapore's 2026 GDP growth forecast to 3.5% from 3.6%."
-    },
-    {
-      "id": "4939921",
-      "time": "2026-06-17 12:02:29",
-      "tags": [
-        "國際"
-      ],
-      "text": "歐盟計劃在俄羅斯實施進口禁令後向亞美尼亞提供貿易救濟。"
-    },
-    {
-      "id": "mkt:019ed3be-9a83-7dd8-b041-57d9032ae0d4",
-      "time": "2026-06-17 12:02:24",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "DXY",
-        "Impact bearish"
-      ],
-      "text": "MAS survey: Economists raised their forecast for Singapore's 2026 non-oil domestic export growth to 6.1% from 4.5%."
-    },
-    {
-      "id": "mkt:019ed3be-6707-7dd8-b041-4ecf9412a6bd",
-      "time": "2026-06-17 12:02:11",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "BDI: 46% of surveyed carmakers said rising costs linked to the Middle East conflict have affected them."
-    },
-    {
-      "id": "mkt:019ed3be-3ccb-7dd8-b041-47ad6d3f238a",
-      "time": "2026-06-17 12:02:00",
-      "tags": [
-        "MKT News",
-        "Macro & Rates"
-      ],
-      "text": "MAS survey: economists forecast 2026 GDP growth of 3.5%, down from 3.6% previously."
-    },
-    {
-      "id": "mkt:019ed3be-1c14-7dd8-b041-3e4c892f230f",
-      "time": "2026-06-17 12:01:52",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK",
-        "DAX",
-        "Impact bearish",
-        "EURUSD",
-        "DXY",
-        "Impact bullish"
-      ],
-      "text": "BDI survey of firms: 3% of respondents plan to hire in Germany, 54% plan layoffs."
     }
   ]
 }
