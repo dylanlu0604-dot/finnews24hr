@@ -1,7 +1,183 @@
 {
-  "updated": "2026-06-24 21:58:11",
-  "count": 17274,
+  "updated": "2026-06-24 22:02:37",
+  "count": 17275,
   "items": [
+    {
+      "id": "mkt:019ef9ef-d2dd-7dd8-b0fb-bae8e9f070d1",
+      "time": "2026-06-24 22:01:44",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. airline shares rose: Delta Air Lines (DAL.N) up 2.6%, Southwest Airlines (LUV.N) up 3.0%, American Airlines Group (AAL.O) up 4.3%, United Airlines (UAL.O) up 4.6%, Alaska Air up 4.7%, JetBlue up 5.2%."
+    },
+    {
+      "id": "em:jjsj_mgsj:202606243781718884",
+      "time": "2026-06-24 22:01:31",
+      "tags": [
+        "經濟數據",
+        "美國"
+      ],
+      "text": "美國5月新建住宅銷量摺合年率580,000套，預估為639,890套。"
+    },
+    {
+      "id": "4952996",
+      "time": "2026-06-24 22:01:16",
+      "tags": [
+        "國際"
+      ],
+      "text": "【烽火通訊助力PEACE專案完成萬公里級400G超高速跨洋傳輸】近日，由烽火通訊提供Turnkey服務的PEACE國際海纜系統擴容專案（新加坡-埃及段及埃及-法國段）正式投入服務，在跨越亞非歐三大洲的萬公里級海纜鏈路上，成功實現400G超高速業務的部署。未來，烽火通訊將持續深耕海洋通訊前沿技術，加快推動800G跨洋超大容量傳輸系統、多芯光纖、空芯光纖等創新技術的產業化應用。"
+    },
+    {
+      "id": "4952995",
+      "time": "2026-06-24 22:01:02",
+      "tags": [
+        "國際"
+      ],
+      "text": "Mercantile與美國運通及美國律師協會合作，為法律專業人士推出小型企業信用卡。"
+    },
+    {
+      "id": "4952994",
+      "time": "2026-06-24 22:00:45",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "美國航空股上漲，因油價跌至伊朗戰爭爆發以來的最低水平。達美航空股價上漲2.6%，西南航空股價上漲3%，美國航空股價上漲4.3%。聯合航空股價上漲4.6%，阿拉斯加航空集團股價上漲4.7%，捷藍航空股價攀升5.2%。"
+    },
+    {
+      "id": "4952993",
+      "time": "2026-06-24 22:00:31",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "標普綜合1500客運航空公司指數觸及八年多新高，最新上漲3.5%。"
+    },
+    {
+      "id": "mkt:019ef9ee-7df3-7dd8-b0fb-b794e4d69b1a",
+      "time": "2026-06-24 22:00:17",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy",
+        "DXY",
+        "Impact bearish",
+        "S&P500",
+        "US10Y",
+        "Impact bullish"
+      ],
+      "text": "US May new-home sales annualized month-on-month -7.3%; April revised from -6.20% to -5.7%."
+    },
+    {
+      "id": "mkt:019ef9ee-63c9-7dd8-b0fb-a92fae37ebf3",
+      "time": "2026-06-24 22:00:10",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "US Economy",
+        "US10Y",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish",
+        "S&P500",
+        "Impact mixed"
+      ],
+      "text": "US new home sales (annualized) 580,000 in May vs. consensus 639,000; April revised to 626,000 from 622,000."
+    },
+    {
+      "id": "4952992",
+      "time": "2026-06-24 22:00:09",
+      "tags": [
+        "資料",
+        "國際"
+      ],
+      "text": "美國5月新建住宅銷量摺合年率580,000套 預估為639,890套。"
+    },
+    {
+      "id": "mkt:019ef9ee-3f47-7dd8-b0fb-a3d3cffd1479",
+      "time": "2026-06-24 22:00:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | New Home Sales (SAAR) (May) | actual 580000K | consensus 639000K | previous 622000K"
+    },
+    {
+      "id": "mkt:019ef9ee-3ef9-7dd8-b0fb-9fd647c99e0c",
+      "time": "2026-06-24 22:00:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | New Home Sales (MoM) (May) | actual -7.3% | previous -6.20%"
+    },
+    {
+      "id": "4952991",
+      "time": "2026-06-24 21:59:22",
+      "tags": [
+        "國際"
+      ],
+      "text": "據俄羅斯方面報道，俄空中防禦系統擊落了三架飛向莫斯科的無人機。"
+    },
+    {
+      "id": "mkt:019ef9ed-8417-7dd8-b0fb-93899c32af11",
+      "time": "2026-06-24 21:59:13",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "Russia reported its air defenses shot down three drones en route to Moscow."
+    },
+    {
+      "id": "te:markets:561575",
+      "time": "2026-06-24 21:58:48",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "Deere & Company Stock Price Hits 10-week High — Deere & Company shares increased to 604.52 USD, the highest since April 2026. Over the past 4 weeks, Deere & Company gained 14.02%, and in the last 12 months, it increased 19.05%."
+    },
+    {
+      "id": "4952990",
+      "time": "2026-06-24 21:58:44",
+      "tags": [
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "【德商銀行：歐元區通脹率或很快降至目標水平】德國商業銀行的Vincent Stamer在一份報告中表示，伊朗與美國之間的一項初步和平協議正推動人們的希望，即歐元區通脹率可能很快回落至歐洲央行2%的目標水平。他說，如果企業認為能源價格上漲是暫時的，它們可能會避擴音高銷售價格。德國商業銀行預計，未來幾個月通脹率將維持在3%左右，然後在明年下半年降至2%。“如果波斯灣衝突得到永久解決，這可能標誌著這段通脹時期結束的開始。”Stamer說，儘管如此，由於通脹率持續高於3%，且高能源價格的間接影響即將來臨，歐洲央行仍可能進行第二次加息。"
+    },
+    {
+      "id": "4952989",
+      "time": "2026-06-24 21:58:23",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【報告：美國天然氣期貨在區間交易中持穩】隨著美國天然氣期貨繼續在相當偏窄的區間內交易，其價格小幅走高。EBW Analytics的Eli Rubin在一份報告中表示，6月份迄今為止，亨利港的現貨價格平均為每百萬英熱單位3.11美元，為處於近期區間底部的紐約商交所近月合約提供了支撐。他說，進入7月份氣溫升高以及液化天然氣出口預期增加，可能會提供需求側的支撐。他補充說，對“看漲敘事“的挑戰包括產量恢復以及管道維護結束使得亨利港有更多供應。紐約商交所天然氣期貨上漲0.5%，報每百萬英熱單位3.162美元。"
+    },
+    {
+      "id": "te:markets:561573",
+      "time": "2026-06-24 21:57:52",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Canada",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "Canadian Dollar Weakens to 1-Year Low — The Canadian dollar sank to a one-year low of 1.42 per USD in late June amid, tracking other G10 currencies as the outlook of a hawkish Fed supported the US dollar. Multiple FOMC members projected more than one rate hike this year as US inflation picks up. Meanwhile, core inflation rates tracked by the Bank of Canada remained near their 2% target in May despite the surge in energy prices during the period, aligning with the central bank's earlier signal that the war in Iran may only have transitionary effects on headline price growth. The Bank of Canada kept its key interest rate unchanged at 2.25% at its latest meeting, and signaled that it sees risks on both sides of its inflation and employment mandate amid the uncertain economic backdrop."
+    },
     {
       "id": "te:markets:561571",
       "time": "2026-06-24 21:56:51",
@@ -157958,143 +158134,6 @@
         "國際"
       ],
       "text": "特朗普重申伊朗不會擁有核武器。"
-    },
-    {
-      "id": "4941246",
-      "time": "2026-06-17 22:02:16",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普重申，霍爾木茲海峽協議簽署後將立即開放。"
-    },
-    {
-      "id": "4941245",
-      "time": "2026-06-17 22:02:05",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：油價暴跌。"
-    },
-    {
-      "id": "te:markets:559748",
-      "time": "2026-06-17 22:02:04",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 2"
-      ],
-      "text": "Oil Rebounds as Trump Casts Doubt on Iran Ceasefire — Crude oil rose more than 1.5% to above $77 per barrel on Wednesday after US President Donald Trump warned that bombing of Iran could resume if Tehran failed to “behave,” raising fresh uncertainty over a potential ceasefire deal. Trump said the memorandum of understanding with Iran was not final, adding that military action remained possible. The US-Iran memorandum, which extends a fragile ceasefire by 60 days, could allow talks toward a lasting truce and help rebuild depleted inventories. Still, industry officials said a full recovery in Iranian production and refining capacity could take weeks, months or even years, limiting the speed of any supply rebound. Nevertheless, oil prices remained near three-month lows, however, as the International Energy Agency warned of a looming supply surplus. In its first outlook for 2027, the IEA said global oil supply could rise by 8 million barrels a day while demand grows by only 2 million bpd, creating significant oversupply."
-    },
-    {
-      "id": "4941244",
-      "time": "2026-06-17 22:01:39",
-      "tags": [
-        "市場"
-      ],
-      "text": "SpaceX股價延續跌勢，最新下跌超3%。"
-    },
-    {
-      "id": "4941243",
-      "time": "2026-06-17 22:01:28",
-      "tags": [
-        "公司"
-      ],
-      "text": "應用材料公司推出用於智慧眼鏡的 Senz 視覺系統。"
-    },
-    {
-      "id": "4941242",
-      "time": "2026-06-17 22:01:13",
-      "tags": [
-        "其他"
-      ],
-      "text": "SpaceX跌幅迅速擴大至2%。"
-    },
-    {
-      "id": "4941241",
-      "time": "2026-06-17 22:01:03",
-      "tags": [
-        "資料",
-        "國際"
-      ],
-      "text": "美國5月成屋簽約銷售指數月率錄得3.8%，為2024年9月以來最大增幅。"
-    },
-    {
-      "id": "em:jjsj_mgsj:202606173774898152",
-      "time": "2026-06-17 22:01:02",
-      "tags": [
-        "經濟數據",
-        "美國"
-      ],
-      "text": "【美國4月商業庫存環比增長0.5% 預期0.5%】美國4月商業庫存環比增長0.5%，預期0.5%，前值由0.90%修正為1%。"
-    },
-    {
-      "id": "4941240",
-      "time": "2026-06-17 22:00:46",
-      "tags": [
-        "資料",
-        "國際"
-      ],
-      "text": "美國4月商業庫存月率 0.5%，預期0.5%，前值由0.90%修正為1%。"
-    },
-    {
-      "id": "4941239",
-      "time": "2026-06-17 22:00:37",
-      "tags": [
-        "資料",
-        "國際"
-      ],
-      "text": "美國5月成屋簽約銷售指數月率 3.8%，預期0.8%，前值由1.40%修正為0.3%。\n美國5月成屋簽約銷售指數 76.8，前值由74.8修正為74。"
-    },
-    {
-      "id": "em:jjsj_mgsj:202606173774898774",
-      "time": "2026-06-17 22:00:26",
-      "tags": [
-        "經濟數據",
-        "美國"
-      ],
-      "text": "【美國5月成屋簽約銷售指數月率錄得3.8% 為2024年9月以來最大增幅】美國5月成屋簽約銷售指數月率錄得3.8%，為2024年9月以來最大增幅；預期0.8%，前值由1.40%修正為0.3%。"
-    },
-    {
-      "id": "4941238",
-      "time": "2026-06-17 22:00:16",
-      "tags": [
-        "其他"
-      ],
-      "text": "巴西財長：財政挑戰是國家的責任，而不是某個政府的責任。 巴西需改善財政發展路徑。"
-    },
-    {
-      "id": "4941237",
-      "time": "2026-06-17 21:59:46",
-      "tags": [
-        "市場"
-      ],
-      "text": "標普500指數轉跌。"
-    },
-    {
-      "id": "4941236",
-      "time": "2026-06-17 21:59:24",
-      "tags": [
-        "其他"
-      ],
-      "text": "【甘浙特高壓跨長江輸電塔進入組立階段】近日，“西電東送”重點工程——甘肅—浙江±800千伏特高壓直流輸電工程迎來關鍵節點，位於安徽蕪湖無為市高溝鎮的196米高的長江大跨越北岸跨越塔進入組立施工階段。甘浙特高壓工程是國家電力發展規劃重點專案，起於甘肅省武威市，止於浙江省紹興市，全長2370公里，投運後每年可向浙江輸送電量超360億千瓦時。（新華社）"
-    },
-    {
-      "id": "4941235",
-      "time": "2026-06-17 21:59:18",
-      "tags": [
-        "市場"
-      ],
-      "text": "標普500指數和納斯達克100指數迅速回吐漲幅。"
-    },
-    {
-      "id": "em:qqyh_ozyh:202606173774897317",
-      "time": "2026-06-17 21:58:27",
-      "tags": [
-        "央行",
-        "歐洲央行"
-      ],
-      "text": "【歐洲央行管委斯萊普恩：如果歐洲央行再次加息至2.5% 利率水平仍將處於中性區間】歐洲央行管委斯萊普恩稱，根據當前分析，如果歐洲央行再次加息至2.5%，利率水平仍將處於中性區間。"
     }
   ]
 }
