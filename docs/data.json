@@ -1,7 +1,18 @@
 {
-  "updated": "2026-06-25 06:08:18",
-  "count": 16988,
+  "updated": "2026-06-25 06:12:13",
+  "count": 16987,
   "items": [
+    {
+      "id": "mkt:019efbb0-832a-7dd8-b105-e868367308e0",
+      "time": "2026-06-25 06:11:49",
+      "tags": [
+        "MKT News",
+        "MU.O",
+        "Impact bullish",
+        "QCOM.O"
+      ],
+      "text": "【Micron tops estimates, jumps 15% after-hours; Qualcomm up on bullish AI outlook】Chip stocks rallied in after-hours trading Wednesday after Micron Technology (MU.O) reported results and guidance above expectations; its shares rose about 15% after hours and were roughly 270% YTD at Wednesday’s close. Qualcomm (QCOM.O) also rallied, gaining as much as 15% after management at an investor day outlined an expanded AI/data-center push and said its data-center chip expansion will deliver \"billions of dollars\" of revenue in the fiscal year beginning in October."
+    },
     {
       "id": "mkt:019efbac-741e-7dd8-b105-e769af9817e5",
       "time": "2026-06-25 06:07:23",
@@ -155249,23 +155260,6 @@
         "國際"
       ],
       "text": "俄羅斯副外長阿里莫夫表示，莫斯科和德黑蘭正在聯合國協調行動，以期徹底解除對伊朗的制裁。"
-    },
-    {
-      "id": "4941923",
-      "time": "2026-06-18 06:10:09",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗外交部發言人： 若以色列政權持續襲擊黎巴嫩，該行為將構成對方違反諒解備忘錄項下承諾。 我們不會將美國與以色列政權割裂看待，儘管二者行事手段與方針的差異十分明顯。 以色列政權不願給任何外交程序一絲推進空間。但美國有責任迫使以色列政權遵守美方在本協議中對伊朗作出的承諾。"
-    },
-    {
-      "id": "4941922",
-      "time": "2026-06-18 06:09:11",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "日本製鐵副總裁：日本製鐵對美國鋼鐵的整改措施“尚未滿意”。"
     }
   ]
 }
