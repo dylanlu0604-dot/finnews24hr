@@ -1,7 +1,23 @@
 {
-  "updated": "2026-06-24 23:16:15",
-  "count": 17244,
+  "updated": "2026-06-24 23:20:13",
+  "count": 17240,
   "items": [
+    {
+      "id": "4953118",
+      "time": "2026-06-24 23:18:13",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場資訊：以色列無人機低空飛越貝魯特上空。"
+    },
+    {
+      "id": "mkt:019efa33-b248-7dd8-b0fe-1302e90e2174",
+      "time": "2026-06-24 23:15:52",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "EMSC reported a magnitude-5.5 earthquake in northern California, United States."
+    },
     {
       "id": "4953117",
       "time": "2026-06-24 23:15:18",
@@ -157883,60 +157899,6 @@
         "MKT News"
       ],
       "text": "Axios reports the memorandum of understanding will be signed electronically and the US will release the text. No final decision has been made on an early signing of a US-Iran agreement."
-    },
-    {
-      "id": "mkt:019ed62a-2002-7dd8-b057-a40d69f43f76",
-      "time": "2026-06-17 23:19:05",
-      "tags": [
-        "MKT News",
-        "Important",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "Axios reports sources say the US and Iran are discussing moving an MOU signing originally scheduled for Friday forward to Wednesday."
-    },
-    {
-      "id": "4941426",
-      "time": "2026-06-17 23:18:37",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "據AXIOS：訊息人士透露，美國和伊朗正在討論將原定於週五舉行的諒解備忘錄（MOU）簽署儀式提前至週三舉行。"
-    },
-    {
-      "id": "4941425",
-      "time": "2026-06-17 23:17:16",
-      "tags": [
-        "國際"
-      ],
-      "text": "【以色列襲擊黎南部奈拜提耶 致4人死亡】雖然美伊即將簽署諒解備忘錄，但以色列對黎巴嫩的軍事行動並未停止。據黎巴嫩方面17日訊息，以色列當天對黎巴嫩南部奈拜提耶地區發動了空襲和炮擊，導致4人死亡。 (央視新聞)"
-    },
-    {
-      "id": "4941424",
-      "time": "2026-06-17 23:17:09",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【美國庫欣原油庫存降至臨界低位 美國供應緩衝空間收窄】美國最大的商業原油儲存中心的庫存降至2014年以來最低水平，伊朗戰爭期間美國出口激增消耗了國內供應。美國能源資訊管理局(EIA)週三公佈的資料顯示，俄克拉何馬州庫欣(Cushing)原油儲備中心庫存已連續八週下降，目前約為2,000萬桶。這是大多數交易員認為的最低運營水平。庫欣庫存水平對交易員判斷美國原油期貨基準價格至關重要。WTI期貨價格又為美洲地區數百萬桶原油交易提供定價基準。美國原油出口在戰爭期間升至紀錄高點，以填補全球供應缺口，這導致庫欣庫存大幅下降。中東衝突導致全球約20%的能源運輸被困在波斯灣地區。"
-    },
-    {
-      "id": "4941423",
-      "time": "2026-06-17 23:16:45",
-      "tags": [
-        "其他"
-      ],
-      "text": "【盧浮宮館長稱該博物館已“不堪重負” 】法國盧浮宮博物館館長克里斯托夫·勒裡博17日就博物館內設施裝置老化問題發出警告，坦言該博物館已“不堪重負”，且修繕老化設施裝置所需鉅額資金存在缺口。"
-    },
-    {
-      "id": "4941422",
-      "time": "2026-06-17 23:16:22",
-      "tags": [
-        "國際"
-      ],
-      "text": "普京會見汶萊蘇丹哈桑納爾。"
     }
   ]
 }
