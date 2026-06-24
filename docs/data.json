@@ -1,7 +1,68 @@
 {
-  "updated": "2026-06-25 04:54:50",
-  "count": 17058,
+  "updated": "2026-06-25 04:58:51",
+  "count": 17061,
   "items": [
+    {
+      "id": "mkt:019efb6c-d01f-7dd8-b105-97b239f3a892",
+      "time": "2026-06-25 04:57:52",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "President Trump said a war-powers vote on Iran is meaningless."
+    },
+    {
+      "id": "mkt:019efb6c-9a35-7dd8-b105-8a219095fdd9",
+      "time": "2026-06-25 04:57:38",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "Trump said oil companies have not sufficiently reduced gasoline prices and that he spoke with oil firms today."
+    },
+    {
+      "id": "mkt:019efb6c-8dc8-7dd8-b105-836fb856d64b",
+      "time": "2026-06-25 04:57:35",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "AI Revolution",
+        "QCOM.O",
+        "Impact bullish"
+      ],
+      "text": "【Qualcomm shares jump after-hours as CFO lifts data-center and non-phone revenue targets】Qualcomm (QCOM.O) shares rose as much as 15% in after-hours trading after the CFO raised long-term targets for data-center and non-phone businesses. The company increased its FY2029 non-phone revenue target to $40.0 billion, roughly double its prior FY2029 goal, and is targeting over $15.0 billion of AI data-center revenue in FY2029."
+    },
+    {
+      "id": "mkt:019efb6a-2a5e-7dd8-b105-7ce02d2e71f8",
+      "time": "2026-06-25 04:54:59",
+      "tags": [
+        "MKT News",
+        "QCOM.O",
+        "Impact bullish"
+      ],
+      "text": "Qualcomm (QCOM.O) CFO says the company has an opportunity to raise annual revenue to $100 billion."
+    },
+    {
+      "id": "4953521",
+      "time": "2026-06-25 04:54:58",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國 30 年期美債收益率當日下行 10 個基點，報 4.84%。"
+    },
+    {
+      "id": "mkt:019efb69-c9cc-7dd8-b105-7654fddc9cd4",
+      "time": "2026-06-25 04:54:34",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "QCOM.O",
+        "Impact bullish"
+      ],
+      "text": "Qualcomm (QCOM.O) targets roughly $6 bln in revenue from its Personal AI and compute businesses in fiscal 2029."
+    },
     {
       "id": "mkt:019efb69-7069-7dd8-b105-6ad0610a33fe",
       "time": "2026-06-25 04:54:11",
@@ -155855,32 +155916,6 @@
         "其他"
       ],
       "text": "迪拜酋長國金融大廈高層發生火災，起火原因不明。"
-    },
-    {
-      "id": "4941848",
-      "time": "2026-06-18 04:58:05",
-      "tags": [
-        "公司",
-        "市場",
-        "國際"
-      ],
-      "text": "【6月18日美股成交額前20：美光科技逆勢收漲2.2%，德銀大幅上調其目標價】週二美股成交額第2名美光科技收漲2.20%，成交475.82億美元。德意志銀行在最新研報中大幅上調了美光科技的目標價，從1000美元上調至1500美元，並維持“買入”評級。若以美光在美東時間週二的收盤價（1020.76美元）為基準，這意味著還有約47%的上漲空間。今年以來，美光股價已累計上漲約260%。推動這一漲勢的主要原因是AI應用快速普及，加劇了儲存器供應短缺。另一美國儲存晶片公司閃迪今年股價更是暴漲了約730%。"
-    },
-    {
-      "id": "4941847",
-      "time": "2026-06-18 04:56:21",
-      "tags": [
-        "公司"
-      ],
-      "text": "明晟公司MSCI新興市場貨幣指數跌超0.4%，創最近一個月最差單日表現。"
-    },
-    {
-      "id": "4941846",
-      "time": "2026-06-18 04:54:52",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國紐約拉瓜迪亞機場將於美國東部時間週三下午5點關閉一條跑道，以處理跑道地面沉降問題。"
     }
   ]
 }
