@@ -1,7 +1,133 @@
 {
-  "updated": "2026-06-24 09:17:59",
-  "count": 17395,
+  "updated": "2026-06-24 09:22:30",
+  "count": 17392,
   "items": [
+    {
+      "id": "mkt:019ef737-7450-7dd8-b0e7-065cdca686d8",
+      "time": "2026-06-24 09:21:07",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "【Senate approves resolution requiring Trump to end military action against Iran】On June 23 the U.S. Senate passed a resolution limiting presidential war powers that directs President Trump to end U.S. military operations against Iran and requires congressional authorization before any future military action against Iran. The measure, previously approved by the House, passed 50-48; four Republicans joined the large majority of Senate Democrats in voting yes and two Republican senators were absent."
+    },
+    {
+      "id": "4951437",
+      "time": "2026-06-24 09:21:00",
+      "tags": [],
+      "text": "港股恒指高開漲0.36％，國企指數漲0.42％，科指開漲0.48%，科技股多數走強。"
+    },
+    {
+      "id": "mkt:019ef737-575d-7dd8-b0e6-ff67958d69f5",
+      "time": "2026-06-24 09:20:59",
+      "tags": [
+        "MKT News",
+        "HSI",
+        "Impact bullish",
+        "HSCEI",
+        "HSTECH"
+      ],
+      "text": "Hong Kong's Hang Seng Index (HSI) opened June 24 (Wednesday) up 84.42 points, or 0.36%, at 23,420.7; the Hang Seng Technology Index rose 21.19 points, or 0.48%, to 4,420.41; the Hang Seng China Enterprises Index (HSCEI) added 32.77 points, or 0.42%, to 7,792.13; the Hang Seng Red Chip Index was up 13.58 points, or 0.35%, at 3,902.26."
+    },
+    {
+      "id": "mkt:019ef737-3819-7dd8-b0e6-f5641e78897d",
+      "time": "2026-06-24 09:20:51",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "China EV Leaders",
+        "China Tech Giants",
+        "Hang Seng Index",
+        "Impact bullish",
+        "09866.HK",
+        "09888.HK"
+      ],
+      "text": "At the Hong Kong open the Hang Seng rose 0.36% and the Hang Seng Tech Index gained 0.48%. Technology names led advances: NIO-SW (09866.HK) up about 5%, Baidu (09888.HK) up about 3%."
+    },
+    {
+      "id": "mkt:019ef736-fbf2-7dd8-b0e6-ebcc5b4866c0",
+      "time": "2026-06-24 09:20:36",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "CNH",
+        "Impact bullish"
+      ],
+      "text": "PBOC conducted CNY 662.5 bln 7-day reverse repo today; bids CNY 662.5 bln, allotment CNY 662.5 bln; rate 1.40%, unchanged from prior operation."
+    },
+    {
+      "id": "4951436",
+      "time": "2026-06-24 09:20:34",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "央行今日開展6625億元7天逆回購操作，投標量6625億元，中標量6625億元，操作利率為1.40%，與此前持平。"
+    },
+    {
+      "id": "4951435",
+      "time": "2026-06-24 09:20:29",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國國務卿魯比奧將於當地時間上午11:00在阿布扎比會見阿聯酋總統。"
+    },
+    {
+      "id": "mkt:019ef736-8735-7dd8-b0e6-e7eae2e2a2ec",
+      "time": "2026-06-24 09:20:06",
+      "tags": [
+        "MKT News",
+        "Important",
+        "AUDUSD",
+        "Impact mixed"
+      ],
+      "text": "Australia's May CPI (not seasonally adjusted) YoY is due in 10 minutes."
+    },
+    {
+      "id": "te:markets:561302",
+      "time": "2026-06-24 09:18:01",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Australia",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Australia Stocks Hold Steady Ahead of CPI Data — Australian shares were little changed in Wednesday morning trade, hovering near 8,789 after four straight sessions of losses and lingering at their lowest level in over a week. Traders awaited May CPI data later today, with forecasts pointing to faster annual inflation after April’s 4.2% but a rare monthly decline, the first in nine months. Labor market figures due Thursday also kept sentiment cautious. Meanwhile, U.S. equity futures were muted after a sharp selloff in tech and chipmakers dragged Wall Street lower overnight. Gains in tech services, consumer, healthcare, and commercial sectors helped offset weakness in non-energy and energy minerals. Early local movers included Lynas Rare Earths (2.5%), CSL Ltd. (2.3%), and Aristocrat Leisure (1.5%). In the meantime, two of the four big banks also posted modest gains. On the downside, Genesis Minerals slipped 3.6%, followed by Greatland Resources (-3.5%), Insurance Australia Group (-2.2%), and Perseus Mining (-1.4%)."
+    },
+    {
+      "id": "mkt:019ef734-854c-7dd8-b0e6-d83d6d9c3964",
+      "time": "2026-06-24 09:17:54",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CNH",
+        "Impact bearish"
+      ],
+      "text": "Yuan Reference Rate set at 6.8195 per USD, 24.00 points weaker than the previous day's fixing."
+    },
+    {
+      "id": "4951434",
+      "time": "2026-06-24 09:17:37",
+      "tags": [
+        "其他"
+      ],
+      "text": "【位元組跳動豆包上線專業版，升級複雜生產力工具並開啟訂閱】6月24日，位元組跳動旗下AI助手豆包推出專業版。該版本接入全新豆包2.1 Pro大模型，核心聚焦應用開發與資料分析等複雜場景。產品端，專業版上線“辦公任務模式”，支援AI自主拆解任務、操作本地電腦及呼叫Office套件。這標誌著豆包跨越“對話問答”，演進為具備強執行力的生產力工具，企業級程式設計能力亦大幅提升。收費方面，專業版實行三級階梯定價：標準連續包月68元（核心額度超免費版5倍），加強版200元，高階版500元；另設38元/月學生特惠。豆包表示，此為增值訂閱服務，現有免費版功能不變且將持續迭代。（硬AI）"
+    },
+    {
+      "id": "4951433",
+      "time": "2026-06-24 09:17:09",
+      "tags": [
+        "公司"
+      ],
+      "text": "【安靠智電成立新公司 含先進電力電子裝置業務】企查查APP顯示，近日，安靠電力科技（濟南）有限公司成立，經營範圍包含：先進電力電子裝置銷售；電力設施器材銷售；機械裝置研發；配電開關控制裝置銷售；機械電氣裝置製造等。企查查股權穿透顯示，該公司由安靠智電(300617)全資持股。"
+    },
     {
       "id": "mkt:019ef733-9642-7dd8-b0e6-d51eddf08037",
       "time": "2026-06-24 09:16:53",
@@ -190,6 +316,15 @@
         "國際"
       ],
       "text": "馬來西亞央行：林吉特6月經歷了一輪市場調整，對美元匯率走跌。"
+    },
+    {
+      "id": "em:qqyh_mlc:202606243780580187",
+      "time": "2026-06-24 09:13:11",
+      "tags": [
+        "央行",
+        "美聯儲"
+      ],
+      "text": "【高盛投資主管：美聯儲7月份加息機率為50% 股價上漲的財富效應或成為加息理由】高盛資產及財富管理多元行業投資主管LindsayRosner最新警告稱，美聯儲在7月份加息的“可能性較大”，機率為50%。她在接受最新採訪時指出，即將公佈的通脹資料，特別是個人消費支出報告，是可能促使美聯儲採取行動的關鍵因素。Rosner還進一步指出，股價上漲帶來的財富效應可能會反映在通脹資料上，從而可能成為加息的理由。"
     },
     {
       "id": "4951419",
@@ -159196,157 +159331,6 @@
         "HSCEI"
       ],
       "text": "Hang Seng Index (HSI) opened up 1.9 pts (+0.01%) at 24,495.85 on June 17. Hang Seng Tech Index opened down 21.87 pts (-0.47%) at 4,636.78. Hang Seng China Enterprises Index (HSCEI) opened down 5.35 pts (-0.06%) at 8,234.70. Red Chip Index opened down 9.28 pts (-0.22%) at 4,240.87."
-    },
-    {
-      "id": "4939572",
-      "time": "2026-06-17 09:22:20",
-      "tags": [
-        "宏觀",
-        "公司"
-      ],
-      "text": "【山東省發改委通報“某新基建專案問題”：成立聯合調查組進駐現場核查】據“山東發改”微信公眾號，針對媒體反映山東高速資訊集團有限公司承建的某新基建專案問題，山東省發展改革委、山東省住房城鄉建設廳、山東省交通運輸廳、山東省國資委已組成聯合調查組進駐現場核查，並委託第三方專業機構對專案施工質量開展全面檢測。相關調查結果將及時向社會公佈。"
-    },
-    {
-      "id": "4939571",
-      "time": "2026-06-17 09:22:16",
-      "tags": [
-        "市場"
-      ],
-      "text": "【航宇科技與Baker Hughes簽署長期SSA戰略供貨協議】據航宇科技訊息，6月16日，航宇科技與全球能源裝備巨頭Baker Hughes舉行高層戰略會談，雙方針對LT16機型及多項核心重點機型，正式簽署長期SSA（(Strategic Supply Agreement)）戰略供貨協議，鎖定未來五年各主力型號增量。航宇科技與Baker Hughes已攜手合作15年，是其燃機高溫合金包含冷端及熱端，靜止及轉動件核心戰略供應商。"
-    },
-    {
-      "id": "mkt:019ed32b-e377-7dd8-b03c-ba4fe95f346f",
-      "time": "2026-06-17 09:22:09",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "【PBOC nets CNY261.3 bln via 7-day reverse repos today】PBOC conducted CNY420.3 bln of 7-day reverse repurchase operations today; CNY159.0 bln matured, leaving a net injection of CNY261.3 bln."
-    },
-    {
-      "id": "4939570",
-      "time": "2026-06-17 09:22:04",
-      "tags": [
-        "國際"
-      ],
-      "text": "菲律賓參議院選舉SHERWIN GATCHALIAN為新議長。"
-    },
-    {
-      "id": "em:qqyh_zgyh:202606173773932331",
-      "time": "2026-06-17 09:22:03",
-      "tags": [
-        "央行",
-        "中國央行"
-      ],
-      "text": "央行今日開展4203億元7天逆回購操作，操作利率為1.40%，與此前持平。"
-    },
-    {
-      "id": "4939569",
-      "time": "2026-06-17 09:21:34",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "央行今日開展4203億元7天逆回購操作，投標量4203億元，中標量4203億元，操作利率為1.40%，與此前持平。"
-    },
-    {
-      "id": "mkt:019ed32b-5385-7dd8-b03c-b2f8fe74dbf2",
-      "time": "2026-06-17 09:21:32",
-      "tags": [
-        "MKT News",
-        "CNH"
-      ],
-      "text": "PBOC conducted 420.3 bln yuan of 7-day reverse repos today; bid and allotment both 420.3 bln yuan; operation rate 1.40%, unchanged."
-    },
-    {
-      "id": "4939568",
-      "time": "2026-06-17 09:21:27",
-      "tags": [
-        "焦點"
-      ],
-      "text": "港股恒指高開漲0.01％，國企指數跌0.06％，科指開跌0.47%。"
-    },
-    {
-      "id": "mkt:019ed32b-2a11-7dd8-b03c-ab57a0ff0705",
-      "time": "2026-06-17 09:21:21",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Star Stocks",
-        "Alibaba",
-        "09901.HK",
-        "Impact bullish",
-        "01177.HK",
-        "09988.HK"
-      ],
-      "text": "Hong Kong stocks opened mixed; the Hang Seng Index was up 0.01% while the Hang Seng Tech Index fell 0.47%. New Oriental (09901.HK) rose more than 2.6%, and China Biopharm (01177.HK) and Alibaba (09988.HK) gained over 1%."
-    },
-    {
-      "id": "mkt:019ed32a-bc52-7dd8-b03c-a2999cd63247",
-      "time": "2026-06-17 09:20:53",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "Treasury Yields",
-        "Market Regions",
-        "Japan & APAC"
-      ],
-      "text": "Japan 5-year government bond yield fell 3.0 bps to 1.880%."
-    },
-    {
-      "id": "mkt:019ed32a-7dd2-7dd8-b03c-9c8cd263fd5f",
-      "time": "2026-06-17 09:20:37",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC"
-      ],
-      "text": "Japan 2-year bond yield fell 1.5 bps to 1.390%."
-    },
-    {
-      "id": "mkt:019ed329-eaf9-7dd8-b03c-961c79d1e8e3",
-      "time": "2026-06-17 09:20:00",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Themes",
-        "AI Revolution",
-        "02513.HK"
-      ],
-      "text": "【Zhipu (02513.HK) open-sources GLM-5.2】Zhipu AI (02513.HK) launched and open-sourced GLM-5.2 under an MIT license with no geographic restrictions. The firm says GLM-5.2 ranked first among globally available models on CodeArena, a front-end evaluation system with over 1 mln users in blind tests. The model features a 1M-token context window for long-range tasks, improved coding ability, and infrastructure optimizations for Day‑0 operation on domestic compute. Zhipu completed Day‑0 inference adaptation on multiple Chinese compute platforms, citing integration with Huawei Ascend, T-Head (Pingtouge), Moore Threads, Cambricon, Kunlunxin, Muxi, Hygon (Haiguang) and Biren, and reports high throughput, low latency and large-concurrency stability on domestic chip clusters. Benchmarks cited place GLM-5.2’s long-range performance between Claude Opus 4.7 and 4.8 and flag it as the highest-ranked open-source model. Zhipu expects Huawei’s Ascend 950 supernode, slated for H2, to become an additional compute base for GLM-5.2."
-    },
-    {
-      "id": "4939566",
-      "time": "2026-06-17 09:19:32",
-      "tags": [
-        "其他"
-      ],
-      "text": "【智譜：今天上線並開源GLM-5.2】智譜(02513.HK)今日發文稱，上線並開源GLM-5.2。在全球百萬使用者參與盲測的前端開發評估系統CodeArena上，GLM-5.2取得全球可用模型第一的表現。今天GLM-5.2專為長程任務能力而生，全新特色包括：Solid1M上下文，穩定支撐長程任務；更強體感，更實用的Coding能力；極致Infra最佳化，Day0執行在國產算力平臺；MIT開源協議，無地域限制，技術平權無國界。1M上下文構成GLM-5.2的長程交付能力，多個長程任務基準表明GLM-5.2的表現介於Claude Opus4.7與4.8之間，是排名最高的開源模型。GLM-5.2的線上推理依託多個國產算力平臺，已在Day 0完成與華為昇騰、平頭哥、摩爾執行緒、寒武紀、崑崙芯、沐曦、海光、壁仞等國產算力平臺的推理適配，在國產晶片叢集上實現高吞吐、低延遲、大併發的穩定執行。預計下半年昇騰950超節點上市後，也將成為GLM-5.2強勁的算力底座。"
-    },
-    {
-      "id": "4939565",
-      "time": "2026-06-17 09:19:19",
-      "tags": [
-        "公司"
-      ],
-      "text": "【賽微電子：公司亦莊MEMS量產線目前產能為1.5萬片/月】賽微電子6月17日在互動平臺表示，公司亦莊MEMS量產線目前產能為1.5萬片/月，公司將大力擴大晶圓類別及客戶領域，持續不斷推動促進公司本土FAB的建設運營、業務發展及業績增長，並將繼續適時有序的推動產能從當前的1.5萬片/月向3萬片/月產能的分階段針對性擴充。"
-    },
-    {
-      "id": "4939564",
-      "time": "2026-06-17 09:19:16",
-      "tags": [
-        "其他"
-      ],
-      "text": "【美軍稱在東太平洋打擊“販毒船”致1人死亡】美軍南方司令部16日發表宣告說，美軍當天在東太平洋對一艘“販毒船”發動打擊，船上1人死亡。宣告說，根據美軍南方司令部司令弗朗西斯·多諾萬的命令，美軍“南方之矛”聯合特遣部隊對一艘由“被認定的恐怖組織”運營的船隻實施打擊，打死船上1名男性，無美軍人員傷亡。"
-    },
-    {
-      "id": "4939563",
-      "time": "2026-06-17 09:18:21",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "日本20年期國債收益率下跌5個基點至3.485%。"
     }
   ]
 }
