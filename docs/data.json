@@ -1,7 +1,215 @@
 {
-  "updated": "2026-06-24 17:48:11",
-  "count": 17262,
+  "updated": "2026-06-24 17:56:19",
+  "count": 17263,
   "items": [
+    {
+      "id": "4952442",
+      "time": "2026-06-24 17:55:39",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【園林股份：股票交易異常波動 不存在應披露未披露重大事項】園林股份公告稱，公司股票於2026年6月22日、6月23日、6月24日連續三個交易日內收盤價格跌幅偏離值累計超20%，屬異常波動。經自查並向控股股東、實控人核實，截至公告披露日，公司生產經營正常，不存在應披露而未披露的重大資訊，未發現對股價有重大影響的媒體報道或市場傳聞，相關人員在此期間無買賣公司股票情況。提醒投資者理性投資，注意風險。"
+    },
+    {
+      "id": "mkt:019ef90e-10a6-7dd8-b0f4-8e3d280335ab",
+      "time": "2026-06-24 17:55:08",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Netanyahu ends testimony in corruption trial; case moves to defense‑witness phase】On the 24th Israeli Prime Minister Benjamin Netanyahu completed his testimony at the Tel Aviv District Court, ending a roughly 18‑month testimony phase that comprised 98 hearings. Prosecutors had cross‑examined him on cases known as 1000, 2000 and 4000; Netanyahu denied all charges. The presiding judge said the trial will transfer back to the Jerusalem District Court and proceed to the defense‑witness stage; Netanyahu’s team plans to call 100 defense witnesses and other co‑defendants are expected to testify."
+    },
+    {
+      "id": "te:economy:561485",
+      "time": "2026-06-24 17:54:46",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "South Africa",
+        "Government Bond 10Y",
+        "Importance 0"
+      ],
+      "text": "South Africa 10-Year Bond Yield at Near 2-Week High — South Africa’s 10-year government bond yield was around 8.51%, a near two-week high, supported by expectations of policy tightening. SARB Governor Lesetja Kganyago signalled that additional interest rate hikes may be on the horizon, as the global energy shock linked to the Middle East conflict shows signs of spreading across the broader economy. Core inflation, which excludes food and fuel, rose to 3.8% in May from 3.6%, while headline inflation accelerated to 4.5% from 4%. While the signing of the interim US-Iran agreement helped ease energy-driven inflation concerns, uncertainty persisted, with risks extending beyond fuel to food prices due to higher fertiliser costs. Kganyago noted that fertiliser price effects would be more visible in the second half of the year during the planting season, as they feed directly into food prices and may have a longer-lasting impact. Against this backdrop, traders are pricing in a higher chance of a 25bps rate hike in July."
+    },
+    {
+      "id": "4952441",
+      "time": "2026-06-24 17:54:40",
+      "tags": [
+        "公司"
+      ],
+      "text": "【古鰲科技：擬對控股子公司昊元古減資3.71億元】古鰲科技公告稱，2026年6月24日公司召開董事會，審議透過對控股子公司昊元古減資的議案。鑑於昊元古出售新存科技股權事項完成且收到全部轉讓款4.19億元，公司根據經營及戰略需求，同意昊元古註冊資本從3.98億元減至2688萬元，減資3.71億元。本次減資尚需股東會審議，減資後昊元古仍為控股子公司，出資比例不變，不影響公司財務和經營狀況。"
+    },
+    {
+      "id": "4952440",
+      "time": "2026-06-24 17:54:15",
+      "tags": [
+        "公司",
+        "市場",
+        "焦點"
+      ],
+      "text": "中央國債登記結算有限責任公司關於釋出民營企業再貸款業務操作指引的通知。"
+    },
+    {
+      "id": "mkt:019ef90d-3267-7dd8-b0f4-842b5625cdf8",
+      "time": "2026-06-24 17:54:12",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "China Central Depository & Clearing Co., Ltd. issued a notice releasing operational guidelines for re-lending operations to private enterprises."
+    },
+    {
+      "id": "4952439",
+      "time": "2026-06-24 17:53:38",
+      "tags": [
+        "公司"
+      ],
+      "text": "【商務部新聞發言人就進一步完善戰略礦產兩用物項出口管制違法違規行為舉報處理工作答記者問】有記者問：我們注意到商務部發布公告，進一步完善戰略礦產兩用物項出口管制違法違規行為舉報處理工作，請問有什麼考慮？ 答：《中華人民共和國出口管制法》第三十一條規定，對涉嫌違法違規行為，任何組織和個人有權向國家出口管制管理部門舉報。進一步做好戰略礦產兩用物項舉報處理工作，提升執法能力，是完善出口管制體系的基本要求，也是維護國家安全和利益的正常舉措。同時，發揮舉報對出口管制違法違規行為的監督作用是國際通行做法，世界許多國家都有相關規定，借鑑各國經驗完善我國戰略礦產兩用物項出口管制舉報制度，可以有效避免相關物項被用於非法用途，更好維護世界和平，展現中國作為負責任大國擔當。此前，我們已就舉報處理工作開展了相關實踐，有必要進一步明確舉報方式和內容等，更好進行線索處置。後續，相關部門將依法依規開展舉報處理工作，保障合規貿易企業的合法權益。（商務部）"
+    },
+    {
+      "id": "mkt:019ef90c-6954-7dd8-b0f4-7a9c77eb7c9a",
+      "time": "2026-06-24 17:53:20",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "005930.KS",
+        "000660.KS"
+      ],
+      "text": "South Korea has postponed a plan to launch weekly single-stock options on SK Hynix and Samsung Electronics that had been scheduled for June 29, people familiar with the matter said."
+    },
+    {
+      "id": "4952438",
+      "time": "2026-06-24 17:53:14",
+      "tags": [
+        "其他"
+      ],
+      "text": "大華銀行將於 7 月 1 日成立科技委員會，統籌數字化戰略。"
+    },
+    {
+      "id": "te:markets:561484",
+      "time": "2026-06-24 17:52:57",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Heating Oil Falls to 3-1/2-Month Low as Supply Fears Ease — US heating oil prices fell below $3.20 a gallon, marking their lowest level since early March and a decline of more than 30% from the record high of $4.608 reached on March 20. This downward trend mirrors a sharp retreat in crude prices, driven by increased tanker traffic through the Strait of Hormuz, temporary relief from Iranian sanctions, and the progress of US-Iran peace talks. To contain energy costs, the White House waived the Jones Act and tapped the Strategic Petroleum Reserve. However, the market remains tight because the US operates as a global supplier of last resort, pushing domestic diesel inventories to seasonal lows. Prices are still above the pre-war level of $2.596, and prospective Russian export bans could spark renewed upward pressure. Meanwhile, President Donald Trump ordered a Department of Justice investigation into gasoline prices, which he claims are not falling quickly enough."
+    },
+    {
+      "id": "4952437",
+      "time": "2026-06-24 17:52:52",
+      "tags": [
+        "公司"
+      ],
+      "text": "【廣東明珠：控股股東及其一致行動人合計減持1.90%股份】廣東明珠公告稱，2026年6月16日-23日，興寧市金順安投資有限公司透過集中競價交易方式累計減持公司股份1317.8萬股，佔公司總股本的1.90%，其持股比例由10.28%降至8.38%。控股股東深圳市金信安投資有限公司及其一致行動人合計持股比例由30.00%降至28.10%。本次權益變動不觸及要約收購，不會導致控股股東、實控人變化，未違反相關規定及承諾。"
+    },
+    {
+      "id": "4952436",
+      "time": "2026-06-24 17:52:43",
+      "tags": [
+        "其他"
+      ],
+      "text": "【法國西部高溫致約6.8萬戶家庭停電】法國西部菲尼斯泰爾省政府24日說，受高溫天氣影響，23日晚該省南部一處變電裝置發生事故，導致約6.8萬戶家庭停電。（新華社）"
+    },
+    {
+      "id": "mkt:019ef90b-6634-7dd8-b0f4-76f04556672a",
+      "time": "2026-06-24 17:52:14",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "Europe & UK"
+      ],
+      "text": "【China Commerce Vice Minister Ling Ji meets European Commission deputy DG Lei Dongnei】On June 23, China Commerce Vice Minister and Deputy Representative for International Trade Negotiations Ling Ji met visiting European Commission Deputy Director-General Lei Dongnei to exchange views on preparations for the inaugural meeting of the China-EU trade and investment consultations mechanism."
+    },
+    {
+      "id": "4952435",
+      "time": "2026-06-24 17:51:44",
+      "tags": [
+        "其他"
+      ],
+      "text": "挪威GASSCO將計劃停產影響量從每日減少270萬立方米修正為每日減少210萬立方米，日期從10月14日至19日調整為10月14日至26日。"
+    },
+    {
+      "id": "4952434",
+      "time": "2026-06-24 17:51:25",
+      "tags": [
+        "公司"
+      ],
+      "text": "【邁威生物：9MW5211注射液多發性硬化適應症臨床試驗獲批】邁威生物公告稱，公司收到國家藥監局核准簽發的《藥物臨床試驗批准通知書》，9MW5211注射液用於多發性硬化適應症的臨床試驗申請獲批。此外，其用於炎症性腸病適應症的臨床試驗申請已分別獲國家藥監局批准和FDA許可，公司正推進其他多個適應症臨床試驗申請，部分已獲受理。因藥品研發週期長、審批環節多，受不確定因素影響大，提醒投資者注意風險。"
+    },
+    {
+      "id": "4952433",
+      "time": "2026-06-24 17:50:55",
+      "tags": [
+        "國際"
+      ],
+      "text": "【內塔尼亞胡結束貪腐案本人作證 案件將進入下一階段】當地時間24日，以色列總理內塔尼亞胡在特拉維夫地方法院結束了其涉嫌貪腐案庭審中的本人作證。該階段歷時約一年半，共計98次庭審。當地媒體稱，這被認為創下以色列刑事審判史上被告作證時間最長紀錄。在此前的交叉詢問中，檢方圍繞內塔尼亞胡所涉“1000號案”“2000號案”和“4000號案”對其進行詢問。在24日的庭審中，其辯護律師宣佈結束對內塔尼亞胡的復問，標誌著作為核心被告的內塔尼亞胡本人作證環節全面結束。在整個作證期間，內塔尼亞胡對所有指控均予以否認。在結束作證前的發言中，內塔尼亞胡指責檢方誤導其作證，並批評執法和司法系統，稱這場歷時多年的調查和審判是出於政治動機、意在阻止選民選擇其領導人的“政治迫害”。內塔尼亞胡稱，過去這些年是“10年地獄般的生活”，雖然無法追回這段時間，但“可以還原真相”。隨著作證階段結束，主審法官宣佈，後續庭審將從特拉維夫轉移回耶路撒冷地方法院繼續進行。根據程式，案件接下來將進入辯方證人作證階段。內塔尼亞胡的辯護團隊計劃傳喚100名辯方證人出庭。其他同案被告預計也將出庭作證。2016年底，以色列警方正式對內塔尼亞胡相關腐敗指控展開刑事調查。2020年初，以色列檢方以受賄、欺詐和違背公眾信任3項指控正式起訴內塔尼亞胡。同年5月，法院首次開庭審理該案，內塔尼亞胡成為首位接受司法審理的在任以色列總理。2024年12月10日，內塔尼亞胡首次就腐敗案出庭作證。自審理啟動以來，內塔尼亞胡多次以戰事、外訪、健康等理由請求取消聽證會或推遲作證。（央視新聞）"
+    },
+    {
+      "id": "4952432",
+      "time": "2026-06-24 17:50:05",
+      "tags": [
+        "公司"
+      ],
+      "text": "【江西齊雲山食品股份有限公司透過港交所上市聆訊】利弗莫爾證券顯示，江西齊雲山食品股份有限公司更新聆訊後資料集，意味著該公司港交所IPO透過聆訊。"
+    },
+    {
+      "id": "4952431",
+      "time": "2026-06-24 17:49:51",
+      "tags": [
+        "公司"
+      ],
+      "text": "【海螺水泥：收購海螺設計院100%股權，收購代價為人民幣5.62億元】海螺水泥公告，公司與海螺集團簽訂股權轉讓協議，以人民幣5.62億元收購海螺集團持有的海螺設計院100%股權。此次交易完成後，海螺設計院將成為海螺水泥的全資附屬公司。"
+    },
+    {
+      "id": "4952430",
+      "time": "2026-06-24 17:49:31",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【中國建築：下屬子公司中建地產（新加坡）有限公司與馬來西亞雙威集團合作開發新加坡裡峇峇利埔C地段住宅地塊房地產專案】中國建築公告，下屬子公司中建地產（新加坡）有限公司與馬來西亞雙威集團下屬子公司Sunway MCL Limited合作開發新加坡裡峇峇利埔C地段住宅地塊房地產專案。專案位於新加坡核心中央區裡峇峇利區域，為住宅用地，總佔地面積約1.15萬平方米，總計容建築面積約4.03萬平方米，專案預計總投資約66.14億元人民幣。中建地產（新加坡）將與Sunway MCL按照40%:60%的股權比例成立合資專案公司實施專案開發，雙方聯合操盤。"
+    },
+    {
+      "id": "4952429",
+      "time": "2026-06-24 17:49:25",
+      "tags": [
+        "公司"
+      ],
+      "text": "【龍建股份：簽署17.38億元本溪至莊河高速3標段施工合同】龍建股份公告稱，公司與遼寧交投本莊高速公路有限責任公司簽署《本溪至莊河高速公路第3標段施工承包合同》，簽約合同價17.38億元（含3%暫列金額、增值稅，稅率9%）。專案為路基路面綜合類，公路等級為高速公路，計劃工期1225日曆天，缺陷責任期為交工驗收後24個月。合同在承包人提供符合要求的履約保證金，各方法定代表人簽署並加蓋單位章後生效。"
+    },
+    {
+      "id": "4952428",
+      "time": "2026-06-24 17:49:17",
+      "tags": [
+        "其他",
+        "焦點"
+      ],
+      "text": "【習近平在山東德州考察】中共中央總書記、國家主席、中央軍委主席習近平24日在山東省德州市考察時強調，農業農村現代化關係中國式現代化全域性和成色，要以紮實舉措做好各項工作，著力提升農業綜合生產能力和質量效益，確保糧食等重要農產品穩定供給，因地制宜推進宜居宜業和美鄉村建設，引導廣大農民群眾用勤勞和智慧創造更加美好生活。（央視新聞）"
+    },
+    {
+      "id": "mkt:019ef908-95be-7dd8-b0f4-6c8e2aef8072",
+      "time": "2026-06-24 17:49:09",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "BILI.O",
+        "Impact bullish"
+      ],
+      "text": "Bilibili (BILI.O) U.S. premarket shares rose 2.4% after the company announced a new $300 million share repurchase program."
+    },
+    {
+      "id": "4952427",
+      "time": "2026-06-24 17:47:40",
+      "tags": [
+        "公司"
+      ],
+      "text": "【東陽光：控股子公司東莞雲智算與秦陽公司簽署預計不超過2億元的IDC服務合同】東陽光公告，公司控股子公司東莞雲智算與關聯方慶陽秦陽資訊科技有限公司簽署《IDC服務合同》，預計12個月內採購相關IDC服務專案費用合計不超過2億元。此次交易構成關聯交易，但不構成重大資產重組。交易已獲董事會審議透過，無需提交股東會審議。"
+    },
     {
       "id": "mkt:019ef907-15ae-7dd8-b0f4-62ac82af1cc0",
       "time": "2026-06-24 17:47:31",
@@ -157706,208 +157914,6 @@
         "公司"
       ],
       "text": "【陽光100中國：清盤呈請聆訊延期至2026年10月16日】陽光100中國公告，公司此前已披露針對公司的清盤呈請。2026年5月29日，高等法院根據呈請人及公司於2026年5月27日提交的同意傳票，下令取消原定於2026年6月22日舉行的聆訊，實質聆訊已定於2026年10月16日舉行。"
-    },
-    {
-      "id": "4940691",
-      "time": "2026-06-17 17:56:13",
-      "tags": [
-        "市場",
-        "央行",
-        "國際"
-      ],
-      "text": "【彭博經濟研究：歐元區核心通脹率上修 增加了央行9月加息的理由】歐元區5月份的通脹終值顯示，當月通脹上升主要受旅遊服務價格推動。儘管這些波動較大的專案不太能夠反映潛在成本壓力，但歐洲央行中的鷹派可能會辯稱，核心通脹的上修進一步證明能源衝擊引發的通脹影響正在蔓延。彭博經濟研究仍然預計歐洲央行會在9月實施本輪最後一次加息，而這份資料會為這一預期行動提供更多依據。然而，如果旅遊服務價格的強勁上漲只是暫時的，而且美伊達成協議的訊息引發的大宗商品價格回落能夠持續，那麼我們對利率走勢的預測將面臨下行風險。5月通脹修正資料證實，當月整體通脹率從4月的3.0%加速至3.2%。上升主要受旅遊服務價格推動——當月機票價格和包價旅遊價格分別額外貢獻了0.1個百分點。。相比之下，核心通脹率從初值的2.5%上修至2.6%，漲幅較4月的2.2%擴大。鑑於該指標所涵蓋的商品和服務籃子範圍較窄，機票和包價旅遊的影響顯得尤為顯著。展望未來，彭博經濟研究預計，由於二次效應仍較為有限，能源衝擊對核心通脹的影響將較為溫和。我們預測，2026年第三季度月均核心通脹率將從2026年第二季度的2.2%降至2.0%。受大宗商品價格走低影響，整體通脹率可能也會放緩。歐洲央行的經濟學家認為，能源衝擊對通脹的影響比我們預期的更為廣泛。即使在其“較溫和情景”下，核心通脹率仍將在2026年第四季度至2027年第一季度達到2.6%的峰值，並在預測期結束時（即2028年第四季度）維持在2.1%——仍略高於2%的目標。在此情景下，整體通脹率將在2026年第二季度至2026年第三季度於3.2%見頂，要到2027年第二季度才會降至2%目標以下，屆時基數效應將推動整體通脹率降至1.6%。目前，油價比該情景假設的水平每桶低約10美元，因此這些整體通脹預測資料面臨的風險偏向下行。天然氣價格則與該情景的假設基本一致。"
-    },
-    {
-      "id": "4940690",
-      "time": "2026-06-17 17:55:20",
-      "tags": [
-        "國際"
-      ],
-      "text": "以色列國防軍：初步通報扎裡特地區響起敵方飛行器入侵警報，相關情況正在核查中。"
-    },
-    {
-      "id": "4940689",
-      "time": "2026-06-17 17:55:03",
-      "tags": [
-        "公司"
-      ],
-      "text": "【ST合縱：終止與專業機構3億元共同投資計劃】ST合縱公告稱，公司於2026年6月16日召開董事會，審議透過終止與專業投資機構共同投資的議案。2024年11月，公司擬作為有限合夥人，以3億元認繳貴安新區零度諮詢管理合夥企業76.9231%的合夥份額，截至公告披露日，尚未實繳出資。鑑於市場變化、自身經營不佳、資金不足，公司決定終止投資，後續將配合完成清算、登出程式，此次終止對公司無實質性不利影響。"
-    },
-    {
-      "id": "4940688",
-      "time": "2026-06-17 17:54:24",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "【城堡證券警示 9 月存在加息風險】城堡證券表示，通脹表現比預期更具粘性，市場或低估美聯儲加息風險。薪資增速強勁、內需韌性十足、供應鏈承壓疊加人工智慧投資熱潮，持續推高物價壓力。預測市場風向已發生轉變，交易員愈發押注美聯儲下一步舉措或將是加息。"
-    },
-    {
-      "id": "4940687",
-      "time": "2026-06-17 17:53:48",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "【發改委價格監測中心主任劉五星帶隊赴貴州調研算力中心供用電及價格情況】為深入瞭解貴州省電力市場建設情況、加強電力市場與算力產業聯動發展研究，6月10~12日，發改委價格監測中心主任劉五星帶隊赴貴州省電力交易中心、中國移動貴安大資料中心開展工作調研，就貴州省電力交易機制與電價形成規律，“東數西算”工程算力中心的電力消費模式及其與電力市場協同互動情況等內容開展深入交流，並徵求了有關單位對加強算力中心用能監測、最佳化電力資源配置及完善電價政策的建議。"
-    },
-    {
-      "id": "4940686",
-      "time": "2026-06-17 17:53:18",
-      "tags": [
-        "其他"
-      ],
-      "text": "【盧浮宮館長稱博物館“不堪重負” 面臨巨大翻新壓力】當地時間6月17日，法國盧浮宮博物館館長勒裡博在參議院委員會聽證會上表示，盧浮宮的許多裝置和基礎設施已接近使用週期末期。他指出，去年10月19日法國王室珠寶失竊事件暴露出博物館安保體系存在漏洞，也反映出裝置現代化改造長期滯後的問題。勒裡博表示，盧浮宮正處於發展的關鍵節點，建築維護需求不斷累積，未來將面臨鉅額投資壓力，“這顯然不是人們願意聽到的訊息”。他透露，為配合盧浮宮一處展館的翻修工程，館方將不得不轉移超過1萬件古希臘陶器藏品。（央視新聞）"
-    },
-    {
-      "id": "mkt:019ed4ff-5a3f-7dd8-b04b-bb9ff940bc0d",
-      "time": "2026-06-17 17:52:44",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK",
-        "GBPUSD",
-        "Impact bearish",
-        "DXY",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "【Fitch: Bank of England likely to hold rates through 2026, resume cuts in 2027】Fitch economist Jessica Hinds says May headline inflation was 2.8% and this week’s sharp fall in oil prices gives Bank of England policymakers scope to keep rates on hold. She warns next month’s 13% Ofgem price-cap rise will lift H2 inflation, but if the oil decline persists it should prevent a further rise in inflation expectations. Combined with a weakening labour market, Fitch expects rates to remain unchanged through 2026 with easing resuming in 2027."
-    },
-    {
-      "id": "mkt:019ed4ff-00ba-7dd8-b04b-b180455b783d",
-      "time": "2026-06-17 17:52:22",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "【Suizhou (Hubei) aims to build China’s largest mobile emergency-equipment hub by 2030】Suizhou, Hubei, will push its special-purpose vehicle and emergency-equipment industries toward new-energy, intelligent, high-end and integrated manufacturing, and aims for industry output to exceed 100 bln yuan by 2030 to build China’s largest mobile emergency-equipment integrated base and consolidate a national-leading position. The city also plans upgrades in agricultural-product processing and metallurgical building materials, targeting industry clusters of about 100 bln yuan and 50 bln yuan, respectively."
-    },
-    {
-      "id": "te:economy:559698",
-      "time": "2026-06-17 17:52:13",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Namibia",
-        "Interest Rate",
-        "Importance 1"
-      ],
-      "text": "Namibia Lifts Key Policy Rate to 4.75% — The Bank of Namibia raised its benchmark repo rate by 25 bps to 6.575% during its May 2026 meeting, after keeping it unchanged for three consecutive meetings at 6.50%. The policy stance was deemed appropriate to mitigate inflationary risks, support international reserves, and safeguard the one-to-one link between the Namibian dollar and the South African rand. In its assessment, the MPC noted rising global and domestic inflationary pressures in the near term, despite the US-Iran peace agreement, alongside subdued domestic economic activity and sluggish private sector credit growth."
-    },
-    {
-      "id": "4940685",
-      "time": "2026-06-17 17:52:12",
-      "tags": [
-        "國際"
-      ],
-      "text": "【外交部：日方調查處置闖館事件程序緩慢】針對日本自衛隊現役官員村田晃大非法持刀闖入中國駐日本使館，日本東京地方檢察廳決定延長對村田的鑑定留置時間，繼續調查其是否具備刑事責任能力。外交部發言人林劍17日對此表示，案件發生已經過去將近3個月，日方調查處置程序緩慢，威脅中國駐日使領館安全的惡性事件還在不斷髮生，中方嚴重不滿並已多次提出交涉。（新華社）"
-    },
-    {
-      "id": "4940684",
-      "time": "2026-06-17 17:51:48",
-      "tags": [
-        "其他"
-      ],
-      "text": "【湖北隨州力爭2030年建成全國最大的移動應急裝備綜合基地】6月17日，湖北舉行開局起步“十五五” 加力奮進建支點系列新聞釋出會隨州專場。隨州將推動專汽和應急產業向新能化、智慧化、高階化、融合化轉型，力爭2030年產業產值突破1000億元，建成全國最大的移動應急裝備綜合基地，鞏固全國領先優勢。升級農產品加工、冶金建材等傳統業態，力爭產業叢集分別達到1000億元、500億元能級。"
-    },
-    {
-      "id": "4940683",
-      "time": "2026-06-17 17:51:26",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "【浙江：加大數字經濟核心產業金融支援】一方面，重點是用好科技創新和技術改造再貸款，加強對科技創新和大規模裝置更新的金融服務。緊抓人民銀行總行增加再貸款額度、擴大支援科技創新和裝置更新的企業範圍、擴大支援行業領域等契機，加力對電子資訊、人工智慧等領域的信貸支援。另一方面，加大財政金融協同，積極推動符合條件的科技創新和技術改造貸款同時可享受中央財政貼息支援。下一步，人民銀行浙江省分行將持續抓好工具的落地見效，支援新質生產力發展。（央行）"
-    },
-    {
-      "id": "4940682",
-      "time": "2026-06-17 17:51:13",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "【浙江：深化“人工智慧+金融”應用】緊扣浙江省“人工智慧+”行動部署，在“人工智慧+金融”領域，力爭形成一批創新應用典型案例。建設金融領域人工智慧高質量資料集，將涵蓋個人信用服務、企業科創金融等重點領域的資料資源，作為金融服務實體經濟的重要支撐。開展金融領域“資料要素×”試點。強化金融科技創新監管工具引領，推動9個“數字金融”領域的專案納入監管沙盒測試。(央行)"
-    },
-    {
-      "id": "4940681",
-      "time": "2026-06-17 17:50:31",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "韓國總統辦公室訊息：韓國總統李在明在七國集團峰會期間與美國總統特朗普短暫會面。"
-    },
-    {
-      "id": "te:markets:559697",
-      "time": "2026-06-17 17:50:21",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 0"
-      ],
-      "text": "Brent Falls as US-Iran Deal Boosts Supply Hopes — Brent crude oil was below $79 per barrel on Wednesday, hovering at its lowest level since early March amid expectations of a US-Iran deal that could rapidly add supply back to the global market. The potential interim agreement, expected to be signed Friday, could allow Tehran to resume oil exports immediately and ease restrictions on shipping through the Strait of Hormuz, prompting tanker operators to reposition vessels toward the region. The release of more than 100 oil-laden ships currently stuck in the Gulf could further boost supply. The International Energy Agency warned that the conflict may cause a larger-than-expected demand hit and contribute to a renewed global oil surplus. Brent prices have fallen nearly 40% from their conflict peak as geopolitical risk fades. The decline is also easing inflation concerns, with lower fuel prices helping consumers. However, US crude inventories continued to fall, with an industry estimate showing an 8.3 million-barrel draw last week."
-    },
-    {
-      "id": "4940680",
-      "time": "2026-06-17 17:50:01",
-      "tags": [
-        "公司"
-      ],
-      "text": "據港交所檔案：北京融信數聯科技股份有限公司向港交所提交上市申請書。"
-    },
-    {
-      "id": "4940679",
-      "time": "2026-06-17 17:49:34",
-      "tags": [
-        "公司"
-      ],
-      "text": "【信立泰：首次以3003.12萬元回購0.09%公司股份】信立泰公告，公司於2026年6月17日首次透過回購專用證券賬戶以集中競價交易方式回購公司股份99.96萬股，佔公司目前總股本的0.09%、最高成交價為30.19元/股，最低成交價為29.98元/股，成交總金額為3003.12萬元（不含交易費用）。"
-    },
-    {
-      "id": "te:markets:559696",
-      "time": "2026-06-17 17:49:27",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 2"
-      ],
-      "text": "Oil Falls as US-Iran Deal Boosts Supply Hopes — Crude oil was below $76 per barrel on Wednesday, hovering at its lowest level since early March amid expectations of a US-Iran deal that could rapidly add supply back to the global market. The potential interim agreement, expected to be signed Friday, could allow Tehran to resume oil exports immediately and ease restrictions on shipping through the Strait of Hormuz, prompting tanker operators to reposition vessels toward the region. The release of more than 100 oil-laden ships currently stuck in the Gulf could further boost supply. The International Energy Agency warned that the conflict may cause a larger-than-expected demand hit and contribute to a renewed global oil surplus. Crude prices have fallen nearly 40% from their conflict peak as geopolitical risk fades. The decline is also easing inflation concerns, with lower fuel prices helping consumers. However, US crude inventories continued to fall, with an industry estimate showing an 8.3 million-barrel draw last week."
-    },
-    {
-      "id": "4940678",
-      "time": "2026-06-17 17:49:16",
-      "tags": [
-        "公司"
-      ],
-      "text": "【旗濱集團：未針對晶片封裝玻璃專案投資建設量產產線，不存在量產業務及對應營收】旗濱集團釋出股價異動公告，公司正在商議籌劃向特定物件發行股票事項。截至目前，公司向特定物件發行股票方案尚處在籌劃階段，相關方案尚在論證中，該事項存在重大不確定性，公司目前不存在應披露而未披露的重大資訊。截至目前，公司未針對晶片封裝玻璃專案投資建設量產產線，不存在量產業務及對應營收。未來該業務在公司的產業化程序存在重大不確定性。"
-    },
-    {
-      "id": "4940677",
-      "time": "2026-06-17 17:48:37",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【中埃“新希望”養殖技術培訓第二期在埃及啟動】當地時間16日，中國駐埃及大使館與埃及全國民間發展行動聯盟、新希望公司在埃及吉薩省聯合舉辦中埃“新希望”養殖技術培訓第二期啟動儀式。（新華社）"
-    },
-    {
-      "id": "4940676",
-      "time": "2026-06-17 17:48:27",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：烏克蘭武裝部隊在布良斯克州襲擊了一輛載有來自白俄羅斯兒童的巴士。"
-    },
-    {
-      "id": "4940675",
-      "time": "2026-06-17 17:48:17",
-      "tags": [
-        "其他"
-      ],
-      "text": "【英國駐華大使魏磊訪問延安、梁家河】6月17日，受中聯部邀請，英國駐華大使魏磊（Peter Wilson）參訪延安、梁家河。魏磊也是二十大以來首位參觀訪問梁家河的西方國家駐華大使。（澎湃）"
     }
   ]
 }
