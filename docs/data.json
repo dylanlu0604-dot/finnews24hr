@@ -1,7 +1,239 @@
 {
-  "updated": "2026-06-24 21:29:09",
-  "count": 17263,
+  "updated": "2026-06-24 21:33:13",
+  "count": 17261,
   "items": [
+    {
+      "id": "mkt:019ef9d5-5f4a-7dd8-b0fb-2562a6a53207",
+      "time": "2026-06-24 21:32:50",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Bilibili (BILI.O) shares rose 2.9% after the company announced a new $300 million share repurchase program."
+    },
+    {
+      "id": "4952941",
+      "time": "2026-06-24 21:32:34",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "聚丙烯連續主力合約日內跌3%，現報7135.00元。"
+    },
+    {
+      "id": "mkt:019ef9d4-bc61-7dd8-b0fb-1945938e0d46",
+      "time": "2026-06-24 21:32:09",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bearish"
+      ],
+      "text": "【WTI crude futures slip below $70/bbl】WTI crude futures slipped below $70/bbl, down 4.40% on the day."
+    },
+    {
+      "id": "4952940",
+      "time": "2026-06-24 21:32:03",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "Take-Two Interactive軟體公司將《俠盜獵車手6》定價為79.99美元，並確認將於11月19日如期發售，訊息公佈後該公司股價上漲1%。"
+    },
+    {
+      "id": "mkt:019ef9d4-4fd3-7dd8-b0fb-12efbf0bec68",
+      "time": "2026-06-24 21:31:41",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Wall Street (US)",
+        "Dow",
+        "Impact bearish",
+        "S&P500",
+        "Impact bullish",
+        "Nasdaq100"
+      ],
+      "text": "U.S. equities opened mixed on Wednesday, June 24: Dow Jones Industrial Average opened down 18.65 points (-0.04%) at 51,648.19; S&P 500 opened up 12.68 points (+0.17%) at 7,378.14; Nasdaq Composite opened up 36.90 points (+0.14%) at 25,623.94."
+    },
+    {
+      "id": "mkt:019ef9d4-1f83-7dd8-b0fb-09942846183b",
+      "time": "2026-06-24 21:31:28",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Wall Street (US)",
+        "AVGO.O",
+        "Impact bullish",
+        "MU.O",
+        "SPCX.O",
+        "Impact bearish"
+      ],
+      "text": "US open: Dow Jones flat, S&P 500 +0.1%, Nasdaq +0.15%. Broadcom (AVGO.O) +1% after the company and OpenAI unveiled an AI chip aimed at running models faster and more cheaply. Micron Technology (MU.O) +0.5% ahead of its Q3 results. SpaceX (SPCX.O) -0.98% at the open."
+    },
+    {
+      "id": "4952939",
+      "time": "2026-06-24 21:31:25",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：俄羅斯向哈薩克尋求汽油供應以緩解國內短缺。"
+    },
+    {
+      "id": "4952938",
+      "time": "2026-06-24 21:31:12",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "嗶哩嗶哩美國上市股票在公司宣佈新的3億美元股票回購計劃後上漲2.9%。"
+    },
+    {
+      "id": "4952937",
+      "time": "2026-06-24 21:31:04",
+      "tags": [
+        "觀點"
+      ],
+      "text": "Taktile 完成 1.1 億美元 C 輪融資，高盛領投。"
+    },
+    {
+      "id": "4952936",
+      "time": "2026-06-24 21:30:48",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【美股開盤：三大股指漲跌不一】道指跌0.04%，標普500指數漲0.09%，納指漲0.05%。皇家加勒比郵輪漲3.31%，Builders FirstSource漲3.22%，繽客漲3.00%，紐曼礦業跌4.32%，麥克莫蘭銅金跌3.57%，阿帕奇公司跌3.51%。“七姐妹”方面：谷歌漲1.06%，英偉達漲0.20%，特斯拉漲0.05%，亞馬遜跌0.13%，蘋果跌0.22%，Meta Platforms跌0.43%，微軟跌0.50%。"
+    },
+    {
+      "id": "4952935",
+      "time": "2026-06-24 21:30:39",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "博通股價在OpenAI與該公司推出大語言模型最佳化智慧處理器後上漲1.3%。"
+    },
+    {
+      "id": "4952934",
+      "time": "2026-06-24 21:30:36",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "WTI原油失守70美元/桶，日內跌4.40%。"
+    },
+    {
+      "id": "4952933",
+      "time": "2026-06-24 21:30:24",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "多倫多股票交易所S&P/TSX綜合指數<.GSPTSE>開盤下跌109.10點，跌幅0.31%，報34818.28點。"
+    },
+    {
+      "id": "mkt:019ef9d3-1343-7dd8-b0fb-006de6fad70e",
+      "time": "2026-06-24 21:30:20",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "China SC2608 crude futures tumbled intraday, losses widening to 3.97% at 469.7 yuan/barrel; turnover about 4.51 bln yuan. Open interest fell nearly 400 contracts, leaving positions slightly lower."
+    },
+    {
+      "id": "te:markets:561553",
+      "time": "2026-06-24 21:30:02",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "commodity",
+        "Importance 0"
+      ],
+      "text": "GSCI Hits 16-week Low — GSCI decreased to 613.30 Index Points, the lowest since March 2026. Over the past 4 weeks, GSCI Commodity Index lost 13.84%, and in the last 12 months, it increased 13.17%."
+    },
+    {
+      "id": "mkt:019ef9d2-b3fb-7dd8-b0fa-ffe18e7659e0",
+      "time": "2026-06-24 21:29:55",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "Interfax: Russian deputy prime minister ordered priority allocation of fuel to regions affected by seasonal factors."
+    },
+    {
+      "id": "4952932",
+      "time": "2026-06-24 21:29:50",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【旭光電子：10個交易日股價漲幅超100% 提示交易風險】旭光電子公告稱，2026年6月10日至6月24日，公司股票連續10個交易日收盤價格漲幅偏離值累計超100%，累計漲幅達102.76%，屬嚴重異常波動。公司市盈率、市淨率明顯高於行業水平，近10個交易日換手率較高，期間已發3次異常波動公告、2次交易風險提示公告。公司在可控核聚變領域非產業鏈主導企業，年初至今相關產品訂單未交付實現收入，一季度氮化鋁產品營收佔比約5%。提醒投資者注意交易風險。"
+    },
+    {
+      "id": "mkt:019ef9d2-55c0-7dd8-b0fa-f09415eb9697",
+      "time": "2026-06-24 21:29:31",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "【WTI and Brent intraday losses widen to 4%】WTI crude down 4.00% intraday at $70.66/bbl; Brent crude down 4.00% intraday at $73.66/bbl."
+    },
+    {
+      "id": "4952931",
+      "time": "2026-06-24 21:29:23",
+      "tags": [
+        "其他"
+      ],
+      "text": "瑞士國防部長表示，第二套導彈防禦系統的訂單金額達數十億美元。"
+    },
+    {
+      "id": "4952930",
+      "time": "2026-06-24 21:29:12",
+      "tags": [
+        "公司",
+        "市場",
+        "觀點"
+      ],
+      "text": "【摩根大通策略師上調標普500指數年終目標至7800點】摩根大通策略師上調了標普500指數的年終目標價，指出該指數正逼近他們設定的理想情景。將標普500指數的年終目標從7600點上調至7800點，2026年每股收益(EPS)預期從330美元上調至350美元，“對於明年，我們仍持建設性看法，但預計每股收益為390美元（同比增長15%），這一數字低於當前的共識，反映了AI相關定價權減弱的風險”，以Dubravko Lakos-Bujas為首的策略師表示，他們本應對盈利增長前景持“更為樂觀”的態度，指出今年以來的市場共識盈利增長預期“已被上調至未來兩年平均約20%的水平，這與AI資本支出近乎翻倍的趨勢同步”。儘管Lakos-Bujas提高了他的年終目標價，但他強調，上漲之路“很可能是非線性的，因為市場需要克服各種障礙”，“連續強勁的盈利表現提高了市場在第二季度財報季前的預期門檻，使得企業在盈利和資本支出方面實現大幅超預期的難度增加”。"
+    },
+    {
+      "id": "te:markets:561552",
+      "time": "2026-06-24 21:28:41",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 2"
+      ],
+      "text": "Gold Below $4000 — Gold prices tumbled more than 3% to below $4,000 per ounce on Wednesday, hitting their lowest level since November 2025. The precious metal came under pressure from a stronger US dollar and growing expectations that the Fed will maintain a hawkish stance, with traders increasingly betting on an interest-rate increase later this year. Markets currently assign a roughly 68% probability of a Fed rate hike in September, up from 29% a week ago. Bullion is now down about 5% year-to-date and nearly 20% below its January record high, reached before the outbreak of the conflict involving Iran. Despite heightened geopolitical uncertainty, gold has struggled to retain its traditional safe-haven appeal during the war. A surge in oil prices has fueled inflation concerns, prompting major central banks to adopt a more restrictive monetary policy stance and increasing the opportunity cost of holding non-yielding assets such as gold."
+    },
+    {
+      "id": "4952929",
+      "time": "2026-06-24 21:28:36",
+      "tags": [
+        "其他"
+      ],
+      "text": "世衛組織總幹事譚德塞：埃博拉疫情擴散速度仍持續快於防控響應速度。"
+    },
+    {
+      "id": "4952928",
+      "time": "2026-06-24 21:28:28",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯副總理下令優先向物流受季節性因素影響的地區供應燃料。"
+    },
     {
       "id": "mkt:019ef9d1-45c2-7dd8-b0fa-e945b6a4239a",
       "time": "2026-06-24 21:28:22",
@@ -9,6 +241,15 @@
         "MKT News"
       ],
       "text": "PTA2609 futures weakened intraday, down 4.91% to 5,460 yuan; turnover exceeded 12.4 bln yuan. Traders cut positions by about 8,400 lots during the session, leaving open interest slightly lower."
+    },
+    {
+      "id": "4952927",
+      "time": "2026-06-24 21:28:14",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【多家銀行停辦代理貴金屬業務 金價保證金比例高至140%】又一家國有大行宣佈停辦代理貴金屬業務。工商銀行6月24日釋出公告稱，將於一個月後停辦代理上海黃金交易所（下稱“上金所”）個人貴金屬競價交易業務。此前，已有郵儲銀行、平安銀行等宣佈停辦相關業務。 去年以來，銀行在金價劇烈波動背景下頻頻強化風控，代理貴金屬業務“去槓桿”加速，近期已有銀行將保證金比例提升至140%。據第一財經記者瞭解，近年來，各銀行代理上金所貴金屬業務在監管引導下已大幅削減，各行規則調整主要影響的是存量業務客戶。在受訪業內人士看來，未來個人投資者參與貴金屬市場的渠道將更多轉向標準化低槓桿產品。（第一財經）"
     },
     {
       "id": "4952926",
@@ -62,6 +303,15 @@
         "公司"
       ],
       "text": "珞石（山東）機器人集團股份有限公司更新聆訊後資料集，意味著該公司港交所IPO透過聆訊。"
+    },
+    {
+      "id": "em:qqyh_ygyh:202606243781660121",
+      "time": "2026-06-24 21:24:07",
+      "tags": [
+        "央行",
+        "英國央行"
+      ],
+      "text": "交易員不再完全定價英國央行今年將加息25個基點。"
     },
     {
       "id": "mkt:019ef9cd-08e5-7dd8-b0fa-e0d1c50c5c11",
@@ -157712,260 +157962,6 @@
         "Impact bullish"
       ],
       "text": "US-listed UniQure shares rose 61% after the FDA cleared the company to file an application for its Huntington's disease gene therapy."
-    },
-    {
-      "id": "4941191",
-      "time": "2026-06-17 21:32:57",
-      "tags": [
-        "公司"
-      ],
-      "text": "【ST合縱：終止與專業機構共同投資事項】ST合縱(300477)6月17日公告，公司2024年11月披露擬與專業投資機構武漢零度資本投資管理有限公司及其他有限合夥人武漢光谷聯合諮詢合夥企業（有限合夥）共同出資設立貴安新區零度諮詢管理合夥企業（有限合夥）。公司作為有限合夥人，使用3億元認繳標的企業的合夥份額，佔比76.92%。截至目前，公司尚未實繳出資。鑑於目前市場環境發生變化，結合各合作方的實際情況，基於審慎使用資金的原則，為了降低投資風險及管理成本，經慎重考慮並經各合作方協商一致，公司決定終止此次共同投資。"
-    },
-    {
-      "id": "mkt:019ed5c8-8f69-7dd8-b052-82a764f624fb",
-      "time": "2026-06-17 21:32:31",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【China, Myanmar agree to deepen Lancang-Mekong cooperation, back 5th leaders' meeting】China and Myanmar issued a joint statement agreeing to strengthen Lancang‑Mekong cooperation and to support hosting the 5th Lancang‑Mekong leaders’ meeting. They pledged to jointly develop a Lancang‑Mekong Cooperation 2.0 framework to advance a regional community for peace and prosperity, and to step up mutual support and coordination on multilateral platforms including the United Nations, the Shanghai Cooperation Organization, ASEAN, the Bay of Bengal Initiative for Multi‑Sectoral Technical and Economic Cooperation (BIMSTEC) and the Irawaddy–Chao Phraya–Mekong three‑river basin economic cooperation strategic mechanism."
-    },
-    {
-      "id": "4941190",
-      "time": "2026-06-17 21:32:20",
-      "tags": [
-        "其他"
-      ],
-      "text": "【中緬聯合宣告：雙方同意加強瀾滄江-湄公河合作，支援辦好瀾湄合作第五次領導人會議】中華人民共和國和緬甸聯邦共和國關於加快構建中緬命運共同體的聯合宣告公佈。其中提出，雙方同意加強瀾滄江-湄公河合作，支援辦好瀾湄合作第五次領導人會議，攜手打造“瀾湄合作2.0版”框架，推動構建面向和平與繁榮的瀾湄國家命運共同體。雙方同意在聯合國、上海合作組織、東盟、“環孟加拉灣多領域經濟技術合作倡議”、“伊洛瓦底江-湄南河-湄公河三河流域經濟合作戰略機制”等多邊平臺加強相互支援和協作。（新華社）"
-    },
-    {
-      "id": "mkt:019ed5c8-6274-7dd8-b052-7cc8097a4d41",
-      "time": "2026-06-17 21:32:19",
-      "tags": [
-        "MKT News",
-        "CME.O",
-        "Impact bearish"
-      ],
-      "text": "CME Group shares fell 3.3%."
-    },
-    {
-      "id": "4941189",
-      "time": "2026-06-17 21:32:14",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "捷普股份開盤上漲9.8%，創下歷史新高。"
-    },
-    {
-      "id": "4941188",
-      "time": "2026-06-17 21:32:10",
-      "tags": [
-        "其他"
-      ],
-      "text": "【中緬聯合宣告：雙方繼續深化礦產、數字經濟、人工智慧等領域務實合作】中華人民共和國和緬甸聯邦共和國關於加快構建中緬命運共同體的聯合宣告公佈。其中提出，雙方同意繼續深化礦產、數字經濟、人工智慧等領域務實合作，最大程度實現經濟互補。雙方同意深化農林牧領域合作，簡化優質農產品檢疫准入流程，探討開展智慧海關舉措。雙方同意加強教育、文旅、衛生、青年、媒體、人力資源培訓等領域合作，增進兩國人民相互瞭解，助力兩國民生髮展。雙方注意到雙邊貿易取得穩步增長，應進一步擴大規模並提升多樣性。雙方同意實施人民幣-緬幣直接結算機制促進貿易，支援在農產品加工、石油和能源等涉及共同利益領域加強貿易投資合作。（新華社）"
-    },
-    {
-      "id": "4941187",
-      "time": "2026-06-17 21:32:01",
-      "tags": [
-        "宏觀",
-        "焦點",
-        "國際"
-      ],
-      "text": "【中緬聯合宣告：繼續發揮中緬油氣管道作用，穩妥推進電力聯網】中華人民共和國和緬甸聯邦共和國關於加快構建中緬命運共同體的聯合宣告公佈。其中提出，雙方重視並願適時商籤“一帶一路”合作規劃。雙方同意推進中緬經濟走廊建設，穩妥推進皎漂深水港、木姐-曼德勒鐵路等走廊重大專案合作。這些專案將遵循相互尊重、互利共贏、商業可行、財務可持續原則，並完全符合兩國法律法規和基本國情。雙方同意繼續發揮中緬油氣管道作用，穩妥推進電力聯網，探討構建經濟和環境可持續的能源合作伙伴關係。中方重申願就此持續提供支援，緬方對此表示感謝。（新華社）"
-    },
-    {
-      "id": "mkt:019ed5c8-16a0-7dd8-b052-77130622f65a",
-      "time": "2026-06-17 21:32:00",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution",
-        "CNH",
-        "Impact bullish",
-        "WTI",
-        "DXY",
-        "Impact bearish"
-      ],
-      "text": "【China, Myanmar agree to deepen cooperation on minerals, digital economy and AI】China and Myanmar agreed to deepen practical cooperation in minerals, the digital economy and artificial intelligence to maximize economic complementarity. They will deepen collaboration in agriculture, forestry and livestock, simplify quarantine and market access for quality agricultural products and explore smart customs measures. Noting steady bilateral trade growth, the two sides agreed to expand scale and diversity, implement an RMB-kyat direct settlement mechanism to facilitate trade, and support trade and investment in agricultural processing, oil and energy sectors."
-    },
-    {
-      "id": "mkt:019ed5c8-164e-7dd8-b052-6a5eb1ca5d0a",
-      "time": "2026-06-17 21:32:00",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Jiepu Co. shares opened 9.8% higher, trading at a record high."
-    },
-    {
-      "id": "4941186",
-      "time": "2026-06-17 21:31:56",
-      "tags": [
-        "其他"
-      ],
-      "text": "【報告稱2025年亞洲經受極端高溫等多重影響】世界氣象組織17日釋出《2025年亞洲氣候狀況》報告說，2025年，危險的高溫、破壞性的降雨和洪水以及嚴重的乾旱影響了亞洲，造成了沉重的人員傷亡和經濟損失。這份報告提供了關於亞洲地區關鍵氣候指標、主要極端事件、影響和風險的權威資訊。報告說，極端高溫是亞洲大部分地區2025年氣候的決定性特徵。多個亞洲國家出現有記錄以來最熱夏季，持續熱浪影響中亞、西亞部分地區和阿拉伯半島。（新華社）"
-    },
-    {
-      "id": "mkt:019ed5c7-cfb4-7dd8-b052-60bba72e5088",
-      "time": "2026-06-17 21:31:42",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy"
-      ],
-      "text": "【China, Myanmar joint statement: continue role for China–Myanmar oil and gas pipelines, prudently advance power grid interconnection】China and Myanmar issued a joint statement agreeing to advance Belt and Road cooperation planning and to push development of the China–Myanmar Economic Corridor. They committed to progress major corridor projects, including the Kyaukpyu deep-water port and the Muse–Mandalay railway, under principles of mutual respect, commercial viability, financial sustainability and compliance with both countries' laws. The parties agreed to continue leveraging the China–Myanmar oil and gas pipelines, to prudently advance power grid interconnection, and to explore an economically and environmentally sustainable energy partnership; China said it will continue to provide support."
-    },
-    {
-      "id": "4941185",
-      "time": "2026-06-17 21:31:25",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "布倫特原油突破80美元/桶，日內漲1.40%。"
-    },
-    {
-      "id": "4941184",
-      "time": "2026-06-17 21:31:25",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "英特爾股價上漲3.5%；該公司全新制造技術已進入初期生產階段。"
-    },
-    {
-      "id": "4941183",
-      "time": "2026-06-17 21:31:11",
-      "tags": [
-        "市場"
-      ],
-      "text": "LA-Z-BOY股價飆升21%，創下2025年5月以來的最高盤中價。"
-    },
-    {
-      "id": "te:markets:559743",
-      "time": "2026-06-17 21:31:08",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "stocks",
-        "Importance 1"
-      ],
-      "text": "Citigroup Stock Price Hits 17-1/2-year High — Citigroup shares increased to 143.89 USD, the highest since November 2008. Over the past 4 weeks, Citigroup gained 17.3%, and in the last 12 months, it increased 85.61%."
-    },
-    {
-      "id": "4941182",
-      "time": "2026-06-17 21:30:56",
-      "tags": [
-        "市場"
-      ],
-      "text": "SPACEX股價開盤上漲4.1%，有望連續第四個交易日上漲，這是其上市以來的第四次漲勢。"
-    },
-    {
-      "id": "4941181",
-      "time": "2026-06-17 21:30:50",
-      "tags": [
-        "市場"
-      ],
-      "text": "UNIQURE股價飆升65%，創下9月以來最大盤中漲幅。"
-    },
-    {
-      "id": "4941180",
-      "time": "2026-06-17 21:30:48",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "【美股開盤：三大股指齊漲】道指漲0.06%，標普500指數漲0.12%，納指漲0.47%。捷普漲9.23%，應用材料漲5.53%，阿斯麥漲5.36%，泰瑞達漲5.29%，邁威爾科技漲4.79%，林氏研究漲4.36%。“七姐妹”方面：蘋果漲0.69%，英偉達漲0.27%，亞馬遜跌0.24%，谷歌跌0.63%，特斯拉跌0.81%，微軟跌1.28%，Meta Platforms跌1.49%。"
-    },
-    {
-      "id": "mkt:019ed5c6-fd5a-7dd8-b052-58166a42c595",
-      "time": "2026-06-17 21:30:48",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Wall Street (US)",
-        "Market Themes",
-        "Chip Wars",
-        "S&P500",
-        "Impact bullish",
-        "Nasdaq100",
-        "ASML.O"
-      ],
-      "text": "U.S. stocks opened higher: the Dow ticked up, the S&P 500 rose 0.12% and the Nasdaq gained 0.43%. SpaceX (SPCX.O) climbed 3.6%, extending gains into a fourth session. Semiconductor names led the rally: ASML (ASML.O) +5%, MARVELL (MRVL.O) +5%, Broadcom (AVGO.O) +2.4%, Intel (INTC.O) +4.1%."
-    },
-    {
-      "id": "mkt:019ed5c6-d58b-7dd8-b052-540e7a9317d4",
-      "time": "2026-06-17 21:30:38",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Ningbo issues navigation warning for military drills in East China Sea】China Maritime Safety Administration posted on its website that the Ningbo Maritime Safety Administration has issued a navigation warning: parts of the East China Sea will conduct military exercises on June 18 from 06:00 to 12:00 local time and entry into the designated waters is prohibited."
-    },
-    {
-      "id": "4941179",
-      "time": "2026-06-17 21:30:32",
-      "tags": [
-        "其他"
-      ],
-      "text": "SHARON AI：籌集資金以支援與英偉達的計算協議。發行7億美元的4.75%可轉換高階票據。"
-    },
-    {
-      "id": "4941178",
-      "time": "2026-06-17 21:30:22",
-      "tags": [
-        "其他"
-      ],
-      "text": "【航行警告！東海海域軍事演練】據中國海事局網站訊息，寧波海事局釋出航行警告，6月18日6時至12時，東海部分水域開展軍事演練，禁止駛入。"
-    },
-    {
-      "id": "te:markets:559742",
-      "time": "2026-06-17 21:30:11",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "stocks",
-        "Importance 1"
-      ],
-      "text": "Visa Stock Price Hits 4-week High — Visa shares increased to 334.27 USD, the highest since May 2026. Over the past 4 weeks, Visa gained 0.14%, and in the last 12 months, it decreased 6.91%."
-    },
-    {
-      "id": "mkt:019ed5c6-6566-7dd8-b052-4d0d632b7b2a",
-      "time": "2026-06-17 21:30:09",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "CNH",
-        "Impact bullish"
-      ],
-      "text": "【SFC CEO Liang Fengyi: new‑energy trade could boost RMB internationalisation; Hong Kong should play a more central role】At the Lujiazui Forum plenary on June 17, Hong Kong Securities and Futures Commission CEO Liang Fengyi said global energy transition and supply‑chain reshaping could make new‑energy trade a new driver of RMB internationalisation. She said it is still early to call the RMB a \"new‑energy currency\" but urged Hong Kong, as the global offshore RMB hub, to assume a more central role."
-    },
-    {
-      "id": "4941177",
-      "time": "2026-06-17 21:29:41",
-      "tags": [
-        "公司"
-      ],
-      "text": "【金盾股份：終止籌劃控制權變更事項 股票復牌】金盾股份(300411.SZ)公告稱，公司於2026年6月10日收到第一大股東王淼根及5%以上股東陳根榮的通知，兩人正在籌劃可能導致公司控制權變更的重大事項。停牌期間，因收購方對實際控制人及其重要投資平臺存在的訴訟案件無法在短期內提供解決方案，導致中介機構無法判斷收購方是否滿足《上市公司收購管理辦法》相關要求。為維護公司及股東利益，王淼根和陳根榮決定終止籌劃本次事項。公司股票自2026年6月18日開市起復牌，目前公司各項業務經營正常，該終止事項不會對公司產生重大不利影響。"
-    },
-    {
-      "id": "4941176",
-      "time": "2026-06-17 21:29:28",
-      "tags": [
-        "其他"
-      ],
-      "text": "巴西財長杜裡甘：我們將很快宣佈一項針對按時還款的良好信用者制定的消費者債務重新協商計劃。"
-    },
-    {
-      "id": "4941175",
-      "time": "2026-06-17 21:29:14",
-      "tags": [
-        "國際"
-      ],
-      "text": "萬斯談及伊朗問題：有些人一味主張持續實施轟炸，全然不顧此舉能否給美國帶來任何實質收益，而特朗普並不打算採取這種做法。 他並非有意讓伊朗民眾陷入苦難，其核心目標是阻止伊朗擁有核武器。"
     }
   ]
 }
