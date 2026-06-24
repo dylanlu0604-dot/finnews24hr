@@ -1,7 +1,88 @@
 {
-  "updated": "2026-06-25 01:02:45",
-  "count": 17246,
+  "updated": "2026-06-25 01:06:44",
+  "count": 17238,
   "items": [
+    {
+      "id": "4953230",
+      "time": "2026-06-25 01:05:27",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "【美伊兩國正圍繞和談爭奪輿論主導權】美伊兩國正圍繞和談爭奪輿論主導權，雙方針對擬議協議作出相互矛盾的表態。美國總統特朗普稱伊朗已同意接受全面核核查，伊朗則表示核查人員不得進入本國核心核設施。副總統萬斯稱美、卡達官員將共同監督伊朗海外資產解凍事宜，伊朗方面同樣對此予以否認。"
+    },
+    {
+      "id": "te:markets:561625",
+      "time": "2026-06-25 01:04:24",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Mexico",
+        "Currency",
+        "Importance 2"
+      ],
+      "text": "Mexican Peso Drops to April Lows — The Mexican peso fell to 17.6 per USD in late June, the weakest since early April, amid contrasting outlooks for the Bank of Mexico and the Federal Reserve. The dollar surged against G10 and emerging market currencies after hawkish projections by FOMC members in their latest rate decision drove markets to position for more than one rate hike by the central bank this year. Conversely, the latest economic data weakened the argument for dovish policymakers at Banxico. The domestic headline inflation rate fell more than expected to a ten-month low of 3.55% in the first half of June, while the core rate also eased more than forecasted. Besides loosening policy domestically, a narrower rate differential between both central banks would decrease demand for peso-denominated carry trades."
+    },
+    {
+      "id": "4953229",
+      "time": "2026-06-25 01:02:37",
+      "tags": [
+        "宏觀",
+        "市場",
+        "國際"
+      ],
+      "text": "美國財政部拍賣700億美元五年期國債，得標利率4.2%，投標倍數2.35。"
+    },
+    {
+      "id": "mkt:019efa95-5f5b-7dd8-b100-a7f7321a8500",
+      "time": "2026-06-25 01:02:33",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "CNN reports President Trump is en route to Capitol Hill for a lunch with Senate Republicans."
+    },
+    {
+      "id": "mkt:019efa95-1c24-7dd8-b100-9d2d2fa5eb24",
+      "time": "2026-06-25 01:02:16",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "DXY",
+        "Impact bullish",
+        "XAUUSD",
+        "Impact bearish",
+        "USDJPY"
+      ],
+      "text": "US 5-year Treasury auction as of June 24 — percentage of awards at the stop-out yield 86.81% (prior 75.22%)."
+    },
+    {
+      "id": "mkt:019efa95-18d9-7dd8-b100-90c4e927abea",
+      "time": "2026-06-25 01:02:15",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish",
+        "XAUUSD"
+      ],
+      "text": "U.S. 5-year Treasury auction on June 24: stop-out yield 4.20%, prior 4.18%."
+    },
+    {
+      "id": "mkt:019efa95-16e4-7dd8-b100-8c78412c91cb",
+      "time": "2026-06-25 01:02:15",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y",
+        "Impact bullish"
+      ],
+      "text": "US 5-year Treasury auction bid-cover ratio 2.35 on June 24; prior 2.34."
+    },
     {
       "id": "mkt:019efa94-f786-7dd8-b100-8244f6ac866c",
       "time": "2026-06-25 01:02:07",
@@ -157911,139 +157992,6 @@
         "國際"
       ],
       "text": "市場資訊：特朗普誤以為巴西逮捕了正在參選總統的弗拉維奧·博索納羅，但實際上遭到起訴的是他並未參選公職的兄弟。"
-    },
-    {
-      "id": "mkt:019ed68c-459b-7dd8-b05b-6f8c0525a194",
-      "time": "2026-06-18 01:06:17",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Trump said Brazil's election was completely rigged."
-    },
-    {
-      "id": "4941542",
-      "time": "2026-06-18 01:05:51",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：其他國家領導人因伊朗戰事平息感到寬慰，因為他們本可能成為伊朗的打擊目標。"
-    },
-    {
-      "id": "4941541",
-      "time": "2026-06-18 01:05:27",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：巴西局勢已變得有些動盪，政治層面陷入危險。"
-    },
-    {
-      "id": "mkt:019ed68b-706f-7dd8-b05b-65773ed1b255",
-      "time": "2026-06-18 01:05:22",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "US President Trump said he held a lengthy conversation with Brazilian President Lula."
-    },
-    {
-      "id": "mkt:019ed68b-29df-7dd8-b05b-5b1aba4cce65",
-      "time": "2026-06-18 01:05:04",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "US President Trump said Brazil's political situation has become somewhat severe and dangerous."
-    },
-    {
-      "id": "mkt:019ed68b-112a-7dd8-b05b-55846406b996",
-      "time": "2026-06-18 01:04:58",
-      "tags": [
-        "MKT News",
-        "DXY",
-        "Impact bullish",
-        "XAUUSD",
-        "S&P500",
-        "Impact bearish"
-      ],
-      "text": "US President Trump said other countries now want to join military forces in the strait."
-    },
-    {
-      "id": "4941540",
-      "time": "2026-06-18 01:04:42",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：巴西完全操縱了選舉。"
-    },
-    {
-      "id": "mkt:019ed68a-cb94-7dd8-b05b-4994a39fbcf9",
-      "time": "2026-06-18 01:04:40",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK"
-      ],
-      "text": "Italy's foreign minister Antonio Tajani said Iran will ensure the vessel Grande Torino departs safely within the next few hours."
-    },
-    {
-      "id": "4941539",
-      "time": "2026-06-18 01:04:29",
-      "tags": [
-        "國際"
-      ],
-      "text": "義大利外交部長塔賈尼與伊朗外交部長阿拉格齊進行了通話。義大利外長塔賈尼表示，大使館工作人員將返回德黑蘭，伊朗將確保“Grande Torino”號船隻安全離港。"
-    },
-    {
-      "id": "mkt:019ed68a-a40a-7dd8-b05b-4149682cb7e2",
-      "time": "2026-06-18 01:04:15",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "President Trump said Japan's performance is very good."
-    },
-    {
-      "id": "mkt:019ed68a-84be-7dd8-b05b-3eae9e7d99c2",
-      "time": "2026-06-18 01:04:08",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Italian foreign minister Tajani said Iran will ensure the safe departure of the vessel \"Grande Torino\"."
-    },
-    {
-      "id": "4941538",
-      "time": "2026-06-18 01:03:51",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：與巴西總統盧拉進行了長時間會談， 巴西如今政壇局勢有些動盪。"
-    },
-    {
-      "id": "mkt:019ed689-fb89-7dd8-b05b-3045cc9a5504",
-      "time": "2026-06-18 01:03:47",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Italian Foreign Minister Tajani said embassy staff will return to Tehran."
-    },
-    {
-      "id": "mkt:019ed689-a0a4-7dd8-b05b-2e73db69ff38",
-      "time": "2026-06-18 01:03:24",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Italy's foreign minister Tajani spoke by phone with Iran's foreign minister Araghchi."
-    },
-    {
-      "id": "mkt:019ed689-54e0-7dd8-b05b-27745f235647",
-      "time": "2026-06-18 01:03:04",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK",
-        "XAUUSD",
-        "Impact bullish",
-        "DXY",
-        "WTI"
-      ],
-      "text": "【Netherlands to provide €500m weapons support to Ukraine】The Netherlands on Wednesday announced €500m (~$580m) in weapons support for Ukraine, with half (€250m) earmarked for the Ukraine priority needs list (PURL) mechanism under which European allies procure U.S.-made weapons. The government will separately provide €250m (~$290m) for drones, bringing total announced support to €750m (~$870m). Dutch defence minister, meeting Ukrainian officials in The Hague, said continued Russian attacks make air defence a heightened priority."
     }
   ]
 }
