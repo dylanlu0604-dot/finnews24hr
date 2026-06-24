@@ -1,7 +1,87 @@
 {
-  "updated": "2026-06-25 02:53:36",
-  "count": 17099,
+  "updated": "2026-06-25 02:57:38",
+  "count": 17100,
   "items": [
+    {
+      "id": "4953360",
+      "time": "2026-06-25 02:56:37",
+      "tags": [
+        "公司",
+        "焦點"
+      ],
+      "text": "Meta執行長馬克·扎克伯格：在多代戰略協作框架下，高通將成為Meta的資料中心CPU供應商。"
+    },
+    {
+      "id": "4953359",
+      "time": "2026-06-25 02:56:20",
+      "tags": [
+        "其他"
+      ],
+      "text": "高通：飛龍C1000伺服器CPU將於2028年推出，Meta計劃在自有資料中心採用該款處理器。"
+    },
+    {
+      "id": "4953358",
+      "time": "2026-06-25 02:55:43",
+      "tags": [
+        "公司"
+      ],
+      "text": "瑞典法院再次推遲作出Pricerunner訴谷歌反壟斷案的判決。"
+    },
+    {
+      "id": "te:markets:561637",
+      "time": "2026-06-25 02:54:57",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "commodity",
+        "Importance 0"
+      ],
+      "text": "Brent Crude Oil is down by 5% — Brent Crude Oil decreased 5% to 73.228 USD/Bbl"
+    },
+    {
+      "id": "4953354",
+      "time": "2026-06-25 02:54:55",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國眾議院議長邁克·約翰遜將於明日與特朗普會面。"
+    },
+    {
+      "id": "4953353",
+      "time": "2026-06-25 02:54:33",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "Alphabet股價觸及盤中低點，最新跌幅接近1%，該公司宣佈將Gemini 3.5 Pro的釋出推遲至7月。"
+    },
+    {
+      "id": "4953352",
+      "time": "2026-06-25 02:53:58",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國10年期國債收益率下跌10個基點至4.396%。"
+    },
+    {
+      "id": "mkt:019efafb-57c6-7dd8-b102-be9edd81a422",
+      "time": "2026-06-25 02:53:56",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "Philip, secretary-general of the Gas Exporting Countries Forum (GECF), said that as the Iran war ends, natural gas demand would begin to recover in Q3."
+    },
+    {
+      "id": "4953351",
+      "time": "2026-06-25 02:53:19",
+      "tags": [
+        "國際"
+      ],
+      "text": "天然氣出口國論壇秘書長菲利普·姆謝爾比拉表示，隨著伊朗戰爭結束，天然氣需求將在第三季度開始回升。"
+    },
     {
       "id": "4953350",
       "time": "2026-06-25 02:50:59",
@@ -156271,83 +156351,6 @@
         "國際"
       ],
       "text": "美聯儲主席沃什：我們為市場翻開了央行歷史的新篇章。金融市場需要消化大量變化。不會特別關注市場在最初幾分鐘和幾天的反應。市場和公眾必須知道美聯儲將實現價格穩定。"
-    },
-    {
-      "id": "4941693",
-      "time": "2026-06-18 02:56:41",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲主席沃什：今日不會就市場反應置評。"
-    },
-    {
-      "id": "4941692",
-      "time": "2026-06-18 02:56:09",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲主席沃什：我們不會將決策權外包。"
-    },
-    {
-      "id": "4941691",
-      "time": "2026-06-18 02:55:24",
-      "tags": [
-        "國際"
-      ],
-      "text": "【巴方譴責以方在約旦河西岸強推定居點擴建計劃】巴勒斯坦外交部發表宣告，強烈譴責以色列持續推進擴張性的猶太定居點政策。宣告指出，以色列民政管理局高階規劃委員會日前批准在約旦河西岸的猶太定居點新建576套住房，其中包括在希伯倫核心區域強行修建一座猶太教宗教學校，巴方對此表示“最強烈的譴責”。巴勒斯坦外交部在宣告中強調，以方的上述決定意味著以色列猶太定居點建設活動“出現嚴重升級”，這是對國際法和國際合法性決議的公然違背。宣告特別指出，此舉嚴重違反了聯合國安理會第2334號決議，該決議已明確重申以色列在巴勒斯坦被佔領土上建立定居點是非法的。 (央視新聞)"
-    },
-    {
-      "id": "mkt:019ed6ef-b5ac-7dd8-b061-032402c8712f",
-      "time": "2026-06-18 02:54:54",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)"
-      ],
-      "text": "Federal Reserve Chairman Kevin Warsh said he believes discussions ultimately produced a better outcome."
-    },
-    {
-      "id": "mkt:019ed6ef-84e0-7dd8-b060-f93d82f64528",
-      "time": "2026-06-18 02:54:41",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)"
-      ],
-      "text": "Federal Reserve Chair Kevin Warsh said policymakers held a constructive internal discussion on the matter."
-    },
-    {
-      "id": "mkt:019ed6ef-2223-7dd8-b060-f7f6d1b15a2a",
-      "time": "2026-06-18 02:54:16",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)"
-      ],
-      "text": "Federal Reserve Chair Kevin Warsh said only one policy proposal is on the table today."
-    },
-    {
-      "id": "4941690",
-      "time": "2026-06-18 02:54:07",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲主席沃什：今日議程上僅提出一項政策提議，我們內部為此進行了一番充分的討論交鋒。"
-    },
-    {
-      "id": "mkt:019ed6ee-85a9-7dd8-b060-efef1668cf11",
-      "time": "2026-06-18 02:53:36",
-      "tags": [
-        "MKT News",
-        "Important",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "Iran's foreign ministry spokesman said the United States has pledged to lift all types of sanctions on Iran in connection with upcoming negotiations, SNN reported."
     }
   ]
 }
