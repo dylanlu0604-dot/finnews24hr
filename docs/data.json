@@ -1,7 +1,148 @@
 {
-  "updated": "2026-06-24 23:20:13",
-  "count": 17240,
+  "updated": "2026-06-24 23:24:14",
+  "count": 17253,
   "items": [
+    {
+      "id": "mkt:019efa3a-e79b-7dd8-b0fe-3fa6a37a42b9",
+      "time": "2026-06-24 23:23:44",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "ECB Executive Board member Schnabel said that, given current conditions, further rate hikes are needed to reach the ECB's 2% inflation target."
+    },
+    {
+      "id": "4953127",
+      "time": "2026-06-24 23:23:11",
+      "tags": [
+        "央行",
+        "焦點",
+        "國際"
+      ],
+      "text": "歐洲央行管委施納貝爾：歐洲央行當前利率尚未達到緊縮水平。"
+    },
+    {
+      "id": "mkt:019efa3a-6427-7dd8-b0fe-33e284c50ae3",
+      "time": "2026-06-24 23:23:11",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Meteo-France: Paris recorded its highest June temperature on record; Paris-Longchamp station measured 40.9°C."
+    },
+    {
+      "id": "4953126",
+      "time": "2026-06-24 23:23:04",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行管委施納貝爾：通脹第二輪傳導效應風險持續攀升。"
+    },
+    {
+      "id": "4953125",
+      "time": "2026-06-24 23:22:52",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行管委施納貝爾：即便達成停火，歐洲央行也不能放鬆警惕。"
+    },
+    {
+      "id": "4953124",
+      "time": "2026-06-24 23:22:50",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "道指漲1.01%，現報52188.051點；納指漲0.77%，現報25783.791點；標普500指數漲0.75%，現報7420.490點。"
+    },
+    {
+      "id": "te:markets:561602",
+      "time": "2026-06-24 23:22:49",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "Home Depot Stock Price Hits 9-week High — Home Depot shares increased to 341.20 USD, the highest since April 2026. Over the past 4 weeks, Home Depot gained 9.73%, and in the last 12 months, it decreased 5.83%."
+    },
+    {
+      "id": "4953123",
+      "time": "2026-06-24 23:22:45",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行管委施納貝爾：戰爭、通脹與經濟增長情況將決定加息的時點與幅度。"
+    },
+    {
+      "id": "4953122",
+      "time": "2026-06-24 23:22:36",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行管委施納貝爾：當前形勢下，仍需進一步加息以實現2%通脹目標。"
+    },
+    {
+      "id": "mkt:019efa39-41ff-7dd8-b0fe-2da9387ea836",
+      "time": "2026-06-24 23:21:56",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Wall Street (US)",
+        "Dow",
+        "Impact bullish"
+      ],
+      "text": "US equities extended gains; the Dow Jones Industrial Average rose 1%."
+    },
+    {
+      "id": "4953121",
+      "time": "2026-06-24 23:21:52",
+      "tags": [
+        "其他"
+      ],
+      "text": "法國氣象局：巴黎創六月史上最高溫，巴黎隆尚賽馬場測得40.9攝氏度。"
+    },
+    {
+      "id": "4953120",
+      "time": "2026-06-24 23:20:24",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列國防部長卡茨表示，美國並未要求以色列從黎巴嫩南部撤軍，這是伊朗在停火談判中提出的條件。"
+    },
+    {
+      "id": "mkt:019efa37-9f6f-7dd8-b0fe-27ba003b9e0d",
+      "time": "2026-06-24 23:20:09",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "Brent",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "Saudi news outlet Hadas reports Israeli drones flying at low altitude over Beirut."
+    },
+    {
+      "id": "mkt:019efa37-6784-7dd8-b0fe-1f031de79073",
+      "time": "2026-06-24 23:19:55",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "LME aluminium down 4.00% intraday, trading at $3,124.92/ton."
+    },
+    {
+      "id": "4953119",
+      "time": "2026-06-24 23:19:54",
+      "tags": [
+        "市場"
+      ],
+      "text": "倫鋁日內大跌4.00%，現報3124.92美元/噸。"
+    },
     {
       "id": "4953118",
       "time": "2026-06-24 23:18:13",
@@ -157882,23 +158023,6 @@
         "其他"
       ],
       "text": "【水利部安排部署新一輪強降雨防範應對工作】記者從水利部獲悉，未來幾天我國將有新一輪強降雨過程。水利部17日組織會商，分析研判雨情汛情形勢，針對性安排部署強降雨防範應對工作。 記者瞭解到，6月18日至22日，受冷暖空氣共同影響，江淮、江南北部西部、華南中部西部、西南東部南部及湖北大部等地將有一次強降雨過程，以大到暴雨為主。廣西南部和西北部、雲南東南部、湖北東部、安徽南部、江蘇中部南部、江西東北部等地部分地區將有大暴雨，並伴有短時強降雨。受其影響，珠江流域西江干流及支流柳江、桂江、鬱江，長江中下游幹流及洞庭湖水系沅江澧水、鄱陽湖水系昌江樂安河、漢江中下游及鄂東四水，淮河上中游幹流及支流史灌河、淠河，太湖及錢塘江等河流將出現明顯漲水過程，暴雨區內部分中小河流可能發生超警以上洪水。 為應對可能出現的汛情，水利部指導督促落實落細各項防禦措施。一是密切監視雨情水情汛情發展態勢，滾動預測預報，及時釋出預警資訊；二是科學精準排程水工程攔洪削峰錯峰，有效減輕防洪壓力；三是強化水庫安全度汛，嚴格落實水庫“三個責任人”和“三個重點環節”，特別要做好中小水庫、病險水庫巡查防守，病險水庫原則上一律空庫執行；四是突出抓好強降雨區中小河流洪水和山洪災害防禦，加強山洪災害監測預警，嚴格落實“誰組織、轉移誰、何時轉、轉何處、不擅返”五個關鍵環節責任和措施。(新華社)"
-    },
-    {
-      "id": "4941427",
-      "time": "2026-06-17 23:22:47",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "【報道：美國與伊朗商議提前簽署相關協議】據AXIOS援引一名斡旋國外交官以及另一位訊息人士訊息， 美國、伊朗及各方斡旋方正在商議，將原定於週五簽署的諒解備忘錄，最早提前至週三完成簽署。若簽署時間提前，本次諒解備忘錄將以電子方式簽署；協議中涉及霍爾木茲海峽的條款將即刻生效，美國或將最終對外公佈協議完整文字。 這名外交官表示，各方商議縮短流程、提前簽約，核心目的是比原定週五更早打通霍爾木茲海峽通道，美伊雙方在此訴求上立場一致。另一重推動因素，或是白宮面臨要求公開諒解備忘錄文字的國內政治壓力。但訊息人士表示，是伊朗方面要求正式簽署前不得對外披露協議全文，並否認白宮此舉是為應對國內政治壓力。"
-    },
-    {
-      "id": "mkt:019ed62b-d36a-7dd8-b057-ae7e35b21630",
-      "time": "2026-06-17 23:20:56",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Axios reports the memorandum of understanding will be signed electronically and the US will release the text. No final decision has been made on an early signing of a US-Iran agreement."
     }
   ]
 }
