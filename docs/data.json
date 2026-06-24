@@ -1,7 +1,119 @@
 {
-  "updated": "2026-06-24 09:40:02",
-  "count": 17396,
+  "updated": "2026-06-24 09:44:24",
+  "count": 17391,
   "items": [
+    {
+      "id": "mkt:019ef74c-283b-7dd8-b0e7-fd30a2babf3b",
+      "time": "2026-06-24 09:43:43",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Hong Kong-listed pharma outsourcing names advanced, led by Kailaiying (06821.HK) which rose more than 7%; Tigermed (03347.HK) and Pharmaron (03759.HK) gained over 5%; Joinn Laboratories (06127.HK) and WuXi AppTec (02359.HK) rose above 4%."
+    },
+    {
+      "id": "te:markets:561308",
+      "time": "2026-06-24 09:43:29",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "South Korea",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "South Korean Shares Rebound on Chip Gains — The benchmark KOSPI rose more than 3% to around 8,470 on Wednesday, recovering part of the losses from the previous session as investors returned to semiconductor stocks following a sharp market selloff. Chipmakers led the rebound, with Samsung Electronics and SK Hynix advancing over 6% and 2%, respectively, amid optimism over AI-driven memory demand and ahead of key earnings updates from the sector, including Micron's results later this week. Other gainers included HD Hyundai Heavy Industries (1.4%), Hanwha Ocean (1.7%), Kia Corporation (1.3%), and Doosan Enerbility (0.8%). Sentiment was also supported by signs of improving risk appetite after oil prices eased as concerns over disruptions in the Strait of Hormuz softened. Meanwhile, MSCI kept South Korea in its emerging-market category, citing ongoing foreign-exchange market accessibility issues and delaying progress toward developed-market status."
+    },
+    {
+      "id": "4951480",
+      "time": "2026-06-24 09:42:34",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "科創50日內跌幅達1.10%，成分股中，沐曦股份跌4.94%，滬矽產業跌4.87%，盛美上海跌4.70%，摩爾執行緒跌4.15%。"
+    },
+    {
+      "id": "mkt:019ef74b-0780-7dd8-b0e7-f3e542d1601e",
+      "time": "2026-06-24 09:42:29",
+      "tags": [
+        "MKT News",
+        "600519.SS",
+        "Impact bullish"
+      ],
+      "text": "China A-share baijiu sector strengthened on choppy trading; Jinshiyuan rose over 5%, Huachuang Yunxin gained more than 3%, Jihong, Zhongrui, Yingjia Gongjiu and Kweichow Moutai also advanced."
+    },
+    {
+      "id": "mkt:019ef74a-cac5-7dd8-b0e7-e9e2d88cfe7f",
+      "time": "2026-06-24 09:42:14",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【NBS: Mid-June live hog (three-way cross) price unchanged MoM】China's National Bureau of Statistics said its mid-June 2026 survey of market prices for key production materials in circulation covered 50 items across nine categories; 15 prices rose, 32 fell and three were unchanged. The mid-June price for live hogs (three-way cross) was 9.5 yuan/kg, unchanged versus early June."
+    },
+    {
+      "id": "4951479",
+      "time": "2026-06-24 09:42:06",
+      "tags": [
+        "市場"
+      ],
+      "text": "【港口航運板塊盤初衝高，招商輪船漲停創新高】港口航運板塊盤初衝高，招商輪船漲停創新高，中遠海能、招商南油、國航遠洋、南京港、寧波遠洋跟漲。"
+    },
+    {
+      "id": "4951478",
+      "time": "2026-06-24 09:40:32",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "半導體產業鏈震盪拉昇，西隴科學2連板，匯成股份、賽英電子、富滿微、格科微均漲超10%，神工股份、中科飛測、長電科技等跟漲。"
+    },
+    {
+      "id": "4951477",
+      "time": "2026-06-24 09:40:17",
+      "tags": [
+        "市場"
+      ],
+      "text": "【光通訊概念震盪回升 通鼎互聯等漲停】光通訊概念震盪回升，截至發稿，泰和新材、通鼎互聯、航天電器漲停，宏柏新材、光庫科技等跟漲。"
+    },
+    {
+      "id": "4951476",
+      "time": "2026-06-24 09:40:10",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "滬深兩市成交額超5000億元，較上日此時縮量1399億元。"
+    },
+    {
+      "id": "4951475",
+      "time": "2026-06-24 09:39:56",
+      "tags": [
+        "國際"
+      ],
+      "text": "馬來西亞推出計劃，目標在2030年前推出商用貨運及客運無人機服務。"
+    },
+    {
+      "id": "mkt:019ef748-800d-7dd8-b0e7-e4ea114e6a4e",
+      "time": "2026-06-24 09:39:44",
+      "tags": [
+        "MKT News",
+        "Important",
+        "600909.SS",
+        "Impact bullish",
+        "CSI300"
+      ],
+      "text": "A-share brokerage stocks extended gains; Huaan Securities hit the daily limit, Huachuang Yunxin rose over 4%."
+    },
+    {
+      "id": "4951474",
+      "time": "2026-06-24 09:39:27",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "三星電子股價上漲6.1%，SK海力士股價上漲2.4%。"
+    },
     {
       "id": "mkt:019ef747-a215-7dd8-b0e7-dc38f752639a",
       "time": "2026-06-24 09:38:47",
@@ -159212,167 +159324,6 @@
         "其他"
       ],
       "text": "【國家禁毒辦：新發現35歲以下青少年吸毒人數同比下降41.6%】今天上午，國家禁毒辦召開新聞釋出會。國家禁毒辦常務副主任、公安部禁毒局局長魏曉軍介紹，2025年，以防範青少年藥物濫用為主題，全國組織禁毒宣傳活動19.7萬場、直接覆蓋4.5億人，突出青少年特別是未成年人群體，聯合中央網信辦、教育部等7部門開展網路集中宣傳教育，深化秋季開學在校學生“五個一”專題教育，舉辦全國青少年禁毒知識競賽，青少年防範藥物濫用的認知能力明顯提升，全年新發現35歲以下青少年吸毒人數同比下降41.6%。2025年共查處吸毒人員13.4萬人次。堅持教育、感化、挽救方針，加強涉毒未成年人干預矯治，全力防範未成年人藥物濫用，推進未成年人涉毒違法犯罪預防治理，呵護未成年人健康成長。推進社群戒毒社群康復標準化建設，落實戒毒治療、康復指導、幫扶救助、就業扶持等措施。截至2025年底，全國戒斷三年以上未發現復吸人員440.3萬人，同比上升2.7%。"
-    },
-    {
-      "id": "te:economy:559527",
-      "time": "2026-06-17 09:44:14",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Jordan",
-        "Inflation Rate",
-        "Importance 1"
-      ],
-      "text": "Jordan Inflation Hits Over 3-Year High — The inflation rate in Jordan accelerated to 2.83% year-on-year in May 2026, the highest since April 2023, from 2.49% in April, driven primarily by higher fuel prices. The country raised fuel prices by 11% in April, the first increase since the Middle East conflict began, and partially adjusted fuel prices in May. Transportation costs were the main contributors to May inflation, accounting for 1.23 percentage points, followed by rental costs (0.68 percentage points) and oils and fats (0.27 percentage points). For the first five months of the year, inflation averaged 1.88%, down from 1.97% in the same period of 2025, with rental costs (0.68 percentage points) and transportation (0.26 percentage points) being the main contributors. On a monthly basis, CPI rose 0.55% in May, easing from a 0.70% increase in April and marking the softest increase in three months."
-    },
-    {
-      "id": "mkt:019ed33f-ef93-7dd8-b03d-7bad64b0ba3f",
-      "time": "2026-06-17 09:44:03",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "CSI300",
-        "Impact bullish",
-        "SSE Composite"
-      ],
-      "text": "China A-share fiberglass sector rebounded after volatile trading; Shandong Fiberglass and China Jushi hit daily limit-ups and closed, while Sinoma Tech, Changhai Co., International Composite and Honghe Technology also advanced."
-    },
-    {
-      "id": "4939621",
-      "time": "2026-06-17 09:44:00",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【鋰電池板塊短線拉昇，諾德股份漲停】鋰電池板塊短線拉昇，諾德股份漲停, 中一科技漲超10%，嘉元科技、中瑞股份、銅冠銅箔、鵬輝能源、科達利等跟漲。"
-    },
-    {
-      "id": "mkt:019ed33f-dfc4-7dd8-b03d-74c43356933f",
-      "time": "2026-06-17 09:43:59",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy"
-      ],
-      "text": "Goldman Sachs maintains a bearish view on TTF natural gas for 2028 and 2029, forecasting €19/MWh and €16/MWh respectively, with risks skewed to the downside."
-    },
-    {
-      "id": "4939620",
-      "time": "2026-06-17 09:42:50",
-      "tags": [
-        "觀點"
-      ],
-      "text": "高盛：我們維持對2028/29年TTF天然氣價格的看跌預期，目標價位為19/16歐元/兆瓦時，風險偏向下行。"
-    },
-    {
-      "id": "mkt:019ed33e-95ca-7dd8-b03d-6be4e4b036c9",
-      "time": "2026-06-17 09:42:34",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy"
-      ],
-      "text": "Goldman Sachs: risks to its 2026/27 natural gas price forecasts remain skewed to the upside."
-    },
-    {
-      "id": "mkt:019ed33e-7f48-7dd8-b03d-640615a786a5",
-      "time": "2026-06-17 09:42:28",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy"
-      ],
-      "text": "Goldman Sachs says it now expects LNG flows to normalize by end-July, later than its prior end-June forecast."
-    },
-    {
-      "id": "4939619",
-      "time": "2026-06-17 09:42:18",
-      "tags": [
-        "觀點"
-      ],
-      "text": "【雲天暢想完成超10億元E輪融資 中國網際網路投資基金領投】6月17日，全球邊緣智算龍頭雲天暢想（Cloudsky）宣佈完成超10億元人民幣E輪融資，中國網際網路投資基金領投，中金資本等機構聯合投資。雲天暢想長期深耕GPU-centric分散式智算網路的建設，構建覆蓋全球300多個城市的邊緣智算網路，服務使用者超過6億。"
-    },
-    {
-      "id": "4939618",
-      "time": "2026-06-17 09:42:12",
-      "tags": [
-        "觀點"
-      ],
-      "text": "高盛：我們對2026/27年天然氣價格的預期仍面臨上行風險。"
-    },
-    {
-      "id": "4939617",
-      "time": "2026-06-17 09:41:52",
-      "tags": [
-        "觀點"
-      ],
-      "text": "高盛：我們維持對2027年TTF天然氣平均價格的預測，為30歐元/兆瓦時。"
-    },
-    {
-      "id": "mkt:019ed33d-d8f4-7dd8-b03d-5822d9b26788",
-      "time": "2026-06-17 09:41:46",
-      "tags": [
-        "MKT News",
-        "EURUSD",
-        "Impact bullish"
-      ],
-      "text": "Goldman Sachs largely maintains its TTF gas price forecasts at €41/MWh for H2 2026 and €30/MWh for 2027, versus prior forecasts of €42/MWh and €30/MWh."
-    },
-    {
-      "id": "4939616",
-      "time": "2026-06-17 09:41:38",
-      "tags": [
-        "觀點"
-      ],
-      "text": "高盛：我們預計液化天然氣流量將在7月底恢復正常，晚於我們此前預計的6月底。"
-    },
-    {
-      "id": "4939615",
-      "time": "2026-06-17 09:41:30",
-      "tags": [
-        "其他"
-      ],
-      "text": "【國家禁毒辦：2025年共破獲毒品犯罪案件2.7萬起】今天上午（6月17日）國家禁毒辦召開新聞釋出會。據國家禁毒辦常務副主任、公安部禁毒局局長魏曉軍介紹，“清源斷流”行動統籌境內境外兩條戰線、網上網下兩個戰場，2025年共破獲毒品犯罪案件2.7萬起，抓獲犯罪嫌疑人4.1萬名，繳獲毒品33.5噸。深化“淨邊”行動，嚴密陸海空郵毒品查緝體系，有力遏制毒品走私入境，繳獲來自“金三角”地區毒品18.7噸。深化“除冰肅毒”，破獲國內製毒案件134起，繳獲毒品5.3噸，規模化製毒活動得到遏制。"
-    },
-    {
-      "id": "4939614",
-      "time": "2026-06-17 09:40:48",
-      "tags": [
-        "觀點"
-      ],
-      "text": "高盛：我們維持對2026年下半年/2027年TTF天然氣價格的預測，為41/30歐元/兆瓦時，此前預測為42/30歐元/兆瓦時。"
-    },
-    {
-      "id": "mkt:019ed33c-ebc6-7dd8-b03d-509022bed909",
-      "time": "2026-06-17 09:40:45",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Industrial Metals",
-        "Copper",
-        "Impact bullish"
-      ],
-      "text": "A-share PET copper-foil stocks rallied in early trade. Zhongyi Technology rose over 13%; Nuode, Guanghua Technology and Hangdian each hit the daily limit. Shuangxing New Materials, Tongfeng Electronics and Jiemei Technology also advanced."
-    },
-    {
-      "id": "4939613",
-      "time": "2026-06-17 09:40:33",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【玻璃基板概念再度走強，美迪凱20%漲停】玻璃基板概念再度走強，美迪凱20%漲停，易天股份、帝爾鐳射、長信科技漲超10%。"
-    },
-    {
-      "id": "4939612",
-      "time": "2026-06-17 09:40:23",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "滬深兩市成交額超5000億元，較上日此時縮量726億元。"
     }
   ]
 }
