@@ -1,7 +1,84 @@
 {
-  "updated": "2026-06-24 13:11:47",
-  "count": 17350,
+  "updated": "2026-06-24 13:15:55",
+  "count": 17354,
   "items": [
+    {
+      "id": "te:markets:561373",
+      "time": "2026-06-24 13:15:09",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "FX Updates: South Korean Won Drops by 0.58% — Top currency losers are South Korean Won (-0.58%), Euro (-0.14%) and British Pound (-0.06%). Gains are led by Indian Rupee (0.35%) and Dollar Index (0.08%)."
+    },
+    {
+      "id": "4951782",
+      "time": "2026-06-24 13:14:54",
+      "tags": [
+        "公司"
+      ],
+      "text": "【峰岹科技新設子公司 含AI及積體電路晶片業務】企查查APP顯示，近日，翱韜智慧科技（深圳）有限公司成立，經營範圍包含：人工智慧應用軟體開發；人工智慧通用應用系統；人工智慧基礎軟體開發；積體電路設計；積體電路銷售；積體電路晶片設計及服務等。企查查股權穿透顯示，該公司由峰岹科技(688279)全資持股。"
+    },
+    {
+      "id": "4951781",
+      "time": "2026-06-24 13:14:47",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【周鴻禕：中國必須擁有自己的Mythos】在今日開幕的ISC.AI 2026（第十四屆網際網路安全大會）上，360集團創始人周鴻禕表示，未來幾年，我國很多關鍵基礎設施和重要產業將進入網路攻擊高發期，中國網路安全行業必須擁有自己的Mythos。近期，Anthropic宣佈限制內部最強模型Mythos對外開放，引發全球安全行業廣泛關注。早在該模型問世初期，曾引發美國一眾網路安全巨頭股價集體暴跌。周鴻禕認為，Mythos之所以引發震動，根本原因在於它能自主發現漏洞、分析漏洞甚至構造網路攻擊“武器”，相當於AI時代的“網路核武器” 。(國是直通車)"
+    },
+    {
+      "id": "te:economy:561372",
+      "time": "2026-06-24 13:13:48",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Finland",
+        "Unemployment Rate",
+        "Importance 1"
+      ],
+      "text": "Finnish Jobless Rate Highest Since 1998 — Finland’s unemployment rate increased to 12.7% in May 2026 from 10.5% in the same month a year earlier, marking its highest level since May 1998. The number of unemployed climbed by 68,000 year-on-year to 376,000, comprising 203,000 men and 173,000 women. By gender, male unemployment climbed to 13.1%, 2.3 percentage points higher than a year earlier, while the female rate increased to 12.2%, up 2.0 percentage points. Among younger workers aged 15–24, the jobless rate also rose to 37.8%, an increase of 9.7 percentage points year-on-year. Meanwhile, employment decreased by 32,000 to 2.594 million, even as the labour force participation rate picked up to 71.3% from 70.4% a year earlier. Meanwhile, the employment rate for those aged 20–64 declined, falling to 76.5% from 77.0%."
+    },
+    {
+      "id": "4951780",
+      "time": "2026-06-24 13:12:47",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【三孚股份漲停走出3連板】三孚股份漲停走出3連板，3天累計漲幅達33.09%。"
+    },
+    {
+      "id": "mkt:019ef80a-ed3b-7dd8-b0ec-522b9a086070",
+      "time": "2026-06-24 13:12:06",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "South Korea's KOSPI index continued its rebound, trading up about 3% after earlier sliding more than 1% intraday."
+    },
+    {
+      "id": "mkt:019ef80a-729a-7dd8-b0ec-4bcb97260552",
+      "time": "2026-06-24 13:11:34",
+      "tags": [
+        "MKT News",
+        "CSI300",
+        "Impact bullish"
+      ],
+      "text": "A-share photolithography-equipment names rallied in the afternoon; Yongxin Optical hit its daily up limit, Maolai Optical jumped over 14%. Kema Technology, Xinqi Weizhuang, Zhongrun Optical, Xinlai Yingcai and Guangliwei also rose."
+    },
+    {
+      "id": "4951779",
+      "time": "2026-06-24 13:11:24",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "南向資金淨買入額達40億港元。"
+    },
     {
       "id": "4951778",
       "time": "2026-06-24 13:11:05",
@@ -158830,42 +158907,6 @@
         "市場"
       ],
       "text": "布倫特原油日內跌1%，現報78.17美元/桶。"
-    },
-    {
-      "id": "mkt:019ed401-307f-7dd8-b042-82d0cf43a62e",
-      "time": "2026-06-17 13:15:08",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "cenc reported a magnitude-3.6 earthquake at 13:11 on June 17 in Haixi prefecture, Qinghai (37.86N, 95.54E); hypocenter depth 10 km."
-    },
-    {
-      "id": "te:markets:559577",
-      "time": "2026-06-17 13:15:06",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Currency",
-        "Importance 1"
-      ],
-      "text": "FX Updates: Indian Rupee Rises by 0.49% — Top currency gainers are Indian Rupee (0.49%) and Japanese Yen (0.09%). Biggest losers are South Korean Won (-0.27%) and Dollar Index (-0.06%). Meanwhile, Euro and British Pound were little changed."
-    },
-    {
-      "id": "4939999",
-      "time": "2026-06-17 13:14:47",
-      "tags": [
-        "其他"
-      ],
-      "text": "中國地震臺網正式測定：06月17日13時11分在青海海西州直轄區（北緯37.86度，東經95.54度）發生3.6級地震，震源深度10千米。"
-    },
-    {
-      "id": "4939998",
-      "time": "2026-06-17 13:13:30",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "科創50日內漲幅達2.02%，成分股中，盛美上海漲15.55%，拓荊科技漲7.83%，中微公司漲6.17%，思特威漲5.63%。"
     }
   ]
 }
