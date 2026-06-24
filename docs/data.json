@@ -1,7 +1,55 @@
 {
-  "updated": "2026-06-25 02:12:48",
-  "count": 17183,
+  "updated": "2026-06-25 02:16:53",
+  "count": 17185,
   "items": [
+    {
+      "id": "4953317",
+      "time": "2026-06-25 02:16:26",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯總統普京視察最新國產飛機，並確認莫斯科已完全成功替代了西方制裁所涉及的外國飛機部件。"
+    },
+    {
+      "id": "te:markets:561632",
+      "time": "2026-06-25 02:15:06",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Energy Commodities Updates: Brent Crude Oil Falls by 4.24% — Top commodity losers are Brent Crude Oil (-4.24%), Crude Oil WTI (-3.88%) and Methanol (-3.30%). Gains are led by Natural gas (1.90%)."
+    },
+    {
+      "id": "mkt:019efad7-8485-7dd8-b102-09bfcff34d45",
+      "time": "2026-06-25 02:14:48",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "【Andreessen investor: Starship's rapid reusability could enable orbital AI data centers; SpaceX has shown capability】David George, partner at Andreessen Horowitz and a SpaceX investor, said Starship's rapid reusability is critical to Elon Musk's vision of expanding AI compute via orbital data centers. He said once Starship is operational, extending AI capacity to space would be inevitable as terrestrial data-center capacity becomes constrained, describing future satellites as \"aircraft-sized GPU racks.\" George added orbital data centers would at minimum supplement ground facilities and could ultimately be economically superior, and that SpaceX has demonstrated the technical ability to deploy such systems."
+    },
+    {
+      "id": "4953316",
+      "time": "2026-06-25 02:12:58",
+      "tags": [
+        "其他",
+        "焦點"
+      ],
+      "text": "特斯拉跌幅擴大至2%。"
+    },
+    {
+      "id": "mkt:019efad5-af50-7dd8-b102-039ed33a9695",
+      "time": "2026-06-25 02:12:48",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "【Fed finalizes reorganization of bank supervision unit】Federal Reserve Vice Chair for Supervision Michelle Bowman has completed a reorganization of the Fed’s bank supervision function to concentrate resources on what she describes as key financial risks, Bowman said in a memo to staff. The restructuring, effective July 12, reallocates personnel and resources into four functional groups—Supervision; Financial Research, Risk & Applications; Regulation & Policy; and Business Enablement—and the division will begin recruiting leaders and staff."
+    },
     {
       "id": "4953315",
       "time": "2026-06-25 02:11:29",
@@ -33,6 +81,27 @@
         "國際"
       ],
       "text": "美國國家運輸安全委員會：將在30天內初步形成特斯拉撞車事故的初步調查報告。"
+    },
+    {
+      "id": "mkt:019efad5-83d7-7dd8-b101-f74d8a40c3cd",
+      "time": "2026-06-25 02:04:28",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "Spot gold fell below $3,960/oz, down 3.64% intraday."
+    },
+    {
+      "id": "mkt:019efad5-8b73-7dd8-b101-fb4b6285c821",
+      "time": "2026-06-25 02:04:17",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Fed Vice Chair for Supervision Michelle Bowman has completed a personnel reshuffle of the Fed's bank regulatory division."
     },
     {
       "id": "4953311",
@@ -86,6 +155,17 @@
       "text": "紐約期金失守3980美元/盎司，日內跌4.11%。"
     },
     {
+      "id": "mkt:019efad5-8231-7dd8-b101-e5d59b540935",
+      "time": "2026-06-25 02:03:02",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals"
+      ],
+      "text": "Spot silver fell below $56/oz for the first time since November last year, sliding about 9% intraday."
+    },
+    {
       "id": "4953305",
       "time": "2026-06-25 02:02:56",
       "tags": [
@@ -110,6 +190,17 @@
         "公司"
       ],
       "text": "索尼影視：將收購COSM少數股權，執行長拉維·阿胡賈將加入COSM董事會。"
+    },
+    {
+      "id": "mkt:019efad5-827a-7dd8-b101-ea1c07991bdb",
+      "time": "2026-06-25 02:01:29",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals"
+      ],
+      "text": "Spot silver hit its lowest level since last November, trading at $56.17/oz, down more than 8% intraday."
     },
     {
       "id": "4953302",
@@ -157220,77 +157311,6 @@
         "Impact bearish"
       ],
       "text": "【Dot-plot read: One Fed participant backs three hikes in 2026】Fed dot plot for 2026: 1 participant expects three hikes (March: 0), 5 expect two hikes (March: 0), 3 expect one hike (March: 0), 8 expect rates unchanged (March: 7), 1 expects one cut (March: 7), 0 expect two cuts (March: 2), 0 expect three cuts (March: 2), 0 expect four cuts (March: 1). Overall, supporters of 2026 rate increases rose to 9 participants — including one who favors an aggressive 75bp tightening — while supporters of cuts fell to 1."
-    },
-    {
-      "id": "mkt:019ed6cc-1791-7dd8-b05e-4ff491933cbc",
-      "time": "2026-06-18 02:15:59",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "Treasury Yields",
-        "The Fed (FOMC)",
-        "US10Y",
-        "Impact bearish"
-      ],
-      "text": "US Treasury yields rose after Fed officials signaled the next move could be a rate hike. The 10-year Treasury yield traded at 4.465%; the 2-year, which is more sensitive to short-term rate expectations, traded at 4.138%."
-    },
-    {
-      "id": "te:markets:559798",
-      "time": "2026-06-18 02:15:02",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Energy Commodities Updates: Natural gas Drops by 2.46% — Top commodity losers are Natural gas (-2.46%), Methanol (-1.81%) and Natural Gas EU (-0.55%). Gains are led by Crude Oil WTI (0.67%), Gasoline (0.59%) and Brent Crude Oil (0.51%)."
-    },
-    {
-      "id": "te:markets:559797",
-      "time": "2026-06-18 02:14:07",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Stock Market",
-        "Importance 2"
-      ],
-      "text": "US Stocks Erase Gains After Fed — US stock indices swung lower after the Federal Reserve held interest rates unchanged and signaled the possibility of rate hikes this year. The S&P 500 and Nasdaq 100 dropped 0.4%, while the Dow eased from its record high. The Summary of Economic Projections from the Fed's June meeting showed half of the FOMC projecting one rate hike or more this year, as the latest underlying inflation gauges showed an acceleration in prices and employment data remained robust despite economic shocks from the war in Iran. Notably, Chairman Warsh refrained from posting a dot in the projections to reflect his will to change the monetary framework of the Fed. Meanwhile, Iran and the US remained on track to sign their agreement by Friday. Magnificent seven stocks led the losses amid the plunge in Treasuries, with Meta, Microsoft, Alphabet, and Amazon dropping more than 2%. In turn, chip producers extended their rally with Micron, Marvell, Applied Materials and Intel adding more than 3%."
-    },
-    {
-      "id": "4941636",
-      "time": "2026-06-18 02:14:04",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "現貨黃金失守4280美元/盎司，日內跌1.20%。"
-    },
-    {
-      "id": "4941635",
-      "time": "2026-06-18 02:13:52",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "紐約期金失守4300美元/盎司，日內跌1.29%。"
-    },
-    {
-      "id": "4941634",
-      "time": "2026-06-18 02:13:51",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【特朗普稱已與俄烏領導人通話 希望推動停火】當地時間6月17日，美國總統特朗普表示，過去兩天他與七國集團（G7）成員及夥伴國家討論了多項議題，其中包括俄烏衝突。特朗普稱，他已分別與俄羅斯總統普京和烏克蘭總統澤連斯基進行溝通，並向各國領導人通報了此前與普京通話的情況。特朗普重申，仍希望推動俄烏衝突結束。（央視新聞）"
-    },
-    {
-      "id": "4941633",
-      "time": "2026-06-18 02:13:00",
-      "tags": [
-        "國際"
-      ],
-      "text": "倫敦金屬交易所（LME）表示：自 2026 年 7 月 25 日（含當日）起，僅當有證據證明相關金屬已於 2026 年 7 月 25 日前完全依照歐盟理事會第 2026/506 號法規進口至歐盟境內，俄羅斯產銅、鈷方可存入歐盟境內倫敦金屬交易所指定交割倉庫生成倉單。"
     }
   ]
 }
