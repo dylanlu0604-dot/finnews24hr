@@ -1,7 +1,67 @@
 {
-  "updated": "2026-06-25 01:10:47",
-  "count": 17220,
+  "updated": "2026-06-25 01:14:48",
+  "count": 17216,
   "items": [
+    {
+      "id": "4953236",
+      "time": "2026-06-25 01:13:43",
+      "tags": [
+        "其他"
+      ],
+      "text": "奧迪墨西哥工廠工人批准薪資協議，避免罷工。"
+    },
+    {
+      "id": "mkt:019efa9f-1c0a-7dd8-b100-ce64809fb283",
+      "time": "2026-06-25 01:13:11",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "【ADNOC cuts Murban crude official selling price】UAE's Abu Dhabi National Oil Company (ADNOC) set July official selling price for benchmark Murban crude at $101.48 a barrel, down from $104.44 a barrel in June."
+    },
+    {
+      "id": "4953235",
+      "time": "2026-06-25 01:12:56",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯5月份天然氣產量同比增長1%，達到530億立方米。"
+    },
+    {
+      "id": "mkt:019efa9d-56f2-7dd8-b100-c70ad6e7a894",
+      "time": "2026-06-25 01:11:15",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "President Trump said progress is going very smoothly."
+    },
+    {
+      "id": "4953234",
+      "time": "2026-06-25 01:10:33",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "特朗普談伊朗談判：進展非常順利。"
+    },
+    {
+      "id": "mkt:019efa9c-a3a0-7dd8-b100-bcee9e11abde",
+      "time": "2026-06-25 01:10:29",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "AVGO.O",
+        "Impact bullish"
+      ],
+      "text": "【Broadcom CEO: OpenAI's Jalapeño chip signals shift to proprietary AI hardware】Broadcom CEO Hock Tan said the debut of the Jalapeño AI chip, co-developed with OpenAI, marks a shift toward AI labs building their own hardware and infrastructure. He said the move validates Broadcom’s business model and predicted frontier LLM developers will ultimately design and build their own chips and compute because they can do it better. He added OpenAI’s full‑stack strategy produced a chip that is \"excellent\" for its intended use."
+    },
     {
       "id": "mkt:019efa9c-8586-7dd8-b100-b1ca3bd38960",
       "time": "2026-06-25 01:10:21",
@@ -9,6 +69,15 @@
         "MKT News"
       ],
       "text": "Trump said Iran is making very large concessions."
+    },
+    {
+      "id": "4953233",
+      "time": "2026-06-25 01:10:21",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "特朗普：伊朗作出極大讓步。"
     },
     {
       "id": "mkt:019efa9c-19fa-7dd8-b100-a874c92b0760",
@@ -157723,115 +157792,6 @@
         "國際"
       ],
       "text": "伊朗官方媒體訊息：伊朗外交部發言人表示，美伊兩國總統有望親自簽署相關檔案，該方案仍在研討之中。"
-    },
-    {
-      "id": "4941567",
-      "time": "2026-06-18 01:14:10",
-      "tags": [
-        "其他"
-      ],
-      "text": "【秘魯中部發生一起交通事故致11死19傷】秘魯中部瓦努科省16日晚發生一起交通事故，造成至少11人死亡、19人受傷。一輛從該國東部烏卡亞利省普卡爾帕開往首都利馬的省際巴士在途徑瓦努科省埃米利奧巴爾迪桑地區時失控衝出公路並側翻。事發後，救援人員趕赴現場轉運傷員，警方對事故原因展開調查。（新華社）"
-    },
-    {
-      "id": "mkt:019ed692-8d7c-7dd8-b05b-c41a3c9c0992",
-      "time": "2026-06-18 01:13:09",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "WTI",
-        "Impact bearish",
-        "DXY",
-        "US10Y"
-      ],
-      "text": "【Economics professor: US-Iran peace deal could alter Fed rate path】Economics professor Phil Powell said he expects the Fed to hold rates at this meeting. He said markets had feared higher inf prior to a Washington‑Tehran peace deal after oil surged and inf topped 4%, making a near‑term Fed hike more likely than a cut. Powell added an Iran peace agreement would be a sizeable disinflationary shock—oil could fall more than expected and lower the odds of near‑term hikes. He noted this was the first rate decision under the new Fed chair; while markets may view the new chair as more cut‑friendly than his predecessor, Powell said that has not proven true. On cuts, he said rate reductions are unlikely before year‑end because inf must fall first."
-    },
-    {
-      "id": "mkt:019ed692-6df8-7dd8-b05b-b97246a1a52b",
-      "time": "2026-06-18 01:13:01",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "Basra Oil Company said southern Iraq crude output is expected to rise further as tankers load."
-    },
-    {
-      "id": "4941565",
-      "time": "2026-06-18 01:12:51",
-      "tags": [
-        "公司"
-      ],
-      "text": "巴士拉石油公司：隨著油輪裝載石油，伊拉克南部石油產量應進一步上升。"
-    },
-    {
-      "id": "mkt:019ed692-067f-7dd8-b05b-b466728d638b",
-      "time": "2026-06-18 01:12:34",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "Basra Oil Company said southern Iraq crude production is currently 1.5 mln bpd, up from 1.0 mln bpd previously."
-    },
-    {
-      "id": "4941564",
-      "time": "2026-06-18 01:12:24",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國民主黨議員就愛潑斯坦關聯事宜質詢哈佛大學。"
-    },
-    {
-      "id": "mkt:019ed691-c583-7dd8-b05b-aa87aee2cef7",
-      "time": "2026-06-18 01:12:17",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "Financial Times: ANTHROPIC CEO urged G7 leaders to \"resist the temptation to fragment AI\"."
-    },
-    {
-      "id": "4941562",
-      "time": "2026-06-18 01:11:35",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國高階官員：美伊諒解備忘錄文字自上週日以來未作更改。"
-    },
-    {
-      "id": "4941561",
-      "time": "2026-06-18 01:11:12",
-      "tags": [
-        "公司"
-      ],
-      "text": "Anthropic執行長向七國集團領導人呼籲，各國應“抵制在人工智慧領域走向分裂的誘惑”。"
-    },
-    {
-      "id": "mkt:019ed690-ae2a-7dd8-b05b-a0b1ae859e47",
-      "time": "2026-06-18 01:11:06",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "U.S. officials said the United States will work closely with the International Atomic Energy Agency to carry out inspections of Iran."
-    },
-    {
-      "id": "mkt:019ed690-8332-7dd8-b05b-9fbe0cc6a712",
-      "time": "2026-06-18 01:10:55",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "US Economy"
-      ],
-      "text": "US officials said the US and its partners will devise a plan worth at least $300 billion."
     }
   ]
 }
