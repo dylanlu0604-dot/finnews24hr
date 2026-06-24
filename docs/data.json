@@ -1,7 +1,42 @@
 {
-  "updated": "2026-06-24 12:33:51",
-  "count": 17357,
+  "updated": "2026-06-24 12:37:55",
+  "count": 17353,
   "items": [
+    {
+      "id": "mkt:019ef7ea-000e-7dd8-b0eb-c91c15f151b5",
+      "time": "2026-06-24 12:36:08",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Wall Street (US)"
+      ],
+      "text": "The U.S. Department of Justice withdrew subpoenas for reporters at the Washington Post and the Wall Street Journal after legal challenges."
+    },
+    {
+      "id": "4951742",
+      "time": "2026-06-24 12:35:31",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【卡達首相預計該國液化天然氣生產將在幾周內恢復正常】卡達首相阿勒薩尼接受英國金融時報採訪表示，卡達液化天然氣生產預計將在“幾周內”恢復正常。他表示，卡達能源公司正準備恢復正常運營，但受損設施除外。只有在卡達能源公司“認為已解決所有問題並且能夠安全運營”後，才會解除不可抗力。他還表示，在美國和伊朗之間建立熱線，對於防止不受控制的行為方阻礙霍爾木茲海峽重新開放至關重要。"
+    },
+    {
+      "id": "4951741",
+      "time": "2026-06-24 12:35:09",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美洛杉磯倉儲設施火災持續 嚴重影響空氣質量】美國洛杉磯一處大型商業倉儲設施自17日起發生火災。據美國方面訊息，截止到當地時間23日上午，火災仍未撲滅，救火工作仍在進行中。此前一度有美國媒體報道稱，該倉儲設施火災已受控。洛杉磯消防局方面表示，由於倉庫建築結構及冷庫貨架系統限制，消防人員無法對隔熱屋頂進行排煙通風，只能從外部滅火。該倉庫內儲存了大量冷凍食品。目前火勢沒有蔓延至其他建築，但由於大火釋放的濃煙不斷蔓延，導致東洛杉磯等地居民區的空氣質量受到嚴重影響。"
+    },
+    {
+      "id": "4951740",
+      "time": "2026-06-24 12:34:42",
+      "tags": [
+        "其他"
+      ],
+      "text": "訊息人士稱，高通正與位元組跳動就提供定製晶片設計服務進行洽談。"
+    },
     {
       "id": "te:markets:561368",
       "time": "2026-06-24 12:31:00",
@@ -158869,76 +158904,6 @@
         "其他"
       ],
       "text": "【法拉第未來發布四款機器人 構建“一腦多形”戰略】6月17日，在納斯達克上市的法拉第未來舉辦六大系列“全形態FFEAI機器人世界”上半場——六大系列全形態FFEAI機器人世界&EAI教育生態及產品線釋出會，正式釋出全新Futurist（2027款）人形機器人與FXNavi四足機器人，以及FFMasterMini與FFNova四款EAI機器人。"
-    },
-    {
-      "id": "te:markets:559568",
-      "time": "2026-06-17 12:37:54",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "India",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "Sensex Extends Rally to Fourth Day — India’s BSE Sensex rose about 0.3% to 77,065 on Wednesday, extending gains for a fourth consecutive session, although investors became cautious as they awaited fresh catalysts ahead of the US Federal Reserve’s policy decision later in the day, while also monitoring the broader global economic outlook. Among stocks in focus, Infosys announced an artificial intelligence partnership with Valmet, while Wipro launched a new AI center. Reliance Industries remained in the spotlight amid reports of a potential $4 billion initial public offering for its Jio business. Early gainers included Car Trade (9.4%), MTAR (3.5%), Trent (3.2%), Tejas (3%), HSCL (2.6%), and Netweb (1.9%). Meanwhile, Prime Minister Narendra Modi’s “trust deficit” remarks ahead of his meeting with US President Donald Trump highlight underlying geopolitical tensions, though any market reaction will likely hinge on concrete policy outcomes, with investors watching trade, tariffs, and broader economic ties."
-    },
-    {
-      "id": "mkt:019ed3de-4c40-7dd8-b041-ea724dd12cc9",
-      "time": "2026-06-17 12:37:01",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Talaji, deputy secretary-general for international affairs at Iran's United Party, said Iran will not back down against adversaries and will resolutely pursue the people's legitimate demands."
-    },
-    {
-      "id": "4939964",
-      "time": "2026-06-17 12:36:55",
-      "tags": [
-        "國際"
-      ],
-      "text": "【油輪掉頭 駛往中東等候霍爾木茲海峽通航】本週，兩艘原本駛向非洲的油輪在印度洋掉頭，改航中東。船東們爭相調整船舶部署，趕在霍爾木茲海峽有望重新開放前搶佔運力。船舶追蹤資料顯示，蘇伊士型油輪 “卡波迪斯特里亞斯 21 號” （Kapodistrias 21）於週一大幅轉向，原定停靠加彭，下一港變更為阿聯酋富查伊拉港；超大型原油輪 “ Coslucky Lake” 原本前往南非，同日調整航線，目的地同樣改為富查伊拉。航線調整發生在美國與伊朗達成臨時和平協議數小時後。雙方在諒解備忘錄草案中承諾解除海上封鎖、重新開放海峽，該協議定於本週五正式簽署。這條全球關鍵水道承擔全球五分之一原油與液化天然氣運輸量，自 2 月末美以首輪打擊伊朗以來實際處於斷航狀態。多數船東仍持觀望態度，但部分風險承受能力更強的企業已著手敲定往返海峽的航次訂單。當前航運仍附帶風險溢價，率先行動的船東有望賺取更高運費。"
-    },
-    {
-      "id": "mkt:019ed3de-3134-7dd8-b041-e474153d2e7f",
-      "time": "2026-06-17 12:36:54",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Taraji, deputy secretary-general for international affairs of Iran's United Party, said officials will never abandon the principles upheld by the leader in negotiations, now or in the future."
-    },
-    {
-      "id": "mkt:019ed3dd-3d4a-7dd8-b041-db7f6ddf5311",
-      "time": "2026-06-17 12:35:52",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Clinton: Netanyahu sees war as political shield; US-Iran deal would be 'fatal blow'】Former US Secretary of State Hillary Clinton said Netanyahu views war as a political shield amid mounting domestic pressure, using conflict to suppress opponents and rally the nation. She said a US-Iran agreement could be a fatal blow to his political foundation and could pave the way for his removal in future elections."
-    },
-    {
-      "id": "4939963",
-      "time": "2026-06-17 12:35:32",
-      "tags": [
-        "國際"
-      ],
-      "text": "【日本兩地發生食物中毒事件 百餘人出現症狀 】據日本媒體16日報道，日本廣島縣福山市和愛知縣名古屋市近日接連發生食物中毒事件，累計導致百餘人出現相關症狀。報道說，本月11日，在福山市一家住宿設施食用餐食的人中，97人出現腹瀉、腹痛症狀。當地保健所從部分患者體內檢出產氣莢膜梭菌，認定這是一起集體食物中毒事件，並對該住宿設施作出暫停營業處分。另一起事件發生在名古屋市會員制超市。5名7歲至49歲的男女食用該店製作銷售的捲餅類食品後出現腹痛、腹瀉等症狀，其中3人住院。住院患者中，一名小學生出現溶血性尿毒綜合徵。名古屋市已對製作涉事食品相關場所作出暫停營業處分。"
-    },
-    {
-      "id": "4939962",
-      "time": "2026-06-17 12:34:59",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "現貨黃金失守4320美元/盎司，日內跌0.27%。"
-    },
-    {
-      "id": "4939961",
-      "time": "2026-06-17 12:34:31",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "紐約期金失守4340美元/盎司，日內跌0.34%。"
     }
   ]
 }
