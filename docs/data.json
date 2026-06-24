@@ -1,7 +1,21 @@
 {
-  "updated": "2026-06-25 05:18:53",
-  "count": 17066,
+  "updated": "2026-06-25 05:22:45",
+  "count": 17062,
   "items": [
+    {
+      "id": "mkt:019efb81-9cc6-7dd8-b105-c8d8206c34a6",
+      "time": "2026-06-25 05:20:35",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Wall Street (US)",
+        "JPM.O",
+        "Impact bullish",
+        "GS.O",
+        "MS.O"
+      ],
+      "text": "【US big banks raise dividends after Fed stress tests; JP Morgan launches $50bn buyback】US large banks raised dividends after passing the Federal Reserve's annual stress tests, following gradual regulatory adjustments that have eased the test hurdle. JP Morgan raised its quarterly dividend to $1.65 from $1.50 and approved a $50 billion share buyback effective July 1. Wells Fargo raised its dividend to $0.50 from $0.45. Morgan Stanley raised its dividend to $1.15 from $1.00. Goldman Sachs raised its dividend to $5.00 from $4.50."
+    },
     {
       "id": "4953539",
       "time": "2026-06-25 05:18:13",
@@ -155920,48 +155934,6 @@
         "Brent"
       ],
       "text": "Iranian state broadcaster Press TV quoted an Iranian foreign ministry spokesman saying a memorandum of understanding between Iran and the United States has been finalized and signed by both parties."
-    },
-    {
-      "id": "4941861",
-      "time": "2026-06-18 05:22:36",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "伊朗外交部發言人：伊美諒解備忘錄文字已正式敲定，雙方均已簽署該檔案。"
-    },
-    {
-      "id": "mkt:019ed776-7622-7dd8-b064-67119c3f9d75",
-      "time": "2026-06-18 05:22:05",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Ukrainian President Zelenskiy said he held coordinated talks with U.S. President Trump and French President Macron, thanking Trump for help advancing the peace process and Macron for organizing a summit and their joint efforts."
-    },
-    {
-      "id": "4941860",
-      "time": "2026-06-18 05:21:43",
-      "tags": [
-        "國際"
-      ],
-      "text": "澤連斯基表示，他感謝特朗普助力推動和平程序，感謝馬克龍組織此次峰會並開展聯合工作。"
-    },
-    {
-      "id": "4941859",
-      "time": "2026-06-18 05:21:39",
-      "tags": [
-        "國際"
-      ],
-      "text": "烏克蘭總統澤連斯基稱，他與特朗普、馬克龍進行了“協調立場對話”。"
-    },
-    {
-      "id": "4941858",
-      "time": "2026-06-18 05:20:15",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【儲存晶片供應緊張，庫克宣佈漲價計劃，蘋果股價小幅走高】蘋果公司股價盤後小幅上漲0.5%。此前庫克透露，計劃上調旗下產品售價，以此消化記憶體與儲存晶片上漲帶來的成本壓力。庫克在採訪中表示，蘋果準備動用自有現金儲備，增加儲存晶片的供貨供給。"
     }
   ]
 }
