@@ -1,7 +1,72 @@
 {
-  "updated": "2026-06-24 10:34:54",
-  "count": 17392,
+  "updated": "2026-06-24 10:39:08",
+  "count": 17391,
   "items": [
+    {
+      "id": "mkt:019ef77e-6bb4-7dd8-b0e9-516c2127a8b5",
+      "time": "2026-06-24 10:38:37",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Keiko Fujimori leads preliminary count in Peru presidential runoff】An update from Peru's National Office of Electoral Processes (ONPE) late on the 23rd showed right-wing Popular Force candidate Keiko Fujimori leading in the preliminary count of the presidential runoff."
+    },
+    {
+      "id": "4951570",
+      "time": "2026-06-24 10:38:23",
+      "tags": [
+        "其他"
+      ],
+      "text": "秘魯全國選舉程式辦公室23日晚更新的秘魯總統選舉第二輪投票初步計票結果顯示，右翼政黨人民力量黨候選人藤森慶子領先。（新華社）"
+    },
+    {
+      "id": "4951569",
+      "time": "2026-06-24 10:37:14",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "Advent據悉將收購日本一家護理公司。"
+    },
+    {
+      "id": "4951568",
+      "time": "2026-06-24 10:37:13",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金失守4080美元/盎司，日內跌1.67%。"
+    },
+    {
+      "id": "4951567",
+      "time": "2026-06-24 10:36:55",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【印度對涉華乙二胺作出反傾銷終裁，建議徵收為期5年反傾銷稅】6月23日，印度商工部發布公告，對原產於或進口自中國大陸、歐盟、沙烏地阿拉伯以及中國臺灣地區的乙二胺作出反傾銷肯定性終裁，建議徵收為期5年的反傾銷稅，具體如下：中國大陸為350－575美元/噸，歐盟為464－739美元/噸，沙烏地阿拉伯為230－375美元/噸，中國臺灣地區為301美元/噸。"
+    },
+    {
+      "id": "4951566",
+      "time": "2026-06-24 10:36:30",
+      "tags": [
+        "其他"
+      ],
+      "text": "【深圳經營主體總量超450萬家】在24日上午舉行的2026年APEC中小企業工商論壇主論壇上，深圳市市長覃偉中介紹，截至今年5月，深圳經營主體總量超450萬家，其中中小企業超280萬家，經營主體數量和創業密度均居中國城市首位。"
+    },
+    {
+      "id": "mkt:019ef77b-0110-7dd8-b0e9-4ce2ba6355e2",
+      "time": "2026-06-24 10:34:53",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "INTC.O",
+        "Impact bullish",
+        "TSM.N",
+        "Impact bearish"
+      ],
+      "text": "SoftBank CEO Masayoshi Son said Intel (INTC.O)'s manufacturing role is critical, and tech giants are seeking to surpass TSMC (TSM.N)."
+    },
     {
       "id": "4951565",
       "time": "2026-06-24 10:34:17",
@@ -159247,87 +159312,6 @@
         "焦點"
       ],
       "text": "【潘功勝：研究設立特定情景非銀流動性支援宏觀審慎工具】6月17日，央行行長潘功勝在2026陸家嘴論壇上表示，研究設立特定情景非銀流動性支援宏觀審慎工具。當債券等市場出現系統性壓力，正常流動性渠道受阻，機構群體性面臨流動性危機且可能引發系統性風險時，透過互換方式向非銀機構提供緊急流動性。"
-    },
-    {
-      "id": "4939727",
-      "time": "2026-06-17 10:37:45",
-      "tags": [
-        "其他"
-      ],
-      "text": "【丁向群：嚴厲打擊金融黑灰產 堅定推行保險業“報行合一”】在2026陸家嘴論壇上，國家金融監管總局局長丁向群表示，將嚴肅市場紀律，深入整治無序競爭，嚴厲打擊金融黑灰產，堅定推行保險業“報行合一”，切實維護金融市場秩序，督促金融機構牢固樹立正確的經營觀、業績觀、風險觀，健全治理機制，強化激勵約束，由追求速度和規模向以質量和效益為中心轉變。"
-    },
-    {
-      "id": "mkt:019ed371-0b2f-7dd8-b03e-a06d116c0ea5",
-      "time": "2026-06-17 10:37:41",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "Tanker Trackers reports a third National Iranian Tanker Company (NITC) crude tanker has left the blockade line carrying 1 million barrels of oil."
-    },
-    {
-      "id": "4939726",
-      "time": "2026-06-17 10:37:39",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "據船舶追蹤網站Tanker Trackers：第三艘伊朗國家油輪公司（NITC）油輪離開封鎖線，船上裝載了100萬桶原油。"
-    },
-    {
-      "id": "4939725",
-      "time": "2026-06-17 10:37:23",
-      "tags": [
-        "其他"
-      ],
-      "text": "【“豆包股”上調至14.85美元 較上次回購價格漲13.5%】記者獲悉，位元組內部對“豆包股”價格進行最新調整，最新價格為14.85美元。據悉，“豆包股”是位元組跳動為豆包相關大模型業務搭建的“虛擬股”機制，今年4月位元組跳動啟動“豆包股”首次回購，回購價格為13.08美元，較此前10美元的授予價格上浮30%。（科創板日報）"
-    },
-    {
-      "id": "4939722",
-      "time": "2026-06-17 10:36:06",
-      "tags": [
-        "公司"
-      ],
-      "text": "【分子之心完成A輪系列融資，累計融資金額逾億美元】AI蛋白質設計平臺公司分子之心（MoleculeMind）完成A輪系列融資，累計融資金額逾億美元。本輪融資由藍橋資本、浦東創投、中糧新興產業基金、東方富海、復星創富、國方創投、賽分科技、英飛尼迪、財鑫資本、正鼎等機構參與投資，凱賽生物、芯航資本等老股東亦繼續追加投資。"
-    },
-    {
-      "id": "te:markets:559547",
-      "time": "2026-06-17 10:35:47",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Indonesia",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "Indonesia Stocks Trade at Near One-Month Peak — Indonesia’s IDX Composite climbed 55 points or 0.9% to 6,312 in early Wednesday trade, marking a near one-month high and its third straight gain as traders returned from a holiday. Stronger U.S. stock futures boosted sentiment after Wall Street ended mixed overnight ahead of the Fed’s policy decision later today under new chairman Kevin Warsh. The central bank is widely expected to hold rates steady, with Warsh seen potentially scrapping the ‘dot plot’ to give policymakers more flexibility. A firmer rupiah also lent support, aided by hopes of Middle East peace that lifted risk appetite and pressured the U.S. dollar index. Still, upside was capped after Fitch Ratings warned that local commodity exporters face higher credit risks under Indonesia’s centralized export policy. All sectors advanced, led by basic materials, non-cyclicals, infrastructure, and energy. Notable movers included Aneka Tambang (2.9%), Bank Central Asia (2.8%), Astra Agro Lestari (2.5%), and United Tractor (1%)."
-    },
-    {
-      "id": "mkt:019ed36f-4d11-7dd8-b03e-99e635756d6c",
-      "time": "2026-06-17 10:35:47",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Greater China",
-        "02382.HK",
-        "Impact bullish",
-        "01989.HK",
-        "02018.HK"
-      ],
-      "text": "Hong Kong electronic components stocks rallied; Sunny Optical (02382.HK) jumped over 10%, Guanghe Technology (01989.HK) climbed more than 7%, and Shenghong Technology (02476.HK), AAC Technologies (02018.HK) and Lens Technology (06613.HK) each rose about 4%."
-    },
-    {
-      "id": "4939720",
-      "time": "2026-06-17 10:35:37",
-      "tags": [
-        "公司"
-      ],
-      "text": "【半導體裝置板塊持續回暖 盛美上海漲超10%創歷史新高】半導體裝置板塊日內持續回暖，盛美上海漲超10%，創歷史新高，福光股份、精智達、盛劍科技、芯碁微裝、長川科技、華峰測控跟漲。"
     }
   ]
 }
