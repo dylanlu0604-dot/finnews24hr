@@ -1,7 +1,64 @@
 {
-  "updated": "2026-06-25 16:57:20",
-  "count": 16985,
+  "updated": "2026-06-25 17:01:22",
+  "count": 16973,
   "items": [
+    {
+      "id": "te:markets:561843",
+      "time": "2026-06-25 17:00:06",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "FX Updates: Brazilian Real Appreciates by 0.40% — Top currency gainers are Brazilian Real (0.40%), Swedish Krona (0.32%), British Pound (0.17%) and Euro (0.09%). Biggest losers are Indian Rupee (-0.32%) and Dollar Index (-0.12%). Meanwhile Japanese Yen was little changed."
+    },
+    {
+      "id": "mkt:019efe01-f5c5-7dd8-b114-441e4932f140",
+      "time": "2026-06-25 17:00:01",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "Chip Wars",
+        "AI Revolution",
+        "MU.O",
+        "Impact bullish"
+      ],
+      "text": "【Morgan Stanley raises Micron PT to $1,200, keeps Overweight】Morgan Stanley raised its price target on Micron Technology (MU.O) to $1,200 from $1,050 and maintained an Overweight rating. The bank lifted its FY2027 EPS estimate by about 40% to $168 a share and raised its free cash flow forecast to $140bn from $104bn. Morgan Stanley, aligned with Micron management, said AI will drive DRAM demand to materially outstrip supply after 2027. Micron’s most recent quarter conformed to this trend and both results and guidance show significant upside."
+    },
+    {
+      "id": "4954697",
+      "time": "2026-06-25 16:59:20",
+      "tags": [
+        "公司"
+      ],
+      "text": "【三星首證HBM封裝新技術優勢：混合銅鍵合破解“高積熱”難題】隨著AI大模型引數量的不斷膨脹，業界對HBM（高頻寬記憶體）的堆疊層數需求正逼近物理極限。然而，晶片越堆越高，隨之而來的“積熱”問題便成了制約效能釋放的最大瓶頸。近日，三星電子用一項重磅研究給出了破局方案：其研究團隊首次透過量化資料證實，在下一代HBM封裝中採用的混合銅鍵合（HCB）技術，在熱管理上全面優於傳統的熱壓接合（TCB）。"
+    },
+    {
+      "id": "4954696",
+      "time": "2026-06-25 16:57:57",
+      "tags": [
+        "觀點"
+      ],
+      "text": "【大摩：上調美光目標價至1200美元，維持“增持”評級】摩根士丹利發表報告，將美光科技的目標價由1050美元上調至1200美元，維持“增持”評級。該行將2027財年每股盈利預測上調約40%至每股168美元，自由現金流預測從1040億美元提升至1400億美元。該行與美光管理層看法一致，認為AI將使DRAM需求在2027年後持續大幅超越供給。美光上財季業績符合此趨勢，季度表現及展望均有顯著上行空間。"
+    },
+    {
+      "id": "4954694",
+      "time": "2026-06-25 16:57:24",
+      "tags": [
+        "公司"
+      ],
+      "text": "【國控汽車及交通裝備（淮南）股權投資基金合夥企業成立，出資額5億】天眼查App顯示，6月22日，國控汽車及交通裝備（淮南）股權投資基金合夥企業（有限合夥）成立，執行事務合夥人為安徽省屬企業改革發展基金管理有限公司，出資額5億人民幣，經營範圍為以私募基金從事股權投資、投資管理、資產管理等活動。合夥人資訊顯示，該基金由淮南交通控股（集團）有限公司、安徽國控投資有限公司、安徽省新能源汽車和智慧網聯汽車產業基金合夥企業（有限合夥）、安徽省屬企業改革發展基金管理有限公司共同出資。"
+    },
+    {
+      "id": "4954693",
+      "time": "2026-06-25 16:57:13",
+      "tags": [
+        "其他"
+      ],
+      "text": "【國防部回應福建艦過航臺灣海峽：例行訓練，今後還會繼續組織】6月25日，國防部舉行例行記者會，國防部新聞發言人張曉剛大校答記者問。有記者提問，臺防務部門23日披露稱，解放軍航母福建艦當天過航臺灣海峽並再度公開了監視畫面，稱“運用聯合情監偵手段全程嚴密監控，掌握動態”。請問發言人能否證實並介紹此次航行的任務？對此，張曉剛表示，這是福建艦開展的例行訓練，今後還會繼續組織。2025年11月5日，福建艦正式入列，作為全球首艘採用常規動力和電磁彈射技術的航空母艦，其一舉一動都備受外界關注。入列後，福建艦立即開展了首次海上實兵訓練任務。在這次任務中，殲-35、殲-15T、殲-15DT、空警-600等多型艦載機，完成了多架次彈射起飛和著艦訓練。任務期間，福建艦航母編隊還開展了編隊航行、艦機聯合搜救等多個課目的訓練。去年12月16日，臺防務部門通報稱，福建艦於12月16日首次在服役後北上透過臺灣海峽。（澎湃）"
+    },
     {
       "id": "4954692",
       "time": "2026-06-25 16:56:31",
@@ -154875,174 +154932,6 @@
         "Impact bullish"
       ],
       "text": "【PBOC, CSRC officials on Hong Kong's recent launch of 5-year RMB government bond futures】PBOC and CSRC said they support Hong Kong's recent launch of 5-year RMB government bond futures, noting the product will expand hedging tools for international investors, boost RMB asset appeal and reinforce Hong Kong's offshore RMB hub, encouraging long-term allocations to China. They said, in line with priorities of risk prevention, stronger supervision and high-quality development, they will coordinate with Hong Kong to strengthen market monitoring and analysis, share data and information, and enhance cross-border regulatory cooperation to keep markets orderly."
-    },
-    {
-      "id": "4943025",
-      "time": "2026-06-18 17:01:20",
-      "tags": [
-        "市場"
-      ],
-      "text": "【中國人民銀行、中國證監會有關部門負責人就香港近期推出5年期人民幣國債期貨答記者問】中國人民銀行、中國證監會支援香港於近期正式推出5年期人民幣國債期貨產品，此舉有利於進一步豐富國際投資者風險管理工具，提升人民幣資產吸引力，鞏固提升香港離岸人民幣樞紐地位，增強長期配置型投資者投資中國的意願和信心。下一步，中國人民銀行、中國證監會將按照防風險、強監管、促高質量發展的工作要求，會同香港方面加強市場監測分析、資料資訊共享和跨境監管合作，共同維護兩地市場平穩有序執行。"
-    },
-    {
-      "id": "te:economy:560042",
-      "time": "2026-06-18 17:00:54",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Taiwan",
-        "Interest Rate",
-        "Importance 1"
-      ],
-      "text": "Taiwan Holds Rate at 2% as Expected — The Central Bank of the Republic of China, Taiwan's monetary authority, maintained its benchmark interest rate unchanged at 2% in its June 2026 decision, as expected by the large majority of the market, to hold borrowing costs at their since 2008 for the ninth straight quarter. The decision contrasted with monetary authorities across Asia, which have commenced their hiking cycles as higher energy prices from the war in Iran exacerbated inflationary pressures. Inflation in Taiwan rose past 2% for the first time in one year in May, crossing the alert threshold for the central bank. This was combined with soaring growth in the economic area amid the global boom for high-end semiconductors and AI infrastructure products, driving the country to revised export growth this year upwards to 40%."
-    },
-    {
-      "id": "te:markets:560041",
-      "time": "2026-06-18 17:00:38",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Japan",
-        "currency",
-        "Importance 1"
-      ],
-      "text": "Japanese Yen Hits 23-month Low — The Japanese Yen touched 160.80 against the USD, the lowest since July 2024. Over the past 4 weeks, US Dollar Japanese Yen gained 1.07%, and in the last 12 months, it increased 10.6%."
-    },
-    {
-      "id": "te:economy:560040",
-      "time": "2026-06-18 17:00:30",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Germany",
-        "Government Bond 10Y",
-        "Importance 1"
-      ],
-      "text": "Bund Yields Slightly Up as Fed Signals Hawkish Shift — Germany’s 10-year Bund yields rose slightly to 2.93%, hovering near their lowest point since March 17, as traders assessed a more hawkish tone from the US Federal Reserve while also welcoming reports that the US and Iran had signed an agreement to reopen the Strait of Hormuz. The deal sent oil prices to fresh three-month lows, helping to alleviate inflation concerns. However, lingering tensions remained, as US President Donald Trump threatened to resume attacks and target Iranian officials if Iran did not honor its commitments. As expected, the Fed left interest rates unchanged, but its new quarterly projections indicated that nine policymakers now foresee a rate hike by the end of 2026. This development followed last week’s rate hike by the European Central Bank and a similar move by the Bank of Japan earlier this week. Money markets are currently pricing in at least one more rate increase by the ECB before the end of the year."
-    },
-    {
-      "id": "4943024",
-      "time": "2026-06-18 17:00:14",
-      "tags": [
-        "其他"
-      ],
-      "text": "歐元區4月工作日調整後建築業產出同比 0.9%，前值 -1.2%。"
-    },
-    {
-      "id": "4943023",
-      "time": "2026-06-18 17:00:12",
-      "tags": [
-        "其他"
-      ],
-      "text": "歐元區4月季調後建築業產出環比 0.6%，前值 0.8%。"
-    },
-    {
-      "id": "te:markets:560039",
-      "time": "2026-06-18 17:00:04",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Currency",
-        "Importance 1"
-      ],
-      "text": "FX Updates: South Korean Won Drops by 0.65% — Top currency losers are South Korean Won (-0.65%), Polish Zloty (-0.42%), Swedish Krona (-0.41%), British Pound (-0.36%), Euro (-0.16%) and Japanese Yen (-0.08%). Gains are led by Dollar Index (0.49%), Indian Rupee (0.45%) and Brazilian Real (0.39%)."
-    },
-    {
-      "id": "4943022",
-      "time": "2026-06-18 16:59:43",
-      "tags": [
-        "公司"
-      ],
-      "text": "【傲農生物：214.37萬股限售股6月25日上市流通】傲農生物公告稱，本次上市流通的限售股為財務投資人在公司重整中取得的轉增股份，共計2,143,652股，上市流通日期為2026年6月25日。涉及股東3名，分別為許良委、廈門嘉益實業有限公司、廈門文藝東方商貿有限公司，此次解除限售後剩餘限售股數量均為0。本次限售股上市後，公司有限售條件的流通股變為584,472,158股，無限售條件的流通股變為2,146,589,668股，總股本不變，仍為2,731,061,826股。"
-    },
-    {
-      "id": "4943021",
-      "time": "2026-06-18 16:59:35",
-      "tags": [
-        "公司"
-      ],
-      "text": "【吉利控股攜多個品牌亮相香港車博會，綠色智慧交通解決方案落地香港】在2026香港車博會上，吉利控股集團攜旗下吉利遠端新能源商用車、曹操出行、極氪品牌及生態產品參展，展示綠色甲醇全場景應用、面向AI時代的RoboX戰略與極氪9系雙旗艦全球化戰略等核心成果。（新浪科技）"
-    },
-    {
-      "id": "4943020",
-      "time": "2026-06-18 16:59:13",
-      "tags": [
-        "公司"
-      ],
-      "text": "【中國核建：1-5月新籤合同298.5億元，營收345.16億元】中國核建公告，公司釋出2026年1-5月經營情況簡報，期間實現新籤合同298.5億元，實現營業收入345.16億元。以上為階段性資料，與定期報告披露的資料可能存在差異。"
-    },
-    {
-      "id": "4943019",
-      "time": "2026-06-18 16:58:52",
-      "tags": [
-        "行業",
-        "其他",
-        "焦點"
-      ],
-      "text": "【商務部：會同相關部門落實落細各項政策舉措，持續推動人工智慧與消費深度融合】商務部市場建設司負責人解讀《關於加快“人工智慧+消費”發展的實施意見》。《實施意見》以推動人工智慧與消費深度融合為主線，以擴大智慧商品消費、賦能服務消費、創新消費場景為重點，以人工智慧新產品新服務新場景示範應用為路徑，提出5方面17條舉措。包括提升人工智慧+商品消費。增加人工智慧產品新供給，擴大人工智慧手機和電腦、智慧家居、智慧網聯汽車、智慧穿戴、人工智慧機器人等新一代智慧產品消費。建設人工智慧商品首發平臺，支援人工智慧商品首發首展，組織“人工智慧進萬家”活動。擴大人工智慧+服務消費。推動人工智慧與居家、養老、文化旅遊、住宿餐飲和教育教學等服務深度融合，促進生活性服務業智慧化升級，加快智慧產品在家庭、社群、養老機構、旅遊景區和教學課堂等場景應用驗證和迭代升級。"
-    },
-    {
-      "id": "mkt:019ed9f3-f538-7dd8-b074-e654fd993cc4",
-      "time": "2026-06-18 16:58:24",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bearish",
-        "Brent",
-        "S&P500",
-        "Impact bullish"
-      ],
-      "text": "【Swiss foreign ministry says US, Iran to meet June 19 at Bürgenstock】The Swiss foreign ministry said on June 18 that the United States and Iran plan to meet on June 19 at Bürgenstock with mediators Pakistan, Qatar and other relevant parties for preliminary talks on implementing an agreement. The ministry welcomed the memorandum of understanding between Washington and Tehran, calling it an important step toward easing tensions in the Middle East."
-    },
-    {
-      "id": "mkt:019ed9f3-e8d5-7dd8-b074-dc50bac5a8c1",
-      "time": "2026-06-18 16:58:21",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "China's Ministry of Industry and Information Technology has opened public consultation on 48 telecom industry standards, including the 5G mobile communication network core network function test methods (Phase III), and on 10 foreign-language versions of telecom standards for approval."
-    },
-    {
-      "id": "mkt:019ed9f3-9c48-7dd8-b074-d4651c288ff3",
-      "time": "2026-06-18 16:58:01",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "China's Ministry of Industry and Information Technology published a public consultation on 10 draft industry-standard projects, including Humanoid Robot — Technical Requirements for Substation Scenarios."
-    },
-    {
-      "id": "4943018",
-      "time": "2026-06-18 16:57:58",
-      "tags": [
-        "其他"
-      ],
-      "text": "工信部公開徵求《人形機器人 變電站場景技術要求》等10項行業標準計劃專案意見。"
-    },
-    {
-      "id": "4943017",
-      "time": "2026-06-18 16:57:47",
-      "tags": [
-        "公司"
-      ],
-      "text": "【藥明康德：6月18日斥資1.00億元回購97.84萬股】藥明康德公告稱，公司6月18日實施股份回購，透過上海證券交易所回購97.84萬股，佔有關事件前的現有已發行股份（不包括庫存股份）數目的0.0396%，每股回購價在97.89-104.09元之間，付出的價格總額為1.00億元。所回購的A股將用於員工持股計劃。"
-    },
-    {
-      "id": "4943015",
-      "time": "2026-06-18 16:57:36",
-      "tags": [
-        "國際"
-      ],
-      "text": "【瑞士外交部：美伊會談19日在比爾根山舉行】瑞士外交部18日表示，美國和伊朗計劃與調解方巴基斯坦、卡達及其他相關國家於19日在瑞士比爾根山舉行會談，就協議的執行進行初步談判。瑞士外交部對媒體表示，瑞士對美國和伊朗簽署諒解備忘錄表示歡迎，稱這是中東地區局勢緩和的重要一步。"
-    },
-    {
-      "id": "mkt:019ed9f3-106e-7dd8-b074-cfc2e408f747",
-      "time": "2026-06-18 16:57:25",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Precious Metals"
-      ],
-      "text": "Spot palladium fell 2.00% intraday to $1,292/oz."
     }
   ]
 }
