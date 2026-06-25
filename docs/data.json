@@ -1,7 +1,79 @@
 {
-  "updated": "2026-06-26 06:54:38",
-  "count": 16948,
+  "updated": "2026-06-26 06:58:31",
+  "count": 16955,
   "items": [
+    {
+      "id": "4955916",
+      "time": "2026-06-26 06:57:45",
+      "tags": [
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲古爾斯比：油價下跌可能會對美國經濟構成尾部風險。令人心煩意亂的高通脹來自服務業。"
+    },
+    {
+      "id": "te:markets:562012",
+      "time": "2026-06-26 06:57:40",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "New Zealand",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "NZX 50 Points to 3rd Straight Weekly Gain — The NZX 50 climbed 22 points, or 0.2%, to 13,516 in Friday morning trade, extending gains from the previous session and marking its highest level since March 6, primarily buoyed by gains in consumer staples, materials, and communication services. Easing oil prices further lifted sentiment as inflation concerns moderated, reducing expectations of an interest rate hike. However, traders remained cautious after US PCE inflation hit a three-year high, raising expectations that the Fed will hold interest rates higher for longer. Traders also anticipated New Zealand's consumer and business confidence data due next week, as well as China's PMI data and US jobs data for June. Among the early gainers were Vulcan Steel (1.9%), Contact Energy (1.2%), AFT Pharmaceuticals (0.8%), Chorus (0.6%), ANZ Group (0.3%), and Ebos Group (0.3%). For the week, the index is on track for a 0.1% gain, which would mark its third consecutive weekly advance."
+    },
+    {
+      "id": "4955915",
+      "time": "2026-06-26 06:57:19",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普政府擬提名Jeffrey Vacirca出任美國食品藥品監督管理局（FDA）局長。"
+    },
+    {
+      "id": "mkt:019f00ff-eb40-7dd8-b126-db35757af1c8",
+      "time": "2026-06-26 06:56:39",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "【EU sends €3.2 bln first tranche of €900 bln Ukraine loan】European Commission president Von der Leyen said on the 25th the EU has sent €3.2 bln to Ukraine, the first disbursement from a €900 bln loan package designed to cover Ukraine’s 2026–27 fiscal needs. The European Parliament approved the €900 bln loan in February and the EU gave formal approval in April."
+    },
+    {
+      "id": "4955914",
+      "time": "2026-06-26 06:56:11",
+      "tags": [
+        "國際"
+      ],
+      "text": "【歐盟向烏撥付900億歐元貸款首筆資金】歐盟委員會主席馮德萊恩25日宣佈，歐盟當天向烏克蘭撥付了32億歐元的貸款。這是歐盟向烏提供的900億歐元貸款中的首筆資金。今年2月，歐洲議會投票透過一項總額900億歐元的烏克蘭援助貸款，以滿足烏克蘭2026至2027年度的財政需求。4月，歐盟正式批准這筆貸款。（央視新聞）"
+    },
+    {
+      "id": "mkt:019f00ff-3f62-7dd8-b126-d698076e4e71",
+      "time": "2026-06-26 06:55:55",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "President Trump nominated Chris Kelongpu as the next deputy secretary of the Department of Health and Human Services."
+    },
+    {
+      "id": "4955913",
+      "time": "2026-06-26 06:55:33",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：提名Chris Klomp出任衛生與公眾服務部副部長。"
+    },
+    {
+      "id": "4955912",
+      "time": "2026-06-26 06:54:22",
+      "tags": [
+        "國際"
+      ],
+      "text": "大韓航空（股票程式碼：003490.KS）收到韓國交通部通知，其與韓亞航空的合併方案獲批。"
+    },
     {
       "id": "4955911",
       "time": "2026-06-26 06:54:09",
@@ -155069,18 +155141,6 @@
         "Importance 1"
       ],
       "text": "New Zealand Imports Jump 25.9% in May — Imports to New Zealand surged 25.9% year-on-year to NZD 8.8 billion in May 2026, following a downwardly revised 3.0% increase in the previous month."
-    },
-    {
-      "id": "te:economy:560192",
-      "time": "2026-06-19 06:56:23",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "New Zealand",
-        "Exports",
-        "Importance 1"
-      ],
-      "text": "New Zealand Exports Hit Record High — New Zealand’s exports increased 18.1% year-on-year to a record high of NZD 8.9 billion in May 2026, after a downwardly revised 7.7% rise in the previous month."
     }
   ]
 }
