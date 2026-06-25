@@ -1,7 +1,37 @@
 {
-  "updated": "2026-06-26 02:23:00",
+  "updated": "2026-06-26 02:27:00",
   "count": 16944,
   "items": [
+    {
+      "id": "4955762",
+      "time": "2026-06-26 02:25:16",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列國防軍稱，已打擊對己方部隊構成威脅的真主黨武裝人員。"
+    },
+    {
+      "id": "te:markets:561989",
+      "time": "2026-06-26 02:25:11",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Agricultural Commodities Updates: Cocoa Rallies by 5.17% — Top commodity gainers are Cocoa (5.17%), Corn (1.86%) and Soybeans (1.67%). Biggest losers are Oat (-3.54%) and Wool (-2.31%)."
+    },
+    {
+      "id": "mkt:019f0006-93e7-7dd8-b124-20d68b58b5a6",
+      "time": "2026-06-26 02:24:18",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact mixed",
+        "Brent"
+      ],
+      "text": "【IMO pauses Strait of Hormuz ship evacuations after reported attack】International Maritime Organization (IMO) Secretary-General Arsenio Domingues said the IMO has paused an evacuation plan for vessels in the Strait of Hormuz, launched earlier this week, after a reported attack today on a vessel off the Omani coast in the Gulf of Oman. A UK maritime agency reported the attack; the vessel was not operating under the IMO evacuation framework. Domingues said the pause will allow the IMO to reconfirm the evacuation list and verify that all vessels in the area have necessary security protections."
+    },
     {
       "id": "4955761",
       "time": "2026-06-26 02:20:30",
@@ -155008,33 +155038,6 @@
         "國際"
       ],
       "text": "【特朗普：必須立即廢除冗長辯論機制 透過《拯救美國法案》】美國總統特朗普表示：“看起來我每次都輕鬆贏得的猶他州，正在轉向科羅拉多州的全郵寄投票模式，而一旦採取這種做法，這些州往往就會倒向左翼。我們必須阻止猶他州這樣做。如果操作不當，全郵寄選票將為民主黨人帶來巨大優勢；由於他們的政策荒謬至極，作弊成了他們通往勝利的唯一途徑。共和黨意識到自己正面臨什麼了嗎？民主黨人正步步為營、逐州推進，一路笑納‘戰果’。必須立即廢除冗長辯論機制和/或透過《拯救美國法案》”。特朗普還表示：“任何不想廢除冗長辯論機制的人都是蠢貨，而且是極度愚蠢的蠢貨！那些‘笨蛋民主黨人’（Dumocrats）一旦上臺，幾分鐘內就會廢除這一規則，隨後迅速著手摧毀我們的國家。”"
-    },
-    {
-      "id": "mkt:019edbfb-a08a-7dd8-b086-ae1ff0bb31ec",
-      "time": "2026-06-19 02:26:01",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Trump said anyone who opposes repealing the filibuster is \"stupid\" and \"extremely stupid,\" called Democrats \"Dumocrats,\" and warned they would abolish the rule within minutes and then move quickly to destroy the country."
-    },
-    {
-      "id": "te:markets:560169",
-      "time": "2026-06-19 02:25:08",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Agricultural Commodities Updates: Rice Rises by 2.31% — Top commodity gainers are Rice (2.31%) and Oat (2.05%). Biggest losers are Coffee (-2.24%), Canola (-1.73%) and Sugar (-1.60%)."
-    },
-    {
-      "id": "4944222",
-      "time": "2026-06-19 02:24:40",
-      "tags": [
-        "國際"
-      ],
-      "text": "【特朗普稱預計“所有戰線都將實現全面停火”】當地時間6月18日，美國總統特朗普在社交平臺發文表示，美國致力於和平，並呼籲中東地區各方繼續履行承諾，確保當前談判“順利推進”。他表示，美方預計“所有戰線都將實現全面停火”，其中包括黎巴嫩、黎真主黨以及以色列方面。（央視新聞）"
     }
   ]
 }
