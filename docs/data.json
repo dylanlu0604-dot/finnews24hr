@@ -1,7 +1,139 @@
 {
-  "updated": "2026-06-26 00:35:34",
-  "count": 16893,
+  "updated": "2026-06-26 00:39:49",
+  "count": 16896,
   "items": [
+    {
+      "id": "mkt:019effa6-63f2-7dd8-b121-e469f6237393",
+      "time": "2026-06-26 00:39:15",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Mengluo Energy says it will take all necessary measures to extinguish the fire."
+    },
+    {
+      "id": "mkt:019effa6-4e88-7dd8-b121-de6fc79db898",
+      "time": "2026-06-26 00:39:09",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Mengluo Energy said it has immediately activated its on-site fire emergency team and deployed multiple emergency response resources."
+    },
+    {
+      "id": "4955631",
+      "time": "2026-06-26 00:38:51",
+      "tags": [
+        "其他"
+      ],
+      "text": "Monroe Energy ：立即啟動了現場火災應對小組，並調配了多支應急救援資源。"
+    },
+    {
+      "id": "mkt:019effa5-fb85-7dd8-b121-d03ce7063472",
+      "time": "2026-06-26 00:38:48",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Monroe Energy said a pump house in a process unit at its Trainer, Pennsylvania refinery caught fire."
+    },
+    {
+      "id": "4955630",
+      "time": "2026-06-26 00:38:41",
+      "tags": [
+        "其他"
+      ],
+      "text": "Monroe Energy ：6月25日上午約11點30分，門羅能源位於賓夕法尼亞州特雷納的煉油廠工藝裝置泵房發生火災。"
+    },
+    {
+      "id": "mkt:019effa5-c0e0-7dd8-b121-cf7a6d6792f6",
+      "time": "2026-06-26 00:38:33",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Apple",
+        "Market Themes",
+        "Magnificent 7",
+        "AAPL.O",
+        "Impact bullish"
+      ],
+      "text": "Market sources say Apple will skip its planned high-end M6 Mac chip and move to an AI-focused M7, a rare strategic shift aimed at meeting AI workflow needs."
+    },
+    {
+      "id": "mkt:019effa5-55bf-7dd8-b121-c5fecc2e3f20",
+      "time": "2026-06-26 00:38:05",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Apple",
+        "Market Themes",
+        "Magnificent 7",
+        "AAPL.O"
+      ],
+      "text": "Market sources say Apple is testing an entry-level MacBook Pro fitted with the standard M6 chip."
+    },
+    {
+      "id": "mkt:019effa4-c991-7dd8-b121-bfbcc7a903fa",
+      "time": "2026-06-26 00:37:29",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Apple",
+        "Market Themes",
+        "Magnificent 7",
+        "AAPL.O"
+      ],
+      "text": "Apple plans to launch a base M6 chip first, followed by M7 Pro, M7 Max and M7 Ultra variants."
+    },
+    {
+      "id": "4955629",
+      "time": "2026-06-26 00:37:20",
+      "tags": [
+        "公司"
+      ],
+      "text": "【蘋果調整Mac產品線戰略，新一代高階晶片統一歸入M7系列】蘋果公司正對 Mac 自研晶片戰略作出史上規模最大的調整之一，計劃為下一代高階處理器推出全新、主打人工智慧的晶片產品線。知情人士透露，蘋果當前晶片迭代至 M5 系列，最早將於今年推出基礎版 M6 處理器，用於入門級 Mac 裝置。因相關規劃尚未對外公開，知情人士要求匿名。知情人士稱，蘋果將首次不再推出該晶片的高階衍生版本。知情人士表示，蘋果計劃於 2027 年推出運算與圖形效能更強的新一代 Pro、Max 晶片，歸入全新 M7 系列。"
+    },
+    {
+      "id": "te:markets:561982",
+      "time": "2026-06-26 00:37:12",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Italy",
+        "Stock Market",
+        "Importance 0"
+      ],
+      "text": "FTSE MIB Rebounds From Three-Day Slide — The FTSE MIB increased 0.28% to close at 51,782 on Thursday, rebounding from a three-day streak of losses with support from tech and power infrastructure companies. STMicroelectronics rose 2.8%, after Micron's positive earnings report helped ease worries and improved sentiment on the AI sector. Prysmian followed, gaining 0.3%. Rising electricity demand linked to data centers led to gains for utilities, where Enel (2%) and A2A (1.5%) both rose sharply. However, defense linked firms Avio and Leonardo led losses on the market at 6.6% and 4%, respectively. Selling was also concentrated on ENI (-2%), along with Saipem (-1.8%), after concerns emerged that widespread power outages in Venezuela, following recent earthquakes, could disrupt crude oil capacity. Elsewhere, Ferragamo advanced 3%."
+    },
+    {
+      "id": "4955628",
+      "time": "2026-06-26 00:35:54",
+      "tags": [
+        "其他"
+      ],
+      "text": "蘋果罕見調整產品戰略，以適配人工智慧工作流需求。"
+    },
+    {
+      "id": "4955627",
+      "time": "2026-06-26 00:35:50",
+      "tags": [
+        "其他"
+      ],
+      "text": "蘋果正在測試搭載標準版 M6 處理器的入門款 MacBook Pro。"
+    },
+    {
+      "id": "4955626",
+      "time": "2026-06-26 00:35:32",
+      "tags": [
+        "其他"
+      ],
+      "text": "蘋果計劃先推出基礎版 M6 晶片，後續再發布 M7 Pro、M7 Max 以及 M7 Ultra 晶片。"
+    },
+    {
+      "id": "4955625",
+      "time": "2026-06-26 00:35:27",
+      "tags": [
+        "其他"
+      ],
+      "text": "蘋果將放棄高階 M6 系列 Mac 晶片，轉而主推側重人工智慧的 M7 晶片。"
+    },
     {
       "id": "4955624",
       "time": "2026-06-26 00:33:47",
@@ -154403,100 +154535,6 @@
         "DXY"
       ],
       "text": "The U.S. Treasury posted new sanctions on HEZBOLLAH on its website."
-    },
-    {
-      "id": "4944064",
-      "time": "2026-06-19 00:38:40",
-      "tags": [
-        "其他"
-      ],
-      "text": "養老金與投資研究諮詢公司建議英偉達股東在年度股東大會（AGM）上投票支援要求披露溫室氣體排放的決議。"
-    },
-    {
-      "id": "4944063",
-      "time": "2026-06-19 00:37:55",
-      "tags": [
-        "公司"
-      ],
-      "text": "【機構最新調研路線圖出爐 盛美上海最受關注】Wind資料顯示，機構本週（6月15日至6月18日）共調研了175家上市公司，其中盛美上海最獲關注，參與調研的機構為129家。澳華內鏡、晶升股份、鵬翎股份分別獲57家、36家、32家機構調研。據統計，京東方A獲機構調研4次，雲漢芯城獲調研3次，華銳精密、萊伯泰科等多股獲調研2次。從調研行業來看，機構持續聚焦商品化工、工業機械、電子元件等板塊。"
-    },
-    {
-      "id": "4944062",
-      "time": "2026-06-19 00:37:16",
-      "tags": [
-        "其他"
-      ],
-      "text": "訊息人士稱，格雷洛克資本將退出委內瑞拉債權人委員會指導委員會。"
-    },
-    {
-      "id": "mkt:019edb97-ffe0-7dd8-b085-4ef69028d962",
-      "time": "2026-06-19 00:37:12",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Precious Metals"
-      ],
-      "text": "Spot silver down 3.0% intraday at $65.88/oz."
-    },
-    {
-      "id": "4944060",
-      "time": "2026-06-19 00:37:05",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【SpaceX盤中一度下挫10% 散戶資金顯現退卻的跡象】SpaceX股價的走勢證明，即便是史上規模最大的首次公開募股(IPO)，也難以免受大型公司上市後常見的股價波動的衝擊。Founder Funds駐達拉斯的合夥人兼投資組合經理Michael Monaghan表示，在投資者權衡未來收入高增長預期與實現路徑並不清晰之際，股價可能還將持續波動。該機構持有SpaceX股票。Vanda Research資料顯示，在SpaceX上市最初幾天一直是淨買家的散戶投資者，週三有所退卻，大部分時間淨流入接近持平，至收盤時僅錄得230萬美元的小幅淨買入。這種情緒似乎延續到了週四。開盤後的前10分鐘內，散戶淨賣出350萬美元，隨後資金流趨於穩定，並重新轉為淨買入。"
-    },
-    {
-      "id": "mkt:019edb97-a235-7dd8-b085-454cba0e3256",
-      "time": "2026-06-19 00:36:48",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "From Friday local time, France expanded heatwave warnings to 53 departments."
-    },
-    {
-      "id": "mkt:019edb97-71ca-7dd8-b085-3c603cfcdc23",
-      "time": "2026-06-19 00:36:35",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Foreign Ministry responds after South Korean official reiterates joint communique wording on Taiwan】South Korea's foreign ministry director-general for Northeast Asia and Central Asia, Nam Jin, told reporters on the 18th that the China–South Korea joint communique states “The Government of the Republic of Korea recognizes the Government of the People’s Republic of China as the sole legal government of China and respects China’s position that there is only one China and that Taiwan is part of China,” and that Seoul’s position has not changed. China’s foreign ministry said it positively evaluated the full, public restatement and said it hopes and believes Seoul will adhere to the original intent of establishing diplomatic relations, honor political commitments, implement the One-China principle in practice and safeguard the political basis of China–South Korea relations."
-    },
-    {
-      "id": "4944058",
-      "time": "2026-06-19 00:36:27",
-      "tags": [
-        "市場"
-      ],
-      "text": "現貨白銀日內跌3%，現報65.87美元/盎司。"
-    },
-    {
-      "id": "4944057",
-      "time": "2026-06-19 00:36:16",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "現貨黃金失守4220美元/盎司，日內跌0.94%。"
-    },
-    {
-      "id": "4944056",
-      "time": "2026-06-19 00:36:03",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "紐約期金失守4240美元/盎司，日內跌3.28%。"
-    },
-    {
-      "id": "4944055",
-      "time": "2026-06-19 00:36:01",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國教育部：選擇自動還款的貸款借款人可享受降息優惠。"
     }
   ]
 }
