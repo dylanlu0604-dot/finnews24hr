@@ -1,7 +1,458 @@
 {
-  "updated": "2026-06-25 15:00:32",
-  "count": 17017,
+  "updated": "2026-06-25 15:04:29",
+  "count": 17034,
   "items": [
+    {
+      "id": "mkt:019efd97-940e-7dd8-b110-3b42a4bf2cee",
+      "time": "2026-06-25 15:03:49",
+      "tags": [
+        "MKT News",
+        "EURUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "ECB executive board member Schnabel said the current short-term situation looks better than expected, but a ceasefire is not a reason for monetary policymakers to lower their guard."
+    },
+    {
+      "id": "4954360",
+      "time": "2026-06-25 15:03:46",
+      "tags": [
+        "國際"
+      ],
+      "text": "【中國代表敦促國際社會保護武裝衝突中的兒童】中國常駐聯合國代表傅聰24日在安理會兒童與武裝衝突問題公開辯論會上發言，敦促國際社會共同努力，履行好保護兒童這一不可推卸的道義責任。傅聰說，聯合國設立兒童與武裝衝突問題授權30年來，國際社會不斷完善兒童保護機制，但時至今日，衝突對兒童造成的傷害仍屢禁不止、觸目驚心。中方歡迎秘書長報告繼續將加沙、海地等地區嚴重侵害兒童的行為方列名，支援及時增加列名其他加害兒童的肇事方，期待秘書長進一步提交國別報告。安理會兒童與武裝衝突問題工作組要認真開展審議，採取切實有效行動。（新華社）"
+    },
+    {
+      "id": "mkt:019efd97-6e84-7dd8-b110-35979e438d47",
+      "time": "2026-06-25 15:03:40",
+      "tags": [
+        "MKT News",
+        "ASML.AS",
+        "Impact bullish"
+      ],
+      "text": "Kepler Cheuvreux raises PT on European-listed ASML to €1,830 from €1,460."
+    },
+    {
+      "id": "te:economy:561784",
+      "time": "2026-06-25 15:03:31",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "France",
+        "Consumer Confidence",
+        "Importance 1"
+      ],
+      "text": "French Consumer Morale Above Expectations — The consumer confidence indicator in France rose to 84 in June 2026 from a more than three-year low of 82 in the previous month, slightly exceeding market expectations of 83. Households became less pessimistic about their financial situation, with assessments of both past (-28 vs -29 in May) and future finances (-16 vs -19) improving. Sentiment toward France’s future living standards also improved (-65 vs -70), although views on past living standards deteriorated slightly (-81 vs -80). In addition, major purchase intentions were less negative (-38 vs -39). Saving intentions edged up (41 vs 40), while current savings capacity weakened slightly (16 vs 18) and future savings capacity remained unchanged (14). On the other hand, unemployment expectations remained elevated (60 vs 55). On the price front, households' perceptions of past price increases edged lower (23 vs 25), while inflation expectations tumbled sharply (-15 vs 0)."
+    },
+    {
+      "id": "4954359",
+      "time": "2026-06-25 15:03:16",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行施納貝爾：當前短期形勢好於我們此前預期，但停火並不是貨幣政策制定者放鬆警惕的理由。"
+    },
+    {
+      "id": "mkt:019efd96-db23-7dd8-b110-2da1af1082af",
+      "time": "2026-06-25 15:03:02",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "DAX",
+        "Impact bullish",
+        "FTSE100",
+        "Impact bearish",
+        "STOXX Europe 50"
+      ],
+      "text": "European stocks opened mixed on Thursday June 25: Germany's DAX opened up 103.76 points (+0.42%) at 24,820.00; UK's FTSE 100 opened down 38.88 points (-0.37%) at 10,422.75; France's CAC 40 opened up 2.14 points (+0.03%) at 8,387.63; STOXX Europe 50 opened up 24.50 points (+0.39%) at 6,239.20; Spain's IBEX 35 opened up 14.17 points (+0.07%) at 19,403.67; Italy's FTSE MIB opened up 134.56 points (+0.26%) at 51,773.50."
+    },
+    {
+      "id": "mkt:019efd96-c2a1-7dd8-b110-25bd20861d2d",
+      "time": "2026-06-25 15:02:56",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "SSE Composite",
+        "Impact bullish",
+        "SZSE Component",
+        "CSI300"
+      ],
+      "text": "CHINA'S SHANGHAI COMPOSITE INDEX closed up 9.47 points, or 0.23%, at 4,120.28 on Thursday, June 25. Shenzhen Composite Index closed up 292.76 points, or 1.82%, at 16,344.08. CSI 300 INDEX rose 77.08 points, or 1.56%, to 5,020.10. ChiNext Index closed up 120.56 points, or 2.84%, at 4,371.99. STAR 50 Index gained 76.90 points, or 3.87%, to 2,066.33."
+    },
+    {
+      "id": "mkt:019efd96-a645-7dd8-b110-1af882aaade0",
+      "time": "2026-06-25 15:02:49",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "Nasdaq100",
+        "Impact bullish",
+        "S&P500"
+      ],
+      "text": "【IDC: AI sector shifting from infrastructure build to enterprise-application surge】Robert Parker, IDC’s global senior vice president and head of industry research, said at IDC China’s ICT Market Trends Forum that the technology sector is entering its most significant growth cycle in 30 years. He said the global AI industry has entered a supercycle, with the market moving from infrastructure build-out to a rapid expansion of enterprise applications."
+    },
+    {
+      "id": "4954358",
+      "time": "2026-06-25 15:02:31",
+      "tags": [
+        "其他"
+      ],
+      "text": "開普勒楚福雷將阿斯麥目標價從1460歐元上調至1830歐元。"
+    },
+    {
+      "id": "mkt:019efd96-5ba5-7dd8-b110-119f1d943f57",
+      "time": "2026-06-25 15:02:29",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Czech central bank minutes: the policy committee unanimously agreed to base decisions at future meetings on incoming data and to proceed with great caution."
+    },
+    {
+      "id": "4954357",
+      "time": "2026-06-25 15:02:17",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【財政部：關於就《財政部門行使行政處罰裁量權指導規範（徵求意見稿）》公開徵求意見的通知】為貫徹落實黨中央、國務院關於統一市場監管執法、完善行政裁量權基準制度等決策部署，規範財政行政處罰裁量行為，提高財政行政執法水平，保護公民、法人和其他組織的合法權益，維護社會經濟秩序，財政部研究對《財政部門行使行政處罰裁量權指導規範》（財法〔2013〕1號）進行修訂，形成了《財政部門行使行政處罰裁量權指導規範（徵求意見稿）》，現向社會公開徵求意見。 (財政部)"
+    },
+    {
+      "id": "mkt:019efd96-0173-7dd8-b110-0a06069ceffc",
+      "time": "2026-06-25 15:02:06",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Czech National Bank minutes said that although Middle East tensions have eased, the scale, duration and possible time to normalization of the cost shock make some second‑round inflation effects unavoidable."
+    },
+    {
+      "id": "4954356",
+      "time": "2026-06-25 15:02:05",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "捷克央行會議紀要：加息原因主要與國內經濟因素相關——核心通脹高企、各領域信貸增長強勁，且工資漲幅較高。"
+    },
+    {
+      "id": "4954355",
+      "time": "2026-06-25 15:02:01",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "捷克央行會議紀要：董事會一致同意，未來會議的決策將基於對新獲取資料的評估，並將非常謹慎地考量政策行動。"
+    },
+    {
+      "id": "4954354",
+      "time": "2026-06-25 15:01:56",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【A股收評：創業板指、科創50指數雙雙再創新高，儲存晶片、MLCC方向持續爆發】A股三大指數今日集體上漲，截至收盤，上證指數漲0.23%，深證成指漲1.82%，創業板指漲2.84%，北證50跌1.41%，科創50指數漲3.87%。全市場成交額36189億元，較上日成交額放量3120億元，全市場超4200只個股下跌。板塊題材上，機場航運、培育鑽石、元件、儲存晶片、證券、保險、CPO、PET銅箔、遊戲、光纖概念股漲幅居前；貴金屬、ST板塊、教育、鹽湖提鋰、油氣開採及服務、軟體開發板塊跌幅居前。盤面上，儲存晶片巨頭美光科技最新財報大超預期引爆晶片板塊，北京君正、德明利、時空科技等10餘股漲停，佰維儲存、匯成股份、利和興漲幅居前。硬科技IPO紅利釋放，券商股再度上漲，長江證券漲停，財達證券、方正證券跟漲。元件、超級電容板塊受漲價催化再度走強，風華高科、超聲電子等股盤中再創新高。此外，機場航運、CPO、光纖概念股均有表現。另一方面，隔夜國際金價失守4000美元/盎司，貴金屬板塊集體下挫，興業銀錫、紫金礦業、山金國際跌幅居前。多隻ST股同樣表現低迷，*ST仕淨、ST雪浪等股大跌超10%。"
+    },
+    {
+      "id": "mkt:019efd95-d951-7dd8-b110-06478785a7c7",
+      "time": "2026-06-25 15:01:56",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "Chip Wars",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish",
+        "SSE Composite",
+        "SZSE Component"
+      ],
+      "text": "【Sci‑Tech Innovation 50 Index up 3.87% as lab‑grown diamond stocks rally into close】A‑shares closed higher: Shanghai Composite +0.23%, Shenzhen Component +1.82%, ChiNext +2.84%, Sci‑Tech Innovation 50 Index +3.87%. Combined turnover on Shanghai and Shenzhen hit 3.59 trillion yuan, about 310 billion yuan heavier than the same time yesterday. Sector leaders: memory/storage chips, lab‑grown diamonds and crude palm oil (CPO). Laggards: childcare services, salt‑lake lithium extraction and PEEK materials. Over 1,200 stocks advanced."
+    },
+    {
+      "id": "4954353",
+      "time": "2026-06-25 15:01:51",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "捷克央行會議紀要：委員會成員普羅哈茲卡與弗賴特提及需適度收緊貨幣條件。"
+    },
+    {
+      "id": "mkt:019efd95-b7ff-7dd8-b10f-fc95692b49f9",
+      "time": "2026-06-25 15:01:48",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【Shanghai, Shenzhen combined turnover RMB 3.5943 trillion; Zhongji Xuchuang tops single-stock turnover】Combined turnover on the Shanghai and Shenzhen exchanges totaled RMB 3.5943 trillion on June 25, up RMB 309.96 billion from the prior session. Shanghai turnover was RMB 1.6190 trillion (prior RMB 1.5142 trillion), traded volume 670 million lots; Shenzhen turnover was RMB 1.9753 trillion (prior RMB 1.7701 trillion), traded volume 831 million lots. Zhongji Xuchuang led single-stock turnover at RMB 49.655 billion, followed by Xinyisheng RMB 40.588 billion, Zhaoyi Chuangxin RMB 38.433 billion, BOE Technology Group RMB 27.56 billion and Tianfu Communication RMB 25.921 billion."
+    },
+    {
+      "id": "4954352",
+      "time": "2026-06-25 15:01:47",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "捷克央行會議紀要：因此，收緊貨幣政策從一開始就抑制這些影響至關重要。"
+    },
+    {
+      "id": "4954351",
+      "time": "2026-06-25 15:01:43",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "捷克央行會議紀要：副行長弗賴特認為，目前信貸市場正處於繁榮過熱狀態。"
+    },
+    {
+      "id": "4954350",
+      "time": "2026-06-25 15:01:37",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "捷克央行會議紀要：儘管中東局勢有所緩和，但此次成本衝擊的規模、持續時間以及可能的正常化程序時間使得部分通脹第二輪傳導效應不可避免。"
+    },
+    {
+      "id": "4954349",
+      "time": "2026-06-25 15:01:34",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "捷克央行會議紀要：行長米爾認為信貸增長、公共支出債務融資以及核心通脹走勢均存在風險。"
+    },
+    {
+      "id": "4954348",
+      "time": "2026-06-25 15:01:29",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "捷克央行貨幣政策委員會會議紀要：委員庫比切克認為，僅上調25個基點不足以抑制核心通脹通脹壓力、放緩信貸增長，不過匯率和大宗商品價格也可能發揮作用。"
+    },
+    {
+      "id": "4954347",
+      "time": "2026-06-25 15:01:26",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "捷克央行會議紀要：董事會成員賽德勒表示，此次加息並不預示著將進一步加息，也不標誌著加息週期的開啟，但也不能說這就是最後一次加息。"
+    },
+    {
+      "id": "mkt:019efd95-552d-7dd8-b10f-f3c1cea31e13",
+      "time": "2026-06-25 15:01:22",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish"
+      ],
+      "text": "【Equity index futures midday close】At midday, CSI 300 index futures (IF) most-active contract rose 1.56%; SSE 50 index futures (IH) +1.02%; CSI 500 (IC) +1.14%; CSI 1000 (IM) +0.44%."
+    },
+    {
+      "id": "4954346",
+      "time": "2026-06-25 15:01:18",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "捷克央行會議紀要：董事會成員還提及加息的訊號效應。"
+    },
+    {
+      "id": "mkt:019efd95-1028-7dd8-b10f-eb32ee1bceb4",
+      "time": "2026-06-25 15:01:04",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals",
+        "Industrial Metals",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "At midday close, China's main futures contracts were mostly lower. Shanghai silver (SHFE) and 20# rubber fell more than 7%; palladium, lithium carbonate, platinum, synthetic rubber, natural rubber, PTA and SC crude were down over 5%. Soybean No.1 rose about 1%; soybean meal and peanuts were slightly higher."
+    },
+    {
+      "id": "4954345",
+      "time": "2026-06-25 15:01:02",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "A股收盤，上證指數漲0.23%，深證成指漲1.82%，創業板指漲2.84%。"
+    },
+    {
+      "id": "4954344",
+      "time": "2026-06-25 15:01:00",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "美光業績預期超預期，晶片板塊普漲，阿斯麥股價上漲 4.3%。"
+    },
+    {
+      "id": "4954343",
+      "time": "2026-06-25 15:00:48",
+      "tags": [
+        "資料"
+      ],
+      "text": "西班牙5月PPI年率 10.5%，前值8.30%。西班牙5月PPI月率 1%，前值1.70%。"
+    },
+    {
+      "id": "mkt:019efd94-c6e6-7dd8-b10f-e14271628be3",
+      "time": "2026-06-25 15:00:46",
+      "tags": [
+        "MKT News",
+        "EURUSD"
+      ],
+      "text": "Spain May PPI MoM +1.0% (prior +1.7%)."
+    },
+    {
+      "id": "mkt:019efd94-af77-7dd8-b10f-dc5b11559fed",
+      "time": "2026-06-25 15:00:40",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Spain | Producer Price Index (MoM) (May) | actual 1% | previous 1.70%"
+    },
+    {
+      "id": "mkt:019efd94-ac40-7dd8-b10f-d76a9bcfcb35",
+      "time": "2026-06-25 15:00:39",
+      "tags": [
+        "MKT News",
+        "EURUSD",
+        "Impact bullish"
+      ],
+      "text": "Spain May PPI YoY 10.5% vs 8.3% prior."
+    },
+    {
+      "id": "mkt:019efd94-9290-7dd8-b10f-c9bca40e286c",
+      "time": "2026-06-25 15:00:32",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Spain | Producer Price Index (YoY) (May) | actual 10.5% | previous 8.30%"
+    },
+    {
+      "id": "4954342",
+      "time": "2026-06-25 15:00:26",
+      "tags": [
+        "公司"
+      ],
+      "text": "【國產智慧盾構換刀機器人正式投用】記者從中鐵十四局集團獲悉，25日，在廈金大橋（廈門段）環島路隧道“廈金號”盾構機掘進現場，國產智慧盾構換刀機器人正式投用。據瞭解，機器人擁有11個獨立可控活動關節，具備高避障能力與精細操作能力，憑藉500公斤的負載能力和靈活伸縮的結構，可覆蓋10米至18米級超大直徑盾構機的整個刀盤，輕鬆抓取重型滾刀，精準完成更換。機器人整機軟硬體實現100%國產化，擁有完全自主智慧財產權。（新華社）"
+    },
+    {
+      "id": "mkt:019efd94-734e-7dd8-b10f-c54b5d8c184e",
+      "time": "2026-06-25 15:00:24",
+      "tags": [
+        "MKT News",
+        "CSI300",
+        "Impact bullish",
+        "SSE Composite"
+      ],
+      "text": "【SASAC opens quantum technology talent intensive for central SOEs in Hefei】June 22 — The State-owned Assets Supervision and Administration Commission (SASAC) opened a quantum technology talent intensive for central state-owned enterprises in Hefei, Anhui. SASAC deputy director and party committee member Tan Zuojun attended and instructed implementation of Xi’s guidance and central government directives on quantum technology. He directed SASAC and central SOEs to accelerate construction of quantum talent and innovation spaces, fast-track quantum R&D and application, cultivate a cohort of quantum technology leaders, pursue enterprise-specific development paths, and concentrate talent to create collaborative clusters."
+    },
+    {
+      "id": "4954341",
+      "time": "2026-06-25 15:00:14",
+      "tags": [
+        "資料"
+      ],
+      "text": "西班牙第一季度GDP年率終值 2.7%，預期2.7%，前值2.70%。西班牙第一季度GDP季率終值 0.6%，預期0.6%，前值0.60%。"
+    },
+    {
+      "id": "4954340",
+      "time": "2026-06-25 15:00:09",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "【MLF加量續作、隔夜逆回購即將落地，央行雙工具穩控跨季流動性】季末跨季視窗資金擾動升溫。6 月 25 日，央行落地兩大關鍵操作：一是開展5000 億元 1 年期 MLF，持續加碼中長期流動性投放；二是官宣於 6 月 29 日、30 日新增隔夜逆回購操作，兌現陸家嘴論壇提出的利率調控最佳化舉措。一長一短兩項工具同步發力，釋放穩流動性的明確訊號。東方金誠宏觀首席分析師王青分析原因稱，6月初市場流動性延續偏松狀態，央行透過包括7天期質押式逆回購、3個月期買斷式逆回購等在內的各項短、中期公開市場工具，持續淨回籠，引導市場利率向政策利率附近回升。MLF加量續作的一個重要背景是前期市場流動性偏松局面已明顯扭轉。6月中旬開始，DR001升至政策利率上方，6月15日，6個月期買斷式逆回購不再縮量，7天期質押式逆回購轉為淨投放；近期DR001、DR007都已穩定處於政策利率上方，1年期商業銀行（AAA級）同業存單到期收益率也有一定幅度上行。此外，MLF 加碼投放還兼顧財政與宏觀穩增長雙重訴求。王青認為，一方面受新增地方政府專項債發行提速帶動，6月最後一週政府債券融資規模大幅上升；另一方面二季度以來宏觀資料出現一定波動，接下來銀行有可能加快對基建投資和製造業投資的信貸投放節奏，推動投資止跌回穩。（第一財經）"
+    },
+    {
+      "id": "mkt:019efd94-3408-7dd8-b10f-bf2ba85237b3",
+      "time": "2026-06-25 15:00:08",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "Spain Q1 final GDP YoY 2.7% (exp 2.7%, prior 2.7%)."
+    },
+    {
+      "id": "mkt:019efd94-2fcf-7dd8-b10f-b37d434d626b",
+      "time": "2026-06-25 15:00:07",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "Spain Q1 GDP final QoQ 0.6% (consensus 0.6%; prior 0.60%)."
+    },
+    {
+      "id": "4954339",
+      "time": "2026-06-25 15:00:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "【商品期貨收盤】白銀連續跌7.28%，20號膠連續跌7.22%，鈀連續跌5.78%，碳酸鋰連續跌5.54%，鉑連續跌5.47%。"
+    },
+    {
+      "id": "4954338",
+      "time": "2026-06-25 15:00:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "歐股開盤漲跌不一，德國DAX指數跌0.62%，英國富時100指數漲0.31%，法國CAC40指數漲0.54%，歐洲斯托克50指數跌0.25%，義大利富時MIB指數跌0.74%。"
+    },
+    {
+      "id": "4954337",
+      "time": "2026-06-25 15:00:01",
+      "tags": [
+        "市場"
+      ],
+      "text": "【股指期貨午盤收盤】 中證1000指數期貨連續漲0.44%， 滬深300指數期貨連續漲1.55%， 中證500指數期貨連續漲1.14%， 上證50指數期貨連續漲1.02%。"
+    },
+    {
+      "id": "mkt:019efd94-1339-7dd8-b10f-a880f4492974",
+      "time": "2026-06-25 15:00:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Spain | Final Quarterly GDP (Q1) | actual 0.6% | consensus 0.6% | previous 0.60%"
+    },
+    {
+      "id": "mkt:019efd94-1336-7dd8-b10f-a52339c52c45",
+      "time": "2026-06-25 15:00:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Spain | GDP Final (YoY) (Q1) | actual 2.7% | consensus 2.7% | previous 2.70%"
+    },
+    {
+      "id": "4954336",
+      "time": "2026-06-25 14:59:52",
+      "tags": [
+        "其他"
+      ],
+      "text": "【IDC：工業AI已走出試點階段】在日前舉行的IDC中國ICT市場趨勢論壇上，IDC中國助理研究總監崔凱在演講中表示，工業AI已走出試點階段。企業正將AI整合到生產、供應鏈管理、運營決策和售後服務中，推動全價值鏈的端到端升級。工業軟體的代際差異十分明顯：傳統系統聚焦於記錄和控制；新一代系統則增加了感知、預測和協同執行的能力。對中國製造商而言，真正的價值在於打破資料孤島，重構研發、生產、供應鏈和服務之間的協同關係。"
+    },
     {
       "id": "4954335",
       "time": "2026-06-25 14:58:50",
@@ -155080,286 +155531,6 @@
         "國際"
       ],
       "text": "印度尼西亞央行行長：預計2026年全球經濟增速將放緩至3%。"
-    },
-    {
-      "id": "mkt:019ed98b-a733-7dd8-b06f-9d179470bbab",
-      "time": "2026-06-18 15:04:28",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "WTI",
-        "DXY"
-      ],
-      "text": "Bank Indonesia governor: global uncertainty from the Middle East war remains high even if the US and Iran reach an agreement."
-    },
-    {
-      "id": "4942676",
-      "time": "2026-06-18 15:04:14",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "印度尼西亞央行行長表示：即便美伊達成協議，中東戰爭引發的全球不確定性仍處於高位。"
-    },
-    {
-      "id": "mkt:019ed98b-678f-7dd8-b06f-96ed70949d88",
-      "time": "2026-06-18 15:04:12",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "Zelenskiy says Ukraine struck a Moscow oil refinery for the second time this week."
-    },
-    {
-      "id": "4942675",
-      "time": "2026-06-18 15:03:59",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "菲律賓央行官員：通脹將呈下行趨勢，但仍需一段時間才能回落到位。"
-    },
-    {
-      "id": "4942674",
-      "time": "2026-06-18 15:03:55",
-      "tags": [
-        "國際"
-      ],
-      "text": "澤連斯基稱，烏克蘭本週第二次襲擊了莫斯科的煉油廠。"
-    },
-    {
-      "id": "4942673",
-      "time": "2026-06-18 15:03:53",
-      "tags": [
-        "公司"
-      ],
-      "text": "【中國移動旗下基金等入股友機技術】天眼查App顯示，近日，友機技術（上海）有限公司發生工商變更，新增中國移動旗下上海中移數字轉型產業私募基金合夥企業（有限合夥）為股東，同時，註冊資本由約1239.7萬人民幣增至約1388.4萬人民幣。該公司成立於2021年8月，法定代表人為江金根，經營範圍包括資訊系統整合服務、資料處理和儲存支援服務、軟體開發等，現由區翠芳、江金根及上述新增股東等共同持股。官網顯示，該公司是一家機床底層監控技術服務商。"
-    },
-    {
-      "id": "4942672",
-      "time": "2026-06-18 15:03:11",
-      "tags": [
-        "公司"
-      ],
-      "text": "【熱景生物持股公司成立基因科技公司】企查查APP顯示，近日，蘭溪翱銳基因科技有限公司成立，法定代表人為餘韶華，註冊資本為3900萬元，經營範圍包含：醫學研究和試驗發展；人體基因診斷與治療技術開發；大資料服務；人工智慧理論與演算法軟體開發等。企查查股權穿透顯示，該公司由熱景生物持股的杭州翱銳生物科技有限公司全資持股。"
-    },
-    {
-      "id": "mkt:019ed98a-1269-7dd8-b06f-8e036c07d97b",
-      "time": "2026-06-18 15:02:44",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "CSI300",
-        "Impact bullish",
-        "SZSE Component",
-        "SSE Composite",
-        "Impact bearish"
-      ],
-      "text": "On June 18, CHINA'S SHANGHAI COMPOSITE INDEX closed down 17.59 points (-0.43%) at 4,090.48; Shenzhen Composite Index closed up 149.75 points (+0.94%) at 16,030.70; CSI 300 INDEX closed up 10.21 points (+0.21%) at 4,941.60; ChiNext Index closed up 85.34 points (+2.05%) at 4,252.39; China's STAR 50 Index closed up 70.69 points (+3.84%) at 1,911.51."
-    },
-    {
-      "id": "4942671",
-      "time": "2026-06-18 15:02:38",
-      "tags": [
-        "其他"
-      ],
-      "text": "當地目擊者稱，尼日首都機場發生爆炸和持續槍戰。"
-    },
-    {
-      "id": "mkt:019ed989-e1db-7dd8-b06f-8278a7992c2d",
-      "time": "2026-06-18 15:02:32",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "【Shanghai, Shenzhen combined turnover 3.3101 trln yuan; Zhongji Xuchuang tops by turnover】June 18 — Shanghai and Shenzhen exchanges posted combined turnover of 3.3101 trillion yuan, up 218.343 billion yuan from the prior session. Shanghai turnover was 1.5605 trillion yuan (prior 1.4031 trillion), trading volume 658 million lots (prior 608 million); Shenzhen turnover was 1.7496 trillion yuan (prior 1.6886 trillion), trading volume 765 million lots (prior 746 million). Zhongji Xuchuang led by turnover at 38.177 billion yuan, followed by GigaDevice 37.016 billion, FOXCONN INDUSTRIAL 33.063 billion, Cambricon 32.153 billion and BOE Technology A 26.654 billion."
-    },
-    {
-      "id": "4942670",
-      "time": "2026-06-18 15:02:26",
-      "tags": [
-        "其他"
-      ],
-      "text": "【雲南省昭通市人大常委會保留正廳級待遇幹部張紹雄接受審查調查】中央紀委國家監委網站6月18日通報，據雲南省紀委監委訊息：雲南省昭通市人大常委會保留正廳級待遇幹部張紹雄涉嫌嚴重違紀違法，目前正接受雲南省紀委監委紀律審查和監察調查。"
-    },
-    {
-      "id": "mkt:019ed989-bb0e-7dd8-b06f-7d30528b4b66",
-      "time": "2026-06-18 15:02:22",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Refinitiv: local witnesses report an explosion and ongoing gunbattle at Niamey airport in Niger."
-    },
-    {
-      "id": "mkt:019ed989-b7cc-7dd8-b06f-76c1700ccd31",
-      "time": "2026-06-18 15:02:21",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "【Fuel prices return to 7-yuan/liter range】CHINA STATE PLANNER said effective 24:00 on June 18 domestic gasoline and diesel (standard) prices will be cut by 515 yuan/ton and 495 yuan/ton respectively, marking a second consecutive reduction in refined fuel prices. After the adjustment most regions will see diesel retail at 7.7–7.9 yuan/liter and 92-octane gasoline at 7.8–7.9 yuan/liter. The cut reduces private car owners' fuel costs."
-    },
-    {
-      "id": "4942669",
-      "time": "2026-06-18 15:02:20",
-      "tags": [
-        "行業",
-        "其他",
-        "焦點"
-      ],
-      "text": "【油價今晚下調了 加滿一箱油能少花20元】據國家發展改革委訊息，今日24時國內成品油調價視窗將開啟。據國家發展改革委價格監測中心監測，本輪成品油調價週期內（6月4日24時——6月18日24時），國際油價震盪下行。6月18日24時起，預計國內汽、柴油零售限價每噸分別下調515元、495元，92號汽油、95號汽油和0號柴油每升分別下調0.40元、0.43元、0.42元。本輪成品油零售限價下調確認後，私家車單次加滿一箱50L的92號汽油，將少花20元。"
-    },
-    {
-      "id": "4942668",
-      "time": "2026-06-18 15:02:02",
-      "tags": [
-        "公司"
-      ],
-      "text": "【遠景能源成立綠擎科技公司 含雲端計算裝置業務】企查查APP顯示，近日，遠景綠擎（烏蘭察布）科技有限公司成立，經營範圍包含：雲端計算裝置銷售；雲端計算裝置製造；網際網路裝置銷售；雲端計算裝備技術服務等。企查查股權穿透顯示，該公司由遠景能源有限公司全資持股。"
-    },
-    {
-      "id": "mkt:019ed989-5723-7dd8-b06f-6e9f0164fd9e",
-      "time": "2026-06-18 15:01:57",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "【Unitree cuts prices on some robots; company says unable to comment】Unitree Robotics has cut prices on several robot models, with some Songyan Power units now listed below 10,000 yuan. Taobao listings show the Go2‑Air quadruped reduced from 9,997 yuan to 8,997 yuan and the Go2‑Pro from 18,600 yuan to 15,600 yuan; other models were also discounted. The Unitree G1 price fell from 90,000 yuan to 85,000 yuan. Unitree said it is in a quiet period and is unable to comment."
-    },
-    {
-      "id": "4942667",
-      "time": "2026-06-18 15:01:51",
-      "tags": [
-        "市場"
-      ],
-      "text": "【ETF收評：科創創業人工智慧ETF領漲11.68%，證券保險ETF領跌4.18%】ETF收盤漲跌不一，科創創業人工智慧ETF（159022）領漲11.68%，科創創業人工智慧ETF（159142）漲6.05%，科創創業人工智慧ETF（159141）漲6.01%，證券保險ETF（512070）領跌4.18%，港股通非銀ETF（513750）跌4.08%，證券保險ETF（515630）跌3.74%。"
-    },
-    {
-      "id": "4942666",
-      "time": "2026-06-18 15:01:46",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【收評：科創50指數衝高回落漲3.84%，培育鑽石、非金屬材料、牙科醫療板塊漲幅居前】A股三大指數今日多數上漲，截至收盤，上證指數跌0.43%，深證成指漲0.94%，創業板指漲2.05%，北證50跌1.18%，科創50指數漲3.84%。全市場成交額33317億元，較上日放量2177億元，全市場近3400只個股下跌。板塊題材上，培育鑽石、非金屬材料、牙科醫療、銅纜高速連線、半導體板塊漲幅居前；保險、煤炭開採加工、電力、機場航運、證券板塊跌幅居前。盤面上，非金屬材料板塊午後持續上揚，金戈新材一度漲超24%，三祥新材、龍高股份漲停，聯瑞新材、天馬新材、長江材料漲幅居前。牙科醫療板塊高開高走，愛迪特、東方鋯業、長裕集團漲停，國瓷材料、美年健康、正海生物漲幅居前。半導體板塊震盪走強，麥捷科技、中京電子、意華股份、光迅科技等股漲停，興森科技、奕東電子、凌雲光漲幅居前。保險板塊全天震盪走低，中國太保、新華保險、中國平安紛紛大幅下跌。電力板塊亦持續下挫，深南電A、粵電力A、西昌電力、大唐發電盤中均觸及跌停。煤炭開採加工板塊亦表現低迷，雲煤能源、昊華能源、遼寧能源跌幅居前。"
-    },
-    {
-      "id": "mkt:019ed989-13fd-7dd8-b06f-601ac49195e8",
-      "time": "2026-06-18 15:01:39",
-      "tags": [
-        "MKT News",
-        "DAX",
-        "Impact bullish",
-        "FTSE100",
-        "Impact bearish"
-      ],
-      "text": "European equities opened mixed on Thursday June 18: Germany's DAX 30 opened up 62.95 points (+0.25%) at 24,994.50; Britain's FTSE 100 opened down 44.86 points (-0.43%) at 10,463.75; France's CAC 40 opened down 2.35 points (-0.03%) at 8,428.44; Euro Stoxx 50 opened up 1.03 points (+0.02%) at 6,301.10; Spain's IBEX 35 opened down 31.15 points (-0.16%) at 19,383.95; Italy's FTSE MIB opened down 24.73 points (-0.05%) at 52,570.50."
-    },
-    {
-      "id": "mkt:019ed988-e08c-7dd8-b06f-5b16db356ae8",
-      "time": "2026-06-18 15:01:26",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "EURUSD",
-        "Impact mixed"
-      ],
-      "text": "ECB executive board member Nagel said new forms of money could weaken the transmission of interest-rate policy."
-    },
-    {
-      "id": "mkt:019ed988-b693-7dd8-b06f-52ea121cc5d1",
-      "time": "2026-06-18 15:01:15",
-      "tags": [
-        "MKT News",
-        "CSI300",
-        "Impact bullish"
-      ],
-      "text": "【Chinese index futures midday close】CSI 300 index futures main contract (IF) rose 1.08% at the midday close; SSE 50 index futures (IH) rose 0.49%; CSI 500 (IC) rose 1.16%; CSI 1000 (IM) rose 1.20%."
-    },
-    {
-      "id": "mkt:019ed988-ac2d-7dd8-b06f-49e5dc738846",
-      "time": "2026-06-18 15:01:13",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Swiss government projects 2027 GDP growth of 1.6% (adjusted for sporting events), versus a prior forecast of 1.7%."
-    },
-    {
-      "id": "mkt:019ed988-a55b-7dd8-b06f-41f3c80cd05f",
-      "time": "2026-06-18 15:01:11",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Industrial Metals",
-        "Energy"
-      ],
-      "text": "At China's midday settlement, front-month futures were mostly weaker. Lithium carbonate fell over 6% and coking coal dropped nearly 6%. Eggs, fuel oil, polypropylene (both monthly-average and front-month contracts), platinum and soda ash slipped more than 3%. On the upside, container shipping on the Europe route gained nearly 3%, fiberboard rose over 2%, and PTA, polyester short fiber, p‑xylene and bottle‑grade PET chips advanced more than 1%."
-    },
-    {
-      "id": "mkt:019ed988-8fdb-7dd8-b06f-389f92888b8f",
-      "time": "2026-06-18 15:01:05",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK"
-      ],
-      "text": "Swiss government expects 2026 GDP, adjusted for sporting events, to grow 0.9% (previous forecast 1.0%)."
-    },
-    {
-      "id": "4942665",
-      "time": "2026-06-18 15:01:03",
-      "tags": [
-        "市場",
-        "央行",
-        "國際"
-      ],
-      "text": "【交易員預計日元將跌向40年低點 併成為下一個干預門檻】觀察人士正嚴陣以待，預計日元兌美元匯率將跌至40年來最低水平，許多人認為這是日本當局下一個進場干預的門檻。隨著交易員加大美聯儲今年將升息的押注，美元走強，受此影響，日元週三跌至2024年7月以來的最低水平，兌美元匯率觸及160.80。日元的下一個關鍵位是161.95，若跌破該水平，日元將邁向1986年12月以來的最低紀錄。許多市場參與人士認為，隨著美日利率差仍寬，日元不可避免將向下一個門檻邁進。日本在4月28日至5月27日期間動用創紀錄的11.73萬億日元(約730億美元)干預市場，但干預帶來的漲幅全已吐出。"
-    },
-    {
-      "id": "4942664",
-      "time": "2026-06-18 15:01:03",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "A股收盤，上證指數跌0.43%，深證成指漲0.94%，創業板指漲2.05%。"
-    },
-    {
-      "id": "mkt:019ed988-35d1-7dd8-b06f-32408f8f8c62",
-      "time": "2026-06-18 15:00:42",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Swiss government expects 2027 CPI at 0.6%, up from a prior 0.5% forecast."
-    },
-    {
-      "id": "mkt:019ed988-1e2f-7dd8-b06f-286b9ac8fb90",
-      "time": "2026-06-18 15:00:36",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Swiss government expects 2026 consumer price index at 0.6%, up from a prior forecast of 0.4%."
-    },
-    {
-      "id": "4942663",
-      "time": "2026-06-18 15:00:35",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【特朗普簽署伊朗協議後油價下跌，提振供應前景】在美國總統特朗普簽署結束伊朗戰爭並重新開放霍爾木茲海峽的協議後，油價下跌超過2%，這讓人們對供應逐步正常化以及伊朗原油重返市場重燃希望。三菱日聯(MUFG)的分析師表示：“儘管該行業對正常化的步伐仍持謹慎態度，但一些油輪已經恢復執行，伊拉克等出口國正準備增加發貨量。“雖然額外供應的前景已經消除了大部分地緣政治風險溢價，但全球庫存依然緊張，特別是在美國，上週美國原油庫存減少了830萬桶。在歐洲早盤交易中，布倫特原油下跌2.3%，至每桶77.71美元，而西得州中質油下跌2.5%，至每桶74.08美元。本週迄今為止，這兩大基準原油均下跌了約15%。"
     }
   ]
 }
