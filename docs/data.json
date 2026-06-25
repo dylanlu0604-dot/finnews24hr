@@ -1,7 +1,200 @@
 {
-  "updated": "2026-06-25 16:30:27",
-  "count": 16964,
+  "updated": "2026-06-25 16:34:32",
+  "count": 16972,
   "items": [
+    {
+      "id": "4954626",
+      "time": "2026-06-25 16:33:47",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國政府：公佈自7月1日起生效的新鋼鐵貿易措施細則，該措施將收緊免稅鋼鐵進口配額規模。"
+    },
+    {
+      "id": "4954625",
+      "time": "2026-06-25 16:32:48",
+      "tags": [
+        "市場"
+      ],
+      "text": "在岸人民幣兌美元6月25日16:30收盤報6.7995，較上一交易日上漲57點。"
+    },
+    {
+      "id": "mkt:019efde9-0301-7dd8-b113-a35cc87fe322",
+      "time": "2026-06-25 16:32:46",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CNH",
+        "Impact bearish"
+      ],
+      "text": "Onshore yuan (CNY) closed at 6.7995 per US dollar at 16:30 on June 25, up 57 pips from the previous session."
+    },
+    {
+      "id": "4954624",
+      "time": "2026-06-25 16:32:17",
+      "tags": [
+        "公司"
+      ],
+      "text": "【聖諾生物：培來加南原料藥獲得上市申請批准通知書】聖諾生物公告，全資子公司成都聖諾生物製藥有限公司於近日收到國家藥品監督管理局簽發的關於培來加南原料藥的《化學原料藥上市申請批准通知書》。培來加南噴霧劑為區域性外用抗細菌藥物，是多肽類抗感染新藥，適用於治療由表皮葡萄球菌、溶血葡萄球菌、鮑曼不動桿菌導致的Ⅰ度或淺Ⅱ度燒燙傷繼發創面感染。該藥品上市為患者提供了新的治療選擇。"
+    },
+    {
+      "id": "mkt:019efde8-6847-7dd8-b113-9a9fb92715af",
+      "time": "2026-06-25 16:32:07",
+      "tags": [
+        "MKT News",
+        "Hang Seng Index",
+        "Impact bearish"
+      ],
+      "text": "Hong Kong trade balance, May: -HK$44.179 billion, prior -HK$29.50 billion."
+    },
+    {
+      "id": "mkt:019efde8-3483-7dd8-b113-975893acb077",
+      "time": "2026-06-25 16:31:53",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Hong Kong | Trade Balance (May) | actual -44179000000B | previous -29500000000B"
+    },
+    {
+      "id": "4954623",
+      "time": "2026-06-25 16:31:46",
+      "tags": [
+        "公司"
+      ],
+      "text": "英國石油公司：前兩年將收取固定費用，此後服務費與淨增量油氣產量的收入分成掛鉤。"
+    },
+    {
+      "id": "4954622",
+      "time": "2026-06-25 16:31:12",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "英國石油（BP）：英國石油已被委任為印度石油天然氣公司（ONGC）西部近海盆地產區的技術服務提供商。"
+    },
+    {
+      "id": "4954621",
+      "time": "2026-06-25 16:31:06",
+      "tags": [
+        "公司"
+      ],
+      "text": "【豐田汽車據悉已清倉所持MS&AD保險全部股份，套現約2900億日元】6月25日，據報道，豐田汽車已出售其持有的MS&AD保險的全部股份，交易總額約為2900億日元。據悉，豐田汽車很可能是透過大宗交易的方式完成了此次清倉。截至今年3月底，豐田汽車共持有MS&AD保險約7040萬股股份。此次出售也是豐田汽車加速解禁和清理交叉持股整體計劃的一部分。"
+    },
+    {
+      "id": "4954620",
+      "time": "2026-06-25 16:30:51",
+      "tags": [
+        "其他"
+      ],
+      "text": "伊拉克石油部一名高階官員25日告訴媒體記者，若配額未獲顯著增加，可能考慮退出歐佩克。（新華社）"
+    },
+    {
+      "id": "4954619",
+      "time": "2026-06-25 16:30:46",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "英國石油（BP）：印度石油天然氣公司（ONGC）與英國石油簽署技術服務合同，提升印度西部近海盆地油田產量。"
+    },
+    {
+      "id": "4954618",
+      "time": "2026-06-25 16:30:25",
+      "tags": [
+        "資料"
+      ],
+      "text": "中國香港5月出口年率 40.8%，前值42.90%。\n中國香港5月進口年率 42%，前值44.40%。"
+    },
+    {
+      "id": "mkt:019efde6-c078-7dd8-b113-8c7fed66b132",
+      "time": "2026-06-25 16:30:18",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "Hang Seng Index",
+        "Impact bearish"
+      ],
+      "text": "Hong Kong imports YoY +42.0% in May, versus 44.4% previously."
+    },
+    {
+      "id": "mkt:019efde6-bc8a-7dd8-b113-808ca8cfe2e0",
+      "time": "2026-06-25 16:30:17",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "Hang Seng Index",
+        "Impact bullish"
+      ],
+      "text": "Hong Kong exports rose 40.8% YoY in May, down from 42.9% previously."
+    },
+    {
+      "id": "4954617",
+      "time": "2026-06-25 16:30:14",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國鋼鐵進口配額削減幅度定為51%，低於此前計劃的60%。"
+    },
+    {
+      "id": "mkt:019efde6-9af6-7dd8-b113-7f0420e49cea",
+      "time": "2026-06-25 16:30:08",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Hong Kong | Imports (YoY) (May) | actual 42% | previous 44.40%"
+    },
+    {
+      "id": "mkt:019efde6-9a92-7dd8-b113-7279864257c1",
+      "time": "2026-06-25 16:30:08",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Hong Kong | Exports (YoY) (May) | actual 40.8% | previous 42.90%"
+    },
+    {
+      "id": "te:markets:561831",
+      "time": "2026-06-25 16:30:05",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Crypto",
+        "Importance 1"
+      ],
+      "text": "Crypto Updates: Ether Appreciates by 1.93% — Top crypto gainers are Ether (1.93%) and Bitcoin (1.11%)."
+    },
+    {
+      "id": "4954616",
+      "time": "2026-06-25 16:30:03",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國地質調查局：委內瑞拉發生的地震是該國自1900年以來最強的地震。"
+    },
+    {
+      "id": "4954615",
+      "time": "2026-06-25 16:29:49",
+      "tags": [
+        "市場"
+      ],
+      "text": "【上海期貨交易所召開第十四次會員大會】2026年6月25日，上海期貨交易所（以下簡稱上期所）第十四次會員大會（以下簡稱大會）在上海召開，本次大會由上期所第四屆理事會召集，197名會員單位代表現場參會。會議審議批准了《上海期貨交易所理事會工作報告》《上海期貨交易所總經理工作報告》，選舉產生了上期所第五屆理事會會員理事單位。中國證監會委派田向陽、魯東昇、林林為上期所第五屆理事會非會員理事。田向陽當選第五屆理事會理事長。大會指出，展望未來一個時期，必須充分認識到期貨市場所處的環境變化，需要積極識變應變求變，在應對風險挑戰中贏得更大戰略機遇，全力推動上期所各項工作邁上新的臺階。（上期所）"
+    },
+    {
+      "id": "4954614",
+      "time": "2026-06-25 16:29:13",
+      "tags": [
+        "其他"
+      ],
+      "text": "【依法懲治新型毒品犯罪及相關犯罪 最高法釋出典型案例】在第39個國際禁毒日前夕，今天，最高人民法院釋出10件人民法院依法懲治新型毒品犯罪及相關犯罪，防範未成年人藥物濫用典型案事例。其中，案例7件，事例3件。這些案事例中有的被告人是未成年人，有的被害人是未成年人；涉案物質既有管制麻精藥品，也有未列管成癮性物質。這些案事例導向鮮明，旨在向全社會傳遞“涉癮必懲、侵未必重”的明確訊號，進一步做實依法從嚴懲處，進一步強化未成年人司法保護，進一步震懾涉毒犯罪分子。（央視新聞）"
+    },
     {
       "id": "4954613",
       "time": "2026-06-25 16:28:51",
@@ -111,6 +304,14 @@
         "市場"
       ],
       "text": "【北京君正今日20cm漲停，國泰海通上海分公司淨買入5.09億元】北京君正今日20cm漲停，成交額126.58億元，換手率13.38%，盤後龍虎榜資料顯示，深股通專用席位買入8.32億元並賣出8.08億元，2家機構專用席位淨買入3.88億元，有2家機構專用席位淨賣出1.99億元。國泰海通上海分公司淨買入5.09億元。"
+    },
+    {
+      "id": "4954604",
+      "time": "2026-06-25 16:26:41",
+      "tags": [
+        "其他"
+      ],
+      "text": "【諾泰生物小容量注射劑（卡式瓶）生產線透過GMP符合性檢查】近日，諾泰生物連雲港工廠順利透過小容量注射劑（非最終滅菌-卡式瓶）生產線（受託生產）的GMP符合性檢查，獲得江蘇省藥品監督管理局簽發的《藥品GMP符合性檢查告知書》。該生產線設計年產能2億支，具備高速、大批次、多品種相容（含適配混懸液工藝能力）、柔性擴產的生產優勢，為注射劑、卡式瓶、注射筆平臺化承接提供產能支援。"
     },
     {
       "id": "4954603",
@@ -154692,137 +154893,6 @@
         "MKT News"
       ],
       "text": "Russia said it welcomed a US-Iran agreement."
-    },
-    {
-      "id": "4942952",
-      "time": "2026-06-18 16:34:22",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國總統特朗普：認為我在股市剛剛創歷史新高、油價“暴跌”時對伊朗不夠強硬的人，他們要麼嫉妒，要麼是壞人，要麼是愚蠢的。"
-    },
-    {
-      "id": "4942951",
-      "time": "2026-06-18 16:34:20",
-      "tags": [
-        "國際"
-      ],
-      "text": "俄羅斯稱其對美伊達成協議表示歡迎。"
-    },
-    {
-      "id": "mkt:019ed9dd-dba4-7dd8-b074-445176375c22",
-      "time": "2026-06-18 16:34:15",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "The Trump Trade"
-      ],
-      "text": "U.S. President Trump said those who think he was not tough enough on Iran when the stock market had just hit record highs and oil prices were \"plummeting\" are either jealous, bad people, or stupid."
-    },
-    {
-      "id": "4942950",
-      "time": "2026-06-18 16:33:39",
-      "tags": [
-        "公司"
-      ],
-      "text": "【星火空間獲數千萬Pre-A+輪融資】6月18日，合肥星火空間科技有限公司（簡稱“星火空間”）宣佈獲得凱輝基金Pre-A+輪數千萬元投資，所籌資金將加速“進化一號”電迴圈液體運載火箭的研製與首飛程序。據星火空間介紹，公司正聚焦發動機可靠性試車、火箭一子級動力系統試車、首飛火箭總裝總測三大核心任務，計劃於2027年實現火箭首飛。"
-    },
-    {
-      "id": "4942949",
-      "time": "2026-06-18 16:33:32",
-      "tags": [
-        "其他"
-      ],
-      "text": "新華保險：獲准發行不超過人民幣100億元無固定期限資本債券。"
-    },
-    {
-      "id": "mkt:019ed9dc-c19a-7dd8-b074-3e9a74a37d73",
-      "time": "2026-06-18 16:33:03",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "CNH",
-        "Impact bearish"
-      ],
-      "text": "Onshore yuan closed at 6.7623 per USD at 16:30 on June 18, down 54 pips from the previous trading day."
-    },
-    {
-      "id": "4942948",
-      "time": "2026-06-18 16:32:59",
-      "tags": [
-        "市場"
-      ],
-      "text": "在岸人民幣兌美元6月18日16:30收盤報6.7623，較上一交易日下跌54點。"
-    },
-    {
-      "id": "4942947",
-      "time": "2026-06-18 16:32:32",
-      "tags": [
-        "其他"
-      ],
-      "text": "勞合社市場協會：霍爾木茲海峽航運恢復常態尚需數月時間。"
-    },
-    {
-      "id": "mkt:019ed9dc-2062-7dd8-b074-357a065311b2",
-      "time": "2026-06-18 16:32:22",
-      "tags": [
-        "MKT News",
-        "USDCHF",
-        "Impact mixed"
-      ],
-      "text": "Swiss National Bank chairman said the bank offers no forward guidance and will decide at each meeting."
-    },
-    {
-      "id": "4942946",
-      "time": "2026-06-18 16:31:55",
-      "tags": [
-        "央行",
-        "公司"
-      ],
-      "text": "【香港交易所與金管局推出試點專案為衍生產品收市後交易時段提供數碼支付方案】香港交易及結算所有限公司（香港交易所）與香港金融管理局（金管局）今日（6月18日）宣佈推出一項聯合試點專案，研究在衍生產品市場收市後交易時段提供新的數碼支付方案。此試點專案旨在最佳化香港資本市場，並滿足市場對收市後交易時段持續增長的需求。香港交易所與金管局正研究引入“數碼港元”—採用24/7運作模式的批發層面央行數碼貨幣（CBDC）—用於支付收市後交易時段的預繳按金，以提升衍生產品市場在銀行營業時段以外的風險管理能力，同時維持現有作業流程不變。"
-    },
-    {
-      "id": "mkt:019ed9db-a59d-7dd8-b074-296e1943ff72",
-      "time": "2026-06-18 16:31:51",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "Crypto Concepts",
-        "Market Regions",
-        "Greater China",
-        "0388.HK",
-        "Impact bullish"
-      ],
-      "text": "【HKEX, HKMA pilot digital HKD for after-hours derivatives margin payments】On June 18, Hong Kong Exchange (HKEX) and the Hong Kong Monetary Authority (HKMA) launched a joint pilot to study a digital Hong Kong dollar — a wholesale central bank digital currency operating 24/7 — for pre-funded margin payments in after-hours derivatives trading. The pilot aims to support growing demand for post-close trading and improve risk management outside bank business hours while keeping existing operational workflows unchanged."
-    },
-    {
-      "id": "4942945",
-      "time": "2026-06-18 16:31:16",
-      "tags": [
-        "市場"
-      ],
-      "text": "土耳其主要銀行指數<.XBANK>漲幅擴大，上漲3.5%，土耳其主要BIST 100指數上漲1.5%。"
-    },
-    {
-      "id": "4942944",
-      "time": "2026-06-18 16:31:09",
-      "tags": [
-        "公司"
-      ],
-      "text": "【廣鋼氣體：目前無六氟化鎢相關產品銷售】廣鋼氣體今日在互動平臺表示，公司目前無六氟化鎢相關產品銷售。另外，卡達天然氣工廠有望恢復正常生產。公司擁有中東、北美、歐洲多區域氦氣氣源，具備全球化氦氣資源調配能力，有能力應對氣源供應波動，切實保障我國高階產業對氦氣資源的穩定需求。"
-    },
-    {
-      "id": "te:economy:560030",
-      "time": "2026-06-18 16:30:49",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Euro Area",
-        "Current Account",
-        "Importance 1"
-      ],
-      "text": "Eurozone Current Account Surplus Shrinks in April — The Eurozone’s current account surplus fell to €14.88 billion in April 2026, down from €20.84 billion a year earlier, driven by a drop in the goods surplus to €14.25 billion, the lowest since April 2023, compared to €25.79 billion in April 2025. Meanwhile, the services surplus grew to €15.55 billion from €11.07 billion, the primary income deficit narrowed to €1.04 billion from €1.91 billion, and the secondary income gap decreased slightly to €13.88 billion from €14.10 billion. Over the first four months of 2026, the current account surplus totaled €75.86 billion, down from €81.64 billion in the same period of 2025."
     }
   ]
 }
