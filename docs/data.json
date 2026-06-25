@@ -1,7 +1,74 @@
 {
-  "updated": "2026-06-25 21:15:53",
+  "updated": "2026-06-25 21:20:15",
   "count": 17022,
   "items": [
+    {
+      "id": "4955328",
+      "time": "2026-06-25 21:19:24",
+      "tags": [
+        "其他"
+      ],
+      "text": "瑞銀將高通目標價由170美元上調至235美元。"
+    },
+    {
+      "id": "4955327",
+      "time": "2026-06-25 21:18:59",
+      "tags": [
+        "其他"
+      ],
+      "text": "美元指數降至97.69，公佈資料前為97.83。10年期美債收益率從早些時候的4.414%降至4.371%。兩年期美債收益率從4.162%降至4.107%。"
+    },
+    {
+      "id": "4955326",
+      "time": "2026-06-25 21:17:47",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【特斯拉德國工廠產能提升20%】特斯拉週四表示，旗下柏林工廠自今年 10 月起產能將提升 20%，達到每週 7500 臺整車。特斯拉稱，本次擴產計劃將新增招聘 1000 名員工。公司早在 4 月就已宣佈該工廠擴容計劃，以滿足 Model Y 車型上漲的市場需求；5 月又宣佈將加碼該廠動力電池生產線投資。特斯拉表示，上述三項規劃落地後，工廠整車製造與電池產線中短期合計新增 3500 個工作崗位。"
+    },
+    {
+      "id": "4955325",
+      "time": "2026-06-25 21:16:10",
+      "tags": [
+        "國際"
+      ],
+      "text": "【歐洲35攝氏度以上高溫覆蓋人口超1億】隨著高溫天氣持續席捲歐洲，法國、英國等多國遭遇6月同期破紀錄高溫。據估算，25日氣溫超過35攝氏度的歐洲地區人口超過了1個億。法新社根據天氣預報和歐盟聯合研究中心的人口資料估算，歐洲當天至少有1.01億人身處35攝氏度以上高溫環境，其中法國受影響人口達5000萬、德國1800萬。另外，同一天，氣溫超過30攝氏度的歐洲地區人口超過3.8億，其中包括德國約7000萬人、法國6300萬人、義大利4800萬人、英國3800萬人。（新華社）"
+    },
+    {
+      "id": "mkt:019efeec-6531-7dd8-b11d-aaba1d3dd0e9",
+      "time": "2026-06-25 21:16:05",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y",
+        "Impact bearish",
+        "DXY",
+        "WTI"
+      ],
+      "text": "【Treasury yields, dollar slip after mixed US data and oil drop】Treasury yields and the dollar eased after mixed US data and oil prices fell below pre-war levels. May PCE inflation (YoY) rose to 4.1% from 3.8%, in line with consensus; lower energy costs are expected to ease future inflationary pressure. May durable goods orders fell 4.5% vs -4.0% consensus. Q1 real GDP (annualized) was revised up to 2.1% from 1.6% (consensus 1.7%). Weekly initial jobless claims fell to 215,000 (consensus 223,000). The 10-year Treasury yield slid to 4.371% from an earlier 4.414%; the 2-year fell to 4.107% from 4.162%."
+    },
+    {
+      "id": "mkt:019efeeb-d9d2-7dd8-b11d-a1d311acf1c7",
+      "time": "2026-06-25 21:15:29",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "Indian government says LPG supply has recovered due to recent improvements in supply conditions."
+    },
+    {
+      "id": "mkt:019efeeb-a5aa-7dd8-b11d-9c66d9ffa15b",
+      "time": "2026-06-25 21:15:16",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "The Indian government said it has lifted industry supply restrictions on liquefied petroleum gas (LPG)."
+    },
     {
       "id": "4955324",
       "time": "2026-06-25 21:15:02",
@@ -9,6 +76,15 @@
         "公司"
       ],
       "text": "【AI智慧體基礎設施公司Sail Research獲8000萬美元融資，估值達4.5億美元】6月25日，專為長週期人工智慧智慧體（AI Agent）打造的基礎設施公司Sail Research宣佈，已在種子輪和A輪融資中成功籌集8000萬美元，估值達到4.5億美元。其中，A輪融資由凱鵬華盈（Kleiner Perkins）領投，種子輪由紅杉資本（Sequoia）領投。Alphabet董事長約翰·軒尼詩（John Hennessy）及Together AI首席科學家Tri Dao等作為天使投資人參與投資。"
+    },
+    {
+      "id": "4955323",
+      "time": "2026-06-25 21:14:53",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【奧比中光與科德寶集團在多個關鍵業務方向上達成合作意向】據奧比中光訊息，近日，德國工業科技巨頭科德寶集團（Freudenberg Group）高層代表團到訪奧比中光科技集團股份有限公司（簡稱“奧比中光”）位於佛山順德的3D視覺感知產業智慧製造基地及深圳總部。雙方聚焦具身智慧、智慧製造及工業自動化領域的深度協同，展開務實交流，並在多個關鍵業務方向上初步達成合作意向。在技術賦能方面，擬開展雙向合作：一方面，探索由科德寶為奧比中光3D視覺系統、相關應用以及機器人制造服務提供密封、特種潤滑和NVH最佳化方案，以提升其在複雜工業環境下的可靠性、耐用性及場景適配能力；同時，結合科德寶在材料與製造領域的專長和奧比中光的新一代方案，進一步提升產品效能與效益。另一方面，探索將奧比中光3D視覺感知技術及定製化機器人方案應用於科德寶智慧製造產線，助力提升生產自動化水平和運營效率，挖掘先進製造領域的協同潛力。在全球市場拓展方面，雙方規劃聯合亮相國際頂級行業展會，並在歐洲、北美及中國協同開展客戶拜訪。此外，雙方還計劃藉助Tech Day等形式，共同展示奧比中光的3D視覺技術與科德寶在密封、特種潤滑、NVH領域的技術積累，並探索在人形機器人等新興領域的聯合共創機會。"
     },
     {
       "id": "mkt:019efeeb-346e-7dd8-b11d-96fdccc463f4",
@@ -155467,71 +155543,6 @@
         "國際"
       ],
       "text": "英國政府宣告：英國將在年底前向烏克蘭提供15萬架無人機，這屬於7.52億英鎊一攬子資助計劃的一部分。"
-    },
-    {
-      "id": "4943649",
-      "time": "2026-06-18 21:20:13",
-      "tags": [
-        "國際"
-      ],
-      "text": "以色列總理內塔尼亞胡：正如我們恢復了“加沙地帶周邊地區”的安全與繁榮，我們也必將恢復北部定居點的安全與繁榮。這需要維持在黎巴嫩南部的“安全區”；只要以色列的安全需求有此必要，我們就不能撤離該地區。伊朗絕不會擁有核武器。只要我擔任以色列總理，這種情況就絕不會發生。"
-    },
-    {
-      "id": "mkt:019edae3-4ace-7dd8-b07e-8dbd62efb17f",
-      "time": "2026-06-18 21:19:49",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Israeli Prime Minister NETANYAHU said Iran will never possess nuclear weapons and that will not happen while he remains prime minister."
-    },
-    {
-      "id": "mkt:019edae3-2383-7dd8-b07e-83ab56bff09a",
-      "time": "2026-06-18 21:19:39",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "NETANYAHU said Israel will restore security and prosperity to northern settlements as it did around Gaza, and that maintaining a \"security zone\" in southern Lebanon is necessary; Israel will not withdraw from the area while its security needs require it."
-    },
-    {
-      "id": "mkt:019edae2-b570-7dd8-b07e-7a9c006e7cbd",
-      "time": "2026-06-18 21:19:11",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Israeli Prime Minister Netanyahu said the struggle is not over and more challenges lie ahead; we will continue to act with wisdom and judgment."
-    },
-    {
-      "id": "4943648",
-      "time": "2026-06-18 21:18:52",
-      "tags": [
-        "其他"
-      ],
-      "text": "【中沙古雷乙烯專案在福建古雷順利完成中間交接】18日，位於福建漳州古雷石化基地的中沙古雷乙烯專案順利完成高標準中間交接，並啟動聯動試車。此次中交的乙烯裝置最高年產能達180萬噸。 中交成功標誌著中沙古雷乙烯專案進入投料試車衝刺階段。待整體專案投產後，將有效增強我國高階化工原料自主供給能力，大幅降低高階化工產品對外依存度，進一步提升石化產業鏈供應鏈韌性與安全水平，助力我國石化產業高階化、叢集化、現代化發展，同時可有力支撐福建建設世界級石化產業基地，服務地方經濟高質量發展。 總投資448億元的中沙古雷乙烯專案，是福建省迄今為止一次性投資規模最大的外資專案，也是我國共建“一帶一路”對接沙特“2030願景”的標誌效能源石化合作專案，對深化中沙務實合作、擴大高水平對外開放具有重要示範作用。（新華社）"
-    },
-    {
-      "id": "mkt:019edae2-1287-7dd8-b07e-75aa99f561e8",
-      "time": "2026-06-18 21:18:29",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Report: China's live-stream e-commerce enters refined operations stage】June 18 — China Economic Information Service and Meiwan released the China Live‑stream E‑commerce Development Report (2026). The report says the sector is accelerating iteration and has entered a refined, high‑quality operations phase. Domestic live‑stream e‑commerce transaction value exceeded 6 trillion yuan in 2025, up 20% YoY. The industry is shifting from broad traffic competition to precision operations and has become a key driver of online retail growth."
-    },
-    {
-      "id": "4943647",
-      "time": "2026-06-18 21:18:06",
-      "tags": [
-        "公司"
-      ],
-      "text": "【瀾起科技：成功送樣DDR5第六子代RCD晶片】瀾起科技在互動平臺表示，公司已於近日成功向客戶送樣DDR5第六子代RCD晶片，該晶片支援高達9200 MT/s的資料傳輸速率，較上一代產品提升15%，可滿足下一代伺服器平臺對高頻寬的嚴苛要求。公司是DDR5 RCD晶片國際標準的牽頭制定者。依託產品一貫的高品質、穩定性與可靠性，公司持續鞏固在DDR5世代的全球領先地位。"
-    },
-    {
-      "id": "4943646",
-      "time": "2026-06-18 21:16:17",
-      "tags": [
-        "國際"
-      ],
-      "text": "【美國稱將審查其在歐洲軍事部署】美國國防部長赫格塞思18日在布魯塞爾舉行的北約防長會上說，美國將審查其在歐洲的兵力態勢和基地部署情況，要求歐洲承擔本地區常規防務主要責任。赫格塞思將這一審查稱為“北約3.0審查”，為期至多6個月。他說，將聽取美軍歐洲司令部、美國國會、盟友等意見，重點審視美國在歐洲的兵力部署、基地安排以及相關准入、駐紮和飛越機制。赫格塞思說，這項審查旨在確保北約“快速且不可逆轉”地朝著由歐洲承擔本地區防務主要責任的方向轉變。他同時批評部分北約盟友在美國近期針對中東目標採取行動時，未向美軍提供基地使用、駐紮和飛越等便利，斥責這些做法“可恥”。他說，美方將密切關注哪些盟友在關鍵時刻“說‘不’、說‘也許’或觀望”。赫格塞思還稱，一些國家至今仍未展現出落實北約海牙峰會承諾的路徑，“說得多、做得少”。美國特朗普政府上臺以來持續要求歐洲盟友提高軍費開支。2025年6月，北約成員國領導人在荷蘭海牙舉行的峰會上一致決定，在2035年前將年度國防開支提高至國內生產總值的5%。（新華社）"
     }
   ]
 }
