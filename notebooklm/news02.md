@@ -1,7 +1,481 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-06-26 02:47:00_
-_本檔包含 3522 則快訊，約 617786 字_
+_更新時間：2026-06-26 03:51:55_
+_本檔包含 3547 則快訊，約 618143 字_
+
+---
+
+### 2026-06-25 05:18:13  #其他
+
+市場訊息：貝恩資本即將達成交易，收購大眾旗下 Everllence 部分股權。
+
+---
+
+### 2026-06-25 05:17:52  #公司 #市場
+
+標普道瓊斯指數公司：Netstreit 公司將於 6 月 29 日開盤前替換 ProAssurance 公司，納入標普小盤 600 指數。
+
+---
+
+### 2026-06-25 05:17:40  #MKT News #Market Regions #Europe & UK
+
+【Trump on potential UK PM Burnham: not familiar, 'extremely liberal'】US President Trump dismissed Andy Burnham, saying he was unfamiliar with the former Greater Manchester mayor and had 'only heard' he is 'extremely liberal.' Trump added he thought Burnham 'may not develop North Sea resources.' Burnham is reportedly likely to be the sole nominee to replace Keir Starmer as Labour leader and could become UK prime minister by mid-July. The comments also lay groundwork for possible future tensions between the two leaders.
+
+---
+
+### 2026-06-25 05:16:40  #MKT News
+
+【Pakistan counterterrorism unit says it killed six terrorists】Pakistan's Khyber Pakhtunkhwa counterterrorism department said on the 24th that a joint operation with police killed six terrorists. The department said the group had earlier attacked a local police post, killing one officer.
+
+---
+
+### 2026-06-25 05:16:15  #其他
+
+【巴基斯坦反恐部門稱擊斃6名恐怖分子】巴基斯坦西北部開伯爾－普什圖省反恐部門24日釋出宣告說，該部門在和警方的聯合行動中擊斃6名恐怖分子。宣告說，這夥恐怖分子此前襲擊該地區一警察哨所，導致一名警員殉職。
+
+---
+
+### 2026-06-25 05:15:20  #市場
+
+富時A50期指連續夜盤收跌0.02%，報15537點。
+
+---
+
+### 2026-06-25 05:13:46  #國際
+
+【特朗普回應拒籤住房法案：比任何人都懂房地產 降息才是關鍵】當地時間6月24日，被問及臨時取消旨在降低住房成本和增加住房供應法案的簽署計劃時，美國總統特朗普表示，“我說過我不會簽署那個法案。我在房地產行業賺了幾十億美元，我比任何人都更瞭解房地產。這完全是利率的事情，我們要降低利率。我也不想傷害那些擁有房產的人。對這些人來說，他們人生中第一次擁有了有價值的房子，他們變得富有了。我也不想傷害他們。”
+
+---
+
+### 2026-06-25 05:13:43  #Trading Economics #Economy #South Korea #Business Confidence #Importance 1
+
+South Korea Manufacturing Confidence Eases in June — South Korea’s Business Survey Index for the manufacturing sector edged down to 79 in June 2026 from 80 in the previous month. The production index was unchanged at 90, while the new orders index rose to 88 from 87. Meanwhile, the inventories index held steady at 100, and the financial conditions index improved slightly to 80 from 79. The Composite Business Sentiment Index for manufacturing rose 0.4 points to 101.2, signaling a modest improvement in current conditions. However, the outlook for the following month weakened, with the forward-looking sentiment index falling 2.1 points to 98.2.
+
+---
+
+### 2026-06-25 05:13:35  #MKT News #Important #Macro & Rates #US Economy #US10Y #Impact bullish #DXY #Impact bearish #S&P500
+
+【Trump says he will not sign housing bill, frames issue as interest-rate driven and backs rate cuts】On June 24, asked about his decision not to sign a bill intended to lower housing costs and boost supply, President Trump said he will not sign the measure. He said he has made billions in real estate and "understands real estate better than anyone," called the problem "entirely about rates," and said "we need to lower rates." He added he does not want to hurt homeowners who have gained wealth from rising house values.
+
+---
+
+### 2026-06-25 05:08:42  #公司 #國際
+
+洛克希德・馬丁公司：獲一份為期七年、最高價值 350 億美元的美國合同，薩德反導系統產能將提升至現有四倍。本次投資涵蓋 20 餘座新建或翻新的美國本土生產設施。
+
+---
+
+### 2026-06-25 05:05:11  #市場
+
+週三（6月24日）紐約尾盤（週四北京時間04:59），離岸人民幣（CNH）兌美元報6.8132元，較週二紐約尾盤跌184點，日內整體交投於6.7910-6.8195元區間。
+
+---
+
+### 2026-06-25 05:03:46  #公司
+
+【智利國家銅業公司將在投資審查中權衡資產出售事宜】智利國有礦業巨頭、全球最大銅生產商之一的智利國家銅業公司（Codelco）董事長Bernardo Fontaine在國會下院委員會會議上表示，作為更廣泛的投資優先順序審查的一部分，該公司將評估出售資產或建立合作關係的潛在可能性。Fontaine表示，這項預計耗時三到四個月的評估，其部分目的是讓Codelco確定“繼續保留這些資產、將其出售，或是以某種方式（開展合作）是否合理”。
+
+---
+
+### 2026-06-25 05:02:10  #MKT News #LMT.O #Impact bullish #NOC.O #RTX.O
+
+NATO Secretary-General Rutte said Germany and other allies are stepping up efforts to increase defense spending.
+
+---
+
+### 2026-06-25 05:01:07  #市場
+
+【紐約期金週三跌3.2%，現貨黃金失守4000美元整數位心理關口，白銀跌超6%】週三（6月24日）紐約尾盤，現貨黃金跌2.86%，報3999.08美元/盎司，全天處於下跌狀態，交投區間為4117.78-3959.33美元，北京時間02:04逼近2025年11月4日底部3928.98美元和當年10月28日底部3886.62美元。COMEX黃金期貨跌3.21%，報4016.40美元/盎司，紐約中午一度跌至3975.70美元。現貨白銀跌6.72%，報57.4512美元/盎司，交投區間為62.3762-55.6125美元，02:04逼近2025年11月28日底部53.3447美元。COMEX白銀期貨跌6.64%，報57.940美元/盎司。COMEX銅期貨跌2.57%，報6.0525美元/磅。現貨鉑金跌4.25%，現貨鈀金跌5.01%。
+
+---
+
+### 2026-06-25 05:00:27  #MKT News #Market Themes #The Trump Trade
+
+【Trump: will not accept any shipping-related fees in US-Iran deal】On June 24, Trump said any final US-Iran agreement that imposes fees on shipping or maritime activity would be "unacceptable" to him.
+
+---
+
+### 2026-06-25 05:00:22  #資料 #國際
+
+韓國製造業信心指數6月份升至101.2。
+
+---
+
+### 2026-06-25 04:59:55  #焦點 #國際
+
+【特朗普：不接受美伊協議包含任何涉及航運的費用】當地時間6月24日，美國總統特朗普表示，如果最終達成的美伊協議中包含針對航運或海事活動的任何形式的費用，這對他來說是“不可接受的”。（央視新聞）
+
+---
+
+### 2026-06-25 04:59:03  #MKT News #DXY #Impact bullish #US10Y #S&P500 #Impact bearish
+
+Timiraos said some forecasters who backcast May PCE from US PPI and CPI expect a strong core PCE print and a sizable divergence from CPI, projecting core PCE YoY at 3.4% when the May figure is released on Thursday.
+
+---
+
+### 2026-06-25 04:58:57  #資料 #央行 #國際
+
+“美聯儲傳聲筒”Nick Timiraos：一些將美國PPI和CPI資料換算為5月PCE的預測人士預計，美國核心PCE將錄得較強讀數，並且與CPI之間的差距（分歧）較大，預計在週四公佈時，核心PCE同比增速將達到3.4%。
+
+---
+
+### 2026-06-25 04:57:52  #MKT News
+
+President Trump said a war-powers vote on Iran is meaningless.
+
+---
+
+### 2026-06-25 04:57:38  #MKT News #Commodities #Energy
+
+Trump said oil companies have not sufficiently reduced gasoline prices and that he spoke with oil firms today.
+
+---
+
+### 2026-06-25 04:57:35  #MKT News #Market Themes #Chip Wars #AI Revolution #QCOM.O #Impact bullish
+
+【Qualcomm shares jump after-hours as CFO lifts data-center and non-phone revenue targets】Qualcomm (QCOM.O) shares rose as much as 15% in after-hours trading after the CFO raised long-term targets for data-center and non-phone businesses. The company increased its FY2029 non-phone revenue target to $40.0 billion, roughly double its prior FY2029 goal, and is targeting over $15.0 billion of AI data-center revenue in FY2029.
+
+---
+
+### 2026-06-25 04:54:59  #MKT News #QCOM.O #Impact bullish
+
+Qualcomm (QCOM.O) CFO says the company has an opportunity to raise annual revenue to $100 billion.
+
+---
+
+### 2026-06-25 04:54:58  #國際
+
+美國 30 年期美債收益率當日下行 10 個基點，報 4.84%。
+
+---
+
+### 2026-06-25 04:54:34  #MKT News #Market Themes #AI Revolution #QCOM.O #Impact bullish
+
+Qualcomm (QCOM.O) targets roughly $6 bln in revenue from its Personal AI and compute businesses in fiscal 2029.
+
+---
+
+### 2026-06-25 04:54:11  #MKT News #QCOM.O #Impact bullish
+
+Qualcomm (QCOM.O) targets roughly $8 billion in industrial, networking and robotics revenue by fiscal 2029.
+
+---
+
+### 2026-06-25 04:52:40  #MKT News #Market Themes #Chip Wars #QCOM.O #Impact bullish
+
+Qualcomm (QCOM.O) says its automotive design-win pipeline has expanded to $65 bln.
+
+---
+
+### 2026-06-25 04:52:05  #MKT News #QCOM.O
+
+Qualcomm (QCOM.O): By fiscal 2029, the handset business is expected to account for about one-third of revenue in its core semiconductor business.
+
+---
+
+### 2026-06-25 04:50:29  #MKT News
+
+U.S. Vice President Vance said U.S. officials are reviewing Turkey's compliance with U.S. laws over its purchase of Russia's S-400 missile defense system.
+
+---
+
+### 2026-06-25 04:50:19  #國際
+
+被問及司法部調查汽油價格，特朗普點名雪佛龍、BP和埃克森美孚。
+
+---
+
+### 2026-06-25 04:49:50  #MKT News #XOM.O #Impact bearish #CVX.O
+
+Trump said ExxonMobil, Chevron and other firms are under investigation over surging natural gas prices.
+
+---
+
+### 2026-06-25 04:49:27  #MKT News #QCOM.O #Impact bullish
+
+Qualcomm (QCOM.O) targets IoT revenue of more than $14 bln in fiscal 2029.
+
+---
+
+### 2026-06-25 04:48:50  #公司 #國際
+
+特朗普：今天與石油公司進行了交談，石油公司對汽油的降價力度還不夠。
+
+---
+
+### 2026-06-25 04:48:46  #國際
+
+美國副總統萬斯：美國官員正在審查土耳其是否遵守美國針對俄羅斯 S-400 防空導彈系統的相關法律。
+
+---
+
+### 2026-06-25 04:48:16  #MKT News #QCOM.O #Impact bullish
+
+Qualcomm (QCOM.O) targets non-GAAP EPS above $18 for fiscal 2029.
+
+---
+
+### 2026-06-25 04:47:30  #Trading Economics #Markets #Brazil #Stock Market #Importance 1
+
+Ibovespa Falls on Commodity and Bank Losses — The Ibovespa fell 0.4% to close at 170,507 on Wednesday, pressured by losses in commodity and banking stocks. Petrobras was among the main drags, down 2.6% as oil prices declined on signs that more tankers were moving through the Strait of Hormuz amid progress in US-Iran talks. Vale lost 2.1% amid an internal dispute over its chairman position. Major banks also traded lower after Citigroup cut target prices for several Brazilian lenders, citing a more cautious stance on the sector due to a deteriorating macroeconomic backdrop and rising pressure on asset quality, particularly in consumer lending and agribusiness. Bradesco fell 1.1%, while Banco do Brasil dropped 0.6%. On the upside, WEG gained 2% as it accelerates the expansion of its Rugao unit in China. Embraer rose 1.5% amid renewed speculation over a sale of the C-390 Millennium to Morocco.
+
+---
+
+### 2026-06-25 04:47:19  #其他
+
+道富銀行：該行資本留存緩衝比率（SCB）下限維持 2.5% 不變，有效期至 2027 年 9 月 30 日；一級普通股本充足率要求維持 8% 不變。
+
+---
+
+### 2026-06-25 04:47:01  #國際
+
+美國副總統萬斯：能否向土耳其交付 F-35 戰機取決於國會。
+
+---
+
+### 2026-06-25 04:46:43  #MKT News #QCOM.O #Impact bullish
+
+Qualcomm (QCOM.O) CFO said the company is targeting about $10 billion in automotive revenue in fiscal 2029.
+
+---
+
+### 2026-06-25 04:46:30  #MKT News #Market Themes #Chip Wars #QCOM.O #Impact bullish
+
+Qualcomm (QCOM.O) CFO said two hyperscale custom-chip customers will generate $1.0 bln in revenue in fiscal 2027.
+
+---
+
+### 2026-06-25 04:46:17  #MKT News
+
+Qualcomm (QCOM.O) CFO said the company targets data-center revenue exceeding $15 billion in fiscal 2029.
+
+---
+
+### 2026-06-25 04:45:48  #MKT News #Market Themes #Chip Wars #QCOM.O #Impact bullish
+
+Qualcomm (QCOM.O) raised its fiscal 2029 revenue target for non-handset businesses to $40 bln.
+
+---
+
+### 2026-06-25 04:45:43  #MKT News #Important #Market Themes #AI Revolution #QCOM.O #Impact bullish
+
+Qualcomm (QCOM.O) shares rose over 14% in after-hours US trading after the CFO said the company targets $5.0 billion in AI data-center revenue in fiscal 2027.
+
+---
+
+### 2026-06-25 04:45:11  #公司
+
+道富集團計劃將 2026 年第三季度股息上調 10%，至每股 0.92 美元。
+
+---
+
+### 2026-06-25 04:44:46  #市場
+
+美光科技盤後上漲至15%。
+
+---
+
+### 2026-06-25 04:43:55  #MKT News
+
+Trump said he nearly made progress in talks with NATO Secretary-General Rutte.
+
+---
+
+### 2026-06-25 04:43:08  #國際
+
+特朗普：關於伊朗戰爭授權的投票毫無意義。
+
+---
+
+### 2026-06-25 04:43:03  #MKT News #Important #WTI #Impact bullish #Brent
+
+US President Trump said an Iran deal that includes transportation costs would be unacceptable.
+
+---
+
+### 2026-06-25 04:42:31  #MKT News #LMT.O #Impact bullish #RTX.O #NOC.O
+
+White House says Trump's supplemental budget request includes $67.15 bln for Defense Department military projects.
+
+---
+
+### 2026-06-25 04:42:02  #國際
+
+特朗普談伊朗：我們在談判中進展順利。
+
+---
+
+### 2026-06-25 04:41:45  #國際
+
+特朗普：對霍爾木茲海峽收費是不可接受的。
+
+---
+
+### 2026-06-25 04:40:59  #MKT News #Brent #Impact bullish
+
+Trump said he had heard that Burnham, a potential successor to the UK prime minister, is very liberal and therefore may not open the North Sea.
+
+---
+
+### 2026-06-25 04:40:53  #MKT News #Market Themes #AI Revolution #QCOM.O #Impact bullish
+
+Hugging Face CEO said AI models from the Hugging Face ecosystem are planned to be integrated and deployed on Qualcomm platforms.
+
+---
+
+### 2026-06-25 04:40:39  #MKT News #Important #Macro & Rates #The Fed (FOMC) #DXY #Impact bearish #EURUSD #Impact bullish #S&P500
+
+US President Trump said the US needs low interest rates.
+
+---
+
+### 2026-06-25 04:39:06  #公司
+
+高通首席財務官：公司有機會將年度營收規模拓展至 1000 億美元。
+
+---
+
+### 2026-06-25 04:38:25  #國際
+
+特朗普：我們需要低利率。
+
+---
+
+### 2026-06-25 04:38:16  #國際
+
+美國白宮：特朗普追加撥款申請中包含 671.5 億美元，用於國防部各類軍事專案。
+
+---
+
+### 2026-06-25 04:37:23  #國際
+
+美國白宮：特朗普向國會申請 5 億美元用於紐約賓夕法尼亞車站翻新工程，另申請 10 億美元，用以提高通用汽車破產期間福利受損工人的養老金。
+
+---
+
+### 2026-06-25 04:37:05  #其他
+
+美光科技：目前看不到供應實現供需平衡的明確時間點。
+
+---
+
+### 2026-06-25 04:36:51  #國際
+
+特朗普談及伊朗校園襲擊事件：不確定他們能否解決此事。
+
+---
+
+### 2026-06-25 04:35:50  #公司 #其他 #焦點 #國際
+
+美光科技：預計 2028 年儲存晶片供應將逐步改善。
+
+---
+
+### 2026-06-25 04:35:30  #其他
+
+高通：預計安卓系統硬體裝置營收將增長大約5%。在2029財年，預計硬體將在收入佔比大約三分之一。
+
+---
+
+### 2026-06-25 04:35:10  #Trading Economics #Markets #United States #Stock Market #Importance 1
+
+The Dow Jones Index Closes 0.34% Higher — The Dow Jones Index rose 174 points or 0.34 percent on Wednesday to close at 51840 points. Leading the gains are Home Depot (5.35%), Sherwin-Williams (3.12%) and 3M (2.49%). Top losers were Chevron (-2.43%), Walt Disney (-2.34%) and Microsoft (-2.27%).
+
+---
+
+### 2026-06-25 04:34:58  #國際
+
+特朗普：烏克蘭總統澤連斯基表現得相當不錯， 他撐得住局面。
+
+---
+
+### 2026-06-25 04:34:46  #MKT News
+
+US President Trump said Ukrainian President Zelenskiy has performed quite well.
+
+---
+
+### 2026-06-25 04:34:32  #MKT News
+
+US President Trump said he would not have attended the NATO summit in Ankara if not for Turkish President Erdogan.
+
+---
+
+### 2026-06-25 04:34:08  #MKT News
+
+U.S. President Trump said he may take action on fighter-jet sales to Turkey.
+
+---
+
+### 2026-06-25 04:34:04  #公司 #市場
+
+美光釋出財報後，盤後晶片股普漲；英特爾漲 4.4%，AMD 漲 3.4%，英偉達上漲 0.6%。
+
+---
+
+### 2026-06-25 04:33:49  #MKT News #Important #Macro & Rates #The Fed (FOMC) #S&P500 #Impact bullish #Nasdaq100 #Dow
+
+【Wall Street banks pass Fed stress test, clear way for tens of billions in buybacks and dividends】All major US banks passed the Fed's annual stress test, clearing the way for tens of billions of dollars in share buybacks and dividends. The Fed said 2026 results will not affect capital requirements as it continues to revise the exercise to be more favorable to banks. The test covered 32 large bank holding companies under a severe global shock — commercial real estate down 39%, residential prices down 30%, unemployment peaking at 10% — and assumed lenders would absorb more than $708bn of loan losses. Regulators said aggregate capital fell only 1.6 percentage points and remained above minimum requirements.
+
+---
+
+### 2026-06-25 04:33:00  #國際
+
+特朗普談及向土耳其交付戰機一事：認為此舉會讓土方滿意。
+
+---
+
+### 2026-06-25 04:32:41  #國際
+
+特朗普談及北約峰會：此舉是出於對埃爾多安的尊重。
+
+---
+
+### 2026-06-25 04:32:34  #MKT News #GS.N #Impact bullish
+
+Goldman Sachs (GS.N) plans to raise its dividend from $4.50 to $5.00.
+
+---
+
+### 2026-06-25 04:32:09  #公司 #其他 #焦點 #國際
+
+富國銀行將每股股息從 0.45 美元上調至 0.50 美元。
+
+---
+
+### 2026-06-25 04:31:53  #MKT News #MS.O #Impact bullish
+
+Morgan Stanley raised its quarterly dividend by $0.15 to $1.15 per share and reauthorized a $20 billion multi-year common stock repurchase program.
+
+---
+
+### 2026-06-25 04:31:28  #MKT News #Market Themes #AI Revolution #Chip Wars #QCOM.O #Impact bullish
+
+Qualcomm and Hugging Face expand their partnership to advance open, developer-driven AI across device-to-cloud environments.
+
+---
+
+### 2026-06-25 04:31:26  #市場
+
+美光公佈業績後，閃迪盤後股價上漲 11.8%。
+
+---
+
+### 2026-06-25 04:30:30  #公司 #觀點 #焦點 #國際
+
+摩根士丹利：每股股息上調 15 美分至 1.15 美元，重新批准一項規模 200 億美元的多年期普通股回購計劃。
+
+---
+
+### 2026-06-25 04:30:03  #國際
+
+特朗普：我欣賞土耳其總統埃爾多安。
+
+---
+
+### 2026-06-25 04:29:42  #其他
+
+高通預計將在資料中心領域搶佔超過5%的市場份額。預計2029財年IoT營收將為140億美元。
 
 ---
 
@@ -20932,329 +21406,5 @@ US week to Jun 19 API refined product imports -152,000 b/d; prior -121,000 b/d.
 ### 2026-06-24 04:43:22  #MKT News #Commodities #Energy #WTI #Brent
 
 API: US crude imports for week to June 19 226,000 bbl; prior -276,000 bbl.
-
----
-
-### 2026-06-24 04:43:21  #MKT News #Economic Calendar
-
-United States | API Weekly Petroleum Products Imports Change (Jun.19) | actual -152000M | previous -121000M
-
----
-
-### 2026-06-24 04:43:16  #MKT News #Commodities #Energy #WTI #Impact bearish #Brent
-
-U.S. API heating oil inventories for the week to June 19 rose 405,000 barrels; prior week showed a draw of 125,000 barrels.
-
----
-
-### 2026-06-24 04:43:13  #MKT News #Economic Calendar
-
-United States | API Weekly Crude Oil Imports Change (Jun.19) | actual 226000M | previous -276000M
-
----
-
-### 2026-06-24 04:43:10  #Trading Economics #Economy #Paraguay #Interest Rate #Importance 1
-
-Paraguay Keeps Interest Rates Unchanged in June — The Central Bank of Paraguay kept its benchmark interest rate unchanged at 5.50% during its June 2026 meeting. Policymakers said the economy remained resilient, with the IMAEP rising 3.4% year-on-year in April and the ECN increasing 3.0%. Annual inflation stood at 2.4%, while core inflation was 1.1%, both below the central bank’s 3.5% target. Abroad, policymakers noted stronger-than-expected US labor market data and rising inflation, with headline inflation reaching 4.2% in May. The US Federal Reserve kept rates steady at 3.50%-3.75%, though markets continue to price in further tightening. Meanwhile, Brent crude fell below $80 per barrel as geopolitical tensions eased after a provisional US-Iran agreement and the reopening of the Strait of Hormuz. Soybean, corn, and wheat prices also moved lower. The decision to hold rates signals that policymakers continue to view the current stance as neutral, balancing strong growth with moderate inflation.
-
----
-
-### 2026-06-24 04:43:08  #MKT News #Commodities #Energy #WTI #Impact bullish #Brent
-
-U.S. API Cushing crude stocks -982,000 barrels in week to June 19; prior -1.523 mln barrels.
-
----
-
-### 2026-06-24 04:43:06  #MKT News #Economic Calendar
-
-United States | API Weekly Heating Oil Stocks Change (Jun.19) | actual 405000M | previous -125000M
-
----
-
-### 2026-06-24 04:42:57  #MKT News #Economic Calendar #Important
-
-United States | API Weekly Cushing Crude Oil Stocks Change (Jun.19) | actual -982000M | previous -1523000M
-
----
-
-### 2026-06-24 04:42:52  #國際
-
-美國石油協會（API）資料顯示，上週，美國API原油庫存 -76.5萬桶，之前一週 -833萬桶。
-
----
-
-### 2026-06-24 04:42:52  #MKT News #Commodities #Energy #WTI #Impact bearish #Brent
-
-U.S. API refined products inventories for the week to June 19 rose 1.447 mln barrels, versus -0.38 mln expected and -0.461 mln prior.
-
----
-
-### 2026-06-24 04:42:40  #MKT News #Commodities #Energy #WTI #Impact bearish #Brent
-
-API: US gasoline stocks rose 1.238 mln barrels in the week to June 19, versus market expectations for a 350,000-barrel draw; prior week's build was 2.479 mln barrels.
-
----
-
-### 2026-06-24 04:42:40  #MKT News #Economic Calendar #Important
-
-United States | API Weekly Distillate Stocks Change (Jun.19) | actual 1447000M | consensus -380000M | previous -461000M
-
----
-
-### 2026-06-24 04:42:34  #MKT News #Important #Commodities #Energy #WTI #Impact bearish #Brent
-
-API weekly U.S. crude inventories for week to June 19: down 765,000 barrels; market expected a 4.995 mln-barrel draw; prior week down 8.33 mln barrels.
-
----
-
-### 2026-06-24 04:42:31  #MKT News #Economic Calendar #Important
-
-United States | API Weekly Gasoline Stocks Change (Jun.19) | actual 1238000M | consensus -350000M | previous 2479000M
-
----
-
-### 2026-06-24 04:42:22  #MKT News #Economic Calendar #Important
-
-United States | API Weekly Crude Oil Stocks Change (Jun.19) | actual -765000M | consensus -4995000M | previous -8330000M
-
----
-
-### 2026-06-24 04:42:10  #MKT News #Commodities #Energy
-
-Colombia's oil reserves are estimated to decline 0.74% in 2025 to 2.02 bln barrels; natural gas reserves are estimated to fall 16.8% to 1.72 bln cubic feet (bcf).
-
----
-
-### 2026-06-24 04:41:13  #MKT News
-
-MSCI said liquidity in South Korea’s onshore FX market remains broadly insufficient during extended FX trading hours to support execution as tight as in developed markets.
-
----
-
-### 2026-06-24 04:40:14  #MKT News
-
-Cloud security company Zscaler reached an agreement with Amazon Web Services (AWS) to cooperate on integration, reference architectures and joint go-to-market activities; the partners will jointly secure generative AI deployments in government, healthcare and education sectors.
-
----
-
-### 2026-06-24 04:39:30  #其他
-
-哥倫比亞國家管理局：2025年哥倫比亞天然氣儲量下降16.8%，至17.2億立方英尺。
-
----
-
-### 2026-06-24 04:39:14  #MKT News
-
-MSCI said South Korean investors view related issues as still unresolved; South Korean market participants continue to face significant operational burdens under the reinstated compliance regime.
-
----
-
-### 2026-06-24 04:38:16  #MKT News
-
-MSCI said South Korean market participants still face the burden of early pre-settlement funding requirements.
-
----
-
-### 2026-06-24 04:36:12  #Trading Economics #Markets #Brazil #Stock Market #Importance 1
-
-Ibovespa Rises on Copom Outlook — The Ibovespa rose 0.5% to close at 171,259 on Tuesday after opening lower, diverging from the sharp selloff on Wall Street as markets digested the latest Copom minutes. According to Banco Central do Brasil, policymakers are considering both a pause and a resumption of Selic cuts as possible paths to bring inflation back to target. In the document, the central bank acknowledged that upside risks to inflation currently outweigh downside risks while leaving the next policy steps open and data-dependent. Banking stocks posted gains, with Bradesco up 0.9% and Banco do Brasil rising 1.4%. Utilities also moved higher, with Axia gaining 2.6% after news it is preparing a debenture issuance of up to R$1 billion, maturing in 2036. Other notable gainers included Ambev (+1.2%) and WEG (+1%). In contrast, Vale fell 1.9% after its board unanimously approved a shareholders’ meeting on July 22 to vote on the removal of chairman Daniel Stieler, following a request from its largest shareholder, Previ.
-
----
-
-### 2026-06-24 04:36:06  #公司 #國際
-
-明晟公司（MSCI Inc.）：提前預先結算資金要求仍對韓國市場參與者構成負擔。
-
----
-
-### 2026-06-24 04:35:56  #其他
-
-巴西外貿委員會管理與執行委員會：散件整車的35%關稅稅率將於2027年1月1日起生效。
-
----
-
-### 2026-06-24 04:35:43  #公司
-
-明晟公司（MSCI Inc）：若截至11月指數審議時，土耳其市場未顯現足夠切實可信的進展，或啟動針對土耳其市場的徵求意見程式。
-
----
-
-### 2026-06-24 04:35:39  #MKT News
-
-MSCI said if significant progress is not achieved by November 2026 it may consult on reclassifying Indonesia from emerging-market status to frontier-market status.
-
----
-
-### 2026-06-24 04:35:03  #Trading Economics #Markets #United States #Stock Market #Importance 1
-
-The Dow Jones Index Closes 0.09% Lower — The Dow Jones Index dropped 47 points or 0.09 percent on Tuesday to close at 51665 points. Losses were led by Nvidia (-3.99%), Caterpillar (-3.55%) and Honeywell International (-2.37%). Offsetting the fall, top gainers were IBM (4.92%), Merck (3.54%) and J&J (3.36%).
-
----
-
-### 2026-06-24 04:34:43  #MKT News
-
-State media reported Oman has coordinated with the International Maritime Organization to provide a temporary maritime corridor in the Strait of Hormuz.
-
----
-
-### 2026-06-24 04:34:09  #公司 #國際
-
-明晟公司（MSCI INC）：認可印尼及土耳其股市為解決上述問題所採取並已公佈的各項措施。
-
----
-
-### 2026-06-24 04:34:03  #公司 #國際
-
-明晟公司（MSCI Inc）就印尼市場發表觀點：對於印尼而言，市場參與者對其可投資性提出了重大擔憂，這些擔憂源於相關問題。
-
----
-
-### 2026-06-24 04:33:53  #公司 #國際
-
-明晟公司（MSCI Inc）就印尼市場發表觀點：對於印尼而言，市場參與者對其可投資性提出了重大擔憂，這些擔憂源於相關問題。
-
----
-
-### 2026-06-24 04:33:46  #國際
-
-明晟就印尼問題表態：明晟將在自由流通量確定與更廣泛可投資性評估的框架下，持續評估相關規則的覆蓋範圍、一致性和長期有效性。
-
----
-
-### 2026-06-24 04:33:41  #國際
-
-明晟：持續監測針對提升韓國股市對國際機構投資者可及性的相關措施的落實情況。
-
----
-
-### 2026-06-24 04:33:34  #公司
-
-Grindr宣佈任命執行長喬治·阿里森為董事會主席，並授予股權，以延續阿里森截至2030年秋季的薪酬安排。
-
----
-
-### 2026-06-24 04:33:21  #MKT News #Market Regions #Emerging Markets
-
-MSCI is assessing shareholder transparency and coordinated trading issues in Indonesian and Turkish equity markets.
-
----
-
-### 2026-06-24 04:33:01  #MKT News
-
-MSCI said if by its November 2026 index review the Indonesian market has not shown significant progress, it will consider a range of options to determine its treatment in MSCI indices.
-
----
-
-### 2026-06-24 04:32:17  #MKT News
-
-MSCI released the results of its 2026 market classification review.
-
----
-
-### 2026-06-24 04:28:12  #MKT News
-
-Market sources said Morgan Stanley's private credit fund has set a 5% redemption limit.
-
----
-
-### 2026-06-24 04:25:56  #國際
-
-【中國駐美國大使謝鋒在美洲國家組織成員國與觀察員國對話會上針對巴拿馬方面無端指責闡明中方立場】中國駐美國大使館微信公眾號發文稱，2026年6月23日，中國駐美國大使兼駐美洲國家組織（OAS）觀察員謝鋒在巴拿馬出席OAS成員國與觀察員國對話會時，針對巴方領導人在年會開幕式上無端指責中方對到港船舶開展港口國監督檢查等，發表不實言論，第一時間澄清事實，闡明中方嚴正立場。謝鋒強調，作為航運大國，中國始終高度重視海上運輸和生命安全。但2026年以來，巴拿馬旗船舶在中國水域連續發生多起商漁船碰撞事故，造成多人死亡失蹤，本著對航運安全，包括船隻特別是人員安全負責的態度，中國依照中國法律和國際公約，對到港船舶開展港口國監督檢查，不針對特定國家和船旗，無可指責。謝鋒表示，中國企業自1997年獲准並依法經營運河兩端港口，為促進巴經濟發展作出了積極貢獻。近30年來雙方合作順暢，不存在任何重大爭議，巴方也從未提出任何抱怨。今年1月，巴最高法院突然做出判決，強行沒收、接管，強制驅逐中國企業，明眼人都看得出這背後是政治操弄。如果契約想撕毀就撕毀，市場規則說不遵守就不遵守，資產想接管就接管，經營者說驅逐就驅逐，誰還來投資，誰還來合作？謝鋒再次敦促巴方糾正錯誤，保障中國企業的正當合法權益。
-
----
-
-### 2026-06-24 04:25:33  #觀點
-
-摩根士丹利私募信貸基金將贖回比例上限設為5%。
-
----
-
-### 2026-06-24 04:25:02  #其他
-
-【厄瓜多邊境省份發生槍擊事件 致至少4人死亡】當地時間6月22日，厄瓜多東北部、與哥倫比亞接壤的蘇崑比奧斯省發生一起槍擊事件，造成至少4人死亡、3人受傷。據悉，事件發生在新洛哈市一家娛樂場所內，數名武裝人員闖入後向現場人員連續開槍射擊。經警方確認，4名遇難者中包括2名哥倫比亞公民和2名厄瓜多公民。（央視新聞）
-
----
-
-### 2026-06-24 04:24:17  #MKT News
-
-【China's U.S. ambassador Xie Feng rebuts Panama accusations over port-state inspections】On June 23, 2026, at an OAS dialogue in Panama, Chinese Ambassador to the U.S. and OAS observer Xie Feng rejected Panama's allegations that China improperly carried out port-state inspections on arriving ships. Xie said the charges were false, citing multiple collisions since 2026 involving Panama-flagged vessels in Chinese waters that caused deaths and missing persons. He said China, under Chinese law and relevant international conventions, has conducted port-state control inspections to protect maritime and crew safety and that inspections are not targeted at any specific country or flag. Xie urged Panama to correct the record and safeguard the lawful rights of Chinese firms.
-
----
-
-### 2026-06-24 04:23:49  #公司
-
-遊戲驛站董事會取消執行長瑞安・科恩的績效獎金，以便其全身心推進收購eBay的相關工作。
-
----
-
-### 2026-06-24 04:22:22  #其他
-
-遊戲驛站：擬於本週釋出對eBay發起收購的戰略依據與計劃。
-
----
-
-### 2026-06-24 04:21:52  #公司 #市場
-
-耐克公司公佈首席財務官繼任計劃及第四財季業績指引後，盤後股價上漲1%。
-
----
-
-### 2026-06-24 04:20:05  #MKT News #Important #Commodities #Energy #WTI #Impact mixed #Brent
-
-API weekly U.S. crude inventory for week to June 19 due in 10 minutes.
-
----
-
-### 2026-06-24 04:17:48  #其他
-
-耐克：任命戴維·M·登頓為首席財務官，8月17日起生效。
-
----
-
-### 2026-06-24 04:17:38  #其他
-
-耐克：首席財務官馬修·弗倫德將卸任，留任至9月4日。
-
----
-
-### 2026-06-24 04:15:13  #Trading Economics #Markets #Canada #Stock Market #Importance 1
-
-TSX Slips on Global Tech Selloff — The S&P/TSX Composite Index fell 0.2% to close at 34,927 on Tuesday, tracking global equities amid a broad selloff in technology stocks and persistent concerns over elevated interest rates. Worries that speculative AI spending by hyperscalers may be running ahead of fundamentals weighed on North American tech shares and hurt overall risk appetite. Celestica plunged 6.2%, leading losses in the tech sector. Gold prices also declined, extending pressure on mining stocks following the hawkish projections from the US Federal Reserve last week. Agnico Eagle shed 3.5%, Barrick lost 4.7%, and WPM dropped 4.1%. Meanwhile, oil prices fell for a second straight session as supply concerns eased amid progress in restoring shipments through the Strait of Hormuz, reducing fears of energy-driven inflation but weighing on energy shares.
-
----
-
-### 2026-06-24 04:14:53  #公司
-
-黑石集團預計2026年第二季度已實現業績收入及主體投資收益將超5億美元。
-
----
-
-### 2026-06-24 04:14:37  #市場
-
-聯邦快遞股價盤後交易跌3.6%。
-
----
-
-### 2026-06-24 04:12:56  #國際
-
-【特朗普稱美國正致力於與伊朗達成一項公平協議】當地時間6月23日，美國總統特朗普表示，美國“正致力於與伊朗達成一項公平的協議”，以結束霍爾木茲海峽的衝突。他稱，僅在前一天（6月22日），就有1900萬桶石油透過霍爾木茲海峽運輸。特朗普再次強調稱“伊朗不能擁有核武器”，並表示當前相關工作進展順利。（央視新聞）
-
----
-
-### 2026-06-24 04:12:41  #MKT News #Commodities #Energy #WTI #Impact bearish #Brent
-
-【Trump says U.S. seeking fair deal with Iran to end Strait of Hormuz conflict】On June 23, Trump said the U.S. is seeking a fair deal with Iran to end the conflict in the Strait of Hormuz, noting 19 million barrels of oil transited the strait on June 22. He reiterated that Iran must not possess nuclear weapons and said related efforts are progressing well.
-
----
-
-### 2026-06-24 04:11:04  #國際
-
-【美參議院透過決議 旨在限制特朗普對伊戰爭權力】當地時間6月23日，美國國會參議院以50票贊成、48票反對透過眾議院此前已透過的關於伊朗的戰爭權力決議。這是相關決議首次獲得國會兩院透過。該決議要求總統在未經國會宣戰或授權使用武力的情況下，結束美國對伊朗的軍事行動。不過，由於該決議屬於國會共同決議，不具有法律約束力，也無需總統簽署，因此主要具有象徵意義。
-
----
-
-### 2026-06-24 04:09:34  #MKT News
-
-【Trump administration mulls White House aide Heidi Overton for FDA commissioner】White House domestic policy aide Heidi Overton is among the final candidates the Trump administration is considering to lead the FDA. No selection has been made and it is unclear whether Overton has the backing of Health Secretary Robert F. Kennedy Jr. Any nominee for FDA commissioner would require Senate confirmation.
 
 ---
