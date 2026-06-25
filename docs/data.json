@@ -1,7 +1,60 @@
 {
-  "updated": "2026-06-25 08:39:34",
-  "count": 16934,
+  "updated": "2026-06-25 08:43:33",
+  "count": 16932,
   "items": [
+    {
+      "id": "4953710",
+      "time": "2026-06-25 08:42:52",
+      "tags": [
+        "國際"
+      ],
+      "text": "【助力文旅產品出海 多部門聯合搭建展示對接平臺】由文化和旅遊部、外交部等聯合主辦的“多彩中國 佳節好物”文化和旅遊貿易促進活動——文通四海專題，昨天（24日）在北京舉行。本次活動吸引了來自14個國家和地區的駐華大使、外交使節，以及上海合作組織主要官員等參加，30多家機構和企業參展，涵蓋文創產品、非遺技藝、文化科技、跨境商貿等多個類別，透過現場展示推介、洽談對接，為文旅出海企業提供合作機遇，展現出中國文化相關產品、服務在對外貿易方面的獨特價值和巨大潛力。（央視）"
+    },
+    {
+      "id": "4953709",
+      "time": "2026-06-25 08:42:27",
+      "tags": [
+        "其他"
+      ],
+      "text": "【三維天地與北京大學第三醫院簽約合作AI醫學診斷專案】據三維天地訊息，近日，三維天地與北京大學第三醫院達成合作協議，共同啟動“基於知識增強大模型的帕金森病診療決策支援平臺”建設專案，依託三維天地自主研發的企業級語義智慧平臺SW-Foundry，擬構建從資料接入、語義建模、知識圖譜、智慧工具到智慧體應用的AI醫學診斷完整應用鏈路。"
+    },
+    {
+      "id": "4953708",
+      "time": "2026-06-25 08:42:02",
+      "tags": [
+        "公司"
+      ],
+      "text": "【滔搏國際：股份將短暫停牌】滔搏國際公告，公司的股份（證券代號：06110）將於今天（25/6/2026）上午九時正起短暫停牌。"
+    },
+    {
+      "id": "4953707",
+      "time": "2026-06-25 08:41:22",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "20年期日本國債收益率下跌1.5個基點，至3.550%。"
+    },
+    {
+      "id": "4953706",
+      "time": "2026-06-25 08:39:47",
+      "tags": [
+        "公司",
+        "觀點",
+        "國際"
+      ],
+      "text": "【華泰證券：科技或仍是主線 但表觀擁擠度已處於高位】華泰證券研報稱，過去兩週，中國AI資產領漲全球，長期受益於全球供應鏈敞口+中國主權AI長期佈局，短期主要受國產大模型迭代、頭部網際網路公司採購國產晶片等催化。產業層面關注三大邊際變化：1.國產模型和國產算力鏈邏輯交叉驗證：智譜GLM-5.2在長週期任務、程式碼與智慧體場景能力繼續追趕海外頭部大模型，據The Information訊息，DeepSeek V4.1預計將於本月釋出；位元組跳動加量採購國產晶片，此前華為昇騰、寒武紀已成為其GPU供應商；2.“主權AI”敘事強化，美國商務部首次動用出口管制權力限制非美籍人士使用Claude Fable 5/Mythos 5；3.AI通脹邏輯擴散，MLCC漲價潮向高階電感蔓延，ABF載板上游覆銅板/電子布/CBF膜提價，部分資金向鎢、鉬等算力金屬輪動。配置上，全球AI產業週期共振、算力需求和國產替代相互強化背景下，科技或仍是主線；但表觀擁擠度已處於高位，疊加市場對Tokenmaxxing的討論趨於白熱化，後續B端對ROI、實際交付量等考核指標或更加重視，建議密切跟蹤產業趨勢，同時適度控制倉位、謹慎追高，關注國產大模型、光模組、儲存/CCL、MLCC、MPO等細分環節。"
+    },
+    {
+      "id": "4953705",
+      "time": "2026-06-25 08:39:16",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "【韓國Kospi指數飆升 受美光展望和SK海力士美國上市計劃提振】韓國Kospi指數一度上漲6%，跟隨美國股指期貨上漲，此前美光科技的樂觀預測令市場的AI交易熱情重燃。此外，SK海力士計劃在美國上市籌集約294億美元，也提振了市場情緒。SK海力士和三星電子對股指漲幅貢獻最大，分別上漲高達12%和5.9%。今年迄今為止，Kospi指數已上漲112%。Fibonacci Asset Management執行長Jung In Yun表示，美光超出預期的盈利和積極的業績指引，顯著降低了韓國儲存器製造商盈利前景的不確定性韓國小型股Kosdaq指數一度上漲2.4%。韓國股市表現優於MSCI亞太指數，後者上漲1.2%。"
+    },
     {
       "id": "4953704",
       "time": "2026-06-25 08:38:50",
@@ -154652,78 +154705,6 @@
         "市場"
       ],
       "text": "現貨白銀日內漲2%，現報69.28美元/盎司。"
-    },
-    {
-      "id": "mkt:019ed82e-c159-7dd8-b067-1c918ee17c38",
-      "time": "2026-06-18 08:43:23",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Russian Defence Ministry reports gains in Donetsk; Ukraine says it repelled attacks on multiple fronts】The Russian Defence Ministry said on the 17th its forces achieved three significant gains in Donetsk region: in Konstantinovka they seized 96 buildings; in Lyman they captured six defensive positions and 61 buildings and destroyed Ukraine's last local supply artery, the Mayaky crossing on the Siverskyi Donets; they also took control of one populated settlement. Ukraine's General Staff said on the 17th there were 237 engagements over the previous day and that Ukrainian forces repelled Russian attacks in multiple directions. Ukraine said its air force, missile troops and artillery struck 11 Russian personnel assembly areas, three artillery pieces and one command post, and reported shooting down 2,052 Russian drones."
-    },
-    {
-      "id": "4942109",
-      "time": "2026-06-18 08:43:09",
-      "tags": [
-        "公司"
-      ],
-      "text": "【中國中車等在蘇州新設創投基金】企查查APP顯示，近日，華輿國科戰新（蘇州）創業投資基金合夥企業（有限合夥）成立，出資額15億元，經營範圍包含：創業投資（限投資未上市企業）；股權投資；以自有資金從事投資活動。企查查股權穿透顯示，該公司由中國中車全資子公司中車資本管理有限公司等共同出資。"
-    },
-    {
-      "id": "4942108",
-      "time": "2026-06-18 08:42:52",
-      "tags": [
-        "國際"
-      ],
-      "text": "【俄稱取得重要戰果 烏稱多方向擊退俄進攻】俄羅斯國防部17日通報稱，俄軍在頓涅茨克地區取得三項重要戰果：在康斯坦丁諾夫卡市，俄軍奪取96棟建築；在紅利曼市，俄軍奪取6處防禦陣地和61棟建築，摧毀烏軍在當地的最後一條補給動脈——北頓涅茨河馬亞基渡口；此外，俄軍還控制了一處居民點。烏克蘭武裝部隊總參謀部17日通報稱，過去一天前線地區發生237次戰鬥，烏軍在多個方向擊退俄軍進攻。烏空軍、導彈部隊和炮兵襲擊了俄軍11個人員集結區、3門火炮和1個指揮所。烏軍擊落俄軍2052架無人機。"
-    },
-    {
-      "id": "4942107",
-      "time": "2026-06-18 08:42:01",
-      "tags": [
-        "其他"
-      ],
-      "text": "【陝西社保科創基金簽約儀式在西安舉行】據陝西日報，6月17日，陝西社保科創基金簽約儀式在西安舉行。陝西社保科創基金是服務國家戰略和陝西經濟高質量發展的市場化基金，由陝西省、全國社會保障基金理事會、中國銀行共同發起設立，首期規模100億元。基金將高效聯合創投機構、金融機構、產業資本等多元化社會資本，重點投向陝西特色優勢產業、新興產業、未來產業，以長期資本、耐心資本支援科技創新與產業融合發展。"
-    },
-    {
-      "id": "4942106",
-      "time": "2026-06-18 08:40:58",
-      "tags": [
-        "國際"
-      ],
-      "text": "【諾誠健華：坦昔妥單抗聯合療法治療初治DLBCL的Ⅲ期研究顯示無進展生存期顯著延長】諾誠健華6月18日宣佈，在2026歐洲血液學協會（EHA）年會最高階別的全體大會上，坦昔妥單抗聯合療法全球III期frontMIND研究結果以口頭報告形式釋出。結果顯示，相較於現有一線標準療法R-CHOP方案，坦昔妥單抗聯合來那度胺和R-CHOP方案（Tafa-Len-R-CHOP）的研究結果展示無進展生存期（PFS）大幅改善，具有顯著統計學意義和臨床價值，有望為高危瀰漫大B細胞淋巴瘤（DLBCL）和高階別B細胞淋巴瘤（HGBL）患者提供全新的一線標準治療方案。"
-    },
-    {
-      "id": "4942105",
-      "time": "2026-06-18 08:40:47",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "5年期日本國債收益率上漲0.5個基點，至1.865%。"
-    },
-    {
-      "id": "4942104",
-      "time": "2026-06-18 08:39:52",
-      "tags": [
-        "其他"
-      ],
-      "text": "【納芯微推出面向RS485通訊隔離的三通道數字隔離器SP301H/L系列】6月18日，納芯微宣佈推出基於其自研的第三代電容隔離技術的三通道數字隔離器——SP301H/L系列。作為面向RS485通訊隔離應用打造的新一代產品，SP301H/L在傳輸速率、功耗表現、抗干擾能力及封裝尺寸等方面實現升級。"
-    },
-    {
-      "id": "mkt:019ed82b-86cd-7dd8-b067-1289afd81f4d",
-      "time": "2026-06-18 08:39:51",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "DXY",
-        "Impact bullish",
-        "US10Y",
-        "S&P500",
-        "Impact bearish"
-      ],
-      "text": "【Huatai Securities: Fed to hold rates through September; December hike odds near 50%】Huatai Securities notes the Fed left the policy rate at 3.50–3.75% and the dot plot signals potential precautionary hikes in 2026. Fed remarks at the press conference on forward guidance and operating practices were broadly unchanged, and the Fed announced five working groups, including one on monetary policy communication, as part of its reform push. Huatai maintains that the Fed will keep rates unchanged before September, assigns roughly a 50% probability of a December hike, and sees the possibility of two cumulative hikes by the end of next year."
     }
   ]
 }
