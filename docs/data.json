@@ -1,7 +1,108 @@
 {
-  "updated": "2026-06-25 13:59:57",
-  "count": 17039,
+  "updated": "2026-06-25 14:04:05",
+  "count": 17023,
   "items": [
+    {
+      "id": "4954231",
+      "time": "2026-06-25 14:03:24",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "南向資金淨賣出額達10億港元。"
+    },
+    {
+      "id": "4954230",
+      "time": "2026-06-25 14:03:14",
+      "tags": [
+        "其他"
+      ],
+      "text": "H&M第二季度銷售額548.3億瑞典克朗，預期552.3億瑞典克朗。\n第二季度淨利潤39.9億瑞典克朗。\n第二季度稅前利潤52.8億瑞典克朗，預期58.3億瑞典克朗。\n第二季度營業利潤59.1億瑞典克朗，預期63.5億瑞典克朗。"
+    },
+    {
+      "id": "4954229",
+      "time": "2026-06-25 14:03:07",
+      "tags": [
+        "公司"
+      ],
+      "text": "英國石油公司（BP）與阿布扎比國家石油公司（ADNOC）及其他合作伙伴簽署特許權協議，開發阿布扎比的巴布氣頂專案。"
+    },
+    {
+      "id": "4954228",
+      "time": "2026-06-25 14:01:52",
+      "tags": [
+        "公司",
+        "其他"
+      ],
+      "text": "【1點點再發宣告：所有茶葉及原物料均來自正規供應商，絕非“三無”】1點點alittleTea官方微博6月25日釋出關於近日媒體報道門店食品安全問題的補充說明稱，1點點所有茶葉及所有原物料均採購自具備合法資質的正規供應商，每批次均有完整的供應商資質、檢驗報告和溯源資訊，絕非“三無產品”。報道中涉事門店出現的茶葉無標籤情況，經核查，系店員在將大包裝拆包分裝時未按規定張貼分裝標籤所致。這是門店執行環節的偏差，並不代表1點點使用了來源不明、資訊缺失的產品。"
+    },
+    {
+      "id": "te:markets:561760",
+      "time": "2026-06-25 14:00:59",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Euro Area",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "European Stocks Set for Positive Open — European equity markets were poised to open higher on Thursday, tracking gains across global markets after Micron Technology’s strong earnings report reinforced optimism surrounding the artificial intelligence sector. Investor sentiment was also supported by progress in US-Iran peace efforts, which helped push oil prices back to pre-conflict levels, easing inflation concerns and reducing pressure on central banks to raise interest rates. In Europe, market participants will focus on consumer confidence data from Germany and France, along with Spain’s final first-quarter GDP figures. Meanwhile, the corporate earnings calendar remains relatively quiet, with no major results scheduled for release. In premarket trading, Euro Stoxx 50 futures rose 0.3%, while Stoxx 600 futures gained 0.2%."
+    },
+    {
+      "id": "4954227",
+      "time": "2026-06-25 14:00:13",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "滬深兩市成交額超3萬億元，較上日此時放量2845億元。"
+    },
+    {
+      "id": "4954226",
+      "time": "2026-06-25 14:00:07",
+      "tags": [
+        "資料"
+      ],
+      "text": "德國7月Gfk消費者信心指數 -29.2，預期-27.6，前值由-29.8修正為-29.7。"
+    },
+    {
+      "id": "mkt:019efd5d-42d2-7dd8-b10e-81f865b37c5b",
+      "time": "2026-06-25 14:00:07",
+      "tags": [
+        "MKT News",
+        "Important",
+        "EURUSD",
+        "Impact bearish",
+        "DAX"
+      ],
+      "text": "Germany July GfK consumer confidence -29.2; consensus -27.6; prior revised to -29.7 from -29.8."
+    },
+    {
+      "id": "mkt:019efd5d-247e-7dd8-b10e-7f8b93c85942",
+      "time": "2026-06-25 14:00:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Germany | Gfk Consumer Confidence Survey (Jul) | actual -29.2 | consensus -27.6 | previous -29.8"
+    },
+    {
+      "id": "4954225",
+      "time": "2026-06-25 13:59:55",
+      "tags": [
+        "國際"
+      ],
+      "text": "NAVER雲：將斥資2460億韓元從韓國政府購買GPU許可證。"
+    },
+    {
+      "id": "4954224",
+      "time": "2026-06-25 13:59:43",
+      "tags": [
+        "其他"
+      ],
+      "text": "攜程港股跌幅擴大至11%，報315.20港元。"
+    },
     {
       "id": "mkt:019efd5c-9b96-7dd8-b10e-771c85190cf7",
       "time": "2026-06-25 13:59:24",
@@ -155391,275 +155492,6 @@
         "國際"
       ],
       "text": "【菜鳥：未來4個月將在全球交付4座大型攀爬機器人倉庫】菜鳥副總裁、物流科技事業部總經理畢江華今日表示，菜鳥自研生產的攀爬機器人經過618大促檢驗，顯著提升了電商供應鏈的智慧作業能力，下一步菜鳥將加快面向全球市場投入攀爬機器人。未來四個月內，菜鳥將聯合電商平臺、知名品牌等在國內和歐洲新交付四座大型攀爬機器人倉庫。"
-    },
-    {
-      "id": "4942559",
-      "time": "2026-06-18 14:03:32",
-      "tags": [
-        "市場"
-      ],
-      "text": "WTI原油日內跌3%，現報73.72美元/桶。"
-    },
-    {
-      "id": "mkt:019ed953-bb00-7dd8-b06e-1038f1d42750",
-      "time": "2026-06-18 14:03:23",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK"
-      ],
-      "text": "Switzerland May seasonally adjusted real imports MoM +0.2%; April +4.1%."
-    },
-    {
-      "id": "mkt:019ed953-af4d-7dd8-b06e-0f4b79d9c508",
-      "time": "2026-06-18 14:03:20",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【China achieves breakthrough in smart-product quality and safety risk database】The State Administration for Market Regulation said it mobilized leading domestic research teams to tackle complex smart-product safety risks and the sector’s absence of a comprehensive safety database, achieving a key technical breakthrough in building a smart-product quality and safety risk database."
-    },
-    {
-      "id": "mkt:019ed953-9fbd-7dd8-b06e-0010503a44a8",
-      "time": "2026-06-18 14:03:16",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "Switzerland | Real Imports SA (MoM) (May) | actual 0.2% | previous 4.10%"
-    },
-    {
-      "id": "mkt:019ed953-9e8b-7dd8-b06d-f9ee7ee5a3c7",
-      "time": "2026-06-18 14:03:16",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Switzerland May seasonally adjusted real exports +5.0% m/m, prior +3.0%."
-    },
-    {
-      "id": "mkt:019ed953-893b-7dd8-b06d-f5d0a76fab3f",
-      "time": "2026-06-18 14:03:10",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "Switzerland | Real Exports SA (MoM) (May) | actual 5% | previous 3.00%"
-    },
-    {
-      "id": "em:jjsj_ygsj:202606183776031318",
-      "time": "2026-06-18 14:02:04",
-      "tags": [
-        "經濟數據",
-        "英國"
-      ],
-      "text": "英國5月失業率為4.46%，前值4.40%。"
-    },
-    {
-      "id": "mkt:019ed951-cf23-7dd8-b06d-ef6fdcecfb93",
-      "time": "2026-06-18 14:01:17",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "【China's Ministry of Water Resources launches Level-IV flood-defense emergency response】At 12:00 on June 18 China's Ministry of Water Resources activated a Level‑IV flood‑defense emergency response for Anhui, Jiangxi, Hubei, Hunan and Guizhou. Local water departments and basin management agencies were ordered to closely monitor weather, strengthen rainfall and river monitoring, forecasting and joint assessment, maintain emergency duty, and carry out reservoir operations, small‑/medium‑river flood defenses and mountain‑flash‑flood prevention. The ministry issued targeted \"one‑province‑one‑list\" warnings detailing affected counties, reservoirs and mountain‑flood risk points, and dispatched three working teams to Guizhou, Hubei and Hunan to assist frontline flood-control efforts."
-    },
-    {
-      "id": "4942558",
-      "time": "2026-06-18 14:01:07",
-      "tags": [
-        "市場"
-      ],
-      "text": "英國資料公佈後，英鎊兌美元維持漲勢，上漲0.1%至1.3307。"
-    },
-    {
-      "id": "mkt:019ed951-740a-7dd8-b06d-e569111d8014",
-      "time": "2026-06-18 14:00:54",
-      "tags": [
-        "MKT News",
-        "Important",
-        "GBPUSD",
-        "Impact bearish"
-      ],
-      "text": "UK unemployment rate 4.46% in May, prior 4.40%."
-    },
-    {
-      "id": "mkt:019ed951-5c3c-7dd8-b06d-de515f413cd8",
-      "time": "2026-06-18 14:00:48",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "United Kingdom | Unemployment Rate (May) | actual 4.46% | previous 4.40%"
-    },
-    {
-      "id": "mkt:019ed951-553b-7dd8-b06d-d7d409b0d8c9",
-      "time": "2026-06-18 14:00:46",
-      "tags": [
-        "MKT News",
-        "Important",
-        "DXY",
-        "Impact bearish"
-      ],
-      "text": "Switzerland May trade balance CHF 5.638 bln; prior CHF 3.098 bln."
-    },
-    {
-      "id": "mkt:019ed951-39ea-7dd8-b06d-cce8c696c678",
-      "time": "2026-06-18 14:00:39",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "Switzerland | Trade Balance (May) | actual 5638000000B | previous 3098000000B"
-    },
-    {
-      "id": "em:jjsj_ygsj:202606183776031750",
-      "time": "2026-06-18 14:00:24",
-      "tags": [
-        "經濟數據",
-        "英國"
-      ],
-      "text": "英國5月失業金申請人數為3.12萬人，前值由2.65萬人修正為0.83萬人。"
-    },
-    {
-      "id": "4942557",
-      "time": "2026-06-18 14:00:19",
-      "tags": [
-        "資料"
-      ],
-      "text": "英國4月三個月剔除紅利的平均工資年率 3.4%，預期3.2%，前值3.40%。英國4月三個月包括紅利的平均工資年率 4.4%，預期4%，前值由4.10%修正為4.4%。"
-    },
-    {
-      "id": "mkt:019ed950-def5-7dd8-b06d-c22ca7fc3e73",
-      "time": "2026-06-18 14:00:16",
-      "tags": [
-        "MKT News",
-        "GBPUSD",
-        "Impact bullish",
-        "DXY",
-        "Impact bearish",
-        "FTSE100"
-      ],
-      "text": "UK three-month ILO employment (to April) rose 100,000, versus consensus 75,000; prior +148,000."
-    },
-    {
-      "id": "mkt:019ed950-d63a-7dd8-b06d-b9ce52a3d44c",
-      "time": "2026-06-18 14:00:13",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK",
-        "GBPUSD",
-        "Impact bullish"
-      ],
-      "text": "UK average weekly earnings ex-bonus, 3-month YoY (Apr) 3.4% vs 3.2% expected; prior 3.4%."
-    },
-    {
-      "id": "mkt:019ed950-d1bd-7dd8-b06d-b18aead64b4a",
-      "time": "2026-06-18 14:00:12",
-      "tags": [
-        "MKT News",
-        "Important",
-        "GBPUSD",
-        "Impact mixed"
-      ],
-      "text": "UK May initial jobless benefit claims 31,200, prior revised from 26,500 to 8,300."
-    },
-    {
-      "id": "mkt:019ed950-d0c2-7dd8-b06d-ae5a55673e02",
-      "time": "2026-06-18 14:00:12",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK",
-        "GBPUSD",
-        "Impact bullish",
-        "DXY",
-        "Impact bearish"
-      ],
-      "text": "UK average weekly earnings including bonuses, three months to April: +4.4% YoY vs 4.0% expected; prior 4.10% revised to 4.4%."
-    },
-    {
-      "id": "4942556",
-      "time": "2026-06-18 14:00:11",
-      "tags": [
-        "其他"
-      ],
-      "text": "英國5月失業金申請人數 3.12萬人，前值由2.65萬人修正為0.83萬人。"
-    },
-    {
-      "id": "mkt:019ed950-cffc-7dd8-b06d-a32cfecedb65",
-      "time": "2026-06-18 14:00:09",
-      "tags": [
-        "MKT News",
-        "Important",
-        "GBPUSD",
-        "Impact bullish",
-        "DXY",
-        "Impact bearish"
-      ],
-      "text": "UK three-month ILO unemployment rate (April) 4.9% vs 5.0% expected, 5.0% prior."
-    },
-    {
-      "id": "4942555",
-      "time": "2026-06-18 14:00:08",
-      "tags": [
-        "其他"
-      ],
-      "text": "英國4月三個月ILO失業率 4.9%，預期5%，前值5.00%。"
-    },
-    {
-      "id": "mkt:019ed950-ac8b-7dd8-b06d-9eff24f9fc84",
-      "time": "2026-06-18 14:00:03",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "United Kingdom | ILO Unemployment Rate 3M (Apr) | actual 100000K | consensus 75000K | previous 148000K"
-    },
-    {
-      "id": "mkt:019ed950-aa95-7dd8-b06d-93bd43344cb5",
-      "time": "2026-06-18 14:00:02",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "United Kingdom | Average Earnings Excluding Bonus in 3 Months (YoY) (Apr) | actual 3.4% | consensus 3.2% | previous 3.40%"
-    },
-    {
-      "id": "mkt:019ed950-a90d-7dd8-b06d-8effdc0d499d",
-      "time": "2026-06-18 14:00:02",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "United Kingdom | Average Earnings Including Bonus in 3 Months (YoY) (Apr) | actual 4.4% | consensus 4% | previous 4.10%"
-    },
-    {
-      "id": "mkt:019ed950-a767-7dd8-b06d-8740c960b4bc",
-      "time": "2026-06-18 14:00:02",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "United Kingdom | ILO Unemployment Rate 3M/3M (Apr) | actual 4.9% | consensus 5% | previous 5.00%"
-    },
-    {
-      "id": "mkt:019ed950-a348-7dd8-b06d-7c9783c613cd",
-      "time": "2026-06-18 14:00:00",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "United Kingdom | Jobless Claims Count (May) | actual 31200K | previous 26500K"
     }
   ]
 }
