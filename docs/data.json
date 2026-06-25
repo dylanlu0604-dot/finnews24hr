@@ -1,7 +1,116 @@
 {
-  "updated": "2026-06-25 10:31:48",
-  "count": 17035,
+  "updated": "2026-06-25 10:35:48",
+  "count": 17041,
   "items": [
+    {
+      "id": "te:markets:561704",
+      "time": "2026-06-25 10:34:58",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "European Gas Prices Near 2-Month Lows — European natural gas prices hovered around €40.8 per MWh, remaining near a two-month low, as shipping activity through the Strait of Hormuz showed signs of normalization following progress in US-Iran peace talks. Three stranded crude oil supertankers successfully transited the waterway earlier this week, while several empty Qatari LNG carriers have entered the Gulf in recent weeks to reload, signaling a potential recovery in gas shipments. Additionally, Qatar's Prime Minister indicated that LNG production is expected to return to normal within a few weeks, apart from the damaged facility. The prospect of resumed LNG flows from the Gulf eased fears of a supply crunch and could help Europe replenish inventories ahead of next winter. These developments offset support from strong power-sector demand amid hot weather and low wind speeds across Europe."
+    },
+    {
+      "id": "4953974",
+      "time": "2026-06-25 10:34:50",
+      "tags": [
+        "公司"
+      ],
+      "text": "【星熠智慧完成千萬級天使輪融資】6月25日，AI人力供應鏈公司星熠智慧宣佈完成千萬級天使輪融資。本輪融資由浦東創投領投，L2F光源創業者基金跟投，光源資本擔任孵化方及獨家財務顧問。本輪融資將主要用於核心業務“極速到崗”的市場拓展、自研KYMS AI勝任力引擎的持續迭代，以及團隊的擴張。"
+    },
+    {
+      "id": "mkt:019efca0-e968-7dd8-b10a-b727e1704318",
+      "time": "2026-06-25 10:34:24",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Industrial Metals",
+        "Copper"
+      ],
+      "text": "China A-share PET copper-foil sector rose in choppy trade. Oulai New Materials, Zhongtian Technology and Hongtian Co. hit intraday highs. Wanshun New Materials jumped more than 15%, Jingwei Huikai gained over 10%; Tongfeng Electronics, Sanfu Xinke and Ashichuang also advanced."
+    },
+    {
+      "id": "mkt:019efca0-e217-7dd8-b10a-a927a177896b",
+      "time": "2026-06-25 10:34:22",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "El Salvador's president said the country, through its foreign ministry, has prepared aid for Venezuela: 300 rescue and medical personnel and 50 tonnes of equipment, medicine and essential supplies ready to deploy to Caracas."
+    },
+    {
+      "id": "4953973",
+      "time": "2026-06-25 10:34:21",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "南向資金淨買入額達20億港元。"
+    },
+    {
+      "id": "4953972",
+      "time": "2026-06-25 10:33:47",
+      "tags": [
+        "公司"
+      ],
+      "text": "【三六零與中國惠普達成戰略合作 推動AI安全與終端生態融合】6月24日，ISC.AI 2026大會現場，三六零與中國惠普有限公司正式簽署生態戰略合作協議。雙方將發揮各自在人工智慧、數字安全、硬體生態領域的優勢，圍繞AI產品能力協同、大模型安全、數字安全、生態共建等方向開展合作，探索人工智慧與安全能力在終端及各類數字化場景下的融合應用。"
+    },
+    {
+      "id": "4953971",
+      "time": "2026-06-25 10:33:15",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【PET銅箔板塊震盪上揚，歐萊新材等股創新高】PET銅箔板塊震盪上揚，歐萊新材、中天科技、洪田股份盤中創新高，萬順新材漲超15%，經緯輝開漲超10%，銅峰電子、三孚新科、江南新材、德福科技、阿石創跟漲。"
+    },
+    {
+      "id": "4953970",
+      "time": "2026-06-25 10:33:06",
+      "tags": [
+        "其他"
+      ],
+      "text": "【康寧釋出玻璃光互連技術】康寧推出了下一代玻璃光互連元件Glass Bridge，直接連線光子積體電路（PIC）與光纖。該技術主要面向CPO及玻璃基板半導體封裝市場，為下一代AI資料中心架構提供連線。"
+    },
+    {
+      "id": "mkt:019efc9f-4d00-7dd8-b10a-a5918065e148",
+      "time": "2026-06-25 10:32:38",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish",
+        "EURUSD",
+        "Impact bearish"
+      ],
+      "text": "【Analyst: Australian jobs rebound structurally weak; RBA likely to hold in August】Analyst Eamonn Sheridan says Australia’s May labour market outperformed expectations overall, but a large downward revision to April and a rising share of part-time employment alongside falling hours point to structural weakness. Unemployment at 4.4% eases immediate upside pressure on the Reserve Bank of Australia. The shift toward part-time work and lower hours gives the RBA scope to delay tightening. Robust household spending and core inflation remaining above target leave room for Westpac’s call for an August hike, but market consensus still favours the RBA standing pat. June inflation will be the key data ahead of the August meeting."
+    },
+    {
+      "id": "4953969",
+      "time": "2026-06-25 10:32:20",
+      "tags": [
+        "市場"
+      ],
+      "text": "截至早盤收盤，日經225指數漲3.9%，東證指數漲1.3%。"
+    },
+    {
+      "id": "4953968",
+      "time": "2026-06-25 10:32:10",
+      "tags": [
+        "其他"
+      ],
+      "text": "東京電子：地震未對工廠造成損害。"
+    },
+    {
+      "id": "4953967",
+      "time": "2026-06-25 10:31:52",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【港股航空股多數走強 中國東方航空股份漲超6%】截至發稿，中國東方航空股份(00670.HK)漲6.33%，中國國航(00753.HK)漲4.39%，中國南方航空股份(01055.HK)漲3.75%。"
+    },
     {
       "id": "te:markets:561703",
       "time": "2026-06-25 10:30:48",
@@ -13,6 +122,14 @@
         "Importance 1"
       ],
       "text": "Australian Dollar Approaches 3- Month Low — The Australian dollar fell further below $0.690, approaching a three-month low as broad US dollar strength outweighed a rebound in domestic employment data. Australia's economy added 40,300 jobs in May, rebounding from a revised decline of 40,600 in April and exceeding market forecasts for a 30,000 increase, while the unemployment rate edged down to 4.4% from 4.5%, as expected. The latest labor market report comes on top of Wednesday's mixed consumer inflation figures, which have left markets divided on another interest rate hike, priced in at 50% likely by year’s end rather than at the August meeting. RBA Deputy Governor Andrew Hauser said on Wednesday that the central bank still has more work to do to bring inflation back to its 2-3% target, indicating that further policy tightening may be needed as underlying price pressures remain elevated. Meanwhile, the US dollar remained broadly stronger as investors continued to price in Federal Reserve interest rate hikes later this year."
+    },
+    {
+      "id": "4953966",
+      "time": "2026-06-25 10:30:20",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美機構預估委內瑞拉地震遇難人數過萬】路透社報道，美國地質調查局初步預估委內瑞拉地震遇難人數很可能在1萬至10萬。（新華社）"
     },
     {
       "id": "4953965",
@@ -155583,73 +155700,6 @@
         "焦點"
       ],
       "text": "【國家發改委：第三批625億元國補6月底前下達】6月18日，國家發展改革委政策研究室副主任、新聞發言人李超在新聞釋出會上表示，6月底前將下達今年全部2000億元裝置更新專案清單和第三批625億元消費品以舊換新資金。"
-    },
-    {
-      "id": "4942294",
-      "time": "2026-06-18 10:35:14",
-      "tags": [
-        "市場"
-      ],
-      "text": "截至早盤收盤，日經225指數漲1.6%，東證指數漲1.4%。"
-    },
-    {
-      "id": "4942293",
-      "time": "2026-06-18 10:34:53",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "【國家發改委：將會同有關部門印發實施現代物流領域“十五五”專項規劃】國家發展改革委政策研究室副主任、新聞發言人李超在新聞釋出會上表示，下一步，國家發展改革委將會同有關部門，印發實施現代物流領域“十五五”專項規劃，統籌發揮各類資金渠道作用，支援物流設施存量提質與增量建設，推進物流基礎設施系統成網，增強物流設施對產業發展的適配性和支撐力，織密城鄉末端物流設施網路，加快發展數智化綠色化物流設施裝置，推動物流網補短板、暢聯通、提能級，實現從“有”到“好”、從“通”到“暢”的系統轉變。目標是到2030年，基本建成樞紐與產業和消費緊密協同、通道與網路內外聯通、設施與裝備綠色智慧、規則與資訊全域互通的物流網，更好服務實體經濟高質量發展。"
-    },
-    {
-      "id": "mkt:019ed894-2408-7dd8-b069-b6a0c58d0bf1",
-      "time": "2026-06-18 10:34:07",
-      "tags": [
-        "MKT News",
-        "Important",
-        "688256.SS",
-        "Impact bullish"
-      ],
-      "text": "A-share STAR 50 Index rose over 3%; Cambricon jumped nearly 13%. Other top gainers included Shengke Communication, Xinyuan, Muxi and Huahong Hongli."
-    },
-    {
-      "id": "te:markets:559891",
-      "time": "2026-06-18 10:33:52",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Heating Oil Falls to 3-Month Low — US heating oil prices fell toward $3.10 per gallon in June, reaching their lowest level since early March and shedding almost all of the gains during the Iran conflict, on expectations of a gradual normalization of energy exports from the Middle East. The US and Iran reportedly signed an interim agreement remotely, with Pakistan’s prime minister said the deal would lead to an immediate reopening of the Strait of Hormuz and an end to the US naval blockade on Iranian ports. He added that the agreement commits both sides to permanently halt hostilities and opens a 60-day window to negotiate a final settlement on Iran’s nuclear program. However, President Trump warned that military action could resume if Tehran does not adhere to the terms of the 14-point memorandum of understanding. Following this, the IEA flagged a potential supply glut next year. Meanwhile, government data showed that distillate stockpiles, which include diesel and heating oil, rose by 0.951 million barrels in mid-June."
-    },
-    {
-      "id": "4942292",
-      "time": "2026-06-18 10:33:10",
-      "tags": [
-        "其他"
-      ],
-      "text": "【貴州省人民檢察院檢察委員會專職委員石瑛接受審查調查】中央紀委國家監委網站6月18日通報，據貴州省紀委監委訊息：貴州省人民檢察院檢察委員會專職委員石瑛涉嫌嚴重違紀違法，目前正接受貴州省紀委監委紀律審查和監察調查。"
-    },
-    {
-      "id": "te:markets:559890",
-      "time": "2026-06-18 10:33:01",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Japan",
-        "Currency",
-        "Importance 1"
-      ],
-      "text": "Yen Weakness Stokes Intervention Fears — The Japanese yen weakened to around 160.6 per dollar on Thursday, falling to its lowest level since July 2024 and heightening speculation that authorities could once again intervene to support the currency. The yen has now erased all of the gains recorded on April 30, when Tokyo carried out a record-setting intervention to stabilize the exchange rate. The latest decline came despite the Bank of Japan’s gradual policy tightening, including a 25-basis-point rate increase to 1% earlier this week aimed at countering an energy-driven inflation shock linked to the Middle East conflict. The currency remained under pressure as the dollar strengthened after the US Federal Reserve kept interest rates unchanged while signaling growing support for rate hikes later this year. Meanwhile, President Donald Trump signed an interim agreement to end the war with Iran and reopen the Strait of Hormuz, easing concerns over Japan’s economy, which depends heavily on energy imports from the Middle East."
-    },
-    {
-      "id": "4942291",
-      "time": "2026-06-18 10:32:36",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "科創50日內漲幅達3％，成分股中，寒武紀漲12％，盛科通訊漲7％，芯原股份漲7％，海光資訊漲6％。"
     }
   ]
 }
