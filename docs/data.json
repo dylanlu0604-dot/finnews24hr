@@ -1,7 +1,51 @@
 {
-  "updated": "2026-06-25 11:53:34",
+  "updated": "2026-06-25 11:57:30",
   "count": 17065,
   "items": [
+    {
+      "id": "te:economy:561729",
+      "time": "2026-06-25 11:56:20",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Japan",
+        "Government Bond 10Y",
+        "Importance 1"
+      ],
+      "text": "Japan 10-Year Yield Falls as Oil Prices Decline — Japan’s 10-year government bond yield fell roughly 5 basis points to 2.62% on Thursday, reaching its lowest level in a week as progress in US-Iran peace negotiations drove oil prices back to pre-conflict levels and eased inflation concerns. As a major importer of Middle Eastern oil, Japan remains particularly sensitive to geopolitical developments in the region. On the domestic front, Bank of Japan board member Naoki Tamura said the central bank should continue raising interest rates every few months, arguing that the policy rate should gradually approach a neutral level of around 2%. He added that inflationary pressures are likely to intensify regardless of Middle East developments, as higher import costs are expected to be passed on to consumers more rapidly and broadly than after Russia’s 2022 invasion of Ukraine, reflecting changes in corporate pricing behavior."
+    },
+    {
+      "id": "4954085",
+      "time": "2026-06-25 11:56:14",
+      "tags": [
+        "觀點"
+      ],
+      "text": "【國信證券6月醫藥行業投資策略：創新藥及產業鏈基本面向好】國信證券釋出研報稱，中國創新藥不僅連續在國際重要學術會議上讀出優秀的臨床資料，在海外的臨床開發同樣取得進展，即將進入在全球的商業化階段。中國CXO企業在人才紅利、化學能力、合規產能、智慧財產權保護方面具有綜合優勢。該行認為，中國企業在化學CDMO領域的核心行業地位5年內具備較強的不可替代性。此外，該行關注估值合理、邏輯改善的藥房板塊。"
+    },
+    {
+      "id": "4954084",
+      "time": "2026-06-25 11:55:04",
+      "tags": [
+        "公司"
+      ],
+      "text": "【英力股份：公司暫未取得戴爾AIPC結構件訂單】英力股份6月25日在互動平臺表示，公司暫未取得戴爾AIPC結構件訂單；惠普的AIPC結構件，公司已開展樣品送樣認證工作，訂單尚未落地。"
+    },
+    {
+      "id": "4954083",
+      "time": "2026-06-25 11:54:34",
+      "tags": [
+        "公司"
+      ],
+      "text": "【北緯科技：物聯網業務目前無AI玩具相關合作】北緯科技6月25日在互動平臺表示，公司物聯網業務目前無AI玩具相關合作。"
+    },
+    {
+      "id": "4954081",
+      "time": "2026-06-25 11:53:47",
+      "tags": [
+        "市場"
+      ],
+      "text": "【6月25日午間漲停分析】創業板指半日漲超2%、科創50漲超4%，儲存晶片、半導體概念持續爆發，全市下跌個股4300只。興業科技5連板，宏柏新材3連板，一圖看懂>>"
+    },
     {
       "id": "4954080",
       "time": "2026-06-25 11:52:46",
@@ -155871,56 +155915,6 @@
         "公司"
       ],
       "text": "【流形空間Pre-A輪累計完成近10億融資】世界模型公司ManifoldAI流形空間已於近日完成新一輪數億元融資。本輪投資方包括中國國新旗下國新基金，淡馬錫旗下毅峰資本，產業資本北汽產投、芯能創投等新股東，此外四家老股東也超額追加投資。至此，成立僅一年的流形空間已完成6輪融資，Pre-A輪累計近10億元，躋身世界模型獨角獸行列，歷史投資方包括君聯資本等頭部創投機構、華為哈勃等產業方。"
-    },
-    {
-      "id": "mkt:019ed8df-e2e3-7dd8-b06b-1d4ff85dc56f",
-      "time": "2026-06-18 11:56:51",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Industrial Metals",
-        "Copper",
-        "Impact bullish",
-        "RIO.O",
-        "Impact bearish"
-      ],
-      "text": "RIO's Oyu Tolgoi copper concentrate shipments were halted on Wednesday due to road blockades."
-    },
-    {
-      "id": "mkt:019ed8df-c025-7dd8-b06b-1626f0d6e493",
-      "time": "2026-06-18 11:56:42",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "【Interbank market data reporting repository opens in Shanghai】June 16 — Interbank Market Data Reporting Repository (Shanghai) Co. Ltd opened in Shanghai. PBOC deputy governor Zou Lan and Shanghai executive vice mayor Wu Wei attended. Zou said the repository will enable timelier, more accurate monitoring of overall market conditions, better support macroprudential management and macro policy, and marks a key step for risk prevention, strengthened supervision and higher‑quality development of the interbank market. Officials urged the repository to deliver high‑standard, high‑quality financial data to assist macroprudential oversight and financial market supervision and to support further development of Shanghai as an international financial centre."
-    },
-    {
-      "id": "4942391",
-      "time": "2026-06-18 11:56:40",
-      "tags": [
-        "宏觀",
-        "公司",
-        "市場"
-      ],
-      "text": "【銀行間市場資料包告庫在上海正式開業】6月16日，銀行間市場資料包告庫（上海）股份有限公司在上海正式開業。中國人民銀行黨委委員、副行長鄒瀾，上海市委常委、常務副市長吳偉出席開業儀式並致辭。鄒瀾表示，設立資料包告庫有利於及時準確掌握市場整體執行狀況，更好服務宏觀審慎管理和宏觀調控，是銀行間市場防風險、強監管、促高質量發展的重要里程碑。希望資料包告庫真抓實幹、務求實效，以高標準、高質量的金融資料服務，更好助力宏觀審慎管理和金融市場監管，為持續深化上海國際金融中心建設發揮更大作用。（中國人民銀行）"
-    },
-    {
-      "id": "4942390",
-      "time": "2026-06-18 11:56:34",
-      "tags": [
-        "國際"
-      ],
-      "text": "【特朗普：感謝中俄，“感謝他們保持中立”】繼日前公開感謝中俄“朋友”為美伊達成協議提供幫助後，當地時間6月17日，美國總統特朗普在七國集團峰會（G7）新聞釋出會上，再次點名感謝中國和俄羅斯在伊朗戰爭期間保持了“完全中立”，“讓情況好轉了很多”。 “我只想感謝他們，因為他們讓情況好轉了很多。”在美伊停火協議達成後，特朗普這樣說道。 特朗普表示，他感謝中俄沒有捲入衝突，中方“保持了中立，完全中立，我對此表達感謝”，他還提到感謝俄羅斯，也同樣非常中立，“他們本可以讓我們的處境困難得多”。（觀察者網）"
-    },
-    {
-      "id": "4942389",
-      "time": "2026-06-18 11:54:13",
-      "tags": [
-        "公司"
-      ],
-      "text": "【鈞崴電子：電流感測器產品目前處於客戶匯入驗證階段 未披露過向英偉達供貨】6月18日，鈞崴電子在互動平臺回覆投資者提問稱，公司電流感測精密電阻目前產能利用率處於較高水平。關於電流感測器產品，目前處於客戶匯入驗證階段，未披露過向英偉達供貨，具體合作進展請以公司公告為準。"
     }
   ]
 }
