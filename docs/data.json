@@ -1,7 +1,27 @@
 {
-  "updated": "2026-06-26 04:54:00",
-  "count": 16989,
+  "updated": "2026-06-26 04:58:02",
+  "count": 16986,
   "items": [
+    {
+      "id": "te:markets:561998",
+      "time": "2026-06-26 04:56:49",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Canada",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "TSX Edges Higher on Banks and Miners Gains — The S&P/TSX Composite Index rose 0.3% to close at 34,850 on Thursday, supported by gains in the financial and mining sectors. Although oil prices edged higher after a cargo ship was struck by an unidentified projectile off the Omani coast, they remained near pre-conflict lows, easing inflation concerns and supporting financial stocks and the broader index. TD Bank rose 0.9%, RBC gained 0.4%, and BMO added 0.9%. Gold prices also edged higher, supporting mining shares, with Agnico Eagle rising 1.7%. Meanwhile, a renewed wave of volatility in technology stocks on Wall Street weighed on Canadian tech shares. Shopify fell 2.6%, Constellation Software lost 3.6%, and Celestica shed 0.7%. Investors also assessed the latest minutes from the Bank of Canada, which showed policymakers agreed to keep monetary policy flexible in response to potential new US trade restrictions and changes in energy prices."
+    },
+    {
+      "id": "4955876",
+      "time": "2026-06-26 04:53:30",
+      "tags": [
+        "國際"
+      ],
+      "text": "白宮副幕僚長米勒：美國預計將驅逐所有喪失臨時保護身份（TPS）的人員。"
+    },
     {
       "id": "mkt:019f008e-cf3e-7dd8-b126-6e7208a510da",
       "time": "2026-06-26 04:53:06",
@@ -155448,51 +155468,6 @@
         "國際"
       ],
       "text": "特朗普：油價暴跌。"
-    },
-    {
-      "id": "4944309",
-      "time": "2026-06-19 04:57:35",
-      "tags": [
-        "市場"
-      ],
-      "text": "週四（6月18日）紐約尾盤，現貨黃金跌1.10%，報4210.35美元/盎司，亞太早盤上漲、北京時間10:13重新整理日高至4329.87美元，14:00以來持續走低。COMEX黃金期貨跌3.41%，報4232.00美元/盎司。現貨白銀跌3.27%，報65.7071美元/盎司。COMEX白銀期貨跌3.09%，報66.385美元/盎司。COMEX銅期貨跌1.76%，報6.4425美元/磅。現貨鉑金跌2.40%，現貨鈀金跌2.79%。"
-    },
-    {
-      "id": "4944308",
-      "time": "2026-06-19 04:57:26",
-      "tags": [
-        "國際"
-      ],
-      "text": "歐洲理事會主席發言人表示，歐盟各國領導人決定將針對俄羅斯的行業制裁延長 12 個月。"
-    },
-    {
-      "id": "4944307",
-      "time": "2026-06-19 04:56:02",
-      "tags": [
-        "觀點"
-      ],
-      "text": "花旗：基準情景預測，伊美諒解備忘錄將推動資金流動持續迴歸常態，未來 6 至 12 個月油價呈下行趨勢，到 2027 年一季度跌至每桶 60 至 65 美元。"
-    },
-    {
-      "id": "mkt:019edc84-d45d-7dd8-b088-6061eb47d401",
-      "time": "2026-06-19 04:55:53",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "Citigroup's base case expects that, under an Iran–US memorandum of understanding, financial flows will continue to normalize and oil prices will trend lower over the next 6–12 months, reaching $60–65/bbl before Q1 2027."
-    },
-    {
-      "id": "4944306",
-      "time": "2026-06-19 04:54:24",
-      "tags": [
-        "公司"
-      ],
-      "text": "【標普授予SpaceX“BBB”信用評級】標普全球評級授予太空探索技術公司（SpaceX）“BBB”發行人信用評級，展望穩定，理由是其發射和互聯業務表現穩健，但被巨大的資本需求以及人工智慧業務的不確定性所沖銷。標普預計SpaceX到2029年將把調整後槓桿率維持在2.0倍以下。標普表示：“我們預計槓桿率將在2028年達峰，標普全球評級調整後的槓桿率將達到1.2倍，但此後隨著公司擴大互聯業務的收入和盈利能力並開始將人工智慧業務變現，槓桿率將逐年改善”。"
     }
   ]
 }
