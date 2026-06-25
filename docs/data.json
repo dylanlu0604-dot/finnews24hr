@@ -1,7 +1,154 @@
 {
-  "updated": "2026-06-25 13:35:17",
-  "count": 17044,
+  "updated": "2026-06-25 13:39:58",
+  "count": 17046,
   "items": [
+    {
+      "id": "mkt:019efd49-adf0-7dd8-b10d-fd2dc53b9a8e",
+      "time": "2026-06-25 13:38:44",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【M6.9 earthquake off eastern Honshu injures six; no tsunami risk, Japan Meteorological Agency warns of further quakes】A magnitude-6.9 earthquake struck offshore eastern Honshu at 06:30 Beijing time on June 25, hypocenter depth 50 km. Strong shaking was reported across parts of the Tohoku region. At least six people were injured. No tsunami risk was detected. The Japan Meteorological Agency said at a morning briefing that similar-magnitude quakes could occur over the next week and did not rule out the possibility of stronger shaking, urging residents to remain vigilant."
+    },
+    {
+      "id": "4954202",
+      "time": "2026-06-25 13:37:50",
+      "tags": [
+        "公司"
+      ],
+      "text": "【交通銀行發行5億元自貿離岸債】記者獲悉，日前，交通銀行悉尼分行成功發行5億元3年期人民幣自貿離岸債，在中央結算公司登記託管，並將在盧森堡證券交易所上市。據瞭解，此次發行不僅是市場首單以可轉讓存款證（Transferable Certificate of Deposit，簡稱TCD）形式發行的中長期自貿離岸債，也是大洋洲地區主體發行的首筆公募自貿離岸債，標誌著上海自貿離岸債市場建設取得新的積極進展。"
+    },
+    {
+      "id": "4954201",
+      "time": "2026-06-25 13:37:36",
+      "tags": [
+        "公司"
+      ],
+      "text": "德國商業銀行：為提升收購要約相關透明度並回應義大利裕信銀行相互矛盾的宣告，德國商業銀行正就所投標股份的來源公佈更多細節。"
+    },
+    {
+      "id": "mkt:019efd48-5309-7dd8-b10d-f19ade4c2673",
+      "time": "2026-06-25 13:37:15",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Market sources say Indonesia is preparing to withdraw its free nutrition meal program and plans to cut the program's budget by at least 40 trillion rupiah (about $2 billion). Indonesia's Finance Ministry says it is awaiting a budget-adjustment proposal for the free nutrition meal program."
+    },
+    {
+      "id": "mkt:019efd48-529b-7dd8-b10d-edb0f4d3de41",
+      "time": "2026-06-25 13:37:15",
+      "tags": [
+        "MKT News",
+        "MU.O",
+        "Impact bullish"
+      ],
+      "text": "RBC raises Micron Technology (MU.O) price target to $1,500 from $1,200."
+    },
+    {
+      "id": "4954200",
+      "time": "2026-06-25 13:37:03",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "乙二醇連續主力合約日內跌5%，現報3998.00元。"
+    },
+    {
+      "id": "4954199",
+      "time": "2026-06-25 13:37:02",
+      "tags": [
+        "其他"
+      ],
+      "text": "加拿大皇家銀行將美光科技目標價從1200美元上調至1500美元。"
+    },
+    {
+      "id": "4954198",
+      "time": "2026-06-25 13:36:29",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "日本央行田村：目前無需快速加息。"
+    },
+    {
+      "id": "mkt:019efd46-f9ca-7dd8-b10d-e7a859b80f61",
+      "time": "2026-06-25 13:35:47",
+      "tags": [
+        "MKT News",
+        "USDJPY",
+        "Impact bearish",
+        "DXY"
+      ],
+      "text": "Tamura, a Bank of Japan policy board member, said that if inflation risks exceed expectations the BOJ may need more frequent or larger rate hikes, but he currently does not see a need."
+    },
+    {
+      "id": "4954197",
+      "time": "2026-06-25 13:35:40",
+      "tags": [
+        "國際"
+      ],
+      "text": "訊息人士稱，印尼可能將免費餐食受惠人數從6250萬削減至4900萬。"
+    },
+    {
+      "id": "4954196",
+      "time": "2026-06-25 13:35:31",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "印尼財政部表示正等待免費餐食計劃的預算最佳化方案。"
+    },
+    {
+      "id": "4954195",
+      "time": "2026-06-25 13:35:18",
+      "tags": [
+        "其他"
+      ],
+      "text": "臺灣證交所加權股價指數收高0.5%報46,255.26。"
+    },
+    {
+      "id": "mkt:019efd46-54de-7dd8-b10d-de21953f4a2f",
+      "time": "2026-06-25 13:35:05",
+      "tags": [
+        "MKT News",
+        "QCOM.O",
+        "Impact bullish"
+      ],
+      "text": "RBC raises Qualcomm (QCOM.O) PT to $250 from $175."
+    },
+    {
+      "id": "4954194",
+      "time": "2026-06-25 13:34:27",
+      "tags": [
+        "其他"
+      ],
+      "text": "RBC將高通目標價從175美元上調至250美元。"
+    },
+    {
+      "id": "4954193",
+      "time": "2026-06-25 13:34:11",
+      "tags": [
+        "其他"
+      ],
+      "text": "兆易創新成交額達300億元，現漲9.12%。"
+    },
+    {
+      "id": "4954192",
+      "time": "2026-06-25 13:34:01",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【美國ITC釋出對無線通訊裝置及其元件的337部分終裁】6月24日，美國國際貿易委員會（ITC）釋出公告稱，對特定無線通訊裝置及其元件作出337部分終裁：對本案行政法官於2026年5月15日作出的初裁（No.27）不予複審，即基於和解，終止對列名被告美國Coosea USA Technologies, Inc., San Diego, California的調查。"
+    },
+    {
+      "id": "4954191",
+      "time": "2026-06-25 13:33:38",
+      "tags": [
+        "市場"
+      ],
+      "text": "【儲存晶片板塊持續活躍，德明利漲停】儲存晶片板塊持續活躍，德明利漲停，北京君正此前“20cm”漲停，佰維儲存、江波龍、兆易創新、夏農芯創跟漲。"
+    },
     {
       "id": "mkt:019efd44-cbad-7dd8-b10d-d0f8a07c5674",
       "time": "2026-06-25 13:33:24",
@@ -155575,147 +155722,6 @@
         "Japan & APAC"
       ],
       "text": "South Korea's KOSPI extended gains, up 2% intraday."
-    },
-    {
-      "id": "4942524",
-      "time": "2026-06-18 13:39:55",
-      "tags": [
-        "其他"
-      ],
-      "text": "【崔崢嶺任長治市委常委、沁源縣委書記，郭立東任代理縣長】據沁源縣政府網站，6月18日，沁源縣召開全縣領導幹部大會，宣佈省委、市委關於沁源縣委主要負責同志任職的決定。經省委、市委研究決定：崔崢嶺同志任長治市委委員、常委，沁源縣委委員、常委、書記，郭立東同志任沁源縣委委員、常委、副書記。市委書記丁小強主持會議並講話，市委常委、組織部部長黃國珍宣佈省委、市委任職決定。崔崢嶺同志、郭立東同志作表態發言。同日，沁源縣第十七屆人民代表大會常務委員會決定任命：郭立東為沁源縣人民政府副縣長、代理縣長。"
-    },
-    {
-      "id": "4942523",
-      "time": "2026-06-18 13:39:21",
-      "tags": [
-        "公司"
-      ],
-      "text": "【雅本化學在蘇州成立醫藥公司】企查查APP顯示，近日，蘇州雅本醫藥有限公司成立，經營範圍包含：藥用輔料銷售；技術服務、技術開發、技術諮詢、技術交流、技術轉讓、技術推廣。企查查股權穿透顯示，該公司由雅本化學全資持股。"
-    },
-    {
-      "id": "mkt:019ed93d-86f9-7dd8-b06d-01b10a6d40bf",
-      "time": "2026-06-18 13:39:08",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "CSI300",
-        "Impact bearish",
-        "SSE Composite",
-        "Hang Seng Index"
-      ],
-      "text": "China A-share chemical-fiber sector plunged; Huafeng Chemical hit the daily limit-down, with Juheshun, Huafeng Superfiber, Dongfang Shenghong, Rongsheng Petrochemical, Xinxiang Chemical Fiber and Jiangnan High Fiber also trading lower."
-    },
-    {
-      "id": "4942522",
-      "time": "2026-06-18 13:38:45",
-      "tags": [
-        "國際"
-      ],
-      "text": "比利時國防部長：關於誰將採取何種行動填補美國在北約危機部隊中留下的空缺，將展開激烈討論。"
-    },
-    {
-      "id": "mkt:019ed93c-c823-7dd8-b06c-fed1a90618c9",
-      "time": "2026-06-18 13:38:19",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "CSI300",
-        "Impact bearish",
-        "SSE Composite",
-        "SZSE Component"
-      ],
-      "text": "China A-share securities sector fell. Guosheng Securities and Industrial Securities dropped more than 4%; Tianfeng Securities, China Galaxy Securities, Caitong Securities, Pacific Securities, Jinlong Co., Huatai Securities, Shenwan Hongyuan, Shanxi Securities, Huaxi Securities and Xiangcai Co. declined over 3%."
-    },
-    {
-      "id": "mkt:019ed93c-b49b-7dd8-b06c-f103e876ec88",
-      "time": "2026-06-18 13:38:14",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "HSBC cuts BMW PT to €71 from €79."
-    },
-    {
-      "id": "te:markets:559933",
-      "time": "2026-06-18 13:38:10",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "New Zealand",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "NZX 50 Extends Losses, Ends 0.2% Lower — The NZX 50 fell 30 points, or 0.2%, to close at 13,363 on Thursday, extending losses from the previous session, mainly weighed down by utilities, financials, and healthcare stocks. The broader index tracked a decline on Wall Street overnight after the Fed held interest rates steady and signaled the possibility of rate hikes this year. Wednesday's data also continued to pressure sentiment, as New Zealand's consumer confidence fell to its lowest level since 2023 in Q2, while the Q1 current account deficit widened from the same period a year earlier. However, fresh data helped cap the fall, as New Zealand's GDP growth accelerated to 0.8% qoq in Q1, while annual growth held steady at 1.5%. Reports that the US and Iran had digitally signed an interim peace agreement also boosted sentiment, as lower oil prices eased concerns over inflationary pressures. Among notable losses were Mainfreight (-2.8%), AFT Pharmaceuticals (-1.7%), Westpac Banking Corp. (-1.6%), and South Port NZ (-1.1%)."
-    },
-    {
-      "id": "4942521",
-      "time": "2026-06-18 13:38:05",
-      "tags": [
-        "其他"
-      ],
-      "text": "滙豐j將寶馬目標價從79歐元下調至71歐元。"
-    },
-    {
-      "id": "4942520",
-      "time": "2026-06-18 13:37:27",
-      "tags": [
-        "市場"
-      ],
-      "text": "塔塔汽車：將透過漲價抵消大宗商品和投入成本上漲的影響。"
-    },
-    {
-      "id": "mkt:019ed93b-ed7d-7dd8-b06c-ec1f851b63f8",
-      "time": "2026-06-18 13:37:23",
-      "tags": [
-        "MKT News",
-        "Important",
-        "CSI300",
-        "Impact bullish",
-        "SSE Composite"
-      ],
-      "text": "A-share CPO-themed sector extended gains in the afternoon; Maijie Technology and Xingsen Technology hit daily limit-up, while Yidong Electronics, Bomin Electronics and Youxun Co. also rallied."
-    },
-    {
-      "id": "4942519",
-      "time": "2026-06-18 13:37:13",
-      "tags": [
-        "其他"
-      ],
-      "text": "塔塔汽車自2026年7月1日起將商用車價格上調最高2.5%。"
-    },
-    {
-      "id": "4942518",
-      "time": "2026-06-18 13:36:33",
-      "tags": [
-        "其他"
-      ],
-      "text": "滬深兩市成交額突破2.5萬億元，較上一日此時放量超1900億元。"
-    },
-    {
-      "id": "4942517",
-      "time": "2026-06-18 13:36:05",
-      "tags": [
-        "公司"
-      ],
-      "text": "【聯泰環保新設數字科技公司 含AI相關業務】企查查APP顯示，近日，深圳市聯泰數字科技有限公司成立，經營範圍包含：人工智慧基礎軟體開發；人工智慧應用軟體開發；人工智慧理論與演算法軟體開發；人工智慧行業應用系統整合服務等。企查查股權穿透顯示，該公司由聯泰環保全資持股。"
-    },
-    {
-      "id": "4942516",
-      "time": "2026-06-18 13:36:02",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【CPO板塊持續走高，麥捷科技、興森科技等股漲停】CPO板塊持續走高，麥捷科技、興森科技等股漲停，奕東電子、博敏電子、優迅股份漲幅居前。"
-    },
-    {
-      "id": "mkt:019ed93a-14c4-7dd8-b06c-e51c87da6514",
-      "time": "2026-06-18 13:35:22",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Taiwan Weighted Index (TAIEX) closed up 587.81 points, +1.28%, at 46,465.2 on Thursday, June 18."
     }
   ]
 }
