@@ -1,7 +1,83 @@
 {
-  "updated": "2026-06-26 00:43:53",
-  "count": 16897,
+  "updated": "2026-06-26 00:47:58",
+  "count": 16899,
   "items": [
+    {
+      "id": "4955643",
+      "time": "2026-06-26 00:46:40",
+      "tags": [
+        "市場"
+      ],
+      "text": "【德國兩年期國債收益率跌約2個基點，意債收益率曾短暫地異常波動】週四（6月25日）歐市尾盤，德國10年期國債收益率跌0.8個基點，報2.857%，日內交投於2.876%-2.845%區間。兩年期德債收益率跌1.8個基點，報2.528%，日內交投於2.561%-2.521%區間；30年期德債收益率跌0.7個基點，報3.404%。2/10年期德債收益率利差漲1.068個基點，報+32.722個基點。法國10年期國債收益率漲0.3個基點，兩年期法債收益率跌1.5個基點，30年期法債收益率大致持平。義大利10年期國債收益率漲0.1個基點，報3.590%，彭博資料顯示歐股開盤之前瞬間尖銳地衝高回落——北京時間14:29達到4.849%、隨後恢復至平盤附近，剔除這一異常波動之外，日內交易非常沉悶。西班牙10年期國債收益率漲0.2個基點，希臘10年期國債收益率跌0.1個基點。"
+    },
+    {
+      "id": "4955642",
+      "time": "2026-06-26 00:46:28",
+      "tags": [
+        "其他"
+      ],
+      "text": "加拿大芝加哥期權交易所歡迎漢密爾頓增強型比特幣Daymax™ETF掛牌上市。"
+    },
+    {
+      "id": "4955641",
+      "time": "2026-06-26 00:45:35",
+      "tags": [
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲7年期國債投標總額為66億美元。"
+    },
+    {
+      "id": "4955640",
+      "time": "2026-06-26 00:45:23",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國七年期非競爭投標國債認購額 7290 萬美元。"
+    },
+    {
+      "id": "mkt:019effab-d43c-7dd8-b121-f66951c2112f",
+      "time": "2026-06-26 00:45:11",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Star Stocks",
+        "Apple",
+        "Market Themes",
+        "AI Revolution",
+        "Magnificent 7",
+        "AAPL.O"
+      ],
+      "text": "【Apple to skip high-end M6, accelerate launch of AI-capable M7 series】People familiar with the matter say Apple, currently on M5, plans a base M6 for entry-level Macs as early as this year but will skip a high-end M6. Apple intends to ship Pro and Max versions in a next-generation M7 family in 2027 with greater compute and graphics performance. The change is aimed at accelerating technologies slated for later release to meet rising demand for on-device AI features and graphics-intensive software."
+    },
+    {
+      "id": "4955639",
+      "time": "2026-06-26 00:44:42",
+      "tags": [
+        "其他"
+      ],
+      "text": "訊息人士稱， Monroe Energy旗下賓夕法尼亞州特雷納煉油廠火災發生在催化裂化裝置重啟過程中。"
+    },
+    {
+      "id": "mkt:019effaa-fd81-7dd8-b121-ed5e6627c975",
+      "time": "2026-06-26 00:44:16",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "【Source: Israeli withdrawal from Lebanon a key 'red line' for Iran】On June 25 a source close to the negotiating team said Israel withdrawing from Lebanese territory is one of Iran's conditions for a final U.S.-Iran accord and is regarded by Iran's negotiators as an important \"red line\". The source said the final memorandum of understanding would guarantee Lebanon's sovereignty and territorial integrity. Text agreed earlier in Switzerland emphasized a conflict-resolution mechanism to be implemented with Iranian participation and unified execution. Iran is now following up on a timetable for implementation."
+    },
+    {
+      "id": "4955638",
+      "time": "2026-06-26 00:44:13",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "【訊息人士：以軍撤離黎巴嫩是伊朗重要“紅線”】一名接近談判團隊的訊息人士稱，以色列從黎巴嫩領土撤軍是伊朗與美國最終協議的條件之一，並被伊朗談判團隊視為一條重要“紅線”。該訊息人士進一步表示，最終的諒解備忘錄將保障黎巴嫩的主權與領土完整。此前在瑞士達成的協議文字中已經強調由伊朗參與且統一執行的“衝突解決機制”。伊朗方面目前正跟進其具體執行的時間表。該訊息人士還稱，在過去6天內，以色列對黎巴嫩的襲擊規模明顯下降，這表明伊朗的舉措已產生效果。但伊朗絕不會滿意，除非實現永久停火，且以色列從黎巴嫩完全撤軍。（央視新聞）"
+    },
     {
       "id": "te:economy:561983",
       "time": "2026-06-26 00:43:02",
@@ -154482,63 +154558,6 @@
         "國際"
       ],
       "text": "【美伊協議為伊朗石油出口鬆綁 或迅速增加全球供應】隨著美伊本週達成旨在結束戰爭並解除美國海上封鎖的協議，伊朗認為這是迅速恢復石油出口的機會。在伊朗獲得及時喘息之機的同時，德黑蘭的增產可能加劇油價下行壓力。兩名伊朗石油官員表示，與其他受戰爭影響的產油國相比，伊朗減產幅度要小得多，從而有望迅速恢復原油生產和出口。伊朗與美國總統唐納德·特朗普週三簽署的諒解備忘錄將立即終止美國實施的海上封鎖。該封鎖是美國針對伊朗關閉霍爾木茲海峽採取的報復措施。伊朗可以迅速為全球市場增加逾1%的原油供應。在和平協議有望達成的預期推動下，油價近幾周已大幅下跌。對伊朗而言，增加石油銷售將為長期受制裁和貨幣貶值衝擊的經濟帶來緩解。根據諒解備忘錄，美國表示在雙方達成最終協議後將解除制裁。"
-    },
-    {
-      "id": "4944077",
-      "time": "2026-06-19 00:47:19",
-      "tags": [
-        "市場",
-        "央行",
-        "國際"
-      ],
-      "text": "【德國兩年期國債收益率於沃什首秀次日漲2個基點】週四（6月18日）歐市尾盤，德國10年期國債收益率漲0.2個基點，報2.929%，日內交投於2.945%-2.916%區間，整體大致呈現出W形走勢。兩年期德債收益率漲2.0個基點，報2.607%，美聯儲主席凱文·沃什首秀過後，跳空高開至2.827%，瞬間回撤至2.619%，日內絕大部分時間交投於這一水平附近；30年期德債收益率跌1.3個基點，報3.468%，跳空低開之後主要持穩於這樣的水平。2/10年期德債收益率利差跌1.935個基點，報+32.060個基點，14:27曾跳水至+24.881個基點。"
-    },
-    {
-      "id": "4944076",
-      "time": "2026-06-19 00:47:14",
-      "tags": [
-        "市場",
-        "央行",
-        "國際"
-      ],
-      "text": "【英國兩年期國債收益率在央行決議日漲約3個基點】週四（6月18日）歐市尾盤，英國10年期國債收益率漲0.6個基點，報4.757%，美聯儲主席凱文·沃什上任以來首次新聞釋出會過後微幅高開，北京時間19:00英國央行宣佈利率決定、釋放鴿派訊號之後回撤至4.770%下方，短線出現一波V形走勢——19:15重新整理日高至4.782%。兩年期英債收益率漲2.8個基點，報4.185%，英國央行宣佈按兵不動時重新整理日高至4.220%。30年期英債收益率跌1.3個基點，50年期英債收益率跌0.8個基點。2/10年期英債收益率利差跌3.799個基點，報+56.882個基點，15:00跳空低開、英國央行釋出利率決定時候重新整理日低至+55.876個基點。"
-    },
-    {
-      "id": "4944075",
-      "time": "2026-06-19 00:47:00",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "美國財政部：外國資產控制辦公室（OFAC）還將額外針對黎巴嫩、敘利亞、伊拉克和阿曼境內為真主黨籌集資金的人員實施制裁。"
-    },
-    {
-      "id": "4944074",
-      "time": "2026-06-19 00:46:30",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "美國財政部：因親真主黨的黎巴嫩官員及其他相關方阻礙黎巴嫩和平程序、拖延真主黨解除武裝，對其實施制裁。"
-    },
-    {
-      "id": "te:markets:560163",
-      "time": "2026-06-19 00:46:24",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "commodity",
-        "Importance 0"
-      ],
-      "text": "Platinum is down by 5% — Platinum decreased 5% to 1703.2 USD/t.oz"
-    },
-    {
-      "id": "4944073",
-      "time": "2026-06-19 00:45:12",
-      "tags": [
-        "國際"
-      ],
-      "text": "英國國防大臣：英國將提供 15 萬架烏克蘭國產無人機，外加 350 餘枚防空導彈與配套雷達；整套援助方案價值 7.52 億英鎊，資金來源於變賣被扣押的俄羅斯資產。"
     }
   ]
 }
