@@ -1,7 +1,55 @@
 {
-  "updated": "2026-06-26 00:52:14",
-  "count": 16898,
+  "updated": "2026-06-26 00:56:23",
+  "count": 16897,
   "items": [
+    {
+      "id": "mkt:019effb5-5ff6-7dd8-b122-198c92e7409d",
+      "time": "2026-06-26 00:55:37",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Nikkei reports that as the Bank of Japan reduces bond purchases, Japanese banks are taking a wait-and-see stance on buying Japanese government bonds (JGBs)."
+    },
+    {
+      "id": "4955654",
+      "time": "2026-06-26 00:53:57",
+      "tags": [
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "【機構：比特幣可能從低迷水平反彈】比特幣目前的交易價格在59,000美元附近，這一水平上一次出現是在2024年。儘管對美聯儲偏緊縮立場（可能在今年多次加息）的預期令比特幣承壓，但長期持有者對這種處境並不陌生。21shares的Matt Mena指出，Glassnode的積累趨勢得分很高，這一高分上一次出現是在2022年與FTX相關的拋售深淵中，以及2020年新冠疫情時期的市場崩盤中。“比特幣隨後從這些低點分別增至36倍和8倍，”Mena說。如果即將釋出的政府報告弱於預期，那麼Mena認為比特幣有回升至67,000美元左右的途徑；如果美伊衝突得到持久解決，比特幣還有進一步上漲的空間。"
+    },
+    {
+      "id": "4955653",
+      "time": "2026-06-26 00:53:33",
+      "tags": [
+        "市場"
+      ],
+      "text": "倫敦金屬交易所三月期鈷收盤持平，報每噸 56290 美元。\n倫敦金屬交易所三月期鋁收盤上漲 42 美元，報每噸 3164 美元。\n倫敦金屬交易所三月期錫收盤上漲 702 美元，報每噸 50383 美元。\n倫敦金屬交易所三月期鋅收盤上漲 13 美元，報每噸 3434 美元。\n倫敦金屬交易所三月期鎳收盤上漲 6 美元，報每噸 16824 美元。\n倫敦金屬交易所三月期鉛收盤持平，報每噸 1912 美元。\n倫敦金屬交易所三月期銅收盤上漲 184 美元，報每噸 13270 美元。"
+    },
+    {
+      "id": "mkt:019effb2-8035-7dd8-b122-13c7ab8cd91c",
+      "time": "2026-06-26 00:52:28",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Microsoft",
+        "Market Themes",
+        "Magnificent 7",
+        "MSFT.O",
+        "Impact bearish"
+      ],
+      "text": "Microsoft (MSFT.O) says server storage and memory costs have risen more than 2.5x and are expected to double again by autumn 2027."
+    },
+    {
+      "id": "4955652",
+      "time": "2026-06-26 00:52:00",
+      "tags": [
+        "其他"
+      ],
+      "text": "【中煤廣元燃煤發電專案1號機組投產】6月25日，中煤廣元燃煤發電專案1號機組順利完成168小時滿負荷試執行，正式投入商業執行。此專案位於四川省廣元市利州區寶輪鎮清江村，由中國能建西南院牽頭EPC總承包建設。新建2臺1000兆瓦超超臨界燃煤發電機組，同步建設高效煙氣脫硫、脫硝及除塵設施。機組在完成長週期滿負荷試執行後，各項執行引數穩定，具備持續安全高效發電能力。在環保效能方面，專案汙染物排放指標達到國內先進水平，煙塵、二氧化硫、氮氧化物排放濃度分別低於4、20、24毫克/標準立方米，遠優於國家超低排放標準，實現全廠廢水零排放，綠色清潔化水平顯著提升。作為川東北區域重要電源支撐專案，工程投產後預計年發電量超90億千瓦時，可有效提升區域電力供應保障能力，緩解區域性電力緊張狀況，為工業生產與民生用電提供穩定能源支撐。（新華社）"
+    },
     {
       "id": "mkt:019effb1-afea-7dd8-b122-0f77f10277e9",
       "time": "2026-06-26 00:51:35",
@@ -154499,62 +154547,6 @@
         "Impact bullish"
       ],
       "text": "USD/JPY intraday gains widened to 0.50%, trading at 161.44."
-    },
-    {
-      "id": "4944090",
-      "time": "2026-06-19 00:55:29",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "【共和黨議員提議限制國會議員利用預測市場獲利】一名眾議院共和黨人提出一項法案條款，擬禁止國會議員參與某些預測市場。這是旨在解決外界對議員可能利用內幕資訊牟利之擔憂的最新舉措。該法案由威斯康星州共和黨眾議員布萊恩.斯泰爾(Bryan Steil)於週四提出。法案將限制眾議員及其配偶和受撫養子女對特定政府政策、行動以及政治結果等事件下注。違反該規定的議員將被要求支付2,000美元或交易價值10%的罰款（以金額較高者為準），並交出其下注所得的任何收益。該法案出臺之際，各界正推動設定進一步的限制條件，以監管快速增長的預測市場上潛在的內幕交易行為。"
-    },
-    {
-      "id": "mkt:019edba8-5a65-7dd8-b085-9ac220236862",
-      "time": "2026-06-19 00:55:03",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "【Germany dispatches vessels toward Strait of Hormuz for mine‑clearing mission】Germany’s defence minister Pistorius said on the 18th the minesweeper Fulda and supply ship Mosel have transited the Suez Canal to the Red Sea and are headed for the Strait of Hormuz, with Berlin seeking a rapid deployment. He said mine‑clearing in the Strait would require a clear international legal framework and the consent of Iran and Oman."
-    },
-    {
-      "id": "4944089",
-      "time": "2026-06-19 00:54:23",
-      "tags": [
-        "國際"
-      ],
-      "text": "【德國派遣艦艇以備霍爾木茲海峽掃雷任務】德國國防部長皮斯托裡烏斯18日表示，德國已經派遣海軍掃雷艇“富爾達”號和補給艦“摩澤爾”號透過蘇伊士運河，前往紅海。德方希望能夠迅速抵達霍爾木茲海峽投入行動。皮斯托裡烏斯還表示，在霍爾木茲海峽開展掃雷行動需要有明確的國際法框架，並需徵得伊朗和阿曼的同意。（央視新聞）"
-    },
-    {
-      "id": "4944088",
-      "time": "2026-06-19 00:52:46",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國地質調查局：菲律賓博邦東南偏東63公里處發生5.3級地震。"
-    },
-    {
-      "id": "4944087",
-      "time": "2026-06-19 00:52:24",
-      "tags": [
-        "市場"
-      ],
-      "text": "現貨黃金日內跌1%，現報4214.91美元/盎司。"
-    },
-    {
-      "id": "mkt:019edba5-e1c9-7dd8-b085-94bce63323f4",
-      "time": "2026-06-19 00:52:21",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Precious Metals",
-        "XAUUSD",
-        "Impact bearish"
-      ],
-      "text": "Spot gold down more than 1.0% intraday, trading at $4,215.05/oz."
     }
   ]
 }
