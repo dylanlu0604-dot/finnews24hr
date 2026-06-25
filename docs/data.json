@@ -1,7 +1,354 @@
 {
-  "updated": "2026-06-25 09:34:48",
-  "count": 16974,
+  "updated": "2026-06-25 09:38:53",
+  "count": 16994,
   "items": [
+    {
+      "id": "mkt:019efc6d-7c66-7dd8-b109-4f350affab4e",
+      "time": "2026-06-25 09:38:14",
+      "tags": [
+        "MKT News",
+        "Important",
+        "CNH",
+        "Impact bearish"
+      ],
+      "text": "【PBOC net withdraws 177.5 bln yuan via reverse repos today】The PBOC conducted 370.5 bln yuan of 7-day reverse repos today. With 300.0 bln yuan of 1-year MLF and 248.0 bln yuan of 7-day reverse repos maturing, open-market operations resulted in a net liquidity withdrawal of 177.5 bln yuan."
+    },
+    {
+      "id": "4953846",
+      "time": "2026-06-25 09:38:04",
+      "tags": [
+        "其他"
+      ],
+      "text": "西太平洋銀行預計紐西蘭儲備銀行在2026年只會兩次加息。"
+    },
+    {
+      "id": "mkt:019efc6d-3577-7dd8-b109-41e8c03f33a8",
+      "time": "2026-06-25 09:37:55",
+      "tags": [
+        "MKT News",
+        "Hang Seng Index",
+        "Impact bearish"
+      ],
+      "text": "HSI falls 1%; Hang Seng Tech Index down 1.2%."
+    },
+    {
+      "id": "4953845",
+      "time": "2026-06-25 09:37:38",
+      "tags": [
+        "市場"
+      ],
+      "text": "【算力租賃概念延續強勢 航錦科技2連板】早盤算力租賃概念延續強勢，航錦科技2連板，神州數碼漲停，中創環保漲超10%，盈峰環境、平治資訊、群興玩具、宏景科技漲幅靠前。"
+    },
+    {
+      "id": "mkt:019efc6c-e63f-7dd8-b109-3c861464558e",
+      "time": "2026-06-25 09:37:35",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "SZSE Component",
+        "Impact bullish",
+        "SSE Composite",
+        "Impact bearish"
+      ],
+      "text": "China A-shares diverged: ChiNext index up over 1%, Shenzhen Component up 0.7%, Shanghai Composite down 0.4%."
+    },
+    {
+      "id": "4953844",
+      "time": "2026-06-25 09:37:26",
+      "tags": [
+        "國際"
+      ],
+      "text": "布倫特原油抹去了伊朗衝突期間全部漲幅。"
+    },
+    {
+      "id": "4953843",
+      "time": "2026-06-25 09:37:09",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "滬深兩市成交額超5000億元，較上日此時放量815億元。"
+    },
+    {
+      "id": "4953842",
+      "time": "2026-06-25 09:37:04",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "恒生指數跌超1%，現報23172.979點；恒生科技指數現跌1.196%。"
+    },
+    {
+      "id": "4953841",
+      "time": "2026-06-25 09:37:02",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "gn0700779【A股光通訊板塊異動拉昇】超聲電子觸及漲停，航天電器、德明利、奕東電子、滿坤科技、科瑞技術、三環集團跟漲。"
+    },
+    {
+      "id": "4953840",
+      "time": "2026-06-25 09:37:02",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "gn0701279【A股半導體裝置板塊異動拉昇】匯成真空漲10.56%，華源控股、國林科技、華康潔淨、科瑞技術、漢鍾精機、帝爾鐳射跟漲。"
+    },
+    {
+      "id": "4953839",
+      "time": "2026-06-25 09:37:01",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "gn0700755【A股中芯國際概念板塊異動拉昇】國機精工觸及漲停，北京君正、德明利、全志科技、雅克科技、漢鍾精機、江豐電子跟漲。"
+    },
+    {
+      "id": "4953838",
+      "time": "2026-06-25 09:37:01",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "gn0701270【A股先進封裝板塊異動拉昇】唯特偶漲10.72%，國林科技、江波龍、深科技、利爾達、光智科技、帝爾鐳射跟漲。"
+    },
+    {
+      "id": "4953837",
+      "time": "2026-06-25 09:37:01",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "hy0270200【A股元件板塊異動拉昇】超聲電子觸及漲停，江海股份、滿坤科技、三環集團、順絡電子、東山精密、風華高科跟漲。"
+    },
+    {
+      "id": "4953836",
+      "time": "2026-06-25 09:37:01",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "gn0700879【A股儲存概念板塊異動拉昇】航錦科技、神州數碼、盛視科技觸及漲停，北京君正、安潔科技、江波龍、德明利跟漲。"
+    },
+    {
+      "id": "4953835",
+      "time": "2026-06-25 09:37:00",
+      "tags": [
+        "國際"
+      ],
+      "text": "【日本氣象廳稱未來一週可能再次發生強震】北京時間6月25日6時30分，日本本州東部附近海域發生6.9級地震，震源深度50公里。日本公佈的震度為“6強”（日本10級震度中第二高），無海嘯預警釋出。日本氣象廳當天上午召開記者會表示，未來約一週內需注意發生同等規模的地震。此外，也不排除發生震感更強地震的可能性，呼籲民眾繼續保持警惕。"
+    },
+    {
+      "id": "4953834",
+      "time": "2026-06-25 09:37:00",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "gn0200001【A股半導體儲存板塊異動拉昇】航錦科技、黑貓股份、國機精工、神州數碼、盛視科技觸及漲停，北京君正、元力股份跟漲。"
+    },
+    {
+      "id": "4953833",
+      "time": "2026-06-25 09:37:00",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "gn0700681【A股3D列印板塊異動拉昇】光韻達漲18.92%，北京君正、冰輪環境、東方鉭業、匯創達、英諾鐳射、藍思科技跟漲。"
+    },
+    {
+      "id": "4953832",
+      "time": "2026-06-25 09:37:00",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "gn0700140【A股蘋果三星板塊異動拉昇】超聲電子觸及漲停，匯成真空、安潔科技、萬順新材、長信科技、江波龍、科瑞技術跟漲。"
+    },
+    {
+      "id": "4953831",
+      "time": "2026-06-25 09:37:00",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "hy0270000【A股電子板塊異動拉昇】維信諾、超聲電子觸及漲停，富瀚微、北京君正、唯特偶、江海股份、安潔科技跟漲。"
+    },
+    {
+      "id": "4953830",
+      "time": "2026-06-25 09:37:00",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "hy0270100【A股半導體板塊異動拉昇】富瀚微漲14.67%，北京君正、江波龍、德明利、全志科技、雅克科技、江豐電子跟漲。"
+    },
+    {
+      "id": "4953829",
+      "time": "2026-06-25 09:37:00",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "gn0730190【A股超級電容板塊異動拉昇】黑貓股份觸及漲停，元力股份、江海股份、萬順新材、深科技、東方鉭業、思源電氣跟漲。"
+    },
+    {
+      "id": "4953828",
+      "time": "2026-06-25 09:37:00",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "gn0701159【A股CPO概念板塊異動拉昇】航錦科技、超聲電子觸及漲停，航天電器、德明利、奕東電子、深科技、科瑞技術跟漲。"
+    },
+    {
+      "id": "4953827",
+      "time": "2026-06-25 09:37:00",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "gn0700839【A股智慧手錶板塊異動拉昇】北京君正漲12.23%，安潔科技、長信科技、科瑞技術、九安醫療、天奧電子、東山精密跟漲。"
+    },
+    {
+      "id": "4953826",
+      "time": "2026-06-25 09:36:59",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "創業板指漲1.01%，現報4294.482點；上證指數跌0.41%，現報4094.137點；深證成指漲0.65%，現報16155.165點。"
+    },
+    {
+      "id": "4953825",
+      "time": "2026-06-25 09:36:22",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "PTA連續主力合約日內跌6%，現報5396.00元。"
+    },
+    {
+      "id": "4953824",
+      "time": "2026-06-25 09:36:19",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "短纖連續主力合約日內跌4%，現報6950.00元。"
+    },
+    {
+      "id": "te:economy:561678",
+      "time": "2026-06-25 09:36:14",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Australia",
+        "Unemployment Rate",
+        "Importance 3"
+      ],
+      "text": "Australia Jobless Rate Falls to 4.4%, Meets Estimates — Australia’s seasonally adjusted unemployment rate inched down to 4.4% in May, from April’s more than four-year high of 4.5%, in line with market expectations. The number of unemployed fell by 18,300 to 671,300 from 689,600 in April. Employment increased by 40,300 to 14.74 million, surpassing estimates for a 30,000 rise, after declining in the previous month."
+    },
+    {
+      "id": "te:markets:561677",
+      "time": "2026-06-25 09:36:03",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "South Korea",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "South Korean Shares Extend Rally on Chip Optimism — The benchmark KOSPI climbed nearly 5% to around 8,880 on Thursday, extending gains from the previous session as semiconductor stocks rallied on renewed optimism over AI-driven demand. Investor sentiment was boosted after Micron Technology reported stronger-than-expected quarterly results and issued an upbeat revenue forecast, reinforcing expectations of robust demand for memory chips. Chip heavyweights Samsung Electronics and SK hynix advanced sharply by nearly 5% and 8%, respectively. SK hynix also gained support from plans to raise up to W45.5 trillion through a Nasdaq ADR listing to fund AI chip capacity expansion and related investments. Other notable gainers included SK Square (3.0%), HD Hyundai Heavy Industries (1.7%), Kia Corporation (1.4%), and KB Financial Group (1.8%). At the same time, improving shipping conditions in the Strait of Hormuz eased energy supply concerns and supported risk appetite across regional markets."
+    },
+    {
+      "id": "4953823",
+      "time": "2026-06-25 09:35:58",
+      "tags": [
+        "市場"
+      ],
+      "text": "紐約期銀日內跌2%，現報57.34美元/盎司。"
+    },
+    {
+      "id": "mkt:019efc6b-69ce-7dd8-b109-352ce46f46e5",
+      "time": "2026-06-25 09:35:58",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals"
+      ],
+      "text": "Spot silver fell more than 1% intraday to $56.89/oz; New York silver futures dropped over 2% to $56.92/oz."
+    },
+    {
+      "id": "4953822",
+      "time": "2026-06-25 09:35:56",
+      "tags": [
+        "市場"
+      ],
+      "text": "現貨白銀日內跌1%，現報56.83美元/盎司。"
+    },
+    {
+      "id": "mkt:019efc6b-4893-7dd8-b109-284ba71a9a94",
+      "time": "2026-06-25 09:35:49",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy",
+        "S&P500",
+        "Impact bullish",
+        "WTI",
+        "Impact bearish",
+        "DXY"
+      ],
+      "text": "JP Morgan says US equities are approaching a \"blue-sky\" scenario, driven by corporate earnings growth that has outpaced expectations and by the prospect that Iran-related tensions could be eased through a diplomatic agreement."
+    },
+    {
+      "id": "4953821",
+      "time": "2026-06-25 09:35:44",
+      "tags": [
+        "其他"
+      ],
+      "text": "【腦機介面板塊盤初下挫，塞力醫療、倍益康跌超8%】腦機介面板塊盤初下挫，塞力醫療、倍益康跌超8%，三博腦科、南京熊貓、創新醫療跟跌。"
+    },
+    {
+      "id": "4953820",
+      "time": "2026-06-25 09:35:22",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "恒生科技指數跌超1%，現報4433.640點；恒生指數現跌0.848%。"
+    },
+    {
+      "id": "4953819",
+      "time": "2026-06-25 09:34:47",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "白銀連續主力合約日內跌7%，現報13853.00元。"
+    },
+    {
+      "id": "4953818",
+      "time": "2026-06-25 09:34:44",
+      "tags": [
+        "公司"
+      ],
+      "text": "【更換輔導券商後，英得爾重啟IPO】證監會網站披露，英得爾實業（廣東）股份有限公司於2026年6月24日在廣東證監局辦理輔導備案登記，擬首次公開發行股票並上市，輔導券商為招商證券。"
+    },
+    {
+      "id": "4953817",
+      "time": "2026-06-25 09:34:19",
+      "tags": [
+        "市場"
+      ],
+      "text": "中國東方航空港股上漲逾6%。"
+    },
     {
       "id": "4953816",
       "time": "2026-06-25 09:34:07",
@@ -154954,175 +155301,6 @@
         "市場"
       ],
       "text": "【兆易創新盤中漲超5%】A股兆易創新盤中漲5.03%，現報615.56元。"
-    },
-    {
-      "id": "4942206",
-      "time": "2026-06-18 09:38:49",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "滬深兩市成交額超5000億元，較上日此時放量416億元。"
-    },
-    {
-      "id": "mkt:019ed861-5301-7dd8-b068-80c28efeda4e",
-      "time": "2026-06-18 09:38:37",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Greater China",
-        "CSI300",
-        "Impact bullish",
-        "SSE Composite"
-      ],
-      "text": "China A-share lab-grown diamond sector extended early-session gains; Huifeng Diamond up over 13%, Sifangda, Huanghe Xuanfeng, Liliang Diamond and Woerde also rose."
-    },
-    {
-      "id": "4942205",
-      "time": "2026-06-18 09:38:34",
-      "tags": [
-        "市場"
-      ],
-      "text": "大盤主力淨流出超100億。"
-    },
-    {
-      "id": "4942204",
-      "time": "2026-06-18 09:38:33",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【銅板塊直線拉昇，江西銅業漲停】銅板塊直線拉昇，江西銅業漲停，西部礦業、金田股份、銅陵有色、眾源新材、北方銅業等紛紛走高。"
-    },
-    {
-      "id": "4942203",
-      "time": "2026-06-18 09:38:23",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "焦煤連續主力合約日內跌4%，現報1295.00元。"
-    },
-    {
-      "id": "mkt:019ed860-4475-7dd8-b068-7e7acdf95fa2",
-      "time": "2026-06-18 09:37:28",
-      "tags": [
-        "MKT News",
-        "DXY",
-        "Impact bullish",
-        "US10Y"
-      ],
-      "text": "【Analysts: Malaysian equities could rebound after Q3 volatility】Affin Hwang IB says uncertainty from the US‑Iran conflict and upcoming state elections clouded Malaysia’s Q3 equity outlook but expects those risks to ease and support a Q4 rebound. It warns prospects for US rates to remain higher for longer and renewed foreign outflows will keep near‑term volatility. The bank expects H2 performance to be driven by sustained investment growth and infrastructure upgrades, state elections as a political barometer, and fresh institutional inflows from government corporate value‑unlocking plans. Affin Hwang maintains an overweight rating on Malaysian equities and keeps its KLCI target at 1,780 for end‑2026."
-    },
-    {
-      "id": "4942202",
-      "time": "2026-06-18 09:37:22",
-      "tags": [
-        "公司"
-      ],
-      "text": "【端午假期運輸啟動 長三角鐵路今日預計傳送旅客348萬人次】從中國鐵路上海局集團有限公司獲悉，長三角鐵路2026年端午假期運輸今日啟動，當天預計傳送旅客348萬人次，午後起，上海、杭州、南京、合肥、徐州、寧波、溫州等地將迎來首波客流小高峰。（央視新聞）"
-    },
-    {
-      "id": "mkt:019ed860-2f37-7dd8-b068-70e0d8659bd6",
-      "time": "2026-06-18 09:37:22",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "【Dragon Boat holiday rail service begins; Yangtze River Delta expects 3.48 mln passengers today】China Railway Shanghai Group said Yangtze River Delta rail operations for the 2026 Dragon Boat holiday began today and it expects to carry 3.48 mln passengers. A first passenger peak is expected from this afternoon in Shanghai, Hangzhou, Nanjing, Hefei, Xuzhou, Ningbo and Wenzhou."
-    },
-    {
-      "id": "mkt:019ed85f-e9c1-7dd8-b068-6b48f0fecc3d",
-      "time": "2026-06-18 09:37:04",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Greater China",
-        "SZSE Component",
-        "Impact bullish"
-      ],
-      "text": "China A-share ChiNext Index jumped over 1.7% in a rapid move, hitting a fresh record high."
-    },
-    {
-      "id": "te:economy:559873",
-      "time": "2026-06-18 09:36:54",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "United Arab Emirates",
-        "Interest Rate",
-        "Importance 1"
-      ],
-      "text": "UAE Keeps Key Rates at 3.65% — The Central Bank of the UAE (CBUAE) on Wednesday maintained its overnight deposit facility base rate at 3.65%. The decision followed a similar move by the US Federal Reserve, which continued to hold the federal funds rate unchanged at 3.50%-3.75% at its June meeting. The UAE’s monetary policy remains closely aligned with that of the Fed, as the dirham is pegged to the US dollar. \"This decision was taken following the US Federal Reserve’s announcement today to keep the Interest Rate on Reserve Balances (IORB) unchanged,\" the central bank said in a statement. The central bank also decided to maintain the interest rate applicable to borrowing short-term liquidity from the CBUAE at 50 basis points above the Base Rate for all standing credit facilities."
-    },
-    {
-      "id": "4942201",
-      "time": "2026-06-18 09:36:44",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【超級電容概念延續強勢 艾華集團3連板】早盤超級電容概念延續強勢，艾華集團3連板，火炬電子、華鋒股份、海星股份、新疆眾和等跟漲。"
-    },
-    {
-      "id": "4942200",
-      "time": "2026-06-18 09:36:35",
-      "tags": [
-        "其他"
-      ],
-      "text": "【培育鑽石概念反覆活躍 惠豐鑽石漲超13%】培育鑽石概念反覆活躍，惠豐鑽石漲超13%，四方達、黃河旋風、力量鑽石、沃爾德跟漲。"
-    },
-    {
-      "id": "4942199",
-      "time": "2026-06-18 09:36:15",
-      "tags": [
-        "市場"
-      ],
-      "text": "【創業板指漲1.7%，再創歷史新高】創業板指漲1.7%，再創歷史新高。培育鑽石、半導體裝置、非金屬材料板塊漲幅居前。"
-    },
-    {
-      "id": "mkt:019ed85e-8281-7dd8-b068-66a899736e61",
-      "time": "2026-06-18 09:35:32",
-      "tags": [
-        "MKT News",
-        "CSI300",
-        "Impact bullish"
-      ],
-      "text": "A-share non-metallic materials sector rose in early trade; Sanxiang New Materials hit the daily limit. Lianrui New Materials, Liliang Diamond, Tianma New Materials and Longgao Co. also gained."
-    },
-    {
-      "id": "4942198",
-      "time": "2026-06-18 09:35:31",
-      "tags": [
-        "市場"
-      ],
-      "text": "阿里巴巴港股下跌3%。"
-    },
-    {
-      "id": "mkt:019ed85e-6687-7dd8-b068-5dc9d2c20a21",
-      "time": "2026-06-18 09:35:25",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Themes",
-        "Chip Wars",
-        "CSI300",
-        "Impact bullish",
-        "SZSE Component",
-        "SSE Composite"
-      ],
-      "text": "China A-share storage-chip sector rose amid volatile trade; Jingsheng hit a 20% limit-up, Zhongjing Electronics locked at the daily limit, Shengke Nano and Lihexing climbed more than 10%, Alaide and Shengshi Technology also advanced."
-    },
-    {
-      "id": "4942197",
-      "time": "2026-06-18 09:35:06",
-      "tags": [
-        "公司"
-      ],
-      "text": "【樂聚機器人等新設具身壹號股權投資基金】企查查APP顯示，近日，合肥具身壹號股權投資基金合夥企業（有限合夥）成立，經營範圍包含：以私募基金從事股權投資、投資管理、資產管理等活動。企查查股權穿透顯示，該企業由樂聚機器人關聯公司樂聚智慧（深圳）股份有限公司等共同出資。"
     }
   ]
 }
