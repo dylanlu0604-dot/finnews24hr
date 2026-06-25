@@ -1,7 +1,135 @@
 {
-  "updated": "2026-06-25 14:44:01",
-  "count": 17008,
+  "updated": "2026-06-25 14:48:07",
+  "count": 17009,
   "items": [
+    {
+      "id": "mkt:019efd88-9dd6-7dd8-b10f-745a135c0121",
+      "time": "2026-06-25 14:47:29",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Sugon hit the daily limit-up in late trading; turnover exceeded CNY 12.3 bln."
+    },
+    {
+      "id": "4954304",
+      "time": "2026-06-25 14:47:24",
+      "tags": [
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "【機構：利率市場不願反映油價下跌影響的預期】Jefferies的Mohit Kumar在一份報告中表示，油價下跌，但利率市場並不急於反映油價下跌的預期。“我們必須承認，隨著市場關注霍爾木茲海峽交通量的增加，油價跌幅超出了我們的預期，”這位全球經濟學家表示。”然而，利率市場一直不願反映油價下跌影響的預期，“他說。Jefferies認為，美伊協議的主要影響之一是央行將不需要加息。“我們維持美聯儲今年不會加息的觀點，且美聯儲的下一步行動將是降息而非加息。”"
+    },
+    {
+      "id": "4954303",
+      "time": "2026-06-25 14:46:57",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "滬深兩市成交額超3.4萬億元，較上日此時放量2978億元。"
+    },
+    {
+      "id": "mkt:019efd87-ddd2-7dd8-b10f-6d025d973381",
+      "time": "2026-06-25 14:46:40",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "【June Middle East fuel oil exports seen at four-month high but still below pre-war levels】Trade sources and shipping data from Kpler and LSEG show Middle East fuel oil exports are expected to rebound in June to about 2.4 mln tonnes (508k bpd), up more than 20% from May and the highest in four months. The rise follows Iraq and Saudi Arabia diverting crude to other ports and expectations of resumed cargoes through the Strait of Hormuz; the extra supply could drive high-sulphur fuel oil prices sharply lower in Singapore and other hubs. Volumes remain well below pre-war monthly averages of roughly 5.5–6.0 mln tonnes. FGE NexantECA Middle East oil adviser Palash Jain said flows through the Strait of Hormuz are likely to increase over the next 60 days, but a material recovery is unlikely."
+    },
+    {
+      "id": "mkt:019efd87-c856-7dd8-b10f-6670793e2b7d",
+      "time": "2026-06-25 14:46:34",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "WTI"
+      ],
+      "text": "【RESERVE BANK OF INDIA signals optimism; may raise growth forecast at next meeting】Kumar, a member of the Reserve Bank of India’s rate-setting panel, said if global oil stays near $70/bbl, India’s growth this year could exceed 7%, above the RBI’s current forecast. He said easing Middle East tensions and progress in US–Iran talks have reduced Strait of Hormuz supply concerns and the inflation and growth risks they posed, and could prompt the RBI to revise its projection within a single policy meeting. This contrasts with about three weeks ago when the RBI cut its annual growth forecast to 6.6% citing Middle East uncertainty. India imports roughly 90% of its oil and is highly sensitive to energy-price swings. The RBI will publish updated forecasts at its next monetary policy review on Aug. 5; Kumar said the bank may lower its current fiscal-year inflation forecast of 5.1% toward the 4% target."
+    },
+    {
+      "id": "mkt:019efd87-a596-7dd8-b10f-5bd1997660fc",
+      "time": "2026-06-25 14:46:25",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "【SenseTime says enterprise Token monthly usage rose sevenfold】SenseTime told shareholders that since launching its RiriXin large-model enterprise Token Plan in May 2026, monthly enterprise Token usage has risen sevenfold. Its desktop AI agent Raccoon now serves 20 million users and more than 10,000 corporate clients, with WAU of 2.1 million. AI content-creation platform Seko counts over 800,000 individual creators (4x YoY) and more than 1,300 enterprise customers."
+    },
+    {
+      "id": "4954301",
+      "time": "2026-06-25 14:46:24",
+      "tags": [
+        "其他"
+      ],
+      "text": "【商湯：企業級Token單月使用量增長7倍】商湯科技在股東大會上首度披露企業級TokenPlan最新運營資料：自2026年5月上線以來，商湯\"日日新\"大模型企業級Token使用量在單月內實現7倍增長。在產品生態資料方面，根據披露，桌面智慧體小浣熊（Raccoon）總服務人數達2000萬，服務超萬家企業客戶，WAU達210萬；AI內容創作平臺Seko服務個人創作者超80萬（同比增長4倍），企業客戶逾1300家。"
+    },
+    {
+      "id": "4954299",
+      "time": "2026-06-25 14:45:36",
+      "tags": [
+        "其他"
+      ],
+      "text": "【京東快遞上線“Agent全託管服務”】京東快遞落地“Agent全託管服務”，使用者開啟微信AI Agent，像跟朋友聊天一樣說出需求，就能快速寄件。京東快遞小程式上線的“AI寄”，則可以幫助使用者快速完成填寫地址、選服務等操作，適合在聊天場景直接呼叫。"
+    },
+    {
+      "id": "mkt:019efd86-c11d-7dd8-b10f-50b69097b9dc",
+      "time": "2026-06-25 14:45:27",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "France June INSEE consumer confidence composite index 84, vs 83 expected and 82 previously."
+    },
+    {
+      "id": "mkt:019efd86-a60e-7dd8-b10f-4a379636aed1",
+      "time": "2026-06-25 14:45:20",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "France | INSEE Consumer Confidence Index (Jun) | actual 84 | consensus 83 | previous 82"
+    },
+    {
+      "id": "4954298",
+      "time": "2026-06-25 14:45:09",
+      "tags": [
+        "資料"
+      ],
+      "text": "法國6月消費者信心指數 84，預期 83，前值 82。"
+    },
+    {
+      "id": "4954297",
+      "time": "2026-06-25 14:44:56",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "德國地球科學研究中心（GFZ）：委內瑞拉附近海岸發生7.43級地震。"
+    },
+    {
+      "id": "mkt:019efd85-b905-7dd8-b10f-40e6a4768521",
+      "time": "2026-06-25 14:44:19",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【Guangdong to add 100 brain–computer interface tech firms by 2030】Guangdong provincial science and technology committee office issued a 2026–2030 Brain–Computer Interface (BCI) Technology and Industry Coordination Action Plan. Near-term (by 2027) targets include breakthroughs in key BCI technologies, multi-dimensional mapping and modulation mechanisms for more than five major brain diseases, development of BCI systems for disease screening, intervention and rehabilitation, and R&D of core components, instruments, systems and platforms. The plan seeks to cultivate more than 10 backbone industrial firms and form initial industry clusters in Guangzhou and Shenzhen to support scale. By 2030 the province aims to add 100 BCI technology firms, foster several unicorns with core competitiveness, launch more than 10 non‑invasive BCI mass‑market products, and advance multiple invasive BCI products into clinical translation with medical device registration. The plan also targets building 200 BCI hospital wards serving a cumulative 500,000+ patients. It sets industry‑scale goals of a core BCI sector in the tens of billions of yuan and upstream/downstream spillovers into the hundreds of billions of yuan."
+    },
+    {
+      "id": "4954296",
+      "time": "2026-06-25 14:43:50",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【晶片供應商拒絕鎖定價格 德國汽車供應鏈再添新愁】據報道，德國汽車供應商Aumovio SE首席財務官表示，由於人工智慧公司大量消耗關鍵零部件供應，該公司為明年採購儲存晶片的談判正面臨困難。該公司首席財務官Doenges表示：“要獲得足夠數量的貨品很困難，我們已經聯絡了供應商，但沒有人願意就價格達成一致。”她表示，這家供應大眾汽車、福特汽車和的供應商也在應對因中東衝突和高原材料價格而導致的供應鏈緊張。寶馬集團作為近年來最具韌性的德國車企，一週前大幅下調了利潤率目標，理由是其業務持續惡化以及美以與伊朗戰爭帶來的經濟影響。"
+    },
     {
       "id": "mkt:019efd84-f0ef-7dd8-b10f-3d2bfd9fb8d8",
       "time": "2026-06-25 14:43:28",
@@ -155179,128 +155307,6 @@
         "焦點"
       ],
       "text": "南向資金淨賣出額達20億港元。"
-    },
-    {
-      "id": "te:markets:559963",
-      "time": "2026-06-18 14:48:05",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "UK Natural Gas Prices Slide Over 4% — UK natural gas prices dropped more than 4% toward 95 pence a therm, the lowest since February 27, as an interim US–Iran agreement is now in effect after both sides signed the memorandum remotely. Pakistan's prime minister said the signing means Iran will “instantly reopen” the Strait of Hormuz and the US will “immediately lift” its naval blockade on all Iranian ports. The deal also includes the permanent termination of military operations on all fronts, including in Lebanon, and initiates a 60-day negotiating period to reach a final agreement on the future of Iran's nuclear program, although Trump warned he would restart the war if Tehran fails to comply with the terms of the 14-point memorandum of understanding. In anticipation of the strait's imminent reopening, a handful of vessels have started returning to the Middle East, including tankers from Qatar, the world's second-largest LNG exporter."
-    },
-    {
-      "id": "te:markets:559962",
-      "time": "2026-06-18 14:47:58",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Australia",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "ASX 200 Pulls Back from 2-Month High — Australia's ASX 200 slipped 55 points, or 0.6%, to finish at 8,911 on Thursday, snapping a four-session winning streak. Early gains faded as sentiment turned sour after U.S. President Donald Trump warned that the new ceasefire with Iran was not final, raising fears the Middle East conflict could reignite. Meanwhile, the U.S. Federal Reserve held rates steady, as expected, but signaled that its next move might be higher, stoking caution. Local markets retreated from a two-month peak, pressured by profit taking and lingering inflation concerns despite a total of 75bp rate hikes since January by the Reserve Bank. Concerns also mounted over a potentially severe El Niño later in 2026. Among major sectors, non-energy minerals, consumer services, and utilities were mainly lower. Three of the four major banks fell between 0.6% and 1.1%, while notable laggards included Xero (-4.3%), Wisetech Global (-3.7%), PLS Group (-2.4%), and ASX Ltd. (-2.4%)."
-    },
-    {
-      "id": "te:markets:559960",
-      "time": "2026-06-18 14:47:44",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Taiwan",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "TAIEX Hits New Peak, Ends 1.3% Higher — The TAIEX, Taiwan’s benchmark stock index, advanced 588 points, or 1.3%, to close at 46,465 on Thursday, gaining for the fifth straight session, mainly buoyed by electronic technology, commercial services, and producer manufacturing stocks. The broader index hit a fresh record high, surpassing the 46,000 level for the second time, as optimism over AI demand continued to lift sentiment. Reports that the US and Iran had digitally signed an interim peace agreement also boosted sentiment, as lower oil prices eased concerns over inflationary pressures. However, a downbeat session on Wall Street overnight limited gains after the Fed kept interest rates steady and signaled the possibility of rate hikes this year. Electronic technology stocks gained 1.3%, with TSMC, the world's largest contract chipmaker, which accounts for more than 40% of the market's total value, rising 1.1%. Meanwhile, ASE Technology and Yageo Corporation climbed 3.0% and 9.8%, respectively."
-    },
-    {
-      "id": "4942638",
-      "time": "2026-06-18 14:47:36",
-      "tags": [
-        "市場"
-      ],
-      "text": "澳大利亞西澳礦業與能源工會：必和必拓港口業務的工會成員要求獲得有保障的年度加薪，以跟上生活成本上漲的步伐，此外還有其他訴求。"
-    },
-    {
-      "id": "4942636",
-      "time": "2026-06-18 14:47:26",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【挪威國家電力公司與美國鋁業公司簽署挪威鋁廠電力協議】6月18日，一份宣告顯示，挪威國家電力公司（Statkraft）與美國鋁業公司（Alcoa）簽署了兩項新的電力協議，以確保電力供應，支援美國鋁業公司位於挪威利斯塔（Lista）的鋁廠繼續運營。該電力協議涵蓋2028年至2031年期間約4.8太瓦時（TWh）的電力交付。"
-    },
-    {
-      "id": "4942635",
-      "time": "2026-06-18 14:47:26",
-      "tags": [
-        "其他"
-      ],
-      "text": "【浦發銀行董事長張為忠：金融行業與人工智慧“雙向賦能”】6月18日，在2026陸家嘴論壇“全體大會六：科技創新賦能金融高質量發展”上，浦發銀行董事長張為忠表示，金融行業與人工智慧的關係，同人工智慧與其他行業的關係相比，其本質區別在於“雙向賦能”。張為忠表示，一方面，金融行業積極擁抱前沿技術。由於金融行業應用場景豐富、技術密集且服務群體龐大，必然會選擇在人工智慧技術應用上快速突進。另一方面，是金融反過來支援和賦能科技產業的發展。當前，人工智慧正處於時代前沿，金融機構一定會透過風險投資、科創信貸、資本市場以及保險保障機制的建設，來大力支援人工智慧的發展。"
-    },
-    {
-      "id": "te:economy:559959",
-      "time": "2026-06-18 14:47:24",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Philippines",
-        "Interest Rate",
-        "Importance 1"
-      ],
-      "text": "Philippine Central Bank Hikes Rates as Expected — The Bangko Sentral ng Pilipinas raised its benchmark interest rate by 25 bps to 4.75% at its May 2026 policy meeting, matching market expectations and marking a second consecutive rate hike as it moves to contain persistent inflationary pressures. The Monetary Board said inflation risks remain elevated, driven by sustained high global oil and fertilizer prices, which continue to feed into domestic fuel and food costs amid ongoing tensions in the Middle East. The BSP projects that average headline inflation will breach its 4.0% target ceiling in both 2026 and 2027, before easing slightly but remaining above the 3.0% midpoint target in 2028. Annual inflation slowed to 6.8% in May 2026 from a three-year high of 7.2% in April, but it remains above the central bank’s 2%–4% target band, as the country is particularly exposed due to its heavy reliance on imported energy from the Middle East. The overnight deposit and lending facilities were also adjusted to 4.25% and 5.25%, respectively."
-    },
-    {
-      "id": "4942634",
-      "time": "2026-06-18 14:47:09",
-      "tags": [
-        "央行",
-        "市場"
-      ],
-      "text": "【英鎊受英國就業資料影響不大，市場正關注英國央行決議】在投資者等待英國央行今日晚些時候的政策決議之際，英鎊對最新的英國就業資料反應平淡。截至4月份的三個月，失業率從上一季度的5.0%降至4.9%。經濟學家此前預計為5.0%。同期不包括獎金的平均收入增長3.4%，高於預期的3.2%。英國央行將於格林威治時間1100公佈決議，普遍預計將維持利率不變。焦點在於關於今年晚些時候是否可能加息的任何指引。英鎊兌美元上漲0.2%，至1.3313美元，高於資料公佈前的1.3298美元。然而，歐元兌英鎊持平於0.8560英鎊，與資料公佈前相比幾乎沒有變化。"
-    },
-    {
-      "id": "4942633",
-      "time": "2026-06-18 14:47:04",
-      "tags": [
-        "其他"
-      ],
-      "text": "【6月18日：“農產品批發價格200指數”比昨天下降0.05個點】據農業農村部監測，6月18日“農產品批發價格200指數”為112.67，比昨天下降0.05個點，“菜籃子”產品批發價格指數為112.57，比昨天下降0.09個點。截至今日14:00時，全國農產品批發市場豬肉平均價格為14.64元/公斤，比昨天下降0.7%；牛肉66.72元/公斤，比昨天上升0.1%；羊肉63.88元/公斤，比昨天下降0.6%；雞蛋10.50元/公斤，比昨天下降0.3%；白條雞16.90元/公斤，比昨天下降1.1%。重點監測的28種蔬菜平均價格為4.26元/公斤，比昨天下降1.6%；重點監測的6種水果平均價格為7.37元/公斤，比昨天下降0.9%。鯽魚19.84元/公斤，比昨天下降1.6%；鯉魚14.53元/公斤，比昨天上升0.8%；白鰱魚10.30元/公斤，比昨天下降1.7%；大帶魚40.63元/公斤，比昨天下降0.4%。今日，國內鮮活農產品批發市場重點監測的46個品種中，與昨天相比價格升幅前五名的是西瓜、鯉魚、蓮藕、牛肉和大蒜，幅度分別為2.0%、0.8%、0.7%、0.1%和0.1%；價格降幅前五名的是豆角、生菜、黃瓜、菠菜和油菜，幅度分別為5.2%、3.6%、3.1%、3.0%和2.9%。"
-    },
-    {
-      "id": "4942632",
-      "time": "2026-06-18 14:46:46",
-      "tags": [
-        "公司"
-      ],
-      "text": "【萬馬科技子公司優咔科技獲北汽集團海外流量專案定點】近日，萬馬科技全資子公司上海優咔網路科技有限公司（簡稱“優咔科技”）獲得北京汽車集團有限公司（簡稱“北汽集團”）海外流量專案定點，覆蓋GCC、非洲、中西亞及大洋洲共20個國家和地區。優咔科技將為北汽集團旗下自主品牌乘用車提供基於海外流量的定製流量方案、本地化落地與啟用支援、流量使用檢測與運維保障以及合規性管理等全流程能力，確保車輛出海即可穩定聯網。"
-    },
-    {
-      "id": "4942631",
-      "time": "2026-06-18 14:46:30",
-      "tags": [
-        "其他"
-      ],
-      "text": "澳大利亞西部礦工聯盟：已申請對必和必拓港口運營業務舉行受保護行動投票。"
-    },
-    {
-      "id": "4942630",
-      "time": "2026-06-18 14:46:26",
-      "tags": [
-        "其他"
-      ],
-      "text": "【德勤：上半年港股市場合計融資額預計達2033億港元】德勤預計，2026年上半年，港股市場將有78只新股融資2033億港元，較2025年上半年的42只新股融資1071億港元大幅攀升。 (上證報)"
-    },
-    {
-      "id": "4942629",
-      "time": "2026-06-18 14:45:46",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "滬深兩市成交額超3.1萬億元，較上日此時放量2104億元。"
     }
   ]
 }
