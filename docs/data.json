@@ -1,7 +1,149 @@
 {
-  "updated": "2026-06-26 02:11:00",
-  "count": 16923,
+  "updated": "2026-06-26 02:15:03",
+  "count": 16933,
   "items": [
+    {
+      "id": "te:markets:561986",
+      "time": "2026-06-26 02:14:22",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "commodity",
+        "Importance 0"
+      ],
+      "text": "Gasoline is up by 5% — Gasoline increased 5% to 3.0258 USD/Gal"
+    },
+    {
+      "id": "4955753",
+      "time": "2026-06-26 02:14:03",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲古爾斯比：認同沃什關於前瞻指引的觀點。"
+    },
+    {
+      "id": "mkt:019efffc-7a64-7dd8-b123-f7f1237e4f57",
+      "time": "2026-06-26 02:13:16",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Brent",
+        "Impact bullish",
+        "WTI",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "【WSJ: Iran attack on Singapore-flagged freighter tests US-Iran ceasefire deal】Two US senior officials told the Wall Street Journal that Iran’s Islamic Revolutionary Guard Corps attacked a Singapore-flagged freighter in the Strait of Hormuz on Thursday, an incident that tests last week’s US-Iran agreement to end hostilities and reopen the vital shipping lane. The UK Maritime Trade Operations said the vessel’s wheelhouse was damaged but there were no injuries; the strike occurred near Oman’s coast. Iranian paramilitary naval forces had warned hours earlier that ships must not use unapproved routes."
+    },
+    {
+      "id": "4955752",
+      "time": "2026-06-26 02:13:00",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【EDF擬就出售小型模組化反應堆子公司股權與義大利企業展開談判】據知情人士透露，法國電力公司（EDF）準備就出售其小型模組化核反應堆子公司的股權事宜，與義大利企業展開談判。週四在法國昂蒂布舉行的法意兩國領導人會晤期間，法國總統馬克龍與義大利總理焦爾吉婭·梅洛尼討論了Nuward子公司的相關計劃。EDF旗下的義大利子公司愛迪生公司（Edison）已與義大利核能企業簽署宣告，共同開發Nuward小型模組化反應堆技術，目標是在2035年前實現首批電廠投入運營。該專案旨在設計和建造小型反應堆，為更廣泛的客戶群提供低碳電力和熱能。由於電力成本高昂，義大利正考慮重返核電領域。"
+    },
+    {
+      "id": "mkt:019efffc-3167-7dd8-b123-efca007d4908",
+      "time": "2026-06-26 02:12:58",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "S&P500",
+        "Impact bearish",
+        "XAUUSD"
+      ],
+      "text": "Fed's Goolsbee said core inflation remains too high and is trending in the wrong direction."
+    },
+    {
+      "id": "4955751",
+      "time": "2026-06-26 02:12:49",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲古爾斯比：核心通脹仍過高，走勢方向錯誤。"
+    },
+    {
+      "id": "4955750",
+      "time": "2026-06-26 02:11:44",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲古爾斯比：但當前通脹水平仍遠高於目標區間。"
+    },
+    {
+      "id": "mkt:019efffb-0281-7dd8-b123-e5209b12b622",
+      "time": "2026-06-26 02:11:40",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "GOOLSBEE said it remains well above the required level."
+    },
+    {
+      "id": "mkt:019efffa-d4d8-7dd8-b123-da46523d0f4d",
+      "time": "2026-06-26 02:11:28",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "S&P500",
+        "Impact bullish",
+        "US10Y",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "Fed's Goolsbee sees some hopeful signs in services inflation."
+    },
+    {
+      "id": "4955749",
+      "time": "2026-06-26 02:11:27",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲古爾斯比：服務業通脹方面看到一些希望的曙光。"
+    },
+    {
+      "id": "mkt:019efffa-b09f-7dd8-b123-d2bed1f13b81",
+      "time": "2026-06-26 02:11:19",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Boeing expects the first satellite to be delivered in 2031."
+    },
+    {
+      "id": "mkt:019efffa-8091-7dd8-b123-cf6dce913754",
+      "time": "2026-06-26 02:11:07",
+      "tags": [
+        "MKT News",
+        "BA.O",
+        "Impact bullish"
+      ],
+      "text": "Boeing selected by the U.S. Space Force to expand military communications capabilities."
+    },
+    {
+      "id": "4955748",
+      "time": "2026-06-26 02:10:59",
+      "tags": [
+        "公司"
+      ],
+      "text": "波音公司：MUOS衛星壽命延長合同價值高達20億美元，包括兩顆窄帶通訊衛星，首顆將於2031年交付。"
+    },
+    {
+      "id": "4955746",
+      "time": "2026-06-26 02:10:38",
+      "tags": [
+        "國際"
+      ],
+      "text": "波音：波音獲美國太空軍選定，負責擴大全球安全軍事通訊覆蓋範圍。"
+    },
     {
       "id": "mkt:019efff9-f134-7dd8-b123-c5be13f55249",
       "time": "2026-06-26 02:10:30",
@@ -154778,40 +154920,6 @@
         "Importance 1"
       ],
       "text": "Energy Commodities Updates: Methanol Drops by 3.72% — Top commodity losers are Methanol (-3.72%), Natural Gas EU (-2.83%), Natural Gas UK (-2.78%), Crude Oil WTI (-1.02%) and Brent Crude Oil (-0.61%). Gains are led by Natural gas (2.17%) and Gasoline (1.66%)."
-    },
-    {
-      "id": "4944220",
-      "time": "2026-06-19 02:14:13",
-      "tags": [
-        "國際"
-      ],
-      "text": "ANTHROPIC向美國商務部長霍華德·盧特尼克提交提案，尋求解除美國對強大“MYTHOS”、“FABLE”AI模型的禁令。"
-    },
-    {
-      "id": "4944219",
-      "time": "2026-06-19 02:12:30",
-      "tags": [
-        "其他"
-      ],
-      "text": "Claude：Claude Code現在支援Artifacts。"
-    },
-    {
-      "id": "mkt:019edbee-9626-7dd8-b086-9dba48be27de",
-      "time": "2026-06-19 02:11:46",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Trump urged Republicans to immediately abolish the Senate filibuster or pass the Save America Act, saying Democrats are advancing state-by-state and pocketing 'wins'."
-    },
-    {
-      "id": "mkt:019edbee-00b0-7dd8-b086-92a5a4ca272f",
-      "time": "2026-06-19 02:11:08",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "The Trump Trade"
-      ],
-      "text": "President Trump said Utah must be prevented from adopting all-mail voting, warning that if mishandled it would give Democrats a large advantage and claiming their policies are so absurd that cheating has become their only route to victory."
     }
   ]
 }
