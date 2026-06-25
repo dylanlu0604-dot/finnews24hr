@@ -1,7 +1,239 @@
 {
-  "updated": "2026-06-25 16:05:47",
-  "count": 16957,
+  "updated": "2026-06-25 16:09:48",
+  "count": 16967,
   "items": [
+    {
+      "id": "mkt:019efdd3-755b-7dd8-b112-bbf6ad4020ae",
+      "time": "2026-06-25 16:09:14",
+      "tags": [
+        "MKT News",
+        "DAX",
+        "Impact bearish",
+        "EURUSD",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "VDMA (German Mechanical Engineering Association) expects the sector to record no growth in 2026."
+    },
+    {
+      "id": "4954553",
+      "time": "2026-06-25 16:09:07",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【德爾股份：電池阻燃產品已向歐洲客戶批次供貨】德爾股份6月25日在互動平臺表示，公司的電池阻燃產品可以有效延緩電池內部火焰蔓延到外部的時間，對於動力電池的安全防護起到積極作用，該產品已向歐洲客戶批次供貨，公司也在積極拓展國內客戶。"
+    },
+    {
+      "id": "4954552",
+      "time": "2026-06-25 16:09:02",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【港股收盤：恒生指數跌1.432%，恒生科技指數跌1.632%】周大福跌4.617%，中國銀行跌5.503%，中國宏橋跌5.693%，洛陽鉬業跌7.995%，老鋪黃金跌8.096%，攜程集團-S跌10.690%，舜宇光學科技跌11.594%。"
+    },
+    {
+      "id": "mkt:019efdd3-2e9e-7dd8-b112-b6511d545917",
+      "time": "2026-06-25 16:08:56",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Hang Seng Index",
+        "Impact bearish",
+        "02382.HK",
+        "09961.HK"
+      ],
+      "text": "Hong Kong stocks closed lower: the Hang Seng Index fell 1.43% and the Hang Seng TECH Index dropped 1.63%. Base-metals and robotics names led declines; Sunny Optical (02382.HK) fell over 11%, Zhaojin Mining (01818.HK) dropped more than 8%. Trip.com Group-S (09961.HK) slid about 11% post-earnings."
+    },
+    {
+      "id": "4954551",
+      "time": "2026-06-25 16:08:52",
+      "tags": [
+        "其他"
+      ],
+      "text": "德國機械工程工業協會VDMA：預計2026年行業不再增長。"
+    },
+    {
+      "id": "4954550",
+      "time": "2026-06-25 16:08:47",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "亞馬遜今年將在印度新增20個以上履約中心。"
+    },
+    {
+      "id": "4954549",
+      "time": "2026-06-25 16:08:22",
+      "tags": [
+        "公司"
+      ],
+      "text": "【漢馬科技：免去鄭志強總經理職務，聘任林明世為公司總經理】漢馬科技6月25日公告，公司董事會免去鄭志強總經理職務，並聘任鄭志強為公司常務副總經理。同時，公司董事會同意聘任林明世為公司總經理。上述人員任期自本次董事會透過之日起至公司第九屆董事會任期屆滿之日止。"
+    },
+    {
+      "id": "4954548",
+      "time": "2026-06-25 16:08:20",
+      "tags": [
+        "公司"
+      ],
+      "text": "【東星醫療：擬90%控股武漢醫佳寶 重組尚待股東會審批】東星醫療公告稱，公司擬以支付現金方式受讓包仕軍及其控制的湖北天輝持有的武漢醫佳寶90%股權，預計構成重大資產重組。2026年5月12日，公司已與交易對方簽署附條件生效的《股權收購協議》。5月26日收到深交所重組問詢函並於6月13日完成回覆。截至公告披露日，本次交易相關議案尚需公司股東會審議批准及相關法律法規要求的其他審批，存在不確定性，提請投資者注意風險。"
+    },
+    {
+      "id": "mkt:019efdd2-988a-7dd8-b112-aec3ff1e0dec",
+      "time": "2026-06-25 16:08:17",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "Magnificent 7",
+        "Star Stocks",
+        "Amazon",
+        "AMZN.O",
+        "Impact bullish"
+      ],
+      "text": "Amazon (AMZN.O) said it will invest an additional $13 bln in India by 2030 to expand and support AI and cloud infrastructure."
+    },
+    {
+      "id": "4954547",
+      "time": "2026-06-25 16:08:06",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "亞馬遜：計劃額外投入130億美元，到2030年前在印度擴建並運維人工智慧與雲基礎設施。"
+    },
+    {
+      "id": "4954546",
+      "time": "2026-06-25 16:08:00",
+      "tags": [
+        "其他"
+      ],
+      "text": "馬斯克：通貨緊縮不可避免。"
+    },
+    {
+      "id": "mkt:019efdd2-0b78-7dd8-b112-a6f0f070c890",
+      "time": "2026-06-25 16:07:41",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Amazon",
+        "Market Themes",
+        "Magnificent 7"
+      ],
+      "text": "Amazon (AMZN.O) CEO Andy Jassy met Indian Prime Minister Modi and announced plans to invest $48 billion in India between 2026 and 2030."
+    },
+    {
+      "id": "4954545",
+      "time": "2026-06-25 16:07:33",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "亞馬遜宣佈2030年前將在印度投資480億美元。"
+    },
+    {
+      "id": "mkt:019efdd1-d8da-7dd8-b112-9bd2ec2b0979",
+      "time": "2026-06-25 16:07:28",
+      "tags": [
+        "MKT News",
+        "ARM.O",
+        "Impact bullish",
+        "QCOM.O"
+      ],
+      "text": "Arm (ARM.O), a supplier to Qualcomm, rose 6% in US premarket trading after Qualcomm raised its long-term revenue targets for data-center and non-handset businesses."
+    },
+    {
+      "id": "4954544",
+      "time": "2026-06-25 16:06:57",
+      "tags": [
+        "市場"
+      ],
+      "text": "高通供應商安謀股價盤前上漲6%，此前高通上調了長期資料中心及非手機業務營收目標。"
+    },
+    {
+      "id": "4954543",
+      "time": "2026-06-25 16:06:23",
+      "tags": [
+        "公司"
+      ],
+      "text": "【金融街：海倫中心CMBS成立】金融街(000402)6月25日公告，公司於6月24日順利完成金融街商業地產第3期（海倫中心）資產支援專項計劃（簡稱“海倫中心CMBS”）的發行工作。經立信會計師事務所（特殊普通合夥）驗資，海倫中心CMBS實際收到的認購資金為35.8億元，海倫中心CMBS募集專戶中的本金金額已經達到《金融街商業地產第3期（海倫中心）資產支援專項計劃說明書》約定的專項計劃目標募集規模，海倫中心CMBS於2026年6月24日正式成立。"
+    },
+    {
+      "id": "4954542",
+      "time": "2026-06-25 16:06:20",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯汽車經銷商向寶馬提起250億盧布訴訟。"
+    },
+    {
+      "id": "4954541",
+      "time": "2026-06-25 16:06:16",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "印度石油天然氣公司與英國石油簽署技術服務合同，以提高西近海盆地油田的產量。"
+    },
+    {
+      "id": "mkt:019efdd0-a125-7dd8-b112-95e9ba9c99d1",
+      "time": "2026-06-25 16:06:08",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "【China's 8+9 sectors add 373,000 new firms Jan-Apr 2026, SAMR says】The State Administration for Market Regulation said China registered 373,000 new enterprises in 8+9 industries (eight emerging and nine future sectors) in Jan-Apr 2026. Generative AI saw 34,000 new firms, up 24.9% YoY; humanoid robots added 78,000 new firms, up 13.3%; quantum information exceeded 7,000 new firms, up 8.9%."
+    },
+    {
+      "id": "4954540",
+      "time": "2026-06-25 16:05:53",
+      "tags": [
+        "國際"
+      ],
+      "text": "【第四屆中歐能源技術創新合作論壇在四川成都舉辦】6月25日，第四屆中歐能源技術創新合作論壇在四川成都舉辦，英國、冰島、芬蘭等13國代表和歐盟代表，以及中歐能源企業、行業組織、科研機構代表參加本屆論壇。中國國家能源局副局長何洋出席論壇並致辭。中歐代表圍繞清潔能源技術創新、產業鏈供應鏈協同、綠色電力消費與國際互認等重點議題深入交流。論壇期間成功釋出多項中歐能源合作優秀成果，包括首批19項中歐能源合作典型案例、“RE100·中國綠色電力園區”倡議、《綠電（零碳）園區綠電供應方式方案集》等。論壇期間，同步舉辦了英國、冰島、芬蘭主題日及氫能、智慧能源、儲能、風電、生物質能等專題分論壇。"
+    },
+    {
+      "id": "mkt:019efdd0-4235-7dd8-b112-8e59d525352f",
+      "time": "2026-06-25 16:05:44",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "【JP Morgan: Memory remains a strategic asset for AGI】JP Morgan analysts said on Thursday that memory shortages are being driven by explosive demand for AI factory infrastructure, and that memory’s role as a strategic asset for artificial general intelligence (AGI) remains unchanged. They added there are few signs of demand destruction or of reductions in memory intensity that would relieve the current supply-demand imbalance."
+    },
+    {
+      "id": "4954539",
+      "time": "2026-06-25 16:05:43",
+      "tags": [
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "【加密貨幣連續殺跌】6月25日，比特幣一度跌破6萬美元，盤中跌幅一度超過3%。截至發稿，比特幣下跌1.80%報6.16萬美元；以太坊、BNB、XRP、Solana、XLM、艾達幣等紛紛跟跌。 CoinGlass資料顯示，24小時內，加密貨幣全網爆倉金額接近10億美元，爆倉人數超過17萬人。其中，多單爆倉近8億美元。 市場分析人士指出，比特幣近期帶頭殺跌，主要受兩大利空打擊：一是價值近100億美元的比特幣期權將於明日（6月26日）到期；二是，美聯儲加息預期升溫引發美元走強，以比特幣為首的風險資產因流動性收緊而承壓。（券商中國）"
+    },
+    {
+      "id": "mkt:019efdcf-ff80-7dd8-b112-8715ca6ac6a3",
+      "time": "2026-06-25 16:05:27",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "EURUSD",
+        "Impact mixed"
+      ],
+      "text": "Germany plans to issue €47 bln of money-market instruments in Q3."
+    },
+    {
+      "id": "4954538",
+      "time": "2026-06-25 16:05:25",
+      "tags": [
+        "國際"
+      ],
+      "text": "【報道：歐盟趕在特朗普期限前敲定美歐貿易協議】歐盟已完成對美貿易協議的最終審批，協定即將正式生效。歐盟寄望該協議能在持續經貿緊張局勢下穩住雙邊貿易基本盤。歐盟成員國於週四表決透過這份協議，持續近一年、幾度讓協定瀕臨作廢的核準拉鋸就此落幕。根據協議條款，歐盟將取消美國工業品及部分農產品進口關稅，換取美方對歐盟輸美商品設定 15% 關稅上限。協定落地有望立刻緩和緊繃的歐美經貿關係。此前美國總統特朗普曾放話，若歐盟無法在 7 月 4 日前完成審批，將對歐盟加徵新一輪關稅。但雙方在鋼鋁關稅、科技監管等議題上分歧仍深，未來數月相關矛盾仍可能衝擊雙邊經貿關係。"
+    },
     {
       "id": "te:markets:561818",
       "time": "2026-06-25 16:05:02",
@@ -154619,138 +154851,6 @@
         "Importance 1"
       ],
       "text": "Agricultural Commodities Updates: Rubber Drops by 1.47% — Top commodity losers are Rubber (-1.47%) and Cotton (-0.53%). Gains are led by Oat (1.06%), Rice (0.76%) and Wheat (0.56%)."
-    },
-    {
-      "id": "4942887",
-      "time": "2026-06-18 16:09:46",
-      "tags": [
-        "公司"
-      ],
-      "text": "【龍建股份：起訴拉薩城投追討6407.34萬元工程款】龍建股份公告稱，為維護公司和股東利益，公司就與拉薩市城市建設投資經營有限公司的建設工程施工合同糾紛，向西藏自治區拉薩市城關區人民法院提起訴訟，涉案金額6407.34萬元。目前一審法院已立案，公司為原告。鑑於案件尚未開庭，暫無法判斷對公司本期或期後利潤的具體影響，公司將持續關注並及時披露進展。"
-    },
-    {
-      "id": "4942886",
-      "time": "2026-06-18 16:09:03",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "【港股收盤：恒生指數跌1.593%，恒生科技指數跌1.386%】小鵬集團-W跌4.311%，中國宏橋跌4.882%，信義玻璃跌5.436%，中國人壽跌6.933%，龍湖集團跌7.171%，華潤置地跌7.741%，中國海外發展跌8.926%。"
-    },
-    {
-      "id": "mkt:019ed9c6-80b1-7dd8-b073-49b6d1c6da7c",
-      "time": "2026-06-18 16:08:45",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "CNH"
-      ],
-      "text": "【PBOC: Financial institutions' total assets 556.34 tln yuan at end-Q1, up 8.8% YoY】Preliminary PBOC data: China's financial institutions' total assets were 556.34 tln yuan at end-Q1 2026, up 8.8% YoY. Bank assets 494.72 tln yuan (+8.0% YoY); securities firms 19.15 tln yuan (+25.4%); insurers 42.47 tln yuan (+12.2%). Financial institutions' liabilities 509.53 tln yuan (+9.0% YoY): bank liabilities 455.69 tln yuan (+8.1%); securities liabilities 15.14 tln yuan (+30.9%); insurance liabilities 38.69 tln yuan (+12.7%)."
-    },
-    {
-      "id": "4942885",
-      "time": "2026-06-18 16:08:43",
-      "tags": [
-        "其他"
-      ],
-      "text": "【全國夏播糧食已過六成】農業農村部18日最新農情排程顯示，全國夏播糧食過六成，其中黃淮海地區播種近八成，長江中下游地區近四成，西南地區過六成，西北地區過半。分作物看，夏玉米播種過八成，中稻播栽過七成，夏大豆過半。(新華社)"
-    },
-    {
-      "id": "4942884",
-      "time": "2026-06-18 16:08:27",
-      "tags": [
-        "公司"
-      ],
-      "text": "【江蘇索普：公司及相關人員因財務資料披露不準確收警示函】江蘇索普公告稱，公司於2026年6月17日收到江蘇證監局警示函。公司2026年4月18日披露前期會計差錯更正公告，對2022 - 2024年度財務報表追溯調整，相關年度報告財務資料披露不準確。總經理陳志林、時任財務總監崔坤族對違規行為負有主要責任。公司及相關人員應10個工作日內提交書面報告，可在規定時間內申請行政複議或提起訴訟。本次監管措施不影響公司正常經營。"
-    },
-    {
-      "id": "mkt:019ed9c6-0315-7dd8-b073-434cf9d17c8d",
-      "time": "2026-06-18 16:08:13",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Pakistan PM signs US-Iran memorandum as mediator】On June 18 local time the Pakistani prime minister's office confirmed Prime Minister Shehbaz Sharif signed a US‑Iran memorandum of understanding as mediator; the document had earlier been signed by US President Trump and Iranian President Pezeshkian."
-    },
-    {
-      "id": "4942883",
-      "time": "2026-06-18 16:08:01",
-      "tags": [
-        "國際"
-      ],
-      "text": "【德國稱美國縮減在歐洲軍力需要路線圖 以防出現防衛缺口】德國國防部長鮑里斯·皮斯托裡烏斯呼籲美國更好地協調削減在歐洲軍力的計劃，以防止歐洲大陸在發生武裝衝突時處於孤立無援的狀態。他週四在布魯塞爾北約總部發表講話時表示，華盛頓將把重點轉向印太“是可以預見的”，歐洲盟友也準備承擔更多自身常規威懾和防禦的責任。他在北約國防部長會議召開前對記者說：“現在最關鍵的問題是如何制定路線圖，協調各個步驟。”美國防長皮特·海格塞斯也將出席此次會議。“如果真的需要由誰來接替美國人的哪些任務，目前還沒有決定。”皮斯托裡烏斯說，“但有一點很明確：我們必須協調這些責任；我們必須同步這些責任，以防止歐洲在常規領域出現危險的軍力缺口。”"
-    },
-    {
-      "id": "te:economy:560016",
-      "time": "2026-06-18 16:07:53",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Indonesia",
-        "Loan Growth",
-        "Importance 1"
-      ],
-      "text": "Indonesia Loan Growth Hits Near 2-Year High — Indonesia's loan growth rose by 11.51% year-on-year in May 2026, accelerating from 9.98% in the previous month. It marked the fastest annual growth since July 2024, primarily driven by investment credit (21.95%), working capital credit (8.09%), and consumer credit (5.89%). Banking resilience remained strong despite risks stemming from the Middle East conflict, supported by ample liquidity, solid capital buffers, and low credit risk. Looking ahead, Bank Indonesia expects credit growth to remain within the 8%–12% range in 2026, backed by Rp2,576 trillion in undisbursed loans, equivalent to 22.41% of total credit limits. Lending prospects are also supported by strong funding and liquidity conditions, with the AL/DPK ratio at 24.74% and third-party funds (DPK) rising 13.47% year-on-year in May. Meanwhile, lending conditions remained favorable, with the average lending rate at 8.72% and the one-month deposit rate at 4.26%."
-    },
-    {
-      "id": "4942882",
-      "time": "2026-06-18 16:07:17",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "印尼央行副行長艾達：存在通脹上升風險，但仍將處於央行目標區間內。"
-    },
-    {
-      "id": "4942881",
-      "time": "2026-06-18 16:07:14",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "印尼央行副行長艾達：通脹風險因素包括燃油價格調整以及厄爾尼諾現象的影響。"
-    },
-    {
-      "id": "4942880",
-      "time": "2026-06-18 16:07:09",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【安凱微：目前個別品類的晶片需求訂單確實很旺盛】有投資者問安凱微，2026年晶片廠商都在大幅上漲價格，華強北市場低端白牌晶片都是一天一個價的上漲且嚴重缺貨，請問公司產品漲價幅度多少？公司晶片有沒有供不應求的情況？安凱微在互動平臺表示，不同品類的漲價幅度不同，目前個別品類的需求訂單確實很旺盛，公司也一直保持實時關注，會結合上下游情況做好供應鏈協調及產品交付工作。"
-    },
-    {
-      "id": "4942879",
-      "time": "2026-06-18 16:06:58",
-      "tags": [
-        "公司"
-      ],
-      "text": "【普門科技：取得糖化血紅蛋白測定試劑盒註冊證，有效期至2031年】普門科技公告，公司於近期收到1個廣東省藥品監督管理局頒發的《中華人民共和國醫療器械註冊證（體外診斷試劑）》，產品為糖化血紅蛋白測定試劑盒（高效液相色譜法），註冊分類II類，註冊證編號粵械注準20262400629，有效期至2031年6月15日，用於定量檢測人全血中糖化血紅蛋白（HbA1c）的含量，臨床上用於糖尿病的輔助診斷和血糖水平的監控。"
-    },
-    {
-      "id": "mkt:019ed9c4-0a92-7dd8-b073-3967797106d8",
-      "time": "2026-06-18 16:06:04",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Themes",
-        "Chip Wars",
-        "Magnificent 7",
-        "Star Stocks",
-        "Apple",
-        "INTC.O",
-        "Impact bullish",
-        "AAPL.O"
-      ],
-      "text": "Intel (INTC.O) shares were up 6.6% pre-market; Trump said Apple will work with the company on chip design and manufacturing."
-    },
-    {
-      "id": "4942878",
-      "time": "2026-06-18 16:05:56",
-      "tags": [
-        "其他"
-      ],
-      "text": "【紙尿褲甲醯胺或來自油墨】公開資料顯示，甲醯胺是一種有機溶劑，也是化工生產中非常常見的一種原料，主要用作發泡劑等。記者今日從多家紙尿褲相關企業瞭解到，紙尿褲主要原料是無紡布、高分子吸水樹脂、鬆緊橡皮筋、熱熔膠等。原則上，如果採取正規工藝和原材料，紙尿褲生產過程中應該不出現甲醯胺。有從事個人護理行業人士對記者表示，現行的嬰兒紙尿褲國標中沒有單獨針對甲醯胺這個成分進行限定。該成分的出現，有可能是來自紙尿褲上的油墨，其使用的有機溶劑沒有完全被揮發掉。（第一財經）"
     }
   ]
 }
