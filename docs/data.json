@@ -1,7 +1,97 @@
 {
-  "updated": "2026-06-25 14:27:47",
-  "count": 16997,
+  "updated": "2026-06-25 14:31:47",
+  "count": 16996,
   "items": [
+    {
+      "id": "4954266",
+      "time": "2026-06-25 14:31:00",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【A股培育鑽石板塊異動拉昇】恆林股份觸及漲停，沃爾德、國機精工、黃河旋風、英諾鐳射、四方達、楚江新材跟漲。"
+    },
+    {
+      "id": "4954265",
+      "time": "2026-06-25 14:31:00",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【A股金剛石板塊異動拉昇】ST東尼觸及漲停，沃爾德、國機精工、黃河旋風、四方達、高測股份、力量鑽石跟漲。"
+    },
+    {
+      "id": "4954264",
+      "time": "2026-06-25 14:30:34",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "韓國基準股指KOSPI（程式碼.KS11）收盤上漲5.8%。"
+    },
+    {
+      "id": "4954263",
+      "time": "2026-06-25 14:30:30",
+      "tags": [
+        "其他"
+      ],
+      "text": "【墨西哥將向委內瑞拉地震災區提供援助】墨西哥總統辛鮑姆24日透過社交媒體表示，委內瑞拉已請求墨方提供專業救援和醫療衛生人員支援，她已指示有關部門準備必要援助。墨西哥外長羅伯託·貝拉斯科·阿爾瓦雷斯當天透過社交媒體表示，墨西哥將向委方提供一切必要支援，並強調墨方將始終與委內瑞拉人民共同應對當前困難局面。（新華社）"
+    },
+    {
+      "id": "te:markets:561771",
+      "time": "2026-06-25 14:30:15",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Japan",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The Nikkei 225 Index Closes 4.60% Higher — The Nikkei 225 Index went up by 3185 points or 4.60 percent on Thursday to close at 72360 points. The rise was led by Advantest (14.90%), Taiyo Yuden (11.70%) and Screen Holdings (8.99%)."
+    },
+    {
+      "id": "4954262",
+      "time": "2026-06-25 14:30:10",
+      "tags": [
+        "其他"
+      ],
+      "text": "港股智譜(02513.HK)漲超10%，成交額超38億港元。"
+    },
+    {
+      "id": "mkt:019efd78-ab74-7dd8-b10e-caaf123b8060",
+      "time": "2026-06-25 14:30:04",
+      "tags": [
+        "MKT News",
+        "02513.HK",
+        "Impact bullish"
+      ],
+      "text": "Hong Kong-listed Zhipu (02513.HK) rose more than 10%; trading turnover exceeded HK$3.8 bln."
+    },
+    {
+      "id": "4954261",
+      "time": "2026-06-25 14:28:39",
+      "tags": [
+        "公司"
+      ],
+      "text": "【廈門集美資本投資合夥企業登記成立 出資額10億】天眼查App顯示，近日，廈門市集美資本投資合夥企業（有限合夥）成立，執行事務合夥人為廈門市集美創業投資有限公司，出資額10億人民幣，經營範圍為以自有資金從事投資活動。合夥人資訊顯示，該合夥企業由廈門集美產業投資集團有限公司、廈門市集美創業投資有限公司共同出資。"
+    },
+    {
+      "id": "4954260",
+      "time": "2026-06-25 14:28:26",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "南向資金淨賣出額達20億港元。"
+    },
+    {
+      "id": "4954259",
+      "time": "2026-06-25 14:27:41",
+      "tags": [
+        "其他"
+      ],
+      "text": "【騰訊作業系統層級AI助手Marvis iOS版上線】6月23日，騰訊旗下的作業系統層級AI助手Marvis馬維斯移動端APP iOS版本正式登陸蘋果App Store。至此，繼5月20日釋出Android端、Windows端和macOS端後，Marvis完成了移動端和PC端的全量覆蓋。"
+    },
     {
       "id": "4954258",
       "time": "2026-06-25 14:26:37",
@@ -155123,120 +155213,6 @@
         "MKT News"
       ],
       "text": "PHILIPPINE C.BANK: latest forecast shows inf path rising."
-    },
-    {
-      "id": "mkt:019ed96d-a444-7dd8-b06e-a077d80579fe",
-      "time": "2026-06-18 14:31:41",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Japan & APAC",
-        "Nikkei 225",
-        "Impact bullish"
-      ],
-      "text": "【Japan and South Korea stocks close at record highs】On June 18, Japan's Nikkei 225 closed up 1.65% at 71,053.49, rising 1,151.24 points to a record closing high. South Korea's KOSPI closed up 2.35% at 9,072.33, up 208.09 points to a record closing high."
-    },
-    {
-      "id": "4942607",
-      "time": "2026-06-18 14:31:27",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "菲律賓央行：適度的貨幣政策行動也將與財政措施形成互補。"
-    },
-    {
-      "id": "4942606",
-      "time": "2026-06-18 14:31:25",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "菲律賓央行：通脹壓力仍居高不下。"
-    },
-    {
-      "id": "4942605",
-      "time": "2026-06-18 14:30:57",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "菲律賓央行：預計2026年和2027年通脹率將突破4%的目標上限。"
-    },
-    {
-      "id": "4942604",
-      "time": "2026-06-18 14:30:37",
-      "tags": [
-        "市場"
-      ],
-      "text": "日經225指數創下收盤新高。"
-    },
-    {
-      "id": "4942603",
-      "time": "2026-06-18 14:30:30",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "【上海閔行發文支援長三角製造業研發集聚區發展，最高獎勵2000萬】2026年6月18日，記者從上海市閔行區獲悉，該區近日出臺《關於打造長三角製造業研發集聚區的支援政策（試行）》，自2026年6月19日起施行，有效期至2029年6月18日。該政策的支援物件為：在虹橋國際中央商務區閔行部分及其他重點輻射拓展區內打造的長三角製造業研發集聚區，實體化運營的研發機構、特色研發經濟樓宇，以及舉辦高等級科技創新活動的各類市場主體。具體來看，在支援長三角研發經濟集聚發展、持續打造一批具有長三角製造業研發功能的特色研發經濟樓宇方面，政策提出根據研發經濟生態建設、運營管理水平、企業數量、科技屬性，分三年給予樓宇運營方研發功能提升、建設運營獎勵，每年最高2000萬元。同時，政策支援研發機構為開展基礎研究、應用基礎研究、關鍵核心技術攻關、產業共性技術研發與服務等購置研發裝置和基礎軟體，根據實際發生費用最高50%，給予上限2000萬元支援。（澎湃新聞）"
-    },
-    {
-      "id": "te:markets:559950",
-      "time": "2026-06-18 14:30:14",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Japan",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The Nikkei 225 Index Closes 1.80% Higher — The Nikkei 225 Index went up by 1256 points or 1.80 percent on Thursday to close at 71158 points. The rise was led by Murata Manufacturing (12.38%), Ajinomoto (8.41%) and Recruit Holdings (6.89%)."
-    },
-    {
-      "id": "te:economy:559948",
-      "time": "2026-06-18 14:29:08",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Switzerland",
-        "Balance of Trade",
-        "Importance 2"
-      ],
-      "text": "Swiss Trade Surplus Widens to Over 1-Year High — Switzerland’s trade surplus widened sharply to CHF 5.6 billion in May 2026 from an upwardly revised CHF 3.3 billion in the previous month, marking the largest surplus since April 2025. Exports climbed 3.4% month-on-month to a more than one-year high of CHF 25.4 billion, driven mainly by chemical and pharmaceutical products (25.7%) and jewellery and precious metal goods (14.7%), despite a 4% decline in watch. Exports to Europe rose the most, up 18.5%, with shipments to Slovenia more than doubling (111.8%), while exports to North America increased 10.3%, led by the US (11.5%). Meanwhile, imports rose 3.4% from a month earlier to a three-month high of CHF 19.8 billion, led by higher purchases of chemical and pharmaceutical products (11.7%) and machinery, electronics and equipment (1.1%). By region, imports increased from Europe (5.9%) and the US (11.2%). In contrast, imports declined from Asia (-2.6%), led by China (-4.3%), Japan (-19.6%), and Hong Kong (-24.4%)."
-    },
-    {
-      "id": "mkt:019ed96a-c4d9-7dd8-b06e-9ff5637306b1",
-      "time": "2026-06-18 14:28:33",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK",
-        "GBPUSD",
-        "Impact bearish"
-      ],
-      "text": "【UK labor market shows signs of stabilizing; markets pare Bank of England rate‑hike bets】ONS data hours before the Bank of England decision show May employment +2,000 versus economists' -23,000 forecast; April employment decline revised to -53,000 from -100,000. Three‑month unemployment to April eased to 4.9% and vacancies fell to their lowest since early 2021. Weaker‑than‑expected UK inflation yesterday and a US‑Iran ceasefire that helped push global energy prices sharply lower have together cooled market pricing for further BoE hikes. Markets largely expect the Bank Rate to be held at 3.75% later today."
-    },
-    {
-      "id": "4942602",
-      "time": "2026-06-18 14:28:08",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【美伊臨時和平協議生效，歐洲天然氣價格跌至兩個月低點】美伊臨時和平協議正式落地後，歐洲天然氣價格跌至近兩月新低，市場焦點轉向霍爾木茲海峽能源運力恢復速度。週四基準天然氣期貨最大跌幅達 4.6%，創 4 月 21 日以來合約最低價格。市場看好這條關鍵航道供油供氣將快速恢復，本週氣價累計下跌超 10%。美國總統唐納德・特朗普在巴黎近郊凡爾賽宮簽署該協議，席間與法國總統埃馬紐埃爾・馬克龍共進晚餐。協議內容包括快速重開霍爾木茲海峽、立即豁免伊朗原油相關制裁。目前尚不清楚伊朗是否已啟動全面恢復海峽通航的相關舉措。"
-    },
-    {
-      "id": "mkt:019ed96a-5a01-7dd8-b06e-9322fd1125d0",
-      "time": "2026-06-18 14:28:06",
-      "tags": [
-        "MKT News",
-        "CNH",
-        "Impact bullish",
-        "EURUSD",
-        "DXY",
-        "Impact bearish"
-      ],
-      "text": "【China Customs director Sun Meijun meets Germany's federal minister for agriculture and food Alois Reiner】On June 17, China Customs director Sun Meijun met with Germany's federal minister for agriculture and food Alois Reiner. They exchanged views on implementing bilateral leaders' consensus, expanding agri-food trade volumes and strengthening cooperation on animal and plant disease prevention and control."
     }
   ]
 }
