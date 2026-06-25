@@ -1,7 +1,672 @@
 {
-  "updated": "2026-06-25 20:28:21",
-  "count": 16974,
+  "updated": "2026-06-25 20:32:31",
+  "count": 17014,
   "items": [
+    {
+      "id": "em:jjsj_mgsj:202606253783287830",
+      "time": "2026-06-25 20:31:33",
+      "tags": [
+        "經濟數據",
+        "美國"
+      ],
+      "text": "美國第一季度GDP季調後環比折年率終值為2.1%，預估為1.6%。"
+    },
+    {
+      "id": "mkt:019efec3-8c46-7dd8-b11b-fcec97247dc0",
+      "time": "2026-06-25 20:31:28",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "US Economy",
+        "DXY",
+        "Impact bearish",
+        "US10Y",
+        "Impact bullish",
+        "S&P500",
+        "Impact mixed"
+      ],
+      "text": "US May durable goods orders fell 4.5% MoM, the largest monthly decline since June 2025."
+    },
+    {
+      "id": "4955233",
+      "time": "2026-06-25 20:31:27",
+      "tags": [
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "美國短期利率期貨在經濟資料公佈後上漲，交易員縮減對美聯儲加息的押注。"
+    },
+    {
+      "id": "4955232",
+      "time": "2026-06-25 20:31:21",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國PCE資料公佈後，現貨黃金短線拉昇近30美元，現報4010美元/盎司。"
+    },
+    {
+      "id": "mkt:019efec3-621a-7dd8-b11b-f62baffe0b2d",
+      "time": "2026-06-25 20:31:17",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "After US PCE release, spot gold rallied nearly $30 intraday to $4,010/oz."
+    },
+    {
+      "id": "em:jjsj_mgsj:202606253783287655",
+      "time": "2026-06-25 20:31:13",
+      "tags": [
+        "經濟數據",
+        "美國"
+      ],
+      "text": "美國上週首次申領失業救濟人數為215,000人；預估為225,000人。"
+    },
+    {
+      "id": "4955231",
+      "time": "2026-06-25 20:31:07",
+      "tags": [
+        "資料",
+        "國際"
+      ],
+      "text": "美國第一季度GDP季調後環比折年率終值為2.1%，預估為1.6%。"
+    },
+    {
+      "id": "mkt:019efec3-371e-7dd8-b11b-ee17052d810d",
+      "time": "2026-06-25 20:31:06",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy",
+        "S&P500",
+        "Impact bullish"
+      ],
+      "text": "US corporate profits rose 0.5% annualized QoQ in Q1 (final), versus -0.4% previously."
+    },
+    {
+      "id": "mkt:019efec3-1b08-7dd8-b11b-e76edee679ef",
+      "time": "2026-06-25 20:30:59",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | Corporate Profits Annualized Final (QoQ) (Q1) | actual 0.5% | previous -0.4%"
+    },
+    {
+      "id": "mkt:019efec3-0cee-7dd8-b11b-dd4d7d2d6324",
+      "time": "2026-06-25 20:30:56",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "S&P500",
+        "Impact bullish",
+        "US10Y",
+        "Impact bearish",
+        "DXY"
+      ],
+      "text": "US real personal consumption expenditures rose 0.3% MoM in May; April's reading revised down from 0.1% to 0.0%."
+    },
+    {
+      "id": "mkt:019efec3-03f1-7dd8-b11b-d5ab41c66001",
+      "time": "2026-06-25 20:30:53",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "Impact bearish",
+        "S&P500"
+      ],
+      "text": "US Q1 GDP price index final reading 3.6% (consensus 3.5%; prior 3.5%)."
+    },
+    {
+      "id": "mkt:019efec2-f4c1-7dd8-b11b-cffa66b728ed",
+      "time": "2026-06-25 20:30:49",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy"
+      ],
+      "text": "U.S. PCE price index YoY 4.1% in May, matching consensus 4.1%, up from prior 3.8%."
+    },
+    {
+      "id": "mkt:019efec2-f0ce-7dd8-b11b-c440ebe8b193",
+      "time": "2026-06-25 20:30:47",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "US Economy"
+      ],
+      "text": "US Q1 core PCE price index, final annualized QoQ 4.4%; consensus 4.4%, prior 4.4%."
+    },
+    {
+      "id": "mkt:019efec2-ee75-7dd8-b11b-b2baf9268ecd",
+      "time": "2026-06-25 20:30:47",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "Impact bearish",
+        "S&P500"
+      ],
+      "text": "US May core capital goods orders (nondefense, ex-aircraft) +1.6% MoM vs +0.6% expected; April revised to -0.7% from -1.0%."
+    },
+    {
+      "id": "mkt:019efec2-ee18-7dd8-b11b-a89a5f12c845",
+      "time": "2026-06-25 20:30:47",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | Personal Consumption Expenditures (MoM) (May) | actual 0.3% | previous 0.1%"
+    },
+    {
+      "id": "mkt:019efec2-ece6-7dd8-b11b-a7008b346d3b",
+      "time": "2026-06-25 20:30:47",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bearish",
+        "XAUUSD",
+        "Impact bullish",
+        "S&P500"
+      ],
+      "text": "US May PCE price index m/m 0.4% vs. 0.5% expected; prior 0.4%."
+    },
+    {
+      "id": "mkt:019efec2-ea2a-7dd8-b11b-97b6ef4bac66",
+      "time": "2026-06-25 20:30:45",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "US Economy",
+        "DXY",
+        "Impact bullish",
+        "USDJPY",
+        "EURUSD",
+        "Impact bearish"
+      ],
+      "text": "US core PCE price index YoY for May 3.4%, matching the 3.4% estimate and up from 3.3% in April."
+    },
+    {
+      "id": "mkt:019efec2-e8b3-7dd8-b11b-8b80204b6afd",
+      "time": "2026-06-25 20:30:45",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "US Economy",
+        "S&P500",
+        "Impact bearish",
+        "US10Y",
+        "Impact bullish",
+        "DXY"
+      ],
+      "text": "US Q1 real personal consumption expenditures (PCE) QoQ final +0.5% (prior +1.4%)."
+    },
+    {
+      "id": "mkt:019efec2-efa2-7dd8-b11b-beb9349e4f86",
+      "time": "2026-06-25 20:30:43",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "US Economy"
+      ],
+      "text": "【US core PCE YoY edges up, in line with expectations】US core PCE price index YoY for May rose to 3.4%, matching expectations and the highest reading since October 2023."
+    },
+    {
+      "id": "mkt:019efec2-e770-7dd8-b11b-807f9886985e",
+      "time": "2026-06-25 20:30:42",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "US Economy",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "Impact bearish",
+        "S&P500",
+        "Impact mixed"
+      ],
+      "text": "US May personal spending MoM 0.7% vs 0.6% expected; April revised to 0.4% from 0.5%."
+    },
+    {
+      "id": "mkt:019efec2-e642-7dd8-b11b-796354e1eb79",
+      "time": "2026-06-25 20:30:42",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "US Q1 PCE price index final, annualized quarterly rate 4.6% vs 4.5% expected, 4.5% prior."
+    },
+    {
+      "id": "mkt:019efec2-e4b4-7dd8-b11b-723083e0e429",
+      "time": "2026-06-25 20:30:42",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "US Economy",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "Impact bearish",
+        "S&P500"
+      ],
+      "text": "US Q1 real GDP final annualized QoQ 2.1% vs 1.60% expected; prior 1.60%."
+    },
+    {
+      "id": "mkt:019efec2-e385-7dd8-b11b-6a3d9f725125",
+      "time": "2026-06-25 20:30:42",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy",
+        "DXY",
+        "Impact bullish",
+        "S&P500",
+        "US10Y",
+        "Impact bearish"
+      ],
+      "text": "US Q1 final sales, annualized QoQ (final) 1.9% — expected 1.5%, prior 1.5%."
+    },
+    {
+      "id": "mkt:019efec2-e322-7dd8-b11b-62d4de820430",
+      "time": "2026-06-25 20:30:42",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy"
+      ],
+      "text": "US 4-week moving average of initial jobless claims for week ended June 20: 224,250; prior revised from 223,250 to 223,500."
+    },
+    {
+      "id": "mkt:019efec2-eb59-7dd8-b11b-9c4053c97d00",
+      "time": "2026-06-25 20:30:41",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "US Economy",
+        "US10Y",
+        "Impact bullish",
+        "DXY",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "U.S. core PCE price index, May MoM +0.3% (consensus 0.30%); April revised up to +0.3% from +0.2%."
+    },
+    {
+      "id": "mkt:019efec2-d96f-7dd8-b11b-595621619b4b",
+      "time": "2026-06-25 20:30:41",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "EURUSD",
+        "Impact bearish"
+      ],
+      "text": "US May personal income MoM +0.7% (exp. +0.4%; prior 0.0%)."
+    },
+    {
+      "id": "mkt:019efec2-d65a-7dd8-b11b-528378db8158",
+      "time": "2026-06-25 20:30:41",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy",
+        "S&P500",
+        "Impact bearish",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact mixed"
+      ],
+      "text": "US continuing unemployment claims for the week ended June 13: 1.821 mln (consensus 1.800 mln). Prior week revised from 1.81 mln to 1.800 mln."
+    },
+    {
+      "id": "mkt:019efec2-d44a-7dd8-b11b-49a211e1dd4d",
+      "time": "2026-06-25 20:30:37",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "Impact bearish"
+      ],
+      "text": "US May durable goods orders ex-transportation MoM 1.3% vs 0.6% expected; prior revised to 1.4% from 1.1%."
+    },
+    {
+      "id": "4955230",
+      "time": "2026-06-25 20:30:36",
+      "tags": [
+        "資料",
+        "焦點",
+        "國際"
+      ],
+      "text": "【美國核心PCE年率小幅走高 符合市場預期】美國5月核心PCE物價指數年率錄得3.4%，符合市場預期，為2023年10月以來新高。美國5月PCE物價指數年率 4.1%，預期4.1%，前值3.80%。"
+    },
+    {
+      "id": "mkt:019efec2-bda6-7dd8-b11b-406a754e5011",
+      "time": "2026-06-25 20:30:35",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | GDP Price Index SAAR Final (Q1) | actual 3.6% | consensus 3.50% | previous 3.50%"
+    },
+    {
+      "id": "mkt:019efec2-76f1-7dd8-b11b-398ed4375047",
+      "time": "2026-06-25 20:30:17",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy",
+        "DXY",
+        "Impact bearish",
+        "S&P500",
+        "US10Y",
+        "Impact bullish"
+      ],
+      "text": "U.S. May durable-goods orders ex-defense m/m -4.6%; April revised to +8.4% from +8.1%."
+    },
+    {
+      "id": "mkt:019efec2-7576-7dd8-b11b-3182d7177119",
+      "time": "2026-06-25 20:30:17",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "US Chicago Fed National Activity Index (CFNAI) for May -0.1; previous reading revised to 0.19 from 0.14."
+    },
+    {
+      "id": "mkt:019efec2-755e-7dd8-b11b-2ce5d67adf52",
+      "time": "2026-06-25 20:30:16",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "US Economy",
+        "DXY",
+        "Impact bullish",
+        "S&P500",
+        "EURUSD",
+        "Impact bearish"
+      ],
+      "text": "US initial jobless claims for the week ending June 20: 215,000 vs. 225,000 expected; prior week revised up to 227,000 from 226,000."
+    },
+    {
+      "id": "4955229",
+      "time": "2026-06-25 20:30:10",
+      "tags": [
+        "資料",
+        "焦點",
+        "國際"
+      ],
+      "text": "美國6月20日當週首次申請失業救濟人數為21.5萬人，預計為22.5萬人。"
+    },
+    {
+      "id": "mkt:019efec2-7432-7dd8-b11b-25797a965998",
+      "time": "2026-06-25 20:30:09",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "US Economy",
+        "DXY",
+        "Impact bearish",
+        "US10Y",
+        "Impact bullish",
+        "S&P500",
+        "Impact mixed"
+      ],
+      "text": "US durable goods orders, May m/m -4.5% (consensus -4.5%); April revised to +8.5% from +8.0%."
+    },
+    {
+      "id": "mkt:019efec2-56f2-7dd8-b11b-1da0fc8a3169",
+      "time": "2026-06-25 20:30:08",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | Core PCE Price Index (YoY) (May) | actual 3.4% | consensus 3.40% | previous 3.30%"
+    },
+    {
+      "id": "mkt:019efec2-5407-7dd8-b11b-0386cf4ef81f",
+      "time": "2026-06-25 20:30:08",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | PCE Price Index (YoY) (May) | actual 4.1% | consensus 4.1% | previous 3.80%"
+    },
+    {
+      "id": "mkt:019efec2-562a-7dd8-b11b-132ba1e94611",
+      "time": "2026-06-25 20:30:08",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | Personal Income (MoM) (May) | actual 0.7% | consensus 0.40% | previous 0.00%"
+    },
+    {
+      "id": "mkt:019efec2-55d8-7dd8-b11b-0bd39818c906",
+      "time": "2026-06-25 20:30:08",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | Personal Spending (MoM) (May) | actual 0.7% | consensus 0.6% | previous 0.50%"
+    },
+    {
+      "id": "mkt:019efec2-4fed-7dd8-b11a-f9a43ddf41de",
+      "time": "2026-06-25 20:30:07",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | Core PCE Price Index SAAR Final (QoQ) (Q1) | actual 4.4% | consensus 4.40% | previous 4.40%"
+    },
+    {
+      "id": "mkt:019efec2-4fe8-7dd8-b11a-d9a553b502dc",
+      "time": "2026-06-25 20:30:07",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | PCE Price Index SAAR Final (QoQ) (Q1) | actual 4.6% | consensus 4.5% | previous 4.5%"
+    },
+    {
+      "id": "mkt:019efec2-4fe9-7dd8-b11a-e5328093e2d3",
+      "time": "2026-06-25 20:30:07",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | Core PCE Price Index (MoM) (May) | actual 0.3% | consensus 0.30% | previous 0.20%"
+    },
+    {
+      "id": "mkt:019efec2-4fea-7dd8-b11a-ee8d6fb9a952",
+      "time": "2026-06-25 20:30:07",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | PCE Price Index (MoM) (May) | actual 0.4% | consensus 0.50% | previous 0.40%"
+    },
+    {
+      "id": "mkt:019efec2-4fec-7dd8-b11a-f29e1ff52f4a",
+      "time": "2026-06-25 20:30:07",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | Personal Consumption Expenditures SAAR Final (QoQ) (Q1) | actual 0.5% | previous 1.4%"
+    },
+    {
+      "id": "mkt:019efec2-4fe5-7dd8-b11a-d38d117fee95",
+      "time": "2026-06-25 20:30:07",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | Real GDP Rate SAAR Final (QoQ) (Q1) | actual 2.1% | consensus 1.60% | previous 1.60%"
+    },
+    {
+      "id": "mkt:019efec2-4dad-7dd8-b11a-cea204fa0c82",
+      "time": "2026-06-25 20:30:07",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | Final Sales SAAR Final (QoQ) (Q1) | actual 1.9% | consensus 1.5% | previous 1.5%"
+    },
+    {
+      "id": "mkt:019efec2-4a25-7dd8-b11a-c758721fb748",
+      "time": "2026-06-25 20:30:05",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | Durable Goods Orders Excluding Aircraft and NonDefense Capital Goods (MoM) (May) | actual 1.6% | consensus 0.6% | previous -1.00%"
+    },
+    {
+      "id": "mkt:019efec2-4896-7dd8-b11a-bdebaa507d03",
+      "time": "2026-06-25 20:30:05",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | Durable Goods Orders Excluding Defense (MoM) (May) | actual -4.6% | previous 8.1%"
+    },
+    {
+      "id": "mkt:019efec2-4884-7dd8-b11a-b73d0725b722",
+      "time": "2026-06-25 20:30:05",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | Durable Goods Orders Excluding Transportation (MoM) (May) | actual 1.3% | consensus 0.6% | previous 1.10%"
+    },
+    {
+      "id": "mkt:019efec2-3bf7-7dd8-b11a-ac37a08d0396",
+      "time": "2026-06-25 20:30:02",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | Continued Jobless Claims (Jun.13) | actual 1821000K | consensus 1800000K | previous 1810000K"
+    },
+    {
+      "id": "mkt:019efec2-3b2a-7dd8-b11a-a6e1b071e293",
+      "time": "2026-06-25 20:30:02",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | Initial Jobless Claims 4-Week Average (Jun.20) | actual 224250K | previous 223250K"
+    },
+    {
+      "id": "mkt:019efec2-3b17-7dd8-b11a-9a8131c9d194",
+      "time": "2026-06-25 20:30:02",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | Initial Jobless Claims (Jun.20) | actual 215000K | consensus 225000K | previous 226000K"
+    },
+    {
+      "id": "mkt:019efec2-3aa9-7dd8-b11a-925de4651db5",
+      "time": "2026-06-25 20:30:02",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | Durable Goods Orders (MoM) (May) | actual -4.5% | consensus -4.5% | previous 8.00%"
+    },
+    {
+      "id": "mkt:019efec2-323f-7dd8-b11a-8da9f525ff5b",
+      "time": "2026-06-25 20:30:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | Chicago Fed National Activity Index (May) | actual -0.1 | previous 0.14"
+    },
+    {
+      "id": "4955228",
+      "time": "2026-06-25 20:29:16",
+      "tags": [
+        "公司"
+      ],
+      "text": "【廣發證券：持股5%以上股東可交換債（第二期）將進入換股期】廣發證券公告稱，持股5%以上股東遼寧成大2025年12月29日發行的10億元“25成大E2”可交換公司債券，換股期為2026年6月30日至2028年12月28日，初始換股價格24.58元/股。截至公告披露日，遼寧成大及其一致行動人持有公司股份13.67億股，佔總股本17.47%。換股後其持股或減少，但不會導致公司股權結構重大變化。"
+    },
+    {
+      "id": "4955227",
+      "time": "2026-06-25 20:28:53",
+      "tags": [
+        "公司"
+      ],
+      "text": "【牧原股份：擬以3億港元至5億港元回購H股】牧原股份公告，為進一步維護股東權益並增強投資者信心，董事會審議透過一項回購總金額不少於3億港元且不多於5億港元（均含本數）的H股回購方案。根據H股回購方案回購的H股股份將作為庫存股持有。H股回購方案的實施期限為自董事會審議並透過回購方案之日起12個月內。"
+    },
+    {
+      "id": "4955226",
+      "time": "2026-06-25 20:27:31",
+      "tags": [
+        "國際"
+      ],
+      "text": "【重慶海關：張雪機車首次批次出口歐洲，200餘輛摩托將運抵波蘭】6月25日，據重慶日報報道，24日下午，重慶張雪機車工業有限公司生產的一批摩托車整車從上海乘船出海，駛向歐洲。這批摩托車整車共計200餘輛，沿長江黃金水道順流而下，經上海轉海運，最終將運抵波蘭。"
+    },
     {
       "id": "4955225",
       "time": "2026-06-25 20:27:24",
@@ -9,6 +674,14 @@
         "其他"
       ],
       "text": "【四川大千500千伏變電站試執行】位於四川省內江市的大千500千伏變電站6月25日順利完成帶電除錯，進入試執行階段，新增變電容量240萬千伏安。"
+    },
+    {
+      "id": "4955224",
+      "time": "2026-06-25 20:27:21",
+      "tags": [
+        "兩會"
+      ],
+      "text": "【河南省深化開發區改革發展工作會議召開 劉寧講話 王凱主持 孔昌生出席】6月25日，全省深化開發區改革發展工作會議召開。省委書記劉寧出席並講話，強調要深入學習貫徹習近平總書記關於開發區工作的重要指示批示精神和在河南考察時重要講話精神，聚焦“1+2+4+N”目標任務體系，進一步推動開發區提質增效、啟用全省高質量發展主引擎，為奮力譜寫中原大地推進中國式現代化新篇章提供有力支撐。省長王凱主持，省政協主席孔昌生出席。\n\n劉寧強調，一要以構建現代化開發區矩陣釋放綜合效益，立足產業分工要求，堅持優勢互補原則，秉持合作共贏理念，強化資源整合、創新協同、產業聯動，加強同質園區最佳化提升、裁撤整合。二要以深化體制機制改革激發動力活力，最佳化管理體制，理順職責邊界，提升運營管理水平，深化人事薪酬制度改革，不斷完善市場主導、政府支援、管運分離的體制機制。三要以產業集聚叢集發展推動勢能提升，最佳化產業佈局，打造產業叢集地標，深化數智賦能，強化創新驅動，加快構建企業集聚、產業叢集、要素集約、技術整合、服務集中的產業業態。四要以提質增效招商引資蓄積發展後勁，突出場景招商、資本招商、“飛地”招商等方式，擴大增量、用好存量、提升質量，加強招商引資統籌協調和政策指導，為開發區發展注入更多“源頭活水”。五要以資源節約集約高效利用提升承載能力，樹牢高質量發展鮮明導向，在有限土地上精耕細作，統籌港產城園規劃佈局，推動迴圈化改造和企業清潔生產改造，形成綠色發展新高地。六要以持續最佳化營商環境擦亮視窗形象，最佳化“軟環境”，築牢“硬支撐”，推動開發區投資、生產製造、貿易、物流等全方位全過程便利化高效化，吸引更多企業入園發展、投資興業。（河南釋出）"
     },
     {
       "id": "4955223",
@@ -154733,162 +155406,6 @@
         "其他"
       ],
       "text": "巴西聯邦警察發現，瓦格納在涉及FGC信貸基金、薪資貸款以及收購貸款機構BRB的事項中為Banco Master謀取利益。"
-    },
-    {
-      "id": "4943544",
-      "time": "2026-06-18 20:32:27",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "歐洲央行官員萊恩：此次衝擊屬於中等規模，2022 年那次衝擊幅度更大。"
-    },
-    {
-      "id": "4943543",
-      "time": "2026-06-18 20:31:55",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "歐洲央行官員萊恩：歐洲經濟整體表現尚可。"
-    },
-    {
-      "id": "4943542",
-      "time": "2026-06-18 20:31:40",
-      "tags": [
-        "市場"
-      ],
-      "text": "美元兌日元上漲0.16%，報160.88。"
-    },
-    {
-      "id": "4943541",
-      "time": "2026-06-18 20:31:33",
-      "tags": [
-        "市場"
-      ],
-      "text": "英鎊下跌0.39%，報1.3244美元。"
-    },
-    {
-      "id": "4943540",
-      "time": "2026-06-18 20:31:26",
-      "tags": [
-        "市場"
-      ],
-      "text": "美元在資料公佈後變動不大，歐元<EUR=>最新報1.1471美元，下跌0.27%。"
-    },
-    {
-      "id": "4943539",
-      "time": "2026-06-18 20:31:21",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "紐約聯儲隔夜回購操作未收到任何投標。"
-    },
-    {
-      "id": "4943538",
-      "time": "2026-06-18 20:31:15",
-      "tags": [
-        "其他"
-      ],
-      "text": "香港天文臺釋出紅色暴雨警告。"
-    },
-    {
-      "id": "em:jjsj_mgsj:202606183776359960",
-      "time": "2026-06-18 20:31:11",
-      "tags": [
-        "經濟數據",
-        "美國"
-      ],
-      "text": "美國6月費城聯儲製造業指數為10.3，預期10，前值-0.4。"
-    },
-    {
-      "id": "4943537",
-      "time": "2026-06-18 20:31:10",
-      "tags": [
-        "市場"
-      ],
-      "text": "加拿大 5 月工業產品價格環比上漲 1.2%，市場預期漲幅為 1.0%。"
-    },
-    {
-      "id": "em:jjsj_mgsj:202606183776357914",
-      "time": "2026-06-18 20:30:42",
-      "tags": [
-        "經濟數據",
-        "美國"
-      ],
-      "text": "【美國上週首次申領失業救濟人數高於市場預期】美國上週首次申領失業救濟人數錄得22.6萬人，預估為22.5萬人，前值為22.9萬人。"
-    },
-    {
-      "id": "4943536",
-      "time": "2026-06-18 20:30:35",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "英國央行總裁貝利稱，英國脫歐對金融業的損害程度低於預期。"
-    },
-    {
-      "id": "4943535",
-      "time": "2026-06-18 20:30:30",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "英國央行行長貝利在被問及梅克菲爾德選區英國補選一事時表示，穩定至關重要。"
-    },
-    {
-      "id": "4943534",
-      "time": "2026-06-18 20:30:15",
-      "tags": [
-        "央行",
-        "焦點",
-        "國際"
-      ],
-      "text": "美國6月費城聯儲製造業指數 10.3，預期10，前值-0.4。"
-    },
-    {
-      "id": "4943533",
-      "time": "2026-06-18 20:30:11",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "美國至6月13日當週初請失業金人數 22.6萬人，預期22.5萬人，前值由22.9萬人修正為23萬人。"
-    },
-    {
-      "id": "4943532",
-      "time": "2026-06-18 20:29:14",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "歐洲央行萊恩：即使油價前景較低，加息仍有意義。"
-    },
-    {
-      "id": "4943531",
-      "time": "2026-06-18 20:28:52",
-      "tags": [
-        "其他"
-      ],
-      "text": "埃森哲首席財務官表示：\"鑑於宏觀不確定性，我們預計第四季度將有更多指導區間內的波動空間。\""
-    },
-    {
-      "id": "4943530",
-      "time": "2026-06-18 20:28:43",
-      "tags": [
-        "公司"
-      ],
-      "text": "【合力泰：公司股票將於6月23日被實施其他風險警示】合力泰公告，公司於2026年6月18日收到福建證監局下發的《行政處罰事先告知書》，認定公司披露的2017年至2021年的年度報告存在虛假記載事項。根據《深圳證券交易所股票上市規則（2026年修訂）》第9.8.1條之第（八）項的情形規定，公司股票交易將被實施其他風險警示。公司股票自2026年6月22日開市起停牌一天，並於2026年6月23日開市起復牌。自2026年6月23日起，公司股票簡稱由“合力泰”變更為“ST合力泰”，證券程式碼仍為“002217”，股票交易的日漲跌幅限制由10%變為5%。"
-    },
-    {
-      "id": "4943529",
-      "time": "2026-06-18 20:28:40",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "歐洲央行萊恩稱通脹將長時間高於目標水平。"
     }
   ]
 }
