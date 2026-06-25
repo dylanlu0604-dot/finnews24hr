@@ -1,7 +1,74 @@
 {
-  "updated": "2026-06-25 13:22:12",
-  "count": 17052,
+  "updated": "2026-06-25 13:26:07",
+  "count": 17051,
   "items": [
+    {
+      "id": "4954184",
+      "time": "2026-06-25 13:25:00",
+      "tags": [],
+      "text": "韓國KOSPI指數重回9000點，日內漲6.25％。"
+    },
+    {
+      "id": "4954183",
+      "time": "2026-06-25 13:24:54",
+      "tags": [
+        "國際"
+      ],
+      "text": "韓國綜合股價指數回升至9000點。"
+    },
+    {
+      "id": "mkt:019efd3c-d285-7dd8-b10d-b5f7e2f29c58",
+      "time": "2026-06-25 13:24:42",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Japan & APAC"
+      ],
+      "text": "South Korea's KOSPI reclaimed the 9,000 level, rising 6.25% on the day."
+    },
+    {
+      "id": "4954182",
+      "time": "2026-06-25 13:24:39",
+      "tags": [
+        "資料",
+        "央行",
+        "國際"
+      ],
+      "text": "【日本央行審議委員田村直樹：不會就理想的財政政策置評】日本央行審議委員田村直樹表示，在判斷下一次加息時機時，將重點關注批發通脹飆升如何影響消費者物價指數(CPI)、服務業價格走勢、通脹預期以及企業對金融狀況的看法。不會就理想的財政政策置評，但會考慮如何最佳實現物價穩定，同時顧及財政政策對經濟和通脹的影響。"
+    },
+    {
+      "id": "mkt:019efd3c-75dd-7dd8-b10d-af8bac271a86",
+      "time": "2026-06-25 13:24:18",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Bank of Japan policy board member Tamura said he will not comment on what constitutes ideal fiscal policy, but will consider how best to achieve price stability while accounting for fiscal policy's effects on the economy and inflation."
+    },
+    {
+      "id": "mkt:019efd3c-3e87-7dd8-b10d-a14d79819a75",
+      "time": "2026-06-25 13:24:04",
+      "tags": [
+        "MKT News",
+        "USDJPY",
+        "Impact bearish"
+      ],
+      "text": "BOJ policy board member Tamura said he will monitor how a surge in wholesale inflation feeds through to consumer prices (CPI), service‑sector price moves, inflation expectations and firms' assessments of financial conditions to judge timing of the next rate hike."
+    },
+    {
+      "id": "mkt:019efd3b-4cdd-7dd8-b10d-98f9025e91e6",
+      "time": "2026-06-25 13:23:02",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bearish",
+        "Nikkei 225",
+        "DXY"
+      ],
+      "text": "【Japan $2.3tn investment plan raises fresh JGB market concerns】Prime Minister Takaichi's proposed 14-year investment programme — ¥370 trillion (~$2.3tn) through March 2041 — has prompted bond strategists to warn of renewed pressure on the Japanese government bond market and questions over financing and the plan's ability to deliver growth. The government has not specified incremental fiscal outlays; several brokers say expanded borrowing would likely lift long-term yields. Masayuki Koguchi, executive fund manager at Mitsubishi UFJ Asset Management, said investors will focus on financing and that the plan will most likely be funded via government bond issuance or other measures, a result that could make JGBs difficult to buy. Daiwa Securities chief strategist Shun Otani said the plan will have a negative effect on JGBs, noting the government's assumption of roughly ¥10 trillion a year in fiscal spending and the issuance of transitional bonds, and added market uncertainty over whether the investments will produce the expected growth will push up risk premia."
+    },
     {
       "id": "4954181",
       "time": "2026-06-25 13:21:38",
@@ -155695,78 +155762,6 @@
         "MKT News"
       ],
       "text": "Polish central bank board member Duda said the baseline scenario for monetary policy is to keep interest rates unchanged over the next few months."
-    },
-    {
-      "id": "4942501",
-      "time": "2026-06-18 13:25:37",
-      "tags": [
-        "市場"
-      ],
-      "text": "【奧美醫療走強，盤中漲停】奧美醫療盤中漲停，漲幅9.97%，成交額超1億元。"
-    },
-    {
-      "id": "4942500",
-      "time": "2026-06-18 13:25:16",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【七國集團峰會連續兩年無聯合公報】為期3天的七國集團峰會6月17日在法國閉幕，沒有釋出七國領導人聯合公報。這是繼2025年加拿大峰會後，七國集團再一次未能達成聯合公報。法國總統馬克龍在峰會後的新聞釋出會上說，七國在烏克蘭危機、中東局勢、應對世界經濟失衡、關鍵礦產等方面取得系列共識。同時他也承認，美國與其他六國在氣候問題、聯合國多邊體系等方面存在不同立場。"
-    },
-    {
-      "id": "4942499",
-      "time": "2026-06-18 13:24:57",
-      "tags": [
-        "國際"
-      ],
-      "text": "【印尼能源部長：印尼計劃7月1日推行B50生物柴油專案】印尼能源部長巴利爾・拉哈達利亞週四表示，印尼計劃於7月1日正式落地B50生物燃料計劃，該燃料由50%棕櫚油基生物柴油與50%傳統柴油調和而成，他同時補充，相關燃料測試結果表現良好。"
-    },
-    {
-      "id": "mkt:019ed92e-f73d-7dd8-b06c-badb924f83be",
-      "time": "2026-06-18 13:23:14",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "DXY"
-      ],
-      "text": "【Moscow hit by drone attack; refinery and mall damaged】Early on the 18th, Moscow was struck by a drone attack that damaged a shopping mall and an oil refinery. Moscow mayor Sobyanin said on social media that Russian air defenses have shot down more than 50 drones headed for the city. Debris damaged the mall; no casualties have been reported. Several drones struck a refinery, and authorities are taking measures to deal with the impact. Russian media said major airports including Sheremetyevo have restricted flight operations."
-    },
-    {
-      "id": "4942498",
-      "time": "2026-06-18 13:22:52",
-      "tags": [
-        "國際"
-      ],
-      "text": "【莫斯科遭無人機襲擊】俄羅斯首都莫斯科18日清晨遭無人機襲擊，一家購物中心和一家煉油廠受損。 莫斯科市長索比亞寧在社交媒體上說，截至目前，俄防空系統已擊落50多架飛往莫斯科的無人機。無人機碎片導致莫斯科一家購物中心建築受損，但無人員傷亡報告。此外，莫斯科一家煉油廠被數架無人機擊中，目前正採取措施應對煉油廠遇襲受到的影響。 據俄羅斯媒體報道，莫斯科謝列梅捷沃機場等主要機場已對航班起降實施管制。(新華社)"
-    },
-    {
-      "id": "mkt:019ed92e-3a6d-7dd8-b06c-b2f31d882f2d",
-      "time": "2026-06-18 13:22:25",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "NATO Secretary-General Rutte said if war breaks out, all allies, including the United States, would commit fully and marshal all available resources."
-    },
-    {
-      "id": "4942497",
-      "time": "2026-06-18 13:22:17",
-      "tags": [
-        "國際"
-      ],
-      "text": "北約秘書長呂特：若爆發戰爭，包括美國在內的所有盟國都將傾其所有。"
-    },
-    {
-      "id": "mkt:019ed92e-1047-7dd8-b06c-aedeab4083b9",
-      "time": "2026-06-18 13:22:15",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "NATO Secretary-General Rutte said an agreement with Iran would weaken its nuclear and missile capabilities and restore freedom of navigation."
     }
   ]
 }
