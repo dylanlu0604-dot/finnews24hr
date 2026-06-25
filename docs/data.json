@@ -1,7 +1,159 @@
 {
-  "updated": "2026-06-26 02:06:59",
-  "count": 16909,
+  "updated": "2026-06-26 02:11:00",
+  "count": 16923,
   "items": [
+    {
+      "id": "mkt:019efff9-f134-7dd8-b123-c5be13f55249",
+      "time": "2026-06-26 02:10:30",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Fed's GOOLSBEE: Spending now premised on future returns makes me nervous about potential inf pressures."
+    },
+    {
+      "id": "4955745",
+      "time": "2026-06-26 02:10:24",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲古爾斯比：當前支出依賴未來收益的狀況，令我對潛在通脹壓力感到擔憂。"
+    },
+    {
+      "id": "mkt:019efff9-c3e8-7dd8-b123-ba6ca1a8afc9",
+      "time": "2026-06-26 02:10:19",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "Fed's GOOLSBEE said the economy could overheat if equities price in AI-driven future productivity gains and that pricing prompts higher consumer spending."
+    },
+    {
+      "id": "4955744",
+      "time": "2026-06-26 02:09:50",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲古爾斯比：如果人工智慧帶來的未來生產率提升已經被計入股價，民眾開始以此為基礎增加支出，這種情況可能會導致經濟過熱。"
+    },
+    {
+      "id": "4955743",
+      "time": "2026-06-26 02:08:58",
+      "tags": [
+        "公司"
+      ],
+      "text": "【微軟漲價公告恰逢《俠盜獵車手VI》預購日】微軟關於Xbox主機漲價的公告恰逢玩家的一個重要日子：期待已久的《俠盜獵車手VI》開啟預購。該遊戲由Take-Two Interactive Software開發多年，預計將成為迄今為止GTA系列中最受矚目的作品。微軟的漲價將於8月生效，這可能會激勵玩家在該遊戲11月首發之前儘早購買主機。"
+    },
+    {
+      "id": "mkt:019efff7-e77c-7dd8-b123-b64125117b89",
+      "time": "2026-06-26 02:08:17",
+      "tags": [
+        "MKT News",
+        "Macro & Rates"
+      ],
+      "text": "Fed Chair Goolsbee said the balance sheet has been used as a monetary policy tool in emergencies, but is not generally regarded as a routine policy instrument."
+    },
+    {
+      "id": "4955742",
+      "time": "2026-06-26 02:08:13",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲古爾斯比：在緊急情況下，資產負債表曾被用作貨幣政策工具，但通常不應這樣看待。"
+    },
+    {
+      "id": "4955741",
+      "time": "2026-06-26 02:07:59",
+      "tags": [
+        "國際"
+      ],
+      "text": "新興市場外匯指數漲幅收窄，因有訊息稱伊朗在霍爾木茲海峽襲擊船隻。"
+    },
+    {
+      "id": "mkt:019efff7-8973-7dd8-b123-aa8fdc993207",
+      "time": "2026-06-26 02:07:53",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact mixed",
+        "US10Y",
+        "S&P500"
+      ],
+      "text": "Fed's Goolsbee said the working group set up by the Fed chair will prudently consider various options for the dot plot; he welcomed the move."
+    },
+    {
+      "id": "mkt:019efff7-4cf1-7dd8-b123-a01051217c1f",
+      "time": "2026-06-26 02:07:37",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Fed's Goolsbee: Don't hate the 'dot plot'."
+    },
+    {
+      "id": "mkt:019efff7-23cd-7dd8-b123-9cd6a0b68223",
+      "time": "2026-06-26 02:07:27",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Fed's GOOLSBEE said he does not want to commit to forecasts for the next several years."
+    },
+    {
+      "id": "mkt:019efff7-1336-7dd8-b123-97426874ac35",
+      "time": "2026-06-26 02:07:22",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Goolsbee says he has long been uneasy about forward guidance."
+    },
+    {
+      "id": "4955740",
+      "time": "2026-06-26 02:07:14",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲古爾斯比：美聯儲主席工作組將全面考量點陣圖的各種選項，對此表示歡迎。"
+    },
+    {
+      "id": "4955739",
+      "time": "2026-06-26 02:07:06",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國訊息：一犯罪網路企圖非法走私剛果（金）礦產 。"
+    },
+    {
+      "id": "4955738",
+      "time": "2026-06-26 02:06:47",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲古爾斯比：牴觸點陣圖。"
+    },
+    {
+      "id": "4955737",
+      "time": "2026-06-26 02:06:32",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲古爾斯比: 但不想對多年後的預測做出承諾。"
+    },
     {
       "id": "4955736",
       "time": "2026-06-26 02:06:21",
@@ -154660,22 +154812,6 @@
         "The Trump Trade"
       ],
       "text": "President Trump said Utah must be prevented from adopting all-mail voting, warning that if mishandled it would give Democrats a large advantage and claiming their policies are so absurd that cheating has become their only route to victory."
-    },
-    {
-      "id": "mkt:019edbed-70bd-7dd8-b086-8ff9cbff1fed",
-      "time": "2026-06-19 02:10:31",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "President Trump said Utah, which he said he always easily wins, is moving to a Colorado-style all-mail voting system, and that such changes tend to push states toward the left."
-    },
-    {
-      "id": "4944218",
-      "time": "2026-06-19 02:08:34",
-      "tags": [
-        "其他"
-      ],
-      "text": "中國地震臺網正式測定：06月19日02時02分在青海海西州直轄區（北緯37.82度，東經95.55度）發生3.1級地震，震源深度10千米。"
     }
   ]
 }
