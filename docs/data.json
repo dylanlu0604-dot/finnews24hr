@@ -1,7 +1,23 @@
 {
-  "updated": "2026-06-26 04:03:50",
-  "count": 16984,
+  "updated": "2026-06-26 04:07:46",
+  "count": 16979,
   "items": [
+    {
+      "id": "4955855",
+      "time": "2026-06-26 04:05:15",
+      "tags": [
+        "公司"
+      ],
+      "text": "市場訊息：谷歌 AI 試點專案施壓出版商，允許其內容用於 AI 模型訓練。"
+    },
+    {
+      "id": "mkt:019f0061-9fda-7dd8-b125-f6338b7e6c94",
+      "time": "2026-06-26 04:03:45",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Market sources: I-Pulse Inc., co-founded by Robert Friedland, is set to receive US$250m in U.S. funding to develop semiconductor and pulsed-power technologies."
+    },
     {
       "id": "mkt:019f0061-47d1-7dd8-b125-e94fa4d6a5ce",
       "time": "2026-06-26 04:03:23",
@@ -155377,78 +155393,6 @@
         "Important"
       ],
       "text": "MOODY'S assigned SpaceX a Baa1 rating, placing it in investment grade, with a stable outlook."
-    },
-    {
-      "id": "4944291",
-      "time": "2026-06-19 04:07:14",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "美國財政部：美國發放許可，准許開展部分涉及委內瑞拉政府、與電信及郵政業務相關的特定交易。"
-    },
-    {
-      "id": "4944290",
-      "time": "2026-06-19 04:06:35",
-      "tags": [
-        "公司",
-        "其他",
-        "焦點",
-        "國際"
-      ],
-      "text": "穆迪授予 SpaceX Baa1 評級，屬投資級。"
-    },
-    {
-      "id": "mkt:019edc57-82d7-7dd8-b088-0e6517281b27",
-      "time": "2026-06-19 04:06:23",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "U.S. Treasury issued a license permitting certain transactions related to telecommunications and postal services with the Venezuelan government."
-    },
-    {
-      "id": "mkt:019edc57-426c-7dd8-b088-03e83d3cd9d7",
-      "time": "2026-06-19 04:06:06",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "U.S. Treasury says it has issued a general license related to Venezuela."
-    },
-    {
-      "id": "mkt:019edc57-1f9f-7dd8-b087-f9d2595df2cb",
-      "time": "2026-06-19 04:05:57",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "Japan & APAC",
-        "Europe & UK",
-        "US10Y"
-      ],
-      "text": "【China trimmed US Treasury holdings in April; Japan and UK increased】US Treasury data show China’s holdings fell to $651 bln in April from $652 bln in March; Japan’s holdings rose to $1.210 tln from $1.192 tln; the UK’s holdings rose to $938 bln from $927 bln."
-    },
-    {
-      "id": "4944289",
-      "time": "2026-06-19 04:05:54",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【亞馬遜員工遭公司內部調查 曾公開批評資料中心擴張】一群亞馬遜工程師公開批評企業瘋狂擴張人工智慧資料中心，並呼籲政府加強監管，如今他們正遭到公司內部調查。 本月早些時候，美國西雅圖市議會就一項政策徵集公眾意見：當地計劃暫停新建大型資料中心專案為期一年，為城市完善相關監管規則留出時間。共有五名亞馬遜員工出席聽證會並作證。6月9日，西雅圖市議會全票透過了這項暫停建設的禁令。 幾名員工在聽證會上抨擊科技企業在AI領域鉅額燒錢，將這種擴張模式形容為“不計一切代價的人工智慧基建競賽”。 根據員工代理律師本週五向西雅圖民權辦公室提交的投訴檔案顯示，聽證會結束後，三名亞馬遜員工分別受邀參加了人力資源部門組織的線上會議。HR表示，公司接到相關舉報，正對幾名員工在市議會的公開證詞展開內部調查。"
-    },
-    {
-      "id": "mkt:019edc55-443e-7dd8-b087-f5d45c1f6251",
-      "time": "2026-06-19 04:03:55",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Wall Street (US)",
-        "S&P500",
-        "Impact bullish",
-        "Dow",
-        "Nasdaq100"
-      ],
-      "text": "U.S. equity benchmarks on June 18: Dow Jones Industrial Average closed up 73.14 points, or 0.14%, at 51,565.69; S&P 500 closed up 80.57 points, or 1.09%, at 7,500.67; Nasdaq Composite closed up 496.28 points, or 1.91%, at 26,517.93."
     }
   ]
 }
