@@ -1,7 +1,155 @@
 {
-  "updated": "2026-06-25 19:02:38",
-  "count": 16969,
+  "updated": "2026-06-25 19:07:25",
+  "count": 16961,
   "items": [
+    {
+      "id": "mkt:019efe75-1dbd-7dd8-b118-62c564544e55",
+      "time": "2026-06-25 19:05:48",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Brazil central bank: inflation expectations rose sharply."
+    },
+    {
+      "id": "4955056",
+      "time": "2026-06-25 19:05:26",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【恆逸石化：股票連續三日漲幅偏離值超20% 提示多項風險】恆逸石化公告稱，公司股票在2026年6月23日至25日連續三個交易日內收盤價格漲幅偏離值累計超20%，屬於異常波動。經核查，公司前期資訊無更正補充，未發現影響股價的未公開重大資訊，經營正常，但主要原材料原油價格有不確定性風險。公司及控股股東、實控人無應披露未披露事項，異常波動期間無買賣公司股票行為。此外，“恆逸轉2”承諾不贖回期限即將到期，在建專案存在市場需求不及預期等風險。"
+    },
+    {
+      "id": "4955055",
+      "time": "2026-06-25 19:05:20",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【白宮協助馬克・扎克伯格與谷歌執行長躲過參議院質詢】白宮出面斡旋，試圖讓Meta執行長馬克・扎克伯格與谷歌執行長桑達爾・皮查伊免於出席一場即將召開的參議院聽證會；該聽證會將圍繞兩家企業平臺對兒童安全造成的影響展開問詢。其中四名訊息人士稱，司法委員會主席、愛荷華州共和黨參議員查克・格拉斯利已達成折中方案：下月聽證會暫定於 7 月 28 日舉行，屆時將由兩大科技巨頭旗下 Instagram、YouTube 業務負責人代替首席高管出席作證。"
+    },
+    {
+      "id": "mkt:019efe74-6538-7dd8-b118-5cee677f2339",
+      "time": "2026-06-25 19:05:01",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Alphabet",
+        "Market Themes",
+        "Magnificent 7",
+        "GOOG.O",
+        "Impact bullish"
+      ],
+      "text": "Google (GOOG.O) will launch a registered app-store program later this year to simplify app installation."
+    },
+    {
+      "id": "mkt:019efe73-ff48-7dd8-b118-52930a0d745b",
+      "time": "2026-06-25 19:04:35",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "GOOG.O"
+      ],
+      "text": "Google (GOOG.O): a change of address for the Google Play store in the UK has drawn concern from the UK Competition and Markets Authority (CMA)."
+    },
+    {
+      "id": "4955054",
+      "time": "2026-06-25 19:04:24",
+      "tags": [
+        "市場"
+      ],
+      "text": "【新聚思美股盤前漲超10%】新聚思美股盤前漲超10%，現報311.908美元。"
+    },
+    {
+      "id": "4955053",
+      "time": "2026-06-25 19:04:12",
+      "tags": [
+        "公司"
+      ],
+      "text": "【外資看好中國 中國詞元呼叫量連續7周霸榜全球】今年的夏季達沃斯會場，處處都能感受到科技創新的氣息，諸多創新技術正走出實驗室，滲透進製造業、能源系統、醫療體系乃至日常生活中。參會嘉賓也表示，中國企業在AI應用方面領跑全球。 德勤中國執行長劉明華表示，中國token（詞元）呼叫量連續7周霸榜全球。麥肯錫中國區主席倪以理表示：“為什麼中國公司走得更快，是因為他們對於科技的信任感，對科技的好奇，對科技的擁抱，我認為是比任何一個地方的企業都快。”敦豪全球貨運大中華區執行長艾若馨表示：“中國貢獻了全球約60%的電動車銷量。”（央視財經）"
+    },
+    {
+      "id": "4955052",
+      "time": "2026-06-25 19:04:04",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中船特氣：公司股票將於6月26日復牌】中船特氣公告，公司股票將於2026年6月26日開市起復牌。經公司自查並向公司控股股東及實際控制人書面核實，截至2026年6月25日，公司不存在應披露而未披露的重大事項。"
+    },
+    {
+      "id": "mkt:019efe73-875e-7dd8-b118-4be4d200d405",
+      "time": "2026-06-25 19:04:04",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Alphabet",
+        "Market Themes",
+        "Magnificent 7",
+        "GOOG.O"
+      ],
+      "text": "Google (GOOG.O): UK developers will be eligible from June 30 for reduced Google Play service fees and an option to use independent billing."
+    },
+    {
+      "id": "4955051",
+      "time": "2026-06-25 19:04:01",
+      "tags": [
+        "公司"
+      ],
+      "text": "【致歐科技：擬使用不超過1億元資金回購公司股份】致歐科技公告，擬使用自有資金及銀行回購專項貸款以集中競價交易方式回購公司部分社會公眾股份。回購資金總額不低於人民幣5000萬元（含），不超過人民幣1億元（含）。回購股份的價格不超過人民幣26.59元/股（含）；預計回購股份數量為188.04萬股，佔公司當前總股本的0.47%；按照回購資金總額上限人民幣1億元、回購價格上限人民幣26.59元/股進行測算，預計回購股份數量為376.08萬股，佔公司當前總股本的0.93%。"
+    },
+    {
+      "id": "mkt:019efe72-f3fe-7dd8-b118-472bfefc6b4a",
+      "time": "2026-06-25 19:03:26",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Meta Platforms",
+        "Alphabet",
+        "Market Themes",
+        "Magnificent 7",
+        "META.O",
+        "GOOGL.O"
+      ],
+      "text": "Politico, citing five sources, reported the White House intervened to try to keep Meta CEO Mark Zuckerberg and Google CEO Sundar Pichai from attending an upcoming Senate hearing on their companies' child-safety measures."
+    },
+    {
+      "id": "4955050",
+      "time": "2026-06-25 19:03:08",
+      "tags": [
+        "公司"
+      ],
+      "text": "谷歌：自6月30日起英國開發者可享受更低谷歌Play服務費率，並可自主選擇支付方式。"
+    },
+    {
+      "id": "4955049",
+      "time": "2026-06-25 19:02:55",
+      "tags": [
+        "國際"
+      ],
+      "text": "【國防部：中方在臺島以東海域執法巡查是正當舉措】今天（6月25日），有記者就中方在臺灣島以東海域開展相關執法巡查活動提問。外交部發言人郭嘉昆表示，根據中國國內法和包括《聯合國海洋法公約》在內的國際法，中國在臺灣島以東海域擁有專屬經濟區和大陸架，中方有關部門在該海域開展相關執法巡查活動，是依法行使管轄權，維護地區穩定和海上秩序的正當舉措，也是針對日本、菲律賓操弄劃界議題，侵害中方海洋權益的必要行動。有關國家應尊重中方主權、領土完整和海洋權益，停止混淆是非、顛倒黑白，有關機構不應發表與身份不符的言論。民進黨當局對日本、菲律賓侵權行徑裝聾作啞、視而不見，卻拉攏貼靠外部勢力對中央政府維權行動大肆攻擊抹黑，鼓譟“臺獨”分裂謬論，這再次暴露出民進黨當局冥頑不化的“臺獨”本性和背叛中華民族整體利益的醜惡嘴臉，必將遭到兩岸同胞的唾棄和歷史的清算。"
+    },
+    {
+      "id": "mkt:019efe72-5532-7dd8-b118-3ab3d180e213",
+      "time": "2026-06-25 19:02:46",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish",
+        "USDJPY",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "【South Korea private-sector debt near twice GDP, BANK OF KOREA】BANK OF KOREA said in its Financial Stability Report that South Korea’s household and corporate debt is approaching twice the size of the economy: private-sector credit-to-GDP was 197.9% of nominal GDP at end-2025, with household leverage at 88.2% and corporate leverage at 109.8%. The bank said the modest decline versus Q2 last year mainly reflects statistical factors, while outstanding debt continues to rise. Borrowing for equity investment has increased and house-price inflation is reaccelerating."
+    },
+    {
+      "id": "4955048",
+      "time": "2026-06-25 19:02:21",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：白宮曾協助扎克伯格迴避參議院聽證會。"
+    },
     {
       "id": "mkt:019efe71-95a1-7dd8-b118-340257e69f85",
       "time": "2026-06-25 19:01:57",
@@ -37,6 +185,14 @@
         "MKT News"
       ],
       "text": "Brazil's central bank expects 2026 GDP growth of 2.0%, up from a prior forecast of 1.6%."
+    },
+    {
+      "id": "4955045",
+      "time": "2026-06-25 19:01:10",
+      "tags": [
+        "公司"
+      ],
+      "text": "【永定河流域降雨量較常年增加一至兩成，區域性區域或將遭遇10至20年一遇洪水】永定河流域公司官微6月24日訊息，據氣象水文綜合研判，2026年海河流域降雨整體偏多，永定河流域降雨量較常年增加一至兩成，區域性區域或將遭遇10至20年一遇洪水。據介紹，近期，北京市委書記尹力，市委副書記、市長殷勇先後赴永定河部分重點防汛點位實地檢查，現場部署流域防汛各項工作。永定河流域公司迅速落實部署要求，針對平原堤防、山區峽谷、庫區閘壩等差異化場景，細化全鏈條防控舉措，全力迎戰主汛期。"
     },
     {
       "id": "4955044",
@@ -154651,252 +154807,6 @@
         "MKT News"
       ],
       "text": "Text of U.S.-Iran memorandum: Iran will maintain the status quo of its nuclear program."
-    },
-    {
-      "id": "mkt:019eda69-c310-7dd8-b079-922524b3c499",
-      "time": "2026-06-18 19:07:04",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bearish",
-        "XAUUSD",
-        "DXY"
-      ],
-      "text": "Text of U.S.-Iran memorandum: the U.S. will not impose any new sanctions prior to a final agreement."
-    },
-    {
-      "id": "te:markets:560069",
-      "time": "2026-06-18 19:06:41",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Russia",
-        "Stock Market",
-        "Importance 0"
-      ],
-      "text": "Stocks in Russia Hit 17-month Low — MOEX decreased to 2450.00 Index Points, the lowest since December 2024. Over the past 4 weeks, MOEX lost 7.97%, and in the last 12 months, it decreased 11.94%."
-    },
-    {
-      "id": "mkt:019eda69-56aa-7dd8-b079-8d48d14f5298",
-      "time": "2026-06-18 19:06:36",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Ukraine's central bank expects inflation to remain at current levels over the next few months and to accelerate before year-end."
-    },
-    {
-      "id": "4943353",
-      "time": "2026-06-18 19:05:47",
-      "tags": [
-        "市場"
-      ],
-      "text": "英國兩年期國債收益率上升7個基點至4.22%。"
-    },
-    {
-      "id": "4943352",
-      "time": "2026-06-18 19:05:30",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "英國央行格林：加息投票是防範第二輪通脹效應進一步擴大的保障。"
-    },
-    {
-      "id": "4943351",
-      "time": "2026-06-18 19:05:15",
-      "tags": [
-        "央行",
-        "市場"
-      ],
-      "text": "英國央行維持利率不變後，英國國債收益率基本持平。"
-    },
-    {
-      "id": "4943350",
-      "time": "2026-06-18 19:05:06",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "交易員對英國央行利率預期保持穩定，預計年內加息幅度合計 35 個基點。"
-    },
-    {
-      "id": "mkt:019eda67-f6f4-7dd8-b079-83d55ec95a47",
-      "time": "2026-06-18 19:05:06",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "Treasury Yields",
-        "GBPUSD",
-        "Impact bullish",
-        "DXY",
-        "Impact bearish"
-      ],
-      "text": "UK two-year gilt yield rose 7 bps to 4.22%."
-    },
-    {
-      "id": "em:qqyh_ygyh:202606183776286092",
-      "time": "2026-06-18 19:05:04",
-      "tags": [
-        "央行",
-        "英國央行"
-      ],
-      "text": "【交易員維持對英國央行利率的押注】交易員維持對英國央行利率的押注，預計今年將加息35個基點。"
-    },
-    {
-      "id": "mkt:019eda67-b2d8-7dd8-b079-7b0f37c896c4",
-      "time": "2026-06-18 19:04:49",
-      "tags": [
-        "MKT News",
-        "Important",
-        "GBPUSD",
-        "Impact bullish"
-      ],
-      "text": "Traders maintain bets that the Bank of England will raise rates by 35bps this year."
-    },
-    {
-      "id": "4943349",
-      "time": "2026-06-18 19:04:45",
-      "tags": [
-        "其他"
-      ],
-      "text": "羅森布拉特證券將美光科技目標價從600美元翻倍上調至1200美元。"
-    },
-    {
-      "id": "mkt:019eda67-7ff0-7dd8-b079-714fe75b12bc",
-      "time": "2026-06-18 19:04:36",
-      "tags": [
-        "MKT News",
-        "GBPUSD",
-        "Impact bullish",
-        "DXY",
-        "Impact bearish",
-        "FTSE100"
-      ],
-      "text": "Bank of England expects Q2 potential GDP growth of about +0.2%, versus +0.1% in its April forecast."
-    },
-    {
-      "id": "4943348",
-      "time": "2026-06-18 19:04:30",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "英國央行副行長隆巴爾代利：將迅速對第二輪效應增強的跡象作出反應。"
-    },
-    {
-      "id": "4943347",
-      "time": "2026-06-18 19:04:03",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "土耳其央行貨幣政策委員會會議紀要：第二季度領先指標顯示，國內需求將持續疲軟。"
-    },
-    {
-      "id": "4943346",
-      "time": "2026-06-18 19:03:59",
-      "tags": [
-        "央行",
-        "市場"
-      ],
-      "text": "英國央行利率決議公佈後，英鎊兌美元GBP/USD短線小幅下挫12點，現報1.3225。"
-    },
-    {
-      "id": "4943345",
-      "time": "2026-06-18 19:03:40",
-      "tags": [
-        "公司"
-      ],
-      "text": "【*ST天山：擬向特定物件發行不超過5900萬股A股股票】*ST天山公告，公司擬向控股股東廈門舍德及實際控制人陳明藝發行不超過5900萬股A股股票，由廈門舍德及陳明藝以現金方式全額認購。公司已與廈門舍德、陳明藝簽署《附條件生效的股份認購協議之補充協議》。本次發行尚需深圳證券交易所稽核透過並經中國證監會同意註冊。"
-    },
-    {
-      "id": "te:economy:560067",
-      "time": "2026-06-18 19:03:35",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "United Kingdom",
-        "Interest Rate",
-        "Importance 3"
-      ],
-      "text": "Bank of England Keeps Rates Steady — The Bank of England voted 7-2 to keep Bank Rate unchanged at 3.75% in June 2026, as policymakers weighed easing inflation against continued uncertainty from volatile global energy markets linked to Middle East tensions. Two members of the Monetary Policy Committee preferred a 0.25 percentage point hike to 4%. Officials said global energy prices have declined since the previous meeting following developments in the Middle East, but remain elevated and unstable compared with pre-conflict levels. UK CPI inflation has eased to 2.8%, though the Bank expects it could rise later this year as earlier energy increases continue to feed through. Policymakers warned that the risk of second-round effects in wages and prices increases the longer elevated energy costs persist. At the same time, the labour market is showing signs of cooling, and broader economic momentum appears to be weakening, which could help limit inflationary pressure."
-    },
-    {
-      "id": "4943344",
-      "time": "2026-06-18 19:03:29",
-      "tags": [
-        "央行",
-        "市場",
-        "國際"
-      ],
-      "text": "英國央行行長貝利：過去四個月能源價格上漲導致了一些通脹壓力，我們的職責是確保這不會轉變為持續的通脹。儘管停火，伊朗戰爭帶來的壓力仍在持續。油價下跌“令人鼓舞”，但一些通脹壓力已在醞釀中。將對更強的二輪效應跡象迅速作出回應。"
-    },
-    {
-      "id": "mkt:019eda66-464c-7dd8-b079-699d23b9396b",
-      "time": "2026-06-18 19:03:16",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "Brent",
-        "Impact bearish"
-      ],
-      "text": "Bank of England Governor Bailey said the fall in oil prices is \"encouraging\", but some inflationary pressures are already brewing."
-    },
-    {
-      "id": "em:qqyh_ygyh:202606183776284384",
-      "time": "2026-06-18 19:03:12",
-      "tags": [
-        "央行",
-        "英國央行"
-      ],
-      "text": "英國央行稱，第一季度的GDP增長率約為0.2%，第二季度將保持大致這一水平。"
-    },
-    {
-      "id": "mkt:019eda66-19d3-7dd8-b079-627d3bfaaf4b",
-      "time": "2026-06-18 19:03:04",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "GBPUSD",
-        "Impact bullish"
-      ],
-      "text": "Bank of England Governor BAILEY said the BoE will respond swiftly to any signs that second-round inflation effects are strengthening."
-    },
-    {
-      "id": "mkt:019eda65-e5d3-7dd8-b079-5beb35895950",
-      "time": "2026-06-18 19:02:51",
-      "tags": [
-        "MKT News",
-        "GBPUSD",
-        "Impact bearish",
-        "DXY",
-        "Impact bullish"
-      ],
-      "text": "After the Bank of England's rate decision, GBP/USD briefly slipped 12 pips to 1.3225."
-    },
-    {
-      "id": "4943343",
-      "time": "2026-06-18 19:02:50",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "英國央行：隨時準備採取必要措施，確保通脹迴歸2%的軌道。"
-    },
-    {
-      "id": "mkt:019eda65-bd6d-7dd8-b079-5773bee20e67",
-      "time": "2026-06-18 19:02:41",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK",
-        "GBPUSD",
-        "Impact bullish",
-        "DXY",
-        "Impact bearish"
-      ],
-      "text": "Bank of England says it stands ready to take necessary action at any time to ensure inflation returns to the 2% path."
     }
   ]
 }
