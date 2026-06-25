@@ -1,7 +1,254 @@
 {
-  "updated": "2026-06-25 20:32:31",
-  "count": 17014,
+  "updated": "2026-06-25 20:36:40",
+  "count": 17021,
   "items": [
+    {
+      "id": "mkt:019efec7-d9f0-7dd8-b11c-4133b85a47f7",
+      "time": "2026-06-25 20:36:10",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Polish Prime Minister Tusk said the security situation is likely to see multiple escalations over the coming weeks and months."
+    },
+    {
+      "id": "te:economy:561872",
+      "time": "2026-06-25 20:36:01",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "Chicago Fed National Activity Index",
+        "Importance 1"
+      ],
+      "text": "Chicago Fed National Activity Index Falls in May — The Chicago Fed National Activity Index (CFNAI) decreased to –0.10 in May 2026, from a upwardly revised +0.19 in April. Two of the four broad categories of indicators used to construct the index decreased from April, and three categories made negative contributions in May. Production-related indicators contributed –0.04 in May, down from +0.23 in the prior month, while employment-related indicators contributed –0.04 (down from +0.05). The personal consumption and housing category's contributed –0.04 , remaining unchanged from April. Meanwhile, the sales, orders, and inventories category's contributioned positively by 0.02 (up from –0.04)."
+    },
+    {
+      "id": "mkt:019efec7-89e2-7dd8-b11c-3fdaa33ec22c",
+      "time": "2026-06-25 20:35:50",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "DAX",
+        "Impact bullish",
+        "FTSE100"
+      ],
+      "text": "STOXX Europe 600 continued higher after a US data release, up 0.9%."
+    },
+    {
+      "id": "mkt:019efec7-503c-7dd8-b11c-3159c36a97e2",
+      "time": "2026-06-25 20:35:35",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y",
+        "Impact bullish"
+      ],
+      "text": "Following mild U.S. PCE data, U.S. Treasuries erased most losses."
+    },
+    {
+      "id": "4955243",
+      "time": "2026-06-25 20:35:33",
+      "tags": [
+        "國際"
+      ],
+      "text": "波蘭總理圖斯克：未來數週及數月內，我們預計安全域性勢會出現各類升級情況。"
+    },
+    {
+      "id": "4955242",
+      "time": "2026-06-25 20:35:22",
+      "tags": [
+        "公司"
+      ],
+      "text": "【國投豐樂：擬非公開協議受讓國投金種60%股權】國投豐樂公告稱，公司擬以非公開協議轉讓方式，受讓控股股東國投種業持有的國投金種60%股權。此次交易系國投集團控制企業內部種業板塊資源整合，不構成重大資產重組。以2026年1月31日為評估基準日，國投金種股東全部權益價值為5627.47萬元，交易定價不得低於經備案/核准的資產評估結果。公司已履行必要內部前置審議程式及審計、評估工作，尚需國投種業決策、公司董事會和股東會審議及國投集團批准。"
+    },
+    {
+      "id": "4955241",
+      "time": "2026-06-25 20:34:56",
+      "tags": [
+        "其他"
+      ],
+      "text": "【摩爾執行緒與北京大學簽署合作協議 共建智慧圖形與模擬聯合實驗室】6月24日，北京大學與摩爾執行緒正式簽署合作協議，宣佈共建“北大-摩爾執行緒智慧圖形與模擬聯合實驗室”。該實驗室將聚焦圖形渲染、物理模擬、空間智慧、3D高斯重建（3DGS）與具身智慧等前沿領域的關鍵技術攻關，同步支撐基礎科學研究，透過軟硬一體化深度協同，推動從底層晶片到上層應用的全棧效能最佳化，為空間智慧與具身智慧產業構建堅實的國產化技術底座。"
+    },
+    {
+      "id": "4955240",
+      "time": "2026-06-25 20:34:50",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "歐洲斯托克600指數<.STOXX>在美國經濟資料公佈後延續漲勢，最新上漲0.9%。"
+    },
+    {
+      "id": "4955239",
+      "time": "2026-06-25 20:34:47",
+      "tags": [
+        "公司"
+      ],
+      "text": "【大族鐳射：控股子公司擬共同投資不超過25.2億元建設年產6000萬芯公里光纖及預製棒專案】大族鐳射公告，為進一步落實公司戰略發展規劃，推進公司產能佈局，助力公司光纖業務協同發展，公司控股子公司永通智造及張家港大族擬以自有資金及自籌資金於江蘇省張家港市投資建設年產6000萬芯公里光纖及預製棒專案，專案總投資不超過人民幣25.2億元，將根據業務情況分二期建設，一期專案投入15.2億元，二期專案投入10億元。"
+    },
+    {
+      "id": "mkt:019efec5-d22b-7dd8-b11c-2d83c6bd9fe0",
+      "time": "2026-06-25 20:33:57",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "EURUSD",
+        "Impact mixed",
+        "DXY",
+        "US10Y"
+      ],
+      "text": "Eurozone government bond yields eased after US PCE inflation data; Germany's two-year Bund yield fell 1.6 bps to 2.538%."
+    },
+    {
+      "id": "4955238",
+      "time": "2026-06-25 20:33:48",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "【荷蘭警告美國：不可接受】據路透社23日報道，荷蘭外貿與發展合作大臣舍爾茨瑪當天在華盛頓會見了美國商務部長盧特尼克及多名國會議員，對美國擬出臺的《硬體技術控制多邊協同法案》（簡稱MATCH法案）表達了擔憂。該法案迫使包括荷蘭在內的美國盟友同步執行美方針對中國的出口管制措施。報道稱，MATCH法案於今年4月提出，旨在透過建立相關機制迫使美國盟友同步限制對華出口，從而加大中國晶片製造商生產人工智慧（AI）半導體的難度。彭博社稱，荷蘭政府批評該法案具有“域外效力”，對別國主權貿易政策施加了限制。舍爾茨瑪在華盛頓接受媒體採訪時表示，該法案部分條款顯示，美國或將主導部分事關荷蘭國家安全及本土企業經營的決策。他補充道，荷蘭與美國原本有著良好合作關係，若這份合作演變為強制捆綁，“在荷蘭看來是不可接受的”。（環球時報）"
+    },
+    {
+      "id": "4955237",
+      "time": "2026-06-25 20:33:39",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "歐元區債券收益率在美國PCE通脹資料公佈後小幅回落；德國兩年期債券收益率<DE2YT=RR>下跌1.6個基點，報2.538%。"
+    },
+    {
+      "id": "mkt:019efec5-85c4-7dd8-b11c-23a7ae8c0d5d",
+      "time": "2026-06-25 20:33:38",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy",
+        "Nasdaq100",
+        "Impact bullish"
+      ],
+      "text": "Nasdaq-100 futures rose to intraday highs after the release of US economic data."
+    },
+    {
+      "id": "te:economy:561871",
+      "time": "2026-06-25 20:33:17",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "GDP Growth Rate",
+        "Importance 1"
+      ],
+      "text": "US GDP Growth Rate Revised Higher in Q1 — The US economy expanded an annualized 2.1% in the first quarter of 2026, revised up from 1.6% in the second estimate, primarily reflecting a downward revision to imports that was partly offset by a downward revision to consumer spending."
+    },
+    {
+      "id": "mkt:019efec5-011a-7dd8-b11c-1ce462e1a486",
+      "time": "2026-06-25 20:33:04",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y",
+        "Impact bearish"
+      ],
+      "text": "US 2-year/10-year Treasury yield curve spread +26.3 bps."
+    },
+    {
+      "id": "4955236",
+      "time": "2026-06-25 20:32:28",
+      "tags": [
+        "市場",
+        "其他"
+      ],
+      "text": "美元指數DXY短線走低十餘點，最新報101.64。"
+    },
+    {
+      "id": "em:jjsj_mgsj:202606253783288548",
+      "time": "2026-06-25 20:32:28",
+      "tags": [
+        "經濟數據",
+        "美國"
+      ],
+      "text": "【美國5月PCE價格指數同比上升4.1% 符合市場預期】美國5月PCE價格指數環比上升0.4%，預期上升0.5%。同比上升4.1%，預期上升4.1%。"
+    },
+    {
+      "id": "4955235",
+      "time": "2026-06-25 20:32:25",
+      "tags": [
+        "市場"
+      ],
+      "text": "標普500指數期貨、納指期貨攀升至高點後回落。"
+    },
+    {
+      "id": "mkt:019efec4-5046-7dd8-b11c-114ea10c681b",
+      "time": "2026-06-25 20:32:18",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish",
+        "S&P500"
+      ],
+      "text": "US 10-year Treasury yield fell after data release, last 4.392%, down 0.59 bps."
+    },
+    {
+      "id": "mkt:019efec4-4d00-7dd8-b11c-0a835e3b958a",
+      "time": "2026-06-25 20:32:18",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bearish",
+        "XAUUSD",
+        "Impact bullish",
+        "EURUSD"
+      ],
+      "text": "The dollar index (DXY) briefly eased by just over ten ticks, last 101.64."
+    },
+    {
+      "id": "em:jjsj_mgsj:202606253783288353",
+      "time": "2026-06-25 20:32:07",
+      "tags": [
+        "經濟數據",
+        "美國"
+      ],
+      "text": "美國5月耐用品訂單月率錄得-4.5%，為2025年6月以來最大降幅。"
+    },
+    {
+      "id": "mkt:019efec4-0e49-7dd8-b11c-054cf819e6da",
+      "time": "2026-06-25 20:32:01",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y",
+        "Impact bullish"
+      ],
+      "text": "US two-year Treasury yield fell 1.41 bps to 4.123%."
+    },
+    {
+      "id": "4955234",
+      "time": "2026-06-25 20:31:54",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "兩年期與10年期美國國債之間的收益率曲線最新為正26.3個基點。"
+    },
+    {
+      "id": "em:jjsj_mgsj:202606253783288035",
+      "time": "2026-06-25 20:31:50",
+      "tags": [
+        "經濟數據",
+        "美國"
+      ],
+      "text": "美國第一季度實際個人消費支出季率終值為0.5%，前值1.4%。"
+    },
     {
       "id": "em:jjsj_mgsj:202606253783287830",
       "time": "2026-06-25 20:31:33",
@@ -232,6 +479,15 @@
         "US Economy"
       ],
       "text": "【US core PCE YoY edges up, in line with expectations】US core PCE price index YoY for May rose to 3.4%, matching expectations and the highest reading since October 2023."
+    },
+    {
+      "id": "em:jjsj_mgsj:202606253783287551",
+      "time": "2026-06-25 20:30:43",
+      "tags": [
+        "經濟數據",
+        "美國"
+      ],
+      "text": "【美國5月核心PCE指數同比增長3.4% 符合市場預期】美國5月核心個人消費支出價格指數同比增長3.4%，預估為3.4%，前值為3.3%。環比上升0.3%，預估為0.3%。"
     },
     {
       "id": "mkt:019efec2-e770-7dd8-b11b-807f9886985e",
@@ -155246,166 +155502,6 @@
         "其他"
       ],
       "text": "英國將就希思羅機場擴建事宜開展公眾諮詢。"
-    },
-    {
-      "id": "mkt:019edabb-769a-7dd8-b07d-4c9e8959212c",
-      "time": "2026-06-18 20:36:19",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "EURUSD",
-        "Impact bullish",
-        "DXY",
-        "Impact bearish"
-      ],
-      "text": "ECB chief economist Lane said the upper bound of the neutral interest-rate range has risen to 2.5%."
-    },
-    {
-      "id": "4943558",
-      "time": "2026-06-18 20:36:18",
-      "tags": [
-        "其他"
-      ],
-      "text": "【香港《2026年世界競爭力年報》排名升至全球第二】瑞士洛桑國際管理發展學院18日釋出《2026年世界競爭力年報》，香港的全球競爭力排名連續三年上升，今年上升一位至全球第二位，是自2019年以來最高排名。在年報的四個競爭力因素中，香港在“政府效率”排名第二、“營商效率”排名第三，“基礎建設”和“經濟表現”分別排名全球第八和第十一。多個競爭力的子因素方面，香港在“稅務政策”和“商業法規”排名全球第一，“金融”排名全球第二，“國際貿易”“國際投資”“管理方式”和“教育”排名全球第三，“公共財政”和“基本基礎設施”排名全球第四。（新華社）"
-    },
-    {
-      "id": "mkt:019edabb-5c22-7dd8-b07d-4420f4090352",
-      "time": "2026-06-18 20:36:12",
-      "tags": [
-        "MKT News",
-        "GBPUSD",
-        "Impact mixed"
-      ],
-      "text": "【Quilter: Bank of England likely to keep rates unchanged for months】Quilter strategist Lindsay James said the Bank of England is likely to keep rates unchanged for several months to await further UK data and assess the full impact of the Middle East conflict. Domestic political uncertainty could constrain the BoE's ability to adjust policy, making a wait-and-see stance more likely than near-term action. LSEG data show markets price roughly 29bp of cumulative BoE tightening by December."
-    },
-    {
-      "id": "4943557",
-      "time": "2026-06-18 20:35:30",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "SMARTBIRD股價盤前上漲15.8%至6.33美元，週三該股已因宣佈品牌重塑和新任CEO而飆升39%。"
-    },
-    {
-      "id": "te:economy:560090",
-      "time": "2026-06-18 20:35:26",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Canada",
-        "Producer Price Inflation MoM",
-        "Importance 2"
-      ],
-      "text": "Canada Producer Prices Rise for 5th Month — Producer prices in Canada increased 1.2% month-over-month in May 2026, a fifth consecutive monthly increase, but below 2% in April and forecasts of 1.8%. Disruptions to shipping through the Strait of Hormuz continued to affect global commodity markets in May, reflecting impacts on crude oil costs and supply chains. This situation contributed to price increases across multiple commodity groups, including chemical and chemical products (7%), mostly plastic resins (33.1%); energy and petroleum products (2.5%), particularly motor gasoline (7.2%); and primary non-ferrous metal products (1.1%), mainly unwrought aluminum and aluminum alloys (3.5%). Excluding energy and petroleum products, producer prices increased 0.9%. Year-on-year, producer prices rose 13.6%, the most since June 2022, following an 11.4% rise in April. The largest contributions came from prices for unwrought silver and silver alloys (135.4%), diesel fuel (61%) and finished motor gasoline (47.9%)."
-    },
-    {
-      "id": "mkt:019edaba-8943-7dd8-b07d-3bbba6d5a717",
-      "time": "2026-06-18 20:35:18",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "U.S. Climate Prediction Center (CPC) seasonal precipitation outlook for July-August-September projects above-normal precipitation for northwest Alaska mainland and the Aleutian Islands."
-    },
-    {
-      "id": "4943556",
-      "time": "2026-06-18 20:35:14",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "埃森哲執行長談中東業務：\"我們確實認為第四季度將受到更大影響，因此我們表示業績區間下沿的可能性正在增加\"。"
-    },
-    {
-      "id": "4943555",
-      "time": "2026-06-18 20:35:02",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國氣候預測中心：7-8-9月降水氣候預測顯示，阿拉斯加大陸西北部及阿留申群島降水大機率高於正常水平。"
-    },
-    {
-      "id": "4943554",
-      "time": "2026-06-18 20:34:57",
-      "tags": [
-        "國際"
-      ],
-      "text": "波蘭國防部長：美國國防部表示尚未做出決定。"
-    },
-    {
-      "id": "4943553",
-      "time": "2026-06-18 20:34:42",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "歐洲央行官員萊恩：我們認為中性利率區間的上限已經從2.25%悄悄升至2.5%。"
-    },
-    {
-      "id": "4943552",
-      "time": "2026-06-18 20:34:10",
-      "tags": [
-        "國際"
-      ],
-      "text": "波蘭國防部長：美國國防部對波蘭提出的在波蘭永久駐軍的提議持開放態度。"
-    },
-    {
-      "id": "4943551",
-      "time": "2026-06-18 20:34:02",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國國家氣候預測中心（CPC）預測，在七至九季這個厄爾尼諾事件發展為強厄爾尼諾的機率超過40%。"
-    },
-    {
-      "id": "4943550",
-      "time": "2026-06-18 20:33:49",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國氣候預測中心（CPC）：熱帶地區近期已形成厄爾尼諾條件，預計該現象將在2026年北半球夏季和秋季進一步增強。"
-    },
-    {
-      "id": "4943549",
-      "time": "2026-06-18 20:33:44",
-      "tags": [
-        "公司"
-      ],
-      "text": "【三超新材：股東擬協議轉讓7.65%公司股份】三超新材公告，2026年6月18日，公司原控股股東、實際控制人鄒餘耀與無錫博達合一科技有限公司簽署《第二期股份轉讓協議》，鄒餘耀擬向博達合一轉讓其所持公司873.54萬股股份，佔公司總股本比例為7.65%，轉讓價格為每股人民幣24.52元，轉讓價款總額為2.14億元。權益變動後，博達合一持股比例為16.62%。"
-    },
-    {
-      "id": "4943548",
-      "time": "2026-06-18 20:33:42",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "歐洲央行官員萊恩：我們是在貨幣政策處於完全中性的基礎上開啟緊縮周。"
-    },
-    {
-      "id": "4943547",
-      "time": "2026-06-18 20:33:36",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "【銀行業保險業人工智慧安全開發應用指導意見出臺】國家金融監督管理總局6月18日對外發布《關於銀行業保險業人工智慧安全開發應用的指導意見》，要求開發應用人工智慧的銀行業保險業金融機構要統籌發展和安全，加快培育發展金融行業新質生產力，推動人工智慧應用合規、透明、可信賴，加強分類分級管理，有效應對人工智慧發展帶來的風險挑戰，更好服務實體經濟和滿足人民群眾需要。指導意見從治理架構、開發應用、資料治理、算力建設、風險管理、能力提升、保障與監督等方面提出了32項指導性意見。（新華社）"
-    },
-    {
-      "id": "4943546",
-      "time": "2026-06-18 20:33:00",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "美國股指期貨在周度初請失業金資料公佈後變化不大。"
-    },
-    {
-      "id": "4943545",
-      "time": "2026-06-18 20:32:47",
-      "tags": [
-        "其他"
-      ],
-      "text": "巴西聯邦警察發現，瓦格納在涉及FGC信貸基金、薪資貸款以及收購貸款機構BRB的事項中為Banco Master謀取利益。"
     }
   ]
 }
