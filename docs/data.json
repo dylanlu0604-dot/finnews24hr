@@ -1,7 +1,146 @@
 {
-  "updated": "2026-06-25 10:11:46",
-  "count": 17039,
+  "updated": "2026-06-25 10:15:50",
+  "count": 17035,
   "items": [
+    {
+      "id": "te:markets:561699",
+      "time": "2026-06-25 10:15:08",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "Asia FX Updates: South Korean Won Drops by 0.39% — Top currency loser is South Korean Won (-0.39%). Gains are led by Japanese Yen (0.06%). Meanwhile Chinese Yuan was little changed."
+    },
+    {
+      "id": "4953943",
+      "time": "2026-06-25 10:15:07",
+      "tags": [
+        "觀點",
+        "央行",
+        "國際"
+      ],
+      "text": "【壓力測試過關，摩根大通、高盛等大行提高股利】當地時間6月24日，美聯儲壓力測試顯示，所有受檢銀行都能維持足夠資本，以承受假設中的經濟衰退衝擊。美聯儲年度評估結果公佈後，摩根大通將季度股利由每股1.50美元提高到1.65美元，高盛的股利從4.50美元上調至5美元。摩根大通另外批准一項新的500億美元股票回購計劃，自7月1日起生效。"
+    },
+    {
+      "id": "4953942",
+      "time": "2026-06-25 10:14:36",
+      "tags": [
+        "其他"
+      ],
+      "text": "【最高檢：依法打擊寄遞毒品犯罪，推動寄遞安全三項制度嚴格落實】6月25日，最高檢黨組成員、副檢察長苗生明在新聞釋出會上介紹，針對“網際網路+寄遞”毒品犯罪高發問題，檢察機關常態化落實最高檢“七號檢察建議”，始終保持對寄遞領域涉毒犯罪高壓態勢，推動寄遞安全“三項制度”（即實名收寄、收寄驗視、過機安檢）嚴格落實，協同推進行業綜合治理，努力斬斷毒品流通“隱形通道”。"
+    },
+    {
+      "id": "4953941",
+      "time": "2026-06-25 10:14:25",
+      "tags": [
+        "公司"
+      ],
+      "text": "【軟通動力通州智慧製造基地建設再提速 液冷伺服器產線即將投產】據軟通動力訊息，軟通動力通州智慧製造基地建設再提速。2026年9月，一體化冷板式液冷伺服器智慧產線將正式投產，標誌著公司在算力基礎設施領域完成新一輪產能佈局。如今，該智慧製造基地核心廠房與配套樓建設已進入收尾階段。未來，這裡將形成年產約20萬臺信創PC及終端和10萬臺伺服器的產能規模。"
+    },
+    {
+      "id": "4953940",
+      "time": "2026-06-25 10:14:23",
+      "tags": [
+        "市場"
+      ],
+      "text": "現貨黃金下跌近1%，至每盎司3962.11美元。"
+    },
+    {
+      "id": "mkt:019efc8e-63b5-7dd8-b10a-5da2a41bb4cb",
+      "time": "2026-06-25 10:14:10",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "02099.HK",
+        "Impact bearish",
+        "01818.HK",
+        "01787.HK"
+      ],
+      "text": "Hong Kong-listed gold miners slid: China Gold International (02099.HK) fell over 9%; Zhaojin Mining (01818.HK), Shandong Gold (01787.HK) and Lingbao Gold (03330.HK) dropped more than 8%."
+    },
+    {
+      "id": "4953939",
+      "time": "2026-06-25 10:13:27",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "滬深兩市成交額超1.5萬億元，較上日此時放量2304億元。"
+    },
+    {
+      "id": "mkt:019efc8d-8e57-7dd8-b10a-530ae2958951",
+      "time": "2026-06-25 10:13:15",
+      "tags": [
+        "MKT News",
+        "00670.HK",
+        "Impact bullish",
+        "00753.HK",
+        "00293.HK"
+      ],
+      "text": "Hong Kong-listed aviation stocks traded higher: China Eastern Airlines (00670.HK) up over 5%, Air China (00753.HK) up over 3%, Cathay Pacific (00293.HK) up over 2% and China Southern Airlines (01055.HK) up over 1%."
+    },
+    {
+      "id": "4953938",
+      "time": "2026-06-25 10:13:06",
+      "tags": [
+        "其他"
+      ],
+      "text": "【中使館提醒在委內瑞拉中國公民注意防災】中國駐委內瑞拉大使館當地時間6月24日發文，提醒在委中國公民密切關注當地地震預警和災害相關資訊，防範餘震及地震導致的次生災害；保持冷靜，做好安全防護，保持通訊裝置暢通。請相關地區中國公民立即遠離海邊，轉移至安全區域避險。如遇緊急情況，請及時報警並聯系中國駐委內瑞拉使館尋求協助。"
+    },
+    {
+      "id": "4953937",
+      "time": "2026-06-25 10:12:59",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "20號膠連續主力合約日內跌7%，現報14525.00元。"
+    },
+    {
+      "id": "4953936",
+      "time": "2026-06-25 10:12:49",
+      "tags": [
+        "其他"
+      ],
+      "text": "【加大理賠力度，1-5月全國農業保險已賠付370億元】據國家金融監督管理總局，今年1—5月，全國農業保險已賠付370億元，受益農戶1209萬戶次。糧食作物保險已賠付60.47億元，受益農戶546.31萬戶次，其中，小麥已賠付30.93億元，受益農戶343.42萬戶次。農險賠款為受災農戶恢復再生產發揮了重要作用。金融監管總局表示，當前黃淮海等夏糧主產省已經進入集中收穫期，受近期強降雨、病蟲害等因素影響，部分省份受災嚴重。農業保險理賠工作時間緊、任務重。目前，面對比較集中的區域性大面積農業災害，農險理賠服務領域還存在不少困難和問題。"
+    },
+    {
+      "id": "4953935",
+      "time": "2026-06-25 10:12:43",
+      "tags": [
+        "其他"
+      ],
+      "text": "【黃巖島藍洞調查報告發布】生態環境部6月25日釋出《2025年黃巖島藍洞調查報告》。報告顯示，黃巖島藍洞屬於世界罕見的珊瑚礁生長結構成因型海洋藍洞，也是我國迄今探明的第一個珊瑚礁藍洞，洞口面積約1491.7平方米、最大直徑56.3米，深度16.6米，內部結構呈漏斗狀，洞底狹窄，存在水體濁度分層。地質年代學研究初步表明，該藍洞至少形成於距今3200年前。黃巖島藍洞及周邊海域生物多樣性豐富。(新華社)"
+    },
+    {
+      "id": "4953934",
+      "time": "2026-06-25 10:12:32",
+      "tags": [
+        "市場"
+      ],
+      "text": "【創新藥概念震盪回落 亞太藥業觸及跌停】創新藥概念震盪回落，亞太藥業觸及跌停，津藥藥業、康芝藥業、雙鷺藥業、新華製藥、海辰藥業、君實生物、百花醫藥跌幅居前。"
+    },
+    {
+      "id": "4953933",
+      "time": "2026-06-25 10:12:21",
+      "tags": [
+        "市場"
+      ],
+      "text": "【有色·鎢概念震盪走強 翔鷺鎢業觸及漲停】有色·鎢概念震盪走強，翔鷺鎢業觸及漲停，中鎢高新、廈門鎢業、章源鎢業漲幅靠前。"
+    },
+    {
+      "id": "4953932",
+      "time": "2026-06-25 10:12:06",
+      "tags": [
+        "市場",
+        "國際",
+        "原創"
+      ],
+      "text": "【霍爾木茲海峽重開增加供應 布倫特原油抹去戰時全部漲幅】在美伊和平協議取得進展後，霍爾木茲海峽的運輸量增加，布倫特原油期貨價格已抹去戰爭期間的所有漲幅。這一全球基準油價週四延續跌勢，跌破衝突前的收盤價每桶72.48美元。WTI原油期貨交易價格徘徊在69美元附近。市場關鍵領域突然供應過剩，買家被來自中東以及非洲的原油報價淹沒。截至北京時間上午10:00，8月交割的布倫特原油期貨下跌1.6%至每桶72.56美元。8月交割的WTI下降1.4%至每桶69.38美元。美國頒佈的一項臨時豁免令允許購買已裝船的伊朗原油，這也將進一步增加供應量。不過，融資和保險方面的障礙依然存在，這可能會限制銷售。"
+    },
     {
       "id": "mkt:019efc8b-16e2-7dd8-b10a-4964ed847304",
       "time": "2026-06-25 10:10:34",
@@ -155539,192 +155678,6 @@
         "Impact bearish"
       ],
       "text": "Japan 20-year government bond yield rose 1.5 bps to 3.510%."
-    },
-    {
-      "id": "4942270",
-      "time": "2026-06-18 10:15:18",
-      "tags": [
-        "公司"
-      ],
-      "text": "【紅豆股份投資成立智慧科技公司 含AI及機器人業務】企查查APP顯示，近日，上海紅芯益恆智慧科技有限公司成立，經營範圍包含：人工智慧理論與演算法軟體開發；人工智慧應用軟體開發；智慧機器人的研發；智慧機器人銷售等。企查查股權穿透顯示，該公司由紅豆股份旗下江蘇紅芯益恆科技有限公司全資持股。"
-    },
-    {
-      "id": "mkt:019ed882-d129-7dd8-b069-5f4af3b0eed9",
-      "time": "2026-06-18 10:15:12",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC"
-      ],
-      "text": "Japan's Chief Cabinet Secretary Kihara said he will closely monitor market developments and, where appropriate, guide economic and fiscal policy."
-    },
-    {
-      "id": "te:markets:559886",
-      "time": "2026-06-18 10:15:04",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Currency",
-        "Importance 1"
-      ],
-      "text": "Asia FX Updates: New Zealand Dollar Rises by 0.36% — Top currency gainers are New Zealand Dollar (0.36%), Australian Dollar (0.27%), South Korean Won (0.20%) and Chinese Yuan (0.15%). Meanwhile Japanese Yen was little changed."
-    },
-    {
-      "id": "4942269",
-      "time": "2026-06-18 10:14:56",
-      "tags": [
-        "國際"
-      ],
-      "text": "日本內閣官房長官木原：將密切關注市場動態，並酌情指導經濟和財政政策。"
-    },
-    {
-      "id": "4942268",
-      "time": "2026-06-18 10:14:47",
-      "tags": [
-        "國際"
-      ],
-      "text": "日本內閣官房長官：必須全面審視日元疲軟的影響。"
-    },
-    {
-      "id": "mkt:019ed882-4339-7dd8-b069-548e52d2263b",
-      "time": "2026-06-18 10:14:35",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC",
-        "USDJPY",
-        "Impact bullish"
-      ],
-      "text": "Japanese Chief Cabinet Secretary Kihara said the government must fully consider the impact of yen weakness."
-    },
-    {
-      "id": "4942267",
-      "time": "2026-06-18 10:14:33",
-      "tags": [
-        "國際"
-      ],
-      "text": "日本內閣官房長官木原稔表示：疲軟日元雖有助於改善企業利潤，但同時會加重家庭負擔。"
-    },
-    {
-      "id": "mkt:019ed882-1d22-7dd8-b069-4c4466dfe219",
-      "time": "2026-06-18 10:14:26",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC",
-        "USDJPY",
-        "Impact bullish",
-        "Nikkei 225"
-      ],
-      "text": "Japan Chief Cabinet Secretary KIHARA said the weak yen helps corporate profits but raises household burdens."
-    },
-    {
-      "id": "mkt:019ed882-0c78-7dd8-b069-4329935ba427",
-      "time": "2026-06-18 10:14:21",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC"
-      ],
-      "text": "Japan's Chief Cabinet Secretary Kihara said he is closely monitoring foreign-exchange volatility."
-    },
-    {
-      "id": "4942266",
-      "time": "2026-06-18 10:13:57",
-      "tags": [
-        "國際"
-      ],
-      "text": "日本內閣官房長官：密切關注包括匯率在內的市場趨勢。"
-    },
-    {
-      "id": "4942265",
-      "time": "2026-06-18 10:13:39",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "紐約期金突破4350美元/盎司，日內跌0.72%。"
-    },
-    {
-      "id": "mkt:019ed881-3e5a-7dd8-b069-382e72a6cad7",
-      "time": "2026-06-18 10:13:29",
-      "tags": [
-        "MKT News",
-        "USDJPY",
-        "Impact bearish"
-      ],
-      "text": "Japan's Chief Cabinet Secretary Kihara said he stands ready to take necessary action in the foreign-exchange market."
-    },
-    {
-      "id": "te:markets:559884",
-      "time": "2026-06-18 10:13:11",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Hong Kong",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "Hong Kong Stocks Fall for Third Session — The Hang Seng Index fell 360 points, or 1.5%, to 23,950 on Thursday, extending losses for a third consecutive session and the lowest since July 2025, as investors shunned risk after the Federal Reserve struck a more hawkish tone, signaling that further policy tightening may still be needed to contain inflation. The prospect of higher US interest rates lifted Treasury yields and the dollar while pressuring Wall Street overnight, dampening sentiment across Asian markets. Locally, the Hong Kong Monetary Authority left its base rate unchanged at 4.0%, mirroring the Fed's decision to hold rates steady. Investors also remained cautious amid lingering uncertainty over the global economic outlook and the potential impact of prolonged higher interest rates on corporate earnings and capital flows. Financial, technology, retail, and energy shares led the retreat, with notable losses from Kingboard Laminates (-4.3%), Pop Mart (-3.4%), Xiaomi (-2.5%), SMIC (-1.9%), and Tencent (-1.2%)."
-    },
-    {
-      "id": "4942264",
-      "time": "2026-06-18 10:12:52",
-      "tags": [
-        "公司"
-      ],
-      "text": "【東陽光在上海成立雲智算資料服務公司】企查查APP顯示，近日，上海東陽光雲智算資料服務有限公司成立，法定代表人為曹默漸，註冊資本為1億元，經營範圍包含：大資料服務；雲端計算裝備技術服務；計算機軟硬體及輔助裝置零售；通訊裝置銷售等。企查查股權穿透顯示，該公司由東陽光旗下東莞東陽光雲智算科技有限公司全資持股。"
-    },
-    {
-      "id": "4942263",
-      "time": "2026-06-18 10:12:39",
-      "tags": [
-        "國際"
-      ],
-      "text": "日本內閣官房長官：不對匯率水平置評。"
-    },
-    {
-      "id": "mkt:019ed880-6fc6-7dd8-b069-3281ca532b81",
-      "time": "2026-06-18 10:12:36",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Japan's Chief Cabinet Secretary Minoru Kihara said he would not comment on exchange-rate levels."
-    },
-    {
-      "id": "te:markets:559883",
-      "time": "2026-06-18 10:12:19",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "China",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "China Stocks Mixed as Lujiazui Forum Concludes — The Shanghai Composite fell 0.5% to 4,089 on Thursday, reversing gains from the previous session, while the Shenzhen Component rose 0.6% to a one-month high of 15,978, as investors awaited further developments from the Lujiazui Forum, which concludes today. Among the key announcements, the PBoC signaled a potential shift toward using the overnight policy rate as its primary benchmark, aligning its monetary policy framework more closely with those of major central banks. Meanwhile, Vice Premier He Lifeng said Beijing plans to introduce anti-sanctions measures to counter what he described as unreasonable foreign restrictions. Technology stocks traded mixed, with Zhongji Innolight falling 0.3% and Eoptolink Technology losing 1%, while NAURA Technology rose 0.3%, Victory Giant added 1.5%, and Hygon Technology gained 0.6%. The divergence in AI-related stocks reflected an emerging pair trade, with investors favoring firms seen as leaders in China's AI race."
-    },
-    {
-      "id": "mkt:019ed880-2d3f-7dd8-b069-28189dc9893a",
-      "time": "2026-06-18 10:12:19",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Greater China",
-        "09688.HK",
-        "Impact bullish",
-        "02197.HK",
-        "09926.HK"
-      ],
-      "text": "Hong Kong biotech stocks rose in choppy trading; 09688.HK and 02197.HK gained over 6.5%, 09926.HK and 06127.HK climbed more than 5%, while 01349.HK and 01541.HK also advanced."
-    },
-    {
-      "id": "4942262",
-      "time": "2026-06-18 10:11:48",
-      "tags": [
-        "其他"
-      ],
-      "text": "【光輪智慧與PICO達成深度合作】近日，光輪智慧與PICO達成深度合作。雙方將圍繞物理AI領域的人類資料採集基礎設施建設展開深度協同，結合各自在智慧硬體、空間計算、資料與模擬基礎設施等領域的優勢，共同推動新一代人類資料採集解決方案研發與規模化落地。"
     }
   ]
 }
