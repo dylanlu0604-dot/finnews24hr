@@ -1,7 +1,105 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-06-26 05:45:47_
-_本檔包含 3248 則快訊，約 618365 字_
+_更新時間：2026-06-26 06:42:58_
+_本檔包含 3247 則快訊，約 618153 字_
+
+---
+
+### 2026-06-24 07:08:25  #國際
+
+美國聯邦執法官員協會代表來自65多個不同聯邦機構的34,000多名執法官員，支援託德·布蘭奇（Todd Blanche）被提名為美國司法部長，並敦促參議院“迅速確認他的提名”。
+
+---
+
+### 2026-06-24 07:05:58  #公司
+
+市場訊息：谷歌正在投資獨立電影製片公司 A24，這是兩家公司之間一項新的 AI 研究合作伙伴關係的一部分。
+
+---
+
+### 2026-06-24 07:05:03  #公司 #國際
+
+【康索利迪德·愛迪生公司執行長：為應對更持久的熱浪，必須擴建電網裝置】康索利迪德·愛迪生公司執行長考利（Tim Cawley）週二在紐約某論壇上表示，該公司必須對部分電網裝置進行擴容，以抵禦持續時間更長、溫度更高的熱浪，同時避免對系統進行根本性改造。面對極端天氣以及耗電量巨大的資料中心日益增長的需求，美國公用事業公司已投入巨資升級電網。“持續時間長、強度大的熱浪會磨損我們的裝置，”考利說道。“因此，我們必須提升裝置規格，以應對這種狀況，”他補充道。考利補充道，紐約無需對電網進行根本性改造，但應更好地利用屋頂太陽能、電池、需求響應和電網資料來提高效率並控制成本。考利表示，人工智慧以及對電網實時狀況的更深入瞭解，可進一步最佳化運營。藉助智慧電錶和系統遙測技術提供的更多資料，公司在保持供電可靠性的同時，能夠最佳化電壓、降低能耗、減少排放並降低客戶電費。
+
+---
+
+### 2026-06-24 07:04:20  #市場
+
+紐約期銀日內跌1%，現報61.85美元/盎司。
+
+---
+
+### 2026-06-24 07:03:33  #MKT News
+
+【Poll: Majority of Americans say late‑February US military action against Iran was not worth it】A Reuters/Ipsos poll released on the 23rd found 52% of Americans say the US military action against Iran launched at the end of February was not worth it; President Trump’s approval fell to 34%, his lowest in his second term. About 35% said the US is weaker on Iran than before the conflict; the US and Iranian presidents on the 17th signed a memorandum of understanding to begin 60 days of talks toward a final agreement, but 63% said the MoU is unlikely to produce lasting peace while 18% said it is likely.
+
+---
+
+### 2026-06-24 07:03:13  #公司
+
+【扎克伯格談MetaAI智慧眼鏡：必須在時尚與功能之間取得平衡】馬克 · 扎克伯格希望 Meta 最新款人工智慧眼鏡不只是一件電子裝置。對這位 Meta 執行長而言，難點不在於往鏡框裡堆砌更多人工智慧功能，而是做出人們真正願意日常佩戴的眼鏡。 在與資訊欄目《Feed Me》主創艾米麗 · 桑德伯格的訪談中，扎克伯格的談吐不像是矽谷企業高管，反倒更像一名時裝設計師。 “我認為未來眼鏡會形成豐富產品線，款式多樣、功能配置各有區分，價格檔位也層次分明，”扎克伯格表示，“但核心難題在於，每一款產品都要找到平衡點：外觀好看、佩戴舒適，同時功能體驗不拉胯。” “公司所有自研產品，我都會深度參與打磨，”扎克伯格補充道。 當地時間本週二，Meta 推出全新系列智慧眼鏡，起售價 299 美元（現匯率約合 2029 元人民幣），低於該品牌入門款雷朋智慧眼鏡，以此加碼可穿戴裝置賽道。這款新品由眼鏡巨頭依視路陸遜梯卡聯合開發，但不會搭載雷朋或歐克利的品牌標識。
+
+---
+
+### 2026-06-24 07:02:05  #公司
+
+巴西國家石油公司(Petrobras)執行長表示，與去年同期相比，該公司今年5月產量增長了14%。
+
+---
+
+### 2026-06-24 07:01:18  #Trading Economics #Economy #United States #API Crude Oil Stock Change #Importance 1
+
+US Crude Stocks Extend Decline — US crude oil inventories fell by 765,000 barrels in the week ending June 19, following a sharp 8.33 million-barrel decline in the previous week. According to American Petroleum Institute data, commercial crude inventories excluding the SPR have dropped by 53 million barrels over the past ten weeks. Still, total US crude inventories are down by only 2.1 million barrels so far this year, as ongoing transfers from the SPR have helped offset steeper commercial draws. Commercial stockpiles have been supported by a steady release of barrels from the SPR into the market, pushing reserve holdings to their lowest level in more than four decades. In the latest week, another 9.1 million barrels were withdrawn from the SPR, bringing total reserves to 331.2 million barrels, or 394 million barrels below maximum capacity. Meanwhile, US crude production rose to 13.806 million barrels per day in the week ending June 12, up slightly from 13.799 million barrels per day in the prior week.
+
+---
+
+### 2026-06-24 06:57:53  #其他
+
+【模組化設計的奈米遞藥機器人能自行組裝】瑞士巴塞爾大學科學家研製出一款多功能奈米遞藥機器人，由推進模組和有效載荷模組構成，兩種模組可重複使用，並能夠自行組裝。試驗結果顯示，該機器人可靶向癌細胞並降低其活性，有望在醫學、工業等領域大顯身手。相關論文發表於最新一期《先進功能材料》雜誌。
+
+---
+
+### 2026-06-24 06:56:44  #公司 #國際
+
+【波音獲得美國空軍價值最高20億美元的衛星合同】波音從美國空軍獲得一份價值最高20億美元的合同。該份固定價格激勵合同涵蓋兩顆Mobile User Objective System衛星的設計、開發、建造和測試。美國國防部表示，波音在擊敗一個競爭性報價後贏得了該合同。在本財政年度，該公司最初將獲得2.04億美元，用於研發和測試。該合同的相關工作將在加州埃爾塞貢多進行，預計將於2035年9月30日前完成。
+
+---
+
+### 2026-06-24 06:56:22  #國際
+
+波音獲得美國空軍價值最高20億美元的衛星合同。
+
+---
+
+### 2026-06-24 06:56:07  #國際
+
+【路透調查：上週美國原油庫存與成品油庫存可能下降】週二公佈的路透調查顯示，上週美國原油庫存料將下降，餾分油與汽油庫存亦減少。路透調查的九位分析師平均預計，截至6月19日當週，原油庫存減少約450萬桶。分析師估計，上週汽油庫存減少約60萬桶，包括柴油和取暖油在內的餾分油庫存預計減少約50萬桶。調查顯示，煉廠產能利用率預計與前一週持平，仍為96.7%。
+
+---
+
+### 2026-06-24 06:55:40  #公司 #國際
+
+【6月24日隔夜要聞一覽】
+1、美國總統特朗普表示，美國“正致力於與伊朗達成一項公平的協議”，以結束霍爾木茲海峽的衝突。他稱，僅在前一天（6月22日），就有1900萬桶石油透過霍爾木茲海峽運輸。
+2、美國總統特朗普表示，伊朗在國際原子能機構核查問題上的說法是錯誤的。他同時表示，核查人員將在適當時候進入當地開展工作。
+3、正在巴基斯坦訪問的伊朗總統佩澤希齊揚在接受採訪時表示，伊美諒解備忘錄中並不包含導彈問題，未來也不會將其納入議題。佩澤希齊揚稱，伊朗永遠不會與任何人協商伊朗方面的防禦能力。
+4、黎巴嫩真主黨領導人納伊姆·卡西姆當地時間23日發表電視講話稱，現在停火已經實現，以色列撤軍必須按照時間表進行。
+5、俄羅斯總統普京在政府工作會議上表示，俄方願意在2022年春季伊斯坦布林達成的協議、2024年在外交部講話中闡述的原則、2025年安克雷奇會晤討論的模式以及地面現實的基礎上，與烏克蘭進行和平談判。
+6、阿曼方面表示已與國際海事組織協調，在霍爾木茲海峽提供臨時海上通道，尋求過境的船隻需與國際海事組織協調。
+7、以色列反對黨領導人、前總理貝內特6月23日在耶路撒冷的一場公開活動上承認，他2021年至2022年擔任以色列總理期間，曾採購數萬臺“星鏈”接收器並偷運入伊朗，以幫助反政府抗議者試圖推翻伊朗政權。
+8、特朗普政府將提供175億美元貸款，用於支援公用事業公司訂購西屋電氣公司(Westinghouse Electric Co.)設計的反應堆裝置，此舉旨在重振美國大型核電站建設。
+
+---
+
+### 2026-06-24 06:55:22  #公司 #國際
+
+【洛克希德-馬丁公司獲得價值84億美元的美國陸軍合同修訂】洛克希德-馬丁公司獲得一份美國陸軍合同的修訂，價值84億美元。該項修訂提高了合同金額上限，並將訂購期延長至2032財政年度底。該合同涵蓋“精確打擊導彈增量一”(Precision Strike Missiles Increment One)的生產，以及“早期作戰能力”(Early Operational Capability)軍事資產的採購和管理。該合同的總價值目前約為133億美元。相關工作預計將於2032年9月30日前完成。
+
+---
+
+### 2026-06-24 06:55:14  #Trading Economics #Markets #New Zealand #Stock Market #Importance 1
+
+NZX Falls for 3rd Session, Tracking Wall Street Lower — The NZX 50 dropped 38 points, or 0.3%, to 13,398 in Wednesday morning trade, extending losses from the previous two sessions, as it tracked a decline on Wall Street overnight driven by a steep sell-off in chip stocks amid concerns that AI hyperscalers may be forced to slow spending on AI infrastructure. Traders were also cautious ahead of the release of the US final Q1 GDP data and the May PCE Price Index later this week, which could provide clues about the Federal Reserve's monetary policy decision at its upcoming meeting, after it left interest rates unchanged last week. However, easing oil prices helped limit the decline as inflation concerns eased. Financial, technology, healthcare, and industrial stocks weighed on the index, with notable losses from Summerset Group (-2.3%), Fletcher Building (-2.1%), Ryman Healthcare (-1.3%), Gentrack Group (-1.1%), Hallenstein Glasson (-1.1%), Mainfreight (-0.9%), and Infratil (-0.6%).
 
 ---
 
@@ -19511,101 +19609,5 @@ Oil Steadies as US-Iran Talks Continue — Crude oil stabilized above $74 per ba
 ### 2026-06-23 07:27:34  #其他
 
 【人民日報：推動我國產業向全球價值鏈中高階邁進】建設貿易強國是全面建設社會主義現代化國家的內在要求，是我國推進高水平對外開放的重要組成部分。貿易強國之“強”，不僅體現在規模大、覆蓋面廣，更體現在質量優、附加值高、創新能力強、規則影響力大，體現在我國產業在全球價值鏈中的地位持續提升。貫徹落實黨中央決策部署，必須把貿易強國建設放在構建新發展格局、擴大高水平對外開放、發展新質生產力中統籌把握，推動貿易創新發展，推動我國產業向全球價值鏈中高階邁進。要最佳化升級貨物貿易，推動出口產品向技術含量高、附加值高、帶動能力強的方向升級。鞏固機電產品、裝備製造等傳統優勢，提升產品品質、品牌影響力、國際競爭力和售後服務水平。緊扣新質生產力培育，支援高技術產品、綠色低碳產品等拓展國際市場。
-
----
-
-### 2026-06-23 07:25:47  #央行 #市場 #觀點
-
-【LPR連續13個月保持不變 貸款利率定價基準有望多元化】6月22日，中國人民銀行授權全國銀行間同業拆借中心公佈新一期貸款市場報價利率（LPR），1年期為3.0%，5年期以上為3.5%，連續13個月保持不變。專家表示，6月兩個期限品種的LPR保持不變，符合市場預期。專家分析，一方面是由於主要政策利率保持不變，當月LPR定價基礎沒有變化；另一方面從穩息差角度看，當前報價行缺乏主動下調LPR報價加點的動力。“預計伴隨利率調控框架改革，未來LPR報價形成機制有可能從7天期逆回購利率加點的方式逐步調整。”中信證券首席經濟學家明明表示，2026年第一季度中國貨幣政策執行報告提及單一貸款利率定價基準向多元化基準演化的海外先例，也可能對應未來我國貸款利率定價方式從單純跟隨LPR轉向參考國債利率等更加多元化方式。預計未來相較於直接LPR“降息”，央行或更多基於調控框架最佳化改革的方式，實現實體經濟融資降成本的目標。（中國證券報）
-
----
-
-### 2026-06-23 07:23:12  #市場
-
-【高階產品吃緊吃香 高純石英砂身價水漲船高】受AI資料中心及算力網路建設推動，光纖產業鏈全線“吃緊”，其中高純石英砂的身價也水漲船高，成了名副其實的 “砂中黃金”。行業資料顯示，當前光纖用高純石英砂主流報價已漲至每噸4.8萬元至5.5萬元，其中純度6N級以上的高階產品更是“一砂難求”，由於國產自給率有待提升，行業供需偏緊格局不斷加劇。高純石英砂近期的漲價底氣，來自下游光纖產業爆發式的需求傳導。“高純石英砂應用在光棒製備多個環節，且光纖生產中也要用到石英配套產品。”一位從事石英制品加工的企業負責人表示，光棒廠訂單增加，自然對包括高純石英砂在內的“周邊產品”需求增大。（上海證券報）
-
----
-
-### 2026-06-23 07:22:08  #其他
-
-【稀有“味精”供需錯配加劇 鍺價半年漲逾八成】截至6月18日，鍺錠已攀升至25000元/千克，較2025年末漲逾83%。驅動這一輪價格飆升的，主要是AI算力基礎設施等領域對光纖的旺盛需求。在光纖製造中，四氯化鍺扮演著“味精”般的關鍵角色。它是光纖預製棒纖芯摻雜的核心原料，主要作用是提高纖芯折射率等，讓光纖的傳輸效能更“能打”。“在光纖預製棒的原材料成本里，鍺的佔比很低，但由於下游對鍺材料的純度要求高，加上國內鍺供給較為集中、材料不可替代性強，相比其他材料，鍺的供需矛盾會更為明顯。”一家頭部光纖預製棒生產商介紹。（上海證券報）
-
----
-
-### 2026-06-23 07:19:28  #公司 #市場
-
-【金價劇烈波動 銀行集體上調貴金屬產品保證金】據證券時報，6月22日，廣發銀行、華夏銀行、中國銀行相繼釋出公告，上調代理上海黃金交易所個人貴金屬交易延期合約保證金比例。這是6月以來銀行再度密集收緊貴金屬交易槓桿。據記者梳理，6月2日，建設銀行、工商銀行已率先將黃金、白銀等延期合約保證金比例從100%上調至120%；隨後農行跟進。6月16日，招行亦將多個合約追保保證金比例調整為120%。而今年2月，工行、農行、建行等多家大行已將保證金比例由80%統一上調至100%，市場普遍認為相關合約已徹底“去槓桿”。
-
----
-
-### 2026-06-23 07:18:32  #其他
-
-【鏈博會開幕首日 主賓國澳大利亞攜新能源代表團亮相】22日是第四屆中國國際供應鏈促進博覽會開幕的第一天，主賓省安徽以“皖鏈中外·智創未來”為主題，舉辦了主題推介活動，向全球推介安徽產業硬實力，深度融入全球產業鏈供應鏈分工。在推介活動上，安徽的新能源汽車、人工智慧、量子科技等企業向來自世界各地的參會嘉賓，介紹了產業創新優勢和供應鏈水平。本屆鏈博會，澳大利亞首次以“主賓國”身份亮相，並組織了新能源行業代表團來華參展。開幕首日舉辦的“中澳可再生能源產業合作對接會”，為中澳企業搭建起了高效務實的合作平臺。（央視）
-
----
-
-### 2026-06-23 07:15:59  #市場
-
-【全球資金“加槓桿”押注半導體】今年以來，隨著人工智慧產業迭代、相關需求全面爆發，全球半導體板塊持續走強。在此背景下，具備高彈性特徵的半導體槓桿ETF成為資金追逐的焦點，海外市場多隻相關產品今年以來規模大增。 本輪槓桿ETF行情呈現鮮明的散戶主導特徵，個人資金成為入場主力。業內人士認為，自帶槓桿屬性的交易工具是一把“雙刃劍”，在放大收益的同時，其每日調倉、波動加劇、流動性失衡等潛在風險持續暴露，短期劇烈回撤、走勢異常背離等現象頻發，為這場散戶主導的資金狂歡埋下多重隱患。（上海證券報）
-
----
-
-### 2026-06-23 07:15:29  #公司 #國際
-
-【Reliance Worldwide將關閉澳大利亞黃銅製造業務並預警資產減值】管道產品製造商Reliance Worldwide表示，計劃關閉其位於澳大利亞墨爾本市的黃銅鑄造、鍛造和機械加工作業，此舉是該公司正在進行的生產佈局調整的一部分，預計將提升未來盈利。該公司表示，其在Moorabbin和Braeside的業務已不再具有經濟可行性，並預計到2027財年底，此舉將為息稅折舊及攤銷前利潤帶來約900萬美元的年淨增長。該公司稱，美洲地區成本的降低預計將足以抵消亞太地區收入減少所帶來的影響。該公司表示：“運營盈利的改善，反映出調整後的供應鏈帶來了更優的第三方採購經濟效益，以及美國關稅敞口的降低。”Reliance表示，預計將在2026財年錄得1億至1.1億美元的一次性淨支出，其中包括商譽減值和裁員撥備。Reliance稱，約有85名員工受此次關閉影響。
-
----
-
-### 2026-06-23 07:14:51  #其他
-
-【全球腦機介面×醫保創新場景大賽在杭州啟動】此次賽事由國家醫療保障局聯合浙江省人民政府共同舉辦，將於9月舉行決賽。目前，大賽官網已開放線上報名通道。此次大賽設定腦控無人機競技賽、腦控運動輪椅競技賽、腦控機械臂搬運競技賽、腦控機器狗競技賽、腦控打字競速賽、虛擬任務競速賽六大任務競技類賽道，以及健康監測與早期預警、功能康復與智慧照護2個場景應用類賽道。國家醫療保障局大資料中心主任付超奇在會上表示，大賽以腦機介面創新應用為突破口，打造“前沿智慧技術+智慧醫保+全域健康服務”的發展新模式。（科技日報）
-
----
-
-### 2026-06-23 07:14:28  #公司 #市場
-
-【光棒個別型別較年初漲價逾五倍 供應緊缺或將延續至2027年】受益於AI算力網路建設帶來的巨量光纖光纜需求，作為光纖製造“母體”的光纖預製棒（下稱“光棒”）價格較2025年初快速上漲：通用G.652D光棒報價漲幅超過180%；用於資料中心高密度佈線的G.657.A2類光棒，每等效芯公里報價則由22元至30元漲到160元，漲幅近550%。多家上市公司表示，本輪光棒價格上漲與供需失衡以及上游原材料漲價傳導等因素共同導致，預計緊缺狀態將持續到2027年。（上海證券報）
-
----
-
-### 2026-06-23 07:14:07  #其他
-
-【算力光纖需求共振 高純四氯化矽景氣度上行】受算力基建、通訊網路升級帶動，今年以來，高純四氯化矽市場需求持續回暖。高純四氯化矽下游主要應用於光纖預製棒、合成石英玻璃的生產。據瞭解，受益於全球光纖高景氣，高純四氯化矽同步進入緊缺導致的漲價週期。“當前高純四氯化矽行業處於景氣上行週期，後續其市場需求具備中長期剛性增長邏輯。”近日一家矽化工龍頭企業負責人對記者表示，“能滿足光纖A2超低損耗光棒、先進半導體制程的6N以上超高純四氯化矽產能存在技術壁壘高、客戶匯入難等特點，目前全球有效產能偏緊，疊加下游光棒產業未來幾年的擴產節奏，行業盈利水平有望進一步抬升。”（上海證券報）
-
----
-
-### 2026-06-23 07:13:10  #市場 #國際
-
-【美國汽油價格連續第六週下跌】資料顯示，週一，美國與伊朗之間的外交斡旋使美國消費者在加油時感到了一絲寬慰：汽油價格已連續第六週下跌，較5月份的高點下降了15%。據油價追蹤服務機構GasBuddy的資料，上週全國汽油均價下跌了14.1美分/加侖，週一降至每加侖3.85美元。大多數州的汽油價格均出現下跌。GasBuddy資料顯示，過去一週，科羅拉多州的汽油價格每加侖下跌25美分，亞利桑那州下跌22美分，俄亥俄州下跌21美分。
-
----
-
-### 2026-06-23 07:12:15  #其他
-
-【議會否決組閣方案 羅馬尼亞新總理人選仍待定 】羅馬尼亞參眾兩院聯席會議22日晚投票，沒有透過總理阿德里安·韋什泰亞的組閣方案。這一結果意味著羅馬尼亞總統達恩需與各黨派協商，再次委任新的總理，同時臨時政府將繼續履職。據羅通社報道，韋什泰亞政府需獲得至少233張贊成票才能宣誓就職，而參眾兩院聯席會議當晚僅有189票贊成，另有23票反對。投票結束後，韋什泰亞在宣告中表達遺憾，稱羅馬尼亞人接下來“還將經歷一段不安和焦慮的時期”。
-
----
-
-### 2026-06-23 07:10:42  #國際
-
-【環球時報社評：孟加拉國總理訪華，少數印媒不必耿耿於懷】孟加拉人民共和國總理塔裡克·拉赫曼將於6月24日至26日對中國進行正式訪問。此訪是塔裡克就任後首次訪華，他還將出席在大連舉行的第十七屆夏季達沃斯論壇。緊湊而豐富的行程安排，折射出孟加拉國新一屆政府對發展對華關係的高度重視。據孟加拉國媒體透露，中孟雙方將簽署一系列合作檔案，充分體現兩國深厚的政治互信基礎和巨大的合作潛能。少數印度媒體對孟加拉國領導人首訪忽視印度而耿耿於懷。有印媒稱，塔裡克是“繞過印度”去了中國，對孟加拉國沒有表現出優先發展與印度的關係而感到很不是滋味。還有媒體警告中孟兩國開展水利合作“尤其觸動了新德里的敏感神經”。這些泛著酸味的論調背後，折射出一部分印方人士抱有“老大”心態，把鄰國首訪當作“宗主國受貢儀式”，把別國的外交自主選擇視為對自己的冒犯。 其實，中國重視發展與孟加拉國的關係，也樂意發展與印度的務實合作。中印應當做睦鄰友好的朋友、相互成就的夥伴，實現“龍象共舞”。（環球網）
-
----
-
-### 2026-06-23 07:07:49  #Trading Economics #Economy #Australia #Manufacturing PMI #Importance 2
-
-Australia Factory Growth Picks Up in June — The S&P Global Australia Manufacturing PMI increased to 51.2 in June 2026 from 50.7 in the previous month, preliminary estimates showed. It was the third consecutive month of expansion, supported by rises in employment. However, production continued to decline slightly, with the rate of decline little changed from the previous month. Looking ahead, business sentiment strengthened, supported by expansion plans and optimism about future new orders.
-
----
-
-### 2026-06-23 07:07:14  #公司 #國際
-
-【報道：韓國總統李在明將與三星討論區域投資計劃】據每日經濟援引政界及業界未具名訊息人士的話報道稱，韓國總統李在明將於6月25日會見三星電子執行會長李在鎔（Jay Y. Lee），討論區域投資計劃。李在明已於6月19日會見了SK集團會長崔泰源。外界猜測，三星和SK海力士可能會在韓國西南部的全羅道地區進行晶片相關的投資。三星、SK海力士及其他公司可能會在6月29日舉行的總統府會議上宣佈區域投資計劃。
-
----
-
-### 2026-06-23 07:07:08  #Trading Economics #Economy #Australia #Services PMI #Importance 1
-
-Australia Services Activity Nears Stabilisation in June — The S&P Global Flash Australia Services PMI Business Activity Index rose to 49.9 in June from 48.7 in the previous month. The flash data indicated that the services sector moved closer to stabilization but remained slightly in contraction territory. Nonetheless, the improvement helped lift the Composite Output Index to 49.8 from 48.7, signaling broadly stable private sector activity. However, new orders continued to decline for a fourth straight month amid market uncertainty, while export demand also weakened. Business confidence fell to its lowest level since the pandemic. Employment returned to growth, but firms reduced backlogs at the fastest pace in over two years. Meanwhile, input cost and selling price inflation eased further despite persistent fuel and transportation cost pressures.
 
 ---

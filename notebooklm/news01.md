@@ -1,7 +1,169 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-06-26 05:45:47_
-_本檔包含 3445 則快訊，約 618421 字_
+_更新時間：2026-06-26 06:42:58_
+_本檔包含 3451 則快訊，約 618036 字_
+
+---
+
+### 2026-06-26 06:40:27  #其他
+
+必和必拓：拆分美洲業務板塊，分設北美區總裁、南美區總裁。
+
+---
+
+### 2026-06-26 06:40:10  #MKT News
+
+The US issued a general license for Venezuela authorizing transactions related to earthquake relief.
+
+---
+
+### 2026-06-26 06:40:02  #Trading Economics #Markets #Commodity #Importance 1
+
+Agricultural Commodities Updates: Cocoa Rises by 4.96% — Top commodity gainers are Cocoa (4.96%), Soybeans (1.98%) and Corn (1.90%). Biggest losers are Oat (-3.18%) and Wool (-2.31%).
+
+---
+
+### 2026-06-26 06:38:04  #國際
+
+美國發布針對委內瑞拉通用許可，允許開展與地震救災相關的交易活動。
+
+---
+
+### 2026-06-26 06:35:02  #Trading Economics #Markets #Commodity #Importance 1
+
+Metals Commodities Updates: Copper Gains by 1.86% — Top commodity gainers are Copper (1.86%), Platinum (1.33%) and Gold (0.73%). Biggest losers are Iron Ore CNY (-1.21%), Steel Rebar (-0.78%) and Silicon (-0.66%).
+
+---
+
+### 2026-06-26 06:30:02  #Trading Economics #Markets #Commodity #Importance 1
+
+Energy Commodities Updates: Gasoline Rises by 4.13% — Top commodity gainers are Gasoline (4.13%), Heating Oil (3.31%), Propane (2.75%), Crude Oil WTI (1.48%) and Brent Crude Oil (1.23%). Biggest losers are Methanol (-2.44%), Germany Natural Gas THE (-1.32%) and Liquefied Natural Gas Japan Korea (-1.06%).
+
+---
+
+### 2026-06-26 06:25:30  #公司 #觀點
+
+【同仁堂醫養香港上市擬籌資不超過6.716億港元】根據呈交香港交易所的公告，北京同仁堂醫養投資股份有限公司在香港發售1.08億股股份，發售價區間為每股5.48港元至6.21港元。計算顯示，該公司預計將籌資不超過6.716億港元。預計7月7日上市交易，中金公司是獨家保薦人。
+
+---
+
+### 2026-06-26 06:23:34  #央行 #市場
+
+【資金面緊張情緒緩解，債市全線走強】6月25日，在資金面緊張情緒明顯緩解的帶動下，債市全線走強。市場人士認為，央行近期釋放出穩定跨季流動性的訊號，疊加銀行融出規模回升，市場對資金面的擔憂有所降溫。不過，債市已較為充分反映基本面和資金面寬鬆預期，後續修復仍待增量資訊。（上證報）
+
+---
+
+### 2026-06-26 06:23:16  #其他
+
+【加碼國際業務 券商競逐業績新增長極 】中資券商出海明顯換擋提速，資本注入從“零星試探”變成“集中加碼”。據不完全統計，2026年以來，至少已有7家上市券商披露海外業務佈局進展。在具體業務拓展中，券商海外業務已從單一的經紀業務服務走向FICC、資管、衍生品等綜合服務。在業內人士看來，隨著資本金陸續到位、業務逐步落地，國際業務對券商的利潤貢獻還有進一步抬升空間，頭部券商有望在國際化佈局中保持行業競爭優勢。（中證報）
+
+---
+
+### 2026-06-26 06:22:41  #公司
+
+極兔速遞：回購授權允許回購最多 10% 已發行股份，本次股份回購計劃資金上限設定為 20 億港元。
+
+---
+
+### 2026-06-26 06:21:37  #公司 #市場 #央行 #國際
+
+【隔夜逆回購月底“首秀”，短端利率調控再添新工具】中國人民銀行6月25日公告，將在6月29日、6月30日公開市場操作中增加隔夜逆回購操作品種，隔夜逆回購操作採用固定利率、數量招標。與歐洲央行等類似，目前我國央行公開市場主力操作品種是7天期逆回購。7天期逆回購操作有效維護了短端利率平穩。強化隔夜利率調控，更符合我國銀行間市場的交易結構。國盛證券首席經濟學家熊園表示，隔夜品種是銀行間市場流動性交易最集中的期限，成交規模和市場活躍度均明顯高於7天期品種，因此其價格變化更能反映銀行體系短期流動性的邊際鬆緊。當前，短端市場利率已回升至政策利率附近。展望下一階段的流動性狀況，東方金誠首席宏觀分析師王青判斷，在央行啟動隔夜逆回購背景下，月底前央行公開市場操作有望處於較大規模的淨投放狀態，市場利率持續向上大幅偏離政策利率的可能性不大。（上證報）
+
+---
+
+### 2026-06-26 06:21:27  #市場
+
+【多因素共振 券商板塊再現強勢上漲 】在經歷週一的強勢大漲後，6月25日，A股券商板塊再度上攻，其自6月9日以來的這輪反彈行情，累計漲幅已超過15%。業內人士表示，行業業績增長預期強化、政策訊號密集釋出以及板塊估值處於低位或是此輪券商板塊上漲的主要因素。此外，近期市場風格的再平衡一定程度上也提升了市場對券商板塊投資價效比的關注度。從更長期視角看，低利率背景帶來的財富管理發展歷史性機遇等敘事邏輯有望驅動券商板塊實現估值重塑，綜合實力領先的頭部券商更加值得關注。（中證報）
+
+---
+
+### 2026-06-26 06:20:07  #MKT News #Important #Macro & Rates #The Fed (FOMC)
+
+2027 FOMC voting member and Chicago Fed President Austan Goolsbee to speak in 10 minutes.
+
+---
+
+### 2026-06-26 06:18:42  #MKT News #09999.HK #Impact bullish
+
+NetEase-S (09999.HK) has chosen to become a dual primary-listed company on HKEX, effective June 30, 2026; the "S" marker will be removed from its Hong Kong stock short name on the effective date.
+
+---
+
+### 2026-06-26 06:18:32  #央行 #公司
+
+【上證報：利率調控短端化的三重考量】我國利率調控正呈現短端化趨勢。2026年6月25日，央行釋出公告，將在6月29日、30日公開市場操作中增加隔夜逆回購操作品種，短端利率調控機制進一步完善。專家認為，利率調控短端化，或包含三重核心考量：一是適配重塑中的金融結構。二是穩定金融市場執行與金融產品估值。三是精準契合貨幣政策調控轉型方向。有機構判斷，隔夜（逆）回購利率可能成為我國的新政策利率。不過，有業內人士判斷，未來即使政策利率切換至隔夜逆回購利率，也將經歷一個平穩過渡、循序漸進的過程，需要先理順各期限工具利差、切換金融產品等利率基準錨點。
+
+---
+
+### 2026-06-26 06:16:49  #其他
+
+網易：獲選定為港交所雙重主要上市企業，6 月 30 日生效。
+
+---
+
+### 2026-06-26 06:15:02  #Trading Economics #Markets #Currency #Importance 1
+
+FX Updates: Brazilian Real Appreciates by 0.65% — Top currency gainers are Brazilian Real (0.65%), Mexican Peso (0.58%), Swiss Franc (0.25%), British Pound (0.20%) and Euro (0.12%). Biggest losers are Indian Rupee (-0.34%) and Dollar Index (-0.16%).
+
+---
+
+### 2026-06-26 06:14:27  #央行 #公司
+
+【隔夜逆回購操作在即 央行多維發力呵護年中流動性】中國人民銀行6月25日釋出公告稱，將在6月29日、6月30日公開市場操作中增加隔夜逆回購操作品種。同日，央行開展5000億元MLF操作與3705億元7天期逆回購操作，實現淨投放3225億元。專家表示，增加隔夜逆回購操作品種以及淨投放7天期逆回購，將有助於更好匹配銀行體系短期流動性需求。同時，加量續做當月MLF將有效滿足金融機構較長期限資金需求，支援政府債券順利發行及銀行加大信貸投放力度。（中證報）
+
+---
+
+### 2026-06-26 06:13:56  #資料
+
+【物價溫和回升 供需迴圈改善訊號清晰 】今年上半年，國內物價走出持續低位格局，呈現CPI溫和抬升、PPI同比轉正的結構性修復態勢，供需迴圈改善訊號清晰。專家表示，展望下半年，物價整體將維持在溫和區間。當前，“PPI—CPI”剪刀差進一步走闊，後續財政政策、貨幣政策、保供穩價政策仍需協同發力，暢通產業鏈價格傳導，以修復市場預期，促進經濟正向迴圈。（中證報）
+
+---
+
+### 2026-06-26 06:09:04  #市場
+
+紐約期銀日內跌1%，現報58.16美元/盎司。
+
+---
+
+### 2026-06-26 06:00:40  #市場 #焦點
+
+現貨黃金突破4030美元/盎司，日內漲0.07%。
+
+---
+
+### 2026-06-26 06:00:17  #央行 #國際
+
+【美聯儲7月維持利率不變的機率為69%】據CME“美聯儲觀察”：美聯儲7月維持利率不變的機率為69%，累計加息25個基點的機率為31%。 美聯儲到9月維持利率不變的機率為36.6%，累計加息25個基點的機率為48.8%，累計加息50個基點的機率為14.6%。
+
+---
+
+### 2026-06-26 05:55:21  #MKT News
+
+The Trump administration on Wednesday notified Congress of a planned sale of $700 mln in jet engines to Turkey.
+
+---
+
+### 2026-06-26 05:55:00  #國際
+
+市場訊息：特朗普政府週三通知國會，擬向土耳其出售價值 7 億美元的航空發動機。
+
+---
+
+### 2026-06-26 05:53:53  #其他
+
+【2名中國公民在委內瑞拉地震中遇難】據中國駐委內瑞拉大使館公佈的訊息，截至當地時間25日16時，據不完全統計，已確認有2名中國公民在“6·24地震”中遇難。（新華社）
+
+---
+
+### 2026-06-26 05:52:41  #公司 #國際
+
+【報道：美國政府要求OpenAI分階段釋出最新模型GPT 5.6】據知情人士透露，在美國總統特朗普的政府提出要求後，OpenAI將分階段釋出其最新人工智慧模型GPT 5.6。OpenAI執行長Sam Altman週三在員工問答會上講話，這和一份備忘錄透露出以上資訊。OpenAI將首先向少數合作伙伴釋出GPT 5.6有限預覽，Altman表示，這是儘快廣泛釋出該模型的最佳路徑。 Altman在週四的一份備忘錄中告訴員工，在GPT 5.6預覽期間，政府將“逐個客戶批准訪問許可權”。Altman在備忘錄中稱：“我們已向美國政府明確表示，這不是我們偏好的長期模式，並將與政府和業內合作，為未來的產品釋出尋求更可持續的方案。”分階段釋出的要求源於OpenAI與美國國家網路總監辦公室以及白宮科技政策辦公室的溝通。
+
+---
+
+### 2026-06-26 05:52:35  #Trading Economics #Markets #Brazil #Currency #Importance 1
+
+BRL Gains In Late June — The Brazilian real traded near 5.17 per USD in June, strengthening slightly toward the end of the month amid a broader pullback in the US dollar. Softer-than-expected US PCE data eased concerns over additional Federal Reserve tightening, pushing Treasury yields lower and weighing on the dollar against major and emerging market currencies. In Brazil, the BCB’s updated Monetary Policy Report raised the probability of inflation breaching the upper bound of the target range, despite June’s softer-than-expected mid-month inflation reading. Still, the interest rate differential remained supportive for the real, with Brazil’s benchmark Selic at 14.25% compared with the US policy range of 3.50%-3.75%. That wide spread has continued to attract foreign inflows and provide support to the Brazilian currency.
 
 ---
 
@@ -20606,131 +20768,5 @@ Oil Sinks Toward Pre-War Levels — Crude oil dropped below $70 per barrel on Th
 ### 2026-06-25 07:26:07  #其他
 
 【高通預計到2029財年資料中心AI元件銷售額將超150億美元】高通當地時間6月24日釋出最新展望，預計到2029年，除手機業務外，其他業務的年收入將達到400億美元，是兩年前長期預測的兩倍；預測到2029財年在資料中心AI元件市場的銷售額將超過150億美元。
-
----
-
-### 2026-06-25 07:25:59  #公司 #市場 #國際
-
-【年內股價回撤較大的部分低估值核電概念股一覽】當地時間6月23日，美國能源部宣佈，將向公用事業公司和能源企業提供總額175億美元的貸款支援，以加快全美10座大型核反應堆的建設和部署。AI資料中心的快速擴張，正給美國電力系統帶來前所未有的壓力。華源證券分析，AI資料中心帶來的新增電力需求為未來十年的核電覆興提供了堅實基礎。從產業趨勢看，全球核能正在從傳統公用事業資產逐步演變為AI時代的核心基礎設施。據證券時報·資料寶統計，截至6月24日收盤，滾動市盈率低於40倍的核電概念股有18只。華能國際滾動市盈率為8.39倍，排在最低位置。公司旗下聯營企業包括霞浦核電、石島灣核電。盾安環境、久立特材、海陸重工、浙富控股、上海電力滾動市盈率介於10倍至20倍之間。從股價表現來看，以6月24日收盤價與年內高點相比，上述18只核電概念股中，8股回撤幅度超30%，包括常輔股份、中國核建、沃爾核材、海陸重工、寶鈦股份等。常輔股份回撤幅度最高，達到50.69%。
-
----
-
-### 2026-06-25 07:25:41  #Trading Economics #Economy #United Kingdom #Car Production #Importance 1
-
-UK Car Production Rises for 1st Time in 5 Months — UK car production increased by 3.2% year-on-year to 49,249 units in May 2026, rebounding from a 0.7% decline in the previous month. This marked the first month of rise since last December, as overseas demand improved while domestic production remained broadly stable. The recovery in exports helped lift overall vehicle manufacturing despite lingering uncertainty surrounding global trade conditions and the impact of tariffs. Car exports strengthened during the month, with the United States recording the largest increase among major export markets, surging 83% to 7,733 units, supported by the implementation of the US-UK trade agreement. However, exports to the European Union, the UK's largest market, declined 5.2% to 20,057 units, while shipments to China fell 14% to 2,794 units. Overall UK vehicle production rose 2.7% to 51,178 units, while commercial vehicle output dropped 7.6% to 1,929 units.
-
----
-
-### 2026-06-25 07:23:50  #其他
-
-【首設人工智慧專區 創新應用集中亮相鏈博會】第四屆中國國際供應鏈促進博覽會正在北京舉行，本屆鏈博會把數字科技鏈升級為數智科技鏈，同時首次設立人工智慧專區，完整呈現從資料採集、智慧計算到行業場景落地的全鏈條產業生態，一大批人工智慧創新應用集中亮相。（央視）
-
----
-
-### 2026-06-25 07:23:44  #公司
-
-【大眾集團將埃維能多數股權售予貝恩資本】6月25日，大眾集團宣佈已與貝恩資本簽訂獨家協議，出售其持有的埃維能（Everllence）多數股權——將轉讓51%的股份。根據與貝恩資本簽訂的獨家協議，大眾集團將出售其持有的埃維能51%的股份，並計劃在中期內繼續作為持股49%的主要股東。此項擬議的槓桿收購交易將為大眾集團帶來約74億歐元的收益。埃維能總部位於德國，在全球140多個地點擁有約1.6萬名員工。
-
----
-
-### 2026-06-25 07:23:26  #其他
-
-【三季度投資視窗期即將來臨 多家公募發行冷門行業ETF】三季度投資視窗期即將來臨，公募基金開始以ETF新品的方式，對冷門和低配的傳統行業進行試探性佈局。今年以來，科技與非科技主題基金的業績差距迅速拉大，有關風格切換的討論也日漸增多。雖然擁抱科技的主動權益基金不會輕易換倉，但多家頭部公募正在以ETF的方式開始切入。6月末，多家公募密集發行工程機械、食品消費、家電、生物醫藥等前期較為冷門的行業ETF，試圖挖掘被低估的投資機會。
-
----
-
-### 2026-06-25 07:22:11  #公司 #市場
-
-【利益繫結 良性共振 公募自購頻頻命中“績優基”】在今年科技投資的浪潮中，作為專業投資者，公募機構積極投身其中。憑藉對AI主線的重倉把握，一些基金公司自購的部分基金產品獲得了豐厚的回報。比如，財通基金今年1月自購的財通成長優選A如果持有至今，回報率或突破140%；另外，融通基金2月成立的發起式新產品融通科技臻選A目前回報率已翻倍，基金公司原始投入的1000萬元已實現回本。在公募行業降費讓利的大背景下，自有資金的投資回報在一定程度上能夠為公募機構尤其是中小機構提供經營利潤補充。業內人士透露，公募機構自有資金投資的出發點並非追求短期利潤最大化，而是基於專業判斷進行中長期資產配置。利益捆綁機制能夠將公募機構利益和產品業績、基民投資體驗高度繫結，力爭形成良性共振。透過真金白銀的風險共擔、強化投研責任約束，以主業的高質量發展對沖降費影響，才是更具持續性的盈利路徑。（中國證券報）
-
----
-
-### 2026-06-25 07:21:44  #公司
-
-【四川國資整合產業版圖 兩大萬億平臺“分工換擋”】近兩年來，四川國資體系密集推進系列資產置換與專業化整合，一場覆蓋交通基建、軌道交通、清潔能源、裝備製造的系統性資產重組全面推進。日前，新築股份重大資產重組方案獲深交所受理，四川路橋完成橋樑部件資產收購相關表決，蜀道投資集團有限責任公司與四川發展（控股）有限責任公司兩大省級萬億級國資平臺業務邊界進一步釐清。
-
----
-
-### 2026-06-25 07:20:14  #MKT News
-
-U.S. tsunami warning system says earthquake in Venezuela no longer poses a tsunami threat.
-
----
-
-### 2026-06-25 07:20:07  #國際
-
-美國海嘯預警系統：委內瑞拉地震引發的海嘯預警現已對波多黎各、美屬維爾京群島和英屬維爾京群島取消。
-
----
-
-### 2026-06-25 07:19:32  #國際
-
-美國海嘯預警系統：委內瑞拉地震不再構成海嘯威脅。
-
----
-
-### 2026-06-25 07:19:05  #公司
-
-【英偉達谷歌AI液冷路線亮相 A股公司全產業鏈佈局】近期，AI液冷技術路徑再度成為業內討論的焦點。谷歌推出Brazos技術路線，大幅提升傳統資料中心效能。英偉達在其官方部落格發文介紹了Rubin全液冷方案。這意味著散熱正成為行業關注的問題。業內人士表示，當前資料中心製冷三類技術路線並存。由於全球各地基建配套、地理氣候條件存在差異，未來資料中心或以液冷為核心，與其他路線並行。目前，國內多家上市公司已佈局AI液冷，覆蓋冷板、CDU等零部件、製冷液、整機裝置等全產業鏈環節。（上海證券報）
-
----
-
-### 2026-06-25 07:18:23  #其他
-
-市場訊息：美伊達成協議後，卡達與沙烏地阿拉伯商討地區安全事宜。
-
----
-
-### 2026-06-25 07:17:36  #市場
-
-【6月以來機構密集調研的算力硬體概念股名單出爐】全球高效能運算格局迎來變化，國產自研超算一舉奪得全球算力榜首。此次突破覆蓋晶片、儲存、散熱等算力硬體全產業鏈，帶動算力硬體賽道熱度走高。據證券時報·資料寶統計，A股中佈局算力晶片、HBM和液冷散熱三大算力硬體板塊的個股共有116只。6月以來，算力硬體概念股平均上漲19.05%，其中中巨芯-U累計上漲130.8%，居首；華正新材、唯特偶和盛美上海緊隨其後，分別上漲89.58%、87.38%和75.59%。6月以來，21只算力硬體概念股獲機構調研，其中11只備受機構關注，獲機構調研家數在10家及以上，盛美上海、精智達、奧比中光-W獲機構調研家數居前，分別達到129家、88家、71家。
-
----
-
-### 2026-06-25 07:16:46  #其他
-
-【多地農商銀行啟動全員清收行動】近期，多家農商銀行集中開展全員清收行動。這既反映出農商銀行改善資產質量的需求，也是銀行落實監管要求的體現。事實上，各類不良資產處置方式各有適用範圍，全員清收方式能夠利用銀行員工的本地關係網，最適配清收筆數多、單筆金額小的農戶信用貸款和個體工商戶經營性貸款。在短期突擊壓降不良貸款規模後，如何建立改善資產質量的長效機制是各家農商銀行要著力解決的問題。（中證報）
-
----
-
-### 2026-06-25 07:16:00  #公司 #市場
-
-【A股公司年度“紅包”派發進行時 “雙創”板塊成現金分紅硬核力量】Wind資料顯示，截至6月23日（按派息日計），今年已有2379家上市公司實施了2025年年度現金分紅，合計派發現金紅利7087.55億元。其中，工商銀行以601.97億元的分紅金額居首，中國移動、農業銀行、中國平安緊隨其後，分紅金額均超過300億元。從行業分佈來看，除銀行、證券等金融板塊外，通訊、電力裝置、醫藥生物、電子等行業已發放的分紅金額位居前列。值得注意的是，一批來自創業板、科創板的硬核科技企業正步入業績收穫期，並以持續高分紅回饋耐心陪跑的投資者。在監管持續引導、市場生態最佳化與企業內生驅動的三重合力之下，“真金白銀回饋投資者”正從監管要求加速內化為越來越多上市公司的自覺行為。（上海證券報）
-
----
-
-### 2026-06-25 07:15:52  #公司 #國際
-
-西聯匯款：目前正等待美國一個州對Intermex交易的批准或無異議。公司與Intermex正積極與紐約州金融服務局及其他監管機構進行討論。
-
----
-
-### 2026-06-25 07:15:09  #公司
-
-【高通宣佈將向微軟和Meta供貨最新AI晶片】高通週三披露，微軟、Meta將採用其全新AI晶片方案；同時公司還將為另外兩家未具名超大型雲廠商開發定製化晶片。這家全球智慧手機晶片龍頭企業舉辦投資者溝通會，正式落地資料中心AI晶片佈局。高通介紹，微軟將採用其全新高頻寬計算（HBC）晶片架構。該方案依託手機、筆記本通用的平價普通記憶體，而非英偉達高價HBM高頻寬記憶體、Cerebras所用靜態儲存SRAM，成本優勢突出。Meta則將搭載高通專為AI資料中心設計的自研CPU——Dragonfly C1000。（第一財經）
-
----
-
-### 2026-06-25 07:14:41  #國際
-
-西聯匯款與Intermex就待定收購Intermex事宜提供最新進展：美國51個州及所有國際轄區的監管機構已批准該交易，或對該交易不持反對意見。
-
----
-
-### 2026-06-25 07:13:50  #公司
-
-【多家A股公司主動補稅 折射企業稅務合規新常態】近期，多家A股上市公司釋出補稅公告，涉及電子、化工、醫藥、環保等行業，引發市場關注。記者採訪財稅專家及上市公司後瞭解到，補稅主要緣於上市公司開展的稅務合規自查，屬於常態化經營和法律合規行為。中山大學法學院教授楊小強表示，上市公司補稅公告多集中在5月下旬至6月上旬，主要原因是年報披露、彙算清繳與資訊披露三個時限節點交匯，形成釋出公告的視窗期。（上海證券報）
-
----
-
-### 2026-06-25 07:13:33  #其他
-
-在倫敦市市長薩迪克·汗阻止交易後，大都會警察局獲准延長參與Palantir人工智慧專案。（衛報）
-
----
-
-### 2026-06-25 07:12:22  #MKT News #Star Stocks #NVIDIA #Market Themes #AI Revolution #Magnificent 7 #NVDA.O #Impact bullish
-
-【Jensen Huang: AI infrastructure cycle will last decades】At NVIDIA's annual shareholder meeting, Jensen Huang told CNBC that questions about AI investment returns "already have answers." He described AI data centers as "token factories," saying tokens can become code, answers, designs, actions and services and that "each token is a unit of profit." Huang said NVIDIA's systems "may not be the cheapest, but produce tokens at the lowest cost, with the highest throughput and the most revenue." He flagged "physical AI"—robots, cars and factories that can sense, reason, plan and act—as the next growth wave, expressed optimism on long-term growth and ASIC competition, and said "this build-out will be measured in decades" with NVIDIA's infrastructure offering the "best inference economics."
 
 ---

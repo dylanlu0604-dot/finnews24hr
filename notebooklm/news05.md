@@ -1,7 +1,181 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-06-26 05:45:47_
-_本檔包含 3522 則快訊，約 618033 字_
+_更新時間：2026-06-26 06:42:58_
+_本檔包含 3516 則快訊，約 617859 字_
+
+---
+
+### 2026-06-22 07:57:19  #其他
+
+【多元策略基金業績承壓 多元與賽道策略走向融合】近兩年來，隨著A股市場結構性行情極致演繹，基金的多元配置策略越來越難。公募、遊資等機構高度聚焦AI、算力等少數賽道，導致固守分散持倉策略的基金收益持續低迷，多元策略失效一度成為行業話題。不過，面對市場的變化，也有一批均衡基金透過主動調整倉位，業績表現也十分亮眼。在當前科技行情獨當一面的背景下，基金行業對多元投資的認知也在變化，業內普遍認為，公募投研正在打破賽道和均衡二選一的固有認知，兩種投資框架逐步融合發展。
+
+---
+
+### 2026-06-22 07:57:12  #觀點 #國際
+
+【中信建投：海外稀土緊缺導致下游減停產，國內產業鏈上中下游均將受益】中信建投研報稱，國內齒科氧化鋯企業確認“已經收到日本東曹關於氧化鋯粉體暫停供應的通知”，標誌著海外稀土供給受限之後，原料短缺問題從預期走向落地。氧化釔穩定奈米氧化鋯（YSZ）是新增氧化釔的高效能陶瓷材料，由於海外稀土供給受限，內外價差最大高達上百倍。國內氧化釔報價約5.5萬元/噸，鹿特丹港口價457.50美元/kg，百川報歐洲市場價1175美元/kg，內外價差巨大。此外，據百川資料，氧化鏑內外價差約8倍，氧化鋱內外價差約5倍，氧化釓內外價差約40倍，氧化鈧內外價差約6倍等。稀土是高階材料、高階製造不可或缺新增劑，隨著海外稀土供給收緊，內外價差走擴，國內新增稀土的高階材料有望獲得更大全球市場份額，稀土產業鏈上中下游均因此受益。
+
+---
+
+### 2026-06-22 07:56:57  #國際
+
+哥倫比亞極右翼候選人德拉埃斯普列亞稱，美國總統唐納德・特朗普已致電祝賀其大選獲勝。
+
+---
+
+### 2026-06-22 07:56:04  #MKT News
+
+Parliamentary sources: Bank of Japan Deputy Governor HIMINO will attend a House of Representatives Budget Committee session from 08:00 to 08:38.
+
+---
+
+### 2026-06-22 07:54:56  #央行 #國際
+
+日本央行副行長冰見野良三將出席眾議院預算委員會會議。
+
+---
+
+### 2026-06-22 07:54:54  #央行 #美聯儲
+
+美國聯邦基金利率期貨延續跌勢，顯示預計美聯儲9月加息機率為76%。
+
+---
+
+### 2026-06-22 07:54:35  #其他
+
+本週公開市場7天期逆回購到期量增加至19358億元，為上週的約2.7倍。
+
+---
+
+### 2026-06-22 07:53:20  #國際
+
+哥倫比亞總統候選人德拉埃斯普列亞在網路廣播中發言稱，特朗普表達了對他的勝利的支援。
+
+---
+
+### 2026-06-22 07:52:22  #市場 #觀點
+
+【中信建投：VC進入供需錯配期，看好漲價業績彈性】中信建投研報稱，VC在新產能投產不及預期下進入新一輪供需錯配期，本輪漲價週期啟動板塊具備業績彈性：VC屬於危險化學品，工藝及環保要求較高，伴隨著儲能需求高增及供給增量投放不及預期，26Q3供需趨緊。我們判斷旺季來臨下VC價格將進入上漲週期，本週VC價格已實現上漲5000元/噸，我們認為後續VC價格仍會繼續向上，有望上漲至18-20萬區間。看好VC漲價下板塊業績超預期的投資機會。
+
+---
+
+### 2026-06-22 07:51:52  #MKT News #Macro & Rates #Treasury Yields #DXY #Impact bullish #USDJPY #S&P500 #Impact bearish
+
+U.S. two-year Treasury yield rose to 4.2297%, its highest level since February 2025.
+
+---
+
+### 2026-06-22 07:51:30  #市場 #國際
+
+美國2年期國債收益率升至4.2297%，為2025年2月以來最高。
+
+---
+
+### 2026-06-22 07:51:23  #其他
+
+法拉第未來： FF EAI機器人6月機器人本體出貨預計將超過100臺，首個交付季將超額完成220臺目標，堅持正毛利導向和“先款後貨”銷售與交付紀律，為業務的快速推進提供現金流支撐。
+
+---
+
+### 2026-06-22 07:49:51  #市場 #國際
+
+【在中東不確定性之際日經指數可能下跌】隨著對中東衝突的不確定性持續，日本股市在近期大幅上漲後可能下跌。新加坡交易所的日經指數期貨下跌0.2%，至71,485點。在美國總統特朗普警告稱美國可能因伊朗支援真主黨而對其進行打擊後，投資者正關注原油價格和中東局勢的發展。日經指數週五上漲0.3%，達到創紀錄的71,250.06點。
+
+---
+
+### 2026-06-22 07:49:32  #Trading Economics #Markets #Commodity #Importance 2
+
+Gold Slides as Oil Advances — Gold fell below $4,150 an ounce on Monday, extending its recent decline as higher oil prices kept inflation concerns elevated following renewed tensions during the opening day of US-Iran talks. President Donald Trump threatened fresh military action if Hezbollah continues its attacks on Israel and warned Tehran against shutting the Strait of Hormuz again. At the same time, Iranian media reported that Tehran had suspended negotiations in response to Trump’s remarks, although sources familiar with the discussions said talks were still underway. Gold was also weighed down by expectations of tighter monetary policy after the Federal Reserve left interest rates unchanged last week while adopting a more hawkish tone. Nine of the Fed’s 19 policymakers now anticipate at least one rate increase this year, with investors pricing in a potential hike as soon as September.
+
+---
+
+### 2026-06-22 07:48:08  #國際
+
+【美媒稱美伊談判還在繼續 伊朗談判代表仍在現場】據美國有線電視新聞網21日報道，美伊談判仍在瑞士進行，美國代表團預計“將通宵工作”。報道援引一名參與談判的美國高階外交官員的話說，伊朗談判代表仍在現場，美國副總統萬斯等美方談判代表一直在與伊方“持續進行會晤和談判”，美方“預計會通宵工作”。當天早些時候，伊朗代表團突然暫停談判，以抗議美國總統特朗普當天對伊朗發出的威脅言論。（新華社）
+
+---
+
+### 2026-06-22 07:48:06  #MKT News
+
+【CNN: U.S.-Iran talks continue in Switzerland; Iranian negotiators remain on site】CNN reported on the 21st that U.S.-Iran talks are continuing in Switzerland and the U.S. delegation expects to work through the night. A senior U.S. diplomat said Iranian negotiators remain on site and U.S. negotiators, including Vice President Vance, have continued meetings with Iranian counterparts. Earlier the same day Iran paused negotiations to protest President Trump’s threatening remarks.
+
+---
+
+### 2026-06-22 07:47:57  #其他
+
+LIME計劃將優步列為其IPO的錨定投資者。
+
+---
+
+### 2026-06-22 07:47:46  #其他
+
+LIME預計本週啟動IPO路演與投資者洽談，擬融資約2億美元，估值約18億美元。
+
+---
+
+### 2026-06-22 07:46:32  #其他
+
+【端午假期 全國消費市場執行平穩】記者21日從商務部獲悉：端午假期，全國消費市場執行平穩，生活必需品貨足價穩。 商務部商務大資料顯示，截至6月20日，2026年消費品以舊換新惠及1.36億人次，帶動銷售額超1萬億元。其中，汽車以舊換新銷售342.8萬臺，帶動銷售額5552.4億元；家電以舊換新、數碼和智慧購新產品銷售13289.5萬臺，帶動銷售額4516.3億元。 各地生活必需品市場供應充足，價格總體平穩。商務大資料顯示，假期期間，全國200家大型農副產品批發市場庫存充足，糧油、肉類、水果價格與節前（6月18日）基本持平。（人民日報）
+
+---
+
+### 2026-06-22 07:46:24  #宏觀
+
+【北京發出首張數字藝人卡——虛擬偶像演出有規可依】近日，AI虛擬偶像尤慄（Yuri）在北京經濟技術開發區拿到了全國首張“數字藝人卡”。此次獲頒“數字藝人卡”，是尤慄繼擁有“數字居民”身份後，又一個重要身份轉變。這源於北京首個新質生產力“沙盒審批”工作方案——《北京經濟技術開發區關於開展新質生產力“沙盒審批”試點的工作方案（試行）》的正式出臺，並率先在機器人、數字人營業性演出領域落地。
+
+---
+
+### 2026-06-22 07:46:15  #公司
+
+【小米徐潔雲回應“雷軍過早被質疑擺拍”】6月21日晚，小米集團董事長特別助理、戰略市場部副總經理徐潔雲發文回應雷軍過早被質疑擺拍：“其實吧，工作之餘吃吃喝喝拍Vlog，都兩年了。你說拍Vlog帶著相機也合理吧？但如果有人非要往某些方面帶，再怎麼合理，似乎也都會變成不合理，而且還能把拍vlog的相機在，說成在場的人都是擺拍。所以，還是劉震雲先生說得好，這就是‘沒有真相，只有情緒和角度’。我們的世界，還是少點陰暗好。”
+
+---
+
+### 2026-06-22 07:45:49  #市場 #國際
+
+基準10年期日本國債期貨早盤下跌0.28點。
+
+---
+
+### 2026-06-22 07:45:45  #市場 #國際
+
+日本日經平均指數期貨早盤下跌0.1%。
+
+---
+
+### 2026-06-22 07:45:40  #其他
+
+【東風-17發射狀態首次公開！多車齊射場面硬核】這是火箭軍某野外訓練場，數枚新型導彈正在起豎。從火力突擊的過程中可以看到，各作戰單元不僅要密切協同完成多波次的火力打擊，同時還要隨時做好防強電磁干擾、防精確打擊等特情處置。官兵們表示，新型裝備智慧化程度更高，機動效能更強，火力打擊更加精確，具有全天候、無依託、強突防的作戰優勢。裝備的迭代升級，本質是科技實力的硬核落地。近年來，東風-17、東風-26D、東風-31、東風-61等一大批我國自主研發的新型主戰裝備列裝、常態參訓。（央視）
+
+---
+
+### 2026-06-22 07:43:06  #市場
+
+納斯達克100指數期貨跌幅擴大至1.1%。
+
+---
+
+### 2026-06-22 07:42:53  #央行 #國際
+
+【日本首相任命的委員反對上週的升息 凸顯日本央行利率正常化得快馬加鞭】日本央行最近一次升息決議中出現一張反對票，卻凸顯鷹派人士面臨的時間壓力，必須在為時已晚之前將利率提高至更為正常的水平。才出席第二次政策委員會會議的Toichiro Asada，因對經濟面臨的主要風險判斷與其他委員不同，投票反對上週將基準利率上調至1995年以來最高水準的決定。作為首相高市早苗任命的首位委員，Asada幾乎毫不掩飾其支援貨幣寬鬆政策的立場。這位新任委員的舉動，也讓外界一窺行長植田和男所領導政策委員會未來可能面臨的局面。本月還有高市安排的另一位偏向再通脹的成員，將接替五年任期即將結束的Junko Nakagawa；政策委員會兩位最堅定的鷹派成員在約一年後任期屆滿。屆時，高市將有機會再提名新委員，從而顯著改變這個九人政策委員會的傾向。
+
+---
+
+### 2026-06-22 07:41:09  #國際
+
+日本財務大臣片山皋月：對外匯水平不予評論。必要時將對匯率採取行動。
+
+---
+
+### 2026-06-22 07:41:01  #MKT News #Market Regions #Japan & APAC #USDJPY #Impact bearish
+
+Japan's finance minister Katayama said she stands ready to take appropriate measures at any time to address currency volatility.
+
+---
+
+### 2026-06-22 07:40:41  #MKT News
+
+【Colombia's President Petro says winner cannot yet be declared】Colombia's President Petro said on social media he cannot yet declare a winner from the tightly contested second-round presidential vote on the 21st, that he will abide by judicial rulings, and urged citizens to remain calm. Preliminary results show independent candidate De La Espriella, aligned with the far-right group Defenders of the Homeland, 49.3% and Historic Pact coalition candidate Cepeda 49.0%.
 
 ---
 
@@ -21025,234 +21199,5 @@ New Zealand | Trade Balance (May) | actual 800000000B | previous 1920000000B
 ### 2026-06-19 06:44:59  #Trading Economics #Markets #Crypto #Importance 1
 
 Crypto Updates: Binance Drops by 3.75% — Top crypto losers are Binance (-3.75%), XRP (-3.26%), Bitcoin (-2.61%) and Ether (-2.57%).
-
----
-
-### 2026-06-19 06:42:17  #市場
-
-紐約期銀日內跌1%，現報66.12美元/盎司。
-
----
-
-### 2026-06-19 06:39:59  #Trading Economics #Markets #Commodity #Importance 1
-
-Agricultural Commodities Updates: Rice Rises by 2.31% — Top commodity gainers are Rice (2.31%) and Oat (2.20%). Biggest losers are Coffee (-2.23%), Sugar (-1.67%) and Canola (-1.62%).
-
----
-
-### 2026-06-19 06:38:40  #市場 #觀點 #央行 #焦點 #國際
-
-【6月19日隔夜要聞一覽】
-1、美股三大股指迎來修復上漲，納指漲1.91%。英特爾帶領晶片板塊走高，股價大漲10%。此前美國總統特朗普宣佈，該企業將與蘋果在美國本土開展晶片設計合作。
-2、美伊臨時和平協議生效，霍爾木茲海峽航運開始恢復，華府宣佈結束封鎖，圍繞德黑蘭核計劃的複雜談判也正式開始。
-3、一名知情人士稱，由於以色列持續襲擊黎巴嫩南部，伊朗談判代表團已推遲其前往瑞士的行程。
-4、伊朗最高領袖穆傑塔巴·哈梅內伊就伊美諒解備忘錄釋出宣告。穆傑塔巴·哈梅內伊稱，伊朗總統明確表示，“若美方得寸進尺、提出過分要求，伊朗將不會接受。從此刻起，伊朗方面將靜候所述條件的落實”。
-5、全球航運情報機構克普勒的資料顯示，三艘滿載原油的沙特超大型油輪已順利透過霍爾木茲海峽，合計運載原油600萬桶。
-6、據知情人士透露，在完成創紀錄規模的首次公開募股（IPO）後，馬斯克旗下SpaceX的承銷行正準備最早於下週與投資者舉行電話會議，討論一項潛在的債券發行計劃。
-7、據報道，Anthropic高管向商務部長霍華德·盧特尼克提交一份方案，承諾與白宮展開更深度合作，力求儘快消除各類安全隱患。
-8、隨著美伊本週達成旨在結束戰爭並解除美國海上封鎖的協議，伊朗認為這是迅速恢復石油出口的機會。在伊朗獲得及時喘息之機的同時，德黑蘭的增產可能加劇油價下行壓力。
-9、高盛資產管理的Kay Haigh表示，凱文·沃什擔任美聯儲主席後首次在政策決定公佈後所發表的講話，很可能會在美國國債收益率曲線短端引發更大波動，同時緩和長端的價格波動。
-
----
-
-### 2026-06-19 06:38:34  #國際
-
-【歐盟27國領導人一致透過涉烏結論檔案】當地時間6月18日，歐洲理事會發布歐盟峰會關於烏克蘭問題的結論檔案。檔案顯示，歐盟27國領導人當天一致同意，重申對烏克蘭在其國際公認邊界內獨立、主權和領土完整的堅定支援。結論檔案同時指出，面對嚴峻的安全威脅和挑戰，歐洲必須在2030年前大幅提升防務準備水平。（央視新聞）
-
----
-
-### 2026-06-19 06:34:59  #Trading Economics #Markets #Commodity #Importance 1
-
-Metals Commodities Updates: Platinum Plunges by 5.41% — Top commodity losers are Platinum (-5.41%), Silver (-3.37%), Copper (-1.73%) and Gold (-1.28%).
-
----
-
-### 2026-06-19 06:34:41  #國際
-
-烏克蘭總統澤連斯基： 我們還需要至少 300 枚導彈的一攬子彈藥援助，以備冬季作戰所需。
-
----
-
-### 2026-06-19 06:33:55  #MKT News #XAUUSD #Impact bullish #DXY #Brent
-
-Ukrainian President Zelenskiy said Ukraine still needs at least 300 missiles as part of a winter resupply package.
-
----
-
-### 2026-06-19 06:33:18  #MKT News #Commodities #Energy
-
-Ukrainian President Zelenskiy said if the war continues Ukraine will need a winter aid package including natural gas, diesel and energy equipment.
-
----
-
-### 2026-06-19 06:32:36  #國際
-
-烏克蘭總統澤連斯基： 倘若戰事持續，我們將需要一攬子冬季援助物資，包括天然氣、柴油以及能源裝置。
-
----
-
-### 2026-06-19 06:30:52  #國際
-
-烏克蘭總統澤連斯基：我們希望藉助外交手段並向俄羅斯施壓，在冬季來臨前結束這場衝突。
-
----
-
-### 2026-06-19 06:30:47  #MKT News
-
-Ukrainian President Zelenskiy said Kyiv hopes to end the war before winter through diplomacy and pressure on Russia.
-
----
-
-### 2026-06-19 06:30:29  #資料 #央行 #國際
-
-【週五重要財經資訊提醒（以下均為北京時間）】
-① 06:45 紐西蘭5月進出口與貿易帳；
-② 07:30 日本5月CPI；
-③ 07:50 日本央行公佈4月貨幣政策會議紀要；
-④ 全天 端午節假期，中國A股、港股，以及美股休市；
-⑤ 14:00 英國5月零售銷售；
-⑥ 15:00 歐洲央行首席經濟學家Lane講話；
-⑦ 16:00 歐洲央行管委Jose Escriva講話；
-⑧ 18:30 俄羅斯央行公佈利率決議；
-⑨ 20:30 加拿大4月零售銷售；
-⑩ 22:00 歐洲央行首席經濟學家Lane講話。
-
----
-
-### 2026-06-19 06:29:59  #Trading Economics #Markets #Commodity #Importance 1
-
-Energy Commodities Updates: Methanol Falls by 4.55% — Top commodity losers are Methanol (-4.55%), Liquefied Natural Gas Japan Korea (-3.19%), Natural Gas UK (-2.78%) and Brent Crude Oil (-0.21%). Gains are led by Gasoline (2.46%), Natural gas (2.22%) and Crude Oil WTI (0.11%).
-
----
-
-### 2026-06-19 06:22:22  #國際
-
-【中方敦促合力推進利比亞包容性政治程序】中國常駐聯合國副代表孫磊18日在安理會利比亞問題公開會上發言，敦促合力推進利比亞包容性政治程序。孫磊說，推動各方圍繞選舉安排和統一機構達成共識，是安理會處理利比亞局勢的中心任務。中方歡迎聯合國利比亞支助特派團持續推動政治路線圖落實。利主要政治力量要展現政治意願，以國家和人民長遠利益為重，相向而行。國際夥伴應尊重聯合國斡旋的中心地位，積極為解決利政治分歧發揮建設性作用。（新華社）
-
----
-
-### 2026-06-19 06:15:19  #Trading Economics #Markets #Currency #Importance 1
-
-FX Updates: Norwegian Krone Depreciates by 1.23% — Top currency losers are Norwegian Krone (-1.23%), Swedish Krona (-0.82%), Polish Zloty (-0.69%), British Pound (-0.66%), Japanese Yen (-0.43%) and Euro (-0.34%). Gains are led by Dollar Index (0.71%) and Indian Rupee (0.41%).
-
----
-
-### 2026-06-19 06:15:12  #MKT News #Market Regions #Europe & UK #Brent #Impact bullish #WTI #XAUUSD
-
-【EU extends economic sanctions on Russia by 12 months, first move beyond six‑month renewals】European Council president's spokesman said on June 18 that EU leaders agreed to extend economic sanctions on Russia for 12 months, the first time the bloc has moved beyond its prior six‑month renewal routine. The measures target trade, finance, energy, industry, transport and luxury goods; an EU Council statement on Dec. 22, 2025 set the new expiry at July 31, 2026. Russia has not commented.
-
----
-
-### 2026-06-19 06:14:44  #國際
-
-【歐盟首次將對俄經濟制裁延長12個月】當地時間6月18日，歐洲理事會主席的一位發言人表示，歐盟領導人同意將針對俄羅斯的經濟制裁措施延長12個月。據瞭解，這是歐盟首次決定將對俄經濟制裁延期12個月，而非沿用此前每次延長6個月的慣例。這些制裁包括對貿易、金融、能源、工業、運輸和奢侈品等方面的限制。2025年12月22日，歐盟理事會發表宣告說，將針對俄羅斯的經濟制裁措施延長至2026年7月31日。俄羅斯方面對此尚無回應。（央視新聞）
-
----
-
-### 2026-06-19 06:14:33  #MKT News #Market Regions #Europe & UK #EURUSD #Impact bullish #DXY #Impact bearish #DAX
-
-Financial Times reports the European Union will remove barriers to banks' cross-border capital flows.
-
----
-
-### 2026-06-19 06:08:22  #國際
-
-市場訊息：歐盟擬消除銀行跨境資本流動壁壘，歐盟委員會草擬報告，旨在提升歐盟區內銀行機構競爭力，縮小與美國同業對手的差距。
-
----
-
-### 2026-06-19 06:08:18  #MKT News #WTI #Impact bearish #Brent #XAUUSD
-
-【Israel's US ambassador says Israel committed to Lebanon truce if HEZBOLLAH complies】On the morning of the 19th, Israel's ambassador to the United States said Israel remains committed to implementing the truce reached with Lebanon, provided HEZBOLLAH does not violate the agreement. He reaffirmed Israel's commitment to the tripartite Israel-Lebanon-US truce and added, "In any case, Israel reserves the right to respond to attacks and to remove threats to its territory, citizens and soldiers."
-
----
-
-### 2026-06-19 06:07:31  #MKT News #WTI #Impact bearish #Brent #XAUUSD
-
-Iranian parliament speaker Ghalibaf said the Supreme Leader has tasked the legislature with pushing for implementation of all provisions of the agreement.
-
----
-
-### 2026-06-19 06:07:15  #國際
-
-伊朗首席談判代表卡利巴夫：  最高領袖交給我們的任務，是推動落實協議的各項條款。
-
----
-
-### 2026-06-19 06:06:51  #國際
-
-【以色列駐美大使稱以方仍致力於執行與黎停火協議】以色列當地時間19日凌晨，以色列駐美國大使耶希爾·萊特表示，以色列將繼續致力於執行此前與黎巴嫩達成的停火協議，但前提是黎巴嫩真主黨不違反該協議。萊特表示，以色列仍將致力於執行以色列、黎巴嫩和美國三方達成的停火協議。他強調，“在任何情況下，以色列都保留對針對其襲擊作出回應的權利，並保留清除對其領土、公民和士兵威脅的權利”。（央視新聞）
-
----
-
-### 2026-06-19 06:05:08  #MKT News #Star Stocks #Microsoft #Market Themes #Magnificent 7 #MSFT.O
-
-According to POLITICO, Microsoft said it supports a data center energy bill.
-
----
-
-### 2026-06-19 06:05:02  #國際
-
-伊朗首席談判代表卡利巴夫： 若對方違背承諾，我方必將作出強力回應，對此我們毫不遲疑。
-
----
-
-### 2026-06-19 06:04:50  #MKT News #WTI #Impact bullish #Brent #XAUUSD
-
-Iran's parliament speaker Ghalibaf said if the other side violates its commitments, Iran will respond forcefully.
-
----
-
-### 2026-06-19 06:04:43  #MKT News
-
-Iran's chief negotiator Karibaf said any breach of the agreement or excessive demands will be met with a strong response.
-
----
-
-### 2026-06-19 06:04:24  #其他
-
-市場訊息：微軟表態支援資料中心能源法案。
-
----
-
-### 2026-06-19 06:04:01  #國際
-
-伊朗首席談判代表卡利巴夫：任何違反協議的行為或是過分要求，都將遭到我方強硬回擊。
-
----
-
-### 2026-06-19 06:02:06  #MKT News
-
-SpaceX warned the EU satellite plan could weaken Ukraine's connectivity, the Financial Times reported.
-
----
-
-### 2026-06-19 06:01:47  #公司 #國際
-
-SpaceX：歐盟衛星服務計劃存在連線缺口。公司準備配合歐盟的方案。
-
----
-
-### 2026-06-19 06:01:43  #央行 #國際
-
-【美聯儲7月維持利率不變的機率為60.4%】據CME“美聯儲觀察”：美聯儲7月維持利率不變的機率為60.4%，累計加息25個基點的機率為39.6%。美聯儲到9月維持利率不變的機率為31.2%，累計加息25個基點的機率49.6%，累計加降息50個基點的機率為19.1%。
-
----
-
-### 2026-06-19 05:59:57  #國際
-
-市場訊息：特朗普將於週二前往賓夕法尼亞州開展訪問。
-
----
-
-### 2026-06-19 05:55:53  #其他
-
-紐約市長曼達尼表示，部分世界盃賽事將在市內街角數字大屏免費播出。
-
----
-
-### 2026-06-19 05:54:13  #其他
-
-【伊拉克石油部長：原油產量正逐步恢復至戰前水平】當地時間18日，伊拉克石油部長巴希姆·穆罕默德·胡代爾表示，伊拉克原油產量正逐步恢復至美以伊衝突前水平。（央視新聞）
 
 ---

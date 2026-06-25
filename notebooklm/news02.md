@@ -1,7 +1,133 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-06-26 05:45:47_
-_本檔包含 3522 則快訊，約 617802 字_
+_更新時間：2026-06-26 06:42:58_
+_本檔包含 3528 則快訊，約 617953 字_
+
+---
+
+### 2026-06-25 07:25:59  #公司 #市場 #國際
+
+【年內股價回撤較大的部分低估值核電概念股一覽】當地時間6月23日，美國能源部宣佈，將向公用事業公司和能源企業提供總額175億美元的貸款支援，以加快全美10座大型核反應堆的建設和部署。AI資料中心的快速擴張，正給美國電力系統帶來前所未有的壓力。華源證券分析，AI資料中心帶來的新增電力需求為未來十年的核電覆興提供了堅實基礎。從產業趨勢看，全球核能正在從傳統公用事業資產逐步演變為AI時代的核心基礎設施。據證券時報·資料寶統計，截至6月24日收盤，滾動市盈率低於40倍的核電概念股有18只。華能國際滾動市盈率為8.39倍，排在最低位置。公司旗下聯營企業包括霞浦核電、石島灣核電。盾安環境、久立特材、海陸重工、浙富控股、上海電力滾動市盈率介於10倍至20倍之間。從股價表現來看，以6月24日收盤價與年內高點相比，上述18只核電概念股中，8股回撤幅度超30%，包括常輔股份、中國核建、沃爾核材、海陸重工、寶鈦股份等。常輔股份回撤幅度最高，達到50.69%。
+
+---
+
+### 2026-06-25 07:25:41  #Trading Economics #Economy #United Kingdom #Car Production #Importance 1
+
+UK Car Production Rises for 1st Time in 5 Months — UK car production increased by 3.2% year-on-year to 49,249 units in May 2026, rebounding from a 0.7% decline in the previous month. This marked the first month of rise since last December, as overseas demand improved while domestic production remained broadly stable. The recovery in exports helped lift overall vehicle manufacturing despite lingering uncertainty surrounding global trade conditions and the impact of tariffs. Car exports strengthened during the month, with the United States recording the largest increase among major export markets, surging 83% to 7,733 units, supported by the implementation of the US-UK trade agreement. However, exports to the European Union, the UK's largest market, declined 5.2% to 20,057 units, while shipments to China fell 14% to 2,794 units. Overall UK vehicle production rose 2.7% to 51,178 units, while commercial vehicle output dropped 7.6% to 1,929 units.
+
+---
+
+### 2026-06-25 07:23:50  #其他
+
+【首設人工智慧專區 創新應用集中亮相鏈博會】第四屆中國國際供應鏈促進博覽會正在北京舉行，本屆鏈博會把數字科技鏈升級為數智科技鏈，同時首次設立人工智慧專區，完整呈現從資料採集、智慧計算到行業場景落地的全鏈條產業生態，一大批人工智慧創新應用集中亮相。（央視）
+
+---
+
+### 2026-06-25 07:23:44  #公司
+
+【大眾集團將埃維能多數股權售予貝恩資本】6月25日，大眾集團宣佈已與貝恩資本簽訂獨家協議，出售其持有的埃維能（Everllence）多數股權——將轉讓51%的股份。根據與貝恩資本簽訂的獨家協議，大眾集團將出售其持有的埃維能51%的股份，並計劃在中期內繼續作為持股49%的主要股東。此項擬議的槓桿收購交易將為大眾集團帶來約74億歐元的收益。埃維能總部位於德國，在全球140多個地點擁有約1.6萬名員工。
+
+---
+
+### 2026-06-25 07:23:26  #其他
+
+【三季度投資視窗期即將來臨 多家公募發行冷門行業ETF】三季度投資視窗期即將來臨，公募基金開始以ETF新品的方式，對冷門和低配的傳統行業進行試探性佈局。今年以來，科技與非科技主題基金的業績差距迅速拉大，有關風格切換的討論也日漸增多。雖然擁抱科技的主動權益基金不會輕易換倉，但多家頭部公募正在以ETF的方式開始切入。6月末，多家公募密集發行工程機械、食品消費、家電、生物醫藥等前期較為冷門的行業ETF，試圖挖掘被低估的投資機會。
+
+---
+
+### 2026-06-25 07:22:11  #公司 #市場
+
+【利益繫結 良性共振 公募自購頻頻命中“績優基”】在今年科技投資的浪潮中，作為專業投資者，公募機構積極投身其中。憑藉對AI主線的重倉把握，一些基金公司自購的部分基金產品獲得了豐厚的回報。比如，財通基金今年1月自購的財通成長優選A如果持有至今，回報率或突破140%；另外，融通基金2月成立的發起式新產品融通科技臻選A目前回報率已翻倍，基金公司原始投入的1000萬元已實現回本。在公募行業降費讓利的大背景下，自有資金的投資回報在一定程度上能夠為公募機構尤其是中小機構提供經營利潤補充。業內人士透露，公募機構自有資金投資的出發點並非追求短期利潤最大化，而是基於專業判斷進行中長期資產配置。利益捆綁機制能夠將公募機構利益和產品業績、基民投資體驗高度繫結，力爭形成良性共振。透過真金白銀的風險共擔、強化投研責任約束，以主業的高質量發展對沖降費影響，才是更具持續性的盈利路徑。（中國證券報）
+
+---
+
+### 2026-06-25 07:21:44  #公司
+
+【四川國資整合產業版圖 兩大萬億平臺“分工換擋”】近兩年來，四川國資體系密集推進系列資產置換與專業化整合，一場覆蓋交通基建、軌道交通、清潔能源、裝備製造的系統性資產重組全面推進。日前，新築股份重大資產重組方案獲深交所受理，四川路橋完成橋樑部件資產收購相關表決，蜀道投資集團有限責任公司與四川發展（控股）有限責任公司兩大省級萬億級國資平臺業務邊界進一步釐清。
+
+---
+
+### 2026-06-25 07:20:14  #MKT News
+
+U.S. tsunami warning system says earthquake in Venezuela no longer poses a tsunami threat.
+
+---
+
+### 2026-06-25 07:20:07  #國際
+
+美國海嘯預警系統：委內瑞拉地震引發的海嘯預警現已對波多黎各、美屬維爾京群島和英屬維爾京群島取消。
+
+---
+
+### 2026-06-25 07:19:32  #國際
+
+美國海嘯預警系統：委內瑞拉地震不再構成海嘯威脅。
+
+---
+
+### 2026-06-25 07:19:05  #公司
+
+【英偉達谷歌AI液冷路線亮相 A股公司全產業鏈佈局】近期，AI液冷技術路徑再度成為業內討論的焦點。谷歌推出Brazos技術路線，大幅提升傳統資料中心效能。英偉達在其官方部落格發文介紹了Rubin全液冷方案。這意味著散熱正成為行業關注的問題。業內人士表示，當前資料中心製冷三類技術路線並存。由於全球各地基建配套、地理氣候條件存在差異，未來資料中心或以液冷為核心，與其他路線並行。目前，國內多家上市公司已佈局AI液冷，覆蓋冷板、CDU等零部件、製冷液、整機裝置等全產業鏈環節。（上海證券報）
+
+---
+
+### 2026-06-25 07:18:23  #其他
+
+市場訊息：美伊達成協議後，卡達與沙烏地阿拉伯商討地區安全事宜。
+
+---
+
+### 2026-06-25 07:17:36  #市場
+
+【6月以來機構密集調研的算力硬體概念股名單出爐】全球高效能運算格局迎來變化，國產自研超算一舉奪得全球算力榜首。此次突破覆蓋晶片、儲存、散熱等算力硬體全產業鏈，帶動算力硬體賽道熱度走高。據證券時報·資料寶統計，A股中佈局算力晶片、HBM和液冷散熱三大算力硬體板塊的個股共有116只。6月以來，算力硬體概念股平均上漲19.05%，其中中巨芯-U累計上漲130.8%，居首；華正新材、唯特偶和盛美上海緊隨其後，分別上漲89.58%、87.38%和75.59%。6月以來，21只算力硬體概念股獲機構調研，其中11只備受機構關注，獲機構調研家數在10家及以上，盛美上海、精智達、奧比中光-W獲機構調研家數居前，分別達到129家、88家、71家。
+
+---
+
+### 2026-06-25 07:16:46  #其他
+
+【多地農商銀行啟動全員清收行動】近期，多家農商銀行集中開展全員清收行動。這既反映出農商銀行改善資產質量的需求，也是銀行落實監管要求的體現。事實上，各類不良資產處置方式各有適用範圍，全員清收方式能夠利用銀行員工的本地關係網，最適配清收筆數多、單筆金額小的農戶信用貸款和個體工商戶經營性貸款。在短期突擊壓降不良貸款規模後，如何建立改善資產質量的長效機制是各家農商銀行要著力解決的問題。（中證報）
+
+---
+
+### 2026-06-25 07:16:00  #公司 #市場
+
+【A股公司年度“紅包”派發進行時 “雙創”板塊成現金分紅硬核力量】Wind資料顯示，截至6月23日（按派息日計），今年已有2379家上市公司實施了2025年年度現金分紅，合計派發現金紅利7087.55億元。其中，工商銀行以601.97億元的分紅金額居首，中國移動、農業銀行、中國平安緊隨其後，分紅金額均超過300億元。從行業分佈來看，除銀行、證券等金融板塊外，通訊、電力裝置、醫藥生物、電子等行業已發放的分紅金額位居前列。值得注意的是，一批來自創業板、科創板的硬核科技企業正步入業績收穫期，並以持續高分紅回饋耐心陪跑的投資者。在監管持續引導、市場生態最佳化與企業內生驅動的三重合力之下，“真金白銀回饋投資者”正從監管要求加速內化為越來越多上市公司的自覺行為。（上海證券報）
+
+---
+
+### 2026-06-25 07:15:52  #公司 #國際
+
+西聯匯款：目前正等待美國一個州對Intermex交易的批准或無異議。公司與Intermex正積極與紐約州金融服務局及其他監管機構進行討論。
+
+---
+
+### 2026-06-25 07:15:09  #公司
+
+【高通宣佈將向微軟和Meta供貨最新AI晶片】高通週三披露，微軟、Meta將採用其全新AI晶片方案；同時公司還將為另外兩家未具名超大型雲廠商開發定製化晶片。這家全球智慧手機晶片龍頭企業舉辦投資者溝通會，正式落地資料中心AI晶片佈局。高通介紹，微軟將採用其全新高頻寬計算（HBC）晶片架構。該方案依託手機、筆記本通用的平價普通記憶體，而非英偉達高價HBM高頻寬記憶體、Cerebras所用靜態儲存SRAM，成本優勢突出。Meta則將搭載高通專為AI資料中心設計的自研CPU——Dragonfly C1000。（第一財經）
+
+---
+
+### 2026-06-25 07:14:41  #國際
+
+西聯匯款與Intermex就待定收購Intermex事宜提供最新進展：美國51個州及所有國際轄區的監管機構已批准該交易，或對該交易不持反對意見。
+
+---
+
+### 2026-06-25 07:13:50  #公司
+
+【多家A股公司主動補稅 折射企業稅務合規新常態】近期，多家A股上市公司釋出補稅公告，涉及電子、化工、醫藥、環保等行業，引發市場關注。記者採訪財稅專家及上市公司後瞭解到，補稅主要緣於上市公司開展的稅務合規自查，屬於常態化經營和法律合規行為。中山大學法學院教授楊小強表示，上市公司補稅公告多集中在5月下旬至6月上旬，主要原因是年報披露、彙算清繳與資訊披露三個時限節點交匯，形成釋出公告的視窗期。（上海證券報）
+
+---
+
+### 2026-06-25 07:13:33  #其他
+
+在倫敦市市長薩迪克·汗阻止交易後，大都會警察局獲准延長參與Palantir人工智慧專案。（衛報）
+
+---
+
+### 2026-06-25 07:12:22  #MKT News #Star Stocks #NVIDIA #Market Themes #AI Revolution #Magnificent 7 #NVDA.O #Impact bullish
+
+【Jensen Huang: AI infrastructure cycle will last decades】At NVIDIA's annual shareholder meeting, Jensen Huang told CNBC that questions about AI investment returns "already have answers." He described AI data centers as "token factories," saying tokens can become code, answers, designs, actions and services and that "each token is a unit of profit." Huang said NVIDIA's systems "may not be the cheapest, but produce tokens at the lowest cost, with the highest throughput and the most revenue." He flagged "physical AI"—robots, cars and factories that can sense, reason, plan and act—as the next growth wave, expressed optimism on long-term growth and ASIC competition, and said "this build-out will be measured in decades" with NVIDIA's infrastructure offering the "best inference economics."
 
 ---
 
@@ -21152,103 +21278,5 @@ Germany's rail operator Deutsche Bahn said a train radio fault has been resolved
 ### 2026-06-24 07:08:34  #國際
 
 烏克蘭總統澤連斯基稱，烏克蘭已提交加入經合組織的最新申請。
-
----
-
-### 2026-06-24 07:08:25  #國際
-
-美國聯邦執法官員協會代表來自65多個不同聯邦機構的34,000多名執法官員，支援託德·布蘭奇（Todd Blanche）被提名為美國司法部長，並敦促參議院“迅速確認他的提名”。
-
----
-
-### 2026-06-24 07:05:58  #公司
-
-市場訊息：谷歌正在投資獨立電影製片公司 A24，這是兩家公司之間一項新的 AI 研究合作伙伴關係的一部分。
-
----
-
-### 2026-06-24 07:05:03  #公司 #國際
-
-【康索利迪德·愛迪生公司執行長：為應對更持久的熱浪，必須擴建電網裝置】康索利迪德·愛迪生公司執行長考利（Tim Cawley）週二在紐約某論壇上表示，該公司必須對部分電網裝置進行擴容，以抵禦持續時間更長、溫度更高的熱浪，同時避免對系統進行根本性改造。面對極端天氣以及耗電量巨大的資料中心日益增長的需求，美國公用事業公司已投入巨資升級電網。“持續時間長、強度大的熱浪會磨損我們的裝置，”考利說道。“因此，我們必須提升裝置規格，以應對這種狀況，”他補充道。考利補充道，紐約無需對電網進行根本性改造，但應更好地利用屋頂太陽能、電池、需求響應和電網資料來提高效率並控制成本。考利表示，人工智慧以及對電網實時狀況的更深入瞭解，可進一步最佳化運營。藉助智慧電錶和系統遙測技術提供的更多資料，公司在保持供電可靠性的同時，能夠最佳化電壓、降低能耗、減少排放並降低客戶電費。
-
----
-
-### 2026-06-24 07:04:20  #市場
-
-紐約期銀日內跌1%，現報61.85美元/盎司。
-
----
-
-### 2026-06-24 07:03:33  #MKT News
-
-【Poll: Majority of Americans say late‑February US military action against Iran was not worth it】A Reuters/Ipsos poll released on the 23rd found 52% of Americans say the US military action against Iran launched at the end of February was not worth it; President Trump’s approval fell to 34%, his lowest in his second term. About 35% said the US is weaker on Iran than before the conflict; the US and Iranian presidents on the 17th signed a memorandum of understanding to begin 60 days of talks toward a final agreement, but 63% said the MoU is unlikely to produce lasting peace while 18% said it is likely.
-
----
-
-### 2026-06-24 07:03:13  #公司
-
-【扎克伯格談MetaAI智慧眼鏡：必須在時尚與功能之間取得平衡】馬克 · 扎克伯格希望 Meta 最新款人工智慧眼鏡不只是一件電子裝置。對這位 Meta 執行長而言，難點不在於往鏡框裡堆砌更多人工智慧功能，而是做出人們真正願意日常佩戴的眼鏡。 在與資訊欄目《Feed Me》主創艾米麗 · 桑德伯格的訪談中，扎克伯格的談吐不像是矽谷企業高管，反倒更像一名時裝設計師。 “我認為未來眼鏡會形成豐富產品線，款式多樣、功能配置各有區分，價格檔位也層次分明，”扎克伯格表示，“但核心難題在於，每一款產品都要找到平衡點：外觀好看、佩戴舒適，同時功能體驗不拉胯。” “公司所有自研產品，我都會深度參與打磨，”扎克伯格補充道。 當地時間本週二，Meta 推出全新系列智慧眼鏡，起售價 299 美元（現匯率約合 2029 元人民幣），低於該品牌入門款雷朋智慧眼鏡，以此加碼可穿戴裝置賽道。這款新品由眼鏡巨頭依視路陸遜梯卡聯合開發，但不會搭載雷朋或歐克利的品牌標識。
-
----
-
-### 2026-06-24 07:02:05  #公司
-
-巴西國家石油公司(Petrobras)執行長表示，與去年同期相比，該公司今年5月產量增長了14%。
-
----
-
-### 2026-06-24 07:01:18  #Trading Economics #Economy #United States #API Crude Oil Stock Change #Importance 1
-
-US Crude Stocks Extend Decline — US crude oil inventories fell by 765,000 barrels in the week ending June 19, following a sharp 8.33 million-barrel decline in the previous week. According to American Petroleum Institute data, commercial crude inventories excluding the SPR have dropped by 53 million barrels over the past ten weeks. Still, total US crude inventories are down by only 2.1 million barrels so far this year, as ongoing transfers from the SPR have helped offset steeper commercial draws. Commercial stockpiles have been supported by a steady release of barrels from the SPR into the market, pushing reserve holdings to their lowest level in more than four decades. In the latest week, another 9.1 million barrels were withdrawn from the SPR, bringing total reserves to 331.2 million barrels, or 394 million barrels below maximum capacity. Meanwhile, US crude production rose to 13.806 million barrels per day in the week ending June 12, up slightly from 13.799 million barrels per day in the prior week.
-
----
-
-### 2026-06-24 06:57:53  #其他
-
-【模組化設計的奈米遞藥機器人能自行組裝】瑞士巴塞爾大學科學家研製出一款多功能奈米遞藥機器人，由推進模組和有效載荷模組構成，兩種模組可重複使用，並能夠自行組裝。試驗結果顯示，該機器人可靶向癌細胞並降低其活性，有望在醫學、工業等領域大顯身手。相關論文發表於最新一期《先進功能材料》雜誌。
-
----
-
-### 2026-06-24 06:56:44  #公司 #國際
-
-【波音獲得美國空軍價值最高20億美元的衛星合同】波音從美國空軍獲得一份價值最高20億美元的合同。該份固定價格激勵合同涵蓋兩顆Mobile User Objective System衛星的設計、開發、建造和測試。美國國防部表示，波音在擊敗一個競爭性報價後贏得了該合同。在本財政年度，該公司最初將獲得2.04億美元，用於研發和測試。該合同的相關工作將在加州埃爾塞貢多進行，預計將於2035年9月30日前完成。
-
----
-
-### 2026-06-24 06:56:22  #國際
-
-波音獲得美國空軍價值最高20億美元的衛星合同。
-
----
-
-### 2026-06-24 06:56:07  #國際
-
-【路透調查：上週美國原油庫存與成品油庫存可能下降】週二公佈的路透調查顯示，上週美國原油庫存料將下降，餾分油與汽油庫存亦減少。路透調查的九位分析師平均預計，截至6月19日當週，原油庫存減少約450萬桶。分析師估計，上週汽油庫存減少約60萬桶，包括柴油和取暖油在內的餾分油庫存預計減少約50萬桶。調查顯示，煉廠產能利用率預計與前一週持平，仍為96.7%。
-
----
-
-### 2026-06-24 06:55:40  #公司 #國際
-
-【6月24日隔夜要聞一覽】
-1、美國總統特朗普表示，美國“正致力於與伊朗達成一項公平的協議”，以結束霍爾木茲海峽的衝突。他稱，僅在前一天（6月22日），就有1900萬桶石油透過霍爾木茲海峽運輸。
-2、美國總統特朗普表示，伊朗在國際原子能機構核查問題上的說法是錯誤的。他同時表示，核查人員將在適當時候進入當地開展工作。
-3、正在巴基斯坦訪問的伊朗總統佩澤希齊揚在接受採訪時表示，伊美諒解備忘錄中並不包含導彈問題，未來也不會將其納入議題。佩澤希齊揚稱，伊朗永遠不會與任何人協商伊朗方面的防禦能力。
-4、黎巴嫩真主黨領導人納伊姆·卡西姆當地時間23日發表電視講話稱，現在停火已經實現，以色列撤軍必須按照時間表進行。
-5、俄羅斯總統普京在政府工作會議上表示，俄方願意在2022年春季伊斯坦布林達成的協議、2024年在外交部講話中闡述的原則、2025年安克雷奇會晤討論的模式以及地面現實的基礎上，與烏克蘭進行和平談判。
-6、阿曼方面表示已與國際海事組織協調，在霍爾木茲海峽提供臨時海上通道，尋求過境的船隻需與國際海事組織協調。
-7、以色列反對黨領導人、前總理貝內特6月23日在耶路撒冷的一場公開活動上承認，他2021年至2022年擔任以色列總理期間，曾採購數萬臺“星鏈”接收器並偷運入伊朗，以幫助反政府抗議者試圖推翻伊朗政權。
-8、特朗普政府將提供175億美元貸款，用於支援公用事業公司訂購西屋電氣公司(Westinghouse Electric Co.)設計的反應堆裝置，此舉旨在重振美國大型核電站建設。
-
----
-
-### 2026-06-24 06:55:22  #公司 #國際
-
-【洛克希德-馬丁公司獲得價值84億美元的美國陸軍合同修訂】洛克希德-馬丁公司獲得一份美國陸軍合同的修訂，價值84億美元。該項修訂提高了合同金額上限，並將訂購期延長至2032財政年度底。該合同涵蓋“精確打擊導彈增量一”(Precision Strike Missiles Increment One)的生產，以及“早期作戰能力”(Early Operational Capability)軍事資產的採購和管理。該合同的總價值目前約為133億美元。相關工作預計將於2032年9月30日前完成。
-
----
-
-### 2026-06-24 06:55:14  #Trading Economics #Markets #New Zealand #Stock Market #Importance 1
-
-NZX Falls for 3rd Session, Tracking Wall Street Lower — The NZX 50 dropped 38 points, or 0.3%, to 13,398 in Wednesday morning trade, extending losses from the previous two sessions, as it tracked a decline on Wall Street overnight driven by a steep sell-off in chip stocks amid concerns that AI hyperscalers may be forced to slow spending on AI infrastructure. Traders were also cautious ahead of the release of the US final Q1 GDP data and the May PCE Price Index later this week, which could provide clues about the Federal Reserve's monetary policy decision at its upcoming meeting, after it left interest rates unchanged last week. However, easing oil prices helped limit the decline as inflation concerns eased. Financial, technology, healthcare, and industrial stocks weighed on the index, with notable losses from Summerset Group (-2.3%), Fletcher Building (-2.1%), Ryman Healthcare (-1.3%), Gentrack Group (-1.1%), Hallenstein Glasson (-1.1%), Mainfreight (-0.9%), and Infratil (-0.6%).
 
 ---
