@@ -1,7 +1,59 @@
 {
-  "updated": "2026-06-26 00:39:49",
-  "count": 16896,
+  "updated": "2026-06-26 00:43:53",
+  "count": 16897,
   "items": [
+    {
+      "id": "te:economy:561983",
+      "time": "2026-06-26 00:43:02",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "30 Year Mortgage Rate",
+        "Importance 1"
+      ],
+      "text": "US 30-Year Mortgage Rate Ticks Higher — The average rate on a 30-year fixed-mortgage inched higher by 2bps to 6.49% on the week to June 25th, 2026, according to data compiled by Freddie Mac. The result was in line with some elevated yields for longer maturity Treasury bonds at the start of the week, when the hawkish projections by FOMC members drove the market to position for rate hikes by the Fed this year. “The average 30-year fixed mortgage rate was little changed this week at 6.49%” said Sam Khater, Freddie Mac’s Chief Economist. “Rates have remained relatively stable over the last six weeks. Meanwhile, purchase activity eased modestly and refinance activity has continued to pick up recently, reflecting borrowers’ responsiveness to current rate levels.”"
+    },
+    {
+      "id": "4955637",
+      "time": "2026-06-26 00:42:16",
+      "tags": [
+        "國際"
+      ],
+      "text": "馬克龍稱法國與義大利支援布羅莫太空合作專案。"
+    },
+    {
+      "id": "4955636",
+      "time": "2026-06-26 00:41:26",
+      "tags": [
+        "國際"
+      ],
+      "text": "惠譽評級：歐洲私人信貸再融資規模攀升；人工智慧相關敞口、兌付風險均處於低位。"
+    },
+    {
+      "id": "4955635",
+      "time": "2026-06-26 00:39:47",
+      "tags": [
+        "其他"
+      ],
+      "text": "Monroe Energy：將對此次事故的具體原因展開調查。"
+    },
+    {
+      "id": "4955634",
+      "time": "2026-06-26 00:39:36",
+      "tags": [
+        "其他"
+      ],
+      "text": "Monroe Energy：目前正在開展周邊空氣監測，監測結果顯示當前對社群不存在任何風險。"
+    },
+    {
+      "id": "4955633",
+      "time": "2026-06-26 00:39:28",
+      "tags": [
+        "國際"
+      ],
+      "text": "馬克龍：法國願與義大利開展核能專案合作。"
+    },
     {
       "id": "mkt:019effa6-63f2-7dd8-b121-e469f6237393",
       "time": "2026-06-26 00:39:15",
@@ -9,6 +61,14 @@
         "MKT News"
       ],
       "text": "Mengluo Energy says it will take all necessary measures to extinguish the fire."
+    },
+    {
+      "id": "4955632",
+      "time": "2026-06-26 00:39:15",
+      "tags": [
+        "其他"
+      ],
+      "text": "Monroe Energy  ：正採取一切必要措施撲滅火災。"
     },
     {
       "id": "mkt:019effa6-4e88-7dd8-b121-de6fc79db898",
@@ -154479,62 +154539,6 @@
         "國際"
       ],
       "text": "英國國防大臣：英國將提供 15 萬架烏克蘭國產無人機，外加 350 餘枚防空導彈與配套雷達；整套援助方案價值 7.52 億英鎊，資金來源於變賣被扣押的俄羅斯資產。"
-    },
-    {
-      "id": "4944069",
-      "time": "2026-06-19 00:42:17",
-      "tags": [
-        "國際"
-      ],
-      "text": "【伊朗最高領袖將就伊美備忘錄表態】伊朗媒體當地時間6月18日晚報道，伊朗最高領袖穆傑塔巴·哈梅內伊將於數小時後就旨在結束戰爭的伊美諒解備忘錄釋出重要資訊。（CCTV國際時訊）"
-    },
-    {
-      "id": "4944068",
-      "time": "2026-06-19 00:42:01",
-      "tags": [
-        "其他"
-      ],
-      "text": "OpenAI總裁兼聯合創始人Greg Brockman：藉助OpenAI，在376例此前未能確診的疑難病例中，成功得出18項全新診斷結果。"
-    },
-    {
-      "id": "mkt:019edb9c-2afe-7dd8-b085-63ae425ffae1",
-      "time": "2026-06-19 00:41:45",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "Prime Minister Netanyahu said Israel will not withdraw troops from southern Lebanon until it has ensured its own security."
-    },
-    {
-      "id": "mkt:019edb9b-8646-7dd8-b085-582001e94223",
-      "time": "2026-06-19 00:41:03",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Niger government said an attack at Diori Hamani International Airport killed 11 security personnel and two civilians."
-    },
-    {
-      "id": "4944065",
-      "time": "2026-06-19 00:40:00",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "美國財政部網站訊息：美國對與真主黨有關聯的實體出臺新制裁措施。"
-    },
-    {
-      "id": "mkt:019edb9a-8166-7dd8-b085-56b09e968b50",
-      "time": "2026-06-19 00:39:56",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "DXY"
-      ],
-      "text": "The U.S. Treasury posted new sanctions on HEZBOLLAH on its website."
     }
   ]
 }
