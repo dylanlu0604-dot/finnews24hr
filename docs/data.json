@@ -1,7 +1,33 @@
 {
-  "updated": "2026-06-25 08:11:20",
-  "count": 16944,
+  "updated": "2026-06-25 08:15:25",
+  "count": 16939,
   "items": [
+    {
+      "id": "4953675",
+      "time": "2026-06-25 08:14:34",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【SK keyfoundry開發出基於雙向SCR的片上EMC保護技術】6月25日，韓國8英寸純晶圓代工廠SK keyfoundry宣佈，該公司近期已開發出“基於雙向可控矽整流器（Bi-SCR）的片上EMC保護技術”，能夠大幅提升汽車半導體的電磁相容（EMC）效能。該公司表示，這項技術已被應用於其0.13微米BCD（雙極-CMOS-DMOS）工藝產品，並已進入量產階段。"
+    },
+    {
+      "id": "4953674",
+      "time": "2026-06-25 08:13:58",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【SK海力士考慮在韓國清州新建NAND快閃記憶體晶圓廠】韓國媒體《每日經濟新聞》援引未具名業內人士報道稱，SK海力士正考慮在韓國清州新建一座NAND快閃記憶體晶圓廠。報道稱，這是一項更廣泛地區投資計劃的組成部分。該計劃預計將於6月29日在總統府舉行的會議上公佈。報道稱，SK海力士的計劃可能側重於擴大對其位於清州的NAND快閃記憶體晶圓廠的投資。SK海力士於2018年建成M15工廠。此外，三星電子目前在天安和溫陽的封裝工廠生產HBM等先進晶片。"
+    },
+    {
+      "id": "4953673",
+      "time": "2026-06-25 08:13:55",
+      "tags": [
+        "其他"
+      ],
+      "text": "日經225指數漲幅擴大至2.5%。"
+    },
     {
       "id": "mkt:019efc1d-04a1-7dd8-b106-f16208295402",
       "time": "2026-06-25 08:10:20",
@@ -154755,89 +154781,6 @@
         "其他"
       ],
       "text": "截至06月18日08時00分， 青海海西6.3級地震共記錄到餘震187次，其中3.0級及以上餘震37次：5.0級以上0次，4.0-4.9級3次，3.0-3.9級20次。目前最大餘震4.9級。"
-    },
-    {
-      "id": "mkt:019ed815-2188-7dd8-b066-f5c942d2069f",
-      "time": "2026-06-18 08:15:23",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution",
-        "000660.KS",
-        "Impact bullish"
-      ],
-      "text": "【SK Hynix begins supplying 12-layer HBM4E samples for AI memory】SK Hynix said on the 18th it has supplied major customers with 12-layer samples of HBM4E, a next-generation ultra-high-performance DRAM for AI. Pin rate reaches up to 16 Gbps and energy efficiency is improved by more than 20%, enhancing data-processing capacity for AI training and inference."
-    },
-    {
-      "id": "4942069",
-      "time": "2026-06-18 08:14:51",
-      "tags": [
-        "公司",
-        "資料"
-      ],
-      "text": "【谷歌DeepMind研究員諾阿姆·沙澤爾將加入OpenAI】人工智慧企業OpenAI於週三向部分員工透露，谷歌深度思維（Google DeepMind）研究員諾姆・沙澤爾（Noam Shazee）即將加入公司，他的研究成果是生成式人工智慧浪潮的技術基石。沙澤爾2021年離開谷歌，聯合創立聊天機器人初創公司Character.AI；2024年作為一項耗資27億美元的招聘協議的一部分谷歌將其重新招納，他迴歸旗下人工智慧團隊深度思維。"
-    },
-    {
-      "id": "4942068",
-      "time": "2026-06-18 08:13:56",
-      "tags": [
-        "國際"
-      ],
-      "text": "韓國財長：將尋求結構性改善措施，以緩解金融市場及匯市波動。"
-    },
-    {
-      "id": "4942067",
-      "time": "2026-06-18 08:12:58",
-      "tags": [
-        "國際"
-      ],
-      "text": "【IEA：烏克蘭襲擊導致俄羅斯5月原油產量較目標低10%】國際能源署(IEA)週三表示，受烏克蘭對俄羅斯能源基礎設施的打擊影響，上月俄羅斯原油產量同比下降約5%，至870萬桶/日，較5月的目標低10%。據官方資料、社交媒體和媒體測算，烏克蘭對煉油廠的襲擊自2026年初以來已增加一倍，導致石油加工設施全部或部分停工。IEA在月度報告中表示：“由於對石油基礎設施的持續襲擊，我們將今年俄羅斯原油產量預測下調20萬桶/日，至895萬桶/日。”報告同時指出，烏克蘭已開始使用遠端無人機，以更偏遠的產油區作為襲擊目標。"
-    },
-    {
-      "id": "mkt:019ed812-df02-7dd8-b066-e95ae38ebe82",
-      "time": "2026-06-18 08:12:55",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bearish",
-        "S&P500",
-        "Impact bullish",
-        "DXY"
-      ],
-      "text": "【Iran president Pezeshkian signs Iran-US memorandum of understanding with Trump】Iranian media said President Pezeshkian and US President Trump signed an Iran-US memorandum of understanding in Tehran in the early hours of the 18th (Tehran time). State outlets published a photo of Pezeshkian holding the signed document."
-    },
-    {
-      "id": "mkt:019ed812-a094-7dd8-b066-e3595bb875d3",
-      "time": "2026-06-18 08:12:39",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "The Information reports Google DeepMind researcher Noam Shazeer will join OpenAI."
-    },
-    {
-      "id": "mkt:019ed811-ac80-7dd8-b066-da38e5ff59df",
-      "time": "2026-06-18 08:11:37",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Japan & APAC",
-        "Nikkei 225",
-        "Impact bullish"
-      ],
-      "text": "Japan's Nikkei 225 index topped 71,000 for the first time, hitting a fresh record high."
-    },
-    {
-      "id": "4942066",
-      "time": "2026-06-18 08:11:31",
-      "tags": [
-        "市場",
-        "焦點",
-        "國際"
-      ],
-      "text": "日本日經225指數首次突破71000點關口，再創新高。"
     }
   ]
 }
