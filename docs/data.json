@@ -1,7 +1,31 @@
 {
-  "updated": "2026-06-26 03:24:26",
-  "count": 16990,
+  "updated": "2026-06-26 03:28:20",
+  "count": 16992,
   "items": [
+    {
+      "id": "mkt:019f003f-bbf9-7dd8-b125-540101cd6df1",
+      "time": "2026-06-26 03:26:44",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Washington Post/FEC analysis: major donors pour $1.3bn+ this cycle; Musk largest GOP individual donor】Washington Post analysis of FEC data shows major donors have contributed more than $1.3bn in this election cycle to date, with the bulk favoring Republican candidates — funds that may be critical to Republican efforts to retain control of Congress in November. In 1H 2026, Republican-leaning donors gave $880m, Democratic-leaning donors $290m, and cross-party/special-interest groups $200m. Elon Musk was the largest individual donor to Republican-aligned organizations and candidates, donating $85.1m."
+    },
+    {
+      "id": "4955835",
+      "time": "2026-06-26 03:26:40",
+      "tags": [
+        "國際"
+      ],
+      "text": "【中期選舉將近 美媒曝光馬斯克向共和黨大手筆捐款】根據《華盛頓郵報》對美國聯邦選舉委員會資料的分析，隨著中期選舉臨近，美國政壇的主要捐助者在本選舉週期迄今已投入超過13億美元影響國家政治。這些捐款人傾向於支援共和黨，而這筆資金對於共和黨在11月保住國會控制權可能至關重要。2026年上半年，傾向共和黨的捐款人共捐贈了8.8億美元，相比之下，傾向民主黨的捐款人共捐贈了2.9億美元，跨黨派及特殊利益團體則為2億美元。新晉萬億富翁埃隆·馬斯克位列個人捐贈者榜首，其向共和黨相關組織或人士捐贈了8510萬美元。"
+    },
+    {
+      "id": "4955834",
+      "time": "2026-06-26 03:24:11",
+      "tags": [
+        "國際"
+      ],
+      "text": "義大利總理梅洛尼：義大利並未介入伊朗相關衝突，僅提供後勤與技術支援，同時回絕了各類作戰行動支援請求。"
+    },
     {
       "id": "4955833",
       "time": "2026-06-26 03:21:08",
@@ -155449,14 +155473,6 @@
         "Impact bullish"
       ],
       "text": "Goldman Sachs expects gold to rise to $4,900/oz by December."
-    },
-    {
-      "id": "mkt:019edc32-8d3f-7dd8-b087-509e3115ad37",
-      "time": "2026-06-19 03:26:00",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Almost all passengers and crew of Netherlands‑quarantined \"Hondius\" allowed to return home】WHO Director-General Tedros said on social media on the 18th that almost all passengers and crew of the \"Hondius\" cruise ship quarantined in the Netherlands have been allowed to return home, including non-Dutch residents. He said hantavirus cases remain at 13, including three deaths; there have been no new confirmed cases in over three weeks and no new deaths since May 2."
     }
   ]
 }
