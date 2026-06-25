@@ -1,7 +1,181 @@
 {
-  "updated": "2026-06-26 03:40:04",
-  "count": 16978,
+  "updated": "2026-06-26 03:44:02",
+  "count": 16987,
   "items": [
+    {
+      "id": "mkt:019f004e-207c-7dd8-b125-c5e494463f7d",
+      "time": "2026-06-26 03:42:27",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "US Economy"
+      ],
+      "text": "New York Fed President Williams expects U.S. economic growth of 2.25% in 2028 and the unemployment rate to decline to 4%."
+    },
+    {
+      "id": "mkt:019f004d-e24f-7dd8-b125-b96cde6d9671",
+      "time": "2026-06-26 03:42:11",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Fed's Williams said monetary policy is at an \"appropriate\" level for the current economy."
+    },
+    {
+      "id": "mkt:019f004d-b787-7dd8-b125-b1790384b2f6",
+      "time": "2026-06-26 03:42:00",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Williams said the Fed will adjust reserve-management purchase operations as needed."
+    },
+    {
+      "id": "4955841",
+      "time": "2026-06-26 03:41:58",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲威廉姆斯： 美聯儲必須將通脹拉回 2% 目標，此事至關重要。將實現2%通脹目標的時間預期從2027年推遲至2028年。就業市場表現出韌性。預計今年通脹將放緩至3.5%。美聯儲將視需要調整儲備管理購買操作。"
+    },
+    {
+      "id": "mkt:019f004d-981a-7dd8-b125-afe5f382b819",
+      "time": "2026-06-26 03:41:52",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Fed's WILLIAMS expects inflation to slow to 3.5% this year."
+    },
+    {
+      "id": "mkt:019f004d-7e4e-7dd8-b125-a4bec7b0e79d",
+      "time": "2026-06-26 03:41:46",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "Impact bearish",
+        "S&P500"
+      ],
+      "text": "Fed's Williams said the labor market remains resilient and the Fed must bring inflation back to its 2% target."
+    },
+    {
+      "id": "mkt:019f004d-5775-7dd8-b125-9ee0e79793d0",
+      "time": "2026-06-26 03:41:36",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "Fed's Williams said he has pushed back his projection for when inflation will reach the Fed's 2% target from 2027 to 2028."
+    },
+    {
+      "id": "4955840",
+      "time": "2026-06-26 03:41:24",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲威廉姆斯： 預計 2028 年美國經濟增速 2.25%，失業率降至 4% 。常備回購操作是抑制利率壓力的關鍵工具。預計通脹壓力將有所緩解。"
+    },
+    {
+      "id": "mkt:019f004d-19e4-7dd8-b125-9468935b9d3a",
+      "time": "2026-06-26 03:41:19",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bearish",
+        "XAUUSD",
+        "Impact bullish",
+        "S&P500"
+      ],
+      "text": "Federal Reserve's Williams said he expects inflationary pressures to ease."
+    },
+    {
+      "id": "mkt:019f004c-e2ce-7dd8-b125-8beb054317d2",
+      "time": "2026-06-26 03:41:06",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "US10Y",
+        "Impact bullish",
+        "S&P500",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "WILLIAMS of the Federal Reserve said standing repo operations are a key tool to rein in upward pressure on interest rates."
+    },
+    {
+      "id": "4955839",
+      "time": "2026-06-26 03:40:57",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲威廉姆斯：如果中東戰爭干擾儘快解決，將降低通脹壓力。到目前為止，美國在戰爭經濟影響下表現出韌性。中東戰爭持續帶來風險和不確定性。"
+    },
+    {
+      "id": "mkt:019f004c-8b60-7dd8-b125-847884c4b208",
+      "time": "2026-06-26 03:40:44",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "XAUUSD",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "Federal Reserve's WILLIAMS said the ongoing war in the Middle East continues to bring risks and uncertainty."
+    },
+    {
+      "id": "mkt:019f004c-71e9-7dd8-b125-7a1650c5abfb",
+      "time": "2026-06-26 03:40:37",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "S&P500",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "WILLIAMS said if disruptions from the Middle East war are resolved quickly, they would ease inf pressures."
+    },
+    {
+      "id": "mkt:019f004c-6f2d-7dd8-b125-76830ae7ccc8",
+      "time": "2026-06-26 03:40:36",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "Impact bearish",
+        "S&P500",
+        "Impact mixed"
+      ],
+      "text": "Federal Reserve's Williams said the US has so far shown resilience to the economic effects of the war."
+    },
     {
       "id": "4955838",
       "time": "2026-06-26 03:38:19",
@@ -155310,50 +155484,6 @@
         "國際"
       ],
       "text": "美國參議員COTTON：對解除伊朗石油出口制裁表示關切， 希望特朗普當初能延續 “自由計劃”。"
-    },
-    {
-      "id": "4944278",
-      "time": "2026-06-19 03:42:36",
-      "tags": [
-        "其他"
-      ],
-      "text": "聯合海上資訊中心宣告稱，霍爾木茲海峽海上安全威脅等級已下調至中等。"
-    },
-    {
-      "id": "4944277",
-      "time": "2026-06-19 03:42:30",
-      "tags": [
-        "其他"
-      ],
-      "text": "參議員COTTON：對美伊協議的某些方面存在擔憂。"
-    },
-    {
-      "id": "mkt:019edc41-6dbe-7dd8-b087-9a18a869ff1f",
-      "time": "2026-06-19 03:42:15",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bearish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "Joint Maritime Information Center said the maritime security threat level for the Strait of Hormuz has been lowered to moderate."
-    },
-    {
-      "id": "4944276",
-      "time": "2026-06-19 03:42:13",
-      "tags": [
-        "市場"
-      ],
-      "text": "SPACEX股價跌幅收窄至2.3%，此前一度下跌10%。"
-    },
-    {
-      "id": "mkt:019edc3f-adec-7dd8-b087-9287d6c29d7a",
-      "time": "2026-06-19 03:40:21",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Canada's Prime Minister Carney said trade issues Canada can work with the US to resolve include forest products."
     }
   ]
 }
