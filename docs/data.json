@@ -1,7 +1,35 @@
 {
-  "updated": "2026-06-26 05:14:09",
-  "count": 16974,
+  "updated": "2026-06-26 05:18:00",
+  "count": 16971,
   "items": [
+    {
+      "id": "te:economy:562003",
+      "time": "2026-06-26 05:16:33",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Mexico",
+        "Interest Rate",
+        "Importance 1"
+      ],
+      "text": "Banxico Holds Interest Rates — Banxico kept its benchmark interest rate unchanged at 6.50% during its June 2026 meeting, in line with expectations. It was noted that the economy is expected to rebound in the second quarter, although significant downside risks to activity remain. Inflation continued to ease between April and mid-June, with headline inflation down from 4.45% to 3.55%, while core inflation eased from 4.26% to 4.12%. Banxico revised down its headline inflation forecasts for the second quarter due to softer non-core prices, while slightly raising its core inflation outlook through the end of 2026. Banxico maintained its projection for headline inflation to converge to the 3% target in the second quarter of 2027. Policymakers said the balance of risks remains tilted to the upside, citing trade disruptions, geopolitical tensions, persistent core inflation, climate-related shocks, and possible peso depreciation. Banxico signaled that it will likely be keeping the policy rate at its current level."
+    },
+    {
+      "id": "4955883",
+      "time": "2026-06-26 05:16:08",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國眾議院議長約翰遜：與特朗普舉行了富有成效的會晤。"
+    },
+    {
+      "id": "4955882",
+      "time": "2026-06-26 05:15:21",
+      "tags": [
+        "市場"
+      ],
+      "text": "富時A50期指連續夜盤收跌0.57%，報15765點。"
+    },
     {
       "id": "4955881",
       "time": "2026-06-26 05:07:37",
@@ -155292,61 +155320,6 @@
         "國際"
       ],
       "text": "【伊朗：霍爾木茲海峽60天內免費通行】據伊朗伊斯蘭共和國通訊社18日報道，伊朗最高國家安全委員會發表宣告說，根據伊美諒解備忘錄，在未來60天內，申請透過霍爾木茲海峽的船隻將免繳相關費用。宣告說，根據諒解備忘錄第5條規定，申請透過霍爾木茲海峽的商船須向伊朗波斯灣海峽管理局提交申請。在60天期限內，將不向申請透過霍爾木茲海峽的船隻收取任何費用，相關費用由伊朗政府承擔。基於此，伊方已責成波斯灣海峽管理局儘快對相關申請予以審查和回覆。宣告表示，鑑於當前特殊情況以及航道部分割槽域仍存在安全風險，為確保航行安全並避免海上事故，相關船隻須按照指定航線和規定時間透過霍爾木茲海峽。宣告還說，有關霍爾木茲海峽通航的具體實施安排和技術細節將由波斯灣海峽管理局另行公佈。對於包括掃雷在內的其他事項，伊方將依據諒解備忘錄第5條有關規定採取必要措施。（新華社）"
-    },
-    {
-      "id": "mkt:019edc98-741a-7dd8-b088-b08e65964f0f",
-      "time": "2026-06-19 05:17:19",
-      "tags": [
-        "MKT News",
-        "EURUSD",
-        "Impact bullish",
-        "DXY",
-        "Impact bearish"
-      ],
-      "text": "Zelenskiy said Europe’s security depends on financial backing for Ukraine’s armed forces and urged the EU and a “voluntary coalition” to develop financial instruments to provide that support."
-    },
-    {
-      "id": "mkt:019edc97-0f0f-7dd8-b088-aed1d754b766",
-      "time": "2026-06-19 05:15:47",
-      "tags": [
-        "MKT News",
-        "EURUSD",
-        "Impact bullish",
-        "DAX"
-      ],
-      "text": "Ukrainian President Zelenskiy said Europe’s best next step is to accelerate Ukraine’s EU accession process."
-    },
-    {
-      "id": "4944322",
-      "time": "2026-06-19 05:15:33",
-      "tags": [
-        "國際"
-      ],
-      "text": "烏克蘭總統澤連斯基： 歐洲的未來，取決於烏克蘭的防禦事業。"
-    },
-    {
-      "id": "4944321",
-      "time": "2026-06-19 05:15:25",
-      "tags": [
-        "市場"
-      ],
-      "text": "富時A50期指連續夜盤收跌0.23%，報15709點。"
-    },
-    {
-      "id": "4944320",
-      "time": "2026-06-19 05:15:14",
-      "tags": [
-        "國際"
-      ],
-      "text": "烏克蘭總統澤連斯基： 歐洲的安全取決於為烏克蘭軍隊提供資金保障，歐盟與 “自願聯盟” 可為此創設相關金融工具。"
-    },
-    {
-      "id": "4944319",
-      "time": "2026-06-19 05:15:01",
-      "tags": [
-        "國際"
-      ],
-      "text": "烏克蘭總統澤連斯基：讓烏克蘭快速加入歐盟，是關乎歐洲未來最有利的舉措。"
     }
   ]
 }
