@@ -1,7 +1,202 @@
 {
-  "updated": "2026-06-25 16:01:38",
-  "count": 16964,
+  "updated": "2026-06-25 16:05:47",
+  "count": 16957,
   "items": [
+    {
+      "id": "te:markets:561818",
+      "time": "2026-06-25 16:05:02",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Metals Commodities Updates: Iron Ore CNY Falls by 1.08% — Top commodity losers are Iron Ore CNY (-1.08%), Platinum (-0.80%), Silicon (-0.66%) and Gold (-0.19%). Gains are led by Copper (1.02%)."
+    },
+    {
+      "id": "4954537",
+      "time": "2026-06-25 16:04:39",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "高通股價盤前上漲11.8%，此前該公司上調了長期資料中心及非手機業務營收目標。"
+    },
+    {
+      "id": "mkt:019efdcf-31fe-7dd8-b112-7a9019728930",
+      "time": "2026-06-25 16:04:34",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "ECB says the move is the final step in winding down temporary crisis-era collateral-easing measures, with earliest implementation planned for November 2027."
+    },
+    {
+      "id": "mkt:019efdcf-0291-7dd8-b112-7196b1b0df8e",
+      "time": "2026-06-25 16:04:22",
+      "tags": [
+        "MKT News",
+        "EURUSD",
+        "Impact bullish",
+        "DAX"
+      ],
+      "text": "ECB says non-financial corporate loan portfolios will be included in its general collateral framework."
+    },
+    {
+      "id": "4954536",
+      "time": "2026-06-25 16:04:12",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "歐洲斯托克600指數漲幅擴大至0.5%。"
+    },
+    {
+      "id": "4954535",
+      "time": "2026-06-25 16:04:05",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美光科技釋出第四財季業績預測超預期後，美國儲存晶片製造商股價盤前大漲。迪股價上漲12.4%，西部資料股價上漲12.1%，希捷科技股價上漲8.7%。"
+    },
+    {
+      "id": "4954534",
+      "time": "2026-06-25 16:03:56",
+      "tags": [
+        "市場"
+      ],
+      "text": "【美股液冷龍頭維諦技術美股盤前漲超5%】美股液冷龍頭維諦技術美股盤前漲超5%，現報332.42美元。"
+    },
+    {
+      "id": "4954533",
+      "time": "2026-06-25 16:03:51",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行：此次調整是終止危機時期臨時抵押品寬鬆措施的最後一步。"
+    },
+    {
+      "id": "4954532",
+      "time": "2026-06-25 16:03:48",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行：非金融企業債權組合將被納入一般抵押品框架。"
+    },
+    {
+      "id": "4954531",
+      "time": "2026-06-25 16:03:42",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行：歐洲央行將把非金融債權組合納入一般抵押框架，逐步取消臨時措施。"
+    },
+    {
+      "id": "4954530",
+      "time": "2026-06-25 16:03:36",
+      "tags": [
+        "其他"
+      ],
+      "text": "禮邦醫藥透過在香港的首次公開募股(IPO)籌集了13億港元。"
+    },
+    {
+      "id": "mkt:019efdce-49c9-7dd8-b112-6b17f384d73a",
+      "time": "2026-06-25 16:03:35",
+      "tags": [
+        "MKT News",
+        "EURUSD",
+        "Impact mixed",
+        "DXY"
+      ],
+      "text": "ECB to include holdings of non‑financial corporate credit bonds in its general collateral framework and to gradually phase out temporary measures."
+    },
+    {
+      "id": "4954529",
+      "time": "2026-06-25 16:03:32",
+      "tags": [
+        "其他"
+      ],
+      "text": "倫敦金屬交易所(LME)：鋁庫存減少2000噸，鋅庫存減少425噸，錫庫存減少190噸，鉛庫存減少1125噸，鎳庫存減少618噸，銅庫存減少2825噸。"
+    },
+    {
+      "id": "4954528",
+      "time": "2026-06-25 16:03:25",
+      "tags": [
+        "市場"
+      ],
+      "text": "【維諦技術美股盤前漲超5%】維諦技術美股盤前漲超5%，現報332.42美元。"
+    },
+    {
+      "id": "4954527",
+      "time": "2026-06-25 16:03:19",
+      "tags": [
+        "其他"
+      ],
+      "text": "【工信部、商務部等五部門聯合啟動2026年新能源汽車下鄉活動】6月25日，工業和資訊化部、商務部會同國家發展改革委、農業農村部、國家能源局在新疆塔城、海南澄邁同時啟動2026年新能源汽車下鄉活動。裝備工業一司相關負責人表示，今年的下鄉活動將搭建專屬平臺，強化政策支援、充實支撐力量、豐富活動組織，進一步提升服務水平、擴大活動影響，並針對鄉村地區消費者換購新能源汽車給予申領以舊換新補貼不受補貼資格數量限制等特別支援，為新能源汽車鄉村地區推廣應用創造積極條件。塔城站共有41個主流品牌、120餘款車型參與，澄邁站共有30多個品牌、50餘款車型參與，並同步開展購車補貼申領、售後金融一站式服務等配套活動。（工信部）"
+    },
+    {
+      "id": "4954526",
+      "time": "2026-06-25 16:03:06",
+      "tags": [
+        "其他"
+      ],
+      "text": "【國防部：民進黨當局蓄意製造緊張不得人心】6月25日下午，國防部舉行例行記者會，國防部新聞發言人張曉剛大校答記者問。記者：美日正在開展“勇敢之盾2026”大規模軍演，臺軍同步舉行備戰操演，雙方演訓時間高度重合，針對臺海的意味很強，請問對此有何評論？張曉剛：民進黨當局蓄意製造緊張，升高兩岸對立對抗，不得人心。靠軍演壯膽換不來真正安全。不管是誰，把對抗當成常態，把民生福祉放在政治私利之後，最終都將付出相應代價。解放軍始終保持高度戒備，堅決挫敗任何“臺獨”妄動。（央視新聞）"
+    },
+    {
+      "id": "4954525",
+      "time": "2026-06-25 16:02:30",
+      "tags": [
+        "公司"
+      ],
+      "text": "豐田以超過3000億日元的價格出售了所持三井住友海上火災保險（MS&AD）的全部股份。"
+    },
+    {
+      "id": "mkt:019efdcd-2446-7dd8-b112-679692e05bc3",
+      "time": "2026-06-25 16:02:20",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "Chip Wars",
+        "Magnificent 7",
+        "Star Stocks",
+        "Alphabet",
+        "QCOM.O",
+        "Impact bullish",
+        "INTC.O",
+        "AMD.O"
+      ],
+      "text": "US AI chip-related names were mixed in pre-market trading: Qualcomm (QCOM.O) jumped ~13%, Intel (INTC.O) rose ~6%, AMD (AMD.O) gained ~4%, while Baidu (BIDU.O) fell ~2% and Google (GOOG.O) dropped ~1.4%."
+    },
+    {
+      "id": "4954524",
+      "time": "2026-06-25 16:02:01",
+      "tags": [
+        "市場"
+      ],
+      "text": "【康寧盤前漲8.39%，現報223.10美元】康寧盤前漲8.39%，現報223.10美元。訊息面上，科技股拋售後光通訊板塊盤前集體反彈，疊加康寧光通訊業務上季收入與利潤高增並簽訂多家大客戶數十億美元多年期合同鎖定未來收入。"
+    },
+    {
+      "id": "4954523",
+      "time": "2026-06-25 16:01:28",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國標普500 E-迷你期貨上漲0.78%，納斯達克100期貨上漲2.24%，道瓊斯期貨上漲0.11%。"
+    },
+    {
+      "id": "4954522",
+      "time": "2026-06-25 16:01:14",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "俄羅斯天然氣工業石油公司持續就鎳專案展磋商。"
+    },
     {
       "id": "mkt:019efdcc-0dae-7dd8-b112-5e20bb438d08",
       "time": "2026-06-25 16:01:08",
@@ -154556,275 +154751,6 @@
         "其他"
       ],
       "text": "【紙尿褲甲醯胺或來自油墨】公開資料顯示，甲醯胺是一種有機溶劑，也是化工生產中非常常見的一種原料，主要用作發泡劑等。記者今日從多家紙尿褲相關企業瞭解到，紙尿褲主要原料是無紡布、高分子吸水樹脂、鬆緊橡皮筋、熱熔膠等。原則上，如果採取正規工藝和原材料，紙尿褲生產過程中應該不出現甲醯胺。有從事個人護理行業人士對記者表示，現行的嬰兒紙尿褲國標中沒有單獨針對甲醯胺這個成分進行限定。該成分的出現，有可能是來自紙尿褲上的油墨，其使用的有機溶劑沒有完全被揮發掉。（第一財經）"
-    },
-    {
-      "id": "4942877",
-      "time": "2026-06-18 16:05:29",
-      "tags": [
-        "公司",
-        "市場",
-        "焦點",
-        "國際"
-      ],
-      "text": "英特爾股價盤前上漲6.6%；特朗普稱蘋果將與該公司在美國晶片設計與生產領域展開合作。"
-    },
-    {
-      "id": "te:markets:560015",
-      "time": "2026-06-18 16:05:19",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Metals Commodities Updates: Platinum Falls by 3.23% — Top commodity losers are Platinum (-3.23%), Lithium Carbonate (-1.33%) and Copper (-1.10%). Gains are led by Silver (0.91%) and Gold (0.72%)."
-    },
-    {
-      "id": "4942876",
-      "time": "2026-06-18 16:05:12",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "瑞士央行理事Tschudin：瑞士經濟指標顯示增長勢頭穩固。"
-    },
-    {
-      "id": "4942875",
-      "time": "2026-06-18 16:05:05",
-      "tags": [
-        "公司"
-      ],
-      "text": "【精研科技：安特信業績補償進展披露 仍存不確定性】精研科技公告稱，2021年公司以1.8億元收購安特信60%股權，2020 - 2022年安特信未實現業績承諾，三年累計應補償4.61億元。公司將應收9000萬元補償款與應付未付交易款對沖，2022年收到許明強等補償款710萬元，2026年4月、6月分別收到陳明芳補償款400萬元、鄭奕麟補償款30萬元，法院已扣劃陳明芳夫婦16.06萬元。業績補償存在不確定性，公司暫未確認未支付補償款收益。"
-    },
-    {
-      "id": "4942874",
-      "time": "2026-06-18 16:04:57",
-      "tags": [
-        "公司"
-      ],
-      "text": "【長白山：控股股東部分股份解除質押並重新質押】長白山公告稱，公司控股股東建設集團持有公司股份1.59億股，佔總股本的58.21%。6月16日，建設集團將此前質押給國都證券的140萬股解除質押，佔其所持股份的0.88%，佔公司總股本的0.51%。6月17日，建設集團又將這140萬股質押給國都證券，質押期限至2027年6月17日，資金用於補充流動資金。本次股份解除質押及重新質押後，建設集團累計質押公司股份7886.65萬股，佔其所持公司股份的49.75%，佔公司總股本的28.96%。"
-    },
-    {
-      "id": "4942873",
-      "time": "2026-06-18 16:04:56",
-      "tags": [
-        "公司"
-      ],
-      "text": "【華達科技：股東暨董事總經理增持計劃時間過半仍未實施】華達科技公告稱，公司股東暨董事兼總經理葛江宏於2026年3月19日披露增持計劃，預計6個月內增持不低於1500萬元、不超3000萬元的公司股份，增持價不超55元/股。截至6月18日，實施期限過半，因資金安排、定期報告敏感期和權益分派等，葛江宏尚未增持，計劃未實施完畢。後續其將以自有或自籌資金繼續執行增持，該計劃可能因市場變化等無法達預期。"
-    },
-    {
-      "id": "4942872",
-      "time": "2026-06-18 16:04:50",
-      "tags": [
-        "公司"
-      ],
-      "text": "【天陽科技：簽訂3.03億元算力雲服務協議】天陽科技公告，公司與雲粒智慧科技有限公司於2026年6月16日簽署《算力雲服務協議》，協議總金額（含稅）為3.03億元人民幣。協議約定，天陽科技為雲粒智慧提供算力雲服務，每個採購訂單服務期限為不間斷48個月，服務以月為結算週期收取月度服務費。本次協議的簽署不構成關聯交易，也不構成重大資產重組，無需提交公司董事會和股東會審議。"
-    },
-    {
-      "id": "mkt:019ed9c2-c1ac-7dd8-b073-303343ed3e68",
-      "time": "2026-06-18 16:04:39",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy"
-      ],
-      "text": "IEA Executive Director BIROL said the agency will discuss a new energy strategy with partner countries."
-    },
-    {
-      "id": "4942871",
-      "time": "2026-06-18 16:04:34",
-      "tags": [
-        "公司"
-      ],
-      "text": "【陝西煤業：淡勇辭任公司獨立董事職務】陝西煤業6月18日公告，公司董事會近日收到獨立董事淡勇遞交的書面辭職報告。淡勇因連續任職公司獨立董事已滿6年，申請辭去第四屆董事會獨立董事等職務。由於淡勇的辭任將導致公司獨立董事佔董事會成員的比例低於三分之一，其辭任將在公司股東會選舉產生新任獨立董事後生效。在辭任生效前，淡勇仍將繼續履行公司獨立董事及其在董事會相關專門委員會中的職責。"
-    },
-    {
-      "id": "mkt:019ed9c2-8851-7dd8-b073-29bd80ca0daa",
-      "time": "2026-06-18 16:04:25",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Energy",
-        "Copper",
-        "Impact bullish",
-        "CSI300"
-      ],
-      "text": "China total electricity consumption in May was 867.1 bln kWh, versus 820.5 bln kWh previously."
-    },
-    {
-      "id": "4942870",
-      "time": "2026-06-18 16:04:22",
-      "tags": [
-        "其他"
-      ],
-      "text": "【比亞迪大唐EV正式上市：純電續航最高達950公里，售價23.99萬-30.99萬元】比亞迪全尺寸閃充旗艦SUV——大唐EV正式上市。此次大唐EV共推出800KM後驅鐳射雷達尊榮型、950KM後驅鐳射雷達旗艦型、850KM四驅鐳射雷達旗艦型及大唐盛世版四款車型，售價區間23.99萬-30.99萬元。（新浪科技）"
-    },
-    {
-      "id": "mkt:019ed9c2-63aa-7dd8-b073-20b7e4bb63a1",
-      "time": "2026-06-18 16:04:15",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "China | Total Electricity Consumption (May) | actual 867100000000B | previous 820500000000B"
-    },
-    {
-      "id": "mkt:019ed9c2-6269-7dd8-b073-19da6d646756",
-      "time": "2026-06-18 16:04:15",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Energy",
-        "Market Regions",
-        "Greater China",
-        "Copper",
-        "Impact bullish",
-        "CNH",
-        "S&P500"
-      ],
-      "text": "China's total electricity consumption rose 6.9% YoY in May, up from 6.0% in April."
-    },
-    {
-      "id": "mkt:019ed9c2-47ab-7dd8-b073-1293ecaaca6b",
-      "time": "2026-06-18 16:04:08",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "China | Total Electricity Consumption (YoY) (May) | actual 6.9% | previous 6%"
-    },
-    {
-      "id": "te:economy:560014",
-      "time": "2026-06-18 16:04:03",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Norway",
-        "Interest Rate",
-        "Importance 2"
-      ],
-      "text": "Norges Bank Signals Further Tightening Ahead — The Norges Bank kept its policy rate steady at 4.25% in June, as expected, while signaling that further tightening may be needed as inflation remains too high. Governor Ida Wolden Bache said rising business costs are likely to keep price pressures elevated and that the bank may raise rates again at one of its upcoming meetings. The central bank noted that inflation has stayed above target for several years, while economic activity has softened slightly. Norges Bank said uncertainty remains high due to the Middle East conflict and its impact on energy prices. Oil and gas prices have fallen since March, while the potential reopening of the Strait of Hormuz could reduce external price pressures. The bank’s updated forecast points to a policy rate slightly above 4.5% by year-end. Inflation is expected to gradually decline toward the 2% target by 2029, though the future rate path will depend on inflation and labor market developments."
-    },
-    {
-      "id": "mkt:019ed9c2-16ce-7dd8-b073-095bacd47b12",
-      "time": "2026-06-18 16:03:56",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Greater China",
-        "Commodities",
-        "Energy",
-        "Copper",
-        "Impact bullish",
-        "CNH"
-      ],
-      "text": "China's National Energy Administration: total electricity consumption rose 6.9% YoY in May 2026."
-    },
-    {
-      "id": "4942869",
-      "time": "2026-06-18 16:03:50",
-      "tags": [
-        "其他"
-      ],
-      "text": "【國家能源局：5月份，全社會用電量8671億千瓦時，同比增長6.9%】據國家能源局，5月份，全社會用電量8671億千瓦時，同比增長6.9%。1～5月，全社會用電量累計42018億千瓦時，同比增長5.7%。從分產業用電看，第一產業用電量574億千瓦時，同比增長5.6%。第二產業用電量27324億千瓦時，同比增長5.1%。第三產業用電量8055億千瓦時，同比增長8.6%。"
-    },
-    {
-      "id": "4942868",
-      "time": "2026-06-18 16:03:34",
-      "tags": [
-        "其他"
-      ],
-      "text": "國際能源署署長比羅爾稱：國際能源署將與其合作成員國討論新能源戰略。"
-    },
-    {
-      "id": "4942867",
-      "time": "2026-06-18 16:03:28",
-      "tags": [
-        "公司",
-        "市場",
-        "觀點"
-      ],
-      "text": "【博通盤前漲3.07%，現報404.97美元】博通盤前漲3.07%，現報404.97美元。訊息面上，摩根大通稱博通與谷歌TPU五年合作專案按計劃推進、AI收入可見性延伸至2031年，並維持“買入”上調目標價至580美元。"
-    },
-    {
-      "id": "4942866",
-      "time": "2026-06-18 16:03:14",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【超威半導體盤前漲3.08%，現報528.27美元】超威半導體盤前漲3.08%，現報528.27美元。訊息面上，AMD與Rackspace簽署協議部署30兆瓦AI算力基礎設施，並獲聯博集團與伯恩斯坦上調目標價至600美元推動盤前走強。"
-    },
-    {
-      "id": "4942865",
-      "time": "2026-06-18 16:02:52",
-      "tags": [
-        "其他"
-      ],
-      "text": "【2026年1季度末金融業機構總資產556.3萬億元】初步統計，2026年1季度末，我國金融業機構總資產為556.34萬億元，同比增長8.8%，其中，銀行業機構總資產為494.72萬億元，同比增長8.0%；證券業機構總資產為19.15萬億元，同比增長25.4%；保險業機構總資產為42.47萬億元，同比增長12.2%。金融業機構負債為509.53萬億元，同比增長9.0%，其中，銀行業機構負債為455.69萬億元，同比增長8.1%；證券業機構負債為15.14萬億元，同比增長30.9%；保險業機構負債為38.69萬億元，同比增長12.7%。"
-    },
-    {
-      "id": "4942864",
-      "time": "2026-06-18 16:02:41",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：韓國政府將燃油價格上限凍結再延長一個月。"
-    },
-    {
-      "id": "4942863",
-      "time": "2026-06-18 16:02:34",
-      "tags": [
-        "公司"
-      ],
-      "text": "【艾華集團：超級電容相關產品目前不屬於公司主營業務範圍 截至目前未形成相關銷售收入】艾華集團公告，近期超級電容產品關注度較高，公司核心主營業務為研發、生產和銷售鋁電解電容器、薄膜電容器、電極箔和金屬化膜，超級電容相關產品目前不屬於公司主營業務範圍，未納入公司現有主營業務體系，截至目前未形成相關銷售收入，對公司當期及近期經營業績無重大影響。在AI伺服器業務方面，公司現階段主要處於產品匯入和產能爬坡階段，放量節奏取決於客戶驗證進度和供應鏈配套成熟度。目前AI伺服器在公司整體收入中的佔比低，且當前該業務仍處於早期階段，客戶認證週期、訂單釋放節奏及行業整體需求變化等因素均存在正常的不確定性。"
-    },
-    {
-      "id": "mkt:019ed9c0-c28a-7dd8-b073-0620f31bfeac",
-      "time": "2026-06-18 16:02:28",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "IEA Executive Director Birol said the crisis will create a new global energy landscape."
-    },
-    {
-      "id": "mkt:019ed9c0-bae3-7dd8-b072-fb5c765c1aae",
-      "time": "2026-06-18 16:02:27",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Korean media NEWSIS reports the South Korean government will extend the freeze on the fuel price cap for another month."
-    },
-    {
-      "id": "4942862",
-      "time": "2026-06-18 16:02:13",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "【今日特朗普要聞】\n1、特朗普於美國時間17日早晨稱，美伊達成的諒解備忘錄並非最終協議，若他對協議不滿或伊朗不守規矩，美方將恢復對伊轟炸，且該備忘錄不含立即解除對伊制裁的相關內容。\n2、特朗普於美國時間17日早晨同埃及總統會見記者時稱伊朗擁有核武器的機率僅 0.01%，認為美伊框架協議力度十足，還表示股市大漲、油價大跌足以印證市場對這份協議十分滿意，並透露霍爾木茲海峽將在一兩天內全面開放。\n3、特朗普於美國時間17日早晨在法國七國集團峰會上再度否認美方會向伊朗提供 3000 億美元重建資金，美國不會出資投資，他國可自行決定是否投資。\n4、特朗普在七國集團峰會後的記者會上稱自己未必會出席美伊諒解備忘錄簽署儀式，還稱協議順利則攬功、談崩便歸咎副總統萬斯。\n5、特朗普17日稱，美伊諒解備忘錄可能在18日或19日簽署。\n6、據美國官員，特朗普已親自遠端簽署旨在結束戰事、開放霍爾木茲海峽的美伊諒解備忘錄，協議提前生效、原定 19 日瑞士簽約儀式照常舉辦，提前簽署是為儘早打通海峽，伊朗要求暫不對外公開備忘錄文字。\n7、特朗普在法國 G7 峰會被問及相關計劃時表示美方將研究由本國軍工企業在歐洲、烏克蘭授權生產導彈的方案，因應對伊朗局勢消耗大量防空導彈庫存且擴產週期較長。\n8、特朗普於17日表示，過去兩天他在G7峰會期間和各國商討了俄烏衝突議題，已分別與普京、澤連斯基通話，並向各國領導人通報了和普京的溝通情況，重申自己有意推動俄烏實現停火。\n9、特朗普稱在七國集團上進行了一些非常良好的談話，他稱讚印度總理莫迪，並稱與印度的貿易協定正在推進當中，會在未來某個時間出訪印度。\n10、特朗普稱他同期黎巴嫩，認為黎巴嫩的問題需要解決，黎巴嫩總統將於未來一到兩週訪問美國，希望擴大《亞伯拉罕協議》的覆蓋範圍。\n11、特朗普在新任美聯儲主席沃什首次議息會議選擇維持利率不變、近半數官員預判年內或加息後受訪表示對此結果無所謂，認為加息會拖累經濟、情況反常，但他認可沃什的能力並表示會尊重沃什的政策判斷。\n12、特朗普於17日法國七國集團峰會記者會上再度公開感謝中俄在美伊戰事期間全程保持完全中立。\n13、特朗普17日在真相社交平臺發文稱蘋果將與英特爾合作在美國設計、製造晶片，雙方歷經一年多磋商已達成初步代工協議。\n14、特朗普稱與人工智慧公司Anthropic的談判進展順利，並在七國集團峰會上就人工智慧進行了一場很好的會議。"
-    },
-    {
-      "id": "mkt:019ed9c0-7579-7dd8-b072-f7a2af1bc9c1",
-      "time": "2026-06-18 16:02:09",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "【Chinese Foreign Ministry: NATO should reflect on its role in peace and stability】At a routine press briefing on the 18th, Foreign Ministry spokesperson Lin Jian said China has maintained an objective, impartial stance on the Ukraine crisis, has not supplied lethal weapons to any party, and strictly controls military‑civilian dual‑use items. He urged NATO to correct erroneous perceptions of China, stop stoking confrontation and shifting blame, and deeply reflect on the role and impact of an organization born in the Cold War on today’s peace and stability."
-    },
-    {
-      "id": "4942861",
-      "time": "2026-06-18 16:01:49",
-      "tags": [
-        "公司"
-      ],
-      "text": "【芯能科技：終止部分募投子專案 剩餘1.65億元補流】芯能科技公告稱，2026年第一次臨時股東會和債券持有人會議透過議案，擬終止“分散式光伏電站建設專案”中部分不具備實施條件的子專案，將剩餘募集資金1.65億元永久補充流動資金。截至5月19日，該專案77個子專案中，62個已併網，15個未建。中證鵬元認為該事項對公司經營及償債能力無重大不利影響，維持公司主體和“芯能轉債”信用等級為AA-，評級展望穩定。"
     }
   ]
 }
