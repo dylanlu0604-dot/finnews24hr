@@ -1,7 +1,117 @@
 {
-  "updated": "2026-06-25 11:37:39",
-  "count": 17043,
+  "updated": "2026-06-25 11:41:39",
+  "count": 17047,
   "items": [
+    {
+      "id": "4954063",
+      "time": "2026-06-25 11:41:03",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美地震學家：委內瑞拉、日本連發強震無關聯】北京時間25日6時過後，委內瑞拉連續發生7級以上強震，日本東北海域此後不久發生7.2級地震。據美國有線電視新聞網報道，同一天，美國加利福尼亞州發生5.6級地震。這些地震之間是否有關聯？加州理工學院資深地震學家露西·瓊斯表示，簡而言之，沒有關聯。瓊斯認為，這些地震發生在不同的斷層和板塊邊界上，意味著並非一場地震引發另一場地震。地震發生時間或許會有巧合，但地點不會——每一次地震都發生在人們熟知的活躍板塊邊界上，那裡的應力已經積累數十年甚至數個世紀。在這些地區，大地震是自然迴圈中可以預期的一部分，儘管具體何時發生目前仍無法準確預測。（新華社）"
+    },
+    {
+      "id": "4954062",
+      "time": "2026-06-25 11:40:27",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【曹操出行：將開拓歐洲Robotaxi市場】曹操出行宣佈，公司與全球自動駕駛技術企業May Mobility正式達成戰略合作。雙方將在國際市場合作探索Robotaxi 大規模商業化運營。"
+    },
+    {
+      "id": "4954061",
+      "time": "2026-06-25 11:39:47",
+      "tags": [
+        "市場"
+      ],
+      "text": "【金飾克價年內跌近500元】國內各大黃金品牌的金飾掛牌價持續下調。6月25日，國內黃金飾品價格對比顯示，部分品牌克價距離年初高點跌近500元，跌幅超28%。老鳳祥報價1215元/克，較前一日下降26元，兩日累計下降53元，克價距離年初高點跌498元；周生生報價1221元/克，較前一日下降19元，兩日累計跌去49元，克價距離年初高點跌487元；周大福、六福分別報價1222元/克、1220元/克，較前一日均下降16元，兩日累計分別跌去55元、46元，克價距離年初高點分別跌約478元、480元。"
+    },
+    {
+      "id": "te:economy:561719",
+      "time": "2026-06-25 11:39:25",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Thailand",
+        "Imports YoY",
+        "Importance 1"
+      ],
+      "text": "Thailand Import Growth Stays Robust — Thailand’s imports rose 35.1% yoy in May 2026, slowing from a 45.0% surge in the prior month. The was roughly in line with market expectations of 25.1%, supported by resilient household demand and policy support aimed at boosting spending and capital outlays despite disruptions from the Middle East conflict."
+    },
+    {
+      "id": "te:economy:561717",
+      "time": "2026-06-25 11:39:09",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Thailand",
+        "Exports YoY",
+        "Importance 1"
+      ],
+      "text": "Thailand Export Growth Slows to 3-Month Low — Thailand’s exports grew 10.6% year-on-year in May 2026, easing sharply from a 23.1% surge in April, which marked the strongest growth in three months, and falling short of market forecasts of 11.6%. It was the softest increase in exports since February."
+    },
+    {
+      "id": "4954060",
+      "time": "2026-06-25 11:39:01",
+      "tags": [
+        "公司"
+      ],
+      "text": "【北方銅業：將在充分調研市場基礎上決定覆銅板投建計劃】北方銅業(000737)在互動平臺表示，公司年產5萬噸高效能壓延銅箔和200萬平米覆銅板專案的覆銅板建設部分，因相關技術、人才儲備不足，為審慎起見，目前尚未投建。下一步，公司將在充分調研市場、科學論證的基礎上，決定覆銅板投建計劃。"
+    },
+    {
+      "id": "mkt:019efcdc-128c-7dd8-b10b-fde3bc0bd869",
+      "time": "2026-06-25 11:39:01",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Thailand's Ministry of Commerce said exports will continue to expand later this year."
+    },
+    {
+      "id": "mkt:019efcdc-064b-7dd8-b10b-f5952ad8732c",
+      "time": "2026-06-25 11:38:58",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bearish"
+      ],
+      "text": "Japan 20-year government bond (JGB) auction bid-cover ratio was 2.97, the weakest since May 2025; May's bid-cover ratio was 4.01."
+    },
+    {
+      "id": "4954059",
+      "time": "2026-06-25 11:38:37",
+      "tags": [
+        "國際"
+      ],
+      "text": "泰國商務部：今年晚些時候泰國出口將繼續保持增長。"
+    },
+    {
+      "id": "4954058",
+      "time": "2026-06-25 11:38:23",
+      "tags": [
+        "其他"
+      ],
+      "text": "【法國高溫天氣造成數十萬只家禽死亡】法國農業組織估算，持續多日的高溫天氣造成該國數十萬只家禽死亡，死禽清運處理系統不堪負荷，兩大主產區的政府正考慮允許養殖戶就地掩埋死禽。"
+    },
+    {
+      "id": "4954057",
+      "time": "2026-06-25 11:38:01",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "日本20年期國債拍賣認購倍數創2025年5月以來最低。"
+    },
+    {
+      "id": "4954056",
+      "time": "2026-06-25 11:37:28",
+      "tags": [
+        "國際"
+      ],
+      "text": "【泰國5月出口同比增長10.6%(】泰國商務部公佈資料顯示，泰國5月基於海關資料的出口較上年同期增長10.6%，泰國5月基於海關資料的進口較上年同期增長35.1%。泰國5月海關清關貿易逆差57.1億美元。"
+    },
     {
       "id": "4954055",
       "time": "2026-06-25 11:36:22",
@@ -155645,92 +155755,6 @@
         "公司"
       ],
       "text": "【越疆成立行思無界科技公司】企查查APP顯示，近日，深圳市行思無界科技有限公司成立，法定代表人為姜宇，註冊資本為2000萬元，經營範圍包含：智慧機器人的研發；智慧機器人銷售；工業機器人制造；工業機器人銷售；服務消費機器人制造等。企查查股權穿透顯示，該公司由越疆間接全資持股。"
-    },
-    {
-      "id": "mkt:019ed8d1-93b6-7dd8-b06a-f58e2254fefe",
-      "time": "2026-06-18 11:41:13",
-      "tags": [
-        "MKT News",
-        "Important",
-        "SZSE Component",
-        "Impact mixed",
-        "SSE Composite",
-        "CSI300"
-      ],
-      "text": "【A-share midday: ChiNext up 1.39% at half-day, hits near 11-year high】A-share market mixed at midday: ChiNext rose 1.39%, trading near an 11-year high, while the STAR 50 index advanced more than 3% and also set fresh highs. Shanghai and Shenzhen turnover reached 2.14 trillion yuan by midday, up 187.6 billion yuan from the prior session; more than 3,400 stocks were down, signalling a narrow advance. Industrial metals and semiconductors led gains; semiconductor names Cambricon climbed over 13% and GigaDevice rose more than 8%, both hitting new highs. CPO-related stocks remained active. On the downside, the insurance sector tumbled—PICC, China Life and Ping An each fell over 5%—while power utilities and airport/airline stocks underperformed."
-    },
-    {
-      "id": "4942380",
-      "time": "2026-06-18 11:41:09",
-      "tags": [
-        "其他"
-      ],
-      "text": "【倫敦金融城主席：人民幣國際化是中英合作標杆 雙方合力做強離岸人民幣市場】2026陸家嘴論壇舉辦期間，倫敦金融城政府政策與資源委員會主席賀凱思在接受採訪時表示，人民幣國際化是中英金融合作極具代表性的標杆成果。目前，倫敦穩居全球除中國本土外規模最大、體系最成熟的離岸人民幣業務核心樞紐。為持續深化雙向聯動，中英雙方已成立人民幣市場監測小組，透過共享市場資訊、交流機構需求，共同推動倫敦離岸人民幣市場的穩健發展。 （一財）"
-    },
-    {
-      "id": "em:qqyh_mlc:202606183775910681",
-      "time": "2026-06-18 11:41:06",
-      "tags": [
-        "央行",
-        "美聯儲"
-      ],
-      "text": "花旗預計美聯儲將在2026年10月、12月和2027年1月各降息25個基點，此前預測為今年9月、10月和12月降息。"
-    },
-    {
-      "id": "mkt:019ed8d1-1bfd-7dd8-b06a-ef066bb2f98e",
-      "time": "2026-06-18 11:40:43",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Amazon",
-        "Market Themes",
-        "Magnificent 7"
-      ],
-      "text": "【Ariane 6 launches 36 Amazon LEO satellites】A European Ariane 6 rocket launched 36 satellites for Amazon's low-Earth orbit programme from Kourou, French Guiana, on the morning of the 17th (local time). All satellites were deployed into their planned orbit about two hours after liftoff. Under the launch contract, Ariane 6 will perform 18 missions to deploy Amazon's LEO constellation; this was the third mission."
-    },
-    {
-      "id": "4942379",
-      "time": "2026-06-18 11:38:42",
-      "tags": [
-        "公司"
-      ],
-      "text": "【2026年證券公司分類評價正式啟動，功能發揮寫進“評價基因”】監管部門日前已正式啟動2026年證券公司分類評價工作，評價材料報送與自評程式正陸續展開。此次評價將完整適用證監會2025年8月修訂釋出並施行的《證券公司分類評價規定》。新規的修訂邏輯很清晰——突出促進證券公司功能發揮，把“功能性”寫進評價導向；引導行業聚焦高質量發展，給中小機構差異化發展、特色化經營留出空間；同時突出“打大打惡”導向，強化綜合懲戒，把中小投資者保護落到實處的制度抓手上。(中證金牛座)"
-    },
-    {
-      "id": "mkt:019ed8cf-0c50-7dd8-b06a-e5f81621a1fd",
-      "time": "2026-06-18 11:38:28",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "DXY",
-        "Impact bearish",
-        "US10Y",
-        "Impact bullish",
-        "S&P500"
-      ],
-      "text": "Citigroup now expects the Federal Reserve to cut rates by 25bp in October and December 2026 and January 2027, versus its prior forecast of 25bp cuts in September, October and December this year."
-    },
-    {
-      "id": "4942378",
-      "time": "2026-06-18 11:38:02",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【阿麗亞娜6型火箭成功發射36顆亞馬遜低軌衛星】當地時間17日上午，美國亞馬遜公司低地軌道衛星計劃的36顆衛星從法屬蓋亞那庫魯航天中心成功發射。約兩小時後，所有衛星被順利部署到預定軌道。此次發射任務由歐洲阿麗亞娜6型運載火箭完成。 據阿麗亞娜航天公司官網介紹，本次任務首次使用P160C動力助推器，該升級使阿麗亞娜6型火箭在低地軌道的有效載荷提高到約22噸。 根據合同，為部署亞馬遜低軌衛星，阿麗亞娜6型運載火箭將執行18次發射任務，本次發射是第三次任務。(新華社)"
-    },
-    {
-      "id": "te:economy:559910",
-      "time": "2026-06-18 11:37:54",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "China",
-        "Government Bond 10Y",
-        "Importance 1"
-      ],
-      "text": "China 10Y Yield Extends 3-Session Decline — China's 10-year government bond yield fell to around 1.72% on Thursday, extending losses for a third consecutive session and hitting a more than one-week low, as the growing role of bond financing could support the People's Bank of China's efforts to lower borrowing costs. The shift toward bond issuance reflects China's ongoing transition to a high-tech, innovation-driven economy, where capital market funding often offers cheaper financing than traditional bank loans. Government and corporate debt accounted for a record 30% of China's outstanding credit stock in May. Meanwhile, the People's Bank of China has been supporting liquidity conditions in the 200 trillion yuan bond market through policy operations, helping to keep yields low and ease funding costs across the economy. Separately, investors are closely watching the final session of the Lujiazui Forum for further policy signals and potential support measures."
     }
   ]
 }
