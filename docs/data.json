@@ -1,7 +1,70 @@
 {
-  "updated": "2026-06-25 13:18:20",
-  "count": 17051,
+  "updated": "2026-06-25 13:22:12",
+  "count": 17052,
   "items": [
+    {
+      "id": "4954181",
+      "time": "2026-06-25 13:21:38",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【元件、超級電容板塊震盪走高，風華高科觸及漲停】元件、超級電容板塊震盪走高，風華高科觸及漲停，東方鉭業、江海股份、時代新材此前封板，中天科技、振華科技跟漲。"
+    },
+    {
+      "id": "mkt:019efd39-fb94-7dd8-b10d-97aef6b8cdc9",
+      "time": "2026-06-25 13:21:36",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Japan 30-year government bond yield fell 3 bps to 3.835%."
+    },
+    {
+      "id": "4954180",
+      "time": "2026-06-25 13:20:24",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "【機構：美聯儲可能加息兩次】丹麥銀行高階分析師Kirstine Kundby-Nielsen和首席分析師Jens Peter Sorensen在一份報告中表示，預計美聯儲將加息兩次——分別在2026年12月和2027年3月——使聯邦基金利率達到4.00%-4.25%。“不過，我們強調，存在加息可能更早到來的風險，而且加息次數可能超過兩次，“他們表示。凱文·沃什作為美聯儲主席的首次會議發出了一個明確訊號，即美聯儲正日益放棄使用圍繞未來貨幣政策決定的前瞻性指引。“所有跡象都表明，（美聯儲）傾向於在未來的政策決定中擁有更大的自由裁量權，“丹麥銀行的分析師表示。"
+    },
+    {
+      "id": "4954179",
+      "time": "2026-06-25 13:19:44",
+      "tags": [
+        "市場"
+      ],
+      "text": "儲存晶片概念持續走強，北京君正“20cm”漲停，中微半導、太極實業此前漲停，佰維儲存、華新科技漲超10%。"
+    },
+    {
+      "id": "em:qqyh_rbyh:202606253782860038",
+      "time": "2026-06-25 13:19:36",
+      "tags": [
+        "央行",
+        "日本央行"
+      ],
+      "text": "日本央行審議委員田村直樹在被問及是否可能連續加息時表示，若通脹超出目標的風險成為現實，可能需要加快加息步伐。"
+    },
+    {
+      "id": "te:economy:561745",
+      "time": "2026-06-25 13:18:16",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Japan",
+        "Coincident Index",
+        "Importance 1"
+      ],
+      "text": "Japan's Coincident Index Beats Flash Estimate — Japan’s coincident economic index, a key measure of current economic activity based on indicators such as industrial production, employment, and retail sales, rose to 118.1 in April 2026, above the preliminary figure of 117.9 and March’s 116.8. The reading marked the highest level since May 2019, pointing to continued economic recovery despite lingering uncertainty stemming from the Middle East conflict. Domestic demand remained resilient, supported by improving employment and income conditions, though consumer confidence softened. Meanwhile, both exports and imports were broadly unchanged, reflecting cautious business sentiment amid geopolitical risks and persistent trade-related uncertainties. On the monetary policy front, the Bank of Japan kept its short-term policy rate unchanged at 0.75% in April while raising its inflation outlook, citing higher energy costs and continued price pressures."
+    },
+    {
+      "id": "4954178",
+      "time": "2026-06-25 13:17:44",
+      "tags": [
+        "國際"
+      ],
+      "text": "馬來西亞6月1-25日棕櫚油出口增長10.6%。"
+    },
     {
       "id": "4954177",
       "time": "2026-06-25 13:17:32",
@@ -55,6 +118,15 @@
         "其他"
       ],
       "text": "【駐宋卡總領館駐普吉領事辦公室提醒中國公民注意報警事宜】普吉、攀牙和甲米府一直是中國遊客心儀的國際旅遊勝地。為便利中國公民在三府遇到人身意外或緊急情況時及時順利報警求助，駐宋卡總領館駐普吉領事辦公室現梳理當地報警要點供瞭解掌握。中國公民可向皇家警察和旅遊警察報警。皇家警察主要處理刑事案件、治安管理、交通執法及其他需要出具正式報案材料和相關法律文書的案件。旅遊警察專門負責處理外國遊客旅遊糾紛、詐騙、失竊、消費爭議或一般性求助。（ 中國駐宋卡總領館  ）"
+    },
+    {
+      "id": "em:qqyh_rbyh:202606253782856863",
+      "time": "2026-06-25 13:16:01",
+      "tags": [
+        "央行",
+        "日本央行"
+      ],
+      "text": "【日本央行審議委員田村直樹：外匯波動是影響日本經濟和物價的重要因素】日本央行審議委員田村直樹稱，外匯波動是影響日本經濟和物價的重要因素。由於企業定價行為的變化，外匯波動對通脹的影響比過去更大。"
     },
     {
       "id": "4954173",
@@ -146,6 +218,15 @@
         "其他"
       ],
       "text": "【聯合國報告：全球仍有6.55億人用不上電】多家聯合國機構24日聯合釋出的《追蹤可持續發展目標7：能源進展報告》顯示，目前全球仍有6.55億人用不上電。報告說，若不採取緊急且更大規模的行動，全球將無法實現可持續發展目標7，即確保到2030年人人獲得負擔得起、可靠和可持續的現代能源。報告顯示，全球大多數地區正接近實現全民用電，但撒哈拉以南非洲地區進展緩慢，該地區超過5.6億人用不上電，9.7億人無法獲得清潔烹飪能源。"
+    },
+    {
+      "id": "em:qqyh_rbyh:202606253782855867",
+      "time": "2026-06-25 13:13:14",
+      "tags": [
+        "央行",
+        "日本央行"
+      ],
+      "text": "【日本央行審議委員田村直樹：已實現了央行設定的2%通脹目標】日本央行審議委員田村直樹稱，日本已實現了央行設定的2%通脹目標，必須將利率提升至接近中性水平，以避免潛在通脹水平超出目標範圍。"
     },
     {
       "id": "4954168",
@@ -155686,76 +155767,6 @@
         "Brent"
       ],
       "text": "NATO Secretary-General Rutte said an agreement with Iran would weaken its nuclear and missile capabilities and restore freedom of navigation."
-    },
-    {
-      "id": "4942496",
-      "time": "2026-06-18 13:21:33",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "【波蘭貨幣政策委員會杜達：維持利率不變為基準情景】波蘭貨幣政策委員會委員伊沃娜・杜達在接受採訪時表示，波蘭央行“不會預先承諾任何固定政策路徑”。“在我看來，波蘭貨幣政策當前的基準情景是，未來數月利率將保持穩定。”她稱，通脹並未大幅上行，目前仍處於波蘭國家銀行的目標區間內；暫無跡象表明油價衝擊會向經濟各領域廣泛傳導；貨幣政策委員會正密切監測生產者物價通脹水平。談及降息可能性，杜達表示：“只有確定經濟形勢充分向好，我們才會討論降息事宜。”“繼2026年3月降息25個基點後，波蘭後續的降息空間已十分有限。”"
-    },
-    {
-      "id": "4942495",
-      "time": "2026-06-18 13:21:28",
-      "tags": [
-        "市場"
-      ],
-      "text": "【中瓷電子走強，盤中漲停】中瓷電子盤中漲停，漲幅10.0%，成交額超22億元。"
-    },
-    {
-      "id": "4942494",
-      "time": "2026-06-18 13:20:20",
-      "tags": [
-        "市場"
-      ],
-      "text": "【ST三木跌停，走出2連板】ST三木跌停走出2連板，2天累計跌幅達9.51%。"
-    },
-    {
-      "id": "4942493",
-      "time": "2026-06-18 13:20:08",
-      "tags": [
-        "市場",
-        "央行",
-        "國際"
-      ],
-      "text": "【光大期貨：沃什首秀偏鷹，短線黃金或低位震盪】美聯儲靴子落地，隔夜倫敦現貨貴金屬衝高後快速回落，盤中跌幅一度超過2%。沃什首秀比預期偏鷹派，從結果導向來看對黃金偏利空，不過此前已有定價下，短線利空或不持續，但若從加息預期角度來看，利空影響或偏中期。另外，隨著美伊諒解備忘錄簽署，市場關注點或放在霍爾木茲海峽通航問題以及原油價格方面，繼而去預測利率走向。整體來看，黃金或仍在低位震盪執行。"
-    },
-    {
-      "id": "mkt:019ed92b-4b85-7dd8-b06c-a1de56c77734",
-      "time": "2026-06-18 13:19:13",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy"
-      ],
-      "text": "Azerbaijan Emergency Situations Ministry reported a fire at a Baku oil refinery."
-    },
-    {
-      "id": "4942492",
-      "time": "2026-06-18 13:19:01",
-      "tags": [
-        "公司"
-      ],
-      "text": "【歌爾股份在青島成立貿易公司 含電子專用裝置銷售業務】企查查APP顯示，近日，青島歌爾微通達貿易有限公司成立，法定代表人為董琨，經營範圍包含：積體電路晶片及產品銷售；電子專用裝置銷售；半導體器件專用裝置銷售；半導體分立器件銷售等。企查查股權穿透顯示，該公司由歌爾股份旗下歌爾微電子股份有限公司全資持股。"
-    },
-    {
-      "id": "4942491",
-      "time": "2026-06-18 13:18:56",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "【分析認為美聯儲面臨多股力量相互角力的挑戰】Moneyfarm首席投資官Richard Flax在一份報告中表示，美聯儲面臨的挑戰在於，目前有多股力量在相互角力。他說：“短期來看，考慮到對勞動力、材料和能源的需求，投資週期（尤其是圍繞AI和基礎設施的投資週期）看起來可能會引發通脹。“他表示，從長期來看，一個更可信的觀點是，技術可能會帶來通脹放緩。因此，Flax說，就目前而言，維持利率不變與其說是猶豫不決，不如說是認識到政策框架已經處於相當具有限制性的水平。“降息的門檻仍然很高，除非我們看到經濟活動出現更明顯的放緩，或者通脹出現更令人信服的回落，否則美聯儲可能會在一段時間內按兵不動。”"
-    },
-    {
-      "id": "mkt:019ed92a-e857-7dd8-b06c-9f43d15ceb3f",
-      "time": "2026-06-18 13:18:48",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Russian Defence Ministry said its air‑defence systems destroyed 555 Ukrainian drones in multiple regions."
     }
   ]
 }
