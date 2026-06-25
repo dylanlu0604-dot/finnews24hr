@@ -1,7 +1,191 @@
 {
-  "updated": "2026-06-26 01:12:46",
+  "updated": "2026-06-26 01:31:06",
   "count": 16891,
   "items": [
+    {
+      "id": "mkt:019effd4-a5d1-7dd8-b122-baa3d9fc8334",
+      "time": "2026-06-26 01:29:46",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "CBS reported that Louisiana Republican Senator Bill Cassidy withdrew his support for a Democratic-led bill aimed at limiting President Trump's war powers regarding Iran."
+    },
+    {
+      "id": "mkt:019effcd-fe76-7dd8-b122-b23384dc42a2",
+      "time": "2026-06-26 01:22:30",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "Sources said Venezuela's El Palito refinery was partially shut after an earthquake-triggered power outage."
+    },
+    {
+      "id": "4955686",
+      "time": "2026-06-26 01:22:01",
+      "tags": [
+        "其他"
+      ],
+      "text": "訊息人士稱，委內瑞拉埃爾帕利托煉油廠因地震引發停電已部分停產。"
+    },
+    {
+      "id": "4955685",
+      "time": "2026-06-26 01:21:07",
+      "tags": [
+        "國際"
+      ],
+      "text": "訊息稱日產汽車正考慮收購馬瑞利日本座艙業務資產。"
+    },
+    {
+      "id": "mkt:019effcc-6a83-7dd8-b122-a94cf9365e4e",
+      "time": "2026-06-26 01:20:47",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Apple",
+        "Market Themes",
+        "Magnificent 7",
+        "AAPL.O",
+        "Impact bullish"
+      ],
+      "text": "【Wedbush: Apple's latest price hikes unlikely to materially dent business】Wedbush said in a note that because Apple targets higher‑income consumers, its recent price increases are unlikely to materially dent demand. To offset rising memory and storage chip costs, Apple raised Mac and iPad prices by 15–25%. Wedbush analysts said the surge in memory prices forced the hikes, but Apple’s growing focus on the high end gives it scope to lift prices without sacrificing hardware performance or provoking significant customer attrition. They added Apple’s collaboration with Intel should help diversify the supply chain and partly ease memory and storage cost pressures."
+    },
+    {
+      "id": "4955684",
+      "time": "2026-06-26 01:19:52",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【機構：分析認為蘋果公司處於提價的“有利地位”】Wedbush在一份報告中表示，鑑於蘋果公司專注於向高收入人群銷售產品，其提價不應對其業務產生太大影響。蘋果公司將Mac和iPad的價格上調了15%至25%，以應對記憶體和快閃記憶體晶片成本的上升。Wedbush的分析師表示：“目前的記憶體價格上漲迫使蘋果公司提價，但我們認為，鑑於該公司越來越關注高階消費者，該公司處於提價的有利地位，而不會犧牲硬體效能，也不會增加客戶流失的風險。“他們補充說，蘋果公司與英特爾的合作應有助於實現供應鏈多元化，並緩解一些記憶體和快閃記憶體的壓力。"
+    },
+    {
+      "id": "4955683",
+      "time": "2026-06-26 01:19:28",
+      "tags": [
+        "其他"
+      ],
+      "text": "加拿大金融消費者監管局(FCAC)：對加拿大皇家銀行處以425萬加元的行政罰款，因其違反《銀行法》中的消費者條款。"
+    },
+    {
+      "id": "4955682",
+      "time": "2026-06-26 01:19:19",
+      "tags": [
+        "其他"
+      ],
+      "text": "加拿大金融消費者管理局（FCAC）：共有227947個賬戶遭受財務損失，加拿大皇家銀行（RBC）已劃轉並退還超過2240萬加元。"
+    },
+    {
+      "id": "4955681",
+      "time": "2026-06-26 01:19:10",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國、墨西哥、西班牙、卡達救援隊伍正趕赴委內瑞拉。"
+    },
+    {
+      "id": "4955680",
+      "time": "2026-06-26 01:18:38",
+      "tags": [
+        "其他"
+      ],
+      "text": "委內瑞拉最高立法機構議長豪爾赫·羅德里格斯：地震已造成250棟建築受損或坍塌。"
+    },
+    {
+      "id": "mkt:019effca-6cd2-7dd8-b122-a7f9762b6ad0",
+      "time": "2026-06-26 01:18:36",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Venezuela's interim president Rodriguez said an earthquake damaged or destroyed 250 buildings."
+    },
+    {
+      "id": "4955679",
+      "time": "2026-06-26 01:18:30",
+      "tags": [
+        "其他"
+      ],
+      "text": "委內瑞拉總統抵達拉瓜伊拉，實地勘察地震災情。"
+    },
+    {
+      "id": "4955678",
+      "time": "2026-06-26 01:17:12",
+      "tags": [
+        "其他"
+      ],
+      "text": "紐約州共和黨州長候選人布魯斯・布萊克曼公佈上任首日施政議程：廢除庇護城市政策、減稅、降低能源成本。"
+    },
+    {
+      "id": "4955677",
+      "time": "2026-06-26 01:16:14",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "紐約聯儲在6月25日的逆回購工具操作中，全額接受了申報的57.18億美元申請額度。"
+    },
+    {
+      "id": "mkt:019effc8-3468-7dd8-b122-9aafaa972342",
+      "time": "2026-06-26 01:16:11",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "The Federal Reserve accepted $5.718 billion from six counterparties in its fixed-rate reverse repo operation."
+    },
+    {
+      "id": "mkt:019effc7-c4e7-7dd8-b122-948553f6daaf",
+      "time": "2026-06-26 01:15:42",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "After consulting the head of the Security Service of Ukraine (SBU), Ukrainian President Zelenskiy said he approved a 40-day operation aimed at influencing Russia to end the war."
+    },
+    {
+      "id": "4955676",
+      "time": "2026-06-26 01:15:14",
+      "tags": [
+        "國際"
+      ],
+      "text": "烏克蘭總統澤連斯基在與國家安全域性局長磋商後表示，他已批准一項為期40天的行動，以“施壓”俄羅斯結束衝突。"
+    },
+    {
+      "id": "4955675",
+      "time": "2026-06-26 01:15:00",
+      "tags": [
+        "國際"
+      ],
+      "text": "馬克龍表示，法國將於週五公佈應對高溫天氣的全新舉措。"
+    },
+    {
+      "id": "4955674",
+      "time": "2026-06-26 01:12:54",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美國法官叫停特朗普關於建立新合格選民名單的命令】一名聯邦法官叫停了美國總統特朗普一項行政命令的關鍵部分。該命令旨在於11月中期選舉前，編制一份被聯邦機構認定為有資格投票的人員名單，並對郵寄選票施加新的限制。這是本週特朗普政府在選舉事務上遭遇的一系列法庭挫敗之一。與此同時，這位總統正因共和黨人未能促使國會透過一項強制要求提供公民身份證明才能投票的法案，而與自己所在的政黨發生內訌。"
+    },
+    {
+      "id": "mkt:019effc5-02db-7dd8-b122-8d1b8a48daca",
+      "time": "2026-06-26 01:12:41",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【U.S. judge blocks Trump order to create new voter-eligibility list】A federal judge blocked key provisions of President Trump’s executive order that sought to have federal agencies compile a list of persons deemed eligible to vote and to impose new limits on mail ballots ahead of the November midterm elections. The ruling is one of several court setbacks for the administration this week, and comes as Trump faces intra-party friction after Republicans failed to pass federal legislation requiring proof of citizenship to vote."
+    },
+    {
+      "id": "4955673",
+      "time": "2026-06-26 01:12:31",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國佛羅里達州州長：“鱷魚惡魔島” （美國佛羅里達州的一座非法移民拘留設施）人員遣散工作正在推進，被拘留者已被轉移到其他聯邦設施。"
+    },
     {
       "id": "4955672",
       "time": "2026-06-26 01:10:26",
@@ -154317,187 +154501,6 @@
         "國際"
       ],
       "text": "美國消費品安全委員會（CPSC）宣佈將總部從馬里蘭州遷至華盛頓哥倫比亞特區。"
-    },
-    {
-      "id": "4944149",
-      "time": "2026-06-19 01:30:54",
-      "tags": [
-        "國際"
-      ],
-      "text": "【足球球衣成交額暴漲超60倍 投影儀在海外賣爆了】2026美加墨世界盃正在火熱進行中，球迷的熱情也點燃了消費熱情。京東618銷售資料顯示，近一月來足球球衣成交額同比暴漲超60倍，“世界盃球衣”搜尋量增長5.5倍。賽事也直接拉動觀賽裝置的銷售增長，大尺寸大螢幕成為今年的新趨勢。海外618開賣後，一款投影儀新品在歐洲銷量翻倍，在西班牙市場增長甚至達90倍。大屏電視同樣熱銷，小米國際在義大利市場增長3倍。（央視財經）"
-    },
-    {
-      "id": "4944148",
-      "time": "2026-06-19 01:30:29",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國銀行證券維持蘋果目標股價為每股380.00美元。"
-    },
-    {
-      "id": "mkt:019edbc8-62cf-7dd8-b086-2edaf40c6f45",
-      "time": "2026-06-19 01:30:03",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "Iran's supreme leader Mojtaba said Iranian officials, acting from compassion and goodwill, made extensive efforts to secure a memorandum of understanding with the United States, and that the U.S. president signed it out of desperation."
-    },
-    {
-      "id": "4944146",
-      "time": "2026-06-19 01:29:30",
-      "tags": [
-        "公司"
-      ],
-      "text": "亞馬遜將獨家銷售無人工色素款 M&M 巧克力豆。"
-    },
-    {
-      "id": "mkt:019edbc7-17da-7dd8-b086-2693798e445d",
-      "time": "2026-06-19 01:28:38",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK"
-      ],
-      "text": "【Slovakia's National Council backs Fico government in confidence vote】On June 18 local time, Slovakia's National Council voted confidence in the Fico government. Following a Constitutional Court order requiring the government to promptly fulfil related statutory obligations, the ruling coalition secured parliamentary confidence with 78 votes."
-    },
-    {
-      "id": "4944142",
-      "time": "2026-06-19 01:27:28",
-      "tags": [
-        "其他"
-      ],
-      "text": "【斯洛伐克國民議會透過對菲佐政府信任投票】當地時間6月18日，斯洛伐克國民議會透過對菲佐政府的信任投票。在此前憲法法院要求政府儘快履行相關法定義務後，執政聯盟最終以78票支援的結果幫助政府順利獲得議會信任。斯洛伐克國民議會18日就政府信任案舉行特別會議。經過全天辯論和表決，由總理羅伯特·菲佐領導的政府獲得78名議員支援，成功透過信任投票。（央視新聞）"
-    },
-    {
-      "id": "4944141",
-      "time": "2026-06-19 01:27:17",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國聯邦能源監管委員會將要求公用事業企業申報資料中心相關成本。"
-    },
-    {
-      "id": "4944140",
-      "time": "2026-06-19 01:27:07",
-      "tags": [
-        "其他"
-      ],
-      "text": "Kraken交易所：正在調查秘密網路（SCRT）出入金通道的問題，目前充值和提現可能會出現延遲。"
-    },
-    {
-      "id": "4944139",
-      "time": "2026-06-19 01:25:45",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國一名法官縮減了多州及選舉權組織針對特朗普限制郵寄選票行政令提起的訴訟範圍。"
-    },
-    {
-      "id": "4944137",
-      "time": "2026-06-19 01:22:06",
-      "tags": [
-        "公司"
-      ],
-      "text": "輝瑞製藥公司：仍然預測全年調整後每股收益2.80美元至3.00美元。"
-    },
-    {
-      "id": "4944135",
-      "time": "2026-06-19 01:21:58",
-      "tags": [
-        "公司"
-      ],
-      "text": "輝瑞製藥公司：仍然預測全年營收595億美元至625億美元。"
-    },
-    {
-      "id": "4944133",
-      "time": "2026-06-19 01:20:20",
-      "tags": [
-        "國際"
-      ],
-      "text": "英國部長呼籲以色列從黎巴嫩南部撤軍。"
-    },
-    {
-      "id": "4944132",
-      "time": "2026-06-19 01:19:59",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗媒體訊息：作為對以色列在黎巴嫩南部屢次違反停火協議的回應，真主黨啟動代號Ashura的系列軍事行動。"
-    },
-    {
-      "id": "mkt:019edbbe-fe1b-7dd8-b086-1adfa5e794a1",
-      "time": "2026-06-19 01:19:47",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Vance says Israel mistrusts US over US-Iran memorandum】June 18 — US Vice President Vance accused Israeli officials of showing \"strange panic\" and \"hysteria\" over a US-Iran memorandum of understanding, saying Israel lacks trust in the United States. Israeli politicians across parties, including some Netanyahu allies, have criticized the MoU for failing to resolve Israel's concerns about Iran's nuclear and ballistic-missile programs and for restricting Israel's freedom to act against Hezbollah. Vance rejected claims the MoU is a \"bad deal,\" saying that characterization is false and noting the memorandum does not guarantee benefits to Iran absent changes in Iranian behavior."
-    },
-    {
-      "id": "4944131",
-      "time": "2026-06-19 01:19:16",
-      "tags": [
-        "國際"
-      ],
-      "text": "【經濟學家：加拿大經濟前景取決於該國在資源和金屬領域的表現】加鼎華阜合作銀行首席經濟學家Jimmy Jean表示，加拿大的經濟前景取決於利用其在能源領域的專業知識以及生產關鍵礦物。他說，由於加拿大擁有龐大的油氣儲量，目前外國投資者的興趣似乎很濃厚。Jean表示，加拿大不能再依賴作為通往美國的免關稅門戶來吸引投資者。Jean說：“加拿大必須實現的不僅僅是目前普遍的自我吹噓的言辭：而是將其比較優勢——清潔能源、資源、專業知識——轉化為新的產能。”外國人也在以創紀錄的速度大量買入加拿大證券。他表示，如果加拿大將目前的樂觀情緒視為對“加拿大兌現承諾能力無條件的信任投票”，那將是一個錯誤。"
-    },
-    {
-      "id": "mkt:019edbbd-e97b-7dd8-b086-1377de3da370",
-      "time": "2026-06-19 01:18:36",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "EURUSD",
-        "Impact bullish"
-      ],
-      "text": "ECB executive board member Escrivá said rising energy costs are passing through to the services and transport sectors."
-    },
-    {
-      "id": "4944130",
-      "time": "2026-06-19 01:18:31",
-      "tags": [
-        "其他"
-      ],
-      "text": "輝瑞在宣佈首席財務官過渡後重申2026財年業績指引。"
-    },
-    {
-      "id": "4944129",
-      "time": "2026-06-19 01:17:54",
-      "tags": [
-        "市場",
-        "央行",
-        "國際"
-      ],
-      "text": "歐洲央行官員埃斯克裡瓦：能源成本上漲正傳導至服務業與交通運輸行業。"
-    },
-    {
-      "id": "mkt:019edbbc-c79a-7dd8-b086-0ca1e95388b7",
-      "time": "2026-06-19 01:17:22",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)"
-      ],
-      "text": "The Federal Reserve accepted $251 mln from four counterparties in a fixed-rate reverse repurchase operation."
-    },
-    {
-      "id": "4944126",
-      "time": "2026-06-19 01:16:19",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【微軟和亞馬遜雲服務據悉將面臨歐盟嚴厲反壟斷監管】在歐盟針對雲端計算市場的壟斷力量進行初步調查後，微軟公司的Azure和亞馬遜雲端計算服務(AWS)將面臨嚴厲的反壟斷監管。據不願透露姓名的知情人士透露，歐盟委員會最早將於下週公佈初步調查結果，料指出AWS和Azure可能滿足歐盟《數字市場法案》(DMA)監管的條件。知情人士補充稱，歐盟預計將在今年年底前做出最終決定，但時間表仍可能發生變化。如果這些科技巨頭的服務最終受到DMA的全面監管，它們將面臨一系列義務，包括互操作性要求，以及針對客戶鎖定和自我優待行為的限制措施。歐盟委員會和微軟均拒絕置評。AWS未立即回應置評請求。"
-    },
-    {
-      "id": "4944125",
-      "time": "2026-06-19 01:16:07",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "紐約聯儲6月18日接受逆回購工具提交的2.51億美元全部申請。"
     }
   ]
 }
