@@ -1,7 +1,185 @@
 {
-  "updated": "2026-06-25 20:36:40",
-  "count": 17021,
+  "updated": "2026-06-25 20:40:50",
+  "count": 17020,
   "items": [
+    {
+      "id": "mkt:019efecb-a1ce-7dd8-b11c-66b4a76d6d8d",
+      "time": "2026-06-25 20:40:18",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Apple (AAPL.O) is raising prices on Mac and iPad models to offset a memory shortage."
+    },
+    {
+      "id": "4955252",
+      "time": "2026-06-25 20:40:03",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "蘋果公司宣告稱，人工智慧資料中心熱潮引發了對記憶體和儲存的空前需求，迫使價格上漲。"
+    },
+    {
+      "id": "4955251",
+      "time": "2026-06-25 20:40:00",
+      "tags": [
+        "其他"
+      ],
+      "text": "蘋果MacBook Neo起售價將從599美元上調至699美元。"
+    },
+    {
+      "id": "4955250",
+      "time": "2026-06-25 20:39:56",
+      "tags": [
+        "其他"
+      ],
+      "text": "蘋果：儲存容量為512GB的蘋果MacBook Air售價將從1099美元上調至1299美元。"
+    },
+    {
+      "id": "mkt:019efecb-4c38-7dd8-b11c-5db0c6e1bb67",
+      "time": "2026-06-25 20:39:56",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "EURUSD",
+        "Impact bearish"
+      ],
+      "text": "TIMIRAOS: May US core PCE MoM 0.32%, slightly below expectations but still the fourth-highest monthly reading in the past 12 months (annualized 3.9%). Core PCE YoY 3.4%, highest since Oct 2023; six-month annualized rate above 4%."
+    },
+    {
+      "id": "4955249",
+      "time": "2026-06-25 20:39:48",
+      "tags": [
+        "其他"
+      ],
+      "text": "蘋果11英寸iPad Pro無線區域網機型256GB版本售價將從999美元上調至1199美元。"
+    },
+    {
+      "id": "4955248",
+      "time": "2026-06-25 20:39:46",
+      "tags": [
+        "其他"
+      ],
+      "text": "蘋果128GB版iPad Air售價將從599美元上調至749美元。"
+    },
+    {
+      "id": "4955247",
+      "time": "2026-06-25 20:39:40",
+      "tags": [
+        "公司"
+      ],
+      "text": "蘋果公司提高MAC、IPAD和家用電器的價格以應對記憶體短缺問題。"
+    },
+    {
+      "id": "4955246",
+      "time": "2026-06-25 20:39:20",
+      "tags": [
+        "國際"
+      ],
+      "text": "菲律賓養老金改革諮詢委員會（CARF）表示：若不進一步採取措施，要實現2027財年目標將存在46萬億比索的資金缺口，規模高於政府此前的預測。"
+    },
+    {
+      "id": "te:economy:561878",
+      "time": "2026-06-25 20:39:10",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "Personal Spending",
+        "Importance 3"
+      ],
+      "text": "US Consumer Spending Rises More than Expected — US personal spending rose by 0.7% month-on-month in May 2026, or $156.1 billion, accelerating from a downwardly revised 0.4% increase in April and beating market expectations of a 0.6% gain. Spending on goods rose by $61.8 billion. Spending on services climbed by $94.3 billion. Meanwhile, inflation-adjusted consumer spending increased 0.3% in May, after a flat reading in April."
+    },
+    {
+      "id": "te:economy:561877",
+      "time": "2026-06-25 20:39:10",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "PCE Price Index Monthly Change",
+        "Importance 2"
+      ],
+      "text": "US PCE Inflation Rises Less than Expected — The US PCE price index rose 0.4% month-over-month in May 2026, less than market expectations of a 0.5% increase, matching the pace recorded in April. Goods inflation eased to 0.4% from 0.7%, while services inflation rose to 0.5% from 0.3% in each of the previous two months. The core PCE index, which excludes food and energy, increased 0.3%, the same pace as in the previous month and matching market forecasts. On an annual basis, headline PCE inflation accelerated for a third straight month to 4.1% from 3.8%, in line with expectations and marking the highest reading since April 2023. Core PCE inflation edged up to 3.4% from 3.3%, also matching forecasts and reaching its highest level since late 2023."
+    },
+    {
+      "id": "mkt:019efeca-1e66-7dd8-b11c-57527cff6a90",
+      "time": "2026-06-25 20:38:39",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "S&P500",
+        "Impact bullish",
+        "Nasdaq100"
+      ],
+      "text": "【US stock futures extend gains as PCE broadly meets expectations】US stock futures extended gains after May PCE broadly matched expectations, reinforcing market hopes the Federal Reserve will not be overly hawkish. The Commerce Department reported May PCE +0.4% MoM (Refinitiv survey +0.5%); YoY +4.1% in line with forecasts. Core PCE rose 0.3% MoM, +3.4% YoY."
+    },
+    {
+      "id": "em:qqyh_mlc:202606253783293916",
+      "time": "2026-06-25 20:38:29",
+      "tags": [
+        "央行",
+        "美聯儲"
+      ],
+      "text": "美國短期利率期貨在經濟資料公佈後上漲，交易員削減對美聯儲加息的押注。"
+    },
+    {
+      "id": "mkt:019efec9-b77e-7dd8-b11c-4ac71f21d861",
+      "time": "2026-06-25 20:38:12",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "【Moore Threads, Peking University sign agreement to set up joint Intelligent Graphics and Simulation Lab】On June 24 Peking University and Moore Threads signed an agreement to establish the Peking University–Moore Threads Intelligent Graphics and Simulation Joint Laboratory. The lab will focus on core technologies including graphics rendering, physical simulation, spatial intelligence, 3D Gaussian reconstruction (3DGS) and embodied intelligence; it will support basic science research and pursue hardware‑software integrated collaboration to drive full‑stack performance optimization from chips to applications, building a domestic technology base for spatial and embodied intelligence industries."
+    },
+    {
+      "id": "te:economy:561875",
+      "time": "2026-06-25 20:38:06",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "Initial Jobless Claims",
+        "Importance 2"
+      ],
+      "text": "US Initial Jobless Claims Fall More than Expected — The number of people claiming unemployment benefits in the US eased by 12,000 to 215,000 on the third week of June, the lowest in four weeks, and below market expectations of 225,000. Meanwhile, continuing claims, which are seen as a gauge of outstanding unemployment in the US, rose by 21,000 from to 1,821,000 in the first week of June, the highest in three months. The claim counts were higher than those observed in the start of the second quarter, but remained robust on historical standards, maintaining the trend of low firing and low hiring. Meanwhile, initial claims filed by federal employees, which have been under scrutiny due the administration's efforts in decreasing the number of public workers, fell by 61 to 431."
+    },
+    {
+      "id": "te:economy:561874",
+      "time": "2026-06-25 20:38:05",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "Durable Goods Orders",
+        "Importance 2"
+      ],
+      "text": "US Durable Goods Orders Slip as Expected — New orders for US-manufactured durable goods dropped by 4.5% from the prior month to $332 billion in May 2026, after an upwardly revised 8.5% jump in April, in line with market forecasts. This follows two consecutive months of increases and marked the steepest decline since June 2025., mainly due to reduced orders for transport equipment (-14%) and capital goods (-13.6%). Excluding transportation, new orders rose by 1.3%, following an upwardly revised 1.4% advance in April; while excluding defense, they slipped by 4.6%, after an upwardly revised 8.4% surge in the month before."
+    },
+    {
+      "id": "4955245",
+      "time": "2026-06-25 20:37:38",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行：將非金融債權組合納入通用抵押品框架，逐步退出臨時措施；此次調整是終止臨時性危機時期抵押品寬鬆措施的最後一步。"
+    },
+    {
+      "id": "4955244",
+      "time": "2026-06-25 20:36:21",
+      "tags": [
+        "公司"
+      ],
+      "text": "【愛旭股份：浙江愛旭擬向滁州愛旭增資8億元】愛旭股份公告，公司控股子公司浙江愛旭太陽能科技有限公司擬以自有資金對其全資子公司滁州愛旭太陽能科技有限公司增加註冊資本金8億元。增資前滁州愛旭註冊資本為5.22億元，增資後增至13.22億元。公司於2026年6月25日召開第十屆董事會第六次會議審議透過了《關於向子公司增資的議案》，本次交易無需提交股東會審議，不構成關聯交易及重大資產重組。本次增資尚需市場監督管理局核准登記。"
+    },
     {
       "id": "mkt:019efec7-d9f0-7dd8-b11c-4133b85a47f7",
       "time": "2026-06-25 20:36:10",
@@ -155314,194 +155492,6 @@
         "歐洲央行"
       ],
       "text": "歐洲央行首席經濟學家LANE表示，歐元區就業形勢穩定，實際收入持續攀升。"
-    },
-    {
-      "id": "4943569",
-      "time": "2026-06-18 20:40:32",
-      "tags": [
-        "市場",
-        "央行",
-        "國際"
-      ],
-      "text": "歐洲央行官員萊恩：實際薪資仍在持續上漲。"
-    },
-    {
-      "id": "4943568",
-      "time": "2026-06-18 20:40:23",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【阿里巴巴-W(09988)：調整於2032年到期的可轉換優先票據轉換率】阿里巴巴-W(09988)釋出公告，有關於2032年到期的零票息可轉換優先票據(2025年票據)，由於2026年股息宣佈，依據2025年票據的條款和條件，自2026年6月11日起生效，2025年票據的轉換率，由每1000美元本金額的2025年票據轉換為5.1773股美國存托股，調整為每1000美元本金額的2025年票據轉換為5.2248股美國存托股。而2025年票據的最大轉換率(考慮到在發生2025年票據公告中披露的若干公司事件情形下的若干調整)，則由每1000美元本金額的2025年票據轉換為6.7953股美國存托股，調整為每1000美元本金額的2025年票據轉換為6.8577股美國存托股。經過上述調整之後，公司根據調整後的初始轉換率在2025年票據充分轉換後可發行的普通股(包括以美國存托股形式)數目，已從1.31億股普通股增加至1.32億股普通股。"
-    },
-    {
-      "id": "4943567",
-      "time": "2026-06-18 20:40:14",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "【美國上週初請失業金人數下降 勞動力市場仍具韌性】美國上週初請失業救濟人數下降，顯示勞動力市場仍處於“低裁員”狀態。美國勞工部週四公佈的資料顯示，截至6月13日當週，初請失業救濟人數減少4000人至22.6萬人，市場預期為22.5萬人。不過，續請失業救濟人數在前一週升至181萬人。這些資料表明，儘管伊朗戰爭引發能源價格衝擊，美國勞動力市場仍保持韌性。5月份強於預期的就業報告進一步印證了這一看法，報告顯示美國僱主新增17.2萬個就業崗位。相關資料緩解了市場對於招聘活動大幅放緩的擔憂，並促使投資者進一步加大對美聯儲加息的押注。"
-    },
-    {
-      "id": "mkt:019edabe-f97a-7dd8-b07d-77af2efe1d51",
-      "time": "2026-06-18 20:40:09",
-      "tags": [
-        "MKT News",
-        "EURUSD",
-        "Impact bullish",
-        "DXY",
-        "Impact bearish"
-      ],
-      "text": "ECB chief economist Lane said employment is stable and real incomes continue to rise."
-    },
-    {
-      "id": "4943566",
-      "time": "2026-06-18 20:40:00",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "歐洲央行官員萊恩：就業形勢穩定，實際收入持續增長。"
-    },
-    {
-      "id": "mkt:019edabe-cc79-7dd8-b07d-6eb8aa0417b9",
-      "time": "2026-06-18 20:39:57",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "US Economy",
-        "DXY",
-        "Impact bullish",
-        "US10Y",
-        "S&P500",
-        "Impact bearish"
-      ],
-      "text": "【U.S. initial jobless claims fall; labor market remains resilient】Initial U.S. jobless claims fell 4,000 to 226,000 in the week ended June 13, vs. 225,000 expected, the Labor Department said Thursday. Continuing claims rose to 1.81 million in the prior week. The figures, alongside stronger-than-expected May payrolls (+172,000), signal a still-resilient labor market despite an energy-price shock from the Iran conflict and have prompted investors to increase bets on further Fed rate hikes."
-    },
-    {
-      "id": "4943565",
-      "time": "2026-06-18 20:39:24",
-      "tags": [
-        "市場"
-      ],
-      "text": "現貨白銀日內跌2%，現報66.49美元/盎司。"
-    },
-    {
-      "id": "4943564",
-      "time": "2026-06-18 20:38:54",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "歐洲央行官員萊恩：歐洲央行利率政策更主動，有助於提升長期經濟穩定性。"
-    },
-    {
-      "id": "te:economy:560093",
-      "time": "2026-06-18 20:38:51",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "United States",
-        "Philadelphia Fed Manufacturing Index",
-        "Importance 2"
-      ],
-      "text": "Philadelphia Factory Activity Rebounds in June — The Philadelphia Fed Manufacturing Index improved to 10.3 in June 2026 from -0.4 in May, slightly above market expectations of 10, signaling a return to expansion in regional manufacturing activity. Around 32% of firms reported higher activity, compared with 22% reporting declines, while 45% saw no change. The current shipments index increased 10 points to 14.9, and the new orders index jumped 29 points to 27.3, indicating stronger demand conditions. Employment also improved, with the employment index rising 11 points to 7.9, its highest level since January, although most companies reported unchanged staffing levels. Price pressures remained elevated, with the prices paid index rising 5 points to 53.2, while the prices received index declined 6 points to 20.3, its lowest since February but still above historical averages. Firms remained optimistic, continuing to expect growth over the next six months."
-    },
-    {
-      "id": "4943563",
-      "time": "2026-06-18 20:38:46",
-      "tags": [
-        "央行",
-        "公司",
-        "市場"
-      ],
-      "text": "【機構：英鎊受英國央行下調近期通脹預期拖累】Capital.com的Daniela Hathorn在一份報告中表示，英鎊下跌似乎反映了英國央行週四下調近期通脹預期。英國央行以7比2的投票結果將利率維持在3.75%不變，其中兩名決策者傾向於加息25個基點。英國央行表示，其對第三和第四季度通脹的預期略低於4月份預計的路徑。她說，市場似乎不太關注投票分歧，而是更多地關注較低的通脹前景以及英國央行承認在通脹回落方面取得的進展。不過她表示，市場仍預計年底前會加息。倫敦證券交易所集團資料顯示，英鎊跌至10周低點1.3202美元。歐元升至三週高點0.8675英鎊。"
-    },
-    {
-      "id": "mkt:019edabd-9efc-7dd8-b07d-6001f7820150",
-      "time": "2026-06-18 20:38:40",
-      "tags": [
-        "MKT News",
-        "EURUSD",
-        "Impact bullish",
-        "DXY",
-        "Impact bearish"
-      ],
-      "text": "ECB chief economist Lane said a more active approach to interest-rate policy implies longer-term stability."
-    },
-    {
-      "id": "4943562",
-      "time": "2026-06-18 20:38:16",
-      "tags": [
-        "其他"
-      ],
-      "text": "英國擬將希思羅機場擴建工程劃定為關鍵基礎設施專案。"
-    },
-    {
-      "id": "te:economy:560091",
-      "time": "2026-06-18 20:37:12",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "United States",
-        "Initial Jobless Claims",
-        "Importance 2"
-      ],
-      "text": "US Initial Claims Inch Down — The number of people claiming unemployment benefits in the US eased by 4,000 from the four-month high in the previous week to 226,000 in the second week of June, loosely aligned with market expectations of 225,000. Meanwhile, continuing claims, which are seen as a gauge of outstanding unemployment in the US, rose by 24,000 from to 1,810,000 in the first week of June, the highest in nearly three months. Albeit consolidating the departure from the strong levels since the start of the second quarter, the figures remained robust on historical standards, maintaining the trend of low firing and low hiring. Meanwhile, initial claims filed by federal employees, which have been under scrutiny due the administration's efforts in decreasing the number of public workers, fell by 56 to 497."
-    },
-    {
-      "id": "4943561",
-      "time": "2026-06-18 20:37:10",
-      "tags": [
-        "市場"
-      ],
-      "text": "義大利經濟部長：政府正在評估國有銀行CDP與泛歐交易所就米蘭證券交易所發生的衝突，是否意味著泛歐交易所違反了其透過黃金權力規則與義大利達成的承諾。"
-    },
-    {
-      "id": "mkt:019edabc-1851-7dd8-b07d-5a57026b7d73",
-      "time": "2026-06-18 20:37:00",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK"
-      ],
-      "text": "UK launches public consultation on Heathrow airport expansion."
-    },
-    {
-      "id": "4943560",
-      "time": "2026-06-18 20:36:58",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "歐洲央行官員萊恩：我們不想讓利率大幅波動。"
-    },
-    {
-      "id": "em:qqyh_ozyh:202606183776375261",
-      "time": "2026-06-18 20:36:54",
-      "tags": [
-        "央行",
-        "歐洲央行"
-      ],
-      "text": "【歐洲央行首席經濟學家LANE：中性利率區間的上限已升至2.5%】歐洲央行首席經濟學家LANE表示，中性利率區間的上限已升至2.5%。"
-    },
-    {
-      "id": "mkt:019edabb-db9f-7dd8-b07d-51e5f1f2641d",
-      "time": "2026-06-18 20:36:44",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "ECB chief economist Lane said the central bank does not want interest rates to move sharply."
-    },
-    {
-      "id": "4943559",
-      "time": "2026-06-18 20:36:43",
-      "tags": [
-        "其他"
-      ],
-      "text": "英國將就希思羅機場擴建事宜開展公眾諮詢。"
     }
   ]
 }
