@@ -1,7 +1,119 @@
 {
-  "updated": "2026-06-25 20:45:09",
-  "count": 17026,
+  "updated": "2026-06-25 20:49:25",
+  "count": 17022,
   "items": [
+    {
+      "id": "te:economy:561887",
+      "time": "2026-06-25 20:48:21",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "Real Personal Spending MoM",
+        "Importance 1"
+      ],
+      "text": "Real US Personal Spending Rebounds in May — Inflation-adjusted US personal spending rose 0.3% month-over-month in May 2026, after a revised flat reading in April. Spending on goods rebounded 0.5%, following a 0.4% fall in April, with motor vehicles and parts rising 0.9% (vs -3.8% in April) and clothing and footwear increasing 0.4% (vs -0.4%). Recreational goods and vehicles also saw a rebound (0.8% vs -0.3%). Meanwhile, spending on services rose 0.2%, the same as in the previous month."
+    },
+    {
+      "id": "4955266",
+      "time": "2026-06-25 20:48:06",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【蘋果因記憶體短缺大幅漲價，Mac及iPad多款產品調價幅度達20%】蘋果公司6月25日宣佈上調Mac、iPad及家居裝置價格，以應對AI資料中心擴張引發的記憶體晶片及儲存器空前短缺所帶來的成本壓力。具體漲價幅度：MacBook Neo起售價從599美元升至699美元，MacBook Air從1099美元升至1299美元，14英寸入門款MacBook Pro從1699美元升至1999美元，11英寸iPad Pro從999美元升至1199美元，iPad Air從599美元升至749美元。上述調價為全球性漲價，iPhone價格暫未調整。蘋果發言人表示，“AI資料中心的快速擴張造成記憶體和儲存器需求的超常規激增”，公司“從未見過零部件價格漲得如此之快、如此之多”，並表示此前已盡力為消費者吸收成本上漲壓力，“但現在已到了不得不開始提價的時刻”。"
+    },
+    {
+      "id": "mkt:019efed2-6d38-7dd8-b11c-b5f294200929",
+      "time": "2026-06-25 20:47:43",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. ambassador to NATO said he recently held talks with Turkey on jet-engine sales."
+    },
+    {
+      "id": "4955265",
+      "time": "2026-06-25 20:47:40",
+      "tags": [
+        "國際"
+      ],
+      "text": "歐盟計劃在碳改革中引入動態市場穩定儲備。"
+    },
+    {
+      "id": "4955264",
+      "time": "2026-06-25 20:47:33",
+      "tags": [
+        "國際"
+      ],
+      "text": "歐盟將在改革中把國內碳清除納入排放交易體系。"
+    },
+    {
+      "id": "4955263",
+      "time": "2026-06-25 20:47:26",
+      "tags": [
+        "國際"
+      ],
+      "text": "歐盟希望將免費二氧化碳排放許可與清潔投資掛鉤，以推動改革。"
+    },
+    {
+      "id": "4955262",
+      "time": "2026-06-25 20:47:15",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國駐北約大使：最近與土耳其方面談過噴氣發動機銷售事宜。"
+    },
+    {
+      "id": "4955261",
+      "time": "2026-06-25 20:46:57",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "智利央行購入2500萬美元。"
+    },
+    {
+      "id": "mkt:019efed1-7404-7dd8-b11c-af9b986d6c20",
+      "time": "2026-06-25 20:46:40",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals"
+      ],
+      "text": "Spot silver up 1.00% intraday at $58.05/oz."
+    },
+    {
+      "id": "4955260",
+      "time": "2026-06-25 20:46:34",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨白銀突破58美元/盎司，日內漲1.08%。"
+    },
+    {
+      "id": "4955259",
+      "time": "2026-06-25 20:46:34",
+      "tags": [
+        "市場"
+      ],
+      "text": "現貨白銀日內漲1%，現報58.03美元/盎司。"
+    },
+    {
+      "id": "mkt:019efed0-8631-7dd8-b11c-a09d3bf1479e",
+      "time": "2026-06-25 20:45:38",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Apple",
+        "Market Themes",
+        "Magnificent 7",
+        "AAPL.O",
+        "Impact bearish"
+      ],
+      "text": "Apple (AAPL.O) shares fell 0.7% in premarket trading after the company raised prices on iPad and Mac to offset a storage-chip shortage."
+    },
     {
       "id": "te:economy:561884",
       "time": "2026-06-25 20:43:58",
@@ -155438,155 +155550,6 @@
         "焦點"
       ],
       "text": "紐約期銀失守67美元/盎司，日內跌6.05%。"
-    },
-    {
-      "id": "4943585",
-      "time": "2026-06-18 20:49:03",
-      "tags": [
-        "其他"
-      ],
-      "text": "據Marine Traffic：週四迄今已有七艘船隻穿越霍爾木茲海峽。"
-    },
-    {
-      "id": "te:economy:560098",
-      "time": "2026-06-18 20:49:00",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Czech Republic",
-        "Interest Rate",
-        "Importance 1"
-      ],
-      "text": "Czech National Bank First Rate Hike Since 2022 — The Czech National Bank raised its two-week repo rate to 3.75% in June 2026, the first rate hike since 2022 and signaling the need for tight monetary policy. The move, despite criticism from the prime minister over its impact on lending, was driven mainly by domestic inflation risks, including rising money supply, first-quarter wage growth at highest levels in three years at 8%, a widening fiscal deficit and the impact of the Iran War. While headline inflation eased to 2.1% in May from 2.5% in April, near the upper limit of the banks target of around 2%, core inflation remained elevated holding near 2.9%. At the same time, economic growth is expected to moderate, with activity projected to expand by 2.2% this quarter, down from 2.7% in the previous period. In addition, higher interest rates are likely to increase the demand for the koruna and, if the central bank signals that further tightening may be required to contain inflation, the currency could strengthen further."
-    },
-    {
-      "id": "mkt:019edac7-0eae-7dd8-b07d-aae05b4c2261",
-      "time": "2026-06-18 20:48:58",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "MarineTraffic data show seven vessels have transited the Strait of Hormuz so far on Thursday."
-    },
-    {
-      "id": "4943584",
-      "time": "2026-06-18 20:48:48",
-      "tags": [
-        "公司"
-      ],
-      "text": "江蘇永康智慧防務科技股份有限公司創業板IPO獲受理，預計融資金額14.6億元。"
-    },
-    {
-      "id": "4943583",
-      "time": "2026-06-18 20:48:39",
-      "tags": [
-        "公司"
-      ],
-      "text": "廣東高標智慧科技股份有限公司創業板IPO獲受理，預計融資金額10.5116億元。"
-    },
-    {
-      "id": "em:qqyh_ygyh:202606183776379881",
-      "time": "2026-06-18 20:48:35",
-      "tags": [
-        "央行",
-        "英國央行"
-      ],
-      "text": "【英國央行6月利率決議：基準利率維持3.75% 兩名委員呼籲加息對沖通脹風險】英國央行公佈的6月利率決議顯示，委員會以7票贊成、2票反對維持基準利率3.75%不變；外部委員梅根·格林與首席經濟學家休·皮爾共同主張加息25bp至4%，內部政策分歧擴大，呈現典型鷹派維穩格局，英國央行警示中東能源衝擊或推升年末通脹，保留進一步加息空間。"
-    },
-    {
-      "id": "mkt:019edac6-7ef3-7dd8-b07d-a17afbcdd59f",
-      "time": "2026-06-18 20:48:22",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "EURUSD",
-        "Impact mixed",
-        "DXY",
-        "US10Y"
-      ],
-      "text": "ECB chief economist Lane said divergent interest-rate paths for the ECB and the Fed are feasible."
-    },
-    {
-      "id": "mkt:019edac6-5055-7dd8-b07d-9d36f363b633",
-      "time": "2026-06-18 20:48:10",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Sources said Israeli Prime Minister Netanyahu is attempting to pressure US President Trump through right-wing media figures and friendly senators to influence the final Iran deal."
-    },
-    {
-      "id": "4943582",
-      "time": "2026-06-18 20:48:00",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "歐洲央行官員萊恩：歐洲央行與美聯儲採取不同的利率路徑是可行的。"
-    },
-    {
-      "id": "4943581",
-      "time": "2026-06-18 20:47:46",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【訊息稱伊朗89%的受損石化設施已重新運營】伊朗最大的石油化工控股公司波斯灣石化工業集團（Persian Gulf Petrochemical Industries）的負責人穆罕默德·沙里亞特馬達裡表示：“約89%的停運設施已重新恢復執行，目前運轉正常。”"
-    },
-    {
-      "id": "4943580",
-      "time": "2026-06-18 20:47:40",
-      "tags": [
-        "資料"
-      ],
-      "text": "卡達5月CPI較前月下降0.51% 。"
-    },
-    {
-      "id": "4943579",
-      "time": "2026-06-18 20:47:28",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "智利央行購入2500萬美元。"
-    },
-    {
-      "id": "4943578",
-      "time": "2026-06-18 20:47:23",
-      "tags": [
-        "公司"
-      ],
-      "text": "河南光遠新材料股份有限公司創業板IPO獲受理，預計融資金額36億元。"
-    },
-    {
-      "id": "4943577",
-      "time": "2026-06-18 20:47:19",
-      "tags": [
-        "公司"
-      ],
-      "text": "蘭升生物科技集團股份有限公司深市主機板IPO獲受理，預計融資金額16.8625億元。"
-    },
-    {
-      "id": "4943576",
-      "time": "2026-06-18 20:45:57",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "歐洲央行官員萊恩：我們將採取一切必要舉措，美聯儲也會如此行事。"
-    },
-    {
-      "id": "mkt:019edac4-3a4f-7dd8-b07d-910d755db2ff",
-      "time": "2026-06-18 20:45:53",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "EURUSD",
-        "Impact mixed",
-        "DXY",
-        "US10Y"
-      ],
-      "text": "ECB chief economist Lane said the ECB will take necessary action, as the Fed will."
     }
   ]
 }
