@@ -1,7 +1,107 @@
 {
-  "updated": "2026-06-25 20:53:37",
-  "count": 17025,
+  "updated": "2026-06-25 20:57:43",
+  "count": 17029,
   "items": [
+    {
+      "id": "te:economy:561892",
+      "time": "2026-06-25 20:56:55",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "Personal Income",
+        "Importance 1"
+      ],
+      "text": "US Personal Income at 10-Month High — US personal income increased by 0.7% month-over-month in May 2026, surpassing market expectations of a 0.4% rise and accelerating from a flat reading in April. It marked the strongest monthly gain since July 2025, driven largely by a surge in farm proprietors' income, which rose by $59.6 billion following payments under the American Relief Act of 2025. During the month, the USDA issued a second round of Supplemental Disaster Relief Program payments to producers. Proprietors' income with inventory valuation and capital consumption adjustments rose by $84.6 billion, while employee compensation increased by $66.8 billion, including a $57.1 billion gain in wages and salaries. Private-sector wages climbed by $48.7 billion, while government wages increased by $8.4 billion. Meanwhile, disposable personal income rose 0.7%, or $164.9 billion, rebounding from a 0.1% decline in April. Real disposable personal income also increased by 0.3%, following a 0.5% drop in the previous month."
+    },
+    {
+      "id": "4955284",
+      "time": "2026-06-25 20:56:53",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗方面稱，義大利不認同北約秘書長有關美國使用軍事基地的相關言論。"
+    },
+    {
+      "id": "mkt:019efeda-c551-7dd8-b11d-024e8db1b9f0",
+      "time": "2026-06-25 20:56:50",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【17th International Conference on Agricultural Trade Policy opens in Beijing】The 17th International Conference on Agricultural Trade Policy convened at Renmin University in Beijing. Ministry of Agriculture and Rural Affairs chief national veterinarian Tao Huaiying said rising unilateralism and protectionism are accelerating a deep restructuring of global agricultural industry and supply chains. She flagged the next five years will see complex, heightened food‑security risks, overlapping drivers of agricultural price volatility, simultaneous opportunities and risks for agri‑technology cooperation, strong growth potential in agricultural services trade, and accelerated reform of international food and agriculture governance. Tao urged using high‑quality trade to safeguard global food security and market stability, support technology‑driven development and full‑chain upgrades, and strengthen global agricultural cooperation; she said China is willing to work with partners to maintain open, inclusive multilateral trade and promote innovation‑led, green, sustainable agriculture."
+    },
+    {
+      "id": "4955283",
+      "time": "2026-06-25 20:56:38",
+      "tags": [
+        "宏觀",
+        "公司",
+        "國際"
+      ],
+      "text": "【歐盟就 Anthropic 訪問限制與特朗普政府展開談判】據報道，本月早些時候美國出臺新規，禁止外籍人員使用 Anthropic PBC 旗下頂尖 AI 模型，此後歐盟已同特朗普政府展開磋商，爭取恢復對該系列模型的訪問許可權。歐盟委員會執行副主席亨娜・維爾庫寧透露，本週歐盟一名高階政策官員出訪華盛頓期間，專門就美方這項管制措施進行交涉；受管制影響，Anthropic 已徹底關停全球使用者對 Fable 5 與 Mythos 5 兩大前沿模型的訪問通道。維爾庫寧週四在米蘭接受採訪時表示：“我本人也已就此問題與特朗普政府溝通，同時我們也一直在和 Anthropic 公司對接協商。”此番談判凸顯歐盟的核心訴求：即便歐盟正大力推進數字主權建設、降低對美科技產品的依賴，獲取前沿 AI 系統使用許可權仍是其優先事項 —— 這類模型可提供強大工具，用於排查網路安全漏洞。美國出於國家安全考量限制外籍主體使用模型一事也清晰表明，即便是美國盟友，同樣會受到美方單邊政策約束。"
+    },
+    {
+      "id": "mkt:019efeda-5cf7-7dd8-b11c-fe2c3b8e8fa7",
+      "time": "2026-06-25 20:56:23",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Market sources: Iran's foreign minister spoke with Italy's foreign minister."
+    },
+    {
+      "id": "mkt:019efed9-bfa0-7dd8-b11c-f2c31acb56d8",
+      "time": "2026-06-25 20:55:43",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "EU held talks with the WHITE HOUSE over ANTHROPIC after access to MYTHOS was cut."
+    },
+    {
+      "id": "4955282",
+      "time": "2026-06-25 20:55:23",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗外交部長與義大利外長會談。"
+    },
+    {
+      "id": "4955281",
+      "time": "2026-06-25 20:55:08",
+      "tags": [
+        "國際"
+      ],
+      "text": "【第十七屆農業貿易政策國際會議在京召開】6月25日，第十七屆農業貿易政策國際會議在中國人民大學召開，農業農村部國家首席獸醫師（官）陶懷穎出席會議並致辭。陶懷穎表示，當前世界百年未有之大變局加速演進，單邊主義和保護主義抬頭，全球農業產業鏈供應鏈正處於深度重塑的關鍵期。未來五年，全球農業呈現糧食安全形勢複雜嚴峻、農產品市場價格擾動因素交織疊加、農業科技合作機遇挑戰並存、農業服務貿易增長潛力巨大、國際糧農治理體系加速變革等特點，需要以高質量貿易保障全球糧食安全、支撐全球市場穩定、推動科技創新發展、賦能農業全鏈條升級、加強全球糧農合作。中方願同各方攜手，堅持開放包容，維護多邊貿易體制，堅持創新驅動，培育貿易新動能，堅持綠色貿易，推動農業可持續發展。"
+    },
+    {
+      "id": "4955280",
+      "time": "2026-06-25 20:53:34",
+      "tags": [
+        "公司"
+      ],
+      "text": "巴斯夫：塗料事業部將於7月起作為獨立公司運營。"
+    },
+    {
+      "id": "4955279",
+      "time": "2026-06-25 20:53:25",
+      "tags": [
+        "市場"
+      ],
+      "text": "赫茲盤前股價跌幅擴大至10%。"
+    },
+    {
+      "id": "mkt:019efed7-83c1-7dd8-b11c-eeebdd429f88",
+      "time": "2026-06-25 20:53:17",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Tesla",
+        "Market Themes",
+        "Magnificent 7",
+        "TSLA.O",
+        "Impact bullish"
+      ],
+      "text": "Tesla (TSLA.O) will hire an additional 1,000 employees at its Berlin Gigafactory as planned production rises."
+    },
     {
       "id": "mkt:019efed7-1d9a-7dd8-b11c-e23edaadb367",
       "time": "2026-06-25 20:52:51",
@@ -74,6 +174,14 @@
         "Impact mixed"
       ],
       "text": "Tesla (TSLA.O): The 20% production growth target for the Berlin Gigafactory announced in April is under revision again."
+    },
+    {
+      "id": "4955274",
+      "time": "2026-06-25 20:51:33",
+      "tags": [
+        "其他"
+      ],
+      "text": "【農業農村部：著力抓好鄉村產業振興 提升鄉村建設水平】農業農村部黨組6月25日召開會議，會議強調，要全力以赴抓好糧食生產，指導抓好夏糧收穫掃尾，壓茬推進夏播夏管，緊盯大面積單產提升這條主線，落實秋糧生產關鍵技術措施，加強農業氣象災害防範和重大病蟲害防控，協調做好農資保供穩價，全力奪取全年糧食豐收，確保糧食等重要農產品穩定供給。要著力提升農業綜合生產能力和質量效益，堅持產量產能、生產生態、增產增收一起抓，統籌發展科技農業、綠色農業、質量農業、品牌農業，高質量推進高標準農田建設，大力推廣高效節水農業，合理調優農業結構，持續落實大農業觀、大食物觀，推動品種培優、品質提升、品牌打造和標準化生產，把農業建成現代化大產業。要強化“千萬工程”經驗指引，因地制宜推進宜居宜業和美鄉村建設，著力抓好鄉村產業振興，指導各地紮實做好“土特產”文章，培育壯大鄉村富民產業，完善聯農帶農機制，圍繞基礎設施完備度、公共服務便利度、人居環境舒適度，提升鄉村建設水平，加快補齊農村現代生活條件短板，健全黨組織領導的自治、法治、德治相結合的鄉村治理體系，深入推進農村移風易俗，煥發鄉村文明新氣象。"
     },
     {
       "id": "mkt:019efed5-c081-7dd8-b11c-c9e433c33448",
@@ -155523,77 +155631,6 @@
         "國際"
       ],
       "text": "【“堅決不撤” 以色列正就保留在黎駐軍問題與美談判】兩名以色列官員18日透露，以方堅定謀求在黎巴嫩南部地區保留駐軍，正就此問題與美方展開磋商。一名以色列官員在匿名前提下向路透社記者透露，以方正與美國政府“開展固守立場的談判”。以方立場不會妥協，包括繼續在黎巴嫩利塔尼河以南地區部署軍隊。另一名匿名以方官員說，磋商結果最終取決於美國總統特朗普是否決定就駐軍議題“強力施壓”並威脅以色列“若不遵守美伊所籤諒解備忘錄條款，美方將採取相應措施”。以色列總理辦公室暫未就上述報道作出回應。在美伊雙方17日公佈的諒解備忘錄文字中，均有涉及立即並永久停止包括黎巴嫩在內的所有戰線的軍事行動條款，其中明確提到尊重黎巴嫩領土完整和國家主權。另據黎巴嫩“廣場”電視臺18日報道，以軍當天對黎南部兩地發動襲擊。伊朗外交部發言人巴加埃18日表示，如果以色列繼續襲擊黎巴嫩，將被視為違反美國的承諾。（新華社）"
-    },
-    {
-      "id": "te:markets:560101",
-      "time": "2026-06-18 20:57:42",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Canada",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "TSX Futures Edge Higher After US-Iran Deal — Futures tracking Canada’s S&P/TSX Composite Index edged higher after the signing of an interim peace deal between the US and Iran. The agreement aims to end the conflict and reopen the Strait of Hormuz, while negotiations over Tehran’s nuclear program are set to begin later this week. Oil prices fell following the deal, easing concerns over a fresh wave of global inflation and prolonged high interest rates, supporting financial stocks and the broader index. Meanwhile, gold prices edged lower as the US dollar strengthened amid a hawkish Federal Reserve outlook, weighing on mining stocks. Energy shares are also set to come under pressure as oil prices decline."
-    },
-    {
-      "id": "4943601",
-      "time": "2026-06-18 20:57:40",
-      "tags": [
-        "市場"
-      ],
-      "text": "埃森哲股價盤前跌幅進一步擴大，最新下跌16%。"
-    },
-    {
-      "id": "4943600",
-      "time": "2026-06-18 20:57:34",
-      "tags": [
-        "公司"
-      ],
-      "text": "【上海報業集團召開幹部會議宣佈有關幹部任免決定】6月18日，上海報業集團幹部會議召開，宣佈市委有關幹部任免的決定。 市委決定：胡明華同志任中共上海報業集團委員會書記、上海報業集團社長，免去其上海報業集團總經理職務；繆克構同志任中共上海報業集團委員會副書記，中共解放日報社委員會書記、解放日報社社長，免去其中共文匯報社委員會書記、文匯報社社長職務；免去陳頌清同志的中共上海報業集團委員會副書記，中共解放日報社委員會書記、解放日報社社長職務。"
-    },
-    {
-      "id": "mkt:019edace-e81a-7dd8-b07d-d29df7962e3a",
-      "time": "2026-06-18 20:57:33",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "Iranian parliament speaker Ghalibaf said Iran will charge vessels transiting the Strait of Hormuz once a 60-day 'no-fee' period stipulated in a memorandum of understanding with the US expires."
-    },
-    {
-      "id": "mkt:019edace-4db0-7dd8-b07d-c86332db2134",
-      "time": "2026-06-18 20:56:53",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Netanyahu seeks to sway Trump on final Iran deal via right‑wing media and pro‑Israel U.S. senators】Foreign media citing an Israeli source report Prime Minister Netanyahu is trying to influence the final Iran agreement by using right‑wing media figures and pro‑Israel U.S. senators to pressure President Trump. Netanyahu remains skeptical during negotiations, saying he does not expect the U.S. and Iran to reach a deal and doubts Iran will accept real limits on its nuclear programme. He has enlisted pro‑Israel commentators such as podcaster Mark Levin — who on Wednesday called the deal “nonsense” — and is courting pro‑Israel senators, though Republican Senator Lindsey Graham, who had pushed for tougher action on Iran, has shifted his stance."
-    },
-    {
-      "id": "4943599",
-      "time": "2026-06-18 20:56:49",
-      "tags": [
-        "國際"
-      ],
-      "text": "【內塔尼亞胡欲借右翼媒體與美國親以參議員影響美伊最終協議】據外媒報道，一名以色列訊息人士透露，以色列總理內塔尼亞胡正試圖影響最終的伊朗協議，並利用右翼媒體人士以及美國參議員向特朗普施壓。在整個談判期間，內塔尼亞胡始終對伊朗的意圖持懷疑態度，認為伊朗從未真心誠意地進行談判。內塔尼亞胡仍然認為，美國與伊朗最終不會達成協議，而且伊朗不會真正同意對核計劃施加限制。內塔尼亞胡正試圖藉助支援以色列的播客主持人Mark Levin等右翼媒體人士傳播自己的立場。Levin週三表示，該協議“毫無道理”。內塔尼亞胡還試圖依靠支援以色列的美國參議員來說服特朗普。不過，即便是此前主張對伊朗發動更多打擊的共和黨參議員格雷厄姆也已改變立場。"
-    },
-    {
-      "id": "4943598",
-      "time": "2026-06-18 20:54:24",
-      "tags": [
-        "其他"
-      ],
-      "text": "【京津冀首個萬臺級具身智慧機器人超級工廠規模投用】位於北京亦莊的京津冀首個萬臺級具身智慧機器人超級工廠目前已規模投用。工廠圍繞“全製程、高柔性、精益化、數字化”，構建了具身機器人硬體製造的完整能力體系，覆蓋從核心零部件、模組到整機組裝與測試的全鏈條製造服務，並配備了高柔性自動化具身機器人測試體系。（央視新聞）"
-    },
-    {
-      "id": "4943597",
-      "time": "2026-06-18 20:54:10",
-      "tags": [
-        "公司"
-      ],
-      "text": "【三部門印發消費類網聯攝像頭網路安全標識實施規則】國家網信辦、工業和資訊化部、公安部近日印發消費類網聯攝像頭網路安全標識實施規則。規則明確，消費類網聯攝像頭的網路安全標識對應的網路安全能力由低到高依次為基礎級、增強級、領先級三個級別，相應的標識等級分別用一星、二星、三星表示。規則適用於消費類網聯攝像頭的網路安全標識的備案和使用。消費類網聯攝像頭是指消費者個人或組織購買、使用，為個人或組織提供音影片資訊採集和處理服務、具有網際網路聯網功能的獨立攝像頭。不適用於公共安全領域的攝像頭。 (新華社)"
     }
   ]
 }
