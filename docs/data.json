@@ -1,7 +1,76 @@
 {
-  "updated": "2026-06-25 20:19:39",
-  "count": 16985,
+  "updated": "2026-06-25 20:23:54",
+  "count": 16984,
   "items": [
+    {
+      "id": "4955219",
+      "time": "2026-06-25 20:22:20",
+      "tags": [
+        "公司"
+      ],
+      "text": "【廣發證券：獲證監會批覆公開發行不超500億元短期公司債】廣發證券公告稱，公司收到中國證監會批覆，同意其向專業投資者公開發行短期公司債券的註冊申請，本次公開發行短期公司債券面值餘額不超過500億元。發行應嚴格按報送深交所的募集說明書進行，批覆自同意註冊之日起24個月內有效，公司可分期發行。公司將依規辦理髮行相關事宜並及時披露資訊。"
+    },
+    {
+      "id": "te:economy:561870",
+      "time": "2026-06-25 20:21:19",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Mexico",
+        "Unemployment Rate",
+        "Importance 1"
+      ],
+      "text": "Mexico Unemployment Rate Rises to 8-Month High — Mexico's unemployment rate increased to 2.8% in May 2026, marking the highest level in eight months, up from 2.5% in April. The number of unemployed individuals incresed by 200 thousand to 1.7 million, while employed persons declined by the same amount to 60.4 million. The economically active population remained unchanged at 62.1 million, with the labor force participation rate holding steady at 59.1%. Among employed workers, salaried workers kept the biggest share at 68.5%, followed by self-employed (22.3%), employers (5.9%) and unpaid family workers (3.4%). By sector, services accounted for 44.4%, followed by commerce (19.9%), manufacturing (16.2%), agriculture (10.0%) and construction (8.0%). The unemployement rate was higher for women (2.8%) than men (2.7%). 12% of unemployed individuals had not completed secondary education, while 88% had attained a higher level of education. On a seasonally adjusted basis, the unemployment rate edged up to 2.7% in May from 2.6% in April."
+    },
+    {
+      "id": "4955218",
+      "time": "2026-06-25 20:20:39",
+      "tags": [
+        "公司"
+      ],
+      "text": "【科沃斯：參股公司仙工智慧在港交所上市】科沃斯(603486)6月25日公告，公司參股公司上海仙工智慧科技股份有限公司（簡稱“仙工智慧”）於6月24日在香港聯合交易所主機板上市。仙工智慧本次全球發售1049.73萬股，上市股份類別為普通股（H股），發行價格為101.6港元/股。公司全資子公司科沃斯（海南）投資有限公司直接持有仙工智慧644.67萬股，佔其發行後總股本的5.83%。本次仙工智慧上市，持有的該部分股份預計對公司2026年度歸母淨利潤影響金額約為2.05億元，約佔2025年度公司經審計歸母淨利潤的11.69%。"
+    },
+    {
+      "id": "mkt:019efeb9-4f2e-7dd8-b11a-81f9e9e14068",
+      "time": "2026-06-25 20:20:17",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Iranian parliament speaker Ghalibaf said the US is wrong to claim Iran’s unfrozen assets will be used to buy US agricultural products."
+    },
+    {
+      "id": "mkt:019efeb9-356b-7dd8-b11a-7b4f00ccb398",
+      "time": "2026-06-25 20:20:11",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "US Economy",
+        "DXY",
+        "Impact mixed",
+        "US10Y",
+        "S&P500"
+      ],
+      "text": "US data due in 10 minutes: last week’s initial jobless claims; Q1 real PCE QoQ final; Q1 real GDP and core PCE price index annualized QoQ final; May durable goods orders MoM; May personal spending MoM; core PCE price index MoM and YoY."
+    },
+    {
+      "id": "mkt:019efeb9-12a8-7dd8-b11a-73a0a70f05ce",
+      "time": "2026-06-25 20:20:02",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Japan Meteorological Agency said an M4.7 earthquake struck off the coast of Iwate Prefecture at about 20:58 local time on the 25th, with a maximum JMA seismic intensity of 4 and a hypocenter depth of 50 km."
+    },
+    {
+      "id": "4955217",
+      "time": "2026-06-25 20:19:31",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "伊朗議會議長卡利巴夫：美國謊稱我們解凍的資產將用於購買美國農產品。"
+    },
     {
       "id": "4955216",
       "time": "2026-06-25 20:18:55",
@@ -154905,73 +154974,6 @@
         "其他"
       ],
       "text": "【穆迪評級：AI的加速部署助力中國服務業出海重拾增長】穆迪評級表示，AI正在重塑中國服務出口商的競爭格局。在技術和資訊、物流及旅行相關服務等行業，大語言模型的採用、先進的資料分析、智慧物流系統和AI驅動的個性化工具使中國服務提供商能夠更快地實現產品本土化、提高服務質量並降低邊際成本。加上規模帶來的成本優勢以及服務質量和可靠性的改善，AI的加速採用將支援新一輪海外拓展。這一變化標誌著增長引擎從傳統的建築和加工服務業轉向其他領域。"
-    },
-    {
-      "id": "4943513",
-      "time": "2026-06-18 20:23:42",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國民主黨參議員達克沃斯：各類投資者均對 SpaceX 存在投資需求。"
-    },
-    {
-      "id": "4943512",
-      "time": "2026-06-18 20:23:35",
-      "tags": [
-        "央行",
-        "市場",
-        "焦點"
-      ],
-      "text": "【美股盤前要聞速遞】\n①美股三大股指期貨齊漲：道指期貨漲0.32%，標普500指數期貨漲0.73%，納指期貨漲1.43%。\n②德國DAX指數漲漲0.07%，英國富時100指數跌0.98%，法國CAC40指數跌0.07%，歐洲斯托克50指數漲0.11%。\n③WTI原油跌2.02%，報75.24美元/桶。布倫特原油跌1.38%，報78.45美元/桶。\n④沃什首秀“亮劍”：成立專項組審查6.7萬億美元資產負債表， 美聯儲“縮表“議程引猜想。\n⑤美聯儲點陣圖“鷹派逆轉”：半數官員預計今年加息，通脹預測上調。\n⑥8.3萬億美元期權即將“核爆”到期!史上最大“四巫日”撞上養老基金再平衡，美股面臨系統性頭寸重置。\n⑦英特爾美股盤前漲超9%，特朗普稱蘋果將與該公司在美國晶片設計與生產領域展開合作。\n⑧Energy Fuels美股盤前漲超16%。訊息面上，五角大樓與其簽署了7.25億美元貸款協議。\n⑨科磊美股盤前漲4.98%。訊息面上，花旗看好NAND/DRAM相關裝置需求，上調科磊目標價至290美元並維持買入評級，提振盤前股價大漲。"
-    },
-    {
-      "id": "4943511",
-      "time": "2026-06-18 20:23:28",
-      "tags": [
-        "其他"
-      ],
-      "text": "【極氪釋出9系雙旗艦全球化戰略，009光輝右舵版將於Q4登陸香港】2026年6月18日，極氪在香港車博會發布9系雙旗艦全球化出海戰略。截至6月16日，極氪全球累計交付量突破80萬輛；今年1至5月，極氪以40.7%的份額斬獲香港豪華車銷量冠軍。產品方面，全球超豪華SUV極氪9X搭載900V電驅系統，最大功率超1030kW，扭轉剛度達41600N·m/deg；四座旗艦極氪009光輝右舵版將於2026年Q4登陸香港。目前極氪海外業務已覆蓋全球超60個城市。"
-    },
-    {
-      "id": "4943510",
-      "time": "2026-06-18 20:21:53",
-      "tags": [
-        "公司"
-      ],
-      "text": "【富泰和北交所IPO過會】6月18日，北交所上市稽核委員會召開2026年第59次上市稽核委員會審議會議，審議結果顯示，深圳市富泰和精密製造股份有限公司首發符合發行條件、上市條件和資訊披露要求。"
-    },
-    {
-      "id": "4943509",
-      "time": "2026-06-18 20:21:12",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "美國民主黨參議員達克沃斯：SpaceX 相關交易成交量躋身公司成立以來單日成交最活躍五日之列。"
-    },
-    {
-      "id": "4943508",
-      "time": "2026-06-18 20:20:30",
-      "tags": [
-        "其他"
-      ],
-      "text": "歐佩克：發電量將增長逾85%。"
-    },
-    {
-      "id": "4943507",
-      "time": "2026-06-18 20:20:13",
-      "tags": [
-        "公司"
-      ],
-      "text": "美國民主黨參議員達克沃斯：散戶投資者希望參與創新賽道。"
-    },
-    {
-      "id": "4943506",
-      "time": "2026-06-18 20:19:51",
-      "tags": [
-        "公司"
-      ],
-      "text": "美國民主黨參議員達克沃斯：SpaceX 訂單需求 “空前火爆” 且熱度持續不減。"
     }
   ]
 }
