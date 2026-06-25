@@ -1,7 +1,44 @@
 {
-  "updated": "2026-06-26 05:02:03",
-  "count": 16976,
+  "updated": "2026-06-26 05:06:03",
+  "count": 16977,
   "items": [
+    {
+      "id": "te:markets:562002",
+      "time": "2026-06-26 05:03:37",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Brazil",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Ibovespa Rises on Soft Inflation Data — The Ibovespa rose 0.9% to close at 171,990 on Thursday, as investors reacted positively to softer-than-expected inflation data and fresh guidance from the BCB. Brazil’s mid-month inflation slowed more than forecast in June, while the BCB sought to clarify its latest 25 basis-point Selic cut and stressed that future decisions remain data-dependent. The softer inflation print and lower oil prices pushed the yield curve lower. Major banks traded mixed, with Banco do Brasil up 1.6%, Itaú rising 1.7%, while Bradesco edged down 0.2%. Vale rose 1.1%, recovering from recent losses. Petrobras gained 0.5% as oil prices edged up despite improving shipping flows through the Strait of Hormuz. Meanwhile, Braskem plunged 10.4% after creditors rejected its restructuring proposal."
+    },
+    {
+      "id": "4955880",
+      "time": "2026-06-26 05:03:32",
+      "tags": [
+        "市場"
+      ],
+      "text": "週四（6月25日）紐約尾盤（週五北京時間04:59），離岸人民幣（CNH）兌美元報6.8008元，較週三紐約尾盤反彈124點，日內整體交投於6.8164-6.7969元區間，整體持續上揚。"
+    },
+    {
+      "id": "4955879",
+      "time": "2026-06-26 05:02:54",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "【紐約聯儲行長稱利率處於良好位置 預計通脹到2028年達標】紐約聯儲行長約翰·威廉姆斯表示，利率處於能夠讓通脹向央行目標回落的良好位置。“鑑於通脹處於高位，我們必須讓它可持續地回到我們2%的長期目標水平，”威廉姆斯週四在為Jersey City一場活動準備的演講稿中表示。“當前貨幣政策立場處於實現這一點的良好位置。”威廉姆斯指出，通脹“毫無疑問處於高位”，受到關稅、伊朗戰爭引發的能源衝擊以及人工智慧投資熱潮的推動。他表示，儘管關稅影響基本釋放、能源價格已回落，但仍存在重大風險。威廉姆斯預計，通脹到年底將放緩至3.5%，隨後將“沿著平穩路徑”繼續向2%靠攏，到2028年達到目標。他表示，未來幾個季度，貿易關稅影響逐步消退應該有助於緩解通脹，而住房通脹應該繼續放緩。他還表示，如果中東衝突能夠相對較快地解決，能源和商品價格也應該企穩。"
+    },
+    {
+      "id": "mkt:019f0097-4595-7dd8-b126-7583e7205d2b",
+      "time": "2026-06-26 05:02:21",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "A British official said King Charles will not reside at Buckingham Palace after renovation work completes next year."
+    },
     {
       "id": "4955878",
       "time": "2026-06-26 05:00:27",
@@ -155343,34 +155380,6 @@
         "市場"
       ],
       "text": "週四（6月18日）紐約尾盤（週五北京時間04:59），離岸人民幣（CNH）兌美元報6.7784元，較週三紐約尾盤跌22點，日內整體交投於6.7624-6.7810元區間。"
-    },
-    {
-      "id": "mkt:019edc8c-c9fb-7dd8-b088-9994fd802749",
-      "time": "2026-06-19 05:04:34",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution",
-        "SPCX.O",
-        "Impact bullish"
-      ],
-      "text": "【SpaceX receives investment-grade ratings from Moody's, Fitch and S&P; outlooks stable】On Thursday SpaceX (SPCX.O) was assigned investment-grade credit ratings by Moody's, Fitch and S&P Global Ratings, each with a stable outlook. The consensus signals broad market confidence in SpaceX's financial stability as the company advances a costly, ambitious AI program amid intense competition."
-    },
-    {
-      "id": "4944316",
-      "time": "2026-06-19 05:03:41",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：赫格塞思近期取得了不少亮眼成果，未來他還將收穫更多佳績。"
-    },
-    {
-      "id": "4944315",
-      "time": "2026-06-19 05:02:41",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：股市剛剛創下歷史新高，401 (k) 養老金賬戶市值也同步重新整理紀錄。與此同時油價大幅暴跌。除此之外，眼下局勢一片向好。"
     }
   ]
 }
