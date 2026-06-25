@@ -1,7 +1,23 @@
 {
-  "updated": "2026-06-26 06:50:44",
+  "updated": "2026-06-26 06:54:38",
   "count": 16948,
   "items": [
+    {
+      "id": "4955911",
+      "time": "2026-06-26 06:54:09",
+      "tags": [
+        "其他"
+      ],
+      "text": "【非洲疾控中心：埃博拉疫情應對資金需求增至14億美元】非洲疾控中心25日在新聞釋出會上表示，隨著疫情形勢持續惡化，埃博拉疫情應對資金需求已大幅上調至14億美元，幾乎是此前預計的5.18億美元的三倍。非洲疾病預防控制中心主任讓·卡塞亞在當天舉行的新聞釋出會上表示，疫情發展及不斷加劇的人道主義危機推高了防控成本，使應對資金需求顯著增加。讓·卡塞亞指出，剛果（金）伊圖裡省的安全和人道主義局勢持續惡化，對疫情防控工作造成嚴重影響。剛果（金）衛生部當天釋出的疫情報告顯示，該國本輪埃博拉疫情累計確診病例升至1155例，其中304例死亡。確診病例死亡率為26.3%。（央視新聞）"
+    },
+    {
+      "id": "4955910",
+      "time": "2026-06-26 06:53:51",
+      "tags": [
+        "其他"
+      ],
+      "text": "澳大利亞競爭與消費者委員會（ACCC）：自 7 月 1 日起啟動超市物價監控工作。"
+    },
     {
       "id": "mkt:019f00fa-24b4-7dd8-b126-c9478c4771e5",
       "time": "2026-06-26 06:50:21",
@@ -155065,32 +155081,6 @@
         "Importance 1"
       ],
       "text": "New Zealand Exports Hit Record High — New Zealand’s exports increased 18.1% year-on-year to a record high of NZD 8.9 billion in May 2026, after a downwardly revised 7.7% rise in the previous month."
-    },
-    {
-      "id": "te:economy:560191",
-      "time": "2026-06-19 06:53:19",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "New Zealand",
-        "Balance of Trade",
-        "Importance 2"
-      ],
-      "text": "New Zealand Trade Balance Narrows in May — New Zealand's trade surplus declined to NZD 0.8 billion in May 2026, down from NZD 1.1 billion in the same month a year earlier, slightly below estimates of NZD 0.875 billion, as exports rose less than imports. Exports grew 18.1% year-on-year to a record high of NZD 8.9 billion, while imports jumped 25.9% yoy to a record peak of NZD 8.1 billion."
-    },
-    {
-      "id": "mkt:019edcee-45ae-7dd8-b089-8862ce1c49fb",
-      "time": "2026-06-19 06:51:03",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Europe & UK",
-        "GBPUSD",
-        "Impact mixed",
-        "FTSE100"
-      ],
-      "text": "UK June GfK consumer confidence index due in 10 minutes."
     }
   ]
 }
