@@ -1,7 +1,67 @@
 {
-  "updated": "2026-06-26 01:04:34",
-  "count": 16891,
+  "updated": "2026-06-26 01:08:38",
+  "count": 16893,
   "items": [
+    {
+      "id": "4955671",
+      "time": "2026-06-26 01:07:22",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "全球諮詢公司ICF International：美國電網正以驚人的速度擴張，到2030年，其新增規模可能相當於該國目前最大的區域電力系統。"
+    },
+    {
+      "id": "mkt:019effc0-15b0-7dd8-b122-79ba6b7da04f",
+      "time": "2026-06-26 01:07:18",
+      "tags": [
+        "MKT News",
+        "Copper",
+        "Impact bullish"
+      ],
+      "text": "ICF International said the U.S. power grid is expanding at an astonishing pace; by 2030 cumulative additions could be equivalent in scale to the country’s largest current regional power system."
+    },
+    {
+      "id": "mkt:019effbe-e153-7dd8-b122-74452746a75f",
+      "time": "2026-06-26 01:05:59",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Italian Prime Minister MELONI said Italy will provide only technical and logistical support."
+    },
+    {
+      "id": "4955670",
+      "time": "2026-06-26 01:05:58",
+      "tags": [
+        "其他"
+      ],
+      "text": "義大利總理梅洛尼：我們僅提供了技術與後勤支援。"
+    },
+    {
+      "id": "4955669",
+      "time": "2026-06-26 01:05:18",
+      "tags": [
+        "國際"
+      ],
+      "text": "義大利總理梅洛尼：我們從未捲入伊朗衝突。"
+    },
+    {
+      "id": "mkt:019effbe-2ec0-7dd8-b122-681f8b201f9f",
+      "time": "2026-06-26 01:05:14",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Italian Prime Minister Meloni said Italy has never been involved in the Iran conflict."
+    },
+    {
+      "id": "4955668",
+      "time": "2026-06-26 01:04:09",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國七年期國債收益率拍賣後變動不大，最新報4.254%，下跌2.25個基點。"
+    },
     {
       "id": "4955667",
       "time": "2026-06-26 01:03:21",
@@ -154454,51 +154514,6 @@
         "國際"
       ],
       "text": "美國五年期通脹保值國債收益率在拍賣後下行，最新報1.921%。"
-    },
-    {
-      "id": "4944112",
-      "time": "2026-06-19 01:07:30",
-      "tags": [
-        "市場"
-      ],
-      "text": "標普500指數和納斯達克100指數延續漲勢，觸及盤中高點。"
-    },
-    {
-      "id": "4944111",
-      "time": "2026-06-19 01:06:57",
-      "tags": [
-        "國際"
-      ],
-      "text": "澤連斯基：會談重點探討了安全合作，以及我方與歐盟以無人機合作協議框架推進相關合作事宜。雙方還談及對烏防務援助事宜，重中之重是加強防空能力、提升抵禦俄羅斯彈道導彈的防護水平。"
-    },
-    {
-      "id": "4944110",
-      "time": "2026-06-19 01:06:49",
-      "tags": [
-        "國際"
-      ],
-      "text": "澤連斯基： 歐盟理事會會議召開前夕，我方同歐洲理事會主席安東尼奧・科斯塔、烏爾蘇拉・馮德萊恩商討了烏克蘭加入歐盟程序的後續舉措，並協調各方立場。"
-    },
-    {
-      "id": "mkt:019edbb2-ad2f-7dd8-b085-ff45eda8c38e",
-      "time": "2026-06-19 01:06:20",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bearish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "【US lifts maritime blockade on Iran】US Central Command said on social media on June 18 that, at President Trump's direction, US forces have lifted the blockade on all maritime traffic to and from Iranian ports and coastal areas. The statement said US forces will no longer impede shipping to Iranian ports in the Arabian Gulf and Gulf of Oman; all US blockade operations have ceased, but US naval vessels will remain in the region to ensure the US‑Iran memorandum of understanding is observed, implemented and fully effective."
-    },
-    {
-      "id": "4944108",
-      "time": "2026-06-19 01:06:07",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【Alphabet、Visa等公司釋放加強AI監管訊號】企業董事會不能再僅僅停留在考慮人工智慧（AI）監管的層面——他們必須向投資者明確展示他們對此有多重視、由誰負責以及準備如何採取行動。據2026年代理宣告顯示，谷歌母公司Alphabet Inc.、Visa Inc.和Regeneron Pharmaceuticals Inc.等少數標普500指數成分股公司，在過去一年中要麼設立了新的董事會委員會，要麼更新了現有委員會的職責以加強對AI的監管。"
     }
   ]
 }
