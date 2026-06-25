@@ -1,7 +1,77 @@
 {
-  "updated": "2026-06-26 00:27:03",
-  "count": 16894,
+  "updated": "2026-06-26 00:31:17",
+  "count": 16893,
   "items": [
+    {
+      "id": "mkt:019eff9e-809e-7dd8-b121-a7ae34c59174",
+      "time": "2026-06-26 00:30:38",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "The United States and the Gulf Cooperation Council issued a joint statement condemning attacks in Iraq carried out by Iranian proxies."
+    },
+    {
+      "id": "4955620",
+      "time": "2026-06-26 00:30:31",
+      "tags": [
+        "國際"
+      ],
+      "text": "法國總統馬克龍和義大利總理梅洛尼在昂蒂布舉行的第36屆法意峰會上出席簽署儀式並發表聯合講話。"
+    },
+    {
+      "id": "mkt:019eff9e-23d9-7dd8-b121-9c51452e15fb",
+      "time": "2026-06-26 00:30:14",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "French President Macron and Italian Prime Minister Meloni attended a signing ceremony and delivered a joint speech at the 36th France–Italy summit in Antibes."
+    },
+    {
+      "id": "4955619",
+      "time": "2026-06-26 00:29:43",
+      "tags": [
+        "公司"
+      ],
+      "text": "【Meta智慧實驗室招攬Virtue AI創始人團隊】Meta智慧實驗室正在招攬人工智慧安全初創企業 Virtue AI 的三位創始人及其他團隊成員。繼 Anthropic 最新系列模型釋出後又緊急下架，行業對人工智慧安全的擔憂持續升溫，在此背景下，Meta 正著力加強其智慧體相關的安全研發力量。阿克西奧斯獲取的一份內部公告顯示，人工智慧安全領域頂尖學者、Virtue AI 三位聯合創始人將加入元超級智慧實驗室。本次招聘還吸納了Virtue AI其餘團隊成員。該公司主打企業級人工智慧安全工具，業務覆蓋自動化紅藍對抗測試、執行時安全防護與人工智慧合規治理。本次人才收購的相關交易條款未對外披露。"
+    },
+    {
+      "id": "4955618",
+      "time": "2026-06-26 00:27:58",
+      "tags": [
+        "公司"
+      ],
+      "text": "【德意志銀行：美光科技向投資者表示，在AI時代公司已向好轉變】德意志銀行的分析師在一份研究報告中表示，美光科技第三財季的業績在財務和戰略上都跨越了高門檻，這有助於向投資者傳達一個資訊，即在AI時代，該公司的商業模式已經發生了根本性的改變。這些分析師說，該公司提供了有關其長期客戶合同的重要細節，這些合同將確保在當前的經濟週期內實現盈利。德意志銀行的分析師表示，協議的廣度和披露的深度超出了投資者的預期。他們表示，這份報告在很大程度上表明，隨著儲存晶片成為一種戰略資產而不僅僅是大宗商品，儲存晶片行業的內在基本面動態已經發生改變。"
+    },
+    {
+      "id": "4955617",
+      "time": "2026-06-26 00:27:34",
+      "tags": [
+        "市場"
+      ],
+      "text": "Bumble在被曝尋求出售之後，恢復交易，股價上漲 13%。"
+    },
+    {
+      "id": "te:markets:561981",
+      "time": "2026-06-26 00:26:48",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United Kingdom",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "FTSE 100 Rises on Thursday — The FTSE 100 advanced more than 0.5% on Thursday, aligning with broader European markets. Gains were primarily driven by a global rebound in technology sentiment, strong corporate updates, and renewed takeover activity. HSBC rose 1.1%, 3i jumped 11.5%, and AstraZeneca gained 1.1%, alongside broader support from banking, mining, and consumer equities. Budget airline operator EasyJet climbed over 6% after rejecting a fourth takeover proposal from investment firm Castlelake while simultaneously extending the deadline for potential future offers. Financial giant Barclays also advanced nearly 3% following announcements that its US division exceeded mandatory capital thresholds in recent Federal Reserve stress tests. Conversely, energy majors Shell and BP finished lower, pressured by a volatile oil market that traded down for most of the session before recovering late in the UK schedule on renewed concerns over Strait of Hormuz flows."
+    },
+    {
+      "id": "4955616",
+      "time": "2026-06-26 00:26:29",
+      "tags": [
+        "公司"
+      ],
+      "text": "哥倫比亞當選總統：哥倫比亞不會向犯罪集團提供優待政策。"
+    },
     {
       "id": "4955615",
       "time": "2026-06-26 00:25:19",
@@ -154427,85 +154497,6 @@
         "國際"
       ],
       "text": "【美國參議員桑德斯將提出法案，賦予民眾AI企業股權】美國參議院桑德斯（Bernie Sanders）正提出一項法案，旨在讓美國公民在人工智慧（AI）公司的運營中擁有發言權。這項名為《美國人工智慧主權財富基金法案》（American AI Sovereign Wealth Fund Act）的提案將設立一項基金，對美國最大的人工智慧公司股票徵收一次性50%的稅。桑德斯表示，該法案將賦予美國民眾阻止對其生活產生負面影響的AI發展的能力，並允許聯邦政府否決損害公眾利益的決策。"
-    },
-    {
-      "id": "4944047",
-      "time": "2026-06-19 00:31:11",
-      "tags": [
-        "公司",
-        "市場",
-        "央行",
-        "國際"
-      ],
-      "text": "【分析：美聯儲公佈決定後加密貨幣未平倉合約驟降】CryptoQuant的Amr Taha在一份報告中表示，在幣安交易的兩大主要加密貨幣——比特幣和以太幣的衍生品未平倉合約出現了“大幅槓桿重置”。Taha說，在宣佈利率保持不變後，比特幣未平倉合約下降了18%，以太幣未平倉合約下降了25%。“比特幣和以太幣同時下降，表明幣安衍生品市場的風險偏好普遍降低，”Taha說。“交易員可能選擇在美聯儲釋出公告前後平倉，而不是帶著槓桿去面對可能出現波動的市場反應。”"
-    },
-    {
-      "id": "4944046",
-      "time": "2026-06-19 00:30:38",
-      "tags": [
-        "國際"
-      ],
-      "text": "荷蘭首相：美國對俄羅斯施壓對達成和平協議至關重要。"
-    },
-    {
-      "id": "4944045",
-      "time": "2026-06-19 00:30:25",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國教育部公佈最新學生貸款違約資料：美國整治行動下，學生貸款違約人數增至916萬。"
-    },
-    {
-      "id": "4944044",
-      "time": "2026-06-19 00:29:59",
-      "tags": [
-        "國際"
-      ],
-      "text": "【萬斯回應以色列批評特朗普言論：不該抨擊盟友】美國副總統 JD・萬斯嚴厲斥責以色列國內反對美伊臨時和平協議的人士，他於週四發出警告：“我絕不會去攻擊我國如今在全球僅存的重要盟友。”萬斯在白宮接受記者採訪時稱，當下全世界只有唐納德・特朗普總統真心站在以色列這邊。他同時批評以色列內閣官員，以色列絕大多數防禦武器均由美國出資提供。萬斯表示：“以色列真正的難題根本不是唐納德・J・特朗普。以色列國內但凡有人把美國總統視作本國最大麻煩，都該清醒認清國家當下的現實處境。”"
-    },
-    {
-      "id": "mkt:019edb90-bc8c-7dd8-b085-2cd9bfeb2abd",
-      "time": "2026-06-19 00:29:16",
-      "tags": [
-        "MKT News",
-        "EURUSD",
-        "Impact bearish",
-        "DAX"
-      ],
-      "text": "Dutch prime minister says the EU budget proposal currently on the table is not good enough for the Netherlands."
-    },
-    {
-      "id": "mkt:019edb90-87db-7dd8-b085-223b6a46add7",
-      "time": "2026-06-19 00:29:02",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Iranian state TV said Iran's Supreme Leader will soon deliver a speech on a memorandum of understanding."
-    },
-    {
-      "id": "4944043",
-      "time": "2026-06-19 00:28:16",
-      "tags": [
-        "國際"
-      ],
-      "text": "荷蘭首相：當前提交的歐盟預算提案對荷蘭而言仍不夠完善。"
-    },
-    {
-      "id": "4944042",
-      "time": "2026-06-19 00:28:05",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "伊朗最高領袖將就終止與美國的戰爭協議發表最新講話。"
-    },
-    {
-      "id": "4944041",
-      "time": "2026-06-19 00:27:33",
-      "tags": [
-        "國際"
-      ],
-      "text": "以色列前總理埃胡德・巴拉克聲稱：內塔尼亞胡很可能會在大選前夕進攻黎巴嫩，並且他正試圖與伊朗、真主黨開啟一場無休止的戰爭。"
     }
   ]
 }
