@@ -1,7 +1,175 @@
 {
-  "updated": "2026-06-26 04:27:35",
-  "count": 16983,
+  "updated": "2026-06-26 04:41:49",
+  "count": 16992,
   "items": [
+    {
+      "id": "mkt:019f0081-6f7b-7dd8-b126-571892d23d2f",
+      "time": "2026-06-26 04:38:30",
+      "tags": [
+        "MKT News",
+        "JPM.N",
+        "Impact bullish"
+      ],
+      "text": "Sources said the JP Morgan (JPM.N) board wants Jamie Dimon to remain CEO for several years and that he would become executive chairman after stepping down."
+    },
+    {
+      "id": "mkt:019f0080-93a8-7dd8-b126-4e6edea76213",
+      "time": "2026-06-26 04:37:34",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Lithuanian president nominates Sinkevičius as new prime minister】President Nausėda on the evening of the 25th nominated Social Democratic chairman Mindaugas Sinkevičius as candidate for prime minister. Parliament is scheduled to vote on the new government on the 30th. The Ruginienė government resigned on the 23rd and is serving in a caretaker capacity. Under Lithuanian law the new PM is proposed by the Social Democratic Party, which holds the largest number of seats in parliament."
+    },
+    {
+      "id": "mkt:019f0080-0f33-7dd8-b126-42084f164c34",
+      "time": "2026-06-26 04:37:00",
+      "tags": [
+        "MKT News",
+        "JPM.O"
+      ],
+      "text": "Sources say JP Morgan CEO Dimon is expected to remain CEO for three more years."
+    },
+    {
+      "id": "te:markets:561993",
+      "time": "2026-06-26 04:36:12",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "US Stocks Close Mixed — US equities finished mixed on Thursday, with the S&P 500 flat, the Nasdaq 100 falling 0.5%, and the Dow Jones up 0.1%. Investors reassessed their exposure to mega-cap tech stocks while also weighing robust economic data. While optimism toward semiconductors and AI-related demand remained intact, concerns over the heavy concentration of market gains in a handful of hyperscale and software companies weighed on broader indices. Micron rallied over 15% after stronger-than-expected earnings and a bullish revenue forecast of $50 billion for the August quarter, while Qualcomm rose 10% after doubling its projection for non-handset revenue in the next three years. On the other hand, Nvidia, Oracle, Amazon, Alphabet, and Microsoft saw losses ranging between 1.5% and 3.2%. Apple plunged 6.1%, after lifting prices on MacBook and iPad products, pointing to surging input costs, particularly for chips and other key components."
+    },
+    {
+      "id": "mkt:019f007f-1ad3-7dd8-b126-388a94bf4d92",
+      "time": "2026-06-26 04:35:57",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "A Colombian carrier said it will resume scheduled flights to Valencia, Venezuela from Thursday afternoon."
+    },
+    {
+      "id": "4955871",
+      "time": "2026-06-26 04:35:46",
+      "tags": [
+        "其他"
+      ],
+      "text": "巴拿馬航空表示，將持續暫停往返加拉加斯的航班至 7 月 2 日，期間將視運營狀況重新評估。"
+    },
+    {
+      "id": "mkt:019f007e-9478-7dd8-b126-376569cbdff4",
+      "time": "2026-06-26 04:35:23",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "New York Times reports OpenAI is leaning toward waiting until next year to pursue an IPO."
+    },
+    {
+      "id": "4955870",
+      "time": "2026-06-26 04:35:14",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "訊息人士：摩根大通董事會希望傑米・戴蒙繼續擔任執行長數年，戴蒙或將繼續擔任執行長三年。戴蒙卸任執行長後，將轉任執行董事長一職。"
+    },
+    {
+      "id": "te:markets:561992",
+      "time": "2026-06-26 04:35:14",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The Dow Jones Index Closes 0.09% Higher — The Dow Jones Index went up by 49 points or 0.09 percent on Thursday to close at 51898 points. The rise was led by Caterpillar (6.09%), Merck (4.03%) and UnitedHealth (2.42%). On the downside, the weakerst performers were Apple (-6.41%), Microsoft (-3.46%) and McDonalds (-3.41%)."
+    },
+    {
+      "id": "4955869",
+      "time": "2026-06-26 04:34:10",
+      "tags": [
+        "其他"
+      ],
+      "text": "房地美：5 月抵押貸款相關投資組合未償還本金總額（UPB）減少約 46 億美元。"
+    },
+    {
+      "id": "4955868",
+      "time": "2026-06-26 04:33:43",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國國防部長皮特·赫格塞思：動員國防部支援委內瑞拉人民。"
+    },
+    {
+      "id": "4955867",
+      "time": "2026-06-26 04:33:03",
+      "tags": [
+        "公司",
+        "其他",
+        "焦點"
+      ],
+      "text": "據紐約時報：OpenAI 傾向推遲至明年再啟動 IPO 上市。"
+    },
+    {
+      "id": "4955866",
+      "time": "2026-06-26 04:32:51",
+      "tags": [
+        "其他"
+      ],
+      "text": "房地美：5 月獨棟住宅抵押貸款逾期率維持 0.59% 不變。 多戶住宅抵押貸款逾期率從 4 月的 0.43% 升至 5 月的 0.47%。"
+    },
+    {
+      "id": "mkt:019f007b-1478-7dd8-b126-2f5ce1204c75",
+      "time": "2026-06-26 04:31:33",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Trump to nominate FCC general counsel Adam Candeub to lead DOJ antitrust division】People familiar with the matter say the White House plans to nominate FCC general counsel Adam Candeub to head the DOJ antitrust division. DOJ staff were notified this week and the nomination is expected to be announced shortly. Candeub met with Trump earlier this week. He served as a senior official in Trump’s first administration and co-authored sections of the Heritage Foundation’s Project 2025 report, which has informed several proposals in Trump’s second-term policy blueprint."
+    },
+    {
+      "id": "mkt:019f007a-d299-7dd8-b126-27a88abfac1b",
+      "time": "2026-06-26 04:31:16",
+      "tags": [
+        "MKT News",
+        "US10Y",
+        "Impact bullish"
+      ],
+      "text": "Foreign official holdings of US Treasuries rose by $5.656 bln in the week to June 19, compared with a net decline of $2.118 bln in the prior week."
+    },
+    {
+      "id": "4955865",
+      "time": "2026-06-26 04:31:09",
+      "tags": [
+        "央行",
+        "市場",
+        "國際"
+      ],
+      "text": "美國至6月19日當週外國央行持有美國國債 56.56億美元，前值-21.18億美元。"
+    },
+    {
+      "id": "mkt:019f007a-8864-7dd8-b126-1b65354f7a5b",
+      "time": "2026-06-26 04:30:57",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | US Treasuries held by Foreign Central Banks (Jun.19) | actual 5656000000B | previous -2118000000B"
+    },
+    {
+      "id": "4955864",
+      "time": "2026-06-26 04:30:17",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "Rocket Lab美股盤後漲幅擴大至5%，該公司贏得一份NASA合同。"
+    },
     {
       "id": "mkt:019f0074-562d-7dd8-b126-1306e3a9361b",
       "time": "2026-06-26 04:24:11",
@@ -155339,88 +155507,6 @@
         "市場"
       ],
       "text": "【美元指數18日大幅上漲】衡量美元對六種主要貨幣的美元指數當天上漲0.75%，在匯市尾市收於100.846。截至紐約匯市尾市，1歐元兌換1.1459美元，低於前一交易日的1.1539美元；1英鎊兌換1.3203美元，低於前一交易日的1.3338美元。1美元兌換161.68日元，高於前一交易日的160.50日元；1美元兌換0.8051瑞士法郎，高於前一交易日的0.7971瑞士法郎；1美元兌換1.4140加元，高於前一交易日的1.4071加元；1美元兌換9.5874瑞典克朗，高於前一交易日的9.4610瑞典克朗。"
-    },
-    {
-      "id": "4944298",
-      "time": "2026-06-19 04:36:15",
-      "tags": [
-        "公司",
-        "市場",
-        "國際"
-      ],
-      "text": "【SpaceX行情降溫兩連跌 本週仍累漲約15%】受上週創紀錄IPO後本輪股價上漲行情降溫影響，SpaceX股票週四美股收盤下跌3.57%。 埃隆・馬斯克旗下這家兼具航天與人工智慧業務的企業上市後躋身全球市值最高企業行列，週二其總市值一度超越亞馬遜，還短暫超過微軟。 經歷週四下跌後，SpaceX收盤總市值報2.44萬億美元，落後於當日收盤市值2.62萬億美元的亞馬遜，位列美國頭部高市值企業梯隊。 該股週三曾大跌5%。 由於美國六月節休市，本週僅四個交易日，SpaceX本週股價累計上漲約15%。該股自上週里程碑式上市以來依舊累計上漲37%，本次IPO發行價定為每股135美元。"
-    },
-    {
-      "id": "te:markets:560180",
-      "time": "2026-06-19 04:35:14",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The Dow Jones Index Closes 0.31% Higher — The Dow Jones Index went up by 157 points or 0.31 percent on Thursday to close at 51650 points. The rise was led by Caterpillar (3.35%), Walt Disney (3.09%) and Nvidia (3.08%). On the downside, the weakerst performers were IBM (-4.80%), J&J (-2.50%) and JPMorgan (-2.47%)."
-    },
-    {
-      "id": "mkt:019edc70-c39f-7dd8-b088-4f7d32b13124",
-      "time": "2026-06-19 04:33:58",
-      "tags": [
-        "MKT News",
-        "INTC.O",
-        "Impact mixed"
-      ],
-      "text": "Intel (INTC.O) said it will carve out its advanced packaging business and appoint a dedicated leadership team."
-    },
-    {
-      "id": "mkt:019edc70-18d8-7dd8-b088-43fa1b550c76",
-      "time": "2026-06-19 04:33:14",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Intel (INTC.O) said it appointed a new head of its foundry business to accelerate R&D and manufacturing."
-    },
-    {
-      "id": "4944297",
-      "time": "2026-06-19 04:32:06",
-      "tags": [
-        "其他"
-      ],
-      "text": "英特爾：將先進封裝業務獨立為專項業務板塊，並設立專屬管理團隊統籌運營。"
-    },
-    {
-      "id": "4944296",
-      "time": "2026-06-19 04:31:33",
-      "tags": [
-        "其他"
-      ],
-      "text": "英特爾宣佈英特爾晶圓代工事業部高層人事任命，以加速研發與製造業務發展。"
-    },
-    {
-      "id": "mkt:019edc6e-079a-7dd8-b088-397cb9eb844c",
-      "time": "2026-06-19 04:30:58",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Change in foreign official holdings of US Treasuries: -$2.118 bln in the week to June 12; prior -$13.555 bln."
-    },
-    {
-      "id": "mkt:019edc6d-d906-7dd8-b088-371b394f50e5",
-      "time": "2026-06-19 04:30:46",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "United States | US Treasuries held by Foreign Central Banks (Jun.12) | actual -2118000000B | previous -13555000000.000002B"
-    },
-    {
-      "id": "4944295",
-      "time": "2026-06-19 04:28:42",
-      "tags": [
-        "國際"
-      ],
-      "text": "【俄外交部：俄將對歐盟新一輪制裁採取強硬反制】俄羅斯外交部發言人扎哈羅娃18日在例行記者會上表示，俄羅斯將對歐盟15日透過的對俄製裁採取強硬有效的反制措施。扎哈羅娃說，歐盟一方面談論對糧食安全、能源安全、世界命運的關切，一方面企圖透過制裁對俄羅斯施壓。但他們沒有意識到，這些制裁措施不僅無效，而且對他們自身以及全世界也造成損害。扎哈羅娃認為，歐方不斷擴大、加強、炮製新的針對俄羅斯的限制措施，但難以奏效，且無法逃避制裁帶來的反作用。扎哈羅娃還警告說，如果任何北約國家對俄羅斯發動侵略，必將受到堅決的、毀滅性的回擊。 (新華社)"
     }
   ]
 }
