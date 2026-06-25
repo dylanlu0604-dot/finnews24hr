@@ -1,7 +1,22 @@
 {
-  "updated": "2026-06-26 04:45:54",
-  "count": 16988,
+  "updated": "2026-06-26 04:50:00",
+  "count": 16987,
   "items": [
+    {
+      "id": "mkt:019f008a-5062-7dd8-b126-58ec21addf25",
+      "time": "2026-06-26 04:48:12",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "Nasdaq100",
+        "Impact bearish",
+        "S&P500",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "【SpaceX slide alarms markets; OpenAI may delay IPO until next year】The New York Times, citing three people involved in internal discussions, reports OpenAI is leaning toward postponing an IPO until next year; the company had targeted as early as Q3–Q4 this year. CEO Sam Altman pushed advisers to aim for a $1 trillion valuation. Recent developments — most notably Musk’s SpaceX post-IPO share slide, which fell to $153 on Thursday from a $202 peak last week — and recent tech-led market volatility forced OpenAI executives to abandon their aggressive timetable. Two people said advisers warned last week that retail investors may not show strong demand for the stock."
+    },
     {
       "id": "4955873",
       "time": "2026-06-26 04:43:50",
@@ -155454,22 +155469,6 @@
         "MKT News"
       ],
       "text": "MSCI says Indonesia's foreign-exchange market liberalization is limited: the offshore currency market is inefficient and the onshore market remains subject to restrictions."
-    },
-    {
-      "id": "4944304",
-      "time": "2026-06-19 04:46:43",
-      "tags": [
-        "國際"
-      ],
-      "text": "明晟（MSCI）：韓國市場底層准入相關問題仍未得到解決。"
-    },
-    {
-      "id": "mkt:019edc7c-343a-7dd8-b088-549152f11bef",
-      "time": "2026-06-19 04:46:27",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Aoun says nearly 18% of Lebanon damaged in current Israel-Hezbollah fighting】Lebanese President Aoun said on the 18th that the current round of fighting between Israel and Hezbollah has damaged nearly 18% of Lebanon's territory and killed more than 3,500 people."
     }
   ]
 }
