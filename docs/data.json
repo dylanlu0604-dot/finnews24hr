@@ -1,7 +1,16 @@
 {
-  "updated": "2026-06-26 02:42:59",
-  "count": 16966,
+  "updated": "2026-06-26 02:47:00",
+  "count": 16962,
   "items": [
+    {
+      "id": "4955783",
+      "time": "2026-06-26 02:44:19",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "伊朗波斯灣海峽管理局 ：霍爾木茲海峽非 PGSA 航線保險保障失效。 未加入 PGSA 的霍爾木茲海峽航線無安全通行保障。"
+    },
     {
       "id": "4955782",
       "time": "2026-06-26 02:42:15",
@@ -155190,55 +155199,6 @@
         "Brent"
       ],
       "text": "Iran's Supreme National Security Council has ordered the Strait of Hormuz authority to expedite issuance of transit permits."
-    },
-    {
-      "id": "4944235",
-      "time": "2026-06-19 02:46:22",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗最高國家安全委員會稱，波斯灣海峽管理部門已受命儘快簽發通行許可。"
-    },
-    {
-      "id": "mkt:019edc0d-ca45-7dd8-b086-d62993d99aba",
-      "time": "2026-06-19 02:45:51",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "Iran's Supreme National Security Council said that under a memorandum of understanding with the United States, ships transiting the Strait of Hormuz will not be charged transit fees for 60 days; Iran will cover the fees during that period."
-    },
-    {
-      "id": "4944234",
-      "time": "2026-06-19 02:45:28",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗最高國家安全委員會表示，在此期間相關費用將由伊朗承擔。"
-    },
-    {
-      "id": "mkt:019edc0d-3e70-7dd8-b086-cc351beed061",
-      "time": "2026-06-19 02:45:15",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "Energy Intelligence reporter Amena Bakr reports three Saudi VLCCs carrying about 6 mln barrels of crude have transited the Strait of Hormuz and reappeared on AIS after being absent for more than two months."
-    },
-    {
-      "id": "4944233",
-      "time": "2026-06-19 02:44:46",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "伊朗最高國家安全委員會表示，根據與美國達成的諒解備忘錄，60天內不會向經霍爾木茲海峽通航的船舶徵收任何通行費。"
     }
   ]
 }
