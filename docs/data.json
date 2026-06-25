@@ -1,7 +1,65 @@
 {
-  "updated": "2026-06-25 22:15:44",
-  "count": 16961,
+  "updated": "2026-06-25 22:19:55",
+  "count": 16954,
   "items": [
+    {
+      "id": "mkt:019eff26-0742-7dd8-b11e-d51bb1bb7586",
+      "time": "2026-06-25 22:19:02",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "WTI"
+      ],
+      "text": "Two sources said Russia's Norsky refinery halted operations on Wednesday after a drone attack."
+    },
+    {
+      "id": "4955424",
+      "time": "2026-06-25 22:18:41",
+      "tags": [
+        "國際"
+      ],
+      "text": "【世界經濟論壇技術長：中國AI落地具備獨特優勢】世界經濟論壇執行董事兼技術長斯特凡·默根特勒在第十七屆新領軍者年會（夏季達沃斯論壇）期間接受專訪時表示，人工智慧（AI）技術正進入產業化落地階段，中國在這一程序中具備獨特優勢。默根特勒指出，中國在AI應用方面處於“特別有利的地位”，擁有全球領先的製造業生態和豐富的應用場景，為AI的試驗和部署提供了強大平臺。他還提到，中國AI企業能夠將創新與部署緊密相連，成功案例眾多。默根特勒強調，全球合作變得越來越重要，各國和各行業應相互借鑑，加速成功實踐的推廣。（新華社）"
+    },
+    {
+      "id": "4955423",
+      "time": "2026-06-25 22:16:45",
+      "tags": [
+        "國際"
+      ],
+      "text": "兩名訊息人士稱，俄羅斯諾爾西煉油廠週三在遭無人機襲擊後停止運營。"
+    },
+    {
+      "id": "mkt:019eff23-a827-7dd8-b11e-ce73481b2599",
+      "time": "2026-06-25 22:16:27",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "GBPUSD",
+        "Impact bearish",
+        "FTSE100",
+        "Impact bullish"
+      ],
+      "text": "UK two-year and five-year bond yields edged down, hitting their lowest levels since April 17."
+    },
+    {
+      "id": "4955422",
+      "time": "2026-06-25 22:15:57",
+      "tags": [
+        "市場"
+      ],
+      "text": "英國兩年期和五年期國債收益率小幅下行，跌至4月17日以來最低水平。"
+    },
+    {
+      "id": "4955421",
+      "time": "2026-06-25 22:15:45",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "巴西央行官員：對財政政策前景看法轉差。"
+    },
     {
       "id": "4955420",
       "time": "2026-06-25 22:13:54",
@@ -154901,116 +154959,6 @@
         "Energy"
       ],
       "text": "U.S. EIA weekly natural gas storage for the week ending June 12 due in 10 minutes."
-    },
-    {
-      "id": "mkt:019edb1a-4b91-7dd8-b080-c538ca83599a",
-      "time": "2026-06-18 22:19:53",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "The Trump Trade"
-      ],
-      "text": "Kan News reported President Trump said he may back Netanyahu in Israel's election, but that would depend on who his opponent is."
-    },
-    {
-      "id": "4943774",
-      "time": "2026-06-18 22:19:33",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：我大機率會在內塔尼亞胡的選舉中支援他，但還得看看誰會作為對手參選。"
-    },
-    {
-      "id": "4943773",
-      "time": "2026-06-18 22:19:23",
-      "tags": [
-        "公司"
-      ],
-      "text": "【寧波遠洋：向特定物件發行A股股票申請獲上交所稽核透過】寧波遠洋公告稱，公司於2026年6月18日收到上交所出具的稽核意見，公司向特定物件發行股票申請符合發行條件、上市條件和資訊披露要求，上交所將在收到申請檔案後提交中國證監會註冊。本次發行尚需獲中國證監會同意註冊後方可實施，最終能否獲批及時間存在不確定性。"
-    },
-    {
-      "id": "mkt:019edb19-9e8c-7dd8-b080-bfa3eeec8bb8",
-      "time": "2026-06-18 22:19:09",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "EU plans to re-examine bank rules on bonuses and market risk."
-    },
-    {
-      "id": "4943772",
-      "time": "2026-06-18 22:18:48",
-      "tags": [
-        "其他"
-      ],
-      "text": "市場訊息：訊息人士透露，巴基斯坦將調整其在即將舉行的瑞士會議上的代表級別。"
-    },
-    {
-      "id": "4943771",
-      "time": "2026-06-18 22:18:35",
-      "tags": [
-        "公司"
-      ],
-      "text": "【山東藥玻：獲國資批覆向特定物件發行不超1.99億股A股】山東藥玻公告稱，6月18日公司收到沂源縣財政局轉來的《淄博市人民政府國有資產監督管理委員會關於山東省藥用玻璃股份有限公司向特定物件發行股票有關事項的批覆》，原則同意公司本次向特定物件發行不超過199,084,233股（含本數）A股股份。本次定向增發尚需獲有權國有資產監督管理部門批准、公司股東會審議、上交所稽核、中國證監會同意註冊後實施，最終結果存在不確定性。"
-    },
-    {
-      "id": "4943770",
-      "time": "2026-06-18 22:18:27",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國地質調查局：阿拉斯加州阿達克西南偏西 211 公里處發生 5.0 級地震。"
-    },
-    {
-      "id": "4943769",
-      "time": "2026-06-18 22:18:19",
-      "tags": [
-        "國際"
-      ],
-      "text": "歐盟計劃重新審議銀行薪酬獎金及市場風險相關監管法規。"
-    },
-    {
-      "id": "mkt:019edb18-d46c-7dd8-b080-b0164d1fa050",
-      "time": "2026-06-18 22:18:17",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "TASNIM NEWS cites sources saying Pakistan will adjust the level of its delegation at an upcoming Swiss meeting."
-    },
-    {
-      "id": "4943768",
-      "time": "2026-06-18 22:16:37",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國聯邦能源管理委員會主席斯韋特：將責令電網制定明確規則，以接入資料中心。"
-    },
-    {
-      "id": "4943767",
-      "time": "2026-06-18 22:16:16",
-      "tags": [
-        "國際"
-      ],
-      "text": "正在訪問黎巴嫩的英國發展大臣表示，以色列軍隊必須從黎巴嫩南部撤軍，以允許流離失所者返回家園。"
-    },
-    {
-      "id": "mkt:019edb16-bb79-7dd8-b080-ab15bec83d39",
-      "time": "2026-06-18 22:16:00",
-      "tags": [
-        "MKT News",
-        "S&P500",
-        "Impact bullish",
-        "Copper"
-      ],
-      "text": "FERC Chair Swett said he will order U.S. grid operators to adopt clear interconnection rules for data centers."
-    },
-    {
-      "id": "4943766",
-      "time": "2026-06-18 22:15:51",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "現貨黃金失守4240美元/盎司，日內跌0.41%。"
     }
   ]
 }
