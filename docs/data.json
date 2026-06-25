@@ -1,7 +1,91 @@
 {
-  "updated": "2026-06-25 10:27:45",
+  "updated": "2026-06-25 10:31:48",
   "count": 17035,
   "items": [
+    {
+      "id": "te:markets:561703",
+      "time": "2026-06-25 10:30:48",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Australia",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "Australian Dollar Approaches 3- Month Low — The Australian dollar fell further below $0.690, approaching a three-month low as broad US dollar strength outweighed a rebound in domestic employment data. Australia's economy added 40,300 jobs in May, rebounding from a revised decline of 40,600 in April and exceeding market forecasts for a 30,000 increase, while the unemployment rate edged down to 4.4% from 4.5%, as expected. The latest labor market report comes on top of Wednesday's mixed consumer inflation figures, which have left markets divided on another interest rate hike, priced in at 50% likely by year’s end rather than at the August meeting. RBA Deputy Governor Andrew Hauser said on Wednesday that the central bank still has more work to do to bring inflation back to its 2-3% target, indicating that further policy tightening may be needed as underlying price pressures remain elevated. Meanwhile, the US dollar remained broadly stronger as investors continued to price in Federal Reserve interest rate hikes later this year."
+    },
+    {
+      "id": "4953965",
+      "time": "2026-06-25 10:29:56",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【港股有色金屬板塊持續下挫，中國黃金國際等股跌超8%】港股有色金屬板塊持續下挫，中國黃金國際、招金礦業、山東黃金、靈寶黃金跌超8%，老鋪黃金、紫金礦業、江西銅業股份跟跌。"
+    },
+    {
+      "id": "4953964",
+      "time": "2026-06-25 10:29:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "舜宇光學科技港股下跌8.8%。"
+    },
+    {
+      "id": "mkt:019efc9b-c6ef-7dd8-b10a-99d93b08ae78",
+      "time": "2026-06-25 10:28:47",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Xiaomi",
+        "06181.HK",
+        "Impact bearish",
+        "02015.HK",
+        "09868.HK"
+      ],
+      "text": "Hong Kong new-consumer names extended losses: Laopu Gold (06181.HK) down more than 7%; Li Auto (02015.HK), XPeng (09868.HK) and Xiaomi (01810.HK) down over 4% each; Pop Mart (09992.HK) down over 3%."
+    },
+    {
+      "id": "mkt:019efc9b-bf15-7dd8-b10a-9441dbaece2f",
+      "time": "2026-06-25 10:28:45",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. Deputy Secretary of State Landao said Washington is maintaining contact with Venezuelan authorities and has mobilized assistance following the earthquake."
+    },
+    {
+      "id": "mkt:019efc9b-b453-7dd8-b10a-8d5221f4a1a7",
+      "time": "2026-06-25 10:28:43",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【China Merchants Bank president nominee Wang Xiaoqing sets four priorities to preserve the bank’s distinctiveness】At China Merchants Bank’s shareholder meeting in Shenzhen on June 25, party secretary and president nominee Wang Xiaoqing outlined four strategic priorities. First, stay customer‑centric and adhere to a long‑term approach, avoiding short‑term profit‑seeking or opportunistic revenue grabs. Second, prioritize asset quality, operate within capability limits, and avoid swapping tomorrow’s non‑performing loans for today’s revenue. Third, keep retail banking as the core franchise; despite market challenges, wealth‑management‑led retail remains CMB’s strategic focus and ballast. Fourth, continue to increase technology investment."
+    },
+    {
+      "id": "4953963",
+      "time": "2026-06-25 10:28:22",
+      "tags": [
+        "市場",
+        "觀點"
+      ],
+      "text": "【大金融板塊反覆活躍 長江證券觸及漲停】大金融板塊反覆活躍，證券、保險領漲，長江證券觸及漲停，中信建投、方正證券、財達證券、東方財富、中國人壽、新華保險跟漲。"
+    },
+    {
+      "id": "4953962",
+      "time": "2026-06-25 10:28:00",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國副國務卿蘭道：地震發生後正與委內瑞拉當局保持聯絡並調集援助。"
+    },
+    {
+      "id": "4953961",
+      "time": "2026-06-25 10:27:36",
+      "tags": [
+        "其他"
+      ],
+      "text": "【招商銀行擬任行長王小青：保持“四個定力”，打造“一樣中的不一樣”】6月25日，招商銀行2025年度股東會在深圳召開。招商銀行黨委書記、擬任行長王小青在會上表示，要將業務做精做透、形成招行中長期發展的新動能，使招行在中國銀行業“一樣中的不一樣”，必須保持“四個定力”。一是堅持以客戶為中心。經營碰到階段性挑戰，越要堅持長期主義，越不能急功近利，越不能“薅羊毛”；二是堅持資產質量優先，在能力邊界範圍內做事，能力不夠的領域要慎之又慎，絕不能用明天的不良來換取今天的營收；三是堅持零售銀行主體地位，儘管零售市場面臨挑戰，但以大財富管理為重要抓手的零售業務依然是招行的重點特色服務、壓艙石；四是持續加強科技投入。"
+    },
     {
       "id": "4953960",
       "time": "2026-06-25 10:27:08",
@@ -155566,97 +155650,6 @@
         "焦點"
       ],
       "text": "科創50日內漲幅達3％，成分股中，寒武紀漲12％，盛科通訊漲7％，芯原股份漲7％，海光資訊漲6％。"
-    },
-    {
-      "id": "4942290",
-      "time": "2026-06-18 10:30:32",
-      "tags": [
-        "公司"
-      ],
-      "text": "【商湯攜手香港科技園打造4萬P國產算力基建 打造全港最大國產智算中心】記者今天從商湯科技獲悉，商湯將攜手在香港推進國產AI算力基礎設施建設（AI Data Centre，AIDC），目標於2030年前形成40000P+（PetaFLOPS）算力規模，打造全港最大國產智算中心。專案將作為支撐大模型時代的核心AI基礎設施，為各行各業提供高效能算力支援，加快推動香港AI產業落地，進一步提升香港在全球創科及AI發展中的競爭力。香港科技園公司（科技園公司）近日已與商湯科技簽訂合作備忘錄，啟動在AI算力基建及AI產業生態方面的戰略合作。專案將分階段推進，首階段預計於今年年內完成，目標是於2030年前建成具備40000P算力規模的智算中心。該中心配備多元國產算力GPU叢集，為企業在模型訓練、推理及大規模應用部署等不同場景提供高效穩定的算力支援。 (上觀新聞)"
-    },
-    {
-      "id": "mkt:019ed890-c4b7-7dd8-b069-ad348acdf8b1",
-      "time": "2026-06-18 10:30:26",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "DXY",
-        "Impact bullish",
-        "US10Y",
-        "Impact bearish",
-        "S&P500"
-      ],
-      "text": "【Goldman Sachs: If inflation doesn't cool, Fed could hike as soon as September】Goldman Sachs vice chairman Kaplan, a former Dallas Fed president, said if inflation stays elevated the Fed may need to raise rates as soon as September. He said if inflation data does not cool between now and September, Fed action in September or this autumn would be prudent. Markets turned more hawkish after Fed chair Kevin Warsh signaled continued focus on fighting inflation; traders sold short-term Treasuries, lifting near-term yields. Warsh’s comments were reinforced by Fed members’ projections, with roughly half forecasting rate increases before year-end. Kaplan warned persistent inflation would imply policy remains too loose and noted Fed hikes rarely come as a single move — they typically occur in series of two or three, so a September hike would likely be followed by one or two more."
-    },
-    {
-      "id": "mkt:019ed890-c1f6-7dd8-b069-a6f142f70804",
-      "time": "2026-06-18 10:30:25",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "CSI300",
-        "Impact bullish",
-        "SSE Composite",
-        "SZSE Component"
-      ],
-      "text": "China A-share innovative drug sector staged a volatile intraday rebound; Nuosilande jumped nearly 20%, earlier Huashen Pharmaceutical and Haixin Co hit daily limit-up, while Haoyuan Pharmaceutical, Joinn Laboratories, Changshan Pharmaceutical and Shouyao Holdings also advanced."
-    },
-    {
-      "id": "4942289",
-      "time": "2026-06-18 10:30:14",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【算力晶片概念震盪走強 寒武紀漲超10%創歷史新高】算力晶片概念震盪走強，寒武紀漲超10%創歷史新高，總市值超9200億，品高股份、沐曦股份、芯原股份、雲天勵飛、海光資訊均漲超5%。"
-    },
-    {
-      "id": "4942288",
-      "time": "2026-06-18 10:30:03",
-      "tags": [
-        "市場"
-      ],
-      "text": "【物理AI概念震盪反彈 天娛數科漲停】物理AI概念盤中震盪反彈，天娛數科漲停，奧比中光、中控技術、能科科技、索辰科技、達實智慧等衝高。"
-    },
-    {
-      "id": "4942287",
-      "time": "2026-06-18 10:29:23",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "【國家發改委：加強算網融合創新 適度推動國家樞紐間直連線路擴容】國家發展改革委政策研究室副主任、新聞發言人李超在新聞釋出會上表示，“十五五”時期，我們將更加註重供需適配，加強算力網與新型電網、新一代通訊網規劃建設的協同聯動。在“硬投資”方面，探索更多行之有效的算電協同模式，做到以電強算、以算促電；加強算網融合創新，適度推動國家樞紐間直連線路擴容，進一步降低網路傳輸時延。在“軟建設”方面，強化算力資源監測與市場化排程，加快建設聯網排程、普惠易用、綠色安全的全國一體化算力網。"
-    },
-    {
-      "id": "4942286",
-      "time": "2026-06-18 10:29:08",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【創新藥概念震盪反彈 諾思蘭德漲近20%】創新藥概念盤中震盪反彈，諾思蘭德漲近20%，此前華森製藥、海欣股份漲停，皓元醫藥、昭衍新藥、常山藥業、首藥控股等漲幅靠前。"
-    },
-    {
-      "id": "mkt:019ed88f-49e4-7dd8-b069-9e92da8e8c84",
-      "time": "2026-06-18 10:28:49",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "A-share market: Lianxun Instruments up over 4% to a record high of 2,412.10 yuan; Cambricon up over 10% to a record high of 1,470.04 yuan, turnover above 13.0 bln yuan."
-    },
-    {
-      "id": "4942285",
-      "time": "2026-06-18 10:28:25",
-      "tags": [
-        "其他"
-      ],
-      "text": "【國內成品油價格將迎來調整視窗】今天（18日）24點，新一輪成品油零售調價視窗將開啟。國內成品油價格機制規定，汽、柴油最高零售價格以國際市場原油價格為基礎，每10個工作日調整一次。（央視新聞）"
     }
   ]
 }
