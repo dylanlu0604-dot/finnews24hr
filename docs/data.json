@@ -1,7 +1,67 @@
 {
-  "updated": "2026-06-26 00:56:23",
-  "count": 16897,
+  "updated": "2026-06-26 01:00:30",
+  "count": 16893,
   "items": [
+    {
+      "id": "4955659",
+      "time": "2026-06-26 00:59:14",
+      "tags": [
+        "其他"
+      ],
+      "text": "馬斯克在社交平臺發帖：庫克表示，此番（計算機和配件的）成本暴漲是他 “從業四十餘年來，在任何領域都從未見過” 的情況。這也是我生平見過幅度最大的一次漲價。"
+    },
+    {
+      "id": "4955658",
+      "time": "2026-06-26 00:56:39",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列國防軍發言人：今天早些時候，以色列總統搭乘國防軍直升機進行例行飛行期間，該直升機在遭遇鳥擊後降落於以色列中部的一個空軍基地。事件未造成人員受傷或裝置損壞。"
+    },
+    {
+      "id": "4955657",
+      "time": "2026-06-26 00:56:34",
+      "tags": [
+        "國際"
+      ],
+      "text": "烏克蘭總統澤連斯基：烏克蘭希望國際社會能伸出援手，幫助身處這場災難中的委內瑞拉民眾，我方已做好援助準備 —— 本國應急救援人員可參與搜救行動。目前我方正與委內瑞拉及歐洲各方溝通，等待對方對我方援助提議作出答覆。"
+    },
+    {
+      "id": "mkt:019effb6-37b7-7dd8-b122-2a6c5ff3398f",
+      "time": "2026-06-26 00:56:32",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "Italian Prime Minister MELONI said she and French President MACRON have agreed to form an alliance to support Lebanon after the UN Interim Force in Lebanon (UNIFIL) mandate ends."
+    },
+    {
+      "id": "mkt:019effb5-f5e6-7dd8-b122-24956e52ec4c",
+      "time": "2026-06-26 00:56:15",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "An IDF spokesman said earlier the helicopter carrying Israel's president suffered a bird strike during a routine flight and landed at an air force base in central Israel. No personnel were injured and no equipment was damaged."
+    },
+    {
+      "id": "4955656",
+      "time": "2026-06-26 00:56:14",
+      "tags": [
+        "國際"
+      ],
+      "text": "義大利總理梅洛尼：我們已與法國總統馬克龍達成一致，將在聯黎部隊任務結束後發起一個支援黎巴嫩的聯盟。"
+    },
+    {
+      "id": "4955655",
+      "time": "2026-06-26 00:55:55",
+      "tags": [
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "市場訊息：隨著日本央行減少購債，日本銀行業對購買日本國債持觀望態度。"
+    },
     {
       "id": "mkt:019effb5-5ff6-7dd8-b122-198c92e7409d",
       "time": "2026-06-26 00:55:37",
@@ -154446,107 +154506,6 @@
         "國際"
       ],
       "text": "貝克休斯：截至6月18日當週，美國天然氣鑽井平臺數量增加1座，至122座。"
-    },
-    {
-      "id": "4944098",
-      "time": "2026-06-19 00:59:52",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國環保署（EPA）資料顯示，5月美國生成12.6億加侖D6乙醇調合積分，4月為12.2億加侖。"
-    },
-    {
-      "id": "mkt:019edbac-bbdf-7dd8-b085-b6d284a99e39",
-      "time": "2026-06-19 00:59:50",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "U.S. military says naval vessels will remain in the region to ensure compliance with a U.S.-Iran agreement."
-    },
-    {
-      "id": "4944097",
-      "time": "2026-06-19 00:59:31",
-      "tags": [
-        "國際"
-      ],
-      "text": "墨西哥經濟部長Ebrard：墨西哥與美國已就汽車、農業貿易展開磋商。"
-    },
-    {
-      "id": "mkt:019edbac-453a-7dd8-b085-ab0518b8bc4b",
-      "time": "2026-06-19 00:59:20",
-      "tags": [
-        "MKT News",
-        "Important",
-        "WTI",
-        "Impact bearish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "The U.S. military said on Thursday it has lifted a maritime blockade on all traffic to and from Iranian ports and coastal areas, did not impede vessels travelling to or from Iranian ports, and has ceased all blockade enforcement operations."
-    },
-    {
-      "id": "4944096",
-      "time": "2026-06-19 00:58:12",
-      "tags": [
-        "國際"
-      ],
-      "text": "墨西哥、美國和加拿大將於7月1日以線上方式討論美墨加協定。"
-    },
-    {
-      "id": "4944095",
-      "time": "2026-06-19 00:58:04",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "美國中央司令部：今日，美軍遵照總統指令，解除針對進出伊朗各港口及沿岸區域所有海上運輸航線的封鎖。美軍不再阻攔船隻往返波斯灣與阿曼灣內伊朗港口的通行，所有美軍實施封鎖的相關行動已全部終止。我方主力艦艇仍將部署在該海域周邊，以保障協議各項條款得到全面遵守、執行並持續生效。"
-    },
-    {
-      "id": "4944094",
-      "time": "2026-06-19 00:57:56",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國軍方：美軍已於週四解除了對所有進出伊朗港口及沿海地區的海上運輸的封鎖。"
-    },
-    {
-      "id": "4944093",
-      "time": "2026-06-19 00:57:38",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "美國：部隊解除對伊朗所有海上交通的封鎖。"
-    },
-    {
-      "id": "4944092",
-      "time": "2026-06-19 00:57:18",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國參議員沃倫：伊朗現在對霍爾木茲海峽擁有更大的影響力。"
-    },
-    {
-      "id": "4944091",
-      "time": "2026-06-19 00:57:10",
-      "tags": [
-        "其他"
-      ],
-      "text": "美元兌日元USD/JPY日內漲幅擴大至0.50%，現報161.44。"
-    },
-    {
-      "id": "mkt:019edbaa-3983-7dd8-b085-a2e11149fa14",
-      "time": "2026-06-19 00:57:06",
-      "tags": [
-        "MKT News",
-        "Important",
-        "USDJPY",
-        "Impact bullish"
-      ],
-      "text": "USD/JPY intraday gains widened to 0.50%, trading at 161.44."
     }
   ]
 }
