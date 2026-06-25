@@ -1,7 +1,47 @@
 {
-  "updated": "2026-06-26 04:50:00",
-  "count": 16987,
+  "updated": "2026-06-26 04:54:00",
+  "count": 16989,
   "items": [
+    {
+      "id": "mkt:019f008e-cf3e-7dd8-b126-6e7208a510da",
+      "time": "2026-06-26 04:53:06",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "【International oil prices rose on the 25th】By the close, NYMEX light sweet crude for August delivery rose $1.58 to settle at $71.92/bbl, up 2.25%. London Brent for August delivery rose $1.52 to settle at $75.26/bbl, up 2.06%."
+    },
+    {
+      "id": "mkt:019f008e-b48e-7dd8-b126-60d209cf4cee",
+      "time": "2026-06-26 04:52:59",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bearish",
+        "EURUSD",
+        "Impact bullish",
+        "USDJPY"
+      ],
+      "text": "【Dollar index down 0.18% to 101.430 at New York close on the 25th】The dollar index (DXY) fell 0.18% to 101.430 at the New York close on the 25th. EUR/USD rose to 1.1373 from 1.1355; GBP/USD rose to 1.3198 from 1.3162. USD/JPY was 161.80 versus 161.76; USD/CHF fell to 0.8098 from 0.8124; USD/CAD fell to 1.4197 from 1.4237; USD/SEK fell to 9.7352 from 9.7714."
+    },
+    {
+      "id": "4955875",
+      "time": "2026-06-26 04:51:43",
+      "tags": [
+        "市場"
+      ],
+      "text": "【國際油價25日上漲】截至當天收盤，紐約商品交易所8月交貨的輕質原油期貨價格上漲1.58美元，收於每桶71.92美元，漲幅為2.25%；8月交貨的倫敦布倫特原油期貨價格上漲1.52美元，收於每桶75.26美元，漲幅為2.06%。"
+    },
+    {
+      "id": "4955874",
+      "time": "2026-06-26 04:50:18",
+      "tags": [
+        "市場"
+      ],
+      "text": "【美元指數25日下跌】衡量美元對六種主要貨幣的美元指數當天下跌0.18%，在匯市尾市收於101.430。截至紐約匯市尾市，1歐元兌換1.1373美元，高於前一交易日的1.1355美元；1英鎊兌換1.3198美元，高於前一交易日的1.3162美元。1美元兌換161.80日元，高於前一交易日的161.76日元；1美元兌換0.8098瑞士法郎，低於前一交易日的0.8124瑞士法郎；1美元兌換1.4197加元，低於前一交易日的1.4237加元；1美元兌換9.7352瑞典克朗，低於前一交易日的9.7714瑞典克朗。"
+    },
     {
       "id": "mkt:019f008a-5062-7dd8-b126-58ec21addf25",
       "time": "2026-06-26 04:48:12",
@@ -155453,22 +155493,6 @@
         "公司"
       ],
       "text": "【標普授予SpaceX“BBB”信用評級】標普全球評級授予太空探索技術公司（SpaceX）“BBB”發行人信用評級，展望穩定，理由是其發射和互聯業務表現穩健，但被巨大的資本需求以及人工智慧業務的不確定性所沖銷。標普預計SpaceX到2029年將把調整後槓桿率維持在2.0倍以下。標普表示：“我們預計槓桿率將在2028年達峰，標普全球評級調整後的槓桿率將達到1.2倍，但此後隨著公司擴大互聯業務的收入和盈利能力並開始將人工智慧業務變現，槓桿率將逐年改善”。"
-    },
-    {
-      "id": "4944305",
-      "time": "2026-06-19 04:53:49",
-      "tags": [
-        "國際"
-      ],
-      "text": "明晟（MSCI）：韓國仍缺乏可全額交割的離岸外匯市場，且在岸外匯市場長期存在各類交易限制。"
-    },
-    {
-      "id": "mkt:019edc81-44d5-7dd8-b088-5be63d3430ba",
-      "time": "2026-06-19 04:51:59",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "MSCI says Indonesia's foreign-exchange market liberalization is limited: the offshore currency market is inefficient and the onshore market remains subject to restrictions."
     }
   ]
 }
