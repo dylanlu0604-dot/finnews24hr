@@ -1,7 +1,122 @@
 {
-  "updated": "2026-06-25 22:24:03",
-  "count": 16952,
+  "updated": "2026-06-25 22:28:15",
+  "count": 16961,
   "items": [
+    {
+      "id": "mkt:019eff2d-adbb-7dd8-b11f-0297ca80a9e0",
+      "time": "2026-06-25 22:27:24",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "Market sources say the U.S. is seeking to establish a partnership with the EU on AI regulation and supply-chain cooperation."
+    },
+    {
+      "id": "4955436",
+      "time": "2026-06-25 22:27:19",
+      "tags": [
+        "公司"
+      ],
+      "text": "據港交所檔案：神基製藥有限公司向港交所提交上市申請書。"
+    },
+    {
+      "id": "mkt:019eff2d-684b-7dd8-b11e-f9834e2ed746",
+      "time": "2026-06-25 22:27:06",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "PETR4.SA"
+      ],
+      "text": "Petrobras CEO said the company will resume diesel imports in July after three consecutive months without imports."
+    },
+    {
+      "id": "4955435",
+      "time": "2026-06-25 22:26:57",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國尋求與歐盟建立人工智慧合作關係，聚焦監管與供應鏈領域。"
+    },
+    {
+      "id": "mkt:019eff2d-18b5-7dd8-b11e-f0b54bad4792",
+      "time": "2026-06-25 22:26:45",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "US Supreme Court backs Trump administration plan to terminate deportation protections for Syrian and Haitian migrants."
+    },
+    {
+      "id": "mkt:019eff2c-c0e8-7dd8-b11e-ea7c97bf6670",
+      "time": "2026-06-25 22:26:23",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Market sources say the U.S. Supreme Court has finished drafting the opinion and a ruling in the case involving Fed Governor Cook is expected next week."
+    },
+    {
+      "id": "4955434",
+      "time": "2026-06-25 22:26:17",
+      "tags": [
+        "央行",
+        "焦點",
+        "國際"
+      ],
+      "text": "市場訊息：隨著最高法院完成意見書起草，美聯儲理事庫克案的裁決預計將於下週公佈。"
+    },
+    {
+      "id": "4955433",
+      "time": "2026-06-25 22:25:30",
+      "tags": [
+        "其他"
+      ],
+      "text": "【北京頭部大模型累計註冊使用者達到20.5億】6月25日 ，2026全球數字經濟大會新聞釋出會舉行。記者從會上獲悉，截至目前，北京頭部大模型累計註冊使用者達到20.5億。 北京市網際網路資訊辦公室副主任潘鋒介紹，北京擁有全國最為豐富的人工智慧創新資源和最具活力的產業生態和堅實的新型基礎設施保障。北京市網際網路資訊辦公室做好人工智慧創新發展的推動者和守護者，不斷完善大模型“備案+登記”的分級分類管理體系，在亦莊的模數世界、朝陽的光智空間落地第二批“大模型生態服務站”，壓茬推進242款大模型備案上線，數量穩居全國第一。截至目前，北京頭部大模型累計註冊使用者達到20.5億，面向全國近5萬家機構提供API的介面服務，龍頭企業示範引領、輻射帶動效應持續凸顯。（新京報）"
+    },
+    {
+      "id": "4955432",
+      "time": "2026-06-25 22:24:36",
+      "tags": [
+        "公司"
+      ],
+      "text": "【莊園牧場：股東馬紅富減持1%股份 超額部分已購回】莊園牧場公告稱，股東馬紅富2026年6月23日透過集中競價方式減持195.21萬股，佔公司總股本的1%。本次權益變動前，其持股13.50%；變動後，持股12.50%。此次減持是履行減持計劃，但操作失誤超額減持1.63萬股。馬紅富2026年6月24日已購回超額部分，並將收益1.99萬元交至公司。截至公告披露日，減持計劃尚未履行完畢。"
+    },
+    {
+      "id": "4955431",
+      "time": "2026-06-25 22:24:28",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "聚丙烯連續主力合約日內漲2%，現報7256.00元。"
+    },
+    {
+      "id": "4955430",
+      "time": "2026-06-25 22:24:21",
+      "tags": [
+        "公司"
+      ],
+      "text": "環球園藝有限公司在港交所提交IPO申請，獨家保薦人為招銀國際。"
+    },
+    {
+      "id": "4955429",
+      "time": "2026-06-25 22:23:29",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國最高法院允許特朗普政府國土安全部撤銷移民免遣保護資格。"
+    },
+    {
+      "id": "4955428",
+      "time": "2026-06-25 22:23:21",
+      "tags": [
+        "國際"
+      ],
+      "text": "法院裁定允許美國取消對海地、敘利亞公民的保護政策。"
+    },
     {
       "id": "4955427",
       "time": "2026-06-25 22:22:36",
@@ -193,6 +308,14 @@
       "text": "巴西央行行長：2026年GDP新預測反映出預測值已被大幅上調，但這仍意味著2026年增速將較2025年放緩。"
     },
     {
+      "id": "4955415",
+      "time": "2026-06-25 22:09:13",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國最高法院支援特朗普政府捍衛政府權力，限制在美墨邊境入境口岸處理庇護申請。"
+    },
+    {
       "id": "4955414",
       "time": "2026-06-25 22:08:50",
       "tags": [
@@ -333,6 +456,15 @@
       "text": "Amgen Stock Price Hits 11-week High — Amgen shares increased to 358.73 USD, the highest since April 2026. Over the past 4 weeks, Amgen gained 6.78%, and in the last 12 months, it increased 28.52%."
     },
     {
+      "id": "4955406",
+      "time": "2026-06-25 22:04:41",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "拜耳股份公司：公司仍在評估美國最高法院的裁決，短期內將釋出一份更全面的宣告。"
+    },
+    {
       "id": "4955405",
       "time": "2026-06-25 22:04:28",
       "tags": [
@@ -376,6 +508,14 @@
       "text": "【豫能控股股價大跌超9% 公司回應：動力煤價格變動確實會影響成本】豫能控股股價6月25日大跌。截至收盤，公司股價報18.6元/股，收盤跌幅為9.36%。市場認為，從成本端看，動力煤價格高位震盪，公司入爐煤價居高不下，影響發電成本。從收入端看，河南電力市場化競爭激烈，上網電價同比下滑，風光新能源擠壓火電利用小時，發電量走低。對此，豫能控股方面回應稱，動力煤價格變動確實會影響成本。公司所在的河南地區主要是火電為主，但風電、光伏等新能源發電佔比有所增加。新能源發電量佔比增加，首先影響的是火電的量，價格是市場化電價決定的。目前，公司發電後以市場化定價銷售，上網收購電價是各省市場化定價，各地有所差異，且按照供需在波動。發電企業都會受到市場化定價銷售的影響。股價受多重因素影響，為了應對市場化電價對業績的衝擊，公司也打算透過上下游佈局，來平滑業績波動。上游是煤炭，下游是用電負荷。"
     },
     {
+      "id": "4955400",
+      "time": "2026-06-25 22:02:11",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國最高法院裁定拜耳無需應對農達除草劑致癌警示相關訴訟。"
+    },
+    {
       "id": "4955399",
       "time": "2026-06-25 22:01:54",
       "tags": [
@@ -390,6 +530,22 @@
         "其他"
       ],
       "text": "Visa推出Visa Destinations服務，覆蓋10個地區。"
+    },
+    {
+      "id": "4955397",
+      "time": "2026-06-25 22:00:58",
+      "tags": [
+        "國際"
+      ],
+      "text": "【魯比奧：美方將向海灣國家通報美伊談判所有進展】麥納麥訊息：美國國務卿魯比奧25日在巴林首都麥納麥說，美國將建立溝通機制向海灣地區國家通報與伊朗談判的所有進展。 魯比奧在出席海灣阿拉伯國家合作委員會（海合會）與美國的部長級會議後接受媒體採訪時作出上述表態。他說，海灣地區國家關注美伊談判，希望瞭解談判的所有進展。 魯比奧還說，在當天會議中，美方和海合會方面並未討論有關投入資金用於伊朗的重建與經濟發展的問題。 根據美伊此前達成的諒解備忘錄，美國承諾與區域夥伴為伊朗重建與經濟發展投入至少3000億美元。 魯比奧當天早些時候在上述會議上表示，美國尋求與伊朗開展建設性對話，並達成最終協議，但不會不惜一切代價。他還表示，任何國家都無權在霍爾木茲海峽徵收通行費。 魯比奧自23日起先後訪問阿聯酋、科威特和巴林。三國均設有美軍基地。"
+    },
+    {
+      "id": "4955396",
+      "time": "2026-06-25 22:00:39",
+      "tags": [
+        "其他"
+      ],
+      "text": "【非法出售48粒右美沙芬片 藥店老闆獲刑八個月】每年的國際禁毒日，都是一次對公眾安全意識的提醒。當管制類藥品越過合法使用的邊界，就會成為毒品。近日，上海市寶山區人民檢察院公佈一起販毒案，被告人盧某是一家藥店的經營者，在明知右美沙芬被列入第二類精神藥品目錄的情況下，仍囤積右美沙芬之後出售。檢察機關以販賣毒品罪對其提起公訴，被告人盧某被法院判處有期徒刑八個月，緩刑一年，並處罰金人民幣2萬元。（央視新聞）"
     },
     {
       "id": "mkt:019eff15-2d40-7dd8-b11e-921f6dd6f810",
@@ -154860,91 +155016,6 @@
         "國際"
       ],
       "text": "市場訊息：美國佛蒙特州獨立參議員伯尼·桑德斯公佈了一項計劃，提議美國政府持有大型人工智慧公司50%的股權。"
-    },
-    {
-      "id": "mkt:019edb21-d716-7dd8-b080-f7d68cb53595",
-      "time": "2026-06-18 22:28:08",
-      "tags": [
-        "MKT News",
-        "Important",
-        "S&P500",
-        "Impact bearish",
-        "Nasdaq100",
-        "DXY",
-        "Impact bullish"
-      ],
-      "text": "Axios reported that Vermont independent Senator Bernie Sanders unveiled a plan proposing the U.S. government hold a 50% equity stake in large AI firms."
-    },
-    {
-      "id": "4943785",
-      "time": "2026-06-18 22:27:46",
-      "tags": [
-        "公司"
-      ],
-      "text": "加拿大聯合汽車工會（UNIFOR）：將於2026年6月22日啟動與福特汽車公司2026年汽車行業集體談判。"
-    },
-    {
-      "id": "4943784",
-      "time": "2026-06-18 22:27:07",
-      "tags": [
-        "公司",
-        "市場",
-        "央行",
-        "國際"
-      ],
-      "text": "【受沃什言論影響，加密貨幣延續跌勢】美聯儲昨日維持利率不變的決定，以及新任美聯儲主席凱文·沃什的言論，繼續在加密貨幣市場產生迴響。Tickmill的Joseph Dahrieh在一份報告中表示：“在美聯儲於最新貨幣政策決定後釋放出更加偏緊縮的訊號之後，比特幣可能仍面臨進一步下跌的風險。”CoinGlass的資料顯示，對沖基金仍在從比特幣ETF中撤資——昨日總淨流出額達到8,220萬美元。倫敦證券交易所集團的資料顯示，比特幣下跌1%，至63,710美元，而以太幣下跌0.9%，XRP下跌2.7%，至1.15美元，solana下跌1.7%，至70.81美元。"
-    },
-    {
-      "id": "mkt:019edb20-a661-7dd8-b080-eefa68ee54a2",
-      "time": "2026-06-18 22:26:50",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "New York's highest court upheld the mandatory retirement age for state judges."
-    },
-    {
-      "id": "4943783",
-      "time": "2026-06-18 22:25:40",
-      "tags": [
-        "國際"
-      ],
-      "text": "【機構：美國極少使用AI的科技工作者面臨三倍的裁員風險】蓋洛普（Gallup）最新研究發現，非定期使用人工智慧（AI）的科技工作者比同行更容易丟掉工作。每月至少使用一次AI的美國科技工作者被裁員的預測機率約為6%，而較少使用該技術的員工這一機率為18%。研究人員表示，即使在將年齡、教育程度和工作領域等因素納入考量後，AI使用與就業保障之間的關聯依然存在。"
-    },
-    {
-      "id": "4943782",
-      "time": "2026-06-18 22:24:43",
-      "tags": [
-        "國際"
-      ],
-      "text": "【伊朗官員：伊南部港口的商船通行已恢復正常】當地時間18日，伊朗航運協會官員表示，從本月16日起，前往伊朗南部港口的商船通行已恢復正常。截至目前，已有3艘載有基本物資和糧食的船隻進港，同時有2艘原油出口船隻出港。據悉，霍爾木茲海峽仍處於伊朗武裝部隊的監控之下，船隻必須在相關部門協調下方可通行。（央視）"
-    },
-    {
-      "id": "mkt:019edb1e-a2c6-7dd8-b080-e1b036692abb",
-      "time": "2026-06-18 22:24:38",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【China's Asian Affairs chief holds working talks with South Korea in Seoul】June 17, 2026 — Liu Jinsong, director-general of the Asian Affairs Department at China's Foreign Ministry, held routine working talks in Seoul with Nam Jin, newly appointed director of South Korea's Northeast Asia and Central Asia Bureau. They agreed to actively implement key understandings from recent leaders' mutual visits to keep the China-South Korea strategic partnership steady and long-term. Nam reaffirmed Seoul's One-China commitment as set out in the joint communique at diplomatic normalization and said the position is unchanged. Liu welcomed the reaffirmation and urged South Korea to revisit the founding intent and act on the One-China principle to preserve the political basis of bilateral ties."
-    },
-    {
-      "id": "mkt:019edb1e-9eb6-7dd8-b080-dd317a42ac9c",
-      "time": "2026-06-18 22:24:37",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "【Iranian official: commercial shipping to southern ports resumes】An Iranian Shipping Association official said on June 18 that commercial vessel traffic to Iran's southern ports has resumed normal operations since June 16. Three ships carrying essential supplies and food have entered port and two oil-export tankers have departed. The Strait of Hormuz remains under Iranian armed forces' monitoring; vessels must coordinate passage with relevant authorities."
-    },
-    {
-      "id": "4943781",
-      "time": "2026-06-18 22:24:36",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "【分析：英國央行今年或將恢復降息】Berenberg的Andrew Wishart在一份報告中表示，英國央行可能會在2026年底前恢復降息。他說，5月份通貨膨脹率低於預期，表明能源價格衝擊帶來間接影響的風險有限。Wishart說，與此同時，伊朗戰爭造成的衝擊的規模和持續時間料將大大低於該央行的預期。他說，疲軟的勞動力市場正在阻礙工資增長，而工資增速已經降至與2%的通貨膨脹率相符的水平之下。“雖然貨幣政策委員會可能仍會存在分歧，但我們認為，有足夠多的委員對通貨膨脹感到足夠放心，對勞動力市場感到足夠擔憂，從而在年底前實施降息。”"
     }
   ]
 }
