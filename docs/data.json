@@ -1,7 +1,182 @@
 {
-  "updated": "2026-06-26 05:57:30",
-  "count": 16968,
+  "updated": "2026-06-26 06:39:03",
+  "count": 16956,
   "items": [
+    {
+      "id": "4955903",
+      "time": "2026-06-26 06:38:04",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國發布針對委內瑞拉通用許可，允許開展與地震救災相關的交易活動。"
+    },
+    {
+      "id": "te:markets:562009",
+      "time": "2026-06-26 06:35:02",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Metals Commodities Updates: Copper Gains by 1.86% — Top commodity gainers are Copper (1.86%), Platinum (1.33%) and Gold (0.73%). Biggest losers are Iron Ore CNY (-1.21%), Steel Rebar (-0.78%) and Silicon (-0.66%)."
+    },
+    {
+      "id": "te:markets:562008",
+      "time": "2026-06-26 06:30:02",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Energy Commodities Updates: Gasoline Rises by 4.13% — Top commodity gainers are Gasoline (4.13%), Heating Oil (3.31%), Propane (2.75%), Crude Oil WTI (1.48%) and Brent Crude Oil (1.23%). Biggest losers are Methanol (-2.44%), Germany Natural Gas THE (-1.32%) and Liquefied Natural Gas Japan Korea (-1.06%)."
+    },
+    {
+      "id": "4955902",
+      "time": "2026-06-26 06:25:30",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "【同仁堂醫養香港上市擬籌資不超過6.716億港元】根據呈交香港交易所的公告，北京同仁堂醫養投資股份有限公司在香港發售1.08億股股份，發售價區間為每股5.48港元至6.21港元。計算顯示，該公司預計將籌資不超過6.716億港元。預計7月7日上市交易，中金公司是獨家保薦人。"
+    },
+    {
+      "id": "4955901",
+      "time": "2026-06-26 06:23:34",
+      "tags": [
+        "央行",
+        "市場"
+      ],
+      "text": "【資金面緊張情緒緩解，債市全線走強】6月25日，在資金面緊張情緒明顯緩解的帶動下，債市全線走強。市場人士認為，央行近期釋放出穩定跨季流動性的訊號，疊加銀行融出規模回升，市場對資金面的擔憂有所降溫。不過，債市已較為充分反映基本面和資金面寬鬆預期，後續修復仍待增量資訊。（上證報）"
+    },
+    {
+      "id": "4955900",
+      "time": "2026-06-26 06:23:16",
+      "tags": [
+        "其他"
+      ],
+      "text": "【加碼國際業務 券商競逐業績新增長極 】中資券商出海明顯換擋提速，資本注入從“零星試探”變成“集中加碼”。據不完全統計，2026年以來，至少已有7家上市券商披露海外業務佈局進展。在具體業務拓展中，券商海外業務已從單一的經紀業務服務走向FICC、資管、衍生品等綜合服務。在業內人士看來，隨著資本金陸續到位、業務逐步落地，國際業務對券商的利潤貢獻還有進一步抬升空間，頭部券商有望在國際化佈局中保持行業競爭優勢。（中證報）"
+    },
+    {
+      "id": "4955899",
+      "time": "2026-06-26 06:22:41",
+      "tags": [
+        "公司"
+      ],
+      "text": "極兔速遞：回購授權允許回購最多 10% 已發行股份，本次股份回購計劃資金上限設定為 20 億港元。"
+    },
+    {
+      "id": "4955898",
+      "time": "2026-06-26 06:21:37",
+      "tags": [
+        "公司",
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "【隔夜逆回購月底“首秀”，短端利率調控再添新工具】中國人民銀行6月25日公告，將在6月29日、6月30日公開市場操作中增加隔夜逆回購操作品種，隔夜逆回購操作採用固定利率、數量招標。與歐洲央行等類似，目前我國央行公開市場主力操作品種是7天期逆回購。7天期逆回購操作有效維護了短端利率平穩。強化隔夜利率調控，更符合我國銀行間市場的交易結構。國盛證券首席經濟學家熊園表示，隔夜品種是銀行間市場流動性交易最集中的期限，成交規模和市場活躍度均明顯高於7天期品種，因此其價格變化更能反映銀行體系短期流動性的邊際鬆緊。當前，短端市場利率已回升至政策利率附近。展望下一階段的流動性狀況，東方金誠首席宏觀分析師王青判斷，在央行啟動隔夜逆回購背景下，月底前央行公開市場操作有望處於較大規模的淨投放狀態，市場利率持續向上大幅偏離政策利率的可能性不大。（上證報）"
+    },
+    {
+      "id": "4955897",
+      "time": "2026-06-26 06:21:27",
+      "tags": [
+        "市場"
+      ],
+      "text": "【多因素共振 券商板塊再現強勢上漲 】在經歷週一的強勢大漲後，6月25日，A股券商板塊再度上攻，其自6月9日以來的這輪反彈行情，累計漲幅已超過15%。業內人士表示，行業業績增長預期強化、政策訊號密集釋出以及板塊估值處於低位或是此輪券商板塊上漲的主要因素。此外，近期市場風格的再平衡一定程度上也提升了市場對券商板塊投資價效比的關注度。從更長期視角看，低利率背景帶來的財富管理發展歷史性機遇等敘事邏輯有望驅動券商板塊實現估值重塑，綜合實力領先的頭部券商更加值得關注。（中證報）"
+    },
+    {
+      "id": "mkt:019f00de-775f-7dd8-b126-ab501505d872",
+      "time": "2026-06-26 06:20:07",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "2027 FOMC voting member and Chicago Fed President Austan Goolsbee to speak in 10 minutes."
+    },
+    {
+      "id": "mkt:019f00dd-2a90-7dd8-b126-a481ccf92e68",
+      "time": "2026-06-26 06:18:42",
+      "tags": [
+        "MKT News",
+        "09999.HK",
+        "Impact bullish"
+      ],
+      "text": "NetEase-S (09999.HK) has chosen to become a dual primary-listed company on HKEX, effective June 30, 2026; the \"S\" marker will be removed from its Hong Kong stock short name on the effective date."
+    },
+    {
+      "id": "4955896",
+      "time": "2026-06-26 06:18:32",
+      "tags": [
+        "央行",
+        "公司"
+      ],
+      "text": "【上證報：利率調控短端化的三重考量】我國利率調控正呈現短端化趨勢。2026年6月25日，央行釋出公告，將在6月29日、30日公開市場操作中增加隔夜逆回購操作品種，短端利率調控機制進一步完善。專家認為，利率調控短端化，或包含三重核心考量：一是適配重塑中的金融結構。二是穩定金融市場執行與金融產品估值。三是精準契合貨幣政策調控轉型方向。有機構判斷，隔夜（逆）回購利率可能成為我國的新政策利率。不過，有業內人士判斷，未來即使政策利率切換至隔夜逆回購利率，也將經歷一個平穩過渡、循序漸進的過程，需要先理順各期限工具利差、切換金融產品等利率基準錨點。"
+    },
+    {
+      "id": "4955895",
+      "time": "2026-06-26 06:16:49",
+      "tags": [
+        "其他"
+      ],
+      "text": "網易：獲選定為港交所雙重主要上市企業，6 月 30 日生效。"
+    },
+    {
+      "id": "te:markets:562006",
+      "time": "2026-06-26 06:15:02",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "FX Updates: Brazilian Real Appreciates by 0.65% — Top currency gainers are Brazilian Real (0.65%), Mexican Peso (0.58%), Swiss Franc (0.25%), British Pound (0.20%) and Euro (0.12%). Biggest losers are Indian Rupee (-0.34%) and Dollar Index (-0.16%)."
+    },
+    {
+      "id": "4955894",
+      "time": "2026-06-26 06:14:27",
+      "tags": [
+        "央行",
+        "公司"
+      ],
+      "text": "【隔夜逆回購操作在即 央行多維發力呵護年中流動性】中國人民銀行6月25日釋出公告稱，將在6月29日、6月30日公開市場操作中增加隔夜逆回購操作品種。同日，央行開展5000億元MLF操作與3705億元7天期逆回購操作，實現淨投放3225億元。專家表示，增加隔夜逆回購操作品種以及淨投放7天期逆回購，將有助於更好匹配銀行體系短期流動性需求。同時，加量續做當月MLF將有效滿足金融機構較長期限資金需求，支援政府債券順利發行及銀行加大信貸投放力度。（中證報）"
+    },
+    {
+      "id": "4955893",
+      "time": "2026-06-26 06:13:56",
+      "tags": [
+        "資料"
+      ],
+      "text": "【物價溫和回升 供需迴圈改善訊號清晰 】今年上半年，國內物價走出持續低位格局，呈現CPI溫和抬升、PPI同比轉正的結構性修復態勢，供需迴圈改善訊號清晰。專家表示，展望下半年，物價整體將維持在溫和區間。當前，“PPI—CPI”剪刀差進一步走闊，後續財政政策、貨幣政策、保供穩價政策仍需協同發力，暢通產業鏈價格傳導，以修復市場預期，促進經濟正向迴圈。（中證報）"
+    },
+    {
+      "id": "4955892",
+      "time": "2026-06-26 06:09:04",
+      "tags": [
+        "市場"
+      ],
+      "text": "紐約期銀日內跌1%，現報58.16美元/盎司。"
+    },
+    {
+      "id": "4955891",
+      "time": "2026-06-26 06:00:40",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金突破4030美元/盎司，日內漲0.07%。"
+    },
+    {
+      "id": "4955890",
+      "time": "2026-06-26 06:00:17",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "【美聯儲7月維持利率不變的機率為69%】據CME“美聯儲觀察”：美聯儲7月維持利率不變的機率為69%，累計加息25個基點的機率為31%。 美聯儲到9月維持利率不變的機率為36.6%，累計加息25個基點的機率為48.8%，累計加息50個基點的機率為14.6%。"
+    },
     {
       "id": "mkt:019f00c7-cbc9-7dd8-b126-9a74e1d7c946",
       "time": "2026-06-26 05:55:21",
@@ -154987,307 +155162,6 @@
         "Importance 1"
       ],
       "text": "Agricultural Commodities Updates: Rice Rises by 2.31% — Top commodity gainers are Rice (2.31%) and Oat (2.20%). Biggest losers are Coffee (-2.23%), Sugar (-1.67%) and Canola (-1.62%)."
-    },
-    {
-      "id": "4944354",
-      "time": "2026-06-19 06:38:40",
-      "tags": [
-        "市場",
-        "觀點",
-        "央行",
-        "焦點",
-        "國際"
-      ],
-      "text": "【6月19日隔夜要聞一覽】\n1、美股三大股指迎來修復上漲，納指漲1.91%。英特爾帶領晶片板塊走高，股價大漲10%。此前美國總統特朗普宣佈，該企業將與蘋果在美國本土開展晶片設計合作。\n2、美伊臨時和平協議生效，霍爾木茲海峽航運開始恢復，華府宣佈結束封鎖，圍繞德黑蘭核計劃的複雜談判也正式開始。\n3、一名知情人士稱，由於以色列持續襲擊黎巴嫩南部，伊朗談判代表團已推遲其前往瑞士的行程。\n4、伊朗最高領袖穆傑塔巴·哈梅內伊就伊美諒解備忘錄釋出宣告。穆傑塔巴·哈梅內伊稱，伊朗總統明確表示，“若美方得寸進尺、提出過分要求，伊朗將不會接受。從此刻起，伊朗方面將靜候所述條件的落實”。\n5、全球航運情報機構克普勒的資料顯示，三艘滿載原油的沙特超大型油輪已順利透過霍爾木茲海峽，合計運載原油600萬桶。\n6、據知情人士透露，在完成創紀錄規模的首次公開募股（IPO）後，馬斯克旗下SpaceX的承銷行正準備最早於下週與投資者舉行電話會議，討論一項潛在的債券發行計劃。\n7、據報道，Anthropic高管向商務部長霍華德·盧特尼克提交一份方案，承諾與白宮展開更深度合作，力求儘快消除各類安全隱患。\n8、隨著美伊本週達成旨在結束戰爭並解除美國海上封鎖的協議，伊朗認為這是迅速恢復石油出口的機會。在伊朗獲得及時喘息之機的同時，德黑蘭的增產可能加劇油價下行壓力。\n9、高盛資產管理的Kay Haigh表示，凱文·沃什擔任美聯儲主席後首次在政策決定公佈後所發表的講話，很可能會在美國國債收益率曲線短端引發更大波動，同時緩和長端的價格波動。"
-    },
-    {
-      "id": "4944353",
-      "time": "2026-06-19 06:38:34",
-      "tags": [
-        "國際"
-      ],
-      "text": "【歐盟27國領導人一致透過涉烏結論檔案】當地時間6月18日，歐洲理事會發布歐盟峰會關於烏克蘭問題的結論檔案。檔案顯示，歐盟27國領導人當天一致同意，重申對烏克蘭在其國際公認邊界內獨立、主權和領土完整的堅定支援。結論檔案同時指出，面對嚴峻的安全威脅和挑戰，歐洲必須在2030年前大幅提升防務準備水平。（央視新聞）"
-    },
-    {
-      "id": "te:markets:560188",
-      "time": "2026-06-19 06:34:59",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Metals Commodities Updates: Platinum Plunges by 5.41% — Top commodity losers are Platinum (-5.41%), Silver (-3.37%), Copper (-1.73%) and Gold (-1.28%)."
-    },
-    {
-      "id": "4944352",
-      "time": "2026-06-19 06:34:41",
-      "tags": [
-        "國際"
-      ],
-      "text": "烏克蘭總統澤連斯基： 我們還需要至少 300 枚導彈的一攬子彈藥援助，以備冬季作戰所需。"
-    },
-    {
-      "id": "mkt:019edcde-97e6-7dd8-b089-3fb0ed309c45",
-      "time": "2026-06-19 06:33:55",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "DXY",
-        "Brent"
-      ],
-      "text": "Ukrainian President Zelenskiy said Ukraine still needs at least 300 missiles as part of a winter resupply package."
-    },
-    {
-      "id": "mkt:019edcde-0697-7dd8-b089-36f5108976bb",
-      "time": "2026-06-19 06:33:18",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy"
-      ],
-      "text": "Ukrainian President Zelenskiy said if the war continues Ukraine will need a winter aid package including natural gas, diesel and energy equipment."
-    },
-    {
-      "id": "4944351",
-      "time": "2026-06-19 06:32:36",
-      "tags": [
-        "國際"
-      ],
-      "text": "烏克蘭總統澤連斯基： 倘若戰事持續，我們將需要一攬子冬季援助物資，包括天然氣、柴油以及能源裝置。"
-    },
-    {
-      "id": "4944350",
-      "time": "2026-06-19 06:30:52",
-      "tags": [
-        "國際"
-      ],
-      "text": "烏克蘭總統澤連斯基：我們希望藉助外交手段並向俄羅斯施壓，在冬季來臨前結束這場衝突。"
-    },
-    {
-      "id": "mkt:019edcdb-b7f1-7dd8-b089-2cf9d49f75ed",
-      "time": "2026-06-19 06:30:47",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Ukrainian President Zelenskiy said Kyiv hopes to end the war before winter through diplomacy and pressure on Russia."
-    },
-    {
-      "id": "4944349",
-      "time": "2026-06-19 06:30:29",
-      "tags": [
-        "資料",
-        "央行",
-        "國際"
-      ],
-      "text": "【週五重要財經資訊提醒（以下均為北京時間）】\n① 06:45 紐西蘭5月進出口與貿易帳；\n② 07:30 日本5月CPI；\n③ 07:50 日本央行公佈4月貨幣政策會議紀要；\n④ 全天 端午節假期，中國A股、港股，以及美股休市；\n⑤ 14:00 英國5月零售銷售；\n⑥ 15:00 歐洲央行首席經濟學家Lane講話；\n⑦ 16:00 歐洲央行管委Jose Escriva講話；\n⑧ 18:30 俄羅斯央行公佈利率決議；\n⑨ 20:30 加拿大4月零售銷售；\n⑩ 22:00 歐洲央行首席經濟學家Lane講話。"
-    },
-    {
-      "id": "te:markets:560187",
-      "time": "2026-06-19 06:29:59",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Energy Commodities Updates: Methanol Falls by 4.55% — Top commodity losers are Methanol (-4.55%), Liquefied Natural Gas Japan Korea (-3.19%), Natural Gas UK (-2.78%) and Brent Crude Oil (-0.21%). Gains are led by Gasoline (2.46%), Natural gas (2.22%) and Crude Oil WTI (0.11%)."
-    },
-    {
-      "id": "4944346",
-      "time": "2026-06-19 06:22:22",
-      "tags": [
-        "國際"
-      ],
-      "text": "【中方敦促合力推進利比亞包容性政治程序】中國常駐聯合國副代表孫磊18日在安理會利比亞問題公開會上發言，敦促合力推進利比亞包容性政治程序。孫磊說，推動各方圍繞選舉安排和統一機構達成共識，是安理會處理利比亞局勢的中心任務。中方歡迎聯合國利比亞支助特派團持續推動政治路線圖落實。利主要政治力量要展現政治意願，以國家和人民長遠利益為重，相向而行。國際夥伴應尊重聯合國斡旋的中心地位，積極為解決利政治分歧發揮建設性作用。（新華社）"
-    },
-    {
-      "id": "te:markets:560186",
-      "time": "2026-06-19 06:15:19",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Currency",
-        "Importance 1"
-      ],
-      "text": "FX Updates: Norwegian Krone Depreciates by 1.23% — Top currency losers are Norwegian Krone (-1.23%), Swedish Krona (-0.82%), Polish Zloty (-0.69%), British Pound (-0.66%), Japanese Yen (-0.43%) and Euro (-0.34%). Gains are led by Dollar Index (0.71%) and Indian Rupee (0.41%)."
-    },
-    {
-      "id": "mkt:019edccd-7460-7dd8-b089-27277994b845",
-      "time": "2026-06-19 06:15:12",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK",
-        "Brent",
-        "Impact bullish",
-        "WTI",
-        "XAUUSD"
-      ],
-      "text": "【EU extends economic sanctions on Russia by 12 months, first move beyond six‑month renewals】European Council president's spokesman said on June 18 that EU leaders agreed to extend economic sanctions on Russia for 12 months, the first time the bloc has moved beyond its prior six‑month renewal routine. The measures target trade, finance, energy, industry, transport and luxury goods; an EU Council statement on Dec. 22, 2025 set the new expiry at July 31, 2026. Russia has not commented."
-    },
-    {
-      "id": "4944345",
-      "time": "2026-06-19 06:14:44",
-      "tags": [
-        "國際"
-      ],
-      "text": "【歐盟首次將對俄經濟制裁延長12個月】當地時間6月18日，歐洲理事會主席的一位發言人表示，歐盟領導人同意將針對俄羅斯的經濟制裁措施延長12個月。據瞭解，這是歐盟首次決定將對俄經濟制裁延期12個月，而非沿用此前每次延長6個月的慣例。這些制裁包括對貿易、金融、能源、工業、運輸和奢侈品等方面的限制。2025年12月22日，歐盟理事會發表宣告說，將針對俄羅斯的經濟制裁措施延長至2026年7月31日。俄羅斯方面對此尚無回應。（央視新聞）"
-    },
-    {
-      "id": "mkt:019edccc-dac1-7dd8-b089-1a1c90fe3c0b",
-      "time": "2026-06-19 06:14:33",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK",
-        "EURUSD",
-        "Impact bullish",
-        "DXY",
-        "Impact bearish",
-        "DAX"
-      ],
-      "text": "Financial Times reports the European Union will remove barriers to banks' cross-border capital flows."
-    },
-    {
-      "id": "4944344",
-      "time": "2026-06-19 06:08:22",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：歐盟擬消除銀行跨境資本流動壁壘，歐盟委員會草擬報告，旨在提升歐盟區內銀行機構競爭力，縮小與美國同業對手的差距。"
-    },
-    {
-      "id": "mkt:019edcc7-2185-7dd8-b089-138a0e68945c",
-      "time": "2026-06-19 06:08:18",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bearish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "【Israel's US ambassador says Israel committed to Lebanon truce if HEZBOLLAH complies】On the morning of the 19th, Israel's ambassador to the United States said Israel remains committed to implementing the truce reached with Lebanon, provided HEZBOLLAH does not violate the agreement. He reaffirmed Israel's commitment to the tripartite Israel-Lebanon-US truce and added, \"In any case, Israel reserves the right to respond to attacks and to remove threats to its territory, citizens and soldiers.\""
-    },
-    {
-      "id": "mkt:019edcc6-6bcc-7dd8-b089-0bc83baa3e37",
-      "time": "2026-06-19 06:07:31",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bearish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "Iranian parliament speaker Ghalibaf said the Supreme Leader has tasked the legislature with pushing for implementation of all provisions of the agreement."
-    },
-    {
-      "id": "4944343",
-      "time": "2026-06-19 06:07:15",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗首席談判代表卡利巴夫：  最高領袖交給我們的任務，是推動落實協議的各項條款。"
-    },
-    {
-      "id": "4944342",
-      "time": "2026-06-19 06:06:51",
-      "tags": [
-        "國際"
-      ],
-      "text": "【以色列駐美大使稱以方仍致力於執行與黎停火協議】以色列當地時間19日凌晨，以色列駐美國大使耶希爾·萊特表示，以色列將繼續致力於執行此前與黎巴嫩達成的停火協議，但前提是黎巴嫩真主黨不違反該協議。萊特表示，以色列仍將致力於執行以色列、黎巴嫩和美國三方達成的停火協議。他強調，“在任何情況下，以色列都保留對針對其襲擊作出回應的權利，並保留清除對其領土、公民和士兵威脅的權利”。（央視新聞）"
-    },
-    {
-      "id": "mkt:019edcc4-3b07-7dd8-b089-048dad7514f1",
-      "time": "2026-06-19 06:05:08",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Microsoft",
-        "Market Themes",
-        "Magnificent 7",
-        "MSFT.O"
-      ],
-      "text": "According to POLITICO, Microsoft said it supports a data center energy bill."
-    },
-    {
-      "id": "4944341",
-      "time": "2026-06-19 06:05:02",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗首席談判代表卡利巴夫： 若對方違背承諾，我方必將作出強力回應，對此我們毫不遲疑。"
-    },
-    {
-      "id": "mkt:019edcc3-f687-7dd8-b088-fb1bcbbc1ad3",
-      "time": "2026-06-19 06:04:50",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "Iran's parliament speaker Ghalibaf said if the other side violates its commitments, Iran will respond forcefully."
-    },
-    {
-      "id": "mkt:019edcc3-dbc5-7dd8-b088-f26666f80585",
-      "time": "2026-06-19 06:04:43",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Iran's chief negotiator Karibaf said any breach of the agreement or excessive demands will be met with a strong response."
-    },
-    {
-      "id": "4944340",
-      "time": "2026-06-19 06:04:24",
-      "tags": [
-        "其他"
-      ],
-      "text": "市場訊息：微軟表態支援資料中心能源法案。"
-    },
-    {
-      "id": "4944339",
-      "time": "2026-06-19 06:04:01",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗首席談判代表卡利巴夫：任何違反協議的行為或是過分要求，都將遭到我方強硬回擊。"
-    },
-    {
-      "id": "mkt:019edcc1-7459-7dd8-b088-e945632b772b",
-      "time": "2026-06-19 06:02:06",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "SpaceX warned the EU satellite plan could weaken Ukraine's connectivity, the Financial Times reported."
-    },
-    {
-      "id": "4944338",
-      "time": "2026-06-19 06:01:47",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "SpaceX：歐盟衛星服務計劃存在連線缺口。公司準備配合歐盟的方案。"
-    },
-    {
-      "id": "4944337",
-      "time": "2026-06-19 06:01:43",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "【美聯儲7月維持利率不變的機率為60.4%】據CME“美聯儲觀察”：美聯儲7月維持利率不變的機率為60.4%，累計加息25個基點的機率為39.6%。美聯儲到9月維持利率不變的機率為31.2%，累計加息25個基點的機率49.6%，累計加降息50個基點的機率為19.1%。"
-    },
-    {
-      "id": "4944336",
-      "time": "2026-06-19 05:59:57",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：特朗普將於週二前往賓夕法尼亞州開展訪問。"
     }
   ]
 }
