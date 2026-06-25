@@ -1,7 +1,77 @@
 {
-  "updated": "2026-06-25 10:23:48",
-  "count": 17033,
+  "updated": "2026-06-25 10:27:45",
+  "count": 17035,
   "items": [
+    {
+      "id": "4953960",
+      "time": "2026-06-25 10:27:08",
+      "tags": [
+        "市場"
+      ],
+      "text": "老鋪黃金港股下跌7.2%。"
+    },
+    {
+      "id": "4953959",
+      "time": "2026-06-25 10:26:45",
+      "tags": [
+        "國際"
+      ],
+      "text": "【比亞迪儲能推出戶儲新品Battery-Box Mega】6月23日至25日，2026年歐洲智慧能源展（The Smarter E Europe）在德國慕尼黑舉行。比亞迪儲能釋出戶用能源生態系統BYD Residential Energy Ecosystem，並同步推出戶儲新品Battery-Box Mega。據比亞迪儲能介紹，Battery-Box Mega專為小型工廠、農場、商店、酒店等場景設計，兼具工商業級效能與戶用級便捷。"
+    },
+    {
+      "id": "4953958",
+      "time": "2026-06-25 10:26:27",
+      "tags": [
+        "市場"
+      ],
+      "text": "【廣州期貨交易所據悉考慮推出首個鈷期貨產品】據知情人士稱，廣州期貨交易所正在考慮推出中國首個鈷期貨。訊息人士稱，廣州期貨交易所正在討論推出實物交割鈷金屬期貨的可能性。相關討論仍處於早期階段，未必會實施。知情人士稱，考慮到硫酸鈷應用範圍更廣，合約也可能納入硫酸鈷作為交割選項，以擴大可用於交割的數量，並滿足更多企業的套期保值需求。知情人士表示，推出的時間表尚未確定。"
+    },
+    {
+      "id": "mkt:019efc98-f756-7dd8-b10a-80a04ab3bed2",
+      "time": "2026-06-25 10:25:43",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "An earthquake offshore near Iwate Prefecture, Japan, at about 10:00 local time on the 25th injured at least four people, Japanese authorities said."
+    },
+    {
+      "id": "mkt:019efc98-d6b1-7dd8-b10a-7e1cbf4cc62f",
+      "time": "2026-06-25 10:25:35",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish"
+      ],
+      "text": "Mainland A-share financial sector rallied, led by Changjiang Securities which jumped over 9%; Founder Securities, CSC Financial, China Life, PICC and New China Life also advanced."
+    },
+    {
+      "id": "4953957",
+      "time": "2026-06-25 10:24:22",
+      "tags": [
+        "市場"
+      ],
+      "text": "紫金礦業港股下跌6.9%，A股下跌5.7%。"
+    },
+    {
+      "id": "4953956",
+      "time": "2026-06-25 10:24:08",
+      "tags": [
+        "市場"
+      ],
+      "text": "洛陽鉬業港股下跌6.1%，A股下跌4.4%。"
+    },
+    {
+      "id": "4953955",
+      "time": "2026-06-25 10:23:50",
+      "tags": [
+        "市場",
+        "觀點"
+      ],
+      "text": "【證券、保險等大金融板塊拉昇】證券、保險等大金融板塊拉昇，長江證券漲超8%，方正證券、中信建投、中國人壽、中國人保、新華保險紛紛拉昇。"
+    },
     {
       "id": "4953954",
       "time": "2026-06-25 10:22:44",
@@ -155587,60 +155657,6 @@
         "其他"
       ],
       "text": "【國內成品油價格將迎來調整視窗】今天（18日）24點，新一輪成品油零售調價視窗將開啟。國內成品油價格機制規定，汽、柴油最高零售價格以國際市場原油價格為基礎，每10個工作日調整一次。（央視新聞）"
-    },
-    {
-      "id": "4942284",
-      "time": "2026-06-18 10:27:35",
-      "tags": [
-        "其他"
-      ],
-      "text": "寒武紀漲超10%，現報1460元，再創歷史新高。"
-    },
-    {
-      "id": "4942283",
-      "time": "2026-06-18 10:26:21",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "滬深兩市成交額超1.5萬億元，較上日此時放量1569億元。"
-    },
-    {
-      "id": "4942282",
-      "time": "2026-06-18 10:25:15",
-      "tags": [
-        "其他"
-      ],
-      "text": "木原稔：將確保經濟與財政政策的穩健管理。"
-    },
-    {
-      "id": "te:markets:559888",
-      "time": "2026-06-18 10:24:09",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Platinum Slips Toward 6-Month Lows — Platinum futures fell below $1,770 an ounce, moving back toward six-month lows, pressured by a stronger US dollar after the Federal Reserve signaled growing support for interest rate hikes this year. While the central bank left its policy rate unchanged, nine Fed officials now expect a rate hike by the end of 2026. New Fed Chair Kevin Warsh refrained from providing guidance on the next policy move but stressed that inflation has remained above the central bank’s target and reiterated the Fed’s commitment to restoring price stability. Meanwhile, losses were capped as oil prices declined further after US President Trump signed an interim agreement to end the war with Iran, potentially reopening the Strait of Hormuz and easing inflation concerns. The platinum market also remains structurally tight, as output from major producers South Africa and Russia remains constrained by aging mines, high costs, and sanctions-related disruptions."
-    },
-    {
-      "id": "4942281",
-      "time": "2026-06-18 10:24:07",
-      "tags": [
-        "市場"
-      ],
-      "text": "【減肥藥概念震盪反彈，華森製藥漲停】減肥藥概念震盪反彈，華森製藥漲停，博瑞醫藥、昭衍新藥、常山藥業、聖諾生物、納微科技、眾生藥業等跟漲。"
-    },
-    {
-      "id": "mkt:019ed88a-bde8-7dd8-b069-90cbf6009536",
-      "time": "2026-06-18 10:23:51",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC"
-      ],
-      "text": "Japan's Chief Cabinet Secretary Kihara said the government will continue to closely monitor financial markets."
     }
   ]
 }
