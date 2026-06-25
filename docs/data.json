@@ -1,7 +1,111 @@
 {
-  "updated": "2026-06-26 00:09:44",
-  "count": 16911,
+  "updated": "2026-06-26 00:14:18",
+  "count": 16905,
   "items": [
+    {
+      "id": "4955603",
+      "time": "2026-06-26 00:12:20",
+      "tags": [
+        "其他"
+      ],
+      "text": "納斯達克100指數漲幅擴大至1%。"
+    },
+    {
+      "id": "4955602",
+      "time": "2026-06-26 00:12:13",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "羅馬尼亞財政部資料顯示，截至5月底，該國綜合預算赤字相當於國內生產總值(GDP)的1.75%，2025年同期為3.39%/GDP。"
+    },
+    {
+      "id": "mkt:019eff8d-80e8-7dd8-b121-6c05d4dde9eb",
+      "time": "2026-06-26 00:12:04",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【Macau joint-inspection ports to fully implement facial-recognition self-service clearance】Macau Public Security Police Force and the Security Forces Affairs Bureau said on June 25 that from June 26 the joint-inspection self-service lanes at Qingmao Port and the Zhuhai–Macau hall of the Hong Kong–Zhuhai–Macau Bridge will adopt smart clearance. All 204 self-service joint-inspection lanes across Macau ports will be upgraded to facial-recognition clearance."
+    },
+    {
+      "id": "te:markets:561976",
+      "time": "2026-06-26 00:12:02",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Italy",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The FTSE MIB Index Closes 0.28% Higher — The FTSE MIB Index went up by 144 points or 0.28 percent on Thursday to close at 51783 points. The rise was led by STMicroelectronics (2.57%), Buzzi Unicem (2.17%) and Enel (2.00%). On the downside, the weakerst performers were Avio (-6.62%), Leonardo SpA (-3.94%) and Fincantieri (-2.92%)."
+    },
+    {
+      "id": "4955601",
+      "time": "2026-06-26 00:12:00",
+      "tags": [
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "【機構：預期的偏緊縮立場有助於解釋通脹預期下降】Northlight的Chris Zaccarelli表示，市場對未來通脹和利率反映的預期中看似存在的差異可能具有欺騙性。與戰爭相關的能源價格上漲以及美聯儲近期的偏緊縮轉向，已讓聯邦基金期貨反映出今年至少加息一次的預期。但油價最新大幅下跌。與此同時，完全不同的掉期市場反映的預期是，一年期通脹率將接近美聯儲2%的目標。“兩個市場可能都是正確的，”Zaccarelli說，因為“美聯儲的一些成員可能希望加息，以期推動通脹率下降。“不過，他預計美聯儲將維持利率不變，而不是加息。"
+    },
+    {
+      "id": "4955600",
+      "time": "2026-06-26 00:11:39",
+      "tags": [
+        "國際"
+      ],
+      "text": "【特朗普請求為陷入困境的農民提供111億美元新援助】美國總統特朗普為受邀於週四晚些時候在白宮共進晚餐的農民們準備了一個驚喜：他向國會提出請求，要求提供111億美元的援助資金。這將是陷入困境的農業部門在年內獲得的第二次紓困。這項提交給國會的請求屬於一項包含國防開支在內的追加撥款方案。該方案尋求為種植玉米、大豆和水稻等作物的農戶提供100億美元援助，併為受2025年末及2026年初冬季風暴影響的佛羅里達州生產者提供11億美元援助。"
+    },
+    {
+      "id": "mkt:019eff8d-1918-7dd8-b121-67d11438bd58",
+      "time": "2026-06-26 00:11:37",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Trump seeks $11.1 bln in new aid for distressed farmers】President Trump has requested $11.1 bln from Congress in emergency aid for struggling farmers, submitted as part of a supplemental appropriations package that includes defense spending. The proposal would allocate $10 bln for corn, soybean and rice growers and $1.1 bln for Florida producers hit by winter storms in late 2025 and early 2026. This would be the farm sector's second bailout this year; the funds remain subject to congressional approval."
+    },
+    {
+      "id": "te:markets:561975",
+      "time": "2026-06-26 00:11:02",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Germany",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The DAX Index Closes 1.03% Higher — The DAX Index rose 254 points or 1.03 percent on Thursday to close at 24995 points. Leading the gains are Bayer (18.72%), Merck (5.00%) and Vonovia (3.46%)."
+    },
+    {
+      "id": "te:markets:561974",
+      "time": "2026-06-26 00:10:02",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "France",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The CAC 40 Index Closes 0.46% Higher — The CAC 40 Index gained 38 points or 0.46 percent on Thursday to close at 8424 points. Gains were led by Accor (3.16%), Societe Generale (2.79%) and STMicroelectronics (2.40%). Biggest losers were Thales (-2.42%), Publicis (-1.31%) and Stellantis NV (-1.29%)."
+    },
+    {
+      "id": "mkt:019eff8a-aff5-7dd8-b121-59542365deed",
+      "time": "2026-06-26 00:08:59",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【US Supreme Court backs Trump's hardline immigration measures】The US Supreme Court on the 25th issued two rulings supporting the Trump administration's hardline immigration policies. One ruling allows the administration to terminate Temporary Protected Status for hundreds of thousands of Haitian and Syrian nationals, removing their legal protection from deportation. The other permits a policy that bars asylum seekers from entering US territory."
+    },
+    {
+      "id": "4955599",
+      "time": "2026-06-26 00:08:48",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美最高法院裁決支援特朗普強硬移民政策】美國最高法院25日作出兩項有關移民案件的關鍵裁決，支援特朗普政府的強硬移民政策。其中一項裁決允許特朗普政府取消數十萬名海地和敘利亞移民享有的臨時保護身份，這將使他們失去免於被驅逐的法律保護。另一項裁決則允許特朗普政府實施阻止尋求庇護者踏上美國領土的相關政策。（新華社）"
+    },
     {
       "id": "4955598",
       "time": "2026-06-26 00:08:10",
@@ -154495,157 +154599,6 @@
         "MKT News"
       ],
       "text": "U.S. Vice President Vance's press conference at the White House has concluded."
-    },
-    {
-      "id": "4944023",
-      "time": "2026-06-19 00:13:41",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國副總統萬斯新聞釋出會結束。"
-    },
-    {
-      "id": "4944022",
-      "time": "2026-06-19 00:13:31",
-      "tags": [
-        "國際"
-      ],
-      "text": "萬斯：特朗普是目前唯一一位同情以色列的世界領導人。"
-    },
-    {
-      "id": "mkt:019edb82-3850-7dd8-b084-dcc1c9b6178b",
-      "time": "2026-06-19 00:13:24",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "The Trump Trade"
-      ],
-      "text": "U.S. Vice President Vance said Israelis criticizing the deal Trump reached should perhaps not attack allies."
-    },
-    {
-      "id": "4944018",
-      "time": "2026-06-19 00:12:23",
-      "tags": [
-        "國際"
-      ],
-      "text": "萬斯談及對特朗普伊朗協議持批評態度的以色列方面：（美國）或不願對盟友動武。"
-    },
-    {
-      "id": "te:markets:560151",
-      "time": "2026-06-19 00:12:02",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Italy",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The FTSE MIB Index Closes 0.18% Higher — The FTSE MIB Index went up by 93 points or 0.18 percent on Thursday to close at 52688 points. The rise was led by STMicroelectronics (4.16%), Prysmian (2.48%) and Banco BPM SPA (2.00%). On the downside, the weakerst performers were Saipem (-7.04%), Tenaris (-4.08%) and Eni (-3.16%)."
-    },
-    {
-      "id": "4944017",
-      "time": "2026-06-19 00:11:38",
-      "tags": [
-        "國際"
-      ],
-      "text": "【日本討論修改憲法第九條 專家：此舉企圖加速修憲流程】日本眾議院憲法審查會18日透過了《國民投票法》修正案，其核心內容包括放寬監票人的遴選條件等相關規定，修正案預計將於19日在眾議院全體會議審議透過。日本方面有評論稱表示，該修正案是日本為修改憲法所做的又一項準備工作。值得關注的是，在審查會上，日本政黨代表還圍繞修改和平憲法第九條進行了集中討論，但未形成統一意見。自民黨現已彙總的方案提出，在維持現行第一款放棄戰爭和第二款不保持戰力的基礎上，將所謂“國防”的應有形態寫入憲法，並明確規定由自衛隊承擔。在野黨“中道改革聯合”明確表示要堅持第九條，反駁稱“不需要只為消除自衛隊違憲論調而修憲。”同時，日本兩個右翼政黨——參政黨和維新會則認為自民黨的方案力度不足。日本維新會議員就自民黨方案指出“僅僅追認自衛隊組織的現狀什麼也不會改變”，主張刪除第二款並創設所謂“國防軍”，還宣稱要全面允許行使集體自衛權。參政黨議員提出要從根本上修改第九條，宣稱日本的防衛不應依賴他國，應當自行承擔。此外，日本維新會於17日還提出了對“日本安保三檔案”的修訂意見，其中包括對“無核三原則”中“不運進”核武器的相關內容進行重新審視，其理由則是，該部分內容會阻礙美國艦艇未來攜帶核彈停靠日本港口。（央視新聞）"
-    },
-    {
-      "id": "mkt:019edb80-9359-7dd8-b084-d662c7b64305",
-      "time": "2026-06-19 00:11:37",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "U.S. Vice President Vance said people will come to see this as beneficial to Americans."
-    },
-    {
-      "id": "4944016",
-      "time": "2026-06-19 00:11:11",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "SPACEX股價下跌10%，兩日累計跌幅達14%。"
-    },
-    {
-      "id": "4944015",
-      "time": "2026-06-19 00:11:07",
-      "tags": [
-        "國際"
-      ],
-      "text": "萬斯：人們終將意識到「這對美國民眾而言是件大好事」。"
-    },
-    {
-      "id": "te:markets:560150",
-      "time": "2026-06-19 00:11:02",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Germany",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The DAX Index Closes 0.37% Higher — The DAX Index rose 92 points or 0.37 percent on Thursday to close at 25027 points. Leading the gains are Infineon (7.14%), Siemens Energy (4.70%) and MTU Aero Engines AG (3.39%). Top losers were SAP (-4.80%), Mercedes-Benz AG (-4.52%) and BMW (-4.02%)."
-    },
-    {
-      "id": "4944014",
-      "time": "2026-06-19 00:10:58",
-      "tags": [
-        "國際"
-      ],
-      "text": "被問及面向伊朗的 3000 億美元基金由誰出資，美國副總統萬斯表示：阿拉伯國家以及域外不少國家都非常有意向，只要伊朗履約守規，各方願意參與出資扶持伊朗。"
-    },
-    {
-      "id": "mkt:019edb7f-7a56-7dd8-b084-c83185a29781",
-      "time": "2026-06-19 00:10:25",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Vice President Vance said the president will not strike an unfavorable agreement."
-    },
-    {
-      "id": "mkt:019edb7f-5be5-7dd8-b084-c7faa8a98a4f",
-      "time": "2026-06-19 00:10:17",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "US Vice President Vance said critics should have some confidence in the president."
-    },
-    {
-      "id": "4944013",
-      "time": "2026-06-19 00:10:14",
-      "tags": [
-        "其他"
-      ],
-      "text": "萬斯稱總統不會簽署不利協議。"
-    },
-    {
-      "id": "4944012",
-      "time": "2026-06-19 00:10:06",
-      "tags": [
-        "國際"
-      ],
-      "text": "萬斯稱，批評者應當“對美國總統多一點信心”。"
-    },
-    {
-      "id": "te:markets:560149",
-      "time": "2026-06-19 00:10:02",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "France",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The CAC 40 Index Closes 0.46% Higher — The CAC 40 Index gained 39 points or 0.46 percent on Thursday to close at 8470 points. Gains were led by Edenred (17.17%), Kering (4.42%) and Legrand (4.14%). Biggest losers were Capgemini (-8.87%), Carrefour (-6.17%) and ArcelorMittal (-3.39%)."
-    },
-    {
-      "id": "4944011",
-      "time": "2026-06-19 00:09:55",
-      "tags": [
-        "國際"
-      ],
-      "text": "【萬斯稱與伊朗達成的部分 “君子協定” 已有書面記錄】美國副總統 JD・萬斯在接受採訪時作出一番重要表態，證實雙方在談判部分議題上存在 “君子協定”。週四，萬斯於白宮新聞釋出廳向霍姆斯透露，其中一部分君子協定 “形成了書面檔案”。他表示：“無論是這份諒解備忘錄、各類君子協定，還是最終協議，諸位，口頭承諾無足輕重，我們只看重核查落實。”萬斯補充道，這份協議的框架設計核心在於，美國 “不相信空話，只相信實際行動與履約表現”。他表示，伊朗已承諾不再進行鈾濃縮活動，並允許核查人員入境銷燬其高濃縮鈾庫存。若伊朗切實履行上述承諾，“協議中規定了多項對應利好安排”。"
     }
   ]
 }
