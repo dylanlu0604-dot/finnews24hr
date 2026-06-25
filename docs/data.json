@@ -1,7 +1,54 @@
 {
-  "updated": "2026-06-26 02:39:00",
-  "count": 16963,
+  "updated": "2026-06-26 02:42:59",
+  "count": 16966,
   "items": [
+    {
+      "id": "4955782",
+      "time": "2026-06-26 02:42:15",
+      "tags": [
+        "國際"
+      ],
+      "text": "【中方揭批以人權為藉口濫施關稅行徑】6月25日，中國常駐聯合國日內瓦辦事處和瑞士其他國際組織代表賈桂德大使在聯合國人權理事會第62屆會議代表多國作共同發言，揭批某些國家以“強迫勞動”為名濫施關稅的單邊霸凌行徑。賈桂德大使在共同發言中指出，“消除貧困需要保障各國人民的勞動權和發展權。我們堅決反對‘強迫勞動’，同時嚴重關切、強烈反對某個國家濫用國內法律，單方面認定其他經濟體未有效實施並執行‘禁止進口強迫勞動產品措施’，並以此為藉口加徵額外關稅。有關國家以‘強迫勞動’為名，行濫施關稅之實，只會損害各國勞動者體面勞動的權利和發展權，干擾全球供應鏈產業鏈穩定，破壞國際社會消除貧困的努力。” 共同發言敦促有關國家尊重客觀事實，停止將經貿問題政治化、人權議題武器化，以實際行動維護國際經貿秩序，助力全球發展和減貧程序。 共同發言得到廣泛支援，俄羅斯、巴基斯坦、古巴、委內瑞拉、蘇丹、柬埔寨等多國加入共同發言，發展中國家積極發言呼應。（CCTV國際時訊）"
+    },
+    {
+      "id": "mkt:019f0016-dcba-7dd8-b124-98aa341ae502",
+      "time": "2026-06-26 02:42:06",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "【Fed's GOOLSBEE: Core inflation still too high, trend worrying】Fed's GOOLSBEE said on Thursday that while the latest US inflation report shows a glimmer of improvement in services inflation, underlying inflationary pressure remains too high and the trend is worrying. In a CNBC interview he declined to say whether the Fed should raise rates or keep them unchanged and said he agreed with Fed Chair KEVIN WARSH that policymakers should avoid stoking speculation about the future path of rates."
+    },
+    {
+      "id": "4955781",
+      "time": "2026-06-26 02:41:30",
+      "tags": [
+        "國際"
+      ],
+      "text": "烏克蘭總統澤連斯基：祝賀阿夫勞埃斯・普列利亞贏得總統大選，並祝願哥倫比亞人民一切順遂。期待與哥倫比亞開展深度協作，攜手讓兩國共同發展。"
+    },
+    {
+      "id": "mkt:019f0015-8c7e-7dd8-b124-92e6607f7f5c",
+      "time": "2026-06-26 02:40:39",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【UN spokesperson: UN mobilizing resources to assist Venezuela earthquake response】UN Secretary-General spokesperson Dujarric said on the 25th that UN agencies in Venezuela are mobilizing assistance and coordinating with the Venezuelan government and partners to support the earthquake response. Preliminary reports show severe damage across multiple areas, including the capital Caracas, significant casualties, and people still trapped or missing. Critical infrastructure has been damaged and basic services disrupted. The UN Office for the Coordination of Humanitarian Affairs is assisting with deployment of urban search-and-rescue teams."
+    },
+    {
+      "id": "4955780",
+      "time": "2026-06-26 02:39:56",
+      "tags": [
+        "其他"
+      ],
+      "text": "【聯合國發言人：正調動資源援助委內瑞拉應對地震災情】聯合國秘書長發言人迪雅裡克25日發表宣告說，聯合國駐委內瑞拉機構正調動援助資源，並與委政府及合作伙伴協作，支援委內瑞拉應對地震災情。宣告說，初步報告顯示，委內瑞拉包括首都加拉加斯在內的多地遭到地震嚴重破壞，人員傷亡較大，一些人仍被困或下落不明。同時，該國關鍵基礎設施受損，基本服務中斷。聯合國人道主義事務協調廳正協助部署城市搜救隊伍。（新華社）"
+    },
     {
       "id": "4955779",
       "time": "2026-06-26 02:38:17",
@@ -155192,22 +155239,6 @@
         "國際"
       ],
       "text": "伊朗最高國家安全委員會表示，根據與美國達成的諒解備忘錄，60天內不會向經霍爾木茲海峽通航的船舶徵收任何通行費。"
-    },
-    {
-      "id": "4944232",
-      "time": "2026-06-19 02:42:00",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國食品藥品監督管理局顧問團表示，莫德納流感疫苗對50至64歲成年人群的益處大於風險。"
-    },
-    {
-      "id": "4944231",
-      "time": "2026-06-19 02:40:47",
-      "tags": [
-        "其他"
-      ],
-      "text": "市場訊息：三艘沙特超大型油輪裝載約 600 萬桶原油透過海峽，時隔兩個多月後船舶自動識別系統（AIS）訊號重新出現。"
     }
   ]
 }
