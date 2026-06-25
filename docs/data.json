@@ -1,7 +1,39 @@
 {
-  "updated": "2026-06-26 03:55:52",
-  "count": 16987,
+  "updated": "2026-06-26 03:59:50",
+  "count": 16989,
   "items": [
+    {
+      "id": "4955848",
+      "time": "2026-06-26 03:57:37",
+      "tags": [
+        "其他"
+      ],
+      "text": "“大空頭”Michael Burry：加倉FISERV、京東和奧多比。"
+    },
+    {
+      "id": "mkt:019f005b-af12-7dd8-b125-d4ce6762e825",
+      "time": "2026-06-26 03:57:16",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "Impact mixed",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "【Fed's Williams: Current policy stance can return inflation to 2%】Williams said the current monetary policy stance is well positioned to return inflation to the Fed's 2% target but acknowledged material risks remain to fulfilling the central bank's dual mandate. He said inflation is undoubtedly elevated and well above the Committee's 2% goal, and he expects inflation to ease modestly over the next few quarters, though significant risks persist."
+    },
+    {
+      "id": "4955847",
+      "time": "2026-06-26 03:55:29",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "美國投資公司協會 (ICI) 資料：貨幣市場基金規模降至 7.9 萬億美元。"
+    },
     {
       "id": "4955846",
       "time": "2026-06-26 03:54:00",
@@ -155474,19 +155506,6 @@
         "Important"
       ],
       "text": "United States | Net LongTerm International Capital Flows (Apr) | actual 26100000000B | previous 150700000000B"
-    },
-    {
-      "id": "mkt:019edc50-b51b-7dd8-b087-b42de64760f2",
-      "time": "2026-06-19 03:58:57",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bearish",
-        "Brent",
-        "S&P500",
-        "Impact bullish"
-      ],
-      "text": "According to the AP, sources say U.S. Middle East envoy Sweetkof told U.S. lawmakers Iran will invite the U.N. nuclear watchdog (IAEA) to inspect its nuclear facilities."
     }
   ]
 }
