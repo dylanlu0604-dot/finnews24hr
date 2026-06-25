@@ -1,7 +1,295 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-06-26 03:51:55_
-_本檔包含 3461 則快訊，約 618861 字_
+_更新時間：2026-06-26 04:50:00_
+_本檔包含 3466 則快訊，約 618596 字_
+
+---
+
+### 2026-06-26 04:48:12  #MKT News #Market Themes #AI Revolution #Nasdaq100 #Impact bearish #S&P500 #DXY #Impact bullish
+
+【SpaceX slide alarms markets; OpenAI may delay IPO until next year】The New York Times, citing three people involved in internal discussions, reports OpenAI is leaning toward postponing an IPO until next year; the company had targeted as early as Q3–Q4 this year. CEO Sam Altman pushed advisers to aim for a $1 trillion valuation. Recent developments — most notably Musk’s SpaceX post-IPO share slide, which fell to $153 on Thursday from a $202 peak last week — and recent tech-led market volatility forced OpenAI executives to abandon their aggressive timetable. Two people said advisers warned last week that retail investors may not show strong demand for the stock.
+
+---
+
+### 2026-06-26 04:43:50  #公司 #國際
+
+【伊朗：駛離指定航線的船舶將不享有安全保障】伊朗波斯灣海峽管理局26日在社交媒體釋出公告稱，所有透過霍爾木茲海峽的船舶須按照規定的航線和程式通行，擅自駛離指定航線的船舶將不享有安全保障及相關保險保障。公告稱，因擅自駛離指定航線而產生的一切後果，將由船舶所有人、經營人及船長自行承擔。此前，伊朗方面19日釋出通知說，在諒解備忘錄規定的時間範圍內，凡按照要求向波斯灣海峽管理局提交通航申請的船舶，其通航安排將得到迅速辦理。相關要求包括：須在抵達海峽區域48小時以前提交申請；須向該部門網站或郵箱提交申請；須按公告時間提前進行航線和通航時段協調等。（新華社）
+
+---
+
+### 2026-06-26 04:41:56  #公司
+
+【報道：OpenAI 傾向於等到明年再進行IPO】據紐約時報報道：三名參與公司上市籌備討論的知情人士透露，OpenAI 傾向於將首次公開募股推遲至明年。這一轉變凸顯出當下快速崛起的 AI 巨頭前路充滿不確定性。知情人士稱，公司此前聘請投行與律所，計劃最早於今年三、四季度完成上市。內部人士表示，CEO 山姆・奧特曼要求顧問團隊想出方案，讓這家初創企業上市估值達到 1 萬億美元 （其最新一輪私募估值僅 730 億美元）。但近期一系列連鎖事件，讓 OpenAI 管理層不得不擱置激進的上市目標。最核心的顧慮來自埃隆・馬斯克旗下 SpaceX 本月上市後的表現。知情人士表示，過去一週 OpenAI 顧問團隊在溝通中向公司警示：散戶投資者大機率不會對其股票抱有太高熱情。OpenAI 顧問團隊向管理層提供兩條方案：一是等到 2027 年再上市，衝擊萬億估值；二是下調目標估值，加快上市程序。一名與奧特曼就此溝透過的人士透露，奧特曼明確表示，任何下調萬億估值的方案都完全不可接受。
+
+---
+
+### 2026-06-26 04:38:30  #MKT News #JPM.N #Impact bullish
+
+Sources said the JP Morgan (JPM.N) board wants Jamie Dimon to remain CEO for several years and that he would become executive chairman after stepping down.
+
+---
+
+### 2026-06-26 04:37:34  #MKT News
+
+【Lithuanian president nominates Sinkevičius as new prime minister】President Nausėda on the evening of the 25th nominated Social Democratic chairman Mindaugas Sinkevičius as candidate for prime minister. Parliament is scheduled to vote on the new government on the 30th. The Ruginienė government resigned on the 23rd and is serving in a caretaker capacity. Under Lithuanian law the new PM is proposed by the Social Democratic Party, which holds the largest number of seats in parliament.
+
+---
+
+### 2026-06-26 04:37:00  #MKT News #JPM.O
+
+Sources say JP Morgan CEO Dimon is expected to remain CEO for three more years.
+
+---
+
+### 2026-06-26 04:36:12  #Trading Economics #Markets #United States #Stock Market #Importance 2
+
+US Stocks Close Mixed — US equities finished mixed on Thursday, with the S&P 500 flat, the Nasdaq 100 falling 0.5%, and the Dow Jones up 0.1%. Investors reassessed their exposure to mega-cap tech stocks while also weighing robust economic data. While optimism toward semiconductors and AI-related demand remained intact, concerns over the heavy concentration of market gains in a handful of hyperscale and software companies weighed on broader indices. Micron rallied over 15% after stronger-than-expected earnings and a bullish revenue forecast of $50 billion for the August quarter, while Qualcomm rose 10% after doubling its projection for non-handset revenue in the next three years. On the other hand, Nvidia, Oracle, Amazon, Alphabet, and Microsoft saw losses ranging between 1.5% and 3.2%. Apple plunged 6.1%, after lifting prices on MacBook and iPad products, pointing to surging input costs, particularly for chips and other key components.
+
+---
+
+### 2026-06-26 04:35:57  #MKT News
+
+A Colombian carrier said it will resume scheduled flights to Valencia, Venezuela from Thursday afternoon.
+
+---
+
+### 2026-06-26 04:35:46  #其他
+
+巴拿馬航空表示，將持續暫停往返加拉加斯的航班至 7 月 2 日，期間將視運營狀況重新評估。
+
+---
+
+### 2026-06-26 04:35:23  #MKT News #Important #Market Themes #AI Revolution
+
+New York Times reports OpenAI is leaning toward waiting until next year to pursue an IPO.
+
+---
+
+### 2026-06-26 04:35:14  #公司 #觀點
+
+訊息人士：摩根大通董事會希望傑米・戴蒙繼續擔任執行長數年，戴蒙或將繼續擔任執行長三年。戴蒙卸任執行長後，將轉任執行董事長一職。
+
+---
+
+### 2026-06-26 04:35:14  #Trading Economics #Markets #United States #Stock Market #Importance 1
+
+The Dow Jones Index Closes 0.09% Higher — The Dow Jones Index went up by 49 points or 0.09 percent on Thursday to close at 51898 points. The rise was led by Caterpillar (6.09%), Merck (4.03%) and UnitedHealth (2.42%). On the downside, the weakerst performers were Apple (-6.41%), Microsoft (-3.46%) and McDonalds (-3.41%).
+
+---
+
+### 2026-06-26 04:34:10  #其他
+
+房地美：5 月抵押貸款相關投資組合未償還本金總額（UPB）減少約 46 億美元。
+
+---
+
+### 2026-06-26 04:33:43  #國際
+
+美國國防部長皮特·赫格塞思：動員國防部支援委內瑞拉人民。
+
+---
+
+### 2026-06-26 04:33:03  #公司 #其他 #焦點
+
+據紐約時報：OpenAI 傾向推遲至明年再啟動 IPO 上市。
+
+---
+
+### 2026-06-26 04:32:51  #其他
+
+房地美：5 月獨棟住宅抵押貸款逾期率維持 0.59% 不變。 多戶住宅抵押貸款逾期率從 4 月的 0.43% 升至 5 月的 0.47%。
+
+---
+
+### 2026-06-26 04:31:33  #MKT News
+
+【Trump to nominate FCC general counsel Adam Candeub to lead DOJ antitrust division】People familiar with the matter say the White House plans to nominate FCC general counsel Adam Candeub to head the DOJ antitrust division. DOJ staff were notified this week and the nomination is expected to be announced shortly. Candeub met with Trump earlier this week. He served as a senior official in Trump’s first administration and co-authored sections of the Heritage Foundation’s Project 2025 report, which has informed several proposals in Trump’s second-term policy blueprint.
+
+---
+
+### 2026-06-26 04:31:16  #MKT News #US10Y #Impact bullish
+
+Foreign official holdings of US Treasuries rose by $5.656 bln in the week to June 19, compared with a net decline of $2.118 bln in the prior week.
+
+---
+
+### 2026-06-26 04:31:09  #央行 #市場 #國際
+
+美國至6月19日當週外國央行持有美國國債 56.56億美元，前值-21.18億美元。
+
+---
+
+### 2026-06-26 04:30:57  #MKT News #Economic Calendar #Important
+
+United States | US Treasuries held by Foreign Central Banks (Jun.19) | actual 5656000000B | previous -2118000000B
+
+---
+
+### 2026-06-26 04:30:17  #公司 #市場
+
+Rocket Lab美股盤後漲幅擴大至5%，該公司贏得一份NASA合同。
+
+---
+
+### 2026-06-26 04:24:11  #MKT News
+
+California, citing concern the rules could be withdrawn, is seeking a court order to block the U.S. Environmental Protection Agency (EPA) from submitting vehicle emissions rules to Congress.
+
+---
+
+### 2026-06-26 04:22:03  #國際
+
+加利福尼亞州申請法院禁令，阻止美國環保署將機動車排放法規提交國會、以防相關規定遭撤銷。
+
+---
+
+### 2026-06-26 04:19:30  #MKT News #Market Themes #AI Revolution
+
+The Information reports the Trump administration asked OpenAI to stagger the rollout of new models for safety reasons.
+
+---
+
+### 2026-06-26 04:19:16  #國際
+
+【特朗普尋求為陷入困境的美國農民提供111億美元新援助】美國總統特朗普為當地時間週四晚些時候受邀在白宮共進晚餐的農民們準備了一個驚喜：他向國會提出請求，要求提供111億美元的援助資金，其中包括100億美元的農作物種植者援助資金，以及11億美元用於幫助受冬季風暴影響的佛羅里達州農業生產者。這將是陷入困境的農業部門在年內獲得的第二次紓困。
+
+---
+
+### 2026-06-26 04:18:56  #國際
+
+市場訊息：美國政府要求 OpenAI 分階段釋出新款大模型，出於安全考量，OpenAI 將分階段推出新款模型。
+
+---
+
+### 2026-06-26 04:18:15  #公司
+
+安森美半導體將按大約70億美元估值收購Synaptics Inc.。 Synaptics 股東將持有合併後公司約 12% 股份。
+
+---
+
+### 2026-06-26 04:16:56  #其他
+
+安森美半導體：安森美半導體將收購 SYNAPTICS，以推動下一代物理AI智慧系統的開發。
+
+---
+
+### 2026-06-26 04:16:16  #MKT News #Market Themes #The Trump Trade
+
+Trump plans to nominate telecom-law expert Adam Candeub as head of the Justice Department’s Antitrust Division.
+
+---
+
+### 2026-06-26 04:15:47  #公司
+
+可口可樂公司宣佈北美業務單元管理層人事調整。
+
+---
+
+### 2026-06-26 04:11:56  #國際
+
+美國國家航空航天局選定火箭實驗室執行太陽與地球科學探測任務。
+
+---
+
+### 2026-06-26 04:11:41  #其他
+
+巴西總統盧拉：地震發生後已與委內瑞拉羅德里格斯通電話，已告知羅德里格斯，我方將提供一切所需援助。
+
+---
+
+### 2026-06-26 04:07:36  #MKT News #Star Stocks #Alphabet #Market Themes #Magnificent 7 #GOOGL.O #Impact mixed
+
+The Information reports Google's AI project is pressing publishers to allow their content to be used to train AI models.
+
+---
+
+### 2026-06-26 04:05:15  #公司
+
+市場訊息：谷歌 AI 試點專案施壓出版商，允許其內容用於 AI 模型訓練。
+
+---
+
+### 2026-06-26 04:03:45  #MKT News
+
+Market sources: I-Pulse Inc., co-founded by Robert Friedland, is set to receive US$250m in U.S. funding to develop semiconductor and pulsed-power technologies.
+
+---
+
+### 2026-06-26 04:03:23  #MKT News
+
+Dow Jones Industrial Average closed up 71.72 points (+0.14%) at 51,920.62 on Thursday, June 25. S&P 500 closed down 0.33 points (0.00%) at 7,357.89. Nasdaq Composite closed down 118.03 points (-0.46%) at 25,358.60.
+
+---
+
+### 2026-06-26 04:02:49  #MKT News #Market Themes #AI Revolution
+
+According to The Information, Vaudit, a vendor of AI billing-audit tools, says its data show billing errors may have led some customers to overpay for ANTHROPIC and OpenAI products.
+
+---
+
+### 2026-06-26 04:01:49  #市場
+
+蘋果股價收盤下跌6.1%，創2025年4月以來最大跌幅。
+
+---
+
+### 2026-06-26 04:01:42  #市場
+
+Hertz收跌11%，使得最近兩個交易日累計下跌47%。
+
+---
+
+### 2026-06-26 04:01:17  #MKT News #Important #Star Stocks #Apple #Microsoft #Alibaba #Market Themes #Magnificent 7 #AAPL.O #Impact bearish #MU.O #Impact bullish #BABA.N
+
+【US close: major indexes mixed; Apple falls over 6%】US equities closed mixed on Thursday: the Dow Jones Industrial Average rose 0.14%, the S&P 500 was marginally lower and the Nasdaq Composite fell 0.46%. Apple (AAPL.O) slid 6.1%, leaving its market value close to dipping below $4 trillion. Micron Technology (MU.O) jumped 15.7% and Qualcomm (QCOM.O) gained 3.7%; Microsoft (MSFT.O) dropped more than 3%. The Nasdaq Golden Dragon China Index fell 2.7%, with Alibaba (BABA.N) down 4.7%.
+
+---
+
+### 2026-06-26 04:01:08  #央行 #國際
+
+美聯儲威廉姆斯：我預計未來幾個季度通脹資料將小幅回落，原因有四點： 第一，關稅帶來的影響基本已消化完畢； 第二，基準情景假設霍爾木茲海峽相關供應中斷問題會較快得到解決； 第三，住房通脹增速將持續放緩； 第四，目前沒有跡象顯示勞動力市場會推高物價。
+
+---
+
+### 2026-06-26 04:00:48  #市場 #焦點
+
+【美股收盤：三大股指集體漲跌不一】道指漲0.15%，標普500指數跌0.01%，納指跌0.52%。Strategy跌9.27%，閃迪漲22.01%，Techne Corporation漲20.08%。“七姐妹”方面：特斯拉跌0.22%，谷歌跌0.96%，英偉達跌1.65%，Meta Platforms跌2.70%，亞馬遜跌3.11%，微軟跌3.69%，蘋果跌6.42%。
+
+---
+
+### 2026-06-26 04:00:02  #市場 #焦點
+
+【納斯達克中國金龍指數收跌2.74%】海天網路跌17.57%，攜程跌12.56%，中比能源跌11.76%，叮咚買菜跌8.05%，優品車跌7.03%。
+
+---
+
+### 2026-06-26 03:57:37  #其他
+
+“大空頭”Michael Burry：加倉FISERV、京東和奧多比。
+
+---
+
+### 2026-06-26 03:57:16  #MKT News #Macro & Rates #DXY #Impact bullish #US10Y #Impact mixed #XAUUSD #Impact bearish
+
+【Fed's Williams: Current policy stance can return inflation to 2%】Williams said the current monetary policy stance is well positioned to return inflation to the Fed's 2% target but acknowledged material risks remain to fulfilling the central bank's dual mandate. He said inflation is undoubtedly elevated and well above the Committee's 2% goal, and he expects inflation to ease modestly over the next few quarters, though significant risks persist.
+
+---
+
+### 2026-06-26 03:55:29  #公司 #國際
+
+美國投資公司協會 (ICI) 資料：貨幣市場基金規模降至 7.9 萬億美元。
+
+---
+
+### 2026-06-26 03:54:00  #其他
+
+“大空頭”Michael Burry： 已平掉一半Palantir空頭倉位。
+
+---
+
+### 2026-06-26 03:52:45  #其他
+
+【立陶宛總統提名辛克維丘斯出任新總理】立陶宛總統瑙塞達25日晚向議會提名立陶宛社會民主黨主席明道加斯·辛克維丘斯為新總理候選人。據立陶宛國家廣播電視臺報道，議會將於30日投票選舉新政府總理。魯吉尼埃內政府已於23日宣佈總辭職，現為看守政府。根據立陶宛法律，新總理由議會中擁有最多席位的社會民主黨推薦。（新華社）
 
 ---
 
@@ -20585,285 +20873,5 @@ Metals Commodities Updates: Silver Slumps by 6.24% — Top commodity losers are 
 ### 2026-06-25 06:32:01  #公司
 
 【直接融資勢頭超過信貸，金融“脫媒”深化倒逼銀行轉型】一家股份行支行的對公條線人士，最近察覺到一些變化：部分7年期、10年期乃至更長期限的固定資產貸款到期後，企業主動選擇不再續貸；與此同時，越來越多優質客戶將融資主渠道從銀行轉向債券市場。種種跡象表明，金融“脫媒”趨勢愈發明顯，資金開始繞開銀行等金融中介，直接進行交易。在這種情況下，銀行的角色將迎來重塑。未來，銀行不再只是“放貸者”，而將轉型為“服務中介”，以綜合服務能力重新定義自身價值。（上證報）
-
----
-
-### 2026-06-25 06:30:25  #MKT News
-
-Volkswagen will sell a 51% stake in Everllence and remain a 49% principal shareholder in the medium term. The automaker said the planned leveraged buyout would generate roughly €7.4 billion.
-
----
-
-### 2026-06-25 06:30:17  #Trading Economics #Markets #Commodity #Importance 1
-
-Energy Commodities Updates: Brent Crude Oil Plunges by 5.20% — Top commodity losers are Brent Crude Oil (-5.20%), Crude Oil WTI (-4.66%) and Methanol (-3.99%). Gains are led by Natural gas (2.25%) and Heating Oil (0.68%).
-
----
-
-### 2026-06-25 06:26:57  #其他
-
-大眾汽車：Everllence 相關槓桿收購交易完成後，大眾將獲得約 74 億歐元資金。
-
----
-
-### 2026-06-25 06:26:36  #央行 #國際
-
-【週四重要財經資訊提醒（以下均為北京時間）】
-① 09:30 澳大利亞5月就業報告（含就業人數和失業率）；
-② 時間待定 日本央行審議委員田村直樹發表講話；
-③ 15:00 商務部召開6月第4次例行新聞釋出會；
-④ 16:00 歐洲央行釋出經濟報告；
-⑤ 17:00 歐洲央行管委、法國央行行長Moulin講話；
-⑥ 18:00 歐洲央行首席經濟學家Lane講話；
-⑦ 20:00 歐洲央行執委Cipollone講話，法國央行行長Moulin講話；
-⑧ 20:30 美國5月個人收入、個人消費開支（PCE），5月耐用品訂單初值，6月20日當週首次申請失業救濟人數；
-⑨ 20:45 美聯儲理事鮑曼談論小型銀行監督管理；
-⑩ 次日02:00 美國芝加哥聯儲主席Goolsbee（2027年FOMC票委）參加CNBC一個節目；
-⑪ 次日03:00 墨西哥央行公佈利率決議；
-⑫ 次日03:40 美國紐約聯儲主席（享有FOMC永久投票權、號稱美聯儲三把手）威廉姆斯講話；
-⑬ 次日06:30 美國芝加哥聯儲主席Goolsbee（2027年FOMC票委）討論塑造貨幣政策的那些因素。
-
----
-
-### 2026-06-25 06:25:27  #其他
-
-大眾汽車：與貝恩資本簽署獨家協議，擬出售旗下 Everllence 多數股權。
-
----
-
-### 2026-06-25 06:25:12  #其他
-
-【資金湧入科技成長ETF】在近期的震盪行情中，股票型ETF資金面總體淨流出，但半導體、通訊等科技成長賽道逆勢“吸金”。面對資金湧入，部分績優基金限購升級，也有基金大手筆分紅以控制規模。站在當前時點看，科技成長行情還能否持續？市場風格分化能否收斂？機構間的分歧正在加大。（上證報）
-
----
-
-### 2026-06-25 06:24:42  #MKT News
-
-U.S. issues tsunami warning: coastal areas within 300 km of the earthquake epicenter in Venezuela may experience dangerous tsunami waves.
-
----
-
-### 2026-06-25 06:23:42  #公司 #市場
-
-【年內淨自購逾70億元，公募基金釋放看多訊號】今年以來，公募基金持續出手自購，用真金白銀加碼A股市場、傳遞看多信心。Choice資料顯示，截至6月24日，年內公募基金對旗下產品的淨申購金額達73.5億元。其中，權益類產品成為資金佈局的核心，釋放出公募基金積極看多A股後市的訊號。具體來看：國泰中證A500ETF淨申購金額為4.7億元，在權益類產品中排名首位；東方紅慧鑫甄選6個月持有混合A淨申購金額為1.9億元，排名第二位；建信開元耀享9個月持有期混合發起A、富國鑫匯養老目標日期2035三年持有期混合發起式(FOF)A、國泰穩健收益一年持有混合、華泰紫金策略精選混合A、睿遠研選均衡三年持有混合發起式等產品的淨申購金額均超過1億元。從機構分佈看，頭部基金公司是自購主力軍：截至6月24日，國泰基金以年內淨申購旗下基金14.5億元居首；華寶基金緊隨其後，淨申購8.4億元；永贏基金、廣發基金、招商基金和嘉實基金年內淨申購金額均突破5億元。（上證報）
-
----
-
-### 2026-06-25 06:23:41  #MKT News
-
-【Around magnitude-7 quake off Venezuela's northern coast; US issues tsunami warning】At 17:04 local time on June 24 an earthquake struck off Venezuela's northern coast. Colombia's Geological Service reported a magnitude 7.5 quake, epicentre at 10.89°N, 67.74°W, depth under 30 km; the USGS reported a 7.1 quake near Morón. The US Tsunami Warning System issued a tsunami threat alert. Authorities are monitoring; there are no official reports of casualties or damage.
-
----
-
-### 2026-06-25 06:23:05  #國際
-
-【委內瑞拉發生7級左右地震 美國發布海嘯預警】當地時間6月24日17時04分，委內瑞拉北部海岸附近發生7.5級地震。根據哥倫比亞地質局釋出的最新地震通報，震中位於北緯10.89度、西經67.74度，震源深度小於30公里。目前，相關部門正持續監測地震影響，暫無人員傷亡和財產損失的官方報告。當地時間6月24日，美國地質調查局表示，委內瑞拉莫龍地區發生7.1級地震。美國海嘯預警系統在地震後釋出海嘯威脅警報。（央視新聞）
-
----
-
-### 2026-06-25 06:22:04  #國際
-
-美國海嘯預警系統：委內瑞拉震中周邊 300 公里範圍內海岸或出現危險性海嘯巨浪。
-
----
-
-### 2026-06-25 06:21:05  #公司 #市場
-
-【6月25日美股成交額前20：美光科技盤後大漲 營收翻兩番 毛利率躍升近85%】週三美股成交額第1名美光科技，收跌0.31%，成交671.11億美元。 美光科技美股盤後釋出財報，營收較一年前的93億美元大幅增長。對於當前季度，公司預計營收約為500億美元，而一年前同期僅為113億美元。根據LSEG的資料，分析師此前的營收預測為435.8億美元。該公司在第三財季的營收翻了兩番以上。受此訊息提振，該股在盤後交易中上漲超10%。 美光科技表示，受AI驅動的需求影響，預計記憶體供應緊張的局面將持續至2027年之後。公司還表示，已與資料中心運營商和汽車製造商等客戶簽署了16項長期協議，鎖定了為期3至5年的銷售額。 美光科技毛利率躍升至84.9%，高於上一季度的74.9%以及去年同期的39%。這一利潤率表現同樣超出了分析師的預期。 當季公司淨利潤為282.4億美元，合每股24.46美元；而去年同期淨利潤為18.9億美元，合每股1.68美元。
-
----
-
-### 2026-06-25 06:20:47  #公司
-
-【多家A股公司主動補稅，折射企業稅務合規新常態】近期，多家A股上市公司釋出補稅公告，涉及電子、化工、醫藥、環保等行業，引發市場關注。記者採訪財稅專家及上市公司後瞭解到，補稅主要緣於上市公司開展的稅務合規自查，屬於常態化經營和法律合規行為。中山大學法學院教授楊小強表示，上市公司補稅公告多集中在5月下旬至6月上旬，主要原因是年報披露、彙算清繳與資訊披露三個時限節點交匯，形成釋出公告的視窗期。（上證報）
-
----
-
-### 2026-06-25 06:20:18  #MKT News
-
-U.S. tsunami warning system: after an earthquake in Venezuela, Puerto Rico and the U.S. Virgin Islands face a tsunami threat.
-
----
-
-### 2026-06-25 06:20:00  #國際
-
-美國海嘯預警系統：委內瑞拉發生地震後，波多黎各、維爾京群島面臨海嘯威脅。
-
----
-
-### 2026-06-25 06:18:33  #MKT News #Important
-
-USGS reported a magnitude-7.1 earthquake in Venezuela's Morón region.
-
----
-
-### 2026-06-25 06:18:09  #國際
-
-美國國家氣象局太平洋海嘯預警中心：委內瑞拉沿岸或將出現危險海嘯巨浪。
-
----
-
-### 2026-06-25 06:17:05  #MKT News
-
-U.S. tsunami warning system issued a tsunami threat alert after an earthquake off the coast of Venezuela.
-
----
-
-### 2026-06-25 06:17:01  #其他
-
-中國地震臺網自動測定：06月25日06時04分在委內瑞拉附近（北緯10.71度，西經67.84度）發生6.7級左右地震，最終結果以正式速報為準。
-
----
-
-### 2026-06-25 06:15:17  #Trading Economics #Markets #Currency #Importance 1
-
-FX Updates: Norwegian Krone Drops by 0.59% — Top currency losers are Norwegian Krone (-0.59%), Mexican Peso (-0.38%), New Zealand Dollar (-0.33%), British Pound (-0.30%), Euro (-0.22%) and Japanese Yen (-0.14%). Gains are led by Indian Rupee (0.41%) and Dollar Index (0.17%).
-
----
-
-### 2026-06-25 06:15:09  #宏觀
-
-【嚴控風格漂移，公募分階段糾偏“盲盒基金”】“盲盒基金”的整改進入倒計時。近期，基金投資風格監督自律規則出臺，劍指主題基金監督管理、嚴控風格漂移現象。上海證券報記者從業內瞭解到，部分公募機構快速響應，已按新規將風格糾偏工作分為“摸排，更新，調倉”三個階段，並有序推進。據第三方機構統計，當前公募主題基金規模近3萬億元，涉及約2500只基金。隨著糾偏工作推進，基民投資“開盲盒”的困擾將得到改善。（上證報）
-
----
-
-### 2026-06-25 06:13:50  #其他
-
-德國地學研究中心GFZ：委內瑞拉沿海發生6.39級地震。
-
----
-
-### 2026-06-25 06:13:38  #其他
-
-【2036年奧運會舉辦地2029年敲定 奧運設項評估轉向分項】國際奧委會第146次全會24日透過兩項重要改革方案，分別涉及奧運會舉辦地遴選程式和奧運專案設定方法。根據新的遴選程式，2036年奧運會舉辦地將於2029年產生；一套以競賽“分項”為基礎的評估新方法，則將為奧運專案設定注入更多靈活性。自去年6月接替前任主席巴赫執掌國際奧委會以來，考文垂啟動了以“適應未來”為主題的系列改革，最佳化奧運會舉辦地遴選程式正是其中的重要內容。此前，2028年奧運會和2032年奧運會的舉辦城市均提前11年產生。（央視新聞）
-
----
-
-### 2026-06-25 06:11:59  #MKT News
-
-GFZ reported a magnitude 6.39 earthquake off Venezuela's coast.
-
----
-
-### 2026-06-25 06:11:49  #MKT News #MU.O #Impact bullish #QCOM.O
-
-【Micron tops estimates, jumps 15% after-hours; Qualcomm up on bullish AI outlook】Chip stocks rallied in after-hours trading Wednesday after Micron Technology (MU.O) reported results and guidance above expectations; its shares rose about 15% after hours and were roughly 270% YTD at Wednesday’s close. Qualcomm (QCOM.O) also rallied, gaining as much as 15% after management at an investor day outlined an expanded AI/data-center push and said its data-center chip expansion will deliver "billions of dollars" of revenue in the fiscal year beginning in October.
-
----
-
-### 2026-06-25 06:07:23  #MKT News
-
-【AI-driven debt surge sets record as US investment-grade issuance hits $175bn in June】US investment-grade corporate bond issuance hit a record in June, totaling $175bn, driven by strong investor demand and large borrowings tied to AI infrastructure spending, according to a Bloomberg compilation. The amount was about 60% above June 2025's level and surpassed the 2020 post-COVID near-zero-rate peak. NVIDIA and SpaceX each sold $25bn of investment-grade bonds this month, pushing issuance well past dealers' prior estimate of roughly $130bn for June.
-
----
-
-### 2026-06-25 06:06:57  #公司 #國際
-
-【攜程2026Q1淨收入162億，Q2預期大幅放緩，或創四年來最慢季度增速】2026年第一季度，攜程集團（9961.HK/TCOM）實現淨收入人民幣162億元，同比增長17%，經調整EBITDA為人民幣48億元，同比增長14%。分業務看，住宿預訂收入65億元，同比增長17%；交通票務收入61億元，同比增長12%；旅遊度假收入11億元，同比增長19%；商旅管理收入6.9億元，同比增長20%。各業務板塊均受益於集團全球化業務拓展及國際旅遊需求的持續增長。本季度攜程國際線上旅遊平臺預訂同比增長約65%，入境遊預訂同比增長約90%，增長動力來自亞太、歐洲和美國等主要客源市場的廣泛需求，來自歐洲及美國的遊客約佔入境遊客總量的25%。攜程已設定未來五年服務2億入境遊客的戰略目標。展望第二季度，攜程預計淨收入同比增長將大幅放緩至最低約3%，剔除三年疫情衝擊，該增速為攜程上市以來單季最低增速。公司表示，這一結果主要受到高能源價格和地緣政治波動等宏觀不利因素的直接和間接影響，與此同時，公司也針對行業標準和合規框架的最新變化，主動進行了相應的運營調整。
-
----
-
-### 2026-06-25 06:01:57  #MKT News #Important #Market Themes #Chip Wars #Nasdaq100 #Impact bullish #MU.O
-
-Nasdaq futures opened 2% higher on Friday, lifted by after-hours gains in chip stocks including Micron Technology (MU.O).
-
----
-
-### 2026-06-25 06:01:43  #市場 #焦點
-
-【納指期貨高開1.5%】受美光亮眼業績推動，美股期指早盤集體高開，道瓊斯指數期貨漲0.65%，標普500指數期貨漲0.56%，納斯達克100指數期貨漲1.47%。
-
----
-
-### 2026-06-25 06:01:36  #其他
-
-攜程第一季度調整後每ADS收益5.73元人民幣，預估6.09元人民幣。
-
----
-
-### 2026-06-25 06:01:08  #央行 #國際
-
-【美聯儲7月維持利率不變的機率為65.8%】據CME“美聯儲觀察”：美聯儲7月維持利率不變的機率為65.8%，累計加息25個基點的機率為34.2%。 美聯儲到9月維持利率不變的機率為33.6%，累計加息25個基點的機率為49.7%，累計加息50個基點的機率為16.7%。
-
----
-
-### 2026-06-25 05:59:00  #公司 #市場 #央行 #國際
-
-【6月25日隔夜要聞一覽】
-1、特朗普回應拒籤住房法案：比任何人都懂房地產，降息才是關鍵。
-2、特朗普：不接受美伊協議包含任何涉及航運的費用。
-3、美國國務卿魯比奧：美伊技術性談判將於月底恢復。
-4、美國大型銀行透過美聯儲壓力測試，為派息和回購鋪平道路。
-5、原油價格已悉數回吐伊朗戰爭期間的漲幅。WTI下跌，最終結算價在每桶70美元附近，創下2月底伊朗戰爭爆發之前以來的最低水平。布倫特原油下跌，結算價跌破每桶74美元，為戰爭爆發以來的新低。
-6、美光科技盤後大漲，營收翻兩番，毛利率躍升近85%。
-7、OpenAI：推出全新版本GPT-5.5 Instant，對話體驗趣味感大幅提升。今日起向付費使用者推送上線，明日開放給免費使用者使用。
-8、谷歌再有兩名重磅AI核心研究員跳槽至Anthropic，股價下挫。
-9、比特幣跌回6萬美元下方。CoinGlass彙編的資料顯示，過去24小時，近8億美元加密貨幣多頭頭寸被強制平倉。
-
----
-
-### 2026-06-25 05:48:10  #國際
-
-北約秘書長呂特：與特朗普討論了烏克蘭問題，特朗普承認烏克蘭局勢有所好轉。
-
----
-
-### 2026-06-25 05:47:39  #市場 #央行 #國際
-
-【渣打：美國經濟的“例外論”可能會支撐美元走強】儘管布倫特原油價格已回落至伊朗戰爭爆發前的水平，緩解了通脹擔憂，但受美聯儲發出的鷹派訊號以及市場對AI相關股票漲勢可持續性的重新擔憂影響，新興市場資產的波動性日益加劇。渣打銀行駐紐約美洲經濟學家Dan Pan表示：“美國經濟的‘例外論’可能會支撐美元走強。”不過她也表示，聯邦公開市場委員會（FOMC）會議後市場的部分反應“可能有些過度”，並且“如果美聯儲維持利率不變，這也可能提振市場對新興市場資產的風險偏好。”
-
----
-
-### 2026-06-25 05:45:23  #Trading Economics #Markets #commodity #Importance 0
-
-Platinum is down by 6.55% — Platinum decreased 6.55% to 1553.2 USD/t.oz
-
----
-
-### 2026-06-25 05:43:55  #國際
-
-北約秘書長呂特： 特朗普正大力推動北約理順各項事務。
-
----
-
-### 2026-06-25 05:39:57  #國際
-
-北約秘書長呂特：我完全確信，美國必要時會保護歐洲。
-
----
-
-### 2026-06-25 05:39:11  #其他
-
-【哥倫比亞官方確認德拉埃斯普列亞當選新任總統】哥倫比亞全國選舉委員會24日確認，極右翼候選人德拉埃斯普列亞當選該國新任總統。(新華社)
-
----
-
-### 2026-06-25 05:31:47  #MKT News
-
-【DRC Ebola outbreak still spreading; WHO says response lagging, vaccine R&D must accelerate】WHO said the Ebola outbreak in the Democratic Republic of Congo is still spreading rapidly and response efforts are lagging, with frontline health workers facing severe safety risks and containment confronting multiple major challenges. UNICEF and Gavi urged acceleration of vaccine development and supply for the Bundibugyo ebolavirus. Gavi plans to transfer R&D materials to manufacturers shortly and expects to have doses prepared and to begin trials by end-2026.
-
----
-
-### 2026-06-25 05:29:48  #國際
-
-北約秘書長呂特：特朗普還希望北約盟友增加開支。
-
----
-
-### 2026-06-25 05:28:37  #國際
-
-北約秘書長呂特：特朗普堅定支援北約同盟。
-
----
-
-### 2026-06-25 05:25:31  #國際
-
-北約秘書長呂特：與特朗普的會談十分順利。
-
----
-
-### 2026-06-25 05:20:35  #MKT News #Market Regions #Wall Street (US) #JPM.O #Impact bullish #GS.O #MS.O
-
-【US big banks raise dividends after Fed stress tests; JP Morgan launches $50bn buyback】US large banks raised dividends after passing the Federal Reserve's annual stress tests, following gradual regulatory adjustments that have eased the test hurdle. JP Morgan raised its quarterly dividend to $1.65 from $1.50 and approved a $50 billion share buyback effective July 1. Wells Fargo raised its dividend to $0.50 from $0.45. Morgan Stanley raised its dividend to $1.15 from $1.00. Goldman Sachs raised its dividend to $5.00 from $4.50.
 
 ---
