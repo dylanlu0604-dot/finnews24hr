@@ -1,7 +1,97 @@
 {
-  "updated": "2026-06-25 22:28:15",
-  "count": 16961,
+  "updated": "2026-06-25 22:33:01",
+  "count": 16954,
   "items": [
+    {
+      "id": "mkt:019eff30-a795-7dd8-b11f-1df7dd446f11",
+      "time": "2026-06-25 22:30:39",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "EIA weekly gas storage: U.S. working gas at 2,835 Bcf for week ended June 19; injection +76 Bcf vs prior week; down 49 Bcf YoY (-1.7%) and 152 Bcf above five-year average (+5.7%)."
+    },
+    {
+      "id": "4955442",
+      "time": "2026-06-25 22:30:13",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "美國至6月19日當週EIA天然氣庫存 760億立方英尺，預期740億立方英尺，前值730億立方英尺。"
+    },
+    {
+      "id": "mkt:019eff30-331f-7dd8-b11f-119cdb87aeee",
+      "time": "2026-06-25 22:30:09",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "U.S. EIA natural gas storage for week to June 19: +76 Bcf; consensus +74 Bcf; prior +73 Bcf."
+    },
+    {
+      "id": "4955441",
+      "time": "2026-06-25 22:30:03",
+      "tags": [
+        "國際"
+      ],
+      "text": "【外媒：荷蘭遊說美國以阻止擴大對華出口半導體制造裝置限制】據俄羅斯衛星社6月24日轉引彭博社報道，荷蘭正試圖向美國施加影響力，以阻止華盛頓方面進一步限制荷蘭向中國出口半導體制造裝置。此前有媒體報道稱，美國曾試圖向荷蘭政府施壓，要求其對華實施更嚴格的半導體技術准入限制。據彭博社報道：“荷蘭正向美國施加影響，勸其不要擴大半導體制造裝置的出口管制範圍，因為此舉將限制荷蘭半導體製造商阿斯麥的對華銷售能力。”報道稱，23日，荷蘭外貿與發展合作大臣施賴納馬赫爾會見了美國商務部長霍華德·盧特尼克以及美國國會議員。施賴納馬赫爾在接受採訪時稱，此次訪美旨在向美國國會闡明荷蘭政府的擔憂。她補充稱：“我們之所以這樣做，是因為這些擔憂是實質性的，且事關荷蘭的重大利益。”（參考訊息）"
+    },
+    {
+      "id": "mkt:019eff30-1477-7dd8-b11f-0ef9554daa30",
+      "time": "2026-06-25 22:30:01",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | EIA Weekly Natural Gas Storage Change (Jun.19) | actual 76000000000B | consensus 74000000000B | previous 73000000000B"
+    },
+    {
+      "id": "4955440",
+      "time": "2026-06-25 22:29:38",
+      "tags": [
+        "市場"
+      ],
+      "text": "多倫多證券交易所指數擴大漲幅，上漲1%。"
+    },
+    {
+      "id": "4955439",
+      "time": "2026-06-25 22:29:05",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美國防部：“金穹”系統首次測試成功】據俄羅斯《生意人報》網站6月25日報道，美國國防部宣佈，已完成對“金穹”反導系統某元件的測試，測試中動用了鐳射和微波殺傷武器。美國國防部長皮特·赫格塞思親臨“金穹”系統首次測試現場，並對外公佈了相關情況。他在社交平臺X上寫道：“今天，‘金穹’系統首次測試取得圓滿成功。”2025年1月，美國總統唐納德·特朗普簽署了關於建立全球性多層次反導防禦系統“金穹”的命令。“金穹”的完整架構相當龐大。根據美方檔案及五角大樓官員的宣告，該系統應整合現有反導手段、新型預警系統、定向能武器以及太空探測與攔截能力。（參考訊息）"
+    },
+    {
+      "id": "em:qqyh_mlc:202606253783420795",
+      "time": "2026-06-25 22:27:49",
+      "tags": [
+        "央行",
+        "美聯儲"
+      ],
+      "text": "隨著美國最高法院完成意見書起草，美聯儲理事庫克案的裁決預計將於下週公佈。"
+    },
+    {
+      "id": "4955438",
+      "time": "2026-06-25 22:27:44",
+      "tags": [
+        "國際"
+      ],
+      "text": "【沙特主要石油碼頭即將重啟 波斯灣原油供應加快恢復】主要石油出口國沙烏地阿拉伯即將恢復在波斯灣內拉斯塔努拉碼頭的原油裝載作業，這是伊朗戰爭後中東石油供應恢復的一個里程碑時刻。根據彭博彙編的船舶追蹤資料，沙特油輪巨頭Bahri旗下的兩艘超大型原油運輸船正駛向碼頭內位於Ju’aymah的離岸裝載區。資料顯示，還有第三艘船停泊在附近。自3月初以來，該巨型碼頭一直未觀察到任何原油裝載活動。隨著戰爭期間被困在波斯灣內的原油得以流出，霍爾木茲海峽的重新開放使大量石油湧入全球市場。雖然一些海灣產油國在衝突期間繼續讓船隻關閉衛星應答器穿越該水道，但沙特的主要裝載碼頭此前一直處於沉寂狀態。此次拉斯塔努拉碼頭恢復執行，標誌著該地區朝著提升石油運輸量邁出重要一步。"
+    },
+    {
+      "id": "4955437",
+      "time": "2026-06-25 22:27:38",
+      "tags": [
+        "公司"
+      ],
+      "text": "【分眾傳媒創始人卸任法定代表人 公司稱仍為實控人不影響經營】近日，電梯媒體廣告行業龍頭分眾傳媒變更法定代表人，創始人江南春卸任，杭璇接棒。6月25日，分眾傳媒方面回應記者表示，“只是工商身份的變更，對經營沒有任何影響。”據透露，江南春仍為公司實控人，任分眾傳媒董事長兼總裁、執行長。杭璇目前在公司官網顯示的職位為“市場公關部市場總監”。（南方+）"
+    },
     {
       "id": "mkt:019eff2d-adbb-7dd8-b11f-0297ca80a9e0",
       "time": "2026-06-25 22:27:24",
@@ -154863,159 +154953,6 @@
         "MKT News"
       ],
       "text": "U.S. Supreme Court to release next set of opinions on June 23 (Tuesday). About 16 opinions remain pending, including cases on birthright citizenship, immigration protections, mail-in voting and the authority to remove federal officers."
-    },
-    {
-      "id": "4943796",
-      "time": "2026-06-18 22:32:51",
-      "tags": [
-        "國際"
-      ],
-      "text": "【歐盟計劃重新審視銀行業獎金與市場風險監管規則】根據一份預計將於下月公佈的提案草案，歐盟有望承諾重新審視其銀行業監管規則手冊中一些最具爭議的方面，包括對待未評級企業的方式、市場風險，以及相關的薪酬規定。歐盟計劃草案顯示，歐盟委員會將承諾採取一系列措施，包括：調查“現行薪酬規則的有效性及其對歐盟銀行業的影響”；提議修訂“銀行軟體資產投資的審慎處理方式，以確保該框架在審慎上穩健、與數字和網路風險環境相一致，併為銀行投資創新和數字韌性提供正確的激勵”。作為此次審查的一部分，銀行業提交了長達數千頁的訴求，呼籲進行重大改革。"
-    },
-    {
-      "id": "4943795",
-      "time": "2026-06-18 22:32:30",
-      "tags": [
-        "國際"
-      ],
-      "text": "印度外交秘書：印美貿易協定將是特朗普與莫迪會談的核心議題。"
-    },
-    {
-      "id": "4943794",
-      "time": "2026-06-18 22:32:01",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "美國天然氣期貨在能源資訊署公佈庫存增幅符合預期後，延續漲勢，上漲0.4%。"
-    },
-    {
-      "id": "4943793",
-      "time": "2026-06-18 22:31:34",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "【沃什希望美聯儲減少釋放訊號 但這可能加劇市場波動】分析師Colby Smith撰文指出，美聯儲主席沃什對未來利率路徑的看法守口如瓶，幾乎沒有提供任何明確指引。沃什的做法為美聯儲下一步行動保留了相當大的靈活性，但這也增加了一個風險：美聯儲主席可能無法牢牢掌控市場對於經濟走勢或央行政策反應的敘事方向，導致市場出現誤解，而誤解隨後又需要被澄清，從而加劇市場波動。巴克萊銀行美國首席經濟學家Marc Giannoni表示：“當你什麼都不說時，實際上就是把更多主動權交給市場。最終，他可能會對市場對於未來的判斷感到沮喪。”沃什的偏好似乎並不被其他同事共享。12家地區聯儲主席以及華盛頓聯邦儲備委員會委員仍會經常公開談論經濟前景以及在特定情況下政策可能如何變化。紐約梅隆投資管理高管Vincent Reinhart表示：“核心問題在於，持不同觀點的人會填補這一真空。”Reinhart預計，最活躍發聲的人將是那些支援加息的人，而這一陣營近幾個月顯著擴大。"
-    },
-    {
-      "id": "4943792",
-      "time": "2026-06-18 22:30:53",
-      "tags": [
-        "國際"
-      ],
-      "text": "【美解除中國玩具無人機進口禁令】美國聯邦通訊委員會（FCC）16日宣佈，將允許符合特定技術規格的中國新型玩具無人機進入美國市場銷售。據路透社報道，FCC在去年12月以“對美國國家安全構成不可接受的風險”為由，禁止所有新型外國無人機及其關鍵零元件進口，包括來自中國大疆創新和道通智慧的產品。然而，美國防部認為，“技術含量低、風險可控的玩具類”產品不構成國家安全威脅。根據該部門的調查結果，這類無人機在飛行距離、續航能力、感測功能、載荷能力、連線性及資料採集儲存等方面，均不具備傳統無人機的“內建功能與特性”。FCC對玩具無人機的認定設有嚴格限制，包括重量不得超過150克，操作必須在視線範圍內且距離不超過100米，無聯機或網路功能，不得配備攝像頭或任何具備監控、資料採集能力的感測器，單次最長飛行時間不得超過10分鐘。凡超出此範疇的機型，仍將受制於原有禁令。（環球網）"
-    },
-    {
-      "id": "4943791",
-      "time": "2026-06-18 22:30:38",
-      "tags": [
-        "市場"
-      ],
-      "text": "【給阿嬤的情書票房預測超19億】據燈塔專業版，由大麥娛樂出品的影片《給阿嬤的情書》AI票房預測上漲至超19億。"
-    },
-    {
-      "id": "mkt:019edb23-ee6e-7dd8-b081-21c6a243942b",
-      "time": "2026-06-18 22:30:24",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Energy"
-      ],
-      "text": "EIA: U.S. natural gas in storage for week ended June 12 was 2,759 Bcf, up 73 Bcf week-on-week, down 29 Bcf YoY (-1.0%), and 151 Bcf above the five-year average (+5.8%)."
-    },
-    {
-      "id": "4943790",
-      "time": "2026-06-18 22:30:10",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國至6月12日當週EIA天然氣庫存 730億立方英尺，預期750億立方英尺，前值1080億立方英尺。"
-    },
-    {
-      "id": "mkt:019edb23-b3d3-7dd8-b081-1d57c4f0294c",
-      "time": "2026-06-18 22:30:10",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Energy"
-      ],
-      "text": "U.S. EIA weekly natural gas storage for week ended June 12: injection of 73 bcf vs 75 bcf expected; prior 108 bcf."
-    },
-    {
-      "id": "mkt:019edb23-903b-7dd8-b081-1588e8f6514a",
-      "time": "2026-06-18 22:30:01",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "United States | EIA Weekly Natural Gas Storage Change (Jun.12) | actual 73000000000B | consensus 75000000000B | previous 108000000000B"
-    },
-    {
-      "id": "mkt:019edb23-7f32-7dd8-b081-0d0f4bc682e9",
-      "time": "2026-06-18 22:29:57",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "Israeli outlet i24News reports Pakistan's deputy foreign minister will represent Islamabad at the signing ceremony for a U.S.-Iran memorandum of understanding."
-    },
-    {
-      "id": "4943789",
-      "time": "2026-06-18 22:29:36",
-      "tags": [
-        "其他"
-      ],
-      "text": "巴基斯坦電視臺報道：巴基斯坦副外長將代表伊斯蘭堡出席簽署儀式。"
-    },
-    {
-      "id": "mkt:019edb23-2143-7dd8-b081-017ef0baeb35",
-      "time": "2026-06-18 22:29:32",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "US10Y",
-        "Impact mixed",
-        "DXY"
-      ],
-      "text": "【Kevin Warsh prefers less Fed signaling, but that may raise market volatility】Analyst Colby Smith says Fed Chair Kevin Warsh has been tight-lipped on the future rate path, offering almost no explicit guidance. That preserves the Fed’s policy flexibility but increases the risk that market narratives about the economy or policy reactions will diverge, requiring later clarification and amplifying volatility. Barclays U.S. chief economist Marc Giannoni warns that silence cedes initiative to the market and may leave Warsh frustrated by market judgments. Warsh’s reticence appears not to be shared across colleagues: a dozen regional Fed presidents and board members continue to speak publicly about the outlook and conditional policy moves. Vincent Reinhart at BNY Mellon Investment Management says dissenting voices will fill the vacuum and expects the most vocal will be those favoring rate hikes, a cohort that has expanded in recent months."
-    },
-    {
-      "id": "4943788",
-      "time": "2026-06-18 22:28:57",
-      "tags": [
-        "國際"
-      ],
-      "text": "巴基斯坦媒體訊息：巴基斯坦外交部副部長將前往瑞士。"
-    },
-    {
-      "id": "mkt:019edb22-23be-7dd8-b080-fbe1b04d0ae9",
-      "time": "2026-06-18 22:28:28",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【After US-Iran Islamabad memorandum, Iran president PEZESHKIAN speaks with Pakistan PM Shehbaz Sharif】Pakistan Prime Minister Shehbaz Sharif and Iran President PEZESHKIAN held their first phone call since the signing of the Islamabad memorandum between the United States and the Islamic Republic of Iran, the two sides said. Sharif congratulated the memorandum, saying it would help restore regional peace, support Iran’s reconstruction and deepen Pakistan-Iran cooperation; he also conveyed greetings to Supreme Leader Mojtaba Khamenei. PEZESHKIAN thanked Sharif and army chief Munir for their mediation role in securing the agreement and said Iran is willing to expand bilateral ties. Both agreed to make reciprocal capital visits soon to advance cooperation on bilateral and regional affairs."
-    },
-    {
-      "id": "4943787",
-      "time": "2026-06-18 22:28:25",
-      "tags": [
-        "國際"
-      ],
-      "text": "【伊美簽署諒解備忘錄後 伊朗總統與巴基斯坦總理首次通話】當地時間18日下午，巴基斯坦總理夏巴茲·謝里夫與伊朗總統佩澤希齊揚通電話，這是雙方自《美利堅合眾國與伊朗伊斯蘭共和國之間的伊斯蘭堡諒解備忘錄》簽署以來首次進行接觸。夏巴茲對該諒解備忘錄的簽署表示祝賀。他表示，這不僅有助於恢復地區和平，還將為伊朗的國家重建以及進一步加強巴伊兩國在各個共同關心領域的關係發揮重要作用。夏巴茲還向伊朗最高領袖穆傑塔巴·哈梅內伊轉達了誠摯問候。佩澤希齊揚對巴基斯坦總理和陸軍元帥穆尼爾推動調解程序、並在確保調解取得成功過程中發揮極其關鍵的作用表達了感謝。佩澤希齊揚還向巴基斯坦人民致以良好祝願，並表示願在共同關心領域進一步加強和擴大與巴基斯坦的雙邊關係。雙方同意儘早互訪對方首都，以推動兩國在雙邊和地區事務中的合作繼續向前發展。（央視新聞）"
-    },
-    {
-      "id": "4943786",
-      "time": "2026-06-18 22:28:21",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "市場訊息：美國佛蒙特州獨立參議員伯尼·桑德斯公佈了一項計劃，提議美國政府持有大型人工智慧公司50%的股權。"
     }
   ]
 }
