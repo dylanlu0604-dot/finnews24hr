@@ -1,7 +1,85 @@
 {
-  "updated": "2026-06-26 02:27:00",
+  "updated": "2026-06-26 02:31:04",
   "count": 16944,
   "items": [
+    {
+      "id": "te:markets:561990",
+      "time": "2026-06-26 02:30:11",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Crypto",
+        "Importance 1"
+      ],
+      "text": "Crypto Updates: Ether Depreciates by 3.02% — Top crypto losers are Ether (-3.02%) and Bitcoin (-2.28%)."
+    },
+    {
+      "id": "4955767",
+      "time": "2026-06-26 02:30:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "上期所原油期貨夜盤收漲2.29%，報478.70元人民幣/桶。滬金夜盤收漲1.17%，滬銀收漲1.24%。"
+    },
+    {
+      "id": "4955766",
+      "time": "2026-06-26 02:29:49",
+      "tags": [
+        "國際"
+      ],
+      "text": "【法國總統馬克龍談及黎巴嫩局勢】法國總統馬克龍：法國與義大利負有特殊責任，兩國均向聯合國駐黎巴嫩臨時部隊（聯黎部隊）派遣兵力。我將與梅洛尼總理共同牽頭組建合作聯盟，籌劃聯黎部隊任務到期後的替代機制，相關工作自然會與歐盟、聯合國協同推進。此舉旨在維護黎巴嫩主權完整，避免黎巴嫩領土再度淪為新一輪地區衝突的導火索。我認為法意兩國在此議題上的協作成效顯著，也期待能在聯黎部隊任期結束前形成全新解決方案。"
+    },
+    {
+      "id": "mkt:019f000b-5a81-7dd8-b124-3902aaf9ae56",
+      "time": "2026-06-26 02:29:31",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "MACRON said France's goal is to strengthen Lebanon's sovereignty and prevent Lebanese territory from again becoming the origin of a new regional conflict."
+    },
+    {
+      "id": "mkt:019f000b-448d-7dd8-b124-36dcae913758",
+      "time": "2026-06-26 02:29:26",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "Macron said he hopes to launch an alliance with Prime Minister Meloni to set up mechanisms following UNIFIL's withdrawal, and that the plan will require cooperation with the EU and the UN."
+    },
+    {
+      "id": "mkt:019f000a-c74b-7dd8-b124-2be3d22fe2ea",
+      "time": "2026-06-26 02:28:54",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Macron said France and Italy bear a special responsibility for Lebanon because both contribute to the United Nations Interim Force in Lebanon (UNIFIL)."
+    },
+    {
+      "id": "4955765",
+      "time": "2026-06-26 02:28:43",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "歐盟氣候事務專員：我們需要評估英國政治局勢對歐盟與英國碳排放交易體系對接談判的影響。"
+    },
+    {
+      "id": "4955764",
+      "time": "2026-06-26 02:28:22",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊拉克因缺乏空油輪下令西古爾納-2油田停產】由於抵達的空油輪數量不足以裝載出口貨物，伊拉克近日下令其一處關鍵油田停止生產。這一事件表明，中東地區原油供應的恢復過程可能並不順利。一份發給該油田運營方的函件顯示，伊拉克石油部已下令西古爾納-2油田（West Qurna 2）全面停產。一位知情人士透露，此次暫停生產是因為沒有足夠的油輪來運走原油。"
+    },
+    {
+      "id": "4955763",
+      "time": "2026-06-26 02:27:35",
+      "tags": [
+        "其他"
+      ],
+      "text": "【國際海事組織暫停疏散霍爾木茲海峽滯留船舶】國際海事組織25日宣佈，一艘船舶當天在阿曼灣遭襲，該組織決定暫停霍爾木茲海峽滯留船舶的疏散行動，以進一步確認相關安全保障措施是否仍然有效。（新華社）"
+    },
     {
       "id": "4955762",
       "time": "2026-06-26 02:25:16",
@@ -154950,94 +155028,6 @@
         "市場"
       ],
       "text": "WTI 7月原油期貨收跌0.19美元，跌幅0.25%，報76.60美元/桶。NYMEX 7月天然氣期貨收報3.2330美元/百萬英熱單位。NYMEX 7月汽油期貨收報2.9949美元/加侖，NYMEX 7月取暖油期貨收報3.1273美元/加侖。"
-    },
-    {
-      "id": "4944227",
-      "time": "2026-06-19 02:30:53",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "美國原油期貨結算價報每桶76.60美元，下跌19美分，跌幅0.25%。"
-    },
-    {
-      "id": "mkt:019edc00-130c-7dd8-b086-c678fce85d3b",
-      "time": "2026-06-19 02:30:52",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Precious Metals",
-        "XAUUSD",
-        "Impact bearish"
-      ],
-      "text": "Shanghai Gold Exchange (SGE) gold T+D closed down 0.53% at 935.78 yuan/gram in the June 18 evening session; SGE silver T+D closed down 2.12% at 16,425.0 yuan/kg."
-    },
-    {
-      "id": "4944226",
-      "time": "2026-06-19 02:30:50",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "美國天然氣期貨日內漲幅達3.00%，現報3.240美元/百萬英熱。"
-    },
-    {
-      "id": "mkt:019edc00-0b3a-7dd8-b086-bf6f8dd47a03",
-      "time": "2026-06-19 02:30:50",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy"
-      ],
-      "text": "U.S. natural gas futures rose 3.00% intraday to $3.240 per MMBtu."
-    },
-    {
-      "id": "te:markets:560170",
-      "time": "2026-06-19 02:30:09",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Crypto",
-        "Importance 1"
-      ],
-      "text": "Crypto Updates: Binance Drops by 4.14% — Top crypto losers are Binance (-4.14%), Ether (-3.55%), XRP (-3.51%) and Bitcoin (-2.49%)."
-    },
-    {
-      "id": "4944225",
-      "time": "2026-06-19 02:29:01",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "WTI原油突破76美元/桶，日內持平。"
-    },
-    {
-      "id": "mkt:019edbfe-33e3-7dd8-b086-b6ed7de03056",
-      "time": "2026-06-19 02:28:50",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Brent",
-        "Impact bullish",
-        "WTI"
-      ],
-      "text": "Brent crude rose more than 1% intraday to $79.32/bbl; WTI trading near flat."
-    },
-    {
-      "id": "4944224",
-      "time": "2026-06-19 02:27:40",
-      "tags": [
-        "其他"
-      ],
-      "text": "OpenAI：GPT-5.5 Instant 如今在解答健康相關問題方面，效能已與我們前沿深度思考系列模型持平。 每週有超 2.3 億人透過 ChatGPT 諮詢健康養生相關問題。"
-    },
-    {
-      "id": "4944223",
-      "time": "2026-06-19 02:27:13",
-      "tags": [
-        "國際"
-      ],
-      "text": "【特朗普：必須立即廢除冗長辯論機制 透過《拯救美國法案》】美國總統特朗普表示：“看起來我每次都輕鬆贏得的猶他州，正在轉向科羅拉多州的全郵寄投票模式，而一旦採取這種做法，這些州往往就會倒向左翼。我們必須阻止猶他州這樣做。如果操作不當，全郵寄選票將為民主黨人帶來巨大優勢；由於他們的政策荒謬至極，作弊成了他們通往勝利的唯一途徑。共和黨意識到自己正面臨什麼了嗎？民主黨人正步步為營、逐州推進，一路笑納‘戰果’。必須立即廢除冗長辯論機制和/或透過《拯救美國法案》”。特朗普還表示：“任何不想廢除冗長辯論機制的人都是蠢貨，而且是極度愚蠢的蠢貨！那些‘笨蛋民主黨人’（Dumocrats）一旦上臺，幾分鐘內就會廢除這一規則，隨後迅速著手摧毀我們的國家。”"
     }
   ]
 }
