@@ -1,7 +1,104 @@
 {
-  "updated": "2026-06-25 10:07:53",
-  "count": 17037,
+  "updated": "2026-06-25 10:11:46",
+  "count": 17039,
   "items": [
+    {
+      "id": "mkt:019efc8b-16e2-7dd8-b10a-4964ed847304",
+      "time": "2026-06-25 10:10:34",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "Hang Seng Index",
+        "Impact bearish"
+      ],
+      "text": "Hang Seng Tech Index fell over 2%; HSI down 1.4%."
+    },
+    {
+      "id": "4953931",
+      "time": "2026-06-25 10:10:29",
+      "tags": [
+        "其他"
+      ],
+      "text": "【委內瑞拉官員：地震致至少18人受傷】委內瑞拉首都加拉加斯附近的米蘭達州查考市市長古斯塔沃·杜克24日在社交媒體上說，該市有兩處建築物在地震中倒塌，目前已救出18名受困傷者，500餘名政府工作人員正在執行救援任務。（新華社）"
+    },
+    {
+      "id": "mkt:019efc8a-f680-7dd8-b10a-46785d8032cd",
+      "time": "2026-06-25 10:10:25",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Venezuela official: Earthquake injures at least 18】Gustavo Duque, mayor of Chacao in Miranda state near Caracas, said on social media on the 24th that two buildings collapsed in the quake; 18 people have been rescued injured and more than 500 government personnel are conducting rescue operations."
+    },
+    {
+      "id": "4953930",
+      "time": "2026-06-25 10:10:05",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "白銀連續主力合約日內跌8%，現報13704.00元。"
+    },
+    {
+      "id": "4953929",
+      "time": "2026-06-25 10:10:02",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "恒生科技指數跌超2%，現報4389.270點；恒生指數現跌1.405%。"
+    },
+    {
+      "id": "4953928",
+      "time": "2026-06-25 10:09:06",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "北證50日內跌幅達1.03%，成分股中，國航遠洋跌6.00%，聚星科技跌5.37%，XD銅冠礦跌4.86%，諾思蘭德跌4.46%。"
+    },
+    {
+      "id": "4953927",
+      "time": "2026-06-25 10:08:49",
+      "tags": [
+        "其他"
+      ],
+      "text": "【最高檢：深挖涉毒洗錢犯罪】最高人民檢察院6月25日舉行的新聞釋出會上，最高檢副檢察長苗生明介紹，檢察機關深挖徹查“自洗錢”與“他洗錢”犯罪，大力推進涉毒資產追繳，確保實現涉毒洗錢犯罪查處全覆蓋。2025年1月至2026年5月，全國檢察機關共起訴涉毒洗錢犯罪1200餘人。如最高檢掛牌督辦、重慶檢察機關辦理的李某波等人特大跨境走私、販賣、運輸毒品、洗錢案，李某波透過虛擬貨幣洗錢4800餘萬元，被依法數罪併罰判處死刑。"
+    },
+    {
+      "id": "4953926",
+      "time": "2026-06-25 10:08:39",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金失守3980美元/盎司，日內跌0.72%。"
+    },
+    {
+      "id": "4953925",
+      "time": "2026-06-25 10:08:39",
+      "tags": [
+        "市場"
+      ],
+      "text": "大盤主力淨流出超100億。"
+    },
+    {
+      "id": "4953924",
+      "time": "2026-06-25 10:08:27",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金失守3970美元/盎司，日內跌0.76%。"
+    },
+    {
+      "id": "4953923",
+      "time": "2026-06-25 10:08:20",
+      "tags": [
+        "其他"
+      ],
+      "text": "【2025年1月至2026年5月檢察機關提起公訴毒品犯罪4.6萬餘人】最高檢黨組成員、副檢察長苗生明介紹，2025年1月至2026年5月，全國檢察機關共批捕毒品犯罪2.9萬餘人，同比下降36%；提起公訴毒品犯罪4.6萬餘人，同比下降30%。從辦案情況看，受境外毒品滲透等多方面因素影響，新型毒品犯罪和未列管成癮性物質濫用問題突出，懲治毒品犯罪仍需持續發力。"
+    },
     {
       "id": "mkt:019efc87-a700-7dd8-b10a-3c3cbc899acc",
       "time": "2026-06-25 10:06:48",
@@ -155628,89 +155725,6 @@
         "其他"
       ],
       "text": "【光輪智慧與PICO達成深度合作】近日，光輪智慧與PICO達成深度合作。雙方將圍繞物理AI領域的人類資料採集基礎設施建設展開深度協同，結合各自在智慧硬體、空間計算、資料與模擬基礎設施等領域的優勢，共同推動新一代人類資料採集解決方案研發與規模化落地。"
-    },
-    {
-      "id": "mkt:019ed87e-f170-7dd8-b069-22ee8bdbb188",
-      "time": "2026-06-18 10:10:58",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Chinese embassy in Netherlands objects to Dutch 2026–30 security strategy over 'China threat' claims】The Chinese embassy in the Netherlands said it strongly objects to passages in the Dutch government's International Security Strategy 2026–2030 that it says misrepresent China’s development path and foreign policy and hype a so‑called 'China threat.' Beijing expressed serious concern and dissatisfaction, urged the Netherlands to stop spreading false information and broadening national‑security concepts to target China, and reiterated China pursues peaceful development and an independent foreign policy and is a source of global opportunity and stability rather than a threat."
-    },
-    {
-      "id": "4942261",
-      "time": "2026-06-18 10:10:51",
-      "tags": [
-        "國際"
-      ],
-      "text": "【伊朗稱若以繼續襲擊黎巴嫩將被視為違反美承諾】伊朗外交部發言人巴加埃當天表示，如果以色列繼續襲擊黎巴嫩，將被視為違反美國的承諾。在伊美雙方日前公佈的諒解備忘錄中，均有涉及立即並永久停止包括黎巴嫩在內的所有戰線軍事行動的條款。巴加埃說，在諒解備忘錄第一條中，明確提到尊重黎巴嫩的領土完整和國家主權。美國有責任要求以色列尊重美方在諒解備忘錄中對伊朗的承諾。巴加埃還表示，過去兩到三週內，伊美雙方就解凍伊朗被凍結資產問題進行了詳細且深入的談判。伊朗必須能按照自己的意願使用解凍的資產，美國承諾將消除所有相關障礙。（新華社）"
-    },
-    {
-      "id": "4942260",
-      "time": "2026-06-18 10:10:24",
-      "tags": [
-        "公司"
-      ],
-      "text": "【儲存晶片概念反覆活躍 金太陽漲超10%續創歷史新高】儲存晶片概念反覆活躍，金太陽漲超10%，兆易創新漲超8%，均續創歷史新高，神工股份、夏農芯創、朗科科技、普冉股份、北京君正跟漲。"
-    },
-    {
-      "id": "4942259",
-      "time": "2026-06-18 10:10:04",
-      "tags": [
-        "其他"
-      ],
-      "text": "【中國移動牽頭完成3GPP“6G場景和技術需求”標準研究專案】近日，3GPP無線接入網技術規範組第112次全會透過6G無線技術標準研究進度里程碑審議，並完成“6G場景和技術需求”專案結項，中國移動擔任該專案報告人。專案成果《6G場景和技術需求報告》（TR38.914）在6G場景需求基礎上，首次把場景、頻譜、覆蓋、能效、遷移、架構和運維等6G無線側基礎問題納入同一套可評估口徑，既作為後續6G首版無線技術標準研究準繩，也作為ITU-R提出6G效能要求的重要輸入，為全球6G技術路線、網路架構和產業節奏劃定基線。（人民郵電報）"
-    },
-    {
-      "id": "4942258",
-      "time": "2026-06-18 10:09:47",
-      "tags": [
-        "其他"
-      ],
-      "text": "惠譽將寧德時代評級上調至“A”；展望穩定。"
-    },
-    {
-      "id": "mkt:019ed87c-b684-7dd8-b069-1e2a756d92b9",
-      "time": "2026-06-18 10:08:32",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "CSI300",
-        "Impact bullish"
-      ],
-      "text": "China A-share biopharmaceutical sector rebounded; Wanze Co. hit the daily limit-up, Nuosiland rose over 13%, and Nuoweizan, Baike Bio and Kexing Pharmaceutical also advanced."
-    },
-    {
-      "id": "mkt:019ed87c-62ae-7dd8-b069-160437495e1e",
-      "time": "2026-06-18 10:08:10",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "DXY",
-        "Impact bullish",
-        "USDJPY",
-        "CNH",
-        "Impact bearish"
-      ],
-      "text": "【OCBC Bank: Fed's hawkish stance likely caps near-term upside for Asian currencies】OCBC Group Research strategists say the Fed's persistent hawkish stance should constrain near-term upside for Asian currencies versus the dollar, particularly low-yield and US-Treasury-sensitive FX such as the Thai baht (THB), South Korean won (KRW) and, to a degree, the Singapore dollar (SGD). They added falling oil prices partly offset those pressures by easing current account and inflation strains for oil-importing currencies including the Indian rupee (INR), Philippine peso (PHP) and Indonesian rupiah (IDR)."
-    },
-    {
-      "id": "4942257",
-      "time": "2026-06-18 10:08:08",
-      "tags": [
-        "其他"
-      ],
-      "text": "發言人表示，滙豐銀行的和解協議需經澳大利亞聯邦法院批准。"
-    },
-    {
-      "id": "4942256",
-      "time": "2026-06-18 10:08:02",
-      "tags": [
-        "其他"
-      ],
-      "text": "滙豐發言人表示，該行已達成協議，解決與澳大利亞證券和投資委員會（ASIC）之間的法律程式。"
     }
   ]
 }
