@@ -1,7 +1,49 @@
 {
-  "updated": "2026-06-26 04:15:48",
-  "count": 16979,
+  "updated": "2026-06-26 04:19:43",
+  "count": 16983,
   "items": [
+    {
+      "id": "4955861",
+      "time": "2026-06-26 04:18:56",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：美國政府要求 OpenAI 分階段釋出新款大模型，出於安全考量，OpenAI 將分階段推出新款模型。"
+    },
+    {
+      "id": "4955860",
+      "time": "2026-06-26 04:18:15",
+      "tags": [
+        "公司"
+      ],
+      "text": "安森美半導體將按大約70億美元估值收購Synaptics Inc.。 Synaptics 股東將持有合併後公司約 12% 股份。"
+    },
+    {
+      "id": "4955859",
+      "time": "2026-06-26 04:16:56",
+      "tags": [
+        "其他"
+      ],
+      "text": "安森美半導體：安森美半導體將收購 SYNAPTICS，以推動下一代物理AI智慧系統的開發。"
+    },
+    {
+      "id": "mkt:019f006d-1393-7dd8-b126-02fbdec662c6",
+      "time": "2026-06-26 04:16:16",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "Trump plans to nominate telecom-law expert Adam Candeub as head of the Justice Department’s Antitrust Division."
+    },
+    {
+      "id": "4955858",
+      "time": "2026-06-26 04:15:47",
+      "tags": [
+        "公司"
+      ],
+      "text": "可口可樂公司宣佈北美業務單元管理層人事調整。"
+    },
     {
       "id": "4955857",
       "time": "2026-06-26 04:11:56",
@@ -155388,15 +155430,6 @@
         "Impact bullish"
       ],
       "text": "Meta Platforms Inc (META.O) signed an AI compute collaboration agreement with data-center operator Crusoe; Meta is expected to obtain roughly 1.6 GW of computing capacity."
-    },
-    {
-      "id": "mkt:019edc60-cf23-7dd8-b088-2348033bc858",
-      "time": "2026-06-19 04:16:32",
-      "tags": [
-        "MKT News",
-        "SPCX.O"
-      ],
-      "text": "MOODY'S: SpaceX (SPCX.O) maintains a conservative financial policy and, supported by substantial cash balances, has strong liquidity and financial flexibility."
     }
   ]
 }
