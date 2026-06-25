@@ -1,7 +1,19 @@
 {
-  "updated": "2026-06-26 05:22:01",
+  "updated": "2026-06-26 05:26:06",
   "count": 16976,
   "items": [
+    {
+      "id": "te:economy:562004",
+      "time": "2026-06-26 05:23:18",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Paraguay",
+        "Producer Prices Change",
+        "Importance 0"
+      ],
+      "text": "Paraguay Producer Prices Extend Decline — Paraguay’s Producer Price Index fell 1.5% year-on-year in May 2026, following a 1.0% decline in April and marking the fourth consecutive month of producer deflation. Imported products remained the main source of downward pressure, particularly in categories such as metal products, machinery and equipment, food, beverages and tobacco, textiles and leather goods, and non-metallic transportable goods. This contrasted with the positive contribution from domestic products, which helped limit the overall decline, supported by stronger price growth in domestic food, beverages and tobacco, textiles and leather products, live animals and animal products, and non-metallic transportable goods."
+    },
     {
       "id": "mkt:019f00a8-3f1c-7dd8-b126-88a3e850eadb",
       "time": "2026-06-26 05:20:53",
@@ -155350,17 +155362,6 @@
         "其他"
       ],
       "text": "伊拉克石油部長：石油生產將逐步恢復運營，直至回到此前的產量水平。"
-    },
-    {
-      "id": "mkt:019edca0-6a15-7dd8-b088-be6ef181337b",
-      "time": "2026-06-19 05:26:00",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "【Iran says Strait of Hormuz transit free for 60 days】Iran’s Supreme National Security Council said under an Iran–U.S. memorandum of understanding merchant vessels applying to transit the Strait of Hormuz will be exempt from fees for 60 days. Under Article 5, ships must file applications with Iran’s Persian Gulf Strait Administration; during the 60-day period no transit fees will be charged and related costs will be borne by the Iranian government. Tehran has ordered the administration to review and respond to applications promptly. The statement said parts of the waterway remain security risks and vessels must use designated routes and specified times to ensure safety and avoid maritime incidents."
     }
   ]
 }
