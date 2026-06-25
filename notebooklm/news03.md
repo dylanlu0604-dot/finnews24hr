@@ -1,7 +1,413 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-06-25 19:07:25_
-_本檔包含 3145 則快訊，約 616157 字_
+_更新時間：2026-06-25 19:19:18_
+_本檔包含 3172 則快訊，約 615417 字_
+
+---
+
+### 2026-06-23 19:16:27  #其他
+
+市場訊息：對沖基金 OVATA 即將關停，旗下團隊整體轉入 ExodusPoint。
+
+---
+
+### 2026-06-23 19:16:04  #公司
+
+【利通電子：控股股東及實控人回應股票異常波動問詢】利通電子公告稱，公司控股股東及實際控制人邵樹偉、邵秋萍、邵培生、史旭平回覆股票交易異常波動問詢函，表示不存在影響公司股票價格異常波動的重大事項，也不存在其他應披露而未披露的重大資訊，包括重大資產重組、股份發行等。
+
+---
+
+### 2026-06-23 19:15:56  #公司 #市場
+
+【利通電子：股票交易異常波動 不存在應披露未披露重大事項】利通電子公告稱，公司股票於2026年6月18日、6月22日、6月23日連續3個交易日內收盤價格漲幅偏離值累計達20%，屬於異常波動。經自查，公司經營正常，主營未變，控股股東、實控人無應披露未披露重大事項，減持按前期計劃推進。公司提醒，算力業務有風險，資產負債率75.10%或上升，股價存大幅震盪風險，投資者應理性決策。
+
+---
+
+### 2026-06-23 19:15:45  #市場
+
+【IBM美股盤前漲超5%】 IBM美股盤前漲超5%，現報264.85美元。
+
+---
+
+### 2026-06-23 19:15:41  #公司
+
+【通用技術中國醫藥雙氯芬酸鈉腸溶片獲得補充申請批准通知書】 近日，通用技術中國醫藥下屬天方藥業有限公司收到國家藥監局核准簽發的雙氯芬酸鈉腸溶片《藥品補充申請批准通知書》，該藥品透過仿製藥質量和療效一致性評價。雙氯芬酸鈉腸溶片主要用於緩解炎性和退行性風溼病，非關節性的各種軟組織風溼性疼痛，急性的輕、中度疼痛，痛風急性發作等，為國家醫保（甲類）藥物。
+
+---
+
+### 2026-06-23 19:14:21  #MKT News #Important #WTI #Impact bearish #Brent
+
+Oman and Iran issued a joint statement saying they will draft an agreement on fees and services for the Strait of Hormuz and will hold talks with the region's littoral states.
+
+---
+
+### 2026-06-23 19:14:14  #其他
+
+【騰訊：QQ郵箱開始內測專為Agent設計郵箱】騰訊宣佈，QQ郵箱正式開啟內測“Agently Mail”。據介紹，Agently Mail是一款專為Agent設計的郵箱，它獨立於使用者的個人郵箱，能夠讓AI用自己的身份收發郵件，安全、可控、可追溯。
+
+---
+
+### 2026-06-23 19:14:05  #公司
+
+【ST朗進：控股股東朗進集團所持公司股份1633.5萬股被司法凍結】 ST朗進公告，公司近日收到控股股東青島朗進集團有限公司函告，其所持有的公司股份被司法凍結。本次被司法凍結股份涉及的案件債權額及執行費用為2.04億元，執行人實際需要凍結的數量為1368.3萬股。
+
+---
+
+### 2026-06-23 19:13:26  #公司 #市場
+
+【華特氣體：股價異常波動 一季度淨利潤同比降23.7%】華特氣體公告稱，公司股票於2026年6月22日、6月23日連續2個交易日內日收盤價格漲幅偏離值累計超30%，屬異常波動。經自查，公司無應披露未披露重大事項。2026年第一季度，公司營收38418.03萬元，同比升13.7%；淨利潤3387.66萬元，同比降23.7%；扣非淨利潤3276.82萬元，同比降20.62%。此外，受俄政策影響，氦氣供應、價格存在不確定性，提醒投資者注意風險。
+
+---
+
+### 2026-06-23 19:12:49  #公司
+
+【價格成本和認證中心赴上海電纜研究所開展調研】6月18日，價格成本和認證中心會同機械工業價格研究中心、中國裝置管理協會價值創新與成本最佳化分會，赴上海電纜研究所有限公司開展實地調研，圍繞電線電纜行業質量與價格關聯機制現狀及問題進行交流，並就構建科學分析體系、推動行業健康有序發展進行深入探討。中心綜合資訊處相關同志參加座談。
+
+---
+
+### 2026-06-23 19:12:06  #其他
+
+【價格成本和認證中心赴鄭州商品交易所開展座談交流】6月8日，價格成本和認證中心副主任成鋼同志帶隊赴鄭州商品交易所開展座談交流。雙方圍繞新能源、交通等領域價格成本問題展開交流。中心新能源價格成本處有關同志參會。
+
+---
+
+### 2026-06-23 19:12:05  #MKT News
+
+【Price, Cost and Certification Center delegation meets Zhengzhou Commodity Exchange on new energy and transport costs】On June 8, Deputy Director Cheng Gang led a Price, Cost and Certification Center delegation to the Zhengzhou Commodity Exchange for talks on price and cost issues in new energy and transportation. The Center’s New Energy Price‑Cost Division participated.
+
+---
+
+### 2026-06-23 19:11:37  #MKT News
+
+Oman and Iran said in a joint statement that all arrangements related to the Strait of Hormuz must fully respect their sovereignty and sovereign rights.
+
+---
+
+### 2026-06-23 19:11:27  #MKT News #Important
+
+【Moore Threads releases GPU driver v340.150 with non-Resizable BAR platform support】June 22 — Moore Threads released GPU driver v340.150. The update expands platform compatibility by adding support for systems without Resizable BAR, improves Blender’s Vulkan backend and Vulkan video codec support in FFmpeg, and applies game-specific optimizations. A highlighted change implements low-level compatibility fixes to stabilize operation on older CPUs and motherboards lacking Resizable BAR, aimed at improving gaming, content-creation and productivity use cases.
+
+---
+
+### 2026-06-23 19:11:24  #其他
+
+【摩爾執行緒釋出圖形顯示卡驅動v340.150，創作與遊戲體驗同步升級】6月22日，摩爾執行緒釋出圖形顯示卡驅動v340.150。新驅動進一步拓展平臺相容性，新增對“無Resizable BAR支援”平臺的支援，完善了對Blender Vulkan後端以及開源音影片框架FFmpeg中Vulkan影片編解碼的支援。同時，新驅動還針對多款熱門遊戲進行了最佳化，持續提升摩爾執行緒圖形顯示卡在日常娛樂、內容創作和生產力場景下的使用體驗。作為本次升級的核心亮點，新驅動針對部分不具備Resizable BAR功能的早期CPU與主機板，透過底層最佳化實現穩定相容。（摩爾執行緒）
+
+---
+
+### 2026-06-23 19:11:12  #資料 #國際
+
+【德商銀行：歐元區PMI表明美伊達成協議後情緒平復】德國商業銀行的Vincent Stamer在一份報告中表示，在伊朗和美國簽署諒解備忘錄後，歐元區的企業景氣度似乎已經企穩。歐元區6月份綜合採購經理人指數(PMI)從5月份的48.5升至49.5，創下三個月高點，儘管仍表明經濟在溫和收縮。Stamer說：“這燃起了人們的希望，即持久的和平協議和石油市場的真正正常化也將刺激歐洲的經濟復甦。”他說，產出價格分項指數也略有下降，表明通脹壓力有所降低。他指出，儘管如此，該PMI仍處於歷史上與經濟收縮相關的範圍內。
+
+---
+
+### 2026-06-23 19:10:46  #焦點 #國際
+
+【阿曼與伊朗釋出聯合宣告：支援伊美伊斯蘭堡諒解備忘錄，共建霍爾木茲海峽通航治理機制】宣告顯示：阿曼蘇丹國明確表態，支援美國與伊朗簽署的《伊斯蘭堡諒解備忘錄》，並強調各方持續開展對話、深化協調，對保障備忘錄順利落地實施至關重要。
+作為霍爾木茲海峽兩大沿岸主權國家，阿曼與伊朗重申，將嚴格依照國際法相關規定，保障海峽通航安全；同時強調兩國對各自霍爾木茲海峽領海擁有完整主權及主權權利。雙方依據《伊斯蘭堡諒解備忘錄》條款，就霍爾木茲海峽相關事務展開深入磋商。
+雙方商定，依託兩國外交部聯合工作組持續開展專項對話，旨在參照國際標準，就霍爾木茲海峽未來通航管理模式、配套服務供給及相關費用標準達成共識。雙方同步同意，將與區域內沿岸國家及其他相關各方開展溝通磋商。
+雙方明確，所有涉及霍爾木茲海峽的治理安排，必須充分尊重兩國的海峽主權及合法主權權利。
+阿曼與伊朗再度承諾，堅守霍爾木茲海峽國際航道安全、開放的屬性，將持續深化合作，共同提升海域安全水平、維護通航自由、守護地區局勢穩定。
+
+---
+
+### 2026-06-23 19:10:26  #公司
+
+【三六零：控股股東奇信志成擬減持不超0.8%股份】三六零(601360.SH)公告稱，公司控股股東奇信志成因繳納稅款資金需求，計劃自公告披露之日起15個交易日後的3個月內，透過集中競價方式減持公司股份不超過56,035,900股，即不超過公司總股本的0.8%。截至公告日，奇信志成持有公司股份32.97億股，佔總股本47.10%。
+
+---
+
+### 2026-06-23 19:10:05  #MKT News #Commodities #Industrial Metals #Copper #Impact bearish
+
+LME three-month copper fell to $13,375 a tonne, its lowest level since May 20, down 1.9% on the day.
+
+---
+
+### 2026-06-23 19:09:34  #公司
+
+【陽光股份：全資子公司上海錦贇與樂合嘉盛、閣樂匯簽署租賃合同，租金總額約6.64億元】陽光股份公告，全資子公司上海錦贇資產管理有限公司與上海樂合嘉盛酒店管理有限公司、上海閣樂匯公寓管理有限公司簽署《租賃合同》，約定上海錦贇將其位於上海市長寧區中山西路888號1幢1-33層、活動室的房屋出租給樂合嘉盛、閣樂匯，租賃期限自2026年6月22日起至2045年8月8日止，共19年零47天，租金總額人民幣6.64億元。同時，公司合營企業上海銀河賓館有限公司與閣樂匯簽署《房屋租賃合同》，約定上海銀河將其位於上海市長寧區中山西路888號2幢1層區域性、地下二層區域性房屋出租給閣樂匯，租賃期限自2026年6月22日起至2045年8月8日止，共19年零47天，租金總額人民幣2488.45萬元。租賃合同的簽訂，預計2026年度實現營業收入約1700萬元，佔2025年度經審計營業收入的5%。
+
+---
+
+### 2026-06-23 19:09:29  #其他
+
+倫敦金屬交易所三個月期銅跌至每噸13375美元，創5月20日以來新低，最新跌幅為1.9%。
+
+---
+
+### 2026-06-23 19:09:26  #市場
+
+ZETA股價在與PALANTIR達成協議後盤前上漲6.8%。
+
+---
+
+### 2026-06-23 19:09:19  #公司
+
+【常潤股份：簽署框架協議，擬收購湖北達峰73.48%股權】常潤股份公告，公司於2026年6月23日與湖北正奧汽車附件集團有限公司、巨港國際有限公司簽署關於湖北達峰汽車智慧控制系統有限公司和達峰汽車智慧控制系統（蕪湖）有限公司的《股權收購框架協議》，擬以現金收購湖北達峰73.48%股權及蕪湖達峰71.50%股權。本次交易尚處於初步意向階段，目標公司的盡職調查、審計、評估工作尚未完成，最終交易價格以符合《證券法》要求的資產評估報告確定的評估結果為基礎由各方協商確定。
+
+---
+
+### 2026-06-23 19:08:54  #MKT News #Important #WTI #Impact bearish #Brent
+
+Oman and Iran said in a joint statement they have "sovereign rights within the territorial waters of the Strait of Hormuz" and are committed to ensuring secure passage through the strait.
+
+---
+
+### 2026-06-23 19:08:09  #焦點 #國際
+
+阿曼、伊朗稱兩國承諾保障霍爾木茲海峽通航安全。
+
+---
+
+### 2026-06-23 19:07:47  #焦點 #國際
+
+阿曼與伊朗在聯合宣告中強調，雙方對霍爾木茲海峽本國領海享有“主權權利”。
+
+---
+
+### 2026-06-23 19:07:24  #MKT News
+
+Brazil central bank: headline and core inflation have both accelerated.
+
+---
+
+### 2026-06-23 19:07:23  #其他
+
+巴基斯坦總理向議會通報，伊美兩國領導層日前在瑞士布林根施托克出席了高階別委員會會議。他表示，巴基斯坦為推動雙方開展對話、實現和解付出了真誠努力，最終促成聯合宣告擬定完成。
+
+---
+
+### 2026-06-23 19:07:13  #央行 #其他
+
+巴西央行：委員會討論再次強調了財政政策與貨幣政策保持協調的必要性。
+
+---
+
+### 2026-06-23 19:07:06  #國際
+
+巴基斯坦總理夏巴茲・謝里夫表示，他相信伊朗與美國簽署的諒解備忘錄，在為期 60 天的技術層級對話後，將發展為一份長期協議，助力維護全球和平與穩定。
+
+---
+
+### 2026-06-23 19:07:01  #MKT News
+
+Brazil's central bank said the committee considered different interest-rate paths.
+
+---
+
+### 2026-06-23 19:06:58  #央行 #其他
+
+巴西央行：貨幣政策委員會堅定認為，財政政策必須具備可預測性、可信度，並且發揮逆週期調節作用。
+
+---
+
+### 2026-06-23 19:06:40  #公司
+
+【*ST啟環：預重整期間再延長三個月 能否重整仍存不確定性】*ST啟環公告稱，2026年6月23日公司收到宜昌中院出具的決定書，將公司預重整期間延長三個月。截至公告披露日，債權申報與審查、審計評估、重整投資人招募等工作正有序開展。不過，申請人的重整申請能否被法院受理、公司後續是否進入重整程式均存在不確定性。若法院裁定受理重整申請，公司股票將被實施退市風險警示；若重整失敗，公司股票將面臨被終止上市的風險。
+
+---
+
+### 2026-06-23 19:06:05  #央行 #其他
+
+巴西央行：目前仍有解讀認為，當前通脹由需求拉動，需要採取緊縮性貨幣政策。
+
+---
+
+### 2026-06-23 19:05:54  #公司
+
+【*ST美芝：董事長何伏信因工作變動辭職，未持有公司股份】*ST美芝公告，公司董事會於2026年6月23日收到董事長何伏信先生提交的書面辭職報告，何伏信先生因工作變動原因，申請辭去公司第五屆董事會非獨立董事職務，同時一併辭去董事長職務、董事會戰略委員會及提名委員會委員相應職務，辭職後不再擔任公司任何職務。其原定任期屆滿日為2027年1月17日，截至公告披露日未持有公司股份，辭職報告自送達董事會之日起生效。公司將盡快完成非獨立董事、董事長等職務的補選工作。
+
+---
+
+### 2026-06-23 19:05:21  #公司
+
+【恩捷股份：下屬子公司已補繳稅款及滯納金總計2959.56萬元】恩捷股份公告，公司下屬子公司珠海恩捷新材料科技有限公司（簡稱“珠海恩捷”）對納稅義務履行情況開展了日常合規自查，經自查確認，珠海恩捷需補繳稅款及滯納金總計2959.56萬元，其中：補繳稅款2144.45萬元，滯納金815.10萬元。截至公告披露日，上述稅款及滯納金已補繳完畢。公司補繳的上述稅款及滯納金將計入2026年當期損益，預計將影響公司2026年度歸屬於上市公司股東的淨利潤2818.09萬元。
+
+---
+
+### 2026-06-23 19:05:11  #公司
+
+【龍星科技：持股5%以上股東減持321.9萬股 減持比例0.64%】龍星科技公告稱，公司持股5%以上股東渤海國際信託股份有限公司原計劃自2026年3月3日披露減持計劃之日起15個交易日後的3個月內，透過集中競價方式減持不超503.29萬股（佔總股本比例不超1%）。2026年3月25日至6月22日，渤海信託累計減持321.9萬股，減持比例0.64%，減持均價7.43元/股。減持後，其持股比例由14.41%降至13.77%。本次減持未超計劃，不會影響公司治理及持續經營。
+
+---
+
+### 2026-06-23 19:05:00  #央行 #國際
+
+巴西央行：不確定性不僅關乎中東衝突相關衝擊已經顯現的影響程度，還涉及厄爾尼諾這類已納入考量但尚未顯現的其他衝擊的影響程度。
+
+---
+
+### 2026-06-23 19:04:50  #央行 #其他
+
+巴西央行：整體通脹與核心通脹增速均出現上行。
+
+---
+
+### 2026-06-23 19:04:36  #其他
+
+【海南自貿港（北京）招商推介會舉行】6月23日，海南自貿港（北京）招商推介會在第四屆中國國際供應鏈促進博覽會現場舉行，海南以本屆鏈博會主賓省身份推介自由貿易港封關運作後開放新優勢與合作新機遇。海南省委書記馮飛，中國貿促會會長任鴻斌，尼加拉瓜總統貿易、投資與國際合作顧問勞雷亞諾·奧爾特加·穆裡略，義大利利古里亞大區幕僚長馬西米利亞諾·納尼尼出席並致辭。馮飛表示，本屆鏈博會提出“連結世界、共創未來”，與海南自由貿易港發展願景高度契合。2025年12月18日，海南自由貿易港正式啟動全島封關，正成為中國對外開放的新前沿、地區互利合作的新熱土、推動經濟全球化的新引擎。海南擁有高度開放的政策制度體系，融通中外的合作網路，產業升級的廣闊賽道，有信心、有優勢為全球產業鏈供應鏈共贏發展提供更多合作機遇。誠邀各位嘉賓明年赴海南參加消博會，我們將全力支援大家到海南自由貿易港投資興業，共譜雙向奔赴、合作共贏的新篇章。（海南釋出）
+
+---
+
+### 2026-06-23 19:04:14  #市場
+
+LME倫銅日內跌超2.00%，現報13375.000美元/噸。
+
+---
+
+### 2026-06-23 19:04:01  #公司 #國際
+
+【中韓半導體ETF：6月24日開市起至當日10:30停牌】華泰柏瑞基金管理有限公司公告，公司旗下華泰柏瑞中證韓交所中韓半導體交易型開放式指數證券投資基金（QDII）二級市場交易價格明顯高於基金份額參考淨值，出現較大幅度溢價。為保護投資者的利益，本基金將於2026年6月24日開市起至當日10:30停牌。
+
+---
+
+### 2026-06-23 19:03:49  #央行 #其他
+
+巴西央行：最佳實踐建議，不要對供給衝擊引發的價格變動做出全面響應，當前這類衝擊存在極高不確定性。
+
+---
+
+### 2026-06-23 19:03:31  #央行 #其他
+
+巴西央行：已討論應參照最佳貨幣政策實踐來衡量這一系列結果。
+
+---
+
+### 2026-06-23 19:03:28  #其他
+
+【奈及利亞中部發生武裝襲擊 至少20人死亡】奈及利亞警方23日證實，該國高原州日前發生一起武裝襲擊事件，造成至少20人死亡。（新華社）
+
+---
+
+### 2026-06-23 19:03:20  #其他
+
+上交所：景順長城全球半導體晶片投資基金（QDIILOF）將於2026年6月24日開市起停牌，自2026年6月24日10:30起復牌，停牌期間本基金贖回業務照常辦理。
+
+---
+
+### 2026-06-23 19:03:18  #MKT News
+
+Brazil central bank says upside risks to inflation have increased.
+
+---
+
+### 2026-06-23 19:03:17  #市場
+
+LME倫鎳日內跌超3.00%，現報17220.000美元/噸。
+
+---
+
+### 2026-06-23 19:03:16  #MKT News #Market Themes #Chip Wars
+
+Shanghai Stock Exchange said Invesco Great Wall Global Semiconductor Chip Investment Fund (QDIILOF) will be suspended from the market open on June 24, 2026 and will resume trading at 10:30 on June 24, 2026; redemptions will be processed as normal during the suspension.
+
+---
+
+### 2026-06-23 19:03:10  #MKT News
+
+【Armed attack in central Nigeria kills at least 20】Nigeria police on the 23rd confirmed an armed attack in Plateau State on the morning of the 21st local time that left at least 20 dead. Unidentified attackers on motorcycles entered a community, used knives and firearms in an indiscriminate assault on residents, and fled. Initial reports cited 18 dead and three wounded, two of whom later died. Motive is unclear; police have opened an investigation.
+
+---
+
+### 2026-06-23 19:02:53  #MKT News
+
+【Jindie Shikong completes development of in-house interconnect bus N200】Jindie Shikong said its self-developed interconnect bus N200 is complete. N200 will be integrated with general-purpose CPU core X200 and AI compute core A200 in the company’s next-generation compute chip, with volume production targeted for 2027.
+
+---
+
+### 2026-06-23 19:02:42  #其他
+
+天津分數線公佈。
+
+---
+
+### 2026-06-23 19:02:37  #央行 #其他
+
+巴西央行：目前，與焦點調查中呈現的路徑偏離較小的SELIC利率軌跡，以及貨幣政策定價更為適宜。
+
+---
+
+### 2026-06-23 19:02:33  #MKT News
+
+Brazil central bank said economic activity accelerated in Q1.
+
+---
+
+### 2026-06-23 19:02:20  #公司 #國際
+
+波蘭燃氣系統公司（Gaz-System）決定將規劃中的第二座液化天然氣接收站年輸氣能力提升至61億立方米。
+
+---
+
+### 2026-06-23 19:02:19  #MKT News #BKR.O #Impact bullish
+
+Market sources: Baker Hughes has reached an agreement with ANOH to build a natural-gas plant in Nigeria.
+
+---
+
+### 2026-06-23 19:02:11  #央行 #其他
+
+巴西央行：上述路徑可避免引發金融資產價格與宏觀經濟總量出現過度波動，而這種波動會對通脹向目標水平收斂產生反效果。
+
+---
+
+### 2026-06-23 19:02:05  #其他
+
+【進迭時空自研互聯匯流排N200研發完成】6月23日，進迭時空宣佈，其新一代自研互聯匯流排N200正式完成研發。互聯匯流排N200將與通算CPU核X200、智算AI核A200一起應用於進迭時空的下一代計算晶片中，並預計於2027年正式量產。
+
+---
+
+### 2026-06-23 19:01:41  #央行 #其他
+
+巴西央行：貨幣政策委員會重申，將根據形勢發展調整本輪政策調整週期的幅度。
+
+---
+
+### 2026-06-23 19:01:35  #市場
+
+巴基斯坦KSE-100指數收盤下跌0.4%，報177774.30點。
+
+---
+
+### 2026-06-23 19:01:24  #公司
+
+加拿大太陽能旗下子公司E-Storage與Axpo將在義大利南部部署一套容量為8兆瓦/40兆瓦時的電池儲能系統。
+
+---
+
+### 2026-06-23 19:01:14  #其他
+
+帕蘭提爾與澤塔環球達成合作，將為未來營銷構建統一資料與人工智慧基礎設施。
+
+---
+
+### 2026-06-23 18:59:34  #其他
+
+埃森哲：預計第四季度股票回購規模為23億美元，其中包括追加的20億美元回購額度。
+
+---
+
+### 2026-06-23 18:59:30  #公司
+
+【京投發展：放棄18.98億元地塊專案商業機會】京投發展公告稱，2026年5月15日，北京市規劃和自然資源委員會發布0502地塊專案使用權出讓預申請公告，掛牌起始價18.98億元，公司控股股東京投公司意向參與競買。結合現階段經營業務以住宅開發銷售為主，公司決定放棄本次商業機會。該決定已獲獨立董事專門會議和董事會審議透過，不會對公司生產經營造成重大不利影響。
+
+---
+
+### 2026-06-23 18:59:14  #觀點
+
+【高盛：電動車銷量加速或令明年底全球石油需求減少32萬桶/日】受霍爾木茲海峽供應衝擊及燃油價格走高影響，全球乘用車電動車銷量明顯加速。高盛最新研報指出，若這一趨勢延續，至2027年12月，全球石油需求可能較基準情景減少13萬至32萬桶/日，相當於全球需求的0.1%至0.3%，為中長期油價帶來新的下行風險。
+
+---
+
+### 2026-06-23 18:58:42  #MKT News #Market Regions #Greater China
+
+【China summer grain procurement off to good start; wheat purchases exceed 30 mln tonnes】The National Food and Strategic Reserves Administration said summer grain harvests are underway and market-season procurement has begun, with cumulative wheat purchases exceeding 30 mln tonnes. Large-scale mechanized harvesting is largely complete and buying is proceeding orderly from south to north, with progress broadly in line with last year. Reserve firms are conducting rotation purchases while processors, traders and feed companies are actively buying, keeping market trade relatively active. Average purchase price in major producing areas is about 1.21 yuan/jin (≈2.42 yuan/kg); premiums for higher-quality varieties are roughly 0.10 yuan/jin. The administration will coordinate market-based procurement and policy reserves, strengthen market monitoring and early warning, refine extreme-weather contingency plans and improve post-harvest services (drying, cleaning) to ensure farmer sale channels and market stability.
+
+---
+
+### 2026-06-23 18:58:10  #其他
+
+【葛蘭素史克新可來在中國獲批用於治療高嗜酸性粒細胞增多綜合徵】6月23日，葛蘭素史克（GSK）宣佈，中國國家藥品監督管理局已批准新可來®（美泊利珠單抗注射液）用於成人和12歲及以上青少年無明確的非血液學繼發性病因的高嗜酸性粒細胞增多綜合徵（HES）的治療。
 
 ---
 
@@ -18745,253 +19151,5 @@ magyar, Hungary's prime minister, said the government will amend the constitutio
 ### 2026-06-22 19:27:04  #公司
 
 【中科曙光：董事及高管提前終止減持計劃，累計減持229.99萬股】中科曙光公告稱，截至2026年6月22日，公司董事、總經理歷軍，高階管理人員任京暘、翁啟南提前終止減持計劃。三人透過集中競價方式累計減持229.99萬股，佔公司總股本0.16%，減持總金額2.03億元。其中，歷軍減持181.92萬股，金額1.61億元；任京暘減持25.62萬股，金額2190.11萬元；翁啟南減持22.45萬股，金額1934.22萬元。三人未完成減持數量分別為450.12萬股、6.29萬股、1.00萬股。
-
----
-
-### 2026-06-22 19:26:48  #央行 #市場
-
-巴西央行調查：經濟學家預計2027年底巴西雷亞爾兌美元匯率將為5.27雷亞爾兌1美元，前次預期為5.25雷亞爾兌1美元。
-
----
-
-### 2026-06-22 19:26:44  #公司 #市場
-
-【旭光電子：股價短期漲幅近70% 提示交易風險】旭光電子公告稱，公司股票於2026年6月11日至22日期間累計漲幅達69.76%，短期上漲幅度較大，已積累巨大交易風險，存在市場情緒過熱、非理性炒作風險，嚴重偏離同期上證指數和行業指數。截至6月22日收盤，公司市盈率232.40、市淨率19.81，均顯著高於行業水平。2026年初至今，公司可控核聚變相關產品未交付實現收入；一季度，氮化鋁相關產品佔營收比重約5%，對業績影響不大。
-
----
-
-### 2026-06-22 19:26:42  #MKT News
-
-A Brazilian economist expects the SELIC policy rate to be 14.00% at end-2026, up from a prior forecast of 13.75%; expects 12.00% at end-2027, unchanged from the previous view.
-
----
-
-### 2026-06-22 19:26:24  #央行 #其他
-
-巴西央行調查：經濟學家預測2027年巴西GDP將增長1.70%，與前次預測持平。
-
----
-
-### 2026-06-22 19:26:23  #MKT News
-
-Brazilian economists forecast 2026 inf at 5.33% (previously 5.30%) and 2027 inf at 4.15% (previously 4.10%).
-
----
-
-### 2026-06-22 19:26:16  #央行 #市場
-
-巴西央行調查：經濟學家預測2026年底巴西雷亞爾兌美元匯率為5.20雷亞爾兌1美元，與此前預測一致。
-
----
-
-### 2026-06-22 19:26:06  #央行 #其他
-
-巴西央行調查：經濟學家將巴西2026年GDP增速預期從先前的1.96%上調至1.98%。
-
----
-
-### 2026-06-22 19:25:56  #央行 #其他
-
-巴西央行調查：經濟學家預計2026年底Selic目標利率為14.00%，前值預估為13.75%。
-
----
-
-### 2026-06-22 19:25:53  #MKT News #Brent #Impact bullish #WTI
-
-Norwegian Offshore Industrial Group said it will impose a work stoppage from Saturday in response to a strike by oil-service workers from the "Safe Labour Union", warning the halt will delay and suspend drilling operations on the Norwegian continental shelf.
-
----
-
-### 2026-06-22 19:25:32  #公司
-
-【聖湘生物：持股5%以上股東陳文義權益比例降至5%】聖湘生物公告稱，股東陳文義的權益比例從5.56%降至5.00%。2022年6月1日公司實施權益分派，其持股比例增至5.59%；2024年7月至2025年1月公司股份登出，其持股比例增至5.68%；2025年12月16日至2026年6月22日，法院透過集中競價減持其名下394.79萬股，佔總股本0.68%，持股比例降至5.00%。本次變動不觸及要約收購，不會影響公司控股權和經營。
-
----
-
-### 2026-06-22 19:25:29  #公司
-
-【*ST大晟：持股5%以上股東減持計劃實施完畢 減持100萬股】*ST大晟公告稱，公司持股5%以上股東許錦光此前因個人資金需求，擬減持不超559.46萬股，即不超過總股本的1.00%。截至公告披露日，許錦光於2026年4月8日透過集中競價方式減持100萬股，佔總股本的0.18%，減持價格區間為3.56 - 3.58元/股，減持總金額為356.68萬元。本次減持計劃實施完畢，許錦光當前持股3256.78萬股，持股比例降至5.82%。
-
----
-
-### 2026-06-22 19:24:26  #國際
-
-【美副總統萬斯：與伊朗談判非常順利 已設立黎巴嫩衝突降級機制】美國副總統萬斯在瑞士發表講話。他表示，與伊朗的談判非常順利，取得了很多積極進展。技術性討論將繼續，我即將返回美國。技術團隊仍有很多工作要做，技術談判將在未來幾周和幾天內繼續進行。萬斯指出，伊朗方面已同意邀請國際原子能機構檢查員回訪，核查員可能在本週、最早今天開始工作，他今天也可能會與核觀察人員進行討論。他強調，當伊朗說出不實之詞時，總統特朗普會作出回應。關於地區局勢，萬斯稱已為黎巴嫩設立了一個衝突降級機制，希望真主黨停止向以色列開火，該機制旨在遏制黎巴嫩衝突，同時希望確保有適當的協調，並尊重黎巴嫩的主權。此外，萬斯表示已建立一個保持霍爾木茲海峽開放的機制，目前霍爾木茲海峽已開放。他說，希望實現地區停火，並確保以色列的安全得到保障，同時認為已為成功達成最終協議奠定了非常好的基礎。
-
----
-
-### 2026-06-22 19:24:22  #宏觀
-
-【中央財政下達農業生產防災救災資金2.19億元】近日，財政部會同農業農村部下達農業生產防災救災資金2.19億元，支援內蒙古、湖北、湖南、廣東、重慶、貴州、雲南等7省份開展農業生產救災相關工作，重點對農作物改種補種、水毀農業設施修復、農田疏渠排澇、夏糧搶烘等救災措施給予適當補助，全力支援受災地區應對洪澇、風雹等災害影響，加快恢復農業生產、減少農業損失，助力夯實糧食豐收基礎。（央視新額）
-
----
-
-### 2026-06-22 19:24:04  #公司 #市場
-
-【西部資料盤前漲6.00%，現報791.00美元】西部資料盤前漲6.00%，現報791.00美元。訊息面上，西部資料完成與機構投資者的交換交易換回公司自身股票、減少流通股數量，並受儲存板塊因美光目標價上調及記憶體定價走強帶動整體走強提振。
-
----
-
-### 2026-06-22 19:24:01  #國際
-
-【日媒稱美軍再次在日部署堤豐中導】據日本《朝日新聞》報道，美國陸軍中程導彈系統“堤豐”從6月22日起，臨時部署至日本鹿兒島縣海上自衛隊鹿屋航空基地，參加當天開始的美軍主導的多國聯合演習。這是美軍繼去年9月首次在山口縣巖國基地臨時部署後，再次在日本境內部署該型中導系統。(CCTV國際時訊)
-
----
-
-### 2026-06-22 19:23:12  #Trading Economics #Markets #Commodity #Importance 0
-
-Brent Drops as Hormuz Flows and Iran Talks Improve — Brent crude oil fell to around $79.2 per barrel on Monday, hovering near its lowest level since early March as easing geopolitical tensions and progress in US-Iran negotiations supported expectations of a gradual recovery in Persian Gulf supply flows. Iranian Foreign Minister Abbas Araghchi said talks in Switzerland had made “major progress” toward stabilising the wider regional situation, despite earlier volatility and threats to suspend discussions. Mediators Qatar and Pakistan said both sides had agreed on a 60-day roadmap toward a potential final agreement, alongside ongoing technical discussions and the establishment of a monitoring mechanism. Also, shipping data indicated continued movement through the Strait of Hormuz over the weekend. Market participants also pointed to rising Iranian exports via the waterway, including discounted crude sales to China, as evidence of efforts to maintain market share despite the conflict.
-
----
-
-### 2026-06-22 19:23:00  #公司
-
-【華為乾崑智駕高階包7月1日起調價 一次性購買恢復至標準價3.6萬元】6月22日，引望釋出公告稱，華為乾崑智駕 ADS Max高階功能包將從7月1日起調整價格。其中，一次性購買的建議銷售價限時優惠將取消，由3.2萬元恢復至標準價3.6萬元。另值得注意的是，隨著此次價格的調整，引望還新增了ADS高階功能包保障與服務權益，對智駕保障權益進行了升級，將城區NCA（Navigation Cruise Assist，導航輔助駕駛）及高速NCA納入保障場景。據瞭解，上述權益是針對ADS高階功能包使用者在使用輔助駕駛的泊車功能或行車功能時提供的一項保障服務，保障標的車輛正常使用ADS輔助駕駛過程中在合法行駛道路和區域內發生意外事故所造成的自身及第三者人身損害或財產損失。（每日經濟新聞）
-
----
-
-### 2026-06-22 19:22:38  #MKT News
-
-EU Agency for Cybersecurity (ENISA) met with ANTHROPIC on Thursday, the European Commission said.
-
----
-
-### 2026-06-22 19:22:14  #其他
-
-【深圳端午二手房簽約量創近六年新高 同比增長28%】今年端午小長假，廣東深圳二手房成交熱度明顯提升。據深圳貝殼研究院監測，端午小長假期間（6月19日-6月21日），貝殼深圳合作門店二手房簽約量較去年同期增長28%，創下近六年同期新高。業內人士分析，端午假期深圳二手房成交同比走高，核心源於前期政策持續釋放紅利，疊加小長假完整看房視窗期，積壓剛需與置換改善需求集中釋放。不同於往年單純剛需拉動，今年呈現“兩端同步走量”：剛需房源消化提速，改善房源成交佔比同步抬升。市場不再是單一客群支撐，剛需上車、改善換房形成良性迴圈，持續帶動市場流通。 (央視財經)
-
----
-
-### 2026-06-22 19:22:11  #MKT News #WTI #Impact bearish #XAUUSD #DXY
-
-【U.S. Vice President Vance: Iran talks progressing; IAEA inspections possible this week; Lebanon de‑escalation and Hormuz mechanisms set up】U.S. Vice President Vance, speaking in Switzerland, said negotiations with Iran are progressing smoothly with significant positive steps and that technical talks will continue over the coming days and weeks. He said Iran has agreed to invite IAEA inspectors to return; inspectors could begin work this week, possibly today. Vance said President Trump would respond if Iran issues falsehoods. Vance also said a Lebanon conflict de‑escalation mechanism has been established to curb hostilities — including hopes Hezbollah will stop firing into Israel — while respecting Lebanese sovereignty and coordinating appropriately. He added a mechanism to keep the Strait of Hormuz open is in place and that the waterway is currently open, and said these steps aim to help secure a regional ceasefire and lay groundwork for a final agreement.
-
----
-
-### 2026-06-22 19:21:59  #Trading Economics #Markets #Commodity #Importance 2
-
-Oil Slips on Progress in US-Iran Negotiations — Crude oil fell to around $75.3 per barrel on Monday, hovering near its lowest level since early March as easing geopolitical tensions and progress in US-Iran negotiations supported expectations of a gradual recovery in Persian Gulf supply flows. Iranian Foreign Minister Abbas Araghchi said talks in Switzerland had made “major progress” toward stabilising the wider regional situation, despite earlier volatility and threats to suspend discussions. Mediators Qatar and Pakistan said both sides had agreed on a 60-day roadmap toward a potential final agreement, alongside ongoing technical discussions and the establishment of a monitoring mechanism. Also, shipping data indicated continued movement through the Strait of Hormuz over the weekend. Market participants also pointed to rising Iranian exports via the waterway, including discounted crude sales to China, as evidence of efforts to maintain market share despite the conflict.
-
----
-
-### 2026-06-22 19:21:19  #公司
-
-【無錫振華：擬以1.08億元收購德維嘉汽車電子系統57%的股權】無錫振華公告，為進一步延伸產業鏈佈局，提升企業競爭實力，公司與德維嘉汽車電子系統（無錫）有限公司的股東繆蔚翰、姚翔、浙江珠城科技股份有限公司、王燕簽署股權轉讓協議，擬以自有或自籌資金現金方式收購德維嘉控股權。本次收購完成後，目標公司將成為公司的控股子公司。交易價格為1.08億元，資金來源為自有資金、銀行貸款。交易採用分期付款方式，首付款為交易價款的30%，交割款為交易價款的70%。本次交易設定業績承諾，業績承諾期為2026-2028年度，目標公司在業績承諾期內實現的淨利潤累計不低於6000萬元。
-
----
-
-### 2026-06-22 19:21:16  #MKT News
-
-【Israeli airstrikes hit multiple locations in Gaza, kill two and wound several】Palestinian sources said on the 22nd that Israeli airstrikes struck multiple targets in the Gaza Strip, including northern Gaza City and southern Khan Younis, killing two Palestinians—one a student—and wounding several others.
-
----
-
-### 2026-06-22 19:21:15  #公司
-
-【四川科創服務體系建設方案出爐】中共四川省委科技委員會辦公室近日正式印發《四川省“線上科創通+線下科創島”科創服務體系建設方案》（以下簡稱《方案》），給出了一套詳盡的四川方案。《方案》按照“一體兩翼、雙輪驅動、互為賦能”的定位，規劃佈局“線上科創通+線下科創島”科創服務體系，並提出兩個階段性發展目標。
-
-到2027年，新增集聚科技服務機構、創新平臺、科技型企業等500家以上，引育高層次人才超過500人；服務創新主體10萬家/次以上，促成技術交易超過200億元。到2030年，“線上科創通+線下科創島”科創服務品牌影響力全面彰顯，線上線下資源共享、功能孿生、服務適配、連結全國的科創綜合服務生態基本形成。
-
-《方案》提出，在四川省科創通平臺分類搭建研究開發、技術轉移轉化、企業孵化等共11類科技服務業態專屬功能模組，植入政策精準推送、供需智慧匹配、產業創新圖譜繪製等核心功能。與此同時，介面也要改：以“淘寶”“京東”模式最佳化，打造直觀清晰導航專欄。
-
-為增強平臺市場化運營活力，《方案》提出推廣與米格實驗室合作模式，按細分服務板塊引入萬方資料、四川省中試公司等第三方服務機構和平臺。更值得關注的是，將探索省、市、區協同組建推廣運營公司，聯合技術開發方負責四川省科創通平臺建設運營。
-
-針對區域資料互通難題，《方案》要求推動市（州）聚焦重點產業、特色優勢領域，在四川省科創通平臺開設區域專屬服務板塊。同時統一省平臺與市（州）不同系統模組的技術標準和介面規範，實現不同系統賬戶關聯，一個賬戶共聯通用。（四川釋出）
-
----
-
-### 2026-06-22 19:20:56  #國際
-
-【以軍空襲加沙地帶多地造成2人死亡 多人受傷】總檯記者當地時間22日自巴勒斯坦方面獲悉，以軍當天對加沙地帶北部加沙城以及南部汗尤尼斯等多處目標發動連續空襲，造成包括一名學生在內的兩名巴勒斯坦人死亡，另有多人受傷。（央視新聞）
-
----
-
-### 2026-06-22 19:20:39  #市場
-
-【“一年五倍基”今日又大漲 兩隻“概念基”反跌停】由金梓才管理的財通福鑫定開混合今日繼續上漲，中午收市時漲幅為7.41%，溢價率達42.30%。由於溢價率過高，該基金自下午開盤起至當日收盤停牌。截至收盤，該基金的漲幅小幅回落至6.76%，二級市場溢價率為41.44%。為維護投資者利益，該基金將於本週二全天停牌。截至6月18日，該基金近一年的淨值漲幅達529.09%，是一隻“一年五倍基”。值得注意的是，上週除金梓才管理產品以外的財通基金旗下多隻LOF產品也被炒高，二級市場溢價率大幅上行。但這些“概念基”今日多數下跌，其中財通精選混合LOF、財通福瑞混合LOF兩隻均跌停。
-
----
-
-### 2026-06-22 19:20:03  #MKT News #WTI #Impact bearish #Brent
-
-【Vance says US-Iran Switzerland talks laid groundwork for final agreement】U.S. Vice President Vance said on June 22 that U.S. and Iranian negotiators in Switzerland had made significant progress, laying a strong foundation for a final agreement, and that Iran had agreed to invite IAEA inspectors back to the country.
-
----
-
-### 2026-06-22 19:19:10  #央行 #國際
-
-【前美聯儲主席格林斯潘逝世 享年100歲】艾倫・格林斯潘的妻子在一份宣告中證實，這位極具影響力的經濟學家於週一離世。他曾五度出任美聯儲主席，在四任美國總統任期內執掌美國貨幣政策。 從冷戰末期到數字時代來臨，格林斯潘深刻塑造了現代美國資本主義的發展軌跡。他執掌美聯儲期間，見證了美國史上持續時間最長的一輪經濟擴張週期，這場經濟繁榮從1991年延續至2001年。但也有不少批評者指責，他推行的多項政策（例如主張放鬆金融業監管）為2007至2008年全球金融危機埋下了隱患。 米切爾在宣告中表示：“艾倫今早於家中離世，享年100歲，死因是帕金森病引發的多種併發症。” “他是一位時代巨人，在兩黨多位總統執政的數十年間深刻影響美國經濟走向，同時他始終坦誠直面自己犯下的決策失誤。”她說道。
-
----
-
-### 2026-06-22 19:18:49  #公司
-
-【ST中裝：申請撤銷公司股票交易其他風險警示】ST中裝公告稱，2026年6月22日，公司董事會同意向深交所申請撤銷因主要銀行賬號被凍結實施的其他風險警示。截至公告披露日，被凍結主要銀行賬戶均已解除凍結，資金收付功能已恢復。此前，公司於4月29日向深交所提交的撤銷另外兩項其他風險警示的申請，尚處補充材料階段。在深交所稽核期間，公司股票不停牌，正常交易，申請能否獲批尚不確定，提醒投資者注意風險。
-
----
-
-### 2026-06-22 19:18:34  #MKT News
-
-U.S. Vice President Vance's remarks concluded.
-
----
-
-### 2026-06-22 19:17:56  #公司 #市場
-
-【祥龍電業：股票交易異常波動 不存在應披露未披露重大事項】祥龍電業公告稱，公司股票於2026年6月17日、6月18日、6月22日連續三個交易日日收盤價格漲幅偏離值累計超過20%，屬異常波動。經自查及向實控人和控股股東核實，截至公告披露日，不存在應披露而未披露的重大事項。目前公司生產經營正常，未發現媒體報道、市場傳聞等可能影響股價的因素。提醒投資者注意市場交易、生產經營等風險。
-
----
-
-### 2026-06-22 19:17:51  #公司 #市場
-
-【祥龍電業：股票交易異常波動 不存在應披露未披露重大事項】祥龍電業公告稱，公司股票於2026年6月17日、6月18日、6月22日連續三個交易日日收盤價格漲幅偏離值累計超過20%，屬異常波動。經自查及向實控人和控股股東核實，截至公告披露日，不存在應披露而未披露的重大事項。目前公司生產經營正常，未發現媒體報道、市場傳聞等可能影響股價的因素。提醒投資者注意市場交易、生產經營等風險。
-
----
-
-### 2026-06-22 19:17:47  #其他
-
-【國家防總：未來三天主雨帶仍在貴州廣西等地 西南江南等有大暴雨】6月22日，國家防總辦公室、應急管理部組織中國氣象局、水利部、自然資源部、住房城鄉建設部、交通運輸部等多部門滾動會商，研判近期降雨趨勢，督促指導重點省份做好江河洪水防禦和強降雨防範應對工作。國家防總繼續維持針對江蘇、安徽、江西、湖北、湖南、廣西、重慶、貴州的防汛四級應急響應。會商指出，未來三天，主雨帶仍將維持在貴州、廣西至長江中下游地區，西南地區東部和南部、江淮、江南、華南西部等地有大到暴雨，部分地區有大暴雨，局地特大暴雨。珠江流域柳江編號洪水正向下游演進，西江部分江段將出現漲水過程。(央視新聞)
-
----
-
-### 2026-06-22 19:17:26  #宏觀 #兩會
-
-【李鴻忠在學習貫徹實施民族團結進步促進法座談會上強調 以民族團結進步促進法的高質量實施 保障和推動民族工作高質量發展】中共中央政治局委員、全國人大常委會副委員長李鴻忠22日在京出席學習貫徹實施民族團結進步促進法座談會並講話。他強調，要堅持以習近平新時代中國特色社會主義思想為指導，深入學習貫徹習近平總書記關於加強和改進民族工作的重要思想，以民族團結進步促進法的高質量實施，保障和推動民族工作高質量發展。李鴻忠強調，習近平總書記關於加強和改進民族工作的重要思想是新時代黨的民族工作的根本遵循和行動指南。要站在堅定擁護“兩個確立”、堅決做到“兩個維護”的政治高度，增強貫徹實施民族團結進步促進法的政治責任感和歷史使命感。要準確把握民族團結進步促進法的精神實質和主要內容，堅持黨對民族工作的全面領導，堅持鑄牢中華民族共同體意識主線，堅持推動各民族共同繁榮發展，堅持依法治理民族事務。要紮實推動全社會學習好貫徹好實施好民族團結進步促進法，系統協同推進法律實施，做好法律配套銜接，加強法治宣傳教育，營造“中華民族一家親、同心共築中國夢”的濃厚社會氛圍。（新華社）
-
----
-
-### 2026-06-22 19:16:29  #公司
-
-【盟科藥業：5059.05萬股限售股7月1日解禁上市流通】盟科藥業公告稱，本次上市流通的限售股屬於首次公開發行前部分限售股，涉及王星海、袁紅等5名股東，共50,590,485股，佔公司總股本比例為7.71%，將於2026年7月1日上市流通。公司上市後因實施2023年限制性股票激勵計劃，股本總數由655,210,084股增加至656,228,380股。保薦機構認為，本次限售股份上市流通申請符合要求，無異議。
-
----
-
-### 2026-06-22 19:16:16  #公司
-
-【榮昌生物：1.93億股限售股7月1日上市流通，佔總股本34.16%】榮昌生物公告稱，本次解除限售股份的上市流通日期為2026年7月1日，解除限售的股東共8名，解除限售股份共計192,803,132股，佔公司股本總額的34.16%，實際可上市流通數量為192,803,132股。該部分限售股原鎖定期為自公司A股首次公開發行並上市之日（2022年3月31日）起3個完整會計年度，因觸發延長股份鎖定期的承諾履行條件而延長6個月。保薦機構認為，本次限售股份解除限售數量、上市流通時間符合相關規定，同意本次解除限售股份上市流通。
-
----
-
-### 2026-06-22 19:16:16  #MKT News #Market Regions
-
-Hungary's Prime Minister magyar said he will introduce broad economic, political and legal measures to eliminate corruption in Hungary.
-
----
-
-### 2026-06-22 19:16:15  #MKT News #Market Themes #AI Revolution
-
-【Central University of Finance and Economics and Zhaoqi Supply Chain open-source WorkMate AI targeting plastics sector】At a June 22 forum the Central University of Finance and Economics and Zhaoqi Supply Chain open-sourced WorkMate, a 'super AI' workplace assistant. Commercial rollout will focus on the plastics sector — annual trading in plastics exceeds 2 tln yuan and involves about 300,000 upstream and downstream firms — using open-source trials, feedback and co-development to establish industry standards. The partners plan horizontal expansion into non-ferrous metals, agricultural commodities and building materials.
-
----
-
-### 2026-06-22 19:16:06  #MKT News
-
-U.S. Vice President Vance on Lebanon: This will be an ongoing dialogue.
-
----
-
-### 2026-06-22 19:15:54  #MKT News #Macro & Rates #US Economy
-
-U.S. Vice President Vance said if Iran's assets are unfrozen, U.S. farmers would be richer.
 
 ---
