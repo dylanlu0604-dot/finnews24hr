@@ -1,7 +1,236 @@
 {
-  "updated": "2026-06-26 00:01:03",
-  "count": 16906,
+  "updated": "2026-06-26 00:05:16",
+  "count": 16907,
   "items": [
+    {
+      "id": "4955592",
+      "time": "2026-06-26 00:04:14",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國及海灣國家呼籲黎巴嫩境內非國家武裝團體全面解除武裝。"
+    },
+    {
+      "id": "mkt:019eff86-5617-7dd8-b121-39afc942f3dd",
+      "time": "2026-06-26 00:04:14",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "The United States and Gulf countries called for the complete disarmament of non-state armed groups in Lebanon."
+    },
+    {
+      "id": "4955591",
+      "time": "2026-06-26 00:03:56",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國及海灣國家就黎巴嫩問題表態：談判不以其他衝突的結果為前提條件。"
+    },
+    {
+      "id": "mkt:019eff85-fdaa-7dd8-b121-3119ef299ff5",
+      "time": "2026-06-26 00:03:51",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. and Gulf states say negotiations will not be conditional on the outcomes of other conflicts."
+    },
+    {
+      "id": "4955590",
+      "time": "2026-06-26 00:03:39",
+      "tags": [
+        "其他",
+        "焦點"
+      ],
+      "text": "波斯灣原油出口反彈至戰前水平的75%， 截至週三，三日之內已有 1300 萬桶原油運離該地區。"
+    },
+    {
+      "id": "mkt:019eff85-ce47-7dd8-b121-2c662e4fa8e8",
+      "time": "2026-06-26 00:03:39",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "The U.S. and Gulf states issued a joint statement on Lebanon, stressing the importance of maintaining the negotiation process."
+    },
+    {
+      "id": "te:markets:561966",
+      "time": "2026-06-26 00:03:36",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Germany",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "DAX Outshines European Peers — The DAX 40 pushed higher to close about 1% firmer at 25,000 on Thursday, marking the second day of gains and outperforming its European peers, driven by pharma and tech stocks. Bayer shares jumped over 19% after a US Supreme Court ruling in favor of the pharmaceutical and agrochemical company in lawsuits related to its Roundup weedkiller. Infineon Technologies was also among the top gainers, rising 3.1%, boosted by renewed investor confidence in AI following encouraging outlooks from chipmakers Micron Technology and Qualcomm. Vonovia advanced 3% following a buy recommendation from Deutsche Bank. Meanwhile, Volkswagen rose 1.7% after confirming the sale of a majority stake in its engine unit Everllence to private equity firm Bain Capital for approximately €7.4 billion, supporting its restructuring plans and easing debt concerns. On the losing side, Fresenius Medical Care (-3%) and Scout24 (-2.8%) posted the biggest declines."
+    },
+    {
+      "id": "mkt:019eff85-ad12-7dd8-b121-20a180f6dd74",
+      "time": "2026-06-26 00:03:31",
+      "tags": [
+        "MKT News",
+        "DIS.O",
+        "Impact bearish"
+      ],
+      "text": "U.S. FCC Chair Carl said the agency is advancing a review of ABC's broadcast license and that all options remain on the table."
+    },
+    {
+      "id": "4955589",
+      "time": "2026-06-26 00:03:29",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國及海灣國家就黎巴嫩問題發表聯合宣告：強調堅持談判程序的重要性。"
+    },
+    {
+      "id": "mkt:019eff85-54d5-7dd8-b121-1935e82f20f9",
+      "time": "2026-06-26 00:03:08",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Canadian Prime Minister Carney says Ottawa will provide humanitarian aid to Venezuela."
+    },
+    {
+      "id": "mkt:019eff85-5057-7dd8-b121-11dd483f4b8b",
+      "time": "2026-06-26 00:03:07",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Alphabet",
+        "Market Themes",
+        "Magnificent 7"
+      ],
+      "text": "Google (GOOG.O) launched a new Google Finance app for Android today and will roll out the \"Portfolio\" feature globally in the new Google Finance starting this week. An iOS version is scheduled for later this year."
+    },
+    {
+      "id": "4955588",
+      "time": "2026-06-26 00:02:53",
+      "tags": [
+        "其他"
+      ],
+      "text": "加拿大總理卡尼：正採取行動向委內瑞拉提供人道主義援助。"
+    },
+    {
+      "id": "4955587",
+      "time": "2026-06-26 00:02:47",
+      "tags": [
+        "其他"
+      ],
+      "text": "聯邦通訊委員會主席卡爾表示，該機構正在推進對ABC廣播執照的審查，並稱所有選項仍在考慮範圍內。"
+    },
+    {
+      "id": "4955586",
+      "time": "2026-06-26 00:02:42",
+      "tags": [
+        "公司"
+      ],
+      "text": "谷歌：將於今年晚些時候推出iOS版財經應用。"
+    },
+    {
+      "id": "4955585",
+      "time": "2026-06-26 00:02:11",
+      "tags": [
+        "公司"
+      ],
+      "text": "谷歌：從本週起，我們將在新版本谷歌財經中向全球推出投資組合功能。"
+    },
+    {
+      "id": "4955584",
+      "time": "2026-06-26 00:02:08",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：日本原子能規制委員會力爭最早於2027年推動相關法律修訂。"
+    },
+    {
+      "id": "mkt:019eff84-5151-7dd8-b121-0aadfb8f1c40",
+      "time": "2026-06-26 00:02:02",
+      "tags": [
+        "MKT News",
+        "Important",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "DXY"
+      ],
+      "text": "An Iranian source close to the negotiating team said Israeli withdrawal from Lebanon is a condition for a final Iran–US agreement and constitutes Iran’s red line."
+    },
+    {
+      "id": "4955583",
+      "time": "2026-06-26 00:01:54",
+      "tags": [
+        "公司"
+      ],
+      "text": "谷歌：今日我們還將推出一款面向安卓系統的全新谷歌財經應用。"
+    },
+    {
+      "id": "4955582",
+      "time": "2026-06-26 00:01:30",
+      "tags": [
+        "國際"
+      ],
+      "text": "加拿大總理卡尼：週三沒有與美國總統特朗普討論美墨加協定（USMCA）。"
+    },
+    {
+      "id": "4955581",
+      "time": "2026-06-26 00:01:27",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "伊朗談判團隊知情人士向本國官方媒體透露：以色列撤出黎巴嫩是伊美達成最終協議的前提條件，同時也是伊朗的紅線。"
+    },
+    {
+      "id": "4955580",
+      "time": "2026-06-26 00:01:05",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "巴西央行官員：對2028年通脹預期並無過度樂觀情緒。"
+    },
+    {
+      "id": "mkt:019eff83-6cad-7dd8-b121-01259c5fa47e",
+      "time": "2026-06-26 00:01:03",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Canadian Prime Minister Carney said on Wednesday he did not discuss the US-Mexico-Canada Agreement (USMCA) with U.S. President Trump."
+    },
+    {
+      "id": "4955579",
+      "time": "2026-06-26 00:00:50",
+      "tags": [
+        "市場"
+      ],
+      "text": "洲際交易所英國 7 月天然氣期貨結算價報 96.52 便士 / 熱量單位。"
+    },
+    {
+      "id": "4955578",
+      "time": "2026-06-26 00:00:14",
+      "tags": [
+        "國際"
+      ],
+      "text": "房地美：美國抵押貸款利率微升至 6.49%。"
+    },
+    {
+      "id": "te:markets:561965",
+      "time": "2026-06-25 23:59:51",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "US Natgas Prices Rise to 3-Week High — US natural gas prices climbed toward $3.28 per MMBtu, the highest in three weeks, propelled by increased flows to liquefied natural gas export facilities and forecasts for warmer weather through July 10. This hotter weather is expected to drive up electricity demand for air conditioning in a country where gas-fired plants generate roughly 40% of the power supply. Average daily flows to major export plants rose to 17.3 billion cubic feet so far in June, up from 17.1 billion cubic feet in May, boosted by record feedgas activity at the Golden Pass facility in Texas. Simultaneously, the Energy Information Administration reported a near-normal storage injection of 76 billion cubic feet for the week ended June 19. This addition keeps domestic stockpiles about 5.7% above seasonal norms. At the same time, production in the Lower 48 states has been steady at 109.7 billion cubic feet per day so far in June, unchanged from the previous month."
+    },
+    {
+      "id": "4955577",
+      "time": "2026-06-25 23:59:37",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：日本將提前開展反恐審查，簡化核電站審批流程。"
+    },
     {
       "id": "te:markets:561964",
       "time": "2026-06-25 23:59:31",
@@ -154365,223 +154594,6 @@
         "MKT News"
       ],
       "text": "Ukraine defense minister says allies have pledged $1 billion in wartime aid."
-    },
-    {
-      "id": "4943997",
-      "time": "2026-06-19 00:04:40",
-      "tags": [
-        "其他"
-      ],
-      "text": "SPACEX股價跌幅擴大至9%。"
-    },
-    {
-      "id": "mkt:019edb7a-24c3-7dd8-b084-a6bf6035aa35",
-      "time": "2026-06-19 00:04:35",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bearish",
-        "XAUUSD",
-        "DXY"
-      ],
-      "text": "U.S. Vice President Vance said Iran's missile-launch capability has been degraded."
-    },
-    {
-      "id": "4943996",
-      "time": "2026-06-19 00:04:18",
-      "tags": [
-        "公司"
-      ],
-      "text": "索尼集團公司：提交儲架發行債務申請，規模未披露。"
-    },
-    {
-      "id": "4943995",
-      "time": "2026-06-19 00:03:49",
-      "tags": [
-        "國際"
-      ],
-      "text": "萬斯談伊朗彈道導彈：伊朗的導彈發射能力已遭到削弱。"
-    },
-    {
-      "id": "mkt:019edb79-28a8-7dd8-b084-9a1233cc4dd1",
-      "time": "2026-06-19 00:03:30",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "U.S. Vice President Vance said he will lead the U.S. team in technical talks."
-    },
-    {
-      "id": "4943994",
-      "time": "2026-06-19 00:03:26",
-      "tags": [
-        "國際"
-      ],
-      "text": "【白宮向國會提交美伊諒解備忘錄文字】據Politico，白宮週四向美國國會提交了美伊諒解備忘錄。此前，兩黨議員一直抱怨未能更早收到該協議。檔案顯示，美國與伊朗就至少暫時結束由特朗普發起、持續近四個月的軍事行動達成了14項共識。國會收到該協議的時間是在特朗普週三晚間於法國簽署檔案之後不久，隨後副總統萬斯在白宮向記者介紹了該協議。週三，一名特朗普政府官員在向國會議員提供檔案之前，先向記者宣讀了諒解備忘錄內容。此舉引發大批共和黨參議員以及部分眾議院共和黨議員強烈不滿。白宮高階官員已與部分共和黨議員舉行小範圍會議和一對一通話，但預計特朗普政府要到下週才會向全體議員通報該協議。"
-    },
-    {
-      "id": "mkt:019edb79-14bc-7dd8-b084-95c45ae2219e",
-      "time": "2026-06-19 00:03:25",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bearish",
-        "S&P500",
-        "Impact bullish",
-        "DXY"
-      ],
-      "text": "【White House submits U.S.-Iran memorandum of understanding to Congress — Politico】Politico reports the White House on Thursday delivered to Congress the text of a U.S.-Iran memorandum of understanding. The document records a 14-point consensus that would, at least temporarily, end U.S. military operations initiated by Trump and continued for nearly four months. Congress received the text shortly after Trump signed it in France Wednesday night; Vice President Pence later briefed reporters. A Trump administration official read the memorandum to reporters before it was provided to members of Congress, sparking strong objections from many Republican senators and some House Republicans. White House senior officials have held limited briefings and one-on-one calls with some Republicans; a full briefing for all members is expected next week."
-    },
-    {
-      "id": "4943993",
-      "time": "2026-06-19 00:03:16",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國副總統萬斯就技術談判表態：我將率領美國代表團。"
-    },
-    {
-      "id": "mkt:019edb78-cd3f-7dd8-b084-8aa43160c253",
-      "time": "2026-06-19 00:03:07",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "U.S. Vice President Vance said he still plans to launch technical talks this weekend but is reviewing the specific details."
-    },
-    {
-      "id": "4943992",
-      "time": "2026-06-19 00:02:57",
-      "tags": [
-        "國際"
-      ],
-      "text": "萬斯：明天可能去瑞士，取決於伊朗的情況。"
-    },
-    {
-      "id": "mkt:019edb78-70ce-7dd8-b084-817a4a65cb67",
-      "time": "2026-06-19 00:02:43",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "US and Iran will hold talks on releasing frozen Iranian funds."
-    },
-    {
-      "id": "4943991",
-      "time": "2026-06-19 00:02:36",
-      "tags": [
-        "國際"
-      ],
-      "text": "白宮遞交給國會的文字顯示：美國與伊朗最終協議將獲得聯合國安理會決議背書。"
-    },
-    {
-      "id": "4943990",
-      "time": "2026-06-19 00:02:30",
-      "tags": [
-        "國際"
-      ],
-      "text": "烏克蘭國防部長： 烏克蘭獲得盟友 10 億美元戰時援助承諾。"
-    },
-    {
-      "id": "mkt:019edb78-2406-7dd8-b084-7aff197c1ba9",
-      "time": "2026-06-19 00:02:24",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "US to grant waivers for Iranian oil exports."
-    },
-    {
-      "id": "mkt:019edb78-1a2d-7dd8-b084-71fcb55e4c5f",
-      "time": "2026-06-19 00:02:21",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "U.S. Vice President Vance said regarding a planned signing of an Iran agreement in Geneva that the U.S. plans to attend but the timing is uncertain."
-    },
-    {
-      "id": "4943989",
-      "time": "2026-06-19 00:02:17",
-      "tags": [
-        "國際"
-      ],
-      "text": "白宮遞交給國會的文字顯示：美國與伊朗將就解凍伊朗被凍結資金事宜展開談判。"
-    },
-    {
-      "id": "4943988",
-      "time": "2026-06-19 00:02:12",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國副總統萬斯：仍計劃於本週末啟動技術性談判，但目前仍在梳理相關安排。"
-    },
-    {
-      "id": "4943986",
-      "time": "2026-06-19 00:01:58",
-      "tags": [
-        "其他"
-      ],
-      "text": "萬斯：計劃去瑞士，但不知道什麼時候去。"
-    },
-    {
-      "id": "4943985",
-      "time": "2026-06-19 00:01:54",
-      "tags": [
-        "其他"
-      ],
-      "text": "萬斯：技術研討會可能會在本週末某個時候開始。"
-    },
-    {
-      "id": "4943984",
-      "time": "2026-06-19 00:01:49",
-      "tags": [
-        "國際"
-      ],
-      "text": "白宮遞交給國會的文字顯示：伊朗稱將不會獲取或開發核武器。"
-    },
-    {
-      "id": "4943983",
-      "time": "2026-06-19 00:01:43",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國副總統萬斯就伊朗協議日內瓦簽署一事表態：我們計劃到場，具體時間尚未確定。"
-    },
-    {
-      "id": "mkt:019edb77-77ee-7dd8-b084-6d32373bd731",
-      "time": "2026-06-19 00:01:40",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "Iran says it will ensure free and safe passage for commercial vessels through the Strait of Hormuz for 60 days."
-    },
-    {
-      "id": "4943981",
-      "time": "2026-06-19 00:01:38",
-      "tags": [
-        "國際"
-      ],
-      "text": "白宮遞交給國會的文字顯示：美國將解除對伊朗的制裁。"
-    },
-    {
-      "id": "4943980",
-      "time": "2026-06-19 00:01:21",
-      "tags": [
-        "國際"
-      ],
-      "text": "【外交部發言人就韓國外交部官員完整公開重申中韓建交聯合公報涉臺表述答記者問】外交部發言人就韓國外交部官員完整公開重申中韓建交聯合公報涉臺表述答記者問。問：韓國外交部東北亞中亞局長南鎮18日向記者表示，韓中建交聯合公報指出“大韓民國政府承認中華人民共和國政府為中國的唯一合法政府，並尊重中方只有一箇中國、臺灣是中國的一部分之立場”，韓方上述立場沒有變化。中方對此有何評論？答：韓國總統李在明今年1月訪華前夕接受中國媒體採訪時就臺灣問題表示，“韓中兩國的基本關係，在建交之初就確立了非常原則的、基本的立場。韓政府始終恪守這一立場，從未偏離。韓方對中國最核心的關切——臺灣問題，將一如既往秉持尊重一箇中國的立場”。此後他來華國事訪問時表示，韓方尊重中國核心利益和重大關切，堅持一箇中國。此次韓國外交部主管局長向媒體完整、公開重申中韓建交公報涉臺表述，即“大韓民國政府承認中華人民共和國政府為中國的唯一合法政府，並尊重中方只有一箇中國、臺灣是中國的一部分之立場”，中方對此積極評價。我們希望並相信韓方會堅守建交初心，恪守政治承諾，以實際行動踐行一箇中國原則，維護中韓關係政治基礎。"
-    },
-    {
-      "id": "4943979",
-      "time": "2026-06-19 00:01:11",
-      "tags": [
-        "國際"
-      ],
-      "text": "白宮遞交給國會的文字顯示：伊朗將在60天內保障霍爾木茲海峽過往商船免費安全通行。"
     }
   ]
 }
