@@ -1,7 +1,158 @@
 {
-  "updated": "2026-06-26 01:00:30",
-  "count": 16893,
+  "updated": "2026-06-26 01:04:34",
+  "count": 16891,
   "items": [
+    {
+      "id": "4955667",
+      "time": "2026-06-26 01:03:21",
+      "tags": [
+        "市場"
+      ],
+      "text": "週四（6月25日）歐市尾盤，英國10年期國債收益率漲1.6個基點，報4.699%。兩年期英債收益率跌1.4個基點，報4.115%。30年期英債收益率漲2.6個基點，50年期英債收益率漲1.0個基點。2/10年期英債收益率利差漲3.268個基點，報+58.464個基點，整體持續上揚。"
+    },
+    {
+      "id": "4955666",
+      "time": "2026-06-26 01:03:09",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國向一級交易商授予12.8%的七年期國債。\n美國將29.7%的七年期國債授予直接競標者。\n美國七年期國債競價/承銷比率為2.50，低於上次拍賣的2.52。\n美國將57.6%的七年期國債授予間接競標者。\n美國七年期國債收益率下降4.260%；配售比例高達36.22%。\n美國7年期國債收益率下降4.260%，與預售時的發行收益率持平。"
+    },
+    {
+      "id": "mkt:019effbb-8283-7dd8-b122-612b7850426b",
+      "time": "2026-06-26 01:02:19",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish",
+        "XAUUSD"
+      ],
+      "text": "U.S. 7-year Treasury auction settling June 25: stop-out yield 4.26% vs 4.29% prior."
+    },
+    {
+      "id": "mkt:019effbb-6c30-7dd8-b122-5cbe319217c5",
+      "time": "2026-06-26 01:02:13",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y",
+        "Impact mixed"
+      ],
+      "text": "US 7-year Treasury auction through June 25: share allocated at the stop-out yield 36.22%, prior 71.23%."
+    },
+    {
+      "id": "mkt:019effbb-6ab3-7dd8-b122-50e42a219460",
+      "time": "2026-06-26 01:02:13",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish",
+        "XAUUSD"
+      ],
+      "text": "U.S. 7-year Treasury auction June 25: bid-cover ratio 2.50, prior 2.52."
+    },
+    {
+      "id": "4955665",
+      "time": "2026-06-26 01:02:05",
+      "tags": [
+        "其他"
+      ],
+      "text": "巴基斯坦總理謝里夫：祝賀阿里總理及繁榮黨在衣索比亞議會選舉中取得勝利。期待雙方攜手協作，進一步鞏固兩國友好紐帶。"
+    },
+    {
+      "id": "mkt:019effbb-486e-7dd8-b122-4b8fd9c07aa0",
+      "time": "2026-06-26 01:02:04",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United States | 7-Year Note Auction Accepted at High (Jun.25) | actual 36.22% | previous 71.23%"
+    },
+    {
+      "id": "mkt:019effbb-485a-7dd8-b122-42d0f0bf2883",
+      "time": "2026-06-26 01:02:04",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United States | 7-Year Note Auction Bid/Cover Ratio (Jun.25) | actual 2.5 | previous 2.52"
+    },
+    {
+      "id": "mkt:019effbb-4849-7dd8-b122-3d7b2d483179",
+      "time": "2026-06-26 01:02:04",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United States | 7-Year Note Auction High Yield Rate (Jun.25) | actual 4.26% | previous 4.29%"
+    },
+    {
+      "id": "mkt:019effba-b4ed-7dd8-b122-3624265bb53a",
+      "time": "2026-06-26 01:01:26",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Industrial Metals",
+        "Copper",
+        "Impact bullish"
+      ],
+      "text": "【Night session most-active contracts close】Night session most-active contracts at the 01:00 close: SHFE rebar +1.40%, SHFE tin +0.91%, SHFE copper +0.90%, international copper most-active +0.81%, SHFE lead +0.25%, SHFE nickel +0.17%, SHFE aluminum -0.17%, SHFE zinc -0.12%, SHFE alumina -0.78%."
+    },
+    {
+      "id": "4955664",
+      "time": "2026-06-26 01:00:40",
+      "tags": [
+        "宏觀",
+        "市場",
+        "國際"
+      ],
+      "text": "美國財政部 7 年期 WI 國債收益率報 4.260%，即將發行 440 億美元標售。"
+    },
+    {
+      "id": "4955663",
+      "time": "2026-06-26 01:00:28",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲：美國6月24日當週未季調商業票據未償餘額增加148億美元。"
+    },
+    {
+      "id": "4955662",
+      "time": "2026-06-26 01:00:24",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲：美國6月第24周未季調未償外國金融商業票據餘額增加110億美元。"
+    },
+    {
+      "id": "4955661",
+      "time": "2026-06-26 01:00:19",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲：經季節性調整後，美國6月24日當週未償商業票據餘額減少35億美元。"
+    },
+    {
+      "id": "4955660",
+      "time": "2026-06-26 01:00:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "【夜盤期貨收盤】國際銅夜盤收漲0.90%，滬銅收漲0.90%，滬鋁收跌0.17%，滬鋅收跌0.12%，滬鉛收漲0.25%，滬鎳收漲0.23%，滬錫收漲0.91%。氧化鋁夜盤收跌0.78%，鋁合金收跌0.44%。不鏽鋼夜盤收漲1.40%。"
+    },
     {
       "id": "4955659",
       "time": "2026-06-26 00:59:14",
@@ -154348,164 +154499,6 @@
         "市場"
       ],
       "text": "【Alphabet、Visa等公司釋放加強AI監管訊號】企業董事會不能再僅僅停留在考慮人工智慧（AI）監管的層面——他們必須向投資者明確展示他們對此有多重視、由誰負責以及準備如何採取行動。據2026年代理宣告顯示，谷歌母公司Alphabet Inc.、Visa Inc.和Regeneron Pharmaceuticals Inc.等少數標普500指數成分股公司，在過去一年中要麼設立了新的董事會委員會，要麼更新了現有委員會的職責以加強對AI的監管。"
-    },
-    {
-      "id": "4944107",
-      "time": "2026-06-19 01:04:23",
-      "tags": [
-        "其他"
-      ],
-      "text": "豐田：北美地區開展車輛召回。"
-    },
-    {
-      "id": "4944106",
-      "time": "2026-06-19 01:04:11",
-      "tags": [
-        "其他"
-      ],
-      "text": "豐田召回部分2026款豐田bZ系列及雷克薩斯RZ車型。"
-    },
-    {
-      "id": "4944105",
-      "time": "2026-06-19 01:04:07",
-      "tags": [
-        "國際"
-      ],
-      "text": "【美解除對伊朗海上封鎖】當地時間6月18日，美軍中央司令部在社交媒體平臺發宣告稱，“今天，美軍根據（特朗普）總統的指示，解除了對所有進出伊朗港口和沿海地區海上交通的封鎖。美軍沒有再阻礙船隻在阿拉伯灣和阿曼灣的伊朗港口往來。所有美國軍事封鎖行動已停止。美軍艦艇將繼續留在該地區，以確保協議（美伊諒解備忘錄）的各方面得到遵守、執行並完全生效。”（CCTV國際時訊）"
-    },
-    {
-      "id": "mkt:019edbb0-94a1-7dd8-b085-f6f2ca65a768",
-      "time": "2026-06-19 01:04:03",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "XAUUSD",
-        "Impact bullish",
-        "US10Y"
-      ],
-      "text": "U.S. 5-year TIPS yield fell after the auction to 1.921%."
-    },
-    {
-      "id": "mkt:019edbaf-8f9d-7dd8-b085-e91fe2a5b0dc",
-      "time": "2026-06-19 01:02:56",
-      "tags": [
-        "MKT News",
-        "US10Y",
-        "Impact mixed"
-      ],
-      "text": "U.S. Treasury sold $24 bln of five-year TIPS at a stop-out yield of 1.955%; bid-cover ratio 2.61."
-    },
-    {
-      "id": "mkt:019edbaf-345f-7dd8-b085-e154c2c16206",
-      "time": "2026-06-19 01:02:32",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "US gas-directed rig count 122 in the week to June 19, up from 121 in the prior week."
-    },
-    {
-      "id": "4944104",
-      "time": "2026-06-19 01:02:25",
-      "tags": [
-        "宏觀",
-        "市場",
-        "國際"
-      ],
-      "text": "美國財政部拍賣240億美元五年期通脹保值國債（TIPS），得標利率1.955%，投標倍數2.61。"
-    },
-    {
-      "id": "mkt:019edbaf-1865-7dd8-b085-dfa2102411a3",
-      "time": "2026-06-19 01:02:25",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "United States | Weekly Total Natural Gas Rig Count (Jun.19) | actual 122 | previous 121"
-    },
-    {
-      "id": "mkt:019edbaf-112c-7dd8-b085-d2f30f68990d",
-      "time": "2026-06-19 01:02:23",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Brent"
-      ],
-      "text": "U.S. total rig count for week to June 19: 563 rigs, compared with 562 in the prior week."
-    },
-    {
-      "id": "mkt:019edbae-f7f1-7dd8-b085-cff82cc1b0b8",
-      "time": "2026-06-19 01:02:17",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "United States | Weekly Total Rig Count (Jun.19) | actual 563 | previous 562"
-    },
-    {
-      "id": "4944103",
-      "time": "2026-06-19 01:02:12",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "美國聯邦貿易委員會：要求阿拉賓度製藥剝離四款不同的仿製藥產品，以完成其以2.5億美元收購拉內特公司的交易。"
-    },
-    {
-      "id": "mkt:019edbae-ba40-7dd8-b085-c141fafd2802",
-      "time": "2026-06-19 01:02:01",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Energy"
-      ],
-      "text": "US oil rigs totaled 433 in the week to June 19, unchanged from the previous week."
-    },
-    {
-      "id": "4944102",
-      "time": "2026-06-19 01:01:56",
-      "tags": [
-        "公司"
-      ],
-      "text": "奈飛宣佈與鄰近媒體電視公司（Proximity Media Television）達成多年創意合作協議。"
-    },
-    {
-      "id": "mkt:019edbae-a434-7dd8-b085-bbcf2e3d65fd",
-      "time": "2026-06-19 01:01:56",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "United States | Weekly Total Oil Rig Count (Jun.19) | actual 433 | previous 433"
-    },
-    {
-      "id": "4944101",
-      "time": "2026-06-19 01:01:42",
-      "tags": [
-        "國際"
-      ],
-      "text": "截至6月18日當週，美國石油鑽井平臺數量維持不變，為433座，較去年同期減少5座。"
-    },
-    {
-      "id": "4944100",
-      "time": "2026-06-19 01:01:27",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國6月19日當週總鑽井數 563，前值 562。美國6月19日當週天然氣鑽井數 122，前值 121。"
-    },
-    {
-      "id": "4944099",
-      "time": "2026-06-19 01:01:22",
-      "tags": [
-        "國際"
-      ],
-      "text": "貝克休斯：截至6月18日當週，美國天然氣鑽井平臺數量增加1座，至122座。"
     }
   ]
 }
