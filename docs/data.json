@@ -1,7 +1,15 @@
 {
-  "updated": "2026-06-26 05:06:03",
-  "count": 16977,
+  "updated": "2026-06-26 05:10:04",
+  "count": 16975,
   "items": [
+    {
+      "id": "4955881",
+      "time": "2026-06-26 05:07:37",
+      "tags": [
+        "公司"
+      ],
+      "text": "【蘋果調整Mac晶片戰略 下一代高階晶片將直接躍遷至M7系列】蘋果公司正對其Mac晶片戰略進行史上最大調整之一，準備讓下一代高階處理器直接躍遷至聚焦人工智慧的新一代晶片。知情人士稱，目前使用M5系列的蘋果計劃最早於今年推出基礎版M6處理器，用於入門級Mac，但該公司將首次跳過這款晶片的高階版本。知情人士稱，蘋果轉而計劃在2027年推出具備更先進計算和圖形處理能力的下一代Pro和Max晶片，作為新一代M7晶片的一部分。"
+    },
     {
       "id": "te:markets:562002",
       "time": "2026-06-26 05:03:37",
@@ -155351,35 +155359,6 @@
         "Importance 1"
       ],
       "text": "South Korea Producer Inflation Nears Four-Year High — South Korea’s producer prices rose 8.5% year-on-year in May 2026, up from a 7.2% increase in April and marking the strongest increase since July 2022. Manufacturing producer prices climbed 13.3%, led by a 77.5% surge in coal and petroleum products. Prices for computers, electronic and optical equipment rose 20.2%, while chemical products increased 20.6% and basic metal products advanced 14.5%. Service prices also rose 4.9%, driven by a 35.3% jump in financial and insurance activities. Meanwhile, prices for agricultural, forestry, and marine products increased 4.8%, supported by a 10.3% rise in livestock prices. Utility prices edged up 0.2%. On a month-over-month basis, producer prices rose 0.8%, easing from a 2.7% increase in April."
-    },
-    {
-      "id": "4944318",
-      "time": "2026-06-19 05:08:45",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【俄方稱扎波羅熱核電站連遭日均50次以上襲擊】據俄羅斯媒體18日報道，俄羅斯國家原子能公司執行長利哈喬夫當天表示，扎波羅熱核電站已連續幾天遭受到日均50次以上的襲擊。"
-    },
-    {
-      "id": "mkt:019edc90-7dcc-7dd8-b088-a1619c979a22",
-      "time": "2026-06-19 05:08:37",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "Brent",
-        "DXY"
-      ],
-      "text": "【Rosatom CEO says Zaporizhzhia nuclear plant hit over 50 times per day on average】Russian media on 18 reported Rosatom CEO Likhachov said the Zaporizhzhia nuclear plant has been subjected to an average of more than 50 attacks per day for several consecutive days."
-    },
-    {
-      "id": "4944317",
-      "time": "2026-06-19 05:06:50",
-      "tags": [
-        "市場"
-      ],
-      "text": "週四（6月18日）紐約尾盤（週五北京時間04:59），離岸人民幣（CNH）兌美元報6.7784元，較週三紐約尾盤跌22點，日內整體交投於6.7624-6.7810元區間。"
     }
   ]
 }
