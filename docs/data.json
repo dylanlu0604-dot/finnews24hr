@@ -1,7 +1,97 @@
 {
-  "updated": "2026-06-25 09:22:45",
-  "count": 16963,
+  "updated": "2026-06-25 09:26:53",
+  "count": 16958,
   "items": [
+    {
+      "id": "mkt:019efc62-7df9-7dd8-b108-717e03b10781",
+      "time": "2026-06-25 09:26:13",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Liuzhou: Jan–May industrial robot output up 861.1%】Liuzhou Statistics Bureau on June 24 released Jan–May 2026 data: industrial value added at firms above designated size rose 7.7% YoY, 1.7ppt faster than Jan–Apr. Production of industrial robots +861.1% YoY, lithium‑ion batteries +139.2%, electronic components +52.8%. Jan–May foreign trade totaled 20.176 bln yuan, +13.4% YoY; exports led by new‑energy products — electric vehicles +397.1%, lithium‑ion batteries +302.5%. Exports to ASEAN reached 5.892 bln yuan, +54.8%, highlighting rising regional trade links."
+    },
+    {
+      "id": "4953794",
+      "time": "2026-06-25 09:25:55",
+      "tags": [
+        "市場"
+      ],
+      "text": "【港股人工智慧股走強 瀾起科技漲超7%】截至發稿，瀾起科技(06809.HK)漲7.16%，智譜(02513.HK)漲6.99%，兆易創新(03986.HK)漲5.91%，MINIMAX-W(00100.HK)漲4.27%。"
+    },
+    {
+      "id": "4953793",
+      "time": "2026-06-25 09:25:42",
+      "tags": [
+        "國際"
+      ],
+      "text": "韓國交易所宣佈推遲推出單隻股票周度期權產品。"
+    },
+    {
+      "id": "mkt:019efc61-c42e-7dd8-b108-684cf52a5c3d",
+      "time": "2026-06-25 09:25:26",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "SSE Composite",
+        "Impact bearish",
+        "SZSE Component",
+        "Impact bullish"
+      ],
+      "text": "At the A-share open, the Shanghai Composite fell 0.18%, the Shenzhen Composite rose 0.30% and the ChiNext Index rose 0.63%; storage-chip, lithography-equipment and optical-fiber-related stocks led gains."
+    },
+    {
+      "id": "4953792",
+      "time": "2026-06-25 09:22:58",
+      "tags": [
+        "焦點"
+      ],
+      "text": "港股恒指低開跌0.1％，國企指數跌0.1％。"
+    },
+    {
+      "id": "4953791",
+      "time": "2026-06-25 09:22:54",
+      "tags": [
+        "其他"
+      ],
+      "text": "【曹操出行與上海人工智慧研究院達成戰略合作】6月25日，曹操出行宣佈與上海人工智慧研究院達成戰略合作，成立“曹操出行AI創新中心”。"
+    },
+    {
+      "id": "4953790",
+      "time": "2026-06-25 09:22:31",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "日本央行審議委員田村直樹：應評估央行資產負債表在長期內的適當規模。"
+    },
+    {
+      "id": "em:qqyh_zgyh:202606253782300539",
+      "time": "2026-06-25 09:22:02",
+      "tags": [
+        "央行",
+        "中國央行"
+      ],
+      "text": "【央行今日開展3705億元7天逆回購操作】央行今日開展3705億元7天逆回購操作，操作利率為1.40%，與此前持平。"
+    },
+    {
+      "id": "4953789",
+      "time": "2026-06-25 09:21:59",
+      "tags": [
+        "公司"
+      ],
+      "text": "【太力科技：對於機器人防護等新興應用領域 正持續與下游頭部客戶開展聯合測試】太力科技(301595)6月24日接受機構調研時表示，對於機器人防護、汽車面漆防護、冰箱除冰塗層等驗證週期相對較長的新興應用領域，公司正持續與下游頭部客戶開展聯合測試、方案迭代與效能驗證，穩步推進技術成果產業化，為中長期增長儲備新的增長點。"
+    },
+    {
+      "id": "4953788",
+      "time": "2026-06-25 09:21:55",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "央行開展3705億元7天期逆回購操作，操作利率為1.40%。"
+    },
     {
       "id": "mkt:019efc5e-08e5-7dd8-b108-6143149fd389",
       "time": "2026-06-25 09:21:21",
@@ -154876,137 +154966,6 @@
         "焦點"
       ],
       "text": "焦煤連續主力合約日內跌3%，現報1308.50元。"
-    },
-    {
-      "id": "4942173",
-      "time": "2026-06-18 09:26:48",
-      "tags": [
-        "公司"
-      ],
-      "text": "【山推股份：與珞石機器人達成戰略合作】6月17日，山推股份與珞石機器人正式簽署戰略合作協議。雙方將圍繞智慧化工程機械產品研發及智慧化產線升級等方面展開深度戰略合作。其中，雙方將聚焦挖掘機智慧控制系統、智慧挖掘機器人等方向開展聯合攻關，山推股份提供場景需求與效能定義，珞石機器人輸出定製化智慧控制演算法、本體設計方案與全流程技術支援，融合具身智慧與智慧施工技術，共同打造具備自主感知、決策及作業能力的新一代智慧工程機械產品。同時，結合山推股份重工生產工藝與智慧化需求，珞石機器人將提供定製化的智慧化產線整體解決方案，助力生產端智慧化改造。"
-    },
-    {
-      "id": "4942172",
-      "time": "2026-06-18 09:26:32",
-      "tags": [
-        "焦點",
-        "A股"
-      ],
-      "text": "三大股指低開，滬指跌0.34％，深成指跌0.34％，創業板跌0.32％。"
-    },
-    {
-      "id": "4942171",
-      "time": "2026-06-18 09:26:31",
-      "tags": [
-        "國際"
-      ],
-      "text": "【美國國際貿易委員會對凍魚片作出第四次反傾銷日落複審產業損害終裁】據中國貿易救濟資訊網訊息，2026年6月11日，美國國際貿易委員會（ITC）投票對進口自越南的凍魚片作出第四次反傾銷日落複審產業損害肯定性終裁，裁定若取消現行反傾銷措施，在合理可預見期間內，涉案產品的進口對美國國內產業造成的實質性損害可能繼續或再度發生。根據終裁結果，本案現行反傾銷措施繼續有效。"
-    },
-    {
-      "id": "4942170",
-      "time": "2026-06-18 09:26:02",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "甲醇連續主力合約日內跌2%，現報2589.00元。"
-    },
-    {
-      "id": "4942169",
-      "time": "2026-06-18 09:25:44",
-      "tags": [
-        "國際"
-      ],
-      "text": "馬來西亞交易所：富時馬來西亞交易所指數行情推送已恢復正常。"
-    },
-    {
-      "id": "4942168",
-      "time": "2026-06-18 09:25:37",
-      "tags": [
-        "其他"
-      ],
-      "text": "澳大利亞計劃為小型企業和初創企業提供稅收優惠。"
-    },
-    {
-      "id": "mkt:019ed855-4993-7dd8-b068-28687248eda5",
-      "time": "2026-06-18 09:25:28",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Greater China",
-        "SSE Composite",
-        "Impact bearish",
-        "SZSE Component"
-      ],
-      "text": "At the A-share open, the Shanghai Composite fell 0.34%, the Shenzhen Composite Index fell 0.34% and the ChiNext Index fell 0.32%."
-    },
-    {
-      "id": "4942167",
-      "time": "2026-06-18 09:24:58",
-      "tags": [
-        "其他"
-      ],
-      "text": "【端午假期 國鐵太原局預計傳送旅客168萬人次】從國鐵太原局瞭解到，端午假期運輸週期內太原局預計傳送旅客168萬人次，同比增長4.3%。今天（18日），國鐵太原局預計傳送旅客32.04萬人次，加開旅客列車56列，其中普速列車10列、高鐵列車46列，包含夜間高鐵22列，服務旅客假期出行需求。根據客流和候補購票情況，國鐵太原局將動態調整運力。"
-    },
-    {
-      "id": "mkt:019ed854-c939-7dd8-b068-203131c37f9c",
-      "time": "2026-06-18 09:24:55",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Iran parliament speaker Ghalibaf said Iran's battlefield victory has been recognized by both enemies and friends."
-    },
-    {
-      "id": "mkt:019ed854-25ff-7dd8-b068-1a55df7768a9",
-      "time": "2026-06-18 09:24:13",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Fujian signs strategic cooperation framework with University of Science and Technology of China】June 17 — Fujian provincial government and the University of Science and Technology of China (USTC) signed a strategic cooperation framework. The pact commits both sides to deepen collaboration on discipline development, policy consultation, innovation-platform construction, technology transfer and industrialization, and talent training and exchanges to support high-level scientific self-reliance and advance China’s modernization agenda."
-    },
-    {
-      "id": "mkt:019ed853-bb21-7dd8-b068-16afde4a83db",
-      "time": "2026-06-18 09:23:46",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "XAUUSD"
-      ],
-      "text": "Iran parliamentary speaker Ghalibaf said turning Iran's military gains into durable solutions that serve national interests is essential."
-    },
-    {
-      "id": "mkt:019ed853-9412-7dd8-b068-0da66c7874e9",
-      "time": "2026-06-18 09:23:36",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Iranian parliament speaker Ghalibaf said Iran's 'battlefield victory' provides background support for negotiations."
-    },
-    {
-      "id": "mkt:019ed853-7250-7dd8-b068-04f58739c54a",
-      "time": "2026-06-18 09:23:27",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Ghalibaf: Iran is engaging the United States from a position of strength."
-    },
-    {
-      "id": "4942166",
-      "time": "2026-06-18 09:22:54",
-      "tags": [
-        "其他"
-      ],
-      "text": "【福建省與中國科學技術大學簽署戰略合作框架協議】據福建日報，6月17日，福建省省長趙龍在福州會見中國科學技術大學黨委書記舒歌群一行，共同見證省政府與中國科學技術大學簽署戰略合作框架協議。根據協議，雙方將按照教育科技人才一體發展戰略部署要求，在學科建設、決策諮詢、創新平臺建設、科技成果轉化與產業化、人才培養與交流等方面進一步深化省校戰略合作，促進優勢互補、共同發展，更好服務高水平科技自立自強，推進中國式現代化建設。"
-    },
-    {
-      "id": "4942165",
-      "time": "2026-06-18 09:22:49",
-      "tags": [
-        "市場"
-      ],
-      "text": "【港股人工智慧概念股走強 天數智芯漲近8%】截至發稿，天數智芯(09903.HK)漲7.60%，MINIMAX-W(00100.HK)漲3.84%，智譜(02513.HK)漲3.67%。"
     }
   ]
 }
