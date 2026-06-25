@@ -1,7 +1,290 @@
 {
-  "updated": "2026-06-26 02:02:56",
-  "count": 16885,
+  "updated": "2026-06-26 02:06:59",
+  "count": 16909,
   "items": [
+    {
+      "id": "4955736",
+      "time": "2026-06-26 02:06:21",
+      "tags": [
+        "市場"
+      ],
+      "text": "原油價格觸及盤中高點，布倫特原油價格突破75美元/桶。"
+    },
+    {
+      "id": "4955735",
+      "time": "2026-06-26 02:06:17",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息： 基輔遭遇彈道導彈襲擊。"
+    },
+    {
+      "id": "mkt:019efff5-9c73-7dd8-b123-8a384b7a31d5",
+      "time": "2026-06-26 02:05:46",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "NATO Secretary-General Rutte said NATO will pledge support for Ukraine at the summit and that Ukrainian President Zelenskiy will attend."
+    },
+    {
+      "id": "4955734",
+      "time": "2026-06-26 02:05:40",
+      "tags": [
+        "國際"
+      ],
+      "text": "呂特：北約將在峰會上承諾對烏支援，澤連斯基將出席。"
+    },
+    {
+      "id": "mkt:019efff5-734e-7dd8-b123-82fc547cb2d5",
+      "time": "2026-06-26 02:05:36",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "Impact bearish",
+        "S&P500"
+      ],
+      "text": "Fed's Goolsbee said inflation is clearly the problem."
+    },
+    {
+      "id": "4955733",
+      "time": "2026-06-26 02:05:14",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲古爾斯比：使命中通脹方面顯然是當前問題。"
+    },
+    {
+      "id": "mkt:019efff5-1ddb-7dd8-b123-7b1ba7c46c7d",
+      "time": "2026-06-26 02:05:14",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "US Economy",
+        "S&P500",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish",
+        "XAUUSD"
+      ],
+      "text": "Fed's Goolsbee said the PCE report was not entirely negative."
+    },
+    {
+      "id": "mkt:019efff5-16ff-7dd8-b123-7146cd88896d",
+      "time": "2026-06-26 02:05:12",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "GOOLSBEE said the services sector has shown slight improvement."
+    },
+    {
+      "id": "mkt:019efff5-124b-7dd8-b123-6a6dc4abda98",
+      "time": "2026-06-26 02:05:11",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "US10Y",
+        "Impact bullish",
+        "DXY",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "Federal Reserve's GOOLSBEE said inf requires continued monitoring."
+    },
+    {
+      "id": "mkt:019efff5-11f2-7dd8-b123-66753cfd9808",
+      "time": "2026-06-26 02:05:11",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "GOOLSBEE said part of the reason was 'one-off' factors."
+    },
+    {
+      "id": "mkt:019efff5-02d7-7dd8-b123-5ee64c91ad44",
+      "time": "2026-06-26 02:05:04",
+      "tags": [
+        "MKT News",
+        "LMT.O",
+        "Impact bullish",
+        "NOC.O",
+        "RTX.O"
+      ],
+      "text": "NATO Secretary-General Rutte said NATO will announce new contracts worth tens of billions of dollars at the upcoming NATO summit."
+    },
+    {
+      "id": "mkt:019efff4-f870-7dd8-b123-5121ef2b345c",
+      "time": "2026-06-26 02:05:04",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "Fed's Goolsbee said services-sector inflation is somewhat concerning."
+    },
+    {
+      "id": "mkt:019efff4-f792-7dd8-b123-481d32351ccf",
+      "time": "2026-06-26 02:05:04",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "USDJPY",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "Federal Reserve's Goolsbee says inflation is moving in the wrong direction."
+    },
+    {
+      "id": "mkt:019efff4-f726-7dd8-b123-41525b586a97",
+      "time": "2026-06-26 02:05:03",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Fed's Goolsbee: Difficult to disentangle inf dynamics and to judge whether it is persistent or transitory."
+    },
+    {
+      "id": "4955732",
+      "time": "2026-06-26 02:04:57",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲的古爾斯比：服務業出現了一些改善。"
+    },
+    {
+      "id": "4955731",
+      "time": "2026-06-26 02:04:54",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲古爾斯比：PCE報告並非全然負面。"
+    },
+    {
+      "id": "4955730",
+      "time": "2026-06-26 02:04:48",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲古爾斯比：需持續監測通脹走勢。"
+    },
+    {
+      "id": "4955729",
+      "time": "2026-06-26 02:04:44",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲古爾斯比：服務業通脹走勢更令人不安。"
+    },
+    {
+      "id": "mkt:019efff4-a592-7dd8-b123-3b06f478bdae",
+      "time": "2026-06-26 02:04:43",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY"
+      ],
+      "text": "U.S. Treasury sanctions a Rwandan gold refinery and a network that facilitated illicit conflict-mineral trade."
+    },
+    {
+      "id": "mkt:019efff4-8daa-7dd8-b123-37165fad3a87",
+      "time": "2026-06-26 02:04:37",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "WTI"
+      ],
+      "text": "International Maritime Organization (IMO) said it has suspended evacuation operations in the Strait of Hormuz after a vessel was attacked in the Gulf of Oman."
+    },
+    {
+      "id": "mkt:019efff4-8d54-7dd8-b123-2fb1d7949d19",
+      "time": "2026-06-26 02:04:37",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "NATO Secretary General Rutte said boosting production requires overcoming a fragmented defense industry."
+    },
+    {
+      "id": "4955728",
+      "time": "2026-06-26 02:04:29",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲的古爾斯比：其中部分是由一次性因素所驅動。"
+    },
+    {
+      "id": "4955727",
+      "time": "2026-06-26 02:04:23",
+      "tags": [
+        "其他"
+      ],
+      "text": "呂特：北約將在北約峰會上宣佈價值數百億美元的新防務合同。"
+    },
+    {
+      "id": "4955726",
+      "time": "2026-06-26 02:04:18",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲的古爾斯比：通脹走勢方向錯誤。"
+    },
+    {
+      "id": "mkt:019efff4-84b0-7dd8-b123-272074e2b3d3",
+      "time": "2026-06-26 02:04:17",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "NATO Secretary General Rutte said US and European weapons manufacturers have boosted production to increase supplies, but further effort is still required."
+    },
+    {
+      "id": "4955725",
+      "time": "2026-06-26 02:03:56",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲古爾斯比接受採訪：目前難以明確通脹是持續粘性還是暫時屬性。"
+    },
+    {
+      "id": "4955724",
+      "time": "2026-06-26 02:03:08",
+      "tags": [
+        "其他"
+      ],
+      "text": "北約秘書長呂特：提振產能需破除各國國防工業碎片化格局。"
+    },
+    {
+      "id": "4955723",
+      "time": "2026-06-26 02:02:35",
+      "tags": [
+        "其他"
+      ],
+      "text": "巴黎警察局長：為應對熱浪影響，從週五中午起將實施公共場合禁酒令。"
+    },
     {
       "id": "4955722",
       "time": "2026-06-26 02:02:16",
@@ -28,6 +311,16 @@
         "其他"
       ],
       "text": "國際海事組織：阿曼灣一艘船隻遇襲後，霍爾木茲海峽暫停人員疏散."
+    },
+    {
+      "id": "4955719",
+      "time": "2026-06-26 02:01:54",
+      "tags": [
+        "公司",
+        "焦點",
+        "國際"
+      ],
+      "text": "【伊朗襲擊貨輪，考驗特朗普重啟海峽通航的相關協議】兩名美國高階官員透露，伊朗伊斯蘭革命衛隊於週四在霍爾木茲海峽襲擊了一艘新加坡籍貨輪，此舉令美伊上週簽署的停火、恢復這條關鍵航運要道通航協議面臨考驗。英國海上貿易行動辦公室表示，此次襲擊造成船舶駕駛臺受損，但未出現人員傷亡。事發地點位於阿曼海岸附近，數小時前，這支伊朗準軍事海上力量剛剛警告船隻不得走該國未認可的海峽航道。白宮暫未回應媒體關於此次襲擊及其對協議影響的置評請求。船舶追蹤平臺 Marine Traffic 資訊顯示，遭襲貨輪 “Ever Lovely” 此前在伊拉克烏姆卡斯爾港裝載貨物，目的地為新加坡。金融資料服務商倫敦證券交易所集團（LSEG）資料顯示，“Ever Lovely” 已在波斯灣滯留超 100 天。當地時間週四清晨，該船駛向海峽入海口，另有三艘船舶也幾乎在同一時段嘗試過境。"
     },
     {
       "id": "4955718",
@@ -154383,60 +154676,6 @@
         "其他"
       ],
       "text": "中國地震臺網正式測定：06月19日02時02分在青海海西州直轄區（北緯37.82度，東經95.55度）發生3.1級地震，震源深度10千米。"
-    },
-    {
-      "id": "mkt:019edbe8-68d6-7dd8-b086-8310f9ae052d",
-      "time": "2026-06-19 02:05:01",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bearish",
-        "XAUUSD",
-        "S&P500",
-        "Impact bullish"
-      ],
-      "text": "U.S. President Trump said he expects a comprehensive ceasefire across all fronts, including Lebanon, Hezbollah and Israel."
-    },
-    {
-      "id": "mkt:019edbe8-65a7-7dd8-b086-7f0ce42d3487",
-      "time": "2026-06-19 02:05:01",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "President Trump said the United States is committed to peace and urged parties in the Middle East to uphold their commitments so negotiations can proceed smoothly and reach a successful outcome."
-    },
-    {
-      "id": "mkt:019edbe8-65a6-7dd8-b086-738dd357d8fb",
-      "time": "2026-06-19 02:05:01",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "The Trump Trade",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bearish",
-        "S&P500",
-        "Impact bullish"
-      ],
-      "text": "President Trump: Markets are responding positively to the current situation; oil prices have fallen sharply and stocks have risen sharply."
-    },
-    {
-      "id": "4944217",
-      "time": "2026-06-19 02:04:05",
-      "tags": [
-        "國際"
-      ],
-      "text": "據報道，共和黨與民主黨參議員均對特朗普總統的伊朗和平協議提出質疑，兩黨議員紛紛批評該協議，並對其可能產生的影響表達擔憂。"
-    },
-    {
-      "id": "4944216",
-      "time": "2026-06-19 02:03:00",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "特朗普：市場對油價下跌的走勢非常滿意。"
     }
   ]
 }
