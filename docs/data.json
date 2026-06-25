@@ -1,7 +1,51 @@
 {
-  "updated": "2026-06-25 23:51:45",
-  "count": 16922,
+  "updated": "2026-06-25 23:56:05",
+  "count": 16914,
   "items": [
+    {
+      "id": "mkt:019eff7e-2570-7dd8-b120-f1f3f05dffb6",
+      "time": "2026-06-25 23:55:17",
+      "tags": [
+        "MKT News",
+        "Important",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "Spot gold's intraday gain widened to 1.00%, trading at $4,041.05/oz."
+    },
+    {
+      "id": "4955569",
+      "time": "2026-06-25 23:51:58",
+      "tags": [
+        "其他"
+      ],
+      "text": "【英國倫敦面臨極端高溫帶來的鉅額財政負擔】英國倫敦市長Sadiq Khan表示，由於應對氣溫上升需要耗費鉅額資金，市政府必須尋求私人投資者的幫助。市長辦公室在一份報告中指出，2022年的熱浪（也是倫敦人首次經歷40攝氏度的高溫）造成了15億英鎊（約合20億美元）的損失。報告稱，倫敦約有100萬套住宅面臨極高的過熱風險，若要使其中最受影響的住宅更具韌性，預計需要花費90億至450億英鎊。"
+    },
+    {
+      "id": "4955568",
+      "time": "2026-06-25 23:51:46",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "巴西央行行長：通脹風險的不對稱平衡概念，可能獨立於對任何一方風險的計量而產生。"
+    },
+    {
+      "id": "4955567",
+      "time": "2026-06-25 23:51:33",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國汽車工人聯合會主席稱，美國聯邦監察員的這份報告“帶有政治偏向且純屬不實”。"
+    },
+    {
+      "id": "4955566",
+      "time": "2026-06-25 23:51:13",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國聯邦監察員稱，全美汽車工人聯合會主席不當利用職權謀取利益。"
+    },
     {
       "id": "4955565",
       "time": "2026-06-25 23:49:50",
@@ -154605,135 +154649,6 @@
         "MKT News"
       ],
       "text": "U.S. Vice President Vance said he does not believe the administration's public messaging has been confused."
-    },
-    {
-      "id": "4943959",
-      "time": "2026-06-18 23:55:53",
-      "tags": [
-        "其他"
-      ],
-      "text": "萬斯：我們於週日簽署了這份諒解備忘錄。"
-    },
-    {
-      "id": "4943958",
-      "time": "2026-06-18 23:55:27",
-      "tags": [
-        "國際"
-      ],
-      "text": "【萬斯：計劃“很快”向國會正式通報美伊備忘錄】美國副總統萬斯表示，針對這份與伊朗簽署的諒解備忘錄，特朗普政府計劃 “很快” 向國會議員開展正式通報，目前兩黨議員都在紛紛批評該協議。萬斯在白宮新聞釋出廳對記者稱：“我們確實打算很快向國會進行通報。” 他補充道，議員今日有望收到 “這份已簽署檔案的正式文字”。他還表示：“我們會安排相關團隊向國會作通報，當然也會答覆議員們提出的各類疑問。”萬斯稱，過去一週政府已與部分國會議員進行非正式溝通，後續也會持續開展相關交流；而正式通報的具體時間，將根據國會的議事日程儘快敲定。"
-    },
-    {
-      "id": "mkt:019edb71-b78b-7dd8-b084-475c38732281",
-      "time": "2026-06-18 23:55:23",
-      "tags": [
-        "MKT News",
-        "S&P500",
-        "Impact bullish",
-        "WTI",
-        "Impact bearish",
-        "XAUUSD"
-      ],
-      "text": "U.S. Vice President Vance said Iran has pledged to destroy its stockpile of highly enriched uranium."
-    },
-    {
-      "id": "te:markets:560146",
-      "time": "2026-06-18 23:54:37",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Canada",
-        "currency",
-        "Importance 1"
-      ],
-      "text": "Canadian Dollar Hits 14-month Low — The Canadian Dollar touched 1.41 against the USD, the lowest since April 2025. Over the past 4 weeks, US Dollar Canadian Dollar gained 2.88%, and in the last 12 months, it increased 3.22%."
-    },
-    {
-      "id": "4943957",
-      "time": "2026-06-18 23:54:25",
-      "tags": [
-        "國際"
-      ],
-      "text": "萬斯：倘若兩年後伊朗試圖重啟核計劃，我們可以立刻重新加碼實施經濟制裁。"
-    },
-    {
-      "id": "te:markets:560145",
-      "time": "2026-06-18 23:54:22",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "France",
-        "Stock Market",
-        "Importance 0"
-      ],
-      "text": "CAC 40 Rebounds on US-Iran Peace Deal — The CAC 40 rose 0.4% to close at 8,468 on Thursday, rebounding from the previous session after the US and Iran signed an interim peace agreement. The deal aims to end the conflict and reopen the Strait of Hormuz, while negotiations over Tehran’s nuclear program are set to begin later this week. Oil prices fell after the agreement, easing concerns over a new wave of global inflation and prolonged high interest rates. Most luxury stocks moved higher as risk aversion eased, with Hermès up 2% and Kering gaining 4.4%. Industrial stocks also advanced, with Airbus rising 2.6% and Safran adding 2.9%. STMicroelectronics climbed 4.2%, tracking gains in US semiconductor stocks and following its $1.5 billion convertible bond sale announced on Wednesday. In contrast, TotalEnergies fell 2.6% as oil prices declined. Investors also continued to assess the Federal Reserve’s hawkish outlook after it kept rates unchanged while signaling that further tightening may still be needed to contain inflation."
-    },
-    {
-      "id": "4943956",
-      "time": "2026-06-18 23:54:00",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國副總統萬斯解讀這份諒解備忘錄與奧巴馬時期伊核全面協議之間的區別：“奧巴馬的協議向伊朗輸送了超過十億美元美國資金，而本次協議美國一分錢都不會給到伊朗。”"
-    },
-    {
-      "id": "mkt:019edb6f-b114-7dd8-b084-393eaf873d82",
-      "time": "2026-06-18 23:53:10",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "U.S. Vice President Vance said Iran has committed to allow inspectors to enter and to activate verification mechanisms."
-    },
-    {
-      "id": "4943955",
-      "time": "2026-06-18 23:52:45",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國副總統萬斯：言辭無關緊要，我們只看重核查落實。"
-    },
-    {
-      "id": "mkt:019edb6f-2691-7dd8-b084-307b2e996640",
-      "time": "2026-06-18 23:52:35",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "US Vice President Vance said sanctions remain effective, except for those on oil."
-    },
-    {
-      "id": "4943954",
-      "time": "2026-06-18 23:52:20",
-      "tags": [
-        "國際"
-      ],
-      "text": "萬斯談伊朗：除石油制裁外，其他制裁仍然有效。"
-    },
-    {
-      "id": "mkt:019edb6e-81bf-7dd8-b084-2882fd4c7a50",
-      "time": "2026-06-18 23:51:52",
-      "tags": [
-        "MKT News",
-        "DXY",
-        "Impact bullish",
-        "XAUUSD",
-        "WTI"
-      ],
-      "text": "【Lavrov says Russian military will intensify strikes on Ukrainian combat-support targets】On the 18th, Russian Foreign Minister Lavrov said, according to TASS, that at President Putin’s instruction the Russian military will carry out intensive strikes on targets directly related to Ukrainian combat capability. Lavrov said the action is a response to Ukraine’s drone attack on Moscow and that the military will complete orders issued by Putin."
-    },
-    {
-      "id": "4943953",
-      "time": "2026-06-18 23:51:47",
-      "tags": [
-        "其他"
-      ],
-      "text": "福克斯廣告部門與ToonStar達成合作，為品牌打造數字優先動畫領域的新機遇。"
     }
   ]
 }
