@@ -1,7 +1,106 @@
 {
-  "updated": "2026-06-26 02:31:04",
-  "count": 16944,
+  "updated": "2026-06-26 02:34:59",
+  "count": 16951,
   "items": [
+    {
+      "id": "4955772",
+      "time": "2026-06-26 02:33:55",
+      "tags": [
+        "其他"
+      ],
+      "text": "德國總理默茨：當前德國每天流失 300 至 500 個工作崗位。 每日都有數十家企業申請破產。這意味著我們當下必須儘快擺脫這一困境。 我們需要儘早穩住德國本土就業，讓德國企業在國內外市場重獲競爭力。"
+    },
+    {
+      "id": "mkt:019f000e-fe77-7dd8-b124-671107205043",
+      "time": "2026-06-26 02:33:30",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "German Chancellor MERZ said Germany must quickly secure jobs and ensure German companies remain competitive at home and abroad."
+    },
+    {
+      "id": "mkt:019f000e-edec-7dd8-b124-5b64dbebc9f5",
+      "time": "2026-06-26 02:33:26",
+      "tags": [
+        "MKT News",
+        "EURUSD",
+        "Impact bearish",
+        "DAX"
+      ],
+      "text": "German Chancellor MERZ said Germany is currently losing 300–500 jobs per day and that there are double-digit corporate bankruptcy filings each day. He said this means we must ensure a rapid exit from the predicament."
+    },
+    {
+      "id": "mkt:019f000c-ea4e-7dd8-b124-561e6070857f",
+      "time": "2026-06-26 02:31:14",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "Energy",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI"
+      ],
+      "text": "【Night session front-month contracts close】At the 02:30 close, Shanghai gold front-month contract rose 1.17% to 887 yuan/gram; Shanghai silver front-month contract rose 1.24% to 14,237 yuan/kg; SC crude oil front-month contract rose 2.29% to 479 yuan/barrel."
+    },
+    {
+      "id": "4955771",
+      "time": "2026-06-26 02:31:13",
+      "tags": [
+        "市場"
+      ],
+      "text": "紐約商品交易所 8 月西德克薩斯輕質原油（WTI）期貨結算價報每桶 71.92 美元。"
+    },
+    {
+      "id": "mkt:019f000c-cc90-7dd8-b124-482fb9f9ce53",
+      "time": "2026-06-26 02:31:06",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish"
+      ],
+      "text": "U.S. crude futures settled at $71.92/bbl, up $1.58, or 2.25%."
+    },
+    {
+      "id": "4955770",
+      "time": "2026-06-26 02:31:01",
+      "tags": [
+        "市場"
+      ],
+      "text": "紐約商品交易所 7 月柴油期貨結算價報每加侖 3.2982 美元。"
+    },
+    {
+      "id": "mkt:019f000c-b0dd-7dd8-b124-432c1be2149d",
+      "time": "2026-06-26 02:30:59",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "Brent",
+        "Impact bullish",
+        "WTI"
+      ],
+      "text": "Brent crude rose 3.00% intraday to $75.63/bbl, while WTI rose 3.00% intraday to $72.60/bbl."
+    },
+    {
+      "id": "4955769",
+      "time": "2026-06-26 02:30:55",
+      "tags": [
+        "市場"
+      ],
+      "text": "紐約商品交易所 7 月汽油期貨結算價為每加侖 3.0273 美元。"
+    },
+    {
+      "id": "4955768",
+      "time": "2026-06-26 02:30:42",
+      "tags": [
+        "市場"
+      ],
+      "text": "紐約商品交易所 7 月天然氣期貨結算價報 3.3430 美元 / 百萬英熱單位。"
+    },
     {
       "id": "te:markets:561990",
       "time": "2026-06-26 02:30:11",
@@ -155000,34 +155099,6 @@
         "其他"
       ],
       "text": "市場訊息：三艘沙特超大型油輪裝載約 600 萬桶原油透過海峽，時隔兩個多月後船舶自動識別系統（AIS）訊號重新出現。"
-    },
-    {
-      "id": "4944230",
-      "time": "2026-06-19 02:32:47",
-      "tags": [
-        "公司",
-        "市場",
-        "國際"
-      ],
-      "text": "【機構：在美伊簽署結束衝突的協議前尿素價格暴跌】研究公司DTN的一項評估顯示，6月8日至6月12日期間，尿素平均價格下跌了12%，即每噸下跌100美元。這一跌勢與人們對重新開放霍爾木茲海峽的預期不斷升溫相吻合。重新開放該海峽是美國和伊朗為結束衝突而簽署的協議的關鍵部分。中東是全球最大的尿素供應商之一，尿素是一種廣泛使用的合成氮肥。"
-    },
-    {
-      "id": "4944229",
-      "time": "2026-06-19 02:31:51",
-      "tags": [
-        "市場",
-        "央行",
-        "國際"
-      ],
-      "text": "【資料顯示，加密貨幣料將在“極度恐懼”中結束縮短的交易周】CoinMarketCap的“加密貨幣恐懼與貪婪指數”料將在投資者“極度恐懼”中結束這個縮短的交易周。該指數目前在100分中得分為19分，這正好處於“恐懼”和“極度恐懼”的分界線上。本週早些時候，該指數確實進入了“恐懼”區間，但在新任美聯儲主席沃什發表偏緊縮言論後出現的拋售正拖累加密貨幣。CoinMarketCap的資料還顯示，資金持續流出所謂的“山寨幣”，即在加密貨幣交易所交易的除比特幣和穩定幣之外的加密代幣。CoinMarketCap表示，在經歷了短暫的上漲之後，山寨幣的合計市值略高於9,000億美元。"
-    },
-    {
-      "id": "4944228",
-      "time": "2026-06-19 02:31:06",
-      "tags": [
-        "市場"
-      ],
-      "text": "WTI 7月原油期貨收跌0.19美元，跌幅0.25%，報76.60美元/桶。NYMEX 7月天然氣期貨收報3.2330美元/百萬英熱單位。NYMEX 7月汽油期貨收報2.9949美元/加侖，NYMEX 7月取暖油期貨收報3.1273美元/加侖。"
     }
   ]
 }
