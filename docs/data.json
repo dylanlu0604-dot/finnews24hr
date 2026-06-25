@@ -1,7 +1,25 @@
 {
-  "updated": "2026-06-26 07:48:45",
-  "count": 16964,
+  "updated": "2026-06-26 07:52:56",
+  "count": 16955,
   "items": [
+    {
+      "id": "4955980",
+      "time": "2026-06-26 07:49:13",
+      "tags": [
+        "公司"
+      ],
+      "text": "【行業景氣度提升、國產替代加速推進，半導體矽片企業迎發展良機】6月以來，半導體矽片賽道不僅受資本市場熱捧，產業層面同樣動作連連。近日，滬矽產業公告擬攜手國盛集團共同對子公司上海新昇增資114.48億元，用於300mm矽片產能升級；6月14日，上海合晶設立SOI（絕緣體上矽）合資公司，切入高附加值賽道……價格方面，全球矽片巨頭今年以來已開啟兩輪調價；結合近期國內矽片企業披露的調研紀要，雖然國內尚未全面進入漲價週期，但管理層普遍判斷矽片價格已呈現企穩跡象，後續隨著需求端的改善，價格預計存在修復預期。"
+    },
+    {
+      "id": "mkt:019f012f-a41a-7dd8-b127-53ca0eed17b8",
+      "time": "2026-06-26 07:48:47",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "【Trump says US will use unfrozen Iranian assets to buy US farm commodities】On June 25 at a White House event with US farmers, President Trump said the US will soon use unfrozen Iranian assets to purchase large quantities of US wheat, soybeans and corn, saying Iran currently faces food-supply difficulties and the program will begin shortly and be large in scale. US officials have repeatedly said Iran would use thawed funds to buy US agricultural goods; Iran denies those claims."
+    },
     {
       "id": "4955979",
       "time": "2026-06-26 07:48:04",
@@ -155079,115 +155097,6 @@
         "Nikkei 225"
       ],
       "text": "Bank of Japan minutes said members unanimously agreed that, given developments in the economy, inflation and financial conditions, continuing to raise interest rates is appropriate."
-    },
-    {
-      "id": "em:qqyh_rbyh:202606193776766086",
-      "time": "2026-06-19 07:52:54",
-      "tags": [
-        "央行",
-        "日本央行"
-      ],
-      "text": "【日本央行多位成員表示將根據經濟和物價情況持續加息】日本央行會議紀要顯示，多位成員表示，需要更多時間來確認中東局勢發展對日本經濟和物價的影響；將根據經濟和物價情況持續加息。"
-    },
-    {
-      "id": "4944416",
-      "time": "2026-06-19 07:52:47",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "日本央行會議紀要：多名成員表示，央行基線預測成真的可能性並不高，目前難以評估增長下行風險與通脹上行風險的平衡狀況。"
-    },
-    {
-      "id": "mkt:019edd26-ad9b-7dd8-b08a-203832ffb161",
-      "time": "2026-06-19 07:52:39",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "USDJPY",
-        "Impact bullish",
-        "DXY",
-        "XAUUSD",
-        "Impact bearish"
-      ],
-      "text": "Bank of Japan minutes: one member said the current situation is not urgent and there is no need to rush rate hikes."
-    },
-    {
-      "id": "4944415",
-      "time": "2026-06-19 07:52:32",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "日本央行會議紀要：一名成員認為，目前局勢並不緊迫，無需倉促加息。"
-    },
-    {
-      "id": "mkt:019edd26-68cf-7dd8-b08a-19c54b96ef0c",
-      "time": "2026-06-19 07:52:22",
-      "tags": [
-        "MKT News",
-        "USDJPY",
-        "Impact bullish",
-        "DXY"
-      ],
-      "text": "Bank of Japan minutes: many members said the bank's baseline projection was unlikely to be realized and it was difficult to assess the balance between downside risks to growth and upside risks to inflation."
-    },
-    {
-      "id": "mkt:019edd26-224e-7dd8-b08a-15ac1e41b588",
-      "time": "2026-06-19 07:52:04",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC"
-      ],
-      "text": "BOJ minutes: several members said more time is needed to assess how developments in the Middle East will affect Japan's economy and prices."
-    },
-    {
-      "id": "4944414",
-      "time": "2026-06-19 07:51:24",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "日本央行4月會議紀要：多位成員表示，需要更多時間來確認中東局勢發展對日本經濟和物價的影響。"
-    },
-    {
-      "id": "4944413",
-      "time": "2026-06-19 07:51:08",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "日本央行公佈4月27日至28日政策會議紀要。"
-    },
-    {
-      "id": "4944412",
-      "time": "2026-06-19 07:50:57",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "日本央行成員：將根據經濟和物價情況持續加息。"
-    },
-    {
-      "id": "4944411",
-      "time": "2026-06-19 07:49:53",
-      "tags": [
-        "資料",
-        "市場",
-        "央行",
-        "國際"
-      ],
-      "text": "【日本5月核心通脹持續低於日央行目標 燃油漲價風險值得關注】日本總務省週五公佈資料顯示，受燃油補貼對沖中東衝突帶來的原材料漲價影響，5月日本年度核心通脹連續第四個月低於央行2%的通脹目標。分析師預計，未來數月居民通脹將再度升溫；生產端物價已大幅走高，成本壓力持續擴散，日本央行或將延續加息路徑。官方資料顯示，剔除波動較大生鮮食品的核心消費者物價指數（CPI）5月同比上漲1.4%，符合市場預期中值，同比漲幅與4月持平。另有一項同時剔除生鮮食品與燃油的物價指數，是日本央行重點觀測、用於衡量核心潛在通脹的指標，5月同比上漲1.8%，創下2022年9月以來最低同比漲幅。日本央行於週二加息，利率升至31年新高，這是其貨幣政策正常化程序中的標誌性舉措。央行釋放訊號，準備進一步收緊貨幣政策，著力抑制由伊朗衝突引發能源衝擊所帶來的物價上漲壓力。"
-    },
-    {
-      "id": "4944410",
-      "time": "2026-06-19 07:49:12",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "日本日經平均指數期貨上漲1.12%，報72,030點。"
     }
   ]
 }
