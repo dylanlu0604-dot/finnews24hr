@@ -1,7 +1,27 @@
 {
-  "updated": "2026-06-26 01:08:38",
-  "count": 16893,
+  "updated": "2026-06-26 01:12:46",
+  "count": 16891,
   "items": [
+    {
+      "id": "4955672",
+      "time": "2026-06-26 01:10:26",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：愛迪生、法國電力、紐沃德及多家義大利企業簽署小型模組化反應堆核電合作協議。"
+    },
+    {
+      "id": "mkt:019effc0-f867-7dd8-b122-855f0de3d144",
+      "time": "2026-06-26 01:08:16",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Copper",
+        "Impact bullish"
+      ],
+      "text": "【Brazil starts full construction on Northeast UHV DC transmission project】State Grid Corp. of China's Brazilian unit has begun full-line construction on a Northeast ultra-high-voltage (UHV) ±800 kV DC transmission project, the largest transmission concession in Brazil. Independently financed, built and to be operated by State Grid's Brazil holding, the project comprises a 1,468 km ±800 kV HVDC line, converter stations at both ends and supporting facilities with a rated capacity of 5 GW; it is planned to be fully operational in 2029 under a 30-year concession. The link — State Grid's third overseas UHV project after two earlier Brazilian schemes — aims to create a long-distance, high-capacity export channel for northeast wind and solar, ease local curtailment, strengthen supply security for the capital region and support national energy reallocation and decarbonization efforts."
+    },
     {
       "id": "4955671",
       "time": "2026-06-26 01:07:22",
@@ -154478,42 +154498,6 @@
         "其他"
       ],
       "text": "紐約聯儲6月18日接受逆回購工具提交的2.51億美元全部申請。"
-    },
-    {
-      "id": "4944121",
-      "time": "2026-06-19 01:12:33",
-      "tags": [
-        "國際"
-      ],
-      "text": "白俄羅斯方面稱，與印度各領域合作持續深化。"
-    },
-    {
-      "id": "4944119",
-      "time": "2026-06-19 01:11:00",
-      "tags": [
-        "國際"
-      ],
-      "text": "一名參議員稱，參議院共和黨高層對這份伊朗協議深感不滿，他還補充表示，美伊最終達成完整協議的可能性微乎其微。"
-    },
-    {
-      "id": "mkt:019edbb6-bfb3-7dd8-b086-02f64d3cdd5e",
-      "time": "2026-06-19 01:10:47",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "Semafor reports U.S. Senate Republican leadership is dissatisfied with the Iran deal and views a final agreement with Iran as unlikely."
-    },
-    {
-      "id": "4944116",
-      "time": "2026-06-19 01:09:15",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "美國五年期通脹保值國債收益率在拍賣後下行，最新報1.921%。"
     }
   ]
 }
