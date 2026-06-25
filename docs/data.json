@@ -1,7 +1,47 @@
 {
-  "updated": "2026-06-25 21:07:09",
-  "count": 17032,
+  "updated": "2026-06-25 21:11:28",
+  "count": 17021,
   "items": [
+    {
+      "id": "4955311",
+      "time": "2026-06-25 21:08:53",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "甲醇連續主力合約日內漲1%，現報2451.00元。"
+    },
+    {
+      "id": "mkt:019efee5-3987-7dd8-b11d-744d31010bc3",
+      "time": "2026-06-25 21:08:15",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "Spot silver traded above $59/oz, rising 2.68% on the day."
+    },
+    {
+      "id": "4955310",
+      "time": "2026-06-25 21:07:44",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "白銀連續主力合約日內漲2%，現報14349.00元。"
+    },
+    {
+      "id": "4955309",
+      "time": "2026-06-25 21:07:24",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "【信聯科技創業板IPO稽核狀態變更為'已受理'】山東高速信聯科技股份有限公司創業板IPO稽核狀態變更為'已受理'，保薦機構為中泰證券。"
+    },
     {
       "id": "4955308",
       "time": "2026-06-25 21:06:12",
@@ -155500,152 +155540,6 @@
         "The Trump Trade"
       ],
       "text": "In response to pressure from Trump, Cuban leadership approved a broad list covering 23 core areas that includes 176 market-liberalization measures."
-    },
-    {
-      "id": "4943636",
-      "time": "2026-06-18 21:11:21",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "捷克央行行長：捷克央行將評估政策緊縮力度。"
-    },
-    {
-      "id": "4943635",
-      "time": "2026-06-18 21:10:26",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "捷克央行行長：關鍵因素在於我們必須保持緊縮政策立場。"
-    },
-    {
-      "id": "4943634",
-      "time": "2026-06-18 21:10:19",
-      "tags": [
-        "市場"
-      ],
-      "text": "由於《俠盜獵車手6》預購將於6月25日開始，TAKE-TWO股價盤前上漲6.5%。"
-    },
-    {
-      "id": "4943633",
-      "time": "2026-06-18 21:10:05",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "捷克央行行長：捷克央行理事會保留未來利率調整的全部可能性。"
-    },
-    {
-      "id": "4943632",
-      "time": "2026-06-18 21:09:40",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "捷克央行行長：基線情境是在下次會議上評估我們的限制性政策立場，所有選項均未排除。"
-    },
-    {
-      "id": "mkt:019edad9-f4b5-7dd8-b07e-44928e13ee38",
-      "time": "2026-06-18 21:09:37",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "WTI and Brent crude fell $0.60 intraday; Kuwait Petroleum Co. said Kuwait will immediately lift all force majeure declarations."
-    },
-    {
-      "id": "4943631",
-      "time": "2026-06-18 21:08:58",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "【機構：英國央行或將長期按兵不動，但加息傾向依然存在】Pantheon Macroeconomics的Rob Wood在一份報告中表示，英國央行似乎將長期按兵不動，儘管大多數利率制定者承認利率可能不得不上升的風險。決策者強調，他們仍然關注油價在較長時間內保持高位的風險。Wood說，不過，不變的政策指引可能讓市場反映的一些預期落空，即在7月份的會議上可能會有超過兩名利率制定者投票支援加息。他指出，雖然近期有評論稱通脹未達預期，但決策者幾乎沒有看到中東衝突對需求造成迅速打擊的證據。Wood說，Pantheon預計英國利率到2027年底將保持在3.75%。"
-    },
-    {
-      "id": "em:qqyh_mlc:202606183776388842",
-      "time": "2026-06-18 21:08:45",
-      "tags": [
-        "央行",
-        "美聯儲"
-      ],
-      "text": "【麥格理預計美聯儲將在2026年第四季度和2027年第一季度各加息25個基點】麥格理預計美聯儲將在2026年第四季度和2027年第一季度各加息25個基點，而此前的預測為2027年第一季度加息一次。"
-    },
-    {
-      "id": "4943630",
-      "time": "2026-06-18 21:08:10",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "麥格理預計美聯儲將分別在2026年第四季度和2027年第一季度各加息25個基點，此前該行預測僅在2027年第一季度加息一次。"
-    },
-    {
-      "id": "te:economy:560105",
-      "time": "2026-06-18 21:08:06",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Portugal",
-        "Current Account",
-        "Importance 0"
-      ],
-      "text": "Portugal Current Account Surplus Widens — Portugal’s current account posted a surplus of €350.41 million in April 2026, reaching the highest level in six months, up from a surplus of €234.95 million recorded a year earlier. The secondary income surplus increased by €112 million driven by increased reinsurance claim inflows from abroad, linked to compensation for damages caused by storms that struck Portugal earlier in the year. In contrast, the primary income deficit widened by €158 million, mainly due to higher interest income received from abroad and lower interest payments to non-residents. Meanwhile, tourism revenues increased to €2383.51 million from €2263 million. In contrast, the goods account deficit increased by €189 million, as imports increased at a faster pace than exports."
-    },
-    {
-      "id": "mkt:019edad8-642a-7dd8-b07e-394f22e9973a",
-      "time": "2026-06-18 21:07:54",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "Brent"
-      ],
-      "text": "BofA expects average Brent crude price of $70/bbl in 2027."
-    },
-    {
-      "id": "4943629",
-      "time": "2026-06-18 21:07:46",
-      "tags": [
-        "公司"
-      ],
-      "text": "科威特石油公司：科威特將“立即”解除所有不可抗力宣告。"
-    },
-    {
-      "id": "mkt:019edad7-f978-7dd8-b07e-33e6ad23f11a",
-      "time": "2026-06-18 21:07:27",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "Kuwait Petroleum Corp said Kuwait will \"immediately\" lift all force majeure declarations."
-    },
-    {
-      "id": "4943628",
-      "time": "2026-06-18 21:07:19",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【新華保險：獲批發行100億元永續債】新華保險(601336)6月18日晚公告，近日收到金融監管總局批覆，公司獲批在全國銀行間債券市場公開發行不超過100億元(含100億元)的無固定期限資本債券。公司此前已收到中國人民銀行准予行政許可決定書，同意公司在全國銀行間債券市場發行無固定期限資本債券。公司將積極推進相關發行工作並及時履行資訊披露義務。"
-    },
-    {
-      "id": "4943627",
-      "time": "2026-06-18 21:07:13",
-      "tags": [
-        "公司"
-      ],
-      "text": "科威特石油公司（KPC）：科威特將在提升原油產量的同時擴大煉油產能。"
     }
   ]
 }
