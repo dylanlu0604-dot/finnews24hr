@@ -1,7 +1,110 @@
 {
-  "updated": "2026-06-25 08:47:33",
+  "updated": "2026-06-25 08:51:33",
   "count": 16925,
   "items": [
+    {
+      "id": "te:markets:561667",
+      "time": "2026-06-25 08:50:54",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Japan",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "Japanese Shares Rally on Micron Forecast — The Nikkei 225 Index jumped more than 2% to above 70,000, while the broader Topix Index rose 0.7% to 3,992 on Thursday, snapping a two-day losing streak as Japanese equities tracked gains in US stock futures following Micron Technology’s strong outlook, which reinforced optimism around the artificial intelligence sector. Japanese firms are well positioned to benefit from the global expansion of AI infrastructure thanks to their strategic investments in the industry, helping make them some of the market’s top performers this year. Investor sentiment was also lifted by falling oil prices amid progress in US-Iran peace negotiations, easing concerns for Japan’s import-dependent economy. Chipmakers and AI-related companies led the advance, with notable gains from Kioxia Holdings (8.9%), Tokyo Electron (5.8%), Advantest (9.2%), Taiyo Yuden (6.3%), and Murata Manufacturing (4.6%)."
+    },
+    {
+      "id": "4953719",
+      "time": "2026-06-25 08:50:45",
+      "tags": [
+        "國際"
+      ],
+      "text": "【國家能源局負責人出席上海合作組織成員國能源部長會第六次會議 】6月19日，上合組織成員國能源部長會第六次會議在吉爾吉斯斯坦召開。會議由吉方主辦，中國國家能源局副局長宋宏坤出席會議併發言。宋宏坤錶示，中國是全球最大能源生產國和消費國，積極參與上合組織框架下能源合作，不斷提升區域能源安全保障水平，加快推動綠色低碳轉型。中方願與各方一道，築牢能源安全屏障，深化科技創新交流，加強人才培養合作，推動區域能源合作再上新臺階。 會議期間，各方透過關於開展節能與能效領域合作以及能源系統合作的檔案文字，並在會後簽署會議紀要。 在吉期間，宋宏坤與吉、塔等國代表舉行雙邊會見，並拜會駐吉使館。中國國家能源局國際司負責同志陪同參加。"
+    },
+    {
+      "id": "4953718",
+      "time": "2026-06-25 08:50:15",
+      "tags": [
+        "公司"
+      ],
+      "text": "【東方盛虹投資成立智算新公司】企查查APP顯示，近日，江蘇東方智算有限公司成立，經營範圍包含：資料處理和儲存支援服務；雲端計算裝備技術服務；資訊系統整合服務；資訊系統執行維護服務等。企查查股權穿透顯示，該公司由東方盛虹全資持股。"
+    },
+    {
+      "id": "4953717",
+      "time": "2026-06-25 08:49:29",
+      "tags": [
+        "其他"
+      ],
+      "text": "【匹克成為捷克國家籃球隊獨家裝備供應商】6月25日，匹克宣佈正式成為捷克國家籃球隊獨家裝備供應商及全球戰略合作伙伴。"
+    },
+    {
+      "id": "mkt:019efc3f-eb18-7dd8-b107-449e7b603f9b",
+      "time": "2026-06-25 08:48:27",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "South Korea's KOSPI index pared gains to 4.00% at 8,810.10."
+    },
+    {
+      "id": "4953716",
+      "time": "2026-06-25 08:48:22",
+      "tags": [
+        "國際"
+      ],
+      "text": "【日本未來一週或再次強震】北京時間今天（6月25日）早上6時30分，日本本州東部附近海域發生6.9級地震，震源深度50公里。日本公佈的震度為“6強”（日本10級震度中第二高），無海嘯預警釋出。日本氣象廳今天上午召開記者會表示，未來約一週內需注意發生同等規模的地震。此外，也不排除發生震感更強地震的可能性，呼籲民眾繼續保持警惕。"
+    },
+    {
+      "id": "4953715",
+      "time": "2026-06-25 08:48:12",
+      "tags": [
+        "公司"
+      ],
+      "text": "【日月光：全球首條具經濟規模的高度自動化FOPLP量產線年底投產】半導體封測大廠日月光投控營運長吳田玉表示，今年正同步推動15座新建及擴建廠區計劃，同時全球首條具經濟規模的高度自動化面板級封裝（FOPLP）量產線也將於今年底正式投產。隨著AI需求遠超過市場原先預期，公司資本支出已由原先規劃進一步提高至85億美元，未來仍不排除再度上修。"
+    },
+    {
+      "id": "mkt:019efc3f-3007-7dd8-b107-38d37c96e10a",
+      "time": "2026-06-25 08:47:39",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish",
+        "SSE Composite",
+        "SZSE Component"
+      ],
+      "text": "【Margin financing on Shanghai, Shenzhen exchanges up CNY 13.651 bln】As of June 24, margin financing balance at the Shanghai Stock Exchange was CNY 1,510.274 bln, up CNY 5.709 bln from the prior trading day; Shenzhen was CNY 1,473.185 bln, up CNY 7.942 bln. Combined margin financing totaled CNY 2,983.459 bln, an increase of CNY 13.651 bln."
+    },
+    {
+      "id": "mkt:019efc3f-224f-7dd8-b107-34e74809de72",
+      "time": "2026-06-25 08:47:36",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "Spot gold slipped below $3,980/oz, down 0.54% intraday."
+    },
+    {
+      "id": "4953714",
+      "time": "2026-06-25 08:47:33",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金失守3980美元/盎司，日內跌0.50%。"
+    },
+    {
+      "id": "4953713",
+      "time": "2026-06-25 08:47:07",
+      "tags": [
+        "其他"
+      ],
+      "text": "【兩市融資餘額較上日增加136.51億元】截至6月24日，上交所融資餘額報15102.74億元，較前一交易日增加57.09億元；深交所融資餘額報14731.85億元，較前一交易日增加79.42億元；兩市合計29834.59億元，較前一交易日增加136.51億元。"
+    },
     {
       "id": "4953712",
       "time": "2026-06-25 08:46:34",
@@ -154537,109 +154640,6 @@
         "國際"
       ],
       "text": "歐洲斯托克50指數期貨轉跌，下跌0.5%，德國DAX指數期貨下跌0.2%，英國富時指數期貨下跌0.4%。"
-    },
-    {
-      "id": "te:markets:559854",
-      "time": "2026-06-18 08:51:16",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Japan",
-        "Stock Market",
-        "Importance 2"
-      ],
-      "text": "Japanese Shares Rally After US-Iran Peace Deal — The Nikkei 225 Index climbed 1.8% to above 71,000, while the broader Topix Index advanced 1.6% to 4,078 on Thursday, with both benchmarks reaching fresh record highs after President Donald Trump signed an interim agreement to end the conflict with Iran and reopen the Strait of Hormuz. The deal eased concerns over Japan’s economy, which depends heavily on energy imports from the Middle East. Japanese equities also shrugged off an overnight selloff on Wall Street following signals from the US Federal Reserve that support for a rate hike this year is increasing. Financial stocks led the rally, with gains from Mitsubishi UFJ Financial Group (2.8%), Sumitomo Mitsui Financial Group (3.7%), and Mizuho Financial Group (2.7%). Technology shares also moved higher, including Kioxia Holdings (3%), Tokyo Electron (3.5%), and SoftBank Group (4.5%)."
-    },
-    {
-      "id": "4942122",
-      "time": "2026-06-18 08:50:57",
-      "tags": [
-        "其他"
-      ],
-      "text": "惠譽將中國海南橡膠評級上調至BBB+，評級展望穩定。"
-    },
-    {
-      "id": "mkt:019ed835-3c46-7dd8-b067-45967ba9b4ec",
-      "time": "2026-06-18 08:50:27",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Large Los Angeles warehouse fire ignites rooftop solar panels; shelter-in-place ordered】A large commercial warehouse in downtown Los Angeles caught fire on the 17th; flames ignited rooftop solar panels and produced heavy toxic smoke. The Los Angeles Fire Department said the blaze may involve hazardous materials and issued a shelter-in-place order for surrounding neighborhoods."
-    },
-    {
-      "id": "4942121",
-      "time": "2026-06-18 08:50:17",
-      "tags": [
-        "其他"
-      ],
-      "text": "【鄭州發放新一批消費券】新一批消費券來了。6月17日，記者從鄭州市人社局瞭解到，6月18日起至9月3日期間，每週四上午10點，鄭州社保卡（市民卡）將透過鄭州市民卡APP發放“惠省星期四”消費券。本次線下消費券發放拉長了活動週期，貫穿整個夏季，將優惠面額調整為滿20減5元，活動期間每人可領4張。 （鄭州釋出）"
-    },
-    {
-      "id": "mkt:019ed834-e2b3-7dd8-b067-3afaec41857f",
-      "time": "2026-06-18 08:50:04",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Greater China",
-        "CNH",
-        "Impact mixed"
-      ],
-      "text": "China's RMB share of global SWIFT payments for May will be released in ten minutes."
-    },
-    {
-      "id": "4942120",
-      "time": "2026-06-18 08:49:55",
-      "tags": [
-        "公司"
-      ],
-      "text": "【中集集團等在鹽城新設海洋戰新產業股權投資基金】企查查APP顯示，近日，鹽城市中集蘇悅海洋戰新產業股權投資基金合夥企業（有限合夥）成立，出資額10億元，經營範圍包含：以私募基金從事股權投資、投資管理、資產管理等活動。企查查股權穿透顯示，該企業由中集集團全資子公司中集資本控股有限公司、江蘇省海洋經濟股權投資基金（有限合夥）等共同出資。"
-    },
-    {
-      "id": "4942119",
-      "time": "2026-06-18 08:49:46",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國西部第一大城市洛杉磯市區一處大型商業倉儲設施17日突發大火，火焰引燃了屋頂上的太陽能電池板，併產生大量有毒濃煙。由於大火可能涉及危險物品，洛杉磯市消防局已向周邊地區釋出就地避難令。（新華社）"
-    },
-    {
-      "id": "4942118",
-      "time": "2026-06-18 08:49:39",
-      "tags": [
-        "其他"
-      ],
-      "text": "【能量奇點成功研製26.7T無液氦高溫超導絕緣磁體】近日，能量奇點自主研製的無液氦高溫超導絕緣磁體成功完成了三輪通流實驗，中心磁場分別達到20T、23.1T和26.7T。該磁體的研發和執行成功重新整理了兩項世界紀錄：磁場強度最高的無液氦高溫超導磁體；磁場強度最高的高溫超導絕緣磁體。將絕緣結構和無液氦執行同時應用於20T以上的高溫超導磁體，這在全球範圍內尚屬首例。"
-    },
-    {
-      "id": "4942117",
-      "time": "2026-06-18 08:48:46",
-      "tags": [
-        "市場"
-      ],
-      "text": "【酒價內參6月18日價格釋出：五糧液普五八代領跌 總價創四天以來新低】新浪財經“酒價內參”過去24小時收集的資料顯示，中國白酒市場主要大單品的終端零售均價6月18日整體溫和回落。如果主要單品各取一瓶整體打包售賣，今日總售價為9907元，較昨日下跌18元，連續三日回落並創下四天以來最低。今日除飛天茅臺與青花郎上漲外，其餘品種均回落，終端交投情緒環比明顯降溫。今日11大白酒單品二漲九跌，輸家數量佔據絕對優勢。上漲方面，青花郎漲幅居前，上漲9元/瓶，創下近一月最大單日漲幅，連續兩日上漲並升至近一月最高位；飛天茅臺小幅上漲2元/瓶。下跌方面，五糧液普五八代的跌幅居前，下跌7元/瓶，創近一月最大單日跌幅，重新回落至810元下方；國窖1573下跌5元/瓶，連續三日回落，價格跌至近一月次低位；精品茅臺下跌4元/瓶，亦滑落至近一月次低位；青花汾20與古井貢古20均下跌3元/瓶，其中前者連續三日回落並創下近一月最低價；五糧液1618、洋河夢之藍M6+與習酒君品均下跌2元/瓶；水晶劍南春小幅下跌1元/瓶，平進入六月以來的最低價紀錄。"
-    },
-    {
-      "id": "mkt:019ed832-bd73-7dd8-b067-34b2d30ad431",
-      "time": "2026-06-18 08:47:44",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Indonesia's finance ministry said the country secured a US$17 billion funding commitment from the Asian Infrastructure Investment Bank for projects to be implemented from 2025 to 2029."
-    },
-    {
-      "id": "mkt:019ed832-a129-7dd8-b067-2ddc4aa8f7cc",
-      "time": "2026-06-18 08:47:37",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Greater China",
-        "CSI300",
-        "Impact bullish",
-        "SSE Composite"
-      ],
-      "text": "【China margin financing balance rises CNY28.01 billion on June 17】China's margin financing balance across the Shanghai and Shenzhen exchanges rose CNY28.01 billion to CNY2,921.85 billion on June 17; Shanghai CNY1,488.21 billion, up CNY14.52 billion; Shenzhen CNY1,433.64 billion, up CNY13.49 billion."
     }
   ]
 }
