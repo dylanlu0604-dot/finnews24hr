@@ -1,7 +1,25 @@
 {
-  "updated": "2026-06-26 03:32:14",
-  "count": 16988,
+  "updated": "2026-06-26 03:36:09",
+  "count": 16987,
   "items": [
+    {
+      "id": "4955837",
+      "time": "2026-06-26 03:34:23",
+      "tags": [
+        "其他"
+      ],
+      "text": "訊息人士稱：德州馬拉松加爾維斯頓灣煉油廠故障後恢復正常運營。"
+    },
+    {
+      "id": "mkt:019f0045-8e78-7dd8-b125-6cd242c755ad",
+      "time": "2026-06-26 03:33:06",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Industrial Metals"
+      ],
+      "text": "【US Army to allow critical-mineral processing plants on bases】As part of the Trump administration’s push to boost domestic production, the US Army will allow several companies to build critical-mineral processing plants on military bases nationwide, people familiar with the matter said. REalloys, Titan Mining, ioneer and Energy Exploration Technologies have agreements with the Pentagon to build facilities to process rare earths, graphite, lithium and boron. REalloys plans a rare-earth separation plant at the Tooele Army Depot in Utah; output will be stored on-site for military use."
+    },
     {
       "id": "mkt:019f0042-d5db-7dd8-b125-656fc0b03fcc",
       "time": "2026-06-26 03:30:07",
@@ -155413,32 +155431,6 @@
         "國際"
       ],
       "text": "伊朗媒體訊息：伊朗外長阿拉格齊對最高領袖週四發表的講話表示歡迎，稱外交系統將全力以赴維護伊朗國家利益。"
-    },
-    {
-      "id": "4944270",
-      "time": "2026-06-19 03:36:05",
-      "tags": [
-        "市場"
-      ],
-      "text": "週四（6月18日）紐約尾盤，美元兌日元漲超0.57%，報161.81日元，逼近2024年7月3日頂部161.95日元，北京時間17:02重新整理日低至160.48日元，之前大致持平、之後持續走高。歐元兌日元漲0.2%，報185.09日元；英鎊兌日元跌0.11%，報213.244日元。"
-    },
-    {
-      "id": "mkt:019edc38-8feb-7dd8-b087-6eba7cab3536",
-      "time": "2026-06-19 03:32:34",
-      "tags": [
-        "MKT News",
-        "Important",
-        "USDJPY"
-      ],
-      "text": "USD/JPY briefly fell about 80 pips to 160.94 and has since recovered to 161.53."
-    },
-    {
-      "id": "4944269",
-      "time": "2026-06-19 03:32:22",
-      "tags": [
-        "其他"
-      ],
-      "text": "古巴總理向議員提交一攬子重大舉措，擬對古巴大量經濟領域實施私有化改革。"
     }
   ]
 }
