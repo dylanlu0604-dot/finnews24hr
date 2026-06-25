@@ -1,7 +1,48 @@
 {
-  "updated": "2026-06-25 08:07:11",
-  "count": 16946,
+  "updated": "2026-06-25 08:11:20",
+  "count": 16944,
   "items": [
+    {
+      "id": "mkt:019efc1d-04a1-7dd8-b106-f16208295402",
+      "time": "2026-06-25 08:10:20",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "S&P/ASX 200 opened down 27.20 points (-0.31%) at 8,781.20 on Thursday, June 25."
+    },
+    {
+      "id": "4953671",
+      "time": "2026-06-25 08:09:24",
+      "tags": [
+        "公司"
+      ],
+      "text": "【Ollin完成3.3億美元B輪融資】6月25日，信達生物宣佈，公司合作伙伴Ollin已完成超額認購的3.3億美元B輪融資。本輪融資由新投資方TCGX和創始投資方ARCH Venture Partners共同領投，並獲得了多家醫療健康Crossover機構投資者、主權財富基金及其他新機構投資者的參與，包括a16z Bio+Health、Blackstone Multi-Asset Investing、Commodore Capital、加拿大養老金計劃投資委員會等。公司聯合創始投資方Mubadala Capital和Monograph Capital亦繼續參與本輪投資。"
+    },
+    {
+      "id": "mkt:019efc1b-53fd-7dd8-b106-e88376afc8de",
+      "time": "2026-06-25 08:08:29",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Korea Exchange activated the KOSPI \"sidecar\" temporary trading-halt mechanism."
+    },
+    {
+      "id": "4953670",
+      "time": "2026-06-25 08:07:45",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "韓國交易所啟動SIDECAR機制，暫停KOSPI程式化買盤。"
+    },
+    {
+      "id": "4953669",
+      "time": "2026-06-25 08:07:17",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美國地質調查局就委內瑞拉強震釋出紅色警報 】美國地質調查局地震資訊網24日就委內瑞拉強震釋出紅色警報，預計地震將造成重大人員傷亡、大範圍破壞和相關經濟損失，並在多地引發災情。（新華社）"
+    },
     {
       "id": "mkt:019efc19-4f16-7dd8-b106-e6c1fc3470a6",
       "time": "2026-06-25 08:06:17",
@@ -154797,64 +154838,6 @@
         "國際"
       ],
       "text": "日本日經225指數首次突破71000點關口，再創新高。"
-    },
-    {
-      "id": "mkt:019ed810-cbc2-7dd8-b066-d393bce76de9",
-      "time": "2026-06-18 08:10:39",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Australian S&P/ASX 200 opened down 8.70 points (-0.10%) at 8,957.60 on Thursday, June 18."
-    },
-    {
-      "id": "4942065",
-      "time": "2026-06-18 08:09:53",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "韓國財政部：將監控金融市場，必要時將採取穩定措施。"
-    },
-    {
-      "id": "4942064",
-      "time": "2026-06-18 08:09:44",
-      "tags": [
-        "公司"
-      ],
-      "text": "沃達豐澳大利亞公司稱網路間歇性出現問題。"
-    },
-    {
-      "id": "mkt:019ed80f-d7d4-7dd8-b066-cac16c731356",
-      "time": "2026-06-18 08:09:37",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "South Korea's finance minister said they will monitor financial markets and, if necessary, take measures to stabilize them."
-    },
-    {
-      "id": "mkt:019ed80f-9f43-7dd8-b066-c41702d68fd8",
-      "time": "2026-06-18 08:09:22",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【US to allow limited imports of Chinese toy drones, broader drone ban stays in place】The US Federal Communications Commission (FCC) on the 16th said it will permit imports and US sales of Chinese-made toy drones that meet narrow technical specifications. Refinitiv reported the move partially reverses a December FCC prohibition that barred new foreign drones and key components as posing an 'unacceptable risk' to US national security and had targeted DJI and Autel. The US Department of Defense, after review, judged low-tech toy-class models do not constitute a national security threat. Allowed devices must weigh no more than 150 grams, operate within visual line of sight and within 100 meters, have no network or online connectivity, carry no camera or sensors capable of monitoring or data collection, and have a maximum single-flight time of 10 minutes. Models exceeding these limits remain subject to the existing ban."
-    },
-    {
-      "id": "4942063",
-      "time": "2026-06-18 08:08:35",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【美國解除中國玩具無人機進口禁令】美國聯邦通訊委員會（FCC）16日宣佈，將允許符合特定技術規格的中國新型玩具無人機進入美國市場銷售。 另據路透社報道，為避免與中國緊張關係升級，美國商務部推遲了將深度求索（DeepSeek）、晶片製造商長鑫儲存（CXMT）等多家中國公司列入限制性實體名單。   (環球網)"
-    },
-    {
-      "id": "4942062",
-      "time": "2026-06-18 08:07:13",
-      "tags": [
-        "市場"
-      ],
-      "text": "布倫特原油日內跌1%，現報78.41美元/桶。"
     }
   ]
 }
