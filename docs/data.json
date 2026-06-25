@@ -1,7 +1,51 @@
 {
-  "updated": "2026-06-25 22:49:51",
-  "count": 16950,
+  "updated": "2026-06-25 22:53:54",
+  "count": 16947,
   "items": [
+    {
+      "id": "te:markets:561946",
+      "time": "2026-06-25 22:52:32",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "Tech Stocks Trader Mixed, Dow Rises to Record — Tech heavyweight companies in the US diverged further on Thursday, as hyperscale cloud providers sank and chip producers rallied. The S&P 500 and the Nasdaq 100 were slightly higher, while gains in non-tech sectors lifted the Dow to a new record of 52,500. Micron surged 10% after beating earnings and forecasting a revenue of $50 billion in the quarter to August, above the expectations, and Qualcomm jumped 5% after doubling its projection for non-handset revenue in the next three years. Other chip stocks rallied. On the other hand, Nvidia, Oracle, Amazon, Alphabet, and Microsoft dropped more than 2% to stretch the pivot from software companies to AI infrastructure developers. Softer inflationary risks also supported broader sectors as energy prices continued fall and PCE price indices refrained from overshooting expectations. J&J and Caterpillar gained 5% each. Banking shares also rose as lenders will raise their dividends after passing the Federal Reserve's stress test."
+    },
+    {
+      "id": "4955470",
+      "time": "2026-06-25 22:52:03",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：伊朗估計，對霍爾木茲海峽的安保、安全與環境服務收費。"
+    },
+    {
+      "id": "4955469",
+      "time": "2026-06-25 22:51:46",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：伊朗若要徵收任何通航服務費，均需獲得國際海事組織批准。"
+    },
+    {
+      "id": "4955468",
+      "time": "2026-06-25 22:50:33",
+      "tags": [
+        "其他"
+      ],
+      "text": "【LABUBU復古理髮店上線秒罄】6月25日晚，泡泡瑪特旗下頭部IP LABUBU推出的“復古理髮店”系列正式發售。 盲盒一共包含7款角色，其中6款為普通款，1款為隱藏款，每個售價159元，整盒954元，售價和規格與今年3月發售的三麗鷗聯名系列相同。 藍鯨記者在開售當晚實測搶購，進入購買頁面後隨即顯示“排隊人數過多”，短短數秒內，該系列盲盒便已售罄。隨後記者查詢發現，不僅官方小程式，淘寶等全平臺也顯示無貨。 供需缺口帶動該系列產品在市場上出現明顯溢價，得物App價格圖顯示，隱藏款“迷霧白噪音”溢價至1200元，溢價超6倍；“絲絨午後”是常規款中溢價最高的一款，價格達265元。（藍鯨新聞）"
+    },
+    {
+      "id": "4955467",
+      "time": "2026-06-25 22:49:42",
+      "tags": [
+        "其他"
+      ],
+      "text": "【寶馬回應更換蓄電池提示為誤報】6月24日，多名寶馬i3、i4車型新車車主發帖稱，在啟動車輛時收到車機發來的提醒：“您可以繼續駕駛。請更換蓄電池。”資訊引發部門車主擔憂。25日，寶馬官方工作人員告訴記者，相關提示資訊為誤報資訊，車主可以放心使用車輛。寶馬官方同時向相關車主車機推送了服務資訊進行說明。說明中稱：“請您放心使用車輛，您無需因此而更換蓄電池或採取任何措施，此問題亦不會影響高壓電池的正常執行，也不會影響您的正常駕駛。我們正在積極推進相關解決方案，以確保該錯誤的提示資訊後續不再出現。”工作人員同時表示，如有對於車輛蓄電池不放心的車主，可以去就近經銷商做免費檢測。據悉，車機推送的提示中的“蓄電池”為12V 低壓小電瓶，隨整車質保三年或10萬公里。（瀟湘晨報）"
+    },
     {
       "id": "te:markets:561944",
       "time": "2026-06-25 22:48:54",
@@ -154850,73 +154894,6 @@
         "其他"
       ],
       "text": "中煙國際（香港）預計上半年收入下降25%-30%，利潤下降10%-15%。"
-    },
-    {
-      "id": "4943821",
-      "time": "2026-06-18 22:52:51",
-      "tags": [
-        "國際"
-      ],
-      "text": "【俄外交部：日本“再軍事化”路線會加劇地區緊張局勢】俄羅斯外交部發言人扎哈羅娃18日在例行記者會上表示，日本的“再軍事化”路線，違背了該國戰後憲法的和平主義條款，只會加劇地區緊張局勢。扎哈羅娃在回答新華社記者相關提問時表示，日本近期的一系列“再軍事化”行動引發俄羅斯等國家的擔憂。“我們也定期提醒日方注意，這條路線是有害的。”近期，日本除持續加強沖繩等地的軍事部署外，還頻繁透過制定和修訂相關政策檔案，為進一步強化所謂的“防衛力量”鋪路。本月9日，日本自民黨召開總務會，透過了擬提交政府的關於年內修訂“安保三檔案”的建議草案。其中不僅建議進一步增加防衛費，還強調提高預備自衛官充足率，以應對所謂“有事”的情況。相關動向引發輿論廣泛擔憂。（新華社）"
-    },
-    {
-      "id": "4943820",
-      "time": "2026-06-18 22:52:44",
-      "tags": [
-        "國際"
-      ],
-      "text": "印度當前財年淨直接稅收達到5.2萬億盧比，預收稅款1.78萬億盧比。"
-    },
-    {
-      "id": "4943819",
-      "time": "2026-06-18 22:51:52",
-      "tags": [
-        "市場"
-      ],
-      "text": "【費城半導體指數漲幅擴大至6% 續刷記錄新高】費城半導體指數漲幅擴大至6%，續刷記錄新高。英偉達股價上漲2.24%，臺積電股價上漲4.9%，博通股價上漲4.26%，美光科技股價上漲7.79%，超威半導體股價上漲3.58%，阿斯麥股價上漲3.44%，英特爾股價上漲7.14%，ARM股價上漲5.17%。"
-    },
-    {
-      "id": "4943818",
-      "time": "2026-06-18 22:51:44",
-      "tags": [
-        "公司"
-      ],
-      "text": "【高斯貝爾：子公司郴州功田電子主營高頻高速覆銅板產品】高斯貝爾6月18日在互動平臺表示，公司子公司郴州功田電子主營高頻高速覆銅板產品，目前公司覆銅板相關業務均正常開展、運營平穩。"
-    },
-    {
-      "id": "mkt:019edb37-0210-7dd8-b081-80d3703301af",
-      "time": "2026-06-18 22:51:15",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "According to an HKEX filing, Shiyao Innovation Pharmaceutical Co., Ltd. has submitted a listing application."
-    },
-    {
-      "id": "4943817",
-      "time": "2026-06-18 22:51:14",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "核能公司Deep Fission開盤價為16美元，IPO價格為16美元。"
-    },
-    {
-      "id": "mkt:019edb36-f1c9-7dd8-b081-78a386d62e04",
-      "time": "2026-06-18 22:51:11",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy"
-      ],
-      "text": "Nuclear-energy company Deep Fission opened at $16, matching its $16 IPO price."
-    },
-    {
-      "id": "4943816",
-      "time": "2026-06-18 22:51:10",
-      "tags": [
-        "公司"
-      ],
-      "text": "據港交所檔案：石藥創新制藥股份有限公司向港交所提交上市申請書。"
     }
   ]
 }
