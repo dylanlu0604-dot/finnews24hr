@@ -1,7 +1,20 @@
 {
-  "updated": "2026-06-26 05:30:06",
-  "count": 16973,
+  "updated": "2026-06-26 05:34:02",
+  "count": 16970,
   "items": [
+    {
+      "id": "mkt:019f00b2-7da7-7dd8-b126-917efec3637e",
+      "time": "2026-06-26 05:32:05",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bullish",
+        "Nikkei 225"
+      ],
+      "text": "【Japan to propose higher defense spending based on ruling party proposals】On the 24th, Prime Minister Takaichi accepted proposals from the ruling LDP and Nippon Ishin to revise Japan’s three security documents. The government plans a formal cabinet revision by year-end and, following LDP guidance, will propose raising defense spending. The LDP offered no explicit target but asked officials to study NATO peers that aim for about 3.5% of GDP. Nippon Ishin called for defense spending above 2% of GDP by FY2026 and urged a realistic review of the Three Non‑Nuclear Principles’ no‑introduction clause, pressing for the prompt acquisition of nuclear submarines."
+    },
     {
       "id": "te:economy:562004",
       "time": "2026-06-26 05:23:18",
@@ -155286,48 +155299,6 @@
         "國際"
       ],
       "text": "【美特使：伊朗將邀請國際原子能機構檢查其核設施】據美國媒體18日報道，美國總統特使威特科夫當天在一次閉門簡報會中對美國會議員說，伊朗將邀請聯合國國際原子能機構檢查其核設施，並著手確認和查明伊朗濃縮核材料存放的具體位置。據美聯社援引知情人士的話報道，威特科夫對國會領導層及國家安全相關委員會成員表示，美伊諒解備忘錄不含任何“附帶協議”，但伊朗與國際原子能機構之間起草了一份附函，其中包含上述邀請內容。威特科夫表示，這封致國際原子能機構總幹事格羅西的信函將使他能夠帶領美國核查人員前往德黑蘭。（新華社）"
-    },
-    {
-      "id": "4944329",
-      "time": "2026-06-19 05:33:48",
-      "tags": [
-        "公司"
-      ],
-      "text": "市場訊息：Kalshi 的 IPO 洽談尚處於初期階段，公司大機率要到明年下半年甚至 2028 年才會上市。"
-    },
-    {
-      "id": "mkt:019edca7-6e72-7dd8-b088-daf29010059d",
-      "time": "2026-06-19 05:33:40",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "【CITIGROUP expects oil to fall to $60-65/bbl by Q1 2027】CITIGROUP said on Thursday it expects oil to trend lower over the next 6–12 months and reach $60–65/bbl by Q1 2027, citing a US‑Iran memorandum to end their conflict that would normalize shipments through the Strait of Hormuz. The bank added that restoring and normalizing flows via the strait would, over time, \"re-anchor prices to weaker fundamentals.\" Oil slid on Thursday to its lowest level since the Feb. 28 outbreak of war; analysts say exports through the strait, about one-fifth of global supply, could return to normal in the coming months."
-    },
-    {
-      "id": "4944328",
-      "time": "2026-06-19 05:33:16",
-      "tags": [
-        "其他"
-      ],
-      "text": "市場訊息：Kalshi 年化營收突破 20 億美元，已進入 IPO 初步洽談階段。"
-    },
-    {
-      "id": "mkt:019edca4-a9ce-7dd8-b088-d7c6a6dcdaf7",
-      "time": "2026-06-19 05:30:39",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact mixed",
-        "Brent"
-      ],
-      "text": "Iraq's oil minister said crude export recovery will be gradual and contingent on smooth passage through the Strait of Hormuz."
     }
   ]
 }
