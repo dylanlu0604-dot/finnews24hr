@@ -1,7 +1,105 @@
 {
-  "updated": "2026-06-25 10:03:51",
-  "count": 17038,
+  "updated": "2026-06-25 10:07:53",
+  "count": 17037,
   "items": [
+    {
+      "id": "mkt:019efc87-a700-7dd8-b10a-3c3cbc899acc",
+      "time": "2026-06-25 10:06:48",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "China EV Leaders",
+        "09868.HK",
+        "Impact bearish"
+      ],
+      "text": "Hong Kong-listed XPeng Inc. (09868.HK) shares fell more than 5% on turnover exceeding HK$300 mln."
+    },
+    {
+      "id": "4953922",
+      "time": "2026-06-25 10:06:15",
+      "tags": [
+        "公司"
+      ],
+      "text": "【豪恩汽電等成立芯宸智算科技公司 含多項AI業務】企查查APP顯示，近日，深圳市豪恩芯宸智算科技有限公司成立，經營範圍包含：人工智慧通用應用系統；人工智慧行業應用系統整合服務；人工智慧應用軟體開發；人工智慧公共資料平臺等。企查查股權穿透顯示，該公司由豪恩汽電等共同持股。"
+    },
+    {
+      "id": "4953921",
+      "time": "2026-06-25 10:05:21",
+      "tags": [
+        "其他"
+      ],
+      "text": "DIGITALBRIDGE據悉正在探索AIMS資料中心的各種方案，包括出售的可能性，估值或達20億美元。"
+    },
+    {
+      "id": "mkt:019efc86-42c9-7dd8-b10a-30f9d315cda1",
+      "time": "2026-06-25 10:05:17",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "BIDU.O",
+        "Impact bullish"
+      ],
+      "text": "【Baidu consolidates Wenxin sites into unified AI portal】On June 25, Baidu said it has merged and upgraded its Wenxin-related websites into a single Baidu Wenxin site as a one-stop AI services portal, with an expanded feature matrix."
+    },
+    {
+      "id": "te:markets:561696",
+      "time": "2026-06-25 10:05:11",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "China",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Chinese Stocks Follow Mixed Wall Street Session — The Shanghai Composite slipped 0.3% to 4,099 on Thursday, while the Shenzhen Component advanced 1.3% to 16,251, as the two benchmarks diverged following a mixed overnight session on Wall Street. Sentiment toward artificial intelligence-related stocks improved after Micron Technology reported stronger-than-expected quarterly results and issued an upbeat revenue forecast, bolstering confidence in sustained AI-driven demand. Adding to the positive tone, Qualcomm projected annual data-center AI component sales exceeding $15 billion by fiscal 2029. Both developments helped revive investor interest in the technology sector following a recent global selloff. However, gains in technology shares were partly offset by weakness in major lenders, with Industrial and Commercial Bank of China falling 1.1%, Agricultural Bank of China losing 1.0%, China Construction Bank dropping 1.3%, and Bank of China retreating 2.0%."
+    },
+    {
+      "id": "mkt:019efc85-991e-7dd8-b10a-2998da3ca2ce",
+      "time": "2026-06-25 10:04:34",
+      "tags": [
+        "MKT News",
+        "Important",
+        "01347.HK",
+        "Impact bullish"
+      ],
+      "text": "Hong Kong-listed Hua Hong Hongli (01347.HK) climbed above HK$200 to a fresh record high, extending its year-to-date gain to over 170%."
+    },
+    {
+      "id": "4953920",
+      "time": "2026-06-25 10:04:32",
+      "tags": [
+        "公司",
+        "焦點"
+      ],
+      "text": "港股華虹宏力(01347.HK)突破200港元續刷歷史新高，年內漲幅超170%。"
+    },
+    {
+      "id": "mkt:019efc85-0cb9-7dd8-b10a-267c4c82ccb2",
+      "time": "2026-06-25 10:03:58",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "DXY",
+        "Impact bullish",
+        "USDJPY",
+        "CNH",
+        "Impact bearish"
+      ],
+      "text": "【Mitsubishi UFJ: Thai baht, other Asian currencies pressured by US rates staying higher for longer】Mitsubishi UFJ senior FX analyst Lloyd Chan says the Thai baht and other Asian currencies are under pressure against the dollar as US interest rates are expected to remain higher for longer. He warns this is likely to create short-term downside for regional currencies, especially low-yielders, and the bank maintains a negative view on recent baht moves. Chan added that although the BOT expects stronger growth this year, concerns persist that expansion remains slow and uneven."
+    },
+    {
+      "id": "mkt:019efc84-80ea-7dd8-b10a-1c5c21fa4a26",
+      "time": "2026-06-25 10:03:22",
+      "tags": [
+        "MKT News",
+        "01888.HK",
+        "Impact bullish",
+        "01989.HK",
+        "00148.HK"
+      ],
+      "text": "PCB-related stocks in Hong Kong rallied: Kingboard Laminates (01888.HK) rose more than 6%, Guanghe Technology (01989.HK) gained over 5% and Kingboard Group (00148.HK) advanced about 3%."
+    },
     {
       "id": "4953919",
       "time": "2026-06-25 10:02:58",
@@ -155613,98 +155711,6 @@
         "其他"
       ],
       "text": "滙豐發言人表示，該行已達成協議，解決與澳大利亞證券和投資委員會（ASIC）之間的法律程式。"
-    },
-    {
-      "id": "mkt:019ed87c-17fa-7dd8-b069-08c9a2af1326",
-      "time": "2026-06-18 10:07:51",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "Copper",
-        "Impact bullish"
-      ],
-      "text": "China A-share PCB concept names were active again; Shiming Technology hit a 20% limit-up, following earlier limit-ups in Zhongjing Electronics, Hengtong Co. and Xianfeng Holdings. Heduan Intelligent, Tongguan Copper Foil, Jin An Guoji and Dingtai Hi-Tech also advanced."
-    },
-    {
-      "id": "4942255",
-      "time": "2026-06-18 10:07:49",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【生物製品板塊震盪反彈，萬澤股份漲停】生物製品板塊震盪反彈，萬澤股份漲停，諾思蘭德漲超13%，諾唯贊、百克生物、科興製藥等跟漲。"
-    },
-    {
-      "id": "4942254",
-      "time": "2026-06-18 10:07:45",
-      "tags": [
-        "其他"
-      ],
-      "text": "【沃爾瑪中國與迪士尼中國達成合作】沃爾瑪中國與迪士尼中國共同宣佈，雙方將基於顧客洞察、消費場景以及行業趨勢，在商品聯合開發、零售體驗創新等領域展開長期深入合作。"
-    },
-    {
-      "id": "4942253",
-      "time": "2026-06-18 10:07:00",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "日本央行副行長冰見野良三將於週五向國會提交半年工作報告。"
-    },
-    {
-      "id": "mkt:019ed87b-02bd-7dd8-b069-029590ff0abc",
-      "time": "2026-06-18 10:06:40",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "On the A-share market, Zhongji Xuchuang rose more than 5% to 1,349.87 yuan, hitting a record high. Xinyisheng climbed over 5% with turnover exceeding 10 billion yuan."
-    },
-    {
-      "id": "4942252",
-      "time": "2026-06-18 10:06:29",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【PCB概念反覆活躍 世名科技20cm漲停】PCB概念反覆活躍，CCL產業鏈繼續領漲，世名科技20cm漲停，此前中京電子、亨通股份、賢豐控股漲停，合鍛智慧、銅冠銅箔、金安國紀、鼎泰高科等漲幅靠前。"
-    },
-    {
-      "id": "te:markets:559881",
-      "time": "2026-06-18 10:04:50",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "European Gas Prices Near 2-Month Low — European natural gas prices fell toward €41 per MWh, extending losses to a near two-month low as an interim US–Iran agreement is now in effect after both sides signed the memorandum remotely. Pakistan's prime minister said the signing means Iran will “instantly reopen” the Strait of Hormuz and the US will “immediately lift” its naval blockade on all Iranian ports. The deal also includes the permanent end to hostilities and initiates a 60-day negotiating period to reach a final agreement on the future of Iran's nuclear program, although Trump warned he would restart the war if Tehran fails to comply with the terms of the 14-point memorandum of understanding. In anticipation of the strait's imminent reopening, a handful of vessels have started returning to the Middle East, including tankers from Qatar, the world's second-largest LNG exporter."
-    },
-    {
-      "id": "4942251",
-      "time": "2026-06-18 10:04:24",
-      "tags": [],
-      "text": "A股創業板指盤中漲超2％，再創歷史新高，深證成指漲超1％，上證指數漲0.2％，科創50指數漲超2％，稀土永磁、半導體等板塊漲幅居前。"
-    },
-    {
-      "id": "4942250",
-      "time": "2026-06-18 10:04:06",
-      "tags": [
-        "市場"
-      ],
-      "text": "富時中國A50指數期貨盤中漲超1%。"
-    },
-    {
-      "id": "4942249",
-      "time": "2026-06-18 10:04:00",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "印尼盾兌美元跌至17850。"
     }
   ]
 }
