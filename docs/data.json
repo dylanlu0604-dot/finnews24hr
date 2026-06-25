@@ -1,7 +1,126 @@
 {
-  "updated": "2026-06-25 22:03:04",
-  "count": 16980,
+  "updated": "2026-06-25 22:07:23",
+  "count": 16975,
   "items": [
+    {
+      "id": "mkt:019eff1a-2460-7dd8-b11e-b530d7da7b65",
+      "time": "2026-06-25 22:06:03",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Wall Street (US)",
+        "S&P500",
+        "Impact bullish",
+        "Nasdaq100"
+      ],
+      "text": "S&P 500 and Nasdaq 100 turned higher."
+    },
+    {
+      "id": "4955408",
+      "time": "2026-06-25 22:05:39",
+      "tags": [
+        "市場"
+      ],
+      "text": "標普500指數和納斯達克100指數轉漲。"
+    },
+    {
+      "id": "mkt:019eff19-bb1d-7dd8-b11e-aa03fc235697",
+      "time": "2026-06-25 22:05:36",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bearish",
+        "EURUSD",
+        "Impact bullish",
+        "USDJPY"
+      ],
+      "text": "The US dollar index (DXY) slipped just over 10 points to 101.38; non-dollar currencies rallied in short-term trade."
+    },
+    {
+      "id": "4955407",
+      "time": "2026-06-25 22:05:33",
+      "tags": [
+        "其他"
+      ],
+      "text": "美元指數DXY短線走低十餘點，報101.38。非美貨幣短線上揚。"
+    },
+    {
+      "id": "te:economy:561935",
+      "time": "2026-06-25 22:05:25",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Namibia",
+        "GDP Annual Growth Rate",
+        "Importance 0"
+      ],
+      "text": "Namibia GDP Growth Quickens in Q1 — The economy of Namibia expanded by 2% year-on-year in Q1 2026, following a revised 0.1% rise in the previous period. Growth was driven by tertiary activities (+5.1%), particularly wholesale and retail trade (+9.3%), financial services (+7.2%), health (+6.4%), education (+4.6%) and public administration (+3.7%). Primary activities, however, contracted 5.7%, reflecting a sharp 12.2% decline in mining and quarrying due to lower diamond and gold production. At the same time, the industrial sector fell 3.1%, weighed down by a 12.2% slump in manufacturing."
+    },
+    {
+      "id": "mkt:019eff19-8ef6-7dd8-b11e-a79bf0143d42",
+      "time": "2026-06-25 22:05:25",
+      "tags": [
+        "MKT News",
+        "GBPUSD",
+        "Impact bullish"
+      ],
+      "text": "GBP/USD touched 1.32, up 0.24% on the day."
+    },
+    {
+      "id": "te:markets:561934",
+      "time": "2026-06-25 22:05:07",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "Amgen Stock Price Hits 11-week High — Amgen shares increased to 358.73 USD, the highest since April 2026. Over the past 4 weeks, Amgen gained 6.78%, and in the last 12 months, it increased 28.52%."
+    },
+    {
+      "id": "4955405",
+      "time": "2026-06-25 22:04:28",
+      "tags": [
+        "其他"
+      ],
+      "text": "國際卡車司機工會：Ascend Wellness船廠916地方分會逾300名工會會員發起“不公平勞動行為”罷工。"
+    },
+    {
+      "id": "te:markets:561933",
+      "time": "2026-06-25 22:03:33",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "American Express Stock Price Hits 19-week High — American Express shares increased to 348.25 USD, the highest since February 2026. Over the past 4 weeks, American Express gained 11.96%, and in the last 12 months, it increased 11.71%."
+    },
+    {
+      "id": "mkt:019eff17-b575-7dd8-b11e-9dc8ced90da7",
+      "time": "2026-06-25 22:03:24",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "WTI and Brent crude gained as much as 1% intraday, trading at $71.11/bbl and $74.14/bbl respectively."
+    },
+    {
+      "id": "4955401",
+      "time": "2026-06-25 22:02:56",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【豫能控股股價大跌超9% 公司回應：動力煤價格變動確實會影響成本】豫能控股股價6月25日大跌。截至收盤，公司股價報18.6元/股，收盤跌幅為9.36%。市場認為，從成本端看，動力煤價格高位震盪，公司入爐煤價居高不下，影響發電成本。從收入端看，河南電力市場化競爭激烈，上網電價同比下滑，風光新能源擠壓火電利用小時，發電量走低。對此，豫能控股方面回應稱，動力煤價格變動確實會影響成本。公司所在的河南地區主要是火電為主，但風電、光伏等新能源發電佔比有所增加。新能源發電量佔比增加，首先影響的是火電的量，價格是市場化電價決定的。目前，公司發電後以市場化定價銷售，上網收購電價是各省市場化定價，各地有所差異，且按照供需在波動。發電企業都會受到市場化定價銷售的影響。股價受多重因素影響，為了應對市場化電價對業績的衝擊，公司也打算透過上下游佈局，來平滑業績波動。上游是煤炭，下游是用電負荷。"
+    },
     {
       "id": "4955399",
       "time": "2026-06-25 22:01:54",
@@ -155026,146 +155145,6 @@
         "Impact bearish"
       ],
       "text": "【Monex: Pound outlook after BoE decision hinges on data, politics】Monex Europe strategist Nick Rees said after the Bank of England left the policy rate at 3.75% on Thursday that upcoming UK economic data and domestic political developments will determine whether the pound weakens further. Two of nine MPC members voted to raise rates, but BoE communications signalled an overall lack of urgency to change policy in the near term. Rees said further evidence of economic weakness combined with rising political risk could push the pound lower."
-    },
-    {
-      "id": "4943749",
-      "time": "2026-06-18 22:06:41",
-      "tags": [
-        "市場"
-      ],
-      "text": "巴西雷亞爾兌美元在即期交易中貶值1%，報5.16雷亞爾。"
-    },
-    {
-      "id": "4943748",
-      "time": "2026-06-18 22:06:26",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國總統特朗普在社交媒體上發文稱：就業創下歷史紀錄，物價正在下降（負擔能力！）。我們的國家空前強大、安全，受人尊敬。“不客氣！”"
-    },
-    {
-      "id": "4943747",
-      "time": "2026-06-18 22:06:03",
-      "tags": [
-        "其他"
-      ],
-      "text": "辛巴威議員支援將總統任期延長兩年。"
-    },
-    {
-      "id": "mkt:019edb0d-8b19-7dd8-b080-4e14621b6fe6",
-      "time": "2026-06-18 22:05:58",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "South Africa will maintain its wheat import tariff framework."
-    },
-    {
-      "id": "mkt:019edb0d-71ca-7dd8-b080-44594c1619bb",
-      "time": "2026-06-18 22:05:51",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Putin told Singapore's prime minister that sanctions have constrained bilateral economic cooperation and much of its potential remains unrealized."
-    },
-    {
-      "id": "mkt:019edb0d-1824-7dd8-b080-38928feb4f31",
-      "time": "2026-06-18 22:05:28",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "DXY",
-        "Brent"
-      ],
-      "text": "Russia's deputy prime minister said Russia has used more than 1,500 drones to strike Ukrainian ports since the start of 2026."
-    },
-    {
-      "id": "4943746",
-      "time": "2026-06-18 22:05:25",
-      "tags": [
-        "其他"
-      ],
-      "text": "南非將維持小麥進口關稅政策框架。"
-    },
-    {
-      "id": "4943745",
-      "time": "2026-06-18 22:05:17",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國地質調查局：阿拉斯加州阿達克西南偏西210公里處發生5.1級地震。"
-    },
-    {
-      "id": "4943744",
-      "time": "2026-06-18 22:04:51",
-      "tags": [
-        "國際"
-      ],
-      "text": "普京對新加坡總理表示：受制裁影響，雙邊合作的經濟潛力尚未得到充分挖掘。"
-    },
-    {
-      "id": "4943743",
-      "time": "2026-06-18 22:04:30",
-      "tags": [
-        "國際"
-      ],
-      "text": "俄羅斯副總理表示，自2026年初以來，俄羅斯已用1500多架無人機襲擊了烏克蘭港口。"
-    },
-    {
-      "id": "mkt:019edb0c-2418-7dd8-b080-30c6f5666b9b",
-      "time": "2026-06-18 22:04:26",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bearish",
-        "S&P500",
-        "Impact bullish",
-        "DXY"
-      ],
-      "text": "【Trump: Oil is flowing; Iran will never have nuclear weapons】US President Trump posted on social media saying \"oil is flowing\" and that Iran will never acquire nuclear weapons, adding the world will be safe. He said the stock market is \"red hot\", employment is at record highs and prices are falling, improving affordability, and described the US as unusually strong, secure and respected."
-    },
-    {
-      "id": "mkt:019edb0c-1577-7dd8-b080-2ea8c6df5365",
-      "time": "2026-06-18 22:04:22",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "【Iranian media: Iran delegation trip to Switzerland not finalized】Iranian media cited an informed source on June 18 saying arrangements for an Iranian delegation to travel to Switzerland have not been finalised and related assessments and consultations remain incomplete. The source said clarity on whether the delegation will appear in Switzerland tomorrow is expected within hours; if confirmed, details will be released. Also on June 18 the Swiss foreign ministry said the US and Iran plan preliminary talks on implementation of the agreement on June 19 at Bürgenstock with mediators Pakistan, Qatar and other parties."
-    },
-    {
-      "id": "4943742",
-      "time": "2026-06-18 22:04:03",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "【伊媒稱伊朗代表團赴瑞士行程未確定】伊朗塔斯尼姆通訊今天（6月18日）援引一位知情人士的訊息稱，截至目前，關於伊朗代表團前往瑞士的任何事項都尚未最終確定，相關評估與磋商也尚未完成。該知情人士指出，未來數小時內將會明確伊朗代表團明天是否會出現在瑞士。如果答案是肯定的，相關細節也將隨後公佈。瑞士外交部今天（6月18日）表示，美國和伊朗計劃與調解方巴基斯坦、卡達及其他相關國家於19日在瑞士比爾根山舉行會談，就協議的執行進行初步談判。（CCTV國際時訊）"
-    },
-    {
-      "id": "4943741",
-      "time": "2026-06-18 22:03:41",
-      "tags": [
-        "公司"
-      ],
-      "text": "【*ST集友：控股股東擬5.15億元轉讓10.11%股份】*ST集友公告稱，6月18日，控股股東徐善水與黃華、畢偉國簽訂股份轉讓協議，擬將5300萬股（佔總股本10.1051%）以9.72元/股、總價5.16億元轉讓，黃華和畢偉國各受讓2650萬股（各佔5.0526%）。本次轉讓尚需取得上交所合規確認及辦理過戶登記，且需股權收購協議生效，完成後控股股東、實控人不變，受讓方股份鎖定期36個月，能否完成存在不確定性。"
-    },
-    {
-      "id": "4943740",
-      "time": "2026-06-18 22:03:19",
-      "tags": [
-        "資料"
-      ],
-      "text": "阿根廷6月消費者信心指數升至42.71。"
-    },
-    {
-      "id": "4943739",
-      "time": "2026-06-18 22:03:10",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "【特朗普企圖解僱美聯儲理事庫克，給庫克造成逾百萬美元的法律與安保費用】週四披露的一份最新道德申報檔案顯示，自從美國總統特朗普2025年8月試圖將莉薩·庫克（Lisa Cook）從美聯儲理事會解僱以來，庫克產生了超過130萬美元的法律和安保費用。該檔案顯示，這些費用已由外部組織向庫克報銷。美國最高法院預計將很快作出裁決，判定特朗普是否有權以其所引用的理由解僱庫克。“打一場最高法院的官司花費不菲，”一位瞭解庫克情況的人士在描述敏感的財務問題時匿名錶示。在特朗普政府對其提出指控後，庫克的住址被公開。"
     }
   ]
 }
