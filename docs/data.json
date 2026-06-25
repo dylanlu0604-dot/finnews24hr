@@ -1,7 +1,33 @@
 {
-  "updated": "2026-06-26 04:19:43",
-  "count": 16983,
+  "updated": "2026-06-26 04:23:38",
+  "count": 16985,
   "items": [
+    {
+      "id": "4955863",
+      "time": "2026-06-26 04:22:03",
+      "tags": [
+        "國際"
+      ],
+      "text": "加利福尼亞州申請法院禁令，阻止美國環保署將機動車排放法規提交國會、以防相關規定遭撤銷。"
+    },
+    {
+      "id": "mkt:019f0070-09df-7dd8-b126-0b3a4621707f",
+      "time": "2026-06-26 04:19:30",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "The Information reports the Trump administration asked OpenAI to stagger the rollout of new models for safety reasons."
+    },
+    {
+      "id": "4955862",
+      "time": "2026-06-26 04:19:16",
+      "tags": [
+        "國際"
+      ],
+      "text": "【特朗普尋求為陷入困境的美國農民提供111億美元新援助】美國總統特朗普為當地時間週四晚些時候受邀在白宮共進晚餐的農民們準備了一個驚喜：他向國會提出請求，要求提供111億美元的援助資金，其中包括100億美元的農作物種植者援助資金，以及11億美元用於幫助受冬季風暴影響的佛羅里達州農業生產者。這將是陷入困境的農業部門在年內獲得的第二次紓困。"
+    },
     {
       "id": "4955861",
       "time": "2026-06-26 04:18:56",
@@ -155415,21 +155441,6 @@
         "Importance 2"
       ],
       "text": "US Stocks Finish on Strong Note — US equities closed higher on Thursday, as tech strength and optimism over a potential US-Iran deal offset concerns over a hawkish Federal Reserve. The S&P 500 advanced 1% and the Nasdaq 100 gained 1.9%, while the Dow rose by 72 points. The signing of an interim peace agreement between the United States and Iran, which includes the reopening of the Strait of Hormuz, spurred optimism that it would help ease energy-driven inflationary pressures. Meanwhile, the Federal Reserve kept rates steady, with half of officials signaling that at least one rate increase may be warranted this year. Intel surged 10.5% after President Trump announced that the semiconductor giant would produce chips for Apple in the US. The news lifted the broader chip sector, with Nvidia rising 2.8% and Micron Technology climbing 8.5%. SpaceX dropped 3.5%, extending its decline for a second consecutive session after its much-hyped market debut last week."
-    },
-    {
-      "id": "mkt:019edc65-5331-7dd8-b088-2c6dfa8f5593",
-      "time": "2026-06-19 04:21:28",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution",
-        "Magnificent 7",
-        "Star Stocks",
-        "Meta Platforms",
-        "META.O",
-        "Impact bullish"
-      ],
-      "text": "Meta Platforms Inc (META.O) signed an AI compute collaboration agreement with data-center operator Crusoe; Meta is expected to obtain roughly 1.6 GW of computing capacity."
     }
   ]
 }
