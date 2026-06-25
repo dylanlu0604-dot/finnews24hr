@@ -1,7 +1,88 @@
 {
-  "updated": "2026-06-26 03:59:50",
-  "count": 16989,
+  "updated": "2026-06-26 04:03:50",
+  "count": 16984,
   "items": [
+    {
+      "id": "mkt:019f0061-47d1-7dd8-b125-e94fa4d6a5ce",
+      "time": "2026-06-26 04:03:23",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Dow Jones Industrial Average closed up 71.72 points (+0.14%) at 51,920.62 on Thursday, June 25. S&P 500 closed down 0.33 points (0.00%) at 7,357.89. Nasdaq Composite closed down 118.03 points (-0.46%) at 25,358.60."
+    },
+    {
+      "id": "mkt:019f0060-c59b-7dd8-b125-e6a2b84b76b4",
+      "time": "2026-06-26 04:02:49",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "According to The Information, Vaudit, a vendor of AI billing-audit tools, says its data show billing errors may have led some customers to overpay for ANTHROPIC and OpenAI products."
+    },
+    {
+      "id": "4955853",
+      "time": "2026-06-26 04:01:49",
+      "tags": [
+        "市場"
+      ],
+      "text": "蘋果股價收盤下跌6.1%，創2025年4月以來最大跌幅。"
+    },
+    {
+      "id": "4955852",
+      "time": "2026-06-26 04:01:42",
+      "tags": [
+        "市場"
+      ],
+      "text": "Hertz收跌11%，使得最近兩個交易日累計下跌47%。"
+    },
+    {
+      "id": "mkt:019f005f-5ee9-7dd8-b125-d85ab9780140",
+      "time": "2026-06-26 04:01:17",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Star Stocks",
+        "Apple",
+        "Microsoft",
+        "Alibaba",
+        "Market Themes",
+        "Magnificent 7",
+        "AAPL.O",
+        "Impact bearish",
+        "MU.O",
+        "Impact bullish",
+        "BABA.N"
+      ],
+      "text": "【US close: major indexes mixed; Apple falls over 6%】US equities closed mixed on Thursday: the Dow Jones Industrial Average rose 0.14%, the S&P 500 was marginally lower and the Nasdaq Composite fell 0.46%. Apple (AAPL.O) slid 6.1%, leaving its market value close to dipping below $4 trillion. Micron Technology (MU.O) jumped 15.7% and Qualcomm (QCOM.O) gained 3.7%; Microsoft (MSFT.O) dropped more than 3%. The Nasdaq Golden Dragon China Index fell 2.7%, with Alibaba (BABA.N) down 4.7%."
+    },
+    {
+      "id": "4955851",
+      "time": "2026-06-26 04:01:08",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲威廉姆斯：我預計未來幾個季度通脹資料將小幅回落，原因有四點： 第一，關稅帶來的影響基本已消化完畢； 第二，基準情景假設霍爾木茲海峽相關供應中斷問題會較快得到解決； 第三，住房通脹增速將持續放緩； 第四，目前沒有跡象顯示勞動力市場會推高物價。"
+    },
+    {
+      "id": "4955850",
+      "time": "2026-06-26 04:00:48",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【美股收盤：三大股指集體漲跌不一】道指漲0.15%，標普500指數跌0.01%，納指跌0.52%。Strategy跌9.27%，閃迪漲22.01%，Techne Corporation漲20.08%。“七姐妹”方面：特斯拉跌0.22%，谷歌跌0.96%，英偉達跌1.65%，Meta Platforms跌2.70%，亞馬遜跌3.11%，微軟跌3.69%，蘋果跌6.42%。"
+    },
+    {
+      "id": "4955849",
+      "time": "2026-06-26 04:00:02",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【納斯達克中國金龍指數收跌2.74%】海天網路跌17.57%，攜程跌12.56%，中比能源跌11.76%，叮咚買菜跌8.05%，優品車跌7.03%。"
+    },
     {
       "id": "4955848",
       "time": "2026-06-26 03:57:37",
@@ -155368,144 +155449,6 @@
         "Nasdaq100"
       ],
       "text": "U.S. equity benchmarks on June 18: Dow Jones Industrial Average closed up 73.14 points, or 0.14%, at 51,565.69; S&P 500 closed up 80.57 points, or 1.09%, at 7,500.67; Nasdaq Composite closed up 496.28 points, or 1.91%, at 26,517.93."
-    },
-    {
-      "id": "4944288",
-      "time": "2026-06-19 04:02:38",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "日本4月所持美國國債1.2099萬億美元，前值1.1916萬億美元。"
-    },
-    {
-      "id": "4944287",
-      "time": "2026-06-19 04:02:31",
-      "tags": [
-        "市場"
-      ],
-      "text": "費城半導體指數收盤上漲6.4%。"
-    },
-    {
-      "id": "4944286",
-      "time": "2026-06-19 04:02:05",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：Meta遊說美國國會，尋求在兒童網路安全立法框架下，免於承擔兒童傷害相關訴訟責任。"
-    },
-    {
-      "id": "mkt:019edc52-f90d-7dd8-b087-e85f56ec0729",
-      "time": "2026-06-19 04:01:25",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Themes",
-        "Chip Wars",
-        "MRVL.O",
-        "Impact bullish",
-        "INTC.O",
-        "MU.O"
-      ],
-      "text": "【US stocks close higher; SpaceX down 3.5%】US equities closed higher on Thursday: Dow Jones Industrial Average +0.14% (preliminary), S&P 500 +1.09%, Nasdaq Composite +1.91%. SpaceX (SPCX.O) fell 3.56%, trading down as much as 10% intraday. Semiconductor names led gains: MARVELL (MRVL.O) +7.27%, Intel (INTC.O) +10.64%, Micron (MU.O) +8.70%. Nasdaq Golden Dragon China Index -0.89%."
-    },
-    {
-      "id": "4944285",
-      "time": "2026-06-19 04:01:17",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國4月國際資本淨流入 261億美元，前值由1507億美元修正為1493億美元。\n美國4月外資淨買入美國公債 505億美元，前值135億美元。\n美國4月長期資本淨流入 1031億美元，前值由813億美元修正為799億美元。"
-    },
-    {
-      "id": "4944284",
-      "time": "2026-06-19 04:00:49",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "【美股收盤：三大股指集體收漲】道指漲0.14%，標普500指數漲1.09%，納指漲1.96%。閃迪漲11.64%，康寧漲11.37%，英特爾漲10.65%，超微電腦漲10.53%，美光漲8.67%。“七姐妹”方面：英偉達漲3.06%，亞馬遜漲3.00%，Meta Platforms漲1.84%，谷歌漲1.56%，特斯拉漲1.18%，蘋果漲0.82%，微軟漲0.21%。"
-    },
-    {
-      "id": "mkt:019edc51-dc5a-7dd8-b087-e228aed901b4",
-      "time": "2026-06-19 04:00:12",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "US Economy",
-        "DXY",
-        "Impact bullish",
-        "S&P500",
-        "US10Y"
-      ],
-      "text": "US net international capital inflow $26.1 bln in April; prior month revised to $149.3 bln from $150.7 bln."
-    },
-    {
-      "id": "mkt:019edc51-ce7e-7dd8-b087-ddf497df0811",
-      "time": "2026-06-19 04:00:09",
-      "tags": [
-        "MKT News",
-        "DXY",
-        "Impact bullish",
-        "EURUSD",
-        "Impact bearish",
-        "US10Y"
-      ],
-      "text": "US net long-term capital inflows in April were $103.1bn; prior figure revised from $81.3bn to $79.9bn."
-    },
-    {
-      "id": "mkt:019edc51-cdb2-7dd8-b087-d4844b4493d8",
-      "time": "2026-06-19 04:00:08",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "Treasury Yields",
-        "XAUUSD",
-        "Impact bullish",
-        "US10Y",
-        "Impact bearish",
-        "DXY"
-      ],
-      "text": "Foreign investors net purchased $50.5bn of US Treasuries in April, up from $13.5bn previously."
-    },
-    {
-      "id": "4944283",
-      "time": "2026-06-19 04:00:02",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "【納斯達克中國金龍指數收跌0.78%】金生遊樂跌11.06%，海天網路跌8.60%，叮咚買菜跌7.81%，新氧跌7.77%，陸金所控股跌7.04%。"
-    },
-    {
-      "id": "mkt:019edc51-ac59-7dd8-b087-c3524cb1ca61",
-      "time": "2026-06-19 04:00:00",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "United States | Net LongTerm TIC Flows (Apr) | actual 103100000000B | previous 81300000000B"
-    },
-    {
-      "id": "mkt:019edc51-ac51-7dd8-b087-bdc3fafd832a",
-      "time": "2026-06-19 04:00:00",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "United States | Net Foreign Purchases of Treasury Securities (Apr) | actual 50500000000B | previous 13500000000B"
-    },
-    {
-      "id": "mkt:019edc51-ac7f-7dd8-b087-cae7aa48dfd4",
-      "time": "2026-06-19 04:00:00",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "United States | Net LongTerm International Capital Flows (Apr) | actual 26100000000B | previous 150700000000B"
     }
   ]
 }
