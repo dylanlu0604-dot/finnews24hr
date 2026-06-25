@@ -1,7 +1,107 @@
 {
-  "updated": "2026-06-26 00:47:58",
-  "count": 16899,
+  "updated": "2026-06-26 00:52:14",
+  "count": 16898,
   "items": [
+    {
+      "id": "mkt:019effb1-afea-7dd8-b122-0f77f10277e9",
+      "time": "2026-06-26 00:51:35",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Polish media report a collision between a passenger train and a freight train in Poland."
+    },
+    {
+      "id": "4955651",
+      "time": "2026-06-26 00:51:20",
+      "tags": [
+        "其他"
+      ],
+      "text": "微軟：遊戲主機通常均虧本售賣。"
+    },
+    {
+      "id": "4955650",
+      "time": "2026-06-26 00:51:04",
+      "tags": [
+        "國際"
+      ],
+      "text": "波蘭媒體報道，波蘭境內發生客運列車與貨運列車相撞事故。"
+    },
+    {
+      "id": "4955649",
+      "time": "2026-06-26 00:51:00",
+      "tags": [
+        "其他"
+      ],
+      "text": "微軟：主機儲存、記憶體成本漲幅超 2.5 倍。預計 2027 年秋季相關成本將再度翻倍。"
+    },
+    {
+      "id": "mkt:019effb0-5191-7dd8-b122-0230eecffe5f",
+      "time": "2026-06-26 00:50:05",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Microsoft",
+        "Market Themes",
+        "Magnificent 7",
+        "MSFT.O",
+        "Impact mixed"
+      ],
+      "text": "Market sources say Microsoft will raise retail prices for Xbox consoles: the 512GB model by $100 and the 1TB model by $150."
+    },
+    {
+      "id": "4955648",
+      "time": "2026-06-26 00:49:26",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國聯邦通訊委員會：透過新規加快海底電纜部署。"
+    },
+    {
+      "id": "mkt:019effaf-9729-7dd8-b121-fbe23d01e566",
+      "time": "2026-06-26 00:49:17",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Microsoft",
+        "Market Themes",
+        "Magnificent 7",
+        "MSFT.O",
+        "Impact mixed"
+      ],
+      "text": "Market sources: Microsoft is raising Xbox prices globally."
+    },
+    {
+      "id": "4955647",
+      "time": "2026-06-26 00:49:11",
+      "tags": [
+        "其他"
+      ],
+      "text": "微軟：1TB 版本 Xbox 主機售價上調 150 美元。"
+    },
+    {
+      "id": "4955646",
+      "time": "2026-06-26 00:48:42",
+      "tags": [
+        "其他"
+      ],
+      "text": "微軟：512GB 版本 Xbox 主機售價上調 100 美元。"
+    },
+    {
+      "id": "4955645",
+      "time": "2026-06-26 00:48:01",
+      "tags": [
+        "其他"
+      ],
+      "text": "微軟：Xbox 全系產品調價，8 月 1 日起生效。"
+    },
+    {
+      "id": "4955644",
+      "time": "2026-06-26 00:47:51",
+      "tags": [
+        "其他"
+      ],
+      "text": "微軟：全球上調 Xbox 產品售價。"
+    },
     {
       "id": "4955643",
       "time": "2026-06-26 00:46:40",
@@ -154455,109 +154555,6 @@
         "Impact bearish"
       ],
       "text": "Spot gold down more than 1.0% intraday, trading at $4,215.05/oz."
-    },
-    {
-      "id": "mkt:019edba5-9849-7dd8-b085-88dabd0ec368",
-      "time": "2026-06-19 00:52:03",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "US Homeland Security Secretary: US agencies intercepted more than 50 drones near World Cup venues."
-    },
-    {
-      "id": "4944086",
-      "time": "2026-06-19 00:51:55",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國國土安全部部長表示，美國機構在世界盃場地附近繳獲了超50架無人機。"
-    },
-    {
-      "id": "4944085",
-      "time": "2026-06-19 00:51:38",
-      "tags": [
-        "其他"
-      ],
-      "text": "LME期銅收跌124美元，報13690美元/噸。LME期鋁收跌24美元，報3386美元/噸。LME期鋅收漲50美元，報3638美元/噸。"
-    },
-    {
-      "id": "4944084",
-      "time": "2026-06-19 00:51:01",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：去看看股市吧。"
-    },
-    {
-      "id": "4944083",
-      "time": "2026-06-19 00:50:53",
-      "tags": [
-        "市場"
-      ],
-      "text": "【數字貨幣市場普跌，Solana目前跌超4%】最近24小時，MarketVectorTM數字資產100小盤指數下跌5.91%，暫報2264.63點，期內主要交投於2350點附近，北京時間23:00以來加速下跌。MarketVectorTM數字資產100中盤指數跌5.84%，報2612.84點，23:57跌至2598.47點。MarketVector數字資產100指數跌4.91%，報12442.42點。目前，Solana跌4.40%，狗狗幣跌3.59%，XRP跌3.35%。比特幣跌2.71%，暫報62620.30美元；以太坊跌3.21%，暫報1684.77美元。"
-    },
-    {
-      "id": "mkt:019edba4-37d1-7dd8-b085-86922d318ab4",
-      "time": "2026-06-19 00:50:32",
-      "tags": [
-        "MKT News",
-        "Important",
-        "S&P500",
-        "WTI",
-        "Brent"
-      ],
-      "text": "President Trump denied reports that the U.S. paid $300 billion to Iran, calling them fake news. He said the U.S. is experiencing success, low oil prices and victory, cited the stock market as evidence and accused Democrats of spreading propaganda."
-    },
-    {
-      "id": "4944082",
-      "time": "2026-06-19 00:50:22",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "特朗普：美國沒有向伊朗支付3000億美元。"
-    },
-    {
-      "id": "mkt:019edba3-d1e6-7dd8-b085-7e48a6c928d7",
-      "time": "2026-06-19 00:50:06",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "U.S. oil rig count for the week to June 19 due in 10 minutes."
-    },
-    {
-      "id": "4944079",
-      "time": "2026-06-19 00:49:48",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：美國最高法院限制政府禁止毒品使用者擁有槍支的能力。"
-    },
-    {
-      "id": "mkt:019edba3-2845-7dd8-b085-77da82d68afd",
-      "time": "2026-06-19 00:49:23",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "U.S. Treasury said the Office of Foreign Assets Control will sanction additional individuals in Lebanon, Syria, Iraq and Oman for raising funds for Hezbollah."
-    },
-    {
-      "id": "mkt:019edba2-db98-7dd8-b085-6c2dc2ef087c",
-      "time": "2026-06-19 00:49:03",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "U.S. Treasury sanctioned Lebanese officials and other individuals allied with Hezbollah for obstructing the Lebanese peace process and delaying Hezbollah's disarmament."
-    },
-    {
-      "id": "4944078",
-      "time": "2026-06-19 00:48:24",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【美伊協議為伊朗石油出口鬆綁 或迅速增加全球供應】隨著美伊本週達成旨在結束戰爭並解除美國海上封鎖的協議，伊朗認為這是迅速恢復石油出口的機會。在伊朗獲得及時喘息之機的同時，德黑蘭的增產可能加劇油價下行壓力。兩名伊朗石油官員表示，與其他受戰爭影響的產油國相比，伊朗減產幅度要小得多，從而有望迅速恢復原油生產和出口。伊朗與美國總統唐納德·特朗普週三簽署的諒解備忘錄將立即終止美國實施的海上封鎖。該封鎖是美國針對伊朗關閉霍爾木茲海峽採取的報復措施。伊朗可以迅速為全球市場增加逾1%的原油供應。在和平協議有望達成的預期推動下，油價近幾周已大幅下跌。對伊朗而言，增加石油銷售將為長期受制裁和貨幣貶值衝擊的經濟帶來緩解。根據諒解備忘錄，美國表示在雙方達成最終協議後將解除制裁。"
     }
   ]
 }
