@@ -1,7 +1,51 @@
 {
-  "updated": "2026-06-25 14:04:05",
-  "count": 17023,
+  "updated": "2026-06-25 14:08:05",
+  "count": 17019,
   "items": [
+    {
+      "id": "4954235",
+      "time": "2026-06-25 14:07:29",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "日本40年期公債收益率下跌6.5個基點至3.715%。"
+    },
+    {
+      "id": "mkt:019efd62-44b1-7dd8-b10e-8cf901bbac92",
+      "time": "2026-06-25 14:05:36",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "BP.O"
+      ],
+      "text": "BP and Abu Dhabi National Oil Company are among partners set to jointly develop the Bab gas field in Abu Dhabi; BP holds a 10% concession interest."
+    },
+    {
+      "id": "4954234",
+      "time": "2026-06-25 14:04:34",
+      "tags": [
+        "公司"
+      ],
+      "text": "【國泰航空：1-5月載客量按年增加19%】據國泰集團訊息，國泰航空於2026年5月份的載客量較2025年同月增加17%，可用座位公里數按年增加10%。在2026年前五個月，載客量較2025年同期增加了19%。 國泰貨運於2026年5月的載貨量較2025年同月增加11%，可用貨物噸公里數按年增加6%。在2026年前五個月，載貨量較去年同期增加了8%。 香港快運於2026年5月的載客量超過67萬人次，較2025年同月增加5%，可用座位公里數則增加4%。在2026年前五個月，載客量較2025年同期增加了12%。"
+    },
+    {
+      "id": "4954233",
+      "time": "2026-06-25 14:04:31",
+      "tags": [
+        "其他"
+      ],
+      "text": "【中際旭創成交額達400億元】中際旭創成交額達400億元，現漲0.33%。"
+    },
+    {
+      "id": "4954232",
+      "time": "2026-06-25 14:03:45",
+      "tags": [
+        "國際"
+      ],
+      "text": "H&M就中東局勢表態：憑藉供應鏈出色的靈活性、較低的空運佔比，我們有機會調整貨流以適應變化。"
+    },
     {
       "id": "4954231",
       "time": "2026-06-25 14:03:24",
@@ -155403,95 +155447,6 @@
         "焦點"
       ],
       "text": "純鹼連續主力合約日內跌3%，現報1127.00元。"
-    },
-    {
-      "id": "te:economy:559940",
-      "time": "2026-06-18 14:08:01",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "United Kingdom",
-        "Unemployment Rate",
-        "Importance 2"
-      ],
-      "text": "UK Jobless Rate Unexpectedly Falls to 4.9% — The UK unemployment rate fell to 4.9% in the three months to April 2026, defying expectations that it would remain at 5.0%. The number of unemployed people declined by 105 thousand to 1.764 million, driven by a decrease in those unemployed for up to six months, while the number of those unemployed for between six and 12 months was broadly unchanged and those out of work for more than 12 months fell. Compared with the same period a year earlier, however, unemployment increased by 124 thousand, as the number of people unemployed for between six and 12 months and for over 12 months rose. Meanwhile, total employment increased by 100 thousand to 34.410 million, topping expectations of a 75 thousand rise, and was also up 399 thousand from a year earlier, driven by an increase in full-time workers, partly offset by a decline in part-time employment. The number of people holding second jobs decreased in the latest quarter to 1.277 million, accounting for 3.7% of all employed individuals."
-    },
-    {
-      "id": "4942565",
-      "time": "2026-06-18 14:07:48",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【澳航將開通全球首條悉尼往返倫敦直航航線】澳大利亞澳洲航空公司17日宣佈，定於2027年10月開通全球首條往返澳大利亞悉尼與英國倫敦的直航航線，這也是迄今全球距離最長的直航商務航線。澳航當天在一份宣告中說，這一計劃隸屬該航司推出的“日出計劃”，由數架空客A350-1000ULR客機執飛，單程飛行時間將縮短4個小時至大約19個小時，將於2027年2月開始售票。現階段，受中東地緣政治危機影響，澳航執飛澳大利亞珀斯往返倫敦的航班需經停新加坡。（新華社）"
-    },
-    {
-      "id": "mkt:019ed957-6862-7dd8-b06e-1b98897e4b47",
-      "time": "2026-06-18 14:07:24",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bearish"
-      ],
-      "text": "WTI crude fell 3.00% intraday to $73.49/bbl."
-    },
-    {
-      "id": "te:economy:559939",
-      "time": "2026-06-18 14:07:17",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "United Kingdom",
-        "Average Earnings Excluding Bonus",
-        "Importance 1"
-      ],
-      "text": "UK Wage Growth Tops Forecasts — Regular pay in the UK, excluding bonuses, rose 3.4% year-on-year to GBP 697 per week in the three months to April 2026, matching March's pace while exceeding market expectations of 3.2%. It remained the weakest increase since the three months to October 2020, with private sector wages slowing to 2.9% from 3.1%, the lowest since the three months to October 2020. Meanwhile, public sector pay accelerated to 5.1% from the prior 4.8%, which had been the softest since late 2024. By industry, annual gains were seen in wholesale, retail, hotels, and restaurants (3.5%), manufacturing (3.1%), services (3.6%), and finance and business services (2.5%), but declined for construction (-0.7%). Adjusted for inflation, real wages edged up 0.1% in the three months to April, keeping the same pace as in the previous period and staying at the lowest level since mid-2023."
-    },
-    {
-      "id": "4942564",
-      "time": "2026-06-18 14:06:36",
-      "tags": [
-        "其他"
-      ],
-      "text": "【中際旭創成交額達300億元】6月18日下午，中際旭創成交額達300億元，現漲6.42%。"
-    },
-    {
-      "id": "4942563",
-      "time": "2026-06-18 14:06:34",
-      "tags": [
-        "其他"
-      ],
-      "text": "【兆易創新成交額達300億元】6月18日下午，兆易創新成交額達300億元，現漲9.97%。"
-    },
-    {
-      "id": "4942562",
-      "time": "2026-06-18 14:06:32",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "塑膠連續主力合約日內跌3%，現報7199.00元。"
-    },
-    {
-      "id": "4942561",
-      "time": "2026-06-18 14:06:32",
-      "tags": [
-        "公司",
-        "觀點"
-      ],
-      "text": "【高盛：戰後霍爾木茲海峽石油運量或僅恢復至戰前七成】高盛集團表示，經由霍爾木茲海峽的石油運輸量，或將僅恢復至戰前水平的 70% 左右。分析師稱，石油貨運量的預期回升或於下月底完成，海灣地區原油產量則有望在 10 月恢復。區域產油國已加大繞行該航運咽喉的基礎設施使用力度，保障面向全球客戶的能源穩定輸送；部分國家正制定方案，降低對霍爾木茲海峽的運輸依賴。"
-    },
-    {
-      "id": "4942560",
-      "time": "2026-06-18 14:05:58",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【菜鳥：未來4個月將在全球交付4座大型攀爬機器人倉庫】菜鳥副總裁、物流科技事業部總經理畢江華今日表示，菜鳥自研生產的攀爬機器人經過618大促檢驗，顯著提升了電商供應鏈的智慧作業能力，下一步菜鳥將加快面向全球市場投入攀爬機器人。未來四個月內，菜鳥將聯合電商平臺、知名品牌等在國內和歐洲新交付四座大型攀爬機器人倉庫。"
     }
   ]
 }
