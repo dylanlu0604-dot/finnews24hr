@@ -1,7 +1,228 @@
 {
-  "updated": "2026-06-25 15:57:45",
-  "count": 16966,
+  "updated": "2026-06-25 16:01:38",
+  "count": 16964,
   "items": [
+    {
+      "id": "mkt:019efdcc-0dae-7dd8-b112-5e20bb438d08",
+      "time": "2026-06-25 16:01:08",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Industrial Metals",
+        "Copper",
+        "Impact bullish"
+      ],
+      "text": "London Metal Exchange inventories fell: aluminium down 2,000 tonnes; zinc down 425 tonnes; tin down 190 tonnes; lead down 1,125 tonnes; nickel down 618 tonnes; copper down 2,825 tonnes."
+    },
+    {
+      "id": "4954521",
+      "time": "2026-06-25 16:00:57",
+      "tags": [
+        "資料"
+      ],
+      "text": "義大利4月季調後工業銷售月率 0.3%，前值2.00%。義大利4月調整後工業銷售年率 3.2%，前值4.40%。"
+    },
+    {
+      "id": "mkt:019efdcb-c056-7dd8-b112-52240962e6e7",
+      "time": "2026-06-25 16:00:49",
+      "tags": [
+        "MKT News",
+        "EURUSD",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "Italy April adjusted industrial sales YoY +3.2% vs +4.4% previously."
+    },
+    {
+      "id": "4954520",
+      "time": "2026-06-25 16:00:44",
+      "tags": [
+        "公司"
+      ],
+      "text": "三星電子：正在審議針對股權激勵的股份回購計劃；目前尚未確定具體方案。"
+    },
+    {
+      "id": "mkt:019efdcb-aba2-7dd8-b112-4a15865d1fe1",
+      "time": "2026-06-25 16:00:43",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "Chip Wars",
+        "MU.O",
+        "Impact bullish"
+      ],
+      "text": "Micron Technology (MU.O) shares jumped 18% in U.S. pre-market trading after the company reported results that materially beat expectations; several major banks raised their PTs."
+    },
+    {
+      "id": "mkt:019efdcb-a2ad-7dd8-b112-41e735a2c282",
+      "time": "2026-06-25 16:00:41",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Italy | Calendar Adjusted Industrial Sales (YoY) (Apr) | actual 3.2% | previous 4.40%"
+    },
+    {
+      "id": "mkt:019efdcb-a117-7dd8-b112-394b88371573",
+      "time": "2026-06-25 16:00:41",
+      "tags": [
+        "MKT News",
+        "EURUSD"
+      ],
+      "text": "Italy seasonally adjusted industrial sales MoM +0.3% in April; prior +2.0%."
+    },
+    {
+      "id": "4954519",
+      "time": "2026-06-25 16:00:36",
+      "tags": [
+        "市場"
+      ],
+      "text": "越南VN指數收盤下跌0.8%，報1863.07點。"
+    },
+    {
+      "id": "mkt:019efdcb-8a0a-7dd8-b112-31542132d7c0",
+      "time": "2026-06-25 16:00:35",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Italy | Seasonally Adjusted Industrial Sales (MoM) (Apr) | actual 0.3% | previous 2.00%"
+    },
+    {
+      "id": "4954518",
+      "time": "2026-06-25 16:00:30",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【美股晶片儲存板塊盤前大漲 美光科技漲18%】受美光科技亮眼財報提振，美股晶片儲存板塊盤前大漲。美光科技漲18%，閃迪漲12%，西部資料漲近12%，希捷科技漲近9%。"
+    },
+    {
+      "id": "4954517",
+      "time": "2026-06-25 16:00:24",
+      "tags": [
+        "其他"
+      ],
+      "text": "【凌激副部長兼國際貿易談判副代表會見中亞五國相關部門代表】6月25日，凌激副部長兼國際貿易談判副代表在新疆烏魯木齊會見參加中國—中亞經貿合作高官會第二次會議的中亞五國相關部門代表，就深化中國—中亞經貿合作問題交換意見。（商務部）"
+    },
+    {
+      "id": "4954516",
+      "time": "2026-06-25 16:00:22",
+      "tags": [
+        "公司"
+      ],
+      "text": "【振芯科技：公司不涉及PCB生產製造】振芯科技6月25日在互動平臺表示，公司不涉及PCB生產製造，PCB基材依靠外採，電路板組裝環節採用外協加工。公司僅主導核心設計與全流程質量管控，以成品形式對外銷售。公司電路板元件主要應用於北斗導航、數字陣列、端到端智慧處理系統等，未應用於通訊伺服器領域。"
+    },
+    {
+      "id": "4954515",
+      "time": "2026-06-25 16:00:20",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【前4個月我國“8+9”相關產業新設企業37.3萬戶】記者今天從市場監管總局瞭解到，2026年1月至4月，我國“8+9”（8大新興產業和9大未來產業）相關產業企業穩定增長，共新設37.3萬戶，創新活力進一步釋放。從產業類別看，以新一代資訊科技、高階裝備製造等為代表的“8大新興產業”共新設相關企業26.7萬戶，持續發揮創新引領作用。以人形機器人、AI（生成式人工智慧）等為代表的“9大未來產業”表現亮眼，新設相關企業13.2萬戶，同比增長11.0%，展現出巨大的發展潛力和增長動能。（央視新聞）"
+    },
+    {
+      "id": "te:markets:561814",
+      "time": "2026-06-25 16:00:04",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Energy Commodities Updates: Natural gas Gains by 2.10% — Top commodity gainer is Natural gas (2.10%). Biggest losers are Brent Crude Oil (-0.90%) and Crude Oil WTI (-0.55%)."
+    },
+    {
+      "id": "4954514",
+      "time": "2026-06-25 15:59:59",
+      "tags": [
+        "國際"
+      ],
+      "text": "歐盟在特朗普設定的期限前最終批准美歐貿易協議。"
+    },
+    {
+      "id": "mkt:019efdca-fd31-7dd8-b112-2fb2a77378e2",
+      "time": "2026-06-25 15:59:59",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "Japan & APAC"
+      ],
+      "text": "【Defense Ministry: Japan uses \"conspiracy theory\" to smear China's defense spending and conceal its \"re-militarization\"】At a June 25 regular briefing, Ministry of National Defense spokesman Col. Zhang Xiaogang said China publishes its defense budget annually, discloses budget totals, structure and use, participates in the UN military expenditure transparency mechanism, and has submitted previous‑fiscal‑year military spending reports to the UN each year since 2008. He said China’s defense spending is reasonable, moderate and restrained, and has long remained below 1.5% of GDP. By contrast, Zhang said Japan’s defense budget has risen rapidly for 14 consecutive years, defense spending now accounts for roughly 2% of GDP with plans to push toward 3.5%, and Japan’s per‑capita defense spending is more than three times China’s. He accused Japan of using a \"conspiracy theory\" to smear China’s defense outlays to deflect attention and mask its \"re‑militarization\" ambitions."
+    },
+    {
+      "id": "te:economy:561813",
+      "time": "2026-06-25 15:59:19",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Hungary",
+        "Government Bond 10Y",
+        "Importance 1"
+      ],
+      "text": "Hungary 10-Year Bond Yield Falls to Near 2022-Low — Hungary's 10-year bond yield dropped to 5.17%, nearing its lowest since February 2022, as investors back the new government's economic reforms and Eurozone ambitions. Assets are surging under Prime Minister Peter Magyar, who embraced closer European Union ties after 16 years of nationalist rule, securing over €16 billion in frozen EU aid and pledging Euro adoption by 2030. The financial rally is further supported by expected interest rate cuts after the National Bank of Hungary lowered its benchmark by a quarter point to 6%. Governor Mihaly Varga signaled two additional summer cuts, forming an easing mini-cycle made possible as a stronger forint improved the annual inflation outlook to 1.8%. While analysts caution that fixed-income valuations are somewhat stretched by political optimism, alignment with Eurozone standards could narrow yields toward member states, creating a positive feedback loop despite necessary budget deficit and inflation adjustments."
+    },
+    {
+      "id": "4954513",
+      "time": "2026-06-25 15:59:10",
+      "tags": [
+        "公司"
+      ],
+      "text": "三星電子就傳聞及媒體報道作出回應：相關事宜尚未確定。"
+    },
+    {
+      "id": "4954512",
+      "time": "2026-06-25 15:58:40",
+      "tags": [
+        "國際"
+      ],
+      "text": "【悄悄和人類“搶水喝”？問AI十個問題等於消耗一瓶礦泉水】很多人都知道AI會耗電，但實際上，AI同時也在大量消耗另一種資源——水。比如，和豆包聊5分鐘，大概會消耗500毫升的散熱用水。人們常以“十次問答消耗一瓶礦泉水”來量化AI用水。世界經濟論壇在一份報告中指出，晶片製造發電環節的耗水量遠高於資料中心本身。覆蓋晶片、發電、算力三大環節的AI全產業鏈，一年要“喝掉”230億立方米的淡水。這個比例雖然不高，但全球淡水資源有限，且水不像電那樣可以進行遠距離輸送。資料顯示，全球約四成的資料中心、近三分之一的晶片工廠都建在缺水地區。企業在選址時，往往將當地的電價、土地成本等作為首要考量，而水源是否充足卻成了次要問題。然而，AI行業用水需求的不斷增加，正在讓缺水地區承受越來越大的壓力。（央視網快看）"
+    },
+    {
+      "id": "mkt:019efdc9-772b-7dd8-b112-274d4a831bfd",
+      "time": "2026-06-25 15:58:19",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD"
+      ],
+      "text": "【ICBC issues risk reminder on precious metals market volatility】ICBC said international precious metals prices have recently become markedly more volatile and advised clients to monitor markets closely, maintain moderate, balanced allocations, favor medium-to-long-term positioning and employ risk controls to protect assets."
+    },
+    {
+      "id": "4954511",
+      "time": "2026-06-25 15:58:08",
+      "tags": [
+        "其他"
+      ],
+      "text": "【工商銀行釋出貴金屬市場波動風險提示】6月25日，工商銀行釋出《關於貴金屬市場波動風險的提示》稱，近期國際貴金屬市場價格波動顯著加劇。建議密切關注市場變化，堅持適度均衡的原則，從中長期視角理性進行投資配置，有效防範市場波動風險，守護自身資產安全。"
+    },
+    {
+      "id": "te:markets:561810",
+      "time": "2026-06-25 15:57:48",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Italy",
+        "Stock Market",
+        "Importance 0"
+      ],
+      "text": "FTSE MIB Snaps Three-Day Losing Streak — The FTSE MIB rose to around 51,800 on Thursday, snapping a three-day losing streak and moving in line with its European peers. Investor sentiment improved after strong results and upbeat sales guidance from Micron Technology reinforced confidence in AI-related demand. Semiconductor firm STMicroelectronics led gains of more than 4%, trimming losses from earlier in the week. Other notable gainers included Prysmian (+1.7%), Buzzi (+0.9%), and A2A (+1.3%). Meanwhile, oil major Eni and defense group Leonardo underperformed the broader market as geopolitical tensions eased and oil prices continued to decline, returning to levels seen before the Iran conflict."
+    },
+    {
+      "id": "4954510",
+      "time": "2026-06-25 15:57:28",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "南向資金淨賣出額達80億港元。"
+    },
     {
       "id": "te:markets:561808",
       "time": "2026-06-25 15:56:51",
@@ -455,6 +676,14 @@
       "text": "【錦江之星已發起數十起商標侵權訴訟】據媒體報道，近日，湖南長沙一家庭旅館因名稱帶有“錦江”二字，被知名連鎖酒店品牌錦江之星以侵害商標權為由起訴，索賠12萬元，相關話題引發熱議。天眼查App顯示，錦江之星旅館有限公司成立於1996年5月，法定代表人為毛嘯，註冊資本約1.6億人民幣，經營範圍包括住宿服務、餐飲服務、酒店管理等，由錦江酒店（600754）全資持股。此外，該公司涉及多起法律訴訟，案件身份多為原告，案由包括侵害商標權糾紛，商標權權屬、侵權糾紛等。"
     },
     {
+      "id": "4954479",
+      "time": "2026-06-25 15:46:12",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：海灣合作委員會與美國在巴林召開部長級會議，美國國務卿魯比奧出席會議。"
+    },
+    {
       "id": "4954478",
       "time": "2026-06-25 15:45:43",
       "tags": [
@@ -485,6 +714,14 @@
         "公司"
       ],
       "text": "【通化金馬：獲得琥珀酸安維吖啶片藥品註冊證書】通化金馬公告，公司今日收到國家藥品監督管理局核准簽發的琥珀酸安維吖啶片（商品名：耄安通®）《藥品註冊證書》。該藥品為新型雙膽鹼酯酶抑制劑，用於輕、中度阿爾茨海默病症狀的治療，規格為2mg、4mg。公司已組建專業商業化團隊，制定全國營銷計劃，生產線建設完成，具備商業化生產能力，並積極申請醫保準入。藥品獲批上市將對公司未來業績和可持續發展產生積極影響。"
+    },
+    {
+      "id": "4954474",
+      "time": "2026-06-25 15:44:49",
+      "tags": [
+        "公司"
+      ],
+      "text": "【北陸藥業：富馬酸伏諾拉生片《藥品註冊證書》獲批】北陸藥業公告，近日收到國家藥品監督管理局核准簽發的富馬酸伏諾拉生片《藥品註冊證書》。富馬酸伏諾拉生是一種鉀離子競爭性酸阻滯劑（簡稱P-CAB），可以抑制胃酸的生成和抑制胃腸道上部粘膜損傷，主要用於治療反流性食管炎，與適當的抗生素聯用以根除幽門螺桿菌。根據米內網資料顯示，2025年度國內富馬酸伏諾拉生片（包括城市和縣級公立醫院）銷售額約為9.73億元。富馬酸伏諾拉生片已被納入國家醫保乙類目錄。"
     },
     {
       "id": "mkt:019efdbc-b2cb-7dd8-b111-7175ea3432fb",
@@ -154588,269 +154825,6 @@
         "公司"
       ],
       "text": "【芯能科技：終止部分募投子專案 剩餘1.65億元補流】芯能科技公告稱，2026年第一次臨時股東會和債券持有人會議透過議案，擬終止“分散式光伏電站建設專案”中部分不具備實施條件的子專案，將剩餘募集資金1.65億元永久補充流動資金。截至5月19日，該專案77個子專案中，62個已併網，15個未建。中證鵬元認為該事項對公司經營及償債能力無重大不利影響，維持公司主體和“芯能轉債”信用等級為AA-，評級展望穩定。"
-    },
-    {
-      "id": "4942860",
-      "time": "2026-06-18 16:01:37",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【美股大型科技股盤前普漲，SpaceX漲1%】美股大型科技股盤前普漲，Meta、SpaceX、亞馬遜、英偉達漲1%，微軟漲0.8%，特斯拉漲0.7%，蘋果漲0.6%，谷歌A持平。"
-    },
-    {
-      "id": "4942859",
-      "time": "2026-06-18 16:01:35",
-      "tags": [
-        "市場"
-      ],
-      "text": "【美股中概股盤前漲跌互現，盛美漲5%】美股中概股盤前漲跌互現，盛美漲5%，百度、蔚來漲1%，京東跌0.8%，阿里巴巴跌1%，攜程、理想汽車、貝殼跌2%。"
-    },
-    {
-      "id": "4942858",
-      "time": "2026-06-18 16:01:15",
-      "tags": [
-        "其他"
-      ],
-      "text": "倫敦金屬交易所(LME)：銅庫存減少1800噸，鋁庫存減少1000噸，鉛庫存減少325噸，鋅庫存減少1475噸，鎳庫存減少96噸，錫庫存減少5噸。"
-    },
-    {
-      "id": "mkt:019ed9bf-a2be-7dd8-b072-ed813ebd0c22",
-      "time": "2026-06-18 16:01:15",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Industrial Metals",
-        "Copper",
-        "Impact bullish"
-      ],
-      "text": "London Metal Exchange (LME) inventories fell: copper down 1,800 tonnes, aluminium down 1,000 tonnes, lead down 325 tonnes, zinc down 1,475 tonnes, nickel down 96 tonnes, tin down 5 tonnes."
-    },
-    {
-      "id": "4942857",
-      "time": "2026-06-18 16:01:04",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "【巴基斯坦總理簽署美伊諒解備忘錄】巴基斯坦總理辦公室18日發表宣告說，巴基斯坦總理夏巴茲作為調解人簽署了美國和伊朗諒解備忘錄。（新華社）"
-    },
-    {
-      "id": "4942856",
-      "time": "2026-06-18 16:00:59",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "美國標普500迷你電子期貨上漲0.9%，納斯達克100期貨上漲1.47%，道指期貨上漲0.56%。"
-    },
-    {
-      "id": "4942855",
-      "time": "2026-06-18 16:00:54",
-      "tags": [
-        "市場"
-      ],
-      "text": "【美光科技美股盤前漲超3%】美光科技美股盤前漲超3%，現報1084.51美元。"
-    },
-    {
-      "id": "mkt:019ed9bf-0aa1-7dd8-b072-e56d61f086a6",
-      "time": "2026-06-18 16:00:36",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK",
-        "EURUSD",
-        "Impact bearish"
-      ],
-      "text": "Euro area current account (not seasonally adjusted) April €14.9bn, previous €24.1bn."
-    },
-    {
-      "id": "mkt:019ed9be-f2f6-7dd8-b072-de3acf49fe23",
-      "time": "2026-06-18 16:00:30",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Europe & UK",
-        "EURUSD",
-        "Impact bullish",
-        "DXY",
-        "Impact bearish"
-      ],
-      "text": "Euro zone seasonally adjusted current account surplus €15.7 bln in April, up from €14.9 bln previously."
-    },
-    {
-      "id": "mkt:019ed9be-f281-7dd8-b072-d0cd4216d858",
-      "time": "2026-06-18 16:00:30",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "Eurozone | Current Account USA (Apr) | actual 14900000000B | previous 24100000000B"
-    },
-    {
-      "id": "4942854",
-      "time": "2026-06-18 16:00:29",
-      "tags": [
-        "公司"
-      ],
-      "text": "【安諾其：正在籌劃購買烽雲科技100%股權】安諾其公告，公司正在籌劃以發行股份及支付現金的方式購買廣州烽雲資訊科技有限公司100%股權，同時擬向不超過35名特定投資者發行股份募集配套資金。預計本次交易可能構成《上市公司重大資產重組管理辦法》規定的重大資產重組，並構成關聯交易。截至本公告披露日，除本次交易預案中披露的風險因素外，公司尚未發現可能導致公司董事會或者交易對方撤銷、中止本次交易方案或者對本次交易方案作出實質性變更的相關事項，本次交易相關工作正在持續推進過程中。"
-    },
-    {
-      "id": "mkt:019ed9be-d91f-7dd8-b072-ca8edeb88104",
-      "time": "2026-06-18 16:00:23",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "China's State Administration for Market Regulation is supervising Huolala's implementation of antitrust compliance rectification."
-    },
-    {
-      "id": "mkt:019ed9be-d4d3-7dd8-b072-c3fd3e0f2f91",
-      "time": "2026-06-18 16:00:22",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "Eurozone | Current Account SA (Apr) | actual 15700000000B | previous 14900000000B"
-    },
-    {
-      "id": "4942853",
-      "time": "2026-06-18 16:00:19",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "【市場監管總局督導貨拉拉落實反壟斷合規整改】前期，市場監管總局依據《中華人民共和國反壟斷法》公開約談貨拉拉，要求其停止利用演算法不合理壓低貨運價格、利用平臺規則實施強制獨家車貼等行為，全面開展自查整改，依法合規經營，主動回應各方關切，自覺接受社會監督。市場監管總局加強對貨拉拉反壟斷合規整改的全過程督導，壓實平臺主體責任，督促其嚴格落實整改要求，具體包括四方面內容：一是停止利用演算法不合理壓低貨運價格，嚴格控制多因素計價訂單佔比，公平合理運用調價演算法，推動平均每單運價、每公里運價合理回升，並常態化公示計價規則和運價漲降理由；二是全面取消強制獨家車貼規則，停止提高抽成、罰款等懲罰措施，並將向司機退還不合理費用1.2億元；三是切實降低平臺抽成費率，平臺整體抽成費率由整改前約11%降至約9%，每年可減輕司機負擔超13億元；四是全面保障司機合法權益，取消非付費會員司機每天接2單限制，提升車型與訂單匹配度，取消扣減里程機制，每年投入里程偏差補償金1000萬元，最佳化司機申訴流程，投入司機幫扶資金5000萬元。（央視新聞）"
-    },
-    {
-      "id": "te:markets:560013",
-      "time": "2026-06-18 16:00:19",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Energy Commodities Updates: Natural Gas UK Drops by 3.58% — Top commodity losers are Natural Gas UK (-3.58%), Natural Gas EU (-3.40%), Heating Oil (-2.32%), Crude Oil WTI (-2.25%) and Brent Crude Oil (-1.93%)."
-    },
-    {
-      "id": "4942852",
-      "time": "2026-06-18 16:00:18",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "挪威至6月18日央行利率決定 4.25%，預期4.25%，前值4.25%。"
-    },
-    {
-      "id": "mkt:019ed9be-9e94-7dd8-b072-bb43646c3980",
-      "time": "2026-06-18 16:00:08",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Norges Bank held its policy rate at 4.25% on June 18, matching expectations and unchanged from the previous decision."
-    },
-    {
-      "id": "mkt:019ed9be-8079-7dd8-b072-b71cfedafaf3",
-      "time": "2026-06-18 16:00:01",
-      "tags": [
-        "MKT News",
-        "Economic Calendar"
-      ],
-      "text": "Norway | Norges Bank Interest Rate Decision (Jun.18) | actual 4.25% | consensus 4.25% | previous 4.25%"
-    },
-    {
-      "id": "mkt:019ed9be-3e73-7dd8-b072-a9604803d40d",
-      "time": "2026-06-18 15:59:44",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Themes",
-        "AI Revolution",
-        "CSI300",
-        "Impact bullish",
-        "Hang Seng Index",
-        "SSE Composite"
-      ],
-      "text": "【China unveils 17 measures to advance 'AI+consumption' and expand household adoption】On the 18th, MOFCOM and seven other ministries issued implementation opinions setting 17 measures to accelerate AI integration into consumer goods and services. In goods, the plan calls for expanding smart-terminal supply and shifting consumer electronics from function to intelligence, developing a humanoid-robot consumer track, accelerating robot penetration from industrial to consumer scenarios, building product-launch platforms, creating a people–car–home full-scenario ecosystem, and promoting integration of AI with brain‑computer interfaces and augmented reality to develop internationally competitive products. In services, measures target five scenarios — home, elderly care, culture & tourism, accommodation & catering, and education — including a study to include smart-home and services in the Good House construction guide; guidance for elderly-care institutions to deploy IT management, smart security and to equip smart nursing and rehabilitation robots; and use of AI to streamline hotel check-in for overseas guests."
-    },
-    {
-      "id": "te:markets:560011",
-      "time": "2026-06-18 15:58:50",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "France",
-        "Stock Market",
-        "Importance 0"
-      ],
-      "text": "French Stocks Rebound — The CAC 40 rose 0.2% to 8,451 on Thursday, rebounding from the previous session as investor sentiment improved following reports that the US and Iran had signed an interim peace agreement. The deal reportedly includes the reopening of the Strait of Hormuz, a $300 billion (£224 billion) reconstruction program for Iran, and the removal of all US sanctions, easing concerns over geopolitical tensions and global energy supplies. Meanwhile, investors continued to weigh hawkish signals from Fed Chair Kevin Warsh, who hinted that higher interest rates may be needed to rein in inflation after the Federal Reserve's recent decision to leave rates unchanged. On the corporate front, Schneider Electric gained 2.9% to a record high after the company announced a partnership with GIZ Egypt aimed at expanding the global ClimAccelerator program in the country. Other notable gainers included Airbus (2.7%), Safran (1.9%), and Legrand (3.6%)."
-    },
-    {
-      "id": "4942851",
-      "time": "2026-06-18 15:58:49",
-      "tags": [
-        "其他"
-      ],
-      "text": "【讓AI走進千家萬戶 17項舉措推進“人工智慧+消費”發展】今天（18日），商務部等八部門釋出《關於加快“人工智慧+消費”發展的實施意見》，圍繞提升人工智慧+商品消費、擴大人工智慧+服務消費等五方面，提出17項具體舉措，促進人工智慧進千家萬戶、進千商萬店，更好滿足人民美好生活需要。\n\n此次《意見》從供需兩側同時發力，打通了人工智慧應用過程中“有產品無市場”或“有需求無供給”的結構性堵點。\n\n在商品消費領域，《意見》提出擴大智慧終端供給，推動消費電子產品從功能型向智慧型轉變。佈局人形機器人消費新賽道，加速機器人從工業場景向消費場景滲透。搭建商品首發平臺促進新產品觸達。打造“人、車、家”全場景聯動生態，並將AI與腦機介面、增強現實等前沿技術融合，研發推出一批國際領先的新產品。\n在服務消費領域，《意見》圍繞居家、養老、文旅、住宿餐飲、教育五大場景，也提出了多項務實舉措。比如，研究將智慧家居及服務應用納入“好房子”建設指南。指導養老服務機構運用人工智慧技術，佈局資訊化管理、智慧安防等技術系統，配備智慧護理機器人、康復機器人等產品。應用人工智慧技術提升境外人員酒店入住服務便利性。（央視新聞）"
-    },
-    {
-      "id": "mkt:019ed9bd-577e-7dd8-b072-a39c617b57e7",
-      "time": "2026-06-18 15:58:44",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Singapore benchmark index rose 0.5% to a record high of 5,200.11 points."
-    },
-    {
-      "id": "mkt:019ed9bd-47c0-7dd8-b072-9e85d3560913",
-      "time": "2026-06-18 15:58:40",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "MOFCOM and seven other ministries issue implementation opinions to accelerate AI+consumption development."
-    },
-    {
-      "id": "4942850",
-      "time": "2026-06-18 15:58:35",
-      "tags": [
-        "市場"
-      ],
-      "text": "新加坡基準股指<.STI>上漲0.5%，報5200.11點，創歷史新高。"
-    },
-    {
-      "id": "mkt:019ed9bd-1b56-7dd8-b072-9666212fd270",
-      "time": "2026-06-18 15:58:29",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)"
-      ],
-      "text": "【Analyst: Fed official seeks consensus, not forceful overhaul】The Fed’s June post-meeting statement omitted any forward guidance on next steps. Fed official Wosh said forward guidance is \"not well suited to the current policy juncture\" and has previously criticized forward guidance and quarterly economic forecasts for risking a locked-in rate path. He has launched five task forces to review Fed communications, the data inputs used for policy decisions and the inflation assessment framework, aiming to keep the Fed \"clear-headed and forward-looking.\" KPMG chief economist Diane Swonk said the task forces signal Wosh is seeking consensus rather than imposing change by decree."
-    },
-    {
-      "id": "4942849",
-      "time": "2026-06-18 15:58:22",
-      "tags": [
-        "央行",
-        "市場"
-      ],
-      "text": "【英鎊波動率升至三個月高位 市場靜待英國央行決議和補選結果】英鎊波動的對沖成本觸及近3個月來的高位，交易員正等待英國央行週四的利率決議以及可能引發罷免英國首相基爾·斯塔默的補選。英鎊隔夜波動率升至13.72%，創自3月下旬以來的最高水平。受英國5月勞動力市場表現好於預期的資料所提振，英鎊兌美元在倫敦早盤交易中上漲0.2%至約1.33。"
-    },
-    {
-      "id": "4942848",
-      "time": "2026-06-18 15:58:09",
-      "tags": [
-        "公司"
-      ],
-      "text": "【釘釘新CEO陳宇森上任釋出第一封全員信】據晚點，上任一週後，釘釘新 CEO 陳宇森首次面向全員發出了第一封全員信，他對包括釘釘在內的悟空事業部進行了全面的組織梳理，落款為 “宇森 悟空事業部 CEO”。以下為內部信全文：\n\n今天我們的組織做如下調整：\n一、成立核心平臺業務部，負責釘釘等一系列核心業務，朱鴻負責，向我彙報。\n二、整合悟空與 MuleRun 兩個團隊，成立新的悟空團隊，束駿亮負責，向我彙報。\n三、將直銷、電銷、服務商、售前、交付、客戶成功團隊全面整合，成立客戶發展部，楊猛負責，向我彙報。\n四、成立市場部，李昕瑜負責，向我彙報。\n五、成立公司資訊科技部，負責最佳化迭代公司各業務系統，讓一切系統易於被 Agent 使用，鄧悟負責，向我彙報。"
     }
   ]
 }
