@@ -1,7 +1,62 @@
 {
-  "updated": "2026-06-25 13:51:51",
-  "count": 17037,
+  "updated": "2026-06-25 13:55:55",
+  "count": 17034,
   "items": [
+    {
+      "id": "4954217",
+      "time": "2026-06-25 13:54:55",
+      "tags": [
+        "公司"
+      ],
+      "text": "Prosus向法國健康科技公司Alan投資4.6億美元。"
+    },
+    {
+      "id": "mkt:019efd57-118a-7dd8-b10e-51c3a3326a95",
+      "time": "2026-06-25 13:53:22",
+      "tags": [
+        "MKT News",
+        "CSI300",
+        "Impact bullish",
+        "SSE Composite",
+        "SZSE Component"
+      ],
+      "text": "China A-share innovative drug sector rebounded; Kexing Pharmaceutical climbed nearly 16%, while Baili Tianheng, Yuewannianqing, Tonghua Jinma and Kailaiying also advanced."
+    },
+    {
+      "id": "mkt:019efd56-75f5-7dd8-b10e-4f2bafcd27bc",
+      "time": "2026-06-25 13:52:42",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Rubio said the US State Department is deploying resources and relief teams to Venezuela."
+    },
+    {
+      "id": "mkt:019efd56-5274-7dd8-b10e-40f8ff93174c",
+      "time": "2026-06-25 13:52:33",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【Yukio Hatoyama says Prime Minister Takaichi should correct Taiwan remarks and apologise】Former Japanese prime minister Yukio Hatoyama, chair of the East Asia Community Research Institute, told the 21st Jeju Forum on June 25 that Prime Minister Takaichi should immediately correct and apologise for remarks on Taiwan that he said clearly violate the spirit of the 1972 Japan‑China Joint Communique. Hatoyama said China’s anger was understandable and urged the Japanese government to explicitly tell Beijing it will continue to abide by the communique, notably by maintaining a stance of not supporting Taiwan independence."
+    },
+    {
+      "id": "4954216",
+      "time": "2026-06-25 13:52:22",
+      "tags": [
+        "國際"
+      ],
+      "text": "【鳩山由紀夫：高市早苗應立即糾正涉臺錯誤言論並道歉】日本前首相、東亞共同體研究所理事長鳩山由紀夫25日在第21屆濟州論壇上表示，日本首相高市早苗應立即糾正涉臺錯誤言論並道歉，其相關表態顯然違背1972年《日中聯合宣告》精神。鳩山由紀夫說，中國政府對此感到憤怒不滿完全可以理解。日本政府應明確向中國表示，將繼續遵守《日中聯合宣告》，特別是堅持不支援“臺灣獨立”的立場。（新華社）"
+    },
+    {
+      "id": "em:jjsj_zgsj:202606253782912644",
+      "time": "2026-06-25 13:51:38",
+      "tags": [
+        "經濟數據",
+        "中國"
+      ],
+      "text": "【中汽協：5月中國品牌乘用車共銷售168.9萬輛 環比增長5.7%】6月25日，據中國汽車工業協會統計分析，2026年5月，中國品牌乘用車共銷售168.9萬輛，環比增長5.7%，同比增長4.2%，佔乘用車銷售總量的75%，銷量佔有率比去年同期提升6個百分點。"
+    },
     {
       "id": "mkt:019efd54-d049-7dd8-b10e-3b069667ebb1",
       "time": "2026-06-25 13:50:54",
@@ -155564,79 +155619,6 @@
         "其他"
       ],
       "text": "【水利部啟動洪水防禦Ⅳ級應急響應】據預報，6月18日至25日，江淮、江南北部西部及湖北等地將持續出現大到暴雨，部分地區將有大暴雨。國家防總副總指揮、水利部部長李國英對做好新一輪強降雨防範工作作出專門安排部署。根據《水利部水旱災害防禦應急響應工作規程》，水利部於6月18日12時針對安徽、江西、湖北、湖南、貴州等5省啟動洪水防禦Ⅳ級應急響應，要求地方水利部門和相關流域管理機構密切監視天氣變化，加強雨情水情監測預報、會商研判和應急值守，做好水工程排程、中小河流洪水防禦、山洪災害防禦等工作，確保人民群眾生命財產安全；向相關省份發出“一省一單”靶向預警，通報強降雨覆蓋範圍縣（市、區）名單、水庫名單、山洪災害風險區域及點位，提醒針對性加強防禦措施；派出3個工作組赴貴州、湖北、湖南省一線協助指導暴雨洪水防禦工作。目前，水利部維持針對福建、廣東、廣西3省（自治區）的洪水防禦Ⅳ級應急響應。"
-    },
-    {
-      "id": "mkt:019ed94c-6d8d-7dd8-b06d-7226384ad897",
-      "time": "2026-06-18 13:55:25",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "U.S. Defense Secretary Hegseth said NATO must once again be a strong military alliance."
-    },
-    {
-      "id": "4942548",
-      "time": "2026-06-18 13:55:16",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "【玩具、電動車、童車3C認證新規11月起實施】記者今天（18日）瞭解到，市場監管總局全面修訂了玩具、電動腳踏車、童車CCC產品認證實施規則，將於今年11月1日起實施。（央視新聞）"
-    },
-    {
-      "id": "mkt:019ed94c-3a7a-7dd8-b06d-690a3eaf2104",
-      "time": "2026-06-18 13:55:11",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "U.S. Defense Secretary Hegseth said the U.S. will be candid with NATO in all public and private communications."
-    },
-    {
-      "id": "mkt:019ed94b-d631-7dd8-b06d-64767be2f954",
-      "time": "2026-06-18 13:54:46",
-      "tags": [
-        "MKT News",
-        "EURUSD"
-      ],
-      "text": "French finance minister says additional savings are needed to reduce the deficit to 5% of GDP."
-    },
-    {
-      "id": "4942547",
-      "time": "2026-06-18 13:54:34",
-      "tags": [
-        "其他"
-      ],
-      "text": "法國財長表示，需要更多儲蓄才能將赤字控制在GDP的5%以內。"
-    },
-    {
-      "id": "4942546",
-      "time": "2026-06-18 13:54:06",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國國防部長赫格塞思表示，美國將在公開和私下場合坦誠地談論北約問題。"
-    },
-    {
-      "id": "4942545",
-      "time": "2026-06-18 13:53:44",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國國防部長赫格塞思稱，北約需迴歸真正強硬的軍事聯盟本色。"
-    },
-    {
-      "id": "4942544",
-      "time": "2026-06-18 13:53:31",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "【我國智慧產品質量安全風險控制知識庫建設取得突破】記者瞭解到，近期，針對智慧產品安全風險錯綜複雜、行業一直缺少專業完整安全資料庫的難題，市場監管總局集結國內優秀的科研團隊開展技術攻堅，在智慧產品質量安全風險資料庫的搭建上，取得了關鍵性重大技術突破。科研團隊結合智慧產品的網路資料特性和智慧執行邏輯，獨創出一套全新的安全分析方式，從使用的人、產品本身、使用環境、網路資訊四個維度，全方位排查、研判智慧產品的質量安全隱患。同時搭建了層級清晰、可以後續不斷升級完善的產品安全標準模型，彌補了傳統檢測方式的不足。目前，這項全新的科研成果已經落地試點使用，能幫助生產企業更快發現產品隱藏的安全問題，大幅提升風險識別和應急處理的效率，讓我們日常使用的各類智慧產品更安全、更靠譜。（央視新聞）"
-    },
-    {
-      "id": "4942543",
-      "time": "2026-06-18 13:52:39",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "法國財政部長稱將實現2026年赤字目標。"
     }
   ]
 }
