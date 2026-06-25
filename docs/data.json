@@ -1,7 +1,105 @@
 {
-  "updated": "2026-06-26 02:15:03",
-  "count": 16933,
+  "updated": "2026-06-26 02:19:03",
+  "count": 16940,
   "items": [
+    {
+      "id": "4955758",
+      "time": "2026-06-26 02:17:18",
+      "tags": [
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "【凱投宏觀：金和白銀結束連跌勢頭，但黃金仍有進一步下跌的空間】黃金和白銀結算價雙雙走高，結束了兩者連續四天的跌勢。凱投宏觀的Hamad Hussain表示，儘管今天收盤上漲，但黃金仍有進一步下跌的空間，他不認為4,000美元是底部。“我們認為，黃金市場可能會擠出更多過度投機的成分，“他說。他將此歸因於AI/科技股繼續成為投機者首選的賺錢工具，以及市場認為由Kevin Warsh領導的美聯儲將在利率問題上保持偏緊縮立場的觀點。近月黃金期貨收盤上漲1%，至每盎司4,030.50美元，而白銀收盤上漲0.5%，至每盎司58.348美元。"
+    },
+    {
+      "id": "4955757",
+      "time": "2026-06-26 02:16:04",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "墨西哥央行公佈比索官方匯率：1 美元兌 17.5260 墨西哥比索。"
+    },
+    {
+      "id": "mkt:019efffe-dbdb-7dd8-b124-0ffd1cc4a43e",
+      "time": "2026-06-26 02:15:52",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "Impact bearish",
+        "EURUSD"
+      ],
+      "text": "Fed's GOOLSBEE said inf may rise before wages increase."
+    },
+    {
+      "id": "4955756",
+      "time": "2026-06-26 02:15:33",
+      "tags": [
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲古爾斯比：脹可能在薪資上漲之前先行攀升。"
+    },
+    {
+      "id": "4955755",
+      "time": "2026-06-26 02:15:25",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲古爾斯比：薪資並非衡量通脹的理想先行指標。"
+    },
+    {
+      "id": "mkt:019efffe-71c7-7dd8-b124-004965f2f293",
+      "time": "2026-06-26 02:15:25",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Fed's Goolsbee said wages are not a good leading indicator of inflation."
+    },
+    {
+      "id": "mkt:019efffe-4bb0-7dd8-b123-fd2495bad3ea",
+      "time": "2026-06-26 02:15:16",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "Impact bearish",
+        "S&P500"
+      ],
+      "text": "GOOLSBEE said a rise in core CPI driven by services would be more concerning than one driven by goods or oil-related items."
+    },
+    {
+      "id": "te:markets:561987",
+      "time": "2026-06-26 02:15:11",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Energy Commodities Updates: Gasoline Rises by 4.94% — Top commodity gainers are Gasoline (4.94%), Heating Oil (4.44%), Natural gas (3.12%), Crude Oil WTI (2.18%) and Brent Crude Oil (1.87%). Biggest losers are Methanol (-1.77%), Germany Natural Gas THE (-1.32%) and Natural Gas EU (-0.66%)."
+    },
+    {
+      "id": "4955754",
+      "time": "2026-06-26 02:14:40",
+      "tags": [
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲古爾斯比：若核心消費者物價指數上漲由服務業驅動，相比商品或石油相關品類上漲，這會更令我擔憂。"
+    },
     {
       "id": "te:markets:561986",
       "time": "2026-06-26 02:14:22",
@@ -154899,27 +154997,6 @@
         "Importance 1"
       ],
       "text": "Metals Commodities Updates: Platinum Falls by 4.98% — Top commodity losers are Platinum (-4.98%), Silver (-2.68%), Copper (-1.51%) and Gold (-0.74%)."
-    },
-    {
-      "id": "4944221",
-      "time": "2026-06-19 02:17:40",
-      "tags": [
-        "宏觀",
-        "公司",
-        "國際"
-      ],
-      "text": "【Anthropic承諾與白宮展開更深度合作】Anthropic 高管向商務部長霍華德·盧特尼克提交一份方案，承諾與白宮展開更深度合作，力求儘快消除各類安全隱患；正是相關安全問題，使得該公司高效能AI模型“Mythos”與“Fable”遭到監管整治。一位知情人士週四透露，雙方仍在進行整改磋商，Anthropic 在會談中承諾將加強與特朗普政府的溝通，未來更快處置各類安全風險。該知情人士還表示，Anthropic 與特朗普政府官員的談判整體進展順利，但出臺長效整改措施的具體時間表仍未敲定。另一位知情人士稱，截至週四，Anthropic 聯合創始人兼首席算力官湯姆·布朗、公司公共政策主管薩拉·赫克，牽頭與特朗普政府官員開展談判。"
-    },
-    {
-      "id": "te:markets:560167",
-      "time": "2026-06-19 02:15:08",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Energy Commodities Updates: Methanol Drops by 3.72% — Top commodity losers are Methanol (-3.72%), Natural Gas EU (-2.83%), Natural Gas UK (-2.78%), Crude Oil WTI (-1.02%) and Brent Crude Oil (-0.61%). Gains are led by Natural gas (2.17%) and Gasoline (1.66%)."
     }
   ]
 }
