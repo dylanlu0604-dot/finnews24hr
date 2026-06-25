@@ -1,7 +1,152 @@
 {
-  "updated": "2026-06-25 23:06:17",
-  "count": 16970,
+  "updated": "2026-06-25 23:10:36",
+  "count": 16977,
   "items": [
+    {
+      "id": "4955508",
+      "time": "2026-06-25 23:09:38",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "巴西央行行長：宣告中明確顯示居民消費價格指數上行風險顯著偏大。"
+    },
+    {
+      "id": "4955507",
+      "time": "2026-06-25 23:08:39",
+      "tags": [
+        "公司"
+      ],
+      "text": "【力拓與維多就成立合資企業以降低運費展開談判】據知情人士透露，距終止收購競爭對手礦業及貿易巨頭嘉能可僅過去不到五個月，力拓集團正與維多集團（Vitol Group）就成立一家貨運與物流合資企業進行談判。目前談判仍處於早期階段，最終成立的企業規模及業務範圍尚不明確。雙方正在探討的一個領域是維多如何為力拓提供運費風險管理工具，這可能包括在其貨運與物流業務中進行衍生品交易。"
+    },
+    {
+      "id": "4955506",
+      "time": "2026-06-25 23:08:25",
+      "tags": [
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "【美國個人消費支出價格指數升至3年來新高】美國商務部25日公佈的資料顯示，美國5月個人消費支出價格指數同比漲幅達4.1%，高於4月的3.8%，為2023年5月以來的最高水平，凸顯伊朗戰事對美國物價帶來的上漲壓力。資料顯示，美國個人消費支出價格指數同比漲幅從2025年12月至今年2月連續3個月維持在2.9%，此後3個月漲幅連續走高。剔除波動較大的食品和能源價格後，5月核心個人消費支出價格指數同比上漲3.4%，為2023年10月以來的最高水平。分析人士認為，美國國內通脹要回落到美國聯邦儲備委員會設定的2%目標預計需要兩年時間，美聯儲加息壓力明顯。個人消費支出價格指數是美國聯邦儲備委員會密切關注的一項通脹指標，是其制定貨幣政策的重點參考資料，也是實現美聯儲通脹目標的主要參照指標之一。（新華社）"
+    },
+    {
+      "id": "mkt:019eff53-0ce5-7dd8-b120-1b90aa10e88c",
+      "time": "2026-06-25 23:08:13",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【U.S. judge blocks Trump order tightening mail‑in voting rules】On June 25 a U.S. federal judge in Boston, Indira Talwani, enjoined President Trump’s executive order aimed at tightening mail‑in voting, preventing it from taking effect before the November election that will decide control of Congress. Talwani sided with a Democratic‑led coalition of states, finding the president lacks authority to compile state voter rolls and the U.S. Postal Service has no statutory power to issue binding mail‑voting rules; under the Constitution, responsibility for running federal elections rests with the states."
+    },
+    {
+      "id": "mkt:019eff53-04fe-7dd8-b120-13e6d4a88ec6",
+      "time": "2026-06-25 23:08:11",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Brent",
+        "Impact bullish"
+      ],
+      "text": "Brent crude topped $75/bbl, up 2.16% on the day."
+    },
+    {
+      "id": "4955505",
+      "time": "2026-06-25 23:07:24",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "布倫特原油突破75美元/桶，日內漲1.60%。"
+    },
+    {
+      "id": "4955504",
+      "time": "2026-06-25 23:07:19",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美國法官叫停特朗普關於郵寄投票的行政令】記者當地時間6月25日獲悉，美國波士頓地區一位聯邦法官當日叫停了美國總統特朗普旨在收緊郵寄投票規定的行政令的實施，從而阻止該命令在決定國會控制權的11月大選前生效。美國聯邦地方法官英迪拉·塔爾瓦尼（Indira Talwani）支援由民主黨領導的州聯盟的主張，該聯盟認為特朗普正試圖非法干預各州對聯邦選舉的管理。 (央視新聞)"
+    },
+    {
+      "id": "mkt:019eff52-2a8e-7dd8-b120-0ab99b2fbb02",
+      "time": "2026-06-25 23:07:15",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Crude 2608 futures rallied intraday, extending gains to 1.88% at 476.8 yuan/barrel. Turnover about 11.72 billion yuan; open interest fell nearly 400 lots on the day, with prices rising amid declining open interest."
+    },
+    {
+      "id": "4955503",
+      "time": "2026-06-25 23:07:06",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美國尋求與歐盟建立人工智慧夥伴關係 聚焦監管與供應鏈合作】美國提議歐盟加入一項人工智慧夥伴關係，以構建保障半導體供應鏈安全的聯盟，應對與中國日益激烈的競爭。宣告草案稱：“考慮到從關鍵礦產、能源到計算機與半導體制造等人工智慧物理支柱的至關重要性，我們一致認為，人工智慧的未來應當建立在信任協作、經濟安全、創新以及公平競爭的基礎之上。”據知情人士透露，歐盟成員國大使本週在會議上聽取了有關這一提議的簡報。因討論未公開訊息而要求匿名的這些知情人士表示，一些成員國擔心，該提議可能成為美國推廣自身人工智慧生態系統的工具。隨著跨大西洋關係承壓，布魯塞爾一直呼籲加強數字主權。特朗普政府本月早些時候限制了外國公民使用Anthropic PBC的最新人工智慧模型，此舉凸顯了歐盟對美國技術的依賴，也使得相關舉措變得更為迫切。歐盟委員會執行副主席Henna Virkkunen週四稍早在接受採訪時表示，歐盟近期就這一決定在華盛頓舉行了會談。美國駐布魯塞爾大使館發言人未立即回應置評請求。"
+    },
+    {
+      "id": "mkt:019eff51-ebf9-7dd8-b120-00d7ada16e92",
+      "time": "2026-06-25 23:06:59",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "WTI and Brent rose $0.40 to $71.87 per barrel and $74.79 per barrel, up 2.0% and 1.83% on the day."
+    },
+    {
+      "id": "4955502",
+      "time": "2026-06-25 23:06:32",
+      "tags": [
+        "其他"
+      ],
+      "text": "【LABUBU第四代來了！隱藏款二手溢價最高超7倍】6月25日晚上10點，泡泡瑪特THE MONSTERS復古理髮店系列搪膠毛絨掛件盲盒正式線上開售，這正是潮玩圈期待已久的第四代LABUBU（拉布布）。此次開售的THE MONSTERS復古理髮店系列搪膠毛絨掛件盲盒，單盒價格為159元，整套954元，含6個常規款和1個隱藏款，隱藏機率為1/72。記者看到，這款產品高度約17.5cm，高度約為成人手掌大小，線下門店將於6月26日上架。"
+    },
+    {
+      "id": "4955501",
+      "time": "2026-06-25 23:05:52",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "【東吳證券：購買東海證券83.68%股份事項獲上交所受理】東吳證券公告稱，公司發行股份及支付現金購買東海證券83.68%股份的申請檔案已獲上海證券交易所受理。本次交易不構成重大資產重組且不構成重組上市，構成關聯交易。"
+    },
+    {
+      "id": "4955500",
+      "time": "2026-06-25 23:05:51",
+      "tags": [
+        "市場"
+      ],
+      "text": "布倫特原油日內漲1%，現報74.71美元/桶。"
+    },
+    {
+      "id": "te:markets:561950",
+      "time": "2026-06-25 23:05:41",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "Microsoft Stock Price Hits 14-month Low — Microsoft shares decreased to 355.07 USD, the lowest since April 2025. Over the past 4 weeks, Microsoft lost 14.64%, and in the last 12 months, it decreased 28.61%."
+    },
+    {
+      "id": "4955499",
+      "time": "2026-06-25 23:05:34",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國海事貿易運營處（UKMTO）表示，船長已報告稱，此次事件沒有造成人員傷亡，也未產生環境影響。"
+    },
     {
       "id": "mkt:019eff50-9232-7dd8-b11f-fdb999dee7d7",
       "time": "2026-06-25 23:05:30",
@@ -155066,82 +155211,6 @@
         "公司"
       ],
       "text": "【陸家嘴論壇期間，中國人壽、中國銀行分別舉行簽約儀式，龔正見證簽約】2026陸家嘴論壇召開期間，中國人壽支援服務上海國際金融中心建設重點專案簽約儀式、中國銀行等機構科技創新金融生態共建合作框架協議簽約儀式今天（6月18日）分別舉行。上海市委副書記、市長龔正出席並見證簽約。市委常委、常務副市長吳偉，中國人壽董事長蔡希良，中國銀行行長張輝出席相關活動。中國人壽資產管理有限公司與上海國投公司簽署業務合作框架協議，將發揮各自資源優勢，促進保險資金長期資本加大對積體電路、生物醫藥、人工智慧等先導產業重點專案支援力度，前瞻佈局未來產業等重點領域，促進金融更好服務實體經濟發展。中國人壽養老保險與浦發銀行簽署養老金融戰略合作框架協議，在年金業務、個人養老金融業務、養老金投資業務等領域深化合作，做深“養老金融”大文章。（上海釋出）"
-    },
-    {
-      "id": "4943856",
-      "time": "2026-06-18 23:10:02",
-      "tags": [
-        "公司",
-        "市場",
-        "觀點",
-        "央行",
-        "國際"
-      ],
-      "text": "【高盛認為沃什的立場將加劇短端美債波動性 使長端曲線更趨平穩】高盛資產管理的Kay Haigh表示，凱文·沃什擔任美聯儲主席後首次在政策決定公佈後所發表的講話，很可能會在美國國債收益率曲線短端引發更大波動，同時緩和長端的價格波動。在高盛集團旗下資產管理部門擔任固定收益與流動性解決方案全球主管兼首席投資官的Haigh表示，沃什“毫不含糊的鷹派”表態令市場感到意外，因為他短期內顯然優先著重抗擊通脹。交易員迅速加碼押注，認為決策者將比此前預期更早加息。資料顯示，投資者目前認為，美聯儲聯邦公開市場委員會9月會議加息的機率已超過80%，對於截至10月會議已計入一次以上的加息預期。週二，交易員還認為要到12月才可能加息。"
-    },
-    {
-      "id": "te:markets:560142",
-      "time": "2026-06-18 23:09:27",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "commodity",
-        "Importance 0"
-      ],
-      "text": "Canola Hits 4-week Low — Canola decreased to 732.20 CAD/T, the lowest since May 2026. Over the past 4 weeks, Canola lost 3.33%, and in the last 12 months, it decreased 1.84%."
-    },
-    {
-      "id": "4943855",
-      "time": "2026-06-18 23:09:26",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【滬股通現身13只個股龍虎榜】6月18日公開資訊顯示，滬股通席位共現身13只個股龍虎榜。資料寶統計顯示，6月18日共有65只個股上榜龍虎榜，其中，13只個股前五大買賣營業部中出現滬股通專用席位的身影。淨買入的有諾德股份、鉑力特、亨通股份等，淨買入金額分別為16382.17萬元、9394.35萬元、6580.81萬元。淨賣出的有廈門鎢業、亞翔整合、永傑新材等，淨賣出金額分別為45099.00萬元、11532.95萬元、3269.44萬元。"
-    },
-    {
-      "id": "4943854",
-      "time": "2026-06-18 23:09:20",
-      "tags": [
-        "公司"
-      ],
-      "text": "【上海多款創新醫療器械獲批上市】市藥監局介紹，國家藥品監督管理局近日批准了豐凱利醫療器械（上海）有限公司的介入式左心室輔助裝置、介入式左心室輔助導管泵套件和上海西門子醫療器械有限公司的X射線計算機體層攝影裝置的註冊申請。"
-    },
-    {
-      "id": "4943853",
-      "time": "2026-06-18 23:07:59",
-      "tags": [
-        "其他"
-      ],
-      "text": "北達科他州監管部門表示，該州當前壓裂作業鑽機隊數量為12支，較5月減少1支。"
-    },
-    {
-      "id": "4943852",
-      "time": "2026-06-18 23:07:36",
-      "tags": [
-        "國際"
-      ],
-      "text": "英國外交部更新針對阿聯酋的旅行建議，不再要求除必要旅行外禁止前往該國。"
-    },
-    {
-      "id": "4943851",
-      "time": "2026-06-18 23:07:33",
-      "tags": [
-        "市場"
-      ],
-      "text": "邁威爾科技股價上漲12%，報324.2美元/股，總市值報2836億美元。"
-    },
-    {
-      "id": "te:economy:560141",
-      "time": "2026-06-18 23:07:33",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Argentina",
-        "Consumer Confidence",
-        "Importance 1"
-      ],
-      "text": "Argentina Consumer Confidence Rises In June — Argentina’s consumer confidence index rose 6.41% month-over-month to 42.71 points in June 2026. All sub-indexes advanced, with the strongest gain in Durable Goods and Real Estate (7.80%), followed by Personal Situation (7.79%), while the Macroeconomic Situation index rose 4.37%. Both Present Conditions and Future Expectations improved, with Present Conditions posting the sharper increase at 8.77% and Future Expectations rising 4.85%. By region, confidence increased across all areas, led by Greater Buenos Aires (10.01%), followed by Buenos Aires (4.78%) and the Interior (2.06%). The Interior continued to record the highest reading at 46.33 points, while Greater Buenos Aires remained the lowest at 40.70 points. By income level, confidence rose in both segments, with lower-income households up 7.16% and higher-income households increasing 5.34%. Higher-income households continued to post the stronger reading at 44.09 points, compared with 40.66 points for lower-income households."
     }
   ]
 }
