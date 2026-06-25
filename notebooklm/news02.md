@@ -1,7 +1,483 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-06-26 01:54:57_
-_本檔包含 3527 則快訊，約 616474 字_
+_更新時間：2026-06-26 02:47:00_
+_本檔包含 3522 則快訊，約 617786 字_
+
+---
+
+### 2026-06-25 04:29:25  #MKT News
+
+iShares MSCI Korea ETF rose 6.4% in U.S. after-hours trading.
+
+---
+
+### 2026-06-25 04:28:25  #公司
+
+高通首席財務官：公司目標 2029 財年汽車業務營收約 100 億美元。
+
+---
+
+### 2026-06-25 04:27:44  #其他
+
+高通稱有望成為全球最大車用晶片廠商。
+
+---
+
+### 2026-06-25 04:27:22  #國際
+
+【魯比奧：美伊技術性談判將於月底恢復】美國國務卿魯比奧24日在科威特城表示，美國和伊朗之間的技術性談判將於本月底恢復，談判很可能在瑞士舉行。魯比奧在結束訪問科威特、前往巴林前對媒體記者表示，美國在涉伊朗問題的處理上不會損害海灣地區盟友的安全。“我們將與海灣地區的夥伴完全保持一致。”（新華社）
+
+---
+
+### 2026-06-25 04:27:05  #Trading Economics #Markets #Canada #Stock Market #Importance 1
+
+TSX Dips on Mining and Energy Losses — The S&P/TSX Composite Index fell 0.5% to close at 34,736, pressured by weakness in commodity-linked sectors. Gold prices declined as the dollar strengthened on rising bets for further US rate hikes, weighing on mining shares. Agnico Eagle lost 4.1%, Barrick shed 4.3%, and WPM retreated 2.9%. Oil prices also extended this week’s losses on signs that more tankers are set to leave the Strait of Hormuz, pressuring energy stocks. Canadian Natural dropped 3.7%, Suncor fell 3.4%, and Cenovus lost 4.1%. In contrast, Canadian technology stocks rebounded from the previous session’s global selloff, with Shopify rising 6.1%, Constellation Software up 2.8%, and Celestica gaining 3.3% ahead of Micron’s earnings report. Micron reported third-quarter results above expectations after the bell.
+
+---
+
+### 2026-06-25 04:27:00  #國際
+
+特朗普談及英國伯納姆：其大機率不會放開北海油氣開發，  我聽說他是極度自由主義者。
+
+---
+
+### 2026-06-25 04:25:51  #其他
+
+高通首席財務官：兩大超大規模定製晶片客戶將在 2027 財年帶來 10 億美元營收。
+
+---
+
+### 2026-06-25 04:25:32  #公司
+
+高通首席財務官：公司目標 2029 財年資料中心業務營收超 150 億美元。
+
+---
+
+### 2026-06-25 04:25:23  #國際
+
+北約秘書長呂特：特朗普對北約的不滿只是個別情況。
+
+---
+
+### 2026-06-25 04:25:01  #MKT News
+
+Congressional sources said the Trump administration submitted an $87.6 billion supplemental budget request to Congress.
+
+---
+
+### 2026-06-25 04:24:43  #國際
+
+國會知情人士透露，特朗普政府已向國會提交 876 億美元補充預算申請。
+
+---
+
+### 2026-06-25 04:24:28  #公司
+
+高通首席財務官：公司目標 2027 財年實現 50 億美元人工智慧資料中心業務營收。
+
+---
+
+### 2026-06-25 04:24:10  #國際
+
+特朗普：我們對德國、法國和西班牙感到失望。
+
+---
+
+### 2026-06-25 04:23:47  #公司 #市場 #央行 #國際
+
+【美國大型銀行透過美聯儲壓力測試 為派息和回購鋪平道路】美國所有大型銀行均透過美聯儲年度壓力測試，為這些銀行提高回購和派息鋪平道路。壓力測試旨在評估華爾街銀行在假設金融體系遭遇衝擊的情況下將表現如何。與往年不同，2026年的測試結果將不會影響資本要求，目前美聯儲仍在修訂測試機制，以使其對銀行更加友好。美聯儲週三在宣告中表示，鑑於這一決定，“並不預期這些機構會推遲到某個特定時間點才公開披露其截至2027年第三季度的計劃資本行動”。今年的測試評估了32家大型銀行在全球經濟嚴重衝擊情景下的承壓能力，測試假設商業和住宅房地產市場以及公司債市場面臨高度壓力。假設情景包括全球經濟嚴重衰退、商業地產價格下跌39%、住宅價格下跌30%。並且失業率升至10%的峰值，同時經濟產出相應下滑。美聯儲表示：“儘管在今年的假設情景下，銀行體系共吸收了超過7,080億美元貸款損失，但整體資本僅下降1.6個百分點，仍高於最低資本要求。”
+
+---
+
+### 2026-06-25 04:23:16  #國際
+
+特朗普： 北約秘書長呂特做得非常出色。
+
+---
+
+### 2026-06-25 04:23:14  #MKT News
+
+Pezeshkian said Iran's dignity and pride derive from the guidance of the revolutionary martyrs' leader and pledged to steadfastly continue that leader's path.
+
+---
+
+### 2026-06-25 04:21:29  #其他
+
+高通預計到 2029 財年，非手機業務營收將達 400 億美元。
+
+---
+
+### 2026-06-25 04:20:42  #國際
+
+特朗普：歐洲在伊朗戰爭期間沒有支援美國。
+
+---
+
+### 2026-06-25 04:20:31  #市場 #央行 #國際
+
+【拉美外匯觸及兩週低點，美元走強與大宗商品施壓股市】週三，拉丁美洲的股市和貨幣雙雙下滑，受到強勢美元的壓力。與此同時，投資者也在權衡近期由秘魯和哥倫比亞右翼候選人勝選所引發的市場反彈能否持續。追蹤拉美貨幣的MSCI指數下跌0.5%，觸及兩週多以來的低點。美元延續漲勢，攀升至13個月高點。在全球市場週二出現科技股領跌的拋售後，投資者紛紛湧入美元避險，加之市場對美聯儲加息的預期升溫。秘魯股市和哥倫比亞股市分別下跌0.8%和1.9%，兩國市場均可能連續第三個交易日收跌。貨幣市場表現同樣不佳，秘魯索爾跌0.5%，哥倫比亞比索從五年多高點回落，走弱0.3%。
+
+---
+
+### 2026-06-25 04:20:05  #MKT News #Important #MU.O
+
+Micron Technology will begin its fiscal 2026 third-quarter earnings call in 10 minutes.
+
+---
+
+### 2026-06-25 04:19:25  #MKT News #MU.O #Impact bullish
+
+Micron Technology (MU.O) said strategic customer agreements signed to date are expected to provide about $22 billion in cash deposits and related financial commitments.
+
+---
+
+### 2026-06-25 04:19:02  #MKT News #MU.O #Impact bullish
+
+Micron Technology (MU.O) said it expects to gradually return all excess cash to shareholders.
+
+---
+
+### 2026-06-25 04:18:44  #MKT News #MU.O
+
+Micron Technology (MU.O) said potential impacts from trade or geopolitical developments are not included in its earnings guidance.
+
+---
+
+### 2026-06-25 04:18:13  #公司
+
+明晟公司（MSCI）：霍尼韋爾航空航天板塊將於 2026 年 6 月 30 日納入 MSCI 全球標準指數及大盤股指數。
+
+---
+
+### 2026-06-25 04:18:11  #MKT News #MU.O #Impact mixed
+
+Micron Technology (MU.O) expects capex in each quarter of fiscal 2027 to exceed fiscal 2026 Q4 levels.
+
+---
+
+### 2026-06-25 04:17:58  #其他
+
+傑富瑞第二季度淨收入為22.1億美元，預估為22.2億美元；第二季度每股收益1.02美元，預期為1.24美元。
+
+---
+
+### 2026-06-25 04:17:49  #公司 #焦點 #國際
+
+美光科技：計劃提高資本回報。預計2027財年的專案運營費用將增加約10億美元。預計第四財季資本支出約為100億美元。預計2026財年全年資本支出約為270億美元。
+
+---
+
+### 2026-06-25 04:17:27  #MKT News #Important #MU.O
+
+Micron Technology (MU.O) expects FY2026 capital expenditure of about $27 billion.
+
+---
+
+### 2026-06-25 04:16:37  #其他
+
+高通首席財務官：未來營收、每股收益增速將大幅提升。
+
+---
+
+### 2026-06-25 04:16:36  #MKT News #Important #MU.O #Impact mixed
+
+Micron Technology (MU.O) CEO said he expects capex of about $10 billion in the fourth fiscal quarter.
+
+---
+
+### 2026-06-25 04:15:57  #MKT News #MU.O #Impact bearish
+
+Micron Technology (MU.O) CEO said project-related operating expenses in fiscal 2027 are expected to rise by about $1 bln.
+
+---
+
+### 2026-06-25 04:15:55  #其他
+
+【SpaceX投資者David George看好星艦 稱發展太空AI算力不可避免】SpaceX投資者、Andreessen Horowitz LLC普通合夥人David George表示，新型星艦火箭的“快速可重複使用”特性，對於實現埃隆·馬斯克利用軌道資料中心擴充套件AI算力的願景至關重要。George週三在接受採訪時表示，一旦星艦投入使用，將那些能力拓展至太空是不可避免的，因為地球上的AI資料中心容量正日益受限。他提出了一個看待這些未來衛星的新視角：“太空中飛機大小的GPU機架”。“至少，軌道資料中心將作為地球現有設施之外的補充算力存在於太空中，”George說，從經濟角度看，太空基礎設施最終可能比地面設施更具優勢。他還指出，SpaceX已經展示了部署此類系統的技術能力。
+
+---
+
+### 2026-06-25 04:15:18  #MKT News #MU.O #Impact bullish
+
+Micron Technology (MU.O) CEO says the company plans to increase capital returns.
+
+---
+
+### 2026-06-25 04:15:08  #公司 #觀點 #焦點 #國際
+
+高盛計劃將派息從每股4.50美元提高至每股5美元。
+
+---
+
+### 2026-06-25 04:14:47  #公司 #其他 #焦點 #國際
+
+美光科技：目前無法預測記憶體供應何時能趕上需求；預計緊張局面將持續到2027年之後。
+
+---
+
+### 2026-06-25 04:13:47  #MKT News #Important #MU.O #Impact bullish
+
+Micron Technology (MU.O) CEO said he cannot predict when memory supply will catch up to demand and expects the tight supply-demand balance to persist beyond 2027.
+
+---
+
+### 2026-06-25 04:13:09  #MKT News #Market Themes #Chip Wars #MU.O #Impact bullish
+
+Micron Technology (MU.O) says R&D on next-generation DRAM and NAND nodes is progressing well and expects to begin mass production in H2 2027.
+
+---
+
+### 2026-06-25 04:13:01  #MKT News #MU.O #Impact bullish
+
+Micron Technology (MU.O) said the mass-production ramp of its 12-layer HBM4 is currently twice that of the 12-layer HBM3E; the company has delivered more than $1 bln in cumulative HBM4 revenue.
+
+---
+
+### 2026-06-25 04:12:45  #MKT News #Important #Market Themes #AI Revolution #MU.O #Impact bullish #Nasdaq100 #S&P500
+
+【Micron posts strong results, rises nearly 10% after hours】Micron Technology said it expects fourth fiscal-quarter revenue of $50.0 bln +/- $1.0 bln, above analysts' average forecast of $43.58 bln, and attributed strength to continued demand for AI-related infrastructure. The company said generative AI growth has made HBM and similar products essential for large data centres, driving sharp price gains. Third-quarter revenue was $41.4 bln, beating expectations of $35.4 bln. Micron shares rose about 10% in after-hours trading.
+
+---
+
+### 2026-06-25 04:11:44  #公司
+
+高通執行長：公司將擴大與 Hugging Face 的戰略合作關係。
+
+---
+
+### 2026-06-25 04:11:20  #MKT News #WTI #Impact bearish #Brent
+
+U.S. official says Trump will include language in a supplemental appropriations bill to allow year‑round sales of gasoline blended with a higher ethanol share.
+
+---
+
+### 2026-06-25 04:10:53  #其他
+
+美光科技：下一代 DRAM 與 NAND 製程研發進展順利，按計劃將於 2027 年下半年啟動量產。
+
+---
+
+### 2026-06-25 04:10:28  #Trading Economics #Markets #United States #Stock Market #Importance 2
+
+Wall Street Closes Mixed Ahead of Micron Earnings — US equities closed mixed on Wednesday as losses in chipmakers ahead of Micron earnings weighed. The S&P 500 fell 0.1%, while the Nasdaq 100 lost 0.4%. Micron dropped 0.4% ahead of its earnings report, due after the bell, as investors focus on whether AI-driven demand can sustain the sector’s rally. The move followed a 13% plunge in the previous session amid growing concerns that capital expenditure by AI companies may have become excessive. Other semiconductor producers also traded lower, with Nvidia down 0.7%, and Intel shedding 0.3%. AI-related fundraising remained elevated, with SK Hynix reportedly seeking to raise $29 billion through a US listing, shortly after SpaceX’s record IPO. Other sectors found support from lower Treasury yields as prospects of restored energy exports from the Middle East eased inflation concerns. The Dow Jones outperformed, rising 182 points, aided by its exposure to traditional sectors, ahead of Alphabet replacing Verizon in the index on Monday.
+
+---
+
+### 2026-06-25 04:10:25  #國際
+
+美國官員：特朗普將在補充撥款法案中納入全年銷售高乙醇含量汽油的相關條款。
+
+---
+
+### 2026-06-25 04:10:08  #其他
+
+美光科技：HBM4 12 層堆疊晶片量產爬坡速度是 HBM3E 12 層堆疊的兩倍；HBM4 相關出貨營收已超 10 億美元。
+
+---
+
+### 2026-06-25 04:09:44  #公司 #觀點 #焦點 #國際
+
+摩根大通將股息上調至每股 1.65 美元，計劃實施 500 億美元股票回購。
+
+---
+
+### 2026-06-25 04:09:21  #市場
+
+美光科技美股盤後漲超9%。
+
+---
+
+### 2026-06-25 04:08:38  #MKT News #Important #MU.O #Impact bullish
+
+Micron Technology (MU.O) extended after-hours gains to 7.5%.
+
+---
+
+### 2026-06-25 04:08:26  #其他
+
+美光科技：根據目前已簽署的戰略客戶協議，預計將獲得 220 億美元現金保證金及相關資金承諾。
+
+---
+
+### 2026-06-25 04:08:08  #公司 #其他 #焦點 #國際
+
+美光科技：長期來看，我們計劃將全部富餘現金返還給股東。
+
+---
+
+### 2026-06-25 04:07:17  #公司 #市場 #國際
+
+Hertz Global（HTZ）股價下跌41%，創該公司美國IPO以來最大單日跌幅。
+
+---
+
+### 2026-06-25 04:06:48  #宏觀
+
+美光科技：我們給出的業績指引並未納入貿易或地緣政治局勢變化可能帶來的各類影響。
+
+---
+
+### 2026-06-25 04:06:35  #公司
+
+AI初創公司Mirendil按10億美元估值融資2億美元，英偉達、A16Z、Kleiner Perkins參與投資。
+
+---
+
+### 2026-06-25 04:06:11  #MKT News #MU.O #Impact bullish
+
+Micron Technology (MU.O) expects adjusted gross margin for the fiscal fourth quarter of about 86%, versus prior guidance of 83.6%.
+
+---
+
+### 2026-06-25 04:05:42  #其他
+
+美光科技：受全領域人工智慧相關需求推動，晶片供應緊張局面預計將持續至 2027 年之後。
+
+---
+
+### 2026-06-25 04:05:28  #市場
+
+【美元指數24日上漲】衡量美元對六種主要貨幣的美元指數當天上漲0.2%，在匯市尾市收於101.611。截至紐約匯市尾市，1歐元兌換1.1355美元，低於前一交易日的1.1379美元；1英鎊兌換1.3162美元，低於前一交易日的1.3188美元。1美元兌換161.76日元，高於前一交易日的161.57日元；1美元兌換0.8124瑞士法郎，高於前一交易日的0.8100瑞士法郎；1美元兌換1.4237加元，高於前一交易日的1.4214加元；1美元兌換9.7714瑞典克朗，高於前一交易日的9.7466瑞典克朗。
+
+---
+
+### 2026-06-25 04:05:24  #MKT News #DXY #Impact bullish #EURUSD #Impact bearish #USDJPY
+
+【Dollar index rises 0.2% to 101.611】Dollar index (DXY), which measures the dollar against six major currencies, rose 0.2% to 101.611. At the New York close EUR/USD 1.1355 (prev. 1.1379); GBP/USD 1.3162 (prev. 1.3188); USD/JPY 161.76 (prev. 161.57); USD/CHF 0.8124 (prev. 0.8100); USD/CAD 1.4237 (prev. 1.4214); USD/SEK 9.7714 (prev. 9.7466).
+
+---
+
+### 2026-06-25 04:05:11  #市場
+
+【國際油價24日顯著下跌】截至當天收盤，紐約商品交易所8月交貨的輕質原油期貨價格下跌2.87美元，收於每桶70.34美元，跌幅為3.92%；8月交貨的倫敦布倫特原油期貨價格下跌3.34美元，收於每桶73.74美元，跌幅為4.33%。
+
+---
+
+### 2026-06-25 04:05:07  #MKT News #MU.O #Impact bullish
+
+Micron Technology (MU.O): fiscal Q3 operating cash flow was $25.39 billion.
+
+---
+
+### 2026-06-25 04:04:58  #MKT News #MU.O
+
+Micron Technology (MU.O) said it expects fourth fiscal quarter EPS of $30.73 ± $1.00.
+
+---
+
+### 2026-06-25 04:04:17  #央行 #焦點 #國際
+
+美聯儲：最新壓力測試顯示，32 家大型銀行具備充足抵禦能力，即便遭遇嚴重經濟衰退仍可持續開展放貸業務。接受測試的銀行在假設情景下能夠承受超過7000億美元的損失，資本僅下降1.6%，仍然高於最低監管要求。
+
+---
+
+### 2026-06-25 04:03:30  #其他
+
+美光：客戶需求快速增長。
+
+---
+
+### 2026-06-25 04:03:18  #MKT News #Important #Market Themes #Chip Wars #MU.O #Impact bullish
+
+Micron Technology (MU.O) reported fiscal 2026 third-quarter EPS of $24.67, versus $20.42 expected and $1.68 a year earlier.
+
+---
+
+### 2026-06-25 04:02:42  #MKT News #Important #MU.O #Impact bullish
+
+Micron Technology (MU.O) forecasts fourth-quarter revenue of $50.0 bln, versus market consensus of $42.915 bln.
+
+---
+
+### 2026-06-25 04:02:33  #MKT News #Market Regions #Wall Street (US) #MU.O #Impact bullish
+
+U.S.-listed shares of Micron Technology (MU.O) rose more than 2% in after-hours trading.
+
+---
+
+### 2026-06-25 04:02:06  #MKT News #Important #Market Themes #Chip Wars #MU.O #Impact bullish
+
+Micron Technology (MU.O) reported fiscal 2026 Q3 revenue of $41.456 bln, versus market expectation of $35.423 bln and $9.301 bln in the year-ago quarter.
+
+---
+
+### 2026-06-25 04:01:30  #MKT News #Important #Macro & Rates #The Fed (FOMC) #S&P500 #Impact bullish #Dow
+
+Federal Reserve says banks included in its stress test would absorb more than $700bn of losses under the hypothetical scenario; capital falls only 1.6% and remains above minimum regulatory requirements.
+
+---
+
+### 2026-06-25 04:01:18  #MKT News #Important #Star Stocks #Microsoft #Alibaba #Market Themes #Magnificent 7 #BABA.N #Impact bearish #MSFT.O #ORCL.N
+
+【US close: major indexes mixed; Nasdaq Golden Dragon China Index down 1.7%】US stocks closed mixed on Wednesday: Dow Jones Industrial Average +0.36%, S&P 500 -0.09%, Nasdaq Composite -0.40%. Notable movers: SpaceX (SPCX.O) -1.0%, Microsoft (MSFT.O) -2.0%, Oracle (ORCL.N) -4.5%. The Nasdaq Golden Dragon China Index fell 1.77%; Alibaba (BABA.N) down about 3%, Bilibili (BILI.O) up over 3%.
+
+---
+
+### 2026-06-25 04:01:16  #公司 #其他 #焦點 #國際
+
+美光科技第三財季調整後營收414.6億美元，分析師預期356.9億美元。
+第三財季核心資料中心營收115.2億美元，分析師預期68億美元。
+第三財季雲端儲存營收137.7億美元，分析師預期106.9億美元。
+第三財季移動與客戶營收115.2億美元，分析師預期97.3億美元。
+第三財季調整後每股收益（EPS）為25.11美元，分析師預期20.49美元。
+第三財季調整後運營利潤336.8億美元，分析師預期278.6億美元。
+第三財季調整後毛利潤率84.9%，分析師預期81.9%。
+預計第四財季調整後營收490億-510億美元，分析師預期432.4億美元。
+預計第四財季調整後EPS為30-32美元，分析師預期25.31美元。
+
+---
+
+### 2026-06-25 04:00:48  #市場 #焦點
+
+【美股收盤：三大股指集體漲跌不一】道指漲0.36%，標普500指數跌0.10%，納指跌0.46%。Strategy跌9.22%，阿波羅全球管理跌6.18%，黑石跌5.88%，羅賓漢跌5.83%，Builders FirstSource漲11.20%，Iqvia Holdings Inc.漲8.35%，查爾斯河實驗室漲8.30%。“七姐妹”方面：亞馬遜漲0.09%，谷歌跌0.40%，蘋果跌0.45%，英偉達跌0.54%，Meta Platforms跌0.79%，特斯拉跌1.64%，微軟跌2.33%。
+
+---
+
+### 2026-06-25 04:00:13  #央行 #國際
+
+銀行透過美聯儲壓力測試，為股東分紅鋪平道路。
+
+---
+
+### 2026-06-25 04:00:02  #市場 #焦點
+
+【納斯達克中國金龍指數收跌1.81%】金生遊樂跌14.84%，盛豐物流跌13.85%，海天網路跌9.77%，Tims中國跌9.38%，網易有道跌9.25%。
+
+---
+
+### 2026-06-25 03:56:19  #MKT News #Important #Commodities #Energy #Brent #Impact bearish #WTI
+
+【Global crude futures retreat to pre-conflict levels】Brent settled down $3.34 (-4.3%) at $73.74/bbl and U.S. crude fell $2.87 (-3.9%) to $70.34/bbl, returning to levels seen before the US‑Israel‑Iran conflict erupted as more previously idled tankers left the Strait of Hormuz and supply concerns eased. ING said positive signals from the Persian Gulf are boosting optimism about restored flows through the Strait of Hormuz; vessel transits have risen but remain well below pre‑war levels.
+
+---
+
+### 2026-06-25 03:55:27  #其他
+
+輝瑞：董事會批准每股 0.43 美元季度現金股息。
+
+---
+
+### 2026-06-25 03:55:10  #MKT News #WTI #Impact bullish #Brent #XAUUSD
+
+【Iran's foreign ministry spokesman says US military presence, interventionism blocking regional peace】On the 24th, Iran's foreign ministry spokesman Baghaei wrote on social media that so long as US military presence and interventionism persist, and occupation forces acting as US proxies continue waging unending wars with impunity and committing genocide and other crimes, true peace in the region will be impossible.
+
+---
+
+### 2026-06-25 03:55:02  #國際
+
+【伊朗外交部發言人：美國軍事與干涉主義阻礙地區和平】當地時間24日，伊朗外交部發言人巴加埃在其個人社交媒體平臺上表示，只要美國的軍事與干涉主義持續存在，只要作為其代理人的佔領軍在完全免責的情況下繼續對本地區施加無休止的戰爭，並實施種族滅絕及其他罪行，本地區就不可能實現真正的和平。（央視新聞）
+
+---
+
+### 2026-06-25 03:54:55  #Trading Economics #Economy #Argentina #Current Account #Importance 1
+
+Argentina Current Account Deficit Narrows — Argentina posted a current account deficit of $1.651 billion in the first quarter of 2026, narrowing from a $5.158 billion gap a year earlier. The result reflected negative balances in the services account, at $4.028 billion, and primary income, at $4.676 billion, partially offset by a goods trade surplus of $6.339 billion and a secondary income surplus of $714 million. The year-on-year improvement was mainly supported by a $3.214 billion increase in goods exports, a $532 million reduction in the services deficit, and a $1.066 billion decline in goods imports. The secondary income account also rose by $354 million. Meanwhile, the primary income deficit widened by $1.658 billion compared with the same period last year.
+
+---
+
+### 2026-06-25 03:54:01  #市場
+
+【比特幣再次跌破6萬美元關口 幾大支撐力量均現動搖】比特幣跌回6萬美元下方，重新喚起了過去兩年在加密貨幣市場基本上消失的一種擔憂：當散戶投資者失去興趣的時候，如果市場最大買家也受到壓力，會發生什麼。由於投資者對Michael Saylor旗下Strategy Inc.的融資機器日益擔憂，以及個人投資者更廣泛退場——其中許多人已將注意力和資金轉向人工智慧股票，週三比特幣跌破了一個受到密切關注的支撐位。“市場正在對MSTR和STRC進行整個的重新定價，”Monarq Asset Management管理合夥人Shiliang Tang表示。MSTR和STRC分別是Strategy普通股和優先股的股票程式碼。CoinGlass彙編的資料顯示，過去24小時，近8億美元加密貨幣多頭頭寸被強制平倉。Deribit資料顯示，這輪下跌發生在週五約100億美元比特幣期權的季度到期之前。
 
 ---
 
@@ -20780,503 +21256,5 @@ TSX Slips on Global Tech Selloff — The S&P/TSX Composite Index fell 0.2% to cl
 ### 2026-06-24 04:09:34  #MKT News
 
 【Trump administration mulls White House aide Heidi Overton for FDA commissioner】White House domestic policy aide Heidi Overton is among the final candidates the Trump administration is considering to lead the FDA. No selection has been made and it is unclear whether Overton has the backing of Health Secretary Robert F. Kennedy Jr. Any nominee for FDA commissioner would require Senate confirmation.
-
----
-
-### 2026-06-24 04:09:19  #公司
-
-聯邦快遞：將擇機回購至多10億美元公司股票。
-
----
-
-### 2026-06-24 04:09:06  #Trading Economics #Markets #United States #Stock Market #Importance 2
-
-US Stocks Close Lower on Tech Selloff — US stock indices closed negative on Tuesday amid a selloff in heavyweight chip producers. The S&P 500 fell 1.4%, and the Nasdaq 100 lost 3.3% as AI infrastructure companies, including semiconductor and memory chip producers, tanked on increasing skepticism that AI spending by hyperscalers will not meet returns. Also, SK Hynix slowed production of advanced AI chips to boost commodity DRAM capacity, a sign that demand for compute could slow. Nvidia (-3.1%), Micron (-13.2%), AMD(-5.8%), Broadcom (-3.1%), Sandisk (-11.2%), and Qualcomm (-8%) posted losses. Tesla lost 4.7% and Oracle slipped 5.7%. Meanwhile, SpaceX added 1%, rebounding as it issued bonds only one week after its IPO, adding to caution on colossal capital expenditure. Treasury yields remained elevated despite the decline in energy prices following the hawkish dot plot last week, limiting any respite for traditional sectors of the economy. Gains for healthcare and consumer defensive companies aided the Dow to close near flat.
-
----
-
-### 2026-06-24 04:06:05  #公司
-
-【聯邦快遞財報超市場預期，預計本年度利潤將實現增長】多位訊息人士稱，聯邦快遞集團最新季度盈利資料好於華爾街一致預期，公司預計全年利潤增長，為其精簡業務的戰略提供利好支撐。聯邦快遞週二釋出公告稱，第四財季調整後每股收益6.31美元。市場一致預期均值為5.97美元。公司表示，2026自然年調整後每股收益區間為16.90–18.10美元，高於2025年預估的15美元。
-
----
-
-### 2026-06-24 04:05:59  #MKT News #Market Regions #Wall Street (US) #S&P500 #Impact bearish #Dow #Nasdaq100
-
-U.S. equities closed lower on Tuesday, June 23: the Dow Jones Industrial Average fell 45.87 points, or 0.09%, to 51,666.84; the S&P 500 fell 107.29 points, or 1.44%, to 7,365.50; the Nasdaq Composite fell 579.56 points, or 2.21%, to 25,587.04.
-
----
-
-### 2026-06-24 04:05:52  #Trading Economics #Markets #United States #Earnings #Importance 0
-
-FedEx earnings above expectations at 6.31 USD — FedEx (FDX) released earnings per share at 6.31 USD, compared to market expectations of 5.96 USD.
-
----
-
-### 2026-06-24 04:02:27  #其他
-
-聯邦快遞預計2026全年持續經營業務調整後每股收益區間為16.90至18.10美元。
-
----
-
-### 2026-06-24 04:02:17  #其他 #焦點
-
-費城半導體指數收跌7.9%，創6月5日以來最大跌幅。
-
----
-
-### 2026-06-24 04:02:01  #MKT News #Important #Star Stocks #NVIDIA #Market Themes #Magnificent 7 #Nasdaq100 #Impact bearish #MU.O #NVDA.O
-
-【U.S. close: Nasdaq down 2.2%, chip stocks plunge】U.S. stocks closed Tuesday: Dow fell 0.09%, S&P 500 fell 1.4%, Nasdaq fell 2.2%. Philadelphia Semiconductor Index plunged 7.8%; Marvell (MRVL.O) down 9%, Micron (MU.O) down 13%, NVIDIA (NVDA.O) down 4%. SpaceX (SPCX.O) rose 1%. Nasdaq Golden Dragon China Index fell 0.55%; XPeng (XPEV.N) down more than 4%.
-
----
-
-### 2026-06-24 04:01:44  #國際
-
-特朗普表示，委內瑞拉應被納入美國石油產量統計資料之中。
-
----
-
-### 2026-06-24 04:00:48  #市場 #焦點
-
-【美股收盤：三大股指集體收跌】道指跌0.09%，標普500指數跌1.43%，納指跌2.18%。閃迪跌13.75%，美光跌13.23%，VRT跌11.08%，ON SEMICONDUCTOR跌11.06%，Coherent Corp跌10.38%。“七姐妹”方面：微軟漲1.89%，亞馬遜漲0.63%，Meta Platforms跌0.18%，谷歌跌0.67%，蘋果跌0.80%，英偉達跌4.03%，特斯拉跌5.81%。
-
----
-
-### 2026-06-24 04:00:02  #市場 #焦點
-
-【納斯達克中國金龍指數收跌0.60%】海天網路跌8.95%，阿特斯跌7.99%，復朗集團跌6.51%，新氧跌6.39%，嗶哩嗶哩跌4.68%。
-
----
-
-### 2026-06-24 03:57:44  #MKT News
-
-AP reports Republican senators who have clashed with TRUMP in recent weeks will have a chance to question him face-to-face at a Capitol luncheon on Wednesday.
-
----
-
-### 2026-06-24 03:55:33  #MKT News
-
-【Congress passes symbolic war powers resolution on Iran】The Senate voted 50-48 Tuesday to approve a House-passed war powers concurrent resolution that calls on the president to "withdraw US forces from hostilities against Iran" unless Congress declares war or authorizes use of military force. The measure, marking a rare congressional rebuke of President Trump’s handling of the US-Iran conflict, is the first such resolution to clear both chambers. As a concurrent resolution it carries no legal force, requires no presidential signature and is largely symbolic.
-
----
-
-### 2026-06-24 03:54:39  #國際
-
-【特朗普政府擬提名白宮助理執掌美國食品藥品監督管理局】美國白宮國內政策助理海蒂·奧弗頓是特朗普政府考慮出任美國食品藥品監督管理局局長的最終候選人之一。相關人選尚未敲定，目前尚不清楚奧弗頓能否獲得衛生部長小羅伯特·F·肯尼迪的支援。FDA局長提名人選需經參議院投票確認。
-
----
-
-### 2026-06-24 03:53:46  #公司
-
-穆迪評級確認強生公司B2級企業家族評級，展望調整為穩定。
-
----
-
-### 2026-06-24 03:51:59  #國際
-
-特朗普擬提名一名白宮助理出任美國食品藥品監督管理局局長一職。
-
----
-
-### 2026-06-24 03:49:29  #焦點 #國際
-
-特朗普：正在努力爭取全國範圍內的持槍權。
-
----
-
-### 2026-06-24 03:48:13  #其他 #焦點
-
-Meta正在開發預測市場應用，對標Polymarket與Kalshi兩款競品。
-
----
-
-### 2026-06-24 03:47:24  #焦點 #國際
-
-伊朗外交部發言人：只有美伊雙方開始落實《伊斯蘭堡諒解備忘錄》五項核心條款後，伊朗才會啟動與美國締結最終協議的談判。該備忘錄包含五項核心內容：全線停止一切軍事行動、解除美國海上封鎖、恢復霍爾木茲海峽商業船隻安全通行、豁免伊朗石油出口及相關交易限制、全額解凍伊朗遭凍結與受限海外資產。待上述條款落地執行，雙方才會開啟最終和約磋商。
-
----
-
-### 2026-06-24 03:47:01  #國際
-
-美國國務卿魯比奧表示，霍爾木茲海峽屬於國際航道，任何國家都無權在此收取通行費，地區各國均認同這一觀點；相關合作框架已搭建完成，不過仍有大量實質性工作有待推進。
-
----
-
-### 2026-06-24 03:44:07  #MKT News #XAUUSD #Impact bearish #WTI #S&P500 #Impact bullish
-
-The U.S. Senate voted to block military action against Iran unless President Trump secures congressional authorization.
-
----
-
-### 2026-06-24 03:43:10  #焦點 #國際
-
-美國參議院投票決定，除非特朗普獲得國會批准，否則不得對伊朗發動戰爭。
-
----
-
-### 2026-06-24 03:42:54  #國際
-
-美國法院裁定拜登紀念園區擴建專案需接受審查。
-
----
-
-### 2026-06-24 03:37:21  #MKT News #DXY #Impact bullish #EURUSD #Impact bearish #USDJPY
-
-【US dollar index rises 0.38% to 101.408 at New York close】US dollar index (DXY) rose 0.38% to 101.408 at the New York FX close. EUR/USD 1.1379 (prev. 1.1424); GBP/USD 1.3188 (prev. 1.3244). USD/JPY 161.57 (prev. 161.42); USD/CHF 0.8100 (prev. 0.8091); USD/CAD 1.4214 (prev. 1.4157); USD/SEK 9.7466 (prev. 9.6212).
-
----
-
-### 2026-06-24 03:36:53  #市場
-
-【美元指數23日上漲】美元指數23日上漲。衡量美元對六種主要貨幣的美元指數當天上漲0.38%，在匯市尾市收於101.408。截至紐約匯市尾市，1歐元兌換1.1379美元，低於前一交易日的1.1424美元；1英鎊兌換1.3188美元，低於前一交易日的1.3244美元。1美元兌換161.57日元，高於前一交易日的161.42日元；1美元兌換0.8100瑞士法郎，高於前一交易日的0.8091瑞士法郎；1美元兌換1.4214加元，高於前一交易日的1.4157加元；1美元兌換9.7466瑞典克朗，高於前一交易日的9.6212瑞典克朗。
-
----
-
-### 2026-06-24 03:35:52  #國際
-
-美國聯邦航空管理局暫停部分飛往拉瓜迪亞機場的航班。
-
----
-
-### 2026-06-24 03:34:13  #焦點 #國際
-
-特朗普稱，他能在一週之內“徹底解決伊朗問題”。
-
----
-
-### 2026-06-24 03:33:50  #國際
-
-特朗普：我有個朋友，是超大型地產開發商，但他特別怕當眾演講，一上臺就緊張得說不出話，慌得不行。他問我怎麼做到從容演講的？我告訴他，這很簡單，因為臺下全是喜愛我的人。
-
----
-
-### 2026-06-24 03:33:19  #國際
-
-路透社與益普索聯合民調顯示：僅有四分之一的美國人認為，這場對伊朗戰爭付出的各類代價是值得的；多數受訪者則擔憂，當前達成的停火協議難以長久維繫。
-
----
-
-### 2026-06-24 03:32:38  #MKT News #WTI #Impact bearish #Brent
-
-【International oil prices fall on 23rd】By the close, NYMEX August WTI fell $0.65 to $73.21 a barrel, down 0.88%; ICE August Brent fell $0.82 to $77.08 a barrel, down 1.05%.
-
----
-
-### 2026-06-24 03:31:51  #國際
-
-【伊朗稱三家銀行銀行卡業務遭網路攻擊】伊朗國有銀行技術服務商表示，網路攻擊導致國民銀行、出口銀行與德賈拉特銀行的銀行卡相關業務癱瘓。該企業透露，為阻止非法入侵持續擴散，上述三家銀行臨時關停全部銀行卡業務，網路安全團隊正在搶修，力爭恢復正常服務。企業公關負責人稱，此次受波及的業務涵蓋自動取款機、線下收銀終端以及繫結銀行卡系統的手機銀行應用。
-
----
-
-### 2026-06-24 03:31:11  #市場
-
-【國際油價23日下跌】國際油價23日下跌。截至當天收盤，紐約商品交易所8月交貨的輕質原油期貨價格下跌65美分，收於每桶73.21美元，跌幅為0.88%；8月交貨的倫敦布倫特原油期貨價格下跌82美分，收於每桶77.08美元，跌幅為1.05%。
-
----
-
-### 2026-06-24 03:29:30  #國際
-
-特朗普： 民主黨人當初投票支援伊朗擁有核武器。
-
----
-
-### 2026-06-24 03:28:55  #MKT News
-
-The New York Times reports several major Iranian banks experienced disruption to bank-card services on Tuesday; Iranian state media reported some of those banks suffered cyberattacks less than two weeks earlier.
-
----
-
-### 2026-06-24 03:28:53  #MKT News #XAUUSD #Impact bullish #DXY #WTI
-
-【Wall Street Journal: Moscow pressing Belarus to open new front in Ukraine conflict】The Wall Street Journal reports former and current Russian and European officials say Moscow launched a pressure campaign earlier this year to turn Belarus into a springboard for expanded operations in Ukraine or to enable unconventional actions against NATO. Ukraine has threatened strikes on targets inside Belarus. Officials say Russia has deployed tactical nuclear weapons to Belarus, a development that suggests Moscow may be weighing a high-risk escalation.
-
----
-
-### 2026-06-24 03:27:39  #MKT News #XAUUSD #Impact bullish #WTI #DXY
-
-【Israel's US ambassador: including Iran in Lebanon talks would be a 'disaster'】The Times of Israel reported Israel's ambassador to the US sharply criticized the Trump administration for agreeing to fold Iran into a Washington memorandum on Lebanon ceasefire talks signed last week, calling it a "disaster." He is leading the fifth round of direct Israel-Lebanon negotiations at the State Department. He said when Israel and Lebanon began direct talks "we all boarded the same train," with the US as the locomotive aiming for comprehensive peace, the removal of Iranian influence from Lebanon, the disarmament of Hezbollah and security between the two countries. He warned the train now risks derailing and said he hopes to get it back on track.
-
----
-
-### 2026-06-24 03:25:12  #國際
-
-【特朗普在賓夕法尼亞州的活動上大力宣傳其減稅政策】特朗普在賓夕法尼亞州的活動上大力宣傳其減稅政策，以此作為中期競選宣傳的核心內容。特朗普重點提出兩項政策：加班收入免稅、老年人社保福利免稅，並預估這兩項政策每年能讓家庭增收超1萬美元。他說：“國會里所有民主黨人全都投票反對我們的減稅方案。”
-
----
-
-### 2026-06-24 03:24:24  #國際
-
-【香港對沖基金Ovata將關閉 創始人及大部分員工加入ExodusPoint】知情人士透露，資產管理規模為15億美元的香港對沖基金Ovata Capital Management Ltd.將關閉業務，其創始人及大部分員工準備加入美國多策略對沖基金巨頭ExodusPoint Capital Management。
-
----
-
-### 2026-06-24 03:22:32  #央行 #國際
-
-【沃什上任後亞特蘭大聯儲總裁遴選程式已重啟】知情人士稱，在沃什出任美聯儲主席後，亞特蘭大聯邦儲備銀行下一任總裁的遴選程式已被重新啟動。美聯儲曾考慮讓前美國副財長福爾肯德出任該職，但其目前的任命進展尚不得而知。
-
----
-
-### 2026-06-24 03:20:44  #MKT News #LLY.N #Impact bullish
-
-U.S. President Trump, while discussing the jobs market, called Eli Lilly (LLY.N) "a great pharmaceutical company" and referenced the company's investment.
-
----
-
-### 2026-06-24 03:17:32  #國際
-
-特朗普：賓夕法尼亞州就業崗位大幅增長。僅過去數月，該州就新增3.2萬個就業崗位，其中製造業崗位2600個。
-
----
-
-### 2026-06-24 03:16:25  #其他 #焦點
-
-美光科技跌幅超13%，或創下2025年4月以來最大單日跌幅。
-
----
-
-### 2026-06-24 03:13:58  #市場 #國際
-
-特朗普：全美汽油均價相較不久前每加侖下跌了60美分。美國經濟即將騰飛，達到前所未有的高度。
-
----
-
-### 2026-06-24 03:13:17  #MKT News #Market Themes #The Trump Trade
-
-Trump claimed he cut the US trade deficit by 67%, the largest reduction in US history.
-
----
-
-### 2026-06-24 03:12:33  #MKT News
-
-President Trump accused former President Obama of attempting to bribe Iran with tens of billions of dollars and said Iran's leadership only understands "iron-fist measures".
-
----
-
-### 2026-06-24 03:12:17  #觀點
-
-摩根大通已獲批推出一隻全新間隔基金，投資於公募及私募信貸資產，並允許投資者按月贖回份額；當前直接信貸行業正遭遇新一輪大規模撤資申請的衝擊。
-
----
-
-### 2026-06-24 03:11:43  #國際
-
-特朗普：我們與伊朗達成了一份具有歷史意義的和平協議，以此終結衝突。而最重要的是，我們明確落實了一項關鍵訴求——這也是我促成這份協議的初衷——伊朗永遠不得擁有核武器，伊朗方面已對此表示認同。
-
----
-
-### 2026-06-24 03:11:13  #MKT News #Market Regions #Emerging Markets
-
-Argentina's statistics agency said Q1 2026 GDP rose 2.3% YoY, above market consensus of 1.7%.
-
----
-
-### 2026-06-24 03:09:50  #公司 #國際
-
-特朗普稱讚禮來公司。
-
----
-
-### 2026-06-24 03:07:03  #MKT News #Brent #Impact bearish #XAUUSD #S&P500 #Impact bullish
-
-US President Trump said the US will strip Iran of its nuclear capability and that Iran has agreed to this.
-
----
-
-### 2026-06-24 03:06:59  #國際
-
-特朗普談及伊朗： 我們會讓伊朗徹底喪失導彈作戰能力。
-
----
-
-### 2026-06-24 03:06:43  #MKT News #Commodities #Energy #Market Themes #The Trump Trade #WTI #Impact bearish #Brent
-
-U.S. President Trump said energy prices have fallen sharply.
-
----
-
-### 2026-06-24 03:06:38  #國際
-
-特朗普：沙特國王曾對我說“閣下，您要知道，兩年前貴國當時處境岌岌可危”。
-
----
-
-### 2026-06-24 03:06:15  #MKT News #WTI #Impact bullish #XAUUSD #DXY
-
-U.S. President Trump said "We can fly over Tehran whenever we want; no one would dare do anything to us," and said he had seen "fake news" reports claiming they (Iran) are doing quite well.
-
----
-
-### 2026-06-24 03:05:55  #MKT News #Commodities #Energy #Market Themes #The Trump Trade #WTI #Impact bearish #Brent
-
-President Trump said the US is working to reach a fair deal with Iran. Yesterday 19 mln barrels of oil transited the Strait of Hormuz.
-
----
-
-### 2026-06-24 03:05:22  #國際
-
-特朗普談及伊朗： 我們可以隨意飛越德黑蘭上空，沒人能拿我們怎麼樣。
-
----
-
-### 2026-06-24 03:05:18  #國際
-
-特朗普談及伊朗： 我們會徹底剝奪其所有核能力，伊朗方面已對此表示同意。 目前雙方溝通進展十分順利。
-
----
-
-### 2026-06-24 03:04:49  #國際
-
-特朗普：美國正致力於與伊朗達成公平協議，昨日有1900萬桶石油經由霍爾木茲海峽運輸。
-
----
-
-### 2026-06-24 03:04:42  #MKT News #Market Themes #The Trump Trade #Nasdaq100 #Impact bearish
-
-At a Pennsylvania rally, Trump claimed US stocks hit a new high today. The Nasdaq Composite is currently down about 2%.
-
----
-
-### 2026-06-24 03:04:16  #國際
-
-特朗普稱讚汽油價格下降。
-
----
-
-### 2026-06-24 03:03:56  #MKT News
-
-US President Trump said Iran is in poor shape and lacks both an army and air-defence systems.
-
----
-
-### 2026-06-24 03:03:29  #MKT News #WTI #Impact bullish #Brent #XAUUSD
-
-U.S. President Trump said Iran's economy has been severely damaged and will take years to recover.
-
----
-
-### 2026-06-24 03:03:13  #MKT News #Macro & Rates #Treasury Yields #US10Y #Impact bearish
-
-U.S. Treasury Department data show foreign investors bought $5.2bn of 10-year Treasuries maturing May 2036 in the latest two-week reporting period, down from $6.23bn the prior month.
-
----
-
-### 2026-06-24 03:03:01  #MKT News #Market Regions #Greater China #Hang Seng Index #Impact bullish
-
-Hang Seng index futures night session closed up 0.78% at 23,498, trading at a 162-point premium to the cash index.
-
----
-
-### 2026-06-24 03:02:53  #其他
-
-【C羅梅開二度 葡萄牙5-0戰勝烏茲別克】北京時間6月24日，2026美加墨世界盃小組賽K組第二輪中，葡萄牙5-0戰勝烏茲別克，小組賽一勝一平積4分。
-
----
-
-### 2026-06-24 03:02:39  #MKT News
-
-US President Trump said the US is getting along fairly well with Iran.
-
----
-
-### 2026-06-24 03:02:24  #MKT News #WTI #Impact bearish #Brent
-
-TRUMP on Iran said the US is working to reach a fair deal.
-
----
-
-### 2026-06-24 03:02:20  #MKT News #S&P500 #Impact bullish #WTI #Impact bearish #DXY
-
-US President Trump says Iran has agreed never to possess nuclear weapons.
-
----
-
-### 2026-06-24 03:02:16  #國際
-
-特朗普談伊朗問題：我們正致力於達成一份公平的協議。
-
----
-
-### 2026-06-24 03:01:39  #焦點 #國際
-
-特朗普：伊朗已同意永遠不擁有核武器。
-
----
-
-### 2026-06-24 03:01:29  #國際
-
-特朗普：我們和伊朗相處得很好。
-
----
-
-### 2026-06-24 03:01:19  #其他
-
-阿根廷國家統計局公佈，2026年第一季度國內生產總值同比增長2.3%。此前路透調查的預期增速為1.70%。
-
----
-
-### 2026-06-24 03:01:13  #宏觀 #市場 #國際
-
-美國財政部公佈，在最近半個報告期內，外國投資者買入了22.71億美元將於2056年5月15日到期的30年期國債，上月該資料為27.67億美元。
-
----
-
-### 2026-06-24 03:01:10  #宏觀 #市場 #國際
-
-美國財政部：在最新雙週報報告期內，投資基金買入289.62億美元2036年5月15日到期的10年期國債，上月買入規模為293.32億美元。
-
----
-
-### 2026-06-24 03:01:07  #宏觀 #市場 #國際
-
-美國財政部：在最近的雙週報告期內，投資基金買入157.23億美元將於2056年5月15日到期的30年期國債，前一個月的買入規模為183.40億美元。
-
----
-
-### 2026-06-24 03:01:04  #宏觀 #市場 #國際
-
-美國財政部公佈，在最新雙週報報告期內，投資基金買入421.81億美元將於2029年6月15日到期的3年期國債，上月買入規模為416.36億美元。
-
----
-
-### 2026-06-24 03:01:00  #宏觀 #市場 #國際
-
-美國財政部：在最近兩週報告期內，外國投資者買入52億美元將於2036年5月15日到期的10年期國債，上月買入規模為62.3億美元。
-
----
-
-### 2026-06-24 03:00:03  #市場
-
-恒指期貨夜盤收漲0.86%，報23487.10點，高水150.82點。
-
----
-
-### 2026-06-24 02:59:41  #其他
-
-【烏干達和剛果（金）啟動埃博拉疫情監控跨境合作】當地時間23日，烏干達衛生部表示，該國與剛果（金）啟動埃博拉疫情監控跨境合作，以加強對兩國邊境地區的監控，阻止疫情擴散。（央視新聞）
-
----
-
-### 2026-06-24 02:57:48  #MKT News
-
-Trump says Iran cannot have nuclear weapons.
-
----
-
-### 2026-06-24 02:57:45  #國際
-
-特朗普談及伊朗問題： 伊朗絕不能擁有核武器，這點沒得商量。
-
----
-
-### 2026-06-24 02:57:16  #國際
-
-特朗普：已會見工會領袖。
-
----
-
-### 2026-06-24 02:56:40  #MKT News
-
-【US allows Iran team to enter US two days before next match】On June 23 the U.S. Department of Homeland Security said it has relaxed travel restrictions to allow Iran’s national football team to enter the United States two days before its June 26 group match against Egypt in Seattle; the team must depart the same night. DHS said overall security measures and procedures remain unchanged. Iran will remain based in Tijuana, Mexico, for the tournament and several team staff and federation officials continue to be barred from entry.
 
 ---

@@ -1,7 +1,745 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-06-26 01:54:57_
-_本檔包含 3398 則快訊，約 616443 字_
+_更新時間：2026-06-26 02:47:00_
+_本檔包含 3443 則快訊，約 617770 字_
+
+---
+
+### 2026-06-26 02:44:19  #焦點 #國際
+
+伊朗波斯灣海峽管理局 ：霍爾木茲海峽非 PGSA 航線保險保障失效。 未加入 PGSA 的霍爾木茲海峽航線無安全通行保障。
+
+---
+
+### 2026-06-26 02:42:15  #國際
+
+【中方揭批以人權為藉口濫施關稅行徑】6月25日，中國常駐聯合國日內瓦辦事處和瑞士其他國際組織代表賈桂德大使在聯合國人權理事會第62屆會議代表多國作共同發言，揭批某些國家以“強迫勞動”為名濫施關稅的單邊霸凌行徑。賈桂德大使在共同發言中指出，“消除貧困需要保障各國人民的勞動權和發展權。我們堅決反對‘強迫勞動’，同時嚴重關切、強烈反對某個國家濫用國內法律，單方面認定其他經濟體未有效實施並執行‘禁止進口強迫勞動產品措施’，並以此為藉口加徵額外關稅。有關國家以‘強迫勞動’為名，行濫施關稅之實，只會損害各國勞動者體面勞動的權利和發展權，干擾全球供應鏈產業鏈穩定，破壞國際社會消除貧困的努力。” 共同發言敦促有關國家尊重客觀事實，停止將經貿問題政治化、人權議題武器化，以實際行動維護國際經貿秩序，助力全球發展和減貧程序。 共同發言得到廣泛支援，俄羅斯、巴基斯坦、古巴、委內瑞拉、蘇丹、柬埔寨等多國加入共同發言，發展中國家積極發言呼應。（CCTV國際時訊）
+
+---
+
+### 2026-06-26 02:42:06  #MKT News #Macro & Rates #The Fed (FOMC) #DXY #Impact bullish #US10Y #S&P500 #Impact bearish
+
+【Fed's GOOLSBEE: Core inflation still too high, trend worrying】Fed's GOOLSBEE said on Thursday that while the latest US inflation report shows a glimmer of improvement in services inflation, underlying inflationary pressure remains too high and the trend is worrying. In a CNBC interview he declined to say whether the Fed should raise rates or keep them unchanged and said he agreed with Fed Chair KEVIN WARSH that policymakers should avoid stoking speculation about the future path of rates.
+
+---
+
+### 2026-06-26 02:41:30  #國際
+
+烏克蘭總統澤連斯基：祝賀阿夫勞埃斯・普列利亞贏得總統大選，並祝願哥倫比亞人民一切順遂。期待與哥倫比亞開展深度協作，攜手讓兩國共同發展。
+
+---
+
+### 2026-06-26 02:40:39  #MKT News
+
+【UN spokesperson: UN mobilizing resources to assist Venezuela earthquake response】UN Secretary-General spokesperson Dujarric said on the 25th that UN agencies in Venezuela are mobilizing assistance and coordinating with the Venezuelan government and partners to support the earthquake response. Preliminary reports show severe damage across multiple areas, including the capital Caracas, significant casualties, and people still trapped or missing. Critical infrastructure has been damaged and basic services disrupted. The UN Office for the Coordination of Humanitarian Affairs is assisting with deployment of urban search-and-rescue teams.
+
+---
+
+### 2026-06-26 02:39:56  #其他
+
+【聯合國發言人：正調動資源援助委內瑞拉應對地震災情】聯合國秘書長發言人迪雅裡克25日發表宣告說，聯合國駐委內瑞拉機構正調動援助資源，並與委政府及合作伙伴協作，支援委內瑞拉應對地震災情。宣告說，初步報告顯示，委內瑞拉包括首都加拉加斯在內的多地遭到地震嚴重破壞，人員傷亡較大，一些人仍被困或下落不明。同時，該國關鍵基礎設施受損，基本服務中斷。聯合國人道主義事務協調廳正協助部署城市搜救隊伍。（新華社）
+
+---
+
+### 2026-06-26 02:38:17  #其他
+
+世界銀行：地震後已與委內瑞拉當局取得聯絡，目前正在評估提供援助的方式。
+
+---
+
+### 2026-06-26 02:37:06  #MKT News #Commodities #Energy
+
+County government filing shows SpaceX (SPCX.O) plans to begin construction next month on a natural gas pipeline to its Texas launch facility.
+
+---
+
+### 2026-06-26 02:36:45  #其他
+
+根據郡縣公開檔案顯示，SpaceX計劃下月動工修建通往德克薩斯州發射場的天然氣管道。
+
+---
+
+### 2026-06-26 02:36:12  #國際
+
+【一貨船在阿曼附近水域遭襲】英國海上貿易行動辦公室25日釋出通報說，一艘貨船當天在阿曼附近水域遭襲，駕駛臺受損，未造成人員傷亡。通報說，一艘貨船在阿曼達希特東南約7.5海里處被一枚不明投射物擊中，受擊部位位於船舶右舷，駕駛臺受損。事件未造成人員傷亡，也未對海洋環境造成影響。國際海事組織和阿曼日前啟動新的安全通航機制，以協助滯留船舶和海員透過霍爾木茲海峽。伊朗伊斯蘭革命衛隊海軍25日在社交媒體上發表宣告說，船隻透過霍爾木茲海峽必須與革命衛隊海軍協調，違規船舶“將受到處置”。（央視新聞）
+
+---
+
+### 2026-06-26 02:35:40  #MKT News
+
+Mengluo Energy said one employee suffered minor injuries in a fire; injuries are not life‑threatening and the employee has been sent off-site for treatment.
+
+---
+
+### 2026-06-26 02:35:39  #其他
+
+Monroe Energy：目前尚不清楚火災的確切起因，將對這起事故展開全面調查。
+
+---
+
+### 2026-06-26 02:35:34  #MKT News #Commodities #Energy
+
+Monroe Energy said emergency crews extinguished a fire at its Trainer, Pennsylvania, refinery and that the blaze is under control.
+
+---
+
+### 2026-06-26 02:35:27  #其他
+
+Monroe Energy：儘管可見煙霧，但空氣監測結果顯示未對人體健康構成風險。
+
+---
+
+### 2026-06-26 02:35:09  #其他
+
+Monroe Energy  ：此次火災造成門羅一名員工受傷，傷勢無生命危險，已被轉運至場外接受治療。
+
+---
+
+### 2026-06-26 02:34:47  #MKT News #Market Regions #Europe & UK #EURUSD #Impact bearish #DAX #XAUUSD #Impact bullish
+
+German Chancellor Merz said Germany is losing 300-500 jobs a day and that double-digit numbers of firms file for bankruptcy daily, adding the country must act swiftly to overcome the situation.
+
+---
+
+### 2026-06-26 02:34:46  #MKT News #XAUUSD #Impact bullish
+
+On June 25 (Thursday) evening, Shanghai Gold Exchange gold T+D closed up 1.25% at 884.2 yuan/gram; silver T+D closed up 2.11% at 14,217 yuan/kg.
+
+---
+
+### 2026-06-26 02:34:37  #其他
+
+Monroe Energy：應急人員已撲滅賓夕法尼亞州特雷納煉油廠的火災，目前已宣佈火情“得到控制”。
+
+---
+
+### 2026-06-26 02:33:55  #其他
+
+德國總理默茨：當前德國每天流失 300 至 500 個工作崗位。 每日都有數十家企業申請破產。這意味著我們當下必須儘快擺脫這一困境。 我們需要儘早穩住德國本土就業，讓德國企業在國內外市場重獲競爭力。
+
+---
+
+### 2026-06-26 02:33:30  #MKT News
+
+German Chancellor MERZ said Germany must quickly secure jobs and ensure German companies remain competitive at home and abroad.
+
+---
+
+### 2026-06-26 02:33:26  #MKT News #EURUSD #Impact bearish #DAX
+
+German Chancellor MERZ said Germany is currently losing 300–500 jobs per day and that there are double-digit corporate bankruptcy filings each day. He said this means we must ensure a rapid exit from the predicament.
+
+---
+
+### 2026-06-26 02:31:14  #MKT News #Commodities #Precious Metals #Energy #XAUUSD #Impact bullish #WTI
+
+【Night session front-month contracts close】At the 02:30 close, Shanghai gold front-month contract rose 1.17% to 887 yuan/gram; Shanghai silver front-month contract rose 1.24% to 14,237 yuan/kg; SC crude oil front-month contract rose 2.29% to 479 yuan/barrel.
+
+---
+
+### 2026-06-26 02:31:13  #市場
+
+紐約商品交易所 8 月西德克薩斯輕質原油（WTI）期貨結算價報每桶 71.92 美元。
+
+---
+
+### 2026-06-26 02:31:06  #MKT News #Commodities #Energy #WTI #Impact bullish
+
+U.S. crude futures settled at $71.92/bbl, up $1.58, or 2.25%.
+
+---
+
+### 2026-06-26 02:31:01  #市場
+
+紐約商品交易所 7 月柴油期貨結算價報每加侖 3.2982 美元。
+
+---
+
+### 2026-06-26 02:30:59  #MKT News #Important #Commodities #Energy #Brent #Impact bullish #WTI
+
+Brent crude rose 3.00% intraday to $75.63/bbl, while WTI rose 3.00% intraday to $72.60/bbl.
+
+---
+
+### 2026-06-26 02:30:55  #市場
+
+紐約商品交易所 7 月汽油期貨結算價為每加侖 3.0273 美元。
+
+---
+
+### 2026-06-26 02:30:42  #市場
+
+紐約商品交易所 7 月天然氣期貨結算價報 3.3430 美元 / 百萬英熱單位。
+
+---
+
+### 2026-06-26 02:30:11  #Trading Economics #Markets #Crypto #Importance 1
+
+Crypto Updates: Ether Depreciates by 3.02% — Top crypto losers are Ether (-3.02%) and Bitcoin (-2.28%).
+
+---
+
+### 2026-06-26 02:30:02  #市場
+
+上期所原油期貨夜盤收漲2.29%，報478.70元人民幣/桶。滬金夜盤收漲1.17%，滬銀收漲1.24%。
+
+---
+
+### 2026-06-26 02:29:49  #國際
+
+【法國總統馬克龍談及黎巴嫩局勢】法國總統馬克龍：法國與義大利負有特殊責任，兩國均向聯合國駐黎巴嫩臨時部隊（聯黎部隊）派遣兵力。我將與梅洛尼總理共同牽頭組建合作聯盟，籌劃聯黎部隊任務到期後的替代機制，相關工作自然會與歐盟、聯合國協同推進。此舉旨在維護黎巴嫩主權完整，避免黎巴嫩領土再度淪為新一輪地區衝突的導火索。我認為法意兩國在此議題上的協作成效顯著，也期待能在聯黎部隊任期結束前形成全新解決方案。
+
+---
+
+### 2026-06-26 02:29:31  #MKT News
+
+MACRON said France's goal is to strengthen Lebanon's sovereignty and prevent Lebanese territory from again becoming the origin of a new regional conflict.
+
+---
+
+### 2026-06-26 02:29:26  #MKT News #Market Regions #Europe & UK
+
+Macron said he hopes to launch an alliance with Prime Minister Meloni to set up mechanisms following UNIFIL's withdrawal, and that the plan will require cooperation with the EU and the UN.
+
+---
+
+### 2026-06-26 02:28:54  #MKT News
+
+Macron said France and Italy bear a special responsibility for Lebanon because both contribute to the United Nations Interim Force in Lebanon (UNIFIL).
+
+---
+
+### 2026-06-26 02:28:43  #宏觀 #國際
+
+歐盟氣候事務專員：我們需要評估英國政治局勢對歐盟與英國碳排放交易體系對接談判的影響。
+
+---
+
+### 2026-06-26 02:28:22  #國際
+
+【伊拉克因缺乏空油輪下令西古爾納-2油田停產】由於抵達的空油輪數量不足以裝載出口貨物，伊拉克近日下令其一處關鍵油田停止生產。這一事件表明，中東地區原油供應的恢復過程可能並不順利。一份發給該油田運營方的函件顯示，伊拉克石油部已下令西古爾納-2油田（West Qurna 2）全面停產。一位知情人士透露，此次暫停生產是因為沒有足夠的油輪來運走原油。
+
+---
+
+### 2026-06-26 02:27:35  #其他
+
+【國際海事組織暫停疏散霍爾木茲海峽滯留船舶】國際海事組織25日宣佈，一艘船舶當天在阿曼灣遭襲，該組織決定暫停霍爾木茲海峽滯留船舶的疏散行動，以進一步確認相關安全保障措施是否仍然有效。（新華社）
+
+---
+
+### 2026-06-26 02:25:16  #國際
+
+以色列國防軍稱，已打擊對己方部隊構成威脅的真主黨武裝人員。
+
+---
+
+### 2026-06-26 02:25:11  #Trading Economics #Markets #Commodity #Importance 1
+
+Agricultural Commodities Updates: Cocoa Rallies by 5.17% — Top commodity gainers are Cocoa (5.17%), Corn (1.86%) and Soybeans (1.67%). Biggest losers are Oat (-3.54%) and Wool (-2.31%).
+
+---
+
+### 2026-06-26 02:24:18  #MKT News #WTI #Impact mixed #Brent
+
+【IMO pauses Strait of Hormuz ship evacuations after reported attack】International Maritime Organization (IMO) Secretary-General Arsenio Domingues said the IMO has paused an evacuation plan for vessels in the Strait of Hormuz, launched earlier this week, after a reported attack today on a vessel off the Omani coast in the Gulf of Oman. A UK maritime agency reported the attack; the vessel was not operating under the IMO evacuation framework. Domingues said the pause will allow the IMO to reconfirm the evacuation list and verify that all vessels in the area have necessary security protections.
+
+---
+
+### 2026-06-26 02:20:30  #市場 #國際
+
+原油期貨漲幅擴大，美國汽油價格上漲5%。
+
+---
+
+### 2026-06-26 02:20:11  #Trading Economics #Markets #Commodity #Importance 1
+
+Metals Commodities Updates: Copper Gains by 2.22% — Top commodity gainers are Copper (2.22%), Silver (1.68%), Platinum (1.33%) and Gold (0.96%). Biggest losers are Iron Ore CNY (-1.21%), Steel Rebar (-0.78%) and Silicon (-0.66%).
+
+---
+
+### 2026-06-26 02:20:01  #MKT News #XAUUSD #Impact bullish #DXY #WTI
+
+【Explosions heard in Kyiv】Around 9:00 p.m. local time on the 25th a reporter in Kyiv heard multiple strong explosions. Kyiv Mayor Klitschko and the city military administration said on social media that Russian forces launched ballistic missiles at Kyiv and that the city’s air-defence system is operating.
+
+---
+
+### 2026-06-26 02:20:00  #國際
+
+【烏克蘭首都基輔傳出爆炸聲】當地時間25日晚9時許，記者在烏克蘭首都基輔聽到多次強烈爆炸聲。基輔市市長克利奇科和基輔市軍事管理局在社交媒體上說，俄軍向基輔市發射了彈道導彈，基輔市防空系統正在執行。（新華社）
+
+---
+
+### 2026-06-26 02:19:32  #MKT News #Macro & Rates #The Fed (FOMC)
+
+Fed's GOOLSBEE welcomed the move to simplify the Federal Reserve's policy statement.
+
+---
+
+### 2026-06-26 02:18:47  #央行 #國際
+
+美聯儲古爾斯比：我支援精簡美聯儲貨幣政策宣告。
+
+---
+
+### 2026-06-26 02:17:18  #市場 #央行 #國際
+
+【凱投宏觀：金和白銀結束連跌勢頭，但黃金仍有進一步下跌的空間】黃金和白銀結算價雙雙走高，結束了兩者連續四天的跌勢。凱投宏觀的Hamad Hussain表示，儘管今天收盤上漲，但黃金仍有進一步下跌的空間，他不認為4,000美元是底部。“我們認為，黃金市場可能會擠出更多過度投機的成分，“他說。他將此歸因於AI/科技股繼續成為投機者首選的賺錢工具，以及市場認為由Kevin Warsh領導的美聯儲將在利率問題上保持偏緊縮立場的觀點。近月黃金期貨收盤上漲1%，至每盎司4,030.50美元，而白銀收盤上漲0.5%，至每盎司58.348美元。
+
+---
+
+### 2026-06-26 02:16:04  #央行 #其他
+
+墨西哥央行公佈比索官方匯率：1 美元兌 17.5260 墨西哥比索。
+
+---
+
+### 2026-06-26 02:15:52  #MKT News #Macro & Rates #The Fed (FOMC) #DXY #Impact bullish #US10Y #Impact bearish #EURUSD
+
+Fed's GOOLSBEE said inf may rise before wages increase.
+
+---
+
+### 2026-06-26 02:15:33  #市場 #央行 #國際
+
+美聯儲古爾斯比：脹可能在薪資上漲之前先行攀升。
+
+---
+
+### 2026-06-26 02:15:25  #央行 #國際
+
+美聯儲古爾斯比：薪資並非衡量通脹的理想先行指標。
+
+---
+
+### 2026-06-26 02:15:25  #MKT News #Macro & Rates #The Fed (FOMC)
+
+Fed's Goolsbee said wages are not a good leading indicator of inflation.
+
+---
+
+### 2026-06-26 02:15:16  #MKT News #Macro & Rates #DXY #Impact bullish #US10Y #Impact bearish #S&P500
+
+GOOLSBEE said a rise in core CPI driven by services would be more concerning than one driven by goods or oil-related items.
+
+---
+
+### 2026-06-26 02:15:11  #Trading Economics #Markets #Commodity #Importance 1
+
+Energy Commodities Updates: Gasoline Rises by 4.94% — Top commodity gainers are Gasoline (4.94%), Heating Oil (4.44%), Natural gas (3.12%), Crude Oil WTI (2.18%) and Brent Crude Oil (1.87%). Biggest losers are Methanol (-1.77%), Germany Natural Gas THE (-1.32%) and Natural Gas EU (-0.66%).
+
+---
+
+### 2026-06-26 02:14:40  #市場 #央行 #國際
+
+美聯儲古爾斯比：若核心消費者物價指數上漲由服務業驅動，相比商品或石油相關品類上漲，這會更令我擔憂。
+
+---
+
+### 2026-06-26 02:14:22  #Trading Economics #Markets #commodity #Importance 0
+
+Gasoline is up by 5% — Gasoline increased 5% to 3.0258 USD/Gal
+
+---
+
+### 2026-06-26 02:14:03  #央行 #國際
+
+美聯儲古爾斯比：認同沃什關於前瞻指引的觀點。
+
+---
+
+### 2026-06-26 02:13:16  #MKT News #Important #Brent #Impact bullish #WTI #S&P500 #Impact bearish
+
+【WSJ: Iran attack on Singapore-flagged freighter tests US-Iran ceasefire deal】Two US senior officials told the Wall Street Journal that Iran’s Islamic Revolutionary Guard Corps attacked a Singapore-flagged freighter in the Strait of Hormuz on Thursday, an incident that tests last week’s US-Iran agreement to end hostilities and reopen the vital shipping lane. The UK Maritime Trade Operations said the vessel’s wheelhouse was damaged but there were no injuries; the strike occurred near Oman’s coast. Iranian paramilitary naval forces had warned hours earlier that ships must not use unapproved routes.
+
+---
+
+### 2026-06-26 02:13:00  #公司 #國際
+
+【EDF擬就出售小型模組化反應堆子公司股權與義大利企業展開談判】據知情人士透露，法國電力公司（EDF）準備就出售其小型模組化核反應堆子公司的股權事宜，與義大利企業展開談判。週四在法國昂蒂布舉行的法意兩國領導人會晤期間，法國總統馬克龍與義大利總理焦爾吉婭·梅洛尼討論了Nuward子公司的相關計劃。EDF旗下的義大利子公司愛迪生公司（Edison）已與義大利核能企業簽署宣告，共同開發Nuward小型模組化反應堆技術，目標是在2035年前實現首批電廠投入運營。該專案旨在設計和建造小型反應堆，為更廣泛的客戶群提供低碳電力和熱能。由於電力成本高昂，義大利正考慮重返核電領域。
+
+---
+
+### 2026-06-26 02:12:58  #MKT News #Macro & Rates #The Fed (FOMC) #DXY #Impact bullish #S&P500 #Impact bearish #XAUUSD
+
+Fed's Goolsbee said core inflation remains too high and is trending in the wrong direction.
+
+---
+
+### 2026-06-26 02:12:49  #央行 #國際
+
+美聯儲古爾斯比：核心通脹仍過高，走勢方向錯誤。
+
+---
+
+### 2026-06-26 02:11:44  #央行 #國際
+
+美聯儲古爾斯比：但當前通脹水平仍遠高於目標區間。
+
+---
+
+### 2026-06-26 02:11:40  #MKT News
+
+GOOLSBEE said it remains well above the required level.
+
+---
+
+### 2026-06-26 02:11:28  #MKT News #Macro & Rates #The Fed (FOMC) #S&P500 #Impact bullish #US10Y #DXY #Impact bearish
+
+Fed's Goolsbee sees some hopeful signs in services inflation.
+
+---
+
+### 2026-06-26 02:11:27  #央行 #國際
+
+美聯儲古爾斯比：服務業通脹方面看到一些希望的曙光。
+
+---
+
+### 2026-06-26 02:11:19  #MKT News
+
+Boeing expects the first satellite to be delivered in 2031.
+
+---
+
+### 2026-06-26 02:11:07  #MKT News #BA.O #Impact bullish
+
+Boeing selected by the U.S. Space Force to expand military communications capabilities.
+
+---
+
+### 2026-06-26 02:10:59  #公司
+
+波音公司：MUOS衛星壽命延長合同價值高達20億美元，包括兩顆窄帶通訊衛星，首顆將於2031年交付。
+
+---
+
+### 2026-06-26 02:10:38  #國際
+
+波音：波音獲美國太空軍選定，負責擴大全球安全軍事通訊覆蓋範圍。
+
+---
+
+### 2026-06-26 02:10:30  #MKT News
+
+Fed's GOOLSBEE: Spending now premised on future returns makes me nervous about potential inf pressures.
+
+---
+
+### 2026-06-26 02:10:24  #央行 #國際
+
+美聯儲古爾斯比：當前支出依賴未來收益的狀況，令我對潛在通脹壓力感到擔憂。
+
+---
+
+### 2026-06-26 02:10:19  #MKT News #DXY #Impact bullish #US10Y #S&P500 #Impact bearish
+
+Fed's GOOLSBEE said the economy could overheat if equities price in AI-driven future productivity gains and that pricing prompts higher consumer spending.
+
+---
+
+### 2026-06-26 02:09:50  #央行 #國際
+
+美聯儲古爾斯比：如果人工智慧帶來的未來生產率提升已經被計入股價，民眾開始以此為基礎增加支出，這種情況可能會導致經濟過熱。
+
+---
+
+### 2026-06-26 02:08:58  #公司
+
+【微軟漲價公告恰逢《俠盜獵車手VI》預購日】微軟關於Xbox主機漲價的公告恰逢玩家的一個重要日子：期待已久的《俠盜獵車手VI》開啟預購。該遊戲由Take-Two Interactive Software開發多年，預計將成為迄今為止GTA系列中最受矚目的作品。微軟的漲價將於8月生效，這可能會激勵玩家在該遊戲11月首發之前儘早購買主機。
+
+---
+
+### 2026-06-26 02:08:17  #MKT News #Macro & Rates
+
+Fed Chair Goolsbee said the balance sheet has been used as a monetary policy tool in emergencies, but is not generally regarded as a routine policy instrument.
+
+---
+
+### 2026-06-26 02:08:13  #央行 #國際
+
+美聯儲古爾斯比：在緊急情況下，資產負債表曾被用作貨幣政策工具，但通常不應這樣看待。
+
+---
+
+### 2026-06-26 02:07:59  #國際
+
+新興市場外匯指數漲幅收窄，因有訊息稱伊朗在霍爾木茲海峽襲擊船隻。
+
+---
+
+### 2026-06-26 02:07:53  #MKT News #Macro & Rates #The Fed (FOMC) #DXY #Impact mixed #US10Y #S&P500
+
+Fed's Goolsbee said the working group set up by the Fed chair will prudently consider various options for the dot plot; he welcomed the move.
+
+---
+
+### 2026-06-26 02:07:37  #MKT News #Macro & Rates #The Fed (FOMC)
+
+Fed's Goolsbee: Don't hate the 'dot plot'.
+
+---
+
+### 2026-06-26 02:07:27  #MKT News #Macro & Rates #The Fed (FOMC)
+
+Fed's GOOLSBEE said he does not want to commit to forecasts for the next several years.
+
+---
+
+### 2026-06-26 02:07:22  #MKT News #Macro & Rates #The Fed (FOMC)
+
+Goolsbee says he has long been uneasy about forward guidance.
+
+---
+
+### 2026-06-26 02:07:14  #央行 #國際
+
+美聯儲古爾斯比：美聯儲主席工作組將全面考量點陣圖的各種選項，對此表示歡迎。
+
+---
+
+### 2026-06-26 02:07:06  #國際
+
+美國訊息：一犯罪網路企圖非法走私剛果（金）礦產 。
+
+---
+
+### 2026-06-26 02:06:47  #央行 #國際
+
+美聯儲古爾斯比：牴觸點陣圖。
+
+---
+
+### 2026-06-26 02:06:32  #央行 #國際
+
+美聯儲古爾斯比: 但不想對多年後的預測做出承諾。
+
+---
+
+### 2026-06-26 02:06:21  #市場
+
+原油價格觸及盤中高點，布倫特原油價格突破75美元/桶。
+
+---
+
+### 2026-06-26 02:06:17  #國際
+
+市場訊息： 基輔遭遇彈道導彈襲擊。
+
+---
+
+### 2026-06-26 02:05:46  #MKT News
+
+NATO Secretary-General Rutte said NATO will pledge support for Ukraine at the summit and that Ukrainian President Zelenskiy will attend.
+
+---
+
+### 2026-06-26 02:05:40  #國際
+
+呂特：北約將在峰會上承諾對烏支援，澤連斯基將出席。
+
+---
+
+### 2026-06-26 02:05:36  #MKT News #Macro & Rates #The Fed (FOMC) #DXY #Impact bullish #US10Y #Impact bearish #S&P500
+
+Fed's Goolsbee said inflation is clearly the problem.
+
+---
+
+### 2026-06-26 02:05:14  #央行 #國際
+
+美聯儲古爾斯比：使命中通脹方面顯然是當前問題。
+
+---
+
+### 2026-06-26 02:05:14  #MKT News #Important #Macro & Rates #The Fed (FOMC) #US Economy #S&P500 #Impact bullish #DXY #Impact bearish #XAUUSD
+
+Fed's Goolsbee said the PCE report was not entirely negative.
+
+---
+
+### 2026-06-26 02:05:12  #MKT News
+
+GOOLSBEE said the services sector has shown slight improvement.
+
+---
+
+### 2026-06-26 02:05:11  #MKT News #Macro & Rates #The Fed (FOMC) #US10Y #Impact bullish #DXY #XAUUSD #Impact bearish
+
+Federal Reserve's GOOLSBEE said inf requires continued monitoring.
+
+---
+
+### 2026-06-26 02:05:11  #MKT News
+
+GOOLSBEE said part of the reason was 'one-off' factors.
+
+---
+
+### 2026-06-26 02:05:04  #MKT News #LMT.O #Impact bullish #NOC.O #RTX.O
+
+NATO Secretary-General Rutte said NATO will announce new contracts worth tens of billions of dollars at the upcoming NATO summit.
+
+---
+
+### 2026-06-26 02:05:04  #MKT News #Macro & Rates #DXY #Impact bullish #US10Y #S&P500 #Impact bearish
+
+Fed's Goolsbee said services-sector inflation is somewhat concerning.
+
+---
+
+### 2026-06-26 02:05:04  #MKT News #Important #Macro & Rates #The Fed (FOMC) #DXY #Impact bullish #USDJPY #XAUUSD #Impact bearish
+
+Federal Reserve's Goolsbee says inflation is moving in the wrong direction.
+
+---
+
+### 2026-06-26 02:05:03  #MKT News #Macro & Rates #The Fed (FOMC)
+
+Fed's Goolsbee: Difficult to disentangle inf dynamics and to judge whether it is persistent or transitory.
+
+---
+
+### 2026-06-26 02:04:57  #央行 #國際
+
+美聯儲的古爾斯比：服務業出現了一些改善。
+
+---
+
+### 2026-06-26 02:04:54  #央行 #國際
+
+美聯儲古爾斯比：PCE報告並非全然負面。
+
+---
+
+### 2026-06-26 02:04:48  #央行 #國際
+
+美聯儲古爾斯比：需持續監測通脹走勢。
+
+---
+
+### 2026-06-26 02:04:44  #央行 #國際
+
+美聯儲古爾斯比：服務業通脹走勢更令人不安。
+
+---
+
+### 2026-06-26 02:04:43  #MKT News #Commodities #Precious Metals #XAUUSD #Impact bullish #DXY
+
+U.S. Treasury sanctions a Rwandan gold refinery and a network that facilitated illicit conflict-mineral trade.
+
+---
+
+### 2026-06-26 02:04:37  #MKT News #Brent #Impact bullish #WTI
+
+International Maritime Organization (IMO) said it has suspended evacuation operations in the Strait of Hormuz after a vessel was attacked in the Gulf of Oman.
+
+---
+
+### 2026-06-26 02:04:37  #MKT News
+
+NATO Secretary General Rutte said boosting production requires overcoming a fragmented defense industry.
+
+---
+
+### 2026-06-26 02:04:29  #央行 #國際
+
+美聯儲的古爾斯比：其中部分是由一次性因素所驅動。
+
+---
+
+### 2026-06-26 02:04:23  #其他
+
+呂特：北約將在北約峰會上宣佈價值數百億美元的新防務合同。
+
+---
+
+### 2026-06-26 02:04:18  #央行 #國際
+
+美聯儲的古爾斯比：通脹走勢方向錯誤。
+
+---
+
+### 2026-06-26 02:04:17  #MKT News
+
+NATO Secretary General Rutte said US and European weapons manufacturers have boosted production to increase supplies, but further effort is still required.
+
+---
+
+### 2026-06-26 02:03:56  #央行 #國際
+
+美聯儲古爾斯比接受採訪：目前難以明確通脹是持續粘性還是暫時屬性。
+
+---
+
+### 2026-06-26 02:03:08  #其他
+
+北約秘書長呂特：提振產能需破除各國國防工業碎片化格局。
+
+---
+
+### 2026-06-26 02:02:35  #其他
+
+巴黎警察局長：為應對熱浪影響，從週五中午起將實施公共場合禁酒令。
+
+---
+
+### 2026-06-26 02:02:16  #宏觀 #市場 #國際
+
+美國財政部：財政部對盧安達黃金精煉廠及助力非法衝突礦產貿易的相關網路實施制裁.
+
+---
+
+### 2026-06-26 02:02:11  #市場 #焦點
+
+WTI原油突破72美元/桶，日內漲2.37%。
+
+---
+
+### 2026-06-26 02:02:03  #其他
+
+國際海事組織：阿曼灣一艘船隻遇襲後，霍爾木茲海峽暫停人員疏散.
+
+---
+
+### 2026-06-26 02:01:54  #公司 #焦點 #國際
+
+【伊朗襲擊貨輪，考驗特朗普重啟海峽通航的相關協議】兩名美國高階官員透露，伊朗伊斯蘭革命衛隊於週四在霍爾木茲海峽襲擊了一艘新加坡籍貨輪，此舉令美伊上週簽署的停火、恢復這條關鍵航運要道通航協議面臨考驗。英國海上貿易行動辦公室表示，此次襲擊造成船舶駕駛臺受損，但未出現人員傷亡。事發地點位於阿曼海岸附近，數小時前，這支伊朗準軍事海上力量剛剛警告船隻不得走該國未認可的海峽航道。白宮暫未回應媒體關於此次襲擊及其對協議影響的置評請求。船舶追蹤平臺 Marine Traffic 資訊顯示，遭襲貨輪 “Ever Lovely” 此前在伊拉克烏姆卡斯爾港裝載貨物，目的地為新加坡。金融資料服務商倫敦證券交易所集團（LSEG）資料顯示，“Ever Lovely” 已在波斯灣滯留超 100 天。當地時間週四清晨，該船駛向海峽入海口，另有三艘船舶也幾乎在同一時段嘗試過境。
+
+---
+
+### 2026-06-26 02:01:15  #其他
+
+北約秘書長呂特：美歐軍工企業已擴大產能以增加供應，但仍需加大投入.
+
+---
+
+### 2026-06-26 02:00:52  #市場
+
+布倫特原油日內漲2%，現報75.35美元/桶。
+
+---
+
+### 2026-06-26 02:00:39  #MKT News #Important #WTI #Impact bullish #Brent
+
+The Wall Street Journal reported two senior U.S. officials said the Islamic Revolutionary Guard Corps attacked a cargo ship in the Strait of Hormuz on Thursday, testing last week’s U.S.-Iran agreement aimed at ending hostilities and reopening the strategic waterway.
+
+---
+
+### 2026-06-26 01:59:32  #焦點 #國際
+
+美國官員訊息：伊朗在霍爾木茲海峽襲擊一艘船隻。
+
+---
+
+### 2026-06-26 01:59:14  #其他
+
+市場訊息：委內瑞拉計劃從其所持在國際貨幣基金組織的45億美元特別提款權中，先行提取2億美元，用於地震災後重建。
+
+---
+
+### 2026-06-26 01:58:22  #MKT News
+
+Market sources: Venezuela will use its funds at the International Monetary Fund for post-earthquake reconstruction.
 
 ---
 
@@ -20019,481 +20757,5 @@ Qualcomm and Hugging Face expand their partnership to advance open, developer-dr
 ### 2026-06-25 04:29:42  #其他
 
 高通預計將在資料中心領域搶佔超過5%的市場份額。預計2029財年IoT營收將為140億美元。
-
----
-
-### 2026-06-25 04:29:25  #MKT News
-
-iShares MSCI Korea ETF rose 6.4% in U.S. after-hours trading.
-
----
-
-### 2026-06-25 04:28:25  #公司
-
-高通首席財務官：公司目標 2029 財年汽車業務營收約 100 億美元。
-
----
-
-### 2026-06-25 04:27:44  #其他
-
-高通稱有望成為全球最大車用晶片廠商。
-
----
-
-### 2026-06-25 04:27:22  #國際
-
-【魯比奧：美伊技術性談判將於月底恢復】美國國務卿魯比奧24日在科威特城表示，美國和伊朗之間的技術性談判將於本月底恢復，談判很可能在瑞士舉行。魯比奧在結束訪問科威特、前往巴林前對媒體記者表示，美國在涉伊朗問題的處理上不會損害海灣地區盟友的安全。“我們將與海灣地區的夥伴完全保持一致。”（新華社）
-
----
-
-### 2026-06-25 04:27:05  #Trading Economics #Markets #Canada #Stock Market #Importance 1
-
-TSX Dips on Mining and Energy Losses — The S&P/TSX Composite Index fell 0.5% to close at 34,736, pressured by weakness in commodity-linked sectors. Gold prices declined as the dollar strengthened on rising bets for further US rate hikes, weighing on mining shares. Agnico Eagle lost 4.1%, Barrick shed 4.3%, and WPM retreated 2.9%. Oil prices also extended this week’s losses on signs that more tankers are set to leave the Strait of Hormuz, pressuring energy stocks. Canadian Natural dropped 3.7%, Suncor fell 3.4%, and Cenovus lost 4.1%. In contrast, Canadian technology stocks rebounded from the previous session’s global selloff, with Shopify rising 6.1%, Constellation Software up 2.8%, and Celestica gaining 3.3% ahead of Micron’s earnings report. Micron reported third-quarter results above expectations after the bell.
-
----
-
-### 2026-06-25 04:27:00  #國際
-
-特朗普談及英國伯納姆：其大機率不會放開北海油氣開發，  我聽說他是極度自由主義者。
-
----
-
-### 2026-06-25 04:25:51  #其他
-
-高通首席財務官：兩大超大規模定製晶片客戶將在 2027 財年帶來 10 億美元營收。
-
----
-
-### 2026-06-25 04:25:32  #公司
-
-高通首席財務官：公司目標 2029 財年資料中心業務營收超 150 億美元。
-
----
-
-### 2026-06-25 04:25:23  #國際
-
-北約秘書長呂特：特朗普對北約的不滿只是個別情況。
-
----
-
-### 2026-06-25 04:25:01  #MKT News
-
-Congressional sources said the Trump administration submitted an $87.6 billion supplemental budget request to Congress.
-
----
-
-### 2026-06-25 04:24:43  #國際
-
-國會知情人士透露，特朗普政府已向國會提交 876 億美元補充預算申請。
-
----
-
-### 2026-06-25 04:24:28  #公司
-
-高通首席財務官：公司目標 2027 財年實現 50 億美元人工智慧資料中心業務營收。
-
----
-
-### 2026-06-25 04:24:10  #國際
-
-特朗普：我們對德國、法國和西班牙感到失望。
-
----
-
-### 2026-06-25 04:23:47  #公司 #市場 #央行 #國際
-
-【美國大型銀行透過美聯儲壓力測試 為派息和回購鋪平道路】美國所有大型銀行均透過美聯儲年度壓力測試，為這些銀行提高回購和派息鋪平道路。壓力測試旨在評估華爾街銀行在假設金融體系遭遇衝擊的情況下將表現如何。與往年不同，2026年的測試結果將不會影響資本要求，目前美聯儲仍在修訂測試機制，以使其對銀行更加友好。美聯儲週三在宣告中表示，鑑於這一決定，“並不預期這些機構會推遲到某個特定時間點才公開披露其截至2027年第三季度的計劃資本行動”。今年的測試評估了32家大型銀行在全球經濟嚴重衝擊情景下的承壓能力，測試假設商業和住宅房地產市場以及公司債市場面臨高度壓力。假設情景包括全球經濟嚴重衰退、商業地產價格下跌39%、住宅價格下跌30%。並且失業率升至10%的峰值，同時經濟產出相應下滑。美聯儲表示：“儘管在今年的假設情景下，銀行體系共吸收了超過7,080億美元貸款損失，但整體資本僅下降1.6個百分點，仍高於最低資本要求。”
-
----
-
-### 2026-06-25 04:23:16  #國際
-
-特朗普： 北約秘書長呂特做得非常出色。
-
----
-
-### 2026-06-25 04:23:14  #MKT News
-
-Pezeshkian said Iran's dignity and pride derive from the guidance of the revolutionary martyrs' leader and pledged to steadfastly continue that leader's path.
-
----
-
-### 2026-06-25 04:21:29  #其他
-
-高通預計到 2029 財年，非手機業務營收將達 400 億美元。
-
----
-
-### 2026-06-25 04:20:42  #國際
-
-特朗普：歐洲在伊朗戰爭期間沒有支援美國。
-
----
-
-### 2026-06-25 04:20:31  #市場 #央行 #國際
-
-【拉美外匯觸及兩週低點，美元走強與大宗商品施壓股市】週三，拉丁美洲的股市和貨幣雙雙下滑，受到強勢美元的壓力。與此同時，投資者也在權衡近期由秘魯和哥倫比亞右翼候選人勝選所引發的市場反彈能否持續。追蹤拉美貨幣的MSCI指數下跌0.5%，觸及兩週多以來的低點。美元延續漲勢，攀升至13個月高點。在全球市場週二出現科技股領跌的拋售後，投資者紛紛湧入美元避險，加之市場對美聯儲加息的預期升溫。秘魯股市和哥倫比亞股市分別下跌0.8%和1.9%，兩國市場均可能連續第三個交易日收跌。貨幣市場表現同樣不佳，秘魯索爾跌0.5%，哥倫比亞比索從五年多高點回落，走弱0.3%。
-
----
-
-### 2026-06-25 04:20:05  #MKT News #Important #MU.O
-
-Micron Technology will begin its fiscal 2026 third-quarter earnings call in 10 minutes.
-
----
-
-### 2026-06-25 04:19:25  #MKT News #MU.O #Impact bullish
-
-Micron Technology (MU.O) said strategic customer agreements signed to date are expected to provide about $22 billion in cash deposits and related financial commitments.
-
----
-
-### 2026-06-25 04:19:02  #MKT News #MU.O #Impact bullish
-
-Micron Technology (MU.O) said it expects to gradually return all excess cash to shareholders.
-
----
-
-### 2026-06-25 04:18:44  #MKT News #MU.O
-
-Micron Technology (MU.O) said potential impacts from trade or geopolitical developments are not included in its earnings guidance.
-
----
-
-### 2026-06-25 04:18:13  #公司
-
-明晟公司（MSCI）：霍尼韋爾航空航天板塊將於 2026 年 6 月 30 日納入 MSCI 全球標準指數及大盤股指數。
-
----
-
-### 2026-06-25 04:18:11  #MKT News #MU.O #Impact mixed
-
-Micron Technology (MU.O) expects capex in each quarter of fiscal 2027 to exceed fiscal 2026 Q4 levels.
-
----
-
-### 2026-06-25 04:17:58  #其他
-
-傑富瑞第二季度淨收入為22.1億美元，預估為22.2億美元；第二季度每股收益1.02美元，預期為1.24美元。
-
----
-
-### 2026-06-25 04:17:49  #公司 #焦點 #國際
-
-美光科技：計劃提高資本回報。預計2027財年的專案運營費用將增加約10億美元。預計第四財季資本支出約為100億美元。預計2026財年全年資本支出約為270億美元。
-
----
-
-### 2026-06-25 04:17:27  #MKT News #Important #MU.O
-
-Micron Technology (MU.O) expects FY2026 capital expenditure of about $27 billion.
-
----
-
-### 2026-06-25 04:16:37  #其他
-
-高通首席財務官：未來營收、每股收益增速將大幅提升。
-
----
-
-### 2026-06-25 04:16:36  #MKT News #Important #MU.O #Impact mixed
-
-Micron Technology (MU.O) CEO said he expects capex of about $10 billion in the fourth fiscal quarter.
-
----
-
-### 2026-06-25 04:15:57  #MKT News #MU.O #Impact bearish
-
-Micron Technology (MU.O) CEO said project-related operating expenses in fiscal 2027 are expected to rise by about $1 bln.
-
----
-
-### 2026-06-25 04:15:55  #其他
-
-【SpaceX投資者David George看好星艦 稱發展太空AI算力不可避免】SpaceX投資者、Andreessen Horowitz LLC普通合夥人David George表示，新型星艦火箭的“快速可重複使用”特性，對於實現埃隆·馬斯克利用軌道資料中心擴充套件AI算力的願景至關重要。George週三在接受採訪時表示，一旦星艦投入使用，將那些能力拓展至太空是不可避免的，因為地球上的AI資料中心容量正日益受限。他提出了一個看待這些未來衛星的新視角：“太空中飛機大小的GPU機架”。“至少，軌道資料中心將作為地球現有設施之外的補充算力存在於太空中，”George說，從經濟角度看，太空基礎設施最終可能比地面設施更具優勢。他還指出，SpaceX已經展示了部署此類系統的技術能力。
-
----
-
-### 2026-06-25 04:15:18  #MKT News #MU.O #Impact bullish
-
-Micron Technology (MU.O) CEO says the company plans to increase capital returns.
-
----
-
-### 2026-06-25 04:15:08  #公司 #觀點 #焦點 #國際
-
-高盛計劃將派息從每股4.50美元提高至每股5美元。
-
----
-
-### 2026-06-25 04:14:47  #公司 #其他 #焦點 #國際
-
-美光科技：目前無法預測記憶體供應何時能趕上需求；預計緊張局面將持續到2027年之後。
-
----
-
-### 2026-06-25 04:13:47  #MKT News #Important #MU.O #Impact bullish
-
-Micron Technology (MU.O) CEO said he cannot predict when memory supply will catch up to demand and expects the tight supply-demand balance to persist beyond 2027.
-
----
-
-### 2026-06-25 04:13:09  #MKT News #Market Themes #Chip Wars #MU.O #Impact bullish
-
-Micron Technology (MU.O) says R&D on next-generation DRAM and NAND nodes is progressing well and expects to begin mass production in H2 2027.
-
----
-
-### 2026-06-25 04:13:01  #MKT News #MU.O #Impact bullish
-
-Micron Technology (MU.O) said the mass-production ramp of its 12-layer HBM4 is currently twice that of the 12-layer HBM3E; the company has delivered more than $1 bln in cumulative HBM4 revenue.
-
----
-
-### 2026-06-25 04:12:45  #MKT News #Important #Market Themes #AI Revolution #MU.O #Impact bullish #Nasdaq100 #S&P500
-
-【Micron posts strong results, rises nearly 10% after hours】Micron Technology said it expects fourth fiscal-quarter revenue of $50.0 bln +/- $1.0 bln, above analysts' average forecast of $43.58 bln, and attributed strength to continued demand for AI-related infrastructure. The company said generative AI growth has made HBM and similar products essential for large data centres, driving sharp price gains. Third-quarter revenue was $41.4 bln, beating expectations of $35.4 bln. Micron shares rose about 10% in after-hours trading.
-
----
-
-### 2026-06-25 04:11:44  #公司
-
-高通執行長：公司將擴大與 Hugging Face 的戰略合作關係。
-
----
-
-### 2026-06-25 04:11:20  #MKT News #WTI #Impact bearish #Brent
-
-U.S. official says Trump will include language in a supplemental appropriations bill to allow year‑round sales of gasoline blended with a higher ethanol share.
-
----
-
-### 2026-06-25 04:10:53  #其他
-
-美光科技：下一代 DRAM 與 NAND 製程研發進展順利，按計劃將於 2027 年下半年啟動量產。
-
----
-
-### 2026-06-25 04:10:28  #Trading Economics #Markets #United States #Stock Market #Importance 2
-
-Wall Street Closes Mixed Ahead of Micron Earnings — US equities closed mixed on Wednesday as losses in chipmakers ahead of Micron earnings weighed. The S&P 500 fell 0.1%, while the Nasdaq 100 lost 0.4%. Micron dropped 0.4% ahead of its earnings report, due after the bell, as investors focus on whether AI-driven demand can sustain the sector’s rally. The move followed a 13% plunge in the previous session amid growing concerns that capital expenditure by AI companies may have become excessive. Other semiconductor producers also traded lower, with Nvidia down 0.7%, and Intel shedding 0.3%. AI-related fundraising remained elevated, with SK Hynix reportedly seeking to raise $29 billion through a US listing, shortly after SpaceX’s record IPO. Other sectors found support from lower Treasury yields as prospects of restored energy exports from the Middle East eased inflation concerns. The Dow Jones outperformed, rising 182 points, aided by its exposure to traditional sectors, ahead of Alphabet replacing Verizon in the index on Monday.
-
----
-
-### 2026-06-25 04:10:25  #國際
-
-美國官員：特朗普將在補充撥款法案中納入全年銷售高乙醇含量汽油的相關條款。
-
----
-
-### 2026-06-25 04:10:08  #其他
-
-美光科技：HBM4 12 層堆疊晶片量產爬坡速度是 HBM3E 12 層堆疊的兩倍；HBM4 相關出貨營收已超 10 億美元。
-
----
-
-### 2026-06-25 04:09:44  #公司 #觀點 #焦點 #國際
-
-摩根大通將股息上調至每股 1.65 美元，計劃實施 500 億美元股票回購。
-
----
-
-### 2026-06-25 04:09:21  #市場
-
-美光科技美股盤後漲超9%。
-
----
-
-### 2026-06-25 04:08:38  #MKT News #Important #MU.O #Impact bullish
-
-Micron Technology (MU.O) extended after-hours gains to 7.5%.
-
----
-
-### 2026-06-25 04:08:26  #其他
-
-美光科技：根據目前已簽署的戰略客戶協議，預計將獲得 220 億美元現金保證金及相關資金承諾。
-
----
-
-### 2026-06-25 04:08:08  #公司 #其他 #焦點 #國際
-
-美光科技：長期來看，我們計劃將全部富餘現金返還給股東。
-
----
-
-### 2026-06-25 04:07:17  #公司 #市場 #國際
-
-Hertz Global（HTZ）股價下跌41%，創該公司美國IPO以來最大單日跌幅。
-
----
-
-### 2026-06-25 04:06:48  #宏觀
-
-美光科技：我們給出的業績指引並未納入貿易或地緣政治局勢變化可能帶來的各類影響。
-
----
-
-### 2026-06-25 04:06:35  #公司
-
-AI初創公司Mirendil按10億美元估值融資2億美元，英偉達、A16Z、Kleiner Perkins參與投資。
-
----
-
-### 2026-06-25 04:06:11  #MKT News #MU.O #Impact bullish
-
-Micron Technology (MU.O) expects adjusted gross margin for the fiscal fourth quarter of about 86%, versus prior guidance of 83.6%.
-
----
-
-### 2026-06-25 04:05:42  #其他
-
-美光科技：受全領域人工智慧相關需求推動，晶片供應緊張局面預計將持續至 2027 年之後。
-
----
-
-### 2026-06-25 04:05:28  #市場
-
-【美元指數24日上漲】衡量美元對六種主要貨幣的美元指數當天上漲0.2%，在匯市尾市收於101.611。截至紐約匯市尾市，1歐元兌換1.1355美元，低於前一交易日的1.1379美元；1英鎊兌換1.3162美元，低於前一交易日的1.3188美元。1美元兌換161.76日元，高於前一交易日的161.57日元；1美元兌換0.8124瑞士法郎，高於前一交易日的0.8100瑞士法郎；1美元兌換1.4237加元，高於前一交易日的1.4214加元；1美元兌換9.7714瑞典克朗，高於前一交易日的9.7466瑞典克朗。
-
----
-
-### 2026-06-25 04:05:24  #MKT News #DXY #Impact bullish #EURUSD #Impact bearish #USDJPY
-
-【Dollar index rises 0.2% to 101.611】Dollar index (DXY), which measures the dollar against six major currencies, rose 0.2% to 101.611. At the New York close EUR/USD 1.1355 (prev. 1.1379); GBP/USD 1.3162 (prev. 1.3188); USD/JPY 161.76 (prev. 161.57); USD/CHF 0.8124 (prev. 0.8100); USD/CAD 1.4237 (prev. 1.4214); USD/SEK 9.7714 (prev. 9.7466).
-
----
-
-### 2026-06-25 04:05:11  #市場
-
-【國際油價24日顯著下跌】截至當天收盤，紐約商品交易所8月交貨的輕質原油期貨價格下跌2.87美元，收於每桶70.34美元，跌幅為3.92%；8月交貨的倫敦布倫特原油期貨價格下跌3.34美元，收於每桶73.74美元，跌幅為4.33%。
-
----
-
-### 2026-06-25 04:05:07  #MKT News #MU.O #Impact bullish
-
-Micron Technology (MU.O): fiscal Q3 operating cash flow was $25.39 billion.
-
----
-
-### 2026-06-25 04:04:58  #MKT News #MU.O
-
-Micron Technology (MU.O) said it expects fourth fiscal quarter EPS of $30.73 ± $1.00.
-
----
-
-### 2026-06-25 04:04:17  #央行 #焦點 #國際
-
-美聯儲：最新壓力測試顯示，32 家大型銀行具備充足抵禦能力，即便遭遇嚴重經濟衰退仍可持續開展放貸業務。接受測試的銀行在假設情景下能夠承受超過7000億美元的損失，資本僅下降1.6%，仍然高於最低監管要求。
-
----
-
-### 2026-06-25 04:03:30  #其他
-
-美光：客戶需求快速增長。
-
----
-
-### 2026-06-25 04:03:18  #MKT News #Important #Market Themes #Chip Wars #MU.O #Impact bullish
-
-Micron Technology (MU.O) reported fiscal 2026 third-quarter EPS of $24.67, versus $20.42 expected and $1.68 a year earlier.
-
----
-
-### 2026-06-25 04:02:42  #MKT News #Important #MU.O #Impact bullish
-
-Micron Technology (MU.O) forecasts fourth-quarter revenue of $50.0 bln, versus market consensus of $42.915 bln.
-
----
-
-### 2026-06-25 04:02:33  #MKT News #Market Regions #Wall Street (US) #MU.O #Impact bullish
-
-U.S.-listed shares of Micron Technology (MU.O) rose more than 2% in after-hours trading.
-
----
-
-### 2026-06-25 04:02:06  #MKT News #Important #Market Themes #Chip Wars #MU.O #Impact bullish
-
-Micron Technology (MU.O) reported fiscal 2026 Q3 revenue of $41.456 bln, versus market expectation of $35.423 bln and $9.301 bln in the year-ago quarter.
-
----
-
-### 2026-06-25 04:01:30  #MKT News #Important #Macro & Rates #The Fed (FOMC) #S&P500 #Impact bullish #Dow
-
-Federal Reserve says banks included in its stress test would absorb more than $700bn of losses under the hypothetical scenario; capital falls only 1.6% and remains above minimum regulatory requirements.
-
----
-
-### 2026-06-25 04:01:18  #MKT News #Important #Star Stocks #Microsoft #Alibaba #Market Themes #Magnificent 7 #BABA.N #Impact bearish #MSFT.O #ORCL.N
-
-【US close: major indexes mixed; Nasdaq Golden Dragon China Index down 1.7%】US stocks closed mixed on Wednesday: Dow Jones Industrial Average +0.36%, S&P 500 -0.09%, Nasdaq Composite -0.40%. Notable movers: SpaceX (SPCX.O) -1.0%, Microsoft (MSFT.O) -2.0%, Oracle (ORCL.N) -4.5%. The Nasdaq Golden Dragon China Index fell 1.77%; Alibaba (BABA.N) down about 3%, Bilibili (BILI.O) up over 3%.
-
----
-
-### 2026-06-25 04:01:16  #公司 #其他 #焦點 #國際
-
-美光科技第三財季調整後營收414.6億美元，分析師預期356.9億美元。
-第三財季核心資料中心營收115.2億美元，分析師預期68億美元。
-第三財季雲端儲存營收137.7億美元，分析師預期106.9億美元。
-第三財季移動與客戶營收115.2億美元，分析師預期97.3億美元。
-第三財季調整後每股收益（EPS）為25.11美元，分析師預期20.49美元。
-第三財季調整後運營利潤336.8億美元，分析師預期278.6億美元。
-第三財季調整後毛利潤率84.9%，分析師預期81.9%。
-預計第四財季調整後營收490億-510億美元，分析師預期432.4億美元。
-預計第四財季調整後EPS為30-32美元，分析師預期25.31美元。
-
----
-
-### 2026-06-25 04:00:48  #市場 #焦點
-
-【美股收盤：三大股指集體漲跌不一】道指漲0.36%，標普500指數跌0.10%，納指跌0.46%。Strategy跌9.22%，阿波羅全球管理跌6.18%，黑石跌5.88%，羅賓漢跌5.83%，Builders FirstSource漲11.20%，Iqvia Holdings Inc.漲8.35%，查爾斯河實驗室漲8.30%。“七姐妹”方面：亞馬遜漲0.09%，谷歌跌0.40%，蘋果跌0.45%，英偉達跌0.54%，Meta Platforms跌0.79%，特斯拉跌1.64%，微軟跌2.33%。
-
----
-
-### 2026-06-25 04:00:13  #央行 #國際
-
-銀行透過美聯儲壓力測試，為股東分紅鋪平道路。
-
----
-
-### 2026-06-25 04:00:02  #市場 #焦點
-
-【納斯達克中國金龍指數收跌1.81%】金生遊樂跌14.84%，盛豐物流跌13.85%，海天網路跌9.77%，Tims中國跌9.38%，網易有道跌9.25%。
-
----
-
-### 2026-06-25 03:56:19  #MKT News #Important #Commodities #Energy #Brent #Impact bearish #WTI
-
-【Global crude futures retreat to pre-conflict levels】Brent settled down $3.34 (-4.3%) at $73.74/bbl and U.S. crude fell $2.87 (-3.9%) to $70.34/bbl, returning to levels seen before the US‑Israel‑Iran conflict erupted as more previously idled tankers left the Strait of Hormuz and supply concerns eased. ING said positive signals from the Persian Gulf are boosting optimism about restored flows through the Strait of Hormuz; vessel transits have risen but remain well below pre‑war levels.
-
----
-
-### 2026-06-25 03:55:27  #其他
-
-輝瑞：董事會批准每股 0.43 美元季度現金股息。
-
----
-
-### 2026-06-25 03:55:10  #MKT News #WTI #Impact bullish #Brent #XAUUSD
-
-【Iran's foreign ministry spokesman says US military presence, interventionism blocking regional peace】On the 24th, Iran's foreign ministry spokesman Baghaei wrote on social media that so long as US military presence and interventionism persist, and occupation forces acting as US proxies continue waging unending wars with impunity and committing genocide and other crimes, true peace in the region will be impossible.
-
----
-
-### 2026-06-25 03:55:02  #國際
-
-【伊朗外交部發言人：美國軍事與干涉主義阻礙地區和平】當地時間24日，伊朗外交部發言人巴加埃在其個人社交媒體平臺上表示，只要美國的軍事與干涉主義持續存在，只要作為其代理人的佔領軍在完全免責的情況下繼續對本地區施加無休止的戰爭，並實施種族滅絕及其他罪行，本地區就不可能實現真正的和平。（央視新聞）
-
----
-
-### 2026-06-25 03:54:55  #Trading Economics #Economy #Argentina #Current Account #Importance 1
-
-Argentina Current Account Deficit Narrows — Argentina posted a current account deficit of $1.651 billion in the first quarter of 2026, narrowing from a $5.158 billion gap a year earlier. The result reflected negative balances in the services account, at $4.028 billion, and primary income, at $4.676 billion, partially offset by a goods trade surplus of $6.339 billion and a secondary income surplus of $714 million. The year-on-year improvement was mainly supported by a $3.214 billion increase in goods exports, a $532 million reduction in the services deficit, and a $1.066 billion decline in goods imports. The secondary income account also rose by $354 million. Meanwhile, the primary income deficit widened by $1.658 billion compared with the same period last year.
-
----
-
-### 2026-06-25 03:54:01  #市場
-
-【比特幣再次跌破6萬美元關口 幾大支撐力量均現動搖】比特幣跌回6萬美元下方，重新喚起了過去兩年在加密貨幣市場基本上消失的一種擔憂：當散戶投資者失去興趣的時候，如果市場最大買家也受到壓力，會發生什麼。由於投資者對Michael Saylor旗下Strategy Inc.的融資機器日益擔憂，以及個人投資者更廣泛退場——其中許多人已將注意力和資金轉向人工智慧股票，週三比特幣跌破了一個受到密切關注的支撐位。“市場正在對MSTR和STRC進行整個的重新定價，”Monarq Asset Management管理合夥人Shiliang Tang表示。MSTR和STRC分別是Strategy普通股和優先股的股票程式碼。CoinGlass彙編的資料顯示，過去24小時，近8億美元加密貨幣多頭頭寸被強制平倉。Deribit資料顯示，這輪下跌發生在週五約100億美元比特幣期權的季度到期之前。
 
 ---
