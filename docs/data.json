@@ -1,7 +1,34 @@
 {
-  "updated": "2026-06-25 22:11:38",
-  "count": 16974,
+  "updated": "2026-06-25 22:15:44",
+  "count": 16961,
   "items": [
+    {
+      "id": "4955420",
+      "time": "2026-06-25 22:13:54",
+      "tags": [
+        "公司"
+      ],
+      "text": "巴西國家石油公司執行長表示，公司產量已接近每日300萬桶。"
+    },
+    {
+      "id": "mkt:019eff20-4a25-7dd8-b11e-c0a359ba1878",
+      "time": "2026-06-25 22:12:46",
+      "tags": [
+        "MKT News",
+        "BAYN.DE",
+        "Impact bullish"
+      ],
+      "text": "The U.S. Supreme Court ruled in favor of Bayer’s request to limit state courts’ jurisdiction over lawsuits alleging its Roundup herbicide causes cancer; Bayer shares jumped as much as 20% intraday after the ruling."
+    },
+    {
+      "id": "4955419",
+      "time": "2026-06-25 22:12:34",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "巴西央行官員：存在影響GDP預測的刺激效應，例如所得稅豁免及影響可支配收入的多項措施。"
+    },
     {
       "id": "4955418",
       "time": "2026-06-25 22:10:22",
@@ -154984,155 +155011,6 @@
         "焦點"
       ],
       "text": "現貨黃金失守4240美元/盎司，日內跌0.41%。"
-    },
-    {
-      "id": "mkt:019edb16-1ec4-7dd8-b080-a7feb36d519a",
-      "time": "2026-06-18 22:15:20",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Austria's chancellor said Europe should engage in dialogue with Putin."
-    },
-    {
-      "id": "4943765",
-      "time": "2026-06-18 22:15:09",
-      "tags": [
-        "國際"
-      ],
-      "text": "奧地利總理稱歐洲應與普京對話。"
-    },
-    {
-      "id": "mkt:019edb15-e0d2-7dd8-b080-989bd705ebd0",
-      "time": "2026-06-18 22:15:04",
-      "tags": [
-        "MKT News",
-        "GBPUSD",
-        "Impact bearish",
-        "DXY",
-        "Impact bullish"
-      ],
-      "text": "【TD Securities: Bank of England may resume cuts in 2027】A TD Securities strategist said the Bank of England could keep Bank Rate at 3.75% for the remainder of 2026 and resume cutting in 2027. Elevated uncertainty over the inflation outlook and UK political risk could prompt the BoE to hold rates. LSEG data show markets have fully priced a 25bp BoE hike in 2026."
-    },
-    {
-      "id": "mkt:019edb15-be07-7dd8-b080-9577e422c998",
-      "time": "2026-06-18 22:14:55",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "【China Resources Beer opens exit economic-responsibility audit of Shuijingfang GM Gan Xiaofeng; company says internal process】Market reports say China Resources Beer (Holdings) Ltd has launched a special exit audit of the economic-responsibility performance of Gan Xiaofeng, former GM of Jingzhi Baijiu and current GM of Shuijingfang. A contact in China Resources Beer's audit team confirmed the audit is underway, described it as an internal company process and said there is nothing for external disclosure. Shuijingfang had not responded by publication time."
-    },
-    {
-      "id": "4943764",
-      "time": "2026-06-18 22:14:46",
-      "tags": [
-        "其他"
-      ],
-      "text": "臺積電美股漲超4%，再創歷史新高。"
-    },
-    {
-      "id": "mkt:019edb15-9bf1-7dd8-b080-8c00d452a579",
-      "time": "2026-06-18 22:14:46",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish"
-      ],
-      "text": "Iran foreign minister said under a memorandum of understanding the US has a responsibility to end wars on all fronts, including in Lebanon."
-    },
-    {
-      "id": "4943763",
-      "time": "2026-06-18 22:14:31",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "惠譽評美國消費者支出：油價若能持續下跌，或將緩解支出承壓狀況。"
-    },
-    {
-      "id": "mkt:019edb15-1eab-7dd8-b080-85b54a40a3ac",
-      "time": "2026-06-18 22:14:14",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bearish"
-      ],
-      "text": "WTI crude futures fell to $73/bbl, down 3.97% intraday."
-    },
-    {
-      "id": "4943762",
-      "time": "2026-06-18 22:14:12",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗外長：根據諒解備忘錄，美國有責任結束包括黎巴嫩在內的所有戰線的戰爭。"
-    },
-    {
-      "id": "mkt:019edb14-ec18-7dd8-b080-7e6fb08fc035",
-      "time": "2026-06-18 22:14:01",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Iran's foreign minister held a phone call with France's foreign minister."
-    },
-    {
-      "id": "mkt:019edb14-9462-7dd8-b080-71abf4576fbc",
-      "time": "2026-06-18 22:13:39",
-      "tags": [
-        "MKT News",
-        "SNDK.O",
-        "Impact bullish"
-      ],
-      "text": "【SanDisk shares up more than 800% YTD】SanDisk (SNDK.O) shares jumped 10% to $2,147, lifting market cap to $317.9 bln; up over 800% YTD."
-    },
-    {
-      "id": "4943761",
-      "time": "2026-06-18 22:13:31",
-      "tags": [
-        "市場"
-      ],
-      "text": "WTI原油日內跌4%，現報72.96美元/桶。"
-    },
-    {
-      "id": "4943760",
-      "time": "2026-06-18 22:13:31",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "WTI原油失守73美元/桶，日內跌3.96%。"
-    },
-    {
-      "id": "mkt:019edb14-001b-7dd8-b080-6a8c582f3cec",
-      "time": "2026-06-18 22:13:01",
-      "tags": [
-        "MKT News",
-        "GBPUSD",
-        "Impact bearish",
-        "DXY",
-        "Impact bullish"
-      ],
-      "text": "【Weak UK economy lowers Bank of England rate‑hike odds, Candriam says】Candriam strategist Jamie Niven says weak UK growth reduces the urgency for Bank of England rate hikes. At Thursday’s decision the Bank held rates at 3.75%; two of nine policymakers voted to raise. Niven expects the Bank to keep rates at 3.75% for the remainder of 2026, conditional on no further escalation in the Middle East conflict."
-    },
-    {
-      "id": "4943759",
-      "time": "2026-06-18 22:12:58",
-      "tags": [
-        "市場"
-      ],
-      "text": "迪拜黃金和商品交易所(DGCX)表示，將於6月22日推出當日結算黃金期貨合約。"
-    },
-    {
-      "id": "4943758",
-      "time": "2026-06-18 22:12:18",
-      "tags": [
-        "公司"
-      ],
-      "text": "【對水井坊總經理幹曉峰啟動離任經濟責任審計，華潤啤酒：屬內部流程】6月18日，市場傳出訊息稱，華潤啤酒（控股）有限公司已對景芝白酒原總經理、現任水井坊總經理幹曉峰任職期間的經濟責任履行情況開展專項審計。記者就上述網傳電話致電華潤啤酒審計組聯絡人，對方表示確有此事，屬於公司內部流程，並沒有可以對外披露的內容。同時，記者聯絡到水井坊方面，截至發稿並未獲得回覆。（藍鯨新聞）"
     }
   ]
 }
