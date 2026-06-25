@@ -1,7 +1,34 @@
 {
-  "updated": "2026-06-26 06:39:03",
-  "count": 16956,
+  "updated": "2026-06-26 06:42:58",
+  "count": 16957,
   "items": [
+    {
+      "id": "4955904",
+      "time": "2026-06-26 06:40:27",
+      "tags": [
+        "其他"
+      ],
+      "text": "必和必拓：拆分美洲業務板塊，分設北美區總裁、南美區總裁。"
+    },
+    {
+      "id": "mkt:019f00f0-d582-7dd8-b126-b273bce52897",
+      "time": "2026-06-26 06:40:10",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "The US issued a general license for Venezuela authorizing transactions related to earthquake relief."
+    },
+    {
+      "id": "te:markets:562010",
+      "time": "2026-06-26 06:40:02",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Agricultural Commodities Updates: Cocoa Rises by 4.96% — Top commodity gainers are Cocoa (4.96%), Soybeans (1.98%) and Corn (1.90%). Biggest losers are Oat (-3.18%) and Wool (-2.31%)."
+    },
     {
       "id": "4955903",
       "time": "2026-06-26 06:38:04",
@@ -155143,25 +155170,6 @@
         "Importance 1"
       ],
       "text": "Crypto Updates: Binance Drops by 3.75% — Top crypto losers are Binance (-3.75%), XRP (-3.26%), Bitcoin (-2.61%) and Ether (-2.57%)."
-    },
-    {
-      "id": "4944355",
-      "time": "2026-06-19 06:42:17",
-      "tags": [
-        "市場"
-      ],
-      "text": "紐約期銀日內跌1%，現報66.12美元/盎司。"
-    },
-    {
-      "id": "te:markets:560189",
-      "time": "2026-06-19 06:39:59",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Agricultural Commodities Updates: Rice Rises by 2.31% — Top commodity gainers are Rice (2.31%) and Oat (2.20%). Biggest losers are Coffee (-2.23%), Sugar (-1.67%) and Canola (-1.62%)."
     }
   ]
 }
