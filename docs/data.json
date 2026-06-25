@@ -1,7 +1,205 @@
 {
-  "updated": "2026-06-25 15:53:35",
-  "count": 16947,
+  "updated": "2026-06-25 15:57:45",
+  "count": 16966,
   "items": [
+    {
+      "id": "te:markets:561808",
+      "time": "2026-06-25 15:56:51",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Germany",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "DAX Powered by Tech Strength — The DAX 40 edged up on Thursday, rising 0.3% to around 24,815, following two consecutive downbeat sessions, led by gains in tech stocks, while easing oil prices amid progress in US-Iran ceasefire provided further support. Micron Technology delivered stronger-than-expected earnings and forecast robust demand for AI memory chips, reigniting optimism over artificial intelligence spending and lifting technology stocks after the recent global selloff. Infineon Technologies led gains among stocks, surging over 5%."
+    },
+    {
+      "id": "mkt:019efdc8-1eac-7dd8-b112-1c8bee497503",
+      "time": "2026-06-25 15:56:51",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. Secretary of State Rubio said Washington welcomes a durable, genuine peace that would not undermine the security or prosperity of the United States and its allies."
+    },
+    {
+      "id": "mkt:019efdc8-0e23-7dd8-b112-12f436adff33",
+      "time": "2026-06-25 15:56:46",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "US Secretary of State Rubio said the Strait of Hormuz belongs to no one."
+    },
+    {
+      "id": "4954509",
+      "time": "2026-06-25 15:56:40",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國國務卿魯比奧：我們對持久、真實，且不會損害美國及其盟友安全與繁榮的和平持開放態度。"
+    },
+    {
+      "id": "mkt:019efdc7-e25a-7dd8-b112-0deb2b6132c9",
+      "time": "2026-06-25 15:56:35",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "US Secretary of State Rubio said the Strait of Hormuz is an international waterway."
+    },
+    {
+      "id": "mkt:019efdc7-8ab1-7dd8-b112-053033fe3e1d",
+      "time": "2026-06-25 15:56:13",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "U.S. Secretary of State Rubio said President Trump has been very clear on charging fees for passage through the Strait of Hormuz."
+    },
+    {
+      "id": "4954508",
+      "time": "2026-06-25 15:55:51",
+      "tags": [
+        "公司"
+      ],
+      "text": "【星光股份子公司中標深圳市前海智慧保稅倉光伏新能源發電專案】 近日，星光股份旗下全資子公司——中能建工（廣東）能源技術有限公司成功中標“廣東省深圳市前海智慧保稅倉光伏新能源發電”專案。該專案位於深圳前海自貿區，是區域內具有標杆意義的新能源基礎設施建設，建成後將有力推動自貿區新能源建設增速發展。"
+    },
+    {
+      "id": "mkt:019efdc7-285f-7dd8-b111-fe03935862ab",
+      "time": "2026-06-25 15:55:48",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. Secretary of State Rubio said the U.S. is committed to the process and will ensure any decisions do not harm the interests of its allies and partners."
+    },
+    {
+      "id": "mkt:019efdc7-0d52-7dd8-b111-f0f6e48af23a",
+      "time": "2026-06-25 15:55:41",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. Secretary of State Rubio said charging fees for passage through the Strait of Hormuz would set an unacceptable precedent."
+    },
+    {
+      "id": "mkt:019efdc6-d9db-7dd8-b111-eebf73286ed8",
+      "time": "2026-06-25 15:55:27",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Rubio said the U.S. hopes this succeeds and will do all it can."
+    },
+    {
+      "id": "mkt:019efdc6-aee6-7dd8-b111-e202ca0b3881",
+      "time": "2026-06-25 15:55:16",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. Secretary of State Rubio said the U.S. seeks to ensure any decisions under the agreement take allied interests into account."
+    },
+    {
+      "id": "mkt:019efdc6-ac9e-7dd8-b111-d97931834810",
+      "time": "2026-06-25 15:55:16",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Rubio said calling it a toll or a fee is merely a wording difference."
+    },
+    {
+      "id": "4954507",
+      "time": "2026-06-25 15:55:15",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國國務卿魯比奧：霍爾木茲海峽不屬於任何人。"
+    },
+    {
+      "id": "4954506",
+      "time": "2026-06-25 15:54:53",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國國務卿魯比奧：我們希望確保該協議的任何決定都能兼顧盟友的利益。"
+    },
+    {
+      "id": "mkt:019efdc6-40d7-7dd8-b111-d62299e8bee0",
+      "time": "2026-06-25 15:54:48",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "【UK, France set temperature records as early extreme heat arrives】A Western Europe heatwave on Wednesday set new records: the UK logged its hottest June day (36.1°C in Gosport, southern England) and France recorded a new national daily average of 30°C, topping Tuesday’s mark. Meteorologists attribute the event to a high‑pressure heat dome combined with atmospheric changes linked to a developing El Nifio, and warn temperatures are likely to remain above normal for months. Authorities reported pressure on hospitals, transport networks and power grids; France placed a record 72 departments on red heat alert, and the UK, Germany and Switzerland issued similar warnings."
+    },
+    {
+      "id": "4954505",
+      "time": "2026-06-25 15:54:37",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國國務卿魯比奧：美國希望此事能順利推進，並將盡一切所能促成此事。"
+    },
+    {
+      "id": "4954504",
+      "time": "2026-06-25 15:54:14",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國國務卿魯比奧：霍爾木茲海峽收費將開創不可接受的先例。"
+    },
+    {
+      "id": "4954503",
+      "time": "2026-06-25 15:54:10",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "南向資金淨賣出額達70億港元。"
+    },
+    {
+      "id": "4954502",
+      "time": "2026-06-25 15:54:01",
+      "tags": [
+        "公司"
+      ],
+      "text": "【合盛矽業：近日年產3200噸光纖預製棒專案備案審批透過】 合盛矽業6月25日在互動平臺表示，6月8日，公司中部合盛矽業年產3200噸光纖預製棒專案備案審批透過。目前，該專案的團隊人員配置、裝置採購、市場開拓等工作已逐步推進，相關事項處於按計劃有序落地階段。該業務的發展受下游光纖行業需求變化、市場競爭格局、技術路線替代等因素影響，存在不確定性。"
+    },
+    {
+      "id": "4954501",
+      "time": "2026-06-25 15:53:41",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國國務卿魯比奧：特朗普在收費問題上的立場已經非常明確。"
+    },
+    {
+      "id": "4954500",
+      "time": "2026-06-25 15:53:24",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國國務卿魯比奧：你可以稱之為通行稅，也可以稱之為費，說到底這不過是措辭不同而已。"
+    },
+    {
+      "id": "4954499",
+      "time": "2026-06-25 15:53:17",
+      "tags": [
+        "其他"
+      ],
+      "text": "【斯迪克：預計年產12億平方米高階MLCC離型膜專案完全達產後 可實現年銷售額約23億元】 斯迪克(300806)6月25日在機構調研時表示，擬建年產12億平方米高階MLCC離型膜專案產能結構偏向高階化，層級優勢突出：高階及超高階產品產能佔比達60%，中高階及以上產品合計佔比高達90%。可研報告依據各品類產品現行市場基準售價及產品價格梯度進行綜合測算，結合專案產能規劃、高階產品高毛利特性核算，專案完全達產後預計可實現年銷售額約23億元，專案整體銷售淨利率可達到20%以上。"
+    },
+    {
+      "id": "4954498",
+      "time": "2026-06-25 15:53:14",
+      "tags": [
+        "國際"
+      ],
+      "text": "【日方用“陰謀論”抹黑中國國防開支掩飾其“再軍事化”】記者：據報道，在今年3月中方反駁日方炒作中國國防支出一事後，日本防衛大臣近期再次公開質疑中國國防費透明度，同時聲稱“日本將以透明的方式投資於無人機和人工智慧等新型作戰手段，以適應不斷變化的衝突性質”。請問對此有何評論？\n\n張曉剛：中國的國防費公開透明，每年都依法公開國防支出預算總額及其規模、結構、用途等資訊，積極參加聯合國軍費透明制度，2008年以來每年都向聯合國提交上一財政年度軍事開支報告。中國國防支出一貫堅持合理、適度、剋制，佔GDP的比重長期低於1.5%。反觀日本，作為二戰戰敗國，防衛預算連續14年快速增長，防衛支出佔GDP比重飆升至2%，甚至還要進一步提升至3.5%，人均防衛支出是中國的3倍多。清者自清，濁者自濁。日方用“陰謀論”抹黑中國國防開支，妄想轉移視線、誤導輿論，掩飾其“再軍事化”野心和舉動。真正應該向世界講清楚的是日本：“新型軍國主義”成勢為患，意欲何為？（國防部網站）"
+    },
     {
       "id": "mkt:019efdc4-b0a5-7dd8-b111-cce0fd6e2031",
       "time": "2026-06-25 15:53:06",
@@ -9,6 +207,16 @@
         "MKT News"
       ],
       "text": "U.S. Secretary of State Rubio said the U.S. wants to reach an agreement with Iran but will not do so at any cost."
+    },
+    {
+      "id": "4954497",
+      "time": "2026-06-25 15:53:06",
+      "tags": [
+        "市場",
+        "焦點",
+        "國際"
+      ],
+      "text": "菲律賓炒作中方科考平臺為黃巖島開展相關活動情況，中國將進行基礎設施建設，並聲稱菲律賓主力護衛艦在黃巖島附近海域與中國海空力量發生對峙，對此有何評論？\n黃巖島是中國固有領土。中方在黃巖島開展包括科考在內的任何活動，都是主權國家的權力，我們要求立即停止侵權炒作，否則只會搬起石頭砸自己的腳。中方將繼續採取有力措施，堅決維護國家經濟主權和海洋權益。（央視軍事）"
     },
     {
       "id": "mkt:019efdc4-84b0-7dd8-b111-c2900c0f9d10",
@@ -30,6 +238,14 @@
         "其他"
       ],
       "text": "魯比奧：霍爾木茲是國際水道。"
+    },
+    {
+      "id": "4954495",
+      "time": "2026-06-25 15:52:19",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國國務卿魯比奧：我們不會不惜一切代價與伊朗達成協議， 期待與伊朗取得積極成果。"
     },
     {
       "id": "mkt:019efdc3-be93-7dd8-b111-bf06716efb2d",
@@ -154635,61 +154851,6 @@
         "公司"
       ],
       "text": "【釘釘新CEO陳宇森上任釋出第一封全員信】據晚點，上任一週後，釘釘新 CEO 陳宇森首次面向全員發出了第一封全員信，他對包括釘釘在內的悟空事業部進行了全面的組織梳理，落款為 “宇森 悟空事業部 CEO”。以下為內部信全文：\n\n今天我們的組織做如下調整：\n一、成立核心平臺業務部，負責釘釘等一系列核心業務，朱鴻負責，向我彙報。\n二、整合悟空與 MuleRun 兩個團隊，成立新的悟空團隊，束駿亮負責，向我彙報。\n三、將直銷、電銷、服務商、售前、交付、客戶成功團隊全面整合，成立客戶發展部，楊猛負責，向我彙報。\n四、成立市場部，李昕瑜負責，向我彙報。\n五、成立公司資訊科技部，負責最佳化迭代公司各業務系統，讓一切系統易於被 Agent 使用，鄧悟負責，向我彙報。"
-    },
-    {
-      "id": "4942847",
-      "time": "2026-06-18 15:57:37",
-      "tags": [
-        "國際"
-      ],
-      "text": "【邁阿密林火或將影響世界盃】美國佛羅里達州邁阿密-戴德縣近日先後發生兩處灌木叢火災。截至6月17日上午，火情仍未得到完全控制。火災產生的濃煙導致當地部分地區空氣質量和能見度下降。有當地媒體指出，此次火災濃煙或將影響本屆世界盃場館邁阿密體育場。該場館為露天設計，夏季本就面臨雷暴風險，如果火災持續、空氣質量進一步惡化，可能對賽事組織和人員健康產生影響。不過，截至當地時間6月17日上午，賽事組織方尚未宣佈調整相關賽程。 （CCTV國際時訊）"
-    },
-    {
-      "id": "4942846",
-      "time": "2026-06-18 15:56:25",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "南向資金淨賣出額達60億港元。"
-    },
-    {
-      "id": "mkt:019ed9bb-07e3-7dd8-b072-8a324f807096",
-      "time": "2026-06-18 15:56:13",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy"
-      ],
-      "text": "IEA Executive Director Birol said trust is the foremost issue on the current energy market agenda."
-    },
-    {
-      "id": "te:markets:560007",
-      "time": "2026-06-18 15:55:51",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Indonesia",
-        "Currency",
-        "Importance 1"
-      ],
-      "text": "Rupiah Strengthens as BI Tightens Further — The Indonesian rupiah firmed to below IDR 17,750 per U.S. dollar on Thursday afternoon after Bank Indonesia raised its benchmark interest rate by 25bps to 5.75%, in line with consensus. The move came just a week after a surprise off-cycle increase, bringing cumulative tightening to 100bps across three hikes over the past four weeks as the central bank seeks to reinforce support for the rupiah and contain inflation risks stemming from the Middle East conflict. The decision also came against the backdrop of the U.S. Federal Reserve keeping interest rates unchanged while signaling that further tightening remains possible. The rupiah has been among Asia's weakest-performing currencies this year, pressured by higher energy prices linked to geopolitical volatility and lingering concerns over domestic policymaking. Governor Perry Warjiyo said the rupiah is expected to strengthen going forward, supported by attractive yields, deeper domestic financial markets, and resilient economic growth."
-    },
-    {
-      "id": "4942845",
-      "time": "2026-06-18 15:55:12",
-      "tags": [
-        "其他"
-      ],
-      "text": "國際能源署署長比羅爾表示：當前，信任是能源市場議題中的首要問題。"
-    },
-    {
-      "id": "mkt:019ed9b8-d434-7dd8-b072-85955d7af98a",
-      "time": "2026-06-18 15:53:49",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "US Defense Secretary Hegseth said some NATO allies will 'fail' US scrutiny."
     }
   ]
 }
