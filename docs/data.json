@@ -1,7 +1,27 @@
 {
-  "updated": "2026-06-26 00:14:18",
-  "count": 16905,
+  "updated": "2026-06-26 00:18:27",
+  "count": 16893,
   "items": [
+    {
+      "id": "4955604",
+      "time": "2026-06-26 00:17:36",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "納斯達克100指數漲幅擴大至1%，美股早盤呈現出V形反轉，成分股閃迪目前漲18.1%，美光漲16.1%，應用材料漲10.1%，西部資料漲8.1%，高通漲7.9%，阿斯麥ADR漲4.5%，谷歌A跌0.8%，英偉達跌幅收窄至1.1%，Meta跌1.7%，亞馬遜跌2.2%，微軟跌3.4%，蘋果仍然重挫超5.6%，Strategy跌6.9%。半導體指數漲超4.1%。"
+    },
+    {
+      "id": "te:markets:561977",
+      "time": "2026-06-26 00:14:20",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "US Heating Oil Rallies as Crude Recovers — US heating oil prices rose more than 3% to above $3.27 a gallon, mirroring a rebound in crude driven by renewed safety concerns in the Middle East. The maritime group UKMTO reported that a vessel was struck by an unknown projectile in the Strait of Hormuz off the Omani coast, prompting several commercial ships to reverse course. This incident stoked anxieties regarding Iran's control over the chokepoint as Tehran and Washington negotiate a permanent end to their war. Despite these disruptions, Saudi Arabian tankers proceeded toward the Ras Tanura terminal to resume Persian Gulf exports for the first time since March, and Qatar issued its first post-war crude tender. To contain energy costs, the White House waived the Jones Act and tapped the Strategic Petroleum Reserve. However, the market remains tight because the US operates as a global supplier of last resort, pushing domestic diesel inventories to seasonal lows. Prospective Russian export bans could spark further upward pressure."
+    },
     {
       "id": "4955603",
       "time": "2026-06-26 00:12:20",
@@ -154470,135 +154490,6 @@
         "國際"
       ],
       "text": "美國得克薩斯州公用事業委員會批准德州電力可靠性委員會（ERCOT）資料中心供電規劃。"
-    },
-    {
-      "id": "4944031",
-      "time": "2026-06-19 00:18:09",
-      "tags": [
-        "國際"
-      ],
-      "text": "以色列國防軍通報：真主黨在黎巴嫩南部向以軍發射火箭彈，部分火箭彈被攔截，其餘落在部隊周邊，未造成人員傷亡。"
-    },
-    {
-      "id": "4944030",
-      "time": "2026-06-19 00:18:06",
-      "tags": [
-        "國際"
-      ],
-      "text": "內塔尼亞胡將於今晚召開以色列安全內閣會議。"
-    },
-    {
-      "id": "4944029",
-      "time": "2026-06-19 00:17:45",
-      "tags": [
-        "公司"
-      ],
-      "text": "【比亞迪計劃推動子品牌自負盈虧】據悉，比亞迪正計劃讓旗下各子品牌自負盈虧，仰望暫不在其中。一位接近此事的人士說，新機制下各品牌主體按需取用研發、生產、採購等集團資源，取用成本獨立結算。（晚點）"
-    },
-    {
-      "id": "te:markets:560154",
-      "time": "2026-06-19 00:17:19",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Germany",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "DAX Finishes at Over 2-Week High — The DAX closed about 0.4% up at 25,027 on Thursday, the highest since early June and extending gains for the sixth successive session. Optimism surrounding the US-Iran agreement outweighed hawkish signals from new Fed Chair Kevin Warsh. The US formally signed an interim agreement with Iran that paves the way for an end to the Middle East conflict and the reopening of key energy export routes. Oil prices pulled back, reflecting easing inflation concerns. Tech companies, industrials and travel stocks were among the top performers. Infineon Technologies led gains among equities, surging 6.4%. Siemens Energy advanced 4.7% following reports that the company is considering divesting its multi-billion-euro compressor and steam turbine business. On the flip side, automakers and software companies faced pressure."
-    },
-    {
-      "id": "4944028",
-      "time": "2026-06-19 00:17:05",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國副總統萬斯： 過去三個月，用於防衛以色列的三分之二武器均由美國製造，資金也全部來自美國納稅人的稅款。"
-    },
-    {
-      "id": "4944027",
-      "time": "2026-06-19 00:16:41",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國疾控中心關於埃博拉疫情應對：目前已有23名現場人員協助開展流行病學調查工作，併為剛果（金）衛生部提供支援。"
-    },
-    {
-      "id": "4944026",
-      "time": "2026-06-19 00:16:27",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：伊朗將獲得60億美元凍結資金的訪問許可權，用於購買美國商品。"
-    },
-    {
-      "id": "mkt:019edb84-e162-7dd8-b084-f550783f04ca",
-      "time": "2026-06-19 00:16:19",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Israel's Prime Minister Netanyahu will hold a security cabinet meeting tonight to discuss progress on the Iran agreement."
-    },
-    {
-      "id": "4944025",
-      "time": "2026-06-19 00:15:55",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國副總統萬斯談及內塔尼亞胡： 我看到阿克西奧斯新聞的報道稱內塔尼亞胡大為惱火。但這和我與他溝通時感受到的情況並不相符。或許他對外人表達的態度，和對我所說的並不一樣。"
-    },
-    {
-      "id": "mkt:019edb84-7be9-7dd8-b084-e96994afef22",
-      "time": "2026-06-19 00:15:53",
-      "tags": [
-        "MKT News",
-        "Important",
-        "DXY",
-        "Impact bearish",
-        "WTI",
-        "XAUUSD"
-      ],
-      "text": "Financial Times reports the Trump administration, under a temporary US-Iran accord, will allow Iran to access $6 bln of oil export proceeds held in Qatar to purchase US humanitarian supplies and other non-sanctioned goods."
-    },
-    {
-      "id": "te:markets:560153",
-      "time": "2026-06-19 00:15:33",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Euro Area",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "Eurozone Stocks Extend Record High — European stock indices closed mixed on Thursday as support from lower inflationary risks weighed against sector-specific losses. The Euro STOXX 50 gained 0.5% to a new record of 6,331 and the STOXX Europe dropped 0.4% to 637 amid pressure from heavyweight pharmaceutical, miners, and energy producers. US President Trump signed the memorandum of understanding with Iran that suspends the war for 60 days and restores the flows of fuel tankers through the Strait of Hormuz, lowering energy prices and reducing concerns that the ECB would deliver more rate hikes this year. Banks were mostly higher after leading gains this week, with UniCredit and Intesa Sanpaolo adding 0.7%. Meanwhile, industrials rose sharply with Airbus, Safran, and Schneider adding close to 3%. Meanwhile, Infineon jumped 7% to track the recent rally for chip producers worldwide. On the other hand, SAP dropped 4.7% on software weakness, while German auto manufacturers and British pharmaceuticals and miners retreated."
-    },
-    {
-      "id": "4944024",
-      "time": "2026-06-19 00:15:18",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國副總統萬斯：我認為我們的公共資訊傳遞並沒有混亂。"
-    },
-    {
-      "id": "te:economy:560152",
-      "time": "2026-06-19 00:15:08",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Colombia",
-        "Leading Economic Index",
-        "Importance 1"
-      ],
-      "text": "Colombia Economic Growth Eases In April — Colombia’s leading economic index rose 3.3% year-on-year in April 2026, easing from a 4% increase in March. Tertiary activities grew 4.6%, slowing from 5.3% in the previous month. Within the sector, the strongest gains came from public administration and services, up 8.1% after 6.6% in March, and utilities supply, which rose 4.7% after 4.0%. Other categories, including professional, scientific, technical, administrative, and support activities (1.2% vs 3.4%) and information and communication (1.5% vs 3.4%), expanded at a slower pace. Secondary activities increased 1.8%, down from 3% in March. Meanwhile, primary activities contracted 2.4% after a 1.7% expansion in the previous month. On a month-over-month basis, economic activity rose 0.34%, following a 0.42% increase in March."
-    },
-    {
-      "id": "mkt:019edb83-537a-7dd8-b084-e36f731802ee",
-      "time": "2026-06-19 00:14:37",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "U.S. Vice President Vance's press conference at the White House has concluded."
     }
   ]
 }
