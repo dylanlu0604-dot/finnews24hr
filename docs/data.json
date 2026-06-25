@@ -1,7 +1,86 @@
 {
-  "updated": "2026-06-25 22:19:55",
-  "count": 16954,
+  "updated": "2026-06-25 22:24:03",
+  "count": 16952,
   "items": [
+    {
+      "id": "4955427",
+      "time": "2026-06-25 22:22:36",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "歐洲斯托克600指數創下盤中歷史新高。"
+    },
+    {
+      "id": "te:markets:561941",
+      "time": "2026-06-25 22:22:29",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Brent Crude Oil Holds Near Pre-War Levels — Crude oil rose above $74 a barrel on Thursday after three days of losses, but remained near pre-war levels, as progress in US-Iran peace efforts improved the supply outlook. Growing confidence in a lasting agreement has encouraged more tankers to transit the Strait of Hormuz with their tracking signals turned on. Saudi Arabian tankers are heading toward the Ras Tanura terminal to restart Persian Gulf exports for the first time since March. In addition, a temporary US waiver permitting purchases of already-loaded Iranian oil is expected to boost supply. As oil streams through the waterway at its fastest wartime pace, market attention is shifting toward an anticipated 2026 global supply surplus, prompting Iraq to threaten to leave OPEC unless its production quota is increased. Meanwhile, US stockpiles at Cushing, Oklahoma, are below operational requirements at roughly 19 million barrels."
+    },
+    {
+      "id": "4955426",
+      "time": "2026-06-25 22:21:36",
+      "tags": [
+        "公司"
+      ],
+      "text": "巴西國家石油公司執行長表示，將於7月進口柴油，此前已連續三個月未進口該燃料。"
+    },
+    {
+      "id": "4955425",
+      "time": "2026-06-25 22:21:28",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "巴西央行官員：服務業通脹仍存上行壓力。"
+    },
+    {
+      "id": "te:markets:561940",
+      "time": "2026-06-25 22:21:28",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 2"
+      ],
+      "text": "Oil Hovers at Pre-War Levels — Crude oil edged up to $70.7 a barrel on Thursday after three days of losses, but remained near pre-war levels, as progress in US-Iran peace efforts improved the supply outlook. Growing confidence in a lasting agreement has encouraged more tankers to transit the Strait of Hormuz with their tracking signals turned on. Saudi Arabian tankers are heading toward the Ras Tanura terminal to restart Persian Gulf exports for the first time since March. In addition, a temporary US waiver permitting purchases of already-loaded Iranian oil is expected to boost supply. As oil streams through the waterway at its fastest wartime pace, market attention is shifting toward an anticipated 2026 global supply surplus, prompting Iraq to threaten to leave OPEC unless its production quota is increased. Meanwhile, US stockpiles at Cushing, Oklahoma, are below operational requirements at roughly 19 million barrels."
+    },
+    {
+      "id": "mkt:019eff28-1a1c-7dd8-b11e-e26cddfa25f0",
+      "time": "2026-06-25 22:21:18",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Baltic Dry Index falls to over two-month low on Thursday】The Baltic Dry Index fell 43 points, or 1.6%, to 2,591 on Thursday, its lowest since April 17, weighed by drops in Capesize and Supramax rates. The Baltic Capesize Index fell 123 points, or 3.1%, to 3,827; Capesize average daily earnings dropped $1,117 to $31,205. The Baltic Panamax Index rose 25 points, or 1.2%, to 2,096, with Panamax daily earnings up $224 to $18,865. The Baltic Supramax Index fell 15 points, or 0.9%, to 1,678, its lowest since June 15."
+    },
+    {
+      "id": "mkt:019eff26-fda0-7dd8-b11e-d9c1c84bc0ec",
+      "time": "2026-06-25 22:20:05",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "U.S. EIA weekly natural gas storage report for the week ended June 19 due in ten minutes."
+    },
+    {
+      "id": "te:markets:561939",
+      "time": "2026-06-25 22:19:50",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "UnitedHealth Stock Price Hits 13-month High — UnitedHealth shares increased to 416.25 USD, the highest since April 2025. Over the past 4 weeks, UnitedHealth gained 10.37%, and in the last 12 months, it increased 37.72%."
+    },
     {
       "id": "mkt:019eff26-0742-7dd8-b11e-d51bb1bb7586",
       "time": "2026-06-25 22:19:02",
@@ -154866,99 +154945,6 @@
         "國際"
       ],
       "text": "【分析：英國央行今年或將恢復降息】Berenberg的Andrew Wishart在一份報告中表示，英國央行可能會在2026年底前恢復降息。他說，5月份通貨膨脹率低於預期，表明能源價格衝擊帶來間接影響的風險有限。Wishart說，與此同時，伊朗戰爭造成的衝擊的規模和持續時間料將大大低於該央行的預期。他說，疲軟的勞動力市場正在阻礙工資增長，而工資增速已經降至與2%的通貨膨脹率相符的水平之下。“雖然貨幣政策委員會可能仍會存在分歧，但我們認為，有足夠多的委員對通貨膨脹感到足夠放心，對勞動力市場感到足夠擔憂，從而在年底前實施降息。”"
-    },
-    {
-      "id": "te:markets:560131",
-      "time": "2026-06-18 22:23:32",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "stocks",
-        "Importance 1"
-      ],
-      "text": "Equinix Stock Price Hits 7-week High — Equinix shares increased to 1108.00 USD, the highest since April 2026. Over the past 4 weeks, Equinix gained 3.89%, and in the last 12 months, it increased 24.48%."
-    },
-    {
-      "id": "mkt:019edb1d-3455-7dd8-b080-d5ad962a972e",
-      "time": "2026-06-18 22:23:04",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "【Shenzhen Stock Exchange terminates IPO review of Hunan Ordnance Industry Group Co., Ltd's main‑board listing】Shenzhen Stock Exchange said on its website it has terminated the IPO review of Hunan Ordnance Industry Group Co., Ltd's main‑board listing after the company and sponsor Dongxing Securities submitted an application to withdraw the IPO and listing documents."
-    },
-    {
-      "id": "4943780",
-      "time": "2026-06-18 22:22:50",
-      "tags": [
-        "國際"
-      ],
-      "text": "【外交部亞洲司司長同韓方舉行工作磋商】2026年6月17日，外交部亞洲司司長劉勁松在韓國首爾同韓國外交部東北亞中亞局新任局長南鎮舉行例行工作磋商，就中韓關係和共同關心的問題交換意見，同意積極落實兩國元首互訪時達成的重要共識，致力於兩國戰略合作伙伴關係行穩致遠。南鎮重申了韓方在韓中建交聯合公報中承諾的一箇中國立場，強調這一立場沒有變化。劉給予積極評價，希望並相信韓方重溫建交初心，以實際行動踐行一中原則，維護中韓關係政治基礎。"
-    },
-    {
-      "id": "4943779",
-      "time": "2026-06-18 22:22:37",
-      "tags": [
-        "公司"
-      ],
-      "text": "【深交所終止湖南省兵器工業集團股份有限公司主機板IPO稽核】6月18日，據深交所網站披露，因湖南省兵器工業集團股份有限公司、保薦人東興證券股份有限公司向本所提交了《關於撤回湖南省兵器工業集團股份有限公司首次公開發行股票並在主機板上市申請檔案的申請》，深交所決定終止其首次公開發行股票並在主機板上市的稽核。"
-    },
-    {
-      "id": "4943778",
-      "time": "2026-06-18 22:22:18",
-      "tags": [
-        "其他"
-      ],
-      "text": "華納兄弟探索：將於第三季度推出統一媒體策劃方案，並於第四季度分階段推出可組合訂單管理、定價與管控體系。"
-    },
-    {
-      "id": "te:markets:560130",
-      "time": "2026-06-18 22:21:58",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Canada",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "TSX Edges Lower Amid Hawkish Fed Outlook — Canada’s S&P/TSX Composite Index edged lower to trade near 35,000 on Wednesday as investors weighed a hawkish US Fed outlook and the signing of an interim peace deal between the US and Iran. The Fed kept interest rates unchanged, but its projections were seen as more hawkish than anticipated, with roughly half of FOMC members expecting at least one rate hike this year, raising concerns over higher borrowing costs. Financial stocks traded mixed, with TD Bank up nearly 1%, while Brookfield edged lower. Mining stocks were also mixed as gold prices eased, with Barrick gaining nearly 1%, while Agnico Eagle and WPM slipped. The energy sector weighed heavily as oil prices declined after the US-Iran agreement aimed at ending the conflict and reopening the Strait of Hormuz. Canadian Natural and Suncor fell over 3%, while Imperial Oil lost nearly 4%. Tech stocks also weakened, tracking losses in the US software sector, with Shopify down 0.9% and Constellation Software falling more than 2%."
-    },
-    {
-      "id": "4943777",
-      "time": "2026-06-18 22:21:56",
-      "tags": [
-        "公司"
-      ],
-      "text": "華納兄弟探索宣佈推出由智慧體人工智慧驅動的廣告技術，該技術搭建在其首選雲服務提供商亞馬遜雲科技的雲上。"
-    },
-    {
-      "id": "4943776",
-      "time": "2026-06-18 22:21:44",
-      "tags": [
-        "其他"
-      ],
-      "text": "訊息人士：巴基斯坦總理原定瑞士之行因美伊協議電子簽署事宜推遲。"
-    },
-    {
-      "id": "4943775",
-      "time": "2026-06-18 22:20:23",
-      "tags": [
-        "其他"
-      ],
-      "text": "德國正在就延長石油儲備豁免進行談判。"
-    },
-    {
-      "id": "mkt:019edb1a-74b5-7dd8-b080-ca3286bce84f",
-      "time": "2026-06-18 22:20:03",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Energy"
-      ],
-      "text": "U.S. EIA weekly natural gas storage for the week ending June 12 due in 10 minutes."
     }
   ]
 }
