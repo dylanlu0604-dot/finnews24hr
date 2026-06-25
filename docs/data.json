@@ -1,7 +1,209 @@
 {
-  "updated": "2026-06-25 21:02:53",
-  "count": 17029,
+  "updated": "2026-06-25 21:07:09",
+  "count": 17032,
   "items": [
+    {
+      "id": "4955308",
+      "time": "2026-06-25 21:06:12",
+      "tags": [
+        "市場"
+      ],
+      "text": "現貨鈀金上漲3%，報每盎司1,201.05美元。"
+    },
+    {
+      "id": "4955307",
+      "time": "2026-06-25 21:06:10",
+      "tags": [
+        "公司"
+      ],
+      "text": "【ST惠倫：擬出資1000萬元在上海市設立全資子公司】ST惠倫6月25日公告，公司擬以自有資金出資人民幣1000萬元在上海市設立全資子公司從事主營產品銷售等業務。本次對外投資事項在公司董事會審批許可權範圍內，無需提交公司股東會審議。"
+    },
+    {
+      "id": "mkt:019efee3-456b-7dd8-b11d-69c8f0a914c4",
+      "time": "2026-06-25 21:06:07",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals"
+      ],
+      "text": "Spot palladium rose 3% to $1,201.05 per ounce."
+    },
+    {
+      "id": "4955306",
+      "time": "2026-06-25 21:05:48",
+      "tags": [
+        "公司"
+      ],
+      "text": "【谷歌重組 AI 編碼專項攻堅團隊，全力追趕 Anthropic 高利潤商用 AI 業務】據熟悉本次架構調整的知情人士透露，谷歌正在重組不久前剛成立、專注 AI 編碼工具研發的專項攻堅小組，試圖在盈利前景最豐厚的前沿 AI 應用賽道縮小與 Anthropic 的差距。知情人士表示，這支成立僅數月的攻堅小組將調整谷歌大模型的訓練思路，同步提升模型程式碼生成能力與 PPT 製作等多場景創作能力。這一調整思路與 Anthropic、OpenAI 的戰略方向一致：二者均在把 AI 編碼工具拓展至企業各類辦公業務場景。本次調整除拓寬攻堅小組業務邊界外，還將這支原本短期專案制團隊固化為常設正式組織。此次架構重組恰逢兩位核心高管離職，市場由此擔憂谷歌能否持續領跑高效能大模型研發迭代。儘管 AI 熱潮整體讓谷歌大幅受益，但公司始終難以高效調配人力與算力資源，直面 Anthropic、OpenAI 的競爭。"
+    },
+    {
+      "id": "te:markets:561903",
+      "time": "2026-06-25 21:05:44",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Gold Rebounds on Thursday — Gold traded above $4,000 per ounce on Thursday, rebounding from earlier losses as a weaker US dollar and lower Treasury yields provided support after the latest US PCE inflation report came in broadly in line with expectations. While inflation remains well above the Fed’s 2% target, the data eased concerns about a sharper-than-expected acceleration in price pressures. Meanwhile, oil prices continued to retreat and have now returned to levels seen before the outbreak of the Iran conflict, further alleviating inflation worries. As a result, traders pared back expectations for additional monetary tightening, with the probability of a Fed rate hike in September falling to 63% from 68% the previous day. Despite Thursday’s rebound, gold remains down roughly 5% year-to-date and nearly 20% below its January record high, reached before the escalation of the conflict involving Iran."
+    },
+    {
+      "id": "mkt:019efee2-dd0c-7dd8-b11d-67d2121854d0",
+      "time": "2026-06-25 21:05:40",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "AI Revolution",
+        "GOOG.O",
+        "Impact bullish"
+      ],
+      "text": "According to The Information, Google (GOOG.O) plans to reorganize its AI programming strike team to catch up with Anthropic."
+    },
+    {
+      "id": "4955305",
+      "time": "2026-06-25 21:05:30",
+      "tags": [
+        "市場"
+      ],
+      "text": "【金價持續下跌 金店客流不增反降】受國際金價持續下跌的影響，國內品牌金飾價格同步大幅下調。6月25日，記者走訪深圳多家品牌金飾門店發現，金飾零售價已跌至年內新低，周大福首飾金報每克1222元左右，一些品牌推出滿減活動，首飾金克價低至1100元。而在深圳水貝市場，金飾的克價約1042元。而在今年1月的行情高點，水貝金飾克價曾突破1400元。資本市場的反應更為明顯。25日，A股和港股市場上的黃金概念股幾乎全線下跌。其中，老鋪黃金的股價跌幅超過8%。 有品牌金飾門店的工作人員告訴記者，雖然金價不像過去那樣“大起大落”，但最近持續震盪下跌的走勢還是影響了消費者的心理，近期金店客流不增反降，多數消費者持幣觀望，門店成交維持低位。“端午節假期幾天的生意還不錯，但這周的生意額就明顯回落了。” 隨著金價持續走低，黃金回收價也隨之下調。水貝市場的價格顯示，25日的黃金回收價格在每克855元左右。鍾經理表示，最近有不少本來就擔心黃金價格“高處不勝寒”的消費者賣掉黃金變現。（證券時報）"
+    },
+    {
+      "id": "te:economy:561900",
+      "time": "2026-06-25 21:04:42",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "Government Bond 10Y",
+        "Importance 1"
+      ],
+      "text": "US 10-Year Yield Falls to 7-Week Low — The yield on the 10-year US Treasury note fell to below 4.40% on Thursday, the lowest in seven weeks, as lower inflation concerns limited the likelihood of multiple rate hikes by the Fed this year. The core PCE price index was softer than expected in May and the headline rate increased less than expected. The results softened pro-inflationary risks as fresh oil supply from the Middle East lowered energy prices. The US and Iran signaled progress in talks after their memorandum of understanding halted the naval blockade, and tanker flows through the Strait of Hormuz picked up. Rate futures showed that market trimmed positions that reflect more than one rate hike by the Fed this year. Still, underlying inflation gauges remained elevated and both personal spending and beat expectations. Evidence of robust growth and labor backdrops maintained the outlook of a hike by the Fed, aligned with the hawkish pivot from the last FOMC projections."
+    },
+    {
+      "id": "4955304",
+      "time": "2026-06-25 21:03:44",
+      "tags": [
+        "公司"
+      ],
+      "text": "【ST惠倫：選舉邢越為公司董事長】ST惠倫6月25日公告，公司於2026年6月24日召開第五屆董事會第十一次會議，選舉邢越為公司第五屆董事會董事長，自邢越被選舉為公司董事長之日起，趙劍華不再擔任公司董事長。根據《公司章程》規定，公司法定代表人由趙劍華變更為邢越。公司將盡快完成法定代表人的工商變更登記工作。"
+    },
+    {
+      "id": "mkt:019efee0-c977-7dd8-b11d-5bbc8dea6c16",
+      "time": "2026-06-25 21:03:24",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "New York silver futures rose as much as 1.00% intraday to $58.68/oz; New York gold futures rose over 1.00% to $4,049.00/oz."
+    },
+    {
+      "id": "mkt:019efee0-87b0-7dd8-b11d-56e034770711",
+      "time": "2026-06-25 21:03:08",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals"
+      ],
+      "text": "Spot silver rose 2.00% intraday to $58.62/oz."
+    },
+    {
+      "id": "4955303",
+      "time": "2026-06-25 21:02:58",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【北大荒：股價連續三日跌幅偏離值超20% 不存在未披露重大事項】北大荒公告稱，公司股票於2026年6月23日、6月24日、6月25日連續三個交易日內收盤價格跌幅偏離值累計超過20%，屬於股票交易異常波動情形。經自查並向控股股東查證，截至公告披露日，不存在應披露而未披露的重大事項。公司生產經營正常，未發現其他可能影響股價的重大事件，相關人員在此期間無買賣公司股票情況。公司提醒投資者注意投資風險。"
+    },
+    {
+      "id": "mkt:019efee0-604f-7dd8-b11d-4da8bcfaa52d",
+      "time": "2026-06-25 21:02:57",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Tata Communications said some customers experienced temporary operational disruptions because restoring critical systems required time."
+    },
+    {
+      "id": "4955302",
+      "time": "2026-06-25 21:02:47",
+      "tags": [
+        "市場"
+      ],
+      "text": "紐約期金日內漲1%，現報4049.00美元/盎司。"
+    },
+    {
+      "id": "4955301",
+      "time": "2026-06-25 21:02:40",
+      "tags": [
+        "市場"
+      ],
+      "text": "紐約期銀日內漲1%，現報59.10美元/盎司。"
+    },
+    {
+      "id": "4955300",
+      "time": "2026-06-25 21:02:31",
+      "tags": [
+        "公司"
+      ],
+      "text": "谷歌重組AI程式設計突擊團隊，以在利潤豐厚的市場追趕Anthropic。"
+    },
+    {
+      "id": "4955299",
+      "time": "2026-06-25 21:02:20",
+      "tags": [
+        "公司"
+      ],
+      "text": "【北大荒：控股股東稱不存在影響股價異常波動重大事項】北大荒公告稱，公司控股股東北大荒農墾集團有限公司回函表示，截至回函簽署日，不存在影響公司股票交易異常波動的重大事項，不存在涉及公司應披露而未披露的重大資訊，包括重大資產重組等，也不存在股票異常波動期間買賣公司股票的情況。"
+    },
+    {
+      "id": "mkt:019efedf-cfa7-7dd8-b11d-468dadc500cd",
+      "time": "2026-06-25 21:02:20",
+      "tags": [
+        "MKT News",
+        "CNH",
+        "Impact bullish"
+      ],
+      "text": "【PBOC'S PAN meets Brazil finance minister Durigan】On June 25, 2026 PBOC'S PAN met Brazil finance minister Durigan to discuss international macro policy coordination and deeper bilateral financial cooperation. Both sides agreed to strengthen China‑Brazil financial ties, use the strategic financial cooperation working group to deepen investment and financing cooperation, promote bilateral use of local currencies and advance financial infrastructure connectivity. They expect China Central Depository & Clearing Co., China Foreign Exchange Trade System and Brazil's stock exchange to reach consensus on a memorandum of understanding on market cooperation. Both parties supported expanding the China‑Brazil Sustainable Development and Capacity Cooperation Fund to deploy climate and clean‑energy projects. During the meeting Pan and Durigan witnessed Brazil's finance ministry submit a panda bond issuance application to the National Association of Financial Market Institutional Investors via Bank of China."
+    },
+    {
+      "id": "4955298",
+      "time": "2026-06-25 21:02:19",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金突破4030美元/盎司，日內漲0.81%。"
+    },
+    {
+      "id": "4955297",
+      "time": "2026-06-25 21:02:18",
+      "tags": [
+        "市場"
+      ],
+      "text": "現貨白銀日內漲2%，現報58.59美元/盎司。"
+    },
+    {
+      "id": "4955296",
+      "time": "2026-06-25 21:01:53",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期銀突破59美元/盎司，日內漲0.85%。"
+    },
+    {
+      "id": "4955295",
+      "time": "2026-06-25 21:01:26",
+      "tags": [
+        "公司"
+      ],
+      "text": "Salesforce公司：Salesforce推出Agentforce幫助代理。"
+    },
     {
       "id": "mkt:019efede-ac77-7dd8-b11d-3cd05276f500",
       "time": "2026-06-25 21:01:06",
@@ -155444,206 +155646,6 @@
         "公司"
       ],
       "text": "科威特石油公司（KPC）：科威特將在提升原油產量的同時擴大煉油產能。"
-    },
-    {
-      "id": "mkt:019edad7-a299-7dd8-b07e-2e49bcc808bc",
-      "time": "2026-06-18 21:07:05",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "Kuwait has begun raising oil output and expects production to exceed 2.0 mln bpd within a week, a ramp-up faster than previously expected."
-    },
-    {
-      "id": "4943626",
-      "time": "2026-06-18 21:06:56",
-      "tags": [
-        "其他"
-      ],
-      "text": "科威特石油增產速度將快於此前預期。"
-    },
-    {
-      "id": "4943625",
-      "time": "2026-06-18 21:06:50",
-      "tags": [
-        "公司",
-        "市場",
-        "國際"
-      ],
-      "text": "【AI行情持續升溫 晶片股與電力裝置股盤前齊漲】與人工智慧熱潮相關的晶片製造商、電力裝置廠商以及其他科技公司股價在週四開盤前普遍上漲，其中不少個股有望延續前一個交易日的升勢。半導體、晶片裝置和封裝板塊方面：Marvell上漲6%，Lam Research上漲5.6%，Amkor上漲5.3%，安森美上漲5.2%，AMD上漲3.8%，高通上漲3.5%，英偉達上漲1.3%。英特爾大漲8.9%，此前美國總統特朗普表示，英特爾將與蘋果合作，在美國本土生產晶片儲存和記憶體板塊方面：美光上漲5%，西部資料上漲5.9%，希捷上漲4.6%，閃迪上漲4.4%。光通訊與光子產品板塊：Coherent上漲3.2%，康寧上漲2.9%，Lumentum上漲2.1%。AI算力相關公司：Nebius上漲5.2%，Applied Digital上漲3.7%，CoreWeave上漲3.7%。電力裝置板塊：Forgent上漲4.2%，Vertiv上漲3.9%，Eaton上漲2.5%，GE Vernova上漲2.3%，卡特彼勒上漲2.3%。"
-    },
-    {
-      "id": "mkt:019edad7-32d0-7dd8-b07e-26187876e2f0",
-      "time": "2026-06-18 21:06:36",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "Market Themes",
-        "Chip Wars",
-        "AI Revolution",
-        "CNH",
-        "Impact bullish",
-        "CSI300",
-        "SSE Composite"
-      ],
-      "text": "【China Great Wall Asset and partners sign pact to deploy tens of billions of yuan into Shanghai sci‑tech sector during 15th Five‑Year Plan】At the 2026 Lujiazui Forum, China Great Wall Asset Management, Bank of China, China CITIC Financial Assets, China Orient Asset Management and Shanghai Guotou signed a framework to jointly build a sci‑tech finance ecosystem. The parties said they will coordinate to deploy capital on the order of tens of billions of yuan during the 15th Five‑Year Plan to support Shanghai’s integrated circuits, artificial intelligence and biomedicine industries. The pact proposes a national‑first integrated model combining innovation/venture equity investment, bank comprehensive service support and AMC‑led capital revitalization to position Shanghai as a global benchmark for sci‑tech finance."
-    },
-    {
-      "id": "mkt:019edad7-05bd-7dd8-b07e-1ae46ac67c0c",
-      "time": "2026-06-18 21:06:25",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK",
-        "Star Stocks",
-        "Microsoft",
-        "Amazon",
-        "Market Themes",
-        "Magnificent 7",
-        "AMZN.O",
-        "Impact bullish",
-        "MSFT.O"
-      ],
-      "text": "EU expects to publish preliminary findings as early as next week, saying Amazon's AWS and Microsoft's Azure appear to comply with the Digital Markets Act."
-    },
-    {
-      "id": "4943624",
-      "time": "2026-06-18 21:06:16",
-      "tags": [
-        "公司"
-      ],
-      "text": "【雲南昆明產業開發投資有限責任公司董事長劉曉航接受審查調查】據昆明市紀委監委訊息：昆明產業開發投資有限責任公司黨委書記、董事長劉曉航涉嫌嚴重違紀違法，目前正接受昆明市紀委監委紀律審查和監察調查。"
-    },
-    {
-      "id": "mkt:019edad6-e301-7dd8-b07e-123e0d4f7d48",
-      "time": "2026-06-18 21:06:16",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "Brent",
-        "Impact bullish"
-      ],
-      "text": "BofA said a full reopening of the Strait of Hormuz could lift Brent to $82 a barrel this year and expects Brent to trade mostly in a $70-$80/bbl range for most of H2 2026."
-    },
-    {
-      "id": "4943623",
-      "time": "2026-06-18 21:06:09",
-      "tags": [
-        "其他",
-        "焦點"
-      ],
-      "text": "科威特開始提高石油產量，一週內將突破200萬桶/日。"
-    },
-    {
-      "id": "4943622",
-      "time": "2026-06-18 21:05:50",
-      "tags": [
-        "公司"
-      ],
-      "text": "【中國長城資產等簽署戰略合作協議 “十五五”時期投入百億級資金服務上海科創產業】6月18日，記者從中國長城資產瞭解到，在2026陸家嘴論壇上，該公司與中國銀行、中國中信金融資產、中國東方資產、上海國投公司簽署了科創金融生態共建合作框架協議，在“十五五”時期，合作各方將協同投入百億級規模資金賦能上海科創產業，聚焦服務上海積體電路、人工智慧、生物醫藥三大先導產業。根據協議，各方將創新打造全國首個集“創新創業股權投資+銀行綜合服務賦能+AMC資本盤活接續”於一體的科創金融生態共建新模式，助推上海打造全球標杆性科創金融高地。本次合作由中國銀行發起，旨在充分發揮國有大型商業銀行綜合金融服務優勢、全國性金融資產管理公司價值重塑專長以及地方國有資本產業資源統籌效能。"
-    },
-    {
-      "id": "4943621",
-      "time": "2026-06-18 21:05:37",
-      "tags": [
-        "其他"
-      ],
-      "text": "美銀預計，霍爾木茲海峽全面重新開放可能使布倫特原油價格今年降至82美元/桶，並使2026年下半年大部分時間價格區間維持在70-80美元。"
-    },
-    {
-      "id": "4943620",
-      "time": "2026-06-18 21:05:10",
-      "tags": [
-        "其他"
-      ],
-      "text": "市場訊息：人工智慧企業 Manus 的早期中國投資方有意推進香港 IPO，並搭建全新合資架構。"
-    },
-    {
-      "id": "te:economy:560104",
-      "time": "2026-06-18 21:05:00",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Canada",
-        "Wholesale Prices",
-        "Importance 1"
-      ],
-      "text": "Canada RMPI Rises Less Than Expected — Canada’s raw materials prices rose 0.7% month-over-month in May 2026, following a 2.6% increase in the previous month and below forecasts of a 1.1% rise. Crop product prices increased 2.2%, marking a fifth consecutive monthly gain, led by canola (3.5%), grains (3.2%), and wheat (4.6%). Prices for metal ores, concentrates, and scrap rose 0.5%, supported by higher prices for nickel ores and concentrates (4.6%) and copper ores and concentrates (4.6%). Lower prices for gold, silver, and platinum group metal ores and concentrates (-0.6%) partially offset the increase. Meanwhile, crude energy products fell 0.5% after sharp gains in March and April, mainly due to a 4.3% drop in synthetic crude oil. Despite the monthly decline, crude energy prices remained elevated in May amid conflict in the Middle East. The RMPI rose 33.4% year-on-year."
-    },
-    {
-      "id": "4943619",
-      "time": "2026-06-18 21:03:47",
-      "tags": [
-        "公司"
-      ],
-      "text": "據港交所檔案：數說故事人工智慧科技股份有限公司向港交所提交上市申請書。"
-    },
-    {
-      "id": "mkt:019edad4-9057-7dd8-b07e-09c1eb8ba747",
-      "time": "2026-06-18 21:03:44",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "HKEX filing shows Shushuo Gushi Artificial Intelligence Technology Co., Ltd. has submitted a listing application with HKEX."
-    },
-    {
-      "id": "4943618",
-      "time": "2026-06-18 21:03:38",
-      "tags": [
-        "其他"
-      ],
-      "text": "Life360：使用者可透過 Life360 應用為他人呼叫優步車輛。"
-    },
-    {
-      "id": "mkt:019edad4-5fc6-7dd8-b07e-06f990b6fa5d",
-      "time": "2026-06-18 21:03:31",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "Market Regions",
-        "Europe & UK",
-        "EURUSD",
-        "Impact bullish",
-        "DXY",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "【ECB chief economist Lane: euro-area inf to remain elevated for extended period】ECB chief economist Lane said on Thursday that despite recent energy-price declines, euro-area inf will remain elevated for an extended period. He noted the ECB raised rates last week — its first hike in nearly three years — to counter energy-price jumps after the late-February Middle East shock. An Iran–US peace agreement has since pushed oil and gas prices sharply lower. Lane said the ECB has no doubt the rate decision was correct and still expects inf to stay above the 2% target for a prolonged period, citing upward pressure on food, goods and services prices; even under a milder oil-price scenario, tightening was appropriate."
-    },
-    {
-      "id": "4943617",
-      "time": "2026-06-18 21:03:29",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲擬推出相關計劃，對穩定幣發行方設立監管要求。"
-    },
-    {
-      "id": "4943616",
-      "time": "2026-06-18 21:03:11",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲就穩定幣發行人識別計劃徵求意見。"
-    },
-    {
-      "id": "4943615",
-      "time": "2026-06-18 21:02:53",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "捷克央行行長：今日的決定將有助於維持低通脹環境。"
     }
   ]
 }
