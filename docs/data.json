@@ -1,7 +1,213 @@
 {
-  "updated": "2026-06-25 09:26:53",
-  "count": 16958,
+  "updated": "2026-06-25 09:30:50",
+  "count": 16970,
   "items": [
+    {
+      "id": "4953804",
+      "time": "2026-06-25 09:30:19",
+      "tags": [],
+      "text": "澳大利亞5月季調後就業參與率 66.7%，預期66.7%，前值66.70%。"
+    },
+    {
+      "id": "mkt:019efc66-2d45-7dd8-b108-d3849afd4cd7",
+      "time": "2026-06-25 09:30:15",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Australia May seasonally adjusted unemployment rate 4.4% (consensus 4.4%), down from April's 4.5%."
+    },
+    {
+      "id": "mkt:019efc66-2c8e-7dd8-b108-caacffabc9fe",
+      "time": "2026-06-25 09:30:14",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Australia May seasonally adjusted labour force participation rate 66.7% vs 66.7% expected and 66.7% prior."
+    },
+    {
+      "id": "4953803",
+      "time": "2026-06-25 09:30:10",
+      "tags": [
+        "其他"
+      ],
+      "text": "澳大利亞5月份就業人數增加40,300人；預估32,500。"
+    },
+    {
+      "id": "mkt:019efc66-1ed2-7dd8-b108-c7b9f233730c",
+      "time": "2026-06-25 09:30:10",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bearish",
+        "XAUUSD",
+        "Impact bullish",
+        "Copper"
+      ],
+      "text": "Australia May full-time employment +5,200; previous month -10,700."
+    },
+    {
+      "id": "mkt:019efc66-1c7a-7dd8-b108-bb98164d0b2b",
+      "time": "2026-06-25 09:30:10",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "601988.SS",
+        "Impact bearish"
+      ],
+      "text": "Bank of China A-shares fell nearly 2% after China's National Audit Office reported the bank evaded 2.367 bln yuan in taxes."
+    },
+    {
+      "id": "mkt:019efc66-1c16-7dd8-b108-b25b5b959823",
+      "time": "2026-06-25 09:30:10",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "Australia May employment +40.3k, vs consensus +30.0k; prior -18.6k."
+    },
+    {
+      "id": "4953802",
+      "time": "2026-06-25 09:30:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "【股指期貨早盤開盤】 中證1000指數期貨連續漲0.07%， 滬深300指數期貨連續漲0.01%， 中證500指數期貨連續跌0.02%， 上證50指數期貨連續跌0.10%。"
+    },
+    {
+      "id": "4953801",
+      "time": "2026-06-25 09:30:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "【國債期貨開盤】 30年期主力合約漲0.12%， 10年期主力合約漲0.03%， 5年期主力合約漲0.03%， 2年期主力合約漲0.01%。"
+    },
+    {
+      "id": "mkt:019efc65-f4d7-7dd8-b108-a37a111568e3",
+      "time": "2026-06-25 09:30:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Australia | Labour Force Participation Rate SA (May) | actual 66.7% | consensus 66.7% | previous 66.70%"
+    },
+    {
+      "id": "mkt:019efc65-f4d8-7dd8-b108-ae76a61ec5ed",
+      "time": "2026-06-25 09:30:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Australia | Unemployment Rate SA (May) | actual 4.4% | consensus 4.40% | previous 4.50%"
+    },
+    {
+      "id": "mkt:019efc65-f4d6-7dd8-b108-9a95f6a03460",
+      "time": "2026-06-25 09:30:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Australia | Employment (May) | actual 40300K | consensus 30000K | previous -18600K"
+    },
+    {
+      "id": "mkt:019efc65-f4d4-7dd8-b108-94b278b9ab3a",
+      "time": "2026-06-25 09:30:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Australia | Full-Time Employment (May) | actual 5200K | previous -10700K"
+    },
+    {
+      "id": "4953800",
+      "time": "2026-06-25 09:29:26",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "馬來西亞林吉特上漲0.5%，表現領跑新興亞洲貨幣。"
+    },
+    {
+      "id": "mkt:019efc65-46eb-7dd8-b108-8ba655f7ca29",
+      "time": "2026-06-25 09:29:16",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Venezuela acting president to address nation】Two earthquakes above magnitude 7 struck northern Venezuela within a minute on the evening of June 24 local time (morning of June 25 Beijing). The USGS placed the epicenter about 160 km west of Caracas at a depth of 10 km. Buildings in Caracas were damaged; casualty figures are unknown. The quakes occurred on a public holiday while many people were at home. Venezuela's acting president Rodríguez will address the nation. The USGS warned the twin quakes could cause \"large numbers of casualties and widespread damage.\""
+    },
+    {
+      "id": "4953799",
+      "time": "2026-06-25 09:28:25",
+      "tags": [
+        "公司",
+        "觀點",
+        "原創"
+      ],
+      "text": "【花旗將新易盛目標價上調近一倍 稱全球光互連市場三年增長率有望達65%】花旗上調新易盛、東山精密以及天孚通訊的目標價，稱全球光互連行業2028年整體市場規模可能達到920億美元，三年複合年增長率為65%。花旗分析師Kyna Wong等人在報告中表示，在此期間由於技術升級，平均售價複合年增長率有望達到18%。該行將新易盛目標價上調約98%至701元，受益於3.2T/NPO（近封裝光學）技術演進；將東山精密目標價上調約56%至350元，看好其在光晶片/光模組領域的份額提升；將天孚通訊目標價上調約32%至419元，作為CPO（共封裝光學）的核心受益標的；將太辰光的評級從買入下調至賣出，主因是存在與康寧脫鉤的風險以及目前估值過高。"
+    },
+    {
+      "id": "4953798",
+      "time": "2026-06-25 09:28:20",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "瀝青連續主力合約日內跌4%，現報3669.00元。"
+    },
+    {
+      "id": "mkt:019efc63-999b-7dd8-b108-81887f68557b",
+      "time": "2026-06-25 09:27:26",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "SSE Composite",
+        "Impact bearish",
+        "SZSE Component",
+        "Impact bullish",
+        "CSI300"
+      ],
+      "text": "On June 25, China's Shanghai Composite Index opened down 7.33 points (-0.18%) at 4,103.48; Shenzhen Composite Index opened up 48.44 points (+0.30%) at 16,099.76. CSI 300 Index opened up 7.96 points (+0.16%) at 4,950.98; ChiNext Index opened up 26.91 points (+0.63%) at 4,278.34; STAR 50 Index opened up 15.34 points (+0.77%) at 2,004.77."
+    },
+    {
+      "id": "mkt:019efc63-3184-7dd8-b108-7f7298701623",
+      "time": "2026-06-25 09:26:59",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Korea Exchange (KRX) announced it is postponing the planned launch of single-stock weekly options."
+    },
+    {
+      "id": "4953797",
+      "time": "2026-06-25 09:26:54",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【儲存晶片板塊高開，太極實業漲停】儲存晶片板塊高開，太極實業漲停，匯成股份漲超10%，盛視科技、雅克科技、佰維儲存、江波龍、勝科奈米跟漲。"
+    },
+    {
+      "id": "4953796",
+      "time": "2026-06-25 09:26:44",
+      "tags": [
+        "焦點"
+      ],
+      "text": "三大股指開盤漲跌不一，滬指跌0.18％，深成指漲0.3％，創業板漲0.63％。"
+    },
+    {
+      "id": "4953795",
+      "time": "2026-06-25 09:26:26",
+      "tags": [
+        "公司"
+      ],
+      "text": "【聚合聚變完成數億元天使輪融資，高瓴創投、紅杉中國等參與】6月25日，合肥聚合聚變技術有限公司宣佈完成數億元天使輪融資，本輪投資方包括高瓴創投、紅杉中國、同創偉業、合肥產投旗下合肥創新投、BV百度風投、國元證券旗下國元股權。本輪資金將重點用於FRC脈衝磁約束聚變裝置迭代研發、核心關鍵部件自研、工程體系搭建與高階人才梯隊擴容，進一步推動FRC脈衝磁約束聚變技術系統化工程落地。"
+    },
     {
       "id": "mkt:019efc62-7df9-7dd8-b108-717e03b10781",
       "time": "2026-06-25 09:26:13",
@@ -154871,101 +155077,6 @@
         "Importance 0"
       ],
       "text": "SSE Commodity Index Hits 7-year Low — SSE Commodity Index decreased to 6439.00 Index Points, the lowest since February 2019. Over the past 4 weeks, SSE Consume Commodity Index lost 9.37%, and in the last 12 months, it decreased 15.75%."
-    },
-    {
-      "id": "4942181",
-      "time": "2026-06-18 09:30:20",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "恒生科技指數跌超1%，現報4622.050點；恒生指數現跌0.926%。"
-    },
-    {
-      "id": "mkt:019ed859-b630-7dd8-b068-3940b865b11b",
-      "time": "2026-06-18 09:30:18",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Greater China",
-        "CSI300",
-        "Impact bullish"
-      ],
-      "text": "China A-share healthcare sector opened higher in the pre-market call auction. Aidite hit a 20CM limit-up at the open; Dongfang Zirconium, Changyu Group and Huaci Co. also opened at the daily limit. Guoci Materials, Kanghui Co. and Zhenghai Medical climbed afterward."
-    },
-    {
-      "id": "4942180",
-      "time": "2026-06-18 09:30:08",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【有色·鋯概念大幅高開 愛迪特等多股一字漲停】早盤有色·鋯概念大幅高開，愛迪特、東方鋯業、長裕集團一字漲停，國瓷材料、三祥新材高開超4%。"
-    },
-    {
-      "id": "4942179",
-      "time": "2026-06-18 09:30:03",
-      "tags": [
-        "市場"
-      ],
-      "text": "【股指期貨早盤開盤】 中證1000指數期貨連續漲0.12%， 滬深300指數期貨連續漲0.17%， 中證500指數期貨連續漲0.18%， 上證50指數期貨連續跌0.02%。"
-    },
-    {
-      "id": "4942178",
-      "time": "2026-06-18 09:30:03",
-      "tags": [
-        "市場"
-      ],
-      "text": "【國債期貨開盤】 30年期主力合約漲0.04%， 10年期主力合約漲0.04%， 5年期主力合約漲0.02%， 2年期主力合約基本持平。"
-    },
-    {
-      "id": "4942177",
-      "time": "2026-06-18 09:30:02",
-      "tags": [
-        "市場"
-      ],
-      "text": "中證轉債指數開盤上漲0.03%。通合轉債、天準轉債、花園轉債、頎中轉債、祥和轉債漲幅居前，分別漲14.43%、5.08%、4.07%、3.82%、3.22%。山玻轉債、泰坦轉債、長海轉債、瑞科轉債、裕興轉債跌幅居前，分別跌7.28%、4.17%、3.56%、2.56%、1.65%。"
-    },
-    {
-      "id": "4942176",
-      "time": "2026-06-18 09:29:36",
-      "tags": [
-        "國際"
-      ],
-      "text": "【光庭資訊獲馬來西亞頭部OEM專案定點】據光庭資訊訊息，光庭資訊在東南亞市場取得歷史性突破——成功獲得馬來西亞某頭部OEM廠商的HMI開發專案定點。"
-    },
-    {
-      "id": "4942175",
-      "time": "2026-06-18 09:29:17",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "日本央行副行長冰見野良三將於週五出席國會聽證會。"
-    },
-    {
-      "id": "mkt:019ed858-a9d0-7dd8-b068-3227840c5968",
-      "time": "2026-06-18 09:29:09",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "SSE Composite",
-        "Impact bearish",
-        "SZSE Component",
-        "CSI300"
-      ],
-      "text": "Chinese shares opened lower on Thursday, June 18: China's Shanghai Composite Index down 13.85 points (-0.34%) at 4,094.23; Shenzhen Composite Index down 54.16 points (-0.34%) at 15,826.79; CSI 300 Index down 15.34 points (-0.31%) at 4,916.04; ChiNext Index down 13.43 points (-0.32%) at 4,153.62; STAR 50 Index down 3.75 points (-0.20%) at 1,837.07."
-    },
-    {
-      "id": "4942174",
-      "time": "2026-06-18 09:27:57",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "焦煤連續主力合約日內跌3%，現報1308.50元。"
     }
   ]
 }
