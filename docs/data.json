@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-26 05:26:06",
-  "count": 16976,
+  "updated": "2026-06-26 05:30:06",
+  "count": 16973,
   "items": [
     {
       "id": "te:economy:562004",
@@ -155328,40 +155328,6 @@
         "Brent"
       ],
       "text": "Iraq's oil minister said crude export recovery will be gradual and contingent on smooth passage through the Strait of Hormuz."
-    },
-    {
-      "id": "mkt:019edca3-ca58-7dd8-b088-cd01f2497c1e",
-      "time": "2026-06-19 05:29:42",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "Iraq's oil minister says oilfields are ready to resume production operations."
-    },
-    {
-      "id": "mkt:019edca3-8f4a-7dd8-b088-c5b5f31ef8c2",
-      "time": "2026-06-19 05:29:26",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "Iraq's oil minister said the country will gradually restore oil production to normal operations until output returns to previous levels."
-    },
-    {
-      "id": "4944325",
-      "time": "2026-06-19 05:29:09",
-      "tags": [
-        "其他"
-      ],
-      "text": "伊拉克石油部長：石油生產將逐步恢復運營，直至回到此前的產量水平。"
     }
   ]
 }
