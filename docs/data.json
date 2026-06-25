@@ -1,7 +1,88 @@
 {
-  "updated": "2026-06-25 23:56:05",
-  "count": 16914,
+  "updated": "2026-06-26 00:01:03",
+  "count": 16906,
   "items": [
+    {
+      "id": "te:markets:561964",
+      "time": "2026-06-25 23:59:31",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "France",
+        "Stock Market",
+        "Importance 0"
+      ],
+      "text": "CAC 40 Rises on Finance and Tech Gains — The CAC 40 rose 0.6% to close at 8,432 on Thursday as oil prices remained near pre-conflict levels and optimism over AI-driven growth prospects returned. Growing confidence in a lasting US-Iran agreement encouraged more tankers to transit the Strait of Hormuz, keeping oil prices low and easing inflation concerns. Financial stocks posted gains, with BNP Paribas up 1.5%, AXA advancing 0.7%, and Societe Generale gaining 2.8%. Meanwhile, STMicroelectronics rose 2.7% after Micron reported strong quarterly results and issued an upbeat revenue outlook, pointing to sustained AI-related demand and helping revive appetite for technology stocks after the recent global selloff. Industrial stocks traded mixed, with Safran up 1.6%, while Thales fell 3.1% on progress toward a US-Iran ceasefire. Luxury stocks were also mixed, with LVMH and L'Oréal edging higher, while Hermès lost 0.9%."
+    },
+    {
+      "id": "mkt:019eff81-e2c2-7dd8-b120-fece827103b4",
+      "time": "2026-06-25 23:59:22",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Romanian president said he hopes a new government will be formed before parliament's summer recess on June 30."
+    },
+    {
+      "id": "4955576",
+      "time": "2026-06-25 23:59:06",
+      "tags": [
+        "市場"
+      ],
+      "text": "洲際交易所 7 月柴油期貨結算價報每噸 913.50 美元。"
+    },
+    {
+      "id": "te:markets:561963",
+      "time": "2026-06-25 23:59:00",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Euro Area",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "European Stocks Close at Record — European stocks closed higher on Thursday, gaining traction from a muted session yesterday amid fresh support from the tech sector. Euro STOXX 50 gained 0.8% to 6,263 and the STOXX Europe 600 rose 0.8% to a record high of 640. Chip stocks and companies with exposure to AI infrastructure surged following their pullback yesterday after the strong guidance by Micron in the US restored some confidence in the AI trade. ASML added 2.6% and Infineon gained 2.3%, while Siemens Energy jumped 2.5%. Meanwhile, banks also rebounded as energy prices retreated further and lowered sovereign yields in the Eurozone, supporting the outlook for credit activity. BNP Paribas and BBVA rose 1.5%. Lastly, Bayer surged close to 20%, its strongest session in 23 years after the US Supreme Court sided with the drugmaker on lawsuits concerning its Roundup weedkiller."
+    },
+    {
+      "id": "4955575",
+      "time": "2026-06-25 23:58:35",
+      "tags": [
+        "國際"
+      ],
+      "text": "羅馬尼亞總統表示，他期待各政黨向他提名一個支援親歐洲的議會多數派，以批准組建少數派內閣。"
+    },
+    {
+      "id": "4955574",
+      "time": "2026-06-25 23:58:06",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "巴西央行官員： 我們持續監測中性利率水平。"
+    },
+    {
+      "id": "4955573",
+      "time": "2026-06-25 23:57:21",
+      "tags": [
+        "其他"
+      ],
+      "text": "羅馬尼亞總統表示，羅馬尼亞最好能在6月30日議會進入夏季休會之前組建新政府。"
+    },
+    {
+      "id": "4955572",
+      "time": "2026-06-25 23:57:11",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：瑞銀交易業務主管巴倫將牽頭投行人工智慧戰略工作。"
+    },
+    {
+      "id": "4955570",
+      "time": "2026-06-25 23:55:36",
+      "tags": [
+        "公司"
+      ],
+      "text": "倫敦金屬交易所（LME）公告：里昂證券（英國）自2026年6月29日星期一 起，正式以二類會員身份開始在倫敦金屬交易所開展交易業務。"
+    },
     {
       "id": "mkt:019eff7e-2570-7dd8-b120-f1f3f05dffb6",
       "time": "2026-06-25 23:55:17",
@@ -154501,154 +154582,6 @@
         "國際"
       ],
       "text": "白宮遞交給國會的文字顯示：伊朗將在60天內保障霍爾木茲海峽過往商船免費安全通行。"
-    },
-    {
-      "id": "4943976",
-      "time": "2026-06-19 00:00:55",
-      "tags": [
-        "國際"
-      ],
-      "text": "白宮遞交給國會的文字顯示：美國及地區夥伴擬為伊朗制定規模3000億美元的重建與經濟發展計劃。"
-    },
-    {
-      "id": "mkt:019edb76-92a8-7dd8-b084-64654236f2e9",
-      "time": "2026-06-19 00:00:41",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bearish",
-        "S&P500",
-        "Impact bullish",
-        "DXY"
-      ],
-      "text": "The US and Iran announced an immediate, permanent cessation of military operations on all fronts, including Lebanon. The US will fully end its maritime blockade of Iran within 30 days."
-    },
-    {
-      "id": "4943975",
-      "time": "2026-06-19 00:00:39",
-      "tags": [
-        "公司"
-      ],
-      "text": "亞馬遜員工稱，因就資料中心相關事宜出庭作證遭到盤問。"
-    },
-    {
-      "id": "4943974",
-      "time": "2026-06-19 00:00:29",
-      "tags": [
-        "國際"
-      ],
-      "text": "房地美資料：美國30年期抵押貸款利率降至6.47%。"
-    },
-    {
-      "id": "4943972",
-      "time": "2026-06-19 00:00:17",
-      "tags": [
-        "其他"
-      ],
-      "text": "房地美：截至6月18日，15年期固定抵押貸款平均利率為5.81%。"
-    },
-    {
-      "id": "4943971",
-      "time": "2026-06-19 00:00:10",
-      "tags": [
-        "國際"
-      ],
-      "text": "白宮遞交給國會的文字顯示：美國與伊朗承諾在60日內談判達成最終協議，若雙方同意可延長談判期限。"
-    },
-    {
-      "id": "4943967",
-      "time": "2026-06-18 23:59:41",
-      "tags": [
-        "其他"
-      ],
-      "text": "萬斯：與古巴政府談論改變他們的方式。"
-    },
-    {
-      "id": "4943966",
-      "time": "2026-06-18 23:59:32",
-      "tags": [
-        "國際"
-      ],
-      "text": "烏克蘭國防部長表示，拉姆施泰因會議上已宣佈一項規模10億美元的武器援助包。"
-    },
-    {
-      "id": "4943965",
-      "time": "2026-06-18 23:59:23",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國與伊朗宣佈立即永久停止包括黎巴嫩在內所有戰線的軍事行動。"
-    },
-    {
-      "id": "4943964",
-      "time": "2026-06-18 23:59:17",
-      "tags": [
-        "國際"
-      ],
-      "text": "【萬斯指責以色列對美國缺乏信任】據美國《紐約時報》6月18日報道，美國副總統萬斯當天在接受採訪時批評以色列對美國、伊朗達成的諒解備忘錄表現出“怪異的恐慌”和“歇斯底里”。報道稱，以色列各政治派別的官員，包括總理內塔尼亞胡的一些盟友，都對美伊諒解備忘錄提出了批評。他們表示，該備忘錄“未能解決以色列對伊朗核計劃和彈道導彈計劃的關切，並將束縛以色列針對黎巴嫩真主黨的軍事行動”。 萬斯在接受採訪時則指責以色列對美國缺乏信任。他說：“我們為這個國家（以色列）和其政府做得非常好。我認為所謂我們達成了糟糕協議（諒解備忘錄）的說法既不符合事實，從雙方長久關係的宏觀角度來看也完全說不通。以色列想當然地認為，所有設想中對伊朗有利的事情都會發生——而且是在伊朗人不改變任何行為的情況下發生。但協議（諒解備忘錄）中並不是這麼寫的。” 針對美伊諒解備忘錄的批評者——以色列極右翼政治人士、國家安全部長本-格維爾和財長斯莫特里赫，萬斯回應道：“我想對他們說的是，你們是一個只有900萬人口的國家，不能指望僅僅透過殺戮來解決你們面臨的每一個國家安全問題。” （CCTV國際時訊）"
-    },
-    {
-      "id": "4943963",
-      "time": "2026-06-18 23:58:45",
-      "tags": [
-        "國際"
-      ],
-      "text": "【張柱會見德國聯邦農業、食品和國土部部長阿洛伊斯·賴納】6月18日，農業農村部部長張柱在京會見德國聯邦農業、食品和國土部部長阿洛伊斯·賴納一行。張柱表示，在雙方領導人的戰略引領下，中德農業務實合作穩步向前，農業政策、農業科技和農產品貿易等領域交流合作不斷深化，成果豐碩。中方願與德方一道，秉持開放發展、互利共贏理念，加強機制交流，充分發揮中德農業中心作用，深化農業科技交流，推進農業各領域合作走深走實，不斷取得新成果，為中德全方位戰略伙伴關係發展作出更大貢獻。賴納表示，德方高度重視對華農業合作，願與中方加強對話溝通，深化農業科技、農產品貿易和動物疫病防控等領域交流合作。"
-    },
-    {
-      "id": "mkt:019edb74-96ad-7dd8-b084-5dcb25ac745f",
-      "time": "2026-06-18 23:58:31",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Zhang Zhu meets Germany's federal agriculture minister Alois Reiner】June 18, Beijing — China's Minister of Agriculture and Rural Affairs Zhang Zhu met Germany's Federal Minister of Agriculture and Food Alois Reiner. Zhang said China is willing to strengthen institutional exchanges and deepen cooperation with Germany on agricultural policy, agri‑technology and farm‑product trade to advance practical cooperation; Reiner said Germany attaches high priority to agricultural ties with China and is willing to deepen dialogue and cooperation on agri‑technology, farm trade and animal‑disease prevention."
-    },
-    {
-      "id": "4943962",
-      "time": "2026-06-18 23:58:30",
-      "tags": [
-        "國際"
-      ],
-      "text": "萬斯：如果伊朗試圖資助恐怖組織，我們走著瞧。"
-    },
-    {
-      "id": "mkt:019edb74-038d-7dd8-b084-5763d103ddf1",
-      "time": "2026-06-18 23:57:53",
-      "tags": [
-        "MKT News",
-        "Important",
-        "WTI",
-        "Impact bearish",
-        "XAUUSD",
-        "S&P500",
-        "Impact bullish"
-      ],
-      "text": "Politico reports the White House has submitted to Congress a \"memorandum of understanding\" aimed at pausing Iranian hostile actions."
-    },
-    {
-      "id": "4943961",
-      "time": "2026-06-18 23:56:41",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "白宮已向國會遞交伊朗相關協議檔案。"
-    },
-    {
-      "id": "4943960",
-      "time": "2026-06-18 23:56:38",
-      "tags": [
-        "國際"
-      ],
-      "text": "萬斯：伊朗方面表示要等到週五才會對外公佈協議文字。"
-    },
-    {
-      "id": "mkt:019edb72-abb1-7dd8-b084-4da8409ddf3a",
-      "time": "2026-06-18 23:56:25",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "U.S. Vice President Vance said he does not believe the administration's public messaging has been confused."
     }
   ]
 }
