@@ -1,7 +1,112 @@
 {
-  "updated": "2026-06-25 15:21:22",
-  "count": 17025,
+  "updated": "2026-06-25 15:25:21",
+  "count": 17018,
   "items": [
+    {
+      "id": "mkt:019efdaa-de9b-7dd8-b110-d2f55ac1809c",
+      "time": "2026-06-25 15:24:54",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Jefferies: Samsung likely to follow SK Hynix with U.S. ADR listing】Jefferies research head Jeff Kim said Samsung is likely to follow SK Hynix by listing in the U.S. via ADRs, which would boost valuations of Korean chipmakers that lag Micron and serve as an important catalyst for chip stocks at an inflection point."
+    },
+    {
+      "id": "4954417",
+      "time": "2026-06-25 15:24:41",
+      "tags": [
+        "其他"
+      ],
+      "text": "【中國國防部舉辦第二屆上海合作組織】6月25日下午，國防部舉行例行記者會，國防部新聞發言人張曉剛大校答記者問。 張曉剛：6月25日至7月1日，中國國防部舉辦第二屆上海合作組織中青年軍官交流活動，邀請上合組織成員國、觀察員國、對話夥伴和相關國家中青年軍官、防務官員，以及上合組織秘書處代表參加。此次活動由國防科技大學承辦，主題為“上合青年同行，共築安全未來”，開展專題講座、研討交流和參觀訪問等活動，旨在厚植友好根基、凝聚合作共識，積極推動上合組織防務安全合作實現更加團結、更重協作、更富活力、更有作為的高質量發展。（日月譚天）"
+    },
+    {
+      "id": "te:economy:561788",
+      "time": "2026-06-25 15:24:19",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Spain",
+        "GDP Growth Rate",
+        "Importance 1"
+      ],
+      "text": "Spain GDP Growth Confirmed at 0.6% in Q1 — Spain’s economy grew by 0.6% qoq in the first quarter of 2026, following a 0.8% expansion in the final quarter of 2025 and matching the preliminary estimate. Household consumption rose 0.6% (vs. 0.9% in Q4) and public spending returned to growth, increasing 0.4% after a 0.9% decline. Investment activity weakened significantly, with gross fixed capital formation rising just 0.4%, compared with a 2.1% increase in the previous quarter. Investment in machinery and equipment contracted by 1.9%, reversing a strong 6.3% gain in Q4. On the external side, exports fell 0.6% after a 0.7% increase in the previous quarter, while imports declined 1.0%, reversing a 1.2% rise. On an annual basis, Spain’s economy expanded 2.7% in the first quarter, the same as in the previous quarter and in line with the initial estimate."
+    },
+    {
+      "id": "4954415",
+      "time": "2026-06-25 15:23:53",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【歐盟對涉華1,4-丁二醇作出反傾銷肯定性終裁】6月24日，歐盟委員會發布公告，對原產於中國、沙烏地阿拉伯和美國的1,4-丁二醇作出反傾銷肯定性終裁，裁定中國涉案企業新疆美克化工股份有限公司反傾銷稅為105.6%、萬華化學（四川）有限公司反傾銷稅為113.7%、其他合作企業反傾銷稅為107.5%、中國其他企業反傾銷稅為113.7%，沙烏地阿拉伯涉案企業International Diol Company及沙烏地阿拉伯其他企業反傾銷稅均為52.4%，美國涉案企業Lyondell Chemical Company反傾銷稅為135.7%、美國其他企業反傾銷稅為142.5%。案件傾銷調查期為2024年1月1日至2024年12月31日，損害調查期為2021年1月1日至傾銷調查期結束。公告自發布次日起生效。"
+    },
+    {
+      "id": "4954413",
+      "time": "2026-06-25 15:23:31",
+      "tags": [
+        "公司"
+      ],
+      "text": "H&M執行長：我們將繼續推進銷售庫存壓降工作，但推進節奏將放緩。"
+    },
+    {
+      "id": "mkt:019efda9-249f-7dd8-b110-c99a5bb4a482",
+      "time": "2026-06-25 15:23:01",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "U.S. and Brent crude showed little near-term volatility, trading at $70.42/bbl and $73.18/bbl respectively."
+    },
+    {
+      "id": "mkt:019efda8-446c-7dd8-b110-c679329b537c",
+      "time": "2026-06-25 15:22:03",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "Sources say Iraqi officials had considered exiting OPEC but now plan to remain a member and seek a higher production quota."
+    },
+    {
+      "id": "4954412",
+      "time": "2026-06-25 15:21:38",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "訊息人士稱，伊拉克官員已考慮退出石油輸出國組織（歐佩克，OPEC），儘管目前該國仍計劃保留成員國身份並爭取更高產量配額。"
+    },
+    {
+      "id": "mkt:019efda7-b7f6-7dd8-b110-bd32d250d3a4",
+      "time": "2026-06-25 15:21:27",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact mixed",
+        "Brent"
+      ],
+      "text": "An Iraqi senior official said Iraq is facing a severe financial crisis after oil exports plunged sharply due to the war in Iran, and an increase in Iraq's OPEC quota should be treated as a high priority."
+    },
+    {
+      "id": "4954411",
+      "time": "2026-06-25 15:21:19",
+      "tags": [
+        "國際"
+      ],
+      "text": "路透調查：韓元超過印尼盾成為最不受歡迎的亞洲貨幣。對印尼盾的看空情緒觸及四月中旬低點，：對印度盧比的空頭押注降至11個月來的最低水平。"
+    },
+    {
+      "id": "4954409",
+      "time": "2026-06-25 15:21:01",
+      "tags": [
+        "市場"
+      ],
+      "text": "【6月25日滬深兩市漲停分析】創業板指放量上漲近3%、科創50漲近4%，儲存晶片、半導體概念持續爆發，全市下跌個股超4200只。興業科技5連板，宏柏新材3連板，一圖看懂>>"
+    },
     {
       "id": "mkt:019efda7-3861-7dd8-b110-b53a85a3d0a1",
       "time": "2026-06-25 15:20:54",
@@ -13,6 +118,14 @@
         "Brent"
       ],
       "text": "A senior Iraqi oil ministry official said if OPEC quotas do not increase substantially, Iraq will be forced to consider all available options."
+    },
+    {
+      "id": "4954408",
+      "time": "2026-06-25 15:20:52",
+      "tags": [
+        "國際"
+      ],
+      "text": "一名高階石油官員表示，伊拉克正面臨伊朗戰爭引發的石油出口銳減所觸發的嚴重金融危機，其歐佩克配額上調請求應當得到最嚴肅對待。"
     },
     {
       "id": "4954407",
@@ -155266,173 +155379,6 @@
         "國際"
       ],
       "text": "【金價因美聯儲加息訊號下跌，儘管受伊朗協議提振】美聯儲官員暗示其下一步行動可能是加息後，金價下跌，這抵消了油價下跌帶來的支撐，油價下跌曾緩解了對通脹的擔憂。較高的利率增加了持有金條等無收益資產的機會成本。在早盤交易中，紐約期金下跌1.2%，至每盎司4,328.20美元，不過本週仍有望實現5%的漲幅。盛寶銀行的分析師表示：“這種截然不同的反應突顯出，市場目前難以在短期宏觀逆風與黃金的長期結構性支撐之間取得平衡。“然而，“在能源價格大幅回落的背景下，美聯儲2026年的通脹預測是否會顯得過高，並需要在未來幾個月內下調，這也仍是個問題。”"
-    },
-    {
-      "id": "4942736",
-      "time": "2026-06-18 15:25:08",
-      "tags": [
-        "國際"
-      ],
-      "text": "【以色列襲擊黎巴嫩南部兩地】據黎巴嫩“廣場”電視臺18日報道，以色列國防軍當天上午對黎巴嫩南部兩地發動襲擊，造成1人死亡、1人受傷。 報道說，以軍對黎南部奈拜提耶地區的富卡發動炮擊，同時對該地區的泰卜尼特村發動無人機襲擊。 據伊朗塔斯尼姆通訊社18日報道，伊朗外交部發言人巴加埃當天表示，如果以色列繼續襲擊黎巴嫩，將被視為違反美國的承諾。 在伊美雙方公佈的諒解備忘錄中，均有涉及立即並永久停止包括黎巴嫩在內的所有戰線的軍事行動的條款。(新華社)"
-    },
-    {
-      "id": "4942735",
-      "time": "2026-06-18 15:24:59",
-      "tags": [
-        "行業",
-        "公司",
-        "市場",
-        "焦點"
-      ],
-      "text": "【寒武紀衝向萬億市值，否認向位元組供貨】6月18日盤中，寒武紀股價漲超16%，創歷史新高，盤中市值達到9656億元，望向萬億市值。訊息面上，近期有關於國內網際網路公司採購國產算力的訊息。行業人士稱位元組跳動正在與天數智芯討論採購至少5萬顆AI晶片，主要用於推理工作，華為、寒武紀也是位元組跳動的供應商。就上述交流紀要內容，記者以投資者身份撥打寒武紀證券事務代表電話。相關負責人表示，這是網上流傳的“小作文”，請投資者注意甄別，還是以官方釋出的資訊為準，近期寒武紀沒有接待過內部交流活動。（第一財經）"
-    },
-    {
-      "id": "te:markets:559976",
-      "time": "2026-06-18 15:24:34",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Euro Area",
-        "Stock Market",
-        "Importance 2"
-      ],
-      "text": "European Stocks Mixed After US-Iran Deal and Fed Stance — European stocks showed mixed performance on Thursday as investors processed the US-Iran interim agreement and hawkish signals from the US Federal Reserve. The STOXX 50 rose 0.3% to a new record of 6,330 points, while the STOXX 600 dipped 0.2% to 638 points. The tentative US-Iran ceasefire, ending the Iran war and reopening the Strait of Hormuz, drove oil prices to three-month lows, easing inflation concerns. Meanwhile, the US Federal Reserve kept interest rates unchanged, but new Fed Chair Kevin Warsh hinted at a potential rate hike to curb inflation. Later, the Bank of England is expected to maintain rates, with policymaker dissent under scrutiny for any hawkish shifts. In individual stocks, BE Semi fell 0.4% despite raising long-term revenue and margin targets. Volkswagen dropped 0.5% amid reports of complications at its Osnabrueck plant tied to a key shareholder, while UniCredit gained 0.4% after approaching Delfin about increasing its Generali stake."
-    },
-    {
-      "id": "4942734",
-      "time": "2026-06-18 15:24:32",
-      "tags": [
-        "公司"
-      ],
-      "text": "【杭州高新：向特定物件發行股票申請獲深交所受理】杭州高新公告，公司於2026年6月17日收到深圳證券交易所出具的受理通知，深交所對公司報送的向特定物件發行股票申請檔案核對後認為齊備，決定予以受理。本次發行尚需透過深交所稽核並獲得中國證監會同意註冊的批覆後方可實施，存在不確定性。"
-    },
-    {
-      "id": "4942733",
-      "time": "2026-06-18 15:24:23",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "【累計抽檢粽子等4.6萬餘批次 市場監管總局開展“你點我檢”活動】記者今天瞭解到，市場監管總局近日組織各地開展以“迎端午 享食安”為主題的“你點我檢”活動，深入排查節日期間食品安全風險隱患，全力守護百姓“舌尖上的安全”。本次“你點我檢”活動廣泛徵集消費者的抽檢需求，累計釋出調查問卷171次，20.9萬人次參與食品點選，收集民意資訊475.4萬條。各地監管部門圍繞消費者關注度高、消費量大的端午節令食品，累計抽檢粽子、糯米、鹹鴨蛋等食品4.6萬餘批次，嚴防不合格食品流入市場。（央視新聞）"
-    },
-    {
-      "id": "4942732",
-      "time": "2026-06-18 15:23:54",
-      "tags": [
-        "其他"
-      ],
-      "text": "必和必拓預計2026財年詹森專案將計提23億美元的減值準備。"
-    },
-    {
-      "id": "mkt:019ed99d-6993-7dd8-b070-65b4c128489d",
-      "time": "2026-06-18 15:23:52",
-      "tags": [
-        "MKT News",
-        "Market Regions"
-      ],
-      "text": "【MOFCOM says China-EU trade contacts smooth; vice minister met EU trade DG to prepare ministerial talks】MOFCOM said communications in the China‑EU trade and economic sphere are smooth. On June 9 Vice Minister and deputy chief trade negotiator Ling Ji met European Commission Director‑General for Trade and Economic Security Jorgensen at EC headquarters to discuss the China‑EU trade and investment consultation mechanism and to prepare upcoming ministerial‑level consultations. The EU told China it does not seek a trade war and supports constructive dialogue; China said it will work with the EU to manage differences through negotiation, address disputes and promote pragmatic cooperation to keep bilateral trade healthy and stable."
-    },
-    {
-      "id": "mkt:019ed99d-5c19-7dd8-b070-59867847c2ea",
-      "time": "2026-06-18 15:23:49",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Shangong Shenbei breaks ground on carbon-fiber composite and light-aircraft plant in Weihai】Shangong Shenbei said its subsidiary Shangong Feiren General Aviation (Weihai) Co. held a ground-breaking ceremony on June 17 in the Weihai Torch Hi‑tech Industrial Development Zone for a carbon-fiber composite structural parts and light-aircraft manufacturing project. The JV with Weihai Hi‑tech Venture Capital Partnership will occupy about 103 mu (≈6.9 ha) and will house carbon-fiber composite part production, light-aircraft final assembly, R&D and sales as a headquarters base."
-    },
-    {
-      "id": "4942731",
-      "time": "2026-06-18 15:23:27",
-      "tags": [
-        "其他"
-      ],
-      "text": "【香港世界競爭力排名上升至全球第二位】在國際管理發展學院最新發布的《2026年世界競爭力年報》（《2026年報》）中，香港的全球競爭力排名連續三年上升，今年上升一位至全球第二位，是自2019年以來最高。（大灣區之聲）"
-    },
-    {
-      "id": "mkt:019ed99c-ef96-7dd8-b070-543f9b2b2c2d",
-      "time": "2026-06-18 15:23:21",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Huatian Hotel confirmed it is not involved in the manufacture of looms or electronic textiles."
-    },
-    {
-      "id": "4942730",
-      "time": "2026-06-18 15:23:14",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "菲律賓央行行長：我們正努力抑制匯率波動，以緩解通脹壓力。"
-    },
-    {
-      "id": "4942729",
-      "time": "2026-06-18 15:22:58",
-      "tags": [
-        "公司"
-      ],
-      "text": "【上工申貝：碳纖維復材及輕型飛機制造專案開工奠基】據上工申貝訊息，6月17日上午，上工申貝控股子公司上工飛人通用航空（威海）有限公司碳纖維復材結構件及輕型飛機制造專案奠基儀式在威海火炬高技術產業開發區舉行。該專案由上工申貝集團與威海高新創業投資合夥企業共同投資設立的上工飛人通用航空（威海）有限公司投資，規劃佔地約103畝，建設集碳纖維復材結構件生產、輕型飛機總裝、研發與營銷於一體的總部基地。"
-    },
-    {
-      "id": "4942728",
-      "time": "2026-06-18 15:22:56",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "【商務部回應中歐近期經貿談判最新進展】6月18日，商務部召開例行新聞釋出會。有記者提問，請問中歐近期經貿談判最新進展如何？中方是否擔憂當前摩擦升級為全面貿易戰？商務部新聞發言人何亞東表示，中歐經貿領域溝通順暢。6月9日，商務部副部長兼國際貿易談判副代表凌激在歐盟總部與歐委會貿易和經濟安全總司約根森總司長舉行會談，深入、全面地討論了中歐貿易投資磋商機制的有關工作，為近期計劃舉行的部長級磋商做好準備。會談中，歐方表示，貿易戰不是歐盟對華政策目標，對中歐開展建設性對話持積極態度。中方願與歐方共同落實雙方領導人共識，透過對話協商管控分歧，妥處摩擦，促進務實合作，推動雙邊經貿關係健康穩定發展。"
-    },
-    {
-      "id": "4942727",
-      "time": "2026-06-18 15:22:35",
-      "tags": [
-        "公司"
-      ],
-      "text": "【華天酒店：公司未涉及生產織布機和電子布業務】華天酒店(000428)6月18日在互動平臺回覆稱，經確認公司未涉及生產織布機和電子布的業務。"
-    },
-    {
-      "id": "4942726",
-      "time": "2026-06-18 15:22:33",
-      "tags": [
-        "國際"
-      ],
-      "text": "【商務部：將根據全年計劃 持續辦好“出口中國”系列活動】商務部召開例行新聞釋出會。商務部新聞發言人何亞東表示，這次德國專場活動是“共享大市場•出口中國”在歐盟國家的首站，實現了經貿對接、擴大合作的雙重實效：一方面，搭建橋樑，助力兩國企業務實合作。活動匯聚中德80餘家企業120餘位代表現場洽談。中方組織了商飛、一汽等近20家重點企業，涉及航空裝備、汽車零部件等領域。德方企業同步推介精密儀器、特色原料藥等優勢商品，實現了有效對接。另一方面，增信釋疑，穩定德企對華合作預期。活動中，德國企業普遍表示，中國新質生產力發展給德國產品和技術進入中國市場帶來新機遇，中國超大規模市場的潛力和良好的營商環境持續吸引德國企業前往中國發展。下一步，我們將根據全年計劃，持續辦好“出口中國”系列活動。比如，7月，計劃在英國組織專場活動，英國作為“出口中國”的年度主題國，是今年活動重點，歡迎各位媒體朋友積極報道。"
-    },
-    {
-      "id": "4942725",
-      "time": "2026-06-18 15:22:21",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "印尼央行行長：2026年貸款增長仍預計將處於8%-12%區間內。"
-    },
-    {
-      "id": "4942724",
-      "time": "2026-06-18 15:22:15",
-      "tags": [
-        "公司",
-        "觀點",
-        "國際"
-      ],
-      "text": "【大摩亞洲CEO高浩灃：中國AI生態有潛力創造數萬億美元增量市場】6月17日，在2026陸家嘴論壇全體大會上，摩根士丹利亞洲執行長兼股票部全球聯席主管高浩灃（Gokul Laroia）表示，中國是除美國外唯一擁有獨立且全面AI生態系統的市場，有潛力創造3萬億至4萬億美元的增量市值。高浩灃具體分析稱，全球AI投資已增至每年約1萬億至1.5萬億美元，主要發生在美國，如今在中國和世界其他地區也日益增多。這些投資離不開供應鏈的支援，而供應鏈恰恰紮根於亞洲且很大程度上在中國，如此，中國、韓國和日本共同使這些AI投資成為可能。（第一財經）"
-    },
-    {
-      "id": "4942723",
-      "time": "2026-06-18 15:21:36",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "菲律賓央行行長：是否加息50個基點將取決於第二輪影響的實際嚴重程度。"
-    },
-    {
-      "id": "4942722",
-      "time": "2026-06-18 15:21:26",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【浙江省衛生用品商會：正研究討論Babycare、碧芭寶貝紙尿褲被曝含甲醯胺事件】據報道，有專業檢測機構在“好奇”“碧芭寶貝”“Babycare”等多個品牌的嬰幼兒紙尿褲中，檢出毒性物質甲醯胺。其中，“好奇”為美國金佰利旗下品牌，而“Babycare”隸屬於杭州白貝殼實業股份有限公司，“碧芭寶貝”隸屬於愛朵護理（浙江）股份有限公司。兩個涉事國產品牌都屬於浙江企業。6月18日，記者聯絡到浙江省衛生用品商會相關負責人，其表示：“國家對這個東西（指甲醯胺在紙尿褲中的含量）是沒有強制標準的，但對爬爬墊是有的。我們商會現在也在討論這個事情。”（每經）"
     }
   ]
 }
