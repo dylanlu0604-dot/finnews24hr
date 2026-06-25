@@ -1,7 +1,121 @@
 {
-  "updated": "2026-06-25 13:05:34",
-  "count": 17044,
+  "updated": "2026-06-25 13:09:23",
+  "count": 17047,
   "items": [
+    {
+      "id": "te:markets:561744",
+      "time": "2026-06-25 13:08:39",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Indonesia",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "Rupiah Stays Weak on Hawkish Fed Outlook — The Indonesian rupiah hovered above IDR 17,900 per U.S. dollar on Thursday, remaining under pressure as the U.S. dollar index held near a 14-month high, as the Federal Reserve indicated support for tighter monetary policy. The hawkish outlook outweighed the positive impact of progress in U.S.-Iran peace talks, which had eased geopolitical tensions and reduced demand for haven assets. Locally, traders looked ahead to next week's June inflation data, with particular focus on food prices after they posted the fastest annual rise in seven months in May, reflecting the impact of El Niño. Still, weakness was limited by foreign inflows into the central bank's one-year securities and government bonds, totaling about IDR 105 trillion so far in June. Lower oil prices, which have retreated toward pre-Iran conflict levels, also eased concerns over Indonesia's fiscal burden. Separately, MSCI reaffirmed Indonesia's emerging market status despite highlighting concerns over market transparency."
+    },
+    {
+      "id": "mkt:019efd2d-78a1-7dd8-b10d-471de7a1219d",
+      "time": "2026-06-25 13:07:56",
+      "tags": [
+        "MKT News",
+        "Important",
+        "03988.HK",
+        "Impact bearish",
+        "01398.HK",
+        "00939.HK"
+      ],
+      "text": "Chinese bank shares fell, led by Bank of China (03988.HK) down more than 6%; CITIC Bank (00998.HK) and Agricultural Bank of China (01288.HK) down over 3%; Postal Savings Bank of China (01658.HK), Industrial and Commercial Bank of China (01398.HK) and China Construction Bank (00939.HK) down over 2%."
+    },
+    {
+      "id": "4954160",
+      "time": "2026-06-25 13:07:36",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "日本日經指數上漲4.4%，報72,234.00點。"
+    },
+    {
+      "id": "te:markets:561743",
+      "time": "2026-06-25 13:07:31",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "commodity",
+        "Importance 0"
+      ],
+      "text": "Soybeans Hits 20-week Low — Soybeans decreased to 1100.00 USd/Bu, the lowest since February 2026. Over the past 4 weeks, Soybeans lost 6.58%, and in the last 12 months, it increased 8.33%."
+    },
+    {
+      "id": "4954159",
+      "time": "2026-06-25 13:07:11",
+      "tags": [
+        "公司"
+      ],
+      "text": "【四方達：公司PCD微鑽產品正展開試樣 需要一定時間週期】四方達(300179)在互動平臺表示，目前公司PCD微鑽產品正在按電子產品廠家的驗證程式展開試樣，需要一定時間週期。公司將積極與客戶保持溝通，具體業務情況請以公司公開披露的資訊為準。"
+    },
+    {
+      "id": "4954158",
+      "time": "2026-06-25 13:07:08",
+      "tags": [
+        "國際"
+      ],
+      "text": "【印度尼西亞稱已簽署合同進口俄羅斯石油】週四，在雅加達舉行的會議上，能源與礦產資源部長巴赫利·拉哈達利亞（Bahlil Lahadalia）向媒體表示，一家政府機構已簽署合同，從俄羅斯進口石油，並有可能增加進口量。 該機構為油氣測試機構Lemigas，最近已獲得授權，以保障能源安全為目的進口石油。"
+    },
+    {
+      "id": "4954157",
+      "time": "2026-06-25 13:07:00",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【A股光伏加工裝置板塊異動拉昇】邁為股份漲11.94%，帝爾鐳射、高測股份、拉普拉斯、奧特維、捷佳偉創、連城數控跟漲。"
+    },
+    {
+      "id": "mkt:019efd2c-7f53-7dd8-b10d-3cf63f4b3e01",
+      "time": "2026-06-25 13:06:52",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Sources say U.S. defense firm Anduril is in talks to buy a Nissan factory in Japan to produce unmanned aerial vehicles."
+    },
+    {
+      "id": "4954156",
+      "time": "2026-06-25 13:06:28",
+      "tags": [
+        "其他"
+      ],
+      "text": "【港股銀行板塊午後走低，中國銀行跌超5%】港股銀行板塊午後走低，中國銀行跌超5%，中信銀行、農業銀行跌超3%，甘肅銀行、郵儲銀行、重慶銀行、工商銀行紛紛下挫。"
+    },
+    {
+      "id": "4954155",
+      "time": "2026-06-25 13:06:19",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【半導體板塊市盈率突破210倍 18股晉升十倍股】截至6月24日收盤，半導體板塊滾動市盈率突破210倍大關，處於歷史百分位的99%以上。6月25日上午，半導體指數(882121)最高衝到10170點上方，較昨日收盤大漲逾4%，滾動市盈率最高逼近220倍大關，逼近歷史極值，後者為224倍。以2024年低點以來最大漲幅計算，半導體板塊已經誕生18只十倍股。其中，漲幅最大的是源傑科技，其間最大漲幅接近36倍。此外，德明利、普冉股份、寒武紀等個股最大漲幅超20倍，長光華芯、中船特氣、長川科技等個股超過14倍。這些十倍股當前估值普遍較高。其中，東芯股份、長光華芯、華虹宏力等個股市盈率超過千倍，源傑科技、聯動科技、中船特氣等個股市盈率超過百倍。此外，炬光科技、和林微納、盛科通訊-U等個股滾動市盈率為負。業內人士表示，當前半導體板塊的整體估值處於歷史較高水平。部分細分賽道市盈率已顯著高於海外成熟市場同類企業的平均水平。高估值通常意味著市場已充分定價了未來的樂觀預期，這也對企業的業績兌現能力提出了更高要求。"
+    },
+    {
+      "id": "4954154",
+      "time": "2026-06-25 13:05:59",
+      "tags": [
+        "公司",
+        "國際",
+        "原創"
+      ],
+      "text": "【三星電子一季度保持全球DRAM市佔率第一】市場研究公司Counterpoint Research週四公佈的資料顯示，三星電子今年第一季度繼續保持全球最大動態隨機存取儲存器（DRAM）供應商的地位，市場份額為38%，SK海力士以29%的市場份額位居第二，美光科技公司以22%位列第三。SK海力士在去年第一季度和第二季度曾領跑全球DRAM市場，三星位居第二。兩家公司在第三季度的市場份額均為33%，並列第一。去年第四季度三星重回榜首，並在今年第一季度繼續保持領先優勢。"
+    },
+    {
+      "id": "4954153",
+      "time": "2026-06-25 13:05:26",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【Cal-Maine等公司即將就美國司法部對雞蛋定價的調查達成和解】據媒體週四援引知情人士的話報道，Cal-Maine Foods 及其他雞蛋供應商即將就美國司法部和一個由兩黨州政府組成的團體針對其涉嫌非法價格串通的調查達成和解。報道還稱，美國司法部和各州也即將與希克曼斯蛋場（Hickmans’s Egg Ranch）和維爾索瓦公司（Versova）達成和解。"
+    },
     {
       "id": "4954152",
       "time": "2026-06-25 13:05:06",
@@ -155593,93 +155707,6 @@
         "MKT News"
       ],
       "text": "【Shenzhen issues red rainstorm warning, enters emergency defense】At 12:25 today Shenzhen Meteorological Observatory issued a red rainstorm warning. Over the past 3 hours cumulative rainfall in Luohu, Futian, Yantian, Longgang, Pingshan, Dapeng Bay, Longhua (Guanhu, Minzhi, Longhua, Guanlan subdistricts) and Dapeng New District (Kuichong subdistrict) reached extreme-heavy-rain levels. Another 40–70 mm of rain is expected in the next 1–2 hours. Shenzhen has entered an emergency rainstorm-defense state; authorities urge people to avoid low-lying and flood-prone areas. The named areas face high risk of urban flooding, flash floods, landslides, debris flows and ground collapse."
-    },
-    {
-      "id": "4942474",
-      "time": "2026-06-18 13:09:21",
-      "tags": [
-        "觀點"
-      ],
-      "text": "東吳證券恢復跟蹤國軒高科，評級買進。"
-    },
-    {
-      "id": "4942473",
-      "time": "2026-06-18 13:09:13",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "菲律賓股市指數上漲1%，至6177.38點。"
-    },
-    {
-      "id": "mkt:019ed922-1574-7dd8-b06c-76728d81a492",
-      "time": "2026-06-18 13:09:09",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "India has asked the World Bank and Asian Development Bank for $2.5 bln in infrastructure financing."
-    },
-    {
-      "id": "4942472",
-      "time": "2026-06-18 13:08:51",
-      "tags": [
-        "其他"
-      ],
-      "text": "【Counterpoint Research：5月11日至17日全球智慧手機銷量同比下降8%】調研機構CounterpointResearch報告稱，2026年第20周（5月11日至17日）全球智慧手機銷量同比下降8%，已連續9周負增長。僅蘋果和華為實現正增長，分別為10%、23%。"
-    },
-    {
-      "id": "mkt:019ed921-b533-7dd8-b06c-6a75aa06d1da",
-      "time": "2026-06-18 13:08:45",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Themes",
-        "China Tech Giants",
-        "688256.SS",
-        "Impact bullish"
-      ],
-      "text": "China A‑share Sci‑Tech Innovation 50 Index rose more than 4% in afternoon trade; Cambricon gained over 14%, Huahong Hongli advanced over 10%, and Shengke Communication and Jinghe Integration each rose about 8%."
-    },
-    {
-      "id": "4942471",
-      "time": "2026-06-18 13:07:12",
-      "tags": [
-        "市場"
-      ],
-      "text": "電力板塊集體調整，深南電A觸及跌停，西昌電力、粵電力A、豫能控股、華電遼能、桂冠電力、晉控電力跌幅居前。"
-    },
-    {
-      "id": "4942470",
-      "time": "2026-06-18 13:06:30",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "科創50日內漲幅達4.02%，成分股中，寒武紀漲13.64%，盛科通訊漲8.58%，晶合整合漲8.08%，中控技術漲7.98%。"
-    },
-    {
-      "id": "mkt:019ed91f-6b2c-7dd8-b06c-6512fe8da182",
-      "time": "2026-06-18 13:06:15",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Industrial Metals",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "Copper",
-        "Impact bearish",
-        "DXY",
-        "Impact bullish"
-      ],
-      "text": "【Warsh hawkish remarks lift rate-hike bets; LME copper down >1%】Fed Chair Kevin Warsh struck a hawkish tone at his first press conference, underscoring the Fed's commitment to fighting inflation and prompting futures traders to raise odds of a first rate hike as early as next month. LME copper fell more than 1%, erasing the prior week's gains. The decline offset earlier risk-on support from a US‑Iran interim peace agreement. Market participants said a more hawkish Fed could weigh on global growth and metal demand."
-    },
-    {
-      "id": "4942469",
-      "time": "2026-06-18 13:05:39",
-      "tags": [
-        "其他"
-      ],
-      "text": "【 我國首次開展輸電權交易 進一步暢通全國電力大迴圈 】 今天，國家發展改革委舉行新聞釋出會，介紹雲霄直流輸電權市場化交易相關情況，這是我國首次開展輸電權交易，進一步暢通全國電力大迴圈。國家發展改革委新聞發言人李超介紹，輸電權是在特定時段、特定方向、特定容量範圍內，使用輸電通道輸送電力的權利。隨著全國統一電力市場體系日趨完善，跨省跨區電力交易、輸送規模不斷提升，輸電權日益成為稀缺資源。探索開展輸電權市場化交易，就是要透過市場化的方式，推動輸電通道更好發揮作用，進一步暢通全國電力大迴圈。"
     }
   ]
 }
