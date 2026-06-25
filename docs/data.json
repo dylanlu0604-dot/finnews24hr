@@ -1,7 +1,201 @@
 {
-  "updated": "2026-06-25 18:06:58",
-  "count": 17009,
+  "updated": "2026-06-25 18:10:56",
+  "count": 17013,
   "items": [
+    {
+      "id": "mkt:019efe42-4c62-7dd8-b117-101c4374c887",
+      "time": "2026-06-25 18:10:18",
+      "tags": [
+        "MKT News",
+        "Important",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "Hong Kong government data: Hong Kong's gold exports to the mainland in May were 65.562 tonnes, down from 99.327 tonnes previously."
+    },
+    {
+      "id": "4954907",
+      "time": "2026-06-25 18:10:14",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "花旗集團將美光科技目標價從1200美元上調至1400美元。"
+    },
+    {
+      "id": "mkt:019efe42-3a06-7dd8-b117-0a837d49d5b4",
+      "time": "2026-06-25 18:10:13",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "IBM.N"
+      ],
+      "text": "【IBM Research says it produced world’s first sub-1nm 0.7nm research chip; claims up to 50% perf, 70% energy gain vs 2nm; not manufacturable】IBM Research on Thursday said it has produced the world’s first sub-1nm chip using a 0.7nm transistor architecture, claiming up to 50% higher performance and 70% better energy efficiency versus its 2nm process prototype. The group framed the result as research-stage only, saying large-scale manufacturing and aligning manufacturing cost with performance gains remain the key challenges; it did not claim the design is currently manufacturable. IBM noted it delivered a 2nm prototype in May 2021 and said major foundries are now producing related products."
+    },
+    {
+      "id": "mkt:019efe41-eced-7dd8-b117-05e72eaa81cc",
+      "time": "2026-06-25 18:09:53",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals"
+      ],
+      "text": "Hong Kong government said Hong Kong's net gold exports to Mainland China in May were 53.674 tonnes, down from a prior reading of 86.715 tonnes."
+    },
+    {
+      "id": "4954906",
+      "time": "2026-06-25 18:09:44",
+      "tags": [
+        "其他"
+      ],
+      "text": "伊拉克石油部強調了重新評估石油產量配額的重要性。"
+    },
+    {
+      "id": "4954905",
+      "time": "2026-06-25 18:09:38",
+      "tags": [
+        "宏觀",
+        "央行",
+        "國際"
+      ],
+      "text": "【巴克萊：二季度新興市場表現超預期 亞洲仍為最具上行潛力區域】巴克萊研究團隊釋出最新新興市場經濟與策略展望季度報告。巴克萊表示，二季度以來，地緣政治局勢與能源價格成為主導市場走勢的主要因素，但新興市場經濟體和資產表現超乎預期。美聯儲政策週期可能給新興市場本幣資產帶來新的挑戰，但中東局勢的緩和也有望為其表現創造空間。投資者會更加關注不同市場，以及其基本面驅動的超額收益機會。巴克萊認為，亞洲市場仍是新興市場中最具上行潛力的區域，並將對該地區2026年的經濟增長預期上調至5.2%。此前市場擔憂的供應鏈衝擊並未引發區域性增長失速。得益於出口維持韌性，尤其是科技出口表現穩健，以及企業和政府具備重新調配能源供應的能力，除菲律賓外的多數經濟體表現明顯優於預期。（上證報）"
+    },
+    {
+      "id": "4954904",
+      "time": "2026-06-25 18:09:22",
+      "tags": [
+        "公司"
+      ],
+      "text": "【杭州柯林：簽訂2.16億元儲能系統採購合同】杭州柯林公告稱，公司近日與中國水利水電第十二工程局有限公司簽訂《中城大有旌德縣經開區200MW/400MWh獨立儲能電站專案EPC總承包工程儲能系統採購合同》，合同金額2.16億元（含稅）。該合同總價約佔公司2025年度經審計營業收入的104.52%，若順利履行，預計將對2026年度經營業績產生積極影響。不過，合同履行中可能受不可抗力等因素影響，公司將持續跟進並及時披露。"
+    },
+    {
+      "id": "4954903",
+      "time": "2026-06-25 18:09:03",
+      "tags": [
+        "其他"
+      ],
+      "text": "伊拉克石油部表示，有關伊拉克正考慮退出石油輸出國組織（歐佩克）的相關報道並不代表伊拉克政府的官方立場。"
+    },
+    {
+      "id": "mkt:019efe41-1e31-7dd8-b116-f8103be3f929",
+      "time": "2026-06-25 18:09:00",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Emerging Markets",
+        "Nikkei 225",
+        "Impact bullish",
+        "Hang Seng Index",
+        "DXY"
+      ],
+      "text": "【BARCLAYS: Q2 emerging-market performance beat expectations; Asia has most upside】BARCLAYS research team in its quarterly emerging-market economic and strategy outlook said geopolitics and energy prices dominated market moves in Q2, yet EM economies and assets outperformed expectations. The firm warned the Fed policy cycle could pose new challenges for EM local-currency assets, while an easing of Middle East tensions could create room for upside. Investors should target market-specific, fundamentals-driven excess-return opportunities. BARCLAYS raised its 2026 growth forecast for Asia to 5.2% and identified the region as the most upwardly biased among EMs. Previously feared supply-chain shocks did not trigger a regional growth slowdown; exports — especially tech exports — remained resilient, and corporations and governments largely could reallocate energy supplies. Most economies performed better than expected; the Philippines was an exception."
+    },
+    {
+      "id": "4954902",
+      "time": "2026-06-25 18:08:54",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中航光電：已與多家頭部客戶在矽光模組、Elsfp、NPO、CPO等應用領域展開深度合作 具備批次交付能力】中航光電(002179.SZ)釋出投資者關係活動記錄表公告，公司產品包括準直器、一體化元件、纖元件、隔離器、多芯聯結器（MT/MPO-FA）、光纖介面卡及各類整合器件（FAU、Mux&DeMux、Circulator等)、高精密陶瓷基板類產品等，主要以800G及1.6T高速光模組、OCS交換機、NPO、CPO配套為主，收入佔比超過90%。公司具備MPO光纖跳線、MT-FA類光纖聯結器及各類延伸整合器件的批次交付能力。光模組速率提升、通道數不變的情況下，對FA類產品提出小型化、高密度、高可靠性的進一步要求。公司已與多家頭部客戶在矽光模組、Elsfp、NPO、CPO等應用領域展開深度合作，具備批次交付能力。"
+    },
+    {
+      "id": "mkt:019efe40-fcad-7dd8-b116-f243bec925be",
+      "time": "2026-06-25 18:08:52",
+      "tags": [
+        "MKT News",
+        "02714.HK",
+        "Impact bullish"
+      ],
+      "text": "Muyuan Foods (02714.HK) said it plans to repurchase H shares with total consideration of not less than HK$300 mln and not more than HK$500 mln (inclusive)."
+    },
+    {
+      "id": "mkt:019efe40-9d03-7dd8-b116-eaa0840ecdac",
+      "time": "2026-06-25 18:08:27",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "Chip Wars",
+        "IBM.O",
+        "Impact bullish"
+      ],
+      "text": "IBM shares rose 4.5% in U.S. pre-market trading after the company unveiled the world’s first sub-1nm chip technology."
+    },
+    {
+      "id": "4954900",
+      "time": "2026-06-25 18:08:20",
+      "tags": [
+        "其他"
+      ],
+      "text": "IBM：亞1奈米節點的奈米堆疊技術有望在5年內投入量產。亞1奈米晶片技術的電晶體架構已達到7埃節點。"
+    },
+    {
+      "id": "4954899",
+      "time": "2026-06-25 18:07:46",
+      "tags": [
+        "國際"
+      ],
+      "text": "【委內瑞拉遭遇強震 拉美多國表示願提供援助】當地時間24日傍晚，委內瑞拉接連發生兩次7級以上強烈地震。委代總統德爾西·羅德里格斯25日凌晨表示，強震已造成至少32人死亡、700人受傷。拉美地區多國紛紛對委地震災情表示關切，並表示願提供緊急人道主義援助。墨西哥總統辛鮑姆透過社交媒體表示，她已指示有關部門準備必要援助。墨西哥外長羅伯託·貝拉斯科·阿爾瓦雷斯表示，墨西哥將向委方提供一切必要支援。巴西總統盧拉在社交媒體發文說，已指示外交部與巴西駐委內瑞拉大使館評估災情，並研究巴西可採取的援助措施。他表示，巴西願支援委內瑞拉政府推進災後恢復工作。阿根廷總統府發表宣告說，阿方正密切關注委內瑞拉地震災情發展，願在國際協調機制框架下提供人道主義援助與支援。（央視新聞）"
+    },
+    {
+      "id": "mkt:019efe3f-c31c-7dd8-b116-e3931803e4f6",
+      "time": "2026-06-25 18:07:31",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "IBM.N",
+        "Impact bullish"
+      ],
+      "text": "IBM (IBM.N) said the transistor architecture for its sub-1nm chip technology has reached the 7-angstrom node."
+    },
+    {
+      "id": "4954898",
+      "time": "2026-06-25 18:07:26",
+      "tags": [
+        "公司"
+      ],
+      "text": "【奧比中光：控股股東及其一致行動人減持0.27%股份】奧比中光公告稱，控股股東、實際控制人黃源浩及其一致行動人於2026年6月24 - 25日透過集中競價累計減持110.64萬股，減持比例0.27%。減持後，其合計持股比例由34.27%降至34.00%，表決權比例由63.71%降至63.56%。本次減持屬前期披露計劃，未實施完畢，不會影響公司治理和實控人變更。"
+    },
+    {
+      "id": "mkt:019efe3f-a642-7dd8-b116-dcd998a8e444",
+      "time": "2026-06-25 18:07:24",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "【Singapore refined product stocks rebound to one-month high】Official data show Singapore, Asia's key oil trading hub, saw onshore refined product stocks rebound sharply from last week's 13-year low to about 42.19 mln barrels in the week ended June 24, up roughly 20% week-on-week and the highest in nearly a month. Inventories of light distillates, residual fuel oil and middle distillates were at four-week highs. Total gasoline exports for the week were about 11.45 mln tonnes, of which 10.77 mln tonnes went to South Korea and 0.242 mln tonnes to Indonesia."
+    },
+    {
+      "id": "4954897",
+      "time": "2026-06-25 18:07:17",
+      "tags": [
+        "公司"
+      ],
+      "text": "【蘭劍智慧：簽訂1.35億元寵物食品智慧立體庫專案合同】蘭劍智慧公告稱，公司與乖寶寵物食品集團股份有限公司簽訂157#智慧立體庫專案合同，合同金額1.35億元（含稅），總交貨期270日曆天，起算日期為雙方協商裝置可以入場安裝的時間。該合同屬日常經營活動合同，若順利履行，將增強公司市場競爭優勢，擴大業務覆蓋範圍，對業績產生積極影響。但未來合同履行可能受外部環境、政策等因素影響，存在無法如期或全部履行的風險。"
+    },
+    {
+      "id": "4954896",
+      "time": "2026-06-25 18:07:09",
+      "tags": [
+        "公司"
+      ],
+      "text": "【牧原股份：部分董事和高階管理人員擬增持4億元至5億元公司股份】牧原股份公告，部分董事和高階管理人員擬增持4億元至5億元公司股份。"
+    },
+    {
+      "id": "mkt:019efe3f-1551-7dd8-b116-d2424cfdb543",
+      "time": "2026-06-25 18:06:47",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "IBM.N"
+      ],
+      "text": "IBM (IBM.N) said its nano-stacking technology for sub-1nm nodes is expected to reach mass production within five years."
+    },
     {
       "id": "4954895",
       "time": "2026-06-25 18:06:13",
@@ -155181,153 +155375,6 @@
         "其他"
       ],
       "text": "【俄烏進行新一輪陣亡軍人遺體交換】總檯記者獲悉，當地時間18日，俄烏雙方進行了新一輪陣亡軍人遺體交換。俄方向烏方移交了522具遺體，從烏方收到33具遺體。（央視新聞）"
-    },
-    {
-      "id": "4943206",
-      "time": "2026-06-18 18:10:45",
-      "tags": [
-        "其他"
-      ],
-      "text": "香港天文臺釋出紅色暴雨警告。"
-    },
-    {
-      "id": "4943205",
-      "time": "2026-06-18 18:10:16",
-      "tags": [
-        "國際"
-      ],
-      "text": "據報道：以色列國防軍表示，下週將在美國與黎巴嫩方面舉行會談，商討各類撤軍相關事宜；以色列方面呼籲黎巴嫩軍隊與真主黨阻止黎巴嫩平民靠近以軍行動區域。"
-    },
-    {
-      "id": "mkt:019eda35-4495-7dd8-b076-eb0a70e0e20c",
-      "time": "2026-06-18 18:09:44",
-      "tags": [
-        "MKT News",
-        "DXY",
-        "Impact bullish"
-      ],
-      "text": "USD/CHF up 0.50% intraday at 0.8037."
-    },
-    {
-      "id": "4943204",
-      "time": "2026-06-18 18:09:33",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【金博股份：股價漲幅大且業績虧損 提示多項投資風險】金博股份公告稱，2026年5月8日至6月18日，公司收盤價累計漲幅達134.77%，顯著高於相關指數，可能有短期下跌風險。2025年公司營收80,282.18萬元，淨虧損128,147.24萬元；2026年一季度營收21,099.04萬元，淨虧損7,861.36萬元，仍處虧損狀態。此外，公司高純氮化鋁粉體產品未形成產能，投產時間和客戶匯入驗證工作存不確定性，預計對2026年業績無影響。提醒投資者注意風險，理性投資。"
-    },
-    {
-      "id": "4943203",
-      "time": "2026-06-18 18:09:27",
-      "tags": [
-        "公司"
-      ],
-      "text": "【張江高科：控股股東擬劃轉4.99%股份至浦東資本】張江高科公告稱，控股股東張江集團擬將持有的77,279,608股A股股份（佔總股本4.99%）無償劃轉至浦東新區國資委，待股份登記後，浦東新區國資委再透過非公開協議轉讓給下屬企業浦東資本。本次權益變動不會導致控股股東和實控人變更，尚需取得國資監管部門批准等程式，能否實施完成存在不確定性。"
-    },
-    {
-      "id": "te:markets:560055",
-      "time": "2026-06-18 18:09:24",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 0"
-      ],
-      "text": "Brent Slumps on US-Iran Deal and Supply Recovery — Brent crude oil dropped below $78 per barrel on Thursday, the lowest level since early March, as markets reacted to the US and Iran reaching an agreement to end a prolonged conflict that caused the largest supply disruption on record. Early signs of progress emerged as several vessels began crossing the Strait of Hormuz again after weeks of disruption. President Donald Trump said an interim agreement had been signed, with plans to quickly reopen the key Persian Gulf shipping route. A return to normal flows through Hormuz could allow major producers including Saudi Arabia, the UAE and Iraq to restart millions of barrels of halted output. Oil has already fallen around 38% since reaching a four-month high in April. Shipping activity has shown signs of recovery, with Saudi oil tankers and vessels carrying LNG and fuel leaving the Gulf region. However, inventory levels remain tight, with crude stocks at Cushing, the largest US storage hub, falling to around 20 million barrels."
-    },
-    {
-      "id": "4943202",
-      "time": "2026-06-18 18:09:23",
-      "tags": [
-        "公司"
-      ],
-      "text": "【遠翔新材：持股5%以上股東持股比例被動稀釋至5.98%】遠翔新材公告稱，因2023年限制性股票激勵計劃第二個歸屬期第二批次3.3萬股和第三個歸屬期50.80萬股歸屬登記，公司總股本由6488.80萬股增至6542.90萬股。持股5%以上股東福建華興創業投資有限公司持股比例由6.03%被動稀釋至5.98%，變動時間為2026年6月18日。"
-    },
-    {
-      "id": "4943201",
-      "time": "2026-06-18 18:09:17",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國總統特朗普18日在社交媒體上使用粗俗語言，憤怒回應對美國和伊朗諒解備忘錄持批評意見的人。 特朗普的帖文寫道：“這些蠢貨，居然認為我對伊朗還不夠強硬……他們要麼是嫉妒，要麼是壞人，要麼就是愚蠢。”（新華社）"
-    },
-    {
-      "id": "4943200",
-      "time": "2026-06-18 18:09:09",
-      "tags": [
-        "公司"
-      ],
-      "text": "【浦東金橋：金橋集團擬無償劃轉4.99%股份至浦東新區國資委】浦東金橋公告稱，金橋集團擬將其持有的公司56,008,403股A股股份（佔總股本4.99%）無償劃轉至浦東新區國資委。本次權益變動前，金橋集團持股比例為49.37%；變動後，持股比例降至44.38%，仍為控股股東。本次權益變動尚需浦東新區國資委批准、上交所合規性確認及中登公司上海分公司辦理股份過戶登記手續。"
-    },
-    {
-      "id": "te:economy:560054",
-      "time": "2026-06-18 18:08:46",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Portugal",
-        "Producer Prices Change",
-        "Importance 1"
-      ],
-      "text": "Portugal Producer Inflation Accelerates to Over Three-Year High — Industrial producer inflation in Portugal accelerated to 5.1% year-on-year in May 2026, marking the highest increase since February 2023, following a 3.8% rise in April. The increase was driven primarily by energy prices, which surged 19.5%, up from 17.2% in the previous month. Inflation also accelerated for intermediate goods (4.2% vs. 2.2%), while prices for non-durable consumer goods edged up 0.3% after remaining unchanged in April. Meanwhile, price growth for capital goods eased to 1.5% from 2.2%, while inflation for durable consumer goods stood at 1.6%. On a monthly basis, industrial producer prices increased 1.0% in May, following a 2.4% rise in April."
-    },
-    {
-      "id": "4943199",
-      "time": "2026-06-18 18:08:41",
-      "tags": [
-        "市場"
-      ],
-      "text": "歐元/美元下跌0.3%至1.1463，觸及3月31日以來最低點。"
-    },
-    {
-      "id": "te:markets:560053",
-      "time": "2026-06-18 18:07:33",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 2"
-      ],
-      "text": "Oil Drops as US-Iran Peace Deal Boosts Supply — Crude oil dropped below $75 per barrel on Thursday, the lowest level since early March, as markets reacted to the US and Iran reaching an agreement to end a prolonged conflict that caused the largest supply disruption on record. Early signs of progress emerged as several vessels began crossing the Strait of Hormuz again after weeks of disruption. President Donald Trump said an interim agreement had been signed, with plans to quickly reopen the key Persian Gulf shipping route. A return to normal flows through Hormuz could allow major producers including Saudi Arabia, the UAE and Iraq to restart millions of barrels of halted output. Oil has already fallen around 38% since reaching a four-month high in April. Shipping activity has shown signs of recovery, with Saudi oil tankers and vessels carrying LNG and fuel leaving the Gulf region. However, inventory levels remain tight, with crude stocks at Cushing, the largest US storage hub, falling to around 20 million barrels."
-    },
-    {
-      "id": "mkt:019eda33-361d-7dd8-b076-e0c5a9924837",
-      "time": "2026-06-18 18:07:29",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "【Central-local meeting advances Greater Bay Area international science and technology innovation centre】A central-local meeting to advance an international science and technology innovation center in the Guangdong‑Hong Kong‑Macao Greater Bay Area was held in Guangzhou on June 18. Guangdong Party Secretary Huang Kunming said the province must not miss the historic AI development opportunity; the Bay Area already has relatively advanced mechatronics and AI capabilities and will accelerate AI development. Guangdong will push integrated action on data, compute, algorithms and applications, emphasise application-led adoption, use Bay Area scenarios to incubate native technologies, products and services, strengthen key industry platforms and continue to build out intelligent compute capacity to position the region as a global AI industry innovation hub."
-    },
-    {
-      "id": "4943198",
-      "time": "2026-06-18 18:07:22",
-      "tags": [
-        "其他"
-      ],
-      "text": "【央地共建粵港澳大灣區國際科技創新中心工作推進會舉行】6月18日上午，央地共建粵港澳大灣區國際科技創新中心工作推進會在廣州舉行。廣東省委書記黃坤明指出，當前，抓住用好人工智慧發展歷史機遇不容有失，大灣區擁有比較發達的機電一體化和人工智慧技術，乘勢而上加快發展人工智慧具有良好條件和廣闊空間。廣東將堅持資料、算力、演算法、應用一體發力，突出應用牽引，依託大灣區豐富場景培育原生技術、產品和服務體系，進一步做強重點產業平臺，持續築牢智慧算力底座，全力打造全球人工智慧產業創新引領地。（南方Plus）"
-    },
-    {
-      "id": "4943197",
-      "time": "2026-06-18 18:07:03",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【信披多次違規持續發酵，國晟科技股價跌停，公司回應】國晟科技信披多次違規訊息持續發酵。6月18日，國晟科技股價繼續大跌，截至收盤，股價跌停，跌停價為14.98元/股，收盤總市值約99億元。相比4月份的高點34.27元/股，股價已經“腰斬”。國晟科技方面獨家回應記者，本次被北京證監局出具警示函所涉及到的資訊披露不及時問題，主要是由於公司董辦在北京，而訴訟檔案快遞到了徐州那邊，出現了一個時間差。按照規定，上市公司需要及時披露相關事項，後續情況以公司公告為準。(中證金牛座)"
-    },
-    {
-      "id": "4943196",
-      "time": "2026-06-18 18:07:00",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【北自科技：公司聚焦產業化落地，未生產人形機器人本體及零部件】北自科技釋出異動公告，公司股票價格連續3個交易日內日收盤價格漲幅偏離值累計超過20%，屬於股票交易異常波動情形。公司關注到市場對人形機器人概念關注度較高，經自查，截至本公告披露日，公司聚焦產業化落地，未生產人形機器人本體及零部件，亦未發現其他可能或已經對公司股票交易價格產生影響的媒體報道、市場傳聞或涉及其他熱點概念的事項。"
     }
   ]
 }
