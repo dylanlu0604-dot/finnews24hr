@@ -1,7 +1,101 @@
 {
-  "updated": "2026-06-25 13:30:11",
-  "count": 17046,
+  "updated": "2026-06-25 13:35:17",
+  "count": 17044,
   "items": [
+    {
+      "id": "mkt:019efd44-cbad-7dd8-b10d-d0f8a07c5674",
+      "time": "2026-06-25 13:33:24",
+      "tags": [
+        "MKT News",
+        "USDJPY",
+        "Impact bullish"
+      ],
+      "text": "Bank of Japan policy board member Tamura said if \"falling behind the curve\" is defined as the BOJ being forced into rapid rate hikes to counter a sharp rise in inf, we are not in that situation now."
+    },
+    {
+      "id": "4954190",
+      "time": "2026-06-25 13:33:00",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "日本央行審議委員田村直樹：如果“落後於曲線”的定義是日本央行被迫迅速加息以應對通脹急劇上升，那麼我們現在並未處於這種情況。"
+    },
+    {
+      "id": "te:economy:561747",
+      "time": "2026-06-25 13:32:51",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Japan",
+        "Leading Economic Index",
+        "Importance 1"
+      ],
+      "text": "Japan Leading Index Revised Higher — Japan’s leading economic index, which gauges the outlook for economic activity in the months ahead using indicators such as job offers and consumer sentiment, rose to 116.1 in April 2026, above the preliminary reading of 115.9 and March’s 115.4. It was the highest level since July 2021, supported by the government's record fiscal budget, which included comprehensive measures to ease cost-of-living pressures and emergency energy support to cushion the impact of the Middle East conflict. Meanwhile, the unemployment rate edged down to 2.5% in April, the lowest since July 2025, while job availability remained stable, pointing to resilient labor market conditions. However, consumer confidence fell to a one-year low, highlighting lingering concerns over rising living costs and heightened global uncertainty."
+    },
+    {
+      "id": "4954189",
+      "time": "2026-06-25 13:32:34",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【日本本州近海地震已致6人受傷】北京時間今天（6月25日）早上6時30分，日本本州東部附近海域發生6.9級地震，震源深度50公里。日本東北地區多地有強烈震感。目前，本次地震已造成至少6人受傷。暫無海嘯風險。 受地震影響，日本東北新幹線仙台站至新青森站區間一度暫停執行。東北電力公司稱，青森縣東通核電站和宮城縣女川核電站未發現異常情況。 （CCTV國際時訊）"
+    },
+    {
+      "id": "4954188",
+      "time": "2026-06-25 13:31:32",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【MLCC概念再度拉昇 風華高科漲停創歷史新高】午後MLCC概念再度拉昇，風華高科漲停，創歷史新高，此前博遷新材、火炬電子、鴻遠電子漲停，利和興漲超10%，三環集團、昀冢科技、潔美科技、商絡電子跟漲。"
+    },
+    {
+      "id": "4954187",
+      "time": "2026-06-25 13:31:15",
+      "tags": [
+        "其他"
+      ],
+      "text": "港股南方兩倍做多海力士漲幅擴大至23%。"
+    },
+    {
+      "id": "te:markets:561746",
+      "time": "2026-06-25 13:30:16",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Crypto",
+        "Importance 1"
+      ],
+      "text": "Crypto Updates: Ether Increases by 1.53% — Top crypto gainers are Ether (1.53%), Binance (1.13%) and Bitcoin (0.85%)."
+    },
+    {
+      "id": "mkt:019efd41-81c1-7dd8-b10d-cc5b5b6ebc12",
+      "time": "2026-06-25 13:29:49",
+      "tags": [
+        "MKT News",
+        "Important",
+        "000660.KS",
+        "Impact bullish",
+        "005930.KS"
+      ],
+      "text": "SK Hynix shares extended gains to 14.7%; Samsung Electronics rose 6%."
+    },
+    {
+      "id": "mkt:019efd41-6ab0-7dd8-b10d-c0f0abe461a8",
+      "time": "2026-06-25 13:29:43",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "603986.SS",
+        "Impact bullish",
+        "CSI300",
+        "SSE Composite"
+      ],
+      "text": "China A-share storage chip sector remained active: Demingli hit the daily limit-up, Beijing Junzheng earlier rose to a 20% limit-up, and Baiwei Storage, Jiangbolong, Zhaoyi Innovation and Shannon Xinchuang advanced further."
+    },
     {
       "id": "4954186",
       "time": "2026-06-25 13:28:50",
@@ -155622,100 +155716,6 @@
         "MKT News"
       ],
       "text": "Taiwan Weighted Index (TAIEX) closed up 587.81 points, +1.28%, at 46,465.2 on Thursday, June 18."
-    },
-    {
-      "id": "4942515",
-      "time": "2026-06-18 13:35:07",
-      "tags": [
-        "其他"
-      ],
-      "text": "臺灣證交所加權股價指數收高1.3%報46,465.20。"
-    },
-    {
-      "id": "4942514",
-      "time": "2026-06-18 13:35:01",
-      "tags": [
-        "市場"
-      ],
-      "text": "【化纖板塊大幅調整，華峰化學跌停】化纖板塊大幅調整，華峰化學跌停，聚合順、華峰超纖、東方盛虹、榮盛石化、新鄉化纖、江南高纖等跟跌。"
-    },
-    {
-      "id": "4942513",
-      "time": "2026-06-18 13:34:50",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "滬深兩市成交額超2.5萬億元，較上日此時放量1918億元。"
-    },
-    {
-      "id": "4942512",
-      "time": "2026-06-18 13:33:21",
-      "tags": [
-        "其他"
-      ],
-      "text": "【海南自貿港全島封關半年 新增註冊經營主體超17萬家】海南自貿港迎來全島封關半年。半年來，海南自貿港新增註冊經營主體17.21萬家，同比增長61.07%；“零關稅”政策進口貨物規模達26.45億元，同比增長1.2倍。離島免稅政策繼續最佳化，離島免稅銷售金額203.4億元，比去年同期增長20.5%。（央視新聞）"
-    },
-    {
-      "id": "4942511",
-      "time": "2026-06-18 13:32:07",
-      "tags": [
-        "國際"
-      ],
-      "text": "北約秘書長呂特稱，澤連斯基將出席北約烏克蘭聯盟會議。"
-    },
-    {
-      "id": "4942510",
-      "time": "2026-06-18 13:31:48",
-      "tags": [
-        "公司"
-      ],
-      "text": "【上交所：景順長城全球半導體晶片投資基金（QDII LOF）將於2026年6月18日下午開市起停牌至當日收市】上交所公告，景順長城全球半導體晶片產業股票型證券投資基金（QDII LOF）將於2026年6月18日下午開市起停牌至當日收市，停牌期間本基金贖回業務照常辦理。"
-    },
-    {
-      "id": "4942509",
-      "time": "2026-06-18 13:31:41",
-      "tags": [
-        "國際"
-      ],
-      "text": "愛沙尼亞國防部長佩夫庫爾表示：總體而言，歐洲必須參與保障霍爾木茲海峽的航行自由暢通。"
-    },
-    {
-      "id": "mkt:019ed936-a7a5-7dd8-b06c-d978008245d8",
-      "time": "2026-06-18 13:31:38",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Overall, Estonia's defense minister Pevkur said Europeans must participate in ensuring freedom of navigation in the Strait of Hormuz."
-    },
-    {
-      "id": "4942508",
-      "time": "2026-06-18 13:31:30",
-      "tags": [
-        "市場"
-      ],
-      "text": "布倫特原油期貨<LCOc1>下跌2美元，報每桶77.55美元。"
-    },
-    {
-      "id": "mkt:019ed936-8408-7dd8-b06c-d6c384ba397a",
-      "time": "2026-06-18 13:31:29",
-      "tags": [
-        "MKT News",
-        "BMW.DE",
-        "Impact bearish"
-      ],
-      "text": "CITIGROUP cuts BMW PT to €66 from €73."
-    },
-    {
-      "id": "te:markets:559932",
-      "time": "2026-06-18 13:30:12",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Crypto",
-        "Importance 1"
-      ],
-      "text": "Crypto Updates: Binance Drops by 2.02% — Top crypto losers are Binance (-2.02%), XRP (-1.81%), Ether (-1.18%) and Bitcoin (-0.85%)."
     }
   ]
 }
