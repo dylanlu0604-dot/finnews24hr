@@ -1,7 +1,57 @@
 {
-  "updated": "2026-06-25 08:03:06",
-  "count": 16954,
+  "updated": "2026-06-25 08:07:11",
+  "count": 16946,
   "items": [
+    {
+      "id": "mkt:019efc19-4f16-7dd8-b106-e6c1fc3470a6",
+      "time": "2026-06-25 08:06:17",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "Nikkei 225",
+        "Impact bullish"
+      ],
+      "text": "Japan's Nikkei 225 extended intraday gains to 2%."
+    },
+    {
+      "id": "4953668",
+      "time": "2026-06-25 08:06:04",
+      "tags": [
+        "其他"
+      ],
+      "text": "日股日經指數漲幅擴大至2%。"
+    },
+    {
+      "id": "4953667",
+      "time": "2026-06-25 08:04:11",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "韓國綜合股價指數(KOSPI)漲幅擴大至5.6%。"
+    },
+    {
+      "id": "te:markets:561658",
+      "time": "2026-06-25 08:04:11",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "Nasdaq Futures Rally on Micron Outlook — Nasdaq 100 futures climbed 2% on Thursday after Micron Technology’s strong earnings outlook reinforced optimism surrounding the artificial intelligence sector. S&P 500 futures advanced 0.6%, while Dow futures added 0.1%. In after-hours trading, Micron shares soared more than 15% after the memory-chip maker posted fiscal third-quarter results that exceeded expectations and forecast current-quarter revenue of $50 billion, sharply higher than $11.3 billion a year earlier and above analysts’ estimate of $43.58 billion. Qualcomm also rallied 13% after lifting its fiscal 2029 non-handset revenue target to $40 billion from a previous forecast of $22 billion. Other semiconductor-related stocks moved higher as well, including Sandisk, Western Digital, Marvell Technology, Applied Materials, and Lam Research. Investors are now awaiting the latest PCE price index report, the Federal Reserve’s preferred measure of inflation."
+    },
+    {
+      "id": "mkt:019efc16-c206-7dd8-b106-dbe9b71ea6fa",
+      "time": "2026-06-25 08:03:30",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "South Korea's KOSPI index broke above 8,900 points, up 5.52% intraday."
+    },
     {
       "id": "4953666",
       "time": "2026-06-25 08:02:27",
@@ -154805,118 +154855,6 @@
         "市場"
       ],
       "text": "布倫特原油日內跌1%，現報78.41美元/桶。"
-    },
-    {
-      "id": "4942061",
-      "time": "2026-06-18 08:07:08",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "韓國KOSPI指數上漲1%，至8953.40。"
-    },
-    {
-      "id": "4942060",
-      "time": "2026-06-18 08:06:36",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【日本東證指數創新高 】日本東證股價指數上漲1.08%，報4,056.47點，創歷史新高。"
-    },
-    {
-      "id": "4942059",
-      "time": "2026-06-18 08:06:12",
-      "tags": [
-        "國際",
-        "原創"
-      ],
-      "text": "【韓國擬對配額內的液化天然氣和液化石油氣進口實施零關稅】韓國財政部週四表示，為應對全球能源價格持續波動帶來的通脹壓力，韓國計劃在2026年下半年對配額內的液化天然氣（LNG）和液化石油氣（LPG）進口實行零關稅。韓國財政部表示，配額內的LNG、LPG以及用於生產LPG的原油的關稅稅率將在下半年降至零。此舉有望透過降低公用事業和運輸成本來幫助穩定消費價格。此前，韓國政府曾宣佈計劃在第三季度將LNG關稅稅率降至2%，第四季度降至1%，同時在下半年將LPG以及用於生產LPG的原油的關稅稅率降至1%。"
-    },
-    {
-      "id": "4942058",
-      "time": "2026-06-18 08:06:02",
-      "tags": [
-        "市場"
-      ],
-      "text": "【華為乾坤高階智駕包自7月1日起漲價至15000元】從經銷商處獲悉，自2026年7月1日起，華為乾崑智駕ADS高階功能包優惠或將收窄，疊加車企新車購車補貼權益等後一次性買斷價格或上漲3千元。據華為官方定價體系，乾崑ADS高階功能包（含Max和Ultra）官方標準定價一直是3.6萬元，但華為長期透過限時優惠活動將價格降至3.2萬元，同時合作車企（如問界、阿維塔等）額外提供約2萬元的新車購車補貼權益，兩項優惠疊加後，終端使用者到手價多為1.2萬元。但據經銷商透露，其最新收到通知，7月1日起，華為乾崑ADSMax和Ultra版本高階智駕功能包價格將恢復到3.5萬元，疊加車企購車補貼後，高階智駕功能包價格漲至15000元，使用者較之前需多付3000元。不過，經銷商也表示，已定車但尚未提車的使用者不受此次價格調整影響，仍可按原價12000元購買高階智駕功能包。（藍鯨科技）"
-    },
-    {
-      "id": "4942057",
-      "time": "2026-06-18 08:05:54",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "韓國綜合股價指數（KOSPI）高開後觸及歷史高點8944.76點。"
-    },
-    {
-      "id": "mkt:019ed80b-c570-7dd8-b066-be3213bfd9c3",
-      "time": "2026-06-18 08:05:10",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Huawei QianKun ADS advanced driving package to cost 15,000 yuan from July 1】Dealers said Huawei’s QianKun ADS high-level driving feature pack (Max and Ultra) will effectively cost 15,000 yuan to buyers from July 1, 2026. Huawei’s official list price was 36,000 yuan (promotional price 32,000 yuan); OEM new‑car purchase subsidy rights of about 20,000 yuan typically reduced the buyer price to roughly 12,000 yuan. Dealers say the pack’s list price will be restored to 35,000 yuan on July 1; after applying OEM subsidies the net buyer price rises to 15,000 yuan, an increase of 3,000 yuan. Customers who have already ordered but not yet taken delivery can still purchase the pack at the prior 12,000 yuan price."
-    },
-    {
-      "id": "4942056",
-      "time": "2026-06-18 08:04:16",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "【朱鶴新：將持續深化外匯領域改革開放，更好服務上海國際金融中心建設和金融高質量發展】6月17日下午，上海國際金融中心建設協調推進機制第二次全體會議在滬舉行。中國人民銀行副行長、國家外匯管理局局長朱鶴新指出，我們持續加大對上海國際金融中心建設的支援力度，推動了一批首創性的外匯管理改革在上海率先落地，支援上海國際金融中心邁向更高能級。積極支援上海國際金融中心建設“十五五”規劃出臺以及上海人民幣資產全球配置中心和風險管理中心建設。下一步，將持續深化外匯領域改革開放，繼續加強高質量政策供給，更好服務上海國際金融中心建設和金融高質量發展。"
-    },
-    {
-      "id": "4942055",
-      "time": "2026-06-18 08:03:58",
-      "tags": [
-        "其他"
-      ],
-      "text": "SK海力士股價創歷史新高，此前宣佈向主要客戶發貨了下一代晶片樣品。"
-    },
-    {
-      "id": "em:qqyh_zgyh:202606183775255987",
-      "time": "2026-06-18 08:03:58",
-      "tags": [
-        "央行",
-        "中國央行"
-      ],
-      "text": "【央行陸磊：將會同上海市及相關部門 著力推動人民幣國際化與國際金融中心建設相互促進】6月17日下午，上海國際金融中心建設協調推進機制第二次全體會議在滬舉行。中國人民銀行副行長陸磊指出，中國人民銀行在今年陸家嘴論壇上出臺多項政策舉措，進一步深化金融改革，加快發展金融市場。"
-    },
-    {
-      "id": "mkt:019ed80a-a355-7dd8-b066-b0490b31ceb7",
-      "time": "2026-06-18 08:03:56",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "South Korea's KOSPI hit an all-time high, rising nearly 1% intraday."
-    },
-    {
-      "id": "4942054",
-      "time": "2026-06-18 08:03:36",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "現貨黃金突破4290美元/盎司，日內漲0.76%。"
-    },
-    {
-      "id": "4942053",
-      "time": "2026-06-18 08:03:08",
-      "tags": [
-        "市場"
-      ],
-      "text": "澳大利亞S&P/ASX 200指數早盤下跌0.3%，至8,940.10點。"
-    },
-    {
-      "id": "4942052",
-      "time": "2026-06-18 08:03:06",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "紐約期金突破4310美元/盎司，日內跌1.63%。"
     }
   ]
 }
