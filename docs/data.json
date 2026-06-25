@@ -1,7 +1,50 @@
 {
-  "updated": "2026-06-26 07:37:06",
-  "count": 16964,
+  "updated": "2026-06-26 07:40:59",
+  "count": 16961,
   "items": [
+    {
+      "id": "4955968",
+      "time": "2026-06-26 07:39:38",
+      "tags": [
+        "資料",
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "【東京核心通脹連續五個月低於日本央行目標】週五公佈的資料顯示，日本首都東京6月核心通脹同比增速有所回升，中東衝突帶來的物價上行壓力正持續擴散。該資料將成為日本央行下月政策會議重點研判的參考依據，屆時央行理事會將開展季度經濟增速與物價預期評估。資料顯示，剔除波動較大生鮮食品價格的東京核心消費者物價指數（CPI）6月同比上漲1.6%，高於5月1.3%的漲幅，與市場預期中值1.6%持平。另一項剔除生鮮食品與燃油價格的物價指標，是日本央行重點觀測、用以衡量通脹中長期趨勢的核心參考，該指標6月同比上漲1.9%，5月漲幅為1.6%。中東衝突令日本央行難以判斷加息時點與加息節奏：能源價格走高會推升通脹，但日本經濟高度依賴原油進口，油價上漲同時會壓制國內經濟。本月日本央行完成加息，利率升至31年來最高水平，是貨幣政策正常化程序中的標誌性舉措。央行釋放訊號，準備進一步收緊貨幣政策，著力抑制伊朗衝突引發能源衝擊所帶來的物價上漲壓力。"
+    },
+    {
+      "id": "4955967",
+      "time": "2026-06-26 07:37:40",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【紐約市長曼達尼出臺租金凍結政策，紐約租客迎來里程碑時刻】紐約市租金指導委員會投票決定，為約一百萬套穩定租金公寓凍結租金，這為佐蘭・曼達尼市長帶來一場重大政治勝利，也兌現了助其入主市政廳的核心競選承諾。曼達尼此前多次呼籲凍結租金，他表示，穩定租金公寓的租客正承受食品、交通及其他生活必需品漲價壓力，薪資漲幅卻跟不上物價。此前數月，各方持續爭論：儘管房東自身財務壓力不斷加大，是否仍需為租客隔絕暴漲的住房開支。本次租金凍結政策適用於2026年10月1日至2027年9月30日期間簽訂的租約。上一次為期一年的租金凍結政策出臺於2020年疫情期間。"
+    },
+    {
+      "id": "mkt:019f0125-06c1-7dd8-b127-4359e72d405a",
+      "time": "2026-06-26 07:37:11",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Industrial Metals",
+        "Copper",
+        "Impact mixed"
+      ],
+      "text": "【Countdown to US copper tariff decision pressures compute metals】In July the US proposed copper tariffs, applying 50% duties to semi-processed copper while refined copper was temporarily exempt but slated for phased tariffs beginning in 2027. The US Commerce Department must deliver its Section 232 report by June 30, when a final decision could be made. As the deadline approaches, AI compute-related metals markets face renewed volatility. Goldman Sachs and other banks warn a new tariff could trigger large-scale US buyer stockpiling. COMEX copper inventories have topped 650,000 tonnes, a record high. Supply tightness for small metals closely tied to AI compute — tungsten, tin, tantalum and indium — could worsen if measures are implemented."
+    },
+    {
+      "id": "te:economy:562015",
+      "time": "2026-06-26 07:36:49",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Japan",
+        "Tokyo Core CPI",
+        "Importance 1"
+      ],
+      "text": "Tokyo Core Inflation Hits 3-Month High — Core consumer prices in Tokyo’s central wards rose 1.6% year-on-year in June 2026, accelerating from 1.3% in the previous month and in line with market expectations. It was the first acceleration since September last year and marked the fastest increase in three months. However, inflation remained below the Bank of Japan’s 2% target for a fifth consecutive month, as fuel subsidies and favorable base effects helped limit the impact of higher raw material costs linked to the Middle East conflict. The BoJ raised interest rates by 25 bps to their highest level since September 1995 at its June meeting, marking the first rate hike since last December, to prevent higher oil prices from fueling inflation. BoJ board member Naoki Tamura recently said that the central bank should continue to raise interest rates at intervals of a few months."
+    },
     {
       "id": "4955966",
       "time": "2026-06-26 07:35:48",
@@ -155124,73 +155167,6 @@
         "Importance 1"
       ],
       "text": "Japan Core Inflation Remains at Over 4-Year Low — Japan’s core consumer price index, which excludes fresh food but includes energy, rose 1.4% year-on-year in May 2026, in line with both the previous figure and market forecasts. Still, the latest reading marked the lowest level since March 2022 and remained below the Bank of Japan’s 2% target for a fourth straight month, as government fuel subsidies helped offset price pressures from higher oil costs linked to the Iran-Israel conflict. Meanwhile, the index excluding the effects of volatile fresh food and fuel, which is closely watched by the Bank of Japan as a better gauge of demand-driven price movements, rose 1.8% year-on-year in May, marking the softest increase since September 2022. The BoJ raised interest rates by 25 bps to their highest level since September 1995 at its June meeting, marking the first rate hike since last December, to prevent higher oil prices from fueling inflation."
-    },
-    {
-      "id": "4944400",
-      "time": "2026-06-19 07:40:56",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【日經指數或將上漲 追隨華爾街漲勢】日本股市或將上漲，追隨華爾街隔夜漲勢。在美國和伊朗簽署結束衝突的臨時和平協議後，市場情緒繼續保持樂觀。近期原油價格下跌也緩解了投資者對日本高通脹的擔憂。在新加坡交易所，日經指數期貨上漲490點，至71900點。美元報161.35日元，週四紐約匯市尾盤報161.38日元。日經指數週四收盤上漲1.65%，報創紀錄的71053.49點。"
-    },
-    {
-      "id": "4944399",
-      "time": "2026-06-19 07:39:53",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國南方司令部：6月18日，在南方司令部指揮官弗朗西斯·L·多諾萬將軍的指示下，聯合特遣部隊“南方之矛”對一艘由指定恐怖組織運營的船隻實施了致命動能打擊。情報確認該船隻正沿東太平洋已知毒品販運路線航行，並參與毒品販執行動。此次行動中，三名男性毒品恐怖分子被擊斃。無美軍人員受傷。"
-    },
-    {
-      "id": "te:markets:560204",
-      "time": "2026-06-19 07:39:50",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 0"
-      ],
-      "text": "Brent Heads for Sharp Weekly Drop — Brent traded around $79 per barrel on Friday and was on track to fall roughly 10% for the week, as investors welcomed improving shipping conditions in the Strait of Hormuz following the implementation of the US-Iran interim peace agreement, which brought an end to a prolonged conflict that triggered the largest supply disruption on record. The US Central Command announced it had lifted restrictions on traffic to and from Iranian ports and coastal waters, while the Joint Maritime Information Center advised vessels transiting the strait to follow a route closer to Oman’s coastline to reduce the risk from mines. Tankers carrying previously stranded crude began exiting the waterway on Thursday, and Kuwait said it would begin increasing production. As a result, oil prices have erased nearly all the gains recorded since the Middle East conflict began in late February."
-    },
-    {
-      "id": "4944398",
-      "time": "2026-06-19 07:39:04",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國南方司令部：美軍在東太平洋擊沉一艘船隻，造成3人死亡。"
-    },
-    {
-      "id": "4944397",
-      "time": "2026-06-19 07:38:35",
-      "tags": [
-        "國際"
-      ],
-      "text": "【美國和墨西哥結束了第二輪美墨加協定審查下的貿易談判】美國貿易代表辦公室和墨西哥經濟部在一份聯合宣告中表示，作為美墨加協定審查的一部分，美墨兩國完成了第二輪貿易談判，雙方就農業、勞工、環境以及原產地規則等問題進行了深入討論。宣告稱，雙方還討論了與鋼鐵、鋁和汽車相關的貿易問題。美國和墨西哥同意成立一個委員會，審查《美墨加協定》第十二章的執行情況，以加強監管相容性。第三輪談判將於下個月在墨西哥城舉行。"
-    },
-    {
-      "id": "te:markets:560203",
-      "time": "2026-06-19 07:37:46",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 2"
-      ],
-      "text": "Oil Heads for Sharp Weekly Drop — Crude oil traded around $76 per barrel on Friday and was on track to fall roughly 10% for the week, as investors welcomed improving shipping conditions in the Strait of Hormuz following the implementation of the US-Iran interim peace agreement, which brought an end to a prolonged conflict that triggered the largest supply disruption on record. The US Central Command announced it had lifted restrictions on traffic to and from Iranian ports and coastal waters, while the Joint Maritime Information Center advised vessels transiting the strait to follow a route closer to Oman’s coastline to reduce the risk from mines. Tankers carrying previously stranded crude began exiting the waterway on Thursday, and Kuwait said it would begin increasing production. As a result, oil prices have erased nearly all the gains recorded since the Middle East conflict began in late February."
-    },
-    {
-      "id": "te:economy:560202",
-      "time": "2026-06-19 07:37:33",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Japan",
-        "Inflation Rate",
-        "Importance 2"
-      ],
-      "text": "Japan Inflation Rate Inches Up to 1.5% — Japan’s annual inflation edged higher to 1.5% in May 2026 from 1.4% in the prior month. Core inflation stood at 1.4%, unchanged from April but remained below the central bank’s 2% target for a fourth consecutive month. On a monthly basis, consumer prices increased 0.4%, up from 0.1% in April."
     }
   ]
 }
