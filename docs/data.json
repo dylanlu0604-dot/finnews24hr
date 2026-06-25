@@ -1,7 +1,21 @@
 {
-  "updated": "2026-06-26 04:07:46",
-  "count": 16979,
+  "updated": "2026-06-26 04:11:47",
+  "count": 16977,
   "items": [
+    {
+      "id": "mkt:019f0065-242b-7dd8-b125-fe39dcaf4b27",
+      "time": "2026-06-26 04:07:36",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Alphabet",
+        "Market Themes",
+        "Magnificent 7",
+        "GOOGL.O",
+        "Impact mixed"
+      ],
+      "text": "The Information reports Google's AI project is pressing publishers to allow their content to be used to train AI models."
+    },
     {
       "id": "4955855",
       "time": "2026-06-26 04:05:15",
@@ -155367,32 +155381,6 @@
         "SPCX.O"
       ],
       "text": "MOODY'S: SpaceX (SPCX.O) maintains a conservative financial policy and, supported by substantial cash balances, has strong liquidity and financial flexibility."
-    },
-    {
-      "id": "mkt:019edc59-a2da-7dd8-b088-1a095161031b",
-      "time": "2026-06-19 04:08:42",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "U.S. Treasury issued a license permitting certain transactions involving bonds of Venezuela's state oil company."
-    },
-    {
-      "id": "4944292",
-      "time": "2026-06-19 04:08:18",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "美國財政部：美國發放許可，允許向委內瑞拉航空（CONVIASA）供應特定物資與相關服務。"
-    },
-    {
-      "id": "mkt:019edc58-fb11-7dd8-b088-13bd6f45ae45",
-      "time": "2026-06-19 04:07:59",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "MOODY'S assigned SpaceX a Baa1 rating, placing it in investment grade, with a stable outlook."
     }
   ]
 }
