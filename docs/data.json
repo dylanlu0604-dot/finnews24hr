@@ -1,7 +1,63 @@
 {
-  "updated": "2026-06-25 13:39:58",
+  "updated": "2026-06-25 13:44:01",
   "count": 17046,
   "items": [
+    {
+      "id": "4954205",
+      "time": "2026-06-25 13:43:14",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "碳酸鋰連續主力合約日內跌4%，現報153200.00元。"
+    },
+    {
+      "id": "mkt:019efd4c-76b9-7dd8-b10e-17ea4089b20d",
+      "time": "2026-06-25 13:41:47",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "Hang Seng Index",
+        "Impact bearish"
+      ],
+      "text": "HSI fell below 23,000 for the first time since June 2025, with losses widening to 1.7%."
+    },
+    {
+      "id": "mkt:019efd4b-fd23-7dd8-b10e-0ff24e35409e",
+      "time": "2026-06-25 13:41:16",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "Taiwan's TAIEX closed 211.66 points higher, up 0.46%, at 46,255.26 on Thursday, June 25."
+    },
+    {
+      "id": "4954204",
+      "time": "2026-06-25 13:40:01",
+      "tags": [
+        "市場"
+      ],
+      "text": "香港恒生指數跌破23000點關口，跌幅擴大至1.77%。"
+    },
+    {
+      "id": "mkt:019efd4a-a726-7dd8-b10e-03f297e801d5",
+      "time": "2026-06-25 13:39:48",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Lula instructs assessment of Venezuela quake damage, possible aid】On the evening of the 24th local time (morning of the 25th Beijing time), President Lula said on social media the impact of a strong earthquake in Venezuela was worrying and shocking. He has instructed Brazil's foreign ministry and the Brazilian embassy in Venezuela to jointly assess the situation and potential aid measures."
+    },
+    {
+      "id": "4954203",
+      "time": "2026-06-25 13:39:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "富時中國A50指數期貨上漲1%。"
+    },
     {
       "id": "mkt:019efd49-adf0-7dd8-b10d-fd2dc53b9a8e",
       "time": "2026-06-25 13:38:44",
@@ -155668,60 +155724,6 @@
         "其他"
       ],
       "text": "德國國防部長：兩艘德國軍艦正駛往紅海，為可能在霍爾木茲海峽開展的軍事行動提前部署。"
-    },
-    {
-      "id": "4942528",
-      "time": "2026-06-18 13:43:38",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "PTA連續主力合約日內漲2%，現報5896.00元。"
-    },
-    {
-      "id": "4942527",
-      "time": "2026-06-18 13:43:21",
-      "tags": [
-        "市場"
-      ],
-      "text": "【電力板塊持續下挫，豫能控股跌停】電力板塊持續下挫，豫能控股跌停。深南電A、粵電力A、西昌電力均跌超9%。"
-    },
-    {
-      "id": "4942526",
-      "time": "2026-06-18 13:40:43",
-      "tags": [
-        "國際"
-      ],
-      "text": "【巴基斯坦總統呼籲各方全面落實美伊諒解備忘錄】當地時間6月18日，巴基斯坦總統扎爾達里呼籲各方全面落實《美利堅合眾國與伊朗伊斯蘭共和國之間的伊斯蘭堡諒解備忘錄》，並加快努力在規定時限內達成最終協議，以確保實現持久和平與發展。扎爾達里表示，希望這份諒解備忘錄能夠成為地區實現持久和全面和平的基礎，使各國能夠將重心放在經濟發展、能源合作和提升人民福祉上。"
-    },
-    {
-      "id": "mkt:019ed93e-cab3-7dd8-b06d-12839411c9ad",
-      "time": "2026-06-18 13:40:31",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "【JEFFERIES: US curbs on foreign access to top AI models may be hard to sustain】JEFFERIES analysts said in a research note the Trump administration’s restrictions on foreign access to ANTHROPIC’s leading AI models may be difficult to sustain. They warned the measures would be hard to enforce and could weaken US AI systems. With many US AI researchers and engineers foreign-born, excluding them from frontier models could slow R&D and push talent and use cases overseas, an outcome the US government would not want."
-    },
-    {
-      "id": "4942525",
-      "time": "2026-06-18 13:40:13",
-      "tags": [
-        "國際"
-      ],
-      "text": "【韓國綜指漲幅擴大至2%】韓國綜指漲幅擴大至2%，現報9043.06點。"
-    },
-    {
-      "id": "mkt:019ed93e-5e96-7dd8-b06d-0d3ecbeb99b5",
-      "time": "2026-06-18 13:40:03",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Japan & APAC"
-      ],
-      "text": "South Korea's KOSPI extended gains, up 2% intraday."
     }
   ]
 }
