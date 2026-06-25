@@ -1,7 +1,97 @@
 {
-  "updated": "2026-06-25 22:07:23",
-  "count": 16975,
+  "updated": "2026-06-25 22:11:38",
+  "count": 16974,
   "items": [
+    {
+      "id": "4955418",
+      "time": "2026-06-25 22:10:22",
+      "tags": [
+        "公司"
+      ],
+      "text": "【*ST中基：公司股票將於6月29日起撤銷退市風險警示】*ST中基公告，公司股票將於2026年6月26日停牌一天，並於6月29日開市起復牌。自6月29日開市起撤銷退市風險警示，股票簡稱由“*ST中基”變更為“中基健康”，股票程式碼仍為“000972”。撤銷退市風險警示後，公司股票交易價格日漲跌幅限制由“5%”變更為“10%”。"
+    },
+    {
+      "id": "4955417",
+      "time": "2026-06-25 22:10:13",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "道指漲1.05%，現報52392.020點；納指跌0.34%，現報25390.461點；標普500指數漲0.25%，現報7376.750點。"
+    },
+    {
+      "id": "4955416",
+      "time": "2026-06-25 22:10:10",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "巴西央行行長：2026年GDP新預測反映出預測值已被大幅上調，但這仍意味著2026年增速將較2025年放緩。"
+    },
+    {
+      "id": "4955414",
+      "time": "2026-06-25 22:08:50",
+      "tags": [
+        "市場"
+      ],
+      "text": "彭博美元現貨指數下跌0.3%，觸及當日低點。"
+    },
+    {
+      "id": "4955413",
+      "time": "2026-06-25 22:08:30",
+      "tags": [
+        "公司"
+      ],
+      "text": "【馮飛會見西門子能源總裁兼執行長克里斯蒂安·布魯赫】據海南日報，6月24日，海南省委書記馮飛在海口會見前來參加海南自由貿易港國際諮詢委員會委員聘任儀式暨第一次諮詢活動的西門子能源股份公司總裁兼執行長克里斯蒂安·布魯赫一行。馮飛表示，海南願與西門子能源聚焦建設綠色智慧產業叢集目標，在燃機制造、運維服務等綠色能源發展及相關產業生態建設等領域打造更多中歐、中德合作示範性引領專案，推動雙方合作向更深層次、更寬領域邁進，更好實現互利共贏。克里斯蒂安·布魯赫說，西門子能源視海南自由貿易港為全球戰略合作伙伴，願同海南立足各自優勢，聚焦實現綠色低碳轉型，推動更多高質量專案落地。公司將充分發揮橋樑紐帶作用，為海南對外交流合作多作貢獻，攜手創造更加美好的未來。"
+    },
+    {
+      "id": "4955412",
+      "time": "2026-06-25 22:07:46",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【美光科技市值短暫超越Meta和特斯拉】受強勁業績展望提振，美光科技週四股價延續由AI驅動的漲勢，一度漲近20%，市值短暫超越Meta Platforms和特斯拉。該公司股價漲幅現收窄至約10%，市值約1.3萬億美元。美光週三盤後公佈的第四財季營收和利潤展望幫助逆轉近期跌勢。公司披露，客戶已承諾投入220億美元鎖定儲存晶片供應。"
+    },
+    {
+      "id": "mkt:019eff1b-8ec2-7dd8-b11e-b9e14aafbb29",
+      "time": "2026-06-25 22:07:36",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "AI Revolution",
+        "MU.O",
+        "Impact bullish",
+        "Nasdaq100",
+        "S&P500"
+      ],
+      "text": "【Micron briefly eclipses Meta and Tesla in market value】Micron Technology shares, buoyed by an AI-driven rally, extended gains on Thursday and were at one point near 20% higher, briefly overtaking Meta Platforms and Tesla in market capitalization. Gains later narrowed to about 10%, leaving Micron’s market value around $1.3 trillion. The move followed Wednesday after-hours guidance for Q4 revenue and profit that helped reverse recent losses. Micron said customers have committed about $22 bln to secure memory-chip supply."
+    },
+    {
+      "id": "4955411",
+      "time": "2026-06-25 22:07:32",
+      "tags": [
+        "其他"
+      ],
+      "text": "波司登國際控股全年營收為273.5億元人民幣。"
+    },
+    {
+      "id": "4955410",
+      "time": "2026-06-25 22:07:13",
+      "tags": [
+        "公司"
+      ],
+      "text": "波司登國際控股有限公司年度歸屬淨利潤為39.944億元人民幣。"
+    },
+    {
+      "id": "4955409",
+      "time": "2026-06-25 22:06:46",
+      "tags": [
+        "市場"
+      ],
+      "text": "拜耳股價在最高法院作出裁決後大幅拉昇，最新上漲17%。"
+    },
     {
       "id": "mkt:019eff1a-2460-7dd8-b11e-b530d7da7b65",
       "time": "2026-06-25 22:06:03",
@@ -155043,108 +155133,6 @@
         "公司"
       ],
       "text": "【對水井坊總經理幹曉峰啟動離任經濟責任審計，華潤啤酒：屬內部流程】6月18日，市場傳出訊息稱，華潤啤酒（控股）有限公司已對景芝白酒原總經理、現任水井坊總經理幹曉峰任職期間的經濟責任履行情況開展專項審計。記者就上述網傳電話致電華潤啤酒審計組聯絡人，對方表示確有此事，屬於公司內部流程，並沒有可以對外披露的內容。同時，記者聯絡到水井坊方面，截至發稿並未獲得回覆。（藍鯨新聞）"
-    },
-    {
-      "id": "4943757",
-      "time": "2026-06-18 22:11:35",
-      "tags": [
-        "國際"
-      ],
-      "text": "惠譽評級：通脹擠壓收入，美國消費者動能放緩。"
-    },
-    {
-      "id": "4943756",
-      "time": "2026-06-18 22:11:30",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗外長：伊朗與法國外長舉行電話會談。"
-    },
-    {
-      "id": "4943755",
-      "time": "2026-06-18 22:10:49",
-      "tags": [
-        "市場"
-      ],
-      "text": "【閃迪股價漲幅擴大至10% 今年以來累計大漲超800%】閃迪股價漲幅擴大至10%，報2147美元/股，總市值報3179億美元，今年以來累計大漲超800%。其他三隻儲存股也大幅上漲，美光科技漲6.6%，西部資料漲10%，希捷科技漲超4%。"
-    },
-    {
-      "id": "4943754",
-      "time": "2026-06-18 22:10:35",
-      "tags": [
-        "其他"
-      ],
-      "text": "【巴奴更新招股書：2025年人均消費下探至139元、利潤同比增長88.7%，擬三年新開177家門店】6月17日，巴奴第三次衝刺港股。最新招股書顯示，2025年巴奴收入和利潤雙增，人均消費下降但翻檯率回升，會員數量大增，門店擴張提速且盈利能力提升。本次IPO募資主要用於拓展直營網路等。在火鍋行業承壓背景下，巴奴營收利潤高增長，此次衝擊港股，拓店計劃和品牌增長韌性或成資本市場關注焦點。"
-    },
-    {
-      "id": "mkt:019edb11-1531-7dd8-b080-62fa82dbb977",
-      "time": "2026-06-18 22:09:50",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "GBPUSD",
-        "Impact bearish",
-        "FTSE100",
-        "DXY",
-        "Impact bullish"
-      ],
-      "text": "【Pantheon Macro: Bank of England likely to stay on hold long term but tilt toward hikes remains】Pantheon Macro's Rob Wood says the Bank of England appears set to keep policy on hold for an extended period, although most MPC members acknowledge a risk that further rate hikes may be needed. Policymakers flagged the risk of oil prices remaining elevated, and noted recent inflation has undershot expectations but they see little evidence the Middle East conflict has caused a rapid demand shock. Pantheon Macro expects Bank Rate to remain at 3.75% through end-2027; unchanged guidance may disappoint markets after some had priced a chance of more than two MPC votes for a hike at the July meeting."
-    },
-    {
-      "id": "4943753",
-      "time": "2026-06-18 22:09:10",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "【資深策略師Yardeni：美聯儲若真想實現通脹目標就很可能加息】資深市場策略師Ed Yardeni表示，如果美聯儲真打算將通脹率降至2%的目標水平，那很有可能會上調利率。週三美聯儲維持利率不變，新任主席凱文·沃什在隨後的新聞釋出會上展現的鷹派姿態令市場感到意外。“讓我印象最深的是沃什說的一句話：‘看，我們已經五年多沒有達到2%的通脹目標了’，”Yardeni Research總裁兼首席投資策略師Yardeni在彭博電視上表示，“如果不加息，怎麼能實現這一目標呢？所以我認為市場現在的判斷是正確的。”"
-    },
-    {
-      "id": "mkt:019edb10-18bc-7dd8-b080-5cc418c14951",
-      "time": "2026-06-18 22:08:45",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "【Pakistani media: Pakistan PM cancels Swiss visit】Pakistani media, citing sources on the 18th, reported Prime Minister Shehbaz Sharif has cancelled a planned trip to Switzerland. Shehbaz, acting as mediator for a US‑Iran memorandum of understanding, had said on the 15th the MoU signing would take place on the 19th in Switzerland and that Pakistan would host the ceremony."
-    },
-    {
-      "id": "4943752",
-      "time": "2026-06-18 22:08:34",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【6月18日增減持彙總】據不完全統計，6月18日盤後，華凱易佰、秋田微、璉升科技、坤彩科技、鐵科軌道、騰亞精工6家上市公司披露擬減持情況，當日暫無A股公司披露增持情況。"
-    },
-    {
-      "id": "4943751",
-      "time": "2026-06-18 22:07:52",
-      "tags": [
-        "其他",
-        "焦點"
-      ],
-      "text": "據巴基斯坦媒體援引訊息人士18日報道，作為美伊諒解備忘錄調解人的巴基斯坦總理夏巴茲已取消原定的瑞士之行。 夏巴茲15日曾表示，美伊諒解備忘錄簽署儀式將於19日在瑞士舉行，巴方將主持儀式。（新華社）"
-    },
-    {
-      "id": "4943750",
-      "time": "2026-06-18 22:07:42",
-      "tags": [
-        "其他"
-      ],
-      "text": "【國產衛星發動機價格打下來了】當前我國用於對地觀測的商業遙感技術能力不斷迭代，組網提速，據不完全統計，總規劃遙感衛星數量超萬顆。為突破遙感資料利用的瓶頸，一些遙感星座也將AI晶片部署上星。業內人士分析，如果遙感資料能夠充分實現在軌AI分析處理，需要下傳的資料量可以減少到原來的5%到10%。從給衛星裝上\"發動機\"的電推進系統，到提供能源的柔性太陽翼，一批平臺級硬科技正加速從實驗室走向生產線，支撐我國衛星星座的規模化部署。在浙江杭州的一個航天產品實驗室內，電推進系統正在模擬的太空環境中進行所謂的點火測試。幽藍色的等離子光環就是將惰性氣體如氙氣、氪氣電離，再用磁場把離子加速噴出的效果，它產生的推力，就足夠衛星在空間中航行。這也是目前最先進的空間推進技術之一。低軌衛星執行時需依靠推進器實現維持軌道、切換軌道和末期離軌等任務。這款國產電推進系統可以實現將離子以每秒15到30公里的速度噴出，效率是化學推進的5倍以上。雖然推力只有十幾到三十幾毫牛，僅相當於托起一張A4紙所需的力，但勝在可以持續輸出。如今，這套擁有自主智慧財產權的電推進產品與效能達到國際先進水平，可以適配商業航天領域不同任務需求，價格也從傳統航天任務的近200萬元一套，降到了現在的50到70萬元。（央視財經）"
-    },
-    {
-      "id": "mkt:019edb0f-06ce-7dd8-b080-53c66b0cf474",
-      "time": "2026-06-18 22:07:35",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK",
-        "GBPUSD",
-        "Impact bearish"
-      ],
-      "text": "【Monex: Pound outlook after BoE decision hinges on data, politics】Monex Europe strategist Nick Rees said after the Bank of England left the policy rate at 3.75% on Thursday that upcoming UK economic data and domestic political developments will determine whether the pound weakens further. Two of nine MPC members voted to raise rates, but BoE communications signalled an overall lack of urgency to change policy in the near term. Rees said further evidence of economic weakness combined with rising political risk could push the pound lower."
     }
   ]
 }
