@@ -1,7 +1,113 @@
 {
-  "updated": "2026-06-25 21:54:30",
-  "count": 16988,
+  "updated": "2026-06-25 21:58:45",
+  "count": 16987,
   "items": [
+    {
+      "id": "mkt:019eff12-dc80-7dd8-b11e-766179817ee7",
+      "time": "2026-06-25 21:58:06",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "NVIDIA (NVDA.O) shares fell rapidly, widening losses to about 3%."
+    },
+    {
+      "id": "mkt:019eff12-d0b8-7dd8-b11e-6fc864cdf7e4",
+      "time": "2026-06-25 21:58:03",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【DeepSeek posts job ads aiming to at least double headcount across all departments】DeepSeek posted job advertisements saying it aims to at least double staffing across all departments as technology evolves. Open roles include server/backend development engineers, pre‑training data engineers, AI search algorithm/architecture engineers, Agent Harness team members, Agent infra R&D engineers, frontend/client developers and cross‑disciplinary AI specialists."
+    },
+    {
+      "id": "4955391",
+      "time": "2026-06-25 21:57:44",
+      "tags": [
+        "市場"
+      ],
+      "text": "美光科技漲幅收窄至10%，此前一度上漲20%。"
+    },
+    {
+      "id": "mkt:019eff12-799a-7dd8-b11e-643601c4421f",
+      "time": "2026-06-25 21:57:41",
+      "tags": [
+        "MKT News",
+        "MU.O",
+        "Impact bullish"
+      ],
+      "text": "Micron Technology (MU.O) shares pared gains to about 10% after earlier jumping as much as 20%."
+    },
+    {
+      "id": "4955390",
+      "time": "2026-06-25 21:57:25",
+      "tags": [
+        "市場"
+      ],
+      "text": "IBM股價在盤前交易中扭轉走勢，最新下跌2.1%。"
+    },
+    {
+      "id": "4955389",
+      "time": "2026-06-25 21:57:12",
+      "tags": [
+        "其他"
+      ],
+      "text": "荷蘭氣象研究所因週五將出現極端高溫釋出罕見紅色預警。"
+    },
+    {
+      "id": "4955388",
+      "time": "2026-06-25 21:56:44",
+      "tags": [
+        "宏觀",
+        "公司",
+        "國際"
+      ],
+      "text": "【巴西財政部向中方遞交熊貓債發行申請函】記者從中國人民銀行瞭解到，今天（25日），巴西財政部向中國銀行交易商協會遞交了熊貓債發行申請函，巴西將成為首個註冊發行主權熊貓債的拉美國家。中國人民銀行行長潘功勝表示，深化兩國投融資合作，促進雙邊本幣使用，推動金融基礎設施互聯互通，確保合作成果惠及兩國企業和民眾，為全球經濟發展和金融穩定注入強勁動力。中巴雙方將進一步推進金融市場互聯互通。雙方支援中巴可持續發展擴大產能合作基金髮揮更大作用，透過在氣候變化、清潔能源等重點領域佈局專案，實現經濟效益與社會效益的互利共贏。雙方同意加強在二十國集團、金磚、國際貨幣基金組織等機制下的宏觀經濟政策協調，共同為發展中國家發聲。（央視新聞）"
+    },
+    {
+      "id": "4955387",
+      "time": "2026-06-25 21:56:17",
+      "tags": [
+        "其他"
+      ],
+      "text": "英偉達股價快速擴大跌幅至3%。"
+    },
+    {
+      "id": "4955386",
+      "time": "2026-06-25 21:55:11",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "攜程集團美國上市股票在一季度業績公佈後跌至一年多來新低，最新跌幅為15.5%。"
+    },
+    {
+      "id": "te:markets:561931",
+      "time": "2026-06-25 21:54:19",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "commodity",
+        "Importance 0"
+      ],
+      "text": "Solar Energy Index Hits 8-week Low — Solar Energy Index decreased to 56.93 USD, the lowest since April 2026. Over the past 4 weeks, Solar Energy Index lost 16.5%, and in the last 12 months, it increased 66.83%."
+    },
+    {
+      "id": "4955385",
+      "time": "2026-06-25 21:53:57",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "比特幣跌破59000美元，日內跌3.52%。"
+    },
+    {
+      "id": "4955384",
+      "time": "2026-06-25 21:53:57",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "納指跌1.01%，現報25219.207點；道指漲0.47%，現報52094.621點；標普500指數跌0.24%，現報7340.250點。"
+    },
     {
       "id": "mkt:019eff0e-9557-7dd8-b11e-5e4efc22c3f4",
       "time": "2026-06-25 21:53:26",
@@ -155125,115 +155231,6 @@
         "國際"
       ],
       "text": "市場訊息：訊息人士稱，自伊朗與美國簽署諒解備忘錄後，巴方接到通知，現已無需在瑞士舉行線下會晤。"
-    },
-    {
-      "id": "4943731",
-      "time": "2026-06-18 21:58:38",
-      "tags": [
-        "資料"
-      ],
-      "text": "【中國貿促會副會長李興乾會見國際保護智慧財產權協會會長洛倫薩·法拉利·霍弗】6月15日，中國貿促會副會長李興乾在北京會見國際保護智慧財產權協會（AIPPI）會長洛倫薩·法拉利·霍弗、總報告人拉爾夫·納克、秘書長郭梅玲一行。雙方就深化合作關係、加強中國工商界與AIPPI的溝通往來、智慧財產權與產業鏈供應鏈的全球合作等議題進行了交流。"
-    },
-    {
-      "id": "4943730",
-      "time": "2026-06-18 21:57:25",
-      "tags": [
-        "公司"
-      ],
-      "text": "【*ST集友：擬意向收購慧聚藥業超50%股份】*ST集友公告稱，公司第三屆董事會第三十八次會議審議透過意向收購江蘇慧聚藥業股份有限公司股權並簽署相關協議的議案。公司擬收購黃華等持有的慧聚藥業超50%股份，經初步測算，本次交易構成重大資產重組。若交易順利，公司將取得慧聚藥業控制權，利於拓展新利潤增長點，增強持續經營能力。本議案已獲相關會議審議透過，無需提交股東會審議。"
-    },
-    {
-      "id": "4943729",
-      "time": "2026-06-18 21:57:14",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：伊朗代表團日內瓦之行尚未敲定。"
-    },
-    {
-      "id": "4943728",
-      "time": "2026-06-18 21:56:53",
-      "tags": [
-        "公司"
-      ],
-      "text": "據港交所檔案：廣州知易生物科技股份有限公司 - B向港交所提交上市申請書。"
-    },
-    {
-      "id": "4943727",
-      "time": "2026-06-18 21:56:49",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "據美國紐約聯儲資料，上個交易日（6月17日，美聯儲主席沃什首秀日）擔保隔夜融資利率（SOFR）報3.63%，之前一天報3.63%。上個交易日有效的聯邦基金利率報3.63%，之前一天報3.63%。"
-    },
-    {
-      "id": "mkt:019edb05-092e-7dd8-b07f-d6ad248b1220",
-      "time": "2026-06-18 21:56:40",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "An HKEX filing shows Guangzhou Zhiyi Biotechnology Co., Ltd. - B has filed a listing application."
-    },
-    {
-      "id": "4943726",
-      "time": "2026-06-18 21:56:27",
-      "tags": [
-        "其他"
-      ],
-      "text": "【2026端午檔新片預售票房破6000萬】據貓眼專業版資料，2026年端午檔新片預售總票房破6千萬，《我看見兩朵一樣的雲》《玩具總動員5》《愛是憤怒》暫列端午檔新片票房榜前三位。"
-    },
-    {
-      "id": "te:markets:560122",
-      "time": "2026-06-18 21:56:02",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Germany",
-        "stocks",
-        "Importance 1"
-      ],
-      "text": "SAP Stock Price Hits 29-month Low — SAP shares decreased to 134.98 EUR, the lowest since January 2024. Over the past 4 weeks, SAP lost 13.27%, and in the last 12 months, it decreased 45.14%."
-    },
-    {
-      "id": "mkt:019edb04-6020-7dd8-b07f-c88356facd46",
-      "time": "2026-06-18 21:55:57",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Bank of England governor urges probe into fake posts showing confrontation with Reform UK leader】Bank of England Governor Andrew Bailey has asked for help identifying the originators of a series of social media posts on X that used doctored images to depict a confrontation between him and Reform UK leader Nigel Farage; the posts have circulated widely in recent weeks. Bailey said the material is unquestionably fabricated and the Bank has raised concerns with Reform UK and X. The posts linked to a fake BBC report falsely claiming Farage confronted Bailey on a BBC programme that never aired, included fabricated quotes accusing Bailey of driving up living costs, and promoted an AI-driven investment platform. Farage denied involvement. Reform UK has long criticised the Bank under Bailey, including its bond-sales programme and proposed stablecoin regulations."
-    },
-    {
-      "id": "4943725",
-      "time": "2026-06-18 21:55:41",
-      "tags": [
-        "市場"
-      ],
-      "text": "【華為乾崑智駕ADS高階功能包優惠將收窄？知情人士：訊息屬實】近日，有訊息稱，自2026年7月1日起，華為乾崑智駕ADS高階功能包優惠或將收窄，疊加車企新車購車補貼權益等後一次性買斷價格或上漲3000元。記者從知情人士處瞭解到，該訊息屬實。一位鴻蒙智行銷售人員告訴記者：“目前來說，華為乾崑智駕ADS高階功能包優惠收窄的可能性很大，因為去年的ADS乾崑智慧駕駛系統3.2萬元價格的截止時間是今年的6月30日。”據官方定價體系，華為乾崑ADS高階功能包（含Max和Ultra）官方標準定價一直是3.6萬元，但官方長期透過限時優惠活動將價格降至3.2萬元，同時合作車企（如問界、阿維塔等）額外提供約2萬元的購車補貼權益等，兩項優惠疊加後，終端使用者到手價多為1.2萬元。根據最新的政策，從7月1日起，華為乾崑ADS Max和Ultra版本高階智駕功能包價格將恢復到3.5萬元，疊加車企購車補貼後，高階智駕功能包價格為1.5萬元，使用者較之前需多付3000元。有分析認為，本輪漲價根源在於全球晶片供需失衡，AI產業擴張推高儲存晶片需求，DRAM、NANDFlash價格大幅攀升，單儲存晶片漲價就讓單車智駕成本增加3000元至7000元。目前，也有一些汽車品牌上調智駕選裝包的價格。（每日經濟新聞）"
-    },
-    {
-      "id": "4943724",
-      "time": "2026-06-18 21:55:36",
-      "tags": [
-        "國際"
-      ],
-      "text": "【俄外長稱將對烏展開經常性大規模打擊】俄羅斯外交部長拉夫羅夫今天（6月18日）表示，由於烏克蘭對莫斯科發動大規模無人機襲擊，俄羅斯將對烏克蘭發動“經常性的大規模協同打擊”。（CCTV國際時訊）"
-    },
-    {
-      "id": "4943723",
-      "time": "2026-06-18 21:55:20",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國北達科他州4月石油產量113.7155萬桶/日。"
-    },
-    {
-      "id": "4943722",
-      "time": "2026-06-18 21:55:14",
-      "tags": [
-        "其他"
-      ],
-      "text": "非洲聯盟衛生機構：剛果（金）埃博拉死亡病例突破200例。"
     }
   ]
 }
