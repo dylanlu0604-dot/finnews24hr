@@ -1,7 +1,188 @@
 {
-  "updated": "2026-06-25 20:40:50",
-  "count": 17020,
+  "updated": "2026-06-25 20:45:09",
+  "count": 17026,
   "items": [
+    {
+      "id": "te:economy:561884",
+      "time": "2026-06-25 20:43:58",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "Core PCE Price Index Annual Change",
+        "Importance 1"
+      ],
+      "text": "US Annual Core PCE Inflation Rises the Most Since October 2023 — The core PCE price index in the US, which is the Federal Reserve's preferred gauge of underlying inflation in the US economy, rose by 3.4% year-on-year in May 2026, the most since October 2023 and well above the Federal Reserve's 2% target. Figures aligned with analysts' estimates."
+    },
+    {
+      "id": "mkt:019efece-b710-7dd8-b11c-9deb12c8d954",
+      "time": "2026-06-25 20:43:40",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "Russia's foreign ministry said it has expelled Romania's consul-general and ordered the closure of Romania's consulate in St. Petersburg."
+    },
+    {
+      "id": "4955258",
+      "time": "2026-06-25 20:43:19",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "【李強同孟加拉國總理塔裡克會談】6月25日下午，國務院總理李強在北京人民大會堂同來華進行正式訪問的孟加拉國總理塔裡克舉行會談。李強表示，中國和孟加拉國是相知相親的傳統友鄰。習近平主席將同總理先生舉行會晤，就進一步深化中孟關係作出新的戰略規劃。中方堅定支援孟方走符合本國國情的發展道路，支援孟加拉國新一屆政府順利施政。面對當前複雜變化的國際環境，中方願同孟方一道堅持睦鄰友好，鞏固戰略互信，拓展務實合作，推動中孟關係不斷取得新的更大發展，更好造福兩國人民。（新華社）"
+    },
+    {
+      "id": "4955257",
+      "time": "2026-06-25 20:43:03",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "蘋果股價盤前下跌0.7%，此前iPad和Mac產品全線提價。"
+    },
+    {
+      "id": "4955256",
+      "time": "2026-06-25 20:42:55",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯外交部：俄羅斯驅逐羅馬尼亞總領事，並關閉羅馬尼亞駐聖彼得堡總領事館。"
+    },
+    {
+      "id": "mkt:019efece-0583-7dd8-b11c-91fee7793282",
+      "time": "2026-06-25 20:42:55",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "US Economy",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "WTI"
+      ],
+      "text": "【US May PCE y/y breaks above 4% as consumer spending remains strong】US May PCE price index y/y rose to 4.1%, the largest gain since April 2023 and the first reading above 4.0% in three years, the US Commerce Department said. Higher energy following recent US-led military action against Iran lifted oil and gasoline prices; a fragile ceasefire has since eased oil and gasoline but economists expect inflation to remain elevated for a period. Consumers had already been contending with price increases from Trump-era import tariffs. The Fed last week held the policy rate at 3.50%-3.75% but updated projections show officials expect rate hikes this year amid rising inflation concerns; markets price the first hike as early as September, with another likely thereafter."
+    },
+    {
+      "id": "4955255",
+      "time": "2026-06-25 20:42:47",
+      "tags": [
+        "央行",
+        "資料",
+        "市場",
+        "焦點",
+        "國際"
+      ],
+      "text": "【美國5月PCE年率突破4%關口 消費者支出強勁】受中東衝突推高能源價格影響，美國5月通脹進一步上行，PCE年率三年來首次突破4%關口，這可能使美聯儲更接近在今年加息。美國商務部週四公佈資料顯示，美國5月PCE物價指數年率錄得4.1%，為2023年4月以來最大漲幅，也是該資料首次高於4.0%。美國主導的對伊戰爭推高了油價，進而推升汽油價格。儘管近幾周隨著脆弱的停火協議達成，原油和汽油價格有所回落，但經濟學家預計通脹將在一定時期內保持高位。而在此次衝突之前，消費者已在應對特朗普大規模進口關稅所引發的物價上漲。美聯儲上週將利率維持在3.50%-3.75%區間不變，但更新的季度預測顯示，政策制定者因對通脹的擔憂加劇，預計今年將加息。金融市場押注最早可能在9月加息，此後可能還有一次加息。"
+    },
+    {
+      "id": "te:economy:561883",
+      "time": "2026-06-25 20:41:52",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "Core PCE Price Index MoM",
+        "Importance 3"
+      ],
+      "text": "US Core PCE Prices Rise 0.3% in May as Expected — The core PCE price index in the US, which is the Federal Reserve's preferred gauge of underlying inflation in the US economy, rose by 0.3% from the previous month in May 2026, the same as in April and in line with market forecasts. From the previous year, the core PCE price index rose by an expected 3.4%, the highest since October 2023 and well above the Federal Reserve's 2% target."
+    },
+    {
+      "id": "mkt:019efecd-1226-7dd8-b11c-8be9a413b8be",
+      "time": "2026-06-25 20:41:52",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Apple",
+        "Market Themes",
+        "Magnificent 7"
+      ],
+      "text": "Apple (AAPL.O) said it will spare no effort to find solutions to address the current situation."
+    },
+    {
+      "id": "4955254",
+      "time": "2026-06-25 20:41:46",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國資料公佈後，墨西哥比索短暫收復失地，南非蘭特觸及盤中高點。"
+    },
+    {
+      "id": "mkt:019efecc-f722-7dd8-b11c-834a961249b4",
+      "time": "2026-06-25 20:41:45",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Apple",
+        "Market Themes",
+        "Magnificent 7",
+        "AAPL.O",
+        "Impact bearish"
+      ],
+      "text": "Apple (AAPL.O) said it has never seen component prices rise so quickly."
+    },
+    {
+      "id": "mkt:019efecc-c4d5-7dd8-b11c-795bba26c7b9",
+      "time": "2026-06-25 20:41:33",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "AI Revolution",
+        "Magnificent 7",
+        "Star Stocks",
+        "Apple",
+        "MU.O",
+        "Impact bullish",
+        "NVDA.O"
+      ],
+      "text": "Apple (AAPL.O): Rapid expansion of AI data centers has driven a sharp increase in memory demand."
+    },
+    {
+      "id": "mkt:019efecc-8a3b-7dd8-b11c-728747e821ec",
+      "time": "2026-06-25 20:41:17",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Apple",
+        "Market Themes",
+        "Magnificent 7",
+        "AAPL.O"
+      ],
+      "text": "Apple (AAPL.O): electronics industry faces unprecedented challenges."
+    },
+    {
+      "id": "mkt:019efecc-5b5a-7dd8-b11c-696e836732d0",
+      "time": "2026-06-25 20:41:05",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Star Stocks",
+        "Apple",
+        "Market Themes",
+        "Magnificent 7",
+        "AAPL.O",
+        "Impact mixed"
+      ],
+      "text": "【Apple raises prices on multiple Mac and iPad models】Apple raised list prices: MacBook Neo from $599 to $699; iPad Pro from $999 to $1,199; iPad Air to $749; MacBook Air to $1,299; MacBook Pro to $1,999."
+    },
+    {
+      "id": "te:economy:561880",
+      "time": "2026-06-25 20:40:25",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Canada",
+        "Wage Growth",
+        "Importance 1"
+      ],
+      "text": "Canada Weekly Earnings Growth Accelerates — Average weekly earnings of Canadian non-farm payroll employees rose 3.8% year-on-year to C$1,346 in April 2026, accelerating from a 3.5% increase in March and marking the fastest increase since April 2025. The strongest gains were recorded in utilities (11.2%), information and cultural industries (10.1%), finance and insurance (8.2%), retail trade (7.2%), and professional, scientific and technical services (6.7%). In contrast, earnings declined in real estate and rental and leasing (-3.9%). By province, the largest increases were seen in Nunavut (8.1%), New Brunswick (6.7%), Manitoba (6.2%), and Nova Scotia (5.9%). On a month-over-month basis, average weekly earnings rose 1.0%. Meanwhile, average weekly hours worked were little changed at 33.5 hours, both from the previous month and a year earlier."
+    },
     {
       "id": "mkt:019efecb-a1ce-7dd8-b11c-66b4a76d6d8d",
       "time": "2026-06-25 20:40:18",
@@ -10,6 +191,14 @@
         "Important"
       ],
       "text": "Apple (AAPL.O) is raising prices on Mac and iPad models to offset a memory shortage."
+    },
+    {
+      "id": "4955253",
+      "time": "2026-06-25 20:40:17",
+      "tags": [
+        "公司"
+      ],
+      "text": "【百度智慧雲：百度千帆Coding Plan套餐停止續費】百度智慧雲釋出公告，因產品策略調整，自2026年6月25日起，Coding Plan所有套餐將停止續費服務。已購買Coding Plan套餐，可繼續正常使用至當前服務週期結束，不受本次調整影響。套餐到期後，將不再支援續費或自動續費，相關服務權益也將隨套餐到期而結束。"
     },
     {
       "id": "4955252",
@@ -155398,100 +155587,6 @@
         "US10Y"
       ],
       "text": "ECB chief economist Lane said the ECB will take necessary action, as the Fed will."
-    },
-    {
-      "id": "4943575",
-      "time": "2026-06-18 20:44:42",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【美國天然氣期貨在庫存資料公佈前走高】隨著市場等待美國能源情報署定於美東時間上午10:30公佈的本週庫存資料，美國天然氣期貨走高。Tradition Energy的Gary Cunningham在一份報告中表示，對庫存注入量的預測範圍很廣，這使得市場反應難以預料，“但如果資料在70多（10億立方英尺），應該會讓多頭保持主導地位，而如果資料在80多中高段，可能會看到他們拋售並尋求掩護。“他補充說，較五年平均水平的庫存盈餘預計將增加，但這不太可能抵消出口增長帶來的看漲情緒，以及油價下跌將限制伴生氣產量潛在增長的可能性。接受《華爾街日報》調查的分析師預計庫存將增加820億立方英尺。紐約商交所天然氣期貨上漲0.7%，報每百萬英熱單位3.167美元。"
-    },
-    {
-      "id": "mkt:019edac2-532d-7dd8-b07d-8bd0e67f3ec5",
-      "time": "2026-06-18 20:43:48",
-      "tags": [
-        "MKT News",
-        "SAAB-B.ST",
-        "Impact bullish"
-      ],
-      "text": "Poland poised to reach submarine deal with Sweden."
-    },
-    {
-      "id": "4943574",
-      "time": "2026-06-18 20:43:46",
-      "tags": [
-        "國際"
-      ],
-      "text": "波蘭即將與瑞典敲定潛艇採購協議。"
-    },
-    {
-      "id": "mkt:019edac2-375c-7dd8-b07d-85c7927f7cde",
-      "time": "2026-06-18 20:43:41",
-      "tags": [
-        "MKT News",
-        "EURUSD",
-        "Impact bullish",
-        "DXY",
-        "Impact bearish"
-      ],
-      "text": "ECB chief economist LANE said euro appreciation continues to exert downward pressure on prices."
-    },
-    {
-      "id": "4943573",
-      "time": "2026-06-18 20:43:35",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "歐洲央行官員萊恩：歐元升值仍在給物價帶來下行壓力。"
-    },
-    {
-      "id": "4943572",
-      "time": "2026-06-18 20:43:24",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "【德意志銀行：英國央行明年或恢復降息】德意志銀行的Sanjay Raja在一份報告中表示，英國央行可能會在今年剩餘時間裡維持利率不變，並可能在明年春季恢復降息。英國央行週四以7票贊成、2票反對的投票結果將利率維持在3.75%不變，有兩位決策者傾向於加息25個基點。Raja說：“在資料好於預期以及美伊協議已經達成的背景下，迅速採取行動的必要性已經降低。“他說，雖然英國央行仍然認為通脹存在“上行風險“，但較低的工資和價格通脹使其更有信心認為，目前價格壓力仍得到較好控制。"
-    },
-    {
-      "id": "4943571",
-      "time": "2026-06-18 20:43:08",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【美伊協議落地 歐洲天然氣價格跌至兩個月來最低水平】美伊臨時和平協議生效後，歐洲天然氣價格跌至近兩個月來最低水平，市場關注點轉向霍爾木茲海峽能源運輸恢復的速度。歐洲天然氣基準期貨價格一度下跌4.6%，觸及4月21日以來最低水平，隨後收窄部分跌幅。隨著市場越來越樂觀地認為這條關鍵航道的能源運輸將迅速恢復，本週天然氣價格累計跌幅已超過10%。"
-    },
-    {
-      "id": "mkt:019edac0-b700-7dd8-b07d-7c82a84d9a20",
-      "time": "2026-06-18 20:42:03",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "ECB chief economist Lane said AI is already showing up in investment data."
-    },
-    {
-      "id": "4943570",
-      "time": "2026-06-18 20:41:21",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "歐洲央行官員萊恩：我們認為目前投資資料中已能看到人工智慧帶來的影響。"
-    },
-    {
-      "id": "em:qqyh_ozyh:202606183776377753",
-      "time": "2026-06-18 20:40:53",
-      "tags": [
-        "央行",
-        "歐洲央行"
-      ],
-      "text": "歐洲央行首席經濟學家LANE表示，歐元區就業形勢穩定，實際收入持續攀升。"
     }
   ]
 }
