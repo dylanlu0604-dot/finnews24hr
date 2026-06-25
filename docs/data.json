@@ -1,7 +1,97 @@
 {
-  "updated": "2026-06-25 13:47:57",
-  "count": 17042,
+  "updated": "2026-06-25 13:51:51",
+  "count": 17037,
   "items": [
+    {
+      "id": "mkt:019efd54-d049-7dd8-b10e-3b069667ebb1",
+      "time": "2026-06-25 13:50:54",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Saudi government: April imports fell 5.2% YoY."
+    },
+    {
+      "id": "4954215",
+      "time": "2026-06-25 13:50:47",
+      "tags": [
+        "其他"
+      ],
+      "text": "沙特4月進口額同比下降5.2%。"
+    },
+    {
+      "id": "mkt:019efd54-8b89-7dd8-b10e-37cc2a26cf21",
+      "time": "2026-06-25 13:50:36",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Saudi government said non-oil exports, including re-exports, rose 4.5% YoY in April."
+    },
+    {
+      "id": "4954214",
+      "time": "2026-06-25 13:50:10",
+      "tags": [
+        "其他"
+      ],
+      "text": "沙烏地阿拉伯4月份非石油出口（包括轉口出口）增長4.5%。"
+    },
+    {
+      "id": "mkt:019efd54-17eb-7dd8-b10e-2e895fa2df6c",
+      "time": "2026-06-25 13:50:07",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "Saudi government reports April goods exports rose 9.3% YoY; oil exports rose 11.7%."
+    },
+    {
+      "id": "mkt:019efd54-0dc4-7dd8-b10e-244cd682af55",
+      "time": "2026-06-25 13:50:04",
+      "tags": [
+        "MKT News",
+        "Important",
+        "EURUSD",
+        "Impact mixed",
+        "DAX"
+      ],
+      "text": "Germany's July GfK consumer confidence index due in 10 minutes."
+    },
+    {
+      "id": "4954213",
+      "time": "2026-06-25 13:49:53",
+      "tags": [
+        "其他"
+      ],
+      "text": "沙特官方資料顯示，2026年4月沙特商品出口較2025年4月增長9.3%，石油出口增長11.7%。"
+    },
+    {
+      "id": "4954212",
+      "time": "2026-06-25 13:49:49",
+      "tags": [
+        "其他"
+      ],
+      "text": "SK INC股價飆升23%。"
+    },
+    {
+      "id": "4954211",
+      "time": "2026-06-25 13:49:26",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "魯比奧：美國國務院正向委內瑞拉部署資源和團隊。"
+    },
+    {
+      "id": "4954210",
+      "time": "2026-06-25 13:48:44",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中國中鐵等在北京成立綠城科技發展中心 出資額約32億元】企查查APP顯示，近日，北京綠城科技發展中心（有限合夥）成立，出資額約32億元，經營範圍包含：新興能源技術研發；企業管理；企業管理諮詢等。企查查股權穿透顯示，該合夥企業由金泰產融（北京）創業投資基金管理有限公司、中國中鐵(601390)旗下中國鐵工投資建設集團有限公司、中鐵水務集團有限公司共同出資。"
+    },
     {
       "id": "4954209",
       "time": "2026-06-25 13:46:51",
@@ -155547,148 +155637,6 @@
         "宏觀"
       ],
       "text": "法國財政部長稱將實現2026年赤字目標。"
-    },
-    {
-      "id": "4942542",
-      "time": "2026-06-18 13:51:41",
-      "tags": [
-        "公司"
-      ],
-      "text": "【招商蛇口在深圳成立住房租賃公司】企查查APP顯示，近日，深圳市山前住房租賃有限公司成立，法定代表人為羅雯，經營範圍包含：住房租賃；非居住房地產租賃；企業管理諮詢；創業空間服務；餐飲管理；諮詢策劃服務等。企查查股權穿透顯示，該公司由招商蛇口旗下深圳市招商公寓發展有限公司全資持股。"
-    },
-    {
-      "id": "mkt:019ed948-f093-7dd8-b06d-584f881fc4d9",
-      "time": "2026-06-18 13:51:36",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC"
-      ],
-      "text": "Japan 40-year government bond yield rose 3.5 bps to 3.660%."
-    },
-    {
-      "id": "4942541",
-      "time": "2026-06-18 13:51:30",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "40年期日本國債收益率上升3.5個基點至3.660%。"
-    },
-    {
-      "id": "4942540",
-      "time": "2026-06-18 13:51:13",
-      "tags": [
-        "其他"
-      ],
-      "text": "德國防長：我們可以迅速補充許多作戰能力，但像縱深精確打擊這類能力則無法快速補充。"
-    },
-    {
-      "id": "4942539",
-      "time": "2026-06-18 13:51:04",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "印度SENSEX指數最新下跌0.25%"
-    },
-    {
-      "id": "em:qqyh_mlc:202606183776017392",
-      "time": "2026-06-18 13:51:01",
-      "tags": [
-        "央行",
-        "美聯儲"
-      ],
-      "text": "巴克萊預計美聯儲2027年維持利率不變，此前預測為3月降息25個基點。"
-    },
-    {
-      "id": "4942538",
-      "time": "2026-06-18 13:50:46",
-      "tags": [
-        "其他"
-      ],
-      "text": "【銀行板塊持續調整 廈門銀行跌超7%】午後銀行板塊持續調整，廈門銀行跌超7%，齊魯銀行、青島銀行、渝農商行、蘇農銀行、西安銀行均跌超3%。"
-    },
-    {
-      "id": "mkt:019ed948-0c39-7dd8-b06d-522b83217c46",
-      "time": "2026-06-18 13:50:37",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "DXY",
-        "Impact bullish",
-        "US10Y",
-        "Impact bearish",
-        "EURUSD"
-      ],
-      "text": "Barclays now expects the Fed to keep rates unchanged in 2027; it had previously forecast a 25bp cut in March."
-    },
-    {
-      "id": "4942537",
-      "time": "2026-06-18 13:50:07",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "巴克萊預期，美聯儲將在2027年維持利率不變，此前該行曾預測美聯儲會在3月降息25個基點。"
-    },
-    {
-      "id": "4942536",
-      "time": "2026-06-18 13:50:06",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "聚丙烯連續主力合約日內跌3%，現報7664.00元。"
-    },
-    {
-      "id": "mkt:019ed947-880e-7dd8-b06d-4d06db125eeb",
-      "time": "2026-06-18 13:50:04",
-      "tags": [
-        "MKT News",
-        "Important",
-        "GBPUSD",
-        "Impact mixed",
-        "DXY"
-      ],
-      "text": "Switzerland May trade balance, UK three-month ILO unemployment rate for April, and UK May initial jobless claims and unemployment rate are due in 10 minutes."
-    },
-    {
-      "id": "mkt:019ed947-8633-7dd8-b06d-43b9eba6f7a4",
-      "time": "2026-06-18 13:50:03",
-      "tags": [
-        "MKT News",
-        "Important",
-        "GBPUSD",
-        "Impact bearish",
-        "WTI"
-      ],
-      "text": "【BoE decision preview: \"second‑round\" inflation risk key; rate‑hike risk far from gone】Reuters survey and a range of forecasters expect the Bank of England to hold rates at the upcoming meeting, but headline risk of further tightening remains. The Reuters survey found 25 economists expect at least one 25bp hike this year while six expect one cut. Energy-driven \"second‑round\" inflation is the main upside risk; several houses (BofA, Nomura) say sustained high energy prices would justify further hikes, while Deutsche Bank, ING and Capital Economics say softer May inflation buys policymakers time. Nomura flags a possible 25bp move in July with easing only next year; Fitch and others also see potential rate cuts resuming next year. Political and oil-price moves are key market levers—Rabobank warns BoE caution plus a UK by-election could weaken sterling, and TD Securities notes a sharp oil drop would reduce near‑term hike odds. Berenberg highlights a weaker UK labour market versus the eurozone, reducing BoE’s inclination to tighten relative to the ECB."
-    },
-    {
-      "id": "4942535",
-      "time": "2026-06-18 13:50:01",
-      "tags": [
-        "其他"
-      ],
-      "text": "德國防長：關於由哪個盟國接管哪些相關能力的決定，目前尚未作出。"
-    },
-    {
-      "id": "mkt:019ed946-c988-7dd8-b06d-3c73b915f385",
-      "time": "2026-06-18 13:49:15",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Germany's defense minister said a roadmap to synchronize with U.S. reductions in support for the NATO Response Force is essential."
-    },
-    {
-      "id": "4942534",
-      "time": "2026-06-18 13:48:37",
-      "tags": [
-        "國際"
-      ],
-      "text": "德國防長：制定路線圖以協調美國對北約危機部隊的兵力削減至關重要。"
     }
   ]
 }
