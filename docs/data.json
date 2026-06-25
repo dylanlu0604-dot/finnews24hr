@@ -1,7 +1,957 @@
 {
-  "updated": "2026-06-25 08:59:34",
-  "count": 16930,
+  "updated": "2026-06-25 09:22:45",
+  "count": 16963,
   "items": [
+    {
+      "id": "mkt:019efc5e-08e5-7dd8-b108-6143149fd389",
+      "time": "2026-06-25 09:21:21",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "Hang Seng Index",
+        "Impact bearish",
+        "Hang Seng Tech Index",
+        "Impact bullish",
+        "Hang Seng China Enterprises Index"
+      ],
+      "text": "Hong Kong's Hang Seng Index opened down 23.68 points (-0.1%) at 23,388.5 on Thursday, June 25; the Hang Seng Tech Index opened up 18.25 points (+0.41%) at 4,497.27; the Hang Seng China Enterprises Index (HSCEI) opened down 7.48 points (-0.1%) at 7,757.49; the Hang Seng Red Chip Index opened down 17.96 points (-0.47%) at 3,840.2."
+    },
+    {
+      "id": "mkt:019efc5d-eda3-7dd8-b108-5f96b43e6eab",
+      "time": "2026-06-25 09:21:14",
+      "tags": [
+        "MKT News",
+        "Important",
+        "02513.HK",
+        "Impact bullish",
+        "02382.HK",
+        "00100.HK"
+      ],
+      "text": "Hong Kong open: Hang Seng opened 0.1% lower, Hang Seng Tech opened 0.41% higher. Zhipu (02513.HK) rose about 7%; Sunny Optical (02382.HK) gained more than 5%; MINIMAX-W (00100.HK) rose over 4%."
+    },
+    {
+      "id": "mkt:019efc5d-9c4e-7dd8-b108-5471deb433a3",
+      "time": "2026-06-25 09:20:53",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "CNH"
+      ],
+      "text": "PBOC today conducted 370.5 bln yuan of 7-day reverse repos; bids 370.5 bln yuan, allotment 370.5 bln yuan at a 1.40% rate, unchanged."
+    },
+    {
+      "id": "4953787",
+      "time": "2026-06-25 09:20:36",
+      "tags": [
+        "其他"
+      ],
+      "text": "日經225指數漲3%。"
+    },
+    {
+      "id": "mkt:019efc5d-4022-7dd8-b108-4eb0552c79b7",
+      "time": "2026-06-25 09:20:30",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Iran's Islamic Revolutionary Guard Corps Navy (IRGC Navy) said vessels transiting the Strait of Hormuz must coordinate with the IRGC on VHF channel 16; ships that ignore passage instructions will face action. It warned uncoordinated new shipping routes through Hormuz are unacceptable and dangerous."
+    },
+    {
+      "id": "mkt:019efc5c-dde7-7dd8-b108-453632aaf119",
+      "time": "2026-06-25 09:20:04",
+      "tags": [
+        "MKT News",
+        "Important",
+        "DXY",
+        "Impact mixed"
+      ],
+      "text": "Australia's May seasonally adjusted unemployment rate due in 10 minutes."
+    },
+    {
+      "id": "4953786",
+      "time": "2026-06-25 09:19:37",
+      "tags": [
+        "公司"
+      ],
+      "text": "【國家藥監局局長黃果到疫苗生產企業開展巡查督導】6月24日，國家藥監局黨組書記、局長黃果帶隊到遼寧省大連市科興（大連）疫苗技術有限公司，督導疫苗巡查檢查工作。黃果指出，要壓緊壓實監管責任與企業主體責任，嚴格對照責任清單，堅決築牢疫苗質量安全底線。要嚴格執行疫苗巡查檢查制度，持續開展對在產疫苗生產企業全覆蓋、常態化巡查，落實駐廠監督制度，把風險隱患處置在一線、管控在苗頭。要持續完善疫苗監管技術支撐體系，提升批簽發、現場檢查、藥物警戒等工作水平，以過硬的技術能力為疫苗高質量發展保駕護航。"
+    },
+    {
+      "id": "mkt:019efc5c-3f69-7dd8-b108-3fc3c664a3a1",
+      "time": "2026-06-25 09:19:24",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【Beijing mayor Yin Yong meets PwC global chair】On June 24, Beijing mayor Yin Yong met PwC’s global chair. Yin encouraged PwC to continue serving as a bridge, using its professional services to help global firms enter Beijing and Beijing firms expand overseas, and to share global industry and urban-governance expertise to support Beijing’s high-quality development. Beijing said it will continue to expand high-level opening-up, build a world-class business environment, and refine its \"service package\" and \"service concierge\" mechanisms to improve conditions for companies operating in the city."
+    },
+    {
+      "id": "4953785",
+      "time": "2026-06-25 09:19:16",
+      "tags": [
+        "其他"
+      ],
+      "text": "【柳州工業機器人產量增長861% 外貿對東盟出口猛增55%】柳州市統計局資料顯示，1-5月全市規模以上工業增加值同比增長7.7%，較1-4月加快1.7個百分點。工業機器人、鋰離子電池、電子元件產量分別大增861.1%、139.2%、52.8%。高技術製造業增加值增長40.5%，其中電子及通訊裝置製造業增長54.8%。外貿進出口總額201.76億元，同比增長13.4%，出口189.59億元增長21.7%；其中對東盟出口58.92億元，增長54.8%。電動汽車、鋰離子蓄電池出口分別增長397.1%、302.5%。此外，軟體和資訊科技服務業投資增長30.9倍，工業技改投資增長55.8%。"
+    },
+    {
+      "id": "4953784",
+      "time": "2026-06-25 09:18:14",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【陶氏公司宣佈擴大有機矽產能，預計到明年底總投資額約1億美元】北京時間6月25日，陶氏公司宣佈一系列定向投資專案，預計到2027年底總投資額約1億美元，以擴大其全球特種有機矽產品的製造與創新能力。此次投資將增強陶氏公司在美國、中國和日本的特種有機矽的綜合能力，重點聚焦先進有機矽材料及其加工技術。"
+    },
+    {
+      "id": "mkt:019efc5a-f793-7dd8-b108-339bac834a60",
+      "time": "2026-06-25 09:18:00",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bullish",
+        "DXY"
+      ],
+      "text": "TAMURA, a Bank of Japan policy board member, said suppressing inflation will help prevent future declines in demand and an economic recession."
+    },
+    {
+      "id": "4953783",
+      "time": "2026-06-25 09:17:57",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "日本央行委員田村：抑制通脹將有助於防止未來需求下降和經濟衰退。"
+    },
+    {
+      "id": "mkt:019efc59-a33c-7dd8-b108-2fbb7ad52cf3",
+      "time": "2026-06-25 09:16:33",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "【WTI falls below $70/bbl】WTI crude fell below $70/bbl for the first time since March 2, down 0.68% on the day. Brent slipped below $73/bbl, down 0.5% on the day."
+    },
+    {
+      "id": "mkt:019efc59-4546-7dd8-b108-2501c2329a1b",
+      "time": "2026-06-25 09:16:09",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "Hang Seng Index",
+        "Impact mixed"
+      ],
+      "text": "Hang Seng Index futures opened the day session up 0.01% at 23,392, trading 20 points below the cash index."
+    },
+    {
+      "id": "4953782",
+      "time": "2026-06-25 09:16:06",
+      "tags": [
+        "市場"
+      ],
+      "text": "【人民幣兌美元中間價報6.8209，較上日調低14點】人民幣兌美元中間價報6.8209，較上日調低14點。"
+    },
+    {
+      "id": "4953781",
+      "time": "2026-06-25 09:15:46",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗伊斯蘭革命衛隊：伊朗革命衛隊海軍警告，違反通航規定的船隻將被採取措施。"
+    },
+    {
+      "id": "mkt:019efc58-db95-7dd8-b108-19c87f04dad6",
+      "time": "2026-06-25 09:15:42",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "Nikkei 225",
+        "Impact bullish",
+        "USDJPY",
+        "Impact mixed"
+      ],
+      "text": "【Japan household assets ¥2,386tn at end‑March as equities surge】Bank of Japan quarterly flow report: Japanese household assets rose 7.1% YoY to ¥2,386tn ($14.7tn) at end‑March, the second‑highest on record. Cash and deposits increased 0.6% YoY to ¥1,126tn, while household equity holdings jumped 28.6% YoY to ¥398tn. BOJ holds 47.9% of outstanding JGBs, the lowest share since Q2 2020; foreign investors hold 8.1%."
+    },
+    {
+      "id": "4953780",
+      "time": "2026-06-25 09:15:15",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗伊斯蘭革命衛隊海軍：所有船隻透過霍爾木茲海峽時，必須在16頻道與伊斯蘭革命衛隊海軍協調通訊。"
+    },
+    {
+      "id": "4953779",
+      "time": "2026-06-25 09:15:02",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗伊斯蘭革命衛隊：唯有經由伊朗指定航線才能安全透過霍爾木茲海峽。"
+    },
+    {
+      "id": "4953778",
+      "time": "2026-06-25 09:15:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "恒指期貨日盤開盤跌0.16%，報23301.76點，低水110.42點。"
+    },
+    {
+      "id": "4953777",
+      "time": "2026-06-25 09:14:55",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗伊斯蘭革命衛隊：未經伊朗協調宣佈新的霍爾木茲航運航線是不可接受且危險的行為。"
+    },
+    {
+      "id": "4953776",
+      "time": "2026-06-25 09:14:10",
+      "tags": [
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "日本央行審議委員田村直樹：需要密切關注價格上漲傳導的速度。"
+    },
+    {
+      "id": "4953775",
+      "time": "2026-06-25 09:13:44",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "日本央行審議委員田村直樹：我擔心企業將比2022年更迅速、並以更大的幅度轉嫁成本。"
+    },
+    {
+      "id": "mkt:019efc56-bcc1-7dd8-b108-16a788796621",
+      "time": "2026-06-25 09:13:23",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bearish",
+        "DXY"
+      ],
+      "text": "Bank of Japan policy board member Tamura said inflation expectations have roughly reached 2% and continue to rise."
+    },
+    {
+      "id": "4953774",
+      "time": "2026-06-25 09:13:00",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "日本央行審議委員田村直樹：基礎通脹率已觸及央行2%的目標。"
+    },
+    {
+      "id": "em:qqyh_rbyh:202606253782257273",
+      "time": "2026-06-25 09:12:42",
+      "tags": [
+        "央行",
+        "日本央行"
+      ],
+      "text": "【日本央行審議委員田村直樹：需將利率向2%左右的中性水平方向上調】據報道，日本央行審議委員田村直樹表示，需要每隔幾個月加息一次，將利率向2%左右的中性水平方向上調。"
+    },
+    {
+      "id": "4953773",
+      "time": "2026-06-25 09:11:46",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "日本央行審議委員田村直樹：現在開始具體討論還為時過早，但在未來某個時點，日本央行應就適當的儲備金水平進行辯論。"
+    },
+    {
+      "id": "4953772",
+      "time": "2026-06-25 09:11:36",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "低硫燃料油連續主力合約日內跌4%，現報3749.00元。"
+    },
+    {
+      "id": "4953771",
+      "time": "2026-06-25 09:11:34",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "日本央行審議委員田村直樹：央行應在與政府密切溝通的同時維持物價穩定。"
+    },
+    {
+      "id": "mkt:019efc54-d175-7dd8-b108-0ecc68effd03",
+      "time": "2026-06-25 09:11:17",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "BANK OF JAPAN policy board member TAMURA said it is too early to begin concrete discussions now, but at some point the BANK OF JAPAN should discuss the appropriate level of reserves."
+    },
+    {
+      "id": "4953770",
+      "time": "2026-06-25 09:10:50",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "日本央行委員田村直樹：若價格風險上升，必須毫不猶豫地加快加息步伐。"
+    },
+    {
+      "id": "4953769",
+      "time": "2026-06-25 09:10:44",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "鉑連續主力合約日內跌4%，現報391.15元。"
+    },
+    {
+      "id": "4953768",
+      "time": "2026-06-25 09:10:40",
+      "tags": [
+        "其他"
+      ],
+      "text": "【華安中證電池主題指數基金開啟發行】6月25日，華安中證電池主題指數基金開啟發行。華安基金表示，動力電池是電池行業最大的基本盤之一，全球新能源車滲透率仍處上升通道，單車帶電量提升形成倍乘效應。同時，儲能正從新能源配套角色升級為剛需基礎設施，AI資料中心配儲、海外電網側儲能等需求爆發，儲能成為電池行業最具彈性的增長極。此外，2026年被業界稱為固態電池量產元年，產業化程序加速為產業鏈帶來新的資本開支週期。"
+    },
+    {
+      "id": "mkt:019efc54-28f9-7dd8-b108-0499a906518e",
+      "time": "2026-06-25 09:10:34",
+      "tags": [
+        "MKT News",
+        "USDJPY",
+        "Impact bearish"
+      ],
+      "text": "Bank of Japan policy board member Tamura said the BOJ must review the appropriate level of its balance sheet from the liabilities side."
+    },
+    {
+      "id": "mkt:019efc53-ee2d-7dd8-b107-fc618ca36597",
+      "time": "2026-06-25 09:10:19",
+      "tags": [
+        "MKT News",
+        "USDJPY",
+        "Impact bearish",
+        "DXY"
+      ],
+      "text": "TAMURA, a Bank of Japan policy board member, said he voted against pausing the taper of bond purchases from the next fiscal year and that the central bank should swiftly normalize its bond holdings."
+    },
+    {
+      "id": "mkt:019efc53-ce27-7dd8-b107-f238002af288",
+      "time": "2026-06-25 09:10:11",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC"
+      ],
+      "text": "TAMURA, BOJ policy board member, said the recent rise in long-term interest rates is consistent with fundamentals and reflects market participants' views on inf and on monetary and fiscal prospects."
+    },
+    {
+      "id": "mkt:019efc53-b551-7dd8-b107-ef4e7007e340",
+      "time": "2026-06-25 09:10:04",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Canada's defence minister, in talks with Japan's defence minister, raised the possibility of extending the Global Combat Air Programme (GCAP) to additional countries, but said any expansion would require joint approval from Japan, Italy and the UK."
+    },
+    {
+      "id": "4953767",
+      "time": "2026-06-25 09:10:01",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "上海原油連續主力合約日內跌5%，現報464.60元。"
+    },
+    {
+      "id": "mkt:019efc53-7e98-7dd8-b107-e321091dc4be",
+      "time": "2026-06-25 09:09:50",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC"
+      ],
+      "text": "Canada's defence minister said in talks with Japan's defence minister they discussed the Global Combat Air Programme (GCAP) fighter development project."
+    },
+    {
+      "id": "4953766",
+      "time": "2026-06-25 09:09:47",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "日本央行審議委員田村直樹：長遠來看，日本央行必須從負債方的角度審視其資產負債表的適當規模。"
+    },
+    {
+      "id": "4953765",
+      "time": "2026-06-25 09:09:27",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "瀝青連續主力合約日內跌3%，現報3706.00元。"
+    },
+    {
+      "id": "4953764",
+      "time": "2026-06-25 09:08:58",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "日本央行審議委員田村直樹：近期長期利率的上升符合基本面，反映了市場參與者對通脹、貨幣及財政政策前景的看法。"
+    },
+    {
+      "id": "mkt:019efc52-5ac6-7dd8-b107-dff783811f37",
+      "time": "2026-06-25 09:08:36",
+      "tags": [
+        "MKT News",
+        "USDJPY",
+        "Impact bullish",
+        "DXY",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "Tamura, a Bank of Japan policy board member, said the BOJ faces different conditions from the Federal Reserve and the European Central Bank; policy rates remain below neutral and inflation expectations are not yet firmly anchored."
+    },
+    {
+      "id": "4953763",
+      "time": "2026-06-25 09:08:31",
+      "tags": [
+        "國際"
+      ],
+      "text": "加拿大國防部長：全球作戰航空計劃是否將擴充套件至其他國家，將由日本、義大利和英國決定。"
+    },
+    {
+      "id": "4953762",
+      "time": "2026-06-25 09:08:20",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "日本央行審議委員田村直樹：我投票反對央行從下一財年起暫停縮減購債的決定，因認為央行應儘快將其公債持倉規模降至正常水平。"
+    },
+    {
+      "id": "4953761",
+      "time": "2026-06-25 09:07:54",
+      "tags": [
+        "國際"
+      ],
+      "text": "加拿大國防部長：與日本防衛大臣會談期間討論了全球作戰航空計劃(GCAP)戰鬥機研發專案。"
+    },
+    {
+      "id": "4953760",
+      "time": "2026-06-25 09:07:32",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "日本央行審議委員田村直樹： 近期債券收益率的波動反映了基本面。"
+    },
+    {
+      "id": "4953759",
+      "time": "2026-06-25 09:06:48",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "日本央行審議委員田村直樹：日本央行面臨的情況與美聯儲和歐洲央行不同，因為其政策利率仍低於中性水平，通脹預期尚未充分錨定。"
+    },
+    {
+      "id": "4953758",
+      "time": "2026-06-25 09:06:36",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "日本央行委員田村直樹：日本利率仍遠未達到中性水平。"
+    },
+    {
+      "id": "4953757",
+      "time": "2026-06-25 09:06:09",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "日本央行審議委員田村直樹：我認為基礎通脹率已經達到2%。"
+    },
+    {
+      "id": "mkt:019efc4f-fa17-7dd8-b107-d156c5dcb161",
+      "time": "2026-06-25 09:06:00",
+      "tags": [
+        "MKT News",
+        "USDJPY",
+        "Impact bearish"
+      ],
+      "text": "Bank of Japan policy board member Tamura said core (underlying) inflation has reached 2%."
+    },
+    {
+      "id": "mkt:019efc4f-e3b9-7dd8-b107-cadc75564167",
+      "time": "2026-06-25 09:05:54",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC"
+      ],
+      "text": "Tamura, a Bank of Japan policy board member, said prices face upside risks regardless of developments in the Middle East."
+    },
+    {
+      "id": "4953756",
+      "time": "2026-06-25 09:05:52",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "日本央行審議委員田村直樹：無論中東局勢如何發展，物價都存在上行風險。"
+    },
+    {
+      "id": "mkt:019efc4f-c421-7dd8-b107-c3fe66fa818c",
+      "time": "2026-06-25 09:05:46",
+      "tags": [
+        "MKT News",
+        "USDJPY",
+        "Impact bullish"
+      ],
+      "text": "Bank of Japan policy board member Tamura said Japan's interest rates remain far from neutral."
+    },
+    {
+      "id": "te:markets:561673",
+      "time": "2026-06-25 09:05:45",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Australia",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Australian Shares Retreat Ahead of Labor Market Data — Australian stocks dropped 39 points or 0.4% to 8,773 on Thursday morning session after closing slightly higher in the prior session. The decline followed extended weakness on Wall Street's S&P 500 and Nasdaq overnight after a major rout in the tech sector earlier this week. Locally, nerves grew ahead of labor market figures for May, after April’s jobless rate rose to 4.5%, the highest since late 2021, while employment unexpectedly fell. Meanwhile, Reserve Bank's Deputy Governor Andrew Hauser warned that inflation remains too high, stressing more policy work is needed to return to the 2–3% target. Wednesday's print showed Australia's headline inflation eased to 4.0% in May from April's 4.2%, but core inflation accelerated to 3.6%. Non-energy minerals, energy minerals, and industrial services faced selling pressure, with notable laggards from BHP Group (-0.7%), Worley (-9.0%), Predictive Discovery (-7.2%), and Capricorn Metals (-4.0%). The big four banks shed between 0.8% and 2.9%."
+    },
+    {
+      "id": "mkt:019efc4f-c0d8-7dd8-b107-b94453aa078a",
+      "time": "2026-06-25 09:05:45",
+      "tags": [
+        "MKT News",
+        "Important",
+        "USDJPY",
+        "Impact bearish"
+      ],
+      "text": "Bank of Japan policy board member Tamura said if the probability of upside inflation risks rises, the Bank of Japan should not hesitate to accelerate rate hikes or sharply raise policy rates."
+    },
+    {
+      "id": "4953755",
+      "time": "2026-06-25 09:05:41",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "20號膠連續主力合約日內跌6%，現報14705.00元。"
+    },
+    {
+      "id": "te:markets:561671",
+      "time": "2026-06-25 09:05:13",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Gasoline Falls to Over 3-Month Low — US gasoline prices extended their decline toward $2.80 per gallon in late June, revisiting their lowest level since March, amid signs that oil exports from the Middle East were resuming. Tanker tracking data showed crude carriers moving through the Strait of Hormuz again after diplomatic progress and a preliminary agreement between the US and Iran encouraged both sides to ease restrictions. At the same time, the US continued moving toward lifting sanctions on Iran, a step that could bring additional oil supplies to international markets and Western refiners. Meanwhile, gasoline inventories rose by 2.064 million barrels to 216.3 million barrels in the week ending June 19, compared with expectations for a 0.6 million-barrel draw. However, stocks remained 5% below the five-year average, indicating that supplies were still relatively tight by historical standards. For the month, gasoline prices are on track to post a second consecutive decline."
+    },
+    {
+      "id": "4953754",
+      "time": "2026-06-25 09:04:50",
+      "tags": [
+        "其他"
+      ],
+      "text": "【夏季達沃斯論壇見證“一帶一路”合作走深走實】第十七屆夏季達沃斯論壇正在遼寧大連舉行，多國政要，金融機構、學界及工商界的代表圍繞共建“一帶一路”的發展路徑展開深度對話。與會人士普遍認為，在全球經濟復甦面臨多重挑戰的背景下，共建“一帶一路”正持續向高質量發展邁進，數字賦能、綠色轉型、民生共享與金融創新成為下一階段合作的核心方向。（央視）"
+    },
+    {
+      "id": "mkt:019efc4e-90ab-7dd8-b107-b66977297c22",
+      "time": "2026-06-25 09:04:27",
+      "tags": [
+        "MKT News",
+        "USDJPY",
+        "Impact bearish",
+        "Nikkei 225"
+      ],
+      "text": "Bank of Japan policy board member TAMURA said he expects to raise rates every few months until the policy rate reaches roughly a 2% neutral level."
+    },
+    {
+      "id": "4953753",
+      "time": "2026-06-25 09:04:13",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【日本巖手縣附近海域地震 暫未發現周邊核電站異常】日本巖手縣附近海域25日發生6.9級地震。日本共同社援引電力公司方面的訊息稱，福島第一、第二核電站以及青森縣東通核電站、宮城縣女川核電站暫未發現異常。當地時間25日7時30分左右，巖手縣附近海域發生6.9級地震。日本氣象廳表示，此次地震可能導致沿岸出現輕微海面變化，但無需擔心海嘯災害。（新華社）"
+    },
+    {
+      "id": "4953752",
+      "time": "2026-06-25 09:04:07",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本經濟規劃草案顯示，政府將呼籲採取“適當的貨幣政策以支援民間需求”。"
+    },
+    {
+      "id": "4953751",
+      "time": "2026-06-25 09:03:38",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "日本央行審議委員田村直樹：將利率提高至更接近中性水平非常重要。我的設想是日本央行以每隔幾個月一次的步調上調政策利率，朝著對經濟影響中性、大約在2%左右的水平邁進。"
+    },
+    {
+      "id": "mkt:019efc4d-876d-7dd8-b107-acc7a9f74f82",
+      "time": "2026-06-25 09:03:19",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【6.9-magnitude quake off Iwate; nearby nuclear plants report no abnormalities】A magnitude-6.9 earthquake struck offshore Iwate at about 07:30 JST on the 25th. Kyodo, citing power companies, said Fukushima Daiichi, Fukushima Daini, Aomori’s Higashidori and Miyagi’s Onagawa nuclear plants reported no abnormalities. The Japan Meteorological Agency said slight coastal sea-level changes are possible but a tsunami threat is not expected."
+    },
+    {
+      "id": "4953750",
+      "time": "2026-06-25 09:03:06",
+      "tags": [
+        "市場"
+      ],
+      "text": "布倫特原油日內跌1%，現報73.13美元/桶。"
+    },
+    {
+      "id": "4953749",
+      "time": "2026-06-25 09:03:02",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "甲醇連續主力合約日內跌3%，現報2403.00元。"
+    },
+    {
+      "id": "4953748",
+      "time": "2026-06-25 09:02:43",
+      "tags": [
+        "市場"
+      ],
+      "text": "WTI原油日內跌1%，現報69.60美元/桶。"
+    },
+    {
+      "id": "4953747",
+      "time": "2026-06-25 09:02:42",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "日本央行審議委員田村直樹：認為日本的中性利率約為2%。"
+    },
+    {
+      "id": "4953746",
+      "time": "2026-06-25 09:02:26",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "日本央行審議委員田村直樹：需要每隔幾個月就加息一次。"
+    },
+    {
+      "id": "mkt:019efc4c-ada6-7dd8-b107-a5bd1cf0f6e3",
+      "time": "2026-06-25 09:02:24",
+      "tags": [
+        "MKT News",
+        "USDJPY",
+        "Impact bearish",
+        "DXY",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "TAMURA, a Bank of Japan policy board member, said he believes Japan's neutral interest rate is around 2%."
+    },
+    {
+      "id": "mkt:019efc4c-9e78-7dd8-b107-9c2299b4e655",
+      "time": "2026-06-25 09:02:20",
+      "tags": [
+        "MKT News",
+        "USDJPY",
+        "Impact bearish",
+        "DXY"
+      ],
+      "text": "Bank of Japan policy board member Tamura said it is important to steer the BOJ's policy rate toward neutral to avoid being forced into large rate hikes later."
+    },
+    {
+      "id": "mkt:019efc4c-9b26-7dd8-b107-9466646c8f16",
+      "time": "2026-06-25 09:02:19",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Japan 30-year government bond yield fell 2.5 bps to 3.840%."
+    },
+    {
+      "id": "mkt:019efc4c-7701-7dd8-b107-8942c8ef33e0",
+      "time": "2026-06-25 09:02:10",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bullish"
+      ],
+      "text": "A draft of Japan's government economic blueprint calls for \"appropriate monetary policy to support private demand\"."
+    },
+    {
+      "id": "4953745",
+      "time": "2026-06-25 09:02:09",
+      "tags": [
+        "央行",
+        "公司",
+        "焦點"
+      ],
+      "text": "【央行：將在6月29日、6月30日公開市場操作中增加隔夜逆回購操作品種】央行公告，為更好匹配銀行體系短期流動性需求，中國人民銀行將在6月29日、6月30日公開市場操作中增加隔夜逆回購操作品種，隔夜逆回購操作採用固定利率、數量招標。"
+    },
+    {
+      "id": "4953744",
+      "time": "2026-06-25 09:02:01",
+      "tags": [
+        "公司"
+      ],
+      "text": "【亦莊國投成立人工智慧與積體電路等四大基金】企查查APP顯示，近日，北京經濟技術開發區人工智慧與積體電路股權投資基金合夥企業（有限合夥）、北京經濟技術開發區智慧製造與機器人股權投資基金合夥企業（有限合夥）、北京經濟技術開發區生物技術與大健康股權投資基金合夥企業（有限合夥）、北京經濟技術開發區未來產業股權投資基金合夥企業（有限合夥）成立，出資額分別約為80億元、50億元、40億元、30億元。企查查股權穿透顯示，上述企業皆由北京亦莊國際投資發展有限公司、北京亦莊國際產業投資管理有限公司共同出資。"
+    },
+    {
+      "id": "4953743",
+      "time": "2026-06-25 09:01:57",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "對二甲苯連續主力合約日內跌5%，現報7524.00元。"
+    },
+    {
+      "id": "4953742",
+      "time": "2026-06-25 09:01:48",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "燃料油連續主力合約日內跌3%，現報2935.00元。"
+    },
+    {
+      "id": "mkt:019efc4c-08e1-7dd8-b107-85469c134efa",
+      "time": "2026-06-25 09:01:41",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Taiwan Weighted Index opened up 724.39 points (+1.57%) at 46,767.99 on Thursday, June 25."
+    },
+    {
+      "id": "em:qqyh_zgyh:202606253782162246",
+      "time": "2026-06-25 09:01:35",
+      "tags": [
+        "央行",
+        "中國央行"
+      ],
+      "text": "【央行：將在6月29日、6月30日公開市場操作中增加隔夜逆回購操作品種】央行公告，為更好匹配銀行體系短期流動性需求，中國人民銀行將在6月29日、6月30日公開市場操作中增加隔夜逆回購操作品種，隔夜逆回購操作採用固定利率、數量招標。"
+    },
+    {
+      "id": "4953741",
+      "time": "2026-06-25 09:01:33",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "聚丙烯連續主力合約日內跌4%，現報7061.00元。"
+    },
+    {
+      "id": "mkt:019efc4b-e657-7dd8-b107-7b48c4959d8f",
+      "time": "2026-06-25 09:01:33",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Navigation warning — Bohai Sea closed for military activity Jun 26-28】Qinhuangdao Maritime Safety Administration, via the China Maritime Safety Administration website, issued a navigation warning closing parts of the Bohai Sea to navigation for military activity from 0000 June 26 to 2400 June 28; entry is prohibited."
+    },
+    {
+      "id": "4953740",
+      "time": "2026-06-25 09:01:16",
+      "tags": [
+        "市場",
+        "觀點",
+        "央行",
+        "國際"
+      ],
+      "text": "【中金財富期貨：美元走強直接打壓以美元計價的貴金屬資產，黃金一度跌破4000美元關口】美聯儲加息預期升溫支撐美元走高，美元走強直接打壓以美元計價的貴金屬資產，黃金一度跌破4000美元關口。當前油價大幅回落，但是黃金並未走強，核心原因在於美股對於流動性的虹吸效應。之前因賺錢效應而過度炒作的黃金仍在逐步迴歸理性，注意不要盲目抄底。"
+    },
+    {
+      "id": "mkt:019efc4b-6376-7dd8-b107-7795fbcf4024",
+      "time": "2026-06-25 09:00:59",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "Market Regions",
+        "Greater China",
+        "CNH",
+        "Impact bullish"
+      ],
+      "text": "The People's Bank of China said it will add overnight reverse repos to open market operations on June 29 and June 30; the repos will be conducted as fixed-rate, quantity tenders to better match banks' short-term liquidity needs."
+    },
+    {
+      "id": "4953739",
+      "time": "2026-06-25 09:00:53",
+      "tags": [
+        "公司"
+      ],
+      "text": "【晶科科技在江西成立鑫算科技公司】企查查APP顯示，近日，江西鑫算科技有限公司成立，經營範圍包含：資料處理和儲存支援服務，資訊系統整合服務，資訊系統執行維護服務等。企查查股權穿透顯示，該公司由晶科科技(601778)間接全資持股。"
+    },
+    {
+      "id": "mkt:019efc4b-4b3f-7dd8-b107-6cd4819c92bc",
+      "time": "2026-06-25 09:00:53",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Japan Meteorological Agency warns strong quake may recur within a week】At 06:30 Beijing time on June 25 a magnitude-6.9 earthquake struck off eastern Honshu, hypocenter depth 50 km. Japan reported a seismic intensity of upper-6 on the JMA 10-point scale (second-highest). No tsunami warning was issued. In a morning briefing the Japan Meteorological Agency said similar-magnitude shocks could occur over the next week, that stronger shaking cannot be ruled out, and urged the public to remain vigilant."
+    },
+    {
+      "id": "4953737",
+      "time": "2026-06-25 09:00:44",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "瓶片連續主力合約日內跌5%，現報6576.00元。"
+    },
+    {
+      "id": "mkt:019efc4b-0fde-7dd8-b107-64df717f36de",
+      "time": "2026-06-25 09:00:38",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "Shanghai Gold Exchange Gold T+D fell 2.03% to 874.52 yuan/gram in early trade on June 25 (Thu); Silver T+D dropped 5.9% to 13,950 yuan/kg."
+    },
+    {
+      "id": "mkt:019efc4a-df89-7dd8-b107-58de2d166f7d",
+      "time": "2026-06-25 09:00:25",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish",
+        "Hang Seng Index",
+        "SSE Composite"
+      ],
+      "text": "FTSE China A50 index futures opened 0.1% higher."
+    },
+    {
+      "id": "4953736",
+      "time": "2026-06-25 09:00:20",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "丁二烯橡膠連續主力合約日內跌5%，現報12085.00元。"
+    },
+    {
+      "id": "mkt:019efc4a-cb83-7dd8-b107-5095ef7b4652",
+      "time": "2026-06-25 09:00:20",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals"
+      ],
+      "text": "At the morning open, China’s main domestic futures were mixed: Shanghai silver futures fell over 6%; 20# rubber dropped more than 5%; bottle-grade PET chip and PTA declined nearly 5%; synthetic rubber, p-xylene, rubber and propylene fell over 4%. On the upside, coke rose over 1% and caustic soda gained about 1%."
+    },
+    {
+      "id": "4953735",
+      "time": "2026-06-25 09:00:18",
+      "tags": [
+        "市場"
+      ],
+      "text": "臺灣證交所加權股價指數上漲1.1%至46,553.33點。"
+    },
+    {
+      "id": "4953734",
+      "time": "2026-06-25 09:00:13",
+      "tags": [
+        "其他"
+      ],
+      "text": "臺灣證交所加權股價指數開高0.6%報46,339.68。"
+    },
+    {
+      "id": "4953733",
+      "time": "2026-06-25 09:00:10",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "PTA連續主力合約日內跌5%，現報5454.00元。"
+    },
+    {
+      "id": "4953732",
+      "time": "2026-06-25 09:00:08",
+      "tags": [
+        "其他"
+      ],
+      "text": "【航行警告！渤海軍事活動】據中國海事局網站訊息，秦皇島海事局釋出航行警告，6月26日0時至28日24時，渤海部分海域開展軍事活動，禁止駛入。"
+    },
+    {
+      "id": "4953731",
+      "time": "2026-06-25 09:00:03",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "丁二烯橡膠連續主力合約日內跌4%，現報12155.00元。"
+    },
+    {
+      "id": "4953730",
+      "time": "2026-06-25 09:00:03",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "PTA連續主力合約日內跌4%，現報5464.00元。"
+    },
+    {
+      "id": "4953729",
+      "time": "2026-06-25 09:00:03",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "白銀連續主力合約日內跌6%，現報13960.00元。"
+    },
+    {
+      "id": "4953728",
+      "time": "2026-06-25 09:00:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "富時中國A50指數期貨開盤上漲0.03%。"
+    },
+    {
+      "id": "4953727",
+      "time": "2026-06-25 09:00:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "【商品期貨開盤】白銀連續跌6.18%，20號膠連續跌5.56%，PTA連續跌4.74%，瓶片連續跌4.59%，丁二烯橡膠連續跌4.44%。"
+    },
     {
       "id": "4953726",
       "time": "2026-06-25 08:58:37",
@@ -154057,632 +155007,6 @@
         "市場"
       ],
       "text": "【港股人工智慧概念股走強 天數智芯漲近8%】截至發稿，天數智芯(09903.HK)漲7.60%，MINIMAX-W(00100.HK)漲3.84%，智譜(02513.HK)漲3.67%。"
-    },
-    {
-      "id": "mkt:019ed852-4d7d-7dd8-b067-ffd9c7d7dcb9",
-      "time": "2026-06-18 09:22:12",
-      "tags": [
-        "MKT News",
-        "Important",
-        "CNH"
-      ],
-      "text": "【PBOC nets CNY 59.5 bln via 7-day reverse repos】PBOC conducted CNY 248 bln of 7-day reverse repos today; CNY 188.5 bln matured, leaving a net injection of CNY 59.5 bln."
-    },
-    {
-      "id": "te:economy:559866",
-      "time": "2026-06-18 09:21:57",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Hong Kong",
-        "Interest Rate",
-        "Importance 1"
-      ],
-      "text": "Hong Kong Holds Base Rate at 4% After Fed Decision — The Hong Kong Monetary Authority (HKMA) left its base rate unchanged at 4.0% on June 18, 2026, in line with the U.S. Federal Reserve's decision to keep its target range at 3.5%–3.75% at its first policy meeting under new Chair Kevin Warsh. The decision reflects Hong Kong's Linked Exchange Rate System, which pegs the Hong Kong dollar within a 7.75–7.85 per U.S. dollar trading band, requiring local interest rates to track U.S. monetary policy closely regardless of domestic economic conditions. Despite higher borrowing costs, Hong Kong's economy has remained resilient. Annual GDP growth accelerated to a near five-year high of 5.9% in the first quarter of 2026, supported by firm domestic demand and resilient external trade, even as businesses continued to navigate geopolitical tensions and supply chain disruptions stemming from the Middle East conflict."
-    },
-    {
-      "id": "4942164",
-      "time": "2026-06-18 09:21:39",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "央行公開市場今日淨投放595.0億元人民幣。"
-    },
-    {
-      "id": "4942163",
-      "time": "2026-06-18 09:21:38",
-      "tags": [
-        "焦點"
-      ],
-      "text": "港股恒指低開跌0.69％，國企指數跌0.88％，科指開跌0.88%。"
-    },
-    {
-      "id": "mkt:019ed851-a0bc-7dd8-b067-f27dca321ec2",
-      "time": "2026-06-18 09:21:28",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "Hang Seng Index",
-        "Impact bearish",
-        "Hang Seng Tech Index",
-        "Hang Seng China Enterprises Index"
-      ],
-      "text": "Hong Kong, June 18 — Hang Seng Index (HSI) opened down 166.97 points, or 0.69%, at 24,145.19. Hang Seng Tech Index opened down 41.00 points, or 0.88%, at 4,628.07. Hang Seng China Enterprises Index (HSCEI) opened down 71.31 points, or 0.88%, at 8,072.72. Hang Seng Red Chip Index opened down 22.50 points, or 0.54%, at 4,149.33."
-    },
-    {
-      "id": "em:qqyh_zgyh:202606183775503369",
-      "time": "2026-06-18 09:21:27",
-      "tags": [
-        "央行",
-        "中國央行"
-      ],
-      "text": "央行今日開展2480億元7天逆回購操作，操作利率為1.40%，與此前持平。"
-    },
-    {
-      "id": "mkt:019ed851-728a-7dd8-b067-e9fa715dfc25",
-      "time": "2026-06-18 09:21:16",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "CNH"
-      ],
-      "text": "PBOC today conducted CNY 248 billion 7-day reverse repo; bids CNY 248 billion, allotment CNY 248 billion, repo rate 1.40%, unchanged."
-    },
-    {
-      "id": "mkt:019ed851-64dc-7dd8-b067-e54e118a5ef5",
-      "time": "2026-06-18 09:21:13",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Hang Seng Index",
-        "Impact bearish",
-        "00100.HK",
-        "Impact bullish",
-        "09992.HK"
-      ],
-      "text": "Hong Kong stocks opened lower; Hang Seng Index down 0.69%, Hang Seng Tech Index down 0.88%. MINIMAX-W (00100.HK) rose more than 3.8%, Pop Mart (09992.HK) fell more than 3.3%, NetEase (09999.HK) fell more than 2.8%."
-    },
-    {
-      "id": "4942162",
-      "time": "2026-06-18 09:21:05",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "央行今日開展2480億元人民幣7天期逆回購操作，操作利率1.40%。"
-    },
-    {
-      "id": "mkt:019ed84f-ffd7-7dd8-b067-df7dbb25d020",
-      "time": "2026-06-18 09:19:41",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact mixed",
-        "US10Y",
-        "Impact bearish"
-      ],
-      "text": "【DBS: Gold likely to trade range-bound near term】Gold rose in Asian morning trade after the Federal Reserve left rates unchanged overnight. DBS Group strategist Sherilyn Chew said recent gains have been event-driven — notably US‑Iran de‑escalation — and have only partly offset Fed signals of possible hikes later this year, leaving prices in a narrow trading range. Chew expects central bank bullion buying to remain strong and a survey showing planned reserve increases over the next year should provide medium‑term support. DBS sees gold trading range‑bound near term; further declines in bond yields would likely push prices higher."
-    },
-    {
-      "id": "4942161",
-      "time": "2026-06-18 09:19:34",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "燃料油連續主力合約日內跌3%，現報3102.00元。"
-    },
-    {
-      "id": "mkt:019ed84f-7f9f-7dd8-b067-d57a16452e7f",
-      "time": "2026-06-18 09:19:09",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【China vice finance minister Liao Min meets City of London Policy and Resources Committee chair He Kaisi】On June 16, 2026, Vice Finance Minister Liao Min met in Beijing with He Kaisi, chair of the City of London Policy and Resources Committee, to exchange views on the macroeconomic outlook, policy and China-UK economic and financial dialogue."
-    },
-    {
-      "id": "4942160",
-      "time": "2026-06-18 09:19:04",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "【廖岷會見英國倫敦金融城政策與資源委員會主席賀凱思】2026年6月16日，財政部副部長廖岷在北京會見英國倫敦金融城政策與資源委員會主席賀凱思，就宏觀經濟形勢和政策、中英經濟財金對話等議題交換了意見。（財政部）"
-    },
-    {
-      "id": "mkt:019ed84f-3b6c-7dd8-b067-cfad4d976a63",
-      "time": "2026-06-18 09:18:51",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "White House chief of staff Susie Wiles said the next 60 days could be challenging, particularly in finalizing key details."
-    },
-    {
-      "id": "mkt:019ed84e-690c-7dd8-b067-c379768c3b0b",
-      "time": "2026-06-18 09:17:57",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "Chip Wars"
-      ],
-      "text": "Lehman Optoelectronics said its MIP (MicroLED-in-Package) technology is primarily for packaging LED display panels, is not a wafer-level integration technology, and cannot be used for semiconductor chip packaging."
-    },
-    {
-      "id": "4942159",
-      "time": "2026-06-18 09:17:40",
-      "tags": [
-        "其他"
-      ],
-      "text": "【一汽解放攜手中科海鈉探索鈉離子純電重卡新方案】近日，一汽解放攜手中科海鈉，順利完成鈉離子電池重卡全工況系統性測試，標誌著鈉離子電池技術在重型商用車領域的落地應用取得關鍵性突破，為新能源重卡行業破解低溫電池衰減、補能慢等痛點提供了全新解決方案。本次測試車型為解放J6P新能源純電牽引車，整車搭載339kWh大容量鈉離子電池。測試周期長達近7個月，累計路試里程突破15000公里。"
-    },
-    {
-      "id": "4942158",
-      "time": "2026-06-18 09:17:27",
-      "tags": [
-        "市場"
-      ],
-      "text": "【上一交易日ETF兩市融資融券餘額1108.84億元】截至6月17日，ETF兩市融資融券餘額1108.84億元，分型別來看，股票型ETF兩融餘額617.81億元，債券型ETF兩融餘額76.77億元，商品型ETF兩融餘額135.40億元，QDII型ETF兩融餘額278.86億元。其中，兩融餘額最高的非貨幣型ETF分別是黃金ETF（518880）、證券ETF（512880）、黃金ETF（159934），兩融餘額分別為64.10億元、38.75億元、37.60億元。"
-    },
-    {
-      "id": "te:markets:559865",
-      "time": "2026-06-18 09:17:25",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Currency",
-        "Importance 2"
-      ],
-      "text": "Dollar Remains Firm on Hawkish Fed Signals — The dollar index held above the 100 mark on Thursday after jumping nearly 1% in the previous session, as the Federal Reserve left interest rates unchanged but signaled increasing support for rate hikes later this year. Half of FOMC members now project at least one rate increase in 2026, while the central bank sharply raised its inflation forecasts amid the economic impact of the conflict in the Middle East. Meanwhile, new Fed Chair Kevin Warsh declined to offer guidance on the next policy move but stressed that inflation has remained above the Fed’s 2% target for several years and reaffirmed the central bank’s commitment to restoring price stability. On the geopolitical front, President Donald Trump signed an interim agreement to end the war with Iran and reopen the Strait of Hormuz, though it remains unclear whether Iran has already begun implementing measures to fully reopen the critical shipping route."
-    },
-    {
-      "id": "4942157",
-      "time": "2026-06-18 09:17:18",
-      "tags": [
-        "國際"
-      ],
-      "text": "橋水基金創始人瑞·達利歐：我們相信當前正處於臨界點。我們正在步入一段尤為危險的時期，預計將從2026年中期選舉持續到2028年總統選舉。貨幣形勢正變得日益嚴峻。美國政府目前支出達7萬億美元，而收入僅約5萬億美元，超支幅度達40%。儘管政府有大量債務需要融資，但市場對這些債務的需求卻在下降。這種需求下滑既源於標準的供需因素，也源於債務持有人對潛在制裁的擔憂。"
-    },
-    {
-      "id": "mkt:019ed84d-6b49-7dd8-b067-b9ecd9a6ae4c",
-      "time": "2026-06-18 09:16:52",
-      "tags": [
-        "MKT News",
-        "US10Y",
-        "Impact bearish"
-      ],
-      "text": "Bridgewater Associates founder Ray Dalio said that although governments face large financing needs, market demand for that debt is weakening. He attributed the decline to ordinary supply-demand dynamics and debt holders' concerns about potential sanctions."
-    },
-    {
-      "id": "mkt:019ed84d-6444-7dd8-b067-b704ec76a9a6",
-      "time": "2026-06-18 09:16:50",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "US Economy",
-        "DXY",
-        "Impact bullish",
-        "US10Y",
-        "Impact bearish",
-        "S&P500"
-      ],
-      "text": "Bridgewater founder Ray Dalio said monetary conditions are becoming increasingly severe. He said the U.S. government is currently spending US$7 tln while revenue is about US$5 tln, an overspend of roughly 40%."
-    },
-    {
-      "id": "4942156",
-      "time": "2026-06-18 09:16:46",
-      "tags": [
-        "國際"
-      ],
-      "text": "【赴美加墨觀賽中國公民遭持槍搶劫，外交部提醒加強安全防範】據“領事直通車”公眾號訊息，近日，1名赴墨西哥觀賽中國公民在墨西哥城國際機場附近遭持槍搶劫，1名中國公民在美國堪薩斯城足球場館外遭持槍搶劫。外交部和中國駐美國、加拿大、墨西哥使領館再次鄭重提醒赴美加墨觀賽中國公民提前瞭解賽事城市治安狀況，在大型場館周邊、公共交通樞紐及旅遊景區等人群密集區域保持警惕，防範盜搶風險。如遇搶劫等極端事件，首先保持冷靜，確保自身安全，及時報警並聯系駐外使領館尋求協助。聯絡方式美國報警電話：911（可要求中文服務）加拿大報警電話：911墨西哥報警電話911駐美國使館領事保護與協助電話：+1-202-4952216駐紐約總領館領事保護與協助電話：+1-212-6953125駐舊金山總領館領事保護與協助電話：+1-415-9296998駐洛杉磯總領館領事保護與協助電話：+1-213-8078052駐芝加哥總領館領事保護與協助電話：+1-312-3973015駐加拿大使館領事保護與協助電話：+1-613-5621616駐多倫多總領館領事保護與協助電話：+1-416-5942308駐溫哥華總領館領事保護與協助電話：+1-604-3369926駐卡爾加里總領館領事保護與協助電話：+1-403-5376907駐蒙特利爾總領館領事保護與協助電話：+1-514-9338891駐墨西哥使館領事保護與協助電話：+52-5556162129駐蒂華納總領館領事保護與協助電話：+52-6644920455外交部全球領事保護與服務應急熱線（24小時）：+86-10-12308+86-10-65612308"
-    },
-    {
-      "id": "mkt:019ed84d-288a-7dd8-b067-ab071828727f",
-      "time": "2026-06-18 09:16:35",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Bridgewater founder Ray Dalio said he believes we are at a critical inflection point and are entering an especially dangerous period he expects will run from the mid-2026 midterms through the 2028 presidential election."
-    },
-    {
-      "id": "4942155",
-      "time": "2026-06-18 09:16:23",
-      "tags": [
-        "觀點",
-        "央行",
-        "國際"
-      ],
-      "text": "高盛副董事長、前達拉斯聯儲主席羅伯特·卡普蘭：如果通脹沒有降溫，美聯儲在秋季採取行動是“明智之舉”。"
-    },
-    {
-      "id": "mkt:019ed84c-d2b9-7dd8-b067-a2b4fb9f85ea",
-      "time": "2026-06-18 09:16:13",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "YONHAP: South Korea will set zero tariffs on liquefied natural gas (LNG) and liquefied petroleum gas (LPG) to counter inflation."
-    },
-    {
-      "id": "4942154",
-      "time": "2026-06-18 09:15:38",
-      "tags": [
-        "市場"
-      ],
-      "text": "【人民幣兌美元中間價報6.8130，較上日調低34點】人民幣兌美元中間價報6.8130，較上日調低34點。"
-    },
-    {
-      "id": "4942153",
-      "time": "2026-06-18 09:15:34",
-      "tags": [
-        "市場"
-      ],
-      "text": "人民幣兌美元中間價報6.8130元。"
-    },
-    {
-      "id": "mkt:019ed84c-2721-7dd8-b067-98e2a959f237",
-      "time": "2026-06-18 09:15:29",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "Hang Seng Index",
-        "Impact bearish"
-      ],
-      "text": "Hang Seng Index futures opened the day session down 0.14% at 24,228, trading 82 points below the cash index."
-    },
-    {
-      "id": "4942152",
-      "time": "2026-06-18 09:15:28",
-      "tags": [
-        "公司"
-      ],
-      "text": "【雷曼光電：公司的MIP技術不能應用於半導體晶片封裝】雷曼光電6月18日在互動平臺表示，公司的MIP（Micro LED-in-Package）技術主要應用於LED顯示面板的封裝，不屬於晶圓級整合技術，不能應用於半導體晶片封裝。"
-    },
-    {
-      "id": "4942151",
-      "time": "2026-06-18 09:15:03",
-      "tags": [
-        "市場"
-      ],
-      "text": "恒指期貨日盤開盤跌0.17%，報24221.70點，低水90.46點。"
-    },
-    {
-      "id": "4942150",
-      "time": "2026-06-18 09:14:34",
-      "tags": [
-        "其他"
-      ],
-      "text": "【湖北釋出暴雨橙色預警 多地將有大暴雨】湖北省氣象臺2026年6月18日8時41分發布暴雨橙色省級預警：目前恩施、宜昌西部已出現大雨到暴雨，預計今天下午到夜間全省雨勢將逐漸加強，恩施、宜昌仍有大雨到暴雨，荊州、荊門、隨州、孝感、天門、潛江、仙桃、武漢西部、黃岡北部等地傍晚轉大雨到暴雨，其中荊州、荊門、孝感、天門、潛江局地有大暴雨，請注意防範。"
-    },
-    {
-      "id": "4942149",
-      "time": "2026-06-18 09:13:42",
-      "tags": [
-        "公司"
-      ],
-      "text": "【潮州三環(集團)股份有限公司透過港交所上市聆訊】據港交所披露，潮州三環(集團)股份有限公司透過港交所上市聆訊，獨家保薦人為中國銀河國際。"
-    },
-    {
-      "id": "mkt:019ed84a-4f09-7dd8-b067-930b21ecb545",
-      "time": "2026-06-18 09:13:28",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "【CDB says it has disbursed 213.3 bln yuan for tech renovation and equipment upgrades】China Development Bank has disbursed 213.3 bln yuan in technology renovation and equipment-upgrade loans as of end-May, targeting industrial, energy/power, transport and logistics sectors. The lending covered 366 firms and 507 projects; roughly 70% funded traditional-sector upgrades toward smart, green, higher-end and integrated transformation. CDB said it leveraged long-term funding and coordinated ministry project lists to prioritise large-scale equipment renewal."
-    },
-    {
-      "id": "4942148",
-      "time": "2026-06-18 09:12:55",
-      "tags": [
-        "其他"
-      ],
-      "text": "【國開行：已累計發放技術改造和裝置更新貸款2133億元】記者今天（18日）從國家開發銀行瞭解到，我國“兩新”政策實施兩年多來，國開行充分發揮中長期投融資優勢，圍繞支援大規模裝置更新，對接有關部委推送的專案清單，主動上門做好金融服務。截至今年5月底，國開行已累計向工業、能源電力、交通運輸、物流等領域發放技術改造和裝置更新貸款2133億元，支援企業366家、專案507個。其中，近七成投向傳統產業智慧化、綠色化、高階化、融合化改造升級領域。"
-    },
-    {
-      "id": "4942147",
-      "time": "2026-06-18 09:12:42",
-      "tags": [
-        "公司"
-      ],
-      "text": "【海新能科：公司核心主業生物能源（SAF、HVO）已實現盈利且趨勢持續向好】海新能科6月18日在互動平臺表示，公司核心主業生物能源（SAF、HVO）已實現盈利且趨勢持續向好，行業景氣度延續，目前在手訂單飽滿。公司正加快推進四川鑫達等低效資產處置，聚焦生物能源主業。"
-    },
-    {
-      "id": "te:markets:559863",
-      "time": "2026-06-18 09:11:31",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Australia",
-        "Currency",
-        "Importance 1"
-      ],
-      "text": "Aussie Dollar Stays Near 2-Month Lows — The Australian dollar rose above $0.70, but remained near two-month lows as the US dollar jumped following the Federal Reserve’s interest rate decision. While the Fed left its policy rate unchanged, half of FOMC members expect a hike later this year amid growing inflation concerns. Meanwhile, new Fed Chair Kevin Warsh shifted away from forward guidance in his debut communication, emphasizing a more inflation-focused policy stance. In Australia, the Reserve Bank signaled further tightening after holding rates steady. Governor Michele Bullock emphasized that inflation remains too high and reiterated that further rate hikes cannot be ruled out. While markets increasingly suspect that the tightening cycle is over, the RBA’s hawkish tone has kept a roughly 50% odds of one final hike this year priced in. Elsewhere, US President Trump signed an interim agreement to end the war with Iran, although it remains uncertain whether Iran has already begun steps to fully reopen the Strait of Hormuz."
-    },
-    {
-      "id": "4942146",
-      "time": "2026-06-18 09:11:25",
-      "tags": [
-        "市場",
-        "央行",
-        "國際"
-      ],
-      "text": "【亞洲策略師關注日元干預風險及科技股 稱美聯儲鷹派訊號重塑市場預期】策略師表示，美聯儲在新主席凱文·沃什主持的首次政策會議上採取鷹派立場後，市場正密切關注日元干預風險。美債收益率走高，對亞洲貨幣整體構成壓力，同時亞洲央行也更難在降息的同時不觸發匯率進一步貶值。墨爾本經紀商ACCM的研究總監Glenn Yin稱，日元兌美元匯率穿破160關鍵阻力位，干預風險正在增加，而過去幾年中，多次干預都發生在這一水平。美元飆升反映了沃什更為鷹派的立場，以及九名投票成員預期年底前至少會加息一次。由於澳大利亞央行在本週利率決議中採取了觀望態度，這改變了澳元/美元的短期走勢。，IG International市場分析師Fabien Yip稱，美聯儲的鷹派立場重塑了全球市場的預期。透過保留進一步加息的可能性並上調通脹預期，美聯儲實際上已經打破了短期內的預期。“我們預計美國股市的負面情緒今天將對亞洲市場造成壓力，尤其是那些對超大規模資料中心支出高度敏感的高估值科技股和人工智慧基礎設施股。”"
-    },
-    {
-      "id": "4942145",
-      "time": "2026-06-18 09:09:37",
-      "tags": [
-        "國際"
-      ],
-      "text": "法國總統馬克龍：特朗普總統今晚在凡爾賽簽署了伊朗與美國之間的協議。 這一協議為持久和平鋪平了道路，並使霍爾木茲海峽重新開放成為可能。 這是朝著正確方向邁出的重要一步，將使我們的同胞們很快受益於能源價格的下降。"
-    },
-    {
-      "id": "mkt:019ed846-06e7-7dd8-b067-8c8b68352f9d",
-      "time": "2026-06-18 09:08:48",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Pakistan's prime minister said President Trump's firm diplomatic commitment and preference for a peaceful solution helped end the conflict."
-    },
-    {
-      "id": "mkt:019ed845-ea4d-7dd8-b067-80305b3f7de3",
-      "time": "2026-06-18 09:08:41",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Emerging Markets"
-      ],
-      "text": "Pakistan's prime minister praised Qatar's leadership for its efforts and constructive engagement in helping Pakistan reach this stage."
-    },
-    {
-      "id": "4942144",
-      "time": "2026-06-18 09:05:50",
-      "tags": [
-        "公司",
-        "觀點"
-      ],
-      "text": "【祁星加入中信建投證券研究所，擔任ESG及綠色金融首席分析師】6月18日，中信建投證券宣佈，祁星正式加入中信建投證券研究所，擔任ESG及綠色金融首席分析師。簡歷顯示，祁星為英國倫敦大學學院（UCL）環境與可持續發展碩士，墨爾本大學環境學與法語雙學士。擁有7年綠色金融、ESG及氣候變化領域研究經驗。曾任浙商證券ESG及綠色金融首席分析師、中金公司研究部量化及ESG分析師、MSCI大中華區ESG與氣候變化部ESG專員、清華大學五道口金融學院綠色金融研究員。曾獲2025年第五屆21世紀金牌分析師年度最佳ESG研究。"
-    },
-    {
-      "id": "mkt:019ed842-b808-7dd8-b067-7899ef6b0af5",
-      "time": "2026-06-18 09:05:11",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "Ghalibaf says Iran has \"sovereign rights\" in the Strait of Hormuz."
-    },
-    {
-      "id": "4942143",
-      "time": "2026-06-18 09:04:42",
-      "tags": [
-        "國際"
-      ],
-      "text": "馬來西亞交易所：馬來西亞股指的價格行情傳輸出現輕微延遲。"
-    },
-    {
-      "id": "4942142",
-      "time": "2026-06-18 09:04:24",
-      "tags": [
-        "觀點"
-      ],
-      "text": "花旗稱，近期中國鋁業板塊的拋售顯然過度，目前的股價疲軟正是買入股票的機會。維持對中國宏橋和中國鋁業的“買入”評級。"
-    },
-    {
-      "id": "te:markets:559860",
-      "time": "2026-06-18 09:04:18",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 0"
-      ],
-      "text": "Silver Rises as US-Iran Deal Takes Effect — Silver climbed above $69 an ounce on Thursday, recovering losses from the previous session after President Donald Trump signed an interim agreement to end the conflict with Iran and reopen the Strait of Hormuz. Reports indicated that the deal includes the swift reopening of the strait and the removal of sanctions on Iranian oil exports, while negotiations on nuclear issues and potential additional economic incentives for Iran are set to continue. Meanwhile, silver tumbled about 3% on Wednesday after the US Federal Reserve signaled increasing support for interest rate hikes this year. Fed Chair Kevin Warsh refrained from providing guidance on the next policy move but stressed that inflation has remained above the central bank’s 2% target for several years and reiterated the Fed’s commitment to restoring price stability."
-    },
-    {
-      "id": "4942141",
-      "time": "2026-06-18 09:04:02",
-      "tags": [
-        "其他"
-      ],
-      "text": "【芯海科技入選北汽新能源首批深化合作企業名單】6月17日，2026北京經濟技術開發區汽車行業黨委全體會議暨“新機車”車機跨域融合創新平臺釋出活動在京舉行。活動現場，北汽新能源公佈了首批六家深化合作企業名單，芯海科技入選該名單。依託“新汽機”創新平臺，雙方將圍繞車機跨域融合、功能安全、智慧互動和三電核心等方向，展開系列聯合技術專案的首批落地合作，涵蓋車身域控、電池管理、智慧座艙、底盤控制等關鍵應用場景，共同攻克跨域融合中的晶片技術堵點，加速國產車規晶片在整車平臺上的“首上車”系統級驗證與適配。"
-    },
-    {
-      "id": "4942140",
-      "time": "2026-06-18 09:03:35",
-      "tags": [
-        "其他"
-      ],
-      "text": "【習近平給新華社老黨員張連生回信強調 傳承紅色基因 在新徵程上書寫優異答卷】在中國共產黨成立105週年之際，中共中央總書記、國家主席、中央軍委主席習近平給新華社102歲老黨員張連生回信，向他和全國的老黨員、老同志致以誠摯問候。 習近平在回信中說，您當年作為中央縱隊“四大隊”報務員，在烽火硝煙中跟隨黨中央轉戰陝北，紮根通訊技術崗位辛勤付出一輩子，期頤之年仍關心黨和國家事業發展，向您表示敬意。 習近平表示，您在信中說，要永遠跟黨走，做永遠的“四大隊”隊員，這飽含著真摯深厚的信黨愛黨之情。新時代共產黨人要傳承紅色基因，不忘初心、牢記使命，履職盡責、實幹擔當，在新徵程上書寫優異答卷。 中央縱隊“四大隊”，是解放戰爭時期新華社跟隨黨中央和毛主席轉戰陝北的工作隊，負責新聞通訊聯絡。近日，張連生同志給習近平總書記寫信，回憶在“四大隊”的革命工作經歷，表達永遠跟黨走的堅定信念。（央視新聞）"
-    },
-    {
-      "id": "4942139",
-      "time": "2026-06-18 09:03:06",
-      "tags": [
-        "公司"
-      ],
-      "text": "中國城市基礎設施集團有限公司在香港暫停交易。"
-    },
-    {
-      "id": "te:markets:559859",
-      "time": "2026-06-18 09:02:53",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 2"
-      ],
-      "text": "Gold Rebounds as US-Iran Deal Takes Effect — Gold rose above $4,300 an ounce on Thursday, recovering losses from the previous session after President Donald Trump signed an interim agreement to end the conflict with Iran and reopen the Strait of Hormuz. Reports indicated that the deal includes the swift reopening of the strait and the removal of sanctions on Iranian oil exports, while negotiations on nuclear issues and potential additional economic incentives for Iran are set to continue. Meanwhile, gold tumbled nearly 2% on Wednesday after the US Federal Reserve signaled increasing support for interest rate hikes this year. Fed Chair Kevin Warsh refrained from providing guidance on the next policy move but stressed that inflation has remained above the central bank’s 2% target for several years and reiterated the Fed’s commitment to restoring price stability."
-    },
-    {
-      "id": "mkt:019ed840-2cc2-7dd8-b067-7196f3beadeb",
-      "time": "2026-06-18 09:02:24",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "CSI300",
-        "Impact bearish",
-        "SSE Composite",
-        "Hang Seng Index"
-      ],
-      "text": "FTSE China A50 index futures opened down 0.24%."
-    },
-    {
-      "id": "mkt:019ed83f-6df7-7dd8-b067-6d7b8116dce8",
-      "time": "2026-06-18 09:01:35",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "Taiwan's TAIEX opened 414.48 points higher, up 0.9% at 46,291.87 on Thu June 18."
-    },
-    {
-      "id": "4942138",
-      "time": "2026-06-18 09:01:23",
-      "tags": [
-        "市場"
-      ],
-      "text": "臺灣證交所加權股價指數上漲1.1%至46,375.08點。"
-    },
-    {
-      "id": "mkt:019ed83f-25c6-7dd8-b067-6655a47d8366",
-      "time": "2026-06-18 09:01:17",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "RMB's share of SWIFT global payments in May was 2.75%, down from 2.85% previously."
-    },
-    {
-      "id": "4942137",
-      "time": "2026-06-18 09:01:08",
-      "tags": [],
-      "text": "國內期貨主力合約跌多漲少，焦煤、純鹼、鉑跌超2％，燃料油、合成橡膠跌近2％，玻璃、焦炭、20號膠、塑膠跌超1％。漲幅方面，多晶矽、對二甲苯、PTA、短纖漲超1％，瓶片、低硫燃料油（LU）、純苯漲近1％。"
-    },
-    {
-      "id": "mkt:019ed83e-e9f5-7dd8-b067-5cdc8f3e9c17",
-      "time": "2026-06-18 09:01:02",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Precious Metals",
-        "XAUUSD",
-        "Impact bearish"
-      ],
-      "text": "Shanghai Gold Exchange Gold T+D slid 0.3% to 937.87 yuan/gram in early trade on June 18; Silver T+D slid 0.99% to 16,615 yuan/kg."
-    },
-    {
-      "id": "4942136",
-      "time": "2026-06-18 09:00:55",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "現貨黃金突破4320美元/盎司，日內漲1.54%。"
-    },
-    {
-      "id": "mkt:019ed83e-c03b-7dd8-b067-54bd5f87e954",
-      "time": "2026-06-18 09:00:51",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Precious Metals",
-        "XAUUSD",
-        "Impact bullish",
-        "DXY",
-        "Impact bearish"
-      ],
-      "text": "Spot gold touched $4,320/oz, up 1.49% intraday."
-    },
-    {
-      "id": "4942135",
-      "time": "2026-06-18 09:00:35",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "紐約期金突破4340美元/盎司，日內跌0.92%。"
-    },
-    {
-      "id": "4942134",
-      "time": "2026-06-18 09:00:29",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "紐約期銀突破70美元/盎司，日內跌1.82%。"
-    },
-    {
-      "id": "4942133",
-      "time": "2026-06-18 09:00:22",
-      "tags": [
-        "其他"
-      ],
-      "text": "臺灣證交所加權股價指數開高0.2%報45,972.26。"
-    },
-    {
-      "id": "mkt:019ed83e-494c-7dd8-b067-4989a6a38afa",
-      "time": "2026-06-18 09:00:21",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Precious Metals",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "At the open, China's domestic futures main contracts skewed weaker: coking coal, soda ash and platinum fell more than 2%; fuel oil and synthetic rubber were down about 2%; glass, coke, 20# rubber and plastics dropped over 1%. On the upside, polysilicon, paraxylene (PX), PTA and short fiber gained more than 1%; bottle-grade PET chips, low-sulphur fuel oil (LU) and benzene rose about 1%."
-    },
-    {
-      "id": "4942132",
-      "time": "2026-06-18 09:00:12",
-      "tags": [
-        "其他"
-      ],
-      "text": "中國5月Swift人民幣在全球支付中佔比 2.75%，前值 2.85%。"
-    },
-    {
-      "id": "4942131",
-      "time": "2026-06-18 09:00:03",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "焦煤連續主力合約日內跌2%，現報1314.50元。"
-    },
-    {
-      "id": "4942130",
-      "time": "2026-06-18 09:00:03",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "純鹼連續主力合約日內跌2%，現報1137.00元。"
-    },
-    {
-      "id": "4942129",
-      "time": "2026-06-18 09:00:03",
-      "tags": [
-        "市場"
-      ],
-      "text": "富時中國A50指數期貨開盤下跌0.26%。"
-    },
-    {
-      "id": "4942128",
-      "time": "2026-06-18 09:00:02",
-      "tags": [
-        "市場"
-      ],
-      "text": "【商品期貨開盤】焦煤連續跌2.52%，丁二烯橡膠連續跌2.22%，純鹼連續跌2.15%，燃料油連續跌1.97%，鉑連續跌1.82%。"
     }
   ]
 }
