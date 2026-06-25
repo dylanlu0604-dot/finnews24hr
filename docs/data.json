@@ -1,7 +1,1306 @@
 {
-  "updated": "2026-06-25 19:19:18",
-  "count": 16961,
+  "updated": "2026-06-25 20:06:53",
+  "count": 16976,
   "items": [
+    {
+      "id": "4955197",
+      "time": "2026-06-25 20:05:59",
+      "tags": [
+        "其他"
+      ],
+      "text": "阿瑞斯私人信貸基金再度將贖回額度上限設為 5%。"
+    },
+    {
+      "id": "mkt:019efeaa-deff-7dd8-b11a-1cb5fa0028b7",
+      "time": "2026-06-25 20:04:31",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Ukrainian defense firm Fire Point said it hopes to deploy the first batch of ballistic missile interceptors by year-end."
+    },
+    {
+      "id": "4955195",
+      "time": "2026-06-25 20:04:27",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "鈀金期貨突破1200美元/盎司，日內漲2.07%。"
+    },
+    {
+      "id": "4955194",
+      "time": "2026-06-25 20:03:39",
+      "tags": [
+        "其他"
+      ],
+      "text": "【美團LongCat開源 VitaBench2.0：長期動態智慧體基準新標杆】VitaBench 2.0是首個真實生活場景下面向長期動態使用者建模的智慧體評測基準，它系統性地評測大語言模型在長期、真實、動態的使用者互動中個性化與主動性的能力。（美團技術）"
+    },
+    {
+      "id": "mkt:019efeaa-00a2-7dd8-b11a-14f773322fbd",
+      "time": "2026-06-25 20:03:34",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "【Meituan LongCat open-sources VitaBench 2.0 as benchmark for long-term dynamic agents】VitaBench 2.0, open-sourced by Meituan LongCat, is the first benchmark targeting long-term dynamic user modeling in real-world scenarios. It systematically evaluates large language models' ability to deliver personalization and proactivity across extended, real-time user interactions."
+    },
+    {
+      "id": "4955193",
+      "time": "2026-06-25 20:02:52",
+      "tags": [
+        "市場"
+      ],
+      "text": "鈀金期貨日內漲2%，現報1198.50美元/盎司。"
+    },
+    {
+      "id": "4955192",
+      "time": "2026-06-25 20:02:51",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "烏克蘭Fire Point公司稱希望年底前擁有首批彈道導彈攔截器。"
+    },
+    {
+      "id": "4955191",
+      "time": "2026-06-25 20:02:35",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "摩根大通任命羅爾博擔任消費者及社群銀行業務執行長。"
+    },
+    {
+      "id": "4955190",
+      "time": "2026-06-25 20:01:46",
+      "tags": [
+        "公司"
+      ],
+      "text": "【神宇股份：部分董事、高管擬合計減持不超0.31%公司股份】神宇股份(300563)6月25日公告，公司董事/副總經理陳宏計劃減持本公司股份合計不超過12.25萬股（佔剔除公司回購專用賬戶股份數量後的總股本比例0.07%）。董事/副總經理陸嶸華計劃減持本公司股份合計不超過12.125萬股（佔剔除公司回購專用賬戶股份數量後的總股本比例0.07%）。副總經理劉青計劃減持本公司股份合計不超過15.03萬股（佔剔除公司回購專用賬戶股份數量後的總股本比例0.08%）。副總經理劉斌計劃減持本公司股份合計不超過15.3股（佔剔除公司回購專用賬戶股份數量後的總股本比例0.09%）。"
+    },
+    {
+      "id": "4955189",
+      "time": "2026-06-25 20:01:35",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "【易方達基金：旗下部分公募基金參與兩公司股票申購及認購】易方達基金公告稱，旗下部分公募基金參與了華潤新能源首次公開發行股票的網下申購、芯碁微裝於港交所發行的H股的認購。其中，由中信證券託管的5只公募基金參與華潤新能源申購，獲配金額從10.99萬元到85.03萬元不等；由中國銀行託管的3只公募基金參與芯碁微裝認購，獲配金額從5.05萬港元到114.99萬港元不等。"
+    },
+    {
+      "id": "mkt:019efea8-310c-7dd8-b11a-0e60dd93a5d6",
+      "time": "2026-06-25 20:01:35",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "Impact bearish",
+        "S&P500"
+      ],
+      "text": "【Reuters: Stronger U.S. PCE could reverse optimism from Micron earnings】Bank senior markets analyst Ipek Ozkardeskaya said stronger-than-expected U.S. PCE could prompt the Fed toward a more hawkish stance and reverse market optimism after Micron Technology’s earnings. She added that, with tech giants taking on more debt to pursue AI, stronger PCE could reawaken concerns about rising borrowing costs."
+    },
+    {
+      "id": "4955188",
+      "time": "2026-06-25 20:01:27",
+      "tags": [
+        "觀點"
+      ],
+      "text": "摩根大通任命道格・佩特諾與特洛伊・羅爾博為聯席總裁。"
+    },
+    {
+      "id": "4955187",
+      "time": "2026-06-25 20:01:03",
+      "tags": [
+        "其他"
+      ],
+      "text": "Scaled Cognition 完成 1 億美元 A 輪融資。"
+    },
+    {
+      "id": "mkt:019efea7-84e2-7dd8-b11a-067754637e36",
+      "time": "2026-06-25 20:00:51",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "Shanghai Gold Exchange gold T+D fell 2.22% at the start of the evening session on June 25 (Thursday) to 872.86 yuan/gram; Shanghai Gold Exchange silver T+D fell 0.74% to 13,820.0 yuan/kg."
+    },
+    {
+      "id": "mkt:019efea7-5ca5-7dd8-b119-fe414fc75f1a",
+      "time": "2026-06-25 20:00:41",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Baltic Dry Index fell 1.63% to 2,591 points."
+    },
+    {
+      "id": "4955186",
+      "time": "2026-06-25 20:00:40",
+      "tags": [
+        "市場"
+      ],
+      "text": "波羅的海乾散貨指數下跌1.63%，至2591點。"
+    },
+    {
+      "id": "4955185",
+      "time": "2026-06-25 19:59:05",
+      "tags": [
+        "國際"
+      ],
+      "text": "【國防部駁斥歐盟稱中國協助訓練俄軍】6月25日下午，國防部舉行例行記者會，國防部新聞發言人張曉剛大校答記者問。 有記者問，歐盟外交與安全政策高階代表卡拉斯稱，本月早些時候歐盟方面確認，中國軍方協助訓練赴烏克蘭戰場的俄羅斯軍人。請問對此有何評論？ 張曉剛說，有關說法純屬汙衊抹黑。中方在烏克蘭危機上的立場是一貫的、明確的。中俄合作既不針對第三方，也不受第三方因素影響。（北京日報）"
+    },
+    {
+      "id": "4955184",
+      "time": "2026-06-25 19:58:31",
+      "tags": [
+        "公司"
+      ],
+      "text": "【大中礦業：“大中轉債”6月30日起恢復轉股】大中礦業公告稱，因實施2025年度權益分派，“大中轉債”（債券程式碼：127070）自2026年6月17日起暫停轉股，暫停期限至權益分派股權登記日（6月29日）止。此外，因部分募投專案變更，“大中轉債”附加回售條款生效，回售申報期間（6月22日至6月26日）暫停轉股。“大中轉債”暫停轉股截止日以回售申報期最後一日或權益分派股權登記日孰晚為準，自6月30日起恢復轉股。"
+    },
+    {
+      "id": "4955183",
+      "time": "2026-06-25 19:57:27",
+      "tags": [
+        "公司"
+      ],
+      "text": "【渤海汽車：收到上交所恢復重大資產重組稽核通知】渤海汽車公告稱，公司擬發行股份及支付現金購買北京海納川持有的北京北汽模塑51%股權、海納川安道拓（廊坊）座椅51%股權、廊坊萊尼線束系統50%股權並募集配套資金。2026年5月31日，該事項因財報更新中止稽核。截至6月25日，公司完成加期財務資料更新並申請恢復稽核，同日收到上交所同意通知。本次交易尚需上交所稽核透過及證監會同意註冊，能否獲批及時間均不確定。"
+    },
+    {
+      "id": "4955182",
+      "time": "2026-06-25 19:57:00",
+      "tags": [
+        "公司"
+      ],
+      "text": "【楚天龍釋出eSIM安全融合通訊方案】6月24日，在2026年上海行動通訊大會（MWC）現場，楚天龍股份有限公司（簡稱“楚天龍”）研發中心總經理董逢華代表公司釋出《楚天龍AIoT智慧終端專用eSIM安全融合通訊方案》，以硬體金融級安全標準，為物聯網裝置打通穩定、安全、高效的通訊通路。"
+    },
+    {
+      "id": "4955181",
+      "time": "2026-06-25 19:54:42",
+      "tags": [
+        "央行",
+        "市場",
+        "焦點"
+      ],
+      "text": "【美股盤前要聞速遞】\n①美股三大股指期貨齊漲：道指期貨漲0.19%，標普500指數期貨漲0.66%，納指期貨漲漲2.08%。\n②德國DAX指數漲0.63%，英國富時100指數漲0.45%，法國CAC40指數漲0.49%，歐洲斯托克50指數漲0.70%。\n③WTI原油跌1.12%，報69.55美元/桶。布倫特原油跌1.07%，報73.08美元/桶。\n④美國5月PCE資料即將公佈。市場普遍預期，美國5月核心PCE價格指數將環比上漲0.3%，同比漲幅上升至3.4%。\n⑤美聯儲轉向引發市場顛簸，富國銀行：莫追漲，靜待回撥。\n⑥摩根大通上調標普500目標至7800點，維持美股看漲預期。\n⑦美光美股盤前張超17%，訊息面上，美光業績超預期，摩根士丹利將美光科技的目標價由1050美元上調至1200美元，維持“增持”評級。\n⑧IBM美股盤前漲超3%，訊息面上，該公司推出全球首款亞1奈米晶片技術，新晶片設計效能最高提升50%，能效比其2奈米節點晶片提高70%。\n⑨閃迪美股盤前漲超15%，花旗集團將其目標股價從2025美元上調至2500美元。"
+    },
+    {
+      "id": "mkt:019efea0-3bfe-7dd8-b119-f6a2c757eb2d",
+      "time": "2026-06-25 19:52:54",
+      "tags": [
+        "MKT News",
+        "Important",
+        "USDJPY"
+      ],
+      "text": "USD/JPY briefly touched 161.941, then quickly retreated about 20 pips to 161.84."
+    },
+    {
+      "id": "4955180",
+      "time": "2026-06-25 19:52:35",
+      "tags": [
+        "其他",
+        "焦點"
+      ],
+      "text": "美元兌日元USD/JPY短暫上觸161.941，隨後迅速回落20點，最新報161.84。"
+    },
+    {
+      "id": "4955179",
+      "time": "2026-06-25 19:52:08",
+      "tags": [
+        "宏觀",
+        "公司"
+      ],
+      "text": "【市場監管總局釋出《網路銷售重點工業產品清單（2026年版）》】根據《網路銷售重點工業產品質量安全監督管理規定》（國家市場監督管理總局令第110號），市場監管總局制定、調整併發布《網路銷售重點工業產品清單》。為加強網路銷售重點工業產品質量安全監管，市場監管總局制定了《網路銷售重點工業產品清單（2026年版）》，現予公告，自2026年12月1日起施行。對納入清單的重點工業產品，電子商務經營者應當嚴格履行《網路銷售重點工業產品質量安全監督管理規定》的各項義務。"
+    },
+    {
+      "id": "4955178",
+      "time": "2026-06-25 19:51:14",
+      "tags": [
+        "國際"
+      ],
+      "text": "【委內瑞拉所遭地震系125年來最大震級】美國有線電視新聞網25日援引美國地質調查局資料包道，委內瑞拉24日晚強震中的第二場，是這個南美國家一個多世紀來所遭遇震級最大的地震。（新華社）"
+    },
+    {
+      "id": "4955177",
+      "time": "2026-06-25 19:51:08",
+      "tags": [
+        "公司"
+      ],
+      "text": "【上海農商銀行與華為技術有限公司簽署深化戰略合作協議】6月25日，上海農商銀行與華為技術有限公司簽署深化戰略合作協議。上海農商銀行副行長沈棟表示，自2015年起，雙方在基礎設施、人工智慧、大資料等金融科技領域保持著緊密良好的合作關係。未來，雙方還將在夯實算力基石、啟用資料要素、深耕人工智慧等領域深度融合，共同打造銀企合作新標杆。"
+    },
+    {
+      "id": "4955176",
+      "time": "2026-06-25 19:50:51",
+      "tags": [
+        "公司"
+      ],
+      "text": "【昀冢科技：公司股票將於2026年6月26日開市起停牌】昀冢科技公告，因公司股票價格自2026年5月7日至2026年6月25日期間多次觸及股票交易異常波動及嚴重異常波動情形，公司股票將於2026年6月26日（星期五）開市起停牌，預計停牌時間不超過3個交易日。公司提醒廣大投資者注意二級市場交易風險。"
+    },
+    {
+      "id": "mkt:019efe9d-4392-7dd8-b119-eb4d491a4295",
+      "time": "2026-06-25 19:49:39",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Rubio: Toll system in Strait of Hormuz not feasible】U.S. Secretary of State Rubio said after talks with Gulf Cooperation Council ministers that Gulf states oppose a toll system in the Strait of Hormuz and that Oman explicitly rejects charging passage fees; establishing such a system is not feasible. He said it is unclear whether Qatari-held Iranian funds have been moved and the GCC meeting did not discuss a $300 billion reconstruction fund. Rubio added that if negotiations with Iran fail, Trump has multiple options. The U.S. is closely monitoring Israel-Lebanon incidents and seeks to help broker intent commitments toward a peaceful future for Lebanon."
+    },
+    {
+      "id": "4955175",
+      "time": "2026-06-25 19:49:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "法國興業銀行將標普500指數2026年末目標點位從7300點上調至8000點。"
+    },
+    {
+      "id": "mkt:019efe9c-b06d-7dd8-b119-e5d8d5e1d9f5",
+      "time": "2026-06-25 19:49:02",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "CVX.N"
+      ],
+      "text": "Chevron (CVX.N) said it will continue to ensure the safe operation of its assets in Venezuela following the earthquake."
+    },
+    {
+      "id": "4955174",
+      "time": "2026-06-25 19:48:54",
+      "tags": [
+        "公司"
+      ],
+      "text": "【交大昂立：擬2.36%股權轉讓給大連鯤鵬德勝 交易價格1232.9萬元】交大昂立公告，公司擬將持有的參股公司北京金可生物的2.36%股權轉讓給大連鯤鵬，交易價格為1232.9萬元。根據資產評估報告，公司持有北京金可生物股份權益評估值為1232.77萬元。本次交易以現金方式支付，轉讓金額為1232.9萬元，大連鯤鵬將在轉讓協議簽署後15個工作日內全額支付交易款項。交易完成後預計將增加淨資產556.62萬元，不會對公司淨利潤產生影響。"
+    },
+    {
+      "id": "4955173",
+      "time": "2026-06-25 19:48:50",
+      "tags": [
+        "宏觀",
+        "焦點"
+      ],
+      "text": "【6月25日《新聞聯播》主要內容】今天《新聞聯播》主要內容有： 1.用勤勞和智慧創造更加美好生活——習近平總書記在山東德州考察引發熱烈反響； 2.李強舉行儀式歡迎孟加拉國總理訪華； 3.李強同孟加拉國總理會談； 4.十四屆全國人大常委會舉行第六十九次委員長會議； 5.趙樂際會見柬埔寨人民黨主席、參議院主席洪森； 6.丁薛祥出席第九屆中國—亞歐博覽會開幕式並會見與會外國政要； 7.我國土地資源利用效率全面提升； 8.“在高質量發展中保障和改善民生”形勢政策系列報告會第二場報告會在京舉行； 9.發電裝機突破40億千瓦 電力供給能力邁上新臺階； 10.前4個月我國新興產業和未來產業新設企業37.3萬戶； 11.【新聞特寫】中國創新為全球發展注入新機遇； 12.國內聯播快訊： （1）第12批國家組織藥品集中帶量採購工作啟動； （2）平陸運河樞紐工程進入有水聯合除錯階段； （3）拉林鐵路累計運送旅客超625萬人次； （4）我國毒品犯罪得到進一步遏制； （5）“考古中國”專案取得重要進展； （6）暑期檔電影片單釋出 2026年電影票房超170億元； （7）我國在黃巖島首次發現珊瑚礁藍洞； 13.委內瑞拉發生7級以上強震 至少164人遇難 委內瑞拉全國進入緊急狀態 加拉加斯機場關閉； 14.日本巖手縣附近海域發生強震； 15.美巴官員表示美伊技術性談判本月底繼續 國際油價金價跌破重要整數關口； 16.國際聯播快訊： （1）俄稱控制一居民點 烏稱打擊俄能源設施； （2）歐洲高溫天氣持續 多國氣溫破紀錄； （3）國際奧委會修改憲章強調體育中立性； （4）歐盟在葡萄牙啟動新的邊檢指揮單位。"
+    },
+    {
+      "id": "mkt:019efe9c-8292-7dd8-b119-d8adfb0b4c8c",
+      "time": "2026-06-25 19:48:50",
+      "tags": [
+        "MKT News",
+        "CVX.N"
+      ],
+      "text": "Chevron (CVX.N) said all personnel are safe and operations in Venezuela continue after an earthquake."
+    },
+    {
+      "id": "4955172",
+      "time": "2026-06-25 19:48:42",
+      "tags": [
+        "其他"
+      ],
+      "text": "【江淮汽車董事長項興初：積極對標華為，推動一系列流程化組織變革，產品研發效率提升近40%】在今日的鴻蒙智行尊界品牌盛典上，江淮汽車黨委書記、董事長、總經理項興初表示，與華為合作以來，江淮汽車站在巨人的肩膀上，與巨人同行。積極對標華為，推進江淮的重塑與升級，全員自動自發，持續追求卓越。“我們全面推動了一系列流程化組織變革，使產品研發效率提升近40%。在變革中，我們不斷夯實人才隊伍建設，目前技術人員佔比已達34%。”（新浪科技）"
+    },
+    {
+      "id": "4955171",
+      "time": "2026-06-25 19:48:39",
+      "tags": [
+        "公司"
+      ],
+      "text": "雪佛龍表示，在地震發生後，該公司仍將致力於保障其委內瑞拉資產的運營安全。"
+    },
+    {
+      "id": "mkt:019efe9c-2203-7dd8-b119-d2823f5fda41",
+      "time": "2026-06-25 19:48:25",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish"
+      ],
+      "text": "【Iran, Oman foreign ministers discuss Strait of Hormuz navigation progress】On the 25th local time, Iran's foreign minister Araghchi and Oman's foreign minister Badr held a phone call to discuss recent developments in navigation through the Strait of Hormuz and a temporary 60-day transitional navigation arrangement. Both ministers stressed strengthening coordination, continuing bilateral consultations and advancing technical and expert-level cooperation to implement the arrangement."
+    },
+    {
+      "id": "4955170",
+      "time": "2026-06-25 19:48:20",
+      "tags": [
+        "公司"
+      ],
+      "text": "【科沃斯：實施2025年度權益分派 “科沃轉債”轉股價格調整並停牌】科沃斯公告稱，公司2025年度權益分派方案為每股派發現金紅利0.92元（含稅），共計派發現金紅利5.33億元，不進行資本公積金轉增股本和送股。本次利潤分配方案實施後，“科沃轉債”當期轉股價格將調整。自2026年7月1日至權益分派股權登記日，“科沃轉債”停止轉股，股權登記日後首個交易日起恢復轉股。欲享受權益分派的持有人可在6月30日前轉股。"
+    },
+    {
+      "id": "mkt:019efe9b-874d-7dd8-b119-cf2c6049da70",
+      "time": "2026-06-25 19:47:45",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "The Bank of England has paid a £66 million dividend to the UK Treasury, its first dividend payment since FY2019/20."
+    },
+    {
+      "id": "mkt:019efe9b-850e-7dd8-b119-c089b007c93b",
+      "time": "2026-06-25 19:47:45",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals"
+      ],
+      "text": "Spot palladium's intraday gain widened to 2.00%, trading at $1,190.57/oz."
+    },
+    {
+      "id": "4955169",
+      "time": "2026-06-25 19:47:34",
+      "tags": [
+        "其他"
+      ],
+      "text": "強生：已啟動全球首例頸動脈血管內衝擊波碎石平臺關鍵研究的受試者招募。"
+    },
+    {
+      "id": "4955168",
+      "time": "2026-06-25 19:47:20",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗外長與阿曼外長通話討論霍爾木茲海峽通航進展】當地時間25日，伊朗外交部長阿拉格齊與阿曼外交大臣巴德爾通電話，就地區最新局勢及雙方共同關心的議題交換意見。雙方在通話中討論了有關霍爾木茲海峽海上通航的最新進展，以及為期60天過渡階段所制定的臨時通航安排，並強調繼續加強協調、開展雙邊磋商以及推進相關技術和專家層面互動的重要性。（央視新聞）"
+    },
+    {
+      "id": "4955167",
+      "time": "2026-06-25 19:46:56",
+      "tags": [
+        "其他"
+      ],
+      "text": "雪佛龍表示，地震過後委內瑞拉境內所有員工均已取得聯絡，業務運營仍正常開展。"
+    },
+    {
+      "id": "4955166",
+      "time": "2026-06-25 19:46:16",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【儲存板塊年內市值增長2.1萬億 兆易創新增超4000億】6月25日，A股儲存晶片板塊全天強勢領漲，多隻個股股價集體重新整理歷史高點。截至收盤，普冉股份、兆易創新、德明利、江波龍、北京君正、佰維儲存、東芯股份等16只儲存概念股同步創出歷史新高。儲存板塊正在成為繼光通訊之後又一個高價股高度聚集的賽道，4只龍頭股股價突破700元，板塊年內總市值增長2.1萬億元，其中13只百元儲存個股年內總市值就增長1.75萬億元。統計發現，36只儲存個股2026年初總市值合計約1.23萬億元，截至6月25日收盤，最新總市值已達到3.33萬億元，年內累計增長約2.1萬億元，增量約等於1.4個貴州茅臺的市值。"
+    },
+    {
+      "id": "mkt:019efe9a-1d2c-7dd8-b119-bb227464e978",
+      "time": "2026-06-25 19:46:13",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "CSI300",
+        "Impact bullish",
+        "SSE Composite",
+        "SZSE Component"
+      ],
+      "text": "【China storage-chip sector market value up 2.1 tln yuan YTD; GigaDevice adds >400 bln yuan】June 25 — China A-share storage chip sector led gains, with multiple names hitting record highs. At the close 16 storage-related stocks, including Purun, GigaDevice, Demingli, Jiangbolong and Beijing Junzheng, were at all-time highs. Four leading stocks exceeded 700 yuan per share. Sector market value rose from about 1.23 tln yuan at the start of 2026 to 3.33 tln yuan at the close on June 25, a YTD increase of roughly 2.1 tln yuan; 13 stocks priced above 100 yuan accounted for about 1.75 tln yuan of that gain. GigaDevice’s market value is up more than 400 bln yuan. The increase is roughly equal to 1.4 times Kweichow Moutai’s market value."
+    },
+    {
+      "id": "4955165",
+      "time": "2026-06-25 19:46:03",
+      "tags": [
+        "央行",
+        "宏觀"
+      ],
+      "text": "英國央行向英國財政部支付6600萬英鎊股息。"
+    },
+    {
+      "id": "4955164",
+      "time": "2026-06-25 19:45:13",
+      "tags": [
+        "公司",
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "【德商銀行：加元跌勢似乎過度】德國商業銀行的Michael Pfister在一份報告中表示，加元兌美元的跌勢似乎過度。加拿大作為主要石油出口國，加元受到油價下跌的打擊。加元的疲軟也反映出市場對美聯儲加息的押注增加。“我們堅信這兩個因素都被誇大了，”Pfister說。他表示，石油市場對霍爾木茲海峽重新開放的反應過於樂觀，因為耗盡的庫存得到補充以及交易恢復正常還需要時間。他說，美聯儲也不太可能加息。倫敦證券交易所集團的資料顯示，美元上漲0.1%，至1.4248加元，觸及週三創下的14個月高點。"
+    },
+    {
+      "id": "4955163",
+      "time": "2026-06-25 19:44:52",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "英國央行2025/26財年的支出增長10%，達到9.4億英鎊。"
+    },
+    {
+      "id": "4955162",
+      "time": "2026-06-25 19:44:25",
+      "tags": [
+        "公司"
+      ],
+      "text": "【派林生物：截至6月25日回購股份比例達1.11%】派林生物公告稱，公司於2026年4月27日透過以集中競價方式回購股份的議案，擬用2億元-3億元自有或自籌資金回購A股，回購價不超19.50元/股，期限12個月。截至6月25日，公司已回購股份1055.18萬股，佔總股本的1.11%，最高成交價12.94元/股，最低9.00元/股，成交總金額1.16億元（不含交易費用）。公司後續將按計劃繼續實施回購並及時披露資訊。"
+    },
+    {
+      "id": "4955161",
+      "time": "2026-06-25 19:44:12",
+      "tags": [
+        "國際"
+      ],
+      "text": "【以色列國防部長：尋求成為首個具備天基進攻能力的國家】以色列國防部長表示，以色列希望成為第一個有能力從太空發動軍事攻擊的國家，並補充稱，此類未來行動可能包括電子干擾，以及使用動能火力打擊地球上的敵方目標。以色列國防部長卡茨在一次國家安全會議上發表講話稱：“如果我們實現這種能力，在面對擁有大量資源的敵人時，它將維護我們在打擊、摧毀能力以及其他所有方面的威懾優勢”。以色列於1988年將其第一顆衛星送入軌道，其最先進型號的“箭”式彈道導彈防禦系統可在太空執行攔截任務。"
+    },
+    {
+      "id": "mkt:019efe98-1dcb-7dd8-b119-b220af718163",
+      "time": "2026-06-25 19:44:02",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. Secretary of State Rubio said the U.S. can play any constructive role on the Ukraine war."
+    },
+    {
+      "id": "4955160",
+      "time": "2026-06-25 19:43:52",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "英國央行將在三年內投資3億英鎊，以響應伯南克的提議。"
+    },
+    {
+      "id": "4955159",
+      "time": "2026-06-25 19:43:35",
+      "tags": [
+        "公司"
+      ],
+      "text": "【鑫鉑股份：子公司鑫發鋁業擬出售資產 預計增加淨利潤約2100萬元】鑫鉑股份公告，子公司安徽鑫發鋁業有限公司擬將名下位於安徽省天長市楊村鎮工業園區的三處土地使用權、房屋建築物及構築物以人民幣5125萬元（含稅）的價格出售給安徽鼎力鑫模具科技有限公司。經初步測算，本次交易完成後，預計增加公司淨利潤約2100萬元。"
+    },
+    {
+      "id": "4955158",
+      "time": "2026-06-25 19:43:06",
+      "tags": [
+        "公司",
+        "其他"
+      ],
+      "text": "【尊界推出全新超高階豪華系列，尊界S800 Grand Design典藏大觀亮相】在今日的鴻蒙智行尊界品牌盛典上，華為常務董事、產品投資評審委員會主任、終端BG董事長餘承東發表演講。釋出會上，他透露，目前尊界S800累計交付量19000輛，連續9個月穩居百萬豪車銷量冠軍。而在尊界S800已有基礎之上，尊界再推出全新超高階豪華系列Grand Design典藏大觀。作為該系列的首款車型，尊界S800 Grand Design典藏大觀正式亮相。（新浪科技）"
+    },
+    {
+      "id": "4955157",
+      "time": "2026-06-25 19:42:52",
+      "tags": [
+        "其他"
+      ],
+      "text": "魯比奧：我們可以在俄烏衝突中發揮任何建設性作用。"
+    },
+    {
+      "id": "4955156",
+      "time": "2026-06-25 19:42:36",
+      "tags": [
+        "公司"
+      ],
+      "text": "【*ST益通：披露股票交易實施風險警示整改進展】*ST益通公告稱，因2025年度財務報告被出具無法表示意見審計報告，內部控制有效性被出具否定意見審計報告，自2026年5月6日起，公司股票交易被實施退市及其他風險警示。為消除風險隱患，4月末至5月公司成立內控整改工作領導小組；6月經審計委員會提議，聘任中興華會計師事務所為第三方中介機構，協助開展專項整改。公司將每月披露進展，提醒投資者注意風險。"
+    },
+    {
+      "id": "4955155",
+      "time": "2026-06-25 19:42:27",
+      "tags": [
+        "公司"
+      ],
+      "text": "【宇瞳光學：張品光等擬減持不超1.0751%股份】宇瞳光學公告稱，持股5%以上股東、董事長張品光，董事古文斌，高階管理人員陳天富因個人資金需求，計劃在2026年7月17日至10月16日，以集中競價或大宗交易方式分別減持不超450萬股、50萬股、59.44萬股，分別佔公司總股本的0.8648%、0.0961%、0.1142%，合計減持不超559.44萬股，即不超總股本的1.0751%。本次減持計劃實施不會導致公司控制權變更。"
+    },
+    {
+      "id": "4955154",
+      "time": "2026-06-25 19:42:25",
+      "tags": [
+        "公司"
+      ],
+      "text": "【卡萊特：持股5%以上股東擬減持不超2.24%股份】卡萊特公告稱，公司持股5%以上股東佳和睿信、安華創聯分別持股827.95萬股，佔公司總股本比例均為8.71%。二者均計劃在公告披露之日起15個交易日後的3個月內，以集中競價方式分別減持不超92.11萬股（各佔1.00%），以大宗交易方式分別減持不超114.21萬股（各佔1.24%）。減持原因均為自身資金需求，來源均為首次公開發行前已發行股份。本次減持不會導致公司控制權變更。"
+    },
+    {
+      "id": "4955153",
+      "time": "2026-06-25 19:42:10",
+      "tags": [
+        "國際"
+      ],
+      "text": "鎧俠已開始為美國上市選擇銀行。"
+    },
+    {
+      "id": "mkt:019efe96-563d-7dd8-b119-ae9c7e45ae75",
+      "time": "2026-06-25 19:42:05",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. Secretary of State Rubio said Iraqi leaders held phone talks with Trump and he sees positive signals."
+    },
+    {
+      "id": "4955152",
+      "time": "2026-06-25 19:42:02",
+      "tags": [
+        "其他"
+      ],
+      "text": "魯比奧：不知道重建基金將如何籌集。"
+    },
+    {
+      "id": "mkt:019efe96-0e96-7dd8-b119-a7357488edcf",
+      "time": "2026-06-25 19:41:47",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. Secretary of State Rubio said Iraq's new prime minister is set to visit Washington soon and will meet with Trump."
+    },
+    {
+      "id": "4955151",
+      "time": "2026-06-25 19:41:23",
+      "tags": [
+        "國際"
+      ],
+      "text": "魯比奧：伊拉克領導人已與特朗普通話，並看到了積極訊號；伊拉克新任總理即將訪美，與特朗普會晤。"
+    },
+    {
+      "id": "4955150",
+      "time": "2026-06-25 19:40:52",
+      "tags": [
+        "公司"
+      ],
+      "text": "【博碩科技：控股股東及持股5%以上股東擬減持不超2.45%股份】博碩科技公告稱，控股股東江蘇摩銳投資有限公司、持股5%以上股東宿遷市鴻德軒投資合夥企業（有限合夥）因自身資金需求，擬在2026年7月17日至10月16日，以集中競價、大宗交易方式分別減持不超4,145,200股，均佔公司股份總數的2.45%。本次減持計劃實施具有不確定性，不會對公司治理等產生重大影響，也不會導致控制權變更。"
+    },
+    {
+      "id": "mkt:019efe95-2a14-7dd8-b119-98b8f35769ad",
+      "time": "2026-06-25 19:40:48",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "US Secretary of State Rubio said his support for NATO partly derives from access to European bases."
+    },
+    {
+      "id": "4955149",
+      "time": "2026-06-25 19:40:44",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "工業和資訊化部辦公廳、市場監管總局辦公廳印發《2023年度智慧製造系統解決方案“揭榜掛帥”驗收透過專案名單的通知》。"
+    },
+    {
+      "id": "4955148",
+      "time": "2026-06-25 19:40:40",
+      "tags": [
+        "公司"
+      ],
+      "text": "【宋城演藝：完成回購1580.5萬股】宋城演藝公告，截至2026年6月24日，公司透過股份回購專用證券賬戶以集中競價交易方式累計回購公司股份1580.5萬股，佔公司當前總股本的0.6022%。本次回購股份的最高成交價為9.03元/股，最低成交價為6.07元/股，成交總金額為人民幣1.21億元（不含交易費用）。公司實際回購時間區間為2026年1月5日起至2026年6月22日。本次回購方案已實施完畢，本次回購股份實施符合公司既定的回購股份方案及相關法律法規的要求。"
+    },
+    {
+      "id": "4955147",
+      "time": "2026-06-25 19:40:37",
+      "tags": [
+        "公司"
+      ],
+      "text": "【新特電氣：控股股東及其一致行動人擬減持不超3%股份】新特電氣公告稱，控股股東、實際控制人及其一致行動人譚勇、宗麗麗、李淑芹和宗寶峰合計持股2.02億股，佔總股本54.19%，計劃自公告披露之日起十五個交易日後的三個月內，以集中競價或大宗交易方式減持不超1119.37萬股，佔總股本3%，其中集中競價不超373.12萬股，大宗交易不超746.25萬股。減持原因為股東自身資金需求，本次減持不會導致公司控制權變更。"
+    },
+    {
+      "id": "4955146",
+      "time": "2026-06-25 19:40:11",
+      "tags": [
+        "國際"
+      ],
+      "text": "魯比奧：我對北約的支援部分原因在於它支援使用歐洲基地。"
+    },
+    {
+      "id": "mkt:019efe93-b018-7dd8-b119-9650306c721f",
+      "time": "2026-06-25 19:39:12",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "US Secretary of State Rubio said the deal would be void if Iran directs the funds to proxies."
+    },
+    {
+      "id": "4955145",
+      "time": "2026-06-25 19:39:05",
+      "tags": [
+        "國際"
+      ],
+      "text": "魯比奧：若伊朗將資金用於扶持代理人，相關協議將無法落地。"
+    },
+    {
+      "id": "4955144",
+      "time": "2026-06-25 19:38:26",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【太極實業：公司半導體業務目前不涉及HBM產品】太極實業(600667)6月25日釋出股票交易異常波動公告，公司股票於6月24日、6月25日連續兩個交易日收盤價格漲幅偏離值累計超過20%。公司主營業務包括工程技術服務業務、半導體業務和光伏電站投資運營業務，其中工程技術服務業務2025年度營業收入佔比超過80%，佔比較高；公司半導體業務目前不涉及HBM產品。其中，控股子公司海太半導體（無錫）有限公司採用“全部成本+約定收益（總投資額的10%+超額收益）”的盈利模式，受行業上行週期影響較小。"
+    },
+    {
+      "id": "4955143",
+      "time": "2026-06-25 19:38:06",
+      "tags": [
+        "市場"
+      ],
+      "text": "歐元/美元下跌0.2%至1.1335，連續第四天走低。"
+    },
+    {
+      "id": "mkt:019efe92-a0aa-7dd8-b119-8e6221e8827b",
+      "time": "2026-06-25 19:38:02",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Rubio said Vice President Vance leading negotiations with Iran demonstrates the administration's seriousness."
+    },
+    {
+      "id": "4955142",
+      "time": "2026-06-25 19:37:41",
+      "tags": [
+        "國際"
+      ],
+      "text": "魯比奧：萬斯主導伊朗問題談判表明了其嚴肅性。"
+    },
+    {
+      "id": "4955141",
+      "time": "2026-06-25 19:37:32",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【傑富瑞：世界盃結束後阿迪達斯料將繼續從中受益】Jefferies分析師寫道，阿迪達斯料將繼續從世界盃中受益，第二季度的收入預定額與第一季度相似，且下半年會更多。該德國運動服飾集團在第一季度錄得2.5億歐元與世界盃相關的收入。他們表示：“隨著受世界盃啟發的生活方式系列似乎引起了女性消費者的強烈共鳴，光環效應應該會延伸到足球迷之外。”Jefferies對該股的評級為買入，目標價為190歐元。該股上漲2.8%，報181歐元。"
+    },
+    {
+      "id": "mkt:019efe91-afa5-7dd8-b119-83316bf5f6ec",
+      "time": "2026-06-25 19:37:00",
+      "tags": [
+        "MKT News",
+        "Important",
+        "S&P500",
+        "Impact bullish",
+        "Brent",
+        "Impact bearish",
+        "DXY"
+      ],
+      "text": "U.S. Secretary of State Rubio says Israel and Lebanon are close to reaching a preliminary agreement."
+    },
+    {
+      "id": "4955140",
+      "time": "2026-06-25 19:36:21",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "魯比奧：以色列和黎巴嫩即將達成初步協議。"
+    },
+    {
+      "id": "mkt:019efe90-a45b-7dd8-b119-7abcc497ed11",
+      "time": "2026-06-25 19:35:52",
+      "tags": [
+        "MKT News",
+        "Hang Seng Index",
+        "Impact bullish"
+      ],
+      "text": "【Invest Hong Kong: assisted 413 overseas and mainland firms since Jan; expected HKD53 bln inbound investment, >8,600 jobs】Invest Hong Kong said at a June 25 welcome event that since January it has assisted 413 overseas and mainland China firms to set up or expand operations in Hong Kong. Those projects are expected to bring more than HKD53 bln of inbound direct investment, up 36% YoY, and create over 8,600 new jobs. Invest Hong Kong said it will continue flexible, proactive incentive measures and leverage the Northern Metropolis development to attract supply chains and industries that support Hong Kong’s high-quality economic growth."
+    },
+    {
+      "id": "4955139",
+      "time": "2026-06-25 19:35:22",
+      "tags": [
+        "公司"
+      ],
+      "text": "【地鐵設計：260.83萬股限制性股票7月1日上市流通】地鐵設計公告稱，公司2023年限制性股票與股票期權激勵計劃限制性股票第一個解除限售期解除限售條件已滿足。本次符合解除限售條件的激勵物件共342人，解除限售的限制性股票數量為260.8320萬股，佔公司現有總股本的0.5661%，上市流通日期為2026年7月1日。"
+    },
+    {
+      "id": "4955138",
+      "time": "2026-06-25 19:35:18",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "印度市場監管機構要求信實工業平臺就其IPO申報檔案作出澄清。"
+    },
+    {
+      "id": "mkt:019efe8f-fbdf-7dd8-b119-74f1059cdc9f",
+      "time": "2026-06-25 19:35:09",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "US Secretary of State Rubio said the US is closely monitoring Israel-Lebanon developments."
+    },
+    {
+      "id": "4955137",
+      "time": "2026-06-25 19:34:37",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "魯比奧：美國目前正在密切關注以色列和黎巴嫩之間的衝突事件。"
+    },
+    {
+      "id": "4955136",
+      "time": "2026-06-25 19:34:29",
+      "tags": [
+        "公司"
+      ],
+      "text": "【冠中生態：控股股東擬受讓5.02%股份 涉1.82億元】冠中生態公告稱，2026年6月23日，公司控股股東深藍財鯨與股東冠中投資等簽署協議，冠中投資擬向深藍財鯨轉讓825萬股公司股份，佔總股本5.02%，轉讓價22元/股，價款1.82億元。本次權益變動前，因“冠中轉債”轉股，深藍財鯨及冠中投資等持股比例已被動稀釋。股份轉讓完成後，深藍財鯨持股增至13.97%，冠中投資等合計持股23.73%，且無表決權。本次變動不影響控股權，尚需多項手續，能否實施及完成時間不確定。"
+    },
+    {
+      "id": "4955135",
+      "time": "2026-06-25 19:34:26",
+      "tags": [
+        "其他"
+      ],
+      "text": "政府宣告：墨西哥隊贏下世界盃比賽後，一輛汽車在卡波聖盧卡斯的人群聚集區衝撞行人。"
+    },
+    {
+      "id": "4955134",
+      "time": "2026-06-25 19:34:19",
+      "tags": [
+        "公司"
+      ],
+      "text": "【驕成超聲：向特定物件發行A股股票申請獲上交所受理】驕成超聲公告，公司於2026年6月25日收到上海證券交易所出具的《關於受理上海驕成超聲波技術股份有限公司科創板上市公司發行證券申請的通知》。上海證券交易所對公司報送的科創板上市公司發行證券的募集說明書及相關申請檔案進行了核對，認為申請檔案齊備，符合法定形式，決定予以受理並依法進行稽核。"
+    },
+    {
+      "id": "4955133",
+      "time": "2026-06-25 19:34:16",
+      "tags": [
+        "公司"
+      ],
+      "text": "【驕成超聲：擬2076.38萬元收購驕成半導體40%股權】驕成超聲公告，公司擬以合計人民幣2076.38萬元收購控股子公司上海驕成半導體裝置技術有限公司股東上海驕璞企業管理合夥企業（有限合夥）和周宏建先生所持合計40%的股權。本次交易完成後，公司將持有驕成半導體100%股權。本次交易構成關聯交易，但不構成《上市公司重大資產重組管理辦法》規定的重大資產重組。本次交易已經公司第二屆董事會獨立董事專門會議第五次會議審議透過，公司第二屆董事會第十六次會議審議了《關於收購控股子公司少數股東股權暨關聯交易的議案》，因關聯董事迴避表決，出席會議的非關聯董事不足三人，該事項尚需提交公司股東會審議。"
+    },
+    {
+      "id": "4955132",
+      "time": "2026-06-25 19:34:14",
+      "tags": [
+        "其他"
+      ],
+      "text": "【今年1月以來香港投資推廣署共協助413家海外及內地企業在港開設或拓展業務】香港特區政府投資推廣署今日（25日）舉辦年度國際及內地企業來港發展歡迎會，感謝他們對香港營商環境的信任和支援。歡迎會獲香港特區行政長官李家超親臨主禮，超過380位全球企業代表出席。 李家超在致辭時表示，香港在“一國兩制”下，擁有背靠祖國、聯通世界的獨特優勢，營商環境開放便利，擁有簡單低稅制，普通法制度與全球金融中心接軌，人才精通兩文三語，專業服務世界前列。香港的實力和機遇，既反映在各項國際排名節節上升，也反映在招商引資的成績上。 投資推廣署在歡迎會上公佈了今年上半年的招商成果。今年1月至今，該署共協助413家海外及內地企業在港開設或拓展業務，預計可為香港帶來超過530億港元的外來直接投資，同比增長36%，並創造超過8600個新職位。 投資推廣署在會上表示，將繼續保持靈活主動，透過各項優惠政策加強招商引資工作，並利用北部都會區帶來的機遇以吸引更多有助香港發展高質量經濟的產業鏈落戶。（大灣區之聲）"
+    },
+    {
+      "id": "4955131",
+      "time": "2026-06-25 19:34:00",
+      "tags": [
+        "其他"
+      ],
+      "text": "【中國足協：7月1日起將啟用新規】據中國足球協會官網訊息，6月25日，中國足協釋出關於執行《足球競賽規則2026/2027》（十一人制）的通知，中國足協及其會員協會舉辦的各級各類十一人制足球賽事自2026年7月1日起執行新規則。新規則中，變更部分包括隊員、隊員裝備、裁判員、其他比賽官員、比賽開始與恢復、確定比賽結果、犯規與不正當行為、罰球點球、擲界外球、球門球、影片助理裁判操作規範等方面。（央視新聞）"
+    },
+    {
+      "id": "mkt:019efe8e-508d-7dd8-b119-6c2cccef89a7",
+      "time": "2026-06-25 19:33:19",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. Secretary of State Rubio said the U.S. will work with Italy to resolve the issue."
+    },
+    {
+      "id": "mkt:019efe8e-2639-7dd8-b119-62c369048738",
+      "time": "2026-06-25 19:33:09",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "DXY"
+      ],
+      "text": "U.S. Secretary of State Rubio said Trump is very unhappy with Italy and other countries' approach to Iran."
+    },
+    {
+      "id": "4955130",
+      "time": "2026-06-25 19:32:55",
+      "tags": [
+        "國際"
+      ],
+      "text": "魯比奧：特朗普對義大利及其他國家在伊朗問題上的做法非常不滿。"
+    },
+    {
+      "id": "mkt:019efe8d-dfca-7dd8-b119-5f96e6555870",
+      "time": "2026-06-25 19:32:51",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. Secretary of State Rubio said he spoke with his Italian counterpart last Friday and that the U.S. will still sign an agreement with Italy."
+    },
+    {
+      "id": "4955129",
+      "time": "2026-06-25 19:32:38",
+      "tags": [
+        "其他"
+      ],
+      "text": "魯比奧：仍將與義大利簽署協議。"
+    },
+    {
+      "id": "4955128",
+      "time": "2026-06-25 19:32:31",
+      "tags": [
+        "其他"
+      ],
+      "text": "【北京釋出第七輪3宗擬供宅地清單】6月25日，北京市規劃和自然資源委員會網站釋出了2026年第七輪擬供應商品住宅用地清單，共涉及3宗地，土地面積約14公頃，建築規模約24萬平方米，上述用地擬於近期供應。據介紹，本輪清單向平原多點地區傾斜，強化多點支撐，重點圍繞軌道交通站點及高速路周邊區域供應。其中，昌平區2宗、順義區1宗。"
+    },
+    {
+      "id": "4955127",
+      "time": "2026-06-25 19:32:13",
+      "tags": [
+        "其他"
+      ],
+      "text": "魯比奧：上週五與義大利同行進行了交談。"
+    },
+    {
+      "id": "4955126",
+      "time": "2026-06-25 19:31:03",
+      "tags": [
+        "央行",
+        "市場"
+      ],
+      "text": "土耳其央行資料顯示，截至6月19日當週，外國投資者淨買入土耳其國債3.3972億美元。"
+    },
+    {
+      "id": "4955125",
+      "time": "2026-06-25 19:30:48",
+      "tags": [
+        "公司"
+      ],
+      "text": "【天橋起重：2025年度權益分派每10股派0.2元（含稅）】天橋起重公告稱，2025年度權益分派方案已獲2026年5月15日股東會審議透過。公司以總股本14.17億股為基數，向全體股東每10股派0.2元（含稅），合計派發2833.28萬元（含稅），不送紅股、不以資本公積轉增股本。股權登記日為2026年7月2日，除權除息日為7月3日。部分A股股東現金紅利由公司自行派發。"
+    },
+    {
+      "id": "4955124",
+      "time": "2026-06-25 19:30:12",
+      "tags": [
+        "公司"
+      ],
+      "text": "【從MWC看國產算力鏈：CPU、光纖都喊“緊缺” 伺服器訂單積壓排隊】MWC 26上海（世界行動通訊大會）6月24日正式開幕。在人工智慧賦能千行百業，運營商Token化的當下，諸多算力供應鏈廠商也參加了本次展會。聯想集團一位工作人員稱，聯想伺服器跟國內GPU廠商和CPU廠商都有合作，目前信創市場對伺服器需求量很大，但晶片供應緊張，導致大量的訂單積壓排隊。“我聽到的是我們現在伺服器需要交付的訂單量差不多有1500億人民幣，我剛剛還接到一個客戶電話催貨，現在產品供不應求。”聯想這位工作人員表示，預計AI伺服器的景氣度還會持續一段時間。長飛展臺上工作人員介紹，目前用於AI場景的光纖產能緊缺，即便擴產也需要18個月左右，因此，產能緊張還會持續一段時間。其他非AI用的光纖並不缺貨，處於正常供應狀態。 (澎湃新聞)"
+    },
+    {
+      "id": "4955123",
+      "time": "2026-06-25 19:30:05",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【雲路股份：印度對中國相關產品反傾銷調查或影響營收】雲路股份公告稱，印度商務和工業部近日針對原產或出口自中國、日本、韓國、俄羅斯的冷軋取向電工鋼及非晶金屬發起反傾銷調查，調查期為2025年4月1日至2026年3月31日，損害調查期為2022年4月1日至2025年3月31日。涉案產品涉及公司向印度銷售的非晶合金薄帶，2025年度、2026年1 - 3月出口金額分別約佔公司營收的18%、12%。因尚處調查階段，難預計對公司具體影響。公司已成立專項工作組應對。"
+    },
+    {
+      "id": "mkt:019efe8b-109b-7dd8-b119-55b840c3874d",
+      "time": "2026-06-25 19:29:47",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Bairun Co.: 1H 2026 net profit attributable to shareholders forecast +19.51%–25.94% YoY】Bairun Co. said on June 25 it expects 1H 2026 net profit attributable to shareholders of 465 mln–490 mln yuan, up 19.51%–25.94% YoY, driven by higher sales in its alcoholic beverage and flavors & fragrances businesses."
+    },
+    {
+      "id": "4955122",
+      "time": "2026-06-25 19:29:09",
+      "tags": [
+        "其他"
+      ],
+      "text": "【海南開設自然資源超市】在海南，如今土地等自然資源交易就像網路購物一樣，不僅能夠在網上買，而且能夠搭配著組合起來購買。今年1月，海南省自然資源網上交易系統上線試執行，實現全域自然資源交易一體化歸集。交易專案登記、資訊釋出等所有環節均可線上辦理。同步配套上線的還有海南省“自然資源超市”。企業可以像逛超市一樣，線上上檢視地塊資訊、比對資源條件、完成智慧選址。截至6月23日，海南省“自然資源超市”已上架建設用地1687宗、成交1278宗。（央視財經）"
+    },
+    {
+      "id": "4955121",
+      "time": "2026-06-25 19:29:07",
+      "tags": [
+        "公司"
+      ],
+      "text": "【愛舍倫：擬變更證券簡稱為“愛倫醫療”】愛舍倫6月25日公告，公司擬對公司證券簡稱進行變更，變更後的證券簡稱為：愛倫醫療，證券程式碼“920050”保持不變。公司本次變更公司證券簡稱是基於公司戰略規劃及經營業務開展需要，有利於公司未來的發展，不會對公司生產經營造成不利影響。"
+    },
+    {
+      "id": "4955120",
+      "time": "2026-06-25 19:28:51",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中青寶：完成董事會換屆選舉並聘任高階管理人員及證券事務代表】中青寶公告稱，2026年6月25日，公司完成董事會換屆選舉，第七屆董事會由7名董事組成，任期三年，董事長為張雲霞。同日，公司聘任高階管理人員及證券事務代表，李逸倫任總經理，張雲欽任副總經理、董事會秘書、財務總監，王青任證券事務代表，任期均為三年。此外，第六屆獨立董事鄭飛、非獨立董事梁海棟和副總經理張繼文因任期屆滿離任，鄭飛不再擔任公司任何職務，梁海棟繼續任副總經理，張繼文繼續擔任公司其他職務。"
+    },
+    {
+      "id": "4955119",
+      "time": "2026-06-25 19:28:47",
+      "tags": [
+        "公司"
+      ],
+      "text": "【奧飛資料：2025年度權益分派方案每10股派0.14元】奧飛資料公告稱，2025年度權益分派方案已獲2026年5月11日股東會審議透過。以股權登記日總股本為基數，向全體股東每10股派0.14元現金（含稅），不送紅股、不轉增。股權登記日為2026年7月1日，除權除息日為7月2日。此外，“奧飛轉債”轉股價格由10.06元/股調整為10.05元/股，自7月2日起生效。"
+    },
+    {
+      "id": "mkt:019efe8a-17c3-7dd8-b119-4dc92c49d374",
+      "time": "2026-06-25 19:28:43",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Hainan opens natural-resources supermarket】Hainan has launched an online natural-resources trading system and a parallel \"natural-resources supermarket\" to digitize and consolidate land and other resource transactions. The provincial online trading system began trial operation in January, achieving province-wide integration of natural-resources transactions; registration, information release and other transaction steps can be completed fully online. The supermarket allows firms to view parcel details, compare resource conditions and complete intelligent site selection online. As of June 23, the platform had listed 1,687 construction land parcels and completed transactions on 1,278."
+    },
+    {
+      "id": "4955118",
+      "time": "2026-06-25 19:28:28",
+      "tags": [
+        "公司"
+      ],
+      "text": "【*ST未名：控股股東深圳易聯完成股權結構工商變更登記】*ST未名公告稱，近日公司控股股東深圳易聯股權結構變更，變更前劉祥、岳家霖持股比例分別為66.90%、33.10%，變更後變為99.90%、0.10%。此次工商變更不涉及公司控股股東及實際控制人變更，控股股東仍為深圳易聯，實際控制人仍為劉祥，不會影響公司主要業務結構、股權分佈、治理結構及持續經營。"
+    },
+    {
+      "id": "mkt:019efe89-d899-7dd8-b119-4251f98ce18a",
+      "time": "2026-06-25 19:28:27",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "US Secretary of State Rubio said Oman has indicated it does not support a fee system for the Strait of Hormuz."
+    },
+    {
+      "id": "4955117",
+      "time": "2026-06-25 19:28:20",
+      "tags": [
+        "公司"
+      ],
+      "text": "【德福科技：持股5%以上股東及其一致行動人合計減持1.03%股份】德福科技公告稱，公司持股5%以上股東拓陣基金及其一致行動人瑞瀟芃泰，於2026年6月5日至6月24日透過大宗交易方式累計減持公司股份650萬股，合計持股比例由6.97%降至5.94%，變動達到1%的整數倍。本次減持與此前披露計劃一致，未違反相關承諾，減持計劃尚未實施完畢，且不會導致公司控制權變化。"
+    },
+    {
+      "id": "4955116",
+      "time": "2026-06-25 19:28:16",
+      "tags": [
+        "其他"
+      ],
+      "text": "魯比奧：阿曼在今天的會議上表示不贊成霍爾木茲海峽收費系統。"
+    },
+    {
+      "id": "mkt:019efe89-6ffc-7dd8-b119-3b040376778c",
+      "time": "2026-06-25 19:28:00",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. Secretary of State Rubio said relations with Oman are good."
+    },
+    {
+      "id": "te:markets:561863",
+      "time": "2026-06-25 19:27:54",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "US Stocks Rebound After Micron Earnings — US equity futures gained on Thursday after the earnings report by Micron Technology restored support for the artificial intelligence trade. Contracts for the Nasdaq 100 gained over 2% and those for the S&P 500 added nearly 1%. Micron surged nearly 20% premarket after beating earnings and sales forecasts expectations and estimating approximately a revenue of $50 billion in the quarter to August, above the average expectations of $43.2 billion. Stability for the AI infrastructure sector was also supported by Micron unveiling 16 longer-term contracts. Also, Qualcomm jumped 15% after the chipmaker doubled its projection for non-handset revenue in the next thee years and announced a partnership with Meta. Softer inflationary risks also supported broader sectors as energy prices also continued fall, lifting the Dow to a record high of over 52,000. Banking shares gained as lenders will raise their dividends after passing the Federal Reserve's stress test."
+    },
+    {
+      "id": "4955115",
+      "time": "2026-06-25 19:27:37",
+      "tags": [
+        "其他"
+      ],
+      "text": "魯比奧：與阿曼的關係很好。"
+    },
+    {
+      "id": "mkt:019efe88-ee32-7dd8-b119-34f68c001000",
+      "time": "2026-06-25 19:27:27",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bearish",
+        "Hang Seng Index",
+        "CNH"
+      ],
+      "text": "【Regulators cap assisted-loan growth at own-book lending growth for small banks, consumer finance firms】Since May, multiple local financial regulators have issued window guidance to some small banks and consumer finance companies requiring assisted-loan channel growth not to exceed self-operated loan growth, month-on-month reductions in outstanding assisted-loan balances, and a limit of 25% on financing/guarantee-type business share. Analysts say the guidance targets both new assisted lending and orderly contraction of existing stock; several targeted institutions are reportedly lagging regulators' expectations. Regulators’ stated aim is to force licensed institutions back to core business, strengthen on‑book risk controls, reduce reliance on external channels and limit risks from excessive scale expansion."
+    },
+    {
+      "id": "mkt:019efe88-8e2d-7dd8-b119-2b71f41f5c48",
+      "time": "2026-06-25 19:27:02",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. Secretary of State Rubio said the Iranian regime remains dominated by hardline clerics."
+    },
+    {
+      "id": "mkt:019efe88-35f0-7dd8-b119-2009e4584e32",
+      "time": "2026-06-25 19:26:39",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "U.S. Secretary of State Rubio said if negotiations with Iran fail to produce results, Trump would have several options."
+    },
+    {
+      "id": "mkt:019efe87-f840-7dd8-b119-1f49f3a4ac5c",
+      "time": "2026-06-25 19:26:24",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. Secretary of State Rubio said he did not discuss an Iran reconstruction fund with Gulf states."
+    },
+    {
+      "id": "4955114",
+      "time": "2026-06-25 19:26:15",
+      "tags": [
+        "公司"
+      ],
+      "text": "【雲翔無人機完成近億元A輪融資】近日，天津雲翔無人機科技有限公司完成近億元A輪融資，本輪投資方為玖兆投資。"
+    },
+    {
+      "id": "4955113",
+      "time": "2026-06-25 19:26:09",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "魯比奧：如果與伊朗的談判失敗，特朗普還有其他選擇。"
+    },
+    {
+      "id": "mkt:019efe87-7fad-7dd8-b119-12642cb5a862",
+      "time": "2026-06-25 19:25:53",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. Secretary of State Rubio said the Gulf Cooperation Council meeting did not discuss a $300 billion fund."
+    },
+    {
+      "id": "4955112",
+      "time": "2026-06-25 19:25:39",
+      "tags": [
+        "其他"
+      ],
+      "text": "魯比奧：海灣合作委員會會議上沒有討論3000億美元基金。"
+    },
+    {
+      "id": "mkt:019efe87-094a-7dd8-b119-0ca91f62d9db",
+      "time": "2026-06-25 19:25:23",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "U.S. Secretary of State Rubio said he is unclear whether funds held by Qatar for Iran have been transferred."
+    },
+    {
+      "id": "mkt:019efe86-845d-7dd8-b119-0350f29d94c2",
+      "time": "2026-06-25 19:24:48",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. Secretary of State Rubio said Venezuela needs search-and-rescue assistance first."
+    },
+    {
+      "id": "4955111",
+      "time": "2026-06-25 19:24:39",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "魯比奧：不知曉卡達持有的伊朗資金是否已被轉移。"
+    },
+    {
+      "id": "4955110",
+      "time": "2026-06-25 19:24:26",
+      "tags": [
+        "公司"
+      ],
+      "text": "【聯訊儀器：股價漲幅大、估值高 提示多項投資風險】聯訊儀器公告稱，2026年5月6日至6月25日，公司股票累計漲幅165.23%，日均換手率12.54%，且滾動市盈率1014.54倍，顯著高於行業平均的74.87倍。截至6月25日，無限售流通股佔總股本18.79%，流動性不足。2026年一季度，公司營業利潤11941.04萬元，淨利潤11890.32萬元。公司尚處發展階段，面臨經營業績波動、技術迭代等風險，提醒投資者注意風險，理性投資。"
+    },
+    {
+      "id": "mkt:019efe85-6717-7dd8-b118-f8af5dc4122d",
+      "time": "2026-06-25 19:23:35",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "U.S. Secretary of State Rubio said establishing a toll system in the Strait of Hormuz is not feasible."
+    },
+    {
+      "id": "mkt:019efe85-5a12-7dd8-b118-f762b68f91ac",
+      "time": "2026-06-25 19:23:32",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "US Secretary of State Rubio, on Iran's support for proxies, said the Iran memorandum concerns \"interference in other countries\"."
+    },
+    {
+      "id": "4955109",
+      "time": "2026-06-25 19:23:20",
+      "tags": [
+        "其他"
+      ],
+      "text": "魯比奧：霍爾木茲海峽的收費系統根本行不通。"
+    },
+    {
+      "id": "mkt:019efe85-0b4b-7dd8-b118-eb4c82ed1857",
+      "time": "2026-06-25 19:23:12",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. Secretary of State Rubio said 'fees' and 'tolls' are the same thing."
+    },
+    {
+      "id": "4955108",
+      "time": "2026-06-25 19:23:06",
+      "tags": [
+        "公司"
+      ],
+      "text": "【銀行、消金公司助貸餘額增速不得高於自營貸款增速】記者從多位業內人士處獲悉，5月以來，多地金融監管部門對部分中小銀行、消金公司下達視窗指導，要求助貸渠道貸款規模增速不得高於自營渠道貸款增速，存量助貸業務貸款餘額應環比壓降，融擔類業務佔比不得超過25%。 (中證金牛座)"
+    },
+    {
+      "id": "4955105",
+      "time": "2026-06-25 19:23:02",
+      "tags": [
+        "國際"
+      ],
+      "text": "【國防部：美日應切實尊重地區國家安全關切，不得引入“堤豐”中導系統】國防部新聞發言人張曉剛表示，“堤豐”中導系統是進攻性武器，美國在亞洲國家部署該系統，損害他國正當安全利益，威脅地區戰略安全，加劇軍備競賽和軍事對抗風險。特別是當前日本“新型軍國主義”成勢為患，任何助長日本右翼勢力囂張氣焰的舉動，對地區和平穩定有百害而無一利，也會禍延自身。美日應切實尊重地區國家安全關切，不得引入“堤豐”中導系統，以實際行動為地區和平穩定發揮正面作用。"
+    },
+    {
+      "id": "4955104",
+      "time": "2026-06-25 19:22:42",
+      "tags": [
+        "其他"
+      ],
+      "text": "魯比奧：“費用”和“通行費”是一回事。"
+    },
+    {
+      "id": "4955103",
+      "time": "2026-06-25 19:22:33",
+      "tags": [
+        "公司"
+      ],
+      "text": "【誠達藥業：原持股5%以上股東減持736.87萬股】誠達藥業公告稱，原持股5%以上股東前海晟泰在2026年6月3日至6月24日期間，累計減持公司股份736.87萬股，佔公司總股本比例4.76%（佔剔除回購專戶股份數後總股本比例4.86%）。減持後，前海晟泰持股降至74.81萬股，佔總股本0.48%。本次減持未違反相關規定和承諾，不會導致公司控制權變更，不觸及要約收購，也不會對公司經營產生不利影響。"
+    },
+    {
+      "id": "4955102",
+      "time": "2026-06-25 19:22:30",
+      "tags": [
+        "公司"
+      ],
+      "text": "【西部建設：子公司擬1000萬元設合資公司開展新能源業務】西部建設公告稱，2026年6月25日，公司第八屆三十五次董事會會議審議透過對外投資議案。全資子公司研究院擬與聯京控股共同出資1000萬元設立中建聯京新能源科技有限公司，開展新能源領域高效能材料等混凝土相關業務。其中，研究院出資650萬元，持股65%；聯京控股出資350萬元，持股35%。本次投資無需提交股東會審議，不構成關聯交易和重大資產重組。"
+    },
+    {
+      "id": "mkt:019efe84-603e-7dd8-b118-e08d9e7f0c05",
+      "time": "2026-06-25 19:22:28",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iran’s foreign minister said Iran and Oman’s foreign minister discussed the latest developments."
+    },
+    {
+      "id": "mkt:019efe84-5ed8-7dd8-b118-db187a1ab251",
+      "time": "2026-06-25 19:22:28",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "MDT.O",
+        "Impact bullish"
+      ],
+      "text": "【Medtronic executive says China becoming key source of medical innovation】Medtronic's global senior vice president and Greater China president Gu Yushao said China is becoming a major source of medical innovation and is on track to become the world’s largest medical device market. He said medtech innovation increasingly requires AI across brain‑machine interfaces, robotics and imaging, and Medtronic is partnering with Chinese AI firms. Medtronic plans to open its first digital medical innovation hub in Beijing by end‑2025 to connect industry, research and clinical partners and advance digital‑intelligence medical solutions."
+    },
+    {
+      "id": "4955101",
+      "time": "2026-06-25 19:22:19",
+      "tags": [
+        "公司"
+      ],
+      "text": "【天虹股份：回購2759.12萬股登出 大股東持股比例增至45.64%】天虹股份公告稱，公司於2026年6月24日完成回購股份登出，登出數量27,591,178股，佔登出前總股本2.3605%，總股本由1,168,847,750股變更為1,141,256,572股。持股5%以上股東中航科創有限公司持股數量未變，但比例由44.5640%被動增至45.6414%，觸及5%整數倍。本次登出不會對公司財務等方面產生重大影響，後續將修改《公司章程》並辦理工商變更登記。"
+    },
+    {
+      "id": "4955100",
+      "time": "2026-06-25 19:22:11",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗和阿曼外長通電話，強調協調霍爾木茲海峽海上交通的重要性。"
+    },
+    {
+      "id": "mkt:019efe84-0faf-7dd8-b118-d66365437aa3",
+      "time": "2026-06-25 19:22:08",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. Secretary of State Rubio said the focus is on Iran's actions rather than its rhetoric."
+    },
+    {
+      "id": "4955099",
+      "time": "2026-06-25 19:21:56",
+      "tags": [
+        "公司"
+      ],
+      "text": "【南方泵業：子公司出售部分資產，交易價1.42億元已完成過戶】南方泵業公告稱，為盤活閒置資產，公司子公司湖南南方長河泵業有限公司擬出售部分資產。以2025年7月31日為基準日，該部分資產評估價值為1.35億元，最終以1.42億元（含稅價）掛牌交易。2026年2月2日，南方長河與受讓方湖南南方安美消防裝置有限公司簽訂合同，截至公告日，南方長河已全額收到轉讓款，並完成資產過戶手續。本次交易為公司合併報表範圍內子公司間交易，對合並報表淨利潤無重大影響。"
+    },
+    {
+      "id": "4955098",
+      "time": "2026-06-25 19:21:47",
+      "tags": [
+        "公司"
+      ],
+      "text": "【西部建設：全資子公司設立合資公司註冊資本1000萬元】西部建設公告，全資子公司中建西部建設建材科學研究院有限公司與聯京（北京）控股集團有限公司簽署股東協議書，共同出資設立中建聯京新能源科技有限公司。合資公司註冊資本為1000萬元，其中研究院出資650萬元，持股65%；聯京控股出資350萬元，持股35%。"
+    },
+    {
+      "id": "mkt:019efe83-aa7d-7dd8-b118-cb768b2247bb",
+      "time": "2026-06-25 19:21:42",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "US Secretary of State Rubio said Iran will continue to issue extreme statements."
+    },
+    {
+      "id": "4955097",
+      "time": "2026-06-25 19:21:32",
+      "tags": [
+        "國際"
+      ],
+      "text": "魯比奧：我們關注的是伊朗的行動，而不是言辭。"
+    },
+    {
+      "id": "4955096",
+      "time": "2026-06-25 19:21:23",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗和阿曼外長討論最新事態發展。"
+    },
+    {
+      "id": "4955095",
+      "time": "2026-06-25 19:20:13",
+      "tags": [
+        "國際"
+      ],
+      "text": "魯比奧：伊朗諒解備忘錄旨在解決干涉他國事務的問題。"
+    },
+    {
+      "id": "4955094",
+      "time": "2026-06-25 19:19:25",
+      "tags": [
+        "市場"
+      ],
+      "text": "【芯碁微裝港股暗盤收漲近76% 每手賺9593.5港元】芯碁微裝將於6月26日(週五)在香港掛牌。截至收盤，利弗莫爾證券暗盤交易顯示報價444.60港元，較招股價252.73港元上漲75.92%，每手50股，不計手續費，每手賺9593.5港元。"
+    },
+    {
+      "id": "mkt:019efe81-7bf6-7dd8-b118-c448e15ba798",
+      "time": "2026-06-25 19:19:19",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "U.S. Secretary of State Rubio said Gulf states do not support levying transit fees in the Strait of Hormuz."
+    },
+    {
+      "id": "4955093",
+      "time": "2026-06-25 19:19:13",
+      "tags": [
+        "市場"
+      ],
+      "text": "土耳其主要銀行指數下跌2.3%。"
+    },
+    {
+      "id": "4955092",
+      "time": "2026-06-25 19:19:07",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國國務卿魯比奧：與海灣國家進行了非常成功的會議。我們不會做任何削弱海灣合作伙伴的事情。海灣國家分享了一些嚴重關切的問題。海灣國家對霍爾木茲海峽收費“零支援”。"
+    },
+    {
+      "id": "mkt:019efe81-27a3-7dd8-b118-be91bd57d5a8",
+      "time": "2026-06-25 19:18:57",
+      "tags": [
+        "MKT News",
+        "MU.O",
+        "Impact bullish"
+      ],
+      "text": "Wedbush raised Micron Technology (MU.O) PT to $1,400 from $1,300."
+    },
     {
       "id": "mkt:019efe80-fc14-7dd8-b118-b7e5f2796c61",
       "time": "2026-06-25 19:18:46",
@@ -153576,1200 +154875,6 @@
         "國際"
       ],
       "text": "埃森哲CEO：第三季度中東地區銷售額受影響約4億美元。"
-    },
-    {
-      "id": "4943483",
-      "time": "2026-06-18 20:06:31",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "埃森哲執行長在電話會議上表示：受中東衝突影響，第三財季營收較預期減少約1億美元。"
-    },
-    {
-      "id": "4943482",
-      "time": "2026-06-18 20:04:49",
-      "tags": [
-        "國際"
-      ],
-      "text": "寶馬監事會主席：寶馬實施本土化市場策略，但在歐洲的產量已超過銷量。"
-    },
-    {
-      "id": "4943481",
-      "time": "2026-06-18 20:03:48",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國宣佈對破壞衣索比亞和平的個人實施定向簽證限制。"
-    },
-    {
-      "id": "4943480",
-      "time": "2026-06-18 20:03:37",
-      "tags": [
-        "國際"
-      ],
-      "text": "俄羅斯外交部就英國首相斯塔默名下房產遭縱火襲擊事件表示：不必事事都找克里姆林宮的影子。"
-    },
-    {
-      "id": "4943479",
-      "time": "2026-06-18 20:03:02",
-      "tags": [
-        "其他"
-      ],
-      "text": "中央網信辦決定自即日起，開展為期3個月的“清朗·整治賬號名稱資訊亂象”專項行動。（新華社）"
-    },
-    {
-      "id": "4943478",
-      "time": "2026-06-18 20:02:17",
-      "tags": [
-        "市場"
-      ],
-      "text": "波羅的海乾散貨指數上漲0.23%，至2659點。"
-    },
-    {
-      "id": "4943477",
-      "time": "2026-06-18 20:02:13",
-      "tags": [
-        "公司"
-      ],
-      "text": "【ST洲際：控股股東破產清算上訴案未開庭 或涉控制權變動】ST洲際公告稱，公司控股股東廣西正和被申請破產清算，申請人張友進不服柳州中院裁定，已向廣西高院上訴，請求撤銷原裁定。目前廣西高院已受理，但尚未開庭，申請能否獲支援存在不確定性。截至公告披露日，廣西正和持有公司5.08億股，其中5.08億股已質押、全部被輪候凍結。若上訴獲支援，不排除涉及公司控制權變動，但該事項不會對公司日常經營產生重大不利影響。"
-    },
-    {
-      "id": "4943476",
-      "time": "2026-06-18 20:01:50",
-      "tags": [
-        "國際"
-      ],
-      "text": "普京：俄羅斯謀求與東南亞建立戰略伙伴關係。"
-    },
-    {
-      "id": "4943475",
-      "time": "2026-06-18 20:01:28",
-      "tags": [
-        "公司"
-      ],
-      "text": "【追覓：2026年1-5月營收同比增長80%】追覓科技釋出資料顯示，公司2026年1-5月主營業務實現同比增長80%，延續了自成立以來連續9年營收高速增長的態勢。此前，追覓科技並未披露過詳細的總營收資料。6月初，追覓科技開啟新一輪Pre-IPO直接融資視窗，據媒體報道，本輪融資整體釋放股權份額區間為5%至10%，以700億元投前估值測算，對應整體融資規模約35億元至70億元。（21財經）"
-    },
-    {
-      "id": "4943474",
-      "time": "2026-06-18 20:00:22",
-      "tags": [
-        "國際"
-      ],
-      "text": "石油輸出國組織（歐佩克，OPEC）表示，美國緻密油產量或已於2025年見頂，預計到2030年美國石油總供應增長空間有限，2030年後將進入平臺期。"
-    },
-    {
-      "id": "4943473",
-      "time": "2026-06-18 20:00:19",
-      "tags": [
-        "其他"
-      ],
-      "text": "石油輸出國組織（歐佩克）稱石油需求峰值尚未臨近，並將2050年石油需求預測上調至每日1.24億桶。"
-    },
-    {
-      "id": "4943472",
-      "time": "2026-06-18 19:59:45",
-      "tags": [
-        "國際"
-      ],
-      "text": "普京：中東局勢趨穩將利好能源市場。"
-    },
-    {
-      "id": "4943471",
-      "time": "2026-06-18 19:59:35",
-      "tags": [
-        "國際"
-      ],
-      "text": "普京：有理由相信這份檔案將成為未來各項協議的基礎。"
-    },
-    {
-      "id": "4943470",
-      "time": "2026-06-18 19:59:29",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "【機構：英國基準利率降息的可能性現在或大於加息】英格蘭及威爾士特許會計師協會的Suren Thiru在一份報告中表示，英國央行的下一步舉措更有可能是降息，而不是加息。Thiru說，在週四將利率維持在3.75%不變後，隨著該央行評估地緣政治不確定性和國內政治不穩定，其政策可能會長期按兵不動。“英國貨幣政策目前正處於十字路口。“他說，美伊和平協議讓人們對通貨膨脹可能緩解抱有希望，但任何敵對行動的恢復都可能“迅速使天平重新向加息傾斜“。此外，Thiru說，鑑於全球動盪加劇，明年之前不太可能降息。"
-    },
-    {
-      "id": "4943469",
-      "time": "2026-06-18 19:59:01",
-      "tags": [
-        "國際"
-      ],
-      "text": "普京：俄羅斯與東盟歡迎美伊協議以制止衝突。"
-    },
-    {
-      "id": "4943468",
-      "time": "2026-06-18 19:58:20",
-      "tags": [
-        "國際"
-      ],
-      "text": "【歐盟最高外交官員回應以色列外長斷聯決定】針對以色列外長吉迪恩·薩爾聲稱將與自己切斷一切聯絡的表態，歐盟外交與安全政策高階代表卡拉斯作出回應，稱歐盟仍然“致力於與以色列建立建設性關係”。此前，薩爾批評卡拉斯將以色列對待巴勒斯坦人的方式比作種族隔離時代南非的狀況。薩爾表示，在卡拉斯撤回或澄清相關言論之前，自己只能切斷與她的聯絡。卡拉斯對此表示，“歐盟與以色列之間有很多共同紐帶”，她重視建立在尊重基礎上的建設性接觸。不過她強調，“兩國方案”是實現中東和平唯一可行的道路，並重申歐盟譴責以色列在約旦河西岸被佔領土建設非法定居點的立場。"
-    },
-    {
-      "id": "4943467",
-      "time": "2026-06-18 19:58:09",
-      "tags": [
-        "公司"
-      ],
-      "text": "阿格斯研究公司將捷普公司目標價從300美元上調至475美元。"
-    },
-    {
-      "id": "4943466",
-      "time": "2026-06-18 19:57:45",
-      "tags": [
-        "其他"
-      ],
-      "text": "巴西財長：我從未因通脹上升而提議改變通脹計算方法。"
-    },
-    {
-      "id": "4943465",
-      "time": "2026-06-18 19:57:39",
-      "tags": [
-        "公司"
-      ],
-      "text": "【博亞精工：首次回購0.0422%公司股份，成交金額為99.59萬元】博亞精工公告，2026年6月17日，公司首次透過股份回購專用證券賬戶以集中競價交易方式回購公司股份，本次回購股份數量為49600股，約佔公司目前總股本的0.0422%，最高成交價為20.13元/股，最低成交價為20.05元/股，成交金額為99.59萬元（不含交易費用）。"
-    },
-    {
-      "id": "4943464",
-      "time": "2026-06-18 19:57:19",
-      "tags": [
-        "其他"
-      ],
-      "text": "巴西財長：我從未因通脹正在上升而提議修改通脹計算方法。"
-    },
-    {
-      "id": "4943463",
-      "time": "2026-06-18 19:57:04",
-      "tags": [
-        "國際"
-      ],
-      "text": "寶馬<BMWG.DE>監事會主席：認為到2035年歐洲汽車市場平均電動化比例可達50-60%是現實的。"
-    },
-    {
-      "id": "4943462",
-      "time": "2026-06-18 19:56:56",
-      "tags": [
-        "公司"
-      ],
-      "text": "【博瑞醫藥：實際控制人因操縱證券市場案被取保候審】博瑞醫藥公告稱，公司實際控制人袁建棟因涉嫌操縱證券市場案，於2026年6月18日被蘇州市公安局取保候審，期限自當日起算。袁建棟任公司董事長兼總經理，代行財務總監、董事會秘書職責，該事項不涉及公司股票，不影響日常生產經營，公司運作正常。公司將在一個月內補選財務總監、董事會秘書，並及時披露進展。"
-    },
-    {
-      "id": "mkt:019eda97-4ee1-7dd8-b07a-f368cbb3a427",
-      "time": "2026-06-18 19:56:49",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【EU top diplomat responds to Israeli foreign minister's decision to sever contact】EU high representative for foreign affairs and security policy Kallas said the EU remains \"committed to constructive relations\" with Israel after Israeli foreign minister Gideon Sa'ar said he would cut all contact until Kallas retracts or clarifies comments comparing Israel's treatment of Palestinians to apartheid South Africa. Kallas said there are many ties between the EU and Israel and she values constructive, respect-based engagement, but stressed the \"two-state solution\" is the only viable path to Middle East peace and reiterated the EU's condemnation of Israeli settlement construction in the occupied West Bank."
-    },
-    {
-      "id": "mkt:019eda97-0dbf-7dd8-b07a-ea41c41897ee",
-      "time": "2026-06-18 19:56:32",
-      "tags": [
-        "MKT News",
-        "PFE.N",
-        "Impact bearish"
-      ],
-      "text": "Pfizer shares fell 1.4% in premarket trading after the company said Chief Financial Officer Dave Denton will resign."
-    },
-    {
-      "id": "4943461",
-      "time": "2026-06-18 19:56:24",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "巴西財長：不能以授予央行自主權為藉口篡改公共會計賬目。"
-    },
-    {
-      "id": "mkt:019eda96-acdc-7dd8-b07a-e4d13884a310",
-      "time": "2026-06-18 19:56:08",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Precious Metals"
-      ],
-      "text": "Spot silver fell 2.00% intraday to $66.57/oz."
-    },
-    {
-      "id": "4943460",
-      "time": "2026-06-18 19:55:24",
-      "tags": [
-        "市場"
-      ],
-      "text": "輝瑞股價盤前下跌1.4%，首席財務官戴夫·丹頓將卸任。"
-    },
-    {
-      "id": "4943459",
-      "time": "2026-06-18 19:55:00",
-      "tags": [
-        "國際"
-      ],
-      "text": "普京：俄羅斯將繼續向東盟國家供應糧食與能源。"
-    },
-    {
-      "id": "4943458",
-      "time": "2026-06-18 19:54:41",
-      "tags": [
-        "公司"
-      ],
-      "text": "【*ST天喻：再次延期至6月26日前回復深交所2025年報問詢函】*ST天喻公告稱，公司於2026年4月27日收到深交所創業板公司管理部下發的年報問詢函，原要求5月21日前回復，因部分問題尚需核實，曾延期至6月18日前回復。截至公告披露日，回覆內容尚需補充完善，經申請，本次問詢函將延期至6月26日前完成回覆並披露。"
-    },
-    {
-      "id": "4943457",
-      "time": "2026-06-18 19:54:27",
-      "tags": [
-        "其他"
-      ],
-      "text": "巴林證券交易所將於6月25日至28日因節日休市。"
-    },
-    {
-      "id": "mkt:019eda95-1d53-7dd8-b07a-ddfe81bd8fd3",
-      "time": "2026-06-18 19:54:25",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Bahrain Bourse will be closed June 25-28 for a public holiday."
-    },
-    {
-      "id": "4943456",
-      "time": "2026-06-18 19:53:43",
-      "tags": [
-        "其他"
-      ],
-      "text": "瑞銀將傑富瑞目標股價從59美元上調至67美元。"
-    },
-    {
-      "id": "4943455",
-      "time": "2026-06-18 19:53:14",
-      "tags": [
-        "公司"
-      ],
-      "text": "【秋田微：特定股東及董監高擬減持不超1.48%股份】秋田微公告稱，特定股東金信聯合、春華賦、秋實賦、穀雨賦，及副總經理王亞彬、職工代表董事張鳳等董監高，計劃於2026年7月13日至10月12日，以集中競價或大宗交易方式，減持不超178.03萬股，佔公司總股本比例1.48%。本次減持計劃實施存在不確定性，不會導致公司控制權變更，也不會影響公司治理、股權結構及持續經營。"
-    },
-    {
-      "id": "4943454",
-      "time": "2026-06-18 19:52:45",
-      "tags": [
-        "國際"
-      ],
-      "text": "普京：俄羅斯與東盟國家計劃繼續開展合作。"
-    },
-    {
-      "id": "4943453",
-      "time": "2026-06-18 19:52:38",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【深交所：本週共對149起證券異常交易行為採取自律監管措施】深交所公告，6月15日至6月18日，深交所共對149起證券異常交易行為採取了自律監管措施，涉及盤中拉抬打壓、虛假申報等異常交易情形；共對5起上市公司重大事項進行核查，並上報證監會4起涉嫌違法違規案件線索。"
-    },
-    {
-      "id": "mkt:019eda93-64a5-7dd8-b07a-d6cb14db5503",
-      "time": "2026-06-18 19:52:33",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK",
-        "GBPUSD",
-        "Impact bearish",
-        "DXY",
-        "Impact bullish",
-        "FTSE100"
-      ],
-      "text": "【Premier Miton fund says Bank of England may skip further hikes this year】Emma Mogford of Premier Miton Monthly Income Fund said after the Bank of England held rates at 3.75% on Thursday that the Bank may not need to raise rates again this year. She said price rises later in the year from the Iran war could be offset by weaker demand, and wage growth is likely to remain modest given a relatively soft labour market. The rate decision passed 7-2, with two members preferring a 25bp hike."
-    },
-    {
-      "id": "4943452",
-      "time": "2026-06-18 19:52:10",
-      "tags": [
-        "國際"
-      ],
-      "text": "歐洲北約盟國正加緊彌補美國宣佈削減、部署於歐洲的部分空中及海軍裝備所留下的缺口。"
-    },
-    {
-      "id": "mkt:019eda91-f769-7dd8-b07a-ca96243d0b1a",
-      "time": "2026-06-18 19:50:59",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Schroder Investment: Bank of England's rate‑hike threshold remains high】Schroder Investment senior economist George Brown said the Bank of England is buying time by keeping the policy rate unchanged and that the threshold for further hikes remains high. He said a weak labour market and tepid growth should limit second‑round effects from energy price spikes and that a preliminary deal to reopen the Strait of Hormuz should reduce some extreme upside energy risk, but warned the BoE could still be forced to act if inflation expectations continue to rise."
-    },
-    {
-      "id": "4943451",
-      "time": "2026-06-18 19:50:57",
-      "tags": [
-        "其他"
-      ],
-      "text": "莫斯科市長表示，煉油廠火情已基本得到控制。"
-    },
-    {
-      "id": "mkt:019eda91-da50-7dd8-b07a-c0086e3ea434",
-      "time": "2026-06-18 19:50:52",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Moscow mayor says refinery fire is largely under control."
-    },
-    {
-      "id": "4943450",
-      "time": "2026-06-18 19:50:35",
-      "tags": [
-        "市場"
-      ],
-      "text": "鈀金期貨日內跌6%，現報1281.56美元/盎司。"
-    },
-    {
-      "id": "mkt:019eda90-c31b-7dd8-b07a-bc050d7f90c4",
-      "time": "2026-06-18 19:49:40",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "SZSE Component",
-        "CSI300"
-      ],
-      "text": "Shenzhen Stock Exchange said it took self-regulatory enforcement measures this week against 149 instances of abnormal trading behavior, primarily intraday price manipulation (pumping and suppression) and false orders. It opened probes into five material matters at listed companies and referred four suspected illegal or regulatory-violating cases to the CSRC."
-    },
-    {
-      "id": "4943449",
-      "time": "2026-06-18 19:49:40",
-      "tags": [
-        "央行",
-        "宏觀",
-        "焦點"
-      ],
-      "text": "【6月18日《新聞聯播》主要內容】今天《新聞聯播》主要內容有： 1.習近平給新華社老黨員張連生回信強調 傳承紅色基因 在新徵程上書寫優異答卷； 2.以習近平黨建思想為指引 奮力譜寫中國式現代化新篇章； 3.中央黨的建設工作領導小組印發《關於學習貫徹習近平黨建思想的通知》； 4.人民日報評論員文章：為發展馬克思主義建黨學說作出重大原創性貢獻——論學習貫徹習近平黨建思想； 5.韓正會見加拿大、丹麥客人； 6.加快下達“兩新”專案資金 持續釋放政策效能； 7.“在高質量發展中保障和改善民生”形勢政策系列報告會首場報告會在北京舉行； 8.【黨旗在基層一線高高飄揚】林丹：一輩子做好居民的服務員； 9.國務院新聞辦舉行“新徵程上的奮鬥者”中外記者見面會； 10.中國戲劇家協會 中國民間文藝家協會 中國書法家協會選舉產生新一屆領導機構； 11.全國鐵路端午假期運輸今天啟動； 12.端午臨近 節日市場供應豐富； 13.總檯推出特別節目 陪您共度端午假期； 14.國內聯播快訊： （1）兩部門緊急預撥1億元中央自然災害救災資金； （2）海南自貿港全島封關半年 政策紅利持續釋放； （3）前5個月西部陸海新通道進出口規模創歷史新高； （4）我國首個重點工業產品碳足跡資料庫上線； （5）廣西大藤峽水利樞紐工程透過竣工驗收； （6）“國聘行動·北京行”高校畢業生就業服務專場活動啟動； （7）2026年度電影票房超165億元； （8）2026中國品牌論壇在雄安舉行； 15.美國總統和伊朗總統遠端簽署諒解備忘錄 正式文字公佈 巴基斯坦總理宣佈美伊諒解備忘錄立即生效； 16.國際聯播快訊： （1）俄稱俄軍在頓涅茨克取得重要進展； （2）巴勒斯坦強烈譴責以色列擴建定居點； （3）七國集團峰會閉幕 再次未發聯合公報； （4）美聯儲今年連續第四次宣佈維持利率不變。"
-    },
-    {
-      "id": "mkt:019eda90-53f7-7dd8-b07a-b31ec866ca16",
-      "time": "2026-06-18 19:49:12",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "DXY",
-        "Impact bullish",
-        "XAUUSD",
-        "Impact bearish",
-        "EURUSD"
-      ],
-      "text": "【ING expects Swiss National Bank to keep policy rate at 0% for at least two years】ING strategist Charlotte de Montpellier said the SNB’s decision to hold rates confirms it is in a relatively comfortable position versus most peers. She expects inflation to remain within the SNB’s target range, with deflation fears eased and limited risk of a sharp rebound. The SNB’s readiness to intervene in FX is aimed at countering franc appreciation, not fighting inflation, implying a steady monetary stance and a 0% policy rate for at least the next two years."
-    },
-    {
-      "id": "4943448",
-      "time": "2026-06-18 19:49:08",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "【施羅德投資：英國央行加息門檻依然很高】施羅德投資的George Brown表示，在維持基準利率不變的情況下，英國央行目前是在爭取時間，其加息門檻“依然很高“。這位高階經濟學家說，疲軟的勞動力市場和微弱的經濟增長應該會限制能源價格飆升帶來的第二輪效應。他表示，重新開放霍爾木茲海峽的初步協議也應會降低能源價格面臨的一些更極端的上行風險。然而，英國央行不能掉以輕心。Brown說：“如果通脹預期繼續走高，它可能仍會被迫採取行動。”"
-    },
-    {
-      "id": "4943447",
-      "time": "2026-06-18 19:48:50",
-      "tags": [
-        "公司"
-      ],
-      "text": "【晶豐明源：首次出售40.40萬股已回購股份 成交金額8670.56萬元】晶豐明源公告稱，公司於2026年6月18日透過集中競價交易方式首次出售已回購股份404,031股，佔公司當前總股本的0.20%，成交金額為86,705,623.58元，成交最高價為219.80元/股，最低價為208.65元/股，成交均價為214.60元/股。本次出售符合公司已披露的出售計劃。截至公告披露日，出售已回購股份計劃實施完畢，回購專用證券賬戶當前持股509,549股，持股比例0.25%。"
-    },
-    {
-      "id": "4943446",
-      "time": "2026-06-18 19:48:33",
-      "tags": [
-        "公司"
-      ],
-      "text": "【四川成渝：擬募資31.8億元用於高速擴容及償債】四川成渝公告稱，本次向特定物件發行A股股票，募集資金總額調減至不超過31.8億元。扣除發行費用後，淨額擬用於G5京昆高速公路成都至雅安段擴容工程專案和償還有息債務，金額分別為23億元、8.8億元。專案建成後，將提升通行能力和服務水平，發揮路網效益。本次發行將提升公司核心業務競爭力和發展潛力，最佳化資本結構，降低財務風險。"
-    },
-    {
-      "id": "4943445",
-      "time": "2026-06-18 19:48:24",
-      "tags": [
-        "公司"
-      ],
-      "text": "【四川成渝：擬變更公司名稱為四川成渝高速公路集團股份有限公司】四川成渝公告稱，公司於2026年6月18日召開董事會，審議透過變更公司名稱及修訂《公司章程》的議案，擬將中文名稱變更為“四川成渝高速公路集團股份有限公司”，英文名稱變更為“SICHUAN EXPRESSWAY GROUP COMPANY LIMITED”，A股及H股證券簡稱及證券程式碼不變。變更原因是為適應業務發展和集團化管控需要。本次變更尚需股東會審議，以工商登記機關核准內容為準。"
-    },
-    {
-      "id": "4943444",
-      "time": "2026-06-18 19:47:56",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "印度總理莫迪：與Alstom執行長Martin Sion進行了富有成效的會談。Alstom在印度已佈局深厚。該企業看好印度的發展前景，積極推進印度本土製造、面向全球供貨，此舉值得肯定。未來，相關發展機遇還將持續拓寬。印度歡迎全球各國攜手本國青年開展合作。"
-    },
-    {
-      "id": "mkt:019eda8e-c009-7dd8-b07a-ae57a3c0ae60",
-      "time": "2026-06-18 19:47:28",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "MODI said India is committed to developing AI solutions that empower people while promoting innovation, trust and international cooperation."
-    },
-    {
-      "id": "mkt:019eda8e-a619-7dd8-b07a-a0b1672005dd",
-      "time": "2026-06-18 19:47:22",
-      "tags": [
-        "MKT News",
-        "ALO.PA",
-        "Impact bullish"
-      ],
-      "text": "MODI said he held productive talks with Alstom CEO Martin Sion, that Alstom has a strong presence in India and that future opportunities will improve."
-    },
-    {
-      "id": "te:markets:560087",
-      "time": "2026-06-18 19:46:55",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Stock Market",
-        "Importance 2"
-      ],
-      "text": "US Futures Rebound — Futures tracking US equities rebounded on Thursday to erase yesterday's loss as chip producers extended their rally and markets reconsidered risks of a rate cut by the Federal Reserve. Contracts for the S&P 500 were 1% higher, while those for the Nasdaq 100 gained 2% and the Dow 0.7%. The Federal Reserve held rates unchanged and half of the FOMC projected that at least one rate hike would be appropriate this year. The new Chairman, Kevin Warsh, also followed through on pledges to revamp the Fed's operational framework by launching a set of task forces. Meanwhile, President Trump signed the memorandum of understanding with Iran to soften energy inflation risks. Intel shares surged more than 8% premarket after the US President said the chipmaker struck a deal with Apple. In turn, Micron rose ahead of its earnings next week and Nvidia was 1% higher to trim yesterday's decline."
-    },
-    {
-      "id": "4943443",
-      "time": "2026-06-18 19:46:14",
-      "tags": [
-        "公司"
-      ],
-      "text": "【宏昌電子：公司相關GA-686系列高速覆銅板產品取得小量訂單】宏昌電子6月18日在互動平臺表示，公司相關GA-686系列高速覆銅板產品已透過相關客戶認證，取得小量訂單生產。產品透過服務下游印刷電路板企業供應至各終端，廣泛應用於通訊、伺服器、汽車電子、消費電子等各電子產品領域。"
-    },
-    {
-      "id": "4943442",
-      "time": "2026-06-18 19:45:52",
-      "tags": [
-        "央行",
-        "市場",
-        "國際"
-      ],
-      "text": "【烏克蘭央行維持關鍵利率不變 保留加息選項】烏克蘭央行週四表示，由於戰爭帶來的挑戰、企業成本上升以及能源價格上漲持續推高通脹風險，決定將關鍵利率維持在15%不變。如有必要，將準備在未來進一步加息，以穩定通脹預期，並推動通脹率重新迴歸5%的目標水平。宣告稱，“這一決定確保了當前貨幣環境足夠緊縮，並考慮到了市場對烏克蘭貨幣格里夫納儲蓄工具的旺盛需求，以及與中東戰爭和外部融資不足相關風險的緩解”。5月通脹率同比從4月的8.6%放緩至8.2%，烏克蘭央行將其歸因於季節性因素。該行表示，未來幾個月通脹率將維持在接近當前水平，並將在今年年底前進一步加快。該行稱：“受能源價格上漲、此前格里夫納走弱以及勞動力短缺背景下工資持續增長推動企業成本上升的影響，價格仍將面臨上行壓力。”烏克蘭央行預計，年底通脹率約為9.4%，2027年為6.5%。"
-    },
-    {
-      "id": "4943441",
-      "time": "2026-06-18 19:45:49",
-      "tags": [
-        "其他"
-      ],
-      "text": "【民生銀行總行個金部換帥：原私行部總經理黃晉擬接任】6月18日訊息，據瞭解，民生銀行總行信用卡中心總經理孫興，不再兼任總行個人金融部總經理。民生總行財富管理部/私人銀行部總經理黃晉，擬任總行個人金融部總經理。（21世紀經濟報道）"
-    },
-    {
-      "id": "4943440",
-      "time": "2026-06-18 19:45:33",
-      "tags": [
-        "央行",
-        "市場",
-        "國際"
-      ],
-      "text": "【機構：英國央行今年可能不會加息】Premier Miton Monthly Income Fund的Emma Mogford在英國央行週四將利率維持在3.75%不變後表示，英國央行今年可能不需要加息。“伊朗戰爭引發的今年晚些時候物價上漲的影響，可能會被較低的需求以及鑑於勞動力市場相對疲軟對工資增長僅有的溫和預期所抵消，“她說。英國央行以7票贊成、2票反對的投票結果透過了該決定，其中兩名決策者傾向於加息25個基點。"
-    },
-    {
-      "id": "mkt:019eda8c-9b67-7dd8-b07a-98d086fad182",
-      "time": "2026-06-18 19:45:08",
-      "tags": [
-        "MKT News",
-        "Macro & Rates"
-      ],
-      "text": "【Ukraine central bank keeps key rate at 15%, leaves door open to hikes】Ukraine's central bank (NBU) kept its key policy rate at 15% on Thursday, citing war-related challenges, rising energy prices and higher corporate costs. The NBU said it is prepared to raise rates if needed to anchor inflation expectations and steer inflation back toward its 5% target. The decision, the bank said, reflects a sufficiently tight monetary stance and took into account strong demand for hryvnia savings instruments and mitigation of risks linked to the Middle East war and constrained external financing. Annual inflation eased to 8.2% in May from 8.6% in April, which the NBU attributed to seasonal factors, but it expects inflation to remain near current levels in the coming months and accelerate later this year. The bank flagged energy price rises, prior hryvnia weakness and wage-driven cost pressures as upside risks and projects year-end inflation around 9.4% and 6.5% in 2027."
-    },
-    {
-      "id": "4943439",
-      "time": "2026-06-18 19:44:16",
-      "tags": [
-        "市場"
-      ],
-      "text": "【埃森哲美股盤前跌超15%】埃森哲美股盤前跌超15%，現報132.389美元。"
-    },
-    {
-      "id": "4943438",
-      "time": "2026-06-18 19:43:26",
-      "tags": [
-        "其他"
-      ],
-      "text": "巴西財長：正在預算中凍結230億雷亞爾，以表明財政路徑已得到約束，這應有助於貨幣政策。"
-    },
-    {
-      "id": "4943437",
-      "time": "2026-06-18 19:43:12",
-      "tags": [
-        "公司"
-      ],
-      "text": "【德方奈米：擬募資不超29億元用於鋰電專案及補流】德方奈米公告稱，公司擬向特定物件發行股票，募集資金總額不超29億元，扣除發行費用後，21.5億元用於鋰電新材料一體化（一期）專案，新增年產20萬噸新一代高壓實磷酸鹽新材料產能；7.5億元用於補充流動資金。專案預計建設期24個月，目前已取得專案用地不動產證書及投資專案備案證，環評、能評等報批程式尚在辦理中。本次發行將增強公司資本實力，提升競爭力，但短期內每股收益和淨資產收益率或攤薄。"
-    },
-    {
-      "id": "4943436",
-      "time": "2026-06-18 19:42:56",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：伊朗外交訊息人士表示，關於瑞士之行的最終決定尚未做出。"
-    },
-    {
-      "id": "4943435",
-      "time": "2026-06-18 19:42:41",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【宏昌電子：股價異常波動 市盈率顯著高於行業均值】宏昌電子公告稱，公司股票在2026年6月15日至17日連續三個交易日收盤價格漲幅偏離值累計達20%以上，屬股票交易異常波動。經自查，公司生產經營正常，不存在應披露而未披露的重大事項。中證指數官網6月16日資料顯示，公司最新滾動市盈率813.95，顯著高於所處行業的67.27。2026年一季度，公司扣非淨利潤為-79.58萬元。公司提醒投資者注意二級市場交易風險。"
-    },
-    {
-      "id": "mkt:019eda89-f386-7dd8-b07a-906ff7710f6e",
-      "time": "2026-06-18 19:42:14",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Al Jazeera cited an Iranian diplomatic source saying a final decision has not yet been made on a trip to Switzerland."
-    },
-    {
-      "id": "4943434",
-      "time": "2026-06-18 19:42:09",
-      "tags": [
-        "其他"
-      ],
-      "text": "【水利部和中國氣象局聯合釋出橙色山洪災害氣象預警】水利部和中國氣象局6月18日18時聯合釋出橙色山洪災害氣象預警：預計，6月18日20時至6月19日20時，廣西北部、貴州南部等地部分地區發生山洪災害可能性較大（黃色預警），其中，廣西北部、貴州東南部局地發生山洪災害可能性大（橙色預警）。其他地區也可能因局地短歷時強降水引發山洪災害，請各地注意做好實時監測、防汛預警和轉移避險等防範工作。（央視新聞）"
-    },
-    {
-      "id": "te:markets:560082",
-      "time": "2026-06-18 19:41:47",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Euro Area",
-        "Stock Market",
-        "Importance 2"
-      ],
-      "text": "European Stocks Fall as Investors Digest Central Bank Decisions — European stocks traded mostly lower on Thursday, with the STOXX 50 near flat after a record high and the STOXX 600 down 0.7%, as investors digested policy decisions from the Bank of England and the US Federal Reserve, as well as the interim US-Iran agreement. The BoE voted 7-2 to maintain interest rates at 3.75%, as expected, citing uncertainty over the Middle East energy shock’s economic impact but expecting inflation to rise as costs spread. Meanwhile, the US Federal Reserve held interest rates steady on Wednesday, but new Chair Kevin Warsh signaled a possible rate hike to combat inflation. Globally, the US-Iran ceasefire pushed oil prices to three-month lows, easing inflation concerns. In individual stocks, Edenred surged 16% on takeover talks, Generali rose 0.8% on UniCredit’s stake plans, while EQT fell 0.5% after agreeing to buy Intertek. Infineon (+3.5%) and Aixtron (+1.5%) gained on tech strength, Airbus rose 2.3% on an upgrade, and Tesco fell 2% on slower Q1 sales."
-    },
-    {
-      "id": "4943433",
-      "time": "2026-06-18 19:41:27",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "【數萬億元投向六張網 10萬億元大市場要來了】近日，“六張網”在網路刷屏，引發關注。今年4月，中共中央政治局會議明確提出“加強水網、新型電網、算力網、新一代通訊網、城市地下管網、物流網等規劃建設”。此後，國務院常務會議進行部署。據國家發展改革委初步估算，今年僅“六張網”及相關重點領域建設的投資規模就超過7萬億元。 “十五五”時期，國家水網建設投資將突破6萬億元，新增300多萬個就業崗位； “十五五”時期，新型電網的投資將超過5萬億元，帶動上下游總規模超10萬億元。與新型電網相關的基建投資，可直接創造的就業崗位超過百萬； “十五五”期間，全國將建設改造地下管網約77萬公里，帶動投資約5萬億元，撬動GDP約7.5萬億—10萬億元，年均帶動就業崗位約280萬個； 如今，數萬億元的投資蓄勢待發，“六張網”協同推進，為中國經濟高質量發展持續注入新動能。 （央視財經）"
-    },
-    {
-      "id": "4943432",
-      "time": "2026-06-18 19:40:16",
-      "tags": [
-        "公司"
-      ],
-      "text": "【滬矽產業：子公司上海新昇獲國盛集團及公司合計增資114.48億元】滬矽產業(688126.SH)公告稱，公司擬與持股5%以上股東國盛集團共同對子公司上海新昇進行增資，合計增資114.48億元。其中，公司以持有的新昇晶投等三家子公司股權作價74.48億元認購上海新昇新增註冊資本；國盛集團出資40億元(含10億元債轉股)認購新增註冊資本。增資後，公司持股比例由100%降至84.48%，仍為控股股東。上調至買入。"
-    },
-    {
-      "id": "4943431",
-      "time": "2026-06-18 19:39:46",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "巴西財長：我仍認為進一步降息仍有空間，但這是央行的專屬許可權。"
-    },
-    {
-      "id": "4943430",
-      "time": "2026-06-18 19:39:34",
-      "tags": [
-        "其他"
-      ],
-      "text": "MONNESS CRESPI HARDT將賽富時評級從中性上調至買入。"
-    },
-    {
-      "id": "4943429",
-      "time": "2026-06-18 19:39:16",
-      "tags": [
-        "公司"
-      ],
-      "text": "【德方奈米：擬向特定物件發行股票募資不超29億元】德方奈米公告稱，公司擬向特定物件發行股票，募集資金總額不超29億元（含本數），扣除發行費用後，用於鋰電新材料一體化（一期）專案和補充流動資金專案。發行物件不超35名（含）特定投資者，發行價格不低於定價基準日前二十個交易日公司股票交易均價的80%。本次發行尚需股東會審議透過、深交所稽核透過及中國證監會同意註冊。"
-    },
-    {
-      "id": "4943428",
-      "time": "2026-06-18 19:38:59",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "市場訊息：印尼證券交易所新任執行長將持續推進市場改革、提升市場透明度。"
-    },
-    {
-      "id": "4943427",
-      "time": "2026-06-18 19:38:40",
-      "tags": [
-        "其他"
-      ],
-      "text": "【大藤峽水利樞紐工程透過竣工驗收】記者從水利部瞭解到，大藤峽水利樞紐工程18日透過水利部主持的竣工驗收，工程建設任務全部完成，全面轉入常態化執行階段。大藤峽工程總投資357.36億元，總庫容34.79億立方米、防洪庫容15億立方米，正常蓄水位61米。該工程是國家水網重要結點工程，集防洪、航運、發電、補水壓鹹、灌溉等綜合效益於一體。工程全面投入執行將在提升流域水安全保障水平、服務粵港澳大灣區國家戰略、促進地方經濟社會高質量發展等方面發揮重要作用。（新華社）"
-    },
-    {
-      "id": "4943426",
-      "time": "2026-06-18 19:38:37",
-      "tags": [
-        "其他"
-      ],
-      "text": "巴西財長:我們一直在努力遏制通脹。"
-    },
-    {
-      "id": "mkt:019eda85-d7a3-7dd8-b07a-89cbe00d3b47",
-      "time": "2026-06-18 19:37:44",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Iranian Foreign Minister Araghchi told Kuwait’s foreign minister in a phone call that dialogue with Gulf states is necessary to dispel existing misunderstandings."
-    },
-    {
-      "id": "mkt:019eda85-85bc-7dd8-b07a-857723b1ae22",
-      "time": "2026-06-18 19:37:24",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Precious Metals"
-      ],
-      "text": "Spot silver slipped below $67/oz, down 1.37% intraday."
-    },
-    {
-      "id": "4943425",
-      "time": "2026-06-18 19:37:18",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗外交部長阿拉格齊在與科威特外交大臣通電話時強調，需與海灣國家開展對話以解決現有誤解。"
-    },
-    {
-      "id": "4943424",
-      "time": "2026-06-18 19:37:06",
-      "tags": [
-        "市場"
-      ],
-      "text": "紐約期銀日內跌5%，現報67.60美元/盎司。"
-    },
-    {
-      "id": "4943423",
-      "time": "2026-06-18 19:36:54",
-      "tags": [
-        "其他"
-      ],
-      "text": "巴西財長：巴美雙方將繼續從經濟層面展開辯論；我們不會停止捍衛巴西利益。"
-    },
-    {
-      "id": "mkt:019eda84-fe07-7dd8-b07a-7ad2266bae29",
-      "time": "2026-06-18 19:36:49",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Arabic Airlines to launch daily Sharjah–Aleppo flights from July 4."
-    },
-    {
-      "id": "4943422",
-      "time": "2026-06-18 19:35:53",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "INDRA公司與烏克蘭三海國家平臺簽署諒解備忘錄，旨在推動烏克蘭鐵路運輸現代化，並助力烏克蘭與歐洲接軌。"
-    },
-    {
-      "id": "mkt:019eda84-15d8-7dd8-b07a-77e6fff59e96",
-      "time": "2026-06-18 19:35:49",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "【Moscow hit by large-scale drone attack】Russian media on the 18th, citing Moscow Mayor Sobyanin, reported Russian air defenses have shot down 194 drones targeting Moscow since midnight. Sobyanin said a shopping mall and an oil refinery were damaged; air defenses remain active as drone strikes continue."
-    },
-    {
-      "id": "4943421",
-      "time": "2026-06-18 19:35:46",
-      "tags": [
-        "其他"
-      ],
-      "text": "【渣打中國魯靜：希望金融成為科技企業的靈魂伴侶】6月18日，渣打銀行（中國）行長兼副董事長魯靜在2026陸家嘴論壇科創金融大會上表示，全球產業鏈正在經歷一次深刻重構，從效率優先轉向安全優先，從全球分工、集中生產轉向短鏈化、區域化、彈性化。科技發展成為新的變數，在人工智慧、人形機器人、新能源、高階製造等關鍵領域，中國企業已佔據不可替代的位置。中國正從“世界工廠”邁向“智造強國”和“創新引擎”。（中證金牛座）"
-    },
-    {
-      "id": "4943420",
-      "time": "2026-06-18 19:35:40",
-      "tags": [
-        "國際"
-      ],
-      "text": "【莫斯科遭大規模無人機襲擊】俄羅斯媒體18日援引首都莫斯科市長索比亞寧釋出的資料包道說，自當天零時起，俄武裝部隊防空系統已擊落194架襲擊莫斯科的無人機。 索比亞寧說，莫斯科一家購物中心和一家煉油廠在襲擊中受損，俄防空系統仍在運作中以應對持續來襲的無人機。 俄聯邦航空運輸署18日早些時候曾發表宣告，對莫斯科伏努科沃、多莫傑多沃、茹科夫斯基和謝列梅捷沃四座機場實施起降限制。俄交通部最新通報說，茹科夫斯基機場正在與相關部門協調為飛機提供後勤保障，其他三座機場已恢復正常執行。 目前尚不清楚無人機襲擊在莫斯科市造成的人員傷亡情況。 烏克蘭總統澤連斯基18日在社交媒體上說，烏方一週內對莫斯科煉油廠實施了兩次打擊，“是對俄羅斯襲擊烏方城市和社群的回應”。(新華社)"
-    },
-    {
-      "id": "mkt:019eda83-951f-7dd8-b07a-6a178124417c",
-      "time": "2026-06-18 19:35:16",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "UUUU.O",
-        "Impact bullish"
-      ],
-      "text": "Energy Fuels shares rose 8.6% in pre-market trading."
-    },
-    {
-      "id": "mkt:019eda83-57b0-7dd8-b07a-662b9536cb2d",
-      "time": "2026-06-18 19:35:00",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK",
-        "BMW.DE"
-      ],
-      "text": "BMW supervisory board chairman said Europe should shift its local-sourcing mindset from 'Made in Europe' to 'Co-manufactured in Europe'."
-    },
-    {
-      "id": "4943419",
-      "time": "2026-06-18 19:34:51",
-      "tags": [
-        "國際"
-      ],
-      "text": "寶馬監事會主席：歐洲本土供應應當更多著眼於“由歐洲共同製造”，而非“歐洲本土製造”。"
-    },
-    {
-      "id": "4943418",
-      "time": "2026-06-18 19:34:47",
-      "tags": [
-        "公司"
-      ],
-      "text": "阿拉伯航空航空公司將開通沙迦與阿勒頗之間的每日新航線，自2026年7月4日起生效。"
-    },
-    {
-      "id": "4943417",
-      "time": "2026-06-18 19:34:43",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：內塔尼亞胡向特朗普表示，以色列不認為自身受協議中有關立即永久終止黎巴嫩戰事條款的約束。"
-    },
-    {
-      "id": "4943416",
-      "time": "2026-06-18 19:34:21",
-      "tags": [
-        "市場"
-      ],
-      "text": "五角大樓簽署7.25億美元貸款協議後， Energy Fuels股價上漲8.6%。"
-    },
-    {
-      "id": "4943415",
-      "time": "2026-06-18 19:33:54",
-      "tags": [
-        "公司"
-      ],
-      "text": "【退市岩石：釋出股票進入退市整理期交易第七次風險提示】退市岩石公告稱，公司於2026年5月22日收到上交所終止其股票上市的決定，股票於6月1日進入退市整理期，預計最後交易日期為6月22日，交易15個交易日。退市整理期屆滿後5個交易日內，上交所將對公司股票予以摘牌。期間首個交易日無價格漲跌幅限制，此後每日漲跌幅限制為10%。公司提醒投資者了結相關業務，有權機關提前辦理續凍手續。"
-    },
-    {
-      "id": "4943414",
-      "time": "2026-06-18 19:33:46",
-      "tags": [
-        "市場",
-        "觀點"
-      ],
-      "text": "【科磊盤前漲5.39%，現報251.59美元】科磊盤前漲5.39%，現報251.59美元。訊息面上，花旗看好NAND/DRAM相關裝置需求，上調科磊目標價至290美元並維持買入評級，提振盤前股價大漲。"
-    },
-    {
-      "id": "4943413",
-      "time": "2026-06-18 19:33:41",
-      "tags": [
-        "央行",
-        "公司",
-        "市場"
-      ],
-      "text": "【英國基準利率決定公佈後英鎊擴大跌幅】英國央行以7比2的投票結果決定將利率維持在3.75%不變，並對收緊政策的前景定調謹慎，隨後英鎊擴大跌幅。英國央行行長安德魯.貝利(Andrew Bailey)表示，試圖過快將通脹率拉回2%的目標，可能會導致產出出現不必要的波動。他表示，鑑於實體經濟疲軟，加之能源價格衝擊的規模和持續時間存在不確定性，容忍通脹率暫時高於目標水平似乎是合適的。儘管如此，仍有兩名決策者支援加息。倫敦證券交易所集團的資料顯示，該決定公佈後，英鎊兌美元匯率從之前的1.3223美元跌至1.3208美元的10周低點。歐元兌英鎊匯率從之前的0.8663英鎊升至0.8673英鎊的三週高點。"
-    },
-    {
-      "id": "mkt:019eda81-f87b-7dd8-b07a-5b161d3d4b39",
-      "time": "2026-06-18 19:33:31",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "Market Regions",
-        "Europe & UK",
-        "GBPUSD",
-        "Impact mixed"
-      ],
-      "text": "【Economist says Bank of England likely to avoid US/European-style tightening but hawkish pressure persists】Aberdeen deputy chief economist Luke Bartholomew said the Bank of England is likely to avoid the type of tightening the ECB has begun and the Fed signalled it may pursue. He said two members voting for a rate rise indicate some policymakers remain concerned about potential inflationary pressure."
-    },
-    {
-      "id": "4943412",
-      "time": "2026-06-18 19:33:05",
-      "tags": [
-        "其他"
-      ],
-      "text": "埃森哲股價跌幅擴大，觸及當日低點13%。"
-    },
-    {
-      "id": "4943411",
-      "time": "2026-06-18 19:33:01",
-      "tags": [
-        "國際"
-      ],
-      "text": "巴西財長：我不認同特朗普針對巴西的言論，我認為這些言論背後隱藏著經濟利益。"
-    },
-    {
-      "id": "mkt:019eda81-4c6e-7dd8-b07a-51e03ab4760c",
-      "time": "2026-06-18 19:32:47",
-      "tags": [
-        "MKT News",
-        "Important",
-        "SPCX.O",
-        "Impact bullish"
-      ],
-      "text": "Oppenheimer raises PT on SpaceX (SPCX.O) to $250 from $190."
-    },
-    {
-      "id": "4943410",
-      "time": "2026-06-18 19:32:29",
-      "tags": [
-        "其他"
-      ],
-      "text": "奧本海默將SpaceX目標價由 190 美元上調至 250 美元。"
-    },
-    {
-      "id": "4943409",
-      "time": "2026-06-18 19:32:05",
-      "tags": [
-        "公司"
-      ],
-      "text": "五角大樓與能源燃料Energy Fuels公司簽署7.25億美元貸款承諾。"
-    },
-    {
-      "id": "4943408",
-      "time": "2026-06-18 19:31:40",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "印度10年期基準國債收益率收盤報6.8387%；前收盤價為6.8626%。"
-    },
-    {
-      "id": "mkt:019eda80-4625-7dd8-b07a-4cea012cbc59",
-      "time": "2026-06-18 19:31:40",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "UUUU.O",
-        "Impact bullish"
-      ],
-      "text": "The Pentagon signed a $725 million loan commitment agreement with Energy Fuels."
-    },
-    {
-      "id": "4943407",
-      "time": "2026-06-18 19:31:24",
-      "tags": [
-        "其他"
-      ],
-      "text": "【全國郵政快遞業安全生產和快遞員群體合法權益保障工作電視電話會議召開】6月18日，國家郵政局召開全國郵政快遞業安全生產和快遞員合法權益保障工作電視電話會議，就進一步加強行業安全生產和快遞員群體合法權益保障工作進行再動員再部署。黨組書記、局長趙衝久強調，要強化責任落實，毫不放鬆抓好行業安全生產工作。各企業要認真履行安全生產主體責任和品牌安全保障統一管理責任，深入排查整治事故隱患，確保安全生產。各級郵政管理部門要進一步強化監管責任，切實擔負起“促一方發展、保一方平安”的政治責任，落實強監管要求，堅決防止執法寬鬆軟。要齊抓共管形成合力，充分發揮地方安委會和寄遞渠道安全聯合監管機制作用，強化聯合監管執法，加大媒體曝光和宣傳報道力度。"
-    },
-    {
-      "id": "4943406",
-      "time": "2026-06-18 19:31:09",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "土耳其央行資料顯示，截至6月12日，土耳其居民持有外匯規模為2220.1億美元，此前一週為2262.6億美元。"
-    },
-    {
-      "id": "4943405",
-      "time": "2026-06-18 19:31:04",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "土耳其央行資料顯示，截至6月12日，土耳其央行外匯儲備總額為531.2億美元，一週前為542.5億美元。"
-    },
-    {
-      "id": "4943404",
-      "time": "2026-06-18 19:30:51",
-      "tags": [
-        "公司"
-      ],
-      "text": "【華凱易佰：股東周新華等擬減持不超3%股份】華凱易佰公告稱，合計持股9.40%的股東周新華及其一致行動人羅曄，計劃2026年7月13日-10月12日以集中競價及/或大宗交易方式減持不超11,682,499股，佔總股本2.97%；持股0.06%的股東何志良，同期擬以集中競價方式減持不超118,005股，佔比0.03%。本次減持系股東自身資金需求，減持計劃存在不確定性，不會導致公司控制權變更。"
-    },
-    {
-      "id": "4943403",
-      "time": "2026-06-18 19:30:34",
-      "tags": [
-        "市場",
-        "焦點",
-        "國際"
-      ],
-      "text": "【中美股市明日休市 金銀油交易提前結束】6月19日（明日），“端午節”遇上“六月節”，中美市場雙雙休市。A股、港股、臺股、美股均休市一日。國內期貨交易所全天不交易。芝商所（CME）旗下貴金屬、能源、外匯、股指、美債期貨合約交易提前於北京時間20日01:00結束。洲際交易所（ICE）旗下布倫特原油期貨合約交易提前於北京時間20日01:30結束。敬請各位投資者留意。"
-    },
-    {
-      "id": "4943402",
-      "time": "2026-06-18 19:30:00",
-      "tags": [
-        "公司"
-      ],
-      "text": "【璉升科技：持股5%以上股東擬減持不超1%股份】璉升科技公告稱，持股5.69%的股東萬久根因個人資金需求，計劃自2026年7月13日至10月12日（禁止減持期除外），以集中競價方式減持不超372.02萬股，即不超公司總股本的1%。減持股份源於司法拍賣，減持前需辦部分股份解質手續，本次減持計劃存在不確定性。"
-    },
-    {
-      "id": "mkt:019eda7e-3b09-7dd8-b07a-477cd55dc57b",
-      "time": "2026-06-18 19:29:26",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "【Iranian state broadcaster: IRGC navy will continue to control Strait of Hormuz】Iranian state broadcaster on June 18 said the Islamic Revolutionary Guard Corps navy will continue to control the Strait of Hormuz. Eleven vessels were expected to arrive at an Iranian port that night, five of them oil tankers."
-    },
-    {
-      "id": "4943401",
-      "time": "2026-06-18 19:28:31",
-      "tags": [
-        "國際"
-      ],
-      "text": "【國家能源局主要負責人出席第五屆塔什干國際投資論壇】6月16日至17日，國家能源局局長王宏志赴烏茲別克出席第五屆塔什干國際投資論壇。論壇是烏規格最高、規模最大的年度經濟盛會，烏總統米爾濟約耶夫，阿爾巴尼亞、俄羅斯、白俄羅斯、哈薩克、吉爾吉斯斯坦、塔吉克、亞塞拜然等多國領導人出席論壇。論壇期間，烏總統米爾濟約耶夫會見王宏志、駐烏大使於駿和中方企業高階別代表。米爾濟約耶夫總統高度評價兩國能源合作成果，希望共同制定合作路線圖，推動能源合作再上新臺階。王宏志表示將按照兩國元首達成的戰略共識，與烏方共同做好落實工作。（國家能源局）"
-    },
-    {
-      "id": "mkt:019eda7d-18c2-7dd8-b07a-3a18c9c3a499",
-      "time": "2026-06-18 19:28:11",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy"
-      ],
-      "text": "【China National Energy Administration director attends 5th Tashkent International Investment Forum】China National Energy Administration Director Wang Hongzhi attended the 5th Tashkent International Investment Forum on June 16-17. Uzbek President Shavkat Mirziyoyev met Wang, China’s ambassador to Uzbekistan Yu Jun and senior Chinese company representatives. Mirziyoyev praised bilateral energy cooperation and called for a joint roadmap to deepen collaboration. Wang said he will, consistent with the strategic consensus reached by the two heads of state, work with Uzbekistan to implement the agreed energy cooperation measures."
-    },
-    {
-      "id": "mkt:019eda7c-fb22-7dd8-b07a-3727db3c6eb4",
-      "time": "2026-06-18 19:28:04",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK",
-        "GBPUSD",
-        "Impact bearish",
-        "DXY",
-        "Impact bullish"
-      ],
-      "text": "【Pound drops to 10-week low after BoE holds rates 7-2 at 3.75%】The Bank of England voted 7-2 to hold Bank Rate at 3.75%, with two members preferring a hike. Governor Bailey said trying to bring inflation back to 2% too quickly could cause unnecessary output volatility and that, given weak real activity and uncertainty over the size and persistence of the energy price shock, tolerating temporary inflation above target appears appropriate. GBP/USD fell to 1.3208, a 10-week low, while EUR/GBP hit a three-week high."
-    },
-    {
-      "id": "4943400",
-      "time": "2026-06-18 19:27:35",
-      "tags": [
-        "公司"
-      ],
-      "text": "【東方時尚：2025年營收降23.47% 主體及債項信用等級均為C】東方時尚公告稱，聯合資信對公司及“東時轉債”進行信用評級，截至2026年6月18日，“東時轉債”餘額0.6240億元，主體及債項信用等級均維持為C。2025年公司營收6.18億元，同比降23.47%，淨虧損7.66億元；2026年1 - 3月營收1.21億元，同比降12.71%，淨虧損0.74億元。審計機構對公司2025年度財報出具帶強調事項段無保留意見報告，公司、實控人及相關責任人遭北京證監局處罰。公司股票面臨退市及實控人變更風險，徵信狀況不佳。"
-    },
-    {
-      "id": "4943399",
-      "time": "2026-06-18 19:27:11",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【伊媒：伊革命衛隊海軍將繼續控制霍爾木茲海峽】據伊朗國家廣播公司18日報道，伊朗伊斯蘭革命衛隊海軍將繼續控制霍爾木茲海峽。預計有11艘船隻當晚將抵達伊朗港口，其中5艘為油輪。（新華社）"
-    },
-    {
-      "id": "4943398",
-      "time": "2026-06-18 19:25:57",
-      "tags": [
-        "公司"
-      ],
-      "text": "【呂陽出任英大信託董事長】6月18日，北京金融監管局核准呂陽英大國際信託有限責任公司董事長的任職資格。呂陽正式接棒俞華軍擔任英大信託董事長一職。2025年6月，經英大信託股東會審議，同意俞華軍辭去董事長、董事、法定代表人職務，推舉呂陽董事代為履行董事長及法定代表人職責。2026年1月，經董事會審議，同意選舉呂陽擔任董事長。此番是監管核准後的正式履職。（中證報）"
-    },
-    {
-      "id": "4943397",
-      "time": "2026-06-18 19:25:51",
-      "tags": [
-        "市場"
-      ],
-      "text": "米蘭上市的Stellantis股票在暫停交易後恢復交易，下跌5.5%。"
-    },
-    {
-      "id": "4943396",
-      "time": "2026-06-18 19:25:45",
-      "tags": [
-        "其他"
-      ],
-      "text": "【因美納在華推出移動式生信分析解決方案】6月18日，因美納推出“因美納生信移動寶”，該生信分析解決方案採用移動式部署模式，將DRAGEN™驅動的高效能算力直接送達科研與臨床研究一線。同期，因美納進一步強化其在中國大陸的蛋白質組學生態合作伙伴關係。在大規模群體基因組研究與高時效要求的多中心臨床試驗場景中，傳統生信基礎設施的部署方式正面臨資料本地化合規要求與部署效率的雙重挑戰，並制約著生信分析能力在研究一線的提升。因美納稱，在此背景下，“因美納生信移動寶”使高效能算力能夠“隨科研與臨床需求而動”。"
-    },
-    {
-      "id": "mkt:019eda7a-6bca-7dd8-b07a-2a9d99e5d108",
-      "time": "2026-06-18 19:25:16",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Macro & Rates",
-        "GBPUSD",
-        "Impact bearish"
-      ],
-      "text": "【Bank of England decision highlights: fourth straight hold, warns on inflation second‑round risks】Bank of England held Bank Rate at 3.75% for a fourth consecutive meeting; the Monetary Policy Committee voted 7-2 to maintain rates, with Chief Economist Pill and member Green voting for a 25bp hike. The BoE said it stands ready to take necessary action to ensure inflation returns to 2%; Governor Bailey said the bank would respond quickly to stronger signs of second‑round effects. Staff project Q3 CPI just under 3% and Q4 slightly above 3.25%, both below April forecasts; estimated potential GDP growth in Q2 is ~0.2% (April: 0.1%). The bank flagged continued uncertainty from energy shocks and said longer‑lasting higher energy prices increase the risk of significant price‑wage second‑round effects. Market reaction: markets still price roughly 35bp of further hikes this year; sterling dipped, EUR/GBP hit a three‑week high and gilt yields rose."
-    },
-    {
-      "id": "4943395",
-      "time": "2026-06-18 19:25:03",
-      "tags": [
-        "其他"
-      ],
-      "text": "巴西財長：巴西存在財政問題，需要改善。"
-    },
-    {
-      "id": "4943394",
-      "time": "2026-06-18 19:23:50",
-      "tags": [
-        "其他"
-      ],
-      "text": "巴西財長：我們與國會的合作非常成功。"
-    },
-    {
-      "id": "4943393",
-      "time": "2026-06-18 19:23:25",
-      "tags": [
-        "市場"
-      ],
-      "text": "【豬價呈現窄幅調整 節前豬價上漲熄火】據豬易資料監測資料顯示，2026年6月18日標準體重生豬平均價格為9.52元/公斤，較昨日豬價下跌0.02元/公斤，跌幅0.21%，同比25年同期14.20元/公斤下跌4.68元/公斤，跌幅32.96%。從今日北京、上海消費城市批發市場白條價格走勢來看，北京、上海批發市場白條開磅價格呈現跌漲調整，北京大部分市場開磅價格維持穩定，市場走貨速度表現一般；上海市場價格呈現下跌態勢，部分市場成交價參考12.87-13.58元/公斤，到貨量表現有所增加，市場交易情況表現一般，市場成交均價表現一般偏差。"
-    },
-    {
-      "id": "4943392",
-      "time": "2026-06-18 19:23:02",
-      "tags": [
-        "公司"
-      ],
-      "text": "【翔宇醫療：擬向特定物件發行不超過4800萬股A股股票】翔宇醫療公告，擬向特定物件發行不超過4800萬股A股股票，募集資金總額不超過人民幣13.66億元，扣除發行費用後的募集資金淨額擬投入用於康復醫療創新產品研發專案及補充流動資金。"
-    },
-    {
-      "id": "4943391",
-      "time": "2026-06-18 19:22:50",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【任鴻斌會見丹麥諾和諾德基金會主席兼諾和諾德公司董事會主席索文森】6月18日，中國貿促會會長任鴻斌在京會見丹麥諾和諾德基金會主席兼諾和諾德公司董事會主席索文森一行。雙方就諾和諾德公司深耕中國市場、加快在華投資佈局、加強生物醫藥領域對華合作、更好參與健康中國建設等議題進行交流。（中國貿促）"
-    },
-    {
-      "id": "mkt:019eda78-24e6-7dd8-b07a-24f79dc6a5e8",
-      "time": "2026-06-18 19:22:47",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "【Ren Hongbin meets Novo Nordisk Foundation chairman Sorensen in Beijing】On June 18 in Beijing, China Council for the Promotion of International Trade president Ren Hongbin met with Sorensen, chairman of the Novo Nordisk Foundation and chairman of Novo Nordisk’s board. They discussed Novo Nordisk deepening its China market presence, accelerating in‑China investment, strengthening biopharma cooperation with Chinese partners, and increasing participation in the Healthy China initiative."
-    },
-    {
-      "id": "4943390",
-      "time": "2026-06-18 19:22:26",
-      "tags": [
-        "其他"
-      ],
-      "text": "SPACEX股價跌幅擴大至2%。"
-    },
-    {
-      "id": "mkt:019eda77-c2a4-7dd8-b07a-1b9b07e09d6a",
-      "time": "2026-06-18 19:22:22",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "SpaceX shares extended losses, down 2% in pre-market trading."
-    },
-    {
-      "id": "4943389",
-      "time": "2026-06-18 19:22:20",
-      "tags": [
-        "央行",
-        "市場"
-      ],
-      "text": "【英國央行維持利率不變後 英國國債維持跌勢】英國國債維持跌勢，此前英國央行將利率維持在3.75%不變，並表示如果通脹風險上升，將隨時準備採取行動。兩年期英國國債收益率上漲6個基點至4.20%。英鎊下跌0.5%，至1.3219，延續早前跌勢。交易員維持對利率上升的押注；互換合約定價顯示，年底前利率將上調33個基點。"
-    },
-    {
-      "id": "mkt:019eda77-8cd4-7dd8-b07a-11844671ef6e",
-      "time": "2026-06-18 19:22:08",
-      "tags": [
-        "MKT News",
-        "STLA.MI",
-        "Impact bearish"
-      ],
-      "text": "Milan-listed Stellantis shares were suspended after falling 5.71%."
-    },
-    {
-      "id": "4943388",
-      "time": "2026-06-18 19:21:55",
-      "tags": [
-        "市場"
-      ],
-      "text": "米蘭上市的Stellantis股票在下跌5.71%後自動暫停交易。"
-    },
-    {
-      "id": "4943387",
-      "time": "2026-06-18 19:21:42",
-      "tags": [
-        "其他"
-      ],
-      "text": "HCL科技在金奈推出人工智慧創新區，提供採用英特爾技術的企業解決方案。"
-    },
-    {
-      "id": "te:markets:560078",
-      "time": "2026-06-18 19:21:37",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United Kingdom",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "FTSE 100 Falls by Over 1% — The FTSE 100 dropped more than 1% on Thursday, with sentiment subdued after the Bank of England left interest rates unchanged as expected. The index was dragged lower by weakness in energy and mining stocks as commodity prices continued to fall. Shell and BP lost more than 1.5%, while softer base metal prices pressured miners, with Rio Tinto down 2.3%, Glencore falling 2.4% and Anglo American sliding 3.2%. Tesco also weighed on the index, falling more than 1.5% after first quarter sales growth missed expectations. A number of stocks traded ex-dividend, including Persimmon, Land Securities and 3i Group. The BoE held its base rate at 3.75% at the June meeting, with two members voting for a 25-basis-point increase, matching expectations, and reiterated that it is monitoring geopolitical risks while remaining focused on returning inflation to its 2% target. The Federal Reserve also kept rates unchanged, although nine of its 19 policymakers now anticipate at least one rate hike this year."
-    },
-    {
-      "id": "4943386",
-      "time": "2026-06-18 19:20:45",
-      "tags": [
-        "公司"
-      ],
-      "text": "【*ST京化：完成發行2857.14萬股股份】*ST京化公告，公司已完成募集配套資金的股份發行，發行價格為15.4元/股，新增股份數量為2857.14萬股，均為限售流通股。募集配套資金的新增股份已在中國證券登記結算有限責任公司上海分公司辦理完成登記手續，並取得《證券變更登記證明》。本次發行完成後，公司股份分佈仍滿足《公司法》《證券法》及《股票上市規則》等法律、法規規定的股票上市條件。"
-    },
-    {
-      "id": "mkt:019eda76-483e-7dd8-b07a-0fec40b39b51",
-      "time": "2026-06-18 19:20:45",
-      "tags": [
-        "MKT News",
-        "GBPUSD",
-        "Impact bearish",
-        "DXY",
-        "Impact bullish"
-      ],
-      "text": "GBP/USD slid further, down 0.63% at 1.3213, its weakest since early April."
-    },
-    {
-      "id": "te:economy:560076",
-      "time": "2026-06-18 19:20:35",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Ukraine",
-        "Interest Rate",
-        "Importance 1"
-      ],
-      "text": "Ukraine Holds Policy Rate at 15% — The National Bank of Ukraine maintained its benchmark policy rate at 15% in its June 2026 meeting, a third consecutive hold since the 50bps rate cut at the start of the year. The central bank noted that the current levels of interest rates ensured a sufficiently tight monetary backdrop for the Ukrainian economy and was high enough to stimulate demand for hryvnia denominated fixed income. Still, the NBU delivered a hawkish outlook by noting it is ready to raise interest rates should it see that higher energy prices from the war in the Middle East are becoming entrenched in core sectors of the price basket. Consumer inflation slowed to 8.2% in May but core inflation rose to 7.9%, both above forecasts from the central bank. The NBU expects inflation to remain steady in the coming months and rise at the end of the year, before dropping in 2027."
-    },
-    {
-      "id": "4943385",
-      "time": "2026-06-18 19:20:24",
-      "tags": [
-        "央行",
-        "市場"
-      ],
-      "text": "英鎊兌美元<GBP=D3>在英國央行維持利率不變後進一步下滑，最新下跌0.63%，報1.3213美元，創4月初以來最低水平。"
-    },
-    {
-      "id": "4943384",
-      "time": "2026-06-18 19:20:21",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "【伊朗總統釋出伊美諒解備忘錄完整檔案】當地時間6月18日，伊朗總統佩澤希齊揚在其個人社交媒體釋出已簽署的伊美諒解備忘錄檔案，並寫道：“這是一份歷史性檔案，也是來自強大伊朗發出的資訊：和平將在相互尊重的基礎上實現。”佩澤希齊揚稱，伊朗始終致力於維護世界和平，並堅持在保持尊嚴與獨立的前提下，推動發展與地區合作。（央視新聞）"
     }
   ]
 }
