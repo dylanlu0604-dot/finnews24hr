@@ -1,7 +1,475 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-06-26 00:56:23_
-_本檔包含 3508 則快訊，約 616699 字_
+_更新時間：2026-06-26 01:54:57_
+_本檔包含 3527 則快訊，約 616474 字_
+
+---
+
+### 2026-06-25 03:53:40  #MKT News #Copper
+
+Chile's state miner Codelco said its chairman said the company will begin evaluating investment projects and determine their priority.
+
+---
+
+### 2026-06-25 03:53:16  #MKT News
+
+A U.S. judge dismissed the Justice Department's lawsuit challenging sanctuary immigration policies in four New Jersey cities.
+
+---
+
+### 2026-06-25 03:52:26  #MKT News
+
+【Iran says US officials' comments on MoU are 'contradictory'】On the 24th, Iran's foreign ministry spokesman Baghaei said on social media that US officials have never shown sincerity toward the Iranian people and that their comments on the memorandum of understanding are 'contradictory'. He said such remarks will not lessen Iranian public distrust and instead recall past US breaches of commitment. Baghaei urged the US to recognise the principle of 'reciprocal commitments', fulfil its obligations and refrain from interpreting the MoU in ways that contradict its text.
+
+---
+
+### 2026-06-25 03:52:16  #國際
+
+【伊朗指責美官員涉諒解備忘錄宣告“相互矛盾”】當地時間24日，伊朗外交部發言人巴加埃在其個人社交媒體表示，美國政府在對待伊朗人民的行為上從未展現出誠意。巴加埃表示，美國官員關於該諒解備忘錄相互矛盾的言論，不僅不會減少伊朗民眾積累的不信任，反而只會讓人想起美國曾屢屢違約的記憶。美國政府必須認識到，“承諾對等”原則要求雙方履行各自義務，並避免對諒解備忘錄文字作出與其明確內容完全相悖的解釋。他表示，伊朗雖然有足夠的理由來懷疑，但卻仍帶著善意加入外交程序，並簽署了結束強加戰爭的諒解備忘錄。伊朗人清楚，敵人的敵意不會因為一份協議的簽署而結束，考慮到過去50年的經驗——特別是過去一年半的局勢發展，伊朗將保持警惕地走每一步。（央視新聞）
+
+---
+
+### 2026-06-25 03:52:01  #國際
+
+美國國務卿魯比奧與德國外長舉行會談，討論了伊朗和霍爾木茲海峽。
+
+---
+
+### 2026-06-25 03:51:31  #Trading Economics #Markets #United States #stocks #Importance 1
+
+Microsoft Stock Price Hits 10-week Low — Microsoft shares decreased to 367.06 USD, the lowest since April 2026. Over the past 4 weeks, Microsoft lost 11.69%, and in the last 12 months, it decreased 25.37%.
+
+---
+
+### 2026-06-25 03:50:06  #MKT News #Important #Macro & Rates #The Fed (FOMC) #Market Regions #Japan & APAC #S&P500 #Impact mixed #USDJPY
+
+Federal Reserve to release annual bank stress test results in ten minutes; Bank of Japan Governor UEDA to attend an event in ten minutes.
+
+---
+
+### 2026-06-25 03:49:29  #MKT News
+
+According to The Information, General Atlantic is in talks to lead a financing round for SambaNova that would exceed $1bln and could close as early as next week.
+
+---
+
+### 2026-06-25 03:48:59  #市場
+
+Cerebras Systems跌幅擴大至19%，跌破IPO發行價。
+
+---
+
+### 2026-06-25 03:48:12  #MKT News #Market Themes #AI Revolution
+
+Intel-backed AI chipmaker SambaNova is targeting a $10 billion valuation — a fivefold increase — and plans to raise $800m–$1bn, The Information reports.
+
+---
+
+### 2026-06-25 03:47:15  #其他
+
+市場訊息：英特爾投資的 AI 晶片企業 Sambanova 估值將增至五倍，達到 100 億美元。
+
+---
+
+### 2026-06-25 03:44:58  #國際
+
+【頁岩油高管稱特朗普關於伊朗的言論引發能源市場混亂】美國頁岩油高管表示，白宮關於伊朗戰爭的不規律溝通正在能源市場引發混亂，並使得對未來幾個月的規劃幾乎變得不可能。行業高管對特朗普政府關於中東衝突前後矛盾的政策宣告表示擔憂，一位受訪者表示：“市場能夠給風險定價，但無法給一條推文定價。”大多數高管認為，即使敵對行動結束且霍爾木茲海峽的流量增加，市場波動仍將持續。一位受訪者表示：“在當前伊朗戰爭的局勢下，很難有任何把握地預測原油價格。”
+
+---
+
+### 2026-06-25 03:42:40  #MKT News #Commodities #Energy #Brent #Impact bullish #WTI
+
+【US energy secretary warns EU methane rules will inflict "unnecessary pain" on Europe】US Energy Secretary Wright warned the EU that if it refuses to relax methane regulations, US gas supplies will "flow to other regions." He said: "If this regulation is not meaningfully reformed, it will cause serious pain for Europe that is entirely unnecessary," and added the issue is not about escalation but that "our energy will go somewhere else." EU energy commissioner Dan Jørgensen has vowed to resist pressure from the US and other LNG exporters and to press ahead with revisions aimed at curbing methane emissions. The US has previously warned the regulation's complexity and potential fines could threaten trade. EU energy ministers will meet in Luxembourg on Friday to discuss the rules.
+
+---
+
+### 2026-06-25 03:39:06  #MKT News #Star Stocks #Alibaba #BABA.N #Impact bearish
+
+Alibaba (BABA.N) shares slipped, losses widened to 3%.
+
+---
+
+### 2026-06-25 03:39:02  #其他
+
+阿里巴巴短線下挫，跌幅擴大至3%。
+
+---
+
+### 2026-06-25 03:35:08  #MKT News
+
+Fox News reported the funds will also be used for verification and validation work.
+
+---
+
+### 2026-06-25 03:34:17  #其他
+
+據福克斯新聞： 這筆資金還將用於核查與核驗工作。
+
+---
+
+### 2026-06-25 03:32:15  #國際
+
+據福克斯新聞：美國總統特朗普尋求6.72億美元撥款，用於移除伊朗核材料。
+
+---
+
+### 2026-06-25 03:32:13  #MKT News
+
+Fox News reports President Trump is seeking $672 mln in funding to remove Iranian nuclear material.
+
+---
+
+### 2026-06-25 03:32:07  #MKT News #DXY #Impact bullish #WTI #S&P500 #Impact bearish
+
+【House Speaker Johnson to meet Trump after president refuses to sign housing bill】House Speaker Johnson will meet President Trump tomorrow to address a legislative impasse after Trump refused to sign a housing bill, saying he will sign it only after Congress approves the SAVE America Act, which he framed as necessary for election integrity. Johnson earlier met with Defense Secretary Hegseth to discuss a supplemental defense appropriations bill; the meetings appear to confirm reports the White House will seek a new congressional spending package to pay for a war with Iran.
+
+---
+
+### 2026-06-25 03:30:44  #MKT News
+
+Punchbowl reports the Pentagon is expected to submit a supplemental spending request to Congress today for about $80 bln to replenish munitions supplies and bolster Pentagon funding.
+
+---
+
+### 2026-06-25 03:29:56  #MKT News
+
+【U.S. pilot reports Iranian drones operating in coordinated 'jellyfish' formation】CNN, citing four people familiar with the account, reported the U.S. F-15 pilot whose jet was shot down over Iran in April recalled that, before ejecting, he observed multiple Iranian drones circling in a coordinated 'jellyfish' formation. The sighting has prompted intense debate within U.S. intelligence and remains unresolved; if the pilot did see a coordinated swarm, it would represent a significant advance in Iranian drone capability. The pilot described the drones as appearing interconnected and moving as a single unit, with smaller drones positioned under larger ones 'like legs,' and likened the configuration to 'alien' technology.
+
+---
+
+### 2026-06-25 03:29:27  #其他
+
+高通：未來十年機器人行業將擁有一萬億美元市場機遇。
+
+---
+
+### 2026-06-25 03:26:51  #其他
+
+【西班牙遭遇今夏首輪熱浪，6月單日平均氣溫創新高】西班牙國家氣象局24日表示，在今年首輪熱浪襲擊下，該國已連續兩天創下有記錄以來6月單日平均氣溫新高，近日多地最高氣溫超過40攝氏度。本輪熱浪自21日開始影響西班牙大部分地區，預計將持續至24日晚間。多個地區釋出最高階別高溫預警。初步資料顯示，22日和23日，西班牙全國平均氣溫較往年同期正常水平高出7.1攝氏度，達到有記錄以來6月單日平均氣溫新高，超過此前2025年6月30日創下的記錄。與此同時，與高溫相關的就診病例明顯增加。（新華社）
+
+---
+
+### 2026-06-25 03:21:42  #MKT News #DXY #Impact bullish
+
+U.S. ambassador to the United Nations said Iran will buy surplus U.S. farm crops.
+
+---
+
+### 2026-06-25 03:21:17  #MKT News #WTI #Impact bearish #Brent
+
+U.S. UN envoy Walz said Iran’s unfrozen funds will be placed in an escrow account.
+
+---
+
+### 2026-06-25 03:20:51  #MKT News #WTI #Impact bullish #Brent
+
+U.S. Ambassador to the United Nations Walz said sanctions on Iran have not been lifted and are only temporary.
+
+---
+
+### 2026-06-25 03:19:53  #國際
+
+美常駐聯合國代表沃爾茨： 伊朗解凍資金將存入第三方託管賬戶， 伊朗將採購美國農戶的過剩農產品。
+
+---
+
+### 2026-06-25 03:19:04  #國際
+
+美常駐聯合國代表沃爾茨：針對伊朗的制裁並未取消，此次僅為臨時性措施。 這只是談判期間發放的臨時許可。
+
+---
+
+### 2026-06-25 03:19:04  #MKT News #WTI #Impact bearish
+
+CBS reports Trump plans to push to make the 15% ethanol gasoline blend policy (E15) permanent.
+
+---
+
+### 2026-06-25 03:18:00  #MKT News
+
+Iran's Foreign Ministry spokesman said the U.S. must avoid interpreting the memorandum of understanding in a way that contradicts its literal text and must fulfill its commitments.
+
+---
+
+### 2026-06-25 03:17:54  #國際
+
+據CBS：特朗普擬推動將 15% 乙醇汽油混合燃料政策永久化。
+
+---
+
+### 2026-06-25 03:17:17  #國際
+
+伊朗外交部發言人：美國不得做出與結束戰爭諒解備忘錄明文條款相悖的解讀，並應履行自身承諾。
+
+---
+
+### 2026-06-25 03:16:05  #國際
+
+【美能源部長：過去24小時72艘船透過霍爾木茲海峽】美國能源部長賴特表示，過去24小時內共有72艘船舶透過霍爾木茲海峽，運輸原油約2000萬桶。賴特當天在紐約表示，伊朗今後將無法關閉霍爾木茲海峽，並稱這是伊朗“關鍵籌碼”，美國正在削弱這一籌碼。（央視新聞）
+
+---
+
+### 2026-06-25 03:15:44  #國際
+
+特朗普將向國會尋求逾14億美元的埃博拉資金援助。
+
+---
+
+### 2026-06-25 03:15:21  #MKT News
+
+Iran's foreign ministry spokesman said US statements on the memorandum of understanding are contradictory and do not help reduce distrust among the Iranian public.
+
+---
+
+### 2026-06-25 03:14:47  #國際
+
+伊朗外交部發言人：美國關於結束戰爭諒解備忘錄的表態前後矛盾，無助於消除伊朗民眾的不信任感。
+
+---
+
+### 2026-06-25 03:13:59  #MKT News #QCOM.O #Impact bullish
+
+Qualcomm (QCOM.O) said its automotive business will reach an annualized revenue run rate of $6.0 bln in fiscal 2026.
+
+---
+
+### 2026-06-25 03:13:55  #MKT News #Star Stocks #Meta Platforms #Market Themes #AI Revolution #Chip Wars #Magnificent 7 #QCOM.O #Impact bearish #META.O
+
+【Qualcomm unveils Dragonfly C1000 data‑center AI CPU; Meta to adopt in 2028】Qualcomm (QCOM.O) unveiled the Dragonfly C1000, a data‑center CPU tailored for agent-style AI workloads that prioritizes high compute with low power draw. Qualcomm said Meta Platforms (META.O) will adopt the chip for mass production beginning in 2028. The launch underscores Qualcomm's push from smartphone processors and modems into the data‑center market. Qualcomm shares fell more than 5% after the announcement.
+
+---
+
+### 2026-06-25 03:13:16  #其他
+
+高通：2026 財年末汽車業務年化營收將達 60 億美元。
+
+---
+
+### 2026-06-25 03:10:23  #MKT News
+
+U.S. appeals court upholds lower-court ruling that bars the Justice Department from obtaining Michigan voter rolls.
+
+---
+
+### 2026-06-25 03:09:21  #市場
+
+在岸人民幣兌美元（CNY）北京時間03:00收報6.8092元，較週二夜盤收盤跌154點。成交量714.35億美元。
+
+---
+
+### 2026-06-25 03:07:42  #MKT News #Market Themes #AI Revolution
+
+The Wall Street Journal reports a startup founded by former Anthropic employees plans to help scientists develop their own AI.
+
+---
+
+### 2026-06-25 03:06:14  #公司
+
+巴西國家石油公司：布齊奧斯油田週二原油日產量達到 110 萬桶。
+
+---
+
+### 2026-06-25 03:05:50  #國際
+
+美國上訴法院維持原判，阻止司法部調取密歇根州選民登記名冊。
+
+---
+
+### 2026-06-25 03:04:54  #MKT News #Hang Seng Index #Impact bearish
+
+Hang Seng index futures fell 0.29% in the night session to 23,322, trading 90 points below the cash index.
+
+---
+
+### 2026-06-25 03:04:32  #其他
+
+高通：資料中心業務 2027 財年將創造數十億美元營收。
+
+---
+
+### 2026-06-25 03:04:15  #MKT News
+
+Financial Times reports prediction-market platform Kalshi is in talks to raise funding at a $40 bln valuation.
+
+---
+
+### 2026-06-25 03:03:43  #MKT News #Market Themes #Chip Wars #QCOM.O
+
+Qualcomm said it is working with a hyperscale customer to develop a new communications chip.
+
+---
+
+### 2026-06-25 03:03:28  #MKT News #Market Themes #Chip Wars #QCOM.O #Impact bullish
+
+Qualcomm launches services supporting PAM4 electrical and optical signaling.
+
+---
+
+### 2026-06-25 03:03:00  #其他
+
+市場訊息：預測交易平臺 Kalshi 洽談新一輪融資，投後估值目標 400 億美元。Kalshi 最快將於今年第三季度完成新一輪融資交割。
+
+---
+
+### 2026-06-25 03:02:20  #MKT News
+
+The White House plans to seek more than $1.4 billion from Congress to respond to the Ebola outbreak.
+
+---
+
+### 2026-06-25 03:02:15  #MKT News #Commodities #Energy #WTI #Impact bearish
+
+【Trump says Iran agreed to all his demands; notes oil below $70】NBC News reported President Trump told reporters after a closed-door lunch with Senate Republicans that Iran "agreed to all the demands I made" and that oil had "just fallen below $70." Punchbowl reporting said a Republican senator called the meeting a "venting session," and that Trump was in a bad mood, clashed with Sen. Cassidy and berated Republicans who voted to limit war powers.
+
+---
+
+### 2026-06-25 03:02:12  #其他
+
+高通：正與一家超大型雲服務商合作研發全新通訊晶片。
+
+---
+
+### 2026-06-25 03:01:36  #其他
+
+高通：推出 PAM4 電訊號與光訊號配套服務。
+
+---
+
+### 2026-06-25 03:01:08  #其他
+
+高通：推出面向資料中心的 Dragonfly C1000 處理器。
+
+---
+
+### 2026-06-25 03:00:02  #市場
+
+恒指期貨夜盤收跌0.30%，報23269.77點，低水142.41點。
+
+---
+
+### 2026-06-25 02:59:03  #其他
+
+高通資料部門主管：高通已贏得兩筆超大規模雲廠商重大訂單，將為高通帶來可觀收入。
+
+---
+
+### 2026-06-25 02:58:51  #MKT News #Market Themes #Chip Wars #Magnificent 7 #Star Stocks #Meta Platforms #QCOM.O #Impact bullish #META.O #Impact mixed
+
+Qualcomm said Meta plans to deploy Qualcomm's C1000 server CPU in Meta's data centers.
+
+---
+
+### 2026-06-25 02:58:22  #MKT News #Market Themes #Chip Wars #QCOM.O
+
+Qualcomm said the Dragonfly C1000 CPU will launch in 2028.
+
+---
+
+### 2026-06-25 02:56:37  #公司 #焦點
+
+Meta執行長馬克·扎克伯格：在多代戰略協作框架下，高通將成為Meta的資料中心CPU供應商。
+
+---
+
+### 2026-06-25 02:56:20  #其他
+
+高通：飛龍C1000伺服器CPU將於2028年推出，Meta計劃在自有資料中心採用該款處理器。
+
+---
+
+### 2026-06-25 02:55:43  #公司
+
+瑞典法院再次推遲作出Pricerunner訴谷歌反壟斷案的判決。
+
+---
+
+### 2026-06-25 02:54:57  #Trading Economics #Markets #commodity #Importance 0
+
+Brent Crude Oil is down by 5% — Brent Crude Oil decreased 5% to 73.228 USD/Bbl
+
+---
+
+### 2026-06-25 02:54:55  #國際
+
+美國眾議院議長邁克·約翰遜將於明日與特朗普會面。
+
+---
+
+### 2026-06-25 02:54:33  #公司 #市場
+
+Alphabet股價觸及盤中低點，最新跌幅接近1%，該公司宣佈將Gemini 3.5 Pro的釋出推遲至7月。
+
+---
+
+### 2026-06-25 02:53:58  #市場 #國際
+
+美國10年期國債收益率下跌10個基點至4.396%。
+
+---
+
+### 2026-06-25 02:53:56  #MKT News #Commodities #Energy
+
+Philip, secretary-general of the Gas Exporting Countries Forum (GECF), said that as the Iran war ends, natural gas demand would begin to recover in Q3.
+
+---
+
+### 2026-06-25 02:53:19  #國際
+
+天然氣出口國論壇秘書長菲利普·姆謝爾比拉表示，隨著伊朗戰爭結束，天然氣需求將在第三季度開始回升。
+
+---
+
+### 2026-06-25 02:50:59  #其他
+
+納斯達克100指數跌幅擴大至1%。
+
+---
+
+### 2026-06-25 02:50:57  #市場 #焦點
+
+高通股價迅速擴大跌幅，跌至盤中低點6%。
+
+---
+
+### 2026-06-25 02:49:32  #市場 #焦點
+
+高通股價隨成交量走高下跌，目前資料中心部門主管正在投資者日發表講話，股價跌超5%，報每股193.31美元。
+
+---
+
+### 2026-06-25 02:47:43  #MKT News #QCOM.O
+
+Qualcomm's head of data-center business said commercial samples of the firm's first-generation high-bandwidth computer, equipped with the AI250 accelerator, are expected in mid-2027.
+
+---
+
+### 2026-06-25 02:47:22  #MKT News #Market Themes #Chip Wars #QCOM.O
+
+Qualcomm's head of data center business said the company will launch a second-generation HBC chip in 2028.
+
+---
+
+### 2026-06-25 02:47:14  #市場
+
+布倫特原油期貨結算價報每桶73.74美元，下跌3.34美元，跌幅4.33%。
+
+---
+
+### 2026-06-25 02:47:11  #其他
+
+高通資料中心部門主管：高通將於2028年推出第二代HBC晶片。
+
+---
+
+### 2026-06-25 02:46:19  #其他
+
+高通資料中心主管表示，搭載AI250的高通第三代高頻寬計算晶片Gen 1預計將於2027年年中進入商業取樣階段。
+
+---
+
+### 2026-06-25 02:45:13  #MKT News #Important #Star Stocks #Microsoft #Market Themes #Chip Wars #Magnificent 7 #QCOM.O #Impact bullish #MSFT.O
+
+Qualcomm data‑center business head says Microsoft will deploy the company's high‑bandwidth compute chips in Azure data centers.
 
 ---
 
@@ -20810,359 +21278,5 @@ Trump says Iran cannot have nuclear weapons.
 ### 2026-06-24 02:56:40  #MKT News
 
 【US allows Iran team to enter US two days before next match】On June 23 the U.S. Department of Homeland Security said it has relaxed travel restrictions to allow Iran’s national football team to enter the United States two days before its June 26 group match against Egypt in Seattle; the team must depart the same night. DHS said overall security measures and procedures remain unchanged. Iran will remain based in Tijuana, Mexico, for the tournament and several team staff and federation officials continue to be barred from entry.
-
----
-
-### 2026-06-24 02:56:13  #國際
-
-【美國允許伊朗隊下一場比賽前2天入境】當地時間6月23日，美國國土安全部發言人表示，美國放寬對參加世界盃比賽的伊朗國家足球隊的旅行限制，伊朗隊將被允許在26日對陣埃及隊的比賽前兩天入境美國，但仍須在比賽結束當晚離境。發言人表示，整體安全措施和流程保持不變。由於在美國停留的限制，伊朗隊在整個世界盃賽事期間駐紮在墨西哥蒂華納，往返美國參加比賽，同時多名伊朗隊工作人員和足協官員被禁止入境。當地時間6月26日，伊朗隊將在美國西雅圖迎戰小組賽的最後一個對手埃及隊。（央視新聞）
-
----
-
-### 2026-06-24 02:55:35  #MKT News
-
-Trump on Iran: we are doing pretty well.
-
----
-
-### 2026-06-24 02:55:30  #國際
-
-特朗普談伊朗局勢：我們目前進展相當順利。
-
----
-
-### 2026-06-24 02:55:17  #MKT News #6758.T #Impact bullish
-
-Nikkei reports Sony's new image sensor increases resolution by 20% by rearranging the color filter array.
-
----
-
-### 2026-06-24 02:53:54  #MKT News #Market Themes #The Trump Trade
-
-President Trump said he may run again, asked whether he should, and said he would like to.
-
----
-
-### 2026-06-24 02:49:04  #市場
-
-納斯達克100指數跌幅擴大至3.5%，觸及盤中低點。
-
----
-
-### 2026-06-24 02:47:52  #MKT News #Nasdaq100 #Impact bearish #S&P500 #US10Y #Impact bullish
-
-【SpaceX prepares first bond sale, plans $25 billion offering】SpaceX is preparing its first bond issuance to raise $25 billion to test fixed-income investor appetite for Elon Musk’s vision for the company. Bonds would span 5- to 30-year maturities. Banks view the deal as a bellwether for further fundraising; a buy-side source said SpaceX could return in the next few years seeking roughly $10 billion more in refinancing. The planned sale comes amid a renewed large-cap tech selloff and market concern over high valuations and a rising-rate outlook.
-
----
-
-### 2026-06-24 02:43:13  #市場 #焦點
-
-紐約期銀失守62美元/盎司，日內跌6.15%。
-
----
-
-### 2026-06-24 02:42:59  #MKT News #WTI #Impact bullish #Brent
-
-Italian Prime Minister Meloni said allowing Iran to impose transit fees in the Strait of Hormuz would turn a strategic trade waterway into a geopolitical weapon and is unacceptable.
-
----
-
-### 2026-06-24 02:42:42  #Trading Economics #Markets #United States #stocks #Importance 1
-
-Tesla Stock Price Hits 7-week Low — Tesla shares decreased to 380.12 USD, the lowest since May 2026. Over the past 4 weeks, Tesla lost 12.18%, and in the last 12 months, it increased 11.84%.
-
----
-
-### 2026-06-24 02:42:14  #MKT News #Commodities #Energy #WTI #Impact mixed #Brent
-
-【Several gas exporters warn EU methane rules could threaten energy security】The US, Qatar and other natural gas exporters have urged the EU to relax parts of proposed methane-emissions rules, warning the measures could threaten EU energy security. In a letter to European leaders co-signed by Nigeria and Algeria they called for a "pragmatic approach" to clarify and amend rule details so importers can continue supplying required oil and gas. The appeal comes as the EU faces pressure to lower high energy prices and plans to boost US gas imports amid the Middle East conflict; several member states want the methane rules' impact on energy security discussed at this week's EU energy ministers meeting.
-
----
-
-### 2026-06-24 02:39:21  #MKT News #AIR.PA #Impact bearish
-
-Fuselage cracks detected on Airbus A380s operated by Emirates and Qantas; Airbus to inspect 16 A380 aircraft.
-
----
-
-### 2026-06-24 02:36:43  #其他
-
-市場訊息：阿聯酋航空、澳洲航空旗下空客 A380 客機被檢出機身裂紋。
-
----
-
-### 2026-06-24 02:36:19  #其他
-
-市場訊息：空客在發現機身裂紋後，將對 16 架 A380 客機開展檢查。
-
----
-
-### 2026-06-24 02:32:29  #MKT News
-
-The US Federal Communications Commission said wireless spectrum auctions raised more than $3.5 billion.
-
----
-
-### 2026-06-24 02:31:34  #MKT News #Commodities #Energy #WTI #Impact bearish
-
-U.S. crude futures settled at $73.21/barrel, down $0.65, or 0.88%.
-
----
-
-### 2026-06-24 02:31:29  #MKT News #Commodities #Precious Metals #Energy #XAUUSD #Impact bearish #WTI
-
-【Night session main contracts close】As of the 02:30 close, SHFE gold main contract fell 0.82% to 902 yuan/gram; SHFE silver main contract fell 4.36% to 14,868 yuan/kg; SC crude oil main contract fell 1.52% to 492 yuan/barrel.
-
----
-
-### 2026-06-24 02:31:20  #MKT News #Commodities #Precious Metals #XAUUSD #Impact bearish
-
-Shanghai Gold Exchange June 23 evening session: gold T+D closed down 0.35% at 900.43 yuan/gram; silver T+D closed down 2.75% at 14,827.0 yuan/kg.
-
----
-
-### 2026-06-24 02:31:19  #市場
-
-WTI 7月原油期貨收報73.21美元/桶。NYMEX 7月天然氣期貨收報3.1470美元/百萬英熱單位。NYMEX 7月汽油期貨收報2.9590美元/加侖，NYMEX 7月取暖油期貨收報3.1546美元/加侖。
-
----
-
-### 2026-06-24 02:31:15  #MKT News
-
-AP: A US Department of Homeland Security spokesman said the US has eased restrictions on the Iranian World Cup team, allowing the team to depart for the match venue two days before its next game.
-
----
-
-### 2026-06-24 02:30:58  #國際
-
-美國聯邦通訊委員會表示，無線頻譜拍賣募款總額超 35 億美元。
-
----
-
-### 2026-06-24 02:30:02  #市場
-
-上期所原油期貨夜盤收跌1.52%，報492.00元人民幣/桶。滬金夜盤收跌0.82%，滬銀收跌4.36%。
-
----
-
-### 2026-06-24 02:30:00  #Trading Economics #Markets #Crypto #Importance 1
-
-Crypto Updates: Ether Drops by 4.09% — Top crypto losers are Ether (-4.09%), Bitcoin (-2.60%) and Binance (-2.58%).
-
----
-
-### 2026-06-24 02:28:45  #MKT News #Market Themes #AI Revolution
-
-OpenAI opens applications for its 2026 DevDay developer conference.
-
----
-
-### 2026-06-24 02:27:34  #其他
-
-【CFA一級考試透過率降至39%】CFA協會週二公佈，5月份39%的考生透過了一級考試，低於2月的45%，也低於去年11月和8月考試的43%。雖然這一透過率低於過去十年40%的平均水平，但仍高於2021年創下的低點。據CFA的資料，5月有超過3.1萬名考生參加一級考試，為2019年以來同級考試規模最大的一次。
-
----
-
-### 2026-06-24 02:26:24  #MKT News #Market Themes #The Trump Trade
-
-FIFA president says Trump will personally present the World Cup trophy.
-
----
-
-### 2026-06-24 02:26:04  #MKT News
-
-【Rubio: Iran denies agreeing to IAEA inspections for 'internal reasons'】The New York Times reports U.S. Secretary of State Rubio said Iran, citing domestic political reasons, has denied the Switzerland agreement to allow IAEA inspections. Rubio said Iran committed to inspections and must either honor that commitment—if it does the process will move forward; if it does not, President Trump will have to decide next steps.
-
----
-
-### 2026-06-24 02:25:00  #Trading Economics #Markets #Commodity #Importance 1
-
-Agricultural Commodities Updates: Coffee Gains by 3.28% — Top commodity gainers are Coffee (3.28%), Rice (3.26%) and Rapeseed (1.12%). Biggest losers are Lumber (-2.19%) and Wheat (-1.64%).
-
----
-
-### 2026-06-24 02:23:55  #國際
-
-國際足聯主席：特朗普將親自頒發世界盃獎盃。
-
----
-
-### 2026-06-24 02:22:13  #MKT News
-
-The U.S. State Department and other regional governments issued a joint statement saying a "violent minority" is attempting to disregard the will of the majority of the Bolivian people.
-
----
-
-### 2026-06-24 02:22:01  #MKT News
-
-U.S. State Department and other regional governments said in a joint statement that attempts to overthrow Bolivia's government constitute a "serious threat" to order and stability.
-
----
-
-### 2026-06-24 02:21:53  #宏觀 #國際
-
-美國國務院聯合西半球多國發布聯合宣告：玻利維亞境內顛覆政府的各類行徑對當地秩序與穩定構成 “嚴重威脅”。
-
----
-
-### 2026-06-24 02:20:50  #MKT News
-
-【Trump approval falls to second‑term low; half of Americans say Iran war not worth it】A five‑day Refinitiv/Ipsos poll ending Monday found Trump’s approval at 34%, returning to the lowest level of his second term, last seen in April. Only 24% said a war with Iran would be worth the cost; 50% said the conflict was not worth it and the remainder were unsure. About 63% said an agreement signed by Trump was unlikely to produce lasting peace between the US and Iran.
-
----
-
-### 2026-06-24 02:19:59  #Trading Economics #Markets #Commodity #Importance 1
-
-Metals Commodities Updates: Silver Tumbles by 5.14% — Top commodity losers are Silver (-5.14%), Copper (-3.56%) and Gold (-1.61%). Gains are led by Lithium Carbonate (0.96%).
-
----
-
-### 2026-06-24 02:18:47  #公司 #國際
-
-IBM：特朗普政府將持有Anderon的股權，但不參與治理。Anderon量子晶圓代工業務將從擴建位於紐約州奧爾巴尼的設施起步。量子技術對於實現規模化製造至關重要。許多量子計算公司已表達了向Anderon採購的意向。 量子計算賽道最終只會誕生一兩家絕對頭部贏家。
-
----
-
-### 2026-06-24 02:18:37  #MKT News #IBM.O #Impact bullish
-
-IBM Research head expects one or two clear winners to emerge in the quantum computing race.
-
----
-
-### 2026-06-24 02:18:23  #MKT News
-
-IBM's head of research said many quantum computing firms have expressed interest in purchasing from Anderon.
-
----
-
-### 2026-06-24 02:18:07  #MKT News #IBM.O
-
-IBM's vice president of quantum applications said quantum technology is critical to achieving scalable manufacturing.
-
----
-
-### 2026-06-24 02:17:53  #MKT News #Market Themes #Chip Wars #IBM.N #Impact bullish
-
-IBM (IBM.N): Anderon's quantum wafer foundry will launch by expanding its facility in Albany, New York.
-
----
-
-### 2026-06-24 02:17:30  #MKT News #Market Themes #The Trump Trade
-
-IBM (IBM.N) said the Trump administration will hold an equity stake in Anderon but will not participate in governance.
-
----
-
-### 2026-06-24 02:17:16  #其他
-
-【報道：英國首相熱門人選伯納姆擬解除裡夫斯財政大臣職務】據知情人士透露，安迪·伯納姆準備解除蕾切爾·裡夫斯的財政大臣職務，但會為她提供一個內閣中的其他職位。 裡夫斯試圖在伯納姆掌權的情況下保住財政大臣職位，但並未成功。
-
----
-
-### 2026-06-24 02:15:19  #MKT News #Macro & Rates #The Fed (FOMC) #DXY #Impact bullish #EURUSD #Impact bearish #USDJPY
-
-【Fed rate‑hike bets firm; dollar hits highest since last November】The dollar rose to its strongest since last November on Tuesday as traders consolidated bets on Fed tightening, pricing nearly two 25bp hikes by early 2027. "The dollar has room to run; it tends to strengthen ahead of Fed hikes and markets are discussing a possible September start to the hiking cycle," said Mizuho strategist Jordan Rochester. The euro slid to a one‑year low after ECB President Lagarde's comments trimmed odds of further ECB rate hikes. The yen remained under pressure as markets judge BOJ tightening too slow to stop depreciation, keeping FX intervention risk elevated.
-
----
-
-### 2026-06-24 02:14:59  #Trading Economics #Markets #Commodity #Importance 1
-
-Energy Commodities Updates: Natural gas Falls by 3.36% — Top commodity losers are Natural gas (-3.36%), Methanol (-2.77%), Gasoline (-1.17%), Brent Crude Oil (-0.94%) and Crude Oil WTI (-0.92%). Gains are led by Heating Oil (2.07%), Natural Gas UK (0.83%) and Natural Gas EU (0.64%).
-
----
-
-### 2026-06-24 02:11:52  #國際
-
-據美聯社：美國放寬對伊朗世界盃球隊的限制。
-
----
-
-### 2026-06-24 02:11:24  #MKT News #Commodities #Energy #WTI #Impact bearish #Brent
-
-Kpler analyst Amena Bakr said Strait of Hormuz transit volumes rebounded to 4.8 mln b/d after detained vessels and a previously sanctioned fleet were unblocked.
-
----
-
-### 2026-06-24 02:11:04  #公司
-
-軍工初創公司Stark Defence按32億歐元估值融資5億歐元（摺合5.70億美元），紅杉資本、Peter Thiel旗下Founders Fund領投。
-
----
-
-### 2026-06-24 02:07:07  #MKT News
-
-Argentina's interbank peso closed 0.61% weaker at 1,471.5 per USD, its weakest level in eight months.
-
----
-
-### 2026-06-24 02:06:34  #市場
-
-交易商訊息：阿根廷比索銀行間匯率收盤下跌 0.61%，報 1 美元兌 1471.5 比索，創八個月新低。
-
----
-
-### 2026-06-24 02:04:37  #MKT News #WTI #Impact bullish #Brent
-
-【Dallas Fed: U.S. far more resilient to oil-price shocks than in 1980s】The Federal Reserve Bank of Dallas estimates in a new study that a recent spring oil surge above $120/bbl reduced U.S. output by roughly 0.3 percentage point, far less than similar shocks in the 1980s when U.S. oil import dependence was higher. A U.S.-backed war on Iran cut about 15% of global oil supply, disrupted Strait of Hormuz shipping, roiled commodity markets, pushed prices higher, caused regional shortages and weighed on overall demand.
-
----
-
-### 2026-06-24 02:03:28  #市場
-
-甲骨文股價創逾一個月新低，最新下跌 5.1%。
-
----
-
-### 2026-06-24 02:01:51  #央行 #市場 #國際
-
-【達拉斯聯儲：美國經濟對油價衝擊的抵抗力遠強於1980年代】美國達拉斯聯儲一項最新研究估計，去年春季油價飆升至每桶120美元以上，使美國經濟產出減少約0.3個百分點，但這一衝擊遠低於20世紀80年代類似石油衝擊造成的影響，當時美國對石油進口依賴程度更高。在美國支援下對伊朗發動的戰爭導致全球石油供應減少約15%，霍爾木茲海峽航運受阻，全球大宗商品市場陷入動盪，價格上漲、部分地區供應短缺且整體需求下降。
-
----
-
-### 2026-06-24 01:57:15  #MKT News
-
-【Israel confirms smuggling of tens of thousands of Starlink terminals into Iran】Israel’s opposition leader and former prime minister Naftali Bennett said at a June 23 public event in Jerusalem that while serving as PM in 2021–2022 he purchased and smuggled tens of thousands of Starlink user terminals into Iran to help anti-government protesters attempting to topple the regime. He said the current Netanyahu government did not continue the program.
-
----
-
-### 2026-06-24 01:57:13  #國際
-
-【以色列證實向伊朗偷運數萬星鏈】以色列反對黨領導人、前總理貝內特6月23日在耶路撒冷的一場公開活動上承認，他2021年至2022年擔任以色列總理期間，曾採購數萬臺“星鏈”接收器並偷運入伊朗，以幫助反政府抗議者試圖推翻伊朗政權。但據他稱，內塔尼亞胡領導的現任以色列政府未能持續推進該計劃。（CCTV國際時訊）
-
----
-
-### 2026-06-24 01:55:36  #公司 #國際
-
-蘇利南總理：馬來西亞國家石油公司（馬石油）在 52 號海上區塊再獲油氣新發現。
-
----
-
-### 2026-06-24 01:54:48  #Trading Economics #Markets #commodity #Importance 0
-
-Silver is down by 5% — Silver decreased 5% to 61.8 USD/t.oz
-
----
-
-### 2026-06-24 01:52:38  #MKT News
-
-Financial Times reported SpaceX (SPCX.O) drew roughly $90 bln of orders for a $25 bln bond offering by midday local time.
-
----
-
-### 2026-06-24 01:52:31  #其他
-
-市場訊息：SpaceX 此次 250 億美元債券發行，午間時段認購訂單規模接近 900 億美元。
-
----
-
-### 2026-06-24 01:51:04  #Trading Economics #Markets #United States #stocks #Importance 1
-
-CME Stock Price Hits 16-month Low — CME shares decreased to 244.52 USD, the lowest since February 2025. Over the past 4 weeks, CME lost 13.42%, and in the last 12 months, it decreased 9.86%.
-
----
-
-### 2026-06-24 01:44:29  #MKT News
-
-【Paris's Louvre to close early for four days amid heat wave】On June 23 (local time) Paris's Louvre Museum said it will shorten daily hours from June 24–27, closing at 16:00 instead of 18:00, citing sustained high temperatures. The museum said heat is accumulating inside the historic building and, despite some heat resistance, it cannot fully cope with current conditions; combined with high visitor numbers, overheating is most pronounced in the afternoon.
 
 ---
