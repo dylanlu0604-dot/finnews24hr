@@ -1,7 +1,241 @@
 {
-  "updated": "2026-06-25 16:09:48",
-  "count": 16967,
+  "updated": "2026-06-25 16:13:43",
+  "count": 16975,
   "items": [
+    {
+      "id": "mkt:019efdd7-04c4-7dd8-b112-e93eb18a9a1d",
+      "time": "2026-06-25 16:13:07",
+      "tags": [
+        "MKT News",
+        "Hang Seng Index",
+        "Impact bearish",
+        "Hang Seng Tech Index",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "【Hong Kong close: HSI down 1.43%, Hang Seng Tech down 1.63%】At the close in Hong Kong, the Hang Seng Index fell 1.43% and the Hang Seng Tech Index fell 1.63%; total turnover was HKD 325.8 bln. Weakness was concentrated in copper miners, nonferrous metals, gold, coal and robotics; gains were led by storage, semiconductor and brain–computer interface names. Notable movers: Sunny Optical (02382.HK) down >11%, Zhaojin Mining (01818.HK) down >8%, China Coal Energy (01898.HK) and Zijin Mining (02899.HK) down >4%; GigaDevice (03986.HK) up >12%, Zhipu (02513.HK) up >8%, Leapmotor (09863.HK) up >5%, Lens Technology (06613.HK) up ~5%."
+    },
+    {
+      "id": "mkt:019efdd6-f9ac-7dd8-b112-e05cc28b1f0b",
+      "time": "2026-06-25 16:13:04",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "GBPUSD",
+        "Impact bullish",
+        "FTSE100",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "UK Chancellor Reeves said Burnham had made clear he was committed to adhering to the UK's fiscal rules."
+    },
+    {
+      "id": "4954569",
+      "time": "2026-06-25 16:13:03",
+      "tags": [
+        "其他"
+      ],
+      "text": "【澳報告稱中國擴充高超音速武器庫，國防部答澎湃：勿罔顧事實，自己給自己加戲】6月25日，國防部舉行例行記者會，國防部新聞發言人張曉剛大校答記者問。記者提問，澳大利亞智庫洛伊研究所日前釋出報告表示，中國在擴充高超音速武器庫，增強了對澳打擊能力。請問對此有何評論？張曉剛表示，中國始終奉行防禦性國防政策，發展軍力是為了維護國家主權安全發展利益，既不針對任何國家，也不會對任何國家構成威脅。中國軍事力量的增長始終是世界和平力量的增長。我們奉勸有關方，不要罔顧事實，自己給自己加戲，渲染所謂“中國軍事威脅”，誤導輿論。（澎湃）"
+    },
+    {
+      "id": "mkt:019efdd6-bebc-7dd8-b112-dc238744ea62",
+      "time": "2026-06-25 16:12:49",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "UK Chancellor Reeves says Labour still has unfinished work on fiscal devolution."
+    },
+    {
+      "id": "te:economy:561822",
+      "time": "2026-06-25 16:12:44",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Italy",
+        "Manufacturing Sales",
+        "Importance 1"
+      ],
+      "text": "Italy Industrial Sales Growth Slows — Italy’s industrial turnover rose by 0.3% month-on-month in April 2026, slowing from a downwardly revised 1.8% increase March, which had marked the highest growth since September 2025. Growth in domestic sales eased to 0.8% from 2.2%, while foreign sales fell by 0.6%, reversing a 1.2% gain in the previous month. On a yearly basis, industrial turnover, adjusted for calendar effects, increased by 3.2%, after a downwardly revised 4.2% growth in March. Sales growth slowed in both the domestic market (3.5% vs 4.4%) and foreign markets (2.6% vs 3.9%). By industrial grouping, consumer goods were the only category to record a decline (-3.5%), while energy posted a sharp increase (+37.1%) and intermediate goods (+4.7%) and capital goods (+0.8%) also went up."
+    },
+    {
+      "id": "4954568",
+      "time": "2026-06-25 16:12:23",
+      "tags": [
+        "公司"
+      ],
+      "text": "【華森製藥：痛瀉寧顆粒獲批國家首家中藥二級保護品種，保護期限七年】華森製藥公告，近日國家藥品監督管理局批准公司生產的痛瀉寧顆粒為首家中藥二級保護品種，保護品種編號為ZYB2072026018，保護期限自公告之日起七年。痛瀉寧顆粒是首個上市治療腸易激綜合徵腹瀉型（IBS-D）的中成藥，為中藥創新1.1類新藥、國家醫保品種。本次獲批將加強該品種的智慧財產權保護，對生產經營產生積極影響，短期內不會對公司經營業績產生重大影響。"
+    },
+    {
+      "id": "4954567",
+      "time": "2026-06-25 16:12:18",
+      "tags": [
+        "國際"
+      ],
+      "text": "卡達簽署關於歐盟甲烷監管規則的聯合公開信。"
+    },
+    {
+      "id": "4954566",
+      "time": "2026-06-25 16:12:14",
+      "tags": [
+        "其他"
+      ],
+      "text": "裡夫斯：工黨在財政分權事宜上仍有未完成的工作。"
+    },
+    {
+      "id": "4954565",
+      "time": "2026-06-25 16:12:03",
+      "tags": [
+        "公司"
+      ],
+      "text": "【尖峰集團：子公司獲注射用氯諾昔康8mg註冊證書】尖峰集團公告，全資子公司浙江尖峰藥業有限公司近日收到國家藥品監督管理局核准簽發的注射用氯諾昔康《藥品註冊證書》，規格為8mg，註冊分類為化學藥品4類。該藥品適用於手術後急性中度疼痛的短期治療，截至公告日國內已有28家公司獲准註冊。本次獲得註冊證書標誌著尖峰藥業具有該藥品生產、銷售資格，將進一步豐富公司產品線。該專案研發投入約359.81萬元。"
+    },
+    {
+      "id": "te:economy:561821",
+      "time": "2026-06-25 16:11:57",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "PCE Price Index Monthly Change",
+        "Importance 2"
+      ],
+      "text": "US PCE Inflation Expected to Accelerate in May — The US PCE price index is expected to rise 0.5% month-over-month in May 2026, accelerating from a 0.4% increase in April, as higher energy costs linked to the conflict with Iran continue to put upward pressure on prices. The core PCE index, which excludes food and energy, is projected to increase 0.3%, up from 0.2% in the previous month. On an annual basis, headline PCE inflation is forecast to accelerate for a third consecutive month to 4.1%, the highest reading since April 2023, compared with 3.8% in April. Core PCE inflation is also expected to edge higher to 3.4% from 3.3%, marking its strongest pace since late 2023. Overall, the report is likely to reinforce the view that inflationary pressures remain elevated in the US economy. Reflecting these concerns, the Federal Reserve raised its inflation projections at its June 2026 meeting, forecasting PCE inflation at 3.6% and core PCE inflation at 3.3% for the year, both remaining well above the Fed's 2% target."
+    },
+    {
+      "id": "4954564",
+      "time": "2026-06-25 16:11:56",
+      "tags": [
+        "公司"
+      ],
+      "text": "【天絲集團與中石化、中石油零售板塊達成戰略合作】天絲集團與中石化易捷正式舉行戰略合作簽約儀式。同時，該集團近期亦與中國石油零售板塊達成戰略合作。天絲集團稱，兩項合作均聚焦全國加油站便利店渠道，圍繞全域鋪貨、專屬產品定製、終端場景營銷、數字化供應鏈搭建、綠色低碳流通等維度展開協同。這些戰略合作落地後，天絲集團能依託中國石化、中國石油覆蓋全國的終端網路，完善商超、便利店、線上電商、能源加油站四大核心渠道矩陣。"
+    },
+    {
+      "id": "4954563",
+      "time": "2026-06-25 16:11:35",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【亞馬遜追加130億美元印度AI及雲基礎設施投資，2026至2030年總投入超210億美元】亞馬遜執行長安迪·賈西6月25日在新德里與印度總理莫迪會面，宣佈將追加130億美元用於在印度擴建AI及雲基礎設施，投資期限至2030年。此次追加投資使亞馬遜2026至2030年間在印度AI及雲領域的總規劃投入超過210億美元，成為印度最大規模全球AI及雲基礎設施投資者之一。新增投資將用於擴充套件AWS在孟買和海得拉巴兩個區域的資料中心容量，為初創企業、大型企業及政府機構提供包括Trainium定製AI晶片、Amazon Bedrock推理引擎在內的AI及雲服務。"
+    },
+    {
+      "id": "4954562",
+      "time": "2026-06-25 16:11:24",
+      "tags": [
+        "觀點"
+      ],
+      "text": "【摩根大通：記憶體作為通用人工智慧中戰略資產的作用依然不變】摩根大通分析師週四在一份報告中表示：“記憶體短缺是由對AI工廠基礎設施的爆炸性需求引發的……我們認為，記憶體作為通用人工智慧（AGI）中戰略資產的作用依然不變。”他們補充道，目前幾乎沒有跡象表明會出現需求破壞或記憶體含量最佳化，從而緩解供需失衡。"
+    },
+    {
+      "id": "mkt:019efdd5-12e4-7dd8-b112-d7895753bfc2",
+      "time": "2026-06-25 16:11:00",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Emerging Markets",
+        "Star Stocks",
+        "Amazon",
+        "Market Themes",
+        "Magnificent 7",
+        "AMZN.O"
+      ],
+      "text": "Amazon.com Inc (AMZN.O) said cumulative investment in India from 2010 through 2030 will exceed $88 billion."
+    },
+    {
+      "id": "4954561",
+      "time": "2026-06-25 16:10:57",
+      "tags": [
+        "其他"
+      ],
+      "text": "【2026黃河流域跨境電商博覽會在青島舉行】6月25日，以“黃河啟新程 出海新引擎”為主題的2026黃河流域跨境電商博覽會在青島開幕。本屆博覽會設定有家居日用消費品、玩具電子母嬰美妝、戶外園藝寵物、黃河流域特色產業帶、跨境電商平臺及服務商等專業展區，為參展企業和採購商搭建起高效的產業出海對接平臺。（新華社）"
+    },
+    {
+      "id": "4954560",
+      "time": "2026-06-25 16:10:45",
+      "tags": [
+        "其他"
+      ],
+      "text": "伊拉克表示目前無意退出歐佩克。"
+    },
+    {
+      "id": "4954559",
+      "time": "2026-06-25 16:10:40",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國財政大臣裡夫斯：伯納姆明確表示會恪守英國財政規則。"
+    },
+    {
+      "id": "mkt:019efdd4-b1ce-7dd8-b112-c8d77c7f8e75",
+      "time": "2026-06-25 16:10:35",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "EURUSD",
+        "Impact bearish",
+        "DAX"
+      ],
+      "text": "German Mechanical Engineering Industry Association (VDMA) downgraded its 2026 production forecast to zero growth from a prior projection of 1% growth."
+    },
+    {
+      "id": "4954557",
+      "time": "2026-06-25 16:10:03",
+      "tags": [
+        "其他"
+      ],
+      "text": "裡夫斯稱安迪·伯納姆將出任下一任英國首相。"
+    },
+    {
+      "id": "te:markets:561820",
+      "time": "2026-06-25 16:10:02",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Agricultural Commodities Updates: Wool Drops by 2.31% — Top commodity losers are Wool (-2.31%), Palm Oil (-1.77%) and Canola (-0.62%). Gains are led by Cotton (0.74%) and Oat (0.54%)."
+    },
+    {
+      "id": "4954556",
+      "time": "2026-06-25 16:09:45",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "亞馬遜：2010至2030年在印度累計投資將超880億美元。"
+    },
+    {
+      "id": "4954555",
+      "time": "2026-06-25 16:09:32",
+      "tags": [
+        "兩會"
+      ],
+      "text": "【江西省商務廳原黨組書記、廳長謝一平等4人被提起公訴】最高檢6月25日通報，檢察機關依法分別對江西省商務廳原黨組書記、廳長謝一平，雲南省政協教科衛體委員會原分黨組書記、主任譚亞原，雲南省森林消防總隊原黨委委員、副總隊長兼保障部部長羅爽，寧夏回族自治區體育局原黨組成員、副局長張梅提起公訴。"
+    },
+    {
+      "id": "mkt:019efdd3-a994-7dd8-b112-c3ee5e92c68c",
+      "time": "2026-06-25 16:09:27",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Wall Street (US)",
+        "TCOM.O",
+        "Impact bearish"
+      ],
+      "text": "Trip.com Group (TCOM.O) U.S. shares fell 13.5% in pre-market trade after weak first-quarter results."
+    },
+    {
+      "id": "4954554",
+      "time": "2026-06-25 16:09:18",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "攜程在美上市股票盤前下跌13.5%，此前該集團公佈一季度業績。"
+    },
     {
       "id": "mkt:019efdd3-755b-7dd8-b112-bbf6ad4020ae",
       "time": "2026-06-25 16:09:14",
@@ -154697,160 +154931,6 @@
         "Brent"
       ],
       "text": "IEA Executive Director Birol said he hopes Iran and the United States can reach a lasting peace and that the strait can be open."
-    },
-    {
-      "id": "mkt:019ed9ca-e1a4-7dd8-b073-7de09064f946",
-      "time": "2026-06-18 16:13:32",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Kremlin foreign-policy adviser said dates for visits by U.S. special envoy Witkov and Trump son-in-law Kushner have not been set."
-    },
-    {
-      "id": "4942895",
-      "time": "2026-06-18 16:13:22",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "瑞士央行行長：如有必要，我們干預外匯市場的意願將會更強，目前難以判定這種意願相比之前是升還是降。"
-    },
-    {
-      "id": "4942894",
-      "time": "2026-06-18 16:13:12",
-      "tags": [
-        "其他"
-      ],
-      "text": "克里姆林宮外交政策助理：威特科夫和庫什納的訪問日期尚未確定。"
-    },
-    {
-      "id": "mkt:019ed9ca-746f-7dd8-b073-70472a89d9fd",
-      "time": "2026-06-18 16:13:04",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "Shanghai Futures Exchange (SHFE) weekly on-exchange inventories: copper down 44,372 t; aluminum down 1,540 t; zinc down 1,929 t; lead unchanged; nickel up 2,414 t; tin down 785 t; natural rubber down 160 t."
-    },
-    {
-      "id": "4942893",
-      "time": "2026-06-18 16:13:02",
-      "tags": [
-        "其他"
-      ],
-      "text": "上期所：本週銅庫存減少44372噸，鋁庫存減少1540噸，鋅庫存減少1929噸，鉛庫存不變，鎳庫存增加2414噸，錫庫存減少785噸，天然橡膠庫存減少160噸。"
-    },
-    {
-      "id": "4942892",
-      "time": "2026-06-18 16:12:44",
-      "tags": [
-        "國際"
-      ],
-      "text": "克里姆林宮外交政策顧問：歐洲人錯誤地認為戰場形勢正在向烏克蘭傾斜。"
-    },
-    {
-      "id": "mkt:019ed9ca-12f3-7dd8-b073-6c977ed090ef",
-      "time": "2026-06-18 16:12:39",
-      "tags": [
-        "MKT News",
-        "DXY",
-        "Impact bullish",
-        "XAUUSD",
-        "WTI"
-      ],
-      "text": "Kremlin foreign-policy adviser says Europeans are mistaken to believe the battlefield is shifting in Ukraine's favor."
-    },
-    {
-      "id": "4942891",
-      "time": "2026-06-18 16:12:26",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "瑞士央行行長：不確定性仍處於高位，能源市場目前主要受中東局勢影響。"
-    },
-    {
-      "id": "4942890",
-      "time": "2026-06-18 16:12:11",
-      "tags": [
-        "其他"
-      ],
-      "text": "【端午假期，4條兩岸“小三通”客運航線預計傳送旅客2.3萬人次】端午假期，兩岸“小三通”客運航線將迎來客流高峰。據福建海事局預計，端午假期三天，4條兩岸“小三通”客運航線預計傳送旅客2.3萬人次，同比增長21%。其中廈金“小三通”航線預計傳送旅客近2萬人次，同比增長16%，兩馬、黃馬“小三通”航線預計共傳送旅客1680人次，同比增長50.4%。假期期間，廈金、黃馬“小三通”航線將適時增開船班，滿足群眾出行需求。"
-    },
-    {
-      "id": "mkt:019ed9c9-4333-7dd8-b073-6459a587721f",
-      "time": "2026-06-18 16:11:46",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "U.S. Defense Minister Hegseth said NATO has long been a paper tiger and a one-way street, and that must change."
-    },
-    {
-      "id": "mkt:019ed9c8-f912-7dd8-b073-583bbb54d957",
-      "time": "2026-06-18 16:11:27",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "Hang Seng Index",
-        "Impact bearish"
-      ],
-      "text": "Hong Kong's Hang Seng Index (HSI) closed down 387.35 points (-1.59%) at 23,924.81 on Thursday, June 18. The Hang Seng Tech Index fell 64.72 points (-1.39%) to 4,604.35. The Hang Seng China Enterprises Index (HSCEI) dropped 167.99 points (-2.06%) to 7,976.04. The Hang Seng Red Chip Index slid 162.24 points (-3.89%) to 4,009.59."
-    },
-    {
-      "id": "4942889",
-      "time": "2026-06-18 16:11:08",
-      "tags": [
-        "其他"
-      ],
-      "text": "【陝西釋出國際養老人才培養專案】據陝西省社會福利與養老服務協會訊息：日前，由該協會、西安市慈善會聯合發起的國際養老人才培養專案正式釋出。該專案將於今年9月啟動首批招生，計劃招收200名學員赴海外開展介護技能深造，標誌著陝西養老人才培養邁出國際化步伐。據介紹，該專案將打造“留學—研修—本土轉化”相貫通的人才培養鏈條，創新構建“心理、醫學、社會”三維培訓體系，重點聚焦認知症科學照護、終末期人文關懷、從業者綜合素養培育三大領域。同時，還將拓寬從初級護理員到國際介護師的職業晉升通道，探索“慈善+養老”人才留用模式，形成可複製、可推廣的養老人才培養“陝西方案”。"
-    },
-    {
-      "id": "4942888",
-      "time": "2026-06-18 16:10:44",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "克里姆林宮稱，在七國集團峰會後，沒有與美國聯絡。"
-    },
-    {
-      "id": "te:economy:560019",
-      "time": "2026-06-18 16:10:26",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Italy",
-        "Current Account",
-        "Importance 1"
-      ],
-      "text": "Italy Current Account Surplus Widens Sharply in April — Italy posted a current account surplus of EUR 2.3 billion in April 2026, more than doubling the EUR 1.1 billion in the corresponding month last year. The goods surplus expanded sharply to EUR 5.0 billion from EUR 3.3 billion. The secondary income deficit narrowed to EUR 0.9 billion from EUR 1.1 billion. On the other hand, the deficits in the services account (EUR -0.5 billion vs EUR -0.2 billion in April 2025) and the primary income (EUR -1.3 billion vs EUR -0.9 billion) widened."
-    },
-    {
-      "id": "mkt:019ed9c7-e6b3-7dd8-b073-5353261244f7",
-      "time": "2026-06-18 16:10:17",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Greater China",
-        "Hang Seng Index",
-        "Impact bearish",
-        "00688.HK",
-        "01109.HK"
-      ],
-      "text": "Hong Kong stocks closed lower: Hang Seng fell 1.59%, Hang Seng TECH fell 1.39%. CAOCAO (02643.HK) slid over 15%; China Overseas Land & Investment (00688.HK) fell about 9%; CHINA RES LAND (01109.HK) dropped 7.3%. Zhipu (02513.HK) jumped over 26% to a record high; MINIMAX-W (00100.HK) rose over 12%."
-    },
-    {
-      "id": "te:markets:560018",
-      "time": "2026-06-18 16:09:59",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Agricultural Commodities Updates: Rubber Drops by 1.47% — Top commodity losers are Rubber (-1.47%) and Cotton (-0.53%). Gains are led by Oat (1.06%), Rice (0.76%) and Wheat (0.56%)."
     }
   ]
 }
