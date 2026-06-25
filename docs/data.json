@@ -1,7 +1,245 @@
 {
-  "updated": "2026-06-25 23:02:03",
-  "count": 16955,
+  "updated": "2026-06-25 23:06:17",
+  "count": 16970,
   "items": [
+    {
+      "id": "mkt:019eff50-9232-7dd8-b11f-fdb999dee7d7",
+      "time": "2026-06-25 23:05:30",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "UK Maritime Trade Operations reported a merchant vessel was struck by unidentified ordnance near Oman; the captain said there were no casualties and no environmental impact."
+    },
+    {
+      "id": "4955498",
+      "time": "2026-06-25 23:05:17",
+      "tags": [
+        "其他"
+      ],
+      "text": "國際貨幣基金組織：儘管工作人員報告指出還款能力面臨特殊風險，但仍對阿根廷繼續償還基金持有信心。"
+    },
+    {
+      "id": "4955497",
+      "time": "2026-06-25 23:05:09",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "國際貨幣基金組織：美國經濟增長勢頭強勁，第一季度增長超過初步預期。"
+    },
+    {
+      "id": "4955496",
+      "time": "2026-06-25 23:05:06",
+      "tags": [
+        "國際"
+      ],
+      "text": "國際貨幣基金組織：印度經濟動能“相當強勁”，仍然是全球經濟的增長引擎。自美國與伊朗達成協議以來，觀察到來自海灣地區的能源、肥料和基礎金屬價格下降，但完全恢復正常還需一些時間。"
+    },
+    {
+      "id": "4955495",
+      "time": "2026-06-25 23:04:53",
+      "tags": [
+        "市場"
+      ],
+      "text": "WTI原油日內漲1%，現報71.05美元/桶。"
+    },
+    {
+      "id": "4955494",
+      "time": "2026-06-25 23:04:48",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國海事貿易運營局（UKMTO）表示，一艘貨輪右舷被未知發射物擊中，造成駕駛臺受損。"
+    },
+    {
+      "id": "mkt:019eff4f-c4ea-7dd8-b11f-f0e3495955ff",
+      "time": "2026-06-25 23:04:38",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "UK Maritime Trade Operations (UKMTO) said it received reports of an incident 7.5 nautical miles southeast of Amandashit."
+    },
+    {
+      "id": "4955493",
+      "time": "2026-06-25 23:04:22",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國海事組織收到報告稱，在阿曼達希特島東南7.5海里處發生一起事故。"
+    },
+    {
+      "id": "4955492",
+      "time": "2026-06-25 23:04:11",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "WTI原油突破71美元/桶，日內漲0.94%。"
+    },
+    {
+      "id": "4955491",
+      "time": "2026-06-25 23:04:07",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "國際貨幣基金組織：關於伊朗戰爭影響的主要擔憂集中在那些財政緩衝或石油儲備有限的淨能源進口國，特別是非洲國家。歡迎美聯儲主席沃什對實現價格穩定的堅定承諾。我們並未參與委內瑞拉宣佈的債務重組過程。正在密切關注委內瑞拉的局勢，並與委內瑞拉當局保持溝通，以評估地震後的需求。"
+    },
+    {
+      "id": "mkt:019eff4f-1691-7dd8-b11f-eafe8bb291b4",
+      "time": "2026-06-25 23:03:53",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Hungary's prime minister magyar said the government will discuss preliminary 2026 budget figures this weekend."
+    },
+    {
+      "id": "mkt:019eff4e-e954-7dd8-b11f-e4670cff9358",
+      "time": "2026-06-25 23:03:42",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "IMF says it remains confident Argentina will continue repaying the Fund despite a staff report warning of specific risks to repayment capacity."
+    },
+    {
+      "id": "mkt:019eff4e-b5d1-7dd8-b11f-dbfe157caa96",
+      "time": "2026-06-25 23:03:28",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "US Economy",
+        "S&P500",
+        "Impact bullish",
+        "DXY",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "IMF says US economic momentum remains strong; Q1 growth exceeded initial expectations."
+    },
+    {
+      "id": "mkt:019eff4e-7e7e-7dd8-b11f-d306352b9ed5",
+      "time": "2026-06-25 23:03:14",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "IMF says it remains in contact with Venezuelan authorities, is monitoring the macroeconomic outlook and stands ready to assist with debt restructuring if needed."
+    },
+    {
+      "id": "4955490",
+      "time": "2026-06-25 23:03:12",
+      "tags": [
+        "其他"
+      ],
+      "text": "國際貨幣基金組織（IMF）：全球通脹預期保持穩定，金融環境維持寬鬆。"
+    },
+    {
+      "id": "4955489",
+      "time": "2026-06-25 23:03:09",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "巴西央行行長：貨幣政策未有任何形式的改變。"
+    },
+    {
+      "id": "mkt:019eff4e-405a-7dd8-b11f-ccf3a45481a5",
+      "time": "2026-06-25 23:02:58",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent",
+        "Copper"
+      ],
+      "text": "The International Monetary Fund said that since the US and Iran reached an agreement, Gulf-origin energy, fertilizer and base metal prices have declined, but full normalization will take time."
+    },
+    {
+      "id": "mkt:019eff4e-0f9d-7dd8-b11f-c52a9c17155d",
+      "time": "2026-06-25 23:02:46",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "IMF says India's economic momentum is 'quite strong' and it remains a growth engine for the global economy."
+    },
+    {
+      "id": "4955488",
+      "time": "2026-06-25 23:02:44",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "巴西央行行長：我們的溝通問題可能在於試圖解釋得太多，而非缺乏透明度。"
+    },
+    {
+      "id": "mkt:019eff4d-eec4-7dd8-b11f-bc46e3f947dd",
+      "time": "2026-06-25 23:02:37",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "IMF says global inf expectations remain stable and financial conditions are accommodative."
+    },
+    {
+      "id": "4955487",
+      "time": "2026-06-25 23:02:33",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "國際貨幣基金組織：將於7月8日釋出《世界經濟展望》的更新版本，屆時將決定是繼續採用三種情景，還是迴歸傳統的基線預測。"
+    },
+    {
+      "id": "mkt:019eff4d-ca09-7dd8-b11f-b507bab76815",
+      "time": "2026-06-25 23:02:28",
+      "tags": [
+        "MKT News",
+        "Important",
+        "DXY",
+        "Impact mixed",
+        "S&P500",
+        "US10Y"
+      ],
+      "text": "IMF will publish an updated World Economic Outlook on July 8 and decide whether to continue using a three-scenario framework or revert to a traditional baseline forecast."
+    },
+    {
+      "id": "4955486",
+      "time": "2026-06-25 23:02:21",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "國際貨幣基金組織：美聯儲在進一步的政策行動上必須謹慎行事。"
+    },
+    {
+      "id": "mkt:019eff4d-57f3-7dd8-b11f-a830695f48f8",
+      "time": "2026-06-25 23:01:59",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "IMF is closely monitoring the situation in Venezuela and is in contact with Venezuelan authorities to assess post-earthquake needs."
+    },
+    {
+      "id": "mkt:019eff4d-3e43-7dd8-b11f-a5d67f7556bc",
+      "time": "2026-06-25 23:01:52",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "IMF said the Fed's decision last week to hold interest rates unchanged was appropriate."
+    },
+    {
+      "id": "mkt:019eff4d-03c8-7dd8-b11f-9bf4debe81ab",
+      "time": "2026-06-25 23:01:37",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "By 23:00 local close, China's domestic front-month commodity futures were mixed. Decliners: 20# rubber down over 3%, rubber down nearly 2%, iron ore and coke down more than 1%, soda ash down nearly 1%. Advancers: propylene up nearly 3%, low-sulfur fuel oil (LU) and LPG up more than 2%, polypropylene up nearly 2%, Soybean No.1, fuel oil and palm oil up more than 1%."
+    },
     {
       "id": "mkt:019eff4c-db73-7dd8-b11f-965b64e22e63",
       "time": "2026-06-25 23:01:27",
@@ -9,6 +247,14 @@
         "MKT News"
       ],
       "text": "IMF said it did not participate in the debt restructuring announced by Venezuela."
+    },
+    {
+      "id": "4955485",
+      "time": "2026-06-25 23:01:26",
+      "tags": [
+        "其他"
+      ],
+      "text": "匈牙利總理：政府將於本週末討論2026年預算的初步資料。"
     },
     {
       "id": "4955484",
@@ -154896,104 +155142,6 @@
         "Importance 1"
       ],
       "text": "Argentina Consumer Confidence Rises In June — Argentina’s consumer confidence index rose 6.41% month-over-month to 42.71 points in June 2026. All sub-indexes advanced, with the strongest gain in Durable Goods and Real Estate (7.80%), followed by Personal Situation (7.79%), while the Macroeconomic Situation index rose 4.37%. Both Present Conditions and Future Expectations improved, with Present Conditions posting the sharper increase at 8.77% and Future Expectations rising 4.85%. By region, confidence increased across all areas, led by Greater Buenos Aires (10.01%), followed by Buenos Aires (4.78%) and the Interior (2.06%). The Interior continued to record the highest reading at 46.33 points, while Greater Buenos Aires remained the lowest at 40.70 points. By income level, confidence rose in both segments, with lower-income households up 7.16% and higher-income households increasing 5.34%. Higher-income households continued to post the stronger reading at 44.09 points, compared with 40.66 points for lower-income households."
-    },
-    {
-      "id": "4943850",
-      "time": "2026-06-18 23:06:12",
-      "tags": [
-        "公司"
-      ],
-      "text": "蘋果公司：巴西iOS系統更新將包含全新防護機制，助力降低隱私與安全風險。"
-    },
-    {
-      "id": "4943849",
-      "time": "2026-06-18 23:06:06",
-      "tags": [
-        "國際"
-      ],
-      "text": "【加拿大警方逮捕美國領事館槍擊案嫌犯】當地時間6月18日，加拿大多倫多警方宣佈，涉嫌參與今年3月發生在美國駐多倫多領事館槍擊案的一名19歲嫌犯扎拉·賈比已被逮捕。另一名嫌疑人，18歲的謝爾頓·特雷西-斯圖爾特，此前於6月11日被捕。扎拉·賈比面臨多項指控，包括盜竊機動車、持有犯罪所得財物、在公共場所非法使用受限或違禁槍支以及襲擊受國際保護人員住所，他將於當天晚些時候出庭受審。（央視）"
-    },
-    {
-      "id": "4943848",
-      "time": "2026-06-18 23:05:50",
-      "tags": [
-        "公司"
-      ],
-      "text": "蘋果公司：將繼續與監管機構合作，強化對iOS使用者的保護措施。"
-    },
-    {
-      "id": "4943847",
-      "time": "2026-06-18 23:05:04",
-      "tags": [
-        "其他"
-      ],
-      "text": "四川宜賓警方通報“159瓶茅臺被跨省扣押3年後多瓶失蹤”。"
-    },
-    {
-      "id": "4943846",
-      "time": "2026-06-18 23:04:54",
-      "tags": [
-        "公司"
-      ],
-      "text": "蘋果公司：巴西iOS系統調整內容包括為開發者提供應用分發與支付處理的新選項。"
-    },
-    {
-      "id": "4943845",
-      "time": "2026-06-18 23:04:24",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：我很有可能在內塔尼亞胡的選舉中為其站臺，但我還想了解其他候選人。他行事應當更理性些。"
-    },
-    {
-      "id": "4943844",
-      "time": "2026-06-18 23:03:56",
-      "tags": [
-        "公司"
-      ],
-      "text": "沙特紅海全球執行長約翰·帕加諾表示，該公司將承擔NEOM辛達拉豪華島專案的運營責。"
-    },
-    {
-      "id": "4943843",
-      "time": "2026-06-18 23:03:39",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【霍爾木茲海峽交通量增加之際，油價擴大跌幅】隨著美伊協議簽署後市場將焦點轉向船隻透過霍爾木茲海峽的動向，原油期貨擴大跌幅。Ritterbusch & Associates在一份報告中表示，“圍繞海峽開放的看跌狂熱情緒與供應極低的看漲因素之間的鮮明對比，可能會持續到下週。”該公司補充說，恢復供應水平需要時間，“甚至在8月份或更晚之前都不太可能達到戰前產能的50%-60%”，而補充耗盡的庫存將推動需求大幅增加。西得州中質油下跌3.6%，報每桶74.02美元；布倫特原油下跌3.2%，報每桶77.01美元。"
-    },
-    {
-      "id": "4943842",
-      "time": "2026-06-18 23:02:41",
-      "tags": [
-        "公司"
-      ],
-      "text": "蘋果公司：巴西地區絕大多數開發者的蘋果應用商店佣金降至10%，數字商品佣金為21%。"
-    },
-    {
-      "id": "4943841",
-      "time": "2026-06-18 23:02:33",
-      "tags": [
-        "其他"
-      ],
-      "text": "蘋果將在巴西增設第三方應用商店相關配套選項。"
-    },
-    {
-      "id": "4943840",
-      "time": "2026-06-18 23:02:21",
-      "tags": [
-        "其他"
-      ],
-      "text": "桑切斯表示支援伊美協議。"
-    },
-    {
-      "id": "4943839",
-      "time": "2026-06-18 23:02:10",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "亞馬遜股價飆升至盤中高點，上漲1.8%。訊息面上，亞馬遜正洽談向其他公司出售與英偉達晶片競爭的產品。"
     }
   ]
 }
