@@ -1,7 +1,52 @@
 {
-  "updated": "2026-06-26 07:52:56",
-  "count": 16955,
+  "updated": "2026-06-26 07:56:56",
+  "count": 16950,
   "items": [
+    {
+      "id": "4955985",
+      "time": "2026-06-26 07:56:15",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金失守4030美元/盎司，日內跌0.44%。"
+    },
+    {
+      "id": "4955984",
+      "time": "2026-06-26 07:56:02",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "領益智造透過發行股票籌集了83億港元資金，並將於週五登陸港交所。同日還有另外五家公司上市，包括晶片製造商聖邦股份、晶片製造裝置廠商芯碁微裝以及印尼礦商PT Merdeka Gold Resources。"
+    },
+    {
+      "id": "4955983",
+      "time": "2026-06-26 07:53:54",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "【國金證券：美光科技推進長協落地 供需缺口有望持續】國金證券研報認為，美光科技推進長協落地，供需缺口有望持續。美光科技已經與客戶完成16個SCA（戰略客戶合作協議），下游涵蓋資料中心、消費電子、汽車市場。SCA中汽車客戶簽訂時間為三年，其他客戶基本為五年。16個SCA協議已經佔到美光科技20%的DRAM出貨量，1/3的NAND出貨量。美光科技簽訂的SCA的價格區間中下限也可以帶來超過過去週期頂點的盈利能力。美光科技預計2027年DRAM與NAND供應將持續緊張。國金證券認為儲存行業供給有望持續緊張，美光科技有望持續維持高盈利能力。美光科技與下游客戶推進長協簽訂，有望降低公司產品出貨價的週期性波動，降低公司業績週期性。"
+    },
+    {
+      "id": "4955982",
+      "time": "2026-06-26 07:53:41",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【蘋果供應商領益智造完成83億港元股票發行交易 今日將登陸港交所】在香港今年上市交易數量最高的一個月中，中國電子裝置製造商領益智造透過發行股票籌集了83億港元（10.6億美元）資金，並將於週五登陸當地交易所。這家此前已在深圳上市的蘋果供應商，將本次發行價格定在每股10.18港元，即推介區間頂部，並吸引了包括廣發基金、Qube Research & Technologies和惠理集團等基石投資者。該股週四在暗盤市場一度上漲22%。其發行價較該公司A股週四的收盤價折讓了51%。這是香港今年4月以來的最大上市交易，當地本月新股發行規模將超過50億美元。6月有超過20家公司上市，趕在它們必須更新業績報告之前。由於一大波科技企業湧入，今年香港IPO市場異常火爆。研究預計，香港今年的股票上市交易融資額將超過430億美元，創下六年新高。"
+    },
+    {
+      "id": "4955981",
+      "time": "2026-06-26 07:52:47",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【野村控股與Circle達成數字金融戰略合作】野村控股26日宣佈，與美國穩定幣發行公司Circle Internet Group在全球市場範圍內開展數字金融領域戰略合作。雙方將探索多領域合作，包括將穩定幣應用於鏈上金融及資本市場交易。"
+    },
     {
       "id": "4955980",
       "time": "2026-06-26 07:49:13",
@@ -155000,103 +155045,6 @@
         "Impact bearish"
       ],
       "text": "BANK OF JAPAN minutes: some members said if the Middle East conflict persists the central bank should raise rates faster to avert potentially excessive inf."
-    },
-    {
-      "id": "mkt:019edd2a-0f48-7dd8-b08a-4fffa490aa71",
-      "time": "2026-06-19 07:56:21",
-      "tags": [
-        "MKT News",
-        "Macro & Rates"
-      ],
-      "text": "Bank of Japan minutes: one member said any rate increases at the next meeting and thereafter will depend on the magnitude of risks to the economy and prices."
-    },
-    {
-      "id": "4944421",
-      "time": "2026-06-19 07:56:09",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "日本央行會議紀要：一名委員表示，若圍繞經濟、物價的風險規模出現相應變化，下次及之後的會議有可能加息。"
-    },
-    {
-      "id": "mkt:019edd29-dcc7-7dd8-b08a-41a70afec530",
-      "time": "2026-06-19 07:56:08",
-      "tags": [
-        "MKT News",
-        "USDJPY",
-        "Impact mixed"
-      ],
-      "text": "Bank of Japan minutes: several members said the central bank could modestly adjust the degree of monetary easing if the likelihood of its baseline forecast being realized increases."
-    },
-    {
-      "id": "4944420",
-      "time": "2026-06-19 07:56:00",
-      "tags": [
-        "其他"
-      ],
-      "text": "澳大利亞聯邦銀行任命新任資訊長與技術長，以推進科技與人工智慧戰略。"
-    },
-    {
-      "id": "4944419",
-      "time": "2026-06-19 07:55:45",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "日本央行會議紀要：多名委員表示，如果日本央行基線預測兌現的可能性上升，央行可按合適節奏調整貨幣寬鬆的力度。"
-    },
-    {
-      "id": "mkt:019edd28-c5fd-7dd8-b08a-3ad658ce585e",
-      "time": "2026-06-19 07:54:57",
-      "tags": [
-        "MKT News",
-        "USDJPY"
-      ],
-      "text": "Bank of Japan minutes said policy members unanimously agreed the timing and pace of future rate hikes will depend on the likelihood that the BOJ's baseline forecasts are realized and on risks to economic growth and inflation."
-    },
-    {
-      "id": "4944418",
-      "time": "2026-06-19 07:54:45",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "日本央行會議紀要：委員一致認為，未來加息的時機與節奏將取決於日本央行基準預測實現的可能性，以及增長與通脹面臨的風險。"
-    },
-    {
-      "id": "4944417",
-      "time": "2026-06-19 07:54:08",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "日本央行會議紀要：委員一致認為，根據經濟、物價和金融形勢的發展繼續加息是合適的。少數成員表示，如果通脹風險大幅超過增長下行風險，日本央行可就加息的利弊展開討論。"
-    },
-    {
-      "id": "mkt:019edd27-e35c-7dd8-b08a-328695a37cac",
-      "time": "2026-06-19 07:53:59",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC",
-        "USDJPY",
-        "Impact bearish"
-      ],
-      "text": "BANK OF JAPAN minutes: Some members said if inflation risks materially outweigh downside growth risks, the bank could discuss the merits and drawbacks of a rate hike."
-    },
-    {
-      "id": "mkt:019edd27-9fc7-7dd8-b08a-287d0b9b5d51",
-      "time": "2026-06-19 07:53:41",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "USDJPY",
-        "Impact bearish",
-        "DXY",
-        "Nikkei 225"
-      ],
-      "text": "Bank of Japan minutes said members unanimously agreed that, given developments in the economy, inflation and financial conditions, continuing to raise interest rates is appropriate."
     }
   ]
 }
