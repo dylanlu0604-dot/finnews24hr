@@ -1,7 +1,78 @@
 {
-  "updated": "2026-06-25 07:59:06",
-  "count": 16962,
+  "updated": "2026-06-25 08:03:06",
+  "count": 16954,
   "items": [
+    {
+      "id": "4953666",
+      "time": "2026-06-25 08:02:27",
+      "tags": [
+        "市場"
+      ],
+      "text": "MSCI亞太指數上漲1%至277.71點。"
+    },
+    {
+      "id": "mkt:019efc15-aacd-7dd8-b106-d04a27b1327c",
+      "time": "2026-06-25 08:02:18",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Nikkei 225",
+        "Impact bullish",
+        "005930.KS",
+        "000660.KS"
+      ],
+      "text": "【Japan, South Korea stocks open higher; KOSPI up 2.9%】Japan's Nikkei 225 opened 1.4% higher at 70,114.09. South Korea's KOSPI rose 2.9%. SK Hynix jumped 11%; Samsung Electronics gained 5%."
+    },
+    {
+      "id": "4953665",
+      "time": "2026-06-25 08:02:13",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "三星電子股價上漲5%。"
+    },
+    {
+      "id": "4953664",
+      "time": "2026-06-25 08:02:07",
+      "tags": [
+        "市場"
+      ],
+      "text": "澳大利亞S&P/ASX 200指數早盤下跌0.2%，報8,794.20點。"
+    },
+    {
+      "id": "4953663",
+      "time": "2026-06-25 08:01:34",
+      "tags": [
+        "市場"
+      ],
+      "text": "SK海力士股價上漲11%。"
+    },
+    {
+      "id": "4953662",
+      "time": "2026-06-25 08:01:26",
+      "tags": [
+        "其他"
+      ],
+      "text": "麥格理將必和必拓目標價上調2%，至每股57.00澳元。"
+    },
+    {
+      "id": "4953661",
+      "time": "2026-06-25 08:00:38",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "韓國綜合股價指數（KOSPI）開盤上漲2.7%，至8703.42點。"
+    },
+    {
+      "id": "4953660",
+      "time": "2026-06-25 08:00:29",
+      "tags": [
+        "市場"
+      ],
+      "text": "日經225指數上午開盤報70114.09點，漲幅1.36%。"
+    },
     {
       "id": "mkt:019efc11-6df8-7dd8-b106-cb77d2a7ffd6",
       "time": "2026-06-25 07:57:41",
@@ -154846,157 +154917,6 @@
         "焦點"
       ],
       "text": "紐約期金突破4310美元/盎司，日內跌1.63%。"
-    },
-    {
-      "id": "4942051",
-      "time": "2026-06-18 08:03:05",
-      "tags": [
-        "市場"
-      ],
-      "text": "現貨白銀日內漲1%，現報68.59美元/盎司。"
-    },
-    {
-      "id": "mkt:019ed809-b9d0-7dd8-b066-aa00b831d09a",
-      "time": "2026-06-18 08:02:56",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Precious Metals",
-        "XAUUSD",
-        "Impact bullish"
-      ],
-      "text": "Spot silver is up more than 1.00% intraday, trading at $68.62/oz."
-    },
-    {
-      "id": "mkt:019ed809-9220-7dd8-b066-a7970c3bd638",
-      "time": "2026-06-18 08:02:46",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC",
-        "Nikkei 225",
-        "Impact bullish",
-        "TOPIX",
-        "000660.KS"
-      ],
-      "text": "Japan's Nikkei 225, TOPIX and South Korea's SK Hynix shares hit record highs."
-    },
-    {
-      "id": "4942050",
-      "time": "2026-06-18 08:02:41",
-      "tags": [
-        "國際"
-      ],
-      "text": "【伊朗總統簽署伊美諒解備忘錄】據伊朗官方通訊社伊通社報道，當地時間今天（6月18日）凌晨，伊朗總統佩澤希齊揚與美國總統特朗普以電子遠端方式簽署了伊美諒解備忘錄。(CCTV國際時訊)"
-    },
-    {
-      "id": "mkt:019ed808-92fb-7dd8-b066-9d05e86d6246",
-      "time": "2026-06-18 08:01:40",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "South Korea's KOSPI opened 68.79 points higher, up 0.78%, at 8,933.03 on June 18 (Thursday)."
-    },
-    {
-      "id": "mkt:019ed808-5f50-7dd8-b066-95f8f78ec32d",
-      "time": "2026-06-18 08:01:27",
-      "tags": [
-        "MKT News",
-        "Nikkei 225",
-        "Impact bullish"
-      ],
-      "text": "Japan's Nikkei 225 opened up 472.99 points (+0.68%) at 70,375.24 on Thursday, June 18."
-    },
-    {
-      "id": "4942049",
-      "time": "2026-06-18 08:01:07",
-      "tags": [
-        "公司",
-        "市場",
-        "國際",
-        "原創"
-      ],
-      "text": "【芝商所將就永續期貨起訴美國商品期貨交易委員會】芝商所集團（CME Group）執行長特里·達菲週三表示，該交易所將就美國商品期貨交易委員會（CFTC）批准永續期貨合約上市一事提起訴訟。永續期貨是一種上市衍生品，沒有到期日，允許交易者無限期地持有頭寸，而無需展期合約。除了沒有明確的期限外，永續期貨還允許高槓杆——通常高達 50 倍——使投資者能夠放大其對市場波動的敞口。達菲本月早些時候警告說，這種極端槓桿，加上該行業普遍存在的自動清算模式，對散戶投資者構成重大威脅，因為他們可能並未充分意識到融資成本對其持倉的腐蝕性影響。他還批評CFTC的審批程式過於倉促，稱其繞過了對這種被其視為“新穎且複雜”的工具進行的傳統“全面審查”。"
-    },
-    {
-      "id": "te:markets:559849",
-      "time": "2026-06-18 08:01:07",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "US Futures Rise as Investors Assess Fed Outlook — US stock futures rose on Thursday after the major averages came under pressure in the previous session, as the Federal Reserve signaled the possibility of a rate hike this year. In Wednesday’s regular trading, the S&P 500 and Nasdaq Composite fell 1.21% and 1.34%, respectively, marking a second consecutive day of losses for both benchmarks. The Dow also declined 0.97%, ending a four-session winning streak. The Fed’s June Summary of Economic Projections showed that half of FOMC members expect at least one rate hike this year, as underlying inflation measures continued to point to price pressures while labor market data remained resilient despite economic disruptions linked to the conflict in Iran. Meanwhile, the US and Iran digitally signed their interim peace agreement, although it remains uncertain whether Iran has already begun taking steps to fully reopen the Strait of Hormuz."
-    },
-    {
-      "id": "4942048",
-      "time": "2026-06-18 08:00:53",
-      "tags": [
-        "國際"
-      ],
-      "text": "日本日經平均股價指數升至紀錄高位。"
-    },
-    {
-      "id": "4942047",
-      "time": "2026-06-18 08:00:40",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "韓國綜合股價指數（KOSPI）開盤上漲0.2%，至8884.92點。"
-    },
-    {
-      "id": "4942046",
-      "time": "2026-06-18 08:00:21",
-      "tags": [
-        "市場"
-      ],
-      "text": "【日韓股市開盤】日經225指數上午開盤報70163.71點，漲幅0.37％。韓國綜合股價指數（KOSPI）開盤上漲0.2％，至8884.92點。"
-    },
-    {
-      "id": "4942045",
-      "time": "2026-06-18 08:00:05",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "布倫特原油突破79美元/桶，日內跌0.76%。"
-    },
-    {
-      "id": "4942044",
-      "time": "2026-06-18 08:00:03",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "紐約期銀突破69美元/盎司，日內跌3.18%。"
-    },
-    {
-      "id": "4942043",
-      "time": "2026-06-18 07:59:29",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "【國家外匯管理局：將持續深化外匯領域改革開放，更好服務上海國際金融中心建設和金融高質量發展】6月17日下午，上海國際金融中心建設協調推進機制第二次全體會議在滬舉行。中國人民銀行副行長、國家外匯管理局局長朱鶴新指出，我們持續加大對上海國際金融中心建設的支援力度，推動了一批首創性的外匯管理改革在上海率先落地，支援上海國際金融中心邁向更高能級。積極支援上海國際金融中心建設“十五五”規劃出臺以及上海人民幣資產全球配置中心和風險管理中心建設。下一步，將持續深化外匯領域改革開放，繼續加強高質量政策供給，更好服務上海國際金融中心建設和金融高質量發展。"
-    },
-    {
-      "id": "em:qqyh_rbyh:202606183775064171",
-      "time": "2026-06-18 07:59:21",
-      "tags": [
-        "央行",
-        "日本央行"
-      ],
-      "text": "【日本央行加息難解三重困局】加息難以根本扭轉日元弱勢格局。日元持續貶值，根源在於美日貨幣政策分化帶來的巨大利差。即便日本央行繼續小幅加息，其政策利率水平仍遠低於主要發達經濟體，跨境套利動機依然強烈，全球套息交易繼續對日元形成壓制。日元和美元之間的利差令“借日元、買美元資產”的套息交易依然利潤豐厚。"
-    },
-    {
-      "id": "4942042",
-      "time": "2026-06-18 07:59:07",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗國家通訊社釋出照片，顯示伊朗總統佩澤什基安簽署伊美諒解備忘錄。"
     }
   ]
 }
