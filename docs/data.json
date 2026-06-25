@@ -1,7 +1,15 @@
 {
-  "updated": "2026-06-26 03:20:31",
+  "updated": "2026-06-26 03:24:26",
   "count": 16990,
   "items": [
+    {
+      "id": "4955833",
+      "time": "2026-06-26 03:21:08",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國國防部批准在美軍基地內建設關鍵礦產加工廠。"
+    },
     {
       "id": "mkt:019f0039-260c-7dd8-b125-4f2922b99fab",
       "time": "2026-06-26 03:19:33",
@@ -155449,14 +155457,6 @@
         "MKT News"
       ],
       "text": "【Almost all passengers and crew of Netherlands‑quarantined \"Hondius\" allowed to return home】WHO Director-General Tedros said on social media on the 18th that almost all passengers and crew of the \"Hondius\" cruise ship quarantined in the Netherlands have been allowed to return home, including non-Dutch residents. He said hantavirus cases remain at 13, including three deaths; there have been no new confirmed cases in over three weeks and no new deaths since May 2."
-    },
-    {
-      "id": "4944263",
-      "time": "2026-06-19 03:24:16",
-      "tags": [
-        "市場"
-      ],
-      "text": "在岸人民幣兌美元（CNY）北京時間03:00收報6.7728元，較週三夜盤收盤跌98點。成交量442.19億美元。"
     }
   ]
 }
