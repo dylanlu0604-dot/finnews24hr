@@ -1,7 +1,121 @@
 {
-  "updated": "2026-06-25 20:11:13",
-  "count": 16983,
+  "updated": "2026-06-25 20:15:27",
+  "count": 16987,
   "items": [
+    {
+      "id": "mkt:019efeb4-459e-7dd8-b11a-66f8a24f0620",
+      "time": "2026-06-25 20:14:47",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "ECB Governing Council member Moulin said the ECB's June rate hike was \"moderate\"."
+    },
+    {
+      "id": "mkt:019efeb3-92ed-7dd8-b11a-5f75b6cfb201",
+      "time": "2026-06-25 20:14:01",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "EURUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "ECB executive board member Moulin said recent developments are steering the economy toward a more positive outlook."
+    },
+    {
+      "id": "4955213",
+      "time": "2026-06-25 20:13:55",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "醫療與安全訊息源：以色列無人機空襲黎巴嫩南部一輛汽車，造成兩人死亡。"
+    },
+    {
+      "id": "mkt:019efeb2-59a9-7dd8-b11a-56325d904ecd",
+      "time": "2026-06-25 20:12:41",
+      "tags": [
+        "MKT News",
+        "EURUSD",
+        "Impact bullish"
+      ],
+      "text": "ECB executive board member Moulin said recent developments are favorable for the French economy."
+    },
+    {
+      "id": "4955212",
+      "time": "2026-06-25 20:12:31",
+      "tags": [
+        "公司"
+      ],
+      "text": "【維他奶2025/2026財政年度實現淨利潤2.74億港元】6月25日，維他奶披露截至2026年3月31日止的年度業績公告。報告期內，公司的收入為60.61億港元，同比下降3%；歸母淨利潤為2.74億港元，同比增長17%。"
+    },
+    {
+      "id": "4955211",
+      "time": "2026-06-25 20:12:18",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【卡達自伊朗戰事爆發後首次釋出原油招標】招標檔案顯示，卡達能源公司計劃出售 7、8 月裝船的全部沙辛油田、卡達陸上油田及卡達海上油田原油貨輪。這是自伊朗戰事爆發以來，該公司首次釋出原油招標。每批貨量 50 萬桶，可選擇 7 至 8 月內任意日期裝船；每船貨物需雙方協商確定兩日裝船視窗期。交易可採用離岸價（FOB）交割，也可在富查伊拉或蘇哈爾港進行船對船轉運，單次轉運最高 200 萬桶。招標多哈當地時間 6 月 29 日中午 12 點截止；投標報價有效期至當日 18 點。該公司暫未作出回應。"
+    },
+    {
+      "id": "mkt:019efeb1-e724-7dd8-b11a-49384c14aba1",
+      "time": "2026-06-25 20:12:12",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "India's oil minister said the country is committed to strengthening energy security through dialogue, cooperation and mutually beneficial engagement."
+    },
+    {
+      "id": "mkt:019efeb1-c9e7-7dd8-b11a-4155a1321b14",
+      "time": "2026-06-25 20:12:04",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Indian oil minister met Iran's oil minister to explore cooperation opportunities in the energy sector."
+    },
+    {
+      "id": "mkt:019efeb1-9270-7dd8-b11a-3ccba7ded29f",
+      "time": "2026-06-25 20:11:50",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "QatarEnergy has issued its first crude oil tender since the Iran conflict."
+    },
+    {
+      "id": "4955210",
+      "time": "2026-06-25 20:11:40",
+      "tags": [
+        "國際"
+      ],
+      "text": "印度石油部長：印度仍致力於透過對話、夥伴關係與互利合作提升能源安全。"
+    },
+    {
+      "id": "4955209",
+      "time": "2026-06-25 20:11:33",
+      "tags": [
+        "國際"
+      ],
+      "text": "印度石油部長：已與伊朗石油部長會晤，探討了能源領域的合作機遇。"
+    },
+    {
+      "id": "4955208",
+      "time": "2026-06-25 20:11:00",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "卡達能源公司釋出自伊朗戰爭以來的首份原油招標公告。"
+    },
     {
       "id": "4955207",
       "time": "2026-06-25 20:10:19",
@@ -154866,73 +154980,6 @@
         "其他"
       ],
       "text": "OPEC：隨著環保法規收緊，煤炭被視為唯一萎縮的能源來源。"
-    },
-    {
-      "id": "4943498",
-      "time": "2026-06-18 20:14:48",
-      "tags": [
-        "其他"
-      ],
-      "text": "埃森哲首席財務官：2026財年前九個月已投資30億美元，主要用於13項收購。"
-    },
-    {
-      "id": "4943497",
-      "time": "2026-06-18 20:14:19",
-      "tags": [
-        "公司"
-      ],
-      "text": "【ST美克：兩家子公司被裁定受理破產清算並指定管理人】ST美克公告稱，2026年6月17日，天津市濱海新區人民法院裁定受理公司全資子公司天津美克和天津加工的破產清算申請，並指定相關管理人。截至2025年12月31日，天津美克資產總計12.85億元，負債總計7.23億元，所有者權益5.61億元；天津加工資產總計4.27億元，負債總計1.15億元，所有者權益3.13億元。兩家子公司前期已停工停產，業務由其他基地承接，預計本次清算不會對公司日常生產經營產生重大不利影響。"
-    },
-    {
-      "id": "4943496",
-      "time": "2026-06-18 20:13:53",
-      "tags": [
-        "公司",
-        "市場",
-        "國際"
-      ],
-      "text": "IT服務公司股價在盤前交易中下跌，此前埃森哲下調了全年營收增長預期。在美國上市的威普羅和印孚瑟斯股價分別下跌2%和3.7%。在美國上市的威普羅和印孚瑟斯股價分別下跌2%和3.7%。"
-    },
-    {
-      "id": "4943495",
-      "time": "2026-06-18 20:13:30",
-      "tags": [
-        "其他"
-      ],
-      "text": "挪威石油服務工會將 244 名工人的罷工行動延長。"
-    },
-    {
-      "id": "4943494",
-      "time": "2026-06-18 20:13:13",
-      "tags": [
-        "國際"
-      ],
-      "text": "黎巴嫩官方通訊社訊息：週四以色列空襲黎巴嫩南部，造成三人死亡。"
-    },
-    {
-      "id": "4943493",
-      "time": "2026-06-18 20:13:09",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "巴西長期互換利率飆升，央行利率決議出爐後巴西雷亞爾匯率走低。"
-    },
-    {
-      "id": "4943492",
-      "time": "2026-06-18 20:12:07",
-      "tags": [
-        "其他"
-      ],
-      "text": "巴基斯坦與土耳其外長均表示，期待實現 “地區持久和平”。"
-    },
-    {
-      "id": "4943491",
-      "time": "2026-06-18 20:12:00",
-      "tags": [
-        "公司"
-      ],
-      "text": "埃森哲執行長：下週將啟動一項名為Accenture Edge的新業務。"
     }
   ]
 }
