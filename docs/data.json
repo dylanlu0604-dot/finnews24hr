@@ -1,7 +1,87 @@
 {
-  "updated": "2026-06-25 22:45:31",
+  "updated": "2026-06-25 22:49:51",
   "count": 16950,
   "items": [
+    {
+      "id": "te:markets:561944",
+      "time": "2026-06-25 22:48:54",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "commodity",
+        "Importance 0"
+      ],
+      "text": "Oat Hits Near 6-year Low — Oat decreased to 265.50 USd/Bu, the lowest since September 2020. Over the past 4 weeks, Oat lost 27.56%, and in the last 12 months, it decreased 26.96%."
+    },
+    {
+      "id": "mkt:019eff41-2d92-7dd8-b11f-4398cd0623a9",
+      "time": "2026-06-25 22:48:41",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "Brent",
+        "Impact bullish",
+        "WTI"
+      ],
+      "text": "Wall Street Journal reports Iran has proposed charging transit fees with Gulf neighbors for vessels using the Strait of Hormuz, estimating the measure could generate about 40 bln dlr a year."
+    },
+    {
+      "id": "4955466",
+      "time": "2026-06-25 22:47:08",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：伊朗參考全球各水道收費模式制定相關方案。"
+    },
+    {
+      "id": "4955464",
+      "time": "2026-06-25 22:46:08",
+      "tags": [
+        "公司"
+      ],
+      "text": "【宏柏新材：規劃建設2萬噸高純四氯化矽產能 力爭在今年下半年全面開工建設】有投資者問宏柏新材，市場炒作公司的光纖用上游原料四氯化矽產品，請問公司目前產能是多少？宏柏新材在互動平臺表示，公司規劃建設2萬噸高純四氯化矽產能，目前正在加緊編制相關政府審批的可研及環評、安評、能評等報告，力爭在今年下半年全面開工建設，2027年實現投產執行。"
+    },
+    {
+      "id": "4955463",
+      "time": "2026-06-25 22:45:47",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：伊朗提議聯合海灣鄰國對霍爾木茲海峽通航收取費用。"
+    },
+    {
+      "id": "4955462",
+      "time": "2026-06-25 22:45:24",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：伊朗預估霍爾木茲海峽每年可為其帶來400億美元收入。"
+    },
+    {
+      "id": "mkt:019eff3e-213b-7dd8-b11f-3e31eec39798",
+      "time": "2026-06-25 22:45:22",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "US Energy Secretary Wright said the release of 172 mln barrels from the Strategic Petroleum Reserve remains underway."
+    },
+    {
+      "id": "4955461",
+      "time": "2026-06-25 22:45:02",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "美國能源部長賴特：預計伊朗每日原油出口量最高將達到200萬桶。"
+    },
     {
       "id": "mkt:019eff3d-7c8e-7dd8-b11f-34fcd3275aa1",
       "time": "2026-06-25 22:44:40",
@@ -154837,77 +154917,6 @@
         "公司"
       ],
       "text": "據港交所檔案：石藥創新制藥股份有限公司向港交所提交上市申請書。"
-    },
-    {
-      "id": "4943815",
-      "time": "2026-06-18 22:49:06",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：我和內塔尼亞胡關係不錯，但他需要更理性一些；我願同他會面。"
-    },
-    {
-      "id": "4943814",
-      "time": "2026-06-18 22:48:44",
-      "tags": [
-        "市場"
-      ],
-      "text": "【求是網評論員文章：以更大力度提振消費】求是網發表評論員文章指出，消費是最終需求，對經濟發展具有基礎性作用。今年5月份，社會消費品零售總額同比下降0.6%，1—5月份的累計增速回落至1.4%，引發各界廣泛關注。如何客觀、辯證地看待這一現象，對於把握消費市場變化、建設強大國內市場尤為重要。文章指出，當前和今後一個時期，以更大力度提振消費，必須更好統籌惠民生和促消費的關係，更好統籌供給和需求的關係，更好統籌當前和長遠的關係，緊抓重點、多措並舉推動消費持續擴大。要夯實居民消費基礎，加快制定並實施城鄉居民增收計劃，以更加積極的就業政策擴大就業容量，以更加完善的分配製度提高居民可支配收入，以更加健全的社會保障體系緩解居民消費的後顧之憂。要加快修復居民資產負債表，著力穩定房地產市場，促進資本市場健康穩定發展，防止資產價格下跌對消費信心的負向螺旋，增強廣大城鄉居民的消費預期和底氣。要進一步強化供需適配，在商品端著力提升品質、最佳化結構，在服務端培育壯大文旅、健康、養老、托育等消費新增長點，以高質量供給更好滿足多樣化消費需求。要最佳化消費政策，持續完善促進消費的財稅、金融、產業等政策體系，清理消費領域不合理限制性措施，豐富消費場景，改善消費體驗，更好地讓消費者能消費、敢消費、願消費。"
-    },
-    {
-      "id": "mkt:019edb33-e6eb-7dd8-b081-7635c59b99ef",
-      "time": "2026-06-18 22:47:52",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "India's foreign secretary said a trade pact has created some uncertainty in US-India relations and that it is important to move toward clarity."
-    },
-    {
-      "id": "4943813",
-      "time": "2026-06-18 22:47:42",
-      "tags": [
-        "國際"
-      ],
-      "text": "印度外交秘書：美印貿易協定已在兩國間造成了一定程度的不確定性，因此我們亟需推進磋商以明確結果。"
-    },
-    {
-      "id": "mkt:019edb33-9a7b-7dd8-b081-6db67c4a6560",
-      "time": "2026-06-18 22:47:32",
-      "tags": [
-        "MKT News",
-        "Brent",
-        "Impact bullish",
-        "XAUUSD",
-        "DXY"
-      ],
-      "text": "Israel's ambassador to the United States said he hopes Iran will not be allowed to determine Lebanon's future."
-    },
-    {
-      "id": "4943812",
-      "time": "2026-06-18 22:46:51",
-      "tags": [
-        "國際"
-      ],
-      "text": "以色列駐美大使：我們希望伊朗不被允許決定黎巴嫩的未來。"
-    },
-    {
-      "id": "4943811",
-      "time": "2026-06-18 22:46:40",
-      "tags": [
-        "國際"
-      ],
-      "text": "黎巴嫩方面訊息：真主黨稱已擊退以色列在南部的推進。"
-    },
-    {
-      "id": "te:markets:560139",
-      "time": "2026-06-18 22:46:02",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "US Natgas Prices Edge Up — US natural gas prices rose to $3.16 per MMBtu after the latest EIA report showed a slightly smaller-than-expected increase in storage. US energy companies added 73 billion cubic feet of gas to inventories in the week ended June 12, below forecasts for a 75 bcf build. The increase compares with a 97 bcf injection during the same week last year and matches the five-year average for the period. Total stockpiles climbed to 2.759 trillion cubic feet, around 1% below last year’s level but 5.8% above the five-year average. The latest build also slowed from the previous week’s 108 bcf increase. Warmer-than-normal temperatures are expected through July 3, supporting demand from power generators as air conditioning usage rises. Meanwhile, average gas flows to the nine major US LNG export facilities remained steady at 17.1 bcfd in June, unchanged from May due to ongoing maintenance. US Lower 48 production has eased slightly, averaging 109.4 bcfd so far in June compared with 109.7 bcfd in May."
     }
   ]
 }
