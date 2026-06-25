@@ -1,7 +1,87 @@
 {
-  "updated": "2026-06-26 01:35:12",
-  "count": 16893,
+  "updated": "2026-06-26 01:39:11",
+  "count": 16894,
   "items": [
+    {
+      "id": "4955700",
+      "time": "2026-06-26 01:37:59",
+      "tags": [
+        "其他"
+      ],
+      "text": "巴西2025/26年度玉米出口預估為3700萬噸，低於上一年度的4170萬噸 。"
+    },
+    {
+      "id": "4955699",
+      "time": "2026-06-26 01:37:32",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：美國對與剛果民主共和國有關聯的個人和實體實施制裁。"
+    },
+    {
+      "id": "4955698",
+      "time": "2026-06-26 01:37:01",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：美國批准部分與俄羅斯企業盧克石油相關的交易。"
+    },
+    {
+      "id": "4955697",
+      "time": "2026-06-26 01:35:41",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國貿易代表辦公室稱：美國堅決支援烏茲別克加入世界貿易組織的程序，並認可烏茲別克迄今已取得的顯著進展。"
+    },
+    {
+      "id": "mkt:019effda-0f72-7dd8-b122-e9b27700009c",
+      "time": "2026-06-26 01:35:41",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "The Office of the U.S. Trade Representative said the United States strongly supports Uzbekistan's accession to the World Trade Organization and recognizes the substantive progress it has made to date."
+    },
+    {
+      "id": "mkt:019effd9-d606-7dd8-b122-e2542024c202",
+      "time": "2026-06-26 01:35:26",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "The U.S. Trade Representative’s office said the United States and Uzbekistan agreed to strengthen investment cooperation and will explore measures to promote and facilitate bilateral investment."
+    },
+    {
+      "id": "4955696",
+      "time": "2026-06-26 01:35:25",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國貿易代表辦公室：美國與烏茲別克將加快談判，力爭達成一項對等貿易投資協定。"
+    },
+    {
+      "id": "4955695",
+      "time": "2026-06-26 01:35:03",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國貿易代表辦公室：美國與烏茲別克還同意加強投資合作，探索推動和促進雙邊投資的路徑。"
+    },
+    {
+      "id": "4955694",
+      "time": "2026-06-26 01:34:56",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國貿易代表辦公室：美國承諾在關稅行動中對烏茲別克工業產品與農產品給予優惠考慮。"
+    },
+    {
+      "id": "mkt:019effd9-538d-7dd8-b122-da961a6f30ad",
+      "time": "2026-06-26 01:34:53",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. Trade Representative (USTR) said the U.S. will give preferential consideration to Uzbekistan's industrial and agricultural products in tariff measures."
+    },
     {
       "id": "4955693",
       "time": "2026-06-26 01:34:39",
@@ -154436,91 +154516,6 @@
         "國際"
       ],
       "text": "以色列媒體：特朗普稱，如果以色列攻擊伊朗，美國將支援以色列。"
-    },
-    {
-      "id": "mkt:019edbd0-bc44-7dd8-b086-4468bfe27758",
-      "time": "2026-06-19 01:39:10",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "ECB Governing Council member ESCRIVA said the baseline scenario is subject to considerable uncertainty."
-    },
-    {
-      "id": "mkt:019edbd0-a944-7dd8-b086-3aba954c3781",
-      "time": "2026-06-19 01:39:05",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "ECB Governing Council member ESCRIVA said the timeline for oil output recovery remains unclear."
-    },
-    {
-      "id": "4944166",
-      "time": "2026-06-19 01:37:46",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "歐洲央行官員埃斯克裡瓦：石油設施受損規模尚不明確。"
-    },
-    {
-      "id": "4944165",
-      "time": "2026-06-19 01:37:39",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "歐洲央行官員埃斯克裡瓦：石油產能恢復所需時長尚無法確定。"
-    },
-    {
-      "id": "mkt:019edbcf-599b-7dd8-b086-37fd4a8ee615",
-      "time": "2026-06-19 01:37:39",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bearish",
-        "S&P500",
-        "Impact bullish",
-        "DXY"
-      ],
-      "text": "【Iran supreme leader approves MoU with U.S., warns face‑to‑face talks do not equal acceptance of U.S. positions】Iran Supreme Leader Khamenei said he has approved the signing of a memorandum of understanding with the U.S. president after initially opposing it, following assurances from Iran’s president—head of the Supreme National Security Council—that Tehran will protect the interests of the Iranian people and the resistance front and that he will assume responsibility. Khamenei said the U.S. used leverage out of desperation, that Tehran will reject any excessive U.S. demands, and that it will wait to see implementation of agreed conditions; he stressed future face‑to‑face negotiations do not imply acceptance of the enemy’s positions."
-    },
-    {
-      "id": "4944163",
-      "time": "2026-06-19 01:37:31",
-      "tags": [
-        "其他"
-      ],
-      "text": "【世界氣象組織：去年極端天氣影響非洲超千萬人】18日，世界氣象組織在衣索比亞首都亞的斯亞貝巴釋出《2025年非洲氣候狀況》報告，資料顯示去年極端天氣和氣候相關事件影響非洲至少1300萬人，報告的死亡人數超過3000人，對經濟社會各領域均造成連鎖影響。（央視新聞）"
-    },
-    {
-      "id": "4944161",
-      "time": "2026-06-19 01:36:49",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗最高領袖：如果美方提出過高要求，我方將不會接受。"
-    },
-    {
-      "id": "4944160",
-      "time": "2026-06-19 01:35:42",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗最高領袖表示，即將舉行的未來面對面談判並不意味著接受“敵方觀點”。"
-    },
-    {
-      "id": "4944159",
-      "time": "2026-06-19 01:35:38",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "歐洲央行官員埃斯克裡瓦：基準情景存在極大不確定性。"
     }
   ]
 }
