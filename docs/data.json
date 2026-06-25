@@ -1,7 +1,546 @@
 {
-  "updated": "2026-06-26 02:47:00",
-  "count": 16962,
+  "updated": "2026-06-26 03:12:33",
+  "count": 16981,
   "items": [
+    {
+      "id": "4955824",
+      "time": "2026-06-26 03:08:46",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普告訴國防承包商，他正在努力爭取資金。"
+    },
+    {
+      "id": "4955823",
+      "time": "2026-06-26 03:08:06",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "墨西哥央行：預計墨西哥經濟產能過剩局面將持續。"
+    },
+    {
+      "id": "mkt:019f002e-435c-7dd8-b125-30a989ade736",
+      "time": "2026-06-26 03:07:39",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "【Iran warns vessels not to use unauthorized Strait of Hormuz routes】The Persian Gulf Straits Authority (PGSA), which approves and regulates maritime transit through the Strait of Hormuz, said any passage not following PGSA-approved routes will be treated as unauthorized and will be outside the agency’s security guarantees. The PGSA said liabilities from using unauthorized routes will rest with shipowners, operators and masters. The warning follows a new attack near the Strait of Hormuz that U.S. officials told the Wall Street Journal they attribute to the Islamic Revolutionary Guard Corps and which targeted a Singapore-flagged cargo vessel."
+    },
+    {
+      "id": "4955822",
+      "time": "2026-06-26 03:07:05",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "墨西哥央行：委員會決定考慮了通脹前景、匯率及經濟中需求端壓力缺失等因素。"
+    },
+    {
+      "id": "4955821",
+      "time": "2026-06-26 03:06:59",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【瑞穗：原油期貨走高，受霍爾木茲海峽擔憂影響】有報道稱一艘貨船在霍爾木茲海峽遭到伊朗襲擊，引發了人們對該水道重新開放是否順利的擔憂，隨後原油期貨結算價上漲。隨著越來越多油輪穿過該海峽緩解了全球供應緊張的局面，盤初油價曾短暫跌至戰前水平。瑞穗的Robert Yawger在一份報告中表示：“即使在60天的談判期結束後，我也不認為伊朗會重新開戰，因為雙方都將損失慘重。“西得州中質油結算價上漲2.2%，報每桶71.92美元。近月布倫特原油上漲2.1%，至每桶75.26美元。"
+    },
+    {
+      "id": "4955820",
+      "time": "2026-06-26 03:06:36",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "墨西哥央行重申致力於實現通脹溫和、穩定的政策目標。"
+    },
+    {
+      "id": "4955819",
+      "time": "2026-06-26 03:06:11",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：伊朗與印度石油部長呼籲擴大兩國能源合作。"
+    },
+    {
+      "id": "4955818",
+      "time": "2026-06-26 03:05:26",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "墨西哥央行：貨幣政策立場非常適合應對宏觀挑戰。"
+    },
+    {
+      "id": "4955817",
+      "time": "2026-06-26 03:05:19",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "墨西哥央行：預測2027年第四季度總體通脹率為3.0%，與之前預測的3.0%持平。"
+    },
+    {
+      "id": "4955816",
+      "time": "2026-06-26 03:05:03",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "墨西哥央行預測，2026年第四季度整體通脹率為3.5%，與此前預測值持平。"
+    },
+    {
+      "id": "4955815",
+      "time": "2026-06-26 03:04:47",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "墨西哥央行：經濟活動仍面臨顯著下行風險。"
+    },
+    {
+      "id": "4955814",
+      "time": "2026-06-26 03:04:29",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：美國多家軍工企業週三向特朗普表示希望獲得更多資金支援。"
+    },
+    {
+      "id": "4955813",
+      "time": "2026-06-26 03:04:16",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "墨西哥央行：預計墨西哥經濟第二季度將實現擴張。"
+    },
+    {
+      "id": "4955812",
+      "time": "2026-06-26 03:04:10",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "墨西哥央行：核心通脹預計將在2027年第二季度收斂至3%的目標水平。"
+    },
+    {
+      "id": "mkt:019f002b-1321-7dd8-b125-2f1e068fa37d",
+      "time": "2026-06-26 03:04:10",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "White House official says the US is investigating an attack on a vessel in the Strait of Hormuz."
+    },
+    {
+      "id": "4955811",
+      "time": "2026-06-26 03:03:58",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "美國通訊業工人協會（CWA）：與美國廣播公司電視網（ABC-TV）達成的新合同承諾，未來四年薪資將分別上漲3%、4%、3%與3.75%。"
+    },
+    {
+      "id": "4955810",
+      "time": "2026-06-26 03:03:49",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "墨西哥央行承諾後續維持 6.5% 基準利率不變。"
+    },
+    {
+      "id": "4955809",
+      "time": "2026-06-26 03:03:28",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "墨西哥央行：董事會預計，未來將基準利率維持在當前水平是合適的舉措。"
+    },
+    {
+      "id": "4955808",
+      "time": "2026-06-26 03:03:22",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "加拿大央行：參與社群對話的人士明確表達了採取行動應對住房危機的願望。較年輕的調查參與者表示，他們已經放棄了將來擁有自己住房的念頭。在央行調查過的所有社群中，加拿大人都對生活成本表示擔憂。私營部門經濟學家認為加拿大央行過去十年中採用的核心通脹指標過多，並建議央行應側重於整體通脹。"
+    },
+    {
+      "id": "4955807",
+      "time": "2026-06-26 03:03:19",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "墨西哥央行預測 2026 年二季度通脹率為 4%，此前預期為 4.1%。"
+    },
+    {
+      "id": "4955806",
+      "time": "2026-06-26 03:02:32",
+      "tags": [
+        "其他"
+      ],
+      "text": "墨西哥銀行：在預測區間內，通脹走勢的風險平衡仍偏向上行。"
+    },
+    {
+      "id": "mkt:019f0029-54c0-7dd8-b125-26596c2de3b8",
+      "time": "2026-06-26 03:02:16",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "Hang Seng Index",
+        "Impact bearish"
+      ],
+      "text": "Hang Seng Index futures' night session closed down 0.33% at 23,005, trading 72 points below the cash index."
+    },
+    {
+      "id": "4955805",
+      "time": "2026-06-26 03:02:09",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國農業部：2026年6月1日全生豬存欄量同比為上年的100%，交易市場預估為100.9%。"
+    },
+    {
+      "id": "4955804",
+      "time": "2026-06-26 03:01:47",
+      "tags": [
+        "其他"
+      ],
+      "text": "白宮官員：現在斷定是誰在霍爾木茲島襲擊了船隻還為時過早。"
+    },
+    {
+      "id": "mkt:019f0028-e4ea-7dd8-b125-19c402166d91",
+      "time": "2026-06-26 03:01:47",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Bank of Mexico's board voted unanimously to keep the policy rate unchanged."
+    },
+    {
+      "id": "4955803",
+      "time": "2026-06-26 03:01:41",
+      "tags": [
+        "國際"
+      ],
+      "text": "白 白宮官員：美國正在調查霍爾木茲海峽船隻遇襲事件。"
+    },
+    {
+      "id": "mkt:019f0028-baf2-7dd8-b125-10c1adeba77e",
+      "time": "2026-06-26 03:01:36",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "BOC: younger survey respondents say they have given up the idea of owning their own home in the future."
+    },
+    {
+      "id": "4955802",
+      "time": "2026-06-26 03:01:25",
+      "tags": [
+        "其他"
+      ],
+      "text": "墨西哥銀行：在預測區間內，通脹走勢的風險平衡仍偏向上行。"
+    },
+    {
+      "id": "mkt:019f0028-7b49-7dd8-b125-0cf7724aee3d",
+      "time": "2026-06-26 03:01:20",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "BOC said participants in community dialogues expressed a clear desire for action to address the housing crisis."
+    },
+    {
+      "id": "mkt:019f0028-6c18-7dd8-b125-0483d3ef5e56",
+      "time": "2026-06-26 03:01:16",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "BOC says private-sector economists view the bank's reliance on too many core inf measures over the past decade and recommend the bank focus on headline inf."
+    },
+    {
+      "id": "mkt:019f0028-476b-7dd8-b124-ff82cac63b92",
+      "time": "2026-06-26 03:01:07",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "BOC says a disconnect between official inflation data and Canadians' everyday experience has undermined confidence in the CPI and, by extension, in the central bank."
+    },
+    {
+      "id": "mkt:019f0028-3b47-7dd8-b124-f07ba4a7cecb",
+      "time": "2026-06-26 03:01:04",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "BOC says stakeholders expressed support for a flexible inf-targeting framework and the 2% target."
+    },
+    {
+      "id": "4955801",
+      "time": "2026-06-26 03:00:58",
+      "tags": [
+        "其他"
+      ],
+      "text": "加拿大銀行：各界相關方強烈支援 2% 通脹目標。"
+    },
+    {
+      "id": "mkt:019f0027-cfcb-7dd8-b124-ebfe15e36093",
+      "time": "2026-06-26 03:00:36",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "BOC: In every community surveyed by the central bank, Canadians expressed concern about the cost of living."
+    },
+    {
+      "id": "4955800",
+      "time": "2026-06-26 03:00:26",
+      "tags": [
+        "其他"
+      ],
+      "text": "加拿大銀行：消費者物價指數資料與民眾實際生活感受存在偏差，正削弱公眾信任。"
+    },
+    {
+      "id": "mkt:019f0027-6912-7dd8-b124-e40de4962d73",
+      "time": "2026-06-26 03:00:10",
+      "tags": [
+        "MKT News",
+        "Macro & Rates"
+      ],
+      "text": "Mexico central bank policy rate through June 25: 6.50% (consensus 6.50%, prior 6.50%)."
+    },
+    {
+      "id": "4955799",
+      "time": "2026-06-26 03:00:08",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "墨西哥央行維持隔夜利率在6.50%不變。"
+    },
+    {
+      "id": "4955798",
+      "time": "2026-06-26 03:00:01",
+      "tags": [
+        "市場"
+      ],
+      "text": "恒指期貨夜盤收跌0.36%，報22942.68點，低水134.23點。"
+    },
+    {
+      "id": "mkt:019f0027-461b-7dd8-b124-dee18fc827ab",
+      "time": "2026-06-26 03:00:01",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Mexico | Banxico Interest Rate Decision (Jun.25) | actual 6.5% | consensus 6.50% | previous 6.50%"
+    },
+    {
+      "id": "4955797",
+      "time": "2026-06-26 02:59:51",
+      "tags": [
+        "其他"
+      ],
+      "text": "加拿大不列顛哥倫比亞省省長：加拿大液化天然氣二期專案將於 9 月作出投資最終決定。"
+    },
+    {
+      "id": "4955796",
+      "time": "2026-06-26 02:57:57",
+      "tags": [
+        "國際"
+      ],
+      "text": "印度商務部長談及美印貿易協議： 在確保自身（尤其在南亞、東南亞地區）競爭優勢前，印度不會啟動這項美印貿易協議。"
+    },
+    {
+      "id": "4955795",
+      "time": "2026-06-26 02:57:41",
+      "tags": [
+        "國際"
+      ],
+      "text": "【歐盟延長波音-空客貿易爭端中的關稅暫停期】據知情人士透露，歐盟成員國已同意延長涉及空客與波音之間的貿易爭端的關稅暫停期，這些關稅原定針對價值40億美元的美國產品。此次關稅暫停未設定明確的截止日期。歐盟委員會發言人奧洛夫·吉爾對這一表決結果表示歡迎，他表示：“我們正與美國進行持續磋商，以確保情況穩定與確定性，並維持雙方暫停實施反制措施的狀態。”總部位於法國圖盧茲的空客與總部位於美國弗吉尼亞州阿靈頓的波音之間這場曠日持久的爭端，起因是非法補貼問題。在雙方於五年前達成臨時休戰協議之前，歐盟和美國曾分別對價值115億美元的對方出口商品加徵關稅。"
+    },
+    {
+      "id": "mkt:019f0024-acc0-7dd8-b124-d64cb96fcb7d",
+      "time": "2026-06-26 02:57:11",
+      "tags": [
+        "MKT News",
+        "EURUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish",
+        "S&P500"
+      ],
+      "text": "【EU extends tariff suspension in Airbus-Boeing dispute】EU member states have agreed to extend the tariff suspension in the long-running Airbus-Boeing dispute, covering $4 billion of U.S. goods; no end date was set. European Commission spokesman Olof Gill said Brussels is holding ongoing talks with Washington to preserve stability and keep countermeasures suspended. The dispute over alleged illegal subsidies previously led both sides to impose tariffs on about $11.5 billion of each other’s exports before a five-year truce."
+    },
+    {
+      "id": "4955794",
+      "time": "2026-06-26 02:54:57",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【報告顯示，美國廉航公司正喪失相對於大型航空公司的競爭優勢】幾十年來重塑了美國航空旅行格局的低成本航空模式正面臨日益嚴峻的挑戰；與此同時，傳統航空公司憑藉高階艙位、高利潤的常旅客計劃以及聯名信用卡等優勢，正逐漸佔據上風。美國政府問責局（GAO）週四釋出的一份報告指出，儘管航空業的整合浪潮最終並未削弱整體競爭態勢，但廉價航空和超低成本航空曾經賴以顛覆市場的諸多優勢正在逐漸喪失，迫使這些航空公司重新審視其基於“超低票價”的商業模式。"
+    },
+    {
+      "id": "mkt:019f0022-9fa3-7dd8-b124-cf84815a2094",
+      "time": "2026-06-26 02:54:56",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【GAO report: US low-cost carriers losing competitive edge to legacy airlines】The low-cost airline model that reshaped US air travel over decades is facing growing headwinds, the GAO said Thursday. While industry consolidation did not ultimately reduce overall competition, many of the advantages that let low-cost and ultra-low-cost carriers disrupt the market are eroding as legacy carriers lean on premium cabins, high-margin loyalty programs and co-branded credit cards, forcing low-cost carriers to reassess ultra-low-fare business models."
+    },
+    {
+      "id": "4955793",
+      "time": "2026-06-26 02:54:52",
+      "tags": [
+        "國際"
+      ],
+      "text": "I-PULSE：將與美國國家實驗室、大學及專業製造商共同開發碳化矽半導體。"
+    },
+    {
+      "id": "4955792",
+      "time": "2026-06-26 02:53:31",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：I-PULSE與美國商務部簽署最終協議，獲得2.5億美元晶片研發獎勵。"
+    },
+    {
+      "id": "te:markets:561991",
+      "time": "2026-06-26 02:52:56",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "Merck Stock Price Hits 22-month High — Merck shares increased to 125.37 USD, the highest since July 2024. Over the past 4 weeks, Merck & Co gained 4.64%, and in the last 12 months, it increased 58.92%."
+    },
+    {
+      "id": "4955791",
+      "time": "2026-06-26 02:51:48",
+      "tags": [
+        "市場"
+      ],
+      "text": "布倫特原油期貨收於每桶75.26美元，上漲1.52美元，漲幅2.06%。"
+    },
+    {
+      "id": "mkt:019f001f-3f33-7dd8-b124-c4e6c01de911",
+      "time": "2026-06-26 02:51:15",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "S&P500",
+        "Impact bullish",
+        "EURUSD",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "EU extends suspension of tariffs in Boeing-Airbus trade dispute."
+    },
+    {
+      "id": "4955790",
+      "time": "2026-06-26 02:51:08",
+      "tags": [
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "【美聯儲古爾斯比指出服務業通脹出現一些改善】芝加哥聯儲行長奧斯坦·古爾斯比在CNBC上表示，今天的通脹報告並非全盤負面，服務業通脹出現了一些改善。古爾斯比指出，最近這一指標更令人擔憂，因為其讀數偏高並非源於油價上漲或與關稅相關的壓力。就美聯儲的雙重使命而言，通脹仍然是他關注的問題。在討論美聯儲使用的工具（如資產負債表）時，古爾斯比表示，利率決定從根本上說是美聯儲的貨幣政策決定。他說：“在緊急情況下，比如量化寬鬆(QE)的起源，資產負債表被用作貨幣政策，但我傾向於認為資產負債表不是貨幣政策決定。”"
+    },
+    {
+      "id": "4955789",
+      "time": "2026-06-26 02:50:49",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：歐盟延長波音空客貿易爭端中的關稅暫停措施。"
+    },
+    {
+      "id": "4955788",
+      "time": "2026-06-26 02:50:21",
+      "tags": [
+        "公司"
+      ],
+      "text": "滙豐銀行將中國國航A股評級上調至持有，目標價5.90元；將南方航空A股評級上調至持有，目標價5元；將東方航空A股評級上調至持有，目標價4.20元。"
+    },
+    {
+      "id": "mkt:019f001d-d8a4-7dd8-b124-bf758e63d468",
+      "time": "2026-06-26 02:49:43",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Iran's Persian Gulf Strait Management Department said vessels using unauthorized routes will be unable to obtain insurance or related liability coverage."
+    },
+    {
+      "id": "mkt:019f001d-a3ae-7dd8-b124-b12a0af25c87",
+      "time": "2026-06-26 02:49:30",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "A Turkish foreign ministry source said Turkey's foreign minister spoke by phone with Venezuela's foreign minister to discuss Venezuela's aid needs."
+    },
+    {
+      "id": "mkt:019f001d-7d92-7dd8-b124-aaa026862477",
+      "time": "2026-06-26 02:49:20",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iran's Persian Gulf Strait Management Department said any consequences arising from transits via unauthorized routes will be the responsibility of shipowners, operators and captains."
+    },
+    {
+      "id": "4955786",
+      "time": "2026-06-26 02:49:04",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗波斯灣海峽管理局表示，船舶經未經批准的航道通行所產生的後果，由船東、運營方及船長承擔。"
+    },
+    {
+      "id": "mkt:019f001d-1e84-7dd8-b124-a687ea19876c",
+      "time": "2026-06-26 02:48:56",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Brent",
+        "Impact bullish",
+        "WTI",
+        "XAUUSD"
+      ],
+      "text": "Iran's Persian Gulf Strait Administration said it cannot guarantee safe passage for vessels that do not follow navigation routes designated by the authority."
+    },
+    {
+      "id": "4955785",
+      "time": "2026-06-26 02:47:32",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗總統佩澤希齊揚就近期地震造成的遇難者向委內瑞拉表達哀悼，同時承諾伊朗願意提供應急救援、醫療援助及人道主義物資。"
+    },
+    {
+      "id": "4955784",
+      "time": "2026-06-26 02:47:20",
+      "tags": [
+        "國際"
+      ],
+      "text": "土耳其外交部訊息人士稱，土耳其外交部長與委內瑞拉外交部長通話，討論了委內瑞拉的援助需求。"
+    },
     {
       "id": "4955783",
       "time": "2026-06-26 02:44:19",
@@ -154831,374 +155370,6 @@
         "市場"
       ],
       "text": "在岸人民幣兌美元（CNY）北京時間03:00收報6.7728元，較週三夜盤收盤跌98點。成交量442.19億美元。"
-    },
-    {
-      "id": "4944261",
-      "time": "2026-06-19 03:09:25",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "紐約期銀失守66美元/盎司，日內跌7.43%。"
-    },
-    {
-      "id": "4944260",
-      "time": "2026-06-19 03:08:28",
-      "tags": [
-        "其他"
-      ],
-      "text": "【幾乎所有在荷蘭隔離的“洪迪厄斯”號郵輪人員已獲准回家】當地時間18日，世衛組織總幹事譚德塞在社交媒體上表示，幾乎所有在荷蘭隔離的“洪迪厄斯”號郵輪的乘客和船員現在都被允許返回家園，包括非荷蘭國籍的居民。（央視）"
-    },
-    {
-      "id": "4944259",
-      "time": "2026-06-19 03:08:07",
-      "tags": [
-        "其他"
-      ],
-      "text": "世界銀行：已批准 16 億美元融資方案，用於東非區域輸電、貿易及脫碳發展計劃。"
-    },
-    {
-      "id": "mkt:019edc22-2d4c-7dd8-b087-473415fd66f9",
-      "time": "2026-06-19 03:08:07",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "ICI: money market fund assets rose to a record $7.919 trillion."
-    },
-    {
-      "id": "mkt:019edc21-c4ea-7dd8-b087-3f57a40a8a47",
-      "time": "2026-06-19 03:07:41",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "OpenAI announced ChatGPT Enterprise administrators can, effective immediately, access new analytics features and updated spending controls."
-    },
-    {
-      "id": "4944258",
-      "time": "2026-06-19 03:07:03",
-      "tags": [
-        "其他"
-      ],
-      "text": "OpenAI：推出 ChatGPT 企業版額度使用分析功能及新版支出管控工具。"
-    },
-    {
-      "id": "4944257",
-      "time": "2026-06-19 03:06:23",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "現貨黃金失守4210美元/盎司，日內跌1.15%。"
-    },
-    {
-      "id": "4944256",
-      "time": "2026-06-19 03:06:07",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "美國投資公司協會資料顯示，貨幣市場基金規模增至創紀錄的 7.919 萬億美元。"
-    },
-    {
-      "id": "4944255",
-      "time": "2026-06-19 03:06:06",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "紐約期金失守4230美元/盎司，日內跌3.46%。"
-    },
-    {
-      "id": "mkt:019edc1e-4587-7dd8-b087-3626af8259bd",
-      "time": "2026-06-19 03:03:51",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "DXY",
-        "Impact bullish",
-        "XAUUSD",
-        "Impact bearish",
-        "USDJPY"
-      ],
-      "text": "US dollar index (DXY) rose over 0.50% intraday to 100.89."
-    },
-    {
-      "id": "mkt:019edc1e-1ea7-7dd8-b087-2db4bb0a3212",
-      "time": "2026-06-19 03:03:41",
-      "tags": [
-        "MKT News",
-        "GBPUSD",
-        "Impact bearish"
-      ],
-      "text": "GBP/USD slid to 1.32, its lowest since April 6, down 0.71% intraday."
-    },
-    {
-      "id": "mkt:019edc1c-e16c-7dd8-b087-26b871f97b77",
-      "time": "2026-06-19 03:02:20",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Argentina's statistics bureau reported a May trade surplus of $3.504 billion, versus a Refinitiv survey expectation of $2.2 billion."
-    },
-    {
-      "id": "4944254",
-      "time": "2026-06-19 03:01:10",
-      "tags": [
-        "市場"
-      ],
-      "text": "紐約期銀日內跌7%，現報66.31美元/盎司。"
-    },
-    {
-      "id": "mkt:019edc2a-7e47-7dd8-b087-4f95d86060b0",
-      "time": "2026-06-19 03:00:59",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "Hang Seng Index",
-        "Impact bearish"
-      ],
-      "text": "Hang Seng Index futures night session closed down 0.19% at 23,846, trading 79 points below the cash index."
-    },
-    {
-      "id": "4944253",
-      "time": "2026-06-19 03:00:37",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國農業部資料顯示，5月美國活牛出欄量完成原定計劃的88.0%（市場預期為89.4%）。"
-    },
-    {
-      "id": "4944252",
-      "time": "2026-06-19 03:00:28",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國農業部（USDA）資料顯示，截至6月1日，美國飼餵牛存欄量為去年同期的102.0%，市場預估值為102.5%。"
-    },
-    {
-      "id": "4944251",
-      "time": "2026-06-19 03:00:23",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國農業部稱，美國飼養場牛數量較上年同期增長2.1%。"
-    },
-    {
-      "id": "4944250",
-      "time": "2026-06-19 03:00:03",
-      "tags": [
-        "市場"
-      ],
-      "text": "恒指期貨夜盤收跌0.17%，報23851.76點，低水73.05點。"
-    },
-    {
-      "id": "4944249",
-      "time": "2026-06-19 02:59:56",
-      "tags": [
-        "其他"
-      ],
-      "text": "阿根廷統計局：5月貿易順差為35.04億美元，路透調查預期為順差22億美元。"
-    },
-    {
-      "id": "4944248",
-      "time": "2026-06-19 02:55:12",
-      "tags": [
-        "公司",
-        "市場",
-        "國際"
-      ],
-      "text": "【倫敦股市18日下跌】英國倫敦股市《金融時報》100種股票平均價格指數18日報收於10399.70點，較前一交易日下跌108.91點，跌幅為1.04%。歐洲三大股指當天漲跌不一。當天倫敦股市成分股中位於漲幅前五位的個股分別為：資訊服務公司英富曼股價上漲2.76%，極地資本科技信託公司股價上漲2.66%，國際聯合航空集團股價上漲2.30%，約翰-戴維運動時裝公司股價上漲2.22%，生命安全技術企業豪邁集團股價上漲2.17%。當天倫敦股市成分股中位於跌幅前五位的個股分別為：倫敦證交所集團股價下跌7.00%，房地產商珀西蒙公司股價下跌6.17%，貴金屬生產商弗雷斯尼洛股價下跌5.83%，奮進礦業公司股價下跌5.73%，出版集團勵訊股價下跌3.97%。"
-    },
-    {
-      "id": "mkt:019edc14-5a7e-7dd8-b087-1ba9ee974039",
-      "time": "2026-06-19 02:53:01",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Industrial Metals"
-      ],
-      "text": "Goldman Sachs says an accelerated Middle East capacity recovery could raise the aluminium market surplus to about 1.2 mln t and push prices down to roughly $2,750/ton."
-    },
-    {
-      "id": "mkt:019edc13-dad0-7dd8-b087-1416ad5982bb",
-      "time": "2026-06-19 02:52:29",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Industrial Metals"
-      ],
-      "text": "Goldman Sachs said a slower-than-expected restart of damaged Middle East capacity could widen the 2027 aluminium market surplus to about 100,000 tonnes and keep prices near $3,250/tonne."
-    },
-    {
-      "id": "4944247",
-      "time": "2026-06-19 02:51:57",
-      "tags": [
-        "國際"
-      ],
-      "text": "【伊朗稱60天內商船免費透過霍爾木茲】當地時間6月18日晚，伊朗最高國家安全委員會發布宣告稱，申請透過霍爾木茲海峽的商船在60天內將被免收費用。（CCTV國際時訊）"
-    },
-    {
-      "id": "mkt:019edc13-43fa-7dd8-b087-0918cb857788",
-      "time": "2026-06-19 02:51:50",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Industrial Metals"
-      ],
-      "text": "Goldman Sachs forecasts a 720,000-tonne aluminium deficit in 2026 and a 590,000-tonne surplus in 2027."
-    },
-    {
-      "id": "4944246",
-      "time": "2026-06-19 02:51:43",
-      "tags": [
-        "公司"
-      ],
-      "text": "一名高管表示，巴西國家石油公司計劃於9月前重啟馬託格羅索州化肥廠的建設工程。"
-    },
-    {
-      "id": "4944245",
-      "time": "2026-06-19 02:51:40",
-      "tags": [
-        "公司",
-        "市場",
-        "國際"
-      ],
-      "text": "巴西國家石油公司高管：油價下跌加上伊朗戰爭停火協議，將使得此前推遲的煉油廠維護工作得以開展。"
-    },
-    {
-      "id": "mkt:019edc12-e0ed-7dd8-b087-06bc175b2dca",
-      "time": "2026-06-19 02:51:25",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Industrial Metals"
-      ],
-      "text": "Goldman Sachs raised its average LME aluminium price forecasts to $3,300/ton for Q3 2026 and $2,950/ton for full-year 2027, from prior forecasts of $3,200/ton and $2,750/ton respectively."
-    },
-    {
-      "id": "mkt:019edc12-4c48-7dd8-b086-fc0aee8fd186",
-      "time": "2026-06-19 02:50:47",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Iran's Supreme National Security Council says measures to clear sea mines will be implemented under an MOU with Islamabad."
-    },
-    {
-      "id": "4944244",
-      "time": "2026-06-19 02:50:38",
-      "tags": [
-        "觀點",
-        "國際"
-      ],
-      "text": "高盛：中東復甦提速或推動鋁市場盈餘擴大至120萬噸，推動鋁價逼近每噸2750美元。"
-    },
-    {
-      "id": "mkt:019edc12-1dfc-7dd8-b086-f5a6ee67b13e",
-      "time": "2026-06-19 02:50:35",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Iran's Supreme National Security Council said technical details on transit through the Strait of Hormuz will be released by the Persian Gulf Strait Administration."
-    },
-    {
-      "id": "4944243",
-      "time": "2026-06-19 02:50:24",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "【萬斯：60天談判期限18日起算 將領導美方團隊】美國副總統萬斯18日在白宮記者會上說，美國和伊朗諒解備忘錄中規定的達成最終協議的60天期限從18日開始計算，他將在接下來的談判中領導美方談判團隊。\n\n萬斯說：“我認為這60天的期限已於今天正式開始。由於簽署時間較晚，且考慮到時差因素，從技術上講我認為是按伊朗時間今天簽署的。”\n\n萬斯表示，他仍計劃前往瑞士，但具體時間待定。美伊雙方的技術性談判預計將於本週末開始。他指出，伊朗和美國迄今在軍事上都在履行雙方在諒解備忘錄中的承諾。伊朗連續兩晚沒有在霍爾木茲海峽向任何船隻開火，美軍允許眾多艘船隻透過其海上封鎖線。\n\n萬斯說，與伊朗達成的最終協議將解決霍爾木茲海峽的長期運營問題，必須確保這條關鍵水道“永遠不會再成為全球經濟的瓶頸”。他強調，美方認為國際水道不應徵收通行費。\n\n被問及諒解備忘錄中提到的用於伊朗重建與經濟發展的3000億美元將由誰來出時，萬斯說，目前的談判尚處於早期階段，無法給出確切說法。他同時強調，該協議中的經濟利益只有在伊朗“充分履行”並“改變其行為”的情況下才能獲得。\n\n萬斯還表示，以色列在黎巴嫩的軍事行動有時阻礙了美伊談判取得突破，這讓美國總統特朗普感到沮喪。他重申以色列有權自衛，但同時敦促以方“尊重這一對他們和整個地區都有益的和平程序”。（新華社）"
-    },
-    {
-      "id": "mkt:019edc11-e972-7dd8-b086-ee914457f2b7",
-      "time": "2026-06-19 02:50:21",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy"
-      ],
-      "text": "Iran's Supreme National Security Council says traffic through the Strait of Hormuz will gradually increase."
-    },
-    {
-      "id": "4944242",
-      "time": "2026-06-19 02:50:00",
-      "tags": [
-        "觀點",
-        "國際"
-      ],
-      "text": "高盛：受損中東產能重啟進度放緩，2027年全球鋁供應過剩規模將接近10萬噸，鋁價將維持在每噸3250美元左右。"
-    },
-    {
-      "id": "4944241",
-      "time": "2026-06-19 02:49:29",
-      "tags": [
-        "觀點"
-      ],
-      "text": "高盛預測，2026年和2027年全球鋁市場將分別出現72萬噸缺口和59萬噸過剩。"
-    },
-    {
-      "id": "4944240",
-      "time": "2026-06-19 02:48:53",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗最高國家安全委員會表示，排雷相關措施將根據伊斯蘭堡簽署的諒解備忘錄執行。"
-    },
-    {
-      "id": "4944239",
-      "time": "2026-06-19 02:48:40",
-      "tags": [
-        "觀點"
-      ],
-      "text": "高盛將倫敦金屬交易所（LME）鋁價2026年第三季度/2027年平均價格預測分別從原先的每噸3200美元/2750美元上調至每噸3300美元/2950美元。"
-    },
-    {
-      "id": "4944238",
-      "time": "2026-06-19 02:48:34",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗最高國家安全委員會表示，霍爾木茲海峽通行的技術細節將由波斯灣海峽管理局公佈。"
-    },
-    {
-      "id": "4944237",
-      "time": "2026-06-19 02:48:12",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "伊朗最高國家安全委員會表示，霍爾木茲海峽的通航流量將逐步提升。"
-    },
-    {
-      "id": "mkt:019edc0f-b044-7dd8-b086-e17c482feb58",
-      "time": "2026-06-19 02:47:56",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "Iran's Supreme National Security Council said, for security reasons vessels should transit only at designated times and along designated routes."
-    },
-    {
-      "id": "4944236",
-      "time": "2026-06-19 02:47:51",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗最高國家安全委員會表示，出於安全考慮，船隻須按照指定時間和指定航道通行。"
-    },
-    {
-      "id": "mkt:019edc0f-7cf2-7dd8-b086-de5ea54663a4",
-      "time": "2026-06-19 02:47:42",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "Iran's Supreme National Security Council has ordered the Strait of Hormuz authority to expedite issuance of transit permits."
     }
   ]
 }
