@@ -1,7 +1,55 @@
 {
-  "updated": "2026-06-25 20:15:27",
-  "count": 16987,
+  "updated": "2026-06-25 20:19:39",
+  "count": 16985,
   "items": [
+    {
+      "id": "4955216",
+      "time": "2026-06-25 20:18:55",
+      "tags": [
+        "國際"
+      ],
+      "text": "【日本巖手縣附近海域發生4.7級地震】據日本氣象廳訊息，當地時間25日20時58分左右，日本巖手縣附近海域發生4.7級地震，最大震感為震度4，震源深度50公里。（央視新聞）"
+    },
+    {
+      "id": "4955215",
+      "time": "2026-06-25 20:18:02",
+      "tags": [
+        "國際"
+      ],
+      "text": "墨西哥提高對部分美國鋼管進口徵收關稅。"
+    },
+    {
+      "id": "te:economy:561865",
+      "time": "2026-06-25 20:16:47",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Brazil",
+        "Mid-month Inflation Rate MoM",
+        "Importance 2"
+      ],
+      "text": "Brazil Mid-Month Inflation Eases in June — Consumer prices in Brazil rose 0.41% month-over-month in the first half of June 2026, slowing from 0.62% in May and coming in slightly below forecasts of 0.44%. Cost of food and beverages eased to 0.74% from 1.38%, as prices of food consumed at home decelerated to 0.87% from 1.73%. Housing inflation also fell to 0.72% from 1.03% in May. In health and personal care, prices rose 0.47%, easing from 1.05% in the previous month. Transportation fell 0.03% after declining 0.33% in May, as lower fuel prices offset increases in airfares and public transportation. Regionally, Brasília posted the highest increase at 0.93%, driven by airfares and gasoline, while Rio de Janeiro, Curitiba, and Salvador recorded the lowest readings at 0.28%. Mid-month inflation reached 3.45% year-to-date and 4.80% over the last 12 months."
+    },
+    {
+      "id": "4955214",
+      "time": "2026-06-25 20:16:30",
+      "tags": [
+        "公司"
+      ],
+      "text": "【光線傳媒：持股5%以上股東減持股份降至5%】光線傳媒公告稱，持股5%以上股東上海漢濤資訊諮詢有限公司於2026年5月25日至6月24日，透過集中競價和大宗交易方式合計減持2933.58萬股，佔公司總股本的0.999997%。本次減持後，其持股比例從5.999997%降至4.999999%，不再是持股5%以上股東。本次權益變動不會導致公司控股股東、實際控制人變化，不影響公司治理結構和持續經營。截至公告披露日，減持計劃尚未實施完畢。"
+    },
+    {
+      "id": "mkt:019efeb5-0f25-7dd8-b11a-6e7fd71ff1e6",
+      "time": "2026-06-25 20:15:39",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "Brent"
+      ],
+      "text": "Medical and security sources said an Israeli drone struck a car in southern Lebanon, killing two."
+    },
     {
       "id": "mkt:019efeb4-459e-7dd8-b11a-66f8a24f0620",
       "time": "2026-06-25 20:14:47",
@@ -154924,62 +154972,6 @@
         "公司"
       ],
       "text": "美國民主黨參議員達克沃斯：SpaceX 訂單需求 “空前火爆” 且熱度持續不減。"
-    },
-    {
-      "id": "4943505",
-      "time": "2026-06-18 20:19:10",
-      "tags": [
-        "其他"
-      ],
-      "text": "歐佩克預計到2050年石油需求將達到約1.24億桶/日。"
-    },
-    {
-      "id": "4943504",
-      "time": "2026-06-18 20:19:03",
-      "tags": [
-        "國際"
-      ],
-      "text": "【伊朗外長與科威特外交大臣通話 介紹伊美諒解備忘錄進展】當地時間6月18日，伊朗外交部長阿拉格齊與科威特外交大臣傑拉赫舉行電話會談，就伊美諒解備忘錄、地區局勢以及雙邊關係等問題交換意見並進行討論。在通話中，阿拉格齊介紹了該諒解備忘錄的內容以及相關最新進展。阿拉格齊還表示，伊朗高度重視睦鄰友好政策，並希望該協議能夠推動地區和平與穩定的恢復。他同時強調，有必要與波斯灣沿岸國家開展對話，以加強相互合作並消除現有誤解。雙方還就雙邊關係中的若干重要議題交換了意見，並同意繼續透過外交渠道保持磋商，推進相關事項的落實。（央視新聞）"
-    },
-    {
-      "id": "4943503",
-      "time": "2026-06-18 20:18:39",
-      "tags": [
-        "其他"
-      ],
-      "text": "義大利經濟部長：對於涉及蒙特帕斯基銀行的併購交易，義大利將持中立立場。"
-    },
-    {
-      "id": "4943502",
-      "time": "2026-06-18 20:18:13",
-      "tags": [
-        "其他"
-      ],
-      "text": "【華為公佈Wi-Fi 7專利許可費率 每臺裝置0.5美元】華為今日公佈將其Wi-Fi 7裝置的專利許可費率設定為每臺裝置0.5美元。使用者可透過雙邊許可協議或專利池，以公平、合理、無歧視（FRAND）原則獲取許可。截至2024年底，超過12億部消費類電子裝置在Wi-Fi領域獲得了華為的專利授權。 (科創板日報)"
-    },
-    {
-      "id": "4943501",
-      "time": "2026-06-18 20:16:46",
-      "tags": [
-        "公司"
-      ],
-      "text": "【北京啟動全市防汛四級應急響應 已釋出多重藍色預警】6月18日16時30分，北京啟動全市防汛四級應急響應。北京市防汛辦提示，請有關單位按照預案落實降雨防範應對措施，做好防汛工作。 北京市氣象臺6月18日16時30分發布暴雨藍色預警訊號，預計19日14時至20日2時，北京市有雷陣雨天氣，部分地區將出現小時雨量30毫米以上的短時強降水，局地6小時累計雨量可達50毫米以上，請注意防範。 同日16時30分，北京市水務局與北京市氣象局聯合釋出積水內澇風險藍色預警，預計19日14時至20日2時，朝陽區、豐臺區、大興區存在積水內澇一般風險。請廣大市民關注天氣形勢及雨水情變化，出行儘量避開低窪處，同時做好地下空間防護工作。 此外，6月18日16時30分，北京市規劃和自然資源委員會聯合北京市氣象局釋出地質災害氣象風險藍色預警：6月18日16時30分至6月20日16時30分，北京市山區有發生崩塌、滑坡等地質災害的風險(藍色預警)，請注意防範。 記者瞭解到，為應對此次天氣過程，6月18日16時30分，北京排水集團啟動防汛四級響應，工作人員將加強雨情監測，各指揮部及防汛單位將在降雨前到位，按照防汛預案開展工作。（新華社）"
-    },
-    {
-      "id": "4943500",
-      "time": "2026-06-18 20:16:24",
-      "tags": [
-        "其他"
-      ],
-      "text": "OPEC：未來太陽能將成為可再生能源中增長最快、規模最大的能源品類。"
-    },
-    {
-      "id": "4943499",
-      "time": "2026-06-18 20:15:57",
-      "tags": [
-        "其他"
-      ],
-      "text": "OPEC：隨著環保法規收緊，煤炭被視為唯一萎縮的能源來源。"
     }
   ]
 }
