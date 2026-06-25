@@ -1,7 +1,15 @@
 {
-  "updated": "2026-06-26 04:23:38",
-  "count": 16985,
+  "updated": "2026-06-26 04:27:35",
+  "count": 16983,
   "items": [
+    {
+      "id": "mkt:019f0074-562d-7dd8-b126-1306e3a9361b",
+      "time": "2026-06-26 04:24:11",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "California, citing concern the rules could be withdrawn, is seeking a court order to block the U.S. Environmental Protection Agency (EPA) from submitting vehicle emissions rules to Congress."
+    },
     {
       "id": "4955863",
       "time": "2026-06-26 04:22:03",
@@ -155413,34 +155421,6 @@
         "國際"
       ],
       "text": "【俄外交部：俄將對歐盟新一輪制裁採取強硬反制】俄羅斯外交部發言人扎哈羅娃18日在例行記者會上表示，俄羅斯將對歐盟15日透過的對俄製裁採取強硬有效的反制措施。扎哈羅娃說，歐盟一方面談論對糧食安全、能源安全、世界命運的關切，一方面企圖透過制裁對俄羅斯施壓。但他們沒有意識到，這些制裁措施不僅無效，而且對他們自身以及全世界也造成損害。扎哈羅娃認為，歐方不斷擴大、加強、炮製新的針對俄羅斯的限制措施，但難以奏效，且無法逃避制裁帶來的反作用。扎哈羅娃還警告說，如果任何北約國家對俄羅斯發動侵略，必將受到堅決的、毀滅性的回擊。 (新華社)"
-    },
-    {
-      "id": "4944294",
-      "time": "2026-06-19 04:26:50",
-      "tags": [
-        "國際"
-      ],
-      "text": "【黎巴嫩總統：本輪衝突致黎近18%國土受損】黎巴嫩總統奧恩18日發表宣告說，本輪以色列與黎巴嫩真主黨的衝突導致黎方近18%的國土受損、超過3500人死亡。奧恩說，衝突中，黎巴嫩約6.8萬套住房被摧毀，277個城鎮和村莊受到影響；黎方約1.1萬人受傷，約100萬人流離失所，部分遇難者遺體仍被埋在廢墟之下。戰爭造成的破壞不僅限於軍事目標，還波及住宅、道路、電力、供水、學校和醫院等民用設施，給災後重建帶來困難。（新華社）"
-    },
-    {
-      "id": "4944293",
-      "time": "2026-06-19 04:24:23",
-      "tags": [
-        "市場"
-      ],
-      "text": "【國際油價18日漲跌不一】國際油價18日漲跌不一。截至當天收盤，紐約商品交易所7月交貨的輕質原油期貨價格下跌19美分，收於每桶76.60美元，跌幅為0.25%；8月交貨的倫敦布倫特原油期貨價格上漲30美分，收於每桶79.85美元，漲幅為0.38%。"
-    },
-    {
-      "id": "te:markets:560173",
-      "time": "2026-06-19 04:24:07",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Stock Market",
-        "Importance 2"
-      ],
-      "text": "US Stocks Finish on Strong Note — US equities closed higher on Thursday, as tech strength and optimism over a potential US-Iran deal offset concerns over a hawkish Federal Reserve. The S&P 500 advanced 1% and the Nasdaq 100 gained 1.9%, while the Dow rose by 72 points. The signing of an interim peace agreement between the United States and Iran, which includes the reopening of the Strait of Hormuz, spurred optimism that it would help ease energy-driven inflationary pressures. Meanwhile, the Federal Reserve kept rates steady, with half of officials signaling that at least one rate increase may be warranted this year. Intel surged 10.5% after President Trump announced that the semiconductor giant would produce chips for Apple in the US. The news lifted the broader chip sector, with Nvidia rising 2.8% and Micron Technology climbing 8.5%. SpaceX dropped 3.5%, extending its decline for a second consecutive session after its much-hyped market debut last week."
     }
   ]
 }
