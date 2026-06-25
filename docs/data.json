@@ -1,7 +1,189 @@
 {
-  "updated": "2026-06-25 20:49:25",
-  "count": 17022,
+  "updated": "2026-06-25 20:53:37",
+  "count": 17025,
   "items": [
+    {
+      "id": "mkt:019efed7-1d9a-7dd8-b11c-e23edaadb367",
+      "time": "2026-06-25 20:52:51",
+      "tags": [
+        "MKT News",
+        "TSLA.O",
+        "Impact bullish"
+      ],
+      "text": "Tesla (TSLA.O) said production at its Berlin Gigafactory will rise to 7,500 vehicles per week from October 2026, implying a further ~20% increase in output."
+    },
+    {
+      "id": "4955278",
+      "time": "2026-06-25 20:52:42",
+      "tags": [
+        "其他"
+      ],
+      "text": "【中國駐委內瑞拉使館提醒中國公民防範地震災害】中國駐委內瑞拉使館提醒在委中國公民密切關注當地地震預警和災害相關資訊，防範餘震及地震導致的次生災害；保持冷靜，做好安全防護，保持通訊裝置暢通。請相關地區中國公民立即遠離海邊，轉移至安全區域避險。如遇緊急情況，請及時報警並聯系駐委內瑞拉使館尋求協助。"
+    },
+    {
+      "id": "4955277",
+      "time": "2026-06-25 20:52:24",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國擬取消無人駕駛汽車剎車踏板要求。"
+    },
+    {
+      "id": "mkt:019efed6-9777-7dd8-b11c-d8f49dca3df7",
+      "time": "2026-06-25 20:52:16",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "Impact bearish",
+        "USDJPY"
+      ],
+      "text": "【US initial jobless claims fall to 215,000; layoffs remain low】US initial jobless claims fell 12,000 to 215,000 in the week ended June 20, the Department of Labor said Thursday, below FactSet consensus of 225,000. The four-week moving average rose 750 to 224,250. Continuing claims for the week ended June 13 rose 21,000 to 1.82 million. Despite economic headwinds, layoffs remain at low levels."
+    },
+    {
+      "id": "4955276",
+      "time": "2026-06-25 20:52:15",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【墨西哥延長對部分美國鋼管進口的關稅】根據官方公報釋出的一項決議，墨西哥將對從美國進口的縱向焊接碳鋼管的反傾銷稅延長五年。關稅根據出口公司不同，範圍從6.77%至25.43%不等。延長措施自2025年5月28日起追溯生效。"
+    },
+    {
+      "id": "4955275",
+      "time": "2026-06-25 20:52:00",
+      "tags": [
+        "國際"
+      ],
+      "text": "歐盟在 Mythos 模型訪問許可權遭切斷後，已就 Anthropic 相關事宜與白宮展開磋商。"
+    },
+    {
+      "id": "mkt:019efed6-5994-7dd8-b11c-d30fe9922ab6",
+      "time": "2026-06-25 20:52:00",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Star Stocks",
+        "Tesla",
+        "Market Themes",
+        "Magnificent 7",
+        "TSLA.O",
+        "Impact mixed"
+      ],
+      "text": "Tesla (TSLA.O): The 20% production growth target for the Berlin Gigafactory announced in April is under revision again."
+    },
+    {
+      "id": "mkt:019efed5-c081-7dd8-b11c-c9e433c33448",
+      "time": "2026-06-25 20:51:21",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Apple",
+        "Market Themes",
+        "AI Revolution",
+        "Magnificent 7",
+        "AAPL.O",
+        "Impact mixed",
+        "MU.O",
+        "Impact bullish"
+      ],
+      "text": "【Memory costs surge, Apple raises MacBook and iPad prices; iPhone unaffected】Apple said on Thursday it has raised iPad and MacBook prices after it could no longer absorb soaring memory and storage chip costs driven by AI data-center buildouts. The company said the changes do not affect the iPhone, its primary profit driver. The move highlights that even the world’s largest consumer-electronics firm is exposed to the memory-price squeeze that has dimmed smartphone and PC demand outlooks. Memory makers such as Micron have prioritized orders from AI chipmakers including NVIDIA, boosting those firms’ profits but creating component shortages for electronics OEMs and forcing price pass-throughs."
+    },
+    {
+      "id": "4955273",
+      "time": "2026-06-25 20:51:04",
+      "tags": [
+        "其他"
+      ],
+      "text": "特斯拉就柏林工廠表態：計劃增產的同時，還將再招聘1000名員工。"
+    },
+    {
+      "id": "4955272",
+      "time": "2026-06-25 20:51:02",
+      "tags": [
+        "其他"
+      ],
+      "text": "蘋果將 Vision Pro 頭顯的價格從 3499 美元上調至 3699 美元。"
+    },
+    {
+      "id": "4955271",
+      "time": "2026-06-25 20:50:46",
+      "tags": [
+        "其他"
+      ],
+      "text": "【人工智慧教育啟動首屆招生】“人工智慧教育”是教育部去年新增設的本科專業。今年，全國多所高校全新開設這一專業，並啟動首屆招生。北京師範大學、首都師範大學、東北師範大學、青島大學、華南師範大學等多所高校新增“人工智慧教育”本科專業，並將其納入招生計劃。該專業聚焦教育與人工智慧的交叉融合，培養兼具AI素養與教育實踐能力的複合型人才。 在北京師範大學，人工智慧教育專業以“智慧教育卓越人才實驗班”的形式啟動首屆招生，實驗班採用“3+1+X”培養模式。首都師範大學的人工智慧教育專業計劃招收20名本科生，高考選科要求為物理+化學，將和其他高校、科技企業、中小學實驗室開展聯合培養。青島大學的人工智慧教育專業計劃招生30人，學科定位為教育學+人工智慧+資料科學的交叉學科，高考選科要求必選物理。東北師範大學該專業按照計算機類大類招生，選科要求為物理+化學，大二可分流至人工智慧教育專業。華南師範大學該專業計劃招收40人，高考選科要求必選物理。 （央視財經）"
+    },
+    {
+      "id": "4955270",
+      "time": "2026-06-25 20:50:34",
+      "tags": [
+        "其他"
+      ],
+      "text": "特斯拉關於柏林超級工廠的表態：自2026年10月起，該廠周產量將逐步提升至7500輛，產量將在此基礎上再增長20%。"
+    },
+    {
+      "id": "mkt:019efed4-cfd3-7dd8-b11c-c189d17c69f3",
+      "time": "2026-06-25 20:50:20",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "Romania's foreign ministry said it expelled Russia's consul general in Constanta after a drone crash, and called Russia's subsequent expulsion of Romanian diplomats \"predictable\"."
+    },
+    {
+      "id": "4955269",
+      "time": "2026-06-25 20:49:43",
+      "tags": [
+        "其他"
+      ],
+      "text": "特斯拉就柏林超級工廠事宜表示：四月份宣佈的產能提升20%計劃如今將再次調整。"
+    },
+    {
+      "id": "mkt:019efed3-ccc3-7dd8-b11c-bff6fe621759",
+      "time": "2026-06-25 20:49:13",
+      "tags": [
+        "MKT News",
+        "Important",
+        "DXY",
+        "Impact bullish",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "Mexico will extend anti-dumping duties on U.S. carbon-steel pipe imports for five years, the Official Gazette said."
+    },
+    {
+      "id": "4955268",
+      "time": "2026-06-25 20:49:05",
+      "tags": [
+        "國際"
+      ],
+      "text": "羅馬尼亞外交部表示，在羅馬尼亞因無人機墜毀事件驅逐俄羅斯駐康斯坦察總領事之後，俄羅斯的驅逐行動“在預料之中”。"
+    },
+    {
+      "id": "4955267",
+      "time": "2026-06-25 20:48:59",
+      "tags": [
+        "資料",
+        "國際"
+      ],
+      "text": "【美國通脹升至三年高點 消費支出增長加快】美國5月消費者支出增長加快，儘管通脹升至三年多來最高水平，顯示美國消費者正挺過伊朗戰爭帶來的衝擊。美國經濟分析局週四公佈的資料顯示，美國5月個人消費支出(PCE)價格指數同比上升4.1%，創2023年4月以來最大升幅。剔除食物和能源價格後，核心PCE價格指數同比上升3.4%。經通脹調整後的消費者支出較前月增長0.3%。另一份報告顯示，美國經濟第一季度摺合年率增長2.1%，增速高於此前公佈的初值。"
+    },
+    {
+      "id": "te:markets:561888",
+      "time": "2026-06-25 20:48:57",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "US Futures Hold Gains after PCE Report — US equity futures gained on Thursday after the earnings report by Micron Technology restored support for the artificial intelligence trade. Contracts for the Nasdaq 100 gained over 2% and those for the S&P 500 added 1%. Micron surged 17% premarket after beating earnings and sales expectations and estimating approximately a revenue of $50 billion in the quarter to August, above the expectations of $43.2 billion. Stability for the AI infrastructure sector was also supported by Micron unveiling 16 longer-term contracts. Also, Qualcomm jumped 15% after the chipmaker doubled its projection for non-handset revenue in the next thee years and announced a partnership with Meta. Softer inflationary risks also supported broader sectors as energy prices also continued fall and PCE price indices refrained from overshooting expectations, lifting the Dow to a record high of over 52,000. Banking shares gained as lenders will raise their dividends after passing the Federal Reserve's stress test."
+    },
     {
       "id": "te:economy:561887",
       "time": "2026-06-25 20:48:21",
@@ -155412,144 +155594,6 @@
         "公司"
       ],
       "text": "【三部門印發消費類網聯攝像頭網路安全標識實施規則】國家網信辦、工業和資訊化部、公安部近日印發消費類網聯攝像頭網路安全標識實施規則。規則明確，消費類網聯攝像頭的網路安全標識對應的網路安全能力由低到高依次為基礎級、增強級、領先級三個級別，相應的標識等級分別用一星、二星、三星表示。規則適用於消費類網聯攝像頭的網路安全標識的備案和使用。消費類網聯攝像頭是指消費者個人或組織購買、使用，為個人或組織提供音影片資訊採集和處理服務、具有網際網路聯網功能的獨立攝像頭。不適用於公共安全領域的攝像頭。 (新華社)"
-    },
-    {
-      "id": "mkt:019edacb-30e9-7dd8-b07d-c317e34ecacf",
-      "time": "2026-06-18 20:53:29",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy"
-      ],
-      "text": "Spanish oil firm Repsol said its agreement with Venezuela includes development of the new Horcon oilfield."
-    },
-    {
-      "id": "4943596",
-      "time": "2026-06-18 20:53:07",
-      "tags": [
-        "公司"
-      ],
-      "text": "西班牙雷普索爾公司表示，與委內瑞拉達成的協議包括開發新油田霍孔 。雷普索爾在宣告中表示，計劃推進對委內瑞拉海上天然氣開發機遇的分析評估。"
-    },
-    {
-      "id": "mkt:019edaca-2129-7dd8-b07d-ba3ab797ee47",
-      "time": "2026-06-18 20:52:20",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Amazon",
-        "Market Themes",
-        "Magnificent 7"
-      ],
-      "text": "Amazon will offer Alexa+ free during an early-access program in Brazil."
-    },
-    {
-      "id": "4943595",
-      "time": "2026-06-18 20:52:05",
-      "tags": [
-        "公司"
-      ],
-      "text": "亞馬遜：對於尚未成為Prime會員的客戶，Alexa+巴西版月費為99.90雷亞爾，幷包含亞馬遜照片2TB儲存空間。"
-    },
-    {
-      "id": "4943594",
-      "time": "2026-06-18 20:51:42",
-      "tags": [
-        "公司"
-      ],
-      "text": "亞馬遜：Alexa+在巴西早鳥體驗階段將免費開放。"
-    },
-    {
-      "id": "4943593",
-      "time": "2026-06-18 20:51:38",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：以色列總理內塔尼亞胡正試圖透過右翼媒體人物和友好參議員向美國總統特朗普施壓，以影響最終的伊朗協議。"
-    },
-    {
-      "id": "4943592",
-      "time": "2026-06-18 20:50:58",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "微軟和亞馬遜的雲服務面臨歐盟嚴格的反壟斷法。"
-    },
-    {
-      "id": "4943591",
-      "time": "2026-06-18 20:50:41",
-      "tags": [
-        "公司"
-      ],
-      "text": "【*ST正平：提示股票交易及多項經營風險】*ST正平公告稱，公司股票自2026年5月12日至6月4日累計跌幅達18.44%，6月5日至18日漲幅達15.03%，股價劇烈波動積累較高交易風險。此外，公司尚未回覆上交所2025年年報問詢函，撤銷退市風險警示結果不確定；2025年經審計淨資產雖為5049.42萬元，但不排除調整為負的可能；公司礦產開採能力不足、採礦權可能被凍結；預重整申請能否被受理、債權申報準確性和完整性均存在不確定性，提醒投資者注意風險。"
-    },
-    {
-      "id": "4943590",
-      "time": "2026-06-18 20:50:31",
-      "tags": [
-        "公司"
-      ],
-      "text": "【北京人形機器人與中國郵政達成合作 將共建全國首家機器人主題郵局】6月18日，北京人形機器人創新中心有限公司與中國郵政集團有限公司北京市分公司宣佈達成戰略合作。雙方將共建全國首家機器人主題郵局，併成立 “具身智慧・智慧郵政聯合創新實驗室”，針對複雜環境作業、異形包裹分揀等方向開展專項測試，將成熟方案批次推廣至郵政網點、倉儲場地；雙方基於具身天工機器人平臺等，落地智慧倉儲、自動分揀、無人末端配送、醫療冷鏈遞送等場景，並差異化部署智慧機器人服務。雙方將聯合首發《人工智慧》特種郵票。 (科創板日報)"
-    },
-    {
-      "id": "mkt:019edac8-23c6-7dd8-b07d-b6dc7745d52d",
-      "time": "2026-06-18 20:50:09",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Amazon",
-        "Market Themes",
-        "Magnificent 7",
-        "AMZN.O",
-        "Impact bullish"
-      ],
-      "text": "Amazon said it will expand Alexa+ into more than ten additional countries by 2027."
-    },
-    {
-      "id": "4943589",
-      "time": "2026-06-18 20:49:55",
-      "tags": [
-        "公司"
-      ],
-      "text": "亞馬遜：還將在2027年把Alexa+擴充套件至另外10多個國家。"
-    },
-    {
-      "id": "te:markets:560099",
-      "time": "2026-06-18 20:49:33",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Currency",
-        "Importance 2"
-      ],
-      "text": "Dollar Climbs to More Than One-Year High — The dollar index extended its gains for a second straight session, rising to 100.6 on Thursday and reaching its highest level since May 2025, as investors ramped up bets on Fed rate hikes later this year following a hawkish signal from the Federal Reserve. The Fed left rates unchanged as expected but signalled growing support for tighter policy later this year. Around half of FOMC members now project at least one rate increase in 2026, while the central bank also raised its inflation forecasts amid the economic impact of the conflict in the Middle East. Fed Chair Kevin Warsh declined to provide guidance on the next policy move but stressed that inflation has remained above the 2% target for several years, reaffirming the Fed’s commitment to restoring price stability. Markets are now fully pricing in a rate hike by October. The greenback strengthened broadly, with the largest gains seen against the British pound and Swiss franc after both the BoE and the SNB kept rates unchanged."
-    },
-    {
-      "id": "4943588",
-      "time": "2026-06-18 20:49:30",
-      "tags": [
-        "公司"
-      ],
-      "text": "亞馬遜：ALEXA+登陸巴西，新一代人工智慧助手加速國際化程序。"
-    },
-    {
-      "id": "4943587",
-      "time": "2026-06-18 20:49:26",
-      "tags": [
-        "市場"
-      ],
-      "text": "紐約期銀日內跌6%，現報66.98美元/盎司。"
-    },
-    {
-      "id": "4943586",
-      "time": "2026-06-18 20:49:26",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "紐約期銀失守67美元/盎司，日內跌6.05%。"
     }
   ]
 }
