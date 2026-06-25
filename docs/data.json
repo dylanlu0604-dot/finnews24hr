@@ -1,7 +1,38 @@
 {
-  "updated": "2026-06-25 22:41:19",
-  "count": 16953,
+  "updated": "2026-06-25 22:45:31",
+  "count": 16950,
   "items": [
+    {
+      "id": "mkt:019eff3d-7c8e-7dd8-b11f-34fcd3275aa1",
+      "time": "2026-06-25 22:44:40",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "U.S. Energy Secretary Wright said he expects Iran's daily crude exports could reach as high as 2 million barrels per day."
+    },
+    {
+      "id": "4955460",
+      "time": "2026-06-25 22:44:39",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "【新萊福：員工戰略配售資管計劃擬減持不超0.43%公司股份】新萊福(301323)6月25日公告，持股0.43%的股東中信證券—渤海銀行—中信證券新萊福員工參與創業板戰略配售集合資產管理計劃（簡稱“新萊福資管計劃”）計劃透過大宗交易或集中競價交易方式減持公司股份不超過45.92萬股，不超過公司總股本的0.43%。"
+    },
+    {
+      "id": "4955459",
+      "time": "2026-06-25 22:44:12",
+      "tags": [
+        "其他"
+      ],
+      "text": "賴特表示，1.72億桶儲備原油釋放計劃仍在推進中。"
+    },
     {
       "id": "4955458",
       "time": "2026-06-25 22:38:56",
@@ -93,6 +124,24 @@
         "公司"
       ],
       "text": "6月25日，杭州靈卡科技股份有限公司正式向港交所遞交上市申請。"
+    },
+    {
+      "id": "4955450",
+      "time": "2026-06-25 22:35:45",
+      "tags": [
+        "其他"
+      ],
+      "text": "【我國具身智慧市場規模將突破萬億元】在今年的鏈博會上，具身智慧產業鏈上下游企業組團亮相，完整呈現了從核心零部件到整機系統再到場景應用的產業閉環。而展館之外，這條上下游協同、閉環創新的完整產業鏈路也正在加速成型。 在一傢俱身智慧模型企業，他們最新研發的視觸覺感測器技術，僅依靠機器人夾爪內部的攝像頭，機器人手部的力度資料就可以被精準採集。目前，這一技術已經被用在了資料採集機器人上。 在產業集聚區，鏈上企業距離相近，交流十分頻繁，從資料採集標準，到模型迭代的引數，大家坐在一起邊測邊改，技術落地自然也更為高效。 上下游協同創新，正在加快機器人走向真實生活場景的步伐。在另一家電子皮膚企業裡，央視財經記者看到，為了完成更精細的操作，透過對上游資料的大量學習，機器人正從努力倒穩一杯水做起。相關負責人表示：“手上布有1000多個觸覺畫素點，可以豐富地感知瓶子的抓取物品的姿態變化，還有重心的變化，發貨量突破1萬套。” 資料顯示，2025年中國具身智慧市場規模約9150億元，預計2026年將達10904億元。目前，全國具身智慧相關企業數量已突破萬家。產業鏈的成熟，帶來的是創新效率的根本性變化。（央視財經）"
+    },
+    {
+      "id": "4955449",
+      "time": "2026-06-25 22:34:51",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "【炮轟馬斯克後，諾獎得主最新預警：美股特殊時點！當下是AI“準泡沫”即將破裂狀態】“我認為我們需要指出的是，當下就是（AI）‘準泡沫’即將破裂的狀態。”近日，諾貝爾經濟學獎得主保羅·克魯格曼談到美國、韓國半導體板塊在近日劇烈調整時，發出這樣的預警。在AI風潮引領股市上漲的當下，快速上漲所積累的風險，正在被市場更多地討論。克魯格曼認為，近期的大跌或許並沒有想象中嚴重，但下跌發生的節點十分特殊，當下行業對AI的整體敘事已全面降溫。不久前，這位知名經濟學者將炮口對準埃隆·馬斯克，稱其是“真人版龐氏騙局”。克魯格曼稱，投資者深信馬斯克的“天才人設”，紛紛湧入他所控股公司的股票，而市值上漲又反過來鞏固了他的天才聲譽。SpaceX荒謬的估值完全依賴於馬斯克“天才光環”的預期，而非對商業價值的理性評估。（中新經緯）"
     },
     {
       "id": "4955448",
@@ -154859,81 +154908,6 @@
         "Importance 1"
       ],
       "text": "US Natgas Prices Edge Up — US natural gas prices rose to $3.16 per MMBtu after the latest EIA report showed a slightly smaller-than-expected increase in storage. US energy companies added 73 billion cubic feet of gas to inventories in the week ended June 12, below forecasts for a 75 bcf build. The increase compares with a 97 bcf injection during the same week last year and matches the five-year average for the period. Total stockpiles climbed to 2.759 trillion cubic feet, around 1% below last year’s level but 5.8% above the five-year average. The latest build also slowed from the previous week’s 108 bcf increase. Warmer-than-normal temperatures are expected through July 3, supporting demand from power generators as air conditioning usage rises. Meanwhile, average gas flows to the nine major US LNG export facilities remained steady at 17.1 bcfd in June, unchanged from May due to ongoing maintenance. US Lower 48 production has eased slightly, averaging 109.4 bcfd so far in June compared with 109.7 bcfd in May."
-    },
-    {
-      "id": "4943810",
-      "time": "2026-06-18 22:45:07",
-      "tags": [
-        "其他"
-      ],
-      "text": "【數名中國公民因參與非法採礦被逮捕，中國駐馬拉維使館釋出提醒】近期，馬拉維有關部門在多地開展打擊非法採礦專項行動，已有數名中國公民因參與非法採礦活動被逮捕。近年來，馬政府加大力度打擊非法採礦和跨境礦產走私行為，並全面禁止原礦出口。參與無證採礦、非法出口礦產等人員將面臨嚴重刑事處罰，繳納高額罰金甚至被判處數年監禁。（中國駐馬使館）"
-    },
-    {
-      "id": "mkt:019edb30-a1ed-7dd8-b081-671dc6100fd0",
-      "time": "2026-06-18 22:44:17",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "India's foreign secretary said leaders must manage inevitable ups and downs in US-India relations."
-    },
-    {
-      "id": "4943809",
-      "time": "2026-06-18 22:43:35",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【英特爾股價漲幅縮窄至7%】英特爾股價漲幅縮窄至7%，此前一度漲11%。訊息面上，特朗普表示蘋果將與該公司合作進行晶片設計和生產。"
-    },
-    {
-      "id": "4943808",
-      "time": "2026-06-18 22:43:17",
-      "tags": [
-        "國際"
-      ],
-      "text": "【韓國重申尊重臺灣是中國一部分的立場從未變化】韓國外交部東北亞中亞局局長南鎮18日向韓媒記者吹風，強調韓方尊重臺灣是中國一部分的立場從未變化。南鎮表示，1992年《韓中建交聯合公報》規定，大韓民國政府承認中華人民共和國政府為中國的唯一合法政府，並尊重中方只有一箇中國、臺灣是中國一部分的立場。韓國曆屆政府的這一立場從未變化。（新華社）"
-    },
-    {
-      "id": "mkt:019edb2e-810b-7dd8-b081-58f9ddcdeb07",
-      "time": "2026-06-18 22:41:58",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy"
-      ],
-      "text": "U.S. Federal Energy Regulatory Commission (FERC) said grid operators will have 60-90 days to assess data-center power demand."
-    },
-    {
-      "id": "4943807",
-      "time": "2026-06-18 22:41:52",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國聯邦能源監管委員會：電網企業需在 60 至 90 天內完成資料中心用電相關稽核。"
-    },
-    {
-      "id": "te:markets:560138",
-      "time": "2026-06-18 22:41:45",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "stocks",
-        "Importance 1"
-      ],
-      "text": "Lockheed Martin Stock Price Hits 5-week Low — Lockheed Martin shares decreased to 509.69 USD, the lowest since May 2026. Over the past 4 weeks, Lockheed Martin lost 2.97%, and in the last 12 months, it increased 8.59%."
-    },
-    {
-      "id": "mkt:019edb2e-224d-7dd8-b081-5213b6780fd4",
-      "time": "2026-06-18 22:41:34",
-      "tags": [
-        "MKT News",
-        "GBPUSD",
-        "Impact bullish",
-        "DXY",
-        "Impact bearish"
-      ],
-      "text": "【eToro says BoE rate hike cannot be ruled out】eToro strategist Lale Akoner said the Bank of England may keep rates unchanged for months but a rate hike cannot be ruled out. The BoE left Bank Rate at 3.75% on Thursday, citing a weak economic outlook; Akoner said inflation is expected to remain above target into next year, so the risk of another hike has not fully disappeared."
     }
   ]
 }
