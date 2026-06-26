@@ -1,7 +1,64 @@
 {
-  "updated": "2026-06-27 01:05:10",
-  "count": 18030,
+  "updated": "2026-06-27 01:09:10",
+  "count": 18032,
   "items": [
+    {
+      "id": "mkt:019f04e7-bee1-7dd8-b13c-40590051d8ba",
+      "time": "2026-06-27 01:08:44",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. Centers for Disease Control and Prevention says the risk of Ebola transmission in the U.S. remains relatively low."
+    },
+    {
+      "id": "mkt:019f04e6-9173-7dd8-b13c-3ed4fdc22490",
+      "time": "2026-06-27 01:07:27",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "OpenAI begins limited preview testing of its GPT-5.6 series."
+    },
+    {
+      "id": "mkt:019f04e6-11d2-7dd8-b13c-32d5ef27ea26",
+      "time": "2026-06-27 01:06:54",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "US Centers for Disease Control and Prevention raised its response level for the Congo Ebola outbreak to Level 1, the agency's highest."
+    },
+    {
+      "id": "4957877",
+      "time": "2026-06-27 01:06:02",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "據 Semafor 報道，貝森特就人工智慧相關事宜展開溝通，並對美聯儲支付系統發出警示。"
+    },
+    {
+      "id": "4957876",
+      "time": "2026-06-27 01:05:20",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國疾控中心將針對剛果埃博拉疫情的應急響應等級提升至一級啟動狀態，即最高響應級別。"
+    },
+    {
+      "id": "mkt:019f04e4-2fdf-7dd8-b13c-28da647eb0f2",
+      "time": "2026-06-27 01:04:51",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "Baker Hughes said US energy companies added the most drilling rigs in a single week since June 2022."
+    },
     {
       "id": "mkt:019f04e3-3747-7dd8-b13c-254b4ca91e88",
       "time": "2026-06-27 01:03:47",
@@ -164846,41 +164903,6 @@
         "Importance 3"
       ],
       "text": "Week Ahead - Jun 22nd — The return of tankers crossing the Strait of Hormuz will be the focus next week after the US and Iran agreed to lift their blockade on the chokepoint. On the data front, the US will release the personal income and spending aggregates, which include the PCE price index, and durable goods orders. Leading indicators are also featured with S&P PMIs, the UMich consumer confidence index, and regional Fed indexes. Leading indicators are also the focus in Europe, including PMIs, the GfK, Ifo, CBI, and European Commission confidence surveys for their respective countries. Japan, India, and Australia will post their PMIs, while latter will release inflation rates and employment figures and China will unveil industrial profits. Also, the BoJ will release its Summary of Opinions."
-    },
-    {
-      "id": "4945374",
-      "time": "2026-06-20 01:07:55",
-      "tags": [
-        "公司"
-      ],
-      "text": "【第一量子巴拿馬銅礦被認定總體合規】在收到一份備受期待的審計報告後，巴拿馬在決定第一量子礦業公司（First Quantum Minerals Ltd.）能否重新開放一座巨型銅礦的問題上又邁進了一步。審計發現，該專案基本履行了其環境、法律、財政和運營義務。根據巴拿馬政府週五發表的一份宣告，由瑞士公司SGS SA進行的此次審查指出了行政管理流程、生物多樣性管理和生態恢復等方面有待改進的地方。但審計人員表示，這些不足並不構成會破壞整體結論的結構性缺陷。"
-    },
-    {
-      "id": "mkt:019ee0da-791c-7dd8-b099-9ff018cb9781",
-      "time": "2026-06-20 01:07:54",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "MSNBC reported President Trump spoke with Israeli officials on Friday, urging them to agree to a ceasefire with Hezbollah."
-    },
-    {
-      "id": "4945373",
-      "time": "2026-06-20 01:07:28",
-      "tags": [
-        "公司",
-        "焦點",
-        "國際"
-      ],
-      "text": "美國全國廣播公司訊息：特朗普週五早些時候與以色列方面通話，要求其同意與真主黨停火。"
-    },
-    {
-      "id": "4945372",
-      "time": "2026-06-20 01:06:18",
-      "tags": [
-        "國際"
-      ],
-      "text": "【歐洲理事會主席：正建立渠道以直接向俄傳遞歐盟資訊】歐洲理事會主席科斯塔19日表示，他正透過其辦公室建立一條外交渠道，以便能夠直接向俄羅斯傳遞歐盟資訊。科斯塔在歐盟峰會會後記者會上說，歐盟必須直接向俄羅斯傳遞其資訊，不能僅透過他方來解讀俄方資訊。（新華社）"
     }
   ]
 }
