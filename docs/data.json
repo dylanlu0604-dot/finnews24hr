@@ -1,7 +1,53 @@
 {
-  "updated": "2026-06-27 01:13:42",
-  "count": 18029,
+  "updated": "2026-06-27 01:17:50",
+  "count": 18033,
   "items": [
+    {
+      "id": "mkt:019f04ee-c3ba-7dd8-b13c-5aafb31afe70",
+      "time": "2026-06-27 01:16:24",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "The Federal Reserve accepted $6.426 billion from eight counterparties in its fixed-rate reverse repurchase operation."
+    },
+    {
+      "id": "4957880",
+      "time": "2026-06-27 01:16:10",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "美國聯邦貿易委員會（FTC）批准馬斯克收購MESH光學技術公司。"
+    },
+    {
+      "id": "4957879",
+      "time": "2026-06-27 01:15:58",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "週五（6月26日），美聯儲隔夜逆回購協議（RRP）使用規模為64.26億美元，上個交易日報57.18億美元。"
+    },
+    {
+      "id": "mkt:019f04ed-a98e-7dd8-b13c-52642f1f693a",
+      "time": "2026-06-27 01:15:11",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Lebanese sources said they will never accept any statement defending or permitting Israel’s continued presence on Lebanese territory."
+    },
+    {
+      "id": "mkt:019f04ec-c96c-7dd8-b13c-4f7f7d8ac23f",
+      "time": "2026-06-27 01:14:14",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "【Atlanta Fed search for new president deadlocked】TIMIRAOS reports the selection of a new president at the Federal Reserve Bank of Atlanta has deadlocked after the initial candidate slate failed to produce a nominee, forcing a restart of a search that has already lasted seven months. The delay highlights strains on Fed independence; regional presidents participate in rate-setting and their appointments are intended to be insulated from Washington political influence."
+    },
     {
       "id": "4957878",
       "time": "2026-06-27 01:08:51",
@@ -164867,14 +164913,6 @@
         "市場"
       ],
       "text": "布倫特8月原油期貨收報80.57美元/桶。"
-    },
-    {
-      "id": "4945377",
-      "time": "2026-06-20 01:17:06",
-      "tags": [
-        "國際"
-      ],
-      "text": "【伊美談判斡旋相關方將於21日在埃及舉行會晤】據伊朗媒體報道，埃及和巴基斯坦19日發表聯合宣告說，參與伊朗與美國談判程序斡旋工作的有關國家代表將於21日在埃及舉行會晤。（新華社）"
     }
   ]
 }
