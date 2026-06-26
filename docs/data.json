@@ -1,7 +1,85 @@
 {
-  "updated": "2026-06-26 22:15:41",
-  "count": 17954,
+  "updated": "2026-06-26 22:20:53",
+  "count": 17941,
   "items": [
+    {
+      "id": "4957734",
+      "time": "2026-06-26 22:18:49",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【6月26日增減持彙總】6月26日盤後，據不完全統計，華菱鋼鐵、*ST金科、可孚醫療、神馬股份等4家A股上市公司披露擬增持情況。峰岹科技、新風光、天宸股份、博敏電子、北京君正等5家A股上市公司披露擬減持情況。"
+    },
+    {
+      "id": "te:markets:562282",
+      "time": "2026-06-26 22:17:42",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "commodity",
+        "Importance 0"
+      ],
+      "text": "Sugar Hits 4-week High — Sugar increased to 14.64 USd/Lbs, the highest since May 2026. Over the past 4 weeks, Sugar gained 3.44%, and in the last 12 months, it decreased 7.49%."
+    },
+    {
+      "id": "4957733",
+      "time": "2026-06-26 22:17:38",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：前美國國家安全顧問對不當處理涉密檔案的指控表示認罪。"
+    },
+    {
+      "id": "mkt:019f044a-f927-7dd8-b139-64c2e457600f",
+      "time": "2026-06-26 22:17:29",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "【Iran reiterates national security and right of self‑defense are non‑negotiable】On June 26, Iranian foreign ministry spokesman BAGHAEI posted on social media that Iran is more concerned than any other party about regional collective security and described the actions of Gulf Cooperation Council member states as \"disappointing.\" He said Iran’s military capability guarantees the people’s exercise of their inherent right of self‑defense and underpins regional peace and stability. National security and national dignity are not for trade or conditionality; the inherent right of self‑defense will not be a subject for negotiation, and measures to safeguard it will not be compromised with any party."
+    },
+    {
+      "id": "4957732",
+      "time": "2026-06-26 22:17:01",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：俄羅斯原子能領域專家將在未來數週重返伊朗布什爾核電站。"
+    },
+    {
+      "id": "4957731",
+      "time": "2026-06-26 22:16:52",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金突破4090美元/盎司，日內漲1.63%。"
+    },
+    {
+      "id": "4957730",
+      "time": "2026-06-26 22:16:33",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗重申國家安全與合法自衛權不容談判】當地時間26日，伊朗外交部發言人巴加埃在社交媒體發文稱，伊朗比任何其他一方都更關注地區集體安全問題。巴加埃稱，海灣阿拉伯國家合作委員會（海合會）成員國的做法“令人沮喪”。巴加埃強調，伊朗的軍事能力是伊朗人民在面對侵略時行使固有合法自衛權的保障，同時也是地區和平與穩定的保障。伊朗的國家安全和民族尊嚴不容交易或附加任何條件；固有合法自衛權不會成為談判議題，維護這一權利的相關手段也不會成為與任何一方妥協的條件。海合會與美國25日發表聯合宣告表示，重新開放霍爾木茲海峽至關重要，反對任何在霍爾木茲海峽徵收通行費或試圖對該海峽實施控制的行為。（央視新聞）"
+    },
+    {
+      "id": "mkt:019f0449-b1cb-7dd8-b139-5f3e76fe594d",
+      "time": "2026-06-26 22:16:06",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Apple",
+        "Market Themes",
+        "Magnificent 7",
+        "AAPL.O",
+        "Impact mixed"
+      ],
+      "text": "【Memory, storage, CPU and GPU costs rise; several popular laptop models sharply repriced】Apple has raised prices on some notebooks and tablets across multiple global markets by about 16–25%. Domestic retail prices for a number of popular PC models have also jumped: a best‑selling gaming laptop that retailed around 7,000 yuan in July–August last year now sells above 10,000 yuan in Shenzhen. Price increases extend beyond gaming rigs to ordinary business notebooks; models that sold below 4,000 yuan last year are largely absent this year, while mid‑to‑high‑end notebooks have risen roughly 500–1,500 yuan. Dealers say component cost inflation — memory, SSDs, CPUs and GPUs — has pushed prices since Q4 last year amid a surge in global AI compute demand, and many resellers have been forced to adjust retail prices frequently after vendor repricing notices."
+    },
     {
       "id": "mkt:019f0446-efd1-7dd8-b139-52ae16079a15",
       "time": "2026-06-26 22:13:05",
@@ -163847,183 +163925,6 @@
         "國際"
       ],
       "text": "德國總理默茨：歐盟當前預算方案超出承受能力，無法接受。"
-    },
-    {
-      "id": "mkt:019ee041-5004-7dd8-b097-a6d4b14e3349",
-      "time": "2026-06-19 22:20:37",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Iran's foreign ministry said inspections of nuclear facilities, including the Bushehr plant, will continue; the IAEA's resumption of checks at some sites struck in recent attacks will depend on the outcome of negotiations."
-    },
-    {
-      "id": "mkt:019ee040-f207-7dd8-b097-99c4bc800f3c",
-      "time": "2026-06-19 22:20:13",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Ukrainian military says it has struck a railway bridge in Russian-held Crimea."
-    },
-    {
-      "id": "4945286",
-      "time": "2026-06-19 22:20:03",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗外交部稱，包括布什爾核電站在內的設施檢查將繼續進行；國際原子能機構能否恢復進入部分遭襲地點將取決於談判結果。"
-    },
-    {
-      "id": "4945285",
-      "time": "2026-06-19 22:19:42",
-      "tags": [
-        "其他"
-      ],
-      "text": "惠譽確認哈薩克主權信用評級為 BBB，前景展望穩定。"
-    },
-    {
-      "id": "4945284",
-      "time": "2026-06-19 22:19:29",
-      "tags": [
-        "國際"
-      ],
-      "text": "烏克蘭軍方稱已打擊俄羅斯控制下克里米亞境內的鐵路橋。"
-    },
-    {
-      "id": "4945283",
-      "time": "2026-06-19 22:19:20",
-      "tags": [
-        "公司"
-      ],
-      "text": "AbbVie收購生物科技公司Apogee Therapeutics的交易預計最早將於週一宣佈。"
-    },
-    {
-      "id": "mkt:019ee03f-c96a-7dd8-b097-90ee3112410a",
-      "time": "2026-06-19 22:18:57",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "FITCH affirmed Kazakhstan's rating at 'BBB' and kept the outlook stable."
-    },
-    {
-      "id": "4945282",
-      "time": "2026-06-19 22:18:50",
-      "tags": [
-        "公司"
-      ],
-      "text": "市場訊息：艾伯維接近以約110億美元收購生物技術公司Apogee Therapy。交易預計最早將在週一宣佈。"
-    },
-    {
-      "id": "mkt:019ee03f-b0cc-7dd8-b097-888baa5365aa",
-      "time": "2026-06-19 22:18:50",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "French President Macron said the issue is not who will negotiate with Russia, but that we must first clarify our position."
-    },
-    {
-      "id": "mkt:019ee03f-84da-7dd8-b097-84e9aa687202",
-      "time": "2026-06-19 22:18:39",
-      "tags": [
-        "MKT News",
-        "ABBV.N",
-        "Impact mixed"
-      ],
-      "text": "Financial Times reports AbbVie is close to a roughly $11bn takeover of biotech Apogee Therapy; the deal could be announced as soon as Monday."
-    },
-    {
-      "id": "mkt:019ee03f-024d-7dd8-b097-7c42bb930a85",
-      "time": "2026-06-19 22:18:06",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK"
-      ],
-      "text": "MACRON said Europeans would participate in any peace talks on the Ukraine war if such negotiations take place."
-    },
-    {
-      "id": "4945281",
-      "time": "2026-06-19 22:18:02",
-      "tags": [
-        "國際"
-      ],
-      "text": "法國總統馬克龍：如當烏克蘭戰爭和平談判舉行時，歐洲人將參與其中。"
-    },
-    {
-      "id": "4945280",
-      "time": "2026-06-19 22:17:36",
-      "tags": [
-        "國際"
-      ],
-      "text": "法國總統馬克龍：如果科斯塔的職權範圍明確，他在談判桌上應有一席之地。"
-    },
-    {
-      "id": "mkt:019ee03e-72ab-7dd8-b097-701d1815f405",
-      "time": "2026-06-19 22:17:29",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Iran's foreign ministry denies closure of Strait of Hormuz】Iran's foreign ministry spokesman Baghaei on the 19th denied media reports that the Strait of Hormuz had been closed. He said Iran's armed forces, under an Iran–U.S. memorandum of understanding, have taken necessary measures to ensure the safe passage of commercial vessels and that transit on the route is currently normal."
-    },
-    {
-      "id": "4945279",
-      "time": "2026-06-19 22:17:07",
-      "tags": [
-        "國際"
-      ],
-      "text": "法國總統馬克龍：歐洲並非烏克蘭衝突的調停方。"
-    },
-    {
-      "id": "te:markets:560507",
-      "time": "2026-06-19 22:17:03",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Gasoline Rebounds from 3-Month Low — Gasoline futures for delivery in the NY Harbor were near the $2.97 per gallon mark, slightly above the three-month low of $2.88 touched on June 16th as markets assessed the pace that supply from the Middle East may return. The US and Iran delayed the start of peace after their memorandum pledged to restart the exports of crude oil from the Persian Gulf. Reports indicated that supertankers had already sailed toward the Strait of Hormuz, and Qatar, Bahrain, and Kuwait were already studying increases in production capacity. The added supply is due to replenish refineries across the globe with the higher export quotas from OPEC+ and higher output from the UAE, which left the cartel during the conflict. The deal is also due to lift US sanctions on Iran, increasing the supply from the major producer. Iranian output will likely refill Chinese oil stockpiles, which were depleted in the last months as the world's largest importer refrained from purchasing oil to prop up prices further."
-    },
-    {
-      "id": "4945278",
-      "time": "2026-06-19 22:16:55",
-      "tags": [
-        "國際"
-      ],
-      "text": "【伊朗外交部否認霍爾木茲海峽關閉】伊朗外交部發言人巴加埃19日在社交媒體發文否認部分媒體有關“霍爾木茲海峽關閉”的說法。巴加埃說，伊朗武裝力量根據伊美諒解備忘錄，已採取必要措施確保商船安全透過霍爾木茲海峽，目前該航線的通行正常。（新華社）"
-    },
-    {
-      "id": "mkt:019ee03d-c010-7dd8-b097-6ba4c6d10c9d",
-      "time": "2026-06-19 22:16:43",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK"
-      ],
-      "text": "Macron says Europeans are not mediators in the Ukraine conflict."
-    },
-    {
-      "id": "mkt:019ee03d-9e91-7dd8-b097-6418858d446e",
-      "time": "2026-06-19 22:16:35",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Macron said he hopes the EU budget will address challenges to European sovereignty and security."
-    },
-    {
-      "id": "4945277",
-      "time": "2026-06-19 22:16:12",
-      "tags": [
-        "國際"
-      ],
-      "text": "馬克龍：歐盟預算需保障農業與科技領域開支。"
-    },
-    {
-      "id": "mkt:019ee03d-338b-7dd8-b097-5a6e9433f386",
-      "time": "2026-06-19 22:16:07",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "German Chancellor Merz said drug pricing policy is a national responsibility."
     }
   ]
 }
