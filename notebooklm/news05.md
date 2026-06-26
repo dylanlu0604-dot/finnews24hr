@@ -1,7 +1,55 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-06-27 01:49:38_
-_本檔包含 3503 則快訊，約 666332 字_
+_更新時間：2026-06-27 02:09:11_
+_本檔包含 3506 則快訊，約 666827 字_
+
+---
+
+### 2026-06-22 18:04:37  #公司 #焦點 #國際
+
+【海事情報公司：6月15日以來伊朗已出口3600萬桶原油】據海事情報公司“油輪追蹤者”（Tanker Trackers）當地時間6月22日訊息，自6月15日以來，伊朗已出口3600萬桶原油。（央視新聞）
+
+---
+
+### 2026-06-22 18:04:35  #MKT News #Important #Market Regions #Europe & UK
+
+UK MP Burnham says he will run for prime minister.
+
+---
+
+### 2026-06-22 18:04:16  #MKT News #Market Regions #Europe & UK
+
+UK lawmaker Burnham thanked Starmer for his leadership.
+
+---
+
+### 2026-06-22 18:04:02  #其他
+
+英國議員伯納姆：將確保黨魁換屆平穩有序推進。
+
+---
+
+### 2026-06-22 18:03:51  #其他 #焦點
+
+英國議員伯納姆：我將參選英國首相。
+
+---
+
+### 2026-06-22 18:03:35  #其他
+
+英國議員伯納姆主動參選，參與政黨換屆流程。
+
+---
+
+### 2026-06-22 18:03:20  #公司 #市場
+
+【ST棕櫚：股票連續3日跌幅偏離值累計超12% 屬異常波動】ST棕櫚公告稱，公司股票連續3個交易日（2026年6月17日、6月18日、6月22日）收盤價格跌幅偏離值累計超過12%，屬於異常波動情形。經核查，公司前期披露資訊無更正、補充，未發現影響股價的未公開重大資訊，主營業務、經營環境無重大變化，控股股東、實控人無應披露未披露重大事項及買賣公司股票情形。公司股票於2026年4月28日起被實施其他風險警示，提醒投資者理性投資、注意風險。
+
+---
+
+### 2026-06-22 18:03:16  #MKT News
+
+【PBOC: May DR001 monthly weighted average 1.28%】The PBOC said May monthly weighted average of DR001 (overnight pledged repo of interest-rate bonds among deposit-taking financial institutions) was 1.28%, up 5 bps MoM; DR007 was 1.35%, essentially unchanged; R001 (interbank overnight pledged repo) was 1.32%, up 2 bps MoM. Daily average interbank lending turnover was 417.28 bln yuan, +18.5% YoY; daily average interbank bond repo turnover was 7.4 tln yuan, +8.1% YoY. End‑May outstanding interbank lending balance was 1.0 tln yuan; outstanding interbank bond repo balance was 10.1 tln yuan.
 
 ---
 
@@ -21109,35 +21157,5 @@ AXIOS reports President Trump said Cuba is very eager to engage in talks.
 ### 2026-06-20 02:09:40  #國際
 
 特朗普：我有辦法約束以色列，使其不對黎巴嫩發動襲擊。
-
----
-
-### 2026-06-20 02:08:43  #國際
-
-據Axios：美國總統特朗普稱巴西總統盧拉是一個 “情緒反覆無常” 的人。 古巴方面迫切希望展開對話。
-
----
-
-### 2026-06-20 02:02:10  #公司
-
-【英國兩列客運列車相撞】據英國媒體報道，當地時間6月19日下午5點多，兩輛客運列車在英國貝德福德地區相撞，造成多名乘客受重傷。具體情況暫時不明。 現場畫面顯示，兩列東米德蘭茲鐵路公司的客運列車相撞。多輛救護車已趕赴現場。 據報道，事發時這兩趟列車幾乎滿載。涉事列車包括一列往返於倫敦聖潘克拉斯和盧頓機場之間的“盧頓機場快線”，以及一列從科比開往聖潘克拉斯的列車。（ CCTV國際時訊）
-
----
-
-### 2026-06-20 01:51:46  #MKT News #Commodities #Energy #WTI #Impact bullish #Brent
-
-Intercontinental Exchange (ICE): For the week to June 16, speculative net long positions in gasoline futures rose by 7,006 contracts to 60,810 contracts.
-
----
-
-### 2026-06-20 01:51:18  #MKT News #Commodities #Energy #Brent #Impact bearish
-
-ICE data: speculative net long positions in Brent crude futures fell by 94,763 contracts to 114,128 in the week to June 16.
-
----
-
-### 2026-06-20 01:50:28  #其他
-
-洲際交易所布倫特原油：截至 6 月 16 日當週，投機客削減淨多頭持倉 94763 手，淨多頭持倉降至 114128 手。
 
 ---

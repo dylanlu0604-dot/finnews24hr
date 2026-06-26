@@ -1,7 +1,73 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-06-27 01:49:38_
-_本檔包含 3472 則快訊，約 666308 字_
+_更新時間：2026-06-27 02:09:11_
+_本檔包含 3475 則快訊，約 667049 字_
+
+---
+
+### 2026-06-23 19:01:41  #央行 #其他
+
+巴西央行：貨幣政策委員會重申，將根據形勢發展調整本輪政策調整週期的幅度。
+
+---
+
+### 2026-06-23 19:01:35  #市場
+
+巴基斯坦KSE-100指數收盤下跌0.4%，報177774.30點。
+
+---
+
+### 2026-06-23 19:01:24  #公司
+
+加拿大太陽能旗下子公司E-Storage與Axpo將在義大利南部部署一套容量為8兆瓦/40兆瓦時的電池儲能系統。
+
+---
+
+### 2026-06-23 19:01:14  #其他
+
+帕蘭提爾與澤塔環球達成合作，將為未來營銷構建統一資料與人工智慧基礎設施。
+
+---
+
+### 2026-06-23 18:59:34  #其他
+
+埃森哲：預計第四季度股票回購規模為23億美元，其中包括追加的20億美元回購額度。
+
+---
+
+### 2026-06-23 18:59:30  #公司
+
+【京投發展：放棄18.98億元地塊專案商業機會】京投發展公告稱，2026年5月15日，北京市規劃和自然資源委員會發布0502地塊專案使用權出讓預申請公告，掛牌起始價18.98億元，公司控股股東京投公司意向參與競買。結合現階段經營業務以住宅開發銷售為主，公司決定放棄本次商業機會。該決定已獲獨立董事專門會議和董事會審議透過，不會對公司生產經營造成重大不利影響。
+
+---
+
+### 2026-06-23 18:59:14  #觀點
+
+【高盛：電動車銷量加速或令明年底全球石油需求減少32萬桶/日】受霍爾木茲海峽供應衝擊及燃油價格走高影響，全球乘用車電動車銷量明顯加速。高盛最新研報指出，若這一趨勢延續，至2027年12月，全球石油需求可能較基準情景減少13萬至32萬桶/日，相當於全球需求的0.1%至0.3%，為中長期油價帶來新的下行風險。
+
+---
+
+### 2026-06-23 18:58:42  #MKT News #Market Regions #Greater China
+
+【China summer grain procurement off to good start; wheat purchases exceed 30 mln tonnes】The National Food and Strategic Reserves Administration said summer grain harvests are underway and market-season procurement has begun, with cumulative wheat purchases exceeding 30 mln tonnes. Large-scale mechanized harvesting is largely complete and buying is proceeding orderly from south to north, with progress broadly in line with last year. Reserve firms are conducting rotation purchases while processors, traders and feed companies are actively buying, keeping market trade relatively active. Average purchase price in major producing areas is about 1.21 yuan/jin (≈2.42 yuan/kg); premiums for higher-quality varieties are roughly 0.10 yuan/jin. The administration will coordinate market-based procurement and policy reserves, strengthen market monitoring and early warning, refine extreme-weather contingency plans and improve post-harvest services (drying, cleaning) to ensure farmer sale channels and market stability.
+
+---
+
+### 2026-06-23 18:58:10  #其他
+
+【葛蘭素史克新可來在中國獲批用於治療高嗜酸性粒細胞增多綜合徵】6月23日，葛蘭素史克（GSK）宣佈，中國國家藥品監督管理局已批准新可來®（美泊利珠單抗注射液）用於成人和12歲及以上青少年無明確的非血液學繼發性病因的高嗜酸性粒細胞增多綜合徵（HES）的治療。
+
+---
+
+### 2026-06-23 18:57:59  #國際
+
+波蘭第三座液化天然氣接收站年產能將達61億立方米。
+
+---
+
+### 2026-06-23 18:57:50  #MKT News #Important #Market Themes #AI Revolution
+
+Market sources say Abu Dhabi investment group MGX is raising about $50 billion to accelerate AI-driven trading.
 
 ---
 
@@ -20907,53 +20973,5 @@ A former UK minister said Burnham has shown what the Labour Party can be and voi
 ### 2026-06-22 18:04:55  #央行 #市場
 
 【央行：5月末10年期國債收益率為1.71%】央行釋出5月金融市場執行情況，2026年5月，政府債券淨融資12235.5億元，同比減少2349.8億元；企業債券淨融資1680.4億元，同比增加183.9億元。2026年5月末，債券市場託管餘額202.6萬億元。2026年5月，現券市場成交額36.7萬億元，同比增加8.8%；銀行間債券市場現券換手率為18.0%，環比下降3.9個百分點；10年期國債活躍券買賣價差為0.27個基點。2026年5月末，10年期國債收益率為1.71%；10年期與1年期國債收益率利差為55個基點，環比收窄3個基點。
-
----
-
-### 2026-06-22 18:04:37  #公司 #焦點 #國際
-
-【海事情報公司：6月15日以來伊朗已出口3600萬桶原油】據海事情報公司“油輪追蹤者”（Tanker Trackers）當地時間6月22日訊息，自6月15日以來，伊朗已出口3600萬桶原油。（央視新聞）
-
----
-
-### 2026-06-22 18:04:35  #MKT News #Important #Market Regions #Europe & UK
-
-UK MP Burnham says he will run for prime minister.
-
----
-
-### 2026-06-22 18:04:16  #MKT News #Market Regions #Europe & UK
-
-UK lawmaker Burnham thanked Starmer for his leadership.
-
----
-
-### 2026-06-22 18:04:02  #其他
-
-英國議員伯納姆：將確保黨魁換屆平穩有序推進。
-
----
-
-### 2026-06-22 18:03:51  #其他 #焦點
-
-英國議員伯納姆：我將參選英國首相。
-
----
-
-### 2026-06-22 18:03:35  #其他
-
-英國議員伯納姆主動參選，參與政黨換屆流程。
-
----
-
-### 2026-06-22 18:03:20  #公司 #市場
-
-【ST棕櫚：股票連續3日跌幅偏離值累計超12% 屬異常波動】ST棕櫚公告稱，公司股票連續3個交易日（2026年6月17日、6月18日、6月22日）收盤價格跌幅偏離值累計超過12%，屬於異常波動情形。經核查，公司前期披露資訊無更正、補充，未發現影響股價的未公開重大資訊，主營業務、經營環境無重大變化，控股股東、實控人無應披露未披露重大事項及買賣公司股票情形。公司股票於2026年4月28日起被實施其他風險警示，提醒投資者理性投資、注意風險。
-
----
-
-### 2026-06-22 18:03:16  #MKT News
-
-【PBOC: May DR001 monthly weighted average 1.28%】The PBOC said May monthly weighted average of DR001 (overnight pledged repo of interest-rate bonds among deposit-taking financial institutions) was 1.28%, up 5 bps MoM; DR007 was 1.35%, essentially unchanged; R001 (interbank overnight pledged repo) was 1.32%, up 2 bps MoM. Daily average interbank lending turnover was 417.28 bln yuan, +18.5% YoY; daily average interbank bond repo turnover was 7.4 tln yuan, +8.1% YoY. End‑May outstanding interbank lending balance was 1.0 tln yuan; outstanding interbank bond repo balance was 10.1 tln yuan.
 
 ---

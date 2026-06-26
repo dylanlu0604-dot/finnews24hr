@@ -1,7 +1,103 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-06-27 01:49:38_
-_本檔包含 3591 則快訊，約 666357 字_
+_更新時間：2026-06-27 02:09:11_
+_本檔包含 3593 則快訊，約 667846 字_
+
+---
+
+### 2026-06-27 02:08:37  #國際
+
+以色列總理內塔尼亞胡：以色列將無限期地留在黎巴嫩南部的安全區內，直至真主黨解除武裝且不再構成威脅。該協議不包括以色列全面撤軍，這與黎巴嫩最初的要求相比發生了重大轉變。在進行更廣泛的控制權移交之前，黎巴嫩軍隊將逐步透過以色列國防軍建議的兩個試點區域進行部署。以色列將維持其原有的安全緩衝區，該緩衝區位於真主黨反坦克導彈射程之外，並且不允許真主黨或平民進入。以色列自主決定自身安全優先次序的自由仍然是該協議的指導原則。
+
+---
+
+### 2026-06-27 02:08:18  #MKT News
+
+Prime Minister Netanyahu said Israel's freedom to independently determine the priority of its own security remains the guiding principle of the agreement.
+
+---
+
+### 2026-06-27 02:08:02  #MKT News #WTI #Impact bullish #Brent #XAUUSD
+
+Israel's Prime Minister NETANYAHU said Israel will maintain its existing security buffer, located beyond the range of Hezbollah anti‑tank missiles, and will bar Hezbollah and civilians from entering.
+
+---
+
+### 2026-06-27 02:07:47  #MKT News
+
+Netanyahu said the Lebanese army will be gradually deployed into two pilot zones proposed by the Israel Defense Forces before any broader transfer of control.
+
+---
+
+### 2026-06-27 02:07:16  #MKT News
+
+According to Israeli broadcaster i24News, Prime Minister Netanyahu called the agreement a strategic failure for Iran and said Tehran has no role in Lebanon’s future.
+
+---
+
+### 2026-06-27 02:06:56  #MKT News
+
+Israeli Prime Minister Netanyahu said the agreement does not include a full Israeli withdrawal, a significant shift from Lebanon's original demand.
+
+---
+
+### 2026-06-27 02:06:44  #MKT News #WTI #Impact bullish #XAUUSD
+
+Israeli Prime Minister Netanyahu said Israel will remain indefinitely in the security zone in southern Lebanon until Hezbollah is disarmed and no longer poses a threat.
+
+---
+
+### 2026-06-27 02:04:34  #國際
+
+以色列官員：以色列國防軍將在安全區保留行動自由。
+
+---
+
+### 2026-06-27 02:02:59  #國際
+
+以色列官員：以色列將在黎巴嫩保留安全區。
+
+---
+
+### 2026-06-27 02:02:09  #國際
+
+【多明尼加附近海域發生5.2級地震】據美國地質調查局訊息，當地時間6月26日12時06分，多明尼加東南部附近海域發生5.2級地震，震源深度82千米。目前沒有引發海嘯預警。
+
+---
+
+### 2026-06-27 02:00:16  #MKT News #Market Themes #AI Revolution
+
+【U.S. to decide who can access OpenAI's new ChatGPT model, Washington Post reports】The U.S. government will vet companies seeking to use OpenAI's latest model, GPT-5.6 (Sol), the Washington Post reports, marking a significant expansion of the Trump administration's oversight of Silicon Valley. OpenAI said the government will initially approve who can access the new model and that AI firms and government agencies will jointly develop a long-term regulatory framework. OpenAI warned it does not believe such a government approval process should become the default, saying it would prevent developers, enterprises, cybersecurity defenders and international partners from accessing the best tools.
+
+---
+
+### 2026-06-27 01:55:41  #MKT News #Important #S&P500 #Impact bullish #DXY #Impact bearish
+
+【Israel Transport Ministry: U.S. to accelerate withdrawal of military aircraft from Ben‑Gurion Airport】Israel's Transport Ministry said on the 26th it reached an understanding with U.S. forces to accelerate removal of U.S. military aircraft from Ben‑Gurion Airport. Under the pact, 30 aircraft will be moved to Israeli airbases by the 30th of this month, with the remaining 20 withdrawn thereafter. The agreement permits U.S. aircraft to return to Ben‑Gurion within 72 hours if the local security situation escalates.
+
+---
+
+### 2026-06-27 01:55:19  #MKT News
+
+【U.S., Israel and Lebanon sign three-party framework after fifth-round talks】U.S., Israeli and Lebanese negotiators signed a three-party framework after a fifth round of talks. Discussions included a U.S.-backed proposal for Israeli forces to transfer some occupied territory to the Lebanese army. Lebanon sought a full Israeli withdrawal; Israel said any pullback must be conditioned on Hezbollah’s full disarmament and guarantees it will not reestablish a military presence on the border. U.S. Secretary of State Rubio called the deal a first step and said substantial work remains.
+
+---
+
+### 2026-06-27 01:55:08  #焦點 #國際
+
+【以色列交通部：美軍將加速撤離停在以機場的美國軍機】當地時間26日，以色列交通部發表宣告稱，以色列已與美軍達成諒解協議，美軍將加速撤離部署在以色列本-古裡安機場的美國軍用飛機。根據諒解協議，到本月30日前，30架美軍飛機將逐步撤離至以色列境內的空軍基地；隨後剩餘的20架軍機也將完成撤離。諒解協議同時規定，若當地安全域性勢出現升級，美國軍機獲准在72小時內重新返回本-古裡安機場。（央視新聞）
+
+---
+
+### 2026-06-27 01:53:59  #焦點 #國際
+
+【黎以美達成三方框架協議】據外媒報道，黎巴嫩、以色列和美國26日在華盛頓宣佈達成三方框架協議。(新華社)
+
+---
+
+### 2026-06-27 01:53:40  #MKT News #Commodities #Energy #Brent #Impact bearish
+
+ICE: Gasoil speculators cut net long positions by 294 contracts to 60,516 in the week to June 23. Brent crude speculators cut net longs by 23,790 contracts to 90,338 over the same period.
 
 ---
 
@@ -21586,89 +21682,5 @@ Apple (AAPL.O) extended its decline, shares down 5.1% in the latest trade.
 ### 2026-06-25 21:58:11  #Trading Economics #Markets #Canada #Stock Market #Importance 1
 
 TSX Rises on Financials and Miners Gains — The S&P/TSX Composite Index gained 0.5% to trade near the 35,000 mark on Thursday, supported by gains in the financial and mining sectors. Oil prices fell to levels last seen before the start of the Iran conflict on signs of rising Middle East supply. Lower energy costs pushed bond yields down by easing inflation concerns, lifting financial stocks and the broader index. TD Bank, BMO, and Brookfield added around 1%. Gold prices edged higher, supporting mining shares. Agnico Eagle, Barrick, and Franco-Nevada gained nearly 2%, while WPM rose more than 1%. Meanwhile, technology stocks traded mixed after upbeat forecasts from Micron and Qualcomm pointed to resilient AI demand. Celestica added over 1% and Constellation Software rose more than 0.5%, while Shopify fell about 1%. Investors also assessed the latest minutes from the Bank of Canada, which showed policymakers agreed to keep monetary policy flexible in response to potential new US trade restrictions and shifts in energy prices.
-
----
-
-### 2026-06-25 21:58:07  #公司 #市場 #國際
-
-【上期能源正式推出20號膠期貨跨境交割業務】上海期貨交易所子公司上海國際能源交易中心6月25日釋出了《上海國際能源交易中心交割細則（修訂版）》，正式在20號膠期貨品種上推出跨境交割業務。為確保該業務的平穩推出和穩健執行，上期能源同日配套釋出了《上海國際能源交易中心20號膠期貨境外交割結算業務指引》和《上海國際能源交易中心20號膠期貨境外交割提貨業務指引》兩項操作指引，並公佈了境外地區裝貨港資訊及升貼水標準等內容。據瞭解，20號膠期貨跨境交割業務是指透過在境外設立交割庫，允許簽發以20號膠離岸貨物為標的的境外標準倉單，並用於實物交割的業務模式。交易在境內達成，實貨在境外交付，貨物既可繼續在境外流轉，亦可跨境運回國內。在國家外匯管理部門的大力支援下，上期能源取得了相應的外匯管理政策，並據此制定了相關監管規範。為順應20號膠現貨貿易特點，夯實期貨定價基準，平衡境內外交割成本，經反覆調研並廣泛徵求市場意見，上期能源選取泰國、馬來西亞、印度尼西亞作為20號膠期貨跨境交割業務的境外交割地區，設定泰國的林查班港與曼谷港、馬來西亞的檳城港與巴生港作為裝貨港，均執行貼水50元/噸；印度尼西亞的巨港作為裝貨港，執行貼水210元/噸。上期能源相關負責人表示，下一步將適時推動相關企業成為境外交割庫，透過多種形式面向境內外市場潛在參與主體開展業務培訓與市場宣傳，同時指導存管銀行嚴格落實展業要求，確保後續跨境交割資訊申報合規，穩妥有序推進20號膠期貨跨境交割業務落地實施。
-
----
-
-### 2026-06-25 21:58:06  #MKT News
-
-NVIDIA (NVDA.O) shares fell rapidly, widening losses to about 3%.
-
----
-
-### 2026-06-25 21:58:03  #MKT News
-
-【DeepSeek posts job ads aiming to at least double headcount across all departments】DeepSeek posted job advertisements saying it aims to at least double staffing across all departments as technology evolves. Open roles include server/backend development engineers, pre‑training data engineers, AI search algorithm/architecture engineers, Agent Harness team members, Agent infra R&D engineers, frontend/client developers and cross‑disciplinary AI specialists.
-
----
-
-### 2026-06-25 21:57:44  #市場
-
-美光科技漲幅收窄至10%，此前一度上漲20%。
-
----
-
-### 2026-06-25 21:57:41  #MKT News #MU.O #Impact bullish
-
-Micron Technology (MU.O) shares pared gains to about 10% after earlier jumping as much as 20%.
-
----
-
-### 2026-06-25 21:57:25  #市場
-
-IBM股價在盤前交易中扭轉走勢，最新下跌2.1%。
-
----
-
-### 2026-06-25 21:57:12  #其他
-
-荷蘭氣象研究所因週五將出現極端高溫釋出罕見紅色預警。
-
----
-
-### 2026-06-25 21:56:44  #宏觀 #公司 #國際
-
-【巴西財政部向中方遞交熊貓債發行申請函】記者從中國人民銀行瞭解到，今天（25日），巴西財政部向中國銀行交易商協會遞交了熊貓債發行申請函，巴西將成為首個註冊發行主權熊貓債的拉美國家。中國人民銀行行長潘功勝表示，深化兩國投融資合作，促進雙邊本幣使用，推動金融基礎設施互聯互通，確保合作成果惠及兩國企業和民眾，為全球經濟發展和金融穩定注入強勁動力。中巴雙方將進一步推進金融市場互聯互通。雙方支援中巴可持續發展擴大產能合作基金髮揮更大作用，透過在氣候變化、清潔能源等重點領域佈局專案，實現經濟效益與社會效益的互利共贏。雙方同意加強在二十國集團、金磚、國際貨幣基金組織等機制下的宏觀經濟政策協調，共同為發展中國家發聲。（央視新聞）
-
----
-
-### 2026-06-25 21:56:17  #其他
-
-英偉達股價快速擴大跌幅至3%。
-
----
-
-### 2026-06-25 21:55:11  #公司 #國際
-
-攜程集團美國上市股票在一季度業績公佈後跌至一年多來新低，最新跌幅為15.5%。
-
----
-
-### 2026-06-25 21:54:19  #Trading Economics #Markets #commodity #Importance 0
-
-Solar Energy Index Hits 8-week Low — Solar Energy Index decreased to 56.93 USD, the lowest since April 2026. Over the past 4 weeks, Solar Energy Index lost 16.5%, and in the last 12 months, it increased 66.83%.
-
----
-
-### 2026-06-25 21:53:57  #市場 #焦點
-
-比特幣跌破59000美元，日內跌3.52%。
-
----
-
-### 2026-06-25 21:53:57  #市場 #焦點
-
-納指跌1.01%，現報25219.207點；道指漲0.47%，現報52094.621點；標普500指數跌0.24%，現報7340.250點。
-
----
-
-### 2026-06-25 21:53:26  #MKT News #Nasdaq100 #Impact bearish
-
-Nasdaq-100 flipped negative, giving back as much as 2.1% of earlier intraday gains.
 
 ---

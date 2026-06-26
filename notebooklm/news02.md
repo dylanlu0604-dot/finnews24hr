@@ -1,7 +1,91 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-06-27 01:49:38_
-_本檔包含 3810 則快訊，約 666384 字_
+_更新時間：2026-06-27 02:09:11_
+_本檔包含 3785 則快訊，約 666106 字_
+
+---
+
+### 2026-06-25 21:58:07  #公司 #市場 #國際
+
+【上期能源正式推出20號膠期貨跨境交割業務】上海期貨交易所子公司上海國際能源交易中心6月25日釋出了《上海國際能源交易中心交割細則（修訂版）》，正式在20號膠期貨品種上推出跨境交割業務。為確保該業務的平穩推出和穩健執行，上期能源同日配套釋出了《上海國際能源交易中心20號膠期貨境外交割結算業務指引》和《上海國際能源交易中心20號膠期貨境外交割提貨業務指引》兩項操作指引，並公佈了境外地區裝貨港資訊及升貼水標準等內容。據瞭解，20號膠期貨跨境交割業務是指透過在境外設立交割庫，允許簽發以20號膠離岸貨物為標的的境外標準倉單，並用於實物交割的業務模式。交易在境內達成，實貨在境外交付，貨物既可繼續在境外流轉，亦可跨境運回國內。在國家外匯管理部門的大力支援下，上期能源取得了相應的外匯管理政策，並據此制定了相關監管規範。為順應20號膠現貨貿易特點，夯實期貨定價基準，平衡境內外交割成本，經反覆調研並廣泛徵求市場意見，上期能源選取泰國、馬來西亞、印度尼西亞作為20號膠期貨跨境交割業務的境外交割地區，設定泰國的林查班港與曼谷港、馬來西亞的檳城港與巴生港作為裝貨港，均執行貼水50元/噸；印度尼西亞的巨港作為裝貨港，執行貼水210元/噸。上期能源相關負責人表示，下一步將適時推動相關企業成為境外交割庫，透過多種形式面向境內外市場潛在參與主體開展業務培訓與市場宣傳，同時指導存管銀行嚴格落實展業要求，確保後續跨境交割資訊申報合規，穩妥有序推進20號膠期貨跨境交割業務落地實施。
+
+---
+
+### 2026-06-25 21:58:06  #MKT News
+
+NVIDIA (NVDA.O) shares fell rapidly, widening losses to about 3%.
+
+---
+
+### 2026-06-25 21:58:03  #MKT News
+
+【DeepSeek posts job ads aiming to at least double headcount across all departments】DeepSeek posted job advertisements saying it aims to at least double staffing across all departments as technology evolves. Open roles include server/backend development engineers, pre‑training data engineers, AI search algorithm/architecture engineers, Agent Harness team members, Agent infra R&D engineers, frontend/client developers and cross‑disciplinary AI specialists.
+
+---
+
+### 2026-06-25 21:57:44  #市場
+
+美光科技漲幅收窄至10%，此前一度上漲20%。
+
+---
+
+### 2026-06-25 21:57:41  #MKT News #MU.O #Impact bullish
+
+Micron Technology (MU.O) shares pared gains to about 10% after earlier jumping as much as 20%.
+
+---
+
+### 2026-06-25 21:57:25  #市場
+
+IBM股價在盤前交易中扭轉走勢，最新下跌2.1%。
+
+---
+
+### 2026-06-25 21:57:12  #其他
+
+荷蘭氣象研究所因週五將出現極端高溫釋出罕見紅色預警。
+
+---
+
+### 2026-06-25 21:56:44  #宏觀 #公司 #國際
+
+【巴西財政部向中方遞交熊貓債發行申請函】記者從中國人民銀行瞭解到，今天（25日），巴西財政部向中國銀行交易商協會遞交了熊貓債發行申請函，巴西將成為首個註冊發行主權熊貓債的拉美國家。中國人民銀行行長潘功勝表示，深化兩國投融資合作，促進雙邊本幣使用，推動金融基礎設施互聯互通，確保合作成果惠及兩國企業和民眾，為全球經濟發展和金融穩定注入強勁動力。中巴雙方將進一步推進金融市場互聯互通。雙方支援中巴可持續發展擴大產能合作基金髮揮更大作用，透過在氣候變化、清潔能源等重點領域佈局專案，實現經濟效益與社會效益的互利共贏。雙方同意加強在二十國集團、金磚、國際貨幣基金組織等機制下的宏觀經濟政策協調，共同為發展中國家發聲。（央視新聞）
+
+---
+
+### 2026-06-25 21:56:17  #其他
+
+英偉達股價快速擴大跌幅至3%。
+
+---
+
+### 2026-06-25 21:55:11  #公司 #國際
+
+攜程集團美國上市股票在一季度業績公佈後跌至一年多來新低，最新跌幅為15.5%。
+
+---
+
+### 2026-06-25 21:54:19  #Trading Economics #Markets #commodity #Importance 0
+
+Solar Energy Index Hits 8-week Low — Solar Energy Index decreased to 56.93 USD, the lowest since April 2026. Over the past 4 weeks, Solar Energy Index lost 16.5%, and in the last 12 months, it increased 66.83%.
+
+---
+
+### 2026-06-25 21:53:57  #市場 #焦點
+
+比特幣跌破59000美元，日內跌3.52%。
+
+---
+
+### 2026-06-25 21:53:57  #市場 #焦點
+
+納指跌1.01%，現報25219.207點；道指漲0.47%，現報52094.621點；標普500指數跌0.24%，現報7340.250點。
+
+---
+
+### 2026-06-25 21:53:26  #MKT News #Nasdaq100 #Impact bearish
+
+Nasdaq-100 flipped negative, giving back as much as 2.1% of earlier intraday gains.
 
 ---
 
@@ -22721,239 +22805,5 @@ SPACEX盤前股價跌幅擴大至2.7%。
 ### 2026-06-24 21:03:44  #MKT News #Market Themes #AI Revolution #Magnificent 7 #Star Stocks #Microsoft
 
 Microsoft's latest AI in Education report says AI applications across the education sector are already widespread and demand for supporting services is increasing.
-
----
-
-### 2026-06-24 21:03:38  #市場 #焦點
-
-布倫特原油失守74美元/桶，日內跌3.65%。
-
----
-
-### 2026-06-24 21:03:02  #MKT News #Important #AVGO.O #Impact bullish
-
-Broadcom (AVGO.O) premarket shares rose 3%.
-
----
-
-### 2026-06-24 21:02:56  #其他
-
-微軟：Copilot筆記本現已作為微軟365 Copilot應用的組成部分，面向微軟365教育版使用者開放，無需額外付費。
-
----
-
-### 2026-06-24 21:02:52  #公司
-
-SpaceX旗下xAI公司正加倍押注影片與影象生成工具。
-
----
-
-### 2026-06-24 21:02:50  #MKT News #Market Themes #AI Revolution #AVGO.O #Impact bullish
-
-Broadcom (AVGO.O) expects deployment of OpenAI chips to proceed faster than previously anticipated.
-
----
-
-### 2026-06-24 21:02:35  #MKT News #Important #Market Themes #Chip Wars #AI Revolution #AVGO.O
-
-Broadcom (AVGO.O) CEO said OpenAI's new chip could cut costs by 50%.
-
----
-
-### 2026-06-24 21:02:32  #其他
-
-微軟將全新的、基於教育工作者需求開發的工具直接引入Microsoft 365教育生態系統與學習管理系統平臺。
-
----
-
-### 2026-06-24 21:02:19  #其他
-
-博通：與微軟及合作伙伴開展的吉瓦級資料中心部署專案將於2026年啟動。
-
----
-
-### 2026-06-24 21:02:16  #市場 #焦點
-
-PTA連續主力合約日內跌3%，現報5568.00元。
-
----
-
-### 2026-06-24 21:02:14  #MKT News #Market Themes #Chip Wars #AVGO.O #Impact bullish
-
-OpenAI and Broadcom (AVGO.O) jointly launched an intelligent processor optimized for large language models (LLMs).
-
----
-
-### 2026-06-24 21:02:05  #市場
-
-博通盤前股價上漲3%，此前博通釋出了與OPENAI合作的AI晶片。
-
----
-
-### 2026-06-24 21:01:50  #其他
-
-博通預計將比預期更快地部署OPENAI晶片。
-
----
-
-### 2026-06-24 21:01:40  #MKT News #Important #Market Themes #AI Revolution #AVGO.O #Impact bullish
-
-OpenAI and Broadcom (AVGO.O) unveiled an AI chip aimed at running AI models faster and at lower cost.
-
----
-
-### 2026-06-24 21:01:34  #公司 #焦點
-
-博通CEO稱，OPENAI的新晶片可節省50%的成本。
-
----
-
-### 2026-06-24 21:01:29  #市場 #焦點
-
-紐約期金失守3990美元/盎司，日內跌3.86%。
-
----
-
-### 2026-06-24 21:01:26  #其他
-
-IBM、紅帽與帕洛阿爾託網路擴大萊特威爾專案合作規模。
-
----
-
-### 2026-06-24 21:01:18  #其他
-
-博通與OpenAI聯合釋出Jalapeño處理器，這是OpenAI首款智慧處理器。
-
----
-
-### 2026-06-24 21:01:17  #市場 #焦點
-
-現貨黃金失守3980美元/盎司，日內跌3.22%。
-
----
-
-### 2026-06-24 21:00:57  #其他
-
-OPENAI和博通釋出AI晶片，旨在更快、更經濟地執行模型。
-
----
-
-### 2026-06-24 21:00:43  #MKT News #Important #Commodities #Precious Metals #XAUUSD #Impact bearish
-
-【New York gold futures fall below $4,000】New York gold futures slipped below $4,000 for the first time since last November, down 3.5% intraday.
-
----
-
-### 2026-06-24 21:00:39  #MKT News #Important #Commodities #Precious Metals #Energy #XAUUSD #Impact bearish
-
-China night futures session opened; main contracts mostly weaker. Shanghai silver fell more than 5 pct, benzene down over 3 pct, low-sulfur fuel oil (LU) down nearly 3 pct; ethylene glycol (EG), SC crude, Shanghai gold, styrene (EB), PTA and Shanghai tin declined more than 2 pct. Iron ore and rapeseed meal posted small gains.
-
----
-
-### 2026-06-24 21:00:23  #公司 #其他 #焦點
-
-OpenAI與博通推出針對大語言模型最佳化的智慧處理器。
-
----
-
-### 2026-06-24 21:00:21  #市場
-
-現貨黃金日內跌3%，現報3983.14美元/盎司。
-
----
-
-### 2026-06-24 21:00:13  #市場 #焦點
-
-紐約期金失守4000美元/盎司，日內跌3.61%。
-
----
-
-### 2026-06-24 21:00:09  #MKT News #Commodities #Precious Metals #XAUUSD #Impact bearish
-
-Spot gold extended losses, slipping about $30 to below $3,990/oz, down 2.93% on the day.
-
----
-
-### 2026-06-24 21:00:04  #市場 #焦點
-
-甲醇連續主力合約日內跌1%，現報2443.00元。
-
----
-
-### 2026-06-24 21:00:02  #市場
-
-【國內期貨夜盤開盤】白銀連續跌5.61%，碳酸鋰連續漲3.93%，低硫燃料油連續跌2.84%，上海原油連續跌2.51%，純苯連續跌2.49%。
-
----
-
-### 2026-06-24 20:59:55  #市場 #央行 #國際
-
-【現貨黃金失守4000美元關口 創去年11月以來新低】現貨黃金跌破4000美元關口，為去年11月以來首次。美國財經網站investinglive分析師Adam Button表示，這輪漲勢的頂點恰逢美國在委內瑞拉發動政變之後，但真正的崩盤則發生在伊朗戰爭爆發以及土耳其決定出售1200億美元儲備以捍衛本幣匯率之後。最新的致命一擊來自美聯儲主席沃什出人意料的鷹派首秀，由此引發美元全面走強。從技術圖表來看，走勢並不樂觀，但在去年10月底低點3885美元附近存在一定支撐。
-
----
-
-### 2026-06-24 20:59:35  #市場 #焦點
-
-現貨黃金失守3990美元/盎司，日內跌2.92%。
-
----
-
-### 2026-06-24 20:59:35  #MKT News #Commodities #Precious Metals #DXY #Impact bullish
-
-New York silver futures plunged 6.00% intraday to $58.34/oz.
-
----
-
-### 2026-06-24 20:59:19  #MKT News #Important #Commodities #Precious Metals
-
-Spot silver fell more than $3 intraday to $58.46/oz, down about 5%.
-
----
-
-### 2026-06-24 20:59:15  #市場
-
-紐約期銀日內跌6%，現報58.76美元/盎司。
-
----
-
-### 2026-06-24 20:59:13  #市場
-
-現貨白銀日內跌5%，現報58.32美元/盎司。
-
----
-
-### 2026-06-24 20:59:08  #Trading Economics #Markets #commodity #Importance 0
-
-Silver is down by 5.04% — Silver decreased 5.04% to 58.45 USD/t.oz
-
----
-
-### 2026-06-24 20:59:07  #其他
-
-巴基斯坦總理辦公室：（巴基斯坦與卡達）兩國領導人對在比爾根施托克舉行的首輪技術層級會談取得進展表示滿意，一致認為應當維持當前積極勢頭，保障後續談判順利達成成果。雙方就此達成共識，需共同抵禦各方干擾，守護談判程序不受破壞。
-
----
-
-### 2026-06-24 20:58:38  #市場 #焦點
-
-紐約期金失守4010美元/盎司，日內跌3.36%。
-
----
-
-### 2026-06-24 20:58:27  #市場 #焦點
-
-紐約期銀失守59美元/盎司，日內跌5.62%。
-
----
-
-### 2026-06-24 20:58:22  #其他
-
-現貨鈀金日內走低4.00%，現報1179.32美元/盎司。
-
----
-
-### 2026-06-24 20:58:21  #MKT News #Important #Commodities #Precious Metals
-
-Spot palladium fell 4.00% intraday to $1,179.32/oz.
 
 ---
