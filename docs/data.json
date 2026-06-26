@@ -1,7 +1,119 @@
 {
-  "updated": "2026-06-26 15:15:45",
-  "count": 17312,
+  "updated": "2026-06-26 15:20:06",
+  "count": 17310,
   "items": [
+    {
+      "id": "mkt:019f02cc-020d-7dd8-b130-ae38cd2744c3",
+      "time": "2026-06-26 15:19:11",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【China issues revised rules for new cosmetic ingredients, effective July 15】China's National Medical Products Administration (NMPA) has published revised Regulations on Registration, Filing and Data Management for New Cosmetic Ingredients, effective July 15. The NMPA says the rules aim to clear bottlenecks in ingredient innovation and improve industry R&D efficiency. Deputy director Li Yunfeng said the regulations encourage adoption of animal-test alternatives and other new methods to reduce international trade technical barriers and provide policy support for domestic cosmetics firms expanding overseas."
+    },
+    {
+      "id": "mkt:019f02cb-f0d9-7dd8-b130-a5cc5af10ec8",
+      "time": "2026-06-26 15:19:07",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "Kazakhstan's energy minister said the country may consider exporting fuel to Russia if it receives a formal request."
+    },
+    {
+      "id": "mkt:019f02cb-95eb-7dd8-b130-9bd63b29544e",
+      "time": "2026-06-26 15:18:44",
+      "tags": [
+        "MKT News",
+        "VOW3.DE",
+        "Impact bearish",
+        "DAX"
+      ],
+      "text": "Market sources: Volkswagen Group will cut up to 100,000 jobs globally over the next few years."
+    },
+    {
+      "id": "4956685",
+      "time": "2026-06-26 15:18:07",
+      "tags": [
+        "公司"
+      ],
+      "text": "市場訊息：未來幾年，大眾集團全球現有員工中將有最多10萬人被裁。"
+    },
+    {
+      "id": "4956684",
+      "time": "2026-06-26 15:17:43",
+      "tags": [
+        "公司",
+        "觀點",
+        "央行",
+        "國際"
+      ],
+      "text": "【花旗策略師：斷言AI行情落幕為時過早】花旗集團策略師表示，企業盈利維持強勁，股市大機率延續震盪上行態勢，且“流動性收緊程度尚不足以刺破泡沫”。由德克・威勒牽頭的團隊在研報中寫道：“現在就宣稱AI板塊行情終結還為時過早。”策略團隊認為，油價走低只會催生資金短期轉向歐洲市場。團隊維持超配美國股市與亞洲新興市場，並指出牛市終結通常需要利率大幅上行作為條件。他們補充道：“美聯儲迄今尚未加息，其資產負債表規模仍在擴張，因此我們判斷本輪牛市大機率完好無損。”"
+    },
+    {
+      "id": "4956683",
+      "time": "2026-06-26 15:17:24",
+      "tags": [
+        "其他"
+      ],
+      "text": "【雲頂新耀：樂瑞泊生物製品上市許可申請獲得國家藥監局受理】6月26日，雲頂新耀宣佈，中國國家藥品監督管理局（NMPA）已正式受理第三代PCSK9抑制劑樂瑞泊®（LEROCHOL®，萊達西貝普，Lerodalcibep）的生物製品上市許可申請（BLA），在飲食控制和運動的基礎上，用於降低成人高膽固醇血癥（包括雜合子型家族性高膽固醇血癥[HeFH]）患者的低密度脂蛋白膽固醇（LDL-C）水平。"
+    },
+    {
+      "id": "4956682",
+      "time": "2026-06-26 15:16:37",
+      "tags": [
+        "市場",
+        "焦點",
+        "原創"
+      ],
+      "text": "【6月26日滬深兩市漲停分析】創業板指縮量大跌超4%、滬指跌逾2%，全市下跌個股超4600只，算力硬體概念全線重挫。興業科技6連板，宏柏新材4連板，一圖看懂>>"
+    },
+    {
+      "id": "mkt:019f02c9-5626-7dd8-b130-96beeeed9ead",
+      "time": "2026-06-26 15:16:16",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【China government bond futures midday close】2-year (TS) most-active contract +0.02%; 5-year (TF) +0.06%; 10-year (T) +0.08%; 30-year (TL) +0.08% at midday close."
+    },
+    {
+      "id": "te:markets:562148",
+      "time": "2026-06-26 15:16:02",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "China",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The Shangai Composite Index Closes 2.23% Lower — The Shangai Composite Index fell 92 points or 2.23 percent on Friday to close at 4028 points. Leading the losses are BAIC BluePark (-5.37%), New China Life (-5.23%) and China Pacific Insu (-5.15%)."
+    },
+    {
+      "id": "mkt:019f02c8-e064-7dd8-b130-8b7d92ed388c",
+      "time": "2026-06-26 15:15:46",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish",
+        "Hang Seng Index"
+      ],
+      "text": "【Asian tech shares slump; some investors liquidate gold to cover losses】USD strength and market bets on a more hawkish Fed to curb inflation have pushed spot gold toward a fourth straight weekly decline, the longest run since Aug 2023. On Friday Asian tech stocks fell again and persistent volatility prompted some investors to liquidate gold holdings to offset losses elsewhere in their portfolios."
+    },
+    {
+      "id": "4956681",
+      "time": "2026-06-26 15:15:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "【國債期貨收盤】 30年期主力合約漲0.08%， 10年期主力合約漲0.08%， 5年期主力合約漲0.06%， 2年期主力合約漲0.02%。"
+    },
     {
       "id": "4956680",
       "time": "2026-06-26 15:14:30",
@@ -158288,137 +158400,6 @@
         "其他"
       ],
       "text": "標普關於巴布亞紐幾內亞的觀點：若全球能源市場長期處於錯位狀態，增長可能面臨下行風險。"
-    },
-    {
-      "id": "4944850",
-      "time": "2026-06-19 15:19:59",
-      "tags": [
-        "其他"
-      ],
-      "text": "標普：巴布亞紐幾內亞的經濟增速將受益於待開發資源專案，以及由國際貨幣基金組織主導、旨在恢復本幣可兌換性的改革。"
-    },
-    {
-      "id": "te:economy:560395",
-      "time": "2026-06-19 15:19:59",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "United Kingdom",
-        "Government Bond 10Y",
-        "Importance 2"
-      ],
-      "text": "UK 10-Year Gilt Yields Climb — UK 10-year gilt yields rose to 4.8%, extending their rebound from the two-month lows reached earlier this week, as investors weighed political developments and central bank guidance. Market sentiment was influenced by Greater Manchester Mayor Andy Burnham's victory in the Makerfield by-election, where he secured 54.8% of the vote, bolstering his standing as a potential challenger to Prime Minister Keir Starmer. Meanwhile, the Bank of England voted 7–2 to leave interest rates unchanged at 3.75%, while maintaining a cautious stance amid uncertainty over the economic effects of Middle East-related energy shocks. Although the central bank reiterated its commitment to tackling inflation, it lowered its forecast for peak inflation in the fourth quarter of 2026 to 3.25%, down from 3.6%. The decision followed the Federal Reserve's move to keep rates unchanged, even as an increasing number of policymakers signaled the possibility of further rate hikes later this year."
-    },
-    {
-      "id": "mkt:019edec0-1731-7dd8-b090-74a289fe5a55",
-      "time": "2026-06-19 15:19:51",
-      "tags": [
-        "MKT News",
-        "EURUSD",
-        "Impact bearish",
-        "DXY",
-        "Impact bullish"
-      ],
-      "text": "ECB chief economist Lane said a gradual approach to interest rates is prudent."
-    },
-    {
-      "id": "4944849",
-      "time": "2026-06-19 15:19:29",
-      "tags": [
-        "國際"
-      ],
-      "text": "北約秘書長呂特將於6月24日在華盛頓會見特朗普。"
-    },
-    {
-      "id": "4944848",
-      "time": "2026-06-19 15:18:46",
-      "tags": [
-        "其他"
-      ],
-      "text": "標普：巴布亞紐幾內亞評級展望因增長前景上調至正面；確認其評級為B-/B。"
-    },
-    {
-      "id": "mkt:019edebe-fc6b-7dd8-b090-6e16369bc0a9",
-      "time": "2026-06-19 15:18:38",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Israeli opposition leader Lapid warned that failure to replace the government quickly would destroy Israel’s entire diplomatic relations."
-    },
-    {
-      "id": "4944847",
-      "time": "2026-06-19 15:18:35",
-      "tags": [
-        "國際"
-      ],
-      "text": "以色列反對黨領袖拉皮德：如果我們不盡快更換政府，以色列的整個外交關係將被摧毀。"
-    },
-    {
-      "id": "te:economy:560393",
-      "time": "2026-06-19 15:17:15",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Turkey",
-        "Capacity Utilization",
-        "Importance 1"
-      ],
-      "text": "Turkey Factory Capacity Usage Hits 1-Year High — The manufacturing industry in Turkey operated at 74.5% of its production capacity in June 2026, up from 74.2% in the previous month. This marked the highest rate since June last year, driven mainly by a sharp increase in capacity utilization for investment goods, which rose to 73.4% from 70.3%, signaling stronger activity in capital-intensive industries. Intermediate goods utilization remained broadly stable at 75.0% compared with 75.2% in May, continuing to post the highest rate among major sectors. However, most consumer-oriented categories showed weaker performance. Capacity usage for durable consumer goods fell to 67.9% from 70.6%, while non-durable consumer goods eased to 72.6% from 73.1%. Overall consumer goods utilization also declined to 71.8% from 72.7%, and food and beverages slipped to 72.5% from 73.2%."
-    },
-    {
-      "id": "4944846",
-      "time": "2026-06-19 15:17:08",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "歐洲央行連恩：我們花時間調整利率是合理的。"
-    },
-    {
-      "id": "mkt:019edebc-c665-7dd8-b090-6525a980fcd0",
-      "time": "2026-06-19 15:16:13",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "EURUSD",
-        "Impact bullish",
-        "DXY",
-        "Impact bearish"
-      ],
-      "text": "ECB chief economist Lane said it is hard to argue that the ECB should not raise interest rates."
-    },
-    {
-      "id": "mkt:019edebc-8fe9-7dd8-b090-5842a5f9d435",
-      "time": "2026-06-19 15:15:59",
-      "tags": [
-        "MKT News",
-        "Important",
-        "XAUUSD",
-        "Impact bullish",
-        "Brent",
-        "DXY"
-      ],
-      "text": "【Israeli interior minister says whole Lebanon should be destroyed】Al Jazeera and Israeli media reported heavy fighting between Hezbollah and the ISRAELI MILITARY in southern Lebanon today; the military said four Israeli soldiers were killed. After the escalation, far-right interior minister Ben-Gvir said every Israeli mother's tears should be repaid by a thousand Lebanese mothers and that the whole of Lebanon should be burned."
-    },
-    {
-      "id": "te:economy:560391",
-      "time": "2026-06-19 15:15:52",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "India",
-        "Government Bond 10Y",
-        "Importance 1"
-      ],
-      "text": "India Bond Yields Steady Ahead of Debt Sale — The yield on India’s 10-Year G-Sec hovered around 6.8%, steadying after retreating to a three-month low as investors awaited the outcome of a INR 320 billion debt auction while monitoring developments in the Middle East. Market participants expect bond yields to remain range-bound until the auction results provide fresh direction. Meanwhile, softer oil prices continued to exert downward pressure on yields, with Brent crude holding below $80 per barrel amid expectations of increased supply after tanker traffic resumed through the Strait of Hormuz. Investor sentiment was further underpinned by sustained overseas demand for Indian debt. Foreign investors have poured more than $2.2 billion into local bonds over the past 10 trading sessions following measures announced by the Reserve Bank of India on June 5 to encourage dollar inflows. Much of the recent buying has been concentrated in the 6.68% 2040 and 7.24% 2055 securities, with the latter included in the latest debt sale."
-    },
-    {
-      "id": "4944845",
-      "time": "2026-06-19 15:15:45",
-      "tags": [
-        "國際"
-      ],
-      "text": "【以色列內政部長：應該摧毀整個黎巴嫩】據半島電視臺、今日以色列等中東媒體報道，今日真主黨與以色列在黎巴嫩南部發生激烈衝突，以色列軍方稱有四名士兵在黎巴嫩南部的戰鬥中陣亡。隨後，以色列極右翼內政部長格維爾最新表示：“每一位以色列母親流淚，都應該有一千位黎巴嫩母親來償還。在真主黨升級局勢之後，整個黎巴嫩都該被燒燬。”"
     }
   ]
 }
