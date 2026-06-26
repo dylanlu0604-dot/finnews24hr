@@ -1,7 +1,207 @@
 {
-  "updated": "2026-06-26 21:58:18",
-  "count": 17944,
+  "updated": "2026-06-26 22:02:44",
+  "count": 17958,
   "items": [
+    {
+      "id": "4957713",
+      "time": "2026-06-26 22:01:34",
+      "tags": [
+        "公司"
+      ],
+      "text": "【佳創視訊：控股股東等擬轉讓5.0017%股份】佳創視訊公告稱，2026年6月26日，控股股東陳坤江及股東隋湘、羅偉與上海凌穹崑崙科技合夥企業簽署《股份轉讓協議》，擬合計轉讓2155萬股（佔公司股份總數的5.0017%），交易總價款1.58億元。本次權益變動後，陳坤江持股降至13.9837%，隋湘降至0.0155%，羅偉降至0.0064%，凌穹崑崙持股5.0017%。本次轉讓不會導致公司控股股東或實際控制人變更，尚需取得深交所合規確認並辦理過戶等手續。"
+    },
+    {
+      "id": "4957712",
+      "time": "2026-06-26 22:00:44",
+      "tags": [
+        "資料",
+        "國際"
+      ],
+      "text": "美國6月密歇根大學消費者信心指數終值 49.5，預期50，前值48.9。\n美國6月一年期通脹率預期終值 4.6%，預期4.60%，前值4.60%。\n美國6月密歇根大學現況指數終值 47.7，預期48.8，前值48.4。"
+    },
+    {
+      "id": "mkt:019f043b-3404-7dd8-b139-1cda85521479",
+      "time": "2026-06-26 22:00:16",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy",
+        "S&P500",
+        "Impact bullish",
+        "US10Y",
+        "Impact bearish",
+        "XAUUSD"
+      ],
+      "text": "US University of Michigan consumer expectations index (final) for June 50.7; consensus 49.5; prior 49.3."
+    },
+    {
+      "id": "mkt:019f043b-31a6-7dd8-b139-107970bcd155",
+      "time": "2026-06-26 22:00:15",
+      "tags": [
+        "MKT News",
+        "US10Y",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish",
+        "XAUUSD"
+      ],
+      "text": "US June final 5-10y inf expectations 3.30% vs 3.30% est., 3.40% prior."
+    },
+    {
+      "id": "mkt:019f043b-2333-7dd8-b139-0d4a4d32fe4a",
+      "time": "2026-06-26 22:00:11",
+      "tags": [
+        "MKT News",
+        "S&P500",
+        "Impact bearish",
+        "US10Y",
+        "Impact bullish",
+        "DXY"
+      ],
+      "text": "US June University of Michigan Current Conditions Index (final) 47.7, vs. expected 48.8 and prior 48.4."
+    },
+    {
+      "id": "mkt:019f043b-21b0-7dd8-b139-05a9ac18d570",
+      "time": "2026-06-26 22:00:11",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "US Economy"
+      ],
+      "text": "US June one-year inflation expectations (final) 4.6%, in line with forecast 4.6% and prior 4.6%."
+    },
+    {
+      "id": "mkt:019f043b-21a3-7dd8-b138-f8f1436df687",
+      "time": "2026-06-26 22:00:11",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "US Economy",
+        "S&P500",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish",
+        "US10Y"
+      ],
+      "text": "US June University of Michigan consumer sentiment index (final) 49.5; consensus 50.0; prior 48.9."
+    },
+    {
+      "id": "em:jjsj_mgsj:202606263785094988",
+      "time": "2026-06-26 22:00:10",
+      "tags": [
+        "經濟數據",
+        "美國"
+      ],
+      "text": "美國6月密歇根大學消費者信心指數終值錄得49.5，預估為50，前值為48.9。"
+    },
+    {
+      "id": "mkt:019f043a-f4f0-7dd8-b138-f3895716d29e",
+      "time": "2026-06-26 22:00:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | University of Michigan Consumer Expectations Index Final (Jun) | actual 50.7 | consensus 49.5 | previous 49.3"
+    },
+    {
+      "id": "mkt:019f043a-f4e1-7dd8-b138-ebe8af271716",
+      "time": "2026-06-26 22:00:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | University of Michigan Current Conditions Index Final (Jun) | actual 47.7 | consensus 48.8 | previous 48.4"
+    },
+    {
+      "id": "mkt:019f043a-f4ce-7dd8-b138-e6302dd9009b",
+      "time": "2026-06-26 22:00:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | University of Michigan Consumer Sentiment Index Final (Jun) | actual 49.5 | consensus 50 | previous 48.9"
+    },
+    {
+      "id": "mkt:019f043a-9b21-7dd8-b138-ddaa7db822b3",
+      "time": "2026-06-26 21:59:37",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact mixed"
+      ],
+      "text": "SHFE silver 2608 up 2.22% at 14,330 yuan/kg; turnover about 33.63 bln yuan. Open interest rose ~6,100 lots intraday; price volatility and volume-driven positioning remain elevated. SHFE gold 2608 up 1.44% at 893.3 yuan/g; turnover about 40.26 bln yuan. Open interest fell ~500 lots intraday, showing a price rise on position liquidation."
+    },
+    {
+      "id": "4957710",
+      "time": "2026-06-26 21:59:09",
+      "tags": [
+        "國際"
+      ],
+      "text": "中國地震臺網正式測定：06月26日21時28分在日本本州島（北緯35.40度，東經139.10度）發生5.1級地震，震源深度10千米。"
+    },
+    {
+      "id": "4957709",
+      "time": "2026-06-26 21:59:04",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "俄羅斯阿爾羅薩公司表示，其子公司謝韋爾馬茲鑽石礦自7月1日起暫停運營。"
+    },
+    {
+      "id": "4957708",
+      "time": "2026-06-26 21:58:45",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "俄羅斯阿爾羅薩公司表示，其子公司謝韋爾馬茲將暫停運營約三個月。"
+    },
+    {
+      "id": "4957707",
+      "time": "2026-06-26 21:58:25",
+      "tags": [
+        "其他"
+      ],
+      "text": "納斯達克100指數跌幅收窄至1%。"
+    },
+    {
+      "id": "4957706",
+      "time": "2026-06-26 21:58:08",
+      "tags": [
+        "市場"
+      ],
+      "text": "*標普500指數跌幅收窄至0.2%。"
+    },
+    {
+      "id": "mkt:019f0439-308a-7dd8-b138-d0889ff603ec",
+      "time": "2026-06-26 21:58:04",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "Spot gold has risen more than $50 intraday, trading at $4,076.73/oz, up 1.24%."
+    },
+    {
+      "id": "4957705",
+      "time": "2026-06-26 21:57:56",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "納斯達克中國金龍指數漲超0.5%，迅雷漲9.44%，逸仙電商漲6.41%，網易漲5.38%，中比能源漲5.34%，愛奇藝漲4.56%。"
+    },
     {
       "id": "mkt:019f0438-c4a6-7dd8-b138-cd13141de5d2",
       "time": "2026-06-26 21:57:36",
@@ -11,6 +211,14 @@
         "Impact bullish"
       ],
       "text": "New York gold futures extended intraday gains to 1.00%, trading at $4,088.40/oz."
+    },
+    {
+      "id": "4957704",
+      "time": "2026-06-26 21:57:34",
+      "tags": [
+        "市場"
+      ],
+      "text": "鈀金期貨日內漲2%，現報1217.50美元/盎司。"
     },
     {
       "id": "4957703",
@@ -163827,62 +164035,6 @@
         "國際"
       ],
       "text": "德國總理默茨表示反對歐盟針對以色列實施貿易制裁。"
-    },
-    {
-      "id": "4945256",
-      "time": "2026-06-19 22:00:12",
-      "tags": [
-        "國際"
-      ],
-      "text": "德國總理默茨表示，伊朗與美國之間的停火必須在黎巴嫩得到維持。"
-    },
-    {
-      "id": "mkt:019ee02e-96a4-7dd8-b096-e7fe9f5cb26f",
-      "time": "2026-06-19 22:00:09",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "German Chancellor Merz said now is not the time to decide who will speak for the EU on Russia and Ukraine."
-    },
-    {
-      "id": "mkt:019ee02d-c204-7dd8-b096-de0169ae5c79",
-      "time": "2026-06-19 21:59:15",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Iran's foreign ministry said a memorandum of understanding with the US on ending the war has been signed digitally, making a meeting originally scheduled for Friday in Switzerland no longer urgent."
-    },
-    {
-      "id": "te:markets:560504",
-      "time": "2026-06-19 21:59:03",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Canada",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "TSX Muted as US-Iran Talks Stall — The S&P/TSX Composite Index was little changed near the 35,000 mark on Friday as investors reacted to the suspension of US-Iran talks. The discussions, aimed at addressing Iran’s nuclear program following a recently signed memorandum of understanding, were delayed after regional tensions escalated and US Vice President JD Vance unexpectedly withdrew. At the same time, pressure from the Federal Reserve’s surprise hawkish shift earlier in the week continued to weigh on sentiment. Financial stocks traded mixed, with Brookfield falling nearly 1%, while RBC gained 0.6%. Gold prices extended losses, pressuring mining shares, with Agnico Eagle down more than 1%, Barrick losing over 1.5%, and WPM falling 2%. Energy stocks were mixed amid uncertainty over US-Iran diplomacy, with Canadian Natural up 1% and Cenovus gaining 0.5%, while Suncor Energy and Imperial Oil traded near flat."
-    },
-    {
-      "id": "mkt:019ee02d-5b82-7dd8-b096-d6a04fe320f2",
-      "time": "2026-06-19 21:58:49",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "WTI",
-        "DXY"
-      ],
-      "text": "Israel Defense Forces: sirens sounded in northern Israel after reports of suspected hostile aircraft."
-    },
-    {
-      "id": "4945255",
-      "time": "2026-06-19 21:58:47",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗外交部表示，與美國達成的結束戰爭諒解備忘錄已透過數字方式簽署，因此週五在瑞士舉行的會談不再緊急。"
     }
   ]
 }
