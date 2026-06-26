@@ -1,7 +1,583 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-06-26 07:40:59_
-_本檔包含 3510 則快訊，約 617806 字_
+_更新時間：2026-06-26 08:12:58_
+_本檔包含 3525 則快訊，約 617668 字_
+
+---
+
+### 2026-06-22 09:02:24  #市場 #焦點
+
+碳酸鋰連續主力合約日內跌5%，現報157280.00元。
+
+---
+
+### 2026-06-22 09:01:57  #市場 #焦點
+
+鈀連續主力合約日內跌4%，現報300.70元。
+
+---
+
+### 2026-06-22 09:01:57  #MKT News
+
+Iran's foreign ministry spokesperson said talks held in Switzerland made good progress toward implementing the other party's commitments.
+
+---
+
+### 2026-06-22 09:01:50  #MKT News #Important #DXY #Impact bullish #S&P500 #Impact bearish #Hang Seng Index
+
+MOFCOM decided to add 10 U.S. entities to its export control list.
+
+---
+
+### 2026-06-22 09:01:37  #公司
+
+【銅冠銅箔：目前公司訂單充足 生產經營正常】銅冠銅箔(301217)在互動平臺表示，目前公司訂單充足，生產經營正常。
+
+---
+
+### 2026-06-22 09:01:20  #MKT News #Important #Nikkei 225 #Impact bullish
+
+Taiwan's TAIEX opened up 945.37 points, or 2.03%, at 47,410.57 on Monday, June 22.
+
+---
+
+### 2026-06-22 09:01:18  #MKT News #Commodities #Precious Metals #XAUUSD #Impact bearish
+
+Shanghai Gold Exchange Gold T+D fell 2.31% to 917.31 yuan/gram in early trade on Monday, June 22; Silver T+D dropped 3.03% to 16,082.0 yuan/kg.
+
+---
+
+### 2026-06-22 09:01:07  #MKT News #Important #Commodities #Precious Metals #XAUUSD #Impact bullish
+
+Spot gold extended gains, touching $4,220/oz and rising 1.55% intraday. Spot silver climbed above $67/oz, up 3.40% on the session.
+
+---
+
+### 2026-06-22 09:00:52  #央行 #中國央行
+
+【6月LPR不變：1年期3.0% 5年期以上3.5%】貸款市場報價利率（LPR）報價連續13個月按兵不動。中國人民銀行授權全國銀行間同業拆借中心公佈，2026年6月22日，貸款市場報價利率（LPR）為：1年期LPR為3.00%，5年期以上LPR為3.50%，均較上月保持不變，以上LPR在下一次釋出LPR之前有效。
+
+---
+
+### 2026-06-22 09:00:36  #市場 #焦點
+
+現貨白銀突破67美元/盎司，日內漲3.41%。
+
+---
+
+### 2026-06-22 09:00:32  #MKT News #Market Regions #Greater China #CSI300 #Impact bullish
+
+FTSE China A50 index futures opened 0.18% higher.
+
+---
+
+### 2026-06-22 09:00:30  #央行 #焦點
+
+【一年期、五年期LPR均維持不變】中國央行將一年期和五年期貸款市場報價利率（LPR）分別維持在3%和3.5%不變，為連續13個月保持不變。
+
+---
+
+### 2026-06-22 09:00:29  #MKT News #Macro & Rates
+
+China's five-year loan prime rate (LPR) stood at 3.50% on June 22, in line with the forecast and the prior reading of 3.50%.
+
+---
+
+### 2026-06-22 09:00:28  #MKT News #Important #Commodities #Energy #Precious Metals
+
+At the open, China’s main futures contracts were mixed. Low-sulfur fuel oil (LU) jumped over 3%, lithium carbonate slid over 5% and Shanghai silver futures fell about 4%. Palladium, eggs and platinum were down more than 3%. Container freight to Europe rose over 2%; Shanghai crude (SC) and bottle-grade PET gained just above 1%.
+
+---
+
+### 2026-06-22 09:00:28  #MKT News #Important
+
+China one-year loan prime rate (LPR) as of June 22: 3.00%; expected 3.00%; prior 3.00%.
+
+---
+
+### 2026-06-22 09:00:23  #Trading Economics #Markets #Japan #Stock Market #Importance 2
+
+Japanese Shares Scale Fresh Record Highs — The Nikkei 225 Index jumped 1.4% to above 72,200, while the broader Topix Index gained 1% to 4,085 on Monday, with both benchmarks reaching new record highs as Japanese firms tied to the global artificial intelligence infrastructure boom continued to lead the market higher. Domestic equities advanced despite a rise in oil prices after tensions escalated during the first day of talks between the US and Iran. Investors also awaited the latest Japanese PMI data for clues on economic conditions, along with the Bank of Japan’s Summary of Opinions from its June meeting, where policymakers raised interest rates by 25 basis points to 1%. Among notable gainers, Furukawa Electric jumped 8.7%, Murata Manufacturing rose 6.7%, JX Advanced Metals gained 8%, Ibiden advanced 5.1%, and SoftBank Group added 1.1%.
+
+---
+
+### 2026-06-22 09:00:22  #市場
+
+現貨白銀日內漲3%，現報66.97美元/盎司。
+
+---
+
+### 2026-06-22 09:00:21  #MKT News #Economic Calendar
+
+China | 5-Year Loan Prime Rate (Jun.22) | actual 3.5% | consensus 3.50% | previous 3.50%
+
+---
+
+### 2026-06-22 09:00:18  #MKT News #Economic Calendar #Important
+
+China | 1-Year Loan Prime Rate (Jun.22) | actual 3% | consensus 3.00% | previous 3.00%
+
+---
+
+### 2026-06-22 09:00:17  #MKT News #Important
+
+【1yr, 5yr LPR unchanged】The PBOC left the 1-year and 5-year loan prime rates (LPR) at 3.00% and 3.50%, respectively, marking the 13th consecutive month without change.
+
+---
+
+### 2026-06-22 09:00:15  #宏觀 #國際
+
+【財政部：關於在政府採購活動中對有關美國企業採取相關措施的通知】根據有關法律法規，經批准，現決定在政府採購活動中對46家美國企業採取相關措施。具體通知如下： 一、採購人在政府採購活動中，不得采購46家美國企業（不包括在華美資企業）生產的產品。 二、本通知自印發之日起施行。
+
+---
+
+### 2026-06-22 09:00:11  #市場 #焦點
+
+現貨黃金突破4210美元/盎司，日內漲1.34%。
+
+---
+
+### 2026-06-22 09:00:09  #市場
+
+紐約期銀日內漲1%，現報67.48美元/盎司。
+
+---
+
+### 2026-06-22 09:00:07  #市場 #焦點
+
+紐約期金突破4230美元/盎司，日內跌0.37%。
+
+---
+
+### 2026-06-22 09:00:03  #市場
+
+【商品期貨開盤】白銀連續跌4.37%，碳酸鋰連續跌4.32%，鉑連續跌3.47%，雞蛋連續跌3.33%，鈀連續跌3.00%。
+
+---
+
+### 2026-06-22 09:00:03  #市場 #焦點
+
+紐約期銀突破67美元/盎司，日內漲0.29%。
+
+---
+
+### 2026-06-22 09:00:02  #市場 #焦點
+
+白銀連續主力合約日內跌4%，現報15980.00元。
+
+---
+
+### 2026-06-22 09:00:02  #市場 #焦點
+
+碳酸鋰連續主力合約日內跌4%，現報158400.00元。
+
+---
+
+### 2026-06-22 09:00:02  #市場
+
+富時中國A50指數期貨開盤下跌0.05%。
+
+---
+
+### 2026-06-22 09:00:02  #市場 #焦點
+
+焦煤連續主力合約日內跌1%，現報1279.00元。
+
+---
+
+### 2026-06-22 09:00:00  #市場 #焦點
+
+紐約期金突破4220美元/盎司，日內跌0.60%。
+
+---
+
+### 2026-06-22 08:59:43  #MKT News #Important #Market Regions #Greater China #DXY #Impact bullish #XAUUSD #S&P500 #Impact bearish
+
+China's Ministry of Finance said it will take measures against relevant U.S. companies in government procurement activities.
+
+---
+
+### 2026-06-22 08:59:34  #MKT News
+
+【Iran negotiating delegation concludes work; technical team to continue】State news agency reported on June 22 that Iranian Foreign Ministry spokesman Baghaei said the negotiating delegation has concluded its work, while technical teams will continue. Mediators Qatar and Pakistan will issue a text summarising the talks’ key points, which will be submitted as the agreement document.
+
+---
+
+### 2026-06-22 08:59:14  #市場
+
+現貨白銀日內漲2%，現報66.21美元/盎司。
+
+---
+
+### 2026-06-22 08:58:55  #國際
+
+伊朗外交部發言人：關於落實對方承諾的瑞士會談取得良好進展。
+
+---
+
+### 2026-06-22 08:57:58  #國際
+
+【伊朗談判代表團工作已結束】據伊朗塔斯尼姆通訊社今天（6月22日）報道，伊朗外交部發言人巴加埃表示，伊朗談判代表團的工作已結束，但技術團隊將繼續工作。接下來將由調解方——卡達和巴基斯坦——釋出一份文字，其中將包含這次會談的各項總體要點。這將作為這次會談中所達成的協議檔案被提交。
+
+---
+
+### 2026-06-22 08:57:35  #公司
+
+【蜀道裝備將於6月22日調入深股通可買入標的名單】據港交所資訊顯示，在最新一期深股通股票更改表中，蜀道裝備(300540)將於6月22日調入深股通可買入標的名單。2025年年報顯示，蜀道裝備實現營業收入7.1億元，實現淨利潤6008.11萬元，扣非淨利潤為6068.24萬元。自2023年以來，蜀道裝備已連續三年保持大額盈利，該公司以深冷技術裝備製造為核心業務，並在氣體投資運營、清潔能源投資運營和氫能源業務方面也有深度投資。
+
+---
+
+### 2026-06-22 08:57:18  #國際
+
+【伊朗外交部：伊美技術談判將繼續進行】據伊朗媒體22日報道，伊朗外交部發言人巴加埃表示，伊朗談判代表團的工作已經結束，但伊朗和美國的技術談判將繼續進行。（新華社）
+
+---
+
+### 2026-06-22 08:56:34  #MKT News #Important #Commodities #Precious Metals #XAUUSD #Impact bullish
+
+Spot gold rose more than 1.00% intraday, trading at $4,197.44/oz. Spot silver broke above $66/oz, up 1.83% on the day.
+
+---
+
+### 2026-06-22 08:56:16  #其他
+
+【6月18日665股獲融資買入超億元 中際旭創穫買入71.74億元居首】6月18日共有3466只個股獲融資資金買入，有665股買入金額超億元。其中，中際旭創、兆易創新、寒武紀融資買入金額排名前三，分別獲買入71.74億元、63.32億元、53.62億元。
+
+---
+
+### 2026-06-22 08:55:58  #市場
+
+現貨黃金日內漲1%，現報4197.25美元/盎司。
+
+---
+
+### 2026-06-22 08:55:58  #市場 #焦點
+
+現貨白銀突破66美元/盎司，日內漲1.85%。
+
+---
+
+### 2026-06-22 08:55:48  #市場 #焦點
+
+現貨黃金突破4190美元/盎司，日內漲0.96%。
+
+---
+
+### 2026-06-22 08:55:37  #MKT News #Commodities #Energy #WTI #Impact bearish #Brent
+
+【Iran foreign ministry: Iran-U.S. talks make good progress on unfreezing Iranian assets, oil sales licenses】Iranian media on the 22nd reported foreign ministry spokesman Baghaei said Iran and the U.S. discussed oil sales licenses and the unfreezing of Iranian assets and had made good progress.
+
+---
+
+### 2026-06-22 08:55:33  #市場 #國際
+
+日本工業機器人股上漲，發那科股價上漲8.2%，安川電機股價上漲9.2%。
+
+---
+
+### 2026-06-22 08:55:22  #市場 #焦點
+
+紐約期金突破4210美元/盎司，日內跌0.84%。
+
+---
+
+### 2026-06-22 08:55:19  #國際
+
+【韓國綜指漲幅擴大至1%】韓國綜指漲幅擴大至1%，現報9143.63點。
+
+---
+
+### 2026-06-22 08:54:27  #國際
+
+【伊朗外交部：伊美談判就解凍伊朗資產等取得良好進展】據伊朗媒體22日報道，伊朗外交部發言人巴加埃說，伊朗和美國討論了石油銷售許可證和解凍伊朗資產等問題，並取得了良好進展。（新華社）
+
+---
+
+### 2026-06-22 08:54:18  #公司 #市場
+
+三星電子股價收復早前失地，上漲0.1%。
+
+---
+
+### 2026-06-22 08:54:13  #MKT News #WTI #Impact bearish #Brent
+
+Iran's Foreign Ministry spokesman said officials have discussed preparatory work to launch negotiations on a final agreement.
+
+---
+
+### 2026-06-22 08:53:25  #國際
+
+伊朗外交部發言人：已就啟動最終協議談判的籌備工作展開討論。
+
+---
+
+### 2026-06-22 08:53:17  #MKT News #Important #WTI #Impact bearish #Brent
+
+Iran's foreign ministry spokesman said an agreement had been reached on arrangements for a mechanism to ensure the safe passage of vessels through the Strait of Hormuz.
+
+---
+
+### 2026-06-22 08:52:24  #MKT News
+
+Iran's Foreign Ministry spokesman said the document will be formally submitted as the outcome of the 18-hour negotiations.
+
+---
+
+### 2026-06-22 08:52:08  #國際
+
+伊朗外交部發言人：關於船隻安全透過霍爾木茲海峽的問題，雙方同意建立一項機制。
+
+---
+
+### 2026-06-22 08:51:55  #國際
+
+【美外交官稱美伊預計將“通宵”談判 】一名參與談判的美國高階外交官22日對隨團美國媒體說，美國與伊朗在瑞士比爾根山的談判仍繼續進行，美國代表團預計將“通宵”工作。該外交官表示，伊朗談判代表仍在現場，美國副總統萬斯等美方談判代表一直在與伊方進行會晤和談判。美伊談判內容包括“澄清伊朗方面關於霍爾木茲海峽的一些令人困惑的資訊，並建立衝突消除機制，以確保海峽保持完全開放”，“我們還討論了黎巴嫩南部的衝突消除機制以及執行停火協議的問題”。該外交官還說，雙方已就核協議的所有要素進行了充分討論，並計劃將當天的工作作為未來持續技術會談的起點。（新華社）
+
+---
+
+### 2026-06-22 08:51:26  #市場 #國際
+
+5年期日本國債收益率上漲2.0個基點，至1.910%。
+
+---
+
+### 2026-06-22 08:51:12  #MKT News
+
+Iran's foreign ministry spokesperson said mediators from Qatar and Pakistan will issue a text outlining general points.
+
+---
+
+### 2026-06-22 08:51:10  #國際
+
+伊朗外交部發言人：這份檔案將作為18小時會談期間達成的協議檔案被提交。
+
+---
+
+### 2026-06-22 08:51:03  #國際
+
+伊朗外交部發言人：卡達和巴基斯坦兩位調停人將釋出一份文字，其中將包含總體要點。
+
+---
+
+### 2026-06-22 08:50:20  #國際
+
+據伊朗塔斯尼姆通訊社：伊朗外交部發言人表示，談判代表團的工作已結束，但技術團隊將繼續工作。
+
+---
+
+### 2026-06-22 08:50:09  #MKT News #Important
+
+TASNIM NEWS: An Iranian Foreign Ministry spokesperson said the negotiating delegation has completed its work, but a technical team will continue working.
+
+---
+
+### 2026-06-22 08:50:06  #MKT News #Important #CNH
+
+China's one-year loan prime rate (LPR) for the June 22 fixing will be published in 10 minutes.
+
+---
+
+### 2026-06-22 08:48:44  #MKT News #Commodities #Precious Metals #XAUUSD #Impact bullish
+
+Spot gold rose 0.59% to trade above $4,180/oz.
+
+---
+
+### 2026-06-22 08:48:41  #市場 #焦點
+
+現貨黃金突破4180美元/盎司，日內漲0.60%。
+
+---
+
+### 2026-06-22 08:48:07  #市場 #央行 #國際
+
+【銀河證券：風波平息後金價有望重回漲勢】中國銀河證券研報表示，2026年上半年中東衝突油價上行，通脹預期加劇，致使市場對美聯儲由降息預期轉為年內加息，疊加流動性兌現，使金價衝高後承壓。當前市場已充分定價下半年美聯儲一次加息的黃金價格，若下半年中東衝突與霍爾木茲海峽封鎖緩解，油價與通脹下行，市場對美聯儲貨幣政策邊際寬鬆預期的升溫，有望驅動金價重回漲勢。而全球秩序、美國債務信用問題的發酵，“去美元”實質化推進全球信用貨幣體系換錨，推動全球央行、投資機構以及個人家庭加大購金與黃金資產配置這一黃金上漲的長期邏輯延續，將支撐黃金價格的中長期上漲趨勢與A股黃金板塊估值的提升。
+
+---
+
+### 2026-06-22 08:47:43  #公司 #市場 #國際
+
+【LG旗下股票大漲 韓媒稱LG高管將訪問英偉達總部討論實體AI】韓國報紙《亞洲商業日報》報道，LG電子、LG CNS、LG Innotek及其他LG集團旗下子公司的管理人員將於週一訪問英偉達總部，討論實體人工智慧(AI)和機器人領域的合作事宜。本月初LG集團董事長Koo Kwang-mo和英偉達執行長黃仁勳曾在首爾會面。LG電子週一在首爾一度上漲12%；LG CNS上漲14%；LG Corp.上漲7%。
+
+---
+
+### 2026-06-22 08:47:31  #MKT News #Market Regions #Greater China #CSI300 #Impact bullish #SSE Composite #SZSE Component
+
+【Shanghai and Shenzhen margin financing balances rise CNY12.808 bln】As of June 18, margin financing balance on the Shanghai Stock Exchange was CNY1.495186 trillion, up CNY6.974 billion from the prior trading day; Shenzhen Stock Exchange was CNY1.439473 trillion, up CNY5.834 billion; combined CNY2.934659 trillion, up CNY12.808 billion.
+
+---
+
+### 2026-06-22 08:47:08  #市場 #國際
+
+日本日經平均指數延續漲勢，最新上漲1.42%，報72,265.13點。
+
+---
+
+### 2026-06-22 08:46:53  #其他
+
+【兩市融資餘額較上日增加128.08億元】截至6月18日，上交所融資餘額報14951.86億元，較前一交易日增加69.74億元；深交所融資餘額報14394.73億元，較前一交易日增加58.34億元；兩市合計29346.59億元，較前一交易日增加128.08億元。
+
+---
+
+### 2026-06-22 08:46:21  #公司 #觀點
+
+【花旗：泡泡瑪特新款Labubu玩偶或難成短期催化劑】花旗集團表示，泡泡瑪特新推出的Labubu毛絨玩具“THE MONSTERS美髮沙龍”系列在社交媒體上的反饋褒貶不一，可能不會成為短期催化劑。分析師Lydia Ling等人在一份報告中指出：“該系列自發布以來受到廣泛關注，但關於設計的線上評價則褒貶參半。”此次新品的一大亮點在於髮型設計，採用了新型絲絨材質與工藝，為使用者提供了更多DIY造型的空間。目前，“MOKOKO絲絨午後”款式最受歡迎，二級市場價格已出現溢價；其次是“海岸風情”和“天生叛逆”，在Qianda平臺趨勢資料中表現靠前；而其餘三款標準款需求相對較低，二級市場價格低於原價。截至6月21日晚，其抖音旗艦店預約人數已超1.7萬，天貓旗艦店超1萬，小紅書平臺超3000人。該系列將於6月25日線上發售，6月26日線下開售。
+
+---
+
+### 2026-06-22 08:45:55  #市場 #焦點
+
+紐約期金突破4200美元/盎司，日內跌1.07%。
+
+---
+
+### 2026-06-22 08:45:03  #MKT News #Commodities #Precious Metals
+
+Spot silver up 1.00% intraday, trading at $65.47/oz.
+
+---
+
+### 2026-06-22 08:44:58  #市場
+
+現貨白銀日內漲1%，現報65.48美元/盎司。
+
+---
+
+### 2026-06-22 08:44:51  #央行 #美聯儲
+
+【本週決戰PCE！美聯儲最青睞通脹指標將接力引爆市場？】華爾街利率交易員近期正被迫調整頭寸，以應對未來利率可能上升的局面。而本週，他們就將密切關注美聯儲最為青睞的通脹指標——PCE物價指數，以期初步判斷市場新近的鷹派立場是否合理。
+
+---
+
+### 2026-06-22 08:44:15  #MKT News #USDJPY #Impact mixed #DXY #Impact bullish #XAUUSD #Impact bearish
+
+【BOJ power reshuffle: Takaichi's appointees could alter rate path】A lone dissent at the Bank of Japan’s latest rate decision signals a narrowing window for policy normalization. The dissent came from new member Asada—Takaichi’s first policy board appointee—who, attending only his second meeting, opposed lifting the benchmark rate to levels not seen since 1995 and signalled clear support for looser policy. Sanae Takaichi plans to appoint another pro-reflation board member this month to replace Junko Nakagawa at the end of her term, and two other firmly hawkish members face expiry in about a year, giving her scope to reshape the nine‑member policy board and shift its overall tilt under Governor Kazuo Ueda.
+
+---
+
+### 2026-06-22 08:44:08  #公司
+
+【全國首單超輕型eVTOL跨境保險落地前海】據深圳特區報，近日，深港兩地保險公司攜手以“深圳承保、香港出單、跨境分回”新模式，幫助前海低空飛行企業英武智慧科技為旗下超輕型電動垂直起降飛行器（eVTOL）在香港購買低空飛行保險，破解了內地低空企業在港“無保不能飛、不敢飛”的難題。這是全國首單超輕型eVTOL跨境保險。此次投保，雙方開創了“深圳承保、香港出單、跨境分回”的新正規化。深圳方面發揮低空保險產品先行先試優勢，承擔風險評估、方案定製、報價承保等工作；香港方面承接保單屬地化合規對接與出單落地工作，全面保障飛行中的各類突發狀況。
+
+---
+
+### 2026-06-22 08:44:01  #其他
+
+【微信AI助手“小微”小範圍灰度上線 AI應用或迎最佳投資擊球區】微信AI已小範圍灰度上線。部分網友微信主介面左上角已出現小眼睛式樣圖示，該圖示即為AI助手“小微”測試版入口。據騰訊客服介紹，微信小微是微信團隊在小範圍內測的原生AI助手，小微支援透過文字或語音對話操作微信原生功能、調起小程式等，例如幫助好友傳送訊息、查詢朋友圈、預約服務等。
+
+---
+
+### 2026-06-22 08:43:51  #公司
+
+【信達生物：IBI3003治療二至五線多發性骨髓瘤的中國關鍵III期臨床研究完成首例受試者給藥】6月22日，信達生物製藥集團宣佈，其自主研發的創新型抗GPRC5D/BCMA/CD3三特異性抗體IBI3003，用於治療二至五線多發性骨髓瘤（R/R MM）的中國關鍵III期臨床研究（TriadicMM-1）完成首例受試者給藥。
+
+---
+
+### 2026-06-22 08:43:38  #MKT News #Commodities #Precious Metals #Macro & Rates #The Fed (FOMC) #XAUUSD #Impact bullish #DXY #Impact bearish #WTI #Impact mixed
+
+【Galaxy Securities: Gold likely to resume uptrend once tensions ease】Galaxy Securities says 1H26 Middle East conflict pushed oil and inflation expectations higher, flipping market expectations from Fed cuts to a possible in‑year hike and, together with liquidity realization, caused gold to spike then come under pressure. Markets have largely priced a single Fed hike in H2 into gold. If H2 sees easing of the Middle East conflict and any Hormuz blockade, oil and inflation would likely fall and market expectations for marginal Fed easing could re-emerge, supporting a renewed gold rally. Separately, escalating strains in global order and US debt/credit risks are accelerating de‑dollarization and a re‑anchoring of the global credit/currency system, prompting central banks, institutions and households to increase gold allocations; Galaxy says this supports a medium‑to‑long‑term uptrend in bullion and higher valuations for China’s A‑share gold sector.
+
+---
+
+### 2026-06-22 08:43:15  #市場 #焦點
+
+紐約期銀突破66美元/盎司，日內跌1.15%。
+
+---
+
+### 2026-06-22 08:43:01  #MKT News #Market Regions #Greater China
+
+【China week of June 8-14 hog procurement and dressed pork factory-gate prices】Ministry of Agriculture and Rural Affairs monitoring for June 8-14, 2026: average hog procurement price at designated slaughterhouses 11.11 yuan/kg, down 0.5% week-on-week and 29.1% year-on-year. Average dressed pork factory-gate price 14.69 yuan/kg, down 0.3% week-on-week and 28.7% year-on-year.
+
+---
+
+### 2026-06-22 08:41:06  #其他
+
+日股東證股價指數創歷史新高。
+
+---
+
+### 2026-06-22 08:40:40  #市場 #國際
+
+【日韓股市低開高走】日韓股市低開高走，日經225指數現漲逾約1%，首次突破72,000點創歷史新高；韓國綜指現漲0.2%，此前跌超1%。
+
+---
+
+### 2026-06-22 08:40:14  #觀點
+
+【銀河證券：A股下半年建議關注三大主線】銀河證券釋出2026年A股中期投資展望策略研報，下半年建議關注三大主線：（1）AI“基建”：海外AI資本開支擴張與國內新型基礎設施投資共振，算力、通訊、電力等底層設施加速建設，產業鏈景氣有望由核心硬體向基礎設施和能源方向擴散。（2）週期與製造：輸入型通脹抬升價格中樞，“反內卷”改善供給格局，疊加新型基建和製造業出海需求修復，部分資源品與週期製造板塊有望迎來修復。（3）紅利板塊存階段性修復機會，為資金階段性輪動與配置再均衡的重要方向，關注有業績改善預期、分紅穩定可持續的領域。
+
+---
+
+### 2026-06-22 08:38:42  #市場 #國際
+
+日本東證指數上漲1%，至4085.55點。
+
+---
+
+### 2026-06-22 08:38:30  #MKT News
+
+U.S. President Trump posted for the third time in four hours attacking the New York Times.
+
+---
+
+### 2026-06-22 08:36:59  #公司
+
+中國華君集團有限公司在香港暫停交易。
+
+---
+
+### 2026-06-22 08:36:54  #公司
+
+豐城控股有限公司在香港暫停交易。
+
+---
+
+### 2026-06-22 08:36:11  #國際
+
+日本日經指數首次突破72,000點。
+
+---
+
+### 2026-06-22 08:36:09  #市場 #焦點
+
+現貨黃金突破4170美元/盎司，日內漲0.37%。
+
+---
+
+### 2026-06-22 08:35:37  #MKT News #Market Regions #Japan & APAC #Nikkei 225 #Impact bullish
+
+Japan's Nikkei 225 index hit a record high, up 1% intraday.
+
+---
+
+### 2026-06-22 08:35:22  #國際
+
+日本首相高市早苗：一直在努力不斷提高工資。
+
+---
+
+### 2026-06-22 08:35:06  #焦點 #國際
+
+日本日經指數升至歷史新高，日內漲1%。
+
+---
+
+### 2026-06-22 08:34:59  #觀點
+
+花旗：泡泡瑪特新推出的Labubu玩具不太可能成為短期催化劑。
+
+---
+
+### 2026-06-22 08:33:35  #公司 #市場
+
+【LG高管將訪問英偉達總部 討論物理人工智慧】據《亞洲商業日報》報道，LG電子、LG CNS、LG Innotek及其他LG集團下屬企業高管將於週一訪問英偉達總部，討論在物理人工智慧和機器人領域的合作事宜，報道未提及訊息來源。 此次訪問是在本月早些時候LG集團董事長具光謨與英偉達執行長黃仁勳在首爾會晤之後進行的。 週一，LG電子股價在首爾上漲12%；LG CNS上漲12%；LG公司上漲4.7%。
+
+---
+
+### 2026-06-22 08:32:24  #MKT News
+
+TAKAICHI expects the BANK OF JAPAN to coordinate closely with the government and implement appropriate monetary policy to achieve a 2% inf target.
 
 ---
 
@@ -20658,491 +21234,5 @@ Australia's S&P/ASX 200 opened down 82.80 points (-0.93%) at 8,828.30 on Friday,
 ### 2026-06-19 08:13:59  #國際
 
 美國貿易代表辦公室宣告：根據《1974年貿易法》第301條款對德國啟動調查。
-
----
-
-### 2026-06-19 08:12:44  #國際
-
-美國貿易代表辦公室：啟動對德國的301條款調查。
-
----
-
-### 2026-06-19 08:12:36  #市場 #央行 #國際
-
-日本央行冰見野良三：近期物價上漲並非僅受暫時性供給衝擊推動，核心通脹存在偏離我們通脹目標的風險。
-
----
-
-### 2026-06-19 08:12:18  #公司 #國際
-
-【MSCI指出韓國市場面臨關鍵審查前的障礙】MSCI公司在其最新發布的市場可及性評估報告中表示，韓國尚未解決外國投資者面臨的若干關鍵障礙，這對全球基金以及希望該國改革舉措能推動其未來升級為發達市場地位的政府而言是一次挫折。 在週五釋出的年度評估中，MSCI承認韓國在改革方面取得進展，包括計劃推出24小時外匯市場以及採取更廣泛措施以改善投資者准入。然而，這家總部位於紐約的指數提供商指出，由於缺乏完全可交割的離岸韓元市場，以及賣空結算環節持續存在的低效問題，韓國市場的可及性仍受到阻礙。 儘管韓國已於2025年初取消了賣空禁令，“但在實際操作中已出現摩擦，相關運營流程和基礎設施仍在持續完善。”報告還提到，“融資金額計算方式尚不明確，導致結算過程效率低下。”
-
----
-
-### 2026-06-19 08:11:48  #Trading Economics #Markets #Commodity #Importance 0
-
-Silver Pressured by Hawkish Fed Signals — Silver fell toward $65 an ounce on Friday and was set to lose about 4% for the week, as hawkish signals from the US Federal Reserve outweighed the positive impact of the US-Iran peace agreement, which pushed oil prices lower and eased inflation concerns. On Wednesday, the Fed left interest rates unchanged as widely expected but indicated increasing support for interest rate hikes this year. Higher borrowing costs tend to reduce the appeal of non-yielding assets such as silver by increasing their opportunity cost. Meanwhile, investors welcomed signs of improving shipping conditions through the Strait of Hormuz after the US-Iran interim peace deal came into effect, ending a prolonged conflict that triggered the largest supply disruption on record. Still, traders remained cautious, with expectations that it could take months for shipping activity and energy flows to recover to levels seen before the conflict began in late February.
-
----
-
-### 2026-06-19 08:11:38  #央行 #國際
-
-日本央行冰見野良三：核心通脹正接近2%的目標水平。
-
----
-
-### 2026-06-19 08:11:10  #Trading Economics #Economy #Qatar #Inflation Rate #Importance 0
-
-Qatar Inflation Slows to 2.20% — Qatar’s annual inflation rate eased to 2.20% in May 2026 from 2.84% in the previous month. This marked the lowest reading since December last year, driven by slower price increases for miscellaneous goods and services (12.52% vs. 13.82% in April), restaurants and hotels (0.31% vs. 0.90%), furniture and household equipment (0.74% vs. 0.81%), and communication (0.53% vs. 0.75%), while health prices slipped into deflation (-0.09% vs. 0.09%). These developments more than offset faster inflation in food and beverages (11.71% vs. 10.41%) and clothing and footwear (5.48% vs. 4.71%). In addition, transport prices declined at a much faster pace (-2.97% vs. -0.55%), while recreation and culture remained in deflation, with prices falling more sharply (-5.67% vs. -3.18%). Tobacco prices were unchanged, while housing, water, electricity, and other fuels recorded a 2.68% increase after the category was not reported in April. On a monthly basis, the CPI fell 0.51%, following a 0.92% decline in April.
-
----
-
-### 2026-06-19 08:10:40  #其他
-
-【端午假期 重慶火車站預計傳送旅客125萬人次】2026年端午假期鐵路運輸於6月18日正式啟動，至6月22日結束，共計5天。在此期間重慶火車站預計傳送旅客125萬人次，日均傳送旅客25萬人次，同比增加9.1萬人次，增幅7.9%。其中，端午節三天（19日—21日）重慶火車站預計傳送旅客77.5萬人次，同比增加7.1萬人次，增幅10%。
-
----
-
-### 2026-06-19 08:10:21  #其他
-
-【國家郵政局：因地制宜加快郵政快遞樞紐節點改造升級】6月18日，國家郵政局召開局長辦公會議，審議《郵政業更好服務區域協調發展工作總結》（送審稿）等檔案。會議要求，全系統全行業要切實增強責任感緊迫感，把區域協調發展作為一項長期戰略任務抓緊抓實。要切實提高政治站位，緊扣國家區域協調發展戰略部署，在服務大局中找準定位，著力解決區域發展不平衡不充分問題，把行業融入全國統一大市場建設，更好服務加快構建新發展格局。要聚焦區域重點，對標對錶中央對京津冀、長三角、粵港澳大灣區、成渝地區雙城經濟圈、長江經濟帶發展與黃河流域生態保護和高質量發展及西部、東北、中部、東部四大板塊發展的部署要求，因地制宜加快郵政快遞樞紐節點改造升級，持續鞏固中西部和農村地區網路韌性，縮小城鄉服務差距，推動產業協同、網路共享。要突出問題導向，在建立協調機制、補齊中西部基礎設施短板、推動打造綜合物流整合商等方面，爭取出更多標誌性成果。
-
----
-
-### 2026-06-19 08:09:38  #Trading Economics #Markets #Commodity #Importance 2
-
-Gold Pressured by Fed Rate Hike Signals — Gold slipped below $4,200 an ounce on Friday, wiping out gains from earlier in the week as hawkish signals from the US Federal Reserve outweighed the positive impact of the US-Iran peace agreement, which pushed oil prices lower and eased inflation concerns. On Wednesday, the Fed left interest rates unchanged as widely expected but indicated increasing support for interest rate hikes this year. Higher borrowing costs tend to reduce the appeal of non-yielding assets such as gold by increasing their opportunity cost. Meanwhile, investors welcomed signs of improving shipping conditions through the Strait of Hormuz after the US-Iran interim peace deal came into effect, ending a prolonged conflict that triggered the largest supply disruption on record. Still, traders remained cautious, with expectations that it could take months for shipping activity and energy flows to recover to levels seen before the conflict began in late February.
-
----
-
-### 2026-06-19 08:09:31  #公司 #市場 #國際
-
-【在對新興市場作出裁決之前，MSCI對印尼的透明度問題提出了新的擔憂】指數提供商MSCI週四進一步對印尼的投資吸引力表示擔憂，指出其股權結構透明度有限且存在協同交易行為，這對全球表現最差的主要股市而言又是一記重擊。這一警告發布之際，MSCI將於下週決定是否將印尼的市場分類從“新興市場”下調至“前沿市場”，此舉可能引發高達130億美元的資金外流。自今年1月MSCI指出的透明度問題並警告可能將其市場分類下調至前沿市場以來，印尼資本市場便一路暴跌。在週四釋出的市場可進入性評估報告中，MSCI將印尼的資訊流通標準下調至“負面”，這反映出股權資料和市場活動的不透明性，這種不透明性不僅阻礙了合理的價格形成，也限制了全球投資者評估企業真實流通股的能力。1月份的警告促使當局推出了一系列改革措施，包括將上市公司的最低流通股比例提高一倍至15%，而交易所和監管機構的高層管理人員也在1月的一個下午集體辭職。4月，MSCI延長了對印尼市場的審查，並於5月將其指數中剔除了六家公司，其中大多數與大亨有關，導致股價再次大幅下跌。作為全球最大的市場指數提供商之一，MSCI的降級決定將迫使被動型投資基金拋售股票，並給以MSCI指數為基準的主動型基金經理帶來降低持倉的壓力。
-
----
-
-### 2026-06-19 08:08:08  #國際
-
-韓國綜合股價指數(KOSPI)觸及紀錄高位。
-
----
-
-### 2026-06-19 08:07:13  #其他
-
-中國地震臺網正式測定：06月19日08時00分在新疆阿克蘇地區烏什縣（北緯41.26度，東經78.66度）發生3.2級地震，震源深度10千米。
-
----
-
-### 2026-06-19 08:07:09  #央行 #國際
-
-日本央行副行長冰見野良三：日本央行將結合基線情景的兌現可能性及相關風險，考量進一步加息的節奏與時機。
-
----
-
-### 2026-06-19 08:07:03  #市場
-
-紐約期金日內跌1%，現報4203.38美元/盎司。
-
----
-
-### 2026-06-19 08:06:51  #其他
-
-訊息人士稱，哥倫比亞總檢察長對前總統烏里韋啟動調查，調查涉及他與準軍事組織相關的犯罪行為。
-
----
-
-### 2026-06-19 08:06:07  #央行 #國際
-
-日本央行副行長冰見野良三：日本央行預計將根據經濟、物價與金融形勢繼續加息。
-
----
-
-### 2026-06-19 08:06:02  #央行 #國際
-
-日本央行副行長冰見野良三：預計通脹趨勢將逐步上行。
-
----
-
-### 2026-06-19 08:05:49  #市場
-
-澳大利亞S&P/ASX 200指數早盤下跌0.9%，至8,829.80點。
-
----
-
-### 2026-06-19 08:05:26  #央行 #國際
-
-日本央行副行長冰見野良三：需要關注匯率對經濟的影響。
-
----
-
-### 2026-06-19 08:05:21  #公司
-
-三星電子、 SK海力士股價創歷史新高。
-
----
-
-### 2026-06-19 08:05:16  #MKT News #005930.KS #Impact bullish #000660.KS
-
-Samsung Electronics and SK Hynix shares hit record highs.
-
----
-
-### 2026-06-19 08:04:52  #市場
-
-WTI原油日內跌1%，現報75.09美元/桶。
-
----
-
-### 2026-06-19 08:04:44  #市場 #國際
-
-10年期日本國債收益率上漲2.5個基點，至2.640%。
-
----
-
-### 2026-06-19 08:04:29  #其他
-
-【日經225指數漲幅擴大至1%】日經225指數漲幅擴大至1%，現報71923.98點。
-
----
-
-### 2026-06-19 08:04:25  #市場
-
-布倫特原油日內跌1%，現報78.71美元/桶。
-
----
-
-### 2026-06-19 08:04:11  #市場
-
-MSCI新興市場指數上漲0.6%，創歷史新高。
-
----
-
-### 2026-06-19 08:04:02  #MKT News
-
-Japan's Nikkei 225 rose 1.00% intraday.
-
----
-
-### 2026-06-19 08:03:35  #央行 #國際
-
-日本央行副行長冰見野良三：日本經濟正在溫和復甦。
-
----
-
-### 2026-06-19 08:02:53  #央行 #國際
-
-日本央行副行長：日本經濟正在溫和復甦。
-
----
-
-### 2026-06-19 08:02:13  #公司 #市場
-
-必和必拓股價下跌3.4%，此前該公司宣佈對鉀肥專案計提23億美元費用。
-
----
-
-### 2026-06-19 08:01:50  #MKT News #Market Regions #Japan & APAC
-
-Japan 5-year government bond yield rose 2.0 bps to 1.880%.
-
----
-
-### 2026-06-19 08:01:49  #MKT News #Important #Market Regions #Japan & APAC #Nikkei 225 #Impact bullish #005930.KS
-
-【Japan, South Korea stocks open higher】Tokyo's Nikkei 225 opened up 372.55 points (+0.52%) at 71,426.04 on June 19 (Friday). Seoul's KOSPI opened up 231.44 points (+2.55%) at 9,295.28. Samsung Electronics shares rose 3%.
-
----
-
-### 2026-06-19 08:01:31  #市場 #國際
-
-日本五年期國債收益率上升2個基點，至1.880%。
-
----
-
-### 2026-06-19 08:01:21  #國際
-
-日本日經平均股指創下歷史新高。
-
----
-
-### 2026-06-19 08:00:44  #公司 #市場
-
-三星電子股價上漲3%。
-
----
-
-### 2026-06-19 08:00:38  #市場 #國際
-
-韓國綜合股價指數（KOSPI）開盤上漲2.5%，至9288.89點。
-
----
-
-### 2026-06-19 08:00:27  #市場
-
-日經225指數上午開盤報71551.03點，漲幅0.70%。
-
----
-
-### 2026-06-19 08:00:00  #MKT News
-
-Bank of Japan minutes: the Cabinet Office said it hopes the central bank's policy guidance will be consistent with the government's joint statement.
-
----
-
-### 2026-06-19 07:59:54  #央行 #國際
-
-日本央行會議紀要：內閣辦公室代表稱，希望日本央行按照與政府的共同宣告來引導政策。
-
----
-
-### 2026-06-19 07:59:41  #MKT News #Market Regions #Japan & APAC
-
-Bank of Japan minutes: a Cabinet Office representative said the central bank must guide appropriate monetary policy to secure strong economic growth and price stability in Japan.
-
----
-
-### 2026-06-19 07:59:25  #央行 #國際
-
-日本央行會議紀要：內閣辦公室代表稱，日本央行必須實施恰當的貨幣政策引導，確保日本實現強勁經濟增長與物價穩定.
-
----
-
-### 2026-06-19 07:59:00  #MKT News #Market Regions #Japan & APAC #USDJPY #Impact mixed
-
-Bank of Japan minutes: one member said the central bank's monetary policy does not target the exchange rate and that the exchange rate should be determined by the market.
-
----
-
-### 2026-06-19 07:58:26  #央行 #國際
-
-日本央行會議紀要：一名成員表示，日本央行貨幣政策不以匯率為目標，匯率應由市場決定。
-
----
-
-### 2026-06-19 07:58:22  #國際
-
-【美軍稱在東太平洋打擊一艘“販毒船” 致3人死亡】當地時間18日，美國南方司令部透過社交媒體發文稱，聯合特遣部隊“南方之矛”在東太平洋對一艘由“認定恐怖組織”運營的船隻實施了打擊，打死3名男性所謂“毒品恐怖分子”。
-
----
-
-### 2026-06-19 07:58:07  #MKT News #Market Regions #Japan & APAC
-
-Bank of Japan minutes: one member said the BOJ should maintain accommodative monetary policy and avoid rate hikes if Japan faces severe supply‑chain disruptions.
-
----
-
-### 2026-06-19 07:57:57  #央行 #國際
-
-日本央行會議紀要：一位委員表示，若日本面臨供應鏈嚴重中斷，央行應維持寬鬆貨幣政策，避免加息。
-
----
-
-### 2026-06-19 07:57:57  #MKT News #USDJPY #Impact bearish
-
-Bank of Japan minutes: one member said the central bank should not hesitate to accelerate interest-rate hikes, for example by raising rates every few months.
-
----
-
-### 2026-06-19 07:57:48  #央行 #國際
-
-日本央行會議記錄：一位委員表示，日本央行不應猶豫加快加息步伐，例如每隔幾個月加息一次。
-
----
-
-### 2026-06-19 07:57:05  #MKT News #USDJPY #Impact bearish
-
-BANK OF JAPAN minutes: some members said if the Middle East conflict persists the central bank should raise rates faster to avert potentially excessive inf.
-
----
-
-### 2026-06-19 07:56:21  #MKT News #Macro & Rates
-
-Bank of Japan minutes: one member said any rate increases at the next meeting and thereafter will depend on the magnitude of risks to the economy and prices.
-
----
-
-### 2026-06-19 07:56:09  #央行 #國際
-
-日本央行會議紀要：一名委員表示，若圍繞經濟、物價的風險規模出現相應變化，下次及之後的會議有可能加息。
-
----
-
-### 2026-06-19 07:56:08  #MKT News #USDJPY #Impact mixed
-
-Bank of Japan minutes: several members said the central bank could modestly adjust the degree of monetary easing if the likelihood of its baseline forecast being realized increases.
-
----
-
-### 2026-06-19 07:56:00  #其他
-
-澳大利亞聯邦銀行任命新任資訊長與技術長，以推進科技與人工智慧戰略。
-
----
-
-### 2026-06-19 07:55:45  #央行 #國際
-
-日本央行會議紀要：多名委員表示，如果日本央行基線預測兌現的可能性上升，央行可按合適節奏調整貨幣寬鬆的力度。
-
----
-
-### 2026-06-19 07:54:57  #MKT News #USDJPY
-
-Bank of Japan minutes said policy members unanimously agreed the timing and pace of future rate hikes will depend on the likelihood that the BOJ's baseline forecasts are realized and on risks to economic growth and inflation.
-
----
-
-### 2026-06-19 07:54:45  #央行 #國際
-
-日本央行會議紀要：委員一致認為，未來加息的時機與節奏將取決於日本央行基準預測實現的可能性，以及增長與通脹面臨的風險。
-
----
-
-### 2026-06-19 07:54:08  #央行 #國際
-
-日本央行會議紀要：委員一致認為，根據經濟、物價和金融形勢的發展繼續加息是合適的。少數成員表示，如果通脹風險大幅超過增長下行風險，日本央行可就加息的利弊展開討論。
-
----
-
-### 2026-06-19 07:53:59  #MKT News #Market Regions #Japan & APAC #USDJPY #Impact bearish
-
-BANK OF JAPAN minutes: Some members said if inflation risks materially outweigh downside growth risks, the bank could discuss the merits and drawbacks of a rate hike.
-
----
-
-### 2026-06-19 07:53:41  #MKT News #Macro & Rates #USDJPY #Impact bearish #DXY #Nikkei 225
-
-Bank of Japan minutes said members unanimously agreed that, given developments in the economy, inflation and financial conditions, continuing to raise interest rates is appropriate.
-
----
-
-### 2026-06-19 07:52:54  #央行 #日本央行
-
-【日本央行多位成員表示將根據經濟和物價情況持續加息】日本央行會議紀要顯示，多位成員表示，需要更多時間來確認中東局勢發展對日本經濟和物價的影響；將根據經濟和物價情況持續加息。
-
----
-
-### 2026-06-19 07:52:47  #央行 #國際
-
-日本央行會議紀要：多名成員表示，央行基線預測成真的可能性並不高，目前難以評估增長下行風險與通脹上行風險的平衡狀況。
-
----
-
-### 2026-06-19 07:52:39  #MKT News #Macro & Rates #USDJPY #Impact bullish #DXY #XAUUSD #Impact bearish
-
-Bank of Japan minutes: one member said the current situation is not urgent and there is no need to rush rate hikes.
-
----
-
-### 2026-06-19 07:52:32  #央行 #國際
-
-日本央行會議紀要：一名成員認為，目前局勢並不緊迫，無需倉促加息。
-
----
-
-### 2026-06-19 07:52:22  #MKT News #USDJPY #Impact bullish #DXY
-
-Bank of Japan minutes: many members said the bank's baseline projection was unlikely to be realized and it was difficult to assess the balance between downside risks to growth and upside risks to inflation.
-
----
-
-### 2026-06-19 07:52:04  #MKT News #Market Regions #Japan & APAC
-
-BOJ minutes: several members said more time is needed to assess how developments in the Middle East will affect Japan's economy and prices.
-
----
-
-### 2026-06-19 07:51:24  #央行 #國際
-
-日本央行4月會議紀要：多位成員表示，需要更多時間來確認中東局勢發展對日本經濟和物價的影響。
-
----
-
-### 2026-06-19 07:51:08  #央行 #國際
-
-日本央行公佈4月27日至28日政策會議紀要。
-
----
-
-### 2026-06-19 07:50:57  #央行 #國際
-
-日本央行成員：將根據經濟和物價情況持續加息。
-
----
-
-### 2026-06-19 07:49:53  #資料 #市場 #央行 #國際
-
-【日本5月核心通脹持續低於日央行目標 燃油漲價風險值得關注】日本總務省週五公佈資料顯示，受燃油補貼對沖中東衝突帶來的原材料漲價影響，5月日本年度核心通脹連續第四個月低於央行2%的通脹目標。分析師預計，未來數月居民通脹將再度升溫；生產端物價已大幅走高，成本壓力持續擴散，日本央行或將延續加息路徑。官方資料顯示，剔除波動較大生鮮食品的核心消費者物價指數（CPI）5月同比上漲1.4%，符合市場預期中值，同比漲幅與4月持平。另有一項同時剔除生鮮食品與燃油的物價指數，是日本央行重點觀測、用於衡量核心潛在通脹的指標，5月同比上漲1.8%，創下2022年9月以來最低同比漲幅。日本央行於週二加息，利率升至31年新高，這是其貨幣政策正常化程序中的標誌性舉措。央行釋放訊號，準備進一步收緊貨幣政策，著力抑制由伊朗衝突引發能源衝擊所帶來的物價上漲壓力。
-
----
-
-### 2026-06-19 07:49:12  #市場 #國際
-
-日本日經平均指數期貨上漲1.12%，報72,030點。
-
----
-
-### 2026-06-19 07:48:21  #公司
-
-【廣州市粵港澳大灣區人工智慧應用賦能中心正式成立並揭牌】6月18日，廣州市粵港澳大灣區人工智慧應用賦能中心正式成立並揭牌。該中心由雲從科技、廣州數字科技集團、中國電信廣州分公司、佳都科技、廣州雲蝶科技和廣州市人工智慧產業發展促進會六家單位聯合發起，面向廣州及粵港澳大灣區人工智慧產業發展需求，建設人工智慧應用公共服務與生態賦能平臺。
-
----
-
-### 2026-06-19 07:47:59  #公司 #市場 #國際
-
-【被指控謀殺保險公司執行長的曼吉奧內暫時撤回精神健康辯護計劃】據週五提交的法庭檔案顯示，被指控在曼哈頓人行道上槍殺一名健康保險公司高管的盧伊吉·曼吉奧內（Luigi Mangione (link)）目前已撤回在庭審中主張其在涉嫌殺人時正處於極端精神健康危機中的辯護計劃。現年28歲的曼吉奧內被指控於2024年12月在中城一家酒店外槍殺聯合健康保險公司執行長布萊恩·湯普森。這起明目張膽的謀殺案雖遭到政府官員的廣泛譴責，卻也成為美國民眾對不斷上漲的醫療成本及健康保險行業做法感到沮喪的象徵。2024年12月，曼吉奧內對曼哈頓地區檢察官阿爾文·布拉格提出的州級謀殺、非法持有武器及偽造檔案等指控表示不認罪。他的審判定於9月在曼哈頓由格雷戈裡·卡羅法官主持。在週五致卡羅法官的一封信中，曼吉奧內的律師表示，他們“目前”將撤回在庭審中辯稱曼吉奧內因極度精神健康危機而喪失行為控制能力的計劃。曼吉奧內的律師團隊週五拒絕置評。
-
----
-
-### 2026-06-19 07:46:42  #市場 #國際
-
-基準10年期日本國債期貨早盤下跌0.15點。
-
----
-
-### 2026-06-19 07:46:25  #市場 #國際
-
-日本日經平均指數期貨早盤上漲0.91%。
-
----
-
-### 2026-06-19 07:45:48  #MKT News #Commodities #Precious Metals #XAUUSD #Impact bearish
-
-Spot gold extended early losses, dipping below $4,190/oz and down 0.45% on the day.
-
----
-
-### 2026-06-19 07:45:31  #市場 #焦點
-
-現貨黃金失守4190美元/盎司，日內跌0.47%。
-
----
-
-### 2026-06-19 07:45:22  #市場 #國際
-
-【亞市早盤油價下跌  受霍爾木茲海峽重新開放跡象影響】亞洲早盤油價下跌，受霍爾木茲海峽重新開放的跡象影響，該海峽是一條關鍵通道，全球五分之一的石油通常經此運輸。“美伊臨時和平協議生效，波斯灣石油恢復供應，“澳新銀行研究部分析師在一份研究報告中說。“隨著伊朗根據協議規定的條件放鬆對這條關鍵水道的控制，大量油輪趁機透過霍爾木茲海峽駛出波斯灣，“澳新銀行研究部的分析師補充說。近月西得州中質油期貨下跌0.7%，報每桶76.05美元。
-
----
-
-### 2026-06-19 07:45:04  #市場 #焦點
-
-紐約期金失守4210美元/盎司，日內跌0.85%。
-
----
-
-### 2026-06-19 07:44:03  #宏觀 #資料 #市場 #央行 #國際
-
-【補貼壓制能源價格 日本通脹保持平穩】受政府補貼壓低能源成本等因素支撐，日本5月核心通脹資料持穩，日本央行年內後續加息路徑不變。日本總務省週五公佈資料，剔除生鮮食品的核心消費者物價指數同比上漲1.4%，與經濟學家預期一致。剔除生鮮食品與能源的核心核心CPI同比上漲1.8%，同樣符合市場預期中值。資料表明，高市早苗首相推出的民生紓困政策成效顯著，政策主要依靠燃油補貼抑制生活成本上漲。其內閣近期敲定補充預算，未來數月將持續緩解中東危機給普通家庭帶來的衝擊。日本政府同時出臺舉措，下調育兒相關開支。儘管美伊臨時和平協議已生效，國際油價依舊處於高位。能源交易商表示，關鍵航道霍爾木茲海峽的原油、液化天然氣運輸量即便能恢復常態，也至少需要數月時間。日元走弱同樣持續擾動日本物價走勢，上月日元兌美元平均匯率為158.24，較去年同期貶值超8%，推高進口商品成本。週五東京早盤日元匯率約1美元兌161.31日元，逼近40年來低位，加大央行入市干預匯率的可能性。
-
----
-
-### 2026-06-19 07:42:48  #市場
-
-【智譜成為港股歷史上首隻突破2000港元的個股】6月18日，“全球大模型第一股”智譜股價高開高走，收盤大漲26.14%，報2094港元/股，總市值達到9336億港元，距離1萬億港元市值僅一步之遙，創下歷史新高。值得一提的是，智譜也因此成為港股歷史上首隻突破2000港元股價的個股。
-
----
-
-### 2026-06-19 07:42:21  #Trading Economics #Economy #Japan #Core Inflation Rate #Importance 1
-
-Japan Core Inflation Remains at Over 4-Year Low — Japan’s core consumer price index, which excludes fresh food but includes energy, rose 1.4% year-on-year in May 2026, in line with both the previous figure and market forecasts. Still, the latest reading marked the lowest level since March 2022 and remained below the Bank of Japan’s 2% target for a fourth straight month, as government fuel subsidies helped offset price pressures from higher oil costs linked to the Iran-Israel conflict. Meanwhile, the index excluding the effects of volatile fresh food and fuel, which is closely watched by the Bank of Japan as a better gauge of demand-driven price movements, rose 1.8% year-on-year in May, marking the softest increase since September 2022. The BoJ raised interest rates by 25 bps to their highest level since September 1995 at its June meeting, marking the first rate hike since last December, to prevent higher oil prices from fueling inflation.
 
 ---
