@@ -1,7 +1,132 @@
 {
-  "updated": "2026-06-27 00:07:37",
-  "count": 17979,
+  "updated": "2026-06-27 00:12:01",
+  "count": 17984,
   "items": [
+    {
+      "id": "4957849",
+      "time": "2026-06-27 00:11:14",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "ING分析師在一份研究報告中表示：油價對霍爾木茲海峽船隻遇襲的訊息反應平淡。每桶76美元以下的水平看起來相對溫和，歐洲央行鷹派官員要求採取進一步行動的呼聲在市場參與者聽來已開始顯得空洞。"
+    },
+    {
+      "id": "te:markets:562306",
+      "time": "2026-06-27 00:11:04",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Germany",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The DAX Index Closes 1.29% Lower — The DAX Index decreased 324 points or 1.29 percent on Friday to close at 24671 points. The decline was led by Zalando (-6.80%), Porsche Automobil (-6.59%) and Siemens Energy (-5.84%)."
+    },
+    {
+      "id": "4957848",
+      "time": "2026-06-27 00:10:51",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "【特朗普稱伊朗無人機襲擊霍爾木茲海峽船隻違反停火協議】當地時間6月26日，美國總統特朗普表示，伊朗至少向經過霍爾木茲海峽的船隻發射4架單向攻擊無人機，其中一架擊中一艘大型貨船上層甲板造成損壞，但船隻仍繼續航行。特朗普稱，美方擊落了其餘3架無人機，並表示伊朗此舉“明顯違反了我們的停火協議”。（央視新聞）"
+    },
+    {
+      "id": "te:markets:562305",
+      "time": "2026-06-27 00:10:04",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "France",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The CAC 40 Index Closes 0.69% Lower — The CAC 40 Index fell 58 points or 0.69 percent on Friday to close at 8373 points. Leading the losses are ArcelorMittal (-3.24%), STMicroelectronics (-3.23%) and Safran (-2.85%). Top gainers were Danone (3.06%), Edenred (1.99%) and Dassault Systemes (1.93%)."
+    },
+    {
+      "id": "mkt:019f04b1-c583-7dd8-b13a-e9c08654ad77",
+      "time": "2026-06-27 00:09:46",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "Fed's Kashkari said he remains optimistic about labor market prospects despite AI."
+    },
+    {
+      "id": "4957847",
+      "time": "2026-06-27 00:09:27",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲卡什卡利： 人工智慧產業建設或意味著美聯儲將不得不加息。"
+    },
+    {
+      "id": "mkt:019f04b1-3966-7dd8-b13a-e0e09de432bd",
+      "time": "2026-06-27 00:09:11",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "Impact bearish",
+        "S&P500"
+      ],
+      "text": "Federal Reserve Governor Kashkari said AI build-out is clearly inflationary in the short term."
+    },
+    {
+      "id": "mkt:019f04b0-fcf9-7dd8-b13a-deafe0859ffe",
+      "time": "2026-06-27 00:08:55",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "US10Y",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish",
+        "S&P500"
+      ],
+      "text": "Fed's Kashkari said artificial intelligence has likely pushed up market interest rates."
+    },
+    {
+      "id": "te:markets:562304",
+      "time": "2026-06-27 00:07:19",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "US Stocks Trim Losses — US equities cut earlier losses on Friday as lower oil prices softened inflationary risks. The S&P 500 and the Dow swung above the flatline, with the latter set to close at a record high of nearly 52,100. Evidence that oil tankers continued to cross the Strait of Hormuz improved the supply outlook from Middle Eastern energy, easing concerns of multiple rate hikes by the Fed this year. Companies in traditional economic sectors gained, with Visa and Walmart adding over 2%. Meanwhile, Eli Lilly soared 7% after the EU backed the use of its leukemia therapy. On the other hand, the Nasdaq 100 was 0.4% lower on fresh uncertainty on the AI trade. Chip producers slumped to trim yesterday's rally, which stemmed from the strong outlook by Micron. Its stock was 4% down, while Sandisk, Lam Research, and Western Digital fell up to 10%. The Dow is set to trade in more similar direction as tech-heavy counterparts on Monday as Alphabet will replace Verizon."
+    },
+    {
+      "id": "4957846",
+      "time": "2026-06-27 00:07:12",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲卡什卡利： 短期來看，人工智慧產業擴張明顯會推高通脹。 人工智慧相關因素或正在推高市場利率。"
+    },
+    {
+      "id": "te:markets:562303",
+      "time": "2026-06-27 00:07:05",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United Kingdom",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The FTSE 100 Index Closes 0.17% Lower — The FTSE 100 Index dropped 18 points or 0.17 percent on Friday to close at 10512 points. Losses were led by Croda International (-3.94%), Berkeley (-3.92%) and Vistry Group (-3.21%). Offsetting the fall, top gainers were Endeavour (3.08%), Coca-Cola (2.84%) and Burberry (2.77%)."
+    },
     {
       "id": "mkt:019f04ae-a54c-7dd8-b13a-d5a6da8af07c",
       "time": "2026-06-27 00:06:22",
@@ -164288,64 +164413,6 @@
         "Importance 1"
       ],
       "text": "The FTSE MIB Index Closes 0.30% Higher — The FTSE MIB Index gained 161 points or 0.30 percent on Friday to close at 52849 points. Gains were led by Fincantieri (3.39%), Saipem (3.19%) and Poste Italiane (2.58%). Biggest losers were Brunello Cucinelli (-3.80%), Moncler (-1.60%) and Lottomatica (-1.42%)."
-    },
-    {
-      "id": "mkt:019ee0a7-2b35-7dd8-b099-5b7a532fc021",
-      "time": "2026-06-20 00:11:52",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Hezbollah leader Qassim said the plan to destroy Hezbollah has failed, Israel’s conspiracy has come to an end, and final victory — defined as the complete and permanent expulsion of occupiers from every inch of Lebanese territory — is inevitable."
-    },
-    {
-      "id": "4945356",
-      "time": "2026-06-20 00:11:21",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "秘魯央行預測 2026 年通脹率為 3.8%，2027 年通脹率為 2.0%。"
-    },
-    {
-      "id": "te:markets:560532",
-      "time": "2026-06-20 00:11:05",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Germany",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The DAX Index Closes 0.16% Lower — The DAX Index decreased 41 points or 0.16 percent on Friday to close at 24986 points. The decline was led by Volkswagen (-4.58%), Adidas (-1.71%) and Beiersdorf (-1.54%). On the upside, the strongest performers were Rheinmetall (2.67%), Bayer (1.86%) and Porsche Automobil (1.52%)."
-    },
-    {
-      "id": "te:markets:560530",
-      "time": "2026-06-20 00:10:05",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "France",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The CAC 40 Index Closes 0.55% Lower — The CAC 40 Index fell 47 points or 0.55 percent on Friday to close at 8421 points. Leading the losses are L'Oréal (-2.51%), Essilor (-2.31%) and Hermes International (-2.24%). Top gainers were Renault (3.20%), TotalEnergies SE (1.01%) and Dassault Systemes (0.88%)."
-    },
-    {
-      "id": "mkt:019ee0a4-11f8-7dd8-b099-54e2246cd0de",
-      "time": "2026-06-20 00:08:29",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【U.S. intelligence warns Israel may undermine U.S.-Iran accord】Multiple U.S. intelligence agencies have warned the Trump administration that Israeli Prime Minister Netanyahu may act to undermine President Trump's push for a long-term U.S.-Iran accord, U.S. officials say. Intelligence assesses Netanyahu, under heavy domestic political pressure ahead of autumn elections, needs to show voters he will not withdraw forces from Lebanon and is likely to escalate operations against Hezbollah. The report also says Israeli officials are deeply unhappy with key provisions of Trump’s memorandum, viewing them as weakening Israel’s core objectives."
-    },
-    {
-      "id": "4945355",
-      "time": "2026-06-20 00:08:22",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "秘魯央行預測 2026 年財政赤字佔國內生產總值比重為 1.8%，維持此前 1.8% 的預估不變。"
     }
   ]
 }
