@@ -1,7 +1,157 @@
 {
-  "updated": "2026-06-26 10:11:19",
-  "count": 17064,
+  "updated": "2026-06-26 10:15:17",
+  "count": 17072,
   "items": [
+    {
+      "id": "mkt:019f01b5-5953-7dd8-b12a-5bb9806945e8",
+      "time": "2026-06-26 10:14:49",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Shipping data show two VLCCs loaded crude at Saudi Ras Tanura on Friday; a third vessel is waiting to load."
+    },
+    {
+      "id": "mkt:019f01b4-f533-7dd8-b12a-5638b1ba42a8",
+      "time": "2026-06-26 10:14:24",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Korea Exchange activated a KOSPI sidecar after KOSPI 200 futures fell 5%, suspending algorithmic trading for five minutes."
+    },
+    {
+      "id": "4956235",
+      "time": "2026-06-26 10:14:17",
+      "tags": [
+        "其他"
+      ],
+      "text": "航運資料顯示，沙特阿美在拉斯塔努拉港的原油裝載作業在中斷近四個月後已恢復。"
+    },
+    {
+      "id": "4956234",
+      "time": "2026-06-26 10:14:10",
+      "tags": [
+        "其他"
+      ],
+      "text": "航運資料顯示，週五有兩艘超大型油輪在拉斯坦努拉港裝油，另有一艘油輪在等待裝貨。"
+    },
+    {
+      "id": "mkt:019f01b4-9bd9-7dd8-b12a-49da90c5da8c",
+      "time": "2026-06-26 10:14:01",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "Copper",
+        "Impact bullish",
+        "WTI",
+        "Impact bearish"
+      ],
+      "text": "【China targets 5.4 bln kW installed power capacity by 2030】At a June 26 State Council press briefing, China unveiled a new energy-system plan that targets installed power capacity rising from just over 4.0 bln kW today to 5.4 bln kW by 2030. The plan aims for new energy to comprise more than 50% of installed capacity and for non‑fossil sources to supply 50% of power generation; coal and oil consumption are expected to peak."
+    },
+    {
+      "id": "4956233",
+      "time": "2026-06-26 10:13:51",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【2030年我國電力裝機規模將達54億千瓦】今天（6月26日），國務院新聞辦舉行新聞釋出會，介紹《新型能源體系建設“十五五”規劃》有關情況，《規劃》提出總體目標，到2030年初步建成清潔低碳安全高效的新型能源體系，有力支撐能源強國建設。據瞭解，目前，我國電力裝機規模已經突破40億千瓦，預計2030年將達到54億千瓦，其中，新能源裝機比重超過50%，成為電力裝機主體；非化石能源發電量比重達到50%，成為電量主體；煤炭和石油消費達峰。（央視新聞）"
+    },
+    {
+      "id": "4956232",
+      "time": "2026-06-26 10:13:41",
+      "tags": [
+        "其他"
+      ],
+      "text": "【習近平將會見孟加拉國總理塔裡克】6月26日上午，國家主席習近平將在北京人民大會堂會見來華進行正式訪問的孟加拉人民共和國總理塔裡克·拉赫曼。（央視新聞）"
+    },
+    {
+      "id": "mkt:019f01b4-238a-7dd8-b12a-47998c600bbb",
+      "time": "2026-06-26 10:13:30",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "Chip Wars",
+        "000660.KS",
+        "Impact bearish",
+        "005930.KS"
+      ],
+      "text": "【KOSPI plunges 5%; SK Hynix down >6%】South Korea's KOSPI tumbled 5% intraday to 8,477.78 points. SK Hynix fell more than 6; Samsung Electronics was down 5.7%."
+    },
+    {
+      "id": "4956231",
+      "time": "2026-06-26 10:12:31",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "韓國交易所啟動SIDECAR機制，暫停KOSPI指數程式化交易。"
+    },
+    {
+      "id": "4956230",
+      "time": "2026-06-26 10:12:04",
+      "tags": [
+        "市場",
+        "焦點",
+        "國際"
+      ],
+      "text": "韓國綜合股價指數（KOSPI）下跌5.1%，至8477.78點。"
+    },
+    {
+      "id": "4956229",
+      "time": "2026-06-26 10:12:03",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "碳酸鋰連續主力合約日內跌5%，現報147440.00元。"
+    },
+    {
+      "id": "4956228",
+      "time": "2026-06-26 10:11:43",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "滬深300指數期貨連續主力合約日內跌2%，現報4808.40點。"
+    },
+    {
+      "id": "mkt:019f01b2-47d5-7dd8-b12a-3a9a596f51cd",
+      "time": "2026-06-26 10:11:28",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Over 100 million in Europe exposed to temperatures above 35°C】A persistent heatwave has driven record June temperatures across France, the UK and other European countries. Estimates show regions with temperatures above 35°C covered more than 100 million people on June 25. French Met Office data show a national average of 30°C on June 24, the second consecutive day of record highs, and some areas including Paris exceeded 40°C."
+    },
+    {
+      "id": "mkt:019f01b2-2cd7-7dd8-b12a-345ab410e136",
+      "time": "2026-06-26 10:11:21",
+      "tags": [
+        "MKT News",
+        "Important",
+        "CSI300",
+        "Impact bullish",
+        "SZSE Component"
+      ],
+      "text": "A-shares lithography-equipment sector kept rallying; Haili Co. surged straight to the daily limit. Earlier Xinlai Yingcai's 20cm hit the daily limit. Lanying Equipment and Jiaxian Co. rose over 10%; Zhangjiang Hi-Tech and Bochang Photonics also advanced."
+    },
+    {
+      "id": "4956227",
+      "time": "2026-06-26 10:11:19",
+      "tags": [
+        "其他"
+      ],
+      "text": "野村將瑞薩電子目標股價從4100日元上調至5300日元。"
+    },
+    {
+      "id": "4956226",
+      "time": "2026-06-26 10:11:08",
+      "tags": [
+        "國際"
+      ],
+      "text": "【歐洲35攝氏度以上高溫覆蓋人口超1億】隨著高溫天氣持續席捲歐洲，法國、英國等多國遭遇6月同期破紀錄高溫。據估算，25日氣溫超過35攝氏度的歐洲地區人口超過了1個億。（新華社）"
+    },
     {
       "id": "4956225",
       "time": "2026-06-26 10:10:23",
@@ -155992,81 +156142,6 @@
         "MKT News"
       ],
       "text": "【South Korea's National Assembly opens 45-day probe into local election ballot shortage】On the 18th the National Assembly approved a 45-day state investigation into a ballot shortage during local elections, to examine causes, the sequence of events and planned response measures."
-    },
-    {
-      "id": "te:markets:560289",
-      "time": "2026-06-19 10:15:09",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Currency",
-        "Importance 1"
-      ],
-      "text": "Asia FX Updates: Indonesian Rupiah Depreciates by 0.45% — Top currency losers are Indonesian Rupiah (-0.45%), Chinese Yuan (-0.17%) and South Korean Won (-0.06%). Gains are led by Japanese Yen (0.10%)."
-    },
-    {
-      "id": "4944577",
-      "time": "2026-06-19 10:14:17",
-      "tags": [
-        "其他"
-      ],
-      "text": "【聯合國秘書長對蘇丹中部戰事升級深表擔憂】聯合國秘書長古特雷斯18日透過發言人迪雅裡克發表宣告，對蘇丹中部北科爾多凡州首府歐拜伊德及近郊戰事升級深表擔憂，敦促蘇丹衝突方保持克制，採取所有必要措施保護平民。宣告說，古特雷斯尤其對蘇丹快速支援部隊向歐拜伊德集結軍力感到震驚，這可能預示著快速支援部隊即將對該城發動地面進攻，從而將這一人口大城置於大規模暴力的嚴重風險之中。宣告說，古特雷斯敦促蘇丹武裝部隊和蘇丹快速支援部隊立即停止敵對行動，在國際斡旋下緩解緊張局勢，透過談判結束衝突。古特雷斯強調，各方必須為人道救援行動提供便利及保護、允許平民自由離開歐拜伊德、保護選擇繼續留在該城的平民並保證其得到人道援助。古特雷斯提醒各方遵守國際人道法和國際人權法義務。(新華社)"
-    },
-    {
-      "id": "4944576",
-      "time": "2026-06-19 10:13:59",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "印尼基準股指再度轉跌，最新下跌0.3%至6,155點。"
-    },
-    {
-      "id": "4944575",
-      "time": "2026-06-19 10:13:42",
-      "tags": [
-        "國際"
-      ],
-      "text": "據報道，五角大樓告知國會議員，其需要800億美元用於伊朗戰事及其他款項開支。"
-    },
-    {
-      "id": "4944574",
-      "time": "2026-06-19 10:13:32",
-      "tags": [
-        "國際"
-      ],
-      "text": "【以色列正就保留在黎駐軍問題與美談判】兩名以色列官員18日透露，以方堅定謀求在黎巴嫩南部地區保留駐軍，正就此問題與美方展開磋商。一名以色列官員在匿名前提下向路透社記者透露，以方正與美國政府“開展固守立場的談判”。以方立場不會妥協，包括繼續在黎巴嫩利塔尼河以南地區部署軍隊。 另一名匿名以方官員說，磋商結果最終取決於美國總統特朗普是否決定就駐軍議題“強力施壓”並威脅以色列“若不遵守美伊所籤諒解備忘錄條款，美方將採取相應措施”。"
-    },
-    {
-      "id": "4944573",
-      "time": "2026-06-19 10:13:06",
-      "tags": [
-        "國際"
-      ],
-      "text": "【伊朗稱若美國違反諒解備忘錄將堅決反制】伊朗最高國家安全委員會秘書處19日發表宣告說，伊朗將密切監督伊美諒解備忘錄的執行情況，如美方違反，伊朗將採取堅決的反制措施。"
-    },
-    {
-      "id": "mkt:019edda6-b96f-7dd8-b08c-744084f5b88f",
-      "time": "2026-06-19 10:12:31",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "The Secretariat of Iran's Supreme National Security Council said Iran will closely monitor implementation of the Iran–U.S. memorandum of understanding and will take decisive countermeasures if the U.S. breaches it."
-    },
-    {
-      "id": "te:markets:560287",
-      "time": "2026-06-19 10:12:17",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Japan",
-        "Currency",
-        "Importance 2"
-      ],
-      "text": "Yen Weakens Despite Verbal Interventions — The Japanese yen weakened beyond 161 per dollar on Friday, falling to its lowest level since July 2024 despite renewed verbal intervention from Japanese authorities. Chief Cabinet Secretary Minoru Kihara said on Thursday that the government remains prepared to respond to excessive currency movements whenever necessary. The yen has now erased all the gains recorded on April 30, when authorities conducted a record-sized intervention to support the currency. The latest decline came despite the Bank of Japan’s gradual tightening cycle, including a 25-basis-point rate hike to 1% earlier this week aimed at addressing an energy-driven inflation shock linked to the Middle East conflict. The dollar also strengthened following the Federal Reserve’s decision to leave interest rates unchanged while signaling increasing support for additional rate hikes later this year. The widening policy divergence between Japan and the US continued to weigh on the Japanese currency."
     }
   ]
 }
