@@ -1,7 +1,161 @@
 {
-  "updated": "2026-06-26 09:51:32",
-  "count": 17026,
+  "updated": "2026-06-26 09:55:29",
+  "count": 17037,
   "items": [
+    {
+      "id": "mkt:019f01a2-da7f-7dd8-b129-be657a703033",
+      "time": "2026-06-26 09:54:37",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "SZSE Component",
+        "Impact bearish"
+      ],
+      "text": "Shenzhen Component Index falls more than 2%; Taichen Guang plunges over 12%, the worst-performing constituent."
+    },
+    {
+      "id": "mkt:019f01a2-70c0-7dd8-b129-b21022b3b8cf",
+      "time": "2026-06-26 09:54:10",
+      "tags": [
+        "MKT News",
+        "SSE Composite",
+        "Impact bearish",
+        "CSI300"
+      ],
+      "text": "Shanghai Composite fell more than 1%, led by declines in gaming, film and media, and pharmaceuticals & healthcare stocks."
+    },
+    {
+      "id": "4956188",
+      "time": "2026-06-26 09:54:02",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "深證成指跌2.00%，現報16016.757點；上證指數跌1.10%，現報4074.873點；創業板指跌2.52%，現報4261.791點。"
+    },
+    {
+      "id": "4956187",
+      "time": "2026-06-26 09:53:33",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "科創50日內跌幅達2％，成分股中，盛科通訊跌5.7％，國盾量子跌5.5％，中科星圖、源傑科技跌5％。"
+    },
+    {
+      "id": "te:economy:562048",
+      "time": "2026-06-26 09:53:33",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "China",
+        "Fiscal Expenditure",
+        "Importance 0"
+      ],
+      "text": "China Fiscal Spending Up 0.8% in Jan-May — China’s fiscal spending increased 0.8% year-on-year to CNY 11.39 trillion (USD 1.59 trillion) in the first five months of 2026. Central government expenditure rose 6.5% to CNY 1.68 trillion, while local government spending edged down 0.1% to CNY 9.71 trillion, indicating that fiscal support remained largely driven by the central government. Among major spending categories, healthcare outlays recorded the strongest growth, rising 11.3%, followed by social security and employment (+6.3%), debt interest payments (+5.1%), and science and technology (+0.9%). Meanwhile, expenditure declined on agriculture, forestry and water conservancy (-11.2%), energy conservation and environmental protection (-8.8%), culture, tourism, sports and media (-7.8%), transportation (-3.8%), urban and rural communities (-2.5%), and education (-0.5%)."
+    },
+    {
+      "id": "mkt:019f01a1-d34e-7dd8-b129-a85cf22d24aa",
+      "time": "2026-06-26 09:53:30",
+      "tags": [
+        "MKT News",
+        "Important",
+        "S&P500",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish",
+        "XAUUSD"
+      ],
+      "text": "South Korea's KOSPI fell 4.00% intraday to 8,572.69 points."
+    },
+    {
+      "id": "mkt:019f01a1-aa67-7dd8-b129-a293502cf998",
+      "time": "2026-06-26 09:53:19",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "06869.HK",
+        "Impact bearish",
+        "02382.HK",
+        "01729.HK"
+      ],
+      "text": "Hong Kong-listed optical-communications names fell, led by Yangtze Optical Fibre & Cable (06869.HK) down more than 9%, Sunny Optical Technology (02382.HK) off over 8%, Huiju Technology (01729.HK) down more than 7%, Cambridge Technology (06166.HK) off nearly 6% and Xizhi Technology-P (01879.HK) down over 4%."
+    },
+    {
+      "id": "4956186",
+      "time": "2026-06-26 09:53:15",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "上證指數跌1.01%，現報4078.613點；深證成指跌1.88%，現報16037.222點；創業板指跌2.48%，現報4263.776點。"
+    },
+    {
+      "id": "mkt:019f01a1-6197-7dd8-b129-992eed17d5e8",
+      "time": "2026-06-26 09:53:01",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "【Zhejiang Tiantai pumped-storage plant fully commissioned, 1,700 MW installed】China Three Gorges Corp said at 23:59 on June 25 the Zhejiang Tiantai pumped-storage power station reached full commercial operation after its final unit completed a 15-day commissioning trial. The station has total installed capacity of 1,700 MW, is the world’s highest-rated-head pumped-storage plant and China’s largest by single-unit capacity, and is the first pumped-storage project to enter full operation in China during the 15th Five-Year Plan."
+    },
+    {
+      "id": "4956185",
+      "time": "2026-06-26 09:52:52",
+      "tags": [
+        "市場",
+        "焦點",
+        "國際"
+      ],
+      "text": "韓國綜合股價指數下跌4%至8572.69點。"
+    },
+    {
+      "id": "4956184",
+      "time": "2026-06-26 09:52:19",
+      "tags": [
+        "公司"
+      ],
+      "text": "【CPO概念震盪走低 太辰光跌超11%】CPO概念震盪走低，太辰光跌超11%，新易盛、中際旭創跌超5%，長盈通、匯綠生態、仕佳光子、光迅科技、亨通光電、永鼎股份紛紛下挫。"
+    },
+    {
+      "id": "4956183",
+      "time": "2026-06-26 09:52:12",
+      "tags": [
+        "公司"
+      ],
+      "text": "【世界額定水頭最高、我國單機容量最大抽蓄電站全面投產】據中國三峽集團訊息，6月25日23點59分，隨著最後一臺機組順利完成15天考核試執行，總裝機容量170萬千瓦的浙江天台抽水蓄能電站實現全面投產發電。該電站是世界額定水頭最高、國內單機容量最大的抽水蓄能電站，也是“十五五”時期國內首個全面投產的抽水蓄能電站。"
+    },
+    {
+      "id": "4956182",
+      "time": "2026-06-26 09:52:05",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【機器人概念逆勢拉昇 模塑科技、祥鑫科技雙雙漲停】機器人概念盤中逆勢拉昇，模塑科技漲停，此前祥鑫科技2連板，恆鋒工具、朗迪集團、豐光精密、徵和工業漲幅靠前。"
+    },
+    {
+      "id": "4956181",
+      "time": "2026-06-26 09:51:54",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "滬深兩市成交額超1萬億元，較上日此時縮量294億元。"
+    },
+    {
+      "id": "4956180",
+      "time": "2026-06-26 09:51:32",
+      "tags": [
+        "宏觀",
+        "公司"
+      ],
+      "text": "【“質量中國”新媒體矩陣正式上線執行】質量是興國之道、富國之本、強國之策。黨的十八大以來，以習近平同志為核心的黨中央多次對質量工作作出重大部署，明確提出要加快建設質量強國。為深入學習貫徹習近平總書記關於質量工作的重要指示批示精神，推動實施《質量強國建設綱要》，更好宣傳質量工作，市場監管總局開通“質量中國”微信公眾號、微博賬號、抖音賬號，形成“質量中國”新媒體矩陣，今日正式上線執行。“質量中國”新媒體矩陣作為質量強國建設資訊釋出的重要平臺，將集中釋出黨中央、國務院關於質量工作的重要政策和重大部署，生動展示貫徹落實《質量強國建設綱要》和“質量三強一基”建設經驗做法，全面交流國內外質量發展最新動態和專家觀點，致力打造成為權威的質量政策資訊“釋出站”、實時的質量發展實踐“展示臺”、有力的質量強國建設“助推器”。（市場監管總局）"
+    },
     {
       "id": "mkt:019f019f-6277-7dd8-b129-9302dc75601b",
       "time": "2026-06-26 09:50:50",
@@ -155691,45 +155845,6 @@
         "市場"
       ],
       "text": "標普500指數期貨下跌0.3%。"
-    },
-    {
-      "id": "mkt:019edd95-cb53-7dd8-b08c-280b626b5076",
-      "time": "2026-06-19 09:54:01",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC",
-        "Nikkei 225",
-        "Impact bullish"
-      ],
-      "text": "Japan's Nikkei 225 pared gains, trading up 0.25%."
-    },
-    {
-      "id": "4944560",
-      "time": "2026-06-19 09:53:59",
-      "tags": [
-        "市場"
-      ],
-      "text": "日經指數漲幅收窄，最新上漲0.25%。"
-    },
-    {
-      "id": "mkt:019edd94-2566-7dd8-b08c-25cc35eb6f6c",
-      "time": "2026-06-19 09:52:14",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Precious Metals"
-      ],
-      "text": "Spot silver fell below $65/oz for the first time since June 11, down 1.05% intraday."
-    },
-    {
-      "id": "4944559",
-      "time": "2026-06-19 09:52:09",
-      "tags": [
-        "市場"
-      ],
-      "text": "【現貨白銀失守65美元/盎司】現貨白銀失守65美元/盎司，日內跌1.07%。"
     }
   ]
 }
