@@ -1,7 +1,113 @@
 {
-  "updated": "2026-06-26 08:36:57",
-  "count": 16928,
+  "updated": "2026-06-26 08:40:58",
+  "count": 16930,
   "items": [
+    {
+      "id": "4956041",
+      "time": "2026-06-26 08:40:13",
+      "tags": [
+        "公司"
+      ],
+      "text": "惠譽評級：亞太證券公司在市場波動中展現韌性。"
+    },
+    {
+      "id": "mkt:019f015e-9ca4-7dd8-b127-f4ae429a2fc6",
+      "time": "2026-06-26 08:40:05",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "South Korea's defense minister said Seoul plans to use South Korean components in drone manufacturing."
+    },
+    {
+      "id": "4956040",
+      "time": "2026-06-26 08:40:02",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：加州億萬富翁稅提案將提交11月投票表決。"
+    },
+    {
+      "id": "mkt:019f015e-71b2-7dd8-b127-ed5a6735358b",
+      "time": "2026-06-26 08:39:54",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【South Korea finance minister says fuel price cap will be lowered】South Korea's finance minister said on Friday the government will lower the national fuel price cap as part of measures to rein in inf. He said officials kept the sixth-round cap unchanged this week amid ongoing Middle East uncertainty, but the seventh-round cap will be set below the current level and maintained until consumer prices stabilize. Seoul introduced a nationwide fuel price cap in March for the first time in decades; authorities now review the cap monthly."
+    },
+    {
+      "id": "4956039",
+      "time": "2026-06-26 08:39:00",
+      "tags": [
+        "其他"
+      ],
+      "text": "【中國貿促會副會長林紅紅會見新加坡大華銀行國際管理董事總經理張志堅】6月25日，中國貿促會副會長林紅紅在京會見專程來華參加第四屆鏈博會的新加坡大華銀行國際管理董事總經理張志堅一行。雙方圍繞深化兩機構交流合作、更好服務中外企業發展等議題進行交流。"
+    },
+    {
+      "id": "4956038",
+      "time": "2026-06-26 08:38:35",
+      "tags": [
+        "國際"
+      ],
+      "text": "韓國國防部長：計劃在無人機制造中使用韓國零部件。"
+    },
+    {
+      "id": "4956037",
+      "time": "2026-06-26 08:38:20",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "【韓國綜合股價指數下跌3% SK海力士和三星股價下挫】受華爾街股市劇烈波動的影響，晶片製造商股價下跌，韓國綜合股價指數（KOSPI）一度下跌3.3%。權重股三星和SK海力士均下跌超過3%，此前兩股在前一交易日均大幅上漲。三星電子、SK海力士和SK Square是導致該指數下跌的最大因素。全球基金淨賣出韓國綜合股價指數（KOSPI）股票，而散戶投資者則買入。韓國小型股Kosdaq指數下跌幅度高達2.5%。MSCI亞太指數下跌1%。"
+    },
+    {
+      "id": "4956036",
+      "time": "2026-06-26 08:37:25",
+      "tags": [
+        "其他"
+      ],
+      "text": "部分美股晶片股夜盤走低，美光科技(MU.O)跌近4%，西部資料(WDC.O)和邁威爾科技(MRVL.O)跌2%，高通(QCOM.O)跌1%。"
+    },
+    {
+      "id": "mkt:019f015b-b58b-7dd8-b127-e7e8c027dc0d",
+      "time": "2026-06-26 08:36:55",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "South Korea's defense minister said Seoul will rapidly expand drone and counter-drone capabilities."
+    },
+    {
+      "id": "4956035",
+      "time": "2026-06-26 08:36:40",
+      "tags": [
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "【金價下跌 價格可能還有進一步下跌空間】亞洲時段早盤金價下跌。現貨黃金下跌0.2%，報每盎司4,018.77美元。雖然市場預計金價在跌至每盎司4,000美元后會反彈，但凱投宏觀的Hamad Hussain認為，這種貴金屬在未來18個月內仍有進一步下跌的空間。他指出，美聯儲加息的前景將推高實際收益率並令金價承壓。該經濟學家表示，股市潛在的暴跌也可能對金價造成更大的下行壓力，因為在股市突然遭到拋售期間，投資者通常不得不出售優質資產以滿足追加保證金的要求。凱投宏觀預計，到2026年底和2027年底，金價將分別跌至每盎司3,500美元和每盎司3,250美元。"
+    },
+    {
+      "id": "mkt:019f015b-7cf8-7dd8-b127-df429f3e0aaf",
+      "time": "2026-06-26 08:36:40",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "MU.O",
+        "Impact bearish",
+        "WDC.O",
+        "MRVL.O"
+      ],
+      "text": "U.S. chip stocks slipped in after-hours trading: Micron Technology (MU.O) down nearly 4%, Western Digital (WDC.O) and Marvell (MRVL.O) down about 2% each, Qualcomm (QCOM.O) down 1%."
+    },
+    {
+      "id": "mkt:019f015b-7b7b-7dd8-b127-d705412f4190",
+      "time": "2026-06-26 08:36:40",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "South Korea's Defense Ministry says it will train 500,000 drone operators."
+    },
     {
       "id": "4956034",
       "time": "2026-06-26 08:35:20",
@@ -154731,106 +154837,6 @@
         "市場"
       ],
       "text": "日元兌美元升值至161.02。"
-    },
-    {
-      "id": "4944492",
-      "time": "2026-06-19 08:40:53",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "日本央行冰見野良三：央行暫停縮減購債規模的決定，是基於銀行和個人投資者增持債券需要時間的判斷，並非出於配合財政政策的考量。"
-    },
-    {
-      "id": "mkt:019edd52-b74f-7dd8-b08b-0ad2d87f1a5a",
-      "time": "2026-06-19 08:40:46",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC",
-        "USDJPY",
-        "Impact mixed"
-      ],
-      "text": "Japan's finance minister KATAYAMA said at the G7 meeting they confirmed they could take decisive action."
-    },
-    {
-      "id": "mkt:019edd52-808a-7dd8-b08b-0525723a6da5",
-      "time": "2026-06-19 08:40:31",
-      "tags": [
-        "MKT News",
-        "USDJPY",
-        "Impact bearish"
-      ],
-      "text": "USD/JPY dropped about 20 pips intraday to around 161.00."
-    },
-    {
-      "id": "4944491",
-      "time": "2026-06-19 08:40:01",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【卡達航空恢復大部分航線網路】卡達航空(Qatar Airways)表示，其航線網路已恢復至中東衝突爆發前約85%的運力水平，並設立了兩個新的高管職位，以支援未來的擴張計劃。這家卡達國有載旗航空公司表示，在推出2026年夏季航班時刻表後，已實現運力恢復目標。該時刻表包括每天從多哈出發的140多個航班，並可通達全球160多個目的地。該公司表示，此前大規模的干擾導致其部分航線網路被迫停航，之後該公司曾設定在6月中旬前達到85%運力水平的目標。"
-    },
-    {
-      "id": "mkt:019edd51-fdab-7dd8-b08a-fcab43cc62ae",
-      "time": "2026-06-19 08:39:58",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Japan & APAC",
-        "USDJPY",
-        "Impact mixed"
-      ],
-      "text": "Japan's finance minister Katayama said authorities are prepared to take decisive action against speculative activity in the foreign exchange market."
-    },
-    {
-      "id": "4944490",
-      "time": "2026-06-19 08:39:11",
-      "tags": [
-        "公司",
-        "市場",
-        "國際"
-      ],
-      "text": "【韓國綜合指數受晶片股反彈提振創歷史新高】韓國綜合指數創下歷史新高，受晶片股持續反彈提振，並反映出納斯達克指數隔夜的漲幅。美國總統特朗普關於蘋果公司已同意在晶片設計和製造方面與英特爾合作的言論也提振了市場情緒。在顯著上漲的個股中，SK海力士上漲6.0%，三星SDI上漲4.4%，韓美半導體上漲5.1%，SK Square上漲近7%。韓國綜合指數上漲2.6%，報9301.88點。"
-    },
-    {
-      "id": "te:economy:560234",
-      "time": "2026-06-19 08:39:09",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Japan",
-        "Food Inflation",
-        "Importance 1"
-      ],
-      "text": "Japan Food Inflation Holds at 18-Month Low — Japan's food prices increased 3.5% year-on-year in May 2026, matching April's pace and remaining at their slowest pace since October 2024. Costs continued to rise for fish and seafood (5.5% vs. 5.8% in April), meat (3.5% vs. 4.4%), dairy products and eggs (3.6% vs. 4.9%), oils, fats, and seasonings (3.9% vs. 4.2%), cakes and candies (8.1% vs. 7.7%), prepared foods (4.4% vs. 4.8%), beverages (8.7% vs. 9.4%), alcoholic beverages (0.2% vs. 0.9%), and meals eaten out (1.0% vs. 1.1%). At the same time, fresh vegetable prices rebounded after five consecutive months of declines (3.8% vs. -2.2%), while cereal prices fell for the first time since December 2021 (-0.9% vs. 1.2%) and fresh fruit prices stayed in deflation (-1.6% vs. -3.6%). Among staple foods, rice prices declined 4.9% from a year earlier, marking their first annual drop since November 2022."
-    },
-    {
-      "id": "4944489",
-      "time": "2026-06-19 08:38:45",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "【全國性行業協會商會領域違規違紀違法典型案例公佈】近年來，全國性行業協會商會等社會組織堅持黨建引領，積極發揮自身優勢，勇於創新探索，在服務經濟社會發展中發揮了重要作用。同時，一些全國性行業協會商會政治站位不高、紀律規矩意識淡薄、內部管理混亂，嚴重損害了全國性行業協會商會的整體形象和公信力。有關部門重拳整治各類違規亂象，持續推動全國性行業協會商會等社會組織規範健康發展。2026年以來，否決不滿足任職條件的14家全國性行業協會商會33名負責人人選，推動340名超齡超屆負責人退出，免去22家全國性行業協會商會35名負責人職務。中央紀委國家監委駐中央社會工作部紀檢監察組和全國性行業協會商會紀委聚焦全國性行業協會商會領域，縱深推進正風肅紀反腐。2026年以來，累計受理相關問題線索879件、處置736件，談話函詢165件39人，初核65件19人，立案50件14人，其中辦理留置案件7起、採取留置措施或刑事強制措施14人，運用“四種形態”批評教育和處理28人。為進一步強化警示震懾效應，現選取7起全國性行業協會商會領域違規違紀違法典型案例予以公佈。（中社部資訊宣傳中心）"
-    },
-    {
-      "id": "4944488",
-      "time": "2026-06-19 08:38:03",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "日本財務大臣片山皋月：已在七國集團會議上確認可以採取果斷行動。"
-    },
-    {
-      "id": "4944487",
-      "time": "2026-06-19 08:37:08",
-      "tags": [
-        "國際"
-      ],
-      "text": "日本財務大臣片山皋月：我們已準備好針對外匯市場的投機性走勢採取果斷行動。"
     }
   ]
 }
