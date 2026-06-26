@@ -1,7 +1,80 @@
 {
-  "updated": "2026-06-26 12:59:09",
-  "count": 17244,
+  "updated": "2026-06-26 13:03:33",
+  "count": 17245,
   "items": [
+    {
+      "id": "4956487",
+      "time": "2026-06-26 13:02:17",
+      "tags": [
+        "其他"
+      ],
+      "text": "【深半協：2025年深圳積體電路產業實現銷售收入3610.4億元】6月26日，深圳市半導體行業協會諮詢委員會主任周生明在2026中國（深圳）積體電路峰會上表示，長期以來，我國積體電路長期存在大額貿易逆差，但是近年來中國積體電路出口增長率超過進口增長率，也是國產半導體產業走向世界的一個佐證。據統計，2025年深圳積體電路產業實現銷售收入3610.4億元，同比增長27.1%，超額完成2700億元的規劃目標，產業鏈日趨完善，創新成果不斷湧現。"
+    },
+    {
+      "id": "mkt:019f024e-57ef-7dd8-b12d-dc1635f5eae5",
+      "time": "2026-06-26 13:01:56",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Brent",
+        "Impact bullish",
+        "WTI"
+      ],
+      "text": "A Kazakh minister said Kazakhstan cut gas output at the Karachaganak field after a Ukrainian drone strike on Russia's Orenburg gas-processing plant."
+    },
+    {
+      "id": "mkt:019f024c-bccc-7dd8-b12d-d3fa1920f0bb",
+      "time": "2026-06-26 13:00:11",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Singapore May seasonally adjusted industrial production MoM -0.7% vs 2.0% expected; April revised to 6.2% from 5.8%."
+    },
+    {
+      "id": "4956486",
+      "time": "2026-06-26 13:00:09",
+      "tags": [
+        "公司"
+      ],
+      "text": "中信資源控股有限公司在香港暫停交易。"
+    },
+    {
+      "id": "mkt:019f024c-b43a-7dd8-b12d-ce535051af85",
+      "time": "2026-06-26 13:00:08",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Singapore May industrial production YoY +13.0% vs forecast +17.2%; April revised down to 16.5% from 17.6%."
+    },
+    {
+      "id": "mkt:019f024c-91a1-7dd8-b12d-c56cee89c9c3",
+      "time": "2026-06-26 13:00:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Singapore | Industrial Production (YoY) (May) | actual 13% | consensus 17.2% | previous 17.60%"
+    },
+    {
+      "id": "mkt:019f024c-919f-7dd8-b12d-b9a893f752a8",
+      "time": "2026-06-26 13:00:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Singapore | Industrial Production Index SA (MoM) (May) | actual -0.7% | consensus 2.00% | previous 5.80%"
+    },
+    {
+      "id": "4956485",
+      "time": "2026-06-26 12:58:53",
+      "tags": [
+        "國際"
+      ],
+      "text": "【澤連斯基下令開展為期40天行動 以促使俄羅斯結束戰爭】在聽取了安全部門負責人關於打擊俄羅斯目標的簡報後，烏克蘭總統弗拉基米爾·澤連斯基批准了一項為期40天的行動，旨在“影響”俄羅斯結束戰爭。澤連斯基週四晚些時候在社交媒體上發了帖子，但沒有透露細節。他讚揚了烏克蘭安全部門利用無人機保衛國家前線陣地的表現。俄羅斯國防部報告稱，一夜之間在俄羅斯多個地區擊落了660架烏克蘭無人機，這似乎是四年多戰爭以來俄羅斯領土遭受的最猛烈的空中襲擊。"
+    },
     {
       "id": "mkt:019f024a-3964-7dd8-b12d-b0843da1a8b1",
       "time": "2026-06-26 12:57:26",
@@ -157746,66 +157819,6 @@
         "DXY"
       ],
       "text": "Israeli military said it struck Hezbollah targets in southern Lebanon overnight and is continuing strikes."
-    },
-    {
-      "id": "4944721",
-      "time": "2026-06-19 13:03:22",
-      "tags": [
-        "國際"
-      ],
-      "text": "以色列軍方表示，夜間對黎巴嫩南部真主黨目標發動打擊，目前仍在繼續攻擊。"
-    },
-    {
-      "id": "4944720",
-      "time": "2026-06-19 13:03:13",
-      "tags": [
-        "國際"
-      ],
-      "text": "法院表示，印度政府禁止Telegram的命令是經過合理考量的，政府遵循了相關程式。"
-    },
-    {
-      "id": "4944719",
-      "time": "2026-06-19 13:03:04",
-      "tags": [
-        "國際"
-      ],
-      "text": "日本鹽野義宣佈新冠治療藥物Xocova的兒科劑量獲得日本批准。"
-    },
-    {
-      "id": "4944718",
-      "time": "2026-06-19 13:00:47",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "日本40年期國債收益率上升5個基點至3.71%。"
-    },
-    {
-      "id": "4944717",
-      "time": "2026-06-19 13:00:14",
-      "tags": [
-        "市場"
-      ],
-      "text": "現貨黃金日內跌2%，現報4124.57美元/盎司。"
-    },
-    {
-      "id": "4944716",
-      "time": "2026-06-19 13:00:11",
-      "tags": [
-        "市場"
-      ],
-      "text": "納斯達克100指數期貨跌幅擴大至1%。"
-    },
-    {
-      "id": "4944715",
-      "time": "2026-06-19 12:59:28",
-      "tags": [
-        "公司",
-        "市場",
-        "央行",
-        "國際"
-      ],
-      "text": "【亞洲股市終結五日連漲 印度科技股大跌】因多地區市場休市、交投清淡，亞洲股市全線回落，投資者評估美伊和平協議能否持續生效。MSCI亞太指數最大跌幅達1.2%，三星電子與必和必拓拖累大盤走低。韓國綜合股價指數（Kospi）領跌亞太市場，跌幅一度達2%。埃森哲集團下調營收增長預期後，全球科技股遭遇拋售潮，印度軟體企業同步大幅下挫。週五中國大陸、中國香港、中國臺灣及美國市場均因節假日休市。投資者正密切關注德黑蘭核計劃談判以及停火協議能否持續。儘管油價下跌，通脹擔憂仍持續存在，包括美聯儲在內的多家央行維持鷹派立場。新加坡SyfePte投資主管Ritesh Ganeriwal表示：“本週市場收到了兩個重要訊號，但方向相反。目前的訊號很明確：即使戰爭結束，通脹威脅也不會消失。”Infosys下跌8.7%，塔塔諮詢服務也下跌6.5%，因埃森哲的悲觀展望加劇了市場對這一行業的擔憂，該行業今年已失去近30%的市值。"
     }
   ]
 }
