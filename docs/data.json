@@ -1,7 +1,143 @@
 {
-  "updated": "2026-06-26 21:49:48",
-  "count": 17937,
+  "updated": "2026-06-26 21:54:06",
+  "count": 17945,
   "items": [
+    {
+      "id": "mkt:019f0434-8be3-7dd8-b138-bab4b425dfd2",
+      "time": "2026-06-26 21:53:00",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Financial Times reports Prime Minister Starmer has pledged to add at least £1bn in additional funding to UK defence."
+    },
+    {
+      "id": "mkt:019f0434-5792-7dd8-b138-b6471baeb356",
+      "time": "2026-06-26 21:52:46",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Interfax cited sources saying no decision has been made to ban Russian diesel exports and that monitoring will continue."
+    },
+    {
+      "id": "4957698",
+      "time": "2026-06-26 21:52:32",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：斯塔默承諾為英國國防增撥至少10億英鎊資金。"
+    },
+    {
+      "id": "4957697",
+      "time": "2026-06-26 21:52:22",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【興業科技：股票交易異常波動 收購新業務存不確定性】興業科技公告稱，公司股票連續兩個交易日收盤價漲幅累計偏離超20%，屬異常波動。公司擬收購磷化銦業務尚需董事會審議，存在不確定性。該業務2026年1 - 5月收入預計不超500萬元，目前在手訂單不超200萬元，對營收和淨利潤影響極小。公司提醒，股價已脫離業績，可能大幅波動、快速下跌，投資者應理性決策，注意風險。"
+    },
+    {
+      "id": "4957696",
+      "time": "2026-06-26 21:52:08",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "訊息人士：俄羅斯柴油出口禁令尚未作出最終決定，將繼續監控市場態勢。"
+    },
+    {
+      "id": "te:markets:562272",
+      "time": "2026-06-26 21:52:07",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Croatia",
+        "Stock Market",
+        "Importance 0"
+      ],
+      "text": "Stocks in Croatia Hit 18-year High — CROBEX increased to 4455.00 Index Points, the highest since February 2008. Over the past 4 weeks, Zagreb Stock Exchange Stock Index gained 6.07%, and in the last 12 months, it increased 22.93%."
+    },
+    {
+      "id": "mkt:019f0432-eb34-7dd8-b138-ab4c9a3c6b06",
+      "time": "2026-06-26 21:51:13",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "Spot gold rose 1.00% intraday to $4,067.05/oz."
+    },
+    {
+      "id": "4957695",
+      "time": "2026-06-26 21:51:07",
+      "tags": [
+        "市場"
+      ],
+      "text": "現貨黃金日內漲1%，現報4067.46美元/盎司。"
+    },
+    {
+      "id": "4957694",
+      "time": "2026-06-26 21:50:57",
+      "tags": [
+        "公司"
+      ],
+      "text": "【*ST正平：選舉金煜坤為董事長】*ST正平(603843)6月26日公告，公司於6月26日召開了第五屆董事會第二十次（臨時）會議，審議透過了《關於選舉公司董事長的議案》，選舉金煜坤為公司董事長，任期自本公告之日起至本屆董事會任期屆滿止。"
+    },
+    {
+      "id": "4957693",
+      "time": "2026-06-26 21:50:38",
+      "tags": [
+        "其他"
+      ],
+      "text": "【啟境首款車型GT7售價公佈：20.99萬起】6月26日晚，啟境汽車宣佈，啟境GT7正式上市，官方指導價20.99萬元至32.99萬元。"
+    },
+    {
+      "id": "mkt:019f0431-df78-7dd8-b138-a250eebc01a1",
+      "time": "2026-06-26 21:50:04",
+      "tags": [
+        "MKT News",
+        "Important",
+        "S&P500",
+        "Impact bullish",
+        "US10Y",
+        "Impact bearish",
+        "DXY"
+      ],
+      "text": "Final June U.S. University of Michigan consumer sentiment index and final one‑year inflation expectations due in 10 minutes."
+    },
+    {
+      "id": "4957691",
+      "time": "2026-06-26 21:49:54",
+      "tags": [
+        "市場"
+      ],
+      "text": "鎧俠美股ADR下跌14%，儲存板塊集體下跌。"
+    },
+    {
+      "id": "4957690",
+      "time": "2026-06-26 21:49:44",
+      "tags": [
+        "公司"
+      ],
+      "text": "【*ST華聞：執行重整計劃致控股股東、實控人發生變更】*ST華聞公告稱，執行《重整計劃》，以原有總股本19.97億股為基數，按每10股轉增12股的比例實施資本公積轉增股本，共計轉增23.97億股。2026年6月23日，16.93億股轉增股票過戶至全體重整投資人證券賬戶。過戶完成後，海南聯合持有4.84億股，持股比例11.01%，成為第一大股東暨控股股東，實控人變更為海南省國資委；國廣資產合計持股2.21億股，持股比例被動稀釋至5.03%，不再是控股股東。本次控制權變更不影響公司正常經營，但重整計劃尚在執行階段，公司股票仍有終止上市風險。"
+    },
+    {
+      "id": "te:markets:562271",
+      "time": "2026-06-26 21:49:13",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "J&J Stock Price Hits All-time High — J&J shares increased to an all-time high of 251.76 USD. Over the past 4 weeks, Johnson & Johnson gained 9.14%, and in the last 12 months, it increased 65.27%."
+    },
     {
       "id": "mkt:019f0430-c984-7dd8-b138-9caddde14512",
       "time": "2026-06-26 21:48:53",
@@ -163760,68 +163896,6 @@
         "國際"
       ],
       "text": "挪威政府表示，計劃禁止與巴勒斯坦被非法佔領領土上的以色列定居點開展一切貿易。"
-    },
-    {
-      "id": "4945250",
-      "time": "2026-06-19 21:53:51",
-      "tags": [
-        "國際"
-      ],
-      "text": "以色列國防軍：初步通報 —— 扎裡特區域已響起敵方飛行器滲透防空警報，相關詳情正在核查中。"
-    },
-    {
-      "id": "mkt:019ee028-2dfe-7dd8-b096-b77da0079dd1",
-      "time": "2026-06-19 21:53:10",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【IDF says Lebanon-deployed frontline troops have \"operational freedom\" but will follow political orders】On June 19 an IDF spokesman said frontline forces deployed in Lebanon “have operational freedom” but that operations face certain limits and will be carried out strictly under political leadership instructions. He said the IDF retains the right to act in any area to eliminate threats. Matters related to agreements are for the government to decide; absent other orders, forces will act on the chief of staff’s directives."
-    },
-    {
-      "id": "4945249",
-      "time": "2026-06-19 21:52:46",
-      "tags": [
-        "國際"
-      ],
-      "text": "【以軍稱部署在黎巴嫩的前線部隊將按照指示採取行動】當地時間6月19日，以色列國防軍發言人德弗林在通報以軍最新軍事行動時表示，目前部署在黎巴嫩區域的以軍前線部隊“擁有行動自由”。被問及以軍的行動是否受到限制、是否會空襲黎巴嫩首都貝魯特時，德弗林表示，以軍行動存在一定限制，將嚴格按照政治領導層的指示採取行動。他稱，為了消除威脅，以軍有權在任何區域採取行動。德弗林還表示，任何與協議有關的事情都屬於政府管轄範圍，“只要我們沒有接到其他命令，就會按照總參謀長的命令列事。”此外，以色列國防軍阿拉伯語發言人阿德拉伊當地時間19日發表宣告稱，以軍前線部隊在清除安全威脅時“享有完全的行動自由”。以軍總參謀長已下令，向前線部隊提供所有必要的軍事裝備。阿德拉伊還表示，從18日晚至19日下午，以軍在包括貝卡谷地和納巴泰在內的黎巴嫩多地展開大範圍空襲，打擊的真主黨目標超過100個，打死數十名武裝人員。（央視新聞）"
-    },
-    {
-      "id": "te:economy:560501",
-      "time": "2026-06-19 21:52:28",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Slovenia",
-        "Unemployment Rate",
-        "Importance 0"
-      ],
-      "text": "Slovenia Unemployment Rate Falls in April — Slovenia's unemployment rate edged down to 4.5% in April 2026, the lowest in eight months, from 4.6% in March, as the number of unemployed persons fell by 1,115 over the month to 43,060. Women accounted for 20,905 unemployed individuals, while men totaled 22,155, corresponding to unemployment rates of 4.8% and 4.2%, respectively. By age group, unemployment was highest among those aged 15–29, at 6.7%, followed by individuals aged 55 and over, at 5.7%. Compared with the same month a year earlier, the overall unemployment rate was unchanged at 4.5%. Employers reported 11,437 job openings in April, and during the first four months of 2026, total job openings reached 48,085, representing a 5.2% decline compared with the same period last year."
-    },
-    {
-      "id": "4945248",
-      "time": "2026-06-19 21:50:21",
-      "tags": [
-        "央行",
-        "焦點",
-        "國際"
-      ],
-      "text": "市場定價顯示，美聯儲加息押注上升，完全消化了9月加息25個基點的預期。"
-    },
-    {
-      "id": "mkt:019ee025-53e6-7dd8-b096-aa055e9550be",
-      "time": "2026-06-19 21:50:03",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "DXY",
-        "Impact bullish",
-        "US10Y",
-        "S&P500",
-        "Impact bearish"
-      ],
-      "text": "Market pricing shows Fed rate-hike bets have risen and now fully price a 25bp hike in September."
     }
   ]
 }
