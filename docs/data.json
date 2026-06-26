@@ -1,7 +1,71 @@
 {
-  "updated": "2026-06-26 21:54:06",
-  "count": 17945,
+  "updated": "2026-06-26 21:58:18",
+  "count": 17944,
   "items": [
+    {
+      "id": "mkt:019f0438-c4a6-7dd8-b138-cd13141de5d2",
+      "time": "2026-06-26 21:57:36",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "New York gold futures extended intraday gains to 1.00%, trading at $4,088.40/oz."
+    },
+    {
+      "id": "4957703",
+      "time": "2026-06-26 21:57:25",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金突破4090美元/盎司，日內漲1.05%。"
+    },
+    {
+      "id": "4957702",
+      "time": "2026-06-26 21:57:24",
+      "tags": [
+        "市場"
+      ],
+      "text": "紐約期金日內漲1%，現報4089.36美元/盎司。"
+    },
+    {
+      "id": "4957701",
+      "time": "2026-06-26 21:57:07",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金突破4070美元/盎司，日內漲1.09%。"
+    },
+    {
+      "id": "mkt:019f0435-e26b-7dd8-b138-c6f2d9506482",
+      "time": "2026-06-26 21:54:27",
+      "tags": [
+        "MKT News",
+        "WDC.O",
+        "Impact bearish",
+        "STX.O",
+        "KIOX.O"
+      ],
+      "text": "US-listed storage stocks fell broadly; Kioxia's U.S. ADR dropped more than 14%."
+    },
+    {
+      "id": "4957700",
+      "time": "2026-06-26 21:53:55",
+      "tags": [
+        "公司"
+      ],
+      "text": "【首開集團與北京建院實施重組】6月26日，據首開集團訊息，經報北京市委、市政府批准，北京首都開發控股(集團)有限公司與北京市建築設計研究院股份有限公司實施重組。"
+    },
+    {
+      "id": "4957699",
+      "time": "2026-06-26 21:53:36",
+      "tags": [
+        "公司"
+      ],
+      "text": "【戈碧迦：公司在泛半導體領域的玻璃基板業務尚處於早期階段】戈碧迦釋出異動公告，公司關注到近期市場對玻璃基板在半導體領域應用的關注度較高，從行業發展現狀看，玻璃基板整體產業鏈發展尚不成熟，未達到規模化量產階段。目前，公司在泛半導體領域的玻璃基板業務尚處於早期階段，相關產品技術仍處於研發驗證或送樣驗證階段，尚未形成規模化量產，未實現銷售收入，該業務的產業化程序、未來訂單規模及經營效益存在較大不確定性。"
+    },
     {
       "id": "mkt:019f0434-8be3-7dd8-b138-bab4b425dfd2",
       "time": "2026-06-26 21:53:00",
@@ -163819,83 +163883,6 @@
         "國際"
       ],
       "text": "伊朗外交部表示，與美國達成的結束戰爭諒解備忘錄已透過數字方式簽署，因此週五在瑞士舉行的會談不再緊急。"
-    },
-    {
-      "id": "mkt:019ee02c-453b-7dd8-b096-cc7159695c01",
-      "time": "2026-06-19 21:57:38",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "Iranian foreign ministry said negotiations on a final agreement hinge on activation and sustained implementation of specific provisions in the U.S.-Iran memorandum of understanding."
-    },
-    {
-      "id": "4945254",
-      "time": "2026-06-19 21:57:33",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "伊朗外交部表示，關於最終協議的談判取決於與美國簽署的諒解備忘錄中所列條款能否啟動並持續得到履行。"
-    },
-    {
-      "id": "te:markets:560503",
-      "time": "2026-06-19 21:57:28",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Baltic Dry Index Up to 1-Week High — The Baltic Exchange's dry bulk freight index, which monitors rates for ships carrying dry bulk commodities, was up for a second session on Friday, rising about 2.4% to its highest since June 12 at 2,722 points, underpinned by the larger vessel segment. The capesize index, which typically transports 150,000-ton cargoes including iron ore and coal, climbed by 5.3% to a peak since April 10 at 4,149 points. At the same time, the supramax went up 0.2% to 1,718 points. On the other hand, the panamax index, which tracks vessels carrying around 60,000 to 70,000 tons of coal or grain, dropped about 2.5% to 2,096 points. For the week, the benchmark index shed approximately 0.3%."
-    },
-    {
-      "id": "mkt:019ee02b-5e25-7dd8-b096-c6d98a527523",
-      "time": "2026-06-19 21:56:38",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "Iran's foreign ministry said a meeting in Switzerland scheduled for Friday has been postponed and is being planned for the coming days."
-    },
-    {
-      "id": "4945253",
-      "time": "2026-06-19 21:56:15",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "伊朗外交部稱原定於週五舉行的瑞士會談已推遲，相關方正計劃在未來數日另行安排會面。"
-    },
-    {
-      "id": "mkt:019ee02a-d474-7dd8-b096-be368d77d372",
-      "time": "2026-06-19 21:56:03",
-      "tags": [
-        "MKT News",
-        "Important",
-        "GBPUSD",
-        "Impact bearish",
-        "FTSE100",
-        "DXY",
-        "Impact bullish"
-      ],
-      "text": "【The Times: cabinet ministers to tell Starmer to set departure timetable】The Times reports multiple cabinet ministers will tell Prime Minister Starmer this afternoon (June 19) he should set a timetable for his departure; ministers are expected to say his \"time is up.\""
-    },
-    {
-      "id": "4945252",
-      "time": "2026-06-19 21:55:32",
-      "tags": [
-        "其他"
-      ],
-      "text": "【英媒稱英首相被要求設定離職時間表】據英國《泰晤士報》報道，英國內閣多名大臣將於當地時間今天（6月19日）下午告訴首相斯塔默，應為其離職設定“時間表”。據報道，多名內閣大臣將對斯塔默說，他的“時間到了”。（CCTV國際時訊）"
-    },
-    {
-      "id": "4945251",
-      "time": "2026-06-19 21:55:11",
-      "tags": [
-        "國際"
-      ],
-      "text": "挪威政府表示，計劃禁止與巴勒斯坦被非法佔領領土上的以色列定居點開展一切貿易。"
     }
   ]
 }
