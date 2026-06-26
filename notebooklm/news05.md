@@ -1,7 +1,385 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-06-27 02:09:11_
-_本檔包含 3506 則快訊，約 666827 字_
+_更新時間：2026-06-27 03:49:07_
+_本檔包含 3505 則快訊，約 668204 字_
+
+---
+
+### 2026-06-22 18:19:04  #公司
+
+【廣東建工：粵水電布林津縣風電專案（三期50萬千瓦）全容量併網執行】廣東建工公告，近日，全資子公司廣東水電二局集團有限公司下屬廣東粵水電能源投資集團有限公司投資建設的粵水電布林津縣風電專案（三期50萬千瓦）專案全容量併網執行，併網交流側為500MW。該專案首臺機組（10MW）於2025年12月21日併網發電執行。
+
+---
+
+### 2026-06-22 18:18:54  #公司
+
+【久日新材：募投專案“年產1500噸醯基膦氧系列光引發劑專案”進入試生產階段】久日新材公告，全資子公司內蒙古久日新材料有限公司投資建設的“年產1500噸醯基膦氧系列光引發劑專案”試生產方案業經專家組評審透過，目前已進入試生產階段。醯基膦氧系列光引發劑具有其他類光引發劑無法比擬的效能優勢，在光引發劑TPO逐漸被歐美市場禁用的背景下，醯基膦氧系列光引發劑專案生產的產品作為TPO的替代品將會有增量需求，能有效填補國內產品缺口，具有強勁的市場增長態勢和廣闊的發展前景，將進一步提升公司的盈利能力和綜合競爭力。
+
+---
+
+### 2026-06-22 18:18:41  #其他
+
+市場訊息：西班牙前交通部長因腐敗罪被判處24年監禁。
+
+---
+
+### 2026-06-22 18:18:27  #觀點
+
+香港交易所披露：截至 6 月 16 日，摩根大通持有天齊鋰業H 股多頭持倉比例由 14.38% 降至 13.86%。
+
+---
+
+### 2026-06-22 18:18:19  #公司
+
+【文遠知行與吉利遠端、冠忠巴士將聯合開發右舵Robotaxi】6月22日訊息，介面新聞獲悉文遠知行與吉利遠端、冠忠巴士集團在2026國際汽車及供應鏈博覽會（香港）現場簽署戰略合作協議。三方將基於現有前裝量產Robotaxi GXR平臺，聯合開發面向右舵市場的原生量產Robotaxi車型，並以香港為起點，推進右舵市場Robotaxi商業化出行服務落地。
+
+---
+
+### 2026-06-22 18:17:31  #其他
+
+【中天科技釋出17280芯超大芯數高密度光纜】6月22日，在第四屆中國國際供應鏈促進博覽會上，中天科技現場釋出17280芯超大芯數高密度光纜，重新整理行業芯數紀錄，為算力網路打造新一代高密傳輸底座。
+
+---
+
+### 2026-06-22 18:17:08  #公司
+
+【新朋股份：擬3.36億元公開摘牌收購子公司49%股權】新朋股份公告稱，公司於2026年6月18日收到賽科利函件，其已透過上海聯合產權交易所掛牌轉讓所持新朋聯眾49%股權，轉讓底價3.36億元。6月22日，公司第六屆董事會第十八次會議同意授權經營管理層公開競價收購該股權。本次交易不構成關聯及重大資產重組，無需股東會審議。交易在上海聯交所公開掛牌進行，公司擬用自有資金或銀行融資。收購完成後，新朋聯眾將成公司全資子公司，但交易能否成功存在不確定性。
+
+---
+
+### 2026-06-22 18:17:07  #MKT News #XAUUSD #Impact bullish #DXY #Brent
+
+Ukrainian military says it struck a Russian missile electronic-component factory in Voronezh.
+
+---
+
+### 2026-06-22 18:16:54  #其他
+
+【水利部和中國氣象局6月22日18時聯合釋出橙色山洪災害氣象預警】水利部和中國氣象局6月22日18時聯合釋出橙色山洪災害氣象預警：預計，6月22日20時至6月23日20時，內蒙古東北部、安徽南部、江西北部、湖南西部、四川西北部、貴州中南部、西藏東南部、新疆南部等地部分地區發生山洪災害可能性較大（黃色預警），其中，湖南西部、貴州東南部局地發生山洪災害可能性大（橙色預警），其他地區也可能因局地短歷時強降水引發山洪災害，請各地注意做好實時監測、防汛預警和轉移避險等防範工作。
+
+---
+
+### 2026-06-22 18:16:47  #國際
+
+烏克蘭軍方稱其襲擊了俄羅斯沃羅涅日一家為導彈生產電子元器件的工廠。
+
+---
+
+### 2026-06-22 18:16:42  #公司
+
+【貝肯能源：全資子公司貝肯成都吸收合併全資孫公司貝肯北京並減資2億元】貝肯能源公告，公司全資子公司貝肯成都吸收合併全資孫公司貝肯北京，並在吸收合併完成後減資2億元，註冊資本由5億元減少至3億元。本次吸收合併不涉及支付對價，貝肯北京登出，其全部資產、負債、業務、人員及權利與義務由貝肯成都承繼。
+
+---
+
+### 2026-06-22 18:16:12  #其他
+
+【今年端午節假期國內出遊1.24億人次】2026年端午節假期，全國文化和旅遊市場安全平穩有序。經文化和旅遊部資料中心測算，端午節假期3天，全國國內出遊1.24億人次，同比增長4.4%；國內出遊總花費444.56億元，同比增長4%。（央視新聞）
+
+---
+
+### 2026-06-22 18:15:53  #MKT News #Important #Market Regions #Greater China #CSI300 #Impact bullish #Hang Seng Index #CNH
+
+China domestic travel over the Dragon Boat Festival holiday totaled 124 million trips.
+
+---
+
+### 2026-06-22 18:15:52  #公司
+
+【永興材料：控股子公司與宜春盛源鋰業簽署增資暨合作協議】永興材料公告，公司控股子公司宜豐縣花橋永拓礦業有限公司及其全資子公司宜豐縣花橋礦業有限公司與宜春盛源鋰業有限責任公司簽署《增資暨合作協議》。盛源鋰業將以其持有的江西省奉新縣金子峰-宜豐縣左家裡礦區陶瓷土（含鋰）礦對花橋礦業進行增資，作價26.92億元，認購花橋礦業新增註冊資本人民幣2億元，取得增資完成後50%的股權。增資完成後，花橋礦業註冊資本將增至4億元，花橋永拓和盛源鋰業各持50%股權。
+
+---
+
+### 2026-06-22 18:15:37  #其他
+
+據訊息人士透露，聯合信貸銀行管理層當前的規劃不具備可行性，在中小企業業務板塊尤為如此。
+
+---
+
+### 2026-06-22 18:15:34  #其他
+
+訊息人士稱，德國政府將繼續採取行動維護德國商業銀行員工、德國中型企業以及金融中心法蘭克福的利益。
+
+---
+
+### 2026-06-22 18:15:31  #國際
+
+訊息人士稱，德國政府將繼續推進歐盟銀行業聯盟，但不認同激進的推進方式。
+
+---
+
+### 2026-06-22 18:15:20  #其他
+
+德國政府訊息人士表示，裕信銀行將商業銀行私有化的任何計劃實操起來都難度極大。
+
+---
+
+### 2026-06-22 18:15:17  #其他
+
+英國前副首相雷納在 X 平臺發文致敬斯塔默。
+
+---
+
+### 2026-06-22 18:15:11  #MKT News
+
+Indonesia's Coordinating Ministry for Economic Affairs said the government will launch an H2 2026 economic stimulus package totaling IDR 26.34 trillion.
+
+---
+
+### 2026-06-22 18:14:29  #公司 #國際
+
+歐盟批准黑石集團收購ES集團。
+
+---
+
+### 2026-06-22 18:14:21  #公司
+
+【中鼎股份：向不特定物件發行可轉換公司債券申請獲得稽核透過】 中鼎股份公告，2026年6月22日，深圳證券交易所上市稽核委員會召開2026年第35次上市稽核委員會審議會議，對公司向不特定物件發行可轉換公司債券的申請進行了稽核。根據會議稽核結果，公司本次向不特定物件發行可轉換公司債券的申請符合發行條件、上市條件和資訊披露要求。
+
+---
+
+### 2026-06-22 18:14:20  #MKT News #Important #GBPUSD #Impact bullish
+
+GBP/USD rose about 20 pips to 1.3236 after MP Burnham announced a bid for UK prime minister and a former cabinet minister said they would back his candidacy.
+
+---
+
+### 2026-06-22 18:13:48  #公司
+
+【海翔藥業：擬1.5億-3億元回購股份用於激勵或持股計劃】海翔藥業公告稱，公司於2026年6月22日召開董事會會議，審議透過回購股份方案。將使用自有/自籌資金，以集中競價交易方式回購股份，回購金額不低於1.5億元、不超3億元，回購價不超8.55元/股，預計回購1754萬-3508萬股，佔總股本1.08%-2.17%，實施期限為12個月。回購股份將用於股權激勵或員工持股計劃，未使用部分將登出。公司相關人員回購期間無明確增減持計劃，本次回購存在一定風險。
+
+---
+
+### 2026-06-22 18:13:19  #其他
+
+KeyBanc 開啟首次覆蓋SpaceX，給予行業標配評級。
+
+---
+
+### 2026-06-22 18:13:03  #公司 #市場
+
+【裕太微：目前無面向資料中心的DSP電晶片產品，擬研發專案距產品化仍有明顯距離】裕太微公告，公司股票於2026年6月17日、18日、22日連續3個交易日收盤價格漲幅偏離值累計超過30%，屬於股票交易異常波動。經自查並向第一大股東發函核實，不存在應披露而未披露的重大事項。公司關注到市場關於高速DSP電晶片業務進展的討論，特澄清：公司主營業務為高速有線通訊晶片研發銷售，無面向資料中心的DSP電晶片產品；公司2026年度向特定物件發行A股股票預案擬募集資金用於面向資料中心場景的高速互聯研發專案，但具體研發成果和產品形態尚不確定，距離產品化仍有明顯距離，對現有主營業務不構成重大影響。公司目前仍處於虧損狀態，2025年歸母淨利潤為-1.34億元，2026年第一季度歸母淨利潤為-4325.77萬元。
+
+---
+
+### 2026-06-22 18:12:56  #MKT News #Market Regions #Greater China
+
+【HKEX to optimize client margin rules at derivatives clearing house to boost capital efficiency】HKEX will revise client margin multipliers and client maintenance margin rules at its derivatives clearing house to improve capital efficiency and lower market participants’ financing costs. Changes will be phased to allow an orderly transition: Phase 1 effective Sept 21, 2026; Phase 2 expected in March 2027 pending regulatory approval.
+
+---
+
+### 2026-06-22 18:12:52  #其他
+
+【香港交易所宣佈最佳化客戶按金規定 進一步提升衍生產品市場效率】港交所今天宣佈最佳化旗下衍生產品結算所的客戶按金規定，以提升資本效率、降低市場參與者的融資成本，支援香港衍生產品市場的長遠發展。根據修訂後的安排，客戶按金乘數及客戶維持按金規定將分兩個階段調整，以便市場準備充分和順利過渡。第一階段計劃將於2026年9月21日實施，第二階段待監管機構批准後，預期於2027年3月推行。
+
+---
+
+### 2026-06-22 18:12:42  #公司
+
+【呈和科技：部分高管及核心骨幹擬增持公司股份，合計金額不低於3000萬元】呈和科技公告，總經理張旭、財務總監餘志亮、投資總監段淑麗及核心骨幹陳映紅基於對公司未來發展的信心及長期投資價值的認可，擬自本公告披露之日起6個月內，透過信託計劃、資管計劃或直接增持等方式(包括集中競價和大宗交易)增持公司股份。本次合計擬增持金額不低於3000萬元且不超過6000萬元，其中張旭擬增持900萬至1800萬元，餘志亮擬增持750萬至1500萬元，段淑麗擬增持750萬至1500萬元，陳映紅擬增持600萬至1200萬元。增持不設定價格區間，資金來源於自有或自籌資金。截至公告日，上述增持主體均未直接持有公司股份。
+
+---
+
+### 2026-06-22 18:12:25  #市場
+
+英鎊兌美元轉跌為升，此前英國前大臣斯特里廷表態支援伯納姆，最新上漲0.1%，報1.3246美元。
+
+---
+
+### 2026-06-22 18:12:12  #市場
+
+英國10年期國債轉漲，10年期國債收益率下跌2個基點。
+
+---
+
+### 2026-06-22 18:12:11  #MKT News #Market Regions #Europe & UK #GBPUSD
+
+UK 10-year government bond turned higher; 10-year yield fell 2 bps.
+
+---
+
+### 2026-06-22 18:11:51  #MKT News #GBPUSD
+
+GBP/USD briefly rallied about 20 pips to 1.3246; currently trading at 1.3238.
+
+---
+
+### 2026-06-22 18:11:33  #市場 #國際
+
+哥倫比亞美元債券價格上漲，因特朗普盟友贏得選舉。
+
+---
+
+### 2026-06-22 18:11:18  #公司
+
+【高斯貝爾：擬新增採購一批生產經營專用裝置，採購金額不超過人民幣550萬元】高斯貝爾公告，公司於2026年6月22日召開了第六屆董事會第四次會議，審議透過了《關於公司及子公司購買裝置的議案》。截止公告披露日，公司及子公司已完成採購裝置金額合計為1761.1萬元。為滿足生產經營擴產及產能配套規劃，公司及子公司擬新增採購一批生產經營專用裝置，採購金額不超過人民幣550萬元。具體交易金額將依據專案需求及實際執行情況為準。
+
+---
+
+### 2026-06-22 18:11:02  #公司 #市場
+
+【百潤股份：股票連續三個交易日收盤價格跌幅偏離值累計達到20%以上】百潤股份釋出股票交易異常波動公告，公司股票於2026年6月17日、6月18日、6月22日連續三個交易日收盤價格跌幅偏離值累計達到20%以上，屬於股票交易異常波動。公司於2026年6月17日召開董事會，審議透過了向特定物件發行股票方案和2026年度向特定物件發行股票預案等相關議案。本次發行股票尚需公司股東會審議、深圳證券交易所發行上市稽核並報經中國證券監督管理委員會同意註冊後方可實施。經核查，公司不存在其他關於公司的應披露而未披露的重大事項。
+
+---
+
+### 2026-06-22 18:10:35  #MKT News #Important
+
+【Iranian foreign ministry says Iran‑U.S. technical talks started in Switzerland】Iranian foreign ministry spokesman Baghaei confirmed that technical talks under an Iran‑U.S. memorandum of understanding framework began in Switzerland on the 22nd, Iranian media reported.
+
+---
+
+### 2026-06-22 18:10:17  #市場
+
+英國國債全線上漲,10年期國債收益率下跌2個基點至4.82%。
+
+---
+
+### 2026-06-22 18:10:09  #公司 #市場
+
+【麥捷科技：公司與英偉達的合作僅處於研發小批次試產階段 電感產品漲價僅對單位毛利有限修復】麥捷科技(300319.SZ)公告稱，公司股票於2026年6月17日、18日、22日連續三個交易日收盤價漲幅偏離值累計超過30%，屬於股票交易異常波動。公司澄清，與英偉達的合作僅處於研發小批次試產階段，未形成規模化供貨；電感產品漲價僅對單位毛利有限修復，不提升盈利能力；光模組配套產品收入佔比較小，短期不影響業績；公司無MLCC研發、生產或銷售業務。公司提示，自2026年6月以來股價累計漲幅達118.44%，存在市場情緒過熱及非理性炒作風險，後續可能面臨較大回撥風險。
+
+---
+
+### 2026-06-22 18:09:49  #公司
+
+【飛樂音響：擬以5000萬元出資設立投資基金】飛樂音響公告，公司擬以自有資金出資5000萬元作為有限合夥人與其他投資方共同出資設立“上海儀電儀器儀表產業生態基金（有限合夥）”，出資比例9.80%。基金認繳出資總額5.1億元，存續期限擬按“4+3+1+1”設定，即投資期4年、退出期3年，到期可延長兩次，每次1年。基金採用“雙GP”模式，華鑫寬眾投資有限公司及交銀資本管理有限公司共同擔任GP，其中華鑫寬眾擔任執行事務合夥人。
+
+---
+
+### 2026-06-22 18:09:23  #MKT News #GBPUSD #Impact bearish #DXY #Impact bullish
+
+UK government bond futures rose about 20 points after a former cabinet minister publicly backed Andy Burnham to become the next UK prime minister.
+
+---
+
+### 2026-06-22 18:09:01  #Trading Economics #Markets #Euro Area #Currency #Importance 0
+
+Euro Hovers at 3-Month Low — The euro weakened to $1.145, its lowest level since mid-March, despite signs of diplomatic progress between the US and Iran. Negotiators from Tehran and Washington agreed on a roadmap toward a potential final agreement, easing concerns over energy supply disruptions. Investors also monitored developments in UK politics after Prime Minister Keir Starmer announced his resignation on Monday. Oil markets reacted positively to signs of progress in Middle East discussions, even as President Donald Trump warned of possible military action if Hezbollah attacks from Lebanon against Israel continue. The US and Iran have also established a communication channel aimed at preventing incidents and supporting the safe movement of commercial vessels through the Strait of Hormuz. Meanwhile, money markets continue to price in at least one additional European Central Bank rate hike this year, following the ECB’s recent 25 bps increase that lifted the deposit rate to 2.25%, the first rate rise since 2023.
+
+---
+
+### 2026-06-22 18:08:33  #MKT News
+
+A former UK minister urged others to back Burnham for prime minister.
+
+---
+
+### 2026-06-22 18:08:22  #市場
+
+英國金邊期貨上漲約20個最小變動價位，因斯特里廷支援·伯納姆出任首相。
+
+---
+
+### 2026-06-22 18:08:06  #MKT News
+
+A former UK minister said Burnham has shown what the Labour Party can be and voiced support for his leadership.
+
+---
+
+### 2026-06-22 18:08:00  #其他
+
+【分析：英國下任首相須兼顧政治雄心與財政紀律】MHA分析師康納·希克斯在一份報告中表示，若繼任者能帶來政策確定性，英國首相斯塔默辭職後市場的波動有望得到平息。希克斯指出：“下任首相必須在政治雄心與財政紀律之間取得平衡。若能實現這一平衡，投資者可能會歡迎一個更具可預測性、以增長為導向的政策環境。”他表示，目前仍難以預測最有可能接替斯塔默的候選人安迪·伯納姆將帶來怎樣的政策主張。伯納姆此前自詡為財政擴張派，但近期已承諾維持現行財政規則。希克斯稱，投資者將重點關注稅收與支出政策，而企業則期待一個明確的長期投資計劃。
+
+---
+
+### 2026-06-22 18:07:39  #其他
+
+英國前衛生大臣斯特里廷：我希望所有人都支援伯納姆出任首相。
+
+---
+
+### 2026-06-22 18:07:16  #國際
+
+據伊朗媒體22日報道，伊朗外交部發言人巴加埃證實，伊美諒解備忘錄框架下的技術性會談已於22日在瑞士啟動。（新華社）
+
+---
+
+### 2026-06-22 18:07:12  #MKT News #GBPUSD #Impact bullish #FTSE100
+
+【Analysis: UK next prime minister must balance political ambition and fiscal discipline】MHA analyst Connor Hicks says if a successor can deliver policy certainty, market volatility after Prime Minister Starmer’s resignation could ease. Hicks warns the next PM must balance political ambition with fiscal discipline; achieving that balance would likely be welcomed by investors seeking a more predictable, growth‑oriented policy backdrop. He says it is hard to predict the policy stance of leading contender Andy Burnham — who has previously presented as fiscally expansionary but recently pledged to adhere to current fiscal rules. Investors will focus on tax and spending choices; corporates want a clear long-term investment plan.
+
+---
+
+### 2026-06-22 18:07:11  #其他
+
+英國前衛生大臣斯特里廷：伯納姆已展現工黨應有之面貌。
+
+---
+
+### 2026-06-22 18:06:56  #其他
+
+英國前衛生大臣斯特里廷公開支援伯納姆。
+
+---
+
+### 2026-06-22 18:06:42  #央行 #市場 #焦點
+
+【央行：上海黃金交易所黃金成交5521.8噸，同比增加2.8%】央行釋出5月金融市場執行情況，2026年5月末，上海黃金交易所Au（T+D）合約收於每克984.0元，環比下跌3.0%。2026年5月，上海黃金交易所黃金成交5521.8噸，同比增加2.8%；上海期貨交易所黃金成交1.1萬噸，同比減少54.6%。
+
+---
+
+### 2026-06-22 18:06:30  #MKT News #Important #Commodities #Precious Metals #XAUUSD #Impact mixed
+
+【PBOC: Shanghai Gold Exchange gold turnover 5,521.8 tonnes in May, up 2.8% YoY】PBOC May market report: at end‑May 2026 SGE Au(T+D) closed at 984.0 yuan/gram, down 3.0% MoM. In May 2026 SGE gold turnover was 5,521.8 tonnes, up 2.8% YoY; Shanghai Futures Exchange gold turnover was 11,000 tonnes, down 54.6% YoY.
+
+---
+
+### 2026-06-22 18:06:18  #公司
+
+費爾沃能源公司（FERVO ENERGY CO）：增強型地熱系統雙子平臺計劃於2029年前建成投用。
+
+---
+
+### 2026-06-22 18:06:00  #MKT News
+
+【Iran central bank begins steps to unfreeze frozen assets】On June 22, Finance Minister Madanizadeh said Iran's central bank has begun necessary steps to unfreeze frozen assets, though specific details and amounts remain unclear. Central Bank Governor Abdolnaser Hemmati said recent talks in Switzerland were compact and difficult but proceeded broadly in line with Iran's delegation objectives, and that significant progress has been made; the funds will be activated progressively in stages under central bank orders over the coming days.
+
+---
+
+### 2026-06-22 18:05:56  #央行 #國際
+
+【伊朗央行開始推動解凍伊朗被凍結資產】當地時間22日，伊朗財經部長馬達尼扎德表示，伊朗央行已開始採取必要措施，推動解凍伊朗被凍結資產，但“具體細節和金額並不清楚”。（央視新聞）
+
+---
+
+### 2026-06-22 18:05:47  #公司 #觀點
+
+據港交所檔案披露，摩根大通公司截至6月16日，對藥明康德H股<2359.HK>的空頭頭寸從4.55%降至3.01%。
+
+---
+
+### 2026-06-22 18:05:32  #央行 #其他
+
+【央行：5月商業匯票承兌發生額4.4萬億元 貼現發生額3.7萬億元】央行釋出2026年5月金融市場執行情況，2026年5月，商業匯票承兌發生額4.4萬億元，貼現發生額3.7萬億元。2026年5月末，商業匯票承兌餘額22.0萬億元，同比增加9.8%；貼現餘額17.2萬億元，同比增加13.1%。
+
+---
+
+### 2026-06-22 18:05:27  #其他
+
+派拉蒙：加拿大不存在法律層面障礙阻礙其與華納兄弟探索的交易。
+
+---
+
+### 2026-06-22 18:05:22  #其他
+
+費爾沃能源（Fervo Energy）與太平洋西北國家實驗室（PNNL）藉助人工智慧與英偉達加速計算技術，打造全新數字孿生平臺，推動地熱能開發發展。
+
+---
+
+### 2026-06-22 18:05:03  #公司 #觀點
+
+根據港交所披露檔案，摩根大通集團於6月16日減持藥明康德H股<2359.HK>，持股比例從12.10%降至10.46%。
+
+---
+
+### 2026-06-22 18:05:02  #MKT News #Macro & Rates #Treasury Yields
+
+【PBOC: End‑May 10-year government bond yield 1.71%】PBOC released May 2026 financial market data. At end‑May the 10‑year government bond yield was 1.71%; the 10‑year minus 1‑year yield spread was 55bps, narrowing 3bps MoM. May net financing: government bonds 1,223.6 bln yuan, down 235.0 bln YoY; corporate bonds 168.0 bln yuan, up 18.4 bln YoY. Bond market custody balance stood at 202.6 tln yuan at end‑May. Spot bond market turnover in May was 36.7 tln yuan, +8.8% YoY; interbank spot turnover rate 18.0%, down 3.9 percentage points MoM. Active 10‑year government bond bid‑ask spread 0.27bps.
+
+---
+
+### 2026-06-22 18:04:55  #央行 #市場
+
+【央行：5月末10年期國債收益率為1.71%】央行釋出5月金融市場執行情況，2026年5月，政府債券淨融資12235.5億元，同比減少2349.8億元；企業債券淨融資1680.4億元，同比增加183.9億元。2026年5月末，債券市場託管餘額202.6萬億元。2026年5月，現券市場成交額36.7萬億元，同比增加8.8%；銀行間債券市場現券換手率為18.0%，環比下降3.9個百分點；10年期國債活躍券買賣價差為0.27個基點。2026年5月末，10年期國債收益率為1.71%；10年期與1年期國債收益率利差為55個基點，環比收窄3個基點。
 
 ---
 
@@ -20773,389 +21151,5 @@ U.S. President Trump said those ships are leaving the Strait of Hormuz at an unp
 ### 2026-06-20 03:49:16  #MKT News #Important #WTI #Impact bullish #Brent
 
 President Trump said about 700 vessels are transiting the Strait of Hormuz and warned Iran must reach an agreement within 60 days or the United States will take measures that will make them unhappy.
-
----
-
-### 2026-06-20 03:49:04  #國際
-
-特朗普：伊朗必須在 60 天內達成協議，否則我們將採取令其難以接受的行動。
-
----
-
-### 2026-06-20 03:47:43  #MKT News
-
-US President Trump said vessels in the Strait of Hormuz are transiting.
-
----
-
-### 2026-06-20 03:47:30  #國際
-
-特朗普：約有700艘船隻透過霍爾木茲海峽。
-
----
-
-### 2026-06-20 03:47:24  #MKT News
-
-【Israeli forces continue shelling southern Lebanon】Al Jazeera reported Israeli artillery shelled the Ali al-Taher heights in southern Lebanon, firing three shells; the strike occurred after a ceasefire had been declared earlier between Israel and Hezbollah.
-
----
-
-### 2026-06-20 03:47:00  #國際
-
-特朗普：船隻正透過霍爾木茲海峽航行。
-
----
-
-### 2026-06-20 03:46:18  #國際
-
-以色列軍隊持續炮擊黎巴嫩南部。
-
----
-
-### 2026-06-20 03:44:43  #國際
-
-特朗普在安德魯斯聯合基地與空軍官兵一同揭曉全新空軍一號專機。
-
----
-
-### 2026-06-20 03:44:09  #MKT News
-
-U.S. President Trump greeted U.S. Air Force personnel and delivered remarks.
-
----
-
-### 2026-06-20 03:38:11  #MKT News #Market Themes #The Trump Trade
-
-U.S. President Trump will begin his first domestic trip since the G7 summit with a visit to the Mack Trucks plant in Pennsylvania's Lehigh Valley.
-
----
-
-### 2026-06-20 03:35:17  #國際
-
-白宮：這就是美國的方式。（配圖：以實力謀求和平）
-
----
-
-### 2026-06-20 03:31:33  #公司 #國際
-
-特朗普將開啟七國集團峰會結束後的首次美國國內行程，前往賓夕法尼亞州利哈伊谷的邁克卡車工廠參觀。
-
----
-
-### 2026-06-20 03:30:47  #市場
-
-【美元指數19日下跌】衡量美元對六種主要貨幣的美元指數當天下跌0.12%，在匯市尾市收於100.729。截至紐約匯市尾市，1歐元兌換1.1477美元，高於前一交易日的1.1459美元；1英鎊兌換1.3234美元，高於前一交易日的1.3203美元。1美元兌換161.26日元，低於前一交易日的161.68日元；1美元兌換0.8066瑞士法郎，高於前一交易日的0.8051瑞士法郎；1美元兌換1.4174加元，高於前一交易日的1.4140加元；1美元兌換9.5742瑞典克朗，低於前一交易日的9.5874瑞典克朗。
-
----
-
-### 2026-06-20 03:28:01  #國際
-
-【伊朗副外長：美國須約束以色列遵守美伊諒解備忘錄】伊朗副外長賽義德・哈提卜扎德表示，美國必須保證以色列遵守美伊諒解備忘錄的各項條款。他補充稱，只要美方展現同等誠意，伊朗願意循序漸進推進相關落實工作。哈提卜扎德接受半島電視臺採訪時表示：“美國必須確保以色列遵守這份德黑蘭與華盛頓達成的諒解備忘錄條款。倘若對方拿出同等認真的態度，我們願意分步推進合作。”他稱伊朗希望實現包括加沙在內各戰線的和平，並表示黎巴嫩被納入備忘錄範疇，是因為該國與這場衝突存在直接關聯。“若佔領狀態不終結、以色列不遵守國際法，黎巴嫩乃至整個地區都無法迎來和平與穩定。”談及霍爾木茲海峽問題，哈提卜扎德表示，伊朗將協同阿曼、依照國際法持續提供航運保障服務。協議生效的 60 天過渡期內，伊朗不會收取航道通行費；過渡期結束後，伊朗將推出全新機制管理該水道。
-
----
-
-### 2026-06-20 03:25:57  #公司
-
-【英國倫敦以北發生火車相撞事故 已致多人受傷】英國警方19日表示，位於倫敦以北約60英里（約97公里）處的貝德福德郡發生火車相撞事故。現場目擊者稱，這起事故已造成多人受傷。英格蘭東部救護服務機構表示，已向事發鐵路區段派出多支救援力量，包括空中救護直升機等。有關部門呼籲公眾避免前往相關區域。英國交通大臣海迪·亞歷山大表示，對這起事故“深感擔憂”。受事故影響，鐵路運營商東米德蘭茲鐵路公司宣佈，當天剩餘時間內該公司旗下往返倫敦的列車服務暫停。戈維亞泰晤士連線鐵路公司表示，由於事故仍在調查中，盧頓至貝德福德之間所有鐵路線路已停運。目前，事故原因及具體傷亡情況仍有待進一步調查確認。（央視新聞）
-
----
-
-### 2026-06-20 03:23:27  #國際
-
-美國副總統萬斯表示，美伊諒解備忘錄允許美方根據伊朗的實際表現，靈活調整對伊制裁豁免力度。 他稱，即便伊朗完全履約，美國也不會向其撥付納稅人資金；但如果伊朗恪守承諾、停止資助“恐怖主義”並接受長期核查，美方可以擴大制裁豁免範圍並給予其他利好條件。
-
----
-
-### 2026-06-20 03:21:19  #國際
-
-澤連斯基：我由衷期待美方最終給出肯定答覆，讓我們能夠拿到生產許可，屆時烏克蘭本土企業、私營產業以及國有國防軍工單位既能支援本國，也可向中東與歐洲各國供應相關裝備。
-
----
-
-### 2026-06-20 03:21:05  #國際
-
-澤連斯基：美方首次對授權烏克蘭本土生產導彈的提議作出積極回應。
-
----
-
-### 2026-06-20 03:20:16  #國際
-
-【報道：一艘超大型油輪掉頭後再度駛向霍爾木茲海峽】一艘超大型油輪短暫調轉航向之後，再度從波斯灣朝霍爾木茲海峽駛去。油輪追蹤資料顯示，此前原本似乎打算走美軍推薦南線航道的Desh Vibhor號，如今改走更偏北的航線，駛向伊朗海岸。這艘超大型油輪早前完成一次掉頭，隨後再度調整航向，重新繼續前往海峽的航程。美國與伊朗於週三簽署臨時和平協議後，原油市場正密切關注途經霍爾木茲海峽的油品運輸動向。儘管雙方達成協議，伊朗仍宣稱船舶未經其許可不得通行該水道。
-
----
-
-### 2026-06-20 03:19:21  #國際
-
-美國空軍： VC-25B 型新一代空軍一號專機已正式抵達安德魯斯聯合基地。
-
----
-
-### 2026-06-20 03:18:56  #國際
-
-市場訊息：特朗普即將在全新空軍一號飛機前發表講話，這架飛機採用由特朗普親自設計的全新塗裝方案。
-
----
-
-### 2026-06-20 03:14:18  #國際
-
-【特朗普承認伊朗相關衝突的解決程序更為漫長】據報道，特朗普總統週四在節目中表示，美國若對古巴採取軍事行動，有可能復刻今年 1 月快速拿下委內瑞拉總統尼古拉斯・馬杜羅的戰果。特朗普同時承認，伊朗相關衝突的解決程序更為漫長，原因是伊朗軍事實力更強，且地理位置遙遠。他表示古巴更容易被美方壓制。記者詢問，針對古巴的行動是否會和委內瑞拉行動流程相似，特朗普答覆：“有可能，完全存在這種可能性。”“這兩個國家離美國很近。反觀伊朗，路途極其遙遠。我曾數次飛往那一區域，雖說和本次戰事無關，但單程就要飛 18 個小時，路途十分漫長。委內瑞拉距離相對近，古巴更是近在咫尺。”二者另一關鍵區別在於資源儲備。總統補充道：“委內瑞拉擁有石油資源，古巴沒有。古巴只擁有優質土地與優美海岸線。”
-
----
-
-### 2026-06-20 03:11:53  #其他
-
-星巴克裁減中國香港辦公室約60個崗位、倫敦辦公室約120個崗位。
-
----
-
-### 2026-06-20 03:07:14  #MKT News #Commodities #Energy
-
-President Trump said Venezuela has oil while Cuba does not, and that Cuba has good real estate and an attractive coastline.
-
----
-
-### 2026-06-20 03:05:24  #MKT News
-
-US President Trump said his polling is very strong and he could beat any candidate they field by 25 percentage points.
-
----
-
-### 2026-06-20 03:04:50  #國際
-
-特朗普：我的民調資料十分亮眼。我能領先他們陣營任何候選人 25 個百分點取勝。
-
----
-
-### 2026-06-20 03:04:07  #MKT News #Market Themes #AI Revolution
-
-John Jumper, a senior research scientist at Google-owned DeepMind, has decided to leave to join Anthropic.
-
----
-
-### 2026-06-20 03:03:15  #公司 #資料
-
-谷歌研究員約翰·江珀稱已決定離開谷歌DeepMind，加入Anthropic。
-
----
-
-### 2026-06-20 03:01:39  #央行 #其他
-
-墨西哥央行設定比索官方匯率為1美元兌17.3247墨西哥比索。
-
----
-
-### 2026-06-20 03:00:10  #公司 #國際
-
-美國總統特朗普：（談及七國集團）他們本應保留八國集團。如果那樣的話，俄烏之間可能就不會發生衝突了，但奧巴馬不想讓普京留在那裡。以前是八國集團。如果當初保留下來，會好得多。
-
----
-
-### 2026-06-20 02:59:40  #MKT News
-
-Trump said the G7 should have remained the G8, arguing that if it had, the Russia-Ukraine war might not have occurred; he said Obama opposed keeping Putin in the group and that it was better when it was the G8.
-
----
-
-### 2026-06-20 02:57:46  #國際
-
-美國總統特朗普：（談及拜登）我們曾有過一個連一段樓梯都走不上去的人，我不想談這個，因為如果我稍微絆一下，他們就會說：“哦，這太糟糕了。”好吧，這種事是可能發生的。但你不能每次上臺都絆倒。
-
----
-
-### 2026-06-20 02:57:43  #MKT News
-
-U.S. President Trump said of Biden that they once had someone who couldn't even climb a short flight of stairs, and that he avoids discussing it because any slight misstep would prompt criticism.
-
----
-
-### 2026-06-20 02:52:30  #MKT News #Market Regions #Europe & UK
-
-【ZELENSKIY says Ukraine-Russia talks may resume; allows Russia to determine format】On June 19, ZELENSKIY said Ukraine and Russia talks may resume but the specific format remains to be agreed. He said any negotiations must include a third-party partner, outlined Ukraine’s core demands including post-war security guarantees and EU accession, and said Kyiv would allow Moscow to determine the precise negotiating format. Russia has not responded.
-
----
-
-### 2026-06-20 02:51:56  #國際
-
-【澤連斯基稱烏俄談判或將重啟 允許俄方敲定具體形式】當地時間6月19日，烏克蘭總統澤連斯基表示，烏克蘭和俄羅斯的談判或將重啟，當前有待敲定的是談判的具體形式。他特別強調，談判必須有第三方夥伴參與。澤連斯基同時明確了烏克蘭的核心訴求，涵蓋戰後安全保障、加入歐盟等內容，並表示烏方允許俄方敲定談判具體形式。目前，俄羅斯方面對此暫無回應。（央視新聞）
-
----
-
-### 2026-06-20 02:50:58  #國際
-
-【以軍稱將繼續回應黎真主黨“違反停火協議行為”】以色列國防軍發言人19日發表宣告稱，以軍將繼續回應黎巴嫩真主黨任何“違反停火協議的行為”。這名發言人指認黎真主黨數週以來不斷違反以黎停火協議，稱“以色列無法接受這樣的現實”，這正是以軍繼續在黎南部開展行動的原因。他稱，以軍的目標是確保黎真主黨無法重建，也無法對以色列平民構成威脅。（新華社）
-
----
-
-### 2026-06-20 02:48:55  #MKT News
-
-Sources say Abu Dhabi-based technology investor MGX is considering a multi-billion-dollar acquisition of data center operator DayOne.
-
----
-
-### 2026-06-20 02:48:53  #其他
-
-星巴克重組之際裁減英國、中國香港辦公室崗位。
-
----
-
-### 2026-06-20 02:48:38  #其他
-
-市場訊息：阿布扎比投資機構 MGX 正考慮斥資數十億美元收購資料中心運營商 Dayone。
-
----
-
-### 2026-06-20 02:48:27  #MKT News
-
-Elon Musk said by then the measure of value will no longer be the dollar but mass and energy.
-
----
-
-### 2026-06-20 02:47:59  #MKT News
-
-Elon Musk said humanity will invest unimaginable sums in producing antimatter to enable interstellar travel to other star systems.
-
----
-
-### 2026-06-20 02:44:41  #其他
-
-馬斯克：未來，人類將投入億億萬億美元用於製造反物質，以實現前往其他恆星系統的星際航行。到那時，衡量事物的標準將不再是美元，而是質量與能量。
-
----
-
-### 2026-06-20 02:41:59  #MKT News
-
-【Trump: 'I'm the boss' remark was a joke, didn't expect it to spread worldwide】In an Axios interview, Trump said his 'I'm the boss' remark on entering the G7 meeting was meant as a joke, that 'everyone agreed,' and he did not intend to assert dominance, adding he was surprised it spread worldwide.
-
----
-
-### 2026-06-20 02:34:09  #MKT News
-
-Ukraine's foreign minister said Poland's decision to strip President ZELENSKIY of an honorary medal was a "strategic mistake."
-
----
-
-### 2026-06-20 02:33:06  #國際
-
-烏克蘭外長：波蘭撤銷澤連斯基總統勳章的決定是一個 “戰略失誤”。
-
----
-
-### 2026-06-20 02:32:09  #公司 #國際
-
-【特朗普：“我是老大”的言論只是開玩笑】在Axios訪談節目中，特朗普在被問及關於參加七國集團（G7）峰會向現場各國領導人宣佈“我是老大”時稱， 所有人都認同這點，不過當時只是開玩笑而已。那句話本就是句玩笑，結果傳遍了全世界，我簡直不敢相信。 我當時只是隨口調侃、逗個樂，根本不是想擺老大的架子。
-
----
-
-### 2026-06-20 02:30:12  #Trading Economics #Markets #Crypto #Importance 1
-
-Crypto Updates: XRP Drops by 1.16% — Today's cryptos market is characterized by modest daily movements, with XRP standing out as the frontrunner with a -1.16% decrease.
-
----
-
-### 2026-06-20 02:28:15  #MKT News
-
-Poland's president has decided to revoke the Order of the White Eagle, the country's highest decoration, which had been awarded to Ukrainian President ZELENSKIY.
-
----
-
-### 2026-06-20 02:26:58  #市場 #國際
-
-【全美寶可夢卡牌盜竊案頻發 北加州兩店接連遭竊】美國警方及兩家店鋪店主表示，本週北加利福尼亞州兩家商店在短短數小時內接連遭遇入室盜竊，價值數千美元的寶可夢集換式卡牌失竊。 斯托克頓的調查人員正在蒐集這兩起週三入室盜竊案的線索、追查嫌疑人，這也是全美多地接連發生寶可夢卡牌失竊案件中的最新兩起。 警方暫未確定這兩起盜竊案件是否存在關聯。其中一位店主勞森介紹，寶可夢卡牌的價格跨度極大，普通卡牌售價約一美元，而部分經過專業評級的卡牌價值可達數萬美元。加利福尼亞州、新澤西州以及美國其他多個州都發生過同類盜竊案件。
-
----
-
-### 2026-06-20 02:25:11  #Trading Economics #Markets #Commodity #Importance 1
-
-Agricultural Commodities Updates: Palm Oil Rises by 1.60% — Top commodity gainers are Palm Oil (1.60%), Rapeseed (0.51%) and Wool (0.51%). Biggest loser is Coffee (-0.74%).
-
----
-
-### 2026-06-20 02:22:30  #MKT News #WTI #Impact bullish #XAUUSD #DXY
-
-【Trump tells Axios Iran war could trigger global depression, says ending JCPOA saved Israel; Cuba action ‘could be swift’】In an Axios interview, Trump said a war with Iran “could trigger a global depression” and asserted his deal prevented that outcome. He said action against Cuba “could be” as swift as U.S. moves on Venezuela, noting both are geographically close while Iran is “far.” On Israel, he claimed “if not for me, Israel would not exist today,” saying he terminated the Obama-era Iran nuclear deal (JCPOA), which he described as a path to nuclear weapons. On post-conflict limits on presidential authority he said there are “no limits” in practice, adding he has “not learned that lesson” and that limits exist only “in theory.”
-
----
-
-### 2026-06-20 02:22:20  #國際
-
-【俄總統新聞秘書：願與歐洲談判 但對方需轉變態度】俄羅斯總統新聞秘書佩斯科夫19日在新聞釋出會上表示，俄羅斯願與歐洲進行談判，雙方有大量問題有待磋商，但歐洲需改變對待談判的態度。在回答記者有關俄歐談判的問題時，佩斯科夫說，俄羅斯不是主動切斷與歐洲聯絡的一方。歐盟自認為在談判中居於強勢而俄羅斯處於弱勢，這是一個嚴重誤判。如果歐洲能真正認識到恢復與俄羅斯對話的重要性，而不是一味說教和發出最後通牒，那麼俄方將對此持開放態度。佩斯科夫建議歐盟去了解俄烏衝突的真實情況。他認為，烏克蘭目前已陷入非常困難的境地，前線形勢對於烏方來說很快將變成一場災難。（新華社）
-
----
-
-### 2026-06-20 02:20:11  #Trading Economics #Markets #Commodity #Importance 1
-
-Metals Commodities Updates: Platinum Falls by 2.29% — Top commodity losers are Platinum (-2.29%), Gold (-1.61%) and Silver (-1.20%).
-
----
-
-### 2026-06-20 02:16:53  #國際
-
-特朗普：Anthropic 配合我方要求，行事負責。
-
----
-
-### 2026-06-20 02:15:12  #Trading Economics #Markets #Commodity #Importance 1
-
-Energy Commodities Updates: Natural Gas UK Gains by 4.56% — Top commodity gainers are Natural Gas UK (4.56%), Natural Gas EU (3.78%), Germany Natural Gas THE (3.71%), Crude Oil WTI (0.95%) and Brent Crude Oil (0.92%). Biggest loser is Natural gas (-1.11%).
-
----
-
-### 2026-06-20 02:13:53  #國際
-
-被問及是否會關停 Anthropic 時，特朗普回應：我並不打算這麼做。
-
----
-
-### 2026-06-20 02:13:39  #國際
-
-波蘭總統表示，他已決定撤銷授予澤連斯基的最高榮譽白鷹勳章。
-
----
-
-### 2026-06-20 02:13:05  #MKT News
-
-U.S. President Trump said ANTHROPIC should not be regarded as a national security threat.
-
----
-
-### 2026-06-20 02:12:48  #MKT News #WTI #Impact bearish #Brent #XAUUSD
-
-Axios: President Trump said the US will be able to prevent Israel from attacking Lebanon.
-
----
-
-### 2026-06-20 02:12:31  #MKT News #WTI #Impact bearish #XAUUSD #DXY
-
-Axios quoted President Trump as saying a war with Iran could trigger a global depression and that the agreement averted that outcome.
-
----
-
-### 2026-06-20 02:11:23  #國際
-
-特朗普：不將 Anthropic 視作國家安全威脅。
-
----
-
-### 2026-06-20 02:11:08  #其他
-
-英國交通大臣：獲悉兩列火車相撞的相關報道，我深感擔憂。
-
----
-
-### 2026-06-20 02:10:49  #MKT News #Market Themes #The Trump Trade
-
-AXIOS reports President Trump said Cuba is very eager to engage in talks.
-
----
-
-### 2026-06-20 02:09:43  #MKT News #Macro & Rates #The Fed (FOMC)
-
-【Fed vice chair for supervision Bowman attends private BofA client dinner during blackout; compliance questioned】Fed vice chair for supervision Bowman attended an invite-only BofA client dinner in New York on Wednesday night, several hours after the Fed released its latest policy decision. The event occurred during the Fed’s communication blackout, which bars officials from commenting publicly on the economy or monetary policy for several days around meetings and runs through the day after the meeting (Thursday). Fed guidance does not explicitly prohibit closed‑door meetings but requires officials to avoid sharing personal policy views with parties that could profit or to confer reputational advantages on a firm; policymakers should be cautious about meetings with those who could benefit from exclusive access or accepting invitations from for‑profit, non‑public events. It is unclear whether Bowman’s attendance violated Fed rules.
-
----
-
-### 2026-06-20 02:09:40  #國際
-
-特朗普：我有辦法約束以色列，使其不對黎巴嫩發動襲擊。
 
 ---
