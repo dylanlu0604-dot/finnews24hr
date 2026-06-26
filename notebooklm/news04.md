@@ -1,7 +1,25 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-06-27 05:40:02_
-_本檔包含 3528 則快訊，約 669778 字_
+_更新時間：2026-06-27 06:07:27_
+_本檔包含 3528 則快訊，約 670315 字_
+
+---
+
+### 2026-06-23 19:44:56  #宏觀 #國際
+
+【特朗普稱伊朗解凍資產將專用於購入美國農產品】美國總統特朗普23日在社交媒體發文說，美國財政部解凍的伊朗資產將存入由美國控制的託管賬戶，並將專用於從美國購買食品和醫療物資，包括美國的玉米、小麥和大豆。（新華社）
+
+---
+
+### 2026-06-23 19:44:18  #公司 #市場 #國際
+
+【納指期貨大幅下挫 盤前英特爾和美光科技領跌晶片股】隨著投資者對高漲的科技股和偏高的估值愈發不安，全球市場出現連鎖拋售。美國股指期貨盤前下滑。紐約時間6:49，標普500指數期貨下滑1.4%，納斯達克100指數期貨大跌2.8%，道指期貨走低0.6%。記憶體類股跌幅居前，這類股票不少今年以來漲幅已達三位數。SpaceX一度延續跌勢，恐跌破150美元的首日開盤價，但此後實現了反彈。首爾市場方面，晶片巨頭SK海力士和三星電子均重挫逾10%。美股盤前交易中，英特爾和美光科技領跌晶片股。
+
+---
+
+### 2026-06-23 19:44:14  #MKT News #Market Themes #AI Revolution
+
+【China's Li meets Montenegro PM Spajić】China's Premier Li Qiang met Montenegro Prime Minister Spajić in Dalian on June 23 during the Summer Davos Forum. Beijing said it is willing to optimize bilateral trade, advance high-quality infrastructure projects and expand cooperation in information and communications, green energy, the digital economy and artificial intelligence. China expressed willingness to import more distinctive Montenegrin products and to encourage reputable Chinese firms to invest in Montenegro, while urging Montenegro to provide a fair, transparent, non-discriminatory business environment. The sides agreed to facilitate travel and deepen cooperation in tourism, technology, education, youth and sports. Montenegro said it views China as an important partner, will continue cooperation on trade, investment, infrastructure and the green economy, and expects to act as a bridge for pragmatic EU–China cooperation after joining the EU.
 
 ---
 
@@ -21277,23 +21295,5 @@ Xiaomi Group (01810.HK) repurchased 6.42 mln shares on June 22, spending HKD 152
 ### 2026-06-22 18:31:22  #公司
 
 【小米集團-W：6月22日回購642萬股，耗資1.52億港元】小米集團公告，於2026年6月22日回購642萬股B類普通股，回購價格區間為23.6港元/股至23.78港元/股，總耗資1.52億港元。上述回購股份擬登出。此外，公司同日發行53.7萬股新股用於股份獎勵，發行價為2.01港元/股。截至2026年6月22日，公司自2026年4月27日以來累計購回4452萬股，佔回購授權決議透過當日已發行股份（不含庫存股份）數目的0.17%。
-
----
-
-### 2026-06-22 18:31:09  #宏觀
-
-【丁薛祥出席第四屆中國國際供應鏈促進博覽會開幕式並作主旨講話】第四屆中國國際供應鏈促進博覽會22日在北京開幕，中共中央政治局常委、國務院副總理丁薛祥出席並作主旨講話。丁薛祥強調，全球供應鏈、產業鏈、價值鏈緊密聯絡，每個國家都是合作鏈條中的一環，維護全球產業鏈供應鏈穩定暢通需要各方共同努力。他提出4點建議：一是加強相互信任，防止將經貿問題政治化、武器化、泛安全化，著力消除非經濟因素干擾，共同維護產業鏈供應鏈的全球公共產品屬性。二是加強貿易暢通，維護和踐行真正的多邊主義，維護以世界貿易組織為核心的多邊貿易體制，反對以綠色低碳為名、行保護主義之實，積極營造公平、開放、可預期的市場環境，促進貿易投資自由化便利化。三是加強融合發展，齊心協力推動創新鏈與產供鏈深度融合，共同打造優勢互補、互利共贏的產業生態，讓科技創新成果惠及更多國家和人民。四是加強資源共享，積極維護全球能源市場開放聯通和平穩執行，促進關鍵礦產的互惠合作與和平利用，為保障全球產業鏈供應鏈穩定暢通創造良好條件。(新華社)
-
----
-
-### 2026-06-22 18:31:04  #公司
-
-【維康藥業：感冒清熱顆粒中選全國中成藥採購聯盟集中帶量採購】維康藥業公告，公司產品感冒清熱顆粒中選全國中成藥採購聯盟集中帶量採購。感冒清熱顆粒2025年度銷售收入為 898.72萬元，佔公司 2025年度營業收入總額的比例為 3.99%；2026年第一季度銷售收入為 131.2萬元，佔公司 2026年第一季度營業收入總額的比例為 1.88%。
-
----
-
-### 2026-06-22 18:30:38  #國際
-
-【伊朗總統：伊方帶著尊嚴談判 未作任何讓步】當地時間22日，伊朗總統佩澤希齊揚表示，伊朗在談判程序中始終帶著尊嚴與自信，未作任何讓步。佩澤希齊揚稱，伊朗在任何時候都不會容忍他國忽視自身權利，不會退讓，也不會低頭。在已啟動的談判程序中，黎巴嫩問題也因伊朗的立場而有所調整，並出現了一些積極突破。（央視新聞）
 
 ---

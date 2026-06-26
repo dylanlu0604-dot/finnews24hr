@@ -1,7 +1,31 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-06-27 05:40:02_
-_本檔包含 3831 則快訊，約 671280 字_
+_更新時間：2026-06-27 06:07:27_
+_本檔包含 3832 則快訊，約 670328 字_
+
+---
+
+### 2026-06-25 23:35:40  #國際
+
+以色列總理內塔尼亞胡：我們掌控黎巴嫩南部地區，只要有需要，我們就會留守安全區，不會從中撤離。我們逐步拓展了多處管控區域，並會根據實際需要持續守住這些區域。我們將以此為依託，守護北部居民以及全體以色列民眾。
+
+---
+
+### 2026-06-25 23:35:24  #國際
+
+美國地質調查局：巴布亞紐幾內亞科科波以東 73 公里處發生 5.5 級地震。
+
+---
+
+### 2026-06-25 23:34:44  #MKT News
+
+Israel's defense minister Katz said that despite pressure Israel opposes withdrawing forces from the 'security zone' in Lebanon and will not withdraw.
+
+---
+
+### 2026-06-25 23:34:28  #國際
+
+伊朗外長阿拉格齊25日在社交媒體發文說，他與阿曼外交大臣通話，雙方再次強調將繼續溝通，以明確霍爾木茲海峽未來的管理和服務事宜。（新華社）
 
 ---
 
@@ -23067,23 +23091,5 @@ Russia reported its air defenses shot down three drones en route to Moscow.
 ### 2026-06-24 21:58:48  #Trading Economics #Markets #United States #stocks #Importance 1
 
 Deere & Company Stock Price Hits 10-week High — Deere & Company shares increased to 604.52 USD, the highest since April 2026. Over the past 4 weeks, Deere & Company gained 14.02%, and in the last 12 months, it increased 19.05%.
-
----
-
-### 2026-06-24 21:58:44  #市場 #央行 #國際
-
-【德商銀行：歐元區通脹率或很快降至目標水平】德國商業銀行的Vincent Stamer在一份報告中表示，伊朗與美國之間的一項初步和平協議正推動人們的希望，即歐元區通脹率可能很快回落至歐洲央行2%的目標水平。他說，如果企業認為能源價格上漲是暫時的，它們可能會避擴音高銷售價格。德國商業銀行預計，未來幾個月通脹率將維持在3%左右，然後在明年下半年降至2%。“如果波斯灣衝突得到永久解決，這可能標誌著這段通脹時期結束的開始。”Stamer說，儘管如此，由於通脹率持續高於3%，且高能源價格的間接影響即將來臨，歐洲央行仍可能進行第二次加息。
-
----
-
-### 2026-06-24 21:58:23  #市場 #國際
-
-【報告：美國天然氣期貨在區間交易中持穩】隨著美國天然氣期貨繼續在相當偏窄的區間內交易，其價格小幅走高。EBW Analytics的Eli Rubin在一份報告中表示，6月份迄今為止，亨利港的現貨價格平均為每百萬英熱單位3.11美元，為處於近期區間底部的紐約商交所近月合約提供了支撐。他說，進入7月份氣溫升高以及液化天然氣出口預期增加，可能會提供需求側的支撐。他補充說，對“看漲敘事“的挑戰包括產量恢復以及管道維護結束使得亨利港有更多供應。紐約商交所天然氣期貨上漲0.5%，報每百萬英熱單位3.162美元。
-
----
-
-### 2026-06-24 21:57:52  #Trading Economics #Markets #Canada #Currency #Importance 1
-
-Canadian Dollar Weakens to 1-Year Low — The Canadian dollar sank to a one-year low of 1.42 per USD in late June amid, tracking other G10 currencies as the outlook of a hawkish Fed supported the US dollar. Multiple FOMC members projected more than one rate hike this year as US inflation picks up. Meanwhile, core inflation rates tracked by the Bank of Canada remained near their 2% target in May despite the surge in energy prices during the period, aligning with the central bank's earlier signal that the war in Iran may only have transitionary effects on headline price growth. The Bank of Canada kept its key interest rate unchanged at 2.25% at its latest meeting, and signaled that it sees risks on both sides of its inflation and employment mandate amid the uncertain economic backdrop.
 
 ---

@@ -1,7 +1,25 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-06-27 05:40:02_
-_本檔包含 3717 則快訊，約 670606 字_
+_更新時間：2026-06-27 06:07:27_
+_本檔包含 3717 則快訊，約 670613 字_
+
+---
+
+### 2026-06-24 21:58:44  #市場 #央行 #國際
+
+【德商銀行：歐元區通脹率或很快降至目標水平】德國商業銀行的Vincent Stamer在一份報告中表示，伊朗與美國之間的一項初步和平協議正推動人們的希望，即歐元區通脹率可能很快回落至歐洲央行2%的目標水平。他說，如果企業認為能源價格上漲是暫時的，它們可能會避擴音高銷售價格。德國商業銀行預計，未來幾個月通脹率將維持在3%左右，然後在明年下半年降至2%。“如果波斯灣衝突得到永久解決，這可能標誌著這段通脹時期結束的開始。”Stamer說，儘管如此，由於通脹率持續高於3%，且高能源價格的間接影響即將來臨，歐洲央行仍可能進行第二次加息。
+
+---
+
+### 2026-06-24 21:58:23  #市場 #國際
+
+【報告：美國天然氣期貨在區間交易中持穩】隨著美國天然氣期貨繼續在相當偏窄的區間內交易，其價格小幅走高。EBW Analytics的Eli Rubin在一份報告中表示，6月份迄今為止，亨利港的現貨價格平均為每百萬英熱單位3.11美元，為處於近期區間底部的紐約商交所近月合約提供了支撐。他說，進入7月份氣溫升高以及液化天然氣出口預期增加，可能會提供需求側的支撐。他補充說，對“看漲敘事“的挑戰包括產量恢復以及管道維護結束使得亨利港有更多供應。紐約商交所天然氣期貨上漲0.5%，報每百萬英熱單位3.162美元。
+
+---
+
+### 2026-06-24 21:57:52  #Trading Economics #Markets #Canada #Currency #Importance 1
+
+Canadian Dollar Weakens to 1-Year Low — The Canadian dollar sank to a one-year low of 1.42 per USD in late June amid, tracking other G10 currencies as the outlook of a hawkish Fed supported the US dollar. Multiple FOMC members projected more than one rate hike this year as US inflation picks up. Meanwhile, core inflation rates tracked by the Bank of Canada remained near their 2% target in May despite the surge in energy prices during the period, aligning with the central bank's earlier signal that the war in Iran may only have transitionary effects on headline price growth. The Bank of Canada kept its key interest rate unchanged at 2.25% at its latest meeting, and signaled that it sees risks on both sides of its inflation and employment mandate amid the uncertain economic backdrop.
 
 ---
 
@@ -22424,23 +22442,5 @@ Brent Crude Oil Hovers at $78 — Brent crude oil prices stabilized around $78 p
 ### 2026-06-23 19:44:59  #Trading Economics #Markets #Commodity #Importance 2
 
 Oil Steadies — Crude oil prices stabilized around $74 per barrel on Tuesday as traders monitored advancements toward resolving the conflict with Iran. Following an interim peace deal that already reduced oil prices by 40% from their peak, a new 60-day US waiver now permits global buyers, including American refineries, to purchase Iranian crude and fuels. While both nations noted progress during talks in Switzerland and agreed to form four working groups to address nuclear issues and sanctions, discrepancies remain. For instance, Tehran disputed US claims regarding the immediate return of nuclear inspectors. Meanwhile, Persian Gulf supply is rising, with Kuwait and the United Arab Emirates finding shipping workarounds and Iran exporting over 30 million barrels in the past week. However, long-term market stability depends on protracted negotiations regarding Iran's nuclear capabilities, the Israel-Hezbollah ceasefire in Lebanon, and the secure reopening of the vital Strait of Hormuz.
-
----
-
-### 2026-06-23 19:44:56  #宏觀 #國際
-
-【特朗普稱伊朗解凍資產將專用於購入美國農產品】美國總統特朗普23日在社交媒體發文說，美國財政部解凍的伊朗資產將存入由美國控制的託管賬戶，並將專用於從美國購買食品和醫療物資，包括美國的玉米、小麥和大豆。（新華社）
-
----
-
-### 2026-06-23 19:44:18  #公司 #市場 #國際
-
-【納指期貨大幅下挫 盤前英特爾和美光科技領跌晶片股】隨著投資者對高漲的科技股和偏高的估值愈發不安，全球市場出現連鎖拋售。美國股指期貨盤前下滑。紐約時間6:49，標普500指數期貨下滑1.4%，納斯達克100指數期貨大跌2.8%，道指期貨走低0.6%。記憶體類股跌幅居前，這類股票不少今年以來漲幅已達三位數。SpaceX一度延續跌勢，恐跌破150美元的首日開盤價，但此後實現了反彈。首爾市場方面，晶片巨頭SK海力士和三星電子均重挫逾10%。美股盤前交易中，英特爾和美光科技領跌晶片股。
-
----
-
-### 2026-06-23 19:44:14  #MKT News #Market Themes #AI Revolution
-
-【China's Li meets Montenegro PM Spajić】China's Premier Li Qiang met Montenegro Prime Minister Spajić in Dalian on June 23 during the Summer Davos Forum. Beijing said it is willing to optimize bilateral trade, advance high-quality infrastructure projects and expand cooperation in information and communications, green energy, the digital economy and artificial intelligence. China expressed willingness to import more distinctive Montenegrin products and to encourage reputable Chinese firms to invest in Montenegro, while urging Montenegro to provide a fair, transparent, non-discriminatory business environment. The sides agreed to facilitate travel and deepen cooperation in tourism, technology, education, youth and sports. Montenegro said it views China as an important partner, will continue cooperation on trade, investment, infrastructure and the green economy, and expects to act as a bridge for pragmatic EU–China cooperation after joining the EU.
 
 ---
