@@ -1,7 +1,43 @@
 {
-  "updated": "2026-06-27 03:04:51",
-  "count": 18079,
+  "updated": "2026-06-27 03:08:50",
+  "count": 18081,
   "items": [
+    {
+      "id": "4957933",
+      "time": "2026-06-27 03:07:15",
+      "tags": [
+        "公司"
+      ],
+      "text": "【大眾汽車擬擴大裁員至10萬人並關閉多家工廠】德國汽車製造商大眾汽車集團考慮進一步加大成本削減力度，擬將裁員規模擴大至10萬人，並可能關閉4家德國工廠。大眾汽車今年3月已宣佈將在2030年前削減約5萬個崗位。（新華社）"
+    },
+    {
+      "id": "mkt:019f0552-ee84-7dd8-b13e-1f6574d68049",
+      "time": "2026-06-27 03:05:48",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "U.S. Treasury Secretary Bessent said the U.S. had to enter Iran, warning that Iran could obtain a nuclear weapon within two weeks if it chose to pursue one."
+    },
+    {
+      "id": "4957932",
+      "time": "2026-06-27 03:05:34",
+      "tags": [
+        "市場"
+      ],
+      "text": "在岸人民幣兌美元（CNY）北京時間03:00收報6.7978元，較週四夜盤收盤漲12點。成交量562.03億美元。"
+    },
+    {
+      "id": "mkt:019f0552-0eee-7dd8-b13e-15547c93bcf5",
+      "time": "2026-06-27 03:04:51",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【CFTC conducting broad probe of prediction-market platform Polymarket, source says】CNBC, citing a person familiar with the matter, reports the US Commodity Futures Trading Commission (CFTC) is carrying out an ongoing, broad investigation of prediction-market platform Polymarket. Earlier reports said Polymarket ran a misleading marketing campaign that made content creators appear profitable on the platform despite those creators not having invested funds."
+    },
     {
       "id": "4957931",
       "time": "2026-06-27 03:03:20",
@@ -165311,24 +165347,6 @@
         "其他"
       ],
       "text": "星巴克裁減中國香港辦公室約60個崗位、倫敦辦公室約120個崗位。"
-    },
-    {
-      "id": "mkt:019ee147-b9ef-7dd8-b09a-a0fe5889b930",
-      "time": "2026-06-20 03:07:14",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy"
-      ],
-      "text": "President Trump said Venezuela has oil while Cuba does not, and that Cuba has good real estate and an attractive coastline."
-    },
-    {
-      "id": "mkt:019ee146-09e4-7dd8-b09a-9baee1a46ba3",
-      "time": "2026-06-20 03:05:24",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "US President Trump said his polling is very strong and he could beat any candidate they field by 25 percentage points."
     }
   ]
 }
