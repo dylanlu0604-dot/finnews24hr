@@ -1,7 +1,76 @@
 {
-  "updated": "2026-06-26 08:00:56",
-  "count": 16940,
+  "updated": "2026-06-26 08:04:55",
+  "count": 16934,
   "items": [
+    {
+      "id": "mkt:019f013d-fca6-7dd8-b127-79ca0e2acf83",
+      "time": "2026-06-26 08:04:27",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Guojin Securities: Micron advances long-term contracts; supply shortfall likely to persist】Guojin Securities says Micron Technology has signed 16 Strategic Customer Agreements (SCAs) covering data center, consumer electronics and automotive end markets; auto SCAs run three years, other SCAs are mostly five years. Those 16 SCAs represent roughly 20% of Micron's DRAM shipments and about one-third of its NAND shipments. The SCAs’ price floors would deliver profitability above prior cycle peaks. Micron expects DRAM and NAND tightness to persist into 2027. Guojin projects sustained supply tightness in the memory sector and continued high profitability at Micron; wider SCA adoption is likely to reduce Micron’s realized-price volatility and earnings cyclicality."
+    },
+    {
+      "id": "4955992",
+      "time": "2026-06-26 08:02:36",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "韓國綜合股價指數（KOSPI）下跌2%，至8749.43。"
+    },
+    {
+      "id": "mkt:019f013c-2dff-7dd8-b127-73209b1a9386",
+      "time": "2026-06-26 08:02:28",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Emerging Markets"
+      ],
+      "text": "South Korea's KOSPI fell as much as 2.00% intraday."
+    },
+    {
+      "id": "mkt:019f013b-86f8-7dd8-b127-6c8e28fcdd4f",
+      "time": "2026-06-26 08:01:46",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "South Korea's KOSPI opened down 112.4 points (-1.26%) at 8,817.9 on Friday, June 26."
+    },
+    {
+      "id": "mkt:019f013b-1e01-7dd8-b127-62fe15ed1efd",
+      "time": "2026-06-26 08:01:19",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Nikkei 225",
+        "Impact bearish"
+      ],
+      "text": "Japan's Nikkei 225 opened down 668.60 points, or 0.92%, at 71,697.74 on Friday, June 26."
+    },
+    {
+      "id": "4955991",
+      "time": "2026-06-26 08:00:38",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "韓國綜合股價指數（KOSPI）開盤下跌1.3%，至8813.18點。"
+    },
+    {
+      "id": "mkt:019f013a-77ec-7dd8-b127-597fb442094a",
+      "time": "2026-06-26 08:00:36",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "DXY",
+        "Impact mixed",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "【CITIC Securities: Sees dollar index supported this year but rally unlikely to be sustained】CITIC Securities said the dollar index has rallied sharply, driving gold below $4,000/oz, and that easing inflation concerns have not weakened the dollar. Political 're-dollarization' may partly explain the move, but the firm sees expectations of tighter dollar liquidity as the dominant driver. It expects the dollar index to find support this year but for further upside to be difficult to sustain; the next US inflation print could be a catalyst for market re-pricing."
+    },
     {
       "id": "4955990",
       "time": "2026-06-26 08:00:23",
@@ -154830,123 +154899,6 @@
         "000660.KS"
       ],
       "text": "Samsung Electronics and SK Hynix shares hit record highs."
-    },
-    {
-      "id": "4944441",
-      "time": "2026-06-19 08:04:52",
-      "tags": [
-        "市場"
-      ],
-      "text": "WTI原油日內跌1%，現報75.09美元/桶。"
-    },
-    {
-      "id": "4944440",
-      "time": "2026-06-19 08:04:44",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "10年期日本國債收益率上漲2.5個基點，至2.640%。"
-    },
-    {
-      "id": "4944439",
-      "time": "2026-06-19 08:04:29",
-      "tags": [
-        "其他"
-      ],
-      "text": "【日經225指數漲幅擴大至1%】日經225指數漲幅擴大至1%，現報71923.98點。"
-    },
-    {
-      "id": "4944438",
-      "time": "2026-06-19 08:04:25",
-      "tags": [
-        "市場"
-      ],
-      "text": "布倫特原油日內跌1%，現報78.71美元/桶。"
-    },
-    {
-      "id": "4944437",
-      "time": "2026-06-19 08:04:11",
-      "tags": [
-        "市場"
-      ],
-      "text": "MSCI新興市場指數上漲0.6%，創歷史新高。"
-    },
-    {
-      "id": "mkt:019edd31-1818-7dd8-b08a-9358415f011c",
-      "time": "2026-06-19 08:04:02",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Japan's Nikkei 225 rose 1.00% intraday."
-    },
-    {
-      "id": "4944436",
-      "time": "2026-06-19 08:03:35",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "日本央行副行長冰見野良三：日本經濟正在溫和復甦。"
-    },
-    {
-      "id": "4944435",
-      "time": "2026-06-19 08:02:53",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "日本央行副行長：日本經濟正在溫和復甦。"
-    },
-    {
-      "id": "4944434",
-      "time": "2026-06-19 08:02:13",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "必和必拓股價下跌3.4%，此前該公司宣佈對鉀肥專案計提23億美元費用。"
-    },
-    {
-      "id": "mkt:019edd2f-1381-7dd8-b08a-8ef0f413c520",
-      "time": "2026-06-19 08:01:50",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC"
-      ],
-      "text": "Japan 5-year government bond yield rose 2.0 bps to 1.880%."
-    },
-    {
-      "id": "mkt:019edd2f-1227-7dd8-b08a-86aa6a67307f",
-      "time": "2026-06-19 08:01:49",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Japan & APAC",
-        "Nikkei 225",
-        "Impact bullish",
-        "005930.KS"
-      ],
-      "text": "【Japan, South Korea stocks open higher】Tokyo's Nikkei 225 opened up 372.55 points (+0.52%) at 71,426.04 on June 19 (Friday). Seoul's KOSPI opened up 231.44 points (+2.55%) at 9,295.28. Samsung Electronics shares rose 3%."
-    },
-    {
-      "id": "4944432",
-      "time": "2026-06-19 08:01:31",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "日本五年期國債收益率上升2個基點，至1.880%。"
-    },
-    {
-      "id": "4944431",
-      "time": "2026-06-19 08:01:21",
-      "tags": [
-        "國際"
-      ],
-      "text": "日本日經平均股指創下歷史新高。"
     }
   ]
 }
