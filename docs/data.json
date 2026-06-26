@@ -1,7 +1,100 @@
 {
-  "updated": "2026-06-27 03:33:00",
-  "count": 18099,
+  "updated": "2026-06-27 03:37:05",
+  "count": 18109,
   "items": [
+    {
+      "id": "mkt:019f056e-cb54-7dd8-b13e-a1c6e33c39d6",
+      "time": "2026-06-27 03:36:14",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. Secretary of State Rubio called for a clear, orderly process to restore Lebanese sovereignty, disarm Hezbollah and dismantle its infrastructure."
+    },
+    {
+      "id": "mkt:019f056e-96d8-7dd8-b13e-9de5cff70e07",
+      "time": "2026-06-27 03:36:01",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. Secretary of State Rubio said the framework agreement would allow Israel to return to its border if the security of its citizens is threatened."
+    },
+    {
+      "id": "mkt:019f056e-690d-7dd8-b13e-901cfcb5f81a",
+      "time": "2026-06-27 03:35:49",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Rubio said the US will remain fully engaged and commit substantial resources, coordinating with the United Nations, and will immediately provide $100 million in humanitarian assistance."
+    },
+    {
+      "id": "mkt:019f056e-2efa-7dd8-b13e-89de4bd84dba",
+      "time": "2026-06-27 03:35:34",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Rubio said the agreement, brokered by the United States, established a trilateral military coordination group for Lebanon."
+    },
+    {
+      "id": "4957957",
+      "time": "2026-06-27 03:35:31",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "索尼影業執行長預計 26 財年美國本土票房將突破 100 億美元。"
+    },
+    {
+      "id": "mkt:019f056d-ed33-7dd8-b13e-80a431cacf96",
+      "time": "2026-06-27 03:35:17",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "CFTC: For the week to June 23, speculative traders in NYMEX and ICE natural gas futures were net short 2,183 contracts, 3,515 contracts fewer than the prior week."
+    },
+    {
+      "id": "4957956",
+      "time": "2026-06-27 03:35:04",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "美國國務卿魯比奧：美國將保持全面介入，並投入大量資源，其中包括立即提供1億美元人道主義援助，該援助將與聯合國協調開展。"
+    },
+    {
+      "id": "4957955",
+      "time": "2026-06-27 03:34:16",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國國務卿魯比奧：協議建立了由美國推動的黎巴嫩三方軍事協調小組。"
+    },
+    {
+      "id": "4957954",
+      "time": "2026-06-27 03:32:58",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國商品期貨交易委員會（CFTC）資料顯示，截至6月23日當週，紐約商品交易所（COMEX）黃金投機客將淨多頭頭寸增加91手，至113,010手。"
+    },
+    {
+      "id": "4957953",
+      "time": "2026-06-27 03:32:45",
+      "tags": [
+        "市場"
+      ],
+      "text": "國商品期貨交易委員會（CFTC）：6月23日當週，投機者所持NYMEX WTI原油淨多頭頭寸下降12,491手合約，至88,486手合約。"
+    },
+    {
+      "id": "4957952",
+      "time": "2026-06-27 03:32:21",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國國務卿魯比奧：框架協議將允許以色列在其公民面臨的威脅消除後，撤回至原邊界線。"
+    },
     {
       "id": "mkt:019f056a-fdf0-7dd8-b13e-7d49dc067dd6",
       "time": "2026-06-27 03:32:05",
@@ -165523,14 +165616,6 @@
         "The Trump Trade"
       ],
       "text": "U.S. President Trump will begin his first domestic trip since the G7 summit with a visit to the Mack Trucks plant in Pennsylvania's Lehigh Valley."
-    },
-    {
-      "id": "4945421",
-      "time": "2026-06-20 03:35:17",
-      "tags": [
-        "國際"
-      ],
-      "text": "白宮：這就是美國的方式。（配圖：以實力謀求和平）"
     }
   ]
 }
