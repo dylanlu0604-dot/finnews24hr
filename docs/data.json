@@ -1,7 +1,41 @@
 {
-  "updated": "2026-06-26 20:23:04",
-  "count": 17875,
+  "updated": "2026-06-26 20:27:16",
+  "count": 17874,
   "items": [
+    {
+      "id": "4957506",
+      "time": "2026-06-26 20:26:15",
+      "tags": [
+        "公司"
+      ],
+      "text": "【通程控股：控股股東35%股權劃轉至長沙國控集團】通程控股公告稱，2026年6月22日，公司收到控股股東通程集團告知函，長沙市國資委已將其持有的通程集團35%股權全部劃轉至長沙國控集團，股權變更登記過戶手續已完成。通程集團持有公司44.33%股份，為控股股東。本次劃轉後，公司及通程集團股權結構未變，長沙國控集團持有通程集團35%股權。該事項不涉及重大資產重組，不影響控股股東和實控人，對公司經營無重大影響。"
+    },
+    {
+      "id": "4957505",
+      "time": "2026-06-26 20:26:04",
+      "tags": [
+        "公司"
+      ],
+      "text": "【邁普醫學：發行股份購易介醫療100%股權獲深交所稽核透過】邁普醫學公告稱，公司擬發行股份及支付現金購買廣州澤新醫療科技等10名交易對方持有的廣州易介醫療科技有限公司100%股權並募集配套資金。6月26日，深交所併購重組稽核委員會審議結果顯示，本次交易符合重組條件和資訊披露要求。本次交易尚需中國證監會同意註冊方可實施，能否獲批及時間仍不確定。"
+    },
+    {
+      "id": "4957504",
+      "time": "2026-06-26 20:25:23",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "美國上市的泰坦礦業股價盤前大漲21%，公司與美國陸軍簽署石墨加工租賃協議。"
+    },
+    {
+      "id": "4957502",
+      "time": "2026-06-26 20:24:28",
+      "tags": [
+        "國際"
+      ],
+      "text": "【外國在港政商界參訪團訪湖南 冀深化湘港聯動合作】外交部駐香港特別行政區特派員公署組織的外國在港政商界參訪團，25日在湖南參加“湖南優勢產業暨文旅推介會”，並實地走訪湘江新區及多家龍頭企業，近距離感知湖南產業與文旅發展優勢，探索依託香港內聯外通特色，搭建湘港聯動、聯通國際的合作橋樑。外交部駐港公署副特派員李永勝表示，湖南地處東部沿海與中西部過渡帶、長江經濟帶與粵港澳大灣區結合部，是多重國家戰略疊加之地，經濟實力雄厚、歷史文化底蘊深厚。此次參訪旨在讓訪團成員直觀感受湖南先進製造、生物醫藥、數字科創等領域新質生產力發展成果，深入瞭解湖南經貿政策與發展優勢；依託香港“超級聯絡人”“超級增值人”作用，助力湖南藉助香港拓展國際交往、對接全球市場。（新華社）"
+    },
     {
       "id": "4957501",
       "time": "2026-06-26 20:21:26",
@@ -163229,55 +163263,6 @@
         "國際"
       ],
       "text": "俄羅斯央行行長納比烏琳娜：確認我患上了流感。"
-    },
-    {
-      "id": "4945146",
-      "time": "2026-06-19 20:26:41",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "俄羅斯央行行長納比烏琳娜：我們根據自身分析做出利率決策。"
-    },
-    {
-      "id": "mkt:019edfd8-0a49-7dd8-b094-d9de778fd34a",
-      "time": "2026-06-19 20:25:37",
-      "tags": [
-        "MKT News",
-        "Brent",
-        "Impact bullish",
-        "XAUUSD",
-        "DXY"
-      ],
-      "text": "Iran foreign minister Araghchi, responding to an Israeli interior minister's call to destroy all of Lebanon, said the remark was not the rant of a genocidal madman but a public statement by Israeli regime national security officials and that its sole objective is perpetual war."
-    },
-    {
-      "id": "4945145",
-      "time": "2026-06-19 20:25:34",
-      "tags": [
-        "國際"
-      ],
-      "text": "印度證券交易委員會：國家證券交易所內部已批准對過往失誤進行結算，此事將很快得到解決。"
-    },
-    {
-      "id": "4945144",
-      "time": "2026-06-19 20:24:10",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "俄羅斯央行行長納比烏琳娜：若我們調整關鍵利率預期，更有可能是向上調整。"
-    },
-    {
-      "id": "te:markets:560479",
-      "time": "2026-06-19 20:23:37",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Rice Futures Up to Over 1-Week High — Rice futures rose above $12.2 per hundredweight, the highest in over a week, on climate risks and continued Middle East disruptions despite ample supply and relatively weak global demand. Major producers in Southeast Asia are bracing for an extreme El Niño weather pattern expected to bring hotter, drier conditions and potentially affect rice production. Philippines recently warned that it could cut paddy rice production by up to 700,000 tons, or 3.5% of the annual target. At the same time, farmers continued to face high input costs due to disrupted fuel and fertilizer supplies amid limited traffic through the Strait of Hormuz. Rice exports from Thailand slipped 10.75% from January to May compared to the same period of last year. Meanwhile, recent data showed India’s rice stocks held in government warehouses surged to a record high of 68.43 million metric tonnes as of June 1, up 15% yoy and more than five times the official buffer requirement of 13.5 million tonnes for July 1."
     }
   ]
 }
