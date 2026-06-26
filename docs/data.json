@@ -1,7 +1,76 @@
 {
-  "updated": "2026-06-26 22:29:50",
-  "count": 17947,
+  "updated": "2026-06-26 22:34:11",
+  "count": 17952,
   "items": [
+    {
+      "id": "mkt:019f0458-6c5f-7dd8-b139-78c8dc599dc8",
+      "time": "2026-06-26 22:32:11",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "The UAE said an early-warning system experienced a technical fault on Friday, causing erroneous alerts to be issued."
+    },
+    {
+      "id": "4957753",
+      "time": "2026-06-26 22:31:53",
+      "tags": [
+        "其他"
+      ],
+      "text": "阿聯酋宣告稱：週五預警系統發生技術故障，導致發出錯誤預警資訊。"
+    },
+    {
+      "id": "4957752",
+      "time": "2026-06-26 22:31:16",
+      "tags": [
+        "其他"
+      ],
+      "text": "阿聯酋宣告稱，預警系統技術故障已得到處置。"
+    },
+    {
+      "id": "mkt:019f0457-8237-7dd8-b139-758477e0b272",
+      "time": "2026-06-26 22:31:11",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "The UAE said it has resolved a technical fault in its early-warning system."
+    },
+    {
+      "id": "4957751",
+      "time": "2026-06-26 22:30:50",
+      "tags": [
+        "資料",
+        "市場",
+        "國際"
+      ],
+      "text": "【美國消費者信心回升 但仍接近紀錄低點】美國消費者信心6月回升，汽油價格下跌緩解了美國民眾面臨的高通脹壓力。密歇根大學週五公佈的調查顯示，6月消費者信心指數終值由5月的紀錄低點44.8升至49.5。儘管高於初值，但仍是該項資料自20世紀70年代有記錄以來的第二低水平。消費者預計未來一年物價將以4.6%的幅度上漲，低於5月預期的4.8%。他們還預計，未來5至10年物價將以3.3%的年率上漲，抹去了前一個月的大幅上升。近幾周，美國汽油價格每加侖平均下跌逾60美分，提振了居民信心。報告顯示，不同收入群體以及不同政治傾向消費者的信心均有所改善。不過，調查負責人Joanne Hsu在宣告中表示：“生活成本仍是消費者最關心的問題。超過半數消費者主動提到，高物價正拖累他們的個人財務狀況。”"
+    },
+    {
+      "id": "4957750",
+      "time": "2026-06-26 22:30:14",
+      "tags": [
+        "國際"
+      ],
+      "text": "【特朗普前國家安全事務助理認罪】美國總統特朗普第一個總統任期時的國家安全事務助理博爾頓今天（6月26日）在聯邦法院承認一項非法保留國家安全資訊的罪名。（CCTV國際時訊）"
+    },
+    {
+      "id": "mkt:019f0456-6df9-7dd8-b139-6d4fe7dc83e2",
+      "time": "2026-06-26 22:30:00",
+      "tags": [
+        "MKT News",
+        "EURUSD",
+        "Impact bullish",
+        "DAX"
+      ],
+      "text": "【Germany weighing €20bn income-tax cut as Merz advances reform agenda】The ruling coalition led by Chancellor Merz is negotiating a personal income-tax cut of up to €20 billion as part of a push to advance broader reforms. Parties remain split on how to finance the measure; CDU leadership and SPD leaders will meet Sunday to try to bridge differences over a proposal targeted at taxpayers with annual income up to €100,000. Coalition partners are preparing a July 1 meeting to finalise plans for pensions, healthcare and tax-system reforms intended to revive German economic growth."
+    },
+    {
+      "id": "4957749",
+      "time": "2026-06-26 22:29:03",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：黎巴嫩堅持要求將以色列全面撤軍內容納入談判最終宣告。"
+    },
     {
       "id": "4957748",
       "time": "2026-06-26 22:28:35",
@@ -163938,36 +164007,6 @@
         "國際"
       ],
       "text": "【黎巴嫩衛生部：以軍襲擊已致47人死亡】當地時間19日，黎巴嫩公共衛生部緊急行動中心稱，自19日凌晨以來，以色列國防軍的襲擊在黎巴嫩已造成47人死亡、97人受傷。以色列國防軍當地時間19日發表宣告稱，由於黎巴嫩真主黨屢次違反停火協議，以軍在過去一夜打擊了80多個黎真主黨目標，打死數十名真主黨成員。（央視新聞）"
-    },
-    {
-      "id": "te:markets:560512",
-      "time": "2026-06-19 22:33:59",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 0"
-      ],
-      "text": "Oil Steadies, Heads For Weekly Loss — Crude oil prices were near $77 per barrel on Friday and were heading toward a weekly decline of roughly 8% after Israel and Hezbollah reached a ceasefire agreement set to begin on Friday. The truce, if maintained, could remove a major obstacle to broader peace efforts between the US and Iran. Meanwhile, Tehran said vessels passing through the Strait of Hormuz would require mandatory insurance policies, which are currently free but could incur charges later, reinforcing its claims over the strategic waterway. Market data suggested shipping activity slowed after an earlier surge in tanker movements, with no outbound vessels seen leaving the Persian Gulf on Friday morning. In contrast, nearly 10 million barrels of crude were observed transiting or positioned near the strait on Thursday, including the first Saudi-owned tankers to move since the conflict began more than three months ago. Uncertainty continues after planned US-Iran talks in Switzerland were canceled."
-    },
-    {
-      "id": "te:markets:560510",
-      "time": "2026-06-19 22:31:33",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 2"
-      ],
-      "text": "Brent Holds Near $80, Set for Weekly Loss — Brent crude oil prices were near $80 per barrel on Friday and were heading toward a weekly decline of roughly 8% after Israel and Hezbollah reached a ceasefire agreement set to begin on Friday. The truce, if maintained, could remove a major obstacle to broader peace efforts between the US and Iran. Meanwhile, Tehran said vessels passing through the Strait of Hormuz would require mandatory insurance policies, which are currently free but could incur charges later, reinforcing its claims over the strategic waterway. Market data suggested shipping activity slowed after an earlier surge in tanker movements, with no outbound vessels seen leaving the Persian Gulf on Friday morning. In contrast, nearly 10 million barrels of crude were observed transiting or positioned near the strait on Thursday, including the first Saudi-owned tankers to move since the conflict began more than three months ago. Uncertainty continues after planned US-Iran talks in Switzerland were canceled."
-    },
-    {
-      "id": "4945294",
-      "time": "2026-06-19 22:31:05",
-      "tags": [
-        "國際"
-      ],
-      "text": "【經濟學家：加拿大除汽車和汽油外的支出明顯走弱】加拿大商會經濟學家Jasleen Trehan表示，4月份加拿大人在雜貨和日用百貨等日常品類上的支出明顯走弱。4月份名義零售額增長0.5%，但剔除汽車和汽油的核心銷售額下降了0.7%。Trehan說，5月份的預估增幅顯示出消費者具有韌性的跡象，但鑑於勞動力市場疲軟、對美國貿易政策揮之不去的不確定性以及對能源驅動的通貨膨脹的擔憂，未來的道路是不確定的。"
     }
   ]
 }
