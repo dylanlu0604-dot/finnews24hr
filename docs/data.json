@@ -1,7 +1,80 @@
 {
-  "updated": "2026-06-26 13:33:24",
-  "count": 17245,
+  "updated": "2026-06-26 13:37:27",
+  "count": 17252,
   "items": [
+    {
+      "id": "mkt:019f026e-49ed-7dd8-b12e-46cf3250b793",
+      "time": "2026-06-26 13:36:50",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Analyst: US 10-year Treasury yield likely to lack clear trend】SEB chief strategist Jussi Hiljanen said in a note that as markets priced higher odds of a durable US–Iran peace the US 10-year Treasury yield rose to 4.40% and is likely to trade around that level over the coming months. “We expect the US 10-year yield to lack a clear trend in the coming months, trading mostly in a 4.30%–4.50% range,” he said. SEB said a durable Middle East settlement alone is unlikely to push UST yields into a sustained downtrend; that would require supportive macro data and explicit Fed policy communication."
+    },
+    {
+      "id": "4956520",
+      "time": "2026-06-26 13:36:48",
+      "tags": [
+        "市場"
+      ],
+      "text": "【商業航天板塊再度拉昇，中國衛星漲停】商業航天板塊再度拉昇，中國衛星漲停，航天動力此前封板，電科藍天、上海瀚訊、廣聯航空漲超10%。"
+    },
+    {
+      "id": "mkt:019f026e-42fa-7dd8-b12e-3eb43fcfe3f5",
+      "time": "2026-06-26 13:36:48",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Taiwan's TAIEX fell 1,683.5 points, or 3.64%, to 44,571.76 at the close on Friday, June 26."
+    },
+    {
+      "id": "4956519",
+      "time": "2026-06-26 13:36:36",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【Anthropic進一步搶佔OpenAI市場份額：付費收入和使用者持續增長】美國頂尖人工智慧企業OpenAI與Anthropic之間的競爭日益激烈。據一份報告稱，Anthropic正在快速搶佔OpenAI的付費使用者市場份額。信用卡交易分析公司Indagari資料顯示，Anthropic旗艦模型Claude付費使用者和收入逐月增長，自2026年1月以來，該細分市場的收入增長了約75%。Indagari的資料來自2800萬美國消費者的數千億筆匿名信用卡交易記錄，覆蓋了2025年至2026年5月10日之間的每週交易。另一個AI線上教育平臺DataCamp也給出了類似的結論。其指出，平臺上的使用者今年對Claude的興趣呈爆炸式增長，Claude已經成為該網站上搜尋量最高的詞條，甚至超過了AI。"
+    },
+    {
+      "id": "4956518",
+      "time": "2026-06-26 13:36:12",
+      "tags": [
+        "市場"
+      ],
+      "text": "ZALANDO股價在Tradegate平臺下跌14.3%，此前德國金融監管機構對ZALANDO 2025年賬目展開調查。"
+    },
+    {
+      "id": "4956517",
+      "time": "2026-06-26 13:35:09",
+      "tags": [
+        "其他"
+      ],
+      "text": "臺灣證交所加權股價指數收低3.6%報44,571.76。"
+    },
+    {
+      "id": "mkt:019f026a-e8f3-7dd8-b12e-316ba18bd96b",
+      "time": "2026-06-26 13:33:08",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Market Regions",
+        "Europe & UK",
+        "EURUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "【Analyst: Limited scope for further decline in German 10-year bund yield】SEB chief strategist Jussi Hiljanen said in a note the rally in German government bonds may be near its end after the 10-year bund yield fell to about a multi-month low of 2.85%. He said a sustained move below 2.80% would require a clear dovish shift in the ECB policy outlook, which he judges premature. SEB expects the 10-year bund yield to recover to 2.90–3.00% ahead of the ECB meeting on July 23. Hiljanen added the longer-term trajectory will largely depend on whether markets begin to price further policy-rate cuts in 2027."
+    },
+    {
+      "id": "4956516",
+      "time": "2026-06-26 13:33:02",
+      "tags": [
+        "其他"
+      ],
+      "text": "港股大模型概念股震盪下挫，智譜、MINIMAX-W均跌超10%。"
+    },
     {
       "id": "4956515",
       "time": "2026-06-26 13:31:31",
@@ -157800,17 +157873,6 @@
         "國際"
       ],
       "text": "烏克蘭官方稱，敖德薩兩艘船隻遭無人機襲擊，致一人死亡。"
-    },
-    {
-      "id": "mkt:019ede60-4292-7dd8-b08e-298448d478de",
-      "time": "2026-06-19 13:35:10",
-      "tags": [
-        "MKT News",
-        "Important",
-        "WTI",
-        "Impact bullish"
-      ],
-      "text": "WTI crude up over 1% intraday, trading at $76.18/bbl."
     }
   ]
 }
