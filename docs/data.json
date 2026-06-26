@@ -1,7 +1,41 @@
 {
-  "updated": "2026-06-27 02:56:30",
+  "updated": "2026-06-27 03:00:53",
   "count": 18080,
   "items": [
+    {
+      "id": "4957929",
+      "time": "2026-06-27 03:00:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "恒指期貨夜盤收漲1.03%，報22882.37點，高水210.51點。"
+    },
+    {
+      "id": "mkt:019f054b-7e0b-7dd8-b13e-01189a15184e",
+      "time": "2026-06-27 02:57:41",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "According to CNBC, Anthropic is still negotiating with the U.S. government in an effort to return Mythos to the market."
+    },
+    {
+      "id": "4957928",
+      "time": "2026-06-27 02:57:16",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：Anthropic 仍在與美國政府協商，以期重啟 Mythos 專案。"
+    },
+    {
+      "id": "4957927",
+      "time": "2026-06-27 02:56:23",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國商務部長盧特尼克聲稱：歐洲剛剛透過了關於美歐貿易協議的歷史性立法。歐洲首次將關稅降至零。這是我們偉大的汽車製造商、漁民、牧場主以及眾多生產商的歷史性成就，他們終於在與歐洲貿易時擁有了公平的競爭環境。"
+    },
     {
       "id": "mkt:019f0549-277a-7dd8-b13d-f84114621af4",
       "time": "2026-06-27 02:55:08",
@@ -165305,39 +165339,6 @@
         "其他"
       ],
       "text": "墨西哥央行設定比索官方匯率為1美元兌17.3247墨西哥比索。"
-    },
-    {
-      "id": "4945405",
-      "time": "2026-06-20 03:00:10",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "美國總統特朗普：（談及七國集團）他們本應保留八國集團。如果那樣的話，俄烏之間可能就不會發生衝突了，但奧巴馬不想讓普京留在那裡。以前是八國集團。如果當初保留下來，會好得多。"
-    },
-    {
-      "id": "mkt:019ee140-cd69-7dd8-b09a-8fe64bdba9c5",
-      "time": "2026-06-20 02:59:40",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Trump said the G7 should have remained the G8, arguing that if it had, the Russia-Ukraine war might not have occurred; he said Obama opposed keeping Putin in the group and that it was better when it was the G8."
-    },
-    {
-      "id": "4945404",
-      "time": "2026-06-20 02:57:46",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國總統特朗普：（談及拜登）我們曾有過一個連一段樓梯都走不上去的人，我不想談這個，因為如果我稍微絆一下，他們就會說：“哦，這太糟糕了。”好吧，這種事是可能發生的。但你不能每次上臺都絆倒。"
-    },
-    {
-      "id": "mkt:019ee13f-02d0-7dd8-b09a-83820ac48f79",
-      "time": "2026-06-20 02:57:43",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "U.S. President Trump said of Biden that they once had someone who couldn't even climb a short flight of stairs, and that he avoids discussing it because any slight misstep would prompt criticism."
     }
   ]
 }
