@@ -1,7 +1,101 @@
 {
-  "updated": "2026-06-26 20:02:12",
-  "count": 17870,
+  "updated": "2026-06-26 20:06:20",
+  "count": 17875,
   "items": [
+    {
+      "id": "4957474",
+      "time": "2026-06-26 20:05:19",
+      "tags": [
+        "公司"
+      ],
+      "text": "【萬通發展：選舉王薇為董事長】萬通發展6月26日公告，因個人原因，王憶會辭去公司董事、董事長及董事會戰略委員會主任委員、提名委員會委員職務。根據相關規定，王憶會的辭呈自送達公司董事會之日起生效。公司於6月26日召開第九屆董事會第二十八次臨時會議，選舉董事王薇為董事長，根據《公司章程》規定，法定代表人變更為王薇。董事長的任期自本次董事會審議透過之日起至第九屆董事會任期屆滿之日止。"
+    },
+    {
+      "id": "4957472",
+      "time": "2026-06-26 20:04:37",
+      "tags": [
+        "公司"
+      ],
+      "text": "【珠海冠宇：向特定物件發行股票的註冊申請獲中國證監會同意批覆】珠海冠宇(688772)6月26日公告，公司於近日收到中國證券監督管理委員會出具的《關於同意珠海冠宇電池股份有限公司向特定物件發行股票註冊的批覆》，同意公司向特定物件發行股票的註冊申請。"
+    },
+    {
+      "id": "4957471",
+      "time": "2026-06-26 20:03:36",
+      "tags": [
+        "公司"
+      ],
+      "text": "禾潤電子科技（嘉興）股份有限公司創業板IPO獲受理。"
+    },
+    {
+      "id": "4957470",
+      "time": "2026-06-26 20:03:31",
+      "tags": [
+        "公司"
+      ],
+      "text": "廣東德聚技術股份有限公司創業板IPO獲受理。"
+    },
+    {
+      "id": "4957469",
+      "time": "2026-06-26 20:03:28",
+      "tags": [
+        "其他"
+      ],
+      "text": "【兔寶寶與中國林科院木材所召開合作交流會】6月26日，兔寶寶與中國林科院木材所召開合作交流會。兔寶寶副總經理、研究院院長詹先旭表示，與中國林科院木材所的長期合作是兔寶寶技術創新的重要支撐，未來希望在行業前沿領域，與木材所的專家團隊進一步深化合作，共同攻克行業技術難題，推進木材加工產業向綠色、安全、高效方向發展。"
+    },
+    {
+      "id": "4957468",
+      "time": "2026-06-26 20:02:28",
+      "tags": [
+        "公司"
+      ],
+      "text": "【天宸股份：持股5%以上股東擬減持不超3%股份】天宸股份公告稱，截至公告披露日，股東清哲基金持有公司46,375,278股無限售流通股，佔總股本的6.75%。清哲基金計劃自公告披露之日起15個交易日後的3個月內（2026年7月20日至10月19日），以集中競價、大宗交易方式合計減持不超20,600,313股，即不超公司總股本的3%。減持原因為資產配置調整等。"
+    },
+    {
+      "id": "mkt:019f03cf-5168-7dd8-b136-baf0c5e8420c",
+      "time": "2026-06-26 20:02:26",
+      "tags": [
+        "MKT News",
+        "SPCX.O",
+        "Impact bullish"
+      ],
+      "text": "Quantum Cyber has been cleared to acquire a partial equity stake in SpaceX (SPCX.O)."
+    },
+    {
+      "id": "4957467",
+      "time": "2026-06-26 20:02:14",
+      "tags": [
+        "市場"
+      ],
+      "text": "波羅的海乾散貨指數下跌2.59%，至2524點。"
+    },
+    {
+      "id": "4957466",
+      "time": "2026-06-26 20:02:11",
+      "tags": [
+        "其他"
+      ],
+      "text": "迅雷宣佈2000萬美元股票回購計劃。"
+    },
+    {
+      "id": "mkt:019f03cf-16f0-7dd8-b136-b784d0682321",
+      "time": "2026-06-26 20:02:11",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Baltic Dry Index fell 2.59% to 2,524 points."
+    },
+    {
+      "id": "mkt:019f03ce-b2ed-7dd8-b136-a8de5ae0b8c9",
+      "time": "2026-06-26 20:01:45",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "Shanghai Gold Exchange gold T+D opened the Friday night session up 1.1% at 882.84 yuan/gram; silver T+D opened up 1.39% at 14,117.0 yuan/kg."
+    },
     {
       "id": "4957464",
       "time": "2026-06-26 20:01:19",
@@ -163200,63 +163294,6 @@
         "其他"
       ],
       "text": "英國競爭與市場管理局（CMA）：上訴法院已裁定，該裁判庭撤銷CMA對苯妥英鈉調查相關決定的做法存在錯誤。"
-    },
-    {
-      "id": "4945123",
-      "time": "2026-06-19 20:04:21",
-      "tags": [
-        "央行",
-        "市場",
-        "國際"
-      ],
-      "text": "俄羅斯央行行長納比烏琳娜：燃油價格上漲或將推高通脹增速。"
-    },
-    {
-      "id": "4945122",
-      "time": "2026-06-19 20:04:04",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "市場訊息：東京電力將推進以軟銀在內的五大集團為核心的資本結盟談判。其他四個競購方分別是日本產業合作伙伴、KKR、黑石集團和貝萊德旗下子公司。"
-    },
-    {
-      "id": "te:markets:560475",
-      "time": "2026-06-19 20:03:16",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Russia",
-        "Currency",
-        "Importance 1"
-      ],
-      "text": "Russian Ruble Eases from 3-Year High — The Russian ruble weakened to 73 per dollar from the three-year high of 70 in late May as the deteriorating fiscal backdrop momentarily offset the support from capital controls and elevated energy prices. The Bank of Russia projected that fiscal policy will be more accommodative than expected in the upcoming three years, as the federal government continued to increase its bond supply to finance the costly war in Ukraine and subsidies for industries that have been hampered by sanctions from the West since 2022. This trimmed gains from the surge after the war in the Middle East lifted energy prices and drove major energy consumers to turn to Russia for supply alternatives. On top of that, the series of sanctions and the slowdown in the Russian economy limited domestic demand for foreign goods, hampering the purchases of foreign currency that further strengthened the ruble. The Russian GDP contracted by 0.2% annually in the first quarter."
-    },
-    {
-      "id": "4945121",
-      "time": "2026-06-19 20:03:15",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "俄羅斯央行行長納比烏琳娜：燃料價格暴漲將對 6 月通脹造成影響。"
-    },
-    {
-      "id": "4945120",
-      "time": "2026-06-19 20:02:41",
-      "tags": [
-        "國際"
-      ],
-      "text": "西門子與法國國立高等工程技術學院簽署戰略合作協議，共同推動法國及歐洲工業創新。"
-    },
-    {
-      "id": "4945119",
-      "time": "2026-06-19 20:02:17",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "俄羅斯央行行長納比烏琳娜：通脹上行風險或將壓縮降息空間。"
     }
   ]
 }
