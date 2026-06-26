@@ -1,7 +1,70 @@
 {
-  "updated": "2026-06-27 02:05:13",
-  "count": 18048,
+  "updated": "2026-06-27 02:09:11",
+  "count": 18054,
   "items": [
+    {
+      "id": "4957902",
+      "time": "2026-06-27 02:08:37",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列總理內塔尼亞胡：以色列將無限期地留在黎巴嫩南部的安全區內，直至真主黨解除武裝且不再構成威脅。該協議不包括以色列全面撤軍，這與黎巴嫩最初的要求相比發生了重大轉變。在進行更廣泛的控制權移交之前，黎巴嫩軍隊將逐步透過以色列國防軍建議的兩個試點區域進行部署。以色列將維持其原有的安全緩衝區，該緩衝區位於真主黨反坦克導彈射程之外，並且不允許真主黨或平民進入。以色列自主決定自身安全優先次序的自由仍然是該協議的指導原則。"
+    },
+    {
+      "id": "mkt:019f051e-4a6c-7dd8-b13d-0af1cb79aa44",
+      "time": "2026-06-27 02:08:18",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Prime Minister Netanyahu said Israel's freedom to independently determine the priority of its own security remains the guiding principle of the agreement."
+    },
+    {
+      "id": "mkt:019f051e-0929-7dd8-b13d-0618252e9831",
+      "time": "2026-06-27 02:08:02",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Israel's Prime Minister NETANYAHU said Israel will maintain its existing security buffer, located beyond the range of Hezbollah anti‑tank missiles, and will bar Hezbollah and civilians from entering."
+    },
+    {
+      "id": "mkt:019f051d-d048-7dd8-b13c-feddd57731d7",
+      "time": "2026-06-27 02:07:47",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Netanyahu said the Lebanese army will be gradually deployed into two pilot zones proposed by the Israel Defense Forces before any broader transfer of control."
+    },
+    {
+      "id": "mkt:019f051d-56be-7dd8-b13c-f760a2ae5754",
+      "time": "2026-06-27 02:07:16",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "According to Israeli broadcaster i24News, Prime Minister Netanyahu called the agreement a strategic failure for Iran and said Tehran has no role in Lebanon’s future."
+    },
+    {
+      "id": "mkt:019f051d-094d-7dd8-b13c-edf5c8a9d93a",
+      "time": "2026-06-27 02:06:56",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Israeli Prime Minister Netanyahu said the agreement does not include a full Israeli withdrawal, a significant shift from Lebanon's original demand."
+    },
+    {
+      "id": "mkt:019f051c-d83c-7dd8-b13c-e16d332b9cd6",
+      "time": "2026-06-27 02:06:44",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD"
+      ],
+      "text": "Israeli Prime Minister Netanyahu said Israel will remain indefinitely in the security zone in southern Lebanon until Hezbollah is disarmed and no longer poses a threat."
+    },
     {
       "id": "4957901",
       "time": "2026-06-27 02:04:34",
@@ -165046,14 +165109,6 @@
         "國際"
       ],
       "text": "特朗普：我有辦法約束以色列，使其不對黎巴嫩發動襲擊。"
-    },
-    {
-      "id": "4945388",
-      "time": "2026-06-20 02:08:43",
-      "tags": [
-        "國際"
-      ],
-      "text": "據Axios：美國總統特朗普稱巴西總統盧拉是一個 “情緒反覆無常” 的人。 古巴方面迫切希望展開對話。"
     }
   ]
 }
