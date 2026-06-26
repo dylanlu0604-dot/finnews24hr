@@ -1,7 +1,87 @@
 {
-  "updated": "2026-06-26 08:28:58",
-  "count": 16921,
+  "updated": "2026-06-26 08:32:57",
+  "count": 16926,
   "items": [
+    {
+      "id": "4956029",
+      "time": "2026-06-26 08:32:22",
+      "tags": [
+        "國際"
+      ],
+      "text": "韓國國防部長官：將迅速擴充無人機及反無人機部隊。"
+    },
+    {
+      "id": "4956028",
+      "time": "2026-06-26 08:32:05",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "30年期日本國債收益率上漲1.5個基點，至3.840%。"
+    },
+    {
+      "id": "4956027",
+      "time": "2026-06-26 08:31:57",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【瑞典能源公司Orrön Energy宣佈達成戰略交易，將設立北歐領先獨立發電企業】當地時間6月25日，瑞典能源公司Orrön Energy宣佈與挪威可再生能源公司Cloudberry Clean Energy達成協議。Orrön Energy表示，將把公司除Karskruv風電場外的北歐可再生能源平臺及組織與Cloudberry進行合併，由此設立一家領先的北歐獨立發電企業。作為本次交易的對價，Orrön Energy將獲得合併後Cloudberry 27.01%的股份，成為其最大股東。Orrön Energy將繼續持有Karskruv風電場及其大型歐洲開發業務，包括資料中心、太陽能和電池專案。"
+    },
+    {
+      "id": "4956026",
+      "time": "2026-06-26 08:31:04",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本5月5月煤炭進口總量同比增長11.8%，動力煤進口量增長14.1%，無煙煤進口量增長64.3%；日本5月液化天然氣進口量下降15.1%。"
+    },
+    {
+      "id": "4956025",
+      "time": "2026-06-26 08:30:37",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本5月原油進口量下降57.3%。"
+    },
+    {
+      "id": "4956024",
+      "time": "2026-06-26 08:30:24",
+      "tags": [
+        "其他"
+      ],
+      "text": "【中網投董事長吳海：AI已成\"原子級技術\"，一級市場投融資持續活躍】MWC2026上海期間，中國網際網路投資基金董事長吳海致辭表示，\"十五五\"規劃中AI定位戰略升級，已成為\"產業創新核心\"和\"原子級技術\"，將深度嵌入研發、製造、檢測全環節。一級市場AI投融資自2023年起持續高活躍，具身機器人、多模態模型等方向融資走高。中網投在AI領域長期佈局三大方向：基礎創新（模型演算法）、基礎設施（AI晶片、資料平臺）、產業融合（具身智慧、自動駕駛、AI安全）。"
+    },
+    {
+      "id": "4956023",
+      "time": "2026-06-26 08:30:10",
+      "tags": [
+        "市場"
+      ],
+      "text": "上海證交所上日融資餘額上漲0.7%至15,211.1億元。"
+    },
+    {
+      "id": "te:markets:562024",
+      "time": "2026-06-26 08:29:52",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "US Futures Steady After Choppy Session — US stock futures were little changed on Friday after the major indexes ended mixed in the previous session following volatile trading, as renewed weakness in megacap technology stocks offset optimism driven by a bullish outlook for memory-chip makers. On Thursday, the Nasdaq Composite fell 0.46%, marking its fourth consecutive day of losses, as an early rally sparked by Micron’s upbeat forecast gave way to broad selling across the technology sector. Micron surged 15.7% after reporting strong earnings and issuing a robust revenue outlook for the August quarter, lifting other chip-related stocks including Sandisk (22%), Applied Materials (13.4%), and Western Digital (4.9%). Meanwhile, megacap technology shares remained under pressure, with Apple (-6.1%), Nvidia (-1.6%), Microsoft (-3.5%), Amazon (-3.1%), and Meta (-2.7%) all posting losses."
+    },
+    {
+      "id": "4956022",
+      "time": "2026-06-26 08:29:41",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "【中韓半導體ETF華泰柏瑞：將於2026年6月26日開市起至當日10:30停牌】近期，華泰柏瑞基金管理有限公司（以下簡稱 “本公司”）旗下華泰柏瑞中證韓交所中韓半導體交易型開放式指數證券投資基金（QDII）（擴位證券簡稱：中韓半導體 ETF 華泰柏瑞，交易程式碼：513310，以下簡稱 “本基金”）二級市場交易價格顯著高於基金份額參考淨值，存在大幅溢價情形。特此提醒投資者警惕二級市場交易溢價風險，若盲目參與投資，或將產生重大虧損。為維護投資者合法權益，本基金將於 2026 年 6 月 26 日開盤起至當日 10:30 實施停牌。如午市收盤時，本基金二級市場交易溢價幅度仍維持高位，公司有權向上海證券交易所申請，於 2026 年 6 月 26 日下午盤中臨時停牌直至收盤，以此向市場提示風險，具體安排以屆時釋出公告為準。"
+    },
     {
       "id": "4956021",
       "time": "2026-06-26 08:28:13",
@@ -154730,39 +154810,6 @@
         "國際"
       ],
       "text": "美國貿易代表辦公室宣告：美國與墨西哥已同意支援設立一個委員會，以審議《美墨加協定》第12章的落實情況，加強監管相容性。"
-    },
-    {
-      "id": "mkt:019edd4b-031f-7dd8-b08a-f2862addc5e6",
-      "time": "2026-06-19 08:32:21",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "U.S. Trade Representative met with Mexico's economy minister to discuss a joint review and bilateral trade relations."
-    },
-    {
-      "id": "4944480",
-      "time": "2026-06-19 08:31:58",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國貿易代表辦公室宣告：美國貿易代表與墨西哥經濟部長舉行會晤，討論共同審查事宜及雙邊貿易關係。"
-    },
-    {
-      "id": "4944479",
-      "time": "2026-06-19 08:31:06",
-      "tags": [
-        "國際"
-      ],
-      "text": "【美防長當面批評北約盟友】美國國防部長赫格塞思6月18日在布魯塞爾舉行的北約防長會上當面批評部分北約盟友，稱這些歐洲盟國在美國此前對伊朗採取軍事行動時未向美軍提供基地使用、駐紮和飛越等便利，稱這些做法“可恥”。赫格塞思同時宣佈，美國將審查其在歐洲的兵力態勢和基地部署情況，要求歐洲承擔本地區常規防務主要責任。赫格塞思將這一審查稱為“北約3.0審查”，為期至多6個月。他說，將聽取美軍歐洲司令部、美國國會、盟友等意見，重點審視美國在歐洲的兵力部署、基地安排以及相關准入、駐紮和飛越機制。赫格塞思警告稱，某些國家在這項審查中將“不及格”。(CCTV國際時訊)"
-    },
-    {
-      "id": "4944478",
-      "time": "2026-06-19 08:30:31",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【美國法院裁定俄亥俄州可限制兒童使用社交媒體】美國一家上訴法院週四裁定，俄亥俄州可實施一項法律，要求包括Meta Platforms旗下的Instagram在內的社交媒體公司，在允許16歲以下兒童使用其平臺前必須獲得家長同意。位於辛辛那提的美國第六巡迴上訴法院一個由三名法官組成的合議庭以2比1的投票結果，推翻了下級法院此前應科技行業貿易組織NetChoice請求而作出的、暫停該法律實施的裁決。合議庭認定，該法律並未違反《美國憲法》第一修正案所保障的言論自由。NetChoice在一份宣告中表示，法院的裁決威脅到俄亥俄州居民的網路隱私和憲法權利，但該組織“仍然完全相信，這項違憲的法律最終將被永久廢除”。俄亥俄州總檢察長大衛·約斯特（David Yost）未立即回應置評請求。"
     }
   ]
 }
