@@ -1,7 +1,140 @@
 {
-  "updated": "2026-06-26 23:27:28",
-  "count": 17958,
+  "updated": "2026-06-26 23:31:50",
+  "count": 17959,
   "items": [
+    {
+      "id": "4957815",
+      "time": "2026-06-26 23:30:56",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲卡什卡利： 我們還需觀察取消前瞻性指引的實際效果。"
+    },
+    {
+      "id": "4957814",
+      "time": "2026-06-26 23:30:32",
+      "tags": [
+        "央行",
+        "焦點",
+        "國際"
+      ],
+      "text": "美聯儲卡什卡利：我預計 2026 年還會加息一次，通脹上行不只是石油、中東局勢所致， 此時調整聯邦公開市場委員會宣告措辭恰逢其時。"
+    },
+    {
+      "id": "te:economy:562298",
+      "time": "2026-06-26 23:30:05",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Zambia",
+        "Government Bond 10Y",
+        "Importance 0"
+      ],
+      "text": "Zambia 10Y Bond Yield Hits 9-year Low — Zambia 10 Year Government Bond Yield decreased to 16.84%, the lowest since May 2017. Over the past 4 weeks, Zambia Government Bond 10y lost 1.00 basis points, and in the last 12 months, it decreased 215.00 basis points."
+    },
+    {
+      "id": "mkt:019f048d-59eb-7dd8-b13a-3f142d573a50",
+      "time": "2026-06-26 23:30:00",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Fed's Kashkari said the central bank needs to see how policy works without forward guidance."
+    },
+    {
+      "id": "mkt:019f048d-4611-7dd8-b13a-300b85a527d8",
+      "time": "2026-06-26 23:29:55",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact mixed",
+        "US10Y",
+        "S&P500"
+      ],
+      "text": "Fed's Kashkari says now is an appropriate time to reset the FOMC statement."
+    },
+    {
+      "id": "4957813",
+      "time": "2026-06-26 23:29:40",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲卡什卡利： 我預計 2027 年利率將維持不變， 擔憂通脹問題，尤其是服務業通脹。"
+    },
+    {
+      "id": "mkt:019f048c-f595-7dd8-b13a-2c906564f79a",
+      "time": "2026-06-26 23:29:34",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "Impact bearish",
+        "EURUSD"
+      ],
+      "text": "Federal Reserve's Kashkari said the labor market is showing some signs of recovery."
+    },
+    {
+      "id": "mkt:019f048c-d42d-7dd8-b13a-27d4ac530dee",
+      "time": "2026-06-26 23:29:25",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "Fed Governor Kashkari said the rise in inflation is not solely attributable to oil or Middle East-related factors."
+    },
+    {
+      "id": "4957812",
+      "time": "2026-06-26 23:29:16",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲卡什卡利：勞動力市場顯現回暖跡象。"
+    },
+    {
+      "id": "mkt:019f048c-9c14-7dd8-b13a-1883c66895f0",
+      "time": "2026-06-26 23:29:11",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "【Putin extends ban on oil supplies tied to G7/EU price cap to Dec. 31, 2027】Russian President Putin signed a decree on June 26 extending a ban on supplying Russian oil and petroleum products to foreign legal entities and individuals where supply contracts directly or indirectly stipulate a G7 or EU price cap mechanism. The measure, aimed at countering Western oil price limits, was due to expire on June 30 and now runs through Dec. 31, 2027. The ban covers all delivery stages. The decree first took effect on Feb. 1, 2023 and has been extended several times."
+    },
+    {
+      "id": "4957811",
+      "time": "2026-06-26 23:28:27",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【普京簽署總統令 延長反制西方對俄石油限價措施】當地時間6月26日，俄羅斯總統普京簽署總統令，將七國集團和歐盟所設價格上限的俄羅斯石油及石油產品供應禁令延長至2027年12月31日。該禁令原定於6月30日到期。根據新法令，若俄羅斯石油及其產品的供應合同直接或間接規定了價格上限機制，則禁止向外國法人和個人供應相關產品。該禁令適用於所有交付環節。這項旨在反制石油價格上限的總統令於2023年2月1日生效，其有效期已多次延長。（央視新聞）"
+    },
+    {
+      "id": "4957810",
+      "time": "2026-06-26 23:27:57",
+      "tags": [
+        "其他"
+      ],
+      "text": "北約秘書長呂特將於週一會晤英國首相斯塔默、 英國外交大臣庫珀與英國國防大臣賈維斯。"
+    },
     {
       "id": "mkt:019f0488-5bae-7dd8-b13a-10dd006f54d3",
       "time": "2026-06-26 23:24:32",
@@ -164007,98 +164140,6 @@
         "MKT News"
       ],
       "text": "The Texas Supreme Court ruled that SpaceX may continue launching rockets near Texas public beaches, finding private environmental groups seeking to block launches on safety grounds lack legal recourse."
-    },
-    {
-      "id": "4945340",
-      "time": "2026-06-19 23:31:33",
-      "tags": [
-        "其他",
-        "國際"
-      ],
-      "text": "衛報：伯納姆預計將於週一前往倫敦會見議員。"
-    },
-    {
-      "id": "4945339",
-      "time": "2026-06-19 23:31:09",
-      "tags": [
-        "市場"
-      ],
-      "text": "【義大利股市繼續創收盤歷史新高】德國DAX 30指數初步收漲0.09%，報25049.50點，本週累漲約1.6%。法國股指初步收跌0.29%，義大利股指初步收漲0.54%、銀行指數漲0.26%，英國股指初步收跌0.33%。"
-    },
-    {
-      "id": "4945338",
-      "time": "2026-06-19 23:31:01",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "歐洲STOXX 600指數初步收跌0.12%，報636.35點，連續兩個交易日撤離收盤歷史最高位，本週累漲約0.5%。歐元區STOXX 50指數初步收跌0.16%，報6313.37點，也撤離收盤歷史最高位，本週累漲約2%。富時泛歐績優300指數初步收跌0.10%，報2547點。"
-    },
-    {
-      "id": "4945337",
-      "time": "2026-06-19 23:29:48",
-      "tags": [
-        "其他"
-      ],
-      "text": "市場訊息：得州法官裁定允許 SpaceX 在海灘附近發射火箭。"
-    },
-    {
-      "id": "4945336",
-      "time": "2026-06-19 23:29:22",
-      "tags": [
-        "國際"
-      ],
-      "text": "【泰國告知柬埔寨就重疊海域問題強制調解程式人員安排】泰國外交部19日發表宣告說，泰國已向柬埔寨遞交覆函，向柬方告知泰方有關啟動《聯合國海洋法公約》強制調解程式的人員安排，並表示泰方致力於和平解決爭端。宣告說，泰國已任命其副總理兼外交部長西哈薩為本次調解程式首席代理人，泰國駐科威特大使頌猜為副代理人。泰方還同時任命了兩名外籍調解員。泰方強調，參與本次調解的唯一目標是依據《聯合國海洋法公約》劃定兩國海洋邊界，期待本次調解能夠推動兩國達成具有建設性、可長期落實的爭端解決方案。（新華社）"
-    },
-    {
-      "id": "mkt:019ee080-2204-7dd8-b098-d32a8f1f2dca",
-      "time": "2026-06-19 23:29:14",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【IAEA: 750 kV main transmission line to Zaporizhzhia nuclear plant enters repairs】The IAEA said on the 19th that, after its mediation, Russian and Ukrainian forces agreed a local ceasefire and began same-day repairs to the 750 kV main transmission line supplying the Zaporizhzhia nuclear plant. The plant, one of Europe’s largest, has been under Russian control since February 2022 and has suffered repeated shelling and drone attacks, prompting international safety concerns."
-    },
-    {
-      "id": "4945335",
-      "time": "2026-06-19 23:29:06",
-      "tags": [
-        "國際"
-      ],
-      "text": "【國際原子能機構：扎波羅熱核電站主輸電線路開始維修】國際原子能機構19日表示，在該機構斡旋下，俄羅斯和烏克蘭達成了區域性停火，並在當天開始維修向核電站供電的750千伏主輸電線路。扎波羅熱核電站是歐洲最大核電站之一，2022年2月烏克蘭危機全面升級後被俄方控制。此後，這座核電站多次遭炮擊和無人機攻擊，引發國際社會對其安全的擔憂。（央視新聞）"
-    },
-    {
-      "id": "mkt:019ee07f-c062-7dd8-b098-cce1355c26a4",
-      "time": "2026-06-19 23:28:49",
-      "tags": [
-        "MKT News",
-        "GBPUSD",
-        "Impact bearish"
-      ],
-      "text": "UK Environment Secretary Reynolds said holding a leadership contest poses substantial risk."
-    },
-    {
-      "id": "4945334",
-      "time": "2026-06-19 23:28:30",
-      "tags": [
-        "其他"
-      ],
-      "text": "英國環境大臣：我認為發起黨內領袖競選存在巨大風險。"
-    },
-    {
-      "id": "4945333",
-      "time": "2026-06-19 23:27:56",
-      "tags": [
-        "市場"
-      ],
-      "text": "市場訊息： 嘉信理財正與芝加哥期權交易所合作，推出掛鉤標普 500 指數表現的二元期權合約。"
-    },
-    {
-      "id": "mkt:019ee07e-c0b6-7dd8-b098-c025c5d52606",
-      "time": "2026-06-19 23:27:43",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【AI boom drives Chinese mutual funds to boost Korea exposure】Chinese mutual funds are increasing Korea exposure as global AI demand lifts the country’s tech sector, launching Korea-themed ETFs and raising Korea allocations in active QDII equity mandates. Asset managers say Korean equities trade below US peers and that AI-driven long-term upside leaves scope for valuation re-rating. Several firms have warned about speculative trading in recent Korea-themed ETFs."
     }
   ]
 }
