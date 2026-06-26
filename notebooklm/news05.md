@@ -1,7 +1,313 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-06-26 23:58:00_
-_本檔包含 3497 則快訊，約 664420 字_
+_更新時間：2026-06-27 00:53:10_
+_本檔包含 3511 則快訊，約 665537 字_
+
+---
+
+### 2026-06-22 17:58:32  #公司 #市場
+
+【四川黃金：持股5%以上股東減持計劃實施完畢 減持326.52萬股】四川黃金公告稱，持股5%以上股東北京金陽礦業投資有限責任公司減持計劃實施完畢。2026年4月15日至6月18日，其透過集中競價交易減持326.52萬股，佔總股本0.7774%，減持均價45.59元/股，減持價格區間為42.00元/股 - 57.62元/股。減持後，北京金陽持股比例從9.2941%降至8.5167%。本次減持符合相關規定，實際減持數量未超計劃。
+
+---
+
+### 2026-06-22 17:58:17  #公司 #市場
+
+【ST海龍：股票交易異常波動 提示多項風險】ST海龍公告稱，公司股票於2026年6月17日、18日、22日連續三個交易日收盤價格跌幅偏離值累計超12%，屬異常波動。2026年一季度營收27663萬元，淨利潤502萬元。公司擬收購西安市群健航空精密製造有限公司不少於40%股權，目前處盡職調查階段。同時，濰坊市國恆產業發展集團起訴公司利益責任糾紛一案已進入執行階段，若還款問題未解決，公司可能喪失核心子公司控制權。此外，若2026年度內部控制審計被出具無法表示或否定意見，公司股票將被實施退市風險警示。
+
+---
+
+### 2026-06-22 17:58:09  #公司
+
+【證監會：准予華夏凱德封閉式商業不動產證券投資基金註冊】證監會今日釋出公告，准予華夏基金管理有限公司註冊華夏凱德封閉式商業不動產證券投資基金，基金型別為契約型封閉式，基金合同期限為32年。准予基金的募集份額總額為7億份。同意你公司為基金的基金管理人，招商銀行股份有限公司為基金的基金託管人。公司應自本批覆下發之日起6個月內進行基金的募集活動，募集期限自基金份額髮售之日起不得超過3個月。
+
+---
+
+### 2026-06-22 17:57:49  #公司 #市場
+
+【*ST亞士：股票交易異常波動 不存在應披露未披露事項】*ST亞士公告稱，公司股票於2026年6月17日、18日、22日連續三個交易日內日收盤價格跌幅偏離值累計超12%，屬異常波動。經自查及徵詢控股股東和實控人，不存在應披露未披露重大事項。受行業疲軟影響，重慶、石家莊、滁州防水工廠停產，廣州工廠停建。截至2025年12月31日，公司期末淨資產為 -6491.49萬元，股票已被實施退市風險警示。公司提醒投資者注意交易風險。
+
+---
+
+### 2026-06-22 17:57:30  #公司 #市場
+
+【鄭商所調整部分期貨合約交易保證金標準、漲跌停板幅度、交易手續費標準和交易指令每次最小開倉下單量】鄭商所公告，一、自2026年6月24日結算時起，PTA期貨2608及2609合約的交易保證金標準調整為10%，漲跌停板幅度調整為9%；甲醇期貨2608及2609合約的交易保證金標準調整為10%，漲跌停板幅度調整為9%；短纖期貨2608及2609合約的交易保證金標準調整為10%，漲跌停板幅度調整為9%；對二甲苯期貨2608及2609合約的交易保證金標準調整為10%，漲跌停板幅度調整為9%；瓶片期貨2608及2609合約的交易保證金標準調整為10%，漲跌停板幅度調整為9%；丙烯期貨2608及2609合約的交易保證金標準調整為10%；矽鐵、錳矽期貨合約的交易保證金標準調整為7%，漲跌停板幅度調整為6%。
+
+二、自2026年6月23日當晚夜盤交易時起，白糖期貨合約的交易手續費標準調整為2元/手，免收菜粕期貨合約的日內平今倉交易手續費。
+
+三、自2026年6月24日起，花生期貨合約的交易手續費標準調整為2元/手，日內平今倉交易手續費標準調整為2元/手；矽鐵、錳矽期貨合約的交易手續費標準調整為2元/手。
+
+四、自2026年6月23日當晚夜盤交易時起，甲醇期貨2608及2609合約的交易指令每次最小開倉下單量調整為1手，對二甲苯期貨2608及2609合約的交易指令每次最小開倉下單量調整為1手。
+
+---
+
+### 2026-06-22 17:57:15  #Trading Economics #Markets #Commodity #Importance 1
+
+Lithium Slides to 10-Week Low on Possible CATL Mine Return — Lithium carbonate prices in China dropped to CNY 157,000 per tonne, the lowest level in ten weeks, following speculation that one of the world’s largest lithium mines could resume operations soon. Contemporary Amperex Technology’s Jianxiawo mine in Jiangxi province was suspended last year due to permitting issues, but a recent government notice regarding a preliminary land assessment has fueled expectations that the site could restart in the second half of 2026. However, the notice did not confirm any reopening plans and appears to be a procedural step related to land-use approval. Analysts said the market has already priced in the possibility of a near-term restart, despite limited confirmation. They warned that a potential return of Jianxiawo output could weigh on prices, but still expects lithium supply and demand conditions to remain relatively tight as significant new battery capacity is scheduled to come online in the third quarter.
+
+---
+
+### 2026-06-22 17:57:11  #國際
+
+俄羅斯國防部：過去24小時內，俄羅斯武裝部隊襲擊了烏克蘭武裝部隊控制的石油煉化設施，以及燃料、能源和交通基礎設施。
+
+---
+
+### 2026-06-22 17:57:02  #MKT News #Commodities #Energy #WTI #Impact bullish #Brent #XAUUSD
+
+Russian Defence Ministry said over the past 24 hours Russian forces struck oil refining facilities controlled by Ukrainian armed forces, along with fuel, energy and transport infrastructure.
+
+---
+
+### 2026-06-22 17:56:50  #公司
+
+【燦瑞科技：首次透過集中競價交易方式回購0.36%公司股份，已支付的總金額為1999.74萬元】燦瑞科技公告，2026年6月22日，公司透過集中競價交易方式首次回購股份41.67萬股，已回購股份佔公司總股本的比例為0.36%，購買的最高價為48.96元/股、最低價為46.82元/股，已支付的總金額為1999.74萬元（不含印花稅、交易佣金等交易費用）。
+
+---
+
+### 2026-06-22 17:55:45  #市場
+
+【濰柴動力今日大宗交易平價成交1140萬股，成交額3.57億元】6月22日，濰柴動力大宗交易成交1140萬股，成交額3.57億元，佔當日總成交額的9.03%，成交價31.29元，較市場收盤價31.29元持平。
+
+---
+
+### 2026-06-22 17:55:25  #MKT News #Market Regions #Greater China #SZSE Component #Impact bullish
+
+【Agencies: Shenzhen resale home signings up 21% over Dragon Boat holiday】Multiple agencies reported stronger Shenzhen housing activity over the Dragon Boat Festival. Le Youjia data show combined new and resale residential signings rose 17% YoY to the highest level for the holiday in five years; new-home signings were up 9% and resales up 21%. Centaline said average daily viewings at its Shenzhen branches during the holiday were 52% higher than mid‑June. Through June 21, Shenzhen recorded 6,264 cumulative transactions for June: 2,641 new-home sales (1,670 presales, 971 immediate-sale) and 3,623 resale transfers. Shell Research Institute director Xiao Xiaoping attributed the pickup to continued policy support and a concentrated holiday viewing window that released pent‑up rigid and replacement demand, and noted a two‑ended recovery: faster absorption of low‑price first‑time stock alongside rising market share for improvement purchases in Nanshan and Futian priced in the tens of millions of yuan.
+
+---
+
+### 2026-06-22 17:55:12  #其他
+
+【格力電器CMO朱磊：算力的終點是電力，邊界是製冷】今日舉辦的第四屆中國國際供應鏈促進博覽會（簡稱“鏈博會”）上，格力電器釋出AIDC資料中心全場景液冷解決方案，核心新品“冰立方”磁懸浮一體式CDU同步揭幕，憑藉100%自主可控的技術體系與極致能效（PUE低至1.1）、精準溫控、高可靠執行多重優勢，為AI算力時代的資料中心綠色升級帶來全新方案。在與新浪科技溝通中，朱磊直言：“算力的終點是電力，算力的邊界是製冷”。當下AI晶片發熱量陡增，傳統風冷已無法適配高密度算力需求，製冷系統不再只是配套裝置，而是決定晶片效能上限的關鍵。朱磊分析指出，AI晶片存在45-60℃最優執行區間，處於該溫度段時，晶片算力可完全釋放；即便晶片廠商硬體可耐受110℃高溫，高溫環境下算力也會大幅衰減，如同高效能跑車長期低速行駛，硬體價值嚴重浪費。（新浪科技）
+
+---
+
+### 2026-06-22 17:54:58  #央行 #美聯儲
+
+【美國銀行預計美聯儲將在2026年9月、10月和12月各加息25個基點】美國銀行預計美聯儲將在2026年9月、10月和12月各加息25個基點，之前的預測是今年利率將保持不變。
+
+---
+
+### 2026-06-22 17:54:39  #公司
+
+【揚電科技：董事長湯雪梅等辭職】揚電科技公告，公司董事會收到董事長湯雪梅、非獨立董事朱振國提交的書面辭職報告。湯雪梅因個人原因辭去董事長職務及董事會下屬專門委員會相關職務，但仍作為職工代表董事履職；朱振國因個人原因辭去非獨立董事職務及董事會下屬專門委員會相關職務，辭職後將不在公司擔任任何職務。公司已啟動非獨立董事與董事長補選、董事會專門委員會委員調整等工作。
+
+---
+
+### 2026-06-22 17:54:20  #公司
+
+【何佳卸任易事特董事長】天眼查App顯示，近日，易事特（300376）發生工商變更，何佳卸任法定代表人、董事長，陳子祥接任法定代表人、董事長。易事特集團股份有限公司成立於2001年6月，註冊資本約23.3億人民幣，經營範圍包括輸配電及控制裝置製造、智慧輸配電及控制裝置銷售、配電開關控制裝置製造、配電開關控制裝置銷售等。
+
+---
+
+### 2026-06-22 17:54:08  #MKT News #Important
+
+BofA now expects the Fed to raise rates by 25bp in September, October and December 2026; it had previously forecast rates would remain unchanged this year.
+
+---
+
+### 2026-06-22 17:53:23  #公司
+
+【華海清科：擬定增募資不超過37.95億元用於積體電路裝備研發製造等專案】華海清科公告，公司釋出2026年度向特定物件發行A股股票預案（二次修訂稿）。本次發行物件為不超過35名符合中國證監會規定條件的特定物件，發行股票數量不超過4947.31萬股（含本數），募集資金總額不超過37.95億元（含本數），扣除發行費用後擬投入以下專案：上海積體電路裝備研發製造基地專案（擬使用募集資金13.42億元）、晶圓再生擴產專案（4.45億元）、高階半導體裝備研發專案（20.08億元）。本次發行方案已獲公司董事會、股東會審議透過，並已取得國資有權監管單位批覆，尚需上交所稽核透過及中國證監會同意註冊。
+
+---
+
+### 2026-06-22 17:53:19  #央行 #焦點 #國際
+
+美銀全球研究團隊預計，美聯儲將在2026年9月、10月和12月各加息25個基點，此前該機構的預測為今年利率維持不變。
+
+---
+
+### 2026-06-22 17:53:06  #公司
+
+【華為乾崑智駕高階包7月起漲價，智駕保障權益覆蓋城區及高速】6月22日，引望釋出公告稱，華為乾崑智駕 ADS Max 高階功能包將從7月1日起調價。其中，一次性購買的建議售價限時優惠將取消，由32000元恢復至標準價36000元。此次，引望新增了ADS高階功能包保障與服務權益，將城區及高速NCA納入保障場景。
+
+---
+
+### 2026-06-22 17:52:47  #公司
+
+【阿里管理層集體下田插秧團建，周靖人現身打破離職傳聞】今天，阿里巴巴合夥人、高德董事長劉振飛在阿里內網發文《手裡有秧，才能確保未來有糧》，文章記錄了近日阿里管理層在杭州一次下田插秧的團建活動，自在放鬆。有阿里同學看後調侃：這是上演了真人版“芭芭農場”！劉振飛在內網帖中說：“前幾天在杭州和同事們一起體驗插秧，十幾個人一起忙上一個上午，才歪歪扭扭種了半畝水田。”活動照片顯示，此次插秧團建的“同事們”陣容強大：馬雲、吳泳銘、邵曉鋒、蔣凡、吳澤明、蔣芳等人悉數到場，螞蟻集團董事長井賢棟、CEO韓歆毅也一同參與。阿里與螞蟻的管理層挽起褲腿、下田插秧，狀態輕鬆。阿里巴巴首席科學家周靖人，也出現在插秧現場。這再次確認了周靖人的離職傳聞不屬實。（新浪科技）
+
+---
+
+### 2026-06-22 17:52:20  #國際
+
+【報道：寧德時代將與英國最大家庭能源供應商合作搭建換電中心網路】據報道，全球最大電池製造商寧德時代押注一項可讓電動卡車運營成本低於柴油卡車的技術，計劃到2035年在歐洲建成30座以上電動卡車換電站。這家中國企業將與英國最大家庭能源供應商章魚能源（Octopus Energy）合作搭建換電中心網路。兩家企業表示，該網路可服務超30萬輛電動卡車，並將在該地區吸引超過300億英鎊的民間投資。章魚能源創始人Greg Jackson於週一在採訪中表示：“依託當下的換電技術，我們的運營成本已經低於當前柴油車的使用成本。受伊朗戰事影響，柴油價格持續走高；即便未來柴油價格回落，我們的成本也能與之大致持平，並且和柴油不同，我們的使用成本每年都會持續下降。”首批換電站預計將於明年在英國陸續投入運營。寧德時代海外投資負責人Oscar Luo表示，相較於超快充模式，換電能夠降低電動卡車的使用成本，提升電池耐用性，同時也讓電池回收工作變得更加便捷。
+
+---
+
+### 2026-06-22 17:52:11  #公司
+
+【國晟科技：控股股東因股份轉讓糾紛被仲裁，涉資2.13億元】國晟科技公告稱，公司控股股東國晟能源與原股東楊靜因股份轉讓事宜產生糾紛，2026年6月15日雙方簽署《和解協議》並提交上海國際仲裁委，6月17日該仲裁委正式受理。2023年8月9日，國晟能源受讓楊靜持有的公司8.85%股份，轉讓總價款4.42億元。截至2026年5月13日，國晟能源尚有1.48億元股權轉讓款未支付給楊靜，並將持有的公司2600萬股股份（佔總股本3.94%）質押給楊靜。楊靜申請裁決國晟能源支付欠款及違約金等合計2.13億元，確認其對質押股份享有質權。本次仲裁對公司日常生產經營未產生重大影響。
+
+---
+
+### 2026-06-22 17:52:02  #MKT News #Commodities #Precious Metals #XAUUSD #Impact bullish
+
+【Bank of Communications signs MoU with Shanghai Gold Exchange】Bank of Communications and the Shanghai Gold Exchange signed a memorandum of understanding in Shanghai to deepen cooperation on gold-market services and product development, strengthen funds clearing and settlement capacity, and improve delivery and storage management. The parties agreed to study an exchange-counter linkage mechanism and to cautiously advance market innovation and operational integration to support gold market stability, liquidity and Shanghai's international financial centre development.
+
+---
+
+### 2026-06-22 17:52:00  #公司 #市場
+
+【交通銀行與上海黃金交易所簽署合作備忘錄】今日，交通銀行與上海黃金交易所在滬簽署合作備忘錄。交通銀行行長張寶江、副行長殷久勇，上海黃金交易所理事長余文建、副總裁曾輝出席簽約儀式。會談中，雙方圍繞進一步完善黃金市場服務和產品體系、最佳化資金清結算能力、提升交割儲運管理水平、研究“所櫃聯動”合作機制等議題深入交流，並就穩慎推進市場創新、更好服務市場主體等方面達成了合作共識。雙方將以合作備忘錄簽署為契機，聚焦服務國家戰略，持續深化業務合作，共同維護黃金市場穩健執行，為上海國際金融中心建設和實體經濟發展提供更有力的基礎支撐與市場服務。（上海黃金交易所）
+
+---
+
+### 2026-06-22 17:51:49  #市場
+
+愛馬仕盤前下跌4.4%。
+
+---
+
+### 2026-06-22 17:51:35  #市場 #國際
+
+印度Nifty製藥指數上漲1.25%.
+
+---
+
+### 2026-06-22 17:51:25  #公司
+
+【江南水務：陸慶喜辭任副總經理】江南水務6月22日公告，公司董事會收到公司副總經理、財務總監陸慶喜提交的書面辭職報告。陸慶喜因組織安排工作調整，特申請辭去公司副總經理職務，同時辭去全資子公司江蘇潤澤投資發展有限公司經理職務。陸慶喜辭職後，仍在公司及子公司擔任其他職務。
+
+---
+
+### 2026-06-22 17:51:20  #公司
+
+【亞康股份：控股股東徐江解除30.27萬股司法凍結】亞康股份公告，公司控股股東徐江先生持有的30.27萬股公司股份已解除司法凍結，佔其所持股份比例的0.96%，佔公司總股本比例的0.35%。此次解除凍結的起始日為2024年9月6日，解除日期為2026年6月18日，解除凍結機關為北京市海淀區人民法院。截至本公告披露日，徐江先生所持股份累計被凍結數量為0股，合計佔其所持股份比例的0.00%，合計佔公司總股本比例的0.00%。
+
+---
+
+### 2026-06-22 17:51:17  #市場 #央行 #國際
+
+【機構：美聯儲加息押注升溫之際，美國國債收益率上升，美元企穩】隨著市場繼續押注美聯儲收緊貨幣政策的前景，美國國債收益率上升，美元企穩。Exness的Li Xing在一份報告中表示，與此同時，人們的注意力也將繼續集中在美伊之間的外交談判上，兩國都致力於在60天內達成最終協議。“在達成協議方面取得的進展可能會減少對避險資產的需求，並令美元承壓。然而，鑑於近幾個月來談判中出現的多次挫折，市場可能保持謹慎，”Xing說。美元企穩於100.86。根據Tradeweb的資料，10年期美國國債收益率上升3.8個基點，至4.489%。
+
+---
+
+### 2026-06-22 17:50:31  #MKT News #Market Regions #Greater China
+
+【World's first 5MW all‑carbon lithium‑ion supercapacitor completes type testing】China Green Development Investment Group said its unit Beijing Lvfazhongke Lithium Capacitor Technology Co. completed full type tests on a 5MW‑class all‑carbon lithium‑ion supercapacitor power cabin and obtained a China National Accreditation Service (CNAS) accreditation report with international mutual‑recognition. The group said this is the first domestic and global 5MW‑class all‑carbon supercapacitor power‑cabin to pass CNAS type testing.
+
+---
+
+### 2026-06-22 17:50:30  #公司
+
+【全球首臺5兆瓦級全碳型鋰離子超級電容試驗成功】從中國綠髮投資集團獲悉，該集團旗下北京綠髮中科鋰電容科技有限公司自主研發設計製造的5兆瓦級全碳型超級電容功率艙日前完成全套型式試驗，順利取得具備國際互認效力的中國合格評定國家認可委員會（CNAS）認證報告。這是國內首款、全球首臺整艙透過CNAS認證型式試驗的5兆瓦級全碳型超級電容功率儲能裝置。（科技日報）
+
+---
+
+### 2026-06-22 17:50:27  #公司
+
+【價格成本和認證中心赴江蘇南京開展新能源調研】6月9日，價格成本和認證中心副主任成鋼同志帶隊赴江蘇省南京市開展新能源調研。調研組與江蘇省發展和改革委員會、省能源局、國網江蘇省電力有限公司進行座談，各方圍繞江蘇省新能源發展情況、電力市場建設進展、新能源成本價格等情況進行了交流研討。中心新能源價格成本處有關同志參加調研。
+
+---
+
+### 2026-06-22 17:50:21  #公司
+
+【蘇泊爾：完成工商變更登記 註冊資本減至7.99億元】蘇泊爾公告稱，公司2026年4月23日股東會同意登出2022年回購股份中剩餘166.75萬股並減少註冊資本。5月6日，該回購股份登出完成，公司總股本由8.01億股減至7.995億股，註冊資本由8.01億元減至7.995億元。近日，公司完成工商變更登記並換髮營業執照，註冊資本變更為7.995億元，其他內容不變。
+
+---
+
+### 2026-06-22 17:50:13  #其他
+
+英鎊/美元抹去了0.4%的跌幅，交易價格基本持平於1.3231。
+
+---
+
+### 2026-06-22 17:50:09  #公司 #市場
+
+【ST西王：股票連續3日跌幅偏離值超12% 存異常波動】ST西王公告稱，2026年6月17日、6月18日、6月22日，公司股票連續3個交易日收盤價格跌幅偏離值累計超過12%，屬於異常波動。經核查，近期公司生產經營正常，控股股東及其一致行動人未買賣公司股票，不存在籌劃階段重大事項。此外，公司及實控人因信披違規被立案調查尚無結論，控股股東持有的2.00億股公司股票正在司法變賣，結果存在不確定性。
+
+---
+
+### 2026-06-22 17:50:01  #公司
+
+【北新路橋：3.61億股限售股6月26日上市流通】北新路橋公告稱，本次解除限售股份為向特定物件發行股票的部分股份，數量為360,831,455股，佔公司總股本的21.8848%。上市流通日期為2026年6月26日。申請解除股份限售的發行物件共17名，涉及股東賬戶268個。本次限售股份上市流通後，有限售條件流通股佔比降至1.19%，無限售條件流通股佔比升至98.81%。
+
+---
+
+### 2026-06-22 17:49:50  #公司
+
+根據港交所檔案，騰訊6月22日耗資5.006億港元回購120萬股股份。
+
+---
+
+### 2026-06-22 17:49:38  #市場
+
+【SpaceX美股盤前跌超4%】SpaceX美股盤前跌超4%，現報177.6美元。
+
+---
+
+### 2026-06-22 17:49:28  #公司
+
+【國新證券總經理曾建勇赴桂掛職 副總陳騰龍代行職責】國新證券釋出公告，公司黨委副書記、總經理、執委會委員曾建勇，赴廣西壯族自治區掛職，副總經理陳騰龍代為履行總經理職責。公開資料顯示，曾建勇在國新證券任職總經理一職已有約3年半，實際主持運營工作已超過5年。作為央企中國國新子公司，國新證券高管赴地方掛職屬常見現象。
+
+---
+
+### 2026-06-22 17:48:02  #公司
+
+香港交易所公告：中國石化6月22日以620萬港元回購150萬股H股。
+
+---
+
+### 2026-06-22 17:47:30  #公司
+
+【中微公司：向杭州眾矽發行1048.85萬股A股】中微公司公告，公司向杭州眾矽發行1048.85萬股A股，發行價格為145.25元/股。本次發行新增股份上市數量為1048.85萬股人民幣普通股（A股）。本次交易完成後，杭州眾矽將成為中微公司的控股子公司。
+
+---
+
+### 2026-06-22 17:47:23  #公司
+
+【上交所上市委：高凱技術科創板首發獲透過】上交所上市委公告，江蘇高凱精密流體技術股份有限公司（簡稱“高凱技術”）科創板首發獲透過。
+
+---
+
+### 2026-06-22 17:46:23  #公司 #市場
+
+【山東黃金：副董事長劉欽因工作調整離任】山東黃金公告稱，公司於2026年6月22日收到副董事長劉欽書面辭職報告，因控股股東領導不在上市公司兼任領導職務，劉欽申請辭去副董事長等職務，離任後不在公司及控股子公司任職。其辭職報告自送達董事會之日起生效，不會對公司產生不利影響。劉欽未持有公司股份，無應履行而未履行的承諾事項。公司將盡快完成董事補選等工作。
+
+---
+
+### 2026-06-22 17:45:06  #公司 #市場
+
+【華夏合肥高新REIT：6月23日停牌1小時後復牌並暫停1小時轉讓業務】華夏合肥高新REIT公告稱，6月22日，本基金二級市場收盤價為1.045元/份，較發行價2.190元/份首次偏離達50%。為保護持有人利益，基金自6月23日開市起停牌1小時，10:30起復牌；同時，暫停基金通平臺份額轉讓業務1小時，10:30起恢復。截至2026年3月31日，不動產專案整體出租率64.28%，1季度租金收繳率59.91%。已採取多項舉措應對出租率下行壓力，目前專案經營正常。
+
+---
+
+### 2026-06-22 17:44:52  #公司
+
+【*ST東智：籌劃控制權變更 股票自6月23日起停牌】*ST東智公告稱，2026年6月22日，控股股東科翔高新籌劃轉讓部分股份，可能導致公司控制權變更，交易雙方已籤《意向協議》，交易對手支付3000萬元意向金。交易對手所屬行業為煤基碳材料，擬轉讓股份比例為14%-15%，尚需有權部門審批。公司股票自6月23日開市起停牌，預計不超2個交易日。最終交易能否完成存在不確定性。
+
+---
+
+### 2026-06-22 17:44:50  #公司 #市場
+
+【派林生物：股票交易異常波動 不存在應披露未披露事項】派林生物公告稱，公司股票連續三個交易日（2026年6月17日、18日、22日）收盤價格跌幅偏離值累計超20%，屬異常波動。經核查，除6月18日披露的控制權轉讓事項終止外，公司前期資訊無需更正補充，近期經營正常，內外部環境無重大變化，控股股東等不存在應披露未披露重大事項及買賣公司股票情形。公司提醒投資者注意投資風險。
+
+---
+
+### 2026-06-22 17:44:39  #公司
+
+【中廣核技：持股5%以上股東9861.43萬股被輪候凍結】中廣核技公告稱，公司於6月22日接到持股5%以上股東國合集團函告，其持有的98,614,273股（佔公司總股本的10.43%）被大連高新技術產業園區人民法院輪候凍結，起始日為6月17日，到期日為2029年6月16日，原因系金融借款糾紛。截至公告日，國合集團所持公司股份累計被凍結比例達100%。國合集團非控股股東，股份凍結不影響公司正常生產經營。
+
+---
+
+### 2026-06-22 17:44:38  #MKT News
+
+The regional governor said production facilities in Voronezh, Russia were damaged.
+
+---
+
+### 2026-06-22 17:44:31  #公司
+
+【*ST明德：完成1.54億元股份回購 佔總股本4.06%】*ST明德公告稱，截至2026年6月22日，公司完成股份回購，透過集中競價交易方式累計回購943.6952萬股，佔總股本4.06%，最高成交價17.5元/股，最低15.13元/股，支付總金額1.54億元（不含交易費用）。本次回購資金來源、數量、價格等符合方案，相關主體在回購期間無買賣公司股票情況。回購股份將在12個月後擇機出售，3年內完成，未售出將登出。
+
+---
+
+### 2026-06-22 17:44:25  #MKT News #EURUSD #Impact bullish #DXY #Impact bearish
+
+【Berenberg: ECB deposit rate may hit 3% by mid-2029】Berenberg analyst Holger Schmieding expects the ECB deposit rate to reach 3% by mid-2029 (current 2.25%), revising a prior 2028 call. He says a temporary US–Iran agreement lowering energy costs could push eurozone inflation below 2% in early 2027, which could delay ECB tightening until end-2028; thereafter demographic-driven labour‑supply declines should lift wages and force the central bank back to hiking.
 
 ---
 
@@ -20881,221 +21187,5 @@ Iran's deputy foreign minister said that in 60 days Tehran will adopt a new mech
 ### 2026-06-20 00:55:19  #國際
 
 【機構：霍爾木茲海峽重啟商業航運以來已有至少20艘油輪通航】貿易情報機構Kpler資料顯示，自美伊重啟霍爾木茲海峽商業航運以來，已有至少20艘油輪駛過該海峽。 該機構表示，週四的油輪通航量創下6月2日以來的單日新高，但航運規模仍未恢復至戰前水平。戰前每日有超100艘船舶途經霍爾木茲海峽，其中包含數十艘油輪。 Kpler統計，週四共計25艘船舶通行霍爾木茲海峽，除油輪外，還涵蓋散貨船、集裝箱船等各類船型。在美國海軍解除對伊朗海上封鎖、伊朗允許船舶未來60天免費通行海峽後，航道航運量持續回暖。
-
----
-
-### 2026-06-20 00:51:56  #其他
-
-LME期銅收跌96美元，報13595美元/噸。LME期鋁收漲10美元，報3396美元/噸。LME期鋅收跌82美元，報3556美元/噸。LME期鉛收跌30美元，報1954美元/噸。LME期鎳收跌262美元，報17580美元/噸。LME期錫收跌360美元，報53293美元/噸。LME期鈷收平，報56290美元/噸。
-
----
-
-### 2026-06-20 00:49:51  #MKT News
-
-Lebanon's prime minister said the government will not cede any inch of Lebanese territory and that weapons should be held only by legitimate state forces.
-
----
-
-### 2026-06-20 00:42:38  #公司
-
-【受世界盃等賽事帶動 預測市場平臺Kalshi年化營收突破20億美元】據瞭解預測市場平臺Kalshi財務狀況的知情人士透露，受交易者押注NBA賽事、世界盃賽事帶動交易量激增影響，Kalshi的年化營收已突破20億美元，較去年11月規模增長約兩倍。 Kalshi業務飛速擴張，公司高管已與多家投行就未來IPO事宜展開非正式洽談。其中一位知情人士表示，這家成立八年的初創企業提出，有意為其提供IPO諮詢服務的投行需與Kalshi平臺完成系統對接，以便投行的機構客戶可以在該平臺開展交易。目前相關磋商尚處於早期階段，公司最快要到明年年末、甚至2028年才會上市。
-
----
-
-### 2026-06-20 00:40:51  #國際
-
-伊朗塔斯尼姆通訊社訊息：伊朗能源部副部長表示，俄方已準備派遣專家赴伊朗，加快核電站 2 號、3 號機組建設工作。
-
----
-
-### 2026-06-20 00:40:41  #MKT News
-
-Iran's deputy energy minister said the Russian side is ready to dispatch experts to Iran to accelerate construction of nuclear power plant units 2 and 3.
-
----
-
-### 2026-06-20 00:39:21  #宏觀 #市場
-
-【英國政府中長期融資成本漲超8個基點，投資者對該國政治局勢的擔憂情緒重燃】週五（6月19日）歐市尾盤，英國10年期國債收益率上漲8.5個基點，報4.842%，北京時間15:00跳空高開之後持續交投於4.820附近，本週累計上漲0.6個基點，週一至週四持續震盪於4.780%附近。兩年期英債收益率漲7.4個基點，報4.254%，本週累漲1.9個基點。30年期英債收益率漲8.9個基點，報5.540%，本週累漲0.4個基點；50年期英債收益率漲8.9個基點，報5.153%，本週累漲4.1個基點。2/10年期英債收益率利差漲1.903個基點，報+58.785個基點，本週累跌1.183個基點。
-
----
-
-### 2026-06-20 00:39:17  #央行 #其他
-
-秘魯央行行長： 經濟增長主要得益於私人投資，若下一屆政府施政得當，該國經濟增速或將高於當前預期。
-
----
-
-### 2026-06-20 00:33:26  #國際
-
-以色列媒體訊息：美國國務卿魯比奧將與以色列總理內塔尼亞胡通電話。
-
----
-
-### 2026-06-20 00:32:00  #公司 #國際
-
-【厄爾尼諾現象正助推席捲歐洲的創紀錄熱浪】受厄爾尼諾現象助推，預計西歐的熱浪本週末將進一步加劇，法國正朝著創紀錄的高溫邁進。這股熱浪的成因是歐洲大陸上空的一個高壓穹頂，下沉的空氣向地面壓縮導致氣溫升高。大宗商品氣象集團（Commodity Weather Group）的氣象學家William Henneberg表示，正在發展的強厄爾尼諾現象以及北大西洋的冷水團進一步強化了這一模式，這有助於在海洋上空形成急流凹陷，並將高壓系統推向歐洲。“這種情況非常罕見，”他補充說，這種天氣模式可能會持續，並導致7月初之前氣溫高於正常水平。
-
----
-
-### 2026-06-20 00:31:55  #MKT News
-
-【Russia Agriculture Ministry: YTD mineral fertilizer exports up 7% to $5.5bln】Russia's Agriculture Ministry said year-to-date mineral fertilizer exports rose 7% to $5.5 billion. The ministry said total agricultural-technology exports since the start of 2026 reached $5.9 billion, up 6% versus the same period in 2025.
-
----
-
-### 2026-06-20 00:28:34  #MKT News
-
-Lebanon's prime minister said the state should have independent authority to decide on war and peace.
-
----
-
-### 2026-06-20 00:28:19  #公司 #市場
-
-【迦納正考慮將Gold Fields最大金礦交由本國企業掌控】迦納正考慮在Gold Fields Ltd.（金田公司）旗下Tarkwa金礦的租約於2027年4月到期時，將該礦的控制權移交給本國企業，這是迦納旨在加強對本國黃金產業控制力的一項舉措。知情人士透露，如果政府推進該計劃，迦納礦業企業需提交競標書以供評估；同時，當局也在權衡為Gold Fields延長租約的選項。移交Tarkwa金礦的所有權將有助於為迦納的工程師、供應商和企業家創造更多就業機會。在評估競標時，政府將重點關注競標方在環境修復、本地就業以及東道社群基礎設施建設方面的承諾。
-
----
-
-### 2026-06-20 00:27:27  #MKT News #Important #Market Regions #Europe & UK
-
-【British media: PM Starmer to use weekend to weigh staying amid cabinet pressure】The Times reports that after Andy Burnham's by-election win, Prime Minister Starmer is weighing whether to remain in office amid rising pressure from his cabinet. He has publicly ruled out resigning and said he would contest a leadership challenge if Burnham mounted one; privately, aides say he recognizes growing calls from Labour MPs for him to step down. He is expected to spend the weekend with his family while deciding whether to continue resisting the pressure.
-
----
-
-### 2026-06-20 00:22:19  #市場
-
-【德國30年期國債收益率週五漲7個基點，整體持續上揚】週五（6月19日）歐市尾盤，德國10年期國債收益率漲5.6個基點，報2.985%，本週累計下跌1個基點，整體交投於2.988%-2.914%區間。兩年期德債收益率漲3.9個基點，報2.646%，本週累漲2.9個基點，整體交投於2.547%-2.827%區間，6月18日北京時間14:00曾高開至2.827%，隨後快速下挫至2.618%；30年期德債收益率漲7.0個基點，報3.538%，本週累跌1.1個基點。2/10年期德債收益率利差漲1.691個基點，報+33.751個基點，本週累跌3.807個基點。本週，法國10年期國債收益率累跌0.3個基點，義大利10年期國債收益率累跌2.5個基點，西班牙10年期國債收益率累漲3.5個基點，希臘10年期國債收益率累跌2.1個基點。
-
----
-
-### 2026-06-20 00:20:29  #其他
-
-《泰晤士報》訊息：英國首相斯塔默將在本週末考量自身去留。
-
----
-
-### 2026-06-20 00:19:46  #國際
-
-【中國隊奪體操亞青賽男團金 】19日是2026年第19屆亞洲青年體操錦標賽的首個比賽日，賽事在貴州省遵義市奧體中心舉行，當日進行了男子團體、個人全能決賽暨單項預賽的比拼，中國隊力壓日本隊和印度隊奪得男團金牌。（新華社）
-
----
-
-### 2026-06-20 00:19:27  #MKT News
-
-Brazil's finance minister said further monetary policy moves are for the central bank to decide but he believes there is room for another 25bps rate cut. He added an end to the Middle East war would imply Brazil may be moving toward disinflation.
-
----
-
-### 2026-06-20 00:17:32  #市場
-
-布倫特原油日內漲1%，現報80.31美元/桶。
-
----
-
-### 2026-06-20 00:13:18  #Trading Economics #Markets #Italy #Stock Market #Importance 0
-
-FTSE MIB Holds Near Record High — The FTSE MIB rose 0.3% to close at 52,849 on Friday, staying near record highs as gains in the energy sector supported the index. Markets remained focused on developments in the Middle East after planned follow-up US-Iran talks in Switzerland were canceled, adding fresh uncertainty to the diplomatic outlook. The news pushed oil prices modestly higher and lifted energy-related stocks, with Eni up 2.4%, Tenaris rising 2%, and Prysmian gaining 3.7%. Defense stocks also advanced on geopolitical concerns, with Leonardo up 1.7%. Financials traded mixed as energy-driven inflation concerns resurfaced, with UniCredit down 0.7% and Banco BPM losing 0.8%, while Intesa Sanpaolo added 0.4% and Generali gained 0.5%. Luxury stocks weakened on higher risk aversion, with Ferrari down 1.9% and Moncler falling 1.7%. Meanwhile, Pierre Wunsch said the European Central Bank may raise interest rates again next month if inflation continues to broaden.
-
----
-
-### 2026-06-20 00:12:05  #Trading Economics #Markets #Italy #Stock Market #Importance 1
-
-The FTSE MIB Index Closes 0.30% Higher — The FTSE MIB Index gained 161 points or 0.30 percent on Friday to close at 52849 points. Gains were led by Fincantieri (3.39%), Saipem (3.19%) and Poste Italiane (2.58%). Biggest losers were Brunello Cucinelli (-3.80%), Moncler (-1.60%) and Lottomatica (-1.42%).
-
----
-
-### 2026-06-20 00:11:52  #MKT News
-
-Hezbollah leader Qassim said the plan to destroy Hezbollah has failed, Israel’s conspiracy has come to an end, and final victory — defined as the complete and permanent expulsion of occupiers from every inch of Lebanese territory — is inevitable.
-
----
-
-### 2026-06-20 00:11:21  #央行 #其他
-
-秘魯央行預測 2026 年通脹率為 3.8%，2027 年通脹率為 2.0%。
-
----
-
-### 2026-06-20 00:11:05  #Trading Economics #Markets #Germany #Stock Market #Importance 1
-
-The DAX Index Closes 0.16% Lower — The DAX Index decreased 41 points or 0.16 percent on Friday to close at 24986 points. The decline was led by Volkswagen (-4.58%), Adidas (-1.71%) and Beiersdorf (-1.54%). On the upside, the strongest performers were Rheinmetall (2.67%), Bayer (1.86%) and Porsche Automobil (1.52%).
-
----
-
-### 2026-06-20 00:10:05  #Trading Economics #Markets #France #Stock Market #Importance 1
-
-The CAC 40 Index Closes 0.55% Lower — The CAC 40 Index fell 47 points or 0.55 percent on Friday to close at 8421 points. Leading the losses are L'Oréal (-2.51%), Essilor (-2.31%) and Hermes International (-2.24%). Top gainers were Renault (3.20%), TotalEnergies SE (1.01%) and Dassault Systemes (0.88%).
-
----
-
-### 2026-06-20 00:08:29  #MKT News
-
-【U.S. intelligence warns Israel may undermine U.S.-Iran accord】Multiple U.S. intelligence agencies have warned the Trump administration that Israeli Prime Minister Netanyahu may act to undermine President Trump's push for a long-term U.S.-Iran accord, U.S. officials say. Intelligence assesses Netanyahu, under heavy domestic political pressure ahead of autumn elections, needs to show voters he will not withdraw forces from Lebanon and is likely to escalate operations against Hezbollah. The report also says Israeli officials are deeply unhappy with key provisions of Trump’s memorandum, viewing them as weakening Israel’s core objectives.
-
----
-
-### 2026-06-20 00:08:22  #央行 #其他
-
-秘魯央行預測 2026 年財政赤字佔國內生產總值比重為 1.8%，維持此前 1.8% 的預估不變。
-
----
-
-### 2026-06-20 00:07:05  #Trading Economics #Markets #United Kingdom #Stock Market #Importance 1
-
-The FTSE 100 Index Closes 0.34% Lower — The FTSE 100 Index dropped 35 points or 0.34 percent on Friday to close at 10364 points. Losses were led by Antofagasta (-6.16%), Fresnillo (-5.36%) and Unite Group (-4.23%). Offsetting the fall, top gainers were BP (2.08%), Relx (1.43%) and Informa (1.40%).
-
----
-
-### 2026-06-20 00:06:50  #央行 #其他
-
-秘魯央行上調 2026 年國內生產總值增速預期，從此前預估的 3.2% 提升至 3.4%。
-
----
-
-### 2026-06-20 00:04:25  #市場 #國際
-
-【印度證券監管機構允許企業從公開市場回購股票】印度證券監管機構將重新允許企業進行公開市場股票回購。鑑於印度本土股市表現落後於全球同類市場，此舉有望提振股價。印度證券交易委員會（SEBI）曾在2025年逐步取消了企業直接在證券交易所回購股票的機制，理由是擔心這種方式會導致股東待遇不公並引發稅務問題。該機制被認為僅惠及少數特定投資者。此舉有望刺激更多的回購活動，尤其是對於現金充裕的企業而言；同時，在市場波動期間，這也將為股票市場提供額外的需求支撐。此前，投資銀行家們曾呼籲恢復這一回購渠道，稱這將有助於緩衝股票的拋售壓力。今年，印度基準指數Nifty 50下跌了8%，表現遜於上漲了27%的MSCI新興市場指數。
-
----
-
-### 2026-06-20 00:03:51  #國際
-
-【美官員：美國情報部門警告，以色列或將破壞美伊和平協議】據華盛頓郵報援引多名美國現任及前官員訊息，美國多家情報機構已向特朗普政府發出預警：以色列總理內塔尼亞胡或將採取行動，破壞特朗普總統推動與伊朗達成長期和平協議的努力。眼下內塔尼亞胡面臨巨大國內政治壓力，不得不持續在黎巴嫩發動戰事。 一名看過這份情報報告的美國官員透露，美國最新情報報告得出結論：面對今年秋季的國內大選，內塔尼亞胡能否保住總理之位，關鍵在於向本國民眾證明，他不會從黎巴嫩撤軍，並且決意升級與真主黨的戰事。多名現任及前美國官員稱，這份美國情報報告還指出，以色列對特朗普這份和平諒解備忘錄的條款深感不滿，協議內容削弱了以色列持續對伊朗實施極限施壓的核心目標。 一名前美國官員表示，報告體現出以色列的看法：這份協議會限制以色列反擊真主黨、開展自衛行動的空間。
-
----
-
-### 2026-06-20 00:02:23  #Trading Economics #Markets #United Kingdom #Stock Market #Importance 1
-
-FTSE 100 Falls Led by Miners — The FTSE 100 fell 0.4% on Friday as oil prices remained volatile amid mixed signals surrounding US-Iran negotiations and renewed tensions between Israel and Lebanon. Mining stocks were among the biggest drags, with Rio Tinto down more than 2%, Glencore falling 1.5%, Anglo American declining 2.5% and Antofagasta dropping 3.2%. Precious metal miners also came under pressure, with Fresnillo and Endeavour falling 5.4% and 3.5% respectively. Banks, Unilever and BAT also traded lower. In contrast, energy stocks gained, with Shell and BP rising around 1% and 2%. Pharmaceutical and defence stocks also advanced. Greater Manchester mayor Andy Burnham won the closely watched Makerfield by-election with 54.8% of the vote, strengthening his position as a potential challenger to Prime Minister Keir Starmer. UK data showed public sector borrowing reached £23.3 billion in May, above expectations, while retail sales recovered 1.2%, beating forecasts. The FTSE 100 finished the week down more than 1%.
-
----
-
-### 2026-06-20 00:01:09  #MKT News
-
-The Financial Action Task Force (FATF) placed Bosnia and Herzegovina and Iraq on its 'grey list' of jurisdictions subject to increased monitoring.
-
----
-
-### 2026-06-19 23:59:52  #國際
-
-據華盛頓郵報：美國情報部門警告，以色列或破壞伊朗相關協議。
-
----
-
-### 2026-06-19 23:59:32  #Trading Economics #Markets #France #Stock Market #Importance 0
-
-CAC 40 Dips as US-Iran Diplomatic Talks Stall — The CAC 40 fell 0.5% to close at 8,421 on Friday after scheduled US-Iran negotiations in Switzerland were called off, denting diplomatic hopes. The talks, aimed at addressing Iran’s nuclear program following a recently signed memorandum of understanding, were delayed after US Vice President JD Vance unexpectedly withdrew. Pressure from the Federal Reserve’s hawkish shift earlier in the week also continued to weigh on sentiment. Luxury stocks led losses as risk aversion increased, with LVMH down 1.2%, L'Oréal falling 1.9%, and Hermès shedding 2.3%. Industrial stocks also weakened, with Airbus down 1.3% and Safran losing 1.2%. In contrast, TotalEnergies rose 1% amid uncertainty over Middle East peace prospects and oil supply normalization. Meanwhile, Pierre Wunsch said the European Central Bank may raise interest rates again as soon as next month if inflation shows broader signs of spreading beyond energy.
-
----
-
-### 2026-06-19 23:59:31  #市場
-
-洲際交易所 7 月柴油期貨結算價報每噸 905 美元。
-
----
-
-### 2026-06-19 23:59:18  #Trading Economics #Markets #Euro Area #Stock Market #Importance 2
-
-European Stocks Inch Down from Record — European stock indices inched down from their record levels on Friday as the pullback in sovereign yields was halted. The Euro STOXX 50 eased 0.3% to 6,302 and the STOXX Europe 600 dropped 0.2% to 636. Iran delayed the start of talks over its nuclear program and war with the US to halt a streak of de-escalation between both countries that lowered energy prices and propped European equities to a rally this week. Still, plans to restore trade through the Strait of Hormuz progressed with reports that tankers flowed through the chokepoint. Luxury brands closed lower with LVMH, Hermes, and Ferrari dropping between 2.5% and 2.3%. Tech was also lower with ASML and Prosus dropping 1% and 2.2%, respectively. German auto producers rebounded slightly following the guidance decrease from BMW this week, although Volkswagen dropped 4.5% as it was detached from its dividend. On the week, the Euro STOXX 50 gained 1.9% and the STOXX Europe 600 rose 0.4%.
 
 ---
