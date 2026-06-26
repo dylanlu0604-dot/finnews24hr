@@ -1,7 +1,122 @@
 {
-  "updated": "2026-06-26 10:03:22",
-  "count": 17048,
+  "updated": "2026-06-26 10:07:20",
+  "count": 17056,
   "items": [
+    {
+      "id": "4956216",
+      "time": "2026-06-26 10:06:46",
+      "tags": [
+        "其他"
+      ],
+      "text": "【基點起源：近半年內完成3輪融資，總金額達數億元】近日，基點起源（AlignBase）宣佈已於近半年內完成3輪融資，總金額達數億元，由國科投資、電控產投、上海半導體產投、建投投資、鑫和達、崇麟資本、硬核堅果資本等多家知名投資機構聯合參與投資，指數資本擔任財務顧問。融資資金將主要用於全要素大模型核心技術的持續研發、工業場景解決方案的深化。"
+    },
+    {
+      "id": "mkt:019f01ad-f458-7dd8-b12a-1d7107152cd3",
+      "time": "2026-06-26 10:06:45",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【PBOC deputy governor and SAFE director Zhu Hexin meets IMF deputy managing director Li Bo】June 24, 2026 — PBOC Deputy Governor and SAFE Director Zhu Hexin met with IMF Deputy Managing Director Li Bo. They exchanged views on the international economic and financial situation and on deepening cooperation. SAFE Deputy Director Li Bin accompanied Zhu."
+    },
+    {
+      "id": "mkt:019f01ad-e5dc-7dd8-b12a-1316af78e890",
+      "time": "2026-06-26 10:06:41",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "A-share shipping sector slid intraday; China Merchants Shipping hit the daily limit-down, while COSCO Shipping Energy, China Merchants Nanyou, Guohang Yuanyang and HNA Technology also fell."
+    },
+    {
+      "id": "4956215",
+      "time": "2026-06-26 10:06:23",
+      "tags": [
+        "其他"
+      ],
+      "text": "【北京頭部大模型累計註冊使用者達20.5億】6月25日，北京市人民政府新聞辦公室舉行2026全球數字經濟大會新聞釋出會。會上介紹，截至目前，北京頭部大模型累計註冊使用者達到了20.5億，面向全國近5萬家機構提供API的介面服務，龍頭企業示範引領、輻射帶動效應持續凸顯。（網信北京）"
+    },
+    {
+      "id": "mkt:019f01ad-8d70-7dd8-b12a-09261c8775d2",
+      "time": "2026-06-26 10:06:18",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "CSI300",
+        "Impact bullish",
+        "CNH"
+      ],
+      "text": "【Beijing leading large AI models reach 2.05 bln cumulative registered users】At a press briefing for the 2026 Global Digital Economy Conference, Beijing municipal government said its leading large AI models have amassed 2.05 bln cumulative registered users, provide API services to nearly 50,000 institutions nationwide, and that demonstration and spillover effects from leading firms remain evident."
+    },
+    {
+      "id": "4956214",
+      "time": "2026-06-26 10:06:17",
+      "tags": [
+        "公司"
+      ],
+      "text": "【國家外匯管理局局長朱鶴新會見國際貨幣基金組織副總裁李波】6月24日，中國人民銀行副行長、國家外匯管理局局長朱鶴新會見來訪的國際貨幣基金組織副總裁李波。雙方就國際經濟金融形勢、深化交流合作等議題交換了意見。國家外匯管理局副局長李斌陪同會見。"
+    },
+    {
+      "id": "4956213",
+      "time": "2026-06-26 10:05:35",
+      "tags": [
+        "市場"
+      ],
+      "text": "【航運板塊震盪下挫 招商輪船觸及跌停】航運板塊盤中震盪下挫，招商輪船觸及跌停，中遠海能、招商南油、國航遠洋、鳳凰航運、海航科技跟跌。"
+    },
+    {
+      "id": "4956212",
+      "time": "2026-06-26 10:05:25",
+      "tags": [
+        "國際"
+      ],
+      "text": "韓國總統政策室長：6月29日將公佈非常不尋常的資料。"
+    },
+    {
+      "id": "4956211",
+      "time": "2026-06-26 10:05:04",
+      "tags": [
+        "市場"
+      ],
+      "text": "WTI原油日內跌1%，現報71.20美元/桶。"
+    },
+    {
+      "id": "4956210",
+      "time": "2026-06-26 10:04:53",
+      "tags": [
+        "其他"
+      ],
+      "text": "【河南省信陽市人大常委會原副主任陳延虎接受審查調查】中央紀委國家監委網站6月26日通報，據河南省紀委監委訊息：河南省信陽市人大常委會原副主任陳延虎涉嫌嚴重違紀違法，目前正接受河南省紀委監委紀律審查和監察調查。"
+    },
+    {
+      "id": "mkt:019f01ab-7e4f-7dd8-b12a-037b2e11dc37",
+      "time": "2026-06-26 10:04:03",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "01519.HK",
+        "Impact bullish"
+      ],
+      "text": "Hong Kong-listed J&T Express (01519.HK) shares rose more than 3% after the company proposed a share buyback of up to HK$2 billion."
+    },
+    {
+      "id": "4956209",
+      "time": "2026-06-26 10:03:58",
+      "tags": [
+        "其他"
+      ],
+      "text": "江西生物計劃將香港IPO定價為每股11.20港元。（IFR）"
+    },
+    {
+      "id": "mkt:019f01ab-0cf3-7dd8-b129-f9684f8e2477",
+      "time": "2026-06-26 10:03:34",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【MIIT: Jan-May telecom services revenue 735.5 bln yuan, down 1.9% YoY】China's Ministry of Industry and Information Technology (MIIT) says Jan-May telecom services revenue totaled 735.5 bln yuan, down 1.9% YoY. Telecom services volume at constant prices rose 7.9% YoY. Cumulative mobile internet traffic Jan-May reached 181.2 bln GB, up 17.9% YoY. Mobile internet users were 1.634 bln at end-May, a net increase of 24.12 mln vs end of last year. May monthly data usage per user (DOU) was 24.01 GB, up 12.7% YoY and 0.97 GB higher than at end‑of‑last‑year."
+    },
     {
       "id": "mkt:019f01aa-0a01-7dd8-b129-f5b95ce00814",
       "time": "2026-06-26 10:02:28",
@@ -155877,61 +155992,6 @@
         "其他"
       ],
       "text": "【西藏首座大型水電站透過竣工驗收】日前，中國電建設計承建的西藏首座大型水電站，雅魯藏布江藏木水電站順利透過竣工驗收，成為雅魯藏布江幹流首座透過驗收的大型水電工程。藏木水電站裝機容量510兆瓦，最大壩高116米，是雅魯藏布江幹流規劃建設的第一座大型水電站，也是西藏“十一五”時期三大重點工程之一，實現了西藏電力建設從100兆瓦級向500兆瓦級的重大跨越。"
-    },
-    {
-      "id": "mkt:019edda1-841a-7dd8-b08c-675ff04b5b68",
-      "time": "2026-06-19 10:06:50",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Precious Metals",
-        "XAUUSD",
-        "Impact bearish"
-      ],
-      "text": "New York gold futures slid below $4,200/oz, down 1.08% on the day."
-    },
-    {
-      "id": "4944569",
-      "time": "2026-06-19 10:06:00",
-      "tags": [
-        "市場"
-      ],
-      "text": "紐約期銀日內跌2%，現報65.41美元/盎司。"
-    },
-    {
-      "id": "4944568",
-      "time": "2026-06-19 10:06:00",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "紐約期金失守4200美元/盎司，日內跌1.10%。"
-    },
-    {
-      "id": "te:markets:560283",
-      "time": "2026-06-19 10:04:54",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Soybeans Fall from 2-Week High — Soybean futures fell to around $11.2 per bushel, easing from a two-week high as a stronger US dollar and weaker oil prices outweighed expectations of Chinese demand. While the USDA reported 132,000 metric tonnes of US soybeans sold to China, overall buying pace remains slow and concerns remain that China may fall short of projected import volumes. Focus now turns on upcoming USDA crop condition reports next week for signs of stress in the US Midwest soybean belt. Recent heavy rainfalls have disrupted fieldwork, preventing timely fertilizer and crop treatments, raising concerns over potential yield impacts if wet conditions persist. Meanwhile, the US dollar strengthened after the latest Fed policy meeting reinforced bets of rate hikes this year, making US commodities more expensive for foreign buyers. Crude oil also dropped to its lowest level since the start of the Iran war after an interim deal raised expectations of improved supply flows and the reopening of the Strait of Hormuz."
-    },
-    {
-      "id": "mkt:019edd9f-8de7-7dd8-b08c-5aca4b6165d7",
-      "time": "2026-06-19 10:04:41",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC",
-        "XAUUSD",
-        "Impact bullish",
-        "USDJPY",
-        "Impact bearish",
-        "Nikkei 225"
-      ],
-      "text": "【Russia renews criticism of Japan's remilitarization】Russia foreign ministry spokeswoman Zakharova said at a June 18 briefing that Japan has recently increased military deployments in some areas and repeatedly issued and revised policy documents to pave the way for further strengthening of its \"defense forces\". She said Japan's remilitarization contravenes its postwar constitutional pacifist clause and will only exacerbate regional tensions."
     }
   ]
 }
