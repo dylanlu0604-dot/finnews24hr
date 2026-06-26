@@ -1,7 +1,143 @@
 {
-  "updated": "2026-06-26 15:20:06",
-  "count": 17310,
+  "updated": "2026-06-26 15:24:11",
+  "count": 17316,
   "items": [
+    {
+      "id": "4956693",
+      "time": "2026-06-26 15:23:03",
+      "tags": [
+        "公司"
+      ],
+      "text": "大眾汽車集團執行長計劃將大眾核心品牌從現有集團架構中分拆出來，併入一家獨立實體。"
+    },
+    {
+      "id": "te:economy:562152",
+      "time": "2026-06-26 15:22:20",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Sweden",
+        "Consumer Confidence",
+        "Importance 1"
+      ],
+      "text": "Sweden Consumer Morale Improves Slightly — Sweden’s household confidence indicator increased to 93.6 in June 2026, picking up from an upwardly revised 92.8 in the previous month. Confidence was supported by a more optimistic assessment of Sweden's economy, both over the past year and for the year ahead. However, views on households' own financial situation and willingness to make major purchases were unchanged, with consumers remaining more pessimistic about their personal finances than the broader economy. Households continued to expect unemployment to rise over the next 12 months (31 vs 27 in May), although concerns about losing their own jobs eased to the historical average (-6 vs -3). Meanwhile, saving intentions remained relatively strong (47 vs 46), while plans to reduce purchases of capital goods persisted (-18 vs -15). Inflation expectations for the next 12 months declined to 7.0%, and households expected variable mortgage rates to average 3.7% over the next one to two years and 3.9% over the next five years."
+    },
+    {
+      "id": "mkt:019f02ce-40d7-7dd8-b130-cbc1258de963",
+      "time": "2026-06-26 15:21:39",
+      "tags": [
+        "MKT News",
+        "VOW3.DE",
+        "Impact bullish"
+      ],
+      "text": "Volkswagen CEO plans to cut 5,500 managerial positions."
+    },
+    {
+      "id": "4956692",
+      "time": "2026-06-26 15:21:34",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【日經平均股指創歷史第三大跌幅】日經平均股指回落，收盤跌至69360點，比前一天下跌3005點，跌幅4.15%，創歷史第三大單日點數跌幅。盤中一度下跌超過3700點，跌破了6萬9000點的心理關口。受前一天美國股市主要科技股下跌的影響，前一天重新整理最高點的日本股票出現了獲利拋售。"
+    },
+    {
+      "id": "4956691",
+      "time": "2026-06-26 15:21:28",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行將停用約40份針對銀行的監管指引，作為減輕銀行業監管負擔措施的一部分。"
+    },
+    {
+      "id": "4956690",
+      "time": "2026-06-26 15:21:10",
+      "tags": [
+        "公司"
+      ],
+      "text": "大眾汽車執行長計劃裁減5500個管理崗位。"
+    },
+    {
+      "id": "4956689",
+      "time": "2026-06-26 15:21:05",
+      "tags": [
+        "公司"
+      ],
+      "text": "【財通基金金梓才旗下6只產品限購再升級：2只閉門謝客】6月26日，財通基金公告稱，為了保證基金的平穩運作，保護基金份額持有人利益，決定自6月26日起，對公司副總經理、權益投資總監金梓才旗下在管的財通景氣甄選一年持有期、財通匠心優選一年持有期兩隻基金，直接暫停申購、定期定額投資及轉換轉入業務。"
+    },
+    {
+      "id": "mkt:019f02cd-7a36-7dd8-b130-c6652a2fc5f6",
+      "time": "2026-06-26 15:20:48",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "EURUSD",
+        "Impact bullish",
+        "DAX",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "【ECB to withdraw about 40 supervisory documents to ease banks' regulatory burden】The European Central Bank will withdraw about 40 supervisory guidance documents to reduce banks' regulatory burden, Executive Board member Elderson said on Friday. The ECB reviewed more than 130 such documents to streamline them and make them easier to use; the items being removed are either outdated, superseded by new rules, no longer applicable, or have been revised. Post-crisis, European authorities are seeking to trim the large requirements placed on banks to improve supervisory efficiency while preserving financial‑system resilience. European banks say the changes remain insufficient compared with U.S. steps to remove or relax some regulatory requirements."
+    },
+    {
+      "id": "4956688",
+      "time": "2026-06-26 15:20:43",
+      "tags": [
+        "國際"
+      ],
+      "text": "據報道，SK 海力士有望重新啟動韓國本土 NAND 快閃記憶體晶圓廠的建設，具體選址則落在已有佈局的清州域內。"
+    },
+    {
+      "id": "mkt:019f02cd-1e06-7dd8-b130-b82175153486",
+      "time": "2026-06-26 15:20:24",
+      "tags": [
+        "MKT News",
+        "VOW3.DE",
+        "Impact bearish",
+        "DAX"
+      ],
+      "text": "Volkswagen Group's plants in Hannover, Zwickau and Emden and Audi's Neckarsulm plant are expected to close in the medium term."
+    },
+    {
+      "id": "mkt:019f02cc-a909-7dd8-b130-b7bbe265f072",
+      "time": "2026-06-26 15:19:54",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【Xiamen–Kinmen \"mini three links\" YTD passenger traffic tops 1.0 mln】Gaoqi station of the Xiamen Entry‑Exit Inspection Station reports that as of 15:00 on June 26 year‑to‑date passenger traffic on the Xiamen–Kinmen \"mini three links\" exceeded 1.0 mln, reaching the milestone 44 days earlier than last year and rising over 25% YoY — the fastest pace to surpass 1.0 mln since the route opened."
+    },
+    {
+      "id": "te:markets:562150",
+      "time": "2026-06-26 15:19:42",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United Kingdom",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "FTSE 100 Falls on Friday — The FTSE 100 traded 0.3% lower on Friday, tracking a broader decline in European equities fueled by retreating oil prices and a US technology selloff. Oil prices weakened on growing optimism surrounding a potential US Iran peace deal and restored shipping traffic through the Strait of Hormuz, directly hitting energy heavyweights BP and Shell, which dropped 1% and 0.7% respectively. Globally, market sentiment soured following a slide in Apple shares and reports that OpenAI might delay its initial public offering. This broader risk off environment dragged down banks like HSBC by over 1%, pharmaceutical firms AstraZeneca (-0.5%) and GSK (-1.2%), and aerospace manufacturing giants Rolls Royce (-0.5%) and BAE Systems (-0.5%). Mining majors Rio Tinto was down 0.2% and Glencore slid over 1%. Defying the downturn, consumer staples Unilever rose 0.5% and British American Tobacco gained 1.3%. Despite Friday's loss, the UK index is up more than 1% so far this week."
+    },
+    {
+      "id": "4956687",
+      "time": "2026-06-26 15:19:37",
+      "tags": [
+        "國際"
+      ],
+      "text": "哈薩克能源部長稱，若收到正式請求，可能考慮向俄羅斯出口燃料。"
+    },
+    {
+      "id": "4956686",
+      "time": "2026-06-26 15:19:32",
+      "tags": [
+        "其他"
+      ],
+      "text": "【今年以來廈金“小三通”航線出入境旅客量突破100萬人次】據廈門邊檢總站高崎邊檢站資料統計，截至6月26日15時，今年以來廈金“小三通”航線出入境旅客量突破100萬人次，較去年提前44天達到這一節點，同比增長超25%，重新整理航線通航以來破百萬客流最快紀錄。（央視新聞）"
+    },
     {
       "id": "mkt:019f02cc-020d-7dd8-b130-ae38cd2744c3",
       "time": "2026-06-26 15:19:11",
@@ -158327,79 +158463,6 @@
         "DXY"
       ],
       "text": "【Israeli finance minister: must open 'gates of hell' on Hezbollah】Following heavy fighting in southern Lebanon today, Israeli Finance Minister Smotrich said Israel should intensify its offensive in the area and \"open the gates of hell\" on Hezbollah."
-    },
-    {
-      "id": "4944857",
-      "time": "2026-06-19 15:24:05",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "歐洲央行執委連恩：到目前為止，這屬於中等規模的通脹衝擊。"
-    },
-    {
-      "id": "4944856",
-      "time": "2026-06-19 15:22:32",
-      "tags": [
-        "其他"
-      ],
-      "text": "巴基斯坦總理表示，燃油價格將根據全球成本進行下調。"
-    },
-    {
-      "id": "4944855",
-      "time": "2026-06-19 15:22:20",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【歐元區政府債券收益率高開】歐元區政府債券收益率在開盤交易中走高，由於適逢六月節假期美國國債市場休市，因此沒有來自美國國債的指引。雖然霍爾木茲海峽的油輪交通顯然已經開始，但美國副總統JD·萬斯不再前往瑞士參加美伊談判，儘管美國和伊朗已經簽署了諒解備忘錄。根據Tradeweb的資料，10年期德國國債收益率上升3.7個基點，至2.957%。"
-    },
-    {
-      "id": "4944854",
-      "time": "2026-06-19 15:22:11",
-      "tags": [
-        "市場",
-        "央行",
-        "國際"
-      ],
-      "text": "【經濟學家：日本消費者通脹率料將回升至2%上】日生基礎研究所經濟學家Taro Saito表示，未來幾個月日本消費者通脹率可能回升至央行2%的目標上方，食品和日用品等廣泛類別的價格漲幅預計將加快。他說，儘管在美伊達成和平協議後油價出現下跌，但由於生產商成本已經大幅攀升，消費者物價的上漲似乎在所難免。日本央行決策者已經警告過通脹風險，稱日本企業在將不斷上漲的成本轉嫁給消費者方面變得比過去更加激進。"
-    },
-    {
-      "id": "4944853",
-      "time": "2026-06-19 15:21:56",
-      "tags": [
-        "其他"
-      ],
-      "text": "巴基斯坦總理表示，當地燃油價格將下調。"
-    },
-    {
-      "id": "4944852",
-      "time": "2026-06-19 15:20:24",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "歐洲央行連恩：歐元區經濟保持穩定增長勢頭。"
-    },
-    {
-      "id": "te:economy:560396",
-      "time": "2026-06-19 15:20:20",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Georgia",
-        "Balance of Trade",
-        "Importance 1"
-      ],
-      "text": "Georgia Trade Gap Narrows in May — Georgia’s trade deficit narrowed to USD 894.9 million in May 2026 from USD 906.4 million in the same month a year earlier. Exports rose 15.1% year-on-year to USD 667.8 million, while imports increased 5.1% to USD 1,562.6 million. In the January-May period, exports climbed 19.8% to USD 3,107.7 million, driven by stronger sales of oil and petroleum products (885.8%), copper ores and concentrates (206.5%), and precious metal ores and concentrates (87.2%). Among major trading partners, exports surged to China (145.7%), Armenia (28.8%), and Turkey (65.6%). Meanwhile, imports fell 1.9% to USD 7,331.9 million, weighed by lower purchases of passenger cars (-20.2%) and trucks (-20.4%). Imports from the USA fell 33.9%, while those from Germany and Japan declined 8.8% and 1%, respectively. The country's trade deficit for January-May reached USD 4,224.2 million, narrowing from USD 4,875.8 million in the same period last year."
-    },
-    {
-      "id": "4944851",
-      "time": "2026-06-19 15:20:09",
-      "tags": [
-        "其他"
-      ],
-      "text": "標普關於巴布亞紐幾內亞的觀點：若全球能源市場長期處於錯位狀態，增長可能面臨下行風險。"
     }
   ]
 }
