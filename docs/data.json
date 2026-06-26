@@ -1,7 +1,266 @@
 {
-  "updated": "2026-06-26 09:27:48",
-  "count": 16956,
+  "updated": "2026-06-26 09:31:47",
+  "count": 16971,
   "items": [
+    {
+      "id": "mkt:019f018d-900e-7dd8-b128-dd64bce81787",
+      "time": "2026-06-26 09:31:22",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【China government bond futures open: morning session】At the morning open, China’s 2-year government bond futures (TS) most-active contract fell 0.01%, 5-year (TF) unchanged, 10-year (T) unchanged, 30-year (TL) up 0.10%."
+    },
+    {
+      "id": "4956122",
+      "time": "2026-06-26 09:31:17",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "中證500指數期貨連續主力合約日內跌1%，現報8610.80點。"
+    },
+    {
+      "id": "4956121",
+      "time": "2026-06-26 09:31:08",
+      "tags": [
+        "市場"
+      ],
+      "text": "中證轉債指數開盤下跌0.03%。迴天轉債、祥和轉債、聯瑞轉債、威唐轉債、奕瑞轉債跌幅居前，分別跌4.57%、4.39%、2.67%、2.46%、2.38%。恆逸轉2、花園轉債、百潤轉債、金05轉債、天準轉債漲幅居前，分別漲8.18%、4.44%、3.14%、1.70%、1.50%。"
+    },
+    {
+      "id": "4956120",
+      "time": "2026-06-26 09:31:05",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "中證1000指數期貨連續主力合約日內跌1%，現報8432.00點。"
+    },
+    {
+      "id": "mkt:019f018d-469a-7dd8-b128-d6dc6f4e5996",
+      "time": "2026-06-26 09:31:03",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "Hang Seng Index",
+        "Impact bearish"
+      ],
+      "text": "HSI fell 1%; Hang Seng Tech Index fell 1.8%."
+    },
+    {
+      "id": "4956119",
+      "time": "2026-06-26 09:31:02",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "北證50日內跌幅達1.21%，成分股中，同惠電子跌5.67%，曙光數創跌3.98%，華嶺股份跌3.83%，納科諾爾跌2.77%。"
+    },
+    {
+      "id": "4956118",
+      "time": "2026-06-26 09:30:44",
+      "tags": [
+        "市場"
+      ],
+      "text": "富時中國A50指數期貨跌幅擴大至1%。"
+    },
+    {
+      "id": "4956117",
+      "time": "2026-06-26 09:30:38",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "恒生指數跌超1%，現報22840.230點；恒生科技指數現跌1.647%。"
+    },
+    {
+      "id": "4956116",
+      "time": "2026-06-26 09:30:32",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "多晶矽連續主力合約日內跌4%，現報34685.00元。"
+    },
+    {
+      "id": "4956115",
+      "time": "2026-06-26 09:30:27",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【電網裝置板塊高開，寶勝股份漲停】電網裝置板塊高開，寶勝股份漲停，白雲電器、億能電力、安科瑞、杭州柯林、長城科技跟漲。"
+    },
+    {
+      "id": "4956114",
+      "time": "2026-06-26 09:30:26",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "深證成指跌1.00%，現報16180.621點；上證指數跌0.54%，現報4097.895點；創業板指跌1.47%，現報4307.839點。"
+    },
+    {
+      "id": "4956113",
+      "time": "2026-06-26 09:30:19",
+      "tags": [
+        "其他"
+      ],
+      "text": "【海口桂林洋110kV福創輸變電工程全面投運】據海口日報，近日，隨著最後一組專項除錯及執行試驗資料順利達標，海口桂林洋110kV福創輸變電新建工程正式投入運營。作為江東新區總部經濟區（生態CBD）唯一規劃的110kV變電站，該專案投運後將有效破解園區供電瓶頸，為江東新區高質量發展提供堅實電力保障。"
+    },
+    {
+      "id": "mkt:019f018c-5eef-7dd8-b128-c82b1ae97fca",
+      "time": "2026-06-26 09:30:04",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "02272.HK",
+        "Impact bullish",
+        "01956.HK",
+        "09630.HK"
+      ],
+      "text": "Hong Kong new listings rallied: Ketuo Co. (02272.HK) surged 178.38%, Zhongke Wenge (01956.HK) rose 81.22%, and Xinqi Weizhuang (09630.HK) gained 73.70%."
+    },
+    {
+      "id": "4956112",
+      "time": "2026-06-26 09:30:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "【股指期貨早盤開盤】 中證1000指數期貨連續跌0.44%， 滬深300指數期貨連續跌0.27%， 中證500指數期貨連續跌0.47%， 上證50指數期貨連續跌0.10%。"
+    },
+    {
+      "id": "4956111",
+      "time": "2026-06-26 09:30:02",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "恒生科技指數跌超1%，現報4352.950點；恒生指數現跌0.578%。"
+    },
+    {
+      "id": "4956110",
+      "time": "2026-06-26 09:30:02",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "科創50日內跌幅達1.54%，成分股中，翱捷科技跌3.39%，盛科通訊跌3.28%，華虹宏力跌3.14%，佰維儲存跌3.11%。"
+    },
+    {
+      "id": "4956109",
+      "time": "2026-06-26 09:30:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "【國債期貨開盤】 30年期主力合約漲0.10%， 10年期主力合約基本持平， 5年期主力合約漲0.01%， 2年期主力合約漲0.01%。"
+    },
+    {
+      "id": "4956108",
+      "time": "2026-06-26 09:29:42",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【特朗普將首次乘坐卡達贈送的新專機 下週出席北達科他州活動】據白宮官員透露，唐納德·特朗普將首次乘坐卡達政府贈送的新總統專機，計劃於7月1日前往北達科他州參加活動。特朗普將首次乘坐這架波音公司747-8飛機，出席西奧多·羅斯福總統圖書館的落成典禮，也是他下週為慶祝美國建國250週年而舉辦的一系列活動之一。"
+    },
+    {
+      "id": "mkt:019f018b-bab1-7dd8-b128-c3d184bc4130",
+      "time": "2026-06-26 09:29:22",
+      "tags": [
+        "MKT News",
+        "000300.SS",
+        "Impact bearish",
+        "000001.SS",
+        "399001.SZ"
+      ],
+      "text": "A-share CPO sector opened sharply lower in early trade; Lihexing fell more than 8%, Taichenguang dropped over 7%, Tonghui Electronics declined about 6%, and Luxshare Precision and Changyingtong were down more than 4%."
+    },
+    {
+      "id": "mkt:019f018b-a488-7dd8-b128-b8e241409ed9",
+      "time": "2026-06-26 09:29:16",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "CSI300",
+        "Impact bullish",
+        "SSE Composite",
+        "Hang Seng Index"
+      ],
+      "text": "【Galaxy Securities H2 2026 machinery outlook: focus on AI-related tech growth】Galaxy Securities says H2 2026 investment opportunities in the machinery equipment sector center on three market themes: prioritise AI-related tech growth — e.g., optical-module test instruments, AI PCB equipment and consumables, and AI power-generation equipment; target strategic and emerging industries highlighted in China’s 15th Five-Year Plan, such as humanoid robotics and controlled nuclear fusion; and favour low-valuation, high-quality stocks with rising industry beta in cyclical subsectors, including construction/engineering machinery and machine tools."
+    },
+    {
+      "id": "4956107",
+      "time": "2026-06-26 09:29:00",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【港股新股集體走強 科拓股份等個股漲超70%】利弗莫爾證券顯示，截至發稿，科拓股份(02272.HK)漲178.38%，中科聞歌(01956.HK)漲81.22%，芯碁微裝(09630.HK)漲73.70%。"
+    },
+    {
+      "id": "4956106",
+      "time": "2026-06-26 09:28:53",
+      "tags": [
+        "其他"
+      ],
+      "text": "【孟加拉國總理塔裡克向人民英雄紀念碑敬獻花圈】6月26日上午，孟加拉國總理塔裡克前往天安門廣場，向人民英雄紀念碑敬獻花圈。（央視新聞）"
+    },
+    {
+      "id": "mkt:019f018a-f8c7-7dd8-b128-b5c9d79c349f",
+      "time": "2026-06-26 09:28:32",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "China A-share lab-grown diamond sector pulled back; Huifeng Diamond fell over 7%, Liliang Diamond dropped over 5%, Huanghe Xuanfeng down more than 4%, Sifangda and Chujiang New Material also declined."
+    },
+    {
+      "id": "4956105",
+      "time": "2026-06-26 09:28:09",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【日本航空自衛隊改編航空宇宙自衛隊】今天（6月26日），包含將日本航空自衛隊改編為“航空宇宙自衛隊”等內容的《防衛省設定法》等修正案，在日本參議院全體會議上獲得透過。修正後的《防衛省設定法》等明確“將宇宙領域列為新的行動領域”，並規定將航空自衛隊更名為“航空宇宙自衛隊”。日本“航空宇宙自衛隊”預計將在本財年（2026年4月1日至2027年3月31日）內正式成立，並將新組建負責宇宙領域任務的專業部隊——“宇宙作戰集團”。這是自1954年日本航空自衛隊成立以來，首次對其組織名稱進行調整。（CCTV國際時訊）"
+    },
+    {
+      "id": "mkt:019f018a-92c2-7dd8-b128-ae945fa0e536",
+      "time": "2026-06-26 09:28:06",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC"
+      ],
+      "text": "【Japan approves renaming of Air Self-Defense Force to Air and Space Self-Defense Force】Japan’s House of Councillors passed amendments to the Defense Ministry Establishment Law today, formally designating space as a new operational domain and renaming the Air Self-Defense Force the Air and Space Self-Defense Force. The new service is expected to be established in fiscal 2026 (Apr. 1, 2026–Mar. 31, 2027) and will include a newly created Space Operations Group responsible for space missions. This is the first organizational name change since the Air Self-Defense Force’s founding in 1954."
+    },
+    {
+      "id": "4956104",
+      "time": "2026-06-26 09:27:59",
+      "tags": [
+        "觀點",
+        "其他"
+      ],
+      "text": "【銀河證券下半年機械行業展望：緊抓跟AI相關科技成長主線】銀河證券研報稱，展望2026年下半年機械裝置板塊的投資機會，可以從三個方面考慮：一是繼續緊抓跟AI相關科技成長主線，包括光模組測試儀器、AI PCB裝置及耗材、AI發電裝置等；二是“十五五”規劃強調未來產業和新興產業，是中國經濟轉型升級新舊動能轉換的關鍵，包括人形機器人、可控核聚變等；三是從各細分行業週期性特徵考慮選擇行業β向上的低估值基本面優質個股，包括工程機械、機床等板塊。"
+    },
+    {
+      "id": "mkt:019f018a-1561-7dd8-b128-a46f3b1d11c5",
+      "time": "2026-06-26 09:27:34",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "SSE Composite",
+        "Impact bearish",
+        "CSI300",
+        "SZSE Component"
+      ],
+      "text": "Friday, June 26 — China's Shanghai Composite opened down 21.59 points (-0.52%) at 4,098.69; Shenzhen Composite opened down 132.68 points (-0.81%) at 16,211.41; CSI 300 Index opened down 38.28 points (-0.76%) at 4,981.83; ChiNext Index opened down 52.58 points (-1.20%) at 4,319.41; STAR 50 Index opened down 31.90 points (-1.54%) at 2,034.43."
+    },
     {
       "id": "4956103",
       "time": "2026-06-26 09:27:18",
@@ -154938,111 +155197,6 @@
         "國際"
       ],
       "text": "日本央行副行長冰見野良三：燃料成本上漲對消費者物價指數(CPI)的影響可能在今年夏季前後加大。"
-    },
-    {
-      "id": "4944537",
-      "time": "2026-06-19 09:31:38",
-      "tags": [
-        "市場"
-      ],
-      "text": "【三連漲，廈門二手房持續修復，新房同步企穩】據中國房地產報，廈門二手房銷售價格連續3個月上漲，走出獨立修復行情。成交端同樣釋放積極訊號。據克而瑞廈門地產監測，2026年5月廈門二手住宅網籤成交2345套，成交面積22.81萬平方米；環比成交套數下滑18.7%、成交面積回落13.8%，同比成交套數大漲37.1%、成交面積上漲33.7%，連續第三個月站穩2200套成交基準線，市場基本盤穩固。與二手房的修復態勢呼應，廈門新房市場同步迎來企穩拐點，結束了此前的環比下行態勢，行情穩步改善。展望2026年下半年，廈門樓市結構性修復行情將持續延續。短期來看，6月房企年中衝刺有望推動新房供應回暖，剛需需求持續釋放；二手房短期維持溫和修復。"
-    },
-    {
-      "id": "4944536",
-      "time": "2026-06-19 09:31:17",
-      "tags": [
-        "國際"
-      ],
-      "text": "【報告：今夏全球赴歐旅行意願小幅回落，中國領跑客源市場】歐洲旅遊委員會（ETC）與歐鐵（Eurail）6月18日聯合釋出的《長途旅行晴雨表2/2026》報告顯示，受旅行成本及價效比考量影響，今夏全球旅客赴歐旅行意願小幅回落，中國仍是最強勁客源市場。（新華財經）"
-    },
-    {
-      "id": "4944535",
-      "time": "2026-06-19 09:31:11",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "菲律賓股市開盤上漲0.5%，至6182.78點。"
-    },
-    {
-      "id": "4944534",
-      "time": "2026-06-19 09:30:52",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "日本央行冰見野良三：每日市場趨勢、貨幣政策和政府債券購買決策之間沒有直接關係。向市場參與者仔細解釋貨幣政策至關重要。不會對當前市場的價格狀況發表具體評論。"
-    },
-    {
-      "id": "em:qqyh_ozyh:202606193776794090",
-      "time": "2026-06-19 09:30:33",
-      "tags": [
-        "央行",
-        "歐洲央行"
-      ],
-      "text": "【歐洲央行首席經濟學家：中性利率上限升至2.5% 加息決策不受油價回落影響】歐洲央行首席經濟學家菲利普·連恩（PhilipLane）6月18日明確表示，儘管近期國際能源價格出現回落，歐元區通脹率仍將在較長時期內維持在2%的目標水平之上。他同時透露，該行對中性利率區間的測算已進行調整，其上限從此前的2.25%上調至2.50%。"
-    },
-    {
-      "id": "mkt:019edd7f-debe-7dd8-b08b-ea3017bc08f5",
-      "time": "2026-06-19 09:30:05",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Bank of Japan Deputy Governor HIMINO said he will not comment on market pricing of future interest-rate hikes."
-    },
-    {
-      "id": "mkt:019edd7f-1c1f-7dd8-b08b-e447bb3a27d2",
-      "time": "2026-06-19 09:29:15",
-      "tags": [
-        "MKT News",
-        "USDJPY"
-      ],
-      "text": "Bank of Japan Deputy Governor HIMINO said the BOJ actively exchanges views with overseas authorities but will ultimately decide policy independently."
-    },
-    {
-      "id": "mkt:019edd7e-e983-7dd8-b08b-daa57e935f07",
-      "time": "2026-06-19 09:29:02",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Iranian parliament speaker Ghalibaf said that after Iran signs a memorandum of understanding (MOU) with the U.S., Tehran will continue to uphold its established conditions and red lines and remain committed to protecting the interests of the Iranian people."
-    },
-    {
-      "id": "4944533",
-      "time": "2026-06-19 09:28:48",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "日本央行冰見野良三：我們與海外當局積極交換意見，但最終由我們自行決定政策。"
-    },
-    {
-      "id": "4944532",
-      "time": "2026-06-19 09:28:19",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "日本央行冰見野良三：正密切關注市場動態，將其視為重要訊號。在制定我們的債券購買計劃時，最重要的是讓市場自由決定價格。"
-    },
-    {
-      "id": "4944531",
-      "time": "2026-06-19 09:28:17",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "布倫特原油突破79美元/桶，日內跌0.63%。"
-    },
-    {
-      "id": "mkt:019edd7d-dfe3-7dd8-b08b-d13286490f47",
-      "time": "2026-06-19 09:27:54",
-      "tags": [
-        "MKT News",
-        "USDJPY",
-        "Impact mixed"
-      ],
-      "text": "Himino, deputy governor of the Bank of Japan, said the most important consideration when designing bond-purchase programs is to allow market-based price discovery."
     }
   ]
 }
