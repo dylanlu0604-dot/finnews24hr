@@ -1,7 +1,110 @@
 {
-  "updated": "2026-06-27 04:01:03",
-  "count": 18102,
+  "updated": "2026-06-27 04:05:06",
+  "count": 18108,
   "items": [
+    {
+      "id": "4957982",
+      "time": "2026-06-27 04:04:18",
+      "tags": [
+        "國際"
+      ],
+      "text": "美方分析師失實言論遭調查，該言論關聯造成傷亡的伊朗校園襲擊事件。"
+    },
+    {
+      "id": "4957981",
+      "time": "2026-06-27 04:03:54",
+      "tags": [
+        "其他"
+      ],
+      "text": "委內瑞拉石油部長表示，國內天然氣供應量足以滿足本土需求。"
+    },
+    {
+      "id": "mkt:019f0587-c5b1-7dd8-b13e-da4645a2d254",
+      "time": "2026-06-27 04:03:31",
+      "tags": [
+        "MKT News",
+        "Dow",
+        "Impact bearish",
+        "S&P500",
+        "Nasdaq100"
+      ],
+      "text": "Dow Jones Industrial Average closed down 46.67 points (-0.09%) at 51,873.95 on Friday, June 26; S&P 500 closed down 4.20 points (-0.06%) at 7,353.29; Nasdaq Composite closed down 60.99 points (-0.24%) at 25,297.62."
+    },
+    {
+      "id": "mkt:019f0587-c171-7dd8-b13e-d6ac9c2252df",
+      "time": "2026-06-27 04:03:30",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Venezuela's oil minister said operations are normal, wells remain active and total production is 1.2 mln bpd."
+    },
+    {
+      "id": "4957980",
+      "time": "2026-06-27 04:02:36",
+      "tags": [
+        "其他"
+      ],
+      "text": "委內瑞拉石油部長表示，目前石油作業一切正常，油井均保持生產，整體產量為每日120萬桶。"
+    },
+    {
+      "id": "4957979",
+      "time": "2026-06-27 04:02:05",
+      "tags": [
+        "市場"
+      ],
+      "text": "SpaceX在納入羅素指數前最終上漲約0.15%。"
+    },
+    {
+      "id": "4957978",
+      "time": "2026-06-27 04:01:50",
+      "tags": [
+        "市場"
+      ],
+      "text": "安森美半導體收盤下跌24%，創2020年以來最大單日跌幅。"
+    },
+    {
+      "id": "mkt:019f0585-ca7f-7dd8-b13e-c8a23ca054bd",
+      "time": "2026-06-27 04:01:21",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "Venezuela’s oil minister said the country’s fuel reserves are sufficient and authorities are assessing infrastructure to prevent shortages."
+    },
+    {
+      "id": "4957977",
+      "time": "2026-06-27 04:01:19",
+      "tags": [
+        "其他"
+      ],
+      "text": "委內瑞拉石油部長表示，該國目前燃料儲備充足，主管部門正對能源基礎設施展開評估，以避免出現供應短缺。"
+    },
+    {
+      "id": "4957976",
+      "time": "2026-06-27 04:01:04",
+      "tags": [
+        "其他"
+      ],
+      "text": "多倫多綜合股指.GSPTSE非官方收漲129.79點，漲幅0.37%，報34980.00點。"
+    },
+    {
+      "id": "4957975",
+      "time": "2026-06-27 04:01:00",
+      "tags": [
+        "市場"
+      ],
+      "text": "本週，標普累跌約1.9%，道指累漲約0.4%連漲三週，納指累跌約4.4%。"
+    },
+    {
+      "id": "4957974",
+      "time": "2026-06-27 04:00:48",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【美股收盤：三大股指集體收跌】道指跌0.12%，標普500指數跌0.07%，納指跌0.17%。ON SEMICONDUCTOR跌23.67%，西部資料跌13.13%，希捷跌12.44%，閃迪跌10.36%。“七姐妹”方面：微軟漲5.92%，蘋果漲3.38%，亞馬遜漲2.20%，Meta Platforms漲1.41%，特斯拉漲1.37%，英偉達跌1.44%，谷歌跌2.09%。"
+    },
     {
       "id": "4957973",
       "time": "2026-06-27 04:00:02",
@@ -165506,56 +165609,6 @@
         "國際"
       ],
       "text": "特朗普稱卡達捐贈的空軍一號飛機配備了星鏈網路。"
-    },
-    {
-      "id": "4945440",
-      "time": "2026-06-20 04:04:39",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國總統特朗普：我結束了8場戰爭，與伊朗的戰爭是最艱難的；F-47正在建造中。已經啟動了裝配線。他們說這是有史以來最偉大的戰鬥機。我們會驗證這一點。"
-    },
-    {
-      "id": "4945439",
-      "time": "2026-06-20 04:04:28",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：我要特別感謝 250 名工作人員，他們晝夜不休趕工，讓這架專機投入使用，其中也包括安德魯斯聯合基地的眾多空軍官兵。"
-    },
-    {
-      "id": "mkt:019ee17c-163b-7dd8-b09b-19b3be508bbe",
-      "time": "2026-06-20 04:04:26",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "The Trump Trade"
-      ],
-      "text": "President Trump said the United States has the world's top military and most advanced aircraft and should be equipped with a top-tier presidential plane."
-    },
-    {
-      "id": "mkt:019ee17b-80ba-7dd8-b09b-163fd0d8fc71",
-      "time": "2026-06-20 04:03:47",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "President Trump said the F-47 is under construction and an assembly line has been started. He said they claim it is the greatest fighter jet ever and that the claim will be verified."
-    },
-    {
-      "id": "4945438",
-      "time": "2026-06-20 04:02:47",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：我們擁有全球頂尖的軍隊，擁有世上最先進的各類軍機，我們也理應配備最頂級的總統專機。"
-    },
-    {
-      "id": "4945437",
-      "time": "2026-06-20 04:01:09",
-      "tags": [
-        "市場"
-      ],
-      "text": "多倫多綜合股指非正式收盤下跌 111.92 點，跌幅 0.32%，報 34857.34 點。"
     }
   ]
 }
