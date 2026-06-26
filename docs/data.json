@@ -1,7 +1,46 @@
 {
-  "updated": "2026-06-26 08:20:58",
-  "count": 16917,
+  "updated": "2026-06-26 08:24:58",
+  "count": 16918,
   "items": [
+    {
+      "id": "4956015",
+      "time": "2026-06-26 08:23:22",
+      "tags": [
+        "市場"
+      ],
+      "text": "【全球最大的黃金ETF SPDR Gold Trust持倉較前日減少6.27噸】截至2026年06月25日，全球最大的黃金ETF SPDR Gold Trust持倉量為1007.08噸，較前一個交易日減少6.27噸。"
+    },
+    {
+      "id": "mkt:019f014e-c556-7dd8-b127-ad5c77c23850",
+      "time": "2026-06-26 08:22:47",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "South Korea’s Ministry of Oceans and Fisheries says eight South Korean vessels have exited the Strait of Hormuz."
+    },
+    {
+      "id": "4956014",
+      "time": "2026-06-26 08:21:48",
+      "tags": [
+        "國際"
+      ],
+      "text": "韓國海洋部：另有八艘韓國船隻已駛出霍爾木茲海峽。"
+    },
+    {
+      "id": "mkt:019f014c-d4b9-7dd8-b127-a52dc0175b36",
+      "time": "2026-06-26 08:20:40",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "【China International Capital Co: Gold bull market not over; turnaround may be near】China International Capital Co says gold’s selloff since March does not signal the end of the bull market. International gold fell below $4,000/oz, off more than 25% from the March peak of $5,321/oz. CICC cites two primary drivers: US–Iran conflict-driven oil and inflation upside, which stoked tightening expectations, and a June FOMC appearance by a Fed official that was read as hawkish — the dot plot revised up inflation expectations and roughly half of the 18 voters signalled support for at least one rate hike this year. Futures markets have priced one Fed hike in 2026 and one in 2027; a stronger dollar has weighed on gold. CICC cautions against linear extrapolation: US inflation may have peaked and could trend down in H2, and the recent hawkish rhetoric does not necessarily mark a permanent Fed shift away from eventual easing. Conclusion: the correction is not the end of the gold bull market; a turnaround may be near. Recommendation: maintain positions and buy on dips."
+    },
     {
       "id": "4956013",
       "time": "2026-06-26 08:20:08",
@@ -154693,33 +154732,6 @@
         "國際"
       ],
       "text": "日本央行冰見野良三：儘管油價上漲帶來影響，但穩健的企業盈利正在支撐經濟。"
-    },
-    {
-      "id": "4944472",
-      "time": "2026-06-19 08:23:42",
-      "tags": [
-        "市場",
-        "央行",
-        "國際"
-      ],
-      "text": "【亞市早盤金價下跌 偏緊縮的美聯儲的影響蓋過美伊協議帶來的寬慰】亞洲早盤金價下跌。現貨黃金下跌0.8%，報每盎司4,184.93美元。澳新銀行研究部分析師在一份報告中表示，這種貴金屬的價格正受到拖累，更加偏緊縮的美聯儲的影響蓋過了美伊臨時和平協議帶來的寬慰。澳新銀行補充說，美聯儲主席沃什在本週早些時候該央行維持利率不變後誓言要恢復價格穩定，並暗示對加息的支援日益增加。"
-    },
-    {
-      "id": "4944471",
-      "time": "2026-06-19 08:21:24",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "日本央行委員冰見野良三：認為基礎通脹有可能超過2%的目標。"
-    },
-    {
-      "id": "4944470",
-      "time": "2026-06-19 08:20:59",
-      "tags": [
-        "公司"
-      ],
-      "text": "【澳洲聯邦銀行任命新任資訊長和技術長 以推動技術及人工智慧戰略】澳洲聯邦銀行(CBA)週五任命維多利亞·萊達（Victoria Ledda）為集團資訊長，羅德里戈·卡斯蒂略（Rodrigo Castillo）為集團技術長，此舉旨在進一步強化該行在數字化、資料和人工智慧領域的實力。執行長馬特·科明（Matt Comyn）表示，此次任命體現了該行致力於“為客戶提供更優質、更安全、更具韌性的技術”。CBA稱，上述任命將於7月1日生效，但需獲得監管機構批准。一直將自己定位為人工智慧早期採用者的CBA，最近舉辦了一場由OpenAI執行長薩姆·阿爾特曼出席的內部峰會，並聘請了據稱是該國首家銀行首席人工智慧科學家。"
     }
   ]
 }
