@@ -1,7 +1,143 @@
 {
-  "updated": "2026-06-26 15:40:46",
-  "count": 17355,
+  "updated": "2026-06-26 15:45:00",
+  "count": 17369,
   "items": [
+    {
+      "id": "mkt:019f02e2-f219-7dd8-b131-63bb7b4f2c73",
+      "time": "2026-06-26 15:44:15",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Brent",
+        "Impact bearish",
+        "WTI"
+      ],
+      "text": "Brent crude fell 2.00% intraday to $73.67/bbl. WTI slid back below $70/bbl, down 1.87% on the day."
+    },
+    {
+      "id": "4956756",
+      "time": "2026-06-26 15:44:04",
+      "tags": [
+        "市場",
+        "觀點"
+      ],
+      "text": "【午後，金銀“大反攻”！已現“黃金坑”？】今日午後，金銀價格突然反彈，現貨黃金價格日內轉漲，現報4032.18美元/盎司，此前一度跌破4000美元/盎司大關。現貨白銀價格抹去日內超3%的跌幅，現漲0.93%，報58.148美元/盎司。多家機構已下調黃金目標價，但仍預計金價年底將顯著高於當前水平。有分析師認為，當前的加息預期有些過度，這將成為反彈行情的關鍵驅動因素。高盛認為年底金價會反彈至4900美元/盎司。華源期貨副總經理孫伏鯤表示，當前市場爭論的焦點已從“是否加息”變為“何時加息”，今年7月、9月、12月加息都已被市場計價，加息落地已成為市場的一致性預期。美元指數持續走強，以美元計價的商品價格集體承壓。整體來看，當前大宗商品市場進入訊息面主導的高波動階段，宏觀、地緣、產業多重變數交織，確定性行情減少。交易者需嚴格做好倉位與風險管理。（期貨日報）"
+    },
+    {
+      "id": "4956755",
+      "time": "2026-06-26 15:44:01",
+      "tags": [
+        "公司"
+      ],
+      "text": "【哈藥股份：阿維巴坦鈉原料藥獲上市申請批准通知書】哈藥股份公告稱，公司阿維巴坦鈉原料藥獲得《化學原料藥上市申請批准通知書》。截至公告日，該研發專案已投入約2702.14萬元。此次獲批將豐富公司原料藥產品管線，提升市場競爭力，夯實原料製劑一體化戰略。但原料藥生產、銷售受終端製劑需求、市場環境等因素影響，存在不確定性，提醒投資者注意風險。"
+    },
+    {
+      "id": "4956754",
+      "time": "2026-06-26 15:43:36",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【特斯拉據悉計劃今年在美投產Model Y長軸距版】特斯拉去年在中國推出了車身尺寸略大的Model Y長軸距版（Model Y L），這款車型一經上市便迅速熱銷。更長的軸距、更寬敞的車內空間以及腿部活動餘量更充裕的後排，讓不少美國消費者十分期待這款車型能夠登陸本土市場，美國消費者此前一直呼籲特斯拉推出尺寸更大的SUV車型。 據報道，特斯拉據悉計劃在今年將Model Y長軸距版引入美國市場。相關報道援引“可靠訊息源”，汽車預測解決方案公司的分析師Sam Fiorani表示，該車型將於今年晚些時候投產。 Fiorani表示：“Model Y長軸距版預計將於9月在美國啟動生產，並有望在 2026 年年底前正式開啟北美市場銷售”，該車型將在得克薩斯州超級工廠投產。 此外，美國境內已經有人拍到數臺車身被偽裝覆蓋的Model Y長軸距版，這進一步表明特斯拉計劃將這款車型引入美國市場。"
+    },
+    {
+      "id": "4956753",
+      "time": "2026-06-26 15:43:31",
+      "tags": [
+        "國際"
+      ],
+      "text": "黎巴嫩真主黨領導人納伊姆·卡西姆：諒解備忘錄是美國和以色列正式宣告失敗的宣告。以色列必須“無條件”撤離黎巴嫩。"
+    },
+    {
+      "id": "mkt:019f02e2-0084-7dd8-b131-5d40a412d5e0",
+      "time": "2026-06-26 15:43:13",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "TASS quoted Deputy Prime Minister Novak saying reshaping Russia's fuel market will take some time."
+    },
+    {
+      "id": "mkt:019f02e1-a424-7dd8-b131-53251578ae8f",
+      "time": "2026-06-26 15:42:49",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "A Russian lawmaker said Russia and Ukraine will exchange prisoners of war on Friday."
+    },
+    {
+      "id": "mkt:019f02e1-8938-7dd8-b131-4ceceab17fd3",
+      "time": "2026-06-26 15:42:42",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "Brent",
+        "DXY"
+      ],
+      "text": "Hezbollah leader Naim Qassem said Israel must withdraw \"unconditionally\" from Lebanon."
+    },
+    {
+      "id": "4956752",
+      "time": "2026-06-26 15:42:24",
+      "tags": [
+        "公司"
+      ],
+      "text": "【山東海化：財務總監和副總經理離任 聘任王法明為財務總監】山東海化公告稱，公司董事會近日收到財務總監魏魯東及副總經理薛佩功的書面《辭職報告》，兩人因工作調動辭職，辭職後均不擔任公司任何職務。2026年6月26日，公司第九屆董事會2026年第三次臨時會議審議透過聘任王法明為財務總監，任期至第九屆董事會任期屆滿。截至公告披露日，三人皆未持有公司股票。"
+    },
+    {
+      "id": "4956751",
+      "time": "2026-06-26 15:42:13",
+      "tags": [
+        "其他"
+      ],
+      "text": "上期所：本週銅庫存減少8143噸，鋁庫存減少14459噸，鋅庫存減少141噸，鉛庫存增加2827噸，鎳庫存增加3260噸，錫庫存減少1728噸，天然橡膠庫存增加480噸。"
+    },
+    {
+      "id": "4956750",
+      "time": "2026-06-26 15:42:11",
+      "tags": [
+        "其他"
+      ],
+      "text": "【特斯拉FSD全面轉向訂閱制！港澳臺地區買斷版6月30日後下架，中國內地尚無明確時間表】近日，特斯拉在全球範圍大面積調整FSD（Full Self-Driving，完全自動駕駛）的售賣模式，將全面改為訂閱制。其中，港澳臺地區官網已同步顯示FSD買斷制將於6月30日後下架取消，正式轉為訂閱模式。其中，中國香港地區當前買斷價為5.4萬港元（約合人民幣4.68萬元），中國澳門地區與中國臺灣地區售價分別為5.57萬澳門幣（約合人民幣4.69萬元）和22.2萬新臺幣（約合人民幣4.7萬元）。針對中國內地市場的FSD訂閱模式是否會落地，記者向特斯拉中國方面求證，一位內部人士僅表示：“沒有更多訊息分享。”（每經）"
+    },
+    {
+      "id": "te:economy:562163",
+      "time": "2026-06-26 15:42:00",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Sweden",
+        "Leading Economic Index",
+        "Importance 1"
+      ],
+      "text": "Sweden Economic Sentiment Picks Up — Sweden’s Economic Tendency Indicator climbed to 101.7 in June 2026 from an upwardly revised 99.9 in the prior month, marking the highest print since July 2022. Manufacturing confidence hit its highest since December 2022 (105.1 vs 101.4 in May), as all components strengthened, notably inventories, with fewer firms reporting excess stock, while order books improved in both domestic and export markets. Services edged up (101.9 vs 101.5), supported by professional activities, while consumer sentiment rose modestly (93.6 vs 92.8) but stayed below normal. In contrast, construction sentiment slipped (97.3 vs 99.4), reflecting revised employment plans. Retail trade eased (108.4 vs 110.5), though it remained the strongest sector overall. Price plans eased across industries, with fewer firms intending to raise prices, yet levels stayed above normal. Manufacturing was the only sector where price plans remained elevated, while construction and retail declined, and services were unchanged."
+    },
+    {
+      "id": "4956749",
+      "time": "2026-06-26 15:41:45",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯議員訊息稱，俄羅斯與烏克蘭將於週五交換戰俘。"
+    },
+    {
+      "id": "4956748",
+      "time": "2026-06-26 15:41:31",
+      "tags": [
+        "公司"
+      ],
+      "text": "【洪通燃氣：公司暫無天然氣原料氣自產業務】洪通燃氣6月26日在互動平臺稱，公司暫無天然氣原料氣自產業務。公司透過線上和線下相結合的方式對外採購天然氣原料氣，原料氣氣源渠道主要為中石油、中石化和煤制氣企業等。"
+    },
+    {
+      "id": "4956747",
+      "time": "2026-06-26 15:40:52",
+      "tags": [
+        "國際"
+      ],
+      "text": "歐盟石油協調小組：目前原油市場局勢穩定。"
+    },
     {
       "id": "mkt:019f02df-05a8-7dd8-b131-42ddeabcde10",
       "time": "2026-06-26 15:39:58",
@@ -158763,14 +158899,6 @@
         "其他"
       ],
       "text": "【深圳打造生物醫藥特殊物品通關AI服務平臺】據深圳釋出，6月18日，深圳生物醫藥特殊物品監管改革再升級，全流程一體化資訊系統正式上線，企業透過深圳市出入境生物醫藥特殊物品綜合服務平臺官網，即可一站式完成白名單企業資質申報、正面物品清單提交、進出境物品風險評估等全流程業務，並實時追蹤評審進度。記者瞭解到，此次上線的全流程一體化資訊系統，搭載了AI申報輔助系統，能夠自動完成表單智慧填充、資料校驗與材料預審，有效減少企業申報錯誤率，提升申報效率；建立海關、衛健、市監等多部門評估、監管資訊共享機制，打破資訊壁壘，線上聯合評審，實現出入境物品全流程資訊記錄和全生命週期監管。同時，該系統還引入AI智慧引擎，提供AI智慧客服、HS編碼智慧歸類、物品風險預評估、企業信用及風險智慧畫像、專家智慧入庫分類與自動隨機抽取等服務，實現監管精準化與服務便利化的有機統一。"
-    },
-    {
-      "id": "4944874",
-      "time": "2026-06-19 15:41:17",
-      "tags": [
-        "其他"
-      ],
-      "text": "【專家回應“鐵路12306顯示無票，乘車時卻發現有空座”疑問】針對網上出現的“鐵路12306顯示無票，乘車時卻發現有空座”疑問，近日，鐵路12306票務專家作出回應。旅客在購票出行過程中形成“鐵路12306顯示無票，乘車時卻發現有空座”的印象，主要原因有：一是“空座”席位的乘車區間與旅客出行需求不匹配；二是“空座”席位為旅客查詢購票後新產生且未售出的席位；三是其他旅客未按票面區間乘車，中途上車或提前下車，產生臨時“空座”現象。"
     }
   ]
 }
