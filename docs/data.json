@@ -1,7 +1,38 @@
 {
-  "updated": "2026-06-26 23:23:20",
-  "count": 17957,
+  "updated": "2026-06-26 23:27:28",
+  "count": 17958,
   "items": [
+    {
+      "id": "mkt:019f0488-5bae-7dd8-b13a-10dd006f54d3",
+      "time": "2026-06-26 23:24:32",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "WTI crude oil down 4.00% intraday at $68.47/bbl."
+    },
+    {
+      "id": "4957809",
+      "time": "2026-06-26 23:24:11",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【OpenAI據悉考慮最早於2027年IPO 或晚於Anthropic上市】據知情人士透露，OpenAI考慮最早於2027年進行首次公開募股（IPO）。這意味著該公司可能會在AI競爭對手Anthropic PBC之後上市。知情人士表示，儘管兩家公司都已向美國證券交易委員會保密提交IPO檔案，但OpenAI管理層預計Anthropic將率先上市。此前報道稱，OpenAI原本計劃於秋季上市，而Anthropic考慮最早於10月進行IPO。部分知情人士表示，近期科技股波動影響了OpenAI對上市時機的考量。目前相關討論仍在進行，OpenAI的IPO計劃仍可能調整。"
+    },
+    {
+      "id": "4957808",
+      "time": "2026-06-26 23:23:00",
+      "tags": [
+        "其他"
+      ],
+      "text": "聯邦快遞四季度業績不及預期，股價大跌 8.2%。"
+    },
     {
       "id": "4957807",
       "time": "2026-06-26 23:21:39",
@@ -164068,23 +164099,6 @@
         "MKT News"
       ],
       "text": "【AI boom drives Chinese mutual funds to boost Korea exposure】Chinese mutual funds are increasing Korea exposure as global AI demand lifts the country’s tech sector, launching Korea-themed ETFs and raising Korea allocations in active QDII equity mandates. Asset managers say Korean equities trade below US peers and that AI-driven long-term upside leaves scope for valuation re-rating. Several firms have warned about speculative trading in recent Korea-themed ETFs."
-    },
-    {
-      "id": "4945332",
-      "time": "2026-06-19 23:26:51",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "歐洲STOXX 600個人護理、藥品及食品雜貨店指數跌超0.8%，重新整理日低至155.50點下方。在美國針對德國藥品定價發起關稅調查後，德國總理默茨預計，美國將繼續遵守與歐洲的貿易承諾。藥品報銷決定屬於德國國內事務，如有需要，其政府將向美國提供相關資訊。6月18日美股盤後，美國對德國降低藥品價格的努力提出批評，美國貿易代表格里爾指責德國“長期低價採購創新藥品”。"
-    },
-    {
-      "id": "4945331",
-      "time": "2026-06-19 23:24:20",
-      "tags": [
-        "國際"
-      ],
-      "text": "【伊朗外交部：伊朗外長與巴基斯坦外長舉行通話】伊朗外長阿拉格齊於本週五下午同巴基斯坦副總理兼外長通電話。伊朗外長在通話中對巴基斯坦在外交談判程序、推動達成諒解備忘錄方面付出的努力、採取的舉措與開展的工作表示讚賞。 阿拉格齊談及美國負有在黎巴嫩等所有戰線終止戰事的義務與責任，強調若美方違背諒解備忘錄載明的各項承諾，相關責任將完全由美方承擔，並警示此類行為會引發一系列後果與連鎖反應。 巴基斯坦外長對當前持續推進的外交程序表示歡迎，重申巴方支援談判持續推進，致力於取得積極、長效成果，並期待後續階段談判能夠順利落地。"
     }
   ]
 }
