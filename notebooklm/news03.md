@@ -1,7 +1,67 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-06-27 06:38:36_
-_本檔包含 3730 則快訊，約 670066 字_
+_更新時間：2026-06-27 07:04:47_
+_本檔包含 3737 則快訊，約 669822 字_
+
+---
+
+### 2026-06-24 22:06:19  #公司 #市場 #國際
+
+【機構：在AI相關擔憂之際，歐元信用違約保護成本微升】隨著對科技股估值的擔憂降低了對風險資產的偏好，為歐元計價信用債提供違約保險的成本上升。瑞訊銀行的Ipek Ozkardeskaya在一份報告中表示，投資者擔心科技公司的高估值，其中一些公司缺乏清晰的盈利途徑。市場等待美國科技公司美光科技的業績，該業績料將於週三美國股市收盤後釋出。該業績可能為AI相關的投資是否值得提供線索。標普全球市場財智資料顯示，歐元高收益信用違約掉期的iTraxx Europe Crossover指數上漲1個基點，報249個基點。
+
+---
+
+### 2026-06-24 22:06:09  #其他
+
+【迪拜連續五年成為全球綠地FDI首選地 一年吸金88.3億美元】fDi Markets資料庫釋出的資料顯示，迪拜連續第五年穩居全球綠地外商直接投資（FDI）專案首選目的地排名首位，在引入FDI的表現上創下其自2015年以來同期最佳水平之一。2025年迪拜吸引了88.3億美元（約324.3億迪拉姆）的綠地FDI資本，已公佈的綠地FDI專案總數增至1253個，較2024年增長10.5%。 (21財經)
+
+---
+
+### 2026-06-24 22:05:22  #市場 #國際
+
+美國10年期國債收益率跌至4.4138%，為5月11日以來的最低水平。
+
+---
+
+### 2026-06-24 22:05:15  #MKT News #Macro & Rates #Treasury Yields #US10Y #Impact bearish #S&P500 #Impact bullish #DXY
+
+U.S. 10-year Treasury yield fell to 4.4138%, the lowest since May 11.
+
+---
+
+### 2026-06-24 22:04:36  #其他
+
+訊息人士透露，雲初創企業 RunPod 融資 1 億美元，投後估值達 10 億美元。
+
+---
+
+### 2026-06-24 22:03:15  #MKT News #Nasdaq100 #Impact bearish
+
+Nasdaq-100 turned negative.
+
+---
+
+### 2026-06-24 22:02:56  #公司 #市場
+
+赫茲全球控股提交最高1億美元的增發申請後，安飛士預算集團股價下跌7.2%。
+
+---
+
+### 2026-06-24 22:02:38  #市場
+
+納斯達克100指數轉跌。
+
+---
+
+### 2026-06-24 22:02:22  #公司 #市場
+
+【光伏太陽能股Sunrun大漲逾26%】光伏太陽能股Sunrun大漲逾26%，該公司宣佈與Renew Home、特斯拉達成合作協議，將為超大規模雲服務商與公用事業企業提供超16吉瓦可調儲能容量。
+
+---
+
+### 2026-06-24 22:02:21  #Trading Economics #Markets #Canada #Stock Market #Importance 1
+
+TSX Slips on High Borrowing Costs and Commodity Weakness — The S&P/TSX Composite Index lost more than 0.5% to trade below 35,000 on Wednesday amid persistently high borrowing costs and weakness in commodity-linked sectors. Gold prices declined as the dollar strengthened on rising bets for further US rate hikes, pressuring mining stocks. Agnico Eagle and WPM shed nearly 3%, while Barrick fell more than 4%. Oil prices also extended this week’s losses on signs that more tankers are set to leave the Strait of Hormuz, easing concerns over energy-driven inflation but weighing on energy shares. Canadian Natural and Imperial Oil lost more than 2%, while Suncor retreated 2.5% and Cenovus shed about 3%. Major banks traded near the flatline, with RBC, BMO, and TD Bank edging lower. In contrast, Canadian tech stocks rebounded from the prior session’s global selloff, with Shopify gaining nearly 3%, while Celestica and Constellation Software rose around 1%.
 
 ---
 
@@ -22502,23 +22562,5 @@ AMC娛樂公司股價盤前下跌18%。
 ### 2026-06-23 19:47:11  #MKT News
 
 【Reeves says defence investment plan to be published before July NATO summit】UK finance minister Reeves told the House of Commons she will publish the long-delayed defence investment plan before the NATO summit in Turkey on July 7-8. Reeves said she met Monday with new Defence Secretary Jarvis and Chief of the Defence Staff Richard Naiton to discuss a plan that will inject additional funding into the armed forces and rejected claims it fails to deliver sufficient spending growth. The plan, originally scheduled for autumn, was delayed and drew criticism after the former defence secretary resigned earlier this month, saying the Treasury was unwilling to commit the resources needed amid rising threats.
-
----
-
-### 2026-06-23 19:46:46  #Trading Economics #Markets #Commodity #Importance 0
-
-Brent Crude Oil Hovers at $78 — Brent crude oil prices stabilized around $78 per barrel on Tuesday as traders monitored advancements toward resolving the conflict with Iran. Following an interim peace deal that already reduced oil prices by 40% from their peak, a new 60-day US waiver now permits global buyers, including American refineries, to purchase Iranian crude and fuels. While both nations noted progress during talks in Switzerland and agreed to form four working groups to address nuclear issues and sanctions, discrepancies remain. For instance, Tehran disputed US claims regarding the immediate return of nuclear inspectors. Meanwhile, Persian Gulf supply is rising, with Kuwait and the United Arab Emirates finding shipping workarounds and Iran exporting over 30 million barrels in the past week. However, long-term market stability depends on protracted negotiations regarding Iran's nuclear capabilities, the Israel-Hezbollah ceasefire in Lebanon, and the secure reopening of the vital Strait of Hormuz.
-
----
-
-### 2026-06-23 19:46:40  #其他
-
-【德國中部一小型飛機墜毀 傷亡情況不明】當地時間6月23日，德國中部黑森州發生一起小型飛機墜毀事故。當地警方通報稱，事故發生在該地區一處滑翔機機場，目前救援行動正在進行。警方表示，截至目前，尚無更多可公佈資訊，傷亡情況暫不明確。（央視新聞）
-
----
-
-### 2026-06-23 19:46:31  #MKT News #Market Regions #Greater China
-
-【Chen Jining meets Sanofi CEO Ge Lihe and HSBC chair Nie Zhiheng; urges more R&D and deeper finance cooperation】Shanghai party secretary Chen Jining met Sanofi global CEO Ge Lihe and HSBC chair Nie Zhiheng. He urged Sanofi to leverage Shanghai’s strengths in basic research, talent, market scale and policy support to increase local innovative R&D, place more innovation and global-simultaneous development projects in Shanghai, and deepen cooperation with domestic biotech firms to strengthen the city’s pharmaceutical ecosystem. He asked HSBC to use its global network and expertise to deepen cooperation on tech finance, green finance, urban renewal, cross-border and offshore finance, and support firms’ outbound activity, and to provide input as Shanghai refines a regulatory framework suited to an international financial centre.
 
 ---

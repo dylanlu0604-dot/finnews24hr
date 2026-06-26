@@ -1,7 +1,55 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-06-27 06:38:36_
-_本檔包含 3833 則快訊，約 670875 字_
+_更新時間：2026-06-27 07:04:47_
+_本檔包含 3831 則快訊，約 670609 字_
+
+---
+
+### 2026-06-25 23:46:51  #其他
+
+【哥倫比亞：願向委內瑞拉提供人道主義援助】哥倫比亞政府25日發表宣告說，就委內瑞拉強震向委人民和政府表示慰問，哥方已準備好隨時向委方提供人道主義援助。宣告指出，哥方已組建專業搜救隊伍，將根據委政府實際需求，隨時部署並開展救援行動。（新華社）
+
+---
+
+### 2026-06-25 23:46:35  #央行 #其他
+
+巴西央行行長：一旦我們確定可以暫停加息週期，相關情景就值得討論。
+
+---
+
+### 2026-06-25 23:46:26  #公司
+
+【A股兩融餘額首破3萬億元大關 專家：散戶和遊資活躍度提升或加劇市場波動】A股市場的融資融券餘額6月23日達到30009.71億元，歷史上首次突破3萬億元大關，6月24日繼續保持增長。自6月23日A股兩融餘額突破3萬億元后，6月24日，兩融餘額繼續保持增長，達到3.015萬億元，其中融資餘額2.993萬億元，相比年初增加約4500億元，融券餘額224.7億元。業內人士表示，目前，兩融餘額佔A股流通市值的比例約2.8%，低於2015年高峰時的4.72%。 專家指出，目前，融資餘額超過140萬元的自然人賬戶數量創下階段新高，說明散戶和遊資的活躍度在提升，但這也帶來了潛在的結構性風險。 上海財經大學滴水湖高階金融學院教授陳欣表示：“半導體和AI產業鏈的公司業績快速增長，融資數量大幅上升意味著部分投資者非常看好這個市場，而且願意承擔更大風險加槓桿，一旦市場回撥，就會帶來更快回撤，兩融佔比較高的股票波動會加大。” （央視財經）
+
+---
+
+### 2026-06-25 23:42:53  #國際
+
+拜耳：美國法院判決釐清監管相關界定。
+
+---
+
+### 2026-06-25 23:42:19  #國際
+
+拜耳：美國法院裁決有望大幅遏制相關訴訟規模。
+
+---
+
+### 2026-06-25 23:41:54  #央行 #國際
+
+【國際貨幣基金組織：美國經濟增長依舊強勁】IMF 表示美國經濟持續穩健增長，其一季度國內生產總值（GDP）上修至 2.1% 是有力佐證。該機構預計通脹將逐步回落，至 2027 年達到美聯儲 2% 的通脹目標，並支援美聯儲當前維持利率不變的政策。
+
+---
+
+### 2026-06-25 23:40:55  #MKT News
+
+Israeli Prime Minister Netanyahu said Israeli forces control southern Lebanon from the Beaufort Heights and will remain in the security zone, not withdrawing as long as necessary. He said forces have shifted control from one area to another and will continue to hold those zones to defend northern residents and all Israeli citizens.
+
+---
+
+### 2026-06-25 23:39:26  #MKT News #Market Regions #Europe & UK #DAX #Impact bullish #FTSE100
+
+European equities closed higher on Thursday June 25: Germany's DAX 30 rose 296.72 pts (+1.20%) to 25,012.96, the UK's FTSE 100 gained 73.68 pts (+0.70%) to 10,535.31, France's CAC 40 added 46.12 pts (+0.55%) to 8,431.61, the Stoxx Europe 50 advanced 54.66 pts (+0.88%) to 6,269.36, Spain's IBEX 35 climbed 135.00 pts (+0.70%) to 19,524.50 and Italy's FTSE MIB increased 155.56 pts (+0.30%) to 51,794.50.
 
 ---
 
@@ -23037,65 +23085,5 @@ Market sources say the US will remove some individuals from a Russia-related san
 ### 2026-06-24 22:07:01  #Trading Economics #Economy #United States #New Home Sales #Importance 3
 
 US New Home Sales Fall for 2nd Month — Sales of new single-family homes in the US tumbled 7.3% month-over-month to a seasonally adjusted annualized rate of 580 thousand in May 2026, the lowest in four months, following an upwardly revised 626 thousand in April and well below forecasts of 640 thousand. New home sales fell for a second straight month, mainly due to a 26.9% plunge in the West (to 117 thousand) and a 4.1% fall in the South (to 350 thousand). In contrast, sales rose 3% in the Northeast (to 34 thousand) and soared 16.2% in the Midwest (to 79 thousand).
-
----
-
-### 2026-06-24 22:06:19  #公司 #市場 #國際
-
-【機構：在AI相關擔憂之際，歐元信用違約保護成本微升】隨著對科技股估值的擔憂降低了對風險資產的偏好，為歐元計價信用債提供違約保險的成本上升。瑞訊銀行的Ipek Ozkardeskaya在一份報告中表示，投資者擔心科技公司的高估值，其中一些公司缺乏清晰的盈利途徑。市場等待美國科技公司美光科技的業績，該業績料將於週三美國股市收盤後釋出。該業績可能為AI相關的投資是否值得提供線索。標普全球市場財智資料顯示，歐元高收益信用違約掉期的iTraxx Europe Crossover指數上漲1個基點，報249個基點。
-
----
-
-### 2026-06-24 22:06:09  #其他
-
-【迪拜連續五年成為全球綠地FDI首選地 一年吸金88.3億美元】fDi Markets資料庫釋出的資料顯示，迪拜連續第五年穩居全球綠地外商直接投資（FDI）專案首選目的地排名首位，在引入FDI的表現上創下其自2015年以來同期最佳水平之一。2025年迪拜吸引了88.3億美元（約324.3億迪拉姆）的綠地FDI資本，已公佈的綠地FDI專案總數增至1253個，較2024年增長10.5%。 (21財經)
-
----
-
-### 2026-06-24 22:05:22  #市場 #國際
-
-美國10年期國債收益率跌至4.4138%，為5月11日以來的最低水平。
-
----
-
-### 2026-06-24 22:05:15  #MKT News #Macro & Rates #Treasury Yields #US10Y #Impact bearish #S&P500 #Impact bullish #DXY
-
-U.S. 10-year Treasury yield fell to 4.4138%, the lowest since May 11.
-
----
-
-### 2026-06-24 22:04:36  #其他
-
-訊息人士透露，雲初創企業 RunPod 融資 1 億美元，投後估值達 10 億美元。
-
----
-
-### 2026-06-24 22:03:15  #MKT News #Nasdaq100 #Impact bearish
-
-Nasdaq-100 turned negative.
-
----
-
-### 2026-06-24 22:02:56  #公司 #市場
-
-赫茲全球控股提交最高1億美元的增發申請後，安飛士預算集團股價下跌7.2%。
-
----
-
-### 2026-06-24 22:02:38  #市場
-
-納斯達克100指數轉跌。
-
----
-
-### 2026-06-24 22:02:22  #公司 #市場
-
-【光伏太陽能股Sunrun大漲逾26%】光伏太陽能股Sunrun大漲逾26%，該公司宣佈與Renew Home、特斯拉達成合作協議，將為超大規模雲服務商與公用事業企業提供超16吉瓦可調儲能容量。
-
----
-
-### 2026-06-24 22:02:21  #Trading Economics #Markets #Canada #Stock Market #Importance 1
-
-TSX Slips on High Borrowing Costs and Commodity Weakness — The S&P/TSX Composite Index lost more than 0.5% to trade below 35,000 on Wednesday amid persistently high borrowing costs and weakness in commodity-linked sectors. Gold prices declined as the dollar strengthened on rising bets for further US rate hikes, pressuring mining stocks. Agnico Eagle and WPM shed nearly 3%, while Barrick fell more than 4%. Oil prices also extended this week’s losses on signs that more tankers are set to leave the Strait of Hormuz, easing concerns over energy-driven inflation but weighing on energy shares. Canadian Natural and Imperial Oil lost more than 2%, while Suncor retreated 2.5% and Cenovus shed about 3%. Major banks traded near the flatline, with RBC, BMO, and TD Bank edging lower. In contrast, Canadian tech stocks rebounded from the prior session’s global selloff, with Shopify gaining nearly 3%, while Celestica and Constellation Software rose around 1%.
 
 ---

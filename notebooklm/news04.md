@@ -1,7 +1,25 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-06-27 06:38:36_
-_本檔包含 3518 則快訊，約 669891 字_
+_更新時間：2026-06-27 07:04:47_
+_本檔包含 3508 則快訊，約 670323 字_
+
+---
+
+### 2026-06-23 19:46:46  #Trading Economics #Markets #Commodity #Importance 0
+
+Brent Crude Oil Hovers at $78 — Brent crude oil prices stabilized around $78 per barrel on Tuesday as traders monitored advancements toward resolving the conflict with Iran. Following an interim peace deal that already reduced oil prices by 40% from their peak, a new 60-day US waiver now permits global buyers, including American refineries, to purchase Iranian crude and fuels. While both nations noted progress during talks in Switzerland and agreed to form four working groups to address nuclear issues and sanctions, discrepancies remain. For instance, Tehran disputed US claims regarding the immediate return of nuclear inspectors. Meanwhile, Persian Gulf supply is rising, with Kuwait and the United Arab Emirates finding shipping workarounds and Iran exporting over 30 million barrels in the past week. However, long-term market stability depends on protracted negotiations regarding Iran's nuclear capabilities, the Israel-Hezbollah ceasefire in Lebanon, and the secure reopening of the vital Strait of Hormuz.
+
+---
+
+### 2026-06-23 19:46:40  #其他
+
+【德國中部一小型飛機墜毀 傷亡情況不明】當地時間6月23日，德國中部黑森州發生一起小型飛機墜毀事故。當地警方通報稱，事故發生在該地區一處滑翔機機場，目前救援行動正在進行。警方表示，截至目前，尚無更多可公佈資訊，傷亡情況暫不明確。（央視新聞）
+
+---
+
+### 2026-06-23 19:46:31  #MKT News #Market Regions #Greater China
+
+【Chen Jining meets Sanofi CEO Ge Lihe and HSBC chair Nie Zhiheng; urges more R&D and deeper finance cooperation】Shanghai party secretary Chen Jining met Sanofi global CEO Ge Lihe and HSBC chair Nie Zhiheng. He urged Sanofi to leverage Shanghai’s strengths in basic research, talent, market scale and policy support to increase local innovative R&D, place more innovation and global-simultaneous development projects in Shanghai, and deepen cooperation with domestic biotech firms to strengthen the city’s pharmaceutical ecosystem. He asked HSBC to use its global network and expertise to deepen cooperation on tech finance, green finance, urban renewal, cross-border and offshore finance, and support firms’ outbound activity, and to provide input as Shanghai refines a regulatory framework suited to an international financial centre.
 
 ---
 
@@ -21157,83 +21175,5 @@ Indian Stocks Rise on Monday — Indian stocks closed firmly higher on Monday, t
 ### 2026-06-22 18:36:07  #Trading Economics #Markets #Switzerland #stocks #Importance 0
 
 UBS Stock Price Hits 18-year High — UBS shares increased to 41.06 CHF, the highest since February 2008. Over the past 4 weeks, UBS gained 9.71%, and in the last 12 months, it increased 64.22%.
-
----
-
-### 2026-06-22 18:35:59  #公司
-
-克里姆林宮：已與塞爾維亞就NIS石油公司事宜進行接觸，相關細節不予公開。
-
----
-
-### 2026-06-22 18:35:52  #國際
-
-克里姆林宮表示，其對白俄羅斯有能力捍衛自身主權深信不疑。
-
----
-
-### 2026-06-22 18:35:46  #國際
-
-克里姆林宮表示，普京與盧卡申科將討論澤連斯基“公然干涉白俄羅斯內政”一事。
-
----
-
-### 2026-06-22 18:35:46  #MKT News
-
-The Kremlin said there is no doubt that Belarus has the capability to defend its sovereignty.
-
----
-
-### 2026-06-22 18:35:40  #其他
-
-克里姆林宮談英國斯塔默辭職宣告：繼任者不太可能對俄採取不同政策。
-
----
-
-### 2026-06-22 18:35:31  #其他
-
-克里姆林宮談燃料供應中斷問題：政府與石油企業之間設有協調機制，目前正在採取必要措施。
-
----
-
-### 2026-06-22 18:35:26  #其他
-
-克里姆林宮談克里米亞地區燃油局勢：目前正全力開展緊張工作，以將負面影響降至最低。
-
----
-
-### 2026-06-22 18:35:22  #國際
-
-克里姆林宮指責烏克蘭總統澤連斯基威脅白俄羅斯主權。
-
----
-
-### 2026-06-22 18:35:17  #公司
-
-【睿昂基因：股東浙江大健康擬減持不超過3%股份】睿昂基因公告，股東浙江大健康產業股權投資基金（有限合夥）（持有公司股份564.24萬股，佔總股本10.10%）計劃於2026年7月14日至2026年10月13日期間，透過集中競價和大宗交易方式減持公司股份，合計不超過167.57萬股，即不超過公司總股本的3%。其中，透過集中競價方式減持不超過55.86萬股（佔總股本1%），透過大宗交易方式減持不超過111.71萬股（佔總股本2%）。減持原因為經營期限屆滿。
-
----
-
-### 2026-06-22 18:35:14  #市場
-
-【SpaceX美股盤前跌超5%】SpaceX美股盤前跌超5%。
-
----
-
-### 2026-06-22 18:34:54  #MKT News #Market Themes #AI Revolution
-
-【Baichuan Intelligence unveils next-generation medical-enhanced LLM Baichuan-M4】Baichuan Intelligence and a Tsinghua University research team jointly released the next-generation medical-enhanced large language model Baichuan-M4; the model ranked first on HealthBench overall and on the Hard and Professional leaderboards.
-
----
-
-### 2026-06-22 18:34:50  #MKT News #Market Regions #Greater China
-
-【China's first domestically produced C909 business jet CBJ enters commercial service】The first domestically produced C909 business jet, CBJ, entered commercial service on June 22, flying from Shanghai Hongqiao to Beijing Capital International Airport. Shanghai will be the aircraft's main operating base. Jinlu Business Aviation, part of HNA Aviation Group, will operate the type on Asian and domestic mid‑haul routes; the aircraft is marketed for superior high‑altitude airport performance and larger cabin space.
-
----
-
-### 2026-06-22 18:34:38  #其他
-
-【百川釋出新一代醫療增強大模型M4】6月22日訊息，百川智慧與清華大學研究團隊近日聯合釋出新一代醫療增強大模型 Baichuan-M4。該模型在HealthBench及其 Hard、Professional三個榜單上均位列第一。
 
 ---
