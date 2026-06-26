@@ -1,7 +1,48 @@
 {
-  "updated": "2026-06-26 07:56:56",
-  "count": 16950,
+  "updated": "2026-06-26 08:00:56",
+  "count": 16940,
   "items": [
+    {
+      "id": "4955990",
+      "time": "2026-06-26 08:00:23",
+      "tags": [
+        "市場"
+      ],
+      "text": "日經225指數上午開盤報71587.71點，跌幅1.08%。"
+    },
+    {
+      "id": "4955989",
+      "time": "2026-06-26 08:00:08",
+      "tags": [
+        "公司"
+      ],
+      "text": "【索尼互動娛樂將削減Bungie工作室員工人數】當地時間6月25日，索尼互動娛樂執行長Hermen Hulst在公司網站上釋出的一封電子郵件中表示，在對遊戲開發工作室Bungie的長期方向和發展重點進行評估後，公司決定對該工作室裁減大量崗位。  此次裁員將涉及Bungie《命運》團隊的大多數成員，以及《失落星船：馬拉松》團隊的部分成員。此外，支援Bungie運營的索尼互動娛樂團隊也有縮減。"
+    },
+    {
+      "id": "4955988",
+      "time": "2026-06-26 07:59:21",
+      "tags": [
+        "其他"
+      ],
+      "text": "【僅需70分鐘 雲南彌勒至玉溪高速公路今日通車】今天，雲南省連線紅河哈尼族彝族自治州和玉溪市的彌勒至玉溪高速公路全線通車運營，兩地通行時長由原來的2小時縮短至1小時10分鐘，惠及沿線近200萬名群眾。彌玉高速公路主線全長117.998公里，採用雙向六車道標準建設，全線建有橋樑102座、隧道13座。"
+    },
+    {
+      "id": "4955987",
+      "time": "2026-06-26 07:58:24",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【原油期貨因可能的技術性回撥而下跌】繼隔夜期貨強勁上漲之後，原油期貨因可能的技術性回撥而下跌。然而，由於對油輪透過霍爾木茲海峽的擔憂，期貨的跌幅可能受到限制。據兩名美國高階官員稱，伊朗伊斯蘭革命衛隊週四在該海峽襲擊了一艘懸掛新加坡國旗的貨船。澳新銀行研究部的分析師在一份研究報告中說：“與此同時，幾艘商船在試圖透過該海峽時掉頭，這引發了人們對關鍵水道重新開放後出現的石油供應持續恢復的新疑慮。“近月西得州中質油期貨下跌0.6%，報每桶71.52美元。"
+    },
+    {
+      "id": "4955986",
+      "time": "2026-06-26 07:56:36",
+      "tags": [
+        "公司"
+      ],
+      "text": "【智元旗下靈巧手估值10億美元！成立僅5個月 首季實現盈利】記者從智元系靈巧手企業臨界點處瞭解獲悉，該公司近期完成近10億融資，躋身估值10億美元獨角獸行列。從智元機器人拆分而出的靈巧手研發商臨界點，是具身智慧賽道成長速度最快的企業之一，它獨立發展至估值10億美元，僅耗時五個月。這短短五個月內，該公司已密集完成四輪融資，百度、藍馳創投、高瓴創投等多家頭部資本也都紛紛投資入局。（南都）"
+    },
     {
       "id": "4955985",
       "time": "2026-06-26 07:56:15",
@@ -154906,145 +154947,6 @@
         "國際"
       ],
       "text": "日本日經平均股指創下歷史新高。"
-    },
-    {
-      "id": "4944430",
-      "time": "2026-06-19 08:00:44",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "三星電子股價上漲3%。"
-    },
-    {
-      "id": "4944429",
-      "time": "2026-06-19 08:00:38",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "韓國綜合股價指數（KOSPI）開盤上漲2.5%，至9288.89點。"
-    },
-    {
-      "id": "4944428",
-      "time": "2026-06-19 08:00:27",
-      "tags": [
-        "市場"
-      ],
-      "text": "日經225指數上午開盤報71551.03點，漲幅0.70%。"
-    },
-    {
-      "id": "mkt:019edd2d-67ff-7dd8-b08a-7cd6d957b2bf",
-      "time": "2026-06-19 08:00:00",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Bank of Japan minutes: the Cabinet Office said it hopes the central bank's policy guidance will be consistent with the government's joint statement."
-    },
-    {
-      "id": "4944427",
-      "time": "2026-06-19 07:59:54",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "日本央行會議紀要：內閣辦公室代表稱，希望日本央行按照與政府的共同宣告來引導政策。"
-    },
-    {
-      "id": "mkt:019edd2d-1d3a-7dd8-b08a-75f9e6e796ff",
-      "time": "2026-06-19 07:59:41",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC"
-      ],
-      "text": "Bank of Japan minutes: a Cabinet Office representative said the central bank must guide appropriate monetary policy to secure strong economic growth and price stability in Japan."
-    },
-    {
-      "id": "4944426",
-      "time": "2026-06-19 07:59:25",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "日本央行會議紀要：內閣辦公室代表稱，日本央行必須實施恰當的貨幣政策引導，確保日本實現強勁經濟增長與物價穩定."
-    },
-    {
-      "id": "mkt:019edd2c-7d82-7dd8-b08a-6a94095150c4",
-      "time": "2026-06-19 07:59:00",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC",
-        "USDJPY",
-        "Impact mixed"
-      ],
-      "text": "Bank of Japan minutes: one member said the central bank's monetary policy does not target the exchange rate and that the exchange rate should be determined by the market."
-    },
-    {
-      "id": "4944425",
-      "time": "2026-06-19 07:58:26",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "日本央行會議紀要：一名成員表示，日本央行貨幣政策不以匯率為目標，匯率應由市場決定。"
-    },
-    {
-      "id": "4944424",
-      "time": "2026-06-19 07:58:22",
-      "tags": [
-        "國際"
-      ],
-      "text": "【美軍稱在東太平洋打擊一艘“販毒船” 致3人死亡】當地時間18日，美國南方司令部透過社交媒體發文稱，聯合特遣部隊“南方之矛”在東太平洋對一艘由“認定恐怖組織”運營的船隻實施了打擊，打死3名男性所謂“毒品恐怖分子”。"
-    },
-    {
-      "id": "mkt:019edd2b-ab81-7dd8-b08a-621e14d8898d",
-      "time": "2026-06-19 07:58:07",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC"
-      ],
-      "text": "Bank of Japan minutes: one member said the BOJ should maintain accommodative monetary policy and avoid rate hikes if Japan faces severe supply‑chain disruptions."
-    },
-    {
-      "id": "4944423",
-      "time": "2026-06-19 07:57:57",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "日本央行會議紀要：一位委員表示，若日本面臨供應鏈嚴重中斷，央行應維持寬鬆貨幣政策，避免加息。"
-    },
-    {
-      "id": "mkt:019edd2b-85a8-7dd8-b08a-5c98af6aa137",
-      "time": "2026-06-19 07:57:57",
-      "tags": [
-        "MKT News",
-        "USDJPY",
-        "Impact bearish"
-      ],
-      "text": "Bank of Japan minutes: one member said the central bank should not hesitate to accelerate interest-rate hikes, for example by raising rates every few months."
-    },
-    {
-      "id": "4944422",
-      "time": "2026-06-19 07:57:48",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "日本央行會議記錄：一位委員表示，日本央行不應猶豫加快加息步伐，例如每隔幾個月加息一次。"
-    },
-    {
-      "id": "mkt:019edd2a-bccb-7dd8-b08a-573c7564997c",
-      "time": "2026-06-19 07:57:05",
-      "tags": [
-        "MKT News",
-        "USDJPY",
-        "Impact bearish"
-      ],
-      "text": "BANK OF JAPAN minutes: some members said if the Middle East conflict persists the central bank should raise rates faster to avert potentially excessive inf."
     }
   ]
 }
