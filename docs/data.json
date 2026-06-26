@@ -1,7 +1,80 @@
 {
-  "updated": "2026-06-26 23:53:27",
-  "count": 17974,
+  "updated": "2026-06-26 23:58:00",
+  "count": 17979,
   "items": [
+    {
+      "id": "4957838",
+      "time": "2026-06-26 23:56:44",
+      "tags": [
+        "市場"
+      ],
+      "text": "SemiAnalysis：H100雲端指數現貨價格正在下跌，現在每小時2.42美元，比5月峰值低約40%。生態系統擔心這表明計算需求以及由此延伸的人工智慧AI需求正在減弱。重要的訊號是，這很可能是一個現貨價格指數，而不是期限定價。我們針對1年期H100合同價格的新雲調查顯示，該價格反而從去年末的大約每小時1.70美元的低谷攀升至如今的每小時約2.65美元。"
+    },
+    {
+      "id": "te:markets:562301",
+      "time": "2026-06-26 23:53:56",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Euro Area",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "European Stocks Close Week Lower — European stocks closed firmly lower on Friday amid fresh pressure from banks, auto producers, and companies in the AI infrastructure sector. The Euro STOXX 50 fell 0.9% to 6,212, a 1.2% drop on the week, and the STOXX Europe 600 fell 0.7% to 635.5, unchanged since last Friday. Chip producers in North America reversed their rally stemmed from Micron's strong guidance to reflect fresh skepticism on the AI trade. This dented chip producer Infineon with a 4.3% decline and ASML with a 1% drop, while Siemens Energy, which has large exposure to data center power operations, slide 5.6%. Meanwhile, banks dropped sharply despite further expectations that the ECB may hold off from delivering another rate hike this year after oil prices dropped further. Deutsche Bank dropped 2.7% while BNP Paribas and BBVA fell nearly 2%. Lastly, Volkswagen slipped 3.9% after reports indicated it could cut up to 100,000 jobs and close four factories in its largest overhaul yet."
+    },
+    {
+      "id": "mkt:019f04a3-33da-7dd8-b13a-c04a46e11958",
+      "time": "2026-06-26 23:53:52",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "【Trump says Iran fired at least four drones at ships in Strait of Hormuz; one hit, three shot down】US President Trump posted that Iran fired at least four one-way attack drones at vessels transiting the Strait of Hormuz. One drone struck the superstructure of a large, expensive cargo ship, causing damage but the vessel remained underway. He said we shot down the other three and called the action a stupid violation of our ceasefire agreement."
+    },
+    {
+      "id": "mkt:019f04a2-d37f-7dd8-b13a-b86be38d82b2",
+      "time": "2026-06-26 23:53:27",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "U.S. crude (WTI) and Brent rose $0.60 in intraday trade to $69.20/bbl and $72.65/bbl, respectively."
+    },
+    {
+      "id": "4957837",
+      "time": "2026-06-26 23:53:08",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲卡什卡利： 當前勞動力市場並未推高通脹， 通脹由供給問題驅動，其中包括人工智慧產業建設相關因素。"
+    },
+    {
+      "id": "te:markets:562300",
+      "time": "2026-06-26 23:52:56",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United Kingdom",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "FTSE 100 Falls on Friday — The FTSE 100 edged down on Friday, tracking a broader decline in European equities fueled by retreating oil prices and a US technology selloff. Oil prices weakened on growing optimism surrounding a potential US-Iran peace deal and restored shipping traffic through the Strait of Hormuz, directly hitting energy heavyweights BP and Shell, which dropped 2% and 0.8% respectively. Globally, market sentiment soured following a slide in Apple shares and reports that OpenAI might delay its initial public offering. This broader risk-off environment dragged down banks like HSBC by over 1.5%, and aerospace manufacturing giants Rolls-Royce (-1.4%). Mining majors Rio Tinto was down 0.4% and Glencore slid over 2%. Defying the downturn, pharmaceutical firm AstraZeneca added 1.4%, and consumer staples Unilever rose 0.7% and British American Tobacco gained 1.5%. Despite Friday's loss, the UK index rose 1.5% this week."
+    },
+    {
+      "id": "4957836",
+      "time": "2026-06-26 23:52:47",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：一架無人機擊中貨船上層甲板，美方擊落另外三架無人機。"
+    },
     {
       "id": "mkt:019f04a1-d40f-7dd8-b13a-b6709cb1e5ad",
       "time": "2026-06-26 23:52:22",
@@ -164280,26 +164353,6 @@
         "Importance 2"
       ],
       "text": "European Stocks Inch Down from Record — European stock indices inched down from their record levels on Friday as the pullback in sovereign yields was halted. The Euro STOXX 50 eased 0.3% to 6,302 and the STOXX Europe 600 dropped 0.2% to 636. Iran delayed the start of talks over its nuclear program and war with the US to halt a streak of de-escalation between both countries that lowered energy prices and propped European equities to a rally this week. Still, plans to restore trade through the Strait of Hormuz progressed with reports that tankers flowed through the chokepoint. Luxury brands closed lower with LVMH, Hermes, and Ferrari dropping between 2.5% and 2.3%. Tech was also lower with ASML and Prosus dropping 1% and 2.2%, respectively. German auto producers rebounded slightly following the guidance decrease from BMW this week, although Volkswagen dropped 4.5% as it was detached from its dividend. On the week, the Euro STOXX 50 gained 1.9% and the STOXX Europe 600 rose 0.4%."
-    },
-    {
-      "id": "mkt:019ee09a-566f-7dd8-b099-40e488001c7f",
-      "time": "2026-06-19 23:57:51",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy"
-      ],
-      "text": "ICE July gasoline futures settled at $905.00 per tonne."
-    },
-    {
-      "id": "mkt:019ee097-0c37-7dd8-b099-39b4dc796de8",
-      "time": "2026-06-19 23:54:15",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bearish"
-      ],
-      "text": "【Trump frames Iran agreement as rebuttal to U.S. failure narrative】Hostilities between the U.S. and Iran may be paused, but the contest over who prevailed is starting. Both sides cast the June 17 memorandum of understanding signed by their leaders as a victory. Analysts say Iran won new sanctions relief and reconstruction financing and therefore holds the upper hand; the U.S. secured reopening of the Strait of Hormuz — which had been operating normally before the conflict — and concessions on Iran’s nuclear program that Tehran had already made. The White House circulated talking points to allies to present the pact as a political win."
     }
   ]
 }
