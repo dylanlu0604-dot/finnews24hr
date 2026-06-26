@@ -1,7 +1,132 @@
 {
-  "updated": "2026-06-26 18:22:11",
-  "count": 17750,
+  "updated": "2026-06-26 18:26:22",
+  "count": 17749,
   "items": [
+    {
+      "id": "4957240",
+      "time": "2026-06-26 18:25:22",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：韓國將對所有現役士兵進行無人機操作培訓。"
+    },
+    {
+      "id": "mkt:019f0376-44e5-7dd8-b135-751897b7130c",
+      "time": "2026-06-26 18:25:10",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Wall Street Journal reports South Korea will train all active-duty soldiers in drone operations."
+    },
+    {
+      "id": "4957239",
+      "time": "2026-06-26 18:24:22",
+      "tags": [
+        "國際"
+      ],
+      "text": "歐盟能源專員：歐盟目前並未著手修訂甲烷相關規定。"
+    },
+    {
+      "id": "4957238",
+      "time": "2026-06-26 18:24:19",
+      "tags": [
+        "公司"
+      ],
+      "text": "【拓荊科技：擬發行股份及支付現金收購無錫尚積控股權，股票停牌】拓荊科技公告，公司正在籌劃以發行股份及支付現金的方式購買無錫尚積半導體科技股份有限公司的控股權，並募集配套資金。本次交易尚處於籌劃階段，審計、評估工作尚未完成，標的資產估值及定價尚未確定。經初步測算，本次交易不構成重大資產重組，不構成關聯交易，不構成重組上市。公司股票自2026年6月29日起停牌，預計停牌時間不超過10個交易日。"
+    },
+    {
+      "id": "4957237",
+      "time": "2026-06-26 18:23:59",
+      "tags": [
+        "公司"
+      ],
+      "text": "【安培龍：向特定物件發行股票申請獲同意】安培龍公告，公司收到中國證監會出具的《關於同意深圳安培龍科技股份有限公司向特定物件發行股票註冊的批覆》（證監許可〔2026〕1513號），同意公司向特定物件發行股票的註冊申請。本次發行應嚴格按照報送深圳證券交易所的申報檔案和發行方案實施。批覆自同意註冊之日起12個月內有效。公司董事會將根據上述檔案和相關法律法規的要求及公司股東會的授權，在規定期限內辦理本次向特定物件發行股票相關事宜，並及時履行資訊披露義務。"
+    },
+    {
+      "id": "te:markets:562224",
+      "time": "2026-06-26 18:23:57",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "El Niño Threat Lifts Rice Prices — Rice futures advanced further to near $13 per hundredweight, the highest level since May 26, on El Niño-related supply concerns. The International Grains Council (IGC) said in its monthly update that global rice production for 2026/27 is forecast at 545 million tons, unchanged from a month earlier and slightly below the previous season’s record of 546 million. It added that a strong El Niño event could adversely affect 2026/27 rice yields in key Asian producers. Climate models point to one of the most intense El Niño episodes on record, expected to weigh on global agricultural production in the coming months, with rice likely to be the most affected."
+    },
+    {
+      "id": "4957236",
+      "time": "2026-06-26 18:23:25",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中南傳媒：擬2.81億元投建天聞印務智慧印刷改擴建工程】中南傳媒公告稱，公司擬實施天聞印務智慧印刷提質改擴建工程，總投資28,050.67萬元，全部使用募集資金。專案預計建設週期3年，建成後第一年開始產生收益，預計投資財務內部收益率6.08%（稅後）。該專案已獲公司第六屆董事會第十三次會議透過，尚需股東會審議。實施該專案可突破產能瓶頸、降低成本、提升競爭力，但存在市場、專案實施和技術風險。"
+    },
+    {
+      "id": "4957235",
+      "time": "2026-06-26 18:23:21",
+      "tags": [
+        "公司"
+      ],
+      "text": "【華海藥業：5%以上股東周明華解除質押2550萬股】華海藥業公告稱，近日，公司5%以上股東周明華質押給上海銀行股份有限公司浦東大道支行的2550萬股已辦理了解除質押手續，解除質押時間為2026年6月25日。本次解除質押股份佔其所持股份比例為11.36%，佔公司總股本比例為1.70%。截至公告披露日，周明華持有公司股份224,418,890股，佔公司總股本的14.99%，處於質押狀態的股份累計數為4500萬股，佔其所持公司股份總數的20.05%，佔公司總股本的3.01%。"
+    },
+    {
+      "id": "mkt:019f0374-2c0d-7dd8-b135-6cd7e581777c",
+      "time": "2026-06-26 18:22:52",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "EU energy commissioner said the EU is not currently moving to revise methane regulations."
+    },
+    {
+      "id": "4957234",
+      "time": "2026-06-26 18:22:29",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【寧波中百：股價異常波動 一季度營收降65.73%】寧波中百公告稱，公司股票於2026年6月24 - 26日連續三個交易日內日收盤價格漲幅偏離值累計超20%，屬異常波動。26日收盤價17.87元/股，換手率13.85%。經核查，公司及控股股東、實控人無應披露未披露重大事項，生產經營正常。2026年一季度公司營收5302.56萬元，同比降65.73%；扣非後淨利潤445.84萬元，同比降5.95%。公司提醒投資者注意交易風險。"
+    },
+    {
+      "id": "4957233",
+      "time": "2026-06-26 18:22:24",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "【奕瑞科技：簽訂多項募集資金專戶儲存四方監管協議】奕瑞科技公告稱，公司2022年發行可轉債募集資金14.35億元，淨額14.21億元；2024年定增募集11.74億元，淨額11.60億元。因部分募投專案新增實施主體和地點，公司及子公司海寧瑞標、奕瑞合肥、奕瑞軟體分別與保薦機構中金公司及相關銀行簽署《募集資金專戶儲存四方監管協議》，截至2026年6月25日，各專戶餘額均為0萬元。"
+    },
+    {
+      "id": "4957232",
+      "time": "2026-06-26 18:21:36",
+      "tags": [
+        "公司"
+      ],
+      "text": "【博傑股份：終止轉讓參股子公司華芯智慧2.46%股權】博傑股份公告稱，2025年5月9日，公司擬將持有的參股子公司華芯智慧2.46%股權以590萬元轉讓給海南潤豐，同時放棄其他股東向海南潤豐轉讓0.87%股權的優先購買權，轉讓完成後仍持有4.40%股權。因華芯智慧一直無法形成全部股東同意的股東會決議，經協商，交易各方決定終止本次股權轉讓事項並簽署《備忘錄》。本次交易終止不會對公司正常生產經營及財務狀況產生不利影響。"
+    },
+    {
+      "id": "4957231",
+      "time": "2026-06-26 18:21:31",
+      "tags": [
+        "公司"
+      ],
+      "text": "【維峰電子：控股股東一致行動人減持計劃實施完成】維峰電子公告稱，公司控股股東、實際控制人、董事長李文化的一致行動人羅少春女士、康乃特（深圳）實業投資合夥企業（有限合夥）自5月18日起減持計劃已實施完成。羅少春透過集中競價減持1583405股，減持比例0.9937%；康乃特經大宗交易減持3185600股，減持比例1.9992%，合計減持4769005股，佔總股本2.9929%。本次減持不會導致公司控制權變更，也不影響公司經營，且減持符合相關規定。"
+    },
+    {
+      "id": "4957230",
+      "time": "2026-06-26 18:21:26",
+      "tags": [
+        "公司"
+      ],
+      "text": "【證通電子：實際控制人解除質押1000萬股後再質押】證通電子公告稱，近日實際控制人曾勝強辦理股份解除質押及質押業務。2026年6月25日，其解除質押1000萬股，佔其所持股份比例9.55%，佔公司總股本比例1.63%；同日又質押1000萬股，佔比相同，質押用途為公司及子公司融資提供擔保。截至公告披露日，實際控制人及其一致行動人累計質押6655萬股，佔其所持股份比例42.80%，佔公司總股本比例10.83%，質押風險可控。"
+    },
+    {
+      "id": "4957229",
+      "time": "2026-06-26 18:21:22",
+      "tags": [
+        "公司"
+      ],
+      "text": "【一汽解放：部分董事及高管增持120.58萬元股份計劃完成】一汽解放公告稱，公司董事長李勝等部分董事、全體高階管理人員於2026年5月23日至6月25日，透過集中競價方式累計增持公司股份195,800股，佔總股本的0.0040%，增持金額為120.58萬元，超過增持計劃下限，增持計劃已完成。增持前合計持股323,034股，佔比0.0066%；增持後，部分人員持股數量及佔比均有增加。"
+    },
     {
       "id": "4957228",
       "time": "2026-06-26 18:21:11",
@@ -162165,149 +162290,6 @@
         "Greater China"
       ],
       "text": "【Guangdong to build Guangzhou, Shenzhen into international convention and exhibition hubs】Guangdong province released an implementation plan to upgrade services and develop Guangzhou and Shenzhen into international convention and exhibition cities. The plan targets expansion of flagship fairs (Canton Fair, China Hi‑Tech Fair, China International Cultural Industries Fair, China Airshow), creation of national‑benchmark shows in furniture, ceramics and apparel, and incubation of expos for AI, robotics and low‑altitude economy. It directs scaling exhibition firms and attracting domestic and foreign exhibition HQs, professional organizers, booth builders and event‑services companies, supports outbound exhibitions, and aims to land high‑end meetings (industry summits, academic forums, corporate annual conferences) while developing supporting services such as event planning, business reception, shorthand, simultaneous interpretation and smart audiovisual providers."
-    },
-    {
-      "id": "mkt:019edf6a-d295-7dd8-b093-199875621912",
-      "time": "2026-06-19 18:26:20",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "Hang Seng Index",
-        "Impact bullish",
-        "CSI300",
-        "SSE Composite"
-      ],
-      "text": "【Guangdong to accelerate GBA hub for national integrated computing-power network; advances 6G and satellite internet plans】Guangdong issued an implementation plan to expand and upgrade the services sector, directing accelerated construction of a national integrated computing‑power network hub in the Guangdong‑Hong Kong‑Macao Greater Bay Area (GBA). The plan mandates optimization of data‑center spatial layout, rapid expansion of edge computing and creation of a cloud–edge–end collaborative computing service system. It also calls for proactive deployment of 6G and satellite internet: establish a Guangdong 6G industry innovation development alliance, advance ministry–province 6G joint pilots, and develop application benchmarks in embodied intelligence, intelligent connected vehicles, the low‑altitude economy and the marine economy."
-    },
-    {
-      "id": "mkt:019edf6a-0b42-7dd8-b093-161255cb838f",
-      "time": "2026-06-19 18:25:29",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Trump said Italian Prime Minister Meloni begged him for a photo at the G7 summit."
-    },
-    {
-      "id": "4945022",
-      "time": "2026-06-19 18:25:20",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "印度國家證券存管有限公司（NSDL）：前一交易日全球基金淨賣出181億盧比印度股票。"
-    },
-    {
-      "id": "4945021",
-      "time": "2026-06-19 18:24:56",
-      "tags": [
-        "國際"
-      ],
-      "text": "以色列國防部長卡茨：以色列國防軍將留在黎巴嫩安全區，以保護以色列北部。"
-    },
-    {
-      "id": "4945020",
-      "time": "2026-06-19 18:24:54",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國總統特朗普：歐洲人在能源和移民問題上表現不佳。"
-    },
-    {
-      "id": "4945019",
-      "time": "2026-06-19 18:24:36",
-      "tags": [
-        "國際"
-      ],
-      "text": "【廣東：拓展智慧財產權投融資、保險、證券化、信託、擔保等高附加值服務】廣東省人民政府印發《廣東省推進服務業擴能提質實施方案》的通知，其中提到，構建智慧財產權“創造—保護—運用—管理”全生命週期綜合服務體系，拓展智慧財產權投融資、保險、證券化、信託、擔保等高附加值服務。推進粵港澳大灣區國家技術創新中心、全國高校區域技術轉移轉化中心（粵港澳大灣區）等技術轉移和科技中介重點平臺建設，推動深圳證券交易所科技成果與智慧財產權交易中心建設成為具有全國影響力的綜合服務平臺。加強技術經理人培養與引進，壯大科技中介職業化、專業化人才隊伍。推動科技企業孵化體系轉型發展，鼓勵龍頭企業、高校院所、投資機構等主體牽頭建設產業引領型科技企業孵化器。建立省市優質產業孵化器清單，培育建設標準級、卓越級科技企業孵化器。加強農林牧漁、生物技術、新材料、新能源、節能環保等領域技術推廣。聚焦新興產業、未來產業重點領域和科技攻關重點方向，體系化佈局概念驗證中心、中試平臺和應用場景創新中心，加強技術熟化、場景驗證等服務。"
-    },
-    {
-      "id": "mkt:019edf69-3b7e-7dd8-b093-0b26e0f61418",
-      "time": "2026-06-19 18:24:36",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK"
-      ],
-      "text": "U.S. President Trump said Europeans have performed poorly on energy and migration."
-    },
-    {
-      "id": "mkt:019edf69-1f75-7dd8-b093-00cab1d0d080",
-      "time": "2026-06-19 18:24:28",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "Israel's defense minister Katz said the IDF will remain in the security zone in Lebanon to protect northern Israel."
-    },
-    {
-      "id": "4945018",
-      "time": "2026-06-19 18:23:54",
-      "tags": [
-        "其他"
-      ],
-      "text": "【廣東：堅持平臺引領、內容賦能、生態協同，打造具有全球影響力的網際網路產業高地】廣東省人民政府印發《廣東省推進服務業擴能提質實施方案》的通知，其中提到，堅持平臺引領、內容賦能、生態協同，打造具有全球影響力的網際網路產業高地。支援廣州打造數字中國標杆城市和全球網路直播之都，支援深圳建設全球數字創意產業創新之都，鼓勵各地立足本地優勢，協同發展雲服務、資料服務、數字孿生等基礎技術，以及工業網際網路、數字營銷、遊戲服務等特色應用。實施網際網路企業梯度培育計劃，建立全週期培育體系，培育一批百億級骨幹企業，爭取打造萬億級世界一流網際網路企業。建設數字內容產業新高地，打造具有全國影響力的數字文化IP，加快智慧視聽雲產業園區建設，支援網際網路音樂、直播、長短影片、網路遊戲等平臺創新發展，培育沉浸式體驗、虛擬數字人等新業態。推動生活服務數字化升級，促進AI賦能生活服務全場景，打造全國性AI垂直生活服務平臺。支援優質雲企業發展，牽引頭部雲服務商在粵設立區域總部和核心業務板塊。加快工業網際網路平臺發展，建設專業型、行業型、協作型國家工業網際網路平臺。支援平臺企業創新發展，打造“平臺+產業帶”融合生態。"
-    },
-    {
-      "id": "4945017",
-      "time": "2026-06-19 18:23:39",
-      "tags": [
-        "公司"
-      ],
-      "text": "【廣東：完善融資租賃發展支援政策】廣東省人民政府印發《廣東省推進服務業擴能提質實施方案》的通知，其中提到，完善融資租賃發展支援政策，多渠道增強省內租賃企業資本實力，大力發展飛機、船舶、專業裝置、算力等融資租賃業務，聯手港澳探索發展跨境融資租賃業務。深化與國家擔保基金合作，發揮省再擔保公司龍頭作用，引領各地市最佳化政銀擔合作與分險機制，聚焦科技創新、小微企業、創新創業等重點領域，提高融資可獲得性。持續提升地方金融監管效能，規範地方金融組織整體行業秩序，提高服務實體經濟能力，推動失聯、空殼地方金融組織加快退出市場。"
-    },
-    {
-      "id": "4945016",
-      "time": "2026-06-19 18:23:27",
-      "tags": [
-        "其他"
-      ],
-      "text": "【廣東：鼓勵大型保險機構在粵設立再保險運營中心、海洋保險中心】廣東省人民政府印發《廣東省推進服務業擴能提質實施方案》的通知，其中提到，鼓勵大型保險機構在粵設立再保險運營中心、海洋保險中心，引導保險機構差異化、特色化發展，支援保險機構加大在粵權益類投資力度。強化保險服務民生事業功能，完善省市配套支援政策，加快推進第三支柱養老保險擴面增品提質，鼓勵發展兼具養老保障和財富管理功能的保險產品，有序開展城市定製型商業醫療保險，支援發展長期醫療保險，鼓勵發展保障靈活就業人員、新就業形態人員權益的意外傷害、健康和失業保險。圍繞現代化產業體系建設需求，鼓勵保險機構加大對海上風電和海工裝備、新能源車船、新型儲能、醫藥器械、低空經濟等產業的保險支援。加快建立省市兩級科技保險政策體系、落實後獎補政策，擴大產品研發責任險覆蓋範圍，推廣中試保險。積極發揮保險社會管理功能，透過“費改保”等方式支援保險機構創新責任險等產品服務，配合地市提升安全生產、環境汙染等領域治理效能。探索發展跨境保險業務，提高經常專案跨境保險資金結算便利化水平，研究擴大跨境車險效力互認的政策實施範圍。"
-    },
-    {
-      "id": "4945015",
-      "time": "2026-06-19 18:23:17",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【廣東：培育壯大優質投資銀行和投資機構，鼓勵頭部券商和基金管理公司提升服務能力、合規經營能力和市場引領能力】廣東省人民政府印發《廣東省推進服務業擴能提質實施方案》的通知，其中提到，培育壯大優質投資銀行和投資機構，鼓勵頭部券商和基金管理公司提升服務能力、合規經營能力和市場引領能力，吸引國內外知名資管機構在粵設立法人總部或區域性總部，鼓勵發展投資顧問業態。利用好資本市場綜合服務功能，指導支援各地市完善上市後備企業和併購重組專案庫，聯動交易所、券商等機構做實做細擬上市企業全週期輔導服務，最佳化上市公司併購重組涉及的土地使用權、房產、股權過戶等審批流程，鼓勵企業擴大科技債券、綠色債券、資產證券化產品發行規模。發展多元股權投資，充分發揮政府性投資引導基金作用，深化與境內外基金管理機構合作，完善創業投資配套支援政策，培育壯大耐心資本。支援深圳證券交易所深化投融資改革，打造世界一流交易所。支援廣州期貨交易所豐富期貨產品體系，完善全期貨產業鏈。推動行業主管部門和各地市加強對企業在區域股權市場掛牌支援力度，增強區域股權市場基礎性功能。"
-    },
-    {
-      "id": "4945014",
-      "time": "2026-06-19 18:22:54",
-      "tags": [
-        "其他"
-      ],
-      "text": "【廣東：構建科學多元的住宿業供給體系】廣東省人民政府印發《廣東省推進服務業擴能提質實施方案》的通知，其中提到，構建科學多元的住宿業供給體系，最佳化住宿業的結構性佈局，對商務酒店供給充足的城市側重增加休閒度假酒店，在旅遊資源豐富的區域謀劃建設休閒度假酒店叢集。支援引進中高階品牌連鎖酒店，鼓勵中小型存量酒店提檔升級並引進品牌管理方，深化與第三方平臺合作提升經營質量。支援發展電競、文化、影視、動漫、溫泉等主題酒店。積極培育一批鄉村民宿（酒店）叢集、特色客棧和帳篷露營等住宿新業態。鼓勵和支援各地盤活閒置土地、房產資源用於酒店建設，支援新建、改造酒店專案。支援酒店因地制宜發展多元餐飲業態、購物場景，探索“酒店+文旅”“酒店+餐飲”“酒店+會展”等融合業態。全面夯實酒店安全管理基礎，提升全行業服務標準，確保服務品質，促進行業自律自治和規範發展。"
-    },
-    {
-      "id": "mkt:019edf67-938d-7dd8-b092-fa67602bc69a",
-      "time": "2026-06-19 18:22:47",
-      "tags": [
-        "MKT News",
-        "Important",
-        "CSI300",
-        "Impact bullish",
-        "Hang Seng Index"
-      ],
-      "text": "【Guangdong backs Guangzhou Futures Exchange to expand product suite and complete full futures industry chain】Guangdong provincial government issued an implementation plan to boost services‑sector capacity. The plan supports Shenzhen Stock Exchange in deepening investment and financing reforms toward a world‑class exchange, backs Guangzhou Futures Exchange in expanding futures product offerings and building a full futures industry chain, and directs regulators and local governments to step up support for companies to list on regional equity markets to strengthen those markets' foundational functions."
-    },
-    {
-      "id": "4945013",
-      "time": "2026-06-19 18:22:41",
-      "tags": [
-        "其他"
-      ],
-      "text": "【廣東：支援零售企業品牌化、連鎖化發展】廣東省人民政府印發《廣東省推進服務業擴能提質實施方案》的通知，其中提到，構建現代零售發展體系，統籌大型商超、品牌門店、社群便民店等多元零售業態佈局，支援零售企業品牌化、連鎖化發展。深入實施消費品以舊換新、廣東優品購等促消費活動。推動“入境購”增商店、擴商品、優服務，引導國貨潮品進入退稅免稅銷售渠道。充分利用口岸人流物流的集聚效應，打造口岸商圈，大力發展集吃住行遊購娛於一體的口岸經濟。建立首店首發招商對接機制，鼓勵和支援各地市招引國內外高能級品牌在粵開設首店、旗艦店，舉辦首發首秀首展。培育壯大電商平臺，鼓勵綜合性電商平臺、大型電商企業在粵設立銷售總部。發展即時零售、直播電商、無人零售、折扣零售、倉儲會員店等零售新業態。健全分層分類城鄉零售商業網路，引導頭部連鎖企業拓展下沉市場，推動縣、鎮、村商業設施改造升級，促進農特產品上行。"
-    },
-    {
-      "id": "4945012",
-      "time": "2026-06-19 18:22:25",
-      "tags": [
-        "其他"
-      ],
-      "text": "【廣東：著力引進企業總部和重點專案，補齊產業鏈供應鏈短板】廣東省人民政府印發《廣東省推進服務業擴能提質實施方案》的通知，其中提到，加強與供應鏈全球500強、全國100強企業聯絡對接，聚焦汽車、能源化工、有色金屬、電子資訊、建材、醫藥等省內優勢產業，以及積體電路、新型儲能、海上風電等新興產業，著力引進企業總部和重點專案，補齊產業鏈供應鏈短板。建立批發、供應鏈骨幹企業培育服務機制，協助企業解決市場、融資、營商環境等問題，支援企業做大做強。依託廣州、深圳國家物流樞紐和全省海空港聯運優勢，深化完善各類大宗物資公共資訊服務平臺，推動傳統批發與跨境電商、海外倉、市場採購等貿易新業態融合發展，打造線上線下協同、內外市場聯動的新型流通格局。強化供應鏈金融賦能，聯動金融機構推出倉單質押、訂單融資、保理等產品，藉助資料增信拓寬融資渠道，打造高效協同的供應鏈體系，培育更多百億級供應鏈骨幹企業。加快傳統批發市場轉型升級，實施數字化改造，打造省級數字化標杆市場。"
     }
   ]
 }
