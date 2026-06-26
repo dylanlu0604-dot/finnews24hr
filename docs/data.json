@@ -1,7 +1,46 @@
 {
-  "updated": "2026-06-26 22:11:16",
-  "count": 17960,
+  "updated": "2026-06-26 22:15:41",
+  "count": 17954,
   "items": [
+    {
+      "id": "mkt:019f0446-efd1-7dd8-b139-52ae16079a15",
+      "time": "2026-06-26 22:13:05",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "New York gold futures touched $4,100/oz, up 1.29% on the day."
+    },
+    {
+      "id": "4957728",
+      "time": "2026-06-26 22:12:34",
+      "tags": [
+        "公司"
+      ],
+      "text": "【桑達股份所屬中電三公司中標自貢高新區智慧智造基地EPC專案】近日，桑達股份所屬中電三公司成功中標自貢高新區動力及新型儲能智慧製造基地配套基礎設施建設(一期)專案設計施工總承包（EPC）第四標段，中標額達15.13億元。"
+    },
+    {
+      "id": "4957727",
+      "time": "2026-06-26 22:12:25",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金突破4100美元/盎司，日內漲1.30%。"
+    },
+    {
+      "id": "4957726",
+      "time": "2026-06-26 22:11:31",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金突破4080美元/盎司，日內漲1.33%。"
+    },
     {
       "id": "te:markets:562279",
       "time": "2026-06-26 22:10:34",
@@ -163985,93 +164024,6 @@
         "MKT News"
       ],
       "text": "German Chancellor Merz said drug pricing policy is a national responsibility."
-    },
-    {
-      "id": "4945276",
-      "time": "2026-06-19 22:15:24",
-      "tags": [
-        "國際"
-      ],
-      "text": "馬克龍談歐盟預算：我們希望這份預算能回應歐洲人在主權與安全方面面臨的挑戰。"
-    },
-    {
-      "id": "4945275",
-      "time": "2026-06-19 22:15:08",
-      "tags": [
-        "國際"
-      ],
-      "text": "【美國稱隔夜有超過20艘船隻使用霍爾木茲海峽的阿曼海岸航線通行】美國中央司令部發言人Tim Hawkins在一份宣告中表示：“作為國際水道，所有船隻都有權安全透過霍爾木茲海峽，不應受到任何武斷的要求、主張或阻礙。”Hawkins提到聯合海事資訊中心週四釋出的一份通告。該通告建議船隻使用靠近阿曼海岸線的航線，以避開水道中部的水雷。他說：“昨晚已有20多艘船隻安全透過指定航道。”他說，美軍將繼續在相關區域活動，以支援航行自由。"
-    },
-    {
-      "id": "4945274",
-      "time": "2026-06-19 22:14:38",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗外交部：與美國的永久協議談判只有在黎巴嫩戰爭永久結束、美國全面解除封鎖、美國對伊朗石油發放豁免、釋放伊朗凍結資產之後才會開始。"
-    },
-    {
-      "id": "mkt:019ee03b-347f-7dd8-b097-520f26f874c5",
-      "time": "2026-06-19 22:13:56",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Iran confirms U.S.-Iran talks scheduled for 19th in Switzerland postponed; to be rescheduled 'in the coming days'】Iran's foreign ministry spokesman Baghaei said on social media on the 19th that U.S.-Iran talks scheduled for that day in Switzerland have been postponed and that \"we are currently discussing plans to hold the talks in the coming days.\""
-    },
-    {
-      "id": "4945273",
-      "time": "2026-06-19 22:13:39",
-      "tags": [
-        "其他"
-      ],
-      "text": "【我國首個水產育種專用智慧大模型平臺釋出】由青島藍色種業研究院聯合中國海洋大學海洋生物遺傳學與育種教育部重點實驗室、中國海洋大學三亞海洋研究院共同研發的“藍鯤智種”藍色種業大模型平臺近日釋出。該平臺是我國首個水產育種專用智慧大模型平臺，標誌著我國水產育種領域在專用科學智慧模型和智慧育種基礎平臺建設方面取得重要進展。"
-    },
-    {
-      "id": "mkt:019ee03a-dd39-7dd8-b097-495c3da2c564",
-      "time": "2026-06-19 22:13:34",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "【China launches first large AI model platform for aquaculture breeding】China has launched its first aquaculture-breeding-focused large AI model platform, Blue Kun SmartSeed. The platform was developed jointly by Qingdao Blue Seed Research Institute, the Key Laboratory of Marine Biological Genetics and Breeding (Ocean University of China) and Ocean University of China's Sanya Marine Research Institute, and represents progress in building specialized scientific AI models and an intelligent breeding infrastructure for the Chinese aquaculture sector."
-    },
-    {
-      "id": "4945272",
-      "time": "2026-06-19 22:12:51",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗方面訊息：暫無計劃允許國際原子能機構核查伊朗核設施。"
-    },
-    {
-      "id": "mkt:019ee039-f78e-7dd8-b097-437946120e65",
-      "time": "2026-06-19 22:12:35",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "Iran's foreign ministry said permanent agreement talks with the US will begin only after a permanent end to the war in Lebanon, a full US lifting of its blockade, US waivers for Iranian oil exports, and the release of frozen Iranian assets."
-    },
-    {
-      "id": "4945271",
-      "time": "2026-06-19 22:11:53",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "伊朗外交部否認霍爾木茲海峽已關閉。"
-    },
-    {
-      "id": "mkt:019ee039-3f1e-7dd8-b097-3bf713798f8e",
-      "time": "2026-06-19 22:11:48",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "Iran's foreign ministry denied that the Strait of Hormuz has been closed."
     }
   ]
 }
