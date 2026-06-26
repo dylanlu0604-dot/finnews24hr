@@ -1,7 +1,78 @@
 {
-  "updated": "2026-06-26 12:12:16",
-  "count": 17234,
+  "updated": "2026-06-26 12:16:22",
+  "count": 17230,
   "items": [
+    {
+      "id": "4956440",
+      "time": "2026-06-26 12:15:15",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "韓國HD造船海洋工程有限公司： HD現代三湖重工為開展安全培訓已全面停產，將於6月29日恢復生產。"
+    },
+    {
+      "id": "4956439",
+      "time": "2026-06-26 12:14:07",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "【SpaceX計劃為美國消費者推出新的星鏈移動服務】據《英國金融時報》援引知情人士訊息，埃隆·馬斯克旗下的SpaceX已向投資者透露，公司計劃為美國消費者推出一項全新的星鏈移動服務。 SpaceX總裁兼營運長格溫·肖特韋爾在首次公開募股路演期間表示，公司正在考慮推出一款星鏈零售產品。 該公司可能自行建設覆蓋美國的地面行動網路，但此舉需要星鏈向個人使用者銷售移動合約。 SpaceX未對評論請求作出回應。"
+    },
+    {
+      "id": "te:economy:562086",
+      "time": "2026-06-26 12:12:34",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Japan",
+        "Government Bond 10Y",
+        "Importance 1"
+      ],
+      "text": "Japan 10-Year Yield Edges Lower — Japan's 10-year government bond yield slipped to around 2.61% on Friday, extending its decline for a third consecutive session despite data showing Tokyo's core inflation accelerated for the first time in eight months, reinforcing expectations that the Bank of Japan will continue raising interest rates. On Wednesday, BOJ Governor Kazuo Ueda reaffirmed his commitment to further rate hikes in line with economic, inflation, and financial conditions. A day later, hawkish board member Naoki Tamura also called for rate increases every few months. The BOJ is set to announce its next policy decision on July 31. Meanwhile, Japanese bond yields tracked lower US Treasury yields after a benign US inflation report reduced expectations for multiple Federal Reserve rate hikes this year. Oil prices also returned to pre-war levels as progress in US-Iran peace efforts eased inflation concerns."
+    },
+    {
+      "id": "4956438",
+      "time": "2026-06-26 12:12:30",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【全球晶片LOF：將於6月26日下午開市起停牌至當日收市】景順長城基金管理有限公司公告，近期旗下景順長城全球半導體晶片產業股票型證券投資基金（QDII-LOF）（場內簡稱：全球晶片，擴位簡稱：全球晶片LOF，交易程式碼：501225）二級市場交易價格明顯高於基金份額淨值，出現較大幅度溢價。2026年6月26日中午收盤，本基金二級市場的最新成交價為4.606元，截至2026年6月24日，本基金基金份額淨值為3.5034元。特此鄭重提醒廣大投資者，應密切關注二級市場交易價格溢價風險，審慎做出投資決策，如盲目投資，後續可能遭受重大損失。為保護投資者利益，本基金將於2026年6月26日下午開市起停牌至當日收市，停牌期間本基金贖回業務照常辦理。"
+    },
+    {
+      "id": "mkt:019f0220-b7d8-7dd8-b12d-46e0bc3bc8d7",
+      "time": "2026-06-26 12:12:06",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC"
+      ],
+      "text": "【Japan's Tokai No.2 nuclear plant offline】Japan Atomic Power Company said the Tokai No.2 nuclear power plant is currently offline. The Japan Meteorological Agency recorded a magnitude-5.8 earthquake at about 12:46 p.m. local time on the 26th in northeastern Chiba Prefecture. So far no abnormalities have been reported at the plant and nearby radiation monitoring stations have shown no change in dose rates."
+    },
+    {
+      "id": "mkt:019f0220-5cd3-7dd8-b12d-3f4441189796",
+      "time": "2026-06-26 12:11:43",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "China EV Leaders",
+        "XPEV.O",
+        "Impact bullish"
+      ],
+      "text": "【He Xiaopeng says autonomous driving can legally enter global markets by year-end】On June 26, He Xiaopeng said Xpeng’s second‑generation VLA is headed for global rollout. He noted WP.29’s approval of DCAS UNR 171 series 02 will enter into force six months after approval and become an EU mandatory regulation, clearing the way for legal deployment of autonomous driving in the EU and other markets from end‑2026. He said Xpeng plans overseas rollouts of VLA and VLM in 2027, including mixed Chinese/local‑language in‑car voice control. Xpeng took an active role in the WP.29 ADS working group to advance the first global autonomous‑driving regulation."
+    },
+    {
+      "id": "4956437",
+      "time": "2026-06-26 12:11:34",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【日本東海第二核電站處於停運狀態】日本原子力發電公司當地時間26日表示，東海第二核電站目前處於停運狀態。據日本氣象廳訊息，26日12時46分左右，日本千葉縣東北部發生5.8級地震。截至目前，尚未確認此次地震導致核電站出現任何異常。此外，用於監測核電站周邊輻射水平的監測站測得的輻射劑量數值也沒有發生變化。"
+    },
     {
       "id": "4956436",
       "time": "2026-06-26 12:11:20",
@@ -157645,112 +157716,6 @@
         "Impact bullish"
       ],
       "text": "Market sources say Netflix (NFLX.O) is open to more partnerships with traditional TV companies."
-    },
-    {
-      "id": "4944676",
-      "time": "2026-06-19 12:16:14",
-      "tags": [
-        "國際"
-      ],
-      "text": "瑞士外交部：原定週五在布林根施托克舉行的美伊會談將不會按計劃進行。"
-    },
-    {
-      "id": "4944675",
-      "time": "2026-06-19 12:16:00",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "韓國KOSPI指數走勢震盪，現跌0.3%。該基準指數早盤一度大漲3%，後抹去漲幅一度跌近2%。"
-    },
-    {
-      "id": "mkt:019ede17-a0a2-7dd8-b08d-7ec9e0b191cb",
-      "time": "2026-06-19 12:15:50",
-      "tags": [
-        "MKT News",
-        "Important",
-        "XAUUSD",
-        "Impact bullish",
-        "WTI",
-        "DXY"
-      ],
-      "text": "Switzerland's foreign ministry said US-Iran talks due Friday will not take place as planned."
-    },
-    {
-      "id": "te:economy:560319",
-      "time": "2026-06-19 12:15:43",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Malaysia",
-        "Inflation Rate",
-        "Importance 1"
-      ],
-      "text": "Malaysia Inflation Highest in Nearly 2 Years — The annual inflation rate in Malaysia rose to 2.0% in May 2026 from 1.9% in April, slightly below market expectations of 2.1%, and marking the highest reading since July 2024. The pickup reflected firmer price pressures, notably in food & beverages (1.4% vs 1.2% in April), housing & utilities (1.2% vs 1.1%), information & communication (2.1% vs 2.0%), and recreation, sport & culture (1.1% vs 0.9%). Meanwhile, price growth slowed for transport (3.8% vs 4.1%), health (1.2% vs 1.4%), and restaurants & accommodation services (2.5% vs 2.6%). Core inflation, measured as CPI excluding fuel, edged up to 1.8% in May from 1.7% in April, indicating slightly stronger underlying price pressures. On a monthly basis, consumer prices rose 0.1%, the smallest increase in four months and down from a 0.4% gain in April."
-    },
-    {
-      "id": "4944674",
-      "time": "2026-06-19 12:15:29",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "紐約期金失守4160美元/盎司，日內跌2.03%。"
-    },
-    {
-      "id": "4944673",
-      "time": "2026-06-19 12:15:28",
-      "tags": [
-        "市場"
-      ],
-      "text": "紐約期金日內跌2%，現報4160.90美元/盎司。"
-    },
-    {
-      "id": "mkt:019ede16-b863-7dd8-b08d-77b2a155a8a3",
-      "time": "2026-06-19 12:14:51",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【RAIMONDO meets Canadian Industry Minister Joly and business delegation】June 18 — MOFCOM minister RAIMONDO met Canadian Industry Minister Joly, the prime minister’s parliamentary secretary Blois and business delegates in Beijing to discuss China-Canada trade, operations of Canadian firms in China and mutual economic priorities. RAIMONDO said both sides should use the China-Canada Economic and Trade Joint Committee as the principal channel, consolidate traditional industry cooperation and expand ties in emerging and future sectors to tighten shared interests. He said China values foreign investors’ views and is willing to work with Canada through frank dialogue and pragmatic cooperation to expand the cooperation agenda, reduce outstanding issues and promote healthy, stable, sustainable development of bilateral economic and trade relations."
-    },
-    {
-      "id": "4944672",
-      "time": "2026-06-19 12:13:36",
-      "tags": [
-        "國際"
-      ],
-      "text": "【王文濤部長會見加拿大工業部長喬利和工商界代表】6月18日，商務部部長王文濤在北京會見加拿大工業部長喬利、加總理駐議會秘書布洛伊斯和工商界代表。雙方就中加經貿關係、加資企業在華髮展以及彼此重點經貿關注等進行深入交流。王文濤表示，習近平主席指出，中加要推進構建新型戰略伙伴關係，做相互尊重、共同發展、彼此信任、相互協作的夥伴。兩國領導人的重要共識為中加經貿關係指明瞭方向。中國正積極實施“十五五”規劃，市場的規模性、成長性、穩定性優勢明顯，蘊藏巨大機遇。雙方應充分發揮中加經貿聯委會機制的經貿主渠道作用，鞏固傳統產業合作勢頭，大力拓展新興和未來產業合作空間，拉緊共同利益紐帶。中方始終重視外國投資者的意見，願與加方共同努力，透過坦誠對話、務實合作，拉長合作清單，縮短問題清單，推動中加經貿關係健康、穩定、可持續發展。喬利表示，加方高度重視發展對華關係，將積極落實兩國領導人重要共識，推動各領域務實合作。加方願同中方拓展在電動汽車、電池、風能等新興領域合作，深化在油氣、農業、金融等傳統領域合作，共同為兩國企業創造互利共贏的合作氛圍。（商務部）"
-    },
-    {
-      "id": "te:economy:560317",
-      "time": "2026-06-19 12:13:31",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Malaysia",
-        "Exports YoY",
-        "Importance 1"
-      ],
-      "text": "Malaysia Exports Reach All-Time High — Malaysia’s exports jumped 45.3% year-on-year to a record high of MYR 184 billion in May 2026, after an upwardly revised 37.3% increase in April and far exceeding forecasts of 32.4%, marking the strongest growth since August 2022 despite global uncertainties. Growth was mainly boosted by the manufacturing sector, which surged 51.7%, particularly in electrical and electronic products (70.5%) and petroleum products (74.2%)."
-    },
-    {
-      "id": "4944671",
-      "time": "2026-06-19 12:13:09",
-      "tags": [
-        "國際"
-      ],
-      "text": "【以色列持續轟炸黎南多個地區】據沙特媒體哈達斯、土耳其阿納多盧通訊社、伊朗伊斯蘭共和國通訊社多家中東媒體報道，以色列再次空襲轟炸黎巴嫩南部杜韋爾、哈魯夫和奈拜提耶地區，造成人員傷亡。"
-    },
-    {
-      "id": "mkt:019ede14-b62c-7dd8-b08d-6d9f76644f92",
-      "time": "2026-06-19 12:12:39",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact mixed",
-        "Brent"
-      ],
-      "text": "【FT: Iranian cargo ships leave Malaysian waters; six head back toward Strait of Hormuz】FT reports several Iranian cargo ships abruptly left Malaysian waters and, after the US and Iran agreed to extend a ceasefire, are returning toward the Strait of Hormuz. FT’s ship‑tracking analysis shows six of seven Iranian-flagged container vessels reported in Malaysian ports and waters earlier this week had departed by Thursday. Most of the departing ships have declared destinations in the Persian Gulf. Many Iranian vessels had been sheltering in Southeast Asia since the US began blocking Iranian home ports in April."
     }
   ]
 }
