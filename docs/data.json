@@ -1,7 +1,129 @@
 {
-  "updated": "2026-06-26 14:57:42",
-  "count": 17267,
+  "updated": "2026-06-26 15:02:37",
+  "count": 17271,
   "items": [
+    {
+      "id": "4956642",
+      "time": "2026-06-26 15:01:08",
+      "tags": [
+        "市場"
+      ],
+      "text": "【ETF收評：長三角ETF領漲5.82%，長江保護ETF領跌7.5%】ETF收盤漲跌不一，長三角ETF（512650）領漲5.82%，半導體裝置ETF（560780）漲3.81%，科創半導體裝置ETF（589020）漲3.77%，長江保護ETF（517160）領跌7.5%，通訊ETF（515880）跌6.69%，金融科技ETF（159299）跌6.22%。"
+    },
+    {
+      "id": "4956641",
+      "time": "2026-06-26 15:01:03",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "A股收盤，上證指數跌2.26%，深證成指跌3.44%，創業板指跌4.07%。"
+    },
+    {
+      "id": "4956640",
+      "time": "2026-06-26 15:00:32",
+      "tags": [
+        "其他"
+      ],
+      "text": "【北京通州：城市副中心產業高質量發展若干意見釋出，推動加快建設現代化產業體系】6月25日，北京市通州區釋出了加快推進城市副中心產業高質量發展的若干意見。該政策從公平合規、細化賽道、強化機制等方向對先前政策內容進行了修訂，聚焦強鏈集聚、創新策源、特色培優、生態服務、金融賦能、人才引育六個維度，提出26條具體內容，推動加快建設城市副中心現代化產業體系，打造首都發展新增長極。其中提到，聚力特色產業培優育強，政策堅持主導產業與特色細分賽道同步發力，對文化旅遊、商務服務、醫藥健康、現代農業、網路視聽、電競產業、設計產業、數字廣告產業8個產業或賽道的市場主體給予支援。豐富消費場景，打造非遺傳承、文娛體驗特色空間。加強國際消費城市建設，集聚發展首店經濟、夜間經濟、物流經濟。聚焦創新藥、高階醫療器械、美麗健康領域，深化醫產協同。發展特色農業，推動種業創新鏈、種植業產業鏈協同發展。做強網路視聽，加強超高畫質視聽場景應用。打造“電競+文旅”融合生態，做優設計產業，支援數字廣告機構、產業園區規模化發展。（北京日報）"
+    },
+    {
+      "id": "4956639",
+      "time": "2026-06-26 15:00:18",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯外貿銀行（VTB Bank）表示，受當前金融市場形勢影響，預計2026年淨利潤將落在其6000億至6500億盧布指引區間的下端。"
+    },
+    {
+      "id": "4956638",
+      "time": "2026-06-26 15:00:04",
+      "tags": [
+        "市場"
+      ],
+      "text": "【商品期貨收盤】20號膠連續跌4.44%，多晶矽連續跌3.90%，碳酸鋰連續跌3.23%，丁二烯橡膠連續跌2.88%，鉑連續漲2.76%，蘋果連續漲2.67%。"
+    },
+    {
+      "id": "4956637",
+      "time": "2026-06-26 15:00:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "【股指期貨午盤收盤】 中證1000指數期貨連續跌2.33%， 滬深300指數期貨連續跌2.99%， 中證500指數期貨連續跌2.76%， 上證50指數期貨連續跌2.06%。"
+    },
+    {
+      "id": "4956636",
+      "time": "2026-06-26 15:00:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "歐股開盤普漲，德國DAX指數漲1.03%，英國富時100指數漲0.65%，法國CAC40指數漲0.55%，歐洲斯托克50指數漲0.85%，義大利富時MIB指數漲0.28%。"
+    },
+    {
+      "id": "4956635",
+      "time": "2026-06-26 14:59:26",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【現貨金銀持續回升 日內雙雙轉漲】現貨黃金日內轉漲，現報4030.56美元/盎司，此前一度跌超1%。現貨白銀抹去日內超3%的跌幅，現漲0.75%，報58.27美元/盎司。"
+    },
+    {
+      "id": "mkt:019f02b9-c519-7dd8-b12f-b67d830887ed",
+      "time": "2026-06-26 14:59:16",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "【Spot gold and silver rebound, turn higher intraday】Spot gold has turned higher intraday, trading at $4,030.56/oz after earlier falling more than 1%. Spot silver erased intraday losses exceeding 3% and is up 0.75% at $58.27/oz."
+    },
+    {
+      "id": "4956634",
+      "time": "2026-06-26 14:58:58",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【比特幣觸及21個月低點後小幅回升】比特幣在前一交易日因科技股再度遭遇拋售而觸及21個月低點後，目前小幅回升。Jefferies經濟學家Mohit Kumar在一份報告中表示，由於估值和對人工智慧的擔憂，科技股繼續面臨壓力。“月末和季末的資金流向也會對本季度表現良好的科技股造成拖累。“倫敦證券交易所集團的資料顯示，比特幣上漲1.5%，至60,258美元，週四曾跌至58,075美元的低點。"
+    },
+    {
+      "id": "4956633",
+      "time": "2026-06-26 14:58:45",
+      "tags": [
+        "央行",
+        "市場",
+        "觀點",
+        "國際"
+      ],
+      "text": "【機構：菲律賓央行料將繼續加息】馬來亞銀行分析師在一份報告中表示，隨著決策者試圖錨定通脹預期並遏制消費者物價走高的第二輪效應，菲律賓央行料將繼續上調政策利率。在中東能源供應受擾的情況下，國內燃料價格、運輸成本和電價預計將被迅速推高。該央行最近上調了2026年和2027年的通脹預期，理由包括全球石油和化肥價格上漲等因素。馬來亞銀行預計，菲律賓央行將在2026年底前將政策利率從目前的4.75%上調至5.00%，並在2027年底前上調至5.25%。"
+    },
+    {
+      "id": "4956631",
+      "time": "2026-06-26 14:58:05",
+      "tags": [
+        "其他"
+      ],
+      "text": "比利時警方：已確認三月列日猶太教堂襲擊案的作案者身份。"
+    },
+    {
+      "id": "mkt:019f02b8-862c-7dd8-b12f-ad653ef95a19",
+      "time": "2026-06-26 14:57:55",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact mixed",
+        "US10Y",
+        "Impact bullish",
+        "DXY"
+      ],
+      "text": "【Rate‑hike expectations \"spook\" gold; analyst says market may have overreacted】Gold closed below $4,000 yesterday for the first time since November as sustained selling in gold ETFs and investor reallocations outweighed ongoing central bank buying. Market participants say the Iran conflict is a net headwind for the metal. Several banks cut PTs but still see gold significantly higher by year‑end; Goldman calls for a rebound to $4,900. Some analysts warn current rate‑hike expectations may be overdone and could spark a recovery. Short‑term volatility looks set to persist into Q3. With oil proving resilient amid the conflict and global inflation rising — factors that could prompt further rate hikes and shift funds into yield‑bearing assets — gold is likely to remain under pressure."
+    },
     {
       "id": "mkt:019f02b7-4da8-7dd8-b12f-a401c194d42d",
       "time": "2026-06-26 14:56:35",
@@ -157908,86 +158030,6 @@
         "市場"
       ],
       "text": "英國10年期國債收益率日內上漲5個基點，突破4.80%；德國國債收益率日內變動為上漲3個基點。"
-    },
-    {
-      "id": "4944831",
-      "time": "2026-06-19 15:02:29",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "俄羅斯反壟斷監管機構在汽油價格上漲後，要求另一家加油站連鎖企業就價格上漲作出解釋。"
-    },
-    {
-      "id": "4944830",
-      "time": "2026-06-19 15:02:09",
-      "tags": [
-        "其他"
-      ],
-      "text": "德國地球科學研究中心（GFZ）：堪察加半島東海岸海域發生 6.0 級地震。"
-    },
-    {
-      "id": "4944829",
-      "time": "2026-06-19 15:01:44",
-      "tags": [
-        "市場",
-        "觀點"
-      ],
-      "text": "維斯塔斯股價上漲4.4%，摩根大通將其列入積極催化劑觀察名單。"
-    },
-    {
-      "id": "te:markets:560380",
-      "time": "2026-06-19 15:01:43",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "South Korea",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "South Korean Shares Edge Lower on Middle East Risks — The benchmark KOSPI edged down 0.13% to close at 9,052 on Friday, reversing earlier gains, as renewed Middle East uncertainty prompted investors to lock in profits following the market's recent rally to record highs. Sentiment weakened after planned talks between the United States and Iran were cancelled, raising doubts about the durability of the recent peace agreement and weighing on risk appetite across regional markets. Samsung Electronics slipped 1.38% after reaching fresh highs earlier in the session, while Doosan Enerbility (-2.41%), Hanwha Aerospace (-6.48%), and KB Financial Group (-6.48%) also declined. In contrast, SK Hynix remained resilient, advancing 3.35%, alongside SK Square (5.29%) and Hyundai Mobis (1.00%). Despite the retreat, foreign investors remained net buyers of local equities, suggesting underlying demand for South Korean stocks remained intact."
-    },
-    {
-      "id": "4944828",
-      "time": "2026-06-19 15:01:38",
-      "tags": [
-        "公司"
-      ],
-      "text": "挪威國家石油公司(EQUINOR)與其合作伙伴Petoro、殼牌(SHELL)、道達爾能源(TOTALENERGIES)及康菲石油(CONOCOPHILLIPS)將投資略超40億挪威克朗，用於一項新的海底開發專案，以提高北海Troll氣田的天然氣產量。"
-    },
-    {
-      "id": "4944827",
-      "time": "2026-06-19 15:01:32",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "【阿聯酋批准15歲以下社媒使用禁令】6月18日，阿聯酋批准新規，將社交媒體使用的最低年齡定為15歲——15歲以下兒童將被禁止使用、註冊或操作個人社交媒體賬戶，被限制訪問這些平臺的全部功能。阿聯酋就此成為全球首個出臺此類限制措施的阿拉伯國家。阿聯酋政府媒體辦公室表示，這意味著15歲以下的孩子將無法釋出內容、發表評論、分享資訊或加入公共群組。 該規定適用於所有在阿聯酋運營的社交媒體平臺，並要求企業實施嚴格的年齡驗證措施，包括數字身份認證和人工智慧技術支援。僅透過自我申報年齡將不被視為有效驗證方式。平臺還必須封禁15歲以下兒童建立的賬戶，防止使用者繞過年齡驗證系統，並禁止利用兒童的個人資料進行定向廣告投放或行為分析。（CCTV國際時訊）"
-    },
-    {
-      "id": "4944826",
-      "time": "2026-06-19 15:00:11",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "菲律賓股指收盤下跌0.3%，報6135.35點。"
-    },
-    {
-      "id": "4944825",
-      "time": "2026-06-19 15:00:03",
-      "tags": [
-        "市場"
-      ],
-      "text": "歐股開盤漲跌不一，德國DAX指數漲0.37%，英國富時100指數跌1.04%，法國CAC40指數漲0.44%，歐洲斯托克50指數漲0.37%，義大利富時MIB指數漲0.18%。"
-    },
-    {
-      "id": "4944824",
-      "time": "2026-06-19 14:58:23",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【特別選舉後英鎊兌走強的美元下跌，但兌歐元回升】儘管對首相基爾·斯塔默領導地位發起挑戰的可能性增加，英鎊兌走強的美元跌至11周低點，但兌歐元回升。安迪·伯納姆以絕對多數贏得了一場關鍵的英國特別選舉，為他挑戰斯塔默的領導地位鋪平了道路。他的獲勝基本符合預期。丹麥銀行分析師在一份報告中表示，這增加了更多財政支出的風險，這對英鎊是不利的。倫敦證券交易所集團的資料顯示，英鎊最低跌至1.3160美元，而歐元在隔夜觸及0.8683英鎊的一個月高點後，下跌0.1%至0.8669英鎊。"
     }
   ]
 }
