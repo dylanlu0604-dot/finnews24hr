@@ -1,7 +1,100 @@
 {
-  "updated": "2026-06-26 09:47:38",
-  "count": 17018,
+  "updated": "2026-06-26 09:51:32",
+  "count": 17026,
   "items": [
+    {
+      "id": "mkt:019f019f-6277-7dd8-b129-9302dc75601b",
+      "time": "2026-06-26 09:50:50",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "9984.T",
+        "Impact bearish"
+      ],
+      "text": "【SoftBank shares plunge on risk OpenAI IPO may be delayed】SoftBank Group shares fell as much as 12% intraday after reports OpenAI may postpone its IPO until next year, potentially delaying returns for Japanese investors. SoftBank’s exposure to OpenAI was expected to reach about $65bn by October. Markets had treated an OpenAI listing as a major valuation catalyst that helped push SoftBank to record highs and lift its market value above Toyota last month. The New York Times reported OpenAI’s adviser bankers warned tech-sector volatility could damp IPO demand. The move produced SoftBank’s biggest single-day drop in Tokyo in over three months on Friday morning. Strategist Hiroki Takei said an OpenAI IPO would provide a transparent market valuation for SoftBank’s large holdings, including hundreds of unlisted startups, which could narrow the group’s conglomerate discount; a delay would lower those expectations."
+    },
+    {
+      "id": "4956179",
+      "time": "2026-06-26 09:50:18",
+      "tags": [
+        "公司"
+      ],
+      "text": "【蘇博特等成立科技新公司 含民用航空材料業務】企查查APP顯示，近日，江蘇領聚新材科技有限公司成立，經營範圍包含：3D列印基礎材料銷售；民用航空材料銷售；電子專用材料製造；電子專用材料銷售等。企查查股權穿透顯示，該公司由蘇博特等共同持股。"
+    },
+    {
+      "id": "mkt:019f019e-9e5a-7dd8-b129-8c75098fa071",
+      "time": "2026-06-26 09:50:00",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "SZSE Component",
+        "Impact bearish",
+        "SSE Composite"
+      ],
+      "text": "China's ChiNext Index fell more than 2%; Shenzhen Component Index fell 1.6%; Shanghai Composite fell 0.9%; Sci‑Tech Innovation Board 50 Index fell more than 1%."
+    },
+    {
+      "id": "4956178",
+      "time": "2026-06-26 09:49:46",
+      "tags": [
+        "市場"
+      ],
+      "text": "日經225指數跌幅擴大；最新報70051.40，下跌3.2%。"
+    },
+    {
+      "id": "4956177",
+      "time": "2026-06-26 09:49:08",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "創業板指跌2.04%，現報4282.604點；上證指數跌0.83%，現報4086.015點；深證成指跌1.52%，現報16096.209點。"
+    },
+    {
+      "id": "4956176",
+      "time": "2026-06-26 09:48:55",
+      "tags": [
+        "其他"
+      ],
+      "text": "【CPO概念股走低，新易盛、中際旭創跌超5%】CPO概念股走低，太辰光跌超10%，立訊精密、特發資訊跌超7%，新易盛、中際旭創跌超5%。"
+    },
+    {
+      "id": "4956175",
+      "time": "2026-06-26 09:48:21",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "南向資金淨買入額達20億港元。"
+    },
+    {
+      "id": "mkt:019f019c-eccc-7dd8-b129-85ca6111b3cf",
+      "time": "2026-06-26 09:48:09",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Lianxin Testing says online diapers formamide test screenshots are invalid; no formal report issued】Lianxin Testing (Jiangsu) Co. said on June 26 that circulated screenshots purporting to show formamide detected in diapers are invalid. The company said no formal report has been issued; an official report would bear a cross-page seal. Testing is ongoing, any cited findings are not official, and Lianxin said it will pursue legal action against malicious dissemination that harms the company’s reputation."
+    },
+    {
+      "id": "4956174",
+      "time": "2026-06-26 09:47:54",
+      "tags": [
+        "其他"
+      ],
+      "text": "【港股光通訊股走弱 長飛光纖光纜跌超8%】截至發稿，長飛光纖光纜(06869.HK)跌8.55%，舜宇光學科技(02382.HK)跌7.09%，匯聚科技(01729.HK)跌5.09%，劍橋科技(06166.HK)跌4.68%。"
+    },
+    {
+      "id": "4956173",
+      "time": "2026-06-26 09:47:29",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【小金屬板塊盤初拉昇，寶武鎂業漲停】小金屬板塊盤初拉昇，寶武鎂業漲停，翔鷺鎢業、金鉬股份、錫業股份、廈門鎢業、中鎢高新跟漲。"
+    },
     {
       "id": "4956172",
       "time": "2026-06-26 09:46:43",
@@ -155637,22 +155730,6 @@
         "市場"
       ],
       "text": "【現貨白銀失守65美元/盎司】現貨白銀失守65美元/盎司，日內跌1.07%。"
-    },
-    {
-      "id": "mkt:019edd92-216f-7dd8-b08c-18ed0cec914f",
-      "time": "2026-06-19 09:50:01",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Xiamen resales continue to recover; new-home market stabilizes】China Real Estate Daily reports Xiamen second‑hand home prices rose for a third consecutive month. CRIC’s Xiamen monitor shows May 2026 online signings for second‑hand residential units at 2,345 units (228,100 sq m): MoM -18.7% in units and -13.8% in area, YoY +37.1% in units and +33.7% in area; this is the third month above a 2,200‑unit baseline. The new‑home market has also reached a stabilization point, reversing prior MoM declines. Outlook: structural repair in the Xiamen housing market is expected to continue into H2 2026; near term, developers’ mid‑year sales push in June may lift new supply and release rigid (owner‑occupier) demand, while resales sustain a mild recovery."
-    },
-    {
-      "id": "4944557",
-      "time": "2026-06-19 09:49:22",
-      "tags": [
-        "其他"
-      ],
-      "text": "【今年端午檔上映影片數量創近十年同期新高】截至目前，2026年度電影總票房已超165億元。《給阿嬤的情書》6月18日全球上映，端午檔20部新片雲集，創近十年同期新高。影片型別豐富，滿足多樣化觀影需求。（央視新聞）"
     }
   ]
 }
