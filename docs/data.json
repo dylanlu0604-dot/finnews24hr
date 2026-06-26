@@ -1,7 +1,51 @@
 {
-  "updated": "2026-06-27 03:49:07",
-  "count": 18103,
+  "updated": "2026-06-27 03:52:56",
+  "count": 18101,
   "items": [
+    {
+      "id": "4957964",
+      "time": "2026-06-27 03:52:01",
+      "tags": [
+        "國際"
+      ],
+      "text": "黎巴嫩總理表示，已與以色列達成框架協議，目標是推動以色列撤出所有黎巴嫩領土。"
+    },
+    {
+      "id": "4957963",
+      "time": "2026-06-27 03:51:48",
+      "tags": [
+        "市場"
+      ],
+      "text": "蘋果股價迅速飆升至盤中最高點3.6%，隨後有所回落。"
+    },
+    {
+      "id": "te:markets:562321",
+      "time": "2026-06-27 03:50:02",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "Qualcomm Stock Price Hits 7-week Low — Qualcomm shares decreased to 189.53 USD, the lowest since May 2026. Over the past 4 weeks, Qualcomm lost 18.1%, and in the last 12 months, it increased 20.57%."
+    },
+    {
+      "id": "4957962",
+      "time": "2026-06-27 03:49:36",
+      "tags": [
+        "其他"
+      ],
+      "text": "黎巴嫩總理表示，黎巴嫩在該框架下的義務是透過武裝力量將國家主權延伸至全境。"
+    },
+    {
+      "id": "4957961",
+      "time": "2026-06-27 03:49:32",
+      "tags": [
+        "其他"
+      ],
+      "text": "史賽克：持續佈局外科醫療、神經技術及骨科業務。 上述各項業務均構成獨立可報告分部。"
+    },
     {
       "id": "4957960",
       "time": "2026-06-27 03:41:19",
@@ -165505,67 +165549,6 @@
         "MKT News"
       ],
       "text": "US President Trump says relations with Israel are good."
-    },
-    {
-      "id": "4945430",
-      "time": "2026-06-20 03:52:46",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普稱其與以色列關係極佳。"
-    },
-    {
-      "id": "mkt:019ee170-f7b9-7dd8-b09a-da707a9bae1e",
-      "time": "2026-06-20 03:52:17",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "U.S. President Trump said he will visit Turkey."
-    },
-    {
-      "id": "4945429",
-      "time": "2026-06-20 03:51:52",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：（談伊朗）我認為事態不會走到那一步。"
-    },
-    {
-      "id": "mkt:019ee16f-fa99-7dd8-b09a-d0cbb07bec66",
-      "time": "2026-06-20 03:51:12",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "U.S. President Trump said those ships are leaving the Strait of Hormuz at an unprecedented pace."
-    },
-    {
-      "id": "4945428",
-      "time": "2026-06-20 03:51:06",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：將前往土耳其。"
-    },
-    {
-      "id": "4945427",
-      "time": "2026-06-20 03:50:59",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【美國新空軍一號專機亮相】當地時間6月19日，據美國哥倫比亞廣播公司（CBS）報道，美國空軍首次公開展示由卡達贈送、價值約4億美元的波音747-8型飛機。這架新的“空軍一號”總統專機目前已抵達馬里蘭州安德魯斯聯合基地，將先進行“服役認證飛行”，隨後將正式投入使用。美國空軍表示，這架飛機已完成所需改裝和紅白藍塗裝，機艙內部佈局僅作最小程度調整。 美國總統特朗普此前駁斥了“接受外國政府贈送專機存在利益衝突和安全風險”的批評。他表示，這架飛機將暫時充當“空軍一號”，直至波音公司為美國空軍制造的新一代總統專機於2028年交付。（CCTV國際時訊）"
-    },
-    {
-      "id": "mkt:019ee16e-3367-7dd8-b09a-cd55d839d649",
-      "time": "2026-06-20 03:49:16",
-      "tags": [
-        "MKT News",
-        "Important",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "President Trump said about 700 vessels are transiting the Strait of Hormuz and warned Iran must reach an agreement within 60 days or the United States will take measures that will make them unhappy."
     }
   ]
 }
