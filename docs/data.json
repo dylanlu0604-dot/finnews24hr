@@ -1,7 +1,88 @@
 {
-  "updated": "2026-06-26 13:53:50",
-  "count": 17259,
+  "updated": "2026-06-26 13:57:55",
+  "count": 17266,
   "items": [
+    {
+      "id": "mkt:019f0280-f8a9-7dd8-b12e-8e117ce170be",
+      "time": "2026-06-26 13:57:14",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "YONHAP: U.S. nuclear experts urge patience and caution on Seoul-Washington nuclear submarine cooperation."
+    },
+    {
+      "id": "mkt:019f0280-d1ee-7dd8-b12e-850beeb47364",
+      "time": "2026-06-26 13:57:04",
+      "tags": [
+        "MKT News",
+        "CSI300",
+        "Impact bullish",
+        "SSE Composite",
+        "SZSE Component"
+      ],
+      "text": "A-share silicone sector advanced amid volatile trade; Sanfu and Xinya hit limit-up, Runhe Materials rose over 10%, and Jinhua New Materials, Dongyue Silicon Materials, Jianghan New Materials, Guibao Technology and Huitian New Materials also gained."
+    },
+    {
+      "id": "4956546",
+      "time": "2026-06-26 13:56:50",
+      "tags": [
+        "市場"
+      ],
+      "text": "舜宇光學科技股價延續早前跌勢；下跌12%至59.20港元。"
+    },
+    {
+      "id": "mkt:019f0280-79ee-7dd8-b12e-7c2d28433f7b",
+      "time": "2026-06-26 13:56:41",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Ren Hongbin meets PwC global delegation at 4th Chain Expo】June 24, 2026 — Ren Hongbin, chairman of the China Council for the Promotion of International Trade (CCPIT), met PwC’s global chair and senior delegation at the 4th Chain Expo and urged the firm to deploy its advisory capabilities and the expo platform to better support Chinese companies’ high‑quality development."
+    },
+    {
+      "id": "4956545",
+      "time": "2026-06-26 13:56:39",
+      "tags": [
+        "其他"
+      ],
+      "text": "【任鴻斌會見普華永道全球高階別代表團】2026年6月24日，中國貿促會會長任鴻斌在第四屆鏈博會現場，會見普華永道全球主席康慕德及全球高階別代表團。任鴻斌對康慕德一行表示歡迎，希望其充分發揮專業服務優勢，用好鏈博會平臺，更好服務中國企業高質量發展。（中國貿促）"
+    },
+    {
+      "id": "4956544",
+      "time": "2026-06-26 13:56:26",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【有機矽板塊震盪上揚，三孚股份、新亞強漲停】有機矽板塊震盪上揚，三孚股份、新亞強漲停，潤禾材料漲超10%，錦華新材、東嶽矽材、江瀚新材、矽寶科技、迴天新材跟漲。"
+    },
+    {
+      "id": "4956543",
+      "time": "2026-06-26 13:56:01",
+      "tags": [
+        "市場"
+      ],
+      "text": "【靶材概念震盪走強 有研新材逼近漲停創歷史新高】午後靶材概念震盪走強，有研新材逼近漲停，江豐電子一度漲超10%，創歷史新高，阿石創、歐萊新材、隆華科技跟漲。"
+    },
+    {
+      "id": "4956542",
+      "time": "2026-06-26 13:55:48",
+      "tags": [
+        "市場"
+      ],
+      "text": "智譜股價下跌13%，至2,050.00港元。"
+    },
+    {
+      "id": "te:markets:562103",
+      "time": "2026-06-26 13:54:56",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "New Zealand",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "New Zealand Stocks End Week Flat — The NZX 50 was little changed, closing at 13,495 on Friday after strengthening in the morning session, as gains in energy and technology stocks were offset by declines in materials and utilities. Easing oil prices further lifted sentiment as inflation concerns moderated, reducing expectations of an interest rate hike. However, traders remained cautious after US PCE inflation hit a three-year high, raising expectations that the Fed will hold interest rates higher for longer. Traders also anticipated New Zealand's consumer and business confidence data due next week, as well as China's PMI data and US jobs data for June. Freightways Group surged 4.3%, Channel Infrastructure rose 1.3%, and Ebos Group gained 1.0%, while Turners Automotive Group, Westpac Banking Corp, and Vulcan Steel fell 2.3%, 1.9%, and 1.6%, respectively. For the week, the index was flat after rising for the previous two weeks."
+    },
     {
       "id": "mkt:019f027c-a4ac-7dd8-b12e-72448bdf537b",
       "time": "2026-06-26 13:52:30",
@@ -157917,22 +157998,6 @@
         "Important"
       ],
       "text": "United Kingdom | Retail Sales (MoM) (May) | actual 1.2% | consensus 0.50% | previous -1.30%"
-    },
-    {
-      "id": "mkt:019ede74-36c6-7dd8-b08e-72c25d9c04c5",
-      "time": "2026-06-19 13:56:58",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Switzerland's foreign ministry said it remains willing to assist in hosting negotiations after planned talks among the US, Iran, Qatar and Pakistan were postponed."
-    },
-    {
-      "id": "4944759",
-      "time": "2026-06-19 13:54:40",
-      "tags": [
-        "其他"
-      ],
-      "text": "【水利部：受降雨影響 20條中小河流發生超警以上洪水】從水利部瞭解到，受降雨影響，昨天（18日）到今天，重慶、貴州、廣西、廣東20條中小河流發生超警以上洪水。其中重慶清溪溝及貴州樂康河、所也河、京舟河等4條中小河流發生超保洪水，最大超保幅度1.11米。目前大部河流已退至警戒水位以下。"
     }
   ]
 }
