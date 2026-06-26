@@ -1,7 +1,62 @@
 {
-  "updated": "2026-06-27 00:03:22",
-  "count": 17977,
+  "updated": "2026-06-27 00:07:37",
+  "count": 17979,
   "items": [
+    {
+      "id": "mkt:019f04ae-a54c-7dd8-b13a-d5a6da8af07c",
+      "time": "2026-06-27 00:06:22",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bearish",
+        "WTI"
+      ],
+      "text": "【IMO: About 2,500 seafarers evacuated from Strait of Hormuz】IMO Secretary-General Domingues said on the 26th that since the evacuation plan for stranded seafarers in the Strait of Hormuz began on the 23rd, roughly 2,500 seafarers on 115 vessels have been evacuated, according to preliminary IMO tallies covering 3.5 days."
+    },
+    {
+      "id": "4957845",
+      "time": "2026-06-27 00:05:56",
+      "tags": [
+        "國際"
+      ],
+      "text": "【國際海事組織：約2500名海員已撤離霍爾木茲海峽】國際海事組織秘書長多明格斯26日表示，自23日啟動霍爾木茲海峽地區滯留海員疏散計劃以來，已有115艘船舶上的約2500名海員從霍爾木茲海峽撤離。多明格斯當天在一場線上記者會上說，據國際海事組織初步統計，這一資料涵蓋了疏散行動啟動以來3天半的撤離情況。國際海事組織23日宣佈啟動霍爾木茲海峽地區滯留海員疏散計劃，推薦的航道分別是伊朗一側的霍爾木茲海峽北部航道以及阿曼一側的南部航道。國際海事組織25日宣佈，一艘船舶當天在阿曼灣遭襲，該組織決定暫停霍爾木茲海峽滯留船舶的疏散行動，以進一步確認相關安全保障措施是否仍然有效。（新華社）"
+    },
+    {
+      "id": "mkt:019f04ad-707a-7dd8-b13a-c8a7b58d2eab",
+      "time": "2026-06-27 00:05:03",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "【UAE, Iran foreign ministers discuss regional situation】UAE Foreign Minister Sheikh Abdullah bin Zayed Al Nahyan spoke by phone with Iranian Foreign Minister Araghchi on the 26th to discuss regional developments following the US‑Iran memorandum of understanding. They urged full compliance with the agreement, an immediate and complete halt to hostile actions, respect for sovereignty, and protection of maritime security and freedom of navigation, including ensuring unimpeded transit through the Strait of Hormuz. They expressed hope ongoing US‑Iran talks will yield positive results and stressed diplomacy and responsible dialogue as the preferred means to resolve regional crises."
+    },
+    {
+      "id": "4957844",
+      "time": "2026-06-27 00:04:21",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國因蘇丹使用化學武器對其實施新一輪制裁。"
+    },
+    {
+      "id": "4957843",
+      "time": "2026-06-27 00:03:25",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國股市漲幅擴大，標普500指數、道指漲0.3%，納指漲0.2%。"
+    },
+    {
+      "id": "4957842",
+      "time": "2026-06-27 00:03:09",
+      "tags": [
+        "其他"
+      ],
+      "text": "加拿大航空：韓亞航空將於 2026 年 12 月 16 日退出星空聯盟。"
+    },
     {
       "id": "4957841",
       "time": "2026-06-27 00:01:29",
@@ -164291,44 +164346,6 @@
         "其他"
       ],
       "text": "秘魯央行預測 2026 年財政赤字佔國內生產總值比重為 1.8%，維持此前 1.8% 的預估不變。"
-    },
-    {
-      "id": "te:markets:560528",
-      "time": "2026-06-20 00:07:05",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United Kingdom",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The FTSE 100 Index Closes 0.34% Lower — The FTSE 100 Index dropped 35 points or 0.34 percent on Friday to close at 10364 points. Losses were led by Antofagasta (-6.16%), Fresnillo (-5.36%) and Unite Group (-4.23%). Offsetting the fall, top gainers were BP (2.08%), Relx (1.43%) and Informa (1.40%)."
-    },
-    {
-      "id": "4945354",
-      "time": "2026-06-20 00:06:50",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "秘魯央行上調 2026 年國內生產總值增速預期，從此前預估的 3.2% 提升至 3.4%。"
-    },
-    {
-      "id": "4945353",
-      "time": "2026-06-20 00:04:25",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【印度證券監管機構允許企業從公開市場回購股票】印度證券監管機構將重新允許企業進行公開市場股票回購。鑑於印度本土股市表現落後於全球同類市場，此舉有望提振股價。印度證券交易委員會（SEBI）曾在2025年逐步取消了企業直接在證券交易所回購股票的機制，理由是擔心這種方式會導致股東待遇不公並引發稅務問題。該機制被認為僅惠及少數特定投資者。此舉有望刺激更多的回購活動，尤其是對於現金充裕的企業而言；同時，在市場波動期間，這也將為股票市場提供額外的需求支撐。此前，投資銀行家們曾呼籲恢復這一回購渠道，稱這將有助於緩衝股票的拋售壓力。今年，印度基準指數Nifty 50下跌了8%，表現遜於上漲了27%的MSCI新興市場指數。"
-    },
-    {
-      "id": "4945352",
-      "time": "2026-06-20 00:03:51",
-      "tags": [
-        "國際"
-      ],
-      "text": "【美官員：美國情報部門警告，以色列或將破壞美伊和平協議】據華盛頓郵報援引多名美國現任及前官員訊息，美國多家情報機構已向特朗普政府發出預警：以色列總理內塔尼亞胡或將採取行動，破壞特朗普總統推動與伊朗達成長期和平協議的努力。眼下內塔尼亞胡面臨巨大國內政治壓力，不得不持續在黎巴嫩發動戰事。 一名看過這份情報報告的美國官員透露，美國最新情報報告得出結論：面對今年秋季的國內大選，內塔尼亞胡能否保住總理之位，關鍵在於向本國民眾證明，他不會從黎巴嫩撤軍，並且決意升級與真主黨的戰事。多名現任及前美國官員稱，這份美國情報報告還指出，以色列對特朗普這份和平諒解備忘錄的條款深感不滿，協議內容削弱了以色列持續對伊朗實施極限施壓的核心目標。 一名前美國官員表示，報告體現出以色列的看法：這份協議會限制以色列反擊真主黨、開展自衛行動的空間。"
     }
   ]
 }
