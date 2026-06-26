@@ -1,7 +1,134 @@
 {
-  "updated": "2026-06-26 23:36:15",
-  "count": 17960,
+  "updated": "2026-06-26 23:40:27",
+  "count": 17968,
   "items": [
+    {
+      "id": "mkt:019f0496-6f35-7dd8-b13a-8b403c92bd23",
+      "time": "2026-06-26 23:39:55",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "New York COMEX silver futures are up 2.00% intraday at $59.53/oz."
+    },
+    {
+      "id": "4957824",
+      "time": "2026-06-26 23:39:37",
+      "tags": [
+        "市場"
+      ],
+      "text": "紐約期銀日內漲2%，現報59.98美元/盎司。"
+    },
+    {
+      "id": "4957823",
+      "time": "2026-06-26 23:38:05",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "市場訊息：美國多名參議員致函美國商品期貨交易委員會，要求調查 Polymarket 平臺。"
+    },
+    {
+      "id": "mkt:019f0494-8074-7dd8-b13a-86c28cab39e6",
+      "time": "2026-06-26 23:37:48",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "LULA has asked Brazil's defense minister to travel to Venezuela to discuss assistance arrangements."
+    },
+    {
+      "id": "4957822",
+      "time": "2026-06-26 23:37:38",
+      "tags": [
+        "國際"
+      ],
+      "text": "【特朗普前助理博爾頓承認非法保留國家安全資訊】據美國方面訊息，當地時間6月26日，曾在特朗普首個總統任期內任總統國家安全事務助理的約翰·博爾頓在聯邦法院承認一項非法保留國家安全資訊的罪名。博爾頓當天在馬里蘭州格林貝爾特聯邦法院出庭。檢方表示，他最高可面臨5年監禁。（央視新聞）"
+    },
+    {
+      "id": "mkt:019f0494-54c6-7dd8-b13a-7b43c1abfada",
+      "time": "2026-06-26 23:37:37",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "DAX",
+        "Impact bearish",
+        "FTSE100"
+      ],
+      "text": "European equities closed lower on June 26: Germany's DAX down 328.90 points (-1.32%) at 24,671.64; FTSE 100 down 19.23 points (-0.18%) at 10,510.66; France's CAC 40 down 46.74 points (-0.55%) at 8,384.87; Euro Stoxx 50 down 45.53 points (-0.73%) at 6,222.00; Spain's IBEX 35 down 75.13 points (-0.39%) at 19,438.47; Italy's FTSE MIB down 480.41 points (-0.93%) at 51,302.50."
+    },
+    {
+      "id": "mkt:019f0494-2206-7dd8-b13a-7360164eeb71",
+      "time": "2026-06-26 23:37:24",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "INTERTANKO said Iran's Hormuz route was \"worrying.\""
+    },
+    {
+      "id": "mkt:019f0494-03e2-7dd8-b13a-68b908200f7c",
+      "time": "2026-06-26 23:37:16",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "【Li Xunlei: Gold shows long bear cycles and short bull runs】International gold is down about 30% from January's record high. Li Xunlei, vice chairman of the China Chief Economist Forum, said gold's long-term pattern is characterized by extended bear periods and shorter bull runs. Since 1971 roughly 30 years were bears and 25 years bulls; each historic bull delivered more than 5x gains and typically lasted about 10 years. The current bull has risen roughly 3x and is approaching a 10-year duration, so market participants should remain cautious."
+    },
+    {
+      "id": "mkt:019f0493-babd-7dd8-b13a-6033d02a26d0",
+      "time": "2026-06-26 23:36:58",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Intertanko advised shipowners to delay transits of the Strait of Hormuz where conditions permit."
+    },
+    {
+      "id": "mkt:019f0493-2d0b-7dd8-b13a-5916da604dc6",
+      "time": "2026-06-26 23:36:21",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "Market sources: NATO Secretary General Rutte will meet on Monday with UK Prime Minister Starmer, Home Secretary Cooper and Minister of State for Security Jarvis."
+    },
+    {
+      "id": "4957821",
+      "time": "2026-06-26 23:36:18",
+      "tags": [
+        "其他"
+      ],
+      "text": "巴西總統盧拉要求巴西國防部長前往委內瑞拉磋商援助相關事宜。"
+    },
+    {
+      "id": "4957820",
+      "time": "2026-06-26 23:35:51",
+      "tags": [
+        "國際"
+      ],
+      "text": "【巴基斯坦協助22名被扣伊朗船員回國】巴基斯坦副總理兼外長達爾26日說，近期被美國方面攔截的一艘船隻上的22名伊朗船員已於當天下午安全抵達巴南部城市卡拉奇。達爾在社交媒體發文表示，巴方同美方、伊方始終保持密切聯絡，目前正與伊朗駐巴使領館緊密協作，確保這批船員能夠儘早安全返回祖國。達爾說，這是過去兩個月以來巴基斯坦協助回國的第四批伊朗船員。巴方已成功協助超過70名伊朗公民踏上回國旅程。（新華社）"
+    },
+    {
+      "id": "4957819",
+      "time": "2026-06-26 23:35:34",
+      "tags": [
+        "宏觀",
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "【美聯儲卡什卡利：通脹全面抬頭，美聯儲或需加息】明尼阿波利斯聯邦儲備銀行行長尼爾・卡什卡里表示，各類通脹指標普遍走高，促使他在本月早些時候美聯儲釋出的經濟預測中，計入一次本年度加息。 卡什卡里接受採訪時稱：“我對通脹形勢感到擔憂，通脹上行並不只受中東局勢影響，整體經濟正顯現大範圍通脹壓力。” 今年年初通脹一度再度顯現降溫苗頭，但過去三個月物價大幅反彈。伊朗衝突推高了油價，而各類商品與服務價格同步上漲。這令部分美聯儲官員愈發擔憂：通脹擴散範圍更廣、持續性更強，央行或許需要出臺更強硬的調控舉措。"
+    },
     {
       "id": "mkt:019f0491-f9ba-7dd8-b13a-522a5e6949de",
       "time": "2026-06-26 23:35:03",
@@ -164111,55 +164238,6 @@
         "MKT News"
       ],
       "text": "Norway's prime minister said on Friday the country will impose a near-total ban on generative AI tools for primary school students and will restrict their use in education for older children to prevent negative impacts on learning."
-    },
-    {
-      "id": "4945345",
-      "time": "2026-06-19 23:39:30",
-      "tags": [
-        "市場",
-        "央行",
-        "國際"
-      ],
-      "text": "【伊朗相關憂慮和沃什鷹派立場之下 交易員提高美聯儲加息押注】隨著油價飆升重新引發通脹擔憂，交易員加大了對美聯儲加息的押注，目前已完全計入到9月加息25個基點的情景。與政策會議日期掛鉤的掉期合約顯示，加息預期為25個基點，高於週四的23個基點，也高於本週早些時候的8個基點。這一走勢出現在交投清淡之際，美國市場因公共假日休市。投資者正在計入美聯儲政策將進一步收緊。新任主席凱文·沃什本週在其首次會議上表示，央行不會容忍高通脹，此番表態在週三推動收益率上升。由於市場對美國與伊朗最新簽署的和平協議仍存疑慮，油價自週四觸及的三個月低點已反彈約4%。Ebury市場策略主管Matthew Ryan表示：“我們現在已經來到這樣一個節點，稍有風吹草動，天平就可能傾向加息。”他提到本週美聯儲決議中的相關表述稱：“多次提到美聯儲連續五年未能實現通脹目標，這些都支援了一種說法，即更高利率可能已不再遙遠。”"
-    },
-    {
-      "id": "mkt:019ee088-0c09-7dd8-b098-fd51cd7e722d",
-      "time": "2026-06-19 23:37:52",
-      "tags": [
-        "MKT News",
-        "DAX",
-        "Impact bearish",
-        "FTSE MIB",
-        "Impact bullish",
-        "Stoxx Europe 50"
-      ],
-      "text": "European equities closed mixed on Friday, June 19: Germany's DAX fell 38.88 points (-0.16%) to 24,989.18; Britain's FTSE 100 dropped 32.80 points (-0.32%) to 10,366.90; France's CAC 40 lost 46.84 points (-0.55%) to 8,421.14; the Stoxx Europe 50 declined 29.32 points (-0.46%) to 6,293.95; Spain's IBEX 35 slipped 68.29 points (-0.35%) to 19,335.81; Italy's FTSE MIB rose 162.28 points (+0.31%) to 52,850.50."
-    },
-    {
-      "id": "mkt:019ee087-dbc5-7dd8-b098-f493765a9445",
-      "time": "2026-06-19 23:37:40",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Financial Times: UK Transport Secretary Alexander urged Prime Minister Starmer to resign."
-    },
-    {
-      "id": "4945344",
-      "time": "2026-06-19 23:37:06",
-      "tags": [
-        "其他"
-      ],
-      "text": "市場訊息：英國交通大臣亞歷山大呼籲斯塔默下臺。"
-    },
-    {
-      "id": "4945343",
-      "time": "2026-06-19 23:36:45",
-      "tags": [
-        "公司",
-        "資料",
-        "國際"
-      ],
-      "text": "【印度油輪超級油輪在駛離波斯灣途中折返】一艘正在駛離波斯灣的油輪超級油輪在駛向霍爾木茲海峽時折返。彭博社彙編的油輪跟蹤資料顯示，這艘名為“Desh Vibhor”號的油輪在過去幾個小時內掉頭返航，此前它似乎正朝著美軍推薦的南部航線航行。跟蹤資料顯示，“Desh Vibhor”號似乎在開始駛離波斯灣時掉頭返航。該船由印度航運公司（Shipping Corp. of India）運營。"
     }
   ]
 }
