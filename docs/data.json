@@ -1,7 +1,116 @@
 {
-  "updated": "2026-06-27 03:28:58",
-  "count": 18090,
+  "updated": "2026-06-27 03:33:00",
+  "count": 18099,
   "items": [
+    {
+      "id": "mkt:019f056a-fdf0-7dd8-b13e-7d49dc067dd6",
+      "time": "2026-06-27 03:32:05",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y",
+        "Impact bullish"
+      ],
+      "text": "CFTC: For the week ended June 23, speculators increased net short positions in CBOT U.S. 2-year Treasury futures by 48,339 contracts to 1,318,846 contracts, and reduced net short positions in CBOT U.S. 10-year Treasury futures by 75,816 contracts to 835,266 contracts."
+    },
+    {
+      "id": "mkt:019f056a-7553-7dd8-b13e-7350d5da4b94",
+      "time": "2026-06-27 03:31:30",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "Industrial Metals",
+        "XAUUSD",
+        "Copper"
+      ],
+      "text": "CFTC weekly positions to June 23: COMEX gold speculative net longs rose 91 contracts to 113,010; COMEX silver net longs fell 411 contracts to 11,659; COMEX copper net longs fell 2,257 contracts to 68,818."
+    },
+    {
+      "id": "4957951",
+      "time": "2026-06-27 03:30:53",
+      "tags": [
+        "其他"
+      ],
+      "text": "美國國務卿魯比奧：已制定清晰且體系化的流程，以恢復黎巴嫩主權、解除真主黨武裝並拆除其基礎設施。"
+    },
+    {
+      "id": "4957950",
+      "time": "2026-06-27 03:30:43",
+      "tags": [
+        "市場"
+      ],
+      "text": "【國際油價26日顯著下跌 】截至當天收盤，紐約商品交易所8月交貨的輕質原油期貨價格下跌2.69美元，收於每桶69.23美元，跌幅為3.74%；8月交貨的倫敦布倫特原油期貨價格下跌3.27美元，收於每桶71.99美元，跌幅為4.34%。"
+    },
+    {
+      "id": "4957949",
+      "time": "2026-06-27 03:30:30",
+      "tags": [
+        "市場"
+      ],
+      "text": "【美元指數26日下跌】美元指數26日下跌。衡量美元對六種主要貨幣的美元指數當天下跌0.07%，在匯市尾市收於101.357。截至紐約匯市尾市，1歐元兌換1.1386美元，高於前一交易日的1.1373美元；1英鎊兌換1.3200美元，高於前一交易日的1.3198美元。1美元兌換161.74日元，低於前一交易日的161.80日元；1美元兌換0.8097瑞士法郎，低於前一交易日的0.8098瑞士法郎；1美元兌換1.4192加元，低於前一交易日的1.4197加元；1美元兌換9.7409瑞典克朗，高於前一交易日的9.7352瑞典克朗。"
+    },
+    {
+      "id": "mkt:019f0569-6c28-7dd8-b13e-6cffefdc6f57",
+      "time": "2026-06-27 03:30:22",
+      "tags": [
+        "MKT News",
+        "USDJPY",
+        "Impact bullish",
+        "EURUSD",
+        "GBPUSD",
+        "Impact bearish"
+      ],
+      "text": "CFTC: week to June 23 — JPY net short 146,104 contracts; EUR net long 30,158 contracts; GBP net short 105,719 contracts; CHF net short 41,094 contracts."
+    },
+    {
+      "id": "4957948",
+      "time": "2026-06-27 03:29:12",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國商品期貨交易委員會（CFTC）資料顯示，在截至2026年6月23日的當周，比特幣淨多頭頭寸為3524張合約。"
+    },
+    {
+      "id": "mkt:019f0568-52c9-7dd8-b13e-62ab56bfc71c",
+      "time": "2026-06-27 03:29:10",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Wall Street (US)",
+        "S&P500",
+        "Impact bullish"
+      ],
+      "text": "CFTC: For the week ended June 23, equity fund managers increased CME S&P 500 futures net-long positions by 4,547 contracts to 987,977 contracts. Equity fund speculators cut CME S&P 500 futures net-short positions by 146,022 contracts to 355,669 contracts."
+    },
+    {
+      "id": "4957947",
+      "time": "2026-06-27 03:28:50",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國商品期貨交易委員會（CFTC）資料顯示，截至6月23日當週，股票基金投機者將芝加哥商品交易所（CME）標普500淨空頭持倉削減146,022手，至355,669手。"
+    },
+    {
+      "id": "4957946",
+      "time": "2026-06-27 03:28:45",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國商品期貨交易委員會（CFTC）資料顯示，截至6月23日當週，股票基金經理將芝加哥商業交易所（CME）標普500淨多頭頭寸增加4547張合約，至987977張合約。"
+    },
+    {
+      "id": "4957945",
+      "time": "2026-06-27 03:28:30",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗官員阿齊茲：霍爾木茲海峽由伊朗掌控，因此各方須遵守以下要求：恪守相關規則；選擇安全航道通行；勿將我方管控舉措誤判為局勢升級。倘若各方拒不遵守規則，伊朗武裝力量將親自教你們認清底線。此舉並非破壞停火協議，而是對停火態勢實施管控。"
+    },
     {
       "id": "4957944",
       "time": "2026-06-27 03:27:40",
@@ -165422,23 +165531,6 @@
         "國際"
       ],
       "text": "白宮：這就是美國的方式。（配圖：以實力謀求和平）"
-    },
-    {
-      "id": "4945420",
-      "time": "2026-06-20 03:31:33",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "特朗普將開啟七國集團峰會結束後的首次美國國內行程，前往賓夕法尼亞州利哈伊谷的邁克卡車工廠參觀。"
-    },
-    {
-      "id": "4945419",
-      "time": "2026-06-20 03:30:47",
-      "tags": [
-        "市場"
-      ],
-      "text": "【美元指數19日下跌】衡量美元對六種主要貨幣的美元指數當天下跌0.12%，在匯市尾市收於100.729。截至紐約匯市尾市，1歐元兌換1.1477美元，高於前一交易日的1.1459美元；1英鎊兌換1.3234美元，高於前一交易日的1.3203美元。1美元兌換161.26日元，低於前一交易日的161.68日元；1美元兌換0.8066瑞士法郎，高於前一交易日的0.8051瑞士法郎；1美元兌換1.4174加元，高於前一交易日的1.4140加元；1美元兌換9.5742瑞典克朗，低於前一交易日的9.5874瑞典克朗。"
     }
   ]
 }
