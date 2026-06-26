@@ -1,7 +1,118 @@
 {
-  "updated": "2026-06-26 10:19:17",
-  "count": 17074,
+  "updated": "2026-06-26 10:23:13",
+  "count": 17083,
   "items": [
+    {
+      "id": "mkt:019f01bc-2982-7dd8-b12a-9176369cdb76",
+      "time": "2026-06-26 10:22:16",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "【GCC, US say reopening Strait of Hormuz vital】Gulf Cooperation Council foreign ministers and US Secretary of State Rubio met in Manama on June 25 and issued a joint statement saying reopening the Strait of Hormuz is vital. The statement said navigation must be free, unconditional and unrestricted, including transit rights under international law, and opposed any tolls or attempts to control the strait; it welcomed Oman and the International Maritime Organization’s plan to evacuate detained seafarers. It added that trade and investment with Iran will depend on Tehran’s compliance with memoranda of understanding and any final agreement and on Tehran creating the conditions for economic engagement."
+    },
+    {
+      "id": "mkt:019f01bc-1dac-7dd8-b12a-8d38fc0f8d1d",
+      "time": "2026-06-26 10:22:13",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "09888.HK",
+        "Impact bearish"
+      ],
+      "text": "Baidu (09888.HK) Hong Kong-listed shares slipped below HK$100, the first time they have traded under that level since September 2025."
+    },
+    {
+      "id": "4956249",
+      "time": "2026-06-26 10:22:08",
+      "tags": [
+        "市場"
+      ],
+      "text": "港股百度(09888.HK)跌破100港元，為2025年9月以來首次。"
+    },
+    {
+      "id": "4956248",
+      "time": "2026-06-26 10:21:12",
+      "tags": [
+        "公司"
+      ],
+      "text": "寧德時代A股跌超3%，寧德時代(03750.HK)港股跌超5%。"
+    },
+    {
+      "id": "4956247",
+      "time": "2026-06-26 10:21:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "富時中國A50指數期貨下跌3%。"
+    },
+    {
+      "id": "4956246",
+      "time": "2026-06-26 10:21:01",
+      "tags": [
+        "其他"
+      ],
+      "text": "【北京超五成普通小客車指標被“無車家庭”搖中】6月26日10:00，本市配置家庭和個人普通小客車指標共計9600個，家庭與個人申請人進入同池搖號；另配置單位普通小客車指標400個。從搖號現場配置結果看，本期配置家庭指標5365個，配置個人指標4235個，超五成指標被“無車家庭”搖中。據北京市機動車調控管理辦公室訊息，截至2026年3月8日24時的小客車指標申請，經稽核，家庭普通小客車指標申請共計528855個有效編碼，個人普通小客車指標申請共計2546598個有效編碼，單位普通小客車指標申請共計38406家。"
+    },
+    {
+      "id": "4956245",
+      "time": "2026-06-26 10:21:00",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【A股北交所上市企業板塊異動拉昇】萊賽鐳射漲24.24%，戈碧迦、佳先股份、晶賽科技、緯達光電、豐光精密、創遠信科跟漲。"
+    },
+    {
+      "id": "mkt:019f01ba-e34a-7dd8-b12a-81e72f01f632",
+      "time": "2026-06-26 10:20:52",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "China EV Leaders",
+        "Market Regions",
+        "Greater China",
+        "300750.SZ",
+        "Impact bearish",
+        "03750.HK"
+      ],
+      "text": "CATL A-shares fell more than 3%; Hong Kong-listed CATL (03750.HK) dropped over 5%."
+    },
+    {
+      "id": "4956244",
+      "time": "2026-06-26 10:20:36",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "北證50日內漲幅達2.10%，成分股中，戈碧迦漲22.10%，天力複合漲5.60%，錦華新材漲5.21%，廣信科技漲3.65%。"
+    },
+    {
+      "id": "4956243",
+      "time": "2026-06-26 10:20:05",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金失守4010美元/盎司，日內跌0.43%。"
+    },
+    {
+      "id": "te:markets:562060",
+      "time": "2026-06-26 10:19:14",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Currency",
+        "Importance 2"
+      ],
+      "text": "Dollar Set for Weekly Gain — The dollar index steadied around 101.5 on Friday after coming under pressure in the previous session, but remained on track for a weekly gain as markets continued to expect the Federal Reserve to raise interest rates later this year. On Thursday, the greenback weakened after the latest US PCE inflation report came in broadly in line with expectations. Although inflation remains well above the Fed's 2% target, the data helped ease concerns about a sharper-than-anticipated pickup in price pressures. Even so, markets are pricing in an 80% chance of a Fed rate hike in December following last week's hawkish pause, while the probability of a September increase stands at around 63%. New York Fed President John Williams also said on Thursday that inflationary pressures are likely to moderate this year but remain uncomfortably high."
+    },
     {
       "id": "mkt:019f01b8-dd9b-7dd8-b12a-78fa251e98c9",
       "time": "2026-06-26 10:18:40",
@@ -156161,22 +156272,6 @@
         "Greater China"
       ],
       "text": "【Hainan Free Trade Port records 1.654 mln entries/exits in six months since island-wide border operations began】Haikou border inspection authorities said that from 00:00 on 18 Dec 2025, when the Hainan Free Trade Port began island-wide border-control operations, through 00:00 on 18 Jun 2026, cumulative border checks reached 1.654 million entries and exits, up 31.2% YoY. Foreign nationals accounted for 913,000 entries/exits, up 36.1% YoY. Hainan said it continues to maintain the country’s most favourable visa-free regime, allowing citizens of 86 countries to enter visa-free on ordinary passports, and has expanded international air links to Northeast Asia, Southeast Asia, Europe and Oceania. Authorities cited stronger inbound travel for tourism, business, visiting family, medical services and conferences; main source countries were Russia, Kazakhstan, Malaysia, Indonesia and Singapore."
-    },
-    {
-      "id": "4944588",
-      "time": "2026-06-19 10:21:29",
-      "tags": [
-        "市場"
-      ],
-      "text": "伯納姆贏得英國補選後，英鎊/美元 下跌0.1%，至1.3195。"
-    },
-    {
-      "id": "4944587",
-      "time": "2026-06-19 10:19:38",
-      "tags": [
-        "國際"
-      ],
-      "text": "【海南自由貿易港封關半年累計出入境165.4萬人次】記者從海口出入境邊防檢查總站獲悉，自2025年12月18日海南自由貿易港啟動全島封關運作至2026年6月18日零時，海南累計檢查出入境人員165.4萬人次，同比增長31.2%，其中入出境外國人91.3萬人次，同比增長36.1%。海口出入境邊防檢查總站邊防檢查處副處長饒俊介紹，海南自由貿易港啟動全島封關運作以來，海南持續保持全國總體最優的免籤政策體系，全球86國公民憑普通護照即可免簽入境。與此同時，海南不斷織密國際航空網路，空港國際客運航線通達東北亞、東南亞、歐洲、大洋洲等多個重點區域。寬鬆便利的免籤政策疊加四通八達的航線網路，讓世界各地旅客來瓊旅遊觀光、商貿往來、探親訪友、康養醫療、參會參展變得更加輕鬆便捷。據統計，入境外籍旅客主要來自俄羅斯、哈薩克、馬來西亞、印度尼西亞、新加坡等國家。(新華社)"
     }
   ]
 }
