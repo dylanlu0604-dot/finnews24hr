@@ -1,7 +1,360 @@
 {
-  "updated": "2026-06-26 09:05:47",
-  "count": 16950,
+  "updated": "2026-06-26 09:27:48",
+  "count": 16956,
   "items": [
+    {
+      "id": "4956103",
+      "time": "2026-06-26 09:27:18",
+      "tags": [
+        "市場"
+      ],
+      "text": "現貨白銀日內跌1%，現報57.22美元/盎司。"
+    },
+    {
+      "id": "4956102",
+      "time": "2026-06-26 09:26:07",
+      "tags": [
+        "其他"
+      ],
+      "text": "【英國工黨敲定黨首選舉時間表】當地時間6月25日，英國工黨全國執行委員會召開會議，正式敲定新任黨首選舉時間表。根據會議決定，如果最終只有一名候選人獲得黨首提名資格，新任黨首將在7月17日舉行的工黨特別代表大會上正式宣佈產生。(央視新聞)"
+    },
+    {
+      "id": "4956101",
+      "time": "2026-06-26 09:25:37",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "甲醇連續主力合約日內漲2%，現報2475.00元。"
+    },
+    {
+      "id": "mkt:019f0188-22b9-7dd8-b128-9c0318c2d6e3",
+      "time": "2026-06-26 09:25:26",
+      "tags": [
+        "MKT News",
+        "Important",
+        "SSE Composite",
+        "Impact bearish",
+        "Hang Seng Index",
+        "CSI300"
+      ],
+      "text": "At the open, China A-shares fell: Shanghai Composite down 0.52%, Shenzhen Composite Index down 0.81%, ChiNext Index down 1.20%. Largest sector declines: CPO, memory/storage chips and lab-grown diamonds."
+    },
+    {
+      "id": "4956100",
+      "time": "2026-06-26 09:25:19",
+      "tags": [
+        "焦點"
+      ],
+      "text": "三大股指低開，滬指跌0.52％，深成指跌0.81％，創業板跌1.2％。"
+    },
+    {
+      "id": "mkt:019f0187-d7e9-7dd8-b128-9206f9830797",
+      "time": "2026-06-26 09:25:07",
+      "tags": [
+        "MKT News",
+        "Important",
+        "CNH",
+        "Impact bullish"
+      ],
+      "text": "【PBOC nets CNY 231.5 bln injection today; CNY 529.7 bln this week】PBOC conducted CNY 231.5 bln of 7-day reverse repos today; with no reverse-repo maturities, net injection was CNY 231.5 bln. This week the PBOC supplied CNY 2,265.5 bln of 7-day reverse repos and CNY 500.0 bln of 1-year MLF; maturities totaled CNY 1,935.8 bln of 7-day reverse repos and CNY 300.0 bln of 1-year MLF, yielding an aggregate net injection of CNY 529.7 bln for the week."
+    },
+    {
+      "id": "4956099",
+      "time": "2026-06-26 09:24:49",
+      "tags": [
+        "公司"
+      ],
+      "text": "【和晶科技在無錫成立技術新公司】企查查APP顯示，近日，無錫和泓技術有限公司成立，經營範圍包括軟體開發，技術推廣服務，資訊系統整合服務等。企查查股權穿透顯示，該公司由和晶科技間接全資持股。"
+    },
+    {
+      "id": "4956098",
+      "time": "2026-06-26 09:23:42",
+      "tags": [
+        "其他"
+      ],
+      "text": "【深圳海關原巡視員鍾保華接受審查調查】中央紀委國家監委網站6月26日通報，據中央紀委國家監委駐海關總署紀檢監察組、遼寧省紀委監委訊息：深圳海關原巡視員鍾保華涉嫌嚴重違紀違法，目前正接受中央紀委國家監委駐海關總署紀檢監察組紀律審查和遼寧省大連市監察委員會監察調查。"
+    },
+    {
+      "id": "4956097",
+      "time": "2026-06-26 09:23:18",
+      "tags": [
+        "市場"
+      ],
+      "text": "阿里巴巴港股開盤下跌3.2%。"
+    },
+    {
+      "id": "em:qqyh_zgyh:202606263783938227",
+      "time": "2026-06-26 09:22:26",
+      "tags": [
+        "央行",
+        "中國央行"
+      ],
+      "text": "央行今日開展2315億元7天逆回購操作，操作利率為1.40%，與此前持平。"
+    },
+    {
+      "id": "4956096",
+      "time": "2026-06-26 09:21:19",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "央行今日開展2315億元7天逆回購操作，投標量2315億元，中標量2315億元，操作利率為1.40%，與此前持平。"
+    },
+    {
+      "id": "4956095",
+      "time": "2026-06-26 09:21:08",
+      "tags": [
+        "其他",
+        "焦點"
+      ],
+      "text": "港股恒指低開跌0.54％，國企指數跌0.44％，科指開跌0.78%。"
+    },
+    {
+      "id": "mkt:019f0183-f45b-7dd8-b128-89775e9453a9",
+      "time": "2026-06-26 09:20:52",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "Hang Seng Index",
+        "Impact bearish",
+        "Hang Seng Tech Index",
+        "Hang Seng China Enterprises Index"
+      ],
+      "text": "Hong Kong markets opened lower on Friday June 26: Hang Seng Index down 124.82 pts (-0.54%) at 22,952.09; Hang Seng Tech Index down 34.38 pts (-0.78%) at 4,371.54; Hang Seng China Enterprises Index down 33.20 pts (-0.44%) at 7,575.18; Hang Seng Red Chip Index down 2.96 pts (-0.08%) at 3,794.07."
+    },
+    {
+      "id": "mkt:019f0183-eaa9-7dd8-b128-816e48bccaa7",
+      "time": "2026-06-26 09:20:50",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "Star Stocks",
+        "Alibaba",
+        "Hang Seng Index",
+        "Impact bearish",
+        "01299.HK",
+        "09988.HK"
+      ],
+      "text": "Hong Kong stocks opened lower: Hang Seng Index down 0.54%, Hang Seng TECH Index down 0.78%. AIA Group (01299.HK) fell nearly 4%; Alibaba Group (09988.HK) fell about 3%."
+    },
+    {
+      "id": "mkt:019f0183-b618-7dd8-b128-7ba3cde28c38",
+      "time": "2026-06-26 09:20:36",
+      "tags": [
+        "MKT News",
+        "Important",
+        "CNH"
+      ],
+      "text": "PBOC conducted CNY 231.5 bln of 7‑day reverse repos today; bids totaled CNY 231.5 bln and allotments were CNY 231.5 bln. Rate set at 1.40%, unchanged."
+    },
+    {
+      "id": "mkt:019f0183-7639-7dd8-b128-72f86324fa2e",
+      "time": "2026-06-26 09:20:20",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【N. Korea's Kim Jong Un Observes Artillery, Missile Tests】KCNA reported on June 26 that N. Korea leader Kim Jong Un observed weapons tests on June 25 focused on artillery and missile modernization. Tests included an upgraded 240mm 24-tube rocket launcher with automated fire control and indigenous precision guidance, range extended to 90 km; a tactical ballistic missile fitted with a \"special mission\" warhead said to be intended for lethal, destructive strikes on enemy airports, ports and power facilities; and a 155mm self-propelled gun trialing an extended-range projectile reaching 65 km. Kim said the tests demonstrate major technical progress in automation, range and ultra-precision."
+    },
+    {
+      "id": "4956094",
+      "time": "2026-06-26 09:20:12",
+      "tags": [
+        "其他"
+      ],
+      "text": "【金正恩觀摩火炮及導彈相關武器試驗】據朝中社26日報道，朝鮮勞動黨總書記、國務委員長金正恩25日觀摩火炮及導彈現代化相關武器試驗。據報道，試驗內容包括升級版240毫米24管火箭炮、戰術彈道導彈和155毫米自行加農榴彈炮增程彈。報道說，升級版火箭炮的作業系統實現自動化，採用精確自行制導系統，射程增至90公里。戰術彈道導彈“特殊使命戰鬥部”旨在對敵方機場、港口、電力設施等重要目標實施“致命性、毀滅性打擊”。155毫米自行加農榴彈炮試驗的65公里增程炮彈“也具有重要軍事意義”。金正恩說，此次試驗是一個重要契機，證明朝鮮武力建設方針以及在實現自動化、遠端化、超精密化三大方面取得的巨大技術進步。金正恩還說，朝鮮自衛性國防政策不是單純提升防禦能力，而是強化致命性、毀滅性的攻擊態勢，讓敵方感到不安和恐懼，遏制戰爭，這是朝鮮在軍隊建設和軍事行動實踐中的防禦理念。（新華社）"
+    },
+    {
+      "id": "mkt:019f0182-ffe4-7dd8-b128-69d5f8e8826d",
+      "time": "2026-06-26 09:19:50",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【Jan-May 2026 China all-sector outbound direct investment 506.95 bln yuan, +3% YoY】MOFCOM and SAFE data show China’s all-sector outbound direct investment totaled 506.95 bln yuan in Jan-May 2026, up 3% YoY (USD 73.36 bln, +7.1%). Domestic investors made non-financial direct investments in 6,081 overseas firms across 142 countries and regions, totaling 381.46 bln yuan, down 13.8% YoY (USD 55.2 bln, -10.4%)."
+    },
+    {
+      "id": "4956093",
+      "time": "2026-06-26 09:18:22",
+      "tags": [
+        "其他"
+      ],
+      "text": "【1-5月我國全行業對外直接投資5069.5億元人民幣 同比增長3%】據商務部、外匯局統計，2026年1-5月，我國全行業對外直接投資5069.5億元人民幣，同比增長3%（以美元計為733.6億美元，增長7.1%）。其中，我國境內投資者共對全球142個國家和地區的6081家境外企業進行了非金融類直接投資，累計投資3814.6億元人民幣，下降13.8%（以美元計為552億美元，下降10.4%）。"
+    },
+    {
+      "id": "te:markets:562037",
+      "time": "2026-06-26 09:17:30",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Australia",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Australia Stocks Subdued, Set for Weekly Decline — Australian shares were little changed in early Friday trade, holding near 8,750 after the prior session’s losses. Gains in non-energy minerals, process industries, and energy minerals helped offset weakness in healthcare, commercial services, and tech services. Traders looked ahead to the Reserve Bank’s June meeting minutes due next week, following the board's decision to pause after three rate hikes earlier this year. Inflation data stayed in focus, with headline CPI easing to 4.0% in May from 4.2% in April, though core inflation quickened to 3.6%. Genesis Minerals rose 2.9%, alongside Ramelius Resources (2.3%) and Bluescope Steel (1.6%). On the downside, CSL Ltd. slipped 2.3%, and Aristocrat Leisure fell 1.9%. Three of the four big banks edged lower between 0.2% and 0.5%. For the week, the market is on track for its first decline in three weeks, down about 0.8%, as caution lingers that the central bank’s stance may stay hawkish after stronger-than-expected May employment figures."
+    },
+    {
+      "id": "4956092",
+      "time": "2026-06-26 09:16:53",
+      "tags": [
+        "國際"
+      ],
+      "text": "【中方堅定支援阿根廷對馬爾維納斯群島主權的正當要求】中國常駐聯合國副代表孫磊25日在聯合國大會非殖化特委會審議馬爾維納斯群島問題時表示，中方堅定支援阿根廷對馬爾維納斯群島主權的正當要求。孫磊說，中國在馬爾維納斯群島問題上的立場是一貫的、明確的。中方始終主張根據《聯合國憲章》宗旨和原則，透過和平談判解決國與國之間的領土爭端。希望英國積極回應阿根廷的要求，儘早重啟對話談判，根據聯合國有關決議找到和平、公正、持久的解決辦法。"
+    },
+    {
+      "id": "4956091",
+      "time": "2026-06-26 09:16:36",
+      "tags": [
+        "其他"
+      ],
+      "text": "【近80部影片集中上映 多元好片解鎖暑期生活】2026年暑期檔電影片單昨天在北京釋出，近80部中外影片扎堆上映。歷史、動畫、喜劇、動作等題材豐富，覆蓋全年齡段觀眾。今年暑期檔，多部歷史題材影片集中定檔，以光影講述崢嶸歲月，傳遞深厚的家國情懷。（央視）"
+    },
+    {
+      "id": "mkt:019f0180-06c8-7dd8-b128-60879a9c22e9",
+      "time": "2026-06-26 09:16:35",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "Hang Seng Index",
+        "Impact bearish"
+      ],
+      "text": "Hang Seng Index futures opened the day session down 0.58% at 22,948, trading at a 129-point discount to the cash index."
+    },
+    {
+      "id": "4956089",
+      "time": "2026-06-26 09:15:18",
+      "tags": [
+        "市場"
+      ],
+      "text": "人民幣兌美元中間價報6.8166元，較上日調高43點。"
+    },
+    {
+      "id": "4956088",
+      "time": "2026-06-26 09:15:04",
+      "tags": [
+        "市場",
+        "觀點",
+        "央行",
+        "國際"
+      ],
+      "text": "【銅價下跌，但下行空間料將受限】亞洲早盤銅價下跌，三個月期倫敦金屬交易所(LME)銅合約下跌0.5%，報每噸13,212.50美元。國泰君安期貨分析師在一份報告中寫道，美聯儲在本月會議上表現出偏緊縮立場後美元走強，令銅價承壓，但隨著原油回落至接近衝突前水平，通脹擔憂有所緩解，改善了更廣泛的宏觀環境。隨著宏觀風險緩解以及下游買家逢低吸納支撐了銅的基本面，下行空間可能有限。"
+    },
+    {
+      "id": "4956087",
+      "time": "2026-06-26 09:15:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "恒指期貨日盤開盤跌0.53%，報22904.71點，低水172.20點。"
+    },
+    {
+      "id": "4956086",
+      "time": "2026-06-26 09:12:51",
+      "tags": [
+        "公司"
+      ],
+      "text": "【商絡電子：部分AI伺服器電源客戶涉及液冷技術 公司與客戶合作研發液冷專案】商絡電子(300975)6月26日在互動平臺表示，公司部分AI伺服器電源客戶涉及液冷技術，公司與客戶合作研發液冷專案，為其供應元器件產品並提供配套技術方案。目前該類業務未來訂單放量與業績貢獻存在不確定性，請投資者注意投資風險。"
+    },
+    {
+      "id": "4956085",
+      "time": "2026-06-26 09:12:32",
+      "tags": [
+        "國際"
+      ],
+      "text": "【特朗普向國會要求111億美元農業援助 並稱伊朗將很快購買美國農產品】美國總統唐納德·特朗普週四邀請農民到白宮共進晚餐，並給了他們一個驚喜：向國會要求111億美元的援助，這將是今年對陷入困境的農業領域的第二次資助。向國會提出的這項請求是包括國防開支在內的補充撥款方案的一部分。該方案尋求為玉米、大豆和水稻等農作物種植者提供100億美元的援助，併為受2025年末和2026年初冬季風暴影響的佛羅里達州農戶提供11億美元的援助。這項援助要求是本週政府為爭取農民支援而推出的幾項措施之一。農民一直是總統政治支援的重要組成部分，但他們也受到了特朗普一些更具爭議性舉措的強烈反對，這些舉措包括實施全面的全球關稅以及與以色列聯手對伊朗發動戰爭。週四晚間，白宮釋出了一項旨在加強再生農業的行政命令。在晚宴上，特朗普承諾伊朗戰後重建可能會給美國農民帶來福音。特朗普在玫瑰園晚宴上說，“伊朗正面臨糧食短缺的困境，我們將拿走他們的一些錢，然後花掉這些錢，購買小麥和大豆。”“這個過程很快就要開始了。而且規模會相當大。我認為它會非常龐大。”伊朗戰爭導致燃料和化肥價格飆升，進一步擠壓了已經受到特朗普關稅政策影響的農民的處境。"
+    },
+    {
+      "id": "4956084",
+      "time": "2026-06-26 09:10:45",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中國生物研究院與博瑞策生物達成戰略合作】據中國生物6月26日訊息，近期，中國生物研究院（新型疫苗國家工程研究中心）與博瑞策生物技術（上海）有限公司簽署戰略合作協議。雙方將持續深化多維度資源共享與技術協同，加快專案落地。"
+    },
+    {
+      "id": "4956083",
+      "time": "2026-06-26 09:10:40",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "據媒體報道，韓國勞動部就工人死亡事件搜查了浦項工程建設公司（POSCO E&C）的辦公場所。"
+    },
+    {
+      "id": "mkt:019f017a-80eb-7dd8-b128-5b062fca557f",
+      "time": "2026-06-26 09:10:33",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "【CAOCAO partners with K2 Group and May Mobility to accelerate Robotaxi overseas rollout】CAOCAO has struck strategic partnerships with Abu Dhabi government-owned AI firm K2 Group and autonomous-driving company May Mobility to advance Robotaxi commercialization and operations in the Middle East and Europe. With K2 Group, CAOCAO will jointly pursue Robotaxi deployment and operations in the UAE; the partners plan road testing in Abu Dhabi this year and aim to deploy the first Robotaxi vehicles within the year. The agreements are part of CAOCAO’s RoboX overseas expansion to expand its global intelligent mobility network."
+    },
+    {
+      "id": "4956082",
+      "time": "2026-06-26 09:09:20",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【曹操出行與K2集團、May Mobility達成戰略合作，加速Robotaxi海外落地】近日，曹操出行先後與阿布扎比政府旗下AI科技公司K2集團、全球自動駕駛技術企業May Mobility達成戰略合作，分別在中東及歐洲市場推進Robotaxi商業化部署與運營，加速RoboX戰略海外佈局，進一步完善全球智慧運力網路。據曹操出行介紹，其將與K2集團在阿聯酋共同推進Robotaxi專案部署與運營。年內，雙方將在阿布扎比啟動道路測試，並計劃投放首批Robotaxi車輛。"
+    },
+    {
+      "id": "4956081",
+      "time": "2026-06-26 09:09:17",
+      "tags": [
+        "公司"
+      ],
+      "text": "【移遠通訊在江西成立精密科技新公司】企查查APP顯示，近日，江西臻銳精密科技有限公司成立，經營範圍包含：塑膠製品製造，模具銷售，塑膠製品銷售，行動通訊裝置製造，通訊裝置製造等。企查查股權穿透顯示，該公司由移遠通訊全資持股。"
+    },
+    {
+      "id": "4956080",
+      "time": "2026-06-26 09:09:07",
+      "tags": [
+        "公司"
+      ],
+      "text": "【富德生命人壽接連減持重慶銀行H股股份 合併持股比例降至5%以下】港交所披露易最新資訊顯示，6月24日，富德資源投資控股集團以大宗交易方式出售3000萬股重慶銀行H股股份，此番減持後，富德生命人壽及其子公司富德資源投資控股集團合計持有的該行H股數量降至1.7億股以內。據瞭解，富德生命人壽及其子公司富德資源投資控股集團於2015年透過參與重慶銀行定增完成入股，耗資約16.6億港元取得該行約2.18億股H股股份，截至2025年6月末持股數量保持不變。這意味著，近一年內，富德生命人壽及富德資源投資控股集團合計持有的重慶銀行H股數量已累計減少0.48億股以上，在該行總股本中的佔比已由6.26%悄然降至4.67%。以區間成交均價計算，已合計套現約3.9億港元。"
+    },
+    {
+      "id": "4956079",
+      "time": "2026-06-26 09:09:01",
+      "tags": [
+        "其他"
+      ],
+      "text": "SK海力士股價續跌；最新跌4.8%，報2,777,000韓元。"
+    },
+    {
+      "id": "4956078",
+      "time": "2026-06-26 09:08:48",
+      "tags": [
+        "其他"
+      ],
+      "text": "【五角大樓認為人工智慧將在軍事目標決策中發揮更大作用】據報道，五角大樓已悄然修訂美軍在戰場上選擇打擊目標的原則，為人工智慧(AI)在未來參與關鍵戰時決策鋪平道路。修訂後的目標指引於4月在未公開披露的情況下獲批，提出未來將發展“由人工智慧發起行動、人類進行監控的系統”，這是從目前人類參與迴路即由人類發起行動的模式演變而來。媒體審閱了這份此前未曾報道的更新內容。儘管檔案並未列為機密，但尚未對公眾釋出。"
+    },
+    {
+      "id": "mkt:019f0178-383d-7dd8-b128-566d460d2865",
+      "time": "2026-06-26 09:08:03",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Industrial Metals"
+      ],
+      "text": "Most-active polysilicon futures contract fell sharply, down nearly 3% intraday to 35,170 yuan/ton."
+    },
+    {
+      "id": "4956076",
+      "time": "2026-06-26 09:05:43",
+      "tags": [
+        "國際"
+      ],
+      "text": "據蓋洛普民調顯示，韓國總統李在明的支援率從上週的57%下降至51%。"
+    },
     {
       "id": "4956075",
       "time": "2026-06-26 09:05:01",
@@ -154690,312 +155043,6 @@
         "Impact mixed"
       ],
       "text": "Himino, deputy governor of the Bank of Japan, said the most important consideration when designing bond-purchase programs is to allow market-based price discovery."
-    },
-    {
-      "id": "mkt:019edd7d-bfe0-7dd8-b08b-cfd2e915d2da",
-      "time": "2026-06-19 09:27:46",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "President Trump said Democrats are better than Republicans at one thing: cheating."
-    },
-    {
-      "id": "4944530",
-      "time": "2026-06-19 09:27:14",
-      "tags": [
-        "國際"
-      ],
-      "text": "【伊朗表示伊美諒解備忘錄簽署後仍將堅守底線】據伊朗媒體19日報道，伊朗伊斯蘭議會議長卡利巴夫致信伊朗最高領袖穆傑塔巴·哈梅內伊表示，伊朗與美國簽署諒解備忘錄後，仍將堅守既定條件和底線，並致力於維護伊朗人民的利益。卡利巴夫表示，談判是爭取伊朗人民權利的鬥爭之路。在這條道路上，如果“敵人”企圖越權，伊朗將毫不猶豫地發起反擊。穆傑塔巴18日在致伊朗人民的公開信中說，有關伊美諒解備忘錄，他本人原則上持有不同意見，但在獲得伊朗總統及最高國家安全委員會關於維護伊朗人民利益和“抵抗陣線”權益的承諾後，批准了相關安排。穆傑塔巴指出，未來舉行的面對面談判並不意味著接受美方立場，伊朗將繼續關注協議相關條件和承諾落實情況。"
-    },
-    {
-      "id": "mkt:019edd7d-44f9-7dd8-b08b-c0f2bf5a8b3d",
-      "time": "2026-06-19 09:27:14",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC"
-      ],
-      "text": "Bank of Japan Deputy Governor HIMINO said he is closely monitoring market dynamics as an important signal."
-    },
-    {
-      "id": "mkt:019edd7d-3039-7dd8-b08b-bc933c4a55a5",
-      "time": "2026-06-19 09:27:09",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "WTI",
-        "Brent"
-      ],
-      "text": "Hezbollah said it monitored an Israeli force of armored units and infantry attempting to infiltrate north of the Ali Taher Heights."
-    },
-    {
-      "id": "4944529",
-      "time": "2026-06-19 09:27:02",
-      "tags": [
-        "公司"
-      ],
-      "text": "【長三角鐵路今日預計傳送旅客415萬人，增開列車217列】長三角鐵路端午小長假首日迎來客流高峰。6月19日，記者從中國鐵路上海局集團有限公司（以下簡稱“上鐵集團”）獲悉，今日是端午節，小長假第一天，長三角鐵路迎來假期客流高峰，預計傳送旅客415萬人。上鐵集團在啟用高峰執行圖的基礎上，加大對重點區段、重點時段和熱門方向運力投放，計劃增開長三角地區去往武漢、南昌、西安、洛陽、青島等直通方向旅客列車65列，上海開往徐州、連雲港、合肥、阜陽、溫州等管內方向旅客列車152列，共計增開列車217列。組織重聯動車組列車312列，加掛普速客車64輛，努力滿足假期旅客出行需要。"
-    },
-    {
-      "id": "mkt:019edd7c-cf34-7dd8-b08b-b5dd972e3965",
-      "time": "2026-06-19 09:26:44",
-      "tags": [
-        "MKT News",
-        "USDJPY",
-        "Impact bearish",
-        "DXY",
-        "XAUUSD"
-      ],
-      "text": "BOJ Deputy Governor HIMINO said long-term yields should be freely determined by the market."
-    },
-    {
-      "id": "4944528",
-      "time": "2026-06-19 09:26:32",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "日本央行冰見野良三：長期收益率應由市場自由決定。"
-    },
-    {
-      "id": "mkt:019edd7b-fddf-7dd8-b08b-af8b1abe164e",
-      "time": "2026-06-19 09:25:51",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Bank of Japan Deputy Governor HIMINO said buying JGBs is not a tool to tighten or loosen policy."
-    },
-    {
-      "id": "mkt:019edd7b-b07f-7dd8-b08b-a73d2bdefef5",
-      "time": "2026-06-19 09:25:31",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "【Dragon Boat holiday travel in China expected to rise 4% YoY】China Mobile Wutong Data Talk shows overall travel volume for this year’s Dragon Boat holiday is expected to increase about 4% YoY. Two- to three-day short family trips are projected to dominate. New-energy vehicle travel is forecast to rise roughly 32% YoY. Graduation travel, summer cooling trips and dragon-boat races are cited as the three main hotspots."
-    },
-    {
-      "id": "4944527",
-      "time": "2026-06-19 09:25:29",
-      "tags": [
-        "市場",
-        "央行",
-        "國際"
-      ],
-      "text": "日本央行副行長冰見野良三：購買日本國債不是收緊或放鬆政策的手段。"
-    },
-    {
-      "id": "4944526",
-      "time": "2026-06-19 09:25:09",
-      "tags": [
-        "國際"
-      ],
-      "text": "【奧巴馬總統中心揭幕：好萊塢明星到場，奧巴馬伕婦言辭間暗諷特朗普】當地時間週四，前美國總統巴拉克.奧巴馬為其耗資8.5億美元的總統中心揭幕。在一場所有在世前總統悉數出席、明星雲集的典禮上，奧巴馬對其繼任者所開啟的那套政治做派作表達了明確的不認同。在這場“總統俱樂部”的聚會中，現任總統卻不見身影。發言者並未點名唐納德.特朗普，但第44任總統和前第一夫人米歇爾.奧巴馬都對這位試圖抹去其部分政治遺產的人表達了含蓄的批評。“人們需要的不是無休止的憤怒與分裂，”奧巴馬對數千名觀眾說，其中一些人遠道從非洲趕來參加儀式。“他們尋求的是公平、常識和相互尊重。”前第一夫人米歇爾.奧巴馬試圖將她所描述的丈夫的優點與民主黨人眼中特朗普的缺點進行對比。“你在任何情況下都處變不驚。始終專注。始終冷靜。始終著眼於長遠，”她說。她還特意提到丈夫在2009年獲得的諾貝爾和平獎，似乎以此揶揄特朗普，因為後者此前一直積極為自己爭取這一榮譽。特朗普並未受到邀請，儘管奧巴馬團隊的官員曾表示歡迎他前往參觀。特朗普此前曾多次嘲諷這位前總統及該中心，甚至釋出圖片，將該中心高達225英尺的花崗岩塔樓所採用的“粗野主義”建築風格比作垃圾桶。約有十幾位演藝界人士和音樂團體在儀式上亮相。"
-    },
-    {
-      "id": "mkt:019edd7b-326a-7dd8-b08b-9f2f7a7dd16e",
-      "time": "2026-06-19 09:24:58",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Musk says Cursor and XAI have not laid off staff."
-    },
-    {
-      "id": "4944525",
-      "time": "2026-06-19 09:24:36",
-      "tags": [
-        "其他"
-      ],
-      "text": "【今年端午假期整體出遊人群規模預計較去年同期增長4%】中國移動梧桐資料分析顯示，今年端午假期整體出遊人群規模預計較去年同期增長4%，畢業旅遊、避暑出行、龍舟賽將成為今年端午假期的三大熱點。資料分析顯示，2至3天的中短途家庭遊預計將成為主流趨勢，新能源汽車出行量預計較去年同期增長32%。"
-    },
-    {
-      "id": "4944524",
-      "time": "2026-06-19 09:22:58",
-      "tags": [
-        "其他"
-      ],
-      "text": "馬斯克：CURSER 和 XAI 都沒有裁員。"
-    },
-    {
-      "id": "4944523",
-      "time": "2026-06-19 09:19:16",
-      "tags": [
-        "市場"
-      ],
-      "text": "SK海力士股價上漲7%，續創歷史新高。"
-    },
-    {
-      "id": "4944522",
-      "time": "2026-06-19 09:18:55",
-      "tags": [
-        "市場",
-        "央行",
-        "國際"
-      ],
-      "text": "【日本央行副行長冰見野良三：推遲加息可能導致經濟衰退】日本央行副行長冰見野良三表示，推遲加息可能導致經濟衰退。匯率並非貨幣政策目標，但卻是影響物價的重要因素。薪資正在上漲，包括小型企業在內，部分企業預計今年的薪資漲幅將超過去年。廣泛商品和服務的價格正在溫和上漲。消費具有韌性，這給物價帶來需求提振。"
-    },
-    {
-      "id": "mkt:019edd75-1b16-7dd8-b08b-978b2adcc568",
-      "time": "2026-06-19 09:18:19",
-      "tags": [
-        "MKT News",
-        "Important",
-        "000660.KS",
-        "Impact bullish"
-      ],
-      "text": "SK Hynix shares extended gains to 7%."
-    },
-    {
-      "id": "mkt:019edd73-f1b1-7dd8-b08b-88e89dcbf5a6",
-      "time": "2026-06-19 09:17:03",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bearish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "White House says it is willing to start technical talks with Tehran as soon as possible."
-    },
-    {
-      "id": "4944521",
-      "time": "2026-06-19 09:16:52",
-      "tags": [
-        "其他"
-      ],
-      "text": "【我國單機容量最大高原山地風電專案投運】我國單機容量最大的高原山地風電專案——位於雲南省昆明市尋甸縣的大唐巨龍梁風電場擴建專案首批機組今天（19日）併網發電。此次投運的11.1兆瓦風電機組專為雲南高原山地複雜地形和氣候條件量身定製。"
-    },
-    {
-      "id": "4944520",
-      "time": "2026-06-19 09:16:28",
-      "tags": [
-        "市場",
-        "觀點"
-      ],
-      "text": "【高盛上調今年三季度及明年倫鋁均價預測】6月18日，高盛將2026年第三季度及2027年倫鋁均價預測分別從此前的3200美元/噸和2750美元/噸上調至3300美元/噸和2950美元/噸。"
-    },
-    {
-      "id": "mkt:019edd73-252e-7dd8-b08b-8335ee5cb73c",
-      "time": "2026-06-19 09:16:11",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC",
-        "USDJPY",
-        "Impact bearish"
-      ],
-      "text": "Bank of Japan Deputy Governor HIMINO said consumption is resilient and is lifting demand for higher prices."
-    },
-    {
-      "id": "4944519",
-      "time": "2026-06-19 09:16:03",
-      "tags": [
-        "國際"
-      ],
-      "text": "【美副總統暫不赴瑞士與伊朗談判】當地時間6月18日晚，據美國有線電視新聞網（CNN）報道，白宮方面表示，由於下一階段談判的後勤安排尚未敲定，美國副總統萬斯將不再按原計劃於當晚啟程前往瑞士。白宮方面表示，正如萬斯當天早些時候在白宮記者會上所說，即將舉行的技術性談判細節仍未最終確定。美方代表團已做好隨時啟程的準備，但目前萬斯不會出發，一旦下一步安排明確，白宮將及時公佈。白宮同時表示，期待儘快啟動技術性談判。（央視）"
-    },
-    {
-      "id": "mkt:019edd72-fbd8-7dd8-b08b-784bd5a91768",
-      "time": "2026-06-19 09:16:00",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC",
-        "USDJPY",
-        "Impact bearish",
-        "DXY",
-        "Nikkei 225"
-      ],
-      "text": "Bank of Japan Deputy Governor HIMINO: the mechanism for wages and prices rising in tandem has been embedded in the economy."
-    },
-    {
-      "id": "mkt:019edd72-9062-7dd8-b08b-773a07e1c57d",
-      "time": "2026-06-19 09:15:33",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "CNH",
-        "Impact mixed"
-      ],
-      "text": "【PBOC nets 823.8 bln yuan via open market operations this week】PBOC conducted 1,542.8 bln yuan of 7-day reverse repo operations this week; 719.0 bln yuan of 7-day reverse repos matured, yielding a net injection of 823.8 bln yuan."
-    },
-    {
-      "id": "4944516",
-      "time": "2026-06-19 09:14:45",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【現代汽車將收購軟銀所持波士頓動力股份】據韓國《每日經濟新聞》援引匿名訊息人士報道，現代汽車集團將斥資3.25億美元收購軟銀持有的波士頓動力9.65%股份，實現對這家機器人企業的全資控股。現代汽車將於6月22日召開董事會，審議批准本次股權收購方案。隨著看跌期權行權截止日臨近，軟銀近期已告知現代汽車集團，有意出售該部分股權。當年軟銀將波士頓動力出售給現代汽車集團時，保留了部分股份並附帶賣出期權條款。"
-    },
-    {
-      "id": "mkt:019edd71-cf0b-7dd8-b08b-6f8cd8a2bfb3",
-      "time": "2026-06-19 09:14:43",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC",
-        "USDJPY",
-        "Impact bearish"
-      ],
-      "text": "Bank of Japan Deputy Governor HIMINO said wages, including at small firms, are rising and some companies expect wage growth this year to exceed last year’s."
-    },
-    {
-      "id": "4944515",
-      "time": "2026-06-19 09:13:30",
-      "tags": [
-        "其他"
-      ],
-      "text": "【鐵路上海站預計今日將傳送旅客70.8萬人次，同比增長8.2%】從鐵路上海站（下轄上海站、上海南站、上海虹橋站、上海松江站、上海西站、南翔北站、安亭北站、安亭西站、金山北站、練塘站）獲悉，今天是端午節，鐵路上海站將迎來端午小長假運輸客流最高峰，預計將傳送旅客70.8萬人次（其中上海站17.1萬人次，上海南站10.6萬人次，上海虹橋站37.9萬人次，上海松江站4.5萬人次，其他車站共0.7萬人次），同比增長8.2%。"
-    },
-    {
-      "id": "4944514",
-      "time": "2026-06-19 09:12:06",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "日本央行副行長冰見野良三：將留意日本央行的財務健康問題。"
-    },
-    {
-      "id": "4944513",
-      "time": "2026-06-19 09:11:55",
-      "tags": [
-        "市場"
-      ],
-      "text": "【酒價內參6月19日價格釋出：習酒君品青花郎領跌 總價創13天新低】新浪財經“酒價內參”過去24小時收集的資料顯示，中國白酒市場主要大單品的終端零售均價6月19日整體大幅走弱。如果主要單品各取一瓶整體打包售賣，今日總售價為9877元，較昨日下跌30元，創下近13天以來最低。市場在前期短暫反彈後再度下探，終端交投情緒偏冷，核心單品的漲跌分化依然顯著。今日11大白酒單品三漲八跌，輸家數量佔據絕對優勢。上漲方面，五糧液1618漲幅居前，上漲3元/瓶，平近一月最高價紀錄；洋河夢之藍M6+上漲2元/瓶；青花汾20低位小漲1元/瓶。下跌方面，習酒君品跌幅居前，下跌9元/瓶，平近一月最大跌幅紀錄，遭遇三連陰，價格自月內高位快速下探至月內最低位；青花郎下跌7元/瓶；精品茅臺與國窖1573均下跌5元/瓶，後者四連陰，平月內最低價紀錄；飛天茅臺、五糧液普五八代與古井貢古20均下跌3元/瓶，其中古井貢古20已四連陰，價格自月內高位快速下探至月內低位；水晶劍南春下跌1元/瓶。"
-    },
-    {
-      "id": "te:economy:560250",
-      "time": "2026-06-19 09:11:06",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Japan",
-        "Interest Rate",
-        "Importance 1"
-      ],
-      "text": "BoJ Maintains Tightening Bias: Deputy Gov Himino — Bank of Japan will continue raising interest rates while closely monitoring the risk that underlying inflation could exceed its 2% target, Deputy Governor Ryozo Himino said on Friday. He noted that wholesale inflation has been accelerating as firms pass on higher costs stemming from the Middle East conflict, raising the possibility of broader price pressures. \"There is a risk underlying inflation may deviate upward from our target,\" Himino told parliament, explaining the central bank's decision to lift its policy rate to 1% earlier this week. While higher oil prices could weigh on growth, he added that Japan's economy remains resilient, supported by strong corporate profits and rising household income. Meanwhile, minutes from the central bank's April meeting showed policymakers agreed that, with underlying inflation nearing 2% and real interest rates still low, it was appropriate to continue gradually lifting rates while assessing the impact of geopolitical volatility on the economy."
-    },
-    {
-      "id": "4944512",
-      "time": "2026-06-19 09:08:12",
-      "tags": [
-        "國際"
-      ],
-      "text": "白宮發言人表示，美國副總統萬斯今晚將不再前往瑞士。發言人表示，即將與伊朗舉行的技術會談計劃尚未最終確定。"
-    },
-    {
-      "id": "mkt:019edd6a-c9db-7dd8-b08b-61bd7cb47ccd",
-      "time": "2026-06-19 09:07:03",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "【White House: Vance cancels Switzerland trip; itinerary pending】White House spokesperson said plans for upcoming technical talks remain unfinalized. The U.S. delegation is ready to depart on short notice but logistical arrangements are unpredictable. The Vice President will not travel tonight; further scheduling updates will be provided when available."
     }
   ]
 }
