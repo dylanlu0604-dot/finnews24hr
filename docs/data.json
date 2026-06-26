@@ -1,7 +1,178 @@
 {
-  "updated": "2026-06-27 00:37:46",
-  "count": 18010,
+  "updated": "2026-06-27 00:53:10",
+  "count": 18021,
   "items": [
+    {
+      "id": "mkt:019f04d7-7431-7dd8-b13b-e5bc41a2aba5",
+      "time": "2026-06-27 00:50:56",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "QCOM.O"
+      ],
+      "text": "Semafor reports Qualcomm (QCOM.O) plans to introduce a new smartphone chip architecture."
+    },
+    {
+      "id": "4957871",
+      "time": "2026-06-27 00:50:17",
+      "tags": [
+        "其他"
+      ],
+      "text": "據 Semafor 訊息，高通計劃推出全新手機晶片架構。"
+    },
+    {
+      "id": "mkt:019f04d6-ae3a-7dd8-b13b-de961bd17545",
+      "time": "2026-06-27 00:50:05",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact mixed"
+      ],
+      "text": "U.S. oil rig count for the week to June 26 due in 10 minutes."
+    },
+    {
+      "id": "mkt:019f04d4-2f47-7dd8-b13b-d632ee6b8f29",
+      "time": "2026-06-27 00:47:22",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "According to Iranian Nour News, an Islamic Revolutionary Guard Corps spokesman denied reports of a direct dividing line between Iran and the United States in the Strait of Hormuz, calling them \"complete lies\" and saying the strait is \"Iranian territory, unrelated to the US.\""
+    },
+    {
+      "id": "4957870",
+      "time": "2026-06-27 00:47:19",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "努爾新聞社訊息：伊朗革命衛隊發言人否認有關伊朗與美國在霍爾木茲海峽存在直接分界線的說法，稱其“完全是謊言”，並表示霍爾木茲海峽是“伊朗領土，與美國無關”。"
+    },
+    {
+      "id": "4957869",
+      "time": "2026-06-27 00:47:08",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "IMF首席經濟學家古蘭沙： 美聯儲此次舉措釋放強烈訊號，但各國央行仍需為長期利率提供某種形式指引。 美聯儲不再採用力度較強的貨幣政策前瞻性指引，這一做法 “完全恰當”。 市場總會解讀央行釋放的各類訊號；如有必要，央行將出手進行預期修正。"
+    },
+    {
+      "id": "mkt:019f04d3-c40d-7dd8-b13b-cea638a2198c",
+      "time": "2026-06-27 00:46:54",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "IMF chief economist GOURINCHAS said markets will always interpret signals from central banks, and central banks will step in to correct when necessary."
+    },
+    {
+      "id": "mkt:019f04d3-8ff6-7dd8-b13b-c1a421971cef",
+      "time": "2026-06-27 00:46:41",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "GOURINCHAS, IMF chief economist, said the Fed's gradual abandonment of strong forward guidance in monetary policy is \"entirely appropriate.\""
+    },
+    {
+      "id": "mkt:019f04d3-6f1b-7dd8-b13b-bd12f14b228c",
+      "time": "2026-06-27 00:46:33",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "IMF chief economist Gourinchas said the Fed's actions sent a strong signal, but central banks still need to provide some form of guidance on long-term interest rates."
+    },
+    {
+      "id": "mkt:019f04d3-2153-7dd8-b13b-b2263b5f2a0d",
+      "time": "2026-06-27 00:46:13",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Israeli senior officials say Israel and Lebanon are expected to sign a framework agreement in Washington on Friday; Axios cites a senior Israeli official saying a framework agreement has been reached with Lebanon."
+    },
+    {
+      "id": "4957868",
+      "time": "2026-06-27 00:45:48",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "以色列高階官員：以色列與黎巴嫩預計週五在華盛頓簽署框架協議。"
+    },
+    {
+      "id": "mkt:019f04d1-7f03-7dd8-b13b-aef63af947d6",
+      "time": "2026-06-27 00:44:26",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "NewsNation cited a US official saying that, despite Trump alleging Iran violated a ceasefire agreement, US-Iran negotiations are expected to continue."
+    },
+    {
+      "id": "4957867",
+      "time": "2026-06-27 00:42:26",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯總統新聞秘書佩斯科夫： 若有需要，普京與盧卡申科或將於週六繼續舉行談判。"
+    },
+    {
+      "id": "mkt:019f04cf-4bce-7dd8-b13b-a3cd168afbde",
+      "time": "2026-06-27 00:42:01",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Kremlin spokesman Peskov said Putin and Lukashenko may resume talks on Saturday if they deem it necessary."
+    },
+    {
+      "id": "mkt:019f04ce-b3c8-7dd8-b13b-994036255afd",
+      "time": "2026-06-27 00:41:22",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "OpenAI said Prabhjeet Singh will join in September as general manager for India."
+    },
+    {
+      "id": "mkt:019f04ce-459a-7dd8-b13b-928121c04979",
+      "time": "2026-06-27 00:40:54",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Market sources: Venezuela's Cardón refinery has reduced oil shipments after an earthquake."
+    },
+    {
+      "id": "4957866",
+      "time": "2026-06-27 00:40:30",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【倫銅漲0.5%，本週跌約2%，歐盟出口稅計劃提振倫鋁價格】LME期銅漲0.5%，報13345.50美元/噸，一度跌1.4%至13083美元，本週恐將累跌約1.8%，那將至5月1日以來最差單週表現。上期所銅庫存周環比減少5.7%，至13.5732萬噸，創12月份以來新低；LME銅庫存降低至33.6475萬噸，創3月18日以來新低。LME期鋁漲0.8%，報3189美元/噸，據英國金融時報，歐盟打算從9月份開始實施15%的出口稅。LME期鋅漲1.4%，報3483美元/噸。LME期鉛跌0.5%，報1902美元/噸。LME期鎳跌0.3%，報16780美元/噸。LME期錫漲0.9%，報50875美元/噸。"
+    },
+    {
+      "id": "mkt:019f04cb-ea52-7dd8-b13b-8f0fea061a82",
+      "time": "2026-06-27 00:38:20",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Market report: explosion at a fireworks factory in Turkey."
+    },
     {
       "id": "mkt:019f04c9-5c93-7dd8-b13b-803688a0a888",
       "time": "2026-06-27 00:35:32",
@@ -164616,64 +164787,6 @@
         "國際"
       ],
       "text": "【機構：霍爾木茲海峽重啟商業航運以來已有至少20艘油輪通航】貿易情報機構Kpler資料顯示，自美伊重啟霍爾木茲海峽商業航運以來，已有至少20艘油輪駛過該海峽。 該機構表示，週四的油輪通航量創下6月2日以來的單日新高，但航運規模仍未恢復至戰前水平。戰前每日有超100艘船舶途經霍爾木茲海峽，其中包含數十艘油輪。 Kpler統計，週四共計25艘船舶通行霍爾木茲海峽，除油輪外，還涵蓋散貨船、集裝箱船等各類船型。在美國海軍解除對伊朗海上封鎖、伊朗允許船舶未來60天免費通行海峽後，航道航運量持續回暖。"
-    },
-    {
-      "id": "4945369",
-      "time": "2026-06-20 00:51:56",
-      "tags": [
-        "其他"
-      ],
-      "text": "LME期銅收跌96美元，報13595美元/噸。LME期鋁收漲10美元，報3396美元/噸。LME期鋅收跌82美元，報3556美元/噸。LME期鉛收跌30美元，報1954美元/噸。LME期鎳收跌262美元，報17580美元/噸。LME期錫收跌360美元，報53293美元/噸。LME期鈷收平，報56290美元/噸。"
-    },
-    {
-      "id": "mkt:019ee0c9-f1af-7dd8-b099-89fc52243f20",
-      "time": "2026-06-20 00:49:51",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Lebanon's prime minister said the government will not cede any inch of Lebanese territory and that weapons should be held only by legitimate state forces."
-    },
-    {
-      "id": "4945368",
-      "time": "2026-06-20 00:42:38",
-      "tags": [
-        "公司"
-      ],
-      "text": "【受世界盃等賽事帶動 預測市場平臺Kalshi年化營收突破20億美元】據瞭解預測市場平臺Kalshi財務狀況的知情人士透露，受交易者押注NBA賽事、世界盃賽事帶動交易量激增影響，Kalshi的年化營收已突破20億美元，較去年11月規模增長約兩倍。 Kalshi業務飛速擴張，公司高管已與多家投行就未來IPO事宜展開非正式洽談。其中一位知情人士表示，這家成立八年的初創企業提出，有意為其提供IPO諮詢服務的投行需與Kalshi平臺完成系統對接，以便投行的機構客戶可以在該平臺開展交易。目前相關磋商尚處於早期階段，公司最快要到明年年末、甚至2028年才會上市。"
-    },
-    {
-      "id": "4945367",
-      "time": "2026-06-20 00:40:51",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗塔斯尼姆通訊社訊息：伊朗能源部副部長表示，俄方已準備派遣專家赴伊朗，加快核電站 2 號、3 號機組建設工作。"
-    },
-    {
-      "id": "mkt:019ee0c1-8bb2-7dd8-b099-83ab474fbbd9",
-      "time": "2026-06-20 00:40:41",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Iran's deputy energy minister said the Russian side is ready to dispatch experts to Iran to accelerate construction of nuclear power plant units 2 and 3."
-    },
-    {
-      "id": "4945366",
-      "time": "2026-06-20 00:39:21",
-      "tags": [
-        "宏觀",
-        "市場"
-      ],
-      "text": "【英國政府中長期融資成本漲超8個基點，投資者對該國政治局勢的擔憂情緒重燃】週五（6月19日）歐市尾盤，英國10年期國債收益率上漲8.5個基點，報4.842%，北京時間15:00跳空高開之後持續交投於4.820附近，本週累計上漲0.6個基點，週一至週四持續震盪於4.780%附近。兩年期英債收益率漲7.4個基點，報4.254%，本週累漲1.9個基點。30年期英債收益率漲8.9個基點，報5.540%，本週累漲0.4個基點；50年期英債收益率漲8.9個基點，報5.153%，本週累漲4.1個基點。2/10年期英債收益率利差漲1.903個基點，報+58.785個基點，本週累跌1.183個基點。"
-    },
-    {
-      "id": "4945365",
-      "time": "2026-06-20 00:39:17",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "秘魯央行行長： 經濟增長主要得益於私人投資，若下一屆政府施政得當，該國經濟增速或將高於當前預期。"
     }
   ]
 }
