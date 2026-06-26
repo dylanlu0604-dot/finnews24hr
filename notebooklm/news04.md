@@ -1,7 +1,163 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-06-27 00:53:10_
-_本檔包含 3470 則快訊，約 665796 字_
+_更新時間：2026-06-27 01:49:38_
+_本檔包含 3472 則快訊，約 666308 字_
+
+---
+
+### 2026-06-23 18:57:42  #公司
+
+【山河智慧：持股5%以上股東何清華減持370.5萬股】山河智慧公告稱，持股5%以上股東何清華於2026年6月23日透過集中競價方式減持公司股份370.5萬股，佔公司總股本的0.34%，持股比例由7.03%降至6.68%，本次權益變動觸及1%的整數倍。何清華非公司控股股東、實控人，減持計劃實施不會影響公司治理結構和持續經營，也不會導致控制權變更。截至公告披露日，減持計劃暫未實施完畢。
+
+---
+
+### 2026-06-23 18:57:28  #公司
+
+【光大嘉寶：參與商業不動產公募REITs戰略配售，認購上限7億元】光大嘉寶公告稱，公司參與投資的在管基金上海光翎和安石錦瑞開展商業不動產公募REITs申報發行。近期，光大保德信基金收到上交所無異議函及證監會註冊批覆，准予基金註冊，募集份額10億份。6月23日，公司與光大保德信基金簽署戰略配售協議，承諾認購106,671,963份，佔比約10.67%，出資上限7億元，持有期不少於60個月。交易尚需履行相關程式，存在一定風險。
+
+---
+
+### 2026-06-23 18:57:17  #其他
+
+阿布扎比 MGX 募資約 500 億美元，加速佈局人工智慧相關交易。
+
+---
+
+### 2026-06-23 18:57:10  #國際
+
+巴基斯坦外交部訊息：巴伊兩國擁有牢固的兄弟情誼，這份深厚聯結植根於共同的歷史、信仰與文化。巴基斯坦領導層與民眾熱烈歡迎阿拉格奇外長及伊朗代表團到訪伊斯蘭堡。
+
+---
+
+### 2026-06-23 18:56:58  #國際
+
+巴基斯坦外交部訊息：伊朗外長隨同伊朗伊斯蘭共和國總統閣下率代表團於今日抵達伊斯蘭堡，開啟對巴基斯坦的國事訪問。
+
+---
+
+### 2026-06-23 18:56:42  #公司
+
+【天味食品：擬4.22億元對外投資並退出與關聯方共同投資企業】天味食品公告稱，第六屆董事會第十八次會議審議透過兩項議案。一是擬使用自有資金4.22億元增資全資子公司四川瑞生投資管理有限公司，透過該子公司購買湖南壇壇香食品科技有限公司60%股權；二是公司全資子公司四川瑞生投資管理有限公司與關聯方四川璞石投資管理合夥企業（有限合夥）擬對共同投資的有點火科技有限公司等比例全額減資並清算登出，該交易構成關聯交易。
+
+---
+
+### 2026-06-23 18:56:18  #Trading Economics #Economy #Germany #Government Bond 10Y #Importance 1
+
+Germany 10-Year Bund Yield Near 3-Month Lows — Germany’s 10-year Bund yield traded around 2.91%, near three-month lows, as weak economic data and reduced expectations for further ECB rate hikes weighed on sentiment. The ECB raised interest rates by 25 basis points this month, in line with expectations. However, ECB President Christine Lagarde said yesterday that the central bank does not need to respond more aggressively to developments stemming from the Middle East conflict, noting that inflation is expected to return to target over the medium term. Markets have since scaled back some expectations for additional ECB tightening following Lagarde’s remarks, though investors still price in at least one further 25bps hike this year. Meanwhile, weaker economic data reinforced the cautious outlook. Preliminary PMI readings showed that private sector activity in Germany contracted at its fastest pace since 2024, while the broader euro area also remained in contraction territory.
+
+---
+
+### 2026-06-23 18:55:02  #公司 #市場
+
+【上期所調整燃料油期貨相關合約交易限額】上期所公告，根據《上海期貨交易所風險控制管理辦法》等有關規定，經研究決定，自2026年6月25日交易（即6月24日夜盤）起，非期貨公司會員、境外特殊非經紀參與者、客戶在相關期貨合約的交易限額調整如下：燃料油期貨FU2608、FU2609、FU2610、FU2611、FU2612、FU2701、FU2702、FU2703、FU2704、FU2705、FU2706合約及後續新上市合約的日內開倉交易的最大數量為6000手。
+
+---
+
+### 2026-06-23 18:53:55  #MKT News #Important
+
+India's foreign ministry spokesman said 11 vessels bound for India have transited the Strait of Hormuz since the US and Iran signed a memorandum of understanding.
+
+---
+
+### 2026-06-23 18:53:54  #公司 #市場 #焦點
+
+【上期所調整燃料油期貨相關合約漲跌停板幅度和交易保證金比例】上期所公告，經研究決定，自2026年6月25日（星期四）收盤結算時起，漲跌停板幅度和交易保證金比例調整如下：燃料油期貨FU2608、FU2609、FU2610、FU2611、FU2612、FU2701、FU2702、FU2703、FU2704、FU2705、FU2706合約及後續新上市合約的漲跌停板幅度為14%，套保持倉交易保證金比例為15%，一般持倉交易保證金比例為16%。
+
+---
+
+### 2026-06-23 18:53:49  #公司
+
+【隨著AI相關擔憂重燃 歐元信用違約掉期成本上升】隨著對AI公司估值的擔憂導致市場情緒惡化，歐元計價信用債的違約保護成本上升。德意志銀行策略師在一份報告中表示，對科技領域的擔憂壓倒了投資者對美伊談判進展的樂觀情緒。標普全球市場財智資料顯示，歐元高收益信用違約掉期的iTraxx Europe Crossover指數上升3個基點，至250個基點。歐元投資級信用違約掉期的iTraxx Europe Main指數攀升1個基點，至52個基點。
+
+---
+
+### 2026-06-23 18:53:20  #公司 #焦點 #國際
+
+【霍爾木茲海峽22日商船通行量達2月底以來峰值】專業機構提供的資料顯示，22日至少有36艘商船穿越霍爾木茲海峽，為2月底伊朗戰事爆發以來單日最高數字。法新社援引航運分析機構克普勒公司的資料包道，這一數字意味著霍爾木茲海峽通航量已恢復至戰前近三分之一的水平。這一統計並不完全，實際透過的商船可能更多。綜合倫敦證券交易所集團和克普勒提供的資料，23日又有兩艘滯留波斯灣的超級油輪透過霍爾木茲海峽，兩船各運載200萬桶原油。這些資料表明，儘管伊朗20日宣佈關閉霍爾木茲海峽，但海峽航運仍在持續恢復。（新華社）
+
+---
+
+### 2026-06-23 18:52:55  #國際
+
+印度外交部發言人：美伊諒解備忘錄簽署後，已有11艘駛往印度的船舶通行霍爾木茲海峽。
+
+---
+
+### 2026-06-23 18:52:54  #MKT News #Market Regions #Europe & UK
+
+France President Macron will meet German Chancellor Merz, UK Prime Minister Starmer, Italian Prime Minister Meloni and Polish Prime Minister Tusk in Berlin on Wednesday.
+
+---
+
+### 2026-06-23 18:52:39  #國際
+
+【超400艘油輪滯留霍爾木茲海峽 等霍爾木茲海峽開放】歐洲航天局衛星資料顯示，21日下午約441艘大型油輪規格的船舶聚集在阿曼蘇哈爾港和阿聯酋富查伊拉港附近海域，等待伊朗和美國談判後霍爾木茲海峽恢復開放，這一數字明顯高於正常水平，但較5天前減少42艘。伊朗和美國此前宣佈達成諒解備忘錄後，一些航運企業一度趁局勢緩和恢復通航，但在以色列對黎巴嫩發動襲擊後，伊朗再次宣佈關閉霍爾木茲海峽。22日上午，共4艘卡達液化天然氣運輸船透過霍爾木茲海峽，為2月底美以伊衝突爆發以來單日最多。
+
+---
+
+### 2026-06-23 18:52:35  #MKT News
+
+【Russia's foreign minister Lavrov says ready to resume talks with Ukraine at any time】Russia's foreign minister Lavrov said on the 23rd Russia is ready at any time to resume talks with Ukraine from where they were interrupted, and that settlement terms were discussed and agreed nearly a year ago in Anchorage. He said he believes that consensus was shelved to give Ukraine time to rearm. Deputy foreign minister Ryabkov said Washington has recently shown signs of departing from the Anchorage consensus, but that Russia's position has not changed and Russia‑US dialogue on Ukraine has not been interrupted and will continue.
+
+---
+
+### 2026-06-23 18:52:17  #國際
+
+馬克龍將於週三在柏林會晤默茨、斯塔默、梅洛尼、圖斯克。
+
+---
+
+### 2026-06-23 18:51:51  #MKT News #WTI #Impact bullish #Brent
+
+Market sources: 10 India-flagged vessels are awaiting transit through the Strait of Hormuz.
+
+---
+
+### 2026-06-23 18:51:48  #其他
+
+【五眼聯盟發表聯合宣告警告：數月內或出現可發動毀滅性網路攻擊的AI模型】據環球網綜合英國路透社、《衛報》等媒體報道，“五眼聯盟”情報機構當地時間22日發表聯合宣告警告稱，能夠對政府和企業發動毀滅性新型網路攻擊的強大人工智慧（AI）模型可能在幾個月內就會出現，宣告呼籲各國領導人立即採取行動應對這一威脅。 “五眼聯盟”在宣告中稱，“前沿人工智慧模型將超出當前的行業預期，從根本上改變網路攻防能力。這一時間表不是幾年，而是幾個月”，“在這種環境下，網路韌性對於提升業務連續性、市場信心和長期價值來說都不可或缺。” 該宣告還稱，人工智慧模型的飛速發展表明，這項技術將降低不良行為者的行動門檻，並提高攻擊的速度和複雜性，“需要整個組織和全社會共同應對”。
+
+---
+
+### 2026-06-23 18:51:18  #MKT News
+
+【China Mobile Hong Kong completes 2G network retirement】China Mobile Hong Kong said it completed retirement of its 2G network today, becoming the first Hong Kong operator to offer only 4G/5G/5.5G mobile services.
+
+---
+
+### 2026-06-23 18:50:59  #國際
+
+市場訊息：有10艘懸掛印度國旗的船隻正等待透過霍爾木茲海峽。
+
+---
+
+### 2026-06-23 18:50:57  #MKT News
+
+UK Chancellor Reeves said the defence plan will include additional funding and that the funds will be used effectively.
+
+---
+
+### 2026-06-23 18:50:48  #公司
+
+【保齡寶：乳果糖原料藥生產線透過藥品GMP符合性檢查】保齡寶公告，近日收到山東省藥品監督管理局下發的《藥品GMP符合性檢查告知書》。檢查範圍及相關車間、生產線為原料藥（乳果糖濃溶液）；乳果糖車間，乳果糖原料藥生產線。檢查結論為經藥品GMP符合性檢查，符合《藥品生產質量管理規範》（2010版）的要求。
+
+---
+
+### 2026-06-23 18:50:47  #MKT News #Market Regions #Europe & UK
+
+UK finance minister Reeves said the government published a confident defence plan ahead of the NATO summit.
+
+---
+
+### 2026-06-23 18:50:46  #Trading Economics #Markets #Serbia #currency #Importance 0
+
+Serbian Dinar Hits 12-month Low — The Serbian Dinar touched 102.98 against the USD, the lowest since June 2025. Over the past 4 weeks, US Dollar Serbian Dinar gained 2.09%, and in the last 12 months, it increased 1.94%.
+
+---
+
+### 2026-06-23 18:50:45  #公司
+
+【康平科技：控股股東康平控股已增持0.4235%股份，擬再增持1億元至2億元】康平科技公告，控股股東海南康平控股集團有限公司於2026年5月27日、6月22日透過集中競價交易方式累計增持公司股份40.66萬股，佔公司總股本的比例為0.4235%。增持後，康平控股及其一致行動人合計持有公司股份5944.66萬股，佔總股本61.9235%。同時，康平控股計劃自本公告披露之日起6個月內透過集中競價或大宗交易方式繼續增持，增持總金額不低於1億元（含），不超過2億元（含），資金來源為自有或自籌資金，不設定固定價格區間。
 
 ---
 
@@ -20799,149 +20955,5 @@ UK lawmaker Burnham thanked Starmer for his leadership.
 ### 2026-06-22 18:03:16  #MKT News
 
 【PBOC: May DR001 monthly weighted average 1.28%】The PBOC said May monthly weighted average of DR001 (overnight pledged repo of interest-rate bonds among deposit-taking financial institutions) was 1.28%, up 5 bps MoM; DR007 was 1.35%, essentially unchanged; R001 (interbank overnight pledged repo) was 1.32%, up 2 bps MoM. Daily average interbank lending turnover was 417.28 bln yuan, +18.5% YoY; daily average interbank bond repo turnover was 7.4 tln yuan, +8.1% YoY. End‑May outstanding interbank lending balance was 1.0 tln yuan; outstanding interbank bond repo balance was 10.1 tln yuan.
-
----
-
-### 2026-06-22 18:03:09  #其他
-
-英國議員伯納姆：感謝斯塔默的領導力。
-
----
-
-### 2026-06-22 18:02:51  #公司 #市場
-
-【退市滬科：股票退市整理期剩餘5個交易日 期滿將終止上市】退市滬科公告稱，公司股票於2026年6月8日進入退市整理期，預計最後交易日期為6月29日。截至6月22日收盤已交易10個交易日，剩餘5個交易日，交易期滿將被終止上市。退市整理期屆滿後5個交易日內，上交所將對公司股票予以摘牌。公司提醒投資者及時了結相關業務，司法凍結業務建議提前辦理續凍手續。
-
----
-
-### 2026-06-22 18:02:33  #央行 #市場
-
-【央行：5月政府債券淨融資12235.5億元 同比減少2349.8億元】央行資料顯示，2026年5月，同業拆借日均成交4172.8億元，同比增加18.5%；銀行間市場債券回購日均成交7.4萬億元，同比增加8.1%。2026年5月末，同業拆借未到期餘額1.0萬億元，銀行間市場債券回購未到期餘額10.1萬億元。2026年5月，銀行業存款類金融機構間利率債隔夜質押式回購（DR001）月加權平均利率為1.28%，環比上升5個基點；DR007月加權平均利率為1.35%，較上月基本持平；銀行間市場隔夜質押式回購（R001）月加權平均利率為1.32%，環比上升2個基點。2026年5月，DR001與央行公開市場7天期逆回購操作利率的利差日均值為-12個基點，R001與DR001的利差日均值為4個基點。2026年5月，政府債券淨融資12235.5億元，同比減少2349.8億元；企業債券淨融資1680.4億元，同比增加183.9億元。2026年5月末，債券市場託管餘額202.6萬億元。
-
----
-
-### 2026-06-22 18:02:27  #公司 #市場
-
-雪佛龍股價上漲1.5%，此前該公司與微軟簽署了電力交易協議。
-
----
-
-### 2026-06-22 18:02:13  #公司
-
-【晶升股份：碳化矽正處於小批次測試階段】晶升股份釋出股價異動公告，公司關注到近期媒體報道及市場傳聞涉及“AIDC 智算中心、先進封裝帶動碳化矽需求爆發”、“碳化矽邁入 12 英寸時代”、“公司深度受益AI 算力與先進封裝產業鏈景氣上行”等事項。在 AIDC、先進封裝等新興應用場景中，目前碳化矽正處於小批次測試階段，下游客戶認證、批次採購落地進度存在較大不確定性，在下游相關新應用領域實現規模化技術落地前，暫不會形成大批次使用。因此，AIDC、先進封裝的應用需求對公司整體經營業績的影響存在不確定性。公司鄭重提醒廣大投資者一切資訊請以公司披露的正式公告為準，注意投資風險，理性投資。
-
----
-
-### 2026-06-22 18:02:04  #MKT News
-
-International Aluminium Institute (IAI) said global primary aluminium production in May was 6.15 mln tonnes.
-
----
-
-### 2026-06-22 18:02:03  #公司 #國際
-
-【Kpler：預計亞洲地區6月原油進口恢復至2218萬桶/日】亞洲的原油進口量有望恢復至伊朗衝突前水平，但精煉產品供應仍受限制，供應緊張將反映在價格上。據航運情報公司Kpler彙總的資料，預計亞洲地區在6月份將進口約2218萬桶/日原油，而5月份為2035萬桶/日。6月的進口量仍低於美國和以色列於2月28日對伊朗發動襲擊前三個月的平均每日2676萬桶。然而，這一數字遠高於四月份的8年低點1877萬桶/日，而四月正是伊朗在衝突期間有效關閉霍爾木茲海峽影響最嚴重的月份。此外，衝突前約20%的全球原油和精煉產品透過霍爾木茲海峽運輸的情況可能恢復，這將使更多石油在7月抵達亞洲。
-
----
-
-### 2026-06-22 18:01:57  #公司
-
-ADOBE：與埃森哲、宏盟集團、Code and Theory、WPP 集團、Anthropic、微軟達成聯合創新合作。
-
----
-
-### 2026-06-22 18:01:39  #MKT News #Commodities #Energy #WTI #Impact bullish #Brent
-
-【KPLER: Asia crude imports seen recovering to 22.18 mln bpd in June】KPLER estimates Asia's crude imports will rise to about 22.18 mln bpd in June from 20.35 mln bpd in May, still below the pre‑Feb. 28 attack three‑month average of 26.76 mln bpd. June volumes are well above April's eight‑year low of 18.77 mln bpd, when the Strait of Hormuz was effectively shut. KPLER said refined‑product supply remains constrained and that restoration of roughly 20% of pre‑conflict global flows through the Strait could bring additional oil to Asia in July, a tightening likely to be reflected in prices.
-
----
-
-### 2026-06-22 18:01:33  #行業 #國際
-
-【崔東樹：全球汽車生產不斷增長，2025年達到9638萬臺】乘聯分會崔東樹發文稱，根據世界汽車組織統計資料，全球汽車生產不斷增長，2025年達到9638萬臺。世界汽車生產的週期波動特徵清晰。2008金融危機、2020疫情兩次大幅衝擊全球產量，中國依託內需與新能源實現快速修復，對沖全球下行壓力。世界汽車產能重心徹底東移。全球製造中心從歐美日轉向中國，中國整車份額由3%升至36%，乘用車份額更是突破42%，成為全球絕對第一生產大國；歐洲、美洲本土產能持續收縮，份額近乎腰斬。乘商用車格局分化。乘用車高度向中國集中，傳統汽車強國本土產量大幅外流；商用車美國長期保持全球龍頭，中國商用車份額衝高回落，墨西哥依託北美自貿體系持續承接輕卡產能。新興區域分流產能：印度、東南亞、中東歐、拉美逐步釋放產能，歐美車企將製造基地外遷降低成本；中國全球佈局改變世界汽車產業體系。非洲體量長期微乎其微，不改變大盤格局。
-
----
-
-### 2026-06-22 18:01:25  #MKT News #Important #Market Regions #Europe & UK #GBPUSD #FTSE100 #DXY
-
-A source familiar with the Labour leadership selection process said the UK could have a new prime minister on July 17 or 18 if there is only one candidate.
-
----
-
-### 2026-06-22 18:01:15  #其他
-
-國際鋁業協會（IAI）資料顯示，5月全球原鋁產量為615萬噸。
-
----
-
-### 2026-06-22 18:01:08  #市場 #國際
-
-印度盧比<INR=IN>截至印度標準時間下午3點30分兌美元下跌0.37%，報1美元兌94.67盧比；前收盤價為94.32。
-
----
-
-### 2026-06-22 18:01:05  #市場 #國際
-
-泰國 SET 指數收盤上漲 0.1%，報 1574.13 點。
-
----
-
-### 2026-06-22 18:01:03  #Trading Economics #Economy #Luxembourg #Current Account #Importance 1
-
-Luxembourg Q1 Current Account Surplus Narrows — Luxembourg’s current account surplus narrowed to EUR 1,345.4 million in the first quarter of 2026 from EUR 1,664.1 million in the corresponding quarter of the previous year. The goods account surplus shrank by EUR 178.4 million to EUR 481.6 million from EUR 660 million. At the same time, the primary income shortfall grew to EUR 6,424.9 million from EUR 5,569.5 million, driven largely by increases in both the employee income (EUR -3,715.3 million vs EUR -3,614.4 million) and investment income (EUR -2,709.5 million vs EUR -1,955.1 million). Meanwhile, the services account surplus expanded to EUR 7,377.7 million from EUR 7,329.6 million.
-
----
-
-### 2026-06-22 18:00:59  #市場 #國際
-
-印度SENSEX指數盤中收盤上漲 0.3%，報 77042.87 點。
-
----
-
-### 2026-06-22 18:00:43  #市場 #國際
-
-印度 NIFTY 指數盤中收盤上漲 0.3%，報 24087.20 點。
-
----
-
-### 2026-06-22 18:00:23  #其他
-
-雪佛龍發電廠將於 2028 年投入運營。
-
----
-
-### 2026-06-22 18:00:00  #公司
-
-【中國交建：完成回購0.3739%公司股份，已使用資金總額5億元】中國交建公告，2026年6月16日，公司完成回購，已實際回購公司A股股份6085.79萬股，佔公司總股本的比例約為0.3739%，回購最高價格8.98元/股，回購最低價格6.57元/股，回購均價8.22元/股，使用資金總額5億元（不含交易費用）。
-
----
-
-### 2026-06-22 17:59:49  #MKT News #Market Regions #Europe & UK
-
-【Von der Leyen praises Starmer's statesmanship as he steps down】European Commission President Von der Leyen praised outgoing UK prime minister Starmer, saying many leaders take years to develop statesmanship and he has shown it in just two years. She noted he resigned as Labour leader on Monday morning to clear the way for a successor and said Europe’s and Ukraine’s security were stronger as a result.
-
----
-
-### 2026-06-22 17:59:30  #公司
-
-【證監會：准予華安陸家嘴封閉式商業不動產證券投資基金註冊】證監會今日釋出公告，准予華安基金管理有限公司註冊華安陸家嘴封閉式商業不動產證券投資基金，基金型別為契約型封閉式，基金合同期限為38年。准予基金的募集份額總額為10億份。同意你公司為基金的基金管理人，上海浦東發展銀行股份有限公司為基金的基金託管人。公司應自本批覆下發之日起6個月內進行基金的募集活動，募集期限自基金份額髮售之日起不得超過3個月。
-
----
-
-### 2026-06-22 17:59:25  #其他
-
-知情人士就工黨黨魁選舉流程發表評論：若最終僅剩一名候選人，英國或於 7 月 17 日或 18 日產生新任首相。
-
----
-
-### 2026-06-22 17:59:09  #市場
-
-【臺積電美股盤前漲超2%】臺積電美股盤前漲超2%，現報471.55美元。
-
----
-
-### 2026-06-22 17:59:04  #其他
-
-【我國擬製定標準推動人形機器人走進更多場景】記者22日獲悉，工業和資訊化部日前釋出通知，公開徵求多項行業標準制修訂計劃專案意見。本次擬製定的標準包括人形機器人在變電站、家電製造等場景技術要求。變電站是電網的“心臟”。現有變電站智慧巡檢主要依賴輪式或履帶式機器人，然而，變電站內約30%的巡檢點位是輪式機器人無法覆蓋的“盲區”。人形機器人憑藉其類人的運動形態、雙足行走能力、多關節協同操作能力，能夠有效彌補現有巡檢機器人的不足。當前，標準缺失已成為制約變電站人形機器人規模化應用的瓶頸。擬製定的《人形機器人 變電站場景技術要求》主要技術內容包括建立適用於變電站人形機器人的術語體系、從八個方面規定變電站人形機器人的技術要求、規定變電站人形機器人應用的全流程管理等，將為行業提供統一的技術依據和測試評價方法，破解“不敢用、不能用、不好用”的應用困局。家電製造方面，目前國內多家智慧家電企業已在智慧家電製造工廠使用人形機器人執行作業任務，針對家電製造行業的人形機器人作業效果評估標準顯得尤為重要。擬製定的《人形機器人 家電製造場景技術要求》提出家電製造場景應用中人形機器人作業效果評估指標體系，描述了評估方法等內容，將為廠商提供明確的技術發展方向，還能幫助應用方更有效地評估和最佳化人形機器人的工作效能，為人形機器人在其他領域的應用評估提供參考依據。此外，本次申請立項的還有《人形機器人與具身智慧 售後服務規範》《人形機器人 互連繫統通用技術要求》等標準。（新華社）
 
 ---

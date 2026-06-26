@@ -1,7 +1,151 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-06-27 00:53:10_
-_本檔包含 3511 則快訊，約 665537 字_
+_更新時間：2026-06-27 01:49:38_
+_本檔包含 3503 則快訊，約 666332 字_
+
+---
+
+### 2026-06-22 18:03:09  #其他
+
+英國議員伯納姆：感謝斯塔默的領導力。
+
+---
+
+### 2026-06-22 18:02:51  #公司 #市場
+
+【退市滬科：股票退市整理期剩餘5個交易日 期滿將終止上市】退市滬科公告稱，公司股票於2026年6月8日進入退市整理期，預計最後交易日期為6月29日。截至6月22日收盤已交易10個交易日，剩餘5個交易日，交易期滿將被終止上市。退市整理期屆滿後5個交易日內，上交所將對公司股票予以摘牌。公司提醒投資者及時了結相關業務，司法凍結業務建議提前辦理續凍手續。
+
+---
+
+### 2026-06-22 18:02:33  #央行 #市場
+
+【央行：5月政府債券淨融資12235.5億元 同比減少2349.8億元】央行資料顯示，2026年5月，同業拆借日均成交4172.8億元，同比增加18.5%；銀行間市場債券回購日均成交7.4萬億元，同比增加8.1%。2026年5月末，同業拆借未到期餘額1.0萬億元，銀行間市場債券回購未到期餘額10.1萬億元。2026年5月，銀行業存款類金融機構間利率債隔夜質押式回購（DR001）月加權平均利率為1.28%，環比上升5個基點；DR007月加權平均利率為1.35%，較上月基本持平；銀行間市場隔夜質押式回購（R001）月加權平均利率為1.32%，環比上升2個基點。2026年5月，DR001與央行公開市場7天期逆回購操作利率的利差日均值為-12個基點，R001與DR001的利差日均值為4個基點。2026年5月，政府債券淨融資12235.5億元，同比減少2349.8億元；企業債券淨融資1680.4億元，同比增加183.9億元。2026年5月末，債券市場託管餘額202.6萬億元。
+
+---
+
+### 2026-06-22 18:02:27  #公司 #市場
+
+雪佛龍股價上漲1.5%，此前該公司與微軟簽署了電力交易協議。
+
+---
+
+### 2026-06-22 18:02:13  #公司
+
+【晶升股份：碳化矽正處於小批次測試階段】晶升股份釋出股價異動公告，公司關注到近期媒體報道及市場傳聞涉及“AIDC 智算中心、先進封裝帶動碳化矽需求爆發”、“碳化矽邁入 12 英寸時代”、“公司深度受益AI 算力與先進封裝產業鏈景氣上行”等事項。在 AIDC、先進封裝等新興應用場景中，目前碳化矽正處於小批次測試階段，下游客戶認證、批次採購落地進度存在較大不確定性，在下游相關新應用領域實現規模化技術落地前，暫不會形成大批次使用。因此，AIDC、先進封裝的應用需求對公司整體經營業績的影響存在不確定性。公司鄭重提醒廣大投資者一切資訊請以公司披露的正式公告為準，注意投資風險，理性投資。
+
+---
+
+### 2026-06-22 18:02:04  #MKT News
+
+International Aluminium Institute (IAI) said global primary aluminium production in May was 6.15 mln tonnes.
+
+---
+
+### 2026-06-22 18:02:03  #公司 #國際
+
+【Kpler：預計亞洲地區6月原油進口恢復至2218萬桶/日】亞洲的原油進口量有望恢復至伊朗衝突前水平，但精煉產品供應仍受限制，供應緊張將反映在價格上。據航運情報公司Kpler彙總的資料，預計亞洲地區在6月份將進口約2218萬桶/日原油，而5月份為2035萬桶/日。6月的進口量仍低於美國和以色列於2月28日對伊朗發動襲擊前三個月的平均每日2676萬桶。然而，這一數字遠高於四月份的8年低點1877萬桶/日，而四月正是伊朗在衝突期間有效關閉霍爾木茲海峽影響最嚴重的月份。此外，衝突前約20%的全球原油和精煉產品透過霍爾木茲海峽運輸的情況可能恢復，這將使更多石油在7月抵達亞洲。
+
+---
+
+### 2026-06-22 18:01:57  #公司
+
+ADOBE：與埃森哲、宏盟集團、Code and Theory、WPP 集團、Anthropic、微軟達成聯合創新合作。
+
+---
+
+### 2026-06-22 18:01:39  #MKT News #Commodities #Energy #WTI #Impact bullish #Brent
+
+【KPLER: Asia crude imports seen recovering to 22.18 mln bpd in June】KPLER estimates Asia's crude imports will rise to about 22.18 mln bpd in June from 20.35 mln bpd in May, still below the pre‑Feb. 28 attack three‑month average of 26.76 mln bpd. June volumes are well above April's eight‑year low of 18.77 mln bpd, when the Strait of Hormuz was effectively shut. KPLER said refined‑product supply remains constrained and that restoration of roughly 20% of pre‑conflict global flows through the Strait could bring additional oil to Asia in July, a tightening likely to be reflected in prices.
+
+---
+
+### 2026-06-22 18:01:33  #行業 #國際
+
+【崔東樹：全球汽車生產不斷增長，2025年達到9638萬臺】乘聯分會崔東樹發文稱，根據世界汽車組織統計資料，全球汽車生產不斷增長，2025年達到9638萬臺。世界汽車生產的週期波動特徵清晰。2008金融危機、2020疫情兩次大幅衝擊全球產量，中國依託內需與新能源實現快速修復，對沖全球下行壓力。世界汽車產能重心徹底東移。全球製造中心從歐美日轉向中國，中國整車份額由3%升至36%，乘用車份額更是突破42%，成為全球絕對第一生產大國；歐洲、美洲本土產能持續收縮，份額近乎腰斬。乘商用車格局分化。乘用車高度向中國集中，傳統汽車強國本土產量大幅外流；商用車美國長期保持全球龍頭，中國商用車份額衝高回落，墨西哥依託北美自貿體系持續承接輕卡產能。新興區域分流產能：印度、東南亞、中東歐、拉美逐步釋放產能，歐美車企將製造基地外遷降低成本；中國全球佈局改變世界汽車產業體系。非洲體量長期微乎其微，不改變大盤格局。
+
+---
+
+### 2026-06-22 18:01:25  #MKT News #Important #Market Regions #Europe & UK #GBPUSD #FTSE100 #DXY
+
+A source familiar with the Labour leadership selection process said the UK could have a new prime minister on July 17 or 18 if there is only one candidate.
+
+---
+
+### 2026-06-22 18:01:15  #其他
+
+國際鋁業協會（IAI）資料顯示，5月全球原鋁產量為615萬噸。
+
+---
+
+### 2026-06-22 18:01:08  #市場 #國際
+
+印度盧比<INR=IN>截至印度標準時間下午3點30分兌美元下跌0.37%，報1美元兌94.67盧比；前收盤價為94.32。
+
+---
+
+### 2026-06-22 18:01:05  #市場 #國際
+
+泰國 SET 指數收盤上漲 0.1%，報 1574.13 點。
+
+---
+
+### 2026-06-22 18:01:03  #Trading Economics #Economy #Luxembourg #Current Account #Importance 1
+
+Luxembourg Q1 Current Account Surplus Narrows — Luxembourg’s current account surplus narrowed to EUR 1,345.4 million in the first quarter of 2026 from EUR 1,664.1 million in the corresponding quarter of the previous year. The goods account surplus shrank by EUR 178.4 million to EUR 481.6 million from EUR 660 million. At the same time, the primary income shortfall grew to EUR 6,424.9 million from EUR 5,569.5 million, driven largely by increases in both the employee income (EUR -3,715.3 million vs EUR -3,614.4 million) and investment income (EUR -2,709.5 million vs EUR -1,955.1 million). Meanwhile, the services account surplus expanded to EUR 7,377.7 million from EUR 7,329.6 million.
+
+---
+
+### 2026-06-22 18:00:59  #市場 #國際
+
+印度SENSEX指數盤中收盤上漲 0.3%，報 77042.87 點。
+
+---
+
+### 2026-06-22 18:00:43  #市場 #國際
+
+印度 NIFTY 指數盤中收盤上漲 0.3%，報 24087.20 點。
+
+---
+
+### 2026-06-22 18:00:23  #其他
+
+雪佛龍發電廠將於 2028 年投入運營。
+
+---
+
+### 2026-06-22 18:00:00  #公司
+
+【中國交建：完成回購0.3739%公司股份，已使用資金總額5億元】中國交建公告，2026年6月16日，公司完成回購，已實際回購公司A股股份6085.79萬股，佔公司總股本的比例約為0.3739%，回購最高價格8.98元/股，回購最低價格6.57元/股，回購均價8.22元/股，使用資金總額5億元（不含交易費用）。
+
+---
+
+### 2026-06-22 17:59:49  #MKT News #Market Regions #Europe & UK
+
+【Von der Leyen praises Starmer's statesmanship as he steps down】European Commission President Von der Leyen praised outgoing UK prime minister Starmer, saying many leaders take years to develop statesmanship and he has shown it in just two years. She noted he resigned as Labour leader on Monday morning to clear the way for a successor and said Europe’s and Ukraine’s security were stronger as a result.
+
+---
+
+### 2026-06-22 17:59:30  #公司
+
+【證監會：准予華安陸家嘴封閉式商業不動產證券投資基金註冊】證監會今日釋出公告，准予華安基金管理有限公司註冊華安陸家嘴封閉式商業不動產證券投資基金，基金型別為契約型封閉式，基金合同期限為38年。准予基金的募集份額總額為10億份。同意你公司為基金的基金管理人，上海浦東發展銀行股份有限公司為基金的基金託管人。公司應自本批覆下發之日起6個月內進行基金的募集活動，募集期限自基金份額髮售之日起不得超過3個月。
+
+---
+
+### 2026-06-22 17:59:25  #其他
+
+知情人士就工黨黨魁選舉流程發表評論：若最終僅剩一名候選人，英國或於 7 月 17 日或 18 日產生新任首相。
+
+---
+
+### 2026-06-22 17:59:09  #市場
+
+【臺積電美股盤前漲超2%】臺積電美股盤前漲超2%，現報471.55美元。
+
+---
+
+### 2026-06-22 17:59:04  #其他
+
+【我國擬製定標準推動人形機器人走進更多場景】記者22日獲悉，工業和資訊化部日前釋出通知，公開徵求多項行業標準制修訂計劃專案意見。本次擬製定的標準包括人形機器人在變電站、家電製造等場景技術要求。變電站是電網的“心臟”。現有變電站智慧巡檢主要依賴輪式或履帶式機器人，然而，變電站內約30%的巡檢點位是輪式機器人無法覆蓋的“盲區”。人形機器人憑藉其類人的運動形態、雙足行走能力、多關節協同操作能力，能夠有效彌補現有巡檢機器人的不足。當前，標準缺失已成為制約變電站人形機器人規模化應用的瓶頸。擬製定的《人形機器人 變電站場景技術要求》主要技術內容包括建立適用於變電站人形機器人的術語體系、從八個方面規定變電站人形機器人的技術要求、規定變電站人形機器人應用的全流程管理等，將為行業提供統一的技術依據和測試評價方法，破解“不敢用、不能用、不好用”的應用困局。家電製造方面，目前國內多家智慧家電企業已在智慧家電製造工廠使用人形機器人執行作業任務，針對家電製造行業的人形機器人作業效果評估標準顯得尤為重要。擬製定的《人形機器人 家電製造場景技術要求》提出家電製造場景應用中人形機器人作業效果評估指標體系，描述了評估方法等內容，將為廠商提供明確的技術發展方向，還能幫助應用方更有效地評估和最佳化人形機器人的工作效能，為人形機器人在其他領域的應用評估提供參考依據。此外，本次申請立項的還有《人形機器人與具身智慧 售後服務規範》《人形機器人 互連繫統通用技術要求》等標準。（新華社）
 
 ---
 
@@ -20995,197 +21139,5 @@ ICE data: speculative net long positions in Brent crude futures fell by 94,763 c
 ### 2026-06-20 01:50:28  #其他
 
 洲際交易所布倫特原油：截至 6 月 16 日當週，投機客削減淨多頭持倉 94763 手，淨多頭持倉降至 114128 手。
-
----
-
-### 2026-06-20 01:46:49  #MKT News #XAUUSD #Impact bullish #DXY #Brent
-
-Lebanese official media and medical sources said a drone strike in southern Lebanon after a ceasefire took effect killed two people.
-
----
-
-### 2026-06-20 01:44:32  #國際
-
-【埃及外長稱將與沙特、土耳其和巴基斯坦舉行四方會談】埃及外交部19日發表宣告說，埃及外長將於21日與沙烏地阿拉伯外交大臣、土耳其外長和巴基斯坦外長在開羅舉行四方會談。 (新華社)
-
----
-
-### 2026-06-20 01:39:39  #MKT News
-
-U.S. State Department says the next round of talks is scheduled for June 23-25 in Washington, D.C.
-
----
-
-### 2026-06-20 01:39:29  #MKT News
-
-US State Department: Secretary of State Rubio reiterated US full support for the Lebanese government's efforts to establish a fully sovereign state that coexists peacefully with all neighbors.
-
----
-
-### 2026-06-20 01:39:26  #宏觀 #國際
-
-美國國務院：魯比奧重申美國全力支援黎巴嫩政府打造一個完全主權、與所有鄰國和平共處的國家所作出的努力。 雙方就定於 6 月 23 日至 25 日在華盛頓舉行的下一輪談判展開磋商。
-
----
-
-### 2026-06-20 01:39:07  #MKT News
-
-US State Department: Secretary of State Rubio reiterated the need to disarm Hezbollah and re-establish control across Lebanon.
-
----
-
-### 2026-06-20 01:38:57  #MKT News
-
-U.S. State Department said Secretary of State Rubio spoke with Lebanese President Aoun today.
-
----
-
-### 2026-06-20 01:38:49  #宏觀 #國際
-
-美國國務院：魯比奧重申必須解除真主黨武裝，並恢復黎巴嫩對全部國土的管控。
-
----
-
-### 2026-06-20 01:38:19  #宏觀 #國際
-
-美國國務院：魯比奧今日與黎巴嫩總統約瑟夫・奧恩通話。
-
----
-
-### 2026-06-20 01:32:15  #MKT News #Commodities #Energy #WTI #Impact bearish #Brent
-
-Iraq's oil ministry says southern oilfields could recover to above 3 million bpd within one to two months.
-
----
-
-### 2026-06-20 01:31:55  #其他
-
-伊拉克國家通訊社訊息：伊拉克石油部表示，南部油田有望在 1 至 2 個月內恢復至 300 萬桶 / 日以上的原有產能。
-
----
-
-### 2026-06-20 01:31:41  #MKT News
-
-France's foreign ministry said Hezbollah should not be used as a tool of Iran.
-
----
-
-### 2026-06-20 01:31:04  #MKT News #WTI #Impact bearish #XAUUSD #DXY
-
-France's foreign ministry said Israel should withdraw from Lebanon. A U.S.-Iran agreement includes a ceasefire in Lebanon.
-
----
-
-### 2026-06-20 01:30:03  #MKT News
-
-The Daily Telegraph reports two passenger trains collided near Bedford, north of London.
-
----
-
-### 2026-06-20 01:24:38  #市場
-
-馬士基哥本哈根股價收漲1.23%，本週累計下跌12.00%，6月15-18日持續走低。赫伯羅特德國法蘭克福股價收漲0.71%，本週累跌3.33%。德迅國際瑞士股價收跌0.55%，本週累跌7.08%。
-
----
-
-### 2026-06-20 01:21:37  #MKT News #Important #Market Regions #Emerging Markets
-
-Interfax reports Russia will impose an 8% export duty on diamonds effective Sept. 1.
-
----
-
-### 2026-06-20 01:20:35  #MKT News
-
-FHFA Director Pulte said Fannie Mae and Freddie Mac currently have strong liquidity.
-
----
-
-### 2026-06-20 01:20:11  #國際
-
-美國聯邦住房金融局局長Bill Pulte： 房利美與房地美當前流動性狀況極為充裕，這一點從抵押貸款支援證券（MBS）市場行情向好、抵押貸款利差走勢穩健中就能體現出來。我預計今年夏秋兩季市場表現將十分亮眼！
-
----
-
-### 2026-06-20 01:18:41  #MKT News
-
-【Mediators in Iran-US talks to meet in Egypt on 21st】Iranian media reported Egypt and Pakistan said in a joint statement on the 19th that representatives of countries involved in mediating Iran-US negotiations will meet in Egypt on the 21st.
-
----
-
-### 2026-06-20 01:18:19  #市場
-
-布倫特8月原油期貨收報80.57美元/桶。
-
----
-
-### 2026-06-20 01:17:06  #國際
-
-【伊美談判斡旋相關方將於21日在埃及舉行會晤】據伊朗媒體報道，埃及和巴基斯坦19日發表聯合宣告說，參與伊朗與美國談判程序斡旋工作的有關國家代表將於21日在埃及舉行會晤。（新華社）
-
----
-
-### 2026-06-20 01:12:38  #MKT News
-
-The Lebanese presidency said the president told US Secretary of State Rubio that a comprehensive ceasefire is the fundamental cornerstone for next week’s US-Israel-Lebanon trilateral talks in Washington.
-
----
-
-### 2026-06-20 01:12:25  #國際
-
-黎巴嫩總統府宣告：黎巴嫩總統告知美國國務卿魯比奧，全面停火是下週在華盛頓舉行黎、美、以三方會談的核心基礎。
-
----
-
-### 2026-06-20 01:11:59  #國際
-
-市場訊息：俄羅斯自 9 月 1 日起將對鑽石徵收 8% 出口關稅。
-
----
-
-### 2026-06-20 01:11:48  #Trading Economics #Economy #United States #Calendar #Importance 3
-
-Week Ahead - Jun 22nd — The return of tankers crossing the Strait of Hormuz will be the focus next week after the US and Iran agreed to lift their blockade on the chokepoint. On the data front, the US will release the personal income and spending aggregates, which include the PCE price index, and durable goods orders. Leading indicators are also featured with S&P PMIs, the UMich consumer confidence index, and regional Fed indexes. Leading indicators are also the focus in Europe, including PMIs, the GfK, Ifo, CBI, and European Commission confidence surveys for their respective countries. Japan, India, and Australia will post their PMIs, while latter will release inflation rates and employment figures and China will unveil industrial profits. Also, the BoJ will release its Summary of Opinions.
-
----
-
-### 2026-06-20 01:07:55  #公司
-
-【第一量子巴拿馬銅礦被認定總體合規】在收到一份備受期待的審計報告後，巴拿馬在決定第一量子礦業公司（First Quantum Minerals Ltd.）能否重新開放一座巨型銅礦的問題上又邁進了一步。審計發現，該專案基本履行了其環境、法律、財政和運營義務。根據巴拿馬政府週五發表的一份宣告，由瑞士公司SGS SA進行的此次審查指出了行政管理流程、生物多樣性管理和生態恢復等方面有待改進的地方。但審計人員表示，這些不足並不構成會破壞整體結論的結構性缺陷。
-
----
-
-### 2026-06-20 01:07:54  #MKT News #Important
-
-MSNBC reported President Trump spoke with Israeli officials on Friday, urging them to agree to a ceasefire with Hezbollah.
-
----
-
-### 2026-06-20 01:07:28  #公司 #焦點 #國際
-
-美國全國廣播公司訊息：特朗普週五早些時候與以色列方面通話，要求其同意與真主黨停火。
-
----
-
-### 2026-06-20 01:06:18  #國際
-
-【歐洲理事會主席：正建立渠道以直接向俄傳遞歐盟資訊】歐洲理事會主席科斯塔19日表示，他正透過其辦公室建立一條外交渠道，以便能夠直接向俄羅斯傳遞歐盟資訊。科斯塔在歐盟峰會會後記者會上說，歐盟必須直接向俄羅斯傳遞其資訊，不能僅透過他方來解讀俄方資訊。（新華社）
-
----
-
-### 2026-06-20 00:57:37  #國際
-
-伊朗塔斯尼姆通訊社訊息：伊朗副外長表示，60 天后伊朗將啟用霍爾木茲海峽全新管控機制，並向地區各國提交專項倡議。
-
----
-
-### 2026-06-20 00:57:29  #MKT News #WTI #Impact bullish #Brent
-
-Iran's deputy foreign minister said that in 60 days Tehran will adopt a new mechanism to manage the Strait of Hormuz and will present a special initiative to states in the region.
-
----
-
-### 2026-06-20 00:55:19  #國際
-
-【機構：霍爾木茲海峽重啟商業航運以來已有至少20艘油輪通航】貿易情報機構Kpler資料顯示，自美伊重啟霍爾木茲海峽商業航運以來，已有至少20艘油輪駛過該海峽。 該機構表示，週四的油輪通航量創下6月2日以來的單日新高，但航運規模仍未恢復至戰前水平。戰前每日有超100艘船舶途經霍爾木茲海峽，其中包含數十艘油輪。 Kpler統計，週四共計25艘船舶通行霍爾木茲海峽，除油輪外，還涵蓋散貨船、集裝箱船等各類船型。在美國海軍解除對伊朗海上封鎖、伊朗允許船舶未來60天免費通行海峽後，航道航運量持續回暖。
 
 ---

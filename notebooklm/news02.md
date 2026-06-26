@@ -1,7 +1,253 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-06-27 00:53:10_
-_本檔包含 3800 則快訊，約 665958 字_
+_更新時間：2026-06-27 01:49:38_
+_本檔包含 3810 則快訊，約 666384 字_
+
+---
+
+### 2026-06-25 21:52:23  #公司 #國際
+
+【14%份額申請贖回後 阿瑞斯私募信貸基金限制贖回】由於贖回申請比例升至14.4%，阿瑞斯管理公司連續第二個季度限制旗下一隻私募信貸基金的贖回，這表明規模達1.8萬億美元的私募信貸行業仍面臨壓力。根據週四提交的一份檔案，阿瑞斯戰略收益基金本季度僅允許投資者贖回其所持基金份額的5%。與多數同類基金一樣，該基金第二季度的贖回需求較第一季度進一步上升，當時投資者申請贖回的比例為11.6%。該基金在致股東信中表示，近一半的贖回申請來自規模較小的機構投資者和家族辦公室，這些投資者主要位於美國以外。不過，這部分投資者在基金超過2萬名基金份額持有人中佔比還不到1%。此外，約三分之二的贖回申請來自上一季度就曾申請贖回的投資者。包括阿波羅資產管理、貝萊德以及Cliffwater Inc.在內的多家資產管理公司，第二季度也都面臨贖回申請激增的情況，因為年初未能成功贖回資金的投資者再次提出了贖回申請。該Ares基金表示，第二季度那些沒有被處理完的贖回申請，到今年年底前可能“基本得到滿足”。前提是未來幾個季度新的贖回需求，與上一季度剩餘未處理的贖回申請規模大致相當。
+
+---
+
+### 2026-06-25 21:51:12  #其他
+
+【DeepSeek釋出招聘廣告：正努力將所有部門的規模擴大至少一倍】DeepSeek釋出招聘廣告，稱隨著技術演進，我們正努力將所有部門的規模擴大至少一倍，空缺崗位如下：服務端開發工程師、預訓練資料工程師、AI搜尋演算法/架構工程師、Agent Harness 團隊、Agent Infra研發工程師、前端/客戶端開發工程師、AI跨界技術人才等。
+
+---
+
+### 2026-06-25 21:50:46  #MKT News #Market Regions #Emerging Markets
+
+Turkey's major bank index fell 3.3%.
+
+---
+
+### 2026-06-25 21:49:45  #市場
+
+【期螺跌破3100關口 市場情緒降至冰點】今日鋼市繼續走弱。現貨市場一般跌10-20元，華東、華北部分市場螺紋已經企穩，市場拋貨狀況減緩，終端對低價貨接單量增加。不過，盤面繼續走弱創新低，期螺主力跌破3100關口。從目前看，鋼材現貨出現拋壓，部分地區低價搶跑出貨給市場帶來一定壓力，再加上外圍市場美元指數走強背景下金銀跳水，霍爾木茲海峽通行，海灣能源商品出口暴增這些因素對油價、有色等工業品都形成了較大打壓，市場形成較強的空頭氛圍。 (蘭格鋼鐵網)
+
+---
+
+### 2026-06-25 21:49:30  #市場
+
+土耳其主要銀行股指下跌3.3%。
+
+---
+
+### 2026-06-25 21:49:02  #MKT News #Market Themes #AI Revolution #Crypto Concepts
+
+MAS says its research institute will initially focus on artificial intelligence (AI) and tokenization.
+
+---
+
+### 2026-06-25 21:48:18  #Trading Economics #Markets #United States #stocks #Importance 1
+
+Southern Stock Price Hits 7-week High — Southern shares increased to 96.49 USD, the highest since May 2026. Over the past 4 weeks, Southern Co. gained 2.44%, and in the last 12 months, it increased 6.63%.
+
+---
+
+### 2026-06-25 21:48:15  #MKT News
+
+MAS establishes Future Finance Institute to promote financial innovation.
+
+---
+
+### 2026-06-25 21:48:05  #市場 #國際
+
+美國股市漲幅收窄，部分股指轉跌，標普500指數轉跌0.03%，納指轉跌0.62%，道指最新漲0.44%。
+
+---
+
+### 2026-06-25 21:48:02  #MKT News #DELL.N #Impact bearish
+
+Dell (DELL.N) shares fell 9.3%.
+
+---
+
+### 2026-06-25 21:47:54  #MKT News #S&P500 #Impact bearish #Nasdaq100 #Dow #Impact bullish
+
+U.S. equities pared gains; S&P 500 turned down 0.03%, Nasdaq fell 0.62%, Dow Jones up 0.44%.
+
+---
+
+### 2026-06-25 21:47:40  #Trading Economics #Markets #United States #stocks #Importance 1
+
+Merck Stock Price Hits 11-week High — Merck shares increased to 123.50 USD, the highest since April 2026. Over the past 4 weeks, Merck & Co gained 2.88%, and in the last 12 months, it increased 54.6%.
+
+---
+
+### 2026-06-25 21:47:28  #其他
+
+非洲疾控中心官員：剛果部分埃博拉檢測陽性者行蹤不明。
+
+---
+
+### 2026-06-25 21:46:53  #市場
+
+標普500指數轉跌。
+
+---
+
+### 2026-06-25 21:46:32  #國際
+
+6月25日，全球基金淨買入印度股票38.4億印度盧比。
+
+---
+
+### 2026-06-25 21:46:11  #其他
+
+南非作物估計委員會預測，2026年玉米產量為1725.5萬噸，較2025年收穫的1665萬噸增長3.6%。
+
+---
+
+### 2026-06-25 21:46:04  #國際
+
+南非農作物估算委員會：南非2026年玉米收成將包含928.3萬噸白玉米、797.2萬噸黃玉米。
+
+---
+
+### 2026-06-25 21:45:53  #國際
+
+美國陸軍：美國歐洲與非洲陸軍司令將於7月2日卸任指揮職務。
+
+---
+
+### 2026-06-25 21:45:25  #市場
+
+戴爾科技股價下跌9.3%。
+
+---
+
+### 2026-06-25 21:44:56  #其他
+
+蘋果跌幅擴大至5%。
+
+---
+
+### 2026-06-25 21:44:13  #公司
+
+【藍鴞資本擬透過旗下基金入股NBA克利夫蘭騎士隊】6月25日，據報道，私募股權投資公司藍鴞資本正進行高階階段談判，計劃透過旗下的Dyal HomeCourt Partners基金收購NBA克利夫蘭騎士隊的少數股權。據悉，此次擬收購的股份比例預計在5%至10%之間。克利夫蘭騎士隊的估值約為39.5億美元。騎士隊現任大股東丹·吉爾伯特自去年夏天以來，便一直尋求出售該球隊至多15%的股權。
+
+---
+
+### 2026-06-25 21:43:21  #其他
+
+新加坡金融管理局（MAS）成立金融未來研究院，以規模化推廣金融創新。
+
+---
+
+### 2026-06-25 21:42:47  #其他
+
+【李國英會見孟加拉國總理塔裡克，就深化中孟水利合作進行深入交流】6月25日，水利部部長李國英在京會見孟加拉國總理塔裡克，雙方就深化中孟水利合作進行了深入交流。李國英指出，中國水利部門持續完善水旱災害防禦體系、加快建設現代化水網、復甦河湖生態環境、推進數字孿生水利建設、建立健全節水制度政策、強化水利體制機制法治管理，體系化推動水利高質量發展，系統性提升國家水安全保障能力。在全球氣候變化影響下，中孟兩國均面臨水災害、水資源、水生態、水環境等水安全挑戰，中國水利部願與孟方水利部門加強治水技術交流和政策溝通，在水資源規劃、河流治理、防洪減災等領域加強務實合作，強化水利能力建設和人才交流培養，為深化兩國全面戰略合作伙伴關係貢獻水利力量。
+
+---
+
+### 2026-06-25 21:41:35  #國際
+
+【俄外交部稱將關閉羅馬尼亞駐聖彼得堡總領事館】俄羅斯外交部25日通報稱，已召見羅馬尼亞駐俄大使伊斯特拉特，向其遞交照會，宣佈羅馬尼亞駐聖彼得堡總領事為“不受歡迎的人”，並將關閉羅馬尼亞駐聖彼得堡總領事館。此舉是對羅馬尼亞此前關閉俄駐康斯坦察總領事館並驅逐其總領事的對等回應。（央視新聞）
+
+---
+
+### 2026-06-25 21:41:22  #MKT News #MU.O #Impact bullish
+
+BofA raises PT on Micron Technology (MU.O) to $1550 from $1500.
+
+---
+
+### 2026-06-25 21:41:09  #市場 #焦點
+
+納斯達克中國金龍指數跌超2%，攜程跌15.71%，中比能源跌7.63%，金山雲跌6.39%，海天網路跌6.15%，金生遊樂跌6.15%。
+
+---
+
+### 2026-06-25 21:41:05  #MKT News #Market Regions #Greater China #S&P500 #Impact bearish #DXY #Impact bullish #Hang Seng Index
+
+Nasdaq Golden Dragon China Index fell 2% in the latest update.
+
+---
+
+### 2026-06-25 21:40:52  #MKT News #Macro & Rates #DXY #Impact bullish #US10Y
+
+【Economist: US core PCE unlikely to fall easily】May PCE rose 4.1% YoY; while some saw that as a peak, RSM chief economist Joseph Brusuelas says core inflation’s 0.3% m/m gain and 3.4% YoY rate may be persistent. He points to pronounced pass-through pressures within recent months’ PPI components, suggesting those prices are less likely to retreat than headline aggregates imply.
+
+---
+
+### 2026-06-25 21:40:25  #國際
+
+【伊朗議長否認被解凍資產將用於購買美國農產品】伊朗伊斯蘭議會議長卡利巴夫25日在社交媒體上發文，駁斥美方所謂“伊朗被解凍資產將用於購買美國農產品”的說法。卡利巴夫寫道，美國錯誤地聲稱伊朗被解凍資產將用於購買美國農產品，“我們唯一收穫的作物是你們（美國）數十年來親手播下的不信任”。（新華社）
+
+---
+
+### 2026-06-25 21:40:14  #Trading Economics #Markets #United States #Stock Market #Importance 1
+
+The Dow Jones Index Opens 0.61% Higher — The Dow Jones Index is up by 314 points or 0.61 percent on Thursday. Top gainers are Caterpillar (4.42%), Honeywell International (2.69%) and Sherwin-Williams (1.68%). Biggest losses came from Apple (-3.78%), Amazon (-2.81%) and McDonalds (-2.31%).
+
+---
+
+### 2026-06-25 21:40:03  #Trading Economics #Markets #Brazil #Stock Market #Importance 1
+
+Ibovespa Rises as Inflation Eases — The Ibovespa gained near 0.5% to trade above the 171,000 mark on Thursday as investors digested inflation data. Bond yields moved lower after June's mid-month inflation reading came in below market expectations, reinforcing bets that price pressures may be easing. Adding to the decline in yields, oil prices erased all gains accumulated during the Iran conflict as shipping flows through the Strait of Hormuz increased. Major banks traded higher, with Itaú, Bradesco, and Banco do Brasil up around 2%. Utilities also advanced, with Axia and Sabesp gaining nearly 2%. Other notable performers included WEG (+1%), Rede D'Or (+1%), and Embraer (+2%). Markets also assessed the BCB’s monetary policy report, which revised GDP growth forecasts higher and more directly flagged concerns over government stimulus measures. On the downside, Braskem gained 0.6% despite filling for emergency protection against creditors as talks for an out-of-court solution to its mounting debt woes hit snags.
+
+---
+
+### 2026-06-25 21:39:57  #MKT News #Star Stocks #Apple #Market Themes #Magnificent 7 #AAPL.O #Impact bearish #Nasdaq100
+
+Apple (AAPL.O) early decline widened to 4%.
+
+---
+
+### 2026-06-25 21:39:56  #其他
+
+【巴西東北特高壓直流輸電專案全線開工】巴西東北部新能源送出±800千伏特高壓直流輸電專案（巴西東北特高壓專案）24日全線開工建設，其開工活動在首都巴西利亞舉行。 活動上，巴西副總統阿爾克明在影片致辭中表示，此專案是巴西正在推進的最大輸電專案之一，也是巴西國家電力系統擴充套件與現代化程序中的一座里程碑。“這項工程展現了巴西與中國合作的重要性，彰顯了國際投資者對巴西的信心，也體現了雙方共同致力於推進安全、可持續的能源轉型。”（新華社）
+
+---
+
+### 2026-06-25 21:39:52  #Trading Economics #Markets #United States #stocks #Importance 1
+
+NextEra Energy Stock Price Hits 4-week High — NextEra Energy shares increased to 88.23 USD, the highest since May 2026. Over the past 4 weeks, NextEra Energy gained 0.65%, and in the last 12 months, it increased 25.42%.
+
+---
+
+### 2026-06-25 21:39:47  #Trading Economics #Markets #United States #stocks #Importance 1
+
+Oracle Stock Price Hits 10-week Low — Oracle shares decreased to 155.22 USD, the lowest since April 2026. Over the past 4 weeks, Oracle lost 19.07%, and in the last 12 months, it decreased 25.85%.
+
+---
+
+### 2026-06-25 21:39:26  #其他
+
+【委內瑞拉宣佈多項措施應對強震災情】當地時間25日，委內瑞拉代總統羅德里格斯表示已與聯合國駐委內瑞拉協調員進行了溝通，該組織正在派遣經聯合國認證的專業救援人員支援救援工作。為應對地震，委內瑞拉政府設立2億美元初始基金，用於重建醫院和安置失去家園的民眾。據羅德里格斯介紹，委政府將啟動特別信貸支援計劃，為因地震失去主要經濟來源的商戶、工廠經營者及其他受災企業提供幫助。當地時間24日傍晚，委內瑞拉接連發生兩次7級以上強烈地震。截至25日清晨，強震已造成164人死亡、971人受傷。（央視新聞）
+
+---
+
+### 2026-06-25 21:38:36  #公司 #市場
+
+【夢潔股份股價跌停 公司回應：生產經營一切正常】夢潔股份股價6月25日跌停。截至收盤，公司股價報4.08元/股，收盤跌幅為9.93%。對於股價下跌，夢潔股份方面回應稱，股價受多重因素影響，公司生產經營一切正常。從季節性看，秋冬季是床上用品行業的季節性旺季，夏季是相對淡季，季節性影響對各家影響都一樣。“公司此前做過研究，從利於身體健康角度，半年到一年的時間更換床上用品比較合適。目前，行業下游需求景氣度受到一定影響，更換床上用品的頻率沒有那麼高。但為了搶佔市場，公司在品牌力、運營力、渠道、產品、服務、內容等多維度做努力，多維度增強產品的競爭力。”夢潔股份方面回應記者。 (中證金牛座)
+
+---
+
+### 2026-06-25 21:38:11  #Trading Economics #Markets #Commodity #Importance 1
+
+Baltic Dry Index at Over 2-Month Low — The Baltic Exchange's dry bulk freight index, which monitors rates for ships carrying dry bulk commodities, declined for the fourth session on Thursday, falling about 1.6% to its lowest since April 17 at 2,591 points. The capesize index, which typically transports 150,000-ton cargoes including iron ore and coal, slumped by 3.1% to 3,827 points; and the supramax index went down by 0.9% to its lowest since June 15 at 1,678 points. Conversely, the panamax index, which tracks vessels carrying around 60,000 to 70,000 tons of coal or grain, rose by 1.2% to 2,096 points.
+
+---
+
+### 2026-06-25 21:38:01  #其他
+
+美銀全球研究將美光科技目標價從1500美元上調至1550美元。
+
+---
+
+### 2026-06-25 21:37:34  #公司 #焦點
+
+美光科技盤初漲幅擴大至超19%，公司市值首次超過Meta Platforms。
+
+---
+
+### 2026-06-25 21:36:11  #MKT News #Important #Market Themes #Chip Wars #Magnificent 7 #Star Stocks #Meta Platforms #MU.O #Impact bullish #META.O
+
+Micron Technology (MU.O) early trading gains widened to more than 19%, lifting its market capitalization above Meta Platforms (META.O) for the first time after Micron issued forward guidance above expectations.
 
 ---
 
@@ -22709,199 +22955,5 @@ Silver is down by 5.04% — Silver decreased 5.04% to 58.45 USD/t.oz
 ### 2026-06-24 20:58:21  #MKT News #Important #Commodities #Precious Metals
 
 Spot palladium fell 4.00% intraday to $1,179.32/oz.
-
----
-
-### 2026-06-24 20:58:17  #市場 #央行 #國際
-
-【分析：英鎊兌美元下跌，受英國央行與美聯儲政策分化影響】LMAX Group的Joel Kruger在一份報告中表示，受英國央行與美聯儲之間不斷擴大的政策分化推動，英鎊兌美元跌至七個月低點。他說，在上週該央行的會議之後，市場對美聯儲將在今年晚些時候加息的預期大幅升溫。“這種對利率預期的轉變，加上富有韌性的美國資料以及對美元揮之不去的需求，繼續成為英鎊面臨的主要阻力。”儘管如此，在最近的交易時段中，英鎊的表現仍好於一些其他貨幣。他說，這表明在英國首相基爾·斯塔默週一宣佈辭職之前，政治風險之前就已經反映在價格中了。英鎊最低跌至1.3139美元。
-
----
-
-### 2026-06-24 20:58:04  #Trading Economics #Markets #commodity #Importance 0
-
-Palladium is down by 5.02% — Palladium decreased 5.02% to 1181.5 USD/t.oz
-
----
-
-### 2026-06-24 20:57:55  #市場
-
-鈀金期貨日內跌5%，現報1180.78美元/盎司。
-
----
-
-### 2026-06-24 20:57:03  #其他
-
-巴基斯坦總理辦公室：巴基斯坦總理穆罕默德・夏巴茲・謝里夫今日下午接到卡達埃米爾謝赫・塔米姆・本・哈馬德・阿勒薩尼殿下的來電。總理感謝卡達埃米爾殿下始終堅定支援和平斡旋工作。此次和平談判得以落地，離不開賽義德・阿西姆・穆尼爾元帥的不懈奔走，卡達等兄弟國家也發揮了關鍵作用。
-
----
-
-### 2026-06-24 20:55:34  #其他
-
-知情人士稱，派拉蒙願意拿出整改方案，以解決監管層對其與環球影業合資專案的擔憂。
-
----
-
-### 2026-06-24 20:54:53  #市場
-
-【SpaceX美股盤前跌超2%】SpaceX美股盤前跌超2%，現報152.93美元。
-
----
-
-### 2026-06-24 20:53:04  #Trading Economics #Economy #United States #Government Bond 10Y #Importance 1
-
-Treasury Yields Fall for 2nd Session — The yield on the US 10-year Treasury note fell for a 2nd consecutive session to 4.45% on Wednesday as easing tensions in the Middle East helped drive oil prices lower and alleviated concerns about inflationary pressures. Brent retreated to levels seen before the US-Iran conflict amid signs of improving tanker transit through the Strait of Hormuz. Adding to the positive sentiment, President Trump said in a Truth Social post that Iran had informed the US that no tolls, insurance fees, or other charges would be imposed on vessels passing through the strategic waterway. Investors are now turning their attention to the upcoming PCE inflation report, the Fed's preferred measure of inflation, for further clues on the outlook for prices and monetary policy. Meanwhile, the Fed's hawkish tone last week has led markets to increase expectations for interest-rate hikes this year. Traders currently assign a roughly 68% probability that rates will be increased in September, up from 29% a week ago.
-
----
-
-### 2026-06-24 20:52:27  #其他
-
-SILVER BOW MINING 被納入羅素3000指數及微型股指數。
-
----
-
-### 2026-06-24 20:52:25  #MKT News #Important #Commodities #Precious Metals #XAUUSD #Impact bearish
-
-【Spot gold breaks below $4,000/oz】Spot gold fell below $4,000/oz for the first time since November last year, about $1,600 below this year’s record high of $5,596/oz.
-
----
-
-### 2026-06-24 20:52:15  #市場
-
-現貨黃金自2025年11月以來首次跌破每盎司4000美元。
-
----
-
-### 2026-06-24 20:52:03  #市場 #焦點
-
-現貨黃金失守4000美元/盎司，日內跌2.68%。
-
----
-
-### 2026-06-24 20:51:53  #宏觀
-
-【陝西：聚焦光伏、鋰電池等“內卷式”競爭高發領域 依法開展調查處置、行政約談】陝西釋出“十嚴禁”“十倡導”指引。其中提出，嚴禁經營者無正當理由以低於成本價格銷售商品、提供服務；平臺不得藉助演算法限制、流量約束、店鋪下架、拖欠款項、規則施壓等方式，逼迫入駐商戶虧本經營；經營者不得以排擠競爭對手為目的實施低價傾銷，擾亂正常市場價格秩序。各級市場監管部門將聚焦平臺經濟、光伏、鋰電池、新能源汽車、民生消費等“內卷式”競爭高發領域，針對法定禁止的違法行為依法開展調查處置、行政約談。支援行業協會完善自律規範體系，引導經營主體對照合規指引規範經營。
-
----
-
-### 2026-06-24 20:51:12  #MKT News #AF.PA #Impact bearish
-
-Air France said it will suspend flights to and from Tel Aviv through June 30, and to and from Beirut and Dubai through July 5.
-
----
-
-### 2026-06-24 20:50:55  #其他
-
-法航：往返特拉維夫的航班停飛延長至6月30日，往返貝魯特、迪拜的航班停飛延長至7月5日。
-
----
-
-### 2026-06-24 20:50:26  #國際
-
-印度政府：印度貿易部長將於6月25日至27日訪問英國，為貿易協定生效做前置準備。
-
----
-
-### 2026-06-24 20:50:22  #宏觀 #兩會
-
-【趙樂際同全國人大常委會會議列席代表座談時強調 深入學習貫徹習近平法治思想 在法治宣傳教育中積極發揮代表作用】中共中央政治局常委、全國人大常委會委員長趙樂際24日下午同列席十四屆全國人大常委會第二十三次會議的全國人大代表座談交流。他強調，人大代表要深入學習宣傳貫徹習近平法治思想，結合本職工作和履職實際，參與法治實踐、弘揚法治精神、傳播法律知識，在法治宣傳教育中積極發揮作用。座談會上，代表們結合審議關於“八五”普法決議實施情況的報告，圍繞加強法治宣傳教育、增強全民法治觀念作了發言，提出意見建議。趙樂際認真傾聽，和代表深入交流。他說，法治宣傳教育是全面依法治國的長期基礎性工作。在黨的領導下，我國連續制定實施8個五年普法規劃，有力促進了全體公民法治素養和社會治理法治化水平的提升。（新華社）
-
----
-
-### 2026-06-24 20:50:16  #MKT News #Market Regions #Europe & UK
-
-India's Press Information Bureau said Commerce Minister Goyal will visit the UK from June 25 to 27.
-
----
-
-### 2026-06-24 20:49:50  #公司
-
-【Meta與微軟領跑 帶動資料中心租賃承諾突破8500億美元】Meta Platforms和微軟公司在各自最近的財季中，分別承諾了數百億美元的額外資料中心租賃支出，進一步推高了整個行業在AI領域的投入規模。這些承諾推動大型雲端計算公司未來的資料中心租賃承諾總額超過8500億美元。據對監管檔案的分析，隨著科技巨頭競相擴建伺服器叢集，這些租賃承諾的金額在過去一年中持續攀升。這些未來的租賃成本是在現有租賃合同之外追加的，在公司開始實際付款之前，不會體現在資產負債表上。雖然這些租賃承諾通常針對資料中心，但也可能涵蓋辦公室或倉庫等設施。部分租賃合同包含特定條款，允許公司在滿足一定條件時解除未來的履約義務。
-
----
-
-### 2026-06-24 20:49:48  #市場 #焦點
-
-紐約期金失守4020美元/盎司，日內跌3.15%。
-
----
-
-### 2026-06-24 20:48:46  #公司
-
-【梅賽德斯-賓士文化中心啟動冠名權全球招商】6月24日，在“東方明珠璀璨夜”活動上，東方明珠安舒茨文化體育發展（上海）有限公司宣佈，啟動梅賽德斯-賓士文化中心全新長期戰略合作伙伴的全球招募工作。據悉，歷經17年合作，梅賽德斯-賓士文化中心現有場館冠名權協議將於2027年年中正式到期。自2010年開業以來，梅賽德斯-賓士文化中心已舉辦超千場高品質演藝及體育賽事活動，雲集周杰倫、劉德華、泰勒·斯威夫特、滾石樂隊、賈斯汀·比伯等海內外頂級藝人演出，同時承辦NBA中國賽等重磅體育賽事，累計接待觀眾規模穩居國內同類場館前列，持續引領區域文旅消費熱潮。（上證報）
-
----
-
-### 2026-06-24 20:48:08  #國際
-
-沙特公共投資基金擬 550 億美元收購藝電，正申請歐盟補貼審批。
-
----
-
-### 2026-06-24 20:46:36  #焦點 #國際
-
-【伊朗談判代表：美伊協議是“美國的戰敗宣言”】據法新社6月24日報道，伊朗談判團隊負責人卡利巴夫24日表示，美國同伊朗旨在結束中東戰爭的諒解備忘錄是“美國的戰敗宣言”。 卡利巴夫在亞塞拜然一場會議上發言時說：“伊斯蘭堡諒解備忘錄並非壓力和脅迫之下的產物，而是英勇的伊朗抗爭與威望造就的結果。” 他說：“正因如此，伊斯蘭堡諒解備忘錄才成為了美國的戰敗宣言。” 卡利巴夫還稱，中東地區的安全必須由區域內各國自主保障。（參考訊息）
-
----
-
-### 2026-06-24 20:46:14  #公司
-
-禮來完成對森泰薩製藥公司的收購。
-
----
-
-### 2026-06-24 20:45:15  #國際
-
-6月24日全球資金淨賣出印度股票184億印度盧比。
-
----
-
-### 2026-06-24 20:44:36  #其他
-
-【我國成功研製全球首款可產生百萬級原子光鑷陣列的超表面晶片】上海本土企業璇相科技近日成功研製全球首款可產生百萬級原子光鑷陣列的超表面晶片，突破了長期制約中性原子量子計算規模化擴充套件的核心光學瓶頸，為邁向百萬位元量級通用容錯量子計算補齊前置硬體能力。
-
----
-
-### 2026-06-24 20:44:25  #宏觀 #焦點 #兩會
-
-【十四屆全國人大常委會第二十三次會議舉行聯組會議 審議國務院關於建設全國統一大市場工作情況的報告並開展專題詢問 趙樂際出席】十四屆全國人大常委會第二十三次會議24日上午在北京人民大會堂舉行聯組會議，審議國務院關於建設全國統一大市場工作情況的報告並開展專題詢問。趙樂際委員長出席會議。
-
-肖捷副委員長主持會議。10位全國人大常委會委員、專門委員會委員和全國人大代表等與會同志，圍繞建設全國統一大市場的目標和進展、健全完善公平競爭審查制度、當前全國統一大市場建設存在的問題與下一步舉措、行政執法標準的跨區域協調銜接、規範地方財政補貼政策、規範地方招商引資行為、完善全國統一電力市場體系、加強平臺經濟監管、加強交通運輸服務保障等問題提出詢問。
-
-國務院副總理張國清，國家發展改革委、工業和資訊化部、財政部、交通運輸部、商務部、市場監管總局等部門負責同志到會聽取意見、回答詢問。
-
-張國清表示，在以習近平同志為核心的黨中央堅強領導下，全國統一大市場建設取得積極成效和重要進展。國務院及各有關部門將深入貫徹習近平總書記關於縱深推進全國統一大市場建設的重要論述，按照“五統一、一開放”的基本要求，加快制定全國統一大市場建設條例，完善統計、財稅、考核等制度，推進市場設施高標準聯通，推進技術、資料等重點領域市場統一，提高監管執法標準化規範化水平，為構建新發展格局、推動高質量發展提供有力支撐。
-
-肖捷表示，建設全國統一大市場，是以習近平同志為核心的黨中央從全域性和戰略高度作出的重大決策，是構建新發展格局的基礎支撐和內在要求。習近平總書記提出“五統一、一開放”的基本要求和“六個著力”重點任務，要紮實抓好貫徹落實。此次專題詢問聚焦突出問題，反映了人民群眾的普遍關切關注。國務院及有關部門要認真研究處理審議和專題詢問提出的意見建議，依法向全國人大常委會提出研究處理情況的報告。全國人大財經委要跟蹤監督。（新華社）
-
----
-
-### 2026-06-24 20:44:13  #MKT News #Important
-
-The 23rd session of the 14th National People's Congress Standing Committee convened a joint meeting on the morning of the 24th in Beijing to review the State Council's report on building a national unified market and to carry out a special inquiry.
-
----
-
-### 2026-06-24 20:43:50  #公司
-
-【富創精密：股東泰州祥浦減持股份 持股比例降至10%】富創精密公告稱，股東泰州祥浦創業投資基金合夥企業（有限合夥）於2026年3月25日至6月24日期間，透過詢價轉讓、集中競價和大宗交易方式合計減持1023.2584萬股，佔公司總股本的3.34%。其持股比例從13.34%降至10.00%，觸及5%的整數倍標準。本次權益變動不會觸及要約收購，也不會導致公司實際控制人發生變化。截至公告披露日，減持計劃尚未實施完畢。
-
----
-
-### 2026-06-24 20:41:37  #MKT News #EURUSD #Impact bullish #DAX
-
-German Chancellor Merz said he hopes to submit a pension reform bill to parliament for review before year-end.
-
----
-
-### 2026-06-24 20:41:36  #公司 #市場 #央行 #國際
-
-【美國期指企穩之際，比特幣走勢平穩】在對AI泡沫的擔憂引發科技股連續兩日遭到拋售後，隨著美國期指企穩，比特幣走勢平穩。Trade Nation的David Morrison在一份報告中表示，美光科技在美國股市收盤後公佈的季度業績備受關注。“許多利好因素已經反映在該股的預期中，因此存在令人失望的空間。”不過他表示，一些樂觀的業績展望可能足以提振美光和晶片板塊。與此同時他表示，美聯儲加息的前景給科技股帶來了阻力，因為這將使透過發行債券為AI基礎設施支出融資的成本更高。倫敦證券交易所集團的資料顯示，比特幣平盤報62,380美元，週二曾觸及61,921美元的12天低點。
-
----
-
-### 2026-06-24 20:41:16  #MKT News #Macro & Rates #US Economy
-
-【US Q1 current account deficit widens; goods deficit narrows, primary income flips to deficit】US current account deficit widened to $226.8 bln in Q1, up $5.8 bln (2.6%) from a revised $221.1 bln in Q4, and rose to 2.9% of GDP from 2.8%. The increase was not trade-driven: the goods trade deficit narrowed and goods and services exports jumped $50 bln to $1.38 tln. The main drag was primary (investment) income, which swung from a Q4 surplus to a Q1 deficit, signalling changes in relative returns between US residents’ foreign assets and foreigners’ US assets and higher financing costs for an increasingly imbalanced international balance sheet. Annual revisions were large: Q4’s deficit was revised from an initial -$190.7 bln to -$221.1 bln, and the net international investment position was adjusted by nearly $6 tln.
 
 ---
