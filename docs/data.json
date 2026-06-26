@@ -1,7 +1,208 @@
 {
-  "updated": "2026-06-26 15:57:56",
-  "count": 17406,
+  "updated": "2026-06-26 16:02:07",
+  "count": 17411,
   "items": [
+    {
+      "id": "mkt:019f02f2-afa1-7dd8-b132-1fab2bb4c229",
+      "time": "2026-06-26 16:01:26",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "ECB expects income growth of 1.0% over the next year, up from a prior forecast of 0.8%."
+    },
+    {
+      "id": "4956805",
+      "time": "2026-06-26 16:01:16",
+      "tags": [
+        "市場"
+      ],
+      "text": "WTI原油日內跌3%，現報69.76美元/桶。"
+    },
+    {
+      "id": "4956804",
+      "time": "2026-06-26 16:01:10",
+      "tags": [
+        "市場"
+      ],
+      "text": "美股盤前，半導體股普跌，美光科技跌約4%，AMD跌約2%，英特爾跌約3%，希捷科技跌約3%。"
+    },
+    {
+      "id": "mkt:019f02f2-64bd-7dd8-b132-1527e488597f",
+      "time": "2026-06-26 16:01:07",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "EURUSD",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "Euro-area May ECB 1-year-ahead inflation expectations 3.5% (survey 3.9%, prior 4.0%)."
+    },
+    {
+      "id": "mkt:019f02f2-57ef-7dd8-b132-0813e6c3b468",
+      "time": "2026-06-26 16:01:04",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Industrial Metals",
+        "Copper",
+        "Impact bullish",
+        "Nickel",
+        "Aluminum"
+      ],
+      "text": "LME inventories fell: copper down 2,625 tonnes, aluminum down 1,500 tonnes, zinc down 1,100 tonnes, lead down 1,075 tonnes, tin down 35 tonnes, nickel down 24 tonnes."
+    },
+    {
+      "id": "4956803",
+      "time": "2026-06-26 16:01:03",
+      "tags": [
+        "其他"
+      ],
+      "text": "倫敦金屬交易所(LME)：鎳庫存減少24噸，鉛庫存減少1075噸，銅庫存減少2625噸，鋁庫存減少1500噸，鋅庫存減少1100噸，錫庫存減少35噸。"
+    },
+    {
+      "id": "mkt:019f02f2-45c2-7dd8-b132-02e92db72b81",
+      "time": "2026-06-26 16:00:59",
+      "tags": [
+        "MKT News",
+        "EURUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "Euro area May ECB 3‑year CPI expectation 2.9% vs 2.80% forecast, prior 2.90%."
+    },
+    {
+      "id": "mkt:019f02f2-229b-7dd8-b131-f8475d4442f5",
+      "time": "2026-06-26 16:00:50",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "【Analyst: Official buying and supply bottlenecks provide structural support for precious metals】As of end-June, FxEmpire analyst Arslan Ali says two forces are providing structural support for precious metals: ongoing official buying and tight new-mine supply. Central banks have been diversifying reserves and increasing gold holdings to hedge high public debt and shifting monetary-policy risk, creating a relatively independent, persistent source of demand. New-mine output for gold and silver remains constrained: gold production has not meaningfully increased since its prior peak due to aging mines and rising extraction costs; silver faces similar supply pressure but is partially offset by byproduct output from other metals. On the demand side, silver’s industrial use remains strong—notably in photovoltaic (PV), electronics and electric-vehicle (EV) manufacturing—reinforcing structural upside amid the energy transition; silver also retains monetary-asset attributes. Investor demand from ETFs and physical holdings provides an additional stable base for both metals."
+    },
+    {
+      "id": "4956802",
+      "time": "2026-06-26 16:00:38",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "土耳其央行透過傳統方式開展4噸規模一週期金換里拉賣方互換拍賣。"
+    },
+    {
+      "id": "4956801",
+      "time": "2026-06-26 16:00:36",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國標普500迷你股指期貨下跌0.2%，納斯達克100股指期貨下跌0.7%，道瓊斯股指期貨上漲0.2%。"
+    },
+    {
+      "id": "4956800",
+      "time": "2026-06-26 16:00:14",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行消費者預期調查：消費者對GDP增長前景的悲觀情緒有所緩和。"
+    },
+    {
+      "id": "te:markets:562170",
+      "time": "2026-06-26 16:00:07",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Energy Commodities Updates: Crude Oil WTI Falls by 2.92% — Top commodity losers are Crude Oil WTI (-2.92%), Brent Crude Oil (-2.81%) and Heating Oil (-2.65%). Gains are led by Natural gas (0.95%)."
+    },
+    {
+      "id": "4956799",
+      "time": "2026-06-26 15:59:52",
+      "tags": [
+        "央行",
+        "市場",
+        "觀點",
+        "國際"
+      ],
+      "text": "【分析師：金價或在當前區間震盪十年 黃金一生難遇拋售視窗已過】近日，彭博首席大宗商品分析師邁克·麥格隆（Mike McGlone）在接受《商品文化》節目訪談時指出，長期金價最終仍會走高，但2026年1至2月創下的歷史高點是一生難得一遇的拋售視窗，當下黃金估值、市場相關性、波動率等指標都出現危險訊號。他指出，眼下黃金完全淪為美股的“傀儡資產”，所有貴金屬板塊走勢全部繫結美股。“大宗商品全面跟隨美股波動，根源就是美股估值嚴重虛高。美聯儲官員近期持續表態，要嚴防通脹、維持物價穩定，背後隱含的邏輯是：美股大幅下跌就能自動壓制通脹，而美股下行會同步拖累黃金、所有大宗商品走弱。”麥格隆分析說。長期來看，他認為，金價最終肯定會走高，這一點毋庸置疑。但參考歷史走勢，黃金有可能在當前區間震盪十年；若復刻1980年的行情，震盪週期甚至會長達二十年。（中新經緯）"
+    },
+    {
+      "id": "4956798",
+      "time": "2026-06-26 15:59:26",
+      "tags": [
+        "公司"
+      ],
+      "text": "【埃科光電：董事會秘書辭職 聘任新董秘及證券事務代表】埃科光電公告稱，董事會近日收到董事會秘書黃欣楊因個人原因的辭職報告，其於6月26日離職，之後不再擔任公司任何職務。同日，公司召開第二屆董事會第八次會議，同意聘任邢重陽為董事會秘書、張安琪為證券事務代表，任期均至第二屆董事會任期屆滿之日止。"
+    },
+    {
+      "id": "mkt:019f02f0-cc7e-7dd8-b131-f1a3ba63aa4e",
+      "time": "2026-06-26 15:59:23",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【China's domestically developed global marine heatwave forecast product enters operational service】June 26 — The Ministry of Natural Resources’ National Marine Environmental Forecasting Center said its domestically developed global marine heatwave forecast product entered operational service on June 26. Marine heatwaves are defined as sea surface temperatures exceeding the local climatological mean for five consecutive days. The product forecasts onset, evolution and decay, spatial extent and and intensity changes of marine heatwaves worldwide over the coming week, and is intended to improve China’s marine heatwave hazard prediction and emergency response capabilities."
+    },
+    {
+      "id": "4956797",
+      "time": "2026-06-26 15:59:06",
+      "tags": [
+        "央行",
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "【隨著油價下跌，投資者削減對英國央行加息的押注】隨著油價下跌，市場正在降低對英國央行在2026年加息的預期。自美國和伊朗達成和平協議以來，布倫特原油價格已從每桶90美元左右跌至73美元。這一跌勢緩解了對通貨膨脹的擔憂，並降低了英國央行透過加息來應對通脹的需求。倫敦證券交易所集團的資料顯示，投資者預期英國央行12月加息的可能性為78%，低於美伊協議達成前市場充分預期的一次加息。"
+    },
+    {
+      "id": "te:markets:562169",
+      "time": "2026-06-26 15:58:58",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Italy",
+        "Stock Market",
+        "Importance 0"
+      ],
+      "text": "FTSE MIB Trades Lower — The FTSE MIB fell to around 51,200 on Friday, resuming its decline after a modest gain in the previous session, as renewed selling in technology stocks and persistent concerns over elevated AI-related valuations weighed on broader equity markets. Semiconductor maker STMicroelectronics lost more than 2%, while Telecom Italia slipped 0.8%. The broader risk-off mood also pressured financial stocks, including UniCredit (-1%), Intesa Sanpaolo (-1%), Generali (-0.9%), Banco BPM (-1.4%), Mediobanca (-0.9%), BPER Banca (-1.5%), Banca Mediolanum (-1.9%), and Banca Monte dei Paschi di Siena (-1.1%). Meanwhile, energy stocks also came under pressure as oil prices resumed their decline, with Eni (-1.1%), Saipem (-3.4%), Tenaris (-0.5%), and Snam (-0.3%) trading lower. For the week, the benchmark index was on track for its first weekly decline in three weeks."
+    },
+    {
+      "id": "4956796",
+      "time": "2026-06-26 15:58:49",
+      "tags": [
+        "其他"
+      ],
+      "text": "【我國自主研發！“全球海洋熱浪預報產品”正式業務化執行】記者從自然資源部瞭解到，今天（6月26日），由自然資源部國家海洋環境預報中心自主研發的“全球海洋熱浪預報產品”正式投入業務化執行。海洋熱浪是海溫連續5天超出當地常年均值的異常增暖現象。該產品可預報全球海域未來一週海洋熱浪的生消過程、影響範圍及強度變化，可提升我國海洋熱浪災害預判和應急處置能力。（央視新聞）"
+    },
+    {
+      "id": "4956795",
+      "time": "2026-06-26 15:58:20",
+      "tags": [
+        "其他"
+      ],
+      "text": "【法國持續高溫55人溺亡】法國體育部長費拉里今天（6月26日）表示，自本輪熱浪天氣開始以來，法國已有55人因溺水死亡，其中約65%的溺水事故發生在“未經批准開放或無人值守的水域”。法國本輪熱浪已持續多日。法國氣象局資料顯示，法國6月24日全國平均氣溫達到30攝氏度，連續第二天打破紀錄，包括巴黎在內的部分地區最高氣溫超過40攝氏度。儘管本輪高溫峰值已經過去，但法國多地今天仍持續遭遇高溫天氣。（CCTV國際時訊）"
+    },
+    {
+      "id": "mkt:019f02ef-63c6-7dd8-b131-ef0d2adeb157",
+      "time": "2026-06-26 15:57:50",
+      "tags": [
+        "MKT News",
+        "Important",
+        "EURUSD",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "Traders no longer fully expect the ECB to raise rates by 25 bps this year."
+    },
     {
       "id": "4956794",
       "time": "2026-06-26 15:56:42",
@@ -159088,140 +159289,6 @@
         "國際"
       ],
       "text": "【英國國債下跌 伯納姆勝選與油價上漲再度引發財政擔憂】英國政府債券週五下跌，因油價上漲重新引發通脹擔憂，同時大曼徹斯特市長安迪·伯納姆在一場特別選舉中贏得議會席位，加劇了英國的政治不確定性。10年期英國國債收益率上升5個基點至4.81%，表現遜於歐洲同類債券。隨著美國和伊朗推遲就永久和平協議進行談判，以及布倫特原油價格重回每桶80美元上方，全球債券市場承壓。英國長期限債券收益率此前已因伊朗戰爭而被推高，並在伯納姆表示有意競選議員後，在上月觸及1998年以來最高水平。他在英格蘭北部梅克菲爾德選區獲勝，使其得以挑戰首相基爾·斯塔默的領導地位。Peel Hunt首席經濟學家Kallum Pickering表示，這場勝利“在發生前已基本被市場定價消化”。他補充稱，由於議會週五不開會，伯納姆可能將在週一宣誓就職。“今天以及整個週末，我們或許只能猜測任何挑戰將如何展開。”"
-    },
-    {
-      "id": "mkt:019edee6-9506-7dd8-b091-002d12344bf3",
-      "time": "2026-06-19 16:01:53",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Germany's Chancellor MERZ said the EU's current budget proposal is \"too high\"."
-    },
-    {
-      "id": "mkt:019edee6-68de-7dd8-b090-fb89b8635d8d",
-      "time": "2026-06-19 16:01:42",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "LME stocks: copper down 3,575 tonnes, zinc up 2,875 tonnes, lead down 1,375 tonnes, aluminium down 225 tonnes, nickel down 90 tonnes, tin down 50 tonnes."
-    },
-    {
-      "id": "4944893",
-      "time": "2026-06-19 16:01:42",
-      "tags": [
-        "公司"
-      ],
-      "text": "【單日37只 基金髮行重新整理歷史紀錄】在剛過去的一週裡，公募基金髮行再創歷史紀錄。資料顯示，在一天之內，全市場共有37只公募基金成立，是1998年至今單日成立基金的最高值。以此為切入口，券商中國記者進一步統計發現，公募基金史上排名前十的權益基金成立日，集中在2026年和2025年，以及2022年、2021年和2020年，分別對應著A股兩輪結構行情。值得注意的是，和上一輪核心資產行情相比，本輪AI科技行情下的權益基金髮行，出現兩個變化：一是基金公司發行基金的熱情依然高漲，但普遍對規模上限做了約束；二是主動權益基金不再是“一枝獨秀”，ETF等被動權益基金已逐漸成為權益基金中的重要品種，且以科創、半導體、人工智慧等科技成長主題產品居多。受訪人士對券商中國記者表示，2025年至今基金業進入新一輪發展週期。一個重要表現是大力發展權益基金，讓權益基金為市場服務。這不僅表現在權益新發基金的數量方面，也和資本市場科技含量不斷提升這一新趨勢，互為表裡。"
-    },
-    {
-      "id": "4944892",
-      "time": "2026-06-19 16:01:34",
-      "tags": [
-        "其他"
-      ],
-      "text": "倫敦金屬交易所（LME）：鋅庫存增加2875噸，鎳庫存減少90噸，鋁庫存減少225噸，銅庫存減少3575噸，鉛庫存減少1375噸，錫庫存減少50噸。"
-    },
-    {
-      "id": "4944891",
-      "time": "2026-06-19 16:01:21",
-      "tags": [
-        "國際"
-      ],
-      "text": "荷蘭首相：今天別指望就歐盟預算達成協議。"
-    },
-    {
-      "id": "4944890",
-      "time": "2026-06-19 16:01:15",
-      "tags": [
-        "國際"
-      ],
-      "text": "荷蘭首相：目前的歐盟預算提案還不夠好。"
-    },
-    {
-      "id": "4944889",
-      "time": "2026-06-19 16:01:08",
-      "tags": [
-        "國際"
-      ],
-      "text": "以色列內政部長：在中東，靠剋制反應和包容是贏不了的。必須“瘋狂”，必須“徹底抹除”，必須“徹底擊垮”。"
-    },
-    {
-      "id": "4944888",
-      "time": "2026-06-19 16:00:08",
-      "tags": [
-        "市場",
-        "焦點",
-        "國際"
-      ],
-      "text": "【提醒：美股6月19日因六月節休市一日】由於6月19日（週五）為美國六月節，美股休市一天。芝商所旗下貴金屬、美國原油、外匯、股指、美債期貨合約交易提前於北京時間20日01:00結束。洲際交易所（ICE）旗下布倫特原油期貨合約交易提前於北京時間20日01：30結束。"
-    },
-    {
-      "id": "te:markets:560423",
-      "time": "2026-06-19 16:00:06",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Energy Commodities Updates: Natural Gas UK Gains by 4.04% — Top commodity gainers are Natural Gas UK (4.04%), Natural Gas EU (3.79%), Crude Oil WTI (1.27%) and Brent Crude Oil (0.34%). Biggest loser is Natural gas (-1.01%)."
-    },
-    {
-      "id": "em:qqyh_rbyh:202606193776846693",
-      "time": "2026-06-19 15:59:06",
-      "tags": [
-        "央行",
-        "日本央行"
-      ],
-      "text": "【日本經濟專家：加息難以扭轉日元貶值趨勢】日本央行近日宣佈將政策利率自0.75%上調至1.0%，為31年來最高水平。日本經濟專家認為，目前日元貶值趨勢不會因為日本央行加息就發生根本改變。"
-    },
-    {
-      "id": "4944887",
-      "time": "2026-06-19 15:58:59",
-      "tags": [
-        "國際"
-      ],
-      "text": "德國總理默茨：希望今年能參與歐盟預算決策。"
-    },
-    {
-      "id": "mkt:019edee3-eb52-7dd8-b090-f01568bf1a3a",
-      "time": "2026-06-19 15:58:59",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "XAUUSD",
-        "DXY"
-      ],
-      "text": "Israel's interior minister Ben‑Gvir said Israel must make clear to the world that the security of its citizens is not a joke, regardless of how much it respects the United States, and said the whole of Lebanon should be burned. He said protecting Israeli civilians and IDF soldiers is the government's primary duty and takes priority over other considerations."
-    },
-    {
-      "id": "4944886",
-      "time": "2026-06-19 15:58:52",
-      "tags": [
-        "國際"
-      ],
-      "text": "德國總理默茨：歐盟目前的預算提案“太高了”。"
-    },
-    {
-      "id": "4944885",
-      "time": "2026-06-19 15:58:34",
-      "tags": [
-        "國際"
-      ],
-      "text": "【俄堪察加地震後海嘯預警釋出】俄羅斯緊急情況部堪察加邊疆區總局今天（6月19日）通報稱，堪察加沿岸連續兩次地震後，海嘯中心釋出預警——海嘯波浪可能於當地時間19:29至19:53（北京時間15:29至15:53）抵達堪察加彼得羅巴甫洛夫斯克市、烏斯季-堪察加茨克鎮和尼科利斯科耶村沿岸，波高0.06至0.38米。（CCTV國際時訊）"
-    },
-    {
-      "id": "te:markets:560422",
-      "time": "2026-06-19 15:58:04",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Italy",
-        "Stock Market",
-        "Importance 0"
-      ],
-      "text": "FTSE MIB Extends Record Rally — The FTSE MIB climbed past the 53,000 level on Friday, extending its record-breaking rally and remaining on track for a second weekly advance. Market attention remained on developments in the Middle East, as fresh uncertainty emerged after planned follow-up talks in Switzerland were cancelled, highlighting the difficulties in translating the agreement into a lasting peace settlement. This pushed oil prices modestly higher and supported a rebound in energy-related stocks, including Eni (+1.7%), Tenaris (+1.6%), and defence stock Leonardo (+2.5%). Auto stocks also advanced, with Ferrari (+0.9%) and Stellantis (+1.7%) gaining. Elsewhere, Prysmian climbed more than 4%, while Poste Italiane rose over 2%. On the downside, losses were seen in Infrastrutture Wireless (-1.2%) and Avio (-1.2%)."
     }
   ]
 }
