@@ -1,7 +1,61 @@
 {
-  "updated": "2026-06-26 14:14:17",
-  "count": 17251,
+  "updated": "2026-06-26 14:18:18",
+  "count": 17256,
   "items": [
+    {
+      "id": "4956573",
+      "time": "2026-06-26 14:17:04",
+      "tags": [
+        "公司",
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "【法興銀行：德國國債收益率及對歐洲央行預期的降溫反映出對中東局勢的樂觀情緒】法國興業銀行利率策略師在一份報告中寫道，德國國債收益率走低以及市場對歐洲央行加息預期的降溫，反映出對中東局勢正常化的樂觀情緒。他們表示，這“更多是因為市場關注中東衝突的正常化，而不是基本面發生了變化“。這些策略師表示，市場的關鍵晴雨表是原油價格，布倫特原油價格為每桶74美元，比6月11日歐洲央行上次會議時低了20%以上。倫敦證券交易所集團的資料顯示，貨幣市場目前反映出略多於一次加息的預期。歐洲央行在上次會議上加息25個基點。"
+    },
+    {
+      "id": "4956572",
+      "time": "2026-06-26 14:15:43",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【跨境清算公司北京分公司與工行北京分行簽署《推動跨境人民幣發展合作備忘錄》】據跨境清算公司訊息，6月23日，在第四屆中國國際供應鏈促進博覽會現場，跨境銀行間支付清算有限責任公司北京分公司（簡稱“CIPS北京分公司”）與中國工商銀行北京市分行（簡稱“工行北京分行”）簽署《推動跨境人民幣發展合作備忘錄》。工行北京分行是首家與CIPS北京分公司達成跨境人民幣業務戰略合作的銀行機構。"
+    },
+    {
+      "id": "mkt:019f0291-4737-7dd8-b12e-d45c29aeb88d",
+      "time": "2026-06-26 14:15:03",
+      "tags": [
+        "MKT News",
+        "CNH",
+        "Impact bullish"
+      ],
+      "text": "Indonesia's finance minister said the government will issue yuan-denominated panda bonds at end-July to tap additional investor demand."
+    },
+    {
+      "id": "4956571",
+      "time": "2026-06-26 14:14:45",
+      "tags": [
+        "公司"
+      ],
+      "text": "A股金融股震盪走低，財富趨勢、大智慧、金證股份跌超8%，同花順、國盛證券、華林證券、新華保險跌超5%。"
+    },
+    {
+      "id": "4956570",
+      "time": "2026-06-26 14:13:57",
+      "tags": [
+        "國際"
+      ],
+      "text": "印尼將熊貓債券發行計劃推遲至7月底。"
+    },
+    {
+      "id": "4956569",
+      "time": "2026-06-26 14:13:47",
+      "tags": [
+        "公司"
+      ],
+      "text": "【抖音打擊旅遊違規經營 二季度下架1.8萬個低價遊商品】近日，抖音生活服務公示旅遊行業違規經營專項治理階段性成果。今年二季度，針對低價遊、無資質招徠和強制購物等違規行為，平臺下架1.8萬個不合理低價遊商品，處置3.8萬條宣傳低價遊影片、5.5萬場違規招徠直播，封禁8495個違規招徠創作者的直播許可權，處置285個有購物違規行為的商家。"
+    },
     {
       "id": "4956568",
       "time": "2026-06-26 14:13:14",
@@ -157802,18 +157856,6 @@
         "其他"
       ],
       "text": "Claude： 正在排查Claude Opus 4.8版本報錯激增問題。"
-    },
-    {
-      "id": "te:economy:560349",
-      "time": "2026-06-19 14:17:17",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "United Kingdom",
-        "Government Budget Value",
-        "Importance 1"
-      ],
-      "text": "UK Public Borrowing Highest for Any May in 6 years — UK public sector net borrowing (excluding public sector banks) widened to £23.3 billion in May 2026 from £17.9 billion in the same month last year, above market expectations of £18.5 billion. This was the second highest borrowing in any May on record, behind that of 2020. Public sector spending increased by £9.1 billion to £118.0 billion, driven by higher debt interest payments, public service delivery costs, investment, and benefit spending. Central government debt interest costs were the highest ever recorded for the month of May. Meanwhile, public sector receipts rose by £3.7 billion to £94.8 billion, supported by higher tax receipts. However, growth in National Insurance contributions slowed compared with recent trends, as the year-on-year boost from the April 2025 policy changes no longer contributed. Public sector net debt excluding public sector banks was equivalent to 95.1% of GDP at the end of May, up 0.4 ppts from a year ago."
     }
   ]
 }
