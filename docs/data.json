@@ -1,7 +1,40 @@
 {
-  "updated": "2026-06-27 03:08:50",
-  "count": 18081,
+  "updated": "2026-06-27 03:12:50",
+  "count": 18083,
   "items": [
+    {
+      "id": "mkt:019f0558-f893-7dd8-b13e-36685fc18cd4",
+      "time": "2026-06-27 03:12:24",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Wall Street Journal reports Nissan's U.S. CEO wants to revive the automaker's \"edgy\" image."
+    },
+    {
+      "id": "mkt:019f0558-d9b8-7dd8-b13e-2f8abf57020a",
+      "time": "2026-06-27 03:12:16",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bearish",
+        "WTI",
+        "S&P500",
+        "Impact bullish"
+      ],
+      "text": "【Netanyahu: IDF to remain in southern Lebanon \"security zone\" until Hezbollah disarms】In a televised address on the evening of the 26th, Israeli Prime Minister Netanyahu said representatives of Israel, Lebanon and the US signed a working-framework agreement in Washington. He said the Israel Defense Forces will remain long-term in a southern Lebanon \"security zone\" until Hezbollah is fully disarmed and no longer poses a threat to Israel. Netanyahu described the accord as a major achievement and a heavy blow to Iran, saying Tehran had sought to force an IDF withdrawal but Israel and the US have signaled that Iran, Hezbollah and other armed groups have no foothold in Lebanese affairs."
+    },
+    {
+      "id": "mkt:019f0558-4c64-7dd8-b13e-2373e98766c2",
+      "time": "2026-06-27 03:11:40",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "Hang Seng Index",
+        "Impact bullish"
+      ],
+      "text": "Hang Seng Index futures night session closed up 0.99% at 22,874, trading a 202-point premium to the cash index."
+    },
     {
       "id": "4957933",
       "time": "2026-06-27 03:07:15",
@@ -165339,14 +165372,6 @@
         "國際"
       ],
       "text": "【特朗普承認伊朗相關衝突的解決程序更為漫長】據報道，特朗普總統週四在節目中表示，美國若對古巴採取軍事行動，有可能復刻今年 1 月快速拿下委內瑞拉總統尼古拉斯・馬杜羅的戰果。特朗普同時承認，伊朗相關衝突的解決程序更為漫長，原因是伊朗軍事實力更強，且地理位置遙遠。他表示古巴更容易被美方壓制。記者詢問，針對古巴的行動是否會和委內瑞拉行動流程相似，特朗普答覆：“有可能，完全存在這種可能性。”“這兩個國家離美國很近。反觀伊朗，路途極其遙遠。我曾數次飛往那一區域，雖說和本次戰事無關，但單程就要飛 18 個小時，路途十分漫長。委內瑞拉距離相對近，古巴更是近在咫尺。”二者另一關鍵區別在於資源儲備。總統補充道：“委內瑞拉擁有石油資源，古巴沒有。古巴只擁有優質土地與優美海岸線。”"
-    },
-    {
-      "id": "4945409",
-      "time": "2026-06-20 03:11:53",
-      "tags": [
-        "其他"
-      ],
-      "text": "星巴克裁減中國香港辦公室約60個崗位、倫敦辦公室約120個崗位。"
     }
   ]
 }
