@@ -1,7 +1,274 @@
 {
-  "updated": "2026-06-26 14:30:31",
-  "count": 17253,
+  "updated": "2026-06-26 14:40:33",
+  "count": 17268,
   "items": [
+    {
+      "id": "4956606",
+      "time": "2026-06-26 14:39:37",
+      "tags": [
+        "公司"
+      ],
+      "text": "【吉利等在四川成立新科技公司 註冊資本3.81億】天眼查App顯示，近日，吉利科技（四川）有限公司成立，法定代表人為徐志豪，註冊資本3.81億人民幣，經營範圍包括工程和技術研究和試驗發展、企業總部管理、企業管理諮詢等。股東資訊顯示，該公司由寧波銳馬企業管理合夥企業（有限合夥）、浙江濟底科技有限公司共同持股。"
+    },
+    {
+      "id": "mkt:019f02a7-8b77-7dd8-b12f-5d0d9a78da2c",
+      "time": "2026-06-26 14:39:22",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Kim Keon-hee sentenced to seven years in 'selling offices' bribery case】On June 26 the Seoul Central District Court handed a first‑instance sentence of seven years to Kim Keon‑hee, wife of former South Korean president Yoon Suk‑yeol, after convicting her of using influence to accept high‑value gifts and sell public offices."
+    },
+    {
+      "id": "4956605",
+      "time": "2026-06-26 14:38:57",
+      "tags": [
+        "國際"
+      ],
+      "text": "【金建希涉嫌“賣官鬻爵”案一審宣判 獲刑7年】當地時間6月26日，韓國首爾中央地方法院就前總統尹錫悅夫人金建希涉嫌利用影響力收受高價禮品賄賂進行“賣官鬻爵”一案一審宣判，金建希獲刑7年。（央視新聞）"
+    },
+    {
+      "id": "4956604",
+      "time": "2026-06-26 14:36:37",
+      "tags": [
+        "其他"
+      ],
+      "text": "【中國民航局副局長鬍振江會見霍尼韋爾航空航天商業售後市場全球總裁】中國民用航空局副局長鬍振江6月26日在京會見霍尼韋爾航空航天商業售後市場全球總裁安東尼·弗洛裡安，雙方就霍尼韋爾航空航天在華業務發展、加強與中國民航業界合作等議題交換意見。"
+    },
+    {
+      "id": "mkt:019f02a4-9e1d-7dd8-b12f-51b5b28574ed",
+      "time": "2026-06-26 14:36:10",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "HON.O"
+      ],
+      "text": "【CAAC deputy director meets Honeywell Aerospace global commercial-aftermarket president】June 26 — Hu Zhenjiang, deputy director of the Civil Aviation Administration of China (CAAC), met in Beijing with Anthony Florian, global president of Honeywell Aerospace’s commercial aftermarket. They discussed Honeywell’s business development in China and steps to deepen cooperation with China’s civil aviation sector."
+    },
+    {
+      "id": "mkt:019f02a3-e85b-7dd8-b12f-4fbf275782b5",
+      "time": "2026-06-26 14:35:23",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "【Hongchuan Zhisuan delivers enterprise DDR5 modules to leading Chinese GPU designer】Hongchuan Smart’s unit Hongchuan Zhisuan has delivered a batch of enterprise-grade DDR5 memory modules to a leading Chinese GPU design firm for server validation of its AI compute chips and build-out of compute centers. The shipment is among the first major orders since Hongchuan Zhisuan received official distributor authorization from Changxing Semiconductor in May 2026, marking a substantive step in supply-chain coordination between China’s high-end memory makers and domestic GPU chip designers."
+    },
+    {
+      "id": "mkt:019f02a3-9ad4-7dd8-b12f-431bdd79a6fe",
+      "time": "2026-06-26 14:35:04",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Emerging Markets",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "Indonesia finmin said budget savings from a free-meals program and weaker global oil prices give more room to keep the 2026 fiscal deficit below 3% of GDP."
+    },
+    {
+      "id": "mkt:019f02a3-578a-7dd8-b12f-3a267f21bbda",
+      "time": "2026-06-26 14:34:46",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "South Korea's KOSPI index fell 7.1% on the week, marking its largest weekly decline since early March."
+    },
+    {
+      "id": "4956601",
+      "time": "2026-06-26 14:34:34",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "印度尼西亞財政部長：免費餐食計劃的預算最佳化疊加全球油價走低，為2026年將財政赤字維持在GDP的3%以下預留了更大空間。"
+    },
+    {
+      "id": "4956600",
+      "time": "2026-06-26 14:34:32",
+      "tags": [
+        "其他"
+      ],
+      "text": "首爾股市綜合指數（KOSPI）本週收跌7.1%，創3月初以來最大單週跌幅。"
+    },
+    {
+      "id": "4956599",
+      "time": "2026-06-26 14:34:27",
+      "tags": [
+        "公司"
+      ],
+      "text": "【宏川智算：與長興半導體打通算力儲存供應鏈，DDR5記憶體條送達某頭部GPU設計廠商】近日，宏川智慧(002930)子公司宏川智算完成一批企業級DDR5記憶體條交付，已順利送達至國內某頭部GPU設計廠商，用於其AI算力晶片的伺服器驗證與算力中心建設。這是宏川智算自2026年5月獲長興半導體官方代理授權後落地的首批重要訂單之一，標誌著國產高階儲存與國產GPU晶片設計廠商的產業鏈協同邁出實質性一步。為支撐此次合作及後續採購，宏川智算母公司宏川智慧於2026年6月份公告，擬為宏川智算向長興半導體採購記憶體條等產品提供最高1.6億元連帶責任擔保，同時還擬為向燧原科技採購GPU卡及算力伺服器裝置提供最高4億元擔保。憑藉母公司的資本支援和長興半導體的產品優勢，宏川智算有望成為國產算力儲存供應鏈中的關鍵樞紐。"
+    },
+    {
+      "id": "mkt:019f02a3-018f-7dd8-b12f-35daf1331aa8",
+      "time": "2026-06-26 14:34:24",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Australia's S&P/ASX 200 index closed up 13.00 points, or 0.15%, at 8,761.70 on Friday, June 26."
+    },
+    {
+      "id": "4956598",
+      "time": "2026-06-26 14:34:22",
+      "tags": [
+        "其他"
+      ],
+      "text": "【供應鏈合規與爭端預防解決高階別會議成功舉辦】6月24日，在第四屆鏈博會期間，供應鏈合規與爭端預防解決高階別會議在京成功舉辦。中國貿促會會長任鴻斌、“一帶一路”法律服務聯盟主席王俊峰、南亞聯盟工商會主席錢迪·拉傑·達卡爾，亞洲多元爭端解決研究院主席桑德拉·拉銖出席會議開幕式並致辭。任鴻斌表示，當前世界百年變局加速演進，各國工商界對法律風險預防和爭端解決提出新的更高要求。中國貿促會倡議和推動成立國際商事爭端預防與解決組織（ICDPASO），五年來透過預防、調解、仲裁等多元機制，為全球企業維權降險、加強供應鏈合規管理提供有力支撐。期待各界轉化會議共識，強化供應鏈合規管理服務，推動國際商事爭議解決創新發展，積極主動參與全球法治治理，共建法治護航、互聯互通、互利共贏的全球產業鏈供應鏈夥伴關係。（中國貿促）"
+    },
+    {
+      "id": "4956597",
+      "time": "2026-06-26 14:33:52",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【董事長郭銳等入股智界汽車】天眼查 App 顯示，近日，智界汽車關聯公司安徽智界新能源汽車有限公司發生工商變更，新增董事長郭銳名下蕪湖瑞啟股權投資合夥企業（有限合夥）、蕪湖瑞聯股權投資合夥企業（有限合夥）為股東。該公司成立於2025年1月，法定代表人為郭銳，註冊資本10億人民幣，經營範圍包括道路機動車輛生產、貨物進出口等，現由奇瑞汽車股份有限公司及上述新增股東共同持股。"
+    },
+    {
+      "id": "4956596",
+      "time": "2026-06-26 14:33:38",
+      "tags": [
+        "公司"
+      ],
+      "text": "【新東方在西安成立東小甄商貿公司 註冊資本50萬】天眼查App顯示，近日，東小甄（西安）商貿有限公司成立，法定代表人為姚振華，註冊資本50萬人民幣，經營範圍包括日用品銷售、鮮肉批發、水產品批發、新鮮水果批發、食品銷售等。股東資訊顯示，該公司由新東方-S（09901.HK）旗下西安新東方斯林姆教育諮詢有限公司全資持股。"
+    },
+    {
+      "id": "4956595",
+      "time": "2026-06-26 14:32:50",
+      "tags": [
+        "市場"
+      ],
+      "text": "港股智譜(02513.HK)股價跌破2000港元，現跌超14%。"
+    },
+    {
+      "id": "mkt:019f02a1-67bd-7dd8-b12f-2a771c9d6f8a",
+      "time": "2026-06-26 14:32:39",
+      "tags": [
+        "MKT News",
+        "02513.HK",
+        "Impact bearish"
+      ],
+      "text": "Hong Kong-listed Zhipu AI (02513.HK) shares slipped below HK$2,000, currently down more than 14%."
+    },
+    {
+      "id": "4956594",
+      "time": "2026-06-26 14:31:58",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本國際石油開發帝石株式會社（INPEX CORP）：已簽發阿拉伯聯合大公國海上上扎庫姆油田進一步開發專案的工程、採購及施工標段授標。"
+    },
+    {
+      "id": "4956593",
+      "time": "2026-06-26 14:31:52",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【“十五五”電網投資比“十四五”增長30%以上】國務院新聞辦今天舉行新聞釋出會，國家發展改革委黨組成員、國家能源局局長王宏志表示，“十五五”能源規劃中，既有能源生產輸送的大工程，也有體現能源新質生產力的新專案。王宏志介紹，油氣、煤炭、支撐性電源和煤制油氣等，未來投資將保持穩中有升的態勢，五年總投資規模比“十四五”增長10%以上。此外，新能源主體地位將更加突出，佔電源投資的比重進一步提升到接近60%。電網側，建設跨省區輸電通道、省間電力互濟工程、電網主網架、配電網和智慧微電網，讓電力系統韌性更強、資源配置水平更高。“十五五”電網投資比“十四五”增長30%以上。（央視新聞）"
+    },
+    {
+      "id": "mkt:019f02a0-aa73-7dd8-b12f-278ed0e37a92",
+      "time": "2026-06-26 14:31:51",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Seventh meeting of China–South Korea FTA Joint Committee held in Beijing】The seventh Joint Committee on the China–South Korea Free Trade Agreement met in Beijing on June 25. Officials reviewed FTA implementation, noting it has aided bilateral supply‑chain integration and supported economic growth; since the agreement entered into force on Dec. 20, 2015, the parties have carried out 12 rounds of tariff reductions that helped expand trade. They are advancing second‑phase negotiations to further liberalize and facilitate services trade and investment."
+    },
+    {
+      "id": "mkt:019f02a0-9720-7dd8-b12f-1ecf29329838",
+      "time": "2026-06-26 14:31:46",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Japan & APAC",
+        "Nikkei 225",
+        "Impact bearish"
+      ],
+      "text": "【Japan, South Korea stocks close lower; South Korea's KOSPI down nearly 6%】Tokyo's Nikkei 225 closed Friday down 3,005.46 points (-4.15%) at 69,360.88. South Korea's KOSPI fell 519.10 points (-5.81%) to 8,411.20, after an intraday plunge of nearly 9%. SK Hynix dropped over 8%; Samsung Electronics fell more than 5%."
+    },
+    {
+      "id": "mkt:019f02a0-8e1d-7dd8-b12f-14b5f2e38803",
+      "time": "2026-06-26 14:31:44",
+      "tags": [
+        "MKT News",
+        "Important",
+        "03750.HK",
+        "Impact bearish",
+        "300750.SZ"
+      ],
+      "text": "CATL Hong Kong-listed shares (03750.HK) down 6%; A-shares down 5%."
+    },
+    {
+      "id": "4956592",
+      "time": "2026-06-26 14:31:27",
+      "tags": [
+        "市場",
+        "焦點",
+        "國際"
+      ],
+      "text": "【日韓股市集體收跌】日經225指數收跌4.15%，報69360.88點。韓國綜指收跌5.81%，報8411.20點。"
+    },
+    {
+      "id": "4956591",
+      "time": "2026-06-26 14:31:24",
+      "tags": [
+        "市場"
+      ],
+      "text": "【寧德時代盤中跌超5%】A股寧德時代盤中跌5.01%，現報381.76元。"
+    },
+    {
+      "id": "4956590",
+      "time": "2026-06-26 14:31:17",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "滬深兩市成交額超3.2萬億元，較上日此時縮量475億元。"
+    },
+    {
+      "id": "4956589",
+      "time": "2026-06-26 14:30:55",
+      "tags": [
+        "宏觀",
+        "焦點",
+        "國際"
+      ],
+      "text": "【《中國—韓國自由貿易協定》聯委會第七次會議在京舉行】6月25日，中國—韓國自由貿易協定聯委會第七次會議在北京舉行。商務部國際貿易談判代表兼副部長李成鋼和韓國產業通商部通商交涉本部長呂翰九共同主持會議。中宣部、海關總署、市場監管總局、廣電總局、山東省威海市，以及韓國產業通商部、財政經濟部、韓國駐華使館代表等參會。\n\n雙方共同回顧了中韓自貿協定實施情況，高度評價協定對促進兩國產業鏈供應鏈融合、推動經濟增長所作貢獻，就自貿協定實施中的有關具體關注問題深入溝通。會議期間，協定下設原產地規則和海關程式、技術性貿易壁壘、智慧財產權、經濟合作等相關委員會做了工作報告。雙方同意繼續推動中韓自貿協定高質量實施，早日完成中韓自貿協定第二階段談判，進一步提升中韓服務投資領域開放水平，為兩國企業和民眾帶來更多實實在在的利益。\n\n中韓自貿協定於2015年12月20日正式生效。目前，雙方已根據協定實施十二次降稅，助力雙邊貿易持續擴大。兩國正在推進中韓自貿協定第二階段談判，旨在進一步提升兩國服務貿易與投資自由化便利化水平。（商務部）"
+    },
+    {
+      "id": "4956588",
+      "time": "2026-06-26 14:30:27",
+      "tags": [
+        "公司"
+      ],
+      "text": "【德邦證券山東首家分支機構落地濟南】6月26日，德邦證券濟南分公司在歷下區CBD正式揭牌開業，這是德邦證券在山東省內設立的第一家分支機構。據悉，濟南分公司承擔區域總部職能，下一步，德邦證券將緊扣戰略規劃，以濟南為中心，逐步佈局山東重點城市，搭建覆蓋全省的財富管理服務網路。"
+    },
+    {
+      "id": "mkt:019f029f-6367-7dd8-b12f-09de9841e400",
+      "time": "2026-06-26 14:30:27",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Emerging Markets"
+      ],
+      "text": "Indonesia's finance minister said the government may cut a IDR40 trillion free-meal program."
+    },
+    {
+      "id": "te:markets:562121",
+      "time": "2026-06-26 14:30:19",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Japan",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The Nikkei 225 Index Closes 4.52% Lower — The Nikkei 225 Index dropped 3271 points or 4.52 percent on Friday to close at 69095 points. Losses were led by Softbank (-12.19%), Taiyo Yuden (-11.48%) and Advantest (-10.67%)."
+    },
     {
       "id": "mkt:019f029d-a107-7dd8-b12f-00e1eac4ca09",
       "time": "2026-06-26 14:28:32",
@@ -33,6 +300,15 @@
         "Emerging Markets"
       ],
       "text": "Indonesia's finance minister said the government will inject IDR 400 trillion of liquidity from surplus cash into state-owned banks to boost credit growth."
+    },
+    {
+      "id": "4956586",
+      "time": "2026-06-26 14:27:23",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【三井住友信託：干預擔憂料將美元兌日元限制在162以下】三井住友信託銀行全球市場銷售部外匯與利率客戶團隊高階顧問Michiyoshi Kato表示，由於市場擔憂日本當局可能干預外匯市場，日元跌勢料止步於1美元兌162日元。大量外匯期權集中在162這一水平附近，因此該水平備受關注。Kato表示，雖然一些人預計若美元兌日元突破162關口，漲勢將加速，但對干預的擔憂正限制激進的美元買盤。"
     },
     {
       "id": "4956585",
@@ -157704,141 +157980,6 @@
         "DXY"
       ],
       "text": "ISRAELI MILITARY said Hezbollah's violations prompted a strong response and that it will continue strikes over the next several hours."
-    },
-    {
-      "id": "4944805",
-      "time": "2026-06-19 14:39:42",
-      "tags": [
-        "國際"
-      ],
-      "text": "【扎波羅熱核電站運輸車間遭烏軍多次無人機襲擊】當地時間19日，扎波羅熱核電站在社交媒體發文稱，18日晚間至19日凌晨，核電站運輸車間遭烏軍無人機至少14次打擊，襲擊未造成人員傷亡。通報稱，襲擊目的是破壞核電站運輸基礎設施，阻礙物流和人員運輸，為安全執行製造額外風險。工作人員正採取一切必要措施確保電站安全穩定執行。烏克蘭方面對此暫無回應。（央視新聞）"
-    },
-    {
-      "id": "4944804",
-      "time": "2026-06-19 14:39:31",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "【分析師：儘管面臨評估，印尼或將保留MSCI明晟新興市場地位】Maybank Sekuritas的Jeffrosenberg Chen Lim在一封電子郵件中表示，儘管該指數提供商進行了最新評估，預計印尼仍將保留其在MSCI明晟的新興市場地位。MSCI明晟指出了對印尼市場的更多擔憂，包括股權結構透明度有限，以及破壞合理定價的協同交易跡象。MSCI明晟的關注點似乎已從技術性的市場準入問題轉向信任和治理問題，這些問題通常更難解決，也更耗時。即使印尼避免了被降級，它可能仍會受到密切關注，直到監管機構在透明度、披露標準和市場監管方面表現出有意義的改善。"
-    },
-    {
-      "id": "4944803",
-      "time": "2026-06-19 14:38:59",
-      "tags": [
-        "國際"
-      ],
-      "text": "俄羅斯國有資產管理局表示，俄羅斯已啟動拍賣程式，出售被國有化的斯特魯科夫資產，其中包括金礦企業UGC。"
-    },
-    {
-      "id": "4944802",
-      "time": "2026-06-19 14:37:28",
-      "tags": [
-        "市場"
-      ],
-      "text": "巴基斯坦KSE-100指數下跌1%，至179,740.40。"
-    },
-    {
-      "id": "4944801",
-      "time": "2026-06-19 14:37:17",
-      "tags": [
-        "其他"
-      ],
-      "text": "前英國衛生大臣斯特里廷：伯納姆的勝利讓我們看到了工黨仍能獲勝的希望，但也證明要實現這一目標，我們必須做出改變。"
-    },
-    {
-      "id": "mkt:019ede96-c323-7dd8-b08f-838fd52014e2",
-      "time": "2026-06-19 14:34:42",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "South Korea's President Lee said stock-market polarization is worrying."
-    },
-    {
-      "id": "4944799",
-      "time": "2026-06-19 14:34:05",
-      "tags": [
-        "其他"
-      ],
-      "text": "【浙江首個“子母”變電站專案投運】19日，位於浙江省嘉興市秀洲區的嘉興秀北500千伏輸變電工程投運，這標誌著由秀北500千伏變電站與相鄰佈局的嘉塍220千伏變電站組成的浙江首個“500千伏+220千伏”集約建設“子母”變電站專案正式投運。此專案投運後，將進一步最佳化嘉興電網主網架佈局，增強嘉興電網對浙江特高壓交流環網工程清潔電能的承接和消納能力，提升區域電力保供能力和電網安全穩定執行水平。預計每年可輸送電能超42億千瓦時，為嘉興電網應對超1300萬千瓦高峰負荷提供支撐，為當地數字經濟、高階製造、科創產業發展和長三角一體化發展提供堅實能源保障。(新華社)"
-    },
-    {
-      "id": "mkt:019ede95-afa9-7dd8-b08f-79c7bad91f66",
-      "time": "2026-06-19 14:33:32",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "DXY",
-        "Brent"
-      ],
-      "text": "Israeli military says four soldiers were killed in fighting in southern Lebanon."
-    },
-    {
-      "id": "4944798",
-      "time": "2026-06-19 14:33:13",
-      "tags": [
-        "國際"
-      ],
-      "text": "以色列軍方表示，四名士兵在黎巴嫩南部的戰鬥中陣亡。"
-    },
-    {
-      "id": "4944797",
-      "time": "2026-06-19 14:32:27",
-      "tags": [
-        "公司",
-        "市場",
-        "國際"
-      ],
-      "text": "訊息人士稱，俄羅斯已啟動拍賣，出售被收歸國有的斯特魯科夫資產，其中包括金礦企業烏拉爾黃金採礦公司（UGC）。"
-    },
-    {
-      "id": "mkt:019ede94-5808-7dd8-b08f-77679917babd",
-      "time": "2026-06-19 14:32:04",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Japan & APAC",
-        "Nikkei 225",
-        "Impact bullish"
-      ],
-      "text": "【Japan, South Korea stocks open higher then slide; KOSPI closes slightly lower】Amid U.S.-Iran tensions, Japan and South Korea equity markets opened higher on Friday, June 19, then turned lower. The Nikkei 225 closed up 196.57 points (+0.28%) at 71,250.06 after briefly falling more than 0.5% intraday. The KOSPI closed down 14.81 points (-0.16%) at 9,049.03 after an intraday drop exceeding 3%."
-    },
-    {
-      "id": "4944796",
-      "time": "2026-06-19 14:31:55",
-      "tags": [
-        "公司"
-      ],
-      "text": "【綠城中國：香港主要辦公場所遭香港廉政公署搜查，與前董事腐敗指控相關】6月18日，綠城中國（03900.HK）釋出公告稱，公司注意到，6月17日，香港廉政公署前往本公司位於香港的主要辦公場所執行搜查令。據悉，此次行動與一位獨立人士的腐敗指控相關，該人士曾擔任本公司董事，目前已不是本集團員工。公告稱，本公司就此事項提供了必要協助。截至公告日，本集團在所有重要方面均維持正常的業務運營及日常活動。"
-    },
-    {
-      "id": "4944795",
-      "time": "2026-06-19 14:31:33",
-      "tags": [
-        "國際"
-      ],
-      "text": "韓國總統：歐洲對韓國國防產品需求旺盛。"
-    },
-    {
-      "id": "4944794",
-      "time": "2026-06-19 14:31:21",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【日韓股市收盤漲跌互現】日經225指數收漲0.28%，報71250.06點。韓國綜指收跌0.16%，報9049.03點。"
-    },
-    {
-      "id": "mkt:019ede93-65fa-7dd8-b08f-6dbb2f2d7170",
-      "time": "2026-06-19 14:31:01",
-      "tags": [
-        "MKT News",
-        "BMW.DE",
-        "Impact bearish"
-      ],
-      "text": "Goldman Sachs cuts BMW PT to €84 from €107."
     }
   ]
 }
