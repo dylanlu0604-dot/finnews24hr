@@ -1,7 +1,232 @@
 {
-  "updated": "2026-06-26 10:23:13",
-  "count": 17083,
+  "updated": "2026-06-26 10:27:09",
+  "count": 17103,
   "items": [
+    {
+      "id": "mkt:019f01c0-3bf5-7dd8-b12a-d044f195805c",
+      "time": "2026-06-26 10:26:43",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Sources say Iraq's state oil marketer SOMO has offered crude for July loading via tender."
+    },
+    {
+      "id": "4956264",
+      "time": "2026-06-26 10:26:14",
+      "tags": [
+        "市場"
+      ],
+      "text": "澳元兌美元最新下跌0.5%，報0.68761。"
+    },
+    {
+      "id": "mkt:019f01bf-b516-7dd8-b12a-cc01fd8d9c22",
+      "time": "2026-06-26 10:26:08",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bearish"
+      ],
+      "text": "CSI 300 index futures (IF) most-active contract fell 2.00% intraday to 4,799.0 points."
+    },
+    {
+      "id": "4956263",
+      "time": "2026-06-26 10:25:59",
+      "tags": [
+        "其他"
+      ],
+      "text": "據訊息人士透露，伊拉克國家石油銷售組織（SOMO）透過招標發售7月裝船原油。"
+    },
+    {
+      "id": "4956262",
+      "time": "2026-06-26 10:25:53",
+      "tags": [
+        "市場"
+      ],
+      "text": "滬深300指數下跌2%至4,919.54點。"
+    },
+    {
+      "id": "mkt:019f01bf-358a-7dd8-b12a-c3deb70efdf2",
+      "time": "2026-06-26 10:25:36",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "Market Themes",
+        "China EV Leaders",
+        "CSI300",
+        "Impact bullish",
+        "Copper",
+        "CNH"
+      ],
+      "text": "【Nio's Li Bin says China's NEV penetration to exceed 90% by 2030】On June 26 at Nio Partner Day 2026, Nio founder, chairman and CEO Li Bin said NEV penetration in China's new-car market will exceed 90% by 2030, and battery-electric vehicles will account for more than 90% of the NEV market. PCA data show NEV penetration in China's new-car market reached 62.9% in May 2026, with BEVs representing 67.1% of NEV sales."
+    },
+    {
+      "id": "4956261",
+      "time": "2026-06-26 10:25:26",
+      "tags": [
+        "行業",
+        "公司"
+      ],
+      "text": "【蔚來李斌：2030年新能源汽車滲透率將超90%】6月26日，蔚來創始人、董事長、CEO李斌在2026蔚來合作伙伴日上表示，2030年，新能源汽車在中國新車市場滲透率將超過90%，而純電在新能源汽車市場佔比將超過90%。乘聯會資料顯示，2026年5月中國新能源汽車在新車市場滲透率達62.9%，其中純電佔比達67.1%。（一財）"
+    },
+    {
+      "id": "4956260",
+      "time": "2026-06-26 10:25:06",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金失守4020美元/盎司，日內跌0.68%。"
+    },
+    {
+      "id": "mkt:019f01be-839f-7dd8-b12a-be1d209114bc",
+      "time": "2026-06-26 10:24:50",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "【IMO suspends Strait of Hormuz evacuation plan after ship hit in Gulf of Oman】The International Maritime Organization said it is temporarily suspending an evacuation operation for vessels and seafarers stranded in the Gulf of Oman after a cargo ship was struck by unidentified aerial objects near Omani waters on Thursday. A US official blamed Iran for the attack and said Washington is investigating. IMO Secretary-General Domingues said the pause will allow authorities to reconfirm the evacuation list and verify security measures for all ships in the area. A US official added that President Trump has said Iran must not be allowed to disrupt freedom of navigation."
+    },
+    {
+      "id": "4956259",
+      "time": "2026-06-26 10:24:43",
+      "tags": [
+        "市場",
+        "焦點",
+        "國際"
+      ],
+      "text": "韓國綜合股價指數下跌6%至8394.29點。"
+    },
+    {
+      "id": "mkt:019f01bd-ff7a-7dd8-b12a-b23f17b2c2ab",
+      "time": "2026-06-26 10:24:16",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Emerging Markets"
+      ],
+      "text": "South Korea's KOSPI index slid below 8,400, down nearly 6% intraday."
+    },
+    {
+      "id": "mkt:019f01bd-df45-7dd8-b12a-a81cffe28a8c",
+      "time": "2026-06-26 10:24:08",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Wall Street (US)",
+        "Nasdaq100",
+        "Impact bearish",
+        "S&P500",
+        "Dow"
+      ],
+      "text": "U.S. equity index futures extended losses: Nasdaq-100 futures down more than 1%, S&P 500 futures down 0.42%, Dow Jones futures down 0.08%."
+    },
+    {
+      "id": "4956258",
+      "time": "2026-06-26 10:24:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "美股股指期貨持續下挫，納斯達克100指數期貨跌超1%，標普500指數期貨跌0.42%，道瓊斯指數期貨跌0.08%。"
+    },
+    {
+      "id": "4956257",
+      "time": "2026-06-26 10:23:57",
+      "tags": [
+        "其他"
+      ],
+      "text": "【勝科奈米李曉旻：將失效分析交由第三方執行的“Labless”模式正在興起】在今日舉行的第四屆半導體第三方分析檢測生態圈戰略大會上，勝科奈米董事長李曉旻表示，隨著半導體產業專業化分工深化，檢測環節正逐步獨立。類似於Fabless模式，將失效分析等工作交由第三方執行的“Labless”模式正在興起。目前該模式表現為“Lab-Lite”：企業保留小規模自建實驗室以應對緊急和保密需求，同時將大部分檢測業務外包給第三方。"
+    },
+    {
+      "id": "4956256",
+      "time": "2026-06-26 10:23:50",
+      "tags": [
+        "市場"
+      ],
+      "text": "現貨白銀日內跌2%，現報56.66美元/盎司。"
+    },
+    {
+      "id": "4956255",
+      "time": "2026-06-26 10:23:49",
+      "tags": [
+        "其他"
+      ],
+      "text": "【國家能源局局長王宏志：預計“十五五”能源重點專案和新業態投資總規模超20萬億元】國家發展改革委黨組成員、國家能源局局長王宏志在國新辦新聞釋出會上表示，預計“十五五”能源重點專案和新業態投資保持穩步增長態勢，總規模超過20萬億元。"
+    },
+    {
+      "id": "4956254",
+      "time": "2026-06-26 10:23:45",
+      "tags": [
+        "觀點"
+      ],
+      "text": "【頂點A5 Max上線，中信證券第三代核心交易系統全面落地】據頂點軟體訊息，中信證券第三代核心交易系統專案全面上線後已經平穩執行2個月，順利經受了大行情的考驗。據悉，A5 Max為國內證券行業首個超兩千萬量級客戶規模、全棧國產信創、全業務全記憶體化、多地多中心超分散式核心交易系統，由中信證券與頂點軟體聯合打造，基於國產晶片、伺服器、網路、作業系統、資料庫等全棧國產化重構，覆蓋交易、行情、報盤、清算等全業務鏈路，全面去“IOE”，徹底擺脫對國外技術的依賴，築牢國家金融安全基礎底座。"
+    },
+    {
+      "id": "mkt:019f01bd-7063-7dd8-b12a-a53ddd221158",
+      "time": "2026-06-26 10:23:39",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "Hang Seng Index",
+        "Impact bearish"
+      ],
+      "text": "Hong Kong stocks opened lower and extended losses; Hang Seng Tech Index down more than 3%, HSI down 1.7%."
+    },
+    {
+      "id": "4956253",
+      "time": "2026-06-26 10:23:12",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【玻璃基板概念持續拉昇 雷曼光電20CM漲停】玻璃基板概念持續拉昇，雷曼光電20CM漲停，京東方A逼近漲停，力諾藥包漲超15%，此前紅星發展、凱盛科技漲停，沃格光電、TCL科技、艾森股份、彩虹股份、安彩高科跟漲。"
+    },
+    {
+      "id": "4956252",
+      "time": "2026-06-26 10:23:00",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "恒生科技指數跌超3%，現報4273.430點；恒生指數現跌1.718%。"
+    },
+    {
+      "id": "4956251",
+      "time": "2026-06-26 10:22:54",
+      "tags": [
+        "公司"
+      ],
+      "text": "【OPPO向支付技術公司Verifone許可蜂窩通訊標準必要專利】6月26日，OPPO宣佈與全球支付技術公司Verifone簽署了一項雙邊專利許可協議。根據該協議，OPPO的蜂窩通訊標準必要專利將許可予Verifone的POS支付裝置，以提升使用者體驗。這是OPPO公開宣告的第四個對外許可協議，也是在POS機行業的第一雙邊專利許可協議。"
+    },
+    {
+      "id": "mkt:019f01bc-b7da-7dd8-b12a-9ef8444b439b",
+      "time": "2026-06-26 10:22:52",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CNH",
+        "Impact bullish"
+      ],
+      "text": "Beijing Stock Exchange 50 Index rose more than 2%; Gebijia led constituent gains, up 22%."
+    },
+    {
+      "id": "4956250",
+      "time": "2026-06-26 10:22:43",
+      "tags": [
+        "國際"
+      ],
+      "text": "【韓國總統政策室長暗示下週將公佈重大企業投資計劃】韓國總統政策室長金容範表示，6月29日，李在明總統將主持召開會議，討論大型企業的投資計劃，屆時將公佈“非常不尋常”的資料。金在YouTube頻道上發表了上述評論，6月29日的活動將重點聚焦半導體、人工智慧資料中心和物理人工智慧等關鍵領域。"
+    },
     {
       "id": "mkt:019f01bc-2982-7dd8-b12a-9176369cdb76",
       "time": "2026-06-26 10:22:16",
@@ -156246,32 +156471,6 @@
         "國際"
       ],
       "text": "【美對德國藥品定價啟動301調查】美國貿易代表格里爾當地時間6月18日表示，美國已依據《1974年貿易法》第301條對德國啟動調查。美國貿易代表辦公室發宣告稱，調查將確定“德國對創新藥品持續壓低支付價格是否構成不合理或歧視性行為，並對美國商業造成負擔或限制”。格里爾稱：“特朗普總統已明確表示，不應讓美國患者不成比例地承擔全球藥物研發的主要成本。”據彭博社報道，這為美國未來對德國商品徵收報復性關稅鋪平道路。 德國駐華盛頓大使館未立即回應置評請求。 美國貿易代表辦公室將於6月25日開放書面評論提交視窗，其第301條款委員會將於9月舉行公開聽證會。 （CCTV國際時訊）"
-    },
-    {
-      "id": "4944590",
-      "time": "2026-06-19 10:25:03",
-      "tags": [
-        "市場"
-      ],
-      "text": "【金飾克價跌到1265元 一夜大跌44元】查詢發現，金飾克價再跌破1300，其中老鳳祥足金首飾克價1265元，較前一日1309元降了44元；周大福、老廟黃金、周生生足金首飾分別較前一日降了40元、31元、37元。"
-    },
-    {
-      "id": "4944589",
-      "time": "2026-06-19 10:24:26",
-      "tags": [
-        "其他"
-      ],
-      "text": "【端午出行注意！七省份十縣區連續降雨 公路交通存在高風險】記者獲悉，根據交通運輸部與中國氣象局會商研判，截至今天，安徽、江西、廣東、廣西、重慶、貴州、雲南等7個省份的10個縣區因連續降雨，公路交通存在高風險。交通運輸部提醒：近期，上述地區出現連續降雨，公路沿線地質災害風險較高，如在端午假期有上述地區出行計劃，請提前關注天氣及路況資訊，合理規劃路線，儘量避讓地質災害易發路段。駕車出行時，請謹慎駕駛、觀察路況，注意公路沿線情報板、告警阻攔設施等提示資訊。如遇地質災害突發事件，第一時間及時停靠安全區域並撥打救援電話，等待專業處置。(央視新聞)"
-    },
-    {
-      "id": "mkt:019eddb1-2ea5-7dd8-b08c-8ebd0b13233e",
-      "time": "2026-06-19 10:23:56",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "【Hainan Free Trade Port records 1.654 mln entries/exits in six months since island-wide border operations began】Haikou border inspection authorities said that from 00:00 on 18 Dec 2025, when the Hainan Free Trade Port began island-wide border-control operations, through 00:00 on 18 Jun 2026, cumulative border checks reached 1.654 million entries and exits, up 31.2% YoY. Foreign nationals accounted for 913,000 entries/exits, up 36.1% YoY. Hainan said it continues to maintain the country’s most favourable visa-free regime, allowing citizens of 86 countries to enter visa-free on ordinary passports, and has expanded international air links to Northeast Asia, Southeast Asia, Europe and Oceania. Authorities cited stronger inbound travel for tourism, business, visiting family, medical services and conferences; main source countries were Russia, Kazakhstan, Malaysia, Indonesia and Singapore."
     }
   ]
 }
