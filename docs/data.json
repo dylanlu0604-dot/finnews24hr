@@ -1,7 +1,105 @@
 {
-  "updated": "2026-06-26 21:24:27",
-  "count": 17892,
+  "updated": "2026-06-26 21:28:36",
+  "count": 17897,
   "items": [
+    {
+      "id": "mkt:019f041c-d035-7dd8-b137-e339e81dc47f",
+      "time": "2026-06-26 21:27:04",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "GBPUSD",
+        "Impact bearish",
+        "FTSE100",
+        "Impact bullish"
+      ],
+      "text": "Citigroup/YouGov survey: UK long-term inflation expectations fell to 3.9% in June from 4.0% in May."
+    },
+    {
+      "id": "mkt:019f041c-997b-7dd8-b137-df4423d578c3",
+      "time": "2026-06-26 21:26:50",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "GBPUSD",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "CITI/YOUGOV survey: UK one-year-ahead inflation expectations were 3.8% in June, down from 4.7% in May."
+    },
+    {
+      "id": "4957638",
+      "time": "2026-06-26 21:25:56",
+      "tags": [
+        "觀點"
+      ],
+      "text": "花旗/輿觀：英國6月一年期通脹預期為3.8%，5月為4.7%。"
+    },
+    {
+      "id": "4957637",
+      "time": "2026-06-26 21:25:51",
+      "tags": [
+        "觀點"
+      ],
+      "text": "花旗/輿觀調查網：英國6月長期通脹預期為3.9%，5月為4.0%。"
+    },
+    {
+      "id": "mkt:019f041b-a08e-7dd8-b137-d0008edb1b4a",
+      "time": "2026-06-26 21:25:47",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "【UAE issues missile alert, cancels shortly after】Foreign media reported the UAE issued a cellphone alert warning residents of a possible missile threat; minutes later authorities sent a cancellation saying the situation was secure. The alerts briefly pushed U.S. and Brent crude futures up nearly $1."
+    },
+    {
+      "id": "4957635",
+      "time": "2026-06-26 21:25:28",
+      "tags": [
+        "其他"
+      ],
+      "text": "大眾股東德卡投資：這將解決成本分歧。"
+    },
+    {
+      "id": "4957634",
+      "time": "2026-06-26 21:25:23",
+      "tags": [
+        "市場"
+      ],
+      "text": "大眾汽車股東德卡投資：大眾需要推出能夠創造高需求的富有吸引力的產品。"
+    },
+    {
+      "id": "4957633",
+      "time": "2026-06-26 21:25:09",
+      "tags": [
+        "國際"
+      ],
+      "text": "海灣合作委員會秘書長歡迎阿曼計劃撤離霍爾木茲海峽逾1.1萬名受困船員，並譴責伊朗對該海峽航行自由的\"威脅\"。"
+    },
+    {
+      "id": "4957632",
+      "time": "2026-06-26 21:25:00",
+      "tags": [
+        "市場"
+      ],
+      "text": "大眾汽車股東德卡投資：高成本只是表象，而非根源。"
+    },
+    {
+      "id": "te:markets:562262",
+      "time": "2026-06-26 21:24:55",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Silver Down About 10% on the Week — Silver rose above $58 per ounce on Friday but remained down nearly 10% for the week, extending the losses recorded in the previous week, as the Fed's hawkish stance continued to support the US dollar. New Fed Chair Warsh reaffirmed the central bank's commitment to bringing inflation under control, easing concerns that he might bow to pressure from US President Trump to cut interest rates prematurely. The Fed also raised its 2026 PCE inflation projections, while the headline PCE inflation rate accelerated to 4.1% in May. Markets are now pricing in three Fed rate hikes this year, with the probability of the first increase in September standing at around 62%. Silver has broadly tracked the weakness across precious metals but has underperformed gold since the outbreak of the Iran war, losing roughly half its value since reaching a record high in January. Silver is also an industrial metal, making it more sensitive to changes in investors' risk appetite and expectations for global growth."
+    },
     {
       "id": "4957631",
       "time": "2026-06-26 21:23:36",
@@ -163332,52 +163430,6 @@
         "其他"
       ],
       "text": "Spotify 稱此前故障現已全部修復。"
-    },
-    {
-      "id": "mkt:019ee010-37f0-7dd8-b096-4a53529e3747",
-      "time": "2026-06-19 21:26:59",
-      "tags": [
-        "MKT News",
-        "Important",
-        "WTI",
-        "Impact bearish",
-        "XAUUSD",
-        "DXY"
-      ],
-      "text": "【Israel official confirms ceasefire with HEZBOLLAH】Israeli Channel 12 on 19 cited an Israeli official saying Israel and HEZBOLLAH reached a ceasefire. The official said Israeli forces will remain in the southern Lebanon \"security zone\" and \"if they attack us, we will strike back.\""
-    },
-    {
-      "id": "4945220",
-      "time": "2026-06-19 21:26:09",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "以色列第12頻道電視臺19日援引一名以色列官員的話報道說，以色列與黎巴嫩真主黨達成了停火。 這名官員說，我們仍將留在黎巴嫩南部的“安全區”內。“如果他們攻擊我們，我們將予以還擊”。（新華社）"
-    },
-    {
-      "id": "mkt:019ee00f-0fa3-7dd8-b096-4530298acdee",
-      "time": "2026-06-19 21:25:43",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Israel Defense Forces spokesman said the IDF will remain deployed in the \"buffer zone\" as long as Israeli citizens face a threat from Hezbollah."
-    },
-    {
-      "id": "4945219",
-      "time": "2026-06-19 21:25:41",
-      "tags": [
-        "國際"
-      ],
-      "text": "以色列軍方發言人：只要以色列公民仍遭受真主黨威脅，以軍就會繼續留在“緩衝區”。"
-    },
-    {
-      "id": "4945218",
-      "time": "2026-06-19 21:24:49",
-      "tags": [
-        "其他"
-      ],
-      "text": "真主黨官員：尚未收到有關停火時間安排的通知。"
     }
   ]
 }
