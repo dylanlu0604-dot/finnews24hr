@@ -1,7 +1,125 @@
 {
-  "updated": "2026-06-26 21:45:30",
-  "count": 17935,
+  "updated": "2026-06-26 21:49:48",
+  "count": 17937,
   "items": [
+    {
+      "id": "mkt:019f0430-c984-7dd8-b138-9caddde14512",
+      "time": "2026-06-26 21:48:53",
+      "tags": [
+        "MKT News",
+        "S&P500",
+        "Impact bearish",
+        "Nasdaq100",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "VIX briefly hit a two-week high; last up 1.42 points at 20.31."
+    },
+    {
+      "id": "4957689",
+      "time": "2026-06-26 21:48:42",
+      "tags": [
+        "其他"
+      ],
+      "text": "墨西哥總統辛鮑姆：將向委內瑞拉提供援助和所需的一切。"
+    },
+    {
+      "id": "4957688",
+      "time": "2026-06-26 21:48:33",
+      "tags": [
+        "其他"
+      ],
+      "text": "墨西哥總統辛鮑姆與委內瑞拉臨時總統羅德里格斯的電話會議將於美東時間12:00（北京時間次日0:00）進行。"
+    },
+    {
+      "id": "mkt:019f0430-79f8-7dd8-b138-93093cdc7379",
+      "time": "2026-06-26 21:48:33",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Mexican president Sheinbaum will hold a phone call with Venezuela's interim president Rodriguez at 12:00 p.m. ET (00:00 Beijing time next day)."
+    },
+    {
+      "id": "4957687",
+      "time": "2026-06-26 21:48:25",
+      "tags": [
+        "市場"
+      ],
+      "text": "芝加哥期權交易所波動率指數盤中短暫突破兩週高位；最新上漲1.42點，報20.31點。"
+    },
+    {
+      "id": "te:markets:562270",
+      "time": "2026-06-26 21:48:25",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Brazil",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Ibovespa Slips as Labor Market Holds Firm — The Ibovespa edged lower to trade below the 171,500 mark on Friday as investors assessed Brazil’s latest labor market data. The unemployment rate fell slightly to 5.6% in the rolling quarter ending in May, matching forecasts and holding at the lowest level in the historical series. The resilience of the labor market reinforced expectations that the BCB may keep interest rates elevated for longer. Major banks traded lower, with Itaú down more than 0.5% and Bradesco losing nearly 1%. Petrobras also fell 1% as oil prices returned to pre-conflict levels amid easing supply concerns, with more tankers leaving the Strait of Hormuz. This came despite Iran reaffirming its control over shipping in the Strait and warning Gulf states against siding with the US, a day after an attack on a vessel near Oman highlighted the fragility of the preliminary peace deal. Meanwhile, meatpackers extended gains, with MBRF rising more than 2.5%."
+    },
+    {
+      "id": "mkt:019f042f-eaaf-7dd8-b138-88da430cfc8b",
+      "time": "2026-06-26 21:47:56",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "President Sheinbaum said Mexico will provide Venezuela with aid and all necessary support."
+    },
+    {
+      "id": "mkt:019f042f-3034-7dd8-b138-833cbc9839e4",
+      "time": "2026-06-26 21:47:09",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Mexican President Sheinbaum will meet Venezuela's interim President Rodriguez, sources said."
+    },
+    {
+      "id": "4957686",
+      "time": "2026-06-26 21:47:00",
+      "tags": [
+        "其他"
+      ],
+      "text": "美股AI應用軟體股逆勢走高，ServiceNow、 Figma Inc漲超5%，Palantir、Adobe、Workday、賽富時、Datadog漲超3%，微軟漲超2%。"
+    },
+    {
+      "id": "4957685",
+      "time": "2026-06-26 21:46:55",
+      "tags": [
+        "其他"
+      ],
+      "text": "墨西哥總統將與委內瑞拉代總統舉行會談。"
+    },
+    {
+      "id": "mkt:019f042e-0888-7dd8-b138-79c08d47e2c1",
+      "time": "2026-06-26 21:45:53",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Barclays expects oil inventories to continue declining for at least the next few weeks as supply recovery lags."
+    },
+    {
+      "id": "mkt:019f042d-72e8-7dd8-b138-75858aff0083",
+      "time": "2026-06-26 21:45:15",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Kremlin spokesman: U.S. not 'absolutely neutral' on Russia-Ukraine】Kremlin spokesman Dmitry Peskov said on June 26 the U.S. cannot be considered 'absolutely neutral' on the Russia-Ukraine conflict, citing continued large deliveries of weapons, equipment and other technical support to Ukraine and a shift from 'pseudo-grant' assistance to paid sales. He said Moscow nevertheless welcomes U.S. statements expressing willingness to help facilitate a peaceful settlement."
+    },
+    {
+      "id": "4957684",
+      "time": "2026-06-26 21:45:10",
+      "tags": [
+        "其他"
+      ],
+      "text": "巴克萊：由於供應復甦滯後，預計至少未來幾周庫存將持續下降。"
+    },
     {
       "id": "4957683",
       "time": "2026-06-26 21:44:17",
@@ -163704,101 +163822,6 @@
         "Impact bearish"
       ],
       "text": "Market pricing shows Fed rate-hike bets have risen and now fully price a 25bp hike in September."
-    },
-    {
-      "id": "4945247",
-      "time": "2026-06-19 21:48:33",
-      "tags": [
-        "其他"
-      ],
-      "text": "美軍中央司令部：昨夜有超過20艘船隻使用了霍爾木茲海峽的阿曼航線。"
-    },
-    {
-      "id": "mkt:019ee023-9c63-7dd8-b096-a0b90239faa7",
-      "time": "2026-06-19 21:48:10",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "US Central Command said more than 20 vessels transited the Strait of Hormuz via the Oman route overnight."
-    },
-    {
-      "id": "4945246",
-      "time": "2026-06-19 21:47:54",
-      "tags": [
-        "其他"
-      ],
-      "text": "美軍中央司令部：霍爾木茲海峽的船隻應享有航行自由。"
-    },
-    {
-      "id": "mkt:019ee022-f40f-7dd8-b096-982bc35a944b",
-      "time": "2026-06-19 21:47:27",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bearish",
-        "S&P500",
-        "Impact bullish",
-        "DXY"
-      ],
-      "text": "US Central Command said ships in the Strait of Hormuz should enjoy freedom of navigation."
-    },
-    {
-      "id": "4945245",
-      "time": "2026-06-19 21:47:19",
-      "tags": [
-        "其他"
-      ],
-      "text": "多位內閣部長將告知他斯塔默“任期已至”。"
-    },
-    {
-      "id": "mkt:019ee022-b703-7dd8-b096-935ee65a5d61",
-      "time": "2026-06-19 21:47:11",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "Per The Times, UK cabinet ministers will ask Prime Minister Starmer this afternoon to clarify his timetable for leaving office."
-    },
-    {
-      "id": "4945244",
-      "time": "2026-06-19 21:46:25",
-      "tags": [
-        "國際"
-      ],
-      "text": "【美議員批美政府在伊朗搞災難藝術】當地時間6月18日，美國國會參議院民主黨領袖查克·舒默批評特朗普政府在伊朗搞的是“災難的藝術”。舒默稱，伊朗用所謂的“諒解”把美國耍得團團轉——特朗普本人曾批評2015年伊朗與六國達成的伊核協議“是有史以來最無能的協議之一”，如今“伊朗卻輕易就讓特朗普自打耳光”。（CCTV國際時訊）"
-    },
-    {
-      "id": "mkt:019ee021-fd26-7dd8-b096-8feaca7195a7",
-      "time": "2026-06-19 21:46:24",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Schumer criticizes Trump administration's Iran approach as 'art of disaster'】On June 18, Senate Democratic leader Chuck Schumer said the Trump administration's handling of Iran was an \"art of disaster\", accusing Tehran of using a so-called \"understanding\" to make a mockery of the United States. Schumer noted Trump had called the 2015 Iran nuclear deal \"one of the most incompetent agreements ever\" and said Iran had \"easily slapped Trump in the face.\""
-    },
-    {
-      "id": "4945243",
-      "time": "2026-06-19 21:46:05",
-      "tags": [
-        "國際"
-      ],
-      "text": "【印度證券監管機構允許企業從公開市場回購股票】印度證券監管機構將重新允許企業進行公開市場股票回購，以提振股價；近期，印度股市的表現一直落後於全球同類市場。印度證券交易委員會曾於2025年逐步取消公開市場回購，理由是擔心這種方式會導致股東待遇不公並引發稅務問題，且被視為僅惠及少數特定股東。在週五舉行理事會會議後，該監管機構發表宣告稱，現已實施相關管控措施以防止濫用該機制。此舉有望刺激更多回購活動，尤其是對於現金充裕的企業而言；同時，在市場波動期間，這也將為股票市場提供額外的需求支撐。"
-    },
-    {
-      "id": "4945242",
-      "time": "2026-06-19 21:45:49",
-      "tags": [
-        "其他"
-      ],
-      "text": "英國內閣大臣將於今日下午要求首相斯塔默公佈其卸任時間表。"
-    },
-    {
-      "id": "mkt:019ee021-3b7e-7dd8-b096-86eabeb7b554",
-      "time": "2026-06-19 21:45:34",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【India regulator reinstates open-market buybacks】The Securities and Exchange Board of India will allow companies to resume open-market share buybacks, reversing a 2025 phase-out that aimed to curb unequal shareholder treatment and tax-related concerns. After a board meeting on Friday SEBI said it has implemented controls to prevent abuse. The move is aimed at boosting share prices after Indian equities underperformed global peers and could spur buyback activity—especially by cash-rich firms—while providing additional demand support during bouts of market volatility."
     }
   ]
 }
