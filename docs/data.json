@@ -1,7 +1,105 @@
 {
-  "updated": "2026-06-27 01:01:09",
-  "count": 18020,
+  "updated": "2026-06-27 01:05:10",
+  "count": 18030,
   "items": [
+    {
+      "id": "mkt:019f04e3-3747-7dd8-b13c-254b4ca91e88",
+      "time": "2026-06-27 01:03:47",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. natural gas rig count 125 in the week to June 26, versus 122 in the prior week."
+    },
+    {
+      "id": "mkt:019f04e3-1789-7dd8-b13c-1f5cfc083c57",
+      "time": "2026-06-27 01:03:39",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | Weekly Total Natural Gas Rig Count (Jun.26) | actual 125 | previous 122"
+    },
+    {
+      "id": "mkt:019f04e2-b50b-7dd8-b13c-15ecdd001cc7",
+      "time": "2026-06-27 01:03:14",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "According to the Wall Street Journal, the Atlanta Fed's search for a new president has stalled."
+    },
+    {
+      "id": "4957875",
+      "time": "2026-06-27 01:03:11",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國油服貝克休斯：美國能源企業活躍石油鑽井機連增兩週。"
+    },
+    {
+      "id": "4957874",
+      "time": "2026-06-27 01:02:54",
+      "tags": [
+        "其他"
+      ],
+      "text": "OpenAI 開啟 GPT-5.6 系列有限預覽版測試。"
+    },
+    {
+      "id": "mkt:019f04e2-0bc2-7dd8-b13c-0a6f99e193a1",
+      "time": "2026-06-27 01:02:30",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "US total rig count for the week to June 26: 573 rigs, up from 563 the prior week."
+    },
+    {
+      "id": "mkt:019f04e1-f0f6-7dd8-b13c-02b9d8637200",
+      "time": "2026-06-27 01:02:23",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | Weekly Total Rig Count (Jun.26) | actual 573 | previous 563"
+    },
+    {
+      "id": "mkt:019f04e1-94a1-7dd8-b13b-fb946e812f16",
+      "time": "2026-06-27 01:02:00",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "US oil rigs totaled 440 in the week to June 26, up from 433 the previous week."
+    },
+    {
+      "id": "mkt:019f04e1-7c04-7dd8-b13b-f1145179880c",
+      "time": "2026-06-27 01:01:53",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | Weekly Total Oil Rig Count (Jun.26) | actual 440 | previous 433"
+    },
+    {
+      "id": "4957873",
+      "time": "2026-06-27 01:01:36",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "貝克休斯：美國石油鑽井平臺數量增加7個，達到440個。\n美國鑽井平臺總數為573臺。\n美國天然氣鑽井平臺數量增加3個，達到125個。"
+    },
     {
       "id": "4957872",
       "time": "2026-06-27 01:00:03",
