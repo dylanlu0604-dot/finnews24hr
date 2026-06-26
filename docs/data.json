@@ -1,7 +1,225 @@
 {
-  "updated": "2026-06-26 09:31:47",
-  "count": 16971,
+  "updated": "2026-06-26 09:35:44",
+  "count": 16989,
   "items": [
+    {
+      "id": "mkt:019f0190-d52d-7dd8-b129-18050e50af4c",
+      "time": "2026-06-26 09:34:56",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "Nikkei 225",
+        "Impact bearish"
+      ],
+      "text": "Japan's Nikkei 225 fell below 70,000 points, down 3.33% on the day."
+    },
+    {
+      "id": "4956134",
+      "time": "2026-06-26 09:34:54",
+      "tags": [
+        "國際"
+      ],
+      "text": "韓國綜合指數跌幅擴大；最新跌3.5%，報8621.59點。"
+    },
+    {
+      "id": "4956133",
+      "time": "2026-06-26 09:34:37",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "滬深300指數期貨連續主力合約日內跌1%，現報4857.00點。"
+    },
+    {
+      "id": "4956132",
+      "time": "2026-06-26 09:34:36",
+      "tags": [
+        "市場"
+      ],
+      "text": "大盤主力淨流出超100億。"
+    },
+    {
+      "id": "4956131",
+      "time": "2026-06-26 09:34:27",
+      "tags": [
+        "其他"
+      ],
+      "text": "【遼寧省沈撫改革創新示範區黨工委委員範靜國接受審查調查】中央紀委國家監委網站6月26日通報，據遼寧省紀委監委訊息：遼寧省沈撫改革創新示範區黨工委委員、管委會副主任範靜國涉嫌嚴重違紀違法，目前正接受遼寧省紀委監委紀律審查和監察調查。"
+    },
+    {
+      "id": "mkt:019f0190-46e9-7dd8-b129-15fa5f9db2f8",
+      "time": "2026-06-26 09:34:20",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "New listing N Huike surged over 300% in early trade to 41.08 yuan, triggering a temporary trading suspension."
+    },
+    {
+      "id": "4956130",
+      "time": "2026-06-26 09:34:15",
+      "tags": [
+        "其他"
+      ],
+      "text": "【新股N惠科盤初漲超300%觸發臨停】新股N惠科盤初漲超300%觸發臨停，報41.08元。"
+    },
+    {
+      "id": "mkt:019f0190-0136-7dd8-b129-0de0a3468ddd",
+      "time": "2026-06-26 09:34:02",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "Star Stocks",
+        "Alibaba",
+        "09988.HK",
+        "Impact bearish",
+        "02076.HK",
+        "09961.HK"
+      ],
+      "text": "Hong Kong tech stocks opened lower: BOSS Zhipin (02076.HK) and Alibaba (09988.HK) down over 4%, Trip.com Group-S (09961.HK) off more than 3%, Xiaomi (01810.HK) and Bilibili (09626.HK) down about 3%."
+    },
+    {
+      "id": "4956129",
+      "time": "2026-06-26 09:34:00",
+      "tags": [
+        "其他"
+      ],
+      "text": "【河南：建立可持續的城市建設運營投融資體系】近日，中共河南省委辦公廳、河南省人民政府辦公廳印發《關於推動城市高質量發展的實施方案》。方案提出，建立可持續的城市建設運營投融資體系。統籌利用財政資金、社會資本和金融等資金渠道。積極爭取新型政策性金融工具等資金支援。在債務風險可控前提下，支援符合條件的城市更新專案申請地方政府專項債券，加大對城市更新相關領域專案的支援力度。創新財政金融政策工具，吸引和規範社會資金參與，穩慎推進公用事業價格改革。鼓勵金融機構在依法合規、風險可控、商業可持續前提下，提供支援城市更新的多樣化、長週期金融產品和金融服務。按照市場化、法治化原則支援老舊街區、老舊廠區等符合條件的城市更新專案發行基礎設施領域不動產投資信託基金（REITs）等。建立完善專案融資合作推進機制，常態化開展政銀企對接活動。"
+    },
+    {
+      "id": "te:markets:562041",
+      "time": "2026-06-26 09:33:54",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "South Korea",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "South Korean Shares Fall on Tech Selloff, Profit-Taking — The benchmark KOSPI fell more than 3% to around 8,660 on Friday, reversing gains from the previous session, following overnight losses on Wall Street and profit-taking. Investor sentiment weakened after the Nasdaq extended its losing streak as renewed weakness in large-cap technology stocks reignited concerns over AI-related valuations. Markets also remained cautious after US core inflation matched expectations but reached its highest level since October 2023, reinforcing expectations that the Federal Reserve could keep interest rates higher for longer. At the same time, investors locked in profits following the KOSPI's 5.4% surge in the previous session. Technology heavyweights declined, with Samsung Electronics and SK Hynix falling more than 3% and 4%, respectively, while SK Square (-7.7%), Hyundai Motor (-3.4%), LG Energy Solution (-2.7%), HD Hyundai Heavy Industries (-3.3%), Hanwha Aerospace (-4.8%), and Doosan Enerbility (-4.6%) also traded sharply lower."
+    },
+    {
+      "id": "mkt:019f018f-d14f-7dd8-b129-04ed2ee85c4b",
+      "time": "2026-06-26 09:33:50",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bullish"
+      ],
+      "text": "【Economist: Tokyo CPI unlikely to speed Bank of Japan rate hikes】Takuya Hoshino of the Dai-ichi Life Research Institute said Tokyo-area CPI rebounded in June for the first time in eight months but is unlikely to push the Bank of Japan to accelerate rate hikes. Tokyo consumer prices excluding fresh food rose 1.6% YoY in June, up from 1.3% in May. Hoshino said the print shows some underlying price resilience but is insufficient to prompt concern about faster cost pass-through to consumers and is unlikely to move the BOJ to bring forward hikes."
+    },
+    {
+      "id": "4956128",
+      "time": "2026-06-26 09:33:00",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【A股昨日連闆闆塊異動拉昇】超聲電子、興業科技觸及漲停，中材科技、泰和新材、美盈森、航錦科技、ST中裝跟漲。"
+    },
+    {
+      "id": "mkt:019f018e-fc77-7dd8-b128-fdb727b28209",
+      "time": "2026-06-26 09:32:55",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "China EV Leaders",
+        "Market Regions",
+        "Greater China",
+        "01211.HK",
+        "Impact bearish",
+        "02015.HK",
+        "09863.HK"
+      ],
+      "text": "Hong Kong auto stocks mostly fell. Beijing Automotive (01958.HK) and NIO-SW (09866.HK) slid over 5%; Leapmotor (09863.HK) fell about 4%; BYD Company (01211.HK) dropped over 3%; Li Auto (02015.HK) fell nearly 3%."
+    },
+    {
+      "id": "mkt:019f018e-f582-7dd8-b128-f634eaad229d",
+      "time": "2026-06-26 09:32:53",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bearish",
+        "Hang Seng Index",
+        "SSE Composite"
+      ],
+      "text": "FTSE China A50 futures extend losses to 1.2%."
+    },
+    {
+      "id": "4956127",
+      "time": "2026-06-26 09:32:47",
+      "tags": [
+        "市場"
+      ],
+      "text": "中科聞歌首日開盤現漲超100%，報123.5港元，總市值超200億港元。"
+    },
+    {
+      "id": "4956126",
+      "time": "2026-06-26 09:32:25",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "20號膠連續主力合約日內跌4%，現報14275.00元。"
+    },
+    {
+      "id": "4956125",
+      "time": "2026-06-26 09:32:09",
+      "tags": [
+        "公司"
+      ],
+      "text": "【遠翔新材：截至目前公司與安瓦新能源暫無供貨關係】遠翔新材(301300)在互動平臺表示，公司董事長帶隊走訪安瓦新能源，意在挖掘電池配套材料合作機會。截至目前，公司與安瓦新能源暫無供貨關係，未簽署供貨訂單。本次僅為前期產業交流，後續合作能否落地存在不確定性，相關進展達到披露要求後公司會及時公告，請注意投資風險。"
+    },
+    {
+      "id": "4956124",
+      "time": "2026-06-26 09:32:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "電力股盤初拉昇，龍源電力直線漲停，金房能源、節能風電、協鑫能科、浙江新能、華電遼能跟漲。"
+    },
+    {
+      "id": "4956123",
+      "time": "2026-06-26 09:31:32",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "恒生科技指數跌超2%，現報4317.360點；恒生指數現跌0.892%。"
+    },
+    {
+      "id": "mkt:019f018d-af6d-7dd8-b128-ea9f505ccfc9",
+      "time": "2026-06-26 09:31:30",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish",
+        "SSE Composite"
+      ],
+      "text": "China A-shares grid-equipment sector opened higher; Baosheng hit the daily limit. Baiyun Electric, Yineng Power, Acrel, Hangzhou Kelin and Great Wall Technology also advanced."
+    },
+    {
+      "id": "mkt:019f018d-aa1e-7dd8-b128-e218b1ece6c6",
+      "time": "2026-06-26 09:31:29",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bearish"
+      ],
+      "text": "【China stock index futures open lower】China's CSI 300 index futures (IF) front-month contract fell 0.54% at the morning open; SSE 50 index futures (IH) down 0.10%; CSI 500 index futures (IC) down 0.82%; CSI 1000 index futures (IM) down 0.98%."
+    },
     {
       "id": "mkt:019f018d-900e-7dd8-b128-dd64bce81787",
       "time": "2026-06-26 09:31:22",
@@ -155170,33 +155388,6 @@
         "Impact bearish"
       ],
       "text": "HIMINO, BoJ deputy governor, said higher fuel costs this summer could amplify upward pressure on Japan's consumer price index."
-    },
-    {
-      "id": "4944540",
-      "time": "2026-06-19 09:35:12",
-      "tags": [
-        "其他"
-      ],
-      "text": "川崎汽船：霍爾木茲海峽運輸的完全正常化可能需要時間。"
-    },
-    {
-      "id": "4944539",
-      "time": "2026-06-19 09:34:09",
-      "tags": [
-        "其他"
-      ],
-      "text": "冰見野良三：希望在7月更新季度預測時，就能源價格對通脹的影響提供更全面的分析。"
-    },
-    {
-      "id": "4944538",
-      "time": "2026-06-19 09:33:43",
-      "tags": [
-        "資料",
-        "市場",
-        "央行",
-        "國際"
-      ],
-      "text": "日本央行副行長冰見野良三：燃料成本上漲對消費者物價指數(CPI)的影響可能在今年夏季前後加大。"
     }
   ]
 }
