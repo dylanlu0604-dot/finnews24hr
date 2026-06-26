@@ -1,7 +1,112 @@
 {
-  "updated": "2026-06-26 20:31:29",
-  "count": 17870,
+  "updated": "2026-06-26 20:35:41",
+  "count": 17871,
   "items": [
+    {
+      "id": "4957522",
+      "time": "2026-06-26 20:34:33",
+      "tags": [
+        "其他"
+      ],
+      "text": "【中國華能與四川省政府簽署全面深化戰略合作協議】6月26日，中國華能與四川省人民政府簽署全面深化戰略合作協議。根據協議，雙方將聚焦清潔能源、科技創新、鄉村振興等領域深化合作。目前，華能在川總裝機708萬千瓦，累計發電量突破2700億千瓦時。"
+    },
+    {
+      "id": "4957521",
+      "time": "2026-06-26 20:33:54",
+      "tags": [
+        "國際"
+      ],
+      "text": "愛沙尼亞外長：烏克蘭發起反擊之際，歐洲需加大對普京施壓力度。"
+    },
+    {
+      "id": "mkt:019f03eb-dd1c-7dd8-b137-087f6cea98b6",
+      "time": "2026-06-26 20:33:36",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy",
+        "DXY",
+        "Impact bearish",
+        "S&P500",
+        "Impact mixed",
+        "US10Y",
+        "Impact bullish"
+      ],
+      "text": "U.S. goods imports rose 3.6% MoM in May; goods exports fell 5.4% MoM."
+    },
+    {
+      "id": "mkt:019f03eb-bf10-7dd8-b137-011b171a6e15",
+      "time": "2026-06-26 20:33:29",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy",
+        "DXY",
+        "Impact bearish",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI"
+      ],
+      "text": "US May goods trade deficit preliminary $105.8 bln, versus $85.0 bln expected."
+    },
+    {
+      "id": "4957520",
+      "time": "2026-06-26 20:33:12",
+      "tags": [
+        "公司"
+      ],
+      "text": "Exail稱正與賽峰集團洽談收購事宜，收購報價為每股128.5歐元。"
+    },
+    {
+      "id": "4957519",
+      "time": "2026-06-26 20:33:08",
+      "tags": [
+        "公司"
+      ],
+      "text": "【*ST元道：公司股票自2026年6月29日起被實施其他風險警示】*ST元道公告，公司因資金賬戶凍結問題，無法按期完成2025年度權益分派，取消原利潤分配預案，新的預案為不派發現金紅利，不送紅股，不以資本公積轉增股本。根據《深圳證券交易所創業板股票上市規則》相關規定，公司股票自2026年6月29日起被實施其他風險警示。"
+    },
+    {
+      "id": "4957518",
+      "time": "2026-06-26 20:32:48",
+      "tags": [
+        "央行",
+        "市場"
+      ],
+      "text": "巴西央行在宣告中稱，該行在標售中賣出20,000份反向外匯互換合約。"
+    },
+    {
+      "id": "4957517",
+      "time": "2026-06-26 20:32:31",
+      "tags": [
+        "公司"
+      ],
+      "text": "【*ST元道：6月29日起股票被實施其他風險警示】*ST元道公告稱，因公司近期資金賬戶凍結，預計無法按期完成權益分派，取消原2025年度利潤分配預案，新預案為不派發現金紅利、不送紅股、不以資本公積轉增股本。根據相關規定，公司股票觸及“其他風險警示”情形，自2026年6月29日起被實施其他風險警示，股票簡稱仍為“*ST元道”，程式碼不變，日漲跌幅限制仍為20%，不停牌。此前公司已因可能觸及重大違法強制退市情形被實施退市風險警示。"
+    },
+    {
+      "id": "em:jjsj_mgsj:202606263784991339",
+      "time": "2026-06-26 20:32:08",
+      "tags": [
+        "經濟數據",
+        "美國"
+      ],
+      "text": "美國5月商品貿易逆差初值1058億美元，預期逆差850億美元。"
+    },
+    {
+      "id": "4957516",
+      "time": "2026-06-26 20:31:40",
+      "tags": [
+        "市場"
+      ],
+      "text": "英國國債價格延續跌勢，30年期國債收益率上漲5個基點至5.45%。"
+    },
+    {
+      "id": "4957515",
+      "time": "2026-06-26 20:30:54",
+      "tags": [
+        "其他"
+      ],
+      "text": "加拿大5月批發貿易較上月很可能下降0.7% - 加拿大統計局初步預估。"
+    },
     {
       "id": "mkt:019f03e9-3689-7dd8-b136-fbcf63aa0e75",
       "time": "2026-06-26 20:30:43",
@@ -163124,96 +163229,6 @@
         "MKT News"
       ],
       "text": "Nabiullina, governor of the Russian central bank, said the Russian economy showed moderate growth in 1H."
-    },
-    {
-      "id": "4945156",
-      "time": "2026-06-19 20:35:35",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "俄羅斯央行行長納比烏琳娜：俄羅斯經濟上半年呈現溫和增長態勢。"
-    },
-    {
-      "id": "te:markets:560485",
-      "time": "2026-06-19 20:35:19",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Canada",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "TSX Futures Slip on Suspended US-Iran Talks — Futures tracking Canada’s S&P/TSX Composite Index edged lower on Friday after US-Iran talks were suspended. The discussions, aimed at addressing Iran’s nuclear program following a recently signed memorandum of understanding, were delayed after the conflict between Israel and Lebanon reignited and US Vice President JD Vance unexpectedly withdrew. At the same time, pressure from the Federal Reserve’s surprise hawkish shift on Wednesday remained, adding pressure to financial stocks and the broader index. Gold prices extended losses, weighing on mining shares. On the macroeconomic front, attention also turned to trade diplomacy after reports that Canadian Prime Minister Mark Carney and his team held a series of trade discussions with US officials, while retail sales rose sharply."
-    },
-    {
-      "id": "mkt:019edfe0-5aca-7dd8-b095-2e1b151da41a",
-      "time": "2026-06-19 20:34:42",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "US President Trump said the war has severely weakened Iran, asserting it no longer has an air force, navy, air defenses or radar systems. He accused Democrats of claiming Iran is better off now than four months ago."
-    },
-    {
-      "id": "mkt:019edfdf-66c0-7dd8-b095-2341761179d0",
-      "time": "2026-06-19 20:33:40",
-      "tags": [
-        "MKT News",
-        "DXY",
-        "Impact bullish"
-      ],
-      "text": "Canadian dollar (CAD) held near a 14-month low after retail sales data, weakening 0.1% to 1.4155 CAD per USD."
-    },
-    {
-      "id": "4945155",
-      "time": "2026-06-19 20:33:29",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "俄羅斯央行行長納比烏琳娜：中東衝突結束將降低俄羅斯經濟面臨的通脹上行風險。"
-    },
-    {
-      "id": "4945154",
-      "time": "2026-06-19 20:33:20",
-      "tags": [
-        "市場"
-      ],
-      "text": "加拿大元在零售銷售資料公佈後企穩於 14 個月低點附近，當日下跌 0.1%，報 1 加元兌 1.4155 美元。"
-    },
-    {
-      "id": "mkt:019edfde-7a74-7dd8-b095-1d1c53b50fab",
-      "time": "2026-06-19 20:32:39",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Russian central bank governor Nabiullina said it is too early to assess the economic impact of the US‑Iran conflict."
-    },
-    {
-      "id": "4945153",
-      "time": "2026-06-19 20:32:15",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "俄羅斯央行行長納比烏林娜：現在評估美伊衝突對經濟的影響後果還為時過早。"
-    },
-    {
-      "id": "mkt:019edfdd-eba9-7dd8-b095-105e51f4b202",
-      "time": "2026-06-19 20:32:03",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Italy's foreign minister cancels US visit after Trump's remarks】Deputy prime minister and foreign minister Antonio Tajani canceled a US visit scheduled for June 21-22, saying US President Trump’s remarks were “serious and offensive” and “offended the whole of Italy.” Prime Minister Giorgia Meloni said she was “shocked” by comments Trump made to Italian La7 TV, in which he said Meloni was “very eager” to pose with him at the G7, that he agreed only out of “pity,” and that she might be “glad” he spoke to her though he did not have to. Meloni called the remarks “fabricated” and added “Italy never begs anything.”"
-    },
-    {
-      "id": "4945152",
-      "time": "2026-06-19 20:32:00",
-      "tags": [
-        "國際"
-      ],
-      "text": "【義大利外長因特朗普的言論取消訪美】義大利副總理兼外長塔亞尼取消了對美國的訪問，原因是美國總統特朗普據稱發表了似乎嘲諷義大利總理梅洛尼的言論。原定於6月21日和22日訪問美國的塔亞尼表示，特朗普總統“言辭嚴重且具有冒犯性……冒犯了整個義大利”。梅洛尼表示，她對特朗普向義大利La7電視臺發表的言論感到“震驚”，特朗普聲稱梅洛尼在G7峰會上“非常渴望與我合影”，而他之所以同意，僅僅是因為“同情她”。特朗普表示，梅洛尼可能會“很高興我與她交談，畢竟我本不必非得跟她談”。梅洛尼稱特朗普所說的話是“編造的”，並補充道：“我和義大利從不乞求什麼。”"
     }
   ]
 }
