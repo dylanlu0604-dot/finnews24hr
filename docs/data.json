@@ -1,7 +1,76 @@
 {
-  "updated": "2026-06-26 14:26:26",
-  "count": 17255,
+  "updated": "2026-06-26 14:30:31",
+  "count": 17253,
   "items": [
+    {
+      "id": "mkt:019f029d-a107-7dd8-b12f-00e1eac4ca09",
+      "time": "2026-06-26 14:28:32",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bullish",
+        "Nikkei 225",
+        "WTI"
+      ],
+      "text": "【BNP Paribas SA: Japan likely to face continued inflationary pressure】BNP Paribas economists say Japan will likely face continued inflationary pressure as import prices are expected to remain above pre–Middle East-crisis levels. Although Strait of Hormuz tensions have eased, a shift to higher-cost U.S. crude, sharply higher insurance premiums and a weak yen are expected to keep import costs elevated; an AI investment boom and a strong equity market should sustain domestic demand, and aggregate demand may remain robust in H2 as geopolitical uncertainty recedes."
+    },
+    {
+      "id": "4956587",
+      "time": "2026-06-26 14:28:25",
+      "tags": [
+        "公司"
+      ],
+      "text": "【滙豐成為中國網球公開賽首席贊助商】今日，中國網球公開賽與滙豐集團在北京國家網球中心首創鑽石球場共同宣佈，自2026年起，滙豐將成為中網首席贊助商，雙方將開啟戰略合作，共同推動中網成為亞洲居首、全球第一梯隊的國際網球賽事。"
+    },
+    {
+      "id": "mkt:019f029d-078d-7dd8-b12e-ffe0709d1f69",
+      "time": "2026-06-26 14:27:53",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Emerging Markets"
+      ],
+      "text": "Indonesia's finance minister said the government will inject IDR 400 trillion of liquidity from surplus cash into state-owned banks to boost credit growth."
+    },
+    {
+      "id": "4956585",
+      "time": "2026-06-26 14:27:17",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "印尼財政部長：我們將把超額現金中的更多流動性注入國有銀行，規模將達到400萬億印尼盾，旨在提振信貸投放。"
+    },
+    {
+      "id": "4956584",
+      "time": "2026-06-26 14:26:26",
+      "tags": [
+        "公司"
+      ],
+      "text": "【國城礦業：“趙滿堂實際控制國城礦業”為不實資訊】關於“多家財經媒體報道，趙滿堂實際控制國城礦業，是否真實”的問題，國城礦業在互動平臺表示，該報道為不實資訊，公司已於第一時間對接涉事媒體，督促其完成內容更正。"
+    },
+    {
+      "id": "4956583",
+      "time": "2026-06-26 14:26:13",
+      "tags": [
+        "其他"
+      ],
+      "text": "【中際旭創成交額達400億元】中際旭創成交額達400億元，現跌4.48%。"
+    },
+    {
+      "id": "te:markets:562118",
+      "time": "2026-06-26 14:26:10",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Euro Area",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "European Stocks Head for Lower Open — European equity markets were set to open lower on Friday, tracking losses across global markets as the selloff in technology stocks intensified amid persistent concerns over heavy spending on artificial intelligence infrastructure. Sentiment was also dampened by reports that OpenAI may postpone its initial public offering until 2027. Meanwhile, oil prices continued to retreat to pre-war levels as progress in US-Iran peace efforts eased inflation concerns, though expectations that the US Federal Reserve will still raise interest rates later this year continued to weigh on equities. In Europe, investors will focus on Eurozone consumer inflation expectations, Italian business and consumer confidence, and French jobless claims data. No major corporate earnings are scheduled. In premarket trading, Euro Stoxx 50 and Stoxx 600 futures were down 0.8% and 0.7%, respectively."
+    },
     {
       "id": "mkt:019f0299-bc00-7dd8-b12e-f2962b74823e",
       "time": "2026-06-26 14:24:17",
@@ -157770,85 +157839,6 @@
         "Impact bearish"
       ],
       "text": "Goldman Sachs cuts BMW PT to €84 from €107."
-    },
-    {
-      "id": "4944792",
-      "time": "2026-06-19 14:30:28",
-      "tags": [
-        "公司",
-        "市場",
-        "焦點"
-      ],
-      "text": "鎧俠收盤價首次突破10萬日元。"
-    },
-    {
-      "id": "te:markets:560368",
-      "time": "2026-06-19 14:30:01",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Japan",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The Nikkei 225 Index Closes 0.49% Lower — The Nikkei 225 Index dropped 349 points or 0.49 percent on Friday to close at 70704 points. Losses were led by Sumitomo Metal Mining (-7.04%), NEC (-6.02%) and Daiichi Sankyo (-5.95%). Offsetting the fall, top gainers were Furukawa Electric (15.10%), Sumitomo Electric (10.37%) and Renesas Electron (5.74%)."
-    },
-    {
-      "id": "4944791",
-      "time": "2026-06-19 14:29:55",
-      "tags": [
-        "國際"
-      ],
-      "text": "【美對伊朗小學遭襲調查進入收尾 結果或不了了之】據美國方面18日訊息，美國軍方就此前伊朗米納卜市一所小學遭空襲致上百人死亡一事展開的調查已經進入最終審查階段，但多名美國國會議員擔心，美國防部可能將調查報告列為“機密”，阻止調查結果公之於眾。報知情人士訊息，美軍中央司令部已完成調查，但國會議員們尚未收到任何調查結果的細節。此前在17日，美國總統特朗普稱，調查報告最早可能在18日公開。不過美國防部一名發言人稱，調查仍在進行中。（央視新聞）"
-    },
-    {
-      "id": "4944790",
-      "time": "2026-06-19 14:29:01",
-      "tags": [
-        "其他"
-      ],
-      "text": "英國住房大臣裡德——首相斯塔默的盟友——表示，首相公佈卸任時間表會分散注意力。"
-    },
-    {
-      "id": "4944789",
-      "time": "2026-06-19 14:28:58",
-      "tags": [
-        "國際"
-      ],
-      "text": "韓國總統表示，股市兩極分化令人擔憂。"
-    },
-    {
-      "id": "mkt:019ede91-52f3-7dd8-b08f-6079e1594766",
-      "time": "2026-06-19 14:28:46",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Korea Exchange delays launch of pre-market trading to end-2027."
-    },
-    {
-      "id": "4944788",
-      "time": "2026-06-19 14:28:33",
-      "tags": [
-        "國際"
-      ],
-      "text": "【美國副總統萬斯訓斥以官員“不知感恩”】就美國和伊朗簽署諒解備忘錄“惹惱”以色列等報道，美國副總統萬斯18日指責以內閣成員“對美國提供的外交和軍事援助不知感恩”，訓誡那些認為以色列的“最大麻煩是特朗普總統”的人“認清現實”。萬斯當天告訴媒體，他想提醒以色列政府認清兩點：一是美國總統特朗普是“當下全球唯一對以色列心存同情的國家元首”，以方不應攻擊“其在全球唯一僅存的強大盟友”；二是過去3個月來保護以色列領土的防禦武器中三分之二“為美國製造、由美國買單”。（新華社）"
-    },
-    {
-      "id": "4944787",
-      "time": "2026-06-19 14:26:46",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "韓國交易所將盤前交易啟動時間推遲至2027年底。"
-    },
-    {
-      "id": "mkt:019ede8f-60ff-7dd8-b08f-5a2f8247ba3a",
-      "time": "2026-06-19 14:26:38",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "UK housing minister says the prime minister has made clear he will fight any leadership challenge."
     }
   ]
 }
