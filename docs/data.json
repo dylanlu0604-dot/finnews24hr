@@ -1,7 +1,91 @@
 {
-  "updated": "2026-06-27 00:20:32",
-  "count": 17990,
+  "updated": "2026-06-27 00:24:53",
+  "count": 17997,
   "items": [
+    {
+      "id": "mkt:019f04bd-07d8-7dd8-b13b-2cd143088ac4",
+      "time": "2026-06-27 00:22:04",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "The Trump Trade",
+        "DXY",
+        "Impact bullish",
+        "EURUSD",
+        "Impact bearish",
+        "S&P500"
+      ],
+      "text": "U.S. President Trump said many European countries are discussing imminent taxes on U.S. companies' digital services, with some close to implementation. He declared any country that imposes such a tax will face an immediate 100% tariff on all goods exported to the United States."
+    },
+    {
+      "id": "4957857",
+      "time": "2026-06-27 00:22:03",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：該關稅效力將凌駕於與相關國家達成的所有貿易協定之上，無論協定已落地實施、已簽署抑或尚未簽署。"
+    },
+    {
+      "id": "4957856",
+      "time": "2026-06-27 00:21:49",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "特朗普：任何徵收數字服務稅的國家，其輸往美國的所有商品都將立刻被加徵 100% 關稅。"
+    },
+    {
+      "id": "te:markets:562310",
+      "time": "2026-06-27 00:21:13",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Italy",
+        "Stock Market",
+        "Importance 0"
+      ],
+      "text": "FTSE MIB Posts First Weekly Loss in Three Weeks — The FTSE MIB fell 1% to close at 51,265 on Friday, pressured by AI-related stocks and energy companies. Energy engineering firm Saipem led the declines, dropping 5% as crude prices extended their retreat, while Eni (-1.3%) and A2A (-0.7%) also came under pressure. STMicroelectronics slid 4.8% as investors renewed concerns that debt-funded AI investments may shift market focus from growth expectations to monetization, dragging Prysmian down 3.5%. Banks also weakened, led by FinecoBank (-2.3%), Banca Mediolanum (-2%), Banco BPM (-1.8%), UniCredit (-1.4%), Intesa Sanpaolo (-1.3%), and BPER Banca (-1.2%), with UniCredit warning that elevated market volatility is likely to persist through the summer. On the upside, defense-related stocks rebounded after recent losses, with Leonardo rising 0.3% and Avio gaining 0.8%. Ferrari led the gainers with a 3.1% advance, followed by DiaSorin (+2.9%) and Italgas (+1.4%). For the week, the benchmark index recorded its first weekly loss in three weeks."
+    },
+    {
+      "id": "mkt:019f04bb-e67e-7dd8-b13b-236a162858c1",
+      "time": "2026-06-27 00:20:50",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "U.S. government report says U.S. refining capacity declined by 263,000 barrels per day in 2025."
+    },
+    {
+      "id": "4957855",
+      "time": "2026-06-27 00:20:37",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國政府報告顯示，2025 年美國煉油產能每日縮減 26.3 萬桶。"
+    },
+    {
+      "id": "mkt:019f04bb-a61d-7dd8-b13b-1f0d655ff1d6",
+      "time": "2026-06-27 00:20:34",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "Nikkei reports 28 Japanese firms will jointly develop an AI chatbot in July to assist clients with asset-management services."
+    },
+    {
+      "id": "4957854",
+      "time": "2026-06-27 00:20:19",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：28 家日本企業將於 7 月聯手研發一款面向資產管理客戶的人工智慧對話工具。"
+    },
     {
       "id": "4957853",
       "time": "2026-06-27 00:17:12",
@@ -164459,14 +164543,6 @@
         "Europe & UK"
       ],
       "text": "【British media: PM Starmer to use weekend to weigh staying amid cabinet pressure】The Times reports that after Andy Burnham's by-election win, Prime Minister Starmer is weighing whether to remain in office amid rising pressure from his cabinet. He has publicly ruled out resigning and said he would contest a leadership challenge if Burnham mounted one; privately, aides say he recognizes growing calls from Labour MPs for him to step down. He is expected to spend the weekend with his family while deciding whether to continue resisting the pressure."
-    },
-    {
-      "id": "4945360",
-      "time": "2026-06-20 00:22:19",
-      "tags": [
-        "市場"
-      ],
-      "text": "【德國30年期國債收益率週五漲7個基點，整體持續上揚】週五（6月19日）歐市尾盤，德國10年期國債收益率漲5.6個基點，報2.985%，本週累計下跌1個基點，整體交投於2.988%-2.914%區間。兩年期德債收益率漲3.9個基點，報2.646%，本週累漲2.9個基點，整體交投於2.547%-2.827%區間，6月18日北京時間14:00曾高開至2.827%，隨後快速下挫至2.618%；30年期德債收益率漲7.0個基點，報3.538%，本週累跌1.1個基點。2/10年期德債收益率利差漲1.691個基點，報+33.751個基點，本週累跌3.807個基點。本週，法國10年期國債收益率累跌0.3個基點，義大利10年期國債收益率累跌2.5個基點，西班牙10年期國債收益率累漲3.5個基點，希臘10年期國債收益率累跌2.1個基點。"
     }
   ]
 }
