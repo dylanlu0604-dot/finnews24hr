@@ -1,7 +1,68 @@
 {
-  "updated": "2026-06-26 22:20:53",
-  "count": 17941,
+  "updated": "2026-06-26 22:25:08",
+  "count": 17940,
   "items": [
+    {
+      "id": "4957740",
+      "time": "2026-06-26 22:23:31",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：受航空燃油短缺影響，漢莎航空正準備停飛至多40架飛機。"
+    },
+    {
+      "id": "4957739",
+      "time": "2026-06-26 22:23:21",
+      "tags": [
+        "公司"
+      ],
+      "text": "大秦數字能源技術股份有限公司向港交所提交上市申請書，獨家保薦人為國泰海通。"
+    },
+    {
+      "id": "4957738",
+      "time": "2026-06-26 22:23:13",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：白俄羅斯國家監察委員會地方機構與俄羅斯各地區監察審計機構簽署了多項合作協議。"
+    },
+    {
+      "id": "te:markets:562284",
+      "time": "2026-06-26 22:23:03",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Baltic Dry Index Falls for 5th Day — The Baltic Exchange's dry bulk freight index, which monitors rates for ships carrying dry bulk commodities, extended its decline into a fifth consecutive session on Friday, falling about 2.6% to its lowest since mid-April at 2,524 points. The capesize index, which typically transports 150,000-ton cargoes including iron ore and coal, dropped 4.9% to 3,640 points; and the supramax index decreased by 0.5% to its lowest since June 15 at 1,670 points. By contrast, the panamax index, which tracks vessels carrying around 60,000 to 70,000 tons of coal or grain, rose by 0.7% to 2,110 points. For the week, the benchmark index posted a 7.3% decline."
+    },
+    {
+      "id": "4957737",
+      "time": "2026-06-26 22:21:48",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普發文稱： 其他民調顯示我的支援率達到65%，甚至更高！ 和正直的記者一樣，靠譜的民調機構少之又少，很難找到！"
+    },
+    {
+      "id": "4957736",
+      "time": "2026-06-26 22:20:39",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國股指收窄跌幅；標普500下跌0.1%，納斯達克下跌0.2%，道指持平。"
+    },
+    {
+      "id": "4957735",
+      "time": "2026-06-26 22:19:55",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【富士山附近5.6級地震】日本氣象廳稱，山梨縣富士五湖地區今晚發生5.6級地震後，截至目前，富士山的觀測資料沒有出現變化，火山活動也沒有發現特殊變化。據東京電力公司訊息，該公司轄區內共有約5000戶停電。（CCTV國際時訊）"
+    },
     {
       "id": "4957734",
       "time": "2026-06-26 22:18:49",
@@ -163845,86 +163906,6 @@
         "國際"
       ],
       "text": "法國總統馬克龍：法國不會在第三國設立移民遣返中心，我尊重那些會這樣做的國家。"
-    },
-    {
-      "id": "4945291",
-      "time": "2026-06-19 22:25:01",
-      "tags": [
-        "國際"
-      ],
-      "text": "法國總統馬克龍：我們需要一套更高效的遣返政策，我從未見過設在第三國的遣返中轉中心能夠有效運作。"
-    },
-    {
-      "id": "4945290",
-      "time": "2026-06-19 22:24:33",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【機構：歐洲防務行業將迎來積極需求，但可能面臨供應問題】Vertical Research Partners的分析師在本週於巴黎舉行的歐洲防務展(Eurosatory)之後表示，歐洲國防工業的需求前景看似積極，但供應則是另一回事。分析師Robert Stallard和Karl Oehlschlaeger在一份研究報告中寫道，該行業將面臨財政壓力，但整個歐洲大陸的國防支出呈現出明顯的上升軌跡，這可能是一個持續多年的趨勢。他們寫道：“對於防務公司來說，更大的問題可能不是需求——而可能是供應。“他們表示，更大的問題可能不是預算，而是產能、人員配備、模具、稀土以及國防部的合同流程，並非每家公司都能達到相同的執行水平。"
-    },
-    {
-      "id": "4945289",
-      "time": "2026-06-19 22:24:08",
-      "tags": [
-        "國際"
-      ],
-      "text": "法國總統馬克龍：法國不同意在第三國設立遣返中心。"
-    },
-    {
-      "id": "4945288",
-      "time": "2026-06-19 22:23:38",
-      "tags": [
-        "其他"
-      ],
-      "text": "約旦方面表示 對美伊諒解備忘錄表示歡迎。"
-    },
-    {
-      "id": "te:markets:560509",
-      "time": "2026-06-19 22:23:23",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "France",
-        "stocks",
-        "Importance 1"
-      ],
-      "text": "Sanofi Stock Price Hits 4-week Low — Sanofi shares decreased to 72.69 EUR, the lowest since May 2026. Over the past 4 weeks, Sanofi lost 4.47%, and in the last 12 months, it decreased 11.99%."
-    },
-    {
-      "id": "te:economy:560508",
-      "time": "2026-06-19 22:21:36",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Malawi",
-        "Inflation Rate",
-        "Importance 0"
-      ],
-      "text": "Malawi Inflation Rate Eased in May — The annual inflation rate in Malawi eased to 23.4% in May 2026, down from 24.3% in April. Food costs, which continue to be the main driver of inflation in Malawi, eased to 17.6% from 19.1% in the previous month, particularly cereals such as rice, maize, and maize flour, moderated. Non-food prices increased by 33%, from 33.2%, with upward price pressures from housing and utilities and transportations. On a monthly basis, consumer prices declined by 0.2% after a 2.9% drop in April."
-    },
-    {
-      "id": "mkt:019ee042-1b34-7dd8-b097-a8475c0fb835",
-      "time": "2026-06-19 22:21:29",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK",
-        "EURUSD",
-        "Impact bearish",
-        "DXY",
-        "Impact bullish",
-        "DAX"
-      ],
-      "text": "German Chancellor Merz called the current EU budget proposal unbearable and unacceptable."
-    },
-    {
-      "id": "4945287",
-      "time": "2026-06-19 22:21:27",
-      "tags": [
-        "國際"
-      ],
-      "text": "德國總理默茨：歐盟當前預算方案超出承受能力，無法接受。"
     }
   ]
 }
