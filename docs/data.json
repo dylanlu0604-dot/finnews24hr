@@ -1,7 +1,23 @@
 {
-  "updated": "2026-06-27 03:37:05",
-  "count": 18109,
+  "updated": "2026-06-27 03:41:08",
+  "count": 18110,
   "items": [
+    {
+      "id": "4957959",
+      "time": "2026-06-27 03:40:08",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：黎巴嫩真主黨拒絕美國斡旋達成的框架協議。"
+    },
+    {
+      "id": "4957958",
+      "time": "2026-06-27 03:36:56",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國國務卿魯比奧：美國國防部已做好準備，將根據現有授權與撥款，向黎巴嫩武裝部隊提供超過3000萬美元的償付款。"
+    },
     {
       "id": "mkt:019f056e-cb54-7dd8-b13e-a1c6e33c39d6",
       "time": "2026-06-27 03:36:14",
@@ -165606,16 +165622,6 @@
         "MKT News"
       ],
       "text": "U.S. President Trump greeted U.S. Air Force personnel and delivered remarks."
-    },
-    {
-      "id": "mkt:019ee164-0ff9-7dd8-b09a-ad4fc975cc24",
-      "time": "2026-06-20 03:38:11",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "The Trump Trade"
-      ],
-      "text": "U.S. President Trump will begin his first domestic trip since the G7 summit with a visit to the Mack Trucks plant in Pennsylvania's Lehigh Valley."
     }
   ]
 }
