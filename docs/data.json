@@ -1,7 +1,61 @@
 {
-  "updated": "2026-06-26 14:40:33",
-  "count": 17268,
+  "updated": "2026-06-26 14:44:47",
+  "count": 17264,
   "items": [
+    {
+      "id": "te:economy:562130",
+      "time": "2026-06-26 14:43:12",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Hungary",
+        "Current Account",
+        "Importance 1"
+      ],
+      "text": "Hungary Current Account Surplus Smallest in 5 Years — Hungary’s current account posted a surplus of EUR 0.25 billion in the first quarter of 2026, falling short of market expectations of 0.4 billion and nearly five times smaller than the EUR 1.18 billion surplus recorded in the corresponding period of the previous year. The latest figure also marked the lowest surplus since the first quarter of 2021, largely driven by a EUR 0.47 billion deficit in the goods account, which shifted from a EUR 0.82 billion surplus a year earlier. Meanwhile, the services account surplus widened to EUR 2.17 billion from EUR 2.1 billion. At the same time, the shortfall in the primary income declined to EUR 0.97 billion from EUR 1.15 billion, as well as the secondary income to EUR 0.47 billion from EUR 0.6 billion a year ago."
+    },
+    {
+      "id": "4956612",
+      "time": "2026-06-26 14:42:58",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【主動ETF備戰進入衝刺階段，紅利打頭陣，量化策略亦有佈局】多家頭部基金公司證實，預計最快將於6月底或7月初迎來上報。當前首批主動管理ETF的系統測試與上報材料已準備就緒，交易所針對首批主動ETF的申報通道已正式關閉。 對於“誰來管”的問題，多家基金公司選擇單基金經理掛帥，背後依賴投研團隊或基金經理助理承擔PCF清單等日常運營，而一批長期業績過硬的均衡偏大盤成長型、紅利型的主動基金經理、指數基金經理成為首選。在基金風格上，紅利、量化產品均有佈局，低換手價值型策略因其與主動ETF透明運作機制的高度契合而備受青睞，基金公司普遍選擇了穩健起步的務實姿態，規避高換手與擁擠賽道。因此，首批主動ETF將難見“木頭姐”風格。（中國基金報）"
+    },
+    {
+      "id": "mkt:019f02aa-1f09-7dd8-b12f-66d8ed8a3dad",
+      "time": "2026-06-26 14:42:11",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【French deficit target unresolved; finance minister holds emergency talks to seek savings】French Finance Minister Lescure, after criticism from the national audit office over an undecided budget plan, reiterated his commitment to cutting the deficit and said he hopes to preserve this year’s 5% target, while acknowledging limited room for manoeuvre and warning that unchecked social-spending growth would complicate efforts. The government remains committed to narrowing the deficit to 3% of GDP by 2029 but has not set intermediate-year targets or detailed the spending cuts needed. Lescure will meet finance officials and other ministers on Tuesday to reassess the 2026 budget after the Iran war weighed on growth and pushed up inflation; he said even a modest deficit reduction will require further spending savings."
+    },
+    {
+      "id": "4956611",
+      "time": "2026-06-26 14:41:49",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "滬深兩市成交額超3.3萬億元，較上日此時縮量444億元。"
+    },
+    {
+      "id": "4956610",
+      "time": "2026-06-26 14:41:04",
+      "tags": [
+        "其他"
+      ],
+      "text": "【6月26日：“農產品批發價格200指數”比昨天下降0.06個點】據農業農村部監測，6月26日“農產品批發價格200指數”為111.22，比昨天下降0.06個點，“菜籃子”產品批發價格指數為110.90，比昨天下降0.07個點。截至今日14:00時，全國農產品批發市場豬肉平均價格為14.48元/公斤，比昨天上升0.3%；牛肉66.40元/公斤，與昨天持平；羊肉64.50元/公斤，與昨天持平；雞蛋9.88元/公斤，比昨天下降0.8%；白條雞16.99元/公斤，比昨天下降2.0%。重點監測的28種蔬菜平均價格為4.23元/公斤，比昨天上升0.2%；重點監測的6種水果平均價格為7.36元/公斤，比昨天下降0.7%。鯽魚20.42元/公斤，比昨天下降1.2%；鯉魚14.79元/公斤，比昨天上升1.0%；白鰱魚10.39元/公斤，比昨天下降1.0%；大帶魚42.23元/公斤，比昨天上升1.9%。今日，國內鮮活農產品批發市場重點監測的46個品種中，與昨天相比價格升幅前五名的是菜花、白蘿蔔、油菜、大帶魚和蔥頭，幅度分別為4.2%、2.4%、2.1%、1.9%和1.7%；價格降幅前五名的是西瓜、菠蘿、白條雞、青椒和茄子，幅度分別為4.4%、4.3%、2.0%、1.9%和1.4%。"
+    },
+    {
+      "id": "4956609",
+      "time": "2026-06-26 14:40:35",
+      "tags": [
+        "其他"
+      ],
+      "text": "【廣西首家人工智慧治理研究中心成立】近日，桂林電子科技大學廣西人工智慧治理研究中心揭牌儀式在該校花江校區舉行，這標誌著廣西首家以人工智慧治理為研究物件的文理融合學科交叉研究機構正式成立。"
+    },
     {
       "id": "4956606",
       "time": "2026-06-26 14:39:37",
@@ -157889,97 +157943,6 @@
         "MKT News"
       ],
       "text": "Israeli media reported Israeli officials were shocked by sharp criticism from U.S. Vice President Vance."
-    },
-    {
-      "id": "4944810",
-      "time": "2026-06-19 14:44:15",
-      "tags": [
-        "國際"
-      ],
-      "text": "據東南亞研究協會（SEAJ）報道，日本晶片製造裝置訂單額或將同比增長17.9%。"
-    },
-    {
-      "id": "mkt:019ede9f-04d3-7dd8-b08f-a92999933ffd",
-      "time": "2026-06-19 14:43:43",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "French Foreign Minister Barrot said he is still pushing to convene an international meeting to provide support to the Lebanese army."
-    },
-    {
-      "id": "4944809",
-      "time": "2026-06-19 14:43:27",
-      "tags": [
-        "國際"
-      ],
-      "text": "法國外交部長巴羅表示：目前仍在籌劃舉辦國際會議，為黎巴嫩軍方提供支援。"
-    },
-    {
-      "id": "mkt:019ede9e-1c0b-7dd8-b08f-a7bf839b888b",
-      "time": "2026-06-19 14:42:44",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "ISRAELI MILITARY: In just-concluded intense fighting, a tank was struck, causing casualties among soldiers."
-    },
-    {
-      "id": "4944808",
-      "time": "2026-06-19 14:42:03",
-      "tags": [
-        "國際"
-      ],
-      "text": "以色列軍方：真主黨的違規行為促使我們強烈回應，我們將在接下來的幾個小時內繼續發動攻擊。"
-    },
-    {
-      "id": "mkt:019ede9d-79eb-7dd8-b08f-9d444c3070e5",
-      "time": "2026-06-19 14:42:02",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK",
-        "Wall Street (US)"
-      ],
-      "text": "France's foreign minister Barrot said Israel must stop hostile actions in Lebanon and the United States must pressure Israel."
-    },
-    {
-      "id": "mkt:019ede9d-5db8-7dd8-b08f-91e25f27317e",
-      "time": "2026-06-19 14:41:55",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "DXY",
-        "Brent"
-      ],
-      "text": "【ZAPORIZHZHIA NUCLEAR PLANT says transport workshop struck by Ukrainian drones at least 14 times】Local time 19th, the ZAPORIZHZHIA NUCLEAR PLANT said on social media that between the evening of the 18th and the early hours of the 19th its transport workshop was struck at least 14 times by Ukrainian military drones. The plant reported no casualties and said the strikes were intended to damage transport infrastructure, disrupt logistics and personnel movement, and create additional risks to safe operations. Staff are taking all necessary measures to ensure safe, stable operation. Ukraine had no immediate comment."
-    },
-    {
-      "id": "4944807",
-      "time": "2026-06-19 14:41:50",
-      "tags": [
-        "國際"
-      ],
-      "text": "法國外交部長巴羅：以色列必須停止在黎巴嫩的敵對行動，美國必須向以色列施壓。"
-    },
-    {
-      "id": "4944806",
-      "time": "2026-06-19 14:41:08",
-      "tags": [
-        "其他"
-      ],
-      "text": "【2026端午檔新片票房破億】據燈塔專業版，2026年端午檔新片總票房（含點映及預售）突破1億，《我看見兩朵一樣的雲》《玩具總動員5》《抓特務》暫列前三。"
-    },
-    {
-      "id": "mkt:019ede9c-6ea6-7dd8-b08f-897ad22b84d6",
-      "time": "2026-06-19 14:40:54",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "WTI",
-        "DXY"
-      ],
-      "text": "ISRAELI MILITARY said Hezbollah's violations prompted a strong response and that it will continue strikes over the next several hours."
     }
   ]
 }
