@@ -1,7 +1,102 @@
 {
-  "updated": "2026-06-26 14:06:12",
-  "count": 17254,
+  "updated": "2026-06-26 14:10:16",
+  "count": 17251,
   "items": [
+    {
+      "id": "mkt:019f028c-4786-7dd8-b12e-cf75a20b41b2",
+      "time": "2026-06-26 14:09:35",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Venezuela earthquake kills two Spaniards, 80 missing】Spain's foreign ministry said on the 26th that a strong earthquake in Venezuela killed two Spanish nationals and left 80 Spaniards missing."
+    },
+    {
+      "id": "4956564",
+      "time": "2026-06-26 14:08:58",
+      "tags": [
+        "國際"
+      ],
+      "text": "西班牙外交部26日說，委內瑞拉強震已造成2名西班牙人死亡，80名西班牙人失蹤。（新華社）"
+    },
+    {
+      "id": "4956563",
+      "time": "2026-06-26 14:08:41",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "【無視反對 美政府推進對土耳其戰機引擎軍售】美國政府日前被曝已正式通知國會，計劃向土耳其出售數十臺戰鬥機引擎，這筆軍售總額超過7億美元。此舉遭到部分國會民主黨籍議員反對。據路透社25日報道，美國國務院在24日晚些時候遞交國會的通知中說：“美國政府已準備好為這些戰機引擎的出口發放許可證，並已綜合考慮政治、軍事、經濟、人權及軍控等因素。”（新華社）"
+    },
+    {
+      "id": "te:economy:562107",
+      "time": "2026-06-26 14:08:38",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Sweden",
+        "Producer Prices Change",
+        "Importance 1"
+      ],
+      "text": "Swedish Producer Inflation Hits Highest Since 2023 — Producer prices in Sweden increased 6.6% year-on-year in May 2026, accelerating from a 4.7% rise in the previous month. It was the third consecutive month of increases and the sharpest rise since February 2023, largely driven by persistently higher energy costs (32.7% vs 27.0% in April). Excluding energy-related products, producer prices rose 2.7%, accelerating from a 1.4% increase in the previous month. On a monthly basis, producer prices increased 1.3% in May, following a 1.1% gain in April."
+    },
+    {
+      "id": "4956562",
+      "time": "2026-06-26 14:08:21",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【大華繼顯：泰國住宅房地產行業面臨供應成本和需求逆風】大華繼顯的分析師在一份研究報告中表示，泰國住宅房地產行業可能正面臨供應端成本壓力和需求端逆風。大華繼顯的分析師表示，供應端成本壓力是由建築材料成本激增驅動的，預計從第二季度起，這將壓縮在建工程的毛利率。至於需求端逆風，房貸拒批率依然居高不下，迫使開發商提供激進的價格促銷以清空製成品庫存。該經紀機構維持對該板塊的中性評級。該機構看好AP (Thailand)，對其給予買入評級，目標價為8.50泰銖。該股上漲0.7%，報7.20泰銖。"
+    },
+    {
+      "id": "4956561",
+      "time": "2026-06-26 14:08:01",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "20號膠連續主力合約日內跌5%，現報14135.00元。"
+    },
+    {
+      "id": "mkt:019f028a-cdfd-7dd8-b12e-c491a6c3b19a",
+      "time": "2026-06-26 14:07:58",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "JP Morgan said that even if a peace agreement holds, the Iran conflict will continue to affect market conditions across EMEA (Europe, Middle East and Africa)."
+    },
+    {
+      "id": "4956560",
+      "time": "2026-06-26 14:06:37",
+      "tags": [
+        "公司",
+        "觀點",
+        "國際"
+      ],
+      "text": "摩根大通新興歐非中東證券有限公司：即便和平協議得以維持，衝突仍將影響歐洲、中東及非洲地區各市場的行情。"
+    },
+    {
+      "id": "mkt:019f0289-218c-7dd8-b12e-bf3b8246aa9e",
+      "time": "2026-06-26 14:06:09",
+      "tags": [
+        "MKT News",
+        "MSFT.O",
+        "Impact bearish"
+      ],
+      "text": "Italy's competition authority opens probe into Microsoft (MSFT.O) over Microsoft 365 subscription price increases."
+    },
+    {
+      "id": "4956559",
+      "time": "2026-06-26 14:05:43",
+      "tags": [
+        "其他"
+      ],
+      "text": "義大利競爭管理局已對微軟就“Microsoft 365”訂閱提價一事展開調查。"
+    },
     {
       "id": "mkt:019f0288-7401-7dd8-b12e-b787235d2618",
       "time": "2026-06-26 14:05:24",
@@ -157717,125 +157812,6 @@
         "其他"
       ],
       "text": "Prosus：預計本財年持續經營業務核心每股基本收益同比增長 19% 至 28%。"
-    },
-    {
-      "id": "mkt:019ede80-4a60-7dd8-b08f-3ecdb895337d",
-      "time": "2026-06-19 14:10:09",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "South Korea's Lee said the election commission needs fundamental reform."
-    },
-    {
-      "id": "mkt:019ede80-1918-7dd8-b08f-37d2a7492f0c",
-      "time": "2026-06-19 14:09:57",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK"
-      ],
-      "text": "UK Prime Minister Starmer: Labour will not collapse."
-    },
-    {
-      "id": "4944772",
-      "time": "2026-06-19 14:09:48",
-      "tags": [
-        "其他"
-      ],
-      "text": "英國住房大臣裡德表示，工黨不會分裂。"
-    },
-    {
-      "id": "4944771",
-      "time": "2026-06-19 14:09:22",
-      "tags": [
-        "其他"
-      ],
-      "text": "Prosus：盈利受合併業務及權益法核算投資（尤其是騰訊）的強勁營收與盈利能力增長所驅動。"
-    },
-    {
-      "id": "4944770",
-      "time": "2026-06-19 14:09:04",
-      "tags": [
-        "公司",
-        "觀點",
-        "國際"
-      ],
-      "text": "摩根大通歐洲發現信託：對歐洲小型股公司持續向好的前景持樂觀態度，並因此對公司自身前景亦抱有信心。"
-    },
-    {
-      "id": "te:economy:560347",
-      "time": "2026-06-19 14:08:51",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "United Kingdom",
-        "Retail Sales MoM",
-        "Importance 2"
-      ],
-      "text": "UK Retail Sales Rebound More Than Expected — UK retail sales volumes rose 1.2% month-on-month in May 2026, rebounding from a downwardly revised 1.0% decline in April and exceeding market expectations of a 0.5% increase. This marked the strongest monthly growth in four months, driven by a 6.1% jump in non-store retail sales volumes, the largest increase since February 2025, lifting sales to their highest level since January 2022. Retailers attributed the gain to promotional campaigns and warmer weather, which boosted demand for seasonal products such as outdoor furniture and fans. Meanwhile, non-food stores also posted solid growth, with department stores benefiting from the same factors."
-    },
-    {
-      "id": "mkt:019ede7e-ed5d-7dd8-b08f-298769b3fba3",
-      "time": "2026-06-19 14:08:40",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "UK housing secretary says Labour is not divided and remains focused on delivering change."
-    },
-    {
-      "id": "4944769",
-      "time": "2026-06-19 14:08:20",
-      "tags": [
-        "國際"
-      ],
-      "text": "韓國總統：有必要對選舉委員會進行根本性改革。"
-    },
-    {
-      "id": "4944768",
-      "time": "2026-06-19 14:07:56",
-      "tags": [
-        "觀點",
-        "國際"
-      ],
-      "text": "摩根大通歐洲發現信託：儘管過去一年市場波動顯著，歐洲股票的投資環境仍然向好。"
-    },
-    {
-      "id": "4944767",
-      "time": "2026-06-19 14:07:48",
-      "tags": [
-        "其他"
-      ],
-      "text": "英國住房大臣、首相斯塔默盟友裡德表示，不能冒險讓大曼徹斯特市長職位落入改革黨手中，目前必須集中精力贏得這場選舉。"
-    },
-    {
-      "id": "mkt:019ede7d-a359-7dd8-b08f-2304affa0bd0",
-      "time": "2026-06-19 14:07:16",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "Brent",
-        "Impact bullish",
-        "WTI"
-      ],
-      "text": "Brent crude reclaimed $80/bbl, up 1.24% intraday."
-    },
-    {
-      "id": "4944766",
-      "time": "2026-06-19 14:07:10",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "布倫特原油突破80美元/桶，日內漲0.68%。"
-    },
-    {
-      "id": "4944765",
-      "time": "2026-06-19 14:07:07",
-      "tags": [
-        "市場"
-      ],
-      "text": "WTI原油日內漲1%，現報76.61美元/桶。"
     }
   ]
 }
