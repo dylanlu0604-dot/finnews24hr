@@ -1,7 +1,37 @@
 {
-  "updated": "2026-06-26 13:29:15",
+  "updated": "2026-06-26 13:33:24",
   "count": 17245,
   "items": [
+    {
+      "id": "4956515",
+      "time": "2026-06-26 13:31:31",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "天然橡膠連續主力合約日內跌3%，現報16465.00元。"
+    },
+    {
+      "id": "mkt:019f0269-1ae9-7dd8-b12e-2d33ddd70264",
+      "time": "2026-06-26 13:31:10",
+      "tags": [
+        "MKT News",
+        "Copper",
+        "Impact bullish",
+        "CNH",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "【China electric loaders in hot demand; construction machinery order books full】June is normally a seasonal trough for China’s construction machinery sector, but production lines are running at full capacity, electric models are in acute shortage and delivery cycles have lengthened significantly. New-energy construction equipment sales remain strong: Jan–May electric loader sales totaled 20,819 units, up 90.9% YoY. Electrification is becoming the industry's primary growth engine. Exports are also elevated: Jan–May construction machinery trade was $28.911 bln, up 19.5% YoY, with exports of $27.902 bln, up 20.8%. Many manufacturers report capacity constraints and say logistics have shifted from monthly concentrated shipments to continuous dispatching."
+    },
+    {
+      "id": "4956514",
+      "time": "2026-06-26 13:30:06",
+      "tags": [
+        "其他"
+      ],
+      "text": "【中國電動裝載機熱銷 工程機械訂單爆滿】每年六月份通常是工程機械行業的傳統淡季，但今年卻出現了“淡季不淡”的火熱景象。央視財經記者在走訪中發現，多家企業生產線滿負荷運轉，電動產品更是“一機難求”，部分訂單交付週期大幅延長。資料顯示，今年1至5月份，我國新能源工程機械銷量保持較好的勢頭，以電動裝載機為例，1至5月份累計銷售20819臺，同比增長90.9%。電動化正在成為工程機械行業增長的核心引擎。國內市場“淡季不淡”，海外市場同樣飄紅。今年前五個月，我國工程機械出口持續高增長，多家企業突破產能上限，物流發貨節奏也從“月度集中”轉為“常態化”。資料顯示，今年1至5月，我國工程機械進出口貿易額為289.11億美元，同比增長19.5%，其中出口金額279.02億美元，同比增長20.8%。 （央視財經）"
+    },
     {
       "id": "4956513",
       "time": "2026-06-26 13:28:14",
@@ -157781,34 +157811,6 @@
         "Impact bullish"
       ],
       "text": "WTI crude up over 1% intraday, trading at $76.18/bbl."
-    },
-    {
-      "id": "4944747",
-      "time": "2026-06-19 13:33:13",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "美國原油期貨轉漲，升至每桶77.34美元的盤中高點。"
-    },
-    {
-      "id": "4944746",
-      "time": "2026-06-19 13:31:20",
-      "tags": [
-        "市場"
-      ],
-      "text": "日經225指數由漲轉跌；最新報70759.64點，跌幅0.4%。"
-    },
-    {
-      "id": "te:markets:560340",
-      "time": "2026-06-19 13:30:18",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Crypto",
-        "Importance 1"
-      ],
-      "text": "Crypto Updates: XRP Depreciates by 1.43% — Top crypto losers are XRP (-1.43%), Ether (-1.03%) and Bitcoin (-0.57%)."
     }
   ]
 }
