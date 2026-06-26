@@ -1,7 +1,703 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-06-26 21:54:06_
-_本檔包含 3843 則快訊，約 663599 字_
+_更新時間：2026-06-26 22:42:52_
+_本檔包含 3861 則快訊，約 663911 字_
+
+---
+
+### 2026-06-25 20:48:57  #Trading Economics #Markets #United States #Stock Market #Importance 2
+
+US Futures Hold Gains after PCE Report — US equity futures gained on Thursday after the earnings report by Micron Technology restored support for the artificial intelligence trade. Contracts for the Nasdaq 100 gained over 2% and those for the S&P 500 added 1%. Micron surged 17% premarket after beating earnings and sales expectations and estimating approximately a revenue of $50 billion in the quarter to August, above the expectations of $43.2 billion. Stability for the AI infrastructure sector was also supported by Micron unveiling 16 longer-term contracts. Also, Qualcomm jumped 15% after the chipmaker doubled its projection for non-handset revenue in the next thee years and announced a partnership with Meta. Softer inflationary risks also supported broader sectors as energy prices also continued fall and PCE price indices refrained from overshooting expectations, lifting the Dow to a record high of over 52,000. Banking shares gained as lenders will raise their dividends after passing the Federal Reserve's stress test.
+
+---
+
+### 2026-06-25 20:48:21  #Trading Economics #Economy #United States #Real Personal Spending MoM #Importance 1
+
+Real US Personal Spending Rebounds in May — Inflation-adjusted US personal spending rose 0.3% month-over-month in May 2026, after a revised flat reading in April. Spending on goods rebounded 0.5%, following a 0.4% fall in April, with motor vehicles and parts rising 0.9% (vs -3.8% in April) and clothing and footwear increasing 0.4% (vs -0.4%). Recreational goods and vehicles also saw a rebound (0.8% vs -0.3%). Meanwhile, spending on services rose 0.2%, the same as in the previous month.
+
+---
+
+### 2026-06-25 20:48:06  #公司 #市場
+
+【蘋果因記憶體短缺大幅漲價，Mac及iPad多款產品調價幅度達20%】蘋果公司6月25日宣佈上調Mac、iPad及家居裝置價格，以應對AI資料中心擴張引發的記憶體晶片及儲存器空前短缺所帶來的成本壓力。具體漲價幅度：MacBook Neo起售價從599美元升至699美元，MacBook Air從1099美元升至1299美元，14英寸入門款MacBook Pro從1699美元升至1999美元，11英寸iPad Pro從999美元升至1199美元，iPad Air從599美元升至749美元。上述調價為全球性漲價，iPhone價格暫未調整。蘋果發言人表示，“AI資料中心的快速擴張造成記憶體和儲存器需求的超常規激增”，公司“從未見過零部件價格漲得如此之快、如此之多”，並表示此前已盡力為消費者吸收成本上漲壓力，“但現在已到了不得不開始提價的時刻”。
+
+---
+
+### 2026-06-25 20:47:43  #MKT News
+
+U.S. ambassador to NATO said he recently held talks with Turkey on jet-engine sales.
+
+---
+
+### 2026-06-25 20:47:40  #國際
+
+歐盟計劃在碳改革中引入動態市場穩定儲備。
+
+---
+
+### 2026-06-25 20:47:33  #國際
+
+歐盟將在改革中把國內碳清除納入排放交易體系。
+
+---
+
+### 2026-06-25 20:47:26  #國際
+
+歐盟希望將免費二氧化碳排放許可與清潔投資掛鉤，以推動改革。
+
+---
+
+### 2026-06-25 20:47:15  #國際
+
+美國駐北約大使：最近與土耳其方面談過噴氣發動機銷售事宜。
+
+---
+
+### 2026-06-25 20:46:57  #央行 #其他
+
+智利央行購入2500萬美元。
+
+---
+
+### 2026-06-25 20:46:40  #MKT News #Important #Commodities #Precious Metals
+
+Spot silver up 1.00% intraday at $58.05/oz.
+
+---
+
+### 2026-06-25 20:46:34  #市場 #焦點
+
+現貨白銀突破58美元/盎司，日內漲1.08%。
+
+---
+
+### 2026-06-25 20:46:34  #市場
+
+現貨白銀日內漲1%，現報58.03美元/盎司。
+
+---
+
+### 2026-06-25 20:45:38  #MKT News #Star Stocks #Apple #Market Themes #Magnificent 7 #AAPL.O #Impact bearish
+
+Apple (AAPL.O) shares fell 0.7% in premarket trading after the company raised prices on iPad and Mac to offset a storage-chip shortage.
+
+---
+
+### 2026-06-25 20:43:58  #Trading Economics #Economy #United States #Core PCE Price Index Annual Change #Importance 1
+
+US Annual Core PCE Inflation Rises the Most Since October 2023 — The core PCE price index in the US, which is the Federal Reserve's preferred gauge of underlying inflation in the US economy, rose by 3.4% year-on-year in May 2026, the most since October 2023 and well above the Federal Reserve's 2% target. Figures aligned with analysts' estimates.
+
+---
+
+### 2026-06-25 20:43:40  #MKT News #Important #Market Regions #Europe & UK
+
+Russia's foreign ministry said it has expelled Romania's consul-general and ordered the closure of Romania's consulate in St. Petersburg.
+
+---
+
+### 2026-06-25 20:43:19  #宏觀 #國際
+
+【李強同孟加拉國總理塔裡克會談】6月25日下午，國務院總理李強在北京人民大會堂同來華進行正式訪問的孟加拉國總理塔裡克舉行會談。李強表示，中國和孟加拉國是相知相親的傳統友鄰。習近平主席將同總理先生舉行會晤，就進一步深化中孟關係作出新的戰略規劃。中方堅定支援孟方走符合本國國情的發展道路，支援孟加拉國新一屆政府順利施政。面對當前複雜變化的國際環境，中方願同孟方一道堅持睦鄰友好，鞏固戰略互信，拓展務實合作，推動中孟關係不斷取得新的更大發展，更好造福兩國人民。（新華社）
+
+---
+
+### 2026-06-25 20:43:03  #市場 #焦點
+
+蘋果股價盤前下跌0.7%，此前iPad和Mac產品全線提價。
+
+---
+
+### 2026-06-25 20:42:55  #國際
+
+俄羅斯外交部：俄羅斯驅逐羅馬尼亞總領事，並關閉羅馬尼亞駐聖彼得堡總領事館。
+
+---
+
+### 2026-06-25 20:42:55  #MKT News #Important #Macro & Rates #US Economy #The Fed (FOMC) #DXY #Impact bullish #US10Y #WTI
+
+【US May PCE y/y breaks above 4% as consumer spending remains strong】US May PCE price index y/y rose to 4.1%, the largest gain since April 2023 and the first reading above 4.0% in three years, the US Commerce Department said. Higher energy following recent US-led military action against Iran lifted oil and gasoline prices; a fragile ceasefire has since eased oil and gasoline but economists expect inflation to remain elevated for a period. Consumers had already been contending with price increases from Trump-era import tariffs. The Fed last week held the policy rate at 3.50%-3.75% but updated projections show officials expect rate hikes this year amid rising inflation concerns; markets price the first hike as early as September, with another likely thereafter.
+
+---
+
+### 2026-06-25 20:42:47  #央行 #資料 #市場 #焦點 #國際
+
+【美國5月PCE年率突破4%關口 消費者支出強勁】受中東衝突推高能源價格影響，美國5月通脹進一步上行，PCE年率三年來首次突破4%關口，這可能使美聯儲更接近在今年加息。美國商務部週四公佈資料顯示，美國5月PCE物價指數年率錄得4.1%，為2023年4月以來最大漲幅，也是該資料首次高於4.0%。美國主導的對伊戰爭推高了油價，進而推升汽油價格。儘管近幾周隨著脆弱的停火協議達成，原油和汽油價格有所回落，但經濟學家預計通脹將在一定時期內保持高位。而在此次衝突之前，消費者已在應對特朗普大規模進口關稅所引發的物價上漲。美聯儲上週將利率維持在3.50%-3.75%區間不變，但更新的季度預測顯示，政策制定者因對通脹的擔憂加劇，預計今年將加息。金融市場押注最早可能在9月加息，此後可能還有一次加息。
+
+---
+
+### 2026-06-25 20:41:52  #Trading Economics #Economy #United States #Core PCE Price Index MoM #Importance 3
+
+US Core PCE Prices Rise 0.3% in May as Expected — The core PCE price index in the US, which is the Federal Reserve's preferred gauge of underlying inflation in the US economy, rose by 0.3% from the previous month in May 2026, the same as in April and in line with market forecasts. From the previous year, the core PCE price index rose by an expected 3.4%, the highest since October 2023 and well above the Federal Reserve's 2% target.
+
+---
+
+### 2026-06-25 20:41:52  #MKT News #Star Stocks #Apple #Market Themes #Magnificent 7
+
+Apple (AAPL.O) said it will spare no effort to find solutions to address the current situation.
+
+---
+
+### 2026-06-25 20:41:46  #市場 #國際
+
+美國資料公佈後，墨西哥比索短暫收復失地，南非蘭特觸及盤中高點。
+
+---
+
+### 2026-06-25 20:41:45  #MKT News #Star Stocks #Apple #Market Themes #Magnificent 7 #AAPL.O #Impact bearish
+
+Apple (AAPL.O) said it has never seen component prices rise so quickly.
+
+---
+
+### 2026-06-25 20:41:33  #MKT News #Important #Market Themes #AI Revolution #Magnificent 7 #Star Stocks #Apple #MU.O #Impact bullish #NVDA.O
+
+Apple (AAPL.O): Rapid expansion of AI data centers has driven a sharp increase in memory demand.
+
+---
+
+### 2026-06-25 20:41:17  #MKT News #Star Stocks #Apple #Market Themes #Magnificent 7 #AAPL.O
+
+Apple (AAPL.O): electronics industry faces unprecedented challenges.
+
+---
+
+### 2026-06-25 20:41:05  #MKT News #Important #Star Stocks #Apple #Market Themes #Magnificent 7 #AAPL.O #Impact mixed
+
+【Apple raises prices on multiple Mac and iPad models】Apple raised list prices: MacBook Neo from $599 to $699; iPad Pro from $999 to $1,199; iPad Air to $749; MacBook Air to $1,299; MacBook Pro to $1,999.
+
+---
+
+### 2026-06-25 20:40:25  #Trading Economics #Economy #Canada #Wage Growth #Importance 1
+
+Canada Weekly Earnings Growth Accelerates — Average weekly earnings of Canadian non-farm payroll employees rose 3.8% year-on-year to C$1,346 in April 2026, accelerating from a 3.5% increase in March and marking the fastest increase since April 2025. The strongest gains were recorded in utilities (11.2%), information and cultural industries (10.1%), finance and insurance (8.2%), retail trade (7.2%), and professional, scientific and technical services (6.7%). In contrast, earnings declined in real estate and rental and leasing (-3.9%). By province, the largest increases were seen in Nunavut (8.1%), New Brunswick (6.7%), Manitoba (6.2%), and Nova Scotia (5.9%). On a month-over-month basis, average weekly earnings rose 1.0%. Meanwhile, average weekly hours worked were little changed at 33.5 hours, both from the previous month and a year earlier.
+
+---
+
+### 2026-06-25 20:40:18  #MKT News #Important
+
+Apple (AAPL.O) is raising prices on Mac and iPad models to offset a memory shortage.
+
+---
+
+### 2026-06-25 20:40:17  #公司
+
+【百度智慧雲：百度千帆Coding Plan套餐停止續費】百度智慧雲釋出公告，因產品策略調整，自2026年6月25日起，Coding Plan所有套餐將停止續費服務。已購買Coding Plan套餐，可繼續正常使用至當前服務週期結束，不受本次調整影響。套餐到期後，將不再支援續費或自動續費，相關服務權益也將隨套餐到期而結束。
+
+---
+
+### 2026-06-25 20:40:03  #公司 #市場
+
+蘋果公司宣告稱，人工智慧資料中心熱潮引發了對記憶體和儲存的空前需求，迫使價格上漲。
+
+---
+
+### 2026-06-25 20:40:00  #其他
+
+蘋果MacBook Neo起售價將從599美元上調至699美元。
+
+---
+
+### 2026-06-25 20:39:56  #其他
+
+蘋果：儲存容量為512GB的蘋果MacBook Air售價將從1099美元上調至1299美元。
+
+---
+
+### 2026-06-25 20:39:56  #MKT News #Macro & Rates #US Economy #DXY #Impact bullish #US10Y #EURUSD #Impact bearish
+
+TIMIRAOS: May US core PCE MoM 0.32%, slightly below expectations but still the fourth-highest monthly reading in the past 12 months (annualized 3.9%). Core PCE YoY 3.4%, highest since Oct 2023; six-month annualized rate above 4%.
+
+---
+
+### 2026-06-25 20:39:48  #其他
+
+蘋果11英寸iPad Pro無線區域網機型256GB版本售價將從999美元上調至1199美元。
+
+---
+
+### 2026-06-25 20:39:46  #其他
+
+蘋果128GB版iPad Air售價將從599美元上調至749美元。
+
+---
+
+### 2026-06-25 20:39:40  #公司
+
+蘋果公司提高MAC、IPAD和家用電器的價格以應對記憶體短缺問題。
+
+---
+
+### 2026-06-25 20:39:20  #國際
+
+菲律賓養老金改革諮詢委員會（CARF）表示：若不進一步採取措施，要實現2027財年目標將存在46萬億比索的資金缺口，規模高於政府此前的預測。
+
+---
+
+### 2026-06-25 20:39:10  #Trading Economics #Economy #United States #Personal Spending #Importance 3
+
+US Consumer Spending Rises More than Expected — US personal spending rose by 0.7% month-on-month in May 2026, or $156.1 billion, accelerating from a downwardly revised 0.4% increase in April and beating market expectations of a 0.6% gain. Spending on goods rose by $61.8 billion. Spending on services climbed by $94.3 billion. Meanwhile, inflation-adjusted consumer spending increased 0.3% in May, after a flat reading in April.
+
+---
+
+### 2026-06-25 20:39:10  #Trading Economics #Economy #United States #PCE Price Index Monthly Change #Importance 2
+
+US PCE Inflation Rises Less than Expected — The US PCE price index rose 0.4% month-over-month in May 2026, less than market expectations of a 0.5% increase, matching the pace recorded in April. Goods inflation eased to 0.4% from 0.7%, while services inflation rose to 0.5% from 0.3% in each of the previous two months. The core PCE index, which excludes food and energy, increased 0.3%, the same pace as in the previous month and matching market forecasts. On an annual basis, headline PCE inflation accelerated for a third straight month to 4.1% from 3.8%, in line with expectations and marking the highest reading since April 2023. Core PCE inflation edged up to 3.4% from 3.3%, also matching forecasts and reaching its highest level since late 2023.
+
+---
+
+### 2026-06-25 20:38:39  #MKT News #Macro & Rates #The Fed (FOMC) #S&P500 #Impact bullish #Nasdaq100
+
+【US stock futures extend gains as PCE broadly meets expectations】US stock futures extended gains after May PCE broadly matched expectations, reinforcing market hopes the Federal Reserve will not be overly hawkish. The Commerce Department reported May PCE +0.4% MoM (Refinitiv survey +0.5%); YoY +4.1% in line with forecasts. Core PCE rose 0.3% MoM, +3.4% YoY.
+
+---
+
+### 2026-06-25 20:38:29  #央行 #美聯儲
+
+美國短期利率期貨在經濟資料公佈後上漲，交易員削減對美聯儲加息的押注。
+
+---
+
+### 2026-06-25 20:38:12  #MKT News #Market Themes #AI Revolution
+
+【Moore Threads, Peking University sign agreement to set up joint Intelligent Graphics and Simulation Lab】On June 24 Peking University and Moore Threads signed an agreement to establish the Peking University–Moore Threads Intelligent Graphics and Simulation Joint Laboratory. The lab will focus on core technologies including graphics rendering, physical simulation, spatial intelligence, 3D Gaussian reconstruction (3DGS) and embodied intelligence; it will support basic science research and pursue hardware‑software integrated collaboration to drive full‑stack performance optimization from chips to applications, building a domestic technology base for spatial and embodied intelligence industries.
+
+---
+
+### 2026-06-25 20:38:06  #Trading Economics #Economy #United States #Initial Jobless Claims #Importance 2
+
+US Initial Jobless Claims Fall More than Expected — The number of people claiming unemployment benefits in the US eased by 12,000 to 215,000 on the third week of June, the lowest in four weeks, and below market expectations of 225,000. Meanwhile, continuing claims, which are seen as a gauge of outstanding unemployment in the US, rose by 21,000 from to 1,821,000 in the first week of June, the highest in three months. The claim counts were higher than those observed in the start of the second quarter, but remained robust on historical standards, maintaining the trend of low firing and low hiring. Meanwhile, initial claims filed by federal employees, which have been under scrutiny due the administration's efforts in decreasing the number of public workers, fell by 61 to 431.
+
+---
+
+### 2026-06-25 20:38:05  #Trading Economics #Economy #United States #Durable Goods Orders #Importance 2
+
+US Durable Goods Orders Slip as Expected — New orders for US-manufactured durable goods dropped by 4.5% from the prior month to $332 billion in May 2026, after an upwardly revised 8.5% jump in April, in line with market forecasts. This follows two consecutive months of increases and marked the steepest decline since June 2025., mainly due to reduced orders for transport equipment (-14%) and capital goods (-13.6%). Excluding transportation, new orders rose by 1.3%, following an upwardly revised 1.4% advance in April; while excluding defense, they slipped by 4.6%, after an upwardly revised 8.4% surge in the month before.
+
+---
+
+### 2026-06-25 20:37:38  #央行 #國際
+
+歐洲央行：將非金融債權組合納入通用抵押品框架，逐步退出臨時措施；此次調整是終止臨時性危機時期抵押品寬鬆措施的最後一步。
+
+---
+
+### 2026-06-25 20:36:21  #公司
+
+【愛旭股份：浙江愛旭擬向滁州愛旭增資8億元】愛旭股份公告，公司控股子公司浙江愛旭太陽能科技有限公司擬以自有資金對其全資子公司滁州愛旭太陽能科技有限公司增加註冊資本金8億元。增資前滁州愛旭註冊資本為5.22億元，增資後增至13.22億元。公司於2026年6月25日召開第十屆董事會第六次會議審議透過了《關於向子公司增資的議案》，本次交易無需提交股東會審議，不構成關聯交易及重大資產重組。本次增資尚需市場監督管理局核准登記。
+
+---
+
+### 2026-06-25 20:36:10  #MKT News
+
+Polish Prime Minister Tusk said the security situation is likely to see multiple escalations over the coming weeks and months.
+
+---
+
+### 2026-06-25 20:36:01  #Trading Economics #Economy #United States #Chicago Fed National Activity Index #Importance 1
+
+Chicago Fed National Activity Index Falls in May — The Chicago Fed National Activity Index (CFNAI) decreased to –0.10 in May 2026, from a upwardly revised +0.19 in April. Two of the four broad categories of indicators used to construct the index decreased from April, and three categories made negative contributions in May. Production-related indicators contributed –0.04 in May, down from +0.23 in the prior month, while employment-related indicators contributed –0.04 (down from +0.05). The personal consumption and housing category's contributed –0.04 , remaining unchanged from April. Meanwhile, the sales, orders, and inventories category's contributioned positively by 0.02 (up from –0.04).
+
+---
+
+### 2026-06-25 20:35:50  #MKT News #Market Regions #Europe & UK #DAX #Impact bullish #FTSE100
+
+STOXX Europe 600 continued higher after a US data release, up 0.9%.
+
+---
+
+### 2026-06-25 20:35:35  #MKT News #Macro & Rates #Treasury Yields #US10Y #Impact bullish
+
+Following mild U.S. PCE data, U.S. Treasuries erased most losses.
+
+---
+
+### 2026-06-25 20:35:33  #國際
+
+波蘭總理圖斯克：未來數週及數月內，我們預計安全域性勢會出現各類升級情況。
+
+---
+
+### 2026-06-25 20:35:22  #公司
+
+【國投豐樂：擬非公開協議受讓國投金種60%股權】國投豐樂公告稱，公司擬以非公開協議轉讓方式，受讓控股股東國投種業持有的國投金種60%股權。此次交易系國投集團控制企業內部種業板塊資源整合，不構成重大資產重組。以2026年1月31日為評估基準日，國投金種股東全部權益價值為5627.47萬元，交易定價不得低於經備案/核准的資產評估結果。公司已履行必要內部前置審議程式及審計、評估工作，尚需國投種業決策、公司董事會和股東會審議及國投集團批准。
+
+---
+
+### 2026-06-25 20:34:56  #其他
+
+【摩爾執行緒與北京大學簽署合作協議 共建智慧圖形與模擬聯合實驗室】6月24日，北京大學與摩爾執行緒正式簽署合作協議，宣佈共建“北大-摩爾執行緒智慧圖形與模擬聯合實驗室”。該實驗室將聚焦圖形渲染、物理模擬、空間智慧、3D高斯重建（3DGS）與具身智慧等前沿領域的關鍵技術攻關，同步支撐基礎科學研究，透過軟硬一體化深度協同，推動從底層晶片到上層應用的全棧效能最佳化，為空間智慧與具身智慧產業構建堅實的國產化技術底座。
+
+---
+
+### 2026-06-25 20:34:50  #市場 #國際
+
+歐洲斯托克600指數<.STOXX>在美國經濟資料公佈後延續漲勢，最新上漲0.9%。
+
+---
+
+### 2026-06-25 20:34:47  #公司
+
+【大族鐳射：控股子公司擬共同投資不超過25.2億元建設年產6000萬芯公里光纖及預製棒專案】大族鐳射公告，為進一步落實公司戰略發展規劃，推進公司產能佈局，助力公司光纖業務協同發展，公司控股子公司永通智造及張家港大族擬以自有資金及自籌資金於江蘇省張家港市投資建設年產6000萬芯公里光纖及預製棒專案，專案總投資不超過人民幣25.2億元，將根據業務情況分二期建設，一期專案投入15.2億元，二期專案投入10億元。
+
+---
+
+### 2026-06-25 20:33:57  #MKT News #Market Regions #Europe & UK #EURUSD #Impact mixed #DXY #US10Y
+
+Eurozone government bond yields eased after US PCE inflation data; Germany's two-year Bund yield fell 1.6 bps to 2.538%.
+
+---
+
+### 2026-06-25 20:33:48  #宏觀 #國際
+
+【荷蘭警告美國：不可接受】據路透社23日報道，荷蘭外貿與發展合作大臣舍爾茨瑪當天在華盛頓會見了美國商務部長盧特尼克及多名國會議員，對美國擬出臺的《硬體技術控制多邊協同法案》（簡稱MATCH法案）表達了擔憂。該法案迫使包括荷蘭在內的美國盟友同步執行美方針對中國的出口管制措施。報道稱，MATCH法案於今年4月提出，旨在透過建立相關機制迫使美國盟友同步限制對華出口，從而加大中國晶片製造商生產人工智慧（AI）半導體的難度。彭博社稱，荷蘭政府批評該法案具有“域外效力”，對別國主權貿易政策施加了限制。舍爾茨瑪在華盛頓接受媒體採訪時表示，該法案部分條款顯示，美國或將主導部分事關荷蘭國家安全及本土企業經營的決策。他補充道，荷蘭與美國原本有著良好合作關係，若這份合作演變為強制捆綁，“在荷蘭看來是不可接受的”。（環球時報）
+
+---
+
+### 2026-06-25 20:33:39  #市場 #國際
+
+歐元區債券收益率在美國PCE通脹資料公佈後小幅回落；德國兩年期債券收益率<DE2YT=RR>下跌1.6個基點，報2.538%。
+
+---
+
+### 2026-06-25 20:33:38  #MKT News #Macro & Rates #US Economy #Nasdaq100 #Impact bullish
+
+Nasdaq-100 futures rose to intraday highs after the release of US economic data.
+
+---
+
+### 2026-06-25 20:33:17  #Trading Economics #Economy #United States #GDP Growth Rate #Importance 1
+
+US GDP Growth Rate Revised Higher in Q1 — The US economy expanded an annualized 2.1% in the first quarter of 2026, revised up from 1.6% in the second estimate, primarily reflecting a downward revision to imports that was partly offset by a downward revision to consumer spending.
+
+---
+
+### 2026-06-25 20:33:04  #MKT News #Macro & Rates #Treasury Yields #US10Y #Impact bearish
+
+US 2-year/10-year Treasury yield curve spread +26.3 bps.
+
+---
+
+### 2026-06-25 20:32:28  #市場 #其他
+
+美元指數DXY短線走低十餘點，最新報101.64。
+
+---
+
+### 2026-06-25 20:32:28  #經濟數據 #美國
+
+【美國5月PCE價格指數同比上升4.1% 符合市場預期】美國5月PCE價格指數環比上升0.4%，預期上升0.5%。同比上升4.1%，預期上升4.1%。
+
+---
+
+### 2026-06-25 20:32:25  #市場
+
+標普500指數期貨、納指期貨攀升至高點後回落。
+
+---
+
+### 2026-06-25 20:32:18  #MKT News #Macro & Rates #Treasury Yields #US10Y #Impact bullish #DXY #Impact bearish #S&P500
+
+US 10-year Treasury yield fell after data release, last 4.392%, down 0.59 bps.
+
+---
+
+### 2026-06-25 20:32:18  #MKT News #DXY #Impact bearish #XAUUSD #Impact bullish #EURUSD
+
+The dollar index (DXY) briefly eased by just over ten ticks, last 101.64.
+
+---
+
+### 2026-06-25 20:32:07  #經濟數據 #美國
+
+美國5月耐用品訂單月率錄得-4.5%，為2025年6月以來最大降幅。
+
+---
+
+### 2026-06-25 20:32:01  #MKT News #Macro & Rates #Treasury Yields #US10Y #Impact bullish
+
+US two-year Treasury yield fell 1.41 bps to 4.123%.
+
+---
+
+### 2026-06-25 20:31:54  #市場 #國際
+
+兩年期與10年期美國國債之間的收益率曲線最新為正26.3個基點。
+
+---
+
+### 2026-06-25 20:31:50  #經濟數據 #美國
+
+美國第一季度實際個人消費支出季率終值為0.5%，前值1.4%。
+
+---
+
+### 2026-06-25 20:31:33  #經濟數據 #美國
+
+美國第一季度GDP季調後環比折年率終值為2.1%，預估為1.6%。
+
+---
+
+### 2026-06-25 20:31:28  #MKT News #Important #Macro & Rates #US Economy #DXY #Impact bearish #US10Y #Impact bullish #S&P500 #Impact mixed
+
+US May durable goods orders fell 4.5% MoM, the largest monthly decline since June 2025.
+
+---
+
+### 2026-06-25 20:31:27  #市場 #央行 #國際
+
+美國短期利率期貨在經濟資料公佈後上漲，交易員縮減對美聯儲加息的押注。
+
+---
+
+### 2026-06-25 20:31:21  #市場 #國際
+
+美國PCE資料公佈後，現貨黃金短線拉昇近30美元，現報4010美元/盎司。
+
+---
+
+### 2026-06-25 20:31:17  #MKT News #Important #Commodities #Precious Metals #XAUUSD #Impact bullish #DXY #Impact bearish
+
+After US PCE release, spot gold rallied nearly $30 intraday to $4,010/oz.
+
+---
+
+### 2026-06-25 20:31:13  #經濟數據 #美國
+
+美國上週首次申領失業救濟人數為215,000人；預估為225,000人。
+
+---
+
+### 2026-06-25 20:31:07  #資料 #國際
+
+美國第一季度GDP季調後環比折年率終值為2.1%，預估為1.6%。
+
+---
+
+### 2026-06-25 20:31:06  #MKT News #Macro & Rates #US Economy #S&P500 #Impact bullish
+
+US corporate profits rose 0.5% annualized QoQ in Q1 (final), versus -0.4% previously.
+
+---
+
+### 2026-06-25 20:30:59  #MKT News #Economic Calendar #Important
+
+United States | Corporate Profits Annualized Final (QoQ) (Q1) | actual 0.5% | previous -0.4%
+
+---
+
+### 2026-06-25 20:30:56  #MKT News #Macro & Rates #S&P500 #Impact bullish #US10Y #Impact bearish #DXY
+
+US real personal consumption expenditures rose 0.3% MoM in May; April's reading revised down from 0.1% to 0.0%.
+
+---
+
+### 2026-06-25 20:30:53  #MKT News #Macro & Rates #US Economy #DXY #Impact bullish #US10Y #Impact bearish #S&P500
+
+US Q1 GDP price index final reading 3.6% (consensus 3.5%; prior 3.5%).
+
+---
+
+### 2026-06-25 20:30:49  #MKT News #Macro & Rates #US Economy
+
+U.S. PCE price index YoY 4.1% in May, matching consensus 4.1%, up from prior 3.8%.
+
+---
+
+### 2026-06-25 20:30:47  #MKT News #Important #Macro & Rates #US Economy
+
+US Q1 core PCE price index, final annualized QoQ 4.4%; consensus 4.4%, prior 4.4%.
+
+---
+
+### 2026-06-25 20:30:47  #MKT News #Macro & Rates #US Economy #DXY #Impact bullish #US10Y #Impact bearish #S&P500
+
+US May core capital goods orders (nondefense, ex-aircraft) +1.6% MoM vs +0.6% expected; April revised to -0.7% from -1.0%.
+
+---
+
+### 2026-06-25 20:30:47  #MKT News #Economic Calendar #Important
+
+United States | Personal Consumption Expenditures (MoM) (May) | actual 0.3% | previous 0.1%
+
+---
+
+### 2026-06-25 20:30:47  #MKT News #DXY #Impact bearish #XAUUSD #Impact bullish #S&P500
+
+US May PCE price index m/m 0.4% vs. 0.5% expected; prior 0.4%.
+
+---
+
+### 2026-06-25 20:30:45  #MKT News #Important #Macro & Rates #US Economy #DXY #Impact bullish #USDJPY #EURUSD #Impact bearish
+
+US core PCE price index YoY for May 3.4%, matching the 3.4% estimate and up from 3.3% in April.
+
+---
+
+### 2026-06-25 20:30:45  #MKT News #Important #Macro & Rates #US Economy #S&P500 #Impact bearish #US10Y #Impact bullish #DXY
+
+US Q1 real personal consumption expenditures (PCE) QoQ final +0.5% (prior +1.4%).
+
+---
+
+### 2026-06-25 20:30:43  #MKT News #Important #Macro & Rates #US Economy
+
+【US core PCE YoY edges up, in line with expectations】US core PCE price index YoY for May rose to 3.4%, matching expectations and the highest reading since October 2023.
+
+---
+
+### 2026-06-25 20:30:43  #經濟數據 #美國
+
+【美國5月核心PCE指數同比增長3.4% 符合市場預期】美國5月核心個人消費支出價格指數同比增長3.4%，預估為3.4%，前值為3.3%。環比上升0.3%，預估為0.3%。
+
+---
+
+### 2026-06-25 20:30:42  #MKT News #Important #Macro & Rates #US Economy #DXY #Impact bullish #US10Y #Impact bearish #S&P500 #Impact mixed
+
+US May personal spending MoM 0.7% vs 0.6% expected; April revised to 0.4% from 0.5%.
+
+---
+
+### 2026-06-25 20:30:42  #MKT News #Macro & Rates #US Economy #DXY #Impact bullish #US10Y #S&P500 #Impact bearish
+
+US Q1 PCE price index final, annualized quarterly rate 4.6% vs 4.5% expected, 4.5% prior.
+
+---
+
+### 2026-06-25 20:30:42  #MKT News #Important #Macro & Rates #US Economy #DXY #Impact bullish #US10Y #Impact bearish #S&P500
+
+US Q1 real GDP final annualized QoQ 2.1% vs 1.60% expected; prior 1.60%.
+
+---
+
+### 2026-06-25 20:30:42  #MKT News #Macro & Rates #US Economy #DXY #Impact bullish #S&P500 #US10Y #Impact bearish
+
+US Q1 final sales, annualized QoQ (final) 1.9% — expected 1.5%, prior 1.5%.
+
+---
+
+### 2026-06-25 20:30:42  #MKT News #Macro & Rates #US Economy
+
+US 4-week moving average of initial jobless claims for week ended June 20: 224,250; prior revised from 223,250 to 223,500.
+
+---
+
+### 2026-06-25 20:30:41  #MKT News #Important #Macro & Rates #US Economy #US10Y #Impact bullish #DXY #S&P500 #Impact bearish
+
+U.S. core PCE price index, May MoM +0.3% (consensus 0.30%); April revised up to +0.3% from +0.2%.
+
+---
+
+### 2026-06-25 20:30:41  #MKT News #Macro & Rates #US Economy #DXY #Impact bullish #US10Y #EURUSD #Impact bearish
+
+US May personal income MoM +0.7% (exp. +0.4%; prior 0.0%).
+
+---
+
+### 2026-06-25 20:30:41  #MKT News #Macro & Rates #US Economy #S&P500 #Impact bearish #XAUUSD #Impact bullish #DXY #Impact mixed
+
+US continuing unemployment claims for the week ended June 13: 1.821 mln (consensus 1.800 mln). Prior week revised from 1.81 mln to 1.800 mln.
+
+---
+
+### 2026-06-25 20:30:37  #MKT News #Macro & Rates #US Economy #DXY #Impact bullish #US10Y #Impact bearish
+
+US May durable goods orders ex-transportation MoM 1.3% vs 0.6% expected; prior revised to 1.4% from 1.1%.
+
+---
+
+### 2026-06-25 20:30:36  #資料 #焦點 #國際
+
+【美國核心PCE年率小幅走高 符合市場預期】美國5月核心PCE物價指數年率錄得3.4%，符合市場預期，為2023年10月以來新高。美國5月PCE物價指數年率 4.1%，預期4.1%，前值3.80%。
+
+---
+
+### 2026-06-25 20:30:35  #MKT News #Economic Calendar #Important
+
+United States | GDP Price Index SAAR Final (Q1) | actual 3.6% | consensus 3.50% | previous 3.50%
+
+---
+
+### 2026-06-25 20:30:17  #MKT News #Macro & Rates #US Economy #DXY #Impact bearish #S&P500 #US10Y #Impact bullish
+
+U.S. May durable-goods orders ex-defense m/m -4.6%; April revised to +8.4% from +8.1%.
+
+---
+
+### 2026-06-25 20:30:17  #MKT News
+
+US Chicago Fed National Activity Index (CFNAI) for May -0.1; previous reading revised to 0.19 from 0.14.
+
+---
+
+### 2026-06-25 20:30:16  #MKT News #Important #Macro & Rates #US Economy #DXY #Impact bullish #S&P500 #EURUSD #Impact bearish
+
+US initial jobless claims for the week ending June 20: 215,000 vs. 225,000 expected; prior week revised up to 227,000 from 226,000.
+
+---
+
+### 2026-06-25 20:30:10  #資料 #焦點 #國際
+
+美國6月20日當週首次申請失業救濟人數為21.5萬人，預計為22.5萬人。
+
+---
+
+### 2026-06-25 20:30:09  #MKT News #Important #Macro & Rates #US Economy #DXY #Impact bearish #US10Y #Impact bullish #S&P500 #Impact mixed
+
+US durable goods orders, May m/m -4.5% (consensus -4.5%); April revised to +8.5% from +8.0%.
+
+---
+
+### 2026-06-25 20:30:08  #MKT News #Economic Calendar #Important
+
+United States | Core PCE Price Index (YoY) (May) | actual 3.4% | consensus 3.40% | previous 3.30%
+
+---
+
+### 2026-06-25 20:30:08  #MKT News #Economic Calendar #Important
+
+United States | PCE Price Index (YoY) (May) | actual 4.1% | consensus 4.1% | previous 3.80%
+
+---
+
+### 2026-06-25 20:30:08  #MKT News #Economic Calendar #Important
+
+United States | Personal Income (MoM) (May) | actual 0.7% | consensus 0.40% | previous 0.00%
+
+---
+
+### 2026-06-25 20:30:08  #MKT News #Economic Calendar #Important
+
+United States | Personal Spending (MoM) (May) | actual 0.7% | consensus 0.6% | previous 0.50%
+
+---
+
+### 2026-06-25 20:30:07  #MKT News #Economic Calendar #Important
+
+United States | Core PCE Price Index SAAR Final (QoQ) (Q1) | actual 4.4% | consensus 4.40% | previous 4.40%
+
+---
+
+### 2026-06-25 20:30:07  #MKT News #Economic Calendar #Important
+
+United States | PCE Price Index SAAR Final (QoQ) (Q1) | actual 4.6% | consensus 4.5% | previous 4.5%
+
+---
+
+### 2026-06-25 20:30:07  #MKT News #Economic Calendar #Important
+
+United States | Core PCE Price Index (MoM) (May) | actual 0.3% | consensus 0.30% | previous 0.20%
+
+---
+
+### 2026-06-25 20:30:07  #MKT News #Economic Calendar #Important
+
+United States | PCE Price Index (MoM) (May) | actual 0.4% | consensus 0.50% | previous 0.40%
+
+---
+
+### 2026-06-25 20:30:07  #MKT News #Economic Calendar #Important
+
+United States | Personal Consumption Expenditures SAAR Final (QoQ) (Q1) | actual 0.5% | previous 1.4%
 
 ---
 
@@ -22591,593 +23287,5 @@ U.S. Treasury Secretary Bessent said Russia will seek to restore the dollar syst
 ### 2026-06-24 19:43:55  #MKT News #Important #Market Regions #Greater China #CSI300 #Impact bullish
 
 【Goldman Sachs: Chinese households' equity allocation remains low versus long-term potential】Goldman Sachs' China macro team says Chinese household asset allocation is in the early stage of a structural shift. With real estate's role in wealth accumulation waning and deposit rates low, savings may gradually reallocate into broader financial assets; equities and insurance are likely mid-term beneficiaries. Equities currently account for under 10% of household assets, implying substantial room for further reallocation. The bank cautions the adjustment will be uneven—household risk appetite remains cautious and financial wealth is unevenly distributed—so change is unlikely to be linear or broad-based. If household confidence stabilizes and capital market returns prove attractive, equities could take a larger share of new household savings.
-
----
-
-### 2026-06-24 19:43:52  #其他
-
-【特斯拉OTA即將上線豆包語音大模型？客服回應】近日，有網友稱特斯拉即將上線豆包語音大模型。6月24日，致電特斯拉客服了解此事，客服稱這是網傳訊息，目前官方還沒有這方面的訊息，可能使用者也是希望特斯來改進，這方面可以等待後續官方的釋出，網傳訊息不具有準確性。此前，據網信上海訊息，4月21日，上海新增1款已完成備案的生成式人工智慧服務，為特斯拉車機語音大模型服務。這也是自2013年進入中國市場以來，特斯拉車機語音助手的一次大更新。（每經）
-
----
-
-### 2026-06-24 19:43:34  #MKT News
-
-Erdogan said Trump is highly likely to hold bilateral talks with Turkey when he attends the NATO summit in Ankara.
-
----
-
-### 2026-06-24 19:43:24  #國際
-
-日產將呼籲日本五家工廠的行政人員提前退休。
-
----
-
-### 2026-06-24 19:43:15  #國際
-
-貝森特：烏克蘭戰事結束後，俄羅斯會希望重回美元結算體系。
-
----
-
-### 2026-06-24 19:43:03  #MKT News #Macro & Rates #US Economy
-
-U.S. Treasury Secretary BESSENT said Iran will issue invoices in U.S. dollars.
-
----
-
-### 2026-06-24 19:42:41  #MKT News #DXY
-
-U.S. Treasury Secretary Bessent said the new Venezuela is rejoining the dollar system.
-
----
-
-### 2026-06-24 19:42:30  #國際
-
-貝森特：伊朗方面後續將採用美元開具結算發票.。
-
----
-
-### 2026-06-24 19:42:13  #MKT News #WTI #Impact mixed #XAUUSD #Impact bullish
-
-【Trump: Iran told US it has not charged transit fees in Strait of Hormuz】President Trump said Iran has told the US it has not sought or collected any transit, insurance or other fees from ships passing through the Strait of Hormuz, despite contrary media reports. He warned that if that proves untrue, negotiations will end immediately, and said the US has not provided Iran funds nor released Iranian assets. The US will unfreeze some Iranian funds under US control to buy US agricultural commodities — including corn, wheat and soybeans — citing Iran’s urgent need for food, with purchases to be sourced from US farmers and ranchers.
-
----
-
-### 2026-06-24 19:42:10  #其他
-
-貝森特：新一屆委內瑞拉政府正重新接入美元貨幣體系。
-
----
-
-### 2026-06-24 19:42:09  #MKT News #Important #DXY #Impact bullish #USDJPY #EURUSD #Impact bearish
-
-U.S. Treasury Secretary Bessent said the dollar's dominance is critical.
-
----
-
-### 2026-06-24 19:42:03  #其他
-
-貝森特：美元主導地位至關重要。
-
----
-
-### 2026-06-24 19:41:53  #MKT News
-
-President Trump said the administration will release funds fully under its control to support U.S. farmers and ranchers by purchasing corn, wheat, soybeans and other crops.
-
----
-
-### 2026-06-24 19:41:52  #國際
-
-美國財長貝森特：全球 AI 實力法國遠遠排在第三。
-
----
-
-### 2026-06-24 19:41:30  #觀點
-
-【高盛：中國居民的股票配置相對於其長期潛力而言仍然較低 股票和保險有望成為中期的主要受益者】高盛中國宏觀經濟團隊近日釋出的研究報告稱，中國居民資產配置正處於結構性轉型的初期階段。由於房地產在財富積累中的作用逐漸減弱，且存款利率保持在低位，儲蓄可能逐步向更廣泛的金融資產轉移，而股票和保險有望成為中期的主要受益者。“中國居民的股票配置相對於其長期潛力而言仍然較低。”高盛報告稱，當前股票在居民資產中的佔比不足10%，這表明隨著居民逐步拓寬投資領域，進一步資產再配置的空間較大。高盛同時表示，考慮到居民風險偏好仍顯謹慎以及金融財富分佈不均，這一調整不大可能呈線性或覆蓋廣泛人群。即便如此，如果居民信心企穩且資本市場回報具有吸引力，股票未來可能在新增居民儲蓄中佔據更大比重。（上證報）
-
----
-
-### 2026-06-24 19:40:54  #MKT News
-
-U.S. Treasury Secretary Bessent said the U.S. must not allow others to use AI regulatory measures to hold it back.
-
----
-
-### 2026-06-24 19:40:35  #公司
-
-【深圳灣天際線更新！388米招行新總部7月初啟用】位於深圳灣超級總部基地的招商銀行總部大廈，擬更名為“招銀環球金融中心”，並於7月初正式啟用。近兩日，已有招行客戶收到客戶經理發來的《招商銀行深圳分行關於總行大廈營業部暫停營業並遷址的公告》。公告顯示，因網點遷址，2026年7月4日至7月5日，總行大廈營業部暫停對外營業，並於7月6日起在新址正式恢復營業。新址顯示為“深圳市南山區白石四道與深灣二路交匯處招商銀行總部大廈T2棟1-2層”。（21財經）
-
----
-
-### 2026-06-24 19:40:25  #MKT News
-
-U.S. Treasury Secretary Bessent said that if Section 301 is enacted, the decline in tariff revenue would be negligible.
-
----
-
-### 2026-06-24 19:40:01  #焦點 #國際
-
-【特朗普：伊朗已告知美國，霍爾木茲海峽沒有收費】特朗普發文稱，伊朗已向美方通報：儘管有刻意製造事端的虛假新聞傳出相反說法，對於行經霍爾木茲海峽的船隻，伊朗不收取任何通行費、保險費以及其他各類費用，也不會主動索要或收取任何款項。若該說法不實，談判將立即終止！此外，美國至今未向伊朗撥付任何資金，也未曾解凍伊朗資產交付伊朗。我方計劃釋放部分由美國完全管控的伊朗資金，用於扶持本國農牧民，採購玉米、小麥、大豆等農產品。伊朗國內食品物資極度緊缺，這批糧食將全部從美國採購供給伊朗。
-
----
-
-### 2026-06-24 19:39:52  #國際
-
-土耳其總統埃爾多安：特朗普前來安卡拉參加北約峰會時，我極有可能與他舉行雙邊會談。
-
----
-
-### 2026-06-24 19:39:36  #MKT News #DXY #Impact bullish #S&P500 #Impact bearish #EURUSD
-
-U.S. Treasury Secretary Bessent said structural inflation has persisted in the services sector.
-
----
-
-### 2026-06-24 19:39:12  #國際
-
-美國財長貝森特： 若 301 條款相關措施落地，關稅收入降幅將微乎其微。
-
----
-
-### 2026-06-24 19:38:54  #MKT News #Important
-
-Trump said the U.S. has not provided any funds to Iran, nor released Iranian funds.
-
----
-
-### 2026-06-24 19:38:48  #公司
-
-【無錫振華：收購德維嘉汽車電子系統（無錫）有限公司控股權事項調整業績補償條款】無錫振華髮布補充公告，調整收購德維嘉汽車電子系統（無錫）有限公司控股權事項的業績補償條款。原條款中關於業績承諾方的補償上限合計為1000萬元的安排被刪除，僅保留乙方1和乙方4就業績補償義務承擔連帶責任。此外，增加了德維嘉原自然人股東履約能力擔保的安排，將其持有的目標公司剩餘43%股權質押給無錫振華。
-
----
-
-### 2026-06-24 19:38:45  #國際
-
-特朗普：此外，美國並未向伊朗提供任何資金，也未向伊朗放行其被凍結的資金。
-
----
-
-### 2026-06-24 19:38:36  #公司
-
-【奧康國際：公司股票將於6月25日開市起停牌】奧康國際公告，公司正在籌劃涉及資產購買的重大事項，目前尚處於籌劃階段。為保證公平資訊披露、維護投資者利益，公司股票自2026年6月25日開市起停牌，預計連續停牌時間不超過2個交易日。
-
----
-
-### 2026-06-24 19:38:34  #國際
-
-貝森特提及美國貿易代表辦公室 301 條款貿易複審工作。
-
----
-
-### 2026-06-24 19:38:32  #MKT News #Important #WTI #Impact bearish #Brent
-
-President Trump said Iran has told the United States it is not charging transit fees in the Strait of Hormuz.
-
----
-
-### 2026-06-24 19:38:18  #國際
-
-特朗普：我們將會解凍他們（伊朗）部分資產。
-
----
-
-### 2026-06-24 19:38:18  #其他
-
-【智元總裁彭志輝：資本不再只為機器人Demo買單了，必須在真實場景落地商業價值】MWC26上海今日開幕，在“Al落地：自主時代”環節，智元聯合創始人、總裁兼技術長彭志輝表示，特斯拉計劃年底實現數千臺人形機器人量產；英偉達發力物理世界智慧生態建設，GPU算力新增長曲線不在資料中心，而在現實物理場景；就連以往主打炫技的機器人企業波士頓動力，如今全部轉向商業落地價值挖掘。因為資本不再只為Demo買單了，行業必須在真實場景裡落地商業價值。（新浪科技）
-
----
-
-### 2026-06-24 19:37:53  #公司
-
-【長電科技：擬投資78億元在上海臨港建設高階先進封測工廠】長電科技公告，公司擬透過投資設立控股子公司，在上海臨港新片區“東方芯港”萬祥工業園建設高階先進封測工廠，投資總額為人民幣78億元，其中擬設立子公司的註冊資本預計為人民幣40億元。專案計劃分兩期建設，一期計劃2028年下半年完成。公司第九屆董事會第三次臨時會議已審議透過該投資議案，本次投資不構成重大資產重組及關聯交易，無需提交股東會審議。
-
----
-
-### 2026-06-24 19:37:50  #焦點 #國際
-
-特朗普：伊朗已告知美方，霍爾木茲海峽不收取通行費。
-
----
-
-### 2026-06-24 19:37:33  #國際
-
-【以防長：即使美國要求也不會從黎南“安全區”撤離】當地時間24日，以色列國防部長卡茨表示，以色列國防軍不會從黎巴嫩南部的“安全區”撤軍。即使面對美國的要求，以軍也不會撤離。卡茨還表示，以色列將不允許20萬已撤離的黎巴嫩居民返回該區域的家園。卡茨稱，歷史經驗表明，在有平民存在的“安全區”內，曾發生過針對以軍士兵的路邊炸彈襲擊等事件，因此以方“不會允許此類情況再次發生”。（央視新聞）
-
----
-
-### 2026-06-24 19:37:08  #國際
-
-美國財長貝森特： 結構性通脹主要集中在服務業領域。
-
----
-
-### 2026-06-24 19:36:22  #公司
-
-【溫州市交通發展集團有限公司副總經理王俊偉被查】溫州市交通發展集團有限公司黨委副書記、副總經理王俊偉涉嫌嚴重違紀違法，目前正接受溫州市紀委監委紀律審查和監察調查。
-
----
-
-### 2026-06-24 19:36:02  #MKT News
-
-【2026 YTD box office tops CNY170 bln】China's 2026 year-to-date box office, including presales, surpassed 170 billion yuan as of 19:29 on June 24, according to Maoyan Pro. Leading titles are Pegasus 3, A Letter to Grandma and Biao Ren: Wind Rises in the Desert.
-
----
-
-### 2026-06-24 19:35:55  #國際
-
-澤連斯基： 近期我方在俄方控制區域完成多起精準打擊行動，其中戰果突出的是摧毀聖彼得堡附近一處波羅的海艦隊軍火庫逾 6 萬噸彈藥。此外，軍事情報部門經研判確認，俄方多處軍工生產目標均已被擊中。烏克蘭國防軍精準打擊了為俄軍生產無線電電子裝置及各類關鍵零部件的俄羅斯工廠。
-
----
-
-### 2026-06-24 19:35:17  #其他
-
-【法國發現一例輸入性埃博拉病例】法國衛生部24日宣佈，法國本土發現一例埃博拉確診病例。患者是一名從剛果（金）返回法國的醫生，此前在疫區執行人道主義任務。目前患者病情穩定，正在接受治療。（新華社）
-
----
-
-### 2026-06-24 19:34:56  #國際
-
-美國財長貝森特：我們將與民主黨全新政策路線形成鮮明對比。
-
----
-
-### 2026-06-24 19:34:33  #其他
-
-巴西庫蘇佩合作社表示，2026年咖啡產量已完成20.1%。
-
----
-
-### 2026-06-24 19:34:31  #MKT News
-
-The Israel Defense Forces said it struck two Hezbollah militants in southern Lebanon who posed a threat to its forces.
-
----
-
-### 2026-06-24 19:34:27  #國際
-
-美國財長貝森特：昨晚事態表明，馬姆達尼已是民主黨領袖。
-
----
-
-### 2026-06-24 19:34:13  #公司
-
-【泉陽泉：近12個月累計涉訴金額1.24億元 佔淨資產10.11%】泉陽泉公告稱，公司及控股子公司連續12個月內累計發生未披露訴訟和仲裁30起（含本次），涉案總金額約1.24億元，佔公司最近一期經審計淨資產的10.11%。其中，本次鎮江築飛建築工程有限公司因建設工程分包合同糾紛，向蘇州仲裁委提請仲裁，涉案金額437.34萬元，案件已受理未開庭。部分案件未審理或判決，對公司利潤影響不確定，公司將依會計準則處理。
-
----
-
-### 2026-06-24 19:33:53  #國際
-
-以色列國防軍：在阿里・塔赫爾山脊安全區附近鎖定目標後，以軍對兩名對我方部隊構成威脅的真主黨武裝分子實施打擊。
-
----
-
-### 2026-06-24 19:33:43  #公司 #市場
-
-【東方鉭業：股票交易異常波動 提醒投資者注意風險】東方鉭業公告稱，公司股票於2026年6月22日、6月23日、6月24日連續三個交易日收盤價漲幅偏離值累計達20%以上，屬異常波動。經核查，公司前期資訊無更正補充，未發現媒體報道未公開重大資訊，經營正常，無應披露未披露重大事項，異動期間董監高無買賣公司股票行為。截至6月24日，公司股價年初至今增長129.44%，滾動市盈率157.31，顯著高於行業平均，存在炒作及下跌風險。
-
----
-
-### 2026-06-24 19:33:26  #公司 #市場
-
-【柘中股份：股票連續三日漲幅偏離值累計超20% 提示投資風險】柘中股份公告稱，公司股票在2026年6月22日至24日連續三個交易日內，日收盤價格漲幅偏離值累計達20%以上，屬於異常波動。經核查，公司前期披露資訊無補充更正，未獲悉重大未公開資訊，生產經營正常，控股股東及實控人未買賣公司股票，也無應披露而未披露事項。公司正在回覆深交所年報問詢函。此外，公司提示主營業務毛利率、股權投資收益存在不確定性，提醒投資者注意風險。
-
----
-
-### 2026-06-24 19:32:53  #公司
-
-【金力永磁：擬2208.36萬元受讓稀交所9.24%股權】金力永磁公告稱，公司擬透過內蒙古產權交易中心公開掛牌轉讓方式，受讓北方稀土持有的稀交所9.24%股權，預計交易價格2208.36萬元。本次投資不構成關聯交易和重大資產重組。若交易完成，將提升公司稀土原材料供應保障能力，增強綜合競爭力。不過，本次交易需履行國有資產交易法定流程，能否順利實施存在不確定性，且稀交所運營受多種因素影響。
-
----
-
-### 2026-06-24 19:32:47  #公司
-
-【普洛藥業：子公司獲0.5g丙戊酸鈉緩釋片（Ⅰ）註冊證書】普洛藥業公告，公司控股子公司浙江普洛康裕製藥有限公司近日收到國家藥品監督管理局簽發的丙戊酸鈉緩釋片（Ⅰ）《藥品註冊證書》，規格為0.5g（按丙戊酸鈉計）。該產品按化學藥品4類獲批上市，視同透過仿製藥一致性評價，主要用於治療全面性癲癇、部分性癲癇及與雙相情感障礙相關的躁狂發作。據相關資料，該藥品2025年度國內市場規模約5.8億片，銷售金額約10.5億元。此次獲批將進一步豐富公司產品線。
-
----
-
-### 2026-06-24 19:32:21  #公司
-
-【海螺新材：終止公開掛牌出售部分資產】海螺新材公告，公司全資子公司蕪湖海螺生態家居科技有限公司計劃出售的部分資產因承租方撤離清場事宜出現不確定性，影響交易活動實施，決定終止公開掛牌出售程式。掛牌底價為1890萬元（含增值稅），掛牌截止日期為2026年6月26日。標的資產仍歸生態家居公司所有，原有租賃關係維持不變。
-
----
-
-### 2026-06-24 19:32:05  #其他
-
-【2026年度票房破170億】據貓眼專業版資料，截至6月24日19時29分，2026年年度總票房（含預售）突破170億。《飛馳人生3》《給阿嬤的情書》《鏢人：風起大漠》暫列年度票房榜前三位。
-
----
-
-### 2026-06-24 19:30:52  #公司 #市場
-
-Take-Two互動軟體公司股價盤前上漲3.8%，此前該公司將《俠盜獵車手6》定價為79.99美元，並堅持11月19日的發售日期不變。
-
----
-
-### 2026-06-24 19:29:46  #MKT News #Important #Commodities #Energy #WTI #Impact bearish #Brent
-
-WTI crude fell to $72.00/bbl, down 2.27% intraday; Brent dropped 2.00% to $75.07/bbl.
-
----
-
-### 2026-06-24 19:29:41  #國際
-
-【美銀：電力供應成為資料中心增長的主要制約因素】美國銀行分析師在一份研究報告中表示，資料中心未來增長的主要制約因素日益變成電力供應、併網時間表和電力成本。這些分析師表示，資本正轉向能更好獲取可負擔電力的地區，而倫敦、法蘭克福、阿姆斯特丹、巴黎和都柏林等傳統樞紐市場繼續面臨算力壓力。這些分析師預計，隨著全球算力迅速擴張，且對AI、雲端計算和機器學習應用的需求依然強勁，該行業將吸引大量投資。他們補充說，儘管如此，對電力、水和關鍵金屬日益增長的需求將帶來新的基礎設施和資源挑戰。
-
----
-
-### 2026-06-24 19:29:31  #MKT News #Market Themes #AI Revolution
-
-【FysicsAI says Fysiverse achieves breakthrough in physical world modeling】FysicsAI said its new Fysiverse physical-world model, built on a differentiable physics engine, has achieved a breakthrough. FysicsAI says Fysiverse mitigates common failures in data-driven world models — physics hallucinations, inference breakdowns and collapse in non-standard scenarios — by adopting an explicit-physics-simulator × generative-renderer architecture: a computable physical state as an intermediate layer, a differentiable physics engine as the world-evolution mechanism and a renderer for visual output. The model restructures the computation chain to observation—state—physical evolution—visual presentation rather than treating motion trajectories as external overlays.
-
----
-
-### 2026-06-24 19:28:33  #其他
-
-【我國在物理世界模型上取得突破性進展】飛捷科思（Fysics AI）近日以Fysics可微分物理引擎為底座，打造的全新一代物理世界模型Fysiverse取得突破性進展。開闢了全新的世界模型技術路線，有效解決了當前資料驅動的世界模型普遍面臨的“物理幻覺、推理失效、非標場景崩壞”等問題，進而打造出創新的遵循真實世界物理規律的全新一代物理世界模型Fysiverse。Fysiverse 的顛覆式創新在於提出了一條“顯式物理模擬器 × 生成式渲染器”的系統路徑：以可計算的物理狀態作為中間層，以可微分物理引擎作為世界演化機制，以渲染器作為視覺表達層。它不是為世界模型外掛運動軌跡，而是將世界模型的計算鏈路重構為“觀測—狀態—物理演化—視覺呈現”。 (科技日報)
-
----
-
-### 2026-06-24 19:27:55  #公司 #市場
-
-【德爾未來：石墨烯業務收入佔比僅0.07%】德爾未來公告，公司股票在2026年6月23日、24日連續兩個交易日收盤價格漲幅偏離值累計超過20%，屬於股票交易異常波動。經公司董事會分析，2025年度公司實現營業收入11.66億元，同比下降23.53%，歸屬於上市公司股東的淨利潤為-2.21億元，同比下降146.77%；2026年第一季度實現營業收入1.47億元，歸屬於上市公司股東的淨利潤為-1404.51萬元，公司業績仍處於虧損狀態。此外，公司石墨烯相關業務（石墨烯製備裝置、應用產品及檢測服務）2025年度收入合計僅佔營業收入的0.07%，目前石墨烯製備裝置及應用產品暫無在手訂單，2026年上述兩項業務亦未產生收入。公司自查後確認，不存在應披露而未披露的重大事項，公司生產經營正常，主要經營業務未發生重大變化。
-
----
-
-### 2026-06-24 19:27:44  #公司
-
-【軟通動力：子公司以5150萬元參與投資共青城尚融星河創業投資合夥企業】軟通動力公告，公司的全資子公司北京軟通旭天科技發展有限公司作為有限合夥人以自有資金5150萬元參與投資共青城尚融星河創業投資合夥企業（有限合夥）。
-
----
-
-### 2026-06-24 19:27:41  #公司
-
-【因授信管理不審慎等，安徽固鎮農商行被罰180萬元】6月24日，國家金融監督管理總局蚌埠監管分局行政處罰資訊公開表顯示，安徽固鎮農村商業銀行股份有限公司因授信管理不審慎、公司治理不規範違法違規行為，被罰款180萬元；相關責任人許威被禁止從事銀行業工作21年，鄭小樂、李錦亞、張寬旭被警告。
-
----
-
-### 2026-06-24 19:27:32  #公司 #市場
-
-【德爾未來：股價異常波動 業績虧損且石墨烯業務收入低】德爾未來公告稱，2026年6月23日、24日公司股票連續兩個交易日收盤價格漲幅偏離值累計超20%，屬異常波動。2025年營收11.66億元，同比降23.53%，淨虧損2.21億元，同比降146.77%；2026年一季度營收1.47億元，淨虧損1404.51萬元。2025年石墨烯相關業務收入合計僅佔營收0.07%，2026年訂單額極小。公司目前生產經營正常，不存在應披露未披露事項，提醒投資者理性投資。
-
----
-
-### 2026-06-24 19:27:21  #公司
-
-【因貸款管理不審慎等，浙江新昌農商行被罰190萬元】6月24日，國家金融監督管理總局紹興監管分局行政處罰資訊公開表顯示，浙江新昌農村商業銀行股份有限公司因貸款管理不審慎等違法違規行為，被罰款190萬元；相關責任人邢曉洪、陳方永、孫敏潔警告。
-
----
-
-### 2026-06-24 19:27:05  #MKT News
-
-【Guangzhou Baiyun Airport passenger traffic tops 10 million year-to-date】Guangzhou Customs said year-to-date through June 24 entry and exit passenger traffic at Guangzhou Baiyun Airport exceeded 10 million, reaching the milestone one month earlier than last year, up more than 21% year-on-year and a record for the period.
-
----
-
-### 2026-06-24 19:26:12  #市場 #國際
-
-【美銀大幅上調半導體行業預測：2030年市場規模或達2.7萬億美元】美國銀行在最新研報中大幅上調全球半導體行業預測，認為AI需求正從驗證投資回報轉向解決晶片、儲存和電力等結構性供給約束，儲存晶片短缺與價格上漲將成為未來數年行業增長的核心驅動力。美銀預計，全球半導體市場規模將從2025年的7870億美元增至2030年的2.734萬億美元，2025—2030年複合增長率達28%，高於此前預期的2.3萬億美元和23%。美銀預計，晶片行業用約50年實現首個1萬億美元銷售額，而AI有望在未來5年再創造1萬億美元增量。
-
----
-
-### 2026-06-24 19:25:36  #其他
-
-【跨境TRS新增規模被叫停！私募緊急應對，海外科技投資或受影響】多位私募業內人士向記者透露，6月23日晚間開始，陸續收到合作券商通知，監管層要求暫停新增管理人跨境TRS（總收益互換）業務規模。受此影響，部分透過跨境TRS參與海外市場投資的私募機構開始評估後續策略調整方案。有百億私募人士表示，目前部分存量頭寸暫未受到影響，但新增倉位已無法繼續擴張，部分產品甚至面臨“只能賣出、不能換倉”的情況。截至目前，監管部門尚未公開發布相關檔案。（券商中國）
-
----
-
-### 2026-06-24 19:25:27  #MKT News #Important
-
-【Regulators order halt to expansion of managers' cross-border TRS capacity; private funds scramble, overseas tech flows may be hit】Multiple private fund firms said they began receiving notices from cooperating broker-dealers on the evening of June 23 that Chinese regulators have ordered a suspension on increases to managers' cross-border total return swap (TRS) capacity. The instruction has prompted firms that use cross-border TRS to access overseas markets to reassess strategies; sources said existing positions are largely unaffected for now but new allocations cannot be expanded, and some products face sell-only, no-replacement constraints. No formal regulatory notice has been published to date.
-
----
-
-### 2026-06-24 19:24:25  #其他
-
-赫茲宣佈擬發行1億美元普通股。
-
----
-
-### 2026-06-24 19:23:26  #公司
-
-【*ST泉為：擬新增共益債融資 能否重整及上市存不確定性】*ST泉為公告稱，國民信託、雅榮春芽擬向公司提供共益債融資，最終出借金額以實際放款總數為準，預重整管理人僅監督借款使用。若融資順利推進，有利於公司恢復生產等。但公司能否進入重整程式不確定，共益債融資款項能否被認定為共益債務也不確定。若法院正式受理重整申請，公司股票將疊加實施退市風險警示；若重整失敗，公司股票存在終止上市風險。
-
----
-
-### 2026-06-24 19:22:36  #其他
-
-【今年以來廣州白雲機場口岸進出境人員突破1000萬人次】據廣州海關訊息，今年以來截至6月24日，廣州海關監管經廣州白雲機場口岸進出境人員突破1000萬人次，較去年提前一個月達到千萬客流規模，同比增幅超21%，創口岸歷史同期新高。
-
----
-
-### 2026-06-24 19:21:32  #市場
-
-赫茲盤前股價跌幅擴大，觸及當日低點24%。
-
----
-
-### 2026-06-24 19:20:48  #其他
-
-【依託APEC平臺 我國將助推中小企業共享開放紅利】6月24日，在廣東深圳舉辦的2026年亞太經合組織（APEC）中小企業工商論壇上，工業和資訊化部總經濟師高東昇表示，要深化開放合作，依託APEC平臺推動各成員經濟體政策互通、標準銜接、專案共建，讓廣大中小企業共享亞太開放合作紅利，深度參與並助力亞太共同體建設。高東昇表示，工業和資訊化部堅持服務和管理並重、發展和幫扶並舉，著力構建促進專精特新中小企業發展壯大機制，推動中小企業高質量發展。面向未來，要堅持創新驅動，充分發揮中小企業靈活適配市場的優勢，梯度培育優質中小企業；深化數智賦能，依託全國中小企業服務“一張網”，實現服務資源精準高效對接。（新華社）
-
----
-
-### 2026-06-24 19:19:50  #公司
-
-【明陽電路：簽訂募集資金四方監管協議 變更部分募投專案】明陽電路公告稱，公司此前向不特定物件發行可轉換公司債券，實際募集資金淨額43,987.84萬元。2026年6月，公司及子公司珠海明陽與開戶銀行、保薦機構國泰海通證券簽訂《募集資金四方監管協議》。公司將“年產12萬平方米新能源汽車PCB專線建設專案”尚未使用的20,318.82萬元募集資金，變更投入“年產10萬平米人工智慧高階HDI算力產品專案”。截至2026年5月31日，募集資金專戶儲存金額13,174,605.21元。
-
----
-
-### 2026-06-24 19:19:30  #其他
-
-【王凱在洛陽市調研產業發展和經濟執行工作】6月24日，河南省長王凱到洛陽市調研產業發展和經濟執行工作。調研中王凱主持召開座談會，聽取洛陽市經濟執行情況彙報。他指出，要深入貫徹習近平總書記在河南考察時重要講話精神，牢固樹立和踐行正確政績觀，聚焦“1+2+4+N”目標任務體系，著力穩就業穩企業穩市場穩預期，進一步鞏固經濟穩中向好基礎。要深入實施提振消費專項行動，不斷創新消費場景，提高產品和服務質量，更好滿足群眾高品質生活需求。要推動文旅深度融合，打造精品文旅線路，豐富文旅產品供給，充分釋放文旅消費潛力。要抓好城市更新試點建設，紮實推進水網、城市地下管網、物流網等規劃建設，持續提升城市綜合承載力。要完善產業創新體系，促進科研成果高效轉化應用，加力賦能傳統產業煥新升級和新興產業培育壯大。要加大企業節能降碳改造力度，推進零碳園區建設，加快綠色低碳轉型步伐。要有效防範化解重點領域風險，毫不放鬆抓好農業生產、安全生產、防汛備汛等工作，兜牢基層“三保”底線，營造安全穩定的發展環境，確保“十五五”開好局起好步。（河南釋出）
-
----
-
-### 2026-06-24 19:19:29  #MKT News #Important #Commodities #Precious Metals
-
-【Spot and futures silver fall below $60】Spot silver slipped below $60/oz to its lowest level since December, down 2.51% on the day; New York silver futures touched $60/oz, down 3.34% intraday.
-
----
-
-### 2026-06-24 19:18:32  #國際
-
-【俄外長：不接受臨時或間歇性俄烏衝突解決方案】當地時間6月24日，俄羅斯外長拉夫羅夫表示，以政治和外交方式調解與烏克蘭相關局勢仍是可能的，但俄方不會接受臨時或間歇性的解決方案並拒絕任何最後通牒。（央視新聞）
-
----
-
-### 2026-06-24 19:17:47  #MKT News
-
-Iran's central bank governor said implementation of US exemption measures and improved access to overseas assets will give him greater latitude to "substantially increase foreign exchange supply".
-
----
-
-### 2026-06-24 19:17:36  #國際
-
-伊朗中央銀行行長表示，在美國豁免以及伊朗對境外資產的可獲取性改善後，他擁有更大空間“大幅增加外匯供應”。
-
----
-
-### 2026-06-24 19:17:27  #國際
-
-【美伊就伊核核查各執一詞，國際原子能機構回應】負責核查伊朗近武器級鈾庫存的國際核監督機構，對德黑蘭與美方隔夜釋放的矛盾表態不予置評，並表示機構預計將在未來某個階段恢復全面核監測。國際原子能機構總幹事拉斐爾・馬里亞諾・格羅西談及白宮釋出的核監測相關宣告遭伊朗反駁一事時稱：“雙方如今正在打口水仗。”週二華盛頓方面，美國總統唐納德・特朗普放出狠話：若伊朗拒絕國際原子能機構核查其核設施，美方將叫停和平談判。幾乎同一時間，伊朗外交部表態，短期內暫無計劃允許該聯合國機構的核查人員赴伊開展核查。
-
----
-
-### 2026-06-24 19:16:59  #Trading Economics #Economy #Brazil #Economic Optimism Index #Importance 1
-
-Brazil's Consumer Confidence Remains Stable — Brazil's seasonally adjusted FGV-IBRE Consumer Confidence Index retreated 0.1 points to 88.7 in June 2026 from 88.8 in May. Sentiment remained relatively stable, although reflecting contrasting variations. Expectations for the future worsened, with the index falling 0.9 points to 90.4, while the perception of the current situation improved, advancing 0.9 points to 87, marking the third consecutive increase and the highest level since October 2014. Purchase intentions of durable goods (80 vs 83) and future financial situation (87.7 vs 89.4) suggest a more pessimistic sentiment, although the current financial situation confidence improved (79 vs 81.3). In contrast, future local economic expectations increased by 2.4 points to 105.3, while current perceptions fell by 0.4 points to 95.4. Across income groups, consumer confidence improved among lower-income households, while sentiment deteriorated among consumers earning R$4,800 or more.
-
----
-
-### 2026-06-24 19:16:38  #MKT News #Commodities #Precious Metals
-
-New York silver futures fell as much as 3.0% intraday to $60.21/oz.
-
----
-
-### 2026-06-24 19:16:29  #市場 #焦點
-
-現貨黃金失守4040美元/盎司，日內跌1.71%。
-
----
-
-### 2026-06-24 19:16:29  #MKT News #XAUUSD #Impact bullish #WTI #DXY
-
-IDF spokesperson said earlier today the military received reports of suspected Hamas activity at the Gaza-side Kerem Shalom crossing and deployed to the area. One unarmed suspect was arrested and handed to security forces for further interrogation.
-
----
-
-### 2026-06-24 19:16:00  #Trading Economics #Markets #commodity #Importance 0
-
-Palladium Hits 39-week Low — Palladium decreased to 1199.00 USD/t.oz, the lowest since September 2025. Over the past 4 weeks, Palladium lost 14.76%, and in the last 12 months, it increased 12.03%.
-
----
-
-### 2026-06-24 19:15:54  #其他
-
-【財通福鑫定開混合(501046)二級市場出現極大幅度溢價 6月25日全天停牌】財通福鑫定開混合(501046)二級市場交易價格嚴重高於基金份額淨值，出現極大幅度溢價。特此提示投資者關注二級市場交易價格溢價風險，投資者如果盲目投資，可能遭受重大損失。為維護投資者利益，基金將於2026年6月25日全天停牌。
-
----
-
-### 2026-06-24 19:15:54  #市場 #焦點
-
-現貨白銀失守60美元/盎司，日內跌2.47%。
-
----
-
-### 2026-06-24 19:15:44  #市場 #焦點
-
-紐約期金失守4060美元/盎司，日內跌2.16%。
-
----
-
-### 2026-06-24 19:15:41  #市場
-
-紐約期銀日內跌3%，現報60.62美元/盎司。
-
----
-
-### 2026-06-24 19:15:24  #公司 #市場
-
-【*ST嶺南：股票收盤價低於1元 存在終止上市風險】*ST嶺南公告稱，公司股票於2026年6月24日收盤價為0.97元/股，低於1元。根據相關規定，若連續二十個交易日收盤價均低於1元，深交所將終止其股票上市交易，且不進入退市整理期。這是公司可能觸發面值退市的第一次終止上市風險提示公告。此外，公司還因主要銀行賬戶被凍結、財務指標虛假記載等情況被實施風險警示。公司董事會正積極採取措施改善經營，提醒投資者注意風險。
-
----
-
-### 2026-06-24 19:14:44  #其他
-
-【盟友稱伯納姆將尋求財政規則“靈活性” 暗示其或偏離英國當前財政路線】英國下任首相熱門人選安迪·伯納姆的一位長期盟友表示，這位大曼徹斯特前市長將在政府的支出和借貸規則中尋求“靈活性”。這一表態暗示，伯納姆可能考慮偏離現任財政大臣蕾切爾·裡夫斯所堅持的路線。曾在伯納姆麾下擔任大曼徹斯特副市長的Richard Leese週三接受採訪時表示：“我認為，他可能會尋求在財政規則的適用方式上擁有更大靈活性，以確保我們能夠推動經濟增長。如果經濟無法增長，財政規則對政府施政能力造成的約束就會越來越大。”
-
----
-
-### 2026-06-24 19:14:35  #MKT News #Market Themes #AI Revolution
-
-【Wuhan launches 1 bln yuan municipal AI sci‑tech fund】Wuhan has launched its first municipal-level AI science-and-technology innovation fund, the Wuhan Wuchuang Future Intelligent Venture Fund, with total capital of 1 billion yuan. Investors include Wuchuang Investment, Wuhan Fund and the Hubei Humanoid Robot Fund of Funds. The vehicle will target AI, humanoid robots and embodied intelligence, prioritizing financing for full humanoid robot systems, high-precision sensors, intelligent chips and other core tech R&D and industrialization projects.
-
----
-
-### 2026-06-24 19:14:24  #Trading Economics #Economy #United States #Mortgage Applications #Importance 1
-
-US Mortgage Applications Inch Higher — Mortgage applications in the US inched higher by 1% in the third week of June following the 3.8% drop in the previous period, according to data compiled by the Mortgage Bankers Association. The slight uptick was aligned with a 1bps drop in the benchmark 30-year mortgage rate. The drop in oil prices on de-escalation between Iran and the US brought relief from a pro-inflationary outlook in the economy, but the outlook of a hawkish Federal Reserve following the last FOMC meeting prevented significant respite for long-term Treasury bonds. Applications to refinance an existing mortgage, which are more sensitive to short-term changes in interest rates, rose by 3%. Meanwhile, applications for a mortgage to purchase a home eased by less than 1%.
-
----
-
-### 2026-06-24 19:14:23  #國際
-
-幣安表示，儘管此前申請失敗，但仍將留在歐盟，並將再次嘗試申請加密貨幣牌照。
-
----
-
-### 2026-06-24 19:13:57  #市場
-
-現貨白銀日內跌2%，現報60.25美元/盎司。
-
----
-
-### 2026-06-24 19:13:54  #MKT News #Important #Commodities #Precious Metals
-
-Spot silver falls more than 2.0% intraday to $60.30/oz.
-
----
-
-### 2026-06-24 19:13:49  #公司
-
-【新城市：望遠科技、遠方實業累計減持公司2.12%股份】新城市公告，持股5%以上股東望遠科技、遠方實業減持計劃時間屆滿。截至2026年6月23日，望遠科技累計減持316.5萬股，佔公司總股本剔除回購專用賬戶後股本的比例為1.58%；遠方實業累計減持108萬股，佔比0.54%。減持方式包括集中競價和大宗交易。減持期間，望遠科技因誤操作構成短線交易，已上繳收益並收到深圳證監局警示函。減持後，望遠科技持股比例降至13.26%，遠方實業持股比例降至10.74%。
-
----
-
-### 2026-06-24 19:13:38  #公司
-
-【退市太和：第五次提示公司股票退市整理期交易風險】退市太和公告稱，公司股票於2026年6月8日進入退市整理期，預計最後交易日為6月29日。退市整理期為15個交易日，期滿後5個交易日內將被上交所摘牌，終止上市。首個交易日無漲跌幅限制，此後每日10%。期間公司不籌劃或實施重大資產重組，投資者應提前了結相關業務，司法凍結建議提前續凍，提醒投資者審慎投資、注意風險。
-
----
-
-### 2026-06-24 19:13:33  #MKT News #S&P500 #Impact bullish
-
-JP Morgan raises its S&P 500 year-end target to 7,800 points, saying the outlook is approaching a "clear-sky" scenario.
-
----
-
-### 2026-06-24 19:13:24  #國際
-
-【出人意料、原因不明！上任僅18個月，美軍又一名四星上將被爆將提前離職】據英國《金融時報》、美聯社報道，美國陸軍當地時間23日晚證實，美國駐歐洲與非洲陸軍司令、四星上將克里斯托弗·多納休在上任僅18個月後，將被美國防部長赫格塞思提前解除職務。 據報道介紹，多納休曾在伊拉克、敘利亞等地區服役，在美國前總統拜登2021年下令美軍撤離阿富汗後，多納休成為最後一名離開阿富汗的美軍人員。 報道稱，在赫格塞思解僱美國四星上將、陸軍參謀長蘭迪·喬治僅兩個月後，多納休就被迫離職，此舉在美軍軍官中引發不滿。《金融時報》在報道中直言，多納休是在赫格塞思的“迫使”下離職的，此次解職將在美軍內部引發又一次震動。 目前尚不清楚赫格塞思為何要將多納休解職，但赫格塞思一直公開批評拜登政府處理撤軍的方式，並已下令對撤軍背後的情況進行調查。 （環球網）
-
----
-
-### 2026-06-24 19:13:03  #公司
-
-【金橋資訊：擬認繳出資人民幣1000萬元參與設立嘉興恆致創見創業投資合夥企業】金橋資訊公告，擬認繳出資人民幣1000萬元參與設立嘉興恆致創見創業投資合夥企業，基金募資規模為人民幣1.06億元，公司擔任有限合夥人。
-
----
-
-### 2026-06-24 19:13:00  #公司
-
-【ST海龍：一致行動人玖融普信擬增持不低於2000萬元公司股份】ST海龍公告，公司第一大股東溫州康南科技有限公司的一致行動人玖融普信（北京）企業管理有限公司計劃自公告披露之日起6個月內，透過深圳證券交易所集中競價交易方式增持公司股份，增持金額不低於人民幣2000萬元，不超過人民幣4000萬元，不設定價格區間。玖融普信目前持有公司股份6200萬股，佔公司總股本7.18%，與康南科技合計持有2億股，佔23.15%。
-
----
-
-### 2026-06-24 19:12:57  #公司 #市場
-
-【我國加快推進節能降碳 厚植高質量發展的綠色底色】記者日前在調研中瞭解到，各方正在以更大力度推進節能降碳工作，著力開展重點行業節能降碳改造，厚植高質量發展的綠色底色。在位於重慶江津區的重慶樞紐港產業園，華能珞璜電廠透過蒸汽管網將工業蒸汽精準輸送給園區內33家企業。電廠產生的脫硫石膏、粉煤灰等工業固廢，還可被下游企業全額消納，變身為石膏板、加氣磚等綠色建材。"傳統使用鍋爐的企業依賴天然氣或生物質燃料，每生產1噸蒸汽僅燃氣成本就達240元，還需疊加裝置運維費，而使用電廠蒸汽成本更低、更安全、更環保。"重慶珞川新型建材有限公司負責人說，園區具有豐富的綠色能源優勢，讓企業安心落戶紮根。節能降碳，產業園區和企業是主力軍。從加強資源要素保障，到完善梯度培育體系，各方創新政策舉措，加快提升產業發展含"綠"量。截至目前，我國已經累計培育國家綠色工廠、綠色工業園區、綠色供應鏈管理企業近萬家，規模以上工業單位增加值能耗、水耗不斷降低。（新華社）
 
 ---
