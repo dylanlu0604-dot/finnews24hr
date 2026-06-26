@@ -1,7 +1,140 @@
 {
-  "updated": "2026-06-27 06:11:20",
-  "count": 18176,
+  "updated": "2026-06-27 06:38:36",
+  "count": 18183,
   "items": [
+    {
+      "id": "4958076",
+      "time": "2026-06-27 06:37:28",
+      "tags": [
+        "其他"
+      ],
+      "text": "玻利維亞經濟部：玻利維亞政府將實施靈活匯率制度。"
+    },
+    {
+      "id": "te:markets:562333",
+      "time": "2026-06-27 06:35:05",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Metals Commodities Updates: Lithium Carbonate Falls by 2.87% — Top commodity losers are Lithium Carbonate (-2.87%) and Silicon (-1.14%). Gains are led by Silver (2.27%), Iron Ore CNY (1.77%) and Gold (1.49%)."
+    },
+    {
+      "id": "4958075",
+      "time": "2026-06-27 06:34:32",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "ICE歐洲期貨交易所：交易所交易商持倉報告(COT)資料顯示，截至6月23日，飼料小麥投機者淨空頭倉位增加375手，至375手。"
+    },
+    {
+      "id": "4958074",
+      "time": "2026-06-27 06:32:59",
+      "tags": [
+        "公司",
+        "焦點",
+        "國際"
+      ],
+      "text": "市場訊息：美國解除對Anthropic強大Claude Mythos 5人工智慧模型的限制，允許該公司向100多家美國機構釋出。"
+    },
+    {
+      "id": "4958073",
+      "time": "2026-06-27 06:32:33",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：美國向部分企業釋出強大的Anthropic模型Mythos。"
+    },
+    {
+      "id": "te:markets:562332",
+      "time": "2026-06-27 06:30:05",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Energy Commodities Updates: Brent Crude Oil Drops by 3.07% — Top commodity losers are Brent Crude Oil (-3.07%), Crude Oil WTI (-2.34%) and Heating Oil (-1.79%). Gains are led by Natural Gas UK (2.10%), Germany Natural Gas THE (2.04%) and Natural Gas EU (1.90%)."
+    },
+    {
+      "id": "4958072",
+      "time": "2026-06-27 06:29:50",
+      "tags": [
+        "國際"
+      ],
+      "text": "歐洲地中海地震中心（EMSC）將委內瑞拉地震震級由 5.4 級修正至 4.9 級。"
+    },
+    {
+      "id": "4958071",
+      "time": "2026-06-27 06:29:22",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗革命衛隊：多份與美衝突相關宣告為偽造內容】當地時間27日，伊朗伊斯蘭革命衛隊公共關係部負責人表示，近期在社交媒體上流傳的、涉及與美國發生衝突的所謂“革命衛隊宣告”均為偽造內容。從數小時前開始，多份被歸為伊朗伊斯蘭革命衛隊的文字和宣告在社交媒體上流傳，但革命衛隊公關負責人表示，這些內容均不是由革命衛隊釋出。當地時間6月26日，美軍中央司令部發布宣告表示，美軍中央司令部部隊當日對伊朗實施了打擊。伊朗學生通訊社27日凌晨報道稱，伊朗伊斯蘭革命衛隊表示，革命衛隊的海軍與空軍挫敗了美軍對錫裡克島發動的襲擊，迫使侵略軍隊撤退，以此捍衛伊朗對其領土及水域的主權。隨後，伊朗學生通訊社刪除了這一報道。（央視新聞）"
+    },
+    {
+      "id": "4958070",
+      "time": "2026-06-27 06:28:21",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗方面訊息：援引知情人士訊息，不久前兩枚彈體擊中格什姆島馬桑村區域。"
+    },
+    {
+      "id": "4958069",
+      "time": "2026-06-27 06:28:03",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗國家媒體援引伊朗革命衛隊訊息稱，該部隊對該地區多處美軍部署地點發動了打擊。"
+    },
+    {
+      "id": "4958068",
+      "time": "2026-06-27 06:27:40",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：委內瑞拉強震感明顯，此前數日當地剛發生多場強震。"
+    },
+    {
+      "id": "4958067",
+      "time": "2026-06-27 06:27:14",
+      "tags": [
+        "國際"
+      ],
+      "text": "歐洲地中海地震中心（EMSC）訊息：委內瑞拉阿拉瓜州近海發生 5.4 級地震。"
+    },
+    {
+      "id": "4958066",
+      "time": "2026-06-27 06:15:17",
+      "tags": [
+        "其他"
+      ],
+      "text": "據中國駐委內瑞拉大使館訊息，截至當地時間26日17時，據不完全統計，已確認有7名中國公民在“6·24地震”中遇難。（新華社）"
+    },
+    {
+      "id": "te:markets:562331",
+      "time": "2026-06-27 06:15:05",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "FX Updates: Norwegian Krone Depreciates by 0.69% — Top currency losers are Norwegian Krone (-0.69%), Australian Dollar (-0.31%), Turkish Lira (-0.27%) and Dollar Index (-0.06%). Gains are led by South Korean Won (0.67%), Brazilian Real (0.43%), Indian Rupee (0.33%), Euro (0.12%) and British Pound (0.07%). Meanwhile Japanese Yen was little changed."
+    },
+    {
+      "id": "4958065",
+      "time": "2026-06-27 06:12:23",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【Anthropic據悉正接近與美國政府達成協議 AI模型限制有望解除】據知情人士透露，Anthropic PBC與特朗普政府正在接近達成解除對這家人工智慧公司兩款最先進模型限制的協議，此前雙方就係統安全問題進行了數週談判。這些知情人士表示，美國商務部長霍華德·盧特尼克在緩解安全顧慮方面正取得進展，這將有助於取消商務部對Anthropic的Fable 5和Mythos 5系統實施的出口管制。他們表示，一旦政府各部門官員批准，這些限制措施就可能被解除。因討論未公開訊息而要求匿名的這些知情人士表示，參與談判的包括Anthropic聯合創始人Tom Brown在內的多名高管，他於近日會見了盧特尼克及其他政府高層官員。知情人士稱，美國官員已告知Anthropic，相關限制在政府的安全擔憂得到解決後就會解除。目前尚不清楚白宮及其他積極參與人工智慧政策制定的政府機構將以多快的速度給予批准。一名美國官員表示，商務部正努力與Anthropic達成解決方案，並尋求確保整個政府在相關決定上保持一致。"
+    },
     {
       "id": "4958064",
       "time": "2026-06-27 06:09:42",
@@ -166205,80 +166338,6 @@
         "Importance 1"
       ],
       "text": "Agricultural Commodities Updates: Palm Oil Gains by 1.60% — Top commodity gainers are Palm Oil (1.60%), Rapeseed (0.51%) and Wool (0.51%). Biggest loser is Coffee (-0.73%)."
-    },
-    {
-      "id": "te:markets:560554",
-      "time": "2026-06-20 06:35:02",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Metals Commodities Updates: Platinum Falls by 2.30% — Top commodity losers are Platinum (-2.30%), Gold (-1.38%) and Silver (-1.29%)."
-    },
-    {
-      "id": "4945495",
-      "time": "2026-06-20 06:30:23",
-      "tags": [
-        "市場"
-      ],
-      "text": "週五（6月19日）紐約尾盤（週六北京時間04:59），離岸人民幣（CNH）兌美元報6.7838元，較週四紐約尾盤跌54點，日內整體交投於6.7759-6.7980元區間。本週，離岸人民幣累計下挫大約200點，跌幅0.3%。"
-    },
-    {
-      "id": "te:markets:560553",
-      "time": "2026-06-20 06:30:02",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Energy Commodities Updates: Natural Gas UK Gains by 4.56% — Top commodity gainers are Natural Gas UK (4.56%), Natural Gas EU (3.78%), Germany Natural Gas THE (3.71%), Crude Oil WTI (0.95%) and Brent Crude Oil (0.92%). Biggest loser is Natural gas (-1.12%)."
-    },
-    {
-      "id": "4945494",
-      "time": "2026-06-20 06:29:08",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "【德勤：A股上半年IPO預計將達70只，融資近700億元】德勤中國資本市場服務部發布的最新報告顯示，2026年第二季度中國內地新股市場的發行速度加快。報告認為，隨著科創板改革、創業板第四套上市標準出臺，及科創板的估值進一步上揚，預料會有更多來自硬科技企業和一些標誌性新股上市。資料顯示，截至2026年上半年末，預計將有約70只新股在A股市場上市，融資693億元，相對2025年上半年的51只新股融資373億元，新股數量上升37%，而融資金額增加約85%。上交所將成為新股融資額最高的交易所，將從19只IPO融資305億元；深交所將透過16只新股融資275億元；預料北京證券交易所將維持新股數量最多的紀錄（35家），融資額則為113億元。（介面）"
-    },
-    {
-      "id": "4945491",
-      "time": "2026-06-20 06:18:46",
-      "tags": [
-        "國際"
-      ],
-      "text": "卡達首相兼外交大臣在比爾根施托克同瑞士外交部長就美伊協議與地區安全域性勢舉行會談。美伊兩國特使原定於週五在此開啟談判。"
-    },
-    {
-      "id": "4945490",
-      "time": "2026-06-20 06:18:18",
-      "tags": [
-        "國際"
-      ],
-      "text": "【美國一空軍基地暴發流感 已有超160人感染】據美國方面6月19日訊息，知情人士透露，過去幾周內，得克薩斯州拉克蘭空軍基地已有160多名軍人感染流感病毒。空軍發言人在一份宣告中表示，醫療專業人員和公共衛生官員已採取緩解措施，對有症狀的人員進行隔離和治療，以減少進一步接觸，並繼續監測情況。該發言人還表示，出現症狀的人員正在接受“適當治療”，一旦醫療專業人員確認其健康狀況允許，他們將重返訓練。（央視新聞）"
-    },
-    {
-      "id": "4945489",
-      "time": "2026-06-20 06:15:20",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【特朗普在新空軍一號上簽名】特朗普喜提新專機#當地時間6月19日下午，美國總統特朗普在馬里蘭州安德魯斯聯合基地視察了經改裝的、由卡達贈送的波音747-8型飛機，並在飛機上簽名。這架飛機即將交付，加入“空軍一號”專機機隊。這架巨型客機是卡達去年作為禮物贈予特朗普的，已由美國國防承包商進行了翻新，並經過了飛行測試，塗裝採用了特朗普選定的紅、白、深藍和金色配色方案。 據美媒報道，由於進度過快，部分專家擔心這架新“空軍一號”專機的安全性可能不如現有的“空軍一號”。 據悉，美國空軍為了儘快交付這一過渡版本，跳過了下一代總統專機的一些計劃改裝專案。此外，美國政府接受卡達贈送的這架豪華747-8也引發了爭議，有人質疑這是否屬於不當的昂貴禮品。特朗普則駁斥了對這一安排的批評，稱拒收才是“愚蠢”的。 在波音公司根據2018年簽署的39億美元固定價格合同交付兩架專門建造的747-8之前，這架卡達飛機將作為過渡機型使用。波音的“空軍一號”專案已延期四年，預計要到2028年年中才能交付——這一延誤可能導致特朗普在2029年1月任期結束前都無法等到新飛機。（CCTV國際時訊）"
-    },
-    {
-      "id": "te:markets:560552",
-      "time": "2026-06-20 06:15:02",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Currency",
-        "Importance 1"
-      ],
-      "text": "FX Updates: Brazilian Real Increases by 0.65% — Top currency gainers are Brazilian Real (0.65%), South Korean Won (0.59%), Swedish Krona (0.39%), British Pound (0.19%) and Euro (0.13%). Biggest losers are Australian Dollar (-0.35%), Swiss Franc (-0.32%), New Zealand Dollar (-0.30%) and Dollar Index (-0.06%). Meanwhile Japanese Yen was little changed."
     }
   ]
 }
