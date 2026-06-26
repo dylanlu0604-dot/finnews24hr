@@ -1,7 +1,64 @@
 {
-  "updated": "2026-06-26 23:40:27",
-  "count": 17968,
+  "updated": "2026-06-26 23:44:40",
+  "count": 17970,
   "items": [
+    {
+      "id": "mkt:019f049a-23b5-7dd8-b13a-991223f48d3c",
+      "time": "2026-06-26 23:43:58",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Brazil's President Lula vows to integrate defense matters into government plans."
+    },
+    {
+      "id": "4957828",
+      "time": "2026-06-26 23:43:46",
+      "tags": [
+        "其他"
+      ],
+      "text": "挪威海上油氣產區：受持續罷工及已公佈的停工封鎖措施影響，下週挪威石油、天然氣日產量或將減少 1.2 萬桶油當量。  若罷工持續至 7 月中旬後，油氣日產量損失或將超過 12 萬桶油當量。"
+    },
+    {
+      "id": "mkt:019f0499-b1f2-7dd8-b13a-96d4fb4df8ac",
+      "time": "2026-06-26 23:43:29",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "EURUSD",
+        "Impact bearish"
+      ],
+      "text": "Federal Reserve's Kashkari said the goal is to lower inflation without harming employment."
+    },
+    {
+      "id": "4957827",
+      "time": "2026-06-26 23:42:41",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲卡什卡里：政策目標是在不損害就業的前提下壓低通脹。"
+    },
+    {
+      "id": "4957826",
+      "time": "2026-06-26 23:41:44",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金突破4110美元/盎司，日內漲1.55%。"
+    },
+    {
+      "id": "4957825",
+      "time": "2026-06-26 23:40:27",
+      "tags": [
+        "國際"
+      ],
+      "text": "據報道，俄羅斯總統普京與白俄羅斯總統盧卡申科當前正在磋商俄白聯盟國家相關議程、經貿合作以及地區安全議題。"
+    },
     {
       "id": "mkt:019f0496-6f35-7dd8-b13a-8b403c92bd23",
       "time": "2026-06-26 23:39:55",
@@ -164202,42 +164259,6 @@
         "國際"
       ],
       "text": "【停火訊息傳出 以軍無人機仍持續空襲黎巴嫩南部】據黎巴嫩方面19日訊息，以軍無人機仍在持續空襲黎巴嫩南部，空襲目標包括納巴蒂耶和傑津地區的城鎮和山地。黎巴嫩議會真主黨籍議員易卜拉欣·穆薩維當天在接受採訪時表示，雙方同意停火後，真主黨立即開始遵守協議，並保留在以色列違反停火協議時予以回應的權利。他表示，“如果以色列尊重停火，我們也會尊重停火”。稍早前，以色列國防軍19日表示，以色列北部扎裡特地區拉響防空警報，有疑似無人機來襲。（央視新聞）"
-    },
-    {
-      "id": "mkt:019ee08d-7dc5-7dd8-b099-12a56d81e1a0",
-      "time": "2026-06-19 23:43:49",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "【Iran foreign minister says US should be held responsible for any breaches of memorandum terms】Iranian media reported on the 19th that Foreign Minister Araghchi told Pakistan’s deputy prime minister and foreign minister Dar in a call that the US is obliged to end hostilities on all fronts, including Lebanon, and should be held responsible for any breach of the memorandum of understanding’s terms."
-    },
-    {
-      "id": "mkt:019ee08d-2792-7dd8-b099-0d17f561bfa5",
-      "time": "2026-06-19 23:43:27",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Bank of England to hold five gilt auctions in Q3."
-    },
-    {
-      "id": "4945346",
-      "time": "2026-06-19 23:43:22",
-      "tags": [
-        "國際"
-      ],
-      "text": "【伊朗外長：美國應對任何違反諒解備忘錄條款的行為負責】據伊朗媒體19日報道，伊朗外交部長阿拉格齊當日在同巴基斯坦副總理兼外交部長達爾通話時稱，美國有義務和責任結束包括黎巴嫩在內的所有戰線的戰事，美國應對任何違反諒解備忘錄條款的行為負責。（新華社）"
-    },
-    {
-      "id": "mkt:019ee08b-f687-7dd8-b099-0211ccf270ea",
-      "time": "2026-06-19 23:42:09",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Norway's prime minister said on Friday the country will impose a near-total ban on generative AI tools for primary school students and will restrict their use in education for older children to prevent negative impacts on learning."
     }
   ]
 }
