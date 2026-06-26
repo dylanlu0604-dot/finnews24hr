@@ -1,7 +1,30 @@
 {
-  "updated": "2026-06-27 00:57:12",
+  "updated": "2026-06-27 01:01:09",
   "count": 18020,
   "items": [
+    {
+      "id": "4957872",
+      "time": "2026-06-27 01:00:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "【夜盤期貨收盤】國際銅夜盤收漲0.90%，滬銅收漲0.90%，滬鋁收漲0.81%，滬鋅收漲2.16%，滬鉛收跌0.37%，滬鎳收漲0.36%，滬錫收漲1.66%。氧化鋁夜盤收漲0.64%，鋁合金收漲1.66%。不鏽鋼夜盤收漲0.48%。"
+    },
+    {
+      "id": "mkt:019f04de-da88-7dd8-b13b-e981bebe2b85",
+      "time": "2026-06-27 00:59:01",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy",
+        "DXY",
+        "Impact bullish",
+        "EURUSD",
+        "Impact bearish",
+        "XAUUSD"
+      ],
+      "text": "IMF chief economist Gourinchas said the global economy remains centered on the dollar."
+    },
     {
       "id": "mkt:019f04d7-7431-7dd8-b13b-e5bc41a2aba5",
       "time": "2026-06-27 00:50:56",
@@ -164760,25 +164783,6 @@
         "國際"
       ],
       "text": "【歐洲理事會主席：正建立渠道以直接向俄傳遞歐盟資訊】歐洲理事會主席科斯塔19日表示，他正透過其辦公室建立一條外交渠道，以便能夠直接向俄羅斯傳遞歐盟資訊。科斯塔在歐盟峰會會後記者會上說，歐盟必須直接向俄羅斯傳遞其資訊，不能僅透過他方來解讀俄方資訊。（新華社）"
-    },
-    {
-      "id": "4945371",
-      "time": "2026-06-20 00:57:37",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗塔斯尼姆通訊社訊息：伊朗副外長表示，60 天后伊朗將啟用霍爾木茲海峽全新管控機制，並向地區各國提交專項倡議。"
-    },
-    {
-      "id": "mkt:019ee0d0-ef0e-7dd8-b099-9736339b099e",
-      "time": "2026-06-20 00:57:29",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "Iran's deputy foreign minister said that in 60 days Tehran will adopt a new mechanism to manage the Strait of Hormuz and will present a special initiative to states in the region."
     }
   ]
 }
