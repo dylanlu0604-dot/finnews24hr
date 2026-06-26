@@ -1,7 +1,88 @@
 {
-  "updated": "2026-06-27 03:52:56",
-  "count": 18101,
+  "updated": "2026-06-27 03:57:02",
+  "count": 18105,
   "items": [
+    {
+      "id": "mkt:019f0581-777c-7dd8-b13e-be0ace3d1eca",
+      "time": "2026-06-27 03:56:38",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "SanDisk (SNDK.O) late-session losses widened to 11%."
+    },
+    {
+      "id": "mkt:019f0581-1341-7dd8-b13e-b19b2874d06c",
+      "time": "2026-06-27 03:56:12",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "When asked about Iran's actions in the Strait of Hormuz, US President Trump said observers should wait and see."
+    },
+    {
+      "id": "4957970",
+      "time": "2026-06-27 03:56:03",
+      "tags": [
+        "公司"
+      ],
+      "text": "惠譽將波音公司的評級展望調整為正面；確認其發行人違約評級為“BBB-”。"
+    },
+    {
+      "id": "4957969",
+      "time": "2026-06-27 03:55:44",
+      "tags": [
+        "國際"
+      ],
+      "text": "記者問及伊朗涉嫌違反停火協議一事，特朗普回應：拭目以待。"
+    },
+    {
+      "id": "4957968",
+      "time": "2026-06-27 03:55:21",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "閃迪公司股價在收盤前數分鐘因成交量激增觸及日內盤中低點，最新跌幅為11%。"
+    },
+    {
+      "id": "4957967",
+      "time": "2026-06-27 03:55:04",
+      "tags": [
+        "資料",
+        "市場",
+        "國際"
+      ],
+      "text": "【油價大跌之際，美債收益率下跌，美元上漲】本週地緣政治緊張局勢緩解導致油價下跌近10%，在此期間美債收益率下跌，美元走強。好壞參半的美國經濟指標和不斷下降的通脹預期拖累收益率走低。密歇根大學消費者信心指數升幅略高於預期，達到49.5。《華爾街日報》的一項調查顯示，週二公佈的世界大型企業研究會消費者信心指數預計將從93.1升至94.6。6月就業人數預計將從17.2萬人降至11.8萬人。華爾街日報美元指數本週下跌0.6%。10年期美債收益率連續第三週下跌，下降0.078個百分點，至4.372%；兩年期美債收益率下降0.090個百分點，至4.087%。"
+    },
+    {
+      "id": "4957966",
+      "time": "2026-06-27 03:54:55",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普被問及伊朗違反停火協議一事時說：我不喜歡這樣。"
+    },
+    {
+      "id": "4957965",
+      "time": "2026-06-27 03:53:15",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "應用材料公司股價迅速跌至當日最低點，下跌6.9%。"
+    },
+    {
+      "id": "mkt:019f057d-ce73-7dd8-b13e-aa5ab3fb1cd7",
+      "time": "2026-06-27 03:52:38",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bearish",
+        "XAUUSD",
+        "S&P500",
+        "Impact bullish"
+      ],
+      "text": "Lebanon's prime minister said the framework agreed with Israel aims to secure Israel's withdrawal from all Lebanese territory."
+    },
     {
       "id": "4957964",
       "time": "2026-06-27 03:52:01",
@@ -165509,46 +165590,6 @@
         "國際"
       ],
       "text": "特朗普表示，這架飛機是卡達政府贈予美國的。"
-    },
-    {
-      "id": "4945433",
-      "time": "2026-06-20 03:56:45",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普稱美國已在伊朗 “徹底摧毀一切”。"
-    },
-    {
-      "id": "mkt:019ee174-6bd6-7dd8-b09a-e9784bcbb908",
-      "time": "2026-06-20 03:56:03",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "U.S. President Trump said the other Air Force One is about 35 years old and should be replaced."
-    },
-    {
-      "id": "4945432",
-      "time": "2026-06-20 03:54:34",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：另一架舊專機已有約 35 年機齡，確實到了該更換的時候。"
-    },
-    {
-      "id": "4945431",
-      "time": "2026-06-20 03:53:56",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：內塔尼亞胡是一名鬥士。"
-    },
-    {
-      "id": "mkt:019ee171-a348-7dd8-b09a-e34dc0b47367",
-      "time": "2026-06-20 03:53:01",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "US President Trump says relations with Israel are good."
     }
   ]
 }
