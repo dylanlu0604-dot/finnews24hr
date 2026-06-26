@@ -1,7 +1,42 @@
 {
-  "updated": "2026-06-27 03:57:02",
-  "count": 18105,
+  "updated": "2026-06-27 04:01:03",
+  "count": 18102,
   "items": [
+    {
+      "id": "4957973",
+      "time": "2026-06-27 04:00:02",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【納斯達克中國金龍指數收漲0.91%】海天網路漲29.65%，網易漲7.86%，新氧漲6.78%，迅雷漲6.56%，好未來漲5.92%。"
+    },
+    {
+      "id": "4957972",
+      "time": "2026-06-27 03:58:05",
+      "tags": [
+        "其他"
+      ],
+      "text": "高通股價迅速延續跌勢，跌至當日低點9.1%。"
+    },
+    {
+      "id": "4957971",
+      "time": "2026-06-27 03:57:22",
+      "tags": [
+        "市場"
+      ],
+      "text": "思科股價快速跌至盤中低點，跌幅達 5%。"
+    },
+    {
+      "id": "mkt:019f0581-9bfa-7dd8-b13e-c60aff90d54e",
+      "time": "2026-06-27 03:56:47",
+      "tags": [
+        "MKT News",
+        "BA.O",
+        "Impact bullish"
+      ],
+      "text": "FITCH revised Boeing's outlook to Positive and affirmed its 'BBB-' credit rating."
+    },
     {
       "id": "mkt:019f0581-777c-7dd8-b13e-be0ace3d1eca",
       "time": "2026-06-27 03:56:38",
@@ -165521,75 +165556,6 @@
         "市場"
       ],
       "text": "多倫多綜合股指非正式收盤下跌 111.92 點，跌幅 0.32%，報 34857.34 點。"
-    },
-    {
-      "id": "mkt:019ee177-ec90-7dd8-b09b-0a397c552974",
-      "time": "2026-06-20 03:59:53",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "The Trump Trade"
-      ],
-      "text": "Trump said US Defense Secretary Hegseth is a born fighter who never admits defeat, is exceptionally tough, and genuinely loves the military."
-    },
-    {
-      "id": "4945436",
-      "time": "2026-06-20 03:59:47",
-      "tags": [
-        "國際"
-      ],
-      "text": "【以媒：伊朗與真主黨聯手破壞以美關係】據以色列媒體報道，以色列官員研判，昨晚造成四名以色列國防軍士兵身亡的致命襲擊，是伊朗和真主黨精心策劃的行動，其明確目的是離間耶路撒冷與華盛頓。相關官員表示，德黑蘭方面成功將美國和以色列一同引入其設下的圈套，刻意把黎巴嫩停火諒解備忘錄與重啟大範圍談判繫結在一起。"
-    },
-    {
-      "id": "4945435",
-      "time": "2026-06-20 03:58:37",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：赫格塞斯是天生的鬥士，他從不知認輸，性格十分強硬，此人真心熱愛軍隊。"
-    },
-    {
-      "id": "mkt:019ee176-51a8-7dd8-b09b-02ecceee0e2d",
-      "time": "2026-06-20 03:58:08",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "The Trump Trade",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "TRUMP said he ended eight wars and that the war with Iran was the toughest."
-    },
-    {
-      "id": "mkt:019ee176-0975-7dd8-b09a-fa4a7ac54510",
-      "time": "2026-06-20 03:57:49",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "President Trump said Defense Secretary Hegseth is doing very well."
-    },
-    {
-      "id": "mkt:019ee175-d804-7dd8-b09a-f282bf305813",
-      "time": "2026-06-20 03:57:37",
-      "tags": [
-        "MKT News",
-        "DXY",
-        "Impact bearish",
-        "EURUSD",
-        "Impact bullish",
-        "USDJPY"
-      ],
-      "text": "【Dollar index down 0.12% at New York close】The dollar index, which measures the US dollar against six major currencies, fell 0.12% to 100.729 at the New York FX close on the 19th. EUR/USD rose to 1.1477 from 1.1459; GBP/USD rose to 1.3234 from 1.3203. USD/JPY fell to 161.26 from 161.68. USD/CHF rose to 0.8066 from 0.8051; USD/CAD rose to 1.4174 from 1.4140; USD/SEK fell to 9.5742 from 9.5874."
-    },
-    {
-      "id": "4945434",
-      "time": "2026-06-20 03:57:25",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普表示，這架飛機是卡達政府贈予美國的。"
     }
   ]
 }
