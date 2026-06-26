@@ -1,7 +1,103 @@
 {
-  "updated": "2026-06-26 13:49:47",
-  "count": 17255,
+  "updated": "2026-06-26 13:53:50",
+  "count": 17259,
   "items": [
+    {
+      "id": "mkt:019f027c-a4ac-7dd8-b12e-72448bdf537b",
+      "time": "2026-06-26 13:52:30",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "China EV Leaders",
+        "AI Revolution"
+      ],
+      "text": "【Leapmotor launches first MPV D99】Leapmotor launched its first MPV, the D99, equipped with dual Qualcomm SA8797 chips and an on-device multimodal AI large model. All trims come standard with all-wheel drive and continuously variable damping; powertrain options include range-extender and battery-electric variants. Pricing starts at 249,800 yuan."
+    },
+    {
+      "id": "4956541",
+      "time": "2026-06-26 13:52:15",
+      "tags": [
+        "其他"
+      ],
+      "text": "【零跑釋出首款MPV車型D99】6月26日，零跑釋出首款MPV車型D99，搭載雙高通SA8797晶片、端側全模態AI大模型，全系標配四驅系統、連續可變阻尼減振，提供增程和純電兩種動力選擇，售價24.98萬元起。"
+    },
+    {
+      "id": "mkt:019f027c-64b7-7dd8-b12e-6f569f3affd4",
+      "time": "2026-06-26 13:52:14",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "XAUUSD",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish",
+        "US10Y"
+      ],
+      "text": "【Gold set for fourth weekly decline; analyst says pullback could extend to $3,400】Gold is poised for a fourth consecutive weekly decline as a firm dollar and market expectations of faster Fed rate hikes keep bullion under pressure around $4,000/oz. OANDA senior market analyst Kelvin Wong said rapid repricing toward a hawkish Fed has fueled the dollar’s rally and driven the recent sharp sell-off; Wong adds the longer-term correction could extend to $3,400/oz. Gold is down about 29% from a Jan. 29 record high of $5,594.82/oz amid inflationary pressure tied to the US‑Iran war that boosted rate‑hike bets; US May PCE rose from April and headline PCE inflation is above 4% YoY, reinforcing prospects of tighter Fed policy."
+    },
+    {
+      "id": "4956540",
+      "time": "2026-06-26 13:51:59",
+      "tags": [
+        "其他"
+      ],
+      "text": "【速賣通618品牌成交同比增長90%】阿里旗下速賣通披露，今年海外618大促平臺品牌成交同比90%增長，177個品牌環比三月實現3倍以上爆發，品牌成交滲透率近40%。"
+    },
+    {
+      "id": "4956539",
+      "time": "2026-06-26 13:51:07",
+      "tags": [
+        "公司"
+      ],
+      "text": "【鵬翎股份與艾曼斯簽訂戰略合作協議】近日，鵬翎股份與艾曼斯（蘇州）工程塑膠有限公司簽訂戰略合作協議，將聚焦新能源汽車輕量化、熱管理系統技術創新，共同助力國內汽車零部件產業高質量升級。"
+    },
+    {
+      "id": "4956538",
+      "time": "2026-06-26 13:51:03",
+      "tags": [
+        "央行",
+        "公司",
+        "國際"
+      ],
+      "text": "菲律賓央行：擁有數字市場平臺的公司必須保持10億比索的資本金。"
+    },
+    {
+      "id": "4956537",
+      "time": "2026-06-26 13:50:19",
+      "tags": [
+        "其他"
+      ],
+      "text": "新易盛成交額達300億元，現跌5.83%。"
+    },
+    {
+      "id": "4956536",
+      "time": "2026-06-26 13:49:42",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "日本40年期國債收益率下跌5個基點至3.665%。"
+    },
+    {
+      "id": "4956535",
+      "time": "2026-06-26 13:49:31",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【印度對涉華抗氧化劑啟動反傾銷調查】印度商工部發布公告稱，應印度國內企業Vinati Organics Limited提交的申請，對原產於或進口自中國、韓國和新加坡的抗氧化劑（Certain Antioxidants）啟動反傾銷調查。本案主要涉及印度海關編碼29071990、29072990、29096000、29096090、29181990、29182910、29182990、29183090、29189990、29202910、29202930、29202990、29209000、29209090、29241990、29242990、29280090、29309099、29336990、29339990、38112900、38119000、38122090、38123910和38123990項下的產品。"
+    },
+    {
+      "id": "4956534",
+      "time": "2026-06-26 13:49:18",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列國防軍：有士兵在黎巴嫩南部近距離交火中受傷。"
+    },
     {
       "id": "4956533",
       "time": "2026-06-26 13:48:36",
@@ -157837,65 +157933,6 @@
         "其他"
       ],
       "text": "【水利部：受降雨影響 20條中小河流發生超警以上洪水】從水利部瞭解到，受降雨影響，昨天（18日）到今天，重慶、貴州、廣西、廣東20條中小河流發生超警以上洪水。其中重慶清溪溝及貴州樂康河、所也河、京舟河等4條中小河流發生超保洪水，最大超保幅度1.11米。目前大部河流已退至警戒水位以下。"
-    },
-    {
-      "id": "4944758",
-      "time": "2026-06-19 13:53:44",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "據公司高管透露，印度RMZ集團將投入350億美元，擴容資料中心容量。"
-    },
-    {
-      "id": "mkt:019ede70-ed8e-7dd8-b08e-6e9447cd3dae",
-      "time": "2026-06-19 13:53:23",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "Brent",
-        "Impact bullish"
-      ],
-      "text": "Brent crude's intraday gain widened to 1.00%, trading at $79.82/bbl."
-    },
-    {
-      "id": "4944757",
-      "time": "2026-06-19 13:50:12",
-      "tags": [
-        "市場"
-      ],
-      "text": "新加坡海峽時報指數下跌1%至5160.69點。"
-    },
-    {
-      "id": "mkt:019ede6d-fc6b-7dd8-b08e-611bf7b7c23b",
-      "time": "2026-06-19 13:50:10",
-      "tags": [
-        "MKT News",
-        "NOVOB.CO",
-        "Impact bullish"
-      ],
-      "text": "Nordea upgraded Novo Nordisk to Buy from Hold."
-    },
-    {
-      "id": "mkt:019ede6d-f11e-7dd8-b08e-5c61aa740863",
-      "time": "2026-06-19 13:50:07",
-      "tags": [
-        "MKT News",
-        "Important",
-        "EURUSD",
-        "Impact mixed",
-        "GBPUSD"
-      ],
-      "text": "Germany May PPI (MoM), UK May public sector net borrowing and seasonally adjusted retail sales (MoM) due in 10 minutes."
-    },
-    {
-      "id": "4944756",
-      "time": "2026-06-19 13:49:56",
-      "tags": [
-        "其他"
-      ],
-      "text": "巴克萊將必和必拓目標股價從2770便士下調至2750便士。"
     }
   ]
 }
