@@ -1,7 +1,109 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-06-27 06:07:27_
-_本檔包含 3618 則快訊，約 670585 字_
+_更新時間：2026-06-27 06:38:36_
+_本檔包含 3618 則快訊，約 670658 字_
+
+---
+
+### 2026-06-27 06:37:28  #其他
+
+玻利維亞經濟部：玻利維亞政府將實施靈活匯率制度。
+
+---
+
+### 2026-06-27 06:35:05  #Trading Economics #Markets #Commodity #Importance 1
+
+Metals Commodities Updates: Lithium Carbonate Falls by 2.87% — Top commodity losers are Lithium Carbonate (-2.87%) and Silicon (-1.14%). Gains are led by Silver (2.27%), Iron Ore CNY (1.77%) and Gold (1.49%).
+
+---
+
+### 2026-06-27 06:34:32  #市場 #國際
+
+ICE歐洲期貨交易所：交易所交易商持倉報告(COT)資料顯示，截至6月23日，飼料小麥投機者淨空頭倉位增加375手，至375手。
+
+---
+
+### 2026-06-27 06:32:59  #公司 #焦點 #國際
+
+市場訊息：美國解除對Anthropic強大Claude Mythos 5人工智慧模型的限制，允許該公司向100多家美國機構釋出。
+
+---
+
+### 2026-06-27 06:32:33  #國際
+
+市場訊息：美國向部分企業釋出強大的Anthropic模型Mythos。
+
+---
+
+### 2026-06-27 06:30:05  #Trading Economics #Markets #Commodity #Importance 1
+
+Energy Commodities Updates: Brent Crude Oil Drops by 3.07% — Top commodity losers are Brent Crude Oil (-3.07%), Crude Oil WTI (-2.34%) and Heating Oil (-1.79%). Gains are led by Natural Gas UK (2.10%), Germany Natural Gas THE (2.04%) and Natural Gas EU (1.90%).
+
+---
+
+### 2026-06-27 06:29:50  #國際
+
+歐洲地中海地震中心（EMSC）將委內瑞拉地震震級由 5.4 級修正至 4.9 級。
+
+---
+
+### 2026-06-27 06:29:22  #國際
+
+【伊朗革命衛隊：多份與美衝突相關宣告為偽造內容】當地時間27日，伊朗伊斯蘭革命衛隊公共關係部負責人表示，近期在社交媒體上流傳的、涉及與美國發生衝突的所謂“革命衛隊宣告”均為偽造內容。從數小時前開始，多份被歸為伊朗伊斯蘭革命衛隊的文字和宣告在社交媒體上流傳，但革命衛隊公關負責人表示，這些內容均不是由革命衛隊釋出。當地時間6月26日，美軍中央司令部發布宣告表示，美軍中央司令部部隊當日對伊朗實施了打擊。伊朗學生通訊社27日凌晨報道稱，伊朗伊斯蘭革命衛隊表示，革命衛隊的海軍與空軍挫敗了美軍對錫裡克島發動的襲擊，迫使侵略軍隊撤退，以此捍衛伊朗對其領土及水域的主權。隨後，伊朗學生通訊社刪除了這一報道。（央視新聞）
+
+---
+
+### 2026-06-27 06:28:21  #國際
+
+伊朗方面訊息：援引知情人士訊息，不久前兩枚彈體擊中格什姆島馬桑村區域。
+
+---
+
+### 2026-06-27 06:28:03  #國際
+
+伊朗國家媒體援引伊朗革命衛隊訊息稱，該部隊對該地區多處美軍部署地點發動了打擊。
+
+---
+
+### 2026-06-27 06:27:40  #其他
+
+市場訊息：委內瑞拉強震感明顯，此前數日當地剛發生多場強震。
+
+---
+
+### 2026-06-27 06:27:14  #國際
+
+歐洲地中海地震中心（EMSC）訊息：委內瑞拉阿拉瓜州近海發生 5.4 級地震。
+
+---
+
+### 2026-06-27 06:15:17  #其他
+
+據中國駐委內瑞拉大使館訊息，截至當地時間26日17時，據不完全統計，已確認有7名中國公民在“6·24地震”中遇難。（新華社）
+
+---
+
+### 2026-06-27 06:15:05  #Trading Economics #Markets #Currency #Importance 1
+
+FX Updates: Norwegian Krone Depreciates by 0.69% — Top currency losers are Norwegian Krone (-0.69%), Australian Dollar (-0.31%), Turkish Lira (-0.27%) and Dollar Index (-0.06%). Gains are led by South Korean Won (0.67%), Brazilian Real (0.43%), Indian Rupee (0.33%), Euro (0.12%) and British Pound (0.07%). Meanwhile Japanese Yen was little changed.
+
+---
+
+### 2026-06-27 06:12:23  #公司 #國際
+
+【Anthropic據悉正接近與美國政府達成協議 AI模型限制有望解除】據知情人士透露，Anthropic PBC與特朗普政府正在接近達成解除對這家人工智慧公司兩款最先進模型限制的協議，此前雙方就係統安全問題進行了數週談判。這些知情人士表示，美國商務部長霍華德·盧特尼克在緩解安全顧慮方面正取得進展，這將有助於取消商務部對Anthropic的Fable 5和Mythos 5系統實施的出口管制。他們表示，一旦政府各部門官員批准，這些限制措施就可能被解除。因討論未公開訊息而要求匿名的這些知情人士表示，參與談判的包括Anthropic聯合創始人Tom Brown在內的多名高管，他於近日會見了盧特尼克及其他政府高層官員。知情人士稱，美國官員已告知Anthropic，相關限制在政府的安全擔憂得到解決後就會解除。目前尚不清楚白宮及其他積極參與人工智慧政策制定的政府機構將以多快的速度給予批准。一名美國官員表示，商務部正努力與Anthropic達成解決方案，並尋求確保整個政府在相關決定上保持一致。
+
+---
+
+### 2026-06-27 06:09:42  #焦點 #國際
+
+美國副總統萬斯在社交平臺 X 發文：若伊朗對諒解備忘錄存在異議，可主動致電溝通。
+
+---
+
+### 2026-06-27 06:08:58  #國際
+
+美國副總統萬斯談及伊朗：以暴力回應暴力。
 
 ---
 
@@ -21726,107 +21828,5 @@ Israeli Prime Minister Netanyahu said Israeli forces control southern Lebanon fr
 ### 2026-06-25 23:39:26  #MKT News #Market Regions #Europe & UK #DAX #Impact bullish #FTSE100
 
 European equities closed higher on Thursday June 25: Germany's DAX 30 rose 296.72 pts (+1.20%) to 25,012.96, the UK's FTSE 100 gained 73.68 pts (+0.70%) to 10,535.31, France's CAC 40 added 46.12 pts (+0.55%) to 8,431.61, the Stoxx Europe 50 advanced 54.66 pts (+0.88%) to 6,269.36, Spain's IBEX 35 climbed 135.00 pts (+0.70%) to 19,524.50 and Italy's FTSE MIB increased 155.56 pts (+0.30%) to 51,794.50.
-
----
-
-### 2026-06-25 23:39:20  #MKT News #WTI #Impact bearish #Brent #DXY
-
-【Italy denies US used its bases to strike Iran】On the 25th, Italian Foreign Minister Tajani told his Iranian counterpart by phone he firmly rejects the NATO secretary-general’s recent claim that US forces used Italian military bases in operations against Iran. Tajani said Italian bases have never been used for attacks on Iran and will not be; no US warplanes departed Italian territory to bomb Iran and Rome never authorised such operations. The Iranian foreign minister thanked Italy for the clarification and said a clear, formal denial was necessary.
-
----
-
-### 2026-06-25 23:39:04  #公司
-
-【惠豐鑽石：公司散熱產品收入極少 佔營業收入比例極低】惠豐鑽石釋出風險提示公告，公司是一家專業從事人造金剛石單晶微粉、微粉延伸應用產品及CVD金剛石材料的研發、生產和銷售的高新技術企業，主要產品包括金剛石微粉、金剛石破碎整形料及CVD培育鑽石等。經自查，公司目前生產經營情況正常，公司主營業務未發生重大變化。近期金剛石散熱應用相關概念關注度較高，但截至目前，公司散熱產品收入極少，佔營業收入比例極低。散熱產品在下游應用能否順利實現，影響的因素較多且存在較大的不確定性，敬請投資者注意投資風險。
-
----
-
-### 2026-06-25 23:38:41  #國際
-
-【義大利外長否認美軍使用該國軍事基地轟炸伊朗】當地時間25日，義大利外交部長塔亞尼與伊朗外交部長阿拉格齊通電話。通話中，塔亞尼堅決否認北約秘書長近期關於“美國在對伊朗軍事行動中使用義大利軍事基地”的說法。塔亞尼強調，義大利的軍事基地從未被用於針對伊朗的任何襲擊行動，未來也不會發生類似情況，並表示，美軍戰機並未從義大利領土起飛轟炸伊朗，義大利政府也從未授權此類軍事行動。阿拉格齊對意方此次通話及相關澄清表示感謝，同時強調義大利政府有必要對相關言論作出明確、正式的否認。（央視新聞）
-
----
-
-### 2026-06-25 23:38:38  #MKT News
-
-Canadian Prime Minister Carney said topics discussed with U.S. President Trump included NATO and Iran.
-
----
-
-### 2026-06-25 23:38:32  #國際
-
-加拿大總理卡尼：與特朗普討論的議題包括北約、伊朗。
-
----
-
-### 2026-06-25 23:38:26  #MKT News #Market Themes #The Trump Trade
-
-Carney said he held extended talks with U.S. President Trump and several senior U.S. officials on a range of issues.
-
----
-
-### 2026-06-25 23:38:06  #國際
-
-加拿大總理卡尼：與特朗普及美國高階官員就多項議題展開深入會談。
-
----
-
-### 2026-06-25 23:37:51  #公司
-
-米其林將在其2026財年合併財報中計提約2.2億歐元的非經常性支出撥備。
-
----
-
-### 2026-06-25 23:37:47  #MKT News
-
-Canada's prime minister Carney said US President Trump called him on Wednesday.
-
----
-
-### 2026-06-25 23:37:46  #國際
-
-加拿大總理卡尼：美國總統特朗普週三致電與我通話。
-
----
-
-### 2026-06-25 23:37:38  #公司 #國際
-
-米其林：米其林北美公司正計劃重組其旗下百路馳輪胎品牌在美國的生產業務。
-
----
-
-### 2026-06-25 23:37:21  #公司
-
-米其林：百路馳輪胎幾乎所有產能都將整合至該公司位於印第安納州韋恩堡的工廠。
-
----
-
-### 2026-06-25 23:37:15  #其他
-
-米其林相關業務將於明年年初開始分階段逐步關停，預計將在2028年底前完成全部收尾工作。
-
----
-
-### 2026-06-25 23:37:02  #其他
-
-米其林：計劃逐步縮減其位於阿拉巴馬州塔斯卡盧薩的百路馳輪胎工廠的運營業務。
-
----
-
-### 2026-06-25 23:36:46  #國際
-
-美國聯邦通訊委員會批准對承載全球99%國際網際網路流量的海底通訊光纜實施更嚴格監管。
-
----
-
-### 2026-06-25 23:36:06  #公司
-
-明晟公司MSCI北歐國家指數漲0.7%，報387.50點。在十個板塊中，北歐工業板塊漲幅最大。Neste Oyj漲3.5%，在一眾北歐個股裡領跑。
-
----
-
-### 2026-06-25 23:35:51  #MKT News
-
-【Iran, Oman foreign ministers discuss Strait of Hormuz】Iranian foreign minister Araghchi said on social media on the 25th he spoke with Oman's foreign minister; both agreed to continue communications to clarify future management and services of the Strait of Hormuz.
 
 ---

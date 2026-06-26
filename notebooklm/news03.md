@@ -1,7 +1,103 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-06-27 06:07:27_
-_本檔包含 3717 則快訊，約 670613 字_
+_更新時間：2026-06-27 06:38:36_
+_本檔包含 3730 則快訊，約 670066 字_
+
+---
+
+### 2026-06-24 22:02:05  #其他
+
+萊哈里斯科技（L3Harris Technologies）預計今年將向德國軍隊交付新訂單。
+
+---
+
+### 2026-06-24 22:01:57  #其他
+
+高管表示，道達爾能源及其合作伙伴可能“在數週內”就奈米比亞深水金星石油專案做出最終投資決定。
+
+---
+
+### 2026-06-24 22:01:44  #MKT News
+
+U.S. airline shares rose: Delta Air Lines (DAL.N) up 2.6%, Southwest Airlines (LUV.N) up 3.0%, American Airlines Group (AAL.O) up 4.3%, United Airlines (UAL.O) up 4.6%, Alaska Air up 4.7%, JetBlue up 5.2%.
+
+---
+
+### 2026-06-24 22:01:31  #經濟數據 #美國
+
+美國5月新建住宅銷量摺合年率580,000套，預估為639,890套。
+
+---
+
+### 2026-06-24 22:01:16  #國際
+
+【烽火通訊助力PEACE專案完成萬公里級400G超高速跨洋傳輸】近日，由烽火通訊提供Turnkey服務的PEACE國際海纜系統擴容專案（新加坡-埃及段及埃及-法國段）正式投入服務，在跨越亞非歐三大洲的萬公里級海纜鏈路上，成功實現400G超高速業務的部署。未來，烽火通訊將持續深耕海洋通訊前沿技術，加快推動800G跨洋超大容量傳輸系統、多芯光纖、空芯光纖等創新技術的產業化應用。
+
+---
+
+### 2026-06-24 22:01:02  #國際
+
+Mercantile與美國運通及美國律師協會合作，為法律專業人士推出小型企業信用卡。
+
+---
+
+### 2026-06-24 22:00:45  #公司 #市場 #國際
+
+美國航空股上漲，因油價跌至伊朗戰爭爆發以來的最低水平。達美航空股價上漲2.6%，西南航空股價上漲3%，美國航空股價上漲4.3%。聯合航空股價上漲4.6%，阿拉斯加航空集團股價上漲4.7%，捷藍航空股價攀升5.2%。
+
+---
+
+### 2026-06-24 22:00:31  #公司 #市場
+
+標普綜合1500客運航空公司指數觸及八年多新高，最新上漲3.5%。
+
+---
+
+### 2026-06-24 22:00:17  #MKT News #Macro & Rates #US Economy #DXY #Impact bearish #S&P500 #US10Y #Impact bullish
+
+US May new-home sales annualized month-on-month -7.3%; April revised from -6.20% to -5.7%.
+
+---
+
+### 2026-06-24 22:00:10  #MKT News #Important #Macro & Rates #US Economy #US10Y #Impact bullish #DXY #Impact bearish #S&P500 #Impact mixed
+
+US new home sales (annualized) 580,000 in May vs. consensus 639,000; April revised to 626,000 from 622,000.
+
+---
+
+### 2026-06-24 22:00:09  #資料 #國際
+
+美國5月新建住宅銷量摺合年率580,000套 預估為639,890套。
+
+---
+
+### 2026-06-24 22:00:00  #MKT News #Economic Calendar #Important
+
+United States | New Home Sales (SAAR) (May) | actual 580000K | consensus 639000K | previous 622000K
+
+---
+
+### 2026-06-24 22:00:00  #MKT News #Economic Calendar #Important
+
+United States | New Home Sales (MoM) (May) | actual -7.3% | previous -6.20%
+
+---
+
+### 2026-06-24 21:59:22  #國際
+
+據俄羅斯方面報道，俄空中防禦系統擊落了三架飛向莫斯科的無人機。
+
+---
+
+### 2026-06-24 21:59:13  #MKT News #Brent #Impact bullish #XAUUSD #DXY
+
+Russia reported its air defenses shot down three drones en route to Moscow.
+
+---
+
+### 2026-06-24 21:58:48  #Trading Economics #Markets #United States #stocks #Importance 1
+
+Deere & Company Stock Price Hits 10-week High — Deere & Company shares increased to 604.52 USD, the highest since April 2026. Over the past 4 weeks, Deere & Company gained 14.02%, and in the last 12 months, it increased 19.05%.
 
 ---
 
@@ -22424,23 +22520,5 @@ Brent Crude Oil Hovers at $78 — Brent crude oil prices stabilized around $78 p
 ### 2026-06-23 19:46:31  #MKT News #Market Regions #Greater China
 
 【Chen Jining meets Sanofi CEO Ge Lihe and HSBC chair Nie Zhiheng; urges more R&D and deeper finance cooperation】Shanghai party secretary Chen Jining met Sanofi global CEO Ge Lihe and HSBC chair Nie Zhiheng. He urged Sanofi to leverage Shanghai’s strengths in basic research, talent, market scale and policy support to increase local innovative R&D, place more innovation and global-simultaneous development projects in Shanghai, and deepen cooperation with domestic biotech firms to strengthen the city’s pharmaceutical ecosystem. He asked HSBC to use its global network and expertise to deepen cooperation on tech finance, green finance, urban renewal, cross-border and offshore finance, and support firms’ outbound activity, and to provide input as Shanghai refines a regulatory framework suited to an international financial centre.
-
----
-
-### 2026-06-23 19:46:18  #宏觀 #焦點
-
-【6月23日《新聞聯播》主要內容】今天《新聞聯播》主要內容有： 1.《習近平黨建文選》第一卷、第二卷出版發行； 2.【牢記初心使命 奮進復興征程】弘揚西柏坡精神 走好新時代趕考路； 3.李強分別會見幾內亞總理、哈薩克總理、韓國總理、蒙古國總理、黑山總理； 4.十四屆全國人大常委會第二十三次會議在京舉行 審議商標法修訂草案等 趙樂際主持； 5.全國政協十四屆常委會第十七次會議開幕 王滬寧主持 丁薛祥作報告； 6.韓正會見南非副總統； 7.【樹立和踐行正確政績觀】以學促幹 將學習教育成果落到實處； 8.我國利用外資結構持續最佳化； 9.我國將全鏈條擴大汽車消費； 10.2026年黃河調水調沙啟動； 11.國內聯播快訊： （1）全國基本完成烈士陵園不動產登記工作； （2）我國出臺促進可再生能源消費新規定； （3）全國機動車合格證資訊將實時共享； （4）西安至重慶高鐵北屏隧道順利貫通； （5）電視劇《種墨園》今晚在總檯央視綜合頻道播出； 12.伊朗稱各方展開技術性會談 決定成立多個工作組： （1）美國放鬆對伊朗石油制裁 國際油價顯著下跌； （2）以色列稱將繼續在黎南部開展軍事行動 美媒稱新一輪黎以會談將舉行； 13.國際聯播快訊： （1）俄稱在頓涅茨克推進 烏稱打擊俄設施； （2）日元匯率逼近約40年來低位； （3）卡達一座天然氣工廠爆炸。
-
----
-
-### 2026-06-23 19:45:11  #其他
-
-【國家郵政局：加強核心要素供給等，促進人工智慧在行業內的廣泛應用，推動新質生產力發展】6月23日，國家郵政局黨組理論學習中心組赴北京亦莊經濟開發區，以參觀研學的方式舉行2026年第6次集體學習。趙衝久強調，要牢牢把握新一輪科技革命和產業變革的歷史機遇，緊扣交通強國郵政篇建設，深入實施創新驅動發展戰略，積極推動科技創新和行業創新深度融合。要認真貫徹“十五五”規劃對加快高水平科技自立自強作出的重大部署，落實好《國家郵政局關於“人工智慧+郵政快遞”的實施意見》，堅持創新引領和應用牽引，加大關鍵技術攻關、加快創新場景賦能、加強核心要素供給等，促進人工智慧在行業內的廣泛應用，推動新質生產力發展。要結合當前正在開展的樹立和踐行正確政績觀學習教育，從更好滿足人民群眾美好生活的用郵需要出發，進一步深入調查研究，不斷增強對新技術、新業態、新知識的學習應用，前瞻性謀劃“十五五”時期行業科技創新和成果轉化，以科技創新推動郵政快遞業高質量發展。
-
----
-
-### 2026-06-23 19:44:59  #Trading Economics #Markets #Commodity #Importance 2
-
-Oil Steadies — Crude oil prices stabilized around $74 per barrel on Tuesday as traders monitored advancements toward resolving the conflict with Iran. Following an interim peace deal that already reduced oil prices by 40% from their peak, a new 60-day US waiver now permits global buyers, including American refineries, to purchase Iranian crude and fuels. While both nations noted progress during talks in Switzerland and agreed to form four working groups to address nuclear issues and sanctions, discrepancies remain. For instance, Tehran disputed US claims regarding the immediate return of nuclear inspectors. Meanwhile, Persian Gulf supply is rising, with Kuwait and the United Arab Emirates finding shipping workarounds and Iran exporting over 30 million barrels in the past week. However, long-term market stability depends on protracted negotiations regarding Iran's nuclear capabilities, the Israel-Hezbollah ceasefire in Lebanon, and the secure reopening of the vital Strait of Hormuz.
 
 ---

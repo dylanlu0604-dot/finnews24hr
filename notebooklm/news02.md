@@ -1,7 +1,109 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-06-27 06:07:27_
-_本檔包含 3832 則快訊，約 670328 字_
+_更新時間：2026-06-27 06:38:36_
+_本檔包含 3833 則快訊，約 670875 字_
+
+---
+
+### 2026-06-25 23:39:20  #MKT News #WTI #Impact bearish #Brent #DXY
+
+【Italy denies US used its bases to strike Iran】On the 25th, Italian Foreign Minister Tajani told his Iranian counterpart by phone he firmly rejects the NATO secretary-general’s recent claim that US forces used Italian military bases in operations against Iran. Tajani said Italian bases have never been used for attacks on Iran and will not be; no US warplanes departed Italian territory to bomb Iran and Rome never authorised such operations. The Iranian foreign minister thanked Italy for the clarification and said a clear, formal denial was necessary.
+
+---
+
+### 2026-06-25 23:39:04  #公司
+
+【惠豐鑽石：公司散熱產品收入極少 佔營業收入比例極低】惠豐鑽石釋出風險提示公告，公司是一家專業從事人造金剛石單晶微粉、微粉延伸應用產品及CVD金剛石材料的研發、生產和銷售的高新技術企業，主要產品包括金剛石微粉、金剛石破碎整形料及CVD培育鑽石等。經自查，公司目前生產經營情況正常，公司主營業務未發生重大變化。近期金剛石散熱應用相關概念關注度較高，但截至目前，公司散熱產品收入極少，佔營業收入比例極低。散熱產品在下游應用能否順利實現，影響的因素較多且存在較大的不確定性，敬請投資者注意投資風險。
+
+---
+
+### 2026-06-25 23:38:41  #國際
+
+【義大利外長否認美軍使用該國軍事基地轟炸伊朗】當地時間25日，義大利外交部長塔亞尼與伊朗外交部長阿拉格齊通電話。通話中，塔亞尼堅決否認北約秘書長近期關於“美國在對伊朗軍事行動中使用義大利軍事基地”的說法。塔亞尼強調，義大利的軍事基地從未被用於針對伊朗的任何襲擊行動，未來也不會發生類似情況，並表示，美軍戰機並未從義大利領土起飛轟炸伊朗，義大利政府也從未授權此類軍事行動。阿拉格齊對意方此次通話及相關澄清表示感謝，同時強調義大利政府有必要對相關言論作出明確、正式的否認。（央視新聞）
+
+---
+
+### 2026-06-25 23:38:38  #MKT News
+
+Canadian Prime Minister Carney said topics discussed with U.S. President Trump included NATO and Iran.
+
+---
+
+### 2026-06-25 23:38:32  #國際
+
+加拿大總理卡尼：與特朗普討論的議題包括北約、伊朗。
+
+---
+
+### 2026-06-25 23:38:26  #MKT News #Market Themes #The Trump Trade
+
+Carney said he held extended talks with U.S. President Trump and several senior U.S. officials on a range of issues.
+
+---
+
+### 2026-06-25 23:38:06  #國際
+
+加拿大總理卡尼：與特朗普及美國高階官員就多項議題展開深入會談。
+
+---
+
+### 2026-06-25 23:37:51  #公司
+
+米其林將在其2026財年合併財報中計提約2.2億歐元的非經常性支出撥備。
+
+---
+
+### 2026-06-25 23:37:47  #MKT News
+
+Canada's prime minister Carney said US President Trump called him on Wednesday.
+
+---
+
+### 2026-06-25 23:37:46  #國際
+
+加拿大總理卡尼：美國總統特朗普週三致電與我通話。
+
+---
+
+### 2026-06-25 23:37:38  #公司 #國際
+
+米其林：米其林北美公司正計劃重組其旗下百路馳輪胎品牌在美國的生產業務。
+
+---
+
+### 2026-06-25 23:37:21  #公司
+
+米其林：百路馳輪胎幾乎所有產能都將整合至該公司位於印第安納州韋恩堡的工廠。
+
+---
+
+### 2026-06-25 23:37:15  #其他
+
+米其林相關業務將於明年年初開始分階段逐步關停，預計將在2028年底前完成全部收尾工作。
+
+---
+
+### 2026-06-25 23:37:02  #其他
+
+米其林：計劃逐步縮減其位於阿拉巴馬州塔斯卡盧薩的百路馳輪胎工廠的運營業務。
+
+---
+
+### 2026-06-25 23:36:46  #國際
+
+美國聯邦通訊委員會批准對承載全球99%國際網際網路流量的海底通訊光纜實施更嚴格監管。
+
+---
+
+### 2026-06-25 23:36:06  #公司
+
+明晟公司MSCI北歐國家指數漲0.7%，報387.50點。在十個板塊中，北歐工業板塊漲幅最大。Neste Oyj漲3.5%，在一眾北歐個股裡領跑。
+
+---
+
+### 2026-06-25 23:35:51  #MKT News
+
+【Iran, Oman foreign ministers discuss Strait of Hormuz】Iranian foreign minister Araghchi said on social media on the 25th he spoke with Oman's foreign minister; both agreed to continue communications to clarify future management and services of the Strait of Hormuz.
 
 ---
 
@@ -22995,101 +23097,5 @@ Nasdaq-100 turned negative.
 ### 2026-06-24 22:02:21  #Trading Economics #Markets #Canada #Stock Market #Importance 1
 
 TSX Slips on High Borrowing Costs and Commodity Weakness — The S&P/TSX Composite Index lost more than 0.5% to trade below 35,000 on Wednesday amid persistently high borrowing costs and weakness in commodity-linked sectors. Gold prices declined as the dollar strengthened on rising bets for further US rate hikes, pressuring mining stocks. Agnico Eagle and WPM shed nearly 3%, while Barrick fell more than 4%. Oil prices also extended this week’s losses on signs that more tankers are set to leave the Strait of Hormuz, easing concerns over energy-driven inflation but weighing on energy shares. Canadian Natural and Imperial Oil lost more than 2%, while Suncor retreated 2.5% and Cenovus shed about 3%. Major banks traded near the flatline, with RBC, BMO, and TD Bank edging lower. In contrast, Canadian tech stocks rebounded from the prior session’s global selloff, with Shopify gaining nearly 3%, while Celestica and Constellation Software rose around 1%.
-
----
-
-### 2026-06-24 22:02:05  #其他
-
-萊哈里斯科技（L3Harris Technologies）預計今年將向德國軍隊交付新訂單。
-
----
-
-### 2026-06-24 22:01:57  #其他
-
-高管表示，道達爾能源及其合作伙伴可能“在數週內”就奈米比亞深水金星石油專案做出最終投資決定。
-
----
-
-### 2026-06-24 22:01:44  #MKT News
-
-U.S. airline shares rose: Delta Air Lines (DAL.N) up 2.6%, Southwest Airlines (LUV.N) up 3.0%, American Airlines Group (AAL.O) up 4.3%, United Airlines (UAL.O) up 4.6%, Alaska Air up 4.7%, JetBlue up 5.2%.
-
----
-
-### 2026-06-24 22:01:31  #經濟數據 #美國
-
-美國5月新建住宅銷量摺合年率580,000套，預估為639,890套。
-
----
-
-### 2026-06-24 22:01:16  #國際
-
-【烽火通訊助力PEACE專案完成萬公里級400G超高速跨洋傳輸】近日，由烽火通訊提供Turnkey服務的PEACE國際海纜系統擴容專案（新加坡-埃及段及埃及-法國段）正式投入服務，在跨越亞非歐三大洲的萬公里級海纜鏈路上，成功實現400G超高速業務的部署。未來，烽火通訊將持續深耕海洋通訊前沿技術，加快推動800G跨洋超大容量傳輸系統、多芯光纖、空芯光纖等創新技術的產業化應用。
-
----
-
-### 2026-06-24 22:01:02  #國際
-
-Mercantile與美國運通及美國律師協會合作，為法律專業人士推出小型企業信用卡。
-
----
-
-### 2026-06-24 22:00:45  #公司 #市場 #國際
-
-美國航空股上漲，因油價跌至伊朗戰爭爆發以來的最低水平。達美航空股價上漲2.6%，西南航空股價上漲3%，美國航空股價上漲4.3%。聯合航空股價上漲4.6%，阿拉斯加航空集團股價上漲4.7%，捷藍航空股價攀升5.2%。
-
----
-
-### 2026-06-24 22:00:31  #公司 #市場
-
-標普綜合1500客運航空公司指數觸及八年多新高，最新上漲3.5%。
-
----
-
-### 2026-06-24 22:00:17  #MKT News #Macro & Rates #US Economy #DXY #Impact bearish #S&P500 #US10Y #Impact bullish
-
-US May new-home sales annualized month-on-month -7.3%; April revised from -6.20% to -5.7%.
-
----
-
-### 2026-06-24 22:00:10  #MKT News #Important #Macro & Rates #US Economy #US10Y #Impact bullish #DXY #Impact bearish #S&P500 #Impact mixed
-
-US new home sales (annualized) 580,000 in May vs. consensus 639,000; April revised to 626,000 from 622,000.
-
----
-
-### 2026-06-24 22:00:09  #資料 #國際
-
-美國5月新建住宅銷量摺合年率580,000套 預估為639,890套。
-
----
-
-### 2026-06-24 22:00:00  #MKT News #Economic Calendar #Important
-
-United States | New Home Sales (SAAR) (May) | actual 580000K | consensus 639000K | previous 622000K
-
----
-
-### 2026-06-24 22:00:00  #MKT News #Economic Calendar #Important
-
-United States | New Home Sales (MoM) (May) | actual -7.3% | previous -6.20%
-
----
-
-### 2026-06-24 21:59:22  #國際
-
-據俄羅斯方面報道，俄空中防禦系統擊落了三架飛向莫斯科的無人機。
-
----
-
-### 2026-06-24 21:59:13  #MKT News #Brent #Impact bullish #XAUUSD #DXY
-
-Russia reported its air defenses shot down three drones en route to Moscow.
-
----
-
-### 2026-06-24 21:58:48  #Trading Economics #Markets #United States #stocks #Importance 1
-
-Deere & Company Stock Price Hits 10-week High — Deere & Company shares increased to 604.52 USD, the highest since April 2026. Over the past 4 weeks, Deere & Company gained 14.02%, and in the last 12 months, it increased 19.05%.
 
 ---
