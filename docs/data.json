@@ -1,7 +1,92 @@
 {
-  "updated": "2026-06-27 00:33:20",
-  "count": 18002,
+  "updated": "2026-06-27 00:37:46",
+  "count": 18010,
   "items": [
+    {
+      "id": "mkt:019f04c9-5c93-7dd8-b13b-803688a0a888",
+      "time": "2026-06-27 00:35:32",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. President Trump said he will deliver remarks at about 9:00 p.m. on July 4, followed by a fireworks display."
+    },
+    {
+      "id": "mkt:019f04c8-e209-7dd8-b13b-7d69ae80dd43",
+      "time": "2026-06-27 00:35:01",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "US President Trump said a large aerial display will be held over Washington, D.C., on July 4, the largest in U.S. history."
+    },
+    {
+      "id": "mkt:019f04c7-e2e4-7dd8-b13b-71597539fbd0",
+      "time": "2026-06-27 00:33:56",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Canada's foreign minister said Ottawa currently has no plans to open embassies in Venezuela or Iran."
+    },
+    {
+      "id": "mkt:019f04c7-da5b-7dd8-b13b-6996b815e943",
+      "time": "2026-06-27 00:33:54",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "【Iraq says OPEC begins gradual restoration of its pre-conflict oil quota】On June 26 (local time) Iraq’s oil ministry said OPEC has begun gradually restoring Iraq’s oil production quota to levels before the outbreak of the US‑Israel‑Iran conflict. On June 25 an oil ministry official warned Iraq might consider leaving OPEC if its crude quota was not significantly increased; the ministry later issued a statement denying that Iraq was considering an exit from OPEC."
+    },
+    {
+      "id": "4957865",
+      "time": "2026-06-27 00:33:51",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "據AXIOS：以色列和黎巴嫩官員表示，他們預計兩國政府今天將宣佈一項框架協議。"
+    },
+    {
+      "id": "4957864",
+      "time": "2026-06-27 00:33:41",
+      "tags": [
+        "國際"
+      ],
+      "text": "加拿大外交部長：目前我們暫無在委內瑞拉或伊朗開設大使館的計劃。"
+    },
+    {
+      "id": "mkt:019f04c7-65d0-7dd8-b13b-663daaeb8ae7",
+      "time": "2026-06-27 00:33:24",
+      "tags": [
+        "MKT News",
+        "Important",
+        "S&P500",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "Axios reports Israeli and Lebanese officials expect their governments to announce a framework agreement today."
+    },
+    {
+      "id": "4957863",
+      "time": "2026-06-27 00:32:58",
+      "tags": [
+        "其他",
+        "焦點"
+      ],
+      "text": "【伊拉克稱歐佩克開始逐步恢復該國石油產量配額】當地時間26日，伊拉克石油部稱，石油輸出國組織（歐佩克）已開始逐步恢復伊拉克在美以伊衝突爆發前的石油產量配額。當地時間25日，一名伊拉克石油部官員稱，若原油配額未獲顯著增加，伊拉克可能考慮退出歐佩克。伊拉克石油部同日發表宣告，否認有關伊拉克可能考慮退出歐佩克的說法。（央視新聞）"
+    },
+    {
+      "id": "4957862",
+      "time": "2026-06-27 00:32:43",
+      "tags": [
+        "國際"
+      ],
+      "text": "黎巴嫩真主黨領導人：以色列將“恥辱地、失敗地”離開黎巴嫩。"
+    },
     {
       "id": "mkt:019f04c5-ae51-7dd8-b13b-5b0ec3f29e48",
       "time": "2026-06-27 00:31:31",
@@ -164589,14 +164674,6 @@
         "其他"
       ],
       "text": "秘魯央行行長： 經濟增長主要得益於私人投資，若下一屆政府施政得當，該國經濟增速或將高於當前預期。"
-    },
-    {
-      "id": "4945364",
-      "time": "2026-06-20 00:33:26",
-      "tags": [
-        "國際"
-      ],
-      "text": "以色列媒體訊息：美國國務卿魯比奧將與以色列總理內塔尼亞胡通電話。"
     }
   ]
 }
