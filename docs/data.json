@@ -1,7 +1,48 @@
 {
-  "updated": "2026-06-26 23:44:40",
+  "updated": "2026-06-26 23:49:12",
   "count": 17970,
   "items": [
+    {
+      "id": "4957830",
+      "time": "2026-06-26 23:47:49",
+      "tags": [
+        "國際"
+      ],
+      "text": "【阿聯酋與伊朗外長通話討論地區局勢】阿聯酋外交部長謝赫阿卜杜拉·本·扎耶德·阿勒納哈揚26日與伊朗外交部長阿拉格齊通電話，就美國與伊朗達成諒解備忘錄後的地區局勢發展交換意見。據阿通社報道，阿卜杜拉說，各方應全面遵守協議條款，確保地區敵對行動立即、全面停止，尊重各國主權和睦鄰友好原則，遵守國際法，維護海上通道安全和國際航行自由，包括保障霍爾木茲海峽的航運暢通。他表示，希望正在進行的美伊談判能夠取得積極成果，為實現地區持久安全與穩定作出貢獻，並強調認真開展外交努力和負責任的對話是解決地區和國際危機的最佳途徑。（新華社）"
+    },
+    {
+      "id": "mkt:019f049b-94bb-7dd8-b13a-ad75fde6ce4c",
+      "time": "2026-06-26 23:45:32",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "WTI",
+        "US10Y",
+        "Impact bearish"
+      ],
+      "text": "【Kashkari says he expects one Fed rate hike in 2026】Fed official Kashkari said signs of broadening inflation led him to project one rate hike in 2026 in the Fed’s economic projections released earlier this month, with policy likely to be unchanged in 2027. In a Friday interview he said he is concerned inflation is not solely linked to the Middle East; the Iran war has pushed oil higher and price increases have broadened across categories. May PCE rose 4.1% YoY, the biggest gain since April 2023, and prices have exceeded the Fed’s 2% target for more than five years. The Fed’s dot plot released last week showed roughly half of officials expect at least one rate hike this year."
+    },
+    {
+      "id": "mkt:019f049a-766c-7dd8-b13a-a00cefa36895",
+      "time": "2026-06-26 23:44:19",
+      "tags": [
+        "MKT News",
+        "Macro & Rates"
+      ],
+      "text": "Federal Reserve's Kashkari said the situation in the Middle East is not yet fully clear."
+    },
+    {
+      "id": "4957829",
+      "time": "2026-06-26 23:44:03",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲卡什卡利： 中東局勢尚未出現全面緩和的訊號。"
+    },
     {
       "id": "mkt:019f049a-23b5-7dd8-b13a-991223f48d3c",
       "time": "2026-06-26 23:43:58",
@@ -164222,43 +164263,6 @@
         "DXY"
       ],
       "text": "The US circulated talking points to allies framing an Iran agreement as a political victory, though the deal chiefly secured the reopening of the Strait of Hormuz."
-    },
-    {
-      "id": "mkt:019ee092-6889-7dd8-b099-22d878696223",
-      "time": "2026-06-19 23:49:11",
-      "tags": [
-        "MKT News",
-        "Important",
-        "XAUUSD",
-        "Impact bullish",
-        "WTI",
-        "DXY"
-      ],
-      "text": "【Ceasefire reported but Israeli drones continue strikes in southern Lebanon】Despite reports of a ceasefire, Israeli drones continued strikes in southern Lebanon on the 19th, targeting towns and hills in the Nabatieh and Jezzine areas. Hezbollah MP Ibrahim Mousawi said Hezbollah began complying with the ceasefire but reserves the right to respond if Israel violates the agreement — \"If Israel respects the ceasefire, we will respect it.\" Earlier the IDF said air-raid sirens sounded in the Zarit area of northern Israel on the 19th amid a suspected drone approach."
-    },
-    {
-      "id": "mkt:019ee091-aac1-7dd8-b099-196315b0e5e2",
-      "time": "2026-06-19 23:48:23",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Russia says Moscow again struck by large-scale Ukrainian drone attack】Moscow mayor Sobyanin said on the 19th the city was again struck by a large-scale Ukrainian drone attack; 76 drones were shot down by evening with no casualties or reported property damage. Ukraine has not commented."
-    },
-    {
-      "id": "4945348",
-      "time": "2026-06-19 23:48:21",
-      "tags": [
-        "國際"
-      ],
-      "text": "【俄稱莫斯科再遭烏大規模無人機襲擊】當地時間19日，俄羅斯莫斯科市長索比亞寧表示，莫斯科當天再次遭烏軍大規模無人機襲擊，截至傍晚共擊落76架無人機，未造成人員傷亡和財產損失。烏克蘭方面對此暫無回應。（央視）"
-    },
-    {
-      "id": "4945347",
-      "time": "2026-06-19 23:47:16",
-      "tags": [
-        "國際"
-      ],
-      "text": "【停火訊息傳出 以軍無人機仍持續空襲黎巴嫩南部】據黎巴嫩方面19日訊息，以軍無人機仍在持續空襲黎巴嫩南部，空襲目標包括納巴蒂耶和傑津地區的城鎮和山地。黎巴嫩議會真主黨籍議員易卜拉欣·穆薩維當天在接受採訪時表示，雙方同意停火後，真主黨立即開始遵守協議，並保留在以色列違反停火協議時予以回應的權利。他表示，“如果以色列尊重停火，我們也會尊重停火”。稍早前，以色列國防軍19日表示，以色列北部扎裡特地區拉響防空警報，有疑似無人機來襲。（央視新聞）"
     }
   ]
 }
