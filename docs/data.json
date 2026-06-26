@@ -1,7 +1,49 @@
 {
-  "updated": "2026-06-27 01:41:50",
-  "count": 18038,
+  "updated": "2026-06-27 01:45:38",
+  "count": 18042,
   "items": [
+    {
+      "id": "4957894",
+      "time": "2026-06-27 01:43:12",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "美國、以色列、黎巴嫩簽署三邊框架協議。"
+    },
+    {
+      "id": "mkt:019f0507-3180-7dd8-b13c-bbe72f882e61",
+      "time": "2026-06-27 01:43:05",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "The U.S., Israel and Lebanon signed a trilateral framework agreement."
+    },
+    {
+      "id": "4957893",
+      "time": "2026-06-27 01:42:36",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國商務部長盧特尼克稱讚歐盟推進美歐貿易協定相關立法。"
+    },
+    {
+      "id": "4957892",
+      "time": "2026-06-27 01:41:55",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列駐美國大使：這份三方框架協議以實際執行成效為基準。"
+    },
+    {
+      "id": "mkt:019f0506-17be-7dd8-b13c-b1e662223c0c",
+      "time": "2026-06-27 01:41:53",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Israel's ambassador to the United States said the trilateral framework will be results-driven."
+    },
     {
       "id": "mkt:019f0501-8c4d-7dd8-b13c-ab3bcdb87dfc",
       "time": "2026-06-27 01:36:55",
@@ -164964,14 +165006,6 @@
         "Brent"
       ],
       "text": "Lebanese official media and medical sources said a drone strike in southern Lebanon after a ceasefire took effect killed two people."
-    },
-    {
-      "id": "4945385",
-      "time": "2026-06-20 01:44:32",
-      "tags": [
-        "國際"
-      ],
-      "text": "【埃及外長稱將與沙特、土耳其和巴基斯坦舉行四方會談】埃及外交部19日發表宣告說，埃及外長將於21日與沙烏地阿拉伯外交大臣、土耳其外長和巴基斯坦外長在開羅舉行四方會談。 (新華社)"
     }
   ]
 }
