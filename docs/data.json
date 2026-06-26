@@ -1,7 +1,132 @@
 {
-  "updated": "2026-06-26 08:57:15",
-  "count": 16939,
+  "updated": "2026-06-26 09:01:46",
+  "count": 16949,
   "items": [
+    {
+      "id": "mkt:019f0171-46c2-7dd8-b128-2eb5463e8d1e",
+      "time": "2026-06-26 09:00:28",
+      "tags": [
+        "MKT News",
+        "CSI300",
+        "Impact bearish"
+      ],
+      "text": "FTSE China A50 index futures opened 0.6% lower."
+    },
+    {
+      "id": "mkt:019f0171-391a-7dd8-b128-242029fcca9b",
+      "time": "2026-06-26 09:00:25",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "At the open, most-active domestic futures contracts were mixed. Low-sulfur fuel oil (LU) rose over 3%; propylene, container freight to Europe, LPG and polypropylene gained more than 2%; SC crude, Soybean No.1 and fuel oil climbed over 1%. On the downside, lithium carbonate fell over 4%; 20# rubber dropped more than 3%; rubber was down nearly 2%; iron ore and coke declined over 1%."
+    },
+    {
+      "id": "4956068",
+      "time": "2026-06-26 09:00:23",
+      "tags": [
+        "市場"
+      ],
+      "text": "臺灣證交所加權股價指數下跌1%至45,774.10點。"
+    },
+    {
+      "id": "4956067",
+      "time": "2026-06-26 09:00:19",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "碳酸鋰連續主力合約日內跌4%，現報148900.00元。"
+    },
+    {
+      "id": "4956066",
+      "time": "2026-06-26 09:00:13",
+      "tags": [
+        "其他"
+      ],
+      "text": "臺灣證交所加權股價指數開低0.1%報46,188.60。"
+    },
+    {
+      "id": "4956065",
+      "time": "2026-06-26 09:00:06",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "【英國私募巨頭MFS衝擊波蔓延，摩根士丹利曾是早期支持者】媒體看到的檔案顯示，摩根士丹利是華爾街最早支援Market Financial Solutions Ltd.（MFS）的機構之一，在該公司經歷繁榮並最終因揹負24億美元債務而破產之前，提升了這家英國私募信貸公司的信譽。檔案顯示，當MFS創始人、曾經的酒水商店老闆Paresh Raja拓展其英國抵押貸款業務時，摩根士丹利便為其提供了早期支援。"
+    },
+    {
+      "id": "4956064",
+      "time": "2026-06-26 09:00:04",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "豆粕連續主力合約日內漲1%，現報2974.00元。"
+    },
+    {
+      "id": "4956063",
+      "time": "2026-06-26 09:00:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "富時中國A50指數期貨開盤下跌0.60%。"
+    },
+    {
+      "id": "4956062",
+      "time": "2026-06-26 09:00:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "【商品期貨開盤】碳酸鋰連續跌3.89%，低硫燃料油連續漲3.61%，20號膠連續跌3.49%，丙烯連續漲3.48%，液化石油氣連續漲2.68%，燃料油連續漲2.59%，聚丙烯連續漲2.22%，集運指數歐線期貨連續漲2.08%。"
+    },
+    {
+      "id": "te:markets:562030",
+      "time": "2026-06-26 08:59:44",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Silver Set for Sharp Weekly Drop — Silver steadied near $58 an ounce on Friday but remained on track to lose about 12% for the week as hawkish signals from the US Federal Reserve outweighed support from the impact of US-Iran peace efforts. On Thursday, silver found some support after the latest US PCE inflation data came in broadly in line with expectations, easing fears of imminent Fed rate hikes and pushing the dollar and Treasury yields lower. Even so, markets are pricing in an 80% chance of a Fed rate hike in December following last week's hawkish pause, while the probability of a September increase stands at around 63%. Meanwhile, oil prices continued to retreat and have returned to pre-conflict levels as progress in US-Iran peace negotiations eased concerns over Middle East supply disruptions and further reduced inflation worries."
+    },
+    {
+      "id": "4956061",
+      "time": "2026-06-26 08:58:54",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本財務大臣片山皋月：不會限制用於投資的預算申請。在投資時會將財政可持續性銘記於心。不會依靠舉債來為調降食品消費稅提供資金。需要透過評估補貼和支出來為減稅籌集資金。"
+    },
+    {
+      "id": "4956060",
+      "time": "2026-06-26 08:58:41",
+      "tags": [
+        "其他"
+      ],
+      "text": "【北京：兩大新興專業首次評職稱】昨天，北京市人力資源和社會保障局釋出《關於開展2026年度北京市職稱評價工作的通知》，自7月7日起，在全市啟動2026年度職稱申報工作。今年，本市首次開設機器人、低空技術兩大新興專業職稱評審。機器人專業劃分四大評價方向，包含核心零部件、演算法與軟體、整機設計與製造、系統整合與應用，覆蓋研發、硬體、程式開發、專案整合等全領域從業人員。低空技術專業結合城市產業實際，設定低空飛行器研發、低空飛行器製造、低空執行系統建設、低空安全保障四大方向，完整覆蓋低空經濟產業鏈核心環節。"
+    },
+    {
+      "id": "te:markets:562028",
+      "time": "2026-06-26 08:57:42",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Japan",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Japanese Shares Fall as Tech Stocks Weigh — The Nikkei 225 Index fell 2.8% to below 70,400, while the broader Topix Index slipped 0.7% to 3,987 on Friday, giving back the previous session's gains as technology stocks came under renewed selling pressure after Thursday's strong rally. Japanese equities also tracked a volatile session on Wall Street, where losses in megacap technology stocks outweighed optimism driven by a bullish outlook for memory-chip makers. Among the biggest decliners were Kioxia Holdings (-4.1%), SoftBank Group (-10.8%), Advantest (-6.2%), Tokyo Electron (-2.3%), and Taiyo Yuden (-8.3%). On the economic front, data showed Tokyo's core inflation rate accelerated for the first time in eight months, reinforcing expectations that the Bank of Japan will continue raising interest rates."
+    },
+    {
+      "id": "4956059",
+      "time": "2026-06-26 08:57:07",
+      "tags": [
+        "其他"
+      ],
+      "text": "【北京市前五月財政收入3146.3億元 同比增長6%】北京市財政局釋出的北京市2026年1至5月財政收支情況顯示，前五個月，全市一般公共預算收入完成3146.3億元，同比增長6.0%；完成年度預算的45.3%，超時間進度3.6個百分點。從支出重點看，科技和衛生健康支出增速較快。從主要支出領域看，科技支出392.2億元，同比增長24.6%，重點用於支援“三城一區”聯動發展，促進教育科技人才一體發展。教育支出547.7億元，同比增長2.6%。衛生健康支出334.3億元，同比增長10.5%，重點用於支援同仁醫院等新院區建設，推動優質醫療資源擴容，加強基層醫療衛生服務體系建設。"
+    },
     {
       "id": "4956058",
       "time": "2026-06-26 08:54:55",
@@ -154875,49 +155000,6 @@
         "Japan & APAC"
       ],
       "text": "Japan 30-year government bond yield rose 3.5 bps to 3.805%."
-    },
-    {
-      "id": "4944507",
-      "time": "2026-06-19 09:01:24",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "新加坡富時海峽時報指數開盤持平，報5213.90點。馬來西亞吉隆坡綜合指數開盤跌0.4%，報1704.04點。"
-    },
-    {
-      "id": "mkt:019edd65-54da-7dd8-b08b-376f6bef5dde",
-      "time": "2026-06-19 09:01:05",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "CSI300",
-        "Impact bearish",
-        "Hang Seng Index",
-        "SSE Composite"
-      ],
-      "text": "FTSE China A50 index futures opened 0.25% lower in early trade."
-    },
-    {
-      "id": "mkt:019edd64-3667-7dd8-b08b-285a0038cf78",
-      "time": "2026-06-19 08:59:52",
-      "tags": [
-        "MKT News",
-        "USDJPY",
-        "Impact bullish",
-        "DXY"
-      ],
-      "text": "HIMINO, deputy governor at the Bank of Japan, said delaying rate hikes could lead to an economic slowdown."
-    },
-    {
-      "id": "4944506",
-      "time": "2026-06-19 08:57:42",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【在面臨外匯干預風險之際日元走強】在日本相關部門潛在的外匯干預風險下，日元兌其他G10和亞洲貨幣走強。澳洲聯邦銀行的Carol Kong在一份研究報告中表示：“美元兌日元已回到此前曾引發日本財務省干預的水平。“這位經濟學家兼貨幣策略師補充道：“在針對日元的投機性押注不斷增加的背景下，我們預計財務省官員將在未來幾周加大口頭干預力度，隨後可能重新進入外匯市場。“美元下跌0.2%，至161.08日元；週四美元曾觸及161.80日元，為2024年7月以來的盤中最高水平。"
     }
   ]
 }
