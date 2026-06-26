@@ -1,7 +1,103 @@
 {
-  "updated": "2026-06-26 09:55:29",
-  "count": 17037,
+  "updated": "2026-06-26 09:59:26",
+  "count": 17040,
   "items": [
+    {
+      "id": "4956198",
+      "time": "2026-06-26 09:58:36",
+      "tags": [
+        "市場"
+      ],
+      "text": "【港股醫藥股逆勢走強 康諾亞漲超6%】截至發稿，康諾亞-B(02162.HK)漲6.05%，泰格醫藥(03347.HK)漲4.87%，金斯瑞生物科技(01548.HK)漲3.74%。"
+    },
+    {
+      "id": "4956197",
+      "time": "2026-06-26 09:58:11",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【A股三大指數均跌超1%】上證指數跌1.05%，現報4077.101點；深證成指跌1.70%，現報16066.196點；創業板指跌2.00%，現報4284.660點。"
+    },
+    {
+      "id": "4956196",
+      "time": "2026-06-26 09:58:08",
+      "tags": [
+        "公司"
+      ],
+      "text": "瑞穗CEO：希望實現2倍市淨率。"
+    },
+    {
+      "id": "4956195",
+      "time": "2026-06-26 09:57:44",
+      "tags": [
+        "市場"
+      ],
+      "text": "MSCI亞太指數下跌2%至273.28點。"
+    },
+    {
+      "id": "mkt:019f01a5-4a2a-7dd8-b129-d245ba246710",
+      "time": "2026-06-26 09:57:17",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "N Huike jumped over 600%; turnover exceeded CNY 3.6 billion; market capitalization topped CNY 540 billion."
+    },
+    {
+      "id": "4956194",
+      "time": "2026-06-26 09:57:11",
+      "tags": [
+        "其他"
+      ],
+      "text": "N惠科漲超600%，成交額超36億元，總市值超5400億元。"
+    },
+    {
+      "id": "mkt:019f01a4-5c4d-7dd8-b129-c84afaa87acf",
+      "time": "2026-06-26 09:56:16",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "Market Regions",
+        "Emerging Markets",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "【Mitsubishi UFJ: Ringgit upside likely limited despite policy support】Mitsubishi UFJ Financial Group senior FX strategist Lloyd Chan said in a report the Malaysian Ringgit should remain supported near term after Bank Negara encouraged government-linked companies to repatriate offshore earnings and convert them into Ringgit. Chan said upside versus the dollar is likely limited because expectations of higher-for-longer US interest rates continue to underpin the dollar, a shift from 2024 when markets priced Fed cuts, so external headwinds may persist despite domestic policy support."
+    },
+    {
+      "id": "4956193",
+      "time": "2026-06-26 09:56:00",
+      "tags": [
+        "市場"
+      ],
+      "text": "滔搏國際復牌後股價下跌11%，報1.82港元。"
+    },
+    {
+      "id": "mkt:019f01a4-054a-7dd8-b129-c71827acecf8",
+      "time": "2026-06-26 09:55:54",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Taiwan's TAIEX fell more than 2%."
+    },
+    {
+      "id": "4956192",
+      "time": "2026-06-26 09:55:32",
+      "tags": [
+        "公司"
+      ],
+      "text": "【特斯拉中國為員工子女設立“星河獎學金”】特斯拉高階副總裁陶琳微博稱：為特斯拉員工子女設立的“星河獎學金”正式上線。符合條件的員工即可申請，單項獎金最高5000元。"
+    },
+    {
+      "id": "4956191",
+      "time": "2026-06-26 09:55:14",
+      "tags": [
+        "市場"
+      ],
+      "text": "臺灣加權股價指數下跌2%至45,322.04點。"
+    },
     {
       "id": "mkt:019f01a2-da7f-7dd8-b129-be657a703033",
       "time": "2026-06-26 09:54:37",
@@ -155769,82 +155865,6 @@
         "國際"
       ],
       "text": "【中歐班列年開行量十年間增長10.8倍】2016年6月，渝新歐、蓉新歐、義新歐、漢新歐等各地開行的跨境運輸國際班列，正式啟用中歐班列這個統一的品牌。10年來，中歐班列開行規模、通達範圍、服務品質、輻射效應大幅提升，運輸網路基本覆蓋亞歐全境。國鐵集團今天（19日）釋出的資料顯示，中歐班列年開行數量十年間增長了10.8倍。中歐班列年開行量由2016年的1702列增長到2025年的20022列，10年增長了10.8倍，年均增長31.5%，自2020年以來年運量始終保持在萬列以上。最新統計顯示，中國境內已有129個城市開通了中歐班列，通達歐洲26個國家236個城市，較2016年分別增加113、216個城市，服務範圍基本覆蓋亞歐全境。"
-    },
-    {
-      "id": "te:markets:560277",
-      "time": "2026-06-19 09:59:03",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Australia",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "Australia Shares Retreat But Weekly Gain Still in Sight — Australian stocks fell 96 points, or 1.1%, to 8,815 by midday Friday, extending the prior session’s slide and moving further away from a two-month high, as softer commodity prices weighed heavily on miners. Meanwhile, U.S. equity futures were mixed after Wall Street’s S&P 500 and Nasdaq rallied overnight, lifted by tech strength and optimism over a possible U.S.-Iran deal, though hawkish Fed concerns lingered. BHP Group dropped 3.7%, and Rio Tinto lost 3% as iron ore prices weakened, with lower energy and freight costs eroding margins amid sluggish Chinese demand. PLS Group sank 5.3%, Mineral Resources fell 4.3%, and Xero slipped 2.5%. Three of the four big banks eased between 0.6% and 0.8%. Despite the day’s weakness, the market is still tracking a second consecutive weekly gain, up about 0.2% so far, supported by the Reserve Bank’s pause on rate hikes and easing geopolitical headwinds."
-    },
-    {
-      "id": "mkt:019edd9a-37d8-7dd8-b08c-4015e190fef7",
-      "time": "2026-06-19 09:58:51",
-      "tags": [
-        "MKT News",
-        "Macro & Rates"
-      ],
-      "text": "BOJ Deputy Governor HIMINO said the bank will closely monitor the impact of rate hikes on corporate finances and wage-setting behavior."
-    },
-    {
-      "id": "te:markets:560275",
-      "time": "2026-06-19 09:58:13",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "European Gas Head for Sharp Weekly Loss — European natural gas prices rose to around €41.5 per MWh but remained on track for a weekly loss of more than 11% amid easing Middle East supply risks. An interim peace agreement between the US and Iran, signed on Wednesday, has seen shipping through the Strait of Hormuz begin returning to normal, with several vessels reportedly transiting the waterway on Thursday. The reopening of the strait sent European gas prices to a two-month low, erasing most of the war-driven gains. Qatar, the world’s largest LNG exporter, is preparing to rapidly resume production at its Ras Laffan facilities and expects output at sites unaffected by Iranian strikes to return to full capacity within a month. The resumption of LNG exports from the Persian Gulf could support Europe's efforts to replenish relatively low gas storage levels ahead of next winter."
-    },
-    {
-      "id": "4944563",
-      "time": "2026-06-19 09:58:12",
-      "tags": [
-        "其他"
-      ],
-      "text": "冰見野良三：將密切關注加息對企業財務狀況和工資制定行為的影響。"
-    },
-    {
-      "id": "4944562",
-      "time": "2026-06-19 09:56:14",
-      "tags": [
-        "公司"
-      ],
-      "text": "【中國汽研新能源公司獲得IECEE CB測試實驗室（CBTL）資質】近日，中汽院新能源科技有限公司（簡稱“新能源公司”）正式透過國際電工委員會電工產品合格測試與認證組織（IECEE）全面評估，獲得IECEE CB測試實驗室（CBTL）資質，成為國內少數具備該領域國際互認檢測能力的第三方機構之一。該資質已於2026年6月16日起正式生效，標誌著新能源公司在新能源汽車及核心零部件檢測領域的國際化水平邁入新階段。新能源公司是中國汽研的全資子公司。"
-    },
-    {
-      "id": "mkt:019edd97-c6fa-7dd8-b08c-3c28abfbc9ef",
-      "time": "2026-06-19 09:56:12",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "HIMINO: Recent price increases are partly demand-driven; strong corporate profits, steady wage growth and robust AI-related demand are supporting Japan's economy."
-    },
-    {
-      "id": "mkt:019edd97-7e4e-7dd8-b08c-35a49e59bf75",
-      "time": "2026-06-19 09:55:53",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "【Iranians skeptical US will honor memorandum】Early on the 18th Beijing time, US and Iranian officials confirmed their presidents signed a memorandum of understanding. Some Iranians said they doubted the US would comply, citing past breaches and warning the memorandum may not produce lasting calm; others said they had little expectation of implementation and feared the US could launch further attacks."
-    },
-    {
-      "id": "4944561",
-      "time": "2026-06-19 09:55:42",
-      "tags": [
-        "市場"
-      ],
-      "text": "標普500指數期貨下跌0.3%。"
     }
   ]
 }
