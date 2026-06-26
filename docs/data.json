@@ -1,7 +1,582 @@
 {
-  "updated": "2026-06-27 04:13:09",
-  "count": 18125,
+  "updated": "2026-06-27 04:56:40",
+  "count": 18165,
   "items": [
+    {
+      "id": "4958032",
+      "time": "2026-06-27 04:55:59",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "【美軍稱對伊朗發動打擊以回應商船遭襲事件】美國中央司令部26日在社交媒體發文稱，美軍於當天對伊朗發動打擊，以回應前一天一艘途經霍爾木茲海峽的商船遭襲事件。（新華社）"
+    },
+    {
+      "id": "te:markets:562330",
+      "time": "2026-06-27 04:54:54",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Brazil",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Ibovespa Rises as Bank Gains Offset Commodity Losses — The Ibovespa rose 0.8% to close at 173,295 on Friday, recovering from early losses as gains in financial stocks offset declines in heavyweight commodity shares. Bond yields edged lower as oil prices returned to pre-conflict levels amid easing supply concerns, with more tankers leaving the Strait of Hormuz. This came despite President Donald Trump accusing Iran of violating the ceasefire by targeting cargo ships transiting the strait. Earlier, Iran reaffirmed its right to control shipping through the waterway and warned Gulf states against siding with the US, a day after an attack on a vessel near Oman. Major banks led gains, with Banco do Brasil up 1.4%, Bradesco rising 1.7%, Itaú climbing 1.3%, and Santander advancing 0.6%. On the downside, Vale fell 0.6% despite stronger iron ore prices, while Petrobras dropped 1.0% on lower global oil prices. Braskem plunged 8.4% after a downgrade from Citi."
+    },
+    {
+      "id": "mkt:019f05b4-7cf2-7dd8-b13f-bc501ba44c04",
+      "time": "2026-06-27 04:52:22",
+      "tags": [
+        "MKT News",
+        "Important",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "DXY"
+      ],
+      "text": "Fox News reports US strikes against Iranian targets are \"ongoing\"."
+    },
+    {
+      "id": "4958031",
+      "time": "2026-06-27 04:51:48",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "市場訊息：美國對伊朗目標的打擊目前仍在“進行中”。"
+    },
+    {
+      "id": "mkt:019f05b2-c166-7dd8-b13f-b569a8095721",
+      "time": "2026-06-27 04:50:28",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "ORCL.N",
+        "Impact bearish"
+      ],
+      "text": "【Oracle posts biggest weekly drop since August 2001 post‑dotcom trough】Oracle (ORCL.N) fell 19.4% this week, its largest weekly decline since the August 2001 post‑dotcom trough, as investor concerns over AI-related financing intensified. In the latest fiscal year, capital expenditure rose 162%, free cash flow showed roughly a $24.0bn deficit and total debt stood at about $130.0bn."
+    },
+    {
+      "id": "4958030",
+      "time": "2026-06-27 04:50:16",
+      "tags": [
+        "國際"
+      ],
+      "text": "歐盟委員會主席馮德萊恩：藉助烏克蘭支援貸款計劃，未來兩年我們將再追加提供 900 億歐元。今日我們將撥付首批款項，共計 32 億歐元宏觀金融援助資金。未來數日，我們還將啟動撥付 60 億歐元無人機生產專項資金的首筆資金。"
+    },
+    {
+      "id": "4958029",
+      "time": "2026-06-27 04:49:05",
+      "tags": [
+        "國際"
+      ],
+      "text": "歐盟委員會主席馮德萊恩： 投資烏克蘭，就是投資歐洲。你投資的不只是一個規模約 2000 億歐元的經濟體，更是一個未來將融入價值 20 萬億歐元單一市場的候選成員國 —— 這個市場體量是烏克蘭現有經濟規模的百倍之巨。"
+    },
+    {
+      "id": "4958028",
+      "time": "2026-06-27 04:48:53",
+      "tags": [
+        "公司"
+      ],
+      "text": "【甲骨文創2001年網際網路泡沫破滅低谷期以來最大單週跌幅】甲骨文收跌2.58%，報148.53美元，本週累跌19.4%，創2001年8月網際網路泡沫破滅低谷期以來最大單週跌幅，投資者對AI融資的顧慮愈演愈烈。在最新財年，該公司的資本支出激增了162%，自由現金流出現近240億美元的赤字，債務規模高達1300億美元。安森美半導體收跌23.66%，創2020年以來最差單日表現，報90.65美元，本週累跌25.46%，該公司收購Synaptics進軍物理AI、創其歷史上最大併購案，CEO Hassane El-Khoury為核心業務辯解，“這項交易與我們在堅實基礎上取得的所有成果形成了完美互補”。"
+    },
+    {
+      "id": "4958027",
+      "time": "2026-06-27 04:45:17",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "【美國中央司令部：美國對伊朗發動打擊，以回應其襲擊商船的行為】美國中央司令部表示，6月26日，部隊對伊朗實施了打擊，以此作為對前一天一艘途經霍爾木茲海峽的商船遭襲事件的強力回應。此前，伊朗於6月25日使用單向攻擊無人機襲擊了“Ever Lovely”號貨輪。美軍戰機隨後打擊了伊朗的導彈與無人機儲存設施及沿海雷達站。伊朗軍隊針對商船的無端侵犯行徑顯然違反了停火協議。此外，隨著大量貿易往來經由這一至關重要的國際貿易通道進行，伊朗的危險行為也破壞了航行自由。美軍中央司令部部隊將繼續為途經該海峽的商船提供安全通行方面的協調與支援。美軍將保持存在並保持警惕，以確保與伊朗達成的各項協議得到遵守與執行，並持續有效。"
+    },
+    {
+      "id": "mkt:019f05ad-a89b-7dd8-b13f-abf9f8e54eb0",
+      "time": "2026-06-27 04:44:54",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "【CENTCOM says U.S. struck Iranian targets after drone attack on merchant ship】CENTCOM said U.S. forces struck Iranian missile and drone storage sites and coastal radar installations on June 26 in retaliation for a June 25 one-way attack-drone strike on the merchant vessel Ever Lovely transiting the Strait of Hormuz. CENTCOM said the Iranian action violated a ceasefire agreement, threatened freedom of navigation on a key trade route, and that U.S. forces will continue to coordinate and support safe passage for ships through the strait while maintaining a presence to enforce agreements with Iran."
+    },
+    {
+      "id": "4958026",
+      "time": "2026-06-27 04:43:37",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普發文稱： 印度海德拉巴市新落成的唐納德・特朗普大道 —— 我是首位獲此殊榮的美國總統。萬分感謝！"
+    },
+    {
+      "id": "4958025",
+      "time": "2026-06-27 04:42:48",
+      "tags": [
+        "公司"
+      ],
+      "text": "【Meta執行長扎克伯格敦促 Meta 探索與 Polymarket 及 Kalshi 展開合作】三名知情員工透露，Meta執行長馬克・扎克伯格正督促旗下高管，洽談與熱門預測交易平臺 Polymarket、Kalshi 達成合作。目前 Meta 正在開發一款同類應用。Meta 打造的這款應用名為 Arena，使用者幾乎可以對各類事件下注。當下預測交易賽道規模持續擴張，Meta 希望藉此分一杯羹。公司內部高管表示，Arena 和支援現金投注的 Polymarket、Kalshi 存在本質區別：該應用將採用類似網遊積分的虛擬點數，而非真實貨幣。三名不願具名的員工稱（幾人均簽署了保密協議），扎克伯格已將 Arena 列為核心重點專案，其佈局規劃比外界此前瞭解的更為深遠。他已要求公司高管主動對接 Polymarket 與 Kalshi，但雙方具體將以何種形式合作，目前尚無定論。員工補充道，Arena 的目標使用者群體為 18 至 34 歲人群，Meta 計劃讓這款應用月活躍預測使用者規模至少達到 1 億。平臺主打場景是使用者與親友針對體育、文娛、娛樂、政治、財經各類事件進行競猜。內部高管將其定義為一款 “全民適用” 的產品。負責 Arena 專案的 Meta 產品副總裁伊梅・阿奇邦上月在一篇內部公告中介紹該產品，相關內容被媒體獲取，他寫道：“我們認為預測競猜是極具潛力的新型內容賽道。只要搭建好合適的載體，使用者會為了向好友展示自己精準的預判能力展開社交討論，這便是這款產品的核心價值。”"
+    },
+    {
+      "id": "te:markets:562329",
+      "time": "2026-06-27 04:42:03",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Canada",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "TSX Rises on Mining and Tech Gains — The S&P/TSX Composite Index rose 0.4% to close at 34,980 on Friday, supported by gains in the mining and technology sectors. Mining shares rose on higher gold prices, helped by a weaker dollar and easing expectations of further US interest rate hikes following the latest PCE data. Also, Canada and Japan advanced cooperation on mining projects, including potential joint stockpiling. Barrick gained 1.6%, while Franco-Nevada rose 2.3%. In tech, Shopify rose 4.6%, backed by its Spring ’26 product rollout, while Constellation Software added 1.9%. Celestica, however, fell 6.6%, tracking weakness on Wall Street. Banking stocks traded lower amid geopolitical tensions after President Trump accused Iran of violating the ceasefire by targeting cargo ships transiting the Strait of Hormuz. Earlier, Iran reaffirmed its right to control shipping through the waterway and warned Gulf states against siding with the US, a day after an attack on a vessel near Oman."
+    },
+    {
+      "id": "mkt:019f05a9-4546-7dd8-b13f-a0d1737a32a7",
+      "time": "2026-06-27 04:40:07",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Iranian media, citing military sources, said it fired warning shots at a 'violating vessel' in the Strait of Hormuz several hours ago."
+    },
+    {
+      "id": "mkt:019f05a8-f4b6-7dd8-b13f-9d9b00a901e8",
+      "time": "2026-06-27 04:39:46",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "IMF chief economist GOURINCHAS said Iran-related conflict has not led to a further surge in oil prices because countries released strategic reserves and refiners adjusted production."
+    },
+    {
+      "id": "4958024",
+      "time": "2026-06-27 04:39:40",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "伊朗媒體援引軍方訊息人士的話稱，數小時前伊朗已對霍爾木茲海峽的“違規船隻”鳴槍警告。"
+    },
+    {
+      "id": "mkt:019f05a8-ce62-7dd8-b13f-973fe3bd6bcb",
+      "time": "2026-06-27 04:39:36",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish",
+        "XAUUSD",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "IMF chief economist Gourinchas said if a ceasefire cannot be maintained, the global economy clearly faces downside risk."
+    },
+    {
+      "id": "mkt:019f05a8-9fca-7dd8-b13f-88b5f8fa8672",
+      "time": "2026-06-27 04:39:24",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "IMF chief economist GOURINCHAS said economic sanctions often have short-term effects but \"almost never work\" over the medium to long term."
+    },
+    {
+      "id": "4958023",
+      "time": "2026-06-27 04:39:15",
+      "tags": [
+        "國際"
+      ],
+      "text": "國際貨幣基金組織(IMF)：由於各國釋放戰略儲備、煉油廠調整生產，伊朗戰事未進一步推高油價。"
+    },
+    {
+      "id": "mkt:019f05a8-6d2c-7dd8-b13f-86da7b307b77",
+      "time": "2026-06-27 04:39:11",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bearish",
+        "EURUSD",
+        "Impact bullish",
+        "Copper"
+      ],
+      "text": "IMF chief economist Gourinchas said new trade relationships excluding the US have emerged following US tariff measures."
+    },
+    {
+      "id": "4958022",
+      "time": "2026-06-27 04:39:08",
+      "tags": [
+        "國際"
+      ],
+      "text": "國際貨幣基金組織(IMF)：隨著美國加徵關稅，不涉及美國的新貿易關係正在形成。"
+    },
+    {
+      "id": "4958021",
+      "time": "2026-06-27 04:39:00",
+      "tags": [
+        "其他"
+      ],
+      "text": "國際貨幣基金組織（IMF）：若停火無法維持，全球經濟顯然將面臨下行風險。"
+    },
+    {
+      "id": "4958020",
+      "time": "2026-06-27 04:38:51",
+      "tags": [
+        "其他"
+      ],
+      "text": "國際貨幣基金組織首席經濟學家表示：經濟制裁往往僅能產生短期影響，“中長期幾乎從未奏效”。"
+    },
+    {
+      "id": "4958019",
+      "time": "2026-06-27 04:38:42",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國原油價格結算後跌幅收窄，交投於每桶70美元附近。"
+    },
+    {
+      "id": "mkt:019f05a7-eee5-7dd8-b13f-7cb7a795b92d",
+      "time": "2026-06-27 04:38:39",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "U.S. MILITARY said U.S. forces will remain deployed and vigilant to ensure the Iran agreement's terms are complied with and effectively implemented."
+    },
+    {
+      "id": "mkt:019f05a7-a822-7dd8-b13f-768e04877e4d",
+      "time": "2026-06-27 04:38:21",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "U.S. military said forces continue to provide coordination and support for the safe passage of commercial vessels through the strait."
+    },
+    {
+      "id": "4958018",
+      "time": "2026-06-27 04:38:20",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國中央司令部：週四對伊朗襲擊事件的回應是發動空襲。"
+    },
+    {
+      "id": "4958017",
+      "time": "2026-06-27 04:38:07",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國軍方：美軍將繼續保持部署、保持警惕，以確保伊朗協議的所有條款都得到遵守、得到執行，並全面生效。"
+    },
+    {
+      "id": "4958016",
+      "time": "2026-06-27 04:38:04",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國中央司令部：伊朗無端侵略違反了停火協議。"
+    },
+    {
+      "id": "mkt:019f05a7-5dbd-7dd8-b13f-6fd2b82819d0",
+      "time": "2026-06-27 04:38:02",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Iranian media reported a missile struck a dock area in Sirik in southern Iran."
+    },
+    {
+      "id": "4958015",
+      "time": "2026-06-27 04:37:47",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國軍方：美軍部隊持續為通行該海峽的商船提供安全通行協調與支援。"
+    },
+    {
+      "id": "4958014",
+      "time": "2026-06-27 04:37:14",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國軍方：美軍已開展打擊行動，以應對昨日一艘途經霍爾木茲海峽的商船遇襲事件。"
+    },
+    {
+      "id": "mkt:019f05a6-9165-7dd8-b13f-60e264a2521a",
+      "time": "2026-06-27 04:37:09",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "U.S. military said it struck Iran in response to Iranian attacks on commercial vessels."
+    },
+    {
+      "id": "4958013",
+      "time": "2026-06-27 04:37:08",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國軍方：美國戰機襲擊了伊朗導彈和無人機儲存地點。"
+    },
+    {
+      "id": "4958012",
+      "time": "2026-06-27 04:37:02",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國軍方：今天對伊朗發動了空襲。"
+    },
+    {
+      "id": "mkt:019f05a6-3924-7dd8-b13f-59be1c7be2a0",
+      "time": "2026-06-27 04:36:47",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Meta Platforms",
+        "Market Themes",
+        "Magnificent 7",
+        "META.O"
+      ],
+      "text": "Market sources said Zuckerberg urged Meta Platforms (META.O) to consider cooperating with PolyMarket."
+    },
+    {
+      "id": "4958011",
+      "time": "2026-06-27 04:35:38",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：扎克伯格敦促Meta 考慮與 PolyMarket 開展合作。"
+    },
+    {
+      "id": "te:markets:562328",
+      "time": "2026-06-27 04:35:17",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The Dow Jones Index Closes 0.09% Lower — The Dow Jones Index dropped 45 points or 0.09 percent on Friday to close at 51876 points. Losses were led by Caterpillar (-5.67%), Cisco Systems (-4.56%) and Goldman Sachs (-4.07%). Offsetting the fall, top gainers were Microsoft (5.71%), Salesforce (5.45%) and IBM (5.08%)."
+    },
+    {
+      "id": "4958010",
+      "time": "2026-06-27 04:35:02",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "美國高階官員：美國軍隊襲擊了霍爾木茲海峽地區的伊朗目標。"
+    },
+    {
+      "id": "mkt:019f05a2-3eb8-7dd8-b13f-5776d9b1b3a6",
+      "time": "2026-06-27 04:32:26",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "DXY"
+      ],
+      "text": "Senior U.S. official says U.S. military struck Iranian targets in the Strait of Hormuz."
+    },
+    {
+      "id": "4958009",
+      "time": "2026-06-27 04:31:23",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "市場訊息：美國軍方在霍爾木茲地區發動空襲。"
+    },
+    {
+      "id": "te:markets:562326",
+      "time": "2026-06-27 04:29:29",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 2"
+      ],
+      "text": "Crude Falls on Surging Hormuz Shipments — Crude oil fell nearly 4% toward $69 a barrel on Friday, the lowest since February 27, as shipping transits through the Strait of Hormuz accelerated. Volumes surged as vessels openly navigated the waterway following progress toward a US-Iran peace deal, restoring Persian Gulf exports to roughly 75% of prewar levels. Crucially, Saudi Arabia began loading tankers at its Ras Tanura terminal, signaling a major regional output ramp-up. Middle Eastern producers, including the United Arab Emirates, Kuwait, and Qatar, are boosting supply despite difficulties securing enough tankers to transport the additional crude. Iraq is also seeking a higher OPEC production quota to recoup the oil sales it lost during the war. Meanwhile, US President Donald Trump accused Iran of violating a ceasefire by shooting drones at ships in Hormuz. Crude oil recorded an over 10% weekly drop, the largest in a month."
+    },
+    {
+      "id": "4958008",
+      "time": "2026-06-27 04:28:42",
+      "tags": [
+        "國際"
+      ],
+      "text": "【黎巴嫩總統：達成框架協議是恢復黎主權的第一步】當地時間26日，黎巴嫩、以色列和美國在華盛頓宣佈達成三方框架協議。黎巴嫩總統約瑟夫·奧恩表示，框架協議將使得黎巴嫩人民能夠重返家園。奧恩稱，感謝駐華盛頓的黎巴嫩談判團隊，最終促成了黎巴嫩實現恢復其全部領土主權道路上的第一步。（央視新聞）"
+    },
+    {
+      "id": "te:markets:562325",
+      "time": "2026-06-27 04:28:38",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Brent Falls as Hormuz Flows Recover Sharply — Brent crude oil fell to around $72 a barrel on Friday, the lowest since February 27, as shipping transits through the Strait of Hormuz accelerated. Volumes surged as vessels openly navigated the waterway following progress toward a US-Iran peace deal, restoring Persian Gulf exports to roughly 75% of prewar levels. Crucially, Saudi Arabia began loading tankers at its Ras Tanura terminal, signaling a major regional output ramp-up. Middle Eastern producers, including the United Arab Emirates, Kuwait, and Qatar, are boosting supply despite difficulties securing enough tankers to transport the additional crude. Iraq is also seeking a higher OPEC production quota to recoup the oil sales it lost during the war. Meanwhile, US President Donald Trump accused Iran of violating a ceasefire by shooting drones at ships in Hormuz. Brent recorded an over 10% weekly drop, the largest in a month."
+    },
+    {
+      "id": "4958007",
+      "time": "2026-06-27 04:28:08",
+      "tags": [
+        "其他"
+      ],
+      "text": "雪佛龍：雪佛龍所有員工都已確認安全，其在委內瑞拉的設施安保到位且仍可正常運營。"
+    },
+    {
+      "id": "4958006",
+      "time": "2026-06-27 04:22:27",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "美國國務院：真主黨為販毒網路提供支援，這些網路加劇了西半球及美國境內的暴力衝突。"
+    },
+    {
+      "id": "4958005",
+      "time": "2026-06-27 04:17:46",
+      "tags": [
+        "其他"
+      ],
+      "text": "【國際社會迅速響應委內瑞拉地震救援行動】聯合國人道主義事務協調廳26日在日內瓦舉行的新聞例會上表示，國際社會正以前所未有的規模迅速動員，來自多個國家的25支搜救和醫療隊共計1000餘名人員正部署到委內瑞拉。人道主義事務協調廳發言人延斯·萊克對記者說，聯合國災害評估小組以及一支由四名成員組成的行動支援小組也已動員到位，同時人道協調廳多名工作人員也正在被派往委內瑞拉。聯合國中央應急基金已撥款1500萬美元。除人道協調廳之外，聯合國難民署、紅十字會與紅新月會國際聯合會、泛美衛生組織、國際移民組織以及聯合國人權事務高階專員辦事處等機構出席當天新聞例會，對委內瑞拉地震災害表示關注和響應。聯合國難民署發言人馬修·索爾特馬什表示，難民署正緊急調動人員和資源，應對委內瑞拉毀滅性地震的影響。難民署已準備好與聯合國合作伙伴共同支援救援工作。索爾特馬什提醒說，拉丁美洲和加勒比地區收容了690萬委內瑞拉難民和移民，其中400萬人需要援助。他強調，在委內瑞拉境內開展搜救工作仍然是當務之急。紅十字會與紅新月會國際聯合會表示，震後幾小時內，該機構撥款200萬瑞士法郎（約合247萬美元），並於26日發起一項5000萬瑞士法郎（約合6177萬美元）的緊急募捐呼籲。26日上午，首批17噸援助物資已從該機構位於巴拿馬的人道主義援助中心發出。泛美衛生組織緊急衛生事件部主任西羅·烏加特說，泛美衛生組織、世界衛生組織正與委內瑞拉多個部門合作，全力搜救受災人員、緊急救治傷者。泛美衛生組織區域應急小組已做好準備，專家隨時待命馳援。國際移民組織發言人佐伊·布倫南表示，此次災害恐波及667萬人，僅委首都加拉加斯受影響人口就有200萬。該組織正協同委內瑞拉政府評估損失，並與聯合國和其他人道主義機構合作，向受災社群提供援助，目前已在加拉加斯預先部署基本救援物資。委內瑞拉24日發生強震，26日委全國代表大會主席豪爾赫·羅德里格斯表示，遇難人數已升至920人。（新華社）"
+    },
+    {
+      "id": "4958004",
+      "time": "2026-06-27 04:17:43",
+      "tags": [
+        "其他"
+      ],
+      "text": "SpaceX簽署登記權協議。"
+    },
+    {
+      "id": "mkt:019f0594-8570-7dd8-b13f-4816384c0730",
+      "time": "2026-06-27 04:17:27",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "SEC filing shows SpaceX (SPCX.O) issued $25 bln of senior notes across five tranches: $7 bln due 2031, 5.35% coupon; $6 bln due 2033, 5.65%; $6 bln due 2036, 5.88%; $2.5 bln due 2046, 6.60%; $3.5 bln due 2056, 6.65%."
+    },
+    {
+      "id": "4958003",
+      "time": "2026-06-27 04:16:53",
+      "tags": [
+        "其他"
+      ],
+      "text": "SpaceX：發行了25億美元2046年到期、票面利率6.6%的優先票據。"
+    },
+    {
+      "id": "4958002",
+      "time": "2026-06-27 04:16:36",
+      "tags": [
+        "其他"
+      ],
+      "text": "SpaceX：發行60億美元2036年到期、票面利率5.88%的優先票據。"
+    },
+    {
+      "id": "4958001",
+      "time": "2026-06-27 04:16:20",
+      "tags": [
+        "其他"
+      ],
+      "text": "SpaceX：發行60億美元2033年到期票面利率5.65%優先票據。"
+    },
+    {
+      "id": "4958000",
+      "time": "2026-06-27 04:15:59",
+      "tags": [
+        "其他"
+      ],
+      "text": "SpaceX：發行 70 億美元、票面利率 5.35%、2031 年到期高階票據。"
+    },
+    {
+      "id": "mkt:019f0592-e7d5-7dd8-b13f-463d1e8c2248",
+      "time": "2026-06-27 04:15:41",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy",
+        "S&P500",
+        "Impact bullish",
+        "US10Y"
+      ],
+      "text": "S&P said broad revenue resilience, including robust tariff receipts, should help mitigate the risk of deterioration in the U.S. fiscal position."
+    },
+    {
+      "id": "4957999",
+      "time": "2026-06-27 04:15:22",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國銀行存款從前一週的19.357萬億美元降至19.323萬億美元。"
+    },
+    {
+      "id": "mkt:019f0592-8445-7dd8-b13f-3e687fb5d1bc",
+      "time": "2026-06-27 04:15:15",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy"
+      ],
+      "text": "S&P says US economic resilience should support robust fiscal revenues, including ongoing tariff receipts, and keep fiscal deficits broadly stable over the next several years."
+    },
+    {
+      "id": "4957998",
+      "time": "2026-06-27 04:15:13",
+      "tags": [
+        "國際"
+      ],
+      "text": "標普：基於標普對美國持續穩健增長以及可靠、有效的貨幣政策執行的預期，美國前景仍保持穩定。"
+    },
+    {
+      "id": "mkt:019f0592-3475-7dd8-b13f-345e282d81d5",
+      "time": "2026-06-27 04:14:55",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy"
+      ],
+      "text": "S&P says U.S. outlook is stable, citing expectations of continued robust U.S. growth and monetary policy that is credible and effective."
+    },
+    {
+      "id": "mkt:019f0592-027b-7dd8-b13f-2d05244ee02c",
+      "time": "2026-06-27 04:14:42",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "S&P: While Fannie Mae and Freddie Mac could potentially pursue IPOs, do not expect the U.S. government to relinquish control over their management."
+    },
+    {
+      "id": "4957997",
+      "time": "2026-06-27 04:14:29",
+      "tags": [
+        "國際"
+      ],
+      "text": "標普：儘管房利美與房地美存在首次公開募股的可能性，但不要指望美國政府會放棄對這兩家機構的管控權。"
+    },
     {
       "id": "mkt:019f058f-8d4b-7dd8-b13f-23ed61bb831f",
       "time": "2026-06-27 04:12:01",
@@ -165606,187 +166181,6 @@
         "國際"
       ],
       "text": "【美國2比0戰勝澳大利亞】北京時間6月20日，2026年美加墨世界盃進行D組第2輪角逐，美國隊對陣澳大利亞隊。最終，美國隊2比0戰勝澳大利亞隊。"
-    },
-    {
-      "id": "te:economy:560550",
-      "time": "2026-06-20 04:50:22",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Argentina",
-        "Retail Sales YoY",
-        "Importance 1"
-      ],
-      "text": "Argentina Retail Sales Rise In April — Argentina’s retail sales rose 12.6% year-on-year in April 2026 to ARS 560.96 billion. By category, sportswear and accessories posted the strongest gain, rising 25.5%. Food courts, food products, and kiosks increased 22.3%, while stationery and bookstores rose 27.9%. Entertainment and leisure advanced 26.5%, and perfumes and pharmacies recorded one of the strongest gains at 31.9%. Clothing, footwear, and leather goods rose a more modest 5.3%. In contrast, electronics, appliances, and computing sales fell 10.9%. By region, sales in Buenos Aires rose 20.9%, while the 24 districts of Greater Buenos Aires posted a 6.5% increase. The Pampas region recorded a 12.7% gain, while the Cuyo region rose 17.6%. Meanwhile, the Northern and Patagonia regions posted increases of 3.3% and 10.3%, respectively."
-    },
-    {
-      "id": "te:markets:560549",
-      "time": "2026-06-20 04:46:45",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "commodity",
-        "Importance 0"
-      ],
-      "text": "Gold is down by 2.12% — Gold decreased 2.12% to 4120.85 USD/t.oz"
-    },
-    {
-      "id": "4945461",
-      "time": "2026-06-20 04:43:48",
-      "tags": [
-        "國際"
-      ],
-      "text": "波蘭總理圖斯克：澤連斯基總統與納羅茨基總統的任務是平復情緒，而非加劇緊張局勢。"
-    },
-    {
-      "id": "4945460",
-      "time": "2026-06-20 04:41:29",
-      "tags": [
-        "公司",
-        "資料"
-      ],
-      "text": "【諾貝爾獲獎者江珀宣佈離開DeepMind加入Anthropic】資深研究科學家約翰・江珀（John Jumper）於週五宣佈，他將離開谷歌DeepMind，加入人工智慧初創企業Anthropic，這是這家科技巨頭人工智慧研發部門最新一起備受關注的核心人才離職事件。 江珀曾與谷歌的德米斯・哈薩比斯（Demis Hassabis）共同斬獲2024年諾貝爾獎，他最為人熟知的身份是AlphaFold的聯合開發者。這款取得突破性成果的人工智慧模型已完成超2億種蛋白質結構預測，大幅縮短生物與醫學研究所需週期。 江珀在社交平臺X發文稱：“歷經近九年工作，我決定離開谷歌DeepMind，加盟Anthropic。” Meta、谷歌母公司Alphabet等科技巨頭，以及Anthropic、OpenAI這類人工智慧新銳企業正陷入激烈的人才爭奪戰。各方爭相招攬頂尖研究人員，全力研發新一代人工智慧系統。"
-    },
-    {
-      "id": "te:markets:560548",
-      "time": "2026-06-20 04:41:03",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Brazil",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "Ibovespa Closes Near Flat as US-Iran Talks Stall — The Ibovespa was virtually unchanged at 168,334 on Friday in a session marked by lighter global liquidity, as investors monitored developments in the Middle East. Peace talks between the US and Iran were postponed. The discussions, scheduled to take place in Switzerland and aimed at addressing Iran’s nuclear program following a recently signed memorandum of understanding, were delayed, adding fresh uncertainty over the timeline of negotiations seen as key to reopening the Strait of Hormuz and normalizing oil flows. Oil prices rebounded modestly, reviving concerns over energy-driven inflation. Bond yields moved higher in response, renewing concerns over borrowing costs. Heavyweight banks traded lower, with Itaú down 1.5% and Bradesco falling 0.7%. Meanwhile, utilities advanced, with Axia up 0.6%. Vale also gained 1% as iron ore prices held firm."
-    },
-    {
-      "id": "4945459",
-      "time": "2026-06-20 04:39:27",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "【美國務卿與黎總統通話 討論黎以談判安排】當地時間6月19日，美國國務院發表宣告稱，美國國務卿魯比奧當天與黎巴嫩總統約瑟夫·奧恩通話，重申了美國對黎巴嫩政府的支援，並強調必須解除黎巴嫩真主黨武裝。宣告稱，雙方還討論了下一輪黎以談判安排，相關談判將於6月23日至25日在華盛頓舉行。（央視新聞）"
-    },
-    {
-      "id": "4945458",
-      "time": "2026-06-20 04:37:25",
-      "tags": [
-        "其他"
-      ],
-      "text": "【英國兩列火車相撞一死多傷】據英國警方證實，當地事件6月19日下午發生在英格蘭地區貝德福德附近的客運列車相撞事故，已造成一人死亡、多人受傷。警方目前已宣佈啟動重大事件應急機制，正協同消防救援及救護部門，持續在現場開展處置工作，並加緊調查事故的確切原因。（CCTV國際時訊）"
-    },
-    {
-      "id": "4945457",
-      "time": "2026-06-20 04:34:50",
-      "tags": [
-        "其他"
-      ],
-      "text": "英國運輸警方就英國火車相撞事故發聲：十分遺憾，已有一人身亡。"
-    },
-    {
-      "id": "4945456",
-      "time": "2026-06-20 04:31:42",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國國務卿魯比奧計劃訪問科威特、阿聯酋和巴林。"
-    },
-    {
-      "id": "4945455",
-      "time": "2026-06-20 04:31:27",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國國務卿魯比奧計劃下週訪問中東。"
-    },
-    {
-      "id": "4945454",
-      "time": "2026-06-20 04:31:13",
-      "tags": [
-        "國際"
-      ],
-      "text": "【伊朗副外長：美國必須確保以色列遵守諒解備忘錄】當地時間19日，伊朗外交部副部長賽義德·哈提卜扎德在接受採訪時表示，美國必須確保以色列遵守美伊之間達成的諒解備忘錄條款。哈提卜扎德說，伊朗已準備繼續推進外交程序，“如果對方展現出同樣的認真態度，我們也準備一步一步向前推進。”哈提卜扎德表示，伊朗尋求各個戰線的和平，包括加沙在內。由於黎巴嫩與衝突存在直接關聯，因此被納入該諒解備忘錄之中。“只有當以色列結束佔領，並遵守國際法，黎巴嫩及整個地區才會有和平與穩定。”關於霍爾木茲海峽問題，哈提卜扎德表示，伊朗將繼續在與阿曼協調並在國際法規則下提供航行服務。在諒解備忘錄所規定的60天期限內，伊朗不會收取通行費用，但之後將引入新的航道管理機制，並提交給地區國家。哈提卜扎德還表示，未來要達成的任何協議都必須包括解凍所有伊朗被凍結資金。（央視新聞）"
-    },
-    {
-      "id": "4945453",
-      "time": "2026-06-20 04:30:51",
-      "tags": [
-        "市場"
-      ],
-      "text": "週五（6月19日）紐約尾盤，美元兌日元跌0.05%，報161.30日元，本週累計上漲0.66%，整體持續走高，交投於159.74-161.81日元。歐元兌日元漲0.06%，報185.05日元，本週累跌0.16%；英鎊兌日元漲0.15%，報213.395日元，本週累跌0.66%。"
-    },
-    {
-      "id": "4945452",
-      "time": "2026-06-20 04:29:23",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普談及烏克蘭問題：拜登給烏克蘭輸送了大量援助。這筆開銷本應由烏克蘭承擔，但他們壓根沒打算出錢。"
-    },
-    {
-      "id": "te:markets:560547",
-      "time": "2026-06-20 04:26:56",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Canada",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "TSX Slips on US-Iran Uncertainty — The S&P/TSX Composite Index fell 0.3% to close at 34,857 on Friday as investors reacted to the suspension of US-Iran talks. The discussions, aimed at addressing Iran’s nuclear program following a recently signed memorandum of understanding, were delayed, while the Federal Reserve’s surprise hawkish shift earlier in the week continued to weigh on sentiment. Financial stocks traded mixed, with RBC down 0.4% and TD Bank up 0.4%. Brookfield edged higher amid reports it is the frontrunner to acquire a controlling stake in XpFibre. Mining stocks moved lower as gold prices extended losses, with WPM down 4.8%, Agnico Eagle losing 2%, and Barrick falling 1.6%. Energy stocks were mixed amid uncertainty over US-Iran diplomacy, with Canadian Natural rising 1.2%, while Imperial Oil shed 0.6%."
-    },
-    {
-      "id": "4945451",
-      "time": "2026-06-20 04:25:44",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "L3Harris公司向美國空軍交付VC-25B飛機。"
-    },
-    {
-      "id": "4945450",
-      "time": "2026-06-20 04:25:10",
-      "tags": [
-        "其他"
-      ],
-      "text": "【迦納東部槍擊事件致3死9傷】據迦納當地媒體報道，迦納東部奧蒂省一社群18日晚發生槍擊事件，造成3人死亡、9人受傷。 (新華社)"
-    },
-    {
-      "id": "4945449",
-      "time": "2026-06-20 04:23:51",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：我要感謝卡達埃米爾、沙特王儲以及阿聯酋的穆罕默德。"
-    },
-    {
-      "id": "4945448",
-      "time": "2026-06-20 04:20:38",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "“美聯儲傳聲筒”Nick Timiraos：美聯儲負責監管的副主席米歇爾・鮑曼於當地時間週三晚間出席了美國銀行在紐約為客戶舉辦的僅限受邀人士參加的私人晚宴，這場活動舉辦的數小時前，美聯儲剛公佈了最新貨幣政策決議。 她表示，自己並未就貨幣政策發表任何評論，且嚴格遵守聯邦公開市場委員會的各項規定以及所有職業道德準則。"
-    },
-    {
-      "id": "4945447",
-      "time": "2026-06-20 04:16:25",
-      "tags": [
-        "市場",
-        "央行",
-        "國際"
-      ],
-      "text": "【美元指數本週漲約1%】週五（6月19日）紐約尾盤，ICE美元指數跌0.11%，報100.736點，本週累計上漲0.99%，北京時間6月18日02:00美聯儲釋出決議宣告和經濟預期概要（SEP）之前持續交投於99.500點附近，之後主要持續交投於100.5000點上方，6月19日13:00曾達到101.127點。日內交投區間為點。彭博美元指數跌0.06%，報1216.63點，本週累漲0.78%，交投區間為1202.91-1220.31點。"
-    },
-    {
-      "id": "4945446",
-      "time": "2026-06-20 04:15:10",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國銀行存款從前一週的19.295萬億美元增至19.354萬億美元。"
     }
   ]
 }
