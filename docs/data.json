@@ -1,7 +1,115 @@
 {
-  "updated": "2026-06-26 10:31:04",
+  "updated": "2026-06-26 10:35:02",
   "count": 17112,
   "items": [
+    {
+      "id": "mkt:019f01c6-f642-7dd8-b12b-0a897b87dee5",
+      "time": "2026-06-26 10:34:04",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "02382.HK",
+        "Impact bearish",
+        "00992.HK",
+        "00981.HK"
+      ],
+      "text": "Hang Seng Index (HSI) fell more than 2%. Among constituents, Sunny Optical Technology (02382.HK) dropped over 12%, Lenovo Group (00992.HK) fell over 7%, and SMIC (00981.HK) declined nearly 6%."
+    },
+    {
+      "id": "mkt:019f01c6-d424-7dd8-b12b-00c2d614dbf8",
+      "time": "2026-06-26 10:33:55",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bearish",
+        "SSE Composite",
+        "Hang Seng Index"
+      ],
+      "text": "China CSI 500 index futures (main IC contract) fell more than 2.00% intraday to 8,514.4 points."
+    },
+    {
+      "id": "mkt:019f01c6-aff0-7dd8-b12a-febd34d4148a",
+      "time": "2026-06-26 10:33:46",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【NEA says coal power will continue to support rapid renewables growth in 15th Five-Year Plan】NEA deputy director Wan Jinsong told a State Council briefing that China will continue to rely on coal power during the 15th Five-Year Plan to support rapid renewables build-out and meet energy demand. He said China’s thermal power installed share is about 40% (below the global average); China accounted for more than half of global new wind and solar capacity in recent years; and since the 14th Five-Year Plan coal-fired capacity share has fallen from 49% to 32% and coal generation share from 61% to 51%."
+    },
+    {
+      "id": "4956284",
+      "time": "2026-06-26 10:33:38",
+      "tags": [
+        "市場"
+      ],
+      "text": "【光纖概念股震盪走低，特發資訊、烽火通訊雙雙跌停】光纖概念股震盪走低，特發資訊、烽火通訊雙雙跌停，中天科技、亨通光電、長江通訊、長飛光纖跟跌。"
+    },
+    {
+      "id": "4956283",
+      "time": "2026-06-26 10:33:02",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【國家能源局：為支撐新能源快速發展和保障用能需要，“十五五”時期將繼續發揮煤電作用】6月26日，國務院新聞辦公室舉行“開局起步‘十五五’”系列主題新聞釋出會，介紹“十五五”時期加快新型能源體系建設有關規劃情況。國家能源局新聞發言人、副局長萬勁松表示，從全球看，化石能源仍然是各國保障電力系統安全穩定的基石。目前中國火電的裝機比重佔比約40%，低於全世界平均水平。近年來，中國新能源發展成就舉世矚目，貢獻了全球新增風電光伏裝機的一半以上。如此快速發展的背後，離不開火電提供的靈活調節能力。中國統籌傳統能源轉型與新能源快速發展，走出了一條清潔低碳、安全高效的高質量發展之路。“十四五”以來，我國煤電裝機佔比由49%降到了32%，發電量佔比由61%降到51%。“十五五”時期為支撐新能源快速發展和保障用能需要，還要繼續發揮煤電的作用。"
+    },
+    {
+      "id": "4956282",
+      "time": "2026-06-26 10:32:40",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "恒生指數跌超2%，現報22615.330點；恒生科技指數現跌3.435%。"
+    },
+    {
+      "id": "4956281",
+      "time": "2026-06-26 10:32:38",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期銀失守57美元/盎司，日內跌3.06%。"
+    },
+    {
+      "id": "4956280",
+      "time": "2026-06-26 10:31:58",
+      "tags": [
+        "市場"
+      ],
+      "text": "日經225指數早盤收盤跌3.8%，東證指數跌1.3%。"
+    },
+    {
+      "id": "4956279",
+      "time": "2026-06-26 10:31:20",
+      "tags": [
+        "其他"
+      ],
+      "text": "商務部發布關於2026年燃料油非國營貿易進口申請企業有關情況的公示。"
+    },
+    {
+      "id": "4956278",
+      "time": "2026-06-26 10:31:04",
+      "tags": [
+        "公司"
+      ],
+      "text": "【博納影業等在上海成立數字科技公司，註冊資本2000萬】天眼查App顯示，近日，博納錦威（上海）數字科技有限公司成立，法定代表人為姜寨瑾，註冊資本2000萬人民幣，經營範圍包括數字文化創意內容應用服務，技術服務、技術開發、技術諮詢、技術交流、技術轉讓、技術推廣，組織文化藝術交流活動等。股東資訊顯示，該公司由博納影業旗下上海博納文化傳媒有限公司、上海錦威房產開發經營集團有限公司、上海伊墨電子商務有限公司共同持股。"
+    },
+    {
+      "id": "4956277",
+      "time": "2026-06-26 10:30:51",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "碳酸鋰連續主力合約日內跌6%，現報145900.00元。"
+    },
     {
       "id": "4956276",
       "time": "2026-06-26 10:30:08",
@@ -156449,105 +156557,6 @@
         "Importance 1"
       ],
       "text": "Corn Retreats From 2-Week High — Corn futures fell below $4.2 per bushel, pulling back from a two-week high as a stronger US dollar and weaker oil prices weighed on the recent rebound in grain markets. The dollar index climbed to a one-year high after the latest Federal Reserve policy meeting reinforced expectations of US interest rate hikes this year, making US commodities more expensive for foreign buyers. Crude oil prices also dropped to its lowest level since the start of the Iran conflict after an interim deal raised expectations of improved global supply flows and the reopening of the Strait of Hormuz. Agricultural goods often track oil prices due to their link to biofuel demand from grains and oilseeds. Attention now turns on upcoming USDA crop condition reports next week for signs of stress in the US Midwest corn belt. Recent heavy rainfalls have disrupted fieldwork, preventing timely fertilizer and crop treatments, raising concerns over potential yield impacts if wet conditions persist."
-    },
-    {
-      "id": "4944600",
-      "time": "2026-06-19 10:34:13",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "冰見野良三：在引導貨幣政策時，央行也必須關注銀行放貸態度等金融狀況。"
-    },
-    {
-      "id": "mkt:019eddba-93ea-7dd8-b08c-b83819891577",
-      "time": "2026-06-19 10:34:12",
-      "tags": [
-        "MKT News",
-        "Macro & Rates"
-      ],
-      "text": "Bank of Japan Deputy Governor HIMINO said the BOJ must monitor financial conditions, including banks' lending stance, when guiding monetary policy."
-    },
-    {
-      "id": "mkt:019eddba-83df-7dd8-b08c-b1f3910f9b60",
-      "time": "2026-06-19 10:34:08",
-      "tags": [
-        "MKT News",
-        "USDJPY",
-        "Impact mixed",
-        "Nikkei 225",
-        "DXY"
-      ],
-      "text": "Bank of Japan Deputy Governor Himino said the central bank's estimate of the neutral rate has a wide range, and that relying solely on the gap between the policy rate and that estimate is insufficient for setting monetary policy."
-    },
-    {
-      "id": "4944599",
-      "time": "2026-06-19 10:34:04",
-      "tags": [
-        "其他"
-      ],
-      "text": "冰見野良三：將根據經濟、物價和金融狀況全面做出政策決定。"
-    },
-    {
-      "id": "4944598",
-      "time": "2026-06-19 10:33:31",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "冰見野良三：日本央行對中性利率的估算區間較寬，僅憑衡量央行政策利率與估算中性利率之間的差距來制定貨幣政策存在難度。"
-    },
-    {
-      "id": "mkt:019eddb9-b89b-7dd8-b08c-acfcad221a62",
-      "time": "2026-06-19 10:33:16",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "DXY",
-        "WTI"
-      ],
-      "text": "Hezbollah said it set a large ambush and used guided missiles to destroy three Israeli Merkava tanks in strategic Tebnit, claiming to have killed dozens of enemy troops."
-    },
-    {
-      "id": "4944597",
-      "time": "2026-06-19 10:32:58",
-      "tags": [
-        "國際"
-      ],
-      "text": "【日本一小學發生火災】據日本媒體報道，今天（6月19日）上午，位於日本東京北區的一所小學發生火災。目前火勢仍在蔓延。#日本一小學起火數百學生避難#消防部門已出動50多輛消防車。據瞭解，約300名學生疏散至學校操場避難。不過有訊息稱“可能有多人未能及時逃離火場”。東京消防廳和警視廳正在加緊確認相關情況。（CCTV國際時訊）"
-    },
-    {
-      "id": "mkt:019eddb9-2a0a-7dd8-b08c-a1f734bd7668",
-      "time": "2026-06-19 10:32:40",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Hezbollah said Israeli forces suffered a major setback in southern Lebanon."
-    },
-    {
-      "id": "4944596",
-      "time": "2026-06-19 10:32:33",
-      "tags": [
-        "其他"
-      ],
-      "text": "冰見野良三：中性利率難以衡量。"
-    },
-    {
-      "id": "4944595",
-      "time": "2026-06-19 10:31:41",
-      "tags": [
-        "市場"
-      ],
-      "text": "日經225指數早盤收盤上漲0.4%，至71314.67點。東證指數早盤收盤下跌0.3%，至4055.07點。"
-    },
-    {
-      "id": "4944594",
-      "time": "2026-06-19 10:31:13",
-      "tags": [
-        "國際"
-      ],
-      "text": "Jabil擴大在印度的產能。"
     }
   ]
 }
