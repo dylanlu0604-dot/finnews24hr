@@ -1,7 +1,76 @@
 {
-  "updated": "2026-06-26 12:07:59",
-  "count": 17231,
+  "updated": "2026-06-26 12:12:16",
+  "count": 17234,
   "items": [
+    {
+      "id": "4956436",
+      "time": "2026-06-26 12:11:20",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【泰銖或將跌至一年多來的最低點】美元/泰銖上漲0.1%至33.4270，有望創下自2025年5月12日以來的最高收盤價。泰國SET指數下跌1%至1543.64，有望終結兩連漲的勢頭。"
+    },
+    {
+      "id": "4956435",
+      "time": "2026-06-26 12:10:58",
+      "tags": [
+        "其他"
+      ],
+      "text": "【Omdia：全球小遊戲市場規模有望於2030年增長至200億美元】Omdia最新預測，全球小遊戲市場規模將在2026年達到100億美元，並有望於2030年增長至200億美元，實現翻倍增長。隨著中國以外市場不斷拓展，以及商業化模式日趨成熟，小遊戲正邁入新的發展階段。"
+    },
+    {
+      "id": "4956434",
+      "time": "2026-06-26 12:10:32",
+      "tags": [
+        "國際"
+      ],
+      "text": "【何小鵬：今年底自動駕駛可合法進入全球】6月26日，何小鵬發文表示，小鵬第二代VLA走向全球進入確定模式。他提及WP.29批准的DCAS UNR 171 series 02在六個月後將生效成為歐盟強制法規，這意味著從2026年底自動駕駛可以合法進入歐盟等全球市場。何小鵬還表示：“敬請期待2027年在海外的小鵬汽車的VLA和VLM的入場和體驗（例如海外可以用中文和當地語言混合和愛車對話和控車）。”此前，小鵬汽車深度參與了聯合國世界車輛法規協調論壇（WP.29）自動駕駛系統（ADS）工作組會議，推動全球首個自動駕駛技術法規落地。（第一財經）"
+    },
+    {
+      "id": "4956433",
+      "time": "2026-06-26 12:10:24",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "花旗集團研究部門將聯想集團目標價從20.00港元上調至31.00港元。"
+    },
+    {
+      "id": "4956432",
+      "time": "2026-06-26 12:09:59",
+      "tags": [
+        "國際"
+      ],
+      "text": "【國際刑事法院3名女法官起訴特朗普政府 】國際刑事法院3名女法官24日在美國紐約聯邦法院起訴美國總統特朗普及其政府，指控此前對她們實施的制裁措施非法。來自加拿大、烏干達和貝南的3名女法官在起訴書中表示，美國對她們實施的制裁旨在懲罰和脅迫國際刑事法院法官。據媒體報道，一名白宮官員稱，這些制裁是特朗普依據美國《國際緊急經濟權力法》合法行使權力。但這3名法官指出，制裁超出了《國際緊急經濟權力法》的授權範圍，不僅違法，而且並非基於真正的國家緊急狀態或特殊威脅。"
+    },
+    {
+      "id": "te:economy:562085",
+      "time": "2026-06-26 12:08:57",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "Government Bond 10Y",
+        "Importance 1"
+      ],
+      "text": "US 10-Year Yield Holds Decline — The yield on the 10-year US Treasury note remained around 4.37% on Friday, hovering near seven-week lows as a benign inflation report reduced expectations for multiple Federal Reserve rate hikes this year. The latest US PCE inflation data came in broadly in line with forecasts, and although inflation remains well above the Fed's 2% target, the report eased concerns about a sharper-than-expected acceleration in price pressures. Even so, markets are pricing in an 80% chance of a Fed rate hike in December following last week's hawkish pause, while the probability of a September increase stands at around 63%. New York Fed President John Williams also said on Thursday that inflationary pressures are expected to moderate this year but remain too high."
+    },
+    {
+      "id": "mkt:019f021c-ce85-7dd8-b12d-36891a52709f",
+      "time": "2026-06-26 12:07:50",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "Hang Seng Index",
+        "Impact bearish",
+        "02382.HK",
+        "09999.HK",
+        "Impact mixed"
+      ],
+      "text": "【Hong Kong midday: HSI down 1.87%, Hang Seng Tech Index down 3.21%】Hong Kong stocks at the midday close: HSI fell 1.87% and the Hang Seng Tech Index dropped 3.21%. Storage, semiconductors, optical communications and lithium battery names led declines; pork and game-software sectors were among few gainers. Large-cap moves: Sunny Optical (02382.HK) down over 12%, Zhipu (02513.HK) down over 10%, SMIC (00981.HK) down over 6%, CATL (03750.HK) and Lenovo Group (00992.HK) down over 5%, BYD (01211.HK) and Alibaba (09988.HK) down over 4%, Baidu (09888.HK) down over 3%; NetEase-S (09999.HK) up over 1%. Newly listed stocks: 02272.HK up 195%, 01956.HK up 87%, 09630.HK up 76%."
+    },
     {
       "id": "mkt:019f021c-7f79-7dd8-b12d-2e1e01fb2e5a",
       "time": "2026-06-26 12:07:29",
@@ -157682,43 +157751,6 @@
         "Brent"
       ],
       "text": "【FT: Iranian cargo ships leave Malaysian waters; six head back toward Strait of Hormuz】FT reports several Iranian cargo ships abruptly left Malaysian waters and, after the US and Iran agreed to extend a ceasefire, are returning toward the Strait of Hormuz. FT’s ship‑tracking analysis shows six of seven Iranian-flagged container vessels reported in Malaysian ports and waters earlier this week had departed by Thursday. Most of the departing ships have declared destinations in the Persian Gulf. Many Iranian vessels had been sheltering in Southeast Asia since the US began blocking Iranian home ports in April."
-    },
-    {
-      "id": "4944670",
-      "time": "2026-06-19 12:10:15",
-      "tags": [
-        "國際"
-      ],
-      "text": "【農業農村部部長張柱會見德國聯邦農業、食品和國土部部長阿洛伊斯·賴納】6月18日，農業農村部部長張柱在京會見德國聯邦農業、食品和國土部部長阿洛伊斯·賴納一行。張柱表示，中方願與德方一道，秉持開放發展、互利共贏理念，加強機制交流，充分發揮中德農業中心作用，深化農業科技交流，推進農業各領域合作走深走實，不斷取得新成果，為中德全方位戰略伙伴關係發展作出更大貢獻。賴納表示，德方高度重視對華農業合作，願與中方加強對話溝通，深化農業科技、農產品貿易和動物疫病防控等領域交流合作。會後，雙方共同簽署了《中華人民共和國農業農村部與德意志聯邦共和國聯邦農業、食品和國土部關於深入推進中德農業中心建設的諒解備忘錄》。"
-    },
-    {
-      "id": "te:economy:560315",
-      "time": "2026-06-19 12:09:57",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Malaysia",
-        "Balance of Trade",
-        "Importance 1"
-      ],
-      "text": "Malaysia Trade Surplus Hits Record High — Malaysia’s trade surplus soared to MYR 40.4 billion in April 2026 from MYR 0.8 billion in the same month last year, surpassing market expectations of MYR 23.2 billion. It was the largest trade surplus on record, as exports grew much faster than imports. Exports jumped 45.3% year-on-year to a record high of MYR 184 billion, mainly driven by the manufacturing sector, which soared 51.7%, particularly in electrical and electronic products (70.5%) and petroleum products (74.2%). Imports rose 14.1% year-on-year to MYR 143.6 billion, supported by higher purchases of intermediate goods (14.4%)."
-    },
-    {
-      "id": "4944669",
-      "time": "2026-06-19 12:09:44",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【Meta洽談投資印度金融科技支付初創公司Cred】至少六位知情人士向印度財經媒體《Moneycontrol》透露，臉書母公司 Meta 近幾週一直在洽談投資印度金融科技支付初創公司 Cred，這筆交易對該企業的估值達 40 億美元。"
-    },
-    {
-      "id": "4944668",
-      "time": "2026-06-19 12:08:50",
-      "tags": [
-        "其他"
-      ],
-      "text": "據燈塔專業版實時資料，截至6月19日12時6分，影片《玩具總動員5》票房突破2000萬。"
     }
   ]
 }
