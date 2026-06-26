@@ -1,7 +1,524 @@
 {
-  "updated": "2026-06-27 02:09:11",
-  "count": 18054,
+  "updated": "2026-06-27 02:56:30",
+  "count": 18080,
   "items": [
+    {
+      "id": "mkt:019f0549-277a-7dd8-b13d-f84114621af4",
+      "time": "2026-06-27 02:55:08",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Politico reports the U.S. Commodity Futures Trading Commission (CFTC) is investigating prediction-market operator Polymarket."
+    },
+    {
+      "id": "4957926",
+      "time": "2026-06-27 02:54:14",
+      "tags": [
+        "市場"
+      ],
+      "text": "市場訊息：華爾街監管機構商品期貨交易委員會（CFTC）正在調查預測市場巨頭 PolyMarket。"
+    },
+    {
+      "id": "mkt:019f0543-121a-7dd8-b13d-f389308fe0c4",
+      "time": "2026-06-27 02:48:29",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Israel's ambassador to the United States reiterated that Israel will withdraw from Lebanon only after completely eliminating \"terrorism\" in Lebanon."
+    },
+    {
+      "id": "4957925",
+      "time": "2026-06-27 02:47:35",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：耶魯大學尋求與特朗普政府達成協議。"
+    },
+    {
+      "id": "mkt:019f0541-3651-7dd8-b13d-e9adad80697f",
+      "time": "2026-06-27 02:46:27",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "U.S. President Trump concluded his speech."
+    },
+    {
+      "id": "mkt:019f0541-00f9-7dd8-b13d-e64935729c6c",
+      "time": "2026-06-27 02:46:13",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "Energy",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "Impact bearish"
+      ],
+      "text": "【Night session most-active contracts close】At 02:30, Shanghai gold most-active contract rose 1.34% to 892 yuan/gram; Shanghai silver most-active contract rose 2.61% to 14,385 yuan/kg; Shanghai crude oil (SC) most-active contract fell 2.48% to 460 yuan/barrel."
+    },
+    {
+      "id": "mkt:019f0540-f356-7dd8-b13d-de77a52b8b82",
+      "time": "2026-06-27 02:46:10",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "Shanghai Gold Exchange gold T+D rose 1.46% to 890.1 yuan/gram at the close of the June 26 (Friday) evening session. Shanghai Gold Exchange silver T+D rose 3.37% to 14,341 yuan/kg."
+    },
+    {
+      "id": "mkt:019f053c-b163-7dd8-b13d-d593de2802d6",
+      "time": "2026-06-27 02:41:31",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Trump said a strong earthquake struck Venezuela, causing many deaths, and the US has deployed personnel to provide assistance. He added that US-Venezuela relations are good."
+    },
+    {
+      "id": "4957924",
+      "time": "2026-06-27 02:40:40",
+      "tags": [
+        "國際"
+      ],
+      "text": "【以總理：黎真主黨解除武裝前 以軍將駐留黎南部“安全區”】當地時間26日晚間，以色列總理內塔尼亞胡發表電視講話，宣佈以色列、黎巴嫩和美國三方代表當天在美國首都華盛頓簽署了一項重大工作框架協議。他強調，在黎巴嫩真主黨徹底解除武裝並消除對以安全威脅之前，以色列軍隊將長期維持在黎巴嫩南部“安全區”的駐軍。內塔尼亞胡在講話中重申，該協議是以色列取得的重大成果，“給伊朗方面帶來了沉重打擊”。他表示，伊朗曾企圖透過武力迫使以軍撤出黎南部，但以色列和美國已明確向伊方發出訊號：伊朗、黎真主黨及其他任何武裝組織在黎巴嫩事務中沒有任何立足之地。（央視新聞）"
+    },
+    {
+      "id": "4957923",
+      "time": "2026-06-27 02:39:27",
+      "tags": [
+        "國際"
+      ],
+      "text": "【國際海事組織估計霍爾木茲海峽傳統航道內約有80枚水雷】聯合國全球航運監管機構國際海事組織(IMO)週五估計，霍爾木茲海峽的傳統航道內大約有80枚水雷，這表明要讓海峽石油運輸完全恢復正常依舊困難重重。伊朗戰爭導致在霍爾木茲海峽形成了兩條替代航道：一條緊貼阿曼海岸，並由美國協調；另一條由德黑蘭控制、更靠伊朗一側。之所以出現這種情況，是因為人們認為中間的航道，即所謂分道通航制的區域，被佈設了水雷等爆炸裝置。"
+    },
+    {
+      "id": "4957922",
+      "time": "2026-06-27 02:38:50",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：他們經歷了一場巨大的地震。很多人喪生。 我們有很多人在那裡提供幫助。 委內瑞拉一直很棒。我們有著很好的關係。"
+    },
+    {
+      "id": "4957921",
+      "time": "2026-06-27 02:38:38",
+      "tags": [
+        "其他"
+      ],
+      "text": "黎巴嫩真主黨議員： 該組織的反對態度十分堅決，絕不會允許黎當局在實地落實相關承諾。"
+    },
+    {
+      "id": "4957920",
+      "time": "2026-06-27 02:38:21",
+      "tags": [
+        "國際"
+      ],
+      "text": "據伊朗伊斯蘭共和國通訊社（IRNA）：伊朗和巴基斯坦討論最新外交動態。"
+    },
+    {
+      "id": "mkt:019f0539-aeec-7dd8-b13d-caedfedc4a58",
+      "time": "2026-06-27 02:38:14",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "HEZBOLLAH lawmaker Fadlallah said the group will resist any measures taken by Lebanese authorities and will \"more strongly\" insist on retaining its weapons."
+    },
+    {
+      "id": "mkt:019f0539-8028-7dd8-b13d-c5bbc447e603",
+      "time": "2026-06-27 02:38:02",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Hezbollah MP Fadlallah said Lebanese authorities cannot implement the \"Washington Agreement\" unless they launch a civil war backed by the U.S."
+    },
+    {
+      "id": "4957919",
+      "time": "2026-06-27 02:37:49",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "黎巴嫩真主黨議員：該組織將對抗黎巴嫩當局出臺的任何舉措，並會進一步緊握自身武裝。"
+    },
+    {
+      "id": "4957918",
+      "time": "2026-06-27 02:35:45",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：獨立日過後立刻著手修繕反射池。"
+    },
+    {
+      "id": "4957917",
+      "time": "2026-06-27 02:34:37",
+      "tags": [
+        "其他"
+      ],
+      "text": "黎巴嫩真主黨議員： 華盛頓方面此番操作，意在阻撓 “伊斯蘭堡談判程序”，“缺少抵抗力量的認可，任何協議都無法推行”。"
+    },
+    {
+      "id": "mkt:019f0535-f826-7dd8-b13d-b89d53bab6b9",
+      "time": "2026-06-27 02:34:10",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "European Commission spokesman says the EU is prepared to engage constructively to seek a global fair-tax solution for the digital economy consistent with conclusions reached by G7 finance ministers."
+    },
+    {
+      "id": "4957916",
+      "time": "2026-06-27 02:33:59",
+      "tags": [
+        "國際"
+      ],
+      "text": "歐盟委員會發言人針對特朗普數字稅威脅作出回應：歐盟及其成員國擁有在本國領土內監管經濟活動的主權權利。 相關稅收制度設計上不存在歧視，適用於所有大型企業，不分企業來源地。 若美方採取無正當理由的單邊措施，歐盟將迅速、果斷採取行動，捍衛自身權益與監管自主權。 歐盟願開展建設性磋商，依據七國集團財長會議共識，推動達成數字經濟公平徵稅的全球性解決方案。"
+    },
+    {
+      "id": "mkt:019f0535-acd5-7dd8-b13d-b68049375307",
+      "time": "2026-06-27 02:33:51",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "A European Commission spokesperson said the EU will respond swiftly and decisively to any unreasonable unilateral measures to defend its rights and regulatory autonomy."
+    },
+    {
+      "id": "mkt:019f0535-895a-7dd8-b13d-ae86a170a4e8",
+      "time": "2026-06-27 02:33:42",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "A European Commission spokesperson said, in response to a threat from US President Trump, that the EU and its member states have sovereign rights to regulate economic activity on their territory."
+    },
+    {
+      "id": "4957915",
+      "time": "2026-06-27 02:33:19",
+      "tags": [
+        "國際"
+      ],
+      "text": "黎巴嫩真主黨議員：除非當局在美國支援下挑起內戰，否則根本無法落實這份華盛頓協議。"
+    },
+    {
+      "id": "mkt:019f0535-1a80-7dd8-b13d-a4ab82c7a443",
+      "time": "2026-06-27 02:33:13",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "European Commission spokesperson said tax measures are designed to be non-discriminatory and will apply equally to all large companies regardless of country of origin."
+    },
+    {
+      "id": "mkt:019f0534-6840-7dd8-b13d-9d751d5d3f3d",
+      "time": "2026-06-27 02:32:28",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "US President Trump said on attacks by Iranian boats on vessels that they cannot do that."
+    },
+    {
+      "id": "mkt:019f0533-e377-7dd8-b13d-9793178efdd0",
+      "time": "2026-06-27 02:31:54",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish"
+      ],
+      "text": "U.S. crude futures settled at $69.23/bl, down $2.69, or 3.74%."
+    },
+    {
+      "id": "mkt:019f0533-d03c-7dd8-b13d-8ad3228c867b",
+      "time": "2026-06-27 02:31:49",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "President Trump said gasoline prices will soon fall to $2.50 per gallon."
+    },
+    {
+      "id": "4957914",
+      "time": "2026-06-27 02:31:09",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普談伊朗襲擊船隻：他們不能幹這種事。"
+    },
+    {
+      "id": "mkt:019f0533-2ffa-7dd8-b13d-863bac846195",
+      "time": "2026-06-27 02:31:08",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Trump said the killing of Qassem Soleimani was one of the biggest events in Middle East history and that he believes Khomeini and other Iranians are pleased he ordered the strike because they feared Soleimani."
+    },
+    {
+      "id": "4957913",
+      "time": "2026-06-27 02:30:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "上期所原油期貨夜盤收跌2.48%，報459.90元人民幣/桶。滬金夜盤收漲1.34%，滬銀收漲2.61%。"
+    },
+    {
+      "id": "4957912",
+      "time": "2026-06-27 02:30:00",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：汽油價格很快就會跌到每加侖2.5美元了。"
+    },
+    {
+      "id": "mkt:019f0531-e113-7dd8-b13d-7f59a98403d6",
+      "time": "2026-06-27 02:29:42",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Israel's ambassador to the US said Israel will be able to withdraw from Lebanon the military forces that have fully eliminated \"terrorism\" there."
+    },
+    {
+      "id": "mkt:019f0531-7bed-7dd8-b13d-72bb95f72be4",
+      "time": "2026-06-27 02:29:16",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade",
+        "WTI",
+        "Impact bearish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "President Trump said claims that Iran is much stronger now than four months ago are \"fake news\", asserting Iran is eager to reach a deal and has offered substantial concessions."
+    },
+    {
+      "id": "4957911",
+      "time": "2026-06-27 02:28:59",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列駐美國大使：只有徹底消除黎巴嫩境內的 “恐怖主義” 威脅，以色列才會從黎巴嫩撤軍。"
+    },
+    {
+      "id": "4957910",
+      "time": "2026-06-27 02:28:24",
+      "tags": [
+        "市場",
+        "觀點"
+      ],
+      "text": "【前高盛合夥人警告稱美股股票估值應該引起投資者的擔憂】高盛前合夥人、現任哥倫比亞商學院教授Abby Joseph Cohen表示，美股高企的股價可能掩蓋了投資者應當更加關注的風險，尤其是在勞動力市場方面。Cohen週五接受採訪時說：“估值基本上是在說一切都很棒。”她警告稱：“當一切都按完美狀態定價時，就是投資者需要擔心的時候。”Cohen認為目前正處於一個拐點，她對勞動力市場表示出了尤其謹慎的態度。在2025年成為數十年來除經濟衰退時期外最糟糕的年份之一後，5月份就業報告顯示，勞動力市場在眾多行業都走強。6月份資料將於7月2日釋出。Cohen說：“有一些事情是有標準的，而且直白，包括企業盈利能力、企業資產負債表，以及經濟的潛在實力，潛在實力不僅透過國內生產總值和工業生產來衡量，也透過就業創造來衡量。我們現在沒有創造足夠的就業崗位。”"
+    },
+    {
+      "id": "4957909",
+      "time": "2026-06-27 02:28:06",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：伊朗仍保有一定戰力，但已所剩無幾。"
+    },
+    {
+      "id": "4957908",
+      "time": "2026-06-27 02:27:49",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普誇耀股市高點。"
+    },
+    {
+      "id": "mkt:019f0530-1bc6-7dd8-b13d-6d1db37634f7",
+      "time": "2026-06-27 02:27:46",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Trump: Iran still has some military capability, but not much."
+    },
+    {
+      "id": "mkt:019f0530-0d41-7dd8-b13d-626a39165650",
+      "time": "2026-06-27 02:27:42",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. President Trump said no one now wants to be Iran's leader, saying people ask \"Who wants to be president?\" and everyone replies \"No, thank you.\""
+    },
+    {
+      "id": "mkt:019f052f-8eda-7dd8-b13d-5a2332a600bf",
+      "time": "2026-06-27 02:27:10",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Apple",
+        "Market Themes",
+        "Magnificent 7",
+        "AAPL.O"
+      ],
+      "text": "US tech site The Verge reports the non‑Pro iPhone 18 may get a modest RAM increase to bolster on‑device AI performance."
+    },
+    {
+      "id": "te:markets:562320",
+      "time": "2026-06-27 02:25:15",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Agricultural Commodities Updates: Rubber Plunges by 6.02% — Top commodity losers are Rubber (-6.02%), Cocoa (-2.67%) and Wheat (-2.32%). Gains are led by Sugar (3.07%) and Rice (1.24%)."
+    },
+    {
+      "id": "mkt:019f052b-21f0-7dd8-b13d-57891d50b5b6",
+      "time": "2026-06-27 02:22:20",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. President Trump criticized New York City's rent-freeze measures."
+    },
+    {
+      "id": "mkt:019f052a-bc9d-7dd8-b13d-498f5e023aa6",
+      "time": "2026-06-27 02:21:54",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Trump said New York Mayor Mamdani pledged to prevent rent increases despite rising energy costs."
+    },
+    {
+      "id": "4957907",
+      "time": "2026-06-27 02:21:52",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普批評紐約市凍結租金。"
+    },
+    {
+      "id": "te:markets:562319",
+      "time": "2026-06-27 02:20:14",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Metals Commodities Updates: Lithium Carbonate Falls by 2.87% — Top commodity losers are Lithium Carbonate (-2.87%) and Silicon (-1.14%). Gains are led by Silver (2.08%), Iron Ore CNY (1.77%), Platinum (1.36%) and Gold (1.16%)."
+    },
+    {
+      "id": "mkt:019f0528-9a56-7dd8-b13d-459512aaf5ca",
+      "time": "2026-06-27 02:19:34",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【OpenAI begins limited preview of GPT-5.6 series】OpenAI has begun a limited preview of the GPT-5.6 series, which includes flagship Sol, balanced Terra and low-cost Luna. Terra delivers performance comparable to GPT-5.5 at roughly half the cost; Luna is positioned as a faster, highly economical option. OpenAI says GPT-5.6 Sol is its most powerful model and features strengthened safety controls against high‑risk uses, sensitive network requests and repeated abuse; the company spent weeks probing system weaknesses and stress‑testing to harden defenses. OpenAI plans broad availability of Sol, Terra and Luna in the coming weeks and briefed the US government on the release plan and capabilities ahead of Friday’s public notice."
+    },
+    {
+      "id": "mkt:019f0527-7c61-7dd8-b13d-3bc56562292b",
+      "time": "2026-06-27 02:18:21",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Burkina Faso said France did not adhere to the principles of mutual respect and non-interference in internal affairs."
+    },
+    {
+      "id": "4957906",
+      "time": "2026-06-27 02:18:17",
+      "tags": [
+        "其他"
+      ],
+      "text": "布吉納法索通訊部長： 法國未遵守相互尊重、不干涉內政原則，該國將斷絕與法國的外交關係。"
+    },
+    {
+      "id": "te:markets:562318",
+      "time": "2026-06-27 02:18:01",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "Analog Devices Stock Price Hits 5-week Low — Analog Devices shares decreased to 383.31 USD, the lowest since May 2026. Over the past 4 weeks, Analog Devices lost 7.74%, and in the last 12 months, it increased 62.31%."
+    },
+    {
+      "id": "mkt:019f0527-2ae6-7dd8-b13d-31a50ed2fdd7",
+      "time": "2026-06-27 02:18:00",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Burkina Faso's communications minister said the country will sever diplomatic relations with France."
+    },
+    {
+      "id": "mkt:019f0526-24f4-7dd8-b13d-2ee08773d521",
+      "time": "2026-06-27 02:16:53",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "【Official reveals tripartite framework: Israel to keep forces in southern Lebanon \"security zone\"】An Israeli official said late on the 26th that US, Israeli and Lebanese representatives signed a tripartite framework agreement in the United States. Under the accord, Israel will continue to station forces in the southern Lebanon area it has unilaterally designated as a \"security zone\" until HEZBOLLAH is disarmed; the IDF will retain freedom of action across the zone and may act at any time to remove security threats. Israel and Lebanon also agreed that in two areas outside the \"security zone\" Israel will withdraw progressively and hand control to the Lebanese army. Israeli and Lebanese authorities had no immediate comment."
+    },
+    {
+      "id": "4957905",
+      "time": "2026-06-27 02:16:37",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "【以官員披露三方框架協議細節：以軍繼續駐留黎南部“安全區”】當地時間26日晚，一名以色列官員披露稱，經過美國、以色列和黎巴嫩三方的會談，三方代表當晚在美國簽署了一項三方框架協議。根據該協議，以色列將在黎巴嫩南部其單方面劃定的“安全區”保持駐軍，直至黎巴嫩真主黨解除武裝。該官員表示，在整個“安全區”範圍內，以色列國防軍將保留其軍事行動自由，可隨時採取行動消除各類潛在的安全威脅。同時，以色列和黎巴嫩同意，在“安全區”以外的兩個地區，以色列逐步撤軍並由黎巴嫩政府軍接管控制。對此訊息，以色列官方及黎巴嫩方面尚未作出回應。（央視新聞）"
+    },
+    {
+      "id": "te:markets:562317",
+      "time": "2026-06-27 02:15:15",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Energy Commodities Updates: Brent Crude Oil Falls by 4.32% — Top commodity losers are Brent Crude Oil (-4.32%), Crude Oil WTI (-3.62%) and Heating Oil (-2.30%). Gains are led by Natural Gas UK (2.10%), Germany Natural Gas THE (2.04%) and Natural Gas EU (0.83%)."
+    },
+    {
+      "id": "mkt:019f0523-c525-7dd8-b13d-240d61dd92d5",
+      "time": "2026-06-27 02:14:17",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "A U.S. judge has ordered the Department of Justice to explain its decision to drop criminal charges against Indian businessman Gautam Adani."
+    },
+    {
+      "id": "mkt:019f0523-8326-7dd8-b13d-1b58e177d4c9",
+      "time": "2026-06-27 02:14:01",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Sources said House Democrats will hold a caucus Sunday evening; the meeting is expected to focus on appropriations, particularly imminent amendment votes related to aid for Israel."
+    },
+    {
+      "id": "4957904",
+      "time": "2026-06-27 02:13:51",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國法官責令司法部說明撤銷針對印度阿達尼刑事指控的理由。"
+    },
+    {
+      "id": "4957903",
+      "time": "2026-06-27 02:13:13",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【OpenAI：開啟下一代模型GPT-5.6系列的限量預覽，其中Sol最強】OpenAI表示，已開啟GPT-5.6系列的限量預覽。該系列包括旗艦模型Sol、適用於日常工作的均衡模型Terra、以及快速且經濟實惠的模型Luna。Terra的效能與 GPT-5.5 相當，但成本低2倍；Luna則以其最低的成本提供了強大的能力。GPT-5.6 Sol搭載了該公司迄今最強大的安全防護體系。加強了對高風險活動、敏感網路請求以及重複濫用行為的防護，並花費數週時間尋找系統弱點、進行壓力測試，以增強其抵禦現實世界攻擊的能力。該公司計劃在未來幾周內全面開放GPT-5.6 Sol、Terra和Luna。作為我們與美國政府持續溝通的一部分，在週五釋出之前，OpenAI提前向政府展示了該公司的釋出計劃以及模型的各項能力。GPT-5.6 Sol是其迄今最強大的模型。"
+    },
+    {
+      "id": "mkt:019f0522-6250-7dd8-b13d-17fbaceb3f38",
+      "time": "2026-06-27 02:12:47",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Trump pressured Senator Lisa Murkowski to vote for the Save America Act."
+    },
     {
       "id": "4957902",
       "time": "2026-06-27 02:08:37",
@@ -164821,294 +165338,6 @@
         "MKT News"
       ],
       "text": "U.S. President Trump said of Biden that they once had someone who couldn't even climb a short flight of stairs, and that he avoids discussing it because any slight misstep would prompt criticism."
-    },
-    {
-      "id": "mkt:019ee13a-3d3e-7dd8-b09a-7d8cf099ace6",
-      "time": "2026-06-20 02:52:30",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK"
-      ],
-      "text": "【ZELENSKIY says Ukraine-Russia talks may resume; allows Russia to determine format】On June 19, ZELENSKIY said Ukraine and Russia talks may resume but the specific format remains to be agreed. He said any negotiations must include a third-party partner, outlined Ukraine’s core demands including post-war security guarantees and EU accession, and said Kyiv would allow Moscow to determine the precise negotiating format. Russia has not responded."
-    },
-    {
-      "id": "4945403",
-      "time": "2026-06-20 02:51:56",
-      "tags": [
-        "國際"
-      ],
-      "text": "【澤連斯基稱烏俄談判或將重啟 允許俄方敲定具體形式】當地時間6月19日，烏克蘭總統澤連斯基表示，烏克蘭和俄羅斯的談判或將重啟，當前有待敲定的是談判的具體形式。他特別強調，談判必須有第三方夥伴參與。澤連斯基同時明確了烏克蘭的核心訴求，涵蓋戰後安全保障、加入歐盟等內容，並表示烏方允許俄方敲定談判具體形式。目前，俄羅斯方面對此暫無回應。（央視新聞）"
-    },
-    {
-      "id": "4945402",
-      "time": "2026-06-20 02:50:58",
-      "tags": [
-        "國際"
-      ],
-      "text": "【以軍稱將繼續回應黎真主黨“違反停火協議行為”】以色列國防軍發言人19日發表宣告稱，以軍將繼續回應黎巴嫩真主黨任何“違反停火協議的行為”。這名發言人指認黎真主黨數週以來不斷違反以黎停火協議，稱“以色列無法接受這樣的現實”，這正是以軍繼續在黎南部開展行動的原因。他稱，以軍的目標是確保黎真主黨無法重建，也無法對以色列平民構成威脅。（新華社）"
-    },
-    {
-      "id": "mkt:019ee136-f3b5-7dd8-b09a-72a68c36e2de",
-      "time": "2026-06-20 02:48:55",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Sources say Abu Dhabi-based technology investor MGX is considering a multi-billion-dollar acquisition of data center operator DayOne."
-    },
-    {
-      "id": "4945401",
-      "time": "2026-06-20 02:48:53",
-      "tags": [
-        "其他"
-      ],
-      "text": "星巴克重組之際裁減英國、中國香港辦公室崗位。"
-    },
-    {
-      "id": "4945400",
-      "time": "2026-06-20 02:48:38",
-      "tags": [
-        "其他"
-      ],
-      "text": "市場訊息：阿布扎比投資機構 MGX 正考慮斥資數十億美元收購資料中心運營商 Dayone。"
-    },
-    {
-      "id": "mkt:019ee136-8886-7dd8-b09a-6d6af2c089f7",
-      "time": "2026-06-20 02:48:27",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Elon Musk said by then the measure of value will no longer be the dollar but mass and energy."
-    },
-    {
-      "id": "mkt:019ee136-1a86-7dd8-b09a-6630e3a1f4c7",
-      "time": "2026-06-20 02:47:59",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Elon Musk said humanity will invest unimaginable sums in producing antimatter to enable interstellar travel to other star systems."
-    },
-    {
-      "id": "4945399",
-      "time": "2026-06-20 02:44:41",
-      "tags": [
-        "其他"
-      ],
-      "text": "馬斯克：未來，人類將投入億億萬億美元用於製造反物質，以實現前往其他恆星系統的星際航行。到那時，衡量事物的標準將不再是美元，而是質量與能量。"
-    },
-    {
-      "id": "mkt:019ee130-9b89-7dd8-b09a-5d8be3548bd0",
-      "time": "2026-06-20 02:41:59",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Trump: 'I'm the boss' remark was a joke, didn't expect it to spread worldwide】In an Axios interview, Trump said his 'I'm the boss' remark on entering the G7 meeting was meant as a joke, that 'everyone agreed,' and he did not intend to assert dominance, adding he was surprised it spread worldwide."
-    },
-    {
-      "id": "mkt:019ee129-70c8-7dd8-b09a-54da555ebeea",
-      "time": "2026-06-20 02:34:09",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Ukraine's foreign minister said Poland's decision to strip President ZELENSKIY of an honorary medal was a \"strategic mistake.\""
-    },
-    {
-      "id": "4945398",
-      "time": "2026-06-20 02:33:06",
-      "tags": [
-        "國際"
-      ],
-      "text": "烏克蘭外長：波蘭撤銷澤連斯基總統勳章的決定是一個 “戰略失誤”。"
-    },
-    {
-      "id": "4945397",
-      "time": "2026-06-20 02:32:09",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【特朗普：“我是老大”的言論只是開玩笑】在Axios訪談節目中，特朗普在被問及關於參加七國集團（G7）峰會向現場各國領導人宣佈“我是老大”時稱， 所有人都認同這點，不過當時只是開玩笑而已。那句話本就是句玩笑，結果傳遍了全世界，我簡直不敢相信。 我當時只是隨口調侃、逗個樂，根本不是想擺老大的架子。"
-    },
-    {
-      "id": "te:markets:560546",
-      "time": "2026-06-20 02:30:12",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Crypto",
-        "Importance 1"
-      ],
-      "text": "Crypto Updates: XRP Drops by 1.16% — Today's cryptos market is characterized by modest daily movements, with XRP standing out as the frontrunner with a -1.16% decrease."
-    },
-    {
-      "id": "mkt:019ee124-09ec-7dd8-b09a-49b6e2d6dee4",
-      "time": "2026-06-20 02:28:15",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Poland's president has decided to revoke the Order of the White Eagle, the country's highest decoration, which had been awarded to Ukrainian President ZELENSKIY."
-    },
-    {
-      "id": "4945396",
-      "time": "2026-06-20 02:26:58",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【全美寶可夢卡牌盜竊案頻發 北加州兩店接連遭竊】美國警方及兩家店鋪店主表示，本週北加利福尼亞州兩家商店在短短數小時內接連遭遇入室盜竊，價值數千美元的寶可夢集換式卡牌失竊。 斯托克頓的調查人員正在蒐集這兩起週三入室盜竊案的線索、追查嫌疑人，這也是全美多地接連發生寶可夢卡牌失竊案件中的最新兩起。 警方暫未確定這兩起盜竊案件是否存在關聯。其中一位店主勞森介紹，寶可夢卡牌的價格跨度極大，普通卡牌售價約一美元，而部分經過專業評級的卡牌價值可達數萬美元。加利福尼亞州、新澤西州以及美國其他多個州都發生過同類盜竊案件。"
-    },
-    {
-      "id": "te:markets:560545",
-      "time": "2026-06-20 02:25:11",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Agricultural Commodities Updates: Palm Oil Rises by 1.60% — Top commodity gainers are Palm Oil (1.60%), Rapeseed (0.51%) and Wool (0.51%). Biggest loser is Coffee (-0.74%)."
-    },
-    {
-      "id": "mkt:019ee11e-c423-7dd8-b09a-457de0363641",
-      "time": "2026-06-20 02:22:30",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "XAUUSD",
-        "DXY"
-      ],
-      "text": "【Trump tells Axios Iran war could trigger global depression, says ending JCPOA saved Israel; Cuba action ‘could be swift’】In an Axios interview, Trump said a war with Iran “could trigger a global depression” and asserted his deal prevented that outcome. He said action against Cuba “could be” as swift as U.S. moves on Venezuela, noting both are geographically close while Iran is “far.” On Israel, he claimed “if not for me, Israel would not exist today,” saying he terminated the Obama-era Iran nuclear deal (JCPOA), which he described as a path to nuclear weapons. On post-conflict limits on presidential authority he said there are “no limits” in practice, adding he has “not learned that lesson” and that limits exist only “in theory.”"
-    },
-    {
-      "id": "4945395",
-      "time": "2026-06-20 02:22:20",
-      "tags": [
-        "國際"
-      ],
-      "text": "【俄總統新聞秘書：願與歐洲談判 但對方需轉變態度】俄羅斯總統新聞秘書佩斯科夫19日在新聞釋出會上表示，俄羅斯願與歐洲進行談判，雙方有大量問題有待磋商，但歐洲需改變對待談判的態度。在回答記者有關俄歐談判的問題時，佩斯科夫說，俄羅斯不是主動切斷與歐洲聯絡的一方。歐盟自認為在談判中居於強勢而俄羅斯處於弱勢，這是一個嚴重誤判。如果歐洲能真正認識到恢復與俄羅斯對話的重要性，而不是一味說教和發出最後通牒，那麼俄方將對此持開放態度。佩斯科夫建議歐盟去了解俄烏衝突的真實情況。他認為，烏克蘭目前已陷入非常困難的境地，前線形勢對於烏方來說很快將變成一場災難。（新華社）"
-    },
-    {
-      "id": "te:markets:560544",
-      "time": "2026-06-20 02:20:11",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Metals Commodities Updates: Platinum Falls by 2.29% — Top commodity losers are Platinum (-2.29%), Gold (-1.61%) and Silver (-1.20%)."
-    },
-    {
-      "id": "4945394",
-      "time": "2026-06-20 02:16:53",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：Anthropic 配合我方要求，行事負責。"
-    },
-    {
-      "id": "te:markets:560543",
-      "time": "2026-06-20 02:15:12",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Energy Commodities Updates: Natural Gas UK Gains by 4.56% — Top commodity gainers are Natural Gas UK (4.56%), Natural Gas EU (3.78%), Germany Natural Gas THE (3.71%), Crude Oil WTI (0.95%) and Brent Crude Oil (0.92%). Biggest loser is Natural gas (-1.11%)."
-    },
-    {
-      "id": "4945393",
-      "time": "2026-06-20 02:13:53",
-      "tags": [
-        "國際"
-      ],
-      "text": "被問及是否會關停 Anthropic 時，特朗普回應：我並不打算這麼做。"
-    },
-    {
-      "id": "4945392",
-      "time": "2026-06-20 02:13:39",
-      "tags": [
-        "國際"
-      ],
-      "text": "波蘭總統表示，他已決定撤銷授予澤連斯基的最高榮譽白鷹勳章。"
-    },
-    {
-      "id": "mkt:019ee116-258e-7dd8-b09a-3f5ee2963b16",
-      "time": "2026-06-20 02:13:05",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "U.S. President Trump said ANTHROPIC should not be regarded as a national security threat."
-    },
-    {
-      "id": "mkt:019ee115-e226-7dd8-b09a-37630b4141c1",
-      "time": "2026-06-20 02:12:48",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bearish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "Axios: President Trump said the US will be able to prevent Israel from attacking Lebanon."
-    },
-    {
-      "id": "mkt:019ee115-9fcf-7dd8-b09a-2c3f56e4a6e3",
-      "time": "2026-06-20 02:12:31",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bearish",
-        "XAUUSD",
-        "DXY"
-      ],
-      "text": "Axios quoted President Trump as saying a war with Iran could trigger a global depression and that the agreement averted that outcome."
-    },
-    {
-      "id": "4945391",
-      "time": "2026-06-20 02:11:23",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：不將 Anthropic 視作國家安全威脅。"
-    },
-    {
-      "id": "4945390",
-      "time": "2026-06-20 02:11:08",
-      "tags": [
-        "其他"
-      ],
-      "text": "英國交通大臣：獲悉兩列火車相撞的相關報道，我深感擔憂。"
-    },
-    {
-      "id": "mkt:019ee114-143d-7dd8-b09a-22bb0a9d3dfa",
-      "time": "2026-06-20 02:10:49",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "The Trump Trade"
-      ],
-      "text": "AXIOS reports President Trump said Cuba is very eager to engage in talks."
-    },
-    {
-      "id": "mkt:019ee113-0fa7-7dd8-b09a-1b1a0e69dc89",
-      "time": "2026-06-20 02:09:43",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)"
-      ],
-      "text": "【Fed vice chair for supervision Bowman attends private BofA client dinner during blackout; compliance questioned】Fed vice chair for supervision Bowman attended an invite-only BofA client dinner in New York on Wednesday night, several hours after the Fed released its latest policy decision. The event occurred during the Fed’s communication blackout, which bars officials from commenting publicly on the economy or monetary policy for several days around meetings and runs through the day after the meeting (Thursday). Fed guidance does not explicitly prohibit closed‑door meetings but requires officials to avoid sharing personal policy views with parties that could profit or to confer reputational advantages on a firm; policymakers should be cautious about meetings with those who could benefit from exclusive access or accepting invitations from for‑profit, non‑public events. It is unclear whether Bowman’s attendance violated Fed rules."
-    },
-    {
-      "id": "4945389",
-      "time": "2026-06-20 02:09:40",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：我有辦法約束以色列，使其不對黎巴嫩發動襲擊。"
     }
   ]
 }
