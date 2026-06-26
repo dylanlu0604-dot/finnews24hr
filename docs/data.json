@@ -1,7 +1,67 @@
 {
-  "updated": "2026-06-26 13:57:55",
-  "count": 17266,
+  "updated": "2026-06-26 14:02:08",
+  "count": 17248,
   "items": [
+    {
+      "id": "mkt:019f0284-d1dc-7dd8-b12e-a724caa84102",
+      "time": "2026-06-26 14:01:26",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Statistics Sweden: May PPI +6.6% YoY, +1.3% MoM."
+    },
+    {
+      "id": "4956549",
+      "time": "2026-06-26 14:00:12",
+      "tags": [
+        "公司"
+      ],
+      "text": "【港交所銅鑼不夠用了！六家公司和一隻ETF同日上市】香港交易所今天迎來七隻新股上市，其中六家公司與一隻ETF，港交所主席唐家成笑稱\"從未見過這麼多人\"，七隻新股齊發被視為亞洲增長機遇與全球科創前沿的集中亮相。香港證監會主席黃天祐強調，推動高質量企業上市、秉持最高誠信標準，才是市場真正的\"金字招牌\"。拔萃資本分析師鄭雪曦指出，當前資金更偏好AI、半導體、先進製造等具備產業趨勢與稀缺性的標的，展望下半年港股IPO活躍度有望延續。（一財）"
+    },
+    {
+      "id": "4956548",
+      "time": "2026-06-26 14:00:04",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "阿里巴巴集團港股下跌5.5%，報89.75港元。"
+    },
+    {
+      "id": "4956547",
+      "time": "2026-06-26 13:59:56",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列國防軍表示，在黎巴嫩南部的一次近距離交火中，一名軍官受中度傷，另一名軍官和兩名士兵受輕傷。"
+    },
+    {
+      "id": "mkt:019f0283-703b-7dd8-b12e-9fa21f4432dc",
+      "time": "2026-06-26 13:59:56",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "【HKEX lists seven new issues — six companies and one ETF】HKEX listed seven new issues today: six companies and one ETF. The SFC said it will promote high‑quality listings and uphold the highest standards of integrity. Analyst Zheng Xuexi said institutional capital currently favors AI, semiconductors and advanced manufacturing and expects IPO activity to remain active in H2."
+    },
+    {
+      "id": "mkt:019f0281-2b07-7dd8-b12e-9755be7635a5",
+      "time": "2026-06-26 13:57:27",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "XAUUSD",
+        "Impact bearish",
+        "US10Y",
+        "Impact bullish",
+        "S&P500"
+      ],
+      "text": "【Capital Economics: Fed rate expectations lift real yields; gold could fall to $3,500/oz by end-2026, $3,250/oz by end-2027】Capital Economics economist Hamad Hussain says Fed rate expectations will lift real yields and weigh on gold, leaving further downside over the next 18 months. A sudden equity sell-off could deepen losses as investors are forced to sell high-quality assets to meet margin calls. Forecasts: gold at $3,500/oz by end-2026 and $3,250/oz by end-2027."
+    },
     {
       "id": "mkt:019f0280-f8a9-7dd8-b12e-8e117ce170be",
       "time": "2026-06-26 13:57:14",
@@ -157735,269 +157795,6 @@
         "Japan & APAC"
       ],
       "text": "Japan 30-year government bond yield rose 7.5 bps to 3.845%, the highest since June 11."
-    },
-    {
-      "id": "mkt:019ede78-0270-7dd8-b08e-fb2ec68e4c16",
-      "time": "2026-06-19 14:01:07",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK",
-        "DAX",
-        "Impact bearish",
-        "FTSE100"
-      ],
-      "text": "Euro Stoxx 50 futures down 0.46%; DAX futures down 0.40%; CAC 40 futures down 0.25%; FTSE futures down 0.23%."
-    },
-    {
-      "id": "em:jjsj_ygsj:202606193776829035",
-      "time": "2026-06-19 14:00:58",
-      "tags": [
-        "經濟數據",
-        "英國"
-      ],
-      "text": "英國5月公共部門淨借款232.94億英鎊，預期185億英鎊，前值243.43億英鎊。"
-    },
-    {
-      "id": "4944764",
-      "time": "2026-06-19 14:00:56",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "歐洲斯托克50指數期貨下跌0.46%，德國DAX指數期貨下跌0.4%，法國CAC 40指數期貨下跌0.25%，英國富時期貨下跌0.23%。"
-    },
-    {
-      "id": "4944763",
-      "time": "2026-06-19 14:00:34",
-      "tags": [
-        "其他"
-      ],
-      "text": "英國5月公共部門淨借款 232.94億英鎊，預期185億英鎊，前值243.43億英鎊。"
-    },
-    {
-      "id": "em:jjsj_oyqsj:202606193776828983",
-      "time": "2026-06-19 14:00:34",
-      "tags": [
-        "經濟數據",
-        "歐元區"
-      ],
-      "text": "德國5月PPI同比增長2.2%，預期2.5%。"
-    },
-    {
-      "id": "mkt:019ede77-7a27-7dd8-b08e-f72d9758c0ba",
-      "time": "2026-06-19 14:00:32",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Europe & UK",
-        "GBPUSD",
-        "Impact bearish",
-        "DXY",
-        "Impact bullish"
-      ],
-      "text": "UK public sector net borrowing in May: £23.294bn, est. £18.5bn, prior £24.343bn."
-    },
-    {
-      "id": "4944762",
-      "time": "2026-06-19 14:00:29",
-      "tags": [
-        "資料"
-      ],
-      "text": "英國5月季調後核心零售銷售月率 1.2%，預期0.4%，前值由-0.40%修正為-0.1%。英國5月季調後核心零售銷售年率 4.6%，預期3.3%，前值1.10%。"
-    },
-    {
-      "id": "mkt:019ede77-5c69-7dd8-b08e-eac3d4439458",
-      "time": "2026-06-19 14:00:24",
-      "tags": [
-        "MKT News",
-        "Important",
-        "EURUSD",
-        "Impact bearish",
-        "DXY",
-        "Impact bullish"
-      ],
-      "text": "Germany May PPI MoM 0.3% (consensus 0.7%; April 1.2%)."
-    },
-    {
-      "id": "mkt:019ede77-5ade-7dd8-b08e-e7000deb0d55",
-      "time": "2026-06-19 14:00:24",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "United Kingdom | Public Sector Net Borrowing (May) | actual 23294000000B | consensus 18500000000B | previous 24343000000B"
-    },
-    {
-      "id": "mkt:019ede77-562a-7dd8-b08e-dc7646c757df",
-      "time": "2026-06-19 14:00:23",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK",
-        "GBPUSD",
-        "Impact bearish",
-        "DXY",
-        "Impact bullish",
-        "FTSE100",
-        "Impact mixed"
-      ],
-      "text": "UK government deficit in May £24.07 bln; prior figure revised from £9.55 bln to £9.46 bln."
-    },
-    {
-      "id": "mkt:019ede77-487f-7dd8-b08e-d24e1d8a5597",
-      "time": "2026-06-19 14:00:19",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK",
-        "GBPUSD",
-        "Impact bullish"
-      ],
-      "text": "UK seasonally adjusted core retail sales YoY 4.6% in May (est. 3.3%; prior 1.1%)."
-    },
-    {
-      "id": "mkt:019ede77-4752-7dd8-b08e-cce8ab8a8b4c",
-      "time": "2026-06-19 14:00:19",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK",
-        "GBPUSD",
-        "Impact bullish",
-        "FTSE100"
-      ],
-      "text": "UK seasonally adjusted retail sales rose 3.2% YoY in May versus 1.9% expected; the prior reading was revised to 0.1% from 0.0%."
-    },
-    {
-      "id": "mkt:019ede77-4750-7dd8-b08e-c583186710bf",
-      "time": "2026-06-19 14:00:19",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK",
-        "EURUSD",
-        "Impact bullish",
-        "DAX",
-        "US10Y",
-        "Impact mixed"
-      ],
-      "text": "Germany May PPI YoY 2.2% vs 2.5% expected, prior 1.7%."
-    },
-    {
-      "id": "4944761",
-      "time": "2026-06-19 14:00:18",
-      "tags": [
-        "資料"
-      ],
-      "text": "德國5月PPI年率 2.2%，預期2.50%，前值1.70%。"
-    },
-    {
-      "id": "4944760",
-      "time": "2026-06-19 14:00:13",
-      "tags": [
-        "資料"
-      ],
-      "text": "德國5月PPI月率 0.3%，預期0.70%，前值1.20%。"
-    },
-    {
-      "id": "mkt:019ede77-40ae-7dd8-b08e-ba88d0cba2ea",
-      "time": "2026-06-19 14:00:13",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK",
-        "GBPUSD",
-        "Impact bullish",
-        "DXY",
-        "Impact bearish",
-        "FTSE100"
-      ],
-      "text": "UK seasonally adjusted core retail sales rose 1.2% m/m in May, versus 0.4% expected; April revised from -0.40% to -0.1%."
-    },
-    {
-      "id": "mkt:019ede77-2fa4-7dd8-b08e-b06f6663737b",
-      "time": "2026-06-19 14:00:13",
-      "tags": [
-        "MKT News",
-        "Important",
-        "GBPUSD",
-        "Impact bullish",
-        "FTSE100"
-      ],
-      "text": "UK seasonally adjusted retail sales rose 1.2% MoM in May versus 0.5% expected; April was revised to -1.0% from -1.3%."
-    },
-    {
-      "id": "mkt:019ede77-14fb-7dd8-b08e-aa819eca680f",
-      "time": "2026-06-19 14:00:06",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "Germany | Producer Price Index (MoM) (May) | actual 0.3% | consensus 0.70% | previous 1.20%"
-    },
-    {
-      "id": "mkt:019ede77-14f5-7dd8-b08e-a4ffabd5b80e",
-      "time": "2026-06-19 14:00:06",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "Germany | Producer Price Index (YoY) (May) | actual 2.2% | consensus 2.50% | previous 1.70%"
-    },
-    {
-      "id": "mkt:019ede77-0791-7dd8-b08e-9cc9e3db9e75",
-      "time": "2026-06-19 14:00:03",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "United Kingdom | Public Sector Net Borrowing (May) | actual 24069000000B | previous 9547000000B"
-    },
-    {
-      "id": "mkt:019ede77-0470-7dd8-b08e-8efb5f87a23d",
-      "time": "2026-06-19 14:00:02",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "United Kingdom | Core Retail Sales (MoM) (May) | actual 1.2% | consensus 0.4% | previous -0.40%"
-    },
-    {
-      "id": "mkt:019ede77-047c-7dd8-b08e-94e8b18a5a58",
-      "time": "2026-06-19 14:00:02",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "United Kingdom | Core Retail Sales (YoY) (May) | actual 4.6% | consensus 3.3% | previous 1.10%"
-    },
-    {
-      "id": "mkt:019ede77-0461-7dd8-b08e-8264599d1409",
-      "time": "2026-06-19 14:00:02",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "United Kingdom | Retail Sales (YoY) (May) | actual 3.2% | consensus 1.9% | previous 0.00%"
-    },
-    {
-      "id": "mkt:019ede77-03f7-7dd8-b08e-7f10832bd593",
-      "time": "2026-06-19 14:00:02",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "United Kingdom | Retail Sales (MoM) (May) | actual 1.2% | consensus 0.50% | previous -1.30%"
     }
   ]
 }
