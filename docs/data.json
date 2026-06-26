@@ -1,7 +1,211 @@
 {
-  "updated": "2026-06-27 04:09:07",
-  "count": 18108,
+  "updated": "2026-06-27 04:13:09",
+  "count": 18125,
   "items": [
+    {
+      "id": "mkt:019f058f-8d4b-7dd8-b13f-23ed61bb831f",
+      "time": "2026-06-27 04:12:01",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "S&P500",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish",
+        "US10Y"
+      ],
+      "text": "S&P expects the Fed will continue to face challenges in reducing inf and addressing financial-market vulnerabilities."
+    },
+    {
+      "id": "mkt:019f058f-5233-7dd8-b13f-1924a700e17b",
+      "time": "2026-06-27 04:11:46",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "S&P500",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish",
+        "US10Y"
+      ],
+      "text": "S&P expects the Federal Reserve to remain firmly committed to steering inf back toward its target."
+    },
+    {
+      "id": "4957996",
+      "time": "2026-06-27 04:11:43",
+      "tags": [
+        "國際"
+      ],
+      "text": "標普關於美國市場觀點：預計強勁的人工智慧投資仍將是整體投資的核心推動力。"
+    },
+    {
+      "id": "mkt:019f058f-28d6-7dd8-b13f-11a05b215737",
+      "time": "2026-06-27 04:11:35",
+      "tags": [
+        "MKT News",
+        "S&P500",
+        "Impact bullish"
+      ],
+      "text": "S&P said it still expects key institutions and checks and balances to continue functioning, keeping policy outcomes stable despite rising U.S. political polarization."
+    },
+    {
+      "id": "4957995",
+      "time": "2026-06-27 04:11:20",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美稱設立軍事協調小組協助落實美以黎三方框架協議】當地時間6月26日，美國國務卿魯比奧釋出宣告表示，當日，美國、黎巴嫩和以色列簽署三方框架協議。宣告稱，該協議確立了一個清晰且有條理的程序，旨在恢復黎巴嫩主權，解除黎巴嫩真主黨武裝並拆除其基礎設施，同時確保在針對公民的威脅消除後，以色列能夠重返其邊界。協議還設立了由美國推動的“黎巴嫩三方軍事協調小組”，以協助雙方落實該框架協議。宣告還稱，美國將繼續參與相關程序，包括與聯合國協調，立即提供1億美元的人道主義援助。美國國防部準備依據現行授權及撥款，向黎巴嫩武裝部隊提供超過3000萬美元的資金，以支援黎巴嫩實現持久和平。美國計劃與地區夥伴密切合作，落實這一框架。（央視新聞）"
+    },
+    {
+      "id": "mkt:019f058e-e373-7dd8-b13f-0cc0e9e667bd",
+      "time": "2026-06-27 04:11:18",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy"
+      ],
+      "text": "S&P forecasts U.S. real GDP growth of about 2% annually from 2026 through 2029."
+    },
+    {
+      "id": "mkt:019f058e-ade0-7dd8-b13f-05907e6ecb9c",
+      "time": "2026-06-27 04:11:04",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy",
+        "US10Y",
+        "Impact bearish",
+        "S&P500",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "S&P expects US general government net debt to approach 100% of GDP as non-discretionary interest costs and aging-related spending rise structurally."
+    },
+    {
+      "id": "mkt:019f058e-740a-7dd8-b13e-fa4c37ac8488",
+      "time": "2026-06-27 04:10:49",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "Nasdaq100",
+        "Impact bearish",
+        "S&P500"
+      ],
+      "text": "PHLX Semiconductor Index (SOX) fell 7.9% this week, its largest weekly decline since early April."
+    },
+    {
+      "id": "4957994",
+      "time": "2026-06-27 04:10:46",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "標普關於美國經濟的觀點：預計美聯儲將繼續應對降低通脹與化解金融市場脆弱性的挑戰。"
+    },
+    {
+      "id": "4957993",
+      "time": "2026-06-27 04:10:28",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "標普關於美國經濟的觀點：我們預計美聯儲將堅定承諾引導通脹回落至其目標水平。"
+    },
+    {
+      "id": "4957992",
+      "time": "2026-06-27 04:10:21",
+      "tags": [
+        "其他"
+      ],
+      "text": "費城費城半導體指數本週跌7.9%，創4月初以來最大單週跌幅。"
+    },
+    {
+      "id": "mkt:019f058d-e79f-7dd8-b13e-f01d6cdb12d5",
+      "time": "2026-06-27 04:10:13",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Noor News reported explosions in Iran's Sirik region; source unknown."
+    },
+    {
+      "id": "4957991",
+      "time": "2026-06-27 04:09:54",
+      "tags": [
+        "國際"
+      ],
+      "text": "標普：美國經濟的韌性應會支撐強勁的財政收入，持續加徵的關稅也將貢獻其中一部分收入。"
+    },
+    {
+      "id": "4957990",
+      "time": "2026-06-27 04:09:50",
+      "tags": [
+        "國際"
+      ],
+      "text": "標普關於美國的觀點：儘管兩極分化加劇，我們仍認為關鍵制度與權力制衡體系為政策結果提供了穩定支撐。"
+    },
+    {
+      "id": "4957989",
+      "time": "2026-06-27 04:09:46",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗媒體：伊朗錫裡克地區聽到爆炸聲，訊息來源尚不明確。"
+    },
+    {
+      "id": "mkt:019f058d-7107-7dd8-b13e-ee71cd1cc1bd",
+      "time": "2026-06-27 04:09:43",
+      "tags": [
+        "MKT News",
+        "Important",
+        "US10Y",
+        "Impact bullish",
+        "DXY",
+        "Impact mixed",
+        "S&P500"
+      ],
+      "text": "S&P affirmed the US sovereign credit rating at AA+/A-1+ and kept the outlook stable."
+    },
+    {
+      "id": "4957988",
+      "time": "2026-06-27 04:09:32",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【美國股市在經歷動盪的一週後幾無變動】美國主要股指週五收盤幾無變動，此前經歷了一週動盪的交易，投資者從人工智慧相關投資轉向傳統避險資產。道瓊斯指數表現突出，連續第三週上漲，而納斯達克和標普500指數則走低。受對霍爾木茲海峽供應的樂觀情緒影響，油價回落至戰前水平。道瓊斯指數下跌44點，至51876點，跌幅0.1%；標普500指數下跌0.1%，至7353點；納斯達克下跌0.2%，至25297點。市場注意力將轉向勞動力資料，6月份就業人數報告將於週四在7月4日假期前釋出。"
+    },
+    {
+      "id": "te:markets:562322",
+      "time": "2026-06-27 04:09:32",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "US Stocks Dip as Chipmakers Retreat — US stock indexes closed lower on Friday, with the S&P 500 inching down 0.05%, the Nasdaq 100 losing 1.1%, and the Dow Jones slipping 44 points. Chipmakers led the declines as investors trimmed positions after Thursday’s rally, which had been fueled by strong guidance from Micron. Its shares fell 6.7%, while peers Nvidia (-1.3%) and Broadcom (-3.7%) also moved lower. The Dow traded more in line with its tech-heavy counterparts after Alphabet (-1.3%) replaced Verizon in the index, though it still ended near record highs. Broader losses were pared as lower oil prices eased inflation concerns, after evidence that tankers continued crossing the Strait of Hormuz improved the supply outlook for Middle Eastern energy and reduced fears of multiple Federal Reserve rate hikes this year. Still, sentiment remained cautious after President Donald Trump accused Iran of violating the ceasefire agreement by firing at cargo ships transiting the Strait, highlighting the fragility of the truce."
+    },
+    {
+      "id": "4957987",
+      "time": "2026-06-27 04:08:49",
+      "tags": [
+        "國際"
+      ],
+      "text": "標普關於美國的評級展望：受非自主利息支出及老齡化相關支出結構性上升影響，預計美國一般政府淨債務佔GDP比重將接近100%。"
+    },
+    {
+      "id": "4957986",
+      "time": "2026-06-27 04:08:38",
+      "tags": [
+        "國際"
+      ],
+      "text": "標普關於美國信用評級的觀點：基於我們對經濟增長將持續保持穩健的預期，美國評級展望維持穩定。"
+    },
     {
       "id": "4957985",
       "time": "2026-06-27 04:08:08",
@@ -165583,30 +165787,6 @@
         "國際"
       ],
       "text": "美國銀行存款從前一週的19.295萬億美元增至19.354萬億美元。"
-    },
-    {
-      "id": "4945445",
-      "time": "2026-06-20 04:11:31",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普結束在安德魯斯聯合基地的講話。"
-    },
-    {
-      "id": "4945444",
-      "time": "2026-06-20 04:10:38",
-      "tags": [
-        "其他"
-      ],
-      "text": "【利比亞近海沉船事故致12人死亡39人失蹤】一艘載有非法移民的船隻日前在利比亞東部城市圖卜魯格附近海域沉沒，已致12人死亡、39人失蹤。 據利比亞一服務移民和難民的人道主義組織19日釋出的訊息，事故發生於本月12日，事發船隻載有61人，其中10人逃生。該組織表示，目前已找到12具遺體，搜尋行動仍在進行中。（新華社）"
-    },
-    {
-      "id": "4945443",
-      "time": "2026-06-20 04:10:13",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：這是全新塗裝配色 —— 紅、白、藍。我們原本挺喜歡淡藍色，但如今是時候做出改變了…… 我偏愛美國國旗本身的色彩。"
     }
   ]
 }
