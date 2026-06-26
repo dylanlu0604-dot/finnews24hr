@@ -1,7 +1,92 @@
 {
-  "updated": "2026-06-26 20:27:16",
-  "count": 17874,
+  "updated": "2026-06-26 20:31:29",
+  "count": 17870,
   "items": [
+    {
+      "id": "mkt:019f03e9-3689-7dd8-b136-fbcf63aa0e75",
+      "time": "2026-06-26 20:30:43",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "US May wholesale inventories +0.3% MoM vs +0.4% expected; April +0.6%."
+    },
+    {
+      "id": "mkt:019f03e9-1623-7dd8-b136-f0b8512daec7",
+      "time": "2026-06-26 20:30:34",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | Wholesale Inventories (MoM) (May) | actual 0.3% | consensus 0.40% | previous 0.60%"
+    },
+    {
+      "id": "4957514",
+      "time": "2026-06-26 20:30:31",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國5月商品進口環比增長3.6%。"
+    },
+    {
+      "id": "4957513",
+      "time": "2026-06-26 20:30:16",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國5月批發庫存環比初值 0.3%，預期 0.4%，前值 0.6%。美國5月零售庫存環比 0.6%，預期 0.5%，前值 0.7%。"
+    },
+    {
+      "id": "4957512",
+      "time": "2026-06-26 20:30:10",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國5月商品貿易帳 -1058億美元，預期 -850億美元，前值 -824億美元。"
+    },
+    {
+      "id": "4957511",
+      "time": "2026-06-26 20:30:08",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國5月商品出口環比下降5.4%。"
+    },
+    {
+      "id": "4957510",
+      "time": "2026-06-26 20:29:49",
+      "tags": [
+        "公司"
+      ],
+      "text": "【剛果（金）擬訓練超2萬名礦區安保人員】剛果（金）政府正與一傢俬營公司商談，以訓練超過2萬名武裝保安人員，保護該國礦區，此舉旨在改善當地礦業的聲譽。據礦業總監察局負責人透露，這些保安人員將保護大型商業礦區，幫助規範使用簡陋工具挖礦的手工採礦者作業點，並提高礦產出口的可追溯性。"
+    },
+    {
+      "id": "mkt:019f03e7-89b3-7dd8-b136-ed78020d9612",
+      "time": "2026-06-26 20:28:53",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "【Singapore-flagged container ship lightly damaged after strike in Strait of Hormuz】The Maritime and Port Authority of Singapore (MPA) said on June 26 that a Singapore-flagged container vessel, Chang Yue, suffered minor damage on June 25 after being struck by an unidentified projectile in the Strait of Hormuz. The impact hit the wheelhouse area as the vessel was departing the strait. All 21 crew are safe; there are no Singapore nationals aboard. The ship has transited the Strait of Hormuz and is continuing its voyage."
+    },
+    {
+      "id": "4957509",
+      "time": "2026-06-26 20:28:32",
+      "tags": [
+        "其他"
+      ],
+      "text": "訊息人士稱，德國最初210億歐元的預算缺口已被完全填補；必須動用97億歐元儲備金中的相當一部分來應對2027年的財政需求。"
+    },
+    {
+      "id": "4957508",
+      "time": "2026-06-26 20:28:22",
+      "tags": [
+        "其他"
+      ],
+      "text": "據委內瑞拉官方通報，委內瑞拉強震遇難人數升至589人，另有2980人受傷。（新華社）"
+    },
     {
       "id": "4957506",
       "time": "2026-06-26 20:26:15",
@@ -163129,140 +163214,6 @@
         "國際"
       ],
       "text": "【義大利外長因特朗普的言論取消訪美】義大利副總理兼外長塔亞尼取消了對美國的訪問，原因是美國總統特朗普據稱發表了似乎嘲諷義大利總理梅洛尼的言論。原定於6月21日和22日訪問美國的塔亞尼表示，特朗普總統“言辭嚴重且具有冒犯性……冒犯了整個義大利”。梅洛尼表示，她對特朗普向義大利La7電視臺發表的言論感到“震驚”，特朗普聲稱梅洛尼在G7峰會上“非常渴望與我合影”，而他之所以同意，僅僅是因為“同情她”。特朗普表示，梅洛尼可能會“很高興我與她交談，畢竟我本不必非得跟她談”。梅洛尼稱特朗普所說的話是“編造的”，並補充道：“我和義大利從不乞求什麼。”"
-    },
-    {
-      "id": "em:jjsj_jndsj:202606193776873444",
-      "time": "2026-06-19 20:31:25",
-      "tags": [
-        "經濟數據",
-        "加拿大"
-      ],
-      "text": "加拿大4月零售銷售環比增長0.5%，預期0.60%，前值0.90%。"
-    },
-    {
-      "id": "mkt:019edfdc-8c42-7dd8-b095-0ce28a29f89c",
-      "time": "2026-06-19 20:30:33",
-      "tags": [
-        "MKT News",
-        "DXY",
-        "Impact bearish"
-      ],
-      "text": "Statistics Canada preliminary estimate: May retail sales up 1.0% MoM."
-    },
-    {
-      "id": "mkt:019edfdc-358a-7dd8-b095-010582182787",
-      "time": "2026-06-19 20:30:11",
-      "tags": [
-        "MKT News",
-        "DXY",
-        "Impact bullish"
-      ],
-      "text": "Canada core retail sales MoM Apr +0.1% vs +0.7% expected; prior revised from 1.4% to 1.2%."
-    },
-    {
-      "id": "4945151",
-      "time": "2026-06-19 20:30:09",
-      "tags": [
-        "其他"
-      ],
-      "text": "加拿大4月份零售銷售額環比增長0.5%，此前預期為增長0.6%。"
-    },
-    {
-      "id": "mkt:019edfdc-2b61-7dd8-b094-f92562af847c",
-      "time": "2026-06-19 20:30:08",
-      "tags": [
-        "MKT News",
-        "Important",
-        "DXY",
-        "Impact bullish",
-        "USDJPY"
-      ],
-      "text": "Canada April retail sales MoM +0.5% vs 0.6% expected; prior +0.9%."
-    },
-    {
-      "id": "mkt:019edfdc-0cca-7dd8-b094-f0536ea95b3b",
-      "time": "2026-06-19 20:30:00",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "Canada | Core Retail Sales (MoM) (Apr) | actual 0.1% | consensus 0.7% | previous 1.40%"
-    },
-    {
-      "id": "mkt:019edfdc-0cc4-7dd8-b094-ea1794a89809",
-      "time": "2026-06-19 20:30:00",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "Canada | Retail Sales (MoM) (Apr) | actual 0.5% | consensus 0.60% | previous 0.90%"
-    },
-    {
-      "id": "4945150",
-      "time": "2026-06-19 20:29:55",
-      "tags": [
-        "公司"
-      ],
-      "text": "裕信銀行目前已持有德國商業銀行 26.77% 的股份。"
-    },
-    {
-      "id": "4945149",
-      "time": "2026-06-19 20:29:42",
-      "tags": [
-        "公司"
-      ],
-      "text": "裕信銀行收購要約中，德國商業銀行 12.51% 股份已完成申報交割。"
-    },
-    {
-      "id": "te:markets:560484",
-      "time": "2026-06-19 20:29:19",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "TTF Prices Rise as Supply Recovery Doubts Grow — European natural gas prices rose 3.8% to around €42/MWh as market confidence in a swift supply recovery faded. Renewed attacks in Lebanon and the cancellation of planned talks aimed at solidifying a preliminary US-Iran truce weighed on sentiment. Although an earlier interim agreement between Washington and Tehran had briefly raised expectations of improved flows, shipping data showed no outbound tanker movements from the Persian Gulf on Friday morning after a short-lived increase in activity earlier in the week. Weather also supported prices, with forecasts of high temperatures across Europe expected to boost cooling demand. EU gas storage levels are currently around 45.56% full, compared with 54.38% a year earlier and 14% below the five-year average, while net injections in June are running below seasonal norms. Prices had fallen nearly 20% over the previous week on hopes that a US-Iran agreement would reopen the Strait of Hormuz and restore LNG flows from the Gulf."
-    },
-    {
-      "id": "4945148",
-      "time": "2026-06-19 20:28:43",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "俄羅斯央行行長納比烏琳娜：我失聲了一段時間。"
-    },
-    {
-      "id": "mkt:019edfda-8b5e-7dd8-b094-e14f890ec860",
-      "time": "2026-06-19 20:28:22",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Russian central bank governor Nabiullina confirmed she had the flu."
-    },
-    {
-      "id": "te:markets:560483",
-      "time": "2026-06-19 20:28:21",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Euro Area",
-        "Stock Market",
-        "Importance 2"
-      ],
-      "text": "European Stocks Cautious on Friday — Stocks in Europe were cautious on Friday, with both the STOXX 50 and STOXX 600 down 0.1%, putting them on track to close the session in the red, and pausing a six-day winning streak. Sentiment weakened after renewed geopolitical concerns in the Middle East, following the cancellation of scheduled US–Iran talks in Geneva. The development raised doubts about the prospects for a peace agreement and the reopening of the Strait of Hormuz, helping to push oil prices slightly higher. Among individual movers, ASML Holding fell 1.1% after Bloomberg reported that US officials are investigating whether one of the company’s chipmaking machines may have been transferred to China, potentially breaching US-led export restrictions. L’Oréal declined 2.9%, while Hermès dropped 1.8%. On the other hand, energy and healthcare stocks outperformed. Novo Nordisk surged nearly 5% after several analysts upgraded the stock. For the week, the STOXX 50 is up 2.1%, while the STOXX 600 has gained 0.6%."
-    },
-    {
-      "id": "4945147",
-      "time": "2026-06-19 20:28:08",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "俄羅斯央行行長納比烏琳娜：確認我患上了流感。"
     }
   ]
 }
