@@ -1,7 +1,45 @@
 {
-  "updated": "2026-06-27 00:29:00",
-  "count": 18000,
+  "updated": "2026-06-27 00:33:20",
+  "count": 18002,
   "items": [
+    {
+      "id": "mkt:019f04c5-ae51-7dd8-b13b-5b0ec3f29e48",
+      "time": "2026-06-27 00:31:31",
+      "tags": [
+        "MKT News",
+        "S&P500",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish",
+        "XAUUSD"
+      ],
+      "text": "Ukrainian President Zelenskiy said Kyiv is continuing to free people from Russian captivity; today another 160 soldiers returned home."
+    },
+    {
+      "id": "mkt:019f04c5-4c56-7dd8-b13b-537a49909ed0",
+      "time": "2026-06-27 00:31:06",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Hezbollah leader says Israel will leave Lebanon \"in shame and defeat\"."
+    },
+    {
+      "id": "mkt:019f04c4-1223-7dd8-b13b-4a638a3e37ec",
+      "time": "2026-06-27 00:29:46",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Quake damages Caracas airport; carriers suspend commercial flights】Local time June 26 — Caracas’s Maiquetía Simón Bolívar International Airport, Venezuela’s largest airport, sustained structural damage in an earthquake and remains closed; commercial flights are suspended. Copa Airlines said on June 26 it has suspended flights between Panama City’s Tocumen International Airport and Maiquetía from June 24 through July 2. To evacuate affected passengers, Copa will add two daily commercial flights between Panama City and Valencia (Carabobo state) from June 26 to July 2, increasing service from one to three daily flights."
+    },
+    {
+      "id": "4957861",
+      "time": "2026-06-27 00:29:25",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【受地震影響 多家航司停飛往返委內瑞拉首都機場商業航班】當地時間26日，總檯記者獲悉，受地震影響，委內瑞拉首都加拉加斯附近的全國最大機場——邁克蒂亞西蒙·玻利瓦爾國際機場建築受損，目前仍處於關閉狀態，商業航班暫停運營。巴拿馬航空公司26日表示，從24日起，往返巴拿馬城託庫門國際機場和邁克蒂亞西蒙·玻利瓦爾國際機場之間的航班暫停運營，直至7月2日。此外，為疏散因邁克蒂亞西蒙·玻利瓦爾國際機場臨時關閉而受到影響的乘客，從6月26日起到7月2日，巴拿馬航空公司在巴拿馬城和委內瑞拉卡拉沃沃州首府巴倫西亞之間，每日新增2趟商業航班，從此前的1趟增加至3趟。哥倫比亞國家航空公司表示，受到航班暫停影響，為6月24日至7月1日往返加拉加斯的乘客提供改簽和退票服務。與此同時，美國航空公司也宣佈暫停往返加拉加斯的航班。（央視新聞）"
+    },
     {
       "id": "mkt:019f04c2-9680-7dd8-b13b-46a3cbb5f126",
       "time": "2026-06-27 00:28:09",
@@ -164559,23 +164597,6 @@
         "國際"
       ],
       "text": "以色列媒體訊息：美國國務卿魯比奧將與以色列總理內塔尼亞胡通電話。"
-    },
-    {
-      "id": "4945363",
-      "time": "2026-06-20 00:32:00",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【厄爾尼諾現象正助推席捲歐洲的創紀錄熱浪】受厄爾尼諾現象助推，預計西歐的熱浪本週末將進一步加劇，法國正朝著創紀錄的高溫邁進。這股熱浪的成因是歐洲大陸上空的一個高壓穹頂，下沉的空氣向地面壓縮導致氣溫升高。大宗商品氣象集團（Commodity Weather Group）的氣象學家William Henneberg表示，正在發展的強厄爾尼諾現象以及北大西洋的冷水團進一步強化了這一模式，這有助於在海洋上空形成急流凹陷，並將高壓系統推向歐洲。“這種情況非常罕見，”他補充說，這種天氣模式可能會持續，並導致7月初之前氣溫高於正常水平。"
-    },
-    {
-      "id": "mkt:019ee0b9-8618-7dd8-b099-7e59b78c5ff4",
-      "time": "2026-06-20 00:31:55",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Russia Agriculture Ministry: YTD mineral fertilizer exports up 7% to $5.5bln】Russia's Agriculture Ministry said year-to-date mineral fertilizer exports rose 7% to $5.5 billion. The ministry said total agricultural-technology exports since the start of 2026 reached $5.9 billion, up 6% versus the same period in 2025."
     }
   ]
 }
