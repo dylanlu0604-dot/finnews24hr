@@ -1,7 +1,145 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-06-27 03:49:07_
-_本檔包含 3800 則快訊，約 668551 字_
+_更新時間：2026-06-27 04:13:09_
+_本檔包含 3789 則快訊，約 669151 字_
+
+---
+
+### 2026-06-25 23:00:37  #MKT News #Economic Calendar #Important
+
+United States | Kansas Fed Manufacturing Production Index (Jun) | actual 19 | previous 9
+
+---
+
+### 2026-06-25 23:00:35  #MKT News #Macro & Rates #US Economy #S&P500 #Impact bullish #DXY #Impact bearish #US10Y
+
+US June Kansas City Fed manufacturing composite index 11, prior 8.
+
+---
+
+### 2026-06-25 23:00:32  #央行 #國際
+
+美國6月堪薩斯聯儲製造業綜合指數 11，前值8。
+
+---
+
+### 2026-06-25 23:00:27  #MKT News #Economic Calendar #Important
+
+United States | Kansas Fed Manufacturing Index (Jun) | actual 11 | previous 8
+
+---
+
+### 2026-06-25 23:00:02  #市場
+
+【夜盤期貨收盤】20號膠連續跌3.36%，低硫燃料油連續漲2.68%，液化石油氣連續漲2.00%，聚丙烯連續漲1.93%，天然橡膠連續跌1.89%。
+
+---
+
+### 2026-06-25 23:00:02  #Trading Economics #Markets #Currency #Importance 1
+
+FX Updates: Brazilian Real Increases by 0.46% — Top currency gainers are Brazilian Real (0.46%), Swedish Krona (0.33%), Swiss Franc (0.28%), British Pound (0.27%), Euro (0.16%) and Japanese Yen (0.10%). Biggest loser is Dollar Index (-0.22%).
+
+---
+
+### 2026-06-25 22:58:25  #其他
+
+【四川7月1日起調整居民階梯電價】近日，四川省發展改革委印發《關於調整我省居民階梯電價政策有關事項的通知》，明確自7月1日起正式調整居民階梯電價政策。  政策調整後，夏季（7-9月）居民月階梯電量分檔標準顯著提高：第一檔電量由原180度上調至260度，覆蓋0-260度區間；第二檔電量調整為261-460度，較原181-280度區間大幅擴容；第三檔電量仍為460度以上。其餘月份（1-6月、10-12月）階梯電量分檔維持原標準，即第一檔0-180度、第二檔181-280度、第三檔280度以上。階梯電價標準保持不變，第一檔、第二檔、第三檔電價仍分別為0.5224元/度、0.6224元/度、0.8224元/度。
+
+---
+
+### 2026-06-25 22:57:59  #MKT News
+
+Hungarian Prime Minister Magyar said the government has not yet discussed a phased removal of price caps, but the measure is worth considering.
+
+---
+
+### 2026-06-25 22:57:10  #其他
+
+匈牙利總理：但這一舉措或許值得考慮。
+
+---
+
+### 2026-06-25 22:56:41  #其他
+
+匈牙利總理：政府尚未討論分階段取消價格上限的相關事宜。
+
+---
+
+### 2026-06-25 22:56:23  #國際
+
+墨西哥總統：美國農業部長將於週六為墨西哥一座不育果蠅工廠揭幕，以開展螺旋蠅防治工作。
+
+---
+
+### 2026-06-25 22:56:00  #MKT News #WTI #Impact bearish #Brent
+
+【Strait of Hormuz transit recovers to about 57% of pre-conflict levels】S&P Global said on the 25th that 78 vessels transited the Strait of Hormuz on the 24th, the highest daily count since the Iran conflict began. The month's daily average transit rate has recovered to roughly 57% of pre-conflict levels; cumulative transits reached 551 as of the 24th and the month is on track to be the busiest since the conflict began. Departing vessels include ships long idled by the conflict as well as recent entrants, signaling early normalization of shipping activity, though continuation depends on consolidation and implementation of related agreements.
+
+---
+
+### 2026-06-25 22:55:50  #公司 #國際
+
+【霍爾木茲海峽通航量恢復至戰事前近六成水平】標普全球能源公司25日釋出報告說，24日共有78艘船舶透過霍爾木茲海峽，創下伊朗戰事爆發以來單日最高通航紀錄。本月霍爾木茲海峽的船舶日均通航量已恢復至衝突前水平的約57%。報告說，截至24日，本月累計有551艘船舶透過霍爾木茲海峽，有望成為戰事爆發以來通航量最高的月份。報告指出，近期駛離霍爾木茲海峽的船舶不僅包括因衝突而長期滯留的船舶，也包括近期進入的船舶，反映出航運活動初步正常化跡象。不過，海峽通航量回升態勢能否持續仍有待觀察，相關協議仍需進一步鞏固和落實。（新華社）
+
+---
+
+### 2026-06-25 22:55:38  #MKT News #WTI #Impact bullish #Brent #XAUUSD
+
+【Iran proposes fees for Strait of Hormuz; potential annual revenue $40 bln】According to officials, Iran is proposing security, protection and environmental service fees for passage through the Strait of Hormuz that could generate about $40 bln a year for participating states if implemented. Officials say the plan would give Tehran cash flow and control it did not previously possess and is modelled on international precedents including the Dardanelles, where Turkey levies a transit charge known as the "gold franc." Iran is pitching the proposal to Gulf neighbours and other countries and seeks to include them in a revenue-sharing arrangement. Parliament speaker Ghalibaf visited Oman on Tuesday to discuss the proposal, saying management of the strait will not revert to the previous status quo.
+
+---
+
+### 2026-06-25 22:55:33  #國際
+
+【伊朗擬對霍爾木茲收費 相關年收入或達400億美元】據知情官員透露，伊朗估計，對霍爾木茲海峽的安全、安保和環境服務收費，每年將為相關國家帶來400億美元的收入。如果這一想法得以實施，將為德黑蘭帶來戰前所不具備的現金流和控制權。這些官員表示，伊朗政權正在借鑑世界各地的模式，包括達達尼爾海峽。在達達尼爾海峽，土耳其對往返愛琴海的船隻徵收一種名為“金法郎”的稅，用於支付透過該國際水道的通行費。據伊朗官員稱，為了獲得支援，德黑蘭正在向更廣泛的中東地區乃至更遠的國家推介這一想法。他們表示，伊朗希望其波斯灣鄰國也能加入該協議，並分享收入。伊朗議會議長卡利巴夫週二訪問阿曼，與鄰國討論擬議安排時表示，每個人都需要明白，海峽的管理方式永遠不會再回到以前那樣了。
+
+---
+
+### 2026-06-25 22:54:51  #其他
+
+【Adobe 宣佈收購 Topaz Labs 強化 AI 影片與影象佈局，交易預計 2026 年下半年完成】Adobe 今日宣佈已與 AI 影象及影片增強工具開發商 Topaz Labs 達成最終收購協議。交易預計在 2026 年下半年完成，尚需獲得監管部門批准並滿足其他慣例成交條件。Adobe 近年來在創意工具領域面臨著來自 Canva 以及 DaVinci Resolve 開發商 Blackmagic Design 的激烈競爭。透過將 Topaz Labs 納入麾下，Adobe 旨在進一步鞏固其創意軟體生態，防止使用者流向其他影片編輯與增強軟體。
+
+---
+
+### 2026-06-25 22:54:30  #市場 #國際
+
+【2026年上半年香港引資逾530億港元】香港特區政府投資推廣署25日舉辦年度國際及內地企業來港發展歡迎會，現場釋出了2026年上半年招商引資工作成果。 據介紹，今年1月至今，投資推廣署共協助413家海外和內地企業在港開設或拓展業務。預計這些企業帶來超過530億港元的外來直接投資，同比增長36%，併為香港創造超8600個新職位。 從企業來源地看，內地企業佔比六成，是香港招商引資的最大來源；其餘主要來源地包括歐洲和亞洲等地區。所涉及行業覆蓋香港經濟發展的重點領域，包括創新科技、金融服務、商務及專業服務和黃金及大宗商品交易等。（新華社）
+
+---
+
+### 2026-06-25 22:53:35  #公司
+
+【慧侖科技與廣汽動力BU簽署戰略合作協議 聚力佈局萬臺人形機器人規模化量產賽道】6月25日，廣汽集團旗下廣東慧侖科技有限公司（簡稱“慧侖科技”）與廣汽集團動力業務單元（簡稱“廣汽動力BU”）正式簽署戰略合作協議。本次合作，雙方將鎖定四大核心方向開展全方位協同：人形機器人整機總裝、測試、聯合、共建省市級具身智慧機器人創新中心、機器人關節模組的研發、製造及市場應用、探索具身智慧人形機器人在工業場景中應用落地。尤為值得關注的是，雙方將搭建深度協同一體化合作體系，聚力佈局萬臺人形機器人規模化量產賽道。
+
+---
+
+### 2026-06-25 22:53:28  #公司 #觀點
+
+【摩根大通高管突然離職 戴蒙接班人之爭變成“兩強對決”】摩根大通任命Troy Rohrbaugh和Doug Petno為聯席總裁，而消費者銀行業務主管Marianne Lake突然離職，標誌著執行長傑米·戴蒙的接班人之爭又出現轉折。新任命讓Rohrbaugh和Petno進入了未來某一天接替現年70歲的戴蒙的雙人競賽。作為華爾街老將，Rohrbaugh將接替Lake，執掌摩根大通龐大的消費者業務。根據週四的一份宣告，Petno將擔任商業和投資銀行業務唯一執行長。
+
+---
+
+### 2026-06-25 22:52:32  #Trading Economics #Markets #United States #Stock Market #Importance 2
+
+Tech Stocks Trader Mixed, Dow Rises to Record — Tech heavyweight companies in the US diverged further on Thursday, as hyperscale cloud providers sank and chip producers rallied. The S&P 500 and the Nasdaq 100 were slightly higher, while gains in non-tech sectors lifted the Dow to a new record of 52,500. Micron surged 10% after beating earnings and forecasting a revenue of $50 billion in the quarter to August, above the expectations, and Qualcomm jumped 5% after doubling its projection for non-handset revenue in the next three years. Other chip stocks rallied. On the other hand, Nvidia, Oracle, Amazon, Alphabet, and Microsoft dropped more than 2% to stretch the pivot from software companies to AI infrastructure developers. Softer inflationary risks also supported broader sectors as energy prices continued fall and PCE price indices refrained from overshooting expectations. J&J and Caterpillar gained 5% each. Banking shares also rose as lenders will raise their dividends after passing the Federal Reserve's stress test.
+
+---
+
+### 2026-06-25 22:52:03  #國際
+
+市場訊息：伊朗估計，對霍爾木茲海峽的安保、安全與環境服務收費。
+
+---
+
+### 2026-06-25 22:51:46  #國際
+
+市場訊息：伊朗若要徵收任何通航服務費，均需獲得國際海事組織批准。
+
+---
+
+### 2026-06-25 22:50:33  #其他
+
+【LABUBU復古理髮店上線秒罄】6月25日晚，泡泡瑪特旗下頭部IP LABUBU推出的“復古理髮店”系列正式發售。 盲盒一共包含7款角色，其中6款為普通款，1款為隱藏款，每個售價159元，整盒954元，售價和規格與今年3月發售的三麗鷗聯名系列相同。 藍鯨記者在開售當晚實測搶購，進入購買頁面後隨即顯示“排隊人數過多”，短短數秒內，該系列盲盒便已售罄。隨後記者查詢發現，不僅官方小程式，淘寶等全平臺也顯示無貨。 供需缺口帶動該系列產品在市場上出現明顯溢價，得物App價格圖顯示，隱藏款“迷霧白噪音”溢價至1200元，溢價超6倍；“絲絨午後”是常規款中溢價最高的一款，價格達265元。（藍鯨新聞）
 
 ---
 
@@ -22691,209 +22829,5 @@ US Stocks Edge Higher After Chip Selloff — US equity indices inched higher on 
 ### 2026-06-24 21:36:22  #Trading Economics #Markets #United States #stocks #Importance 1
 
 Stryker Stock Price Hits 4-week High — Stryker shares increased to 315.68 USD, the highest since May 2026. Over the past 4 weeks, Stryker gained 0.74%, and in the last 12 months, it decreased 18.41%.
-
----
-
-### 2026-06-24 21:36:05  #Trading Economics #Markets #Switzerland #Stock Market #Importance 0
-
-Stocks in Switzerland Hit All-time High — CH20 increased to an all-time high of 14104.00 Index Points. Over the past 4 weeks, Switzerland Stock Market Index (CH20) gained 4.24%, and in the last 12 months, it increased 18.68%.
-
----
-
-### 2026-06-24 21:35:58  #市場
-
-溫蒂漢堡股價上漲37%後因波動而暫停交易。
-
----
-
-### 2026-06-24 21:35:54  #其他
-
-【法國遭遇創紀錄高溫 盧浮宮等景點提前關門】法國23日遭遇自1947年有氣象觀測記錄以來的最熱一天，巴黎盧浮宮和埃菲爾鐵塔被迫提前關閉，不少吃閉門羹的遊客在酷暑中敗興離去。據法國氣象局公佈的資料，法國23日全國平均氣溫達到29.8攝氏度，成為有氣象觀測記錄以來最熱一天。多地景區運營方宣佈縮短開放時間，提醒遊客推遲參觀計劃。盧浮宮管理方說，這座歷經數百年的建築“未能充分適應氣候變化”，將於24日至27日每天提前2小時、於16時停止對外開放。埃菲爾鐵塔往年暑期旺季通常開放到午夜，但其運營方23日發表宣告說，當天提早至16時關閉，且24日“極有可能”繼續縮短開放時間。（新華社）
-
----
-
-### 2026-06-24 21:35:07  #市場 #央行 #國際
-
-【金價跌破4,000美元，貴金屬礦商股大跌】隨著金價自2025年11月以來首次跌破每盎司4,000美元，倫敦礦業股大跌。市場對美聯儲加息的預期拖累了這種無收益的黃色金屬，同時美元走強也令金價承壓，因為這增加了外國買家的購買成本。銀價大幅下跌也拖累了礦商股。紐約黃金期貨下跌4%，至每盎司3,984.40美元，而白銀期貨下跌5.9%，至每盎司58.38美元。在倫敦上市的Hochschild在整個交易日中跌幅加劇，其股價在後市交易中下跌超過9%，觸及六個月低點。白銀礦商Fresnillo下跌5.1%，而專門開採西非黃金的Endeavour Mining大跌5.25%。
-
----
-
-### 2026-06-24 21:34:40  #國際
-
-美國郵政署署長在參議院作證時表示，需要國會採取行動解決財務困境：“歸根結底，我們已經沒錢了”。
-
----
-
-### 2026-06-24 21:34:30  #其他
-
-【龐淑欽任中國進出口銀行上海分行黨委書記、行長】據中國進出口銀行訊息，中國進出口銀行黨委決定：龐淑欽任上海分行黨委書記、行長。
-
----
-
-### 2026-06-24 21:34:07  #市場 #焦點
-
-納斯達克中國金龍指數跌超0.5%，金生遊樂跌5.81%，海天網路跌5.37%，金山雲跌3.48%，中比能源跌2.99%，愛奇藝跌1.92%。
-
----
-
-### 2026-06-24 21:33:56  #市場
-
-現貨黃金短線反彈20美元，現報3994美元/盎司。
-
----
-
-### 2026-06-24 21:33:52  #MKT News #Commodities #Precious Metals #XAUUSD #Impact bullish
-
-Spot gold briefly rallied $20 to $3,994/oz.
-
----
-
-### 2026-06-24 21:33:31  #公司 #市場
-
-赫茲全球股價下跌21.7%；公司申請發行至多1億美元股票。
-
----
-
-### 2026-06-24 21:33:02  #其他
-
-一位高管表示，道達爾能源預計明年啟動鑽井專案，以拓展其在蘇利南的勘探靶區。
-
----
-
-### 2026-06-24 21:32:51  #公司
-
-【湖南鋼鐵集團與宇樹科技簽訂戰略合作協議】6月24日，湖南鋼鐵集團和宇樹科技在長沙簽訂戰略合作協議。集團旗下鋼鐵上市平臺華菱鋼鐵、集團資訊化數字化戰略落地子公司華菱雲創與宇樹科技簽約共同打造首個鋼鐵行業具身智慧機器人創新實驗室，將在智慧巡檢與運維、應急指揮與處置、智慧工廠實施、智慧生產執行、智慧倉儲物流等合作領域開展深度合作。
-
----
-
-### 2026-06-24 21:32:50  #MKT News
-
-Bilibili (BILI.O) shares rose 2.9% after the company announced a new $300 million share repurchase program.
-
----
-
-### 2026-06-24 21:32:47  #市場
-
-黃金價格跌破每盎司4000美元，在美上市黃金礦商股價走低。道富環球投資管理黃金ETF（SPDR GOLD SHARES ETF）下跌3.2%。金田股價下跌5.8%，哈莫尼黃金下跌5.7%，金羅斯黃金下跌4.7%。紐蒙特股價下跌4.5%，西班耶斯蒂爾沃特股價下跌6%，盎格魯黃金阿散蒂股價下跌6.1%。
-
----
-
-### 2026-06-24 21:32:34  #市場 #焦點
-
-聚丙烯連續主力合約日內跌3%，現報7135.00元。
-
----
-
-### 2026-06-24 21:32:09  #MKT News #Important #WTI #Impact bearish
-
-【WTI crude futures slip below $70/bbl】WTI crude futures slipped below $70/bbl, down 4.40% on the day.
-
----
-
-### 2026-06-24 21:32:03  #公司 #市場
-
-Take-Two Interactive軟體公司將《俠盜獵車手6》定價為79.99美元，並確認將於11月19日如期發售，訊息公佈後該公司股價上漲1%。
-
----
-
-### 2026-06-24 21:31:41  #MKT News #Market Regions #Wall Street (US) #Dow #Impact bearish #S&P500 #Impact bullish #Nasdaq100
-
-U.S. equities opened mixed on Wednesday, June 24: Dow Jones Industrial Average opened down 18.65 points (-0.04%) at 51,648.19; S&P 500 opened up 12.68 points (+0.17%) at 7,378.14; Nasdaq Composite opened up 36.90 points (+0.14%) at 25,623.94.
-
----
-
-### 2026-06-24 21:31:28  #MKT News #Important #Market Regions #Wall Street (US) #AVGO.O #Impact bullish #MU.O #SPCX.O #Impact bearish
-
-US open: Dow Jones flat, S&P 500 +0.1%, Nasdaq +0.15%. Broadcom (AVGO.O) +1% after the company and OpenAI unveiled an AI chip aimed at running models faster and more cheaply. Micron Technology (MU.O) +0.5% ahead of its Q3 results. SpaceX (SPCX.O) -0.98% at the open.
-
----
-
-### 2026-06-24 21:31:25  #國際
-
-市場訊息：俄羅斯向哈薩克尋求汽油供應以緩解國內短缺。
-
----
-
-### 2026-06-24 21:31:12  #公司 #市場 #國際
-
-嗶哩嗶哩美國上市股票在公司宣佈新的3億美元股票回購計劃後上漲2.9%。
-
----
-
-### 2026-06-24 21:31:04  #觀點
-
-Taktile 完成 1.1 億美元 C 輪融資，高盛領投。
-
----
-
-### 2026-06-24 21:30:48  #市場 #焦點
-
-【美股開盤：三大股指漲跌不一】道指跌0.04%，標普500指數漲0.09%，納指漲0.05%。皇家加勒比郵輪漲3.31%，Builders FirstSource漲3.22%，繽客漲3.00%，紐曼礦業跌4.32%，麥克莫蘭銅金跌3.57%，阿帕奇公司跌3.51%。“七姐妹”方面：谷歌漲1.06%，英偉達漲0.20%，特斯拉漲0.05%，亞馬遜跌0.13%，蘋果跌0.22%，Meta Platforms跌0.43%，微軟跌0.50%。
-
----
-
-### 2026-06-24 21:30:39  #公司 #市場
-
-博通股價在OpenAI與該公司推出大語言模型最佳化智慧處理器後上漲1.3%。
-
----
-
-### 2026-06-24 21:30:36  #市場 #焦點
-
-WTI原油失守70美元/桶，日內跌4.40%。
-
----
-
-### 2026-06-24 21:30:24  #宏觀
-
-多倫多股票交易所S&P/TSX綜合指數<.GSPTSE>開盤下跌109.10點，跌幅0.31%，報34818.28點。
-
----
-
-### 2026-06-24 21:30:20  #MKT News #Important #Commodities #Energy #WTI #Impact bearish #Brent
-
-China SC2608 crude futures tumbled intraday, losses widening to 3.97% at 469.7 yuan/barrel; turnover about 4.51 bln yuan. Open interest fell nearly 400 contracts, leaving positions slightly lower.
-
----
-
-### 2026-06-24 21:30:02  #Trading Economics #Markets #commodity #Importance 0
-
-GSCI Hits 16-week Low — GSCI decreased to 613.30 Index Points, the lowest since March 2026. Over the past 4 weeks, GSCI Commodity Index lost 13.84%, and in the last 12 months, it increased 13.17%.
-
----
-
-### 2026-06-24 21:29:55  #MKT News #Commodities #Energy
-
-Interfax: Russian deputy prime minister ordered priority allocation of fuel to regions affected by seasonal factors.
-
----
-
-### 2026-06-24 21:29:50  #公司 #市場
-
-【旭光電子：10個交易日股價漲幅超100% 提示交易風險】旭光電子公告稱，2026年6月10日至6月24日，公司股票連續10個交易日收盤價格漲幅偏離值累計超100%，累計漲幅達102.76%，屬嚴重異常波動。公司市盈率、市淨率明顯高於行業水平，近10個交易日換手率較高，期間已發3次異常波動公告、2次交易風險提示公告。公司在可控核聚變領域非產業鏈主導企業，年初至今相關產品訂單未交付實現收入，一季度氮化鋁產品營收佔比約5%。提醒投資者注意交易風險。
-
----
-
-### 2026-06-24 21:29:31  #MKT News #Important #Commodities #Energy #WTI #Impact bearish #Brent
-
-【WTI and Brent intraday losses widen to 4%】WTI crude down 4.00% intraday at $70.66/bbl; Brent crude down 4.00% intraday at $73.66/bbl.
-
----
-
-### 2026-06-24 21:29:23  #其他
-
-瑞士國防部長表示，第二套導彈防禦系統的訂單金額達數十億美元。
-
----
-
-### 2026-06-24 21:29:12  #公司 #市場 #觀點
-
-【摩根大通策略師上調標普500指數年終目標至7800點】摩根大通策略師上調了標普500指數的年終目標價，指出該指數正逼近他們設定的理想情景。將標普500指數的年終目標從7600點上調至7800點，2026年每股收益(EPS)預期從330美元上調至350美元，“對於明年，我們仍持建設性看法，但預計每股收益為390美元（同比增長15%），這一數字低於當前的共識，反映了AI相關定價權減弱的風險”，以Dubravko Lakos-Bujas為首的策略師表示，他們本應對盈利增長前景持“更為樂觀”的態度，指出今年以來的市場共識盈利增長預期“已被上調至未來兩年平均約20%的水平，這與AI資本支出近乎翻倍的趨勢同步”。儘管Lakos-Bujas提高了他的年終目標價，但他強調，上漲之路“很可能是非線性的，因為市場需要克服各種障礙”，“連續強勁的盈利表現提高了市場在第二季度財報季前的預期門檻，使得企業在盈利和資本支出方面實現大幅超預期的難度增加”。
-
----
-
-### 2026-06-24 21:28:41  #Trading Economics #Markets #Commodity #Importance 2
-
-Gold Below $4000 — Gold prices tumbled more than 3% to below $4,000 per ounce on Wednesday, hitting their lowest level since November 2025. The precious metal came under pressure from a stronger US dollar and growing expectations that the Fed will maintain a hawkish stance, with traders increasingly betting on an interest-rate increase later this year. Markets currently assign a roughly 68% probability of a Fed rate hike in September, up from 29% a week ago. Bullion is now down about 5% year-to-date and nearly 20% below its January record high, reached before the outbreak of the conflict involving Iran. Despite heightened geopolitical uncertainty, gold has struggled to retain its traditional safe-haven appeal during the war. A surge in oil prices has fueled inflation concerns, prompting major central banks to adopt a more restrictive monetary policy stance and increasing the opportunity cost of holding non-yielding assets such as gold.
 
 ---

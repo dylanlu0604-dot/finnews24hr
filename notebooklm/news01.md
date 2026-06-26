@@ -1,7 +1,331 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-06-27 03:49:07_
-_本檔包含 3600 則快訊，約 668784 字_
+_更新時間：2026-06-27 04:13:09_
+_本檔包含 3631 則快訊，約 669142 字_
+
+---
+
+### 2026-06-27 04:12:01  #MKT News #Macro & Rates #The Fed (FOMC) #S&P500 #Impact bearish #DXY #Impact bullish #US10Y
+
+S&P expects the Fed will continue to face challenges in reducing inf and addressing financial-market vulnerabilities.
+
+---
+
+### 2026-06-27 04:11:46  #MKT News #Macro & Rates #The Fed (FOMC) #S&P500 #Impact bearish #DXY #Impact bullish #US10Y
+
+S&P expects the Federal Reserve to remain firmly committed to steering inf back toward its target.
+
+---
+
+### 2026-06-27 04:11:43  #國際
+
+標普關於美國市場觀點：預計強勁的人工智慧投資仍將是整體投資的核心推動力。
+
+---
+
+### 2026-06-27 04:11:35  #MKT News #S&P500 #Impact bullish
+
+S&P said it still expects key institutions and checks and balances to continue functioning, keeping policy outcomes stable despite rising U.S. political polarization.
+
+---
+
+### 2026-06-27 04:11:20  #國際
+
+【美稱設立軍事協調小組協助落實美以黎三方框架協議】當地時間6月26日，美國國務卿魯比奧釋出宣告表示，當日，美國、黎巴嫩和以色列簽署三方框架協議。宣告稱，該協議確立了一個清晰且有條理的程序，旨在恢復黎巴嫩主權，解除黎巴嫩真主黨武裝並拆除其基礎設施，同時確保在針對公民的威脅消除後，以色列能夠重返其邊界。協議還設立了由美國推動的“黎巴嫩三方軍事協調小組”，以協助雙方落實該框架協議。宣告還稱，美國將繼續參與相關程序，包括與聯合國協調，立即提供1億美元的人道主義援助。美國國防部準備依據現行授權及撥款，向黎巴嫩武裝部隊提供超過3000萬美元的資金，以支援黎巴嫩實現持久和平。美國計劃與地區夥伴密切合作，落實這一框架。（央視新聞）
+
+---
+
+### 2026-06-27 04:11:18  #MKT News #Macro & Rates #US Economy
+
+S&P forecasts U.S. real GDP growth of about 2% annually from 2026 through 2029.
+
+---
+
+### 2026-06-27 04:11:04  #MKT News #Macro & Rates #US Economy #US10Y #Impact bearish #S&P500 #DXY #Impact bullish
+
+S&P expects US general government net debt to approach 100% of GDP as non-discretionary interest costs and aging-related spending rise structurally.
+
+---
+
+### 2026-06-27 04:10:49  #MKT News #Market Themes #Chip Wars #Nasdaq100 #Impact bearish #S&P500
+
+PHLX Semiconductor Index (SOX) fell 7.9% this week, its largest weekly decline since early April.
+
+---
+
+### 2026-06-27 04:10:46  #央行 #國際
+
+標普關於美國經濟的觀點：預計美聯儲將繼續應對降低通脹與化解金融市場脆弱性的挑戰。
+
+---
+
+### 2026-06-27 04:10:28  #央行 #國際
+
+標普關於美國經濟的觀點：我們預計美聯儲將堅定承諾引導通脹回落至其目標水平。
+
+---
+
+### 2026-06-27 04:10:21  #其他
+
+費城費城半導體指數本週跌7.9%，創4月初以來最大單週跌幅。
+
+---
+
+### 2026-06-27 04:10:13  #MKT News #Important
+
+Noor News reported explosions in Iran's Sirik region; source unknown.
+
+---
+
+### 2026-06-27 04:09:54  #國際
+
+標普：美國經濟的韌性應會支撐強勁的財政收入，持續加徵的關稅也將貢獻其中一部分收入。
+
+---
+
+### 2026-06-27 04:09:50  #國際
+
+標普關於美國的觀點：儘管兩極分化加劇，我們仍認為關鍵制度與權力制衡體系為政策結果提供了穩定支撐。
+
+---
+
+### 2026-06-27 04:09:46  #國際
+
+伊朗媒體：伊朗錫裡克地區聽到爆炸聲，訊息來源尚不明確。
+
+---
+
+### 2026-06-27 04:09:43  #MKT News #Important #US10Y #Impact bullish #DXY #Impact mixed #S&P500
+
+S&P affirmed the US sovereign credit rating at AA+/A-1+ and kept the outlook stable.
+
+---
+
+### 2026-06-27 04:09:32  #市場 #國際
+
+【美國股市在經歷動盪的一週後幾無變動】美國主要股指週五收盤幾無變動，此前經歷了一週動盪的交易，投資者從人工智慧相關投資轉向傳統避險資產。道瓊斯指數表現突出，連續第三週上漲，而納斯達克和標普500指數則走低。受對霍爾木茲海峽供應的樂觀情緒影響，油價回落至戰前水平。道瓊斯指數下跌44點，至51876點，跌幅0.1%；標普500指數下跌0.1%，至7353點；納斯達克下跌0.2%，至25297點。市場注意力將轉向勞動力資料，6月份就業人數報告將於週四在7月4日假期前釋出。
+
+---
+
+### 2026-06-27 04:09:32  #Trading Economics #Markets #United States #Stock Market #Importance 2
+
+US Stocks Dip as Chipmakers Retreat — US stock indexes closed lower on Friday, with the S&P 500 inching down 0.05%, the Nasdaq 100 losing 1.1%, and the Dow Jones slipping 44 points. Chipmakers led the declines as investors trimmed positions after Thursday’s rally, which had been fueled by strong guidance from Micron. Its shares fell 6.7%, while peers Nvidia (-1.3%) and Broadcom (-3.7%) also moved lower. The Dow traded more in line with its tech-heavy counterparts after Alphabet (-1.3%) replaced Verizon in the index, though it still ended near record highs. Broader losses were pared as lower oil prices eased inflation concerns, after evidence that tankers continued crossing the Strait of Hormuz improved the supply outlook for Middle Eastern energy and reduced fears of multiple Federal Reserve rate hikes this year. Still, sentiment remained cautious after President Donald Trump accused Iran of violating the ceasefire agreement by firing at cargo ships transiting the Strait, highlighting the fragility of the truce.
+
+---
+
+### 2026-06-27 04:08:49  #國際
+
+標普關於美國的評級展望：受非自主利息支出及老齡化相關支出結構性上升影響，預計美國一般政府淨債務佔GDP比重將接近100%。
+
+---
+
+### 2026-06-27 04:08:38  #國際
+
+標普關於美國信用評級的觀點：基於我們對經濟增長將持續保持穩健的預期，美國評級展望維持穩定。
+
+---
+
+### 2026-06-27 04:08:08  #國際
+
+標普全球評級確認美國主權實時全額結算系統評級為 AA+/A-1+，展望維持穩定。
+
+---
+
+### 2026-06-27 04:06:18  #MKT News
+
+【Israeli airstrikes in Gaza kill four, including three Gaza Interior Ministry police】Palestinian health officials said Israeli military airstrikes across the Gaza Strip killed four people. An Israeli drone struck a car near the entrance to the al‑Maghazi refugee camp in central Gaza, killing three and wounding several others. A separate strike in the northern town of Beit Lahiya killed a Palestinian youth. Three of the dead were police from the Gaza Interior Ministry, which is controlled by Hamas.
+
+---
+
+### 2026-06-27 04:05:37  #國際
+
+【以色列空襲加沙地帶多地致4人死亡】巴勒斯坦衛生部門訊息人士26日告訴新華社記者，以色列軍方當天對加沙地帶多地發動襲擊，造成4人死亡，其中包括3名隸屬於巴勒斯坦伊斯蘭抵抗運動（哈馬斯）控制的加沙內政部警察。訊息人士稱，一架以軍無人機向加沙地帶中部馬加齊難民營入口附近的一輛汽車發動空襲，導致3人死亡，另有多人受傷。同日，一名巴勒斯坦青年在加沙地帶北部拜特拉希亞鎮遭以軍空襲身亡。巴勒斯坦加沙地帶內政部門當日發表宣告證實，3名內政部警察在以軍對馬加齊難民營的空襲中身亡。目前，以軍尚未就這兩起事件作出回應。巴勒斯坦加沙地帶衛生部門25日釋出的最新資料顯示，自2025年10月10日加沙停火第一階段協議生效以來，已有1031名巴勒斯坦人在以方軍事行動中死亡、3309人受傷。（新華社）
+
+---
+
+### 2026-06-27 04:04:45  #國際
+
+針對伊朗校園襲擊事件的調查仍在推進審查中，調查襲擊事件過程中發現多處失誤，美國分析師相關言論位列其中。
+
+---
+
+### 2026-06-27 04:04:18  #國際
+
+美方分析師失實言論遭調查，該言論關聯造成傷亡的伊朗校園襲擊事件。
+
+---
+
+### 2026-06-27 04:03:54  #其他
+
+委內瑞拉石油部長表示，國內天然氣供應量足以滿足本土需求。
+
+---
+
+### 2026-06-27 04:03:31  #MKT News #Dow #Impact bearish #S&P500 #Nasdaq100
+
+Dow Jones Industrial Average closed down 46.67 points (-0.09%) at 51,873.95 on Friday, June 26; S&P 500 closed down 4.20 points (-0.06%) at 7,353.29; Nasdaq Composite closed down 60.99 points (-0.24%) at 25,297.62.
+
+---
+
+### 2026-06-27 04:03:30  #MKT News
+
+Venezuela's oil minister said operations are normal, wells remain active and total production is 1.2 mln bpd.
+
+---
+
+### 2026-06-27 04:02:36  #其他
+
+委內瑞拉石油部長表示，目前石油作業一切正常，油井均保持生產，整體產量為每日120萬桶。
+
+---
+
+### 2026-06-27 04:02:05  #市場
+
+SpaceX在納入羅素指數前最終上漲約0.15%。
+
+---
+
+### 2026-06-27 04:01:50  #市場
+
+安森美半導體收盤下跌24%，創2020年以來最大單日跌幅。
+
+---
+
+### 2026-06-27 04:01:21  #MKT News #Commodities #Energy
+
+Venezuela’s oil minister said the country’s fuel reserves are sufficient and authorities are assessing infrastructure to prevent shortages.
+
+---
+
+### 2026-06-27 04:01:19  #其他
+
+委內瑞拉石油部長表示，該國目前燃料儲備充足，主管部門正對能源基礎設施展開評估，以避免出現供應短缺。
+
+---
+
+### 2026-06-27 04:01:04  #其他
+
+多倫多綜合股指.GSPTSE非官方收漲129.79點，漲幅0.37%，報34980.00點。
+
+---
+
+### 2026-06-27 04:01:00  #市場
+
+本週，標普累跌約1.9%，道指累漲約0.4%連漲三週，納指累跌約4.4%。
+
+---
+
+### 2026-06-27 04:00:48  #市場 #焦點
+
+【美股收盤：三大股指集體收跌】道指跌0.12%，標普500指數跌0.07%，納指跌0.17%。ON SEMICONDUCTOR跌23.67%，西部資料跌13.13%，希捷跌12.44%，閃迪跌10.36%。“七姐妹”方面：微軟漲5.92%，蘋果漲3.38%，亞馬遜漲2.20%，Meta Platforms漲1.41%，特斯拉漲1.37%，英偉達跌1.44%，谷歌跌2.09%。
+
+---
+
+### 2026-06-27 04:00:02  #市場 #焦點
+
+【納斯達克中國金龍指數收漲0.91%】海天網路漲29.65%，網易漲7.86%，新氧漲6.78%，迅雷漲6.56%，好未來漲5.92%。
+
+---
+
+### 2026-06-27 03:58:05  #其他
+
+高通股價迅速延續跌勢，跌至當日低點9.1%。
+
+---
+
+### 2026-06-27 03:57:22  #市場
+
+思科股價快速跌至盤中低點，跌幅達 5%。
+
+---
+
+### 2026-06-27 03:56:47  #MKT News #BA.O #Impact bullish
+
+FITCH revised Boeing's outlook to Positive and affirmed its 'BBB-' credit rating.
+
+---
+
+### 2026-06-27 03:56:38  #MKT News
+
+SanDisk (SNDK.O) late-session losses widened to 11%.
+
+---
+
+### 2026-06-27 03:56:12  #MKT News
+
+When asked about Iran's actions in the Strait of Hormuz, US President Trump said observers should wait and see.
+
+---
+
+### 2026-06-27 03:56:03  #公司
+
+惠譽將波音公司的評級展望調整為正面；確認其發行人違約評級為“BBB-”。
+
+---
+
+### 2026-06-27 03:55:44  #國際
+
+記者問及伊朗涉嫌違反停火協議一事，特朗普回應：拭目以待。
+
+---
+
+### 2026-06-27 03:55:21  #公司 #市場
+
+閃迪公司股價在收盤前數分鐘因成交量激增觸及日內盤中低點，最新跌幅為11%。
+
+---
+
+### 2026-06-27 03:55:04  #資料 #市場 #國際
+
+【油價大跌之際，美債收益率下跌，美元上漲】本週地緣政治緊張局勢緩解導致油價下跌近10%，在此期間美債收益率下跌，美元走強。好壞參半的美國經濟指標和不斷下降的通脹預期拖累收益率走低。密歇根大學消費者信心指數升幅略高於預期，達到49.5。《華爾街日報》的一項調查顯示，週二公佈的世界大型企業研究會消費者信心指數預計將從93.1升至94.6。6月就業人數預計將從17.2萬人降至11.8萬人。華爾街日報美元指數本週下跌0.6%。10年期美債收益率連續第三週下跌，下降0.078個百分點，至4.372%；兩年期美債收益率下降0.090個百分點，至4.087%。
+
+---
+
+### 2026-06-27 03:54:55  #國際
+
+特朗普被問及伊朗違反停火協議一事時說：我不喜歡這樣。
+
+---
+
+### 2026-06-27 03:53:15  #公司 #市場
+
+應用材料公司股價迅速跌至當日最低點，下跌6.9%。
+
+---
+
+### 2026-06-27 03:52:38  #MKT News #Brent #Impact bearish #XAUUSD #S&P500 #Impact bullish
+
+Lebanon's prime minister said the framework agreed with Israel aims to secure Israel's withdrawal from all Lebanese territory.
+
+---
+
+### 2026-06-27 03:52:01  #國際
+
+黎巴嫩總理表示，已與以色列達成框架協議，目標是推動以色列撤出所有黎巴嫩領土。
+
+---
+
+### 2026-06-27 03:51:48  #市場
+
+蘋果股價迅速飆升至盤中最高點3.6%，隨後有所回落。
+
+---
+
+### 2026-06-27 03:50:02  #Trading Economics #Markets #United States #stocks #Importance 1
+
+Qualcomm Stock Price Hits 7-week Low — Qualcomm shares decreased to 189.53 USD, the lowest since May 2026. Over the past 4 weeks, Qualcomm lost 18.1%, and in the last 12 months, it increased 20.57%.
+
+---
+
+### 2026-06-27 03:49:36  #其他
+
+黎巴嫩總理表示，黎巴嫩在該框架下的義務是透過武裝力量將國家主權延伸至全境。
+
+---
+
+### 2026-06-27 03:49:32  #其他
+
+史賽克：持續佈局外科醫療、神經技術及骨科業務。 上述各項業務均構成獨立可報告分部。
 
 ---
 
@@ -21586,143 +21910,5 @@ IMF says the main concern about the impact of the Iran war is concentrated among
 ### 2026-06-25 23:00:45  #MKT News #Macro & Rates #The Fed (FOMC) #DXY #Impact bullish #S&P500 #US10Y #Impact bearish
 
 U.S. Kansas City Fed manufacturing production index (June) 19, prior 9.
-
----
-
-### 2026-06-25 23:00:37  #MKT News #Economic Calendar #Important
-
-United States | Kansas Fed Manufacturing Production Index (Jun) | actual 19 | previous 9
-
----
-
-### 2026-06-25 23:00:35  #MKT News #Macro & Rates #US Economy #S&P500 #Impact bullish #DXY #Impact bearish #US10Y
-
-US June Kansas City Fed manufacturing composite index 11, prior 8.
-
----
-
-### 2026-06-25 23:00:32  #央行 #國際
-
-美國6月堪薩斯聯儲製造業綜合指數 11，前值8。
-
----
-
-### 2026-06-25 23:00:27  #MKT News #Economic Calendar #Important
-
-United States | Kansas Fed Manufacturing Index (Jun) | actual 11 | previous 8
-
----
-
-### 2026-06-25 23:00:02  #市場
-
-【夜盤期貨收盤】20號膠連續跌3.36%，低硫燃料油連續漲2.68%，液化石油氣連續漲2.00%，聚丙烯連續漲1.93%，天然橡膠連續跌1.89%。
-
----
-
-### 2026-06-25 23:00:02  #Trading Economics #Markets #Currency #Importance 1
-
-FX Updates: Brazilian Real Increases by 0.46% — Top currency gainers are Brazilian Real (0.46%), Swedish Krona (0.33%), Swiss Franc (0.28%), British Pound (0.27%), Euro (0.16%) and Japanese Yen (0.10%). Biggest loser is Dollar Index (-0.22%).
-
----
-
-### 2026-06-25 22:58:25  #其他
-
-【四川7月1日起調整居民階梯電價】近日，四川省發展改革委印發《關於調整我省居民階梯電價政策有關事項的通知》，明確自7月1日起正式調整居民階梯電價政策。  政策調整後，夏季（7-9月）居民月階梯電量分檔標準顯著提高：第一檔電量由原180度上調至260度，覆蓋0-260度區間；第二檔電量調整為261-460度，較原181-280度區間大幅擴容；第三檔電量仍為460度以上。其餘月份（1-6月、10-12月）階梯電量分檔維持原標準，即第一檔0-180度、第二檔181-280度、第三檔280度以上。階梯電價標準保持不變，第一檔、第二檔、第三檔電價仍分別為0.5224元/度、0.6224元/度、0.8224元/度。
-
----
-
-### 2026-06-25 22:57:59  #MKT News
-
-Hungarian Prime Minister Magyar said the government has not yet discussed a phased removal of price caps, but the measure is worth considering.
-
----
-
-### 2026-06-25 22:57:10  #其他
-
-匈牙利總理：但這一舉措或許值得考慮。
-
----
-
-### 2026-06-25 22:56:41  #其他
-
-匈牙利總理：政府尚未討論分階段取消價格上限的相關事宜。
-
----
-
-### 2026-06-25 22:56:23  #國際
-
-墨西哥總統：美國農業部長將於週六為墨西哥一座不育果蠅工廠揭幕，以開展螺旋蠅防治工作。
-
----
-
-### 2026-06-25 22:56:00  #MKT News #WTI #Impact bearish #Brent
-
-【Strait of Hormuz transit recovers to about 57% of pre-conflict levels】S&P Global said on the 25th that 78 vessels transited the Strait of Hormuz on the 24th, the highest daily count since the Iran conflict began. The month's daily average transit rate has recovered to roughly 57% of pre-conflict levels; cumulative transits reached 551 as of the 24th and the month is on track to be the busiest since the conflict began. Departing vessels include ships long idled by the conflict as well as recent entrants, signaling early normalization of shipping activity, though continuation depends on consolidation and implementation of related agreements.
-
----
-
-### 2026-06-25 22:55:50  #公司 #國際
-
-【霍爾木茲海峽通航量恢復至戰事前近六成水平】標普全球能源公司25日釋出報告說，24日共有78艘船舶透過霍爾木茲海峽，創下伊朗戰事爆發以來單日最高通航紀錄。本月霍爾木茲海峽的船舶日均通航量已恢復至衝突前水平的約57%。報告說，截至24日，本月累計有551艘船舶透過霍爾木茲海峽，有望成為戰事爆發以來通航量最高的月份。報告指出，近期駛離霍爾木茲海峽的船舶不僅包括因衝突而長期滯留的船舶，也包括近期進入的船舶，反映出航運活動初步正常化跡象。不過，海峽通航量回升態勢能否持續仍有待觀察，相關協議仍需進一步鞏固和落實。（新華社）
-
----
-
-### 2026-06-25 22:55:38  #MKT News #WTI #Impact bullish #Brent #XAUUSD
-
-【Iran proposes fees for Strait of Hormuz; potential annual revenue $40 bln】According to officials, Iran is proposing security, protection and environmental service fees for passage through the Strait of Hormuz that could generate about $40 bln a year for participating states if implemented. Officials say the plan would give Tehran cash flow and control it did not previously possess and is modelled on international precedents including the Dardanelles, where Turkey levies a transit charge known as the "gold franc." Iran is pitching the proposal to Gulf neighbours and other countries and seeks to include them in a revenue-sharing arrangement. Parliament speaker Ghalibaf visited Oman on Tuesday to discuss the proposal, saying management of the strait will not revert to the previous status quo.
-
----
-
-### 2026-06-25 22:55:33  #國際
-
-【伊朗擬對霍爾木茲收費 相關年收入或達400億美元】據知情官員透露，伊朗估計，對霍爾木茲海峽的安全、安保和環境服務收費，每年將為相關國家帶來400億美元的收入。如果這一想法得以實施，將為德黑蘭帶來戰前所不具備的現金流和控制權。這些官員表示，伊朗政權正在借鑑世界各地的模式，包括達達尼爾海峽。在達達尼爾海峽，土耳其對往返愛琴海的船隻徵收一種名為“金法郎”的稅，用於支付透過該國際水道的通行費。據伊朗官員稱，為了獲得支援，德黑蘭正在向更廣泛的中東地區乃至更遠的國家推介這一想法。他們表示，伊朗希望其波斯灣鄰國也能加入該協議，並分享收入。伊朗議會議長卡利巴夫週二訪問阿曼，與鄰國討論擬議安排時表示，每個人都需要明白，海峽的管理方式永遠不會再回到以前那樣了。
-
----
-
-### 2026-06-25 22:54:51  #其他
-
-【Adobe 宣佈收購 Topaz Labs 強化 AI 影片與影象佈局，交易預計 2026 年下半年完成】Adobe 今日宣佈已與 AI 影象及影片增強工具開發商 Topaz Labs 達成最終收購協議。交易預計在 2026 年下半年完成，尚需獲得監管部門批准並滿足其他慣例成交條件。Adobe 近年來在創意工具領域面臨著來自 Canva 以及 DaVinci Resolve 開發商 Blackmagic Design 的激烈競爭。透過將 Topaz Labs 納入麾下，Adobe 旨在進一步鞏固其創意軟體生態，防止使用者流向其他影片編輯與增強軟體。
-
----
-
-### 2026-06-25 22:54:30  #市場 #國際
-
-【2026年上半年香港引資逾530億港元】香港特區政府投資推廣署25日舉辦年度國際及內地企業來港發展歡迎會，現場釋出了2026年上半年招商引資工作成果。 據介紹，今年1月至今，投資推廣署共協助413家海外和內地企業在港開設或拓展業務。預計這些企業帶來超過530億港元的外來直接投資，同比增長36%，併為香港創造超8600個新職位。 從企業來源地看，內地企業佔比六成，是香港招商引資的最大來源；其餘主要來源地包括歐洲和亞洲等地區。所涉及行業覆蓋香港經濟發展的重點領域，包括創新科技、金融服務、商務及專業服務和黃金及大宗商品交易等。（新華社）
-
----
-
-### 2026-06-25 22:53:35  #公司
-
-【慧侖科技與廣汽動力BU簽署戰略合作協議 聚力佈局萬臺人形機器人規模化量產賽道】6月25日，廣汽集團旗下廣東慧侖科技有限公司（簡稱“慧侖科技”）與廣汽集團動力業務單元（簡稱“廣汽動力BU”）正式簽署戰略合作協議。本次合作，雙方將鎖定四大核心方向開展全方位協同：人形機器人整機總裝、測試、聯合、共建省市級具身智慧機器人創新中心、機器人關節模組的研發、製造及市場應用、探索具身智慧人形機器人在工業場景中應用落地。尤為值得關注的是，雙方將搭建深度協同一體化合作體系，聚力佈局萬臺人形機器人規模化量產賽道。
-
----
-
-### 2026-06-25 22:53:28  #公司 #觀點
-
-【摩根大通高管突然離職 戴蒙接班人之爭變成“兩強對決”】摩根大通任命Troy Rohrbaugh和Doug Petno為聯席總裁，而消費者銀行業務主管Marianne Lake突然離職，標誌著執行長傑米·戴蒙的接班人之爭又出現轉折。新任命讓Rohrbaugh和Petno進入了未來某一天接替現年70歲的戴蒙的雙人競賽。作為華爾街老將，Rohrbaugh將接替Lake，執掌摩根大通龐大的消費者業務。根據週四的一份宣告，Petno將擔任商業和投資銀行業務唯一執行長。
-
----
-
-### 2026-06-25 22:52:32  #Trading Economics #Markets #United States #Stock Market #Importance 2
-
-Tech Stocks Trader Mixed, Dow Rises to Record — Tech heavyweight companies in the US diverged further on Thursday, as hyperscale cloud providers sank and chip producers rallied. The S&P 500 and the Nasdaq 100 were slightly higher, while gains in non-tech sectors lifted the Dow to a new record of 52,500. Micron surged 10% after beating earnings and forecasting a revenue of $50 billion in the quarter to August, above the expectations, and Qualcomm jumped 5% after doubling its projection for non-handset revenue in the next three years. Other chip stocks rallied. On the other hand, Nvidia, Oracle, Amazon, Alphabet, and Microsoft dropped more than 2% to stretch the pivot from software companies to AI infrastructure developers. Softer inflationary risks also supported broader sectors as energy prices continued fall and PCE price indices refrained from overshooting expectations. J&J and Caterpillar gained 5% each. Banking shares also rose as lenders will raise their dividends after passing the Federal Reserve's stress test.
-
----
-
-### 2026-06-25 22:52:03  #國際
-
-市場訊息：伊朗估計，對霍爾木茲海峽的安保、安全與環境服務收費。
-
----
-
-### 2026-06-25 22:51:46  #國際
-
-市場訊息：伊朗若要徵收任何通航服務費，均需獲得國際海事組織批准。
-
----
-
-### 2026-06-25 22:50:33  #其他
-
-【LABUBU復古理髮店上線秒罄】6月25日晚，泡泡瑪特旗下頭部IP LABUBU推出的“復古理髮店”系列正式發售。 盲盒一共包含7款角色，其中6款為普通款，1款為隱藏款，每個售價159元，整盒954元，售價和規格與今年3月發售的三麗鷗聯名系列相同。 藍鯨記者在開售當晚實測搶購，進入購買頁面後隨即顯示“排隊人數過多”，短短數秒內，該系列盲盒便已售罄。隨後記者查詢發現，不僅官方小程式，淘寶等全平臺也顯示無貨。 供需缺口帶動該系列產品在市場上出現明顯溢價，得物App價格圖顯示，隱藏款“迷霧白噪音”溢價至1200元，溢價超6倍；“絲絨午後”是常規款中溢價最高的一款，價格達265元。（藍鯨新聞）
 
 ---

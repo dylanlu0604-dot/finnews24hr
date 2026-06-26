@@ -1,7 +1,91 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-06-27 03:49:07_
-_本檔包含 3505 則快訊，約 668204 字_
+_更新時間：2026-06-27 04:13:09_
+_本檔包含 3487 則快訊，約 669055 字_
+
+---
+
+### 2026-06-22 18:21:59  #公司
+
+【南寧百貨：公司副總經理李發奕被實施留置】南寧百貨公告，2026 年 6 月 18 日，公司收到相關監察委員會對公司副總經理李發奕實施留置的通知。目前，公司已對相關工作進行了妥善安排。公司嚴格按照《公司法》《上市公司治理準則》《上海證券交易所股票上市規則》等法律法規、規範性檔案及《公司章程》規範運作，公司董事和其他高階管理人員均正常履職，生產經營正常有序，公告事項不會對公司生產經營管理產生重大影響。
+
+---
+
+### 2026-06-22 18:21:43  #公司
+
+【農產品：同意控股子公司江西海吉星公司受託運營洪旺市場】農產品公告，公司於2026年6月18日召開董事會會議，審議透過了《關於與南昌農產公司深化合作暨同意控股子公司江西海吉星公司受託運營洪旺市場的議案》。為夯實公司“全國一張網”佈局，同意公司與南昌市農業產業有限公司深化合作，在公司收購南昌農產公司控股子公司南昌西部物流產業有限公司49%股權並完成工商登記的基礎上，透過雙方共同組建的江西省海吉星國際農產品物流管理有限公司（公司持有51%股權），受託運營管理南昌西部物流產業有限公司所屬的南昌洪旺智慧農批大市場。
+
+---
+
+### 2026-06-22 18:21:40  #公司
+
+【廣合科技：擬投資60億元建設東莞智造總部專案，已簽訂投資協議】廣合科技公告，公司為完善產業佈局，擬與東莞水鄉特色發展經濟區管理委員會、東莞市麻涌鎮人民政府簽訂《廣合科技東莞智造總部專案投資協議》，計劃在東莞市水鄉經濟區麻涌鎮投資建設“廣合科技東莞智造總部專案”，專案投資總額為60億元（含土地價款），其中固定資產投資50億元。專案一次性供地，分兩期投資建設，一期計劃投資金額30億元，二期計劃投資金額30億元。該事項已獲公司第三屆董事會第一次會議審議透過，尚需提交股東會審議。
+
+---
+
+### 2026-06-22 18:21:37  #MKT News #GBPUSD #Impact bearish #FTSE100 #XAUUSD #Impact bullish
+
+【Andy Burnham declares bid for Labour leadership】UK Prime Minister Starmer resigned at 10 Downing Street on the morning of June 22. Labour will open nominations for a new leader from July 9. UK media reported Greater Manchester mayor Andy Burnham has declared his candidacy.
+
+---
+
+### 2026-06-22 18:21:32  #MKT News
+
+【CCPIT vice chairman Lin Honghong meets Osaka Chamber chair, Suntory vice-chair Torii Shingo】China Council for the Promotion of International Trade (CCPIT) vice chairman Lin Honghong met in Beijing with Osaka Chamber of Commerce and Industry chairman and Suntory Holdings vice-chair Torii Shingo. They discussed promoting industrial and supply‑chain cooperation, expanding institutional exchanges and strengthening business ties.
+
+---
+
+### 2026-06-22 18:21:01  #公司 #國際
+
+【Fervo Energy、英偉達就增強型地熱數字孿生平臺開發達成合作】美國地熱公司Fervo Energy、英偉達及美國太平洋西北國家實驗室（PNNL）6月22日宣佈，三方將聯合開發面向增強型地熱系統（EGS）的下一代數字孿生平臺EGS-Twin。EGS-Twin旨在透過融合高解析度現場資料、基於物理的模擬建模及AI預測，實現對地下儲層行為和運營表現的實時洞察。平臺預計於2029年完成部署。
+
+---
+
+### 2026-06-22 18:20:43  #其他
+
+【伯納姆宣佈競選工黨黨首】當地時間今天（6月22日）上午，英國首相斯塔默在唐寧街10號發表宣告，宣佈辭職。執政黨工黨的新黨首提名程式將會從7月9日開始。據英國媒體報道，大曼徹斯特市長安迪·伯納姆已經宣佈競選工黨黨首。（CCTV國際時訊）
+
+---
+
+### 2026-06-22 18:20:08  #其他
+
+港交所披露：6月16日，貝萊德對中興通訊H股的多頭持倉從7.87%降至6.62%。
+
+---
+
+### 2026-06-22 18:20:03  #MKT News #Market Regions #Greater China #SSE Composite #Impact bullish #CSI300
+
+【28th Shanghai International Film Festival generated nearly 5.3 bln yuan in economic activity】The 28th Shanghai International Film Festival ended on June 21. Organizers said the event generated nearly 5.3 bln yuan across film-related sectors and transport, accommodation, catering, tourism and retail, up 5.97% YoY. Catering produced about 1.17 bln yuan and related shopping exceeded 3.0 bln yuan; transport, tourism and accommodation each saw substantial growth. More than 70% of domestic and international attendees traveled to Shanghai specifically for the festival, driving hotel, transport and attraction spending and contributing roughly 2.3 bln yuan to city tourism revenue.
+
+---
+
+### 2026-06-22 18:20:01  #其他
+
+【中國貿促會副會長林紅紅會見大阪商工會議所會長、三得利控股株式會社副會長鳥井信吾】2026年6月21日，中國貿促會副會長林紅紅在京會見專程來華參加第四屆鏈博會的大阪商工會議所會長、三得利控股株式會社副會長鳥井信吾一行。雙方圍繞推動產業鏈供應鏈合作、增進兩機構往來、加強工商界聯絡等議題進行交流。
+
+---
+
+### 2026-06-22 18:19:49  #其他
+
+美銀全球研究將達美航空目標股價從78美元上調至93美元。
+
+---
+
+### 2026-06-22 18:19:42  #MKT News
+
+Chenghe Technology says some senior executives and key personnel plan to increase holdings by purchasing company shares worth 30–60 mln yuan.
+
+---
+
+### 2026-06-22 18:19:18  #國際
+
+美銀環球研究將美國航空目標股價從14美元上調至16美元。
+
+---
+
+### 2026-06-22 18:19:13  #Trading Economics #Economy #Ireland #Producer Prices Change #Importance 1
+
+Ireland Wholesale Prices Rise for Second Month — Wholesale prices in Ireland rose 1.6% year-on-year in May 2026, following a 1.4% increase in the previous month and marking the second consecutive month of gain after fourteen months of contraction. Producer prices recorded notable increases in chemical and chemical products (11.9%), fabricated metal products excluding machinery and equipment (4.8%), other non-metallic mineral products (4.5%), and basic metals (4.2%). Food products rose 1.3%, driven by an 8.9% increase in fish and fish products, while food products, beverages, and tobacco prices increased 1% from a year earlier. Meanwhile, energy fuel costs surged 37% and wholesale electricity prices jumped 33.1%. Overall manufacturing prices rose 1.6%, while construction products increased 3.1% compared with the same month last year. On a monthly basis, wholesale prices edged up 0.9% in May from a 0.2% increase in the prior month.
 
 ---
 
@@ -20959,197 +21043,5 @@ L3Harris公司向美國空軍交付VC-25B飛機。
 ### 2026-06-20 04:15:10  #國際
 
 美國銀行存款從前一週的19.295萬億美元增至19.354萬億美元。
-
----
-
-### 2026-06-20 04:11:31  #國際
-
-特朗普結束在安德魯斯聯合基地的講話。
-
----
-
-### 2026-06-20 04:10:38  #其他
-
-【利比亞近海沉船事故致12人死亡39人失蹤】一艘載有非法移民的船隻日前在利比亞東部城市圖卜魯格附近海域沉沒，已致12人死亡、39人失蹤。 據利比亞一服務移民和難民的人道主義組織19日釋出的訊息，事故發生於本月12日，事發船隻載有61人，其中10人逃生。該組織表示，目前已找到12具遺體，搜尋行動仍在進行中。（新華社）
-
----
-
-### 2026-06-20 04:10:13  #國際
-
-特朗普：這是全新塗裝配色 —— 紅、白、藍。我們原本挺喜歡淡藍色，但如今是時候做出改變了…… 我偏愛美國國旗本身的色彩。
-
----
-
-### 2026-06-20 04:08:58  #國際
-
-特朗普： 全新空軍一號專機將於 7 月 4 日飛越華盛頓上空。
-
----
-
-### 2026-06-20 04:08:12  #MKT News
-
-Trump said the Qatar-donated Air Force One presidential aircraft has been equipped with the Starlink communications network.
-
----
-
-### 2026-06-20 04:07:59  #MKT News #Market Themes #The Trump Trade
-
-Trump thanked about 250 staff and airmen at Joint Base Andrews for working round-the-clock to put the presidential aircraft into service.
-
----
-
-### 2026-06-20 04:05:10  #國際
-
-特朗普稱卡達捐贈的空軍一號飛機配備了星鏈網路。
-
----
-
-### 2026-06-20 04:04:39  #國際
-
-美國總統特朗普：我結束了8場戰爭，與伊朗的戰爭是最艱難的；F-47正在建造中。已經啟動了裝配線。他們說這是有史以來最偉大的戰鬥機。我們會驗證這一點。
-
----
-
-### 2026-06-20 04:04:28  #國際
-
-特朗普：我要特別感謝 250 名工作人員，他們晝夜不休趕工，讓這架專機投入使用，其中也包括安德魯斯聯合基地的眾多空軍官兵。
-
----
-
-### 2026-06-20 04:04:26  #MKT News #Market Themes #The Trump Trade
-
-President Trump said the United States has the world's top military and most advanced aircraft and should be equipped with a top-tier presidential plane.
-
----
-
-### 2026-06-20 04:03:47  #MKT News
-
-President Trump said the F-47 is under construction and an assembly line has been started. He said they claim it is the greatest fighter jet ever and that the claim will be verified.
-
----
-
-### 2026-06-20 04:02:47  #國際
-
-特朗普：我們擁有全球頂尖的軍隊，擁有世上最先進的各類軍機，我們也理應配備最頂級的總統專機。
-
----
-
-### 2026-06-20 04:01:09  #市場
-
-多倫多綜合股指非正式收盤下跌 111.92 點，跌幅 0.32%，報 34857.34 點。
-
----
-
-### 2026-06-20 03:59:53  #MKT News #Market Themes #The Trump Trade
-
-Trump said US Defense Secretary Hegseth is a born fighter who never admits defeat, is exceptionally tough, and genuinely loves the military.
-
----
-
-### 2026-06-20 03:59:47  #國際
-
-【以媒：伊朗與真主黨聯手破壞以美關係】據以色列媒體報道，以色列官員研判，昨晚造成四名以色列國防軍士兵身亡的致命襲擊，是伊朗和真主黨精心策劃的行動，其明確目的是離間耶路撒冷與華盛頓。相關官員表示，德黑蘭方面成功將美國和以色列一同引入其設下的圈套，刻意把黎巴嫩停火諒解備忘錄與重啟大範圍談判繫結在一起。
-
----
-
-### 2026-06-20 03:58:37  #國際
-
-特朗普：赫格塞斯是天生的鬥士，他從不知認輸，性格十分強硬，此人真心熱愛軍隊。
-
----
-
-### 2026-06-20 03:58:08  #MKT News #Market Themes #The Trump Trade #WTI #Impact bullish #Brent #XAUUSD
-
-TRUMP said he ended eight wars and that the war with Iran was the toughest.
-
----
-
-### 2026-06-20 03:57:49  #MKT News
-
-President Trump said Defense Secretary Hegseth is doing very well.
-
----
-
-### 2026-06-20 03:57:37  #MKT News #DXY #Impact bearish #EURUSD #Impact bullish #USDJPY
-
-【Dollar index down 0.12% at New York close】The dollar index, which measures the US dollar against six major currencies, fell 0.12% to 100.729 at the New York FX close on the 19th. EUR/USD rose to 1.1477 from 1.1459; GBP/USD rose to 1.3234 from 1.3203. USD/JPY fell to 161.26 from 161.68. USD/CHF rose to 0.8066 from 0.8051; USD/CAD rose to 1.4174 from 1.4140; USD/SEK fell to 9.5742 from 9.5874.
-
----
-
-### 2026-06-20 03:57:25  #國際
-
-特朗普表示，這架飛機是卡達政府贈予美國的。
-
----
-
-### 2026-06-20 03:56:45  #國際
-
-特朗普稱美國已在伊朗 “徹底摧毀一切”。
-
----
-
-### 2026-06-20 03:56:03  #MKT News
-
-U.S. President Trump said the other Air Force One is about 35 years old and should be replaced.
-
----
-
-### 2026-06-20 03:54:34  #國際
-
-特朗普：另一架舊專機已有約 35 年機齡，確實到了該更換的時候。
-
----
-
-### 2026-06-20 03:53:56  #國際
-
-特朗普：內塔尼亞胡是一名鬥士。
-
----
-
-### 2026-06-20 03:53:01  #MKT News
-
-US President Trump says relations with Israel are good.
-
----
-
-### 2026-06-20 03:52:46  #國際
-
-特朗普稱其與以色列關係極佳。
-
----
-
-### 2026-06-20 03:52:17  #MKT News
-
-U.S. President Trump said he will visit Turkey.
-
----
-
-### 2026-06-20 03:51:52  #國際
-
-特朗普：（談伊朗）我認為事態不會走到那一步。
-
----
-
-### 2026-06-20 03:51:12  #MKT News
-
-U.S. President Trump said those ships are leaving the Strait of Hormuz at an unprecedented pace.
-
----
-
-### 2026-06-20 03:51:06  #國際
-
-特朗普：將前往土耳其。
-
----
-
-### 2026-06-20 03:50:59  #公司 #國際
-
-【美國新空軍一號專機亮相】當地時間6月19日，據美國哥倫比亞廣播公司（CBS）報道，美國空軍首次公開展示由卡達贈送、價值約4億美元的波音747-8型飛機。這架新的“空軍一號”總統專機目前已抵達馬里蘭州安德魯斯聯合基地，將先進行“服役認證飛行”，隨後將正式投入使用。美國空軍表示，這架飛機已完成所需改裝和紅白藍塗裝，機艙內部佈局僅作最小程度調整。 美國總統特朗普此前駁斥了“接受外國政府贈送專機存在利益衝突和安全風險”的批評。他表示，這架飛機將暫時充當“空軍一號”，直至波音公司為美國空軍制造的新一代總統專機於2028年交付。（CCTV國際時訊）
-
----
-
-### 2026-06-20 03:49:16  #MKT News #Important #WTI #Impact bullish #Brent
-
-President Trump said about 700 vessels are transiting the Strait of Hormuz and warned Iran must reach an agreement within 60 days or the United States will take measures that will make them unhappy.
 
 ---

@@ -1,7 +1,211 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-06-27 03:49:07_
-_本檔包含 3713 則快訊，約 668174 字_
+_更新時間：2026-06-27 04:13:09_
+_本檔包含 3714 則快訊，約 669272 字_
+
+---
+
+### 2026-06-24 21:36:05  #Trading Economics #Markets #Switzerland #Stock Market #Importance 0
+
+Stocks in Switzerland Hit All-time High — CH20 increased to an all-time high of 14104.00 Index Points. Over the past 4 weeks, Switzerland Stock Market Index (CH20) gained 4.24%, and in the last 12 months, it increased 18.68%.
+
+---
+
+### 2026-06-24 21:35:58  #市場
+
+溫蒂漢堡股價上漲37%後因波動而暫停交易。
+
+---
+
+### 2026-06-24 21:35:54  #其他
+
+【法國遭遇創紀錄高溫 盧浮宮等景點提前關門】法國23日遭遇自1947年有氣象觀測記錄以來的最熱一天，巴黎盧浮宮和埃菲爾鐵塔被迫提前關閉，不少吃閉門羹的遊客在酷暑中敗興離去。據法國氣象局公佈的資料，法國23日全國平均氣溫達到29.8攝氏度，成為有氣象觀測記錄以來最熱一天。多地景區運營方宣佈縮短開放時間，提醒遊客推遲參觀計劃。盧浮宮管理方說，這座歷經數百年的建築“未能充分適應氣候變化”，將於24日至27日每天提前2小時、於16時停止對外開放。埃菲爾鐵塔往年暑期旺季通常開放到午夜，但其運營方23日發表宣告說，當天提早至16時關閉，且24日“極有可能”繼續縮短開放時間。（新華社）
+
+---
+
+### 2026-06-24 21:35:07  #市場 #央行 #國際
+
+【金價跌破4,000美元，貴金屬礦商股大跌】隨著金價自2025年11月以來首次跌破每盎司4,000美元，倫敦礦業股大跌。市場對美聯儲加息的預期拖累了這種無收益的黃色金屬，同時美元走強也令金價承壓，因為這增加了外國買家的購買成本。銀價大幅下跌也拖累了礦商股。紐約黃金期貨下跌4%，至每盎司3,984.40美元，而白銀期貨下跌5.9%，至每盎司58.38美元。在倫敦上市的Hochschild在整個交易日中跌幅加劇，其股價在後市交易中下跌超過9%，觸及六個月低點。白銀礦商Fresnillo下跌5.1%，而專門開採西非黃金的Endeavour Mining大跌5.25%。
+
+---
+
+### 2026-06-24 21:34:40  #國際
+
+美國郵政署署長在參議院作證時表示，需要國會採取行動解決財務困境：“歸根結底，我們已經沒錢了”。
+
+---
+
+### 2026-06-24 21:34:30  #其他
+
+【龐淑欽任中國進出口銀行上海分行黨委書記、行長】據中國進出口銀行訊息，中國進出口銀行黨委決定：龐淑欽任上海分行黨委書記、行長。
+
+---
+
+### 2026-06-24 21:34:07  #市場 #焦點
+
+納斯達克中國金龍指數跌超0.5%，金生遊樂跌5.81%，海天網路跌5.37%，金山雲跌3.48%，中比能源跌2.99%，愛奇藝跌1.92%。
+
+---
+
+### 2026-06-24 21:33:56  #市場
+
+現貨黃金短線反彈20美元，現報3994美元/盎司。
+
+---
+
+### 2026-06-24 21:33:52  #MKT News #Commodities #Precious Metals #XAUUSD #Impact bullish
+
+Spot gold briefly rallied $20 to $3,994/oz.
+
+---
+
+### 2026-06-24 21:33:31  #公司 #市場
+
+赫茲全球股價下跌21.7%；公司申請發行至多1億美元股票。
+
+---
+
+### 2026-06-24 21:33:02  #其他
+
+一位高管表示，道達爾能源預計明年啟動鑽井專案，以拓展其在蘇利南的勘探靶區。
+
+---
+
+### 2026-06-24 21:32:51  #公司
+
+【湖南鋼鐵集團與宇樹科技簽訂戰略合作協議】6月24日，湖南鋼鐵集團和宇樹科技在長沙簽訂戰略合作協議。集團旗下鋼鐵上市平臺華菱鋼鐵、集團資訊化數字化戰略落地子公司華菱雲創與宇樹科技簽約共同打造首個鋼鐵行業具身智慧機器人創新實驗室，將在智慧巡檢與運維、應急指揮與處置、智慧工廠實施、智慧生產執行、智慧倉儲物流等合作領域開展深度合作。
+
+---
+
+### 2026-06-24 21:32:50  #MKT News
+
+Bilibili (BILI.O) shares rose 2.9% after the company announced a new $300 million share repurchase program.
+
+---
+
+### 2026-06-24 21:32:47  #市場
+
+黃金價格跌破每盎司4000美元，在美上市黃金礦商股價走低。道富環球投資管理黃金ETF（SPDR GOLD SHARES ETF）下跌3.2%。金田股價下跌5.8%，哈莫尼黃金下跌5.7%，金羅斯黃金下跌4.7%。紐蒙特股價下跌4.5%，西班耶斯蒂爾沃特股價下跌6%，盎格魯黃金阿散蒂股價下跌6.1%。
+
+---
+
+### 2026-06-24 21:32:34  #市場 #焦點
+
+聚丙烯連續主力合約日內跌3%，現報7135.00元。
+
+---
+
+### 2026-06-24 21:32:09  #MKT News #Important #WTI #Impact bearish
+
+【WTI crude futures slip below $70/bbl】WTI crude futures slipped below $70/bbl, down 4.40% on the day.
+
+---
+
+### 2026-06-24 21:32:03  #公司 #市場
+
+Take-Two Interactive軟體公司將《俠盜獵車手6》定價為79.99美元，並確認將於11月19日如期發售，訊息公佈後該公司股價上漲1%。
+
+---
+
+### 2026-06-24 21:31:41  #MKT News #Market Regions #Wall Street (US) #Dow #Impact bearish #S&P500 #Impact bullish #Nasdaq100
+
+U.S. equities opened mixed on Wednesday, June 24: Dow Jones Industrial Average opened down 18.65 points (-0.04%) at 51,648.19; S&P 500 opened up 12.68 points (+0.17%) at 7,378.14; Nasdaq Composite opened up 36.90 points (+0.14%) at 25,623.94.
+
+---
+
+### 2026-06-24 21:31:28  #MKT News #Important #Market Regions #Wall Street (US) #AVGO.O #Impact bullish #MU.O #SPCX.O #Impact bearish
+
+US open: Dow Jones flat, S&P 500 +0.1%, Nasdaq +0.15%. Broadcom (AVGO.O) +1% after the company and OpenAI unveiled an AI chip aimed at running models faster and more cheaply. Micron Technology (MU.O) +0.5% ahead of its Q3 results. SpaceX (SPCX.O) -0.98% at the open.
+
+---
+
+### 2026-06-24 21:31:25  #國際
+
+市場訊息：俄羅斯向哈薩克尋求汽油供應以緩解國內短缺。
+
+---
+
+### 2026-06-24 21:31:12  #公司 #市場 #國際
+
+嗶哩嗶哩美國上市股票在公司宣佈新的3億美元股票回購計劃後上漲2.9%。
+
+---
+
+### 2026-06-24 21:31:04  #觀點
+
+Taktile 完成 1.1 億美元 C 輪融資，高盛領投。
+
+---
+
+### 2026-06-24 21:30:48  #市場 #焦點
+
+【美股開盤：三大股指漲跌不一】道指跌0.04%，標普500指數漲0.09%，納指漲0.05%。皇家加勒比郵輪漲3.31%，Builders FirstSource漲3.22%，繽客漲3.00%，紐曼礦業跌4.32%，麥克莫蘭銅金跌3.57%，阿帕奇公司跌3.51%。“七姐妹”方面：谷歌漲1.06%，英偉達漲0.20%，特斯拉漲0.05%，亞馬遜跌0.13%，蘋果跌0.22%，Meta Platforms跌0.43%，微軟跌0.50%。
+
+---
+
+### 2026-06-24 21:30:39  #公司 #市場
+
+博通股價在OpenAI與該公司推出大語言模型最佳化智慧處理器後上漲1.3%。
+
+---
+
+### 2026-06-24 21:30:36  #市場 #焦點
+
+WTI原油失守70美元/桶，日內跌4.40%。
+
+---
+
+### 2026-06-24 21:30:24  #宏觀
+
+多倫多股票交易所S&P/TSX綜合指數<.GSPTSE>開盤下跌109.10點，跌幅0.31%，報34818.28點。
+
+---
+
+### 2026-06-24 21:30:20  #MKT News #Important #Commodities #Energy #WTI #Impact bearish #Brent
+
+China SC2608 crude futures tumbled intraday, losses widening to 3.97% at 469.7 yuan/barrel; turnover about 4.51 bln yuan. Open interest fell nearly 400 contracts, leaving positions slightly lower.
+
+---
+
+### 2026-06-24 21:30:02  #Trading Economics #Markets #commodity #Importance 0
+
+GSCI Hits 16-week Low — GSCI decreased to 613.30 Index Points, the lowest since March 2026. Over the past 4 weeks, GSCI Commodity Index lost 13.84%, and in the last 12 months, it increased 13.17%.
+
+---
+
+### 2026-06-24 21:29:55  #MKT News #Commodities #Energy
+
+Interfax: Russian deputy prime minister ordered priority allocation of fuel to regions affected by seasonal factors.
+
+---
+
+### 2026-06-24 21:29:50  #公司 #市場
+
+【旭光電子：10個交易日股價漲幅超100% 提示交易風險】旭光電子公告稱，2026年6月10日至6月24日，公司股票連續10個交易日收盤價格漲幅偏離值累計超100%，累計漲幅達102.76%，屬嚴重異常波動。公司市盈率、市淨率明顯高於行業水平，近10個交易日換手率較高，期間已發3次異常波動公告、2次交易風險提示公告。公司在可控核聚變領域非產業鏈主導企業，年初至今相關產品訂單未交付實現收入，一季度氮化鋁產品營收佔比約5%。提醒投資者注意交易風險。
+
+---
+
+### 2026-06-24 21:29:31  #MKT News #Important #Commodities #Energy #WTI #Impact bearish #Brent
+
+【WTI and Brent intraday losses widen to 4%】WTI crude down 4.00% intraday at $70.66/bbl; Brent crude down 4.00% intraday at $73.66/bbl.
+
+---
+
+### 2026-06-24 21:29:23  #其他
+
+瑞士國防部長表示，第二套導彈防禦系統的訂單金額達數十億美元。
+
+---
+
+### 2026-06-24 21:29:12  #公司 #市場 #觀點
+
+【摩根大通策略師上調標普500指數年終目標至7800點】摩根大通策略師上調了標普500指數的年終目標價，指出該指數正逼近他們設定的理想情景。將標普500指數的年終目標從7600點上調至7800點，2026年每股收益(EPS)預期從330美元上調至350美元，“對於明年，我們仍持建設性看法，但預計每股收益為390美元（同比增長15%），這一數字低於當前的共識，反映了AI相關定價權減弱的風險”，以Dubravko Lakos-Bujas為首的策略師表示，他們本應對盈利增長前景持“更為樂觀”的態度，指出今年以來的市場共識盈利增長預期“已被上調至未來兩年平均約20%的水平，這與AI資本支出近乎翻倍的趨勢同步”。儘管Lakos-Bujas提高了他的年終目標價，但他強調，上漲之路“很可能是非線性的，因為市場需要克服各種障礙”，“連續強勁的盈利表現提高了市場在第二季度財報季前的預期門檻，使得企業在盈利和資本支出方面實現大幅超預期的難度增加”。
+
+---
+
+### 2026-06-24 21:28:41  #Trading Economics #Markets #Commodity #Importance 2
+
+Gold Below $4000 — Gold prices tumbled more than 3% to below $4,000 per ounce on Wednesday, hitting their lowest level since November 2025. The precious metal came under pressure from a stronger US dollar and growing expectations that the Fed will maintain a hawkish stance, with traders increasingly betting on an interest-rate increase later this year. Markets currently assign a roughly 68% probability of a Fed rate hike in September, up from 29% a week ago. Bullion is now down about 5% year-to-date and nearly 20% below its January record high, reached before the outbreak of the conflict involving Iran. Despite heightened geopolitical uncertainty, gold has struggled to retain its traditional safe-haven appeal during the war. A surge in oil prices has fueled inflation concerns, prompting major central banks to adopt a more restrictive monetary policy stance and increasing the opportunity cost of holding non-yielding assets such as gold.
 
 ---
 
@@ -22220,203 +22424,5 @@ Putin said he cannot negotiate with Ukrainian President ZELENSKIY, citing Ukrain
 ### 2026-06-23 19:26:45  #宏觀 #國際
 
 【特朗普：伊朗已完全同意接受長期核檢查 這是進一步談判的前提】美國總統特朗普發文稱：儘管伊朗提出了抗議並發表了相反的虛假宣告，加上假新聞媒體不遺餘力地試圖將美國的勝利貶低得微不足道，但伊朗已完全、徹底地同意接受長期（甚至永久！）的最高階別核檢查。這將確保“核誠信”。如果伊朗不同意這一點，就不會有進一步的談判！基於此以及伊朗做出的其他重大讓步，我已同意允許霍爾木茲海峽保持開放，不再實施海上封鎖。然而，所有艦船將繼續原地待命，以便在必要時重新實施封鎖，儘管目前看來，這極不可能發生。美國財政部釋放的資金和/或制裁解除將被置於由美國控制的託管賬戶之下，並用於購買食品和醫療物資，且必須完全從美國採購，包括從我們偉大的美國農民那裡購買玉米、小麥和大豆。這些都是伊朗急需的物資。這是一場人道主義危機，我認為有必要立即施以援手，以免為時過晚。談判進展順利！
-
----
-
-### 2026-06-23 19:26:43  #MKT News #Important #WTI #Impact bearish #Brent
-
-【Trump says Iran agreed to long-term highest-level nuclear inspections; Hormuz blockade lifted, funds to be placed in US-controlled escrow】President Trump said Iran has fully agreed to accept long-term, potentially permanent, highest-level nuclear inspections and warned there would be no further talks if Iran refused. He said he has agreed not to impose a maritime blockade on the Strait of Hormuz and to keep the waterway open, though US vessels will remain on standby to reimpose a blockade if necessary. Any US Treasury disbursements and/or sanctions relief will be placed in a US-controlled escrow account and restricted to purchases of food and medical supplies procured entirely from the United States, including corn, wheat and soybeans. Trump characterized the move as humanitarian and said negotiations are progressing.
-
----
-
-### 2026-06-23 19:26:30  #國際
-
-Argentum AI將在波蘭部署英偉達GB300晶片。
-
----
-
-### 2026-06-23 19:26:09  #公司
-
-UREVO：UREVO年中促銷活動將為亞馬遜帶來2026年迄今為止最大的優惠。
-
----
-
-### 2026-06-23 19:25:59  #MKT News #SPCX.O #Impact bullish
-
-SpaceX (SPCX.O) shares erased earlier losses in premarket trading and turned higher.
-
----
-
-### 2026-06-23 19:25:49  #國際
-
-【阿曼和伊朗將協調霍爾木茲海峽未來航行管理】當地時間23日，阿曼同伊朗就霍爾木茲海峽問題發表聯合宣告，雙方同意透過兩國外交部之間的一個聯合工作組保持對話，以便就霍爾木茲海峽未來航行管理、提供的服務以及相關費用達成共識。（央視新聞）
-
----
-
-### 2026-06-23 19:25:46  #MKT News #Commodities #Energy #WTI #Impact bearish #S&P500 #Impact bullish #DXY
-
-President Trump said oil prices are crashing and the world is becoming safer.
-
----
-
-### 2026-06-23 19:25:37  #其他
-
-【重新整理世界算力新高度 “靈晟”問鼎全球超算TOP500】2026年6月23日，德國漢堡ISC2026大會（國際超算大會）釋出全球超算Top500榜單：全國產自主研製的“靈晟”超級計算機以2.19EFlops（每秒1018次浮點運算）持續雙精度浮點效能登頂全球超算TOP500，時隔九年，我國超算再次排名全球第一。（央視新聞）
-
----
-
-### 2026-06-23 19:25:32  #國際
-
-特朗普：昨天有1900萬桶石油從霍爾木茲海峽運出。
-
----
-
-### 2026-06-23 19:25:24  #國際
-
-普京：烏克蘭打擊俄羅斯民用目標意在在社會製造恐慌。
-
----
-
-### 2026-06-23 19:25:21  #MKT News #XAUUSD #Impact bullish #DXY #Brent
-
-Putin said Ukraine’s attacks on Russian civilian targets are aimed at creating social panic.
-
----
-
-### 2026-06-23 19:25:17  #國際
-
-【黎真主黨譴責以軍襲擊平民違反停火協議】黎巴嫩真主黨當地時間6月23日表示，以色列軍隊當天在黎巴嫩南部向平民開槍，造成兩人死亡，多人受傷，並稱該事件違反了雙方之間的停火協議。黎南部民防部門當天稱，以色列軍隊在黎南部奈拜提耶地區向平民開火，造成人員傷亡。以色列方面對此暫無回應。（央視新聞）
-
----
-
-### 2026-06-23 19:25:04  #MKT News #Market Themes #The Trump Trade
-
-U.S. President Trump said Iran urgently needs food and medical supplies.
-
----
-
-### 2026-06-23 19:25:02  #市場
-
-SPACEX股價抹去跌幅，盤前轉為上漲。
-
----
-
-### 2026-06-23 19:24:52  #MKT News #Commodities #Energy
-
-【World's largest clean-energy corridor frees 35.8 bln cu m of flood-control capacity】Three Gorges Group said the six-station cascade on the Yangtze — Wudongde, Baihetan, Xiluodu, Xiangjiaba, Three Gorges and Gezhouba — completed its annual drawdown, releasing 35.8 bln cubic metres of flood-control reservoir capacity to secure the Yangtze basin ahead of flood season.
-
----
-
-### 2026-06-23 19:24:52  #MKT News #Commodities #Energy #WTI #Impact bullish #Brent
-
-U.S. President Trump said 19 million barrels of oil flowed out of the Strait of Hormuz yesterday.
-
----
-
-### 2026-06-23 19:24:51  #公司
-
-【新鄉化纖：擬定增募資不超13億元用於高品質生物質纖維素長絲等專案】新鄉化纖公告，公司2026年度擬向特定物件發行A股股票募集資金總額不超過13億元，扣除發行費用後募集資金淨額將全部用於高品質生物質纖維素長絲及配套工程、菌草材料高值化利用研發中心專案和補充流動資金等專案。其中，控股股東白鷺集團、新鄉國資集團擬合計認購金額不低於1億元，且在本次發行後兩者合計持有的公司股份比例不低於25.00%。
-
----
-
-### 2026-06-23 19:24:46  #國際
-
-特朗普：伊朗迫切地需要食品和醫療用品。
-
----
-
-### 2026-06-23 19:24:40  #其他
-
-Argentum AI與英偉達達成總規模78億美元合作協議。
-
----
-
-### 2026-06-23 19:23:57  #MKT News #Important
-
-Trump said funds unfrozen by the U.S. Treasury and/or sanctions lifted will be deposited into a U.S.-controlled escrow account and used exclusively to buy U.S. food and medical supplies, including corn, wheat and soybeans grown by U.S. farmers.
-
----
-
-### 2026-06-23 19:23:52  #公司
-
-【上海電氣與陝投集團攜手深化能源產業協同與高階裝備合作】據上海電氣訊息，6月23日上午，上海電氣集團黨委副書記、總裁朱兆開與陝西投資集團有限公司（簡稱“陝投集團”）黨委副書記、總經理唐宏軍舉行會談，雙方就深化滬陝兩地能源產業協同、推動高階裝備與能源場景融合落地達成多項共識。
-
----
-
-### 2026-06-23 19:23:35  #宏觀 #焦點 #國際
-
-特朗普：美國財政部正在發放的資金將進入由美國管控的第三方託管賬戶，將用於從美國採購食品與醫療物資，包括玉米、小麥和大豆。
-
----
-
-### 2026-06-23 19:23:28  #國際
-
-特朗普談伊朗：資金將存入由美國控制的第三方託管賬戶。
-
----
-
-### 2026-06-23 19:23:21  #MKT News #Important #Market Themes #The Trump Trade
-
-US President Trump said all ships will remain on standby to reimpose a blockade if necessary, though he said the likelihood currently appears very low.
-
----
-
-### 2026-06-23 19:23:20  #國際
-
-特朗普：釋放的資金將存入由美國控制的託管賬戶。
-
----
-
-### 2026-06-23 19:23:07  #MKT News #Important #WTI #Impact bearish #Brent
-
-Trump said Iran has fully agreed to indefinite, highest-level nuclear inspections that will ensure "honesty" of its nuclear program; if Iran does not agree, there will be no further talks. Citing that and other major concessions, he said he has agreed to keep the Strait of Hormuz open and not to implement a maritime blockade.
-
----
-
-### 2026-06-23 19:22:47  #公司
-
-【世界最大清潔能源走廊騰出358億立方米防洪庫容】記者從三峽集團獲悉，為全力保障長江流域汛期安全，由烏東德、白鶴灘、溪洛渡、向家壩、三峽和葛洲壩六座梯級水電站構成的世界最大清潔能源走廊，日前全面完成年度消落工作，累計騰空防洪庫容358億立方米。所謂“年度消落”，也稱“汛前消落”，是指水庫按照年度執行排程方案，在主汛期來臨前有序將庫水位從正常蓄水位附近逐步降低至防洪限制水位、騰空防洪庫容的過程，是水庫水量排程的核心常規環節。（央視新聞）
-
----
-
-### 2026-06-23 19:22:43  #國際
-
-特朗普：伊朗已撥付資金，用於從美國購買食品和物資。
-
----
-
-### 2026-06-23 19:22:39  #國際
-
-特朗普：相關資金將用於採購食品與醫療物資。
-
----
-
-### 2026-06-23 19:22:35  #國際
-
-特朗普：已部署艦船，以備必要時重新實施封鎖。
-
----
-
-### 2026-06-23 19:22:21  #國際
-
-阿曼和伊朗23日發表聯合宣告，雙方同意透過兩國外交部之間的一個聯合工作組保持對話，以便就霍爾木茲海峽未來航行管理、提供的服務以及相關費用達成共識。（新華社）
-
----
-
-### 2026-06-23 19:22:13  #國際
-
-特朗普：我已同意允許霍爾木茲海峽保持開放，不再實施海上封鎖。
-
----
-
-### 2026-06-23 19:22:10  #國際
-
-特朗普稱：這將確保“核問題誠信”。若對方不同意該方案，談判將就此終止！
-
----
-
-### 2026-06-23 19:22:05  #焦點 #國際
-
-特朗普：伊朗已全面完全同意未來長期接受最高階別的核核查（永久核查！！！）
 
 ---

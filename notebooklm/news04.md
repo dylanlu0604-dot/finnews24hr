@@ -1,7 +1,205 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-06-27 03:49:07_
-_本檔包含 3485 則快訊，約 668800 字_
+_更新時間：2026-06-27 04:13:09_
+_本檔包含 3504 則快訊，約 668937 字_
+
+---
+
+### 2026-06-23 19:26:43  #MKT News #Important #WTI #Impact bearish #Brent
+
+【Trump says Iran agreed to long-term highest-level nuclear inspections; Hormuz blockade lifted, funds to be placed in US-controlled escrow】President Trump said Iran has fully agreed to accept long-term, potentially permanent, highest-level nuclear inspections and warned there would be no further talks if Iran refused. He said he has agreed not to impose a maritime blockade on the Strait of Hormuz and to keep the waterway open, though US vessels will remain on standby to reimpose a blockade if necessary. Any US Treasury disbursements and/or sanctions relief will be placed in a US-controlled escrow account and restricted to purchases of food and medical supplies procured entirely from the United States, including corn, wheat and soybeans. Trump characterized the move as humanitarian and said negotiations are progressing.
+
+---
+
+### 2026-06-23 19:26:30  #國際
+
+Argentum AI將在波蘭部署英偉達GB300晶片。
+
+---
+
+### 2026-06-23 19:26:09  #公司
+
+UREVO：UREVO年中促銷活動將為亞馬遜帶來2026年迄今為止最大的優惠。
+
+---
+
+### 2026-06-23 19:25:59  #MKT News #SPCX.O #Impact bullish
+
+SpaceX (SPCX.O) shares erased earlier losses in premarket trading and turned higher.
+
+---
+
+### 2026-06-23 19:25:49  #國際
+
+【阿曼和伊朗將協調霍爾木茲海峽未來航行管理】當地時間23日，阿曼同伊朗就霍爾木茲海峽問題發表聯合宣告，雙方同意透過兩國外交部之間的一個聯合工作組保持對話，以便就霍爾木茲海峽未來航行管理、提供的服務以及相關費用達成共識。（央視新聞）
+
+---
+
+### 2026-06-23 19:25:46  #MKT News #Commodities #Energy #WTI #Impact bearish #S&P500 #Impact bullish #DXY
+
+President Trump said oil prices are crashing and the world is becoming safer.
+
+---
+
+### 2026-06-23 19:25:37  #其他
+
+【重新整理世界算力新高度 “靈晟”問鼎全球超算TOP500】2026年6月23日，德國漢堡ISC2026大會（國際超算大會）釋出全球超算Top500榜單：全國產自主研製的“靈晟”超級計算機以2.19EFlops（每秒1018次浮點運算）持續雙精度浮點效能登頂全球超算TOP500，時隔九年，我國超算再次排名全球第一。（央視新聞）
+
+---
+
+### 2026-06-23 19:25:32  #國際
+
+特朗普：昨天有1900萬桶石油從霍爾木茲海峽運出。
+
+---
+
+### 2026-06-23 19:25:24  #國際
+
+普京：烏克蘭打擊俄羅斯民用目標意在在社會製造恐慌。
+
+---
+
+### 2026-06-23 19:25:21  #MKT News #XAUUSD #Impact bullish #DXY #Brent
+
+Putin said Ukraine’s attacks on Russian civilian targets are aimed at creating social panic.
+
+---
+
+### 2026-06-23 19:25:17  #國際
+
+【黎真主黨譴責以軍襲擊平民違反停火協議】黎巴嫩真主黨當地時間6月23日表示，以色列軍隊當天在黎巴嫩南部向平民開槍，造成兩人死亡，多人受傷，並稱該事件違反了雙方之間的停火協議。黎南部民防部門當天稱，以色列軍隊在黎南部奈拜提耶地區向平民開火，造成人員傷亡。以色列方面對此暫無回應。（央視新聞）
+
+---
+
+### 2026-06-23 19:25:04  #MKT News #Market Themes #The Trump Trade
+
+U.S. President Trump said Iran urgently needs food and medical supplies.
+
+---
+
+### 2026-06-23 19:25:02  #市場
+
+SPACEX股價抹去跌幅，盤前轉為上漲。
+
+---
+
+### 2026-06-23 19:24:52  #MKT News #Commodities #Energy
+
+【World's largest clean-energy corridor frees 35.8 bln cu m of flood-control capacity】Three Gorges Group said the six-station cascade on the Yangtze — Wudongde, Baihetan, Xiluodu, Xiangjiaba, Three Gorges and Gezhouba — completed its annual drawdown, releasing 35.8 bln cubic metres of flood-control reservoir capacity to secure the Yangtze basin ahead of flood season.
+
+---
+
+### 2026-06-23 19:24:52  #MKT News #Commodities #Energy #WTI #Impact bullish #Brent
+
+U.S. President Trump said 19 million barrels of oil flowed out of the Strait of Hormuz yesterday.
+
+---
+
+### 2026-06-23 19:24:51  #公司
+
+【新鄉化纖：擬定增募資不超13億元用於高品質生物質纖維素長絲等專案】新鄉化纖公告，公司2026年度擬向特定物件發行A股股票募集資金總額不超過13億元，扣除發行費用後募集資金淨額將全部用於高品質生物質纖維素長絲及配套工程、菌草材料高值化利用研發中心專案和補充流動資金等專案。其中，控股股東白鷺集團、新鄉國資集團擬合計認購金額不低於1億元，且在本次發行後兩者合計持有的公司股份比例不低於25.00%。
+
+---
+
+### 2026-06-23 19:24:46  #國際
+
+特朗普：伊朗迫切地需要食品和醫療用品。
+
+---
+
+### 2026-06-23 19:24:40  #其他
+
+Argentum AI與英偉達達成總規模78億美元合作協議。
+
+---
+
+### 2026-06-23 19:23:57  #MKT News #Important
+
+Trump said funds unfrozen by the U.S. Treasury and/or sanctions lifted will be deposited into a U.S.-controlled escrow account and used exclusively to buy U.S. food and medical supplies, including corn, wheat and soybeans grown by U.S. farmers.
+
+---
+
+### 2026-06-23 19:23:52  #公司
+
+【上海電氣與陝投集團攜手深化能源產業協同與高階裝備合作】據上海電氣訊息，6月23日上午，上海電氣集團黨委副書記、總裁朱兆開與陝西投資集團有限公司（簡稱“陝投集團”）黨委副書記、總經理唐宏軍舉行會談，雙方就深化滬陝兩地能源產業協同、推動高階裝備與能源場景融合落地達成多項共識。
+
+---
+
+### 2026-06-23 19:23:35  #宏觀 #焦點 #國際
+
+特朗普：美國財政部正在發放的資金將進入由美國管控的第三方託管賬戶，將用於從美國採購食品與醫療物資，包括玉米、小麥和大豆。
+
+---
+
+### 2026-06-23 19:23:28  #國際
+
+特朗普談伊朗：資金將存入由美國控制的第三方託管賬戶。
+
+---
+
+### 2026-06-23 19:23:21  #MKT News #Important #Market Themes #The Trump Trade
+
+US President Trump said all ships will remain on standby to reimpose a blockade if necessary, though he said the likelihood currently appears very low.
+
+---
+
+### 2026-06-23 19:23:20  #國際
+
+特朗普：釋放的資金將存入由美國控制的託管賬戶。
+
+---
+
+### 2026-06-23 19:23:07  #MKT News #Important #WTI #Impact bearish #Brent
+
+Trump said Iran has fully agreed to indefinite, highest-level nuclear inspections that will ensure "honesty" of its nuclear program; if Iran does not agree, there will be no further talks. Citing that and other major concessions, he said he has agreed to keep the Strait of Hormuz open and not to implement a maritime blockade.
+
+---
+
+### 2026-06-23 19:22:47  #公司
+
+【世界最大清潔能源走廊騰出358億立方米防洪庫容】記者從三峽集團獲悉，為全力保障長江流域汛期安全，由烏東德、白鶴灘、溪洛渡、向家壩、三峽和葛洲壩六座梯級水電站構成的世界最大清潔能源走廊，日前全面完成年度消落工作，累計騰空防洪庫容358億立方米。所謂“年度消落”，也稱“汛前消落”，是指水庫按照年度執行排程方案，在主汛期來臨前有序將庫水位從正常蓄水位附近逐步降低至防洪限制水位、騰空防洪庫容的過程，是水庫水量排程的核心常規環節。（央視新聞）
+
+---
+
+### 2026-06-23 19:22:43  #國際
+
+特朗普：伊朗已撥付資金，用於從美國購買食品和物資。
+
+---
+
+### 2026-06-23 19:22:39  #國際
+
+特朗普：相關資金將用於採購食品與醫療物資。
+
+---
+
+### 2026-06-23 19:22:35  #國際
+
+特朗普：已部署艦船，以備必要時重新實施封鎖。
+
+---
+
+### 2026-06-23 19:22:21  #國際
+
+阿曼和伊朗23日發表聯合宣告，雙方同意透過兩國外交部之間的一個聯合工作組保持對話，以便就霍爾木茲海峽未來航行管理、提供的服務以及相關費用達成共識。（新華社）
+
+---
+
+### 2026-06-23 19:22:13  #國際
+
+特朗普：我已同意允許霍爾木茲海峽保持開放，不再實施海上封鎖。
+
+---
+
+### 2026-06-23 19:22:10  #國際
+
+特朗普稱：這將確保“核問題誠信”。若對方不同意該方案，談判將就此終止！
+
+---
+
+### 2026-06-23 19:22:05  #焦點 #國際
+
+特朗普：伊朗已全面完全同意未來長期接受最高階別的核核查（永久核查！！！）
 
 ---
 
@@ -20953,89 +21151,5 @@ HSBC Holdings Stock Price Hits Near 27-year High — HSBC Holdings shares increa
 ### 2026-06-22 18:22:39  #宏觀
 
 【前5個月全國財政收入向好態勢繼續鞏固】）財政部6月22日釋出資料顯示，今年前5個月，全國一般公共預算收入100465億元，同比增長4%，增幅比前4個月提高0.5個百分點，收入向好態勢繼續鞏固。 其中，全國稅收收入82617億元，同比增長4.4%；非稅收入17848億元，同比增長2.2%。分中央和地方看，中央一般公共預算收入43850億元，同比增長5.7%；地方一般公共預算本級收入56615億元，同比增長2.7%。 財政支出方面，前5個月，全國一般公共預算支出113877億元，同比增長0.8%，重點領域支出得到較好保障。分中央和地方看，中央一般公共預算本級支出16815億元，同比增長6.5%；地方一般公共預算支出97062億元，同比下降0.1%。（新華社）
-
----
-
-### 2026-06-22 18:21:59  #公司
-
-【南寧百貨：公司副總經理李發奕被實施留置】南寧百貨公告，2026 年 6 月 18 日，公司收到相關監察委員會對公司副總經理李發奕實施留置的通知。目前，公司已對相關工作進行了妥善安排。公司嚴格按照《公司法》《上市公司治理準則》《上海證券交易所股票上市規則》等法律法規、規範性檔案及《公司章程》規範運作，公司董事和其他高階管理人員均正常履職，生產經營正常有序，公告事項不會對公司生產經營管理產生重大影響。
-
----
-
-### 2026-06-22 18:21:43  #公司
-
-【農產品：同意控股子公司江西海吉星公司受託運營洪旺市場】農產品公告，公司於2026年6月18日召開董事會會議，審議透過了《關於與南昌農產公司深化合作暨同意控股子公司江西海吉星公司受託運營洪旺市場的議案》。為夯實公司“全國一張網”佈局，同意公司與南昌市農業產業有限公司深化合作，在公司收購南昌農產公司控股子公司南昌西部物流產業有限公司49%股權並完成工商登記的基礎上，透過雙方共同組建的江西省海吉星國際農產品物流管理有限公司（公司持有51%股權），受託運營管理南昌西部物流產業有限公司所屬的南昌洪旺智慧農批大市場。
-
----
-
-### 2026-06-22 18:21:40  #公司
-
-【廣合科技：擬投資60億元建設東莞智造總部專案，已簽訂投資協議】廣合科技公告，公司為完善產業佈局，擬與東莞水鄉特色發展經濟區管理委員會、東莞市麻涌鎮人民政府簽訂《廣合科技東莞智造總部專案投資協議》，計劃在東莞市水鄉經濟區麻涌鎮投資建設“廣合科技東莞智造總部專案”，專案投資總額為60億元（含土地價款），其中固定資產投資50億元。專案一次性供地，分兩期投資建設，一期計劃投資金額30億元，二期計劃投資金額30億元。該事項已獲公司第三屆董事會第一次會議審議透過，尚需提交股東會審議。
-
----
-
-### 2026-06-22 18:21:37  #MKT News #GBPUSD #Impact bearish #FTSE100 #XAUUSD #Impact bullish
-
-【Andy Burnham declares bid for Labour leadership】UK Prime Minister Starmer resigned at 10 Downing Street on the morning of June 22. Labour will open nominations for a new leader from July 9. UK media reported Greater Manchester mayor Andy Burnham has declared his candidacy.
-
----
-
-### 2026-06-22 18:21:32  #MKT News
-
-【CCPIT vice chairman Lin Honghong meets Osaka Chamber chair, Suntory vice-chair Torii Shingo】China Council for the Promotion of International Trade (CCPIT) vice chairman Lin Honghong met in Beijing with Osaka Chamber of Commerce and Industry chairman and Suntory Holdings vice-chair Torii Shingo. They discussed promoting industrial and supply‑chain cooperation, expanding institutional exchanges and strengthening business ties.
-
----
-
-### 2026-06-22 18:21:01  #公司 #國際
-
-【Fervo Energy、英偉達就增強型地熱數字孿生平臺開發達成合作】美國地熱公司Fervo Energy、英偉達及美國太平洋西北國家實驗室（PNNL）6月22日宣佈，三方將聯合開發面向增強型地熱系統（EGS）的下一代數字孿生平臺EGS-Twin。EGS-Twin旨在透過融合高解析度現場資料、基於物理的模擬建模及AI預測，實現對地下儲層行為和運營表現的實時洞察。平臺預計於2029年完成部署。
-
----
-
-### 2026-06-22 18:20:43  #其他
-
-【伯納姆宣佈競選工黨黨首】當地時間今天（6月22日）上午，英國首相斯塔默在唐寧街10號發表宣告，宣佈辭職。執政黨工黨的新黨首提名程式將會從7月9日開始。據英國媒體報道，大曼徹斯特市長安迪·伯納姆已經宣佈競選工黨黨首。（CCTV國際時訊）
-
----
-
-### 2026-06-22 18:20:08  #其他
-
-港交所披露：6月16日，貝萊德對中興通訊H股的多頭持倉從7.87%降至6.62%。
-
----
-
-### 2026-06-22 18:20:03  #MKT News #Market Regions #Greater China #SSE Composite #Impact bullish #CSI300
-
-【28th Shanghai International Film Festival generated nearly 5.3 bln yuan in economic activity】The 28th Shanghai International Film Festival ended on June 21. Organizers said the event generated nearly 5.3 bln yuan across film-related sectors and transport, accommodation, catering, tourism and retail, up 5.97% YoY. Catering produced about 1.17 bln yuan and related shopping exceeded 3.0 bln yuan; transport, tourism and accommodation each saw substantial growth. More than 70% of domestic and international attendees traveled to Shanghai specifically for the festival, driving hotel, transport and attraction spending and contributing roughly 2.3 bln yuan to city tourism revenue.
-
----
-
-### 2026-06-22 18:20:01  #其他
-
-【中國貿促會副會長林紅紅會見大阪商工會議所會長、三得利控股株式會社副會長鳥井信吾】2026年6月21日，中國貿促會副會長林紅紅在京會見專程來華參加第四屆鏈博會的大阪商工會議所會長、三得利控股株式會社副會長鳥井信吾一行。雙方圍繞推動產業鏈供應鏈合作、增進兩機構往來、加強工商界聯絡等議題進行交流。
-
----
-
-### 2026-06-22 18:19:49  #其他
-
-美銀全球研究將達美航空目標股價從78美元上調至93美元。
-
----
-
-### 2026-06-22 18:19:42  #MKT News
-
-Chenghe Technology says some senior executives and key personnel plan to increase holdings by purchasing company shares worth 30–60 mln yuan.
-
----
-
-### 2026-06-22 18:19:18  #國際
-
-美銀環球研究將美國航空目標股價從14美元上調至16美元。
-
----
-
-### 2026-06-22 18:19:13  #Trading Economics #Economy #Ireland #Producer Prices Change #Importance 1
-
-Ireland Wholesale Prices Rise for Second Month — Wholesale prices in Ireland rose 1.6% year-on-year in May 2026, following a 1.4% increase in the previous month and marking the second consecutive month of gain after fourteen months of contraction. Producer prices recorded notable increases in chemical and chemical products (11.9%), fabricated metal products excluding machinery and equipment (4.8%), other non-metallic mineral products (4.5%), and basic metals (4.2%). Food products rose 1.3%, driven by an 8.9% increase in fish and fish products, while food products, beverages, and tobacco prices increased 1% from a year earlier. Meanwhile, energy fuel costs surged 37% and wholesale electricity prices jumped 33.1%. Overall manufacturing prices rose 1.6%, while construction products increased 3.1% compared with the same month last year. On a monthly basis, wholesale prices edged up 0.9% in May from a 0.2% increase in the prior month.
 
 ---
