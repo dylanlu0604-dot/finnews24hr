@@ -1,7 +1,53 @@
 {
-  "updated": "2026-06-27 01:17:50",
-  "count": 18033,
+  "updated": "2026-06-27 01:21:51",
+  "count": 18034,
   "items": [
+    {
+      "id": "mkt:019f04f3-21ef-7dd8-b13c-6f4d2421cf0c",
+      "time": "2026-06-27 01:21:10",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Market news: Venezuela earthquake death toll rises to 920."
+    },
+    {
+      "id": "4957882",
+      "time": "2026-06-27 01:20:59",
+      "tags": [
+        "其他"
+      ],
+      "text": "裡德半導體（Reed Semiconductor）宣佈完成1億美元融資。"
+    },
+    {
+      "id": "mkt:019f04f2-eced-7dd8-b13c-67b79ee16490",
+      "time": "2026-06-27 01:20:56",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars"
+      ],
+      "text": "Reed Semiconductor said it closed a $100 million funding round."
+    },
+    {
+      "id": "4957881",
+      "time": "2026-06-27 01:20:42",
+      "tags": [
+        "其他"
+      ],
+      "text": "剛果民主共和國稱，埃博拉確診病例已升至 1203 例，其中包含 321 例死亡病例。"
+    },
+    {
+      "id": "te:economy:562315",
+      "time": "2026-06-27 01:17:21",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "Calendar",
+        "Importance 2"
+      ],
+      "text": "Week Ahead - Jun 29th — Markets will monitor the flow of tankers and commercial vessels through the Strait of Hormuz, as the recent rebound in traffic drove energy prices to decline. The US will release a batch of labor market data, headlined by the June jobs report, topping off results from the JOLTS, ADP report, and the Challenger job cuts report. Other key data includes the ISM Manufacturing PMI, factory orders, and Case-Schiller home prices. In Europe, the ECB will host speeches by Governing Council members and other central bankers in their annual forum. Also, the Eurozone and its largest economies will publish their inflation rate. In Japan, the Tankan index will take the spotlight along with industrial production, retail sales, and the unemployment rate. Meanwhile, China will post both official and broader industry PMIs."
+    },
     {
       "id": "mkt:019f04ee-c3ba-7dd8-b13c-5aafb31afe70",
       "time": "2026-06-27 01:16:24",
@@ -11,6 +57,15 @@
         "The Fed (FOMC)"
       ],
       "text": "The Federal Reserve accepted $6.426 billion from eight counterparties in its fixed-rate reverse repurchase operation."
+    },
+    {
+      "id": "em:qqyh_mlc:202606273785193541",
+      "time": "2026-06-27 01:16:21",
+      "tags": [
+        "央行",
+        "美聯儲"
+      ],
+      "text": "美聯儲隔夜逆回購協議（RRP）週五使用規模為64.26億美元，上個交易日報57.18億美元。"
     },
     {
       "id": "4957880",
@@ -164870,49 +164925,6 @@
         "市場"
       ],
       "text": "馬士基哥本哈根股價收漲1.23%，本週累計下跌12.00%，6月15-18日持續走低。赫伯羅特德國法蘭克福股價收漲0.71%，本週累跌3.33%。德迅國際瑞士股價收跌0.55%，本週累跌7.08%。"
-    },
-    {
-      "id": "mkt:019ee0e7-082a-7dd8-b099-bb80f18d4c9b",
-      "time": "2026-06-20 01:21:37",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Emerging Markets"
-      ],
-      "text": "Interfax reports Russia will impose an 8% export duty on diamonds effective Sept. 1."
-    },
-    {
-      "id": "mkt:019ee0e6-151f-7dd8-b099-b548d738d4da",
-      "time": "2026-06-20 01:20:35",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "FHFA Director Pulte said Fannie Mae and Freddie Mac currently have strong liquidity."
-    },
-    {
-      "id": "4945379",
-      "time": "2026-06-20 01:20:11",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國聯邦住房金融局局長Bill Pulte： 房利美與房地美當前流動性狀況極為充裕，這一點從抵押貸款支援證券（MBS）市場行情向好、抵押貸款利差走勢穩健中就能體現出來。我預計今年夏秋兩季市場表現將十分亮眼！"
-    },
-    {
-      "id": "mkt:019ee0e4-59c5-7dd8-b099-ae99f50cbc2d",
-      "time": "2026-06-20 01:18:41",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Mediators in Iran-US talks to meet in Egypt on 21st】Iranian media reported Egypt and Pakistan said in a joint statement on the 19th that representatives of countries involved in mediating Iran-US negotiations will meet in Egypt on the 21st."
-    },
-    {
-      "id": "4945378",
-      "time": "2026-06-20 01:18:19",
-      "tags": [
-        "市場"
-      ],
-      "text": "布倫特8月原油期貨收報80.57美元/桶。"
     }
   ]
 }
