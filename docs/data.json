@@ -1,7 +1,430 @@
 {
-  "updated": "2026-06-26 22:42:52",
-  "count": 17958,
+  "updated": "2026-06-26 23:13:56",
+  "count": 17952,
   "items": [
+    {
+      "id": "mkt:019f047a-779a-7dd8-b139-f23e77c47761",
+      "time": "2026-06-26 23:09:22",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "Brent",
+        "Impact bearish",
+        "WTI"
+      ],
+      "text": "Brent crude extends intraday decline to 4.00%, trading at $72.17/bbl."
+    },
+    {
+      "id": "4957797",
+      "time": "2026-06-26 23:09:03",
+      "tags": [
+        "國際"
+      ],
+      "text": "【機構：霍爾木茲化肥運輸回升，但恢復至戰前水平仍需時日】Argus資料顯示，自6月15日華盛頓與德黑蘭宣佈達成協議以來，約64萬噸硫磺已透過該海峽運往印尼、摩洛哥、坦尚尼亞等地，而長達三個半月的戰爭期間僅為8萬噸。CRU資料顯示，同期約42.7萬噸尿素透過該海峽，高於戰爭期間的27.5萬噸。磷酸鹽和氨等其他化肥及原料運輸量也有所增加。但目前仍有超過500艘船隻滯留在波斯灣，儘管近期航運量回升，但仍遠低於戰前日均約125艘的水平。"
+    },
+    {
+      "id": "te:economy:562293",
+      "time": "2026-06-26 23:08:30",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Uganda",
+        "GDP Annual Growth Rate",
+        "Importance 0"
+      ],
+      "text": "Uganda GDP Growth Slows in Q1 — The economy of Uganda expanded by 5.8% year-on-year in Q1 2026, slowing from a 8.5% advance in the previous period. Output growth moderated significantly for primary activities (2.1% vs 8.8% in Q4), mainly attributed to cash crops (7.2% vs 12.6%), fishing (-10.3% vs 9.5%) and forestry (-4.8% vs 8.3%). The industrial sector also lost momentum (5.9% vs 12.3%). On a seasonally adjusted quarterly basis, the GDP rose by 1.2%."
+    },
+    {
+      "id": "4957796",
+      "time": "2026-06-26 23:08:03",
+      "tags": [
+        "其他"
+      ],
+      "text": "蘋果的“Touch MacBook”將採用M5 Pro和M5 Max 晶片；M7 型號則將在稍後推出。"
+    },
+    {
+      "id": "mkt:019f0478-785e-7dd8-b139-e8926d85392e",
+      "time": "2026-06-26 23:07:11",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Star Stocks",
+        "Apple",
+        "Market Themes",
+        "Chip Wars",
+        "Magnificent 7",
+        "AAPL.O",
+        "Impact bullish"
+      ],
+      "text": "Market sources: Apple (AAPL.O) to ship a touch-enabled MacBook with M5 Pro and M5 Max chips; an M7-equipped model to follow later."
+    },
+    {
+      "id": "mkt:019f0477-af9d-7dd8-b139-e14e9c080d76",
+      "time": "2026-06-26 23:06:20",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "The U.S. Embassy in India said U.S. Trade Representative Greer held productive meetings with Indian officials this week."
+    },
+    {
+      "id": "4957795",
+      "time": "2026-06-26 23:06:13",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國貿易代表格里爾本週與印度官員舉行了富有成效的會談。"
+    },
+    {
+      "id": "4957794",
+      "time": "2026-06-26 23:05:30",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：白俄羅斯與俄羅斯兩國總統的會談已經開啟，兩國元首在位於瓦爾代的普京官邸舉行一對一單獨會晤。"
+    },
+    {
+      "id": "mkt:019f0472-f9bc-7dd8-b139-d83d011a4a44",
+      "time": "2026-06-26 23:01:11",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "As of the 23:00 close, China’s onshore futures main contracts were mixed. Synthetic rubber fell more than 2%; fuel oil, 20# rubber and PVC dropped over 1%; styrene (EB), soda ash and low-sulfur fuel oil (LU) declined about 1%. On the upside, coke and coking coal rose more than 1%; starch, rapeseed meal and Soybean No.2 gained roughly 1%."
+    },
+    {
+      "id": "te:markets:562291",
+      "time": "2026-06-26 23:00:05",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "FX Updates: Norwegian Krone Drops by 0.66% — Top currency losers are Norwegian Krone (-0.66%), Turkish Lira (-0.26%) and Dollar Index (-0.12%). Gains are led by South Korean Won (0.55%), Brazilian Real (0.41%), Indian Rupee (0.27%) and Euro (0.21%). Meanwhile, British Pound and Japanese Yen were little changed."
+    },
+    {
+      "id": "4957793",
+      "time": "2026-06-26 23:00:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "【夜盤期貨收盤】燃料油連續跌1.54%，焦炭連續漲1.21%，焦煤連續漲1.13%，20號膠連續跌1.12%，PVC連續跌1.08%。"
+    },
+    {
+      "id": "mkt:019f0471-d8e6-7dd8-b139-d24b99b9870c",
+      "time": "2026-06-26 22:59:57",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "The International Maritime Organization said about 80 sea mines may have been laid in the Strait of Hormuz's conventional shipping lanes."
+    },
+    {
+      "id": "4957792",
+      "time": "2026-06-26 22:59:43",
+      "tags": [
+        "國際"
+      ],
+      "text": "【俄羅斯與烏克蘭交換320名被俘軍人】俄羅斯與烏克蘭26日交換320名被俘軍人，雙方各移交160人。俄羅斯國防部26日發表宣告說，160名俄軍被俘人員當天從烏克蘭控制區返回。作為交換，俄方向烏方移交160名被俘人員。阿拉伯聯合大公國在此次行動中參與調解。俄方人員目前正在白俄羅斯接受醫療救治和心理疏導，之後將返回俄羅斯。同日，烏克蘭戰俘待遇協調總部在社交媒體發文稱，當天160名烏軍戰俘被釋放回國。所有被釋放人員都將接受必要的醫學檢查和治療。烏戰俘待遇協調總部說，這是俄烏衝突全面爆發以來雙方第76次換俘。截至目前，已有9606名烏軍被俘人員透過換俘行動獲釋。（新華社）"
+    },
+    {
+      "id": "mkt:019f0471-271d-7dd8-b139-cab2537bc367",
+      "time": "2026-06-26 22:59:12",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Sources: OpenAI considering IPO as early as 2027】Sources say OpenAI is weighing an IPO as early as 2027 and expects AI rival Anthropic may list first. Both firms have reportedly submitted confidential filings to the US SEC, but OpenAI management judges Anthropic is likely to beat it to market. Earlier reports targeted an OpenAI autumn listing and an Anthropic IPO as soon as October. Sources said recent tech-stock volatility has affected OpenAI’s timing; discussions are ongoing and plans could change."
+    },
+    {
+      "id": "4957791",
+      "time": "2026-06-26 22:59:08",
+      "tags": [
+        "其他"
+      ],
+      "text": "美元指數DXY短線上揚20點，最新報101.29。"
+    },
+    {
+      "id": "4957790",
+      "time": "2026-06-26 22:59:06",
+      "tags": [
+        "其他",
+        "焦點"
+      ],
+      "text": "國際海事組織：霍爾木茲海峽常規航道或存在約80枚水雷。"
+    },
+    {
+      "id": "mkt:019f0470-e6a2-7dd8-b139-c69b29c13afd",
+      "time": "2026-06-26 22:58:55",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish",
+        "XAUUSD",
+        "Impact bearish",
+        "WTI"
+      ],
+      "text": "Dollar index (DXY) briefly rose 20 points intraday to 101.29."
+    },
+    {
+      "id": "4957789",
+      "time": "2026-06-26 22:57:37",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【長城汽車召開2025年年度股東會 魏建軍：公司走向海外 產品可靠尤為重要】長城汽車今日召開2025年年度股東會。長城汽車提出企業價值觀、財務造血力、研發續航力、技術穿透力、產業駕馭力、品牌成長力六大價值維度。長城汽車董事長魏建軍表示，公司走向海外，產品可靠尤為重要，不出事就是最好的售後。我們還要苦練內功，把技術儲備好，把使用者的使用費用、維修費用都要降得很低，都要有競爭力。同時，長城汽車總裁穆峰透露，長城汽車將繼續深耕歐洲市場，公司的長期願景是成為歐洲市場的主流品牌之一。為了更好地開啟歐洲市場，長城汽車要在當地建立研發和生產能力，運營全資擁有的銷售與服務組織，致力於成為歐洲汽車產業生態的有機組成部分。"
+    },
+    {
+      "id": "4957788",
+      "time": "2026-06-26 22:57:34",
+      "tags": [
+        "其他"
+      ],
+      "text": "【任鴻斌會長出席“投資孟加拉國”高層投資研討會】任鴻斌會長出席“投資孟加拉國”高層投資研討會6月25日，“投資孟加拉國”高層投資研討會在北京舉辦，孟加拉國總理塔裡克·拉赫曼出席並講話，中國貿促會會長任鴻斌出席並致辭。任鴻斌表示，中國貿促會願同孟方一道，以兩國領導人重要共識為引領，依託中國國際供應鏈促進博覽會等平臺，加強共建“一帶一路”等領域合作，推動擴大雙邊貿易規模，支援中國企業赴孟投資興業，助力中孟企業在互利合作中相互成就，推動中孟全面戰略伙伴關係不斷向前發展。此次研討會由中國貿促會、孟加拉國投資發展局和孟加拉國駐華使館共同舉辦，來自中孟兩國政府和工商界100餘人參會。（中國貿促）"
+    },
+    {
+      "id": "mkt:019f046f-9e95-7dd8-b139-b84239b11ce3",
+      "time": "2026-06-26 22:57:31",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Emerging Markets",
+        "WTI",
+        "Impact mixed",
+        "Brent"
+      ],
+      "text": "Sources say transmission lines in central Venezuela have been disrupted, slowing post-earthquake recovery of ports, oil refining and petrochemical operations."
+    },
+    {
+      "id": "4957787",
+      "time": "2026-06-26 22:57:18",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "【阿曼：透過霍爾木茲海峽的船舶可能需支付費用】據知情人士透露，阿曼已告知歐洲官員，霍爾木茲海峽無法回到戰前狀態，過境船舶可能需支付一定費用。訊息人士表示，阿曼官員稱將始終遵守國際海事法，但同時補充稱，可能與海峽汙染清理或船舶導航相關的服務會產生費用。目前尚不清楚阿曼是否表示所有這些費用都是強制性的。知情人士稱，阿曼正在分析全球各咽喉要道所使用的收費體系，包括亞洲的馬六甲海峽——該區域目前並無強制性航運收費。而美國、歐洲及阿曼的海灣鄰國日益擔憂，阿曼可能與伊朗共同為霍爾木茲海峽設立收費體系。"
+    },
+    {
+      "id": "4957786",
+      "time": "2026-06-26 22:56:53",
+      "tags": [
+        "其他"
+      ],
+      "text": "訊息人士稱，委內瑞拉中部地區輸電線路停運，導致地震後港口、原油煉製及石化作業的重啟程序放緩。"
+    },
+    {
+      "id": "4957785",
+      "time": "2026-06-26 22:55:55",
+      "tags": [
+        "公司"
+      ],
+      "text": "永康控股有限公司更新聆訊後資料集，意味著該公司港交所IPO透過聆訊。"
+    },
+    {
+      "id": "4957784",
+      "time": "2026-06-26 22:55:49",
+      "tags": [
+        "其他"
+      ],
+      "text": "【南非總統呼籲積極推進南部非洲區域一體化】南非總統拉馬福薩26日在南非立法首都開普敦表示，南部非洲國家應積極推進區域一體化，增強經濟韌性，攜手邁向共同繁榮。第9屆南部非洲關稅同盟峰會當天在開普敦國際會議中心舉行。拉馬福薩在開幕式上發表講話時說，在當前全球經濟充滿不確定性、貿易競爭日益激烈的情況下，非洲增強經濟韌性的需求變得尤為迫切。非洲各國應透過非洲大陸自由貿易區等框架以及南部非洲關稅同盟等機制，加強非洲內部的商業和貿易往來。（新華社）"
+    },
+    {
+      "id": "4957783",
+      "time": "2026-06-26 22:55:15",
+      "tags": [
+        "其他"
+      ],
+      "text": "伊比利亞航空為受航班停飛影響的旅客提供靈活退改政策。"
+    },
+    {
+      "id": "4957782",
+      "time": "2026-06-26 22:54:57",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：瑞士貝茲瑙核電站因高溫停運。"
+    },
+    {
+      "id": "4957781",
+      "time": "2026-06-26 22:54:35",
+      "tags": [
+        "其他"
+      ],
+      "text": "伊比利亞航空：馬德里-加拉加斯航線復航計劃將於7月1日後評估。"
+    },
+    {
+      "id": "4957780",
+      "time": "2026-06-26 22:54:18",
+      "tags": [
+        "其他"
+      ],
+      "text": "伊比利亞航空：將暫停飛往加拉加斯的航班，直至7月1日。"
+    },
+    {
+      "id": "4957779",
+      "time": "2026-06-26 22:53:19",
+      "tags": [
+        "觀點",
+        "國際"
+      ],
+      "text": "【繼瑞銀、摩根大通、美銀、高盛、大摩之後，巴克萊也下調油價預期】巴克萊銀行：下調布倫特原油價格預測，將2026年的預期從每桶100美元下調至96美元，2027年的預期從88美元下調至85美元，理由是霍爾木茲海峽的石油運輸正在恢復。霍爾木茲海峽的石油流量已大幅回升，達到戰前水平的約80%。然而，這種正常化程序尚不完整。該行表示，伊朗透過徵收費用和協調機制來主張控制權，這製造了摩擦，並可能給全面恢復帶來潛在的延誤。上週達成的一項旨在結束美以針對伊朗戰爭的臨時協議，已經允許霍爾木茲海峽航運路線的交通得以恢復。"
+    },
+    {
+      "id": "4957778",
+      "time": "2026-06-26 22:52:40",
+      "tags": [
+        "公司"
+      ],
+      "text": "上海聯泰科技股份有限公司向港交所提交上市申請書，獨家保薦人為國泰海通。"
+    },
+    {
+      "id": "mkt:019f0469-9458-7dd8-b139-b69e88f1b6f8",
+      "time": "2026-06-26 22:50:55",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Oman warned European allies the Strait of Hormuz may need to levy vessel transit fees."
+    },
+    {
+      "id": "4957777",
+      "time": "2026-06-26 22:49:50",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "阿曼向歐洲盟友發出警示：霍爾木茲海峽或需徵收船舶通行費。"
+    },
+    {
+      "id": "4957776",
+      "time": "2026-06-26 22:49:18",
+      "tags": [
+        "公司"
+      ],
+      "text": "【紅星冷鏈：2026年8月25日將派發股息0.351025港元/股】紅星冷鏈（01641.HK）公告，公司將於2026年8月25日派發截至2025年12月31日止年度的末期股息，每股派發0.351025港元。除淨日為2026年6月30日，記錄日期為2026年7月8日。H股股東需於2026年7月2日16:30前完成股份過戶登記，股份過戶登記處暫停辦理過戶手續時間為2026年7月3日至7月8日。"
+    },
+    {
+      "id": "4957775",
+      "time": "2026-06-26 22:48:49",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國衛生與公眾服務部：戰略準備與響應署在強化美國本土備災能力的同時，支援全球應對埃博拉疫情工作。"
+    },
+    {
+      "id": "4957774",
+      "time": "2026-06-26 22:48:43",
+      "tags": [
+        "其他"
+      ],
+      "text": "【英媒：英國將把軍費開支再增加至少10億英鎊】英國媒體援引知情人士的話報道稱，英國首相基爾·斯塔默勢必會將軍費開支在原來計劃基礎上至少增加10億英鎊。英國定於週二公佈國防投資計劃。《金融時報》援引知情人士的話稱，預計未來四年軍費總額將增加約145億至150億英鎊，將包括增加對無人機和其他自動系統的投資。John Healey本月早些時候辭去國防大臣職務，原因是認為政府在國防投資計劃上的支出不足。"
+    },
+    {
+      "id": "4957773",
+      "time": "2026-06-26 22:48:38",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "白銀連續主力合約日內漲3%，現報14440.00元。"
+    },
+    {
+      "id": "mkt:019f0465-7852-7dd8-b139-af88fb33fbc8",
+      "time": "2026-06-26 22:46:26",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact mixed",
+        "Brent"
+      ],
+      "text": "Iraq's oil ministry said Baghdad supports re-evaluating OPEC production quotas to reflect members' actual circumstances and that Iraq's own economic and security situation needs to be taken into account."
+    },
+    {
+      "id": "4957771",
+      "time": "2026-06-26 22:46:14",
+      "tags": [
+        "公司"
+      ],
+      "text": "【ST長園：因近11億元關聯資金佔用未及時披露，公司及兩名高管擬合計被罰420萬元】6月26日晚間，ST長園（600525.SH）釋出公告稱，公司收到中國證監會深圳監管局（簡稱“深圳證監局”）下發的《行政處罰事先告知書》，因近11億元關聯資金佔用未及時披露，公司及兩名責任高管擬合計被罰420萬元。"
+    },
+    {
+      "id": "mkt:019f0464-f5bf-7dd8-b139-a06a0813f362",
+      "time": "2026-06-26 22:45:53",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Brent"
+      ],
+      "text": "Iraq's Ministry of Oil said the prime minister did not discuss withdrawing from OPEC, contradicting media reports."
+    },
+    {
+      "id": "4957770",
+      "time": "2026-06-26 22:45:13",
+      "tags": [
+        "其他"
+      ],
+      "text": "伊拉克石油部表示，巴格達支援重新評估石油輸出國組織（OPEC）的產量配額，以反映各成員國的實際狀況，同時也需顧及伊拉克自身的經濟與安全域性勢。"
+    },
+    {
+      "id": "4957769",
+      "time": "2026-06-26 22:44:25",
+      "tags": [
+        "其他"
+      ],
+      "text": "伊拉克石油部表示，總理並未如媒體反應所稱討論過退出石油輸出國組織（OPEC）。"
+    },
+    {
+      "id": "te:markets:562290",
+      "time": "2026-06-26 22:44:02",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "commodity",
+        "Importance 0"
+      ],
+      "text": "Crude Oil Hits 17-week Low — Crude Oil decreased to 68.86 USD/Bbl, the lowest since February 2026. Over the past 4 weeks, Crude Oil WTI lost 22.2%, and in the last 12 months, it increased 5.31%."
+    },
+    {
+      "id": "mkt:019f0463-1daf-7dd8-b139-9f0312804900",
+      "time": "2026-06-26 22:43:52",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "Iraq's Oil Ministry said OPEC has reached a high-level consensus and will consider Iraq's past special circumstances and current needs when formulating related arrangements."
+    },
+    {
+      "id": "te:markets:562289",
+      "time": "2026-06-26 22:43:49",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 2"
+      ],
+      "text": "US Natgas Prices Rise to Nearly 5-Month High — US natural gas prices climbed toward $3.35 per MMBtu, the highest since early February, propelled by increased flows to liquefied natural gas export facilities and forecasts for warmer weather through July 10. This hotter weather is expected to drive up electricity demand for air conditioning in a country where gas-fired plants generate roughly 40% of the power supply. Average daily flows to major export plants rose to 17.3 billion cubic feet so far in June, up from 17.1 billion cubic feet in May, boosted by record feedgas activity at the Golden Pass facility in Texas. Simultaneously, the Energy Information Administration reported a near-normal storage injection of 76 billion cubic feet for the week ended June 19. This addition keeps domestic stockpiles about 5.7% above seasonal norms. At the same time, production in the Lower 48 states has been steady at 109.7 billion cubic feet per day so far in June, unchanged from the previous month."
+    },
+    {
+      "id": "4957768",
+      "time": "2026-06-26 22:42:57",
+      "tags": [
+        "其他"
+      ],
+      "text": "伊拉克石油部表示，石油輸出國組織（OPEC）內部已達成高層共識，該共識兼顧了伊拉克過往的境況與當前的需求。"
+    },
     {
       "id": "4957767",
       "time": "2026-06-26 22:41:50",
@@ -163613,456 +164036,6 @@
         "Europe & UK"
       ],
       "text": "European Council President COSTA said Europe needs to support Ukraine through diplomatic means, including establishing direct communication channels with Russia."
-    },
-    {
-      "id": "4945325",
-      "time": "2026-06-19 23:13:28",
-      "tags": [
-        "國際"
-      ],
-      "text": "歐盟委員會主席馮德萊恩：若施壓需求強烈，將啟用該工具。"
-    },
-    {
-      "id": "mkt:019ee071-affb-7dd8-b098-a4323b83bd81",
-      "time": "2026-06-19 23:13:27",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "European Commission President von der Leyen said the tool will help firms reduce risk more quickly."
-    },
-    {
-      "id": "mkt:019ee071-9d61-7dd8-b098-9d85291db694",
-      "time": "2026-06-19 23:13:22",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "European Commission President von der Leyen said the new trade instrument will not be subject to national restrictions."
-    },
-    {
-      "id": "4945324",
-      "time": "2026-06-19 23:12:08",
-      "tags": [
-        "國際"
-      ],
-      "text": "歐盟委員會主席馮德萊恩：全新貿易工具不針對特定國家。"
-    },
-    {
-      "id": "4945323",
-      "time": "2026-06-19 23:10:33",
-      "tags": [
-        "公司"
-      ],
-      "text": "墨西哥總統辛鮑姆：墨西哥國家石油公司及能源部代表團將於下週赴巴西簽署與巴西國家石油公司的合作協議。"
-    },
-    {
-      "id": "mkt:019ee06e-74bb-7dd8-b098-930f0c05bd44",
-      "time": "2026-06-19 23:09:55",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Emerging Markets"
-      ],
-      "text": "President Sheinbaum said teams from Mexico's Pemex and the Ministry of Energy will travel to Brazil next week to sign an agreement with Petrobras."
-    },
-    {
-      "id": "mkt:019ee069-6c71-7dd8-b098-8ff8a723acc3",
-      "time": "2026-06-19 23:04:25",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Israel Defense Forces (IDF) says the incident is over; no anomalies detected and no injuries reported."
-    },
-    {
-      "id": "mkt:019ee068-2cee-7dd8-b098-80b534ff3364",
-      "time": "2026-06-19 23:03:04",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Israel Defense Forces identified two suspicious aerial targets."
-    },
-    {
-      "id": "4945322",
-      "time": "2026-06-19 23:02:54",
-      "tags": [
-        "國際"
-      ],
-      "text": "歐盟委員會主席馮德萊恩： 若俄羅斯坐到談判桌前，歐洲必須拿出統一立場。"
-    },
-    {
-      "id": "mkt:019ee067-694e-7dd8-b098-796ec00664b2",
-      "time": "2026-06-19 23:02:13",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK"
-      ],
-      "text": "European Commission President von der Leyen said Europe must present a united message when Russia comes to the negotiating table."
-    },
-    {
-      "id": "4945321",
-      "time": "2026-06-19 23:01:53",
-      "tags": [
-        "國際"
-      ],
-      "text": "加拿大政府宣告：來自美國、墨西哥、以色列、智利及發展中國家的罐裝蔬菜暫不徵收臨時關稅。"
-    },
-    {
-      "id": "mkt:019ee066-c3c0-7dd8-b098-75e6a16e52f7",
-      "time": "2026-06-19 23:01:31",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "European Council president Costa said a volunteer alliance must also play a role in Ukraine-Russia security guarantees negotiations."
-    },
-    {
-      "id": "4945320",
-      "time": "2026-06-19 23:00:58",
-      "tags": [
-        "其他"
-      ],
-      "text": "加拿大宣佈自6月19日起對全球進口罐裝蔬菜加徵10%附加稅，實施期限最長200天。"
-    },
-    {
-      "id": "mkt:019ee066-3749-7dd8-b098-6e716cc0f99e",
-      "time": "2026-06-19 23:00:55",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Canada announced a 10% tariff surcharge on imports of canned vegetables from all countries, effective June 19, for a maximum of 200 days."
-    },
-    {
-      "id": "4945319",
-      "time": "2026-06-19 23:00:49",
-      "tags": [
-        "其他"
-      ],
-      "text": "兩名伊拉克官員透露，伊拉克計劃在未來幾天內將南部油田原油日產量提高至200萬桶。"
-    },
-    {
-      "id": "mkt:019ee065-a96e-7dd8-b098-671b6c0addfb",
-      "time": "2026-06-19 23:00:19",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "Two Iraqi officials said Iraq plans to raise crude output from its southern oilfields to 2 million barrels per day in the coming days."
-    },
-    {
-      "id": "mkt:019ee065-7c4f-7dd8-b098-5e6a542c5bd6",
-      "time": "2026-06-19 23:00:07",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "European Council President COSTA said the EU must be able to convey its message directly to Russia."
-    },
-    {
-      "id": "te:markets:560517",
-      "time": "2026-06-19 23:00:05",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Currency",
-        "Importance 1"
-      ],
-      "text": "FX Updates: Brazilian Real Appreciates by 0.88% — Top currency gainers are Brazilian Real (0.88%), Norwegian Krone (0.61%), South Korean Won (0.49%), British Pound (0.17%), Japanese Yen (0.12%) and Euro (0.07%). Biggest losers are Swiss Franc (-0.42%), New Zealand Dollar (-0.30%), Canadian Dollar (-0.30%) and Dollar Index (-0.06%)."
-    },
-    {
-      "id": "mkt:019ee065-64a0-7dd8-b098-57656332a130",
-      "time": "2026-06-19 23:00:01",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "European Council President Costa says he is establishing diplomatic channels with Russia."
-    },
-    {
-      "id": "4945318",
-      "time": "2026-06-19 22:59:53",
-      "tags": [
-        "其他"
-      ],
-      "text": "歐盟科斯塔：意願聯盟也需在烏克蘭-俄羅斯安全保障談判中發揮作用。"
-    },
-    {
-      "id": "mkt:019ee065-3a77-7dd8-b098-4a027abc2398",
-      "time": "2026-06-19 22:59:50",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK"
-      ],
-      "text": "European Council President Costa said Europe cannot rely on others to interpret information from Russia."
-    },
-    {
-      "id": "4945317",
-      "time": "2026-06-19 22:59:45",
-      "tags": [
-        "國際"
-      ],
-      "text": "歐盟代表科斯塔：我們必須能夠直接向俄羅斯傳遞我方訊息。"
-    },
-    {
-      "id": "mkt:019ee064-f912-7dd8-b098-472752165814",
-      "time": "2026-06-19 22:59:34",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK"
-      ],
-      "text": "COSTA, president of the European Council, said Europe stands with Ukraine."
-    },
-    {
-      "id": "4945316",
-      "time": "2026-06-19 22:59:33",
-      "tags": [
-        "國際"
-      ],
-      "text": "歐盟官員科斯塔：目前我們沒有可靠跡象表明俄羅斯有意參與實質性談判。"
-    },
-    {
-      "id": "mkt:019ee064-a732-7dd8-b098-3dba8190688f",
-      "time": "2026-06-19 22:59:13",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "WTI",
-        "DXY"
-      ],
-      "text": "European Council president COSTA said there are currently no credible signs that Russia is willing to engage in serious negotiations."
-    },
-    {
-      "id": "4945315",
-      "time": "2026-06-19 22:59:11",
-      "tags": [
-        "國際"
-      ],
-      "text": "歐盟的科斯塔：歐盟不會、也無意充當調解人，我們站在烏克蘭一邊。"
-    },
-    {
-      "id": "mkt:019ee064-6050-7dd8-b098-3557b5ed191e",
-      "time": "2026-06-19 22:58:55",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK"
-      ],
-      "text": "European Council President Costa said the EU is not, and does not intend to become, a mediator in the Ukraine-Russia conflict."
-    },
-    {
-      "id": "4945314",
-      "time": "2026-06-19 22:58:35",
-      "tags": [
-        "國際"
-      ],
-      "text": "以色列國防軍宣告：此前扎裡特地區響起警報，預警有敵方飛行器侵入，隨後我方偵測到兩個可疑空中目標。"
-    },
-    {
-      "id": "mkt:019ee064-10ee-7dd8-b098-2c43489d4816",
-      "time": "2026-06-19 22:58:34",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "Two oil officials said southern Iraqi oilfields increased daily output by 250,000 barrels to about 1.75 million bpd."
-    },
-    {
-      "id": "mkt:019ee063-ed29-7dd8-b098-2693a45b03fe",
-      "time": "2026-06-19 22:58:25",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "【Israeli strikes kill 47, injure 97 in Lebanon; heavy bombardment continues less than hour after ceasefire】Lebanon’s Ministry of Public Health emergency operations center said Israeli strikes since the early hours of June 19 local time have killed 47 people and injured 97. Lebanese media reported that less than an hour after Israel and Hezbollah agreed to a ceasefire, Israeli forces continued heavy bombardment of southern Lebanon. Hezbollah said it immediately began complying with the agreement but reserved the right \"to respond if Israel violates the ceasefire.\""
-    },
-    {
-      "id": "4945313",
-      "time": "2026-06-19 22:58:24",
-      "tags": [
-        "其他"
-      ],
-      "text": "兩名石油行業官員透露：伊拉克南部油田日產量提升 25 萬桶，達到約 175 萬桶。"
-    },
-    {
-      "id": "mkt:019ee063-4335-7dd8-b098-1bd85c0f82c8",
-      "time": "2026-06-19 22:57:42",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "German Chancellor Merz rejects EU trade sanctions on Israel."
-    },
-    {
-      "id": "mkt:019ee061-424b-7dd8-b098-144ea91b4e30",
-      "time": "2026-06-19 22:55:30",
-      "tags": [
-        "MKT News",
-        "UBER.O",
-        "Impact bullish"
-      ],
-      "text": "Turkey has conditionally approved Uber's acquisition of Getir's Turkish business; Uber pledged to invest $500m in Turkey."
-    },
-    {
-      "id": "4945312",
-      "time": "2026-06-19 22:54:48",
-      "tags": [
-        "其他"
-      ],
-      "text": "土耳其反壟斷委員會稱，Uber承諾在土耳其投資 5 億美元。"
-    },
-    {
-      "id": "4945311",
-      "time": "2026-06-19 22:54:35",
-      "tags": [
-        "其他"
-      ],
-      "text": "土耳其有條件批准Uber收購 Getir 相關業務。"
-    },
-    {
-      "id": "4945310",
-      "time": "2026-06-19 22:48:52",
-      "tags": [
-        "國際"
-      ],
-      "text": "【日本簽證費漲5倍】6月19日，日本內閣會議上正式透過決定修改將外國人簽證發放手續費提高到現行5倍的政令。日本一次性入境簽證從3000日元增加到15000日元；多次入境簽證從6000日元增加到30000日元。適用於7月1日之後的申請。"
-    },
-    {
-      "id": "4945309",
-      "time": "2026-06-19 22:48:00",
-      "tags": [
-        "國際"
-      ],
-      "text": "德國總理默茨： 像烏克蘭這樣的國家，在處於戰爭狀態時，無法成為歐盟成員。 然而，它可以成為歐盟的準成員國，並隨後成為歐盟的正式成員國。"
-    },
-    {
-      "id": "mkt:019ee059-8a2a-7dd8-b098-0a425c7887b2",
-      "time": "2026-06-19 22:47:04",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "【Iran ships 20 mln barrels of oil this week】Bloomberg shipping data shows 11 tankers left Chabahar port in the Gulf of Oman this week carrying about 20 mln barrels of crude. The cargoes had previously been blocked by the U.S. military from entering the Indian Ocean to restrict Tehran's access to petrodollars. The shipments coincide with Iran signing a temporary peace agreement with Washington on Wednesday and may be positive for Tehran's oil revenue access."
-    },
-    {
-      "id": "4945308",
-      "time": "2026-06-19 22:45:53",
-      "tags": [
-        "國際"
-      ],
-      "text": "【伊朗伊斯蘭革命衛隊說“堅定支援國家領導層”】伊朗伊斯蘭革命衛隊19日發表致伊朗最高領袖穆傑塔巴·哈梅內伊的公開信稱，伊朗人民和武裝力量“堅定支援國家領導層”。公開信說，最高領袖日前的重要講話進一步增強了伊朗民眾團結，鼓舞了前線作戰人員維護既有成果的信心，也為伊朗政治層面維護國家權益提供了重要支援。伊朗人民和武裝力量期待政治領域的努力能夠延續戰場成果，推動伊朗合法權益得到保護。公開信強調，如果有關方面違背承諾、提出過分要求或損害伊朗國家利益，伊朗伊斯蘭革命衛隊已準備好在陸地、海上、空中以及其他作戰領域採取行動。（新華社）"
-    },
-    {
-      "id": "mkt:019ee058-6e3d-7dd8-b098-0419a8a8d764",
-      "time": "2026-06-19 22:45:52",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【IRGC pledges firm support for Supreme Leader Khamenei】Iran's Islamic Revolutionary Guard Corps (IRGC) in a public letter to Supreme Leader Khamenei on the 19th said the Iranian people and armed forces \"firmly support the national leadership.\" The IRGC said Khamenei's recent remarks bolstered domestic unity and frontline morale and urged political efforts to consolidate battlefield gains and safeguard Iran's legitimate rights. It warned that if other parties renege, make excessive demands or damage Iran's national interests, the IRGC is prepared to act on land, at sea, in the air and in other operational domains."
-    },
-    {
-      "id": "4945307",
-      "time": "2026-06-19 22:44:50",
-      "tags": [
-        "國際"
-      ],
-      "text": "歐盟委員會主席馮德萊恩：將推出新工具，打造多元化配套機制。"
-    },
-    {
-      "id": "mkt:019ee057-162a-7dd8-b097-f9f28e811fcb",
-      "time": "2026-06-19 22:44:24",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "European Commission President Von der Leyen said she will work to develop new, diversified policy tools."
-    },
-    {
-      "id": "mkt:019ee057-03c5-7dd8-b097-f66766db81d3",
-      "time": "2026-06-19 22:44:19",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK"
-      ],
-      "text": "European Commission President von der Leyen said the EU must more proactively use its toolbox to defend the bloc."
-    },
-    {
-      "id": "mkt:019ee056-bab4-7dd8-b097-edaa5db37539",
-      "time": "2026-06-19 22:44:00",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Spain has not yet decided whether to provide support for the solar industry."
-    },
-    {
-      "id": "4945306",
-      "time": "2026-06-19 22:43:59",
-      "tags": [
-        "其他"
-      ],
-      "text": "西班牙考慮向陷入困境的太陽能產業提供財政援助。"
-    },
-    {
-      "id": "mkt:019ee056-9b4a-7dd8-b097-e4e3007165a5",
-      "time": "2026-06-19 22:43:52",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "【Iran denies inviting IAEA to inspect its nuclear facilities】Iran's foreign ministry spokesman Baghaei posted on social media on the 19th denying media reports that Iran invited the IAEA to inspect its nuclear facilities, Xinhua reported."
-    },
-    {
-      "id": "mkt:019ee056-97a8-7dd8-b097-ddc927d0ecfb",
-      "time": "2026-06-19 22:43:51",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "The Spanish government is reviewing the solar sector."
-    },
-    {
-      "id": "4945305",
-      "time": "2026-06-19 22:43:46",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "【伊朗否認邀請國際原子能機構對其核設施進行檢查】伊朗外交部發言人巴加埃19日在社交媒體發文，否認部分媒體關於“伊朗邀請國際原子能機構對伊朗核設施進行檢查”的說法。（新華社）"
-    },
-    {
-      "id": "mkt:019ee056-5285-7dd8-b097-d009cbf2a6b0",
-      "time": "2026-06-19 22:43:34",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Von der Leyen said the Middle East needs alternative corridors, including an India-Middle East-Europe Economic Corridor (IMEC)."
-    },
-    {
-      "id": "4945304",
-      "time": "2026-06-19 22:43:13",
-      "tags": [
-        "國際"
-      ],
-      "text": "歐盟委員會主席馮德萊恩：必須更積極主動地運用各種工具來捍衛歐盟。"
-    },
-    {
-      "id": "4945303",
-      "time": "2026-06-19 22:42:59",
-      "tags": [
-        "國際"
-      ],
-      "text": "歐盟委員會主席馮德萊恩：將持續保護市場免受不公平競爭行為侵害。"
     }
   ]
 }
