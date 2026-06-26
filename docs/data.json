@@ -1,7 +1,74 @@
 {
-  "updated": "2026-06-26 08:12:58",
-  "count": 16926,
+  "updated": "2026-06-26 08:16:55",
+  "count": 16921,
   "items": [
+    {
+      "id": "4956007",
+      "time": "2026-06-26 08:15:17",
+      "tags": [
+        "公司"
+      ],
+      "text": "【深圳拍出105億宅地 與騰訊“企鵝島”隔海對望】105.1億元，深圳誕生百億級宅地。據深圳市規劃和自然資源局訊息，6月25日，深圳市寶安區新安街道一宗商品住宅用地順利成交，成交價105.1億元，競得人為深圳市保利產業投資有限公司。此次出讓的寶安區新安街道A002-0113宗地，與騰訊總部新園區“企鵝島”隔海相望，土地用途為二類居住用地，土地面積37357.23平方米，總建築面積為119535平方米，其中住宅104600平方米。宗地掛牌起始價52.8億元，吸引了華潤&招商、中海、保利發展、建發4家頭部房企到場，經超350輪激烈競價，成交價105.1億元，綜合樓面價8.79萬元/平方米，溢價率99.05%。（21財經）"
+    },
+    {
+      "id": "mkt:019f0147-d738-7dd8-b127-9c6aa3db1fef",
+      "time": "2026-06-26 08:15:13",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "National Grid ESO forecasts the UK power system will face a tight supply-demand balance on Friday evening."
+    },
+    {
+      "id": "4956006",
+      "time": "2026-06-26 08:14:24",
+      "tags": [
+        "公司",
+        "國際",
+        "原創"
+      ],
+      "text": "【SpaceX據悉下月開始建造通往星艦發射基地的天然氣管道】當地政府檔案顯示，SpaceX計劃下月開始建造一條名為Starpipe的8英里（13公里）長天然氣管道，通往其位於德克薩斯州的“星際基地”（Starbase） ，以幫助加快其下一代星艦火箭的發射頻率，該管道預計將於明年1月26日投入使用。星艦每次發射需要消耗約63萬加侖（240萬升）液態甲烷，目前這些甲烷需要數百輛油罐車耗時數小時運送，這與馬斯克的擴張計劃不符。SpaceX希望在星際基地建造一座液化設施，將管道輸送的天然氣加工成液態甲烷。該管道內徑為 16 英寸（406 毫米），意味著其燃料輸送能力將超出美國聯邦航空管理局（FAA）當前批准的星艦年發射25次所需的燃料總量。"
+    },
+    {
+      "id": "4956005",
+      "time": "2026-06-26 08:13:33",
+      "tags": [
+        "其他"
+      ],
+      "text": "【日經225指數跌幅擴大至2%】日經225指數跌幅擴大至2%，現報70916.26點。"
+    },
+    {
+      "id": "4956004",
+      "time": "2026-06-26 08:13:25",
+      "tags": [
+        "市場"
+      ],
+      "text": "海力士股價下跌2.0%，報285.8萬韓元。"
+    },
+    {
+      "id": "mkt:019f0146-1b1b-7dd8-b127-9272a53cc1dc",
+      "time": "2026-06-26 08:13:19",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "Nikkei 225",
+        "Impact bearish"
+      ],
+      "text": "Japan's Nikkei index slipped back below 71,000 points, down 2.00% intraday."
+    },
+    {
+      "id": "te:markets:562022",
+      "time": "2026-06-26 08:12:32",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 2"
+      ],
+      "text": "Gold Set for Sharp Weekly Drop — Gold steadied above $4,000 an ounce on Friday but remained on track to lose nearly 5% for the week as hawkish signals from the US Federal Reserve outweighed support from the impact of US-Iran peace efforts. On Thursday, bullion rebounded modestly after the latest US PCE inflation data came in broadly in line with expectations, easing fears of imminent Fed rate hikes and pushing the dollar and Treasury yields lower. Even so, markets are pricing in an 80% chance of a Fed rate hike in December following last week's hawkish pause, while the probability of a September increase stands at around 63%. Meanwhile, oil prices continued to retreat and have returned to pre-conflict levels as progress in US-Iran peace negotiations eased concerns over Middle East supply disruptions and further reduced inflation worries."
+    },
     {
       "id": "4956003",
       "time": "2026-06-26 08:11:50",
@@ -154693,134 +154760,6 @@
         "Japan & APAC"
       ],
       "text": "BANK OF JAPAN Deputy Governor HIMINO said Japan's financial conditions remain accommodative."
-    },
-    {
-      "id": "mkt:019edd3c-bd45-7dd8-b08a-c25ebda8195c",
-      "time": "2026-06-19 08:16:45",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK",
-        "DAX",
-        "Impact bearish",
-        "EURUSD",
-        "DXY",
-        "Impact bullish"
-      ],
-      "text": "U.S. Trade Representative Greer has opened a Section 301 investigation under the Trade Act of 1974 into Germany to determine whether Germany’s sustained suppression of innovative drug prices constitutes unreasonable or discriminatory acts or practices."
-    },
-    {
-      "id": "4944464",
-      "time": "2026-06-19 08:16:35",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "日本央行冰見野良三：匯率波動是影響日本經濟與物價的關鍵因素之一。"
-    },
-    {
-      "id": "4944463",
-      "time": "2026-06-19 08:16:20",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "日本央行冰見野良三：日本金融狀況仍保持寬鬆。"
-    },
-    {
-      "id": "4944462",
-      "time": "2026-06-19 08:16:10",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "日本央行副行長冰見野良三：將繼續進一步加息。"
-    },
-    {
-      "id": "4944461",
-      "time": "2026-06-19 08:15:09",
-      "tags": [
-        "市場"
-      ],
-      "text": "澳大利亞S&P/ASX 200指數下跌1%，至8820.60點。"
-    },
-    {
-      "id": "te:markets:560223",
-      "time": "2026-06-19 08:15:08",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Japan",
-        "stocks",
-        "Importance 1"
-      ],
-      "text": "Mitsubishi Stock Price Hits 19-week Low — Mitsubishi shares decreased to 4491.00 JPY, the lowest since February 2026. Over the past 4 weeks, Mitsubishi lost 17.2%, and in the last 12 months, it increased 60.18%."
-    },
-    {
-      "id": "mkt:019edd3b-1e77-7dd8-b08a-b8a2869a5608",
-      "time": "2026-06-19 08:14:59",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "Market Regions",
-        "Japan & APAC",
-        "WTI",
-        "Impact bullish",
-        "USDJPY",
-        "Impact mixed"
-      ],
-      "text": "Bank of Japan Deputy Governor Himino said rising oil prices are weighing on growth, but high corporate profits and household incomes leave the overall Japanese economy resilient."
-    },
-    {
-      "id": "mkt:019edd3b-11ff-7dd8-b08a-b5f9e6c2ff1b",
-      "time": "2026-06-19 08:14:56",
-      "tags": [
-        "MKT News",
-        "USDJPY",
-        "Impact bearish",
-        "DXY"
-      ],
-      "text": "Bank of Japan Deputy Governor Himino said recent price rises are not solely driven by temporary supply shocks, and risks remain that underlying inflation could deviate from the BOJ's price target."
-    },
-    {
-      "id": "mkt:019edd3a-edc8-7dd8-b08a-ace601766fd7",
-      "time": "2026-06-19 08:14:47",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC",
-        "USDJPY",
-        "Impact bearish",
-        "DXY"
-      ],
-      "text": "Bank of Japan deputy governor HIMINO said underlying inflation is near 2%."
-    },
-    {
-      "id": "mkt:019edd3a-d38c-7dd8-b08a-a13f493b9248",
-      "time": "2026-06-19 08:14:40",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC"
-      ],
-      "text": "Australia's S&P/ASX 200 opened down 82.80 points (-0.93%) at 8,828.30 on Friday, June 19."
-    },
-    {
-      "id": "4944460",
-      "time": "2026-06-19 08:14:19",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國貿易代表辦公室宣告：本次調查將旨在確定德國對創新醫藥產品長期持續壓低定價是否屬於不合理行為或歧視性做法。"
-    },
-    {
-      "id": "4944459",
-      "time": "2026-06-19 08:13:59",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國貿易代表辦公室宣告：根據《1974年貿易法》第301條款對德國啟動調查。"
     }
   ]
 }
