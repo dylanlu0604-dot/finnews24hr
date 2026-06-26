@@ -1,7 +1,188 @@
 {
-  "updated": "2026-06-26 09:39:46",
-  "count": 16991,
+  "updated": "2026-06-26 09:43:40",
+  "count": 17005,
   "items": [
+    {
+      "id": "4956159",
+      "time": "2026-06-26 09:43:11",
+      "tags": [
+        "其他"
+      ],
+      "text": "蔚來汽車：6月26日，蔚來ES9完成第10,000臺新車交付。"
+    },
+    {
+      "id": "mkt:019f0198-5ae1-7dd8-b129-61dc39ac2316",
+      "time": "2026-06-26 09:43:09",
+      "tags": [
+        "MKT News",
+        "NIO.O",
+        "Impact bullish"
+      ],
+      "text": "NIO completed delivery of the 10,000th ES9 vehicle on June 26, 2026."
+    },
+    {
+      "id": "4956158",
+      "time": "2026-06-26 09:42:52",
+      "tags": [
+        "其他"
+      ],
+      "text": "【港股人工智慧股走低 深演智慧跌近8%】截至發稿，深演智慧(02723.HK)跌7.72%，群核科技(00068.HK)跌6.58%，天數智芯(09903.HK)跌5.99%。"
+    },
+    {
+      "id": "4956157",
+      "time": "2026-06-26 09:42:46",
+      "tags": [
+        "市場"
+      ],
+      "text": "【PCB概念反覆走強 中材科技13天7板續創歷史新高】PCB概念反覆走強，CCL產業鏈領漲，玻纖龍頭中材科技13天7板，續創歷史新高，超聲電子、賢豐控股漲停，國際復材、中國巨石、廣合科技、宏和科技漲幅靠前。"
+    },
+    {
+      "id": "mkt:019f0197-87ce-7dd8-b129-5e5ff7d45ac4",
+      "time": "2026-06-26 09:42:15",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "02714.HK",
+        "Impact bullish"
+      ],
+      "text": "Hong Kong-listed Muyuan Foodstuff (02714.HK) rose over 5% intraday after announcing a proposed HK$300-500 mln H-share buyback."
+    },
+    {
+      "id": "4956156",
+      "time": "2026-06-26 09:42:01",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【A股BIPV概念板塊異動拉昇】旗濱集團、太極實業觸及漲停，隆基綠能、海達股份、南玻A、能輝科技、晶澳科技跟漲。"
+    },
+    {
+      "id": "4956155",
+      "time": "2026-06-26 09:42:00",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【A股HJT/HIT電池板塊異動拉昇】新萊應材觸及漲停，TCL中環、華民股份、三孚新科、隆基綠能、賽伍技術、金剛光伏跟漲。"
+    },
+    {
+      "id": "4956154",
+      "time": "2026-06-26 09:42:00",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【A股特種玻璃板塊異動拉昇】旗濱集團、萊寶高科觸及漲停，凱盛科技、力諾藥包、戈碧迦、金剛光伏、長海股份跟漲。"
+    },
+    {
+      "id": "4956153",
+      "time": "2026-06-26 09:42:00",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【A股HJT電池板塊異動拉昇】新萊應材觸及漲停，TCL中環、華民股份、三孚新科、隆基綠能、賽伍技術、金剛光伏跟漲。"
+    },
+    {
+      "id": "4956152",
+      "time": "2026-06-26 09:42:00",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【A股矽錳板塊異動拉昇】旗濱集團、宏柏新材觸及漲停，有研矽、博遷新材、TCL中環、華民股份、立昂微跟漲。"
+    },
+    {
+      "id": "4956151",
+      "time": "2026-06-26 09:41:57",
+      "tags": [
+        "市場"
+      ],
+      "text": "MiniMax港股下跌5.8%。"
+    },
+    {
+      "id": "4956150",
+      "time": "2026-06-26 09:41:46",
+      "tags": [
+        "國際"
+      ],
+      "text": "法拉第未來獲發美國混合動力增程傳動系統專利，該技術將用於其未來車型系列，可實現強勁增程效果並降低機械複雜度。"
+    },
+    {
+      "id": "mkt:019f0196-d956-7dd8-b129-56d1b5f7cef2",
+      "time": "2026-06-26 09:41:30",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Alibaba",
+        "02382.HK",
+        "Impact bearish",
+        "02018.HK",
+        "09988.HK"
+      ],
+      "text": "Hong Kong robotics-themed stocks opened lower: Sunny Optical (02382.HK) down over 7%, AAC Technologies (02018.HK) down over 5%, 01415.HK and Alibaba Group (09988.HK) down over 4%."
+    },
+    {
+      "id": "4956149",
+      "time": "2026-06-26 09:41:02",
+      "tags": [
+        "其他"
+      ],
+      "text": "【華勤技術與正行創新簽署戰略合作協議】據華勤技術訊息，6月25日，華勤技術與前沿物理智慧創新企業正行創新正式簽署戰略合作協議。此次戰略合作標誌著雙方正式開啟深度協同，將圍繞“真實場景資料底座建設”與“工業智造具身解決方案”兩大核心方向，加速物理智慧在工業製造領域的規模化落地，共同樹立智造新標杆。"
+    },
+    {
+      "id": "mkt:019f0195-f439-7dd8-b129-4a647903ea73",
+      "time": "2026-06-26 09:40:32",
+      "tags": [
+        "MKT News",
+        "CSI300",
+        "Impact bullish",
+        "SZSE Component"
+      ],
+      "text": "China A-share advanced-packaging sector active in early trade; Laibao Gaoke and Taiji Industrial hit daily limits, Zhongke Feice rose over 10%, Xinyuan Micro, Jingce Electronics and Kaisheng Technology also gained."
+    },
+    {
+      "id": "mkt:019f0195-af13-7dd8-b129-470cb51ceb52",
+      "time": "2026-06-26 09:40:14",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【Retail e‑wallet cash yield snapshot】Seven‑day annualized yields for major Chinese e‑wallet money‑market products: Tencent Licaitong (demand+7‑day) ranged from 0.7080% to 1.3450%; WeChat Wallet money‑market 7‑day yield ranged from 1.0020% to 1.0120%; Alipay Yu’e Bao 7‑day yield ranged from 1.0010% to 1.0300%."
+    },
+    {
+      "id": "mkt:019f0195-adec-7dd8-b129-3c70ceaa867e",
+      "time": "2026-06-26 09:40:14",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "00992.HK",
+        "Impact bearish",
+        "02172.HK",
+        "06681.HK"
+      ],
+      "text": "Hong Kong brain–computer interface stocks slid; Lenovo Group (00992.HK) fell more than 6%, 02172.HK dropped over 3% and 06681.HK slipped over 2%."
+    },
+    {
+      "id": "4956148",
+      "time": "2026-06-26 09:40:09",
+      "tags": [
+        "市場"
+      ],
+      "text": "【先進封裝板塊再度活躍，萊寶高科、太極實業雙雙漲停】先進封裝板塊再度活躍，萊寶高科、太極實業雙雙漲停，中科飛測漲超10%，芯源微、精測電子、凱盛科技跟漲。"
+    },
+    {
+      "id": "4956147",
+      "time": "2026-06-26 09:39:25",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "南向資金淨買入額達10億港元。"
+    },
     {
       "id": "4956146",
       "time": "2026-06-26 09:39:00",
@@ -155355,50 +155536,6 @@
         "其他"
       ],
       "text": "【中澳校企合作開發無銦疊層光伏電池】蘇州大學張曉宏、楊新波教授團隊聯合澳大利亞莫納什大學與多家光伏企業，共同開發出光電轉化效率超30%的新型無銦疊層光伏電池，有望推動光伏行業逐步擺脫銦這種昂貴的稀有金屬。國際學術期刊《科學》19日線上發表相關研究成果。基於成熟的“鈣鈦礦/晶矽”疊層光伏電池生產技術，團隊試製了1平方釐米和207.9平方釐米的無銦疊層電池。經國家太陽能光伏產品質量檢驗檢測中心認證，兩者初始光電轉化效率分別達33.56%和30.98%。其中，207.9平方釐米的樣品接受105天戶外執行測試後，轉化效率仍保持在初始水平的65%左右。(新華社)"
-    },
-    {
-      "id": "4944553",
-      "time": "2026-06-19 09:43:13",
-      "tags": [
-        "其他"
-      ],
-      "text": "【湖北釋出暴雨橙色省級預警】湖北省氣象臺6月19日8時5分發布暴雨橙色省級預警：18日凌晨至19日7時，全省77個縣市區623個鄉鎮累計雨量超過50毫米，其中武漢、嘉魚、孝感、恩施、荊門、黃岡、廣水、仙桃、宜昌、洪湖等地192個鄉鎮超過100毫米。預計今天（19日）上午，武漢中南部、黃岡中南部、鄂州、黃石有大雨到暴雨、局地大暴雨；白天到夜間，咸寧有大雨到暴雨。"
-    },
-    {
-      "id": "4944552",
-      "time": "2026-06-19 09:42:02",
-      "tags": [
-        "其他"
-      ],
-      "text": "冰見野良三：若成本推動型通脹推高物價趨勢，可能需要採取政策行動。"
-    },
-    {
-      "id": "te:markets:560263",
-      "time": "2026-06-19 09:41:51",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Currency",
-        "Importance 2"
-      ],
-      "text": "Dollar Towers on Hawkish Fed Signals — The dollar index traded around 100.8 on Friday, hovering at its highest level since May 2025 as investors piled on rate hike bets this year following hawkish signals from the Federal Reserve. On Wednesday, the Fed left rates unchanged as widely expected, but roughly half of FOMC members now anticipate at least one rate increase in 2026. The central bank also raised its inflation projections to account for the economic effects of the conflict in the Middle East. Chair Kevin Warsh declined to provide guidance on the next policy move but reaffirmed the Fed’s commitment to restoring price stability. Meanwhile, the US-Iran interim peace agreement took effect on Thursday, bringing an end to a prolonged conflict that triggered a historic disruption to global energy supplies. While the deal helped ease geopolitical risks and pushed oil prices lower, markets remained focused on the Fed’s policy outlook and the prospect of tighter monetary conditions."
-    },
-    {
-      "id": "4944550",
-      "time": "2026-06-19 09:40:20",
-      "tags": [
-        "其他"
-      ],
-      "text": "冰見野良三：外匯波動更有可能影響價格。"
-    },
-    {
-      "id": "4944549",
-      "time": "2026-06-19 09:39:55",
-      "tags": [
-        "市場"
-      ],
-      "text": "冰見野良三：油價上漲的影響可能在夏季前後更明顯地體現在消費者價格上。"
     }
   ]
 }
