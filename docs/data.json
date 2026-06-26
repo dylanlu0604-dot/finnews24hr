@@ -1,7 +1,146 @@
 {
-  "updated": "2026-06-26 14:49:17",
-  "count": 17260,
+  "updated": "2026-06-26 14:53:27",
+  "count": 17262,
   "items": [
+    {
+      "id": "mkt:019f02b2-b9d5-7dd8-b12f-95fccc5ef90c",
+      "time": "2026-06-26 14:51:35",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "【Shenzhen Shuibei jewelers busy but sales under half of last year】International gold prices have recently retraced, briefly dipping below $4,000/oz. A visit to Shenzhen's Shuibei jewelry market found sustained foot traffic after the Dragon Boat Festival but strong wait‑and‑see sentiment. Merchants say overall sales have dropped sharply from last year's gold rally, with transaction volumes under 50% year‑on‑year. Buyers who bought at higher levels are much less willing to repurchase; most view current prices as high and cite an ideal entry near 500 yuan/gram. With prices volatile, purchases are limited to small personal pendants rather than large bullion accumulation."
+    },
+    {
+      "id": "4956624",
+      "time": "2026-06-26 14:51:02",
+      "tags": [
+        "公司",
+        "市場",
+        "觀點",
+        "央行",
+        "國際"
+      ],
+      "text": "【黃金一度跌破4000大關，轉機已近還是噩夢才開始？】目標價調整\n1. 瑞銀集團：堅定看好黃金，美聯儲明年降息在即，美元結構性走弱將驅動金價在未來12個月內重返5200美元。\n2. 摩根士丹利：維持今年下半年黃金偏多基調，保留5200美元/盎司目標價，但金價衝高阻力大幅增加。\n3. 華僑銀行：央行購金難擋鷹派“拋售狂潮”，將金價至年底的預期目標從5350美元下調至5100美元。\n4. 花旗銀行：將3個月內黃金目標價下調至4000美元，將6-12個月黃金目標價維持在5000美元不變。\n5. 高盛集團：因不再預期美聯儲今年會降息，將12月黃金目標價下修至4900美元（此前為5400美元）。\n6. 德商銀行：將今年底黃金價格預測從5000美元下調至4800美元，維持明年底5200美元的目標價不變。\n7. 荷蘭國際：我們預計2026年第三季度黃金均價為4300美元，第四季度有望回升至4600美元。\n8. 麥格里：下調年終金價預期至4300美元；明年黃金均價將下跌9.5%至4200美元，此後逐年下跌至2030年。\n9. 凱投宏觀：美聯儲加息預期推升實際收益率，預計今年和明年年底金價將分別跌至3500美元和3250美元。\n10. 蒙特利爾銀行：預測2027年一季度金價將回升至5000美元上方，二、三季度均價回落至4200美元。\n其他分析\n1. 盛寶銀行：現貨黃金短期難從基本面獲得看漲動能，下破4000大關意味著多頭將繼續出清。\n2. OANDA：美聯儲轉鷹為美元創造了強勁的看漲動能，黃金這一輪迴調長期來看可能進一步延伸至3400美元。\n3. 中金公司：美國通脹可能已經見頂，沃什首秀也並不意味著美聯儲已經徹底轉向緊縮，本輪黃金回撥並非牛市終結，轉機或已不遠。\n4. 渣打銀行：若央行的購金需求保持強勁，金價的回撤幅度或許仍將相對可控；而一旦央行需求出現實質性萎縮，整體風險將顯著抬升。"
+    },
+    {
+      "id": "mkt:019f02b2-2812-7dd8-b12f-8cd9617c0505",
+      "time": "2026-06-26 14:50:57",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bearish",
+        "DXY",
+        "Impact mixed"
+      ],
+      "text": "【US-Iran deal clouded; gold rebounds but lacks conviction】Gold staged a modest intraday rebound from the $3,983–$3,982 area to the top of the session on Friday morning. The dollar remains below Thursday’s peak — its strongest since May 2025 — after Fed rate‑hike expectations eased, providing support for the metal. Reports that Iran’s Islamic Revolutionary Guard Corps struck a Singapore‑flagged freighter in the Strait of Hormuz have renewed doubts over the sustainability of the preliminary US‑Iran peace deal, a development likely to limit further dollar weakness and pressure gold. The backdrop favors sellers, supporting fresh selling on rallies and leaving gold on track for a fourth consecutive weekly decline. Technicals are weak: RSI near 36, below the 50 neutral line, implying persistent downward pressure and that the current uptick is not a decisive recovery."
+    },
+    {
+      "id": "mkt:019f02b2-1a9d-7dd8-b12f-867262525bcd",
+      "time": "2026-06-26 14:50:54",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact mixed",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "{\"title\":\"Gold briefly dipped below $4,000; banks split on recovery vs deeper pullback\",\"content\":\"Major banks revised gold targets after the recent break below $4,000. UBS remains firmly bullish, forecasting a Fed cut next year, a structurally weaker dollar and a return to $5,200 within 12 months. Morgan Stanley keeps a bullish H2 stance and a $5,200 target but warns upside faces significantly higher resistance. OCBC cut its year‑end target to $5,100 from $5,350 citing central bank selling. Citigroup cut its 3‑month target to $4,000 while keeping the 6–12 month target at $5,000. Goldman lowered its December target to $4,900 (from $5,400) after removing a Fed cut this year from its view. Deutsche trimmed year‑end to $4,800 but left next‑year‑end at $5,200. ING projects 2026 Q3 average $4,300, recovering to $4,600 in Q4. Macquarie cut year‑end to $4,300 and sees 2027 average near $4,200, with further declines through 2030. Capital Economics expects higher real yields to push gold to about $3,500 by year‑end and $3,250 by next year‑end. BMO forecasts a rebound above $5,000 in Q1 2027, then average levels near $4,200 in Q2–Q3 2027. Other analyst views: Saxo says spot gold lacks near‑term bullish momentum and the break under $4,000 will continue to purge longs. OANDA sees a dollar rally driven by a hawkish Fed translating into strong bullish momentum for the dollar and a potential extension of the gold correction toward $3,400. China International Capital Co argues US inflation may have peaked and current correction is not the end of the bull market; Recovery may be near. Standard Chartered notes that sustained central bank buying could limit the pullback, but a material drop in official demand would materially raise downside risk.\"}"
+    },
+    {
+      "id": "4956623",
+      "time": "2026-06-26 14:50:51",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "滬深兩市成交額超3.4萬億元，較上日此時縮量528億元。"
+    },
+    {
+      "id": "4956622",
+      "time": "2026-06-26 14:50:33",
+      "tags": [
+        "其他"
+      ],
+      "text": "新加坡樟宜機場5月客運量同比下降2.4%。"
+    },
+    {
+      "id": "4956621",
+      "time": "2026-06-26 14:50:15",
+      "tags": [
+        "其他"
+      ],
+      "text": "【香港投資署上半年引資逾530億元】6月26日，記者從香港投資推廣署獲悉，今年1月至今，香港投資署共協助413間海外及內地企業在港開設或拓展業務，預計可為香港帶來超過530億元的外來直接投資，同比增長36%，並創造超過8600個新職位。（上證報）"
+    },
+    {
+      "id": "mkt:019f02b1-4dea-7dd8-b12f-79cec3e7b43f",
+      "time": "2026-06-26 14:50:01",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Star Stocks",
+        "Meituan",
+        "3690.HK",
+        "Impact bullish"
+      ],
+      "text": "【Meituan CEO accepts responsibility for weak share price; CFO says company is severely undervalued and plans buyback】At Meituan’s annual shareholder meeting, CEO Wang Xing said the company’s share price had been disappointing in recent years and he takes significant responsibility. CFO Chen Shaohui said Meituan’s value is severely undervalued and the company plans a stock buyback."
+    },
+    {
+      "id": "4956620",
+      "time": "2026-06-26 14:49:31",
+      "tags": [
+        "公司"
+      ],
+      "text": "【寶泰隆焦爐提效增能專案點火啟動】據寶泰隆訊息，6月26日，寶泰隆煤炭深加工及綜合利用專案焦爐提效增能點火啟動儀式舉行。此次順利點火，標誌著公司焦爐提效增能專案收官，正式邁入投產運營全新階段。"
+    },
+    {
+      "id": "4956619",
+      "time": "2026-06-26 14:49:09",
+      "tags": [
+        "行業",
+        "公司",
+        "焦點"
+      ],
+      "text": "【美團CEO王興回應股價低迷：呼籲行業理性發展】6月26日，在美團股東周年大會上，美團CEO王興表示，過去幾年公司股價不理想，對此深感責任重大。他表示，美團一方面會積極應對經營好公司，另一方面呼籲整個行業更理性發展。此外，美團也會透過其他措施儘量給市場更多信心，例如美團在外部有一些不錯的投資，可能上市就會獲得好的回報，美團會考慮在合適的情況下積極退出。美團CFO陳少暉表示，當前公司價值被嚴重低估，美團計劃進行股票回購。"
+    },
+    {
+      "id": "te:markets:562134",
+      "time": "2026-06-26 14:49:08",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Australia",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "ASX 200 Falls 0.7% This Week — The ASX 200 edged up 16 points, or 0.2%, to close at 8,764 on Friday, clawing back ground lost in the prior session as process industries, retail trade, and transport stocks lent support. Gains were modest, though, with sentiment fragile after Asian markets weakened and U.S. futures slipped on renewed doubts over a Middle East peace deal following an overnight tanker attack near Oman. Three of the big four banks rose modestly. Rising copper and gold prices supported miners, with BHP up 0.8% and Rio Tinto 2.2%. Gold producers Northern Star and Evolution Mining jumped about 3% each as easing fears of an imminent U.S. rate hike lifted bullion. However, the local market fell 0.7% for the week, reversing strength in the prior two sessions, as resilience in recent data stoked concern that the RBA may tighten further to rein in inflation. Traders also turned cautious ahead of China’s PMI data next week and the RBA’s June meeting minutes, following its pause after three hikes since January."
+    },
+    {
+      "id": "4956618",
+      "time": "2026-06-26 14:48:50",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【美國國會山“新股神”浮出水面】根據一項對美國國會議員股票交易資訊披露的最新分析，加利福尼亞州民主黨眾議員卡納（RoKhanna）“青之於藍勝於藍”，成為國會中“表現最出色”的股票交易者之一，與其家族相關的投資回報率比標普500指數高出112%。"
+    },
+    {
+      "id": "4956617",
+      "time": "2026-06-26 14:48:48",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【娃哈哈怡寶純淨水漲價】2026年飲料銷售旺季，包裝飲用水沒有像以往打起“價格戰”，反而傳出漲價的訊息。 據報道，近日，娃哈哈和華潤飲料均向數地經銷商發出調價通知，當中稱自7月1日起，娃哈哈純淨水（596ml×24瓶）每箱供應價上調0.5-1元；同樣是自7月1日起，華潤怡寶桶裝水（18.9L）每桶供應價上調1元。漲價原因系包材等原材料成本上漲。 對此，南都灣財社記者向娃哈哈及華潤飲料方面求證，截至發稿均未收到回覆。記者同時向農夫山泉及百歲山詢問是否有漲價計劃，農夫山泉方面表示以公司公開披露的資訊為準，百歲山方面未回覆。（南方+）"
+    },
     {
       "id": "4956616",
       "time": "2026-06-26 14:47:58",
@@ -157799,119 +157938,6 @@
         "MKT News"
       ],
       "text": "French foreign minister Barro said the Iranian people are the biggest victims."
-    },
-    {
-      "id": "mkt:019edea5-fd2f-7dd8-b08f-f86636d5e28b",
-      "time": "2026-06-19 14:51:20",
-      "tags": [
-        "MKT News",
-        "Important",
-        "WTI",
-        "Impact bullish",
-        "XAUUSD",
-        "DXY"
-      ],
-      "text": "Iran's Islamic Revolutionary Guard Corps said any violation of Iran's rights will draw a stronger military response."
-    },
-    {
-      "id": "4944821",
-      "time": "2026-06-19 14:51:01",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "伊朗革命衛隊警告稱，任何侵犯伊朗權益的行為都將招致更強硬的軍事回應。"
-    },
-    {
-      "id": "mkt:019edea5-af02-7dd8-b08f-f75fa285c86a",
-      "time": "2026-06-19 14:51:00",
-      "tags": [
-        "MKT News",
-        "ROSN.L"
-      ],
-      "text": "Rosneft's CEO said the company believes share buybacks are unlikely to materially affect its market capitalization in the current risk environment."
-    },
-    {
-      "id": "4944820",
-      "time": "2026-06-19 14:50:53",
-      "tags": [
-        "市場",
-        "央行",
-        "國際"
-      ],
-      "text": "【受美國加息押注提振，美元觸及一年高位】受美聯儲今年可能加息的預期支撐，美元兌一籃子貨幣升至一年高位。美聯儲週三如預期維持利率不變，但其最新預測表明年底前可能會加息。美聯儲新任主席凱文·沃什也強調，決策者致力於將通脹率降回2%的目標。德國商業銀行的Volkmar Baur在一份報告中表示，由於美伊臨時和平協議導致的近期油價下跌降低了對大多數貨幣的利率預期，但這不適用於美聯儲。他表示，對AI的投資繼續推動美國經濟增長。DXY美元指數升至101.127的高點。"
-    },
-    {
-      "id": "mkt:019edea5-8d6a-7dd8-b08f-ed0427982f5b",
-      "time": "2026-06-19 14:50:51",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact mixed",
-        "Brent"
-      ],
-      "text": "Rosneft CEO said the company is exporting almost no petroleum products and is prioritizing supply to Russian domestic consumers."
-    },
-    {
-      "id": "mkt:019edea5-75fa-7dd8-b08f-e1a11bb0cccb",
-      "time": "2026-06-19 14:50:45",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy"
-      ],
-      "text": "Rosneft CEO said Russia's fuel market remains challenging, but all Rosneft service stations will continue normal operations."
-    },
-    {
-      "id": "4944819",
-      "time": "2026-06-19 14:50:42",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "俄新社援引俄羅斯石油公司（Rosneft）執行長言論稱，俄石油認為，在當前風險環境下，股票回購不太可能對其市值產生重大影響。"
-    },
-    {
-      "id": "4944818",
-      "time": "2026-06-19 14:50:34",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "俄新社援引俄羅斯石油公司（Rosneft）執行長表態稱：俄羅斯燃料市場形勢並不輕鬆，但俄石油旗下所有加油站將繼續穩定運營。"
-    },
-    {
-      "id": "mkt:019edea5-4aa1-7dd8-b08f-deea695139d2",
-      "time": "2026-06-19 14:50:34",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "The CEO of a Russian oil firm said the company is working to raise oil production, that the OPEC+ agreement permits increases, and that all additional output will be sold."
-    },
-    {
-      "id": "4944817",
-      "time": "2026-06-19 14:50:27",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "俄新社援引俄羅斯石油公司CEO表態：俄石油幾乎不出口成品油，優先保障俄羅斯消費者供應。"
-    },
-    {
-      "id": "4944816",
-      "time": "2026-06-19 14:50:24",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "俄新社援引俄羅斯石油公司（Rosneft）執行長表態：俄石油正努力提高原油產量，OPEC+協議允許此舉，所有增產的原油都將售出。"
     }
   ]
 }
