@@ -1,7 +1,90 @@
 {
-  "updated": "2026-06-26 14:53:27",
-  "count": 17262,
+  "updated": "2026-06-26 14:57:42",
+  "count": 17267,
   "items": [
+    {
+      "id": "mkt:019f02b7-4da8-7dd8-b12f-a401c194d42d",
+      "time": "2026-06-26 14:56:35",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Canada's trade minister said Canada and Japan are collaborating on mining projects, including possible joint reserves."
+    },
+    {
+      "id": "4956630",
+      "time": "2026-06-26 14:56:15",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "滬深兩市成交額超3.5萬億元，較上日此時縮量608億元。"
+    },
+    {
+      "id": "4956629",
+      "time": "2026-06-26 14:56:11",
+      "tags": [
+        "其他"
+      ],
+      "text": "加拿大貿易部長表示，加日兩國正推進多個礦業專案，其中包括可能開展聯合礦產儲備。"
+    },
+    {
+      "id": "4956628",
+      "time": "2026-06-26 14:55:42",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨白銀突破58美元/盎司，日內漲0.43%。"
+    },
+    {
+      "id": "4956627",
+      "time": "2026-06-26 14:54:56",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "美團(03690.HK)股價拉昇轉漲，現漲1.8%。訊息面上，該公司表示當前公司價值被嚴重低估，計劃進行股票回購。"
+    },
+    {
+      "id": "mkt:019f02b5-3c9d-7dd8-b12f-9c60410d3e88",
+      "time": "2026-06-26 14:54:19",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Meituan",
+        "03690.HK",
+        "Impact bullish"
+      ],
+      "text": "Meituan (03690.HK) shares rallied into positive territory, up 1.8%."
+    },
+    {
+      "id": "4956626",
+      "time": "2026-06-26 14:53:24",
+      "tags": [
+        "其他"
+      ],
+      "text": "傑富瑞將洛克希德馬丁目標價從595美元下調至575美元。"
+    },
+    {
+      "id": "4956625",
+      "time": "2026-06-26 14:52:52",
+      "tags": [
+        "市場"
+      ],
+      "text": "日經225波動率指數飆升43%，創12周最大漲幅。"
+    },
+    {
+      "id": "te:markets:562137",
+      "time": "2026-06-26 14:52:47",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Japan",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Japanese Shares Fall as SoftBank Tumbles — The Nikkei 225 Index dropped 4.15% to close at 69,361, while the broader Topix Index lost 1.32% to 3,963 on Friday, giving back the previous session's gains as technology stocks came under renewed pressure amid persistent concerns over heavy spending on artificial intelligence infrastructure. SoftBank Group also plunged nearly 13% after reports that OpenAI may delay its initial public offering until 2027, pushing back potential returns for the Japanese investor. Other technology shares followed suit, including Kioxia Holdings (-11.2%), Fujikura (-4.7%), Advantest (-9.6%), Tokyo Electron (-3.2%), and Taiyo Yuden (-10.8%). On the economic front, data showed Tokyo's core inflation accelerated for the first time in eight months, reinforcing expectations that the Bank of Japan will continue raising interest rates."
+    },
     {
       "id": "mkt:019f02b2-b9d5-7dd8-b12f-95fccc5ef90c",
       "time": "2026-06-26 14:51:35",
@@ -157905,39 +157988,6 @@
         "市場"
       ],
       "text": "【特別選舉後英鎊兌走強的美元下跌，但兌歐元回升】儘管對首相基爾·斯塔默領導地位發起挑戰的可能性增加，英鎊兌走強的美元跌至11周低點，但兌歐元回升。安迪·伯納姆以絕對多數贏得了一場關鍵的英國特別選舉，為他挑戰斯塔默的領導地位鋪平了道路。他的獲勝基本符合預期。丹麥銀行分析師在一份報告中表示，這增加了更多財政支出的風險，這對英鎊是不利的。倫敦證券交易所集團的資料顯示，英鎊最低跌至1.3160美元，而歐元在隔夜觸及0.8683英鎊的一個月高點後，下跌0.1%至0.8669英鎊。"
-    },
-    {
-      "id": "mkt:019edeab-0269-7dd8-b090-08384e7a92bd",
-      "time": "2026-06-19 14:56:49",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "【Israel minister rebukes Vance, warns 'don't threaten us; betrayers will pay'】Israel's far-right interior minister Gvir rebuked U.S. Vice President Vance's criticism of Israel's response to the U.S.-Iran deal, saying \"Anyone who supports us will benefit; anyone who abandons us will suffer, so don't threaten us.\" Vance had publicly said Israel had \"overreacted\" to the deal and singled out several critics, including Gvir."
-    },
-    {
-      "id": "4944823",
-      "time": "2026-06-19 14:56:43",
-      "tags": [
-        "國際"
-      ],
-      "text": "【以官員強硬回擊萬斯：不要威脅我們 背叛者將付出代價】據伊朗學生通訊社等中東媒體報道，以色列內政部長格維爾在回應萬斯關於的言論時表示：“任何支援我們的人都會受益，任何背棄我們的人都將遭到損失，所以不要威脅我們。”美國副總統萬斯此前公開批評以色列對美伊協議出現“過度反應”，萬斯還點名了幾位具體批評者，其中就包括這位以色列極右翼內政部長格維爾。"
-    },
-    {
-      "id": "4944822",
-      "time": "2026-06-19 14:56:12",
-      "tags": [
-        "公司"
-      ],
-      "text": "【科技投資者Prosus：受各業務及騰訊增長提振，收入實現增長】騰訊控股的最大股東Prosus公佈，得益於旗下各項業務以及對中國科技巨頭騰訊的投資實現增長，該公司2026財年收入有所提高。 這家在阿姆斯特丹上市的科技投資者週五表示，在截至3月31日的財年中，公司收入超過73億美元，其Ecosystem（前身為電子商務）業務實現調整後未計利息、稅項、折舊及攤銷前利潤11億美元。 Prosus在2025財年錄得收入62億美元。 就持續經營業務而言，該公司偏好的指標之一“核心整體收益“預計將增長19%至28%。Prosus補充稱，預計整體收益將增長6.7%至15.7%。該公司表示，這些指標反映了其各項業務（尤其是騰訊）強勁的收入增長和盈利能力。 與此同時，每股普通股收益預計將在下降2.6%至增長6.4%之間。這在一定程度上反映出，由於期內出售的股票數量減少，該集團出售所持騰訊股份的收益下降，同時也反映了未實現匯兌損失的增加。"
-    },
-    {
-      "id": "mkt:019edea8-38f3-7dd8-b090-00bc3409d578",
-      "time": "2026-06-19 14:53:46",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "French foreign minister Barro said the Iranian people are the biggest victims."
     }
   ]
 }
