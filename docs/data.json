@@ -1,7 +1,15 @@
 {
-  "updated": "2026-06-27 01:09:10",
-  "count": 18032,
+  "updated": "2026-06-27 01:13:42",
+  "count": 18029,
   "items": [
+    {
+      "id": "4957878",
+      "time": "2026-06-27 01:08:51",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國疾控中心表示，埃博拉在美國傳播的風險仍處於較低水平。"
+    },
     {
       "id": "mkt:019f04e7-bee1-7dd8-b13c-40590051d8ba",
       "time": "2026-06-27 01:08:44",
@@ -164867,42 +164875,6 @@
         "國際"
       ],
       "text": "【伊美談判斡旋相關方將於21日在埃及舉行會晤】據伊朗媒體報道，埃及和巴基斯坦19日發表聯合宣告說，參與伊朗與美國談判程序斡旋工作的有關國家代表將於21日在埃及舉行會晤。（新華社）"
-    },
-    {
-      "id": "mkt:019ee0de-cf5c-7dd8-b099-a147b59b6be1",
-      "time": "2026-06-20 01:12:38",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "The Lebanese presidency said the president told US Secretary of State Rubio that a comprehensive ceasefire is the fundamental cornerstone for next week’s US-Israel-Lebanon trilateral talks in Washington."
-    },
-    {
-      "id": "4945376",
-      "time": "2026-06-20 01:12:25",
-      "tags": [
-        "國際"
-      ],
-      "text": "黎巴嫩總統府宣告：黎巴嫩總統告知美國國務卿魯比奧，全面停火是下週在華盛頓舉行黎、美、以三方會談的核心基礎。"
-    },
-    {
-      "id": "4945375",
-      "time": "2026-06-20 01:11:59",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：俄羅斯自 9 月 1 日起將對鑽石徵收 8% 出口關稅。"
-    },
-    {
-      "id": "te:economy:560540",
-      "time": "2026-06-20 01:11:48",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "United States",
-        "Calendar",
-        "Importance 3"
-      ],
-      "text": "Week Ahead - Jun 22nd — The return of tankers crossing the Strait of Hormuz will be the focus next week after the US and Iran agreed to lift their blockade on the chokepoint. On the data front, the US will release the personal income and spending aggregates, which include the PCE price index, and durable goods orders. Leading indicators are also featured with S&P PMIs, the UMich consumer confidence index, and regional Fed indexes. Leading indicators are also the focus in Europe, including PMIs, the GfK, Ifo, CBI, and European Commission confidence surveys for their respective countries. Japan, India, and Australia will post their PMIs, while latter will release inflation rates and employment figures and China will unveil industrial profits. Also, the BoJ will release its Summary of Opinions."
     }
   ]
 }
