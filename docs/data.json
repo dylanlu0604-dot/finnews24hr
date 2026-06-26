@@ -1,7 +1,58 @@
 {
-  "updated": "2026-06-26 11:46:54",
-  "count": 17223,
+  "updated": "2026-06-26 11:50:58",
+  "count": 17225,
   "items": [
+    {
+      "id": "4956407",
+      "time": "2026-06-26 11:50:04",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【五糧液總經理華濤：按期兌現分紅承諾 真金白銀回饋全體股東】 6月26日，在五糧液(000858)2025年度股東大會上，總經理華濤表示，持續強化公司的價值管理，增強資本市場的認同，嚴格落地股東回報相關的舉措。五糧液將按期兌現年度現金的分紅承諾，依規推進股份回購以及後續登出，配合落實大股東的增持計劃，適時啟動編制新一輪的三年主動回報規劃，持續健全投資者的交流渠道，以真金白銀回饋全體股東。據悉，2024年度，五糧液現金分紅及中期分紅總額超223億元，現金分紅的比例提升至70%，股息率達到近5%，2025年分紅總額也將超過200億元。"
+    },
+    {
+      "id": "4956406",
+      "time": "2026-06-26 11:50:01",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本千葉縣6.0級地震 ，東京地區有強烈震感。（央視）"
+    },
+    {
+      "id": "mkt:019f020b-09f8-7dd8-b12c-ddbfe3b1607a",
+      "time": "2026-06-26 11:48:25",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Japan Meteorological Agency says preliminary epicenter magnitude is 6.0."
+    },
+    {
+      "id": "4956403",
+      "time": "2026-06-26 11:47:57",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本防災科學技術研究所（NIED）初步測定日本發生地震，震級為6.0級。"
+    },
+    {
+      "id": "mkt:019f020a-790e-7dd8-b12c-d0654da0f5bc",
+      "time": "2026-06-26 11:47:48",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC"
+      ],
+      "text": "Earthquake struck Tokyo, Japan; reports of buildings shaking."
+    },
+    {
+      "id": "4956402",
+      "time": "2026-06-26 11:47:12",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：日本東京地震導致建築物搖晃。"
+    },
     {
       "id": "4956401",
       "time": "2026-06-26 11:45:39",
@@ -157628,48 +157679,6 @@
         "國際"
       ],
       "text": "【美國下達管制令後，Anthropic Mythos的早期使用者仍可正常使用】儘管美國政府出臺相關管制令，致使該模型其他版本全面停用，但一批早年獲Anthropic公司遴選、在正式大範圍上線前參與Mythos人工智慧模型測試的企業，依舊能夠使用該系統的預覽版。多位知情人士透露（因相關資訊尚未公開，知情人士要求匿名），多家銀行、科技企業正透過“玻璃翼計劃（Project Glasswing,）”使用Mythos預覽版。該計劃彙集了約200家機構，均經Anthropic授權，可藉助這套模型排查網路安全漏洞。 Dragos Inc. 技術長喬恩・拉文德證實其企業擁有使用許可權，思科系統公司也確認自身保留了訪問資格。測試過程中，Mythos預覽版展現出極強的效能：能夠識別數千處安全漏洞，覆蓋所有主流作業系統與網頁瀏覽器。為此，Anthropic在4月限制該預覽版僅對“玻璃翼計劃”合作機構開放。這家初創企業最終轉而向公眾推出Mythos衍生版本Fable5，該版本被官方限制，無法執行網路安全相關檢測任務。"
-    },
-    {
-      "id": "te:markets:560308",
-      "time": "2026-06-19 11:49:29",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "India",
-        "Currency",
-        "Importance 1"
-      ],
-      "text": "Rupee Rises to 6-Week High — The Indian rupee hovered around 94.2 per dollar, extending gains to a six-week high as improving capital flows lifted investor sentiment. Market participants reported an improvement in foreign-exchange flows, with increased investment into Indian bonds and a slowdown in foreign equity outflows helping strengthen demand for the local currency. This marks a shift from the one-sided dollar demand that had pressured the rupee in recent weeks. The decline in crude oil prices following easing geopolitical tensions has reduced pressure on India's import bill. Interbank market sentiment has also improved, with traders becoming more willing to take positions on both sides of the market rather than consistently buying dollars on dips, reflecting increased confidence in the rupee. However, the rupee's gains remain challenged by a stronger dollar, with expectations of tighter Federal Reserve policy boosting demand for the greenback amid persistent inflation concerns."
-    },
-    {
-      "id": "4944648",
-      "time": "2026-06-19 11:49:01",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "印度NIFTY資訊科技指數下跌6.4%，創2月4日以來最大跌幅。"
-    },
-    {
-      "id": "mkt:019eddfd-8a5c-7dd8-b08d-26029f79d8dd",
-      "time": "2026-06-19 11:47:21",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "Market sources: despite a US government restriction order, early users continue to have access to ANTHROPIC MYTHOS."
-    },
-    {
-      "id": "te:markets:560307",
-      "time": "2026-06-19 11:47:01",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Palm Oil Set for Solid Weekly Gain — Malaysian palm oil futures hovered above MYR 4,600 per tonne, continuing their bullish momentum and notching a two-week high, lifted by a weaker ringgit and stronger exports. Cargo surveyors noted that palm oil shipments during June 1–15 rose between 9.6% and 23.8% from the same period in May. Meanwhile, imports by top buyer India are expected to exceed 600,000 tonnes in June after edging up to 549,356 tonnes in May. Expectations of lower production due to the lingering effects of El Niño also continued to support prices. In Indonesia, the world's largest palm oil producer, the B50 biodiesel mandate is set to take effect on July 1 after fuel tests delivered positive results, boosting the domestic demand outlook. Contracts are also on track to end the week over 3% higher, with sentiment further supported by the Malaysian Palm Oil Council's forecast that prices will hold between MYR 4,400 and MYR 4,650 in July. However, holidays in the Dalian and Chicago markets limited further upside."
     }
   ]
 }
