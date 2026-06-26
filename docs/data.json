@@ -1,7 +1,78 @@
 {
-  "updated": "2026-06-27 01:29:52",
-  "count": 18039,
+  "updated": "2026-06-27 01:33:52",
+  "count": 18041,
   "items": [
+    {
+      "id": "4957889",
+      "time": "2026-06-27 01:32:29",
+      "tags": [
+        "其他"
+      ],
+      "text": "【聯合國官員：委內瑞拉強震後逾5萬人失蹤】當地時間26日，聯合國分管人道主義事務的副秘書長兼緊急救援協調員湯姆·弗萊徹表示，在委內瑞拉發生強烈地震後，已有超過5萬人失蹤，他認為死亡人數“可能還會大幅增加”。弗萊徹稱，“目前有超過5萬人失蹤，已有500多人遇難；因此，在廢墟中搜尋是一項艱鉅的任務。”（央視新聞）"
+    },
+    {
+      "id": "4957888",
+      "time": "2026-06-27 01:32:01",
+      "tags": [
+        "國際"
+      ],
+      "text": "黎巴嫩訊息人士表示：我們不會接受任何為以色列留在黎巴嫩任何土地上進行辯護或允許其留下的措辭。（Al-Hadath）"
+    },
+    {
+      "id": "mkt:019f04fc-8a9a-7dd8-b13c-9915a1b33033",
+      "time": "2026-06-27 01:31:27",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "Brent"
+      ],
+      "text": "【Drone strike on Luhansk region kills 2, wounds 4 — Russia-appointed head】Pasechnik, the Russia-appointed head of Luhansk region, said on social media on the 26th that Ukrainian forces launched a drone strike that killed two and wounded four. The injured were taken to medical facilities for treatment."
+    },
+    {
+      "id": "mkt:019f04fc-2ea1-7dd8-b13c-93447c0564fe",
+      "time": "2026-06-27 01:31:03",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "【U.S. energy firms sharply increase drilling rig count】Baker Hughes said the U.S. rig count rose by 10 in the week to June 26, the largest weekly increase since June 2022, bringing the total to 573 — the highest since May 2025. The gain, an early indicator of future output, leaves the rig count up 26 rigs year‑on‑year (+5%). Oil rigs added seven to 440, the highest since June 2025; gas rigs rose three to 125; other rigs held at eight."
+    },
+    {
+      "id": "4957887",
+      "time": "2026-06-27 01:30:56",
+      "tags": [
+        "國際"
+      ],
+      "text": "【盧甘斯克地區遭襲致2死4傷】俄羅斯方面任命的盧甘斯克地區領導人帕謝奇尼克26日在社交媒體發文說，烏軍對盧甘斯克地區發動無人機襲擊致2人死亡、4人受傷。傷者已被送往醫療機構接受治療。（新華社）"
+    },
+    {
+      "id": "4957886",
+      "time": "2026-06-27 01:29:31",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "【以媒：以黎就小幅撤軍達成框架協議】據以色列媒體26日報道，以色列和黎巴嫩已就以軍從黎南部部分地區小幅撤離達成框架協議，雙方預計將很快啟動協議簽署程式。（新華社）"
+    },
+    {
+      "id": "mkt:019f04fa-b8d1-7dd8-b13c-8bed90e850e2",
+      "time": "2026-06-27 01:29:27",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Brent",
+        "Impact bearish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "【Israeli media: Israel, Lebanon reach framework agreement on limited withdrawal】Israeli media reported on the 26th that Israel and Lebanon have reached a framework agreement for a limited withdrawal of Israeli forces from parts of southern Lebanon; both sides expect to begin formal signing procedures soon."
+    },
     {
       "id": "mkt:019f04f7-5ef6-7dd8-b13c-841c0656da09",
       "time": "2026-06-27 01:25:48",
@@ -164926,55 +164997,6 @@
         "國際"
       ],
       "text": "美國國務院：魯比奧今日與黎巴嫩總統約瑟夫・奧恩通話。"
-    },
-    {
-      "id": "mkt:019ee0f0-c1d4-7dd8-b099-da5bcb53a253",
-      "time": "2026-06-20 01:32:15",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "Iraq's oil ministry says southern oilfields could recover to above 3 million bpd within one to two months."
-    },
-    {
-      "id": "4945381",
-      "time": "2026-06-20 01:31:55",
-      "tags": [
-        "其他"
-      ],
-      "text": "伊拉克國家通訊社訊息：伊拉克石油部表示，南部油田有望在 1 至 2 個月內恢復至 300 萬桶 / 日以上的原有產能。"
-    },
-    {
-      "id": "mkt:019ee0f0-40a3-7dd8-b099-d25693e0a63e",
-      "time": "2026-06-20 01:31:41",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "France's foreign ministry said Hezbollah should not be used as a tool of Iran."
-    },
-    {
-      "id": "mkt:019ee0ef-aeac-7dd8-b099-cebe1e971fac",
-      "time": "2026-06-20 01:31:04",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bearish",
-        "XAUUSD",
-        "DXY"
-      ],
-      "text": "France's foreign ministry said Israel should withdraw from Lebanon. A U.S.-Iran agreement includes a ceasefire in Lebanon."
-    },
-    {
-      "id": "mkt:019ee0ee-c3df-7dd8-b099-c4d39deaeca1",
-      "time": "2026-06-20 01:30:03",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "The Daily Telegraph reports two passenger trains collided near Bedford, north of London."
     }
   ]
 }
