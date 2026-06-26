@@ -1,7 +1,67 @@
 {
-  "updated": "2026-06-26 12:03:37",
+  "updated": "2026-06-26 12:07:59",
   "count": 17231,
   "items": [
+    {
+      "id": "mkt:019f021c-7f79-7dd8-b12d-2e1e01fb2e5a",
+      "time": "2026-06-26 12:07:29",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Global Chip LOF will be suspended from the afternoon session open on June 26, 2026 through that day's market close; fund redemptions will continue to be processed during the suspension."
+    },
+    {
+      "id": "4956431",
+      "time": "2026-06-26 12:06:55",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【投資者以創紀錄速度加碼美元多頭押注】美國商品期貨交易委員會(CFTC)資料顯示，投資者以創紀錄速度加碼美元多頭押注。當前美元投機性淨多倉價值約300億美元，為特朗普第二總統任期以來最高水平；今年上半年淨增約370億美元頭寸，創2012年CFTC開始記錄以來同期最快增速。“短期來看，由於美國實際利率上升，美元可能仍會走強，”Neuberger投資組合經理Joseph Purtell表示。他認為美元有望突破過去六至九個月的區間，但補充說，從長期來看，考慮到美國政府財政可持續性等結構性問題，美元可能走弱。美國銀行估計，今年迄今已有3,410億美元流入美股，遠超去年同期的1,340億美元。"
+    },
+    {
+      "id": "4956430",
+      "time": "2026-06-26 12:04:41",
+      "tags": [
+        "國際"
+      ],
+      "text": "韓國總統李在明稱，週末將再有三艘船隻離開霍爾木茲海峽。此前韓國政府表示，有八艘韓國船隻已駛出霍爾木茲海峽。"
+    },
+    {
+      "id": "mkt:019f0219-4577-7dd8-b12d-230629cdb1b6",
+      "time": "2026-06-26 12:03:58",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "South Korea's Lee said three ships will depart the Strait of Hormuz over the weekend."
+    },
+    {
+      "id": "mkt:019f0218-d743-7dd8-b12d-1fe7c07a5b5f",
+      "time": "2026-06-26 12:03:30",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Financial Times reports Musk-owned SpaceX plans to roll out Starlink mobile service to the US mass consumer market."
+    },
+    {
+      "id": "4956429",
+      "time": "2026-06-26 12:03:09",
+      "tags": [
+        "國際"
+      ],
+      "text": "據報道，SPACEX計劃面向美國消費者推出新的星鏈移動服務。"
+    },
+    {
+      "id": "4956428",
+      "time": "2026-06-26 12:02:49",
+      "tags": [
+        "國際"
+      ],
+      "text": "韓國首爾綜指日內跌幅小幅收窄至7.2%，此前跌超8%。"
+    },
     {
       "id": "mkt:019f0217-46b6-7dd8-b12d-11a986066176",
       "time": "2026-06-26 12:01:47",
@@ -157659,69 +157719,6 @@
         "其他"
       ],
       "text": "據燈塔專業版實時資料，截至6月19日12時6分，影片《玩具總動員5》票房突破2000萬。"
-    },
-    {
-      "id": "mkt:019ede0f-7e70-7dd8-b08d-6528f2a5bf66",
-      "time": "2026-06-19 12:06:57",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Emerging Markets"
-      ],
-      "text": "Indian benchmark Sensex fell 1%."
-    },
-    {
-      "id": "mkt:019ede0e-99d2-7dd8-b08d-5e89b60d1cb0",
-      "time": "2026-06-19 12:05:59",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "South Korea's KOSPI swung from an intraday gain of more than 3% to a decline of 2.00%."
-    },
-    {
-      "id": "te:economy:560312",
-      "time": "2026-06-19 12:05:51",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Malaysia",
-        "Imports YoY",
-        "Importance 1"
-      ],
-      "text": "Malaysia Imports Rise Less than Expected — Imports to Malaysia rose 14.1% year-on-year to MYR 143.62 billion in May 2026, slowing from April's 20.0% jump, the fastest growth since August 2024. The latest reading also fell short of market forecasts of 15.5%, pointing to softer domestic demand following the previous month's strong import activity. The weaker ringgit, which increased the cost of imported goods, likely also weighed on import growth."
-    },
-    {
-      "id": "mkt:019ede0e-3cff-7dd8-b08d-57461e814d20",
-      "time": "2026-06-19 12:05:35",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "S&P 500 futures extended losses to 0.5%; Nasdaq futures down 0.8%."
-    },
-    {
-      "id": "4944667",
-      "time": "2026-06-19 12:05:19",
-      "tags": [
-        "市場"
-      ],
-      "text": "標普500指數期貨延續早間跌勢，下跌0.5%，納斯達克指數期貨下跌0.8%。"
-    },
-    {
-      "id": "4944666",
-      "time": "2026-06-19 12:05:05",
-      "tags": [
-        "市場"
-      ],
-      "text": "標普500指數期貨延續早間跌勢，下跌0.5%，納斯達克指數期貨下跌0.8%."
-    },
-    {
-      "id": "4944665",
-      "time": "2026-06-19 12:04:15",
-      "tags": [
-        "公司"
-      ],
-      "text": "傑富瑞將愛思強股份公司目標價從55.3歐元上調至73歐元。"
     }
   ]
 }
