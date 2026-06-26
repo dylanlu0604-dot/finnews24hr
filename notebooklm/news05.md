@@ -1,7 +1,193 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-06-27 04:13:09_
-_本檔包含 3487 則快訊，約 669055 字_
+_更新時間：2026-06-27 05:40:02_
+_本檔包含 3483 則快訊，約 670462 字_
+
+---
+
+### 2026-06-22 18:30:10  #Trading Economics #Markets #India #Stock Market #Importance 1
+
+The SENSEX Index Closes 0.38% Higher — The SENSEX Index rose 291 points or 0.38 percent on Monday to close at 77094 points. Leading the gains are Tech Mahindra (2.16%), Sun Pharmaceuticals (1.37%) and Infosys (1.29%). Top losers were Indusind Bank (-3.02%), Asian Paints (-2.20%) and Titan Company (-1.20%).
+
+---
+
+### 2026-06-22 18:30:09  #公司
+
+【富特科技：股東長高電氣減持154.47萬股 持股降至4%以下】富特科技公告稱，股東長高電氣曾計劃於2026年6月15日至9月14日合計減持不超702.38萬股，即不超公司目前總股本的3%。6月17日至22日，長高電氣已透過大宗交易和集中競價交易方式累計減持154.47萬股，佔公司總股本的0.6598%。本次權益變動後，其持股比例由4.6597%降至3.9999%，觸及1.00%的整數倍，減持計劃尚未履行完畢。
+
+---
+
+### 2026-06-22 18:30:00  #MKT News #WTI #Impact bearish #Brent #S&P500 #Impact bullish
+
+【Analyst: Oil slump threatens earnings, European equities may lag in H2】JP Morgan Private Bank EMEA equities strategist Natalia Lipishina warns that a sustained or further drop in oil prices could undermine a key source of earnings growth, prompting downward revisions to energy estimates and potential spillovers across other sectors. She says this raises the risk that European equities will underperform US and emerging-market peers in H2. Lipishina and JP Morgan remain constructive on AI-related themes — technology, semiconductors and industrials tied to global infrastructure spending — and see opportunistic value in luxury and civil aviation after recent underperformance, while preferring US and emerging-market stocks for stronger earnings trajectories.
+
+---
+
+### 2026-06-22 18:29:57  #MKT News
+
+GFZ said a magnitude-5.5 earthquake struck the Hindu Kush region of Afghanistan.
+
+---
+
+### 2026-06-22 18:29:44  #公司
+
+【天華新能：控股子公司擬26.92億元增資花橋礦業獲50%股權】天華新能公告稱，公司控股子公司盛源鋰業擬以持有的金子峰礦按26.92億元作價，對花橋礦業增資2億元，取得其50%股權，其中其餘24.92億元計入資本公積。花橋礦業目前持有化山礦採礦權，增資完成後，將持有金子峰礦、化山礦兩礦權，並申請合併為新礦權。本次合作可提升資源利用率，為碳酸鋰產銷量提升奠定基礎，但後續礦權合併和開發尚需備案和審批，存在不確定性。
+
+---
+
+### 2026-06-22 18:29:42  #MKT News
+
+【China trade council vice president meets Kansai Economic Federation president and Sumitomo Electric chairman on supply-chain cooperation】Beijing, June 21 — Li Xingqian, vice president of the China Council for the Promotion of International Trade, met Masayoshi Matsumoto, president of the Kansai Economic Federation and chairman of Sumitomo Electric Industries, to discuss deepening institutional cooperation and jointly maintaining stability and smooth operation of global industrial and supply chains.
+
+---
+
+### 2026-06-22 18:29:37  #其他
+
+【中國貿促會副會長李興乾會見關西經濟聯合會會長、住友電工株式會社會長松本正義】2026年6月21日，中國貿促會副會長李興乾在京會見專程來華參加第四屆鏈博會的關西經濟聯合會會長、住友電工株式會社會長松本正義一行。雙方就深化兩機構合作、共同維護全球產業鏈供應鏈穩定暢通等議題交換意見。（中國貿促）
+
+---
+
+### 2026-06-22 18:29:32  #其他
+
+德國地學研究中心（GFZ）：阿富汗興都庫什地區發生5.5級地震。
+
+---
+
+### 2026-06-22 18:29:27  #MKT News #Important #Market Themes #AI Revolution #GOOG.O #Impact bearish #TSLA.O #INTC.O #Impact bullish
+
+US AI-related stocks were mixed in premarket trade: SpaceX (SPCX.O) down more than 5%, Google (GOOG.O) and Tesla (TSLA.O) down over 1.5%, Intel (INTC.O) up nearly 4%, Micron Technology (MU.O) up 3.6%, TSMC (TSM.N) up more than 2%.
+
+---
+
+### 2026-06-22 18:29:25  #公司 #市場 #焦點
+
+美股人工智慧相關股盤前漲跌不一，SpaceX(SPCX.O)盤前跌超5%，谷歌(GOOG.O)、特斯拉(TSLA.O)跌超1.5%，英特爾(INTC.O)漲近4%，美光科技(MU.O)漲3.6%，臺積電(TSM.N)漲超2%。
+
+---
+
+### 2026-06-22 18:29:20  #公司
+
+【拓斯達：特定股東楊雙保減持423.05萬股 計劃實施完成】拓斯達公告稱，股東楊雙保先生原計劃於2026年3月23日-6月22日，以大宗交易、集中競價交易方式減持不超423.05萬股，佔公司總股本比例0.8913%。截至6月22日，其已透過上述方式合計減持423.05萬股，減持後持股1269.35萬股，佔總股本2.6744%。此次減持屬個人行為，未違反相關規定，對公司無影響。
+
+---
+
+### 2026-06-22 18:29:02  #公司
+
+【長川科技：預計2026年上半年淨利潤同比增長110.76%至134.18%】長川科技公告，預計2026年1月1日至2026年6月30日歸屬於上市公司股東的淨利潤為盈利90000-10億元，比上年同期的4.27億元增長110.76%至134.18%；扣除非經常性損益後的淨利潤為盈利85500至9.55億元，比上年同期的3.57億元增長139.38%至167.38%。報告期內，前期研發投入的成果持續顯現，疊加高階下游市場需求顯著釋放，公司數字測試機等多產品線銷售業績大幅度增長，規模效應顯現，銷售收入規模大幅度增長，利潤隨之迅速增長。
+
+---
+
+### 2026-06-22 18:27:28  #公司 #市場
+
+【*ST中巖：股價連續三日跌幅偏離值累計達12% 提示退市風險】*ST中巖公告稱，公司股票於2026年6月17日、18日、22日連續三個交易日收盤價格跌幅偏離值累計達12%，屬異常波動。經核查，公司目前經營正常，內外部環境未變，不存在應披露而未披露事項，控股股東及實控人在異常波動期間無買賣公司股票情形。公司股票已被實施退市風險警示，若2026年度出現規定情形之一，將被終止上市，提醒投資者注意風險。
+
+---
+
+### 2026-06-22 18:26:49  #公司
+
+【通光線纜：控股股東及董事長減持計劃期限屆滿，合計減持2.97%股份】通光線纜公告稱，公司控股股東通光集團及董事長兼總經理張忠先生的減持計劃實施期限（2026年3月20日至6月19日）已屆滿。通光集團透過集中競價和大宗交易方式合計減持1378.33萬股，佔總股本2.95%；張忠透過集中競價方式減持9.83萬股，佔總股本0.02%。本次減持後，通光集團持股降至36.15%，張忠持股降至0.06%。本次減持不影響公司治理結構和持續經營，也不會導致控制權變化。
+
+---
+
+### 2026-06-22 18:26:47  #Trading Economics #Markets #Euro Area #Stock Market #Importance 2
+
+European Stocks Move Lower — Stocks in Europe moved into negative territory on Monday, reversing small early session gains, with the STOXX 50 trading around the flatline and the STOXX 600 slipping 0.2% as investors assessed developments in the Middle East and the UK. British Prime Minister Keir Starmer announced his resignation as expected, opening the possibility for Greater Manchester Mayor Andy Burnham, who was elected to Parliament last week, to succeed him. Meanwhile, the US and Iran agreed on a roadmap aimed at reaching a final peace agreement within 60 days, despite renewed tensions and threats over the weekend. Oil prices were lower, with Brent crude falling below $80 per barrel. The luxury sector was among the weakest performers, with LVMH (-1.6%), Hermès (-4.6%) and L’Oréal (-1%) all under pressure. By contrast, technology stocks outperformed, with ASML Holding (+1.3%), STMicroelectronics (+2%) and Infineon Technologies (+4.9%) advancing, although SAP fell 2.1%.
+
+---
+
+### 2026-06-22 18:26:27  #市場
+
+SpaceX股價美股盤前跌超5%。
+
+---
+
+### 2026-06-22 18:26:23  #公司
+
+肯亞高等法院解除朝日集團在帝亞吉歐收購案項下豁免許可的臨時凍結令。
+
+---
+
+### 2026-06-22 18:26:17  #市場
+
+英國十年期國債收益率下跌3.4個基點，報4.806%。
+
+---
+
+### 2026-06-22 18:26:06  #MKT News #Market Regions #Greater China
+
+【Shanghai ports' inbound/outbound passenger traffic tops 20.0 mln YTD through June 21】Shanghai immigration inspection authority: as of June 21 YTD passenger inspections at Shanghai ports have exceeded 20.0 mln. Pudong and Hongqiao international airports accounted for 18.807 mln inspections, or 94.0% of the total; Shanghai cruise ports recorded 0.973 mln, or 4.9%. Foreign nationals accounted for 6.712 mln inspections YTD, up 20.8% YoY; inbound foreign nationals totaled 3.308 mln, up 20.2% YoY. During the Dragon Boat holiday (June 19–21), inspections totaled 313k, up 9.4% YoY; outbound mainland residents during the holiday were nearly 100k, representing 56.9% of outbound travellers.
+
+---
+
+### 2026-06-22 18:25:49  #其他
+
+伯恩斯坦將美光科技目標價從510美元上調至1300美元。
+
+---
+
+### 2026-06-22 18:25:49  #MKT News #MU.O #Impact bullish
+
+BERNSTEIN raises Micron Technology (MU.O) PT to $1,300 from $510.
+
+---
+
+### 2026-06-22 18:25:31  #MKT News #Macro & Rates #Treasury Yields #Market Regions #Europe & UK
+
+UK 10-year government bond yield fell 3.4 bps to 4.806%.
+
+---
+
+### 2026-06-22 18:25:17  #其他
+
+【黃河2026年主汛期前調水調沙22日啟動】記者從水利部瞭解到，小浪底水利樞紐3條排沙洞閘門22日開啟，黃河2026年主汛期前調水調沙隨之啟動，水庫排沙量預計將超1億噸。 作為黃河中下游防洪、水沙調控體系中的關鍵控制性工程，小浪底水利樞紐控制著黃河91.2%的徑流量和近100%的輸沙量。在調水調沙運用過程中，小浪底水利樞紐將利用水庫調節庫容，在實現“騰庫迎汛”目標的同時，塑造“人工洪水”沖刷河道，減少水庫及下游河道淤積，遏制河床抬高。(新華社)
+
+---
+
+### 2026-06-22 18:24:38  #公司
+
+【天龍退：收到深交所終止上市複核受理通知】天龍退公告稱，公司於2026年6月10日收到深交所終止其股票上市交易的決定，股票於6月18日進入退市整理期，預計7月9日為最後交易日。公司6月15日提交複核申請，6月22日收到《複核受理通知書》，深交所定於7月2日召開復核會議。複核期間，終止上市決定不停止執行，公司將及時披露進展。
+
+---
+
+### 2026-06-22 18:24:33  #公司
+
+【迪安診斷：控股股東部分股份質押及解除質押】迪安診斷公告稱，近日，控股股東陳海斌將1736萬股辦理質押，佔其所持股份比例10.56%，佔公司總股本比例2.78%，用於歸還質押借款；同時解除質押1736萬股。截至公告披露日，陳海斌及其一致行動人杭州迪安控股有限公司累計質押股份7356萬股，佔其所持股份比例42.02%，佔公司總股本比例11.77%。他們具備資金償還能力，質押不會致公司控制權變更，目前所質押股份無平倉或強制過戶風險。
+
+---
+
+### 2026-06-22 18:24:25  #公司
+
+【*ST西發：實際控制人、董事長羅希6月22日解除留置】*ST西發公告，公司於2026年4月8日披露了實際控制人、董事長羅希被留置的事項。2026年6月22日，公司收到西藏自治區監察委員會出具的《解除留置通知書》，已解除對羅希先生的留置措施。目前羅希先生已能正常履行公司董事長、法定代表人等相關職責，公司副董事長廖川不再代為履行董事長職責。目前公司生產經營情況正常。
+
+---
+
+### 2026-06-22 18:24:14  #公司
+
+【潞化科技：控股股東增持計劃實施完畢，累計增持金額5001.7萬元】潞化科技公告，控股股東山西潞安化工有限公司增持公司股份計劃已實施完畢。自2025年6月24日至2026年6月22日，潞安化工公司透過集中競價方式累計增持公司股份1732.81萬股，佔公司總股本的0.73%，累計增持金額為5001.7萬元（不含印花稅、交易佣金等費用），已超過增持計劃下限（5000萬元）。增持完成後，潞安化工公司及其一致行動人合計持股9.02億股，佔總股本37.95%。
+
+---
+
+### 2026-06-22 18:24:01  #兩會
+
+【十四屆全國人大常委會第二十三次會議有關法律案前瞻】十四屆全國人大常委會第二十三次會議將於6月23日至26日在北京舉行。今日，全國人大常委會法制工作委員會發言人黃海華就本次常委會會議擬審議的法律案有關情況進行介紹。“修正草案完善執業原則、強化誠信建設，增加規定會計師事務所、註冊會計師堅持誠信、客觀、獨立、公正的原則。”黃海華說，國家支援註冊會計師行業加強誠信建設，提高審計質量，拓展服務網路，提升職業活動規範化、專業化水平，促進行業健康發展。此外，修正草案二審稿進一步規範職業行為，增加執業禁止性規定，比如明確註冊會計師不得出具虛假報告、不得冒用他人名義執業、不得采用不正當方式招攬業務等，並加大責任追究力度，提高違規出具報告的罰款數額，加大對串通、唆使出具虛假報告的處罰力度。（新華社）
+
+---
+
+### 2026-06-22 18:23:09  #國際
+
+中東和北非區域機構：埃及 2026-27 財年國內生產總值增速預期為 5.2% 至 5.4%。
+
+---
+
+### 2026-06-22 18:23:05  #Trading Economics #Markets #United Kingdom #stocks #Importance 1
+
+HSBC Holdings Stock Price Hits Near 27-year High — HSBC Holdings shares increased to 1443.00 GBp, the highest since July 1999. Over the past 4 weeks, HSBC Holdings gained 4.05%, and in the last 12 months, it increased 67.64%.
+
+---
+
+### 2026-06-22 18:22:39  #宏觀
+
+【前5個月全國財政收入向好態勢繼續鞏固】）財政部6月22日釋出資料顯示，今年前5個月，全國一般公共預算收入100465億元，同比增長4%，增幅比前4個月提高0.5個百分點，收入向好態勢繼續鞏固。 其中，全國稅收收入82617億元，同比增長4.4%；非稅收入17848億元，同比增長2.2%。分中央和地方看，中央一般公共預算收入43850億元，同比增長5.7%；地方一般公共預算本級收入56615億元，同比增長2.7%。 財政支出方面，前5個月，全國一般公共預算支出113877億元，同比增長0.8%，重點領域支出得到較好保障。分中央和地方看，中央一般公共預算本級支出16815億元，同比增長6.5%；地方一般公共預算支出97062億元，同比下降0.1%。（新華社）
 
 ---
 
@@ -20833,215 +21019,5 @@ FX Updates: Brazilian Real Increases by 0.65% — Top currency gainers are Brazi
 ### 2026-06-20 05:42:45  #國際
 
 【歐洲理事會主席：正建立渠道以直接向俄傳遞歐盟資訊】歐洲理事會主席科斯塔19日表示，他正透過其辦公室建立一條外交渠道，以便能夠直接向俄羅斯傳遞歐盟資訊。科斯塔在歐盟峰會會後記者會上說，歐盟必須直接向俄羅斯傳遞其資訊，不能僅透過他方來解讀俄方資訊。一直以來，圍繞俄烏停火及談判的外交接觸主要由美國牽頭推動，歐洲方面一直尋求在相關程序中發揮更大作用。但有關歐盟是否應直接同俄羅斯接觸，部分歐盟成員國領導人持保留態度。（央視新聞）
-
----
-
-### 2026-06-20 05:38:26  #國際
-
-據報道，這是自1930年首屆世界盃以來，美國隊首次實現世界盃賽事兩連勝。
-
----
-
-### 2026-06-20 05:36:12  #央行 #市場
-
-巴西央行將於6月22日開展反向外匯掉期拍賣，計劃提供最高2萬份合約。
-
----
-
-### 2026-06-20 05:32:14  #國際
-
-特朗普：這項協議支援度很高，只有假新聞媒體和他們的同夥民主黨人反對！
-
----
-
-### 2026-06-20 05:29:44  #公司 #國際
-
-【特朗普稱義大利總理求合影被指瞎編】據義大利La7電視臺6月19日報道，美國總統特朗普在接受其電話採訪時稱，在剛剛落幕的七國集團峰會期間，義大利總理梅洛尼“乞求”與他拍照合影。特朗普說他本沒有義務這樣做，但因為“可憐她”便同意了。該媒體已在網上釋出了這段對話的配音版本，而非特朗普原聲音訊。對特朗普的這一言論，義大利政府予以猛烈抨擊。梅洛尼本人在社交媒體平臺上釋出影片，稱特朗普的說法“完全是編造的”，並稱“義大利和我從不乞求”。 白宮方面未立即回應置評請求。 在特朗普開啟第二個任期之初，梅洛尼曾試圖鞏固美意長期以來的緊密關係，並將自己定位為華盛頓與歐盟之間的“橋樑”。她是唯一出席特朗普就職典禮的歐盟國家領導人。 但近來，兩國關係因美國對伊朗的戰爭而惡化，梅洛尼稱這場戰爭是非法的。此外在俄烏衝突、特朗普的關稅政策以及巴以衝突等問題中，雙方都存在分歧。（CCTV國際時訊）
-
----
-
-### 2026-06-20 05:28:36  #國際
-
-美國地質調查局：南桑威奇群島地區發生 5.1 級地震。
-
----
-
-### 2026-06-20 05:28:14  #其他
-
-錄音顯示道明銀行員工對客戶授權與隱私問題表示擔憂。
-
----
-
-### 2026-06-20 05:28:06  #其他
-
-會議錄音顯示，道明銀行告知其金融犯罪部門部分員工，將透過軟體追蹤他們的工作。
-
----
-
-### 2026-06-20 05:26:27  #其他
-
-【英國火車相撞事故已致1人死亡89人受傷】英國警方19日晚釋出宣告稱，當天下午發生在倫敦以北約60英里（約97公里）處的貝德福德地區的兩列火車相撞事故已造成1人死亡、多人受傷。宣告稱，警方於當地時間17時15分左右接到事故報告，截至目前仍在現場工作。此外，英國東英格蘭救護服務中心19日晚表示，當天發生在貝德福德地區的火車相撞事故已造成89人受傷。救護服務中心通報顯示，在89名傷者中，11人傷勢非常嚴重，22人傷勢嚴重，另有56人受輕傷。（央視新聞）
-
----
-
-### 2026-06-20 05:23:50  #國際
-
-特朗普同時支援埃韋特與威爾遜參選南卡羅來納州州長。
-
----
-
-### 2026-06-20 05:16:46  #公司
-
-巴西國家石油公司（Petrobras）：新廠將於2030年投產，可再生燃料日產能最高可達1.5萬桶。
-
----
-
-### 2026-06-20 05:16:19  #國際
-
-【中方敦促國際社會採取有力人道主義行動】中國常駐聯合國副代表孫磊19日在聯合國經濟及社會理事會2026年人道主義會議一般性辯論環節發言，敦促國際社會團結一致，採取有力人道主義行動。孫磊指出，當前全球人道形勢嚴峻，武裝衝突造成大量人員傷亡和流離失所，氣候變化和自然災害加劇受災民眾生存危機。人道需求與可用資源之間的矛盾愈加突出。國際社會亟需團結一致，採取有力行動。要恪守人道、中立、公正和獨立的人道主義基本原則，遵守國際人道法。尊重受援國主權，不干涉內政，避免將人道問題政治化、工具化。人道援助不應附加條件。（新華社）
-
----
-
-### 2026-06-20 05:15:37  #市場
-
-富時A50期指連續夜盤收漲0.02%，報15752點。
-
----
-
-### 2026-06-20 05:13:11  #公司
-
-巴西國家石油公司批准為新建可再生噴氣燃料與柴油工廠投資12億美元。
-
----
-
-### 2026-06-20 05:09:55  #市場 #國際
-
-【受中東和平協議疑慮影響，拉美資產恐錄得單週跌幅】週五，由於正值美國公共假日，市場交投清淡，多數拉美資產恐將錄得單週跌幅，投資者正在權衡有關美伊臨時和平協議的最新進展。追蹤該地區貨幣的MSCI指數微漲0.1%，股票基準指數跌0.2%。這兩個指數在前一交易日均下跌超過1%，且均面臨單週收跌的局面。
-
----
-
-### 2026-06-20 05:08:09  #國際
-
-【美國2比0戰勝澳大利亞】北京時間6月20日，2026年美加墨世界盃進行D組第2輪角逐，美國隊對陣澳大利亞隊。最終，美國隊2比0戰勝澳大利亞隊。
-
----
-
-### 2026-06-20 04:50:22  #Trading Economics #Economy #Argentina #Retail Sales YoY #Importance 1
-
-Argentina Retail Sales Rise In April — Argentina’s retail sales rose 12.6% year-on-year in April 2026 to ARS 560.96 billion. By category, sportswear and accessories posted the strongest gain, rising 25.5%. Food courts, food products, and kiosks increased 22.3%, while stationery and bookstores rose 27.9%. Entertainment and leisure advanced 26.5%, and perfumes and pharmacies recorded one of the strongest gains at 31.9%. Clothing, footwear, and leather goods rose a more modest 5.3%. In contrast, electronics, appliances, and computing sales fell 10.9%. By region, sales in Buenos Aires rose 20.9%, while the 24 districts of Greater Buenos Aires posted a 6.5% increase. The Pampas region recorded a 12.7% gain, while the Cuyo region rose 17.6%. Meanwhile, the Northern and Patagonia regions posted increases of 3.3% and 10.3%, respectively.
-
----
-
-### 2026-06-20 04:46:45  #Trading Economics #Markets #commodity #Importance 0
-
-Gold is down by 2.12% — Gold decreased 2.12% to 4120.85 USD/t.oz
-
----
-
-### 2026-06-20 04:43:48  #國際
-
-波蘭總理圖斯克：澤連斯基總統與納羅茨基總統的任務是平復情緒，而非加劇緊張局勢。
-
----
-
-### 2026-06-20 04:41:29  #公司 #資料
-
-【諾貝爾獲獎者江珀宣佈離開DeepMind加入Anthropic】資深研究科學家約翰・江珀（John Jumper）於週五宣佈，他將離開谷歌DeepMind，加入人工智慧初創企業Anthropic，這是這家科技巨頭人工智慧研發部門最新一起備受關注的核心人才離職事件。 江珀曾與谷歌的德米斯・哈薩比斯（Demis Hassabis）共同斬獲2024年諾貝爾獎，他最為人熟知的身份是AlphaFold的聯合開發者。這款取得突破性成果的人工智慧模型已完成超2億種蛋白質結構預測，大幅縮短生物與醫學研究所需週期。 江珀在社交平臺X發文稱：“歷經近九年工作，我決定離開谷歌DeepMind，加盟Anthropic。” Meta、谷歌母公司Alphabet等科技巨頭，以及Anthropic、OpenAI這類人工智慧新銳企業正陷入激烈的人才爭奪戰。各方爭相招攬頂尖研究人員，全力研發新一代人工智慧系統。
-
----
-
-### 2026-06-20 04:41:03  #Trading Economics #Markets #Brazil #Stock Market #Importance 1
-
-Ibovespa Closes Near Flat as US-Iran Talks Stall — The Ibovespa was virtually unchanged at 168,334 on Friday in a session marked by lighter global liquidity, as investors monitored developments in the Middle East. Peace talks between the US and Iran were postponed. The discussions, scheduled to take place in Switzerland and aimed at addressing Iran’s nuclear program following a recently signed memorandum of understanding, were delayed, adding fresh uncertainty over the timeline of negotiations seen as key to reopening the Strait of Hormuz and normalizing oil flows. Oil prices rebounded modestly, reviving concerns over energy-driven inflation. Bond yields moved higher in response, renewing concerns over borrowing costs. Heavyweight banks traded lower, with Itaú down 1.5% and Bradesco falling 0.7%. Meanwhile, utilities advanced, with Axia up 0.6%. Vale also gained 1% as iron ore prices held firm.
-
----
-
-### 2026-06-20 04:39:27  #宏觀 #國際
-
-【美國務卿與黎總統通話 討論黎以談判安排】當地時間6月19日，美國國務院發表宣告稱，美國國務卿魯比奧當天與黎巴嫩總統約瑟夫·奧恩通話，重申了美國對黎巴嫩政府的支援，並強調必須解除黎巴嫩真主黨武裝。宣告稱，雙方還討論了下一輪黎以談判安排，相關談判將於6月23日至25日在華盛頓舉行。（央視新聞）
-
----
-
-### 2026-06-20 04:37:25  #其他
-
-【英國兩列火車相撞一死多傷】據英國警方證實，當地事件6月19日下午發生在英格蘭地區貝德福德附近的客運列車相撞事故，已造成一人死亡、多人受傷。警方目前已宣佈啟動重大事件應急機制，正協同消防救援及救護部門，持續在現場開展處置工作，並加緊調查事故的確切原因。（CCTV國際時訊）
-
----
-
-### 2026-06-20 04:34:50  #其他
-
-英國運輸警方就英國火車相撞事故發聲：十分遺憾，已有一人身亡。
-
----
-
-### 2026-06-20 04:31:42  #國際
-
-美國國務卿魯比奧計劃訪問科威特、阿聯酋和巴林。
-
----
-
-### 2026-06-20 04:31:27  #國際
-
-美國國務卿魯比奧計劃下週訪問中東。
-
----
-
-### 2026-06-20 04:31:13  #國際
-
-【伊朗副外長：美國必須確保以色列遵守諒解備忘錄】當地時間19日，伊朗外交部副部長賽義德·哈提卜扎德在接受採訪時表示，美國必須確保以色列遵守美伊之間達成的諒解備忘錄條款。哈提卜扎德說，伊朗已準備繼續推進外交程序，“如果對方展現出同樣的認真態度，我們也準備一步一步向前推進。”哈提卜扎德表示，伊朗尋求各個戰線的和平，包括加沙在內。由於黎巴嫩與衝突存在直接關聯，因此被納入該諒解備忘錄之中。“只有當以色列結束佔領，並遵守國際法，黎巴嫩及整個地區才會有和平與穩定。”關於霍爾木茲海峽問題，哈提卜扎德表示，伊朗將繼續在與阿曼協調並在國際法規則下提供航行服務。在諒解備忘錄所規定的60天期限內，伊朗不會收取通行費用，但之後將引入新的航道管理機制，並提交給地區國家。哈提卜扎德還表示，未來要達成的任何協議都必須包括解凍所有伊朗被凍結資金。（央視新聞）
-
----
-
-### 2026-06-20 04:30:51  #市場
-
-週五（6月19日）紐約尾盤，美元兌日元跌0.05%，報161.30日元，本週累計上漲0.66%，整體持續走高，交投於159.74-161.81日元。歐元兌日元漲0.06%，報185.05日元，本週累跌0.16%；英鎊兌日元漲0.15%，報213.395日元，本週累跌0.66%。
-
----
-
-### 2026-06-20 04:29:23  #國際
-
-特朗普談及烏克蘭問題：拜登給烏克蘭輸送了大量援助。這筆開銷本應由烏克蘭承擔，但他們壓根沒打算出錢。
-
----
-
-### 2026-06-20 04:26:56  #Trading Economics #Markets #Canada #Stock Market #Importance 1
-
-TSX Slips on US-Iran Uncertainty — The S&P/TSX Composite Index fell 0.3% to close at 34,857 on Friday as investors reacted to the suspension of US-Iran talks. The discussions, aimed at addressing Iran’s nuclear program following a recently signed memorandum of understanding, were delayed, while the Federal Reserve’s surprise hawkish shift earlier in the week continued to weigh on sentiment. Financial stocks traded mixed, with RBC down 0.4% and TD Bank up 0.4%. Brookfield edged higher amid reports it is the frontrunner to acquire a controlling stake in XpFibre. Mining stocks moved lower as gold prices extended losses, with WPM down 4.8%, Agnico Eagle losing 2%, and Barrick falling 1.6%. Energy stocks were mixed amid uncertainty over US-Iran diplomacy, with Canadian Natural rising 1.2%, while Imperial Oil shed 0.6%.
-
----
-
-### 2026-06-20 04:25:44  #公司 #國際
-
-L3Harris公司向美國空軍交付VC-25B飛機。
-
----
-
-### 2026-06-20 04:25:10  #其他
-
-【迦納東部槍擊事件致3死9傷】據迦納當地媒體報道，迦納東部奧蒂省一社群18日晚發生槍擊事件，造成3人死亡、9人受傷。 (新華社)
-
----
-
-### 2026-06-20 04:23:51  #國際
-
-特朗普：我要感謝卡達埃米爾、沙特王儲以及阿聯酋的穆罕默德。
-
----
-
-### 2026-06-20 04:20:38  #央行 #國際
-
-“美聯儲傳聲筒”Nick Timiraos：美聯儲負責監管的副主席米歇爾・鮑曼於當地時間週三晚間出席了美國銀行在紐約為客戶舉辦的僅限受邀人士參加的私人晚宴，這場活動舉辦的數小時前，美聯儲剛公佈了最新貨幣政策決議。 她表示，自己並未就貨幣政策發表任何評論，且嚴格遵守聯邦公開市場委員會的各項規定以及所有職業道德準則。
-
----
-
-### 2026-06-20 04:16:25  #市場 #央行 #國際
-
-【美元指數本週漲約1%】週五（6月19日）紐約尾盤，ICE美元指數跌0.11%，報100.736點，本週累計上漲0.99%，北京時間6月18日02:00美聯儲釋出決議宣告和經濟預期概要（SEP）之前持續交投於99.500點附近，之後主要持續交投於100.5000點上方，6月19日13:00曾達到101.127點。日內交投區間為點。彭博美元指數跌0.06%，報1216.63點，本週累漲0.78%，交投區間為1202.91-1220.31點。
-
----
-
-### 2026-06-20 04:15:10  #國際
-
-美國銀行存款從前一週的19.295萬億美元增至19.354萬億美元。
 
 ---
