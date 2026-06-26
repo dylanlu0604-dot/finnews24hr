@@ -1,7 +1,33 @@
 {
-  "updated": "2026-06-27 03:00:53",
-  "count": 18080,
+  "updated": "2026-06-27 03:04:51",
+  "count": 18079,
   "items": [
+    {
+      "id": "4957931",
+      "time": "2026-06-27 03:03:20",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國財長貝森特： 我們必須對伊朗採取行動，因為彼時伊朗距離造出核武器僅剩兩週時間（只要他們有意推進）。"
+    },
+    {
+      "id": "mkt:019f054f-3ba1-7dd8-b13e-0cd65e0d2e58",
+      "time": "2026-06-27 03:01:46",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Hezbollah rejects Israel‑Lebanon agreement signed in Washington】Lebanese Hezbollah MP Hassan Fadlallah said he rejects the Israel‑Lebanon agreement signed in Washington, D.C., calling the Lebanese authorities’ approach a unilateral, unnecessary concession that harms national interests and serves Israel’s interests. He warned the pact could cause dangerous internal divisions, said Hezbollah will oppose any measures by Lebanese authorities and will more firmly retain its weapons, and described the group’s opposition as “serious,” saying it will not allow the authorities to implement commitments on the ground."
+    },
+    {
+      "id": "4957930",
+      "time": "2026-06-27 03:01:11",
+      "tags": [
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "【美聯儲官員卡什卡里稱通脹壓力更趨廣泛 央行或需加息】明尼阿波利斯聯儲行長尼爾·卡什卡里表示，通脹普遍存在的跡象促使他在美聯儲本月早些時候公佈的預測中預計今年將加息一次。“我對通脹感到關切，這不僅與中東局勢有關，還有經濟中存在更廣泛通脹壓力的跡象，”卡什卡里週五在科羅拉多州阿斯彭出席Aspen Ideas Festival期間接受彭博新聞社採訪時表示。通脹在2025年基本保持不變後，年初曾再次顯現降溫跡象，但在過去三個月又大幅上升。雖然伊朗戰爭推高了油價，但許多其他類別商品的價格也出現上漲。這加劇了部分美聯儲官員的擔憂，他們認為通脹壓力可能更加普遍和頑固，美聯儲或需採取更有力的行動。卡什卡里承認美國與伊朗達成停火協議，但指出伊朗似乎在隔夜違反了協議。美國總統唐納德·特朗普週五上午表示，伊朗襲擊了霍爾木茲海峽的貨船。“我不相信伊朗，”卡什卡里說。“他們會在多大程度上遵守協議？市場——包括石油市場、化肥市場以及其他相關市場——將在多大程度上恢復正常，還是會經歷一段較長時間的壓力和不確定性？”美聯儲上週政策會議後公佈的利率預測顯示，19名決策者中有9人預計今年至少加息一次。這推動市場提高了對美聯儲年內加息的押注。卡什卡里表示，他不一定不急於加息，也沒有預計2027年進一步加息——他預計屆時美聯儲將維持政策不變，但強調希望先觀察後續資料表現。他此前預計今年將降息一次。卡什卡里當天晚些時候在一個討論環節表示，決策者致力於讓通脹回到美聯儲的目標水平。“我們如何在合理的時間內將通脹降下來，同時又不給勞動力市場造成很大損害。”卡什卡里說。“這是我們在努力應對的挑戰。”"
+    },
     {
       "id": "4957929",
       "time": "2026-06-27 03:00:02",
@@ -165303,42 +165329,6 @@
         "MKT News"
       ],
       "text": "US President Trump said his polling is very strong and he could beat any candidate they field by 25 percentage points."
-    },
-    {
-      "id": "4945408",
-      "time": "2026-06-20 03:04:50",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：我的民調資料十分亮眼。我能領先他們陣營任何候選人 25 個百分點取勝。"
-    },
-    {
-      "id": "mkt:019ee144-e09b-7dd8-b09a-92e718d04338",
-      "time": "2026-06-20 03:04:07",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "John Jumper, a senior research scientist at Google-owned DeepMind, has decided to leave to join Anthropic."
-    },
-    {
-      "id": "4945407",
-      "time": "2026-06-20 03:03:15",
-      "tags": [
-        "公司",
-        "資料"
-      ],
-      "text": "谷歌研究員約翰·江珀稱已決定離開谷歌DeepMind，加入Anthropic。"
-    },
-    {
-      "id": "4945406",
-      "time": "2026-06-20 03:01:39",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "墨西哥央行設定比索官方匯率為1美元兌17.3247墨西哥比索。"
     }
   ]
 }
