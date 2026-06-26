@@ -1,7 +1,36 @@
 {
-  "updated": "2026-06-27 03:20:52",
+  "updated": "2026-06-27 03:24:54",
   "count": 18089,
   "items": [
+    {
+      "id": "mkt:019f0563-6da1-7dd8-b13e-5f38ebb125dd",
+      "time": "2026-06-27 03:23:49",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Apple",
+        "Market Themes",
+        "Magnificent 7",
+        "AAPL.O"
+      ],
+      "text": "The head of Apple Inc (AAPL.O)'s Vision Pro and smart glasses business will leave to join OpenAI."
+    },
+    {
+      "id": "mkt:019f0562-d9a7-7dd8-b13e-56f34c2a5ceb",
+      "time": "2026-06-27 03:23:12",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Elon Musk cleared to acquire Mesh, expands data-center optical communications footprint】Elon Musk has received U.S. regulatory approval to acquire startup Mesh Optical Technologies, which develops data-center optical transceivers that it says deliver higher energy efficiency and lower latency versus existing solutions. Mesh, founded by SpaceX engineers who worked on Starlink laser-link communications, exited stealth in February after raising $50m in a round led by Thrive Capital."
+    },
+    {
+      "id": "4957941",
+      "time": "2026-06-27 03:21:24",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：蘋果Vision Pro及智慧眼鏡業務負責人將離職，加入OpenAI。"
+    },
     {
       "id": "4957940",
       "time": "2026-06-27 03:20:13",
@@ -165402,30 +165431,6 @@
         "公司"
       ],
       "text": "【英國倫敦以北發生火車相撞事故 已致多人受傷】英國警方19日表示，位於倫敦以北約60英里（約97公里）處的貝德福德郡發生火車相撞事故。現場目擊者稱，這起事故已造成多人受傷。英格蘭東部救護服務機構表示，已向事發鐵路區段派出多支救援力量，包括空中救護直升機等。有關部門呼籲公眾避免前往相關區域。英國交通大臣海迪·亞歷山大表示，對這起事故“深感擔憂”。受事故影響，鐵路運營商東米德蘭茲鐵路公司宣佈，當天剩餘時間內該公司旗下往返倫敦的列車服務暫停。戈維亞泰晤士連線鐵路公司表示，由於事故仍在調查中，盧頓至貝德福德之間所有鐵路線路已停運。目前，事故原因及具體傷亡情況仍有待進一步調查確認。（央視新聞）"
-    },
-    {
-      "id": "4945416",
-      "time": "2026-06-20 03:23:27",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國副總統萬斯表示，美伊諒解備忘錄允許美方根據伊朗的實際表現，靈活調整對伊制裁豁免力度。 他稱，即便伊朗完全履約，美國也不會向其撥付納稅人資金；但如果伊朗恪守承諾、停止資助“恐怖主義”並接受長期核查，美方可以擴大制裁豁免範圍並給予其他利好條件。"
-    },
-    {
-      "id": "4945415",
-      "time": "2026-06-20 03:21:19",
-      "tags": [
-        "國際"
-      ],
-      "text": "澤連斯基：我由衷期待美方最終給出肯定答覆，讓我們能夠拿到生產許可，屆時烏克蘭本土企業、私營產業以及國有國防軍工單位既能支援本國，也可向中東與歐洲各國供應相關裝備。"
-    },
-    {
-      "id": "4945414",
-      "time": "2026-06-20 03:21:05",
-      "tags": [
-        "國際"
-      ],
-      "text": "澤連斯基：美方首次對授權烏克蘭本土生產導彈的提議作出積極回應。"
     }
   ]
 }
