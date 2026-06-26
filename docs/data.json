@@ -1,7 +1,115 @@
 {
-  "updated": "2026-06-26 10:38:59",
-  "count": 17122,
+  "updated": "2026-06-26 10:43:00",
+  "count": 17132,
   "items": [
+    {
+      "id": "4956302",
+      "time": "2026-06-26 10:41:57",
+      "tags": [
+        "公司"
+      ],
+      "text": "【江波龍在中山成立積體電路公司 註冊資本1億元】企查查APP顯示，近日，邁仕渡積體電路（中山）有限公司成立，法定代表人為蔡麗江，註冊資本為1億元，經營範圍包含：積體電路製造；積體電路設計；積體電路晶片及產品製造；積體電路晶片設計及服務等。企查查股權穿透顯示，該公司由江波龍(301308)間接全資持股。"
+    },
+    {
+      "id": "mkt:019f01ce-2aea-7dd8-b12b-37da8dd184c8",
+      "time": "2026-06-26 10:41:56",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "China EV Leaders",
+        "Market Regions",
+        "Greater China",
+        "01958.HK",
+        "Impact bearish",
+        "09866.HK",
+        "01211.HK"
+      ],
+      "text": "Hong Kong-listed auto stocks continued to slide; Beijing Auto (01958.HK) fell more than 9%, NIO-SW (09866.HK) and BYD Co. (01211.HK) dropped over 5%, and GAC Group (02238.HK) and XPeng (09868.HK) declined over 4%."
+    },
+    {
+      "id": "4956301",
+      "time": "2026-06-26 10:41:51",
+      "tags": [
+        "其他"
+      ],
+      "text": "【國家能源局：預計華東、華中、西南、南方部分省份電力供應偏緊】國家能源局：我們研判全國電力供需總體平衡，其中華東、華中、西南、南方區域的部分省份供應偏緊，透過跨省區的電力互濟等手段，這些地區的電力供應可以得到有效保障。（中國經營報）"
+    },
+    {
+      "id": "4956300",
+      "time": "2026-06-26 10:41:20",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "中證1000指數期貨連續主力合約日內跌2%，現報8353.20點。"
+    },
+    {
+      "id": "4956299",
+      "time": "2026-06-26 10:41:18",
+      "tags": [
+        "市場"
+      ],
+      "text": "鈀金期貨日內跌2%，現報1168.61美元/盎司。"
+    },
+    {
+      "id": "mkt:019f01cc-45b6-7dd8-b12b-2fc56d1b6c94",
+      "time": "2026-06-26 10:39:52",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "Market Themes",
+        "AI Revolution",
+        "Copper",
+        "Impact bullish"
+      ],
+      "text": "【China NEA to coordinate power and AI compute; backs green-power links, western renewables hubs, eastern microgrids】NEA director Wang Hongzhi said China’s AI surge is creating sharp electricity demand growth — generating 5 seconds of HD video uses roughly the same power as charging 10 phones. The NEA will implement an electricity-driven compute approach to align energy-resource allocation with data-center construction, advancing compute-power coordination across planning, policy and operations. In planning, western regions will link national compute hubs with large new-energy bases and co-develop compute facilities and power systems; eastern regions will push distributed compute paired with distributed generation, microgrids and virtual power plants for local response. Policy measures will encourage direct green-power connections for qualifying compute facilities and allow participation in green-power certificate trading; operational measures will optimize compute-load scheduling by task-specific demand profiles and flexibility potential."
+    },
+    {
+      "id": "4956298",
+      "time": "2026-06-26 10:39:10",
+      "tags": [
+        "市場"
+      ],
+      "text": "上海鋼聯釋出資料顯示，今日MMLC電池級碳酸鋰（早盤）中間價報152650元/噸，較上日16:30價格下跌2600元/噸。"
+    },
+    {
+      "id": "4956297",
+      "time": "2026-06-26 10:38:47",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【電池板塊持續走低，維科技術跌停】電池板塊持續走低，維科技術跌停，安孚科技、聖陽股份、容百科技、理奇智慧、德方奈米等跟跌。"
+    },
+    {
+      "id": "mkt:019f01cb-4034-7dd8-b12b-253c4704fd80",
+      "time": "2026-06-26 10:38:45",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals"
+      ],
+      "text": "Spot silver fell more than 3.00% intraday to $56.10/oz."
+    },
+    {
+      "id": "4956296",
+      "time": "2026-06-26 10:38:42",
+      "tags": [
+        "市場"
+      ],
+      "text": "紐約期金日內跌1%，現報4007.00美元/盎司。"
+    },
+    {
+      "id": "4956295",
+      "time": "2026-06-26 10:38:41",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【AI生成5秒鐘高畫質影片用電量相當於給10部手機充電 國家能源局：將強化算電協同部署】6月26日，國務院新聞辦公室舉行“開局起步‘十五五’”系列主題新聞釋出會，介紹“十五五”時期加快新型能源體系建設有關規劃情況。國家能源局局長王宏志表示，當前人工智慧和能源已經駛入雙向賦能的快車道。同時，人工智慧爆發式增長帶動用電量激增。比如我們讓人工智慧生成5秒的高畫質影片，它的用電量就相當於給10部手機充電。針對這種爆發式增長，我們將按照“以電強算”的方式，統籌能源資源配置與算力設施建設，多維度推進算電協同。首先在規劃佈局上加強協同，西部地區統籌國家算力樞紐佈局與大型新能源基地的規劃建設，推進算力設施與電力系統協同建設；東部地區推動分散式算力與分散式電源、微電網虛擬電廠協同規劃，就近響應需求；其次在政策體系上加強協同，鼓勵具備條件的算力設施綠電直連，支援算力設施參與綠電綠證交易；最後，在執行調節上加強協同，根據不同設計任務用電特徵和調節潛力，最佳化算力負荷的安排。"
+    },
     {
       "id": "4956294",
       "time": "2026-06-26 10:38:27",
@@ -156632,14 +156740,6 @@
         "Importance 1"
       ],
       "text": "Indonesia Stocks Poised for Second Weekly Rise — Indonesia’s IDX Composite edged up 12 points or 0.2% to 6,185 in early Friday trade, reversing losses in the prior two sessions following a positive lead from Wall Street overnight amid optimism over a potential US-Iran deal that offset concerns over a hawkish Fed. Markets are heading for the second straight weekly rise, up around 3% so far, as bargain hunting continues after the benchmark hit a six-year trough. Meanwhile, Bank Indonesia raised borrowing costs by 25bps on Wednesday, bringing a cumulative 75bp hike since May to further support the rupiah and attract inflows. Among top movers were Merdeka Copper Gold (7.3%), Bank Central Asia (2.5%), Surya Citra Media (2.0%), and Charoen Pokphand (1.5%). However, gains were capped by a new warning from MSCI. The index provider flagged weak visibility in shareholdings and signs of coordinated trading, just days before a decision on whether to reclassify Indonesia as a frontier market, a downgrade that could accelerate fund outflows."
-    },
-    {
-      "id": "4944601",
-      "time": "2026-06-19 10:42:14",
-      "tags": [
-        "國際"
-      ],
-      "text": "一位美國官員稱，萬斯推遲赴日內瓦的原因之一可能是伊朗就黎巴嫩局勢提出的要求。"
     }
   ]
 }
