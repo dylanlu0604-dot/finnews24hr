@@ -1,7 +1,58 @@
 {
-  "updated": "2026-06-27 01:53:34",
-  "count": 18040,
+  "updated": "2026-06-27 01:57:20",
+  "count": 18045,
   "items": [
+    {
+      "id": "mkt:019f0512-bb50-7dd8-b13c-d131c226e78f",
+      "time": "2026-06-27 01:55:41",
+      "tags": [
+        "MKT News",
+        "Important",
+        "S&P500",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "【Israel Transport Ministry: U.S. to accelerate withdrawal of military aircraft from Ben‑Gurion Airport】Israel's Transport Ministry said on the 26th it reached an understanding with U.S. forces to accelerate removal of U.S. military aircraft from Ben‑Gurion Airport. Under the pact, 30 aircraft will be moved to Israeli airbases by the 30th of this month, with the remaining 20 withdrawn thereafter. The agreement permits U.S. aircraft to return to Ben‑Gurion within 72 hours if the local security situation escalates."
+    },
+    {
+      "id": "mkt:019f0512-676f-7dd8-b13c-cadb945b8d37",
+      "time": "2026-06-27 01:55:19",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【U.S., Israel and Lebanon sign three-party framework after fifth-round talks】U.S., Israeli and Lebanese negotiators signed a three-party framework after a fifth round of talks. Discussions included a U.S.-backed proposal for Israeli forces to transfer some occupied territory to the Lebanese army. Lebanon sought a full Israeli withdrawal; Israel said any pullback must be conditioned on Hezbollah’s full disarmament and guarantees it will not reestablish a military presence on the border. U.S. Secretary of State Rubio called the deal a first step and said substantial work remains."
+    },
+    {
+      "id": "4957898",
+      "time": "2026-06-27 01:55:08",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "【以色列交通部：美軍將加速撤離停在以機場的美國軍機】當地時間26日，以色列交通部發表宣告稱，以色列已與美軍達成諒解協議，美軍將加速撤離部署在以色列本-古裡安機場的美國軍用飛機。根據諒解協議，到本月30日前，30架美軍飛機將逐步撤離至以色列境內的空軍基地；隨後剩餘的20架軍機也將完成撤離。諒解協議同時規定，若當地安全域性勢出現升級，美國軍機獲准在72小時內重新返回本-古裡安機場。（央視新聞）"
+    },
+    {
+      "id": "4957897",
+      "time": "2026-06-27 01:53:59",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "【黎以美達成三方框架協議】據外媒報道，黎巴嫩、以色列和美國26日在華盛頓宣佈達成三方框架協議。(新華社)"
+    },
+    {
+      "id": "mkt:019f0510-e392-7dd8-b13c-c52ae67e27ef",
+      "time": "2026-06-27 01:53:40",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Brent",
+        "Impact bearish"
+      ],
+      "text": "ICE: Gasoil speculators cut net long positions by 294 contracts to 60,516 in the week to June 23. Brent crude speculators cut net longs by 23,790 contracts to 90,338 over the same period."
+    },
     {
       "id": "4957896",
       "time": "2026-06-27 01:45:50",
