@@ -1,7 +1,72 @@
 {
-  "updated": "2026-06-26 23:31:50",
-  "count": 17959,
+  "updated": "2026-06-26 23:36:15",
+  "count": 17960,
   "items": [
+    {
+      "id": "mkt:019f0491-f9ba-7dd8-b13a-522a5e6949de",
+      "time": "2026-06-26 23:35:03",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "CNBC reports OpenAI, at the request of the Trump administration, plans to limit the rollout of GPT-5.6."
+    },
+    {
+      "id": "4957818",
+      "time": "2026-06-26 23:33:22",
+      "tags": [
+        "國際"
+      ],
+      "text": "歐洲STOXX 600指數初步收跌0.90%，報634.43點。德國DAX 30指數初步收跌1.62%，報24590.52點。法國股指初步收跌0.81%，義大利股指初步收跌1.23%，英國股指初步收跌0.43%。"
+    },
+    {
+      "id": "4957817",
+      "time": "2026-06-26 23:33:04",
+      "tags": [
+        "國際"
+      ],
+      "text": "國際獨立油輪船東協會（INTERTANKO）：建議船舶在條件允許的情況下推遲穿越霍爾木茲海峽， 伊朗控制的霍爾木茲海峽航道存在安全隱患。"
+    },
+    {
+      "id": "mkt:019f048f-e877-7dd8-b13a-4c73df84aa68",
+      "time": "2026-06-26 23:32:47",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "Fed's Kashkari said he is concerned about inflation, particularly services-sector inflation."
+    },
+    {
+      "id": "mkt:019f048f-532b-7dd8-b13a-421d5aa55010",
+      "time": "2026-06-26 23:32:09",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "Impact bearish",
+        "S&P500"
+      ],
+      "text": "Federal Reserve's Kashkari said he expects one rate hike in 2026 and for policy rates to remain unchanged in 2027."
+    },
+    {
+      "id": "4957816",
+      "time": "2026-06-26 23:31:12",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：應特朗普政府要求，OpenAI 擬限制 GPT 5.6 的推出範圍。"
+    },
     {
       "id": "4957815",
       "time": "2026-06-26 23:30:56",
@@ -164095,51 +164160,6 @@
         "國際"
       ],
       "text": "【印度油輪超級油輪在駛離波斯灣途中折返】一艘正在駛離波斯灣的油輪超級油輪在駛向霍爾木茲海峽時折返。彭博社彙編的油輪跟蹤資料顯示，這艘名為“Desh Vibhor”號的油輪在過去幾個小時內掉頭返航，此前它似乎正朝著美軍推薦的南部航線航行。跟蹤資料顯示，“Desh Vibhor”號似乎在開始駛離波斯灣時掉頭返航。該船由印度航運公司（Shipping Corp. of India）運營。"
-    },
-    {
-      "id": "4945342",
-      "time": "2026-06-19 23:34:45",
-      "tags": [
-        "國際"
-      ],
-      "text": "【以色列媒體：以色列與黎巴嫩真主黨停火】《以色列時報》19日援引一名美國高階官員的話報道說，以色列和黎巴嫩真主黨已同意在黎巴嫩停火，停火於當地時間19日下午4時生效。這名官員透露，停火是由美國、卡達分別與以色列和伊朗溝通促成的。以色列第12頻道電視臺當天稍早前援引一名以色列官員的話報道說，以色列與黎巴嫩真主黨達成了停火。這名官員說，以軍仍將留在黎南部的“安全區”內。“如果他們（黎巴嫩真主黨）攻擊我們，我們將予以還擊。”（新華社）"
-    },
-    {
-      "id": "mkt:019ee083-8e21-7dd8-b098-eeed1dea100f",
-      "time": "2026-06-19 23:32:58",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Potential challenger to UK prime minister Starmer, Burnham, is expected to travel to London on Monday to meet MPs."
-    },
-    {
-      "id": "4945341",
-      "time": "2026-06-19 23:32:42",
-      "tags": [
-        "央行",
-        "市場"
-      ],
-      "text": "英國央行表示，第三季度將透過 3 場拍賣出售短期英國國債，總規模 7.25 億英鎊；另透過 2 場拍賣出售中期英國國債，總規模 6 億英鎊。"
-    },
-    {
-      "id": "mkt:019ee082-e7be-7dd8-b098-e7c5ec7fd0a3",
-      "time": "2026-06-19 23:32:15",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "Iran's foreign minister told Pakistan's foreign minister the United States should be held responsible for ending wars on all fronts, including Lebanon, and for any actions that breach memoranda of understanding."
-    },
-    {
-      "id": "mkt:019ee082-86ae-7dd8-b098-dd089e5fdaed",
-      "time": "2026-06-19 23:31:50",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "The Texas Supreme Court ruled that SpaceX may continue launching rockets near Texas public beaches, finding private environmental groups seeking to block launches on safety grounds lack legal recourse."
     }
   ]
 }
