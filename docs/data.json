@@ -1,7 +1,43 @@
 {
-  "updated": "2026-06-27 17:40:25",
-  "count": 18186,
+  "updated": "2026-06-27 17:44:35",
+  "count": 18189,
   "items": [
+    {
+      "id": "mkt:019f0876-20dd-7dd8-b141-8a219d796bbd",
+      "time": "2026-06-27 17:43:07",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "UK Maritime Trade Operations received a report of an incident inside the Strait of Hormuz. The captain of an oil tanker reported the vessel was struck by an unidentified projectile and the ship’s bridge was damaged. All crew are reported safe and there are no reports of environmental damage."
+    },
+    {
+      "id": "4958341",
+      "time": "2026-06-27 17:42:10",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國海事貿易組織稱，目前尚未收到環境損害報告。"
+    },
+    {
+      "id": "4958340",
+      "time": "2026-06-27 17:41:41",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國海事貿易組織稱，油輪的艦橋受損；據報所有船員均安全。"
+    },
+    {
+      "id": "4958339",
+      "time": "2026-06-27 17:41:30",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國海事貿易組織稱，霍爾木茲海峽一艘油輪船長報告稱遭到不明飛行物襲擊。"
+    },
     {
       "id": "mkt:019f0872-0bef-7dd8-b141-86715e495698",
       "time": "2026-06-27 17:38:39",
@@ -166366,19 +166402,6 @@
         "其他"
       ],
       "text": "【哈薩克阿克託別一加氣站發生火災致3死1傷】據哈通社20日訊息，哈薩克西部城市阿克託別一座加氣站19日晚發生火災，事故造成3人死亡、1人受傷。遇難者中包括2名未成年人。（中新網）"
-    },
-    {
-      "id": "mkt:019ee467-fda9-7dd8-b09e-4485a4cc24da",
-      "time": "2026-06-20 17:41:20",
-      "tags": [
-        "MKT News",
-        "Important",
-        "WTI",
-        "Impact bullish",
-        "XAUUSD",
-        "DXY"
-      ],
-      "text": "Al Arabiya cited sources saying Lebanon is the main sticking point in ongoing negotiations. The Iranian delegation warned it would withdraw from the talks if Israel continued strikes in Lebanon."
     }
   ]
 }
