@@ -1,7 +1,20 @@
 {
-  "updated": "2026-06-27 19:22:35",
+  "updated": "2026-06-27 19:26:34",
   "count": 18215,
   "items": [
+    {
+      "id": "mkt:019f08d1-30ad-7dd8-b142-0ff488ede269",
+      "time": "2026-06-27 19:22:34",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bearish",
+        "SSE Composite"
+      ],
+      "text": "【Next week A-share lock-up expiries exceed 100 bln yuan; 16 stocks unlock >10%】June 29–July 3: 51 A-share issuers face restricted-share unlocks totaling about 106.23 bln yuan. Fourteen stocks have unlock value above 1 bln yuan. Sixteen stocks see unlock ratios above 10%; Tongli Technology leads at 75%, while Shichuang Energy, Leisi Information, Huafeng Technology and Ruixing each exceed 50%. Those five are IPO original-shareholder lock-up releases."
+    },
     {
       "id": "4958385",
       "time": "2026-06-27 19:21:10",
@@ -166617,14 +166630,6 @@
         "國際"
       ],
       "text": "當地州長稱，烏克蘭襲擊了俄羅斯烏拉爾地區的秋明煉油廠。"
-    },
-    {
-      "id": "4945785",
-      "time": "2026-06-20 19:24:43",
-      "tags": [
-        "國際"
-      ],
-      "text": "以色列對黎巴嫩的空襲已造成至少10人死亡。"
     }
   ]
 }
