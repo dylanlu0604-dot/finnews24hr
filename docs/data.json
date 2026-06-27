@@ -1,7 +1,31 @@
 {
-  "updated": "2026-06-28 01:16:29",
-  "count": 18143,
+  "updated": "2026-06-28 01:20:34",
+  "count": 18144,
   "items": [
+    {
+      "id": "4958545",
+      "time": "2026-06-28 01:19:48",
+      "tags": [
+        "國際"
+      ],
+      "text": "黎巴嫩國家通訊社報道，以黎兩國簽署協議、為和談鋪路次日，以色列軍方對黎巴嫩南部發動無人機及空襲。當地時間傍晚6時30分，以色列戰機空襲了上納巴提耶一處不明目標。當日下午早些時候，無人機已對城鎮廣場與曼扎拉社群實施四輪打擊。"
+    },
+    {
+      "id": "4958544",
+      "time": "2026-06-28 01:18:45",
+      "tags": [
+        "其他"
+      ],
+      "text": "【巴基斯坦安全部隊擊斃5名恐怖分子】巴基斯坦警方訊息人士27日說，巴安全部隊當晚成功挫敗一起針對南部城市卡拉奇一處準軍事部隊總部的恐怖襲擊，並當場擊斃5名恐怖分子。此前，據當地媒體報道，卡拉奇一條主要街道發生爆炸並傳出槍聲，安全部隊趕往現場。（新華社）"
+    },
+    {
+      "id": "mkt:019f0a17-21d0-7dd8-b143-26f58b8c49ce",
+      "time": "2026-06-28 01:18:35",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Pakistan security forces kill 5 militants】Pakistani security forces foiled an attack on a paramilitary headquarters in Karachi on the night of the 27th and killed five suspected militants at the scene, police said."
+    },
     {
       "id": "mkt:019f0a13-24a9-7dd8-b143-1bbf0967866d",
       "time": "2026-06-28 01:14:14",
@@ -165980,27 +166004,6 @@
         "焦點"
       ],
       "text": "“木頭姐”凱西·伍德：我們完全沒料到這事，特斯拉自動駕駛計程車收到了一張75美元的罰單，該事件會直接納入我們的分析模型。"
-    },
-    {
-      "id": "mkt:019ee60b-15dd-7dd8-b0a1-0861409eeb0c",
-      "time": "2026-06-21 01:19:06",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Pakistan's prime minister and army chief will travel to Switzerland tomorrow to advance related negotiations, government sources said."
-    },
-    {
-      "id": "mkt:019ee609-e7bb-7dd8-b0a1-04a22757335b",
-      "time": "2026-06-21 01:17:49",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Brent",
-        "Impact bullish",
-        "WTI",
-        "XAUUSD"
-      ],
-      "text": "【IRGC warns vessels to stay away from Strait of Hormuz】CNN reported that after Iran announced on Saturday it would close the Strait of Hormuz, the Islamic Revolutionary Guard Corps' naval unit warned vessels not to approach the waterway. A state broadcaster reporter said the IRGC issued radio warnings and directly contacted ships, saying vessels attempting to transit could encounter sea mines or be targeted by Iranian naval forces. The reporter added vessel traffic in the Persian Gulf had fallen further compared with several hours earlier."
     }
   ]
 }
