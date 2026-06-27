@@ -1,7 +1,30 @@
 {
-  "updated": "2026-06-27 13:15:38",
-  "count": 18210,
+  "updated": "2026-06-27 13:19:44",
+  "count": 18207,
   "items": [
+    {
+      "id": "4958248",
+      "time": "2026-06-27 13:18:27",
+      "tags": [
+        "公司"
+      ],
+      "text": "【海南調整住房公積金繳存基數 7月起執行】海南省住房公積金管理局6月26日釋出《關於2026年度住房公積金繳存基數範圍的通告》。公告提出，職工住房公積金繳存基數，不低於職工工作所在市縣上一年度最低工資標準，不高於職工工作所在市縣上一年度職工月平均工資的3倍。通告的住房公積金繳存基數範圍適用於城鎮非私營單位，城鎮私營單位參照標準執行。2026年度住房公積金繳存基數範圍適用時間：2026年7月1日至2027年6月30日。"
+    },
+    {
+      "id": "mkt:019f0781-8e07-7dd8-b140-b7c27a823111",
+      "time": "2026-06-27 13:15:58",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "SLB.O",
+        "Impact bearish",
+        "HAL.O",
+        "Brent",
+        "Impact bullish"
+      ],
+      "text": "【Norwegian oil-services walkout begins, disrupts offshore drilling】About 1,000 Norwegian oil-service workers began a walkout early Saturday after employers implemented previously warned escalation measures. The stoppage, in response to an ongoing Safe union strike by several hundred members, is expected to disrupt drilling on the Norwegian continental shelf and affect some production. Companies cited as impacted include Schlumberger, Halliburton, Subsea 7, DOF Subsea, Weatherford, DeepOcean and Baker Hughes."
+    },
     {
       "id": "4958247",
       "time": "2026-06-27 13:11:34",
@@ -166565,49 +166588,6 @@
         "其他"
       ],
       "text": "【張雪稱自己創業時比李書福幸福】近日，在央視財經《對話》節目錄制現場，張雪直言比李書福“幸福”，他口中的“幸福”，是中國製造一步步攢出來的底氣。李書福說：“當時我們造汽車，確實啥也沒有。雖然啥也沒有，但力量在風中迴盪。有些事情定下來以後，只要認準一個方向、堅定一個信念、凝聚一股力量，最終完成一個使命。”張雪說：“我比李總幸福的地方在於，當我創業的時候，我國工業製造的高度，已經完全不是同日而語了。”（央視財經）"
-    },
-    {
-      "id": "mkt:019ee378-2f68-7dd8-b09c-7ac5e107e4fc",
-      "time": "2026-06-20 13:19:24",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Russian Defense Ministry said it had killed nearly 30 Ukrainian troops in Krasny Lyman in the past 24 hours and captured 7 strongpoints and 46 buildings."
-    },
-    {
-      "id": "4945682",
-      "time": "2026-06-20 13:19:10",
-      "tags": [
-        "國際"
-      ],
-      "text": "據黎巴嫩國家通訊社20日報道，以色列當天凌晨開始對黎南部奈拜提耶地區發動多輪空襲，已造成至少5人死亡。（新華社）"
-    },
-    {
-      "id": "4945681",
-      "time": "2026-06-20 13:16:59",
-      "tags": [
-        "其他"
-      ],
-      "text": "【交通運輸部：6月19日，全社會跨區域人員流動量完成23140.6萬人次】2026年6月19日，全社會跨區域人員流動量23140.6萬人次，環比增長7.1%，同比增長0.2%。其中：鐵路客運量1936.8萬人次，環比增長15.7%，同比增長6.9%。公路人員流動量（包括高速公路及普通國省道非營業性小客車人員出行量、公路營業性客運量）20926萬人次，環比增長6.5%，同比下降0.3%。其中，公路營業性客運量3890萬人次，環比增長9.2%，同比增長3.4%；高速公路及普通國省道非營業性小客車人員出行量17036萬人次，環比增長5.9%，同比下降1.2%。水路客運量86.2萬人次，環比增長39.8%，同比下降10.1%。民航客運量191.6萬人次，環比下降11.9%，同比基本持平。全國郵政行業攬收包裹5.27億件，環比下降13.3%；投遞包裹6.07億件，環比下降3%。"
-    },
-    {
-      "id": "mkt:019ee375-3526-7dd8-b09c-779db205c4bd",
-      "time": "2026-06-20 13:16:09",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "WTI"
-      ],
-      "text": "Lebanon’s national news agency reported Israeli air strikes on southern Lebanon since last night have raised the death toll to five."
-    },
-    {
-      "id": "mkt:019ee375-00c1-7dd8-b09c-6ee872619dff",
-      "time": "2026-06-20 13:15:56",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Shipping research firm ITS reports Malaysia's palm oil exports from June 1-20 at 907,067 tonnes."
     }
   ]
 }
