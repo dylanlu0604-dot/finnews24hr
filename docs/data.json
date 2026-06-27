@@ -1,7 +1,23 @@
 {
-  "updated": "2026-06-27 21:15:07",
-  "count": 18178,
+  "updated": "2026-06-27 21:19:15",
+  "count": 18173,
   "items": [
+    {
+      "id": "4958431",
+      "time": "2026-06-27 21:18:08",
+      "tags": [
+        "國際"
+      ],
+      "text": "卡達外交部：我們強調需要以有助於鞏固安全的方式，立足於諒解備忘錄中取得的成果。"
+    },
+    {
+      "id": "4958430",
+      "time": "2026-06-27 21:16:25",
+      "tags": [
+        "公司"
+      ],
+      "text": "【博世中國回應集團換帥】6月27日，對於博世集團換帥一事，博世中國表示，此次集團董事會人事調整不會對博世中國各項業務運營產生任何影響。中國始終是博世全球最重要的戰略市場之一，也是集團重要的創新基地。6月26日，博世集團宣佈了一項重磅人事變動：應其本人要求並與股東密切協商一致，董事會主席史蒂凡·哈通（Stefan Hartung）將於6月30日卸任，董事會副主席克里斯蒂安·菲舍爾（Christian Fischer）於7月1日接棒。（第一財經）"
+    },
     {
       "id": "4958428",
       "time": "2026-06-27 21:13:52",
@@ -166252,75 +166268,6 @@
         "國際"
       ],
       "text": "【伊朗宣佈關閉霍爾木茲海峽】伊朗武裝部隊哈塔姆·安比亞中央司令部今天（6月20日）發表宣告稱，鑑於美國公然違背承諾，未履行旨在結束戰爭的諒解備忘錄條款；同時鑑於以色列持續違反停火協議，不斷襲擊黎巴嫩南部，造成大量黎巴嫩平民死亡，數十萬人流離失所；以及以軍仍未從黎巴嫩南部撤軍，現宣佈：霍爾木茲海峽將對所有船隻關閉。同時強調，這只是對敵方違約行為的第一步回應。如果侵略繼續，將採取進一步措施，以迫使對方履行其承諾。（CCTV國際時訊）"
-    },
-    {
-      "id": "4945841",
-      "time": "2026-06-20 21:18:28",
-      "tags": [
-        "其他"
-      ],
-      "text": "萬斯：清除霍爾木茲海峽的水雷需要一些時間。"
-    },
-    {
-      "id": "mkt:019ee52d-bc34-7dd8-b09f-6dc5669b6eb9",
-      "time": "2026-06-20 21:17:20",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bearish",
-        "XAUUSD",
-        "DXY"
-      ],
-      "text": "【Vance says talks progressing; expects to travel to Switzerland in coming days】U.S. Vice President Vance told Fox News on Saturday he expects to travel to Switzerland within days for talks with Iran, but said timing depends on diplomatic coordination and procedures. He said U.S. special envoy Witkoff and Kushner have arrived at the negotiations venue and talks could take place on Sunday."
-    },
-    {
-      "id": "mkt:019ee52c-ecaf-7dd8-b09f-672a63ba671b",
-      "time": "2026-06-20 21:16:27",
-      "tags": [
-        "MKT News",
-        "Important",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "【Iran military announces closure of Strait of Hormuz】Khatam al-Anbia Central Headquarters of the Iranian armed forces said on the 20th (local time) the Strait of Hormuz will be closed to all vessels."
-    },
-    {
-      "id": "4945840",
-      "time": "2026-06-20 21:16:07",
-      "tags": [
-        "國際"
-      ],
-      "text": "【伊朗軍方宣佈關閉霍爾木茲海峽】伊朗武裝部隊哈塔姆安比亞中央總部當地時間20日表示，霍爾木茲海峽將對所有船隻航行關閉。（央視新聞）"
-    },
-    {
-      "id": "4945839",
-      "time": "2026-06-20 21:15:58",
-      "tags": [
-        "國際"
-      ],
-      "text": "萬斯：最終事態如何發展，很大程度上取決於伊朗。"
-    },
-    {
-      "id": "mkt:019ee52c-77a9-7dd8-b09f-587e4a4c9b81",
-      "time": "2026-06-20 21:15:57",
-      "tags": [
-        "MKT News",
-        "Important",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "Fox News reported US Vice President Vance said there is no evidence that Iran is closing the Strait of Hormuz."
-    },
-    {
-      "id": "4945838",
-      "time": "2026-06-20 21:15:24",
-      "tags": [
-        "國際"
-      ],
-      "text": "萬斯：沒有證據表明伊朗正在封鎖霍爾木茲海峽。"
     }
   ]
 }
