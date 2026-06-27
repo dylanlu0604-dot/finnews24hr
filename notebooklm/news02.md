@@ -1,7 +1,103 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-06-28 02:03:08_
-_本檔包含 3760 則快訊，約 671313 字_
+_更新時間：2026-06-28 02:39:20_
+_本檔包含 3746 則快訊，約 670741 字_
+
+---
+
+### 2026-06-26 08:08:13  #國際
+
+特朗普計劃乘坐新空軍一號參加7月1日在北達科他州舉行的活動。
+
+---
+
+### 2026-06-26 08:08:04  #國際
+
+特朗普計劃下週乘坐卡達贈送的空軍一號進行首次飛行。
+
+---
+
+### 2026-06-26 08:07:47  #觀點
+
+【中信證券：展望2026-27年 銀行板塊步入風險週期尾部區間】中信證券研報稱，在經歷年初以來的資金大幅流出後，我們測算當前銀行A股平均靜態股息率約4.3%，部分大市值標的股息率在5%以上，平均靜態PB為0.60x。展望2026-27年，銀行板塊步入風險週期尾部區間，ROE一階導已經改善，我們預計今明年行業ROE絕對數將企穩在8-9%區間，助力板塊估值提升。下半年有望演繹"高確定性權益資產"重估，絕對收益空間大。個股方面，推薦組合為商業模型優秀，權益回報樂觀、低估值大行估值修復、步入穩定增長週期、穩健品種空間樂觀的標的。
+
+---
+
+### 2026-06-26 08:06:12  #市場
+
+澳大利亞S&P/ASX 200指數早盤上漲0.2%，報8,765.80點。
+
+---
+
+### 2026-06-26 08:05:41  #公司 #觀點
+
+【中信證券：預計2026年二季度電子行業整體業績全面向好】中信證券研報稱，預計2026年二季度電子行業整體業績全面向好，其中漲價方向的儲存、CCL受益漲價表現最佳，AI方向的儲存、PCB、電源相關公司業績持續高景氣，自主可控方向的Fab、封測稼動率持續提升且漲價節奏明確，半導體裝置、國產算力的放量預期與財報改善也正持續演繹；其他方向來看，消費電子的蘋果、華為連結串列現亮眼，IC設計端有合封儲存業務的IC設計公司及自身新品放量邏輯的公司表現更佳。綜合來看，預計業績表現相對亮眼的細分板塊有：儲存、CCL、自主可控算力、先進製造、功率、裝置龍頭、果鏈龍頭、合封儲存的IC設計公司等。展望2026年下半年，國內半導體裝置、國產算力上行拐點明確，同時全球AI趨勢下的電源相關、PCB、儲存表現也持續強勁，5個方向均持續看好；同時AI產業鏈行情開始發散，如消費電子光學、玻璃基板等供應鏈訂單和趨勢逐步明確，堅定看好板塊後續表現。
+
+---
+
+### 2026-06-26 08:05:14  #公司 #國際
+
+【Stellantis與日產洽談收購馬瑞利的部分資產】當地時間6月25日，據報道，Stellantis NV和日產汽車公司正在洽談收購馬瑞利的部分資產，這家全球汽車零部件製造商目前正陷入艱難的破產重組中。知情人士透露，Stellantis正在就馬瑞利在義大利及其他一些國家的懸架業務進行討論，日產則正在考慮收購該供應商在日本的內飾座艙資產。
+
+---
+
+### 2026-06-26 08:04:43  #公司 #國際
+
+舜宇光學科技：計劃僅面向專業投資者發行人民幣計價債券。公司將於 2026 年 6 月 26 日前後，面向專業投資者開展一系列推介路演。本次擬發行債券將依據《美國證券法》S 條例，僅在美國境外進行發售。公司計劃將本次債券發行募集的淨資金用於置換、償還現有債務。
+
+---
+
+### 2026-06-26 08:04:27  #MKT News
+
+【Guojin Securities: Micron advances long-term contracts; supply shortfall likely to persist】Guojin Securities says Micron Technology has signed 16 Strategic Customer Agreements (SCAs) covering data center, consumer electronics and automotive end markets; auto SCAs run three years, other SCAs are mostly five years. Those 16 SCAs represent roughly 20% of Micron's DRAM shipments and about one-third of its NAND shipments. The SCAs’ price floors would deliver profitability above prior cycle peaks. Micron expects DRAM and NAND tightness to persist into 2027. Guojin projects sustained supply tightness in the memory sector and continued high profitability at Micron; wider SCA adoption is likely to reduce Micron’s realized-price volatility and earnings cyclicality.
+
+---
+
+### 2026-06-26 08:02:36  #市場 #國際
+
+韓國綜合股價指數（KOSPI）下跌2%，至8749.43。
+
+---
+
+### 2026-06-26 08:02:28  #MKT News #Important #Market Regions #Emerging Markets
+
+South Korea's KOSPI fell as much as 2.00% intraday.
+
+---
+
+### 2026-06-26 08:01:46  #MKT News
+
+South Korea's KOSPI opened down 112.4 points (-1.26%) at 8,817.9 on Friday, June 26.
+
+---
+
+### 2026-06-26 08:01:19  #MKT News #Market Regions #Nikkei 225 #Impact bearish
+
+Japan's Nikkei 225 opened down 668.60 points, or 0.92%, at 71,697.74 on Friday, June 26.
+
+---
+
+### 2026-06-26 08:00:38  #市場 #國際
+
+韓國綜合股價指數（KOSPI）開盤下跌1.3%，至8813.18點。
+
+---
+
+### 2026-06-26 08:00:36  #MKT News #Macro & Rates #DXY #Impact mixed #XAUUSD #Impact bearish
+
+【CITIC Securities: Sees dollar index supported this year but rally unlikely to be sustained】CITIC Securities said the dollar index has rallied sharply, driving gold below $4,000/oz, and that easing inflation concerns have not weakened the dollar. Political 're-dollarization' may partly explain the move, but the firm sees expectations of tighter dollar liquidity as the dominant driver. It expects the dollar index to find support this year but for further upside to be difficult to sustain; the next US inflation print could be a catalyst for market re-pricing.
+
+---
+
+### 2026-06-26 08:00:23  #市場
+
+日經225指數上午開盤報71587.71點，跌幅1.08%。
+
+---
+
+### 2026-06-26 08:00:08  #公司
+
+【索尼互動娛樂將削減Bungie工作室員工人數】當地時間6月25日，索尼互動娛樂執行長Hermen Hulst在公司網站上釋出的一封電子郵件中表示，在對遊戲開發工作室Bungie的長期方向和發展重點進行評估後，公司決定對該工作室裁減大量崗位。  此次裁員將涉及Bungie《命運》團隊的大多數成員，以及《失落星船：馬拉松》團隊的部分成員。此外，支援Bungie運營的索尼互動娛樂團隊也有縮減。
 
 ---
 
@@ -22505,185 +22601,5 @@ US President Trump said the US needs low interest rates.
 ### 2026-06-25 04:35:10  #Trading Economics #Markets #United States #Stock Market #Importance 1
 
 The Dow Jones Index Closes 0.34% Higher — The Dow Jones Index rose 174 points or 0.34 percent on Wednesday to close at 51840 points. Leading the gains are Home Depot (5.35%), Sherwin-Williams (3.12%) and 3M (2.49%). Top losers were Chevron (-2.43%), Walt Disney (-2.34%) and Microsoft (-2.27%).
-
----
-
-### 2026-06-25 04:34:58  #國際
-
-特朗普：烏克蘭總統澤連斯基表現得相當不錯， 他撐得住局面。
-
----
-
-### 2026-06-25 04:34:46  #MKT News
-
-US President Trump said Ukrainian President Zelenskiy has performed quite well.
-
----
-
-### 2026-06-25 04:34:32  #MKT News
-
-US President Trump said he would not have attended the NATO summit in Ankara if not for Turkish President Erdogan.
-
----
-
-### 2026-06-25 04:34:08  #MKT News
-
-U.S. President Trump said he may take action on fighter-jet sales to Turkey.
-
----
-
-### 2026-06-25 04:34:04  #公司 #市場
-
-美光釋出財報後，盤後晶片股普漲；英特爾漲 4.4%，AMD 漲 3.4%，英偉達上漲 0.6%。
-
----
-
-### 2026-06-25 04:33:49  #MKT News #Important #Macro & Rates #The Fed (FOMC) #S&P500 #Impact bullish #Nasdaq100 #Dow
-
-【Wall Street banks pass Fed stress test, clear way for tens of billions in buybacks and dividends】All major US banks passed the Fed's annual stress test, clearing the way for tens of billions of dollars in share buybacks and dividends. The Fed said 2026 results will not affect capital requirements as it continues to revise the exercise to be more favorable to banks. The test covered 32 large bank holding companies under a severe global shock — commercial real estate down 39%, residential prices down 30%, unemployment peaking at 10% — and assumed lenders would absorb more than $708bn of loan losses. Regulators said aggregate capital fell only 1.6 percentage points and remained above minimum requirements.
-
----
-
-### 2026-06-25 04:33:00  #國際
-
-特朗普談及向土耳其交付戰機一事：認為此舉會讓土方滿意。
-
----
-
-### 2026-06-25 04:32:41  #國際
-
-特朗普談及北約峰會：此舉是出於對埃爾多安的尊重。
-
----
-
-### 2026-06-25 04:32:34  #MKT News #GS.N #Impact bullish
-
-Goldman Sachs (GS.N) plans to raise its dividend from $4.50 to $5.00.
-
----
-
-### 2026-06-25 04:32:09  #公司 #其他 #焦點 #國際
-
-富國銀行將每股股息從 0.45 美元上調至 0.50 美元。
-
----
-
-### 2026-06-25 04:31:53  #MKT News #MS.O #Impact bullish
-
-Morgan Stanley raised its quarterly dividend by $0.15 to $1.15 per share and reauthorized a $20 billion multi-year common stock repurchase program.
-
----
-
-### 2026-06-25 04:31:28  #MKT News #Market Themes #AI Revolution #Chip Wars #QCOM.O #Impact bullish
-
-Qualcomm and Hugging Face expand their partnership to advance open, developer-driven AI across device-to-cloud environments.
-
----
-
-### 2026-06-25 04:31:26  #市場
-
-美光公佈業績後，閃迪盤後股價上漲 11.8%。
-
----
-
-### 2026-06-25 04:30:30  #公司 #觀點 #焦點 #國際
-
-摩根士丹利：每股股息上調 15 美分至 1.15 美元，重新批准一項規模 200 億美元的多年期普通股回購計劃。
-
----
-
-### 2026-06-25 04:30:03  #國際
-
-特朗普：我欣賞土耳其總統埃爾多安。
-
----
-
-### 2026-06-25 04:29:42  #其他
-
-高通預計將在資料中心領域搶佔超過5%的市場份額。預計2029財年IoT營收將為140億美元。
-
----
-
-### 2026-06-25 04:29:25  #MKT News
-
-iShares MSCI Korea ETF rose 6.4% in U.S. after-hours trading.
-
----
-
-### 2026-06-25 04:28:25  #公司
-
-高通首席財務官：公司目標 2029 財年汽車業務營收約 100 億美元。
-
----
-
-### 2026-06-25 04:27:44  #其他
-
-高通稱有望成為全球最大車用晶片廠商。
-
----
-
-### 2026-06-25 04:27:22  #國際
-
-【魯比奧：美伊技術性談判將於月底恢復】美國國務卿魯比奧24日在科威特城表示，美國和伊朗之間的技術性談判將於本月底恢復，談判很可能在瑞士舉行。魯比奧在結束訪問科威特、前往巴林前對媒體記者表示，美國在涉伊朗問題的處理上不會損害海灣地區盟友的安全。“我們將與海灣地區的夥伴完全保持一致。”（新華社）
-
----
-
-### 2026-06-25 04:27:05  #Trading Economics #Markets #Canada #Stock Market #Importance 1
-
-TSX Dips on Mining and Energy Losses — The S&P/TSX Composite Index fell 0.5% to close at 34,736, pressured by weakness in commodity-linked sectors. Gold prices declined as the dollar strengthened on rising bets for further US rate hikes, weighing on mining shares. Agnico Eagle lost 4.1%, Barrick shed 4.3%, and WPM retreated 2.9%. Oil prices also extended this week’s losses on signs that more tankers are set to leave the Strait of Hormuz, pressuring energy stocks. Canadian Natural dropped 3.7%, Suncor fell 3.4%, and Cenovus lost 4.1%. In contrast, Canadian technology stocks rebounded from the previous session’s global selloff, with Shopify rising 6.1%, Constellation Software up 2.8%, and Celestica gaining 3.3% ahead of Micron’s earnings report. Micron reported third-quarter results above expectations after the bell.
-
----
-
-### 2026-06-25 04:27:00  #國際
-
-特朗普談及英國伯納姆：其大機率不會放開北海油氣開發，  我聽說他是極度自由主義者。
-
----
-
-### 2026-06-25 04:25:51  #其他
-
-高通首席財務官：兩大超大規模定製晶片客戶將在 2027 財年帶來 10 億美元營收。
-
----
-
-### 2026-06-25 04:25:32  #公司
-
-高通首席財務官：公司目標 2029 財年資料中心業務營收超 150 億美元。
-
----
-
-### 2026-06-25 04:25:23  #國際
-
-北約秘書長呂特：特朗普對北約的不滿只是個別情況。
-
----
-
-### 2026-06-25 04:25:01  #MKT News
-
-Congressional sources said the Trump administration submitted an $87.6 billion supplemental budget request to Congress.
-
----
-
-### 2026-06-25 04:24:43  #國際
-
-國會知情人士透露，特朗普政府已向國會提交 876 億美元補充預算申請。
-
----
-
-### 2026-06-25 04:24:28  #公司
-
-高通首席財務官：公司目標 2027 財年實現 50 億美元人工智慧資料中心業務營收。
-
----
-
-### 2026-06-25 04:24:10  #國際
-
-特朗普：我們對德國、法國和西班牙感到失望。
-
----
-
-### 2026-06-25 04:23:47  #公司 #市場 #央行 #國際
-
-【美國大型銀行透過美聯儲壓力測試 為派息和回購鋪平道路】美國所有大型銀行均透過美聯儲年度壓力測試，為這些銀行提高回購和派息鋪平道路。壓力測試旨在評估華爾街銀行在假設金融體系遭遇衝擊的情況下將表現如何。與往年不同，2026年的測試結果將不會影響資本要求，目前美聯儲仍在修訂測試機制，以使其對銀行更加友好。美聯儲週三在宣告中表示，鑑於這一決定，“並不預期這些機構會推遲到某個特定時間點才公開披露其截至2027年第三季度的計劃資本行動”。今年的測試評估了32家大型銀行在全球經濟嚴重衝擊情景下的承壓能力，測試假設商業和住宅房地產市場以及公司債市場面臨高度壓力。假設情景包括全球經濟嚴重衰退、商業地產價格下跌39%、住宅價格下跌30%。並且失業率升至10%的峰值，同時經濟產出相應下滑。美聯儲表示：“儘管在今年的假設情景下，銀行體系共吸收了超過7,080億美元貸款損失，但整體資本僅下降1.6個百分點，仍高於最低資本要求。”
 
 ---

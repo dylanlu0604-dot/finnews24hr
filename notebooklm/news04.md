@@ -1,7 +1,169 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-06-28 02:03:08_
-_本檔包含 3513 則快訊，約 671291 字_
+_更新時間：2026-06-28 02:39:20_
+_本檔包含 3520 則快訊，約 671537 字_
+
+---
+
+### 2026-06-23 23:44:08  #公司 #國際
+
+市場訊息：黑石集團總裁兼營運長：公司計劃未來 3 至 5 年在日本人工智慧資料中心領域投資 300 億美元。
+
+---
+
+### 2026-06-23 23:44:08  #MKT News
+
+Pakistan's prime minister says double standards on ballistic missiles are unacceptable.
+
+---
+
+### 2026-06-23 23:43:49  #MKT News
+
+Pakistan's prime minister said Iran has no intention of discussing the matter.
+
+---
+
+### 2026-06-23 23:43:48  #其他
+
+巴基斯坦總理謝里夫： 彈道導彈問題不能實行雙重標準。
+
+---
+
+### 2026-06-23 23:42:55  #國際
+
+巴基斯坦總理謝里夫：巴基斯坦與伊朗將攜手合作，實現互利共贏。
+
+---
+
+### 2026-06-23 23:42:39  #MKT News #Important
+
+Pakistan's prime minister said the memorandum of understanding does not mention ballistic missiles.
+
+---
+
+### 2026-06-23 23:42:28  #其他 #焦點
+
+巴基斯坦總理謝里夫： 諒解備忘錄並未提及彈道導彈， 伊朗方面無意展開相關磋商。
+
+---
+
+### 2026-06-23 23:41:40  #MKT News
+
+Pakistan's prime minister says Pakistan and Iran will cooperate to achieve mutual benefits.
+
+---
+
+### 2026-06-23 23:40:29  #MKT News
+
+Italy's energy minister said he does not believe tensions with the United States will jeopardize Italy's liquefied natural gas (LNG) supplies.
+
+---
+
+### 2026-06-23 23:40:07  #宏觀 #國際
+
+【印度總理莫迪會見王毅等金磚國家安全事務高階代表】印度總理莫迪23日在新德里總理府會見出席金磚國家安全事務高階代表會議的各國代表時，同中共中央政治局委員、中央外辦主任王毅進行友好交流。（新華社）
+
+---
+
+### 2026-06-23 23:39:40  #MKT News #Market Regions #Europe & UK #DAX #Impact bearish #FTSE100 #Impact bullish
+
+At Tuesday close June 23, European equities: Germany's DAX 30 fell 237.30 points (-0.94%) to 24,914.18; UK's FTSE 100 rose 1.37 points (+0.01%) to 10,439.22; France's CAC 40 fell 59.40 points (-0.71%) to 8,340.71; Euro Stoxx 50 fell 75.96 points (-1.20%) to 6,235.36; Spain's IBEX 35 fell 93.84 points (-0.48%) to 19,481.46; Italy's FTSE MIB fell 755.28 points (-1.43%) to 52,041.50.
+
+---
+
+### 2026-06-23 23:39:12  #其他
+
+義大利能源部長：我認為意美之間的緊張局勢不會危及義大利液化天然氣供應。
+
+---
+
+### 2026-06-23 23:38:04  #公司
+
+巴西國家石油公司執行長表示，墨西哥灣墨西哥一側海域值得重新評估開發潛力。
+
+---
+
+### 2026-06-23 23:37:52  #宏觀 #國際
+
+【王毅會見阿聯酋最高國家安全委員會秘書長沙姆西 】中共中央政治局委員、中央外辦主任王毅23日在新德里會見阿聯酋最高國家安全委員會秘書長沙姆西。王毅表示，中國和阿聯酋是全面戰略伙伴。近年來，在習近平主席和穆罕默德總統戰略引領下，中阿關係歷經國際風雲，持續向前發展。中方願同阿方堅定信心、共同努力，保持高層交往，深挖合作潛力，增進民心相通，推動中阿關係向更高水平邁進。（新華社）
+
+---
+
+### 2026-06-23 23:37:21  #國際
+
+巴基斯坦總理謝里夫：（與伊朗總統會晤時）我們絕不會讓你們失望。巴基斯坦將履行這一職責，直至實現永久和平。
+
+---
+
+### 2026-06-23 23:36:55  #MKT News
+
+Pakistan's prime minister said the country will fulfill its duty until permanent peace is achieved.
+
+---
+
+### 2026-06-23 23:36:48  #其他
+
+聯合國航運機構：針對滯留在海灣地區、分佈於 500 至 600 艘船舶上的 1.1 萬名海員的撤離計劃已正式啟動。正在聯絡船隻，按照計劃透過霍爾木茲海峽啟動撤離。
+
+---
+
+### 2026-06-23 23:36:41  #MKT News #Brent #Impact bullish #WTI #XAUUSD
+
+UN shipping agency says it is contacting vessels to begin planned evacuations through the Strait of Hormuz.
+
+---
+
+### 2026-06-23 23:36:10  #MKT News
+
+Pakistan's prime minister told Iran's president during a meeting that Pakistan will not let Iran down.
+
+---
+
+### 2026-06-23 23:35:36  #MKT News
+
+Pakistan's prime minister said Iran reached a memorandum of understanding with dignity and honor.
+
+---
+
+### 2026-06-23 23:35:28  #國際
+
+巴基斯坦總理謝里夫稱伊朗體面且光榮地達成諒解備忘錄。
+
+---
+
+### 2026-06-23 23:33:26  #MKT News #Macro & Rates #Treasury Yields #US10Y #Impact bearish #DXY #Impact bullish #USDJPY
+
+US 6-week Treasury auction on June 23: 92.35% of the allotment awarded at the stop-out (high) yield, versus 35.89% previously.
+
+---
+
+### 2026-06-23 23:33:08  #MKT News #Macro & Rates #Treasury Yields #US10Y #Impact bullish #DXY #XAUUSD #Impact bearish
+
+US 6-week Treasury auction bid-cover ratio 2.91 on June 23; prior 3.12.
+
+---
+
+### 2026-06-23 23:32:59  #MKT News #Macro & Rates #Treasury Yields #DXY #Impact bullish #XAUUSD #Impact bearish #US10Y
+
+US 6-week Treasury bill auction (to June 23) stop-out yield 3.62%, prior 3.60%.
+
+---
+
+### 2026-06-23 23:32:34  #宏觀 #市場 #國際
+
+美國財政部拍賣六週期國債，得標利率3.620%，投標倍數2.91。
+
+---
+
+### 2026-06-23 23:32:28  #其他
+
+中國地震臺網自動測定：06月23日23時29分在青海海西州直轄區附近（北緯37.81度，東經95.39度）發生5.2級左右地震，最終結果以正式速報為準。
+
+---
+
+### 2026-06-23 23:31:53  #Trading Economics #Markets #Germany #Stock Market #Importance 1
+
+DAX Finishes Lower — The DAX 40 pared early losses but still closed about 0.7% down at 24,973 on Tuesday, dragged by tech-related stocks amid concerns over AI firms' capital expenditures and prospective Fed rate hikes. Meanwhile, investors also monitored progress on US-Iran negotiations, including the 60-day license granted by the US allowing Iran to sell its oil on the international market. The chip segment was the hardest hit, with Infineon Technologies sliding over 5%. The construction company Hochtief (-3.8%) and Siemens Energy (-3.5%) also posted steep losses. Both had benefited significantly from the massive investments in data centers in recent months. Vonovia shares dropped 3.4% following the announcement of a convertible bond issue. On the upside, heavyweight SAP and Airbus were the top gainers, adding more than 2% each. RWE reversed initial losses and rose 0.5% following the announcement of a €4 billion capital raise for a majority stake in Amprion.
 
 ---
 
@@ -21092,125 +21254,5 @@ Israel's prime minister said the Israel Defense Forces can operate freely in sou
 ### 2026-06-22 21:28:39  #Trading Economics #Markets #Commodity #Importance 1
 
 Palladium Hovers Near 8-Month Low — Palladium held near $1,270 per ounce, remaining close to its lowest level since late September as easing geopolitical risk premiums and softer energy markets weighed on sentiment. US and Iran negotiators reported major advances toward a longer term settlement, helping calm fears of severe supply disruptions through key shipping routes, even as tensions persist from the conflict in Lebanon involving Israel and Hezbollah. Lower crude oil prices have reduced inflation pressures and eased fears of further energy driven tightening, but expectations of higher for longer interest rates continue to pressure non yielding assets like palladium. Market sentiment is also undermined by a projected surplus in the platinum group metals complex. On the demand side, structural change in China’s auto sector adds further headwinds, with electric vehicles rapidly gaining share and reducing long term demand expectations for palladium used in catalytic converters in traditional combustion engines.
-
----
-
-### 2026-06-22 21:28:26  #公司 #市場 #國際
-
-波蘭銅礦公司KGHM表示，5月可交割白銀產量為129.4噸。
-
----
-
-### 2026-06-22 21:28:18  #公司 #市場 #國際
-
-波蘭銅業集團（KGHM）表示，5月白銀銷量為164噸。
-
----
-
-### 2026-06-22 21:28:00  #公司 #國際
-
-波蘭銅業集團（KGHM）表示，5月可交付銅產量為5.85萬噸。
-
----
-
-### 2026-06-22 21:27:39  #宏觀 #國際
-
-【美國批准部分伊朗產原油的銷售】美國財長貝森特表示，在美國總統特朗普及副總統的領導下，我們繼續致力於推動世界更加安全與繁榮。根據瑞士正在進行的富有建設性的會談，伊朗已承諾確保霍爾木茲海峽的自由與開放通行，並允許國際原子能機構核查人員進入其境內。作為框架協議的一部分，美國財政部已釋出一項為期60天的臨時通用許可證，授權伊朗石油的生產、交付和銷售。
-
----
-
-### 2026-06-22 21:27:35  #MKT News #Commodities #Energy #WTI #Impact bearish #Brent
-
-【U.S. approves sale of some Iranian crude】U.S. Treasury Secretary Bessent said that following constructive talks in Switzerland, Iran has pledged to ensure free, open passage through the Strait of Hormuz and to grant IAEA inspectors access. As part of that framework, the Treasury has issued a 60-day temporary general license authorizing production, delivery and sale of some Iranian crude.
-
----
-
-### 2026-06-22 21:27:27  #公司
-
-【唯科科技：MT插芯已向客戶送樣 預計近期會出驗證報告】唯科科技近日接受機構調研時表示，公司MT插芯已向客戶送樣，目前正在進行GR-1435標準認證，這個認證大概需要進行3000個小時以上的效能測試，預計近期會出驗證報告，驗證透過後會慢慢實現小批次出貨，若實際執行沒問題才會真正放量。
-
----
-
-### 2026-06-22 21:27:24  #公司 #國際
-
-波蘭銅業集團（KGHM）表示，5月銅銷量為6.21萬噸。
-
----
-
-### 2026-06-22 21:27:24  #MKT News #Commodities #Energy #Brent #Impact bearish
-
-Brent crude slipped below $78/bbl, down 2.75% intraday.
-
----
-
-### 2026-06-22 21:27:16  #Trading Economics #Markets #Spain #stocks #Importance 0
-
-Banco Santander Stock Price Hits 16-1/2-year High — Banco Santander shares increased to 11.99 EUR, the highest since January 2010. Over the past 4 weeks, Banco Santander gained 10.35%, and in the last 12 months, it increased 74.65%.
-
----
-
-### 2026-06-22 21:26:58  #MKT News #Important #Commodities #Energy #WTI #Impact bearish #Brent
-
-US Treasury Secretary Bessent said the Treasury has issued a 60-day temporary general license authorizing Iranian oil production and sales after productive talks in Switzerland.
-
----
-
-### 2026-06-22 21:26:31  #Trading Economics #Markets #commodity #Importance 0
-
-Crude Oil WTI is down by 4.02% — Crude Oil WTI decreased 4.02% to 74.226 USD/Bbl
-
----
-
-### 2026-06-22 21:26:22  #宏觀 #焦點 #國際
-
-美國財長貝森特：在瑞士富有成效的會談後，財政部已釋出為期60天的臨時通用許可證，授權伊朗石油生產和銷售。
-
----
-
-### 2026-06-22 21:25:59  #MKT News #Market Regions #Greater China #688143.SS
-
-Effective June 22, 2026, SDIC UBS Fund Management will use the AMAC industry index as the calculation basis and apply the "index income method" to adjust valuations of suspended shares of Changyingtong (ticker: 688143) held by its securities investment funds, excluding exchange-traded funds (ETFs).
-
----
-
-### 2026-06-22 21:25:58  #MKT News #Important #Commodities #Energy #WTI #Impact bearish
-
-WTI crude down 3.0% intraday to $74.93/bbl.
-
----
-
-### 2026-06-22 21:25:55  #其他
-
-【全球首個AI創新藥三期臨床試驗將啟動，鍾南山等醫學專家牽頭研究】全球首個由人工智慧驅動識別新靶點、設計分子結構的創新藥‌Ⅲ期臨床試驗將在我國啟動。近日，治療特發性肺纖維化的Rentosertib口服藥‌Ⅲ期臨床試驗中國研究者會議在北京舉行，計劃7月啟動臨床試驗，由北京協和醫院主任醫師徐作軍擔任牽頭研究者，中國工程院院士鍾南山、上海市肺科醫院院長陳昶擔任聯合牽頭研究者。北京、上海、廣州三地名醫合作研究，可見這款創新藥的“含金量”。Rentosertib由英矽智慧研發，這家將全球科技總部設在上海的企業利用自研Pharma.AI平臺和張江科學城的新藥研發生態，將人工智慧驅動發現的候選藥物推向臨床試驗，成為“人工智慧+生物醫藥”賽道的全球領先者。（上觀新聞）
-
----
-
-### 2026-06-22 21:25:50  #公司
-
-【國投瑞銀基金：6月22日起對旗下基金持有的長盈通股票估值調整】國投瑞銀基金公告稱，自2026年6月22日起，公司以AMAC行業指數為計算依據，對旗下證券投資基金（交易型開放式指數證券投資基金除外）持有的停牌股票長盈通（程式碼：688143）採用“指數收益法”進行估值調整。待該股票復牌且交易體現活躍市場交易特徵後，將恢復按市價估值方法估值，不再另行公告。投資者可登陸基金管理人網站或撥打客服熱線諮詢。
-
----
-
-### 2026-06-22 21:25:41  #MKT News #Commodities #Energy
-
-Qatar's energy minister said the incident will not affect exports or domestic demand.
-
----
-
-### 2026-06-22 21:25:29  #其他
-
-英國前衛生部長斯特里廷：他沒有給我提供任何工作。
-
----
-
-### 2026-06-22 21:25:22  #MKT News
-
-Former UK health minister Si Te Li Ting said he did not offer me any job.
-
----
-
-### 2026-06-22 21:25:18  #公司 #國際
-
-【上海市長會見美國萬寶盛華集團董事會主席兼CEO普里辛】上海市市長龔正今天（6月22日）會見了美國萬寶盛華集團董事會主席兼執行長約納斯·普里辛一行。龔正說，當前，上海正在按照中央政府的部署，加快建設“五個中心”，著力推動高質量發展。人力資源是現代化產業體系的重要組成部分，我們堅持人才是第一資源，加快建設高水平人才高地，持續完善全球引才網路體系，努力聚天下英才而用之，讓全球人才近悅遠來。歡迎萬寶盛華等世界知名企業發揮所長、積極參與，將更多先進服務理念引入上海，依託全球業務網路和渠道資源，助力上海更好發揮開放引才優勢，創新探索人才合作交流方式，大力引進更多頂尖人才和各類專業人才。同時，歡迎萬寶盛華為上海最佳化營商環境建言獻策，圍繞人才培育和引進等方面多提寶貴建議，幫助上海持續最佳化為企服務水平，助力各類企業實現更大發展。普里辛說，此次來訪距離我首次來滬已經36年，我親眼見證上海將一個個雄心壯志變為現實，在國際舞臺上大放異彩。萬寶盛華在全球80多個國家和地區開展業務，視中國為戰略市場，長期投資中國，並獲得了豐厚回報。萬寶盛華將運用全球資源和資訊網路，助力全球優秀人才探尋上海機遇，也幫助中國企業走向全球，併為上海“五個中心”建設及文化、商業和體育等領域發展貢獻力量。萬寶盛華集團是全球最大的人力資源服務企業之一，2003年起累計在滬設立了7家獨資企業。 (上觀新聞)
 
 ---

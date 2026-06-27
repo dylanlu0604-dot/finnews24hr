@@ -1,7 +1,187 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-06-28 02:03:08_
-_本檔包含 3856 則快訊，約 670613 字_
+_更新時間：2026-06-28 02:39:20_
+_本檔包含 3859 則快訊，約 670785 字_
+
+---
+
+### 2026-06-25 04:34:58  #國際
+
+特朗普：烏克蘭總統澤連斯基表現得相當不錯， 他撐得住局面。
+
+---
+
+### 2026-06-25 04:34:46  #MKT News
+
+US President Trump said Ukrainian President Zelenskiy has performed quite well.
+
+---
+
+### 2026-06-25 04:34:32  #MKT News
+
+US President Trump said he would not have attended the NATO summit in Ankara if not for Turkish President Erdogan.
+
+---
+
+### 2026-06-25 04:34:08  #MKT News
+
+U.S. President Trump said he may take action on fighter-jet sales to Turkey.
+
+---
+
+### 2026-06-25 04:34:04  #公司 #市場
+
+美光釋出財報後，盤後晶片股普漲；英特爾漲 4.4%，AMD 漲 3.4%，英偉達上漲 0.6%。
+
+---
+
+### 2026-06-25 04:33:49  #MKT News #Important #Macro & Rates #The Fed (FOMC) #S&P500 #Impact bullish #Nasdaq100 #Dow
+
+【Wall Street banks pass Fed stress test, clear way for tens of billions in buybacks and dividends】All major US banks passed the Fed's annual stress test, clearing the way for tens of billions of dollars in share buybacks and dividends. The Fed said 2026 results will not affect capital requirements as it continues to revise the exercise to be more favorable to banks. The test covered 32 large bank holding companies under a severe global shock — commercial real estate down 39%, residential prices down 30%, unemployment peaking at 10% — and assumed lenders would absorb more than $708bn of loan losses. Regulators said aggregate capital fell only 1.6 percentage points and remained above minimum requirements.
+
+---
+
+### 2026-06-25 04:33:00  #國際
+
+特朗普談及向土耳其交付戰機一事：認為此舉會讓土方滿意。
+
+---
+
+### 2026-06-25 04:32:41  #國際
+
+特朗普談及北約峰會：此舉是出於對埃爾多安的尊重。
+
+---
+
+### 2026-06-25 04:32:34  #MKT News #GS.N #Impact bullish
+
+Goldman Sachs (GS.N) plans to raise its dividend from $4.50 to $5.00.
+
+---
+
+### 2026-06-25 04:32:09  #公司 #其他 #焦點 #國際
+
+富國銀行將每股股息從 0.45 美元上調至 0.50 美元。
+
+---
+
+### 2026-06-25 04:31:53  #MKT News #MS.O #Impact bullish
+
+Morgan Stanley raised its quarterly dividend by $0.15 to $1.15 per share and reauthorized a $20 billion multi-year common stock repurchase program.
+
+---
+
+### 2026-06-25 04:31:28  #MKT News #Market Themes #AI Revolution #Chip Wars #QCOM.O #Impact bullish
+
+Qualcomm and Hugging Face expand their partnership to advance open, developer-driven AI across device-to-cloud environments.
+
+---
+
+### 2026-06-25 04:31:26  #市場
+
+美光公佈業績後，閃迪盤後股價上漲 11.8%。
+
+---
+
+### 2026-06-25 04:30:30  #公司 #觀點 #焦點 #國際
+
+摩根士丹利：每股股息上調 15 美分至 1.15 美元，重新批准一項規模 200 億美元的多年期普通股回購計劃。
+
+---
+
+### 2026-06-25 04:30:03  #國際
+
+特朗普：我欣賞土耳其總統埃爾多安。
+
+---
+
+### 2026-06-25 04:29:42  #其他
+
+高通預計將在資料中心領域搶佔超過5%的市場份額。預計2029財年IoT營收將為140億美元。
+
+---
+
+### 2026-06-25 04:29:25  #MKT News
+
+iShares MSCI Korea ETF rose 6.4% in U.S. after-hours trading.
+
+---
+
+### 2026-06-25 04:28:25  #公司
+
+高通首席財務官：公司目標 2029 財年汽車業務營收約 100 億美元。
+
+---
+
+### 2026-06-25 04:27:44  #其他
+
+高通稱有望成為全球最大車用晶片廠商。
+
+---
+
+### 2026-06-25 04:27:22  #國際
+
+【魯比奧：美伊技術性談判將於月底恢復】美國國務卿魯比奧24日在科威特城表示，美國和伊朗之間的技術性談判將於本月底恢復，談判很可能在瑞士舉行。魯比奧在結束訪問科威特、前往巴林前對媒體記者表示，美國在涉伊朗問題的處理上不會損害海灣地區盟友的安全。“我們將與海灣地區的夥伴完全保持一致。”（新華社）
+
+---
+
+### 2026-06-25 04:27:05  #Trading Economics #Markets #Canada #Stock Market #Importance 1
+
+TSX Dips on Mining and Energy Losses — The S&P/TSX Composite Index fell 0.5% to close at 34,736, pressured by weakness in commodity-linked sectors. Gold prices declined as the dollar strengthened on rising bets for further US rate hikes, weighing on mining shares. Agnico Eagle lost 4.1%, Barrick shed 4.3%, and WPM retreated 2.9%. Oil prices also extended this week’s losses on signs that more tankers are set to leave the Strait of Hormuz, pressuring energy stocks. Canadian Natural dropped 3.7%, Suncor fell 3.4%, and Cenovus lost 4.1%. In contrast, Canadian technology stocks rebounded from the previous session’s global selloff, with Shopify rising 6.1%, Constellation Software up 2.8%, and Celestica gaining 3.3% ahead of Micron’s earnings report. Micron reported third-quarter results above expectations after the bell.
+
+---
+
+### 2026-06-25 04:27:00  #國際
+
+特朗普談及英國伯納姆：其大機率不會放開北海油氣開發，  我聽說他是極度自由主義者。
+
+---
+
+### 2026-06-25 04:25:51  #其他
+
+高通首席財務官：兩大超大規模定製晶片客戶將在 2027 財年帶來 10 億美元營收。
+
+---
+
+### 2026-06-25 04:25:32  #公司
+
+高通首席財務官：公司目標 2029 財年資料中心業務營收超 150 億美元。
+
+---
+
+### 2026-06-25 04:25:23  #國際
+
+北約秘書長呂特：特朗普對北約的不滿只是個別情況。
+
+---
+
+### 2026-06-25 04:25:01  #MKT News
+
+Congressional sources said the Trump administration submitted an $87.6 billion supplemental budget request to Congress.
+
+---
+
+### 2026-06-25 04:24:43  #國際
+
+國會知情人士透露，特朗普政府已向國會提交 876 億美元補充預算申請。
+
+---
+
+### 2026-06-25 04:24:28  #公司
+
+高通首席財務官：公司目標 2027 財年實現 50 億美元人工智慧資料中心業務營收。
+
+---
+
+### 2026-06-25 04:24:10  #國際
+
+特朗普：我們對德國、法國和西班牙感到失望。
+
+---
+
+### 2026-06-25 04:23:47  #公司 #市場 #央行 #國際
+
+【美國大型銀行透過美聯儲壓力測試 為派息和回購鋪平道路】美國所有大型銀行均透過美聯儲年度壓力測試，為這些銀行提高回購和派息鋪平道路。壓力測試旨在評估華爾街銀行在假設金融體系遭遇衝擊的情況下將表現如何。與往年不同，2026年的測試結果將不會影響資本要求，目前美聯儲仍在修訂測試機制，以使其對銀行更加友好。美聯儲週三在宣告中表示，鑑於這一決定，“並不預期這些機構會推遲到某個特定時間點才公開披露其截至2027年第三季度的計劃資本行動”。今年的測試評估了32家大型銀行在全球經濟嚴重衝擊情景下的承壓能力，測試假設商業和住宅房地產市場以及公司債市場面臨高度壓力。假設情景包括全球經濟嚴重衰退、商業地產價格下跌39%、住宅價格下跌30%。並且失業率升至10%的峰值，同時經濟產出相應下滑。美聯儲表示：“儘管在今年的假設情景下，銀行體系共吸收了超過7,080億美元貸款損失，但整體資本僅下降1.6個百分點，仍高於最低資本要求。”
 
 ---
 
@@ -23098,167 +23278,5 @@ FTSE 100 Outperforms Global Markets — The FTSE 100 edged higher on Tuesday, ou
 ### 2026-06-23 23:44:40  #MKT News
 
 【Modi meets Wang Yi, BRICS security envoys in New Delhi】June 23, 2026, New Delhi — Indian Prime Minister Modi met Wang Yi, member of the CPC Politburo and director of the Office of the Central Foreign Affairs Commission, and other BRICS senior security representatives. Modi said India supports China taking the BRICS rotating chair next year and will work with China to advance BRICS cooperation and safeguard Global South interests. Wang Yi conveyed Chinese leadership’s good wishes, said China and India should lead unity and self-reliance among Global South nations, urged implementation of leaders’ consensus, greater mutual trust, proper handling of sensitive issues and deeper mutually beneficial cooperation, and said China will continue to support India in fulfilling its BRICS rotating-chair responsibilities. Wang also met Indian National Security Adviser Ajit Doval during the visit.
-
----
-
-### 2026-06-23 23:44:08  #公司 #國際
-
-市場訊息：黑石集團總裁兼營運長：公司計劃未來 3 至 5 年在日本人工智慧資料中心領域投資 300 億美元。
-
----
-
-### 2026-06-23 23:44:08  #MKT News
-
-Pakistan's prime minister says double standards on ballistic missiles are unacceptable.
-
----
-
-### 2026-06-23 23:43:49  #MKT News
-
-Pakistan's prime minister said Iran has no intention of discussing the matter.
-
----
-
-### 2026-06-23 23:43:48  #其他
-
-巴基斯坦總理謝里夫： 彈道導彈問題不能實行雙重標準。
-
----
-
-### 2026-06-23 23:42:55  #國際
-
-巴基斯坦總理謝里夫：巴基斯坦與伊朗將攜手合作，實現互利共贏。
-
----
-
-### 2026-06-23 23:42:39  #MKT News #Important
-
-Pakistan's prime minister said the memorandum of understanding does not mention ballistic missiles.
-
----
-
-### 2026-06-23 23:42:28  #其他 #焦點
-
-巴基斯坦總理謝里夫： 諒解備忘錄並未提及彈道導彈， 伊朗方面無意展開相關磋商。
-
----
-
-### 2026-06-23 23:41:40  #MKT News
-
-Pakistan's prime minister says Pakistan and Iran will cooperate to achieve mutual benefits.
-
----
-
-### 2026-06-23 23:40:29  #MKT News
-
-Italy's energy minister said he does not believe tensions with the United States will jeopardize Italy's liquefied natural gas (LNG) supplies.
-
----
-
-### 2026-06-23 23:40:07  #宏觀 #國際
-
-【印度總理莫迪會見王毅等金磚國家安全事務高階代表】印度總理莫迪23日在新德里總理府會見出席金磚國家安全事務高階代表會議的各國代表時，同中共中央政治局委員、中央外辦主任王毅進行友好交流。（新華社）
-
----
-
-### 2026-06-23 23:39:40  #MKT News #Market Regions #Europe & UK #DAX #Impact bearish #FTSE100 #Impact bullish
-
-At Tuesday close June 23, European equities: Germany's DAX 30 fell 237.30 points (-0.94%) to 24,914.18; UK's FTSE 100 rose 1.37 points (+0.01%) to 10,439.22; France's CAC 40 fell 59.40 points (-0.71%) to 8,340.71; Euro Stoxx 50 fell 75.96 points (-1.20%) to 6,235.36; Spain's IBEX 35 fell 93.84 points (-0.48%) to 19,481.46; Italy's FTSE MIB fell 755.28 points (-1.43%) to 52,041.50.
-
----
-
-### 2026-06-23 23:39:12  #其他
-
-義大利能源部長：我認為意美之間的緊張局勢不會危及義大利液化天然氣供應。
-
----
-
-### 2026-06-23 23:38:04  #公司
-
-巴西國家石油公司執行長表示，墨西哥灣墨西哥一側海域值得重新評估開發潛力。
-
----
-
-### 2026-06-23 23:37:52  #宏觀 #國際
-
-【王毅會見阿聯酋最高國家安全委員會秘書長沙姆西 】中共中央政治局委員、中央外辦主任王毅23日在新德里會見阿聯酋最高國家安全委員會秘書長沙姆西。王毅表示，中國和阿聯酋是全面戰略伙伴。近年來，在習近平主席和穆罕默德總統戰略引領下，中阿關係歷經國際風雲，持續向前發展。中方願同阿方堅定信心、共同努力，保持高層交往，深挖合作潛力，增進民心相通，推動中阿關係向更高水平邁進。（新華社）
-
----
-
-### 2026-06-23 23:37:21  #國際
-
-巴基斯坦總理謝里夫：（與伊朗總統會晤時）我們絕不會讓你們失望。巴基斯坦將履行這一職責，直至實現永久和平。
-
----
-
-### 2026-06-23 23:36:55  #MKT News
-
-Pakistan's prime minister said the country will fulfill its duty until permanent peace is achieved.
-
----
-
-### 2026-06-23 23:36:48  #其他
-
-聯合國航運機構：針對滯留在海灣地區、分佈於 500 至 600 艘船舶上的 1.1 萬名海員的撤離計劃已正式啟動。正在聯絡船隻，按照計劃透過霍爾木茲海峽啟動撤離。
-
----
-
-### 2026-06-23 23:36:41  #MKT News #Brent #Impact bullish #WTI #XAUUSD
-
-UN shipping agency says it is contacting vessels to begin planned evacuations through the Strait of Hormuz.
-
----
-
-### 2026-06-23 23:36:10  #MKT News
-
-Pakistan's prime minister told Iran's president during a meeting that Pakistan will not let Iran down.
-
----
-
-### 2026-06-23 23:35:36  #MKT News
-
-Pakistan's prime minister said Iran reached a memorandum of understanding with dignity and honor.
-
----
-
-### 2026-06-23 23:35:28  #國際
-
-巴基斯坦總理謝里夫稱伊朗體面且光榮地達成諒解備忘錄。
-
----
-
-### 2026-06-23 23:33:26  #MKT News #Macro & Rates #Treasury Yields #US10Y #Impact bearish #DXY #Impact bullish #USDJPY
-
-US 6-week Treasury auction on June 23: 92.35% of the allotment awarded at the stop-out (high) yield, versus 35.89% previously.
-
----
-
-### 2026-06-23 23:33:08  #MKT News #Macro & Rates #Treasury Yields #US10Y #Impact bullish #DXY #XAUUSD #Impact bearish
-
-US 6-week Treasury auction bid-cover ratio 2.91 on June 23; prior 3.12.
-
----
-
-### 2026-06-23 23:32:59  #MKT News #Macro & Rates #Treasury Yields #DXY #Impact bullish #XAUUSD #Impact bearish #US10Y
-
-US 6-week Treasury bill auction (to June 23) stop-out yield 3.62%, prior 3.60%.
-
----
-
-### 2026-06-23 23:32:34  #宏觀 #市場 #國際
-
-美國財政部拍賣六週期國債，得標利率3.620%，投標倍數2.91。
-
----
-
-### 2026-06-23 23:32:28  #其他
-
-中國地震臺網自動測定：06月23日23時29分在青海海西州直轄區附近（北緯37.81度，東經95.39度）發生5.2級左右地震，最終結果以正式速報為準。
-
----
-
-### 2026-06-23 23:31:53  #Trading Economics #Markets #Germany #Stock Market #Importance 1
-
-DAX Finishes Lower — The DAX 40 pared early losses but still closed about 0.7% down at 24,973 on Tuesday, dragged by tech-related stocks amid concerns over AI firms' capital expenditures and prospective Fed rate hikes. Meanwhile, investors also monitored progress on US-Iran negotiations, including the 60-day license granted by the US allowing Iran to sell its oil on the international market. The chip segment was the hardest hit, with Infineon Technologies sliding over 5%. The construction company Hochtief (-3.8%) and Siemens Energy (-3.5%) also posted steep losses. Both had benefited significantly from the massive investments in data centers in recent months. Vonovia shares dropped 3.4% following the announcement of a convertible bond issue. On the upside, heavyweight SAP and Airbus were the top gainers, adding more than 2% each. RWE reversed initial losses and rose 0.5% following the announcement of a €4 billion capital raise for a majority stake in Amprion.
 
 ---

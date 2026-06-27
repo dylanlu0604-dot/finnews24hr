@@ -1,7 +1,127 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-06-28 02:03:08_
-_本檔包含 3533 則快訊，約 670632 字_
+_更新時間：2026-06-28 02:39:20_
+_本檔包含 3535 則快訊，約 670291 字_
+
+---
+
+### 2026-06-22 21:28:26  #公司 #市場 #國際
+
+波蘭銅礦公司KGHM表示，5月可交割白銀產量為129.4噸。
+
+---
+
+### 2026-06-22 21:28:18  #公司 #市場 #國際
+
+波蘭銅業集團（KGHM）表示，5月白銀銷量為164噸。
+
+---
+
+### 2026-06-22 21:28:00  #公司 #國際
+
+波蘭銅業集團（KGHM）表示，5月可交付銅產量為5.85萬噸。
+
+---
+
+### 2026-06-22 21:27:39  #宏觀 #國際
+
+【美國批准部分伊朗產原油的銷售】美國財長貝森特表示，在美國總統特朗普及副總統的領導下，我們繼續致力於推動世界更加安全與繁榮。根據瑞士正在進行的富有建設性的會談，伊朗已承諾確保霍爾木茲海峽的自由與開放通行，並允許國際原子能機構核查人員進入其境內。作為框架協議的一部分，美國財政部已釋出一項為期60天的臨時通用許可證，授權伊朗石油的生產、交付和銷售。
+
+---
+
+### 2026-06-22 21:27:35  #MKT News #Commodities #Energy #WTI #Impact bearish #Brent
+
+【U.S. approves sale of some Iranian crude】U.S. Treasury Secretary Bessent said that following constructive talks in Switzerland, Iran has pledged to ensure free, open passage through the Strait of Hormuz and to grant IAEA inspectors access. As part of that framework, the Treasury has issued a 60-day temporary general license authorizing production, delivery and sale of some Iranian crude.
+
+---
+
+### 2026-06-22 21:27:27  #公司
+
+【唯科科技：MT插芯已向客戶送樣 預計近期會出驗證報告】唯科科技近日接受機構調研時表示，公司MT插芯已向客戶送樣，目前正在進行GR-1435標準認證，這個認證大概需要進行3000個小時以上的效能測試，預計近期會出驗證報告，驗證透過後會慢慢實現小批次出貨，若實際執行沒問題才會真正放量。
+
+---
+
+### 2026-06-22 21:27:24  #公司 #國際
+
+波蘭銅業集團（KGHM）表示，5月銅銷量為6.21萬噸。
+
+---
+
+### 2026-06-22 21:27:24  #MKT News #Commodities #Energy #Brent #Impact bearish
+
+Brent crude slipped below $78/bbl, down 2.75% intraday.
+
+---
+
+### 2026-06-22 21:27:16  #Trading Economics #Markets #Spain #stocks #Importance 0
+
+Banco Santander Stock Price Hits 16-1/2-year High — Banco Santander shares increased to 11.99 EUR, the highest since January 2010. Over the past 4 weeks, Banco Santander gained 10.35%, and in the last 12 months, it increased 74.65%.
+
+---
+
+### 2026-06-22 21:26:58  #MKT News #Important #Commodities #Energy #WTI #Impact bearish #Brent
+
+US Treasury Secretary Bessent said the Treasury has issued a 60-day temporary general license authorizing Iranian oil production and sales after productive talks in Switzerland.
+
+---
+
+### 2026-06-22 21:26:31  #Trading Economics #Markets #commodity #Importance 0
+
+Crude Oil WTI is down by 4.02% — Crude Oil WTI decreased 4.02% to 74.226 USD/Bbl
+
+---
+
+### 2026-06-22 21:26:22  #宏觀 #焦點 #國際
+
+美國財長貝森特：在瑞士富有成效的會談後，財政部已釋出為期60天的臨時通用許可證，授權伊朗石油生產和銷售。
+
+---
+
+### 2026-06-22 21:25:59  #MKT News #Market Regions #Greater China #688143.SS
+
+Effective June 22, 2026, SDIC UBS Fund Management will use the AMAC industry index as the calculation basis and apply the "index income method" to adjust valuations of suspended shares of Changyingtong (ticker: 688143) held by its securities investment funds, excluding exchange-traded funds (ETFs).
+
+---
+
+### 2026-06-22 21:25:58  #MKT News #Important #Commodities #Energy #WTI #Impact bearish
+
+WTI crude down 3.0% intraday to $74.93/bbl.
+
+---
+
+### 2026-06-22 21:25:55  #其他
+
+【全球首個AI創新藥三期臨床試驗將啟動，鍾南山等醫學專家牽頭研究】全球首個由人工智慧驅動識別新靶點、設計分子結構的創新藥‌Ⅲ期臨床試驗將在我國啟動。近日，治療特發性肺纖維化的Rentosertib口服藥‌Ⅲ期臨床試驗中國研究者會議在北京舉行，計劃7月啟動臨床試驗，由北京協和醫院主任醫師徐作軍擔任牽頭研究者，中國工程院院士鍾南山、上海市肺科醫院院長陳昶擔任聯合牽頭研究者。北京、上海、廣州三地名醫合作研究，可見這款創新藥的“含金量”。Rentosertib由英矽智慧研發，這家將全球科技總部設在上海的企業利用自研Pharma.AI平臺和張江科學城的新藥研發生態，將人工智慧驅動發現的候選藥物推向臨床試驗，成為“人工智慧+生物醫藥”賽道的全球領先者。（上觀新聞）
+
+---
+
+### 2026-06-22 21:25:50  #公司
+
+【國投瑞銀基金：6月22日起對旗下基金持有的長盈通股票估值調整】國投瑞銀基金公告稱，自2026年6月22日起，公司以AMAC行業指數為計算依據，對旗下證券投資基金（交易型開放式指數證券投資基金除外）持有的停牌股票長盈通（程式碼：688143）採用“指數收益法”進行估值調整。待該股票復牌且交易體現活躍市場交易特徵後，將恢復按市價估值方法估值，不再另行公告。投資者可登陸基金管理人網站或撥打客服熱線諮詢。
+
+---
+
+### 2026-06-22 21:25:41  #MKT News #Commodities #Energy
+
+Qatar's energy minister said the incident will not affect exports or domestic demand.
+
+---
+
+### 2026-06-22 21:25:29  #其他
+
+英國前衛生部長斯特里廷：他沒有給我提供任何工作。
+
+---
+
+### 2026-06-22 21:25:22  #MKT News
+
+Former UK health minister Si Te Li Ting said he did not offer me any job.
+
+---
+
+### 2026-06-22 21:25:18  #公司 #國際
+
+【上海市長會見美國萬寶盛華集團董事會主席兼CEO普里辛】上海市市長龔正今天（6月22日）會見了美國萬寶盛華集團董事會主席兼執行長約納斯·普里辛一行。龔正說，當前，上海正在按照中央政府的部署，加快建設“五個中心”，著力推動高質量發展。人力資源是現代化產業體系的重要組成部分，我們堅持人才是第一資源，加快建設高水平人才高地，持續完善全球引才網路體系，努力聚天下英才而用之，讓全球人才近悅遠來。歡迎萬寶盛華等世界知名企業發揮所長、積極參與，將更多先進服務理念引入上海，依託全球業務網路和渠道資源，助力上海更好發揮開放引才優勢，創新探索人才合作交流方式，大力引進更多頂尖人才和各類專業人才。同時，歡迎萬寶盛華為上海最佳化營商環境建言獻策，圍繞人才培育和引進等方面多提寶貴建議，幫助上海持續最佳化為企服務水平，助力各類企業實現更大發展。普里辛說，此次來訪距離我首次來滬已經36年，我親眼見證上海將一個個雄心壯志變為現實，在國際舞臺上大放異彩。萬寶盛華在全球80多個國家和地區開展業務，視中國為戰略市場，長期投資中國，並獲得了豐厚回報。萬寶盛華將運用全球資源和資訊網路，助力全球優秀人才探尋上海機遇，也幫助中國企業走向全球，併為上海“五個中心”建設及文化、商業和體育等領域發展貢獻力量。萬寶盛華集團是全球最大的人力資源服務企業之一，2003年起累計在滬設立了7家獨資企業。 (上觀新聞)
 
 ---
 
@@ -21197,113 +21317,5 @@ Hezbollah's media relations department said Israel's claim that it has encircled
 ### 2026-06-21 02:41:14  #國際
 
 英國首相斯塔默：會聲援巴勒斯坦，且不會對伊朗開戰。
-
----
-
-### 2026-06-21 02:38:42  #國際
-
-伊朗革命衛隊海軍官員：我方參與談判是為捍衛自身合法權益，絕不會作出任何妥協退讓。
-
----
-
-### 2026-06-21 02:38:34  #MKT News
-
-An Islamic Revolutionary Guard Corps naval political affairs official said the real guarantee of any agreement is our strength.
-
----
-
-### 2026-06-21 02:38:33  #國際
-
-以色列軍方發言人：我方所有行動完全基於作戰層面考量，真主黨相關基礎設施規模極其龐大。
-
----
-
-### 2026-06-21 02:37:42  #MKT News
-
-Iran's Islamic Revolutionary Guard Corps (IRGC) navy political affairs officer said the force is defending its rights through negotiations rather than making concessions.
-
----
-
-### 2026-06-21 02:37:27  #國際
-
-【美國芝加哥發生槍擊事件 至少12人受傷】據當地警方20日釋出的訊息，美國芝加哥市19日晚發生一起槍擊事件，造成至少12人受傷。 芝加哥警方當天在記者會上說，事件發生在19日深夜，有兩人從一輛SUV轎車上向人群開槍，至少12人中彈，傷者隨即被送往醫院救治，其中兩名男子情況危急。目前警方正在對案件展開調查。 6月19日是美國的六月節，這一天被視為美國奴隸制終結之日。據芝加哥警方通報，自19日晚間以來，該市至少有21人遭槍擊，4人死亡。
-
----
-
-### 2026-06-21 02:36:44  #其他
-
-【第三屆資訊無障礙研討會在法國巴黎召開】近日，第三屆“資訊無障礙與文化權利保障研討會”在巴黎聯合國教科文組織總部召開。會議由聯合國教科文組織全民資訊計劃、中國人權發展基金會和中國傳媒大學共同主辦，多國專家圍繞視障群體文化權利保障等議題研討。與會嘉賓認為，無障礙文化是人類文明進步的重要標識。各方應深化國際協作，依託數智技術彌合數字鴻溝，推動無障礙文化產品惠及全球殘障群體，共建包容共享的文明未來。（央視新聞）
-
----
-
-### 2026-06-21 02:35:05  #國際
-
-【以媒：以軍已在黎巴嫩停火 但未撤出黎南】以色列媒體20日報道說，以總理和國防部長指示以軍在黎巴嫩停火，但以軍未撤出在黎巴嫩南部控制的地區。以總理內塔尼亞胡重申“只要有必要”以軍會一直駐留黎南部。以色列《國土報》20日援引一名以安全部門訊息人士的話報道，以方在黎南的“政策保持不變”，以軍將繼續回應黎巴嫩真主黨任何“違反停火協議的行為”。過去兩天，以軍共打擊300多個黎真主黨目標，打死約100名真主黨武裝人員。這名訊息人士透露，內塔尼亞胡重申“只要有必要”以軍會一直駐留黎南。他說，內塔尼亞胡已指示以軍對黎真主黨的任何襲擊“都予以強力回應”，並採取行動消除針對以軍的威脅。這名訊息人士還說，以軍將繼續在黎南控制區“自由行動”，以清除黎真主黨軍事基礎設施。（新華社）
-
----
-
-### 2026-06-21 02:35:03  #MKT News #XAUUSD #Impact bullish #WTI #DXY
-
-【Israeli media: IDF ordered ceasefire in Lebanon but remains in south】Israeli media reported on June 20 that the prime minister and defence minister instructed the IDF to implement a ceasefire in Lebanon, but forces have not withdrawn from areas they control in south Lebanon. Prime Minister Netanyahu reiterated the IDF will remain in south Lebanon “as long as necessary” and has ordered forces to respond forcefully to any HEZBOLLAH attacks and to remove threats to troops, Haaretz cited a security source. The source said policy in the south is unchanged: over the past two days the IDF struck more than 300 HEZBOLLAH targets and killed about 100 HEZBOLLAH fighters, and will continue to operate freely in its south Lebanon controlled areas to clear HEZBOLLAH military infrastructure.
-
----
-
-### 2026-06-21 02:33:46  #MKT News
-
-【US media: IAEA director to participate in technical talks on Iran nuclear programme】US broadcaster CBS reports IAEA Director Rafael Grossi is in Switzerland and is expected to take part in technical talks on Iran’s nuclear programme. A 14-point memorandum of understanding assigns the IAEA responsibility for inspections and to supervise downblending of Iran’s highly enriched uranium (HEU).
-
----
-
-### 2026-06-21 02:31:10  #其他
-
-一項新研究顯示，一款人工智慧模型正幫助部分常年病因不明的患者得到確診。
-
----
-
-### 2026-06-21 02:30:13  #其他
-
-蘇格蘭反恐警方正在調查愛丁堡發生的襲擊事件，該事件已造成五人受傷。
-
----
-
-### 2026-06-21 02:25:06  #MKT News
-
-【Al Jazeera reporter killed in Israeli strike on Bureij refugee camp】Al Jazeera said its reporter Ahmed Wisha was killed when an Israeli airstrike struck a residential building in the Bureij refugee camp in central Gaza. Palestinian civil defense said at least 10 people were killed in Israeli strikes across Gaza that day. Al Jazeera said Wisha’s brother, Muhammad Wisha, was killed on April 8 by Israeli shelling while driving.
-
----
-
-### 2026-06-21 02:22:53  #國際
-
-以色列廣播管理局：真主黨在卡夫爾提卜尼特附近發射火箭彈與無人機，造成一名以軍士兵身亡，包括一名軍官在內的另外12人受傷。
-
----
-
-### 2026-06-21 02:18:29  #其他
-
-希臘已調派消防員、固定翼飛機與直升機，應對埃維亞島的火情。
-
----
-
-### 2026-06-21 02:16:55  #MKT News
-
-Egyptian Foreign Minister Badr Abdel Ati met with Saudi and Turkish foreign ministers and the US president’s senior adviser for Arab and African affairs to discuss regional developments.
-
----
-
-### 2026-06-21 02:07:31  #其他 #焦點
-
-聯合國核監督機構總幹事格羅西將前往瑞士出席美伊談判。
-
----
-
-### 2026-06-21 02:07:22  #MKT News #Important
-
-【Sources: Residence of Iraq's parliamentary speaker struck by drone】Iraqi security sources said on the 20th local time the residence of Iraq’s parliament speaker al-Halbousi was struck by an unidentified drone.
-
----
-
-### 2026-06-21 02:06:50  #其他
-
-【訊息人士：伊拉克國民議會議長住所遭無人機襲擊】當地時間20日，伊拉克安全部門訊息人士稱，伊拉克國民議會議長海巴特·哈勒布西的住所遭不明無人機襲擊。（央視新聞）
 
 ---

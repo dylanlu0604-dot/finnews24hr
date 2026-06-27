@@ -1,7 +1,187 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-06-28 02:03:08_
-_本檔包含 3480 則快訊，約 670970 字_
+_更新時間：2026-06-28 02:39:20_
+_本檔包含 3494 則快訊，約 671296 字_
+
+---
+
+### 2026-06-28 02:32:01  #國際
+
+【轟-6K與俄圖-95在日本海上空同框】6月27日，中俄兩國空軍在日本海、東海、太平洋西部空域組織實施第11次聯合空中戰略巡航，展示共同維護地區和平穩定決心能力。戳影片，看轟-6K與俄圖-95在日本海上空同框現場畫面。（玉淵譚天）
+
+---
+
+### 2026-06-28 02:29:35  #公司 #市場 #觀點 #國際
+
+摩根大通CEO戴蒙談美元儲備貨幣地位：倘若三四十年後，美國不再擁有全球頂尖的軍事實力與經濟實力，美元也就無法維持頭號儲備貨幣的地位。不妨做個簡單考量：如果你的全部資金只能投往一個國家，你會選哪裡？答案顯而易見，只有一個選擇。有人跟我說，他們正把存放在美國金庫的黃金運走,只因對美國心生不滿。我當時回應“這倒是無所謂，但眼下有三支軍隊隨時能奪走你這批黃金”。這就是真實的世界。很多人忘了，世道本就充滿博弈與殘酷。
+
+---
+
+### 2026-06-28 02:26:49  #國際
+
+以色列總理內塔尼亞胡：（以色列）今後組建的任何一屆政府都不會接納兩國方案。
+
+---
+
+### 2026-06-28 02:26:22  #其他
+
+【德國、捷克重新整理本國高溫紀錄】德國、捷克27日均重新整理本國有氣象記錄以來最高氣溫紀錄。據德新社援引德國氣象局訊息，德國東部默肯-德雷維茨地區當天測得的初步氣溫資料達41.5攝氏度，創下德國有氣象記錄以來最高氣溫紀錄。這是德國連續第二天重新整理最高氣溫紀錄。德國氣象局26日在西部城市薩爾布呂肯測得41.3攝氏度高溫，打破此前紀錄。捷克當天也重新整理最高氣溫紀錄。捷克水文氣象研究所27日在社交媒體發文說，位於布拉格以北的多克薩尼氣象站當天測得40.6攝氏度，超過2012年測得的最高紀錄40.4攝氏度，這一數值可能還會被重新整理。（新華社）
+
+---
+
+### 2026-06-28 02:26:22  #MKT News
+
+Prime Minister NETANYAHU said that, at the Israel Defense Forces' suggestion, Israel and Lebanon have agreed to begin disarming Hezbollah in two pilot areas beyond the security line.
+
+---
+
+### 2026-06-28 02:26:08  #國際
+
+以色列總理內塔尼亞胡：這份黎巴嫩相關協議實際上是在告知伊朗和真主黨，“撤出黎巴嫩，不要插手該國內部事務”。
+
+---
+
+### 2026-06-28 02:25:22  #MKT News
+
+NETANYAHU said that by signing an agreement with the US, the Lebanese government is effectively telling Iran and HEZBOLLAH to leave Lebanon and handing responsibility for the situation back to Beirut.
+
+---
+
+### 2026-06-28 02:25:08  #國際
+
+以色列總理內塔尼亞胡：（黎以）這份協議壯大了以色列與黎巴嫩的實力，同時削弱了伊朗和真主黨的勢力。
+
+---
+
+### 2026-06-28 02:24:38  #國際
+
+以色列總理內塔尼亞胡：我們並非伊美協議的參與方，我方有自身相關利益，將與美方展開磋商。
+
+---
+
+### 2026-06-28 02:24:34  #MKT News #XAUUSD #Impact bullish #DXY #Brent
+
+NETANYAHU said Israel is close to controlling about 70% of the Gaza Strip and has surrounded Hamas.
+
+---
+
+### 2026-06-28 02:24:17  #國際
+
+以色列總理內塔尼亞胡：將派遣代表團前往華盛頓，就伊朗核問題闡明以色列的安全訴求。
+
+---
+
+### 2026-06-28 02:24:11  #MKT News #XAUUSD #Impact bullish #DXY #WTI
+
+Israeli Prime Minister Netanyahu said if necessary Israel will enter Lebanon and take strong action there.
+
+---
+
+### 2026-06-28 02:23:58  #MKT News
+
+Israel's prime minister Netanyahu said Israel was not involved in the Iran‑US agreement and has interests to discuss with Washington.
+
+---
+
+### 2026-06-28 02:23:12  #國際
+
+以色列總理內塔尼亞胡：（地區）周邊還有其他相關協議，我此前承諾要重塑地區格局，我們將在該框架內完成這些協議的推進。
+
+---
+
+### 2026-06-28 02:20:31  #國際
+
+以色列總理內塔尼亞胡：強烈反對任何逼迫我方撤軍的企圖，如今美國與黎巴嫩都在告知伊朗，此事與伊朗無關。
+
+---
+
+### 2026-06-28 02:19:59  #國際
+
+以色列總理內塔尼亞胡：我方已控制黎巴嫩南部舍加夫地區，並將駐守此地。
+
+---
+
+### 2026-06-28 02:19:07  #MKT News #XAUUSD #Impact bullish #DXY #S&P500 #Impact bearish
+
+Israeli Prime Minister Netanyahu said he has stressed to Israeli forces they have freedom of action to repel any threat in Lebanon.
+
+---
+
+### 2026-06-28 02:14:28  #焦點 #國際
+
+以色列總理內塔尼亞胡：這項協議有可能變成和平協議，感謝黎巴嫩政府展現的勇氣。
+
+---
+
+### 2026-06-28 02:14:08  #MKT News
+
+【Blast heard again in Karachi, Pakistan】On the evening of the 27th local time, a state media reporter heard a large explosion near the site of earlier blasts and shootings in Karachi. Earlier, blasts and heavy gunfire were reported around University Road. Local police dispatched substantial forces to the scene and said investigators are probing the incident.
+
+---
+
+### 2026-06-28 02:13:58  #其他
+
+【巴基斯坦卡拉奇再次傳出爆炸聲】當地時間27日晚，總檯報道員在巴基斯坦卡拉奇爆炸及槍擊地點附近再次聽到巨大爆炸聲。稍早前，巴基斯坦卡拉奇大學路一帶傳出爆炸聲及密集槍聲。事件發生後，當地警方立即派遣大批警力趕赴現場處置。當地警方官員表示，有關部門正在展開調查。（央視新聞）
+
+---
+
+### 2026-06-28 02:13:55  #MKT News #XAUUSD #Impact bullish #WTI #DXY
+
+【Israel says it killed commander of Hamas's elite 'Nukhba' unit】On 27 June, the Israel Defense Forces and Shin Bet said they killed Walid Haniya, a commander in Hamas's elite 'Nukhba' unit, two days earlier. Walid Haniya is the nephew of former Hamas political bureau leader Ismail Haniya. Hamas did not immediately comment.
+
+---
+
+### 2026-06-28 02:13:41  #宏觀 #國際
+
+【以軍稱打死哈馬斯精銳部隊“努赫巴”一指揮官】當地時間27日，以色列國防軍與以國家安全總局（辛貝特）發表聯合宣告稱，以軍已於兩天前打死巴勒斯坦伊斯蘭抵抗運動（哈馬斯）精銳部隊“努赫巴”的一名指揮官瓦利德·哈尼亞。據以軍通報，瓦利德·哈尼亞是哈馬斯前政治局領導人伊斯梅爾·哈尼亞的侄子。哈馬斯方面對此暫無回應。（央視新聞）
+
+---
+
+### 2026-06-28 02:12:22  #國際
+
+以色列總理內塔尼亞胡：以色列擁有行動自由，意味著會針對一切威脅採取行動，近幾周已擊斃200名恐怖分子。
+
+---
+
+### 2026-06-28 02:11:52  #國際
+
+卡達外交部：首相在與沙特外交大臣通話時表示，必須避免該地區遭受無端襲擊帶來的連鎖負面影響。
+
+---
+
+### 2026-06-28 02:11:32  #MKT News
+
+Israeli Prime Minister Netanyahu said Hezbollah has lost 90% of its rocket stockpile.
+
+---
+
+### 2026-06-28 02:06:15  #國際
+
+歐盟敦促伊朗全面遵守最近簽署的諒解備忘錄。
+
+---
+
+### 2026-06-28 02:04:58  #國際
+
+歐盟呼籲伊朗停止對鄰國的襲擊。
+
+---
+
+### 2026-06-28 02:04:51  #國際
+
+歐盟：襲擊行為構成違反國際法。
+
+---
+
+### 2026-06-28 02:04:45  #國際
+
+歐盟譴責伊朗最新針對巴林的無人機襲擊。
+
+---
+
+### 2026-06-28 02:03:51  #其他
+
+【委內瑞拉華人志願者和組織攜物資赴地震災區救援】當地時間6月27日，在中國駐委內瑞拉大使館的統一指揮下，委內瑞拉華人志願者和組織攜物資奔赴米蘭達省災區展開救援。委內瑞拉24日連續發生兩次7級以上強震，造成大量人員傷亡。截至當地時間6月27日13時17分，委內瑞拉地震致1430人死亡，另有3238人受傷。（央視新聞）
 
 ---
 
@@ -20920,101 +21100,5 @@ Australia's S&P/ASX 200 opened up 11.7 points, or 0.13%, at 8,760.40 on Friday, 
 ### 2026-06-26 08:08:40  #MKT News #Market Regions #Greater China #CSI300 #Impact bullish
 
 【CITIC Securities: Banks entering tail of risk cycle in 2026-27】CITIC Securities says after large net outflows earlier this year, China bank A-shares now yield an average static dividend of about 4.3%, with some large caps above 5% and an average static PB of 0.60x. Looking to 2026-27, the sector is entering the tail of its risk cycle; the first derivative of ROE has improved and the firm expects industry ROE to stabilize around 8–9% in 2026–27, supporting valuation gains. H2 could see a "high-certainty equity asset" rerating with significant absolute upside. Stock selection favors banks with strong commercial models, improving ROE prospects, low-valuation large banks set for multiple recovery, names entering stable growth, and high-quality, defensive franchises.
-
----
-
-### 2026-06-26 08:08:13  #國際
-
-特朗普計劃乘坐新空軍一號參加7月1日在北達科他州舉行的活動。
-
----
-
-### 2026-06-26 08:08:04  #國際
-
-特朗普計劃下週乘坐卡達贈送的空軍一號進行首次飛行。
-
----
-
-### 2026-06-26 08:07:47  #觀點
-
-【中信證券：展望2026-27年 銀行板塊步入風險週期尾部區間】中信證券研報稱，在經歷年初以來的資金大幅流出後，我們測算當前銀行A股平均靜態股息率約4.3%，部分大市值標的股息率在5%以上，平均靜態PB為0.60x。展望2026-27年，銀行板塊步入風險週期尾部區間，ROE一階導已經改善，我們預計今明年行業ROE絕對數將企穩在8-9%區間，助力板塊估值提升。下半年有望演繹"高確定性權益資產"重估，絕對收益空間大。個股方面，推薦組合為商業模型優秀，權益回報樂觀、低估值大行估值修復、步入穩定增長週期、穩健品種空間樂觀的標的。
-
----
-
-### 2026-06-26 08:06:12  #市場
-
-澳大利亞S&P/ASX 200指數早盤上漲0.2%，報8,765.80點。
-
----
-
-### 2026-06-26 08:05:41  #公司 #觀點
-
-【中信證券：預計2026年二季度電子行業整體業績全面向好】中信證券研報稱，預計2026年二季度電子行業整體業績全面向好，其中漲價方向的儲存、CCL受益漲價表現最佳，AI方向的儲存、PCB、電源相關公司業績持續高景氣，自主可控方向的Fab、封測稼動率持續提升且漲價節奏明確，半導體裝置、國產算力的放量預期與財報改善也正持續演繹；其他方向來看，消費電子的蘋果、華為連結串列現亮眼，IC設計端有合封儲存業務的IC設計公司及自身新品放量邏輯的公司表現更佳。綜合來看，預計業績表現相對亮眼的細分板塊有：儲存、CCL、自主可控算力、先進製造、功率、裝置龍頭、果鏈龍頭、合封儲存的IC設計公司等。展望2026年下半年，國內半導體裝置、國產算力上行拐點明確，同時全球AI趨勢下的電源相關、PCB、儲存表現也持續強勁，5個方向均持續看好；同時AI產業鏈行情開始發散，如消費電子光學、玻璃基板等供應鏈訂單和趨勢逐步明確，堅定看好板塊後續表現。
-
----
-
-### 2026-06-26 08:05:14  #公司 #國際
-
-【Stellantis與日產洽談收購馬瑞利的部分資產】當地時間6月25日，據報道，Stellantis NV和日產汽車公司正在洽談收購馬瑞利的部分資產，這家全球汽車零部件製造商目前正陷入艱難的破產重組中。知情人士透露，Stellantis正在就馬瑞利在義大利及其他一些國家的懸架業務進行討論，日產則正在考慮收購該供應商在日本的內飾座艙資產。
-
----
-
-### 2026-06-26 08:04:43  #公司 #國際
-
-舜宇光學科技：計劃僅面向專業投資者發行人民幣計價債券。公司將於 2026 年 6 月 26 日前後，面向專業投資者開展一系列推介路演。本次擬發行債券將依據《美國證券法》S 條例，僅在美國境外進行發售。公司計劃將本次債券發行募集的淨資金用於置換、償還現有債務。
-
----
-
-### 2026-06-26 08:04:27  #MKT News
-
-【Guojin Securities: Micron advances long-term contracts; supply shortfall likely to persist】Guojin Securities says Micron Technology has signed 16 Strategic Customer Agreements (SCAs) covering data center, consumer electronics and automotive end markets; auto SCAs run three years, other SCAs are mostly five years. Those 16 SCAs represent roughly 20% of Micron's DRAM shipments and about one-third of its NAND shipments. The SCAs’ price floors would deliver profitability above prior cycle peaks. Micron expects DRAM and NAND tightness to persist into 2027. Guojin projects sustained supply tightness in the memory sector and continued high profitability at Micron; wider SCA adoption is likely to reduce Micron’s realized-price volatility and earnings cyclicality.
-
----
-
-### 2026-06-26 08:02:36  #市場 #國際
-
-韓國綜合股價指數（KOSPI）下跌2%，至8749.43。
-
----
-
-### 2026-06-26 08:02:28  #MKT News #Important #Market Regions #Emerging Markets
-
-South Korea's KOSPI fell as much as 2.00% intraday.
-
----
-
-### 2026-06-26 08:01:46  #MKT News
-
-South Korea's KOSPI opened down 112.4 points (-1.26%) at 8,817.9 on Friday, June 26.
-
----
-
-### 2026-06-26 08:01:19  #MKT News #Market Regions #Nikkei 225 #Impact bearish
-
-Japan's Nikkei 225 opened down 668.60 points, or 0.92%, at 71,697.74 on Friday, June 26.
-
----
-
-### 2026-06-26 08:00:38  #市場 #國際
-
-韓國綜合股價指數（KOSPI）開盤下跌1.3%，至8813.18點。
-
----
-
-### 2026-06-26 08:00:36  #MKT News #Macro & Rates #DXY #Impact mixed #XAUUSD #Impact bearish
-
-【CITIC Securities: Sees dollar index supported this year but rally unlikely to be sustained】CITIC Securities said the dollar index has rallied sharply, driving gold below $4,000/oz, and that easing inflation concerns have not weakened the dollar. Political 're-dollarization' may partly explain the move, but the firm sees expectations of tighter dollar liquidity as the dominant driver. It expects the dollar index to find support this year but for further upside to be difficult to sustain; the next US inflation print could be a catalyst for market re-pricing.
-
----
-
-### 2026-06-26 08:00:23  #市場
-
-日經225指數上午開盤報71587.71點，跌幅1.08%。
-
----
-
-### 2026-06-26 08:00:08  #公司
-
-【索尼互動娛樂將削減Bungie工作室員工人數】當地時間6月25日，索尼互動娛樂執行長Hermen Hulst在公司網站上釋出的一封電子郵件中表示，在對遊戲開發工作室Bungie的長期方向和發展重點進行評估後，公司決定對該工作室裁減大量崗位。  此次裁員將涉及Bungie《命運》團隊的大多數成員，以及《失落星船：馬拉松》團隊的部分成員。此外，支援Bungie運營的索尼互動娛樂團隊也有縮減。
 
 ---
