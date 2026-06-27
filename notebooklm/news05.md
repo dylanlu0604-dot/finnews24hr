@@ -1,7 +1,283 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-06-27 14:05:03_
-_本檔包含 3562 則快訊，約 672099 字_
+_更新時間：2026-06-27 15:41:59_
+_本檔包含 3554 則快訊，約 671429 字_
+
+---
+
+### 2026-06-22 19:50:09  #公司 #市場
+
+【多家銀行收緊黃金白銀槓桿交易 金銀槓桿交易保證金飆至140%】華夏銀行、廣發銀行、中國銀行先後釋出官方公告，同步調整代理上海黃金交易所個人貴金屬交易業務延期合約保證金比例。其中，華夏銀行將全品類金銀延期合約保證金統一上調至120%，廣發銀行將保證金從100%上調至140%，兩家銀行的最新標準均自6月22日收盤清算時起執行。 (中新經緯)
+
+---
+
+### 2026-06-22 19:49:47  #公司 #市場
+
+【宏英智慧：全資子公司簽署6.64億元儲能電站PC總承包合同】宏英智慧公告，公司全資子公司上海宏英新能源科技有限公司作為聯合體牽頭方，與寧夏交通建設股份有限公司、內蒙古銀河電力安裝工程有限公司組成的聯合體，於2026年6月18日與英卓綠能（甘肅）新能源開發有限公司簽署了《英華甘肅白銀200MW/800MWh獨立儲能電站專案工程PC總承包合同》，合同總價款（含稅）為人民幣6.64億元。其中，宏英新能源供應裝置及完成總承包合同約定工作內容的費用總計（含稅）人民幣5.32億元。
+
+---
+
+### 2026-06-22 19:49:16  #MKT News
+
+Saudi central bank redeemed funds from at least two asset managers; redemptions began before the outbreak of the war, and some proceeds have been reallocated to other investment strategies.
+
+---
+
+### 2026-06-22 19:49:11  #公司
+
+【挖金客：設立參股子公司惠金智創 註冊資本1.4億元】挖金客公告，公司與康惠智創共同出資設立惠金智創，註冊資本1.4億元，其中康惠智創出資9100萬元，佔65.00%；公司出資4900萬元，佔35.00%。惠金智創已完成註冊登記，並取得營業執照，成立日期為2026年6月18日。
+
+---
+
+### 2026-06-22 19:48:44  #公司
+
+【挖金客：控股股東及實控人部分股份解除質押】挖金客公告稱，近日，控股股東、實際控制人李徵、陳坤所持公司部分股份解除質押，解除質押股數均為261萬股，分別佔其所持股份比例10.92%、16.55%，佔公司總股本比例均為2.57%，質押起始日為2025年6月13日，解除質押日為2026年6月18日。截至公告披露日，李徵累計質押股份為0股，陳坤累計質押股份393萬股，佔其所持股份比例24.92%，佔公司總股本比例3.88%。此次解除質押不會導致公司實際控制權變更，對公司經營治理無重大影響。
+
+---
+
+### 2026-06-22 19:48:26  #央行 #其他
+
+市場訊息：沙特央行從至少兩家資產管理機構撤回資金。
+
+---
+
+### 2026-06-22 19:47:04  #Trading Economics #Markets #France #stocks #Importance 1
+
+Sanofi Stock Price Hits 6-year Low — Sanofi shares decreased to 71.50 EUR, the lowest since March 2020. Over the past 4 weeks, Sanofi lost 7.51%, and in the last 12 months, it decreased 13.76%.
+
+---
+
+### 2026-06-22 19:45:27  #國際
+
+【伊朗戰事讓美國國防部花了400億美元 伊朗戰事背後美國的經濟賬】據美國有線電視新聞網21日報道，美國智庫戰略與國際研究中心的一項初步分析顯示，伊朗戰事已令美國國防部付出約400億美元的代價，而普通美國消費者同樣在為戰爭買單。 據報道，美國智庫的初步分析顯示，這400億美元包括彈藥消耗、裝備損毀以及基地受損等費用，但不包含已計入美國國防部2026財年超過1萬億美元預算中的常規作戰支出。也就是說，這400億美元只是目前能夠單獨核算出來的一部分戰爭成本。 資料還顯示，儘管美國國防部承擔主要支出，但美國其他政府部門也為這場衝突付出了代價。初步資料顯示，美國國土安全部與退伍軍人事務部等其他機構產生約10億美元成本。 但真正被戰爭波及的，並不僅僅是美國政府賬本。普通美國消費者同樣在為戰爭買單。布朗大學一項能源成本追蹤資料顯示，與沒有伊朗戰事的情況相比，美國家庭平均多支出了超過253美元。（央視財經）
+
+---
+
+### 2026-06-22 19:45:07  #公司
+
+【金煤科技：子公司放棄濟寧金丹39.47%股權優先受讓權】金煤科技公告稱，公司控股子公司丹化醋酐持有濟寧金丹39.47%股權，濟寧恆立持有的39.47%股權擬458.4萬元轉讓給公司二股東丹化集團，丹化醋酐擬放棄優先受讓權。濟寧金丹2025年營收50.46萬元、淨虧損71.13萬元。公司已決定丹化醋酐公開掛牌出售其持有的濟寧金丹股權，目前出售事項仍在進行中。該事項已透過董事會審議，無需提交股東會。
+
+---
+
+### 2026-06-22 19:45:00  #公司 #市場
+
+【*ST嶺南：股價連續三日跌幅偏離值超12% 提示多項風險】*ST嶺南公告稱，公司股票於2026年6月17日、18日、22日連續三個交易日收盤價格跌幅偏離值累計超12%，屬異常波動。經核查，公司、控股股東及實控人無應披露未披露重大事項；董事、高管、股東中山華盈產業投資合夥企業及關聯方在異常波動期間未買賣公司股票。此外，公司因多項情形被實施退市及其他風險警示，原實控人尹洪衛剩餘未歸還佔用資金14882萬元，22日收盤價首次低於1元，且有多筆債務逾期，存在終止上市等風險。
+
+---
+
+### 2026-06-22 19:44:49  #宏觀 #焦點
+
+【6月22日《新聞聯播》主要內容】今天《新聞聯播》主要內容有： 1.【牢記初心使命 奮進復興征程】賡續延安精神 書寫時代新篇； 2.李強在遼寧大連調研； 3.李強將出席第十七屆夏季達沃斯論壇； 4.王滬寧主持召開全國政協主席會議； 5.丁薛祥出席第四屆中國國際供應鏈促進博覽會開幕式並作主旨講話； 6.國家出臺多項舉措推動利用外資固穩促優； 7.【在希望的田野上】全國夏播進入高峰 科技賦能提質增效； 8.海軍遼寧艦編隊完成遠海實戰化訓練； 9.全國人大常委會啟動青藏高原生態保護法執法檢查； 10.南方多地強降雨 各部門多舉措應對； 11.國內聯播快訊： （1）中央財政下達農業生產防災救災資金2.19億元； （2）“十五五”時期全國公共機構單位建築面積碳排放將力爭下降8.5%； （3）端午假期全國各口岸出入境人員666.7萬人次； （4）端午假期全國食品安全總體平穩； （5）廣肇高速新建金馬大橋合龍； （6）第31屆上海電視節開幕； 12.伊美比爾根山首輪談判結束 建立技術性談判機制 以稱將依自身需要在黎南部長期駐留 黎真主黨稱侵略者必須撤離； 13.國際聯播快訊： （1）英國首相斯塔默宣佈辭職； （2）俄稱打擊烏物流中心 烏稱持續跨境打擊； （3）美芝加哥發生數十起槍擊 至少8人死亡； （4）歐洲多國發布高溫警報。
+
+---
+
+### 2026-06-22 19:44:04  #MKT News #Market Regions #Greater China
+
+【Guangzhou Railway Bureau hauled 6.992 mln passengers over 2026 Dragon Boat holiday, record for period】Guangzhou Railway Bureau said it transported 6.992 mln passengers during the 2026 Dragon Boat holiday (June 19-21), up 82,000 passengers or 1.2% YoY, a record for the period. Peak flow was on June 19 with 2.905 mln passengers; a return peak occurred on June 21 and flows remained elevated. Travel was dominated by family visits and tourism, with student and business travel secondary; patterns showed concentrated departures on day one, steady mid-holiday movement and an orderly return. Short- and medium-distance trips accounted for a large share, with highest demand on Guangdong-Hong Kong-Macao Greater Bay Area intercity services and intra-provincial routes in eastern and western Guangdong. Railway operations were reported safe and orderly throughout the holiday.
+
+---
+
+### 2026-06-22 19:43:59  #Trading Economics #Economy #India #Construction Output #Importance 1
+
+India Infrastructure Output Growth Slows — Infrastructure output in India rose by 0.5% from the previous year in May of 2026, slowing from the upwardly revised 1.8% in the earlier month, but still marking the seventh straight monthly increase. Output growth remained supported by electricity generation (8.7% vs 5.6% in April) and building inputs through steel (5.0% vs 5.5%) and cement (8.4% vs 8.2%). On the other hand, oil-derived commodities output declined as the surge in prices from the Iran war and sanctions from the US, which prevented the purchase of cheap Russian oil, dented refining activity. Refined products fell by 8.7%, the sharpest decline in over one year. Also, coal output fell by 9.3% from 8.8%.
+
+---
+
+### 2026-06-22 19:43:58  #其他
+
+【優必選釋出全新一代面向商用服務場景的具身智慧人形機器人Walker C1】6月22日，第四屆中國國際供應鏈促進博覽會（簡稱“鏈博會”）在北京正式開幕。優必選在本次大會的“鏈博首發站”品牌開幕式上，正式釋出全新一代面向商用服務場景的具身智慧人形機器人Walker C1，展示人形機器人在商用服務場景下的最新探索。此外，全新升級的第四屆鏈博會官方吉祥物“AI鏈氪”首次亮相，搭載由優必選提供的AI語言互動大模型，實現多語言互動交流。
+
+---
+
+### 2026-06-22 19:43:39  #公司
+
+【東南網架：調劑子公司擔保額度併為孫公司提供3.75億元擔保】東南網架公告稱，為保障全資孫公司浙江興能110MW地面光伏電站專案開展，公司擬為國開行浙江省分行與浙江興能辦理的各類融資業務提供3.75億元、期限5年的保證擔保，浙江興能以電費收費權質押。同時，公司將全資子公司成都東南未使用的2億元擔保額度調劑給浙江興能。調劑後，成都東南擔保額度降至4億元，浙江興能增至4億元。本次擔保及額度調劑在2026年度預計擔保額度範圍內，無需另行審議。浙江興能2026年1 - 3月營收為0，淨虧損26.66萬元，資產負債率42.27%。
+
+---
+
+### 2026-06-22 19:43:34  #公司
+
+【勁仔食品：擬斥資5000萬至1億元回購股份並登出】勁仔食品公告稱，公司擬使用自有資金及股票回購專項貸款資金，以集中競價交易方式回購公司部分股份用於登出並減少註冊資本。回購資金總額不低於5000萬元、不超過1億元，回購價格上限為不超過16元/股。回購期限自股東會審議透過方案之日起不超12個月。按回購金額上下限測算，預計回購股份數量為312.5萬股至625萬股，佔公司總股本的0.69%至1.39%。本次回購存在價格、資金等風險。
+
+---
+
+### 2026-06-22 19:43:01  #MKT News #GBPUSD #Impact mixed #FTSE100
+
+【Reform Party leader Nigel Farage calls for UK general election】Reform Party leader Nigel Farage on July 22 called for a UK general election and said he is prepared to push through radical change. Earlier, Prime Minister Keir Starmer said outside 10 Downing Street he will resign as Labour leader but will remain prime minister until a successor is chosen. Starmer has asked the Labour National Executive Committee to set a leadership timetable; nominations open July 9 and the contest will be completed before Parliament's summer recess. Under UK rules, a change of governing party leader does not automatically trigger a general election; if Labour retains a Commons majority, its new leader would succeed as prime minister.
+
+---
+
+### 2026-06-22 19:42:52  #其他
+
+【香港新質生產力論壇聚焦建設數字債券樞紐】香港新質生產力論壇系列活動的第三場論壇22日在香港舉行，論壇聚焦香港數字債券樞紐建設，探討數字債券如何為香港國際金融中心建設注入新動能，鞏固其全球金融樞紐地位。 本次論壇由中國國家行政學院（香港）工商專業同學會與香港經濟智庫聯合主辦，主題為“建設全球數字債券樞紐”。論壇釋出香港數字債券發展白皮書2026，提出2026至2030年三階段規劃，目標是香港建成全球數字債券互操作網路，成為相關標準制定的重要參與者，從而成為全球數字債券交易樞紐、規則創制中心和定價中心。 香港特區立法會議員李惟宏指出，香港應充分發揮自身金融優勢，完善立法與監管配套，打造全球領先的數字資產樞紐，帶動本地金融行業高質量發展。 中國國家行政學院（香港）工商專業同學會主席、香港經濟智庫主席石柱表示，香港具備建設全球頂級數字債券樞紐的綜合優勢，建設全球數字債券樞紐是助力香港提升金融能級、躍升全球頂級國際金融中心的重要增量。 多位業界專家就搭建數字債券生態展開交流，認為數字債券有望降低投資門檻、提升結算效率，啟用零售市場參與。(新華社)
+
+---
+
+### 2026-06-22 19:41:36  #公司
+
+【兄弟科技：控股股東錢志達擬減持不超過1%股份】兄弟科技公告，控股股東錢志達持有公司股份2.13億股（佔總股本18.61%），計劃自2026年7月14日至2026年10月13日，以集中競價方式減持不超過1142.82萬股（佔總股本1.00%），減持原因為自身資金需求。
+
+---
+
+### 2026-06-22 19:41:25  #國際
+
+當地時間22日，印度北方邦一建築物發生大火，已造成至少11人死亡。
+
+---
+
+### 2026-06-22 19:41:08  #其他
+
+【榮耀X80 Pro Max釋出 售價1999元起】6月22日，榮耀X80 Pro Max釋出，售價1999元起，將於6月26日開售。榮耀X80 Pro Max配備11000mAh大電池、10000nits高亮護眼屏，並提供兩年免費換屏服務。
+
+---
+
+### 2026-06-22 19:41:07  #其他
+
+【創新高！ 端午假期國鐵廣州局累計傳送旅客699.2萬人次】2026年端午假期（6月19日至21日），國鐵廣州局累計傳送旅客699.2萬人次，同比增加8.2萬人次、增長1.2%，創歷史同期新高。客流最高峰出現在6月19日假期首日，當日傳送旅客290.5萬人次；6月21日迎來返程高峰，客流保持高位執行。假期鐵路運輸總體安全平穩有序。
+
+---
+
+### 2026-06-22 19:40:15  #其他
+
+聯合海事資訊中心JMIC： 阿曼灣海上安全威脅等級下調至中等。
+
+---
+
+### 2026-06-22 19:40:09  #MKT News #Brent #Impact bullish #WTI
+
+Joint Maritime Information Centre (JMIC) said navigation is being disrupted and Iran's Islamic Revolutionary Guard Corps continues to make radio calls.
+
+---
+
+### 2026-06-22 19:40:07  #公司 #國際
+
+【日本本輪核汙染水排放量近8000噸】日本東京電力公司22日宣佈，第20次核汙染水排海結束，總計排放核汙染水近8000噸。 根據東京電力公司22日釋出的新聞公報，本輪排放自6月1日上午開始，當地時間20日下午結束，共排放核汙染水7927噸，含放射性氚總量約1.3萬億貝克勒爾。 這次排放結束時間比原計劃推遲了一天。10日和13日先後兩次中斷排放，原因分別是水路電動閥故障和雷電造成輸電線路短暫斷電。 2023年8月，日方無視國際社會的質疑和反對，單方面強行啟動福島第一核電站核汙染水排海。截至目前已完成20次核汙染水排放，累計排放量約15.7萬噸。(新華社)
+
+---
+
+### 2026-06-22 19:39:53  #國際
+
+聯合海事資訊中心JMIC：導航干擾，伊朗伊斯蘭革命衛隊呼叫持續進行。
+
+---
+
+### 2026-06-22 19:39:36  #MKT News #Important #WTI #Impact bearish #Brent
+
+Joint Maritime Information Centre (JMIC) downgraded the maritime security threat level for the Strait of Hormuz to "Medium".
+
+---
+
+### 2026-06-22 19:39:24  #MKT News #Important #Commodities #Energy
+
+Joint Maritime Information Center (JMIC) reports shipping traffic through the Strait of Hormuz via Oman and Iran routes has begun to increase.
+
+---
+
+### 2026-06-22 19:39:13  #其他
+
+【英國改革黨領導人要求舉行議會選舉】英國改革黨黨首奈傑爾·法拉奇22日在社交媒體上發文要求舉行議會選舉，並稱已準備好“推動徹底變革”。 他說：“如果工黨認為可以把另一個職業政客塞進唐寧街10號，那他們就大錯特錯了。” 當天早些時候，斯塔默在唐寧街10號首相府前發表講話說，他將辭去英國工黨黨首職務，但在繼任者選出之前，他將繼續擔任英國首相。他表示，已要求工黨全國執行委員會制定黨首選舉時間表，提名程式將於7月9日啟動，並在議會進入夏季休會前完成。 根據英國議會制度，執政黨更換黨首並不會自動觸發議會選舉。若工黨繼續保持在議會下院的多數席位，新任工黨黨首將接任首相。(新華社)
+
+---
+
+### 2026-06-22 19:39:00  #其他
+
+聯合海事資訊中心JMIC：霍爾木茲海上安全威脅等級下調至中等。
+
+---
+
+### 2026-06-22 19:38:57  #MKT News #Brent #Impact bullish #WTI
+
+Joint Maritime Information Centre (JMIC) says vessel traffic in the Arabian Gulf has begun to increase.
+
+---
+
+### 2026-06-22 19:38:27  #焦點 #國際
+
+市聯合海事資訊中心：經阿曼、伊朗航線的霍爾木茲海峽航運流量開始回升。
+
+---
+
+### 2026-06-22 19:37:53  #其他
+
+匈牙利總理毛焦爾：法律變更將憲法法院法官的年齡限制設定為70歲。將為立法者設定最長12年的任期限制。
+
+---
+
+### 2026-06-22 19:37:41  #公司
+
+【省廣集團：子公司間調劑16.9億元擔保額度】省廣集團公告稱，為滿足子公司業務開展及資金使用靈活性需求，在2025年第三次臨時股東會審議透過的擔保額度及被擔保方範圍不變的情況下，擬在合併報表範圍內資產負債率高於70%的子公司之間調劑部分擔保額度，合計調劑16.9億元，佔公司最近一期經審計淨資產的33.76%。截至目前，公司及控股子公司對外擔保餘額為3.48億元，佔最近一期經審計淨資產的6.94%，無逾期擔保等情況。
+
+---
+
+### 2026-06-22 19:37:31  #國際
+
+【萬斯：伊朗已同意邀請國際原子能機構核查人員】美國副總統萬斯22日說，伊朗已同意邀請國際原子能機構核查人員返回伊朗，“這對美國來說是一個重大里程碑”。萬斯稱，伊朗同意邀請國際原子能機構核查人員是“伊朗永久去核化或永久終止核武器計劃的第一步”。他還稱，國際原子能機構核查人員訪問伊朗“可能會在本週內發生”，伊朗與核查人員的對話甚至“可能今天就能進行”。(新華社)
+
+---
+
+### 2026-06-22 19:37:28  #MKT News #Market Regions #Europe & UK
+
+Hungarian Prime Minister Magyar said he will set a maximum 12-year term limit for lawmakers.
+
+---
+
+### 2026-06-22 19:37:16  #其他
+
+市場訊息：阿拉伯灣船舶交通流量開始增加。
+
+---
+
+### 2026-06-22 19:37:11  #MKT News
+
+Hungary's prime minister magyar said legal changes will set the age limit for Constitutional Court judges at 70.
+
+---
+
+### 2026-06-22 19:36:15  #公司
+
+【百勝智慧：控股股東之一龔衛寧減持計劃完成，累計減持1.5361%股份】百勝智慧公告，公司控股股東、實際控制人之一及副董事長龔衛寧此前計劃自2026年2月25日起15個交易日後的3個月內，以集中競價、大宗交易方式減持不超過533.6萬股（佔總股本3.0000%）。截至2026年6月22日，減持計劃期限屆滿，龔衛寧於2026年5月15日至2026年6月9日期間透過大宗交易和集中競價交易合計減持273.22萬股，佔總股本1.5361%，減持均價區間為13.5元/股至17.66元/股。減持後，龔衛寧持股數量由2438.13萬股降至2164.91萬股，佔總股本比例由13.7076%降至12.1716%。本次減持未違反相關承諾，不會導致公司控制權變更。
+
+---
+
+### 2026-06-22 19:36:15  #Trading Economics #Markets #United Kingdom #Stock Market #Importance 1
+
+FTSE 100 Rebounds in Afternoon Trading — The FTSE 100 moved higher on Monday, outperforming European peers as banks and commodity-related stocks supported gains while investors continued to assess the implications of UK Prime Minister Keir Starmer’s resignation. The development has increased attention on Andy Burnham’s potential leadership bid and the policy direction he could pursue if chosen. Banking stocks led advances, with HSBC up 0.9% and Lloyds Banking Group, Barclays, NatWest and Standard Chartered all rising by nearly 2%. Energy majors also gained, with Shell up 0.6% and BP trading higher. Mining stocks added to the positive tone, with Rio Tinto up 0.8%, Glencore, Anglo American and Antofagasta rising around 1%, and Fresnillo climbing 2.1%. EasyJet gained more than 2% after rejecting multiple Castlelake offers, prompting the investor to take its £4.74 billion bid directly to shareholders. In contrast, Babcock fell 5% after reporting a drop in pretax profit.
+
+---
+
+### 2026-06-22 19:35:14  #公司
+
+【秉揚科技：擬購買知行股份99.78%股份並募集配套資金，股票復牌】秉揚科技6月22日公告，公司擬透過發行股份及支付現金的方式購買張楠楠、劉永偉等56名交易對方持有的知行股份99.78%股份並募集配套資金。公司於2026年6月22日召開第四屆董事會第十一次會議，審議透過《關於<攀枝花秉揚科技股份有限公司發行股份及支付現金購買資產並募集配套資金暨關聯交易預案>及其摘要的議案》等與本次交易相關的各項議案。經向北京證券交易所申請，本公司股票自2026年6月23日起復牌。
+
+---
+
+### 2026-06-22 19:35:11  #其他
+
+【米哈遊：有不法單位/個人冒用米哈遊身份對接採購算力服務及相關配套商品、服務】6月22日，米哈遊釋出宣告稱，近期注意到，不同的市場渠道均有不法單位/個人冒用米哈遊的身份，對接採購算力服務及相關配套商品、服務。在米哈遊曾任職採購專員並負責算力服務及相關配套服務採購的同事近期已從米哈遊離職，不再負責米哈遊的相關商務工作。
+
+---
+
+### 2026-06-22 19:34:59  #MKT News #WTI #Impact bearish #S&P500 #Impact bullish #XAUUSD
+
+【Vance says US has coordination mechanism to prevent Middle East escalation】U.S. Vice President Vance said in Switzerland on the 22nd that Washington has set up coordination and communication mechanisms to prevent further escalation of conflict in the Middle East and that the mechanism has begun to show results. He said Lebanon's situation has eased recently, with the past 24 hours among the calmest periods in some time and the preceding 24 hours also relatively stable. Vance warned that continued escalation would not enhance parties' security and could worsen regional stability.
+
+---
+
+### 2026-06-22 19:34:52  #國際
+
+印度政府資料顯示，5月肥料產量同比下降0.9%，5月鋼鐵產量同比可能增長5%。
+
+---
+
+### 2026-06-22 19:34:30  #公司
+
+【歐晶科技：涉8952.75萬元訴訟 法院已解除保全措施】歐晶科技公告稱，中鐵三局因建設工程施工合同糾紛，起訴銀川中環等公司，要求支付剩餘到期合同款及逾期付款違約金合計8952.75萬元，同時將歐晶科技及子公司寧夏歐晶列為被告。2026年6月18日，公司部分銀行賬戶被凍結，次日公司提交解除保全申請，截至公告日，保全措施已解除。本次案件對公司本期及期後利潤無重大影響，銀川中環與中鐵三局將盡快達成付款計劃。
+
+---
+
+### 2026-06-22 19:34:23  #其他
+
+【澳大陸再次發現鳥類感染H5N1禽流感病毒】澳大利亞政府22日確認，在西澳大利亞州再次檢測出感染H5N1型高致病性禽流感病毒的野生鳥類，這是澳大陸確認的第二例感染該病毒的病例。 澳大利亞農業、漁業和林業部長朱莉·柯林斯當天在堪培拉舉行的新聞釋出會上表示，一隻前幾日在西澳大利亞州被發現患病的巨鸌鳥經檢測確認感染H5N1型禽流感病毒。 柯林斯20日宣佈，在西澳大利亞州一處國家公園發現的一隻褐賊鷗因感染H5N1型禽流感病毒死亡。這是澳大陸首次確認發現高致病性H5型禽流感病毒。 柯林斯表示，目前尚無證據表明該病毒已在野生動物中大規模傳播，也未發現其傳入澳大利亞家禽養殖業或農業生產系統。相關部門正在加緊調查。 澳大利亞環境部長默裡·瓦特當天表示，澳大利亞已為可能發生的本地疫情做好充分準備。(新華社)
 
 ---
 
@@ -21143,329 +21419,5 @@ Lebanon's military said Israel's ongoing attacks on Lebanon aim to hinder effort
 ### 2026-06-20 15:46:13  #MKT News
 
 Iran's interior ministry spokesman said there is no distinction between 'hardliners' and 'moderates' on negotiation issues.
-
----
-
-### 2026-06-20 15:41:21  #MKT News
-
-Iranian interior ministry spokesman said Iran will hold a large funeral for Supreme Leader Ayatollah Ali Khamenei.
-
----
-
-### 2026-06-20 15:41:15  #MKT News
-
-Iran's foreign ministry spokesman said the foreign minister will meet Pakistan's interior minister in Tehran, the Iranian Students' News Agency reported.
-
----
-
-### 2026-06-20 15:40:46  #國際
-
-伊朗外交部發言人表示，外長阿拉格齊將會見正在訪問德黑蘭的巴基斯坦內政部長。
-
----
-
-### 2026-06-20 15:40:00  #其他
-
-【尼泊爾中央動物園因禽流感疫情暫時關閉】據尼泊爾媒體報道，位於首都加德滿都附近的中央動物園因園內多隻鳥類和其他動物死於H5N1型禽流感，於19日起暫時關閉。
-
----
-
-### 2026-06-20 15:37:33  #其他
-
-【辛巴威下調汽油和柴油價格】辛巴威能源監管機構表示，該國將把汽油價格下調 5%，從每升 2.08 美元降至每升 1.98 美元。柴油價格將從每升 2.09 美元降至 1.99 美元。
-
----
-
-### 2026-06-20 15:34:52  #MKT News
-
-【New quantum sensor could detect gravitational waves and dark matter】A study in Nature reports a new quantum sensor that can effectively cancel background noise limiting measurement precision, enabling searches for previously undetectable weak signals and potentially informing the formation of supermassive black holes. Imperial College London, which led the research, said detecting the universe’s composition and new gravitational-wave sources requires measurements of extremely weak signals. Atom interferometers use interference of atomic matter waves, but the laser pulses required introduce noise that can swamp those signals and prevent meaningful data.
-
----
-
-### 2026-06-20 15:21:07  #MKT News
-
-Russia's Security Council deputy chairman Medvedev said the Strait of Hormuz has become a "Persian nuclear weapon" and will be used like a nuclear weapon in the future.
-
----
-
-### 2026-06-20 15:20:25  #MKT News #S&P500 #Impact bearish #XAUUSD #Impact bullish #WTI
-
-MEDVEDEV, deputy chairman of Russia's Security Council, said the only remaining restriction in the conflict with Ukraine is not to deliberately target civilians, and that the Hague Convention on the laws and customs of war is no longer needed.
-
----
-
-### 2026-06-20 15:20:06  #MKT News #XAUUSD #Impact bullish #Brent #DXY
-
-Medvedev, deputy chairman of the Russian Security Council, said there are no rules left when dealing with Kyiv.
-
----
-
-### 2026-06-20 15:19:08  #其他
-
-【新型量子感測器可探測引力波和暗物質】英國《自然》雜誌日前釋出的一項新研究結果顯示，一種新型量子感測器能有效消除背景噪聲對測量精度的影響，可用於搜尋此前技術難以探測的微弱訊號，有助於解開超大質量黑洞形成之謎。牽頭這項研究的英國帝國理工學院釋出新聞公報表示，瞭解宇宙的組成成分以及發現新的引力波源需要測量極微弱的訊號。原子干涉儀利用原子物質波的干涉進行測量，但測量所需使用的鐳射脈衝本身具有噪聲，可能會淹沒訊號，導致無法獲得有意義的資料。研究人員發現，將兩個相同的原子干涉儀放在不同位置上，使用同一束鐳射進行測量，對比其測量結果，可以讓鐳射噪聲的影響相互抵消。研究人員在實驗室中製造出一臺原型裝置，包含兩個宏觀上處於不同位置的原子干涉儀。實驗發現，除了原子本身的量子隨機性導致的噪聲之外，該裝置不受其他噪聲影響。研究人員向鐳射中額外新增較強的噪聲後，該裝置依然運作良好，能有效去除噪聲。研究人員隨後向裝置施加與宇宙早期引力波和超輕暗物質等可能產生的訊號相似的振盪訊號。測試結果顯示，兩個原子干涉儀聯合執行依然能捕捉到清晰的訊號。
-
----
-
-### 2026-06-20 15:17:41  #MKT News #Market Regions #Greater China
-
-【Chinese team builds 3D fiber microtweezer on commercial fiber tip; output force >100,000x traditional optical tweezers】Researchers at Anhui University and the University of Science and Technology of China used a femtosecond-laser composite manufacturing process for fiber-integrated devices to fabricate a three-dimensional microtweezer on the tip of a commercial optical fiber, published in Nature. The device delivers output forces more than 100,000 times those of conventional optical tweezers and enables high-precision, low-damage, programmable 3D manipulation of micron-scale targets, precise assembly of complex microstructures, single-cell manipulation and micro-sampling inside ~100-micron confined spaces. Authors cite application relevance for micro-manipulation, microsystems assembly, life-science handling and minimally invasive medical procedures.
-
----
-
-### 2026-06-20 15:15:36  #其他
-
-【端午假期第二天 北京市屬公園迎客超38萬人次】6月20日，端午假期第二天，從北京市公園管理中心瞭解到，市屬公園及中國園林博物館共接待遊客38.37萬人次，遊客量位居前三的分別是天壇公園、頤和園和北海公園。（北京青年報）
-
----
-
-### 2026-06-20 15:14:52  #MKT News #Commodities #Industrial Metals #Energy
-
-Netanyahu said Somaliland has abundant natural resources, including prospective rare earths, oil and gas, and an undeveloped mining sector. He said Israel’s leadership in innovation and technology, combined with Somaliland’s undeveloped resource potential and strategic location, make the two natural partners.
-
----
-
-### 2026-06-20 15:11:44  #其他
-
-【我國在商用光纖端部構建一種三維光纖微鑷 微鑷輸出力是傳統光鑷的十萬倍以上】據安徽大學訊息，該校光電資訊獲取與防護技術全國重點實驗室青年教師潘登與中國科學技術大學團隊合作，提出了面向纖基整合器件的飛秒鐳射復合製造方法，在商用光纖端部構建了一種三維光纖微鑷，實現了微米尺度目標的高精度、低損傷與可程式設計三維操控。研究成果日前發表於國際期刊《自然》。研究團隊構建的三維光纖微鑷輸出力是傳統光鑷的十萬倍以上，能夠實現微米尺度目標的精準操控和複雜微結構的精確裝配，展現出在微操控領域的重要應用價值。同時，該微鑷如同細胞尺度的“微型靈巧手”，能夠實現單細胞等微觀物件的精密操作，並在百微米狹窄空間內完成微尺度取樣，為生命健康和微創醫療等方向提供了新的技術路徑。 (科技日報)
-
----
-
-### 2026-06-20 15:09:06  #MKT News
-
-Israeli Prime Minister Netanyahu said Israel must resolutely safeguard its security interests while preserving its important ties with the United States.
-
----
-
-### 2026-06-20 15:08:56  #國際
-
-內塔尼亞胡：以色列將在捍衛自身安全利益的同時，維持與美國的緊密關係。
-
----
-
-### 2026-06-20 15:08:15  #MKT News #XAUUSD #Impact bullish #DXY #WTI
-
-Israeli prime minister NETANYAHU said more work remains in Gaza and Lebanon.
-
----
-
-### 2026-06-20 15:07:58  #MKT News
-
-NETANYAHU said Israeli forces repelled ground-invasion threats against Israeli communities in Lebanon and destroyed Hezbollah's missile capabilities.
-
----
-
-### 2026-06-20 15:07:52  #其他
-
-【貴州省人民檢察院檢察委員會專職委員石瑛接受紀律審查和監察調查】貴州省人民檢察院檢察委員會專職委員石瑛涉嫌嚴重違紀違法，目前正接受貴州省紀委監委紀律審查和監察調查。（貴州省紀委監委網站）
-
----
-
-### 2026-06-20 15:07:29  #MKT News #Important
-
-Prime Minister Netanyahu said Israelis have returned and will remain permanently, calling the territory their land and home.
-
----
-
-### 2026-06-20 15:06:38  #國際
-
-【浙江嘉興開通至匈牙利布達佩斯國際貨運航線】6月20日，一架滿載服裝、面料等跨境電商包裹的全貨機從浙江嘉興南湖機場起飛，經中轉後飛往匈牙利布達佩斯，標誌著“嘉興—布達佩斯”國際貨運航線正式開通執行。這是繼“嘉興—達卡”航線後，當地開通的第二條國際貨運航線，也是嘉興空港開通的首條歐洲方向航線。 新航線的開通，進一步完善了嘉興航空口岸國際物流佈局，為區域外貿轉型升級、高水平對外開放注入新動能。（中新網）
-
----
-
-### 2026-06-20 15:04:45  #MKT News #Important #Brent #Impact bullish #XAUUSD #DXY
-
-【Israel begins air strikes on eastern Lebanon】Lebanon said Israel has begun air strikes on the West Bekaa region in eastern Lebanon, Middle East outlets Al Jazeera and Al Araby reported. Earlier, Israel conducted intense shelling across multiple areas of southern Lebanon, causing multiple casualties.
-
----
-
-### 2026-06-20 15:04:20  #公司
-
-【張朝陽到訪香港車博會極氪展臺 與吉利董事長李書福會面交流】據極氪微博：搜狐創始人張朝陽到訪2026中國香港車博會極氪展臺，與吉利控股集團董事長李書福會面交流。 現場體驗009光輝座艙後，張朝陽對極氪獨立分割槽隔音設計大加讚賞：“後排擁有專屬獨立空間，與前排駕駛區域隔絕”。 張朝陽為極氪8X浩瀚超級電混技術連點三個贊，直稱“Very Impressed!”動力強、能耗低、續航長。饋電上高速，越跑電越多，不是“永動機”，而是透過AI大模型精密計算，為使用者帶來無與倫比的駕乘體驗和高超的能量管理。 雙方圍繞高階新能源、綠色出行發展趨勢展開深度探討。
-
----
-
-### 2026-06-20 15:01:01  #國際
-
-【巴基斯坦內政部長啟程前往伊朗】伊朗伊斯蘭共和國通訊社今天（6月20日）報道說，巴基斯坦內政部長納克維剛剛啟程前往德黑蘭與伊朗官員會談。據悉，納克維將在訪問期間跟進美伊談判的推進情況。目前這一訊息尚未得到巴方證實。（CCTV國際時訊）
-
----
-
-### 2026-06-20 14:58:14  #其他
-
-【斯諾克團體世錦賽中國隊奪冠】日前，2026世界斯諾克檯球團體錦標賽在廣東落幕。由李城傑、潘奕銘、徐嘉銳組成的中國一隊，在決賽中以3:2逆轉戰勝對手，首次奪得該賽事冠軍。
-
----
-
-### 2026-06-20 14:54:19  #國際
-
-據黎巴嫩國家通訊社：以色列對黎巴嫩南部奈拜提耶地區持續轟炸。
-
----
-
-### 2026-06-20 14:51:24  #MKT News
-
-IRNA reports Pakistan's interior minister has departed for Tehran.
-
----
-
-### 2026-06-20 14:50:32  #其他
-
-【內蒙古：今年1—5月全區規模以上工業增加值同比增長5.9%】據內蒙古自治區統計局訊息：今年前5個月，全區工業轉型升級步伐加快，民間投資、高技術產業投資持續增長，市場消費規模持續擴大，整體經濟執行穩中有進。從工業領域看，今年以來，內蒙古以構建現代化產業體系為抓手，在技術改造與創新中持續提升傳統工業發展水平，培育扶植新興產業、未來產業領域一批企業做大做強，為工業發展注入新鮮血液，促進了工業經濟轉型升級。今年1—5月，全區規模以上工業增加值同比增長5.9%。值得關注的是，1—5月，全區現代煤化工產業增加值同比增長18.6%，裝備製造業增加值同比增長22.5%，高技術製造業增加值同比增長13.1%，工業轉型升級步伐持續加快。
-
----
-
-### 2026-06-20 14:50:09  #國際
-
-【特朗普再強調沒有美國就沒有以色列】當地時間6月19日，美國“阿克西奧斯新聞網”釋出一段18日採訪美國總統特朗普的影片。特朗普在接受採訪時表示，如果自己沒有終止伊核協議，伊朗早就已經擁有了核武器，而如果伊朗擁有核武器，那以色列早就不存在了。特朗普還表示，自己與以色列總理內塔尼亞胡關係很好，但必須讓內塔尼亞胡“保持理智”。另外針對美國能否阻止以色列襲擊黎巴嫩的疑問，特朗普再次強調，以色列會聽他的話，因為如果美國此前沒有轟炸伊朗核設施，那以色列今天已經不復存在了。（CCTV國際時訊）
-
----
-
-### 2026-06-20 14:46:31  #國際
-
-【俄羅斯薩拉托夫州發生一起交通事故 致6人死亡】當地時間6月20日，俄羅斯薩拉托夫州內務部門通報，該州境內一高速公路上發生兩車相撞事故，造成6人死亡，2人受傷。（央視新聞）
-
----
-
-### 2026-06-20 14:44:02  #MKT News #Important #SSE Composite #Impact bullish #CSI300
-
-【Shanghai Stock Exchange to add single‑leg close‑out to stock option combo strategies】Shanghai Stock Exchange published a business plan to introduce a single‑leg close‑out function to its existing stock option combination strategies, aiming to improve options investors' capital efficiency and reduce trading costs to support healthier options market development.
-
----
-
-### 2026-06-20 14:42:29  #MKT News #Commodities #Precious Metals #XAUUSD #Impact mixed
-
-【Iran Gold and Jewelry Union chairman: domestic gold stable; expects 1–3% near-term swings】IRNA quoted Iran Gold and Jewelry Union chairman Nader saying last week’s international gold rally did not lift — and in some cases coincided with declines in — domestic Iranian gold prices. He attributed the disconnect to a fall in the domestic exchange rate (weaker Iranian rial) and positive economic news, including a recent agreement, which largely offset global price pressures. Domestic prices are in a relatively stable range. Near-term drivers to watch, he said, are global gold trends, the rial, supply-demand and political developments; he expects natural 1–3% volatility next week and judges large moves unlikely.
-
----
-
-### 2026-06-20 14:42:21  #宏觀 #市場 #國際
-
-【伊朗黃金珠寶聯盟主席：伊朗金市保持穩定 後市料窄幅震盪】據伊朗伊斯蘭共和國通訊社（IRNA）報道，伊朗黃金與珠寶聯盟主席納德爾接受採訪時表示：“上週全球黃金市場一直在波動，但與預期相反，在國際金價上漲的時候，伊朗國內黃金市場價格並未出現上漲，我們甚至看到國內市場金價出現相對下跌。這受到多種因素的影響。部分原因是國內匯率下跌，另一部分原因是利好的經濟訊息，特別是近期達成的協議。這些因素在很大程度上抵消了全球金價上漲對國內市場的影響。目前，國內黃金價格處於相對穩定的區間。我們現在需要開始觀察全球市場走勢、國內匯率狀況、供需關係以及政治局勢的發展。這些因素都會影響下週的波動程度，並可能決定市場的走向。在我看來，可能會出現1%到3%的自然波動，這在黃金市場屬於正常現象，但在目前情況下，價格大幅下跌或上漲的可能性不大。”
-
----
-
-### 2026-06-20 14:40:36  #國際
-
-【以軍空襲加沙城 至少5名巴勒斯坦人遇難】總檯記者獲悉，當地時間20日，以軍對加沙城發動空襲，造成至少5名巴勒斯坦人遇難，另有多人受傷。一名醫療訊息人士稱，以軍轟炸了位於加沙城的一處住宅公寓，導致4人遇難、多人受傷。此外，以軍還對加沙城北部一個十字路口附近實施空襲，造成1人遇難。（央視新聞）
-
----
-
-### 2026-06-20 14:40:22  #市場 #焦點
-
-【上交所擬完善股票期權組合策略業務，推出單邊平倉功能】記者從業內獨家獲悉，為進一步提升期權投資者資金使用效率、降低交易成本、促進期權市場健康發展，上交所釋出股票期權組合策略單邊平倉業務方案，擬在現有組合策略業務基礎上推出單邊平倉功能。上交所自2019年推出股票期權組合策略業務以來，該業務在最佳化保證金佔用、豐富投資者策略運用方面發揮了積極作用。此次推出的單邊平倉功能，允許對投資者組合策略中的義務倉單獨進行買入平倉操作，從而先解除組合再各自平倉，進一步簡化了交易流程。根據方案，延續適用單邊平倉的組合策略型別共六類，涵蓋認購牛市價差策略、認購熊市價差策略、認沽牛市價差策略、認沽熊市價差策略、跨式空頭策略和寬跨式空頭策略。其中，四類價差策略可對其成分合約義務倉進行單邊平倉；跨式空頭和寬跨式空頭策略中包含兩個成分合約義務倉，僅允許對單個成分合約進行單邊平倉。（中證報）
-
----
-
-### 2026-06-20 14:38:58  #國際
-
-伊朗議會國家安全委員會成員賽義迪：諒解備忘錄中超過80%為美方承諾，若美國在諒解備忘錄問題上背信棄義，伊朗也將採取對等措施。
-
----
-
-### 2026-06-20 14:35:24  #MKT News #XAUUSD #Impact bullish #WTI #DXY
-
-A member of Iran's parliamentary National Security Committee, Sayyedi, said more than 80% of the memorandum of understanding comprises U.S. commitments and that Iran would take reciprocal measures if the U.S. reneges on the MoU.
-
----
-
-### 2026-06-20 14:32:09  #MKT News
-
-Iran's Islamic Revolutionary Guard Corps says the war must end in a way that preserves Iran's deterrence for the next 50 years.
-
----
-
-### 2026-06-20 14:32:02  #MKT News #WTI #Impact bullish #XAUUSD #DXY
-
-Iran's Revolutionary Guard said U.S. and Israeli enemies realized by the 15th day of the conflict that the situation had slipped beyond their control.
-
----
-
-### 2026-06-20 14:31:48  #其他
-
-【儲永宏已任江蘇省人大常委會黨組副書記】江蘇省人民代表大會常務委員會官網近期更新後顯示，江蘇省人大常委會副主任儲永宏，已任省人大常委會黨組副書記。
-
----
-
-### 2026-06-20 14:31:44  #MKT News #WTI #Impact bullish #Brent #XAUUSD
-
-The Islamic Revolutionary Guard Corps said US domestic turmoil, fatigued and underprepared US forces, lack of a military solution in the Strait of Hormuz, congressional obstruction, allied non-cooperation and international pressure including from Spain are the primary factors keeping the US and Israel's adversaries locked in a stalemate during a third war.
-
----
-
-### 2026-06-20 14:31:27  #國際
-
-【伊朗革命衛隊：霍爾木茲海峽和伊朗的地區主權不容削弱】伊朗革命衛隊：戰爭和防禦尚未結束。美國在這場戰爭中被認定為失敗且無計可施的罪犯。伊朗武裝力量重創了美國最先進的技術裝備。霍爾木茲海峽和伊朗的地區主權不容削弱。在這次戰爭中，伊朗的國際地位和聲望得到提升。伊朗人民和抵抗陣線的權利必須得到鞏固。美國內部混亂局勢、美軍士兵疲憊與準備不足、在霍爾木茲海峽缺乏軍事解決方案、國會阻撓、盟友不予配合，以及包括西班牙在內的國際社會壓力——這些是美以敵人在第三次戰爭期間陷入僵局的最重要因素。美以敵人在此次戰爭的第十五天就意識到局面已脫離其掌控。戰爭必須以一種使伊朗在未來五十年內都能保持威懾力的方式結束。
-
----
-
-### 2026-06-20 14:30:49  #MKT News
-
-Iran's Islamic Revolutionary Guard Corps said Iran's international standing and prestige have risen during the current war and called for consolidation of the rights of the Iranian people and the resistance front.
-
----
-
-### 2026-06-20 14:30:33  #MKT News #WTI #Impact bullish #Brent
-
-Iran's Islamic Revolutionary Guard Corps said the Strait of Hormuz and Iran's regional sovereignty must not be weakened.
-
----
-
-### 2026-06-20 14:30:30  #MKT News #WTI #Impact bullish #XAUUSD #DXY
-
-IRGC said Iranian armed forces inflicted heavy damage on the US's most advanced technical equipment.
-
----
-
-### 2026-06-20 14:30:23  #MKT News #WTI #Impact bullish #XAUUSD #DXY
-
-Iran's Islamic Revolutionary Guard Corps said the United States has been judged a failed, powerless criminal in this war.
-
----
-
-### 2026-06-20 14:30:09  #MKT News #WTI #Impact bullish #XAUUSD #DXY
-
-Iran's Islamic Revolutionary Guard Corps (IRGC) said the war and defensive operations are not yet over.
-
----
-
-### 2026-06-20 14:28:53  #其他 #國際
-
-【薩爾瓦多查獲逾6噸可卡因】薩爾瓦多總統納伊布·布克爾19日說，該國海軍從兩艘船上查獲逾6噸可卡因。法新社援引布克爾的話報道，薩爾瓦多海軍18日在太平洋水域的兩艘船上共查獲逾6噸可卡因。兩艘船裝載的可卡因數量接近，每艘船上各有3名船員。布克爾在社交媒體上說，該國今年已查獲逾13噸可卡因，將繼續打擊毒品走私活動。（新華社）
-
----
-
-### 2026-06-20 14:27:53  #國際
-
-【中加經商論壇聚焦兩國經貿合作新機遇】中國駐加拿大使館19日在渥太華舉辦主題為“緊抓中國開放新機遇，實現對華出口新增長”的中加經商論壇，並推介第九屆中國國際進口博覽會（進博會）。中國駐加拿大大使王鏑在主旨演講中介紹了中加關係和中加經貿合作新進展，歡迎加方作為主賓國參加今年舉辦的第九屆進博會。他表示，希望中加工商界繼續保持合作韌性，為兩國關係發展作出新貢獻。中方願同加方一道，推動中加關係健康、穩定、可持續發展。（新華社）
-
----
-
-### 2026-06-20 14:22:57  #MKT News
-
-【Series of blasts in Pakistan's Khyber Pakhtunkhwa kills at least 7】Police said on the 20th (local time) a series of blasts in Pakistan's Khyber Pakhtunkhwa province killed at least seven people and injured others. Authorities said two vehicles were detonated by remote control: a private car carrying passengers exploded first, and a second vehicle exploded about 1 km away while the wounded were being transported to hospital. Both vehicles were destroyed. Security forces and law enforcement have arrived to collect evidence and are investigating.
-
----
-
-### 2026-06-20 14:22:26  #其他
-
-【巴基斯坦開伯爾-普什圖省發生連環爆炸 至少造成7人死亡】根據巴基斯坦警方通報，當地時間20日，巴基斯坦開伯爾-普什圖省發生連環爆炸，造成至少7人死亡，另有人員受傷。當地警方稱，安全部隊和執法機構已經立即趕到現場收集證據，並對這些事件展開調查。警方稱，兩部車輛先後發生“遙控爆炸”，其中一輛載有乘客的私人汽車首先爆炸，傷者被送往醫院的途中，發生了第二起車輛爆炸。目擊者稱，第二次爆炸發生在距離第一次爆炸地點近一公里處，兩部車輛都被炸燬。（央視新聞）
-
----
-
-### 2026-06-20 14:22:25  #MKT News
-
-Tasnim News Agency reported that Iran's Foreign Minister Araghchi held a phone call with Pakistan's Deputy Prime Minister and Foreign Minister Dar to discuss the diplomatic process.
-
----
-
-### 2026-06-20 14:15:07  #公司
-
-【L4級強制加鐳射雷達？小鵬方面做出正式回應】6月20日，針對近期部分自媒體關於“L3/L4級自動駕駛強制國標”的片面解讀與不實傳言，小鵬集團相關負責人透過社交媒體，對“L3必須雙冗餘、L4必須加鐳射雷達”等謠言進行了嚴正澄清。近日，隨著《智慧網聯汽車自動駕駛系統安全要求》強制性國家標準（報批稿）進入公示階段，網路上出現了大量關於該標準的歪曲解讀，甚至斷言純視覺方案將被強制淘汰。 對此，小鵬方面明確指出，相關流傳說法純屬毫無依據的假新聞。經查閱公開可查的檔案原文及編制說明，其中並未出現“鐳射雷達”等具體硬體型別的文字表述，相關謠言既無任何條款依據，也與編制說明的解釋相悖。
-
----
-
-### 2026-06-20 14:05:17  #其他
-
-【香港機場黃金大劫案最新進展】香港國際機場18日凌晨發生一起黃金搶劫案，涉及6根金條，總值約700萬港元。香港警方20日召開記者會表示，經追查，已拘捕涉案人員4男3女，年齡介於20歲至39歲，均為香港本地居民，部分有黑社會背景。 香港警方介紹案情時說，18日0時23分接獲報案，一名36歲的香港本地男子受僱於一名內地商人，由印度尼西亞獨自運金條回港。他在香港機場一停車場被三名蒙面男子持刀伏擊，6根金條被搶。匪徒得手後登上接應車輛逃去。 香港警方稱，相信此案件並非隨機行劫，而是有預謀，明顯有內鬼通風報信，或是熟人所為。警方已尋獲接應劫匪車輛和涉案刀具，但尚未尋回金條。 香港警方指出，懷疑部分嫌犯已潛逃至內地，香港警方正透過相關渠道尋求內地執法單位提供協助，不排除再有人被捕。（中新網）
 
 ---

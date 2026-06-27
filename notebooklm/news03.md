@@ -1,7 +1,381 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-06-27 14:05:03_
-_本檔包含 3766 則快訊，約 672075 字_
+_更新時間：2026-06-27 15:41:59_
+_本檔包含 3750 則快訊，約 671411 字_
+
+---
+
+### 2026-06-25 00:23:36  #MKT News #Star Stocks #Alphabet #Market Themes #Magnificent 7 #GOOG.O
+
+Google (GOOG.O) introduced a "computer usage" feature in Gemini 3.5 Flash.
+
+---
+
+### 2026-06-25 00:23:17  #公司
+
+谷歌：在Gemini 3.5 Flash模型中推出電腦使用功能。
+
+---
+
+### 2026-06-25 00:22:28  #國際
+
+伊朗外交部發言人：沒人會被矇蔽。只要美國奉行軍國主義與干涉主義、其扶持的佔領代理人不受任何懲罰，持續在該地區挑起無休止戰爭、實施種族滅絕、恐怖暴力及各類暴行，這片地區就不可能迎來和平。
+
+---
+
+### 2026-06-25 00:21:44  #國際
+
+【魯比奧：霍爾木茲海峽必須保持“開放、自由通航”】美國國務卿魯比奧表示，美國不會採取任何有損波斯灣盟友安全的行動，並堅稱霍爾木茲海峽必須保持“開放、自由通航”。魯比奧此番表態發表於其出訪科威特城期間，在當地會見了科威特王儲謝赫·薩巴赫·哈立德·阿勒哈馬德·薩巴赫。此前伊朗相關衝突結束、霍爾木茲海峽恢復通航，華盛頓正力求安撫地區盟友。美伊諒解備忘錄雖已恢復霍爾木茲海峽的商業航運，但海峽管控相關爭端仍存，其中包括伊朗主張擁有通行許可審批權及未來徵收通航費的相關許可權。
+
+---
+
+### 2026-06-25 00:21:07  #MKT News
+
+Asked about U.S. intelligence assessments that Israel intends to undermine the existing memorandum of understanding, U.S. Secretary of State Rubio said: I don't know what intelligence you're referring to, nor do I know where those claims come from.
+
+---
+
+### 2026-06-25 00:20:23  #MKT News
+
+【Rubio: US will not take actions that undermine Gulf allies' security】US Secretary of State Rubio said the Trump administration will remain fully aligned with Gulf partners as talks with Iran progress, will keep them informed and consult on any decisions from the negotiations, and will not take actions that undermine the security of long-standing allies during his regional visit.
+
+---
+
+### 2026-06-25 00:20:07  #焦點 #國際
+
+記者：美國情報部門部分人員評估認為，以色列有意破壞當前這份諒解備忘錄。
+美國國務卿魯比奧：我不知道你說的是哪份情報，也不清楚你這些訊息從何而來。
+
+---
+
+### 2026-06-25 00:20:06  #MKT News #Commodities #Energy #WTI #Impact bearish #Brent
+
+Iraq's prime minister said Iraq hopes OPEC will increase oil output in line with its production capacity and population size.
+
+---
+
+### 2026-06-25 00:19:34  #其他
+
+伊拉克總理表示，伊拉克希望石油輸出國組織（歐佩克）按照本國的石油產能和人口規模上調伊拉克的石油產量配額。
+
+---
+
+### 2026-06-25 00:19:24  #國際
+
+美國國務卿魯比奧：任何談判都是一個相互讓步、各有取捨的過程。本次措施僅為期60天，屬於臨時安排。因此我們要求伊朗履行其在瑞士作出的承諾。倘若對方未能兌現承諾，特朗普總統手中握有多種應對手段。
+
+---
+
+### 2026-06-25 00:18:20  #國際
+
+俄羅斯5月份化肥產量同比下降3.7%。
+
+---
+
+### 2026-06-25 00:17:49  #MKT News #WTI #Impact bearish
+
+【Rubio reiterates Iran cannot levy fees for transit through Strait of Hormuz】According to Al Jazeera, US Secretary of State Rubio said the world will oppose any mechanism to charge fees for passage through international waterways, reiterating that Iran cannot levy fees for transit through the Strait of Hormuz. "It's that simple. The president has said this will not happen," Rubio said, adding he believes Gulf states will support the position.
+
+---
+
+### 2026-06-25 00:17:20  #其他
+
+法新社：本輪高溫熱浪來襲以來，法國已有超50個省份氣溫突破40攝氏度。
+
+---
+
+### 2026-06-25 00:16:02  #國際
+
+美國：監測期結束，未發現漢坦病毒陽性病例。終止此次漢坦病毒暴露事件應急處置工作。
+
+---
+
+### 2026-06-25 00:15:29  #MKT News #Commodities #Energy #WTI #Impact bullish #Brent
+
+Ukraine's national oil company says Russian strikes have severely damaged its gas production and storage facilities.
+
+---
+
+### 2026-06-25 00:15:24  #MKT News #S&P500 #Impact bullish #DXY #Impact bearish #WTI
+
+ZELENSKIY said relay stations used to coordinate strikes launched from Belarusian territory against Ukraine have ceased operating.
+
+---
+
+### 2026-06-25 00:15:22  #公司 #國際
+
+烏克蘭石油天然氣公司表示，俄羅斯的襲擊對其天然氣生產和儲存設施造成了嚴重破壞。
+
+---
+
+### 2026-06-25 00:15:01  #MKT News #Important
+
+Rubio said the US technical team will return to talks with Iran on the 30th of this month.
+
+---
+
+### 2026-06-25 00:14:50  #焦點 #國際
+
+俄羅斯聯邦統計局表示，今年1-5月俄羅斯天然氣產量同比增長5.2%。
+
+---
+
+### 2026-06-25 00:14:14  #Trading Economics #Markets #Italy #Stock Market #Importance 0
+
+FTSE MIB Edges Lower — The FTSE MIB declined 0.8% to close at 51,639 on Wednesday, with sentiment weighed down by a combination of defensive sector weakness and ongoing tech pressure. Defense contractor Leonardo extended losses to 5% after reports that Germany is considering cancelling plans for its largest post–World War II warship in favor of purchasing eight smaller frigates from TKMS. Avio followed losing 4.2%. Semiconductor company STMicroelectronics edged lower by 0.5% while Prysmian declined 1.1%, as investors stayed cautious ahead of Micron earnings results for further conclusions on the sector. Contributing to the market decline, Unipol led losses in the banking sector with a 2.6% drop, followed by Banco BPM (-2.1%), UniCredit(-1.4%) and BPER Banca (-1.4%). Elsewhere, Ferrari recorded strong gains of 1.9%. Energy stocks were mixed, with Italgas down 1.2% and Enel 0.3%, and Snam up 1.6%.
+
+---
+
+### 2026-06-25 00:13:46  #國際
+
+美國國務卿魯比奧：相關技術性磋商目前僅在工作人員層級開展。
+
+---
+
+### 2026-06-25 00:13:35  #MKT News #WTI #Impact bearish #Brent
+
+U.S. Secretary of State Rubio said technical teams are finalizing details of an agreement with Iran.
+
+---
+
+### 2026-06-25 00:13:17  #MKT News
+
+U.S. Secretary of State Rubio said the United States will help the Lebanese government achieve full control of its territory.
+
+---
+
+### 2026-06-25 00:12:54  #MKT News #WTI #Impact bearish #Brent #S&P500 #Impact bullish
+
+US Secretary of State Rubio said when the US says it will open the Strait of Hormuz it means unobstructed free passage; the strait is an international waterway.
+
+---
+
+### 2026-06-25 00:12:43  #國際
+
+美國國務卿魯比奧：伊朗問題技術小組將於本月晚些時候重啟運作。
+
+---
+
+### 2026-06-25 00:12:33  #MKT News
+
+Rubio says the technical working group on Iran will return later this month.
+
+---
+
+### 2026-06-25 00:12:25  #國際
+
+美國國務卿魯比奧開啟為期三天的中東地區訪問。
+
+---
+
+### 2026-06-25 00:12:17  #Trading Economics #Markets #Italy #Stock Market #Importance 1
+
+The FTSE MIB Index Closes 0.74% Lower — The FTSE MIB Index fell 385 points or 0.74 percent on Wednesday to close at 51639 points. Leading the losses are Leonardo SpA (-5.05%), Avio (-3.69%) and Eni (-3.28%). Top gainers were Diasorin (3.13%), Ferrari NV (2.06%) and Telecom Italia (1.62%).
+
+---
+
+### 2026-06-25 00:11:52  #MKT News
+
+U.S. Secretary of State Rubio said he hopes negotiations between Lebanon and Israel succeed.
+
+---
+
+### 2026-06-25 00:11:45  #MKT News #XAUUSD #Impact bullish #Brent #DXY
+
+US Secretary of State Rubio said Israel is in Lebanon because Hezbollah is launching attacks against Israel from there.
+
+---
+
+### 2026-06-25 00:11:17  #Trading Economics #Markets #Germany #Stock Market #Importance 1
+
+The DAX Index Closes 0.62% Lower — The DAX Index dropped 153 points or 0.62 percent on Wednesday to close at 24740 points. Losses were led by Rheinmetall (-19.06%), Deutsche Bank (-2.58%) and RWE (-2.50%). Offsetting the fall, top gainers were MTU Aero Engines AG (6.36%), Qiagen NV (4.60%) and Beiersdorf (3.79%).
+
+---
+
+### 2026-06-25 00:11:13  #MKT News #Star Stocks #Tesla #Market Themes #Magnificent 7 #TSLA.O #Impact bearish
+
+U.S. National Transportation Safety Board opens safety investigation into Tesla (TSLA.O) Model 3 crash on June 19.
+
+---
+
+### 2026-06-25 00:10:36  #國際
+
+澤連斯基：俄羅斯部署在白俄羅斯境內的無人機訊號發射中繼站現已全部失效。
+
+---
+
+### 2026-06-25 00:10:22  #焦點 #國際
+
+美國國務卿魯比奧：霍爾木茲海峽不會收取通行費。
+
+---
+
+### 2026-06-25 00:10:17  #Trading Economics #Markets #France #Stock Market #Importance 1
+
+The CAC 40 Index Closes 0.54% Higher — The CAC 40 Index went up by 45 points or 0.54 percent on Wednesday to close at 8385 points. The rise was led by Saint-Gobain (3.31%), L'Oréal (3.05%) and Danone (2.84%). On the downside, the weakerst performers were TP (-4.85%), ArcelorMittal (-2.90%) and TotalEnergies SE (-1.96%).
+
+---
+
+### 2026-06-25 00:09:53  #MKT News
+
+U.S. Secretary of State Rubio said talks between Lebanon and Israel will continue today and tomorrow.
+
+---
+
+### 2026-06-25 00:09:21  #MKT News
+
+Al Jazeera reported Kuwait's Emir held discussions with U.S. Secretary of State Rubio on regional developments.
+
+---
+
+### 2026-06-25 00:09:08  #Trading Economics #Markets #commodity #Importance 0
+
+Cheese Hits 18-week Low — Cheese decreased to 1.55 USD/Lbs, the lowest since February 2026. Over the past 4 weeks, Cheese lost 3.99%, and in the last 12 months, it decreased 19.01%.
+
+---
+
+### 2026-06-25 00:08:57  #MKT News
+
+Rubio said the US expects Iran to fulfill its obligations.
+
+---
+
+### 2026-06-25 00:08:53  #焦點 #國際
+
+美國國家運輸安全委員會（NTSB）針對6月19日特斯拉Model 3交通事故啟動安全調查。
+注：此次事故發生於美國得州凱蒂市，涉事Model 3高速撞入居民住宅，造成屋內一名76歲女性身亡。
+
+---
+
+### 2026-06-25 00:08:41  #MKT News
+
+U.S. Secretary of State Rubio said U.S. security assurances to the Gulf region are 'concrete'.
+
+---
+
+### 2026-06-25 00:08:04  #MKT News #WTI #Impact bullish #Brent #XAUUSD
+
+US Secretary of State Rubio said if Iran closes the Strait of Hormuz, we have measures to respond.
+
+---
+
+### 2026-06-25 00:07:52  #國際
+
+美國國務卿魯比奧：美國與海灣國家關係穩固，我方感謝各國提供的支援，且所有與伊朗談判相關事宜都會同步告知海灣各國。
+
+---
+
+### 2026-06-25 00:07:48  #MKT News #Brent #Impact bearish #WTI #XAUUSD
+
+AFP, citing a diplomat, reports Saudi Arabia is preparing to host a summit aimed at reconciling Iran and Gulf Arab states, following Iran's earlier attacks on neighboring countries.
+
+---
+
+### 2026-06-25 00:07:47  #Trading Economics #Markets #Germany #Stock Market #Importance 1
+
+DAX Falls for 2nd Day — The DAX 40 closed about 0.7% down at 24,716 on Wednesday, extending losses from the prior day, dragged down by defense stocks, while investors awaited Micron’s quarterly results for clues on the semiconductor outlook. Meanwhile, investors continued to assess developments in US-Iran negotiations, with reports of improved traffic through the Strait of Hormuz offering some reassurance. Giant Rheinmetall plunged over 18%, the steepest fall on record, after the Merz government confirmed it was cancelling the purchase of six F126 anti-submarine frigates, a program worth €15.2 billion that was slated to become the largest acquisition project in the history of the German Navy. Other defense names, such as Renk and Hensoldt, slipped 7.9% and 4.3%, respectively. Berlin is now targeting the purchase of eight Meko frigates from TKMS, whose shares jumped more than 15% on the news. Meanwhile, MTU Aero Engines rose over 5% after JP Morgan reiterated its “Buy” rating.
+
+---
+
+### 2026-06-25 00:07:17  #Trading Economics #Markets #United Kingdom #Stock Market #Importance 1
+
+The FTSE 100 Index Closes 0.24% Higher — The FTSE 100 Index rose 25 points or 0.24 percent on Wednesday to close at 10454 points. Leading the gains are Segro (17.18%), B&M European Value (13.12%) and Berkeley (7.60%). Top losers were Endeavour (-3.61%), BP (-3.56%) and Glencore (-3.53%).
+
+---
+
+### 2026-06-25 00:06:57  #MKT News
+
+US Secretary of State Rubio said the US has close ties with Gulf states, thanked them for their support and will keep them continuously informed on all matters related to negotiations with Iran.
+
+---
+
+### 2026-06-25 00:06:45  #國際
+
+美國國務卿魯比奧：堅持認為霍爾木茲海峽應保持開放與通航自由。
+
+---
+
+### 2026-06-25 00:06:29  #公司
+
+【OpenAI和博通開發首款定製化人工智慧晶片 比傳統GPU節省約50%成本】OpenAI釋出與博通合作開發的首款定製人工智慧晶片，試圖透過最佳化硬體來獲取競爭優勢。兩家公司週三表示，OpenAI已收到這款名為“Jalapeno”的晶片的首批樣品，正在測試其執行人工智慧任務的能力。博通執行長陳福陽在接受採訪時表示，目前這款AI加速器相比傳統AI圖形處理器(GPU)可節省約50%的成本。
+
+---
+
+### 2026-06-25 00:06:27  #MKT News #WTI #Impact bearish #Brent
+
+US Secretary of State Rubio said he insists the Strait of Hormuz should remain open and free.
+
+---
+
+### 2026-06-25 00:05:42  #MKT News #WTI #Impact bearish #Brent #DXY
+
+US Secretary of State Rubio said the US will not take actions that harm the security of Gulf allies.
+
+---
+
+### 2026-06-25 00:05:21  #國際
+
+美國國務卿魯比奧：美國不會採取任何損害海灣盟友安全的行動。
+
+---
+
+### 2026-06-25 00:04:56  #央行 #其他
+
+“木頭姐”凱西·伍德：凱文·沃什委託開展了五項研究，從這些研究成果來看，我認為他既清楚生產力正在發揮的抑制通脹作用，也明白官方統計通脹資料存在缺陷。如今不少市場人士預判央行會更早、更大幅度加息，而我認為，沃什將為金融市場帶來一堂極具深度的貨幣政策公開課。
+
+---
+
+### 2026-06-25 00:04:35  #市場
+
+“木頭姐”凱西·伍德：我正在亞歐多地開展路演，各地投資者對通脹的擔憂讓我深有感觸。當我提出通脹可能會大幅回落，且下跌動因不只是油價時，他們都十分意外。以單位勞動力成本衡量，當前通脹同比增速已降至0.5%。
+
+---
+
+### 2026-06-25 00:02:40  #資料 #國際
+
+俄羅斯第二季度消費者信心指數-13。
+
+---
+
+### 2026-06-25 00:02:24  #國際
+
+俄羅斯5月工業產出同比下降0.7%。
+
+---
+
+### 2026-06-25 00:02:06  #Trading Economics #Markets #United Kingdom #Stock Market #Importance 1
+
+FTSE 100 Rises on Wednesday — The FTSE 100 advanced on Wednesday, outperforming major European equities due to strong corporate earnings and a massive real estate rally. Commercial property landlord Segro saw its shares surge over 15% after its board unequivocally rejected an all-share takeover proposal from American rival Prologis. Discount retailer B&M jumped over 13% following the appointment of former Asda executive Atheeq Akbar as its new chief financial officer, while housebuilder Berkeley climbed over 7% after full-year operating profits beat expectations. Large-cap heavyweights also provided vital support, with AstraZeneca and Unilever rising more than 2%, Rolls-Royce adding 1.5%, and British American Tobacco gaining 1.9%. However, these gains were capped by a broader commodity sell-off. Declining oil prices dragged Shell and BP down as much as 3.6%, while falling metal and gold prices pulled miners like Glencore, Antofagasta, Anglo American, Rio Tinto, Endeavour, and Fresnillo down between 1.7% and 3.6%.
+
+---
+
+### 2026-06-25 00:01:45  #國際
+
+伊朗官員稱，以色列是“該地區所有問題”的始作俑者。
+
+---
+
+### 2026-06-25 00:01:28  #MKT News #WTI #Impact bullish #Brent #XAUUSD
+
+Al Jazeera cited Iranian officials as saying Israel should be held responsible for "the problems of the entire region."
+
+---
+
+### 2026-06-25 00:01:25  #市場 #國際
+
+俄羅斯消費者價格指數在6月第22周環比上漲0.25%。
+
+---
+
+### 2026-06-25 00:01:10  #MKT News #WTI #Impact bearish #Brent
+
+Russia industrial output fell 0.7% YoY in May, versus market expectations for 1.6% growth.
+
+---
+
+### 2026-06-24 23:59:49  #MKT News #WTI #Impact bearish #XAUUSD #DXY
+
+【Trump: U.S. to join IAEA inspections of Iran nuclear sites】Trump told Fox News on June 24 that U.S. personnel will participate in International Atomic Energy Agency inspections of Iranian nuclear facilities. He said Iran has agreed to allow inspectors in but has in the past agreed in writing and then reneged, and that he is not pushing for inspectors to enter Iran immediately.
 
 ---
 
@@ -22246,473 +22620,5 @@ US Tech Stocks Sell Off — US equity indices slumped on Tuesday amid a selloff 
 ### 2026-06-23 21:35:21  #央行 #其他
 
 匈牙利央行行長：我們將在9月重新評估經濟前景。
-
----
-
-### 2026-06-23 21:35:03  #公司
-
-AMC娛樂控股股價暴跌25.5%，報2.06美元，此前該公司宣佈完成規模2億美元的股票發行定價。
-
----
-
-### 2026-06-23 21:35:03  #MKT News #Important #DXY #Impact mixed #S&P500 #US10Y
-
-US June S&P Global manufacturing and services PMI preliminary readings due in 10 minutes.
-
----
-
-### 2026-06-23 21:34:37  #其他
-
-【劉海星會見南非非國大副主席、副總統馬沙蒂萊】6月23日，中共中央對外聯絡部部長劉海星在北京會見南非非國大副主席、副總統馬沙蒂萊。雙方就共同落實好兩國元首重要共識，加強黨際交流合作、推動中南關係發展等交換意見。(新華社)
-
----
-
-### 2026-06-23 21:34:21  #MKT News #Important #SPCX.O #Impact bearish
-
-Shares of SpaceX (SPCX.O) extended losses, down 3.9%, and briefly fell below their first-day opening price.
-
----
-
-### 2026-06-23 21:33:57  #宏觀
-
-【劉國中在江蘇調研時強調 打造生物醫藥新興支柱產業 培育發展腦機介面未來產業】中共中央政治局委員、國務院副總理劉國中22日至23日到江蘇調研。他強調，要深入學習貫徹習近平總書記重要指示精神，落實黨中央、國務院部署，堅持“四個面向”戰略導向，強化創新引領和政策協同，打造生物醫藥新興支柱產業，培育發展腦機介面未來產業，加快高水平科技自立自強，不斷催生新質生產力，為健康中國建設提供有力支撐。（新華社）
-
----
-
-### 2026-06-23 21:33:25  #MKT News
-
-Putin said the government should take additional measures to offset the impact of the attack.
-
----
-
-### 2026-06-23 21:33:17  #市場 #國際
-
-【半導體相關ETF美股開盤暴跌 3倍做多韓國ETF-Direxion重挫35%】美股開盤，3倍做多韓國ETF-Direxion重挫35%，三倍做多半導體ETF-Direxion下挫22%。2倍做多SNDK ETF-Tradr和2倍做多MU ETF-Direxion下跌超22%，2倍做多INTC ETF-Direxion下跌18%。
-
----
-
-### 2026-06-23 21:33:09  #MKT News #WTI #Impact bullish #Brent
-
-Putin says Ukraine is attempting to create energy problems for Russia.
-
----
-
-### 2026-06-23 21:33:04  #MKT News #XAUUSD #Impact bullish #DXY #WTI
-
-Putin said that as Ukraine continues to lose territory, it is striking Russian civilian infrastructure.
-
----
-
-### 2026-06-23 21:33:02  #其他
-
-【江蘇揚中通報交通執法人員“違規收受禮品”：成立聯合調查組】6月23日，江蘇揚中市聯合調查組釋出情況通報：針對我市交通執法人員“違規收受禮品”等相關舉報，我市高度重視，已成立由市紀委監委牽頭，相關部門組成的聯合調查組，開展全面核查。根據調查情況，依規依紀依法作出嚴肅處理。據都市現場，6月23日，江蘇鎮江揚中市的何先生（化姓）反映，稱端午節當天，無意中看到一位執法人員開著一輛交通執法車停在路邊，而在路的另一邊，一輛開賓士的車主走向他，並從車上拿了4份禮品遞給他。之後，何先生向12345進行了舉報，但沒想到的，他等來的卻是被舉報人哥哥的電話，要求他做偽證。揚中市12345政務服務便民熱線工作人員回應稱，已按規定將情況轉交至揚中市交通運輸局處理，“交通運輸局反饋表示已經將相關情況以及附件材料作為違紀問題線索，上報市紀委駐派組，請駐派組立即介入調查，核實相關情況”。
-
----
-
-### 2026-06-23 21:32:40  #市場
-
-多倫多股市GSPTSE指數開盤下跌173.89點，跌幅0.50%，報34828.29點。
-
----
-
-### 2026-06-23 21:32:28  #MKT News #Important #Market Themes #Chip Wars #Nasdaq100 #Impact bearish
-
-Philadelphia Semiconductor Index fell 7.5%.
-
----
-
-### 2026-06-23 21:32:12  #市場
-
-【SpaceX開盤下跌近3% 市值跌破2萬億美元】美股開盤，SpaceX股價下跌2.88%，報150.150美元/股，總市值報1.98萬億美元。
-
----
-
-### 2026-06-23 21:31:56  #市場 #觀點 #國際
-
-特朗普簽署指令要求研發高效能量子計算機，摩根大通上調IBM評級後，Infleqtion與IBM股價上漲。
-
----
-
-### 2026-06-23 21:31:51  #國際
-
-普京：烏克蘭正試圖給俄羅斯製造能源領域的問題。
-
----
-
-### 2026-06-23 21:31:46  #國際
-
-普京在政府會議上表示：烏克蘭正因領土失守而襲擊我方民用設施。
-
----
-
-### 2026-06-23 21:31:43  #MKT News #Important #Market Regions #Wall Street (US) #S&P500 #Impact bearish #SNDK.O #MU.O
-
-U.S. equities opened lower: Dow down 0.66%, S&P 500 down 1.6%, Nasdaq down 2.3%. Storage names led declines—SanDisk (SNDK.O) down 11.3%, Micron Technology (MU.O) down 11.8%. SpaceX (SPCX.O) opened down 2.8%, marking a fourth straight session of losses and pushing its market value below $2 trillion.
-
----
-
-### 2026-06-23 21:31:41  #央行 #加拿大央行
-
-【加拿大央行行長：必須讓美國以外的投資更具吸引力】據報道，加拿大央行行長麥克勒姆警告稱，對美國的過度投資正在給全球金融體系帶來更廣泛的調整風險。他表示，必須讓美國以外的投資更具吸引力。
-
----
-
-### 2026-06-23 21:31:34  #國際
-
-普京：政府應採取額外措施，抵消襲擊造成的後果。
-
----
-
-### 2026-06-23 21:31:29  #MKT News #Market Regions #Wall Street (US) #Dow #Impact bearish #S&P500 #Nasdaq100
-
-U.S. equities opened lower on June 23 (Tuesday): Dow Jones Industrial Average down 358.17 points (-0.69%) at 51,354.54; S&P 500 down 118.80 points (-1.59%) at 7,353.99; Nasdaq Composite down 622.10 points (-2.38%) at 25,544.50.
-
----
-
-### 2026-06-23 21:31:26  #市場
-
-費城半導體指數開盤下挫7%。
-
----
-
-### 2026-06-23 21:31:06  #Trading Economics #Markets #China #stocks #Importance 1
-
-Alibaba Stock Price Hits 14-month Low — Alibaba shares decreased to 102.36 USD, the lowest since April 2025. Over the past 4 weeks, Alibaba lost 21.03%, and in the last 12 months, it decreased 9.43%.
-
----
-
-### 2026-06-23 21:30:48  #其他
-
-義大利經濟部長：義大利無法在4月舉行全國選舉。
-
----
-
-### 2026-06-23 21:30:48  #市場 #焦點
-
-【美股開盤：三大股指齊跌】道指跌0.64%，標普500指數跌1.54%，納指跌2.45%。閃迪跌11.44%，美光跌11.00%，嘉年華跌9.37%，林氏研究跌9.36%。“七姐妹”方面：微軟漲1.05%，亞馬遜跌0.07%，Meta Platforms跌0.30%，蘋果跌0.57%，谷歌跌2.07%，英偉達跌3.64%，特斯拉跌3.79%。
-
----
-
-### 2026-06-23 21:30:41  #央行 #其他
-
-加拿大央行行長麥克勒姆：儘管失衡狀況正在緩慢調整，但美元的吸引力可能導致這種失衡持續更長時間。最好在達到臨界點之前調整失衡。我們可以有意識地解決失衡問題，也可以任其“以我們無法控制的方式”自行化解。需要創造更多有利於投資的場所，讓儲蓄有去處。非銀行貸款機構的增長給解決失衡問題帶來了困難。
-
----
-
-### 2026-06-23 21:30:39  #市場 #焦點
-
-納斯達克中國金龍指數跌超1%，海天網路跌11.45%，世紀互聯跌5.32%，小鵬汽車跌4.79%，新氧跌4.79%，嗶哩嗶哩跌4.47%。
-
----
-
-### 2026-06-23 21:30:31  #Trading Economics #Economy #China #Government Bond 10Y #Importance 1
-
-China 10Y Bond Yield Hits 4-week High — China 10 Year Government Bond Yield increased to 1.79%, the highest since May 2026. Over the past 4 weeks, China 10Y Bond Yield lost 8.80 basis points, and in the last 12 months, it increased 10.20 basis points.
-
----
-
-### 2026-06-23 21:29:55  #MKT News
-
-BOC Governor Macklem: growth of non-bank lenders has made addressing imbalances more difficult.
-
----
-
-### 2026-06-23 21:29:40  #MKT News
-
-BOC Governor Macklem said Canada needs to create more investment-friendly outlets to give savers places to deploy their funds.
-
----
-
-### 2026-06-23 21:29:36  #央行 #國際
-
-加拿大央行行長麥克勒姆：必須讓美國以外的投資更具吸引力。貿易戰的相互傷害會降低所有人的經濟增長。
-
----
-
-### 2026-06-23 21:29:32  #MKT News
-
-Bank of Canada Governor Macklem said policymakers can proactively address imbalances, or allow them to resolve "in ways beyond our control".
-
----
-
-### 2026-06-23 21:29:12  #其他
-
-英國：新型儲蓄產品推出後將取代終身個人儲蓄賬戶（LISA）。
-
----
-
-### 2026-06-23 21:29:08  #MKT News
-
-BOC Governor Macklem said it is preferable to address imbalances before they reach a tipping point.
-
----
-
-### 2026-06-23 21:29:03  #MKT News #DXY #Impact bullish #USDJPY #XAUUSD #Impact bearish
-
-BOC Governor Macklem said imbalances are slowly adjusting, but the dollar's appeal could prolong them.
-
----
-
-### 2026-06-23 21:28:50  #MKT News
-
-Canada's central bank governor Macklem said more channels are needed to direct savings to regions outside the United States to build a more balanced, resilient global system.
-
----
-
-### 2026-06-23 21:28:38  #央行 #其他
-
-加拿大央行行長麥克勒姆批評使用關稅和貨幣貶值的做法。加拿大央行行長麥克勒姆表示，對沖基金和非銀行金融機構採用的槓桿交易策略，可能正在使這一核心市場變得更加脆弱。全球失衡現象正在加劇，這可能也在加大金融穩定風險。
-
----
-
-### 2026-06-23 21:28:25  #MKT News #S&P500 #Impact bearish #DXY #Impact bullish #WTI
-
-BOC Governor Macklem said leverage trading strategies used by hedge funds and non-bank financial institutions may be making this core market more fragile.
-
----
-
-### 2026-06-23 21:28:14  #公司
-
-【山西能源監管辦會同山西省能源局組織電網公司與發電企業召開迎峰度夏電力保供會議】山西能源監管辦會同山西省能源局組織電網公司與發電企業召開迎峰度夏電力保供會議，分析研判電力供需形勢，充分發揮電力市場機制作用，築牢電力保供防線。會議要求，電力市場運營機構要充分發揮現貨市場發現實時價格、準確反映供需的重要作用，透過分時價格訊號引導發電企業頂峰發電、電力使用者削峰填谷，積極參與省間現貨市場，透過市場機制最大程度發揮電網錯峰互濟效益；要加強現貨市場運營情況監測分析，度夏期間重點關注現貨市場高電價、地板價及零售市場運營情況，健全電力市場應急處置制度，穩妥處置市場異常波動、供需突發缺口等問題，避免市場價格大幅波動。發電企業要落實電力併網執行考核要求，嚴格遵守排程紀律，合理安排檢修工期，加強機組運維管理，做好電煤儲存工作，切實壓減受阻出力和機組非停，確保機組具備穩發滿發能力。
-
----
-
-### 2026-06-23 21:28:05  #MKT News
-
-BOC Governor MACKLEM said global imbalances are worsening and may be increasing financial stability risks.
-
----
-
-### 2026-06-23 21:27:40  #央行 #國際
-
-加拿大央行行長：美國貿易逆差對應著大規模外資流入。
-
----
-
-### 2026-06-23 21:27:27  #MKT News #Market Themes #Crypto Concepts #Bitcoin #Impact bearish #Ethereum
-
-BOC Governor Macklem expressed concern about global regulatory gaps in cryptocurrencies.
-
----
-
-### 2026-06-23 21:27:20  #央行 #其他
-
-英國央行泰勒：各類情景分析僅可作為核心預測的補充，不能取而代之。
-
----
-
-### 2026-06-23 21:27:10  #MKT News
-
-BOC says the financial system is dominated by emerging, less-regulated participants.
-
----
-
-### 2026-06-23 21:27:07  #公司
-
-【中集環科一季度利潤分配預案：擬每10股派0.34元】中集環科(301559)6月23日釋出2026年一季度利潤分配預案，公司擬定2026年一季度利潤分配預案如下：以截至2026年3月31日公司總股本6億股為基數，向全體股東每10股派發現金紅利0.34元（含稅），合計派發現金紅利2040萬元（含稅），不送紅股，不以資本公積金轉增股本，剩餘未分配利潤結轉至以後年度。
-
----
-
-### 2026-06-23 21:27:05  #MKT News #Market Regions #Europe & UK #EURUSD #Impact bullish #DXY #Impact bearish #S&P500
-
-Bank of Canada Governor Macklem said that amid U.S. retrenchment, Canada and the EU should deepen open trade.
-
----
-
-### 2026-06-23 21:26:58  #央行 #國際
-
-加拿大央行行長麥克勒姆：美國必須儲蓄，歐洲必須投資。
-
----
-
-### 2026-06-23 21:26:40  #央行 #其他
-
-加拿大央行行長麥克勒姆：金融市場如今由一批監管約束較弱的新興機構主導。
-
----
-
-### 2026-06-23 21:26:40  #MKT News
-
-Bank of Canada Governor Macklem warned that global imbalances are intensifying.
-
----
-
-### 2026-06-23 21:26:28  #央行 #國際
-
-加拿大央行行長麥克勒姆表示：在美國收縮對外經貿之際，加拿大與歐盟應深化自由貿易合作。
-
----
-
-### 2026-06-23 21:26:22  #MKT News #Macro & Rates #DXY #Impact bullish #XAUUSD #Impact bearish #EURUSD
-
-BOC says the US dollar's appeal could prolong imbalances.
-
----
-
-### 2026-06-23 21:26:18  #央行 #其他
-
-加拿大央行行長警示全球經濟失衡問題日趨嚴重。
-
----
-
-### 2026-06-23 21:26:08  #MKT News
-
-BOC Governor Macklem criticized the use of tariffs and competitive currency depreciation.
-
----
-
-### 2026-06-23 21:25:53  #國際
-
-伊朗總統與巴基斯坦總統扎爾達里舉行會談。
-
----
-
-### 2026-06-23 21:25:42  #MKT News
-
-Iranian President PEZESHKIAN held talks with Pakistan's president, state broadcaster IRIB said.
-
----
-
-### 2026-06-23 21:25:34  #央行 #其他
-
-加拿大央行行長麥克勒姆對全球加密貨幣監管缺失問題表達擔憂。
-
----
-
-### 2026-06-23 21:25:13  #央行 #其他
-
-加拿大央行：美元的吸引力可能導致失衡持續存在。
-
----
-
-### 2026-06-23 21:25:04  #其他
-
-【王浩在杭州調研專案建設時強調 抓專案 強創新 為高質量發展增添新動能】23日下午，浙江省委書記王浩在杭州調研專案建設並下訪接訪。他強調，專案建設是高質量發展的引擎和支撐。各地各部門要深入學習貫徹習近平總書記考察浙江重要講話精神特別是“4+1”重要要求，進一步樹牢“以專案看發展論英雄”理念，堅定不移抓專案、強創新，確保“時間過半、任務過半”，為推動取得“決定性進展”、率先呈現“生動圖景”提供堅實支撐。（浙江釋出）
-
----
-
-### 2026-06-23 21:24:32  #Trading Economics #Economy #Morocco #Interest Rate #Importance 1
-
-Morocco Keeps Policy Rate Unchanged at 2.25% — The National Bank of Morocco left its benchmark interest rate unchanged at 2.25% at its June 23, 2026 meeting, marking a fifth consecutive decision to hold rates steady, as policymakers weighed ongoing supply-chain disruptions against improving economic conditions. Annual inflation eased to 1.2% in May, down from over a year high of 1.7%. However, energy and fuel prices surged 27.6% year-on-year, while rising imported inflation is expected to exert additional upward pressure on domestic prices. Nevertheless, inflation is projected to average 1.5% in 2026 and 2.1% in 2027. Economic activity improved, supported by a recovery in agricultural output and consolidated growth in non-agricultural sectors. Looking ahead, economic growth is expected to remain robust at 5.2%, although slightly below its previous forecast of 5.6%. Future monetary policy decisions will depend on the evolution of inflation, economic growth, and geopolitical developments, which continue to pose risks to the outlook.
-
----
-
-### 2026-06-23 21:24:25  #MKT News #GBPUSD #Impact bearish #XAUUSD #Impact bullish
-
-Bank of England's policymaker Taylor said the Bank Rate can and should be cut in a favourable scenario.
-
----
-
-### 2026-06-23 21:24:19  #央行 #其他
-
-英國央行泰勒：在良性情景下，基準利率可以且應當下調。
-
----
-
-### 2026-06-23 21:23:45  #公司 #觀點
-
-【高盛股票業務二季度收入有望突破50億美元 再攀新高】據知情人士透露，高盛集團股票交易業務第二季度有望再創歷史新高，該業務收入有望突破50億美元。距離本季度結束尚有一週左右時間，高管預計該業務甚至可能超過第一季度報告的53億美元。若實現這一目標，該數字將輕鬆超過分析師平均預期的47.7億美元，並標誌著該行股票業務連續第三個季度創下行業紀錄。
-
----
-
-### 2026-06-23 21:23:30  #央行 #其他
-
-匈牙利央行行長：本次貨幣政策決定並非經全體一致透過。
-
----
-
-### 2026-06-23 21:22:35  #MKT News #Market Regions #Europe & UK #GBPUSD #Impact mixed #FTSE100 #Impact bearish
-
-Bank of England policymaker Taylor said the UK economy is weak and policy has become restrictive.
-
----
-
-### 2026-06-23 21:22:28  #焦點 #國際
-
-伊朗國家媒體表示，伊朗西部空域現已開放。
-
----
-
-### 2026-06-23 21:22:05  #MKT News #Market Regions #Europe & UK
-
-Bank of England Monetary Policy Committee member Taylor said maintaining the current policy stance is appropriate until the outlook becomes clearer.
-
----
-
-### 2026-06-23 21:21:46  #MKT News #Market Regions #Europe & UK #GBPUSD #Impact bearish
-
-Bank of England policymaker Taylor said the shock hit when the economy was "extremely weak".
-
----
-
-### 2026-06-23 21:21:44  #國際
-
-【中菲合作遣返四名涉綁架犯罪嫌疑人】6月19日，中國和菲律賓兩國執法部門合作抓獲遣返2名在菲從事博彩業並實施綁架犯罪的嫌疑人。6月22日，中菲雙方再次合作遣返2名參與2023年10月薄荷島綁架案的嫌疑人，該案受害人已由中菲警方合作解救。中方將繼續堅定打擊跨國犯罪，保護在菲中國公民生命財產安全。（中國駐菲律賓大使館）
-
----
-
-### 2026-06-23 21:21:42  #Trading Economics #Markets #Canada #Stock Market #Importance 1
-
-TSX Futures Dip on Tech Selloff — Futures tracking the S&P/TSX Composite Index fell on Tuesday, tracking global equities amid a selloff for tech companies in the US and risks of high interest rates. Concerns that the volume in speculative spending on AI by hyperscalers was not backed by fundamentals pressured North American tech stocks and lowered risk sentiment across equity markets. Shopify was set to open sharply lower. Gold prices also declined, weighing on mining shares to extend their pressure after the hawkish projections by the US Fed last week. Meanwhile, oil prices fell for a second straight session as supply concerns eased amid progress in restoring shipments through the Strait of Hormuz, reducing fears of energy-driven inflation but weighing on energy stocks.
-
----
-
-### 2026-06-23 21:21:39  #市場 #焦點
-
-PVC連續主力合約日內跌1%，現報4440.00元。
-
----
-
-### 2026-06-23 21:21:23  #MKT News #Commodities #Industrial Metals
-
-LME three-month tin fell 5% to $51,470 a tonne.
-
----
-
-### 2026-06-23 21:21:16  #央行 #其他
-
-英國央行泰勒：我們是在“經濟極度疲軟”的情況下遭遇此次衝擊的。
-
----
-
-### 2026-06-23 21:21:11  #MKT News #Market Regions #Europe & UK #GBPUSD #Impact bullish #FTSE100 #Impact bearish #DXY
-
-Bank of England MPC member Taylor said in a worst-case inflation scenario all options are on the table and the Bank of England will have to take necessary measures to defend the nominal anchor.
-
----
-
-### 2026-06-23 21:20:30  #MKT News #Market Regions #Europe & UK #GBPUSD #Impact bearish #DXY #Impact bullish #FTSE100
-
-Bank of England policymaker Taylor said if more easing room materializes as envisaged in the Bank's “A” scenario, policymakers may ultimately need to cut rates swiftly and could even take the Bank Rate below neutral for a period.
-
----
-
-### 2026-06-23 21:20:27  #市場
-
-倫敦金屬交易所三個月期錫下跌5%，至每噸51470美元。
-
----
-
-### 2026-06-23 21:20:02  #央行 #其他
-
-英國央行泰勒：在通脹最壞情景下，一切選項都在檯面上，英國央行將不得不採取一切必要措施捍衛名義錨。
-
----
-
-### 2026-06-23 21:19:53  #MKT News #WTI #Impact bearish #Brent
-
-【Iran says unfrozen assets can be used freely】In a Tehran press briefing on the 23rd, foreign ministry spokesman Baghaei said Iran will decide use of its unfrozen assets solely on national-interest grounds and that there are no restrictions on their use. He dismissed reports that the funds would be limited to purchases of specified goods, including US food, saying procurement will be made by agencies such as the agriculture ministry based on price and quality. Baghaei added a US-issued license for sales of Iranian crude, petrochemicals, refined products and related services took effect on the 22nd and the same principle applies to the released assets, which he said are now fully available to Iran for its priorities.
-
----
-
-### 2026-06-23 21:19:34  #央行 #其他
-
-英國央行（BOE）泰勒：如果像英國央行情景方案A所示經濟出現更多閒置產能，我們最終可能不得不迅速降息，甚至銀行利率在一段時間內會低於中性水平。
-
----
-
-### 2026-06-23 21:19:22  #Trading Economics #Economy #Mexico #Monthly GDP YoY #Importance 0
-
-Mexico Economic Activity Growth Beats Forecasts — Mexico’s economic activity rose 2.3% year-on-year in April 2026, beating forecasts of a 1.9% increase and accelerating from a 1.4% rise in March. The primary sector led growth, expanding 4.4%, as agricultural output increased 4.2% and livestock production rose 4.8%. The secondary sector grew 2.3%, supported by stronger construction activity (10.4%) and mining (3.4%). Meanwhile, the tertiary sector advanced 2.2%, with wholesale trade posting the strongest gain at 10.6%. On a month-over-month basis, economic activity rose 1.2%.
 
 ---
