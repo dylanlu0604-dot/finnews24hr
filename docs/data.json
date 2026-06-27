@@ -1,7 +1,49 @@
 {
-  "updated": "2026-06-27 21:44:13",
-  "count": 18151,
+  "updated": "2026-06-27 21:48:21",
+  "count": 18155,
   "items": [
+    {
+      "id": "4958458",
+      "time": "2026-06-27 21:47:30",
+      "tags": [
+        "其他"
+      ],
+      "text": "施納貝爾：和平協議降低了負面情景發生的可能性。"
+    },
+    {
+      "id": "4958457",
+      "time": "2026-06-27 21:47:17",
+      "tags": [
+        "其他"
+      ],
+      "text": "施納貝爾：不確定性依然很高。"
+    },
+    {
+      "id": "mkt:019f0955-73d6-7dd8-b142-65e71e5a821e",
+      "time": "2026-06-27 21:47:02",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Strong tremors were felt in Kabul, Afghanistan, and northern Pakistan."
+    },
+    {
+      "id": "4958453",
+      "time": "2026-06-27 21:47:01",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行管委施納貝爾：預計油價將持續高位。"
+    },
+    {
+      "id": "4958451",
+      "time": "2026-06-27 21:44:28",
+      "tags": [
+        "其他"
+      ],
+      "text": "德國地球科學研究中心（GFZ）訊息：阿富汗興都庫什地區發生5.94級地震。"
+    },
     {
       "id": "mkt:019f0950-bb33-7dd8-b142-5c3e60f6e29e",
       "time": "2026-06-27 21:41:53",
@@ -166070,14 +166112,6 @@
         "其他"
       ],
       "text": "【重慶釋出暴雨災害Ⅲ級預警】6月20日，重慶市氣象局釋出暴雨災害Ⅲ級預警，預計明天（21日）午後到後天（22日）夜間，重慶有新一輪強降雨，東南部將有暴雨到大暴雨。"
-    },
-    {
-      "id": "mkt:019ee546-ebb2-7dd8-b09f-c8c861765186",
-      "time": "2026-06-20 21:44:50",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Iran's foreign ministry spokesman said the negotiating team will depart for Switzerland in a few minutes, according to Mehr News Agency."
     }
   ]
 }
