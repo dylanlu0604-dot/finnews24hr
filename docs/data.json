@@ -1,7 +1,26 @@
 {
-  "updated": "2026-06-27 11:40:37",
-  "count": 18216,
+  "updated": "2026-06-27 11:44:43",
+  "count": 18217,
   "items": [
+    {
+      "id": "mkt:019f072c-4731-7dd8-b140-9109d56b9106",
+      "time": "2026-06-27 11:42:50",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "【UK June high-temperature record broken for third consecutive day】On June 26 the UK Met Office recorded 37.3C in Suffolk, the third consecutive day that the country’s June high-temperature record has been broken. The heatwave also produced record highs on June 24 and 25; the previous official June record was 35.6C, set in 1957 and 1976."
+    },
+    {
+      "id": "4958218",
+      "time": "2026-06-27 11:40:32",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【美國查封近400個盜播世界盃賽事域名】美國司法部官員26日說，美國查封了近400個非法直播世界盃賽事的網際網路域名。美國司法部說，被查封的域名是在國際足聯、美國全國廣播環球公司和華納兄弟公司等方面協助下確定，這些域名被用來非法向使用者提供受版權保護的內容，包括正在進行和首次播出的世界盃比賽實時影片內容。（新華社）"
+    },
     {
       "id": "4958216",
       "time": "2026-06-27 11:39:55",
@@ -166649,14 +166668,6 @@
         "MKT News"
       ],
       "text": "【Australia confirms first mainland detection of H5N1 highly pathogenic avian influenza】The Australian government confirmed on the 20th that H5N1 highly pathogenic avian influenza (HPAI) was detected in a migratory bird in Western Australia, the first confirmed detection of H5-type HPAI on the Australian mainland."
-    },
-    {
-      "id": "mkt:019ee320-6a89-7dd8-b09c-054cce6987ba",
-      "time": "2026-06-20 11:43:32",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Israeli Health Ministry said 13 Israeli soldiers were wounded in fighting in Lebanon, bringing total Israeli military casualties there to 932."
     }
   ]
 }
