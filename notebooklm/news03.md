@@ -1,7 +1,217 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-06-27 19:13:54_
-_本檔包含 3844 則快訊，約 673470 字_
+_更新時間：2026-06-27 20:07:25_
+_本檔包含 3849 則快訊，約 672973 字_
+
+---
+
+### 2026-06-25 02:21:58  #MKT News #Market Themes #The Trump Trade
+
+President Trump said he had a good meeting with lawmakers.
+
+---
+
+### 2026-06-25 02:21:52  #MKT News #Market Themes #AI Revolution
+
+【Senator Warren to call for antitrust scrutiny of AI and reform of M&A review】U.S. Senator Warren will urge Congress to strengthen antitrust enforcement for emerging technologies such as AI and reform M&A review rules to increase information transparency, according to her prepared remarks. She is expected to say: "Companies cannot escape antitrust scrutiny simply because they use algorithms. If a firm uses AI to illegally drive up rents during a national housing affordability crisis, we must push back."
+
+---
+
+### 2026-06-25 02:21:49  #國際
+
+特朗普：與國會議員的會面非常愉快。
+
+---
+
+### 2026-06-25 02:20:06  #Trading Economics #Markets #Commodity #Importance 1
+
+Metals Commodities Updates: Silver Slumps by 7.80% — Top commodity losers are Silver (-7.80%), Platinum (-5.80%), Copper (-3.23%) and Gold (-3.07%). Gains are led by Iron Ore CNY (0.74%).
+
+---
+
+### 2026-06-25 02:19:54  #MKT News #Important #Star Stocks #Alphabet #Market Themes #AI Revolution #Magnificent 7 #GOOG.O #Impact bearish
+
+Google (GOOG.O) slipped briefly after reports that two more AI employees may be leaving for ANTHROPIC.
+
+---
+
+### 2026-06-25 02:19:47  #公司
+
+巴西石油公司執行長：公司重啟投資，將深耕巴西本土市場。
+
+---
+
+### 2026-06-25 02:19:14  #公司 #市場
+
+谷歌股價迅速轉跌，下跌0.6%。
+
+---
+
+### 2026-06-25 02:18:56  #其他
+
+國際艾滋病疫苗倡議組織（IAVI）發言人：首款埃博拉候選疫苗預計將於2026年底前完成製備，可開展人體評估。
+
+---
+
+### 2026-06-25 02:18:49  #其他
+
+高通投資者日會議開幕。
+
+---
+
+### 2026-06-25 02:18:09  #公司 #焦點
+
+谷歌再有兩名人工智慧員工或將跳槽至Anthropic公司。
+
+---
+
+### 2026-06-25 02:16:53  #MKT News #Brent #Impact bearish #EURUSD #Impact mixed
+
+【ECB's Zigman: price stability is priority; oil decline eases task】ECB official Zigman said price stability is the ECB’s primary task and that falling oil prices are making that task relatively easier. Speaking in his first public appearance since becoming governor of the Croatian central bank this month, he said ECB rate hikes have signalled determination despite the risk of further slowing an already fragile regional economy. He added that geopolitical developments around the Strait of Hormuz have pushed oil prices down, which he said will have a positive effect on inflation.
+
+---
+
+### 2026-06-25 02:16:26  #國際
+
+俄羅斯總統普京視察最新國產飛機，並確認莫斯科已完全成功替代了西方制裁所涉及的外國飛機部件。
+
+---
+
+### 2026-06-25 02:15:06  #Trading Economics #Markets #Commodity #Importance 1
+
+Energy Commodities Updates: Brent Crude Oil Falls by 4.24% — Top commodity losers are Brent Crude Oil (-4.24%), Crude Oil WTI (-3.88%) and Methanol (-3.30%). Gains are led by Natural gas (1.90%).
+
+---
+
+### 2026-06-25 02:14:48  #MKT News #Market Themes #AI Revolution
+
+【Andreessen investor: Starship's rapid reusability could enable orbital AI data centers; SpaceX has shown capability】David George, partner at Andreessen Horowitz and a SpaceX investor, said Starship's rapid reusability is critical to Elon Musk's vision of expanding AI compute via orbital data centers. He said once Starship is operational, extending AI capacity to space would be inevitable as terrestrial data-center capacity becomes constrained, describing future satellites as "aircraft-sized GPU racks." George added orbital data centers would at minimum supplement ground facilities and could ultimately be economically superior, and that SpaceX has demonstrated the technical ability to deploy such systems.
+
+---
+
+### 2026-06-25 02:12:58  #其他 #焦點
+
+特斯拉跌幅擴大至2%。
+
+---
+
+### 2026-06-25 02:12:48  #MKT News #Macro & Rates #The Fed (FOMC)
+
+【Fed finalizes reorganization of bank supervision unit】Federal Reserve Vice Chair for Supervision Michelle Bowman has completed a reorganization of the Fed’s bank supervision function to concentrate resources on what she describes as key financial risks, Bowman said in a memo to staff. The restructuring, effective July 12, reallocates personnel and resources into four functional groups—Supervision; Financial Research, Risk & Applications; Regulation & Policy; and Business Enablement—and the division will begin recruiting leaders and staff.
+
+---
+
+### 2026-06-25 02:11:29  #國際
+
+美國參議員沃倫計劃敦促國會加大對人工智慧等新興技術領域的反壟斷執法力度，並修訂併購相關法律，要求公開更多交易資訊。
+
+---
+
+### 2026-06-25 02:08:23  #國際
+
+路透社調查顯示，美國能源資訊署（EIA）週四釋出的報告預計，上週美國天然氣庫存增加740億立方英尺。
+
+---
+
+### 2026-06-25 02:06:05  #公司
+
+巴西國家石油公司：布齊奧斯油田日產量達110萬桶。
+
+---
+
+### 2026-06-25 02:05:14  #國際
+
+美國國家運輸安全委員會：將在30天內初步形成特斯拉撞車事故的初步調查報告。
+
+---
+
+### 2026-06-25 02:04:28  #MKT News #Important #Commodities #Precious Metals #XAUUSD #Impact bearish
+
+Spot gold fell below $3,960/oz, down 3.64% intraday.
+
+---
+
+### 2026-06-25 02:04:17  #MKT News
+
+Fed Vice Chair for Supervision Michelle Bowman has completed a personnel reshuffle of the Fed's bank regulatory division.
+
+---
+
+### 2026-06-25 02:04:16  #市場 #焦點
+
+現貨黃金失守3960美元/盎司，日內跌3.66%。
+
+---
+
+### 2026-06-25 02:03:51  #央行 #國際
+
+美聯儲負責監管事務的副主席米歇爾·鮑曼完成了美聯儲銀行監管部門的大規模人事調整，此舉旨在將她認定的核心金融風險列為監管工作重中之重。
+
+---
+
+### 2026-06-25 02:03:31  #市場
+
+現貨白銀日內跌9%，現報55.81美元/盎司。
+
+---
+
+### 2026-06-25 02:03:30  #市場
+
+紐約期銀日內跌10%，現報56.25美元/盎司。
+
+---
+
+### 2026-06-25 02:03:29  #市場
+
+鈀金期貨日內跌7%，現報1156.55美元/盎司。
+
+---
+
+### 2026-06-25 02:03:27  #市場 #焦點
+
+紐約期金失守3980美元/盎司，日內跌4.11%。
+
+---
+
+### 2026-06-25 02:03:02  #MKT News #Important #Commodities #Precious Metals
+
+Spot silver fell below $56/oz for the first time since November last year, sliding about 9% intraday.
+
+---
+
+### 2026-06-25 02:02:56  #市場 #焦點
+
+現貨白銀失守56美元/盎司，日內跌8.97%。
+
+---
+
+### 2026-06-25 02:02:35  #其他 #焦點
+
+OpenAI：推出全新版本GPT-5.5 Instant，對話體驗趣味感大幅提升。這款平臺使用量最高的模型如今能更精準讀懂提問背後的真實意圖，並據此靈活調整回答內容。同時它處理複雜限定條件時穩定性更強，給出的購物、本地生活推薦也更實用、邏輯更連貫。今日起向付費使用者推送上線，明日開放給免費使用者使用。
+
+---
+
+### 2026-06-25 02:01:31  #公司
+
+索尼影視：將收購COSM少數股權，執行長拉維·阿胡賈將加入COSM董事會。
+
+---
+
+### 2026-06-25 02:01:29  #MKT News #Important #Commodities #Precious Metals
+
+Spot silver hit its lowest level since last November, trading at $56.17/oz, down more than 8% intraday.
+
+---
+
+### 2026-06-25 02:01:08  #其他
+
+索尼影業向巨幕初創企業COSM投資1億美元。
+
+---
+
+### 2026-06-25 02:00:52  #國際
+
+美國國家運輸安全委員會將在特斯拉事故調查中重點核查駕駛員操作狀態與自動駕駛系統技術狀況。
 
 ---
 
@@ -23000,185 +23210,5 @@ ECB Vice‑President VUJCIC said inf expectations remain stable over the long te
 ### 2026-06-23 22:14:31  #MKT News #Market Themes #AI Revolution #Magnificent 7 #Star Stocks #Microsoft #MSFT.O #Impact bullish
 
 【Microsoft completes first Wisconsin data center, facility fully operational】Microsoft said on Tuesday its first data center in Mount Pleasant, Wisconsin — the Fairwater campus — is complete and fully operational. Equipment went online and commissioning finished in April; construction was announced in May 2024. Nearly 10,000 construction workers participated over the past two years and the project finished ahead of schedule. The site currently has about 550 full‑time employees supporting operations; Microsoft and its contractors are actively recruiting and expect headcount to rise. Microsoft said the Fairwater campus will provide compute capacity for next‑generation AI and represents a key investment milestone in southeastern Wisconsin.
-
----
-
-### 2026-06-23 22:13:34  #公司
-
-德國商業銀行：我們確認，機構和散戶投資者僅貢獻了約1%的投標股份。
-
----
-
-### 2026-06-23 22:13:13  #國際
-
-市場訊息：美國新增數十個實體至制裁名單。
-
----
-
-### 2026-06-23 22:13:02  #宏觀 #國際
-
-美國財政部發布美英制裁製度相關操作指引。
-
----
-
-### 2026-06-23 22:12:43  #MKT News
-
-U.S. adds dozens of entities to its sanctions list.
-
----
-
-### 2026-06-23 22:12:18  #國際
-
-【伊朗代表：霍爾木茲海峽已免費開放】伊朗常駐聯合國日內瓦辦事處代表阿里·巴赫雷尼23日表示，霍爾木茲海峽已對商船完全開放，且不收取任何費用。巴赫雷尼當天就伊朗和美國談判情況回答聯合國日內瓦記者協會的提問時說，霍爾木茲海峽現已開放，為期60天，其間不會收取任何費用。此外，伊美雙方決定就此問題建立溝通機制，以監控和解決可能出現的任何問題。60天后，海峽開放的具體情況將由伊美之間的談判結果決定。伊美談判代表22日在瑞士比爾根山結束了關於落實雙方上週簽署的諒解備忘錄的首輪會談。（新華社）
-
----
-
-### 2026-06-23 22:12:01  #其他
-
-量子計算概念股普漲，Infleqtion漲逾14%，SEALSQ漲逾8%，D-Wave Quantum漲逾7%，Quantum Computing漲近5%，Rigetti Computing、IBM、IonQ Inc漲逾4% 。
-
----
-
-### 2026-06-23 22:11:30  #國際
-
-【中菲合作遣返4名涉綁架犯罪嫌疑人】中國駐菲律賓大使館23日釋出訊息，中菲兩國執法部門19日合作抓獲遣返兩名在菲從事博彩業並實施綁架犯罪的嫌疑人，於22日再次合作遣返兩名參與2023年10月薄荷島綁架案的嫌疑人，該案受害人已由中菲警方合作解救。中國駐菲使館表示，中方將繼續堅定打擊跨國犯罪，保護在菲中國公民生命財產安全。（新華社）
-
----
-
-### 2026-06-23 22:11:21  #MKT News
-
-US Treasury posted on its website a list of designated transnational criminal organizations.
-
----
-
-### 2026-06-23 22:11:00  #宏觀 #國際
-
-美國財政部網：美國對跨國犯罪組織實施制裁認定。
-
----
-
-### 2026-06-23 22:10:37  #MKT News #Important
-
-U.S. Treasury website: the United States has announced sanctions targeting Cuba.
-
----
-
-### 2026-06-23 22:10:24  #宏觀 #焦點 #國際
-
-美國財政部官網：美國發布對古巴相關制裁。
-
----
-
-### 2026-06-23 22:09:27  #國際
-
-官方資料顯示，截至6月21日，歐盟2025/26年度棕櫚油進口量為278萬噸，去年同期為295萬噸。
-
----
-
-### 2026-06-23 22:09:22  #MKT News #Star Stocks #MSFT.O #Impact bullish
-
-Microsoft (MSFT.O) expects to spend $4.7 bln in Wisconsin between 2024 and 2028.
-
----
-
-### 2026-06-23 22:09:19  #國際
-
-官方資料顯示，截至6月21日，歐盟2025/26年度豆粕進口量為1847萬噸，去年同期為1898萬噸。
-
----
-
-### 2026-06-23 22:09:10  #國際
-
-官方資料顯示，截至6月21日，歐盟2025/26年度油菜籽進口量為517萬噸，去年同期為739萬噸。
-
----
-
-### 2026-06-23 22:08:48  #國際
-
-官方資料顯示，截至6月21日，歐盟2025/26年度大豆進口量為1370萬噸，去年同期為1426萬噸。
-
----
-
-### 2026-06-23 22:08:39  #公司 #國際
-
-濱化集團股份有限公司向港交所提交上市申請書，聯席保薦人為華泰國際、建銀國際。
-
----
-
-### 2026-06-23 22:08:32  #MKT News #Important #Star Stocks #Microsoft #Market Themes #Magnificent 7 #MSFT.O #Impact bullish
-
-Microsoft (MSFT.O) said construction is complete on its first data center in Mount Pleasant, Wisconsin, US.
-
----
-
-### 2026-06-23 22:07:40  #央行 #觀點
-
-【高盛：巴西央行預計將交替進行降息和按兵不動】高盛的Alberto Ramos寫道，巴西央行可能會交替暫停降息和下調其基準Selic利率。巴西央行上週將Selic利率從14.5%下調至14.25%，並且對其下一步行動尚不明確。在面臨粘性通脹和經濟放緩風險之際，會議紀要讓人們對該央行的想法有了一些瞭解。Ramos說，間歇性降息“將導致產出波動更溫和，通脹在2028年第一季度收斂於目標水平“。他說：“總體而言，在增長與通脹的短期權衡中，Copom更傾向於保護經濟活動，而不是採取更激進的以通脹為重點的策略。”
-
----
-
-### 2026-06-23 22:07:23  #其他
-
-微軟預估2024至2028年間將在威斯康星州投入47億美元。
-
----
-
-### 2026-06-23 22:06:54  #宏觀
-
-【何立峰在河南調研時指出 加快完善產業創新體系 持續推動外貿穩規模優結構】中共中央政治局委員、國務院副總理何立峰6月21日至23日在河南調研。何立峰指出，要深入學習貫徹習近平總書記在河南考察時的重要講話精神，認真落實黨中央、國務院決策部署，加快完善產業創新體系，持續推動外貿穩規模優結構，進一步鞏固經濟穩中向好基礎。何立峰先後到河南安陽、新鄉等地，深入瞭解相關製造企業、科技企業和消費類企業的生產經營、技術創新、外貿出口等情況。何立峰指出，要加強產學研合作，更好促進科研成果高效轉化應用，推動科技創新與產業創新深度融合，加力賦能傳統產業煥新升級。要充分發揮我國產業、市場、技術等方面的優勢，深化國際規則標準對接，有效應對外部不確定性，促進貨物貿易與服務貿易融合發展，持續推動外貿提質增效。要進一步豐富消費場景，提高產品和服務質量，增強居民消費意願，更好滿足群眾高品質生活需求。要有效防範化解重點領域風險，有力有序推進地方融資平臺退出和改革轉型，持續推動地方中小金融機構改革化險，著力穩定房地產市場。（新華社）
-
----
-
-### 2026-06-23 22:05:56  #其他
-
-【SpaceX漲超2%】SpaceX漲超2%，報158美元/股，總市值報2.06萬億美元。
-
----
-
-### 2026-06-23 22:05:48  #其他
-
-微軟已完成在威斯康星州建造資料中心的工程。
-
----
-
-### 2026-06-23 22:05:20  #國際
-
-【美國銀行研究顯示：自2023年以來首次，美國消費者更傾向於購房而非租房】根據美國銀行最新的購房者洞察報告，目前大多數美國消費者表示，他們更傾向於買房，而不是租房或與親屬同住。這是自2023年以來，購房意願首次超越租房意願。調查顯示，潛在購房者似乎不再願意等待市場條件好轉，Z世代和千禧一代引領了這一態度的轉變。在美國銀行這項涵蓋2000名受訪者的調查中，53%的人現在傾向於購房，而47%的人傾向於租房或與親屬同住。這一結果表明，儘管高昂的抵押貸款利率、居高不下的房價以及有限的房屋供應量繼續給市場帶來壓力，但消費者對購房的態度正在改善。
-
----
-
-### 2026-06-23 22:05:18  #其他
-
-網信廣東： 截至6月23日，廣東省新增21款已完成備案的生成式人工智慧服務，累計已完成164款生成式人工智慧服務備案。
-
----
-
-### 2026-06-23 22:05:12  #其他
-
-美股太空概念股多數反彈，AST SpaceMobile 漲近6%，Momentus漲超3%，SpaceX漲2.4%，Rocket Lab、Redwire漲超1%。
-
----
-
-### 2026-06-23 22:04:31  #MKT News #Important #Market Regions #Greater China #Copper #Impact bullish #CSI300 #CNH #Impact mixed
-
-【Report: 2025 central final accounts broadly sound; fiscal policy more active】China presented its 2025 central government final accounts to the NPC Standing Committee, saying fiscal performance was broadly sound and fiscal policy more active to stabilise growth. Central general public budget revenue was 9.40 tln yuan, 96.9% of budget; including related transfers total revenue was 9.74 tln yuan. Central general public budget expenditure was 14.49 tln yuan, 98.2% of budget; with a supplement from the central budget stabilization fund total spending was 14.60 tln yuan. Through end‑May Beijing issued 6.41 tln yuan of sovereign bonds and 1.83 tln yuan of new local government bonds; central-to-local transfer payments of 9.21 tln yuan have been allocated. Authorities said fiscal receipts and outlays were broadly stable through May with key areas funded, and pledged targeted, more active fiscal measures, tighter budget execution, optimized spending structure, steps to boost domestic demand, support livelihoods and stabilise local finances.
-
----
-
-### 2026-06-23 22:04:20  #國際
-
-市場訊息：歐盟將於歐洲中部時間今日下午5點30分（北京時間23:30）公佈7月至12月的資金計劃。
-
----
-
-### 2026-06-23 22:04:19  #MKT News #Market Regions #Europe & UK
-
-EU to publish July–December funding plan at 17:30 CET today (23:30 Beijing time).
-
----
-
-### 2026-06-23 22:04:11  #Trading Economics #Economy #United States #Richmond Fed Services Index #Importance 1
-
-Richmond Fed Services Index Weakens — The Richmond Fed Fifth District Service Sector Survey was flat in June 2026, with the revenues index falling to -1 from 14 and the demand index declining to 3 from 15. Local business conditions also weakened, with the index dropping to -9 from 0 in May. Despite softer current activity, expectations remained resilient, as the indexes for future revenues and demand stayed firmly in positive territory. The future local business conditions index rose to 15. Labor market conditions improved, with the current employment index increasing to 8 from -1, while the forward-looking employment index held steady at 24. Both current and expected wages remained firmly positive. On prices, firms reported slightly faster growth in prices paid, while price growth received was little changed. Over the next 12 months, businesses expect slower growth in input costs and a slight pickup in prices received.
 
 ---

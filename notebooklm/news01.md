@@ -1,7 +1,127 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-06-27 19:13:54_
-_本檔包含 3442 則快訊，約 673827 字_
+_更新時間：2026-06-27 20:07:25_
+_本檔包含 3444 則快訊，約 672968 字_
+
+---
+
+### 2026-06-27 20:00:08  #MKT News
+
+【Europe's oldest operating nuclear plant Beznau taken offline after cooling river water warmed, Axpo says】Axpo said on the 26th local time the Beznau nuclear plant in northern Switzerland was taken offline after river water used to cool the reactor became too warm amid high temperatures.
+
+---
+
+### 2026-06-27 20:00:02  #市場 #焦點
+
+本週大盤主力資金累計淨流入-3398.08億元，證券Ⅱ、醫療服務板塊淨流入居前，個股惠科股份淨流入最多。
+
+---
+
+### 2026-06-27 19:59:38  #公司 #國際
+
+【歐洲現役最老核電站因高溫暫停執行】由於高溫天氣導致用於冷卻核反應堆的河水溫度過高，瑞士能源企業阿克斯波公司當地時間26日說，位於瑞士北部的貝茲瑙核電站已於當天暫停執行。這座核電站是歐洲現役最老的核電站。（央視新聞）
+
+---
+
+### 2026-06-27 19:56:00  #公司 #其他
+
+【九方智投AI股票機與宇樹、智元機器人同臺亮相 2026AI智慧體驗嘉年華】6月27日，由新華網與陸家嘴中心聯合主辦的2026AI智慧體驗嘉年華在上海陸家嘴中心L+MALL啟幕。展區覆蓋三、五兩層，九方智投AI股票機以首家線下快閃店形式亮相五層，與宇樹科技U2、智元靈犀X2、遠征A2、松延動力等機器人品牌同臺展示。本次嘉年華是響應國家"打造智慧經濟新形態"戰略、落實上海"人工智慧高地"建設的落地實踐，既是一場前沿科技的集中展示，更是一次面向公眾的AI科普體驗。九方智投AI股票機快閃店設產品體驗、電商直播、使用者互動三大板塊，現場配扭蛋機抽獎，活動橫跨整個暑期，觀眾均可到場親身體驗"新一代股票投資助手"。
+
+---
+
+### 2026-06-27 19:54:32  #其他
+
+【翔宇醫療多角度頸腰椎牽引治療機獲國家醫療器械註冊證】據翔宇醫療訊息，翔宇醫療多角度頸腰椎牽引治療機獲國家醫療器械註冊證。
+
+---
+
+### 2026-06-27 19:52:04  #公司
+
+【陝西省委書記、省長和王傳福座談】6月26日，陝西省委書記趙一德、省長趙剛在西安與比亞迪股份有限公司董事長王傳福一行座談。趙一德代表省委和省政府對王傳福一行來陝表示歡迎，向比亞迪長期以來給予陝西經濟社會發展的支援表示感謝。他說，陝西與比亞迪具有深厚淵源和堅實合作基礎，希望比亞迪一如既往支援陝西、投資陝西、紮根陝西，進一步發揮行業龍頭作用，在整車生產、高階製造、技術研發等方面加大布局力度，協同推動新能源汽車產業再創新優勢，為陝西高質量發展現代化建設增勢賦能。我們將持續營造一流營商環境，為企業在陝發展創造良好條件、提供優質服務。
+
+---
+
+### 2026-06-27 19:46:52  #宏觀 #焦點
+
+【6月27日《新聞聯播》主要內容】今天《新聞聯播》主要內容有：1.【偉大征程】以高質量發展引領中國經濟航船破浪前行； 2.【樹立和踐行正確政績觀】促發展 惠民生 各地推動學習教育見行見效； 3.傳承紅色基因 各地紅色旅遊升溫； 4.【黨旗在基層一線高高飄揚】築牢基層戰鬥堡壘 建設幸福和美鄉村； 5.中國音樂家協會第十次全國代表大會、中國舞蹈家協會第十二次全國代表大會、中國雜技家協會第九次全國代表大會在北京召開； 6.今年前5個月工業企業利潤實現較快增長； 7.夏糧收購陸續展開 質優價穩購銷兩旺； 8.國內聯播快訊： （1）今年5月全國空氣質量顯著改善； （2）美麗中國建設全民行動促進計劃出臺； （3）我國核聚變堆超導磁體研製取得新突破； （4）西康高鐵進入聯調聯試階段； （5）“全球南方”電力企業釋出合作發展倡議； （6）我國首條民營控股高鐵累計客流突破1億人次； （7）第31屆上海電視節“白玉蘭綻放”頒獎典禮舉行； 9.中方：絕不允許“新型軍國主義”成勢為患； 10.委內瑞拉強震遇難人數升至920人； 11.美稱對伊朗目標實施打擊 伊朗稱已回擊 黎以美達成三方框架協議； 12.國際聯播快訊： （1）歐盟稱將果斷回應美加徵關稅威脅； （2）布吉納法索政府宣佈與法國斷交； （3）日本本州島發生5.1級地震； （4）美國猶他州因林火蔓延進入緊急狀態； （5）專家稱瑞士冰川加快消融。
+
+---
+
+### 2026-06-27 19:45:35  #國際
+
+據巴基斯坦Aaj News報道，巴基斯坦總理夏巴茲將於7月3日前往伊朗，參加已故最高領袖哈梅內伊的葬禮。他還將率領高階代表團會見伊朗高階官員。（塔斯尼姆通訊社）
+
+---
+
+### 2026-06-27 19:41:10  #國際
+
+【伊朗媒體稱有更多船隻申請透過霍爾木茲海峽】據伊朗伊斯蘭共和國廣播電視臺27日報道，從當地時間當日早上開始，有更多船隻提交透過霍爾木茲海峽的申請，“這是伊朗伊斯蘭革命衛隊海軍實力的體現”。伊朗波斯灣海峽管理局26日在社交媒體釋出公告稱，所有透過霍爾木茲海峽的船舶須按照規定的航線和程式通行，擅自駛離指定航線的船舶將不享有安全保障及相關保險保障。（新華社）
+
+---
+
+### 2026-06-27 19:38:07  #其他
+
+【“隴電入浙”配套專案換流站750千伏接入工程進入架線階段】今天（6月27日），作為“隴電入浙”配套專案的換流站750千伏接入工程進入架線施工階段。據瞭解，該工程承擔著“隴電入浙”工程武威±800千伏換流站備用電源保障任務，線路總長度73千米，共計新建鐵塔157基，是國家依託沙、戈、荒資源佈局大型風光電基地的重點戰略工程。（央視新聞）
+
+---
+
+### 2026-06-27 19:36:31  #國際
+
+【伊朗官員表示將有力回應違反諒解備忘錄行為】伊朗最高領袖軍事顧問穆赫辛·雷扎伊27日在社交媒體上發文稱，伊美諒解備忘錄任何條款遭到違反，都將招致伊朗“迅速而有力”的回應。雷扎伊表示，美國支援其在地區的“代理力量”採取行動，違反了伊美諒解備忘錄第一條款；在霍爾木茲海峽製造緊張局勢則違反了備忘錄中的第五條款。（新華社）
+
+---
+
+### 2026-06-27 19:28:14  #國際
+
+據伊朗國家電視臺：伊朗關於霍爾木茲海峽的通行指令仍在執行中。所有船隻進出海峽必須與革命衛隊海軍進行聯絡和協調。
+
+---
+
+### 2026-06-27 19:28:00  #MKT News #WTI #Impact bullish #Brent #XAUUSD
+
+Iranian state television reports Iran’s transit directive for the Strait of Hormuz remains in effect; all vessels transiting the strait must contact and coordinate with the Islamic Revolutionary Guard Corps Navy (IRGC Navy).
+
+---
+
+### 2026-06-27 19:22:34  #MKT News #Market Regions #Greater China #CSI300 #Impact bearish #SSE Composite
+
+【Next week A-share lock-up expiries exceed 100 bln yuan; 16 stocks unlock >10%】June 29–July 3: 51 A-share issuers face restricted-share unlocks totaling about 106.23 bln yuan. Fourteen stocks have unlock value above 1 bln yuan. Sixteen stocks see unlock ratios above 10%; Tongli Technology leads at 75%, while Shichuang Energy, Leisi Information, Huafeng Technology and Ruixing each exceed 50%. Those five are IPO original-shareholder lock-up releases.
+
+---
+
+### 2026-06-27 19:21:10  #其他
+
+【2025年人口增長10強城市出爐】隨著各地陸續釋出去年的常住人口資料，2025年常住人口增量十強城市出爐。前十強為深圳、東莞、廣州、長沙、濟南、佛山、中山、惠州、杭州、青島。 去年常住人口增量前10城市的人口增量均超過了7萬人。其中5個城市去年常住人口增量超過10萬人，分別是深圳、東莞、廣州、長沙和濟南，前三名均在珠三角。資料顯示，深圳去年全市年末常住人口1824.85萬人，比上年末增加25.90萬人，人口增量在各大城市中領跑。（一財）
+
+---
+
+### 2026-06-27 19:20:21  #公司
+
+【上海電氣與土耳其EREN集團共商歐亞能源轉型新機遇】據上海電氣訊息，當地時間6月25日上午，上海電氣集團黨委書記、董事長吳磊與土耳其EREN集團創始人艾哈邁德·艾倫舉行會談。雙方圍繞土耳其能源現狀和未來規劃、歐亞能源轉型發展機遇等議題進行深入交流，並就下一階段深化協同達成共識。
+
+---
+
+### 2026-06-27 19:17:41  #宏觀
+
+【王小洪在吉林調研時強調 強化創新驅動 豐富政策供給 助力推動新時代東北全面振興】中共中央書記處書記、國務委員王小洪25日至26日在吉林調研。他強調，要深入學習貫徹習近平總書記重要指示精神，全面落實黨中央、國務院決策部署，把握大勢、搶抓機遇，強化創新驅動，豐富政策供給，因地制宜發展新質生產力，加快構建現代化產業體系，在高質量發展上邁出堅實步伐，助力推動新時代東北全面振興。王小洪先後來到長春市、吉林市，深入有關企業、廠區等，詳細瞭解企業生產經營、新技術新材料研發應用等情況。他強調，要把發展經濟的著力點放在實體經濟上，聚焦汽車、石化和新能源、新材料、新醫藥等重點領域，最佳化產業佈局，持續推動傳統產業改造升級，著力開闢戰略性新興產業、未來產業新賽道，鞏固壯大實體經濟根基。要強化企業創新主體地位，注重激發各類創新主體活力，全面加強基礎研究，在突破關鍵核心技術、前沿技術上抓緊攻關，同步加大智慧財產權保護力度，有效提升自主創新能力。要健全規範涉企執法長效機制，依法平等保護各類經營主體合法權益，打造高效助企服務平臺，持續最佳化營商環境。要牢記發展是硬道理、安全也是硬道理，採取更多硬招實招，全面深入排查整治各類安全風險隱患，切實築牢高質量發展的安全屏障。（新華社）
+
+---
+
+### 2026-06-27 19:17:02  #公司
+
+【下週A股解禁市值逾1000億元 16股解禁比例逾10%】據統計，下週（6月29日至7月3日），A股將有51家上市公司迎來限售股解禁。以個股最新價計算，51家上市公司解禁股對應市值合計約1062.3億元。從解禁規模來看，14股解禁市值超過10億元。華豐科技、榮昌生物、芯動聯科解禁市值排名前三，依次為404.35億元、217.85億元、96.46億元；翱捷科技-U、萊斯資訊、安迪蘇隨後，均超過30億元。從型別來看，除安迪蘇為定向增發機構配售股份，其餘5股均為首發原股東限售股份。相較於市值規模，解禁比例（解禁股數量佔總股本比例）更能反映出解禁對於個股股價的衝擊。在上述51股中，16股解禁比例高於10%。通力科技解禁比例居首，為75%；時創能源、萊斯資訊、華豐科技、瑞星股份解禁比例隨後，均高於50%。上述5股均為首發原股東限售股份。
+
+---
+
+### 2026-06-27 19:16:41  #國際
+
+阿聯酋歡迎在美國主持和支援下，就黎巴嫩問題達成三方框架協議。
+
+---
+
+### 2026-06-27 19:14:53  #國際
+
+阿聯酋外交部重申支援黎巴嫩政府限制武器和解散恐怖主義組織的努力。
 
 ---
 
@@ -20706,113 +20826,5 @@ FX Updates: Brazilian Real Appreciates by 0.65% — Top currency gainers are Bra
 ### 2026-06-26 06:14:27  #央行 #公司
 
 【隔夜逆回購操作在即 央行多維發力呵護年中流動性】中國人民銀行6月25日釋出公告稱，將在6月29日、6月30日公開市場操作中增加隔夜逆回購操作品種。同日，央行開展5000億元MLF操作與3705億元7天期逆回購操作，實現淨投放3225億元。專家表示，增加隔夜逆回購操作品種以及淨投放7天期逆回購，將有助於更好匹配銀行體系短期流動性需求。同時，加量續做當月MLF將有效滿足金融機構較長期限資金需求，支援政府債券順利發行及銀行加大信貸投放力度。（中證報）
-
----
-
-### 2026-06-26 06:13:56  #資料
-
-【物價溫和回升 供需迴圈改善訊號清晰 】今年上半年，國內物價走出持續低位格局，呈現CPI溫和抬升、PPI同比轉正的結構性修復態勢，供需迴圈改善訊號清晰。專家表示，展望下半年，物價整體將維持在溫和區間。當前，“PPI—CPI”剪刀差進一步走闊，後續財政政策、貨幣政策、保供穩價政策仍需協同發力，暢通產業鏈價格傳導，以修復市場預期，促進經濟正向迴圈。（中證報）
-
----
-
-### 2026-06-26 06:09:04  #市場
-
-紐約期銀日內跌1%，現報58.16美元/盎司。
-
----
-
-### 2026-06-26 06:00:40  #市場 #焦點
-
-現貨黃金突破4030美元/盎司，日內漲0.07%。
-
----
-
-### 2026-06-26 06:00:17  #央行 #國際
-
-【美聯儲7月維持利率不變的機率為69%】據CME“美聯儲觀察”：美聯儲7月維持利率不變的機率為69%，累計加息25個基點的機率為31%。 美聯儲到9月維持利率不變的機率為36.6%，累計加息25個基點的機率為48.8%，累計加息50個基點的機率為14.6%。
-
----
-
-### 2026-06-26 05:55:21  #MKT News
-
-The Trump administration on Wednesday notified Congress of a planned sale of $700 mln in jet engines to Turkey.
-
----
-
-### 2026-06-26 05:55:00  #國際
-
-市場訊息：特朗普政府週三通知國會，擬向土耳其出售價值 7 億美元的航空發動機。
-
----
-
-### 2026-06-26 05:53:53  #其他
-
-【2名中國公民在委內瑞拉地震中遇難】據中國駐委內瑞拉大使館公佈的訊息，截至當地時間25日16時，據不完全統計，已確認有2名中國公民在“6·24地震”中遇難。（新華社）
-
----
-
-### 2026-06-26 05:52:41  #公司 #國際
-
-【報道：美國政府要求OpenAI分階段釋出最新模型GPT 5.6】據知情人士透露，在美國總統特朗普的政府提出要求後，OpenAI將分階段釋出其最新人工智慧模型GPT 5.6。OpenAI執行長Sam Altman週三在員工問答會上講話，這和一份備忘錄透露出以上資訊。OpenAI將首先向少數合作伙伴釋出GPT 5.6有限預覽，Altman表示，這是儘快廣泛釋出該模型的最佳路徑。 Altman在週四的一份備忘錄中告訴員工，在GPT 5.6預覽期間，政府將“逐個客戶批准訪問許可權”。Altman在備忘錄中稱：“我們已向美國政府明確表示，這不是我們偏好的長期模式，並將與政府和業內合作，為未來的產品釋出尋求更可持續的方案。”分階段釋出的要求源於OpenAI與美國國家網路總監辦公室以及白宮科技政策辦公室的溝通。
-
----
-
-### 2026-06-26 05:52:35  #Trading Economics #Markets #Brazil #Currency #Importance 1
-
-BRL Gains In Late June — The Brazilian real traded near 5.17 per USD in June, strengthening slightly toward the end of the month amid a broader pullback in the US dollar. Softer-than-expected US PCE data eased concerns over additional Federal Reserve tightening, pushing Treasury yields lower and weighing on the dollar against major and emerging market currencies. In Brazil, the BCB’s updated Monetary Policy Report raised the probability of inflation breaching the upper bound of the target range, despite June’s softer-than-expected mid-month inflation reading. Still, the interest rate differential remained supportive for the real, with Brazil’s benchmark Selic at 14.25% compared with the US policy range of 3.50%-3.75%. That wide spread has continued to attract foreign inflows and provide support to the Brazilian currency.
-
----
-
-### 2026-06-26 05:32:05  #MKT News #Market Regions #Japan & APAC #USDJPY #Impact bullish #Nikkei 225
-
-【Japan to propose higher defense spending based on ruling party proposals】On the 24th, Prime Minister Takaichi accepted proposals from the ruling LDP and Nippon Ishin to revise Japan’s three security documents. The government plans a formal cabinet revision by year-end and, following LDP guidance, will propose raising defense spending. The LDP offered no explicit target but asked officials to study NATO peers that aim for about 3.5% of GDP. Nippon Ishin called for defense spending above 2% of GDP by FY2026 and urged a realistic review of the Three Non‑Nuclear Principles’ no‑introduction clause, pressing for the prompt acquisition of nuclear submarines.
-
----
-
-### 2026-06-26 05:23:18  #Trading Economics #Economy #Paraguay #Producer Prices Change #Importance 0
-
-Paraguay Producer Prices Extend Decline — Paraguay’s Producer Price Index fell 1.5% year-on-year in May 2026, following a 1.0% decline in April and marking the fourth consecutive month of producer deflation. Imported products remained the main source of downward pressure, particularly in categories such as metal products, machinery and equipment, food, beverages and tobacco, textiles and leather goods, and non-metallic transportable goods. This contrasted with the positive contribution from domestic products, which helped limit the overall decline, supported by stronger price growth in domestic food, beverages and tobacco, textiles and leather products, live animals and animal products, and non-metallic transportable goods.
-
----
-
-### 2026-06-26 05:20:53  #MKT News
-
-Axios reported House Speaker Johnson said he will submit a housing bill to the White House after meeting with Trump.
-
----
-
-### 2026-06-26 05:20:50  #宏觀 #國際
-
-美國國務院批准擬向澳大利亞出售 F/A-18F 超級大黃蜂戰機、EA-18G 咆哮者電子戰機配套訓練裝置及相關裝備，交易價值 2.5 億美元。
-
----
-
-### 2026-06-26 05:20:29  #MKT News
-
-U.S. State Department approved a $250 million sale to Australia of training services and related equipment for F/A-18F Super Hornet and EA-18G Growler aircraft.
-
----
-
-### 2026-06-26 05:20:26  #其他
-
-標普：確認巴西主權信用評級為 BB/B，評級展望維持穩定。
-
----
-
-### 2026-06-26 05:19:58  #國際
-
-美國眾議院議長約翰遜： 在與特朗普會面後，將把住房法案送至白宮。
-
----
-
-### 2026-06-26 05:19:23  #MKT News
-
-【PENTAGON updates targeting guidance to allow AI-initiated actions under human supervision】PENTAGON quietly revised US military targeting guidance in April, approving language that envisions "systems where AI, under human supervision, can initiate actions," a shift from the current human-in-the-loop requirement that actions be initiated by humans. The revision underscores the Pentagon's push to accelerate AI adoption; rapid advances in AI capabilities also introduce new threats and ethical and legal dilemmas that could complicate compliance with the law of armed conflict.
-
----
-
-### 2026-06-26 05:16:33  #Trading Economics #Economy #Mexico #Interest Rate #Importance 1
-
-Banxico Holds Interest Rates — Banxico kept its benchmark interest rate unchanged at 6.50% during its June 2026 meeting, in line with expectations. It was noted that the economy is expected to rebound in the second quarter, although significant downside risks to activity remain. Inflation continued to ease between April and mid-June, with headline inflation down from 4.45% to 3.55%, while core inflation eased from 4.26% to 4.12%. Banxico revised down its headline inflation forecasts for the second quarter due to softer non-core prices, while slightly raising its core inflation outlook through the end of 2026. Banxico maintained its projection for headline inflation to converge to the 3% target in the second quarter of 2027. Policymakers said the balance of risks remains tilted to the upside, citing trade disruptions, geopolitical tensions, persistent core inflation, climate-related shocks, and possible peso depreciation. Banxico signaled that it will likely be keeping the policy rate at its current level.
 
 ---

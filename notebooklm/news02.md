@@ -1,7 +1,115 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-06-27 19:13:54_
-_本檔包含 3831 則快訊，約 672029 字_
+_更新時間：2026-06-27 20:07:25_
+_本檔包含 3814 則快訊，約 673088 字_
+
+---
+
+### 2026-06-26 06:13:56  #資料
+
+【物價溫和回升 供需迴圈改善訊號清晰 】今年上半年，國內物價走出持續低位格局，呈現CPI溫和抬升、PPI同比轉正的結構性修復態勢，供需迴圈改善訊號清晰。專家表示，展望下半年，物價整體將維持在溫和區間。當前，“PPI—CPI”剪刀差進一步走闊，後續財政政策、貨幣政策、保供穩價政策仍需協同發力，暢通產業鏈價格傳導，以修復市場預期，促進經濟正向迴圈。（中證報）
+
+---
+
+### 2026-06-26 06:09:04  #市場
+
+紐約期銀日內跌1%，現報58.16美元/盎司。
+
+---
+
+### 2026-06-26 06:00:40  #市場 #焦點
+
+現貨黃金突破4030美元/盎司，日內漲0.07%。
+
+---
+
+### 2026-06-26 06:00:17  #央行 #國際
+
+【美聯儲7月維持利率不變的機率為69%】據CME“美聯儲觀察”：美聯儲7月維持利率不變的機率為69%，累計加息25個基點的機率為31%。 美聯儲到9月維持利率不變的機率為36.6%，累計加息25個基點的機率為48.8%，累計加息50個基點的機率為14.6%。
+
+---
+
+### 2026-06-26 05:55:21  #MKT News
+
+The Trump administration on Wednesday notified Congress of a planned sale of $700 mln in jet engines to Turkey.
+
+---
+
+### 2026-06-26 05:55:00  #國際
+
+市場訊息：特朗普政府週三通知國會，擬向土耳其出售價值 7 億美元的航空發動機。
+
+---
+
+### 2026-06-26 05:53:53  #其他
+
+【2名中國公民在委內瑞拉地震中遇難】據中國駐委內瑞拉大使館公佈的訊息，截至當地時間25日16時，據不完全統計，已確認有2名中國公民在“6·24地震”中遇難。（新華社）
+
+---
+
+### 2026-06-26 05:52:41  #公司 #國際
+
+【報道：美國政府要求OpenAI分階段釋出最新模型GPT 5.6】據知情人士透露，在美國總統特朗普的政府提出要求後，OpenAI將分階段釋出其最新人工智慧模型GPT 5.6。OpenAI執行長Sam Altman週三在員工問答會上講話，這和一份備忘錄透露出以上資訊。OpenAI將首先向少數合作伙伴釋出GPT 5.6有限預覽，Altman表示，這是儘快廣泛釋出該模型的最佳路徑。 Altman在週四的一份備忘錄中告訴員工，在GPT 5.6預覽期間，政府將“逐個客戶批准訪問許可權”。Altman在備忘錄中稱：“我們已向美國政府明確表示，這不是我們偏好的長期模式，並將與政府和業內合作，為未來的產品釋出尋求更可持續的方案。”分階段釋出的要求源於OpenAI與美國國家網路總監辦公室以及白宮科技政策辦公室的溝通。
+
+---
+
+### 2026-06-26 05:52:35  #Trading Economics #Markets #Brazil #Currency #Importance 1
+
+BRL Gains In Late June — The Brazilian real traded near 5.17 per USD in June, strengthening slightly toward the end of the month amid a broader pullback in the US dollar. Softer-than-expected US PCE data eased concerns over additional Federal Reserve tightening, pushing Treasury yields lower and weighing on the dollar against major and emerging market currencies. In Brazil, the BCB’s updated Monetary Policy Report raised the probability of inflation breaching the upper bound of the target range, despite June’s softer-than-expected mid-month inflation reading. Still, the interest rate differential remained supportive for the real, with Brazil’s benchmark Selic at 14.25% compared with the US policy range of 3.50%-3.75%. That wide spread has continued to attract foreign inflows and provide support to the Brazilian currency.
+
+---
+
+### 2026-06-26 05:32:05  #MKT News #Market Regions #Japan & APAC #USDJPY #Impact bullish #Nikkei 225
+
+【Japan to propose higher defense spending based on ruling party proposals】On the 24th, Prime Minister Takaichi accepted proposals from the ruling LDP and Nippon Ishin to revise Japan’s three security documents. The government plans a formal cabinet revision by year-end and, following LDP guidance, will propose raising defense spending. The LDP offered no explicit target but asked officials to study NATO peers that aim for about 3.5% of GDP. Nippon Ishin called for defense spending above 2% of GDP by FY2026 and urged a realistic review of the Three Non‑Nuclear Principles’ no‑introduction clause, pressing for the prompt acquisition of nuclear submarines.
+
+---
+
+### 2026-06-26 05:23:18  #Trading Economics #Economy #Paraguay #Producer Prices Change #Importance 0
+
+Paraguay Producer Prices Extend Decline — Paraguay’s Producer Price Index fell 1.5% year-on-year in May 2026, following a 1.0% decline in April and marking the fourth consecutive month of producer deflation. Imported products remained the main source of downward pressure, particularly in categories such as metal products, machinery and equipment, food, beverages and tobacco, textiles and leather goods, and non-metallic transportable goods. This contrasted with the positive contribution from domestic products, which helped limit the overall decline, supported by stronger price growth in domestic food, beverages and tobacco, textiles and leather products, live animals and animal products, and non-metallic transportable goods.
+
+---
+
+### 2026-06-26 05:20:53  #MKT News
+
+Axios reported House Speaker Johnson said he will submit a housing bill to the White House after meeting with Trump.
+
+---
+
+### 2026-06-26 05:20:50  #宏觀 #國際
+
+美國國務院批准擬向澳大利亞出售 F/A-18F 超級大黃蜂戰機、EA-18G 咆哮者電子戰機配套訓練裝置及相關裝備，交易價值 2.5 億美元。
+
+---
+
+### 2026-06-26 05:20:29  #MKT News
+
+U.S. State Department approved a $250 million sale to Australia of training services and related equipment for F/A-18F Super Hornet and EA-18G Growler aircraft.
+
+---
+
+### 2026-06-26 05:20:26  #其他
+
+標普：確認巴西主權信用評級為 BB/B，評級展望維持穩定。
+
+---
+
+### 2026-06-26 05:19:58  #國際
+
+美國眾議院議長約翰遜： 在與特朗普會面後，將把住房法案送至白宮。
+
+---
+
+### 2026-06-26 05:19:23  #MKT News
+
+【PENTAGON updates targeting guidance to allow AI-initiated actions under human supervision】PENTAGON quietly revised US military targeting guidance in April, approving language that envisions "systems where AI, under human supervision, can initiate actions," a shift from the current human-in-the-loop requirement that actions be initiated by humans. The revision underscores the Pentagon's push to accelerate AI adoption; rapid advances in AI capabilities also introduce new threats and ethical and legal dilemmas that could complicate compliance with the law of armed conflict.
+
+---
+
+### 2026-06-26 05:16:33  #Trading Economics #Economy #Mexico #Interest Rate #Importance 1
+
+Banxico Holds Interest Rates — Banxico kept its benchmark interest rate unchanged at 6.50% during its June 2026 meeting, in line with expectations. It was noted that the economy is expected to rebound in the second quarter, although significant downside risks to activity remain. Inflation continued to ease between April and mid-June, with headline inflation down from 4.45% to 3.55%, while core inflation eased from 4.26% to 4.12%. Banxico revised down its headline inflation forecasts for the second quarter due to softer non-core prices, while slightly raising its core inflation outlook through the end of 2026. Banxico maintained its projection for headline inflation to converge to the 3% target in the second quarter of 2027. Policymakers said the balance of risks remains tilted to the upside, citing trade disruptions, geopolitical tensions, persistent core inflation, climate-related shocks, and possible peso depreciation. Banxico signaled that it will likely be keeping the policy rate at its current level.
 
 ---
 
@@ -22883,215 +22991,5 @@ U.S. Department of Transportation said U.S. domestic airfares rose 4.7% in the f
 ### 2026-06-25 02:22:00  #公司 #市場
 
 【谷歌再有兩名重磅AI核心研究員跳槽至Anthropic 股價下挫】谷歌的兩名頂尖人工智慧研究員喬納斯·阿德勒、亞歷山大·普里策爾計劃離職，轉投競品公司Anthropic。此次人才流失是谷歌接連多名核心技術人員出走事件的延續，或將削弱谷歌在人工智慧領域的行業地位；此前諾貝爾化學獎得主約翰·江珀、明星研究員諾阿姆·沙澤爾也已分別跳槽至Anthropic與OpenAI。這一系列人事變動凸顯出谷歌面臨的競爭壓力：Anthropic、OpenAI兩家初創企業即將啟動IPO，員工在上市前入職可獲得一筆罕見的高額股權收益，這對頭部科技大廠的資深研發人員吸引力極強。谷歌股價迅速轉跌，下跌0.6%。
-
----
-
-### 2026-06-25 02:21:58  #MKT News #Market Themes #The Trump Trade
-
-President Trump said he had a good meeting with lawmakers.
-
----
-
-### 2026-06-25 02:21:52  #MKT News #Market Themes #AI Revolution
-
-【Senator Warren to call for antitrust scrutiny of AI and reform of M&A review】U.S. Senator Warren will urge Congress to strengthen antitrust enforcement for emerging technologies such as AI and reform M&A review rules to increase information transparency, according to her prepared remarks. She is expected to say: "Companies cannot escape antitrust scrutiny simply because they use algorithms. If a firm uses AI to illegally drive up rents during a national housing affordability crisis, we must push back."
-
----
-
-### 2026-06-25 02:21:49  #國際
-
-特朗普：與國會議員的會面非常愉快。
-
----
-
-### 2026-06-25 02:20:06  #Trading Economics #Markets #Commodity #Importance 1
-
-Metals Commodities Updates: Silver Slumps by 7.80% — Top commodity losers are Silver (-7.80%), Platinum (-5.80%), Copper (-3.23%) and Gold (-3.07%). Gains are led by Iron Ore CNY (0.74%).
-
----
-
-### 2026-06-25 02:19:54  #MKT News #Important #Star Stocks #Alphabet #Market Themes #AI Revolution #Magnificent 7 #GOOG.O #Impact bearish
-
-Google (GOOG.O) slipped briefly after reports that two more AI employees may be leaving for ANTHROPIC.
-
----
-
-### 2026-06-25 02:19:47  #公司
-
-巴西石油公司執行長：公司重啟投資，將深耕巴西本土市場。
-
----
-
-### 2026-06-25 02:19:14  #公司 #市場
-
-谷歌股價迅速轉跌，下跌0.6%。
-
----
-
-### 2026-06-25 02:18:56  #其他
-
-國際艾滋病疫苗倡議組織（IAVI）發言人：首款埃博拉候選疫苗預計將於2026年底前完成製備，可開展人體評估。
-
----
-
-### 2026-06-25 02:18:49  #其他
-
-高通投資者日會議開幕。
-
----
-
-### 2026-06-25 02:18:09  #公司 #焦點
-
-谷歌再有兩名人工智慧員工或將跳槽至Anthropic公司。
-
----
-
-### 2026-06-25 02:16:53  #MKT News #Brent #Impact bearish #EURUSD #Impact mixed
-
-【ECB's Zigman: price stability is priority; oil decline eases task】ECB official Zigman said price stability is the ECB’s primary task and that falling oil prices are making that task relatively easier. Speaking in his first public appearance since becoming governor of the Croatian central bank this month, he said ECB rate hikes have signalled determination despite the risk of further slowing an already fragile regional economy. He added that geopolitical developments around the Strait of Hormuz have pushed oil prices down, which he said will have a positive effect on inflation.
-
----
-
-### 2026-06-25 02:16:26  #國際
-
-俄羅斯總統普京視察最新國產飛機，並確認莫斯科已完全成功替代了西方制裁所涉及的外國飛機部件。
-
----
-
-### 2026-06-25 02:15:06  #Trading Economics #Markets #Commodity #Importance 1
-
-Energy Commodities Updates: Brent Crude Oil Falls by 4.24% — Top commodity losers are Brent Crude Oil (-4.24%), Crude Oil WTI (-3.88%) and Methanol (-3.30%). Gains are led by Natural gas (1.90%).
-
----
-
-### 2026-06-25 02:14:48  #MKT News #Market Themes #AI Revolution
-
-【Andreessen investor: Starship's rapid reusability could enable orbital AI data centers; SpaceX has shown capability】David George, partner at Andreessen Horowitz and a SpaceX investor, said Starship's rapid reusability is critical to Elon Musk's vision of expanding AI compute via orbital data centers. He said once Starship is operational, extending AI capacity to space would be inevitable as terrestrial data-center capacity becomes constrained, describing future satellites as "aircraft-sized GPU racks." George added orbital data centers would at minimum supplement ground facilities and could ultimately be economically superior, and that SpaceX has demonstrated the technical ability to deploy such systems.
-
----
-
-### 2026-06-25 02:12:58  #其他 #焦點
-
-特斯拉跌幅擴大至2%。
-
----
-
-### 2026-06-25 02:12:48  #MKT News #Macro & Rates #The Fed (FOMC)
-
-【Fed finalizes reorganization of bank supervision unit】Federal Reserve Vice Chair for Supervision Michelle Bowman has completed a reorganization of the Fed’s bank supervision function to concentrate resources on what she describes as key financial risks, Bowman said in a memo to staff. The restructuring, effective July 12, reallocates personnel and resources into four functional groups—Supervision; Financial Research, Risk & Applications; Regulation & Policy; and Business Enablement—and the division will begin recruiting leaders and staff.
-
----
-
-### 2026-06-25 02:11:29  #國際
-
-美國參議員沃倫計劃敦促國會加大對人工智慧等新興技術領域的反壟斷執法力度，並修訂併購相關法律，要求公開更多交易資訊。
-
----
-
-### 2026-06-25 02:08:23  #國際
-
-路透社調查顯示，美國能源資訊署（EIA）週四釋出的報告預計，上週美國天然氣庫存增加740億立方英尺。
-
----
-
-### 2026-06-25 02:06:05  #公司
-
-巴西國家石油公司：布齊奧斯油田日產量達110萬桶。
-
----
-
-### 2026-06-25 02:05:14  #國際
-
-美國國家運輸安全委員會：將在30天內初步形成特斯拉撞車事故的初步調查報告。
-
----
-
-### 2026-06-25 02:04:28  #MKT News #Important #Commodities #Precious Metals #XAUUSD #Impact bearish
-
-Spot gold fell below $3,960/oz, down 3.64% intraday.
-
----
-
-### 2026-06-25 02:04:17  #MKT News
-
-Fed Vice Chair for Supervision Michelle Bowman has completed a personnel reshuffle of the Fed's bank regulatory division.
-
----
-
-### 2026-06-25 02:04:16  #市場 #焦點
-
-現貨黃金失守3960美元/盎司，日內跌3.66%。
-
----
-
-### 2026-06-25 02:03:51  #央行 #國際
-
-美聯儲負責監管事務的副主席米歇爾·鮑曼完成了美聯儲銀行監管部門的大規模人事調整，此舉旨在將她認定的核心金融風險列為監管工作重中之重。
-
----
-
-### 2026-06-25 02:03:31  #市場
-
-現貨白銀日內跌9%，現報55.81美元/盎司。
-
----
-
-### 2026-06-25 02:03:30  #市場
-
-紐約期銀日內跌10%，現報56.25美元/盎司。
-
----
-
-### 2026-06-25 02:03:29  #市場
-
-鈀金期貨日內跌7%，現報1156.55美元/盎司。
-
----
-
-### 2026-06-25 02:03:27  #市場 #焦點
-
-紐約期金失守3980美元/盎司，日內跌4.11%。
-
----
-
-### 2026-06-25 02:03:02  #MKT News #Important #Commodities #Precious Metals
-
-Spot silver fell below $56/oz for the first time since November last year, sliding about 9% intraday.
-
----
-
-### 2026-06-25 02:02:56  #市場 #焦點
-
-現貨白銀失守56美元/盎司，日內跌8.97%。
-
----
-
-### 2026-06-25 02:02:35  #其他 #焦點
-
-OpenAI：推出全新版本GPT-5.5 Instant，對話體驗趣味感大幅提升。這款平臺使用量最高的模型如今能更精準讀懂提問背後的真實意圖，並據此靈活調整回答內容。同時它處理複雜限定條件時穩定性更強，給出的購物、本地生活推薦也更實用、邏輯更連貫。今日起向付費使用者推送上線，明日開放給免費使用者使用。
-
----
-
-### 2026-06-25 02:01:31  #公司
-
-索尼影視：將收購COSM少數股權，執行長拉維·阿胡賈將加入COSM董事會。
-
----
-
-### 2026-06-25 02:01:29  #MKT News #Important #Commodities #Precious Metals
-
-Spot silver hit its lowest level since last November, trading at $56.17/oz, down more than 8% intraday.
-
----
-
-### 2026-06-25 02:01:08  #其他
-
-索尼影業向巨幕初創企業COSM投資1億美元。
-
----
-
-### 2026-06-25 02:00:52  #國際
-
-美國國家運輸安全委員會將在特斯拉事故調查中重點核查駕駛員操作狀態與自動駕駛系統技術狀況。
 
 ---

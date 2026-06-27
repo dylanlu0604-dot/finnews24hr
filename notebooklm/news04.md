@@ -1,7 +1,187 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-06-27 19:13:54_
-_本檔包含 3524 則快訊，約 672697 字_
+_更新時間：2026-06-27 20:07:25_
+_本檔包含 3533 則快訊，約 672649 字_
+
+---
+
+### 2026-06-23 22:13:34  #公司
+
+德國商業銀行：我們確認，機構和散戶投資者僅貢獻了約1%的投標股份。
+
+---
+
+### 2026-06-23 22:13:13  #國際
+
+市場訊息：美國新增數十個實體至制裁名單。
+
+---
+
+### 2026-06-23 22:13:02  #宏觀 #國際
+
+美國財政部發布美英制裁製度相關操作指引。
+
+---
+
+### 2026-06-23 22:12:43  #MKT News
+
+U.S. adds dozens of entities to its sanctions list.
+
+---
+
+### 2026-06-23 22:12:18  #國際
+
+【伊朗代表：霍爾木茲海峽已免費開放】伊朗常駐聯合國日內瓦辦事處代表阿里·巴赫雷尼23日表示，霍爾木茲海峽已對商船完全開放，且不收取任何費用。巴赫雷尼當天就伊朗和美國談判情況回答聯合國日內瓦記者協會的提問時說，霍爾木茲海峽現已開放，為期60天，其間不會收取任何費用。此外，伊美雙方決定就此問題建立溝通機制，以監控和解決可能出現的任何問題。60天后，海峽開放的具體情況將由伊美之間的談判結果決定。伊美談判代表22日在瑞士比爾根山結束了關於落實雙方上週簽署的諒解備忘錄的首輪會談。（新華社）
+
+---
+
+### 2026-06-23 22:12:01  #其他
+
+量子計算概念股普漲，Infleqtion漲逾14%，SEALSQ漲逾8%，D-Wave Quantum漲逾7%，Quantum Computing漲近5%，Rigetti Computing、IBM、IonQ Inc漲逾4% 。
+
+---
+
+### 2026-06-23 22:11:30  #國際
+
+【中菲合作遣返4名涉綁架犯罪嫌疑人】中國駐菲律賓大使館23日釋出訊息，中菲兩國執法部門19日合作抓獲遣返兩名在菲從事博彩業並實施綁架犯罪的嫌疑人，於22日再次合作遣返兩名參與2023年10月薄荷島綁架案的嫌疑人，該案受害人已由中菲警方合作解救。中國駐菲使館表示，中方將繼續堅定打擊跨國犯罪，保護在菲中國公民生命財產安全。（新華社）
+
+---
+
+### 2026-06-23 22:11:21  #MKT News
+
+US Treasury posted on its website a list of designated transnational criminal organizations.
+
+---
+
+### 2026-06-23 22:11:00  #宏觀 #國際
+
+美國財政部網：美國對跨國犯罪組織實施制裁認定。
+
+---
+
+### 2026-06-23 22:10:37  #MKT News #Important
+
+U.S. Treasury website: the United States has announced sanctions targeting Cuba.
+
+---
+
+### 2026-06-23 22:10:24  #宏觀 #焦點 #國際
+
+美國財政部官網：美國發布對古巴相關制裁。
+
+---
+
+### 2026-06-23 22:09:27  #國際
+
+官方資料顯示，截至6月21日，歐盟2025/26年度棕櫚油進口量為278萬噸，去年同期為295萬噸。
+
+---
+
+### 2026-06-23 22:09:22  #MKT News #Star Stocks #MSFT.O #Impact bullish
+
+Microsoft (MSFT.O) expects to spend $4.7 bln in Wisconsin between 2024 and 2028.
+
+---
+
+### 2026-06-23 22:09:19  #國際
+
+官方資料顯示，截至6月21日，歐盟2025/26年度豆粕進口量為1847萬噸，去年同期為1898萬噸。
+
+---
+
+### 2026-06-23 22:09:10  #國際
+
+官方資料顯示，截至6月21日，歐盟2025/26年度油菜籽進口量為517萬噸，去年同期為739萬噸。
+
+---
+
+### 2026-06-23 22:08:48  #國際
+
+官方資料顯示，截至6月21日，歐盟2025/26年度大豆進口量為1370萬噸，去年同期為1426萬噸。
+
+---
+
+### 2026-06-23 22:08:39  #公司 #國際
+
+濱化集團股份有限公司向港交所提交上市申請書，聯席保薦人為華泰國際、建銀國際。
+
+---
+
+### 2026-06-23 22:08:32  #MKT News #Important #Star Stocks #Microsoft #Market Themes #Magnificent 7 #MSFT.O #Impact bullish
+
+Microsoft (MSFT.O) said construction is complete on its first data center in Mount Pleasant, Wisconsin, US.
+
+---
+
+### 2026-06-23 22:07:40  #央行 #觀點
+
+【高盛：巴西央行預計將交替進行降息和按兵不動】高盛的Alberto Ramos寫道，巴西央行可能會交替暫停降息和下調其基準Selic利率。巴西央行上週將Selic利率從14.5%下調至14.25%，並且對其下一步行動尚不明確。在面臨粘性通脹和經濟放緩風險之際，會議紀要讓人們對該央行的想法有了一些瞭解。Ramos說，間歇性降息“將導致產出波動更溫和，通脹在2028年第一季度收斂於目標水平“。他說：“總體而言，在增長與通脹的短期權衡中，Copom更傾向於保護經濟活動，而不是採取更激進的以通脹為重點的策略。”
+
+---
+
+### 2026-06-23 22:07:23  #其他
+
+微軟預估2024至2028年間將在威斯康星州投入47億美元。
+
+---
+
+### 2026-06-23 22:06:54  #宏觀
+
+【何立峰在河南調研時指出 加快完善產業創新體系 持續推動外貿穩規模優結構】中共中央政治局委員、國務院副總理何立峰6月21日至23日在河南調研。何立峰指出，要深入學習貫徹習近平總書記在河南考察時的重要講話精神，認真落實黨中央、國務院決策部署，加快完善產業創新體系，持續推動外貿穩規模優結構，進一步鞏固經濟穩中向好基礎。何立峰先後到河南安陽、新鄉等地，深入瞭解相關製造企業、科技企業和消費類企業的生產經營、技術創新、外貿出口等情況。何立峰指出，要加強產學研合作，更好促進科研成果高效轉化應用，推動科技創新與產業創新深度融合，加力賦能傳統產業煥新升級。要充分發揮我國產業、市場、技術等方面的優勢，深化國際規則標準對接，有效應對外部不確定性，促進貨物貿易與服務貿易融合發展，持續推動外貿提質增效。要進一步豐富消費場景，提高產品和服務質量，增強居民消費意願，更好滿足群眾高品質生活需求。要有效防範化解重點領域風險，有力有序推進地方融資平臺退出和改革轉型，持續推動地方中小金融機構改革化險，著力穩定房地產市場。（新華社）
+
+---
+
+### 2026-06-23 22:05:56  #其他
+
+【SpaceX漲超2%】SpaceX漲超2%，報158美元/股，總市值報2.06萬億美元。
+
+---
+
+### 2026-06-23 22:05:48  #其他
+
+微軟已完成在威斯康星州建造資料中心的工程。
+
+---
+
+### 2026-06-23 22:05:20  #國際
+
+【美國銀行研究顯示：自2023年以來首次，美國消費者更傾向於購房而非租房】根據美國銀行最新的購房者洞察報告，目前大多數美國消費者表示，他們更傾向於買房，而不是租房或與親屬同住。這是自2023年以來，購房意願首次超越租房意願。調查顯示，潛在購房者似乎不再願意等待市場條件好轉，Z世代和千禧一代引領了這一態度的轉變。在美國銀行這項涵蓋2000名受訪者的調查中，53%的人現在傾向於購房，而47%的人傾向於租房或與親屬同住。這一結果表明，儘管高昂的抵押貸款利率、居高不下的房價以及有限的房屋供應量繼續給市場帶來壓力，但消費者對購房的態度正在改善。
+
+---
+
+### 2026-06-23 22:05:18  #其他
+
+網信廣東： 截至6月23日，廣東省新增21款已完成備案的生成式人工智慧服務，累計已完成164款生成式人工智慧服務備案。
+
+---
+
+### 2026-06-23 22:05:12  #其他
+
+美股太空概念股多數反彈，AST SpaceMobile 漲近6%，Momentus漲超3%，SpaceX漲2.4%，Rocket Lab、Redwire漲超1%。
+
+---
+
+### 2026-06-23 22:04:31  #MKT News #Important #Market Regions #Greater China #Copper #Impact bullish #CSI300 #CNH #Impact mixed
+
+【Report: 2025 central final accounts broadly sound; fiscal policy more active】China presented its 2025 central government final accounts to the NPC Standing Committee, saying fiscal performance was broadly sound and fiscal policy more active to stabilise growth. Central general public budget revenue was 9.40 tln yuan, 96.9% of budget; including related transfers total revenue was 9.74 tln yuan. Central general public budget expenditure was 14.49 tln yuan, 98.2% of budget; with a supplement from the central budget stabilization fund total spending was 14.60 tln yuan. Through end‑May Beijing issued 6.41 tln yuan of sovereign bonds and 1.83 tln yuan of new local government bonds; central-to-local transfer payments of 9.21 tln yuan have been allocated. Authorities said fiscal receipts and outlays were broadly stable through May with key areas funded, and pledged targeted, more active fiscal measures, tighter budget execution, optimized spending structure, steps to boost domestic demand, support livelihoods and stabilise local finances.
+
+---
+
+### 2026-06-23 22:04:20  #國際
+
+市場訊息：歐盟將於歐洲中部時間今日下午5點30分（北京時間23:30）公佈7月至12月的資金計劃。
+
+---
+
+### 2026-06-23 22:04:19  #MKT News #Market Regions #Europe & UK
+
+EU to publish July–December funding plan at 17:30 CET today (23:30 Beijing time).
+
+---
+
+### 2026-06-23 22:04:11  #Trading Economics #Economy #United States #Richmond Fed Services Index #Importance 1
+
+Richmond Fed Services Index Weakens — The Richmond Fed Fifth District Service Sector Survey was flat in June 2026, with the revenues index falling to -1 from 14 and the demand index declining to 3 from 15. Local business conditions also weakened, with the index dropping to -9 from 0 in May. Despite softer current activity, expectations remained resilient, as the indexes for future revenues and demand stayed firmly in positive territory. The future local business conditions index rose to 15. Labor market conditions improved, with the current employment index increasing to 8 from -1, while the forward-looking employment index held steady at 24. Both current and expected wages remained firmly positive. On prices, firms reported slightly faster growth in prices paid, while price growth received was little changed. Over the next 12 months, businesses expect slower growth in input costs and a slight pickup in prices received.
 
 ---
 
@@ -21155,131 +21335,5 @@ Canada | CPI (MoM) (May) | actual 1% | consensus 0.80% | previous 0.40%
 ### 2026-06-22 20:29:35  #MKT News #Important #Commodities #Precious Metals #XAUUSD
 
 Reserve Bank of India said India’s gold reserves were 880.52 tonnes on May 29, unchanged from 880.52 tonnes on May 22.
-
----
-
-### 2026-06-22 20:29:31  #市場 #國際
-
-印度儲備銀行公報顯示：截至5月29日，印度黃金儲備為880.52公噸，5月22日時的儲備同樣為880.52公噸。
-
----
-
-### 2026-06-22 20:29:21  #其他
-
-Revolut計劃2028年前進軍南非市場，當前預約使用者數量接近10萬人。
-
----
-
-### 2026-06-22 20:28:45  #MKT News #Market Regions #Europe & UK #DAX #Impact bullish #FTSE100
-
-Stoxx Europe 600 hit an intraday high, trading up 0.3%.
-
----
-
-### 2026-06-22 20:28:43  #市場 #國際
-
-歐洲斯托克600指數觸及盤中高點，最新上漲0.3%。
-
----
-
-### 2026-06-22 20:28:18  #市場
-
-【分析：英國投資者預計新領導人將做出審慎變革】Insight Investment的April LaRusse在一份報告中表示，英國投資者預計該國新領導人將對政府支出和創收做出審慎的變革。首相基爾·斯塔默週一早些時候辭職。她說，自那以來，英國國債交易一直相當平靜，因為投資者預計政府政策的改變將採取“更務實的做法“。“現在的市場焦點將是誰可能被選中擔任關鍵內閣職位，英國國債市場最感興趣的是財政大臣人選以及下一次預算的潛在時間。”Tradeweb的資料顯示，10年期英國國債收益率下跌2.9個基點，最新報4.811%。
-
----
-
-### 2026-06-22 20:27:02  #央行 #國際
-
-印度央行4月在即期外匯市場淨賣出89.4億美元。
-
----
-
-### 2026-06-22 20:26:54  #國際
-
-美國銀行預計，蘋果將同步上調Mac和iPad定價，並小幅下調各產品類別的銷量預期。
-
----
-
-### 2026-06-22 20:26:13  #其他
-
-【安徽廣德發生一起交通事故 致1死2傷】6月22日，安徽省廣德市公安局釋出警情通報。通報詳情如下：6月20日15時36分許，廣德市發生一起交通事故。接警後，公安機關到場處置並聯動120急救部門開展傷員救治工作。經調查，楊某某（女，36歲）駕駛一輛小型普通客車沿太極大道由東向西行駛時，越過綠化帶碰撞停在非機動車道上的一輛二輪電動車，造成1人死亡、2人受傷（1人傷勢較重）。當晚，楊某某已被公安機關依法刑事拘留。經檢測，已排除酒駕、毒駕嫌疑，事故調查和善後處置等工作正在進行中。（央視新聞）
-
----
-
-### 2026-06-22 20:25:31  #MKT News
-
-【Russia says Ukrainian drones struck space communications centre in Moscow region】On June 22 local time, a Russian space communications company said Ukrainian drones attacked the Dubna space communications centre in Moscow region. Television, radio and communications operations were unaffected and there were no casualties.
-
----
-
-### 2026-06-22 20:25:23  #觀點 #國際
-
-【高盛：對沖基金五週來首次淨賣出全球股票】高盛主經紀商業務部門的資料顯示，就在上週，對沖基金五週以來首次成為全球股票的淨賣方，其中北美和歐洲市場的賣出量最大。由Vincent Lin領導的高盛團隊指出，賣空規模與做多買入規模之比為1.3比1。宏觀產品錄得一個月以來的首次淨賣出，而個股則出現淨買入。從行業層面看，全球11個行業板塊中有7個出現淨買入。按美元價值計算，買入最多的是金融、材料和能源板塊，而工業、資訊科技和公用事業板塊則成為淨賣出最多的板塊。
-
----
-
-### 2026-06-22 20:24:49  #公司 #國際
-
-【俄稱烏軍無人機襲擊俄航天通訊中心】當地時間22日，俄羅斯航天通訊公司釋出訊息稱，烏軍無人機襲擊了莫斯科州杜布納航天通訊中心。電視、廣播和通訊執行未受影響，人員無傷亡。烏方對此暫無回應。（央視新聞）
-
----
-
-### 2026-06-22 20:24:28  #公司
-
-【埃斯頓：擬吸收合併全資子公司最佳化管理架構】埃斯頓公告稱，公司於2026年6月22日召開董事會，審議透過吸收合併全資子公司埃斯頓自動控制的議案。埃斯頓自動控制註冊資本2.18億元，公司持有其100%股權。2025年營收1033.24萬元、淨利潤349.07萬元，2026年1-5月營收402.75萬元、淨利潤96.21萬元。本次合併無需支付對價，完成後該子公司法人資格將登出，其權利義務由公司繼承。本次合併不構成重大資產重組，不會對公司產生重大影響。
-
----
-
-### 2026-06-22 20:24:20  #MKT News
-
-【Switzerland welcomes "constructive progress" in U.S.-Iran talks】Switzerland's foreign ministry said on June 22 it welcomed "constructive progress" in U.S.-Iran talks and is ready to support follow-up steps. It noted a joint statement by mediators Qatar and Pakistan and welcomed the "constructive progress" from intensive diplomatic talks on June 21-22 at Bürgenstock. The ministry said establishing a high-level committee under a memorandum of understanding is a "positive step" that will help plan the next political and technical phase, and that agreement on a roadmap to reach a final deal within 60 days creates conditions to begin technical-level discussions immediately. Switzerland said it will continue its mediation role and stands ready to assist.
-
----
-
-### 2026-06-22 20:23:40  #國際
-
-【伊朗公佈已故最高領袖葬禮儀式安排】伊朗革命烈士領袖紀念委員會22日宣佈，已故最高領袖阿里·哈梅內伊的告別、送葬和安葬儀式將於7月4日起在德黑蘭、庫姆和馬什哈德舉行。據伊朗邁赫爾通訊社22日報道，紀念委員會發言人伊曼·阿塔爾扎德在新聞釋出會上表示，哈梅內伊遇襲身亡已過去100余天，相關籌備工作此前已完成，但由於戰事發展、敵方襲擊以及保障民眾安全等因素，儀式舉行時間被推遲。阿塔爾扎德說，德黑蘭送葬活動路線已最終確定，具體安排將由相關負責人於未來數日內公佈。據他介紹，伊朗全國行政和服務機構都參與了儀式的籌備工作。（新華社）
-
----
-
-### 2026-06-22 20:23:32  #MKT News
-
-【Iran schedules funeral ceremonies for late Supreme Leader Ali Khamenei】Iran’s Martyrs’ Leader Memorial Committee announced on June 22 that farewell, funeral and burial ceremonies for the late Supreme Leader Ali Khamenei will be held from July 4 in Tehran, Qom and Mashhad. Mehr News Agency quoted committee spokesman Iman Attarzadeh saying more than 100 days have passed since Khamenei was killed in an attack; preparations were completed earlier but delayed by war developments, enemy strikes and public-safety concerns. Attarzadeh said the Tehran procession route has been finalised and that detailed arrangements will be released in coming days, and that national administrative and service agencies participated in planning.
-
----
-
-### 2026-06-22 20:22:56  #公司
-
-【石基資訊：深交所併購重組委將審議其購思迅軟體13.50%股權事項】石基資訊公告稱，公司擬發行股份購買深圳市思迅軟體股份有限公司13.50%股權。深交所併購重組稽核委員會定於2026年6月29日召開2026年第8次會議，稽核該交易事項。本次交易尚需深交所稽核透過及中國證監會同意註冊方可實施，最終能否順利推進及時間均不確定，公司將及時披露進展。
-
----
-
-### 2026-06-22 20:22:20  #MKT News #Commodities #Energy #WTI #Impact bearish
-
-WTI crude fell $2.00 intraday to $75.25/bbl, down 2.59%.
-
----
-
-### 2026-06-22 20:21:56  #公司
-
-【德龍鐳射：擬募資不超3億元用於擴產、研發及補流】德龍鐳射公告稱，公司本次向特定物件發行股票，募集資金總額不超3億元，扣除發行費用後，1.7億元用於鐳射器生產建設專案，7000萬元用於總部研發中心建設專案，6000萬元用於補充流動資金。2023 - 2025年，公司分別實現營收5.82億元、7.15億元和7.87億元。本次募資有助於增強資本實力、最佳化資產結構，提升運營規模和經濟效益。
-
----
-
-### 2026-06-22 20:21:49  #公司
-
-【聖泉集團：發行可轉換公司債券募集25億元 擬用於綠色新能源電池材料產業化專案及補充流動資金】聖泉集團公告，公司向不特定物件發行可轉換公司債券，募集資金總額為人民幣25億元，發行數量為250萬手（25,000,000張），每張面值100元。扣除發行費用後，募集資金擬用於綠色新能源電池材料產業化專案（20億元）及補充流動資金（5億元）。本次可轉債信用評級為AA+sti，主體信用等級為AA+sti，評級展望穩定。原股東優先配售股權登記日為2026年6月24日。
-
----
-
-### 2026-06-22 20:21:47  #MKT News #SPCX.O
-
-MOODY'S expects SpaceX (SPCX.O) to maintain strong liquidity, noting operating cash flow alone is expected to be insufficient to fund the company's capital plan.
-
----
-
-### 2026-06-22 20:21:46  #其他
-
-【6月重點20城樓市活躍度延續，端午假期上海二手房網籤量同比增19%】中指研究院資料顯示，6月以來（6月1日-6月20日）20個重點城市二手住宅成交8.8萬套，同比增長10.9%。城市表現上，上海、蘇州等城市二手住宅成交套數同比增幅超20%，深圳、寧波等超10%，需求在傳統小陽春後活躍度還在延續。其中，上海、深圳等核心城市新房市場延續修復態勢，端午假期市場成交也保持活躍。機構資料顯示，端午假期上海新建商品住宅共網籤601套，與去年端午三天假期(293套)相比，成交量增加308套。二手房市場成交也保持熱度，3天網籤量共計1231套，相比去年端午節三天(1035套)增加196套，增幅約18.9%。北京、廣州等城市新房市場也保持較高熱度。6月截至20日，北京新房成交面積環比增長36%；廣州新房成交面積同比增長9%。中指研究院報告指出，進入6月後，重點城市二手房成交仍保持增長態勢，北京、上海等核心城市成交量繼續處於近年來同期較高水平，需求延續釋放態勢。與二手房相比，新房市場仍以結構性分化為主，修復主要集中於核心城市優質板塊及優質專案。（中指研究院）
 
 ---
