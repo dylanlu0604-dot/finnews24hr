@@ -1,7 +1,223 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-06-27 21:11:05_
-_本檔包含 3557 則快訊，約 672890 字_
+_更新時間：2026-06-27 21:56:56_
+_本檔包含 3541 則快訊，約 671868 字_
+
+---
+
+### 2026-06-22 20:54:10  #其他
+
+【永輝柳州首店開業：4天銷售額674萬 定製及自有品牌佔比首破40%】永輝柳州首店於6月18日開業。官方披露資料，開業前四天該店累計銷售額突破674萬元，其中永輝定製及自有品牌“品質永輝”產品銷售佔比首次超過40%，創下歷史新高，門店累計客流超7萬人次。（新浪科技）
+
+---
+
+### 2026-06-22 20:53:58  #公司
+
+據港交所檔案：濰柴雷沃智慧農業科技股份有限公司向港交所提交上市申請書。
+
+---
+
+### 2026-06-22 20:53:54  #MKT News #Market Regions #Greater China
+
+According to an HKEX filing, Weichai Lovol Smart Agriculture Technology Co. submitted a listing application to HKEX.
+
+---
+
+### 2026-06-22 20:53:35  #公司
+
+【夢潔股份：持股5%以上股東減持計劃期限屆滿 累計減持270萬股】夢潔股份公告稱，公司持股5%以上股東李建偉因個人資金需求，原計劃在2026年2月27日公告之日起15個交易日後的三個月內，以集中競價方式減持不超320萬股（佔總股本不超0.43%）。截至公告披露日，減持計劃期限已屆滿，李建偉透過集中競價合計減持270.001萬股，佔總股本0.36%。減持後，其持股降至3705.8972萬股，佔總股本4.96%，不再是公司5%以上股東。本次減持不會導致公司控制權變化。
+
+---
+
+### 2026-06-22 20:52:59  #其他
+
+象牙海岸出口商預估：截至6月21日，2025/26年度可可運抵量達188.3萬噸，去年同期為159.5萬噸。
+
+---
+
+### 2026-06-22 20:52:24  #公司
+
+【飛鹿股份：控股股東擬轉讓10%股份 公司控制權將變更】飛鹿股份公告稱，6月22日，公司控股股東、實際控制人章衛國與君拓啟航簽署《股份轉讓協議》，君拓啟航將以協議轉讓的方式受讓章衛國持有的2295.41萬股（佔總股本10%），轉讓價款3.14億元。本次交易完成後，公司控股股東、實際控制人將變更。此外，君拓啟航將在股份交割後10個工作日內，向飛鹿股份提供6000萬元借款。本次交易尚需透過深交所合規性稽核及完成過戶手續，存在不確定性。
+
+---
+
+### 2026-06-22 20:51:20  #MKT News
+
+Fitch says the rating assumes Starship will be operational in H2 2026 and begin deploying satellites in 2027 and beyond.
+
+---
+
+### 2026-06-22 20:51:12  #其他
+
+惠譽：該評級基於星艦將於2026年下半年具備運營能力，並於2027年及以後開始部署衛星的假設。
+
+---
+
+### 2026-06-22 20:50:55  #MKT News #Market Regions #Europe & UK
+
+European Commission President VON DER LEYEN said Moldova has completed 93% of the reforms under its growth plan.
+
+---
+
+### 2026-06-22 20:50:01  #國際
+
+歐盟委員會主席馮德萊恩：摩爾多瓦迄今已完成增長計劃項下到期改革的93%。
+
+---
+
+### 2026-06-22 20:48:41  #公司
+
+【羅永浩卸任錘子軟體執行董事 知情人士：系既定安排】天眼查顯示，近日，錘子科技創始人羅永浩工商職務發生變動，在錘子軟體（北京）有限公司的職務由執行董事變更為董事。日前，錘子科技內部知情人士向記者透露，此次職務調整為企業常規工商變更，屬於公司既定人事安排，無特殊變動原因。記者梳理公開資料發現，羅永浩至今仍與“錘子系”企業深度繫結。在其關聯的7家企業中，他在5家公司擔任核心高管。(每經網)
+
+---
+
+### 2026-06-22 20:48:22  #公司 #市場
+
+【北自科技：股價異常波動 一季度營收、淨利潤雙降】北自科技公告稱，公司股票在2026年6月16日 - 6月18日連續3個交易日收盤價格漲幅偏離值累計超20%，6月22日再度漲停，6月12日 - 6月22日股價累計漲幅39.29%，存在短期下跌風險。公司聚焦產業化落地，未生產人形機器人本體及零部件。2026年第一季度，公司實現營收4.26億元，同比下降3.41%；淨利潤1900.76萬元，同比下降54.97%；扣非淨利潤1830.30萬元，同比下降56.04%。公司提醒投資者注意風險。
+
+---
+
+### 2026-06-22 20:48:10  #其他
+
+惠譽：將SpaceX擬發行的高階無擔保債券評級為“BBB+”。
+
+---
+
+### 2026-06-22 20:48:04  #MKT News
+
+Fitch assigned a "BBB+" rating to SpaceX (SPCX.O)'s proposed senior unsecured notes.
+
+---
+
+### 2026-06-22 20:47:47  #公司
+
+【中通快遞：擬13億元收購TuXi Tech的剩餘股份】6月22日，中通快遞在港交所公告，買方（為本公司的全資子公司）與各賣方（Tuxi Honor、TUXI LMS、TUXI LJF、TUXI CSF、TUXI WJL及TUXI HZR）按大致相同的條款訂立股份購買協議，據此，買方有條件同意購買，而各賣方有條件同意出售其各自於TuXi Tech的全部股份（即合共567,500,000股股份，總計佔TuXi Tech已發行股份約36.20%），總代價約為人民幣1,305.3百萬元。於本公告日期，TuXi Tech為本公司的非全資子公司，買方持有TuXi Tech已發行股份約63.80%。收購事項完成後，本集團將持有TuXi Tech全部已發行股份。TuXi Tech將成為本公司的全資子公司，而TuXi Tech的財務業績將繼續合併入賬至本集團的財務業績。
+
+---
+
+### 2026-06-22 20:46:13  #MKT News #Macro & Rates #The Fed (FOMC)
+
+Federal Reserve: Greenspan's "legacy" endures in the people he mentored, the economists he inspired, and the frameworks and practices he helped shape.
+
+---
+
+### 2026-06-22 20:46:12  #國際
+
+【特朗普“搶發”斯塔默辭職訊息】英國首相斯塔默22日宣佈將辭任英國工黨黨首，但將在繼任者選出之前繼續擔任英國首相。然而，美國總統特朗普21日已搶在斯塔默發表講話前宣佈這一訊息。特朗普21日在社交媒體平臺“真實社交”發文說：“基爾·斯塔默將辭任英國首相。”暫時無法確認特朗普是否確實知道內情或僅是在斯塔默四面楚歌之時發表評論。特朗普在帖文中說，斯塔默在移民和能源這兩大議題上“搞砸了”，稱無效的政策是導致他政治生涯失敗的原因。特朗普還以所有字母大寫方式強調訴求：“開放北海石油”。（新華社）
+
+---
+
+### 2026-06-22 20:45:42  #央行 #國際
+
+美聯儲：格林斯潘的遺產在其指導過的官員、受其啟發的經濟學家以及他幫助塑造的框架和實踐中得以延續。
+
+---
+
+### 2026-06-22 20:44:51  #其他
+
+【國產機器人鏈博會現場展示華爾茲 業內人士：全球具身智慧供應鏈主要在中國】在第四屆鏈博會現場，國產人形機器人Walker C1展示了高難度的華爾茲人機共舞能力。優必選(09880.HK)商業人形事業部總經理李洋在接受採訪時表示：“全球的供應鏈來說，具身智慧、機器人的供應鏈主要都集中在中國，包括海外一些機器人企業的一些供應鏈，都是在中國發展。”（央視財經）
+
+---
+
+### 2026-06-22 20:44:15  #Trading Economics #Economy #United Kingdom #Government Bond 10Y #Importance 1
+
+UK 10-Year Gilt Yields Drop Further — The yield on the UK 10-year gilt slipped to 4.81% after climbing in the previous two sessions, as investors reacted to Prime Minister Keir Starmer's resignation while concerns over the prospect of a disruptive leadership transition eased somewhat. The resignation follows Greater Manchester Mayor Andy Burnham's by-election victory last week, which enabled his return to Parliament. Burnham subsequently announced his intention to seek the premiership. Prospects for a smooth leadership transition improved after Wes Streeting, previously viewed as a potential challenger, declared his support for Burnham. Investors are now focused on the implications for the UK's fiscal outlook and Burnham's fiscal policy agenda, with few concrete details available so far. A key concern remains the possibility of increased gilt issuance to finance higher public spending, which could further strain the UK's already fragile public finances and elevated debt burden.
+
+---
+
+### 2026-06-22 20:43:55  #公司
+
+中通快遞表示，收購TuXi Tech的剩餘股份，總對價約為13億元。
+
+---
+
+### 2026-06-22 20:41:30  #公司
+
+【上海沿浦：擬2000萬元投資設立控股子公司暨關聯交易】上海沿浦公告稱，公司擬與蒲衛東、上海勰睦合資設立上海沿浦智恆科技有限公司，註冊資本2000萬元。其中，公司出資1100萬元，佔比55%；蒲衛東出資500萬元，佔比25%；上海勰睦出資400萬元，佔比20%。資金用於核心技術研發等。本次交易構成關聯交易，但不構成重大資產重組，且無需提交股東會審議。截至公告披露日，合資協議未簽署，交易存在不確定性。
+
+---
+
+### 2026-06-22 20:41:09  #市場 #焦點
+
+布倫特原油失守78美元/桶，日內跌2.56%。
+
+---
+
+### 2026-06-22 20:40:09  #MKT News
+
+British MP Burnham said the idea of calling a general election was premature when asked whether he would do so.
+
+---
+
+### 2026-06-22 20:38:59  #其他
+
+英國議員伯納姆：當被問及他是否會呼籲提前舉行大選時，他表示，現在說這個還為時過早。
+
+---
+
+### 2026-06-22 20:38:25  #觀點 #國際
+
+高盛將美國未來12個月發生衰退的機率預估下調至15%，此前預期為25%。
+
+---
+
+### 2026-06-22 20:38:23  #MKT News #Macro & Rates #US Economy #S&P500 #Impact bullish #US10Y #Impact bearish #DXY
+
+Goldman Sachs cut its estimate of the probability of a U.S. recession within 12 months to 15% from 25%.
+
+---
+
+### 2026-06-22 20:38:14  #市場 #焦點
+
+比特幣升破65000美元，日內漲2.81%。
+
+---
+
+### 2026-06-22 20:37:48  #MKT News
+
+【SpaceX launches first investment-grade bond offering】SpaceX filed to issue its first senior unsecured investment-grade notes, saying the deal could mark the start of a large fundraising wave to finance its AI ambitions after a record $75 bln IPO. The filing says issuance is subject to market conditions; the notes would be unsecured and pari‑passu with all existing and future non‑subordinated debt. Media reports say SpaceX is seeking at least $20 bln; proceeds would repay a temporary bridge loan of roughly that size, which makes up the bulk of the company’s $29.1 bln of long-term debt. Moody's and FITCH last week rated the debt Baa1 and BBB+ respectively—each three notches above junk—while S&P assigned BBB.
+
+---
+
+### 2026-06-22 20:37:37  #公司
+
+【SpaceX啟動首次投資級債券發行】SpaceX首次發行投資級債券，預計這將是該公司在創紀錄的750億美元IPO之後，為滿足其人工智慧願景而展開的大規模融資潮的開端。SpaceX申報檔案中表示，已啟動其首次優先無擔保票據的發行，“視市場狀況及其他因素而定”。檔案補充說明，該等票據將為SpaceX的無擔保債務，在償付順序上與所有現有及未來的非次級債務、負債及其他義務享有同等權益。據媒體上週報道，SpaceX尋求透過此次發行籌集至少200億美元資金。募集資金將用於償還一筆規模大致相當的臨時過橋貸款，該貸款佔SpaceX 291億美元長期債務中的絕大部分。SpaceX上週已獲得三大債券評級機構的評級，為更低成本的融資鋪平了道路。穆迪和惠譽分別給予SpaceX債務Baa1和BBB+的評級，均較垃圾級高出三檔。標普則給予BBB評級。
+
+---
+
+### 2026-06-22 20:36:46  #MKT News #DXY #Impact bearish
+
+Reserve Bank of India net sold $8.944 bln in FX markets in April.
+
+---
+
+### 2026-06-22 20:36:22  #公司
+
+【英特爾任命李錫熙為代工執行副總裁】英特爾公司6月22日宣佈，任命李錫熙（Seok-Hee Lee）為英特爾代工執行副總裁，直接向英特爾執行長陳立武彙報。在這一職位上，李錫熙將領導先進封裝、系統整合、後道技術開發及後道製造。加入英特爾前，李錫熙曾任SK On社長兼執行長，此前還曾任SK海力士社長兼執行長。
+
+---
+
+### 2026-06-22 20:36:09  #其他
+
+【湖南足協回應交流賽衝突：暫停涉事人員參加省內一切足球活動】湖南省足球協會6月22日釋出《關於張家界市足球隊與廣東銘途梯隊交流賽有關情況的宣告》，即日起，暫停本次事件中的相關涉事人員參加湖南省內一切足球活動。責成張家界市足球協會立即依法依規調查本次事件，並根據調查結果對相關涉事人員進行嚴肅處理，深刻反思管理責任，全面加強隊伍賽風賽紀教育和日常管理。對於本事件中可能存在的違法違規行為，湖南省足球協會將依法依規嚴肅處理。
+
+---
+
+### 2026-06-22 20:35:56  #MKT News
+
+Reserve Bank of India said that although a temporary US-Iran peace agreement has eased tensions to some extent, the global economic outlook remains fragile.
+
+---
+
+### 2026-06-22 20:35:40  #央行 #國際
+
+印度央行：儘管五月份有所回升，消費者物價指數通脹依然保持穩定。如果西南季風如預期出現，可能會對國內經濟增長和通脹前景造成壓力。儘管美伊臨時和平協議帶來些許喘息，全球經濟格局依然脆弱。
+
+---
+
+### 2026-06-22 20:35:06  #Trading Economics #Markets #United Kingdom #Currency #Importance 2
+
+Sterling Rebounds After Starmer's Resignation — The British pound rebounded toward $1.33 after falling to its lowest level since March earlier in the session, as markets reacted to Prime Minister Keir Starmer's resignation, paving the way for a change in the UK's leadership. The resignation follows Greater Manchester Mayor Andy Burnham's by-election victory last week, which enabled his return to Parliament. Burnham subsequently announced his intention to seek the premiership. Prospects for a smooth leadership transition improved after Wes Streeting, previously viewed as a potential challenger, declared his support for Burnham's candidacy. Investors are now focused on the implications for the UK's fiscal outlook, seeking greater clarity on the political transition and Burnham's fiscal policy agenda, with few concrete details available so far. A key concern remains the possibility of increased gilt issuance to finance higher public spending, which could further strain the UK's already fragile public finances and elevated debt burden.
 
 ---
 
@@ -21137,317 +21353,5 @@ Iran's Islamic Revolutionary Guard Corps (IRGC) said the Strait of Hormuz is clo
 ### 2026-06-20 21:57:25  #MKT News
 
 Iran's Fars News quoted an Iranian naval source saying the Strait of Hormuz was fully closed a few minutes ago.
-
----
-
-### 2026-06-20 21:56:06  #MKT News #Brent #Impact bullish #WTI #XAUUSD
-
-【Iran foreign ministry says U.S. failed to restrain Israel, violated memorandum】Iran foreign ministry spokesman Baghaei said on the 20th the memorandum's first clause — ending all wars on all fronts, including Lebanon — is a core mutual commitment. He said Iran has met its obligations but the other party failed to compel Israel to cease military actions in Lebanon, a dereliction that constitutes a clear breach; although some steps have been taken on lifting the maritime blockade and reopening the Strait of Hormuz, the memorandum is a single package, and violation of the first clause calls the entire agreement into question unless immediate corrective measures are taken.
-
----
-
-### 2026-06-20 21:55:43  #國際
-
-【伊朗外交部：美國未能約束以色列 違反諒解備忘錄】伊朗外交部發言人巴加埃當地時間20日表示，諒解備忘錄的第一條，即“結束所有戰線的戰爭，包括黎巴嫩”，是雙方互相承諾的核心支柱。在伊朗履行自身承諾的同時，對方本應迫使以色列停止在黎巴嫩的軍事行動，但其在這一問題上的失責構成了對該協議的明確違反。巴加埃稱，儘管在解除海上封鎖和霍爾木茲海峽重新開放方面已採取了一些措施，但該諒解備忘錄本質上是一個“一攬子整體協議”。對第一條的違反意味著整個協議都將受到質疑，如果對方不立即採取必要措施，整個諒解備忘錄將面臨嚴重問題。 (央視新聞)
-
----
-
-### 2026-06-20 21:54:56  #國際
-
-萬斯：特朗普向伊朗伸出了手，如果伊朗改變行為，美國與它的關係將會有所不同。
-
----
-
-### 2026-06-20 21:53:39  #MKT News #Market Themes #Chip Wars
-
-【Storage-chip firm Yingren Technology completes IPO counseling; designs high-performance SSD controller chips】CSRC IPO counseling disclosure shows Yingren Technology Co., Ltd. and sponsor Guotai Haitong submitted a Guidance Completion Report to the Shanghai Securities Regulatory Bureau. Yingren filed its counseling record on Dec. 19, 2024; the counseling process lasted about 18 months. The fabless semiconductor designer's core business is the design and supply of high-performance solid-state drive controller chips; it also provides SSD and storage-system solutions for cloud computing, AI, data-center management and intelligent driving applications.
-
----
-
-### 2026-06-20 21:48:22  #其他
-
-【重慶釋出暴雨災害Ⅲ級預警】6月20日，重慶市氣象局釋出暴雨災害Ⅲ級預警，預計明天（21日）午後到後天（22日）夜間，重慶有新一輪強降雨，東南部將有暴雨到大暴雨。
-
----
-
-### 2026-06-20 21:44:50  #MKT News
-
-Iran's foreign ministry spokesman said the negotiating team will depart for Switzerland in a few minutes, according to Mehr News Agency.
-
----
-
-### 2026-06-20 21:42:19  #國際
-
-【伊朗外長或將與巴官員一同前往瑞士】伊朗外交部發言人巴加埃今天（6月20日）表示，伊朗談判代表團將在幾分鐘後啟程前往瑞士。他說，“我們簽署協議不是為了讓它不被執行。我們的立場是‘對等履行落實’。” 另據沙烏地阿拉伯阿拉比亞電視臺今天（6月20日）報道，伊朗外長阿拉格齊20日晚將與巴基斯坦內政部長納克維一同前往瑞士。（CCTV國際時訊）
-
----
-
-### 2026-06-20 21:42:05  #MKT News
-
-【Iran foreign minister to travel to Switzerland with Pakistan interior minister】On the evening of the 20th local time, Iran’s foreign minister Araghchi will travel to Switzerland accompanied by Pakistan’s interior minister Naqvi, sources said.
-
----
-
-### 2026-06-20 21:38:59  #其他
-
-【第二十八屆上海國際電影節金爵獎獎項揭曉】6月20日，第二十八屆上海國際電影節在上海大劇院舉行金爵獎頒獎典禮，金爵獎各獎項逐一揭曉。最終，金爵獎主競賽單元最佳影片由中國影片《大西洋》獲得；亞辛·伊德里西和哈迪賈·阿瑪裡憑藉電影《哈莉瑪》分獲最佳導演和最佳女演員獎；張頌文憑藉電影《紙盒藏迷》獲最佳男演員獎；比利時影片《微光女孩》獲評委會大獎。亞洲新人單元最佳影片由中國影片《語文的滋味》獲得。本屆上海國際電影節將於6月21日正式落下帷幕。（央視新聞）
-
----
-
-### 2026-06-20 21:38:40  #其他
-
-【工行、農行、中行、建行、交行集體宣佈 落地離岸人民幣外匯試點交易】為推動外匯市場雙向開放，促進在岸和離岸市場融合，日前，中國人民銀行行長潘功勝在2026陸家嘴論壇上宣佈，授權工行、農行、中行、建行、交行、中信銀行等6家銀行，在上海自貿區開展離岸人民幣外匯交易試點。截至目前， 工行、農行、中行、建行、交行均已宣佈落地離岸人民幣外匯試點交易。
-
----
-
-### 2026-06-20 21:36:09  #MKT News #Important
-
-【SSE developing single-sided close for stock option combos; feature not yet active】The Shanghai Stock Exchange (SSE) is developing a single-sided close function for its stock option combination strategy business but has not activated it. SSE and the Shenzhen Stock Exchange jointly launched stock option combination strategies in 2019 and explicitly specified that the single-sided close feature would not be implemented at that time. SSE has published technical interfaces for market participants to use in development, but the function remains inactive operationally.
-
----
-
-### 2026-06-20 21:35:49  #市場 #焦點
-
-【上交所擬推股票期權組合策略業務？暫不實施】近日有訊息稱，上交所擬完善股票期權組合策略業務，推出單邊平倉功能。對此，記者獲悉，2019年上交所和深交所同步推出股票期權組合策略業務，並在通知中明確單邊平倉功能暫不實施。目前，上交所正在進行該功能的技術開發工作，釋出了技術介面供市場進行技術開發使用，業務上該功能仍暫不實施。（證券時報）
-
----
-
-### 2026-06-20 21:34:56  #MKT News
-
-Iran's foreign ministry spokesman told Fars News Agency that Iran will not sign commitments it cannot fulfill, saying its principle is 'commitment for commitment'.
-
----
-
-### 2026-06-20 21:34:37  #國際
-
-伊朗外交部發言人表示，我們不會簽署不會執行的承諾；我們的方針是“以承諾換取承諾”。
-
----
-
-### 2026-06-20 21:34:30  #MKT News #Important
-
-Iran’s Foreign Ministry spokesman told Fars News Agency that Tehran will take necessary measures in response if the other party fails to fulfill its commitments.
-
----
-
-### 2026-06-20 21:34:11  #MKT News
-
-Fars News Agency quoted an Iranian foreign ministry spokesman saying the other side must take necessary measures without delay.
-
----
-
-### 2026-06-20 21:34:10  #國際
-
-伊朗外交部發言人表示，如果對方拒絕履行承諾，伊朗將採取必要措施予以回應。
-
----
-
-### 2026-06-20 21:33:32  #MKT News #WTI #Impact bullish #Brent #XAUUSD
-
-Fars News Agency quoted an Iranian Foreign Ministry spokesman as saying that if other parties fail to fulfill some commitments, the entire memorandum of understanding could be jeopardized.
-
----
-
-### 2026-06-20 21:33:25  #國際
-
-伊朗外交部發言人表示，另一方必須儘快採取必要措施。
-
----
-
-### 2026-06-20 21:33:05  #國際
-
-【敘利亞兩名士兵遭襲身亡】據敘利亞方面20日訊息，敘過渡政府國防部稱，過渡政府部隊兩名士兵當天在敘北部阿勒頗省曼比季市遭不明身份武裝人員襲擊身亡。
-
----
-
-### 2026-06-20 21:32:52  #國際
-
-伊朗外交部發言人表示，如果另一方的部分承諾未能得到履行，那麼整體諒解就會“陷入困境”。
-
----
-
-### 2026-06-20 21:32:36  #國際
-
-【伊媒稱伊朗代表團將前往瑞士】伊朗法爾斯通訊社今天（6月20日）援引伊朗外交部發言人訊息稱，伊朗代表團將前往瑞士進行美伊會談後續跟進，並要求美方履行承諾。報道稱，伊朗已履行承諾，美國有義務迫使以色列停止襲擊黎巴嫩。（CCTV國際時訊）
-
----
-
-### 2026-06-20 21:31:26  #其他
-
-【應急管理部針對安徽、湖北、湖南、貴州啟動國家地質災害四級應急響應】據氣象部門預測，6月20日至24日，廣西貴州至長江中下游等地有強降雨。應急管理部和自然資源部開展聯合會商研判，安徽南部和西部、湖北西南部和東部、湖南西部、貴州南部等部分地區發生地質災害的風險較高。根據《國家突發地質災害應急預案》及有關規定，應急管理部於6月20日，針對安徽、湖北、湖南、貴州啟動國家地質災害四級應急響應。
-
----
-
-### 2026-06-20 21:30:48  #MKT News
-
-Fars News Agency quoted an Iranian foreign ministry spokesman as saying Iran has upheld its commitments and that the other party is responsible for compelling Israel to stop its attacks on Lebanon.
-
----
-
-### 2026-06-20 21:30:33  #MKT News
-
-Iran's Fars News Agency cited an Iranian Foreign Ministry spokesman saying Iran will press the other party in Switzerland to fulfil its commitments and clarify how it will meet its obligations.
-
----
-
-### 2026-06-20 21:30:08  #國際
-
-伊朗外交部發言人表示，伊朗一貫遵守自身承諾，美國有義務迫使以色列停止襲擊黎巴嫩。
-
----
-
-### 2026-06-20 21:30:01  #國際
-
-【烏俄互指對方在赫爾松州發動襲擊】烏克蘭赫爾松州軍事管理局20日在社交媒體發文稱，截至當天早上6時，赫爾松州烏控區在過去24小時內遭俄羅斯大規模襲擊，25人在襲擊中受傷。赫爾松州軍事管理局稱，赫爾松州烏控區30多處定居點和赫爾松市的關鍵基礎設施、民用設施、加油站、居民區等遭到俄軍無人機和火炮襲擊，46處房屋受損，25人受傷。同日，俄羅斯方面任命的赫爾松地區行政長官薩爾多在社交媒體上稱，過去一天內，烏克蘭無人機襲擊造成2名當地居民死亡、6人受傷。他還稱，襲擊造成該地區多處建築受損，有農田被燒燬。
-
----
-
-### 2026-06-20 21:28:57  #MKT News #Important
-
-Fars News Agency, citing a foreign ministry spokesman, said an Iranian delegation will travel to Switzerland to follow up and demand the other party fulfil its commitments.
-
----
-
-### 2026-06-20 21:28:41  #焦點 #國際
-
-伊朗法爾斯通訊社援引伊朗外交部發言人訊息稱，伊朗代表團將前往瑞士跟進並要求另一方履行其承諾。
-
----
-
-### 2026-06-20 21:25:47  #國際
-
-沙特媒體：伊朗外長阿拉格齊今晚將與巴基斯坦內政部長一同前往瑞士。
-
----
-
-### 2026-06-20 21:25:29  #MKT News
-
-Saudi outlet Hadas reports Iranian foreign minister Araghchi will travel to Switzerland tonight accompanied by Pakistan’s interior minister.
-
----
-
-### 2026-06-20 21:24:47  #國際
-
-【日本多地民眾抗議日美聯合軍演】據日本媒體20日報道，針對日本自衛隊和美軍當天在九州、沖繩等地啟動“堅毅之龍”大規模聯合軍演，日本多地市民團體和當地居民提出抗議，要求停止軍演，避免加劇地區緊張。（新華社）
-
----
-
-### 2026-06-20 21:21:07  #國際
-
-【美副總統稱將在未來幾天內前往瑞士】當地時間6月20日，美國副總統萬斯稱，美伊會談可能於21日舉行，目前與伊朗的談判進展順利。萬斯還稱，預計將在未來幾天內前往瑞士。萬斯還表示，目前沒有證據顯示伊朗正在關閉霍爾木茲海峽。（央視新聞）
-
----
-
-### 2026-06-20 21:20:49  #央行 #其他
-
-【法國央行行長警告反覆高溫拖累經濟】法國央行行長埃馬紐埃爾·穆蘭20日接受媒體採訪時表示，反覆出現的高溫天氣預計將拖累法國經濟增長。法國正經歷今年入夏以來新一輪高溫天氣。穆蘭說，高溫天氣對經濟的短期影響較難評估；中期來看，高溫天氣容易引發火災、洪澇等災害，從而對銀行資產、保險業務等產生負面影響，進而拖累經濟增長。（新華社）
-
----
-
-### 2026-06-20 21:20:49  #MKT News #WTI #Impact bullish #Brent #XAUUSD
-
-Mehr News Agency: Iran's Supreme Joint Military Command said the Strait of Hormuz is now closed, citing the U.S.'s "clear breach of trust and violation of its commitment under Article 1 of the memorandum of understanding" and saying the move is in response to Israel's continued violations of the southern Lebanon ceasefire.
-
----
-
-### 2026-06-20 21:20:03  #國際
-
-【伊朗宣佈關閉霍爾木茲海峽】伊朗武裝部隊哈塔姆·安比亞中央司令部今天（6月20日）發表宣告稱，鑑於美國公然違背承諾，未履行旨在結束戰爭的諒解備忘錄條款；同時鑑於以色列持續違反停火協議，不斷襲擊黎巴嫩南部，造成大量黎巴嫩平民死亡，數十萬人流離失所；以及以軍仍未從黎巴嫩南部撤軍，現宣佈：霍爾木茲海峽將對所有船隻關閉。同時強調，這只是對敵方違約行為的第一步回應。如果侵略繼續，將採取進一步措施，以迫使對方履行其承諾。（CCTV國際時訊）
-
----
-
-### 2026-06-20 21:18:28  #其他
-
-萬斯：清除霍爾木茲海峽的水雷需要一些時間。
-
----
-
-### 2026-06-20 21:17:20  #MKT News #WTI #Impact bearish #XAUUSD #DXY
-
-【Vance says talks progressing; expects to travel to Switzerland in coming days】U.S. Vice President Vance told Fox News on Saturday he expects to travel to Switzerland within days for talks with Iran, but said timing depends on diplomatic coordination and procedures. He said U.S. special envoy Witkoff and Kushner have arrived at the negotiations venue and talks could take place on Sunday.
-
----
-
-### 2026-06-20 21:16:27  #MKT News #Important #WTI #Impact bullish #Brent #XAUUSD
-
-【Iran military announces closure of Strait of Hormuz】Khatam al-Anbia Central Headquarters of the Iranian armed forces said on the 20th (local time) the Strait of Hormuz will be closed to all vessels.
-
----
-
-### 2026-06-20 21:16:07  #國際
-
-【伊朗軍方宣佈關閉霍爾木茲海峽】伊朗武裝部隊哈塔姆安比亞中央總部當地時間20日表示，霍爾木茲海峽將對所有船隻航行關閉。（央視新聞）
-
----
-
-### 2026-06-20 21:15:58  #國際
-
-萬斯：最終事態如何發展，很大程度上取決於伊朗。
-
----
-
-### 2026-06-20 21:15:57  #MKT News #Important #WTI #Impact bearish #Brent
-
-Fox News reported US Vice President Vance said there is no evidence that Iran is closing the Strait of Hormuz.
-
----
-
-### 2026-06-20 21:15:24  #國際
-
-萬斯：沒有證據表明伊朗正在封鎖霍爾木茲海峽。
-
----
-
-### 2026-06-20 21:14:49  #MKT News
-
-Mehr news agency reported Iran's Supreme Joint Military Command said closure of the Strait of Hormuz is the first step and warned it would take further measures if 'aggression continues'.
-
----
-
-### 2026-06-20 21:14:18  #國際
-
-伊朗最高聯合軍事指揮部稱，關閉霍爾木茲海峽是“第一步”，並警告稱，如果“侵略行為繼續下去”，將採取進一步措施。
-
----
-
-### 2026-06-20 21:13:09  #焦點 #國際
-
-伊朗最高聯合軍事司令部稱，由於美國和以色列涉嫌違反停火諒解備忘錄，霍爾木茲海峽已關閉。
-
----
-
-### 2026-06-20 21:12:55  #國際
-
-萬斯：威特科夫正在處理伊朗談判的技術性問題。
-
----
-
-### 2026-06-20 21:12:43  #國際
-
-萬斯：將追查伊朗的濃縮鈾庫存。
-
----
-
-### 2026-06-20 21:12:28  #MKT News #Important #WTI #Impact bullish #Brent #XAUUSD
-
-Mehr News Agency reported Iran's Supreme Joint Military Command said the Strait of Hormuz will be closed to shipping.
-
----
-
-### 2026-06-20 21:12:11  #國際
-
-【伊朗外長在德黑蘭會見到訪的巴基斯坦內政部長】當地時間20日，巴基斯坦內政部長納克維在伊朗德黑蘭與伊朗外交部長阿拉格齊舉行會見。據悉，納克維將在此次訪問期間跟進美伊談判的推進情況。（央視新聞）
-
----
-
-### 2026-06-20 21:11:34  #國際
-
-伊朗最高聯合軍事指揮部稱，霍爾木茲海峽將對船隻關閉。（邁赫爾通訊社）
-
----
-
-### 2026-06-20 21:11:10  #MKT News #WTI #Impact bearish #DXY #S&P500 #Impact bullish
-
-According to Fox News, U.S. Vice President Vance said he would offer Iran an opportunity to negotiate.
 
 ---

@@ -1,7 +1,210 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-06-27 21:11:05_
-_本檔包含 3814 則快訊，約 672914 字_
+_更新時間：2026-06-27 21:56:56_
+_本檔包含 3788 則快訊，約 672092 字_
+
+---
+
+### 2026-06-26 07:16:07  #宏觀 #國際
+
+韓國財政部長稱該國計劃下調燃油價格上限。
+
+---
+
+### 2026-06-26 07:15:50  #國際
+
+特朗普：將簽署一項允許全年銷售E15汽油的法案。
+
+---
+
+### 2026-06-26 07:14:23  #其他
+
+【委內瑞拉餘震不斷傷亡慘重 2名中國公民不幸遇難】委內瑞拉自24日傍晚遭遇兩次7級以上強震後，不到一天時間已發生138次餘震，死亡人數升至188人。據中國駐委內瑞拉大使館最新訊息，已有2名中國公民不幸遇難。新華社記者25日從中國駐委內瑞拉大使館處獲悉，截至當地時間當天16時，據不完全統計，已確認有2名中國公民在“6·24地震”中遇難。同天，委內瑞拉全國代表大會主席豪爾赫·羅德里格斯表示，截至當地時間25日12時，強震已引發138次餘震，已造成188人死亡、1520人受傷、157人失蹤，約200人被困廢墟。此外，至少346處建築物受損，包括8家醫院，部分醫院已完成疏散。委政府宣佈包括拉瓜伊拉州在內的多地為災區。（新華社）
+
+---
+
+### 2026-06-26 07:13:54  #國際
+
+日本航空：受7號颱風影響，70個國內航班取消，4490人受到影響。
+
+---
+
+### 2026-06-26 07:13:14  #國際
+
+【白宮：特朗普簽署再生農業行政令】白宮釋出情況說明稱，特朗普今日簽署一項行政令，要求農業部長擴大農業部再生農業試點專案的覆蓋範圍。
+
+---
+
+### 2026-06-26 07:12:29  #國際
+
+特朗普：我們即將迎來一個叫做伊朗的新市場。
+
+---
+
+### 2026-06-26 07:12:17  #國際
+
+特朗普：伊朗將很快購買小麥、大豆和玉米。
+
+---
+
+### 2026-06-26 07:09:13  #國際
+
+韓國將繼續實施燃油價格上限制度，直至油價回落。
+
+---
+
+### 2026-06-26 07:08:30  #公司
+
+【必和必拓進行高層改組，拆分美洲區負責人職位】即將上任的必和必拓集團(BHP Group)執行長布蘭登·克雷格(Brandon Craig)將把他近期負責的該公司美洲業務的職位一分為二。他表示，這一變動將使公司能夠更專注於北美和南美地區。必和必拓(BHP)任命創新副總裁傑西卡·法雷爾(Jessica Farrell)為北美區總裁，7月1日生效。必和必拓表示，在南美區總裁一職的人選確定前，法雷爾將代理該職位。該公司還表示，從9月起，營運長埃德加·巴斯托(Edgar Basto)將出任首席企業績效官，新增職責包括加強承包商安全管理。該公司稱，Geraldine Slattery將繼續擔任澳大利亞區總裁，並將負責南澳銅礦(Copper South Australia)業務。克雷格(Craig)是必和必拓的資深高管，自2024年3月起負責該公司的美洲業務。他將於7月1日出任這家全球市值最大礦業公司的執行長。
+
+---
+
+### 2026-06-26 07:07:30  #國際
+
+韓國財長稱，韓國下半年將凍結電力、天然氣價格。（韓聯社）
+
+---
+
+### 2026-06-26 07:04:14  #央行 #國際
+
+芝加哥聯儲主席：美國勞動力市場狀況不佳，但總體穩定。
+
+---
+
+### 2026-06-26 07:03:43  #MKT News
+
+White House says Trump signed an executive order related to agriculture.
+
+---
+
+### 2026-06-26 07:03:28  #國際
+
+白宮：特朗普簽署了一項與農業相關的行政命令。
+
+---
+
+### 2026-06-26 07:03:16  #國際
+
+【25日歐洲35℃以上高溫覆蓋人口超1億】隨著高溫天氣持續席捲歐洲，多國遭遇6月同期破紀錄高溫。英國氣象局25日表示，當天位於約維爾頓的監測站測得36.4攝氏度的高溫，已打破該國自1957年以來的6月日最高氣溫紀錄。據法國方面25日訊息，根據天氣預報和歐盟聯合研究中心的人口資料估算，歐洲當天至少有1.01億人身處35攝氏度以上高溫環境，其中法國受影響人口達5000萬、德國1800萬。
+
+---
+
+### 2026-06-26 07:03:04  #公司 #國際
+
+加拿大礦商Titan Mining多倫多股價收漲4.36%，報3.11加元，在一波短線衝高回落行情中，北京時間03:23一度達到3.42加元。美國REalloys則收跌14.52%，報14.25美元，全天低位震盪。美國陸軍選擇這兩家公司修建關鍵礦物處理設施。
+
+---
+
+### 2026-06-26 07:02:00  #央行 #國際
+
+美聯儲古爾斯比： 市場僱傭與裁員規模雙雙走低，根源在於經濟前景不確定性。
+
+---
+
+### 2026-06-26 07:01:29  #國際
+
+【25日歐洲35℃以上高溫覆蓋人口超1億】隨著高溫天氣持續席捲歐洲，多國遭遇6月同期破紀錄高溫。英國氣象局25日表示，當天位於約維爾頓的監測站測得36.4攝氏度的高溫，已打破該國自1957年以來的6月日最高氣溫紀錄。據法國方面25日訊息，根據天氣預報和歐盟聯合研究中心的人口資料估算，歐洲當天至少有1.01億人身處35攝氏度以上高溫環境，其中法國受影響人口達5000萬、德國1800萬。
+
+---
+
+### 2026-06-26 07:00:53  #央行 #國際
+
+美聯儲古爾斯比： 勞動力市場已連續一年多保持異常穩定。
+
+---
+
+### 2026-06-26 06:59:46  #宏觀
+
+除了頭版內容，今天《人民日報》涉及財經的主要內容還包括：
+1、“創新紅利”，推動中國機遇再升級（和音）
+2、中企投資的巴西東北部特高壓直流輸電專案全線開工
+3、完善現代化綜合交通運輸體系 加快建設交通強國——訪交通運輸部黨組書記、部長劉偉
+4、未來產業靠什麼“破土而出”（微觀）
+5、《新型能源體系建設“十五五”規劃》釋出
+6、以實幹擔當書寫航天強國建設時代答卷
+7、外國遊客的來華“必買清單”不斷“上新” “新特產”何以圈粉外國遊客（財米油鹽）
+8、法國科技創新展聚焦人工智慧工業應用
+9、匯率波動考驗東南亞經濟韌性（經濟透視）
+10、如何把農業建成現代化大產業？（每週經濟評論）。
+
+---
+
+### 2026-06-26 06:59:37  #宏觀 #焦點
+
+今天《人民日報》頭版的主要內容有：
+1、“在黨的領導下把家園建設得越來越美”——習近平總書記在山東德州考察紀實
+2、用勤勞和智慧創造更加美好生活——習近平總書記山東德州考察重要講話激勵廣大幹部群眾堅定信心、實幹篤行
+3、李強同孟加拉國總理塔裡克會談
+4、廣東梅州市紮實推進鄉村全面振興——讓鄉親們的日子像金柚一樣甜美（牢記初心使命 奮進復興征程）
+5、十四屆全國人大常委會舉行第六十九次委員長會議 聽取有關草案和議案審議情況彙報 趙樂際主持
+6、丁薛祥出席第九屆中國—亞歐博覽會開幕式並會見與會外國政要
+7、穩存量 擴增量 提質量 從鏈博會看利用外資固穩促優。
+
+---
+
+### 2026-06-26 06:59:15  #市場 #央行 #國際
+
+美聯儲古爾斯比：油價下跌或將成為經濟利好推動力，服務業通脹分項資料高得令人擔憂。
+
+---
+
+### 2026-06-26 06:57:45  #市場 #央行 #國際
+
+美聯儲古爾斯比：油價下跌可能會對美國經濟構成尾部風險。令人心煩意亂的高通脹來自服務業。
+
+---
+
+### 2026-06-26 06:57:40  #Trading Economics #Markets #New Zealand #Stock Market #Importance 1
+
+NZX 50 Points to 3rd Straight Weekly Gain — The NZX 50 climbed 22 points, or 0.2%, to 13,516 in Friday morning trade, extending gains from the previous session and marking its highest level since March 6, primarily buoyed by gains in consumer staples, materials, and communication services. Easing oil prices further lifted sentiment as inflation concerns moderated, reducing expectations of an interest rate hike. However, traders remained cautious after US PCE inflation hit a three-year high, raising expectations that the Fed will hold interest rates higher for longer. Traders also anticipated New Zealand's consumer and business confidence data due next week, as well as China's PMI data and US jobs data for June. Among the early gainers were Vulcan Steel (1.9%), Contact Energy (1.2%), AFT Pharmaceuticals (0.8%), Chorus (0.6%), ANZ Group (0.3%), and Ebos Group (0.3%). For the week, the index is on track for a 0.1% gain, which would mark its third consecutive weekly advance.
+
+---
+
+### 2026-06-26 06:57:19  #國際
+
+特朗普政府擬提名Jeffrey Vacirca出任美國食品藥品監督管理局（FDA）局長。
+
+---
+
+### 2026-06-26 06:56:39  #MKT News #Market Regions #Europe & UK
+
+【EU sends €3.2 bln first tranche of €900 bln Ukraine loan】European Commission president Von der Leyen said on the 25th the EU has sent €3.2 bln to Ukraine, the first disbursement from a €900 bln loan package designed to cover Ukraine’s 2026–27 fiscal needs. The European Parliament approved the €900 bln loan in February and the EU gave formal approval in April.
+
+---
+
+### 2026-06-26 06:56:11  #國際
+
+【歐盟向烏撥付900億歐元貸款首筆資金】歐盟委員會主席馮德萊恩25日宣佈，歐盟當天向烏克蘭撥付了32億歐元的貸款。這是歐盟向烏提供的900億歐元貸款中的首筆資金。今年2月，歐洲議會投票透過一項總額900億歐元的烏克蘭援助貸款，以滿足烏克蘭2026至2027年度的財政需求。4月，歐盟正式批准這筆貸款。（央視新聞）
+
+---
+
+### 2026-06-26 06:55:55  #MKT News
+
+President Trump nominated Chris Kelongpu as the next deputy secretary of the Department of Health and Human Services.
+
+---
+
+### 2026-06-26 06:55:33  #國際
+
+特朗普：提名Chris Klomp出任衛生與公眾服務部副部長。
+
+---
+
+### 2026-06-26 06:54:22  #國際
+
+大韓航空（股票程式碼：003490.KS）收到韓國交通部通知，其與韓亞航空的合併方案獲批。
+
+---
+
+### 2026-06-26 06:54:09  #其他
+
+【非洲疾控中心：埃博拉疫情應對資金需求增至14億美元】非洲疾控中心25日在新聞釋出會上表示，隨著疫情形勢持續惡化，埃博拉疫情應對資金需求已大幅上調至14億美元，幾乎是此前預計的5.18億美元的三倍。非洲疾病預防控制中心主任讓·卡塞亞在當天舉行的新聞釋出會上表示，疫情發展及不斷加劇的人道主義危機推高了防控成本，使應對資金需求顯著增加。讓·卡塞亞指出，剛果（金）伊圖裡省的安全和人道主義局勢持續惡化，對疫情防控工作造成嚴重影響。剛果（金）衛生部當天釋出的疫情報告顯示，該國本輪埃博拉疫情累計確診病例升至1155例，其中304例死亡。確診病例死亡率為26.3%。（央視新聞）
+
+---
+
+### 2026-06-26 06:53:51  #其他
+
+澳大利亞競爭與消費者委員會（ACCC）：自 7 月 1 日起啟動超市物價監控工作。
 
 ---
 
@@ -22658,347 +22861,5 @@ CBS reports Trump plans to push to make the 15% ethanol gasoline blend policy (E
 ### 2026-06-25 03:18:00  #MKT News
 
 Iran's Foreign Ministry spokesman said the U.S. must avoid interpreting the memorandum of understanding in a way that contradicts its literal text and must fulfill its commitments.
-
----
-
-### 2026-06-25 03:17:54  #國際
-
-據CBS：特朗普擬推動將 15% 乙醇汽油混合燃料政策永久化。
-
----
-
-### 2026-06-25 03:17:17  #國際
-
-伊朗外交部發言人：美國不得做出與結束戰爭諒解備忘錄明文條款相悖的解讀，並應履行自身承諾。
-
----
-
-### 2026-06-25 03:16:05  #國際
-
-【美能源部長：過去24小時72艘船透過霍爾木茲海峽】美國能源部長賴特表示，過去24小時內共有72艘船舶透過霍爾木茲海峽，運輸原油約2000萬桶。賴特當天在紐約表示，伊朗今後將無法關閉霍爾木茲海峽，並稱這是伊朗“關鍵籌碼”，美國正在削弱這一籌碼。（央視新聞）
-
----
-
-### 2026-06-25 03:15:44  #國際
-
-特朗普將向國會尋求逾14億美元的埃博拉資金援助。
-
----
-
-### 2026-06-25 03:15:21  #MKT News
-
-Iran's foreign ministry spokesman said US statements on the memorandum of understanding are contradictory and do not help reduce distrust among the Iranian public.
-
----
-
-### 2026-06-25 03:14:47  #國際
-
-伊朗外交部發言人：美國關於結束戰爭諒解備忘錄的表態前後矛盾，無助於消除伊朗民眾的不信任感。
-
----
-
-### 2026-06-25 03:13:59  #MKT News #QCOM.O #Impact bullish
-
-Qualcomm (QCOM.O) said its automotive business will reach an annualized revenue run rate of $6.0 bln in fiscal 2026.
-
----
-
-### 2026-06-25 03:13:55  #MKT News #Star Stocks #Meta Platforms #Market Themes #AI Revolution #Chip Wars #Magnificent 7 #QCOM.O #Impact bearish #META.O
-
-【Qualcomm unveils Dragonfly C1000 data‑center AI CPU; Meta to adopt in 2028】Qualcomm (QCOM.O) unveiled the Dragonfly C1000, a data‑center CPU tailored for agent-style AI workloads that prioritizes high compute with low power draw. Qualcomm said Meta Platforms (META.O) will adopt the chip for mass production beginning in 2028. The launch underscores Qualcomm's push from smartphone processors and modems into the data‑center market. Qualcomm shares fell more than 5% after the announcement.
-
----
-
-### 2026-06-25 03:13:16  #其他
-
-高通：2026 財年末汽車業務年化營收將達 60 億美元。
-
----
-
-### 2026-06-25 03:10:23  #MKT News
-
-U.S. appeals court upholds lower-court ruling that bars the Justice Department from obtaining Michigan voter rolls.
-
----
-
-### 2026-06-25 03:09:21  #市場
-
-在岸人民幣兌美元（CNY）北京時間03:00收報6.8092元，較週二夜盤收盤跌154點。成交量714.35億美元。
-
----
-
-### 2026-06-25 03:07:42  #MKT News #Market Themes #AI Revolution
-
-The Wall Street Journal reports a startup founded by former Anthropic employees plans to help scientists develop their own AI.
-
----
-
-### 2026-06-25 03:06:14  #公司
-
-巴西國家石油公司：布齊奧斯油田週二原油日產量達到 110 萬桶。
-
----
-
-### 2026-06-25 03:05:50  #國際
-
-美國上訴法院維持原判，阻止司法部調取密歇根州選民登記名冊。
-
----
-
-### 2026-06-25 03:04:54  #MKT News #Hang Seng Index #Impact bearish
-
-Hang Seng index futures fell 0.29% in the night session to 23,322, trading 90 points below the cash index.
-
----
-
-### 2026-06-25 03:04:32  #其他
-
-高通：資料中心業務 2027 財年將創造數十億美元營收。
-
----
-
-### 2026-06-25 03:04:15  #MKT News
-
-Financial Times reports prediction-market platform Kalshi is in talks to raise funding at a $40 bln valuation.
-
----
-
-### 2026-06-25 03:03:43  #MKT News #Market Themes #Chip Wars #QCOM.O
-
-Qualcomm said it is working with a hyperscale customer to develop a new communications chip.
-
----
-
-### 2026-06-25 03:03:28  #MKT News #Market Themes #Chip Wars #QCOM.O #Impact bullish
-
-Qualcomm launches services supporting PAM4 electrical and optical signaling.
-
----
-
-### 2026-06-25 03:03:00  #其他
-
-市場訊息：預測交易平臺 Kalshi 洽談新一輪融資，投後估值目標 400 億美元。Kalshi 最快將於今年第三季度完成新一輪融資交割。
-
----
-
-### 2026-06-25 03:02:20  #MKT News
-
-The White House plans to seek more than $1.4 billion from Congress to respond to the Ebola outbreak.
-
----
-
-### 2026-06-25 03:02:15  #MKT News #Commodities #Energy #WTI #Impact bearish
-
-【Trump says Iran agreed to all his demands; notes oil below $70】NBC News reported President Trump told reporters after a closed-door lunch with Senate Republicans that Iran "agreed to all the demands I made" and that oil had "just fallen below $70." Punchbowl reporting said a Republican senator called the meeting a "venting session," and that Trump was in a bad mood, clashed with Sen. Cassidy and berated Republicans who voted to limit war powers.
-
----
-
-### 2026-06-25 03:02:12  #其他
-
-高通：正與一家超大型雲服務商合作研發全新通訊晶片。
-
----
-
-### 2026-06-25 03:01:36  #其他
-
-高通：推出 PAM4 電訊號與光訊號配套服務。
-
----
-
-### 2026-06-25 03:01:08  #其他
-
-高通：推出面向資料中心的 Dragonfly C1000 處理器。
-
----
-
-### 2026-06-25 03:00:02  #市場
-
-恒指期貨夜盤收跌0.30%，報23269.77點，低水142.41點。
-
----
-
-### 2026-06-25 02:59:03  #其他
-
-高通資料部門主管：高通已贏得兩筆超大規模雲廠商重大訂單，將為高通帶來可觀收入。
-
----
-
-### 2026-06-25 02:58:51  #MKT News #Market Themes #Chip Wars #Magnificent 7 #Star Stocks #Meta Platforms #QCOM.O #Impact bullish #META.O #Impact mixed
-
-Qualcomm said Meta plans to deploy Qualcomm's C1000 server CPU in Meta's data centers.
-
----
-
-### 2026-06-25 02:58:22  #MKT News #Market Themes #Chip Wars #QCOM.O
-
-Qualcomm said the Dragonfly C1000 CPU will launch in 2028.
-
----
-
-### 2026-06-25 02:56:37  #公司 #焦點
-
-Meta執行長馬克·扎克伯格：在多代戰略協作框架下，高通將成為Meta的資料中心CPU供應商。
-
----
-
-### 2026-06-25 02:56:20  #其他
-
-高通：飛龍C1000伺服器CPU將於2028年推出，Meta計劃在自有資料中心採用該款處理器。
-
----
-
-### 2026-06-25 02:55:43  #公司
-
-瑞典法院再次推遲作出Pricerunner訴谷歌反壟斷案的判決。
-
----
-
-### 2026-06-25 02:54:57  #Trading Economics #Markets #commodity #Importance 0
-
-Brent Crude Oil is down by 5% — Brent Crude Oil decreased 5% to 73.228 USD/Bbl
-
----
-
-### 2026-06-25 02:54:55  #國際
-
-美國眾議院議長邁克·約翰遜將於明日與特朗普會面。
-
----
-
-### 2026-06-25 02:54:33  #公司 #市場
-
-Alphabet股價觸及盤中低點，最新跌幅接近1%，該公司宣佈將Gemini 3.5 Pro的釋出推遲至7月。
-
----
-
-### 2026-06-25 02:53:58  #市場 #國際
-
-美國10年期國債收益率下跌10個基點至4.396%。
-
----
-
-### 2026-06-25 02:53:56  #MKT News #Commodities #Energy
-
-Philip, secretary-general of the Gas Exporting Countries Forum (GECF), said that as the Iran war ends, natural gas demand would begin to recover in Q3.
-
----
-
-### 2026-06-25 02:53:19  #國際
-
-天然氣出口國論壇秘書長菲利普·姆謝爾比拉表示，隨著伊朗戰爭結束，天然氣需求將在第三季度開始回升。
-
----
-
-### 2026-06-25 02:50:59  #其他
-
-納斯達克100指數跌幅擴大至1%。
-
----
-
-### 2026-06-25 02:50:57  #市場 #焦點
-
-高通股價迅速擴大跌幅，跌至盤中低點6%。
-
----
-
-### 2026-06-25 02:49:32  #市場 #焦點
-
-高通股價隨成交量走高下跌，目前資料中心部門主管正在投資者日發表講話，股價跌超5%，報每股193.31美元。
-
----
-
-### 2026-06-25 02:47:43  #MKT News #QCOM.O
-
-Qualcomm's head of data-center business said commercial samples of the firm's first-generation high-bandwidth computer, equipped with the AI250 accelerator, are expected in mid-2027.
-
----
-
-### 2026-06-25 02:47:22  #MKT News #Market Themes #Chip Wars #QCOM.O
-
-Qualcomm's head of data center business said the company will launch a second-generation HBC chip in 2028.
-
----
-
-### 2026-06-25 02:47:14  #市場
-
-布倫特原油期貨結算價報每桶73.74美元，下跌3.34美元，跌幅4.33%。
-
----
-
-### 2026-06-25 02:47:11  #其他
-
-高通資料中心部門主管：高通將於2028年推出第二代HBC晶片。
-
----
-
-### 2026-06-25 02:46:19  #其他
-
-高通資料中心主管表示，搭載AI250的高通第三代高頻寬計算晶片Gen 1預計將於2027年年中進入商業取樣階段。
-
----
-
-### 2026-06-25 02:45:13  #MKT News #Important #Star Stocks #Microsoft #Market Themes #Chip Wars #Magnificent 7 #QCOM.O #Impact bullish #MSFT.O
-
-Qualcomm data‑center business head says Microsoft will deploy the company's high‑bandwidth compute chips in Azure data centers.
-
----
-
-### 2026-06-25 02:44:30  #其他 #焦點
-
-高通資料中心主管：微軟將在Azure資料中心部署高通高頻寬計算晶片。
-
----
-
-### 2026-06-25 02:43:41  #MKT News #Important #Star Stocks #Alphabet #Market Themes #AI Revolution #Magnificent 7 #GOOG.O #Impact bearish
-
-Alphabet shares (GOOG.O) extended losses to 0.8% after reports Google pushed back the launch of its Gemini 3.5 Pro large AI model to July to gather more early-tester feedback and further tune the model.
-
----
-
-### 2026-06-25 02:42:21  #其他
-
-委內瑞拉代總統羅德里格斯：委內瑞拉謀求與哥倫比亞新一屆政府開展合作。
-
----
-
-### 2026-06-25 02:42:15  #MKT News #Market Themes #Chip Wars #QCOM.O #Impact bullish
-
-Qualcomm's data-center business head said the company expects its custom-chip business to begin contributing meaningful revenue from Q1 2027 and to be materially revenue-generating by end-2027.
-
----
-
-### 2026-06-25 02:41:45  #公司
-
-谷歌將Gemini 3.5 Pro大模型釋出時間推遲至7月。
-
----
-
-### 2026-06-25 02:40:53  #其他
-
-高通資料中心部門主管：從2027年第一財季開始，定製矽晶片業務將在年末為高通帶來可觀營收。
-
----
-
-### 2026-06-25 02:40:50  #MKT News #Important #QCOM.O
-
-Qualcomm's data-center chief said the company plans to launch a data-center CPU in mid-2028.
-
----
-
-### 2026-06-25 02:39:17  #其他
-
-高通資料中心部門主管：高通將於2028年年中推出資料中心CPU。
-
----
-
-### 2026-06-25 02:36:31  #公司
-
-市場資訊：資料中心行業迎來擴張熱潮，特殊目的收購公司（SPAC）被視作企業登陸公開市場的核心渠道。
-
----
-
-### 2026-06-25 02:36:10  #MKT News #Market Themes #The Trump Trade
-
-【Sources: U.S. to press ahead with sale of jet engines to Turkey before NATO summit】Four people said on Wednesday that despite opposition from some U.S. lawmakers the Trump administration plans to move forward with a sale of dozens of jet engines to Turkey worth several hundred million dollars. The deal, seen as a goodwill gesture ahead of next month’s NATO summit in Turkey, involves GE-made engines intended for Turkey’s first indigenous fighter, KAAN, a program launched in 2016 as part of Ankara’s drive for defense autonomy. One source said the transaction would exceed $700m.
 
 ---

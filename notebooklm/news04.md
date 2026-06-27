@@ -1,7 +1,343 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-06-27 21:11:05_
-_本檔包含 3519 則快訊，約 672871 字_
+_更新時間：2026-06-27 21:56:56_
+_本檔包含 3539 則快訊，約 671692 字_
+
+---
+
+### 2026-06-23 22:42:33  #其他
+
+【算電協同迎重大機遇】在距離第四屆鏈博會會場不到100公里外的河北張家口，當地正在打造國家級超大規模綠色算力叢集。來自張北的風，如何“點亮”AI大腦？央視財經記者瞭解到，這一位於張家口懷來縣的大型單體AI算力叢集，一期專案已全面投產，部署伺服器數量超20萬臺，其中不少都是用於國內網際網路企業的AI大模型迭代訓練和應用推理，整個算力叢集執行1小時的用電量就要超百萬度。而張家口風能資源可開發量超4000萬千瓦，豐富的綠電資源，為算力產業提供穩定支撐。在距離這一專案不遠位置，另一處在建的算力中心今年5月也完成了新一棟機房樓的投產。資料顯示，2025年全國算力中心總用電量達1700億千瓦時，佔全社會用電量的1.6%。與此同時，我國綠色電力供應規模持續擴大，2025年全國綠色電力交易電量達3285億千瓦時。業內預計，“十五五”時期隨著全國綠色電力與算力協同佈局的推進，上下游產業鏈將迎來更大的發展機遇。（央視財經）
+
+---
+
+### 2026-06-23 22:41:53  #MKT News #S&P500 #Impact bullish #DXY #Impact bearish #XAUUSD
+
+Putin said Russia is prepared to hold peace talks with Ukraine under the "Istanbul-2022" framework.
+
+---
+
+### 2026-06-23 22:41:40  #MKT News #Commodities #Energy #WTI #Impact bullish #Brent
+
+【Russia weighing diesel export ban, delays refinery maintenance — Novak】Russian Deputy Prime Minister Novak said Moscow is considering a ban on diesel exports. He described the fuel market as complex but under control, saying refiners have postponed maintenance and oil firms have pushed fuel output to maximum. Authorities are tapping fuel reserves and have proposed tax changes aimed at increasing fuel supply.
+
+---
+
+### 2026-06-23 22:41:38  #焦點 #國際
+
+俄羅斯總統普京：俄羅斯準備在“伊斯坦布林-2022”框架下與烏克蘭進行和平談判。
+
+---
+
+### 2026-06-23 22:41:28  #公司
+
+【AI智慧終端全面爆發】在第四屆鏈博會現場，原有的“數字科技鏈”升級成為“數智科技鏈”。這一字之變，背後體現的是人工智慧正在成為產業鏈上的主角。現場首設的人工智慧專區，集聚了中外AI領軍企業，展示了從資料、算力到應用的全鏈條。不同廠家的AI眼鏡、數字底盤的智慧汽車、會踢足球的人形機器人……央視財經記者在鏈博會現場看到，人工智慧接入物理世界的形態，正在從手機和電腦走向各類新的智慧終端。今年以來，AI智慧體應用也全面爆發。高通公司全球高階副總裁錢堃表示，AI智慧體的賦能使得現有終端裝置有一個大的升級換代週期。中國的產業鏈非常完善，透過跟中國合作伙伴不斷合作，他們的產品能很快走向市場並被全球接受。阿里雲智慧集團副總裁劉湘雯表示，AI從原來的聊天進入到幹活的生產力要素，所有全棧上的，無論是GPU的雲還是CPU，發展非常迅速，相信接下來還有更大的空間。（央視財經）
+
+---
+
+### 2026-06-23 22:40:27  #MKT News #XAUUSD #Impact bullish #DXY #WTI
+
+Putin said Ukraine's strikes on civilian targets cannot affect the frontline situation.
+
+---
+
+### 2026-06-23 22:40:23  #國際
+
+俄羅斯總統普京：烏克蘭對平民目標的襲擊無法影響前線局勢。
+
+---
+
+### 2026-06-23 22:39:12  #公司
+
+據港交所檔案：上海哥瑞利軟體股份有限公司透過港交所上市聆訊。
+
+---
+
+### 2026-06-23 22:38:55  #MKT News #WTI #Impact bearish #Brent
+
+Russian Deputy Prime Minister Novak said Moscow is drafting a tax reform plan to increase fuel supplies.
+
+---
+
+### 2026-06-23 22:38:35  #國際
+
+俄羅斯副總理諾瓦克：已擬定稅收調整方案以增加燃油供應。
+
+---
+
+### 2026-06-23 22:37:36  #MKT News
+
+Russian Deputy Prime Minister Novak said he has proposed tax measures.
+
+---
+
+### 2026-06-23 22:37:24  #國際
+
+俄羅斯副總理諾瓦克：稅收提案已提交。
+
+---
+
+### 2026-06-23 22:37:03  #MKT News #Important #Commodities #Energy #WTI #Impact bearish #Brent
+
+Russian Deputy Prime Minister Novak said Russia is tapping fuel reserves.
+
+---
+
+### 2026-06-23 22:36:56  #MKT News #Commodities #Energy #WTI #Impact bullish #Brent
+
+Russian Deputy Prime Minister Novak said oil companies have raised fuel production to maximum levels as of today.
+
+---
+
+### 2026-06-23 22:36:52  #焦點 #國際
+
+俄羅斯副總理諾瓦克：我們正在動用燃料儲備。
+
+---
+
+### 2026-06-23 22:36:40  #公司 #國際
+
+俄羅斯副總理諾瓦克：截至今日，石油公司已將燃料產量提升至最高水平。
+
+---
+
+### 2026-06-23 22:36:37  #MKT News
+
+Russian Deputy Prime Minister Novak said Russia has postponed maintenance at oil refineries.
+
+---
+
+### 2026-06-23 22:36:23  #公司
+
+魯比奧：兩家與GAESA有關聯的公司正在為古巴政權轉移資金。
+
+---
+
+### 2026-06-23 22:36:17  #MKT News #Important #Commodities #Industrial Metals #Copper #Impact bearish
+
+LME tin down 4.00% intraday at 51,105 dlr/ton.
+
+---
+
+### 2026-06-23 22:36:09  #MKT News #Important #Commodities #Energy #WTI #Impact bullish #Brent
+
+Russia Deputy Prime Minister Novak said Moscow is considering a ban on diesel exports.
+
+---
+
+### 2026-06-23 22:35:58  #國際
+
+俄羅斯副總理諾瓦克：我們推遲了煉油廠的維護工作。
+
+---
+
+### 2026-06-23 22:35:44  #國際
+
+俄羅斯副總理諾瓦克：我們考慮禁止柴油出口。
+
+---
+
+### 2026-06-23 22:35:39  #其他
+
+魯比奧：GAESA為古巴安全機構提供資金支援。
+
+---
+
+### 2026-06-23 22:35:17  #MKT News
+
+Russian Deputy Prime Minister Novak: We can cope with the challenges.
+
+---
+
+### 2026-06-23 22:35:11  #MKT News #Commodities #Energy
+
+Russian Deputy Prime Minister Novak said the fuel market is complex but remains within a controllable range.
+
+---
+
+### 2026-06-23 22:35:02  #市場
+
+英鎊兌美元GBP/USD失守1.32，日內跌幅0.38%。
+
+---
+
+### 2026-06-23 22:34:57  #MKT News #Market Regions #Europe & UK #GBPUSD #Impact bearish
+
+GBP/USD slipped below 1.32, down 0.38% intraday.
+
+---
+
+### 2026-06-23 22:34:55  #MKT News #Important #Commodities #Precious Metals
+
+New York silver futures fell 6.00% intraday to $61.62/oz.
+
+---
+
+### 2026-06-23 22:34:54  #國際
+
+俄羅斯副總理：我們有能力應對挑戰。
+
+---
+
+### 2026-06-23 22:34:37  #國際
+
+俄羅斯副總理：燃料市場形勢並不簡單，但處於可控狀態。
+
+---
+
+### 2026-06-23 22:34:16  #其他
+
+魯比奧：5個古巴FRIMS專案被指定用於為古巴創收。
+
+---
+
+### 2026-06-23 22:34:04  #其他
+
+【安理會決議追究對維和人員犯罪罪責】今天（6月23日），聯合國安理會一致透過關於“追究針對聯合國維和人員所犯罪行責任”的第2823號決議。決議由丹麥和巴基斯坦起草，獲得包括中國在內的150多個聯合國會員國共同提案支援。決議旨在推動安理會超越單純譴責襲擊的做法，建立一種更加制度化的後續跟進機制，使安理會能夠持續關注相關進展，包括事實查明、調查推進以及責任追究等工作，表明安理會致力於維護維和人員的安全與保障，並強調調查和起訴侵害維和人員犯罪行為的重要性。 決議譴責一切針對聯合國維和人員的襲擊，並向所有在執行任務期間犧牲的維和人員致敬；強調對維和人員的襲擊可能構成戰爭罪，並指出確保追究責任對於威懾未來襲擊、提升維和人員安全與保障具有重要意義；決議呼籲所有利益攸關方與聯合國合作推進有關工作，並強調東道國有責任採取一切必要措施調查此類犯罪並起訴肇事者。（CCTV國際時訊）
+
+---
+
+### 2026-06-23 22:34:04  #市場
+
+紐約期銀日內跌6%，現報62.03美元/盎司。
+
+---
+
+### 2026-06-23 22:32:48  #MKT News #Market Regions #Europe & UK #EURUSD #Impact bullish #DXY #Impact bearish #DAX
+
+ECB Vice President Vujcic said euro-area growth has shown greater resilience to supply shocks than expected.
+
+---
+
+### 2026-06-23 22:32:38  #MKT News #Market Regions #Emerging Markets
+
+REUTERS SURVEY: Of 27 analysts, 6 forecast Colombia's central bank will raise rates by 75bp, 4 forecast a 100bp hike, 1 forecasts 25bp, and 3 expect no change.
+
+---
+
+### 2026-06-23 22:32:10  #MKT News #Market Regions #Emerging Markets
+
+REUTERS SURVEY: Of 27 analysts surveyed, 13 expect Colombia's central bank to raise rates by 50bp to 11.75% in June.
+
+---
+
+### 2026-06-23 22:31:50  #MKT News
+
+REUTERS SURVEY: Colombia's key policy rate is expected to reach 12.25% by end-2026, up from 12.0% in the prior survey.
+
+---
+
+### 2026-06-23 22:31:22  #MKT News #Macro & Rates
+
+REUTERS SURVEY: Expectations for Colombia's interest rate at end-2027 rose to 10.50% from 10% in the prior survey.
+
+---
+
+### 2026-06-23 22:31:07  #央行 #國際
+
+歐洲央行副行長武伊契奇：歐元區經濟增長在面對供應衝擊時展現出的韌性超出人們預期。
+
+---
+
+### 2026-06-23 22:30:35  #Trading Economics #Markets #Canada #stocks #Importance 1
+
+CIBC Stock Price Hits 4-year High — CIBC shares increased to 162.22 CAD, the highest since March 2022. Over the past 4 weeks, CIBC gained 0.9%, and in the last 12 months, it increased 68.22%.
+
+---
+
+### 2026-06-23 22:30:34  #央行 #國際
+
+歐洲央行副行長武伊契奇：經濟增長具備 “較強韌性”。
+
+---
+
+### 2026-06-23 22:30:25  #央行 #其他
+
+路透民調：在參與本次調查的27名分析師中，有13名認為哥倫比亞央行將在6月把加息50個基點，將政策利率上調至11.75%。
+
+---
+
+### 2026-06-23 22:30:24  #MKT News
+
+ECB Vice President VUJCIC: growth relatively steady.
+
+---
+
+### 2026-06-23 22:30:22  #其他
+
+路透調查：預測哥倫比亞基準利率2026年末將升至12.25%，前次調查預期為12%。
+
+---
+
+### 2026-06-23 22:30:18  #其他
+
+路透調查：市場對哥倫比亞2027年末的利率預期上調至10.50%，此前調查預期為10%。
+
+---
+
+### 2026-06-23 22:29:58  #MKT News
+
+ECB Vice President VUJCIC said he believes markets have a full understanding of the ECB.
+
+---
+
+### 2026-06-23 22:29:52  #公司 #市場
+
+【6月23日增減持彙總】據不完全統計，6月23日盤後，康平科技、ST海王披露增持情況，三六零、深深房A、金丹科技、南威軟體、威帝股份、富淼科技、康惠股份7家A股上市公司披露擬減持情況。
+
+---
+
+### 2026-06-23 22:29:39  #MKT News #Market Regions #Europe & UK #EURUSD #Impact mixed #DXY #US10Y
+
+VUJCIC, ECB vice-president, said the bank does not want to provide any forward guidance and will treat each policy meeting on a meeting-by-meeting, real-time basis.
+
+---
+
+### 2026-06-23 22:29:34  #其他
+
+【海關總署：5月份中國進口煉焦煤1114.5萬噸 同比增長50.9%】海關總署最新資料顯示，2026年5月份，中國進口煉焦煤1114.5萬噸，同比增長50.9%，環比下降1.4%。2026年1-5月，中國累計進口煉焦煤5469.6萬噸，同比增長25.1%。
+
+---
+
+### 2026-06-23 22:28:47  #央行 #國際
+
+歐洲央行副行長武伊契奇：我認為市場對歐洲央行有著充分的理解。
+
+---
+
+### 2026-06-23 22:28:28  #央行 #國際
+
+歐洲央行副行長武伊契奇：我們不會給出任何前瞻指引，歐洲央行每次議息會議均靈活應變、無預設路徑。
+
+---
+
+### 2026-06-23 22:26:09  #MKT News
+
+【Israel, Lebanon begin Washington talks】Israel and Lebanon began a new round of talks in Washington on June 23, the Israeli embassy said, with discussions on both diplomatic and military tracks. A US State Department official said the sequence starts with a joint military-political meeting, followed by military-only sessions and concluding with political talks. The talks are expected to run through June 25.
+
+---
+
+### 2026-06-23 22:25:36  #資料 #市場 #國際
+
+【美國企業活動創五個月來最快擴張 製造業表現強勁】美國企業活動擴張速度升至五個月來最快，主要得益於製造業商品需求的激增。週二公佈的資料顯示，標普全球6月綜合採購經理人指數初值升至52.2。該數字高於50表明活動處於擴張。其中，製造業PMI升至55.7，為2022年5月以來最高水平，因為工廠加快生產，以滿足逾四年來最強勁的新訂單增長。服務業活動也有所改善，部分受世界盃賽事帶動。不過，高企的價格和低迷的消費者信心繼續抑制需求。標普全球市場財智的首席商業經濟學家Chris Williamson在宣告中表示：“中東傳來的積極訊息幫助美國企業在6月恢復了一些信心。”儘管如此，服務業“增長速度仍然異常疲弱”，他說。“儘管製造業傳來了好訊息，但我們仍然感到擔憂，因為在供應憂慮的背景下，製造業增長繼續受到存貨的短暫提振。”總體投入成本繼續上升，但增速略有放緩，同時供應商交貨時間延長。隨著供應鏈延遲現象更加普遍，且未來可能出現更多價格上漲，製造商持續增加原材料庫存。6月工廠採購投入品的力度大幅增強，投入品庫存增速創歷史第二高水平。
+
+---
+
+### 2026-06-23 22:25:21  #MKT News #Important #WTI #Impact bullish #XAUUSD #DXY
+
+CENTCOM said the aircraft carrier "USS George H.W. Bush" is operating in the Arabian Sea. Two carriers remain on station as US forces continue a vigilant deployment in the Middle East.
+
+---
+
+### 2026-06-23 22:25:20  #焦點 #國際
+
+美國中央司令部：“喬治·布什”號航空母艦正在阿拉伯海航行。隨著美軍繼續在中東地區駐留並保持警惕，兩艘航空母艦仍在該地區執行任務。
+
+---
+
+### 2026-06-23 22:25:10  #市場
+
+交易員稱，阿根廷比索在非官方平行市場走弱0.33%，跌至五個月來最低水平，兌美元報1比索兌1500比索。
 
 ---
 
@@ -21032,221 +21368,5 @@ Copper Pares Early Losses — Copper futures were above $6.35 per pound on Monda
 ### 2026-06-22 20:55:26  #國際
 
 【伊朗司法部門：美以伊戰事中喪生者達3519人】伊朗法爾斯通訊社22日援引伊朗司法機關發言人的話報道說，根據伊朗法醫組織最新統計資料，伊朗共有3519人在近期的美以伊戰事中喪生。該發言人說，死者中男性3002人、女性517人。發言人未進一步公佈死者身份構成、地區分佈及傷亡原因等更詳細的資訊。（新華社）
-
----
-
-### 2026-06-22 20:54:10  #其他
-
-【永輝柳州首店開業：4天銷售額674萬 定製及自有品牌佔比首破40%】永輝柳州首店於6月18日開業。官方披露資料，開業前四天該店累計銷售額突破674萬元，其中永輝定製及自有品牌“品質永輝”產品銷售佔比首次超過40%，創下歷史新高，門店累計客流超7萬人次。（新浪科技）
-
----
-
-### 2026-06-22 20:53:58  #公司
-
-據港交所檔案：濰柴雷沃智慧農業科技股份有限公司向港交所提交上市申請書。
-
----
-
-### 2026-06-22 20:53:54  #MKT News #Market Regions #Greater China
-
-According to an HKEX filing, Weichai Lovol Smart Agriculture Technology Co. submitted a listing application to HKEX.
-
----
-
-### 2026-06-22 20:53:35  #公司
-
-【夢潔股份：持股5%以上股東減持計劃期限屆滿 累計減持270萬股】夢潔股份公告稱，公司持股5%以上股東李建偉因個人資金需求，原計劃在2026年2月27日公告之日起15個交易日後的三個月內，以集中競價方式減持不超320萬股（佔總股本不超0.43%）。截至公告披露日，減持計劃期限已屆滿，李建偉透過集中競價合計減持270.001萬股，佔總股本0.36%。減持後，其持股降至3705.8972萬股，佔總股本4.96%，不再是公司5%以上股東。本次減持不會導致公司控制權變化。
-
----
-
-### 2026-06-22 20:52:59  #其他
-
-象牙海岸出口商預估：截至6月21日，2025/26年度可可運抵量達188.3萬噸，去年同期為159.5萬噸。
-
----
-
-### 2026-06-22 20:52:24  #公司
-
-【飛鹿股份：控股股東擬轉讓10%股份 公司控制權將變更】飛鹿股份公告稱，6月22日，公司控股股東、實際控制人章衛國與君拓啟航簽署《股份轉讓協議》，君拓啟航將以協議轉讓的方式受讓章衛國持有的2295.41萬股（佔總股本10%），轉讓價款3.14億元。本次交易完成後，公司控股股東、實際控制人將變更。此外，君拓啟航將在股份交割後10個工作日內，向飛鹿股份提供6000萬元借款。本次交易尚需透過深交所合規性稽核及完成過戶手續，存在不確定性。
-
----
-
-### 2026-06-22 20:51:20  #MKT News
-
-Fitch says the rating assumes Starship will be operational in H2 2026 and begin deploying satellites in 2027 and beyond.
-
----
-
-### 2026-06-22 20:51:12  #其他
-
-惠譽：該評級基於星艦將於2026年下半年具備運營能力，並於2027年及以後開始部署衛星的假設。
-
----
-
-### 2026-06-22 20:50:55  #MKT News #Market Regions #Europe & UK
-
-European Commission President VON DER LEYEN said Moldova has completed 93% of the reforms under its growth plan.
-
----
-
-### 2026-06-22 20:50:01  #國際
-
-歐盟委員會主席馮德萊恩：摩爾多瓦迄今已完成增長計劃項下到期改革的93%。
-
----
-
-### 2026-06-22 20:48:41  #公司
-
-【羅永浩卸任錘子軟體執行董事 知情人士：系既定安排】天眼查顯示，近日，錘子科技創始人羅永浩工商職務發生變動，在錘子軟體（北京）有限公司的職務由執行董事變更為董事。日前，錘子科技內部知情人士向記者透露，此次職務調整為企業常規工商變更，屬於公司既定人事安排，無特殊變動原因。記者梳理公開資料發現，羅永浩至今仍與“錘子系”企業深度繫結。在其關聯的7家企業中，他在5家公司擔任核心高管。(每經網)
-
----
-
-### 2026-06-22 20:48:22  #公司 #市場
-
-【北自科技：股價異常波動 一季度營收、淨利潤雙降】北自科技公告稱，公司股票在2026年6月16日 - 6月18日連續3個交易日收盤價格漲幅偏離值累計超20%，6月22日再度漲停，6月12日 - 6月22日股價累計漲幅39.29%，存在短期下跌風險。公司聚焦產業化落地，未生產人形機器人本體及零部件。2026年第一季度，公司實現營收4.26億元，同比下降3.41%；淨利潤1900.76萬元，同比下降54.97%；扣非淨利潤1830.30萬元，同比下降56.04%。公司提醒投資者注意風險。
-
----
-
-### 2026-06-22 20:48:10  #其他
-
-惠譽：將SpaceX擬發行的高階無擔保債券評級為“BBB+”。
-
----
-
-### 2026-06-22 20:48:04  #MKT News
-
-Fitch assigned a "BBB+" rating to SpaceX (SPCX.O)'s proposed senior unsecured notes.
-
----
-
-### 2026-06-22 20:47:47  #公司
-
-【中通快遞：擬13億元收購TuXi Tech的剩餘股份】6月22日，中通快遞在港交所公告，買方（為本公司的全資子公司）與各賣方（Tuxi Honor、TUXI LMS、TUXI LJF、TUXI CSF、TUXI WJL及TUXI HZR）按大致相同的條款訂立股份購買協議，據此，買方有條件同意購買，而各賣方有條件同意出售其各自於TuXi Tech的全部股份（即合共567,500,000股股份，總計佔TuXi Tech已發行股份約36.20%），總代價約為人民幣1,305.3百萬元。於本公告日期，TuXi Tech為本公司的非全資子公司，買方持有TuXi Tech已發行股份約63.80%。收購事項完成後，本集團將持有TuXi Tech全部已發行股份。TuXi Tech將成為本公司的全資子公司，而TuXi Tech的財務業績將繼續合併入賬至本集團的財務業績。
-
----
-
-### 2026-06-22 20:46:13  #MKT News #Macro & Rates #The Fed (FOMC)
-
-Federal Reserve: Greenspan's "legacy" endures in the people he mentored, the economists he inspired, and the frameworks and practices he helped shape.
-
----
-
-### 2026-06-22 20:46:12  #國際
-
-【特朗普“搶發”斯塔默辭職訊息】英國首相斯塔默22日宣佈將辭任英國工黨黨首，但將在繼任者選出之前繼續擔任英國首相。然而，美國總統特朗普21日已搶在斯塔默發表講話前宣佈這一訊息。特朗普21日在社交媒體平臺“真實社交”發文說：“基爾·斯塔默將辭任英國首相。”暫時無法確認特朗普是否確實知道內情或僅是在斯塔默四面楚歌之時發表評論。特朗普在帖文中說，斯塔默在移民和能源這兩大議題上“搞砸了”，稱無效的政策是導致他政治生涯失敗的原因。特朗普還以所有字母大寫方式強調訴求：“開放北海石油”。（新華社）
-
----
-
-### 2026-06-22 20:45:42  #央行 #國際
-
-美聯儲：格林斯潘的遺產在其指導過的官員、受其啟發的經濟學家以及他幫助塑造的框架和實踐中得以延續。
-
----
-
-### 2026-06-22 20:44:51  #其他
-
-【國產機器人鏈博會現場展示華爾茲 業內人士：全球具身智慧供應鏈主要在中國】在第四屆鏈博會現場，國產人形機器人Walker C1展示了高難度的華爾茲人機共舞能力。優必選(09880.HK)商業人形事業部總經理李洋在接受採訪時表示：“全球的供應鏈來說，具身智慧、機器人的供應鏈主要都集中在中國，包括海外一些機器人企業的一些供應鏈，都是在中國發展。”（央視財經）
-
----
-
-### 2026-06-22 20:44:15  #Trading Economics #Economy #United Kingdom #Government Bond 10Y #Importance 1
-
-UK 10-Year Gilt Yields Drop Further — The yield on the UK 10-year gilt slipped to 4.81% after climbing in the previous two sessions, as investors reacted to Prime Minister Keir Starmer's resignation while concerns over the prospect of a disruptive leadership transition eased somewhat. The resignation follows Greater Manchester Mayor Andy Burnham's by-election victory last week, which enabled his return to Parliament. Burnham subsequently announced his intention to seek the premiership. Prospects for a smooth leadership transition improved after Wes Streeting, previously viewed as a potential challenger, declared his support for Burnham. Investors are now focused on the implications for the UK's fiscal outlook and Burnham's fiscal policy agenda, with few concrete details available so far. A key concern remains the possibility of increased gilt issuance to finance higher public spending, which could further strain the UK's already fragile public finances and elevated debt burden.
-
----
-
-### 2026-06-22 20:43:55  #公司
-
-中通快遞表示，收購TuXi Tech的剩餘股份，總對價約為13億元。
-
----
-
-### 2026-06-22 20:41:30  #公司
-
-【上海沿浦：擬2000萬元投資設立控股子公司暨關聯交易】上海沿浦公告稱，公司擬與蒲衛東、上海勰睦合資設立上海沿浦智恆科技有限公司，註冊資本2000萬元。其中，公司出資1100萬元，佔比55%；蒲衛東出資500萬元，佔比25%；上海勰睦出資400萬元，佔比20%。資金用於核心技術研發等。本次交易構成關聯交易，但不構成重大資產重組，且無需提交股東會審議。截至公告披露日，合資協議未簽署，交易存在不確定性。
-
----
-
-### 2026-06-22 20:41:09  #市場 #焦點
-
-布倫特原油失守78美元/桶，日內跌2.56%。
-
----
-
-### 2026-06-22 20:40:09  #MKT News
-
-British MP Burnham said the idea of calling a general election was premature when asked whether he would do so.
-
----
-
-### 2026-06-22 20:38:59  #其他
-
-英國議員伯納姆：當被問及他是否會呼籲提前舉行大選時，他表示，現在說這個還為時過早。
-
----
-
-### 2026-06-22 20:38:25  #觀點 #國際
-
-高盛將美國未來12個月發生衰退的機率預估下調至15%，此前預期為25%。
-
----
-
-### 2026-06-22 20:38:23  #MKT News #Macro & Rates #US Economy #S&P500 #Impact bullish #US10Y #Impact bearish #DXY
-
-Goldman Sachs cut its estimate of the probability of a U.S. recession within 12 months to 15% from 25%.
-
----
-
-### 2026-06-22 20:38:14  #市場 #焦點
-
-比特幣升破65000美元，日內漲2.81%。
-
----
-
-### 2026-06-22 20:37:48  #MKT News
-
-【SpaceX launches first investment-grade bond offering】SpaceX filed to issue its first senior unsecured investment-grade notes, saying the deal could mark the start of a large fundraising wave to finance its AI ambitions after a record $75 bln IPO. The filing says issuance is subject to market conditions; the notes would be unsecured and pari‑passu with all existing and future non‑subordinated debt. Media reports say SpaceX is seeking at least $20 bln; proceeds would repay a temporary bridge loan of roughly that size, which makes up the bulk of the company’s $29.1 bln of long-term debt. Moody's and FITCH last week rated the debt Baa1 and BBB+ respectively—each three notches above junk—while S&P assigned BBB.
-
----
-
-### 2026-06-22 20:37:37  #公司
-
-【SpaceX啟動首次投資級債券發行】SpaceX首次發行投資級債券，預計這將是該公司在創紀錄的750億美元IPO之後，為滿足其人工智慧願景而展開的大規模融資潮的開端。SpaceX申報檔案中表示，已啟動其首次優先無擔保票據的發行，“視市場狀況及其他因素而定”。檔案補充說明，該等票據將為SpaceX的無擔保債務，在償付順序上與所有現有及未來的非次級債務、負債及其他義務享有同等權益。據媒體上週報道，SpaceX尋求透過此次發行籌集至少200億美元資金。募集資金將用於償還一筆規模大致相當的臨時過橋貸款，該貸款佔SpaceX 291億美元長期債務中的絕大部分。SpaceX上週已獲得三大債券評級機構的評級，為更低成本的融資鋪平了道路。穆迪和惠譽分別給予SpaceX債務Baa1和BBB+的評級，均較垃圾級高出三檔。標普則給予BBB評級。
-
----
-
-### 2026-06-22 20:36:46  #MKT News #DXY #Impact bearish
-
-Reserve Bank of India net sold $8.944 bln in FX markets in April.
-
----
-
-### 2026-06-22 20:36:22  #公司
-
-【英特爾任命李錫熙為代工執行副總裁】英特爾公司6月22日宣佈，任命李錫熙（Seok-Hee Lee）為英特爾代工執行副總裁，直接向英特爾執行長陳立武彙報。在這一職位上，李錫熙將領導先進封裝、系統整合、後道技術開發及後道製造。加入英特爾前，李錫熙曾任SK On社長兼執行長，此前還曾任SK海力士社長兼執行長。
-
----
-
-### 2026-06-22 20:36:09  #其他
-
-【湖南足協回應交流賽衝突：暫停涉事人員參加省內一切足球活動】湖南省足球協會6月22日釋出《關於張家界市足球隊與廣東銘途梯隊交流賽有關情況的宣告》，即日起，暫停本次事件中的相關涉事人員參加湖南省內一切足球活動。責成張家界市足球協會立即依法依規調查本次事件，並根據調查結果對相關涉事人員進行嚴肅處理，深刻反思管理責任，全面加強隊伍賽風賽紀教育和日常管理。對於本事件中可能存在的違法違規行為，湖南省足球協會將依法依規嚴肅處理。
-
----
-
-### 2026-06-22 20:35:56  #MKT News
-
-Reserve Bank of India said that although a temporary US-Iran peace agreement has eased tensions to some extent, the global economic outlook remains fragile.
-
----
-
-### 2026-06-22 20:35:40  #央行 #國際
-
-印度央行：儘管五月份有所回升，消費者物價指數通脹依然保持穩定。如果西南季風如預期出現，可能會對國內經濟增長和通脹前景造成壓力。儘管美伊臨時和平協議帶來些許喘息，全球經濟格局依然脆弱。
-
----
-
-### 2026-06-22 20:35:06  #Trading Economics #Markets #United Kingdom #Currency #Importance 2
-
-Sterling Rebounds After Starmer's Resignation — The British pound rebounded toward $1.33 after falling to its lowest level since March earlier in the session, as markets reacted to Prime Minister Keir Starmer's resignation, paving the way for a change in the UK's leadership. The resignation follows Greater Manchester Mayor Andy Burnham's by-election victory last week, which enabled his return to Parliament. Burnham subsequently announced his intention to seek the premiership. Prospects for a smooth leadership transition improved after Wes Streeting, previously viewed as a potential challenger, declared his support for Burnham's candidacy. Investors are now focused on the implications for the UK's fiscal outlook, seeking greater clarity on the political transition and Burnham's fiscal policy agenda, with few concrete details available so far. A key concern remains the possibility of increased gilt issuance to finance higher public spending, which could further strain the UK's already fragile public finances and elevated debt burden.
 
 ---

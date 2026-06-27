@@ -1,7 +1,349 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-06-27 21:11:05_
-_本檔包含 3857 則快訊，約 672894 字_
+_更新時間：2026-06-27 21:56:56_
+_本檔包含 3858 則快訊，約 672239 字_
+
+---
+
+### 2026-06-25 03:17:54  #國際
+
+據CBS：特朗普擬推動將 15% 乙醇汽油混合燃料政策永久化。
+
+---
+
+### 2026-06-25 03:17:17  #國際
+
+伊朗外交部發言人：美國不得做出與結束戰爭諒解備忘錄明文條款相悖的解讀，並應履行自身承諾。
+
+---
+
+### 2026-06-25 03:16:05  #國際
+
+【美能源部長：過去24小時72艘船透過霍爾木茲海峽】美國能源部長賴特表示，過去24小時內共有72艘船舶透過霍爾木茲海峽，運輸原油約2000萬桶。賴特當天在紐約表示，伊朗今後將無法關閉霍爾木茲海峽，並稱這是伊朗“關鍵籌碼”，美國正在削弱這一籌碼。（央視新聞）
+
+---
+
+### 2026-06-25 03:15:44  #國際
+
+特朗普將向國會尋求逾14億美元的埃博拉資金援助。
+
+---
+
+### 2026-06-25 03:15:21  #MKT News
+
+Iran's foreign ministry spokesman said US statements on the memorandum of understanding are contradictory and do not help reduce distrust among the Iranian public.
+
+---
+
+### 2026-06-25 03:14:47  #國際
+
+伊朗外交部發言人：美國關於結束戰爭諒解備忘錄的表態前後矛盾，無助於消除伊朗民眾的不信任感。
+
+---
+
+### 2026-06-25 03:13:59  #MKT News #QCOM.O #Impact bullish
+
+Qualcomm (QCOM.O) said its automotive business will reach an annualized revenue run rate of $6.0 bln in fiscal 2026.
+
+---
+
+### 2026-06-25 03:13:55  #MKT News #Star Stocks #Meta Platforms #Market Themes #AI Revolution #Chip Wars #Magnificent 7 #QCOM.O #Impact bearish #META.O
+
+【Qualcomm unveils Dragonfly C1000 data‑center AI CPU; Meta to adopt in 2028】Qualcomm (QCOM.O) unveiled the Dragonfly C1000, a data‑center CPU tailored for agent-style AI workloads that prioritizes high compute with low power draw. Qualcomm said Meta Platforms (META.O) will adopt the chip for mass production beginning in 2028. The launch underscores Qualcomm's push from smartphone processors and modems into the data‑center market. Qualcomm shares fell more than 5% after the announcement.
+
+---
+
+### 2026-06-25 03:13:16  #其他
+
+高通：2026 財年末汽車業務年化營收將達 60 億美元。
+
+---
+
+### 2026-06-25 03:10:23  #MKT News
+
+U.S. appeals court upholds lower-court ruling that bars the Justice Department from obtaining Michigan voter rolls.
+
+---
+
+### 2026-06-25 03:09:21  #市場
+
+在岸人民幣兌美元（CNY）北京時間03:00收報6.8092元，較週二夜盤收盤跌154點。成交量714.35億美元。
+
+---
+
+### 2026-06-25 03:07:42  #MKT News #Market Themes #AI Revolution
+
+The Wall Street Journal reports a startup founded by former Anthropic employees plans to help scientists develop their own AI.
+
+---
+
+### 2026-06-25 03:06:14  #公司
+
+巴西國家石油公司：布齊奧斯油田週二原油日產量達到 110 萬桶。
+
+---
+
+### 2026-06-25 03:05:50  #國際
+
+美國上訴法院維持原判，阻止司法部調取密歇根州選民登記名冊。
+
+---
+
+### 2026-06-25 03:04:54  #MKT News #Hang Seng Index #Impact bearish
+
+Hang Seng index futures fell 0.29% in the night session to 23,322, trading 90 points below the cash index.
+
+---
+
+### 2026-06-25 03:04:32  #其他
+
+高通：資料中心業務 2027 財年將創造數十億美元營收。
+
+---
+
+### 2026-06-25 03:04:15  #MKT News
+
+Financial Times reports prediction-market platform Kalshi is in talks to raise funding at a $40 bln valuation.
+
+---
+
+### 2026-06-25 03:03:43  #MKT News #Market Themes #Chip Wars #QCOM.O
+
+Qualcomm said it is working with a hyperscale customer to develop a new communications chip.
+
+---
+
+### 2026-06-25 03:03:28  #MKT News #Market Themes #Chip Wars #QCOM.O #Impact bullish
+
+Qualcomm launches services supporting PAM4 electrical and optical signaling.
+
+---
+
+### 2026-06-25 03:03:00  #其他
+
+市場訊息：預測交易平臺 Kalshi 洽談新一輪融資，投後估值目標 400 億美元。Kalshi 最快將於今年第三季度完成新一輪融資交割。
+
+---
+
+### 2026-06-25 03:02:20  #MKT News
+
+The White House plans to seek more than $1.4 billion from Congress to respond to the Ebola outbreak.
+
+---
+
+### 2026-06-25 03:02:15  #MKT News #Commodities #Energy #WTI #Impact bearish
+
+【Trump says Iran agreed to all his demands; notes oil below $70】NBC News reported President Trump told reporters after a closed-door lunch with Senate Republicans that Iran "agreed to all the demands I made" and that oil had "just fallen below $70." Punchbowl reporting said a Republican senator called the meeting a "venting session," and that Trump was in a bad mood, clashed with Sen. Cassidy and berated Republicans who voted to limit war powers.
+
+---
+
+### 2026-06-25 03:02:12  #其他
+
+高通：正與一家超大型雲服務商合作研發全新通訊晶片。
+
+---
+
+### 2026-06-25 03:01:36  #其他
+
+高通：推出 PAM4 電訊號與光訊號配套服務。
+
+---
+
+### 2026-06-25 03:01:08  #其他
+
+高通：推出面向資料中心的 Dragonfly C1000 處理器。
+
+---
+
+### 2026-06-25 03:00:02  #市場
+
+恒指期貨夜盤收跌0.30%，報23269.77點，低水142.41點。
+
+---
+
+### 2026-06-25 02:59:03  #其他
+
+高通資料部門主管：高通已贏得兩筆超大規模雲廠商重大訂單，將為高通帶來可觀收入。
+
+---
+
+### 2026-06-25 02:58:51  #MKT News #Market Themes #Chip Wars #Magnificent 7 #Star Stocks #Meta Platforms #QCOM.O #Impact bullish #META.O #Impact mixed
+
+Qualcomm said Meta plans to deploy Qualcomm's C1000 server CPU in Meta's data centers.
+
+---
+
+### 2026-06-25 02:58:22  #MKT News #Market Themes #Chip Wars #QCOM.O
+
+Qualcomm said the Dragonfly C1000 CPU will launch in 2028.
+
+---
+
+### 2026-06-25 02:56:37  #公司 #焦點
+
+Meta執行長馬克·扎克伯格：在多代戰略協作框架下，高通將成為Meta的資料中心CPU供應商。
+
+---
+
+### 2026-06-25 02:56:20  #其他
+
+高通：飛龍C1000伺服器CPU將於2028年推出，Meta計劃在自有資料中心採用該款處理器。
+
+---
+
+### 2026-06-25 02:55:43  #公司
+
+瑞典法院再次推遲作出Pricerunner訴谷歌反壟斷案的判決。
+
+---
+
+### 2026-06-25 02:54:57  #Trading Economics #Markets #commodity #Importance 0
+
+Brent Crude Oil is down by 5% — Brent Crude Oil decreased 5% to 73.228 USD/Bbl
+
+---
+
+### 2026-06-25 02:54:55  #國際
+
+美國眾議院議長邁克·約翰遜將於明日與特朗普會面。
+
+---
+
+### 2026-06-25 02:54:33  #公司 #市場
+
+Alphabet股價觸及盤中低點，最新跌幅接近1%，該公司宣佈將Gemini 3.5 Pro的釋出推遲至7月。
+
+---
+
+### 2026-06-25 02:53:58  #市場 #國際
+
+美國10年期國債收益率下跌10個基點至4.396%。
+
+---
+
+### 2026-06-25 02:53:56  #MKT News #Commodities #Energy
+
+Philip, secretary-general of the Gas Exporting Countries Forum (GECF), said that as the Iran war ends, natural gas demand would begin to recover in Q3.
+
+---
+
+### 2026-06-25 02:53:19  #國際
+
+天然氣出口國論壇秘書長菲利普·姆謝爾比拉表示，隨著伊朗戰爭結束，天然氣需求將在第三季度開始回升。
+
+---
+
+### 2026-06-25 02:50:59  #其他
+
+納斯達克100指數跌幅擴大至1%。
+
+---
+
+### 2026-06-25 02:50:57  #市場 #焦點
+
+高通股價迅速擴大跌幅，跌至盤中低點6%。
+
+---
+
+### 2026-06-25 02:49:32  #市場 #焦點
+
+高通股價隨成交量走高下跌，目前資料中心部門主管正在投資者日發表講話，股價跌超5%，報每股193.31美元。
+
+---
+
+### 2026-06-25 02:47:43  #MKT News #QCOM.O
+
+Qualcomm's head of data-center business said commercial samples of the firm's first-generation high-bandwidth computer, equipped with the AI250 accelerator, are expected in mid-2027.
+
+---
+
+### 2026-06-25 02:47:22  #MKT News #Market Themes #Chip Wars #QCOM.O
+
+Qualcomm's head of data center business said the company will launch a second-generation HBC chip in 2028.
+
+---
+
+### 2026-06-25 02:47:14  #市場
+
+布倫特原油期貨結算價報每桶73.74美元，下跌3.34美元，跌幅4.33%。
+
+---
+
+### 2026-06-25 02:47:11  #其他
+
+高通資料中心部門主管：高通將於2028年推出第二代HBC晶片。
+
+---
+
+### 2026-06-25 02:46:19  #其他
+
+高通資料中心主管表示，搭載AI250的高通第三代高頻寬計算晶片Gen 1預計將於2027年年中進入商業取樣階段。
+
+---
+
+### 2026-06-25 02:45:13  #MKT News #Important #Star Stocks #Microsoft #Market Themes #Chip Wars #Magnificent 7 #QCOM.O #Impact bullish #MSFT.O
+
+Qualcomm data‑center business head says Microsoft will deploy the company's high‑bandwidth compute chips in Azure data centers.
+
+---
+
+### 2026-06-25 02:44:30  #其他 #焦點
+
+高通資料中心主管：微軟將在Azure資料中心部署高通高頻寬計算晶片。
+
+---
+
+### 2026-06-25 02:43:41  #MKT News #Important #Star Stocks #Alphabet #Market Themes #AI Revolution #Magnificent 7 #GOOG.O #Impact bearish
+
+Alphabet shares (GOOG.O) extended losses to 0.8% after reports Google pushed back the launch of its Gemini 3.5 Pro large AI model to July to gather more early-tester feedback and further tune the model.
+
+---
+
+### 2026-06-25 02:42:21  #其他
+
+委內瑞拉代總統羅德里格斯：委內瑞拉謀求與哥倫比亞新一屆政府開展合作。
+
+---
+
+### 2026-06-25 02:42:15  #MKT News #Market Themes #Chip Wars #QCOM.O #Impact bullish
+
+Qualcomm's data-center business head said the company expects its custom-chip business to begin contributing meaningful revenue from Q1 2027 and to be materially revenue-generating by end-2027.
+
+---
+
+### 2026-06-25 02:41:45  #公司
+
+谷歌將Gemini 3.5 Pro大模型釋出時間推遲至7月。
+
+---
+
+### 2026-06-25 02:40:53  #其他
+
+高通資料中心部門主管：從2027年第一財季開始，定製矽晶片業務將在年末為高通帶來可觀營收。
+
+---
+
+### 2026-06-25 02:40:50  #MKT News #Important #QCOM.O
+
+Qualcomm's data-center chief said the company plans to launch a data-center CPU in mid-2028.
+
+---
+
+### 2026-06-25 02:39:17  #其他
+
+高通資料中心部門主管：高通將於2028年年中推出資料中心CPU。
+
+---
+
+### 2026-06-25 02:36:31  #公司
+
+市場資訊：資料中心行業迎來擴張熱潮，特殊目的收購公司（SPAC）被視作企業登陸公開市場的核心渠道。
+
+---
+
+### 2026-06-25 02:36:10  #MKT News #Market Themes #The Trump Trade
+
+【Sources: U.S. to press ahead with sale of jet engines to Turkey before NATO summit】Four people said on Wednesday that despite opposition from some U.S. lawmakers the Trump administration plans to move forward with a sale of dozens of jet engines to Turkey worth several hundred million dollars. The deal, seen as a goodwill gesture ahead of next month’s NATO summit in Turkey, involves GE-made engines intended for Turkey’s first indigenous fighter, KAAN, a program launched in 2016 as part of Ankara’s drive for defense autonomy. One source said the transaction would exceed $700m.
 
 ---
 
@@ -22922,341 +23264,5 @@ According to an HKEX filing, Luxshare Precision Industry Co Ltd has passed its H
 ### 2026-06-23 22:43:53  #公司
 
 【第九屆進博會肯亞座談會在內羅畢舉行】第九屆中國國際進口博覽會肯亞座談會23日在肯亞首都內羅畢舉行，來自中肯兩國政府機構、商協會及企業代表參會交流。 中國駐肯亞大使館公使銜參贊周振成致辭時表示，進博會成功舉辦八屆，已成為全球共享的國際公共產品。肯亞作為本年度“出口中國”主題國，透過綜合展示，將進一步加深中國及世界其他國家對肯亞的瞭解和認識，併為肯亞企業開拓中國市場創造新的良機。同時以參展交流為紐帶，從商品貿易拓展到投資合作，延伸產業鏈條、最佳化產業結構、助推產業升級，促進中肯經貿合作持續健康發展。 肯亞全國工商聯合會主席埃裡克·魯託說，肯中貿易關係的發展勢頭令人振奮，進博會是肯亞實現出口多元化、將更多肯亞生產商與中國買家對接的核心戰略平臺。本屆進博會肯亞將重點展示牛油果、夏威夷果、茶葉、咖啡等高附加值農產品和天然產品，以及皮革製品、手工藝品等，以契合中國消費者對非洲原產地商品日益增長的需求。 國家會展中心（上海）有限責任公司總裁華慰表示，自首屆進博會以來，有近80家肯亞企業參展，透過進博會這一平臺進入中國市場。進博會已經成為連線兩國企業、促進務實合作的重要紐帶。(新華社)
-
----
-
-### 2026-06-23 22:42:33  #其他
-
-【算電協同迎重大機遇】在距離第四屆鏈博會會場不到100公里外的河北張家口，當地正在打造國家級超大規模綠色算力叢集。來自張北的風，如何“點亮”AI大腦？央視財經記者瞭解到，這一位於張家口懷來縣的大型單體AI算力叢集，一期專案已全面投產，部署伺服器數量超20萬臺，其中不少都是用於國內網際網路企業的AI大模型迭代訓練和應用推理，整個算力叢集執行1小時的用電量就要超百萬度。而張家口風能資源可開發量超4000萬千瓦，豐富的綠電資源，為算力產業提供穩定支撐。在距離這一專案不遠位置，另一處在建的算力中心今年5月也完成了新一棟機房樓的投產。資料顯示，2025年全國算力中心總用電量達1700億千瓦時，佔全社會用電量的1.6%。與此同時，我國綠色電力供應規模持續擴大，2025年全國綠色電力交易電量達3285億千瓦時。業內預計，“十五五”時期隨著全國綠色電力與算力協同佈局的推進，上下游產業鏈將迎來更大的發展機遇。（央視財經）
-
----
-
-### 2026-06-23 22:41:53  #MKT News #S&P500 #Impact bullish #DXY #Impact bearish #XAUUSD
-
-Putin said Russia is prepared to hold peace talks with Ukraine under the "Istanbul-2022" framework.
-
----
-
-### 2026-06-23 22:41:40  #MKT News #Commodities #Energy #WTI #Impact bullish #Brent
-
-【Russia weighing diesel export ban, delays refinery maintenance — Novak】Russian Deputy Prime Minister Novak said Moscow is considering a ban on diesel exports. He described the fuel market as complex but under control, saying refiners have postponed maintenance and oil firms have pushed fuel output to maximum. Authorities are tapping fuel reserves and have proposed tax changes aimed at increasing fuel supply.
-
----
-
-### 2026-06-23 22:41:38  #焦點 #國際
-
-俄羅斯總統普京：俄羅斯準備在“伊斯坦布林-2022”框架下與烏克蘭進行和平談判。
-
----
-
-### 2026-06-23 22:41:28  #公司
-
-【AI智慧終端全面爆發】在第四屆鏈博會現場，原有的“數字科技鏈”升級成為“數智科技鏈”。這一字之變，背後體現的是人工智慧正在成為產業鏈上的主角。現場首設的人工智慧專區，集聚了中外AI領軍企業，展示了從資料、算力到應用的全鏈條。不同廠家的AI眼鏡、數字底盤的智慧汽車、會踢足球的人形機器人……央視財經記者在鏈博會現場看到，人工智慧接入物理世界的形態，正在從手機和電腦走向各類新的智慧終端。今年以來，AI智慧體應用也全面爆發。高通公司全球高階副總裁錢堃表示，AI智慧體的賦能使得現有終端裝置有一個大的升級換代週期。中國的產業鏈非常完善，透過跟中國合作伙伴不斷合作，他們的產品能很快走向市場並被全球接受。阿里雲智慧集團副總裁劉湘雯表示，AI從原來的聊天進入到幹活的生產力要素，所有全棧上的，無論是GPU的雲還是CPU，發展非常迅速，相信接下來還有更大的空間。（央視財經）
-
----
-
-### 2026-06-23 22:40:27  #MKT News #XAUUSD #Impact bullish #DXY #WTI
-
-Putin said Ukraine's strikes on civilian targets cannot affect the frontline situation.
-
----
-
-### 2026-06-23 22:40:23  #國際
-
-俄羅斯總統普京：烏克蘭對平民目標的襲擊無法影響前線局勢。
-
----
-
-### 2026-06-23 22:39:12  #公司
-
-據港交所檔案：上海哥瑞利軟體股份有限公司透過港交所上市聆訊。
-
----
-
-### 2026-06-23 22:38:55  #MKT News #WTI #Impact bearish #Brent
-
-Russian Deputy Prime Minister Novak said Moscow is drafting a tax reform plan to increase fuel supplies.
-
----
-
-### 2026-06-23 22:38:35  #國際
-
-俄羅斯副總理諾瓦克：已擬定稅收調整方案以增加燃油供應。
-
----
-
-### 2026-06-23 22:37:36  #MKT News
-
-Russian Deputy Prime Minister Novak said he has proposed tax measures.
-
----
-
-### 2026-06-23 22:37:24  #國際
-
-俄羅斯副總理諾瓦克：稅收提案已提交。
-
----
-
-### 2026-06-23 22:37:03  #MKT News #Important #Commodities #Energy #WTI #Impact bearish #Brent
-
-Russian Deputy Prime Minister Novak said Russia is tapping fuel reserves.
-
----
-
-### 2026-06-23 22:36:56  #MKT News #Commodities #Energy #WTI #Impact bullish #Brent
-
-Russian Deputy Prime Minister Novak said oil companies have raised fuel production to maximum levels as of today.
-
----
-
-### 2026-06-23 22:36:52  #焦點 #國際
-
-俄羅斯副總理諾瓦克：我們正在動用燃料儲備。
-
----
-
-### 2026-06-23 22:36:40  #公司 #國際
-
-俄羅斯副總理諾瓦克：截至今日，石油公司已將燃料產量提升至最高水平。
-
----
-
-### 2026-06-23 22:36:37  #MKT News
-
-Russian Deputy Prime Minister Novak said Russia has postponed maintenance at oil refineries.
-
----
-
-### 2026-06-23 22:36:23  #公司
-
-魯比奧：兩家與GAESA有關聯的公司正在為古巴政權轉移資金。
-
----
-
-### 2026-06-23 22:36:17  #MKT News #Important #Commodities #Industrial Metals #Copper #Impact bearish
-
-LME tin down 4.00% intraday at 51,105 dlr/ton.
-
----
-
-### 2026-06-23 22:36:09  #MKT News #Important #Commodities #Energy #WTI #Impact bullish #Brent
-
-Russia Deputy Prime Minister Novak said Moscow is considering a ban on diesel exports.
-
----
-
-### 2026-06-23 22:35:58  #國際
-
-俄羅斯副總理諾瓦克：我們推遲了煉油廠的維護工作。
-
----
-
-### 2026-06-23 22:35:44  #國際
-
-俄羅斯副總理諾瓦克：我們考慮禁止柴油出口。
-
----
-
-### 2026-06-23 22:35:39  #其他
-
-魯比奧：GAESA為古巴安全機構提供資金支援。
-
----
-
-### 2026-06-23 22:35:17  #MKT News
-
-Russian Deputy Prime Minister Novak: We can cope with the challenges.
-
----
-
-### 2026-06-23 22:35:11  #MKT News #Commodities #Energy
-
-Russian Deputy Prime Minister Novak said the fuel market is complex but remains within a controllable range.
-
----
-
-### 2026-06-23 22:35:02  #市場
-
-英鎊兌美元GBP/USD失守1.32，日內跌幅0.38%。
-
----
-
-### 2026-06-23 22:34:57  #MKT News #Market Regions #Europe & UK #GBPUSD #Impact bearish
-
-GBP/USD slipped below 1.32, down 0.38% intraday.
-
----
-
-### 2026-06-23 22:34:55  #MKT News #Important #Commodities #Precious Metals
-
-New York silver futures fell 6.00% intraday to $61.62/oz.
-
----
-
-### 2026-06-23 22:34:54  #國際
-
-俄羅斯副總理：我們有能力應對挑戰。
-
----
-
-### 2026-06-23 22:34:37  #國際
-
-俄羅斯副總理：燃料市場形勢並不簡單，但處於可控狀態。
-
----
-
-### 2026-06-23 22:34:16  #其他
-
-魯比奧：5個古巴FRIMS專案被指定用於為古巴創收。
-
----
-
-### 2026-06-23 22:34:04  #其他
-
-【安理會決議追究對維和人員犯罪罪責】今天（6月23日），聯合國安理會一致透過關於“追究針對聯合國維和人員所犯罪行責任”的第2823號決議。決議由丹麥和巴基斯坦起草，獲得包括中國在內的150多個聯合國會員國共同提案支援。決議旨在推動安理會超越單純譴責襲擊的做法，建立一種更加制度化的後續跟進機制，使安理會能夠持續關注相關進展，包括事實查明、調查推進以及責任追究等工作，表明安理會致力於維護維和人員的安全與保障，並強調調查和起訴侵害維和人員犯罪行為的重要性。 決議譴責一切針對聯合國維和人員的襲擊，並向所有在執行任務期間犧牲的維和人員致敬；強調對維和人員的襲擊可能構成戰爭罪，並指出確保追究責任對於威懾未來襲擊、提升維和人員安全與保障具有重要意義；決議呼籲所有利益攸關方與聯合國合作推進有關工作，並強調東道國有責任採取一切必要措施調查此類犯罪並起訴肇事者。（CCTV國際時訊）
-
----
-
-### 2026-06-23 22:34:04  #市場
-
-紐約期銀日內跌6%，現報62.03美元/盎司。
-
----
-
-### 2026-06-23 22:32:48  #MKT News #Market Regions #Europe & UK #EURUSD #Impact bullish #DXY #Impact bearish #DAX
-
-ECB Vice President Vujcic said euro-area growth has shown greater resilience to supply shocks than expected.
-
----
-
-### 2026-06-23 22:32:38  #MKT News #Market Regions #Emerging Markets
-
-REUTERS SURVEY: Of 27 analysts, 6 forecast Colombia's central bank will raise rates by 75bp, 4 forecast a 100bp hike, 1 forecasts 25bp, and 3 expect no change.
-
----
-
-### 2026-06-23 22:32:10  #MKT News #Market Regions #Emerging Markets
-
-REUTERS SURVEY: Of 27 analysts surveyed, 13 expect Colombia's central bank to raise rates by 50bp to 11.75% in June.
-
----
-
-### 2026-06-23 22:31:50  #MKT News
-
-REUTERS SURVEY: Colombia's key policy rate is expected to reach 12.25% by end-2026, up from 12.0% in the prior survey.
-
----
-
-### 2026-06-23 22:31:22  #MKT News #Macro & Rates
-
-REUTERS SURVEY: Expectations for Colombia's interest rate at end-2027 rose to 10.50% from 10% in the prior survey.
-
----
-
-### 2026-06-23 22:31:07  #央行 #國際
-
-歐洲央行副行長武伊契奇：歐元區經濟增長在面對供應衝擊時展現出的韌性超出人們預期。
-
----
-
-### 2026-06-23 22:30:35  #Trading Economics #Markets #Canada #stocks #Importance 1
-
-CIBC Stock Price Hits 4-year High — CIBC shares increased to 162.22 CAD, the highest since March 2022. Over the past 4 weeks, CIBC gained 0.9%, and in the last 12 months, it increased 68.22%.
-
----
-
-### 2026-06-23 22:30:34  #央行 #國際
-
-歐洲央行副行長武伊契奇：經濟增長具備 “較強韌性”。
-
----
-
-### 2026-06-23 22:30:25  #央行 #其他
-
-路透民調：在參與本次調查的27名分析師中，有13名認為哥倫比亞央行將在6月把加息50個基點，將政策利率上調至11.75%。
-
----
-
-### 2026-06-23 22:30:24  #MKT News
-
-ECB Vice President VUJCIC: growth relatively steady.
-
----
-
-### 2026-06-23 22:30:22  #其他
-
-路透調查：預測哥倫比亞基準利率2026年末將升至12.25%，前次調查預期為12%。
-
----
-
-### 2026-06-23 22:30:18  #其他
-
-路透調查：市場對哥倫比亞2027年末的利率預期上調至10.50%，此前調查預期為10%。
-
----
-
-### 2026-06-23 22:29:58  #MKT News
-
-ECB Vice President VUJCIC said he believes markets have a full understanding of the ECB.
-
----
-
-### 2026-06-23 22:29:52  #公司 #市場
-
-【6月23日增減持彙總】據不完全統計，6月23日盤後，康平科技、ST海王披露增持情況，三六零、深深房A、金丹科技、南威軟體、威帝股份、富淼科技、康惠股份7家A股上市公司披露擬減持情況。
-
----
-
-### 2026-06-23 22:29:39  #MKT News #Market Regions #Europe & UK #EURUSD #Impact mixed #DXY #US10Y
-
-VUJCIC, ECB vice-president, said the bank does not want to provide any forward guidance and will treat each policy meeting on a meeting-by-meeting, real-time basis.
-
----
-
-### 2026-06-23 22:29:34  #其他
-
-【海關總署：5月份中國進口煉焦煤1114.5萬噸 同比增長50.9%】海關總署最新資料顯示，2026年5月份，中國進口煉焦煤1114.5萬噸，同比增長50.9%，環比下降1.4%。2026年1-5月，中國累計進口煉焦煤5469.6萬噸，同比增長25.1%。
-
----
-
-### 2026-06-23 22:28:47  #央行 #國際
-
-歐洲央行副行長武伊契奇：我認為市場對歐洲央行有著充分的理解。
-
----
-
-### 2026-06-23 22:28:28  #央行 #國際
-
-歐洲央行副行長武伊契奇：我們不會給出任何前瞻指引，歐洲央行每次議息會議均靈活應變、無預設路徑。
-
----
-
-### 2026-06-23 22:26:09  #MKT News
-
-【Israel, Lebanon begin Washington talks】Israel and Lebanon began a new round of talks in Washington on June 23, the Israeli embassy said, with discussions on both diplomatic and military tracks. A US State Department official said the sequence starts with a joint military-political meeting, followed by military-only sessions and concluding with political talks. The talks are expected to run through June 25.
-
----
-
-### 2026-06-23 22:25:36  #資料 #市場 #國際
-
-【美國企業活動創五個月來最快擴張 製造業表現強勁】美國企業活動擴張速度升至五個月來最快，主要得益於製造業商品需求的激增。週二公佈的資料顯示，標普全球6月綜合採購經理人指數初值升至52.2。該數字高於50表明活動處於擴張。其中，製造業PMI升至55.7，為2022年5月以來最高水平，因為工廠加快生產，以滿足逾四年來最強勁的新訂單增長。服務業活動也有所改善，部分受世界盃賽事帶動。不過，高企的價格和低迷的消費者信心繼續抑制需求。標普全球市場財智的首席商業經濟學家Chris Williamson在宣告中表示：“中東傳來的積極訊息幫助美國企業在6月恢復了一些信心。”儘管如此，服務業“增長速度仍然異常疲弱”，他說。“儘管製造業傳來了好訊息，但我們仍然感到擔憂，因為在供應憂慮的背景下，製造業增長繼續受到存貨的短暫提振。”總體投入成本繼續上升，但增速略有放緩，同時供應商交貨時間延長。隨著供應鏈延遲現象更加普遍，且未來可能出現更多價格上漲，製造商持續增加原材料庫存。6月工廠採購投入品的力度大幅增強，投入品庫存增速創歷史第二高水平。
-
----
-
-### 2026-06-23 22:25:21  #MKT News #Important #WTI #Impact bullish #XAUUSD #DXY
-
-CENTCOM said the aircraft carrier "USS George H.W. Bush" is operating in the Arabian Sea. Two carriers remain on station as US forces continue a vigilant deployment in the Middle East.
-
----
-
-### 2026-06-23 22:25:20  #焦點 #國際
-
-美國中央司令部：“喬治·布什”號航空母艦正在阿拉伯海航行。隨著美軍繼續在中東地區駐留並保持警惕，兩艘航空母艦仍在該地區執行任務。
-
----
-
-### 2026-06-23 22:25:10  #市場
-
-交易員稱，阿根廷比索在非官方平行市場走弱0.33%，跌至五個月來最低水平，兌美元報1比索兌1500比索。
 
 ---

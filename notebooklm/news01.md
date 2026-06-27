@@ -1,7 +1,223 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-06-27 21:11:05_
-_本檔包含 3437 則快訊，約 672942 字_
+_更新時間：2026-06-27 21:56:56_
+_本檔包含 3442 則快訊，約 672006 字_
+
+---
+
+### 2026-06-27 21:55:03  #國際
+
+【歐盟回應特朗普關稅威脅：堅決捍衛自身權利】美國總統特朗普26日威脅向對美企業徵收數字服務稅的歐洲國家施以報復性關稅後，歐盟委員會回應說，將“堅決捍衛自身權利”。歐盟委員會一名發言人表示，歐盟及其成員國有權管理歐盟範圍內的經濟活動，如果對歐盟“合法政策”採取“單方面措施”，歐盟“將迅速和堅決應對，以維護自身權利和監管自主權”。特朗普26日在社交媒體發文稱，任何向美國企業徵收數字服務稅的歐洲國家，將立即遭到美國對其所有輸美產品徵收100%報復性關稅。這一關稅將取代美國與相關國家之間的貿易協議，無論這些貿易協議是否已經簽署或實施。（新華社）
+
+---
+
+### 2026-06-27 21:54:33  #其他
+
+施納貝爾：資產估值方面的金融穩定風險正在上升。
+
+---
+
+### 2026-06-27 21:54:07  #MKT News #Macro & Rates #EURUSD #Impact bullish #DXY #Impact bearish
+
+ECB executive board member Schnabel expects further rate hikes.
+
+---
+
+### 2026-06-27 21:53:54  #其他
+
+施納貝爾：預測顯示通脹上升，經濟增長放緩。
+
+---
+
+### 2026-06-27 21:53:53  #MKT News #EURUSD #Impact bearish #DXY #Impact bullish
+
+ECB executive board member Schnabel says there are currently no signs of wage pressures.
+
+---
+
+### 2026-06-27 21:53:04  #央行 #國際
+
+施納貝爾：預計歐洲央行將進一步加息。
+
+---
+
+### 2026-06-27 21:52:52  #其他
+
+施納貝爾：目前尚未出現工資壓力跡象。
+
+---
+
+### 2026-06-27 21:52:37  #其他
+
+施納貝爾：消費者通脹預期已上升。
+
+---
+
+### 2026-06-27 21:51:57  #其他
+
+施納貝爾：食品、商品和服務通脹面臨上行風險。
+
+---
+
+### 2026-06-27 21:51:17  #市場
+
+施納貝爾：能源價格上漲會產生連鎖反應。
+
+---
+
+### 2026-06-27 21:51:00  #其他
+
+施納貝爾：能源衝擊可能引發更廣泛的通脹動態。
+
+---
+
+### 2026-06-27 21:49:20  #其他
+
+施納貝爾：政府投資和全球人工智慧熱潮推動增長。
+
+---
+
+### 2026-06-27 21:49:09  #MKT News #S&P500 #Impact bullish #DXY #Impact bearish #WTI
+
+ECB executive board member Schnabel said a US-Iran peace agreement reduces the probability of downside scenarios.
+
+---
+
+### 2026-06-27 21:49:08  #其他
+
+施納貝爾：能源成本上升影響信心和消費。
+
+---
+
+### 2026-06-27 21:49:01  #MKT News #Commodities #Energy #EURUSD #Impact bearish #DXY #Impact bullish #Brent
+
+ECB executive board member Schnabel said the energy shock is hitting the euro area particularly hard.
+
+---
+
+### 2026-06-27 21:48:57  #其他
+
+施納貝爾：此次能源衝擊烈度超過以往石油危機。
+
+---
+
+### 2026-06-27 21:48:47  #MKT News #Commodities #Energy #WTI #Impact bullish #Brent
+
+ECB executive board member Schnabel expects oil prices to remain elevated; uncertainty remains high.
+
+---
+
+### 2026-06-27 21:47:44  #其他
+
+施納貝爾：能源衝擊對歐元區打擊尤為嚴重。
+
+---
+
+### 2026-06-27 21:47:30  #其他
+
+施納貝爾：和平協議降低了負面情景發生的可能性。
+
+---
+
+### 2026-06-27 21:47:17  #其他
+
+施納貝爾：不確定性依然很高。
+
+---
+
+### 2026-06-27 21:47:02  #MKT News #Important
+
+Strong tremors were felt in Kabul, Afghanistan, and northern Pakistan.
+
+---
+
+### 2026-06-27 21:47:01  #央行 #國際
+
+歐洲央行管委施納貝爾：預計油價將持續高位。
+
+---
+
+### 2026-06-27 21:44:28  #其他
+
+德國地球科學研究中心（GFZ）訊息：阿富汗興都庫什地區發生5.94級地震。
+
+---
+
+### 2026-06-27 21:41:53  #MKT News
+
+EMSC reported a magnitude-6 earthquake in Afghanistan's Hindu Kush region.
+
+---
+
+### 2026-06-27 21:37:35  #其他
+
+【預報顯示委內瑞拉地震災區將迎來降雨】據委內瑞拉國家氣象水文局當地時間27日凌晨釋出的最新預報，未來幾小時內，委內瑞拉大部分地區將出現多雲天氣，並伴有強度不等的降水過程。預報顯示，進入27日下午和晚間，大氣不穩定性增強，雲量增多，在米蘭達州、拉瓜伊拉州及首都加拉加斯等震區的居民需注意防範山區及城市區域可能出現的短時強降雨。
+
+---
+
+### 2026-06-27 21:36:17  #公司
+
+【王偉中包鋼會見鄒磊馮來法 共同見證簽約並出席揭牌儀式】據內蒙古日報，6月27日，內蒙古自治區黨委書記、人大常委會主任王偉中，自治區黨委副書記、自治區人民政府主席包鋼在呼和浩特會見國家能源集團董事長鄒磊、總經理馮來法，共同見證簽約並出席國家能源集團煤炭產業研究院揭牌儀式。王偉中、鄒磊為國家能源集團煤炭產業研究院揭牌。自治區黨委常委、自治區人民政府常務副主席黃志強，國家能源集團副總經理楊鵬代表雙方簽署戰略合作協議。王偉中說，內蒙古是國家重要能源和戰略資源基地，與國家能源集團有著深厚的合作基礎。希望國家能源集團持續加大在內蒙古的投資力度，加快實施新能源就地消納、煤制油氣延鏈增值、科創基地建設等專案，統籌抓好能源開發與生態保護修復，以互利共贏的務實合作助力內蒙古高質量發展。安全生產是地企雙方共同的責任，希望企業繼續做好安全生產各項工作，與我們一道守好安全生產底線。
+
+---
+
+### 2026-06-27 21:34:56  #MKT News
+
+Saudi foreign ministry condemned Iran's attack on Bahrain, calling it a violation of international law.
+
+---
+
+### 2026-06-27 21:30:55  #公司
+
+【張雪公佈原影片，闢謠“東鵬老闆不喝東鵬”】“張雪機車”創始人張雪在短影片平臺釋出影片，闢謠“東鵬老闆不喝東鵬”一事。 他表示，這個梗是出自於自己請東鵬飲料董事、聯席總裁蔣薇薇喝東鵬，並專門放出了當時的原影片。畫面裡，蔣薇薇到訪張雪公司，張雪掃碼買了幾瓶東鵬特飲，然後開玩笑說“她一定從來沒有喝過這種請東鵬的”。蔣薇薇笑著回應：“沒有，沒有這麼喝過，第一次有人請我喝東鵬。”完整的對話就是這樣，跟所謂的“董事長拒喝自家產品”半毛錢關係都沒有。張雪最後還補了一句：“吃瓜遲到我自己頭上了，好神奇。但是你說東鵬有競爭對手嗎？好像沒有競爭對手。要不是競爭對手作惡的話，難道又是純粹為了流量嗎？好神奇哦。”
+
+---
+
+### 2026-06-27 21:26:19  #MKT News
+
+【Xiong'an New Area approved to build national IP protection center】China's National Intellectual Property Administration (CNIPA) has approved construction of a national-level intellectual property protection center in the Xiong'an New Area. The center, now in preparatory stages, will target next‑generation information technology and advanced materials. Once operational it will provide a one‑stop platform for rapid pre-examination, expedited confirmation of rights and accelerated enforcement, and aims to cut average patent grant times by about 70% to speed protection of corporate innovation in the covered sectors.
+
+---
+
+### 2026-06-27 21:25:18  #其他
+
+【雄安新區獲批建設國家級智慧財產權保護中心】據“雄安釋出”，近日，國家智慧財產權局批覆同意雄安新區開展國家級智慧財產權保護中心建設，未來面向新一代資訊科技、新材料兩大領域開展智慧財產權快速協同保護工作。目前雄安新區國家級智慧財產權保護中心正有序推進各項籌建工作，待中心建成驗收、正式運營後，將形成集快速預審、快速確權、快速維權於一體的智慧財產權“一站式”綜合服務平臺，相關產業的專利平均授權時間將縮短70％，從而高效保護企業創新成果，加速形成產業技術創新優勢。
+
+---
+
+### 2026-06-27 21:18:50  #其他
+
+委內瑞拉迎來1600名外國救援人員參與緊急搜尋地震倖存者。
+
+---
+
+### 2026-06-27 21:18:08  #國際
+
+卡達外交部：我們強調需要以有助於鞏固安全的方式，立足於諒解備忘錄中取得的成果。
+
+---
+
+### 2026-06-27 21:16:25  #公司
+
+【博世中國回應集團換帥】6月27日，對於博世集團換帥一事，博世中國表示，此次集團董事會人事調整不會對博世中國各項業務運營產生任何影響。中國始終是博世全球最重要的戰略市場之一，也是集團重要的創新基地。6月26日，博世集團宣佈了一項重磅人事變動：應其本人要求並與股東密切協商一致，董事會主席史蒂凡·哈通（Stefan Hartung）將於6月30日卸任，董事會副主席克里斯蒂安·菲舍爾（Christian Fischer）於7月1日接棒。（第一財經）
+
+---
+
+### 2026-06-27 21:13:52  #國際
+
+卡達外交部：我們強調，必須避免該地區遭受無端襲擊的後果，並繼續走對話與緩和局勢的道路。
+
+---
+
+### 2026-06-27 21:13:35  #國際
+
+卡達外交部：我們譴責伊朗使用無人機對巴林的襲擊，認為這是對其主權的侵犯以及對國際法規則的違反。
+
+---
+
+### 2026-06-27 21:10:40  #其他
+
+法國急救機構訊息：過去 24 小時內，僅巴黎市就已有 109 人因熱浪死亡。
 
 ---
 
@@ -20572,208 +20788,5 @@ U.S. President Trump said he will sign a bill allowing year-round sales of E15 g
 ### 2026-06-26 07:16:55  #MKT News #Market Themes #Chip Wars #005930.KS #Impact bullish
 
 【Samsung to unveil KRW 1,000 trillion (about $650bn) 10-year South Korea investment plan】Samsung will unveil on the 29th at the Blue House a KRW 1,000 trillion (about $650 billion) investment blueprint over the next decade for semiconductors, AI data centers, secondary batteries and displays — a package Samsung says consolidates planned capex across its core businesses and equals roughly half of South Korea’s GDP. Samsung is considering about KRW 300 trillion for semiconductor fabs in the Gwangju–Jeollanam‑do area, aligned with the government’s plan for a second southwestern semiconductor cluster; Samsung Electronics chairman Lee Jae‑yong conveyed the proposal to President Lee after a meeting on the 25th.
-
----
-
-### 2026-06-26 07:16:07  #宏觀 #國際
-
-韓國財政部長稱該國計劃下調燃油價格上限。
-
----
-
-### 2026-06-26 07:15:50  #國際
-
-特朗普：將簽署一項允許全年銷售E15汽油的法案。
-
----
-
-### 2026-06-26 07:14:23  #其他
-
-【委內瑞拉餘震不斷傷亡慘重 2名中國公民不幸遇難】委內瑞拉自24日傍晚遭遇兩次7級以上強震後，不到一天時間已發生138次餘震，死亡人數升至188人。據中國駐委內瑞拉大使館最新訊息，已有2名中國公民不幸遇難。新華社記者25日從中國駐委內瑞拉大使館處獲悉，截至當地時間當天16時，據不完全統計，已確認有2名中國公民在“6·24地震”中遇難。同天，委內瑞拉全國代表大會主席豪爾赫·羅德里格斯表示，截至當地時間25日12時，強震已引發138次餘震，已造成188人死亡、1520人受傷、157人失蹤，約200人被困廢墟。此外，至少346處建築物受損，包括8家醫院，部分醫院已完成疏散。委政府宣佈包括拉瓜伊拉州在內的多地為災區。（新華社）
-
----
-
-### 2026-06-26 07:13:54  #國際
-
-日本航空：受7號颱風影響，70個國內航班取消，4490人受到影響。
-
----
-
-### 2026-06-26 07:13:14  #國際
-
-【白宮：特朗普簽署再生農業行政令】白宮釋出情況說明稱，特朗普今日簽署一項行政令，要求農業部長擴大農業部再生農業試點專案的覆蓋範圍。
-
----
-
-### 2026-06-26 07:12:29  #國際
-
-特朗普：我們即將迎來一個叫做伊朗的新市場。
-
----
-
-### 2026-06-26 07:12:17  #國際
-
-特朗普：伊朗將很快購買小麥、大豆和玉米。
-
----
-
-### 2026-06-26 07:09:13  #國際
-
-韓國將繼續實施燃油價格上限制度，直至油價回落。
-
----
-
-### 2026-06-26 07:08:30  #公司
-
-【必和必拓進行高層改組，拆分美洲區負責人職位】即將上任的必和必拓集團(BHP Group)執行長布蘭登·克雷格(Brandon Craig)將把他近期負責的該公司美洲業務的職位一分為二。他表示，這一變動將使公司能夠更專注於北美和南美地區。必和必拓(BHP)任命創新副總裁傑西卡·法雷爾(Jessica Farrell)為北美區總裁，7月1日生效。必和必拓表示，在南美區總裁一職的人選確定前，法雷爾將代理該職位。該公司還表示，從9月起，營運長埃德加·巴斯托(Edgar Basto)將出任首席企業績效官，新增職責包括加強承包商安全管理。該公司稱，Geraldine Slattery將繼續擔任澳大利亞區總裁，並將負責南澳銅礦(Copper South Australia)業務。克雷格(Craig)是必和必拓的資深高管，自2024年3月起負責該公司的美洲業務。他將於7月1日出任這家全球市值最大礦業公司的執行長。
-
----
-
-### 2026-06-26 07:07:30  #國際
-
-韓國財長稱，韓國下半年將凍結電力、天然氣價格。（韓聯社）
-
----
-
-### 2026-06-26 07:04:14  #央行 #國際
-
-芝加哥聯儲主席：美國勞動力市場狀況不佳，但總體穩定。
-
----
-
-### 2026-06-26 07:03:43  #MKT News
-
-White House says Trump signed an executive order related to agriculture.
-
----
-
-### 2026-06-26 07:03:28  #國際
-
-白宮：特朗普簽署了一項與農業相關的行政命令。
-
----
-
-### 2026-06-26 07:03:16  #國際
-
-【25日歐洲35℃以上高溫覆蓋人口超1億】隨著高溫天氣持續席捲歐洲，多國遭遇6月同期破紀錄高溫。英國氣象局25日表示，當天位於約維爾頓的監測站測得36.4攝氏度的高溫，已打破該國自1957年以來的6月日最高氣溫紀錄。據法國方面25日訊息，根據天氣預報和歐盟聯合研究中心的人口資料估算，歐洲當天至少有1.01億人身處35攝氏度以上高溫環境，其中法國受影響人口達5000萬、德國1800萬。
-
----
-
-### 2026-06-26 07:03:04  #公司 #國際
-
-加拿大礦商Titan Mining多倫多股價收漲4.36%，報3.11加元，在一波短線衝高回落行情中，北京時間03:23一度達到3.42加元。美國REalloys則收跌14.52%，報14.25美元，全天低位震盪。美國陸軍選擇這兩家公司修建關鍵礦物處理設施。
-
----
-
-### 2026-06-26 07:02:00  #央行 #國際
-
-美聯儲古爾斯比： 市場僱傭與裁員規模雙雙走低，根源在於經濟前景不確定性。
-
----
-
-### 2026-06-26 07:01:29  #國際
-
-【25日歐洲35℃以上高溫覆蓋人口超1億】隨著高溫天氣持續席捲歐洲，多國遭遇6月同期破紀錄高溫。英國氣象局25日表示，當天位於約維爾頓的監測站測得36.4攝氏度的高溫，已打破該國自1957年以來的6月日最高氣溫紀錄。據法國方面25日訊息，根據天氣預報和歐盟聯合研究中心的人口資料估算，歐洲當天至少有1.01億人身處35攝氏度以上高溫環境，其中法國受影響人口達5000萬、德國1800萬。
-
----
-
-### 2026-06-26 07:00:53  #央行 #國際
-
-美聯儲古爾斯比： 勞動力市場已連續一年多保持異常穩定。
-
----
-
-### 2026-06-26 06:59:46  #宏觀
-
-除了頭版內容，今天《人民日報》涉及財經的主要內容還包括：
-1、“創新紅利”，推動中國機遇再升級（和音）
-2、中企投資的巴西東北部特高壓直流輸電專案全線開工
-3、完善現代化綜合交通運輸體系 加快建設交通強國——訪交通運輸部黨組書記、部長劉偉
-4、未來產業靠什麼“破土而出”（微觀）
-5、《新型能源體系建設“十五五”規劃》釋出
-6、以實幹擔當書寫航天強國建設時代答卷
-7、外國遊客的來華“必買清單”不斷“上新” “新特產”何以圈粉外國遊客（財米油鹽）
-8、法國科技創新展聚焦人工智慧工業應用
-9、匯率波動考驗東南亞經濟韌性（經濟透視）
-10、如何把農業建成現代化大產業？（每週經濟評論）。
-
----
-
-### 2026-06-26 06:59:37  #宏觀 #焦點
-
-今天《人民日報》頭版的主要內容有：
-1、“在黨的領導下把家園建設得越來越美”——習近平總書記在山東德州考察紀實
-2、用勤勞和智慧創造更加美好生活——習近平總書記山東德州考察重要講話激勵廣大幹部群眾堅定信心、實幹篤行
-3、李強同孟加拉國總理塔裡克會談
-4、廣東梅州市紮實推進鄉村全面振興——讓鄉親們的日子像金柚一樣甜美（牢記初心使命 奮進復興征程）
-5、十四屆全國人大常委會舉行第六十九次委員長會議 聽取有關草案和議案審議情況彙報 趙樂際主持
-6、丁薛祥出席第九屆中國—亞歐博覽會開幕式並會見與會外國政要
-7、穩存量 擴增量 提質量 從鏈博會看利用外資固穩促優。
-
----
-
-### 2026-06-26 06:59:15  #市場 #央行 #國際
-
-美聯儲古爾斯比：油價下跌或將成為經濟利好推動力，服務業通脹分項資料高得令人擔憂。
-
----
-
-### 2026-06-26 06:57:45  #市場 #央行 #國際
-
-美聯儲古爾斯比：油價下跌可能會對美國經濟構成尾部風險。令人心煩意亂的高通脹來自服務業。
-
----
-
-### 2026-06-26 06:57:40  #Trading Economics #Markets #New Zealand #Stock Market #Importance 1
-
-NZX 50 Points to 3rd Straight Weekly Gain — The NZX 50 climbed 22 points, or 0.2%, to 13,516 in Friday morning trade, extending gains from the previous session and marking its highest level since March 6, primarily buoyed by gains in consumer staples, materials, and communication services. Easing oil prices further lifted sentiment as inflation concerns moderated, reducing expectations of an interest rate hike. However, traders remained cautious after US PCE inflation hit a three-year high, raising expectations that the Fed will hold interest rates higher for longer. Traders also anticipated New Zealand's consumer and business confidence data due next week, as well as China's PMI data and US jobs data for June. Among the early gainers were Vulcan Steel (1.9%), Contact Energy (1.2%), AFT Pharmaceuticals (0.8%), Chorus (0.6%), ANZ Group (0.3%), and Ebos Group (0.3%). For the week, the index is on track for a 0.1% gain, which would mark its third consecutive weekly advance.
-
----
-
-### 2026-06-26 06:57:19  #國際
-
-特朗普政府擬提名Jeffrey Vacirca出任美國食品藥品監督管理局（FDA）局長。
-
----
-
-### 2026-06-26 06:56:39  #MKT News #Market Regions #Europe & UK
-
-【EU sends €3.2 bln first tranche of €900 bln Ukraine loan】European Commission president Von der Leyen said on the 25th the EU has sent €3.2 bln to Ukraine, the first disbursement from a €900 bln loan package designed to cover Ukraine’s 2026–27 fiscal needs. The European Parliament approved the €900 bln loan in February and the EU gave formal approval in April.
-
----
-
-### 2026-06-26 06:56:11  #國際
-
-【歐盟向烏撥付900億歐元貸款首筆資金】歐盟委員會主席馮德萊恩25日宣佈，歐盟當天向烏克蘭撥付了32億歐元的貸款。這是歐盟向烏提供的900億歐元貸款中的首筆資金。今年2月，歐洲議會投票透過一項總額900億歐元的烏克蘭援助貸款，以滿足烏克蘭2026至2027年度的財政需求。4月，歐盟正式批准這筆貸款。（央視新聞）
-
----
-
-### 2026-06-26 06:55:55  #MKT News
-
-President Trump nominated Chris Kelongpu as the next deputy secretary of the Department of Health and Human Services.
-
----
-
-### 2026-06-26 06:55:33  #國際
-
-特朗普：提名Chris Klomp出任衛生與公眾服務部副部長。
-
----
-
-### 2026-06-26 06:54:22  #國際
-
-大韓航空（股票程式碼：003490.KS）收到韓國交通部通知，其與韓亞航空的合併方案獲批。
-
----
-
-### 2026-06-26 06:54:09  #其他
-
-【非洲疾控中心：埃博拉疫情應對資金需求增至14億美元】非洲疾控中心25日在新聞釋出會上表示，隨著疫情形勢持續惡化，埃博拉疫情應對資金需求已大幅上調至14億美元，幾乎是此前預計的5.18億美元的三倍。非洲疾病預防控制中心主任讓·卡塞亞在當天舉行的新聞釋出會上表示，疫情發展及不斷加劇的人道主義危機推高了防控成本，使應對資金需求顯著增加。讓·卡塞亞指出，剛果（金）伊圖裡省的安全和人道主義局勢持續惡化，對疫情防控工作造成嚴重影響。剛果（金）衛生部當天釋出的疫情報告顯示，該國本輪埃博拉疫情累計確診病例升至1155例，其中304例死亡。確診病例死亡率為26.3%。（央視新聞）
-
----
-
-### 2026-06-26 06:53:51  #其他
-
-澳大利亞競爭與消費者委員會（ACCC）：自 7 月 1 日起啟動超市物價監控工作。
 
 ---
