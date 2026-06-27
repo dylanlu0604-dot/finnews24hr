@@ -1,7 +1,91 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-06-28 00:07:29_
-_本檔包含 3526 則快訊，約 670908 字_
+_更新時間：2026-06-28 00:35:44_
+_本檔包含 3526 則快訊，約 671136 字_
+
+---
+
+### 2026-06-22 21:10:20  #MKT News #Market Themes #Chip Wars #MU.O #Impact bullish
+
+Micron Technology (MU.O) shares rose about 5% in premarket trading after the chipmaker and ANTHROPIC announced a strategic agreement to expand next-generation AI infrastructure.
+
+---
+
+### 2026-06-22 21:10:16  #公司 #國際
+
+印度金融科技公司CRED將從Meta Platforms(META.O)籌集9億美元。
+
+---
+
+### 2026-06-22 21:10:08  #MKT News #Star Stocks #META.O
+
+Indian fintech CRED will raise $900 million from Meta Platforms (META.O).
+
+---
+
+### 2026-06-22 21:09:31  #MKT News #Star Stocks #NVIDIA #Market Themes #Magnificent 7 #NVDA.O #Impact bullish
+
+NVIDIA (NVDA.O) released "Halos for Robotics", described as the industry's first full‑stack safety system for physical AI.
+
+---
+
+### 2026-06-22 21:09:29  #其他
+
+英偉達：搭載VERA RUBIN NVL4的系統將於第四季度上市。
+
+---
+
+### 2026-06-22 21:09:22  #其他
+
+戴爾(DELL.N)與英偉達(NVDA.O)攜手打造的“戴爾AI工廠”推進超級計算級基礎設施的建設，為下一代高效能運算（HPC）和人工智慧（AI）提供動力。
+
+---
+
+### 2026-06-22 21:08:57  #MKT News #Star Stocks #NVIDIA #Market Themes #AI Revolution #Magnificent 7 #NVDA.O #Impact bullish
+
+NVIDIA (NVDA.O): Vera Rubin and Vera CPU to bring autonomous AI to scientific computing.
+
+---
+
+### 2026-06-22 21:08:34  #MKT News #Star Stocks #NVIDIA #Market Themes #AI Revolution #Magnificent 7 #NVDA.O #Impact bullish #DELL.O
+
+Dell and NVIDIA are launching a Dell AI Factory to deploy supercomputing-grade infrastructure to power next-generation high-performance computing and AI workloads.
+
+---
+
+### 2026-06-22 21:08:30  #公司
+
+據公司宣告，信貸平臺CRED創始人將加入Meta擔任高階領導職務。
+
+---
+
+### 2026-06-22 21:08:12  #其他
+
+【美光與Anthropic簽署多年期儲存產品供應協議】美光科技與Anthropic簽署了一項多年期儲存供應協議，包括HBM、DRAM和SSD等資料中心級產品。該協議將供應承諾與Anthropic為訓練和部署其Claude模型而進行的長期算力擴張計劃相掛鉤。與此同時，美光已將Anthropic的Claude模型部署至其工程、製造及企業職能體系中，以支援程式碼生成與智慧體業務流程。除供應及技術合作外，美光還在Anthropic的H輪融資中參與了戰略性投資。
+
+---
+
+### 2026-06-22 21:08:02  #其他
+
+阿根廷政府官方公報公佈：已批准向國際機構舉債最高50億美元。
+
+---
+
+### 2026-06-22 21:07:55  #市場
+
+美光科技股價盤前上漲5%；美光與Anthropic宣佈達成戰略協議，規模化擴張下一代人工智慧基礎設施。
+
+---
+
+### 2026-06-22 21:07:43  #央行 #歐洲央行
+
+【拉加德：公眾並不預期高通脹會持續】歐洲央行行長拉加德表示，公眾並不預期高通脹會持續，歐洲央行必須保持靈活應對伊朗衝擊。
+
+---
+
+### 2026-06-22 21:07:33  #MKT News #Market Regions #Greater China
+
+【Chinese team builds 3D nanoparticle photothermal material that boosts solar desalination efficiency】Researchers at the Institute of Process Engineering, Chinese Academy of Sciences, with Shenzhen University developed a polymer "latch" mechanism to assemble nanoparticles into a three-dimensional photothermal evaporator that sharply raises solar-driven seawater evaporation. The structure achieves 90.2% solar absorption; nanoscale confinement alters the water hydrogen-bond network and cuts the energy required for the same evaporation volume by 45.7%. A single evaporator recorded an evaporation rate of 38.1 kg/hr per m2, 8.5x the team’s prior 2D films. In a 30-day accelerated seawater aging test there was no nanoparticle shedding; the material produced no photo-induced reactive free radicals and addressed organic-substrate degradation. Results published in Advanced Materials. The team is working to improve condensation efficiency and reduce system costs to enable scale-up for coastal water-scarce regions, islands and remote agricultural irrigation.
 
 ---
 
@@ -21179,89 +21263,5 @@ Iranian Students' News Agency reported President Pezeshkian met Pakistan's inter
 ### 2026-06-21 00:43:11  #國際
 
 伊朗總統將會見巴基斯坦內政部長。
-
----
-
-### 2026-06-21 00:35:36  #MKT News
-
-CENTCOM said maritime traffic through the Strait of Hormuz remains open; the U.S. military is monitoring the situation to ensure it stays that way.
-
----
-
-### 2026-06-21 00:35:21  #國際
-
-美國中央司令部發言人表示，海峽航運仍在正常通行，美軍正對局勢進行監控以保障通航持續。
-
----
-
-### 2026-06-21 00:33:49  #MKT News #Important #WTI #Impact bearish #Brent
-
-CENTCOM spokesperson said Iran does not control the Strait of Hormuz.
-
----
-
-### 2026-06-21 00:33:11  #焦點 #國際
-
-美國中央司令部發言人表示：伊朗並不控制霍爾木茲海峽。
-
----
-
-### 2026-06-21 00:32:25  #其他 #焦點
-
-【多渡口停航停渡 廣西海事局將內河防汛應急響應提升為Ⅲ級】6月20日19時30分，廣西水文中心升級釋出洪水黃色預警，預計未來24小時，柳江將出現編號洪水，柳江柳州市城區河段將出現超警戒水位的洪水，廣西海事局於20時30分將內河防汛應急響應提升為Ⅲ級。截至20日20時30分，廣西內河轄區68個渡口、107艘渡船停航停渡管控；柳州水上公交、夜遊航線停航；桂林灕江旅遊排筏全線停航。未來三天廣西仍維持多降雨天氣。氣象部門預計，21—22日，廣西北部部分地區有中雨、局地大雨或暴雨並伴有短時雷暴大風等強對流天氣，民眾出行請注意防範。（央視新聞）
-
----
-
-### 2026-06-21 00:27:28  #MKT News #WTI #Brent
-
-【India: three Indian tankers transit Strait of Hormuz】Indian shipping minister Sarbananda Sonowal said on Saturday three Indian‑flagged tankers — Desh Vaibhav, Desh Vibhor and Sanmar Herald — have safely transited the Strait of Hormuz and are en route to India. The vessels are carrying more than 860,000 tonnes of oil and have 94 Indian crew aboard, he said on social media.
-
----
-
-### 2026-06-21 00:26:44  #其他
-
-衛星影像顯示莫斯科煉油廠出現多處撞擊痕跡與火災損毀：一套聯合煉油裝置的工藝管廊遭到2至3次打擊，儲油罐區周邊也受損嚴重。分析報告同時確認，廠區內6座燃料儲罐出現損毀；另有部分無人機命中防護電纜引發火情，這類火災在衛星圖上無法識別。
-
----
-
-### 2026-06-21 00:24:13  #其他
-
-巴西總統盧拉在民調中保持對右翼參議員博爾索納羅的領先優勢。
-
----
-
-### 2026-06-21 00:21:20  #國際
-
-【印度航運部長：三艘印度籍油輪已順利透過霍爾木茲海峽】印度港口、航運與水道部長薩爾巴南達·索諾瓦爾於週六表示，三艘懸掛印度國旗的油輪已安全駛過霍爾木茲海峽，目前正向印度本土航行；三船合計運載原油超86萬噸，船上共有94名印度籍船員。索諾瓦爾在社交平臺發文稱，“Desh Vaibhav”號、“Desh Vibhor”號與“Sanmar Herald”號均已完成海峽通行。
-
----
-
-### 2026-06-21 00:20:25  #國際
-
-印度部長表示，三艘懸掛印度國旗的油輪已安全透過霍爾木茲海峽。
-
----
-
-### 2026-06-21 00:19:28  #國際
-
-【美伊談判在即 霍爾木茲海峽又起波瀾】北京時間6月20日晚，美伊談判波折再起。霍爾木茲海峽在談判前一天突然關閉，引發涉事多方的連鎖反應，也給談判製造了新壓力。當天，伊朗軍方稱，由於美國和以色列方面的原因，伊方決定關閉霍爾木茲海峽。但美軍稱，霍爾木茲海峽當天的通行“安全無阻”。幾乎與此同時，伊朗談判代表啟程前往瑞士，可能包括伊朗伊斯蘭議會議長卡利巴夫、伊朗外長阿拉格齊等人。美國副總統萬斯也表示將前往瑞士與伊朗談判。此前已確認的訊息是，美國總統特使威特科夫和美國總統特朗普的女婿庫什納都將參加談判。巴基斯坦方面則確認，伊美技術層面談判將於21日在瑞士舉行。（新華社）
-
----
-
-### 2026-06-21 00:18:47  #MKT News
-
-CENC measured a magnitude 3.2 earthquake at 00:10 on June 21 in Haixi prefecture, Qinghai (37.81°N, 95.58°E); focal depth 10 km.
-
----
-
-### 2026-06-21 00:17:36  #其他
-
-中國地震臺網正式測定：06月21日00時10分在青海海西州直轄區（北緯37.81度，東經95.58度）發生3.2級地震，震源深度10千米。
-
----
-
-### 2026-06-21 00:15:36  #其他
-
-【法國發布高溫紅色預警，音樂節全面禁止飲酒】法國政府於週六宣佈，週日中午起將啟動高溫紅色預警的各省行政區，6月21日舉辦的年度夏至音樂節期間全面禁止飲酒。法國總理勒科爾尼召開危機工作會議後，總理辦公室釋出宣告稱：“各省省長將頒佈政令，在高溫紅色預警覆蓋區域的公共場所禁止飲酒。”宣告補充道：“所有由國家及下屬機構主辦的活動，均已下達禁止供應酒水的指令。”法國氣象局在週六釋出最新氣象通報，宣佈包括巴黎在內的35個省份週日將觸發高溫紅色預警，並表示：“全國大範圍地區將長期遭遇極端高溫天氣。”
 
 ---

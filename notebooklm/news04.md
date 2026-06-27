@@ -1,7 +1,79 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-06-28 00:07:29_
-_本檔包含 3521 則快訊，約 671573 字_
+_更新時間：2026-06-28 00:35:44_
+_本檔包含 3519 則快訊，約 671370 字_
+
+---
+
+### 2026-06-23 23:05:40  #MKT News #Macro & Rates
+
+REUTERS SURVEY: All 30 analysts surveyed expect the Bank of Mexico to hold its policy rate at 6.50% at the June 25 meeting.
+
+---
+
+### 2026-06-23 23:05:27  #MKT News
+
+Bank of Canada Governor MACKLEM said 'false precision' in forward guidance is unhelpful.
+
+---
+
+### 2026-06-23 23:05:12  #MKT News #Commodities #Energy #WTI #Impact bullish #Brent #DXY
+
+【Repeated drone strikes on Russian refineries spread gasoline shortages nationwide】Sustained Ukrainian drone attacks on Russian refineries have worsened gasoline shortages, prompting fuel rationing or supply interruptions in at least two-thirds of Russian regions. From border areas to Amur Oblast, regional governors are daily restricting station sales to curb panic buying; Irkutsk’s governor said fuel is being allocated per consumer and prioritized for emergency services, public transport and agriculture. Several major refineries have been taken offline, retail gasoline prices have risen, and Moscow has banned jet-fuel exports. Authorities warned shortages could deepen if drone strikes increase; the resulting upward pressure on inflation may heighten central bank concerns.
+
+---
+
+### 2026-06-23 23:05:03  #國際
+
+美國航空將在改裝後的 A319、A320 客機上增設高階座位。
+
+---
+
+### 2026-06-23 23:04:56  #MKT News
+
+BOC Governor Macklem said he is concerned excessive forward guidance risks becoming "false precision" and causing confusion.
+
+---
+
+### 2026-06-23 23:04:45  #公司
+
+巴西國家石油公司與墨西哥國家石油公司簽署油氣合作諒解備忘錄。
+
+---
+
+### 2026-06-23 23:04:23  #央行 #其他
+
+加拿大央行行長麥克勒姆： 確實擔心過多前瞻性指引會形成虛假精準預期，進而造成市場困惑。
+
+---
+
+### 2026-06-23 23:03:09  #MKT News #DELL.N #Impact bullish
+
+Dell (DELL.N) shares turned positive after earlier falling as much as 6.6%.
+
+---
+
+### 2026-06-23 23:02:56  #央行 #其他
+
+加拿大央行行長麥克勒姆：人工智慧估值創歷史新高，帶來金融風險。
+
+---
+
+### 2026-06-23 23:02:16  #MKT News #Market Themes #AI Revolution #S&P500 #Impact bearish #XAUUSD #Impact bullish #DXY
+
+BOC Governor Macklem said AI valuations have reached record highs and pose financial risks.
+
+---
+
+### 2026-06-23 23:01:40  #MKT News #Important
+
+As of 23:00 Beijing close, China’s commodity futures front-month contracts were mostly lower: propylene fell about 2%, benzene dropped more than 1%, and rubber, pulp, polypropylene and caustic soda declined nearly 1%. On the upside, rapeseed meal rose over 1%, while low-sulfur fuel oil (LU) and asphalt gained about 1%.
+
+---
+
+### 2026-06-23 23:00:11  #Trading Economics #Markets #Currency #Importance 1
+
+FX Updates: Australian Dollar Drops by 1.01% — Top currency losers are Australian Dollar (-1.01%), Swedish Krona (-1.01%), Mexican Peso (-0.87%), Euro (-0.41%) and British Pound (-0.37%). Gains are led by Dollar Index (0.33%) and South Korean Won (0.30%). Meanwhile Japanese Yen was little changed.
 
 ---
 
@@ -21176,89 +21248,5 @@ Argentina approved borrowing from international institutions of up to USD 5 bln,
 ### 2026-06-22 21:10:44  #資料 #國際
 
 【加拿大5月份通脹率升至2023年以來最高 受到汽油價格飆升影響】汽油價格飆升推動加拿大通脹升至兩年多來最高水平，不過價格壓力的廣度收窄，而且核心通脹指標變化不大。加拿大統計局週一公佈，5月份消費者價格指數同比漲幅達到3.2%，為2023年12月以來最高水平。彭博調查的經濟學家此前預計5月份CPI同比升幅為3%，高於4月份的2.8%。環比來看，5月份CPI上升1.0%，也高於預期。儘管如此，剔除價格波動較大成分的核心指標顯示，隨著加拿大疲弱的經濟適應人口增長放緩以及美國貿易政策造成的出口損害，潛在價格壓力仍然溫和。
-
----
-
-### 2026-06-22 21:10:20  #MKT News #Market Themes #Chip Wars #MU.O #Impact bullish
-
-Micron Technology (MU.O) shares rose about 5% in premarket trading after the chipmaker and ANTHROPIC announced a strategic agreement to expand next-generation AI infrastructure.
-
----
-
-### 2026-06-22 21:10:16  #公司 #國際
-
-印度金融科技公司CRED將從Meta Platforms(META.O)籌集9億美元。
-
----
-
-### 2026-06-22 21:10:08  #MKT News #Star Stocks #META.O
-
-Indian fintech CRED will raise $900 million from Meta Platforms (META.O).
-
----
-
-### 2026-06-22 21:09:31  #MKT News #Star Stocks #NVIDIA #Market Themes #Magnificent 7 #NVDA.O #Impact bullish
-
-NVIDIA (NVDA.O) released "Halos for Robotics", described as the industry's first full‑stack safety system for physical AI.
-
----
-
-### 2026-06-22 21:09:29  #其他
-
-英偉達：搭載VERA RUBIN NVL4的系統將於第四季度上市。
-
----
-
-### 2026-06-22 21:09:22  #其他
-
-戴爾(DELL.N)與英偉達(NVDA.O)攜手打造的“戴爾AI工廠”推進超級計算級基礎設施的建設，為下一代高效能運算（HPC）和人工智慧（AI）提供動力。
-
----
-
-### 2026-06-22 21:08:57  #MKT News #Star Stocks #NVIDIA #Market Themes #AI Revolution #Magnificent 7 #NVDA.O #Impact bullish
-
-NVIDIA (NVDA.O): Vera Rubin and Vera CPU to bring autonomous AI to scientific computing.
-
----
-
-### 2026-06-22 21:08:34  #MKT News #Star Stocks #NVIDIA #Market Themes #AI Revolution #Magnificent 7 #NVDA.O #Impact bullish #DELL.O
-
-Dell and NVIDIA are launching a Dell AI Factory to deploy supercomputing-grade infrastructure to power next-generation high-performance computing and AI workloads.
-
----
-
-### 2026-06-22 21:08:30  #公司
-
-據公司宣告，信貸平臺CRED創始人將加入Meta擔任高階領導職務。
-
----
-
-### 2026-06-22 21:08:12  #其他
-
-【美光與Anthropic簽署多年期儲存產品供應協議】美光科技與Anthropic簽署了一項多年期儲存供應協議，包括HBM、DRAM和SSD等資料中心級產品。該協議將供應承諾與Anthropic為訓練和部署其Claude模型而進行的長期算力擴張計劃相掛鉤。與此同時，美光已將Anthropic的Claude模型部署至其工程、製造及企業職能體系中，以支援程式碼生成與智慧體業務流程。除供應及技術合作外，美光還在Anthropic的H輪融資中參與了戰略性投資。
-
----
-
-### 2026-06-22 21:08:02  #其他
-
-阿根廷政府官方公報公佈：已批准向國際機構舉債最高50億美元。
-
----
-
-### 2026-06-22 21:07:55  #市場
-
-美光科技股價盤前上漲5%；美光與Anthropic宣佈達成戰略協議，規模化擴張下一代人工智慧基礎設施。
-
----
-
-### 2026-06-22 21:07:43  #央行 #歐洲央行
-
-【拉加德：公眾並不預期高通脹會持續】歐洲央行行長拉加德表示，公眾並不預期高通脹會持續，歐洲央行必須保持靈活應對伊朗衝擊。
-
----
-
-### 2026-06-22 21:07:33  #MKT News #Market Regions #Greater China
-
-【Chinese team builds 3D nanoparticle photothermal material that boosts solar desalination efficiency】Researchers at the Institute of Process Engineering, Chinese Academy of Sciences, with Shenzhen University developed a polymer "latch" mechanism to assemble nanoparticles into a three-dimensional photothermal evaporator that sharply raises solar-driven seawater evaporation. The structure achieves 90.2% solar absorption; nanoscale confinement alters the water hydrogen-bond network and cuts the energy required for the same evaporation volume by 45.7%. A single evaporator recorded an evaporation rate of 38.1 kg/hr per m2, 8.5x the team’s prior 2D films. In a 30-day accelerated seawater aging test there was no nanoparticle shedding; the material produced no photo-induced reactive free radicals and addressed organic-substrate degradation. Results published in Advanced Materials. The team is working to improve condensation efficiency and reduce system costs to enable scale-up for coastal water-scarce regions, islands and remote agricultural irrigation.
 
 ---

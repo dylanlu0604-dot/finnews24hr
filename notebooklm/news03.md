@@ -1,7 +1,75 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-06-28 00:07:29_
-_本檔包含 3856 則快訊，約 671293 字_
+_更新時間：2026-06-28 00:35:44_
+_本檔包含 3854 則快訊，約 671350 字_
+
+---
+
+### 2026-06-25 04:02:42  #MKT News #Important #MU.O #Impact bullish
+
+Micron Technology (MU.O) forecasts fourth-quarter revenue of $50.0 bln, versus market consensus of $42.915 bln.
+
+---
+
+### 2026-06-25 04:02:33  #MKT News #Market Regions #Wall Street (US) #MU.O #Impact bullish
+
+U.S.-listed shares of Micron Technology (MU.O) rose more than 2% in after-hours trading.
+
+---
+
+### 2026-06-25 04:02:06  #MKT News #Important #Market Themes #Chip Wars #MU.O #Impact bullish
+
+Micron Technology (MU.O) reported fiscal 2026 Q3 revenue of $41.456 bln, versus market expectation of $35.423 bln and $9.301 bln in the year-ago quarter.
+
+---
+
+### 2026-06-25 04:01:30  #MKT News #Important #Macro & Rates #The Fed (FOMC) #S&P500 #Impact bullish #Dow
+
+Federal Reserve says banks included in its stress test would absorb more than $700bn of losses under the hypothetical scenario; capital falls only 1.6% and remains above minimum regulatory requirements.
+
+---
+
+### 2026-06-25 04:01:18  #MKT News #Important #Star Stocks #Microsoft #Alibaba #Market Themes #Magnificent 7 #BABA.N #Impact bearish #MSFT.O #ORCL.N
+
+【US close: major indexes mixed; Nasdaq Golden Dragon China Index down 1.7%】US stocks closed mixed on Wednesday: Dow Jones Industrial Average +0.36%, S&P 500 -0.09%, Nasdaq Composite -0.40%. Notable movers: SpaceX (SPCX.O) -1.0%, Microsoft (MSFT.O) -2.0%, Oracle (ORCL.N) -4.5%. The Nasdaq Golden Dragon China Index fell 1.77%; Alibaba (BABA.N) down about 3%, Bilibili (BILI.O) up over 3%.
+
+---
+
+### 2026-06-25 04:01:16  #公司 #其他 #焦點 #國際
+
+美光科技第三財季調整後營收414.6億美元，分析師預期356.9億美元。
+第三財季核心資料中心營收115.2億美元，分析師預期68億美元。
+第三財季雲端儲存營收137.7億美元，分析師預期106.9億美元。
+第三財季移動與客戶營收115.2億美元，分析師預期97.3億美元。
+第三財季調整後每股收益（EPS）為25.11美元，分析師預期20.49美元。
+第三財季調整後運營利潤336.8億美元，分析師預期278.6億美元。
+第三財季調整後毛利潤率84.9%，分析師預期81.9%。
+預計第四財季調整後營收490億-510億美元，分析師預期432.4億美元。
+預計第四財季調整後EPS為30-32美元，分析師預期25.31美元。
+
+---
+
+### 2026-06-25 04:00:48  #市場 #焦點
+
+【美股收盤：三大股指集體漲跌不一】道指漲0.36%，標普500指數跌0.10%，納指跌0.46%。Strategy跌9.22%，阿波羅全球管理跌6.18%，黑石跌5.88%，羅賓漢跌5.83%，Builders FirstSource漲11.20%，Iqvia Holdings Inc.漲8.35%，查爾斯河實驗室漲8.30%。“七姐妹”方面：亞馬遜漲0.09%，谷歌跌0.40%，蘋果跌0.45%，英偉達跌0.54%，Meta Platforms跌0.79%，特斯拉跌1.64%，微軟跌2.33%。
+
+---
+
+### 2026-06-25 04:00:13  #央行 #國際
+
+銀行透過美聯儲壓力測試，為股東分紅鋪平道路。
+
+---
+
+### 2026-06-25 04:00:02  #市場 #焦點
+
+【納斯達克中國金龍指數收跌1.81%】金生遊樂跌14.84%，盛豐物流跌13.85%，海天網路跌9.77%，Tims中國跌9.38%，網易有道跌9.25%。
+
+---
+
+### 2026-06-25 03:56:19  #MKT News #Important #Commodities #Energy #Brent #Impact bearish #WTI
+
+【Global crude futures retreat to pre-conflict levels】Brent settled down $3.34 (-4.3%) at $73.74/bbl and U.S. crude fell $2.87 (-3.9%) to $70.34/bbl, returning to levels seen before the US‑Israel‑Iran conflict erupted as more previously idled tankers left the Strait of Hormuz and supply concerns eased. ING said positive signals from the Persian Gulf are boosting optimism about restored flows through the Strait of Hormuz; vessel transits have risen but remain well below pre‑war levels.
 
 ---
 
@@ -23180,77 +23248,5 @@ Tesla (TSLA.O) shares extended losses to 5%.
 ### 2026-06-23 23:06:37  #公司
 
 【仙工智慧：香港公開發售獲5934.56倍認購 全球發售淨籌約9.954億港元】仙工智慧(06106)公佈配發結果，公司全球發售1049.73萬股H股，香港公開發售佔20%，國際發售佔80%。每股發售價101.6港元，全球發售淨籌約9.954億港元。每手50股，預期H股將於2026年6月24日(星期三)上午九時正(香港時間)開始在聯交所交易。其中，香港公開發售獲5934.56倍認購，國際發售獲21.29倍認購。
-
----
-
-### 2026-06-23 23:05:40  #MKT News #Macro & Rates
-
-REUTERS SURVEY: All 30 analysts surveyed expect the Bank of Mexico to hold its policy rate at 6.50% at the June 25 meeting.
-
----
-
-### 2026-06-23 23:05:27  #MKT News
-
-Bank of Canada Governor MACKLEM said 'false precision' in forward guidance is unhelpful.
-
----
-
-### 2026-06-23 23:05:12  #MKT News #Commodities #Energy #WTI #Impact bullish #Brent #DXY
-
-【Repeated drone strikes on Russian refineries spread gasoline shortages nationwide】Sustained Ukrainian drone attacks on Russian refineries have worsened gasoline shortages, prompting fuel rationing or supply interruptions in at least two-thirds of Russian regions. From border areas to Amur Oblast, regional governors are daily restricting station sales to curb panic buying; Irkutsk’s governor said fuel is being allocated per consumer and prioritized for emergency services, public transport and agriculture. Several major refineries have been taken offline, retail gasoline prices have risen, and Moscow has banned jet-fuel exports. Authorities warned shortages could deepen if drone strikes increase; the resulting upward pressure on inflation may heighten central bank concerns.
-
----
-
-### 2026-06-23 23:05:03  #國際
-
-美國航空將在改裝後的 A319、A320 客機上增設高階座位。
-
----
-
-### 2026-06-23 23:04:56  #MKT News
-
-BOC Governor Macklem said he is concerned excessive forward guidance risks becoming "false precision" and causing confusion.
-
----
-
-### 2026-06-23 23:04:45  #公司
-
-巴西國家石油公司與墨西哥國家石油公司簽署油氣合作諒解備忘錄。
-
----
-
-### 2026-06-23 23:04:23  #央行 #其他
-
-加拿大央行行長麥克勒姆： 確實擔心過多前瞻性指引會形成虛假精準預期，進而造成市場困惑。
-
----
-
-### 2026-06-23 23:03:09  #MKT News #DELL.N #Impact bullish
-
-Dell (DELL.N) shares turned positive after earlier falling as much as 6.6%.
-
----
-
-### 2026-06-23 23:02:56  #央行 #其他
-
-加拿大央行行長麥克勒姆：人工智慧估值創歷史新高，帶來金融風險。
-
----
-
-### 2026-06-23 23:02:16  #MKT News #Market Themes #AI Revolution #S&P500 #Impact bearish #XAUUSD #Impact bullish #DXY
-
-BOC Governor Macklem said AI valuations have reached record highs and pose financial risks.
-
----
-
-### 2026-06-23 23:01:40  #MKT News #Important
-
-As of 23:00 Beijing close, China’s commodity futures front-month contracts were mostly lower: propylene fell about 2%, benzene dropped more than 1%, and rubber, pulp, polypropylene and caustic soda declined nearly 1%. On the upside, rapeseed meal rose over 1%, while low-sulfur fuel oil (LU) and asphalt gained about 1%.
-
----
-
-### 2026-06-23 23:00:11  #Trading Economics #Markets #Currency #Importance 1
-
-FX Updates: Australian Dollar Drops by 1.01% — Top currency losers are Australian Dollar (-1.01%), Swedish Krona (-1.01%), Mexican Peso (-0.87%), Euro (-0.41%) and British Pound (-0.37%). Gains are led by Dollar Index (0.33%) and South Korean Won (0.30%). Meanwhile Japanese Yen was little changed.
 
 ---

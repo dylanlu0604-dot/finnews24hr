@@ -1,7 +1,43 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-06-28 00:07:29_
-_本檔包含 3791 則快訊，約 670736 字_
+_更新時間：2026-06-28 00:35:44_
+_本檔包含 3787 則快訊，約 671276 字_
+
+---
+
+### 2026-06-26 07:41:54  #公司
+
+澳交所釋出首份上市公司監管報告，重點關注市場誠信與資訊披露實踐。
+
+---
+
+### 2026-06-26 07:41:38  #國際
+
+【美參議員參議員要求特斯拉為自動駕駛涉事車禍擔責】康涅狄格州民主黨聯邦參議員理查德・布盧門撒爾（Richard Blumenthal）呼籲特斯拉對上週得克薩斯州發生的一起致命車禍承擔責任。警方稱，事發時駕駛員正在使用 Model 3 輔助駕駛系統，車輛隨後猛撞一棟磚房，76 歲的瑪莎・阿維拉不幸身亡。布盧門撒爾在接受媒體專訪時表示：“特斯拉必須為此負責，美國國家公路交通安全管理局也應提速增效，開展調查並追究其相關責任。”這起發生在休斯頓郊區凱蒂市的車禍引發廣泛關注，事故現場影片顯示車輛失控猛撞房屋牆體。目前該事件已啟動兩項聯邦調查，特斯拉的駕駛輔助技術也再度受到各界審視。
+
+---
+
+### 2026-06-26 07:39:38  #資料 #市場 #央行 #國際
+
+【東京核心通脹連續五個月低於日本央行目標】週五公佈的資料顯示，日本首都東京6月核心通脹同比增速有所回升，中東衝突帶來的物價上行壓力正持續擴散。該資料將成為日本央行下月政策會議重點研判的參考依據，屆時央行理事會將開展季度經濟增速與物價預期評估。資料顯示，剔除波動較大生鮮食品價格的東京核心消費者物價指數（CPI）6月同比上漲1.6%，高於5月1.3%的漲幅，與市場預期中值1.6%持平。另一項剔除生鮮食品與燃油價格的物價指標，是日本央行重點觀測、用以衡量通脹中長期趨勢的核心參考，該指標6月同比上漲1.9%，5月漲幅為1.6%。中東衝突令日本央行難以判斷加息時點與加息節奏：能源價格走高會推升通脹，但日本經濟高度依賴原油進口，油價上漲同時會壓制國內經濟。本月日本央行完成加息，利率升至31年來最高水平，是貨幣政策正常化程序中的標誌性舉措。央行釋放訊號，準備進一步收緊貨幣政策，著力抑制伊朗衝突引發能源衝擊所帶來的物價上漲壓力。
+
+---
+
+### 2026-06-26 07:37:40  #宏觀
+
+【紐約市長曼達尼出臺租金凍結政策，紐約租客迎來里程碑時刻】紐約市租金指導委員會投票決定，為約一百萬套穩定租金公寓凍結租金，這為佐蘭・曼達尼市長帶來一場重大政治勝利，也兌現了助其入主市政廳的核心競選承諾。曼達尼此前多次呼籲凍結租金，他表示，穩定租金公寓的租客正承受食品、交通及其他生活必需品漲價壓力，薪資漲幅卻跟不上物價。此前數月，各方持續爭論：儘管房東自身財務壓力不斷加大，是否仍需為租客隔絕暴漲的住房開支。本次租金凍結政策適用於2026年10月1日至2027年9月30日期間簽訂的租約。上一次為期一年的租金凍結政策出臺於2020年疫情期間。
+
+---
+
+### 2026-06-26 07:37:11  #MKT News #Commodities #Industrial Metals #Copper #Impact mixed
+
+【Countdown to US copper tariff decision pressures compute metals】In July the US proposed copper tariffs, applying 50% duties to semi-processed copper while refined copper was temporarily exempt but slated for phased tariffs beginning in 2027. The US Commerce Department must deliver its Section 232 report by June 30, when a final decision could be made. As the deadline approaches, AI compute-related metals markets face renewed volatility. Goldman Sachs and other banks warn a new tariff could trigger large-scale US buyer stockpiling. COMEX copper inventories have topped 650,000 tonnes, a record high. Supply tightness for small metals closely tied to AI compute — tungsten, tin, tantalum and indium — could worsen if measures are implemented.
+
+---
+
+### 2026-06-26 07:36:49  #Trading Economics #Economy #Japan #Tokyo Core CPI #Importance 1
+
+Tokyo Core Inflation Hits 3-Month High — Core consumer prices in Tokyo’s central wards rose 1.6% year-on-year in June 2026, accelerating from 1.3% in the previous month and in line with market expectations. It was the first acceleration since September last year and marked the fastest increase in three months. However, inflation remained below the Bank of Japan’s 2% target for a fifth consecutive month, as fuel subsidies and favorable base effects helped limit the impact of higher raw material costs linked to the Middle East conflict. The BoJ raised interest rates by 25 bps to their highest level since September 1995 at its June meeting, marking the first rate hike since last December, to prevent higher oil prices from fueling inflation. BoJ board member Naoki Tamura recently said that the central bank should continue to raise interest rates at intervals of a few months.
 
 ---
 
@@ -22811,73 +22847,5 @@ Micron Technology (MU.O) said it expects fourth fiscal quarter EPS of $30.73 ± 
 ### 2026-06-25 04:03:18  #MKT News #Important #Market Themes #Chip Wars #MU.O #Impact bullish
 
 Micron Technology (MU.O) reported fiscal 2026 third-quarter EPS of $24.67, versus $20.42 expected and $1.68 a year earlier.
-
----
-
-### 2026-06-25 04:02:42  #MKT News #Important #MU.O #Impact bullish
-
-Micron Technology (MU.O) forecasts fourth-quarter revenue of $50.0 bln, versus market consensus of $42.915 bln.
-
----
-
-### 2026-06-25 04:02:33  #MKT News #Market Regions #Wall Street (US) #MU.O #Impact bullish
-
-U.S.-listed shares of Micron Technology (MU.O) rose more than 2% in after-hours trading.
-
----
-
-### 2026-06-25 04:02:06  #MKT News #Important #Market Themes #Chip Wars #MU.O #Impact bullish
-
-Micron Technology (MU.O) reported fiscal 2026 Q3 revenue of $41.456 bln, versus market expectation of $35.423 bln and $9.301 bln in the year-ago quarter.
-
----
-
-### 2026-06-25 04:01:30  #MKT News #Important #Macro & Rates #The Fed (FOMC) #S&P500 #Impact bullish #Dow
-
-Federal Reserve says banks included in its stress test would absorb more than $700bn of losses under the hypothetical scenario; capital falls only 1.6% and remains above minimum regulatory requirements.
-
----
-
-### 2026-06-25 04:01:18  #MKT News #Important #Star Stocks #Microsoft #Alibaba #Market Themes #Magnificent 7 #BABA.N #Impact bearish #MSFT.O #ORCL.N
-
-【US close: major indexes mixed; Nasdaq Golden Dragon China Index down 1.7%】US stocks closed mixed on Wednesday: Dow Jones Industrial Average +0.36%, S&P 500 -0.09%, Nasdaq Composite -0.40%. Notable movers: SpaceX (SPCX.O) -1.0%, Microsoft (MSFT.O) -2.0%, Oracle (ORCL.N) -4.5%. The Nasdaq Golden Dragon China Index fell 1.77%; Alibaba (BABA.N) down about 3%, Bilibili (BILI.O) up over 3%.
-
----
-
-### 2026-06-25 04:01:16  #公司 #其他 #焦點 #國際
-
-美光科技第三財季調整後營收414.6億美元，分析師預期356.9億美元。
-第三財季核心資料中心營收115.2億美元，分析師預期68億美元。
-第三財季雲端儲存營收137.7億美元，分析師預期106.9億美元。
-第三財季移動與客戶營收115.2億美元，分析師預期97.3億美元。
-第三財季調整後每股收益（EPS）為25.11美元，分析師預期20.49美元。
-第三財季調整後運營利潤336.8億美元，分析師預期278.6億美元。
-第三財季調整後毛利潤率84.9%，分析師預期81.9%。
-預計第四財季調整後營收490億-510億美元，分析師預期432.4億美元。
-預計第四財季調整後EPS為30-32美元，分析師預期25.31美元。
-
----
-
-### 2026-06-25 04:00:48  #市場 #焦點
-
-【美股收盤：三大股指集體漲跌不一】道指漲0.36%，標普500指數跌0.10%，納指跌0.46%。Strategy跌9.22%，阿波羅全球管理跌6.18%，黑石跌5.88%，羅賓漢跌5.83%，Builders FirstSource漲11.20%，Iqvia Holdings Inc.漲8.35%，查爾斯河實驗室漲8.30%。“七姐妹”方面：亞馬遜漲0.09%，谷歌跌0.40%，蘋果跌0.45%，英偉達跌0.54%，Meta Platforms跌0.79%，特斯拉跌1.64%，微軟跌2.33%。
-
----
-
-### 2026-06-25 04:00:13  #央行 #國際
-
-銀行透過美聯儲壓力測試，為股東分紅鋪平道路。
-
----
-
-### 2026-06-25 04:00:02  #市場 #焦點
-
-【納斯達克中國金龍指數收跌1.81%】金生遊樂跌14.84%，盛豐物流跌13.85%，海天網路跌9.77%，Tims中國跌9.38%，網易有道跌9.25%。
-
----
-
-### 2026-06-25 03:56:19  #MKT News #Important #Commodities #Energy #Brent #Impact bearish #WTI
-
-【Global crude futures retreat to pre-conflict levels】Brent settled down $3.34 (-4.3%) at $73.74/bbl and U.S. crude fell $2.87 (-3.9%) to $70.34/bbl, returning to levels seen before the US‑Israel‑Iran conflict erupted as more previously idled tankers left the Strait of Hormuz and supply concerns eased. ING said positive signals from the Persian Gulf are boosting optimism about restored flows through the Strait of Hormuz; vessel transits have risen but remain well below pre‑war levels.
 
 ---
