@@ -1,7 +1,27 @@
 {
-  "updated": "2026-06-27 19:26:34",
-  "count": 18215,
+  "updated": "2026-06-27 19:30:52",
+  "count": 18210,
   "items": [
+    {
+      "id": "4958386",
+      "time": "2026-06-27 19:28:14",
+      "tags": [
+        "國際"
+      ],
+      "text": "據伊朗國家電視臺：伊朗關於霍爾木茲海峽的通行指令仍在執行中。所有船隻進出海峽必須與革命衛隊海軍進行聯絡和協調。"
+    },
+    {
+      "id": "mkt:019f08d6-28ff-7dd8-b142-16cfc2ba2b8c",
+      "time": "2026-06-27 19:28:00",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Iranian state television reports Iran’s transit directive for the Strait of Hormuz remains in effect; all vessels transiting the strait must contact and coordinate with the Islamic Revolutionary Guard Corps Navy (IRGC Navy)."
+    },
     {
       "id": "mkt:019f08d1-30ad-7dd8-b142-0ff488ede269",
       "time": "2026-06-27 19:22:34",
@@ -166574,62 +166594,6 @@
         "MKT News"
       ],
       "text": "Israeli military said it remains committed to the ceasefire agreement and will continue to act against any threats to Israel or its forces."
-    },
-    {
-      "id": "4945789",
-      "time": "2026-06-20 19:30:39",
-      "tags": [
-        "國際"
-      ],
-      "text": "以色列軍方表示仍致力於停火協議，並將繼續採取行動應對任何對以色列或其軍隊的威脅。"
-    },
-    {
-      "id": "4945788",
-      "time": "2026-06-20 19:29:46",
-      "tags": [
-        "國際"
-      ],
-      "text": "據報道，美國情報機構已警告特朗普政府，以色列總理內塔尼亞胡可能會採取一些措施，破壞與伊朗達成持久和平協議的努力。"
-    },
-    {
-      "id": "mkt:019ee4c9-8674-7dd8-b09e-b4ae2789c884",
-      "time": "2026-06-20 19:27:52",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Switzerland's Foreign Ministry said it cannot provide further details on attendees or discussion content for confidentiality reasons."
-    },
-    {
-      "id": "mkt:019ee4c9-74d6-7dd8-b09e-a923d2f0bc5f",
-      "time": "2026-06-20 19:27:48",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Swiss Foreign Ministry said diplomats present are continuing efforts to maintain dialogue."
-    },
-    {
-      "id": "mkt:019ee4c9-7131-7dd8-b09e-a2e729c1f0e3",
-      "time": "2026-06-20 19:27:47",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Switzerland's foreign ministry said it will continue to provide a discreet, reliable venue at Bürgenstock for talks to implement the US-Iran memorandum of understanding."
-    },
-    {
-      "id": "4945787",
-      "time": "2026-06-20 19:26:52",
-      "tags": [
-        "國際"
-      ],
-      "text": "瑞士外交部：目前在場的多國外交官正繼續努力維持對話。"
-    },
-    {
-      "id": "4945786",
-      "time": "2026-06-20 19:26:46",
-      "tags": [
-        "國際"
-      ],
-      "text": "當地州長稱，烏克蘭襲擊了俄羅斯烏拉爾地區的秋明煉油廠。"
     }
   ]
 }
