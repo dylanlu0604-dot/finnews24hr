@@ -1,7 +1,27 @@
 {
-  "updated": "2026-06-27 19:01:42",
-  "count": 18220,
+  "updated": "2026-06-27 19:05:50",
+  "count": 18215,
   "items": [
+    {
+      "id": "mkt:019f08bf-7417-7dd8-b141-fca4fc354310",
+      "time": "2026-06-27 19:03:12",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Iranian state TV said more vessels are seeking Iran's permission to transit the Strait of Hormuz after warning shots were fired at unauthorized ships."
+    },
+    {
+      "id": "4958379",
+      "time": "2026-06-27 19:01:22",
+      "tags": [
+        "國際"
+      ],
+      "text": "中國地震臺網正式測定：06月27日18時37分在印尼班達海（南緯6.85度，東經125.65度）發生6.0級地震，震源深度530千米。"
+    },
     {
       "id": "4958378",
       "time": "2026-06-27 19:00:03",
@@ -166604,66 +166624,6 @@
         "公司"
       ],
       "text": "【國鐵成都局端午假期單日傳送旅客創歷史新高】從中國鐵路成都局集團有限公司獲悉，19日端午假期首日，西南鐵路迎來出行高峰，國鐵成都局傳送旅客193.82萬人次，同比增長8.9%，創端午假期單日歷史新高，客流熱度和出行活躍度均創歷史同期最好水平。"
-    },
-    {
-      "id": "mkt:019ee4b4-dd29-7dd8-b09e-84b05512fa8b",
-      "time": "2026-06-20 19:05:18",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "Brent",
-        "Impact mixed"
-      ],
-      "text": "Hezbollah pledged a ceasefire while warning it will not hesitate to resist any Israeli attempt to seize Lebanese territory."
-    },
-    {
-      "id": "4945780",
-      "time": "2026-06-20 19:04:42",
-      "tags": [
-        "國際"
-      ],
-      "text": "真主黨表示，在履行停火承諾的同時，將毫不猶豫地抵抗以色列在黎巴嫩奪取任何領土的企圖。"
-    },
-    {
-      "id": "mkt:019ee4b3-c980-7dd8-b09e-7afe10362d97",
-      "time": "2026-06-20 19:04:08",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "HEZBOLLAH said it targeted Israeli forces that advanced last night toward areas near Nabatieh in southern Lebanon."
-    },
-    {
-      "id": "4945779",
-      "time": "2026-06-20 19:03:59",
-      "tags": [
-        "國際"
-      ],
-      "text": "黎巴嫩真主黨稱，昨晚他們襲擊了向黎巴嫩南部奈拜提耶附近地區推進的以色列軍隊。"
-    },
-    {
-      "id": "4945778",
-      "time": "2026-06-20 19:02:48",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：美國在對伊朗的戰爭中表現出色。"
-    },
-    {
-      "id": "4945777",
-      "time": "2026-06-20 19:02:22",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：伊朗在軍事上“已被徹底擊敗”。"
-    },
-    {
-      "id": "mkt:019ee4b1-ff12-7dd8-b09e-753203851e48",
-      "time": "2026-06-20 19:02:10",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Trump says Iran 'completely defeated', declares US no longer weak】Trump said the radical left and Democrats now recognize how well the US has acted in confronting Iran, asserting Iran has been militarily \"completely defeated\" and that the United States is no longer weak. He accused Obama of sending Iran billions in cash and failing to use an exhausted US military to restrain what he called the world's top state sponsor of terrorism. Trump said Iran had \"gotten away with it\" for 47 years until his appearance, after which \"everything changed\" and \"America is back.\""
     }
   ]
 }
