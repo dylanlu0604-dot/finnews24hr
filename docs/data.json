@@ -1,7 +1,16 @@
 {
-  "updated": "2026-06-27 15:37:51",
-  "count": 18191,
+  "updated": "2026-06-27 15:41:59",
+  "count": 18188,
   "items": [
+    {
+      "id": "4958297",
+      "time": "2026-06-27 15:39:25",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【馬斯克獲FTC批准收購前SpaceX工程師創立的光模組初創公司Mesh】美國聯邦貿易委員會（FTC）當地時間6月25日批准馬斯克收購Mesh Optical Technologies Corporation。Mesh Optical Technologies由三位前SpaceX工程師特拉維斯·布拉謝爾斯、卡梅隆·拉莫斯及賽琳娜·格羅文-哈伯利創立，三人此前曾在SpaceX主導設計星鏈衛星鐳射星間鏈路系統。公司於今年2月從隱身模式浮出水面，完成由Thrive Capital領投的逾5000萬美元A輪融資。Mesh的核心產品為Alpha C1光學收發器，傳輸速率達1.6Tbps，採用倒裝晶片鍵合工藝製造，以光訊號替代傳統銅纜在伺服器與GPU之間傳輸資料，可大幅降低延遲與能耗。"
+    },
     {
       "id": "mkt:019f0802-bcd7-7dd8-b141-0597e8945ce9",
       "time": "2026-06-27 15:37:04",
@@ -166380,38 +166389,6 @@
         "MKT News"
       ],
       "text": "Iran's interior ministry spokesman said there is no distinction between 'hardliners' and 'moderates' on negotiation issues."
-    },
-    {
-      "id": "mkt:019ee3fa-23f7-7dd8-b09d-9e741634663d",
-      "time": "2026-06-20 15:41:21",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Iranian interior ministry spokesman said Iran will hold a large funeral for Supreme Leader Ayatollah Ali Khamenei."
-    },
-    {
-      "id": "mkt:019ee3fa-0aca-7dd8-b09d-932e4bd86316",
-      "time": "2026-06-20 15:41:15",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Iran's foreign ministry spokesman said the foreign minister will meet Pakistan's interior minister in Tehran, the Iranian Students' News Agency reported."
-    },
-    {
-      "id": "4945723",
-      "time": "2026-06-20 15:40:46",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗外交部發言人表示，外長阿拉格齊將會見正在訪問德黑蘭的巴基斯坦內政部長。"
-    },
-    {
-      "id": "4945722",
-      "time": "2026-06-20 15:40:00",
-      "tags": [
-        "其他"
-      ],
-      "text": "【尼泊爾中央動物園因禽流感疫情暫時關閉】據尼泊爾媒體報道，位於首都加德滿都附近的中央動物園因園內多隻鳥類和其他動物死於H5N1型禽流感，於19日起暫時關閉。"
     }
   ]
 }
