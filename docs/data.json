@@ -1,7 +1,34 @@
 {
-  "updated": "2026-06-27 16:22:28",
-  "count": 18180,
+  "updated": "2026-06-27 16:26:33",
+  "count": 18179,
   "items": [
+    {
+      "id": "4958320",
+      "time": "2026-06-27 16:24:12",
+      "tags": [
+        "國際"
+      ],
+      "text": "安全訊息人士稱：爆炸性無人機襲擊了伊拉克埃爾比勒以北的伊朗庫爾德反對派組織營地。"
+    },
+    {
+      "id": "4958319",
+      "time": "2026-06-27 16:23:37",
+      "tags": [
+        "其他"
+      ],
+      "text": "【北大與DeepSeek聯合開源DSpark框架，高併發下生成速度提升超60%】DeepSeek聯合北京大學正式釋出DSpark推理加速框架，旨在解決大語言模型在高併發生產環境中的推理效率瓶頸。該框架已部署於DeepSeek-V4-Flash與DeepSeek-V4-Pro的預覽版服務引擎中，相比此前生產環境採用的單token推測解碼基線MTP-1，在同等吞吐量水平下可將單使用者生成速度提升60%至85%。相關論文、訓練程式碼及模型檢查點已在GitHub平臺DeepSpec專案中開源。"
+    },
+    {
+      "id": "mkt:019f082c-2dd3-7dd8-b141-29407694ba15",
+      "time": "2026-06-27 16:22:20",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Chairman of Iran's parliamentary National Security Commission said any action violating Iran's shipping directives in the Strait of Hormuz will be met with a decisive response."
+    },
     {
       "id": "4958318",
       "time": "2026-06-27 16:20:59",
@@ -166280,46 +166307,6 @@
         "公司"
       ],
       "text": "【騰訊客服：微信正在灰度測試 AI助手“小微】6月20日，記者諮詢騰訊客服後獲悉，微信小微（智慧助手）是微信團隊在小範圍內測的原生AI助手，目前仍在測試階段。 該客服表示，微信小微支援透過文字或語音對話操作微信原生功能，例如調整設定、傳送訊息、撥打電話等。小微目前使用多個AI模型，包括騰訊自研及開源優質模型。 “目前微信小微的灰度測試覆蓋多個系統，具體參與資格請以實際頁面顯示為準。”該客服說。（貝殼財經）"
-    },
-    {
-      "id": "mkt:019ee422-b4d6-7dd8-b09e-098e6578c1fc",
-      "time": "2026-06-20 16:25:40",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "Brent",
-        "DXY"
-      ],
-      "text": "Israeli military said it struck Hezbollah targets in southern Lebanon following an attack."
-    },
-    {
-      "id": "4945746",
-      "time": "2026-06-20 16:25:25",
-      "tags": [
-        "國際"
-      ],
-      "text": "以色列軍方官員稱，在襲擊發生後，軍方一直在打擊黎巴嫩南部的“真主黨目標”。"
-    },
-    {
-      "id": "mkt:019ee422-6df7-7dd8-b09e-00a8d7604f31",
-      "time": "2026-06-20 16:25:22",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "DXY",
-        "WTI"
-      ],
-      "text": "An Israeli military official said Hezbollah fired more than 50 artillery shells from southern Lebanon at Israeli forces."
-    },
-    {
-      "id": "4945745",
-      "time": "2026-06-20 16:24:58",
-      "tags": [
-        "國際"
-      ],
-      "text": "以色列軍方官員稱，真主黨昨夜向黎巴嫩境內的以色列部隊發射了超過50枚炮彈。"
     }
   ]
 }
