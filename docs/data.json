@@ -1,7 +1,25 @@
 {
-  "updated": "2026-06-27 15:33:51",
+  "updated": "2026-06-27 15:37:51",
   "count": 18191,
   "items": [
+    {
+      "id": "mkt:019f0802-bcd7-7dd8-b141-0597e8945ce9",
+      "time": "2026-06-27 15:37:04",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "【European heatwave drives severe Swiss glacier melt】Matthias Huss, head of the Swiss Glacier Monitoring Project, said on the 26th that winter-accumulated ice and snow on Swiss glaciers are expected to be completely gone by the 29th as a persistent European heatwave continues. The monitoring project, which has tracked glacier mass loss since 2000, records the date as roughly three months earlier than normal and second only to June 26, 2022. After inspecting the Rhone Glacier, Huss called the melt “shocking,” noting about 1 metre of ice thickness lost in 10 days. He said precise measurements will be available in September but that “substantial reduction this year is certain,” and warned sustained high temperatures, not single heatwaves, drive prolonged loss of alpine glacier volume."
+    },
+    {
+      "id": "4958296",
+      "time": "2026-06-27 15:36:02",
+      "tags": [
+        "其他"
+      ],
+      "text": "【中國海軍第48批護航編隊唐山艦訪問塞席爾】當地時間6月26日，中國海軍第48批護航編隊唐山艦抵達塞席爾維多利亞港，對塞席爾進行為期5天的友好訪問。當地時間26日9時許，懸掛著中塞兩國國旗的海軍唐山艦緩緩駛入維多利亞港。塞席爾軍方代表、塞席爾獨立學校師生，中國駐塞席爾大使館工作人員、中資機構和華僑華人代表等100餘人在碼頭迎接。訪問期間，編隊將開展專業交流、甲板招待會等活動，抽組分隊參加塞獨立50週年慶祝閱兵活動。（新華社）"
+    },
     {
       "id": "4958295",
       "time": "2026-06-27 15:31:46",
@@ -166394,22 +166412,6 @@
         "其他"
       ],
       "text": "【尼泊爾中央動物園因禽流感疫情暫時關閉】據尼泊爾媒體報道，位於首都加德滿都附近的中央動物園因園內多隻鳥類和其他動物死於H5N1型禽流感，於19日起暫時關閉。"
-    },
-    {
-      "id": "4945721",
-      "time": "2026-06-20 15:37:33",
-      "tags": [
-        "其他"
-      ],
-      "text": "【辛巴威下調汽油和柴油價格】辛巴威能源監管機構表示，該國將把汽油價格下調 5%，從每升 2.08 美元降至每升 1.98 美元。柴油價格將從每升 2.09 美元降至 1.99 美元。"
-    },
-    {
-      "id": "mkt:019ee3f4-3567-7dd8-b09d-899fb4736de6",
-      "time": "2026-06-20 15:34:52",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【New quantum sensor could detect gravitational waves and dark matter】A study in Nature reports a new quantum sensor that can effectively cancel background noise limiting measurement precision, enabling searches for previously undetectable weak signals and potentially informing the formation of supermassive black holes. Imperial College London, which led the research, said detecting the universe’s composition and new gravitational-wave sources requires measurements of extremely weak signals. Atom interferometers use interference of atomic matter waves, but the laser pulses required introduce noise that can swamp those signals and prevent meaningful data."
     }
   ]
 }
