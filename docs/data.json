@@ -1,7 +1,15 @@
 {
-  "updated": "2026-06-28 03:36:52",
+  "updated": "2026-06-28 03:40:53",
   "count": 18150,
   "items": [
+    {
+      "id": "4958594",
+      "time": "2026-06-28 03:39:04",
+      "tags": [
+        "其他"
+      ],
+      "text": "委內瑞拉附近再次發生4.8級強震。"
+    },
     {
       "id": "4958593",
       "time": "2026-06-28 03:35:36",
@@ -166055,15 +166063,6 @@
         "MKT News"
       ],
       "text": "【Pakistan prime minister Shehbaz Sharif departs for Switzerland】Pakistan's prime minister Shehbaz Sharif has departed for Switzerland, Pakistani media reported on the 21st."
-    },
-    {
-      "id": "4945978",
-      "time": "2026-06-21 03:39:06",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "由三名前SpaceX員工創立的卡斯泰利恩公司正籌備新一輪融資，目標估值不低於120億美元。該初創企業已完成研發階段，拿到美國海軍首批次產訂單，相關融資洽談隨之展開。"
     }
   ]
 }
