@@ -1,7 +1,151 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-06-27 21:56:56_
-_本檔包含 3541 則快訊，約 671868 字_
+_更新時間：2026-06-27 22:49:19_
+_本檔包含 3522 則快訊，約 671385 字_
+
+---
+
+### 2026-06-22 21:02:47  #MKT News #Important #Market Themes #AI Revolution #MU.O #Impact bullish
+
+Micron Technology (MU.O) has agreed to supply memory and storage to Anthropic.
+
+---
+
+### 2026-06-22 21:02:45  #央行 #國際
+
+歐洲央行行長拉加德：歐洲央行必須靈活應對伊朗衝擊。歐洲央行在應對當前形勢方面“處於良好位置”。儘管達成和平協議，中東局勢依然脆弱。
+
+---
+
+### 2026-06-22 21:02:23  #公司 #市場 #國際
+
+【日本酸素宣佈上調氦氣價格，漲幅平均超過30%】日本酸素（Nippon Sanso）6月19日宣佈，自2026年7月起上調氦氣相關產品出貨價格，平均漲幅超過30%。此次調價適用於鋼瓶氣、集裝氣、槽車液氦、混合氣體及特種氣體等產品。公司表示，中東地區氦氣生產中斷及全球供應緊張導致氦氣供應環境顯著惡化。儘管近期地區局勢出現改善跡象，但供應鏈恢復至正常水平仍需較長時間。與此同時，日元貶值進一步推高原材料採購成本，日本國內市場供需失衡局面仍在持續。日本酸素稱，公司此前已透過削減成本和提高運營效率等方式消化部分壓力，但原材料成本上漲幅度已超出內部可承受範圍，因此決定實施價格調整。公司同時警告，未來氦氣供應環境仍將維持緊張，不排除根據市場情況調整供應量及交付安排。
+
+---
+
+### 2026-06-22 21:02:09  #MKT News #Macro & Rates #The Fed (FOMC) #DXY #Impact mixed
+
+Fed Governor Waller said the dollar's global role is shifting with technological change.
+
+---
+
+### 2026-06-22 21:01:55  #其他
+
+美光科技與Anthropic簽訂記憶體和儲存供應協議。
+
+---
+
+### 2026-06-22 21:01:48  #其他
+
+美光科技：在全企業職能部門部署Anthropic的Claude大模型。
+
+---
+
+### 2026-06-22 21:01:45  #MKT News #Brent #Impact bullish #WTI #XAUUSD
+
+ECB President Lagarde: Middle East remains fragile despite a peace agreement.
+
+---
+
+### 2026-06-22 21:01:45  #央行 #歐洲央行
+
+【拉加德認為歐洲央行沒有必要對伊朗戰爭採取更強硬的回應】歐洲央行行長拉加德認為歐洲央行沒有必要對伊朗戰爭採取更強硬的回應。
+
+---
+
+### 2026-06-22 21:01:21  #MKT News
+
+ECB President Lagarde said the European Central Bank is "well placed" to respond to the current situation.
+
+---
+
+### 2026-06-22 21:01:15  #其他
+
+英偉達推出面向機器人技術的HALOS，這是業界首個針對實體人工智慧的全棧安全系統。
+
+---
+
+### 2026-06-22 21:01:13  #MKT News #Important #Market Regions #Europe & UK
+
+European Central Bank President Lagarde said the ECB does not need to respond more forcefully to the war in Iran.
+
+---
+
+### 2026-06-22 21:00:57  #其他
+
+市場訊息：美光科技參與 Anthropic H 輪融資。
+
+---
+
+### 2026-06-22 21:00:45  #國際
+
+歐洲推出創紀錄的35臺新型英偉達人工智慧超級計算機。
+
+---
+
+### 2026-06-22 21:00:28  #MKT News #Macro & Rates #The Fed (FOMC) #DXY #Impact bullish #US10Y #EURUSD #Impact bearish
+
+【BofA expects three Fed rate hikes this year】BofA now expects the Fed to raise rates three times this year, a reversal from its prior call for unchanged policy. The bank cites stronger-than-expected economic data and a hawkish shift in Fed communication, implying a more aggressive response to inf. The forecast remains a minority view: 19% of market investors now expect three hikes, up from 3% a week ago; most investors still see two hikes as the likeliest outcome.
+
+---
+
+### 2026-06-22 21:00:23  #MKT News #Important #WTI #Impact bearish
+
+Night session opened: China’s most-active futures were mostly lower. LPG fell over 2%; low-sulfur fuel oil (LU), bitumen, polypropylene, fuel oil, Shanghai crude (SC) and short fiber dropped more than 1%; methanol, PTA and plastics declined about 1%. Shanghai tin, 20# rubber and Shanghai nickel rose over 1%; cast aluminum gained roughly 1%.
+
+---
+
+### 2026-06-22 21:00:21  #MKT News #Market Regions #Europe & UK #EURUSD #Impact bearish #WTI #Impact bullish
+
+ECB President Lagarde said the central bank must be flexible in responding to the shock from Iran.
+
+---
+
+### 2026-06-22 21:00:10  #央行 #國際
+
+拉加德認為歐洲央行沒有必要對伊朗戰爭採取更強硬的回應。
+
+---
+
+### 2026-06-22 21:00:03  #市場
+
+【國內期貨夜盤開盤】雞蛋連續跌4.88%，鉑連續跌3.51%，碳酸鋰連續跌2.38%，液化石油氣連續跌2.31%，尿素連續跌2.15%。
+
+---
+
+### 2026-06-22 20:58:34  #央行 #資料 #市場 #國際
+
+【分析：加拿大5月CPI報告料標誌著通脹見頂】加拿大帝國商業銀行資本經濟部表示，加拿大5月份的通脹資料可能代表了一個峰值，在美國和伊朗達成協議後，本月原油價格出現回落。受汽油價格大幅上漲33.2%的推動，加拿大5月份整體通脹率加速至3.2%，略高於平均預期。該機構表示，關鍵在於剔除波動性專案的核心CPI保持不變，接近2%。隨著機票價格回升以及在多倫多和溫哥華舉行的世界盃推高價格，核心CPI在未來幾個月可能會加速上升。但經濟學家Andrew Grantham表示，核心CPI的低起點“應該能讓加拿大央行忽略任何近期的加速“，他堅持加拿大帝國商業銀行關於加拿大央行將維持政策利率不變到2026年底的預測。
+
+---
+
+### 2026-06-22 20:57:00  #其他
+
+【新石器618快遞資料曝光：跑了2263萬公里，增長1063%】今年5月12日—6月20日期間（618大促期間），新石器無人車完成網點到驛站配送任務的總運營里程達2263萬公里，較去年同期增長1063%。（新浪科技）
+
+---
+
+### 2026-06-22 20:56:27  #Trading Economics #Markets #Commodity #Importance 1
+
+Copper Pares Early Losses — Copper futures were above $6.35 per pound on Monday as the pullback in energy prices improved the outlook for broad manufacturing demand. Iran stated that the start of discussions with the US were promising to follow up on their memorandum of understanding signed in the previous week. The document sought to restore exports of oil and fuel through the Strait of Hormuz, improving the margins for goods producers and benefiting base metals with broad use. At the same time, the decrease in borrowing costs from the developments improved prospects for data center operators to raise cash for new projects. Data centers require 5,000 to 50,000 tons of copper per facility, per BHP, set to lift consumption in the near future. In turn, a sharper rebound was prevented by the return of sulfuric acid supply from prospects of peace in the Middle East, key for the copper refining chain, while Rio Tinto resumed exports of copper concentrate from its giant Oyu Tolgoi mine in Mongolia.
+
+---
+
+### 2026-06-22 20:56:21  #其他
+
+【江蘇省區域協調發展領導小組召開會議】6月22日，江蘇省區域協調發展領導小組召開會議，深入學習貫徹習近平總書記關於區域協調發展的重要論述和對江蘇工作重要講話精神，研究部署“十五五”時期全省“1+3”重點功能區建設工作。省委書記、領導小組組長信長星主持會議並講話，省長、領導小組組長劉小濤就具體工作作安排。會議指出，近年來，全省上下深化“1+3”重點功能區建設，統籌推進省際協同、區域聯動、城市群建設、流域治理等重點工作，揚子江城市群支撐引領作用不斷凸顯，沿海經濟帶新增長極建設縱深推進，江淮生態經濟區綠色發展逐步深化，徐州區域中心城市發展能級穩步提升，區域發展協調性進一步增強。會議強調，“十五五”時期深入推進全省區域協調發展，要圍繞做好區域互補、跨江融合、南北聯動大文章，持續深化實施“1+3”重點功能區戰略，更好促進省域生產力佈局最佳化，加快構建優勢互補、高質量發展的區域經濟佈局。要更大力度推動創新協同和產業聯動，全面融入和服務上海（長三角）國際科技創新中心建設，高質量建設沿滬寧產業創新帶，打造南京、環太湖科創圈等高能級科技創新高地，注重分工協作、錯位發展，因地制宜培育壯大縣域特色優勢產業，做強做優做大海洋經濟，加快發展新質生產力。要進一步提升基礎設施互聯互通水平，穩步推進過江通道、城際鐵路等在建專案，縱深推進“水運江蘇”建設，推進新型基礎設施佈局建設和集約高效利用。要加強生態環境共保聯治，深入打好藍天、碧水、淨土保衛戰，強化區域治理協同，厚植高質量發展的生態底色。要紮實推進共同富裕，適應人口結構變化和流動趨勢，最佳化就業、教育、醫療、養老、托育等公共資源配置，統籌推進以縣城為重要載體的城鎮化建設和鄉村全面振興，深入實施常態化精準幫扶，不斷縮小城鄉差別、促進城鄉融合。（微訊江蘇）
+
+---
+
+### 2026-06-22 20:55:34  #公司
+
+【英特爾CEO陳立武：已投資人造金剛石晶圓公司，看好晶片散熱應用前景】英特爾執行長陳立武近日表示，公司已投資一家金剛石晶圓企業，並將合成金剛石視為具有優異導熱效能的新材料之一。陳立武稱，隨著先進製程持續逼近物理極限，英特爾正加大對玻璃基板、合成金剛石、氮化鎵等新材料的佈局，希望透過先進封裝和材料創新推動晶片技術進一步發展。
+
+---
+
+### 2026-06-22 20:55:26  #國際
+
+【伊朗司法部門：美以伊戰事中喪生者達3519人】伊朗法爾斯通訊社22日援引伊朗司法機關發言人的話報道說，根據伊朗法醫組織最新統計資料，伊朗共有3519人在近期的美以伊戰事中喪生。該發言人說，死者中男性3002人、女性517人。發言人未進一步公佈死者身份構成、地區分佈及傷亡原因等更詳細的資訊。（新華社）
 
 ---
 
@@ -21095,263 +21239,5 @@ Local governor said Russian forces used glide bombs to strike Zaporizhzhia in so
 ### 2026-06-20 22:49:33  #國際
 
 伊朗表示，代表團正前往瑞士，以確保美國履行協議下的承諾。
-
----
-
-### 2026-06-20 22:48:40  #公司
-
-【山西五寨縣土方滑落致2人死亡】據山西省五寨縣有關部門訊息，6月20日17時左右，國網山西省電力有限公司超高壓變電公司4名施工人員在五寨縣三岔鎮塔子會村路段附近進行施工作業過程中被土方掩埋。當地應急、醫衛等部門展開全力救援，目前4人均被救出，2人經搶救無效死亡，剩餘2人正在救治中。（新華社）
-
----
-
-### 2026-06-20 22:48:28  #MKT News
-
-Saudi outlet Al Hadath reports an Iranian delegation has traveled to Switzerland; members include Iran's central bank governor and the deputy oil minister.
-
----
-
-### 2026-06-20 22:48:11  #國際
-
-美國特使維特科夫和庫什納抵達瑞士，準備與伊朗舉行會談，談判定於週日舉行。
-
----
-
-### 2026-06-20 22:47:57  #MKT News
-
-【Iran negotiators depart for Switzerland for MoU talks with US】Iran said on June 20 its negotiating delegation has departed for Switzerland to discuss a memorandum of understanding with the United States. Pakistan’s foreign ministry said technical-level talks will take place in Switzerland on June 21, 2026, with Pakistan and Qatar serving as mediators.
-
----
-
-### 2026-06-20 22:46:52  #市場 #焦點
-
-比特幣升破64000美元，日內漲0.81%。
-
----
-
-### 2026-06-20 22:44:56  #國際
-
-伊朗議會議長卡利巴夫與外長阿拉格齊前往瑞士參加會談。
-
----
-
-### 2026-06-20 22:44:05  #MKT News #Important #S&P500 #Impact bullish #WTI #Impact bearish #DXY
-
-Israeli media report Prime Minister Netanyahu has ordered a ceasefire in Lebanon.
-
----
-
-### 2026-06-20 22:42:33  #國際
-
-【美國中央司令部：霍爾木茲海峽商船通行量有所上升】美國中央司令部表示，6月20日霍爾木茲海峽商船通行量有所上升，美軍持續在該區域開展行動，維護航行自由。美軍中央司令部稱，這條國際航道的安全通行狀態未受影響，當日共有55艘商船駛過海峽，向全球市場運送大量貨物以及逾1700萬桶原油。這份宣告釋出於伊朗宣佈封鎖這一戰略航道之後。美軍中央司令部同時援引聯合海上資訊中心的通告證實，船舶沿指定航線通行可獲得安全保障，“不會遭遇無端索取要求或通行阻礙”。宣告指出：“美軍持續部署於此、保持高度戒備，確保與伊朗達成協議的各項條款得到全面遵守、執行並持續生效。”
-
----
-
-### 2026-06-20 22:40:33  #國際
-
-【印度超200萬名考生成績被取消】印度5月初舉行的醫學院入學考試中發生大規模洩題事件，導致超過200萬名考生成績被取消。當地時間6月21日，這些印度考生將重新走進考場，參加醫學院入學考試。印度政府部門表示將採取措施確保重考“公正、透明”。據路透社報道，印度相關部門已於20日完成了最後的安保部署，並將首次動用空軍運送試卷，以確保考試公平，相關措施還包括加強考場監控、更嚴格管控試卷轉運流程以及啟用數字追蹤系統等。（央視財經）
-
----
-
-### 2026-06-20 22:40:14  #MKT News #Commodities #Energy #WTI #Impact bearish #Brent
-
-【CENTCOM: Commercial vessels transited Strait of Hormuz normally on June 20】CENTCOM said commercial traffic through the Strait of Hormuz rose on June 20 and the waterway remained open, with 55 commercial vessels transiting and carrying more than 17 million barrels of oil to global markets. US forces are operating in the area to support freedom of navigation. The Joint Maritime Information Center this week issued a notice confirming all ships can safely transit the designated route, which is not subject to arbitrary fees or other impediments. CENTCOM said US forces will remain present and vigilant to ensure an agreement with Iran is fully observed and enforced.
-
----
-
-### 2026-06-20 22:39:54  #其他
-
-【全國游泳冠軍賽：王長浩打破男子50米蝶泳全國紀錄】王長浩20日在2026年全國游泳冠軍賽男子50米蝶泳決賽中以23秒21獲得冠軍，並重新整理自己在2023年創造的全國紀錄，19日重新整理男子100米蝶泳全國紀錄的徐放以23秒42獲得第二名。（新華社）
-
----
-
-### 2026-06-20 22:39:18  #市場 #國際
-
-【俄遠東舉行“中國日”活動 圖片展聚焦中國式現代化】“中國日2026”活動暨中國式現代化成就圖片展20日在俄羅斯遠東城市符拉迪沃斯託克舉行，數萬名民眾參加活動並觀展。此次活動透過圖片展覽、科技產品展示、文化體驗互動、美食品鑑、文藝表演等形式，向俄遠東地區民眾多角度、多層面展示中華優秀傳統文化和中國式現代化發展成就。（新華社）
-
----
-
-### 2026-06-20 22:31:33  #國際
-
-美國中央司令部：今日航道安全通行狀態保持正常。
-
----
-
-### 2026-06-20 22:31:10  #MKT News
-
-U.S. military says it will remain present and vigilant to ensure all aspects of the agreement with Iran are complied with, implemented and fully effective.
-
----
-
-### 2026-06-20 22:30:37  #國際
-
-美國軍方：美軍將持續駐守並保持警惕，以確保與伊朗達成的協議的所有條款得到遵守、履行，並全面生效。
-
----
-
-### 2026-06-20 22:30:29  #MKT News #Commodities #Energy
-
-The U.S. military said today more than 17.0 mln barrels of oil transited the Strait of Hormuz.
-
----
-
-### 2026-06-20 22:30:23  #國際
-
-美國中央司令部：今日有55艘商船，超過1700萬桶石油透過霍爾木茲海峽。
-
----
-
-### 2026-06-20 22:29:41  #MKT News #Important
-
-The U.S. military said commercial traffic through the Strait of Hormuz increased on June 20, with 55 commercial vessels transiting the waterway. U.S. forces continue operations in the area to support freedom of navigation.
-
----
-
-### 2026-06-20 22:29:36  #國際
-
-美國軍方：今日有55艘商船透過霍爾木茲海峽。
-
----
-
-### 2026-06-20 22:29:30  #其他
-
-美軍：6月20日霍爾木茲海峽商船通航量有所增加，目前美軍持續在該區域開展行動，以維護航行自由。
-
----
-
-### 2026-06-20 22:29:05  #國際
-
-【伊朗談判代表已啟程前往瑞士】據伊朗媒體20日報道，伊朗談判代表已啟程前往瑞士，就諒解備忘錄與美方進行討論。（新華社）
-
----
-
-### 2026-06-20 22:25:01  #國際
-
-巴基斯坦外交部：巴基斯坦將繼續以調解方身份為相關程序提供便利。
-
----
-
-### 2026-06-20 22:22:29  #國際
-
-巴基斯坦外交部：美國和伊朗的代表以及來自巴基斯坦和卡達的調解員將參加會談。
-
----
-
-### 2026-06-20 22:20:17  #國際
-
-烏克蘭總統澤連斯基：今天，我將波蘭最高榮譽“白鷹勳章”退還給波蘭總統。
-
----
-
-### 2026-06-20 22:18:39  #MKT News
-
-Saudi outlet Hadas reports Iran's negotiating team, led by Foreign Minister Abbas Araqchi, has traveled to Switzerland.
-
----
-
-### 2026-06-20 22:18:08  #MKT News
-
-【Pakistan says US-Iran technical-level talks to be held in Switzerland on June 21】On June 20, Pakistan's foreign ministry said that, under follow-up arrangements to the US-Iran memorandum of understanding, technical-level talks will be held in Switzerland on June 21. Pakistan and Qatar will participate as mediators.
-
----
-
-### 2026-06-20 22:16:09  #國際
-
-巴基斯坦外交部20日發表宣告說，巴方代表將以調解人身份參與擬於21日在瑞士舉行的伊美技術層面談判。（新華社）
-
----
-
-### 2026-06-20 22:13:56  #MKT News #Important #WTI #Impact bearish #Brent #XAUUSD
-
-【U.S. military says it has not observed Iran moving to close the Strait of Hormuz】U.S. media cited senior U.S. officials on the 20th saying the U.S. military has not observed Iranian military activity to close the Strait of Hormuz.
-
----
-
-### 2026-06-20 22:13:17  #國際
-
-【美軍稱暫未觀察到伊朗關閉霍爾木茲海峽】據美國媒體20日援引美國高階官員的話報道稱，美軍暫未觀察到伊朗關閉霍爾木茲海峽的軍事動向。（新華社）
-
----
-
-### 2026-06-20 22:12:32  #MKT News
-
-Pakistan says US-Iran technical talks will begin tomorrow (Sunday) in Switzerland, Saudi outlet Hadas reports.
-
----
-
-### 2026-06-20 22:10:10  #國際
-
-【義大利總理梅洛尼回應特朗普攻擊】梅洛尼發帖：特朗普總統，這些持續不斷的、無端攻擊毫無意義。至於我的受歡迎程度，做您的朋友當然沒有幫助它，也不取決於我與您的關係。 我的受歡迎程度取決於我捍衛義大利國家利益的能力，而這正是我一直以來所做的。這也是我在義大利的美國軍事基地問題上的做法。它們的用途受我們一直遵守的協議管轄，只要我還是總理，就不能違反這些協議。 義大利仍然是一個主權國家。無論如何，我的受歡迎程度與您無關。我建議您專注於您自己的受歡迎程度。
-
----
-
-### 2026-06-20 22:09:31  #其他
-
-萬斯可能於今天或明天前往瑞士。（Axios）
-
----
-
-### 2026-06-20 22:06:10  #國際
-
-【伊朗要求船隻勿靠近霍爾木茲海峽】伊朗伊斯蘭革命衛隊海軍今天（6月20日）表示，鑑於以色列在黎巴嫩的罪行，以及美國在停火問題上未履行其承諾，霍爾木茲海峽已對所有船隻關閉。再次強調：霍爾木茲海峽已關閉，請各類船隻不要接近該海峽，否則其安全將無法得到保障。（CCTV國際時訊）
-
----
-
-### 2026-06-20 22:05:06  #國際
-
-巴基斯坦方面稱，伊朗與美國將於6月21日舉行會談。
-
----
-
-### 2026-06-20 22:04:27  #國際
-
-美國國防部高階官員稱，美軍目前尚未觀測到伊朗在地面採取任何可能表明霍爾木茲海峽即將被封鎖的軍事行動。
-
----
-
-### 2026-06-20 22:02:16  #國際
-
-伊朗談判代表團：我們將前往日內瓦“親自簽署諒解備忘錄”。
-
----
-
-### 2026-06-20 22:01:25  #MKT News #Commodities #Energy #WTI #Impact bullish #Brent
-
-IRGC navy says Israel's operations in Lebanon and US breaches of ceasefire commitments are the reasons for closing the Strait of Hormuz.
-
----
-
-### 2026-06-20 22:01:08  #MKT News #WTI #Impact bullish #Brent #XAUUSD
-
-Iran's Islamic Revolutionary Guard Corps warned vessels not to approach the Strait of Hormuz, saying their safety would be at risk.
-
----
-
-### 2026-06-20 22:01:04  #國際
-
-伊朗伊斯蘭革命衛隊海軍宣告：以色列在黎巴嫩的行動以及美國違反停火承諾，導致霍爾木茲海峽關閉。
-
----
-
-### 2026-06-20 22:00:09  #國際
-
-伊朗伊斯蘭革命衛隊警告船隻不要靠近霍爾木茲海峽，稱否則其安全將受到威脅。
-
----
-
-### 2026-06-20 21:59:47  #MKT News #Important #Commodities #Energy #WTI #Impact bullish #Brent
-
-Iran's Islamic Revolutionary Guard Corps (IRGC) said the Strait of Hormuz is closed to all vessels.
-
----
-
-### 2026-06-20 21:59:40  #國際
-
-伊朗革命衛隊稱，霍爾木茲海峽對所有船隻關閉。
-
----
-
-### 2026-06-20 21:57:25  #MKT News
-
-Iran's Fars News quoted an Iranian naval source saying the Strait of Hormuz was fully closed a few minutes ago.
 
 ---
