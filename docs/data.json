@@ -1,7 +1,24 @@
 {
-  "updated": "2026-06-27 19:55:09",
-  "count": 18207,
+  "updated": "2026-06-27 19:59:05",
+  "count": 18202,
   "items": [
+    {
+      "id": "4958395",
+      "time": "2026-06-27 19:56:00",
+      "tags": [
+        "公司",
+        "其他"
+      ],
+      "text": "【九方智投AI股票機與宇樹、智元機器人同臺亮相 2026AI智慧體驗嘉年華】6月27日，由新華網與陸家嘴中心聯合主辦的2026AI智慧體驗嘉年華在上海陸家嘴中心L+MALL啟幕。展區覆蓋三、五兩層，九方智投AI股票機以首家線下快閃店形式亮相五層，與宇樹科技U2、智元靈犀X2、遠征A2、松延動力等機器人品牌同臺展示。本次嘉年華是響應國家\"打造智慧經濟新形態\"戰略、落實上海\"人工智慧高地\"建設的落地實踐，既是一場前沿科技的集中展示，更是一次面向公眾的AI科普體驗。九方智投AI股票機快閃店設產品體驗、電商直播、使用者互動三大板塊，現場配扭蛋機抽獎，活動橫跨整個暑期，觀眾均可到場親身體驗\"新一代股票投資助手\"。"
+    },
+    {
+      "id": "4958393",
+      "time": "2026-06-27 19:54:32",
+      "tags": [
+        "其他"
+      ],
+      "text": "【翔宇醫療多角度頸腰椎牽引治療機獲國家醫療器械註冊證】據翔宇醫療訊息，翔宇醫療多角度頸腰椎牽引治療機獲國家醫療器械註冊證。"
+    },
     {
       "id": "4958392",
       "time": "2026-06-27 19:52:04",
@@ -166508,68 +166525,6 @@
         "MKT News"
       ],
       "text": "IAEA: Repairs to the ZAPORIZHZHIA NUCLEAR PLANT's main 750 kV Dniprovska transmission line are under way during a localized ceasefire brokered by the agency and monitored by its teams on both banks of the Dnipro River."
-    },
-    {
-      "id": "mkt:019ee4e6-0eac-7dd8-b09e-e4a74e1d7ae5",
-      "time": "2026-06-20 19:59:02",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Trump says Iran has been 'beaten'; calls Democrats 'a bunch of idiots'】U.S. President Trump said Democrats \"always\" claim Iran is stronger than three months ago, but \"they have been beaten\" and \"their navy and air force are gone.\" He also dismissed Democrats as \"a bunch of idiots,\" calling them \"the stupid party.\""
-    },
-    {
-      "id": "4945801",
-      "time": "2026-06-20 19:58:23",
-      "tags": [
-        "其他"
-      ],
-      "text": "國際原子能機構（IAEA）：扎波羅熱核電站主輸電線路——750千伏第聶伯羅線的維修工作正在推進，維修在國際原子能機構斡旋達成的區域性停火協議下開展，駐第聶伯河兩岸的機構團隊也對維修過程進行監督。"
-    },
-    {
-      "id": "mkt:019ee4e5-109d-7dd8-b09e-db6fb3e5022a",
-      "time": "2026-06-20 19:57:57",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "IAEA said its team learned an on-site internal power-line problem had most recently disconnected the Zaporizhzhia nuclear plant's only available external power line."
-    },
-    {
-      "id": "4945800",
-      "time": "2026-06-20 19:56:51",
-      "tags": [
-        "其他"
-      ],
-      "text": "國際原子能機構：該機構團隊已獲悉，扎波羅熱核電站廠區內部輸電線故障導致該核電站僅剩可用的一條場外輸電線再次斷開連線。"
-    },
-    {
-      "id": "mkt:019ee4e3-d78d-7dd8-b09e-d5a8f3eed174",
-      "time": "2026-06-20 19:56:37",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "IAEA said its team at the Zaporizhzhia nuclear plant reported emergency diesel generators have started operating, supplying backup power for reactor core cooling and other essential nuclear safety functions."
-    },
-    {
-      "id": "mkt:019ee4e3-c6a5-7dd8-b09e-caac59d2893f",
-      "time": "2026-06-20 19:56:33",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "XAUUSD",
-        "Impact bullish",
-        "Brent",
-        "DXY"
-      ],
-      "text": "IAEA says Zaporizhzhia nuclear plant lost off-site power for the 20th time today amid military conflict."
-    },
-    {
-      "id": "4945799",
-      "time": "2026-06-20 19:55:54",
-      "tags": [
-        "其他"
-      ],
-      "text": "國際原子能機構（IAEA）：派駐紮波羅熱核電站（ZNPP）的國際原子能機構小組報告稱，核電站應急柴油發電機已啟動執行，為堆芯冷卻及其他必要核安全功能提供備用電力。"
     }
   ]
 }
