@@ -1,7 +1,229 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-06-27 17:32:03_
-_本檔包含 3556 則快訊，約 672125 字_
+_更新時間：2026-06-27 18:26:19_
+_本檔包含 3578 則快訊，約 672697 字_
+
+---
+
+### 2026-06-22 20:17:59  #MKT News #Commodities #Energy #WTI #Impact bullish #Brent
+
+White House National Economic Council director HASSETT said some very large oil tankers are transiting the Strait of Hormuz.
+
+---
+
+### 2026-06-22 20:17:52  #MKT News
+
+SpaceX (SPCX.O) held $100.8 bln in cash and cash equivalents as of June 19.
+
+---
+
+### 2026-06-22 20:17:44  #其他
+
+船舶追蹤資料顯示：兩艘小型原油運輸輪滿載合計不到200萬桶原油，已透過霍爾木茲海峽駛入阿曼灣。
+
+---
+
+### 2026-06-22 20:17:40  #其他
+
+船舶追蹤資料顯示：兩艘超級油輪已透過霍爾木茲海峽進入海灣，將裝載400萬桶原油，其中一艘正駛往伊拉克巴士拉港。
+
+---
+
+### 2026-06-22 20:17:37  #其他
+
+英國國防採購國務大臣波拉德：我將支援安迪·伯納姆擔任首相。
+
+---
+
+### 2026-06-22 20:17:33  #MKT News #Star Stocks #Microsoft #Market Themes #Magnificent 7 #MSFT.O #Impact bullish
+
+Microsoft (MSFT.O): new data center campus to create more than 6,000 construction jobs.
+
+---
+
+### 2026-06-22 20:17:29  #其他
+
+維珍銀河達成協議，置換約5250萬美元2027年期債券。
+
+---
+
+### 2026-06-22 20:17:13  #MKT News #Star Stocks #Microsoft #Market Themes #Magnificent 7 #MSFT.O #Impact bullish
+
+Microsoft (MSFT.O) said investment in its Pecos data center will total several billion dollars over 5–7 years.
+
+---
+
+### 2026-06-22 20:16:48  #公司
+
+【羅博特科：擬發行不超過3401.45萬股境外上市普通股並在香港聯合交易所上市】羅博特科公告，公司於近日收到中國證監會出具的《關於羅博特科智慧科技股份有限公司境外發行上市備案通知書》。備案通知書主要內容如下：一、你公司擬發行不超過3401.45萬股境外上市普通股並在香港聯合交易所上市。
+
+---
+
+### 2026-06-22 20:16:48  #MKT News
+
+UK Minister of State for Defence Procurement Pollard said he will back Andy Burnham to be prime minister.
+
+---
+
+### 2026-06-22 20:16:41  #國際
+
+美國白宮國家經濟委員會主任哈塞特：一些大型油輪正透過霍爾木茲海峽。
+
+---
+
+### 2026-06-22 20:16:29  #其他
+
+穆迪：預計2026年之後仍有大額資金需求，以支援SpaceX的資本計劃。
+
+---
+
+### 2026-06-22 20:16:22  #其他
+
+截至6月19日，SpaceX持有 1008 億美元現金及現金等價物。
+
+---
+
+### 2026-06-22 20:16:01  #MKT News #Important #Star Stocks #Microsoft #Market Themes #Magnificent 7
+
+Microsoft (MSFT.O) will build a new data center campus in Pecos, Texas.
+
+---
+
+### 2026-06-22 20:15:29  #公司
+
+【華致酒行：子公司補繳稅款及滯納金合計1.27億元】華致酒行(300755.SZ)公告稱，公司全資子公司華致精品及西藏中糖經自查需補繳稅款及滯納金合計1.27億元，其中稅款7847.28萬元，滯納金4861.74萬元。截至公告日，上述款項已全部繳納完畢，不涉及行政處罰。本次補繳將計入2026年當期損益，不影響公司正常經營。
+
+---
+
+### 2026-06-22 20:15:19  #MKT News #Macro & Rates #US Economy #DXY #Impact bullish #US10Y #S&P500 #Impact mixed
+
+White House National Economic Council director Hassett said lowering the debt-to-GDP ratio is our top priority.
+
+---
+
+### 2026-06-22 20:15:09  #其他
+
+微軟：在啟動時，佩科斯資料中心園區將配套運營一座天然氣發電設施。
+
+---
+
+### 2026-06-22 20:15:01  #MKT News #Market Themes #AI Revolution #Nasdaq100 #Impact bullish
+
+U.S. White House National Economic Council Director HASSETT said profit opportunities exist across the artificial intelligence sector.
+
+---
+
+### 2026-06-22 20:14:47  #國際
+
+美國白宮國家經濟委員會主任哈塞特：降低債務佔GDP比重是當務之急。
+
+---
+
+### 2026-06-22 20:14:36  #其他
+
+微軟：新資料中心園區將支援超6,000個建築崗位。
+
+---
+
+### 2026-06-22 20:14:29  #公司
+
+【新宏澤：控股股東擬減持不超3%公司股份】新宏澤公告稱，控股股東億澤控股持有公司60.78%股份，計劃自2026年7月15日至10月14日，以集中競價和大宗交易方式減持不超676.19萬股，不超總股本（剔除回購專用賬戶所持股份）的3%，其中集中競價不超225.40萬股，大宗交易不超450.80萬股。減持原因為自身資金需求，本次減持不會導致公司控制權變更，也不會對公司產生重大影響。
+
+---
+
+### 2026-06-22 20:14:22  #MKT News
+
+Hassett, director of the White House National Economic Council, said AI companies are earning outsized profits.
+
+---
+
+### 2026-06-22 20:14:15  #市場
+
+線上影片遊戲平臺Roblox股價盤前跌幅擴大，觸及日內低點，下跌4.4%。
+
+---
+
+### 2026-06-22 20:14:09  #其他
+
+微軟：未來5至7年對佩科斯資料中心的投資將達數十億美元。
+
+---
+
+### 2026-06-22 20:13:57  #其他 #焦點
+
+SpaceX啟動首次高評級美元債發行。
+
+---
+
+### 2026-06-22 20:13:39  #MKT News
+
+SpaceX (SPCX.O) launches first investment-grade USD bond offering.
+
+---
+
+### 2026-06-22 20:13:20  #國際
+
+微軟：我們將在美國得克薩斯州貝可斯市新建一個資料中心園區。
+
+---
+
+### 2026-06-22 20:13:14  #國際
+
+美國白宮國家經濟委員會主任哈塞特：人工智慧領域處處都有利潤。
+
+---
+
+### 2026-06-22 20:12:53  #公司 #國際
+
+美國白宮國家經濟委員會主任哈塞特：人工智慧公司正在印鈔票。
+
+---
+
+### 2026-06-22 20:12:46  #MKT News #WTI #Impact bearish #Brent
+
+【Iran central bank governor: 'significant progress' on unfreezing Iranian assets】Iran central bank governor Hemmati said frozen Iranian assets made "significant progress" toward release in recent talks and that relevant documents were signed during the round. He described frozen central bank assets as among the most complex issues in the negotiations. Under the arrangements, funds will be phased into use over the coming days subject to agreed conditions and procedures set by the Central Bank of Iran. On oil and petrochemicals, Hemmati said the sanctions-waiver mechanism under the Iran-US memorandum of understanding should already be activated and that the US Treasury’s Office of Foreign Assets Control has been agreed to implement the arrangements.
+
+---
+
+### 2026-06-22 20:11:21  #央行 #宏觀 #國際
+
+【伊朗央行行長：伊朗資產解凍有“顯著進展”】據伊朗塔斯尼姆通訊社22日報道，伊朗中央銀行行長赫馬提表示，在近期談判中，被凍結伊朗資產解凍問題取得“顯著進展”，相關檔案已在本輪談判期間簽署。赫馬提說，伊朗央行被凍結資產問題是當前談判中最複雜的議題之一。根據有關安排，未來數日內，相關資金將依據既定條件並按照伊朗中央銀行制定的程式逐步投入使用。在談及石油和石化產品出口問題時，赫馬提表示，根據伊朗與美國達成的諒解備忘錄，涉及伊朗能源出口的制裁豁免機制應已啟動。目前已商定由美國財政部外國資產控制辦公室負責落實相關安排。(新華社)
+
+---
+
+### 2026-06-22 20:11:02  #公司 #國際
+
+【愛旭股份與菲律賓Tigon Power正式簽約173MW大型地面光伏專案】近日，愛旭與菲律賓知名能源開發運營商Tigon Power正式舉行簽約儀式，雙方宣佈就菲律賓邦板牙省的SAPANG 173MW大型地面光伏電站專案達成元件供應協議。根據協議內容，愛旭將為該專案全量提供高效ABC元件。該專案計劃於2028年第三季度正式併網，併網後年發電量預計將達到2.67億度，全生命週期發電收益達1.69億元。
+
+---
+
+### 2026-06-22 20:10:45  #MKT News
+
+White House National Economic Council Director Hassett said Alan Greenspan is an outstanding thinker.
+
+---
+
+### 2026-06-22 20:10:37  #國際
+
+據美國證交會檔案，SpaceX將向合格機構投資者和非美國人士提供票據。
+
+---
+
+### 2026-06-22 20:10:28  #MKT News
+
+Hassett, director of the White House National Economic Council, offered condolences to Alan Greenspan’s family.
+
+---
+
+### 2026-06-22 20:10:27  #公司
+
+【華設設計：2025年度差異化權益分派方案獲股東會審議透過】華設設計公告稱，公司2025年度權益分配實施差異化權益分派，因回購股份不參與利潤分配及資本公積金轉增股本。2025年度歸屬於母公司股東的淨利潤2.74億元，期末可供分配利潤38.13億元。公司擬向全體股東每10股派發現金紅利1.25元（含稅），合計擬派發現金紅利8459.46萬元；以資本公積金向全體股東每10股轉增2股，合計擬轉增1.35億股。轉增後，公司總股本為8.19億股。該方案經2026年5月29日召開的2025年度股東會審議透過。
+
+---
+
+### 2026-06-22 20:10:10  #MKT News #SPCX.O
+
+According to a U.S. SEC filing, SpaceX (SPCX.O) will offer notes to qualified institutional buyers and non-U.S. persons.
 
 ---
 
@@ -21350,95 +21572,5 @@ HEZBOLLAH said it targeted Israeli forces that advanced last night toward areas 
 ### 2026-06-20 18:35:38  #宏觀
 
 預告：國務院新聞辦公室將於2026年6月22日（星期一）下午3時舉行新聞釋出會,請商務部副部長兼國際貿易談判副代表凌激和國家發展改革委、財政部有關負責人介紹利用外資固穩促優有關政策措施，並答記者問。
-
----
-
-### 2026-06-20 18:25:00  #MKT News
-
-【Israeli airstrikes in southern Lebanon's Nebetiyeh, Jezzine kill at least 16】Lebanese Civil Defense said on June 20 that Israeli Defense Forces carried out sustained airstrikes in southern Lebanon’s Nebetiyeh and Jezzine areas, with strikes concentrated in Nebetiyeh and its surroundings. At least 16 people were killed; rescue teams remain searching rubble for survivors.
-
----
-
-### 2026-06-20 18:23:50  #國際
-
-【以軍在黎南部地區持續空襲 造成至少16人死亡】黎巴嫩民防部門20日宣佈，當天以色列國防軍在黎巴嫩南部奈拜提耶和傑津地區持續空襲，空襲主要集中在奈拜提耶及其周邊地區，造成至少16人死亡，救援隊仍在廢墟中搜尋倖存者。
-
----
-
-### 2026-06-20 18:18:07  #其他
-
-【廣西新增一個自治區級高新區】廣西壯族自治區人民政府釋出關於同意設立廣西荔浦高新技術產業開發區的批覆，同意設立自治區級廣西荔浦高新技術產業開發區。桂林市要切實履行管理責任，貫徹落實《廣西壯族自治區高新技術產業開發區條例》有關規定，加大對廣西荔浦高新技術產業開發區的指導和支援力度，積極探索與現行體制協調、聯動的高效管理方式。要堅持創新驅動發展戰略，統籌實施好高新區建設與發展規劃，大力發展高新技術產業，積極培育戰略性新興產業，因地制宜發展新質生產力，加快建設創新創業平臺，營造高層次科技人才聚集的政策環境，推動協同創新和科技成果轉化應用，為加快推動高水平創新型廣西建設作出更大貢獻。
-
----
-
-### 2026-06-20 18:14:23  #MKT News #Market Regions #Greater China
-
-【2026 Dragon Boat Festival film slate tops 200 mln yuan in box office】According to Dengta Pro, total box office for new releases in the 2026 Dragon Boat Festival window, including early screenings and presales, surpassed 200 mln yuan. Toy Story 5, I See Two Identical Clouds and Catch the Spy are currently the top three.
-
----
-
-### 2026-06-20 18:09:10  #觀點
-
-高盛將華潤微股票評級從賣出上調至中性，目標價77.02元人民幣。
-
----
-
-### 2026-06-20 18:06:25  #其他
-
-【2026端午檔新片票房破2億】據燈塔專業版，2026年端午檔新片總票房（含點映及預售）突破2億，《玩具總動員5》《我看見兩朵一樣的雲》《抓特務》暫列前三。
-
----
-
-### 2026-06-20 18:00:49  #其他
-
-希臘克里特島西南發生5.8級地震，暫無損失報告。
-
----
-
-### 2026-06-20 17:55:58  #其他
-
-據德國媒體20日援引當地警方訊息報道，慕尼黑一座橋樑上當天凌晨發生兩列貨運火車相撞事故，導致1人死亡、1人重傷。（新華社）
-
----
-
-### 2026-06-20 17:52:22  #MKT News #Market Themes #Chip Wars #MU.O #Impact bullish
-
-【PC memory and SSD shortages push costs higher; some laptop models up >20% since start of year】Multiple popular PC categories have seen price rises. Gaming laptops and several high-performance thin-and-light and creator models have increased, with some models more than 20% higher versus the start of the year despite June brand promotions. Dealers report retail increases of several hundred to several thousand yuan; brands are shifting focus from chasing volume to protecting margins. Manufacturers say core-component cost inflation is driving the moves and that further price increases remain possible. A PC company executive said the main cause is a sharp rise in storage-chip prices as AI development is consuming large amounts of storage capacity, tightening supply of memory and SSDs and pushing costs up; broader electronic-component price increases add extra cost, leaving firms unable to fully absorb the rise and forcing modest product price adjustments.
-
----
-
-### 2026-06-20 17:50:53  #其他
-
-【哈薩克阿克託別一加氣站發生火災致3死1傷】據哈通社20日訊息，哈薩克西部城市阿克託別一座加氣站19日晚發生火災，事故造成3人死亡、1人受傷。遇難者中包括2名未成年人。（中新網）
-
----
-
-### 2026-06-20 17:41:20  #MKT News #Important #WTI #Impact bullish #XAUUSD #DXY
-
-Al Arabiya cited sources saying Lebanon is the main sticking point in ongoing negotiations. The Iranian delegation warned it would withdraw from the talks if Israel continued strikes in Lebanon.
-
----
-
-### 2026-06-20 17:37:33  #公司 #國際
-
-【日本近29萬份泡麵疑似混入異物被召回】據日本媒體報道，日本日清食品公司6月19日宣佈，因生產的部分杯裝泡麵中混入異物，公司決定在全日本範圍召回已出貨的近29萬份產品。該公司調查發現，這款泡麵中所含異物為約10毫米大小的藍色合成樹脂片，混入原因尚不清楚。日清公司說，這款產品由合作廠商“東日本明星株式會社埼玉工廠”今年3月10日生產，保質期至9月10日。生產當天，這家工廠用於投入粉狀調料的裝置因發生故障更換過零部件。由於擔憂同一批次其他產品也混入異物，日清公司決定召回共計28.7萬份“日清杯裝醬汁炒麵”。目前尚未發現有消費者因食用這款產品出現健康問題。（央視財經）
-
----
-
-### 2026-06-20 17:37:00  #其他
-
-德國慕尼黑髮生貨運列車相撞事故，造成一人死亡。
-
----
-
-### 2026-06-20 17:36:23  #國際
-
-巴基斯坦內政部長納克維抵達伊朗馬什哈德。 他將前往伊瑪目禮薩聖陵參訪，並舉行一系列政治會談，然後將前往德黑蘭。
-
----
-
-### 2026-06-20 17:35:03  #MKT News #Commodities #Industrial Metals
-
-【Russia to impose 8% export tax on some diamonds】Russia will impose an 8% export tax on certain diamonds from Sept. 1, local time, aimed at protecting its domestic diamond-cutting and processing industry. The tax covers uncut and partially processed diamonds weighing 0.45–10.8 carats and special-size diamonds above 10.8 carats; exports to Eurasian Economic Union members are exempt.
 
 ---

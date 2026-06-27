@@ -1,7 +1,139 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-06-27 17:32:03_
-_本檔包含 3865 則快訊，約 672177 字_
+_更新時間：2026-06-27 18:26:19_
+_本檔包含 3852 則快訊，約 672594 字_
+
+---
+
+### 2026-06-26 04:53:30  #國際
+
+白宮副幕僚長米勒：美國預計將驅逐所有喪失臨時保護身份（TPS）的人員。
+
+---
+
+### 2026-06-26 04:53:06  #MKT News #WTI #Impact bullish #Brent
+
+【International oil prices rose on the 25th】By the close, NYMEX light sweet crude for August delivery rose $1.58 to settle at $71.92/bbl, up 2.25%. London Brent for August delivery rose $1.52 to settle at $75.26/bbl, up 2.06%.
+
+---
+
+### 2026-06-26 04:52:59  #MKT News #DXY #Impact bearish #EURUSD #Impact bullish #USDJPY
+
+【Dollar index down 0.18% to 101.430 at New York close on the 25th】The dollar index (DXY) fell 0.18% to 101.430 at the New York close on the 25th. EUR/USD rose to 1.1373 from 1.1355; GBP/USD rose to 1.3198 from 1.3162. USD/JPY was 161.80 versus 161.76; USD/CHF fell to 0.8098 from 0.8124; USD/CAD fell to 1.4197 from 1.4237; USD/SEK fell to 9.7352 from 9.7714.
+
+---
+
+### 2026-06-26 04:51:43  #市場
+
+【國際油價25日上漲】截至當天收盤，紐約商品交易所8月交貨的輕質原油期貨價格上漲1.58美元，收於每桶71.92美元，漲幅為2.25%；8月交貨的倫敦布倫特原油期貨價格上漲1.52美元，收於每桶75.26美元，漲幅為2.06%。
+
+---
+
+### 2026-06-26 04:50:18  #市場
+
+【美元指數25日下跌】衡量美元對六種主要貨幣的美元指數當天下跌0.18%，在匯市尾市收於101.430。截至紐約匯市尾市，1歐元兌換1.1373美元，高於前一交易日的1.1355美元；1英鎊兌換1.3198美元，高於前一交易日的1.3162美元。1美元兌換161.80日元，高於前一交易日的161.76日元；1美元兌換0.8098瑞士法郎，低於前一交易日的0.8124瑞士法郎；1美元兌換1.4197加元，低於前一交易日的1.4237加元；1美元兌換9.7352瑞典克朗，低於前一交易日的9.7714瑞典克朗。
+
+---
+
+### 2026-06-26 04:48:12  #MKT News #Market Themes #AI Revolution #Nasdaq100 #Impact bearish #S&P500 #DXY #Impact bullish
+
+【SpaceX slide alarms markets; OpenAI may delay IPO until next year】The New York Times, citing three people involved in internal discussions, reports OpenAI is leaning toward postponing an IPO until next year; the company had targeted as early as Q3–Q4 this year. CEO Sam Altman pushed advisers to aim for a $1 trillion valuation. Recent developments — most notably Musk’s SpaceX post-IPO share slide, which fell to $153 on Thursday from a $202 peak last week — and recent tech-led market volatility forced OpenAI executives to abandon their aggressive timetable. Two people said advisers warned last week that retail investors may not show strong demand for the stock.
+
+---
+
+### 2026-06-26 04:43:50  #公司 #國際
+
+【伊朗：駛離指定航線的船舶將不享有安全保障】伊朗波斯灣海峽管理局26日在社交媒體釋出公告稱，所有透過霍爾木茲海峽的船舶須按照規定的航線和程式通行，擅自駛離指定航線的船舶將不享有安全保障及相關保險保障。公告稱，因擅自駛離指定航線而產生的一切後果，將由船舶所有人、經營人及船長自行承擔。此前，伊朗方面19日釋出通知說，在諒解備忘錄規定的時間範圍內，凡按照要求向波斯灣海峽管理局提交通航申請的船舶，其通航安排將得到迅速辦理。相關要求包括：須在抵達海峽區域48小時以前提交申請；須向該部門網站或郵箱提交申請；須按公告時間提前進行航線和通航時段協調等。（新華社）
+
+---
+
+### 2026-06-26 04:41:56  #公司
+
+【報道：OpenAI 傾向於等到明年再進行IPO】據紐約時報報道：三名參與公司上市籌備討論的知情人士透露，OpenAI 傾向於將首次公開募股推遲至明年。這一轉變凸顯出當下快速崛起的 AI 巨頭前路充滿不確定性。知情人士稱，公司此前聘請投行與律所，計劃最早於今年三、四季度完成上市。內部人士表示，CEO 山姆・奧特曼要求顧問團隊想出方案，讓這家初創企業上市估值達到 1 萬億美元 （其最新一輪私募估值僅 730 億美元）。但近期一系列連鎖事件，讓 OpenAI 管理層不得不擱置激進的上市目標。最核心的顧慮來自埃隆・馬斯克旗下 SpaceX 本月上市後的表現。知情人士表示，過去一週 OpenAI 顧問團隊在溝通中向公司警示：散戶投資者大機率不會對其股票抱有太高熱情。OpenAI 顧問團隊向管理層提供兩條方案：一是等到 2027 年再上市，衝擊萬億估值；二是下調目標估值，加快上市程序。一名與奧特曼就此溝透過的人士透露，奧特曼明確表示，任何下調萬億估值的方案都完全不可接受。
+
+---
+
+### 2026-06-26 04:38:30  #MKT News #JPM.N #Impact bullish
+
+Sources said the JP Morgan (JPM.N) board wants Jamie Dimon to remain CEO for several years and that he would become executive chairman after stepping down.
+
+---
+
+### 2026-06-26 04:37:34  #MKT News
+
+【Lithuanian president nominates Sinkevičius as new prime minister】President Nausėda on the evening of the 25th nominated Social Democratic chairman Mindaugas Sinkevičius as candidate for prime minister. Parliament is scheduled to vote on the new government on the 30th. The Ruginienė government resigned on the 23rd and is serving in a caretaker capacity. Under Lithuanian law the new PM is proposed by the Social Democratic Party, which holds the largest number of seats in parliament.
+
+---
+
+### 2026-06-26 04:37:00  #MKT News #JPM.O
+
+Sources say JP Morgan CEO Dimon is expected to remain CEO for three more years.
+
+---
+
+### 2026-06-26 04:36:12  #Trading Economics #Markets #United States #Stock Market #Importance 2
+
+US Stocks Close Mixed — US equities finished mixed on Thursday, with the S&P 500 flat, the Nasdaq 100 falling 0.5%, and the Dow Jones up 0.1%. Investors reassessed their exposure to mega-cap tech stocks while also weighing robust economic data. While optimism toward semiconductors and AI-related demand remained intact, concerns over the heavy concentration of market gains in a handful of hyperscale and software companies weighed on broader indices. Micron rallied over 15% after stronger-than-expected earnings and a bullish revenue forecast of $50 billion for the August quarter, while Qualcomm rose 10% after doubling its projection for non-handset revenue in the next three years. On the other hand, Nvidia, Oracle, Amazon, Alphabet, and Microsoft saw losses ranging between 1.5% and 3.2%. Apple plunged 6.1%, after lifting prices on MacBook and iPad products, pointing to surging input costs, particularly for chips and other key components.
+
+---
+
+### 2026-06-26 04:35:57  #MKT News
+
+A Colombian carrier said it will resume scheduled flights to Valencia, Venezuela from Thursday afternoon.
+
+---
+
+### 2026-06-26 04:35:46  #其他
+
+巴拿馬航空表示，將持續暫停往返加拉加斯的航班至 7 月 2 日，期間將視運營狀況重新評估。
+
+---
+
+### 2026-06-26 04:35:23  #MKT News #Important #Market Themes #AI Revolution
+
+New York Times reports OpenAI is leaning toward waiting until next year to pursue an IPO.
+
+---
+
+### 2026-06-26 04:35:14  #公司 #觀點
+
+訊息人士：摩根大通董事會希望傑米・戴蒙繼續擔任執行長數年，戴蒙或將繼續擔任執行長三年。戴蒙卸任執行長後，將轉任執行董事長一職。
+
+---
+
+### 2026-06-26 04:35:14  #Trading Economics #Markets #United States #Stock Market #Importance 1
+
+The Dow Jones Index Closes 0.09% Higher — The Dow Jones Index went up by 49 points or 0.09 percent on Thursday to close at 51898 points. The rise was led by Caterpillar (6.09%), Merck (4.03%) and UnitedHealth (2.42%). On the downside, the weakerst performers were Apple (-6.41%), Microsoft (-3.46%) and McDonalds (-3.41%).
+
+---
+
+### 2026-06-26 04:34:10  #其他
+
+房地美：5 月抵押貸款相關投資組合未償還本金總額（UPB）減少約 46 億美元。
+
+---
+
+### 2026-06-26 04:33:43  #國際
+
+美國國防部長皮特·赫格塞思：動員國防部支援委內瑞拉人民。
+
+---
+
+### 2026-06-26 04:33:03  #公司 #其他 #焦點
+
+據紐約時報：OpenAI 傾向推遲至明年再啟動 IPO 上市。
+
+---
+
+### 2026-06-26 04:32:51  #其他
+
+房地美：5 月獨棟住宅抵押貸款逾期率維持 0.59% 不變。 多戶住宅抵押貸款逾期率從 4 月的 0.43% 升至 5 月的 0.47%。
+
+---
+
+### 2026-06-26 04:31:33  #MKT News
+
+【Trump to nominate FCC general counsel Adam Candeub to lead DOJ antitrust division】People familiar with the matter say the White House plans to nominate FCC general counsel Adam Candeub to head the DOJ antitrust division. DOJ staff were notified this week and the nomination is expected to be announced shortly. Candeub met with Trump earlier this week. He served as a senior official in Trump’s first administration and co-authored sections of the Heritage Foundation’s Project 2025 report, which has informed several proposals in Trump’s second-term policy blueprint.
 
 ---
 
@@ -23087,215 +23219,5 @@ Bitcoin Hits 20-month Low — The Bitcoin touched 59140.00 against the BTC, the 
 ### 2026-06-25 01:45:19  #公司 #焦點
 
 伊拉克庫爾德斯坦自治區政府表示，已有多家外國石油公司恢復在該地區的運營。
-
----
-
-### 2026-06-25 01:41:40  #國際
-
-美國南方司令部：協助完成抓捕行動518起，查獲攔截可卡因305.5公噸，阻斷毒品恐怖分子非法收入77億美元。
-
----
-
-### 2026-06-25 01:41:03  #MKT News #Commodities #Energy #WTI #Impact bearish #Brent
-
-【US energy secretary: ~20 mln barrels transited Strait of Hormuz in past 24 hours】US Energy Secretary Wright said roughly 20 million barrels of oil, carried on about 72 vessels, transited the Strait of Hormuz in the past 24 hours. Asked how much oil had passed after a preliminary US‑Iran agreement to end hostilities, Wright repeated the figures and added that Iran would no longer be able to close the strait, calling that its main leverage and saying the US is taking that leverage away.
-
----
-
-### 2026-06-25 01:40:23  #公司 #國際
-
-美國南方司令部：致力於搗毀西半球境內毒品恐怖分子網路。南方跨機構聯合特遣部隊是覆蓋全區域打擊販毒集團、保障西半球安全的關鍵力量。
-
----
-
-### 2026-06-25 01:39:42  #Trading Economics #Markets #Brazil #Currency #Importance 1
-
-BRL Weakens as US-Brazil Rate Gap Narrows — The Brazilian real weakened to around 5.19 per USD in late June, tracking broad dollar strength against nearly all major currencies. The greenback advanced against G10 and emerging market peers after hawkish projections from Federal Open Market Committee members in their latest policy decision led markets to price in more than one rate hike by the US Federal Reserve this year. In Brazil, the dollar also found support in the minutes of the latest Copom meeting, which reinforced expectations that the benchmark Selic rate may fall in the near term, even as policymakers acknowledged that upside risks to inflation still outweigh downside risks. The outlook points to a narrower interest rate differential between Brazil and the US, reducing the appeal of Brazilian carry trades and supporting further gains for the dollar.
-
----
-
-### 2026-06-25 01:39:24  #國際
-
-【白宮告知共和黨：本週末前將提交戰爭撥款申請】特朗普政府官員已向國會共和黨核心議員通報，政府預計將於本週末前提交一份針對伊朗戰事的追加撥款方案。訊息人士表示，這筆撥款申請總額約800億美元。但眾議院共和黨撥款委員會議員認為，參議院大機率會在法案中附加救災、農業補貼等非軍事相關條款。眾議院共和黨領導層擔憂，推進這份追加撥款法案，會打亂他們另一項立法計劃——推動僅靠共和黨票倉透過、包含共和黨優先議程與額外國防資金的預算協調法案。國會長久以來一直在等待特朗普總統提交資金申請，用以覆蓋中東軍事行動成本。但這份法案想要在參議院獲得透過，至少需要跨黨派支援，落地成法律的阻力極大。大量反對這場戰爭的民主黨議員幾乎必然會投反對票；他們不認可這場衝突，且認為特朗普未經國會授權開戰，屬於非法行動。此次800億美元的申請規模，遠低於近幾個月外界傳聞政府曾考量的2000億美元額度。這筆追加資金主要用於補充戰爭初期大量消耗的導彈庫存，同時覆蓋近幾個月美軍在中東開展各類軍事行動產生的其他開支。
-
----
-
-### 2026-06-25 01:38:24  #市場 #焦點
-
-紐約期銀失守58美元/盎司，日內跌7.22%。
-
----
-
-### 2026-06-25 01:37:16  #MKT News
-
-Trump administration officials told key House Republican leaders they expect to submit a supplemental funding request to Congress for Iran war-related costs before the end of this week.
-
----
-
-### 2026-06-25 01:36:11  #央行 #其他
-
-加拿大央行會議紀要：在加拿大銀行6月10日利率決定之前，理事會成員一致認為貨幣政策需要保持靈活。
-
----
-
-### 2026-06-25 01:36:06  #央行 #其他
-
-加拿大央行會議紀要：成員們指出，美墨加協定談判取得有利結果可能恢復一些確定性，並潛在地提振投資。
-
----
-
-### 2026-06-25 01:35:47  #MKT News #Commodities #Energy #WTI #Impact mixed #Brent
-
-【BOC minutes: weak economy, limited oil pass‑through cited as rationale for 2.25% hold】Bank of Canada minutes released Wednesday said policymakers left the policy rate at 2.25% on June 10 — the fifth straight pause — citing a weak economy and little evidence that recent oil-price increases have passed through to other goods and services. Six senior decision-makers led by Governor Macklem agreed the hold balanced upside inflation pressure against economic weakness; the minutes noted Canada has unexpectedly recorded two consecutive quarters of contraction. The minutes said: In responding to rising inflation, the Governing Council neither wants to overreact nor underreact.
-
----
-
-### 2026-06-25 01:34:41  #市場 #國際
-
-美國7年期國債收益率日內下跌10個基點至4.27%。
-
----
-
-### 2026-06-25 01:34:28  #央行 #其他
-
-加拿大央行：利率走勢高度取決於能源價格走向。
-
----
-
-### 2026-06-25 01:34:15  #央行 #其他
-
-加拿大央行：若央行加息對抗通脹，而油價隨後快速回落，待到加息政策對實體經濟產生影響時，緊縮舉措已然多餘。
-
----
-
-### 2026-06-25 01:34:00  #央行 #宏觀
-
-加拿大央行：如果高油價長期持續並擴散至全產業鏈，而央行長期按兵不動，後續出臺的貨幣政策收緊力度，將遠大於提前行動所需的幅度。
-
----
-
-### 2026-06-25 01:33:05  #市場
-
-比特幣觸及盤中低點59,283.53美元，為6月5日以來最低水平，最新下跌4.45%，報59,612.54美元
-
----
-
-### 2026-06-25 01:32:26  #MKT News #DXY #Impact bullish #XAUUSD #Copper #Impact bearish
-
-BOC minutes: policy makers agreed the economy is weak, in a state of excess supply with slack in the labour market, but not in recession.
-
----
-
-### 2026-06-25 01:32:12  #央行 #市場
-
-【加拿大央行否認經濟疲軟等同於衰退】加拿大央行官員否認本國經濟陷入衰退的說法，同時承認經濟增長乏力、勞動力市場存在閒置產能。央行表示，當前經濟走弱、勞動力市場供給過剩，但並未出現典型衰退特徵——即整體經濟活動深度、大範圍且持續性下滑。政策制定者將政策利率維持在2.25%不變，稱當下進退兩難：降息提振經濟，又恐油價上漲推升全面通脹；收緊利率托住物價，又會進一步壓制增長。
-
----
-
-### 2026-06-25 01:32:05  #MKT News
-
-Bank of Canada meeting minutes showed council members unanimously agreed monetary policy needs to remain flexible.
-
----
-
-### 2026-06-25 01:31:53  #MKT News
-
-BOC minutes: Governing Council members agreed the economic situation presents a dilemma for monetary policy.
-
----
-
-### 2026-06-25 01:31:38  #MKT News
-
-BOC minutes: An adverse USMCA outcome could broaden spillovers to the Canadian economy by weakening employment and investment.
-
----
-
-### 2026-06-25 01:31:30  #央行 #市場
-
-加拿大央行：委員會討論了疲軟的經濟和不斷上漲的通貨膨脹如何構成兩難困境。
-
----
-
-### 2026-06-25 01:31:14  #MKT News #DXY #Impact bearish
-
-BOC minutes: members agreed that if inf data begin to show pressures spreading, that would signal the need to tighten monetary policy.
-
----
-
-### 2026-06-25 01:31:12  #央行 #其他
-
-加拿大央行：加拿大經濟似乎正在恢復增長。
-
----
-
-### 2026-06-25 01:30:56  #央行 #其他
-
-加拿大央行：經濟疲軟，供應過剩，但尚未陷入衰退。
-
----
-
-### 2026-06-25 01:30:56  #MKT News #DXY #Impact bullish
-
-BOC minutes: economy weak; inf excluding fuel "generally under control".
-
----
-
-### 2026-06-25 01:30:51  #MKT News #DXY #Impact bearish #EURUSD #Impact bullish
-
-BOC meeting minutes: despite two quarters of economic contraction, the economy "has not clearly entered a recession".
-
----
-
-### 2026-06-25 01:30:48  #MKT News #Macro & Rates
-
-BOC minutes: policy rate held unchanged to balance inf risks against weak economic growth.
-
----
-
-### 2026-06-25 01:30:41  #MKT News
-
-BOC minutes: Limited evidence of pass-through from rising energy prices to other goods.
-
----
-
-### 2026-06-25 01:30:38  #MKT News
-
-BOC minutes: policymakers said they did not want to overreact to developments, nor to react too slowly.
-
----
-
-### 2026-06-25 01:30:37  #央行 #其他
-
-加拿大央行：第一季度GDP最大的意外是政府支出下降。
-
----
-
-### 2026-06-25 01:30:26  #央行 #其他
-
-加拿大央行：美墨加協定若談判結果不利，或將加劇經濟困境。
-
----
-
-### 2026-06-25 01:30:20  #MKT News
-
-New York silver futures plunged 7.00% intraday to $57.73/oz.
-
----
-
-### 2026-06-25 01:30:15  #MKT News
-
-【Trump says Iran is making 'major concessions'】President Trump told reporters before heading to the Senate that "we're gaining a tremendous advantage" and that "Iran is making major concessions," but he offered no details. He added the situation was progressing "very, very well," also without elaboration.
-
----
-
-### 2026-06-25 01:30:14  #市場
-
-紐約期銀日內跌7%，現報58.13美元/盎司。
-
----
-
-### 2026-06-25 01:28:29  #其他
-
-中國地震臺網正式測定：06月25日01時22分在新疆阿克蘇地區沙雅縣（北緯40.99度，東經83.34度）發生3.8級地震，震源深度28千米。
 
 ---

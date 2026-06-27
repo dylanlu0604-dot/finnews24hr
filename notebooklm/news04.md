@@ -1,7 +1,115 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-06-27 17:32:03_
-_本檔包含 3535 則快訊，約 671534 字_
+_更新時間：2026-06-27 18:26:19_
+_本檔包含 3516 則快訊，約 672210 字_
+
+---
+
+### 2026-06-23 21:58:01  #市場
+
+標普500指數下跌至1%。
+
+---
+
+### 2026-06-23 21:57:47  #市場
+
+SpaceX股價拉昇，現漲0.5%，逆轉了一度高達5%的跌幅。
+
+---
+
+### 2026-06-23 21:57:25  #MKT News #Important #Market Regions #Greater China #AIR.PA #Impact bullish
+
+【China MOFCOM vice minister meets Airbus EVP on investment, supply-chain stability】June 23 — China MOFCOM vice minister and deputy trade negotiator Ling Ji met with Airbus executive vice-president Harrison to discuss Airbus expanding investment in China and measures to preserve stability in the global aerospace production and supply chain.
+
+---
+
+### 2026-06-23 21:56:48  #公司 #焦點
+
+【商務部副部長兼國際貿易談判副代表凌激會見空客公司執行副總裁哈里森】6月23日，商務部副部長兼國際貿易談判副代表凌激會見空客公司執行副總裁哈里森，雙方就空客擴大在華投資以及保持全球航空產供鏈穩定等問題進行交流。
+
+---
+
+### 2026-06-23 21:56:27  #央行 #國際
+
+據美國紐約聯儲資料，上個交易日（6月22日）擔保隔夜融資利率（SOFR）報3.61%，之前一天報3.62%。上個交易日有效的聯邦基金利率報3.63%，之前一天報3.63%。
+
+---
+
+### 2026-06-23 21:55:53  #宏觀 #兩會
+
+【報告：去年中央決算情況總體較好 財政政策更加積極】財政部部長藍佛安6月23日向十四屆全國人大常委會第二十三次會議作關於2025年中央決算的報告。根據報告，2025年，中央決算情況總體較好，財政政策更加積極，著力穩定經濟執行、推動高質量發展。（新華社）
+
+---
+
+### 2026-06-23 21:55:34  #Trading Economics #Economy #United States #Composite PMI #Importance 1
+
+US Private Sector Activity Rises Faster — The S&P Global US Composite PMI rose to 52.2 in June of 2026 from 51.5 in the previous month, reflecting the sharpest pace of growth in the US private economic activity since January, according to a preliminary estimate. The expansion was supported by the largest growth in the manufacturing output in six years (57.7 vs 56.6 in May) and a sharper increase in services activity (51.3 vs 50.7). Total new orders grew, with those for services likely supported by the start of the Fifa World Cup, and manufacturing orders remaining attributable to clients front-running contracts before the war in the Middle East causes further supply disruptions. This was aligned with larger magnitude of supply chain delays in the period, driving prices to continue increasing at last month's pace. In turn, employment fell for a second month as companies attempted to cut costs. Looking ahead, firms' confidence was recorded at the highest since February.
+
+---
+
+### 2026-06-23 21:54:33  #公司
+
+【Meta釋出起售價299美元的新款智慧眼鏡，扎克伯格持續推進可穿戴裝置佈局】Meta推出起售價為299美元的全新智慧眼鏡，比該公司入門級第二代Meta雷朋眼鏡的售價至少低80美元。此舉標誌著執行長馬克·扎克伯格在可穿戴裝置領域的持續發力。新款Meta Glasses採用全新設計，由Meta與雷朋母公司依視路陸遜梯卡（EssilorLuxottica）合作打造，但產品上不帶有雷朋（Ray-Ban）或奧克利（Oakley）的品牌標識。
+
+---
+
+### 2026-06-23 21:54:15  #MKT News
+
+【Li Auto launches new L8 model】Li Auto (02015.HK) launched the updated L8, offered in Ultra and Livis trims with limited-time introductory prices of 359,800 yuan and 419,800 yuan respectively.
+
+---
+
+### 2026-06-23 21:54:10  #MKT News
+
+Tesla (TSLA.O) shares fell 3.9%.
+
+---
+
+### 2026-06-23 21:53:23  #市場
+
+特斯拉股價下跌3.9%。
+
+---
+
+### 2026-06-23 21:53:08  #MKT News #Macro & Rates #US Economy #S&P500 #Impact bullish #DXY #US10Y #Impact bearish
+
+【US manufacturing activity beats expectations; factory employment falls to six-year low】S&P Global preliminary June US manufacturing PMI rose to 55.7 from 55.1 in May, the strongest since May 2022 and above a Reuters survey forecast of 54.8. Firms said they were front-loading orders to guard against shortages and price increases, supporting output growth. Factory employment slipped to a six-year low, mainly reflecting higher operating costs linked to the Middle East conflict. S&P Global preliminary services PMI rose to 51.3 from 50.7, lifting the composite PMI output index to 52.2 from 51.5; the services rebound was partly attributed to the US-Canada-Mexico joint World Cup hosting.
+
+---
+
+### 2026-06-23 21:51:34  #公司
+
+【雲南茶協呼籲整頓普洱茶直播間】雲南省茶業協會6月22日釋出關於雲南普洱茶直播間亟需嚴加整頓的建議和呼籲的公告。公告指出，雲南普洱茶直播間的經營者，大多由原來從事翡翠珠寶的直播團隊轉行而來，他們時刻遊走在政策的紅線上，沒有長期經營的理念和操守，且涉嫌“壟斷”“假冒偽劣”“虛假宣傳”等眾多侵權行為。雲南翡翠珠寶行業的一蹶不振，就是前車之鑑。協會向相關部門建議：對上述報道中涉及的直播間嚴加整頓，觸犯法律的應從重處罰甚至取締，且其主播及團隊以後不得再從事電商直播行業；按照相關法律法規，對全省普洱茶直播間立即展開調查，將“害群之馬”清理出普洱茶直播行業。
+
+---
+
+### 2026-06-23 21:51:04  #MKT News
+
+【Navigational warning: military training in South China Sea】Jiangmen Maritime Safety Administration posted on the China Maritime Safety Administration website that parts of the South China Sea will be closed to navigation for military training from June 24 04:00 to 12:00.
+
+---
+
+### 2026-06-23 21:51:02  #國際
+
+市場訊息：土耳其總統埃爾多安會見波蘭總統。
+
+---
+
+### 2026-06-23 21:50:59  #其他
+
+【航行警告！南海海域軍事訓練】據中國海事局網站訊息，江門海事局釋出航行警告，6月24日4時至12時，南海部分海域進行軍事訓練，禁止駛入。
+
+---
+
+### 2026-06-23 21:50:55  #MKT News
+
+Market news: Turkish President Erdogan met Poland's president.
+
+---
+
+### 2026-06-23 21:50:20  #Trading Economics #Economy #United States #Manufacturing PMI #Importance 2
+
+US Manufacturing Growth Strongest Since 2022 — The S&P Global US Manufacturing PMI increased to 55.7 in June 2026 from 55.1 in May, surpassing market forecasts of 54.8 and reaching its highest level since May 2022. This expansion signifies that factory business conditions have improved continuously since last August, with growth steadily accelerating from the recent low point in February. Driving this upward momentum, production growth accelerated at the fastest pace since July 2021, propelled by the largest surge in new orders since April 2022. Additionally, input inventories experienced their biggest increase since May 2025, marking the second steepest rise in the history of the survey. The PMI also benefited from the most significant lengthening of supplier delivery times recorded since August 2022. Conversely, the overall index gains were partially constrained by a substantial decline in employment, which represented the sharpest drop in manufacturing workforce levels since May 2020.
 
 ---
 
@@ -21123,227 +21231,5 @@ Microsoft (MSFT.O) said the Pecos data center campus, once operational, will coo
 ### 2026-06-22 20:18:15  #MKT News
 
 White House National Economic Council director Hassett said Fed chair Kevin Warsh did not seek advice from the White House.
-
----
-
-### 2026-06-22 20:17:59  #MKT News #Commodities #Energy #WTI #Impact bullish #Brent
-
-White House National Economic Council director HASSETT said some very large oil tankers are transiting the Strait of Hormuz.
-
----
-
-### 2026-06-22 20:17:52  #MKT News
-
-SpaceX (SPCX.O) held $100.8 bln in cash and cash equivalents as of June 19.
-
----
-
-### 2026-06-22 20:17:44  #其他
-
-船舶追蹤資料顯示：兩艘小型原油運輸輪滿載合計不到200萬桶原油，已透過霍爾木茲海峽駛入阿曼灣。
-
----
-
-### 2026-06-22 20:17:40  #其他
-
-船舶追蹤資料顯示：兩艘超級油輪已透過霍爾木茲海峽進入海灣，將裝載400萬桶原油，其中一艘正駛往伊拉克巴士拉港。
-
----
-
-### 2026-06-22 20:17:37  #其他
-
-英國國防採購國務大臣波拉德：我將支援安迪·伯納姆擔任首相。
-
----
-
-### 2026-06-22 20:17:33  #MKT News #Star Stocks #Microsoft #Market Themes #Magnificent 7 #MSFT.O #Impact bullish
-
-Microsoft (MSFT.O): new data center campus to create more than 6,000 construction jobs.
-
----
-
-### 2026-06-22 20:17:29  #其他
-
-維珍銀河達成協議，置換約5250萬美元2027年期債券。
-
----
-
-### 2026-06-22 20:17:13  #MKT News #Star Stocks #Microsoft #Market Themes #Magnificent 7 #MSFT.O #Impact bullish
-
-Microsoft (MSFT.O) said investment in its Pecos data center will total several billion dollars over 5–7 years.
-
----
-
-### 2026-06-22 20:16:48  #公司
-
-【羅博特科：擬發行不超過3401.45萬股境外上市普通股並在香港聯合交易所上市】羅博特科公告，公司於近日收到中國證監會出具的《關於羅博特科智慧科技股份有限公司境外發行上市備案通知書》。備案通知書主要內容如下：一、你公司擬發行不超過3401.45萬股境外上市普通股並在香港聯合交易所上市。
-
----
-
-### 2026-06-22 20:16:48  #MKT News
-
-UK Minister of State for Defence Procurement Pollard said he will back Andy Burnham to be prime minister.
-
----
-
-### 2026-06-22 20:16:41  #國際
-
-美國白宮國家經濟委員會主任哈塞特：一些大型油輪正透過霍爾木茲海峽。
-
----
-
-### 2026-06-22 20:16:29  #其他
-
-穆迪：預計2026年之後仍有大額資金需求，以支援SpaceX的資本計劃。
-
----
-
-### 2026-06-22 20:16:22  #其他
-
-截至6月19日，SpaceX持有 1008 億美元現金及現金等價物。
-
----
-
-### 2026-06-22 20:16:01  #MKT News #Important #Star Stocks #Microsoft #Market Themes #Magnificent 7
-
-Microsoft (MSFT.O) will build a new data center campus in Pecos, Texas.
-
----
-
-### 2026-06-22 20:15:29  #公司
-
-【華致酒行：子公司補繳稅款及滯納金合計1.27億元】華致酒行(300755.SZ)公告稱，公司全資子公司華致精品及西藏中糖經自查需補繳稅款及滯納金合計1.27億元，其中稅款7847.28萬元，滯納金4861.74萬元。截至公告日，上述款項已全部繳納完畢，不涉及行政處罰。本次補繳將計入2026年當期損益，不影響公司正常經營。
-
----
-
-### 2026-06-22 20:15:19  #MKT News #Macro & Rates #US Economy #DXY #Impact bullish #US10Y #S&P500 #Impact mixed
-
-White House National Economic Council director Hassett said lowering the debt-to-GDP ratio is our top priority.
-
----
-
-### 2026-06-22 20:15:09  #其他
-
-微軟：在啟動時，佩科斯資料中心園區將配套運營一座天然氣發電設施。
-
----
-
-### 2026-06-22 20:15:01  #MKT News #Market Themes #AI Revolution #Nasdaq100 #Impact bullish
-
-U.S. White House National Economic Council Director HASSETT said profit opportunities exist across the artificial intelligence sector.
-
----
-
-### 2026-06-22 20:14:47  #國際
-
-美國白宮國家經濟委員會主任哈塞特：降低債務佔GDP比重是當務之急。
-
----
-
-### 2026-06-22 20:14:36  #其他
-
-微軟：新資料中心園區將支援超6,000個建築崗位。
-
----
-
-### 2026-06-22 20:14:29  #公司
-
-【新宏澤：控股股東擬減持不超3%公司股份】新宏澤公告稱，控股股東億澤控股持有公司60.78%股份，計劃自2026年7月15日至10月14日，以集中競價和大宗交易方式減持不超676.19萬股，不超總股本（剔除回購專用賬戶所持股份）的3%，其中集中競價不超225.40萬股，大宗交易不超450.80萬股。減持原因為自身資金需求，本次減持不會導致公司控制權變更，也不會對公司產生重大影響。
-
----
-
-### 2026-06-22 20:14:22  #MKT News
-
-Hassett, director of the White House National Economic Council, said AI companies are earning outsized profits.
-
----
-
-### 2026-06-22 20:14:15  #市場
-
-線上影片遊戲平臺Roblox股價盤前跌幅擴大，觸及日內低點，下跌4.4%。
-
----
-
-### 2026-06-22 20:14:09  #其他
-
-微軟：未來5至7年對佩科斯資料中心的投資將達數十億美元。
-
----
-
-### 2026-06-22 20:13:57  #其他 #焦點
-
-SpaceX啟動首次高評級美元債發行。
-
----
-
-### 2026-06-22 20:13:39  #MKT News
-
-SpaceX (SPCX.O) launches first investment-grade USD bond offering.
-
----
-
-### 2026-06-22 20:13:20  #國際
-
-微軟：我們將在美國得克薩斯州貝可斯市新建一個資料中心園區。
-
----
-
-### 2026-06-22 20:13:14  #國際
-
-美國白宮國家經濟委員會主任哈塞特：人工智慧領域處處都有利潤。
-
----
-
-### 2026-06-22 20:12:53  #公司 #國際
-
-美國白宮國家經濟委員會主任哈塞特：人工智慧公司正在印鈔票。
-
----
-
-### 2026-06-22 20:12:46  #MKT News #WTI #Impact bearish #Brent
-
-【Iran central bank governor: 'significant progress' on unfreezing Iranian assets】Iran central bank governor Hemmati said frozen Iranian assets made "significant progress" toward release in recent talks and that relevant documents were signed during the round. He described frozen central bank assets as among the most complex issues in the negotiations. Under the arrangements, funds will be phased into use over the coming days subject to agreed conditions and procedures set by the Central Bank of Iran. On oil and petrochemicals, Hemmati said the sanctions-waiver mechanism under the Iran-US memorandum of understanding should already be activated and that the US Treasury’s Office of Foreign Assets Control has been agreed to implement the arrangements.
-
----
-
-### 2026-06-22 20:11:21  #央行 #宏觀 #國際
-
-【伊朗央行行長：伊朗資產解凍有“顯著進展”】據伊朗塔斯尼姆通訊社22日報道，伊朗中央銀行行長赫馬提表示，在近期談判中，被凍結伊朗資產解凍問題取得“顯著進展”，相關檔案已在本輪談判期間簽署。赫馬提說，伊朗央行被凍結資產問題是當前談判中最複雜的議題之一。根據有關安排，未來數日內，相關資金將依據既定條件並按照伊朗中央銀行制定的程式逐步投入使用。在談及石油和石化產品出口問題時，赫馬提表示，根據伊朗與美國達成的諒解備忘錄，涉及伊朗能源出口的制裁豁免機制應已啟動。目前已商定由美國財政部外國資產控制辦公室負責落實相關安排。(新華社)
-
----
-
-### 2026-06-22 20:11:02  #公司 #國際
-
-【愛旭股份與菲律賓Tigon Power正式簽約173MW大型地面光伏專案】近日，愛旭與菲律賓知名能源開發運營商Tigon Power正式舉行簽約儀式，雙方宣佈就菲律賓邦板牙省的SAPANG 173MW大型地面光伏電站專案達成元件供應協議。根據協議內容，愛旭將為該專案全量提供高效ABC元件。該專案計劃於2028年第三季度正式併網，併網後年發電量預計將達到2.67億度，全生命週期發電收益達1.69億元。
-
----
-
-### 2026-06-22 20:10:45  #MKT News
-
-White House National Economic Council Director Hassett said Alan Greenspan is an outstanding thinker.
-
----
-
-### 2026-06-22 20:10:37  #國際
-
-據美國證交會檔案，SpaceX將向合格機構投資者和非美國人士提供票據。
-
----
-
-### 2026-06-22 20:10:28  #MKT News
-
-Hassett, director of the White House National Economic Council, offered condolences to Alan Greenspan’s family.
-
----
-
-### 2026-06-22 20:10:27  #公司
-
-【華設設計：2025年度差異化權益分派方案獲股東會審議透過】華設設計公告稱，公司2025年度權益分配實施差異化權益分派，因回購股份不參與利潤分配及資本公積金轉增股本。2025年度歸屬於母公司股東的淨利潤2.74億元，期末可供分配利潤38.13億元。公司擬向全體股東每10股派發現金紅利1.25元（含稅），合計擬派發現金紅利8459.46萬元；以資本公積金向全體股東每10股轉增2股，合計擬轉增1.35億股。轉增後，公司總股本為8.19億股。該方案經2026年5月29日召開的2025年度股東會審議透過。
-
----
-
-### 2026-06-22 20:10:10  #MKT News #SPCX.O
-
-According to a U.S. SEC filing, SpaceX (SPCX.O) will offer notes to qualified institutional buyers and non-U.S. persons.
 
 ---

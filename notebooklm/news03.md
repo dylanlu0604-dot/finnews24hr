@@ -1,7 +1,217 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-06-27 17:32:03_
-_本檔包含 3815 則快訊，約 673028 字_
+_更新時間：2026-06-27 18:26:19_
+_本檔包含 3832 則快訊，約 673481 字_
+
+---
+
+### 2026-06-25 01:41:40  #國際
+
+美國南方司令部：協助完成抓捕行動518起，查獲攔截可卡因305.5公噸，阻斷毒品恐怖分子非法收入77億美元。
+
+---
+
+### 2026-06-25 01:41:03  #MKT News #Commodities #Energy #WTI #Impact bearish #Brent
+
+【US energy secretary: ~20 mln barrels transited Strait of Hormuz in past 24 hours】US Energy Secretary Wright said roughly 20 million barrels of oil, carried on about 72 vessels, transited the Strait of Hormuz in the past 24 hours. Asked how much oil had passed after a preliminary US‑Iran agreement to end hostilities, Wright repeated the figures and added that Iran would no longer be able to close the strait, calling that its main leverage and saying the US is taking that leverage away.
+
+---
+
+### 2026-06-25 01:40:23  #公司 #國際
+
+美國南方司令部：致力於搗毀西半球境內毒品恐怖分子網路。南方跨機構聯合特遣部隊是覆蓋全區域打擊販毒集團、保障西半球安全的關鍵力量。
+
+---
+
+### 2026-06-25 01:39:42  #Trading Economics #Markets #Brazil #Currency #Importance 1
+
+BRL Weakens as US-Brazil Rate Gap Narrows — The Brazilian real weakened to around 5.19 per USD in late June, tracking broad dollar strength against nearly all major currencies. The greenback advanced against G10 and emerging market peers after hawkish projections from Federal Open Market Committee members in their latest policy decision led markets to price in more than one rate hike by the US Federal Reserve this year. In Brazil, the dollar also found support in the minutes of the latest Copom meeting, which reinforced expectations that the benchmark Selic rate may fall in the near term, even as policymakers acknowledged that upside risks to inflation still outweigh downside risks. The outlook points to a narrower interest rate differential between Brazil and the US, reducing the appeal of Brazilian carry trades and supporting further gains for the dollar.
+
+---
+
+### 2026-06-25 01:39:24  #國際
+
+【白宮告知共和黨：本週末前將提交戰爭撥款申請】特朗普政府官員已向國會共和黨核心議員通報，政府預計將於本週末前提交一份針對伊朗戰事的追加撥款方案。訊息人士表示，這筆撥款申請總額約800億美元。但眾議院共和黨撥款委員會議員認為，參議院大機率會在法案中附加救災、農業補貼等非軍事相關條款。眾議院共和黨領導層擔憂，推進這份追加撥款法案，會打亂他們另一項立法計劃——推動僅靠共和黨票倉透過、包含共和黨優先議程與額外國防資金的預算協調法案。國會長久以來一直在等待特朗普總統提交資金申請，用以覆蓋中東軍事行動成本。但這份法案想要在參議院獲得透過，至少需要跨黨派支援，落地成法律的阻力極大。大量反對這場戰爭的民主黨議員幾乎必然會投反對票；他們不認可這場衝突，且認為特朗普未經國會授權開戰，屬於非法行動。此次800億美元的申請規模，遠低於近幾個月外界傳聞政府曾考量的2000億美元額度。這筆追加資金主要用於補充戰爭初期大量消耗的導彈庫存，同時覆蓋近幾個月美軍在中東開展各類軍事行動產生的其他開支。
+
+---
+
+### 2026-06-25 01:38:24  #市場 #焦點
+
+紐約期銀失守58美元/盎司，日內跌7.22%。
+
+---
+
+### 2026-06-25 01:37:16  #MKT News
+
+Trump administration officials told key House Republican leaders they expect to submit a supplemental funding request to Congress for Iran war-related costs before the end of this week.
+
+---
+
+### 2026-06-25 01:36:11  #央行 #其他
+
+加拿大央行會議紀要：在加拿大銀行6月10日利率決定之前，理事會成員一致認為貨幣政策需要保持靈活。
+
+---
+
+### 2026-06-25 01:36:06  #央行 #其他
+
+加拿大央行會議紀要：成員們指出，美墨加協定談判取得有利結果可能恢復一些確定性，並潛在地提振投資。
+
+---
+
+### 2026-06-25 01:35:47  #MKT News #Commodities #Energy #WTI #Impact mixed #Brent
+
+【BOC minutes: weak economy, limited oil pass‑through cited as rationale for 2.25% hold】Bank of Canada minutes released Wednesday said policymakers left the policy rate at 2.25% on June 10 — the fifth straight pause — citing a weak economy and little evidence that recent oil-price increases have passed through to other goods and services. Six senior decision-makers led by Governor Macklem agreed the hold balanced upside inflation pressure against economic weakness; the minutes noted Canada has unexpectedly recorded two consecutive quarters of contraction. The minutes said: In responding to rising inflation, the Governing Council neither wants to overreact nor underreact.
+
+---
+
+### 2026-06-25 01:34:41  #市場 #國際
+
+美國7年期國債收益率日內下跌10個基點至4.27%。
+
+---
+
+### 2026-06-25 01:34:28  #央行 #其他
+
+加拿大央行：利率走勢高度取決於能源價格走向。
+
+---
+
+### 2026-06-25 01:34:15  #央行 #其他
+
+加拿大央行：若央行加息對抗通脹，而油價隨後快速回落，待到加息政策對實體經濟產生影響時，緊縮舉措已然多餘。
+
+---
+
+### 2026-06-25 01:34:00  #央行 #宏觀
+
+加拿大央行：如果高油價長期持續並擴散至全產業鏈，而央行長期按兵不動，後續出臺的貨幣政策收緊力度，將遠大於提前行動所需的幅度。
+
+---
+
+### 2026-06-25 01:33:05  #市場
+
+比特幣觸及盤中低點59,283.53美元，為6月5日以來最低水平，最新下跌4.45%，報59,612.54美元
+
+---
+
+### 2026-06-25 01:32:26  #MKT News #DXY #Impact bullish #XAUUSD #Copper #Impact bearish
+
+BOC minutes: policy makers agreed the economy is weak, in a state of excess supply with slack in the labour market, but not in recession.
+
+---
+
+### 2026-06-25 01:32:12  #央行 #市場
+
+【加拿大央行否認經濟疲軟等同於衰退】加拿大央行官員否認本國經濟陷入衰退的說法，同時承認經濟增長乏力、勞動力市場存在閒置產能。央行表示，當前經濟走弱、勞動力市場供給過剩，但並未出現典型衰退特徵——即整體經濟活動深度、大範圍且持續性下滑。政策制定者將政策利率維持在2.25%不變，稱當下進退兩難：降息提振經濟，又恐油價上漲推升全面通脹；收緊利率托住物價，又會進一步壓制增長。
+
+---
+
+### 2026-06-25 01:32:05  #MKT News
+
+Bank of Canada meeting minutes showed council members unanimously agreed monetary policy needs to remain flexible.
+
+---
+
+### 2026-06-25 01:31:53  #MKT News
+
+BOC minutes: Governing Council members agreed the economic situation presents a dilemma for monetary policy.
+
+---
+
+### 2026-06-25 01:31:38  #MKT News
+
+BOC minutes: An adverse USMCA outcome could broaden spillovers to the Canadian economy by weakening employment and investment.
+
+---
+
+### 2026-06-25 01:31:30  #央行 #市場
+
+加拿大央行：委員會討論了疲軟的經濟和不斷上漲的通貨膨脹如何構成兩難困境。
+
+---
+
+### 2026-06-25 01:31:14  #MKT News #DXY #Impact bearish
+
+BOC minutes: members agreed that if inf data begin to show pressures spreading, that would signal the need to tighten monetary policy.
+
+---
+
+### 2026-06-25 01:31:12  #央行 #其他
+
+加拿大央行：加拿大經濟似乎正在恢復增長。
+
+---
+
+### 2026-06-25 01:30:56  #央行 #其他
+
+加拿大央行：經濟疲軟，供應過剩，但尚未陷入衰退。
+
+---
+
+### 2026-06-25 01:30:56  #MKT News #DXY #Impact bullish
+
+BOC minutes: economy weak; inf excluding fuel "generally under control".
+
+---
+
+### 2026-06-25 01:30:51  #MKT News #DXY #Impact bearish #EURUSD #Impact bullish
+
+BOC meeting minutes: despite two quarters of economic contraction, the economy "has not clearly entered a recession".
+
+---
+
+### 2026-06-25 01:30:48  #MKT News #Macro & Rates
+
+BOC minutes: policy rate held unchanged to balance inf risks against weak economic growth.
+
+---
+
+### 2026-06-25 01:30:41  #MKT News
+
+BOC minutes: Limited evidence of pass-through from rising energy prices to other goods.
+
+---
+
+### 2026-06-25 01:30:38  #MKT News
+
+BOC minutes: policymakers said they did not want to overreact to developments, nor to react too slowly.
+
+---
+
+### 2026-06-25 01:30:37  #央行 #其他
+
+加拿大央行：第一季度GDP最大的意外是政府支出下降。
+
+---
+
+### 2026-06-25 01:30:26  #央行 #其他
+
+加拿大央行：美墨加協定若談判結果不利，或將加劇經濟困境。
+
+---
+
+### 2026-06-25 01:30:20  #MKT News
+
+New York silver futures plunged 7.00% intraday to $57.73/oz.
+
+---
+
+### 2026-06-25 01:30:15  #MKT News
+
+【Trump says Iran is making 'major concessions'】President Trump told reporters before heading to the Senate that "we're gaining a tremendous advantage" and that "Iran is making major concessions," but he offered no details. He added the situation was progressing "very, very well," also without elaboration.
+
+---
+
+### 2026-06-25 01:30:14  #市場
+
+紐約期銀日內跌7%，現報58.13美元/盎司。
+
+---
+
+### 2026-06-25 01:28:29  #其他
+
+中國地震臺網正式測定：06月25日01時22分在新疆阿克蘇地區沙雅縣（北緯40.99度，東經83.34度）發生3.8級地震，震源深度28千米。
 
 ---
 
@@ -22900,113 +23110,5 @@ SpaceX (SPCX.O) stock reversed earlier losses and was up 1%.
 ### 2026-06-23 21:59:35  #Trading Economics #Markets #Brazil #Stock Market #Importance 1
 
 Ibovespa Slips as Global Tech Selloff Weighs — The Ibovespa edged lower to trade below the 170,000 mark on Tuesday, tracking a broader risk-off mood as a selloff in technology stocks weighed on global markets. Losses were broad-based, led by Vale, which fell 2.2%. Vale’s board unanimously approved the call for a shareholders’ meeting on July 22 to vote on the removal of its chairman, Daniel Stieler, following a request from the miner’s largest shareholder, Previ, triggering an internal dispute over the position. Utility stocks also moved lower, with Axia and Sabesp down around 1%. Major banks declined after minutes from the latest Banco Central do Brasil meeting showed policymakers see Selic paths closer to market expectations as more appropriate. On Monday, the BCB’s Focus survey showed the year-end Selic forecast rising from 13.75% to 14.00%. Bradesco and Itaú both lost more than 0.5%. Other notable laggards included Petrobras (-0.6%), WEG (-1%), and Embraer (-1%).
-
----
-
-### 2026-06-23 21:58:01  #市場
-
-標普500指數下跌至1%。
-
----
-
-### 2026-06-23 21:57:47  #市場
-
-SpaceX股價拉昇，現漲0.5%，逆轉了一度高達5%的跌幅。
-
----
-
-### 2026-06-23 21:57:25  #MKT News #Important #Market Regions #Greater China #AIR.PA #Impact bullish
-
-【China MOFCOM vice minister meets Airbus EVP on investment, supply-chain stability】June 23 — China MOFCOM vice minister and deputy trade negotiator Ling Ji met with Airbus executive vice-president Harrison to discuss Airbus expanding investment in China and measures to preserve stability in the global aerospace production and supply chain.
-
----
-
-### 2026-06-23 21:56:48  #公司 #焦點
-
-【商務部副部長兼國際貿易談判副代表凌激會見空客公司執行副總裁哈里森】6月23日，商務部副部長兼國際貿易談判副代表凌激會見空客公司執行副總裁哈里森，雙方就空客擴大在華投資以及保持全球航空產供鏈穩定等問題進行交流。
-
----
-
-### 2026-06-23 21:56:27  #央行 #國際
-
-據美國紐約聯儲資料，上個交易日（6月22日）擔保隔夜融資利率（SOFR）報3.61%，之前一天報3.62%。上個交易日有效的聯邦基金利率報3.63%，之前一天報3.63%。
-
----
-
-### 2026-06-23 21:55:53  #宏觀 #兩會
-
-【報告：去年中央決算情況總體較好 財政政策更加積極】財政部部長藍佛安6月23日向十四屆全國人大常委會第二十三次會議作關於2025年中央決算的報告。根據報告，2025年，中央決算情況總體較好，財政政策更加積極，著力穩定經濟執行、推動高質量發展。（新華社）
-
----
-
-### 2026-06-23 21:55:34  #Trading Economics #Economy #United States #Composite PMI #Importance 1
-
-US Private Sector Activity Rises Faster — The S&P Global US Composite PMI rose to 52.2 in June of 2026 from 51.5 in the previous month, reflecting the sharpest pace of growth in the US private economic activity since January, according to a preliminary estimate. The expansion was supported by the largest growth in the manufacturing output in six years (57.7 vs 56.6 in May) and a sharper increase in services activity (51.3 vs 50.7). Total new orders grew, with those for services likely supported by the start of the Fifa World Cup, and manufacturing orders remaining attributable to clients front-running contracts before the war in the Middle East causes further supply disruptions. This was aligned with larger magnitude of supply chain delays in the period, driving prices to continue increasing at last month's pace. In turn, employment fell for a second month as companies attempted to cut costs. Looking ahead, firms' confidence was recorded at the highest since February.
-
----
-
-### 2026-06-23 21:54:33  #公司
-
-【Meta釋出起售價299美元的新款智慧眼鏡，扎克伯格持續推進可穿戴裝置佈局】Meta推出起售價為299美元的全新智慧眼鏡，比該公司入門級第二代Meta雷朋眼鏡的售價至少低80美元。此舉標誌著執行長馬克·扎克伯格在可穿戴裝置領域的持續發力。新款Meta Glasses採用全新設計，由Meta與雷朋母公司依視路陸遜梯卡（EssilorLuxottica）合作打造，但產品上不帶有雷朋（Ray-Ban）或奧克利（Oakley）的品牌標識。
-
----
-
-### 2026-06-23 21:54:15  #MKT News
-
-【Li Auto launches new L8 model】Li Auto (02015.HK) launched the updated L8, offered in Ultra and Livis trims with limited-time introductory prices of 359,800 yuan and 419,800 yuan respectively.
-
----
-
-### 2026-06-23 21:54:10  #MKT News
-
-Tesla (TSLA.O) shares fell 3.9%.
-
----
-
-### 2026-06-23 21:53:23  #市場
-
-特斯拉股價下跌3.9%。
-
----
-
-### 2026-06-23 21:53:08  #MKT News #Macro & Rates #US Economy #S&P500 #Impact bullish #DXY #US10Y #Impact bearish
-
-【US manufacturing activity beats expectations; factory employment falls to six-year low】S&P Global preliminary June US manufacturing PMI rose to 55.7 from 55.1 in May, the strongest since May 2022 and above a Reuters survey forecast of 54.8. Firms said they were front-loading orders to guard against shortages and price increases, supporting output growth. Factory employment slipped to a six-year low, mainly reflecting higher operating costs linked to the Middle East conflict. S&P Global preliminary services PMI rose to 51.3 from 50.7, lifting the composite PMI output index to 52.2 from 51.5; the services rebound was partly attributed to the US-Canada-Mexico joint World Cup hosting.
-
----
-
-### 2026-06-23 21:51:34  #公司
-
-【雲南茶協呼籲整頓普洱茶直播間】雲南省茶業協會6月22日釋出關於雲南普洱茶直播間亟需嚴加整頓的建議和呼籲的公告。公告指出，雲南普洱茶直播間的經營者，大多由原來從事翡翠珠寶的直播團隊轉行而來，他們時刻遊走在政策的紅線上，沒有長期經營的理念和操守，且涉嫌“壟斷”“假冒偽劣”“虛假宣傳”等眾多侵權行為。雲南翡翠珠寶行業的一蹶不振，就是前車之鑑。協會向相關部門建議：對上述報道中涉及的直播間嚴加整頓，觸犯法律的應從重處罰甚至取締，且其主播及團隊以後不得再從事電商直播行業；按照相關法律法規，對全省普洱茶直播間立即展開調查，將“害群之馬”清理出普洱茶直播行業。
-
----
-
-### 2026-06-23 21:51:04  #MKT News
-
-【Navigational warning: military training in South China Sea】Jiangmen Maritime Safety Administration posted on the China Maritime Safety Administration website that parts of the South China Sea will be closed to navigation for military training from June 24 04:00 to 12:00.
-
----
-
-### 2026-06-23 21:51:02  #國際
-
-市場訊息：土耳其總統埃爾多安會見波蘭總統。
-
----
-
-### 2026-06-23 21:50:59  #其他
-
-【航行警告！南海海域軍事訓練】據中國海事局網站訊息，江門海事局釋出航行警告，6月24日4時至12時，南海部分海域進行軍事訓練，禁止駛入。
-
----
-
-### 2026-06-23 21:50:55  #MKT News
-
-Market news: Turkish President Erdogan met Poland's president.
-
----
-
-### 2026-06-23 21:50:20  #Trading Economics #Economy #United States #Manufacturing PMI #Importance 2
-
-US Manufacturing Growth Strongest Since 2022 — The S&P Global US Manufacturing PMI increased to 55.7 in June 2026 from 55.1 in May, surpassing market forecasts of 54.8 and reaching its highest level since May 2022. This expansion signifies that factory business conditions have improved continuously since last August, with growth steadily accelerating from the recent low point in February. Driving this upward momentum, production growth accelerated at the fastest pace since July 2021, propelled by the largest surge in new orders since April 2022. Additionally, input inventories experienced their biggest increase since May 2025, marking the second steepest rise in the history of the survey. The PMI also benefited from the most significant lengthening of supplier delivery times recorded since August 2022. Conversely, the overall index gains were partially constrained by a substantial decline in employment, which represented the sharpest drop in manufacturing workforce levels since May 2020.
 
 ---
