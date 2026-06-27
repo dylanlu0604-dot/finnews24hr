@@ -1,7 +1,31 @@
 {
-  "updated": "2026-06-28 04:36:52",
-  "count": 18143,
+  "updated": "2026-06-28 04:48:30",
+  "count": 18149,
   "items": [
+    {
+      "id": "4958610",
+      "time": "2026-06-28 04:42:17",
+      "tags": [
+        "國際"
+      ],
+      "text": "【日本巖手縣近海發生6.1級地震】據日本氣象廳公佈的資料，當地時間28日5時21分左右，日本巖手縣近海發生里氏6.1級地震，最大震感為震度5弱，震源深度40公里。本次地震暫無海嘯風險。（央視新聞）"
+    },
+    {
+      "id": "4958609",
+      "time": "2026-06-28 04:41:27",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列對加沙地帶中部代爾拜萊赫東部發動猛烈空襲，現場升起滾滾濃煙。"
+    },
+    {
+      "id": "4958608",
+      "time": "2026-06-28 04:41:10",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國高階官員和黎巴嫩官員表示，美國總統特朗普透過電話與黎巴嫩總統約瑟夫·奧恩通話，並祝賀他簽署了與以色列的框架協議。"
+    },
     {
       "id": "4958607",
       "time": "2026-06-28 04:34:39",
@@ -20,12 +44,28 @@
       "text": "德國地學研究中心（GFZ）：日本本州東海岸附近發生6.07級地震。"
     },
     {
+      "id": "mkt:a2732e39-7ff4-40cc-8d70-a9e4f3a8c740",
+      "time": "2026-06-28 04:30:50",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "EMSC said a magnitude-6 earthquake struck near the east coast of Honshu, Japan."
+    },
+    {
       "id": "4958605",
       "time": "2026-06-28 04:29:51",
       "tags": [
         "國際"
       ],
       "text": "歐洲地中海地震中心（EMSC）：日本本州東海岸附近發生6級地震。"
+    },
+    {
+      "id": "mkt:29f83e80-5cf1-4c37-847a-6a27bc96c04b",
+      "time": "2026-06-28 04:27:08",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Tanzania national grid fault triggers widespread blackout】On the evening of the 27th local time, a technical fault on Tanzania’s national grid cut power to all areas connected to the national transmission network. The national power utility said the fault occurred at 19:00 and the outage affected households, businesses and public institutions across multiple regions. Technical teams are conducting repairs and will restore supply in phases."
     },
     {
       "id": "4958604",
@@ -65,6 +105,14 @@
       "text": "卡達和埃及外長在通話中討論了地區局勢發展。"
     },
     {
+      "id": "mkt:88d8a1b4-6276-4d95-964b-e5608b71f562",
+      "time": "2026-06-28 04:17:59",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Gavekal Research: scenario of Trump forcing Fed cuts that keep inflation above 2% is unlikely】Gavekal Research said markets feared in 2025 that Trump might undermine Fed independence by nominating a political ally as chair, forcing rate cuts and leaving inflation persistently above the Fed’s 2% target. Developments over the past seven months make that scenario unlikely: the appointment of Kevin Walsh to lead the Fed and the retention of 11 of 12 regional Fed bank presidents. At Walsh’s first meeting earlier this month the Fed emphasized its commitment to price stability, surprising some market participants who had expected a more dovish stance."
+    },
+    {
       "id": "4958601",
       "time": "2026-06-28 04:10:57",
       "tags": [
@@ -89,6 +137,14 @@
       "text": "以色列對加沙地帶代爾拜萊赫東部發動空襲。"
     },
     {
+      "id": "mkt:2e1ff160-08bf-43fd-8ea6-fd1d99bebaea",
+      "time": "2026-06-28 03:59:39",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Trump nominates Lance Shroyer as ICE director】President Trump has nominated Lance Shroyer to lead U.S. Immigration and Customs Enforcement (ICE). Trump said Shroyer, a former Oklahoma state trooper and U.S. Marine who has long worked alongside ICE, has extensive experience in combating illegal-immigration crime and carrying out deportations. Trump urged the Senate to move quickly to confirm the nomination."
+    },
+    {
       "id": "4958598",
       "time": "2026-06-28 03:55:29",
       "tags": [
@@ -103,6 +159,14 @@
         "國際"
       ],
       "text": "美國食品藥品監督管理局（FDA）前任抗癌藥物部門主管理查德·帕茲德正被考慮重返該職位。"
+    },
+    {
+      "id": "mkt:16cf0249-59cf-4832-bede-ab0931bf39c9",
+      "time": "2026-06-28 03:51:37",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "President Trump returned to the White House from his Virginia golf club, MSNow White House reporter said."
     },
     {
       "id": "4958596",
@@ -129,6 +193,14 @@
       "text": "委內瑞拉附近再次發生4.8級強震。"
     },
     {
+      "id": "mkt:9dbed1b7-f5fd-4994-a5aa-d48efd4274c9",
+      "time": "2026-06-28 03:37:03",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Trump nominated Lance Shroyer to be the next director of U.S. Immigration and Customs Enforcement (ICE)."
+    },
+    {
       "id": "4958593",
       "time": "2026-06-28 03:35:36",
       "tags": [
@@ -145,12 +217,28 @@
       "text": "特朗普提名蘭斯·施羅耶出任美國移民與海關執法局（ICE）下一任局長。"
     },
     {
+      "id": "mkt:cdfe0a4c-67a3-4cca-a962-e5fd44dcb8c3",
+      "time": "2026-06-28 03:30:00",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "EMSC reports a magnitude 5.6 earthquake offshore Aragua state, Venezuela."
+    },
+    {
       "id": "4958591",
       "time": "2026-06-28 03:26:52",
       "tags": [
         "國際"
       ],
       "text": "歐洲地中海地震中心（EMSC）：委內瑞拉阿拉瓜州近海發生5.6級地震。"
+    },
+    {
+      "id": "mkt:1bf2579b-b578-45cd-a438-9cbab0c82fc8",
+      "time": "2026-06-28 03:21:57",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Israeli official says Israel will respond strongly if HEZBOLLAH attacks】On the 27th an Israeli security official said Israel is on high alert for a possible near-term HEZBOLLAH attack aimed at scuttling the newly signed Israel-Lebanon framework agreement and vowed a severe and forceful response to any strike. Earlier HEZBOLLAH deputy leader Naim Qassem denounced the US-Israel-Lebanon framework agreement as invalid."
     },
     {
       "id": "4958590",
@@ -161,12 +249,36 @@
       "text": "【以官員：若黎真主黨發動攻擊 將進行強烈回應】當地時間27日，以色列安全官員稱，以方目前正嚴陣以待，以防備黎巴嫩真主黨近期可能對以色列發動攻擊，破壞以黎最新簽署的框架協議。以色列方面稱，將對黎真主黨的任何襲擊作出“嚴厲且強烈的回應”。當天稍早時，黎巴嫩真主黨領導人納伊姆·卡西姆曾譴責美國、以色列和黎巴嫩達成的框架協議，認為該協議無效。（央視新聞）"
     },
     {
+      "id": "mkt:f19e5c5e-e9be-4895-81d3-dd3ab25dddee",
+      "time": "2026-06-28 03:14:17",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Israeli national security minister says Israel-Lebanon framework deal is \"a major mistake\"】On the 27th, Israeli national security minister Itamar Ben-Gvir said the US-mediated Israel-Lebanon framework agreement is \"a major mistake\" and demanded Prime Minister Benjamin Netanyahu formally submit the deal to cabinet for a vote. Ben-Gvir said the Lebanese government will not genuinely disarm Hezbollah and that only the Israel Defense Forces can do so."
+    },
+    {
       "id": "4958589",
       "time": "2026-06-28 03:13:52",
       "tags": [
         "國際"
       ],
       "text": "【以國家安全部長：黎以美框架協議是“重大錯誤”】當地時間27日，以色列國家安全部部長本-格維爾發表宣告稱，在美國斡旋下達成的以黎新框架協議是“一個重大錯誤”，要求總理內塔尼亞胡將該協議正式提交內閣進行表決。本-格維爾表示，黎巴嫩政府不會真正解除真主黨的武裝，這一點只有以色列國防軍才能做到。（央視新聞）"
+    },
+    {
+      "id": "mkt:e8bee2e8-b48b-4327-9a63-98e866bd6873",
+      "time": "2026-06-28 03:11:14",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Czech Republic records highest temperature on record】Local time June 27, Doksany in the Usti nad Labem Region recorded 40.8°C, the highest temperature on record in the Czech Republic."
+    },
+    {
+      "id": "mkt:019f0a7c-dc14-7dd8-b143-b518e6786600",
+      "time": "2026-06-28 03:09:42",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Sources: Iranian foreign minister Araghchi will visit Iraq on Sunday."
     },
     {
       "id": "4958588",
@@ -176,6 +288,19 @@
         "觀點"
       ],
       "text": "摩根大通CEO戴蒙談人工智慧：科技推動人類取得巨大進步，但它也會被壞人濫用，就像飛機、各類藥品都曾被不法利用一樣。在座不少人都有孫輩或子女，待到他們長大，很有可能活到一百歲。而且，我們在座眾人如今所罹患的癌症，有一半到那時將不存在了。"
+    },
+    {
+      "id": "mkt:019f0a78-52cb-7dd8-b143-a80c2d25c4b3",
+      "time": "2026-06-28 03:04:45",
+      "tags": [
+        "MKT News",
+        "S&P500",
+        "Impact bullish",
+        "XAUUSD",
+        "Impact bearish",
+        "WTI"
+      ],
+      "text": "【NETANYAHU says US, Lebanon agree Israel may retain security zone in Lebanon until Hezbollah disarmed】NETANYAHU said at a March 27 press conference the framework agreement with Lebanon is a \"historic achievement\" that advances ending the bilateral conflict and could lead to a final peace. He said the deal is a major blow to Iran and Hezbollah. The agreement, he said, reflects US and Lebanese assent for Israel to retain a security zone inside Lebanon for a period \"as needed\" — until Hezbollah and other armed groups are disarmed and Lebanon no longer poses a threat to Israel. As a pilot to hand territory to the Lebanese army and remove Hezbollah control, Israel will withdraw from two small currently held areas: one entirely outside the security zone and one at its edge that Israeli forces no longer need. NETANYAHU said Israel effectively retains all security-zone depth required to defend its northern border."
     },
     {
       "id": "4958587",
@@ -165924,81 +166049,6 @@
         "國際"
       ],
       "text": "【伊朗談判代表團抵達瑞士】據伊朗國家電視臺當地時間今天（6月21日）凌晨報道，伊朗談判代表團已抵達瑞士蘇黎世。瑞士外交部也證實了這一訊息，並表示伊朗代表團正在前往比爾根山的途中。"
-    },
-    {
-      "id": "4945999",
-      "time": "2026-06-21 04:45:29",
-      "tags": [
-        "其他",
-        "焦點"
-      ],
-      "text": "多方訊息顯示，深陷執政危機的英國首相斯塔默正籌備在未來數日內辭職。"
-    },
-    {
-      "id": "4945998",
-      "time": "2026-06-21 04:43:00",
-      "tags": [
-        "其他"
-      ],
-      "text": "萬斯：目標是在瑞士建立談判框架。"
-    },
-    {
-      "id": "4945997",
-      "time": "2026-06-21 04:41:42",
-      "tags": [
-        "其他"
-      ],
-      "text": "剛果民主共和國表示，埃博拉確診病例已升至956例，其中包括247例死亡病例。"
-    },
-    {
-      "id": "mkt:019ee6c3-b21a-7dd8-b0a1-ff121fea1279",
-      "time": "2026-06-21 04:40:45",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Iranian negotiating delegation arrives in Switzerland】An Iranian negotiating delegation arrived in Zurich on the 21st (local time)."
-    },
-    {
-      "id": "4945996",
-      "time": "2026-06-21 04:40:31",
-      "tags": [
-        "其他"
-      ],
-      "text": "萬斯：交火行動應當充分停歇，為黎巴嫩停火創造條件。"
-    },
-    {
-      "id": "mkt:019ee6c2-30ed-7dd8-b0a1-f68806a7d2b9",
-      "time": "2026-06-21 04:39:06",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "Iran's negotiating delegation has arrived in Switzerland, Iranian media report."
-    },
-    {
-      "id": "4945995",
-      "time": "2026-06-21 04:38:25",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "伊朗媒體稱伊朗談判代表團已抵達瑞士。"
-    },
-    {
-      "id": "mkt:019ee6c1-7335-7dd8-b0a1-efc594970ebd",
-      "time": "2026-06-21 04:38:18",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Foreign media: U.S. Vice President Vance departs for Switzerland for US-Iran talks】Multiple foreign outlets reported on the 20th that U.S. Vice President Vance has departed for Switzerland to attend talks with Iranian officials."
-    },
-    {
-      "id": "4945994",
-      "time": "2026-06-21 04:36:52",
-      "tags": [
-        "國際"
-      ],
-      "text": "【美副總統萬斯已啟程前往瑞士】當地時間6月20日，美國副總統發言人表示，副總統萬斯已從華盛頓起飛，啟程前往瑞士。（央視新聞）"
     }
   ]
 }
