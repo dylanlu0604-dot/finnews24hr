@@ -1,7 +1,41 @@
 {
-  "updated": "2026-06-27 20:57:55",
-  "count": 18189,
+  "updated": "2026-06-27 21:02:40",
+  "count": 18191,
   "items": [
+    {
+      "id": "4958420",
+      "time": "2026-06-27 21:01:00",
+      "tags": [
+        "國際"
+      ],
+      "text": "真主黨領導人表示，該組織將繼續施壓，直到以色列從黎巴嫩撤軍。"
+    },
+    {
+      "id": "4958419",
+      "time": "2026-06-27 21:00:35",
+      "tags": [
+        "國際"
+      ],
+      "text": "真主黨領導人稱以色列-黎巴嫩框架協議“無效”，須由伊朗-美國備忘錄取代。"
+    },
+    {
+      "id": "4958418",
+      "time": "2026-06-27 20:59:15",
+      "tags": [
+        "國際"
+      ],
+      "text": "歐盟委員會主席馮德萊恩：我歡迎以色列和黎巴嫩達成的協議。這是避免局勢升級的關鍵一步。因為如果黎巴嫩仍深陷戰火，中東就不可能實現和平。感謝美國斡旋。下一步的關鍵步驟是解除非國家武裝團體的武裝，並維護黎巴嫩的主權和領土完整。歐盟隨時準備支援這一通往持久區域穩定的道路，並將繼續提供急需的人道主義援助，目前已調動1億歐元用於援助流離失所者。"
+    },
+    {
+      "id": "mkt:019f0928-a1b8-7dd8-b142-3c763acd83da",
+      "time": "2026-06-27 20:58:05",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "【US may lift restrictions on Anthropic's Fable 5 as soon as next week】Sources told Axios the Trump administration is close to allowing Anthropic to restore access to its Fable 5 model, which has been offline for 15 days amid government security concerns; insiders say restrictions could be lifted as soon as next week and communications are expected to continue over the weekend, with Anthropic expecting access to be restored shortly. On Friday the Commerce Department permitted Anthropic to restore limited access to Mythos 5 for a small number of trusted users. Semafor reported Commerce Secretary Lutnick wrote that Anthropic has cooperated with the US government to address risks related to Mythos 5 and Fable 5, that substantial progress has been made, and that the company has committed to work with the government on agreements, standards and releases."
+    },
     {
       "id": "4958417",
       "time": "2026-06-27 20:55:45",
@@ -166398,25 +166432,6 @@
         "國際"
       ],
       "text": "美國副總統萬斯：威特科夫和庫什納已抵達與伊朗的談判現場。"
-    },
-    {
-      "id": "mkt:019ee51f-db45-7dd8-b09f-262305a858cd",
-      "time": "2026-06-20 21:02:10",
-      "tags": [
-        "MKT News",
-        "Brent",
-        "Impact bullish",
-        "WTI"
-      ],
-      "text": "【UK media: Iran may charge insurance for ships transiting Strait of Hormuz】UK media reported on the 19th that Iran’s Persian Gulf Strait Administration has issued a document requiring all vessels to carry insurance approved by the agency to transit the Strait of Hormuz. The document, circulated among shipping managers and reported by the FT, says “all vessels must hold a valid insurance policy approved by the Persian Gulf Strait Administration”; the cover is currently “free” within the period set out in the US‑Iran memorandum of understanding, but the administration “reserves the right to charge premiums in future.”"
-    },
-    {
-      "id": "4945824",
-      "time": "2026-06-20 20:58:42",
-      "tags": [
-        "國際"
-      ],
-      "text": "【英媒：伊朗或向霍爾木茲海峽通行船隻收“保險費”】英國媒體19日披露，伊朗波斯灣海峽管理局釋出檔案，要求所有船隻必須持有該機構批准的保險，才能透過霍爾木茲海峽。這項保險在美國與伊朗諒解備忘錄所規定的期限內免費，後續可能收費。據英國《金融時報》報道，這份檔案在航運業管理層中傳閱。檔案寫道，“所有船隻必須持有由波斯灣海峽管理局批准的有效保險單”，現階段該保險“不收費”，但管理局“保留今後行使收取保費的權利”。（新華社）"
     }
   ]
 }
