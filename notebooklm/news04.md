@@ -1,7 +1,73 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-06-27 22:49:19_
-_本檔包含 3525 則快訊，約 671482 字_
+_更新時間：2026-06-27 23:40:12_
+_本檔包含 3519 則快訊，約 671725 字_
+
+---
+
+### 2026-06-23 22:52:24  #MKT News
+
+Lebanese presidency said US Vice President Vance, US Secretary of State Rubio and Lebanese President Aoun discussed a proposal to establish a US-Lebanon-Iran ceasefire monitoring mechanism.
+
+---
+
+### 2026-06-23 22:52:20  #公司
+
+【我國短劇行業走向精品化 一季度上線的微短劇95%是AI做的】2026年初，AI短劇爆發，一季度上線微短劇12.8萬部，AI短劇佔比高達95%，事實上，看似降本提速的AI短劇有諸多短板。AI數字人神態僵硬，無法演繹人物層層遞進的複雜情緒；畫面生成隨機性極強，反覆“抽卡”篩選素材拉高成本，成片觀感生硬。從業者表示，AI僅能產出標準化模板，演不出真人表演的層次感。許多短劇製作公司正轉變思路，探索真人實拍為主、AI輔助的新模式：情緒特寫由真人精細拍攝，大場面外景由AI製作，能節省近60%的特效和場地費用。短劇平臺也在主動提高門檻，清理套路化爛劇，發起精品短劇扶持計劃。任何新技術都應該當作“工具”來使用，而不是替代“人類”本身。AI與真人不會是二選一的對立關係，而是各展所長的協作關係。放棄流水線式的快餐內容，深耕有細節、有溫度的精品，才能引發大眾共情，成為大家口口相傳的經典。（央視財經）
+
+---
+
+### 2026-06-23 22:51:56  #其他
+
+【在推動上海（長三角）國際科技創新中心建設中衝在前、打頭陣 陳吉寧調研市科委】上海市委書記陳吉寧今天（6月23日）下午在市科委調研時指出，要深入學習貫徹習近平總書記在加強基礎研究座談會上的重要講話精神，扛起為國擔當、勇為尖兵的重要使命，錨定強化科技創新策源功能核心任務，保持戰略定力和行動敏捷，進一步深化科技體制機制改革，不斷提升原始創新能力，提高創新體系整體效能，在推動上海（長三角）國際科技創新中心建設中衝在前、打頭陣，為科技強國建設作出更大貢獻。（上海釋出）
+
+---
+
+### 2026-06-23 22:51:52  #公司 #觀點
+
+高盛公司將安徽古井貢酒評級上調至買進；高盛公司將今世緣評級上調至買進，目標價31元人民幣。
+
+---
+
+### 2026-06-23 22:51:19  #國際
+
+黎巴嫩總統府：萬斯、魯比奧在與奧恩通話中重申美國支援黎巴嫩國家主權。
+
+---
+
+### 2026-06-23 22:51:07  #MKT News #S&P500 #Impact bullish #DXY #Impact bearish #XAUUSD
+
+Lebanon's presidency said President Aoun spoke by phone with U.S. Vice President Vance and Secretary of State Rubio to discuss a ceasefire.
+
+---
+
+### 2026-06-23 22:51:03  #其他
+
+黎巴嫩總統府：萬斯、魯比奧告知奧恩，美黎伊停火機制的相關安排正處於研究階段。
+
+---
+
+### 2026-06-23 22:50:53  #國際
+
+黎巴嫩總統府：萬斯、魯比奧與奧恩討論美國-黎巴嫩-伊朗停火監督機構提議。
+
+---
+
+### 2026-06-23 22:50:28  #國際
+
+黎巴嫩總統府：黎巴嫩總統奧恩在與美國副總統萬斯、國務卿魯比奧的通話中討論停火問題。
+
+---
+
+### 2026-06-23 22:49:38  #MKT News #Market Regions #Greater China #CNH #Impact bullish #Copper #Hang Seng Index
+
+【Half of newest global lighthouse factories are in China】World Economic Forum added 16 factories to its global lighthouse list; eight are in China. Lu Caiyun, chair of UBS Wealth Management Asia, said UBS is bullish on China’s semiconductor and AI supply chains, citing AI infrastructure build-out, policy support, rising AI capex and chip localization. Paul Gruenwald, chief economist at S&P Global Ratings, said China remains the largest contributor to global growth and has climbed the value chain, notably in clean-energy technologies. Pang Anze, president and chief sustainability officer of IKEA China, said China is the world’s second-largest home-furnishing market and expects gradual growth supported by the 15th Five-Year Plan and consumption measures.
+
+---
+
+### 2026-06-23 22:49:06  #公司
+
+【安德利：收購標的甬強科技市佔率不足1% 但已具備M8級別及以上高速覆銅板產品的研發及生產能力】安德利(605198.SH)回覆上海證券交易所監管工作函，本次收購標的寧波甬強科技有限公司主營通用、高階覆銅板材料，屬於印製電路板（PCB）上游的電子資訊互連材料。標的公司2025年實現營業收入22,401.52萬元，相比行業龍頭企業臺光電子、生益科技等規模較小，市佔率不足1%。但標的公司已具備M8級別及以上高速覆銅板產品的研發及生產能力。標的公司M6-M9等級材料已實現技術產業化並量產（年銷售收入超100萬元），M10等級材料正在下游驗證中。
 
 ---
 
@@ -21182,107 +21248,5 @@ Lucid Group (LCID.O) plans to cut about 18% of its U.S. workforce.
 ### 2026-06-22 21:05:41  #MKT News
 
 Morgan Stanley plans to spend $1.3 billion to acquire an office tower to expand its Dallas operations and expects the building to provide about 4,800 jobs.
-
----
-
-### 2026-06-22 21:05:28  #其他
-
-【我國成功將奈米顆粒編織成三維光熱蒸發材料 實現高效太陽能海水淡化】用高分子把奈米顆粒“鎖釦”起來，讓太陽能海水淡化變得既高效又長壽。據中國科學院過程工程研究所訊息，該所與深圳大學聯合團隊提出一種高分子“鎖釦”機制，成功將奈米顆粒編織成三維光熱蒸發材料，使太陽能海水蒸發速率大幅提升，並透過戶外試驗裝置，實現了從海水淡化到農業灌溉的初步探索。相關研究成果發表在國際學術期刊《先進材料》雜誌。實驗資料顯示，這種結構透過多重散射和吸收，太陽光吸收率達90.2%；同時，奈米限域空間會改變水分子間的氫鍵網路，使蒸發同樣水量所需能量降低45.7%。單根蒸發體在測試中實現了每小時每平方米3.81萬克的蒸發速率，是團隊此前研發二維薄膜的8.5倍。在連續30天的海水加速老化中，沒有奈米顆粒脫落，且材料在光照下不產生活性自由基，解決了有機基底降解難題。據悉，研究團隊目前正繼續最佳化冷凝效率和系統成本，推動這一技術在沿海缺水地區、海島及偏遠地區規模化落地，讓陽光海水早日變成惠及百姓的安全淡水。（科技日報）
-
----
-
-### 2026-06-22 21:05:21  #公司
-
-Meta Platforms(META.O)任命CRED公司的KUNAL SHAH為WhatsApp新任負責人。
-
----
-
-### 2026-06-22 21:05:18  #焦點 #國際
-
-【美軍稱霍爾木茲海峽保持開放】當地時間6月22日，美國軍方表示，霍爾木茲海峽目前仍保持開放通行狀態。美軍中央司令部發言人蒂姆·霍金斯表示：“伊朗並未控制霍爾木茲海峽。通航仍在繼續，美軍正在監控局勢，以確保這一情況持續。”霍金斯稱，美軍在該地區的兵力部署沒有出現明顯減少或重新部署，但指揮官正持續評估局勢變化。伊朗方面此前表示，所有商船在透過該海峽時需與其有關部門協調，但在雙方上週簽署的為期60天諒解備忘錄框架內，不會向船隻收取費用。（央視新聞）
-
----
-
-### 2026-06-22 21:04:58  #MKT News #Macro & Rates #Market Regions #Europe & UK #EURUSD #Impact bullish #DXY #Impact bearish
-
-ECB President Lagarde said she is confident inflation will return to target through appropriate monetary policy measures.
-
----
-
-### 2026-06-22 21:04:52  #觀點
-
-市場訊息：摩根士丹利(MS.N)計劃斥資13億美元購置一棟摩天大樓，以拓展達拉斯業務，預計新大樓將提供4,800個就業崗位。
-
----
-
-### 2026-06-22 21:04:37  #MKT News #Macro & Rates #EURUSD #Impact bearish #DXY #Impact bullish #XAUUSD
-
-ECB President Lagarde said there is currently no evidence that de-anchoring or second-round effects require stronger policy action.
-
----
-
-### 2026-06-22 21:04:31  #央行 #國際
-
-美聯儲理事沃勒在發言中未對經濟或貨幣政策前景發表評論。
-
----
-
-### 2026-06-22 21:04:28  #MKT News #DXY #Impact bullish #EURUSD #Impact bearish #XAUUSD
-
-ECB President Lagarde said the Iran war is weighing on economic activity; data show a slowdown, particularly in the services sector.
-
----
-
-### 2026-06-22 21:04:20  #MKT News #Macro & Rates #The Fed (FOMC)
-
-Fed Governor Waller did not comment on the economic or monetary policy outlook in his remarks.
-
----
-
-### 2026-06-22 21:04:04  #MKT News #EURUSD #Impact mixed #DXY
-
-ECB President LAGARDE: Outlook uncertain; upside risks to inf and downside risks to economic growth coexist.
-
----
-
-### 2026-06-22 21:03:50  #MKT News #DAX #Impact bearish #EURUSD #XAUUSD #Impact bullish
-
-German Bunds extended gains; 2-year Bund yield fell 5 bps to 2.59%.
-
----
-
-### 2026-06-22 21:03:40  #其他
-
-市場訊息：聯合包裹將投資 4800 萬美元建設溫控倉儲設施。
-
----
-
-### 2026-06-22 21:03:32  #MKT News #Star Stocks #Meta Platforms #Market Themes #Magnificent 7 #META.O
-
-Meta Platforms (META.O) appointed Kunal Shah of CRED as the new head of WhatsApp.
-
----
-
-### 2026-06-22 21:03:18  #市場
-
-德國國債延續漲勢；2年期國債收益率下跌5個基點至2.59%。
-
----
-
-### 2026-06-22 21:03:06  #其他
-
-【1至5月陝西煤炭產量3.19億噸 同比增長3.8%】據陝西省煤炭工業協會統計資料，今年1-5月，陝西全省煤炭產量31883.7萬噸，同比增長3.8%，佔全國煤炭產量的16.1%。同期，煤炭銷量28527.42萬噸，同比增長3.12%。5月份來看，陝西省共有225處礦井組織生產，生產煤炭6344.98萬噸；銷售煤炭6209.82萬噸。
-
----
-
-### 2026-06-22 21:02:58  #市場
-
-美光科技與ANTHROPIC達成戰略合作協議，股價上漲至5.5%。
-
----
-
-### 2026-06-22 21:02:56  #MKT News #Market Themes #AI Revolution #MU.O #Impact bullish
-
-Micron Technology (MU.O) has reached an agreement with Anthropic to accelerate scaling of next‑generation artificial intelligence.
 
 ---

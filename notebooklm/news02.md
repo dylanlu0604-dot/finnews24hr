@@ -1,7 +1,133 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-06-27 22:49:19_
-_本檔包含 3782 則快訊，約 671306 字_
+_更新時間：2026-06-27 23:40:12_
+_本檔包含 3793 則快訊，約 671637 字_
+
+---
+
+### 2026-06-26 07:33:57  #MKT News
+
+South Korea's finance minister said he will strive to keep inf below 3% in H2.
+
+---
+
+### 2026-06-26 07:33:27  #MKT News #Market Regions #Japan & APAC #USDJPY #Impact bullish
+
+Japan's Tokyo CPI (not seasonally adjusted) was 0.0% MoM in June; May +0.3%.
+
+---
+
+### 2026-06-26 07:33:16  #其他
+
+紐約市租金規範委員會投票決定，租金管制單元的租金漲幅為0%。
+
+---
+
+### 2026-06-26 07:33:15  #MKT News #Economic Calendar #Important
+
+Japan | Tokyo CPI (MoM) (Jun) | actual 0% | previous 0.3%
+
+---
+
+### 2026-06-26 07:32:37  #市場
+
+日經指數期貨在新加坡交易所開盤下跌805點，報71595點。
+
+---
+
+### 2026-06-26 07:32:21  #其他
+
+野村證券與CIRCLE簽署數字金融合作協議。
+
+---
+
+### 2026-06-26 07:32:07  #宏觀 #國際
+
+韓國企劃財政部長官：將努力使下半年通脹率保持在3%以下。
+
+---
+
+### 2026-06-26 07:31:26  #其他
+
+【上海：面向全體60歲以上老人開放陪診服務】近日上海市民政局會同市衛健委、市人社局、市消保委等單位，印發關於全面推進老年助醫陪診服務的方案。針對老年朋友和家屬關心的陪診服務內容、收費標準、機構甄別及從業門檻等問題，上海市民政局結合方案作出詳細解答。據悉，老年助醫陪診服務面向60週歲以上老年人，服務規範、培訓要求均貼合老年人需求，且對戶籍沒有限制，外地來滬老年人也可購買。服務內容包括但不限於陪同老人前往醫療機構，陪同或代辦就醫流程，協助醫患溝通、心理慰藉，依醫囑提醒用藥等。方案明確要求陪診服務機構合理定價，服務內容、收費專案和標準須在場所醒目位置公示，明碼標價。對低保、低收入等困難老年人，支援各區將陪診服務納入養老服務補貼範圍，或透過公益慈善資源提供資助。（新華社）
+
+---
+
+### 2026-06-26 07:30:59  #公司 #市場
+
+【上半年港股IPO募資超2000億港元 有望創下近年最佳表現】6月港股IPO市場再度升溫。僅6月22日至30日短短數日間，便將有17家企業密集掛牌。Wind資料顯示，2026年上半年港股市場將有共計84家公司完成IPO，合計募資規模突破2000億港元。在多位分析人士看來，2026年港股IPO不僅實現數量躍升，結構性質量亦顯著改善，AI、半導體等科技類標的成為絕對主力，但由此也引發了市場資金的“抱團”效應。展望全年，不少機構預計港股IPO市場有望創下近年來最佳成績。
+
+---
+
+### 2026-06-26 07:30:56  #經濟數據 #日本
+
+日本東京6月份整體消費物價同比增長1.7%。
+
+---
+
+### 2026-06-26 07:30:42  #MKT News #USDJPY #Impact bearish #DXY
+
+Tokyo CPI YoY June 1.7% vs 1.6% expected; prior 1.4%.
+
+---
+
+### 2026-06-26 07:30:35  #MKT News #Market Regions #Japan & APAC #USDJPY
+
+Japan Tokyo core CPI (June) YoY 1.6% vs 1.60% expected; prior 1.3%.
+
+---
+
+### 2026-06-26 07:30:34  #MKT News #Economic Calendar #Important
+
+Japan | Tokyo CPI (YoY) (Jun) | actual 1.7% | consensus 1.60% | previous 1.40%
+
+---
+
+### 2026-06-26 07:30:27  #MKT News #Economic Calendar #Important
+
+Japan | Tokyo core CPI (YoY) (Jun) | actual 1.6% | consensus 1.60% | previous 1.30%
+
+---
+
+### 2026-06-26 07:30:17  #資料 #國際
+
+日本6月東京CPI(除生鮮食品及能源)同比 1.9%，預期 1.8%，前值 1.6%。
+
+---
+
+### 2026-06-26 07:30:14  #資料 #國際
+
+日本6月東京CPI同比 1.7%，預期 1.6%，前值 1.4%。
+
+---
+
+### 2026-06-26 07:30:11  #資料 #國際
+
+日本6月東京CPI(除生鮮食品)同比 1.6%，預期 1.6%，前值 1.3%。
+
+---
+
+### 2026-06-26 07:30:07  #其他
+
+東京6月份整體消費物價同比增長1.7%。
+
+---
+
+### 2026-06-26 07:30:00  #市場
+
+【豬肉價格持續走低 四季度或企穩回升】受傳統消費淡季來臨等因素影響，豬肉價格再創新低。中國養豬網監測資料顯示，6月25日，生豬（外三元）價格報9.51元/公斤，較前一日繼續下跌，創下近兩個月來價格新低；生豬（內三元）價格報9.82元/公斤，較前一日略微上漲0.09元，但整體價位仍處在近兩個月的低位。國家發展改革委國家資訊中心經濟預測部研究員尹偉華表示，從生豬繁育傳導週期看，能繁母豬存欄變化傳導至商品豬出欄約需10個月時間。結合能繁母豬去化進度和消費季節性特徵，預判豬價短期仍將底部震盪，趨勢性企穩回升可能出現在四季度。（證券日報）
+
+---
+
+### 2026-06-26 07:28:43  #公司
+
+【極兔速遞-W：擬以不超過20億港元回購公司股份】極兔速遞-W公告，董事會批准一項建議公開市場股份購回計劃，擬在公開市場購回B類股份，資金上限不超過20億港元，可購回股份總數不超過9.67億股B類股份（約佔股東周年大會當日已發行股份總數的10%）。回購資金來源為公司現有可用現金儲備及自由現金流量。董事會認為B類股份交易價格低估了集團業績及內在價值，回購計劃將為股東創造資本管理效益。
+
+---
+
+### 2026-06-26 07:26:59  #其他
+
+【經濟日報金觀平：用好增量空間促進青年就業】當前，新質生產力蓬勃發展、產業迭代升級加快，青年就業還有不少增量空間可挖。用好新質生產力發展開闢的就業空間。當前，以人工智慧、新能源、低空經濟、積體電路等為代表的產業叢集迎來爆發式增長，持續釋放多層次、高附加值技術崗位，崗位人才需求量急劇攀升。高校可緊跟產業動態增設前沿專業，深化校企共建實訓基地，推行企業雙導師教學，補齊學生實操短板。各地人社部門同步開設新興產業專項技能培訓，搭建企業校園專場招聘，引導理工科、交叉學科畢業生精準入局，同時鼓勵學生參與科創專案、產業實習，提前適配崗位要求，緩解新興領域人才供需錯配難題。在鄉村全面振興和新型城鎮化背景下，基層成為廣大青年施展才乾的重要舞臺，“三支一扶”“西部計劃”等基層專案以及黨政機關、事業單位的招錄規模保持穩定並適度擴大。可引導青年積極投身縣域產業、鄉村電商、現代農業，藉助基層實踐積累經驗，挖掘多元穩定的就業出路。
 
 ---
 
@@ -22765,65 +22891,5 @@ Argentina Current Account Deficit Narrows — Argentina posted a current account
 ### 2026-06-25 03:54:01  #市場
 
 【比特幣再次跌破6萬美元關口 幾大支撐力量均現動搖】比特幣跌回6萬美元下方，重新喚起了過去兩年在加密貨幣市場基本上消失的一種擔憂：當散戶投資者失去興趣的時候，如果市場最大買家也受到壓力，會發生什麼。由於投資者對Michael Saylor旗下Strategy Inc.的融資機器日益擔憂，以及個人投資者更廣泛退場——其中許多人已將注意力和資金轉向人工智慧股票，週三比特幣跌破了一個受到密切關注的支撐位。“市場正在對MSTR和STRC進行整個的重新定價，”Monarq Asset Management管理合夥人Shiliang Tang表示。MSTR和STRC分別是Strategy普通股和優先股的股票程式碼。CoinGlass彙編的資料顯示，過去24小時，近8億美元加密貨幣多頭頭寸被強制平倉。Deribit資料顯示，這輪下跌發生在週五約100億美元比特幣期權的季度到期之前。
-
----
-
-### 2026-06-25 03:53:40  #MKT News #Copper
-
-Chile's state miner Codelco said its chairman said the company will begin evaluating investment projects and determine their priority.
-
----
-
-### 2026-06-25 03:53:16  #MKT News
-
-A U.S. judge dismissed the Justice Department's lawsuit challenging sanctuary immigration policies in four New Jersey cities.
-
----
-
-### 2026-06-25 03:52:26  #MKT News
-
-【Iran says US officials' comments on MoU are 'contradictory'】On the 24th, Iran's foreign ministry spokesman Baghaei said on social media that US officials have never shown sincerity toward the Iranian people and that their comments on the memorandum of understanding are 'contradictory'. He said such remarks will not lessen Iranian public distrust and instead recall past US breaches of commitment. Baghaei urged the US to recognise the principle of 'reciprocal commitments', fulfil its obligations and refrain from interpreting the MoU in ways that contradict its text.
-
----
-
-### 2026-06-25 03:52:16  #國際
-
-【伊朗指責美官員涉諒解備忘錄宣告“相互矛盾”】當地時間24日，伊朗外交部發言人巴加埃在其個人社交媒體表示，美國政府在對待伊朗人民的行為上從未展現出誠意。巴加埃表示，美國官員關於該諒解備忘錄相互矛盾的言論，不僅不會減少伊朗民眾積累的不信任，反而只會讓人想起美國曾屢屢違約的記憶。美國政府必須認識到，“承諾對等”原則要求雙方履行各自義務，並避免對諒解備忘錄文字作出與其明確內容完全相悖的解釋。他表示，伊朗雖然有足夠的理由來懷疑，但卻仍帶著善意加入外交程序，並簽署了結束強加戰爭的諒解備忘錄。伊朗人清楚，敵人的敵意不會因為一份協議的簽署而結束，考慮到過去50年的經驗——特別是過去一年半的局勢發展，伊朗將保持警惕地走每一步。（央視新聞）
-
----
-
-### 2026-06-25 03:52:01  #國際
-
-美國國務卿魯比奧與德國外長舉行會談，討論了伊朗和霍爾木茲海峽。
-
----
-
-### 2026-06-25 03:51:31  #Trading Economics #Markets #United States #stocks #Importance 1
-
-Microsoft Stock Price Hits 10-week Low — Microsoft shares decreased to 367.06 USD, the lowest since April 2026. Over the past 4 weeks, Microsoft lost 11.69%, and in the last 12 months, it decreased 25.37%.
-
----
-
-### 2026-06-25 03:50:06  #MKT News #Important #Macro & Rates #The Fed (FOMC) #Market Regions #Japan & APAC #S&P500 #Impact mixed #USDJPY
-
-Federal Reserve to release annual bank stress test results in ten minutes; Bank of Japan Governor UEDA to attend an event in ten minutes.
-
----
-
-### 2026-06-25 03:49:29  #MKT News
-
-According to The Information, General Atlantic is in talks to lead a financing round for SambaNova that would exceed $1bln and could close as early as next week.
-
----
-
-### 2026-06-25 03:48:59  #市場
-
-Cerebras Systems跌幅擴大至19%，跌破IPO發行價。
-
----
-
-### 2026-06-25 03:48:12  #MKT News #Market Themes #AI Revolution
-
-Intel-backed AI chipmaker SambaNova is targeting a $10 billion valuation — a fivefold increase — and plans to raise $800m–$1bn, The Information reports.
 
 ---
