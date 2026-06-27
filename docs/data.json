@@ -1,7 +1,23 @@
 {
-  "updated": "2026-06-27 20:49:44",
-  "count": 18192,
+  "updated": "2026-06-27 20:53:45",
+  "count": 18190,
   "items": [
+    {
+      "id": "4958416",
+      "time": "2026-06-27 20:50:55",
+      "tags": [
+        "其他"
+      ],
+      "text": "【中非共和國暴發霍亂疫情 已致24人死亡】中非共和國衛生和人口部26日晚宣佈，該國西南部賓博和姆拜基地區暴發霍亂疫情。自本月中旬出現疑似病例以來，目前已累計報告197例病例，其中24人死亡。"
+    },
+    {
+      "id": "4958415",
+      "time": "2026-06-27 20:49:23",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：特朗普政府據悉接近允許Anthropic恢復對其強大Fable 5模型的訪問許可權 。"
+    },
     {
       "id": "mkt:019f0919-d53f-7dd8-b142-332d5502a7e8",
       "time": "2026-06-27 20:41:55",
@@ -166407,42 +166423,6 @@
         "國際"
       ],
       "text": "伊拉克官員在伊朗會見巴基斯坦內政部長。"
-    },
-    {
-      "id": "mkt:019ee515-7bcb-7dd8-b09f-181eba103a20",
-      "time": "2026-06-20 20:50:50",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Israel's ambassador to the United States said Israel seeks peaceful coexistence with neighboring states within secure, recognized borders."
-    },
-    {
-      "id": "mkt:019ee515-7a2b-7dd8-b09f-14a1b08d7745",
-      "time": "2026-06-20 20:50:50",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "DXY",
-        "WTI"
-      ],
-      "text": "Israel's ambassador to the US said HEZBOLLAH violated the ceasefire and that Iran is using HEZBOLLAH to extract concessions."
-    },
-    {
-      "id": "mkt:019ee515-3d9f-7dd8-b09f-09e8864567d9",
-      "time": "2026-06-20 20:50:34",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Iran's foreign minister met visiting Pakistani interior minister, Iran's SNN news agency reported."
-    },
-    {
-      "id": "4945821",
-      "time": "2026-06-20 20:50:25",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗外長阿拉格齊會見了來訪的巴基斯坦內政部長。"
     }
   ]
 }
