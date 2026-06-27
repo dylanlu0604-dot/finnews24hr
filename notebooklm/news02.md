@@ -1,7 +1,178 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-06-27 20:11:16_
-_本檔包含 3811 則快訊，約 672657 字_
+_更新時間：2026-06-27 21:11:05_
+_本檔包含 3814 則快訊，約 672914 字_
+
+---
+
+### 2026-06-26 06:50:21  #MKT News #Important
+
+Market sources say Samsung Electronics may build a new chip fab in South Korea, with investment of up to 300 trillion won.
+
+---
+
+### 2026-06-26 06:49:24  #MKT News #Important
+
+Market sources say Samsung Group will invest KRW 1,000 trillion in South Korea over the next 10 years.
+
+---
+
+### 2026-06-26 06:48:27  #公司 #焦點 #國際
+
+市場訊息：三星電子擬在韓國新建晶片工廠，投資規模或達 300 萬億韓元。 未來十年將在韓國投資 1000 萬億韓元。
+
+---
+
+### 2026-06-26 06:46:44  #MKT News
+
+Starlink is working to rapidly deploy terminals to restore connectivity in Venezuela's worst-hit areas. Starlink will provide free service to new and existing customers affected by the Venezuela earthquake through July 25.
+
+---
+
+### 2026-06-26 06:45:31  #公司 #國際
+
+【“不可接受”！蘋果商店下架多款俄羅斯應用程式，克宮要求作出解釋】據路透社報道，在俄羅斯網際網路公司VK旗下多款應用程式被美國蘋果公司的應用商店（App Store）下架後，克里姆林宮25日要求蘋果公司作出解釋。報道稱，VK公司在一份宣告中表示，該公司從未受到美國製裁，但其應用程式卻“在沒有收到任何警告或解釋的情況下”被下架。“我們認為蘋果公司這些針對俄羅斯使用者的行為完全不合理且不可接受。”克里姆林宮發言人佩斯科夫表示，俄羅斯有關機構將直接與蘋果公司交涉此事，並要求其作出解釋。佩斯科夫還稱，如果沒有得到合理解釋，俄方將需要據此決定是否繼續與該公司合作。（環球網）
+
+---
+
+### 2026-06-26 06:45:11  #其他
+
+星鏈：針對委內瑞拉地震受災民眾，星鏈為新老使用者提供免費服務，有效期至 7 月 25 日。
+
+---
+
+### 2026-06-26 06:45:02  #Trading Economics #Markets #Crypto #Importance 1
+
+Crypto Updates: Ether Depreciates by 3.18% — Top crypto losers are Ether (-3.18%) and Bitcoin (-2.12%).
+
+---
+
+### 2026-06-26 06:44:55  #其他
+
+星鏈針對委內瑞拉災情表態：正加急部署星鏈終端裝置，為重災區恢復網路通訊。
+
+---
+
+### 2026-06-26 06:44:17  #公司 #資料 #央行 #國際
+
+【週五重要財經資訊提醒（以下均為北京時間）】
+① 07:30 日本6月東京CPI；
+② 時間待定 中國（深圳）積體電路峰會；芯碁微裝、聖邦股份香港IPO，股票預計6月26日開始交易；
+③ 20:30 美國5月商品貿易帳，零售庫存；批發庫存初值；
+④ 22:00 美國6月密歇根大學消費者信心指數終值；
+⑤ 23:30 美國明尼阿波利斯聯儲主席卡什卡利（Neel Kashkari）講話；
+⑥ 週六09:30 中國5月規模以上工業企業利潤；
+⑦ 週六21:45 歐洲央行執委Schnabel參與一場討論；
+⑧ 週日20:15 澳洲聯儲主席Bullock在瑞士講話；
+⑨ 下週一00:35 美國里士滿聯儲主席Barkin（2027年FOMC票委）講話。
+
+---
+
+### 2026-06-26 06:40:27  #其他
+
+必和必拓：拆分美洲業務板塊，分設北美區總裁、南美區總裁。
+
+---
+
+### 2026-06-26 06:40:10  #MKT News
+
+The US issued a general license for Venezuela authorizing transactions related to earthquake relief.
+
+---
+
+### 2026-06-26 06:40:02  #Trading Economics #Markets #Commodity #Importance 1
+
+Agricultural Commodities Updates: Cocoa Rises by 4.96% — Top commodity gainers are Cocoa (4.96%), Soybeans (1.98%) and Corn (1.90%). Biggest losers are Oat (-3.18%) and Wool (-2.31%).
+
+---
+
+### 2026-06-26 06:38:04  #國際
+
+美國發布針對委內瑞拉通用許可，允許開展與地震救災相關的交易活動。
+
+---
+
+### 2026-06-26 06:35:02  #Trading Economics #Markets #Commodity #Importance 1
+
+Metals Commodities Updates: Copper Gains by 1.86% — Top commodity gainers are Copper (1.86%), Platinum (1.33%) and Gold (0.73%). Biggest losers are Iron Ore CNY (-1.21%), Steel Rebar (-0.78%) and Silicon (-0.66%).
+
+---
+
+### 2026-06-26 06:30:02  #Trading Economics #Markets #Commodity #Importance 1
+
+Energy Commodities Updates: Gasoline Rises by 4.13% — Top commodity gainers are Gasoline (4.13%), Heating Oil (3.31%), Propane (2.75%), Crude Oil WTI (1.48%) and Brent Crude Oil (1.23%). Biggest losers are Methanol (-2.44%), Germany Natural Gas THE (-1.32%) and Liquefied Natural Gas Japan Korea (-1.06%).
+
+---
+
+### 2026-06-26 06:25:30  #公司 #觀點
+
+【同仁堂醫養香港上市擬籌資不超過6.716億港元】根據呈交香港交易所的公告，北京同仁堂醫養投資股份有限公司在香港發售1.08億股股份，發售價區間為每股5.48港元至6.21港元。計算顯示，該公司預計將籌資不超過6.716億港元。預計7月7日上市交易，中金公司是獨家保薦人。
+
+---
+
+### 2026-06-26 06:23:34  #央行 #市場
+
+【資金面緊張情緒緩解，債市全線走強】6月25日，在資金面緊張情緒明顯緩解的帶動下，債市全線走強。市場人士認為，央行近期釋放出穩定跨季流動性的訊號，疊加銀行融出規模回升，市場對資金面的擔憂有所降溫。不過，債市已較為充分反映基本面和資金面寬鬆預期，後續修復仍待增量資訊。（上證報）
+
+---
+
+### 2026-06-26 06:23:16  #其他
+
+【加碼國際業務 券商競逐業績新增長極 】中資券商出海明顯換擋提速，資本注入從“零星試探”變成“集中加碼”。據不完全統計，2026年以來，至少已有7家上市券商披露海外業務佈局進展。在具體業務拓展中，券商海外業務已從單一的經紀業務服務走向FICC、資管、衍生品等綜合服務。在業內人士看來，隨著資本金陸續到位、業務逐步落地，國際業務對券商的利潤貢獻還有進一步抬升空間，頭部券商有望在國際化佈局中保持行業競爭優勢。（中證報）
+
+---
+
+### 2026-06-26 06:22:41  #公司
+
+極兔速遞：回購授權允許回購最多 10% 已發行股份，本次股份回購計劃資金上限設定為 20 億港元。
+
+---
+
+### 2026-06-26 06:21:37  #公司 #市場 #央行 #國際
+
+【隔夜逆回購月底“首秀”，短端利率調控再添新工具】中國人民銀行6月25日公告，將在6月29日、6月30日公開市場操作中增加隔夜逆回購操作品種，隔夜逆回購操作採用固定利率、數量招標。與歐洲央行等類似，目前我國央行公開市場主力操作品種是7天期逆回購。7天期逆回購操作有效維護了短端利率平穩。強化隔夜利率調控，更符合我國銀行間市場的交易結構。國盛證券首席經濟學家熊園表示，隔夜品種是銀行間市場流動性交易最集中的期限，成交規模和市場活躍度均明顯高於7天期品種，因此其價格變化更能反映銀行體系短期流動性的邊際鬆緊。當前，短端市場利率已回升至政策利率附近。展望下一階段的流動性狀況，東方金誠首席宏觀分析師王青判斷，在央行啟動隔夜逆回購背景下，月底前央行公開市場操作有望處於較大規模的淨投放狀態，市場利率持續向上大幅偏離政策利率的可能性不大。（上證報）
+
+---
+
+### 2026-06-26 06:21:27  #市場
+
+【多因素共振 券商板塊再現強勢上漲 】在經歷週一的強勢大漲後，6月25日，A股券商板塊再度上攻，其自6月9日以來的這輪反彈行情，累計漲幅已超過15%。業內人士表示，行業業績增長預期強化、政策訊號密集釋出以及板塊估值處於低位或是此輪券商板塊上漲的主要因素。此外，近期市場風格的再平衡一定程度上也提升了市場對券商板塊投資價效比的關注度。從更長期視角看，低利率背景帶來的財富管理發展歷史性機遇等敘事邏輯有望驅動券商板塊實現估值重塑，綜合實力領先的頭部券商更加值得關注。（中證報）
+
+---
+
+### 2026-06-26 06:20:07  #MKT News #Important #Macro & Rates #The Fed (FOMC)
+
+2027 FOMC voting member and Chicago Fed President Austan Goolsbee to speak in 10 minutes.
+
+---
+
+### 2026-06-26 06:18:42  #MKT News #09999.HK #Impact bullish
+
+NetEase-S (09999.HK) has chosen to become a dual primary-listed company on HKEX, effective June 30, 2026; the "S" marker will be removed from its Hong Kong stock short name on the effective date.
+
+---
+
+### 2026-06-26 06:18:32  #央行 #公司
+
+【上證報：利率調控短端化的三重考量】我國利率調控正呈現短端化趨勢。2026年6月25日，央行釋出公告，將在6月29日、30日公開市場操作中增加隔夜逆回購操作品種，短端利率調控機制進一步完善。專家認為，利率調控短端化，或包含三重核心考量：一是適配重塑中的金融結構。二是穩定金融市場執行與金融產品估值。三是精準契合貨幣政策調控轉型方向。有機構判斷，隔夜（逆）回購利率可能成為我國的新政策利率。不過，有業內人士判斷，未來即使政策利率切換至隔夜逆回購利率，也將經歷一個平穩過渡、循序漸進的過程，需要先理順各期限工具利差、切換金融產品等利率基準錨點。
+
+---
+
+### 2026-06-26 06:16:49  #其他
+
+網易：獲選定為港交所雙重主要上市企業，6 月 30 日生效。
+
+---
+
+### 2026-06-26 06:15:02  #Trading Economics #Markets #Currency #Importance 1
+
+FX Updates: Brazilian Real Appreciates by 0.65% — Top currency gainers are Brazilian Real (0.65%), Mexican Peso (0.58%), Swiss Franc (0.25%), British Pound (0.20%) and Euro (0.12%). Biggest losers are Indian Rupee (-0.34%) and Dollar Index (-0.16%).
+
+---
+
+### 2026-06-26 06:14:27  #央行 #公司
+
+【隔夜逆回購操作在即 央行多維發力呵護年中流動性】中國人民銀行6月25日釋出公告稱，將在6月29日、6月30日公開市場操作中增加隔夜逆回購操作品種。同日，央行開展5000億元MLF操作與3705億元7天期逆回購操作，實現淨投放3225億元。專家表示，增加隔夜逆回購操作品種以及淨投放7天期逆回購，將有助於更好匹配銀行體系短期流動性需求。同時，加量續做當月MLF將有效滿足金融機構較長期限資金需求，支援政府債券順利發行及銀行加大信貸投放力度。（中證報）
 
 ---
 
@@ -22829,149 +23000,5 @@ Qualcomm's data-center chief said the company plans to launch a data-center CPU 
 ### 2026-06-25 02:36:10  #MKT News #Market Themes #The Trump Trade
 
 【Sources: U.S. to press ahead with sale of jet engines to Turkey before NATO summit】Four people said on Wednesday that despite opposition from some U.S. lawmakers the Trump administration plans to move forward with a sale of dozens of jet engines to Turkey worth several hundred million dollars. The deal, seen as a goodwill gesture ahead of next month’s NATO summit in Turkey, involves GE-made engines intended for Turkey’s first indigenous fighter, KAAN, a program launched in 2016 as part of Ankara’s drive for defense autonomy. One source said the transaction would exceed $700m.
-
----
-
-### 2026-06-25 02:35:40  #MKT News #WTI #Impact bullish #Brent #XAUUSD
-
-【Netanyahu says IDF will not withdraw from south Lebanon 'security zone' while he remains prime minister】On the 24th local time, speaking at a meeting of Israel's Union of Local Authorities, Prime Minister Netanyahu said the IDF will not withdraw from the 'security zone' in southern Lebanon while he remains in office and will maintain it indefinitely. He said he will never allow Iran to acquire nuclear weapons. Netanyahu added that Hezbollah remains active, but the IDF has established the 'security zone' in south Lebanon, is systematically destroying its underground infrastructure and is cutting its ability to cross into the Galilee.
-
----
-
-### 2026-06-25 02:35:12  #國際
-
-【內塔尼亞胡稱只要其在任以軍就不會撤出黎南部“安全區”】當地時間24日，以色列總理內塔尼亞胡在以色列地方政府聯合會上發表講話，談及以軍在多個方向的軍事行動與安全政策。他強調，只要其擔任總理，以軍就不會撤出黎巴嫩南部“安全區”，且決不容許伊朗擁有核武器。內塔尼亞胡表示，雖然黎真主黨依然存在，但以軍已在黎南部建立起“安全區”，正在全面摧毀其地下基礎設施，切斷其越境進入加利利地區的可能。他強調，只要他在任，以軍就將無限期維持該“安全區”。（央視新聞）
-
----
-
-### 2026-06-25 02:34:18  #國際
-
-美國證券交易委員會任命凱瑟琳・哈欽森為國際事務辦公室主任。
-
----
-
-### 2026-06-25 02:34:14  #MKT News #Important #Macro & Rates #The Fed (FOMC) #Commodities #Precious Metals #XAUUSD #Impact bearish #DXY #Impact bullish
-
-【Gold falls below $4,000 as dollar strength and Fed rate-hike expectations weigh】Gold extended the previous session’s decline as the dollar strengthened and markets increasingly priced in a Fed rate hike later this year. New York gold futures fell 3.4% to $3,990.30/oz, the weakest close since November. Other precious metals also slipped. The dollar rose against a basket of currencies, making dollar-priced commodities more expensive for overseas buyers.
-
----
-
-### 2026-06-25 02:31:35  #MKT News #Commodities #Precious Metals #Energy #XAUUSD #Impact bearish #WTI
-
-【Night session main contracts close lower】At the 02:30 Beijing time close, Shanghai gold front-month contract fell 2.45% to 875 yuan/gram; Shanghai silver front-month contract fell 6.31% to 13,956 yuan/kg; SC crude oil front-month contract fell 3.78% to 471 yuan/barrel.
-
----
-
-### 2026-06-25 02:31:17  #MKT News #Commodities #Precious Metals #XAUUSD #Impact bearish
-
-Shanghai Gold Exchange gold T+D closed down 2.18% at 873.16 yuan/gram in the evening session on June 24 (Wednesday). Shanghai Gold Exchange silver T+D closed down 5.77% at 13,969.0 yuan/kg.
-
----
-
-### 2026-06-25 02:31:04  #市場 #國際
-
-美國原油期貨收於每桶70.34美元，下跌2.87美元，跌幅3.92%。
-
----
-
-### 2026-06-25 02:30:11  #公司
-
-伊維爾德羅拉公司：該專案計劃於2027年投產運營。
-
----
-
-### 2026-06-25 02:30:07  #公司 #國際
-
-伊維爾德羅拉公司：伊維爾德羅拉將在美國建設其首個大規模儲能電池專案。
-
----
-
-### 2026-06-25 02:30:06  #Trading Economics #Markets #Crypto #Importance 1
-
-Crypto Updates: Ether Slumps by 5.30% — Top crypto losers are Ether (-5.30%), Bitcoin (-4.80%) and Binance (-3.97%).
-
----
-
-### 2026-06-25 02:30:05  #MKT News #Market Themes #AI Revolution #Magnificent 7 #Star Stocks #Alphabet #GOOGL.O #Impact bearish
-
-【Two senior Google AI researchers expected to join Anthropic】Two leading AI researchers at Alphabet's Google plan to leave to join competitor Anthropic, people familiar with the matter said. Jonas Adler and Alexander Pritzel, both seen internally as key contributors to Google's GEMINI model, are expected to move to Anthropic. Adler worked on the company's AI programming projects; Pritzel worked on training AI systems. The moves add to a series of high-profile departures and could weaken Google's position in AI.
-
----
-
-### 2026-06-25 02:30:02  #市場
-
-上期所原油期貨夜盤收跌3.78%，報470.60元人民幣/桶。滬金夜盤收跌2.45%，滬銀收跌6.31%。
-
----
-
-### 2026-06-25 02:29:48  #央行 #宏觀 #市場 #國際
-
-【俄羅斯金融市場重挫 油價下跌與央行偏鷹立場打擊投資者信心】俄羅斯金融市場重挫，油價下跌以及烏克蘭襲擊、俄羅斯央行的偏鷹立場令投資者感到不安，早已因衝突承壓的俄羅斯經濟面臨更大困境。俄羅斯股市基準指數MOEX本週跌至三年多來的最低點。此前，俄羅斯央行將降息幅度縮減至僅僅25個基點，並暗示進一步放鬆貨幣政策的空間已經不大。聖彼得堡銀行的分析師在一份報告中寫道：“地緣政治局勢演變與俄羅斯央行鷹派立場形成的完美風暴，引發了全面的避險情緒，迫使投資者解除槓桿頭寸。”此前，在伊朗與美國同意停止敵對行動並重新開放霍爾木茲海峽後，原油價格下跌，這一情況已對俄羅斯股市構成壓力。而烏克蘭對俄羅斯腹地石油基礎設施的襲擊，也進一步打擊了投資者信心。
-
----
-
-### 2026-06-25 02:29:02  #國際
-
-受燃油短缺加劇影響，俄羅斯已與哈薩克接洽，擬供應約5萬噸92號汽油。受煉油廠生產中斷影響，俄羅斯汽油產量較去年下降約四分之一。
-
----
-
-### 2026-06-25 02:28:14  #MKT News
-
-According to Punchbowl, a Republican senator called Trump's meeting "more like a venting session by the president."
-
----
-
-### 2026-06-25 02:28:13  #市場
-
-隨著成交量放大，Alphabet股價小幅回落，最新下跌約0.1%，報345.89美元。
-
----
-
-### 2026-06-25 02:27:25  #MKT News
-
-Market sources: President Trump spent roughly 90% of a lunch with Republican lawmakers criticizing Lisa Murkowski, Bill Cassidy and Mitch McConnell as RINOs.
-
----
-
-### 2026-06-25 02:26:22  #國際
-
-【特朗普正與參議院共和黨議員爆發一場公開激烈對峙】美國參議院共和黨人遲遲未能透過《拯救美國法案》，這令特朗普頗為惱火；而黨內不少議員如今也對他心生不滿——由於該法案推進陷入停滯，特朗普取消了原定今日舉行的法案簽署儀式。黨內的緊張矛盾，疊加伊朗局勢不斷升級，預計將成為今日特朗普與參議院共和黨閉門午餐會的核心討論議題。此次分歧凸顯出共和黨內部的一道裂痕。自特朗普以自身政治主張重塑共和黨以來，黨內如此明顯的對立局面實屬罕見。
-
----
-
-### 2026-06-25 02:25:29  #Trading Economics #Markets #United States #stocks #Importance 1
-
-Danaher Stock Price Hits 9-week High — Danaher shares increased to 189.23 USD, the highest since April 2026. Over the past 4 weeks, Danaher gained 9.31%, and in the last 12 months, it decreased 6.02%.
-
----
-
-### 2026-06-25 02:25:06  #Trading Economics #Markets #Commodity #Importance 1
-
-Agricultural Commodities Updates: Cocoa Rallies by 7.26% — Top commodity gainers are Cocoa (7.26%) and Coffee (0.65%). Biggest losers are Oat (-6.34%) and Cotton (-2.90%).
-
----
-
-### 2026-06-25 02:23:44  #國際
-
-特朗普稱讚油價走勢與就業資料表現。
-
----
-
-### 2026-06-25 02:23:32  #MKT News #Important #WTI #Impact bearish #DXY #S&P500 #Impact bullish
-
-U.S. President Trump said Iran is agreeing to everything he wants and has no choice.
-
----
-
-### 2026-06-25 02:23:15  #焦點 #國際
-
-特朗普稱：伊朗正同意我提出的所有要求，而且他們必須同意。
-
----
-
-### 2026-06-25 02:23:13  #MKT News
-
-President Trump said he does not like some members of Congress but believes people know who they are.
 
 ---

@@ -1,7 +1,151 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-06-27 20:11:16_
-_本檔包含 3852 則快訊，約 673404 字_
+_更新時間：2026-06-27 21:11:05_
+_本檔包含 3857 則快訊，約 672894 字_
+
+---
+
+### 2026-06-25 02:35:40  #MKT News #WTI #Impact bullish #Brent #XAUUSD
+
+【Netanyahu says IDF will not withdraw from south Lebanon 'security zone' while he remains prime minister】On the 24th local time, speaking at a meeting of Israel's Union of Local Authorities, Prime Minister Netanyahu said the IDF will not withdraw from the 'security zone' in southern Lebanon while he remains in office and will maintain it indefinitely. He said he will never allow Iran to acquire nuclear weapons. Netanyahu added that Hezbollah remains active, but the IDF has established the 'security zone' in south Lebanon, is systematically destroying its underground infrastructure and is cutting its ability to cross into the Galilee.
+
+---
+
+### 2026-06-25 02:35:12  #國際
+
+【內塔尼亞胡稱只要其在任以軍就不會撤出黎南部“安全區”】當地時間24日，以色列總理內塔尼亞胡在以色列地方政府聯合會上發表講話，談及以軍在多個方向的軍事行動與安全政策。他強調，只要其擔任總理，以軍就不會撤出黎巴嫩南部“安全區”，且決不容許伊朗擁有核武器。內塔尼亞胡表示，雖然黎真主黨依然存在，但以軍已在黎南部建立起“安全區”，正在全面摧毀其地下基礎設施，切斷其越境進入加利利地區的可能。他強調，只要他在任，以軍就將無限期維持該“安全區”。（央視新聞）
+
+---
+
+### 2026-06-25 02:34:18  #國際
+
+美國證券交易委員會任命凱瑟琳・哈欽森為國際事務辦公室主任。
+
+---
+
+### 2026-06-25 02:34:14  #MKT News #Important #Macro & Rates #The Fed (FOMC) #Commodities #Precious Metals #XAUUSD #Impact bearish #DXY #Impact bullish
+
+【Gold falls below $4,000 as dollar strength and Fed rate-hike expectations weigh】Gold extended the previous session’s decline as the dollar strengthened and markets increasingly priced in a Fed rate hike later this year. New York gold futures fell 3.4% to $3,990.30/oz, the weakest close since November. Other precious metals also slipped. The dollar rose against a basket of currencies, making dollar-priced commodities more expensive for overseas buyers.
+
+---
+
+### 2026-06-25 02:31:35  #MKT News #Commodities #Precious Metals #Energy #XAUUSD #Impact bearish #WTI
+
+【Night session main contracts close lower】At the 02:30 Beijing time close, Shanghai gold front-month contract fell 2.45% to 875 yuan/gram; Shanghai silver front-month contract fell 6.31% to 13,956 yuan/kg; SC crude oil front-month contract fell 3.78% to 471 yuan/barrel.
+
+---
+
+### 2026-06-25 02:31:17  #MKT News #Commodities #Precious Metals #XAUUSD #Impact bearish
+
+Shanghai Gold Exchange gold T+D closed down 2.18% at 873.16 yuan/gram in the evening session on June 24 (Wednesday). Shanghai Gold Exchange silver T+D closed down 5.77% at 13,969.0 yuan/kg.
+
+---
+
+### 2026-06-25 02:31:04  #市場 #國際
+
+美國原油期貨收於每桶70.34美元，下跌2.87美元，跌幅3.92%。
+
+---
+
+### 2026-06-25 02:30:11  #公司
+
+伊維爾德羅拉公司：該專案計劃於2027年投產運營。
+
+---
+
+### 2026-06-25 02:30:07  #公司 #國際
+
+伊維爾德羅拉公司：伊維爾德羅拉將在美國建設其首個大規模儲能電池專案。
+
+---
+
+### 2026-06-25 02:30:06  #Trading Economics #Markets #Crypto #Importance 1
+
+Crypto Updates: Ether Slumps by 5.30% — Top crypto losers are Ether (-5.30%), Bitcoin (-4.80%) and Binance (-3.97%).
+
+---
+
+### 2026-06-25 02:30:05  #MKT News #Market Themes #AI Revolution #Magnificent 7 #Star Stocks #Alphabet #GOOGL.O #Impact bearish
+
+【Two senior Google AI researchers expected to join Anthropic】Two leading AI researchers at Alphabet's Google plan to leave to join competitor Anthropic, people familiar with the matter said. Jonas Adler and Alexander Pritzel, both seen internally as key contributors to Google's GEMINI model, are expected to move to Anthropic. Adler worked on the company's AI programming projects; Pritzel worked on training AI systems. The moves add to a series of high-profile departures and could weaken Google's position in AI.
+
+---
+
+### 2026-06-25 02:30:02  #市場
+
+上期所原油期貨夜盤收跌3.78%，報470.60元人民幣/桶。滬金夜盤收跌2.45%，滬銀收跌6.31%。
+
+---
+
+### 2026-06-25 02:29:48  #央行 #宏觀 #市場 #國際
+
+【俄羅斯金融市場重挫 油價下跌與央行偏鷹立場打擊投資者信心】俄羅斯金融市場重挫，油價下跌以及烏克蘭襲擊、俄羅斯央行的偏鷹立場令投資者感到不安，早已因衝突承壓的俄羅斯經濟面臨更大困境。俄羅斯股市基準指數MOEX本週跌至三年多來的最低點。此前，俄羅斯央行將降息幅度縮減至僅僅25個基點，並暗示進一步放鬆貨幣政策的空間已經不大。聖彼得堡銀行的分析師在一份報告中寫道：“地緣政治局勢演變與俄羅斯央行鷹派立場形成的完美風暴，引發了全面的避險情緒，迫使投資者解除槓桿頭寸。”此前，在伊朗與美國同意停止敵對行動並重新開放霍爾木茲海峽後，原油價格下跌，這一情況已對俄羅斯股市構成壓力。而烏克蘭對俄羅斯腹地石油基礎設施的襲擊，也進一步打擊了投資者信心。
+
+---
+
+### 2026-06-25 02:29:02  #國際
+
+受燃油短缺加劇影響，俄羅斯已與哈薩克接洽，擬供應約5萬噸92號汽油。受煉油廠生產中斷影響，俄羅斯汽油產量較去年下降約四分之一。
+
+---
+
+### 2026-06-25 02:28:14  #MKT News
+
+According to Punchbowl, a Republican senator called Trump's meeting "more like a venting session by the president."
+
+---
+
+### 2026-06-25 02:28:13  #市場
+
+隨著成交量放大，Alphabet股價小幅回落，最新下跌約0.1%，報345.89美元。
+
+---
+
+### 2026-06-25 02:27:25  #MKT News
+
+Market sources: President Trump spent roughly 90% of a lunch with Republican lawmakers criticizing Lisa Murkowski, Bill Cassidy and Mitch McConnell as RINOs.
+
+---
+
+### 2026-06-25 02:26:22  #國際
+
+【特朗普正與參議院共和黨議員爆發一場公開激烈對峙】美國參議院共和黨人遲遲未能透過《拯救美國法案》，這令特朗普頗為惱火；而黨內不少議員如今也對他心生不滿——由於該法案推進陷入停滯，特朗普取消了原定今日舉行的法案簽署儀式。黨內的緊張矛盾，疊加伊朗局勢不斷升級，預計將成為今日特朗普與參議院共和黨閉門午餐會的核心討論議題。此次分歧凸顯出共和黨內部的一道裂痕。自特朗普以自身政治主張重塑共和黨以來，黨內如此明顯的對立局面實屬罕見。
+
+---
+
+### 2026-06-25 02:25:29  #Trading Economics #Markets #United States #stocks #Importance 1
+
+Danaher Stock Price Hits 9-week High — Danaher shares increased to 189.23 USD, the highest since April 2026. Over the past 4 weeks, Danaher gained 9.31%, and in the last 12 months, it decreased 6.02%.
+
+---
+
+### 2026-06-25 02:25:06  #Trading Economics #Markets #Commodity #Importance 1
+
+Agricultural Commodities Updates: Cocoa Rallies by 7.26% — Top commodity gainers are Cocoa (7.26%) and Coffee (0.65%). Biggest losers are Oat (-6.34%) and Cotton (-2.90%).
+
+---
+
+### 2026-06-25 02:23:44  #國際
+
+特朗普稱讚油價走勢與就業資料表現。
+
+---
+
+### 2026-06-25 02:23:32  #MKT News #Important #WTI #Impact bearish #DXY #S&P500 #Impact bullish
+
+U.S. President Trump said Iran is agreeing to everything he wants and has no choice.
+
+---
+
+### 2026-06-25 02:23:15  #焦點 #國際
+
+特朗普稱：伊朗正同意我提出的所有要求，而且他們必須同意。
+
+---
+
+### 2026-06-25 02:23:13  #MKT News
+
+President Trump said he does not like some members of Congress but believes people know who they are.
 
 ---
 
@@ -23114,119 +23258,5 @@ CENTCOM said the aircraft carrier "USS George H.W. Bush" is operating in the Ara
 ### 2026-06-23 22:25:10  #市場
 
 交易員稱，阿根廷比索在非官方平行市場走弱0.33%，跌至五個月來最低水平，兌美元報1比索兌1500比索。
-
----
-
-### 2026-06-23 22:23:01  #MKT News #Important #Star Stocks #NVIDIA #Market Themes #Magnificent 7 #NVDA.O #Impact bearish #Nasdaq100 #S&P500
-
-NVIDIA (NVDA.O) market cap fell below $5 trillion; shares down 2.6%.
-
----
-
-### 2026-06-23 22:22:45  #宏觀 #焦點 #國際
-
-【以色列與黎巴嫩新一輪會談在美國啟動】央視記者當地時間6月23日獲悉，以色列駐美國大使館表示，以色列與黎巴嫩之間新一輪的會談已在華盛頓特區啟動。大使館方面稱：“會談將同時在外交和軍事兩個層面展開。”美國國務院一名官員此前表示，會談將首先舉行“軍事與政治聯合會議”，隨後進行軍事層面的會議，最後以政治層面的會議結束。此次會談預計將持續至25日。（央視新聞）
-
----
-
-### 2026-06-23 22:22:16  #市場 #焦點
-
-英偉達市值跌破5萬億美元；盤中股價最新下跌2.6%。
-
----
-
-### 2026-06-23 22:22:13  #MKT News #Market Regions #Wall Street (US) #Dow #Impact bullish #S&P500 #Impact bearish #Nasdaq100
-
-Dow turns positive, up 0.1%; S&P 500 loss narrows to 0.7%; Nasdaq down 1.2%.
-
----
-
-### 2026-06-23 22:20:37  #宏觀 #兩會
-
-【審計工作報告：審計整改總體格局進一步鞏固完善】《國務院關於2025年度中央預算執行和其他財政收支的審計工作報告》提請全國人大常委會會議審議。報告顯示，審計整改總體格局進一步鞏固完善，至2026年4月底，針對2024年度審計查出問題已整改問題金額1.41萬億元，制定完善制度1150多項，處理處分3690多人。中央財政管理審計結果顯示，2025年，中央一般公共預算收入總量約9.73萬億元、支出總量約14.59萬億元，赤字4.86萬億元，與預算持平。（新華社）
-
----
-
-### 2026-06-23 22:20:10  #市場
-
-美股三大指數短線拉昇，道瓊斯指數漲0.07%；標普500指數跌幅縮窄至0.77%，此前一度跌超1.5%；納斯達克綜合指數跌幅縮窄至1.17%，此前一度跌超2.3%。
-
----
-
-### 2026-06-23 22:20:07  #MKT News
-
-【Baltic Dry Index down for second straight session as freight weakens】Baltic Dry Index fell for a second straight session, sliding 17 pts (0.6%) to 2,667. Capesize index (BCI) dropped 28 pts (0.7%) to 4,046, its lowest since June 18; Capesize daily earnings fell $252 to $33,192. Panamax index (BPI) lost 14 pts (0.7%) to 2,045; Panamax daily earnings declined $126 to $18,406. Supramax index (BSI) slipped 10 pts (0.6%) to 1,705. Handysize index (BHSI) rose 5 pts to 941.
-
----
-
-### 2026-06-23 22:19:34  #其他
-
-【小米電視緊急致歉：地震預警系研發人員誤發】@小米電視 6月23日釋出緊急澄清致歉：2026年6月23日20:15，北京及周邊區域部分小米電視使用者收到的地震預警訊息，系我方研發人員開展功能內部測試時操作失誤，誤將內部模擬測試資料推送至線上正式環境。該內容僅為測試虛構資料，並非官方真實地震預警，當前區域不存在地震險情。我們第一時間攔截錯誤資訊，針對資訊釋出流程、測試環境機制全面整改，對造成的使用者恐慌正式致歉。
-
----
-
-### 2026-06-23 22:18:57  #市場 #兩會
-
-【2025年度審計工作報告發布 中央財政赤字與預算持平】審計署向全國人大常委會報告了2025年度中央預算執行和其他財政收支的審計情況。報告顯示，2025年中央財政赤字與預算持平。在“兩重”“兩新”政策落實及資金管理使用情況方面，報告揭示了部分超長期國債資金被擠佔挪用、“兩重”建設配套政策等“軟建設”任務落實不到位等問題；在城市地下管網審計方面，揭示了部分“兩重”建設資金被擠佔挪用、騙取套取或閒置等問題。（央視新聞）
-
----
-
-### 2026-06-23 22:18:35  #MKT News #Commodities #Energy #WTI #Impact bearish #Brent #CADUSD
-
-【Macklem welcomes temporary US‑Iran agreement; global energy prices starting to fall】BOC Governor Macklem said the temporary US‑Iran agreement to end hostilities and restore crude flow through the Strait of Hormuz is a welcome development for the global economy, and global energy prices have begun to decline, though many issues remain. Canada’s May headline inflation accelerated to its highest level since 2023, driven by higher gasoline prices. Economists say an immediate pullback in energy prices should ease headline inflation, and with core CPI appearing contained this should give the BOC further comfort.
-
----
-
-### 2026-06-23 22:18:02  #國際
-
-美國地質調查局：萬那杜伊桑格爾以南126公里處發生5.3級地震。
-
----
-
-### 2026-06-23 22:17:49  #宏觀 #國際
-
-【王毅談第十六次金磚國家安全事務高階代表會議成果】中共中央政治局委員、中央外辦主任王毅23日在金磚國家安全事務高階代表會議結束前，總結了本次會議的成果和意義。 王毅表示，這次會議形成的重要共識是，我們都支援維護多邊主義，推動熱點問題政治解決，統籌應對傳統和非傳統安全威脅。這次會議發出的共同聲音是，我們都支援金磚和全球南方要堅持獨立自主，加強團結互助，凝聚更多集體智慧，協調更強共同行動。這次會議確定的明確方向是，我們都支援進一步用好金磚安代會機制，就重大國際和地區熱點問題保持溝通和協調，不斷豐富“大金磚”合作內涵。 王毅說，明年中方將接任金磚輪值主席國。期待大家在中國再聚首，進一步深化金磚國家政治安全合作，為世界和平與安全貢獻金磚智慧與力量。（新華社）
-
----
-
-### 2026-06-23 22:17:13  #Trading Economics #Economy #United States #Richmond Fed Manufacturing Index #Importance 1
-
-US Fifth District Manufacturing Falls — The Federal Reserve's Fifth District manufacturing index decreased by 9 points from the previous month to 4 point in June 2026, down from 13 in May and below market expectations. The result reflected an unchanged level of manufacturing activity in the district, with most key components weakening during the month. Shipments eased to 3 from 16, while new orders declined to 9 from 17, though both indicators remained positive. Meanwhile, raw materials inventories increased to 9 from 5. On the other hand, the employment index slipped into negative territory at -1, reversing from 3 in the previous month. Price pressures strengthened, with the average growth rates of prices paid rising to 6.99% from 5.96%, and prices received increasing to 4.57% from 4.21%. Looking ahead, shipments expectations improved to 38 from 35. However, expectations for new orders and employment softened, falling to 32 from 36 and to 16 from 23, respectively.
-
----
-
-### 2026-06-23 22:16:55  #MKT News #EURUSD #Impact bullish #DXY #Impact bearish
-
-ECB Vice-President VUJCIC: inf will remain elevated.
-
----
-
-### 2026-06-23 22:16:50  #公司
-
-【多家中小銀行，逆勢上調理財產品業績比較基準】據金融時報，在銀行理財市場整體收益率持續下行的背景下，有地方性中小銀行卻選擇“逆勢而動”，上調部分理財產品的業績比較基準。記者注意到，近日，多地中小銀行釋出公告，小幅上調旗下低風險固收類理財產品的業績比較基準。在業內人士看來，中小銀行逆勢上調理財業績比較基準，核心訴求在於穩定理財規模、穩固客群基本盤。
-
----
-
-### 2026-06-23 22:16:28  #央行 #國際
-
-歐洲央行副行長武伊契奇：通脹高企狀態或將持續更長時間。
-
----
-
-### 2026-06-23 22:15:39  #MKT News #Market Regions #Europe & UK
-
-ECB Vice‑President VUJCIC said inf expectations remain stable over the long term.
-
----
-
-### 2026-06-23 22:15:15  #央行 #國際
-
-歐洲央行副行長武伊契奇：長期通脹預期仍保持穩定。
-
----
-
-### 2026-06-23 22:14:31  #MKT News #Market Themes #AI Revolution #Magnificent 7 #Star Stocks #Microsoft #MSFT.O #Impact bullish
-
-【Microsoft completes first Wisconsin data center, facility fully operational】Microsoft said on Tuesday its first data center in Mount Pleasant, Wisconsin — the Fairwater campus — is complete and fully operational. Equipment went online and commissioning finished in April; construction was announced in May 2024. Nearly 10,000 construction workers participated over the past two years and the project finished ahead of schedule. The site currently has about 550 full‑time employees supporting operations; Microsoft and its contractors are actively recruiting and expect headcount to rise. Microsoft said the Fairwater campus will provide compute capacity for next‑generation AI and represents a key investment milestone in southeastern Wisconsin.
 
 ---

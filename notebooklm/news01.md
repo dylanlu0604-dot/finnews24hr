@@ -1,7 +1,127 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-06-27 20:11:16_
-_本檔包含 3444 則快訊，約 672968 字_
+_更新時間：2026-06-27 21:11:05_
+_本檔包含 3437 則快訊，約 672942 字_
+
+---
+
+### 2026-06-27 21:03:17  #國際
+
+真主黨領導人稱，將以色列從黎巴嫩南部撤軍與該組織解除武裝掛鉤，越過了“紅線”。
+
+---
+
+### 2026-06-27 21:02:17  #MKT News #Important #XAUUSD #Impact bullish #Brent #DXY
+
+HEZBOLLAH leader said the Israel-Lebanon framework agreement is invalid, vowed to continue pressure until Israel withdraws from Lebanon, and urged the Lebanese government to abandon the framework.
+
+---
+
+### 2026-06-27 21:01:20  #其他
+
+真主黨領導人敦促黎巴嫩政府放棄以黎框架協議。
+
+---
+
+### 2026-06-27 21:01:00  #國際
+
+真主黨領導人表示，該組織將繼續施壓，直到以色列從黎巴嫩撤軍。
+
+---
+
+### 2026-06-27 21:00:35  #國際
+
+真主黨領導人稱以色列-黎巴嫩框架協議“無效”，須由伊朗-美國備忘錄取代。
+
+---
+
+### 2026-06-27 20:59:15  #國際
+
+歐盟委員會主席馮德萊恩：我歡迎以色列和黎巴嫩達成的協議。這是避免局勢升級的關鍵一步。因為如果黎巴嫩仍深陷戰火，中東就不可能實現和平。感謝美國斡旋。下一步的關鍵步驟是解除非國家武裝團體的武裝，並維護黎巴嫩的主權和領土完整。歐盟隨時準備支援這一通往持久區域穩定的道路，並將繼續提供急需的人道主義援助，目前已調動1億歐元用於援助流離失所者。
+
+---
+
+### 2026-06-27 20:58:05  #MKT News #Market Themes #AI Revolution
+
+【US may lift restrictions on Anthropic's Fable 5 as soon as next week】Sources told Axios the Trump administration is close to allowing Anthropic to restore access to its Fable 5 model, which has been offline for 15 days amid government security concerns; insiders say restrictions could be lifted as soon as next week and communications are expected to continue over the weekend, with Anthropic expecting access to be restored shortly. On Friday the Commerce Department permitted Anthropic to restore limited access to Mythos 5 for a small number of trusted users. Semafor reported Commerce Secretary Lutnick wrote that Anthropic has cooperated with the US government to address risks related to Mythos 5 and Fable 5, that substantial progress has been made, and that the company has committed to work with the government on agreements, standards and releases.
+
+---
+
+### 2026-06-27 20:55:45  #公司 #國際 #原創
+
+【特朗普政府據悉最快下週批准Anthropic恢復Fable 5模型的訪問許可權】據一位知情人士透露，特朗普政府即將允許Anthropic恢復其強大的Fable 5模型的訪問許可權。該模型此前已因特朗普政府的安全擔憂而下線15天。知情人士表示，內部人士預計特朗普政府對Fable 5的限制最早可能在下週解除。另一位訊息人士稱，雙方預計將在週末繼續進行磋商，Anthropic預計很快就能恢復Fable 5的訪問許可權。
+
+---
+
+### 2026-06-27 20:50:55  #其他
+
+【中非共和國暴發霍亂疫情 已致24人死亡】中非共和國衛生和人口部26日晚宣佈，該國西南部賓博和姆拜基地區暴發霍亂疫情。自本月中旬出現疑似病例以來，目前已累計報告197例病例，其中24人死亡。
+
+---
+
+### 2026-06-27 20:49:23  #國際
+
+市場訊息：特朗普政府據悉接近允許Anthropic恢復對其強大Fable 5模型的訪問許可權 。
+
+---
+
+### 2026-06-27 20:41:55  #MKT News #Brent #Impact bullish #XAUUSD #S&P500 #Impact bearish
+
+【Israeli forces strike southern Lebanon again after Lebanon-Israel-US framework agreement】Following a tripartite framework agreement between Lebanon, Israel and the United States on June 26, Israeli forces struck southern Lebanon on June 27, Lebanese sources said. An Israeli drone hit an intersection in the nebetiyeh area and another dropped a blast munition near Taibnit village; Israeli troops advanced toward the outskirts of Shuba village, using medium and heavy machine-gun fire during the movement.
+
+---
+
+### 2026-06-27 20:39:28  #宏觀
+
+【《黑龍江省推進“人工智慧+教育”行動方案》出臺】近日，黑龍江省教育廳等八部門出臺《黑龍江省推進“人工智慧+教育”行動方案》，方案提出，到2027年，基本形成縱向貫通、橫向聯通的人工智慧通識教育體系，人工智慧在教育領域常態化應用，適配各類教學場景的數字教育資源持續豐富，師生人工智慧素養與創新能力顯著提升；到2030年，人工智慧領域人才培養規模和質量不斷提升，形成全民人工智慧素養培育長效機制，教育教學模式、科研正規化、治理模式實現系統性變革，基礎支撐環境更加集約高效，創新生態體系更加開放協同，智慧技術應用更加普惠、安全、高效，形成一批高價值、可推廣、易複製的應用場景，人工智慧與教育深度融合的“龍江正規化”基本形成。
+
+---
+
+### 2026-06-27 20:34:26  #MKT News
+
+【Australia to tighten enforcement of children's social media ban】Australia will tighten enforcement of its children's social media ban, doubling the maximum fine for technology companies that systemically violate the rule to AUD99 million (about USD68 million) and directing the government to strengthen the internet regulator's information‑gathering powers.
+
+---
+
+### 2026-06-27 20:34:18  #公司
+
+【立昂技術：公司為中科聞歌提供AIDC算力基礎設施配套】立昂技術(300603)在最新披露的投資者關係活動記錄表中透露，公司為中科聞歌提供AIDC算力基礎設施配套，是其算力供應合作方，雙方同步協同開展大模型相關業務落地與行業應用拓展。
+
+---
+
+### 2026-06-27 20:33:51  #國際
+
+【澳大利亞加強兒童社交媒體禁令，將對科技公司的罰款上限提高一倍】澳大利亞週六宣佈，將把對未能遵守兒童社交媒體禁令的科技公司最高罰款額提高一倍。因為越來越多的證據表明，這項禁令對青少年使用社交媒體的影響微乎其微。政府還將加強其網際網路監管機構——網路安全專員（eSafety Commissioner）的資訊收集權力，使其能夠強制社交媒體公司提供證據，證明其為阻止16歲以下未成年人註冊賬戶所採取了哪些措施。根據新規，系統性違反禁令的最高罰款額將從4950萬澳元躍升至9900萬澳元（約合6800萬美元）。宣告稱，自禁令實施以來，已有超過 500 萬個 16 歲以下社交媒體賬戶被停用或受到限制。但大量研究也表明，科技公司設立的年齡保證機制，例如自拍，很容易被兒童規避，而且在許多情況下，兒童從未被要求證明自己的年齡。
+
+---
+
+### 2026-06-27 20:23:14  #其他
+
+【APEC第十三屆旅遊部長會議在澳門舉行 共商亞太旅遊合作新路徑】亞太經合組織(APEC)第十三屆旅遊部長會議27日在澳門舉行，21個經濟體旅遊主管部門負責人圍繞“數智創新，合作賦能——以旅遊助力亞太共同體建設”的主題，共商亞太旅遊合作新路徑。（中新網）
+
+---
+
+### 2026-06-27 20:19:47  #國際
+
+【黎以美達成框架協議後以軍再襲黎南部】在黎巴嫩、以色列和美國26日宣佈達成三方框架協議後，以軍再度對黎南部發動襲擊。據黎通社27日報道，一架以色列無人機27日襲擊了黎南部奈拜提耶地區的一個路口，另有一架以軍無人機在該地區泰卜尼特村附近投擲了一枚震爆彈。此外，以軍正在向黎南部舒巴村郊區推進，行進途中使用中、重型機槍進行掃射。（新華社）
+
+---
+
+### 2026-06-27 20:18:04  #國際
+
+約旦譴責伊朗使用無人機對巴林發動襲擊。
+
+---
+
+### 2026-06-27 20:17:44  #MKT News
+
+【UK media: Andy Burnham to unveil devolution plans in major speech next week】The Times reports Andy Burnham will set out plans next week to devolve powers and funding from central government to English regions, including greater control for mayors and targeted funding for social housing, welfare and post-16 education. Whitehall departments will be asked to identify functions that could transfer to local government, and Burnham may propose devolving a share of tax revenues; if he remains the sole Labour leadership candidate he is expected to be formally confirmed late next month (nominations close July 16).
+
+---
+
+### 2026-06-27 20:17:39  #其他
+
+約旦外交大臣希望框架協議符合黎巴嫩及其人民的利益，並有助於恢復穩定，鞏固黎巴嫩對其所有領土的主權。
 
 ---
 
@@ -20655,176 +20775,5 @@ President Trump nominated Chris Kelongpu as the next deputy secretary of the Dep
 ### 2026-06-26 06:53:51  #其他
 
 澳大利亞競爭與消費者委員會（ACCC）：自 7 月 1 日起啟動超市物價監控工作。
-
----
-
-### 2026-06-26 06:50:21  #MKT News #Important
-
-Market sources say Samsung Electronics may build a new chip fab in South Korea, with investment of up to 300 trillion won.
-
----
-
-### 2026-06-26 06:49:24  #MKT News #Important
-
-Market sources say Samsung Group will invest KRW 1,000 trillion in South Korea over the next 10 years.
-
----
-
-### 2026-06-26 06:48:27  #公司 #焦點 #國際
-
-市場訊息：三星電子擬在韓國新建晶片工廠，投資規模或達 300 萬億韓元。 未來十年將在韓國投資 1000 萬億韓元。
-
----
-
-### 2026-06-26 06:46:44  #MKT News
-
-Starlink is working to rapidly deploy terminals to restore connectivity in Venezuela's worst-hit areas. Starlink will provide free service to new and existing customers affected by the Venezuela earthquake through July 25.
-
----
-
-### 2026-06-26 06:45:31  #公司 #國際
-
-【“不可接受”！蘋果商店下架多款俄羅斯應用程式，克宮要求作出解釋】據路透社報道，在俄羅斯網際網路公司VK旗下多款應用程式被美國蘋果公司的應用商店（App Store）下架後，克里姆林宮25日要求蘋果公司作出解釋。報道稱，VK公司在一份宣告中表示，該公司從未受到美國製裁，但其應用程式卻“在沒有收到任何警告或解釋的情況下”被下架。“我們認為蘋果公司這些針對俄羅斯使用者的行為完全不合理且不可接受。”克里姆林宮發言人佩斯科夫表示，俄羅斯有關機構將直接與蘋果公司交涉此事，並要求其作出解釋。佩斯科夫還稱，如果沒有得到合理解釋，俄方將需要據此決定是否繼續與該公司合作。（環球網）
-
----
-
-### 2026-06-26 06:45:11  #其他
-
-星鏈：針對委內瑞拉地震受災民眾，星鏈為新老使用者提供免費服務，有效期至 7 月 25 日。
-
----
-
-### 2026-06-26 06:45:02  #Trading Economics #Markets #Crypto #Importance 1
-
-Crypto Updates: Ether Depreciates by 3.18% — Top crypto losers are Ether (-3.18%) and Bitcoin (-2.12%).
-
----
-
-### 2026-06-26 06:44:55  #其他
-
-星鏈針對委內瑞拉災情表態：正加急部署星鏈終端裝置，為重災區恢復網路通訊。
-
----
-
-### 2026-06-26 06:44:17  #公司 #資料 #央行 #國際
-
-【週五重要財經資訊提醒（以下均為北京時間）】
-① 07:30 日本6月東京CPI；
-② 時間待定 中國（深圳）積體電路峰會；芯碁微裝、聖邦股份香港IPO，股票預計6月26日開始交易；
-③ 20:30 美國5月商品貿易帳，零售庫存；批發庫存初值；
-④ 22:00 美國6月密歇根大學消費者信心指數終值；
-⑤ 23:30 美國明尼阿波利斯聯儲主席卡什卡利（Neel Kashkari）講話；
-⑥ 週六09:30 中國5月規模以上工業企業利潤；
-⑦ 週六21:45 歐洲央行執委Schnabel參與一場討論；
-⑧ 週日20:15 澳洲聯儲主席Bullock在瑞士講話；
-⑨ 下週一00:35 美國里士滿聯儲主席Barkin（2027年FOMC票委）講話。
-
----
-
-### 2026-06-26 06:40:27  #其他
-
-必和必拓：拆分美洲業務板塊，分設北美區總裁、南美區總裁。
-
----
-
-### 2026-06-26 06:40:10  #MKT News
-
-The US issued a general license for Venezuela authorizing transactions related to earthquake relief.
-
----
-
-### 2026-06-26 06:40:02  #Trading Economics #Markets #Commodity #Importance 1
-
-Agricultural Commodities Updates: Cocoa Rises by 4.96% — Top commodity gainers are Cocoa (4.96%), Soybeans (1.98%) and Corn (1.90%). Biggest losers are Oat (-3.18%) and Wool (-2.31%).
-
----
-
-### 2026-06-26 06:38:04  #國際
-
-美國發布針對委內瑞拉通用許可，允許開展與地震救災相關的交易活動。
-
----
-
-### 2026-06-26 06:35:02  #Trading Economics #Markets #Commodity #Importance 1
-
-Metals Commodities Updates: Copper Gains by 1.86% — Top commodity gainers are Copper (1.86%), Platinum (1.33%) and Gold (0.73%). Biggest losers are Iron Ore CNY (-1.21%), Steel Rebar (-0.78%) and Silicon (-0.66%).
-
----
-
-### 2026-06-26 06:30:02  #Trading Economics #Markets #Commodity #Importance 1
-
-Energy Commodities Updates: Gasoline Rises by 4.13% — Top commodity gainers are Gasoline (4.13%), Heating Oil (3.31%), Propane (2.75%), Crude Oil WTI (1.48%) and Brent Crude Oil (1.23%). Biggest losers are Methanol (-2.44%), Germany Natural Gas THE (-1.32%) and Liquefied Natural Gas Japan Korea (-1.06%).
-
----
-
-### 2026-06-26 06:25:30  #公司 #觀點
-
-【同仁堂醫養香港上市擬籌資不超過6.716億港元】根據呈交香港交易所的公告，北京同仁堂醫養投資股份有限公司在香港發售1.08億股股份，發售價區間為每股5.48港元至6.21港元。計算顯示，該公司預計將籌資不超過6.716億港元。預計7月7日上市交易，中金公司是獨家保薦人。
-
----
-
-### 2026-06-26 06:23:34  #央行 #市場
-
-【資金面緊張情緒緩解，債市全線走強】6月25日，在資金面緊張情緒明顯緩解的帶動下，債市全線走強。市場人士認為，央行近期釋放出穩定跨季流動性的訊號，疊加銀行融出規模回升，市場對資金面的擔憂有所降溫。不過，債市已較為充分反映基本面和資金面寬鬆預期，後續修復仍待增量資訊。（上證報）
-
----
-
-### 2026-06-26 06:23:16  #其他
-
-【加碼國際業務 券商競逐業績新增長極 】中資券商出海明顯換擋提速，資本注入從“零星試探”變成“集中加碼”。據不完全統計，2026年以來，至少已有7家上市券商披露海外業務佈局進展。在具體業務拓展中，券商海外業務已從單一的經紀業務服務走向FICC、資管、衍生品等綜合服務。在業內人士看來，隨著資本金陸續到位、業務逐步落地，國際業務對券商的利潤貢獻還有進一步抬升空間，頭部券商有望在國際化佈局中保持行業競爭優勢。（中證報）
-
----
-
-### 2026-06-26 06:22:41  #公司
-
-極兔速遞：回購授權允許回購最多 10% 已發行股份，本次股份回購計劃資金上限設定為 20 億港元。
-
----
-
-### 2026-06-26 06:21:37  #公司 #市場 #央行 #國際
-
-【隔夜逆回購月底“首秀”，短端利率調控再添新工具】中國人民銀行6月25日公告，將在6月29日、6月30日公開市場操作中增加隔夜逆回購操作品種，隔夜逆回購操作採用固定利率、數量招標。與歐洲央行等類似，目前我國央行公開市場主力操作品種是7天期逆回購。7天期逆回購操作有效維護了短端利率平穩。強化隔夜利率調控，更符合我國銀行間市場的交易結構。國盛證券首席經濟學家熊園表示，隔夜品種是銀行間市場流動性交易最集中的期限，成交規模和市場活躍度均明顯高於7天期品種，因此其價格變化更能反映銀行體系短期流動性的邊際鬆緊。當前，短端市場利率已回升至政策利率附近。展望下一階段的流動性狀況，東方金誠首席宏觀分析師王青判斷，在央行啟動隔夜逆回購背景下，月底前央行公開市場操作有望處於較大規模的淨投放狀態，市場利率持續向上大幅偏離政策利率的可能性不大。（上證報）
-
----
-
-### 2026-06-26 06:21:27  #市場
-
-【多因素共振 券商板塊再現強勢上漲 】在經歷週一的強勢大漲後，6月25日，A股券商板塊再度上攻，其自6月9日以來的這輪反彈行情，累計漲幅已超過15%。業內人士表示，行業業績增長預期強化、政策訊號密集釋出以及板塊估值處於低位或是此輪券商板塊上漲的主要因素。此外，近期市場風格的再平衡一定程度上也提升了市場對券商板塊投資價效比的關注度。從更長期視角看，低利率背景帶來的財富管理發展歷史性機遇等敘事邏輯有望驅動券商板塊實現估值重塑，綜合實力領先的頭部券商更加值得關注。（中證報）
-
----
-
-### 2026-06-26 06:20:07  #MKT News #Important #Macro & Rates #The Fed (FOMC)
-
-2027 FOMC voting member and Chicago Fed President Austan Goolsbee to speak in 10 minutes.
-
----
-
-### 2026-06-26 06:18:42  #MKT News #09999.HK #Impact bullish
-
-NetEase-S (09999.HK) has chosen to become a dual primary-listed company on HKEX, effective June 30, 2026; the "S" marker will be removed from its Hong Kong stock short name on the effective date.
-
----
-
-### 2026-06-26 06:18:32  #央行 #公司
-
-【上證報：利率調控短端化的三重考量】我國利率調控正呈現短端化趨勢。2026年6月25日，央行釋出公告，將在6月29日、30日公開市場操作中增加隔夜逆回購操作品種，短端利率調控機制進一步完善。專家認為，利率調控短端化，或包含三重核心考量：一是適配重塑中的金融結構。二是穩定金融市場執行與金融產品估值。三是精準契合貨幣政策調控轉型方向。有機構判斷，隔夜（逆）回購利率可能成為我國的新政策利率。不過，有業內人士判斷，未來即使政策利率切換至隔夜逆回購利率，也將經歷一個平穩過渡、循序漸進的過程，需要先理順各期限工具利差、切換金融產品等利率基準錨點。
-
----
-
-### 2026-06-26 06:16:49  #其他
-
-網易：獲選定為港交所雙重主要上市企業，6 月 30 日生效。
-
----
-
-### 2026-06-26 06:15:02  #Trading Economics #Markets #Currency #Importance 1
-
-FX Updates: Brazilian Real Appreciates by 0.65% — Top currency gainers are Brazilian Real (0.65%), Mexican Peso (0.58%), Swiss Franc (0.25%), British Pound (0.20%) and Euro (0.12%). Biggest losers are Indian Rupee (-0.34%) and Dollar Index (-0.16%).
-
----
-
-### 2026-06-26 06:14:27  #央行 #公司
-
-【隔夜逆回購操作在即 央行多維發力呵護年中流動性】中國人民銀行6月25日釋出公告稱，將在6月29日、6月30日公開市場操作中增加隔夜逆回購操作品種。同日，央行開展5000億元MLF操作與3705億元7天期逆回購操作，實現淨投放3225億元。專家表示，增加隔夜逆回購操作品種以及淨投放7天期逆回購，將有助於更好匹配銀行體系短期流動性需求。同時，加量續做當月MLF將有效滿足金融機構較長期限資金需求，支援政府債券順利發行及銀行加大信貸投放力度。（中證報）
 
 ---

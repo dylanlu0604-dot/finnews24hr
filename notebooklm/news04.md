@@ -1,7 +1,121 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-06-27 20:11:16_
-_本檔包含 3528 則快訊，約 672119 字_
+_更新時間：2026-06-27 21:11:05_
+_本檔包含 3519 則快訊，約 672871 字_
+
+---
+
+### 2026-06-23 22:23:01  #MKT News #Important #Star Stocks #NVIDIA #Market Themes #Magnificent 7 #NVDA.O #Impact bearish #Nasdaq100 #S&P500
+
+NVIDIA (NVDA.O) market cap fell below $5 trillion; shares down 2.6%.
+
+---
+
+### 2026-06-23 22:22:45  #宏觀 #焦點 #國際
+
+【以色列與黎巴嫩新一輪會談在美國啟動】央視記者當地時間6月23日獲悉，以色列駐美國大使館表示，以色列與黎巴嫩之間新一輪的會談已在華盛頓特區啟動。大使館方面稱：“會談將同時在外交和軍事兩個層面展開。”美國國務院一名官員此前表示，會談將首先舉行“軍事與政治聯合會議”，隨後進行軍事層面的會議，最後以政治層面的會議結束。此次會談預計將持續至25日。（央視新聞）
+
+---
+
+### 2026-06-23 22:22:16  #市場 #焦點
+
+英偉達市值跌破5萬億美元；盤中股價最新下跌2.6%。
+
+---
+
+### 2026-06-23 22:22:13  #MKT News #Market Regions #Wall Street (US) #Dow #Impact bullish #S&P500 #Impact bearish #Nasdaq100
+
+Dow turns positive, up 0.1%; S&P 500 loss narrows to 0.7%; Nasdaq down 1.2%.
+
+---
+
+### 2026-06-23 22:20:37  #宏觀 #兩會
+
+【審計工作報告：審計整改總體格局進一步鞏固完善】《國務院關於2025年度中央預算執行和其他財政收支的審計工作報告》提請全國人大常委會會議審議。報告顯示，審計整改總體格局進一步鞏固完善，至2026年4月底，針對2024年度審計查出問題已整改問題金額1.41萬億元，制定完善制度1150多項，處理處分3690多人。中央財政管理審計結果顯示，2025年，中央一般公共預算收入總量約9.73萬億元、支出總量約14.59萬億元，赤字4.86萬億元，與預算持平。（新華社）
+
+---
+
+### 2026-06-23 22:20:10  #市場
+
+美股三大指數短線拉昇，道瓊斯指數漲0.07%；標普500指數跌幅縮窄至0.77%，此前一度跌超1.5%；納斯達克綜合指數跌幅縮窄至1.17%，此前一度跌超2.3%。
+
+---
+
+### 2026-06-23 22:20:07  #MKT News
+
+【Baltic Dry Index down for second straight session as freight weakens】Baltic Dry Index fell for a second straight session, sliding 17 pts (0.6%) to 2,667. Capesize index (BCI) dropped 28 pts (0.7%) to 4,046, its lowest since June 18; Capesize daily earnings fell $252 to $33,192. Panamax index (BPI) lost 14 pts (0.7%) to 2,045; Panamax daily earnings declined $126 to $18,406. Supramax index (BSI) slipped 10 pts (0.6%) to 1,705. Handysize index (BHSI) rose 5 pts to 941.
+
+---
+
+### 2026-06-23 22:19:34  #其他
+
+【小米電視緊急致歉：地震預警系研發人員誤發】@小米電視 6月23日釋出緊急澄清致歉：2026年6月23日20:15，北京及周邊區域部分小米電視使用者收到的地震預警訊息，系我方研發人員開展功能內部測試時操作失誤，誤將內部模擬測試資料推送至線上正式環境。該內容僅為測試虛構資料，並非官方真實地震預警，當前區域不存在地震險情。我們第一時間攔截錯誤資訊，針對資訊釋出流程、測試環境機制全面整改，對造成的使用者恐慌正式致歉。
+
+---
+
+### 2026-06-23 22:18:57  #市場 #兩會
+
+【2025年度審計工作報告發布 中央財政赤字與預算持平】審計署向全國人大常委會報告了2025年度中央預算執行和其他財政收支的審計情況。報告顯示，2025年中央財政赤字與預算持平。在“兩重”“兩新”政策落實及資金管理使用情況方面，報告揭示了部分超長期國債資金被擠佔挪用、“兩重”建設配套政策等“軟建設”任務落實不到位等問題；在城市地下管網審計方面，揭示了部分“兩重”建設資金被擠佔挪用、騙取套取或閒置等問題。（央視新聞）
+
+---
+
+### 2026-06-23 22:18:35  #MKT News #Commodities #Energy #WTI #Impact bearish #Brent #CADUSD
+
+【Macklem welcomes temporary US‑Iran agreement; global energy prices starting to fall】BOC Governor Macklem said the temporary US‑Iran agreement to end hostilities and restore crude flow through the Strait of Hormuz is a welcome development for the global economy, and global energy prices have begun to decline, though many issues remain. Canada’s May headline inflation accelerated to its highest level since 2023, driven by higher gasoline prices. Economists say an immediate pullback in energy prices should ease headline inflation, and with core CPI appearing contained this should give the BOC further comfort.
+
+---
+
+### 2026-06-23 22:18:02  #國際
+
+美國地質調查局：萬那杜伊桑格爾以南126公里處發生5.3級地震。
+
+---
+
+### 2026-06-23 22:17:49  #宏觀 #國際
+
+【王毅談第十六次金磚國家安全事務高階代表會議成果】中共中央政治局委員、中央外辦主任王毅23日在金磚國家安全事務高階代表會議結束前，總結了本次會議的成果和意義。 王毅表示，這次會議形成的重要共識是，我們都支援維護多邊主義，推動熱點問題政治解決，統籌應對傳統和非傳統安全威脅。這次會議發出的共同聲音是，我們都支援金磚和全球南方要堅持獨立自主，加強團結互助，凝聚更多集體智慧，協調更強共同行動。這次會議確定的明確方向是，我們都支援進一步用好金磚安代會機制，就重大國際和地區熱點問題保持溝通和協調，不斷豐富“大金磚”合作內涵。 王毅說，明年中方將接任金磚輪值主席國。期待大家在中國再聚首，進一步深化金磚國家政治安全合作，為世界和平與安全貢獻金磚智慧與力量。（新華社）
+
+---
+
+### 2026-06-23 22:17:13  #Trading Economics #Economy #United States #Richmond Fed Manufacturing Index #Importance 1
+
+US Fifth District Manufacturing Falls — The Federal Reserve's Fifth District manufacturing index decreased by 9 points from the previous month to 4 point in June 2026, down from 13 in May and below market expectations. The result reflected an unchanged level of manufacturing activity in the district, with most key components weakening during the month. Shipments eased to 3 from 16, while new orders declined to 9 from 17, though both indicators remained positive. Meanwhile, raw materials inventories increased to 9 from 5. On the other hand, the employment index slipped into negative territory at -1, reversing from 3 in the previous month. Price pressures strengthened, with the average growth rates of prices paid rising to 6.99% from 5.96%, and prices received increasing to 4.57% from 4.21%. Looking ahead, shipments expectations improved to 38 from 35. However, expectations for new orders and employment softened, falling to 32 from 36 and to 16 from 23, respectively.
+
+---
+
+### 2026-06-23 22:16:55  #MKT News #EURUSD #Impact bullish #DXY #Impact bearish
+
+ECB Vice-President VUJCIC: inf will remain elevated.
+
+---
+
+### 2026-06-23 22:16:50  #公司
+
+【多家中小銀行，逆勢上調理財產品業績比較基準】據金融時報，在銀行理財市場整體收益率持續下行的背景下，有地方性中小銀行卻選擇“逆勢而動”，上調部分理財產品的業績比較基準。記者注意到，近日，多地中小銀行釋出公告，小幅上調旗下低風險固收類理財產品的業績比較基準。在業內人士看來，中小銀行逆勢上調理財業績比較基準，核心訴求在於穩定理財規模、穩固客群基本盤。
+
+---
+
+### 2026-06-23 22:16:28  #央行 #國際
+
+歐洲央行副行長武伊契奇：通脹高企狀態或將持續更長時間。
+
+---
+
+### 2026-06-23 22:15:39  #MKT News #Market Regions #Europe & UK
+
+ECB Vice‑President VUJCIC said inf expectations remain stable over the long term.
+
+---
+
+### 2026-06-23 22:15:15  #央行 #國際
+
+歐洲央行副行長武伊契奇：長期通脹預期仍保持穩定。
+
+---
+
+### 2026-06-23 22:14:31  #MKT News #Market Themes #AI Revolution #Magnificent 7 #Star Stocks #Microsoft #MSFT.O #Impact bullish
+
+【Microsoft completes first Wisconsin data center, facility fully operational】Microsoft said on Tuesday its first data center in Mount Pleasant, Wisconsin — the Fairwater campus — is complete and fully operational. Equipment went online and commissioning finished in April; construction was announced in May 2024. Nearly 10,000 construction workers participated over the past two years and the project finished ahead of schedule. The site currently has about 550 full‑time employees supporting operations; Microsoft and its contractors are actively recruiting and expect headcount to rise. Microsoft said the Fairwater campus will provide compute capacity for next‑generation AI and represents a key investment milestone in southeastern Wisconsin.
 
 ---
 
@@ -21134,176 +21248,5 @@ Reserve Bank of India said that although a temporary US-Iran peace agreement has
 ### 2026-06-22 20:35:06  #Trading Economics #Markets #United Kingdom #Currency #Importance 2
 
 Sterling Rebounds After Starmer's Resignation — The British pound rebounded toward $1.33 after falling to its lowest level since March earlier in the session, as markets reacted to Prime Minister Keir Starmer's resignation, paving the way for a change in the UK's leadership. The resignation follows Greater Manchester Mayor Andy Burnham's by-election victory last week, which enabled his return to Parliament. Burnham subsequently announced his intention to seek the premiership. Prospects for a smooth leadership transition improved after Wes Streeting, previously viewed as a potential challenger, declared his support for Burnham's candidacy. Investors are now focused on the implications for the UK's fiscal outlook, seeking greater clarity on the political transition and Burnham's fiscal policy agenda, with few concrete details available so far. A key concern remains the possibility of increased gilt issuance to finance higher public spending, which could further strain the UK's already fragile public finances and elevated debt burden.
-
----
-
-### 2026-06-22 20:34:56  #MKT News
-
-Reserve Bank of India said that if the southwest monsoon unfolds as expected, it could put pressure on domestic growth and the inflation outlook.
-
----
-
-### 2026-06-22 20:34:52  #市場
-
-歐元/英鎊下跌0.3%至0.86393，為6月16日以來最低水平。
-
----
-
-### 2026-06-22 20:34:42  #公司
-
-據港交所檔案：上海悅普數智科技股份有限公司向港交所提交上市申請書。
-
----
-
-### 2026-06-22 20:34:35  #其他
-
-【英特爾釋出“AI家庭大腦”】在今日開幕的第四屆中國國際供應鏈促進博覽會（鏈博會）上，英特爾釋出AI家庭大腦，該方案基於第三代英特爾® 酷睿™ Ultra及酷睿™ 處理器，整合CPU、GPU、NPU三大引擎，榮耀、Minimax、聯想、小米等出席了釋出會。此外，英特爾還與長安汽車聯合釋出了搭載英特爾AI Box Ultra的AI座艙解決方案。（科創板日報）
-
----
-
-### 2026-06-22 20:34:35  #MKT News
-
-EUR/GBP fell 0.3% to 0.86393, the lowest since June 16.
-
----
-
-### 2026-06-22 20:34:30  #其他
-
-Upscale AI ：A-1輪融資由Premji Invest領投；NVIDIA、Salesforce Ventures、Seligman Ventures、淡馬錫參投。
-
----
-
-### 2026-06-22 20:33:09  #MKT News
-
-Reserve Bank of India said CPI inflation remained stable despite a pickup in May.
-
----
-
-### 2026-06-22 20:33:05  #Trading Economics #Economy #Canada #Inflation Rate #Importance 3
-
-Canada Inflation Rises to Over 2-Year High — The headline inflation rate in Canada rose to 3.2% in May of 2026 from 2.8% in the previous month, ahead of market expectations of 3% and the 2.8% rate from the previous month to mark the fastest inflation rate since December 2023. The increase was largely due to a surge in gasoline inflation (33.2% vs 22.8% in April) as the war in the Middle East suspended energy exports from the key region, lifting broader energy costs in Canada by 9% (vs 7.6%).
-
----
-
-### 2026-06-22 20:32:48  #MKT News
-
-【Shanghai executive meeting reviews 15th Five-Year plan for strategic emerging industries and Digital Shanghai】Mayor Gong Zheng chaired a city executive meeting today, instructing officials to sustain Q1 economic momentum and push to meet H1 growth targets; boost the scale and capability of strategic emerging industries; accelerate high-quality private investment; and advance the Digital Shanghai initiative. Districts and departments were ordered to extend sector gains, close weaknesses, ensure heavyweight industries act as stabilising anchors and help pressured sectors reach inflection points. The city will back key regions to carry greater responsibility, prioritise solving new problems, and coordinate short-term growth stabilisation with medium-to-long-term structural transformation. The meeting approved in principle Shanghai’s 15th Five-Year plan for strategic emerging industries, stressing innovation-led development, strengthening core capabilities in three lead industries and key industrial chains, deepening forward-looking deployments in frontier technologies, and expanding industry clusters in targeted niche tracks. The plan calls for institutional reform to unlock business dynamism—wider scenario opening, stronger factor support—and deeper domestic coordination and external opening to raise industry development quality and efficiency.
-
----
-
-### 2026-06-22 20:32:47  #市場
-
-【現貨蛋價高位回落 期現共振大幅走弱】今日現貨延續下跌，據卓創資訊資料監測顯示，截至6月22日14點47分，全國主產區雞蛋均價為4.45元/斤，較昨日價格下滑0.08元/斤。整體來看，前期端午備貨帶動雞蛋現貨大幅衝高，節後需求快速消退，疊加南方梅雨壓制流通採購，現貨價格快速回落，雞蛋期貨同步大跌，期現漲幅基本全部回吐。當前庫存快速累積，生產環節及流通環節庫存大幅上漲，且已高於去年同期，短期供需寬鬆格局初現，現貨蛋價仍存在調整空間，不過隨著7月出梅以及9月中秋備貨啟動，現貨蛋價仍存在一定反彈的需求，近月盤面謹慎追空，後續仍需要關注產區庫存情況及存欄情況。不過值得注意的是，二季度集中補欄的雞苗在四季度末期陸續開產，供應量或呈攀升態勢，遠期供應壓力不容忽視。 (廣發期貨)
-
----
-
-### 2026-06-22 20:32:44  #MKT News
-
-Lowy Institute survey: Australians' trust in the United States to act responsibly on the world stage falls to 31%.
-
----
-
-### 2026-06-22 20:32:30  #MKT News #USDCAD
-
-USD/CAD little changed in intraday trading; last quoted at 1.4153.
-
----
-
-### 2026-06-22 20:32:22  #資料 #市場
-
-加拿大CPI資料公佈後，加元兌美元匯率升至盤中高點1.4145。
-
----
-
-### 2026-06-22 20:31:49  #國際
-
-洛伊研究所調查：澳大利亞人對美國總統特朗普的信心降至21%。
-
----
-
-### 2026-06-22 20:31:38  #央行 #國際
-
-印度央行：在外國直接投資流入和充足外匯儲備的支援下，印度對外部門保持韌性。
-
----
-
-### 2026-06-22 20:31:32  #MKT News #Market Themes #The Trump Trade
-
-Lowy Institute poll: Australians' confidence in US President Trump falls to 21%.
-
----
-
-### 2026-06-22 20:31:17  #經濟數據 #加拿大
-
-【加拿大5月份通脹率同比上漲3.2% 預估值為3.0%】加拿大5月份通脹率同比上漲3.2%，預估值為3.0%。
-
----
-
-### 2026-06-22 20:31:09  #MKT News
-
-Lowy Institute survey: Australian public trust in the United States falls to a record low.
-
----
-
-### 2026-06-22 20:31:06  #國際
-
-洛伊研究所調查：澳大利亞人對美國的信任降至歷史低點。
-
----
-
-### 2026-06-22 20:31:03  #央行 #國際
-
-印度央行：前兩個月的高頻指標顯示2026-27財年經濟動能持續。
-
----
-
-### 2026-06-22 20:30:27  #其他
-
-人工智慧企業Upscale AI完成A輪擴充套件融資1.9億美元，總融資額達到5億美元。
-
----
-
-### 2026-06-22 20:30:20  #資料
-
-加拿大5月CPI月率 1%，預期0.80%，前值0.40%。
-加拿大5月CPI年率 3.2%，預期3.00%，前值2.80%。
-加拿大5月核心CPI月率 0.6%，前值0.2%。
-加拿大5月核心CPI年率 2.2%，前值2.1%。
-
----
-
-### 2026-06-22 20:30:14  #MKT News #DXY #Impact bearish #XAUUSD #Impact bullish
-
-Canada core CPI YoY May 2.2% (prev 2.1%).
-
----
-
-### 2026-06-22 20:30:13  #MKT News #Important #DXY #Impact bearish
-
-Canada May CPI m/m 1.0% vs 0.8% expected, prior 0.4%.
-
----
-
-### 2026-06-22 20:30:10  #MKT News #DXY #Impact bearish
-
-Canada May CPI YoY 3.2% vs 3.0% expected; prior 2.8%.
-
----
-
-### 2026-06-22 20:30:09  #MKT News
-
-Canada May core CPI MoM 0.6%, prior 0.2%.
-
----
-
-### 2026-06-22 20:30:09  #MKT News #Commodities #Energy #WTI #Impact bearish #Brent
-
-Reserve Bank of India says India's crude oil basket prices remain elevated.
-
----
-
-### 2026-06-22 20:30:01  #MKT News #Economic Calendar #Important
-
-Canada | Core CPI (YoY) (May) | actual 2.2% | previous 2.1%
 
 ---

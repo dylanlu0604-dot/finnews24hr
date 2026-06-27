@@ -1,7 +1,178 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-06-27 20:11:16_
-_本檔包含 3562 則快訊，約 672770 字_
+_更新時間：2026-06-27 21:11:05_
+_本檔包含 3557 則快訊，約 672890 字_
+
+---
+
+### 2026-06-22 20:34:56  #MKT News
+
+Reserve Bank of India said that if the southwest monsoon unfolds as expected, it could put pressure on domestic growth and the inflation outlook.
+
+---
+
+### 2026-06-22 20:34:52  #市場
+
+歐元/英鎊下跌0.3%至0.86393，為6月16日以來最低水平。
+
+---
+
+### 2026-06-22 20:34:42  #公司
+
+據港交所檔案：上海悅普數智科技股份有限公司向港交所提交上市申請書。
+
+---
+
+### 2026-06-22 20:34:35  #其他
+
+【英特爾釋出“AI家庭大腦”】在今日開幕的第四屆中國國際供應鏈促進博覽會（鏈博會）上，英特爾釋出AI家庭大腦，該方案基於第三代英特爾® 酷睿™ Ultra及酷睿™ 處理器，整合CPU、GPU、NPU三大引擎，榮耀、Minimax、聯想、小米等出席了釋出會。此外，英特爾還與長安汽車聯合釋出了搭載英特爾AI Box Ultra的AI座艙解決方案。（科創板日報）
+
+---
+
+### 2026-06-22 20:34:35  #MKT News
+
+EUR/GBP fell 0.3% to 0.86393, the lowest since June 16.
+
+---
+
+### 2026-06-22 20:34:30  #其他
+
+Upscale AI ：A-1輪融資由Premji Invest領投；NVIDIA、Salesforce Ventures、Seligman Ventures、淡馬錫參投。
+
+---
+
+### 2026-06-22 20:33:09  #MKT News
+
+Reserve Bank of India said CPI inflation remained stable despite a pickup in May.
+
+---
+
+### 2026-06-22 20:33:05  #Trading Economics #Economy #Canada #Inflation Rate #Importance 3
+
+Canada Inflation Rises to Over 2-Year High — The headline inflation rate in Canada rose to 3.2% in May of 2026 from 2.8% in the previous month, ahead of market expectations of 3% and the 2.8% rate from the previous month to mark the fastest inflation rate since December 2023. The increase was largely due to a surge in gasoline inflation (33.2% vs 22.8% in April) as the war in the Middle East suspended energy exports from the key region, lifting broader energy costs in Canada by 9% (vs 7.6%).
+
+---
+
+### 2026-06-22 20:32:48  #MKT News
+
+【Shanghai executive meeting reviews 15th Five-Year plan for strategic emerging industries and Digital Shanghai】Mayor Gong Zheng chaired a city executive meeting today, instructing officials to sustain Q1 economic momentum and push to meet H1 growth targets; boost the scale and capability of strategic emerging industries; accelerate high-quality private investment; and advance the Digital Shanghai initiative. Districts and departments were ordered to extend sector gains, close weaknesses, ensure heavyweight industries act as stabilising anchors and help pressured sectors reach inflection points. The city will back key regions to carry greater responsibility, prioritise solving new problems, and coordinate short-term growth stabilisation with medium-to-long-term structural transformation. The meeting approved in principle Shanghai’s 15th Five-Year plan for strategic emerging industries, stressing innovation-led development, strengthening core capabilities in three lead industries and key industrial chains, deepening forward-looking deployments in frontier technologies, and expanding industry clusters in targeted niche tracks. The plan calls for institutional reform to unlock business dynamism—wider scenario opening, stronger factor support—and deeper domestic coordination and external opening to raise industry development quality and efficiency.
+
+---
+
+### 2026-06-22 20:32:47  #市場
+
+【現貨蛋價高位回落 期現共振大幅走弱】今日現貨延續下跌，據卓創資訊資料監測顯示，截至6月22日14點47分，全國主產區雞蛋均價為4.45元/斤，較昨日價格下滑0.08元/斤。整體來看，前期端午備貨帶動雞蛋現貨大幅衝高，節後需求快速消退，疊加南方梅雨壓制流通採購，現貨價格快速回落，雞蛋期貨同步大跌，期現漲幅基本全部回吐。當前庫存快速累積，生產環節及流通環節庫存大幅上漲，且已高於去年同期，短期供需寬鬆格局初現，現貨蛋價仍存在調整空間，不過隨著7月出梅以及9月中秋備貨啟動，現貨蛋價仍存在一定反彈的需求，近月盤面謹慎追空，後續仍需要關注產區庫存情況及存欄情況。不過值得注意的是，二季度集中補欄的雞苗在四季度末期陸續開產，供應量或呈攀升態勢，遠期供應壓力不容忽視。 (廣發期貨)
+
+---
+
+### 2026-06-22 20:32:44  #MKT News
+
+Lowy Institute survey: Australians' trust in the United States to act responsibly on the world stage falls to 31%.
+
+---
+
+### 2026-06-22 20:32:30  #MKT News #USDCAD
+
+USD/CAD little changed in intraday trading; last quoted at 1.4153.
+
+---
+
+### 2026-06-22 20:32:22  #資料 #市場
+
+加拿大CPI資料公佈後，加元兌美元匯率升至盤中高點1.4145。
+
+---
+
+### 2026-06-22 20:31:49  #國際
+
+洛伊研究所調查：澳大利亞人對美國總統特朗普的信心降至21%。
+
+---
+
+### 2026-06-22 20:31:38  #央行 #國際
+
+印度央行：在外國直接投資流入和充足外匯儲備的支援下，印度對外部門保持韌性。
+
+---
+
+### 2026-06-22 20:31:32  #MKT News #Market Themes #The Trump Trade
+
+Lowy Institute poll: Australians' confidence in US President Trump falls to 21%.
+
+---
+
+### 2026-06-22 20:31:17  #經濟數據 #加拿大
+
+【加拿大5月份通脹率同比上漲3.2% 預估值為3.0%】加拿大5月份通脹率同比上漲3.2%，預估值為3.0%。
+
+---
+
+### 2026-06-22 20:31:09  #MKT News
+
+Lowy Institute survey: Australian public trust in the United States falls to a record low.
+
+---
+
+### 2026-06-22 20:31:06  #國際
+
+洛伊研究所調查：澳大利亞人對美國的信任降至歷史低點。
+
+---
+
+### 2026-06-22 20:31:03  #央行 #國際
+
+印度央行：前兩個月的高頻指標顯示2026-27財年經濟動能持續。
+
+---
+
+### 2026-06-22 20:30:27  #其他
+
+人工智慧企業Upscale AI完成A輪擴充套件融資1.9億美元，總融資額達到5億美元。
+
+---
+
+### 2026-06-22 20:30:20  #資料
+
+加拿大5月CPI月率 1%，預期0.80%，前值0.40%。
+加拿大5月CPI年率 3.2%，預期3.00%，前值2.80%。
+加拿大5月核心CPI月率 0.6%，前值0.2%。
+加拿大5月核心CPI年率 2.2%，前值2.1%。
+
+---
+
+### 2026-06-22 20:30:14  #MKT News #DXY #Impact bearish #XAUUSD #Impact bullish
+
+Canada core CPI YoY May 2.2% (prev 2.1%).
+
+---
+
+### 2026-06-22 20:30:13  #MKT News #Important #DXY #Impact bearish
+
+Canada May CPI m/m 1.0% vs 0.8% expected, prior 0.4%.
+
+---
+
+### 2026-06-22 20:30:10  #MKT News #DXY #Impact bearish
+
+Canada May CPI YoY 3.2% vs 3.0% expected; prior 2.8%.
+
+---
+
+### 2026-06-22 20:30:09  #MKT News
+
+Canada May core CPI MoM 0.6%, prior 0.2%.
+
+---
+
+### 2026-06-22 20:30:09  #MKT News #Commodities #Energy #WTI #Impact bearish #Brent
+
+Reserve Bank of India says India's crude oil basket prices remain elevated.
+
+---
+
+### 2026-06-22 20:30:01  #MKT News #Economic Calendar #Important
+
+Canada | Core CPI (YoY) (May) | actual 2.2% | previous 2.1%
 
 ---
 
@@ -21278,203 +21449,5 @@ Mehr News Agency reported Iran's Supreme Joint Military Command said the Strait 
 ### 2026-06-20 21:11:10  #MKT News #WTI #Impact bearish #DXY #S&P500 #Impact bullish
 
 According to Fox News, U.S. Vice President Vance said he would offer Iran an opportunity to negotiate.
-
----
-
-### 2026-06-20 21:10:47  #其他
-
-萬斯：庫什納和威特科夫在當地已有數小時。
-
----
-
-### 2026-06-20 21:10:25  #國際
-
-美國副總統萬斯：將給伊朗談判一次機會。
-
----
-
-### 2026-06-20 21:10:20  #國際
-
-伊朗稱霍爾木茲海峽已關閉。（塔斯尼姆通訊社）
-
----
-
-### 2026-06-20 21:10:00  #MKT News
-
-U.S. Vice President Vance said he was confident the ceasefire could be maintained, Fox News reported.
-
----
-
-### 2026-06-20 21:09:10  #其他
-
-萬斯稱：預計未來幾日將前往瑞士。
-
----
-
-### 2026-06-20 21:09:10  #MKT News
-
-Fox News reported US Vice President Vance said Iran negotiations are progressing smoothly and he expects to travel to Switzerland in the next few days.
-
----
-
-### 2026-06-20 21:08:40  #MKT News #Important
-
-U.S. Vice President Vance said U.S. presidential envoy Witkoff and Trump son-in-law Kushner have arrived at the negotiation site for talks with Iran; negotiations could take place on Sunday.
-
----
-
-### 2026-06-20 21:08:01  #國際
-
-美國副總統萬斯：週日可能與伊朗舉行談判。
-
----
-
-### 2026-06-20 21:07:48  #國際
-
-美國副總統萬斯表示：與伊朗的談判進展順利。
-
----
-
-### 2026-06-20 21:07:01  #國際
-
-美國副總統萬斯：威特科夫和庫什納已抵達與伊朗的談判現場。
-
----
-
-### 2026-06-20 21:02:10  #MKT News #Brent #Impact bullish #WTI
-
-【UK media: Iran may charge insurance for ships transiting Strait of Hormuz】UK media reported on the 19th that Iran’s Persian Gulf Strait Administration has issued a document requiring all vessels to carry insurance approved by the agency to transit the Strait of Hormuz. The document, circulated among shipping managers and reported by the FT, says “all vessels must hold a valid insurance policy approved by the Persian Gulf Strait Administration”; the cover is currently “free” within the period set out in the US‑Iran memorandum of understanding, but the administration “reserves the right to charge premiums in future.”
-
----
-
-### 2026-06-20 20:58:42  #國際
-
-【英媒：伊朗或向霍爾木茲海峽通行船隻收“保險費”】英國媒體19日披露，伊朗波斯灣海峽管理局釋出檔案，要求所有船隻必須持有該機構批准的保險，才能透過霍爾木茲海峽。這項保險在美國與伊朗諒解備忘錄所規定的期限內免費，後續可能收費。據英國《金融時報》報道，這份檔案在航運業管理層中傳閱。檔案寫道，“所有船隻必須持有由波斯灣海峽管理局批准的有效保險單”，現階段該保險“不收費”，但管理局“保留今後行使收取保費的權利”。（新華社）
-
----
-
-### 2026-06-20 20:57:23  #國際
-
-伊朗伊斯蘭革命衛隊海軍：未按拉拉克島附近南部海域航線航行的船隻將對可能發生的任何事件負責。
-
----
-
-### 2026-06-20 20:54:03  #國際
-
-伊拉克官員在伊朗會見巴基斯坦內政部長。
-
----
-
-### 2026-06-20 20:50:50  #MKT News
-
-Israel's ambassador to the United States said Israel seeks peaceful coexistence with neighboring states within secure, recognized borders.
-
----
-
-### 2026-06-20 20:50:50  #MKT News #XAUUSD #Impact bullish #DXY #WTI
-
-Israel's ambassador to the US said HEZBOLLAH violated the ceasefire and that Iran is using HEZBOLLAH to extract concessions.
-
----
-
-### 2026-06-20 20:50:34  #MKT News
-
-Iran's foreign minister met visiting Pakistani interior minister, Iran's SNN news agency reported.
-
----
-
-### 2026-06-20 20:50:25  #國際
-
-伊朗外長阿拉格齊會見了來訪的巴基斯坦內政部長。
-
----
-
-### 2026-06-20 20:48:42  #國際
-
-伊朗伊斯蘭革命衛隊海軍：計劃穿越霍爾木茲海峽的船隻必須就此事與我們協調。
-
----
-
-### 2026-06-20 20:47:26  #MKT News #Brent #Impact bullish #XAUUSD #DXY
-
-【Zaporizhzhia nuclear plant loses external power for 20th time】The IAEA reported the Zaporizhzhia nuclear plant completely lost external power on June 20, the 20th such outage since the Russia-Ukraine conflict began.
-
----
-
-### 2026-06-20 20:44:33  #公司 #國際
-
-【育碧聯合創始人吉列莫因空難去世，享年69歲】育碧聯合創始人克勞德·吉列莫因空難去世，享年69歲。據報道，吉列莫於當地時間週五在法國大西洋沿岸度假小鎮拉博勒發生的一起飛機墜毀事故中喪生，他是這架雙引擎塞斯納421型飛機上的兩名乘客之一，兩人均在事故中遇難。
-
----
-
-### 2026-06-20 20:41:58  #其他
-
-【端午當天深圳鐵路多項資料重新整理歷史紀錄】深圳鐵路部門20日釋出的統計資料顯示，6月19日端午當天，深圳鐵路迎來客流高峰，多項資料重新整理歷史紀錄。據統計，6月19日當天，深圳鐵路累計傳送旅客56.18萬人，較去年同期增幅高達14.44%。光明城站當日傳送旅客0.83萬人次，到達旅客0.89萬人次，到發旅客合計1.72萬人次，三項指標均創歷史紀錄。深圳坪山站傳送旅客2.53萬人次，同樣重新整理了單日傳送量的歷史紀錄。（中新網）
-
----
-
-### 2026-06-20 20:32:22  #其他
-
-扎波羅熱核電站準備向國際原子能機構提供一名工作人員身亡事件的相關資料。
-
----
-
-### 2026-06-20 20:30:27  #國際
-
-黎巴嫩衛生部：以色列對該國南部卡納裡特鎮的一次空襲造成7人死亡13人受傷，包括兒童和婦女。
-
----
-
-### 2026-06-20 20:28:59  #國際
-
-美國特使威特科夫和庫什納抵達瑞士與伊朗舉行會談。
-
----
-
-### 2026-06-20 20:25:19  #國際
-
-伊朗和巴基斯坦外長討論了伊朗與美國簽署諒解備忘錄後的外交程序，並回顧了雙邊問題。（塔斯尼姆通訊社）
-
----
-
-### 2026-06-20 20:24:10  #國際
-
-伊朗外交部發言人巴加伊駁斥了有關霍爾木茲海峽已被關閉的媒體報道，稱此類說法毫無根據。
-
----
-
-### 2026-06-20 20:24:05  #MKT News #WTI #Impact bearish #Brent
-
-Iran's foreign ministry spokesman Bagayi denied media reports that the Strait of Hormuz had been closed, calling the claims unfounded.
-
----
-
-### 2026-06-20 20:23:26  #MKT News
-
-【DRC Ebola cases rise to 933; fatality rate about 26%】On June 19 the DRC health ministry reported the current Ebola outbreak has 933 confirmed cases and 245 deaths, an overall case fatality rate of about 26%. Health minister Roger Kamba said 416 patients are hospitalised in Ebola treatment centres and 80 have been discharged; treatment capacity has been expanded to over 516 beds and more beds are being added to admit new community cases and manage suspected cases pending confirmation.
-
----
-
-### 2026-06-20 20:22:57  #公司
-
-育碧（Ubisoft）發言人：公司聯合創始人吉列莫因意外去世。
-
----
-
-### 2026-06-20 20:16:34  #公司
-
-【天華新能：公司富鋰錳基正極材料現已完成部分產品定型】天華新能6月20日在互動平臺表示，公司以集團研究院為載體，透過與高校開展技術合作，進行硫化物固態電解質及其低成本超純硫化鋰的研發工作。目前，已經形成工藝包及核心專利申請，部分樣品已送客戶測試並獲得合格的評價結果。公司富鋰錳基正極材料現已完成部分產品定型，除面向固態電池體系推進產業化應用外，還可與液態電池、固液混合電池及三元材料復配使用，可顯著提升電芯安全性、控制生產成本，市場競爭力突出。公司宜興基地在建生產線可適配富鋰錳基材料的規模化生產需求。
-
----
-
-### 2026-06-20 20:16:28  #公司
-
-【天華新能：未來擇機增加鋰鹽產能達到25萬～26萬噸/年】天華新能6月20日在互動平臺表示，公司未來將會根據市場對鋰鹽產品的需求變化，擇機增加鋰鹽產能達到25萬～26萬噸/年。
-
----
-
-### 2026-06-20 20:13:46  #其他
-
-【扎波羅熱核電站第20次失去外部供電】6月20日，國際原子能機構通報，扎波羅熱核電站於當日完全失去外部供電，這是自俄烏衝突爆發以來第20次出現此類情況。（央視新聞）
 
 ---
