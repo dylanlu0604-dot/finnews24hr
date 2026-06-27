@@ -1,7 +1,15 @@
 {
-  "updated": "2026-06-27 21:31:41",
-  "count": 18163,
+  "updated": "2026-06-27 21:35:51",
+  "count": 18153,
   "items": [
+    {
+      "id": "mkt:019f094a-5dac-7dd8-b142-51e3e0190ce9",
+      "time": "2026-06-27 21:34:56",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Saudi foreign ministry condemned Iran's attack on Bahrain, calling it a violation of international law."
+    },
     {
       "id": "4958442",
       "time": "2026-06-27 21:30:55",
@@ -166087,100 +166095,6 @@
         "Important"
       ],
       "text": "【SSE developing single-sided close for stock option combos; feature not yet active】The Shanghai Stock Exchange (SSE) is developing a single-sided close function for its stock option combination strategy business but has not activated it. SSE and the Shenzhen Stock Exchange jointly launched stock option combination strategies in 2019 and explicitly specified that the single-sided close feature would not be implemented at that time. SSE has published technical interfaces for market participants to use in development, but the function remains inactive operationally."
-    },
-    {
-      "id": "4945857",
-      "time": "2026-06-20 21:35:49",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "【上交所擬推股票期權組合策略業務？暫不實施】近日有訊息稱，上交所擬完善股票期權組合策略業務，推出單邊平倉功能。對此，記者獲悉，2019年上交所和深交所同步推出股票期權組合策略業務，並在通知中明確單邊平倉功能暫不實施。目前，上交所正在進行該功能的技術開發工作，釋出了技術介面供市場進行技術開發使用，業務上該功能仍暫不實施。（證券時報）"
-    },
-    {
-      "id": "mkt:019ee53d-da6e-7dd8-b09f-b419262a8407",
-      "time": "2026-06-20 21:34:56",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Iran's foreign ministry spokesman told Fars News Agency that Iran will not sign commitments it cannot fulfill, saying its principle is 'commitment for commitment'."
-    },
-    {
-      "id": "4945856",
-      "time": "2026-06-20 21:34:37",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗外交部發言人表示，我們不會簽署不會執行的承諾；我們的方針是“以承諾換取承諾”。"
-    },
-    {
-      "id": "mkt:019ee53d-755e-7dd8-b09f-aaa07681d09a",
-      "time": "2026-06-20 21:34:30",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "Iran’s Foreign Ministry spokesman told Fars News Agency that Tehran will take necessary measures in response if the other party fails to fulfill its commitments."
-    },
-    {
-      "id": "mkt:019ee53d-2c92-7dd8-b09f-a0fc2d86e322",
-      "time": "2026-06-20 21:34:11",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Fars News Agency quoted an Iranian foreign ministry spokesman saying the other side must take necessary measures without delay."
-    },
-    {
-      "id": "4945855",
-      "time": "2026-06-20 21:34:10",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗外交部發言人表示，如果對方拒絕履行承諾，伊朗將採取必要措施予以回應。"
-    },
-    {
-      "id": "mkt:019ee53c-929d-7dd8-b09f-9fb8e979d956",
-      "time": "2026-06-20 21:33:32",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "Fars News Agency quoted an Iranian Foreign Ministry spokesman as saying that if other parties fail to fulfill some commitments, the entire memorandum of understanding could be jeopardized."
-    },
-    {
-      "id": "4945854",
-      "time": "2026-06-20 21:33:25",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗外交部發言人表示，另一方必須儘快採取必要措施。"
-    },
-    {
-      "id": "4945853",
-      "time": "2026-06-20 21:33:05",
-      "tags": [
-        "國際"
-      ],
-      "text": "【敘利亞兩名士兵遭襲身亡】據敘利亞方面20日訊息，敘過渡政府國防部稱，過渡政府部隊兩名士兵當天在敘北部阿勒頗省曼比季市遭不明身份武裝人員襲擊身亡。"
-    },
-    {
-      "id": "4945852",
-      "time": "2026-06-20 21:32:52",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗外交部發言人表示，如果另一方的部分承諾未能得到履行，那麼整體諒解就會“陷入困境”。"
-    },
-    {
-      "id": "4945851",
-      "time": "2026-06-20 21:32:36",
-      "tags": [
-        "國際"
-      ],
-      "text": "【伊媒稱伊朗代表團將前往瑞士】伊朗法爾斯通訊社今天（6月20日）援引伊朗外交部發言人訊息稱，伊朗代表團將前往瑞士進行美伊會談後續跟進，並要求美方履行承諾。報道稱，伊朗已履行承諾，美國有義務迫使以色列停止襲擊黎巴嫩。（CCTV國際時訊）"
     }
   ]
 }
