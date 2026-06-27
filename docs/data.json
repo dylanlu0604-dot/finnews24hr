@@ -1,7 +1,23 @@
 {
-  "updated": "2026-06-28 00:39:46",
+  "updated": "2026-06-28 00:43:57",
   "count": 18148,
   "items": [
+    {
+      "id": "mkt:019f09f6-f4ed-7dd8-b142-fd262a4cab7f",
+      "time": "2026-06-28 00:43:27",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Iran June inf YoY rises to 88.6%】Foreign media on June 27, citing Iranian official data, reported Iran's June inf rose to 88.6% YoY, saying the increase was affected by Middle East hostilities."
+    },
+    {
+      "id": "4958529",
+      "time": "2026-06-28 00:39:42",
+      "tags": [
+        "國際"
+      ],
+      "text": "沙特外交部長和卡達首相兼外交部長在一次通話中譴責伊朗對巴林的襲擊以及對海上航行的威脅。他們強調需要維護美伊協議、推進談判並達成全面解決方案，以加強地區安全與穩定。"
+    },
     {
       "id": "mkt:019f09f2-6416-7dd8-b142-f16b61b8a03a",
       "time": "2026-06-28 00:38:27",
@@ -166047,22 +166063,6 @@
         "MKT News"
       ],
       "text": "Iranian Students' News Agency reported President Pezeshkian met Pakistan's interior minister."
-    },
-    {
-      "id": "4945929",
-      "time": "2026-06-21 00:43:24",
-      "tags": [
-        "國際"
-      ],
-      "text": "加拿大將於7月1日與美國和墨西哥舉行會晤，開展《美墨加協定》複核。"
-    },
-    {
-      "id": "4945928",
-      "time": "2026-06-21 00:43:11",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗總統將會見巴基斯坦內政部長。"
     }
   ]
 }
