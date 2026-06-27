@@ -1,7 +1,23 @@
 {
-  "updated": "2026-06-28 01:08:20",
+  "updated": "2026-06-28 01:12:26",
   "count": 18143,
   "items": [
+    {
+      "id": "4958543",
+      "time": "2026-06-28 01:11:17",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場資訊：塞爾維亞總統亞歷山大·武契奇稱將在數週內辭職，預示將提前舉行大選。"
+    },
+    {
+      "id": "mkt:019f0a10-612c-7dd8-b143-113f0bc8509e",
+      "time": "2026-06-28 01:11:13",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Serbian President Vucic said he will resign within weeks, indicating early elections."
+    },
     {
       "id": "4958542",
       "time": "2026-06-28 01:07:22",
@@ -165980,24 +165996,6 @@
         "其他"
       ],
       "text": "巴基斯坦政府訊息人士：總理和陸軍參謀長將率領巴基斯坦代表團，並致力於促成會談。"
-    },
-    {
-      "id": "4945940",
-      "time": "2026-06-21 01:10:41",
-      "tags": [
-        "公司",
-        "市場",
-        "國際"
-      ],
-      "text": "【可口可樂聘請重組專家協助Costa咖啡架構重組和運營最佳化】由於私募股權機構給出的收購報價未能達到20億美元的估值預期，可口可樂已正式擱置出售Costa咖啡的計劃。此次出售計劃作罷後，這家飲料巨頭如今將重心放在架構重組與運營最佳化上，以此提升旗下咖世家全渠道業務的盈利水平。各收購方出價均未達到可口可樂的估值目標，公司因此叫停Costa咖啡出售事宜。可口可樂在2018年斥資超50億美元收購了該咖啡連鎖品牌。可口可樂放棄出售方案，轉而整合Costa的各項業務，撤銷旗下“全球創投事業部”，將Costa連鎖品牌直接劃歸區域板塊管理，重點推進歐洲與中國市場的業務升級。本次重組旨在應對多重行業難題，包括成本持續上漲、咖啡豆價格波動以及消費者消費習慣轉變等。"
-    },
-    {
-      "id": "mkt:019ee601-9f94-7dd8-b0a0-f807ccb6fcf6",
-      "time": "2026-06-21 01:08:46",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【ZELENSKIY warns Russian forces preparing large-scale attack】Ukrainian President ZELENSKIY said on Saturday Russian forces are preparing a large-scale attack on Ukraine and urged civilians to remain vigilant. In an evening video address he said: \"It is especially important to closely monitor air-raid alerts tonight and in the coming hours.\""
     }
   ]
 }
