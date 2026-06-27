@@ -1,7 +1,16 @@
 {
-  "updated": "2026-06-28 04:32:46",
-  "count": 18144,
+  "updated": "2026-06-28 04:36:52",
+  "count": 18143,
   "items": [
+    {
+      "id": "4958607",
+      "time": "2026-06-28 04:34:39",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "法國電力集團（EDF）負責人發出警告：受電力供應短缺影響，美國或將面臨大面積停電風險。"
+    },
     {
       "id": "4958606",
       "time": "2026-06-28 04:31:24",
@@ -165990,23 +165999,6 @@
         "國際"
       ],
       "text": "【美副總統萬斯已啟程前往瑞士】當地時間6月20日，美國副總統發言人表示，副總統萬斯已從華盛頓起飛，啟程前往瑞士。（央視新聞）"
-    },
-    {
-      "id": "mkt:019ee6be-4886-7dd8-b0a1-e7a82919e762",
-      "time": "2026-06-21 04:34:50",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "U.S. Vice President Vance said he will be in Switzerland for one to two days for talks with Iran and hopes to make progress on nuclear issues and a ceasefire in Lebanon."
-    },
-    {
-      "id": "4945992",
-      "time": "2026-06-21 04:34:25",
-      "tags": [
-        "其他"
-      ],
-      "text": "萬斯：黎巴嫩境內戰事局勢實際正在好轉。"
     }
   ]
 }
