@@ -1,7 +1,205 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-06-27 07:04:47_
-_本檔包含 3485 則快訊，約 670161 字_
+_更新時間：2026-06-27 08:04:51_
+_本檔包含 3493 則快訊，約 670190 字_
+
+---
+
+### 2026-06-22 18:44:08  #國際
+
+【特朗普稱林肯紀念堂倒影池遭“蓄意破壞” 多人被捕】在美國總統特朗普推動下，華盛頓林肯紀念堂前的倒影池本月初被改造為“藍底”，但沒多久就出現藻類爆發、塗層脫落等問題。特朗普19日起接連發文，指責有人蓄意破壞水池，但沒有提供證據。據美國《華盛頓郵報》21日報道，執法人員以涉嫌破壞水池之名逮捕多人，其中包括美國前奧運皮划艇專案選手、世界冠軍戴維·赫恩。（新華社）
+
+---
+
+### 2026-06-22 18:43:33  #市場 #觀點 #央行 #國際
+
+【摩根士丹利：ETF需求是推動黃金達到5200美元的關鍵變數】摩根士丹利表示，如果沒有ETF資金流入的顯著回升，其關於下半年金價達到5200美元的看漲目標將變得更加難以實現。摩根士丹利分析師表示：“儘管央行購金可能會繼續，但ETF資金流對利率預期的變化更為敏感。缺失的一環是ETF需求，它可能仍將對美聯儲政策路徑、實際收益率和美元保持敏感。”摩根士丹利仍看好黃金的長期前景，因為中東緊張局勢緩和以及油價下跌有助於緩解對通脹的擔憂。不過，美聯儲在最近一次會議上措辭偏鷹，強化了利率將在更長時間內維持高位的預期，增加了持有黃金等不生息資產的機會成本。
+
+---
+
+### 2026-06-22 18:43:13  #公司
+
+【我國規模最大全釩液流儲能電站提前轉入商業執行】近日，三峽集團新疆吉木薩爾百萬光伏+全釩液流儲能一體化專案全面轉入商業執行，較原計劃提前約一個月。新疆吉木薩爾全釩液流儲能電站是我國大容量長時儲能領域的標誌性專案，其順利轉入商業執行進一步驗證了全釩液流技術規模化應用及商業化運營的可行性，為我國構建以新能源為主體的新型電力系統提供了重要實踐支撐。
+
+---
+
+### 2026-06-22 18:42:51  #公司 #觀點
+
+根據港交所披露檔案，摩根大通公司於6月16日將其持有的東方電氣股份有限公司（1072.HK）H股多頭倉位從6.54%降至5.93%。
+
+---
+
+### 2026-06-22 18:42:12  #公司
+
+【4只商業不動產REITs獲批】6月22日，證監會官網顯示，4只商業不動產REITs獲批，分別是華夏凱德商業不動產REIT、華夏保利發展商業不動產REIT、華安陸家嘴商業不動產REIT、創金合信北京國資公司商業不動產REIT。根據要求，相關產品在批覆下發之日起6個月內進行基金的募集活動，募集期限自基金份額髮售之日起不得超過3個月。
+
+---
+
+### 2026-06-22 18:41:55  #國際
+
+美國地質調查局：阿富汗朱爾姆西南偏南 42 公里處發生 5.2 級地震。
+
+---
+
+### 2026-06-22 18:41:48  #國際
+
+【伊朗稱將持續監督美方履約情況 以確保承諾得到執行】當地時間22日，伊朗外交部發言人巴加埃在社交媒體平臺上發文表示，在就執行伊美諒解備忘錄條款進行了緊張磋商後，伊朗談判代表團已啟程返回國內。巴加埃表示，本輪會談重點圍繞諒解備忘錄第1、5、10和11條展開，於21日上午在瑞士盧塞恩湖地區啟動，並持續至22日凌晨。根據伊朗與美國雙方協商形成、卡達和巴基斯坦作為斡旋方釋出的聯合宣告，已建立用於監督諒解備忘錄執行的機制，並決定在專家與技術層面繼續對話，以推動有效落實旨在結束戰爭的協議。巴加埃稱，諒解備忘錄第13條規定，啟動最終協議談判需以第1、4、5、10和11條的啟動及持續執行為前提，本次會議達成的共識將有助於推動雙方履約程序，尤其是第1條（關於透過建立由各方及黎巴嫩參與的衝突控制機制，以結束戰爭並停止以色列在黎巴嫩的軍事行動）、第10條（關於伊朗石油與石化產品出口）和第11條（關於解凍伊朗被凍結資產）。巴加埃說，伊朗在持續監督對方履約情況的同時，將利用其所有工具確保這些承諾得到執行。（央視新聞）
+
+---
+
+### 2026-06-22 18:41:27  #市場
+
+【星源材質(06067)暗盤收漲逾41% 每手賺1850港元】星源材質(06067)將於6月23日(週二)在香港掛牌。截至收盤，利弗莫爾證券暗盤交易顯示報價12.68港元，較招股價8.98港元上漲41.2%，每手500股，不計手續費，每手賺1850港元。
+
+---
+
+### 2026-06-22 18:41:16  #其他
+
+【百億私募增至141家 安賢和海南盛豐2家量化私募新進百億佇列】6月以來，百億級私募繼續擴容。私募排排網統計資料顯示，截至2026年6月22日，當前百億證券私募管理人數量達141家，較上月相比，新增2家百億量化私募，分別是安賢私募和海南盛豐私募。其中，安賢私募以複合策略為特色，辦公地位於北京；位於深圳的海南盛豐私募，核心策略是股票市場中性。目前，百億私募佇列中，核心策略為量化策略的佔比最大，有54家，其中包括44家量化多頭策略私募，另外還有6家量化CTA私募；主觀多頭則有39家。 (財聯社記者 周曉雅)
+
+---
+
+### 2026-06-22 18:41:08  #其他
+
+【水利部：西江發生2026年第1號洪水】受降雨影響，珠江流域西江出現明顯洪水過程，此次洪水編號為“西江2026年第1號洪水”，為我國今年大江大河首次編號洪水。國家防總副總指揮、水利部部長李國英提前對西江洪水防禦作出安排部署，水利部珠江水利委員會將針對廣東、廣西、貴州的洪水防禦應急響應提升至Ⅲ級，滾動開展大江大河與中小河流洪水監測預報，強化降雨過程“梯次預警+靶向叫應”工作機制，夜間點對點電話“叫應”，第一時間提醒貴州、廣西等地“叫動”群眾轉移避險；水利部將繼續緊盯西江汛情，加強雨水情監測預報預警，滾動會商研判，指導督促地方做好堤防巡查防守、水庫安全度汛、中小河流洪水及山洪災害防禦，以及沿河城鎮低窪區群眾轉移等工作，落實落細各項防禦措施。
+
+---
+
+### 2026-06-22 18:40:56  #公司
+
+【永傑新材：重大資產購買完成過戶，已付16.05億元】永傑新材公告，公司此前披露擬以支付現金方式收購奧科寧克（中國）投資有限公司相關資產，包括奧科寧克（秦皇島）鋁業有限公司100%股權及奧科寧克（崑山）鋁業有限公司95%股權。截至目前，標的公司已辦理完畢工商變更登記手續，公司已持有上述股權。同時，公司已按交易協議約定向監管賬戶支付對價合計人民幣16.05億元（等值美元2.36億元），其中使用自有資金2.47億元、變更用途後的IPO募集資金2.57億元、銀行併購貸款11億元。
+
+---
+
+### 2026-06-22 18:40:51  #公司 #國際
+
+俄羅斯石油公司還報告了保持燃料價格穩定、提高燃料產量以及啟用新產能的措施。
+
+---
+
+### 2026-06-22 18:40:28  #公司 #觀點
+
+據港交所檔案顯示，6月15日，摩根大通對比亞迪股份H股<1211.HK>的持倉比例從5.36%上調至6.04%。
+
+---
+
+### 2026-06-22 18:39:49  #國際
+
+俄羅斯政府稱，俄羅斯石油企業在與副總理的會談中彙報了保障國內市場燃料供應的相關措施。
+
+---
+
+### 2026-06-22 18:38:50  #公司
+
+【步長製藥：完成回購，實際回購金額1.5億元】步長製藥公告，公司此前披露擬以7500萬元至1.5億元回購股份，回購價格上限21元/股，用於員工持股計劃或股權激勵、轉換公司可轉債。本次回購已實施完成，公司透過集中競價方式累計回購股份982.2萬股，佔總股本0.93%，實際回購金額1.5億元，回購價格區間14.42元/股至15.64元/股。回購方案實際執行情況與原披露無差異，回購資金來源為自有資金及金融機構回購專項借款。
+
+---
+
+### 2026-06-22 18:38:37  #MKT News #Market Regions #Emerging Markets
+
+Russia's Deputy Prime Minister Novak instructed the antimonopoly agency to monitor fuel prices and take measures if necessary.
+
+---
+
+### 2026-06-22 18:38:36  #公司
+
+【康惠股份：控股子公司完成工商登記，註冊資本1.4億元】康惠股份公告，公司此前披露全資子公司北京康惠智創科技有限公司與北京挖金客資訊科技股份有限公司共同出資設立控股子公司，註冊資本1.4億元，其中康惠智創出資9100萬元佔65%，挖金客出資4900萬元佔35%。近日，標的公司完成工商設立登記並取得營業執照，名稱為北京惠金智創科技有限公司，成立日期2026年6月18日，法定代表人宋宏勇。
+
+---
+
+### 2026-06-22 18:38:23  #國際
+
+俄羅斯副總理下令反壟斷機構監測燃油價格，必要時採取措施。
+
+---
+
+### 2026-06-22 18:38:09  #MKT News #Important #Commodities #Energy
+
+Russian government: Deputy Prime Minister Novak ordered the drafting of measures to maintain the sustainability of the domestic fuel market.
+
+---
+
+### 2026-06-22 18:38:01  #公司
+
+【娃哈哈集團高管變更，宗馥莉基金會成員新任娃哈哈監事】企查查APP顯示，近日，杭州娃哈哈集團有限公司多名主要人員發生工商變更，葉雅瓊卸任董事職務、寇靜由監事變更為董事，同時新增羅揚帆為監事。值得注意的是，羅揚帆為浙江馥莉慈善基金會成員，其同時擔任宗馥莉母親施幼珍實控的杭州瑾瑞私募基金管理有限公司監事。杭州娃哈哈集團有限公司成立於1993年2月，法定代表人許思敏，註冊資本約5.26億元，現由杭州上城區文商旅投資控股集團有限公司、宗馥莉、杭州娃哈哈集團有限公司基層工會聯合委員會（職工持股會）共同持股。
+
+---
+
+### 2026-06-22 18:37:44  #國際
+
+俄羅斯政府：俄羅斯副總理要求制定措施維持國內燃料市場穩定。
+
+---
+
+### 2026-06-22 18:37:38  #MKT News #INTC.O #Impact bullish
+
+MIZUHO raised its price target for Intel (INTC.O) to $135 from $128.
+
+---
+
+### 2026-06-22 18:37:21  #MKT News #XAUUSD #Impact bullish #DXY
+
+Kremlin says Putin and Belarusian President Lukashenko will discuss Ukrainian President Zelenskiy's "aggressive interference" in Belarusian affairs.
+
+---
+
+### 2026-06-22 18:37:19  #國際
+
+【民調顯示多數英國人認為“脫歐”是錯誤決定】歐洲智庫“歐洲對外關係委員會”21日釋出的調查結果顯示，多數英國選民認為脫離歐盟是“錯誤”決定，對他們關心的幾乎所有問題都產生了負面影響。據悉，這項調查於5月7日至14日展開，超過2000人作答。受訪者中，57%的人認為“脫歐”是錯誤決定，13%的人回答“不知道”，30%的人認為決定“正確”。（央視新聞）
+
+---
+
+### 2026-06-22 18:37:09  #MKT News
+
+Kremlin, responding to UK Prime Minister Starmer's resignation statement, said a successor is unlikely to adopt a different policy toward Russia.
+
+---
+
+### 2026-06-22 18:37:00  #其他
+
+瑞穗將英特爾目標股價從128美元上調至135美元。
+
+---
+
+### 2026-06-22 18:36:49  #MKT News
+
+Kremlin accuses Ukrainian president ZELENSKIY of threatening Belarusian sovereignty.
+
+---
+
+### 2026-06-22 18:36:36  #MKT News #Commodities #Energy #Brent #Impact bearish #WTI
+
+Kremlin says it is working urgently to minimize adverse impacts on fuel supplies to Crimea.
+
+---
+
+### 2026-06-22 18:36:32  #其他
+
+富國銀行將ASML目標股價從1750美元上調至2200美元。
+
+---
+
+### 2026-06-22 18:36:14  #MKT News
+
+Kremlin says it has been in contact with Serbian authorities over the NIS oil company but is not disclosing details at this time.
+
+---
+
+### 2026-06-22 18:36:09  #公司
+
+【ST中珠：中盛源擬減持不超過3%股份】ST中珠公告，持股5.01%的股東深圳市中盛源企業管理中心（有限合夥）（簡稱“中盛源”）因自身資金需求，擬於2026年7月15日至2026年10月14日，透過集中競價交易和大宗交易方式合計減持不超過5978.61萬股，佔公司總股本比例不超過3%。其中，透過集中競價方式減持不超過1992.87萬股（佔1%），透過大宗交易方式減持不超過3985.74萬股（佔2%）。減持價格根據市場價確定。
+
+---
+
+### 2026-06-22 18:36:09  #Trading Economics #Markets #India #Stock Market #Importance 1
+
+Indian Stocks Rise on Monday — Indian stocks closed firmly higher on Monday, tracking an improvement in macroeconomic conditions as key energy prices extended their decline. The S&P/BSE Sensex added 0.4% to 77,095 and the NSE Nifty 50 added 0.4% to 24,103. Reports indicated that the start of talks between Iran and the US progressed over the weekend, backing expectations that a longer-term peace deal could be struck in the next two months for energy exports from the Middle East to flow without interruption. Lower oil prices improve the outlook for the Indian economy by softening inflation expectations and supporting the rupee due to India's reliability on energy imports, lifting foreign inflows on Indian equities. Tech stocks closed higher, with Tech Mahindra and Infosys advancing 2.2% and 1.3%, respectively. Financial companies also gained with Bajaj Finserv, HDFC Bank, and Bajaj Finance rising between 1% and 0.5%.
+
+---
+
+### 2026-06-22 18:36:07  #Trading Economics #Markets #Switzerland #stocks #Importance 0
+
+UBS Stock Price Hits 18-year High — UBS shares increased to 41.06 CHF, the highest since February 2008. Over the past 4 weeks, UBS gained 9.71%, and in the last 12 months, it increased 64.22%.
 
 ---
 
@@ -20860,176 +21058,5 @@ ABC News reports Australia has confirmed its first H5 avian influenza case.
 ### 2026-06-20 08:05:00  #公司
 
 【進度條重新整理 大渡河金川水電站全容量投產發電】記者從國家能源集團獲悉，今天（20日），四川大渡河金川水電站最後一臺機組正式併網發電，標誌著金川水電站正式全容量投產發電。（央視新聞）
-
----
-
-### 2026-06-20 08:02:42  #國際
-
-調解國之一的另一位訊息人士表示，伊朗人強調，他們希望在前往瑞士之前看到停火協議得以落實。
-
----
-
-### 2026-06-20 08:02:36  #國際
-
-據調解國之一的一位訊息人士稱，伊朗外交部長阿巴斯·阿拉格齊於週五向幾位對等外交官表示，黎巴嫩停火問題是伊朗的關鍵問題，也是美伊談判的“成敗攸關”因素。
-
----
-
-### 2026-06-20 08:02:30  #焦點 #國際
-
-市場訊息：據一位知情人士透露，伊朗外交部長阿巴斯·阿拉格齊計劃於週六前往瑞士。該人士表示，這一計劃仍可能發生變化。
-
----
-
-### 2026-06-20 08:02:06  #其他
-
-【摩洛哥1比0蘇格蘭，暫列小組第一】小組賽首輪戰平巴西后，摩洛哥以一場勝利確保了自己的小組出線位置。北京時間6月20日，世界盃小組賽C組第二輪展開較量，此前僅得到1分的摩洛哥率先出場，他們以1比0戰勝蘇格蘭，全取三分，暫列小組頭名。
-
----
-
-### 2026-06-20 07:59:52  #其他
-
-【河南鄭州宏達國際車業廣場火災致2人遇難】6月19日21時許，河南省鄭州市金水區宏達國際車業廣場發生火災。記者從鄭州市金水區相關部門獲悉，截至6月20日凌晨1時，火災導致2人遇難，2人輕傷。當前所有明火已撲滅，救援工作已經結束。目前，公安機關已對宏達國際車業廣場實際控制人採取強制措施，相關善後工作已在開展，起火原因正在調查之中。據瞭解，宏達國際車業廣場為汽車用品專業批發市場，起火建築為混凝土框架結構，主體4層，單層建築面積4000餘平方米，樓頂有少量臨時加蓋建築，起火部位位於3層西側商鋪，著火物質為橡膠材料、汽車飾品和配件等。 (新華社)
-
----
-
-### 2026-06-20 07:58:56  #MKT News #XAUUSD #Impact bullish #Brent #S&P500 #Impact bearish
-
-Market sources: Israel has heightened military alert amid growing concern that US-Iran talks could collapse.
-
----
-
-### 2026-06-20 07:57:46  #MKT News
-
-【Flu outbreak at US Air Force base infects more than 160 personnel】US reports on June 19 said more than 160 service members at Lackland Air Force Base in Texas have been infected with influenza in recent weeks. The Air Force said medical and public-health personnel have isolated and treated symptomatic individuals to limit further exposure, are continuing monitoring, and that those symptomatic are receiving appropriate treatment and will return to training once cleared by medical staff. The Air Force also said a member of the 737th Training Support Squadron suffered a medical emergency during basic training and died earlier this week at Brooke Army Medical Center; the cause is under investigation and a comprehensive medical review is underway.
-
----
-
-### 2026-06-20 07:57:14  #MKT News
-
-【European Council president establishing direct channel to convey EU messages to Russia】European Council president Costa said on the 19th he is setting up a diplomatic channel through his office to convey EU messages directly to Russia, saying the EU should not rely on third parties to interpret its communications. He made the remark at a post-summit press conference. While the US has led diplomatic contact on a Russia-Ukraine ceasefire and talks, Europe seeks a larger role; some EU leaders remain reluctant about direct engagement with Russia.
-
----
-
-### 2026-06-20 07:56:43  #MKT News
-
-【Rubio speaks with Lebanese president on Hezbollah, Lebanon‑Israel talks】US Secretary of State Rubio spoke with Lebanese President Joseph Aoun on June 19, reiterating US support for the Lebanese government and stressing that Hezbollah must be disarmed. They discussed arrangements for the next Lebanon‑Israel talks, scheduled for June 23–25 in Washington.
-
----
-
-### 2026-06-20 07:56:19  #MKT News #WTI #Impact bearish #Brent
-
-【Iran deputy foreign minister: U.S. must ensure Israel complies with U.S.-Iran memorandum】Iran’s deputy foreign minister said on the 19th the U.S. must ensure Israel complies with the terms of a U.S.-Iran memorandum. He said Iran is prepared to advance the diplomatic process if the other side shows similar seriousness. On the Strait of Hormuz, Iran will continue, in coordination with Oman and under international law, to provide navigation services. Under the memorandum’s 60-day window Iran will not charge transit fees; after that it plans to introduce a new channel-management mechanism and submit it to regional states. Any future agreement must include the unfreezing of all frozen Iranian funds.
-
----
-
-### 2026-06-20 07:55:35  #國際
-
-市場訊息：日本考慮對社交媒體實施強制性年齡驗證。
-
----
-
-### 2026-06-20 07:53:21  #其他
-
-市場訊息：澳大利亞發現首例傳染性H5禽流感病例。
-
----
-
-### 2026-06-20 07:51:45  #其他
-
-【三名中國裁判將亮相世界盃同場比賽】國際足聯19日宣佈，中國裁判員傅明將擔任美加墨世界盃E組第二輪厄瓜多隊對陣庫拉索隊比賽的影片助理裁判（VAR）。國際足聯日前已確認馬寧將擔任該場比賽主裁，周飛將擔任助理裁判。三名中國裁判員將在本屆世界盃上一同亮相。厄瓜多與庫拉索的比賽將於北京時間6月21日8:00開球。（央視新聞）
-
----
-
-### 2026-06-20 07:49:13  #國際
-
-【伊朗官員：不會在黎巴嫩停火問題上退讓】對於黎巴嫩局勢，伊朗議會國家安全和外交政策委員會發言人易卜拉欣·雷扎伊在接受總檯專訪時表示，黎巴嫩停火問題是伊朗的紅線，伊朗不會在相關問題上退讓。（央視新聞）
-
----
-
-### 2026-06-20 07:46:05  #其他
-
-【北京解除防汛四級應急響應】據北京市防汛辦訊息，6月20日6時結束門頭溝、房山、昌平、懷柔、平谷、密雲、延慶區防汛四級應急響應。此前，其他區於6月19日23時已結束防汛四級應急響應。
-
----
-
-### 2026-06-20 07:45:32  #其他
-
-多明尼加共和國：巴亞希貝一家酒店發生大火，已造成1人死亡，數百人疏散。
-
----
-
-### 2026-06-20 07:45:18  #國際
-
-市場訊息：日本計劃投資10.5萬億日元用於“物理人工智慧”。
-
----
-
-### 2026-06-20 07:41:36  #其他
-
-【殷勇調研具身智慧機器人產業發展時強調 全力打造全球領先的具身智慧機器人產業高地】日前，北京市委副書記、市長殷勇到海淀區調研具身智慧機器人產業發展。他強調，要深入貫徹習近平總書記考察北京重要講話精神，充分發揮北京教育科技人才資源優勢，加快推動具身智慧科技創新和產業創新深度融合，鞏固本市具身智慧機器人產業發展引領優勢，全力打造全球領先的具身智慧機器人產業高地。殷勇在調研時強調，要聚焦模擬技術、世界模型等關鍵技術強化協同攻關，推動產學研一體化創新，夯實產業技術底座，為具身智慧機器人產業發展提供有力支撐。支援龍頭企業持續做大做強，依託北京場景資源，全面拓展產品應用場景，以試驗帶動產品迭代，推動更多機器人產品從實驗室成果、樣機試點向批次化生產、規模化落地發展。持續辦好世界人形機器人運動會、世界機器人大會等活動，深化國際交流合作，加快研製機器人領域行業標準，提升標準制定和實施能力。市有關部門和海淀區要做好企業服務，主動精準對接，強化算力、資料等要素供給保障，及時解決企業在上市融資、專案落地、場景建設等方面的訴求，推動北京具身智慧機器人產業發展走在前、作示範。 (北京日報)
-
----
-
-### 2026-06-20 07:36:48  #其他
-
-玻利維亞政府與玻利維亞工人聯合會簽署協議，朝著解決已導致經濟癱瘓的衝突邁出一步。
-
----
-
-### 2026-06-20 07:27:52  #國際
-
-【伊朗稱正討論伊美談判新計劃 以色列“同意停火”後對黎空襲未停】原定於19日在瑞士舉行的伊美會談未能如期舉行。伊朗方面表示，“正在討論未來幾天舉行談判的計劃”。斡旋方巴基斯坦方面則表示，談判將在伊斯蘭教歷一月結束後再開啟。就在美伊會談推遲的同一天，多方傳出以黎停火訊息，以色列軍方卻對此表態模糊，並稱以軍前線部隊“擁有行動自由”。專家分析認為，美伊下一步圍繞核問題的談判，有一定的技術性難度和複雜性，也需要更多的準備時間。（央視新聞）
-
----
-
-### 2026-06-20 07:22:25  #國際
-
-【特朗普稱約700艘船正駛出霍爾木茲】當地時間6月19日，特朗普表示，美國和伊朗已簽署諒解備忘錄，雙方將在60天內就長期安排展開談判。特朗普稱，“60天內達成最終協議，否則我們會採取讓他們不高興的行動，但我認為事情不會發展到那一步。” 特朗普還稱，美伊諒解備忘錄的達成已使霍爾木茲海峽恢復通航，“大約700艘船正源源不斷駛出”。特朗普還表示與以色列關係良好。（央視新聞）
-
----
-
-### 2026-06-20 07:17:52  #宏觀 #公司 #焦點 #國際
-
-【6月20日隔夜要聞一覽】
-1、美國總統特朗普在安德魯斯聯合基地發表講話時表示，美國和伊朗已簽署諒解備忘錄，雙方將在60天內就長期安排展開談判。特朗普稱，“60天內達成最終協議，否則我們會採取讓他們不高興的行動，但我認為事情不會發展到那一步。”
-2、當地時間19日，伊朗外交部副部長賽義德·哈提卜扎德在接受採訪時表示，美國必須確保以色列遵守美伊之間達成的諒解備忘錄條款。
-3、烏克蘭總統澤連斯基表示，烏克蘭和俄羅斯的談判或將重啟，當前有待敲定的是談判的具體形式。他特別強調，談判必須有第三方夥伴參與。
-4、美國國務院發表宣告稱，美國國務卿魯比奧當天與黎巴嫩總統約瑟夫·奧恩通話，雙方還討論了下一輪黎以談判安排，相關談判將於6月23日至25日在華盛頓舉行。
-5、美國總統唐納德·特朗普表示，他不認為Anthropic PBC構成國家安全威脅。幾天前，特朗普政府採取措施，切斷外國對這家科技公司最先進人工智慧（AI）模型的訪問許可權。
-6、美國總統特朗普週四在節目中表示，美國若對古巴採取軍事行動，有可能復刻今年1月快速拿下委內瑞拉總統尼古拉斯・馬杜羅的戰果。
-7、俄羅斯總統新聞秘書佩斯科夫19日在新聞釋出會上表示，俄羅斯願與歐洲進行談判，雙方有大量問題有待磋商，但歐洲需改變對待談判的態度。
-8、埃及外交部19日發表宣告說，埃及外長將於21日與沙烏地阿拉伯外交大臣、土耳其外長和巴基斯坦外長在開羅舉行四方會談。
-9、俄羅斯將從9月1日起對鑽石徵收8%的出口關稅。
-
----
-
-### 2026-06-20 07:10:01  #宏觀
-
-除了頭版內容，今天《人民日報》涉及財經的主要內容還包括：
-1、因地制宜開展場景建設（延伸閱讀）
-2、前5月消費品以舊換新資金惠及超1.1億人次
-3、啟用統一品牌滿10年 中歐班列年開行量增長約10.8倍
-4、“我們非常看好中國消費市場潛力”（見證·中國機遇）——訪泰國正大集團資深董事長謝國民
-5、“清朗·整治賬號名稱資訊亂象”專項行動開展
-6、推動林下經濟長效發展（專家觀點）
-
----
-
-### 2026-06-20 07:09:57  #宏觀 #焦點
-
-今天《人民日報》頭版的主要內容有：
-1、遼寧縱深推進全面振興取得新突破
-2、傳承紅色基因，永遠跟黨走——習近平總書記的重要回信激勵廣大黨員幹部在新徵程上書寫優異答卷
-3、河北平山縣西柏坡幹部群眾幹事創業動力足——汲取奮進力量 實幹譜寫新篇（牢記初心使命 奮進復興征程）
-4、文旅深度融合促進體驗型消費（“十五五”開好局起好步）
-5、前5月 全國鐵路完成固定資產投資2485億元
-6、5月 全社會用電量同比增長6.9%
-
----
-
-### 2026-06-20 07:07:44  #其他
-
-【垣信完成首例無改造存量商用手機直連衛星通話】6月19日，垣信衛星宣佈打通國內首例無改造存量商用手機直連衛星通話，全程通訊鏈路順暢穩定，語音音質表現優異。據垣信方面介紹，垣信衛星手機直連衛星通訊技術，無需對普通商用手持終端做任何軟硬體技術改造和升級，實測通話全程訊號滿格，通話質量比肩地面5G。
 
 ---

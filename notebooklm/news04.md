@@ -1,7 +1,179 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-06-27 07:04:47_
-_本檔包含 3508 則快訊，約 670323 字_
+_更新時間：2026-06-27 08:04:51_
+_本檔包含 3502 則快訊，約 670214 字_
+
+---
+
+### 2026-06-23 19:57:43  #其他
+
+SPACEX 基準債券發行分五部分進行。
+
+---
+
+### 2026-06-23 19:56:02  #公司 #市場 #觀點
+
+【摩根大通：IBM的軟體業務推進料將繼續推動增長】摩根大通在一份研究報告中表示，IBM在過去十年的大部分時間裡，一直在將自己從一家硬體和服務公司重新定位為以混合雲和AI為核心、以軟體為主導的平臺。摩根大通的分析師表示，軟體現在是該股的主要驅動力，約佔總收入的45%，但約佔合併利潤的三分之二。摩根大通的分析師表示：“考慮到軟體具有更高利潤率、可按比例確認收入的特性，以及更好的現金轉化率和更高質量的盈利流，能夠支撐比硬體和服務業務更高的估值倍數，我們將繼續向軟體領域的轉型視為積極因素。”摩根大通將IBM的評級從中性上調至增持，並將其目標價從270美元上調至291美元，理由是對軟體業務未來繼續加速增長充滿信心。IBM盤前上漲5%。
+
+---
+
+### 2026-06-23 19:55:32  #公司
+
+【ST海王：部分董事及高管擬增持公司股份不低於310萬元】ST海王公告，公司董事局主席兼總裁張鋒、董事車漢澍、董事局副主席兼常務副總裁張翼飛、董事兼副總裁金銳、副總裁張曉鵬、副總裁金戈、副總裁史曉明、財務總監李爽等8名董事及高管，擬自增持計劃公告披露之日起6個月內，透過深圳證券交易所允許的方式（包括但不限於集中競價、大宗交易）增持公司股份，合計增持總金額不低於人民幣310萬元。其中張鋒擬增持不低於100萬元，張翼飛不低於65萬元，其餘每人不低於20萬至25萬元。本次增持不設定價格區間，將根據市場情況擇機實施。
+
+---
+
+### 2026-06-23 19:55:13  #公司
+
+【華策影視：《西遊記》系列首作《消失的500年》定位AIGC精品中劇，已全面進入製作階段】6月23日，據華策影視訊息，華策日前釋出精品微短劇《西遊記》《資治通鑑》等一批重大IP專案。華策影視集團製片人胡奮揭曉國民神話動畫短劇集《西遊記》，系列首作《消失的500年》定位AIGC精品中劇，共6集、每集15分鐘，聚焦孫悟空被壓在五指山下的五百年，目前已全面進入製作階段。
+
+---
+
+### 2026-06-23 19:54:17  #MKT News #GBPUSD #Impact bearish #FTSE100
+
+【Analyst: Burnham may become next UK prime minister; markets seeking policy signal】Rupert Thompson, chief economist at Iboss, said that after Starmer resigned this week UK investors are urgently seeking clarity on the incoming leader’s economic policy. Andy Burnham won the Makerfield by-election and was sworn in as an MP on Monday and is widely expected to become the next prime minister. Thompson said the UK economy and markets face a period of uncertainty, with investors concerned about the prospect of further tax increases.
+
+---
+
+### 2026-06-23 19:54:14  #MKT News #Market Regions #Europe & UK #XAUUSD #Impact bullish #DXY
+
+RIA reported that Russia's deputy foreign minister said the US is increasingly aligning with its European allies' anti-Russia policies.
+
+---
+
+### 2026-06-23 19:54:00  #公司 #觀點
+
+【券商下調多隻龍頭股盈利預測，格力電器、北方華創在列】滬指重返4100點之際，部分個股卻遭券商下調盈利預測，其中不乏一些大市值龍頭股。 據光大證券最新披露，該機構預測格力電器（000651.SZ）2026年歸母淨利潤290億元，較前次預測值下調了4%。長江證券近期也進行了下調，預計格力電器2026年歸母淨利潤為291.04億元，較前期預測值下降3.5%。 另據第一財經梳理，近期，北方華創（002371.SZ）、諾思蘭德（920047.BJ）等公司也被券商下調盈利預測。其中，中郵證券將北方華創2026年歸母淨利潤最新預測值下調至‌59.18億元‌，較前次預測縮減近三成。 從時間視窗來看，券商調整盈利預測多發生在定期報告披露後，即根據A股公司最新年報和一季報表現相應調整預測。記者同時關注到，部分券商雖調降了對個股的盈利預測，但仍維持“買入”“增持”評級。 不過也有一些公司獲券商“力挺”，認為其2026年將借重組實現扭虧為盈。（第一財經）
+
+---
+
+### 2026-06-23 19:53:48  #國際
+
+【蒙印外長就向印度出口焦煤等事宜交換意見】蒙古國外長巴·巴特策策格與印度外長蘇傑生博士在蒙古國外交部舉行正式會談，就雙邊關係與合作、地區及國際事務中雙方共同關心的問題交換了意見。兩國外長圍繞擴大雙邊貿易與投資、最佳化貿易結構、充分發揮兩國資源互補優勢、增加蒙古國對印度焦煤及其他礦產品出口，以及深化農牧業原料供給、加工製造、技術交流、人才培養等議題展開磋商。
+
+---
+
+### 2026-06-23 19:53:25  #國際
+
+俄羅斯副外長：美國正逐漸轉向其歐洲盟友的對俄反制政策。
+
+---
+
+### 2026-06-23 19:52:57  #MKT News #XAUUSD #Impact bullish #DXY #WTI
+
+RIA reported the Russian deputy foreign minister said Russia believes the US is departing from agreements reached by the two presidents at last year’s Alaska summit.
+
+---
+
+### 2026-06-23 19:52:35  #宏觀 #兩會
+
+【我國擬修法完善招標投標領域監管措施防治腐敗】招標投標法修訂草案6月23日提請十四屆全國人大常委會第二十三次會議初次審議。修訂草案共6章79條，從制度層面健全招標投標管理長效機制，完善招標投標領域監管措施，防治腐敗。記者瞭解到，現行招標投標法自2000年施行以來，在規範招標投標活動、保證專案質量等方面發揮了重要作用。隨著經濟社會發展，招標投標領域面臨一系列突出問題。近年來，有關方面圍繞招標投標市場規範健康發展出臺系列政策舉措，取得一定工作成效。為鞏固行之有效的經驗做法，並從制度層面健全招標投標管理長效機制，有必要對現行法作針對性修改完善。（新華社）
+
+---
+
+### 2026-06-23 19:52:24  #觀點
+
+摩根士丹利將戴爾目標股價從448.00美元上調至477.00美元。
+
+---
+
+### 2026-06-23 19:52:16  #觀點
+
+摩根士丹利將IBM目標股價從225.00美元上調至267.00美元。
+
+---
+
+### 2026-06-23 19:52:12  #MKT News #EURUSD #Impact mixed #DXY #DAX
+
+Market sources say Italian Prime Minister Meloni is considering holding a general election as early as April.
+
+---
+
+### 2026-06-23 19:52:04  #其他
+
+梅洛尼正考慮最早於 4 月舉行義大利大選。
+
+---
+
+### 2026-06-23 19:51:57  #國際
+
+俄羅斯副外長表態：俄羅斯認為，美國正背離兩國總統去年阿拉斯加峰會達成的共識。
+
+---
+
+### 2026-06-23 19:51:36  #公司
+
+【隆基綠能在德國發布戶用價值白皮書及AI數字化平臺】Intersolar Europe 2026期間，隆基綠能與OSW集團在德國慕尼黑聯合釋出《德國屋頂價值評估白皮書》（Rooftop Valuation Report），系統評估德國戶用光伏的經濟潛力，並提出基於數字化工具的價值轉化路徑。為推動白皮書成果從“理論評估”向“實際資產”轉化，隆基綠能與OSW集團同步釋出AI數字化平臺GreenSketch，並推出核心數字員工——AI Agent Emily，標誌著雙方在AI渠道賦能方面實現重要突破。
+
+---
+
+### 2026-06-23 19:51:36  #Trading Economics #Markets #Euro Area #currency #Importance 1
+
+Euro Hits 12-month Low — EURUSD decreased to 1.14, the lowest since June 2025. Over the past 4 weeks, Euro US Dollar lost 2.15%, and in the last 12 months, it decreased 1.89%.
+
+---
+
+### 2026-06-23 19:51:02  #市場
+
+【國聯安科創LOF(501096)6月24日開盤起至當日10:30停牌】國聯安科創LOF(501096)二級市場交易價格明顯高於基金份額淨值，出現較大幅度溢價。特此提示投資者關注二級市場交易價格溢價風險，投資者如果盲目投資，可能遭受重大損失。為維護投資者利益，基金將於2026年6月24日開盤起至當日10:30停牌。
+
+---
+
+### 2026-06-23 19:49:08  #央行 #國際
+
+印度央行：允許銀行向境外外幣賬戶（FCNR(B)）持有人發放貸款，並對該存款設立留置權。
+
+---
+
+### 2026-06-23 19:48:38  #其他
+
+【貴州多地遭遇強降雨 已緊急轉移群眾9100餘人】6月22日6時至23日6時，貴州全省21個縣（市、區）149個觀測站出現大暴雨。截至目前，貴州多地已緊急轉移群眾9100餘人。在黔東南州，6月22日14時起，全州出現區域性強降雨過程，臺江縣南宮鎮集鎮過水深度約1米、長度約600米，當地迅速組織群眾轉移。臺江縣消防救援大隊救援人員分組涉水搜救，重點轉移被困老人、疏散受災群眾。（新華社）
+
+---
+
+### 2026-06-23 19:48:19  #市場
+
+【財通福鑫定開混合(501046)二級市場出現極大幅度溢價 6月24日開盤起至當日10:30停牌】財通福鑫定開混合(501046)二級市場交易價格嚴重高於基金份額淨值，出現極大幅度溢價。特此提示投資者關注二級市場交易價格溢價風險，投資者如果盲目投資，可能遭受重大損失。為維護投資者利益，基金將於2026年6月24日開盤起至當日10:30停牌。
+
+---
+
+### 2026-06-23 19:48:15  #MKT News #AMC.N #Impact bearish
+
+AMC (AMC.N) shares tumbled more than 18% in premarket trading after the company reached an agreement to sell shares.
+
+---
+
+### 2026-06-23 19:48:07  #MKT News
+
+【BRICS senior-level security meeting held in New Delhi】Chinese Politburo member and director of the Central Foreign Affairs Office Wang Yi attended a BRICS senior-level security representatives meeting in New Delhi. India's National Security Adviser Ajit Doval chaired the session. Delegates exchanged views on non-traditional security threats, counterterrorism and cybersecurity.
+
+---
+
+### 2026-06-23 19:48:02  #宏觀 #國際
+
+【金磚國家安全事務高階代表會議在新德里舉行】6月23日，中共中央政治局委員、中央外辦主任王毅在新德里出席金磚國家安全事務高階代表會議。印度國家安全顧問多瓦爾主持會議。金磚國家安全事務高階別代表及負責人等參會，圍繞應對非傳統安全挑戰、反恐和網路安全等議題深入交換意見。
+
+王毅表示，金磚國家合作已走過20個春秋，日益成為世界上護和平、促發展、守正義的中堅力量。面對當前國際格局發生的複雜深刻變化，中方願同金磚國家一道，共同應對人類社會面臨的緊迫挑戰，共同堅守世界歷史演進的正確方向。
+
+一是以金磚擔當捍衛國際秩序。要高舉多邊主義旗幟，堅定捍衛聯合國憲章宗旨和原則，旗幟鮮明反對單邊主義、保護主義。作為全球南方第一方陣，金磚國家要帶頭說公道話、辦公道事，提高在國際事務中的地位和作用。
+
+二是以金磚共識破解安全困局。要倡導共同、綜合、合作、可持續的安全觀，堅定推動熱點問題的政治解決，積極探討對話協商解決爭端的有效方式。
+
+三是以金磚行動應對全球性挑戰。要堅決打擊一切形式恐怖主義，旗幟鮮明反對外空軍事化，有力應對全球能源和糧食安全挑戰，加強戰略性礦產資源合作，團結應對非洲埃博拉疫情。
+
+四是以金磚智慧完善新興領域治理。要密切防範人工智慧風險，規範人工智慧發展方向，支援以聯合國為主渠道推進全球網路空間和數字治理。（新華社）
+
+---
+
+### 2026-06-23 19:47:11  #公司 #市場
+
+AMC娛樂公司股價盤前下跌18%。
+
+---
+
+### 2026-06-23 19:47:11  #MKT News
+
+【Reeves says defence investment plan to be published before July NATO summit】UK finance minister Reeves told the House of Commons she will publish the long-delayed defence investment plan before the NATO summit in Turkey on July 7-8. Reeves said she met Monday with new Defence Secretary Jarvis and Chief of the Defence Staff Richard Naiton to discuss a plan that will inject additional funding into the armed forces and rejected claims it fails to deliver sufficient spending growth. The plan, originally scheduled for autumn, was delayed and drew criticism after the former defence secretary resigned earlier this month, saying the Treasury was unwilling to commit the resources needed amid rising threats.
 
 ---
 
@@ -20977,203 +21149,5 @@ ICE ROBUSTA咖啡LRCc2價格下跌近3%，至每公噸3488美元。
 ### 2026-06-22 18:44:28  #公司
 
 【軟通動力：股東劉天文2012萬股股份解除質押】軟通動力公告稱，近日公司股東劉天文持有的2012萬股股份解除質押，佔其所持股份比例9.18%，佔公司總股本比例1.94%。截至公告披露日，劉天文及其一致行動人累計質押股份12876.07萬股，佔其所持股份比例49.84%，佔公司總股本比例12.44%。劉天文及其一致行動人資信狀況良好，質押風險可控，不會對公司產生影響。
-
----
-
-### 2026-06-22 18:44:08  #國際
-
-【特朗普稱林肯紀念堂倒影池遭“蓄意破壞” 多人被捕】在美國總統特朗普推動下，華盛頓林肯紀念堂前的倒影池本月初被改造為“藍底”，但沒多久就出現藻類爆發、塗層脫落等問題。特朗普19日起接連發文，指責有人蓄意破壞水池，但沒有提供證據。據美國《華盛頓郵報》21日報道，執法人員以涉嫌破壞水池之名逮捕多人，其中包括美國前奧運皮划艇專案選手、世界冠軍戴維·赫恩。（新華社）
-
----
-
-### 2026-06-22 18:43:33  #市場 #觀點 #央行 #國際
-
-【摩根士丹利：ETF需求是推動黃金達到5200美元的關鍵變數】摩根士丹利表示，如果沒有ETF資金流入的顯著回升，其關於下半年金價達到5200美元的看漲目標將變得更加難以實現。摩根士丹利分析師表示：“儘管央行購金可能會繼續，但ETF資金流對利率預期的變化更為敏感。缺失的一環是ETF需求，它可能仍將對美聯儲政策路徑、實際收益率和美元保持敏感。”摩根士丹利仍看好黃金的長期前景，因為中東緊張局勢緩和以及油價下跌有助於緩解對通脹的擔憂。不過，美聯儲在最近一次會議上措辭偏鷹，強化了利率將在更長時間內維持高位的預期，增加了持有黃金等不生息資產的機會成本。
-
----
-
-### 2026-06-22 18:43:13  #公司
-
-【我國規模最大全釩液流儲能電站提前轉入商業執行】近日，三峽集團新疆吉木薩爾百萬光伏+全釩液流儲能一體化專案全面轉入商業執行，較原計劃提前約一個月。新疆吉木薩爾全釩液流儲能電站是我國大容量長時儲能領域的標誌性專案，其順利轉入商業執行進一步驗證了全釩液流技術規模化應用及商業化運營的可行性，為我國構建以新能源為主體的新型電力系統提供了重要實踐支撐。
-
----
-
-### 2026-06-22 18:42:51  #公司 #觀點
-
-根據港交所披露檔案，摩根大通公司於6月16日將其持有的東方電氣股份有限公司（1072.HK）H股多頭倉位從6.54%降至5.93%。
-
----
-
-### 2026-06-22 18:42:12  #公司
-
-【4只商業不動產REITs獲批】6月22日，證監會官網顯示，4只商業不動產REITs獲批，分別是華夏凱德商業不動產REIT、華夏保利發展商業不動產REIT、華安陸家嘴商業不動產REIT、創金合信北京國資公司商業不動產REIT。根據要求，相關產品在批覆下發之日起6個月內進行基金的募集活動，募集期限自基金份額髮售之日起不得超過3個月。
-
----
-
-### 2026-06-22 18:41:55  #國際
-
-美國地質調查局：阿富汗朱爾姆西南偏南 42 公里處發生 5.2 級地震。
-
----
-
-### 2026-06-22 18:41:48  #國際
-
-【伊朗稱將持續監督美方履約情況 以確保承諾得到執行】當地時間22日，伊朗外交部發言人巴加埃在社交媒體平臺上發文表示，在就執行伊美諒解備忘錄條款進行了緊張磋商後，伊朗談判代表團已啟程返回國內。巴加埃表示，本輪會談重點圍繞諒解備忘錄第1、5、10和11條展開，於21日上午在瑞士盧塞恩湖地區啟動，並持續至22日凌晨。根據伊朗與美國雙方協商形成、卡達和巴基斯坦作為斡旋方釋出的聯合宣告，已建立用於監督諒解備忘錄執行的機制，並決定在專家與技術層面繼續對話，以推動有效落實旨在結束戰爭的協議。巴加埃稱，諒解備忘錄第13條規定，啟動最終協議談判需以第1、4、5、10和11條的啟動及持續執行為前提，本次會議達成的共識將有助於推動雙方履約程序，尤其是第1條（關於透過建立由各方及黎巴嫩參與的衝突控制機制，以結束戰爭並停止以色列在黎巴嫩的軍事行動）、第10條（關於伊朗石油與石化產品出口）和第11條（關於解凍伊朗被凍結資產）。巴加埃說，伊朗在持續監督對方履約情況的同時，將利用其所有工具確保這些承諾得到執行。（央視新聞）
-
----
-
-### 2026-06-22 18:41:27  #市場
-
-【星源材質(06067)暗盤收漲逾41% 每手賺1850港元】星源材質(06067)將於6月23日(週二)在香港掛牌。截至收盤，利弗莫爾證券暗盤交易顯示報價12.68港元，較招股價8.98港元上漲41.2%，每手500股，不計手續費，每手賺1850港元。
-
----
-
-### 2026-06-22 18:41:16  #其他
-
-【百億私募增至141家 安賢和海南盛豐2家量化私募新進百億佇列】6月以來，百億級私募繼續擴容。私募排排網統計資料顯示，截至2026年6月22日，當前百億證券私募管理人數量達141家，較上月相比，新增2家百億量化私募，分別是安賢私募和海南盛豐私募。其中，安賢私募以複合策略為特色，辦公地位於北京；位於深圳的海南盛豐私募，核心策略是股票市場中性。目前，百億私募佇列中，核心策略為量化策略的佔比最大，有54家，其中包括44家量化多頭策略私募，另外還有6家量化CTA私募；主觀多頭則有39家。 (財聯社記者 周曉雅)
-
----
-
-### 2026-06-22 18:41:08  #其他
-
-【水利部：西江發生2026年第1號洪水】受降雨影響，珠江流域西江出現明顯洪水過程，此次洪水編號為“西江2026年第1號洪水”，為我國今年大江大河首次編號洪水。國家防總副總指揮、水利部部長李國英提前對西江洪水防禦作出安排部署，水利部珠江水利委員會將針對廣東、廣西、貴州的洪水防禦應急響應提升至Ⅲ級，滾動開展大江大河與中小河流洪水監測預報，強化降雨過程“梯次預警+靶向叫應”工作機制，夜間點對點電話“叫應”，第一時間提醒貴州、廣西等地“叫動”群眾轉移避險；水利部將繼續緊盯西江汛情，加強雨水情監測預報預警，滾動會商研判，指導督促地方做好堤防巡查防守、水庫安全度汛、中小河流洪水及山洪災害防禦，以及沿河城鎮低窪區群眾轉移等工作，落實落細各項防禦措施。
-
----
-
-### 2026-06-22 18:40:56  #公司
-
-【永傑新材：重大資產購買完成過戶，已付16.05億元】永傑新材公告，公司此前披露擬以支付現金方式收購奧科寧克（中國）投資有限公司相關資產，包括奧科寧克（秦皇島）鋁業有限公司100%股權及奧科寧克（崑山）鋁業有限公司95%股權。截至目前，標的公司已辦理完畢工商變更登記手續，公司已持有上述股權。同時，公司已按交易協議約定向監管賬戶支付對價合計人民幣16.05億元（等值美元2.36億元），其中使用自有資金2.47億元、變更用途後的IPO募集資金2.57億元、銀行併購貸款11億元。
-
----
-
-### 2026-06-22 18:40:51  #公司 #國際
-
-俄羅斯石油公司還報告了保持燃料價格穩定、提高燃料產量以及啟用新產能的措施。
-
----
-
-### 2026-06-22 18:40:28  #公司 #觀點
-
-據港交所檔案顯示，6月15日，摩根大通對比亞迪股份H股<1211.HK>的持倉比例從5.36%上調至6.04%。
-
----
-
-### 2026-06-22 18:39:49  #國際
-
-俄羅斯政府稱，俄羅斯石油企業在與副總理的會談中彙報了保障國內市場燃料供應的相關措施。
-
----
-
-### 2026-06-22 18:38:50  #公司
-
-【步長製藥：完成回購，實際回購金額1.5億元】步長製藥公告，公司此前披露擬以7500萬元至1.5億元回購股份，回購價格上限21元/股，用於員工持股計劃或股權激勵、轉換公司可轉債。本次回購已實施完成，公司透過集中競價方式累計回購股份982.2萬股，佔總股本0.93%，實際回購金額1.5億元，回購價格區間14.42元/股至15.64元/股。回購方案實際執行情況與原披露無差異，回購資金來源為自有資金及金融機構回購專項借款。
-
----
-
-### 2026-06-22 18:38:37  #MKT News #Market Regions #Emerging Markets
-
-Russia's Deputy Prime Minister Novak instructed the antimonopoly agency to monitor fuel prices and take measures if necessary.
-
----
-
-### 2026-06-22 18:38:36  #公司
-
-【康惠股份：控股子公司完成工商登記，註冊資本1.4億元】康惠股份公告，公司此前披露全資子公司北京康惠智創科技有限公司與北京挖金客資訊科技股份有限公司共同出資設立控股子公司，註冊資本1.4億元，其中康惠智創出資9100萬元佔65%，挖金客出資4900萬元佔35%。近日，標的公司完成工商設立登記並取得營業執照，名稱為北京惠金智創科技有限公司，成立日期2026年6月18日，法定代表人宋宏勇。
-
----
-
-### 2026-06-22 18:38:23  #國際
-
-俄羅斯副總理下令反壟斷機構監測燃油價格，必要時採取措施。
-
----
-
-### 2026-06-22 18:38:09  #MKT News #Important #Commodities #Energy
-
-Russian government: Deputy Prime Minister Novak ordered the drafting of measures to maintain the sustainability of the domestic fuel market.
-
----
-
-### 2026-06-22 18:38:01  #公司
-
-【娃哈哈集團高管變更，宗馥莉基金會成員新任娃哈哈監事】企查查APP顯示，近日，杭州娃哈哈集團有限公司多名主要人員發生工商變更，葉雅瓊卸任董事職務、寇靜由監事變更為董事，同時新增羅揚帆為監事。值得注意的是，羅揚帆為浙江馥莉慈善基金會成員，其同時擔任宗馥莉母親施幼珍實控的杭州瑾瑞私募基金管理有限公司監事。杭州娃哈哈集團有限公司成立於1993年2月，法定代表人許思敏，註冊資本約5.26億元，現由杭州上城區文商旅投資控股集團有限公司、宗馥莉、杭州娃哈哈集團有限公司基層工會聯合委員會（職工持股會）共同持股。
-
----
-
-### 2026-06-22 18:37:44  #國際
-
-俄羅斯政府：俄羅斯副總理要求制定措施維持國內燃料市場穩定。
-
----
-
-### 2026-06-22 18:37:38  #MKT News #INTC.O #Impact bullish
-
-MIZUHO raised its price target for Intel (INTC.O) to $135 from $128.
-
----
-
-### 2026-06-22 18:37:21  #MKT News #XAUUSD #Impact bullish #DXY
-
-Kremlin says Putin and Belarusian President Lukashenko will discuss Ukrainian President Zelenskiy's "aggressive interference" in Belarusian affairs.
-
----
-
-### 2026-06-22 18:37:19  #國際
-
-【民調顯示多數英國人認為“脫歐”是錯誤決定】歐洲智庫“歐洲對外關係委員會”21日釋出的調查結果顯示，多數英國選民認為脫離歐盟是“錯誤”決定，對他們關心的幾乎所有問題都產生了負面影響。據悉，這項調查於5月7日至14日展開，超過2000人作答。受訪者中，57%的人認為“脫歐”是錯誤決定，13%的人回答“不知道”，30%的人認為決定“正確”。（央視新聞）
-
----
-
-### 2026-06-22 18:37:09  #MKT News
-
-Kremlin, responding to UK Prime Minister Starmer's resignation statement, said a successor is unlikely to adopt a different policy toward Russia.
-
----
-
-### 2026-06-22 18:37:00  #其他
-
-瑞穗將英特爾目標股價從128美元上調至135美元。
-
----
-
-### 2026-06-22 18:36:49  #MKT News
-
-Kremlin accuses Ukrainian president ZELENSKIY of threatening Belarusian sovereignty.
-
----
-
-### 2026-06-22 18:36:36  #MKT News #Commodities #Energy #Brent #Impact bearish #WTI
-
-Kremlin says it is working urgently to minimize adverse impacts on fuel supplies to Crimea.
-
----
-
-### 2026-06-22 18:36:32  #其他
-
-富國銀行將ASML目標股價從1750美元上調至2200美元。
-
----
-
-### 2026-06-22 18:36:14  #MKT News
-
-Kremlin says it has been in contact with Serbian authorities over the NIS oil company but is not disclosing details at this time.
-
----
-
-### 2026-06-22 18:36:09  #公司
-
-【ST中珠：中盛源擬減持不超過3%股份】ST中珠公告，持股5.01%的股東深圳市中盛源企業管理中心（有限合夥）（簡稱“中盛源”）因自身資金需求，擬於2026年7月15日至2026年10月14日，透過集中競價交易和大宗交易方式合計減持不超過5978.61萬股，佔公司總股本比例不超過3%。其中，透過集中競價方式減持不超過1992.87萬股（佔1%），透過大宗交易方式減持不超過3985.74萬股（佔2%）。減持價格根據市場價確定。
-
----
-
-### 2026-06-22 18:36:09  #Trading Economics #Markets #India #Stock Market #Importance 1
-
-Indian Stocks Rise on Monday — Indian stocks closed firmly higher on Monday, tracking an improvement in macroeconomic conditions as key energy prices extended their decline. The S&P/BSE Sensex added 0.4% to 77,095 and the NSE Nifty 50 added 0.4% to 24,103. Reports indicated that the start of talks between Iran and the US progressed over the weekend, backing expectations that a longer-term peace deal could be struck in the next two months for energy exports from the Middle East to flow without interruption. Lower oil prices improve the outlook for the Indian economy by softening inflation expectations and supporting the rupee due to India's reliability on energy imports, lifting foreign inflows on Indian equities. Tech stocks closed higher, with Tech Mahindra and Infosys advancing 2.2% and 1.3%, respectively. Financial companies also gained with Bajaj Finserv, HDFC Bank, and Bajaj Finance rising between 1% and 0.5%.
-
----
-
-### 2026-06-22 18:36:07  #Trading Economics #Markets #Switzerland #stocks #Importance 0
-
-UBS Stock Price Hits 18-year High — UBS shares increased to 41.06 CHF, the highest since February 2008. Over the past 4 weeks, UBS gained 9.71%, and in the last 12 months, it increased 64.22%.
 
 ---

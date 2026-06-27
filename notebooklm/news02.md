@@ -1,7 +1,235 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-06-27 07:04:47_
-_本檔包含 3831 則快訊，約 670609 字_
+_更新時間：2026-06-27 08:04:51_
+_本檔包含 3820 則快訊，約 669793 字_
+
+---
+
+### 2026-06-26 00:03:31  #MKT News #DIS.O #Impact bearish
+
+U.S. FCC Chair Carl said the agency is advancing a review of ABC's broadcast license and that all options remain on the table.
+
+---
+
+### 2026-06-26 00:03:29  #國際
+
+美國及海灣國家就黎巴嫩問題發表聯合宣告：強調堅持談判程序的重要性。
+
+---
+
+### 2026-06-26 00:03:08  #MKT News
+
+Canadian Prime Minister Carney says Ottawa will provide humanitarian aid to Venezuela.
+
+---
+
+### 2026-06-26 00:03:07  #MKT News #Star Stocks #Alphabet #Market Themes #Magnificent 7
+
+Google (GOOG.O) launched a new Google Finance app for Android today and will roll out the "Portfolio" feature globally in the new Google Finance starting this week. An iOS version is scheduled for later this year.
+
+---
+
+### 2026-06-26 00:02:53  #其他
+
+加拿大總理卡尼：正採取行動向委內瑞拉提供人道主義援助。
+
+---
+
+### 2026-06-26 00:02:47  #其他
+
+聯邦通訊委員會主席卡爾表示，該機構正在推進對ABC廣播執照的審查，並稱所有選項仍在考慮範圍內。
+
+---
+
+### 2026-06-26 00:02:42  #公司
+
+谷歌：將於今年晚些時候推出iOS版財經應用。
+
+---
+
+### 2026-06-26 00:02:11  #公司
+
+谷歌：從本週起，我們將在新版本谷歌財經中向全球推出投資組合功能。
+
+---
+
+### 2026-06-26 00:02:08  #國際
+
+市場訊息：日本原子能規制委員會力爭最早於2027年推動相關法律修訂。
+
+---
+
+### 2026-06-26 00:02:02  #MKT News #Important #XAUUSD #Impact bullish #WTI #DXY
+
+An Iranian source close to the negotiating team said Israeli withdrawal from Lebanon is a condition for a final Iran–US agreement and constitutes Iran’s red line.
+
+---
+
+### 2026-06-26 00:01:54  #公司
+
+谷歌：今日我們還將推出一款面向安卓系統的全新谷歌財經應用。
+
+---
+
+### 2026-06-26 00:01:30  #國際
+
+加拿大總理卡尼：週三沒有與美國總統特朗普討論美墨加協定（USMCA）。
+
+---
+
+### 2026-06-26 00:01:27  #焦點 #國際
+
+伊朗談判團隊知情人士向本國官方媒體透露：以色列撤出黎巴嫩是伊美達成最終協議的前提條件，同時也是伊朗的紅線。
+
+---
+
+### 2026-06-26 00:01:05  #央行 #其他
+
+巴西央行官員：對2028年通脹預期並無過度樂觀情緒。
+
+---
+
+### 2026-06-26 00:01:03  #MKT News
+
+Canadian Prime Minister Carney said on Wednesday he did not discuss the US-Mexico-Canada Agreement (USMCA) with U.S. President Trump.
+
+---
+
+### 2026-06-26 00:00:50  #市場
+
+洲際交易所英國 7 月天然氣期貨結算價報 96.52 便士 / 熱量單位。
+
+---
+
+### 2026-06-26 00:00:14  #國際
+
+房地美：美國抵押貸款利率微升至 6.49%。
+
+---
+
+### 2026-06-25 23:59:51  #Trading Economics #Markets #Commodity #Importance 1
+
+US Natgas Prices Rise to 3-Week High — US natural gas prices climbed toward $3.28 per MMBtu, the highest in three weeks, propelled by increased flows to liquefied natural gas export facilities and forecasts for warmer weather through July 10. This hotter weather is expected to drive up electricity demand for air conditioning in a country where gas-fired plants generate roughly 40% of the power supply. Average daily flows to major export plants rose to 17.3 billion cubic feet so far in June, up from 17.1 billion cubic feet in May, boosted by record feedgas activity at the Golden Pass facility in Texas. Simultaneously, the Energy Information Administration reported a near-normal storage injection of 76 billion cubic feet for the week ended June 19. This addition keeps domestic stockpiles about 5.7% above seasonal norms. At the same time, production in the Lower 48 states has been steady at 109.7 billion cubic feet per day so far in June, unchanged from the previous month.
+
+---
+
+### 2026-06-25 23:59:37  #國際
+
+市場訊息：日本將提前開展反恐審查，簡化核電站審批流程。
+
+---
+
+### 2026-06-25 23:59:31  #Trading Economics #Markets #France #Stock Market #Importance 0
+
+CAC 40 Rises on Finance and Tech Gains — The CAC 40 rose 0.6% to close at 8,432 on Thursday as oil prices remained near pre-conflict levels and optimism over AI-driven growth prospects returned. Growing confidence in a lasting US-Iran agreement encouraged more tankers to transit the Strait of Hormuz, keeping oil prices low and easing inflation concerns. Financial stocks posted gains, with BNP Paribas up 1.5%, AXA advancing 0.7%, and Societe Generale gaining 2.8%. Meanwhile, STMicroelectronics rose 2.7% after Micron reported strong quarterly results and issued an upbeat revenue outlook, pointing to sustained AI-related demand and helping revive appetite for technology stocks after the recent global selloff. Industrial stocks traded mixed, with Safran up 1.6%, while Thales fell 3.1% on progress toward a US-Iran ceasefire. Luxury stocks were also mixed, with LVMH and L'Oréal edging higher, while Hermès lost 0.9%.
+
+---
+
+### 2026-06-25 23:59:22  #MKT News
+
+Romanian president said he hopes a new government will be formed before parliament's summer recess on June 30.
+
+---
+
+### 2026-06-25 23:59:06  #市場
+
+洲際交易所 7 月柴油期貨結算價報每噸 913.50 美元。
+
+---
+
+### 2026-06-25 23:59:00  #Trading Economics #Markets #Euro Area #Stock Market #Importance 1
+
+European Stocks Close at Record — European stocks closed higher on Thursday, gaining traction from a muted session yesterday amid fresh support from the tech sector. Euro STOXX 50 gained 0.8% to 6,263 and the STOXX Europe 600 rose 0.8% to a record high of 640. Chip stocks and companies with exposure to AI infrastructure surged following their pullback yesterday after the strong guidance by Micron in the US restored some confidence in the AI trade. ASML added 2.6% and Infineon gained 2.3%, while Siemens Energy jumped 2.5%. Meanwhile, banks also rebounded as energy prices retreated further and lowered sovereign yields in the Eurozone, supporting the outlook for credit activity. BNP Paribas and BBVA rose 1.5%. Lastly, Bayer surged close to 20%, its strongest session in 23 years after the US Supreme Court sided with the drugmaker on lawsuits concerning its Roundup weedkiller.
+
+---
+
+### 2026-06-25 23:58:35  #國際
+
+羅馬尼亞總統表示，他期待各政黨向他提名一個支援親歐洲的議會多數派，以批准組建少數派內閣。
+
+---
+
+### 2026-06-25 23:58:06  #央行 #其他
+
+巴西央行官員： 我們持續監測中性利率水平。
+
+---
+
+### 2026-06-25 23:57:21  #其他
+
+羅馬尼亞總統表示，羅馬尼亞最好能在6月30日議會進入夏季休會之前組建新政府。
+
+---
+
+### 2026-06-25 23:57:11  #其他
+
+市場訊息：瑞銀交易業務主管巴倫將牽頭投行人工智慧戰略工作。
+
+---
+
+### 2026-06-25 23:56:55  #市場
+
+【匈牙利國債收益率逼近英國金邊債券，親歐轉向助推市場大漲】匈牙利債券大幅上漲，收益率正逼近英國水平，這是投資者看好新政府修復經濟及加入歐元區計劃的最新跡象。該國10年期基準債券收益率已降至5.15%，與同期限英國國債的差距不到半個百分點。這一利差自3月以來已大幅收窄——當時債券持有人要求持有匈牙利福林債務比持有英國金邊債券（Gilts）需獲得2.6個百分點的額外收益率。
+
+---
+
+### 2026-06-25 23:55:36  #公司
+
+倫敦金屬交易所（LME）公告：里昂證券（英國）自2026年6月29日星期一 起，正式以二類會員身份開始在倫敦金屬交易所開展交易業務。
+
+---
+
+### 2026-06-25 23:55:17  #MKT News #Important #XAUUSD #Impact bullish
+
+Spot gold's intraday gain widened to 1.00%, trading at $4,041.05/oz.
+
+---
+
+### 2026-06-25 23:51:58  #其他
+
+【英國倫敦面臨極端高溫帶來的鉅額財政負擔】英國倫敦市長Sadiq Khan表示，由於應對氣溫上升需要耗費鉅額資金，市政府必須尋求私人投資者的幫助。市長辦公室在一份報告中指出，2022年的熱浪（也是倫敦人首次經歷40攝氏度的高溫）造成了15億英鎊（約合20億美元）的損失。報告稱，倫敦約有100萬套住宅面臨極高的過熱風險，若要使其中最受影響的住宅更具韌性，預計需要花費90億至450億英鎊。
+
+---
+
+### 2026-06-25 23:51:46  #央行 #其他
+
+巴西央行行長：通脹風險的不對稱平衡概念，可能獨立於對任何一方風險的計量而產生。
+
+---
+
+### 2026-06-25 23:51:33  #國際
+
+美國汽車工人聯合會主席稱，美國聯邦監察員的這份報告“帶有政治偏向且純屬不實”。
+
+---
+
+### 2026-06-25 23:51:13  #國際
+
+美國聯邦監察員稱，全美汽車工人聯合會主席不當利用職權謀取利益。
+
+---
+
+### 2026-06-25 23:49:50  #公司 #國際
+
+市場訊息：日本JFE鋼鐵首席財務官表示，公司也正在考慮未來與美國紐柯鋼鐵成立合資企業。
+
+---
+
+### 2026-06-25 23:49:17  #央行 #國際
+
+巴西央行行長：我方已主動提供協助，向美國監管機構解讀 PIX 指標。
+
+---
+
+### 2026-06-25 23:47:20  #公司 #國際
+
+【模型顯示：美國氣溫升高將帶動能源需求上升，空調製冷需求恐創歷史第二高】據大宗商品天氣集團（Commodity Weather Group LLC）稱，最新的氣象模型顯示，6月底和7月初的氣溫將高於預期，這將推高製冷需求。這家商業氣象預報機構表示，下週四美國華盛頓特區最高氣溫將達到97華氏度（36攝氏度），紐約市預計將達到95華氏度，費城週五也將達到97華氏度。此外，預計達拉斯週三將觸及100華氏度。
+
+---
+
+### 2026-06-25 23:47:11  #其他
+
+【分析師：SpaceX或收購T-Mobile加速無線業務佈局】TD Cowen分析師表示，若SpaceX無法達成網路共享協議，其可能透過收購T-Mobile來加速其無線業務佈局。T-Mobile與Starlink現有的合作關係在戰略上具有契合性。該設想純屬推測，但凸顯了SpaceX對電信行業日益增長的競爭壓力。
 
 ---
 
@@ -22791,299 +23019,5 @@ United States | EIA Weekly Crude Oil Imports Change (Jun.19) | actual 94000M | p
 ### 2026-06-24 22:30:01  #MKT News #Economic Calendar
 
 United States | EIA Weekly Heating Oil Stocks Change (Jun.19) | actual 722000M | previous -204000M
-
----
-
-### 2026-06-24 22:29:55  #其他
-
-德國國防部長談F126護衛艦專案：正核查損害索賠，索賠成功可能性很低。
-
----
-
-### 2026-06-24 22:28:53  #其他
-
-國際銅研究小組：2026年4月全球精煉銅市場出現14.5萬噸缺口。
-
----
-
-### 2026-06-24 22:28:01  #市場
-
-意法半導體（SOITEC）股價下跌10%。
-
----
-
-### 2026-06-24 22:27:43  #Trading Economics #Markets #United States #stocks #Importance 1
-
-Realty Income Stock Price Hits 21-week Low — Realty Income shares decreased to 290.50 USD, the lowest since January 2026. Over the past 4 weeks, Realty Income lost 12.64%, and in the last 12 months, it decreased 11.5%.
-
----
-
-### 2026-06-24 22:27:32  #其他
-
-市場訊息：英國航空與波特航空宣佈達成全新程式碼共享協議。
-
----
-
-### 2026-06-24 22:27:28  #MKT News
-
-President Trump said he canceled today’s housing press conference and bill-signing ceremony, citing the urgent need to pass the Save America Act. Both events will remain canceled until the bill is passed.
-
----
-
-### 2026-06-24 22:27:22  #國際
-
-彭博使用者預計美國原油庫存將減少380萬桶。
-
----
-
-### 2026-06-24 22:27:09  #國際
-
-特朗普：今日的住房新聞釋出會與簽署儀式就此取消，直至我們透過亟需的《拯救美國法案》為止。
-
----
-
-### 2026-06-24 22:27:03  #MKT News
-
-Leftist candidate Cepeda conceded defeat in Colombia's presidential election.
-
----
-
-### 2026-06-24 22:27:01  #其他
-
-土耳其外長將於 6 月 25 日至 26 日訪問加拿大。
-
----
-
-### 2026-06-24 22:26:43  #國際
-
-特朗普：住房新聞釋出會和簽約儀式取消。
-
----
-
-### 2026-06-24 22:26:36  #公司
-
-【中國貿促會副會長林紅：技術變革、市場格局與合作模式正深刻重塑健康產業】6月24日上午，第四屆鏈博會期間，健康生活主題活動在京成功舉辦。中國貿促會副會長林紅紅出席活動並致辭。國家智慧財產權局專利局醫藥生物發明審查部部長馬文霞、華大集團執行長尹燁作主題發言。林紅紅表示，人人享有健康是全人類的共同願景，技術變革、市場格局與合作模式正深刻重塑健康產業。第四屆鏈博會健康生活鏈展區集中展示了大健康領域的關鍵環節、前沿產品、核心技術與優質服務。期待各方充分利用鏈博會平臺深化交流合作，凝聚全球健康生活產業創新發展和開放合作共識，助力全球健康產業可持續發展，為推動共建人類衛生健康共同體貢獻力量。（中國貿促）
-
----
-
-### 2026-06-24 22:26:16  #其他
-
-【今年以來廣州白雲機場口岸進出境超1000萬人次】廣州海關24日釋出，今年以來截至6月24日，廣州海關監管經廣州白雲機場口岸進出境人員突破1000萬人次，同比增幅超21%，創口岸歷史同期新高。據瞭解，今年以來，廣州白雲機場口岸新增、加密國際客貨運航線14條，其中13條航線通達共建“一帶一路”國家。目前，廣州白雲機場口岸國際及地區通航點突破100個，國際航空樞紐聯通輻射能力持續增強。“我們持續推進智慧海關建設，綜合應用先期機檢、智慧審圖等技術，保障進境旅客‘無感通關’。密切與多部門合作，實現出境通關‘一次過檢’。”廣州白雲機場海關旅檢一處旅檢四科科長陸放說。今年以來，廣州白雲機場海關累計監管口岸進出境航空器約6.2萬架次，日均進出境人員5.8萬人次，單日客流峰值達6.8萬人次。（新華社）
-
----
-
-### 2026-06-24 22:25:30  #公司 #國際
-
-【全球40%製藥研發供應鏈在中國 全球CEO扎堆來華】2026夏季達沃斯論壇上，麥肯錫中國區主席倪以理表示，今年是他見全球CEO來華最多的一年，中國市場吸引力持續上升。他指出，目前全球約40%的製藥研發供應鏈在中國，研發人員的速度遠超其他國家。在機器人領域，中國產品正成為歐洲、拉美等地區再工業化的重要支撐。從醫藥到智慧製造，每一個產業鏈環節，中國都能帶來獨特的加速價值。（央視財經）
-
----
-
-### 2026-06-24 22:24:43  #其他
-
-腦洞科技於2026年6月24日處置4210股美滿電子股票，套現120萬美元。
-
----
-
-### 2026-06-24 22:24:11  #其他
-
-市場訊息：哥倫比亞左翼候選人塞佩達承認在哥倫比亞總統大選落敗。
-
----
-
-### 2026-06-24 22:23:31  #其他
-
-德意志銀行表示，加元可能進一步走弱。
-
----
-
-### 2026-06-24 22:22:37  #公司 #市場 #國際
-
-美國資產管理公司股價下跌。KKR下跌1.5%，黑石下跌3.1%，Blue Owl下跌2.5%，Ares Management下跌2.4%，凱雷集團下跌2.7%。
-
----
-
-### 2026-06-24 22:20:23  #國際
-
-市場訊息：伊朗議會議長卡利巴夫在巴庫舉辦的伊斯蘭合作組織成員國議會聯盟會議間隙，會見了亞塞拜然總統伊利哈姆・阿利耶夫。
-
----
-
-### 2026-06-24 22:20:07  #MKT News #Important #Commodities #Energy #WTI #Impact mixed #Brent
-
-U.S. EIA weekly crude oil inventories for the week to June 19 — including U.S. crude, Cushing stocks and the Strategic Petroleum Reserve — due in 10 minutes.
-
----
-
-### 2026-06-24 22:19:35  #國際
-
-特朗普： 我真實的民調支援率創下歷史新高，感謝大家！！！
-
----
-
-### 2026-06-24 22:19:31  #市場 #焦點
-
-比特幣跌破61000美元，日內跌2.80%。
-
----
-
-### 2026-06-24 22:19:21  #MKT News #Market Themes #The Trump Trade
-
-U.S. President Trump said his approval rating has reached an all-time high.
-
----
-
-### 2026-06-24 22:18:31  #其他
-
-【長城魏牌推出跨界車型高山7 SUV版】長城汽車旗下魏牌高山7 SUV版正式上市，指導價28.58萬元，限時權益價27.08萬元。該車定位於打通MPV舒適度與SUV透過性邊界的跨界車型，基於長城全球首個新能源高階MPV專屬平臺打造。
-
----
-
-### 2026-06-24 22:18:01  #Trading Economics #Markets #United States #stocks #Importance 1
-
-P&G Stock Price Hits 14-week High — P&G shares increased to 153.07 USD, the highest since March 2026. Over the past 4 weeks, Procter & Gamble gained 6.95%, and in the last 12 months, it decreased 4.65%.
-
----
-
-### 2026-06-24 22:17:58  #國際
-
-俄聯邦安全會議副主席梅德韋傑夫：澤連斯基的職權早已到期，這一事實意味著他不再享有任何豁免權。
-
----
-
-### 2026-06-24 22:17:04  #其他
-
-世界衛生組織總幹事譚德塞：法國發現埃博拉病例後無需恐慌，全球感染風險較低。
-
----
-
-### 2026-06-24 22:16:26  #公司 #國際
-
-【懷進鵬會見法國中央理工集團主席羅曼·索貝朗】6月23日，教育部部長懷進鵬在京會見法國中央理工集團主席羅曼·索貝朗一行，就中法高等教育合作交換意見。 懷進鵬介紹了中國卓越工程師培養改革與實踐情況，充分肯定中央理工集團與中方高校在人才培養、科研合作及推進國際化辦學等方面取得的積極成效，希望雙方高校順應人工智慧、綠色低碳等時代變革要求，豐富合作內涵，拓展合作領域，探索工程人才培養新機制、新模式。 索貝朗介紹了中央理工集團與中方高校的最新合作進展，讚賞中方在人才培養和科技創新等方面取得的成就，表示願進一步深化校際合作，推動更多中央理工集團所屬院校學生來華學習實踐。（教育部）
-
----
-
-### 2026-06-24 22:15:10  #市場 #國際
-
-【油價盤中跌超4% 美油跌破每桶70美元關口】24日，國際油價盤中顯著下跌。截至北京時間24日21:40，紐約商品交易所8月交貨的輕質原油期貨價格報每桶69.97美元，跌幅為4.43%；8月交貨的倫敦布倫特原油期貨價格報每桶73.59美元，跌至2月底新一輪中東衝突爆發以來的最低水平，較前一個交易日下跌4.53%。分析認為，油價下跌與霍爾木茲海峽運輸恢復預期有關。交易員表示，市場正逐步計入伊朗原油重新進入全球市場以及海峽通航恢復正常的可能性。有分析人士指出，如果相關制裁放鬆，伊朗原油產量和出口可能在數週內恢復增長，因為大量原油已儲存在油輪中。（央視財經）
-
----
-
-### 2026-06-24 22:14:46  #國際
-
-【魯比奧訪問阿聯酋討論伊朗局勢等】據阿聯酋《海灣時報》24日報道，阿聯酋總統穆罕默德當天與到訪的美國國務卿魯比奧舉行會談。 報道稱，雙方討論了美國與伊朗簽署的諒解備忘錄、確保霍爾木茲海峽全面安全通航的努力，以及維護地區和平與穩定的重要性。魯比奧在會談中重申美國致力於維護阿聯酋安全的承諾。 魯比奧23日抵達阿聯酋開始訪問。訪問期間，魯比奧還與阿聯酋國家安全顧問塔農·本·扎耶德·阿勒納哈揚、副總理兼外交部長阿卜杜拉等高階官員就雙邊關係及地區事務交換意見。 報道稱，阿聯酋是魯比奧此次海灣之行的首站，其後他將訪問科威特和巴林。三國均設有美軍基地。(新華社)
-
----
-
-### 2026-06-24 22:14:33  #公司 #市場 #焦點
-
-【6月24日增減持彙總】據不完全統計，6月24日盤後，洽洽食品、供銷大集、ST海龍披露增持情況，德爾瑪、深科達、麥克奧迪、諾誠健華、思源電氣、泰晶科技、財富趨勢、方正電機8家A股上市公司披露擬減持情況。
-
----
-
-### 2026-06-24 22:14:20  #央行 #美聯儲
-
-【貝森特稱沃什對通脹態度強硬 特朗普允許美聯儲自主決策】美國財政部長斯科特·貝森特表達了對新任美聯儲主席凱文·沃什的信心，並稱總統特朗普給予了沃什自主決策的空間。“他談論通脹問題時態度強硬，”貝森特週三在節目中說。他表示，相信沃什“將找到一條能兼顧通脹和經濟的最佳途徑”。
-
----
-
-### 2026-06-24 22:14:02  #公司
-
-【華為申請“世界”商標引熱議】近日，華為註冊“世界”商標引發熱議。國家智慧財產權局商標局官網披露，華為技術有限公司申請的“世界”商標使用在第12類商品上的註冊申請已獲初步審定，於2026年5月13日進入初審公告階段。
-
----
-
-### 2026-06-24 22:13:53  #Trading Economics #Markets #United States #stocks #Importance 1
-
-Parker-Hannifin Stock Price Hits 8-week High — Parker-Hannifin shares increased to 965.20 USD, the highest since April 2026. Over the past 4 weeks, Parker -Hannifin gained 11.12%, and in the last 12 months, it increased 42.84%.
-
----
-
-### 2026-06-24 22:13:42  #其他
-
-【華為釋出5G-A大上行、Token經營等相關成果】2026 MWC 上海期間，華為與國內三大運營商釋出了5G-A大上行和體驗經營、AI煥新主營業務、Token經營等領域的相關成果。（科創板日報）
-
----
-
-### 2026-06-24 22:13:09  #市場
-
-意法半導體（SOITEC）股票暫停交易，暫停前最新下跌8.6%。
-
----
-
-### 2026-06-24 22:12:28  #宏觀 #央行 #國際
-
-【貝森特稱沃什對通脹態度強硬 特朗普允許美聯儲自主決策】美國財政部長斯科特·貝森特表達了對新任美聯儲主席凱文·沃什的信心，並稱總統特朗普給予了沃什自主決策的空間。“他談論通脹問題時態度強硬，”貝森特週三在CNBC節目中說。他表示，相信沃什“將找到一條能兼顧通脹和經濟的最佳途徑”。當被問及是否與特朗普討論過當前並非合適降息時機（特朗普長期以來一直呼籲降息）時，貝森特表示，特朗普“無論在公開場合還是私下裡，都表示對凱文·沃什充滿信心”。貝森特預測，在今年餘下時間裡，美國經濟將在不引發通脹的情況下加速增長。在週二晚些時候的另一次講話中，他還預測，隨著伊朗衝突的緩和，物價漲幅將會回落。沃什上週主持了他任內的首次美聯儲政策會議，儘管特朗普極力呼籲降息，但他仍與聯邦公開市場委員會的其他成員一道投票維持利率不變。由於通脹捲土重來，美聯儲決策者逐漸改變了降息傾向，許多人現在認為有理由在2026年提高借貸成本。貝森特週二在紐約經濟俱樂部發表演講後的問答環節中表示，特朗普明白“債券市場搞垮的政府比榴彈炮摧毀的政府還要多”。這番言論顯然是指通脹推高長期借貸成本所帶來的政治後果。他說：“因此，我相信他對美聯儲主席採取正確行動充滿信心。”“關於美聯儲，我聽到了加息的綠燈，”Renaissance Macro Research經濟研究主管Neil Dutta在總結貝森特週二言論的報告中寫道。
-
----
-
-### 2026-06-24 22:11:59  #Trading Economics #Markets #United States #stocks #Importance 1
-
-Chubb Stock Price Hits 5-week High — Chubb shares increased to 333.99 USD, the highest since May 2026. Over the past 4 weeks, Chubb gained 1.92%, and in the last 12 months, it increased 17.28%.
-
----
-
-### 2026-06-24 22:11:44  #MKT News #S&P500 #Impact bullish #DXY #Impact bearish #WTI #Impact mixed
-
-US removes sanctions on some individuals linked to Russian banks.
-
----
-
-### 2026-06-24 22:11:39  #MKT News
-
-White House press secretary Leavitt said President Trump will host a dinner for farmers at the White House on Thursday.
-
----
-
-### 2026-06-24 22:11:16  #國際
-
-市場訊息：美國解除對部分關聯俄羅斯銀行人員的制裁。
-
----
-
-### 2026-06-24 22:10:34  #國際
-
-特朗普將於週四在白宮晚宴上款待農民。
-
----
-
-### 2026-06-24 22:09:32  #MKT News #Macro & Rates #Treasury Yields #US10Y #Impact mixed #S&P500 #Impact bullish
-
-U.S. 30-year Treasury yield fell to 4.8572%, the lowest level since April 15.
-
----
-
-### 2026-06-24 22:08:47  #Trading Economics #Markets #United States #stocks #Importance 1
-
-Nvidia Stock Price Hits 7-week Low — Nvidia shares decreased to 199.32 USD, the lowest since May 2026. Over the past 4 weeks, Nvidia Corporation lost 7.09%, and in the last 12 months, it increased 29.36%.
-
----
-
-### 2026-06-24 22:08:21  #國際
-
-美國 30 年期美債收益率跌至 4.8572%，創 4 月 15 日以來新低。
-
----
-
-### 2026-06-24 22:07:55  #國際
-
-美國郵政署告知國會，根據一項提案，該機構將不為不披露選民登記名單的各州遞送選票。
-
----
-
-### 2026-06-24 22:07:54  #MKT News
-
-Market sources say the US will remove some individuals from a Russia-related sanctions list.
-
----
-
-### 2026-06-24 22:07:30  #國際
-
-市場訊息：美國將部分個人從與俄羅斯相關的制裁名單中移除。
-
----
-
-### 2026-06-24 22:07:01  #Trading Economics #Economy #United States #New Home Sales #Importance 3
-
-US New Home Sales Fall for 2nd Month — Sales of new single-family homes in the US tumbled 7.3% month-over-month to a seasonally adjusted annualized rate of 580 thousand in May 2026, the lowest in four months, following an upwardly revised 626 thousand in April and well below forecasts of 640 thousand. New home sales fell for a second straight month, mainly due to a 26.9% plunge in the West (to 117 thousand) and a 4.1% fall in the South (to 350 thousand). In contrast, sales rose 3% in the Northeast (to 34 thousand) and soared 16.2% in the Midwest (to 79 thousand).
 
 ---

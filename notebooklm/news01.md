@@ -1,7 +1,189 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-06-27 07:04:47_
-_本檔包含 3619 則快訊，約 670379 字_
+_更新時間：2026-06-27 08:04:51_
+_本檔包含 3607 則快訊，約 670794 字_
+
+---
+
+### 2026-06-27 08:02:56  #其他
+
+【有券商新客理財約定年化收益率高達8.18%】近期，券商競相入駐網路平臺，透過專屬佣金費率、專屬理財產品、智慧工具體驗等吸引新客，其中，高收益的新客理財產品最具吸引力。記者梳理發現，目前多家券商均針對新開股票賬戶投資者提供購買高收益理財產品的資格，多數產品約定年化收益率在6%以上，最高年化收益率更是達到8.18%。需要注意的是，各家券商的新客理財產品，具有不同的期限、認購額度限制。例如，推出上述約定年化收益率8.18%新客理財產品的券商稱，該理財產品為R1等級（低風險），適合C1（保守型）及以上客戶，期限30天，1000元起投，最高認購額度為5萬元。（證券日報）
+
+---
+
+### 2026-06-27 08:01:27  #公司 #焦點
+
+納斯達克：太空探索技術公司（SpaceX）將於2026年7月7日納入納斯達克100指數。
+
+---
+
+### 2026-06-27 07:58:08  #公司
+
+【險資機構“組隊”投資不動產新正規化】在北京中關村，承載了一代人記憶的地標建築——鼎好DH3大廈，近期悄然易主，接盤方包括透過私募股權基金“組隊”而來的險資機構。記者瞭解到，此次險資的投資方式打破了常規，採取“多家險企聯合出資、專業機構操盤分工”的創新模式。多位受訪業內人士表示，這種聯合投資的新模式正在保險行業內快速普及，不僅有利於應對“資產荒”、匹配長久期負債、對沖長期利率下行風險，還能透過專業分工實現優勢互補。過去，部分險資更偏好透過二級市場重倉地產股參與地產行業投資；如今，其投資重心逐漸轉向實體商業地產，收購單體優質專案公司股權、借道私募股權基金投資等方式更為常見。（證券日報）
+
+---
+
+### 2026-06-27 07:49:03  #央行 #國際
+
+【個人消費支出價格指數升至3年來新高 美聯儲年內加息懸念拉滿】今年1月，美國總統特朗普提名凱文·沃什擔任美聯儲主席，期望後者能回應他的降息訴求。1個月後，中東局勢的突變打亂了既定路徑：原本有望支撐美聯儲降息的條件，現在已漸行漸遠。“美聯儲降息的理由越來越少了。”分析人士這般感嘆。對於當下的美聯儲而言，通脹無疑是“心頭大患”。最新資料顯示，美國5月個人消費支出（PCE）價格指數升至3年來新高。隨著中東地緣衝突引發的能源供給衝擊逐漸消退，美聯儲或將進入通脹結構判斷的觀察期。未來美國通脹能否逐步回落，將成為後續政策決策的重點考慮因素。在上述PCE資料公佈後，交易員略微削減了對美聯儲加息的押注。但總體而言，市場目前仍預期美聯儲最早在9月的會議上決定加息。（上海證券報）
+
+---
+
+### 2026-06-27 07:47:36  #央行 #市場
+
+【機構下脩金價短期預期 中長期上行邏輯未改】當前，國際金價延續調整態勢，倫敦金現貨價格一度跌破4000美元/盎司關口。上週多國央行轉鷹後，金價短線承壓明顯，多家投行下調黃金短期目標價。不過，多數機構認為，央行持續增儲等結構性支撐因素未變，本輪黃金回撥並非牛市終結，黃金中長期配置價值依然凸顯。（中國證券報）
+
+---
+
+### 2026-06-27 07:47:11  #央行 #中國央行
+
+【央行就同業存單管理辦法徵求意見 備案額度動態調整 DR等利率納入定價參考】中國人民銀行6月26日公開發布《同業存單管理辦法（徵求意見稿）》。辦法是在《同業存單管理暫行辦法》等檔案基礎上修訂而成，包含豐富同業存單定價參考指標等核心變化。
+
+---
+
+### 2026-06-27 07:46:32  #公司 #市場
+
+【6月以來新發基金破千億元 權益類基金擔當主力軍 凸顯機構看多後市信心】新基金髮行熱度不減，6月新基金髮行規模突破千億元。從新發基金特點看，權益基金、“固收+”、FOF三類產品最受資金青睞。與此同時，有逾120只基金正在或即將發行，其中權益類基金擔當主力軍。在業內人士看來，近期新基金密集發行，尤其是權益類基金加速推出，反映基金公司對後市樂觀的態度。（上海證券報）
+
+---
+
+### 2026-06-27 07:43:46  #宏觀 #國際
+
+【美國南方司令部：與委內瑞拉人民站在一起】美國南方司令部發布宣告稱，美國南方司令部凱文・J・賈拉德少將與臨時代辦約翰・M・巴雷特會見德爾西・羅德里格斯副總統及其他高層官員，協調委內瑞拉救災工作。應委內瑞拉請求，並配合美國國務院行動，美國國防部正緊急調配關鍵力量，支援當地震災救援行動、挽救民眾生命。
+
+---
+
+### 2026-06-27 07:42:10  #其他
+
+【量子科技迎三重積極變化 產業發展直面長週期考驗】近日，上交所釋出《上海證券交易所科創板企業發行上市申報及推薦暫行規定（徵求意見稿）》。暫行規定修訂主要調整更新第五條規定的戰略性新興產業領域二級行業。其中，新一代資訊科技領域，新增“量子”。記者採訪獲悉，當前量子科技產業正進入產業化節奏加快、資本可投資可退出性預期增強、政策支援逐步細化的新階段。不過，面對行業共性問題以及與海外同行的差距，行業參與者應秉持耐心和決心。（上證報）
+
+---
+
+### 2026-06-27 07:41:35  #觀點
+
+【巴克萊銀行首席客戶官：AI週期或長於預期，中國產業鏈崛起】巴克萊銀行首席客戶官Stephen Dainton近日在接受記者專訪時表示，以史為鑑，科技投資週期持續的時間往往超出預期。AI週期一拉長，增長勢頭自然會吸引海量資本。但並非所有資本都能帶來預期回報，有些甚至可能血本無歸，因為這中間難免湧入投機資金。這場技術變革正在重塑每一家公司的商業模式。在AI熱潮中，Dainton發現，中國正在清楚地定義一種完整產業鏈的崛起，已經從單項技術演進為全產業生態系統。資本正向支撐這場產業變革的基礎設施領域重新配置，無論是電力、道路還是電網基礎設施，都面臨巨大的資本投入和變革需求。過去五年在中國嶄露頭角的這批公司，將繼續成長、壯大，實現規模化、產業化。（21財經）
+
+---
+
+### 2026-06-27 07:40:24  #其他
+
+【國產稀釋製冷機ez-Q F1500首臺下線】記者26日獲悉，在中國科學院量子資訊與量子科技創新研究院授權指導下，科大國盾量子技術股份有限公司完成工程化開發的國產稀釋製冷機ez-Q F1500首臺正式下線。該裝置單核心製冷量達1700微瓦，為我國後續千位元可糾錯超導量子計算機的研製奠定基礎。（科技日報）
+
+---
+
+### 2026-06-27 07:38:37  #公司
+
+【上下游擴產忙 半導體裝置迎來增長大年】據記者統計，今年以來，A股已有長電科技、通富微電、華天科技、深科技、誠邦股份等半導體封測及儲存模組廠商，芯聯整合、民德電子等晶圓製造廠商披露擴產專案，總投資金額近450億元。究其原因，AI算力需求爆發式增長，對先進AI晶片、儲存晶片、高階功率器件（如電源IC）、互連晶片等需求大增，先進製程晶圓製造、先進封裝產能持續供不應求。有半導體業內人士表示，半導體晶圓製造和先進封裝擴產，疊加儲存晶片擴產，給半導體裝置、材料廠商帶來巨大增長機遇。（上證報）
+
+---
+
+### 2026-06-27 07:33:56  #公司
+
+【今年港股首發募資前十大IPO名單中，A+H企業獨佔8席】2026年6月26日，領益智造、聖邦股份、芯碁微裝三家A股龍頭企業同步登陸港交所主機板，成為2026年上半年A+H上市潮的收官之作。今年以來，A股企業“扎堆”赴港上市已成蔚然之勢。據Wind統計，上半年總共有24家A股上市公司成功發行H股，合計募資規模突破1200億港元，創下歷史同期新高。更為引人注目的是，在今年港股首發募資前十大IPO名單中，A+H企業獨佔8席，展現出龍頭企業跨境融資的強勁動能。
+
+---
+
+### 2026-06-27 07:33:08  #公司 #國際
+
+【本週151家上市公司披露機構調研紀要 熱門公司仍受關注】本週（6月22日—6月26日）A股共有151家上市公司披露機構投資者調研紀要。從賺錢效應來看，本週超三成機構調研股實現正收益，其中東方鉭業5日2板，漲幅38.36%，怡達股份漲31.76%，斯迪克、深天馬A等個股漲超10%。熱門調研標的方面，本週機構調研熱度有所降溫，無百家機構扎堆調研同一家公司的情況出現。廣生堂接受53家機構調研，勝宏科技、盛弘股份分別接受44家、43家機構調研，聯合化學、恆坤新材均接受35家機構調研，弘亞數控、廣信材料接受30家以上機構調研。
+
+---
+
+### 2026-06-27 07:31:04  #公司
+
+【公募基金第二批業績比較基準調整落地 業內人士：不會對市場執行造成衝擊】公募基金第二批業績比較基準調整落地。6月26日，近百家基金管理人旗下的千餘隻產品，釋出了部分存量產品業績比較基準調整公告。與首批相比，第二批調整覆蓋範圍更廣、產品數量更多、參與主體更加多元，意味著公募基金行業圍繞產品定位、投資約束、資訊披露和投資者保護的系統性改革進一步走深走實。業內人士指出，第二批基準調整是在依法合規的前提下，按照“優先調整基準而非調整持倉”的原則，對合同約定的基準進行變更，管理人調整基準無需調倉，基準調整公告的釋出及一個月後的正式生效並非“調倉發令槍”，不會對市場執行造成衝擊。
+
+---
+
+### 2026-06-27 07:27:20  #公司
+
+巴西國家石油公司（PETROBRAS）表示，該公司已收到與政府柴油補貼計劃相關的1.7億雷亞爾款項。
+
+---
+
+### 2026-06-27 07:22:41  #其他
+
+【委強震遇難人數攀升 拉共體呼籲成員國參與救援】委內瑞拉全國代表大會主席豪爾赫·羅德里格斯26日表示，委內瑞拉24日發生的強震遇難人數已升至920人。拉美和加勒比國家共同體（拉共體）向遇難者表示哀悼，呼籲成員國參與救援。（新華社）
+
+---
+
+### 2026-06-27 07:21:49  #國際
+
+【美國允許受信任的夥伴使用Anthropic的Mythos 5人工智慧模型】美國商務部在信函中表示，美國放寬了對“可信賴的夥伴”使用Anthropic PBC的高階Mythos 5人工智慧模型的限制。此舉緩和了Anthropic與美國政府之間的爭端。此前，美國政府援引安全擔憂，突然禁止Anthropic向外國公民開放Fable 5和Mythos 5。這封日期為週五的信函並未提及對Fable 5模型使用限制的任何調整。美國商務部發言人Benno Kass表示：“在短短兩週內，我們辛勤工作，以確保美國在維護國家安全的同時，繼續保持在全球人工智慧領域的領導地位。”
+
+---
+
+### 2026-06-27 07:14:18  #央行 #焦點 #國際
+
+【6月27日隔夜要聞一覽】
+1、當地時間6月26日，美國總統特朗普表示，伊朗至少向經過霍爾木茲海峽的船隻發射4架單向攻擊無人機，其中一架擊中一艘大型貨船上層甲板造成損壞，但船隻仍繼續航行。
+2、美軍中央司令部發布宣告表示，美軍中央司令部部隊當日對伊朗實施了打擊，以此作為對前一日一艘途經霍爾木茲海峽的商船遭襲事件的回應。
+3、伊朗伊斯蘭革命衛隊表示，伊朗南部錫裡克地區遭美軍襲擊，革命衛隊將對美軍襲擊作出“迅速而果斷”的回應。但是伊斯蘭革命衛隊公共關係部負責人表示，近期在社交媒體上流傳的、涉及與美國發生衝突的所謂“革命衛隊宣告”均為偽造內容。
+4、美國國務卿魯比奧釋出宣告表示，當日，美國、黎巴嫩和以色列簽署三方框架協議。
+5、以色列總理內塔尼亞胡發表電視講話，宣佈以色列、黎巴嫩和美國三方代表當天在美國首都華盛頓簽署了一項重大工作框架協議。他強調，在黎巴嫩真主黨徹底解除武裝並消除對以安全威脅之前，以色列軍隊將長期維持在黎巴嫩南部“安全區”的駐軍。
+6、OpenAI正式釋出GPT-5.6系列模型，包括旗艦版Sol、均衡版Terra以及輕量版Luna。不同於以往的公開發布，這次OpenAI並未立即全面開放，而是在美國政府要求下，僅向少數“可信合作伙伴”（trusted partners）提供預覽許可權。
+7、知情人士表示，美國商務部長霍華德·盧特尼克在緩解安全顧慮方面正取得進展，這將有助於取消商務部對Anthropic的Fable 5和Mythos 5系統實施的出口管制。
+8、美國總統特朗普威脅稱，將對任何向美國科技企業徵收數字服務稅的國家所有輸美商品徵100%關稅。這項關稅措施將“立即”生效，並取代美國此前與相關國家達成的任何現有貿易協議。
+9、明尼阿波利斯聯儲行長尼爾·卡什卡里表示，通脹普遍存在的跡象促使他在美聯儲本月早些時候公佈的預測中預計今年將加息一次。
+
+---
+
+### 2026-06-27 07:11:07  #其他
+
+Meta請求加州立法者提供保護，以免遭兒童傷害處罰。
+
+---
+
+### 2026-06-27 07:10:46  #其他
+
+玻利維亞轉向靈活匯率制度，靈活匯率將由市場決定。
+
+---
+
+### 2026-06-27 07:08:22  #宏觀
+
+除了頭版內容，今天《人民日報》涉及財經的主要內容還包括：
+1、諶貽琴在江西調研時強調 堅決落實就業優先戰略 推動體育產業高質量發展；
+2、全國人民代表大會常務委員會關於授權香港特別行政區對皇崗口岸港方口岸區及相關延伸區實施管轄的決定 （2026年6月26日第十四屆全國人民代表大會常務委員會第二十三次會議透過）；
+3、全國人民代表大會常務委員會關於批准2025年中央決算的決議 （2026年6月26日第十四屆全國人民代表大會常務委員會第二十三次會議透過）；
+4、第十四屆全國人民代表大會財政經濟委員會關於2025年中央決算草案審查結果的報告——2026年6月23日在第十四屆全國人民代表大會常務委員會第二十三次會議上；
+5、中華人民共和國和孟加拉人民共和國聯合公報（二〇二六年六月二十六日，北京）；
+6、第四屆鏈博會參展單位與4.3萬家上中下游企業建立聯絡——“鏈”味更濃 連結更深 成果更實；
+7、第九屆進博會推介活動在法國舉行；
+8、確定建立社會主義市場經濟體制（偉大征程）；
+9、2026發展中國家國家治理高階智庫論壇在京舉辦；
+10、在發展中保障和改善民生。
+
+---
+
+### 2026-06-27 07:08:15  #宏觀 #焦點
+
+今天《人民日報》頭版的主要內容有：
+1、習近平會見柬埔寨人民黨主席、參議院主席洪森；
+2、習近平會見孟加拉國總理塔裡克；
+3、習近平就委內瑞拉發生強烈地震向委內瑞拉代總統羅德里格斯致慰問電；
+4、李強會見柬埔寨人民黨主席、參議院主席洪森；
+5、十四屆全國人大常委會第二十三次會議在京閉幕 表決透過新修訂的商標法、關於修改註冊會計師法的決定等 習近平簽署主席令 趙樂際主持會議；
+6、丁薛祥在新疆調研時強調 突出優勢特色培育壯大新動能 加快推進經濟社會高質量發展；
+7、安徽六安市弘揚大別山精神——用好紅色資源 深耕綠色產業（牢記初心使命 奮進復興征程）。
+
+---
+
+### 2026-06-27 07:05:56  #其他
+
+【委內瑞拉地震重災區開始交通管制】當地時間26日，委內瑞拉內政、司法與和平部長卡韋略透過電視講話宣佈，由於大量車輛和人員湧入地震重災區拉瓜伊拉州，造成交通嚴重擁堵，並阻礙了地震救援工作，自26日20時起，進入拉瓜伊拉州的通道將全面實施交通管制，已完成登記並持有志願者證件的人員仍可獲准進入該州。委內瑞拉24日連續發生兩次7級以上強震，造成大量人員傷亡。委政府宣佈多項措施應對強震災情，國際社會已向委提供震後援助。（央視新聞）
+
+---
+
+### 2026-06-27 07:05:36  #公司
+
+【知名基金經理旗下兩隻產品增聘】6月27日，易方達基金髮布公告，知名基金經理張坤管理的易方達優質精選、易方達優質企業三年持有兩隻基金增聘彭珂、張琦為基金經理。增聘後易方達亞洲精選仍由其獨立管理。
+
+---
+
+### 2026-06-27 07:04:39  #公司
+
+墨西哥石油公司Pemex：董事會批准任命Elizabeth Gonzalez為首席財務官（CFO）。
 
 ---
 
@@ -21606,233 +21788,5 @@ The U.S. and Gulf states issued a joint statement on Lebanon, stressing the impo
 ### 2026-06-26 00:03:36  #Trading Economics #Markets #Germany #Stock Market #Importance 1
 
 DAX Outshines European Peers — The DAX 40 pushed higher to close about 1% firmer at 25,000 on Thursday, marking the second day of gains and outperforming its European peers, driven by pharma and tech stocks. Bayer shares jumped over 19% after a US Supreme Court ruling in favor of the pharmaceutical and agrochemical company in lawsuits related to its Roundup weedkiller. Infineon Technologies was also among the top gainers, rising 3.1%, boosted by renewed investor confidence in AI following encouraging outlooks from chipmakers Micron Technology and Qualcomm. Vonovia advanced 3% following a buy recommendation from Deutsche Bank. Meanwhile, Volkswagen rose 1.7% after confirming the sale of a majority stake in its engine unit Everllence to private equity firm Bain Capital for approximately €7.4 billion, supporting its restructuring plans and easing debt concerns. On the losing side, Fresenius Medical Care (-3%) and Scout24 (-2.8%) posted the biggest declines.
-
----
-
-### 2026-06-26 00:03:31  #MKT News #DIS.O #Impact bearish
-
-U.S. FCC Chair Carl said the agency is advancing a review of ABC's broadcast license and that all options remain on the table.
-
----
-
-### 2026-06-26 00:03:29  #國際
-
-美國及海灣國家就黎巴嫩問題發表聯合宣告：強調堅持談判程序的重要性。
-
----
-
-### 2026-06-26 00:03:08  #MKT News
-
-Canadian Prime Minister Carney says Ottawa will provide humanitarian aid to Venezuela.
-
----
-
-### 2026-06-26 00:03:07  #MKT News #Star Stocks #Alphabet #Market Themes #Magnificent 7
-
-Google (GOOG.O) launched a new Google Finance app for Android today and will roll out the "Portfolio" feature globally in the new Google Finance starting this week. An iOS version is scheduled for later this year.
-
----
-
-### 2026-06-26 00:02:53  #其他
-
-加拿大總理卡尼：正採取行動向委內瑞拉提供人道主義援助。
-
----
-
-### 2026-06-26 00:02:47  #其他
-
-聯邦通訊委員會主席卡爾表示，該機構正在推進對ABC廣播執照的審查，並稱所有選項仍在考慮範圍內。
-
----
-
-### 2026-06-26 00:02:42  #公司
-
-谷歌：將於今年晚些時候推出iOS版財經應用。
-
----
-
-### 2026-06-26 00:02:11  #公司
-
-谷歌：從本週起，我們將在新版本谷歌財經中向全球推出投資組合功能。
-
----
-
-### 2026-06-26 00:02:08  #國際
-
-市場訊息：日本原子能規制委員會力爭最早於2027年推動相關法律修訂。
-
----
-
-### 2026-06-26 00:02:02  #MKT News #Important #XAUUSD #Impact bullish #WTI #DXY
-
-An Iranian source close to the negotiating team said Israeli withdrawal from Lebanon is a condition for a final Iran–US agreement and constitutes Iran’s red line.
-
----
-
-### 2026-06-26 00:01:54  #公司
-
-谷歌：今日我們還將推出一款面向安卓系統的全新谷歌財經應用。
-
----
-
-### 2026-06-26 00:01:30  #國際
-
-加拿大總理卡尼：週三沒有與美國總統特朗普討論美墨加協定（USMCA）。
-
----
-
-### 2026-06-26 00:01:27  #焦點 #國際
-
-伊朗談判團隊知情人士向本國官方媒體透露：以色列撤出黎巴嫩是伊美達成最終協議的前提條件，同時也是伊朗的紅線。
-
----
-
-### 2026-06-26 00:01:05  #央行 #其他
-
-巴西央行官員：對2028年通脹預期並無過度樂觀情緒。
-
----
-
-### 2026-06-26 00:01:03  #MKT News
-
-Canadian Prime Minister Carney said on Wednesday he did not discuss the US-Mexico-Canada Agreement (USMCA) with U.S. President Trump.
-
----
-
-### 2026-06-26 00:00:50  #市場
-
-洲際交易所英國 7 月天然氣期貨結算價報 96.52 便士 / 熱量單位。
-
----
-
-### 2026-06-26 00:00:14  #國際
-
-房地美：美國抵押貸款利率微升至 6.49%。
-
----
-
-### 2026-06-25 23:59:51  #Trading Economics #Markets #Commodity #Importance 1
-
-US Natgas Prices Rise to 3-Week High — US natural gas prices climbed toward $3.28 per MMBtu, the highest in three weeks, propelled by increased flows to liquefied natural gas export facilities and forecasts for warmer weather through July 10. This hotter weather is expected to drive up electricity demand for air conditioning in a country where gas-fired plants generate roughly 40% of the power supply. Average daily flows to major export plants rose to 17.3 billion cubic feet so far in June, up from 17.1 billion cubic feet in May, boosted by record feedgas activity at the Golden Pass facility in Texas. Simultaneously, the Energy Information Administration reported a near-normal storage injection of 76 billion cubic feet for the week ended June 19. This addition keeps domestic stockpiles about 5.7% above seasonal norms. At the same time, production in the Lower 48 states has been steady at 109.7 billion cubic feet per day so far in June, unchanged from the previous month.
-
----
-
-### 2026-06-25 23:59:37  #國際
-
-市場訊息：日本將提前開展反恐審查，簡化核電站審批流程。
-
----
-
-### 2026-06-25 23:59:31  #Trading Economics #Markets #France #Stock Market #Importance 0
-
-CAC 40 Rises on Finance and Tech Gains — The CAC 40 rose 0.6% to close at 8,432 on Thursday as oil prices remained near pre-conflict levels and optimism over AI-driven growth prospects returned. Growing confidence in a lasting US-Iran agreement encouraged more tankers to transit the Strait of Hormuz, keeping oil prices low and easing inflation concerns. Financial stocks posted gains, with BNP Paribas up 1.5%, AXA advancing 0.7%, and Societe Generale gaining 2.8%. Meanwhile, STMicroelectronics rose 2.7% after Micron reported strong quarterly results and issued an upbeat revenue outlook, pointing to sustained AI-related demand and helping revive appetite for technology stocks after the recent global selloff. Industrial stocks traded mixed, with Safran up 1.6%, while Thales fell 3.1% on progress toward a US-Iran ceasefire. Luxury stocks were also mixed, with LVMH and L'Oréal edging higher, while Hermès lost 0.9%.
-
----
-
-### 2026-06-25 23:59:22  #MKT News
-
-Romanian president said he hopes a new government will be formed before parliament's summer recess on June 30.
-
----
-
-### 2026-06-25 23:59:06  #市場
-
-洲際交易所 7 月柴油期貨結算價報每噸 913.50 美元。
-
----
-
-### 2026-06-25 23:59:00  #Trading Economics #Markets #Euro Area #Stock Market #Importance 1
-
-European Stocks Close at Record — European stocks closed higher on Thursday, gaining traction from a muted session yesterday amid fresh support from the tech sector. Euro STOXX 50 gained 0.8% to 6,263 and the STOXX Europe 600 rose 0.8% to a record high of 640. Chip stocks and companies with exposure to AI infrastructure surged following their pullback yesterday after the strong guidance by Micron in the US restored some confidence in the AI trade. ASML added 2.6% and Infineon gained 2.3%, while Siemens Energy jumped 2.5%. Meanwhile, banks also rebounded as energy prices retreated further and lowered sovereign yields in the Eurozone, supporting the outlook for credit activity. BNP Paribas and BBVA rose 1.5%. Lastly, Bayer surged close to 20%, its strongest session in 23 years after the US Supreme Court sided with the drugmaker on lawsuits concerning its Roundup weedkiller.
-
----
-
-### 2026-06-25 23:58:35  #國際
-
-羅馬尼亞總統表示，他期待各政黨向他提名一個支援親歐洲的議會多數派，以批准組建少數派內閣。
-
----
-
-### 2026-06-25 23:58:06  #央行 #其他
-
-巴西央行官員： 我們持續監測中性利率水平。
-
----
-
-### 2026-06-25 23:57:21  #其他
-
-羅馬尼亞總統表示，羅馬尼亞最好能在6月30日議會進入夏季休會之前組建新政府。
-
----
-
-### 2026-06-25 23:57:11  #其他
-
-市場訊息：瑞銀交易業務主管巴倫將牽頭投行人工智慧戰略工作。
-
----
-
-### 2026-06-25 23:56:55  #市場
-
-【匈牙利國債收益率逼近英國金邊債券，親歐轉向助推市場大漲】匈牙利債券大幅上漲，收益率正逼近英國水平，這是投資者看好新政府修復經濟及加入歐元區計劃的最新跡象。該國10年期基準債券收益率已降至5.15%，與同期限英國國債的差距不到半個百分點。這一利差自3月以來已大幅收窄——當時債券持有人要求持有匈牙利福林債務比持有英國金邊債券（Gilts）需獲得2.6個百分點的額外收益率。
-
----
-
-### 2026-06-25 23:55:36  #公司
-
-倫敦金屬交易所（LME）公告：里昂證券（英國）自2026年6月29日星期一 起，正式以二類會員身份開始在倫敦金屬交易所開展交易業務。
-
----
-
-### 2026-06-25 23:55:17  #MKT News #Important #XAUUSD #Impact bullish
-
-Spot gold's intraday gain widened to 1.00%, trading at $4,041.05/oz.
-
----
-
-### 2026-06-25 23:51:58  #其他
-
-【英國倫敦面臨極端高溫帶來的鉅額財政負擔】英國倫敦市長Sadiq Khan表示，由於應對氣溫上升需要耗費鉅額資金，市政府必須尋求私人投資者的幫助。市長辦公室在一份報告中指出，2022年的熱浪（也是倫敦人首次經歷40攝氏度的高溫）造成了15億英鎊（約合20億美元）的損失。報告稱，倫敦約有100萬套住宅面臨極高的過熱風險，若要使其中最受影響的住宅更具韌性，預計需要花費90億至450億英鎊。
-
----
-
-### 2026-06-25 23:51:46  #央行 #其他
-
-巴西央行行長：通脹風險的不對稱平衡概念，可能獨立於對任何一方風險的計量而產生。
-
----
-
-### 2026-06-25 23:51:33  #國際
-
-美國汽車工人聯合會主席稱，美國聯邦監察員的這份報告“帶有政治偏向且純屬不實”。
-
----
-
-### 2026-06-25 23:51:13  #國際
-
-美國聯邦監察員稱，全美汽車工人聯合會主席不當利用職權謀取利益。
-
----
-
-### 2026-06-25 23:49:50  #公司 #國際
-
-市場訊息：日本JFE鋼鐵首席財務官表示，公司也正在考慮未來與美國紐柯鋼鐵成立合資企業。
-
----
-
-### 2026-06-25 23:49:17  #央行 #國際
-
-巴西央行行長：我方已主動提供協助，向美國監管機構解讀 PIX 指標。
-
----
-
-### 2026-06-25 23:47:20  #公司 #國際
-
-【模型顯示：美國氣溫升高將帶動能源需求上升，空調製冷需求恐創歷史第二高】據大宗商品天氣集團（Commodity Weather Group LLC）稱，最新的氣象模型顯示，6月底和7月初的氣溫將高於預期，這將推高製冷需求。這家商業氣象預報機構表示，下週四美國華盛頓特區最高氣溫將達到97華氏度（36攝氏度），紐約市預計將達到95華氏度，費城週五也將達到97華氏度。此外，預計達拉斯週三將觸及100華氏度。
-
----
-
-### 2026-06-25 23:47:11  #其他
-
-【分析師：SpaceX或收購T-Mobile加速無線業務佈局】TD Cowen分析師表示，若SpaceX無法達成網路共享協議，其可能透過收購T-Mobile來加速其無線業務佈局。T-Mobile與Starlink現有的合作關係在戰略上具有契合性。該設想純屬推測，但凸顯了SpaceX對電信行業日益增長的競爭壓力。
 
 ---

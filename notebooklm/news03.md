@@ -1,7 +1,301 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-06-27 07:04:47_
-_本檔包含 3737 則快訊，約 669822 字_
+_更新時間：2026-06-27 08:04:51_
+_本檔包含 3759 則快訊，約 670383 字_
+
+---
+
+### 2026-06-24 22:29:55  #其他
+
+德國國防部長談F126護衛艦專案：正核查損害索賠，索賠成功可能性很低。
+
+---
+
+### 2026-06-24 22:28:53  #其他
+
+國際銅研究小組：2026年4月全球精煉銅市場出現14.5萬噸缺口。
+
+---
+
+### 2026-06-24 22:28:01  #市場
+
+意法半導體（SOITEC）股價下跌10%。
+
+---
+
+### 2026-06-24 22:27:43  #Trading Economics #Markets #United States #stocks #Importance 1
+
+Realty Income Stock Price Hits 21-week Low — Realty Income shares decreased to 290.50 USD, the lowest since January 2026. Over the past 4 weeks, Realty Income lost 12.64%, and in the last 12 months, it decreased 11.5%.
+
+---
+
+### 2026-06-24 22:27:32  #其他
+
+市場訊息：英國航空與波特航空宣佈達成全新程式碼共享協議。
+
+---
+
+### 2026-06-24 22:27:28  #MKT News
+
+President Trump said he canceled today’s housing press conference and bill-signing ceremony, citing the urgent need to pass the Save America Act. Both events will remain canceled until the bill is passed.
+
+---
+
+### 2026-06-24 22:27:22  #國際
+
+彭博使用者預計美國原油庫存將減少380萬桶。
+
+---
+
+### 2026-06-24 22:27:09  #國際
+
+特朗普：今日的住房新聞釋出會與簽署儀式就此取消，直至我們透過亟需的《拯救美國法案》為止。
+
+---
+
+### 2026-06-24 22:27:03  #MKT News
+
+Leftist candidate Cepeda conceded defeat in Colombia's presidential election.
+
+---
+
+### 2026-06-24 22:27:01  #其他
+
+土耳其外長將於 6 月 25 日至 26 日訪問加拿大。
+
+---
+
+### 2026-06-24 22:26:43  #國際
+
+特朗普：住房新聞釋出會和簽約儀式取消。
+
+---
+
+### 2026-06-24 22:26:36  #公司
+
+【中國貿促會副會長林紅：技術變革、市場格局與合作模式正深刻重塑健康產業】6月24日上午，第四屆鏈博會期間，健康生活主題活動在京成功舉辦。中國貿促會副會長林紅紅出席活動並致辭。國家智慧財產權局專利局醫藥生物發明審查部部長馬文霞、華大集團執行長尹燁作主題發言。林紅紅表示，人人享有健康是全人類的共同願景，技術變革、市場格局與合作模式正深刻重塑健康產業。第四屆鏈博會健康生活鏈展區集中展示了大健康領域的關鍵環節、前沿產品、核心技術與優質服務。期待各方充分利用鏈博會平臺深化交流合作，凝聚全球健康生活產業創新發展和開放合作共識，助力全球健康產業可持續發展，為推動共建人類衛生健康共同體貢獻力量。（中國貿促）
+
+---
+
+### 2026-06-24 22:26:16  #其他
+
+【今年以來廣州白雲機場口岸進出境超1000萬人次】廣州海關24日釋出，今年以來截至6月24日，廣州海關監管經廣州白雲機場口岸進出境人員突破1000萬人次，同比增幅超21%，創口岸歷史同期新高。據瞭解，今年以來，廣州白雲機場口岸新增、加密國際客貨運航線14條，其中13條航線通達共建“一帶一路”國家。目前，廣州白雲機場口岸國際及地區通航點突破100個，國際航空樞紐聯通輻射能力持續增強。“我們持續推進智慧海關建設，綜合應用先期機檢、智慧審圖等技術，保障進境旅客‘無感通關’。密切與多部門合作，實現出境通關‘一次過檢’。”廣州白雲機場海關旅檢一處旅檢四科科長陸放說。今年以來，廣州白雲機場海關累計監管口岸進出境航空器約6.2萬架次，日均進出境人員5.8萬人次，單日客流峰值達6.8萬人次。（新華社）
+
+---
+
+### 2026-06-24 22:25:30  #公司 #國際
+
+【全球40%製藥研發供應鏈在中國 全球CEO扎堆來華】2026夏季達沃斯論壇上，麥肯錫中國區主席倪以理表示，今年是他見全球CEO來華最多的一年，中國市場吸引力持續上升。他指出，目前全球約40%的製藥研發供應鏈在中國，研發人員的速度遠超其他國家。在機器人領域，中國產品正成為歐洲、拉美等地區再工業化的重要支撐。從醫藥到智慧製造，每一個產業鏈環節，中國都能帶來獨特的加速價值。（央視財經）
+
+---
+
+### 2026-06-24 22:24:43  #其他
+
+腦洞科技於2026年6月24日處置4210股美滿電子股票，套現120萬美元。
+
+---
+
+### 2026-06-24 22:24:11  #其他
+
+市場訊息：哥倫比亞左翼候選人塞佩達承認在哥倫比亞總統大選落敗。
+
+---
+
+### 2026-06-24 22:23:31  #其他
+
+德意志銀行表示，加元可能進一步走弱。
+
+---
+
+### 2026-06-24 22:22:37  #公司 #市場 #國際
+
+美國資產管理公司股價下跌。KKR下跌1.5%，黑石下跌3.1%，Blue Owl下跌2.5%，Ares Management下跌2.4%，凱雷集團下跌2.7%。
+
+---
+
+### 2026-06-24 22:20:23  #國際
+
+市場訊息：伊朗議會議長卡利巴夫在巴庫舉辦的伊斯蘭合作組織成員國議會聯盟會議間隙，會見了亞塞拜然總統伊利哈姆・阿利耶夫。
+
+---
+
+### 2026-06-24 22:20:07  #MKT News #Important #Commodities #Energy #WTI #Impact mixed #Brent
+
+U.S. EIA weekly crude oil inventories for the week to June 19 — including U.S. crude, Cushing stocks and the Strategic Petroleum Reserve — due in 10 minutes.
+
+---
+
+### 2026-06-24 22:19:35  #國際
+
+特朗普： 我真實的民調支援率創下歷史新高，感謝大家！！！
+
+---
+
+### 2026-06-24 22:19:31  #市場 #焦點
+
+比特幣跌破61000美元，日內跌2.80%。
+
+---
+
+### 2026-06-24 22:19:21  #MKT News #Market Themes #The Trump Trade
+
+U.S. President Trump said his approval rating has reached an all-time high.
+
+---
+
+### 2026-06-24 22:18:31  #其他
+
+【長城魏牌推出跨界車型高山7 SUV版】長城汽車旗下魏牌高山7 SUV版正式上市，指導價28.58萬元，限時權益價27.08萬元。該車定位於打通MPV舒適度與SUV透過性邊界的跨界車型，基於長城全球首個新能源高階MPV專屬平臺打造。
+
+---
+
+### 2026-06-24 22:18:01  #Trading Economics #Markets #United States #stocks #Importance 1
+
+P&G Stock Price Hits 14-week High — P&G shares increased to 153.07 USD, the highest since March 2026. Over the past 4 weeks, Procter & Gamble gained 6.95%, and in the last 12 months, it decreased 4.65%.
+
+---
+
+### 2026-06-24 22:17:58  #國際
+
+俄聯邦安全會議副主席梅德韋傑夫：澤連斯基的職權早已到期，這一事實意味著他不再享有任何豁免權。
+
+---
+
+### 2026-06-24 22:17:04  #其他
+
+世界衛生組織總幹事譚德塞：法國發現埃博拉病例後無需恐慌，全球感染風險較低。
+
+---
+
+### 2026-06-24 22:16:26  #公司 #國際
+
+【懷進鵬會見法國中央理工集團主席羅曼·索貝朗】6月23日，教育部部長懷進鵬在京會見法國中央理工集團主席羅曼·索貝朗一行，就中法高等教育合作交換意見。 懷進鵬介紹了中國卓越工程師培養改革與實踐情況，充分肯定中央理工集團與中方高校在人才培養、科研合作及推進國際化辦學等方面取得的積極成效，希望雙方高校順應人工智慧、綠色低碳等時代變革要求，豐富合作內涵，拓展合作領域，探索工程人才培養新機制、新模式。 索貝朗介紹了中央理工集團與中方高校的最新合作進展，讚賞中方在人才培養和科技創新等方面取得的成就，表示願進一步深化校際合作，推動更多中央理工集團所屬院校學生來華學習實踐。（教育部）
+
+---
+
+### 2026-06-24 22:15:10  #市場 #國際
+
+【油價盤中跌超4% 美油跌破每桶70美元關口】24日，國際油價盤中顯著下跌。截至北京時間24日21:40，紐約商品交易所8月交貨的輕質原油期貨價格報每桶69.97美元，跌幅為4.43%；8月交貨的倫敦布倫特原油期貨價格報每桶73.59美元，跌至2月底新一輪中東衝突爆發以來的最低水平，較前一個交易日下跌4.53%。分析認為，油價下跌與霍爾木茲海峽運輸恢復預期有關。交易員表示，市場正逐步計入伊朗原油重新進入全球市場以及海峽通航恢復正常的可能性。有分析人士指出，如果相關制裁放鬆，伊朗原油產量和出口可能在數週內恢復增長，因為大量原油已儲存在油輪中。（央視財經）
+
+---
+
+### 2026-06-24 22:14:46  #國際
+
+【魯比奧訪問阿聯酋討論伊朗局勢等】據阿聯酋《海灣時報》24日報道，阿聯酋總統穆罕默德當天與到訪的美國國務卿魯比奧舉行會談。 報道稱，雙方討論了美國與伊朗簽署的諒解備忘錄、確保霍爾木茲海峽全面安全通航的努力，以及維護地區和平與穩定的重要性。魯比奧在會談中重申美國致力於維護阿聯酋安全的承諾。 魯比奧23日抵達阿聯酋開始訪問。訪問期間，魯比奧還與阿聯酋國家安全顧問塔農·本·扎耶德·阿勒納哈揚、副總理兼外交部長阿卜杜拉等高階官員就雙邊關係及地區事務交換意見。 報道稱，阿聯酋是魯比奧此次海灣之行的首站，其後他將訪問科威特和巴林。三國均設有美軍基地。(新華社)
+
+---
+
+### 2026-06-24 22:14:33  #公司 #市場 #焦點
+
+【6月24日增減持彙總】據不完全統計，6月24日盤後，洽洽食品、供銷大集、ST海龍披露增持情況，德爾瑪、深科達、麥克奧迪、諾誠健華、思源電氣、泰晶科技、財富趨勢、方正電機8家A股上市公司披露擬減持情況。
+
+---
+
+### 2026-06-24 22:14:20  #央行 #美聯儲
+
+【貝森特稱沃什對通脹態度強硬 特朗普允許美聯儲自主決策】美國財政部長斯科特·貝森特表達了對新任美聯儲主席凱文·沃什的信心，並稱總統特朗普給予了沃什自主決策的空間。“他談論通脹問題時態度強硬，”貝森特週三在節目中說。他表示，相信沃什“將找到一條能兼顧通脹和經濟的最佳途徑”。
+
+---
+
+### 2026-06-24 22:14:02  #公司
+
+【華為申請“世界”商標引熱議】近日，華為註冊“世界”商標引發熱議。國家智慧財產權局商標局官網披露，華為技術有限公司申請的“世界”商標使用在第12類商品上的註冊申請已獲初步審定，於2026年5月13日進入初審公告階段。
+
+---
+
+### 2026-06-24 22:13:53  #Trading Economics #Markets #United States #stocks #Importance 1
+
+Parker-Hannifin Stock Price Hits 8-week High — Parker-Hannifin shares increased to 965.20 USD, the highest since April 2026. Over the past 4 weeks, Parker -Hannifin gained 11.12%, and in the last 12 months, it increased 42.84%.
+
+---
+
+### 2026-06-24 22:13:42  #其他
+
+【華為釋出5G-A大上行、Token經營等相關成果】2026 MWC 上海期間，華為與國內三大運營商釋出了5G-A大上行和體驗經營、AI煥新主營業務、Token經營等領域的相關成果。（科創板日報）
+
+---
+
+### 2026-06-24 22:13:09  #市場
+
+意法半導體（SOITEC）股票暫停交易，暫停前最新下跌8.6%。
+
+---
+
+### 2026-06-24 22:12:28  #宏觀 #央行 #國際
+
+【貝森特稱沃什對通脹態度強硬 特朗普允許美聯儲自主決策】美國財政部長斯科特·貝森特表達了對新任美聯儲主席凱文·沃什的信心，並稱總統特朗普給予了沃什自主決策的空間。“他談論通脹問題時態度強硬，”貝森特週三在CNBC節目中說。他表示，相信沃什“將找到一條能兼顧通脹和經濟的最佳途徑”。當被問及是否與特朗普討論過當前並非合適降息時機（特朗普長期以來一直呼籲降息）時，貝森特表示，特朗普“無論在公開場合還是私下裡，都表示對凱文·沃什充滿信心”。貝森特預測，在今年餘下時間裡，美國經濟將在不引發通脹的情況下加速增長。在週二晚些時候的另一次講話中，他還預測，隨著伊朗衝突的緩和，物價漲幅將會回落。沃什上週主持了他任內的首次美聯儲政策會議，儘管特朗普極力呼籲降息，但他仍與聯邦公開市場委員會的其他成員一道投票維持利率不變。由於通脹捲土重來，美聯儲決策者逐漸改變了降息傾向，許多人現在認為有理由在2026年提高借貸成本。貝森特週二在紐約經濟俱樂部發表演講後的問答環節中表示，特朗普明白“債券市場搞垮的政府比榴彈炮摧毀的政府還要多”。這番言論顯然是指通脹推高長期借貸成本所帶來的政治後果。他說：“因此，我相信他對美聯儲主席採取正確行動充滿信心。”“關於美聯儲，我聽到了加息的綠燈，”Renaissance Macro Research經濟研究主管Neil Dutta在總結貝森特週二言論的報告中寫道。
+
+---
+
+### 2026-06-24 22:11:59  #Trading Economics #Markets #United States #stocks #Importance 1
+
+Chubb Stock Price Hits 5-week High — Chubb shares increased to 333.99 USD, the highest since May 2026. Over the past 4 weeks, Chubb gained 1.92%, and in the last 12 months, it increased 17.28%.
+
+---
+
+### 2026-06-24 22:11:44  #MKT News #S&P500 #Impact bullish #DXY #Impact bearish #WTI #Impact mixed
+
+US removes sanctions on some individuals linked to Russian banks.
+
+---
+
+### 2026-06-24 22:11:39  #MKT News
+
+White House press secretary Leavitt said President Trump will host a dinner for farmers at the White House on Thursday.
+
+---
+
+### 2026-06-24 22:11:16  #國際
+
+市場訊息：美國解除對部分關聯俄羅斯銀行人員的制裁。
+
+---
+
+### 2026-06-24 22:10:34  #國際
+
+特朗普將於週四在白宮晚宴上款待農民。
+
+---
+
+### 2026-06-24 22:09:32  #MKT News #Macro & Rates #Treasury Yields #US10Y #Impact mixed #S&P500 #Impact bullish
+
+U.S. 30-year Treasury yield fell to 4.8572%, the lowest level since April 15.
+
+---
+
+### 2026-06-24 22:08:47  #Trading Economics #Markets #United States #stocks #Importance 1
+
+Nvidia Stock Price Hits 7-week Low — Nvidia shares decreased to 199.32 USD, the lowest since May 2026. Over the past 4 weeks, Nvidia Corporation lost 7.09%, and in the last 12 months, it increased 29.36%.
+
+---
+
+### 2026-06-24 22:08:21  #國際
+
+美國 30 年期美債收益率跌至 4.8572%，創 4 月 15 日以來新低。
+
+---
+
+### 2026-06-24 22:07:55  #國際
+
+美國郵政署告知國會，根據一項提案，該機構將不為不披露選民登記名單的各州遞送選票。
+
+---
+
+### 2026-06-24 22:07:54  #MKT News
+
+Market sources say the US will remove some individuals from a Russia-related sanctions list.
+
+---
+
+### 2026-06-24 22:07:30  #國際
+
+市場訊息：美國將部分個人從與俄羅斯相關的制裁名單中移除。
+
+---
+
+### 2026-06-24 22:07:01  #Trading Economics #Economy #United States #New Home Sales #Importance 3
+
+US New Home Sales Fall for 2nd Month — Sales of new single-family homes in the US tumbled 7.3% month-over-month to a seasonally adjusted annualized rate of 580 thousand in May 2026, the lowest in four months, following an upwardly revised 626 thousand in April and well below forecasts of 640 thousand. New home sales fell for a second straight month, mainly due to a 26.9% plunge in the West (to 117 thousand) and a 4.1% fall in the South (to 350 thousand). In contrast, sales rose 3% in the Northeast (to 34 thousand) and soared 16.2% in the Midwest (to 79 thousand).
 
 ---
 
@@ -22390,177 +22684,5 @@ Hungary cuts benchmark interest rate by 25bp to 6.00%.
 ### 2026-06-23 19:57:47  #Trading Economics #Markets #Switzerland #Currency #Importance 1
 
 Swiss Franc Near 7-Month Low — The Swiss franc weakened to near 0.81 per US dollar, falling near its weakest level since November 2025 amid a stronger U.S. dollar and lower oil prices. The Swiss National Bank kept its policy rate unchanged at 0% for a fourth consecutive meeting, maintaining that the current stance remains consistent with price stability and economic growth. However, the SNB revised its inflation outlook higher and reiterated its willingness to intervene in foreign exchange markets if needed. Meanwhile, the Federal Reserve's hawkish tone at its latest meeting bolstered the U.S. dollar. Adding to the pressure, oil prices fell amid signs of easing geopolitical tensions and after Iran was granted a 60-day license to sell oil on international markets, improving risk sentiment.
-
----
-
-### 2026-06-23 19:57:43  #其他
-
-SPACEX 基準債券發行分五部分進行。
-
----
-
-### 2026-06-23 19:56:02  #公司 #市場 #觀點
-
-【摩根大通：IBM的軟體業務推進料將繼續推動增長】摩根大通在一份研究報告中表示，IBM在過去十年的大部分時間裡，一直在將自己從一家硬體和服務公司重新定位為以混合雲和AI為核心、以軟體為主導的平臺。摩根大通的分析師表示，軟體現在是該股的主要驅動力，約佔總收入的45%，但約佔合併利潤的三分之二。摩根大通的分析師表示：“考慮到軟體具有更高利潤率、可按比例確認收入的特性，以及更好的現金轉化率和更高質量的盈利流，能夠支撐比硬體和服務業務更高的估值倍數，我們將繼續向軟體領域的轉型視為積極因素。”摩根大通將IBM的評級從中性上調至增持，並將其目標價從270美元上調至291美元，理由是對軟體業務未來繼續加速增長充滿信心。IBM盤前上漲5%。
-
----
-
-### 2026-06-23 19:55:32  #公司
-
-【ST海王：部分董事及高管擬增持公司股份不低於310萬元】ST海王公告，公司董事局主席兼總裁張鋒、董事車漢澍、董事局副主席兼常務副總裁張翼飛、董事兼副總裁金銳、副總裁張曉鵬、副總裁金戈、副總裁史曉明、財務總監李爽等8名董事及高管，擬自增持計劃公告披露之日起6個月內，透過深圳證券交易所允許的方式（包括但不限於集中競價、大宗交易）增持公司股份，合計增持總金額不低於人民幣310萬元。其中張鋒擬增持不低於100萬元，張翼飛不低於65萬元，其餘每人不低於20萬至25萬元。本次增持不設定價格區間，將根據市場情況擇機實施。
-
----
-
-### 2026-06-23 19:55:13  #公司
-
-【華策影視：《西遊記》系列首作《消失的500年》定位AIGC精品中劇，已全面進入製作階段】6月23日，據華策影視訊息，華策日前釋出精品微短劇《西遊記》《資治通鑑》等一批重大IP專案。華策影視集團製片人胡奮揭曉國民神話動畫短劇集《西遊記》，系列首作《消失的500年》定位AIGC精品中劇，共6集、每集15分鐘，聚焦孫悟空被壓在五指山下的五百年，目前已全面進入製作階段。
-
----
-
-### 2026-06-23 19:54:17  #MKT News #GBPUSD #Impact bearish #FTSE100
-
-【Analyst: Burnham may become next UK prime minister; markets seeking policy signal】Rupert Thompson, chief economist at Iboss, said that after Starmer resigned this week UK investors are urgently seeking clarity on the incoming leader’s economic policy. Andy Burnham won the Makerfield by-election and was sworn in as an MP on Monday and is widely expected to become the next prime minister. Thompson said the UK economy and markets face a period of uncertainty, with investors concerned about the prospect of further tax increases.
-
----
-
-### 2026-06-23 19:54:14  #MKT News #Market Regions #Europe & UK #XAUUSD #Impact bullish #DXY
-
-RIA reported that Russia's deputy foreign minister said the US is increasingly aligning with its European allies' anti-Russia policies.
-
----
-
-### 2026-06-23 19:54:00  #公司 #觀點
-
-【券商下調多隻龍頭股盈利預測，格力電器、北方華創在列】滬指重返4100點之際，部分個股卻遭券商下調盈利預測，其中不乏一些大市值龍頭股。 據光大證券最新披露，該機構預測格力電器（000651.SZ）2026年歸母淨利潤290億元，較前次預測值下調了4%。長江證券近期也進行了下調，預計格力電器2026年歸母淨利潤為291.04億元，較前期預測值下降3.5%。 另據第一財經梳理，近期，北方華創（002371.SZ）、諾思蘭德（920047.BJ）等公司也被券商下調盈利預測。其中，中郵證券將北方華創2026年歸母淨利潤最新預測值下調至‌59.18億元‌，較前次預測縮減近三成。 從時間視窗來看，券商調整盈利預測多發生在定期報告披露後，即根據A股公司最新年報和一季報表現相應調整預測。記者同時關注到，部分券商雖調降了對個股的盈利預測，但仍維持“買入”“增持”評級。 不過也有一些公司獲券商“力挺”，認為其2026年將借重組實現扭虧為盈。（第一財經）
-
----
-
-### 2026-06-23 19:53:48  #國際
-
-【蒙印外長就向印度出口焦煤等事宜交換意見】蒙古國外長巴·巴特策策格與印度外長蘇傑生博士在蒙古國外交部舉行正式會談，就雙邊關係與合作、地區及國際事務中雙方共同關心的問題交換了意見。兩國外長圍繞擴大雙邊貿易與投資、最佳化貿易結構、充分發揮兩國資源互補優勢、增加蒙古國對印度焦煤及其他礦產品出口，以及深化農牧業原料供給、加工製造、技術交流、人才培養等議題展開磋商。
-
----
-
-### 2026-06-23 19:53:25  #國際
-
-俄羅斯副外長：美國正逐漸轉向其歐洲盟友的對俄反制政策。
-
----
-
-### 2026-06-23 19:52:57  #MKT News #XAUUSD #Impact bullish #DXY #WTI
-
-RIA reported the Russian deputy foreign minister said Russia believes the US is departing from agreements reached by the two presidents at last year’s Alaska summit.
-
----
-
-### 2026-06-23 19:52:35  #宏觀 #兩會
-
-【我國擬修法完善招標投標領域監管措施防治腐敗】招標投標法修訂草案6月23日提請十四屆全國人大常委會第二十三次會議初次審議。修訂草案共6章79條，從制度層面健全招標投標管理長效機制，完善招標投標領域監管措施，防治腐敗。記者瞭解到，現行招標投標法自2000年施行以來，在規範招標投標活動、保證專案質量等方面發揮了重要作用。隨著經濟社會發展，招標投標領域面臨一系列突出問題。近年來，有關方面圍繞招標投標市場規範健康發展出臺系列政策舉措，取得一定工作成效。為鞏固行之有效的經驗做法，並從制度層面健全招標投標管理長效機制，有必要對現行法作針對性修改完善。（新華社）
-
----
-
-### 2026-06-23 19:52:24  #觀點
-
-摩根士丹利將戴爾目標股價從448.00美元上調至477.00美元。
-
----
-
-### 2026-06-23 19:52:16  #觀點
-
-摩根士丹利將IBM目標股價從225.00美元上調至267.00美元。
-
----
-
-### 2026-06-23 19:52:12  #MKT News #EURUSD #Impact mixed #DXY #DAX
-
-Market sources say Italian Prime Minister Meloni is considering holding a general election as early as April.
-
----
-
-### 2026-06-23 19:52:04  #其他
-
-梅洛尼正考慮最早於 4 月舉行義大利大選。
-
----
-
-### 2026-06-23 19:51:57  #國際
-
-俄羅斯副外長表態：俄羅斯認為，美國正背離兩國總統去年阿拉斯加峰會達成的共識。
-
----
-
-### 2026-06-23 19:51:36  #公司
-
-【隆基綠能在德國發布戶用價值白皮書及AI數字化平臺】Intersolar Europe 2026期間，隆基綠能與OSW集團在德國慕尼黑聯合釋出《德國屋頂價值評估白皮書》（Rooftop Valuation Report），系統評估德國戶用光伏的經濟潛力，並提出基於數字化工具的價值轉化路徑。為推動白皮書成果從“理論評估”向“實際資產”轉化，隆基綠能與OSW集團同步釋出AI數字化平臺GreenSketch，並推出核心數字員工——AI Agent Emily，標誌著雙方在AI渠道賦能方面實現重要突破。
-
----
-
-### 2026-06-23 19:51:36  #Trading Economics #Markets #Euro Area #currency #Importance 1
-
-Euro Hits 12-month Low — EURUSD decreased to 1.14, the lowest since June 2025. Over the past 4 weeks, Euro US Dollar lost 2.15%, and in the last 12 months, it decreased 1.89%.
-
----
-
-### 2026-06-23 19:51:02  #市場
-
-【國聯安科創LOF(501096)6月24日開盤起至當日10:30停牌】國聯安科創LOF(501096)二級市場交易價格明顯高於基金份額淨值，出現較大幅度溢價。特此提示投資者關注二級市場交易價格溢價風險，投資者如果盲目投資，可能遭受重大損失。為維護投資者利益，基金將於2026年6月24日開盤起至當日10:30停牌。
-
----
-
-### 2026-06-23 19:49:08  #央行 #國際
-
-印度央行：允許銀行向境外外幣賬戶（FCNR(B)）持有人發放貸款，並對該存款設立留置權。
-
----
-
-### 2026-06-23 19:48:38  #其他
-
-【貴州多地遭遇強降雨 已緊急轉移群眾9100餘人】6月22日6時至23日6時，貴州全省21個縣（市、區）149個觀測站出現大暴雨。截至目前，貴州多地已緊急轉移群眾9100餘人。在黔東南州，6月22日14時起，全州出現區域性強降雨過程，臺江縣南宮鎮集鎮過水深度約1米、長度約600米，當地迅速組織群眾轉移。臺江縣消防救援大隊救援人員分組涉水搜救，重點轉移被困老人、疏散受災群眾。（新華社）
-
----
-
-### 2026-06-23 19:48:19  #市場
-
-【財通福鑫定開混合(501046)二級市場出現極大幅度溢價 6月24日開盤起至當日10:30停牌】財通福鑫定開混合(501046)二級市場交易價格嚴重高於基金份額淨值，出現極大幅度溢價。特此提示投資者關注二級市場交易價格溢價風險，投資者如果盲目投資，可能遭受重大損失。為維護投資者利益，基金將於2026年6月24日開盤起至當日10:30停牌。
-
----
-
-### 2026-06-23 19:48:15  #MKT News #AMC.N #Impact bearish
-
-AMC (AMC.N) shares tumbled more than 18% in premarket trading after the company reached an agreement to sell shares.
-
----
-
-### 2026-06-23 19:48:07  #MKT News
-
-【BRICS senior-level security meeting held in New Delhi】Chinese Politburo member and director of the Central Foreign Affairs Office Wang Yi attended a BRICS senior-level security representatives meeting in New Delhi. India's National Security Adviser Ajit Doval chaired the session. Delegates exchanged views on non-traditional security threats, counterterrorism and cybersecurity.
-
----
-
-### 2026-06-23 19:48:02  #宏觀 #國際
-
-【金磚國家安全事務高階代表會議在新德里舉行】6月23日，中共中央政治局委員、中央外辦主任王毅在新德里出席金磚國家安全事務高階代表會議。印度國家安全顧問多瓦爾主持會議。金磚國家安全事務高階別代表及負責人等參會，圍繞應對非傳統安全挑戰、反恐和網路安全等議題深入交換意見。
-
-王毅表示，金磚國家合作已走過20個春秋，日益成為世界上護和平、促發展、守正義的中堅力量。面對當前國際格局發生的複雜深刻變化，中方願同金磚國家一道，共同應對人類社會面臨的緊迫挑戰，共同堅守世界歷史演進的正確方向。
-
-一是以金磚擔當捍衛國際秩序。要高舉多邊主義旗幟，堅定捍衛聯合國憲章宗旨和原則，旗幟鮮明反對單邊主義、保護主義。作為全球南方第一方陣，金磚國家要帶頭說公道話、辦公道事，提高在國際事務中的地位和作用。
-
-二是以金磚共識破解安全困局。要倡導共同、綜合、合作、可持續的安全觀，堅定推動熱點問題的政治解決，積極探討對話協商解決爭端的有效方式。
-
-三是以金磚行動應對全球性挑戰。要堅決打擊一切形式恐怖主義，旗幟鮮明反對外空軍事化，有力應對全球能源和糧食安全挑戰，加強戰略性礦產資源合作，團結應對非洲埃博拉疫情。
-
-四是以金磚智慧完善新興領域治理。要密切防範人工智慧風險，規範人工智慧發展方向，支援以聯合國為主渠道推進全球網路空間和數字治理。（新華社）
-
----
-
-### 2026-06-23 19:47:11  #公司 #市場
-
-AMC娛樂公司股價盤前下跌18%。
-
----
-
-### 2026-06-23 19:47:11  #MKT News
-
-【Reeves says defence investment plan to be published before July NATO summit】UK finance minister Reeves told the House of Commons she will publish the long-delayed defence investment plan before the NATO summit in Turkey on July 7-8. Reeves said she met Monday with new Defence Secretary Jarvis and Chief of the Defence Staff Richard Naiton to discuss a plan that will inject additional funding into the armed forces and rejected claims it fails to deliver sufficient spending growth. The plan, originally scheduled for autumn, was delayed and drew criticism after the former defence secretary resigned earlier this month, saying the Treasury was unwilling to commit the resources needed amid rising threats.
 
 ---
