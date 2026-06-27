@@ -1,7 +1,79 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-06-28 01:32:47_
-_本檔包含 3515 則快訊，約 671237 字_
+_更新時間：2026-06-28 02:03:08_
+_本檔包含 3513 則快訊，約 671291 字_
+
+---
+
+### 2026-06-23 23:31:33  #國際
+
+歐盟計劃在 2026 年下半年發行至多 800 億歐元歐盟債券。
+
+---
+
+### 2026-06-23 23:31:07  #其他
+
+德國DAX 30指數初步收跌0.64%，報24977.34點。法國股指初步收跌0.30%，義大利股指初步收跌1.18%、銀行指數跌1.03%，英國股指初步收漲0.23%。
+
+---
+
+### 2026-06-23 23:31:03  #國際
+
+歐洲STOXX 600指數初步收跌0.51%，報636.01點。歐元區STOXX 50指數初步收跌0.98%，報6249.35點。富時泛歐績優300指數初步收跌0.52%，報2545.57點。
+
+---
+
+### 2026-06-23 23:29:49  #MKT News #Macro & Rates #GBPUSD #Impact bullish #DXY #Impact bearish
+
+Bank of England policymaker Taylor said the Bank's structural bias toward asset sales under quantitative tightening (QT), as in 2025, will remain a consideration in policy decisions this year.
+
+---
+
+### 2026-06-23 23:29:12  #國際
+
+市場訊息：美國上訴法院暫時批准特朗普提出的快速驅逐移民新規。
+
+---
+
+### 2026-06-23 23:28:23  #央行 #其他
+
+英國央行委員泰勒：英國央行量化緊縮出售資產的傾斜策略仍將納入今年政策決議考量，2025 年亦是如此。
+
+---
+
+### 2026-06-23 23:27:47  #公司 #市場 #國際
+
+【Evercore策略師：科技股會擺脫拋售潮 亮眼盈利將成救兵】Evercore ISI的Julian Emanuel表示，在經歷了近幾周的拋售潮後，超大盤科技股將重新獲得投資者青睞。拋售潮拖累該板塊一些最大的公司近來股價下跌超過10%。“你會看到不錯的盈利，”Evercore首席股票和量化策略師Emanuel表示。他週二表示，盈利在4月和5月推動了“一波強勁上漲”，如今將再次成為“檢驗真理的唯一標準”。晶片股引領韓國股市暴跌，SK海力士和三星電子均下跌超過12%，投資者擔憂此前的漲勢過度。受此影響，美國科技股週二開盤承壓。納斯達克100指數週一已然走低，幾乎抹去了6月以來的漲幅。該指數在4月和5月分別上漲10%和16%。
+
+---
+
+### 2026-06-23 23:27:04  #MKT News #Commodities #Energy
+
+The CEO of Brazil's oil company said cooperation with Mexico's Pemex is not limited to Mexico and could extend to commercial opportunities in Africa and Brazil.
+
+---
+
+### 2026-06-23 23:26:42  #公司
+
+巴西石油公司執行長表示，與墨西哥國家石油公司的合作並不侷限於墨西哥，兩家企業可共同把握非洲與巴西的相關發展機遇。
+
+---
+
+### 2026-06-23 23:22:56  #MKT News #S&P500 #Impact bullish #XAUUSD #Impact bearish #DXY
+
+【Putin says Russia willing to negotiate with Ukraine based on Istanbul accord and related frameworks】On the 23rd at a government meeting, Putin said Russia is willing to hold peace talks with Ukraine based on the 2022 Istanbul accord, principles set out in a 2024 foreign ministry speech, the model discussed at the 2025 Anchorage meeting, and on-ground realities. He said peace talks were proactively broken off by Ukraine and that Kyiv’s recent strikes on Russia appear aimed at creating conditions favorable to resuming the interrupted negotiations.
+
+---
+
+### 2026-06-23 23:22:27  #MKT News #Commodities #Energy #Brent #Impact mixed
+
+TotalEnergies CEO said the company must invest in oil pipelines to bypass the Strait of Hormuz, citing routes via Abu Dhabi and Syria, and that this crisis showed TotalEnergies is the oil supermajor most affected by the Middle East.
+
+---
+
+### 2026-06-23 23:22:24  #國際
+
+【普京：俄方願基於伊斯坦布林協議等與烏談判】當地時間23日，俄羅斯總統普京在政府工作會議上表示，俄方願意在2022年春季伊斯坦布林達成的協議、2024年在外交部講話中闡述的原則、2025年安克雷奇會晤討論的模式以及地面現實的基礎上，與烏克蘭進行和平談判。他稱，和平談判是由烏克蘭方面主動中斷的。當前基輔透過對俄發動打擊，試圖為恢復中斷的談判創造有利條件。（央視新聞）
 
 ---
 
@@ -21140,89 +21212,5 @@ Former UK health minister Si Te Li Ting said he did not offer me any job.
 ### 2026-06-22 21:25:18  #公司 #國際
 
 【上海市長會見美國萬寶盛華集團董事會主席兼CEO普里辛】上海市市長龔正今天（6月22日）會見了美國萬寶盛華集團董事會主席兼執行長約納斯·普里辛一行。龔正說，當前，上海正在按照中央政府的部署，加快建設“五個中心”，著力推動高質量發展。人力資源是現代化產業體系的重要組成部分，我們堅持人才是第一資源，加快建設高水平人才高地，持續完善全球引才網路體系，努力聚天下英才而用之，讓全球人才近悅遠來。歡迎萬寶盛華等世界知名企業發揮所長、積極參與，將更多先進服務理念引入上海，依託全球業務網路和渠道資源，助力上海更好發揮開放引才優勢，創新探索人才合作交流方式，大力引進更多頂尖人才和各類專業人才。同時，歡迎萬寶盛華為上海最佳化營商環境建言獻策，圍繞人才培育和引進等方面多提寶貴建議，幫助上海持續最佳化為企服務水平，助力各類企業實現更大發展。普里辛說，此次來訪距離我首次來滬已經36年，我親眼見證上海將一個個雄心壯志變為現實，在國際舞臺上大放異彩。萬寶盛華在全球80多個國家和地區開展業務，視中國為戰略市場，長期投資中國，並獲得了豐厚回報。萬寶盛華將運用全球資源和資訊網路，助力全球優秀人才探尋上海機遇，也幫助中國企業走向全球，併為上海“五個中心”建設及文化、商業和體育等領域發展貢獻力量。萬寶盛華集團是全球最大的人力資源服務企業之一，2003年起累計在滬設立了7家獨資企業。 (上觀新聞)
-
----
-
-### 2026-06-22 21:25:15  #MKT News
-
-A former UK health secretary said Burnham did not promise him the Chancellor of the Exchequer role.
-
----
-
-### 2026-06-22 21:25:12  #其他
-
-英國前衛生部長斯特里廷：伯納姆並未向我（承諾）提供財政大臣一職。
-
----
-
-### 2026-06-22 21:24:40  #其他
-
-卡達能源部長：該事件不會對出口或本地需求供應造成任何影響。
-
----
-
-### 2026-06-22 21:24:22  #國際
-
-【巴基斯坦總理：美伊就達成最終協議路線圖取得一致】巴基斯坦總理夏巴茲22日在社交媒體發文表示，美國與伊朗在瑞士比爾根山舉行的高階別談判已結束，各方在積極氛圍中取得突破進展，就美伊60天內達成最終協議的路線圖取得一致。 夏巴茲表示，各方還同意設立一個高階別委員會，負責監督談判程序，同時啟動技術性會談。夏巴茲對美伊兩國高層的建設性接觸表示讚賞，並對卡達、瑞士等國的支援表示感謝。他表示，巴方將繼續為推動地區和平發揮建設性作用。巴基斯坦副總理兼外長達爾當日在社交媒體發文表示，巴外交部團隊將在本週剩餘時間繼續留駐瑞士，同有關各方就後續技術性會談保持密切溝通。（新華社）
-
----
-
-### 2026-06-22 21:24:05  #其他
-
-【卡達工廠爆炸事件已致13人死亡】當地時間6月22日，卡達能源大臣稱有13人在萊凡角工業城一家工廠爆炸中死亡，另有66人受傷。這次事件是一起意外事故，而非侵略或破壞行為。卡達能源大臣表示，卡達方面已經開始對事故產生的具體原因展開調查，爆炸沒有對周邊環境造成危害，也不會影響卡達的能源出口能力。（央視新聞）
-
----
-
-### 2026-06-22 21:21:58  #公司
-
-【明陽集團與粵港澳大灣區國家技術創新中心簽署戰略合作框架協議】6月22日，明陽集團與粵港澳大灣區國家技術創新中心簽署戰略合作框架協議。根據合作協議，雙方將共同探索人工智慧與新能源產業融合發展創新路徑，推動海上風電向智慧化、數字化方向升級。
-
----
-
-### 2026-06-22 21:21:49  #MKT News
-
-Qatar's energy minister said assessing damage to the affected plants will take some time.
-
----
-
-### 2026-06-22 21:21:45  #MKT News #Commodities #Energy
-
-Qatar's energy minister said the country has sufficient natural gas to meet domestic consumption and can cover demand while maintenance is carried out.
-
----
-
-### 2026-06-22 21:21:42  #其他
-
-卡達能源部長：評估受影響工廠的受損情況需要一定時間。
-
----
-
-### 2026-06-22 21:21:24  #其他
-
-卡達表示將繼續推進未來的液化天然氣出口計劃。
-
----
-
-### 2026-06-22 21:21:14  #其他
-
-卡達能源部長：我國國內天然氣儲量充足，在完成天然氣設施維修前，可完全覆蓋國內用氣需求。
-
----
-
-### 2026-06-22 21:21:08  #MKT News
-
-Qatar's energy minister said it is currently difficult to determine when operations at the affected plants will resume.
-
----
-
-### 2026-06-22 21:20:50  #其他
-
-卡達能源部長：目前尚無法確定受影響工廠的復工時間。
-
----
-
-### 2026-06-22 21:19:50  #MKT News #CSI300 #Impact bullish #Hang Seng Index
-
-【China approves first central SOE commercial REIT】June 22 — Huaxia Poly Development Closed‑end Commercial Real Estate Investment Fund (Huaxia Poly Commercial REIT) received CSRC registration approval and a no‑objection letter from the Shanghai Stock Exchange. It is the first commercial REIT sponsored by a central state‑owned enterprise and marks a securitization milestone for Poly Development Holdings. Regulators say the REIT provides a tradable commercial real estate investment option, establishes a benchmark for asset recycling, and offers a replicable path for developers to unlock stock assets and pursue asset‑light transformation, supporting the development of China’s commercial real estate market and the public REITs industry.
 
 ---

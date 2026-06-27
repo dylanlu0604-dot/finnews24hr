@@ -1,7 +1,85 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-06-28 01:32:47_
-_本檔包含 3477 則快訊，約 671336 字_
+_更新時間：2026-06-28 02:03:08_
+_本檔包含 3480 則快訊，約 670970 字_
+
+---
+
+### 2026-06-28 02:02:08  #國際
+
+卡達外交部：首相強調，必須保障霍爾木茲海峽的航行自由，堅持透過對話與外交途徑解決問題。
+
+---
+
+### 2026-06-28 01:58:29  #MKT News
+
+Israeli Prime Minister Netanyahu said Israel is breaking Iran’s diplomatic axis and has reached a framework agreement that would allow it to end the conflict with Lebanon.
+
+---
+
+### 2026-06-28 01:58:28  #國際
+
+內塔尼亞胡談及黎巴嫩局勢：我們正在瓦解伊朗的外交軸心。我們之所以能達成這份諒解框架，原因很簡單，我方對真主黨實施了強力打擊。原本指望伊朗支援的真主黨，最終並未得到援助。
+
+---
+
+### 2026-06-28 01:57:20  #MKT News #Star Stocks #Amazon #Market Themes #Magnificent 7 #AMZN.O #Impact bullish
+
+【Amazon Prime Day online sales slightly above expectations】Amazon’s four-day Prime Day ended Friday. Adobe estimates US online spending across all retailers during Prime Day promotions at $26.4 bln, slightly above its $26.3 bln projection and up 9.3% YoY from last July’s Prime Day. Discounts were similar to last year, with electronics and apparel deepest, average markdown about 24%. Consumer-research firm Numerator says average Amazon household spend over the four days through Friday 4pm local time was $143, down 8.3% YoY.
+
+---
+
+### 2026-06-28 01:57:19  #國際
+
+以色列總理內塔尼亞胡：我們已瓦解伊朗軸心勢力。
+
+---
+
+### 2026-06-28 01:55:08  #國際
+
+美國財長貝森特：伊朗人十分擅長輿論宣傳。伊朗談判代表均由本國政府指派，他們的表態意在迎合德黑蘭國內的強硬派群體。和我們體系記憶體在強硬勢力一樣，伊朗國內也有持強硬立場的人士。
+
+---
+
+### 2026-06-28 01:49:47  #國際
+
+以色列廣播管理局援引訊息人士說法：以黎雙方達成的協議包含一份保密安全附件，其中條款尚未對外披露。
+
+---
+
+### 2026-06-28 01:49:36  #國際
+
+義大利總理梅洛尼談及歐盟：顯而易見，僅充當大型貿易平臺或監管平臺已然遠遠不夠。我們需要實現戰略自主、夯實工業產能、掌握技術主權，並擁有金融實力。歐洲必須做好準備，充分運用自身地緣政治與地緣經濟影響力。
+
+---
+
+### 2026-06-28 01:46:56  #其他
+
+黎巴嫩軍方指揮部呼籲民眾在抗議活動期間保持理性剋制、文明行事。
+
+---
+
+### 2026-06-28 01:35:37  #MKT News
+
+【Vucic says he will resign in several weeks】Serbia President Aleksandar Vucic told a large rally in central Belgrade on June 27 he will remain in office for several weeks and then resign. He said he will work to secure voter support for the ruling Progressive Party and for party chairman Vucevic in the forthcoming election. Vucic has previously said he plans to step down and that a presidential vote will be held within three to four months.
+
+---
+
+### 2026-06-28 01:33:46  #其他
+
+【武契奇稱將在數週後辭職】當地時間6月27日，塞爾維亞執政黨前進黨在首都貝爾格萊德市中心舉行大型集會。塞爾維亞總統武契奇在現場發表演講時表示，他將繼續擔任總統一職數週，然後辭職。武契奇同時表示，他將為前進黨及前進黨主席武切維奇在即將到來的選舉中贏得民眾信任作出貢獻。#武契奇將辭職# 武契奇日前接受採訪時曾表示，他計劃辭去總統一職，總統選舉將在未來3至4個月進行。 武契奇2017年4月當選總統，2022年5月連任。（CCTV國際時訊）
+
+---
+
+### 2026-06-28 01:33:18  #國際
+
+特朗普在社交媒體釋出他與奧巴馬各自的青年時期照片。
+
+---
+
+### 2026-06-28 01:32:44  #國際
+
+以色列正在調整其在黎巴嫩南部設立的“安全區”部署，計劃撤出納巴提耶地區的兩處據點，即西部祖特爾與弗龍。
 
 ---
 
@@ -20938,65 +21016,5 @@ Japan's Nikkei 225 opened down 668.60 points, or 0.92%, at 71,697.74 on Friday, 
 ### 2026-06-26 08:00:08  #公司
 
 【索尼互動娛樂將削減Bungie工作室員工人數】當地時間6月25日，索尼互動娛樂執行長Hermen Hulst在公司網站上釋出的一封電子郵件中表示，在對遊戲開發工作室Bungie的長期方向和發展重點進行評估後，公司決定對該工作室裁減大量崗位。  此次裁員將涉及Bungie《命運》團隊的大多數成員，以及《失落星船：馬拉松》團隊的部分成員。此外，支援Bungie運營的索尼互動娛樂團隊也有縮減。
-
----
-
-### 2026-06-26 07:59:21  #其他
-
-【僅需70分鐘 雲南彌勒至玉溪高速公路今日通車】今天，雲南省連線紅河哈尼族彝族自治州和玉溪市的彌勒至玉溪高速公路全線通車運營，兩地通行時長由原來的2小時縮短至1小時10分鐘，惠及沿線近200萬名群眾。彌玉高速公路主線全長117.998公里，採用雙向六車道標準建設，全線建有橋樑102座、隧道13座。
-
----
-
-### 2026-06-26 07:58:24  #市場 #國際
-
-【原油期貨因可能的技術性回撥而下跌】繼隔夜期貨強勁上漲之後，原油期貨因可能的技術性回撥而下跌。然而，由於對油輪透過霍爾木茲海峽的擔憂，期貨的跌幅可能受到限制。據兩名美國高階官員稱，伊朗伊斯蘭革命衛隊週四在該海峽襲擊了一艘懸掛新加坡國旗的貨船。澳新銀行研究部的分析師在一份研究報告中說：“與此同時，幾艘商船在試圖透過該海峽時掉頭，這引發了人們對關鍵水道重新開放後出現的石油供應持續恢復的新疑慮。“近月西得州中質油期貨下跌0.6%，報每桶71.52美元。
-
----
-
-### 2026-06-26 07:56:36  #公司
-
-【智元旗下靈巧手估值10億美元！成立僅5個月 首季實現盈利】記者從智元系靈巧手企業臨界點處瞭解獲悉，該公司近期完成近10億融資，躋身估值10億美元獨角獸行列。從智元機器人拆分而出的靈巧手研發商臨界點，是具身智慧賽道成長速度最快的企業之一，它獨立發展至估值10億美元，僅耗時五個月。這短短五個月內，該公司已密集完成四輪融資，百度、藍馳創投、高瓴創投等多家頭部資本也都紛紛投資入局。（南都）
-
----
-
-### 2026-06-26 07:56:15  #市場 #焦點
-
-紐約期金失守4030美元/盎司，日內跌0.44%。
-
----
-
-### 2026-06-26 07:56:02  #公司 #國際
-
-領益智造透過發行股票籌集了83億港元資金，並將於週五登陸港交所。同日還有另外五家公司上市，包括晶片製造商聖邦股份、晶片製造裝置廠商芯碁微裝以及印尼礦商PT Merdeka Gold Resources。
-
----
-
-### 2026-06-26 07:53:54  #公司 #觀點
-
-【國金證券：美光科技推進長協落地 供需缺口有望持續】國金證券研報認為，美光科技推進長協落地，供需缺口有望持續。美光科技已經與客戶完成16個SCA（戰略客戶合作協議），下游涵蓋資料中心、消費電子、汽車市場。SCA中汽車客戶簽訂時間為三年，其他客戶基本為五年。16個SCA協議已經佔到美光科技20%的DRAM出貨量，1/3的NAND出貨量。美光科技簽訂的SCA的價格區間中下限也可以帶來超過過去週期頂點的盈利能力。美光科技預計2027年DRAM與NAND供應將持續緊張。國金證券認為儲存行業供給有望持續緊張，美光科技有望持續維持高盈利能力。美光科技與下游客戶推進長協簽訂，有望降低公司產品出貨價的週期性波動，降低公司業績週期性。
-
----
-
-### 2026-06-26 07:53:41  #公司 #市場
-
-【蘋果供應商領益智造完成83億港元股票發行交易 今日將登陸港交所】在香港今年上市交易數量最高的一個月中，中國電子裝置製造商領益智造透過發行股票籌集了83億港元（10.6億美元）資金，並將於週五登陸當地交易所。這家此前已在深圳上市的蘋果供應商，將本次發行價格定在每股10.18港元，即推介區間頂部，並吸引了包括廣發基金、Qube Research & Technologies和惠理集團等基石投資者。該股週四在暗盤市場一度上漲22%。其發行價較該公司A股週四的收盤價折讓了51%。這是香港今年4月以來的最大上市交易，當地本月新股發行規模將超過50億美元。6月有超過20家公司上市，趕在它們必須更新業績報告之前。由於一大波科技企業湧入，今年香港IPO市場異常火爆。研究預計，香港今年的股票上市交易融資額將超過430億美元，創下六年新高。
-
----
-
-### 2026-06-26 07:52:47  #公司 #國際
-
-【野村控股與Circle達成數字金融戰略合作】野村控股26日宣佈，與美國穩定幣發行公司Circle Internet Group在全球市場範圍內開展數字金融領域戰略合作。雙方將探索多領域合作，包括將穩定幣應用於鏈上金融及資本市場交易。
-
----
-
-### 2026-06-26 07:49:13  #公司
-
-【行業景氣度提升、國產替代加速推進，半導體矽片企業迎發展良機】6月以來，半導體矽片賽道不僅受資本市場熱捧，產業層面同樣動作連連。近日，滬矽產業公告擬攜手國盛集團共同對子公司上海新昇增資114.48億元，用於300mm矽片產能升級；6月14日，上海合晶設立SOI（絕緣體上矽）合資公司，切入高附加值賽道……價格方面，全球矽片巨頭今年以來已開啟兩輪調價；結合近期國內矽片企業披露的調研紀要，雖然國內尚未全面進入漲價週期，但管理層普遍判斷矽片價格已呈現企穩跡象，後續隨著需求端的改善，價格預計存在修復預期。
-
----
-
-### 2026-06-26 07:48:47  #MKT News #Market Themes #The Trump Trade
-
-【Trump says US will use unfrozen Iranian assets to buy US farm commodities】On June 25 at a White House event with US farmers, President Trump said the US will soon use unfrozen Iranian assets to purchase large quantities of US wheat, soybeans and corn, saying Iran currently faces food-supply difficulties and the program will begin shortly and be large in scale. US officials have repeatedly said Iran would use thawed funds to buy US agricultural goods; Iran denies those claims.
 
 ---

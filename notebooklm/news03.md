@@ -1,7 +1,109 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-06-28 01:32:47_
-_本檔包含 3851 則快訊，約 670986 字_
+_更新時間：2026-06-28 02:03:08_
+_本檔包含 3856 則快訊，約 670613 字_
+
+---
+
+### 2026-06-25 04:23:16  #國際
+
+特朗普： 北約秘書長呂特做得非常出色。
+
+---
+
+### 2026-06-25 04:23:14  #MKT News
+
+Pezeshkian said Iran's dignity and pride derive from the guidance of the revolutionary martyrs' leader and pledged to steadfastly continue that leader's path.
+
+---
+
+### 2026-06-25 04:21:29  #其他
+
+高通預計到 2029 財年，非手機業務營收將達 400 億美元。
+
+---
+
+### 2026-06-25 04:20:42  #國際
+
+特朗普：歐洲在伊朗戰爭期間沒有支援美國。
+
+---
+
+### 2026-06-25 04:20:31  #市場 #央行 #國際
+
+【拉美外匯觸及兩週低點，美元走強與大宗商品施壓股市】週三，拉丁美洲的股市和貨幣雙雙下滑，受到強勢美元的壓力。與此同時，投資者也在權衡近期由秘魯和哥倫比亞右翼候選人勝選所引發的市場反彈能否持續。追蹤拉美貨幣的MSCI指數下跌0.5%，觸及兩週多以來的低點。美元延續漲勢，攀升至13個月高點。在全球市場週二出現科技股領跌的拋售後，投資者紛紛湧入美元避險，加之市場對美聯儲加息的預期升溫。秘魯股市和哥倫比亞股市分別下跌0.8%和1.9%，兩國市場均可能連續第三個交易日收跌。貨幣市場表現同樣不佳，秘魯索爾跌0.5%，哥倫比亞比索從五年多高點回落，走弱0.3%。
+
+---
+
+### 2026-06-25 04:20:05  #MKT News #Important #MU.O
+
+Micron Technology will begin its fiscal 2026 third-quarter earnings call in 10 minutes.
+
+---
+
+### 2026-06-25 04:19:25  #MKT News #MU.O #Impact bullish
+
+Micron Technology (MU.O) said strategic customer agreements signed to date are expected to provide about $22 billion in cash deposits and related financial commitments.
+
+---
+
+### 2026-06-25 04:19:02  #MKT News #MU.O #Impact bullish
+
+Micron Technology (MU.O) said it expects to gradually return all excess cash to shareholders.
+
+---
+
+### 2026-06-25 04:18:44  #MKT News #MU.O
+
+Micron Technology (MU.O) said potential impacts from trade or geopolitical developments are not included in its earnings guidance.
+
+---
+
+### 2026-06-25 04:18:13  #公司
+
+明晟公司（MSCI）：霍尼韋爾航空航天板塊將於 2026 年 6 月 30 日納入 MSCI 全球標準指數及大盤股指數。
+
+---
+
+### 2026-06-25 04:18:11  #MKT News #MU.O #Impact mixed
+
+Micron Technology (MU.O) expects capex in each quarter of fiscal 2027 to exceed fiscal 2026 Q4 levels.
+
+---
+
+### 2026-06-25 04:17:58  #其他
+
+傑富瑞第二季度淨收入為22.1億美元，預估為22.2億美元；第二季度每股收益1.02美元，預期為1.24美元。
+
+---
+
+### 2026-06-25 04:17:49  #公司 #焦點 #國際
+
+美光科技：計劃提高資本回報。預計2027財年的專案運營費用將增加約10億美元。預計第四財季資本支出約為100億美元。預計2026財年全年資本支出約為270億美元。
+
+---
+
+### 2026-06-25 04:17:27  #MKT News #Important #MU.O
+
+Micron Technology (MU.O) expects FY2026 capital expenditure of about $27 billion.
+
+---
+
+### 2026-06-25 04:16:37  #其他
+
+高通首席財務官：未來營收、每股收益增速將大幅提升。
+
+---
+
+### 2026-06-25 04:16:36  #MKT News #Important #MU.O #Impact mixed
+
+Micron Technology (MU.O) CEO said he expects capex of about $10 billion in the fourth fiscal quarter.
+
+---
+
+### 2026-06-25 04:15:57  #MKT News #MU.O #Impact bearish
+
+Micron Technology (MU.O) CEO said project-related operating expenses in fiscal 2027 are expected to rise by about $1 bln.
 
 ---
 
@@ -23158,77 +23260,5 @@ US 6-week Treasury bill auction (to June 23) stop-out yield 3.62%, prior 3.60%.
 ### 2026-06-23 23:31:53  #Trading Economics #Markets #Germany #Stock Market #Importance 1
 
 DAX Finishes Lower — The DAX 40 pared early losses but still closed about 0.7% down at 24,973 on Tuesday, dragged by tech-related stocks amid concerns over AI firms' capital expenditures and prospective Fed rate hikes. Meanwhile, investors also monitored progress on US-Iran negotiations, including the 60-day license granted by the US allowing Iran to sell its oil on the international market. The chip segment was the hardest hit, with Infineon Technologies sliding over 5%. The construction company Hochtief (-3.8%) and Siemens Energy (-3.5%) also posted steep losses. Both had benefited significantly from the massive investments in data centers in recent months. Vonovia shares dropped 3.4% following the announcement of a convertible bond issue. On the upside, heavyweight SAP and Airbus were the top gainers, adding more than 2% each. RWE reversed initial losses and rose 0.5% following the announcement of a €4 billion capital raise for a majority stake in Amprion.
-
----
-
-### 2026-06-23 23:31:33  #國際
-
-歐盟計劃在 2026 年下半年發行至多 800 億歐元歐盟債券。
-
----
-
-### 2026-06-23 23:31:07  #其他
-
-德國DAX 30指數初步收跌0.64%，報24977.34點。法國股指初步收跌0.30%，義大利股指初步收跌1.18%、銀行指數跌1.03%，英國股指初步收漲0.23%。
-
----
-
-### 2026-06-23 23:31:03  #國際
-
-歐洲STOXX 600指數初步收跌0.51%，報636.01點。歐元區STOXX 50指數初步收跌0.98%，報6249.35點。富時泛歐績優300指數初步收跌0.52%，報2545.57點。
-
----
-
-### 2026-06-23 23:29:49  #MKT News #Macro & Rates #GBPUSD #Impact bullish #DXY #Impact bearish
-
-Bank of England policymaker Taylor said the Bank's structural bias toward asset sales under quantitative tightening (QT), as in 2025, will remain a consideration in policy decisions this year.
-
----
-
-### 2026-06-23 23:29:12  #國際
-
-市場訊息：美國上訴法院暫時批准特朗普提出的快速驅逐移民新規。
-
----
-
-### 2026-06-23 23:28:23  #央行 #其他
-
-英國央行委員泰勒：英國央行量化緊縮出售資產的傾斜策略仍將納入今年政策決議考量，2025 年亦是如此。
-
----
-
-### 2026-06-23 23:27:47  #公司 #市場 #國際
-
-【Evercore策略師：科技股會擺脫拋售潮 亮眼盈利將成救兵】Evercore ISI的Julian Emanuel表示，在經歷了近幾周的拋售潮後，超大盤科技股將重新獲得投資者青睞。拋售潮拖累該板塊一些最大的公司近來股價下跌超過10%。“你會看到不錯的盈利，”Evercore首席股票和量化策略師Emanuel表示。他週二表示，盈利在4月和5月推動了“一波強勁上漲”，如今將再次成為“檢驗真理的唯一標準”。晶片股引領韓國股市暴跌，SK海力士和三星電子均下跌超過12%，投資者擔憂此前的漲勢過度。受此影響，美國科技股週二開盤承壓。納斯達克100指數週一已然走低，幾乎抹去了6月以來的漲幅。該指數在4月和5月分別上漲10%和16%。
-
----
-
-### 2026-06-23 23:27:04  #MKT News #Commodities #Energy
-
-The CEO of Brazil's oil company said cooperation with Mexico's Pemex is not limited to Mexico and could extend to commercial opportunities in Africa and Brazil.
-
----
-
-### 2026-06-23 23:26:42  #公司
-
-巴西石油公司執行長表示，與墨西哥國家石油公司的合作並不侷限於墨西哥，兩家企業可共同把握非洲與巴西的相關發展機遇。
-
----
-
-### 2026-06-23 23:22:56  #MKT News #S&P500 #Impact bullish #XAUUSD #Impact bearish #DXY
-
-【Putin says Russia willing to negotiate with Ukraine based on Istanbul accord and related frameworks】On the 23rd at a government meeting, Putin said Russia is willing to hold peace talks with Ukraine based on the 2022 Istanbul accord, principles set out in a 2024 foreign ministry speech, the model discussed at the 2025 Anchorage meeting, and on-ground realities. He said peace talks were proactively broken off by Ukraine and that Kyiv’s recent strikes on Russia appear aimed at creating conditions favorable to resuming the interrupted negotiations.
-
----
-
-### 2026-06-23 23:22:27  #MKT News #Commodities #Energy #Brent #Impact mixed
-
-TotalEnergies CEO said the company must invest in oil pipelines to bypass the Strait of Hormuz, citing routes via Abu Dhabi and Syria, and that this crisis showed TotalEnergies is the oil supermajor most affected by the Middle East.
-
----
-
-### 2026-06-23 23:22:24  #國際
-
-【普京：俄方願基於伊斯坦布林協議等與烏談判】當地時間23日，俄羅斯總統普京在政府工作會議上表示，俄方願意在2022年春季伊斯坦布林達成的協議、2024年在外交部講話中闡述的原則、2025年安克雷奇會晤討論的模式以及地面現實的基礎上，與烏克蘭進行和平談判。他稱，和平談判是由烏克蘭方面主動中斷的。當前基輔透過對俄發動打擊，試圖為恢復中斷的談判創造有利條件。（央視新聞）
 
 ---

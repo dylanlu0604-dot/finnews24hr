@@ -1,7 +1,91 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-06-28 01:32:47_
-_本檔包含 3534 則快訊，約 670640 字_
+_更新時間：2026-06-28 02:03:08_
+_本檔包含 3533 則快訊，約 670632 字_
+
+---
+
+### 2026-06-22 21:25:15  #MKT News
+
+A former UK health secretary said Burnham did not promise him the Chancellor of the Exchequer role.
+
+---
+
+### 2026-06-22 21:25:12  #其他
+
+英國前衛生部長斯特里廷：伯納姆並未向我（承諾）提供財政大臣一職。
+
+---
+
+### 2026-06-22 21:24:40  #其他
+
+卡達能源部長：該事件不會對出口或本地需求供應造成任何影響。
+
+---
+
+### 2026-06-22 21:24:22  #國際
+
+【巴基斯坦總理：美伊就達成最終協議路線圖取得一致】巴基斯坦總理夏巴茲22日在社交媒體發文表示，美國與伊朗在瑞士比爾根山舉行的高階別談判已結束，各方在積極氛圍中取得突破進展，就美伊60天內達成最終協議的路線圖取得一致。 夏巴茲表示，各方還同意設立一個高階別委員會，負責監督談判程序，同時啟動技術性會談。夏巴茲對美伊兩國高層的建設性接觸表示讚賞，並對卡達、瑞士等國的支援表示感謝。他表示，巴方將繼續為推動地區和平發揮建設性作用。巴基斯坦副總理兼外長達爾當日在社交媒體發文表示，巴外交部團隊將在本週剩餘時間繼續留駐瑞士，同有關各方就後續技術性會談保持密切溝通。（新華社）
+
+---
+
+### 2026-06-22 21:24:05  #其他
+
+【卡達工廠爆炸事件已致13人死亡】當地時間6月22日，卡達能源大臣稱有13人在萊凡角工業城一家工廠爆炸中死亡，另有66人受傷。這次事件是一起意外事故，而非侵略或破壞行為。卡達能源大臣表示，卡達方面已經開始對事故產生的具體原因展開調查，爆炸沒有對周邊環境造成危害，也不會影響卡達的能源出口能力。（央視新聞）
+
+---
+
+### 2026-06-22 21:21:58  #公司
+
+【明陽集團與粵港澳大灣區國家技術創新中心簽署戰略合作框架協議】6月22日，明陽集團與粵港澳大灣區國家技術創新中心簽署戰略合作框架協議。根據合作協議，雙方將共同探索人工智慧與新能源產業融合發展創新路徑，推動海上風電向智慧化、數字化方向升級。
+
+---
+
+### 2026-06-22 21:21:49  #MKT News
+
+Qatar's energy minister said assessing damage to the affected plants will take some time.
+
+---
+
+### 2026-06-22 21:21:45  #MKT News #Commodities #Energy
+
+Qatar's energy minister said the country has sufficient natural gas to meet domestic consumption and can cover demand while maintenance is carried out.
+
+---
+
+### 2026-06-22 21:21:42  #其他
+
+卡達能源部長：評估受影響工廠的受損情況需要一定時間。
+
+---
+
+### 2026-06-22 21:21:24  #其他
+
+卡達表示將繼續推進未來的液化天然氣出口計劃。
+
+---
+
+### 2026-06-22 21:21:14  #其他
+
+卡達能源部長：我國國內天然氣儲量充足，在完成天然氣設施維修前，可完全覆蓋國內用氣需求。
+
+---
+
+### 2026-06-22 21:21:08  #MKT News
+
+Qatar's energy minister said it is currently difficult to determine when operations at the affected plants will resume.
+
+---
+
+### 2026-06-22 21:20:50  #其他
+
+卡達能源部長：目前尚無法確定受影響工廠的復工時間。
+
+---
+
+### 2026-06-22 21:19:50  #MKT News #CSI300 #Impact bullish #Hang Seng Index
+
+【China approves first central SOE commercial REIT】June 22 — Huaxia Poly Development Closed‑end Commercial Real Estate Investment Fund (Huaxia Poly Commercial REIT) received CSRC registration approval and a no‑objection letter from the Shanghai Stock Exchange. It is the first commercial REIT sponsored by a central state‑owned enterprise and marks a securitization milestone for Poly Development Holdings. Regulators say the REIT provides a tradable commercial real estate investment option, establishes a benchmark for asset recycling, and offers a replicable path for developers to unlock stock assets and pursue asset‑light transformation, supporting the development of China’s commercial real estate market and the public REITs industry.
 
 ---
 
@@ -21221,95 +21305,5 @@ Egyptian Foreign Minister Badr Abdel Ati met with Saudi and Turkish foreign mini
 ### 2026-06-21 02:06:50  #其他
 
 【訊息人士：伊拉克國民議會議長住所遭無人機襲擊】當地時間20日，伊拉克安全部門訊息人士稱，伊拉克國民議會議長海巴特·哈勒布西的住所遭不明無人機襲擊。（央視新聞）
-
----
-
-### 2026-06-21 02:02:53  #MKT News
-
-The extremist group Islamic State has claimed responsibility for an attack in northeast Aleppo, Syria.
-
----
-
-### 2026-06-21 02:02:25  #國際
-
-極端組織“伊斯蘭國”宣稱對敘利亞阿勒頗東北部的襲擊事件負責。
-
----
-
-### 2026-06-21 02:01:31  #其他
-
-西班牙首相佩德羅・桑切斯的妻子貝戈尼亞・戈麥斯將接受庭審，被控四項重罪：權錢交易（影響力兜售）、商業腐敗、侵吞公共資金、侵佔財物。
-
----
-
-### 2026-06-21 02:00:27  #國際
-
-半島電視臺一名攝像師在以色列對加沙地帶中部發動的空襲中身亡。
-
----
-
-### 2026-06-21 01:56:31  #國際
-
-以色列軍方宣佈一名士兵在黎巴嫩南部戰鬥中陣亡。
-
----
-
-### 2026-06-21 01:52:09  #其他
-
-西班牙：法院禁止首相佩德羅・桑切斯之妻貝戈尼亞・戈麥斯出境。
-
----
-
-### 2026-06-21 01:51:09  #MKT News
-
-【Sources: Pakistan PM Shehbaz and army chief Munir to travel to Switzerland】Pakistani sources said on the 20th that Prime Minister Shehbaz and Army Chief Munir will travel to Switzerland on the 21st.
-
----
-
-### 2026-06-21 01:48:42  #國際
-
-X平臺標記了國家安全部長本·格維爾的一條帖文。真主黨造成四名以色列士兵身亡後，該帖文呼籲讓黎巴嫩“化為火海”；該平臺表示這條內容違反平臺規則，但出於公共利益考量仍予以保留、未下架。
-
----
-
-### 2026-06-21 01:45:03  #MKT News
-
-【IAEA: Zaporizhzhia nuclear plant reconnected to grid】The International Atomic Energy Agency (IAEA) said on the 20th the Zaporizhzhia nuclear plant was reconnected to the grid at 17:50 local time, ending a 4.5-hour loss of off-site power.
-
----
-
-### 2026-06-21 01:44:48  #其他
-
-【國際原子能機構：扎波羅熱核電站重新連線電網】國際原子能機構20日表示，扎波羅熱核電站於當地時間當日17時50分重新連線到電網，結束了持續4.5小時的場外電力喪失狀態。（央視新聞）
-
----
-
-### 2026-06-21 01:36:41  #MKT News #Important #XAUUSD #Impact bullish #WTI #DXY
-
-【IDF says received ceasefire orders in Lebanon but will continue operations inside "security zone"】On the 20th local time, the Israel Defense Forces said it had received political-level instructions to implement a ceasefire but would continue operations inside a southern Lebanon "security zone", focusing on a large Hezbollah tunnel complex sheltering dozens of fighters. The IDF said it has stopped firing elsewhere in Lebanon and will keep destroying Hezbollah military infrastructure within the "security zone" and strike "urgent threats" outside it.
-
----
-
-### 2026-06-21 01:35:42  #國際
-
-【以軍稱收到在黎停火指示 但“安全區”內行動將繼續】當地時間20日，以色列國防軍表示，以軍正繼續在黎巴嫩南部“安全區”內展開軍事行動，目前的重點是打擊一處有數十名武裝人員藏身的大型真主黨地道系統。與此同時，以軍已在黎巴嫩其他地區“停止射擊”。以軍稱，軍方已收到政治高層的指示，要求實施停火。然而以軍強調，以軍部隊仍將繼續致力於摧毀位於其“安全區”內的真主黨武裝基礎設施，並將對“安全區”之外的“緊迫威脅”實施打擊。 （央視新聞）
-
----
-
-### 2026-06-21 01:34:27  #MKT News
-
-Al Arabiya TV reported Pakistan's interior minister arrived in Tehran and met with Iran's interior minister, foreign minister and other officials.
-
----
-
-### 2026-06-21 01:33:58  #國際
-
-菲律賓總統與俄羅斯總統普京通話後，俄羅斯釋放24名菲律賓公民。
-
----
-
-### 2026-06-21 01:32:58  #國際
-
-巴基斯坦內政部長穆赫辛·納克維抵達德黑蘭，會見伊朗內政部長埃斯坎達爾·穆梅尼、外交部長阿巴斯·阿拉格齊及其他官員。當前各方正持續開展外交斡旋，推動調解程序，並就中東地區長期和平事宜展開磋商。
 
 ---
