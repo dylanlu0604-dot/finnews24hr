@@ -1,7 +1,162 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-06-27 12:05:39_
-_本檔包含 3554 則快訊，約 673120 字_
+_更新時間：2026-06-27 13:32:02_
+_本檔包含 3500 則快訊，約 672443 字_
+
+---
+
+### 2026-06-27 13:22:55  #其他
+
+【6月29日起，虹橋機場所有國內航班截載時間縮短至起飛前30分鐘內】@航旅直通車-上海機場 介紹，6月29日起，虹橋機場運營的所有國內航班（不含港澳臺，下同）截載時間縮短至起飛前30分鐘內，以更高品質服務回應旅客對便捷出行的期待。
+
+---
+
+### 2026-06-27 13:21:11  #其他
+
+【今年前五月霍爾果斯口岸果蔬出口增長38%】今年以來，霍爾果斯口岸果蔬出口呈現迅猛增長態勢。據霍爾果斯海關統計，今年1至5月霍爾果斯口岸出口果蔬37.1萬噸，同比增長38%。（新華社）
+
+---
+
+### 2026-06-27 13:18:27  #公司
+
+【海南調整住房公積金繳存基數 7月起執行】海南省住房公積金管理局6月26日釋出《關於2026年度住房公積金繳存基數範圍的通告》。公告提出，職工住房公積金繳存基數，不低於職工工作所在市縣上一年度最低工資標準，不高於職工工作所在市縣上一年度職工月平均工資的3倍。通告的住房公積金繳存基數範圍適用於城鎮非私營單位，城鎮私營單位參照標準執行。2026年度住房公積金繳存基數範圍適用時間：2026年7月1日至2027年6月30日。
+
+---
+
+### 2026-06-27 13:15:58  #MKT News #Commodities #Energy #SLB.O #Impact bearish #HAL.O #Brent #Impact bullish
+
+【Norwegian oil-services walkout begins, disrupts offshore drilling】About 1,000 Norwegian oil-service workers began a walkout early Saturday after employers implemented previously warned escalation measures. The stoppage, in response to an ongoing Safe union strike by several hundred members, is expected to disrupt drilling on the Norwegian continental shelf and affect some production. Companies cited as impacted include Schlumberger, Halliburton, Subsea 7, DOF Subsea, Weatherford, DeepOcean and Baker Hughes.
+
+---
+
+### 2026-06-27 13:11:34  #其他
+
+【“靈晟”超算系統總設計師盧宇彤：“超智融合”架構創新推動中國超算再“登頂”】日前在德國漢堡釋出的第67期全球超級計算機500強榜單顯示，首次入榜的中國超算“靈晟”位列榜首。這是2017年後，中國超算再次登頂該榜單。“靈晟”超算系統總設計師、國家超級計算深圳中心主任盧宇彤赴德國參加頒獎儀式，她在接受記者書面採訪時說，“超智融合”架構創新是推動中國超算再“登頂”的重要支撐。“中國超算現在已經從跟跑、並跑，進入到超智融合架構創新階段，把算力優勢轉化為科學發現、工程突破和產業創新的生產力。”她說。（新華社）
+
+---
+
+### 2026-06-27 13:11:02  #其他
+
+比利時5-1戰勝紐西蘭。（央視新聞）
+
+---
+
+### 2026-06-27 13:04:43  #國際
+
+【埃及1比1平伊朗】當地時間6月26日，在美國西雅圖進行的2026美加墨世界盃足球賽G組小組賽中，埃及隊1:1戰平伊朗隊。（新華社）
+
+---
+
+### 2026-06-27 13:03:35  #公司 #市場
+
+【碳化矽器件價格止跌趨穩 高壓MOS、IGBT等產品仍有漲價空間】三安光電公司人士透露，目前國內的碳化矽功率半導體暫時還沒有看到漲價，只能說價格“止跌趨穩”。中科英智基金合夥人王洲表示，碳化矽今年已有反轉趨勢，高壓MOS、IGBT等產品均呈現了比較大的價格上漲的彈性，並且今年下半年可能仍有上漲空間。
+
+---
+
+### 2026-06-27 13:01:59  #MKT News #Commodities #Energy #Brent #Impact bullish #WTI
+
+Norwegian oil services industry blockade has taken effect, disrupting offshore drilling operations.
+
+---
+
+### 2026-06-27 13:00:49  #其他
+
+挪威石油服務業停工封鎖正式生效，海上鑽井作業已受衝擊。
+
+---
+
+### 2026-06-27 12:42:04  #其他
+
+【全國13條河流發生超警洪水】記者從水利部瞭解到，受降雨影響，昨天到今天，廣西西江桂平江段及支流白沙江、紅水河支流盤陽河、鬱江支流豬兒河、畫眉河、武思江及桂南沿海南流江，廣東西江支流蟠龍水、北江支流水邊河，雲南瀾滄江支流鳳慶河，福建閩江支流吉木溪、文江溪，內蒙古額爾古納河支流海拉爾河等13條河流發生超警洪水，最大超警幅度0.86米，目前大部已退至警戒以下。（央視新聞）
+
+---
+
+### 2026-06-27 12:41:11  #市場 #A股
+
+【機構：上半年A股IPO發行數量與規模雙增 資本市場支援科技創新功能持續強化】Wind資料顯示，截至6月27日，今年以來，A股共計69家企業完成首發上市，同比增幅達35%；募資總額702億元，同比增長88%。從上市板塊看，科創板、創業板合計20家，募資金額303億元，募資金額佔全市場募資總額的43%。從行業分佈看，來自技術硬體與裝置、材料、半導體與半導體生產裝置、汽車與汽車零部件等行業的企業居多。 從新增輔導備案企業看，Wind資料顯示，今年以來輔導備案受理225家，高於去年同期水平。這些企業覆蓋半導體、生物醫藥、新材料、高階裝置等領域。安永日前釋出的中國內地和香港IPO市場報告顯示，2026年上半年，A股IPO發行節奏穩步提升，預計較去年同期將會實現新股數量與籌資規模的同步增長，特別是北交所的發行量實現大幅度增長。資本市場服務實體經濟、支援科技創新的功能持續強化。 (中證金牛座)
+
+---
+
+### 2026-06-27 12:38:14  #國際
+
+【今日特朗普要聞】
+1、當地時間6月26日，特朗普稱伊朗向霍爾木茲海峽船隻發射攻擊無人機，擊中一艘大型貨船，美方擊落其餘無人機，指責伊朗此舉違反美伊停火協議。
+2、伊朗議會國家安全委員會主席阿齊茲發聲，指責特朗普及美方不遵守談判與停火原則，美方近期襲擊伊朗錫裡克地區屬於魯莽違約行為，並稱伊方會讓美方付出代價。
+3、6月26日，特朗普在社交平臺發文威脅，對徵收美國企業數字服務稅的歐洲國家，將立刻徵收100%輸美產品報復性關稅，該關稅將取代雙方現有貿易協議。
+4、特朗普發文慶賀印度海德拉巴市新落成唐納德·特朗普大道，稱自己是首位獲此殊榮的美國總統，並對此表示感謝。
+5、特朗普談及委內瑞拉災情，表示當地遭遇強震、傷亡慘重，美方已派遣人員前往當地提供援助，並稱美委兩國關係良好。
+
+---
+
+### 2026-06-27 12:22:27  #市場
+
+【阿根廷擬推出“黃金護照”專案用以償還債務】兩名不願具名知情人士訊息，阿根廷計劃於今年推出投資入籍專案。阿根廷方案是，申請人捐贈約50萬美元（款項不予退還），或購置面值約100萬美元零息主權債券，即可申請該國公民身份。相關細則尚待阿根廷政府敲定，存在調整可能。主導該方案制定的阿根廷經濟部拒絕對此事置評。
+
+---
+
+### 2026-06-27 12:21:50  #MKT News #Commodities #Energy #WTI #Brent
+
+【Venezuela official says oil production unaffected by earthquakes】After two strong earthquakes, Oil and Gas Minister Paula Enau said on June 26 local time that oil production has not been affected. Venezuela is producing about 1.2 mln bpd, the government has reviewed domestic inventories, and domestic gas and fuel supplies are secure; all wells are operating. Company managers and field workers reported no significant damage to oil and gas facilities. Preliminary assessments earlier indicated major facilities were largely spared because they are distant from affected cities, though power outages could constrain output.
+
+---
+
+### 2026-06-27 12:21:27  #公司
+
+【胖東來已發放635萬結婚獎勵】6月27日，胖東來官方旗艦店抖音賬號釋出“胖東來人幸福結婚獎勵公示”。自2025年1月2日下發以來，全公司獲得結婚獎勵人員共73人、累計發放獎勵金額365萬元；2026年全公司獲得結婚獎勵人員共54人、累計發放獎勵金額270萬元。
+
+---
+
+### 2026-06-27 12:21:02  #其他
+
+【委內瑞拉官員：石油生產未受地震影響】委內瑞拉接連發生兩次強震後，當地時間6月26日，該國人民政權油氣部長葆拉·埃瑙說，石油生產未受地震影響。埃瑙接受媒體採訪時說，委內瑞拉目前日均原油產量為120萬桶，政府已評估國內庫存情況，國內天然氣和燃料供應有保障。“我們處於正常運轉狀態，所有油井在運轉和生產中。”據悉，委內瑞拉石油企業管理層和油田工人反饋，油氣設施沒有受到嚴重影響。稍早前有訊息稱，初步評估顯示，由於遠離受地震波及的城市，委內瑞拉大型油氣設施在強震中受損有限，不過電力短缺情況可能影響石油產能。（央視新聞）
+
+---
+
+### 2026-06-27 12:18:31  #國際
+
+【克里米亞宣佈進入“緊急狀態”】據法新社6月26日報道，克里米亞當局26日宣佈進入“緊急狀態”，以應對烏克蘭對克里米亞半島越來越多的空襲造成的影響。
+
+---
+
+### 2026-06-27 12:16:38  #其他
+
+【昔日汽車經銷巨頭全面轉型“包租公”：現有500多家自有店面僅30家在營 以售後為主】6月26日，紅星資本局從廣匯汽車董事會辦公室獲悉，昔日的經銷商巨頭廣匯汽車已全面轉型“包租公”，現有500多家自有土地房屋的店面，但在營店面只有30多家，以售後維修為主。業內人士告訴紅星資本局，廣匯汽車已基本退出新車銷售業務，轉為物業租賃管理和存量售後運營。而在巔峰時期，廣匯汽車在全國有超700個營業網點，代理寶馬、賓士、奧迪、別克等57個品牌。
+
+---
+
+### 2026-06-27 12:16:28  #市場
+
+【一級市場再現搶專案 優質標的決策時間壓縮至72小時】6月26日，在2026張江人工智慧創新小鎮生態日活動上，張通社創始人、加冕科創CEO鄭小輝表示，今年以來，全國共發生投融資事件5306起，同比增長37.4%；投資金額更是翻倍，高達4544.9億元，同比增幅為117.9%。“‘非必要不出手’已成過去，搶專案重現，部分優質標的的決策週期從三個月壓縮到72小時。”鄭小輝說。（證券時報）
+
+---
+
+### 2026-06-27 12:15:02  #焦點 #國際
+
+【伊朗稱受襲錫裡克港運營正常】據伊朗邁赫爾通訊社27日報道，伊朗霍爾木茲甘省有關負責人表示，受到襲擊的錫裡克港目前運營正常，港口裝置和設施並未受損。伊朗媒體26日報道稱，錫裡克一處碼頭當晚傳出數次爆炸聲。報道援引訊息人士的話說，爆炸起因是碼頭遭發射物擊中。還有訊息稱兩枚發射物擊中了該地區的一座電信塔。據伊朗塔斯尼姆通訊社27日凌晨報道，美國襲擊了伊朗錫裡克地區。報道援引當地訊息人士的話說，當地時間26日23時30分左右，霍爾木茲甘省錫裡克地區發生數次爆炸。（新華社）
+
+---
+
+### 2026-06-27 12:10:41  #公司 #其他
+
+張雪機車：24小時鎖單3062臺。
+
+---
+
+### 2026-06-27 12:10:14  #其他
+
+【6月份滬牌拍賣結果公佈 平均成交價為94368元】據上海釋出訊息，6月份滬牌拍賣結果公佈。個人額度合計拍賣總數3809個，參加拍賣人數33834人，中標率11.3%。最低成交價94300元，平均成交價為94368元，與上個月保持一致。
+
+---
+
+### 2026-06-27 12:06:16  #市場
+
+市場訊息：阿根廷計劃推出“黃金護照”計劃以償還債務。
+
+---
+
+### 2026-06-27 12:05:50  #國際
+
+【“走進泰國”投資推介會暨中國國際商會會員國別沙龍・泰國專場在京成功舉辦】6月25日下午，第四屆鏈博會期間，“走進泰國”投資推介會暨中國國際商會會員國別沙龍・泰國專場在京成功舉辦。中國貿促會副會長聶文慧、泰王國駐華大使韓燦才出席活動並致辭。聶文慧表示，中泰地緣相近、人文相親。“泰國4.0”戰略和“東部經濟走廊”計劃加快實施，與中國推動高質量發展、擴大高水平開放的戰略方向高度契合。中國貿促會商事法律服務中心與泰國投資促進委員會近年來建立緊密合作關係，希望雙方在合作機制上更加走深走實，在合作成效上更加惠及企業，全面加強政策解讀、專案撮合、品牌推廣、商事法律、團組互訪等合作，不斷相互成就、雙向奔赴。
 
 ---
 
@@ -21007,479 +21162,5 @@ GOOLSBEE said it remains well above the required level.
 ### 2026-06-26 02:11:28  #MKT News #Macro & Rates #The Fed (FOMC) #S&P500 #Impact bullish #US10Y #DXY #Impact bearish
 
 Fed's Goolsbee sees some hopeful signs in services inflation.
-
----
-
-### 2026-06-26 02:11:27  #央行 #國際
-
-美聯儲古爾斯比：服務業通脹方面看到一些希望的曙光。
-
----
-
-### 2026-06-26 02:11:19  #MKT News
-
-Boeing expects the first satellite to be delivered in 2031.
-
----
-
-### 2026-06-26 02:11:07  #MKT News #BA.O #Impact bullish
-
-Boeing selected by the U.S. Space Force to expand military communications capabilities.
-
----
-
-### 2026-06-26 02:10:59  #公司
-
-波音公司：MUOS衛星壽命延長合同價值高達20億美元，包括兩顆窄帶通訊衛星，首顆將於2031年交付。
-
----
-
-### 2026-06-26 02:10:38  #國際
-
-波音：波音獲美國太空軍選定，負責擴大全球安全軍事通訊覆蓋範圍。
-
----
-
-### 2026-06-26 02:10:30  #MKT News
-
-Fed's GOOLSBEE: Spending now premised on future returns makes me nervous about potential inf pressures.
-
----
-
-### 2026-06-26 02:10:24  #央行 #國際
-
-美聯儲古爾斯比：當前支出依賴未來收益的狀況，令我對潛在通脹壓力感到擔憂。
-
----
-
-### 2026-06-26 02:10:19  #MKT News #DXY #Impact bullish #US10Y #S&P500 #Impact bearish
-
-Fed's GOOLSBEE said the economy could overheat if equities price in AI-driven future productivity gains and that pricing prompts higher consumer spending.
-
----
-
-### 2026-06-26 02:09:50  #央行 #國際
-
-美聯儲古爾斯比：如果人工智慧帶來的未來生產率提升已經被計入股價，民眾開始以此為基礎增加支出，這種情況可能會導致經濟過熱。
-
----
-
-### 2026-06-26 02:08:58  #公司
-
-【微軟漲價公告恰逢《俠盜獵車手VI》預購日】微軟關於Xbox主機漲價的公告恰逢玩家的一個重要日子：期待已久的《俠盜獵車手VI》開啟預購。該遊戲由Take-Two Interactive Software開發多年，預計將成為迄今為止GTA系列中最受矚目的作品。微軟的漲價將於8月生效，這可能會激勵玩家在該遊戲11月首發之前儘早購買主機。
-
----
-
-### 2026-06-26 02:08:17  #MKT News #Macro & Rates
-
-Fed Chair Goolsbee said the balance sheet has been used as a monetary policy tool in emergencies, but is not generally regarded as a routine policy instrument.
-
----
-
-### 2026-06-26 02:08:13  #央行 #國際
-
-美聯儲古爾斯比：在緊急情況下，資產負債表曾被用作貨幣政策工具，但通常不應這樣看待。
-
----
-
-### 2026-06-26 02:07:59  #國際
-
-新興市場外匯指數漲幅收窄，因有訊息稱伊朗在霍爾木茲海峽襲擊船隻。
-
----
-
-### 2026-06-26 02:07:53  #MKT News #Macro & Rates #The Fed (FOMC) #DXY #Impact mixed #US10Y #S&P500
-
-Fed's Goolsbee said the working group set up by the Fed chair will prudently consider various options for the dot plot; he welcomed the move.
-
----
-
-### 2026-06-26 02:07:37  #MKT News #Macro & Rates #The Fed (FOMC)
-
-Fed's Goolsbee: Don't hate the 'dot plot'.
-
----
-
-### 2026-06-26 02:07:27  #MKT News #Macro & Rates #The Fed (FOMC)
-
-Fed's GOOLSBEE said he does not want to commit to forecasts for the next several years.
-
----
-
-### 2026-06-26 02:07:22  #MKT News #Macro & Rates #The Fed (FOMC)
-
-Goolsbee says he has long been uneasy about forward guidance.
-
----
-
-### 2026-06-26 02:07:14  #央行 #國際
-
-美聯儲古爾斯比：美聯儲主席工作組將全面考量點陣圖的各種選項，對此表示歡迎。
-
----
-
-### 2026-06-26 02:07:06  #國際
-
-美國訊息：一犯罪網路企圖非法走私剛果（金）礦產 。
-
----
-
-### 2026-06-26 02:06:47  #央行 #國際
-
-美聯儲古爾斯比：牴觸點陣圖。
-
----
-
-### 2026-06-26 02:06:32  #央行 #國際
-
-美聯儲古爾斯比: 但不想對多年後的預測做出承諾。
-
----
-
-### 2026-06-26 02:06:21  #市場
-
-原油價格觸及盤中高點，布倫特原油價格突破75美元/桶。
-
----
-
-### 2026-06-26 02:06:17  #國際
-
-市場訊息： 基輔遭遇彈道導彈襲擊。
-
----
-
-### 2026-06-26 02:05:46  #MKT News
-
-NATO Secretary-General Rutte said NATO will pledge support for Ukraine at the summit and that Ukrainian President Zelenskiy will attend.
-
----
-
-### 2026-06-26 02:05:40  #國際
-
-呂特：北約將在峰會上承諾對烏支援，澤連斯基將出席。
-
----
-
-### 2026-06-26 02:05:36  #MKT News #Macro & Rates #The Fed (FOMC) #DXY #Impact bullish #US10Y #Impact bearish #S&P500
-
-Fed's Goolsbee said inflation is clearly the problem.
-
----
-
-### 2026-06-26 02:05:14  #央行 #國際
-
-美聯儲古爾斯比：使命中通脹方面顯然是當前問題。
-
----
-
-### 2026-06-26 02:05:14  #MKT News #Important #Macro & Rates #The Fed (FOMC) #US Economy #S&P500 #Impact bullish #DXY #Impact bearish #XAUUSD
-
-Fed's Goolsbee said the PCE report was not entirely negative.
-
----
-
-### 2026-06-26 02:05:12  #MKT News
-
-GOOLSBEE said the services sector has shown slight improvement.
-
----
-
-### 2026-06-26 02:05:11  #MKT News #Macro & Rates #The Fed (FOMC) #US10Y #Impact bullish #DXY #XAUUSD #Impact bearish
-
-Federal Reserve's GOOLSBEE said inf requires continued monitoring.
-
----
-
-### 2026-06-26 02:05:11  #MKT News
-
-GOOLSBEE said part of the reason was 'one-off' factors.
-
----
-
-### 2026-06-26 02:05:04  #MKT News #LMT.O #Impact bullish #NOC.O #RTX.O
-
-NATO Secretary-General Rutte said NATO will announce new contracts worth tens of billions of dollars at the upcoming NATO summit.
-
----
-
-### 2026-06-26 02:05:04  #MKT News #Macro & Rates #DXY #Impact bullish #US10Y #S&P500 #Impact bearish
-
-Fed's Goolsbee said services-sector inflation is somewhat concerning.
-
----
-
-### 2026-06-26 02:05:04  #MKT News #Important #Macro & Rates #The Fed (FOMC) #DXY #Impact bullish #USDJPY #XAUUSD #Impact bearish
-
-Federal Reserve's Goolsbee says inflation is moving in the wrong direction.
-
----
-
-### 2026-06-26 02:05:03  #MKT News #Macro & Rates #The Fed (FOMC)
-
-Fed's Goolsbee: Difficult to disentangle inf dynamics and to judge whether it is persistent or transitory.
-
----
-
-### 2026-06-26 02:04:57  #央行 #國際
-
-美聯儲的古爾斯比：服務業出現了一些改善。
-
----
-
-### 2026-06-26 02:04:54  #央行 #國際
-
-美聯儲古爾斯比：PCE報告並非全然負面。
-
----
-
-### 2026-06-26 02:04:48  #央行 #國際
-
-美聯儲古爾斯比：需持續監測通脹走勢。
-
----
-
-### 2026-06-26 02:04:44  #央行 #國際
-
-美聯儲古爾斯比：服務業通脹走勢更令人不安。
-
----
-
-### 2026-06-26 02:04:43  #MKT News #Commodities #Precious Metals #XAUUSD #Impact bullish #DXY
-
-U.S. Treasury sanctions a Rwandan gold refinery and a network that facilitated illicit conflict-mineral trade.
-
----
-
-### 2026-06-26 02:04:37  #MKT News #Brent #Impact bullish #WTI
-
-International Maritime Organization (IMO) said it has suspended evacuation operations in the Strait of Hormuz after a vessel was attacked in the Gulf of Oman.
-
----
-
-### 2026-06-26 02:04:37  #MKT News
-
-NATO Secretary General Rutte said boosting production requires overcoming a fragmented defense industry.
-
----
-
-### 2026-06-26 02:04:29  #央行 #國際
-
-美聯儲的古爾斯比：其中部分是由一次性因素所驅動。
-
----
-
-### 2026-06-26 02:04:23  #其他
-
-呂特：北約將在北約峰會上宣佈價值數百億美元的新防務合同。
-
----
-
-### 2026-06-26 02:04:18  #央行 #國際
-
-美聯儲的古爾斯比：通脹走勢方向錯誤。
-
----
-
-### 2026-06-26 02:04:17  #MKT News
-
-NATO Secretary General Rutte said US and European weapons manufacturers have boosted production to increase supplies, but further effort is still required.
-
----
-
-### 2026-06-26 02:03:56  #央行 #國際
-
-美聯儲古爾斯比接受採訪：目前難以明確通脹是持續粘性還是暫時屬性。
-
----
-
-### 2026-06-26 02:03:08  #其他
-
-北約秘書長呂特：提振產能需破除各國國防工業碎片化格局。
-
----
-
-### 2026-06-26 02:02:35  #其他
-
-巴黎警察局長：為應對熱浪影響，從週五中午起將實施公共場合禁酒令。
-
----
-
-### 2026-06-26 02:02:16  #宏觀 #市場 #國際
-
-美國財政部：財政部對盧安達黃金精煉廠及助力非法衝突礦產貿易的相關網路實施制裁.
-
----
-
-### 2026-06-26 02:02:11  #市場 #焦點
-
-WTI原油突破72美元/桶，日內漲2.37%。
-
----
-
-### 2026-06-26 02:02:03  #其他
-
-國際海事組織：阿曼灣一艘船隻遇襲後，霍爾木茲海峽暫停人員疏散.
-
----
-
-### 2026-06-26 02:01:54  #公司 #焦點 #國際
-
-【伊朗襲擊貨輪，考驗特朗普重啟海峽通航的相關協議】兩名美國高階官員透露，伊朗伊斯蘭革命衛隊於週四在霍爾木茲海峽襲擊了一艘新加坡籍貨輪，此舉令美伊上週簽署的停火、恢復這條關鍵航運要道通航協議面臨考驗。英國海上貿易行動辦公室表示，此次襲擊造成船舶駕駛臺受損，但未出現人員傷亡。事發地點位於阿曼海岸附近，數小時前，這支伊朗準軍事海上力量剛剛警告船隻不得走該國未認可的海峽航道。白宮暫未回應媒體關於此次襲擊及其對協議影響的置評請求。船舶追蹤平臺 Marine Traffic 資訊顯示，遭襲貨輪 “Ever Lovely” 此前在伊拉克烏姆卡斯爾港裝載貨物，目的地為新加坡。金融資料服務商倫敦證券交易所集團（LSEG）資料顯示，“Ever Lovely” 已在波斯灣滯留超 100 天。當地時間週四清晨，該船駛向海峽入海口，另有三艘船舶也幾乎在同一時段嘗試過境。
-
----
-
-### 2026-06-26 02:01:15  #其他
-
-北約秘書長呂特：美歐軍工企業已擴大產能以增加供應，但仍需加大投入.
-
----
-
-### 2026-06-26 02:00:52  #市場
-
-布倫特原油日內漲2%，現報75.35美元/桶。
-
----
-
-### 2026-06-26 02:00:39  #MKT News #Important #WTI #Impact bullish #Brent
-
-The Wall Street Journal reported two senior U.S. officials said the Islamic Revolutionary Guard Corps attacked a cargo ship in the Strait of Hormuz on Thursday, testing last week’s U.S.-Iran agreement aimed at ending hostilities and reopening the strategic waterway.
-
----
-
-### 2026-06-26 01:59:32  #焦點 #國際
-
-美國官員訊息：伊朗在霍爾木茲海峽襲擊一艘船隻。
-
----
-
-### 2026-06-26 01:59:14  #其他
-
-市場訊息：委內瑞拉計劃從其所持在國際貨幣基金組織的45億美元特別提款權中，先行提取2億美元，用於地震災後重建。
-
----
-
-### 2026-06-26 01:58:22  #MKT News
-
-Market sources: Venezuela will use its funds at the International Monetary Fund for post-earthquake reconstruction.
-
----
-
-### 2026-06-26 01:52:59  #國際
-
-特朗普在真實社交平臺發文：昨晚現場人山人海，場地擠得水洩不通 —— 到場民眾至少有 4.5 萬人，電視與線上觀看的觀眾規模同樣龐大。真希望當時能有更大的場地，而 7 月 4 日我再度發表演講時，就能用上更大的場地。現場的空中編隊通場表演與配樂都十分精彩。所有人全程留到我的演講結束，大家都愛聽我講述一個真正繁榮強盛的美國。7 月 4 日再見！
-
----
-
-### 2026-06-26 01:52:29  #MKT News #WTI #Impact bullish #Brent
-
-UN shipping agency says evacuation plan for the Strait of Hormuz is suspended pending further clarity.
-
----
-
-### 2026-06-26 01:52:10  #MKT News #Brent #Impact bullish #WTI
-
-UN agency says vessel attacked on Thursday in the Gulf of Oman was not operating under the agency's evacuation framework.
-
----
-
-### 2026-06-26 01:52:01  #MKT News #Important #WTI #Impact bullish #Brent
-
-The UN shipping agency said it has temporarily shelved plans to evacuate vessels and crews stranded in the Strait of Hormuz region after a vessel attack.
-
----
-
-### 2026-06-26 01:51:44  #其他
-
-聯合國機構表示，霍爾木茲疏散計劃將暫停，直至獲得進一步明確資訊。
-
----
-
-### 2026-06-26 01:51:41  #其他
-
-聯合國機構表示，週四在阿曼灣遇襲的船舶並非根據該機構的撤離框架過境。
-
----
-
-### 2026-06-26 01:51:38  #其他 #焦點
-
-聯合國航運機構表示，霍爾木茲海峽遇襲事件發生後，該機構已暫時暫停針對受困船隻與船員的撤離計劃。
-
----
-
-### 2026-06-26 01:50:57  #公司 #國際
-
-谷歌：Google.org 提供500萬美元贈款，用於擴充套件烏克蘭國家人工智慧就業平臺 OBRII。
-
----
-
-### 2026-06-26 01:46:00  #其他
-
-紐約聯邦儲備銀行在6月25日的常備回購操作中，全額接受了申報的200萬美元申請。
-
----
-
-### 2026-06-26 01:45:31  #公司
-
-市場訊息：亞馬遜與中科創達達成協議，面向整車廠合作開發車載智慧語音人工智慧方案。
-
----
-
-### 2026-06-26 01:44:34  #公司
-
-市場訊息：亞馬遜 Alexa 與中科創達宣佈達成合作協議。
-
----
-
-### 2026-06-26 01:43:55  #其他
-
-市場訊息：英國首相斯塔默的繼任者安迪·伯納姆計劃在曼徹斯特新設 “權力下放事務部”。
-
----
-
-### 2026-06-26 01:43:18  #其他
-
-市場訊息：工黨執政機構已經制定了選舉新黨魁的時間表，英國首相斯塔默的繼任者安迪·伯納姆最早可能於7月17日上任。
-
----
-
-### 2026-06-26 01:43:00  #其他
-
-【委內瑞拉地震188人遇難1520人傷】委內瑞拉方面釋出的最新統計顯示，委內瑞拉北部地震6月24日的接連強震已造成至少188人遇難、1520人受傷，此外還有200人被困。#委內瑞拉地震已致188人遇難# 委內瑞拉全國代表大會主席豪爾赫·羅德里格斯稱，截至目前統計共有250棟建築物受損毀，主要集中在拉瓜伊拉州。（CCTV國際時訊）
-
----
-
-### 2026-06-26 01:42:18  #MKT News
-
-BBC reported Labour’s ruling body has set a timetable to elect a new leader; Andy Burnham could succeed Prime Minister Starmer as early as July 17.
-
----
-
-### 2026-06-26 01:41:22  #國際
-
-惠譽 - 畢馬威銀行業峰會：居民消費韌性、人工智慧落地應用支撐美國銀行業經營環境。
-
----
-
-### 2026-06-26 01:40:56  #國際
-
-美國貿易代表辦公室：烏茲別克將取消或降低對部分美國商品的關稅。
-
----
-
-### 2026-06-26 01:38:46  #國際
-
-市場訊息：美國發布涉俄通用許可 131G。
-
----
-
-### 2026-06-26 01:37:59  #其他
-
-巴西2025/26年度玉米出口預估為3700萬噸，低於上一年度的4170萬噸 。
-
----
-
-### 2026-06-26 01:37:32  #國際
-
-市場訊息：美國對與剛果民主共和國有關聯的個人和實體實施制裁。
 
 ---

@@ -1,7 +1,481 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-06-27 12:05:39_
-_本檔包含 3813 則快訊，約 673613 字_
+_更新時間：2026-06-27 13:32:02_
+_本檔包含 3862 則快訊，約 672920 字_
+
+---
+
+### 2026-06-26 02:11:27  #央行 #國際
+
+美聯儲古爾斯比：服務業通脹方面看到一些希望的曙光。
+
+---
+
+### 2026-06-26 02:11:19  #MKT News
+
+Boeing expects the first satellite to be delivered in 2031.
+
+---
+
+### 2026-06-26 02:11:07  #MKT News #BA.O #Impact bullish
+
+Boeing selected by the U.S. Space Force to expand military communications capabilities.
+
+---
+
+### 2026-06-26 02:10:59  #公司
+
+波音公司：MUOS衛星壽命延長合同價值高達20億美元，包括兩顆窄帶通訊衛星，首顆將於2031年交付。
+
+---
+
+### 2026-06-26 02:10:38  #國際
+
+波音：波音獲美國太空軍選定，負責擴大全球安全軍事通訊覆蓋範圍。
+
+---
+
+### 2026-06-26 02:10:30  #MKT News
+
+Fed's GOOLSBEE: Spending now premised on future returns makes me nervous about potential inf pressures.
+
+---
+
+### 2026-06-26 02:10:24  #央行 #國際
+
+美聯儲古爾斯比：當前支出依賴未來收益的狀況，令我對潛在通脹壓力感到擔憂。
+
+---
+
+### 2026-06-26 02:10:19  #MKT News #DXY #Impact bullish #US10Y #S&P500 #Impact bearish
+
+Fed's GOOLSBEE said the economy could overheat if equities price in AI-driven future productivity gains and that pricing prompts higher consumer spending.
+
+---
+
+### 2026-06-26 02:09:50  #央行 #國際
+
+美聯儲古爾斯比：如果人工智慧帶來的未來生產率提升已經被計入股價，民眾開始以此為基礎增加支出，這種情況可能會導致經濟過熱。
+
+---
+
+### 2026-06-26 02:08:58  #公司
+
+【微軟漲價公告恰逢《俠盜獵車手VI》預購日】微軟關於Xbox主機漲價的公告恰逢玩家的一個重要日子：期待已久的《俠盜獵車手VI》開啟預購。該遊戲由Take-Two Interactive Software開發多年，預計將成為迄今為止GTA系列中最受矚目的作品。微軟的漲價將於8月生效，這可能會激勵玩家在該遊戲11月首發之前儘早購買主機。
+
+---
+
+### 2026-06-26 02:08:17  #MKT News #Macro & Rates
+
+Fed Chair Goolsbee said the balance sheet has been used as a monetary policy tool in emergencies, but is not generally regarded as a routine policy instrument.
+
+---
+
+### 2026-06-26 02:08:13  #央行 #國際
+
+美聯儲古爾斯比：在緊急情況下，資產負債表曾被用作貨幣政策工具，但通常不應這樣看待。
+
+---
+
+### 2026-06-26 02:07:59  #國際
+
+新興市場外匯指數漲幅收窄，因有訊息稱伊朗在霍爾木茲海峽襲擊船隻。
+
+---
+
+### 2026-06-26 02:07:53  #MKT News #Macro & Rates #The Fed (FOMC) #DXY #Impact mixed #US10Y #S&P500
+
+Fed's Goolsbee said the working group set up by the Fed chair will prudently consider various options for the dot plot; he welcomed the move.
+
+---
+
+### 2026-06-26 02:07:37  #MKT News #Macro & Rates #The Fed (FOMC)
+
+Fed's Goolsbee: Don't hate the 'dot plot'.
+
+---
+
+### 2026-06-26 02:07:27  #MKT News #Macro & Rates #The Fed (FOMC)
+
+Fed's GOOLSBEE said he does not want to commit to forecasts for the next several years.
+
+---
+
+### 2026-06-26 02:07:22  #MKT News #Macro & Rates #The Fed (FOMC)
+
+Goolsbee says he has long been uneasy about forward guidance.
+
+---
+
+### 2026-06-26 02:07:14  #央行 #國際
+
+美聯儲古爾斯比：美聯儲主席工作組將全面考量點陣圖的各種選項，對此表示歡迎。
+
+---
+
+### 2026-06-26 02:07:06  #國際
+
+美國訊息：一犯罪網路企圖非法走私剛果（金）礦產 。
+
+---
+
+### 2026-06-26 02:06:47  #央行 #國際
+
+美聯儲古爾斯比：牴觸點陣圖。
+
+---
+
+### 2026-06-26 02:06:32  #央行 #國際
+
+美聯儲古爾斯比: 但不想對多年後的預測做出承諾。
+
+---
+
+### 2026-06-26 02:06:21  #市場
+
+原油價格觸及盤中高點，布倫特原油價格突破75美元/桶。
+
+---
+
+### 2026-06-26 02:06:17  #國際
+
+市場訊息： 基輔遭遇彈道導彈襲擊。
+
+---
+
+### 2026-06-26 02:05:46  #MKT News
+
+NATO Secretary-General Rutte said NATO will pledge support for Ukraine at the summit and that Ukrainian President Zelenskiy will attend.
+
+---
+
+### 2026-06-26 02:05:40  #國際
+
+呂特：北約將在峰會上承諾對烏支援，澤連斯基將出席。
+
+---
+
+### 2026-06-26 02:05:36  #MKT News #Macro & Rates #The Fed (FOMC) #DXY #Impact bullish #US10Y #Impact bearish #S&P500
+
+Fed's Goolsbee said inflation is clearly the problem.
+
+---
+
+### 2026-06-26 02:05:14  #央行 #國際
+
+美聯儲古爾斯比：使命中通脹方面顯然是當前問題。
+
+---
+
+### 2026-06-26 02:05:14  #MKT News #Important #Macro & Rates #The Fed (FOMC) #US Economy #S&P500 #Impact bullish #DXY #Impact bearish #XAUUSD
+
+Fed's Goolsbee said the PCE report was not entirely negative.
+
+---
+
+### 2026-06-26 02:05:12  #MKT News
+
+GOOLSBEE said the services sector has shown slight improvement.
+
+---
+
+### 2026-06-26 02:05:11  #MKT News #Macro & Rates #The Fed (FOMC) #US10Y #Impact bullish #DXY #XAUUSD #Impact bearish
+
+Federal Reserve's GOOLSBEE said inf requires continued monitoring.
+
+---
+
+### 2026-06-26 02:05:11  #MKT News
+
+GOOLSBEE said part of the reason was 'one-off' factors.
+
+---
+
+### 2026-06-26 02:05:04  #MKT News #LMT.O #Impact bullish #NOC.O #RTX.O
+
+NATO Secretary-General Rutte said NATO will announce new contracts worth tens of billions of dollars at the upcoming NATO summit.
+
+---
+
+### 2026-06-26 02:05:04  #MKT News #Macro & Rates #DXY #Impact bullish #US10Y #S&P500 #Impact bearish
+
+Fed's Goolsbee said services-sector inflation is somewhat concerning.
+
+---
+
+### 2026-06-26 02:05:04  #MKT News #Important #Macro & Rates #The Fed (FOMC) #DXY #Impact bullish #USDJPY #XAUUSD #Impact bearish
+
+Federal Reserve's Goolsbee says inflation is moving in the wrong direction.
+
+---
+
+### 2026-06-26 02:05:03  #MKT News #Macro & Rates #The Fed (FOMC)
+
+Fed's Goolsbee: Difficult to disentangle inf dynamics and to judge whether it is persistent or transitory.
+
+---
+
+### 2026-06-26 02:04:57  #央行 #國際
+
+美聯儲的古爾斯比：服務業出現了一些改善。
+
+---
+
+### 2026-06-26 02:04:54  #央行 #國際
+
+美聯儲古爾斯比：PCE報告並非全然負面。
+
+---
+
+### 2026-06-26 02:04:48  #央行 #國際
+
+美聯儲古爾斯比：需持續監測通脹走勢。
+
+---
+
+### 2026-06-26 02:04:44  #央行 #國際
+
+美聯儲古爾斯比：服務業通脹走勢更令人不安。
+
+---
+
+### 2026-06-26 02:04:43  #MKT News #Commodities #Precious Metals #XAUUSD #Impact bullish #DXY
+
+U.S. Treasury sanctions a Rwandan gold refinery and a network that facilitated illicit conflict-mineral trade.
+
+---
+
+### 2026-06-26 02:04:37  #MKT News #Brent #Impact bullish #WTI
+
+International Maritime Organization (IMO) said it has suspended evacuation operations in the Strait of Hormuz after a vessel was attacked in the Gulf of Oman.
+
+---
+
+### 2026-06-26 02:04:37  #MKT News
+
+NATO Secretary General Rutte said boosting production requires overcoming a fragmented defense industry.
+
+---
+
+### 2026-06-26 02:04:29  #央行 #國際
+
+美聯儲的古爾斯比：其中部分是由一次性因素所驅動。
+
+---
+
+### 2026-06-26 02:04:23  #其他
+
+呂特：北約將在北約峰會上宣佈價值數百億美元的新防務合同。
+
+---
+
+### 2026-06-26 02:04:18  #央行 #國際
+
+美聯儲的古爾斯比：通脹走勢方向錯誤。
+
+---
+
+### 2026-06-26 02:04:17  #MKT News
+
+NATO Secretary General Rutte said US and European weapons manufacturers have boosted production to increase supplies, but further effort is still required.
+
+---
+
+### 2026-06-26 02:03:56  #央行 #國際
+
+美聯儲古爾斯比接受採訪：目前難以明確通脹是持續粘性還是暫時屬性。
+
+---
+
+### 2026-06-26 02:03:08  #其他
+
+北約秘書長呂特：提振產能需破除各國國防工業碎片化格局。
+
+---
+
+### 2026-06-26 02:02:35  #其他
+
+巴黎警察局長：為應對熱浪影響，從週五中午起將實施公共場合禁酒令。
+
+---
+
+### 2026-06-26 02:02:16  #宏觀 #市場 #國際
+
+美國財政部：財政部對盧安達黃金精煉廠及助力非法衝突礦產貿易的相關網路實施制裁.
+
+---
+
+### 2026-06-26 02:02:11  #市場 #焦點
+
+WTI原油突破72美元/桶，日內漲2.37%。
+
+---
+
+### 2026-06-26 02:02:03  #其他
+
+國際海事組織：阿曼灣一艘船隻遇襲後，霍爾木茲海峽暫停人員疏散.
+
+---
+
+### 2026-06-26 02:01:54  #公司 #焦點 #國際
+
+【伊朗襲擊貨輪，考驗特朗普重啟海峽通航的相關協議】兩名美國高階官員透露，伊朗伊斯蘭革命衛隊於週四在霍爾木茲海峽襲擊了一艘新加坡籍貨輪，此舉令美伊上週簽署的停火、恢復這條關鍵航運要道通航協議面臨考驗。英國海上貿易行動辦公室表示，此次襲擊造成船舶駕駛臺受損，但未出現人員傷亡。事發地點位於阿曼海岸附近，數小時前，這支伊朗準軍事海上力量剛剛警告船隻不得走該國未認可的海峽航道。白宮暫未回應媒體關於此次襲擊及其對協議影響的置評請求。船舶追蹤平臺 Marine Traffic 資訊顯示，遭襲貨輪 “Ever Lovely” 此前在伊拉克烏姆卡斯爾港裝載貨物，目的地為新加坡。金融資料服務商倫敦證券交易所集團（LSEG）資料顯示，“Ever Lovely” 已在波斯灣滯留超 100 天。當地時間週四清晨，該船駛向海峽入海口，另有三艘船舶也幾乎在同一時段嘗試過境。
+
+---
+
+### 2026-06-26 02:01:15  #其他
+
+北約秘書長呂特：美歐軍工企業已擴大產能以增加供應，但仍需加大投入.
+
+---
+
+### 2026-06-26 02:00:52  #市場
+
+布倫特原油日內漲2%，現報75.35美元/桶。
+
+---
+
+### 2026-06-26 02:00:39  #MKT News #Important #WTI #Impact bullish #Brent
+
+The Wall Street Journal reported two senior U.S. officials said the Islamic Revolutionary Guard Corps attacked a cargo ship in the Strait of Hormuz on Thursday, testing last week’s U.S.-Iran agreement aimed at ending hostilities and reopening the strategic waterway.
+
+---
+
+### 2026-06-26 01:59:32  #焦點 #國際
+
+美國官員訊息：伊朗在霍爾木茲海峽襲擊一艘船隻。
+
+---
+
+### 2026-06-26 01:59:14  #其他
+
+市場訊息：委內瑞拉計劃從其所持在國際貨幣基金組織的45億美元特別提款權中，先行提取2億美元，用於地震災後重建。
+
+---
+
+### 2026-06-26 01:58:22  #MKT News
+
+Market sources: Venezuela will use its funds at the International Monetary Fund for post-earthquake reconstruction.
+
+---
+
+### 2026-06-26 01:52:59  #國際
+
+特朗普在真實社交平臺發文：昨晚現場人山人海，場地擠得水洩不通 —— 到場民眾至少有 4.5 萬人，電視與線上觀看的觀眾規模同樣龐大。真希望當時能有更大的場地，而 7 月 4 日我再度發表演講時，就能用上更大的場地。現場的空中編隊通場表演與配樂都十分精彩。所有人全程留到我的演講結束，大家都愛聽我講述一個真正繁榮強盛的美國。7 月 4 日再見！
+
+---
+
+### 2026-06-26 01:52:29  #MKT News #WTI #Impact bullish #Brent
+
+UN shipping agency says evacuation plan for the Strait of Hormuz is suspended pending further clarity.
+
+---
+
+### 2026-06-26 01:52:10  #MKT News #Brent #Impact bullish #WTI
+
+UN agency says vessel attacked on Thursday in the Gulf of Oman was not operating under the agency's evacuation framework.
+
+---
+
+### 2026-06-26 01:52:01  #MKT News #Important #WTI #Impact bullish #Brent
+
+The UN shipping agency said it has temporarily shelved plans to evacuate vessels and crews stranded in the Strait of Hormuz region after a vessel attack.
+
+---
+
+### 2026-06-26 01:51:44  #其他
+
+聯合國機構表示，霍爾木茲疏散計劃將暫停，直至獲得進一步明確資訊。
+
+---
+
+### 2026-06-26 01:51:41  #其他
+
+聯合國機構表示，週四在阿曼灣遇襲的船舶並非根據該機構的撤離框架過境。
+
+---
+
+### 2026-06-26 01:51:38  #其他 #焦點
+
+聯合國航運機構表示，霍爾木茲海峽遇襲事件發生後，該機構已暫時暫停針對受困船隻與船員的撤離計劃。
+
+---
+
+### 2026-06-26 01:50:57  #公司 #國際
+
+谷歌：Google.org 提供500萬美元贈款，用於擴充套件烏克蘭國家人工智慧就業平臺 OBRII。
+
+---
+
+### 2026-06-26 01:46:00  #其他
+
+紐約聯邦儲備銀行在6月25日的常備回購操作中，全額接受了申報的200萬美元申請。
+
+---
+
+### 2026-06-26 01:45:31  #公司
+
+市場訊息：亞馬遜與中科創達達成協議，面向整車廠合作開發車載智慧語音人工智慧方案。
+
+---
+
+### 2026-06-26 01:44:34  #公司
+
+市場訊息：亞馬遜 Alexa 與中科創達宣佈達成合作協議。
+
+---
+
+### 2026-06-26 01:43:55  #其他
+
+市場訊息：英國首相斯塔默的繼任者安迪·伯納姆計劃在曼徹斯特新設 “權力下放事務部”。
+
+---
+
+### 2026-06-26 01:43:18  #其他
+
+市場訊息：工黨執政機構已經制定了選舉新黨魁的時間表，英國首相斯塔默的繼任者安迪·伯納姆最早可能於7月17日上任。
+
+---
+
+### 2026-06-26 01:43:00  #其他
+
+【委內瑞拉地震188人遇難1520人傷】委內瑞拉方面釋出的最新統計顯示，委內瑞拉北部地震6月24日的接連強震已造成至少188人遇難、1520人受傷，此外還有200人被困。#委內瑞拉地震已致188人遇難# 委內瑞拉全國代表大會主席豪爾赫·羅德里格斯稱，截至目前統計共有250棟建築物受損毀，主要集中在拉瓜伊拉州。（CCTV國際時訊）
+
+---
+
+### 2026-06-26 01:42:18  #MKT News
+
+BBC reported Labour’s ruling body has set a timetable to elect a new leader; Andy Burnham could succeed Prime Minister Starmer as early as July 17.
+
+---
+
+### 2026-06-26 01:41:22  #國際
+
+惠譽 - 畢馬威銀行業峰會：居民消費韌性、人工智慧落地應用支撐美國銀行業經營環境。
+
+---
+
+### 2026-06-26 01:40:56  #國際
+
+美國貿易代表辦公室：烏茲別克將取消或降低對部分美國商品的關稅。
+
+---
+
+### 2026-06-26 01:38:46  #國際
+
+市場訊息：美國發布涉俄通用許可 131G。
+
+---
+
+### 2026-06-26 01:37:59  #其他
+
+巴西2025/26年度玉米出口預估為3700萬噸，低於上一年度的4170萬噸 。
+
+---
+
+### 2026-06-26 01:37:32  #國際
+
+市場訊息：美國對與剛果民主共和國有關聯的個人和實體實施制裁。
 
 ---
 
@@ -22807,185 +23281,5 @@ Sources said due to refinery shutdowns Russia's oil exports from western ports a
 ### 2026-06-24 23:53:51  #Trading Economics #Markets #France #Stock Market #Importance 0
 
 CAC 40 Rebounds on Luxury Sector Gains — The CAC 40 rose 0.5% to close at 8,385 on Wednesday, snapping a three-session losing streak as gains in the luxury sector supported the index. Luxury heavyweights outperformed after Jefferies raised L'Oreal’s target price to €328 from €323, while maintaining a “below market performance” recommendation and citing elevated profitability. Peers LVMH (+1.9%), Hermes (+1.5%), and Kering (+1%) also advanced. Investors remained focused on US-Iran peace negotiations amid signs of improving shipping activity through the Strait of Hormuz, although uncertainty persisted over whether Tehran would allow United Nations inspectors access to its nuclear facilities. Industrial stocks also traded higher, with Airbus up 0.9% and Safran gaining 2.2%. Meanwhile, Thales fell 1.2% as European defense stocks came under pressure after Rheinmetall plunged on reports that the German government may withdraw funding for a new warship project. Elsewhere, TotalEnergies lost 1.8% on lower oil prices.
-
----
-
-### 2026-06-24 23:53:18  #其他
-
-GE航空航天漲超2%。
-
----
-
-### 2026-06-24 23:51:13  #國際
-
-【美國推進向土耳其出售戰機發動機相關交易】儘管美國國會表示反對，特朗普政府仍計劃推進一筆價值超7億美元的交易，向土耳其出售通用電氣（GE）戰機發動機，用於該國“可汗”（Kaan）戰鬥機。這筆交易預計將在未來數日內敲定，趕在下月於土耳其舉辦的北約峰會之前完成。此前美土雙方曾因F-35戰機專案、土耳其採購俄羅斯S-400防空系統產生矛盾，而此次舉措釋放出美土防務合作持續推進的訊號。
-
----
-
-### 2026-06-24 23:50:19  #國際
-
-美加州州長加文·紐森：簡直離譜。特朗普拿保障性住房議題當籌碼要挾國會，逼迫國會透過他那套壓制選民的法案。他故意拖延為住房困難家庭提供救助，只為抬高已婚女性、美國黑人的投票門檻。這個人心理扭曲。
-
----
-
-### 2026-06-24 23:49:46  #MKT News #Commodities #Energy
-
-U.S., Qatar, Nigeria and Algeria urged the EU to amend methane regulations, warning the rules may pose risks to gas supply and prices.
-
----
-
-### 2026-06-24 23:49:13  #MKT News #Market Themes #The Trump Trade
-
-Sources say the Trump administration plans to continue selling jet engines worth several hundred million dollars to Turkey.
-
----
-
-### 2026-06-24 23:48:52  #MKT News #Commodities #Energy #WTI #Impact bullish #Brent
-
-Iraq ordered a halt to oil production at the West Qurna-2 oilfield.
-
----
-
-### 2026-06-24 23:48:29  #國際
-
-美國、卡達、奈及利亞和阿爾及利亞敦促歐盟修訂甲烷法規，並警告該法規會給天然氣供應和天然氣價格帶來風險。
-
----
-
-### 2026-06-24 23:48:20  #其他
-
-波音漲超2%。
-
----
-
-### 2026-06-24 23:47:41  #國際
-
-訊息人士稱，特朗普政府正計劃推進向土耳其出售價值數億美元噴氣發動機的交易。
-
----
-
-### 2026-06-24 23:47:38  #國際
-
-【美軍在敘利亞打死一名“伊斯蘭國”重要頭目】美軍中央司令部24日稱，美軍於19日在敘利亞西北部發動空襲，打死一名“伊斯蘭國”重要頭目。 美軍中央司令部當天在社交媒體發表宣告說，美軍在空襲行動中打死“伊斯蘭國”重要頭目阿里·侯賽因·烏萊維。宣告稱，“這是美方持續努力的一部分，旨在打擊並消滅那些企圖襲擊海外美國人或美國本土的恐怖分子”。（新華社）
-
----
-
-### 2026-06-24 23:46:26  #國際
-
-以色列總理內塔尼亞胡：未來十年，我們將為國防預算新增3500億謝克爾（合1172億美元）。為何如此？因為我希望以色列在武器製造領域儘可能實現自主。我要打造強大、自給自足的國防工業。我們會維繫現有同盟並進一步拓展合作，但首要前提是，我們必須擁有獨立自主的自保能力。
-
----
-
-### 2026-06-24 23:45:47  #其他
-
-【中國氣象學家許健民獲頒國際氣象組織獎】世界氣象組織24日在日內瓦為中國工程院院士、中國氣象局衛星氣象專家許健民頒發第70屆國際氣象組織獎，表彰他為天氣預報、衛星氣象事業以及氣象業務服務作出的卓越貢獻。
-
----
-
-### 2026-06-24 23:45:28  #國際
-
-印度民用航空安全域性（DGCA）表示，已對阿姆利則空管人員及印度航空機組人員採取臨時處分，原因是二人未上報該事件。
-
----
-
-### 2026-06-24 23:44:55  #焦點 #國際
-
-印度民航監管機構表示，週一印度航空一架班機在接近阿姆利則時短暫進入了巴基斯坦領空。
-
----
-
-### 2026-06-24 23:42:09  #國際
-
-【以色列襲擊黎巴嫩南部致2人死亡】據黎巴嫩國家通訊社24日報道，一輛行駛中的汽車在黎南部奈拜提耶市附近遭以色列軍隊襲擊，造成2人死亡。黎巴嫩安全部門訊息人士向新華社記者透露，以軍無人機向該汽車發射了一枚導彈，造成車內2人當場死亡。襲擊發生後，黎巴嫩軍隊和安全部隊封鎖現場，遇難者遺體被運往奈拜提耶市一家醫院。（新華社）
-
----
-
-### 2026-06-24 23:41:31  #MKT News
-
-【Magnitude 5.5 earthquake in Northern California】The European-Mediterranean Seismological Centre (EMSC) reported a magnitude-5.5 earthquake in Northern California on June 24 (local time).
-
----
-
-### 2026-06-24 23:41:06  #國際
-
-【美國加利福尼亞州北部地區發生5.5級地震】當地時間6月24日，據歐洲—地中海地震中心（EMSC）訊息，美國加利福尼亞州北部地區發生5.5級地震。（央視新聞）
-
----
-
-### 2026-06-24 23:40:37  #公司
-
-阿根廷國家石油公司CEO：與比德投資集團（Bidinvest）簽署價值5億美元的瓦卡穆爾塔油氣專案投資協議。
-
----
-
-### 2026-06-24 23:40:23  #Trading Economics #Markets #commodity #Importance 0
-
-Lead Hits 10-week Low — Lead decreased to 1922.00 USD/T, the lowest since April 2026. Over the past 4 weeks, Lead lost 4.9%, and in the last 12 months, it decreased 5.68%.
-
----
-
-### 2026-06-24 23:39:57  #公司
-
-體育競猜應用Onyx Odds完成2000萬美元融資，本輪由加密交易所Kraken母公司Payward領投。
-
----
-
-### 2026-06-24 23:39:20  #國際
-
-以色列總理內塔尼亞胡：只要我擔任總理，我們就會維持黎巴嫩南部的“安全區”。
-
----
-
-### 2026-06-24 23:39:19  #MKT News #Commodities #Industrial Metals
-
-LME three-month aluminum fell to $3,110 a tonne, the lowest since Feb 25, down 3.6%.
-
----
-
-### 2026-06-24 23:39:05  #MKT News #Market Regions #Europe & UK #DAX #Impact bearish #FTSE100 #Impact bullish
-
-Germany's DAX fell 197.03 pts (-0.79%) to 24,740.00 at the close on June 24; Britain's FTSE 100 rose 34.31 pts (0.33%) to 10,463.16; France's CAC 40 gained 44.78 pts (0.54%) to 8,385.49; Euro STOXX 50 slipped 12.10 pts (-0.19%) to 6,218.45; Spain's IBEX 35 fell 89.69 pts (-0.46%) to 19,386.81; Italy's FTSE MIB dropped 382.91 pts (-0.74%) to 51,641.50.
-
----
-
-### 2026-06-24 23:38:46  #其他 #焦點
-
-倫敦金屬交易所（LME）三個月期鋁跌至每噸3110美元，為2月25日以來最低水平，最新跌幅為3.6%。
-
----
-
-### 2026-06-24 23:37:37  #國際
-
-歐洲地中海地震中心：美國加利福尼亞州北部發生5.7級地震，震源深度8千米。
-
----
-
-### 2026-06-24 23:37:34  #Trading Economics #Markets #Commodity #Importance 0
-
-Brent Crude Oil Hits Pre-War Levels — Brent Crude oil fell below $74 a barrel on Wednesday, reaching its lowest level since late February, as increasing tanker traffic through the Strait of Hormuz and progress in US-Iran peace talks eased supply fears. Shipowners are confidently transiting the chokepoint with active satellite signals following safety guarantees from the International Maritime Organization. The International Energy Agency estimates the United Arab Emirates is exporting oil at nearly 85% of pre-war levels, selling roughly 60 million barrels from the Persian Gulf recently. Consequently, oil prices have dropped about 40% from their wartime peak. This resumed global flow overshadowed US data from the Energy Information Administration showing US crude inventories plunged to their lowest since 1984, with Cushing stockpiles dipping below operational minimums.
-
----
-
-### 2026-06-24 23:36:57  #國際
-
-以色列總理內塔尼亞胡：安全無法靠空談換取。安全源於實力與堅定的決心。遵循一條簡單的準則，我們的先祖早已深諳此理“若有人前來取你性命，當先起身將其斬殺”。
-
----
-
-### 2026-06-24 23:35:32  #Trading Economics #Markets #Commodity #Importance 1
-
-Heating Oil Falls to Over 3-Month Low — Heating oil futures for delivery in the New York Harbor fell to below $3.15 per gallon in late June, hovering near their lowest level since early March, on evidence that oil exports from the Middle East are gradually returning. Satellite data showed that loaded tankers are crossing the Strait of Hormuz as the memorandum of understanding and improved talks between the US and Iran drove both countries to lift their blockade. On top of that, the US remained on track to lift sanction on Iran to unlock fresh sources of energy supply from Western refiners and dollar buyers. Unlike crude oil prices, heating oil futures remained above pre-Iran war levels from late February. Distilling capacity in refiners was hit the hardest from depleted feedstock inventories in Europe and Asia, exemplified by shortages of jet fuel. On top of that, denser crude oil grades from the Persian Gulf, which commonly yield more diesel, were still not at full capacity due to attacks on local refineries.
-
----
-
-### 2026-06-24 23:35:30  #Trading Economics #Markets #Commodity #Importance 2
-
-Crude Oil Falls Below $70 — Crude oil fell below $70 a barrel on Wednesday, reaching its lowest level since late February, as increasing tanker traffic through the Strait of Hormuz and progress in US-Iran peace talks eased supply fears. Shipowners are confidently transiting the chokepoint with active satellite signals following safety guarantees from the International Maritime Organization. The International Energy Agency estimates the United Arab Emirates is exporting oil at nearly 85% of pre-war levels, selling roughly 60 million barrels from the Persian Gulf recently. Consequently, oil prices have dropped about 40% from their wartime peak. This resumed global flow overshadowed US data from the Energy Information Administration showing US crude inventories plunged to their lowest since 1984, with Cushing stockpiles dipping below operational minimums.
-
----
-
-### 2026-06-24 23:35:19  #MKT News #Important #WTI #Impact bearish
-
-【China's foreign minister held phone call with Pakistan deputy prime minister and foreign minister Durr】China's foreign minister Wang Yi spoke by phone with Pakistan's deputy prime minister and foreign minister Durr on the evening of the 24th; Durr said Iran and the United States have entered a new phase of negotiations. Wang said China will work with parties to support the talks and set three priorities: consolidate a comprehensive ceasefire and prevent fighting from restarting; restore normal navigation through the Strait of Hormuz as soon as possible to protect global supply chains, with arrangements that respect littoral sovereignty and international practice; and support Middle Eastern states in improving ties and exploring a new regional security architecture to reduce major‑power rivalry and strengthen regional strategic autonomy.
 
 ---

@@ -1,7 +1,187 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-06-27 12:05:39_
-_本檔包含 3809 則快訊，約 672633 字_
+_更新時間：2026-06-27 13:32:02_
+_本檔包含 3783 則快訊，約 672101 字_
+
+---
+
+### 2026-06-24 23:53:18  #其他
+
+GE航空航天漲超2%。
+
+---
+
+### 2026-06-24 23:51:13  #國際
+
+【美國推進向土耳其出售戰機發動機相關交易】儘管美國國會表示反對，特朗普政府仍計劃推進一筆價值超7億美元的交易，向土耳其出售通用電氣（GE）戰機發動機，用於該國“可汗”（Kaan）戰鬥機。這筆交易預計將在未來數日內敲定，趕在下月於土耳其舉辦的北約峰會之前完成。此前美土雙方曾因F-35戰機專案、土耳其採購俄羅斯S-400防空系統產生矛盾，而此次舉措釋放出美土防務合作持續推進的訊號。
+
+---
+
+### 2026-06-24 23:50:19  #國際
+
+美加州州長加文·紐森：簡直離譜。特朗普拿保障性住房議題當籌碼要挾國會，逼迫國會透過他那套壓制選民的法案。他故意拖延為住房困難家庭提供救助，只為抬高已婚女性、美國黑人的投票門檻。這個人心理扭曲。
+
+---
+
+### 2026-06-24 23:49:46  #MKT News #Commodities #Energy
+
+U.S., Qatar, Nigeria and Algeria urged the EU to amend methane regulations, warning the rules may pose risks to gas supply and prices.
+
+---
+
+### 2026-06-24 23:49:13  #MKT News #Market Themes #The Trump Trade
+
+Sources say the Trump administration plans to continue selling jet engines worth several hundred million dollars to Turkey.
+
+---
+
+### 2026-06-24 23:48:52  #MKT News #Commodities #Energy #WTI #Impact bullish #Brent
+
+Iraq ordered a halt to oil production at the West Qurna-2 oilfield.
+
+---
+
+### 2026-06-24 23:48:29  #國際
+
+美國、卡達、奈及利亞和阿爾及利亞敦促歐盟修訂甲烷法規，並警告該法規會給天然氣供應和天然氣價格帶來風險。
+
+---
+
+### 2026-06-24 23:48:20  #其他
+
+波音漲超2%。
+
+---
+
+### 2026-06-24 23:47:41  #國際
+
+訊息人士稱，特朗普政府正計劃推進向土耳其出售價值數億美元噴氣發動機的交易。
+
+---
+
+### 2026-06-24 23:47:38  #國際
+
+【美軍在敘利亞打死一名“伊斯蘭國”重要頭目】美軍中央司令部24日稱，美軍於19日在敘利亞西北部發動空襲，打死一名“伊斯蘭國”重要頭目。 美軍中央司令部當天在社交媒體發表宣告說，美軍在空襲行動中打死“伊斯蘭國”重要頭目阿里·侯賽因·烏萊維。宣告稱，“這是美方持續努力的一部分，旨在打擊並消滅那些企圖襲擊海外美國人或美國本土的恐怖分子”。（新華社）
+
+---
+
+### 2026-06-24 23:46:26  #國際
+
+以色列總理內塔尼亞胡：未來十年，我們將為國防預算新增3500億謝克爾（合1172億美元）。為何如此？因為我希望以色列在武器製造領域儘可能實現自主。我要打造強大、自給自足的國防工業。我們會維繫現有同盟並進一步拓展合作，但首要前提是，我們必須擁有獨立自主的自保能力。
+
+---
+
+### 2026-06-24 23:45:47  #其他
+
+【中國氣象學家許健民獲頒國際氣象組織獎】世界氣象組織24日在日內瓦為中國工程院院士、中國氣象局衛星氣象專家許健民頒發第70屆國際氣象組織獎，表彰他為天氣預報、衛星氣象事業以及氣象業務服務作出的卓越貢獻。
+
+---
+
+### 2026-06-24 23:45:28  #國際
+
+印度民用航空安全域性（DGCA）表示，已對阿姆利則空管人員及印度航空機組人員採取臨時處分，原因是二人未上報該事件。
+
+---
+
+### 2026-06-24 23:44:55  #焦點 #國際
+
+印度民航監管機構表示，週一印度航空一架班機在接近阿姆利則時短暫進入了巴基斯坦領空。
+
+---
+
+### 2026-06-24 23:42:09  #國際
+
+【以色列襲擊黎巴嫩南部致2人死亡】據黎巴嫩國家通訊社24日報道，一輛行駛中的汽車在黎南部奈拜提耶市附近遭以色列軍隊襲擊，造成2人死亡。黎巴嫩安全部門訊息人士向新華社記者透露，以軍無人機向該汽車發射了一枚導彈，造成車內2人當場死亡。襲擊發生後，黎巴嫩軍隊和安全部隊封鎖現場，遇難者遺體被運往奈拜提耶市一家醫院。（新華社）
+
+---
+
+### 2026-06-24 23:41:31  #MKT News
+
+【Magnitude 5.5 earthquake in Northern California】The European-Mediterranean Seismological Centre (EMSC) reported a magnitude-5.5 earthquake in Northern California on June 24 (local time).
+
+---
+
+### 2026-06-24 23:41:06  #國際
+
+【美國加利福尼亞州北部地區發生5.5級地震】當地時間6月24日，據歐洲—地中海地震中心（EMSC）訊息，美國加利福尼亞州北部地區發生5.5級地震。（央視新聞）
+
+---
+
+### 2026-06-24 23:40:37  #公司
+
+阿根廷國家石油公司CEO：與比德投資集團（Bidinvest）簽署價值5億美元的瓦卡穆爾塔油氣專案投資協議。
+
+---
+
+### 2026-06-24 23:40:23  #Trading Economics #Markets #commodity #Importance 0
+
+Lead Hits 10-week Low — Lead decreased to 1922.00 USD/T, the lowest since April 2026. Over the past 4 weeks, Lead lost 4.9%, and in the last 12 months, it decreased 5.68%.
+
+---
+
+### 2026-06-24 23:39:57  #公司
+
+體育競猜應用Onyx Odds完成2000萬美元融資，本輪由加密交易所Kraken母公司Payward領投。
+
+---
+
+### 2026-06-24 23:39:20  #國際
+
+以色列總理內塔尼亞胡：只要我擔任總理，我們就會維持黎巴嫩南部的“安全區”。
+
+---
+
+### 2026-06-24 23:39:19  #MKT News #Commodities #Industrial Metals
+
+LME three-month aluminum fell to $3,110 a tonne, the lowest since Feb 25, down 3.6%.
+
+---
+
+### 2026-06-24 23:39:05  #MKT News #Market Regions #Europe & UK #DAX #Impact bearish #FTSE100 #Impact bullish
+
+Germany's DAX fell 197.03 pts (-0.79%) to 24,740.00 at the close on June 24; Britain's FTSE 100 rose 34.31 pts (0.33%) to 10,463.16; France's CAC 40 gained 44.78 pts (0.54%) to 8,385.49; Euro STOXX 50 slipped 12.10 pts (-0.19%) to 6,218.45; Spain's IBEX 35 fell 89.69 pts (-0.46%) to 19,386.81; Italy's FTSE MIB dropped 382.91 pts (-0.74%) to 51,641.50.
+
+---
+
+### 2026-06-24 23:38:46  #其他 #焦點
+
+倫敦金屬交易所（LME）三個月期鋁跌至每噸3110美元，為2月25日以來最低水平，最新跌幅為3.6%。
+
+---
+
+### 2026-06-24 23:37:37  #國際
+
+歐洲地中海地震中心：美國加利福尼亞州北部發生5.7級地震，震源深度8千米。
+
+---
+
+### 2026-06-24 23:37:34  #Trading Economics #Markets #Commodity #Importance 0
+
+Brent Crude Oil Hits Pre-War Levels — Brent Crude oil fell below $74 a barrel on Wednesday, reaching its lowest level since late February, as increasing tanker traffic through the Strait of Hormuz and progress in US-Iran peace talks eased supply fears. Shipowners are confidently transiting the chokepoint with active satellite signals following safety guarantees from the International Maritime Organization. The International Energy Agency estimates the United Arab Emirates is exporting oil at nearly 85% of pre-war levels, selling roughly 60 million barrels from the Persian Gulf recently. Consequently, oil prices have dropped about 40% from their wartime peak. This resumed global flow overshadowed US data from the Energy Information Administration showing US crude inventories plunged to their lowest since 1984, with Cushing stockpiles dipping below operational minimums.
+
+---
+
+### 2026-06-24 23:36:57  #國際
+
+以色列總理內塔尼亞胡：安全無法靠空談換取。安全源於實力與堅定的決心。遵循一條簡單的準則，我們的先祖早已深諳此理“若有人前來取你性命，當先起身將其斬殺”。
+
+---
+
+### 2026-06-24 23:35:32  #Trading Economics #Markets #Commodity #Importance 1
+
+Heating Oil Falls to Over 3-Month Low — Heating oil futures for delivery in the New York Harbor fell to below $3.15 per gallon in late June, hovering near their lowest level since early March, on evidence that oil exports from the Middle East are gradually returning. Satellite data showed that loaded tankers are crossing the Strait of Hormuz as the memorandum of understanding and improved talks between the US and Iran drove both countries to lift their blockade. On top of that, the US remained on track to lift sanction on Iran to unlock fresh sources of energy supply from Western refiners and dollar buyers. Unlike crude oil prices, heating oil futures remained above pre-Iran war levels from late February. Distilling capacity in refiners was hit the hardest from depleted feedstock inventories in Europe and Asia, exemplified by shortages of jet fuel. On top of that, denser crude oil grades from the Persian Gulf, which commonly yield more diesel, were still not at full capacity due to attacks on local refineries.
+
+---
+
+### 2026-06-24 23:35:30  #Trading Economics #Markets #Commodity #Importance 2
+
+Crude Oil Falls Below $70 — Crude oil fell below $70 a barrel on Wednesday, reaching its lowest level since late February, as increasing tanker traffic through the Strait of Hormuz and progress in US-Iran peace talks eased supply fears. Shipowners are confidently transiting the chokepoint with active satellite signals following safety guarantees from the International Maritime Organization. The International Energy Agency estimates the United Arab Emirates is exporting oil at nearly 85% of pre-war levels, selling roughly 60 million barrels from the Persian Gulf recently. Consequently, oil prices have dropped about 40% from their wartime peak. This resumed global flow overshadowed US data from the Energy Information Administration showing US crude inventories plunged to their lowest since 1984, with Cushing stockpiles dipping below operational minimums.
+
+---
+
+### 2026-06-24 23:35:19  #MKT News #Important #WTI #Impact bearish
+
+【China's foreign minister held phone call with Pakistan deputy prime minister and foreign minister Durr】China's foreign minister Wang Yi spoke by phone with Pakistan's deputy prime minister and foreign minister Durr on the evening of the 24th; Durr said Iran and the United States have entered a new phase of negotiations. Wang said China will work with parties to support the talks and set three priorities: consolidate a comprehensive ceasefire and prevent fighting from restarting; restore normal navigation through the Strait of Hormuz as soon as possible to protect global supply chains, with arrangements that respect littoral sovereignty and international practice; and support Middle Eastern states in improving ties and exploring a new regional security architecture to reduce major‑power rivalry and strengthen regional strategic autonomy.
 
 ---
 
@@ -22636,341 +22816,5 @@ Hungary's central bank says the global risk environment has become more favorabl
 ### 2026-06-23 21:11:05  #公司 #觀點 #國際
 
 【摩根大通：亞馬遜Prime Day活動銷售額最高可達80億美元】摩根大通的分析師表示，預計亞馬遜為期四天的Prime活動將在第二季度創造70億至80億美元的全球增量收入。亞馬遜於週二啟動了第12屆年度Prime Day活動，這項為期四天的活動在超過35個國家提供數以百萬計的優惠。這是自2021年以來Prime Day首次在第二季度舉行。摩根大通的分析師認為，提前舉行將有助於亞馬遜創造更多需求，同時避開世界盃和美國建國250週年紀念日的影響。摩根大通的分析師預計，活動期間第三方銷售額的日均增長率將為6%，直接銷售的日均增長率將為7%。
-
----
-
-### 2026-06-23 21:10:58  #MKT News
-
-Hungarian central bank said forint appreciation and declines in energy and food prices have reduced inflation.
-
----
-
-### 2026-06-23 21:10:46  #宏觀
-
-【2025年廣告業務收入首次站上兩萬億元臺階】市場監管總局廣告監管司一級巡視員劉輝23日在專題釋出會上介紹，從規模體量看，廣告業實現了跨越式增長。2025年廣告業務收入達到20502.1億元，較2024年增長32.6%，首次站上兩萬億元臺階，“十四五”期間行業規模實現翻番，年均複合增速達16.8%，市場規模穩居全球第二位。京津冀、長三角、粵港澳等核心增長極叢集成勢，不僅築牢了國內產業高地，更推動了國際化程序的加速。（上證報）
-
----
-
-### 2026-06-23 21:10:39  #MKT News #Macro & Rates
-
-Hungary central bank governor says a stronger forint has curbed price growth.
-
----
-
-### 2026-06-23 21:10:24  #央行 #市場
-
-匈牙利央行行長：福林走強抑制物價漲幅。
-
----
-
-### 2026-06-23 21:09:40  #其他
-
-【新質視聽產業發展大會今日在上海舉辦】6月23日，第31屆上海電視節國際影視市場新質視聽產業發展大會舉辦。本次大會以“智啟新程・跨界共生”為主題，聚焦人工智慧與超高畫質技術深度融合，邀請了350餘位行業代表共同探討新質視聽產業發展新路徑。大會期間，現場舉行了三場簽約儀式，涉及產學研協同、市區聯動與跨界合作等方面。其中，智慧媒體制播應用國家廣播電視總局重點實驗室新增華東師範大學、上海大學、摩爾執行緒、九章雲極等共建單位。主題報告環節，與會嘉賓從政策引導、技術突破到產業落地等角度，全方位呈現了視聽技術變革從理念到實踐的全景圖卷。（央視新聞）
-
----
-
-### 2026-06-23 21:09:27  #公司 #國際
-
-依視路陸遜梯卡集團：Meta智慧眼鏡現已在美國、加拿大、英國、法國、義大利、德國、西班牙及其他歐洲國家發售。
-
----
-
-### 2026-06-23 21:09:19  #其他
-
-歐元跌至一年低位1.1382美元。
-
----
-
-### 2026-06-23 21:09:10  #公司 #國際
-
-印度投資和公共資產管理司（DIPAM）秘書表示：政府計劃減持印度鐵路金融公司（IRFC）1%的股份，同時額外設定1%的綠鞋期權。
-
----
-
-### 2026-06-23 21:08:40  #MKT News #Market Regions #Europe & UK #GBPUSD #Impact bearish
-
-【Analyst: UK preliminary PMI signals sharp slowdown in GDP growth】RBC Capital Markets analyst Cathal Kennedy said June's preliminary UK composite PMI, which measures services and manufacturing activity, fell to 49.4 from 49.7 in May and missed the Wall Street Journal survey economists' average forecast of 50.3, suggesting GDP growth may slow sharply over the coming quarters.
-
----
-
-### 2026-06-23 21:08:31  #MKT News
-
-【Russian deputy foreign minister says no U.S.-Russia strategic stability talks under way】Russian Deputy Foreign Minister Sergei Ryabkov said on the 23rd there are currently no U.S.-Russia strategic stability talks. He said Moscow recognizes the importance of strategic stability amid global turbulence but that dialogue requires certain conditions, chiefly a positive shift in U.S. policy toward Russia — "there has been no such shift so far." Ryabkov added Russia has noticed signals from Washington indicating a willingness to discuss strategic stability topics and that talks could be bilateral rather than multilateral.
-
----
-
-### 2026-06-23 21:07:59  #MKT News #Market Themes #Chip Wars #MU.O #Impact bullish #WDC.O #005930.KS
-
-【Phison CEO Pan Jiancheng: NAND Flash shortages irreversible; orders booked through 2027 Q2】Phison Electronics CEO Pan Jiancheng said NAND Flash supply remains tight and shortages are deepening. He expects supply-demand tightness in H2 to far exceed H1 and to worsen next year, warning the shortage will become a long-term, irreversible trend. Phison’s order book currently extends into Q1–Q2 2027.
-
----
-
-### 2026-06-23 21:07:44  #觀點
-
-高盛股票業務交易額將突破50億美元，向新紀錄邁進。
-
----
-
-### 2026-06-23 21:07:34  #國際
-
-【俄副外長：俄美目前沒有進行戰略穩定對話】俄羅斯副外長里亞布科夫23日證實，俄美目前沒有進行戰略穩定對話。俄方承認戰略穩定在當前動盪世界中的重要性，但對話需要具備一定條件，首先是美國在對俄政策方面出現積極轉變，“目前尚無這樣的轉變”。里亞布科夫同時指出，俄方注意到美方發出了一些訊號，表明可以討論戰略穩定相關議題。他說，戰略穩定對話不一定要透過多邊渠道，雙邊也可以。（央視新聞）
-
----
-
-### 2026-06-23 21:06:41  #MKT News #GS.O #Impact bullish
-
-Goldman Sachs' equities trading turnover is set to exceed $5 bln, approaching a new record.
-
----
-
-### 2026-06-23 21:06:31  #國際
-
-阿富汗塔利班發言人：與歐盟官員的會晤於週二在布魯塞爾舉行。
-
----
-
-### 2026-06-23 21:05:40  #其他
-
-超微電腦擴大邊緣人工智慧解決方案產品組合，推出面向低延遲推理與工業部署最佳化、採用英特爾方案的平臺。
-
----
-
-### 2026-06-23 21:05:30  #其他
-
-訊息稱 STADA 正考慮以 60 億歐元收購 CVC 旗下 Cooper Consumer。
-
----
-
-### 2026-06-23 21:05:03  #央行 #其他
-
-匈牙利央行表示，即使立即取消價格上限，通脹率仍不會超出央行設定的3%目標區間。
-
----
-
-### 2026-06-23 21:04:58  #MKT News #Star Stocks #NVIDIA #Market Themes #Magnificent 7 #NVDA.O
-
-NVIDIA (NVDA.O) released BIONEMO, an agent toolkit designed to accelerate scientific discovery.
-
----
-
-### 2026-06-23 21:04:52  #央行 #其他
-
-匈牙利央行表示，今年剩餘時間及明年，通脹率將持續低於該行3%的政策目標。
-
----
-
-### 2026-06-23 21:04:43  #其他
-
-科技記者古爾曼： Meta 眼鏡業務負責人表示，蘋果將成為該領域實力強勁的新晉對手。他稱蘋果設計功底出眾，且蘋果會刻意讓自家頭顯相比 Meta 裝置擁有更好的 iPhone 適配能力。
-
----
-
-### 2026-06-23 21:04:31  #央行 #其他
-
-匈牙利央行表示，與3月通脹報告相比，6月預測中的通脹路徑已大幅下移。
-
----
-
-### 2026-06-23 21:04:28  #央行 #國際
-
-匈牙利央行表示，受伊朗衝突持續影響，企業漲價預期略有抬升。
-
----
-
-### 2026-06-23 21:04:13  #央行 #其他
-
-匈牙利央行表示，近幾個月來家庭通脹預期顯著下降。
-
----
-
-### 2026-06-23 21:04:08  #央行 #其他
-
-匈牙利央行表示，與能源進口覆蓋相關的歐元出售交易機制將維持至6月30日。
-
----
-
-### 2026-06-23 21:03:59  #央行 #其他
-
-匈牙利央行表示，是否繼續（相關舉措）將根據9月通脹報告作出決定。
-
----
-
-### 2026-06-23 21:03:51  #央行 #其他
-
-匈牙利央行：預計2028年通脹率為3.0%，與此前預測報告中的市場預期一致。
-
----
-
-### 2026-06-23 21:03:42  #央行 #其他
-
-匈牙利央行預計2027年居民消費價格指數漲幅2.3%，此前預測值為3.7%。
-
----
-
-### 2026-06-23 21:03:34  #其他
-
-Meta與依視路陸遜梯卡合作推出Meta智慧眼鏡。
-
----
-
-### 2026-06-23 21:03:26  #MKT News #Star Stocks #Meta Platforms #Market Themes #Magnificent 7
-
-Meta Platforms (META.O) and EssilorLuxottica launched a range of co-branded eyeglass styles, priced from $299.
-
----
-
-### 2026-06-23 21:03:07  #央行 #其他
-
-匈牙利央行表示，全球風險環境已變得更為有利，這些因素顯著拓寬了貨幣政策的操作空間。
-
----
-
-### 2026-06-23 21:02:54  #國際
-
-美國農業部（USDA）：出口商向墨西哥售出10萬噸玉米，其中3萬噸將於2025/2026市場年度交付，7萬噸將於2026/2027市場年度交付。
-
----
-
-### 2026-06-23 21:02:52  #央行 #其他
-
-匈牙利央行表示，6月預測的基準情景面臨均衡的通脹風險與上行增長風險。
-
----
-
-### 2026-06-23 21:02:49  #其他
-
-【亞太經合組織第十三屆旅遊部長會議將於澳門舉行】澳門特區政府23日釋出訊息稱，亞太經合組織（APEC）第十三屆旅遊部長會議及第六十七次旅遊工作組會議將於6月24日至28日在澳門舉行。24日將率先召開旅遊工作組會議，相關的場地設定、接待安排及安保工作已準備就緒，與會代表陸續抵澳。 澳門特區政府表示，中國澳門將以“客席經濟體”身份參與第六十七次旅遊工作組會議，向APEC成員經濟體的與會代表分享澳門旅遊業的發展現況和未來動向，進一步提升澳門在有關國際組織的參與度及影響力。 旅遊工作組會議後，亞太經合組織（APEC）第十三屆旅遊部長會議將於6月27日在中國與葡語國家商貿合作服務平臺綜合體舉行，當天下午將舉行成果釋出會。澳門特區政府及國家文化和旅遊部也將於6月26日為來澳參與會議的各方高階別代表舉辦歡迎晚宴。 據介紹，亞太經合組織（APEC）第十三屆旅遊部長會議目前已登記的與會代表超過200人，他們將在會議期間深入交流旅遊業可持續發展經驗，共拓亞太旅遊合作新路徑。（大灣區之聲）
-
----
-
-### 2026-06-23 21:02:35  #Trading Economics #Markets #Commodity #Importance 1
-
-Baltic Dry Index Falls for 2nd Day — The Baltic Exchange's dry bulk freight index, which monitors rates for ships carrying dry bulk commodities, was down for a second session on Tuesday, falling about 0.6% to 2,667 points, amid broad-based declines across vessel segments. The capesize index, which typically transports 150,000-ton cargoes including iron ore and coal, decreased by 0.7% to its lowest since June 18 at 4,046 points; and the panamax index, which tracks vessels carrying around 60,000 to 70,000 tons of coal or grain, eased 0.7% to 2,045 points. Among smaller vessels, the supramax index fell by 0.6% to 1,705 points.
-
----
-
-### 2026-06-23 21:02:05  #央行 #其他
-
-匈牙利央行預測2027年國內生產總值增速為3.0%。
-
----
-
-### 2026-06-23 21:01:50  #其他
-
-CoreWeave被指定為BattleBots官方人工智慧雲合作伙伴。
-
----
-
-### 2026-06-23 21:01:48  #MKT News #Market Regions #Emerging Markets
-
-Hungary's central bank says there is room for further rate cuts.
-
----
-
-### 2026-06-23 21:01:34  #央行 #其他
-
-匈牙利央行表示，致力於以可持續方式實現通脹目標。
-
----
-
-### 2026-06-23 21:01:18  #MKT News #Copper #Impact bullish #US10Y #Impact bearish
-
-BofA: For the first time since 2023, a majority of consumers say buying a home is more advantageous in the current market environment.
-
----
-
-### 2026-06-23 21:01:13  #其他
-
-沃爾瑪擬收購VIBE.CO。
-
----
-
-### 2026-06-23 21:01:05  #央行 #國際
-
-歐洲央行稱外匯儲備增加3億歐元，達到3445億歐元。
-
----
-
-### 2026-06-23 21:00:56  #央行 #其他
-
-匈牙利央行表示，如果有利形勢持續，整個夏季仍有進一步降息的空間。
-
----
-
-### 2026-06-23 21:00:52  #其他
-
-英偉達推出 BioNeMo 智慧工具套件。
-
----
-
-### 2026-06-23 21:00:29  #國際
-
-美國銀行研究顯示，自2023年以來，美國消費者首次認為買房優於租房。
-
----
-
-### 2026-06-23 21:00:22  #國際
-
-美國銀行：研究顯示，多數消費者認為在當前市場購房更為划算，為2023年以來首次。
-
----
-
-### 2026-06-23 21:00:21  #MKT News #Important #Commodities #Precious Metals #Industrial Metals #Copper #Impact bearish #XAUUSD
-
-China night futures session opened; main domestic contracts were mostly lower. SHFE silver fell nearly 4%; SHFE tin and nickel dropped more than 2%. Propylene, SHFE zinc, polypropylene, coke, fuel oil, SHFE gold, BR rubber, SHFE aluminium and SHFE copper declined over 1%. Rapeseed meal rose more than 1%.
-
----
-
-### 2026-06-23 21:00:20  #MKT News #Commodities #Energy #WTI #Impact bearish #Brent
-
-【North Sea crude weakens as Middle East barrels return to market】North Sea crude weakened as a fresh wave of Middle East barrels flooded Europe, boosting concern about potential oversupply after the Strait of Hormuz reopened. In S&P Global Commodity Insights’ Platts pricing window, Forties crude — one of six grades underpinning the global spot Brent benchmark — fell on Monday to a two-year low, while WTI Midland slipped to a three-month low. Dubai benchmark softened and its spread moved further into contango, a typical signal of ample supply. Traders say shipments via the Strait of Hormuz have not fully normalized, but market anxiety over excess supply is rising.
-
----
-
-### 2026-06-23 21:00:18  #國際
-
-美國銀行：過去一年，每5名潛在買家及現有房主中就有1人使用人工智慧工具/聊天機器人開展購房調研。
-
----
-
-### 2026-06-23 21:00:03  #市場
-
-【國內期貨夜盤開盤】白銀連續跌4.03%，鉑連續跌3.05%，鈀連續跌3.01%，錫連續跌2.33%，丙烯連續跌2.10%。
-
----
-
-### 2026-06-23 21:00:03  #市場 #焦點
-
-白銀連續主力合約日內跌4%，現報14919.00元。
-
----
-
-### 2026-06-23 20:59:26  #MKT News #Market Regions #Europe & UK #Japan & APAC
-
-Italy's defense minister said Italy is advancing the Global Combat Air Programme (GCAP) with the UK and Japan and expects other countries to join.
-
----
-
-### 2026-06-23 20:58:28  #市場
-
-彪馬股價下跌8%；伯恩斯坦將第二季度銷售預期下調至低於市場預期。
-
----
-
-### 2026-06-23 20:58:20  #其他
-
-【旗下產品單週淨值跌超15%，半夏投資李蓓回應】半夏投資創始人李蓓旗下基金淨值顯著回撥引發外界關注，其本人做出回應。李蓓在致投資人的信中解釋稱，上週（6月15日-6月18日）基金淨值顯著回撥，主要原因是能源、地產、消費和建材四個方向的權益持倉均大跌。基於風控要求，上週已經適度降低倉位，清掉不夠高確定性的持倉，保留從兩年的角度來看，高度確定可以有較高絕對收益的持倉。值得注意的是，李蓓在信中特別提示了AI板塊的風險，她直言：“如果投資人已經失去了耐心，不想再看我們的分析和展望，我完全理解。如果有投資人想贖回基金持幣觀望等右側再入場，我也尊重。但如果投資人想拿這筆錢去追AI，就算你罵我，我也想勸一句，千萬要慎重。”（介面）
-
----
-
-### 2026-06-23 20:58:05  #MKT News #ORCL.N #Impact bearish
-
-Oracle (ORCL.N) filed a prospectus supplement, adding placement agents for a $20 billion equity offering.
-
----
-
-### 2026-06-23 20:57:50  #國際
-
-義大利國防部長表示：我們正與英國、日本共同推進全球作戰空中計劃（GCAP）專案，我認為其他國家也會加入。
 
 ---
