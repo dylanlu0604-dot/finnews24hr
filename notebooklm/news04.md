@@ -1,7 +1,7 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-06-27 20:07:25_
-_本檔包含 3533 則快訊，約 672649 字_
+_更新時間：2026-06-27 20:11:16_
+_本檔包含 3528 則快訊，約 672119 字_
 
 ---
 
@@ -21305,35 +21305,5 @@ Reserve Bank of India says India's crude oil basket prices remain elevated.
 ### 2026-06-22 20:30:01  #MKT News #Economic Calendar #Important
 
 Canada | Core CPI (YoY) (May) | actual 2.2% | previous 2.1%
-
----
-
-### 2026-06-22 20:30:01  #MKT News #Economic Calendar #Important
-
-Canada | Core CPI (MoM) (May) | actual 0.6% | previous 0.2%
-
----
-
-### 2026-06-22 20:30:01  #MKT News #Economic Calendar #Important
-
-Canada | CPI (YoY) (May) | actual 3.2% | consensus 3.00% | previous 2.80%
-
----
-
-### 2026-06-22 20:30:01  #MKT News #Economic Calendar #Important
-
-Canada | CPI (MoM) (May) | actual 1% | consensus 0.80% | previous 0.40%
-
----
-
-### 2026-06-22 20:29:45  #公司
-
-【邁克生物：公佈回購股份前十大股東及無限售條件股東持股情況】邁克生物公告稱，公司於2026年6月18日董事會審議透過回購股份方案，擬用5000萬元 - 1億元自有資金以集中競價回購股份用於登出並減資。現公佈董事會公告回購決議前一交易日（6月18日）登記在冊的前十名股東和前十名無限售條件股東情況，前者中唐勇持股68062301股，佔比11.26%；後者中郭雷持股28219631股，佔無限售條件流通股份比例5.74%。
-
----
-
-### 2026-06-22 20:29:35  #MKT News #Important #Commodities #Precious Metals #XAUUSD
-
-Reserve Bank of India said India’s gold reserves were 880.52 tonnes on May 29, unchanged from 880.52 tonnes on May 22.
 
 ---
