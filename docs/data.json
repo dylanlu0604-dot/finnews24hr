@@ -1,7 +1,19 @@
 {
-  "updated": "2026-06-28 04:20:37",
+  "updated": "2026-06-28 04:24:39",
   "count": 18147,
   "items": [
+    {
+      "id": "te:markets:562344",
+      "time": "2026-06-28 04:23:11",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Spain",
+        "stocks",
+        "Importance 0"
+      ],
+      "text": "Iberdrola Stock Price Hits Near 15-year High — Iberdrola shares increased to 21.98 EUR, the highest since August 2011. Over the past 4 weeks, Iberdrola gained 10.19%, and in the last 12 months, it increased 32.86%."
+    },
     {
       "id": "4958602",
       "time": "2026-06-28 04:18:24",
@@ -166019,14 +166031,6 @@
         "國際"
       ],
       "text": "【萬斯啟程參加美伊談判，霍爾木茲海峽通行問題懸而未決】黎巴嫩南部戰事升級導致談判推遲後，美國副總統萬斯即將啟程前往瑞士，參與同伊朗的磋商。美伊雙方簽署的諒解備忘錄為談判鋪平道路，談判核心議題包括伊朗鈾加工活動，以及銷燬或稀釋伊朗現有高濃縮鈾庫存。伊朗再度封鎖霍爾木茲海峽航運通道，稱以色列違反停火協議；併發出警告，今後船舶穿越該水道必須獲得伊朗許可、投保強制保險。"
-    },
-    {
-      "id": "4945986",
-      "time": "2026-06-21 04:20:37",
-      "tags": [
-        "國際"
-      ],
-      "text": "萬斯將赴瑞士參與對伊朗談判。"
     }
   ]
 }
