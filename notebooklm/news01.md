@@ -1,7 +1,103 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-06-28 00:35:44_
-_本檔包含 3461 則快訊，約 671459 字_
+_更新時間：2026-06-28 01:04:16_
+_本檔包含 3469 則快訊，約 671364 字_
+
+---
+
+### 2026-06-28 01:02:12  #公司 #國際
+
+【亞馬遜會員日線上總消費額超Adobe預期】Adobe資料顯示，亞馬遜一年一度會員日活動期間，美國全品類零售商線上消費總額達264億美元。Adobe稱，本次活動總消費額較去年會員日增長9.3%，各大零售商折扣力度與去年基本持平。消費者調研機構Numerator的資料顯示，四天活動裡，每戶家庭在亞馬遜平臺平均消費143美元，較去年活動下降8.3%。
+
+---
+
+### 2026-06-28 01:00:44  #公司 #其他
+
+【戀與深空致歉】6月28日，《戀與深空》深夜發文致歉，就新角色敖尹相關內容呈現不當、引發玩家擔憂致歉。官方承諾會保障所有男主劇情穩定更新，延續原有角色故事，穩步產出高質量內容。同時上線福利，玩家7月23日前可登入領取許願券，以優質內容回饋玩家。
+
+---
+
+### 2026-06-28 00:57:24  #國際
+
+國際事務研究員沙布拉馬·亞辛：伊朗在霍爾木茲海峽的攻擊是試圖改善與華盛頓談判條件的嘗試，而美國迅速的回應挫敗了這一嘗試。
+
+---
+
+### 2026-06-28 00:56:21  #MKT News #XAUUSD #Impact bullish #WTI #DXY
+
+【Israeli defense minister says IDF ordered to prepare for long-term deployment in southern Lebanon 'security zone'】Defense Minister Katz said a framework agreement with Lebanon could, for the first time in decades, create a new security reality on Israel’s northern border. He said Israel will maintain current deployments and continue to control the southern Lebanon “security zone,” including the Beaufort Heights. Katz said Israeli withdrawal is conditional on Hezbollah’s full disarmament across Lebanon and that he and Prime Minister Netanyahu have instructed the IDF to prepare for a long-term presence in the zone. He added Iran’s attempts to pressure the US to force an Israeli pullback have failed and warned Israel would respond forcefully if Iran attacks to block the deal’s implementation.
+
+---
+
+### 2026-06-28 00:55:54  #國際
+
+【以防長：已指示以軍做好長期駐留黎南部“安全區”的準備】當地時間27日，以色列國防部長卡茨發表宣告稱，以色列與黎巴嫩達成的框架協議有望在幾十年來首次在以北部邊境和黎巴嫩塑造一個全新的、更安全的現實。卡茨表示，以色列將在黎巴嫩“維持現有部署”，將繼續控制由以方劃定的黎南部“安全區”，包括博福特高地。以色列從黎巴嫩撤軍的先決條件是，真主黨必須在黎巴嫩全境解除武裝。卡茨稱，他與以總理內塔尼亞胡已經“指示以色列國防軍做好在‘安全區’長期駐留的準備”。（央視新聞）
+
+---
+
+### 2026-06-28 00:50:31  #焦點 #國際
+
+伊朗國家電視臺：多艘船舶此前未經許可通行海峽遭鳴槍警告，如今更多船隻主動向伊朗申請霍爾木茲海峽通行許可。
+
+---
+
+### 2026-06-28 00:50:19  #焦點 #國際
+
+伊朗最高領袖顧問雷扎伊稱，美國在霍爾木茲海峽製造緊張局勢，違反停戰備忘錄。
+
+---
+
+### 2026-06-28 00:48:24  #MKT News
+
+French Foreign Ministry says it is willing to contribute to implementation of a framework agreement between Lebanon and Israel.
+
+---
+
+### 2026-06-28 00:47:50  #國際
+
+以色列國防部長卡茨表示，他已同內塔尼亞胡一同下令軍隊，做好長期駐守黎巴嫩南部的準備。
+
+---
+
+### 2026-06-28 00:47:12  #國際
+
+法國外交部：願為落實黎以框架協議提供支援。
+
+---
+
+### 2026-06-28 00:47:03  #其他
+
+法國通報：自6月18日以來，已有74人因熱浪溺水身亡。
+
+---
+
+### 2026-06-28 00:46:41  #國際
+
+法國外交部表示：以色列與黎巴嫩的框架協議必須為黎巴嫩完整主權的恢復鋪平道路。
+
+---
+
+### 2026-06-28 00:46:03  #國際
+
+法國外交部：對以色列與黎巴嫩達成協議表示歡迎，並承諾保障兩國安全。
+
+---
+
+### 2026-06-28 00:43:27  #MKT News
+
+【Iran June inf YoY rises to 88.6%】Foreign media on June 27, citing Iranian official data, reported Iran's June inf rose to 88.6% YoY, saying the increase was affected by Middle East hostilities.
+
+---
+
+### 2026-06-28 00:39:42  #國際
+
+沙特外交部長和卡達首相兼外交部長在一次通話中譴責伊朗對巴林的襲擊以及對海上航行的威脅。他們強調需要維護美伊協議、推進談判並達成全面解決方案，以加強地區安全與穩定。
+
+---
+
+### 2026-06-28 00:38:27  #MKT News #Commodities #Energy #WTI #Impact bullish #Brent #XAUUSD
+
+【After U.S. strikes, Iran launches drone attack on Bahrain; oil tanker hit】Iran on Saturday launched drone strikes on Bahrain and attacked a vessel in the Strait of Hormuz, an action described as likely retaliation for a U.S. overnight strike. U.S. Central Command said on June 26 it had struck Iranian targets in response to Iran’s attacks on merchant ships. The International Maritime Organization said Saturday it will expand a transit lane near Oman to allow two-way traffic; Tehran views the strait as a bargaining chip in ongoing talks with Washington, a dynamic that underscores risks of further escalation.
 
 ---
 
@@ -20854,53 +20950,5 @@ Japan's Nikkei 225 opened down 668.60 points, or 0.92%, at 71,697.74 on Friday, 
 ### 2026-06-26 07:46:37  #MKT News #Market Regions #Greater China
 
 【China launches 12th national centralized volume-based drug procurement covering 65 drugs】The National Healthcare Security Administration has launched the 12th national centralized volume-based drug procurement, including 65 drug products. The selection covers oncology and key chronic-disease therapies.
-
----
-
-### 2026-06-26 07:46:25  #市場 #國際
-
-基準10年期日本國債期貨早盤下跌0.16點。
-
----
-
-### 2026-06-26 07:46:11  #市場 #國際
-
-日本日經平均指數期貨早盤下跌1.85%。
-
----
-
-### 2026-06-26 07:45:21  #公司
-
-【必和必拓任命Jessica Farrell為北美區總裁，自7月1日起生效】6月26日，必和必拓宣佈任命Jessica Farrell為北美區總裁，自2026年7月1日起生效。據介紹，Farrell現任創新副總裁，此前曾任西澳大利亞鎳礦資產總裁。其還將兼任南美區總裁一職，直至該職位的招聘工作完成。
-
----
-
-### 2026-06-26 07:43:49  #Trading Economics #Markets #Commodity #Importance 0
-
-Brent Resumes Decline After Hormuz Incident — Brent eased below $75 per barrel on Friday, giving back some of the previous session's gains as investors assessed rising shipping activity through the Strait of Hormuz despite a vessel being struck by an unidentified projectile off the coast of Oman. The incident revived security concerns and heightened fears that Iran could exert greater control over traffic in the key waterway, while several commercial ships turned back, threatening the progress achieved through US-Iran peace efforts. Washington and Tehran continue to negotiate a permanent agreement to end the conflict, though talks on key issues such as nuclear policy are expected to remain prolonged. Even with the latest disruption, oil flows from the Persian Gulf through Hormuz reached their fastest pace since the war began. Middle Eastern producers are ramping up output despite difficulties securing enough tankers to transport the additional crude. Brent crude is on track for a third straight weekly drop.
-
----
-
-### 2026-06-26 07:43:22  #其他
-
-澳大利亞證券交易所：將稽核新獲准上市實體的私人信貸投資披露事項，以及關鍵股東批准規則。
-
----
-
-### 2026-06-26 07:42:59  #Trading Economics #Markets #Commodity #Importance 2
-
-Oil Resumes Decline After Hormuz Incident — Crude oil eased below $72 per barrel on Friday, giving back some of the previous session's gains as investors assessed rising shipping activity through the Strait of Hormuz despite a vessel being struck by an unidentified projectile off the coast of Oman. The incident revived security concerns and heightened fears that Iran could exert greater control over traffic in the key waterway, while several commercial ships turned back, threatening the progress achieved through US-Iran peace efforts. Washington and Tehran continue to negotiate a permanent agreement to end the conflict, though talks on key issues such as nuclear policy are expected to remain prolonged. Even with the latest disruption, oil flows from the Persian Gulf through Hormuz reached their fastest pace since the war began. Middle Eastern producers are ramping up output despite difficulties securing enough tankers to transport the additional crude. WTI crude is on track for a third straight weekly drop.
-
----
-
-### 2026-06-26 07:42:46  #市場
-
-【“錫箭錫星”新品集中亮相 無錫持續加碼佈局商業航天】6月25日，由中國遙感應用協會、中國國防工業企業協會聯合主辦的2026無錫商業航天與空間資訊科技大會暨展覽會在太湖國際博覽中心開幕，會上集中釋出了液氧甲烷發動機、衛星太陽翼、商業空間站平臺等10款“錫箭錫星”新品。證券時報記者採訪瞭解到，在商業航天這條黃金賽道上，無錫持續加碼佈局，國內大半頭部民營火箭企業，均獲得無錫國資戰略投資加持。如今，當地已經形成“星箭協同、芯網融合、場景賦能、生態支撐”的產業格局，成為中國商業航天版圖中的重要一極。尤其在火箭製造領域，無錫已經在大推力發動機、整箭以及貯箱等核心部件領域形成較強制造能力，基本具備“不出市域即可完成整箭整合”的產業基礎。
-
----
-
-### 2026-06-26 07:42:34  #市場 #國際
-
-【日經指數可能因獲利回吐而下跌】在基準指數週四創下收盤歷史新高後，日本股市可能因獲利回吐而下跌。國內科技股也可能受到納斯達克綜合指數隔夜下跌的拖累，因為美光科技強勁的業績未能提振更廣泛的科技板塊。在新加坡交易所，日經指數期貨下跌785點，至71,615點。日經指數週四上漲4.6%，至72,366.34點。
 
 ---

@@ -1,7 +1,163 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-06-28 00:35:44_
-_本檔包含 3519 則快訊，約 671370 字_
+_更新時間：2026-06-28 01:04:16_
+_本檔包含 3520 則快訊，約 671237 字_
+
+---
+
+### 2026-06-23 23:14:03  #央行 #資料 #市場
+
+加拿大央行行長麥克勒姆：食品通脹令人擔憂。沒有證據表明存在“普遍性”的通脹。我們預計CPI將上漲至約3%，5月CPI壓力主要集中在能源領域。
+
+---
+
+### 2026-06-23 23:13:52  #MKT News #GBPUSD #Impact bearish #DXY #Impact bullish #EURUSD
+
+Bank of England rate-setter Taylor said his baseline view is that inflation's pass-through to wages currently resembles 2011 rather than 2022.
+
+---
+
+### 2026-06-23 23:13:47  #MKT News #DXY #Impact bearish
+
+BOC Governor Macklem: food inflation is worrying.
+
+---
+
+### 2026-06-23 23:13:34  #MKT News #Market Regions #Europe & UK #GBPUSD #Impact bearish
+
+Bank of England MPC member Taylor said the UK has not yet seen clear second-round effects.
+
+---
+
+### 2026-06-23 23:13:04  #MKT News #DXY #Impact bearish #XAUUSD #Impact bullish #WTI
+
+BOC Governor MACKLEM said there is no evidence of "broad-based" inf.
+
+---
+
+### 2026-06-23 23:12:57  #國際
+
+【巴基斯坦總統會見伊朗總統 】巴基斯坦總統秘書處23日發表宣告說，巴基斯坦總統扎爾達里當天在巴總統府會見了到訪的伊朗總統佩澤希齊揚。雙方就雙邊關係、地區和平與安全、區域互聯互通、經濟合作等問題交換意見。宣告說，巴方堅定支援伊朗維護自身和平、穩定、國家統一、主權和領土完整。巴基斯坦一貫反對單邊舉措，主張透過對話和外交途徑解決地區及全球挑戰，巴方將繼續發展與海灣地區國家的友好關係。（新華社）
+
+---
+
+### 2026-06-23 23:12:54  #MKT News
+
+BOC Governor MACKLEM said the Bank expects CPI to rise to around 3%.
+
+---
+
+### 2026-06-23 23:12:36  #MKT News #Commodities #Energy #WTI #Impact bullish #Brent
+
+BOC Governor Macklem said May CPI pressure was mainly concentrated in the energy sector.
+
+---
+
+### 2026-06-23 23:12:25  #MKT News
+
+BOC Governor Macklem said the bank has not yet observed a significant pass-through from higher oil prices to other goods and services prices.
+
+---
+
+### 2026-06-23 23:12:06  #央行 #其他
+
+加拿大央行行長麥克勒姆： 加拿大央行整體觀察到，迄今為止高油價尚未大範圍傳導至其他商品與服務價格。
+
+---
+
+### 2026-06-23 23:12:02  #MKT News
+
+Macklem: Canada's May CPI was in line with Bank of Canada expectations.
+
+---
+
+### 2026-06-23 23:11:50  #央行 #資料
+
+加拿大央行行長麥克勒姆： 加拿大 5 月 CPI 資料符合加拿大央行預期。
+
+---
+
+### 2026-06-23 23:11:48  #MKT News
+
+BOC Governor Macklem said he expects the Canada-U.S. trade relationship to remain unchanged and that this remains the baseline scenario.
+
+---
+
+### 2026-06-23 23:11:32  #MKT News #S&P500 #Impact bullish #Nasdaq100 #DXY #Impact bearish
+
+A U.S. Democratic senator has called on Federal Reserve Governor Bowman to withdraw the Basel III rules.
+
+---
+
+### 2026-06-23 23:11:12  #央行 #其他
+
+加拿大央行行長麥克勒姆： 即便處於複審階段，《美墨加協定》仍將長期生效。
+
+---
+
+### 2026-06-23 23:10:55  #其他
+
+臺積電股價跌幅擴大至6%，報439.86美元/股，總市值報2.28萬億美元。
+
+---
+
+### 2026-06-23 23:10:03  #MKT News #DXY #Impact bullish
+
+USD/CAD breached 1.42, up 0.33% intraday.
+
+---
+
+### 2026-06-23 23:09:50  #MKT News
+
+IMO said it will begin evacuating 11,000 seafarers from the Middle East and will provide security guarantees for the evacuations.
+
+---
+
+### 2026-06-23 23:09:00  #央行 #其他
+
+加拿大央行行長麥克勒姆： 加美貿易現狀料將維持基準情景。
+
+---
+
+### 2026-06-23 23:08:19  #央行 #其他
+
+加拿大央行行長麥克勒姆：美墨加協定的續簽不太可能在7月1日前完成，談判似乎仍在進行中。前瞻指引中的“虛假精確性”是無益的。
+
+---
+
+### 2026-06-23 23:08:17  #MKT News
+
+Bank of Canada Governor MACKLEM said renewal of the United States–Mexico–Canada Agreement is unlikely to be completed before July 1 and that negotiations appear to still be ongoing.
+
+---
+
+### 2026-06-23 23:08:06  #國際
+
+國際海事組織：將從中東撤離 1.1 萬名海員，已取得海員撤離行動的安全保障承諾。
+
+---
+
+### 2026-06-23 23:07:37  #Trading Economics #Markets #Commodity #Importance 2
+
+US Natgas Prices Edge Down — US natural gas prices declined to $3.2 per MMBtu due to ample storage volumes and updated weather forecasts predicting cooler temperatures. Forecasters expect below-average temperatures in the mid-Atlantic region from June 23 to 27, which will likely reduce power demand for air conditioning. This weather shift follows a mild spring that allowed energy companies to aggressively stockpile gas, keeping domestic inventories approximately 5.8% above normal levels. Furthermore, a reduction in gas flows to US liquefied natural gas export terminals has diverted more supply into the domestic market. This increased availability has overshadowed a slight decline in production, as average daily gas output in the Lower 48 states dipped to 109.5 billion cubic feet so far in June from 109.7 billion cubic feet in May.
+
+---
+
+### 2026-06-23 23:07:10  #市場
+
+Prosus於6月15-19日按均價39.1859歐元回購股票229.1242萬股，合計將近0.898億歐元（摺合約1.037億美元）。
+
+---
+
+### 2026-06-23 23:06:40  #MKT News #Star Stocks #TSLA.O #Impact bearish #Nasdaq100
+
+Tesla (TSLA.O) shares extended losses to 5%.
+
+---
+
+### 2026-06-23 23:06:37  #公司
+
+【仙工智慧：香港公開發售獲5934.56倍認購 全球發售淨籌約9.954億港元】仙工智慧(06106)公佈配發結果，公司全球發售1049.73萬股H股，香港公開發售佔20%，國際發售佔80%。每股發售價101.6港元，全球發售淨籌約9.954億港元。每手50股，預期H股將於2026年6月24日(星期三)上午九時正(香港時間)開始在聯交所交易。其中，香港公開發售獲5934.56倍認購，國際發售獲21.29倍認購。
 
 ---
 
@@ -21098,155 +21254,5 @@ European Council President Costa said the EU-UK summit needs to be postponed.
 ### 2026-06-22 21:16:54  #MKT News #Commodities #Energy #WTI #Impact bearish #Brent
 
 The new U.S. general license authorizes transactions including imports of crude oil, petrochemical products and petroleum products into the United States.
-
----
-
-### 2026-06-22 21:16:51  #Trading Economics #Markets #Canada #Stock Market #Importance 1
-
-TSX Futures Edge Up as Oil Prices Fall — Futures tracking Canada’s S&P/TSX Composite Index edged higher on Monday as investors weighed lower oil prices against stronger-than-expected fresh inflation data. Oil prices declined after US and Iranian officials concluded their first round of talks in Switzerland, easing concerns over energy-driven inflation pressures. Meanwhile, data released on June 22th shows that the annual inflation rate rose to 3.2% in May from 2.8% in April, above market forecasts of 3%. Higher gasoline prices continued to drive the headline increase, as supply uncertainty tied to the closure of the Strait of Hormuz pushed fuel costs higher for a third straight month. However, soft core inflation measures tempered concerns over broader price pressures. Investors also assessed the recent decision by Canada’s banking regulator to lower capital requirements for major lenders, a move seen as supportive for credit growth. Gold prices advanced, lending support to mining shares.
-
----
-
-### 2026-06-22 21:16:34  #國際
-
-歐盟科斯塔：我希望斯塔默的繼任者能保持政策延續性。
-
----
-
-### 2026-06-22 21:16:25  #MKT News
-
-Qatar's energy minister said an investigation is underway into the cause of an explosion and that the incident has not affected the country's export capacity.
-
----
-
-### 2026-06-22 21:16:03  #MKT News #Important #Commodities #Energy #WTI #Impact bearish #Brent
-
-The US Treasury posted on its website a general license authorizing production, delivery and sale of crude oil, petrochemical and petroleum products originating in Iran through Aug 21, 2026.
-
----
-
-### 2026-06-22 21:15:53  #其他
-
-卡達：油田的能源設施和運營未受影響。
-
----
-
-### 2026-06-22 21:15:08  #宏觀 #國際
-
-美國財政部網站釋出訊息：普通許可授權的交易包括將伊朗原產的原油、石化產品及石油產品進口至美國。
-
----
-
-### 2026-06-22 21:15:04  #市場
-
-WTI原油日內跌2%，現報74.33美元/桶。
-
----
-
-### 2026-06-22 21:14:25  #公司 #市場 #央行 #國際
-
-寶盛集團：即將公佈的美國經濟資料可能引發美國國債市場的波動。2026年下半年美國10年期國債收益率可能小幅回落至4.30%。美國就業市場可能沒有近期資料所暗示的那樣強勁。德國國債比美國國債更具吸引力。預計美聯儲將在2026年維持利率不變，歐洲央行將再加息一次。
-
----
-
-### 2026-06-22 21:13:52  #其他
-
-卡達能源部長：我們目前正在調查爆炸事故的起因，此次爆炸未對我們的出口能力造成影響。
-
----
-
-### 2026-06-22 21:13:04  #宏觀 #公司 #國際
-
-美國財政部官網釋出公告：美國通用許可證授權，截至2026年8月21日，可生產、交付及銷售伊朗原產原油、石化產品與石油產品。
-
----
-
-### 2026-06-22 21:13:00  #MKT News #Commodities #Energy
-
-Qatar's energy minister said the explosion at the Ras Laffan gas plant was an accident, not the result of an attack or sabotage.
-
----
-
-### 2026-06-22 21:12:57  #其他
-
-卡達能源部長表示，已啟動對事故原因的調查。
-
----
-
-### 2026-06-22 21:12:40  #市場
-
-德國國債延續漲勢；2年期國債收益率下跌5個基點至2.59%。
-
----
-
-### 2026-06-22 21:12:35  #MKT News #Macro & Rates #The Fed (FOMC) #EURUSD #Impact bullish #DXY #Impact bearish
-
-Baosheng Group expects the Federal Reserve to keep policy rates unchanged in 2026 and the European Central Bank to deliver one further rate hike.
-
----
-
-### 2026-06-22 21:12:33  #國際
-
-美國授權出售部分伊朗原油。
-
----
-
-### 2026-06-22 21:12:25  #其他
-
-卡達能源部長表示，已有13人遇難。
-
----
-
-### 2026-06-22 21:12:16  #MKT News #Macro & Rates #Treasury Yields #EURUSD #Impact bullish #DXY #Impact bearish #US10Y
-
-Baosheng Group says German Bunds are more attractive than US Treasuries.
-
----
-
-### 2026-06-22 21:12:12  #宏觀 #國際
-
-美國財政部網站釋出與伊朗相關的一般許可證。
-
----
-
-### 2026-06-22 21:11:53  #MKT News #Macro & Rates #US Economy #DXY #Impact bearish #S&P500 #Impact bullish #US10Y
-
-Baosheng Group says the US labor market may not be as strong as recent data suggests.
-
----
-
-### 2026-06-22 21:11:40  #MKT News #Macro & Rates #Treasury Yields #US10Y #Impact bearish #S&P500 #Impact bullish #DXY
-
-Baosheng Group says US 10-year Treasury yield may ease slightly to 4.30% in H2 2026.
-
----
-
-### 2026-06-22 21:11:37  #MKT News #Macro & Rates #Treasury Yields #US10Y #Impact mixed
-
-Baosheng Group said upcoming U.S. economic data may trigger volatility in U.S. Treasuries.
-
----
-
-### 2026-06-22 21:11:33  #其他
-
-卡達能源部長表示，拉斯阿布阿夫丹發生的事件為一起意外事故，並非侵襲或破壞活動。
-
----
-
-### 2026-06-22 21:11:26  #公司 #兩會
-
-【全國人大常委會法工委：註冊會計師法擬大幅提高違法成本】今天（22日），全國人大常委會法制工作委員會在記者會上介紹，十四屆全國人大常委會第二十三次會議6月23日至26日在北京舉行，會議將繼續審議註冊會計師法修正草案，針對上市公司財務造假頻發現象，此次註冊會計師法在法律責任方面也進行了規定。此外，根據各方面意見，註冊會計師草案還擬作幾方面修改：一是增加規定國家支援註冊會計師行業加強誠信建設，提升執業活動規範化專業化水平，促進行業健康發展。二是進一步完善執業原則，增加會計師事務所、註冊會計師堅持誠信、客觀、獨立、公正的原則。三是增加規定註冊會計師協會應當為提升行業服務質量水平，拓展業務領域，實現創新發展提供支援。四是完善法律責任，體現從嚴監管、精準處罰、過罰相當。（央視新聞）
-
----
-
-### 2026-06-22 21:10:48  #MKT News
-
-Argentina approved borrowing from international institutions of up to USD 5 bln, according to an official bulletin.
-
----
-
-### 2026-06-22 21:10:44  #資料 #國際
-
-【加拿大5月份通脹率升至2023年以來最高 受到汽油價格飆升影響】汽油價格飆升推動加拿大通脹升至兩年多來最高水平，不過價格壓力的廣度收窄，而且核心通脹指標變化不大。加拿大統計局週一公佈，5月份消費者價格指數同比漲幅達到3.2%，為2023年12月以來最高水平。彭博調查的經濟學家此前預計5月份CPI同比升幅為3%，高於4月份的2.8%。環比來看，5月份CPI上升1.0%，也高於預期。儘管如此，剔除價格波動較大成分的核心指標顯示，隨著加拿大疲弱的經濟適應人口增長放緩以及美國貿易政策造成的出口損害，潛在價格壓力仍然溫和。
 
 ---

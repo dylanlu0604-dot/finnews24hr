@@ -1,7 +1,55 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-06-28 00:35:44_
-_本檔包含 3787 則快訊，約 671276 字_
+_更新時間：2026-06-28 01:04:16_
+_本檔包含 3773 則快訊，約 671227 字_
+
+---
+
+### 2026-06-26 07:46:25  #市場 #國際
+
+基準10年期日本國債期貨早盤下跌0.16點。
+
+---
+
+### 2026-06-26 07:46:11  #市場 #國際
+
+日本日經平均指數期貨早盤下跌1.85%。
+
+---
+
+### 2026-06-26 07:45:21  #公司
+
+【必和必拓任命Jessica Farrell為北美區總裁，自7月1日起生效】6月26日，必和必拓宣佈任命Jessica Farrell為北美區總裁，自2026年7月1日起生效。據介紹，Farrell現任創新副總裁，此前曾任西澳大利亞鎳礦資產總裁。其還將兼任南美區總裁一職，直至該職位的招聘工作完成。
+
+---
+
+### 2026-06-26 07:43:49  #Trading Economics #Markets #Commodity #Importance 0
+
+Brent Resumes Decline After Hormuz Incident — Brent eased below $75 per barrel on Friday, giving back some of the previous session's gains as investors assessed rising shipping activity through the Strait of Hormuz despite a vessel being struck by an unidentified projectile off the coast of Oman. The incident revived security concerns and heightened fears that Iran could exert greater control over traffic in the key waterway, while several commercial ships turned back, threatening the progress achieved through US-Iran peace efforts. Washington and Tehran continue to negotiate a permanent agreement to end the conflict, though talks on key issues such as nuclear policy are expected to remain prolonged. Even with the latest disruption, oil flows from the Persian Gulf through Hormuz reached their fastest pace since the war began. Middle Eastern producers are ramping up output despite difficulties securing enough tankers to transport the additional crude. Brent crude is on track for a third straight weekly drop.
+
+---
+
+### 2026-06-26 07:43:22  #其他
+
+澳大利亞證券交易所：將稽核新獲准上市實體的私人信貸投資披露事項，以及關鍵股東批准規則。
+
+---
+
+### 2026-06-26 07:42:59  #Trading Economics #Markets #Commodity #Importance 2
+
+Oil Resumes Decline After Hormuz Incident — Crude oil eased below $72 per barrel on Friday, giving back some of the previous session's gains as investors assessed rising shipping activity through the Strait of Hormuz despite a vessel being struck by an unidentified projectile off the coast of Oman. The incident revived security concerns and heightened fears that Iran could exert greater control over traffic in the key waterway, while several commercial ships turned back, threatening the progress achieved through US-Iran peace efforts. Washington and Tehran continue to negotiate a permanent agreement to end the conflict, though talks on key issues such as nuclear policy are expected to remain prolonged. Even with the latest disruption, oil flows from the Persian Gulf through Hormuz reached their fastest pace since the war began. Middle Eastern producers are ramping up output despite difficulties securing enough tankers to transport the additional crude. WTI crude is on track for a third straight weekly drop.
+
+---
+
+### 2026-06-26 07:42:46  #市場
+
+【“錫箭錫星”新品集中亮相 無錫持續加碼佈局商業航天】6月25日，由中國遙感應用協會、中國國防工業企業協會聯合主辦的2026無錫商業航天與空間資訊科技大會暨展覽會在太湖國際博覽中心開幕，會上集中釋出了液氧甲烷發動機、衛星太陽翼、商業空間站平臺等10款“錫箭錫星”新品。證券時報記者採訪瞭解到，在商業航天這條黃金賽道上，無錫持續加碼佈局，國內大半頭部民營火箭企業，均獲得無錫國資戰略投資加持。如今，當地已經形成“星箭協同、芯網融合、場景賦能、生態支撐”的產業格局，成為中國商業航天版圖中的重要一極。尤其在火箭製造領域，無錫已經在大推力發動機、整箭以及貯箱等核心部件領域形成較強制造能力，基本具備“不出市域即可完成整箭整合”的產業基礎。
+
+---
+
+### 2026-06-26 07:42:34  #市場 #國際
+
+【日經指數可能因獲利回吐而下跌】在基準指數週四創下收盤歷史新高後，日本股市可能因獲利回吐而下跌。國內科技股也可能受到納斯達克綜合指數隔夜下跌的拖累，因為美光科技強勁的業績未能提振更廣泛的科技板塊。在新加坡交易所，日經指數期貨下跌785點，至71,615點。日經指數週四上漲4.6%，至72,366.34點。
 
 ---
 
@@ -22715,137 +22763,5 @@ Micron Technology (MU.O) said the mass-production ramp of its 12-layer HBM4 is c
 ### 2026-06-25 04:11:20  #MKT News #WTI #Impact bearish #Brent
 
 U.S. official says Trump will include language in a supplemental appropriations bill to allow year‑round sales of gasoline blended with a higher ethanol share.
-
----
-
-### 2026-06-25 04:10:53  #其他
-
-美光科技：下一代 DRAM 與 NAND 製程研發進展順利，按計劃將於 2027 年下半年啟動量產。
-
----
-
-### 2026-06-25 04:10:28  #Trading Economics #Markets #United States #Stock Market #Importance 2
-
-Wall Street Closes Mixed Ahead of Micron Earnings — US equities closed mixed on Wednesday as losses in chipmakers ahead of Micron earnings weighed. The S&P 500 fell 0.1%, while the Nasdaq 100 lost 0.4%. Micron dropped 0.4% ahead of its earnings report, due after the bell, as investors focus on whether AI-driven demand can sustain the sector’s rally. The move followed a 13% plunge in the previous session amid growing concerns that capital expenditure by AI companies may have become excessive. Other semiconductor producers also traded lower, with Nvidia down 0.7%, and Intel shedding 0.3%. AI-related fundraising remained elevated, with SK Hynix reportedly seeking to raise $29 billion through a US listing, shortly after SpaceX’s record IPO. Other sectors found support from lower Treasury yields as prospects of restored energy exports from the Middle East eased inflation concerns. The Dow Jones outperformed, rising 182 points, aided by its exposure to traditional sectors, ahead of Alphabet replacing Verizon in the index on Monday.
-
----
-
-### 2026-06-25 04:10:25  #國際
-
-美國官員：特朗普將在補充撥款法案中納入全年銷售高乙醇含量汽油的相關條款。
-
----
-
-### 2026-06-25 04:10:08  #其他
-
-美光科技：HBM4 12 層堆疊晶片量產爬坡速度是 HBM3E 12 層堆疊的兩倍；HBM4 相關出貨營收已超 10 億美元。
-
----
-
-### 2026-06-25 04:09:44  #公司 #觀點 #焦點 #國際
-
-摩根大通將股息上調至每股 1.65 美元，計劃實施 500 億美元股票回購。
-
----
-
-### 2026-06-25 04:09:21  #市場
-
-美光科技美股盤後漲超9%。
-
----
-
-### 2026-06-25 04:08:38  #MKT News #Important #MU.O #Impact bullish
-
-Micron Technology (MU.O) extended after-hours gains to 7.5%.
-
----
-
-### 2026-06-25 04:08:26  #其他
-
-美光科技：根據目前已簽署的戰略客戶協議，預計將獲得 220 億美元現金保證金及相關資金承諾。
-
----
-
-### 2026-06-25 04:08:08  #公司 #其他 #焦點 #國際
-
-美光科技：長期來看，我們計劃將全部富餘現金返還給股東。
-
----
-
-### 2026-06-25 04:07:17  #公司 #市場 #國際
-
-Hertz Global（HTZ）股價下跌41%，創該公司美國IPO以來最大單日跌幅。
-
----
-
-### 2026-06-25 04:06:48  #宏觀
-
-美光科技：我們給出的業績指引並未納入貿易或地緣政治局勢變化可能帶來的各類影響。
-
----
-
-### 2026-06-25 04:06:35  #公司
-
-AI初創公司Mirendil按10億美元估值融資2億美元，英偉達、A16Z、Kleiner Perkins參與投資。
-
----
-
-### 2026-06-25 04:06:11  #MKT News #MU.O #Impact bullish
-
-Micron Technology (MU.O) expects adjusted gross margin for the fiscal fourth quarter of about 86%, versus prior guidance of 83.6%.
-
----
-
-### 2026-06-25 04:05:42  #其他
-
-美光科技：受全領域人工智慧相關需求推動，晶片供應緊張局面預計將持續至 2027 年之後。
-
----
-
-### 2026-06-25 04:05:28  #市場
-
-【美元指數24日上漲】衡量美元對六種主要貨幣的美元指數當天上漲0.2%，在匯市尾市收於101.611。截至紐約匯市尾市，1歐元兌換1.1355美元，低於前一交易日的1.1379美元；1英鎊兌換1.3162美元，低於前一交易日的1.3188美元。1美元兌換161.76日元，高於前一交易日的161.57日元；1美元兌換0.8124瑞士法郎，高於前一交易日的0.8100瑞士法郎；1美元兌換1.4237加元，高於前一交易日的1.4214加元；1美元兌換9.7714瑞典克朗，高於前一交易日的9.7466瑞典克朗。
-
----
-
-### 2026-06-25 04:05:24  #MKT News #DXY #Impact bullish #EURUSD #Impact bearish #USDJPY
-
-【Dollar index rises 0.2% to 101.611】Dollar index (DXY), which measures the dollar against six major currencies, rose 0.2% to 101.611. At the New York close EUR/USD 1.1355 (prev. 1.1379); GBP/USD 1.3162 (prev. 1.3188); USD/JPY 161.76 (prev. 161.57); USD/CHF 0.8124 (prev. 0.8100); USD/CAD 1.4237 (prev. 1.4214); USD/SEK 9.7714 (prev. 9.7466).
-
----
-
-### 2026-06-25 04:05:11  #市場
-
-【國際油價24日顯著下跌】截至當天收盤，紐約商品交易所8月交貨的輕質原油期貨價格下跌2.87美元，收於每桶70.34美元，跌幅為3.92%；8月交貨的倫敦布倫特原油期貨價格下跌3.34美元，收於每桶73.74美元，跌幅為4.33%。
-
----
-
-### 2026-06-25 04:05:07  #MKT News #MU.O #Impact bullish
-
-Micron Technology (MU.O): fiscal Q3 operating cash flow was $25.39 billion.
-
----
-
-### 2026-06-25 04:04:58  #MKT News #MU.O
-
-Micron Technology (MU.O) said it expects fourth fiscal quarter EPS of $30.73 ± $1.00.
-
----
-
-### 2026-06-25 04:04:17  #央行 #焦點 #國際
-
-美聯儲：最新壓力測試顯示，32 家大型銀行具備充足抵禦能力，即便遭遇嚴重經濟衰退仍可持續開展放貸業務。接受測試的銀行在假設情景下能夠承受超過7000億美元的損失，資本僅下降1.6%，仍然高於最低監管要求。
-
----
-
-### 2026-06-25 04:03:30  #其他
-
-美光：客戶需求快速增長。
-
----
-
-### 2026-06-25 04:03:18  #MKT News #Important #Market Themes #Chip Wars #MU.O #Impact bullish
-
-Micron Technology (MU.O) reported fiscal 2026 third-quarter EPS of $24.67, versus $20.42 expected and $1.68 a year earlier.
 
 ---

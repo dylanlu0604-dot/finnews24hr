@@ -1,7 +1,157 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-06-28 00:35:44_
-_本檔包含 3526 則快訊，約 671136 字_
+_更新時間：2026-06-28 01:04:16_
+_本檔包含 3532 則快訊，約 671168 字_
+
+---
+
+### 2026-06-22 21:16:51  #Trading Economics #Markets #Canada #Stock Market #Importance 1
+
+TSX Futures Edge Up as Oil Prices Fall — Futures tracking Canada’s S&P/TSX Composite Index edged higher on Monday as investors weighed lower oil prices against stronger-than-expected fresh inflation data. Oil prices declined after US and Iranian officials concluded their first round of talks in Switzerland, easing concerns over energy-driven inflation pressures. Meanwhile, data released on June 22th shows that the annual inflation rate rose to 3.2% in May from 2.8% in April, above market forecasts of 3%. Higher gasoline prices continued to drive the headline increase, as supply uncertainty tied to the closure of the Strait of Hormuz pushed fuel costs higher for a third straight month. However, soft core inflation measures tempered concerns over broader price pressures. Investors also assessed the recent decision by Canada’s banking regulator to lower capital requirements for major lenders, a move seen as supportive for credit growth. Gold prices advanced, lending support to mining shares.
+
+---
+
+### 2026-06-22 21:16:34  #國際
+
+歐盟科斯塔：我希望斯塔默的繼任者能保持政策延續性。
+
+---
+
+### 2026-06-22 21:16:25  #MKT News
+
+Qatar's energy minister said an investigation is underway into the cause of an explosion and that the incident has not affected the country's export capacity.
+
+---
+
+### 2026-06-22 21:16:03  #MKT News #Important #Commodities #Energy #WTI #Impact bearish #Brent
+
+The US Treasury posted on its website a general license authorizing production, delivery and sale of crude oil, petrochemical and petroleum products originating in Iran through Aug 21, 2026.
+
+---
+
+### 2026-06-22 21:15:53  #其他
+
+卡達：油田的能源設施和運營未受影響。
+
+---
+
+### 2026-06-22 21:15:08  #宏觀 #國際
+
+美國財政部網站釋出訊息：普通許可授權的交易包括將伊朗原產的原油、石化產品及石油產品進口至美國。
+
+---
+
+### 2026-06-22 21:15:04  #市場
+
+WTI原油日內跌2%，現報74.33美元/桶。
+
+---
+
+### 2026-06-22 21:14:25  #公司 #市場 #央行 #國際
+
+寶盛集團：即將公佈的美國經濟資料可能引發美國國債市場的波動。2026年下半年美國10年期國債收益率可能小幅回落至4.30%。美國就業市場可能沒有近期資料所暗示的那樣強勁。德國國債比美國國債更具吸引力。預計美聯儲將在2026年維持利率不變，歐洲央行將再加息一次。
+
+---
+
+### 2026-06-22 21:13:52  #其他
+
+卡達能源部長：我們目前正在調查爆炸事故的起因，此次爆炸未對我們的出口能力造成影響。
+
+---
+
+### 2026-06-22 21:13:04  #宏觀 #公司 #國際
+
+美國財政部官網釋出公告：美國通用許可證授權，截至2026年8月21日，可生產、交付及銷售伊朗原產原油、石化產品與石油產品。
+
+---
+
+### 2026-06-22 21:13:00  #MKT News #Commodities #Energy
+
+Qatar's energy minister said the explosion at the Ras Laffan gas plant was an accident, not the result of an attack or sabotage.
+
+---
+
+### 2026-06-22 21:12:57  #其他
+
+卡達能源部長表示，已啟動對事故原因的調查。
+
+---
+
+### 2026-06-22 21:12:40  #市場
+
+德國國債延續漲勢；2年期國債收益率下跌5個基點至2.59%。
+
+---
+
+### 2026-06-22 21:12:35  #MKT News #Macro & Rates #The Fed (FOMC) #EURUSD #Impact bullish #DXY #Impact bearish
+
+Baosheng Group expects the Federal Reserve to keep policy rates unchanged in 2026 and the European Central Bank to deliver one further rate hike.
+
+---
+
+### 2026-06-22 21:12:33  #國際
+
+美國授權出售部分伊朗原油。
+
+---
+
+### 2026-06-22 21:12:25  #其他
+
+卡達能源部長表示，已有13人遇難。
+
+---
+
+### 2026-06-22 21:12:16  #MKT News #Macro & Rates #Treasury Yields #EURUSD #Impact bullish #DXY #Impact bearish #US10Y
+
+Baosheng Group says German Bunds are more attractive than US Treasuries.
+
+---
+
+### 2026-06-22 21:12:12  #宏觀 #國際
+
+美國財政部網站釋出與伊朗相關的一般許可證。
+
+---
+
+### 2026-06-22 21:11:53  #MKT News #Macro & Rates #US Economy #DXY #Impact bearish #S&P500 #Impact bullish #US10Y
+
+Baosheng Group says the US labor market may not be as strong as recent data suggests.
+
+---
+
+### 2026-06-22 21:11:40  #MKT News #Macro & Rates #Treasury Yields #US10Y #Impact bearish #S&P500 #Impact bullish #DXY
+
+Baosheng Group says US 10-year Treasury yield may ease slightly to 4.30% in H2 2026.
+
+---
+
+### 2026-06-22 21:11:37  #MKT News #Macro & Rates #Treasury Yields #US10Y #Impact mixed
+
+Baosheng Group said upcoming U.S. economic data may trigger volatility in U.S. Treasuries.
+
+---
+
+### 2026-06-22 21:11:33  #其他
+
+卡達能源部長表示，拉斯阿布阿夫丹發生的事件為一起意外事故，並非侵襲或破壞活動。
+
+---
+
+### 2026-06-22 21:11:26  #公司 #兩會
+
+【全國人大常委會法工委：註冊會計師法擬大幅提高違法成本】今天（22日），全國人大常委會法制工作委員會在記者會上介紹，十四屆全國人大常委會第二十三次會議6月23日至26日在北京舉行，會議將繼續審議註冊會計師法修正草案，針對上市公司財務造假頻發現象，此次註冊會計師法在法律責任方面也進行了規定。此外，根據各方面意見，註冊會計師草案還擬作幾方面修改：一是增加規定國家支援註冊會計師行業加強誠信建設，提升執業活動規範化專業化水平，促進行業健康發展。二是進一步完善執業原則，增加會計師事務所、註冊會計師堅持誠信、客觀、獨立、公正的原則。三是增加規定註冊會計師協會應當為提升行業服務質量水平，拓展業務領域，實現創新發展提供支援。四是完善法律責任，體現從嚴監管、精準處罰、過罰相當。（央視新聞）
+
+---
+
+### 2026-06-22 21:10:48  #MKT News
+
+Argentina approved borrowing from international institutions of up to USD 5 bln, according to an official bulletin.
+
+---
+
+### 2026-06-22 21:10:44  #資料 #國際
+
+【加拿大5月份通脹率升至2023年以來最高 受到汽油價格飆升影響】汽油價格飆升推動加拿大通脹升至兩年多來最高水平，不過價格壓力的廣度收窄，而且核心通脹指標變化不大。加拿大統計局週一公佈，5月份消費者價格指數同比漲幅達到3.2%，為2023年12月以來最高水平。彭博調查的經濟學家此前預計5月份CPI同比升幅為3%，高於4月份的2.8%。環比來看，5月份CPI上升1.0%，也高於預期。儘管如此，剔除價格波動較大成分的核心指標顯示，隨著加拿大疲弱的經濟適應人口增長放緩以及美國貿易政策造成的出口損害，潛在價格壓力仍然溫和。
 
 ---
 
@@ -21149,119 +21299,5 @@ IAEA: Ukraine's Zaporizhzhia nuclear plant was reconnected to the grid at 17:50 
 ### 2026-06-21 01:04:34  #國際
 
 國際原子能機構（IAEA）：烏克蘭扎波羅熱核電站已於當地時間今日下午5點50分重新接入電網，本次場外供電中斷事件在持續4個半小時後結束。
-
----
-
-### 2026-06-21 01:02:45  #國際
-
-多架美國空軍KC-135“同溫層加油機”以及一架E-3空中預警指揮機正趕赴霍爾木茲海峽區域，該海峽上空的軍事活動頻次持續攀升。
-
----
-
-### 2026-06-21 01:00:40  #MKT News #XAUUSD #Impact bullish #WTI #DXY
-
-Ukrainian President Zelenskiy warned that Russia is preparing an imminent large-scale attack on Ukraine.
-
----
-
-### 2026-06-21 01:00:18  #國際
-
-澤連斯基警告稱，俄羅斯即將對烏克蘭發動大規模襲擊。
-
----
-
-### 2026-06-21 00:59:42  #MKT News #Important #WTI #Impact bullish #Brent
-
-Iranian Revolutionary Guard Corps (IRGC) navy said in a radio broadcast near the Strait of Hormuz that, citing Israeli operations in Lebanon and US violations of commitments, the strait is closed to navigation and all vessels have been ordered to keep away to ensure their safety.
-
----
-
-### 2026-06-21 00:58:03  #MKT News #XAUUSD #Impact bullish #Brent #DXY
-
-Israel's ambassador to the United States, Yehiel Leiter, said on social media that the party violating the ceasefire agreement is Hezbollah.
-
----
-
-### 2026-06-21 00:57:33  #其他
-
-巴西聯邦警察局正在調查一起民防預警系統遭入侵事件，此次入侵導致數百萬巴西民眾的手機收到帶有 “厭世” 一詞的推送警報。
-
----
-
-### 2026-06-21 00:55:45  #國際
-
-以色列對加沙地帶中部佈雷吉難民營發動無人機襲擊，造成多名巴勒斯坦人死傷。
-
----
-
-### 2026-06-21 00:55:23  #國際
-
-市場資訊：以色列軍隊在阿里・塔赫爾高地包圍了數十名真主黨武裝人員。
-
----
-
-### 2026-06-21 00:54:55  #MKT News #XAUUSD #Impact bullish #Brent #WTI
-
-An Israeli newspaper, citing military sources, reported Israeli forces are surrounding dozens of Hezbollah fighters in the Ali al-Taher area.
-
----
-
-### 2026-06-21 00:54:12  #MKT News #WTI #Impact bearish #Brent
-
-【CENTCOM says Iran does not control Strait of Hormuz】Al Jazeera reported CENTCOM said Iran does not control the Strait of Hormuz. A CENTCOM spokesman said US forces are monitoring the situation to ensure continued shipping through the waterway. Earlier the Islamic Revolutionary Guard Corps said it had closed the Strait, citing continued Israeli strikes in southern Lebanon.
-
----
-
-### 2026-06-21 00:49:42  #市場 #國際
-
-【特朗普對經濟形勢的擔憂削弱美國在伊朗談判中的籌碼】美國總統特朗普坦言，擔憂全球經濟崩盤是他簽署美伊臨時和平諒解備忘錄的重要動因。這番表態暴露了美方即將與德黑蘭開啟下一輪談判時存在的核心短板。特朗普於週三簽署的這份諒解備忘錄，重新打通霍爾木茲海峽航道，同時批准豁免針對伊朗原油出口的制裁措施。政策效果立竿見影：國際油價進一步走低，美國股市上漲。特朗普本週在法國出席新聞釋出會時，專門提及了這兩項市場變化。“我不願目睹一場經濟災難，”特朗普週四在法國埃維昂舉行的記者會上表態，“如果戰事持續升級，經濟災難完全有可能上演。”
-
----
-
-### 2026-06-21 00:48:57  #MKT News #WTI #Impact bearish #XAUUSD
-
-【Analysis: Trump says economic risk of Iran war weakens U.S. negotiating leverage】Trump said the prospect of global economic collapse was a key reason he signed a temporary peace agreement with Iran, exposing a central U.S. weakness ahead of the next negotiation round. Because Iran knows Trump is reluctant to restart military action—which would trigger fresh economic turmoil—the pressure on Iran to conclude talks quickly is reduced. U.S. domestic pressure may further intensify: a Maryland poll found 56% of Americans believe the war’s negative effects on U.S. interests outweigh the positive. Former State Department official Chris Kennedy said the memorandum of understanding’s 14 clauses leave Iran in an advantageous position on nuclear issues. The agreement also allows the original 60‑day negotiation period to be “extended,” implying talks could stretch for months. Former Treasury official Miad Maleki said the outcome is more favorable to Iran: Iran will not abandon its nuclear program for sanctions waivers it has already won, and while the U.S. could still escalate militarily, it has forfeited key economic leverage when it most needed it.
-
----
-
-### 2026-06-21 00:47:53  #MKT News #Brent #Impact bullish #WTI
-
-ZELENSKIY confirmed Ukrainian forces carried out a drone strike on refinery facilities in Russia's Tyumen region.
-
----
-
-### 2026-06-21 00:46:26  #國際
-
-烏克蘭總統澤連斯基證實，俄羅斯秋明州的煉油設施遭無人機襲擊。
-
----
-
-### 2026-06-21 00:44:50  #焦點 #國際
-
-伊朗革命衛隊海軍在霍爾木茲海峽附近無線電通告：因以色列在黎巴嫩採取軍事行動，且美國違背相關承諾，本海峽禁止一切船隻通航。所有船舶務必遠離海峽水域，以保障自身航行安全。
-
----
-
-### 2026-06-21 00:44:44  #MKT News
-
-Canada will hold a USMCA review meeting with the United States and Mexico on July 1.
-
----
-
-### 2026-06-21 00:44:04  #MKT News
-
-Iranian Students' News Agency reported President Pezeshkian met Pakistan's interior minister.
-
----
-
-### 2026-06-21 00:43:24  #國際
-
-加拿大將於7月1日與美國和墨西哥舉行會晤，開展《美墨加協定》複核。
-
----
-
-### 2026-06-21 00:43:11  #國際
-
-伊朗總統將會見巴基斯坦內政部長。
 
 ---

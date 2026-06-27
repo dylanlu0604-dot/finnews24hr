@@ -1,7 +1,139 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-06-28 00:35:44_
-_本檔包含 3854 則快訊，約 671350 字_
+_更新時間：2026-06-28 01:04:16_
+_本檔包含 3850 則快訊，約 671123 字_
+
+---
+
+### 2026-06-25 04:10:53  #其他
+
+美光科技：下一代 DRAM 與 NAND 製程研發進展順利，按計劃將於 2027 年下半年啟動量產。
+
+---
+
+### 2026-06-25 04:10:28  #Trading Economics #Markets #United States #Stock Market #Importance 2
+
+Wall Street Closes Mixed Ahead of Micron Earnings — US equities closed mixed on Wednesday as losses in chipmakers ahead of Micron earnings weighed. The S&P 500 fell 0.1%, while the Nasdaq 100 lost 0.4%. Micron dropped 0.4% ahead of its earnings report, due after the bell, as investors focus on whether AI-driven demand can sustain the sector’s rally. The move followed a 13% plunge in the previous session amid growing concerns that capital expenditure by AI companies may have become excessive. Other semiconductor producers also traded lower, with Nvidia down 0.7%, and Intel shedding 0.3%. AI-related fundraising remained elevated, with SK Hynix reportedly seeking to raise $29 billion through a US listing, shortly after SpaceX’s record IPO. Other sectors found support from lower Treasury yields as prospects of restored energy exports from the Middle East eased inflation concerns. The Dow Jones outperformed, rising 182 points, aided by its exposure to traditional sectors, ahead of Alphabet replacing Verizon in the index on Monday.
+
+---
+
+### 2026-06-25 04:10:25  #國際
+
+美國官員：特朗普將在補充撥款法案中納入全年銷售高乙醇含量汽油的相關條款。
+
+---
+
+### 2026-06-25 04:10:08  #其他
+
+美光科技：HBM4 12 層堆疊晶片量產爬坡速度是 HBM3E 12 層堆疊的兩倍；HBM4 相關出貨營收已超 10 億美元。
+
+---
+
+### 2026-06-25 04:09:44  #公司 #觀點 #焦點 #國際
+
+摩根大通將股息上調至每股 1.65 美元，計劃實施 500 億美元股票回購。
+
+---
+
+### 2026-06-25 04:09:21  #市場
+
+美光科技美股盤後漲超9%。
+
+---
+
+### 2026-06-25 04:08:38  #MKT News #Important #MU.O #Impact bullish
+
+Micron Technology (MU.O) extended after-hours gains to 7.5%.
+
+---
+
+### 2026-06-25 04:08:26  #其他
+
+美光科技：根據目前已簽署的戰略客戶協議，預計將獲得 220 億美元現金保證金及相關資金承諾。
+
+---
+
+### 2026-06-25 04:08:08  #公司 #其他 #焦點 #國際
+
+美光科技：長期來看，我們計劃將全部富餘現金返還給股東。
+
+---
+
+### 2026-06-25 04:07:17  #公司 #市場 #國際
+
+Hertz Global（HTZ）股價下跌41%，創該公司美國IPO以來最大單日跌幅。
+
+---
+
+### 2026-06-25 04:06:48  #宏觀
+
+美光科技：我們給出的業績指引並未納入貿易或地緣政治局勢變化可能帶來的各類影響。
+
+---
+
+### 2026-06-25 04:06:35  #公司
+
+AI初創公司Mirendil按10億美元估值融資2億美元，英偉達、A16Z、Kleiner Perkins參與投資。
+
+---
+
+### 2026-06-25 04:06:11  #MKT News #MU.O #Impact bullish
+
+Micron Technology (MU.O) expects adjusted gross margin for the fiscal fourth quarter of about 86%, versus prior guidance of 83.6%.
+
+---
+
+### 2026-06-25 04:05:42  #其他
+
+美光科技：受全領域人工智慧相關需求推動，晶片供應緊張局面預計將持續至 2027 年之後。
+
+---
+
+### 2026-06-25 04:05:28  #市場
+
+【美元指數24日上漲】衡量美元對六種主要貨幣的美元指數當天上漲0.2%，在匯市尾市收於101.611。截至紐約匯市尾市，1歐元兌換1.1355美元，低於前一交易日的1.1379美元；1英鎊兌換1.3162美元，低於前一交易日的1.3188美元。1美元兌換161.76日元，高於前一交易日的161.57日元；1美元兌換0.8124瑞士法郎，高於前一交易日的0.8100瑞士法郎；1美元兌換1.4237加元，高於前一交易日的1.4214加元；1美元兌換9.7714瑞典克朗，高於前一交易日的9.7466瑞典克朗。
+
+---
+
+### 2026-06-25 04:05:24  #MKT News #DXY #Impact bullish #EURUSD #Impact bearish #USDJPY
+
+【Dollar index rises 0.2% to 101.611】Dollar index (DXY), which measures the dollar against six major currencies, rose 0.2% to 101.611. At the New York close EUR/USD 1.1355 (prev. 1.1379); GBP/USD 1.3162 (prev. 1.3188); USD/JPY 161.76 (prev. 161.57); USD/CHF 0.8124 (prev. 0.8100); USD/CAD 1.4237 (prev. 1.4214); USD/SEK 9.7714 (prev. 9.7466).
+
+---
+
+### 2026-06-25 04:05:11  #市場
+
+【國際油價24日顯著下跌】截至當天收盤，紐約商品交易所8月交貨的輕質原油期貨價格下跌2.87美元，收於每桶70.34美元，跌幅為3.92%；8月交貨的倫敦布倫特原油期貨價格下跌3.34美元，收於每桶73.74美元，跌幅為4.33%。
+
+---
+
+### 2026-06-25 04:05:07  #MKT News #MU.O #Impact bullish
+
+Micron Technology (MU.O): fiscal Q3 operating cash flow was $25.39 billion.
+
+---
+
+### 2026-06-25 04:04:58  #MKT News #MU.O
+
+Micron Technology (MU.O) said it expects fourth fiscal quarter EPS of $30.73 ± $1.00.
+
+---
+
+### 2026-06-25 04:04:17  #央行 #焦點 #國際
+
+美聯儲：最新壓力測試顯示，32 家大型銀行具備充足抵禦能力，即便遭遇嚴重經濟衰退仍可持續開展放貸業務。接受測試的銀行在假設情景下能夠承受超過7000億美元的損失，資本僅下降1.6%，仍然高於最低監管要求。
+
+---
+
+### 2026-06-25 04:03:30  #其他
+
+美光：客戶需求快速增長。
+
+---
+
+### 2026-06-25 04:03:18  #MKT News #Important #Market Themes #Chip Wars #MU.O #Impact bullish
+
+Micron Technology (MU.O) reported fiscal 2026 third-quarter EPS of $24.67, versus $20.42 expected and $1.68 a year earlier.
 
 ---
 
@@ -23092,161 +23224,5 @@ Mexican peso dropped more than 1% against the dollar to 17.5480 per USD.
 ### 2026-06-23 23:14:49  #央行 #其他
 
 英國央行泰勒：在通脹向工資傳導層面，我的基準判斷是當前形勢更接近 2011 年，而非 2022 年。英國尚未出現明顯的二輪效應。
-
----
-
-### 2026-06-23 23:14:03  #央行 #資料 #市場
-
-加拿大央行行長麥克勒姆：食品通脹令人擔憂。沒有證據表明存在“普遍性”的通脹。我們預計CPI將上漲至約3%，5月CPI壓力主要集中在能源領域。
-
----
-
-### 2026-06-23 23:13:52  #MKT News #GBPUSD #Impact bearish #DXY #Impact bullish #EURUSD
-
-Bank of England rate-setter Taylor said his baseline view is that inflation's pass-through to wages currently resembles 2011 rather than 2022.
-
----
-
-### 2026-06-23 23:13:47  #MKT News #DXY #Impact bearish
-
-BOC Governor Macklem: food inflation is worrying.
-
----
-
-### 2026-06-23 23:13:34  #MKT News #Market Regions #Europe & UK #GBPUSD #Impact bearish
-
-Bank of England MPC member Taylor said the UK has not yet seen clear second-round effects.
-
----
-
-### 2026-06-23 23:13:04  #MKT News #DXY #Impact bearish #XAUUSD #Impact bullish #WTI
-
-BOC Governor MACKLEM said there is no evidence of "broad-based" inf.
-
----
-
-### 2026-06-23 23:12:57  #國際
-
-【巴基斯坦總統會見伊朗總統 】巴基斯坦總統秘書處23日發表宣告說，巴基斯坦總統扎爾達里當天在巴總統府會見了到訪的伊朗總統佩澤希齊揚。雙方就雙邊關係、地區和平與安全、區域互聯互通、經濟合作等問題交換意見。宣告說，巴方堅定支援伊朗維護自身和平、穩定、國家統一、主權和領土完整。巴基斯坦一貫反對單邊舉措，主張透過對話和外交途徑解決地區及全球挑戰，巴方將繼續發展與海灣地區國家的友好關係。（新華社）
-
----
-
-### 2026-06-23 23:12:54  #MKT News
-
-BOC Governor MACKLEM said the Bank expects CPI to rise to around 3%.
-
----
-
-### 2026-06-23 23:12:36  #MKT News #Commodities #Energy #WTI #Impact bullish #Brent
-
-BOC Governor Macklem said May CPI pressure was mainly concentrated in the energy sector.
-
----
-
-### 2026-06-23 23:12:25  #MKT News
-
-BOC Governor Macklem said the bank has not yet observed a significant pass-through from higher oil prices to other goods and services prices.
-
----
-
-### 2026-06-23 23:12:06  #央行 #其他
-
-加拿大央行行長麥克勒姆： 加拿大央行整體觀察到，迄今為止高油價尚未大範圍傳導至其他商品與服務價格。
-
----
-
-### 2026-06-23 23:12:02  #MKT News
-
-Macklem: Canada's May CPI was in line with Bank of Canada expectations.
-
----
-
-### 2026-06-23 23:11:50  #央行 #資料
-
-加拿大央行行長麥克勒姆： 加拿大 5 月 CPI 資料符合加拿大央行預期。
-
----
-
-### 2026-06-23 23:11:48  #MKT News
-
-BOC Governor Macklem said he expects the Canada-U.S. trade relationship to remain unchanged and that this remains the baseline scenario.
-
----
-
-### 2026-06-23 23:11:32  #MKT News #S&P500 #Impact bullish #Nasdaq100 #DXY #Impact bearish
-
-A U.S. Democratic senator has called on Federal Reserve Governor Bowman to withdraw the Basel III rules.
-
----
-
-### 2026-06-23 23:11:12  #央行 #其他
-
-加拿大央行行長麥克勒姆： 即便處於複審階段，《美墨加協定》仍將長期生效。
-
----
-
-### 2026-06-23 23:10:55  #其他
-
-臺積電股價跌幅擴大至6%，報439.86美元/股，總市值報2.28萬億美元。
-
----
-
-### 2026-06-23 23:10:03  #MKT News #DXY #Impact bullish
-
-USD/CAD breached 1.42, up 0.33% intraday.
-
----
-
-### 2026-06-23 23:09:50  #MKT News
-
-IMO said it will begin evacuating 11,000 seafarers from the Middle East and will provide security guarantees for the evacuations.
-
----
-
-### 2026-06-23 23:09:00  #央行 #其他
-
-加拿大央行行長麥克勒姆： 加美貿易現狀料將維持基準情景。
-
----
-
-### 2026-06-23 23:08:19  #央行 #其他
-
-加拿大央行行長麥克勒姆：美墨加協定的續簽不太可能在7月1日前完成，談判似乎仍在進行中。前瞻指引中的“虛假精確性”是無益的。
-
----
-
-### 2026-06-23 23:08:17  #MKT News
-
-Bank of Canada Governor MACKLEM said renewal of the United States–Mexico–Canada Agreement is unlikely to be completed before July 1 and that negotiations appear to still be ongoing.
-
----
-
-### 2026-06-23 23:08:06  #國際
-
-國際海事組織：將從中東撤離 1.1 萬名海員，已取得海員撤離行動的安全保障承諾。
-
----
-
-### 2026-06-23 23:07:37  #Trading Economics #Markets #Commodity #Importance 2
-
-US Natgas Prices Edge Down — US natural gas prices declined to $3.2 per MMBtu due to ample storage volumes and updated weather forecasts predicting cooler temperatures. Forecasters expect below-average temperatures in the mid-Atlantic region from June 23 to 27, which will likely reduce power demand for air conditioning. This weather shift follows a mild spring that allowed energy companies to aggressively stockpile gas, keeping domestic inventories approximately 5.8% above normal levels. Furthermore, a reduction in gas flows to US liquefied natural gas export terminals has diverted more supply into the domestic market. This increased availability has overshadowed a slight decline in production, as average daily gas output in the Lower 48 states dipped to 109.5 billion cubic feet so far in June from 109.7 billion cubic feet in May.
-
----
-
-### 2026-06-23 23:07:10  #市場
-
-Prosus於6月15-19日按均價39.1859歐元回購股票229.1242萬股，合計將近0.898億歐元（摺合約1.037億美元）。
-
----
-
-### 2026-06-23 23:06:40  #MKT News #Star Stocks #TSLA.O #Impact bearish #Nasdaq100
-
-Tesla (TSLA.O) shares extended losses to 5%.
-
----
-
-### 2026-06-23 23:06:37  #公司
-
-【仙工智慧：香港公開發售獲5934.56倍認購 全球發售淨籌約9.954億港元】仙工智慧(06106)公佈配發結果，公司全球發售1049.73萬股H股，香港公開發售佔20%，國際發售佔80%。每股發售價101.6港元，全球發售淨籌約9.954億港元。每手50股，預期H股將於2026年6月24日(星期三)上午九時正(香港時間)開始在聯交所交易。其中，香港公開發售獲5934.56倍認購，國際發售獲21.29倍認購。
 
 ---
