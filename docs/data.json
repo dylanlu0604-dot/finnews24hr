@@ -1,7 +1,24 @@
 {
-  "updated": "2026-06-28 01:04:16",
-  "count": 18144,
+  "updated": "2026-06-28 01:08:20",
+  "count": 18143,
   "items": [
+    {
+      "id": "4958542",
+      "time": "2026-06-28 01:07:22",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "美國廣播公司：週六霍爾木茲海峽襲擊油輪的無人機來自伊朗。"
+    },
+    {
+      "id": "4958541",
+      "time": "2026-06-28 01:04:55",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美國猶他州因野火宣佈進入緊急狀態】全美12個州現有至少37處火情持續燃燒，其中包含猶他州史上破壞程度最嚴重的野火，該州宣佈進入緊急狀態。"
+    },
     {
       "id": "4958540",
       "time": "2026-06-28 01:02:12",
@@ -165981,37 +165998,6 @@
         "MKT News"
       ],
       "text": "【ZELENSKIY warns Russian forces preparing large-scale attack】Ukrainian President ZELENSKIY said on Saturday Russian forces are preparing a large-scale attack on Ukraine and urged civilians to remain vigilant. In an evening video address he said: \"It is especially important to closely monitor air-raid alerts tonight and in the coming hours.\""
-    },
-    {
-      "id": "4945939",
-      "time": "2026-06-21 01:08:07",
-      "tags": [
-        "其他"
-      ],
-      "text": "可口可樂聘請重組專家協助Costa咖啡。"
-    },
-    {
-      "id": "mkt:019ee5fe-43db-7dd8-b0a0-f6e12b86e6de",
-      "time": "2026-06-21 01:05:06",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "EURUSD",
-        "Impact bullish",
-        "Brent",
-        "Impact bearish",
-        "DXY"
-      ],
-      "text": "IAEA: Ukraine's Zaporizhzhia nuclear plant was reconnected to the grid at 17:50 local time today, ending the latest external power outage after 4.5 hours."
-    },
-    {
-      "id": "4945938",
-      "time": "2026-06-21 01:04:34",
-      "tags": [
-        "國際"
-      ],
-      "text": "國際原子能機構（IAEA）：烏克蘭扎波羅熱核電站已於當地時間今日下午5點50分重新接入電網，本次場外供電中斷事件在持續4個半小時後結束。"
     }
   ]
 }
