@@ -1,7 +1,46 @@
 {
-  "updated": "2026-06-28 05:48:20",
-  "count": 18145,
+  "updated": "2026-06-28 05:52:21",
+  "count": 18149,
   "items": [
+    {
+      "id": "mkt:019f0b11-5760-7770-9d1b-c6cc723db99f",
+      "time": "2026-06-28 05:51:53",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "IRIB reported several artillery shells struck a village on Qeshm Island."
+    },
+    {
+      "id": "4958624",
+      "time": "2026-06-28 05:51:43",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國一名官員向福克斯新聞表示，美軍正在打擊伊朗防空系統、雷達及導彈設施，此次行動規模超過此前所有軍事行動。"
+    },
+    {
+      "id": "mkt:019f0b10-516f-7770-9d1b-bd963e36e19b",
+      "time": "2026-06-28 05:50:46",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "【CENTCOM confirms additional strikes on Iranian military targets after tanker hit near Strait of Hormuz】CENTCOM said on June 27 it carried out additional strikes on multiple Iranian targets after Iran this morning (04:30 ET) used a one-way attack drone to hit and destroy the Panama‑flagged tanker M/T Kiku near the Strait of Hormuz. The vessel was carrying more than 2 mln barrels of crude. CENTCOM said the action responds to sustained Iranian attacks on merchant shipping, following a U.S. strike yesterday that had been launched in retaliation for Iran’s attack on M/V EverLovely. U.S. aircraft struck Iranian military surveillance and communications sites, air‑defence positions, drone storage facilities and mine‑laying capability."
+    },
+    {
+      "id": "4958623",
+      "time": "2026-06-28 05:48:59",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗軍方：多枚射彈襲擊了格什姆島的一座村莊。"
+    },
     {
       "id": "4958622",
       "time": "2026-06-28 05:46:38",
