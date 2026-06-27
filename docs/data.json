@@ -1,7 +1,15 @@
 {
-  "updated": "2026-06-27 21:40:03",
-  "count": 18152,
+  "updated": "2026-06-27 21:44:13",
+  "count": 18151,
   "items": [
+    {
+      "id": "mkt:019f0950-bb33-7dd8-b142-5c3e60f6e29e",
+      "time": "2026-06-27 21:41:53",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "EMSC reported a magnitude-6 earthquake in Afghanistan's Hindu Kush region."
+    },
     {
       "id": "4958446",
       "time": "2026-06-27 21:37:35",
@@ -166070,22 +166078,6 @@
         "MKT News"
       ],
       "text": "Iran's foreign ministry spokesman said the negotiating team will depart for Switzerland in a few minutes, according to Mehr News Agency."
-    },
-    {
-      "id": "4945860",
-      "time": "2026-06-20 21:42:19",
-      "tags": [
-        "國際"
-      ],
-      "text": "【伊朗外長或將與巴官員一同前往瑞士】伊朗外交部發言人巴加埃今天（6月20日）表示，伊朗談判代表團將在幾分鐘後啟程前往瑞士。他說，“我們簽署協議不是為了讓它不被執行。我們的立場是‘對等履行落實’。” 另據沙烏地阿拉伯阿拉比亞電視臺今天（6月20日）報道，伊朗外長阿拉格齊20日晚將與巴基斯坦內政部長納克維一同前往瑞士。（CCTV國際時訊）"
-    },
-    {
-      "id": "mkt:019ee544-6631-7dd8-b09f-c44332c66928",
-      "time": "2026-06-20 21:42:05",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Iran foreign minister to travel to Switzerland with Pakistan interior minister】On the evening of the 20th local time, Iran’s foreign minister Araghchi will travel to Switzerland accompanied by Pakistan’s interior minister Naqvi, sources said."
     }
   ]
 }
