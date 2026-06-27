@@ -1,7 +1,43 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-06-28 03:03:26_
-_本檔包含 3728 則快訊，約 670678 字_
+_更新時間：2026-06-28 03:40:53_
+_本檔包含 3720 則快訊，約 670137 字_
+
+---
+
+### 2026-06-26 08:15:13  #MKT News #Commodities #Energy
+
+National Grid ESO forecasts the UK power system will face a tight supply-demand balance on Friday evening.
+
+---
+
+### 2026-06-26 08:14:24  #公司 #國際 #原創
+
+【SpaceX據悉下月開始建造通往星艦發射基地的天然氣管道】當地政府檔案顯示，SpaceX計劃下月開始建造一條名為Starpipe的8英里（13公里）長天然氣管道，通往其位於德克薩斯州的“星際基地”（Starbase） ，以幫助加快其下一代星艦火箭的發射頻率，該管道預計將於明年1月26日投入使用。星艦每次發射需要消耗約63萬加侖（240萬升）液態甲烷，目前這些甲烷需要數百輛油罐車耗時數小時運送，這與馬斯克的擴張計劃不符。SpaceX希望在星際基地建造一座液化設施，將管道輸送的天然氣加工成液態甲烷。該管道內徑為 16 英寸（406 毫米），意味著其燃料輸送能力將超出美國聯邦航空管理局（FAA）當前批准的星艦年發射25次所需的燃料總量。
+
+---
+
+### 2026-06-26 08:13:33  #其他
+
+【日經225指數跌幅擴大至2%】日經225指數跌幅擴大至2%，現報70916.26點。
+
+---
+
+### 2026-06-26 08:13:25  #市場
+
+海力士股價下跌2.0%，報285.8萬韓元。
+
+---
+
+### 2026-06-26 08:13:19  #MKT News #Market Regions #Japan & APAC #Nikkei 225 #Impact bearish
+
+Japan's Nikkei index slipped back below 71,000 points, down 2.00% intraday.
+
+---
+
+### 2026-06-26 08:12:32  #Trading Economics #Markets #Commodity #Importance 2
+
+Gold Set for Sharp Weekly Drop — Gold steadied above $4,000 an ounce on Friday but remained on track to lose nearly 5% for the week as hawkish signals from the US Federal Reserve outweighed support from the impact of US-Iran peace efforts. On Thursday, bullion rebounded modestly after the latest US PCE inflation data came in broadly in line with expectations, easing fears of imminent Fed rate hikes and pushing the dollar and Treasury yields lower. Even so, markets are pricing in an 80% chance of a Fed rate hike in December following last week's hawkish pause, while the probability of a September increase stands at around 63%. Meanwhile, oil prices continued to retreat and have returned to pre-conflict levels as progress in US-Iran peace negotiations eased concerns over Middle East supply disruptions and further reduced inflation worries.
 
 ---
 
@@ -22409,89 +22445,5 @@ Qualcomm (QCOM.O) CFO says the company has an opportunity to raise annual revenu
 ### 2026-06-25 04:54:34  #MKT News #Market Themes #AI Revolution #QCOM.O #Impact bullish
 
 Qualcomm (QCOM.O) targets roughly $6 bln in revenue from its Personal AI and compute businesses in fiscal 2029.
-
----
-
-### 2026-06-25 04:54:11  #MKT News #QCOM.O #Impact bullish
-
-Qualcomm (QCOM.O) targets roughly $8 billion in industrial, networking and robotics revenue by fiscal 2029.
-
----
-
-### 2026-06-25 04:52:40  #MKT News #Market Themes #Chip Wars #QCOM.O #Impact bullish
-
-Qualcomm (QCOM.O) says its automotive design-win pipeline has expanded to $65 bln.
-
----
-
-### 2026-06-25 04:52:05  #MKT News #QCOM.O
-
-Qualcomm (QCOM.O): By fiscal 2029, the handset business is expected to account for about one-third of revenue in its core semiconductor business.
-
----
-
-### 2026-06-25 04:50:29  #MKT News
-
-U.S. Vice President Vance said U.S. officials are reviewing Turkey's compliance with U.S. laws over its purchase of Russia's S-400 missile defense system.
-
----
-
-### 2026-06-25 04:50:19  #國際
-
-被問及司法部調查汽油價格，特朗普點名雪佛龍、BP和埃克森美孚。
-
----
-
-### 2026-06-25 04:49:50  #MKT News #XOM.O #Impact bearish #CVX.O
-
-Trump said ExxonMobil, Chevron and other firms are under investigation over surging natural gas prices.
-
----
-
-### 2026-06-25 04:49:27  #MKT News #QCOM.O #Impact bullish
-
-Qualcomm (QCOM.O) targets IoT revenue of more than $14 bln in fiscal 2029.
-
----
-
-### 2026-06-25 04:48:50  #公司 #國際
-
-特朗普：今天與石油公司進行了交談，石油公司對汽油的降價力度還不夠。
-
----
-
-### 2026-06-25 04:48:46  #國際
-
-美國副總統萬斯：美國官員正在審查土耳其是否遵守美國針對俄羅斯 S-400 防空導彈系統的相關法律。
-
----
-
-### 2026-06-25 04:48:16  #MKT News #QCOM.O #Impact bullish
-
-Qualcomm (QCOM.O) targets non-GAAP EPS above $18 for fiscal 2029.
-
----
-
-### 2026-06-25 04:47:30  #Trading Economics #Markets #Brazil #Stock Market #Importance 1
-
-Ibovespa Falls on Commodity and Bank Losses — The Ibovespa fell 0.4% to close at 170,507 on Wednesday, pressured by losses in commodity and banking stocks. Petrobras was among the main drags, down 2.6% as oil prices declined on signs that more tankers were moving through the Strait of Hormuz amid progress in US-Iran talks. Vale lost 2.1% amid an internal dispute over its chairman position. Major banks also traded lower after Citigroup cut target prices for several Brazilian lenders, citing a more cautious stance on the sector due to a deteriorating macroeconomic backdrop and rising pressure on asset quality, particularly in consumer lending and agribusiness. Bradesco fell 1.1%, while Banco do Brasil dropped 0.6%. On the upside, WEG gained 2% as it accelerates the expansion of its Rugao unit in China. Embraer rose 1.5% amid renewed speculation over a sale of the C-390 Millennium to Morocco.
-
----
-
-### 2026-06-25 04:47:19  #其他
-
-道富銀行：該行資本留存緩衝比率（SCB）下限維持 2.5% 不變，有效期至 2027 年 9 月 30 日；一級普通股本充足率要求維持 8% 不變。
-
----
-
-### 2026-06-25 04:47:01  #國際
-
-美國副總統萬斯：能否向土耳其交付 F-35 戰機取決於國會。
-
----
-
-### 2026-06-25 04:46:43  #MKT News #QCOM.O #Impact bullish
-
-Qualcomm (QCOM.O) CFO said the company is targeting about $10 billion in automotive revenue in fiscal 2029.
 
 ---

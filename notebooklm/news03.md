@@ -1,7 +1,91 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-06-28 03:03:26_
-_本檔包含 3880 則快訊，約 671235 字_
+_更新時間：2026-06-28 03:40:53_
+_本檔包含 3891 則快訊，約 670470 字_
+
+---
+
+### 2026-06-25 04:54:11  #MKT News #QCOM.O #Impact bullish
+
+Qualcomm (QCOM.O) targets roughly $8 billion in industrial, networking and robotics revenue by fiscal 2029.
+
+---
+
+### 2026-06-25 04:52:40  #MKT News #Market Themes #Chip Wars #QCOM.O #Impact bullish
+
+Qualcomm (QCOM.O) says its automotive design-win pipeline has expanded to $65 bln.
+
+---
+
+### 2026-06-25 04:52:05  #MKT News #QCOM.O
+
+Qualcomm (QCOM.O): By fiscal 2029, the handset business is expected to account for about one-third of revenue in its core semiconductor business.
+
+---
+
+### 2026-06-25 04:50:29  #MKT News
+
+U.S. Vice President Vance said U.S. officials are reviewing Turkey's compliance with U.S. laws over its purchase of Russia's S-400 missile defense system.
+
+---
+
+### 2026-06-25 04:50:19  #國際
+
+被問及司法部調查汽油價格，特朗普點名雪佛龍、BP和埃克森美孚。
+
+---
+
+### 2026-06-25 04:49:50  #MKT News #XOM.O #Impact bearish #CVX.O
+
+Trump said ExxonMobil, Chevron and other firms are under investigation over surging natural gas prices.
+
+---
+
+### 2026-06-25 04:49:27  #MKT News #QCOM.O #Impact bullish
+
+Qualcomm (QCOM.O) targets IoT revenue of more than $14 bln in fiscal 2029.
+
+---
+
+### 2026-06-25 04:48:50  #公司 #國際
+
+特朗普：今天與石油公司進行了交談，石油公司對汽油的降價力度還不夠。
+
+---
+
+### 2026-06-25 04:48:46  #國際
+
+美國副總統萬斯：美國官員正在審查土耳其是否遵守美國針對俄羅斯 S-400 防空導彈系統的相關法律。
+
+---
+
+### 2026-06-25 04:48:16  #MKT News #QCOM.O #Impact bullish
+
+Qualcomm (QCOM.O) targets non-GAAP EPS above $18 for fiscal 2029.
+
+---
+
+### 2026-06-25 04:47:30  #Trading Economics #Markets #Brazil #Stock Market #Importance 1
+
+Ibovespa Falls on Commodity and Bank Losses — The Ibovespa fell 0.4% to close at 170,507 on Wednesday, pressured by losses in commodity and banking stocks. Petrobras was among the main drags, down 2.6% as oil prices declined on signs that more tankers were moving through the Strait of Hormuz amid progress in US-Iran talks. Vale lost 2.1% amid an internal dispute over its chairman position. Major banks also traded lower after Citigroup cut target prices for several Brazilian lenders, citing a more cautious stance on the sector due to a deteriorating macroeconomic backdrop and rising pressure on asset quality, particularly in consumer lending and agribusiness. Bradesco fell 1.1%, while Banco do Brasil dropped 0.6%. On the upside, WEG gained 2% as it accelerates the expansion of its Rugao unit in China. Embraer rose 1.5% amid renewed speculation over a sale of the C-390 Millennium to Morocco.
+
+---
+
+### 2026-06-25 04:47:19  #其他
+
+道富銀行：該行資本留存緩衝比率（SCB）下限維持 2.5% 不變，有效期至 2027 年 9 月 30 日；一級普通股本充足率要求維持 8% 不變。
+
+---
+
+### 2026-06-25 04:47:01  #國際
+
+美國副總統萬斯：能否向土耳其交付 F-35 戰機取決於國會。
+
+---
+
+### 2026-06-25 04:46:43  #MKT News #QCOM.O #Impact bullish
+
+Qualcomm (QCOM.O) CFO said the company is targeting about $10 billion in automotive revenue in fiscal 2029.
 
 ---
 
@@ -23386,23 +23470,5 @@ CAC 40 Dips on Hawkish Fed and ECB Prospects — The CAC 40 fell 0.7% to close a
 ### 2026-06-23 23:48:27  #國際
 
 【黎總統與美官員通話 討論建立黎巴嫩停火監督機制】當地時間23日，黎巴嫩總統約瑟夫·奧恩與美國副總統萬斯、美國國務卿魯比奧通電話，雙方討論了黎巴嫩最新局勢以及美伊瑞士會談後的階段性進展。黎巴嫩總統府釋出的宣告表示，萬斯和魯比奧重申了美國對黎巴嫩政府立場和國家主權的支援。宣告稱，美國官員強調，美方正在跟進落實瑞士會談期間達成的各項諒解備忘錄內容，包括建立一個由美國、黎巴嫩和伊朗組成的機制，以鞏固黎巴嫩停火併監督相關措施的執行情況。美方補充說，目前正在審查有關該機制的結構和運作安排。（央視新聞）
-
----
-
-### 2026-06-23 23:48:20  #Trading Economics #Markets #Euro Area #Stock Market #Importance 1
-
-European Stocks Pull Back from Records — European equity indices closed sharply lower from records on Tuesday as a selloff in the tech sector drove markets to trim their position in risk. The Euro STOXX 50 fell 1.2% to 6,235 and the STOXX Europe 600 dropped a softer 0.5% to 636. ASML slipped 5.5% and Infineon lost 5.8% amid concerns that hyperscalers overspent on AI infrastructure and will be forced to slow expenditure should returns fail to match their guidance. The latest triggers were more cash being raised by SpaceX after its IPO, while Korean SK Hynix announced it would slow production of AI chips to allocate capacity on commodity DRAM chips. Industrial giants with exposure to datacenter projects also retreated, with Siemens and Schneider dropping 2.5% and 4%, respectively. On the other hand, pharmaceuticals closed higher, with Sanofi gaining 1.5% after the EU approved its Cenrifki treatment. PMI data reflected a softer-than-expected contraction in the Eurozone private sector activity.
-
----
-
-### 2026-06-23 23:48:15  #Trading Economics #Markets #United Kingdom #Stock Market #Importance 1
-
-FTSE 100 Outperforms Global Markets — The FTSE 100 edged higher on Tuesday, outperforming global markets that suffered from souring sentiment surrounding artificial intelligence stocks. The UK index was supported by gains in major healthcare and consumer firms, as AstraZeneca rose 2.5%, GSK added 1.9%, Unilever climbed 1.6%, and British American Tobacco gained 3.4%. Additionally, Bunzl shares surged over 5% after a strong first half led the company to raise its annual revenue growth outlook. Conversely, mining stocks fell sharply, with Antofagasta dropping 5.6% and Anglo American losing 5%. Investors also monitored local political developments following the resignation of Prime Minister Keir Starmer, with Andy Burnham widely expected to succeed him amid concerns over soaring public debt approaching 100% of economic output. These market movements unfolded alongside fresh economic data showing the domestic services sector contracted at its fastest rate in nearly three and a half years in June.
-
----
-
-### 2026-06-23 23:48:00  #MKT News
-
-【Lebanese president says talks must secure end to Israel's occupation】Lebanese President Aoun said his government will not accept any negotiation outcome short of Israel ending its occupation of Lebanese territory and Lebanon restoring full territorial sovereignty. He was briefed on a Lebanese delegation's report from the fifth round of Lebanon–US–Israel talks in Washington. In calls with US Vice President Vance and Secretary of State Rubio, Aoun and US officials discussed recent developments and phased progress in US–Iran talks in Switzerland; Vance and Rubio said the US supports Lebanon's push to extend legitimate state authority across its territory and strengthen control over national sovereignty.
 
 ---

@@ -1,7 +1,55 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-06-28 03:03:26_
-_本檔包含 3496 則快訊，約 671061 字_
+_更新時間：2026-06-28 03:40:53_
+_本檔包含 3498 則快訊，約 670657 字_
+
+---
+
+### 2026-06-28 03:39:04  #其他
+
+委內瑞拉附近再次發生4.8級強震。
+
+---
+
+### 2026-06-28 03:35:36  #國際
+
+特朗普：參議院必須立即確認蘭斯的任命，不要拖延。
+
+---
+
+### 2026-06-28 03:35:11  #國際
+
+特朗普提名蘭斯·施羅耶出任美國移民與海關執法局（ICE）下一任局長。
+
+---
+
+### 2026-06-28 03:26:52  #國際
+
+歐洲地中海地震中心（EMSC）：委內瑞拉阿拉瓜州近海發生5.6級地震。
+
+---
+
+### 2026-06-28 03:21:49  #國際
+
+【以官員：若黎真主黨發動攻擊 將進行強烈回應】當地時間27日，以色列安全官員稱，以方目前正嚴陣以待，以防備黎巴嫩真主黨近期可能對以色列發動攻擊，破壞以黎最新簽署的框架協議。以色列方面稱，將對黎真主黨的任何襲擊作出“嚴厲且強烈的回應”。當天稍早時，黎巴嫩真主黨領導人納伊姆·卡西姆曾譴責美國、以色列和黎巴嫩達成的框架協議，認為該協議無效。（央視新聞）
+
+---
+
+### 2026-06-28 03:13:52  #國際
+
+【以國家安全部長：黎以美框架協議是“重大錯誤”】當地時間27日，以色列國家安全部部長本-格維爾發表宣告稱，在美國斡旋下達成的以黎新框架協議是“一個重大錯誤”，要求總理內塔尼亞胡將該協議正式提交內閣進行表決。本-格維爾表示，黎巴嫩政府不會真正解除真主黨的武裝，這一點只有以色列國防軍才能做到。（央視新聞）
+
+---
+
+### 2026-06-28 03:08:12  #公司 #觀點
+
+摩根大通CEO戴蒙談人工智慧：科技推動人類取得巨大進步，但它也會被壞人濫用，就像飛機、各類藥品都曾被不法利用一樣。在座不少人都有孫輩或子女，待到他們長大，很有可能活到一百歲。而且，我們在座眾人如今所罹患的癌症，有一半到那時將不存在了。
+
+---
+
+### 2026-06-28 03:03:56  #國際
+
+【以總理：以色列保留了北部邊境所需全部“安全區”】當地時間27日，以色列總理內塔尼亞胡召開新聞釋出會，表示以色列與黎巴嫩達成的框架協議是一項“歷史性成就”。該協議推動了結束雙邊衝突的程序，並開啟了“以色列與黎巴嫩最終達成和平協議”的前景。內塔尼亞胡稱，這項協議對伊朗和黎真主黨是“一次重大打擊”。該協議標誌著美國和黎巴嫩已經同意以色列在黎境內保留“安全區”，且保留期限將“視以色列的安全需要而定”，直至黎真主黨和其他武裝組織被解除武裝，黎巴嫩不再對以色列構成威脅。內塔尼亞胡表示，伊朗曾試圖施壓迫使以色列從黎南部撤軍，但他頂住了這一壓力。透過這項協議，以色列、黎巴嫩和美國實際上是在向伊朗明確表態：“這與你們無關。”針對協議中的撤軍條款，內塔尼亞胡稱，作為解除真主黨武裝並向黎巴嫩政府軍移交領土的“試點專案”，以色列將從目前控制的兩個小區域撤軍。其中一個區域完全位於“安全區”之外，另一個則處於安全區邊緣，且已是以軍不再需要控制的地帶。內塔尼亞胡表示，以色列實際上保留了保衛其北部邊境所需的全部“安全區”。（央視新聞）
 
 ---
 
@@ -21083,41 +21131,5 @@ South Korea’s Ministry of Oceans and Fisheries says eight South Korean vessels
 ### 2026-06-26 08:15:17  #公司
 
 【深圳拍出105億宅地 與騰訊“企鵝島”隔海對望】105.1億元，深圳誕生百億級宅地。據深圳市規劃和自然資源局訊息，6月25日，深圳市寶安區新安街道一宗商品住宅用地順利成交，成交價105.1億元，競得人為深圳市保利產業投資有限公司。此次出讓的寶安區新安街道A002-0113宗地，與騰訊總部新園區“企鵝島”隔海相望，土地用途為二類居住用地，土地面積37357.23平方米，總建築面積為119535平方米，其中住宅104600平方米。宗地掛牌起始價52.8億元，吸引了華潤&招商、中海、保利發展、建發4家頭部房企到場，經超350輪激烈競價，成交價105.1億元，綜合樓面價8.79萬元/平方米，溢價率99.05%。（21財經）
-
----
-
-### 2026-06-26 08:15:13  #MKT News #Commodities #Energy
-
-National Grid ESO forecasts the UK power system will face a tight supply-demand balance on Friday evening.
-
----
-
-### 2026-06-26 08:14:24  #公司 #國際 #原創
-
-【SpaceX據悉下月開始建造通往星艦發射基地的天然氣管道】當地政府檔案顯示，SpaceX計劃下月開始建造一條名為Starpipe的8英里（13公里）長天然氣管道，通往其位於德克薩斯州的“星際基地”（Starbase） ，以幫助加快其下一代星艦火箭的發射頻率，該管道預計將於明年1月26日投入使用。星艦每次發射需要消耗約63萬加侖（240萬升）液態甲烷，目前這些甲烷需要數百輛油罐車耗時數小時運送，這與馬斯克的擴張計劃不符。SpaceX希望在星際基地建造一座液化設施，將管道輸送的天然氣加工成液態甲烷。該管道內徑為 16 英寸（406 毫米），意味著其燃料輸送能力將超出美國聯邦航空管理局（FAA）當前批准的星艦年發射25次所需的燃料總量。
-
----
-
-### 2026-06-26 08:13:33  #其他
-
-【日經225指數跌幅擴大至2%】日經225指數跌幅擴大至2%，現報70916.26點。
-
----
-
-### 2026-06-26 08:13:25  #市場
-
-海力士股價下跌2.0%，報285.8萬韓元。
-
----
-
-### 2026-06-26 08:13:19  #MKT News #Market Regions #Japan & APAC #Nikkei 225 #Impact bearish
-
-Japan's Nikkei index slipped back below 71,000 points, down 2.00% intraday.
-
----
-
-### 2026-06-26 08:12:32  #Trading Economics #Markets #Commodity #Importance 2
-
-Gold Set for Sharp Weekly Drop — Gold steadied above $4,000 an ounce on Friday but remained on track to lose nearly 5% for the week as hawkish signals from the US Federal Reserve outweighed support from the impact of US-Iran peace efforts. On Thursday, bullion rebounded modestly after the latest US PCE inflation data came in broadly in line with expectations, easing fears of imminent Fed rate hikes and pushing the dollar and Treasury yields lower. Even so, markets are pricing in an 80% chance of a Fed rate hike in December following last week's hawkish pause, while the probability of a September increase stands at around 63%. Meanwhile, oil prices continued to retreat and have returned to pre-conflict levels as progress in US-Iran peace negotiations eased concerns over Middle East supply disruptions and further reduced inflation worries.
 
 ---

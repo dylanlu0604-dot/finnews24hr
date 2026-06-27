@@ -1,7 +1,169 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-06-28 03:03:26_
-_本檔包含 3541 則快訊，約 670547 字_
+_更新時間：2026-06-28 03:40:53_
+_本檔包含 3554 則快訊，約 669952 字_
+
+---
+
+### 2026-06-22 21:36:58  #市場 #觀點
+
+VISTEON股價上漲7%，此前摩根大通將其評級從中性上調至增持。
+
+---
+
+### 2026-06-22 21:36:35  #公司 #市場
+
+谷歌股價下跌3.37%，報355.610美元/股，總市值報4.33萬億美元。
+
+---
+
+### 2026-06-22 21:36:33  #市場
+
+巴西支付平臺 Picpay 因警方調查涉嫌欺詐，股價下跌 7%。
+
+---
+
+### 2026-06-22 21:36:27  #市場
+
+國民西敏寺銀行上漲3.8%，勞埃德銀行上漲3.5%，巴克萊銀行上漲3.2%。
+
+---
+
+### 2026-06-22 21:36:07  #市場 #焦點
+
+瀝青連續主力合約日內跌3%，現報3799.00元。
+
+---
+
+### 2026-06-22 21:36:04  #市場
+
+ALPHABET股價下跌3.7%。
+
+---
+
+### 2026-06-22 21:35:58  #市場
+
+英國銀行股上漲，富時350銀行指數上漲2.3%。
+
+---
+
+### 2026-06-22 21:35:53  #MKT News #Star Stocks #Alphabet #Market Themes #Magnificent 7 #GOOG.O #Impact bearish #Nasdaq100 #S&P500
+
+Alphabet (GOOG.O) opened down 3.7%.
+
+---
+
+### 2026-06-22 21:35:44  #其他
+
+【我國科研團隊揭示“引力子模”的起源】“凝聚態物質中引力子模的實驗發現”是2024年度“中國科學十大進展”之一。記者6月22日從該成果主要完成人、南京大學教授杜靈傑處獲悉，近日他和團隊確認此前觀測到的“引力子模”源自關聯電子中“部分子”的幾何振盪。國際學術期刊《自然·物理》22日線上發表相關新成果。（新華社）
+
+---
+
+### 2026-06-22 21:35:02  #MKT News
+
+S&P assigned a "BBB" rating with a stable outlook to SpaceX (SPCX.O)'s proposed senior notes.
+
+---
+
+### 2026-06-22 21:34:44  #其他
+
+西班牙IBEX35指數日內漲幅達1.00%。
+
+---
+
+### 2026-06-22 21:34:40  #MKT News #Market Regions #Europe & UK
+
+Spain's IBEX 35 was up 1.00% intraday.
+
+---
+
+### 2026-06-22 21:34:37  #MKT News
+
+Qatar's energy minister said there is no security issue, but the ministry will draw lessons from the incident.
+
+---
+
+### 2026-06-22 21:34:31  #其他
+
+標普將 SpaceX 擬發行高階債券評級定為 BBB，展望穩定。
+
+---
+
+### 2026-06-22 21:34:16  #其他
+
+卡達：目前不存在安全隱患，但我們會從各類事故中吸取經驗教訓。
+
+---
+
+### 2026-06-22 21:33:25  #其他
+
+GETTY IMAGES與OPENAI達成合作後股價飆升逾一倍，至1.43美元。
+
+---
+
+### 2026-06-22 21:33:10  #MKT News #Market Themes #Chip Wars #INTC.O
+
+Intel (INTC.O) shares rose 3.3% in early trade, after gaining more than 10% in the previous session.
+
+---
+
+### 2026-06-22 21:32:46  #MKT News #SPCX.O
+
+SpaceX (SPCX.O) fell more than 5% in early trade, marking a third straight session of declines.
+
+---
+
+### 2026-06-22 21:32:43  #公司 #市場
+
+ARCOSA股價上漲7.1%，此前CRH宣佈將以85億美元收購該公司。
+
+---
+
+### 2026-06-22 21:32:29  #市場
+
+英特爾股價上漲3.3%，此前上個交易日該股漲幅超10%。
+
+---
+
+### 2026-06-22 21:32:13  #其他
+
+SpaceX股價今日再跌5.4%。
+
+---
+
+### 2026-06-22 21:31:53  #市場
+
+APOGEE股價在併購交易後飆升47%，創歷史新高；ABBVIE股價上漲3.3%。
+
+---
+
+### 2026-06-22 21:31:45  #MKT News #Dow #Impact bullish #S&P500 #Nasdaq100 #Impact bearish
+
+U.S. equity benchmarks opened mixed on Monday, June 22: Dow Jones Industrial Average up 153.61 points (+0.30%) at 51,718.31; S&P 500 up 12.22 points (+0.16%) at 7,512.80; Nasdaq Composite down 3.49 points (-0.01%) at 26,514.44.
+
+---
+
+### 2026-06-22 21:31:42  #其他
+
+卡達能源部長22日表示，此前發生在萊凡角工業城一家工廠的爆炸已導致13人死亡、66人受傷。（新華社）
+
+---
+
+### 2026-06-22 21:31:28  #MKT News #Important #Market Themes #AI Revolution #MU.O #Impact bullish #SPCX.O #Impact bearish
+
+U.S. stocks opened with the Dow up 0.27%, the S&P 500 up 0.12% and the Nasdaq down 0.08%. Micron Technology (MU.O) rose 5.28% after saying it struck a strategic agreement with ANTHROPIC to expand next‑generation AI infrastructure. SpaceX (SPCX.O) opened down 5.3% as it prepares its first issuance of senior unsecured notes and said net proceeds will be used to repay outstanding borrowings.
+
+---
+
+### 2026-06-22 21:31:22  #公司
+
+埃克森美孚：埃克森美孚控股公司將成為公開上市母公司。
+
+---
+
+### 2026-06-22 21:31:17  #Trading Economics #Markets #Commodity #Importance 1
+
+Rubber Consolidates Near 2-1/2-Year High — Rubber traded around 230 US cents per kilogram, holding near its highest level since late 2023 as markets balanced optimism over a potential US-Iran peace agreement with concerns that an El Niño weather pattern could disrupt production. Weather risks and firm demand from the automotive sector have supported prices, keeping sentiment positive. Demand signals from the auto sector remain mixed but broadly supportive. China’s vehicle sales rose to 2.63 million units in May, driven by passenger cars, while global tire makers continued expanding. Sailun Tire announced a $1.14 billion tire project in Egypt, adding major capacity for passenger, truck, and off-road tires. Michelin remained the world’s most valuable tire brand, while Giti Tire ranked as the fastest-growing. Pirelli also extended its Formula 1 tire supply deal through 2028, reinforcing long-term demand visibility for the rubber industry.
 
 ---
 
@@ -21269,89 +21431,5 @@ Pakistan's prime minister and army chief will attend technical consultations in 
 ### 2026-06-21 03:40:53  #MKT News
 
 【Pakistan prime minister Shehbaz Sharif departs for Switzerland】Pakistan's prime minister Shehbaz Sharif has departed for Switzerland, Pakistani media reported on the 21st.
-
----
-
-### 2026-06-21 03:39:06  #公司 #國際
-
-由三名前SpaceX員工創立的卡斯泰利恩公司正籌備新一輪融資，目標估值不低於120億美元。該初創企業已完成研發階段，拿到美國海軍首批次產訂單，相關融資洽談隨之展開。
-
----
-
-### 2026-06-21 03:33:51  #宏觀 #國際
-
-【伊朗稱墨西哥為本屆世界盃場外贏家】伊朗官方向媒體釋出宣告，指責美國未盡世界盃主辦國應盡責任，並宣佈墨西哥是本屆賽事場外層面的贏家。伊朗駐墨西哥大使館文化事務顧問穆罕默德·禮薩·吉拉尼表示：“2026年國際足聯世界盃的較量不只發生在球場之內，街道、機場、公共廣場同樣是賽場。在這場並行的比拼裡，墨西哥顯然拔得頭籌。”吉拉尼稱讚墨西哥對外地球迷展現出包容友好的氛圍，並以此對比美國帶來的各類入境難題——簽證手續繁瑣、入境審查設限，伊朗代表團在內的多支參賽隊伍都深受其擾。此番表態發表於美伊關係微妙的節點：就在一週前，美國作為主辦國、伊朗作為參賽球隊，還是本屆世界盃僅有的一對處於交戰狀態的雙方。自伊朗隊首場小組賽結束後，美國總統特朗普與伊朗總統已簽署諒解備忘錄，旨在終結美以針對伊朗的戰事。賽場之外，兩國緊張態勢仍未消解。伊朗隊被迫將訓練大本營從美國圖森遷至墨西哥蒂華納；伊朗足協於週四透露，球隊計劃就美方限制行程一事向國際足聯正式申訴：球隊申請提前兩天前往洛杉磯備戰週日對陣比利時的比賽，卻遭到美方駁回。此外，多名伊朗代表團成員的簽證申請被美國國務院拒批。特朗普政府則為美方對伊朗代表團的出行安排作出辯護。白宮世界盃特別工作組執行主任安德魯·朱利亞尼表示，已有31名伊朗球員及教練員順利獲批簽證；他還稱，允許球隊賽前一日入境美國，已是美方釋放的善意之舉。
-
----
-
-### 2026-06-21 03:31:51  #MKT News
-
-【Drone crashes near Iraqi parliament speaker's residence in Anbar; no casualties】Iraqi police said a drone crashed on the 20th near the residence of Iraqi parliament speaker Halbousi in western Anbar province, causing no casualties or property damage. A police source told Xinhua the unidentified drone fell in the Karma area about 150m from Halbousi's home. The crash ignited nearby reeds; civil defence extinguished the fire. Security services are conducting forensic analysis of the wreckage and the cause remains under investigation. No group has claimed responsibility and Iraqi authorities have not issued a statement.
-
----
-
-### 2026-06-21 03:28:07  #MKT News #WTI #Impact bullish #Brent #XAUUSD
-
-【HEZBOLLAH says Israel bears full responsibility for ceasefire breach】HEZBOLLAH said on the 20th, local time, that Israel bears "full responsibility" for violating a ceasefire announced the previous day after Israeli air strikes on southern and eastern Lebanon. HEZBOLLAH described the sustained strikes as "not merely a violation of the ceasefire but naked aggression and a continuation of war, therefore Israeli authorities bear full responsibility."
-
----
-
-### 2026-06-21 03:27:32  #國際
-
-【黎真主黨稱以色列應對違反停火負“全部責任”】黎巴嫩真主黨當地時間20日在宣告中稱，以色列應對違反前一天宣佈的停火協議負“全部責任”。此前，以色列空襲了黎巴嫩南部和東部地區。真主黨表示，以色列持續不斷的襲擊“不再僅僅是違反停火協議，而是赤裸裸的侵略，是戰爭的延續。因此，以色列當局負有全部責任。”
-
----
-
-### 2026-06-21 03:25:36  #國際
-
-伊朗宣稱墨西哥為本屆世界盃冠軍。
-
----
-
-### 2026-06-21 03:19:31  #國際
-
-日本三大巨型銀行年度分紅總額將首次突破2萬億日元。
-
----
-
-### 2026-06-21 03:18:46  #宏觀 #國際
-
-【特朗普：霍爾木茲海峽將不徵收任何通行費】特朗普在社交平臺發文：停火協議生效的60天內，霍爾木茲海峽將不徵收任何通行費；60天期限結束後，同樣不會收取通行費。但若相關協議未能達成，美國將以中東各國守護者的身份提供安保服務，並基於過去、當下及未來產生的成本追償需求，單方面出臺並收取通行費。
-
----
-
-### 2026-06-21 03:17:46  #MKT News #Important #WTI #Impact mixed #Brent
-
-Trump said the Strait of Hormuz will not charge any transit fees during a 60-day ceasefire, and will not charge fees after that period unless the agreement breaks down. If the pact fails, the United States would impose fees for its own purposes as payment for services provided as a "guardian angel" to Middle Eastern countries, to cover past, present and future costs.
-
----
-
-### 2026-06-21 03:16:41  #焦點 #國際
-
-特朗普：霍爾木茲海峽60天寬限期結束後不會徵收通行費，除非通行費由美國徵收並所有。
-
----
-
-### 2026-06-21 03:16:28  #國際
-
-【半島電視臺記者在以軍對加沙地帶空襲中身亡】以軍當天對加沙地帶中部布賴傑難民營的空襲導致兩人死亡，其中包括卡達半島電視臺攝影記者艾哈邁德·瓦沙赫。
-
----
-
-### 2026-06-21 03:12:55  #MKT News
-
-【9th China International Import Expo seminar held in Oslo】A seminar promoting the 9th China International Import Expo (CIIE) was held in Oslo, attended by about 40 Norwegian companies and institutions. Norwegian participants said they value trade with China and will mobilize resources and firms to take part in the CIIE to showcase high-quality products, advanced technologies and professional services, deepen Norwegian presence in the Chinese market and strengthen bilateral trade cooperation.
-
----
-
-### 2026-06-21 03:10:52  #國際
-
-【第九屆進博會座談會在挪威奧斯陸舉辦】近日，第九屆進博會座談會在挪威奧斯陸舉辦，約40家挪威企業和機構代表參會。出席座談會的挪威人士表示，挪威各界十分看重對華經貿合作。進博會作為高水平對外開放平臺，為挪威企業推介優質產品、前沿技術與專業服務、深耕中國市場開闢了務實高效路徑。挪方將持續匯聚資源，積極動員挪威各類企業參與進博會，進一步拉緊中挪互利紐帶，提升雙邊貿易合作質效。（央視新聞）
-
----
-
-### 2026-06-21 03:05:37  #其他
-
-秘魯左翼總統候選人羅伯託・桑切斯表示，其所屬政黨將向有關部門申請作廢本次大選所有海外選票；目前保守派對手藤森惠子在計票最後階段領先優勢不斷擴大，勝選在望。
 
 ---

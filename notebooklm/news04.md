@@ -1,7 +1,25 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-06-28 03:03:26_
-_本檔包含 3511 則快訊，約 670755 字_
+_更新時間：2026-06-28 03:40:53_
+_本檔包含 3487 則快訊，約 670755 字_
+
+---
+
+### 2026-06-23 23:48:20  #Trading Economics #Markets #Euro Area #Stock Market #Importance 1
+
+European Stocks Pull Back from Records — European equity indices closed sharply lower from records on Tuesday as a selloff in the tech sector drove markets to trim their position in risk. The Euro STOXX 50 fell 1.2% to 6,235 and the STOXX Europe 600 dropped a softer 0.5% to 636. ASML slipped 5.5% and Infineon lost 5.8% amid concerns that hyperscalers overspent on AI infrastructure and will be forced to slow expenditure should returns fail to match their guidance. The latest triggers were more cash being raised by SpaceX after its IPO, while Korean SK Hynix announced it would slow production of AI chips to allocate capacity on commodity DRAM chips. Industrial giants with exposure to datacenter projects also retreated, with Siemens and Schneider dropping 2.5% and 4%, respectively. On the other hand, pharmaceuticals closed higher, with Sanofi gaining 1.5% after the EU approved its Cenrifki treatment. PMI data reflected a softer-than-expected contraction in the Eurozone private sector activity.
+
+---
+
+### 2026-06-23 23:48:15  #Trading Economics #Markets #United Kingdom #Stock Market #Importance 1
+
+FTSE 100 Outperforms Global Markets — The FTSE 100 edged higher on Tuesday, outperforming global markets that suffered from souring sentiment surrounding artificial intelligence stocks. The UK index was supported by gains in major healthcare and consumer firms, as AstraZeneca rose 2.5%, GSK added 1.9%, Unilever climbed 1.6%, and British American Tobacco gained 3.4%. Additionally, Bunzl shares surged over 5% after a strong first half led the company to raise its annual revenue growth outlook. Conversely, mining stocks fell sharply, with Antofagasta dropping 5.6% and Anglo American losing 5%. Investors also monitored local political developments following the resignation of Prime Minister Keir Starmer, with Andy Burnham widely expected to succeed him amid concerns over soaring public debt approaching 100% of economic output. These market movements unfolded alongside fresh economic data showing the domestic services sector contracted at its fastest rate in nearly three and a half years in June.
+
+---
+
+### 2026-06-23 23:48:00  #MKT News
+
+【Lebanese president says talks must secure end to Israel's occupation】Lebanese President Aoun said his government will not accept any negotiation outcome short of Israel ending its occupation of Lebanese territory and Lebanon restoring full territorial sovereignty. He was briefed on a Lebanese delegation's report from the fifth round of Lebanon–US–Israel talks in Washington. In calls with US Vice President Vance and Secretary of State Rubio, Aoun and US officials discussed recent developments and phased progress in US–Iran talks in Switzerland; Vance and Rubio said the US supports Lebanon's push to extend legitimate state authority across its territory and strengthen control over national sovereignty.
 
 ---
 
@@ -21038,167 +21056,5 @@ WTI原油失守74美元/桶，日內跌2.47%。
 ### 2026-06-22 21:37:57  #Trading Economics #Markets #United States #Stock Market #Importance 2
 
 US Stocks Start Week higher — US stocks rose on Monday, extending the rebound from last week on fresh optimism that peace in the Middle East would re-establish energy supply from the region. The S&P 500 and Nasdaq 100 inched higher while the Dow gained over 200 points. Iran stated there was major progress in the recent discussions with the US as both sides agreed to reach a peace deal within two months. Prices for energy commodities fell further on hopes of restored supply, although lingering expectations of a hawkish Fed following last week's meetings prevented support for Treasuries. Chip producers extended their historic rally with Micron and Sandisk adding 5%. Meanwhile, AI hyperscalers extended their underperformance with Amazon, Oracle, and Meta dropping over 2% each on concerns over soaring AI capex. Likewise, SpaceX sank 5% after announcing a new bond sale, although it remains 40% above its IPO. Also, AbbVie added 1% after agreeing to buy Apogee Therapeutics in a $10.9 billion cash deal.
-
----
-
-### 2026-06-22 21:36:58  #市場 #觀點
-
-VISTEON股價上漲7%，此前摩根大通將其評級從中性上調至增持。
-
----
-
-### 2026-06-22 21:36:35  #公司 #市場
-
-谷歌股價下跌3.37%，報355.610美元/股，總市值報4.33萬億美元。
-
----
-
-### 2026-06-22 21:36:33  #市場
-
-巴西支付平臺 Picpay 因警方調查涉嫌欺詐，股價下跌 7%。
-
----
-
-### 2026-06-22 21:36:27  #市場
-
-國民西敏寺銀行上漲3.8%，勞埃德銀行上漲3.5%，巴克萊銀行上漲3.2%。
-
----
-
-### 2026-06-22 21:36:07  #市場 #焦點
-
-瀝青連續主力合約日內跌3%，現報3799.00元。
-
----
-
-### 2026-06-22 21:36:04  #市場
-
-ALPHABET股價下跌3.7%。
-
----
-
-### 2026-06-22 21:35:58  #市場
-
-英國銀行股上漲，富時350銀行指數上漲2.3%。
-
----
-
-### 2026-06-22 21:35:53  #MKT News #Star Stocks #Alphabet #Market Themes #Magnificent 7 #GOOG.O #Impact bearish #Nasdaq100 #S&P500
-
-Alphabet (GOOG.O) opened down 3.7%.
-
----
-
-### 2026-06-22 21:35:44  #其他
-
-【我國科研團隊揭示“引力子模”的起源】“凝聚態物質中引力子模的實驗發現”是2024年度“中國科學十大進展”之一。記者6月22日從該成果主要完成人、南京大學教授杜靈傑處獲悉，近日他和團隊確認此前觀測到的“引力子模”源自關聯電子中“部分子”的幾何振盪。國際學術期刊《自然·物理》22日線上發表相關新成果。（新華社）
-
----
-
-### 2026-06-22 21:35:02  #MKT News
-
-S&P assigned a "BBB" rating with a stable outlook to SpaceX (SPCX.O)'s proposed senior notes.
-
----
-
-### 2026-06-22 21:34:44  #其他
-
-西班牙IBEX35指數日內漲幅達1.00%。
-
----
-
-### 2026-06-22 21:34:40  #MKT News #Market Regions #Europe & UK
-
-Spain's IBEX 35 was up 1.00% intraday.
-
----
-
-### 2026-06-22 21:34:37  #MKT News
-
-Qatar's energy minister said there is no security issue, but the ministry will draw lessons from the incident.
-
----
-
-### 2026-06-22 21:34:31  #其他
-
-標普將 SpaceX 擬發行高階債券評級定為 BBB，展望穩定。
-
----
-
-### 2026-06-22 21:34:16  #其他
-
-卡達：目前不存在安全隱患，但我們會從各類事故中吸取經驗教訓。
-
----
-
-### 2026-06-22 21:33:25  #其他
-
-GETTY IMAGES與OPENAI達成合作後股價飆升逾一倍，至1.43美元。
-
----
-
-### 2026-06-22 21:33:10  #MKT News #Market Themes #Chip Wars #INTC.O
-
-Intel (INTC.O) shares rose 3.3% in early trade, after gaining more than 10% in the previous session.
-
----
-
-### 2026-06-22 21:32:46  #MKT News #SPCX.O
-
-SpaceX (SPCX.O) fell more than 5% in early trade, marking a third straight session of declines.
-
----
-
-### 2026-06-22 21:32:43  #公司 #市場
-
-ARCOSA股價上漲7.1%，此前CRH宣佈將以85億美元收購該公司。
-
----
-
-### 2026-06-22 21:32:29  #市場
-
-英特爾股價上漲3.3%，此前上個交易日該股漲幅超10%。
-
----
-
-### 2026-06-22 21:32:13  #其他
-
-SpaceX股價今日再跌5.4%。
-
----
-
-### 2026-06-22 21:31:53  #市場
-
-APOGEE股價在併購交易後飆升47%，創歷史新高；ABBVIE股價上漲3.3%。
-
----
-
-### 2026-06-22 21:31:45  #MKT News #Dow #Impact bullish #S&P500 #Nasdaq100 #Impact bearish
-
-U.S. equity benchmarks opened mixed on Monday, June 22: Dow Jones Industrial Average up 153.61 points (+0.30%) at 51,718.31; S&P 500 up 12.22 points (+0.16%) at 7,512.80; Nasdaq Composite down 3.49 points (-0.01%) at 26,514.44.
-
----
-
-### 2026-06-22 21:31:42  #其他
-
-卡達能源部長22日表示，此前發生在萊凡角工業城一家工廠的爆炸已導致13人死亡、66人受傷。（新華社）
-
----
-
-### 2026-06-22 21:31:28  #MKT News #Important #Market Themes #AI Revolution #MU.O #Impact bullish #SPCX.O #Impact bearish
-
-U.S. stocks opened with the Dow up 0.27%, the S&P 500 up 0.12% and the Nasdaq down 0.08%. Micron Technology (MU.O) rose 5.28% after saying it struck a strategic agreement with ANTHROPIC to expand next‑generation AI infrastructure. SpaceX (SPCX.O) opened down 5.3% as it prepares its first issuance of senior unsecured notes and said net proceeds will be used to repay outstanding borrowings.
-
----
-
-### 2026-06-22 21:31:22  #公司
-
-埃克森美孚：埃克森美孚控股公司將成為公開上市母公司。
-
----
-
-### 2026-06-22 21:31:17  #Trading Economics #Markets #Commodity #Importance 1
-
-Rubber Consolidates Near 2-1/2-Year High — Rubber traded around 230 US cents per kilogram, holding near its highest level since late 2023 as markets balanced optimism over a potential US-Iran peace agreement with concerns that an El Niño weather pattern could disrupt production. Weather risks and firm demand from the automotive sector have supported prices, keeping sentiment positive. Demand signals from the auto sector remain mixed but broadly supportive. China’s vehicle sales rose to 2.63 million units in May, driven by passenger cars, while global tire makers continued expanding. Sailun Tire announced a $1.14 billion tire project in Egypt, adding major capacity for passenger, truck, and off-road tires. Michelin remained the world’s most valuable tire brand, while Giti Tire ranked as the fastest-growing. Pirelli also extended its Formula 1 tire supply deal through 2028, reinforcing long-term demand visibility for the rubber industry.
 
 ---
