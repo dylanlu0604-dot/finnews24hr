@@ -1,7 +1,139 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-06-28 05:04:43_
-_本檔包含 3483 則快訊，約 670512 字_
+_更新時間：2026-06-28 05:36:22_
+_本檔包含 3489 則快訊，約 669833 字_
+
+---
+
+### 2026-06-24 00:10:10  #Trading Economics #Markets #France #Stock Market #Importance 1
+
+The CAC 40 Index Closes 0.71% Lower — The CAC 40 Index fell 59 points or 0.71 percent on Tuesday to close at 8341 points. Leading the losses are STMicroelectronics (-9.11%), Stellantis NV (-6.43%) and Legrand (-4.15%). Top gainers were Eurofins Scientific SE (2.77%), Dassault Systemes (2.35%) and Airbus (1.97%).
+
+---
+
+### 2026-06-24 00:09:58  #兩會
+
+【律師法修正草案提請全國人大常委會會議審議】6月23日，律師法修正草案提請十四屆全國人大常委會第二十三次會議審議。草案將實踐證明可行的改革試點成果上升為法律規定，統籌推進國內法治和涉外法治，堅持保障和規範律師執業權利並重，完善現行律師制度。（央視新聞）
+
+---
+
+### 2026-06-24 00:09:32  #公司
+
+【英國擬堵線上銷售增值稅漏洞，目標直指本土賣家】英國提議允許線上平臺向本土企業代收增值稅，以堵住一個每年給政府造成數億英鎊損失的漏洞。該提案旨在改革增值稅規則。亞馬遜及其他零售商聲稱，現行規則存在一個“結構性漏洞”，對本土企業和在海外運營的企業區別對待，導致系統存在被濫用的風險。該提案旨在改革現行增值稅規則，該規則對本土企業和在海外運營的企業區別對待，導致系統存在被濫用的風險。政府正考慮兩種方案，將“視同轉售商”制度擴充套件至本土賣家，其中一種方案是針對在單個線上平臺銷售額超過特定門檻的本土企業。
+
+---
+
+### 2026-06-24 00:08:43  #公司 #國際
+
+谷歌：自 7 月 23 日起，歐洲經濟區 24 個市場的金融服務廣告主需完成全新資質核驗。
+
+---
+
+### 2026-06-24 00:08:37  #MKT News
+
+SpaceX (SPCX.O) extended intraday gains to 5.3%.
+
+---
+
+### 2026-06-24 00:08:08  #MKT News
+
+Pakistan's prime minister said Pakistan hopes to continue serving as a mediator "until durable peace is achieved".
+
+---
+
+### 2026-06-24 00:07:46  #MKT News #Star Stocks #Alphabet #Market Themes #Magnificent 7
+
+Google introduces new verification requirements for certain financial-services advertisers.
+
+---
+
+### 2026-06-24 00:07:39  #公司
+
+谷歌：針對部分金融服務廣告主推出全新資質核驗要求。
+
+---
+
+### 2026-06-24 00:07:27  #其他
+
+巴基斯坦總理謝里夫稱其將於下週訪問德黑蘭。
+
+---
+
+### 2026-06-24 00:07:16  #MKT News
+
+Pakistan's prime minister said he will visit Tehran next week.
+
+---
+
+### 2026-06-24 00:07:11  #Trading Economics #Markets #United Kingdom #Stock Market #Importance 1
+
+The FTSE 100 Index Closes 0.15% Higher — The FTSE 100 Index gained 16 points or 0.15 percent on Tuesday to close at 10454 points. Gains were led by Bunzl (5.32%), British American Tobacco (3.35%) and Diageo (2.77%). Biggest losers were Antofagasta (-5.46%), Anglo American (-4.99%) and Glencore (-4.53%).
+
+---
+
+### 2026-06-24 00:06:53  #其他
+
+SPACEX股價漲幅擴大至5.6%。
+
+---
+
+### 2026-06-24 00:06:34  #MKT News
+
+U.S. Secretary of State Rubio said no country may charge tolls or transit fees for passage through international waterways, saying that is consistent with existing international law.
+
+---
+
+### 2026-06-24 00:06:19  #MKT News #DXY #Impact bullish #XAUUSD #Brent
+
+US Secretary of State Rubio said if Iranian proxies launch missiles, hostilities in the region cannot be ended.
+
+---
+
+### 2026-06-24 00:06:19  #MKT News
+
+US Secretary of State Rubio said the matter will be raised at an appropriate time.
+
+---
+
+### 2026-06-24 00:06:18  #國際
+
+美國國務卿魯比奧： 依據現行國際法，任何國家不得在國際水道收取通行費或相關費用。
+
+---
+
+### 2026-06-24 00:06:12  #MKT News
+
+CENC recorded a magnitude-4.2 earthquake at 23:56 on June 23 (local time) in Haixi prefecture, Qinghai (37.85°N, 95.54°E); depth 10 km.
+
+---
+
+### 2026-06-24 00:05:41  #國際
+
+美國國務卿魯比奧： 若伊朗代理人持續發射導彈，中東地區的敵對沖突便無從平息。
+
+---
+
+### 2026-06-24 00:05:20  #國際
+
+美國國務卿魯比奧： 伊朗諒解備忘錄將在與中東地區的會談中被提及。
+
+---
+
+### 2026-06-24 00:04:51  #MKT News
+
+US Secretary of State Rubio said the US will engage directly with the Lebanese government.
+
+---
+
+### 2026-06-24 00:04:38  #國際
+
+美國國務卿魯比奧：我們將直接與黎巴嫩政府打交道。
+
+---
+
+### 2026-06-24 00:02:17  #MKT News #WTI #Impact bearish #Brent #XAUUSD
+
+【Wang Yi meets UAE Supreme National Security Council secretary al-Shamsi in New Delhi】Chinese Politburo member and director of the Central Foreign Affairs Office Wang Yi met UAE Supreme National Security Council secretary al-Shamsi in New Delhi on the 23rd and said China and Arab states have maintained close communication since the US‑Israel‑Iran hostilities began. He urged a swift end to the fighting and set out three priorities: insist on a permanent, comprehensive ceasefire and implement the recently signed memorandum of understanding; restore normal navigation through the Strait of Hormuz as soon as possible to reopen the region’s development lifeline; and rebuild mutual trust among regional states and explore a new regional security architecture adapted to current conditions. Wang said the Middle East should not become an arena for great‑power rivalry and that China will continue to support the UAE’s constructive role in promoting long‑term regional stability.
 
 ---
 
@@ -20936,101 +21068,5 @@ WTI crude fell about 4.0% intraday to $74.16/bbl.
 ### 2026-06-22 21:50:06  #公司
 
 【盯盯拍（深圳）技術股份有限公司向港交所提交上市申請書】據港交所檔案：盯盯拍（深圳）技術股份有限公司向港交所提交上市申請書。
-
----
-
-### 2026-06-22 21:50:04  #MKT News #Important #EURUSD #Impact mixed #DXY
-
-Preliminary Eurozone consumer confidence for June due in 10 minutes.
-
----
-
-### 2026-06-22 21:49:54  #市場
-
-加密類個股上漲，因比特幣價格漲幅超2%。RIOT PLATFORMS上漲6.8%，HUT 8 CORP上漲1%，MARA HOLDINGS上漲10.5%。ProShares比特幣策略交易型開放式指數基金上漲4%，貝萊德iShares比特幣信託上漲4%。
-
----
-
-### 2026-06-22 21:49:41  #Trading Economics #Markets #United States #stocks #Importance 1
-
-Comcast Stock Price Hits 14-1/2-year Low — Comcast shares decreased to 22.15 USD, the lowest since November 2011. Over the past 4 weeks, Comcast lost 9.03%, and in the last 12 months, it decreased 34.67%.
-
----
-
-### 2026-06-22 21:49:41  #MKT News
-
-【Commerce vice minister Ling Ji meets Asia‑Pacific Medical Technology Association delegation】June 22 — Vice Minister of Commerce and deputy chief trade negotiator Ling Ji met with a delegation from the Asia‑Pacific Medical Technology Association and member firms to discuss the operating environment and concerns of foreign medtech companies in China. Ling said that during the 15th Five‑Year Plan period China will accelerate development of biopharma and other emerging pillar industries, advance the Healthy China agenda, and welcomes multinational pharmaceutical and medtech companies to deepen cooperation, expand in‑China R&D, and increase localization of production and supply chains to help safeguard global pharmaceutical supply‑chain stability. The association and member firms said they see significant market potential in China and plan to increase investment, deepen local partnerships and intensify regional technology exchanges.
-
----
-
-### 2026-06-22 21:48:57  #其他
-
-【商務部副部長兼國際貿易談判副代表凌激會見亞太醫療技術協會及會員企業代表團】6月22日，商務部副部長兼國際貿易談判副代表凌激會見亞太醫療技術協會及會員企業代表團，雙方就醫療技術行業外資企業在華髮展情況和關注的問題等進行了交流。凌激表示，“十五五”期間中國將加快發展生物醫藥等新興支柱產業，全面推進健康中國建設，歡迎跨國醫藥企業與中國企業密切合作，加大在華創新研發，提升產供鏈本土化水平，共同維護全球醫藥產業鏈供應鏈穩定。亞太醫療技術協會和會員企業代表一致表示，中國市場潛力巨大，將加大在華投入，深化與中國企業合作，加強區域技術交流，共同促進全球醫療健康事業發展。（商務部）
-
----
-
-### 2026-06-22 21:48:08  #央行 #資料 #市場
-
-【機構：食品價格在加拿大CPI報告中再次抬頭】加拿大5月份整體通脹率加速至3.2%，為2023年底以來的最高水平。BMO資本市場首席經濟學家道格拉斯·波特表示，重要的是，加拿大央行的兩項主要核心CPI指標當月基本持平，接近2%。波特說，繼能源之後，食品價格在推高通脹方面發揮著顯著的次要作用；他指出，由於墨西哥產量下降，番茄價格同比上漲了45%。此外，餐飲食品被加拿大統計局列為5月份3.2%通脹率的主要貢獻因素。“食品通脹的持續是一個棘手的問題，“波特說。
-
----
-
-### 2026-06-22 21:47:48  #市場 #焦點
-
-燃料油連續主力合約日內跌3%，現報3030.00元。
-
----
-
-### 2026-06-22 21:47:47  #MKT News #Commodities #Energy #WTI #Impact bearish
-
-WTI crude futures fell 3.00% intraday to $73.57/barrel.
-
----
-
-### 2026-06-22 21:47:36  #市場
-
-WTI原油日內跌3%，現報73.57美元/桶。
-
----
-
-### 2026-06-22 21:46:44  #其他 #焦點
-
-【農業農村部、國家發展改革委召開強化生豬產能綜合調控座談會】近日，農業農村部、國家發展改革委有關司局組織部分生豬主產省份和大型生豬養殖企業召開座談會，分析研判當前生豬生產形勢，指導地方和企業開展常態化精準調控，推動豬價盡快回到合理水平。會議認為，當前生豬價格築底企穩，必須持續抓緊抓實各項產能綜合調控措施，切實改善市場供需關係，鞏固生豬價格回升基礎。會議要求，大型生豬養殖企業要積極響應號召，提高生產統計監測資料包送質量，帶頭壓減生豬產能和產量，帶頭嚴控二次育肥，帶頭淘汰弱仔豬，帶頭降低出欄體重。相關主產省份要加強各環節監管和監測資訊共享，強化穿透式管理；抓緊修訂落實省級產能調控方案，更好形成政策合力，繼續實質性壓減產能。（農業農村部畜牧獸醫局）
-
----
-
-### 2026-06-22 21:46:31  #MKT News #Important
-
-【Ministry of Agriculture and Rural Affairs, NDRC convene meeting to tighten comprehensive control of hog production capacity】The Ministry of Agriculture and Rural Affairs and the National Development and Reform Commission convened major hog-producing provinces and large hog producers to assess current live-hog production and to steer routine, targeted capacity controls aimed at returning hog prices to reasonable levels. Officials said prices have bottomed and stabilised but demanded continued, tightened comprehensive capacity-control measures to improve the supply-demand balance and cement the price recovery. Large producers were ordered to improve the quality of production statistics and monitoring-data reporting, take the lead in reducing capacity and output, strictly curb secondary re-fattening, cull weak piglets and lower slaughter weights. Major producing provinces were instructed to strengthen oversight and monitoring-data sharing, finalise and implement provincial capacity-control plans and continue substantive capacity reductions.
-
----
-
-### 2026-06-22 21:46:04  #MKT News #EURUSD #Impact mixed
-
-ECB President Lagarde said the bank will not use the neutral interest-rate range as the basis for policy decisions.
-
----
-
-### 2026-06-22 21:46:03  #央行 #國際
-
-歐洲央行行長拉加德：不會依據中性利率區間制定政策決議。
-
----
-
-### 2026-06-22 21:45:42  #市場 #焦點
-
-聚丙烯連續主力合約日內跌2%，現報7468.00元。
-
----
-
-### 2026-06-22 21:44:44  #宏觀 #焦點 #國際
-
-【美財政部放寬對伊朗能源相關交易限制】當地時間6月22日，美國財政部發布一般許可證，授權至8月21日期間，允許涉及伊朗原產原油、石化產品及石油產品的生產、運輸與銷售。檔案顯示，該一般許可證涵蓋允許進口伊朗原產原油、石化及石油產品進入美國的相關交易。（央視新聞）
-
----
-
-### 2026-06-22 21:44:28  #MKT News #MU.O #Impact bullish
-
-Micron Technology (MU.O) opened higher and rose, at one point up more than 6% in early trade, extending gains to fresh record highs; market capitalization about 1.36 tln dlr.
 
 ---

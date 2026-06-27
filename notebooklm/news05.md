@@ -1,7 +1,103 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-06-28 05:04:43_
-_本檔包含 3541 則快訊，約 670600 字_
+_更新時間：2026-06-28 05:36:22_
+_本檔包含 3544 則快訊，約 669863 字_
+
+---
+
+### 2026-06-22 21:50:04  #MKT News #Important #EURUSD #Impact mixed #DXY
+
+Preliminary Eurozone consumer confidence for June due in 10 minutes.
+
+---
+
+### 2026-06-22 21:49:54  #市場
+
+加密類個股上漲，因比特幣價格漲幅超2%。RIOT PLATFORMS上漲6.8%，HUT 8 CORP上漲1%，MARA HOLDINGS上漲10.5%。ProShares比特幣策略交易型開放式指數基金上漲4%，貝萊德iShares比特幣信託上漲4%。
+
+---
+
+### 2026-06-22 21:49:41  #Trading Economics #Markets #United States #stocks #Importance 1
+
+Comcast Stock Price Hits 14-1/2-year Low — Comcast shares decreased to 22.15 USD, the lowest since November 2011. Over the past 4 weeks, Comcast lost 9.03%, and in the last 12 months, it decreased 34.67%.
+
+---
+
+### 2026-06-22 21:49:41  #MKT News
+
+【Commerce vice minister Ling Ji meets Asia‑Pacific Medical Technology Association delegation】June 22 — Vice Minister of Commerce and deputy chief trade negotiator Ling Ji met with a delegation from the Asia‑Pacific Medical Technology Association and member firms to discuss the operating environment and concerns of foreign medtech companies in China. Ling said that during the 15th Five‑Year Plan period China will accelerate development of biopharma and other emerging pillar industries, advance the Healthy China agenda, and welcomes multinational pharmaceutical and medtech companies to deepen cooperation, expand in‑China R&D, and increase localization of production and supply chains to help safeguard global pharmaceutical supply‑chain stability. The association and member firms said they see significant market potential in China and plan to increase investment, deepen local partnerships and intensify regional technology exchanges.
+
+---
+
+### 2026-06-22 21:48:57  #其他
+
+【商務部副部長兼國際貿易談判副代表凌激會見亞太醫療技術協會及會員企業代表團】6月22日，商務部副部長兼國際貿易談判副代表凌激會見亞太醫療技術協會及會員企業代表團，雙方就醫療技術行業外資企業在華髮展情況和關注的問題等進行了交流。凌激表示，“十五五”期間中國將加快發展生物醫藥等新興支柱產業，全面推進健康中國建設，歡迎跨國醫藥企業與中國企業密切合作，加大在華創新研發，提升產供鏈本土化水平，共同維護全球醫藥產業鏈供應鏈穩定。亞太醫療技術協會和會員企業代表一致表示，中國市場潛力巨大，將加大在華投入，深化與中國企業合作，加強區域技術交流，共同促進全球醫療健康事業發展。（商務部）
+
+---
+
+### 2026-06-22 21:48:08  #央行 #資料 #市場
+
+【機構：食品價格在加拿大CPI報告中再次抬頭】加拿大5月份整體通脹率加速至3.2%，為2023年底以來的最高水平。BMO資本市場首席經濟學家道格拉斯·波特表示，重要的是，加拿大央行的兩項主要核心CPI指標當月基本持平，接近2%。波特說，繼能源之後，食品價格在推高通脹方面發揮著顯著的次要作用；他指出，由於墨西哥產量下降，番茄價格同比上漲了45%。此外，餐飲食品被加拿大統計局列為5月份3.2%通脹率的主要貢獻因素。“食品通脹的持續是一個棘手的問題，“波特說。
+
+---
+
+### 2026-06-22 21:47:48  #市場 #焦點
+
+燃料油連續主力合約日內跌3%，現報3030.00元。
+
+---
+
+### 2026-06-22 21:47:47  #MKT News #Commodities #Energy #WTI #Impact bearish
+
+WTI crude futures fell 3.00% intraday to $73.57/barrel.
+
+---
+
+### 2026-06-22 21:47:36  #市場
+
+WTI原油日內跌3%，現報73.57美元/桶。
+
+---
+
+### 2026-06-22 21:46:44  #其他 #焦點
+
+【農業農村部、國家發展改革委召開強化生豬產能綜合調控座談會】近日，農業農村部、國家發展改革委有關司局組織部分生豬主產省份和大型生豬養殖企業召開座談會，分析研判當前生豬生產形勢，指導地方和企業開展常態化精準調控，推動豬價盡快回到合理水平。會議認為，當前生豬價格築底企穩，必須持續抓緊抓實各項產能綜合調控措施，切實改善市場供需關係，鞏固生豬價格回升基礎。會議要求，大型生豬養殖企業要積極響應號召，提高生產統計監測資料包送質量，帶頭壓減生豬產能和產量，帶頭嚴控二次育肥，帶頭淘汰弱仔豬，帶頭降低出欄體重。相關主產省份要加強各環節監管和監測資訊共享，強化穿透式管理；抓緊修訂落實省級產能調控方案，更好形成政策合力，繼續實質性壓減產能。（農業農村部畜牧獸醫局）
+
+---
+
+### 2026-06-22 21:46:31  #MKT News #Important
+
+【Ministry of Agriculture and Rural Affairs, NDRC convene meeting to tighten comprehensive control of hog production capacity】The Ministry of Agriculture and Rural Affairs and the National Development and Reform Commission convened major hog-producing provinces and large hog producers to assess current live-hog production and to steer routine, targeted capacity controls aimed at returning hog prices to reasonable levels. Officials said prices have bottomed and stabilised but demanded continued, tightened comprehensive capacity-control measures to improve the supply-demand balance and cement the price recovery. Large producers were ordered to improve the quality of production statistics and monitoring-data reporting, take the lead in reducing capacity and output, strictly curb secondary re-fattening, cull weak piglets and lower slaughter weights. Major producing provinces were instructed to strengthen oversight and monitoring-data sharing, finalise and implement provincial capacity-control plans and continue substantive capacity reductions.
+
+---
+
+### 2026-06-22 21:46:04  #MKT News #EURUSD #Impact mixed
+
+ECB President Lagarde said the bank will not use the neutral interest-rate range as the basis for policy decisions.
+
+---
+
+### 2026-06-22 21:46:03  #央行 #國際
+
+歐洲央行行長拉加德：不會依據中性利率區間制定政策決議。
+
+---
+
+### 2026-06-22 21:45:42  #市場 #焦點
+
+聚丙烯連續主力合約日內跌2%，現報7468.00元。
+
+---
+
+### 2026-06-22 21:44:44  #宏觀 #焦點 #國際
+
+【美財政部放寬對伊朗能源相關交易限制】當地時間6月22日，美國財政部發布一般許可證，授權至8月21日期間，允許涉及伊朗原產原油、石化產品及石油產品的生產、運輸與銷售。檔案顯示，該一般許可證涵蓋允許進口伊朗原產原油、石化及石油產品進入美國的相關交易。（央視新聞）
+
+---
+
+### 2026-06-22 21:44:28  #MKT News #MU.O #Impact bullish
+
+Micron Technology (MU.O) opened higher and rose, at one point up more than 6% in early trade, extending gains to fresh record highs; market capitalization about 1.36 tln dlr.
 
 ---
 
@@ -21275,83 +21371,5 @@ Two killed and one wounded in a pre-dawn shooting outside a bar in West Haven, C
 ### 2026-06-21 05:47:57  #其他
 
 【英國國王個人納稅賬單將首次對外公開】隨著英國社會各界對王室財務狀況的審查力度持續加大，白金漢宮將首次對外公佈國王的個人納稅明細。一份全新、內容詳盡的王室家庭年度財務報告將於下週釋出，與常規君主撥款報告同步對外公示，此舉旨在推動王室“現代化革新與發展”。本次披露被稱作“歷史性首次公開”，報告將完整展示國王2024至2025財年的個人納稅總額，且今後每年都會持續公示該項納稅資料。此前一直拒絕公開納稅記錄的威爾士親王，此次也將同步公佈自己的個人繳稅賬單。這份白金漢宮釋出的報告將完整羅列國王所有私人收入來源，包括各類投資收益、經營利潤、巴爾莫勒爾與桑德靈厄姆兩座私人莊園營收，以及個人儲蓄所得。蘭開斯特公國是由土地、投資專案，以及辦公、商業、工業地產構成的私人資產組合，每年為國王帶來穩定收入，上一年度該公國收益達2680萬英鎊。
-
----
-
-### 2026-06-21 05:34:05  #國際
-
-【伊朗談判代表團抵達瑞士 萬斯已啟程將出席美伊談判】當地時間6月20日，巴基斯坦外交部宣佈，根據美伊諒解備忘錄的後續安排，技術層級會談將於2026年6月21日在瑞士舉行。截至目前，伊朗談判代表團已抵達瑞士蘇黎世，正在前往會談舉辦地比爾根山的途中。美國副總統萬斯也已開啟赴瑞士行程，準備參與21日的美伊技術層級談判。（央視新聞）
-
----
-
-### 2026-06-21 05:33:37  #國際
-
-【以軍稱對加沙地帶一名哈馬斯成員進行精準空襲】當地時間20日，以色列國防軍發表宣告稱，以軍當天早些時候在加沙地帶中部實施了一次精準空襲，打死了巴勒斯坦伊斯蘭抵抗運動（哈馬斯）下屬武裝派別的一名成員。以軍稱，此人同時擔任半島電視臺的攝影記者。根據以軍通報，被打死的武裝人員名為艾哈邁德·薩米爾·穆罕默德·瓦沙赫。以軍在空襲中還同時打死了另外兩名哈馬斯武裝人員。宣告稱，瓦沙赫在擔任半島電視臺攝影記者同時，一直作為哈馬斯軍事部門的狙擊手進行活動。近幾個月來，他曾策劃襲擊在加沙地帶的以軍部隊及其他軍事行動，對以軍“構成直接威脅”，因此以軍透過精準空襲將其打死。以軍還提到，瓦沙赫的兄弟穆罕默德·薩米爾·穆罕默德·瓦沙赫生前是哈馬斯火箭彈和武器生產部門的關鍵成員，同樣以半島電視臺記者身份作為掩護，並已於今年4月被以軍打死。以軍表示，根據停火協議，以軍南方司令部的部隊依然部署在該地區，並將繼續採取軍事行動以“消除任何緊迫威脅”。目前哈馬斯方面暫無回應。（央視新聞）
-
----
-
-### 2026-06-21 05:33:06  #MKT News #WTI #Impact bearish #XAUUSD #S&P500 #Impact bullish
-
-【Egypt, Saudi, Turkey foreign ministers and US senior adviser hold talks in Cairo】On June 20 in Cairo, the foreign ministers of Egypt, Saudi Arabia and Turkey met with a US senior presidential adviser for Arab and Middle East affairs to discuss regional security, including Iran. An Egyptian foreign ministry statement said participants urged building on the US-Iran memorandum of understanding to sustain de-escalation and promote regional stability. They also discussed developments in Libya and Gaza and exchanged views on enhanced cooperation to support security and stability in Africa.
-
----
-
-### 2026-06-21 05:33:03  #國際
-
-【埃及、沙特、土耳其外長和美國高階官員舉行會談】當地時間20日，埃及外長阿卜杜勒阿提同沙烏地阿拉伯外交大臣費薩爾、土耳其外長費丹和美國總統阿拉伯和中東事務高階顧問（兼非洲事務高階顧問）布洛斯在開羅舉行會談，就包括伊朗問題在內的當前地區局勢交換意見。據埃及外交部宣告，會議討論了伊朗問題等一系列地區議題，強調應以美伊簽署諒解備忘錄為基礎，持續推動局勢緩和，促進地區安全與穩定。宣告還說，與會各方討論了利比亞局勢和加沙地帶事態發展，並就加強合作以支援非洲大陸安全與穩定交換看法。（新華社）
-
----
-
-### 2026-06-21 05:26:08  #MKT News #Important
-
-Refinitiv: UK government sources said Prime Minister Starmer is focused on carrying out his duties.
-
----
-
-### 2026-06-21 05:25:39  #MKT News
-
-【IDF says carried out precision airstrike on Hamas member in Gaza】Israel Defense Forces said on the 20th it carried out a precision airstrike in central Gaza that killed Ahmed Samir Mohamed Washa, a member of Hamas’s armed wing whom the IDF said also worked as an Al Jazeera cameraman. The IDF said two other Hamas militants were killed and alleged Washa acted as a sniper for Hamas’s military wing and had planned attacks on Israeli forces, posing a direct threat. The IDF said Washa’s brother, Mohammed Samir Mohamed Washa, a key member of Hamas’s rocket and weapons-production unit who also used an Al Jazeera journalist cover, was killed by Israeli strikes in April.
-
----
-
-### 2026-06-21 05:19:36  #MKT News
-
-Israel Defense Forces (IDF) said Ahmed Vashakh, a former Al Jazeera photographer who served as a Hamas sniper operator, was killed in a precision strike in central Gaza and had planned multiple sniper attacks in recent months.
-
----
-
-### 2026-06-21 05:17:37  #MKT News
-
-【U.S. Vice President Vance says Iran talks to focus on nuclear issue, Lebanon ceasefire】U.S. Vice President Vance said ahead of travel to Switzerland that talks with Iran will prioritize progress on the nuclear issue and pushing for a Lebanon ceasefire. He said a political leadership–led framework will be set at the highest level while technical teams continue on the ground, and that he expects to stay in Switzerland one to two days but hopes to advance handling of Iranian nuclear material. Vance said securing a Lebanon ceasefire is also a priority after recent Israeli missile strikes in the area and that the situation will require ongoing management; he added Iran will have its own items it wants to discuss.
-
----
-
-### 2026-06-21 05:15:54  #其他 #焦點
-
-【英國首相斯塔默擬於週一辭職，並規劃有序卸任安排】英國《觀察家報》週六披露，首相斯塔默預計將於週一宣佈辭職，並公佈離任時間表。該報稱，斯塔默在與內閣大臣、顧問、政黨捐助者以及工會領袖溝通後，認定自己已無力繼續執掌首相一職。報道表示，斯塔默目前正在契克斯鄉間官邸與妻子商議此事，待商議完畢將作出最終決定；工黨高層普遍預計，他最早會在週一就自身去留髮布明確宣告。
-
----
-
-### 2026-06-21 05:15:27  #MKT News #GBPUSD #Impact bearish #FTSE100 #Impact mixed #DXY #Impact bullish
-
-【UK media: Starmer may announce resignation as early as next Monday】The Observer reports Prime Minister Starmer is preparing a timetable to step down and could announce his resignation as early as next Monday. The paper says the incoming MP from a Greater Manchester by-election will be sworn in next Monday and that backers claim the newcomer has secured support from more than 201 Labour MPs to trigger a leadership challenge if Starmer does not resign—exceeding half of the parliamentary Labour party and which, they argue, would leave Starmer unable to demonstrate confidence in the House of Commons. Senior Labour figures told the paper Starmer has concluded, after discussions with cabinet ministers, Downing Street advisers, union leaders and party donors, that his hold on power is no longer secure. Party insiders say he may make a clear statement on Monday; a Labour peer close to Starmer said he appears to have accepted resignation as the remaining option.
-
----
-
-### 2026-06-21 05:10:22  #其他
-
-英國國王與威廉王子將公開個人納稅明細。
-
----
-
-### 2026-06-21 05:07:39  #焦點 #國際
-
-【萬斯稱美伊或將展開數日談判】美國副總統萬斯向媒體透露，美國與伊朗或將在瑞士進行為期數日的談判。他表示：“待商議的議題繁多，但我們會逐一磋商完畢。”萬斯表示，美方將在與伊朗的談判中重點討論核問題與黎巴嫩停火事宜。萬斯稱自己僅能在瑞士停留一至兩天。萬斯此番表態時正從一處美軍基地動身前往瑞士，美方談判代表已在當地籌備與伊朗官員的會談。
-
----
-
-### 2026-06-21 05:06:34  #國際
-
-特朗普：美國公園警察已逮捕多名破壞倒影池的人員。什麼人會做出這種事？破壞國家紀念建築屬於性質極其惡劣的罪行，涉案人員將面臨多年監禁！修繕工作將即刻啟動。
 
 ---

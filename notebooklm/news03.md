@@ -1,7 +1,88 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-06-28 05:04:43_
-_本檔包含 3901 則快訊，約 671070 字_
+_更新時間：2026-06-28 05:36:22_
+_本檔包含 3891 則快訊，約 669655 字_
+
+---
+
+### 2026-06-25 06:06:57  #公司 #國際
+
+【攜程2026Q1淨收入162億，Q2預期大幅放緩，或創四年來最慢季度增速】2026年第一季度，攜程集團（9961.HK/TCOM）實現淨收入人民幣162億元，同比增長17%，經調整EBITDA為人民幣48億元，同比增長14%。分業務看，住宿預訂收入65億元，同比增長17%；交通票務收入61億元，同比增長12%；旅遊度假收入11億元，同比增長19%；商旅管理收入6.9億元，同比增長20%。各業務板塊均受益於集團全球化業務拓展及國際旅遊需求的持續增長。本季度攜程國際線上旅遊平臺預訂同比增長約65%，入境遊預訂同比增長約90%，增長動力來自亞太、歐洲和美國等主要客源市場的廣泛需求，來自歐洲及美國的遊客約佔入境遊客總量的25%。攜程已設定未來五年服務2億入境遊客的戰略目標。展望第二季度，攜程預計淨收入同比增長將大幅放緩至最低約3%，剔除三年疫情衝擊，該增速為攜程上市以來單季最低增速。公司表示，這一結果主要受到高能源價格和地緣政治波動等宏觀不利因素的直接和間接影響，與此同時，公司也針對行業標準和合規框架的最新變化，主動進行了相應的運營調整。
+
+---
+
+### 2026-06-25 06:01:57  #MKT News #Important #Market Themes #Chip Wars #Nasdaq100 #Impact bullish #MU.O
+
+Nasdaq futures opened 2% higher on Friday, lifted by after-hours gains in chip stocks including Micron Technology (MU.O).
+
+---
+
+### 2026-06-25 06:01:43  #市場 #焦點
+
+【納指期貨高開1.5%】受美光亮眼業績推動，美股期指早盤集體高開，道瓊斯指數期貨漲0.65%，標普500指數期貨漲0.56%，納斯達克100指數期貨漲1.47%。
+
+---
+
+### 2026-06-25 06:01:36  #其他
+
+攜程第一季度調整後每ADS收益5.73元人民幣，預估6.09元人民幣。
+
+---
+
+### 2026-06-25 06:01:08  #央行 #國際
+
+【美聯儲7月維持利率不變的機率為65.8%】據CME“美聯儲觀察”：美聯儲7月維持利率不變的機率為65.8%，累計加息25個基點的機率為34.2%。 美聯儲到9月維持利率不變的機率為33.6%，累計加息25個基點的機率為49.7%，累計加息50個基點的機率為16.7%。
+
+---
+
+### 2026-06-25 05:59:00  #公司 #市場 #央行 #國際
+
+【6月25日隔夜要聞一覽】
+1、特朗普回應拒籤住房法案：比任何人都懂房地產，降息才是關鍵。
+2、特朗普：不接受美伊協議包含任何涉及航運的費用。
+3、美國國務卿魯比奧：美伊技術性談判將於月底恢復。
+4、美國大型銀行透過美聯儲壓力測試，為派息和回購鋪平道路。
+5、原油價格已悉數回吐伊朗戰爭期間的漲幅。WTI下跌，最終結算價在每桶70美元附近，創下2月底伊朗戰爭爆發之前以來的最低水平。布倫特原油下跌，結算價跌破每桶74美元，為戰爭爆發以來的新低。
+6、美光科技盤後大漲，營收翻兩番，毛利率躍升近85%。
+7、OpenAI：推出全新版本GPT-5.5 Instant，對話體驗趣味感大幅提升。今日起向付費使用者推送上線，明日開放給免費使用者使用。
+8、谷歌再有兩名重磅AI核心研究員跳槽至Anthropic，股價下挫。
+9、比特幣跌回6萬美元下方。CoinGlass彙編的資料顯示，過去24小時，近8億美元加密貨幣多頭頭寸被強制平倉。
+
+---
+
+### 2026-06-25 05:48:10  #國際
+
+北約秘書長呂特：與特朗普討論了烏克蘭問題，特朗普承認烏克蘭局勢有所好轉。
+
+---
+
+### 2026-06-25 05:47:39  #市場 #央行 #國際
+
+【渣打：美國經濟的“例外論”可能會支撐美元走強】儘管布倫特原油價格已回落至伊朗戰爭爆發前的水平，緩解了通脹擔憂，但受美聯儲發出的鷹派訊號以及市場對AI相關股票漲勢可持續性的重新擔憂影響，新興市場資產的波動性日益加劇。渣打銀行駐紐約美洲經濟學家Dan Pan表示：“美國經濟的‘例外論’可能會支撐美元走強。”不過她也表示，聯邦公開市場委員會（FOMC）會議後市場的部分反應“可能有些過度”，並且“如果美聯儲維持利率不變，這也可能提振市場對新興市場資產的風險偏好。”
+
+---
+
+### 2026-06-25 05:45:23  #Trading Economics #Markets #commodity #Importance 0
+
+Platinum is down by 6.55% — Platinum decreased 6.55% to 1553.2 USD/t.oz
+
+---
+
+### 2026-06-25 05:43:55  #國際
+
+北約秘書長呂特： 特朗普正大力推動北約理順各項事務。
+
+---
+
+### 2026-06-25 05:39:57  #國際
+
+北約秘書長呂特：我完全確信，美國必要時會保護歐洲。
+
+---
+
+### 2026-06-25 05:39:11  #其他
+
+【哥倫比亞官方確認德拉埃斯普列亞當選新任總統】哥倫比亞全國選舉委員會24日確認，極右翼候選人德拉埃斯普列亞當選該國新任總統。(新華社)
 
 ---
 
@@ -23398,137 +23479,5 @@ The FTSE MIB Index Closes 1.46% Lower — The FTSE MIB Index dropped 772 points 
 ### 2026-06-24 00:11:10  #Trading Economics #Markets #Germany #Stock Market #Importance 1
 
 The DAX Index Closes 0.98% Lower — The DAX Index decreased 246 points or 0.98 percent on Tuesday to close at 24894 points. The decline was led by Infineon (-5.86%), Siemens Energy (-3.93%) and Vonovia (-3.21%). On the upside, the strongest performers were SAP (2.13%), Airbus (1.97%) and Qiagen NV (1.51%).
-
----
-
-### 2026-06-24 00:10:10  #Trading Economics #Markets #France #Stock Market #Importance 1
-
-The CAC 40 Index Closes 0.71% Lower — The CAC 40 Index fell 59 points or 0.71 percent on Tuesday to close at 8341 points. Leading the losses are STMicroelectronics (-9.11%), Stellantis NV (-6.43%) and Legrand (-4.15%). Top gainers were Eurofins Scientific SE (2.77%), Dassault Systemes (2.35%) and Airbus (1.97%).
-
----
-
-### 2026-06-24 00:09:58  #兩會
-
-【律師法修正草案提請全國人大常委會會議審議】6月23日，律師法修正草案提請十四屆全國人大常委會第二十三次會議審議。草案將實踐證明可行的改革試點成果上升為法律規定，統籌推進國內法治和涉外法治，堅持保障和規範律師執業權利並重，完善現行律師制度。（央視新聞）
-
----
-
-### 2026-06-24 00:09:32  #公司
-
-【英國擬堵線上銷售增值稅漏洞，目標直指本土賣家】英國提議允許線上平臺向本土企業代收增值稅，以堵住一個每年給政府造成數億英鎊損失的漏洞。該提案旨在改革增值稅規則。亞馬遜及其他零售商聲稱，現行規則存在一個“結構性漏洞”，對本土企業和在海外運營的企業區別對待，導致系統存在被濫用的風險。該提案旨在改革現行增值稅規則，該規則對本土企業和在海外運營的企業區別對待，導致系統存在被濫用的風險。政府正考慮兩種方案，將“視同轉售商”制度擴充套件至本土賣家，其中一種方案是針對在單個線上平臺銷售額超過特定門檻的本土企業。
-
----
-
-### 2026-06-24 00:08:43  #公司 #國際
-
-谷歌：自 7 月 23 日起，歐洲經濟區 24 個市場的金融服務廣告主需完成全新資質核驗。
-
----
-
-### 2026-06-24 00:08:37  #MKT News
-
-SpaceX (SPCX.O) extended intraday gains to 5.3%.
-
----
-
-### 2026-06-24 00:08:08  #MKT News
-
-Pakistan's prime minister said Pakistan hopes to continue serving as a mediator "until durable peace is achieved".
-
----
-
-### 2026-06-24 00:07:46  #MKT News #Star Stocks #Alphabet #Market Themes #Magnificent 7
-
-Google introduces new verification requirements for certain financial-services advertisers.
-
----
-
-### 2026-06-24 00:07:39  #公司
-
-谷歌：針對部分金融服務廣告主推出全新資質核驗要求。
-
----
-
-### 2026-06-24 00:07:27  #其他
-
-巴基斯坦總理謝里夫稱其將於下週訪問德黑蘭。
-
----
-
-### 2026-06-24 00:07:16  #MKT News
-
-Pakistan's prime minister said he will visit Tehran next week.
-
----
-
-### 2026-06-24 00:07:11  #Trading Economics #Markets #United Kingdom #Stock Market #Importance 1
-
-The FTSE 100 Index Closes 0.15% Higher — The FTSE 100 Index gained 16 points or 0.15 percent on Tuesday to close at 10454 points. Gains were led by Bunzl (5.32%), British American Tobacco (3.35%) and Diageo (2.77%). Biggest losers were Antofagasta (-5.46%), Anglo American (-4.99%) and Glencore (-4.53%).
-
----
-
-### 2026-06-24 00:06:53  #其他
-
-SPACEX股價漲幅擴大至5.6%。
-
----
-
-### 2026-06-24 00:06:34  #MKT News
-
-U.S. Secretary of State Rubio said no country may charge tolls or transit fees for passage through international waterways, saying that is consistent with existing international law.
-
----
-
-### 2026-06-24 00:06:19  #MKT News #DXY #Impact bullish #XAUUSD #Brent
-
-US Secretary of State Rubio said if Iranian proxies launch missiles, hostilities in the region cannot be ended.
-
----
-
-### 2026-06-24 00:06:19  #MKT News
-
-US Secretary of State Rubio said the matter will be raised at an appropriate time.
-
----
-
-### 2026-06-24 00:06:18  #國際
-
-美國國務卿魯比奧： 依據現行國際法，任何國家不得在國際水道收取通行費或相關費用。
-
----
-
-### 2026-06-24 00:06:12  #MKT News
-
-CENC recorded a magnitude-4.2 earthquake at 23:56 on June 23 (local time) in Haixi prefecture, Qinghai (37.85°N, 95.54°E); depth 10 km.
-
----
-
-### 2026-06-24 00:05:41  #國際
-
-美國國務卿魯比奧： 若伊朗代理人持續發射導彈，中東地區的敵對沖突便無從平息。
-
----
-
-### 2026-06-24 00:05:20  #國際
-
-美國國務卿魯比奧： 伊朗諒解備忘錄將在與中東地區的會談中被提及。
-
----
-
-### 2026-06-24 00:04:51  #MKT News
-
-US Secretary of State Rubio said the US will engage directly with the Lebanese government.
-
----
-
-### 2026-06-24 00:04:38  #國際
-
-美國國務卿魯比奧：我們將直接與黎巴嫩政府打交道。
-
----
-
-### 2026-06-24 00:02:17  #MKT News #WTI #Impact bearish #Brent #XAUUSD
-
-【Wang Yi meets UAE Supreme National Security Council secretary al-Shamsi in New Delhi】Chinese Politburo member and director of the Central Foreign Affairs Office Wang Yi met UAE Supreme National Security Council secretary al-Shamsi in New Delhi on the 23rd and said China and Arab states have maintained close communication since the US‑Israel‑Iran hostilities began. He urged a swift end to the fighting and set out three priorities: insist on a permanent, comprehensive ceasefire and implement the recently signed memorandum of understanding; restore normal navigation through the Strait of Hormuz as soon as possible to reopen the region’s development lifeline; and rebuild mutual trust among regional states and explore a new regional security architecture adapted to current conditions. Wang said the Middle East should not become an arena for great‑power rivalry and that China will continue to support the UAE’s constructive role in promoting long‑term regional stability.
 
 ---

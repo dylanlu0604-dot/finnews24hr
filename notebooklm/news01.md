@@ -1,7 +1,19 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-06-28 05:04:43_
-_本檔包含 3501 則快訊，約 670789 字_
+_更新時間：2026-06-28 05:36:22_
+_本檔包含 3495 則快訊，約 669941 字_
+
+---
+
+### 2026-06-28 05:18:11  #市場
+
+【委內瑞拉震後搜救工作持續 1名被困兒童獲救】當地時間27日，在委內瑞拉地震災區的最新搜救行動中，哥倫比亞救援隊在卡拉巴列達成功救出一名11歲男孩。這是距離72小時黃金救援視窗期最後數小時內最新救出的倖存者。委內瑞拉24日連續發生兩次7級以上強震，造成大量人員傷亡。委政府宣佈多項措施應對強震災情，國際社會已向委提供震後援助。（央視新聞）
+
+---
+
+### 2026-06-28 05:08:37  #國際
+
+外交部長阿拉格齊將率外交代表團於週日出訪伊拉克。此行議程包括磋商地區局勢、雙邊關係及國際議題。
 
 ---
 
@@ -21101,53 +21113,5 @@ South Korea's defense minister said Seoul plans to use South Korean components i
 ### 2026-06-26 08:39:54  #MKT News
 
 【South Korea finance minister says fuel price cap will be lowered】South Korea's finance minister said on Friday the government will lower the national fuel price cap as part of measures to rein in inf. He said officials kept the sixth-round cap unchanged this week amid ongoing Middle East uncertainty, but the seventh-round cap will be set below the current level and maintained until consumer prices stabilize. Seoul introduced a nationwide fuel price cap in March for the first time in decades; authorities now review the cap monthly.
-
----
-
-### 2026-06-26 08:39:00  #其他
-
-【中國貿促會副會長林紅紅會見新加坡大華銀行國際管理董事總經理張志堅】6月25日，中國貿促會副會長林紅紅在京會見專程來華參加第四屆鏈博會的新加坡大華銀行國際管理董事總經理張志堅一行。雙方圍繞深化兩機構交流合作、更好服務中外企業發展等議題進行交流。
-
----
-
-### 2026-06-26 08:38:35  #國際
-
-韓國國防部長：計劃在無人機制造中使用韓國零部件。
-
----
-
-### 2026-06-26 08:38:20  #公司 #市場 #國際
-
-【韓國綜合股價指數下跌3% SK海力士和三星股價下挫】受華爾街股市劇烈波動的影響，晶片製造商股價下跌，韓國綜合股價指數（KOSPI）一度下跌3.3%。權重股三星和SK海力士均下跌超過3%，此前兩股在前一交易日均大幅上漲。三星電子、SK海力士和SK Square是導致該指數下跌的最大因素。全球基金淨賣出韓國綜合股價指數（KOSPI）股票，而散戶投資者則買入。韓國小型股Kosdaq指數下跌幅度高達2.5%。MSCI亞太指數下跌1%。
-
----
-
-### 2026-06-26 08:37:25  #其他
-
-部分美股晶片股夜盤走低，美光科技(MU.O)跌近4%，西部資料(WDC.O)和邁威爾科技(MRVL.O)跌2%，高通(QCOM.O)跌1%。
-
----
-
-### 2026-06-26 08:36:55  #MKT News
-
-South Korea's defense minister said Seoul will rapidly expand drone and counter-drone capabilities.
-
----
-
-### 2026-06-26 08:36:40  #市場 #央行 #國際
-
-【金價下跌 價格可能還有進一步下跌空間】亞洲時段早盤金價下跌。現貨黃金下跌0.2%，報每盎司4,018.77美元。雖然市場預計金價在跌至每盎司4,000美元后會反彈，但凱投宏觀的Hamad Hussain認為，這種貴金屬在未來18個月內仍有進一步下跌的空間。他指出，美聯儲加息的前景將推高實際收益率並令金價承壓。該經濟學家表示，股市潛在的暴跌也可能對金價造成更大的下行壓力，因為在股市突然遭到拋售期間，投資者通常不得不出售優質資產以滿足追加保證金的要求。凱投宏觀預計，到2026年底和2027年底，金價將分別跌至每盎司3,500美元和每盎司3,250美元。
-
----
-
-### 2026-06-26 08:36:40  #MKT News #Market Themes #Chip Wars #MU.O #Impact bearish #WDC.O #MRVL.O
-
-U.S. chip stocks slipped in after-hours trading: Micron Technology (MU.O) down nearly 4%, Western Digital (WDC.O) and Marvell (MRVL.O) down about 2% each, Qualcomm (QCOM.O) down 1%.
-
----
-
-### 2026-06-26 08:36:40  #MKT News
-
-South Korea's Defense Ministry says it will train 500,000 drone operators.
 
 ---
