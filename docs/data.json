@@ -1,7 +1,31 @@
 {
-  "updated": "2026-06-27 08:04:51",
-  "count": 18181,
+  "updated": "2026-06-27 08:09:45",
+  "count": 18182,
   "items": [
+    {
+      "id": "mkt:019f0666-ed42-7dd8-b13f-d3ed8eb740bb",
+      "time": "2026-06-27 08:07:16",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "WTI",
+        "XAUUSD"
+      ],
+      "text": "【IRGC says it struck US military positions in retaliation for strikes on Iranian coast】The Islamic Revolutionary Guard Corps said in a statement in the early hours of June 27 that, after Israel violated a ceasefire in southern Lebanon and hours later the US, citing pretexts related to an unauthorized vessel transiting a non‑authorized route in the Strait of Hormuz, launched airstrikes on Iran’s coastal areas, IRGC naval forces struck US military positions in the region. The statement invoked Article 5 of the US‑Iran memorandum of understanding, saying Iran is responsible for passage management through the Strait of Hormuz and that US attempts to breach that commitment \"received the necessary response\" and \"will be met with larger reprisals if aggression recurs.\""
+    },
+    {
+      "id": "mkt:019f0666-8470-7dd8-b13f-cc666e0cc6b9",
+      "time": "2026-06-27 08:06:49",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "【IRGC disputes social-media claims after CENTCOM says US struck Iran; ISNA deletes Sirik Island report】Local time June 27, the IRGC public relations chief said recent social-media posts purporting to be IRGC statements about clashes with US forces are fake. CENTCOM said on June 26 its forces struck Iran. Early June 27, Iranian Students News Agency (ISNA) reported the IRGC said its navy and air force had repelled a US attack on Sirik Island and forced attacking forces to withdraw; ISNA later deleted that report."
+    },
     {
       "id": "4958111",
       "time": "2026-06-27 08:02:56",
@@ -166308,14 +166332,6 @@
         "公司"
       ],
       "text": "市場訊息：亞馬遜電影部門放棄拍攝關於OpenAI的電影。"
-    },
-    {
-      "id": "4945532",
-      "time": "2026-06-20 08:05:00",
-      "tags": [
-        "公司"
-      ],
-      "text": "【進度條重新整理 大渡河金川水電站全容量投產發電】記者從國家能源集團獲悉，今天（20日），四川大渡河金川水電站最後一臺機組正式併網發電，標誌著金川水電站正式全容量投產發電。（央視新聞）"
     }
   ]
 }
