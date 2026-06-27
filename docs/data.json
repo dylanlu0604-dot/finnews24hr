@@ -1,7 +1,23 @@
 {
-  "updated": "2026-06-28 04:28:42",
-  "count": 18148,
+  "updated": "2026-06-28 04:32:46",
+  "count": 18144,
   "items": [
+    {
+      "id": "4958606",
+      "time": "2026-06-28 04:31:24",
+      "tags": [
+        "國際"
+      ],
+      "text": "德國地學研究中心（GFZ）：日本本州東海岸附近發生6.07級地震。"
+    },
+    {
+      "id": "4958605",
+      "time": "2026-06-28 04:29:51",
+      "tags": [
+        "國際"
+      ],
+      "text": "歐洲地中海地震中心（EMSC）：日本本州東海岸附近發生6級地震。"
+    },
     {
       "id": "4958604",
       "time": "2026-06-28 04:26:30",
@@ -165991,55 +166007,6 @@
         "其他"
       ],
       "text": "萬斯：黎巴嫩境內戰事局勢實際正在好轉。"
-    },
-    {
-      "id": "4945991",
-      "time": "2026-06-21 04:32:17",
-      "tags": [
-        "其他",
-        "焦點"
-      ],
-      "text": "萬斯：希望能在核問題上取得進展，同時在黎巴嫩停火問題上取得進展。"
-    },
-    {
-      "id": "4945990",
-      "time": "2026-06-21 04:32:12",
-      "tags": [
-        "國際"
-      ],
-      "text": "萬斯前往瑞士參與伊朗問題談判：只能在當地停留一兩天。"
-    },
-    {
-      "id": "4945989",
-      "time": "2026-06-21 04:30:59",
-      "tags": [
-        "其他"
-      ],
-      "text": "萬斯稱美伊或將展開為期數日的談判。"
-    },
-    {
-      "id": "mkt:019ee6b9-9caf-7dd8-b0a1-dfb65b345734",
-      "time": "2026-06-21 04:29:44",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "US Vice President Vance has departed Washington for Switzerland, a spokesperson said."
-    },
-    {
-      "id": "mkt:019ee6b9-5cf7-7dd8-b0a1-d1a5dd3d898f",
-      "time": "2026-06-21 04:29:28",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Vance departs for Lucerne to join US-Iran talks, US media says】US Vice President Vance left Joint Base Andrews late Saturday afternoon local time for Lucerne, Switzerland, to participate in talks with Iran, CNN reports. US special Middle East envoy Witkoff and Kushner were already on site handling technical aspects. Vance said earlier Saturday the trip’s timing was adjusted several times over the past week and called the visit a \"finely coordinated process\" requiring diplomatic protocol and procedure."
-    },
-    {
-      "id": "4945988",
-      "time": "2026-06-21 04:29:24",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國副總統發言人表示，美國副總統萬斯已離開華盛頓，啟程前往瑞士。"
     }
   ]
 }
