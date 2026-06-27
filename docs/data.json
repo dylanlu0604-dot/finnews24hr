@@ -1,7 +1,328 @@
 {
-  "updated": "2026-06-27 14:05:03",
-  "count": 18193,
+  "updated": "2026-06-27 15:25:01",
+  "count": 18182,
   "items": [
+    {
+      "id": "4958287",
+      "time": "2026-06-27 15:21:47",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗議會國家安全委員會一名成員表示，在談判進入最後階段且德黑蘭的要求得到滿足之前，伊朗不會改變目前與國際原子能機構的合作水平。"
+    },
+    {
+      "id": "4958286",
+      "time": "2026-06-27 15:18:45",
+      "tags": [
+        "公司"
+      ],
+      "text": "【寶鼎重工順利完成壓縮機轉子交付】近日，寶鼎重工順利完成中儲國能（江蘇）技術有限公司壓縮機轉子交付，該產品將作為核心部件應用於百兆瓦級壓縮空氣儲能電站專案。此次壓縮機轉子順利交付，是公司積極服務新型儲能產業發展的又一成果。"
+    },
+    {
+      "id": "4958285",
+      "time": "2026-06-27 15:17:35",
+      "tags": [
+        "國際"
+      ],
+      "text": "魯比奧表示，美國希望與印度達成貿易協議，“我們即將完成這項協議，這非常積極。”"
+    },
+    {
+      "id": "4958284",
+      "time": "2026-06-27 15:17:08",
+      "tags": [
+        "國際"
+      ],
+      "text": "魯比奧稱他可能會在今年訪問印度，為特朗普明年初的訪問做準備。"
+    },
+    {
+      "id": "4958283",
+      "time": "2026-06-27 15:16:11",
+      "tags": [
+        "公司"
+      ],
+      "text": "【高通計劃將資料中心晶片技術引入智慧手機，提升端側AI能力】6月27日訊息，高通公司執行副總裁杜爾加·馬拉迪表示，公司計劃將本週新發布的資料中心晶片技術應用於智慧手機，以提升移動裝置本地AI執行能力。高通新推出的高頻寬計算（HBC）架構採用晶片垂直堆疊設計，將記憶體與計算單元緊密整合，可顯著提升資料傳輸速度與效率。該架構第一代產品將於明年在資料中心推出，預計2028年實現商業化供貨。馬拉迪表示，“資料中心的技術不會止步於此”，公司目前正與智慧手機、個人電腦及汽車製造商就相關技術展開洽談。"
+    },
+    {
+      "id": "4958282",
+      "time": "2026-06-27 15:15:49",
+      "tags": [
+        "國際"
+      ],
+      "text": "魯比奧表示特朗普可能明年初訪問印度。"
+    },
+    {
+      "id": "4958281",
+      "time": "2026-06-27 15:14:32",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【中企迦納煉油廠擴建工程正式開工】中資企業森拓集團在迦納投資建設的森拓煉油廠二期擴建工程日前在迦納東部港口城市特馬正式開工。該專案將使該煉油廠日加工能力從4萬桶提升至10萬桶。 迦納總統馬哈馬在專案剪彩儀式上說，該專案二期擴建對迦納經濟發展具有重要意義，是當前迦納迫切需要的投資型別。“該專案將夯實工業基礎，深化能源價值鏈，創造就業機會，支援本地產業，並推動迦納向現代工業經濟體轉型。” 馬哈馬稱讚森拓集團2024年1月投產的一期專案。他指出，在中東局勢緊張、全球原油市場動盪背景下，該專案為迦納增加石油儲備、為供應提供緩衝發揮了積極作用。據森拓集團執行董事長許寧佺介紹，二期工程完成後，煉油廠就業人數將從700人增至約1500人。（新華社）"
+    },
+    {
+      "id": "4958280",
+      "time": "2026-06-27 15:12:53",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "美國國家公路交通安全管理局（NHTSA）結束對美國本田汽車公司旗下441,002輛車輛側氣囊意外展開問題的初步評估。"
+    },
+    {
+      "id": "mkt:019f07eb-7a63-7dd8-b140-f0083085f6be",
+      "time": "2026-06-27 15:11:40",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Tesla",
+        "Market Themes",
+        "Magnificent 7",
+        "TSLA.O"
+      ],
+      "text": "The U.S. National Highway Traffic Safety Administration (NHTSA) has closed its engineering analysis into reports of unintended steering loss affecting about 376,241 Tesla Model 3 and Model Y vehicles in the United States."
+    },
+    {
+      "id": "4958279",
+      "time": "2026-06-27 15:11:15",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國國家公路交通安全管理局（NHTSA）：結束對約376241輛美國市場特斯拉Model 3和Model Y轉向失控問題的工程分析調查。"
+    },
+    {
+      "id": "4958278",
+      "time": "2026-06-27 15:09:13",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【蘋果：AI算力搶貨推高儲存晶片 上調 iPad、Mac 售價】蘋果發來申明稱：消費電子行業遭遇空前壓力。受 AI 資料中心建設熱潮拉動，記憶體、儲存需求大幅激增，元器件價格迎來史上罕見的快速大漲。公司此前一直自行消化成本，沒有向消費者轉嫁壓力。如今成本壓力難以承受，被迫上調多款產品售價，本次率先調整 iPad 與 Mac 定價。蘋果表示，公司仍在積極尋求應對辦法。 (科創板日報)"
+    },
+    {
+      "id": "4958277",
+      "time": "2026-06-27 15:08:45",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗警告海灣南岸各國，不得允許別國利用其領土對伊朗發動襲擊。"
+    },
+    {
+      "id": "mkt:019f07e8-cee6-7dd8-b140-eb9ef32beac2",
+      "time": "2026-06-27 15:08:45",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "Iran said U.S. military airstrikes hit multiple targets on its southern coast in breach of a ceasefire memorandum; Iranian armed forces carried out defensive strikes against targets linked to the U.S. military. Iran warned states on the southern shore of the Gulf not to permit their territory to be used for attacks on Iran."
+    },
+    {
+      "id": "4958276",
+      "time": "2026-06-27 15:08:16",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗稱其武裝部隊對關聯美軍的目標實施了防禦性打擊。"
+    },
+    {
+      "id": "4958275",
+      "time": "2026-06-27 15:08:12",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗稱美軍空襲打擊了其南部海岸多處地點，違反了停戰備忘錄。"
+    },
+    {
+      "id": "4958274",
+      "time": "2026-06-27 15:07:47",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國國家公路交通安全管理局（NHTSA）：通用汽車將在美召回26,541輛汽車，原因是驅動行駛期間，轉向齒輪總成上有一顆螺母可能鬆脫，導致車輛喪失轉向控制能力，增加撞車風險。"
+    },
+    {
+      "id": "4958273",
+      "time": "2026-06-27 15:06:51",
+      "tags": [
+        "其他"
+      ],
+      "text": "據法國氣象局，週六法國37個省份釋出高溫紅色預警，48個省份釋出橙色預警。"
+    },
+    {
+      "id": "mkt:019f07e4-80d8-7dd8-b140-e5f7a8b987b3",
+      "time": "2026-06-27 15:04:03",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "June 26 — China Rare Earth Group and Hunan Hi‑tech Venture Capital Group signed an equity cooperation agreement in Changsha concerning the Hunan Rare Earth Institute."
+    },
+    {
+      "id": "4958272",
+      "time": "2026-06-27 15:03:10",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中國稀土集團與湖南高新創投集團簽署湖南稀土院股權合作協議】6月26日，中國稀土集團與湖南高新創投集團在長沙簽署湖南稀土院股權合作協議。"
+    },
+    {
+      "id": "4958271",
+      "time": "2026-06-27 15:00:33",
+      "tags": [
+        "其他"
+      ],
+      "text": "【北京通州中建中心啟用】6月27日，北京通州中建中心超甲級寫字樓專案全域運營啟動儀式暨首批頭部企業集中籤約入駐儀式舉行。北京通州中建中心由中建一局建設，專案坐落於北京城市副中心運河商務區核心啟動區。"
+    },
+    {
+      "id": "4958270",
+      "time": "2026-06-27 14:53:04",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "據以色列陸軍廣播電臺：以色列軍方將縮減（駐紮）在黎巴嫩南部的部隊，並撤出幾支作戰旅。"
+    },
+    {
+      "id": "mkt:019f07da-6bbc-7dd8-b140-dca8065390bc",
+      "time": "2026-06-27 14:53:02",
+      "tags": [
+        "MKT News",
+        "Important",
+        "S&P500",
+        "Impact bullish",
+        "Brent",
+        "Impact bearish",
+        "XAUUSD"
+      ],
+      "text": "Israeli Army Radio reported the Israeli military will reduce forces stationed in southern Lebanon and withdraw several combat brigades."
+    },
+    {
+      "id": "4958269",
+      "time": "2026-06-27 14:47:43",
+      "tags": [
+        "公司"
+      ],
+      "text": "【宏微科技與國家電投核力創芯共建聯合實驗室】2026年6月25日，宏微科技與國家電投旗下國電投核力創芯（無錫）科技有限公司（簡稱“核力創芯”）正式簽署戰略合作協議，共同揭牌成立“功率半導體離子注入工程技術及器件研發聯合實驗室”。雙方將共同攻克高能離子注入在功率半導體器件中的產業化應用難題，全面提升IGBT、FRD等晶片的核心效能，提高宏微產品競爭力。此次技術合作將強化宏微科技在AI資料中心（AIDC）供配電領域的產品競爭力。"
+    },
+    {
+      "id": "4958268",
+      "time": "2026-06-27 14:47:38",
+      "tags": [
+        "國際"
+      ],
+      "text": "【熱浪致瑞士冰川嚴重消融】瑞士冰川監測專案負責人26日說，受持續席捲歐洲的熱浪影響，瑞士冰川上個冬季累積的冰雪預計將於29日完全消融，為有記錄以來第二早，僅次於2022年。（新華社）"
+    },
+    {
+      "id": "4958267",
+      "time": "2026-06-27 14:44:23",
+      "tags": [
+        "其他"
+      ],
+      "text": "【重慶東站開通運營一週年 累計傳送旅客超303萬人次】6月27日，我國西部地區最大高鐵樞紐站重慶東站迎來開通運營一週年。作為渝廈高鐵重慶東至黔江段的始發站，這座總建築面積122萬平方米、站場規模15臺29線的現代化樞紐，一年來累計傳送旅客303萬人次，開行列車1.68萬列。渝廈高鐵重慶東至黔江段正線全長242公里、設計時速350公里，開通一年來將重慶中心城區與黔江的通行時間從4小時壓縮至1小時左右。（新華社）"
+    },
+    {
+      "id": "4958266",
+      "time": "2026-06-27 14:42:53",
+      "tags": [
+        "其他"
+      ],
+      "text": "【航行警告 黃海南部實彈射擊】據中國海事局網站訊息，鹽城海事局釋出航行警告，6月28日0時至7月8日24時，黃海南部部分海域進行實彈射擊，禁止駛入。"
+    },
+    {
+      "id": "mkt:019f07d0-a273-7dd8-b140-d55789c8b8b0",
+      "time": "2026-06-27 14:42:21",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Yancheng maritime authority closes parts of southern Yellow Sea to navigation for live-fire drills through July 8】Yancheng Maritime Safety Administration issued a navigation warning: parts of the southern Yellow Sea will be closed to shipping for live-fire exercises from 00:00 on June 28 to 24:00 on July 8; entry is prohibited."
+    },
+    {
+      "id": "4958263",
+      "time": "2026-06-27 14:37:02",
+      "tags": [
+        "公司"
+      ],
+      "text": "【曝賓士延發獎金 德國員工年工時增加260小時】汽車媒體CarScoops昨日（6月26日）釋出博文，報道稱梅賽德斯-賓士調整其德國員工工時，在不額外支付工資的情況下，讓員工每週工時從35小時改為40小時。獎金方面，賓士原本計劃7月向約9萬名員工發放特殊獎金，金額約為月薪的18%，不過最新訊息稱賓士計劃延後到2027年發放。工時變化方面，訊息稱賓士計劃調整德國員工每週工時，從原先的35小時提高到40小時。在賓士不額外支付工資的情況下，員工每年將多工作約260小時。這輪調整出現在車企普遍承壓的背景下，報道提到關稅、電動車需求低於預期等多方因素，導致賓士承受巨大成本壓力。"
+    },
+    {
+      "id": "4958262",
+      "time": "2026-06-27 14:32:11",
+      "tags": [
+        "行業",
+        "公司",
+        "焦點",
+        "國際"
+      ],
+      "text": "【外媒：蘋果想從長鑫儲存買記憶體晶片】據英國《金融時報》27日報道，六位知情人士透露，為緩解記憶體晶片漲價帶來的成本壓力，蘋果公司正向美國政府遊說，希望獲批採購中國半導體企業長鑫儲存（CXMT）的記憶體晶片。本週四蘋果罕見上調MacBook與iPad售價，公司市值單日蒸發2630億美元，創下史上第二大單日跌幅。蘋果將漲價歸咎於“難以承受”的記憶體價格，並表示會把成本轉嫁給消費者，此前多家消費電子廠商已採取同類調價措施。若能將長鑫儲存納入記憶體供應鏈，將緩解蘋果受上游供應商擠壓的困境。（中新經緯）"
+    },
+    {
+      "id": "4958261",
+      "time": "2026-06-27 14:30:32",
+      "tags": [
+        "其他"
+      ],
+      "text": "【黃河調水調沙水頭抵達入海口 水流平穩】27日8時，黃河下游最後一個水文站——利津水文站實測流量漲至2500立方米每秒。這標誌著今年主汛期前，黃河調水調沙大流量水頭抵達入海口，水流平穩入海。（央視新聞）"
+    },
+    {
+      "id": "4958260",
+      "time": "2026-06-27 14:26:05",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【中國海軍83艦編隊結束對俄羅斯友好訪問】中國海軍83艦編隊27日結束對俄羅斯的友好訪問，當天駛離俄符拉迪沃斯託克港，繼續執行遠海綜合實習訪問任務。 （新華社）"
+    },
+    {
+      "id": "mkt:019f07c0-b90d-7dd8-b140-c85ae4ab2642",
+      "time": "2026-06-27 14:24:58",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Pakistan, Iran foreign ministers hold phone call on regional situation】Pakistan's foreign ministry said on the 27th that Deputy Prime Minister and Foreign Minister Dar phoned Iranian Foreign Minister Araghchi on the evening of the 26th to discuss the regional situation. Dar reiterated Pakistan's commitment to play a constructive role on multilateral forums to help secure lasting regional and broader peace and stability."
+    },
+    {
+      "id": "4958259",
+      "time": "2026-06-27 14:24:54",
+      "tags": [
+        "其他"
+      ],
+      "text": "【報告：銀齡人群將喝奶視為穩定的健康管理方式，超七成首選純牛奶】6月26日，《2026中國奶商指數報告》釋出。報告顯示，銀齡人群將喝奶視為長期、穩定的健康管理方式，超七成首選純牛奶，用“睡前一杯奶”重塑健康儀式感。然而，銀齡人群購奶決策近半數依賴親友推薦，專業科普渠道影響力亟待提升。中國乳製品工業協會原理事長宋昆岡強調，堅持每日飲奶對老年人維持肌肉量與骨骼健康至關重要，並呼籲全社會樹立全生命週期飲奶理念。"
+    },
+    {
+      "id": "4958258",
+      "time": "2026-06-27 14:23:06",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "【巴基斯坦、伊朗兩國外長通話討論地區形勢】巴基斯坦外交部27日釋出宣告說，巴副總理兼外長達爾26日晚與伊朗外長阿拉格齊通話討論地區形勢。 達爾重申，巴基斯坦堅定致力於在多邊舞臺發揮建設性作用，以實現地區及更廣泛範圍內的持久和平與穩定。 阿拉格齊對巴基斯坦在推進和平程序中給予伊朗的持續支援表示讚賞。他還對巴方近期協助伊朗船員和漁民返回伊朗表示感謝。 雙方一致同意繼續保持密切溝通。(新華社)"
+    },
+    {
+      "id": "4958257",
+      "time": "2026-06-27 14:20:47",
+      "tags": [
+        "市場"
+      ],
+      "text": "【追覓空調事業部負責人：目標全球高階市場第一】追覓空調事業部負責人及全球負責人‌吳軍近日接受新浪科技訪，他表示：“當初進入空調賽道時，我們就定義要做高階市場，要做到高階市場的市佔第一，去做價值的驅動。我們希望能夠把空調高階市場的價位再去拉昇一個級別，我們現在在做一些創新型的產品， 去做更多目前行業裡沒有的高階產品。” 吳軍進一步表示，高階市場份額第一的目標，是指全球。“因為我們最初在做空調的時候，其實更加重視海外市場，其次是內銷市場。我們更希望的是把內銷的高階產品賣到國外去，賣到全球市場去，同時在國內市場拿到一定的份額。”（新浪科技）"
+    },
+    {
+      "id": "4958255",
+      "time": "2026-06-27 14:16:04",
+      "tags": [
+        "國際"
+      ],
+      "text": "【聯合國呼籲調查美國移民拘留設施內人員死亡事件】聯合國人權事務高階專員沃爾克·圖爾克26日呼籲對美國移民與海關執法局在押人員死亡事件進行獨立調查，並對今年前5個月已有18人在拘留期間死亡表達關切。圖爾克表示，必須追究違法人員的責任，維護受害者家屬瞭解真相、獲得公正與賠償的權利，並確保此類事件不再發生。（新華社）"
+    },
+    {
+      "id": "4958254",
+      "time": "2026-06-27 14:07:54",
+      "tags": [
+        "公司",
+        "其他"
+      ],
+      "text": "【拓竹科技將入駐全國超60家蘋果授權店】拓竹科技將入駐酷動、億維等蘋果授權店，合計覆蓋超過60家門店，成為蘋果授權店體系引入的首個消費級3D列印品牌。據接近拓竹的知情人士透露，雙方合作模式為：拓竹將在門店設定專屬展示區域，展出旗下熱門機型 P2S 及四款配套耗材，相關門店預計於六月底至七月初陸續完成入駐。（藍鯨新聞）"
+    },
     {
       "id": "4958253",
       "time": "2026-06-27 13:57:22",
@@ -166015,453 +166336,6 @@
         "MKT News"
       ],
       "text": "【New quantum sensor could detect gravitational waves and dark matter】A study in Nature reports a new quantum sensor that can effectively cancel background noise limiting measurement precision, enabling searches for previously undetectable weak signals and potentially informing the formation of supermassive black holes. Imperial College London, which led the research, said detecting the universe’s composition and new gravitational-wave sources requires measurements of extremely weak signals. Atom interferometers use interference of atomic matter waves, but the laser pulses required introduce noise that can swamp those signals and prevent meaningful data."
-    },
-    {
-      "id": "mkt:019ee3e7-9cd3-7dd8-b09d-83ff688cc0f3",
-      "time": "2026-06-20 15:21:07",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Russia's Security Council deputy chairman Medvedev said the Strait of Hormuz has become a \"Persian nuclear weapon\" and will be used like a nuclear weapon in the future."
-    },
-    {
-      "id": "mkt:019ee3e6-f801-7dd8-b09d-7bdba431c0cb",
-      "time": "2026-06-20 15:20:25",
-      "tags": [
-        "MKT News",
-        "S&P500",
-        "Impact bearish",
-        "XAUUSD",
-        "Impact bullish",
-        "WTI"
-      ],
-      "text": "MEDVEDEV, deputy chairman of Russia's Security Council, said the only remaining restriction in the conflict with Ukraine is not to deliberately target civilians, and that the Hague Convention on the laws and customs of war is no longer needed."
-    },
-    {
-      "id": "mkt:019ee3e6-adf9-7dd8-b09d-76815e405434",
-      "time": "2026-06-20 15:20:06",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "Brent",
-        "DXY"
-      ],
-      "text": "Medvedev, deputy chairman of the Russian Security Council, said there are no rules left when dealing with Kyiv."
-    },
-    {
-      "id": "4945720",
-      "time": "2026-06-20 15:19:08",
-      "tags": [
-        "其他"
-      ],
-      "text": "【新型量子感測器可探測引力波和暗物質】英國《自然》雜誌日前釋出的一項新研究結果顯示，一種新型量子感測器能有效消除背景噪聲對測量精度的影響，可用於搜尋此前技術難以探測的微弱訊號，有助於解開超大質量黑洞形成之謎。牽頭這項研究的英國帝國理工學院釋出新聞公報表示，瞭解宇宙的組成成分以及發現新的引力波源需要測量極微弱的訊號。原子干涉儀利用原子物質波的干涉進行測量，但測量所需使用的鐳射脈衝本身具有噪聲，可能會淹沒訊號，導致無法獲得有意義的資料。研究人員發現，將兩個相同的原子干涉儀放在不同位置上，使用同一束鐳射進行測量，對比其測量結果，可以讓鐳射噪聲的影響相互抵消。研究人員在實驗室中製造出一臺原型裝置，包含兩個宏觀上處於不同位置的原子干涉儀。實驗發現，除了原子本身的量子隨機性導致的噪聲之外，該裝置不受其他噪聲影響。研究人員向鐳射中額外新增較強的噪聲後，該裝置依然運作良好，能有效去除噪聲。研究人員隨後向裝置施加與宇宙早期引力波和超輕暗物質等可能產生的訊號相似的振盪訊號。測試結果顯示，兩個原子干涉儀聯合執行依然能捕捉到清晰的訊號。"
-    },
-    {
-      "id": "mkt:019ee3e4-7a14-7dd8-b09d-6db2455ba0b7",
-      "time": "2026-06-20 15:17:41",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "【Chinese team builds 3D fiber microtweezer on commercial fiber tip; output force >100,000x traditional optical tweezers】Researchers at Anhui University and the University of Science and Technology of China used a femtosecond-laser composite manufacturing process for fiber-integrated devices to fabricate a three-dimensional microtweezer on the tip of a commercial optical fiber, published in Nature. The device delivers output forces more than 100,000 times those of conventional optical tweezers and enables high-precision, low-damage, programmable 3D manipulation of micron-scale targets, precise assembly of complex microstructures, single-cell manipulation and micro-sampling inside ~100-micron confined spaces. Authors cite application relevance for micro-manipulation, microsystems assembly, life-science handling and minimally invasive medical procedures."
-    },
-    {
-      "id": "4945719",
-      "time": "2026-06-20 15:15:36",
-      "tags": [
-        "其他"
-      ],
-      "text": "【端午假期第二天 北京市屬公園迎客超38萬人次】6月20日，端午假期第二天，從北京市公園管理中心瞭解到，市屬公園及中國園林博物館共接待遊客38.37萬人次，遊客量位居前三的分別是天壇公園、頤和園和北海公園。（北京青年報）"
-    },
-    {
-      "id": "mkt:019ee3e1-e623-7dd8-b09d-61431ba3fee7",
-      "time": "2026-06-20 15:14:52",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Industrial Metals",
-        "Energy"
-      ],
-      "text": "Netanyahu said Somaliland has abundant natural resources, including prospective rare earths, oil and gas, and an undeveloped mining sector. He said Israel’s leadership in innovation and technology, combined with Somaliland’s undeveloped resource potential and strategic location, make the two natural partners."
-    },
-    {
-      "id": "4945718",
-      "time": "2026-06-20 15:11:44",
-      "tags": [
-        "其他"
-      ],
-      "text": "【我國在商用光纖端部構建一種三維光纖微鑷 微鑷輸出力是傳統光鑷的十萬倍以上】據安徽大學訊息，該校光電資訊獲取與防護技術全國重點實驗室青年教師潘登與中國科學技術大學團隊合作，提出了面向纖基整合器件的飛秒鐳射復合製造方法，在商用光纖端部構建了一種三維光纖微鑷，實現了微米尺度目標的高精度、低損傷與可程式設計三維操控。研究成果日前發表於國際期刊《自然》。研究團隊構建的三維光纖微鑷輸出力是傳統光鑷的十萬倍以上，能夠實現微米尺度目標的精準操控和複雜微結構的精確裝配，展現出在微操控領域的重要應用價值。同時，該微鑷如同細胞尺度的“微型靈巧手”，能夠實現單細胞等微觀物件的精密操作，並在百微米狹窄空間內完成微尺度取樣，為生命健康和微創醫療等方向提供了新的技術路徑。 (科技日報)"
-    },
-    {
-      "id": "mkt:019ee3dc-9e00-7dd8-b09d-58d19addda5d",
-      "time": "2026-06-20 15:09:06",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Israeli Prime Minister Netanyahu said Israel must resolutely safeguard its security interests while preserving its important ties with the United States."
-    },
-    {
-      "id": "4945717",
-      "time": "2026-06-20 15:08:56",
-      "tags": [
-        "國際"
-      ],
-      "text": "內塔尼亞胡：以色列將在捍衛自身安全利益的同時，維持與美國的緊密關係。"
-    },
-    {
-      "id": "mkt:019ee3db-d780-7dd8-b09d-50413c15b7ce",
-      "time": "2026-06-20 15:08:15",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "DXY",
-        "WTI"
-      ],
-      "text": "Israeli prime minister NETANYAHU said more work remains in Gaza and Lebanon."
-    },
-    {
-      "id": "mkt:019ee3db-92cc-7dd8-b09d-4a105a8d80f1",
-      "time": "2026-06-20 15:07:58",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "NETANYAHU said Israeli forces repelled ground-invasion threats against Israeli communities in Lebanon and destroyed Hezbollah's missile capabilities."
-    },
-    {
-      "id": "4945716",
-      "time": "2026-06-20 15:07:52",
-      "tags": [
-        "其他"
-      ],
-      "text": "【貴州省人民檢察院檢察委員會專職委員石瑛接受紀律審查和監察調查】貴州省人民檢察院檢察委員會專職委員石瑛涉嫌嚴重違紀違法，目前正接受貴州省紀委監委紀律審查和監察調查。（貴州省紀委監委網站）"
-    },
-    {
-      "id": "mkt:019ee3db-2373-7dd8-b09d-43a828dad9f9",
-      "time": "2026-06-20 15:07:29",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "Prime Minister Netanyahu said Israelis have returned and will remain permanently, calling the territory their land and home."
-    },
-    {
-      "id": "4945715",
-      "time": "2026-06-20 15:06:38",
-      "tags": [
-        "國際"
-      ],
-      "text": "【浙江嘉興開通至匈牙利布達佩斯國際貨運航線】6月20日，一架滿載服裝、面料等跨境電商包裹的全貨機從浙江嘉興南湖機場起飛，經中轉後飛往匈牙利布達佩斯，標誌著“嘉興—布達佩斯”國際貨運航線正式開通執行。這是繼“嘉興—達卡”航線後，當地開通的第二條國際貨運航線，也是嘉興空港開通的首條歐洲方向航線。 新航線的開通，進一步完善了嘉興航空口岸國際物流佈局，為區域外貿轉型升級、高水平對外開放注入新動能。（中新網）"
-    },
-    {
-      "id": "mkt:019ee3d8-a095-7dd8-b09d-3d0ac1bccbc3",
-      "time": "2026-06-20 15:04:45",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Brent",
-        "Impact bullish",
-        "XAUUSD",
-        "DXY"
-      ],
-      "text": "【Israel begins air strikes on eastern Lebanon】Lebanon said Israel has begun air strikes on the West Bekaa region in eastern Lebanon, Middle East outlets Al Jazeera and Al Araby reported. Earlier, Israel conducted intense shelling across multiple areas of southern Lebanon, causing multiple casualties."
-    },
-    {
-      "id": "4945714",
-      "time": "2026-06-20 15:04:20",
-      "tags": [
-        "公司"
-      ],
-      "text": "【張朝陽到訪香港車博會極氪展臺 與吉利董事長李書福會面交流】據極氪微博：搜狐創始人張朝陽到訪2026中國香港車博會極氪展臺，與吉利控股集團董事長李書福會面交流。 現場體驗009光輝座艙後，張朝陽對極氪獨立分割槽隔音設計大加讚賞：“後排擁有專屬獨立空間，與前排駕駛區域隔絕”。 張朝陽為極氪8X浩瀚超級電混技術連點三個贊，直稱“Very Impressed!”動力強、能耗低、續航長。饋電上高速，越跑電越多，不是“永動機”，而是透過AI大模型精密計算，為使用者帶來無與倫比的駕乘體驗和高超的能量管理。 雙方圍繞高階新能源、綠色出行發展趨勢展開深度探討。"
-    },
-    {
-      "id": "4945713",
-      "time": "2026-06-20 15:01:01",
-      "tags": [
-        "國際"
-      ],
-      "text": "【巴基斯坦內政部長啟程前往伊朗】伊朗伊斯蘭共和國通訊社今天（6月20日）報道說，巴基斯坦內政部長納克維剛剛啟程前往德黑蘭與伊朗官員會談。據悉，納克維將在訪問期間跟進美伊談判的推進情況。目前這一訊息尚未得到巴方證實。（CCTV國際時訊）"
-    },
-    {
-      "id": "4945712",
-      "time": "2026-06-20 14:58:14",
-      "tags": [
-        "其他"
-      ],
-      "text": "【斯諾克團體世錦賽中國隊奪冠】日前，2026世界斯諾克檯球團體錦標賽在廣東落幕。由李城傑、潘奕銘、徐嘉銳組成的中國一隊，在決賽中以3:2逆轉戰勝對手，首次奪得該賽事冠軍。"
-    },
-    {
-      "id": "4945711",
-      "time": "2026-06-20 14:54:19",
-      "tags": [
-        "國際"
-      ],
-      "text": "據黎巴嫩國家通訊社：以色列對黎巴嫩南部奈拜提耶地區持續轟炸。"
-    },
-    {
-      "id": "mkt:019ee3cc-68eb-7dd8-b09d-30260ae48e71",
-      "time": "2026-06-20 14:51:24",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "IRNA reports Pakistan's interior minister has departed for Tehran."
-    },
-    {
-      "id": "4945710",
-      "time": "2026-06-20 14:50:32",
-      "tags": [
-        "其他"
-      ],
-      "text": "【內蒙古：今年1—5月全區規模以上工業增加值同比增長5.9%】據內蒙古自治區統計局訊息：今年前5個月，全區工業轉型升級步伐加快，民間投資、高技術產業投資持續增長，市場消費規模持續擴大，整體經濟執行穩中有進。從工業領域看，今年以來，內蒙古以構建現代化產業體系為抓手，在技術改造與創新中持續提升傳統工業發展水平，培育扶植新興產業、未來產業領域一批企業做大做強，為工業發展注入新鮮血液，促進了工業經濟轉型升級。今年1—5月，全區規模以上工業增加值同比增長5.9%。值得關注的是，1—5月，全區現代煤化工產業增加值同比增長18.6%，裝備製造業增加值同比增長22.5%，高技術製造業增加值同比增長13.1%，工業轉型升級步伐持續加快。"
-    },
-    {
-      "id": "4945709",
-      "time": "2026-06-20 14:50:09",
-      "tags": [
-        "國際"
-      ],
-      "text": "【特朗普再強調沒有美國就沒有以色列】當地時間6月19日，美國“阿克西奧斯新聞網”釋出一段18日採訪美國總統特朗普的影片。特朗普在接受採訪時表示，如果自己沒有終止伊核協議，伊朗早就已經擁有了核武器，而如果伊朗擁有核武器，那以色列早就不存在了。特朗普還表示，自己與以色列總理內塔尼亞胡關係很好，但必須讓內塔尼亞胡“保持理智”。另外針對美國能否阻止以色列襲擊黎巴嫩的疑問，特朗普再次強調，以色列會聽他的話，因為如果美國此前沒有轟炸伊朗核設施，那以色列今天已經不復存在了。（CCTV國際時訊）"
-    },
-    {
-      "id": "4945708",
-      "time": "2026-06-20 14:46:31",
-      "tags": [
-        "國際"
-      ],
-      "text": "【俄羅斯薩拉托夫州發生一起交通事故 致6人死亡】當地時間6月20日，俄羅斯薩拉托夫州內務部門通報，該州境內一高速公路上發生兩車相撞事故，造成6人死亡，2人受傷。（央視新聞）"
-    },
-    {
-      "id": "mkt:019ee3c5-a909-7dd8-b09d-29537fe013d1",
-      "time": "2026-06-20 14:44:02",
-      "tags": [
-        "MKT News",
-        "Important",
-        "SSE Composite",
-        "Impact bullish",
-        "CSI300"
-      ],
-      "text": "【Shanghai Stock Exchange to add single‑leg close‑out to stock option combo strategies】Shanghai Stock Exchange published a business plan to introduce a single‑leg close‑out function to its existing stock option combination strategies, aiming to improve options investors' capital efficiency and reduce trading costs to support healthier options market development."
-    },
-    {
-      "id": "mkt:019ee3c4-3f19-7dd8-b09d-241f5649a4af",
-      "time": "2026-06-20 14:42:29",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Precious Metals",
-        "XAUUSD",
-        "Impact mixed"
-      ],
-      "text": "【Iran Gold and Jewelry Union chairman: domestic gold stable; expects 1–3% near-term swings】IRNA quoted Iran Gold and Jewelry Union chairman Nader saying last week’s international gold rally did not lift — and in some cases coincided with declines in — domestic Iranian gold prices. He attributed the disconnect to a fall in the domestic exchange rate (weaker Iranian rial) and positive economic news, including a recent agreement, which largely offset global price pressures. Domestic prices are in a relatively stable range. Near-term drivers to watch, he said, are global gold trends, the rial, supply-demand and political developments; he expects natural 1–3% volatility next week and judges large moves unlikely."
-    },
-    {
-      "id": "4945705",
-      "time": "2026-06-20 14:42:21",
-      "tags": [
-        "宏觀",
-        "市場",
-        "國際"
-      ],
-      "text": "【伊朗黃金珠寶聯盟主席：伊朗金市保持穩定 後市料窄幅震盪】據伊朗伊斯蘭共和國通訊社（IRNA）報道，伊朗黃金與珠寶聯盟主席納德爾接受採訪時表示：“上週全球黃金市場一直在波動，但與預期相反，在國際金價上漲的時候，伊朗國內黃金市場價格並未出現上漲，我們甚至看到國內市場金價出現相對下跌。這受到多種因素的影響。部分原因是國內匯率下跌，另一部分原因是利好的經濟訊息，特別是近期達成的協議。這些因素在很大程度上抵消了全球金價上漲對國內市場的影響。目前，國內黃金價格處於相對穩定的區間。我們現在需要開始觀察全球市場走勢、國內匯率狀況、供需關係以及政治局勢的發展。這些因素都會影響下週的波動程度，並可能決定市場的走向。在我看來，可能會出現1%到3%的自然波動，這在黃金市場屬於正常現象，但在目前情況下，價格大幅下跌或上漲的可能性不大。”"
-    },
-    {
-      "id": "4945704",
-      "time": "2026-06-20 14:40:36",
-      "tags": [
-        "國際"
-      ],
-      "text": "【以軍空襲加沙城 至少5名巴勒斯坦人遇難】總檯記者獲悉，當地時間20日，以軍對加沙城發動空襲，造成至少5名巴勒斯坦人遇難，另有多人受傷。一名醫療訊息人士稱，以軍轟炸了位於加沙城的一處住宅公寓，導致4人遇難、多人受傷。此外，以軍還對加沙城北部一個十字路口附近實施空襲，造成1人遇難。（央視新聞）"
-    },
-    {
-      "id": "4945703",
-      "time": "2026-06-20 14:40:22",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "【上交所擬完善股票期權組合策略業務，推出單邊平倉功能】記者從業內獨家獲悉，為進一步提升期權投資者資金使用效率、降低交易成本、促進期權市場健康發展，上交所釋出股票期權組合策略單邊平倉業務方案，擬在現有組合策略業務基礎上推出單邊平倉功能。上交所自2019年推出股票期權組合策略業務以來，該業務在最佳化保證金佔用、豐富投資者策略運用方面發揮了積極作用。此次推出的單邊平倉功能，允許對投資者組合策略中的義務倉單獨進行買入平倉操作，從而先解除組合再各自平倉，進一步簡化了交易流程。根據方案，延續適用單邊平倉的組合策略型別共六類，涵蓋認購牛市價差策略、認購熊市價差策略、認沽牛市價差策略、認沽熊市價差策略、跨式空頭策略和寬跨式空頭策略。其中，四類價差策略可對其成分合約義務倉進行單邊平倉；跨式空頭和寬跨式空頭策略中包含兩個成分合約義務倉，僅允許對單個成分合約進行單邊平倉。（中證報）"
-    },
-    {
-      "id": "4945702",
-      "time": "2026-06-20 14:38:58",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗議會國家安全委員會成員賽義迪：諒解備忘錄中超過80%為美方承諾，若美國在諒解備忘錄問題上背信棄義，伊朗也將採取對等措施。"
-    },
-    {
-      "id": "mkt:019ee3bd-c37d-7dd8-b09d-1d180e22cd92",
-      "time": "2026-06-20 14:35:24",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "WTI",
-        "DXY"
-      ],
-      "text": "A member of Iran's parliamentary National Security Committee, Sayyedi, said more than 80% of the memorandum of understanding comprises U.S. commitments and that Iran would take reciprocal measures if the U.S. reneges on the MoU."
-    },
-    {
-      "id": "mkt:019ee3ba-ca2c-7dd8-b09d-1344766bb8eb",
-      "time": "2026-06-20 14:32:09",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Iran's Islamic Revolutionary Guard Corps says the war must end in a way that preserves Iran's deterrence for the next 50 years."
-    },
-    {
-      "id": "mkt:019ee3ba-ae58-7dd8-b09d-0b5f17120115",
-      "time": "2026-06-20 14:32:02",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "XAUUSD",
-        "DXY"
-      ],
-      "text": "Iran's Revolutionary Guard said U.S. and Israeli enemies realized by the 15th day of the conflict that the situation had slipped beyond their control."
-    },
-    {
-      "id": "4945701",
-      "time": "2026-06-20 14:31:48",
-      "tags": [
-        "其他"
-      ],
-      "text": "【儲永宏已任江蘇省人大常委會黨組副書記】江蘇省人民代表大會常務委員會官網近期更新後顯示，江蘇省人大常委會副主任儲永宏，已任省人大常委會黨組副書記。"
-    },
-    {
-      "id": "mkt:019ee3ba-671a-7dd8-b09d-00f01c4f272a",
-      "time": "2026-06-20 14:31:44",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "The Islamic Revolutionary Guard Corps said US domestic turmoil, fatigued and underprepared US forces, lack of a military solution in the Strait of Hormuz, congressional obstruction, allied non-cooperation and international pressure including from Spain are the primary factors keeping the US and Israel's adversaries locked in a stalemate during a third war."
-    },
-    {
-      "id": "4945700",
-      "time": "2026-06-20 14:31:27",
-      "tags": [
-        "國際"
-      ],
-      "text": "【伊朗革命衛隊：霍爾木茲海峽和伊朗的地區主權不容削弱】伊朗革命衛隊：戰爭和防禦尚未結束。美國在這場戰爭中被認定為失敗且無計可施的罪犯。伊朗武裝力量重創了美國最先進的技術裝備。霍爾木茲海峽和伊朗的地區主權不容削弱。在這次戰爭中，伊朗的國際地位和聲望得到提升。伊朗人民和抵抗陣線的權利必須得到鞏固。美國內部混亂局勢、美軍士兵疲憊與準備不足、在霍爾木茲海峽缺乏軍事解決方案、國會阻撓、盟友不予配合，以及包括西班牙在內的國際社會壓力——這些是美以敵人在第三次戰爭期間陷入僵局的最重要因素。美以敵人在此次戰爭的第十五天就意識到局面已脫離其掌控。戰爭必須以一種使伊朗在未來五十年內都能保持威懾力的方式結束。"
-    },
-    {
-      "id": "mkt:019ee3b9-8ea0-7dd8-b09c-fcdec494b96b",
-      "time": "2026-06-20 14:30:49",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Iran's Islamic Revolutionary Guard Corps said Iran's international standing and prestige have risen during the current war and called for consolidation of the rights of the Iranian people and the resistance front."
-    },
-    {
-      "id": "mkt:019ee3b9-5286-7dd8-b09c-f0dae77fd4d0",
-      "time": "2026-06-20 14:30:33",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "Iran's Islamic Revolutionary Guard Corps said the Strait of Hormuz and Iran's regional sovereignty must not be weakened."
-    },
-    {
-      "id": "mkt:019ee3b9-4414-7dd8-b09c-eb8ddb471416",
-      "time": "2026-06-20 14:30:30",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "XAUUSD",
-        "DXY"
-      ],
-      "text": "IRGC said Iranian armed forces inflicted heavy damage on the US's most advanced technical equipment."
-    },
-    {
-      "id": "mkt:019ee3b9-2c2b-7dd8-b09c-e66b34a95f8c",
-      "time": "2026-06-20 14:30:23",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "XAUUSD",
-        "DXY"
-      ],
-      "text": "Iran's Islamic Revolutionary Guard Corps said the United States has been judged a failed, powerless criminal in this war."
-    },
-    {
-      "id": "mkt:019ee3b8-f5f4-7dd8-b09c-dfa30396bbe6",
-      "time": "2026-06-20 14:30:09",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "XAUUSD",
-        "DXY"
-      ],
-      "text": "Iran's Islamic Revolutionary Guard Corps (IRGC) said the war and defensive operations are not yet over."
-    },
-    {
-      "id": "4945699",
-      "time": "2026-06-20 14:28:53",
-      "tags": [
-        "其他",
-        "國際"
-      ],
-      "text": "【薩爾瓦多查獲逾6噸可卡因】薩爾瓦多總統納伊布·布克爾19日說，該國海軍從兩艘船上查獲逾6噸可卡因。法新社援引布克爾的話報道，薩爾瓦多海軍18日在太平洋水域的兩艘船上共查獲逾6噸可卡因。兩艘船裝載的可卡因數量接近，每艘船上各有3名船員。布克爾在社交媒體上說，該國今年已查獲逾13噸可卡因，將繼續打擊毒品走私活動。（新華社）"
-    },
-    {
-      "id": "4945698",
-      "time": "2026-06-20 14:27:53",
-      "tags": [
-        "國際"
-      ],
-      "text": "【中加經商論壇聚焦兩國經貿合作新機遇】中國駐加拿大使館19日在渥太華舉辦主題為“緊抓中國開放新機遇，實現對華出口新增長”的中加經商論壇，並推介第九屆中國國際進口博覽會（進博會）。中國駐加拿大大使王鏑在主旨演講中介紹了中加關係和中加經貿合作新進展，歡迎加方作為主賓國參加今年舉辦的第九屆進博會。他表示，希望中加工商界繼續保持合作韌性，為兩國關係發展作出新貢獻。中方願同加方一道，推動中加關係健康、穩定、可持續發展。（新華社）"
-    },
-    {
-      "id": "mkt:019ee3b2-5b9c-7dd8-b09c-d3e66c99c6c4",
-      "time": "2026-06-20 14:22:57",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Series of blasts in Pakistan's Khyber Pakhtunkhwa kills at least 7】Police said on the 20th (local time) a series of blasts in Pakistan's Khyber Pakhtunkhwa province killed at least seven people and injured others. Authorities said two vehicles were detonated by remote control: a private car carrying passengers exploded first, and a second vehicle exploded about 1 km away while the wounded were being transported to hospital. Both vehicles were destroyed. Security forces and law enforcement have arrived to collect evidence and are investigating."
-    },
-    {
-      "id": "4945697",
-      "time": "2026-06-20 14:22:26",
-      "tags": [
-        "其他"
-      ],
-      "text": "【巴基斯坦開伯爾-普什圖省發生連環爆炸 至少造成7人死亡】根據巴基斯坦警方通報，當地時間20日，巴基斯坦開伯爾-普什圖省發生連環爆炸，造成至少7人死亡，另有人員受傷。當地警方稱，安全部隊和執法機構已經立即趕到現場收集證據，並對這些事件展開調查。警方稱，兩部車輛先後發生“遙控爆炸”，其中一輛載有乘客的私人汽車首先爆炸，傷者被送往醫院的途中，發生了第二起車輛爆炸。目擊者稱，第二次爆炸發生在距離第一次爆炸地點近一公里處，兩部車輛都被炸燬。（央視新聞）"
-    },
-    {
-      "id": "mkt:019ee3b1-ddf7-7dd8-b09c-cf1d66c6510f",
-      "time": "2026-06-20 14:22:25",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Tasnim News Agency reported that Iran's Foreign Minister Araghchi held a phone call with Pakistan's Deputy Prime Minister and Foreign Minister Dar to discuss the diplomatic process."
-    },
-    {
-      "id": "4945696",
-      "time": "2026-06-20 14:15:07",
-      "tags": [
-        "公司"
-      ],
-      "text": "【L4級強制加鐳射雷達？小鵬方面做出正式回應】6月20日，針對近期部分自媒體關於“L3/L4級自動駕駛強制國標”的片面解讀與不實傳言，小鵬集團相關負責人透過社交媒體，對“L3必須雙冗餘、L4必須加鐳射雷達”等謠言進行了嚴正澄清。近日，隨著《智慧網聯汽車自動駕駛系統安全要求》強制性國家標準（報批稿）進入公示階段，網路上出現了大量關於該標準的歪曲解讀，甚至斷言純視覺方案將被強制淘汰。 對此，小鵬方面明確指出，相關流傳說法純屬毫無依據的假新聞。經查閱公開可查的檔案原文及編制說明，其中並未出現“鐳射雷達”等具體硬體型別的文字表述，相關謠言既無任何條款依據，也與編制說明的解釋相悖。"
-    },
-    {
-      "id": "4945695",
-      "time": "2026-06-20 14:05:17",
-      "tags": [
-        "其他"
-      ],
-      "text": "【香港機場黃金大劫案最新進展】香港國際機場18日凌晨發生一起黃金搶劫案，涉及6根金條，總值約700萬港元。香港警方20日召開記者會表示，經追查，已拘捕涉案人員4男3女，年齡介於20歲至39歲，均為香港本地居民，部分有黑社會背景。 香港警方介紹案情時說，18日0時23分接獲報案，一名36歲的香港本地男子受僱於一名內地商人，由印度尼西亞獨自運金條回港。他在香港機場一停車場被三名蒙面男子持刀伏擊，6根金條被搶。匪徒得手後登上接應車輛逃去。 香港警方稱，相信此案件並非隨機行劫，而是有預謀，明顯有內鬼通風報信，或是熟人所為。警方已尋獲接應劫匪車輛和涉案刀具，但尚未尋回金條。 香港警方指出，懷疑部分嫌犯已潛逃至內地，香港警方正透過相關渠道尋求內地執法單位提供協助，不排除再有人被捕。（中新網）"
     }
   ]
 }
