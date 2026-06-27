@@ -1,7 +1,44 @@
 {
-  "updated": "2026-06-28 05:56:23",
+  "updated": "2026-06-28 06:00:46",
   "count": 18150,
   "items": [
+    {
+      "id": "mkt:019f0b18-4b51-7770-9d1b-c8364c99c95b",
+      "time": "2026-06-28 05:59:29",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "DXY",
+        "Impact mixed"
+      ],
+      "text": "Fox News reported US forces carried out a new round of strikes against Iran that were larger in scale than last night’s operation. US and Bahraini forces shot down nine Iranian drones headed toward US troops in Bahrain."
+    },
+    {
+      "id": "4958630",
+      "time": "2026-06-28 05:58:15",
+      "tags": [
+        "國際"
+      ],
+      "text": "福克斯新聞：美軍當前對伊朗的打擊規模大於昨晚的行動。美軍與巴林部隊擊落了9架飛向駐巴林美軍的伊朗無人機。"
+    },
+    {
+      "id": "4958629",
+      "time": "2026-06-28 05:57:37",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗錫裡克縣再傳出兩聲爆炸巨響，爆炸起因目前尚不明確。"
+    },
+    {
+      "id": "4958628",
+      "time": "2026-06-28 05:57:00",
+      "tags": [
+        "國際"
+      ],
+      "text": "航班追蹤平臺 Flightradar24 不久前監測到霍爾木茲海峽附近出現大量美國空軍軍機活動跡象：在美國對伊朗實施空襲後，至少有 4 架 KC-135 “同溫層加油機” 與 3 架 KC-46A “飛馬” 加油機處於執勤狀態。"
+    },
     {
       "id": "4958627",
       "time": "2026-06-28 05:54:32",
@@ -166029,40 +166066,6 @@
         "國際"
       ],
       "text": "黎巴嫩外交部：以色列空襲東部和南部地區，造成7人死亡。"
-    },
-    {
-      "id": "4946017",
-      "time": "2026-06-21 06:00:15",
-      "tags": [
-        "其他"
-      ],
-      "text": "【媒體報道稱英國首相斯塔默準備卸任，官方訊息人士則表示其仍專注履職】英國《觀察家報》稱，首相基爾·斯塔默預計將於週一宣佈辭職並公佈離任時間表；但一名政府內部訊息人士表示，斯塔默當下仍專注於治國理政工作。數月以來，斯塔默的首相地位本就持續承壓，局勢在週五急劇惡化：其競爭對手安迪·伯納姆拿下議會一席，由此具備發起正式黨首挑戰的資格。《觀察家報》報道稱，斯塔默正在契克斯鄉間官邸與妻子商議此事，待商議後做出最終決定；工黨高層普遍預計，他最早會在週一就自身去留髮布明確宣告。不過一名政府訊息人士稱，斯塔默始終專注本職工作，並援引他此前表達相同立場的公開表態佐證。這位英國首相週五曾表態，他會直面所有針對其職位的挑戰，呼籲工黨不要因內鬥走向分裂。工黨內已有超百名當選議員（約佔下議院工黨全體議員的四分之一）公開表態，希望斯塔默主動辭職或給出離任時間表。"
-    },
-    {
-      "id": "4946016",
-      "time": "2026-06-21 05:58:08",
-      "tags": [
-        "其他"
-      ],
-      "text": "中央氣象臺6月21日06時繼續釋出暴雨黃色預警。"
-    },
-    {
-      "id": "mkt:019ee70a-3faf-7dd8-b0a2-4a821102485e",
-      "time": "2026-06-21 05:57:48",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK"
-      ],
-      "text": "【Observer says Starmer may announce resignation timetable next Monday; government source says he remains focused on governing】The Observer reports Prime Minister Starmer is expected to announce his resignation and a departure timetable next Monday after months of pressure that intensified on Friday when rival Andy Burnham won a parliamentary seat, enabling a formal leadership challenge. A government source said Starmer remains focused on governing; he is at Chequers discussing options and has not made a final decision, though several senior Labour figures expect a clear statement as early as Monday. More than 100 Labour MPs—roughly a quarter of Labour’s Commons bench—have publicly called for his resignation or for a set departure date."
-    },
-    {
-      "id": "4946015",
-      "time": "2026-06-21 05:56:35",
-      "tags": [
-        "其他"
-      ],
-      "text": "倫敦消防隊：懷特城紐西蘭路發生火災，已造成三人死亡。"
     }
   ]
 }
