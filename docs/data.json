@@ -1,7 +1,15 @@
 {
-  "updated": "2026-06-27 23:57:24",
-  "count": 18153,
+  "updated": "2026-06-28 00:02:10",
+  "count": 18149,
   "items": [
+    {
+      "id": "4958517",
+      "time": "2026-06-27 23:58:56",
+      "tags": [
+        "其他"
+      ],
+      "text": "據當地媒體27日報道，巴基斯坦卡拉奇一條主要街道當日發生爆炸並傳出槍聲，目前安全部隊已趕往現場。"
+    },
     {
       "id": "4958516",
       "time": "2026-06-27 23:52:51",
@@ -166042,62 +166050,6 @@
         "MKT News"
       ],
       "text": "【Netanyahu, Katz order IDF to cease fire in Lebanon】Israeli sources said on the 20th Prime Minister Netanyahu and Defense Minister Katz ordered the Israel Defense Forces to cease fire in Lebanon, while directing that forces not immediately withdraw from southern Lebanon. Separately, after a situation assessment, Chief of General Staff Zamir ordered a ceasefire in southern Lebanon."
-    },
-    {
-      "id": "mkt:019ee5c3-deae-7dd8-b0a0-6892a2a2d718",
-      "time": "2026-06-21 00:01:19",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "Mehr news agency reports an adviser to Iran's Supreme Leader said if an agreement remains on paper, Middle East energy flows will continue to be disrupted."
-    },
-    {
-      "id": "mkt:019ee5c3-d180-7dd8-b0a0-61ce37fb9517",
-      "time": "2026-06-21 00:01:16",
-      "tags": [
-        "MKT News",
-        "DXY",
-        "Impact bullish",
-        "EURUSD",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "【Trump says Italian PM Meloni refused U.S. on Iran, denied airfield access】U.S. President Trump posted on social media on June 20 saying Italian Prime Minister Meloni refused to support the U.S. in preventing Iran from obtaining or developing nuclear weapons and declined U.S. use of Italian airfields and runways, causing significant logistical inconvenience despite the billions the U.S. spends annually to defend Italy and other NATO allies."
-    },
-    {
-      "id": "4945915",
-      "time": "2026-06-21 00:01:01",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "伊朗最高領袖顧問表示，若協議僅停留在紙面上，中東能源運輸將繼續停滯。"
-    },
-    {
-      "id": "mkt:019ee5c2-4fc2-7dd8-b0a0-5bbd395f8c26",
-      "time": "2026-06-20 23:59:37",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "DXY",
-        "Brent"
-      ],
-      "text": "Local governor said Russian forces used glide bombs to strike Zaporizhzhia in southeastern Ukraine, killing four and wounding six."
-    },
-    {
-      "id": "4945914",
-      "time": "2026-06-20 23:58:25",
-      "tags": [
-        "國際"
-      ],
-      "text": "黎巴嫩陸軍司令：維護安全與穩定是國家優先事項，並防止以色列透過破壞內部安全來實現該目標。"
     }
   ]
 }
