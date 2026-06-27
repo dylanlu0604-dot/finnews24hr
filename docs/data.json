@@ -1,7 +1,36 @@
 {
-  "updated": "2026-06-28 02:39:20",
-  "count": 18154,
+  "updated": "2026-06-28 02:43:11",
+  "count": 18155,
   "items": [
+    {
+      "id": "mkt:019f0a63-7662-7dd8-b143-9db1768a0692",
+      "time": "2026-06-28 02:41:58",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Israeli Prime Minister Netanyahu said he will send a delegation to Washington to clarify Israel's position on the U.S.-Iran agreement."
+    },
+    {
+      "id": "mkt:019f0a63-4d1d-7dd8-b143-90bd786b140b",
+      "time": "2026-06-28 02:41:47",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "DXY"
+      ],
+      "text": "Israeli Prime Minister Netanyahu said a two-state solution will be impossible to achieve under any government he leads."
+    },
+    {
+      "id": "4958581",
+      "time": "2026-06-28 02:39:23",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "以色列總理內塔尼亞胡談以黎框架協議：\n1、將與黎巴嫩達成其他協議；\n2、在我領導的任何政府中，兩國方案將不可能實現；\n3、將以武力應對真主黨試圖違反協議的努力；\n4、伊朗已不再是我們所知的那個伊朗，我們有機會進行新的考驗；\n5、不會接受加沙和黎巴嫩的“零和”局面；\n6、留在黎巴嫩是保障以色列安全的“好解決方案”；\n7、將派遣代表團前往華盛頓，闡明我們對美伊協議的立場。"
+    },
     {
       "id": "4958580",
       "time": "2026-06-28 02:32:01",
@@ -166084,22 +166113,6 @@
         "MKT News"
       ],
       "text": "【Delay in Iran‑US talks signals strategic bargaining, expert says】Qin Tian, deputy director of the Middle East Institute at the China Institute of International Relations, said Iran is deliberately slowing and controlling the pace of negotiations, adopting a wait‑and‑see approach: if a memorandum’s implementation yields tangible benefits for Tehran, Iran will engage actively; if implementation falls short and Iran does not receive expected gains, it will not advance further talks. Qin said Washington has not clearly benefited from prior conflict or from the current ceasefire memorandum, and with US midterm elections approaching the Trump administration’s space for large‑scale military action against Iran is increasingly constrained. As a result, the US appears to be relying chiefly on economic inducements in the memorandum — proposals such as an Iran reconstruction fund and unfreezing Iranian assets — to boost Tehran’s negotiating incentives. Qin added Israel is similarly constrained: it wants to disrupt US‑Iran negotiations but must avoid antagonizing Washington, limiting its willingness to pursue large‑scale military operations."
-    },
-    {
-      "id": "mkt:019ee657-b011-7dd8-b0a1-79aee4e24997",
-      "time": "2026-06-21 02:42:46",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Shooting in Chicago injures at least 12; two in critical condition】Chicago police said on the 20th that a late-night shooting on the 19th left at least 12 people wounded after two people fired from an SUV into a crowd. Victims were taken to hospital; two men are in critical condition. Police said they are investigating the incident."
-    },
-    {
-      "id": "4945966",
-      "time": "2026-06-21 02:41:14",
-      "tags": [
-        "國際"
-      ],
-      "text": "英國首相斯塔默：會聲援巴勒斯坦，且不會對伊朗開戰。"
     }
   ]
 }
