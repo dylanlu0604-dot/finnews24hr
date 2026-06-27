@@ -1,7 +1,45 @@
 {
-  "updated": "2026-06-28 01:55:08",
-  "count": 18141,
+  "updated": "2026-06-28 01:59:07",
+  "count": 18144,
   "items": [
+    {
+      "id": "mkt:019f0a3b-a9c8-7dd8-b143-43ae4fc35653",
+      "time": "2026-06-28 01:58:29",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Israeli Prime Minister Netanyahu said Israel is breaking Iran’s diplomatic axis and has reached a framework agreement that would allow it to end the conflict with Lebanon."
+    },
+    {
+      "id": "mkt:019f0a3a-9a83-7dd8-b143-3f2da7dc23f1",
+      "time": "2026-06-28 01:57:20",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Amazon",
+        "Market Themes",
+        "Magnificent 7",
+        "AMZN.O",
+        "Impact bullish"
+      ],
+      "text": "【Amazon Prime Day online sales slightly above expectations】Amazon’s four-day Prime Day ended Friday. Adobe estimates US online spending across all retailers during Prime Day promotions at $26.4 bln, slightly above its $26.3 bln projection and up 9.3% YoY from last July’s Prime Day. Discounts were similar to last year, with electronics and apparel deepest, average markdown about 24%. Consumer-research firm Numerator says average Amazon household spend over the four days through Friday 4pm local time was $143, down 8.3% YoY."
+    },
+    {
+      "id": "4958556",
+      "time": "2026-06-28 01:57:19",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列總理內塔尼亞胡：我們已瓦解伊朗軸心勢力。"
+    },
+    {
+      "id": "4958555",
+      "time": "2026-06-28 01:55:08",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國財長貝森特：伊朗人十分擅長輿論宣傳。伊朗談判代表均由本國政府指派，他們的表態意在迎合德黑蘭國內的強硬派群體。和我們體系記憶體在強硬勢力一樣，伊朗國內也有持強硬立場的人士。"
+    },
     {
       "id": "4958554",
       "time": "2026-06-28 01:49:47",
@@ -165966,14 +166004,6 @@
         "國際"
       ],
       "text": "半島電視臺一名攝像師在以色列對加沙地帶中部發動的空襲中身亡。"
-    },
-    {
-      "id": "4945951",
-      "time": "2026-06-21 01:56:31",
-      "tags": [
-        "國際"
-      ],
-      "text": "以色列軍方宣佈一名士兵在黎巴嫩南部戰鬥中陣亡。"
     }
   ]
 }
