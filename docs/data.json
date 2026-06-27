@@ -1,7 +1,15 @@
 {
-  "updated": "2026-06-27 18:36:49",
-  "count": 18215,
+  "updated": "2026-06-27 18:40:59",
+  "count": 18214,
   "items": [
+    {
+      "id": "4958371",
+      "time": "2026-06-27 18:36:17",
+      "tags": [
+        "國際"
+      ],
+      "text": "【俄稱伏爾加格勒市一企業遭襲 已致1死11傷】俄羅斯伏爾加格勒州州長博恰羅夫27日通報稱，烏軍對伏爾加格勒市一企業的襲擊造成1人死亡、仍有1人失蹤。此外，受傷人數上升至11人，其中2人傷勢嚴重。"
+    },
     {
       "id": "4958370",
       "time": "2026-06-27 18:34:08",
@@ -166609,22 +166617,6 @@
         "其他"
       ],
       "text": "【水利部和中國氣象局聯合釋出黃色山洪災害氣象預警】水利部和中國氣象局6月20日18時聯合釋出黃色山洪災害氣象預警：預計，6月20日20時至21日20時，山西南部、內蒙古東北部、黑龍江西部、江西西北部、河南北部、湖北東南部、湖南北部、廣西北部、四川東部和南部、貴州南部、雲南西北部、西藏東南部、陝西西南部、新疆南部和西部等地部分地區可能發生山洪災害(藍色預警)，其中，內蒙古東北部、江西西北部、湖北東南部、湖南西北部、廣西北部、貴州南部、雲南西北部、西藏東南部、新疆南部等地部分地區發生山洪災害可能性較大(黃色預警)。其他地區也可能因局地短歷時強降水引發山洪災害，請各地注意做好實時監測、防汛預警和轉移避險等防範工作。"
-    },
-    {
-      "id": "4945774",
-      "time": "2026-06-20 18:37:49",
-      "tags": [
-        "國際"
-      ],
-      "text": "黎巴嫩官方媒體報道，以色列夜間的空襲造成至少七人死亡。"
-    },
-    {
-      "id": "mkt:019ee49b-4a2e-7dd8-b09e-64d54219a11c",
-      "time": "2026-06-20 18:37:22",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【State Council Information Office to hold press briefing on June 22 at 15:00】The State Council Information Office will hold a press conference at 15:00 on Monday, June 22, 2026. MOFCOM Vice Minister and Deputy International Trade Representative Ling Ji, together with officials from the National Development and Reform Commission and the Ministry of Finance, will outline policy measures to stabilize and enhance the quality of foreign investment and will take questions."
     }
   ]
 }
