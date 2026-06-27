@@ -1,7 +1,183 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-06-27 08:04:51_
-_本檔包含 3607 則快訊，約 670794 字_
+_更新時間：2026-06-27 08:57:37_
+_本檔包含 3612 則快訊，約 671221 字_
+
+---
+
+### 2026-06-27 08:56:33  #宏觀
+
+【中國銀行行長張輝會見巴西財政部部長達里奧·杜裡甘】6月26日下午，中國銀行行長張輝在京會見巴西財政部部長達里奧·杜裡甘（Dario Durigan），圍繞共建“一帶一路”、熊貓債發行和中巴經貿合作進行溝通交流。雙方一致表示，中國銀行將依託全球化優勢，積極服務巴西財政部在國際資本市場開展債券融資，深度參與巴西綠色經濟轉型，繼續發揮服務中巴經貿投資的橋樑作用，一同為巴西發展增添新動力，推動中巴互利共贏不斷取得新突破。
+
+---
+
+### 2026-06-27 08:54:32  #行業
+
+【酒價內參6月27日價格釋出：古井貢古20五糧液普五八代領漲 總價創四日新高】新浪財經“酒價內參”過去24小時收集的資料顯示，中國白酒市場主要大單品的終端零售均價6月27日整體自低位小幅反彈。如果主要單品各取一瓶整體打包售賣，今日總售價為9871元，較昨日上漲12元，創下四日以來最高。今日總價雖仍處於9900元關口下方，但自昨日創下的近70天最低點小幅修復，終端交投情緒環比改善，但低位震盪格局仍未扭轉。
+
+今日11大白酒單品六漲四跌一平，贏家佔據優勢。上漲方面，古井貢古20漲幅居前，上漲10元/瓶，自近一月次低位快速反彈；五糧液普五八代上漲8元/瓶，創近一月最大單日漲幅，自昨日創下的今年2月2日以來最低紀錄處大幅反彈，重新攀上800元關口；五糧液1618上漲3元/瓶，自近一月最低位小幅修復；飛天茅臺與青花汾20均上漲2元/瓶，其中前者自昨日創下的近一月最低位小幅反彈，後者重返370元關口；水晶劍南春小幅上漲1元/瓶，自昨日創下的近一月最低價小幅修復，但亦仍處於近一月次低位。下跌方面，國窖1573跌幅居前，下跌5元/瓶，回落至880元關口；習酒君品下跌4元/瓶，回吐昨日全部漲幅；精品茅臺下跌3元/瓶，連續兩日回落，價格回落至近一月次低位；洋河夢之藍M6+下跌2元/瓶。青花郎的價格環比保持不變，仍位於700元關口下方。
+
+---
+
+### 2026-06-27 08:51:04  #國際
+
+法國外交部說，布吉納法索以“涉嫌損害該國利益”為由決定與法國斷絕外交關係，這是“充滿敵意且毫無根據的決定”。 法國外交部表示，這一“單方面決定”反映了布吉納法索當局的傾向“令人擔憂”，並補充說“必要的對等措施正在審議中”。（新華社）
+
+---
+
+### 2026-06-27 08:49:47  #市場 #國際
+
+【上海航交所：原油運價大幅上調】據上海航交所， 美國能源資訊署(EIA)公佈資料顯示，截至2026年6月19日當週，美國除卻戰略儲備的商業原油庫存減少608.8萬桶至4.12億桶，降幅1.46%。美國國內原油產量增加1.3萬桶至1381.9萬桶/日，原油出口增加34.2萬桶/日至466.9萬桶/日，進口557.0萬桶/日，較前一週增加43.6萬桶/日。原油產品四周平均供應量為2047.3萬桶/日，較去年同期增加2.11%。美伊首輪瑞士談判順利收官，雙方釋放積極訊號並敲定60天談判週期，全球原油供應前景明顯改善，大幅緩解市場對中東能源航道中斷的擔憂。大量原油恢復正常運輸以及美國針對伊朗原油的臨時豁免政策進一步增強了供應增加的預期，導致原油期貨市場持續承壓。儘管海峽已逐步恢復通航，但伊朗革命衛隊要求所有船隻透過霍爾木茲海峽須提前協調，違規將受處置，新規則與和平協議條款形成潛在張力，限制了油價的跌幅。本週布倫特原油期貨價格小幅下跌，週四報74.56美元/桶，較6月17日下跌4.84%。全球原油運輸市場VLCC型油輪運價先漲後跌。中國進口VLCC運輸市場運價大幅上調。6月25日，上海航運交易所釋出的中國進口原油綜合指數（CTFI）報5354.35點，較6月17日上漲28.5%。
+
+---
+
+### 2026-06-27 08:49:22  #市場
+
+【上海航交所：中小船型市場表現偏弱 幹散貨租金指數繼續下行】據上海航交所，本週，國際幹散貨運輸市場各船型日租金走勢分化，僅海岬型船日租金環比上行，巴拿馬型船與超靈便型船日租金出現不同幅度回落，遠東干散貨租金指數延續下行走勢。分船型來看，上週末至本週初，海岬型船鐵礦石運輸需求階段性回暖，帶動對應航線運價企穩回升，但本週下半周運價重回下行通道。巴拿馬型船市場煤炭、糧食貨盤偏少，運力過剩加劇，日租金承壓。超靈便型船市場供給略顯寬鬆，日租金小幅下跌。6月25日，上海航運交易所釋出的遠東干散貨租金指數為1848.15點，較上期（6月17日，下同）下跌2.4%。
+
+---
+
+### 2026-06-27 08:48:56  #市場
+
+【上海航交所：梅雨季全面開啟 綜合指數加速下跌】據上海航交所，本週，隨著梅雨季的全面開啟，南方強降雨不斷，水電發力維持高位，電廠日耗提升乏力，加之長協煤補給充足，終端採購趨於謹慎，商談氛圍持續冷清，運輸市場成交稀少，沿海散貨綜合指數承壓加速下跌。6月26日，上海航運交易所釋出的中國沿海（散貨）綜合運價指數報收1111.89點，較上期下跌13.6%。
+
+---
+
+### 2026-06-27 08:48:19  #市場
+
+【上海航運交易所：本週運輸市場繼續向好 多數航線運價上行】據上海航運交易所，本週，中國出口集裝箱運輸市場行情繼續穩中向好，多數航線市場運價保持漲勢，帶動綜合指數上漲。6月26日，上海出口集裝箱綜合運價指數為3239.64點，較上期上漲3.8%。
+
+---
+
+### 2026-06-27 08:40:32  #其他
+
+【雄安新區・土耳其（伊斯坦布林）經貿合作推介會成功舉辦】據雄安自貿委，當地時間6月26日上午，“絲路連世界・雄安創未來”雄安新區・土耳其（伊斯坦布林）經貿合作推介會在土耳其經濟、歷史、文化中心——伊斯坦布林成功舉辦。本次推介會依託千年絲路紐帶，精準對接土耳其工商界優質資源，搭建雄安新區與土耳其政企各界溝通對接、經貿互通、產業共建的國際化合作平臺，助力雄安新區深度連結歐亞市場，拓展全球經貿合作新空間，打造擴大開放新高地。
+
+---
+
+### 2026-06-27 08:40:22  #其他
+
+【岑浩輝：澳門冀與APEC成員經濟體共拓亞太旅遊新路徑】亞太經合組織（APEC）第十三屆旅遊部長會議將於27日在澳門舉行。26日晚，澳門特區政府與國家文化和旅遊部舉辦為參會嘉賓舉辦了歡迎晚宴。澳門特區行政長官岑浩輝致辭時表示，作為亞太地區最重要的經濟合作平臺之一，本屆APEC旅遊部長會議不僅是一場旅遊業界的交流盛會，更是“APEC中國年”的重要系列活動。澳門希望與APEC各成員經濟體深入交流旅遊業可持續發展經驗，共拓亞太旅遊合作新路徑。 岑浩輝表示，當前澳門整體經濟社會發展態勢良好、前景光明，尤其是旅遊業持續展現穩健復甦勢頭。我們期待與各成員經濟體代表深入交流旅遊業可持續發展經驗，共拓亞太旅遊合作新路徑。
+
+---
+
+### 2026-06-27 08:40:07  #其他
+
+【微短劇核⼼受眾為31至40歲群體】6月26日，《中國微短劇精品創作與傳播研究報告（2026）》對外發布。報告顯示，截至2026年3月，微短劇使用者規模達7.18億，網民滲透率70%，獨立APP月活3.35億，同比增長74%。 從年齡來看，31歲至40歲群體佔⽐最⾼，達31.30%，是核⼼受眾；51歲以上及24至30歲群體也佔較⼤⽐例，分別為23.55%和16.09%，整體受眾呈現出成熟化的趨勢。
+
+---
+
+### 2026-06-27 08:37:22  #公司
+
+【電腦漲價潮來了：多個電腦熱門機型售價大幅上調】蘋果公司最近宣佈，上調全球多個市場部分膝上型電腦和平板電腦售價，漲幅在16%至25%不等。國內市場多款熱門電腦機型售價也出現大幅上調。在深圳華強北的一家電腦銷售門店，店長向央視財經記者介紹了一款熱賣遊戲膝上型電腦。這款電腦去年七八月份上市時零售價在7000元左右，如今終端售價已突破1萬元。記者走訪發現，除了熱門遊戲筆記本，普通商務筆記本的價格也普遍上調。去年市場上價格在4000元以下的機型，今年已基本難覓蹤影，而中高階筆記本的漲幅普遍在500至1500元之間。自去年第四季度起，受全球AI算力需求爆發影響，記憶體、硬碟以及CPU、顯示卡等核心配件價格普遍走高。面對廠家的調價通知，今年以來，不少經銷商不得不頻繁調整終端零售價。（央視財經）
+
+---
+
+### 2026-06-27 08:36:44  #公司
+
+【首隻新能源領域國家民企聯合基金（寧德時代）啟動】26日，記者從福建省科技廳獲悉，新能源龍頭企業寧德時代新能源科技股份有限公司入列國家自然科學基金民營企業創新發展聯合基金，成為全國新能源領域首家入列該基金的民營企業。（科技日報）
+
+---
+
+### 2026-06-27 08:34:11  #MKT News #Important
+
+【ANTHROPIC: Claude MYTHOS 5 cleared for limited redeployment to US institutions; FABLE 5 public return imminent】ANTHROPIC said it has worked with the US government since June 12 to restore access to Claude MYTHOS 5 and FABLE 5. Today the government notified ANTHROPIC that MYTHOS 5, the company’s most advanced cybersecurity model, may be redeployed to a group of US institutions. ANTHROPIC said it is continuing to work with authorities to expand access to MYTHOS 5 and to make FABLE 5 publicly available again.
+
+---
+
+### 2026-06-27 08:32:42  #其他
+
+Anthropic：我們正繼續與政府合作，以擴大對MYTHOS 5的訪問許可權，並讓FABLE 5再次面向公眾開放使用。
+
+---
+
+### 2026-06-27 08:31:52  #國際
+
+Anthropic：今日政府通知我方，我們最強大的網路安全模型MYTHOS 5可重新部署至一批美國機構。
+
+---
+
+### 2026-06-27 08:31:40  #國際
+
+Anthropic：自6月12日起，我們一直與美國政府密切合作，以恢復對Claude Mythos 5和Fable 5的訪問許可權。
+
+---
+
+### 2026-06-27 08:31:22  #國際
+
+美國地質調查局（USGS）：索羅門群島基拉基拉以東 100 公里處發生 5.1 級地震。
+
+---
+
+### 2026-06-27 08:30:19  #觀點
+
+【SpaceX即將入選納斯達克100指數 為被動買入潮鋪平道路】斯達克交易所週五確認，SpaceX將於7月7日被納入科技股佔比較高的納斯達克100指數，這為埃隆·馬斯克旗下的這家火箭與人工智慧巨頭吸引被動投資鋪平了道路。摩根大通估計，SpaceX被納入納斯達克100指數可能帶來43億美元的被動資金流入。 “顯然，市場需求很大，這就是他們加快將其納入指數程序的原因，”晨星（Morningstar）首席股票市場策略師邁克爾·菲爾德（Michael Field）表示。“很多人會對此感到高興。但一些基金經理則不那麼樂意，其中包括持懷疑態度的那些人，我們也在其中。我們認為該股估值過高。”
+
+---
+
+### 2026-06-27 08:28:40  #MKT News #SSE Composite #Impact bullish #CSI300
+
+【Shanghai Exchange adds 'quantum' to STAR Market industry list; industry cites faster industrialization, clearer policy support】The Shanghai Stock Exchange published draft amendments to STAR Market IPO filing and recommendation rules, revising secondary industry classifications for strategic emerging industries and adding "quantum" under the new‑generation information technology sector. Industry participants told reporters quantum technology is entering a new phase—industrialization is accelerating, expectations for investable capital and exit pathways are improving, and policy support is becoming more detailed—while firms still face common structural problems and gaps with overseas peers, calling for patience and resolve.
+
+---
+
+### 2026-06-27 08:27:12  #宏觀
+
+【黑龍江省出臺急需緊缺技能人才精準供給專項方案】據黑龍江省人力資源和社會保障廳，近日，黑龍江省印發《黑龍江省急需緊缺技能人才精準供給專項工作方案》，圍繞裝備製造、人工智慧、現代服務等重點產業，建立“需求即時感知、培訓快速有效、人崗高效匹配”的閉環機制，著力破解技能人才供給與需求結構性矛盾。其中提到，聚焦人工智慧、先進製造、低空經濟、冰雪經濟等8大領域開展專項培訓，對人工智慧訓練師等急需緊缺職業試點“短平快”培訓專案，著力提升培訓轉化效率。《方案》明確，2026年6月底前重點領域供給效率明顯提升，8月底前建成快速響應平臺，11月底前精準供給機制覆蓋全省，重點產業用人需求滿足率持續提升。
+
+---
+
+### 2026-06-27 08:20:39  #公司
+
+【世界級高壩水電工程在川執行 助增清潔能源供應】中國國家能源集團大渡河雙江口水電站首臺機組26日正式併網發電，標誌著這一世界級水電工程進入執行階段，將對中國清潔能源供應起到補益助力作用。 雙江口水電站工程位於四川省阿壩州，採用礫石土心牆堆石壩，最大壩高315米，是世界級高壩。建設過程中攻克高地應力地下廠房施工、超大規模土石方填築組織及長距離物料運輸等關鍵技術難題，形成多項世界級水電工程技術成果。（新華社）
+
+---
+
+### 2026-06-27 08:20:36  #MKT News
+
+【SpaceX to join Nasdaq-100 from July 7, Nasdaq says】Nasdaq said SpaceX will be added to the Nasdaq-100 from July 7 pending final qualification. Index-tracking funds are expected to begin buying shares after the close on July 6, ahead of formal inclusion; SpaceX is forecast to enter with under 1% weight in the tech-heavy index.
+
+---
+
+### 2026-06-27 08:16:15  #其他
+
+市場訊息： 吉利將於 7 月向加拿大出口Lotus電動汽車。
+
+---
+
+### 2026-06-27 08:14:40  #公司
+
+【17只滯漲股下週將實施大額分紅】下週（6月29日至7月3日），近200家公司將實施2025年度分紅，總額接近804億元。其中，60餘家公司2025年度現金分紅超過1億元，27家公司分紅金額超過5億元，主要分佈於銀行、非銀金融、公用事業、交通運輸等行業。結合市場表現來看，上述27家即將大額分紅公司中，今年以來跑輸所屬的申萬一級行業指數的公司有17家。
+
+---
+
+### 2026-06-27 08:11:00  #市場
+
+【暑期出遊高峰臨近 需求多元化特徵凸顯】隨著全國中高考陸續結束，各地中小學生也相繼進入暑假節奏，暑期出遊高峰期即將到來。綜合民航、鐵路及主流線上旅遊平臺資料來看，今年暑期出行需求集中釋放，推動機票價格小幅上漲，親子、學生客群仍是出行主力。小眾目的地、特色旅遊列車和深度文化體驗的升溫，則讓今年的暑運出行市場較往年更加多元化，整體呈現“穩中有升、結構最佳化”的特徵。（證券日報）
+
+---
+
+### 2026-06-27 08:09:48  #其他
+
+【中國電建與四川省政府簽署全面深化戰略合作協議】6月26日，中國電建與四川省人民政府簽署全面深化戰略合作協議。根據協議，雙方將圍繞清潔能源開發利用、能源基礎設施建設、能源產業建圈強鏈、能源科技創新與成果轉化、高階人才交流引育等方面開展深入合作，共同培育發展能源新質生產力，更好服務國家發展大局和四川現代化建設。
+
+---
+
+### 2026-06-27 08:09:12  #MKT News #Important #Market Regions #Wall Street (US) #SPCX.O #Impact bullish
+
+Nasdaq Exchange said SpaceX (SPCX.O) will be added to the Nasdaq-100 index effective July 7, 2026.
+
+---
+
+### 2026-06-27 08:07:16  #MKT News #Brent #Impact bullish #WTI #XAUUSD
+
+【IRGC says it struck US military positions in retaliation for strikes on Iranian coast】The Islamic Revolutionary Guard Corps said in a statement in the early hours of June 27 that, after Israel violated a ceasefire in southern Lebanon and hours later the US, citing pretexts related to an unauthorized vessel transiting a non‑authorized route in the Strait of Hormuz, launched airstrikes on Iran’s coastal areas, IRGC naval forces struck US military positions in the region. The statement invoked Article 5 of the US‑Iran memorandum of understanding, saying Iran is responsible for passage management through the Strait of Hormuz and that US attempts to breach that commitment "received the necessary response" and "will be met with larger reprisals if aggression recurs."
+
+---
+
+### 2026-06-27 08:06:49  #MKT News #WTI #Impact bullish #Brent #XAUUSD
+
+【IRGC disputes social-media claims after CENTCOM says US struck Iran; ISNA deletes Sirik Island report】Local time June 27, the IRGC public relations chief said recent social-media posts purporting to be IRGC statements about clashes with US forces are fake. CENTCOM said on June 26 its forces struck Iran. Early June 27, Iranian Students News Agency (ISNA) reported the IRGC said its navy and air force had repelled a US attack on Sirik Island and forced attacking forces to withdraw; ISNA later deleted that report.
 
 ---
 
@@ -21644,149 +21820,5 @@ The FTSE MIB Index Closes 0.28% Higher — The FTSE MIB Index went up by 144 poi
 ### 2026-06-26 00:11:37  #MKT News
 
 【Trump seeks $11.1 bln in new aid for distressed farmers】President Trump has requested $11.1 bln from Congress in emergency aid for struggling farmers, submitted as part of a supplemental appropriations package that includes defense spending. The proposal would allocate $10 bln for corn, soybean and rice growers and $1.1 bln for Florida producers hit by winter storms in late 2025 and early 2026. This would be the farm sector's second bailout this year; the funds remain subject to congressional approval.
-
----
-
-### 2026-06-26 00:11:02  #Trading Economics #Markets #Germany #Stock Market #Importance 1
-
-The DAX Index Closes 1.03% Higher — The DAX Index rose 254 points or 1.03 percent on Thursday to close at 24995 points. Leading the gains are Bayer (18.72%), Merck (5.00%) and Vonovia (3.46%).
-
----
-
-### 2026-06-26 00:10:02  #Trading Economics #Markets #France #Stock Market #Importance 1
-
-The CAC 40 Index Closes 0.46% Higher — The CAC 40 Index gained 38 points or 0.46 percent on Thursday to close at 8424 points. Gains were led by Accor (3.16%), Societe Generale (2.79%) and STMicroelectronics (2.40%). Biggest losers were Thales (-2.42%), Publicis (-1.31%) and Stellantis NV (-1.29%).
-
----
-
-### 2026-06-26 00:08:59  #MKT News
-
-【US Supreme Court backs Trump's hardline immigration measures】The US Supreme Court on the 25th issued two rulings supporting the Trump administration's hardline immigration policies. One ruling allows the administration to terminate Temporary Protected Status for hundreds of thousands of Haitian and Syrian nationals, removing their legal protection from deportation. The other permits a policy that bars asylum seekers from entering US territory.
-
----
-
-### 2026-06-26 00:08:48  #國際
-
-【美最高法院裁決支援特朗普強硬移民政策】美國最高法院25日作出兩項有關移民案件的關鍵裁決，支援特朗普政府的強硬移民政策。其中一項裁決允許特朗普政府取消數十萬名海地和敘利亞移民享有的臨時保護身份，這將使他們失去免於被驅逐的法律保護。另一項裁決則允許特朗普政府實施阻止尋求庇護者踏上美國領土的相關政策。（新華社）
-
----
-
-### 2026-06-26 00:08:10  #市場 #國際
-
-【房地美資料顯示，美國抵押貸款利率小幅升至6.49%】隨著又一個表現低迷的春季銷售季臨近尾聲，美國抵押貸款利率出現小幅上漲。房地美週四在一份宣告中表示，30年期固定利率抵押貸款的平均利率從一週前的6.47%升至6.49%。而一年前，該利率為6.77%。高昂的借貸成本一直拖累著房地產市場；此前，中東衝突推高了能源價格和通脹，導致借貸成本上升。這一情況恰好發生在銷售旺季，加劇了買賣雙方的焦慮情緒。根據Redfin的資料，在截至6月21日的一週內，新掛牌房源數量較前一週下降了1.7%，降至2月以來的最低水平。Zillow高階經濟學家Kara Ng表示：“6.5%左右的利率水平仍優於一年前，這繼續為購房者提供了一定支撐。但這還不足以在改善購房負擔能力方面帶來重大突破。”Zillow預計，利率將在整個夏季維持在6.4%至6.5%之間，隨後在年底前逐漸回落至6.2%左右。
-
----
-
-### 2026-06-26 00:08:08  #MKT News #XAUUSD #Impact bearish #DXY #Impact bullish #S&P500
-
-【Freddie Mac: US 30-year mortgage rate ticks up to 6.49%】Freddie Mac said the average 30-year fixed-rate mortgage rose to 6.49% from 6.47% a week earlier; it stood at 6.77% a year ago. Persistently high borrowing costs continue to weigh on the US housing market; earlier Middle East tensions pushed energy prices and inflation, contributing to higher borrowing costs. Redfin said new listings in the week to June 21 fell 1.7% from the prior week to the lowest level since February. Zillow senior economist Kara Ng said rates around 6.5% remain better than a year ago and provide some support for buyers but are insufficient to materially restore affordability. Zillow expects rates to hold at 6.4–6.5% through the summer, easing to about 6.2% by year-end.
-
----
-
-### 2026-06-26 00:07:02  #Trading Economics #Markets #United Kingdom #Stock Market #Importance 1
-
-The FTSE 100 Index Closes 0.71% Higher — The FTSE 100 Index went up by 74 points or 0.71 percent on Thursday to close at 10536 points. The rise was led by 3i (11.04%), Easyjet Plc (6.50%) and Barratt Redrow (4.79%). On the downside, the weakerst performers were London Stock Exchange (-2.39%), United Utilities (-2.11%) and B&M European Value (-1.85%).
-
----
-
-### 2026-06-26 00:06:38  #市場
-
-法國興業銀行：上調標普500指數目標至8000點（之前為7300點），更加強勁的業績週期將支撐這樣的預期。
-
----
-
-### 2026-06-26 00:06:27  #Trading Economics #Markets #Commodity #Importance 0
-
-Brent Crude Oil Bounces Back — Brent crude oil rose nearly 2% to $74.7 a barrel on Thursday as traders monitored shipments through the Strait of Hormuz after a cargo ship was struck by an unknown projectile off the Omani coast. Reported by the maritime group UKMTO, the incident renewed safety concerns regarding the vital shipping corridor and fueled anxieties over Iran dictating transit while negotiating a permanent end to its war with the US. Several commercial ships reversed course, threatening the normalization of regional oil flows. Despite the disruption, Saudi Arabian tankers continued toward the major Ras Tanura terminal to resume Persian Gulf exports for the first time since March, and Qatar issued its first post-war crude tender. Market attention remains fixed on a potential 2026 global supply surplus, prompting Iraq to demand a higher OPEC production quota. In the US, tightness persisted as stockpiles at Cushing fell below operational requirements to 19 million barrels.
-
----
-
-### 2026-06-26 00:06:11  #公司 #國際
-
-【歐盟就Anthropic的AI模型訪問許可權與白宮進行討論】在美國本月早些時候限制外國使用Anthropic PBC最先進的AI模型後，歐盟與特朗普政府就此進行了討論。歐盟委員會執行副主席Henna Virkkunen表示，一位歐盟高階決策官員本週訪問華盛頓期間，討論了這一導致Anthropic完全切斷對其Fable 5和Mythos 5模型訪問許可權的舉措。“我自己也與特朗普政府討論過這個問題，”Virkkunen週四在米蘭接受採訪時表示，“而且我們也一直在與Anthropic進行溝通。”儘管歐盟致力於實現數字主權，減少對美國技術的依賴，但這些談判仍凸顯歐盟對獲取前沿AI系統的重視，這些系統是識別網路安全漏洞的強大工具。美國出於國家安全考慮阻止外國公民使用這些模型的決定，表明即便是盟國也同樣受到華盛頓政策的影響。Anthropic在6月初批准了歐盟網路安全域性對Mythos的訪問，使其成為第一個獲准使用這一強大工具的歐盟機構。此前，該公司僅允許美國政府部門以及部分美國金融公司、科技公司和國際組織訪問該模型。
-
----
-
-### 2026-06-26 00:05:50  #Trading Economics #Markets #Commodity #Importance 2
-
-Oil Rebounds as Tanker Incident Sparks Fears — Crude oil rose nearly 2% to $71.6 a barrel on Thursday as traders monitored shipments through the Strait of Hormuz after a cargo ship was struck by an unknown projectile off the Omani coast. Reported by the maritime group UKMTO, the incident renewed safety concerns regarding the vital shipping corridor and fueled anxieties over Iran dictating transit while negotiating a permanent end to its war with the US. Several commercial ships reversed course, threatening the normalization of regional oil flows. Despite the disruption, Saudi Arabian tankers continued toward the major Ras Tanura terminal to resume Persian Gulf exports for the first time since March, and Qatar issued its first post-war crude tender. Market attention remains fixed on a potential 2026 global supply surplus, prompting Iraq to demand a higher OPEC production quota. In the US, tightness persisted as stockpiles at Cushing fell below operational requirements to 19 million barrels.
-
----
-
-### 2026-06-26 00:05:16  #MKT News #S&P500 #Impact bullish #WTI #Impact bearish #DXY
-
-The United States and Gulf states said no one would be forced to leave Gaza and those who choose to leave would be free to return.
-
----
-
-### 2026-06-26 00:05:15  #國際
-
-美國及海灣國家就加沙問題發表聯合宣告：重申不會強制任何人離開加沙，希望離開加沙的人員日後可自由返回。
-
----
-
-### 2026-06-26 00:05:09  #其他
-
-SpaceX完成首筆債券發行後，其信用衍生品正式開始交易。
-
----
-
-### 2026-06-26 00:05:01  #MKT News #Commodities #Energy #WTI #Impact bearish #Brent
-
-Persian Gulf crude exports have rebounded to about 75% of pre-war levels, with roughly 13 mln barrels exported in the three days through Wednesday.
-
----
-
-### 2026-06-26 00:04:48  #國際
-
-【一貨船在阿曼附近水域遭襲】英國海上貿易行動辦公室25日釋出通報說，一艘貨船當天在阿曼附近水域遭襲，駕駛臺受損，未造成人員傷亡。 通報說，一艘貨船在阿曼達希特東南約7.5海里處被一枚不明投射物擊中，受擊部位位於船舶右舷，駕駛臺受損。事件未造成人員傷亡，也未對海洋環境造成影響。 國際海事組織和阿曼日前啟動新的安全通航機制，以協助滯留船舶和海員透過霍爾木茲海峽。伊朗伊斯蘭革命衛隊海軍25日在社交媒體上發表宣告說，船隻透過霍爾木茲海峽必須與革命衛隊海軍協調，違規船舶“將受到處置”。（新華社）
-
----
-
-### 2026-06-26 00:04:33  #Trading Economics #Markets #commodity #Importance 0
-
-Rice Hits 4-week High — Rice increased to 12.98 USD/cwt, the highest since May 2026. Over the past 4 weeks, Rice lost 0.37%, and in the last 12 months, it decreased 0.68%.
-
----
-
-### 2026-06-26 00:04:14  #國際
-
-美國及海灣國家呼籲黎巴嫩境內非國家武裝團體全面解除武裝。
-
----
-
-### 2026-06-26 00:04:14  #MKT News
-
-The United States and Gulf countries called for the complete disarmament of non-state armed groups in Lebanon.
-
----
-
-### 2026-06-26 00:03:56  #國際
-
-美國及海灣國家就黎巴嫩問題表態：談判不以其他衝突的結果為前提條件。
-
----
-
-### 2026-06-26 00:03:51  #MKT News
-
-U.S. and Gulf states say negotiations will not be conditional on the outcomes of other conflicts.
-
----
-
-### 2026-06-26 00:03:39  #其他 #焦點
-
-波斯灣原油出口反彈至戰前水平的75%， 截至週三，三日之內已有 1300 萬桶原油運離該地區。
-
----
-
-### 2026-06-26 00:03:39  #MKT News
-
-The U.S. and Gulf states issued a joint statement on Lebanon, stressing the importance of maintaining the negotiation process.
-
----
-
-### 2026-06-26 00:03:36  #Trading Economics #Markets #Germany #Stock Market #Importance 1
-
-DAX Outshines European Peers — The DAX 40 pushed higher to close about 1% firmer at 25,000 on Thursday, marking the second day of gains and outperforming its European peers, driven by pharma and tech stocks. Bayer shares jumped over 19% after a US Supreme Court ruling in favor of the pharmaceutical and agrochemical company in lawsuits related to its Roundup weedkiller. Infineon Technologies was also among the top gainers, rising 3.1%, boosted by renewed investor confidence in AI following encouraging outlooks from chipmakers Micron Technology and Qualcomm. Vonovia advanced 3% following a buy recommendation from Deutsche Bank. Meanwhile, Volkswagen rose 1.7% after confirming the sale of a majority stake in its engine unit Everllence to private equity firm Bain Capital for approximately €7.4 billion, supporting its restructuring plans and easing debt concerns. On the losing side, Fresenius Medical Care (-3%) and Scout24 (-2.8%) posted the biggest declines.
 
 ---

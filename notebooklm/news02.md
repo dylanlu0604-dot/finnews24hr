@@ -1,7 +1,151 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-06-27 08:04:51_
-_本檔包含 3820 則快訊，約 669793 字_
+_更新時間：2026-06-27 08:57:37_
+_本檔包含 3794 則快訊，約 671444 字_
+
+---
+
+### 2026-06-26 00:11:02  #Trading Economics #Markets #Germany #Stock Market #Importance 1
+
+The DAX Index Closes 1.03% Higher — The DAX Index rose 254 points or 1.03 percent on Thursday to close at 24995 points. Leading the gains are Bayer (18.72%), Merck (5.00%) and Vonovia (3.46%).
+
+---
+
+### 2026-06-26 00:10:02  #Trading Economics #Markets #France #Stock Market #Importance 1
+
+The CAC 40 Index Closes 0.46% Higher — The CAC 40 Index gained 38 points or 0.46 percent on Thursday to close at 8424 points. Gains were led by Accor (3.16%), Societe Generale (2.79%) and STMicroelectronics (2.40%). Biggest losers were Thales (-2.42%), Publicis (-1.31%) and Stellantis NV (-1.29%).
+
+---
+
+### 2026-06-26 00:08:59  #MKT News
+
+【US Supreme Court backs Trump's hardline immigration measures】The US Supreme Court on the 25th issued two rulings supporting the Trump administration's hardline immigration policies. One ruling allows the administration to terminate Temporary Protected Status for hundreds of thousands of Haitian and Syrian nationals, removing their legal protection from deportation. The other permits a policy that bars asylum seekers from entering US territory.
+
+---
+
+### 2026-06-26 00:08:48  #國際
+
+【美最高法院裁決支援特朗普強硬移民政策】美國最高法院25日作出兩項有關移民案件的關鍵裁決，支援特朗普政府的強硬移民政策。其中一項裁決允許特朗普政府取消數十萬名海地和敘利亞移民享有的臨時保護身份，這將使他們失去免於被驅逐的法律保護。另一項裁決則允許特朗普政府實施阻止尋求庇護者踏上美國領土的相關政策。（新華社）
+
+---
+
+### 2026-06-26 00:08:10  #市場 #國際
+
+【房地美資料顯示，美國抵押貸款利率小幅升至6.49%】隨著又一個表現低迷的春季銷售季臨近尾聲，美國抵押貸款利率出現小幅上漲。房地美週四在一份宣告中表示，30年期固定利率抵押貸款的平均利率從一週前的6.47%升至6.49%。而一年前，該利率為6.77%。高昂的借貸成本一直拖累著房地產市場；此前，中東衝突推高了能源價格和通脹，導致借貸成本上升。這一情況恰好發生在銷售旺季，加劇了買賣雙方的焦慮情緒。根據Redfin的資料，在截至6月21日的一週內，新掛牌房源數量較前一週下降了1.7%，降至2月以來的最低水平。Zillow高階經濟學家Kara Ng表示：“6.5%左右的利率水平仍優於一年前，這繼續為購房者提供了一定支撐。但這還不足以在改善購房負擔能力方面帶來重大突破。”Zillow預計，利率將在整個夏季維持在6.4%至6.5%之間，隨後在年底前逐漸回落至6.2%左右。
+
+---
+
+### 2026-06-26 00:08:08  #MKT News #XAUUSD #Impact bearish #DXY #Impact bullish #S&P500
+
+【Freddie Mac: US 30-year mortgage rate ticks up to 6.49%】Freddie Mac said the average 30-year fixed-rate mortgage rose to 6.49% from 6.47% a week earlier; it stood at 6.77% a year ago. Persistently high borrowing costs continue to weigh on the US housing market; earlier Middle East tensions pushed energy prices and inflation, contributing to higher borrowing costs. Redfin said new listings in the week to June 21 fell 1.7% from the prior week to the lowest level since February. Zillow senior economist Kara Ng said rates around 6.5% remain better than a year ago and provide some support for buyers but are insufficient to materially restore affordability. Zillow expects rates to hold at 6.4–6.5% through the summer, easing to about 6.2% by year-end.
+
+---
+
+### 2026-06-26 00:07:02  #Trading Economics #Markets #United Kingdom #Stock Market #Importance 1
+
+The FTSE 100 Index Closes 0.71% Higher — The FTSE 100 Index went up by 74 points or 0.71 percent on Thursday to close at 10536 points. The rise was led by 3i (11.04%), Easyjet Plc (6.50%) and Barratt Redrow (4.79%). On the downside, the weakerst performers were London Stock Exchange (-2.39%), United Utilities (-2.11%) and B&M European Value (-1.85%).
+
+---
+
+### 2026-06-26 00:06:38  #市場
+
+法國興業銀行：上調標普500指數目標至8000點（之前為7300點），更加強勁的業績週期將支撐這樣的預期。
+
+---
+
+### 2026-06-26 00:06:27  #Trading Economics #Markets #Commodity #Importance 0
+
+Brent Crude Oil Bounces Back — Brent crude oil rose nearly 2% to $74.7 a barrel on Thursday as traders monitored shipments through the Strait of Hormuz after a cargo ship was struck by an unknown projectile off the Omani coast. Reported by the maritime group UKMTO, the incident renewed safety concerns regarding the vital shipping corridor and fueled anxieties over Iran dictating transit while negotiating a permanent end to its war with the US. Several commercial ships reversed course, threatening the normalization of regional oil flows. Despite the disruption, Saudi Arabian tankers continued toward the major Ras Tanura terminal to resume Persian Gulf exports for the first time since March, and Qatar issued its first post-war crude tender. Market attention remains fixed on a potential 2026 global supply surplus, prompting Iraq to demand a higher OPEC production quota. In the US, tightness persisted as stockpiles at Cushing fell below operational requirements to 19 million barrels.
+
+---
+
+### 2026-06-26 00:06:11  #公司 #國際
+
+【歐盟就Anthropic的AI模型訪問許可權與白宮進行討論】在美國本月早些時候限制外國使用Anthropic PBC最先進的AI模型後，歐盟與特朗普政府就此進行了討論。歐盟委員會執行副主席Henna Virkkunen表示，一位歐盟高階決策官員本週訪問華盛頓期間，討論了這一導致Anthropic完全切斷對其Fable 5和Mythos 5模型訪問許可權的舉措。“我自己也與特朗普政府討論過這個問題，”Virkkunen週四在米蘭接受採訪時表示，“而且我們也一直在與Anthropic進行溝通。”儘管歐盟致力於實現數字主權，減少對美國技術的依賴，但這些談判仍凸顯歐盟對獲取前沿AI系統的重視，這些系統是識別網路安全漏洞的強大工具。美國出於國家安全考慮阻止外國公民使用這些模型的決定，表明即便是盟國也同樣受到華盛頓政策的影響。Anthropic在6月初批准了歐盟網路安全域性對Mythos的訪問，使其成為第一個獲准使用這一強大工具的歐盟機構。此前，該公司僅允許美國政府部門以及部分美國金融公司、科技公司和國際組織訪問該模型。
+
+---
+
+### 2026-06-26 00:05:50  #Trading Economics #Markets #Commodity #Importance 2
+
+Oil Rebounds as Tanker Incident Sparks Fears — Crude oil rose nearly 2% to $71.6 a barrel on Thursday as traders monitored shipments through the Strait of Hormuz after a cargo ship was struck by an unknown projectile off the Omani coast. Reported by the maritime group UKMTO, the incident renewed safety concerns regarding the vital shipping corridor and fueled anxieties over Iran dictating transit while negotiating a permanent end to its war with the US. Several commercial ships reversed course, threatening the normalization of regional oil flows. Despite the disruption, Saudi Arabian tankers continued toward the major Ras Tanura terminal to resume Persian Gulf exports for the first time since March, and Qatar issued its first post-war crude tender. Market attention remains fixed on a potential 2026 global supply surplus, prompting Iraq to demand a higher OPEC production quota. In the US, tightness persisted as stockpiles at Cushing fell below operational requirements to 19 million barrels.
+
+---
+
+### 2026-06-26 00:05:16  #MKT News #S&P500 #Impact bullish #WTI #Impact bearish #DXY
+
+The United States and Gulf states said no one would be forced to leave Gaza and those who choose to leave would be free to return.
+
+---
+
+### 2026-06-26 00:05:15  #國際
+
+美國及海灣國家就加沙問題發表聯合宣告：重申不會強制任何人離開加沙，希望離開加沙的人員日後可自由返回。
+
+---
+
+### 2026-06-26 00:05:09  #其他
+
+SpaceX完成首筆債券發行後，其信用衍生品正式開始交易。
+
+---
+
+### 2026-06-26 00:05:01  #MKT News #Commodities #Energy #WTI #Impact bearish #Brent
+
+Persian Gulf crude exports have rebounded to about 75% of pre-war levels, with roughly 13 mln barrels exported in the three days through Wednesday.
+
+---
+
+### 2026-06-26 00:04:48  #國際
+
+【一貨船在阿曼附近水域遭襲】英國海上貿易行動辦公室25日釋出通報說，一艘貨船當天在阿曼附近水域遭襲，駕駛臺受損，未造成人員傷亡。 通報說，一艘貨船在阿曼達希特東南約7.5海里處被一枚不明投射物擊中，受擊部位位於船舶右舷，駕駛臺受損。事件未造成人員傷亡，也未對海洋環境造成影響。 國際海事組織和阿曼日前啟動新的安全通航機制，以協助滯留船舶和海員透過霍爾木茲海峽。伊朗伊斯蘭革命衛隊海軍25日在社交媒體上發表宣告說，船隻透過霍爾木茲海峽必須與革命衛隊海軍協調，違規船舶“將受到處置”。（新華社）
+
+---
+
+### 2026-06-26 00:04:33  #Trading Economics #Markets #commodity #Importance 0
+
+Rice Hits 4-week High — Rice increased to 12.98 USD/cwt, the highest since May 2026. Over the past 4 weeks, Rice lost 0.37%, and in the last 12 months, it decreased 0.68%.
+
+---
+
+### 2026-06-26 00:04:14  #國際
+
+美國及海灣國家呼籲黎巴嫩境內非國家武裝團體全面解除武裝。
+
+---
+
+### 2026-06-26 00:04:14  #MKT News
+
+The United States and Gulf countries called for the complete disarmament of non-state armed groups in Lebanon.
+
+---
+
+### 2026-06-26 00:03:56  #國際
+
+美國及海灣國家就黎巴嫩問題表態：談判不以其他衝突的結果為前提條件。
+
+---
+
+### 2026-06-26 00:03:51  #MKT News
+
+U.S. and Gulf states say negotiations will not be conditional on the outcomes of other conflicts.
+
+---
+
+### 2026-06-26 00:03:39  #其他 #焦點
+
+波斯灣原油出口反彈至戰前水平的75%， 截至週三，三日之內已有 1300 萬桶原油運離該地區。
+
+---
+
+### 2026-06-26 00:03:39  #MKT News
+
+The U.S. and Gulf states issued a joint statement on Lebanon, stressing the importance of maintaining the negotiation process.
+
+---
+
+### 2026-06-26 00:03:36  #Trading Economics #Markets #Germany #Stock Market #Importance 1
+
+DAX Outshines European Peers — The DAX 40 pushed higher to close about 1% firmer at 25,000 on Thursday, marking the second day of gains and outperforming its European peers, driven by pharma and tech stocks. Bayer shares jumped over 19% after a US Supreme Court ruling in favor of the pharmaceutical and agrochemical company in lawsuits related to its Roundup weedkiller. Infineon Technologies was also among the top gainers, rising 3.1%, boosted by renewed investor confidence in AI following encouraging outlooks from chipmakers Micron Technology and Qualcomm. Vonovia advanced 3% following a buy recommendation from Deutsche Bank. Meanwhile, Volkswagen rose 1.7% after confirming the sale of a majority stake in its engine unit Everllence to private equity firm Bain Capital for approximately €7.4 billion, supporting its restructuring plans and easing debt concerns. On the losing side, Fresenius Medical Care (-3%) and Scout24 (-2.8%) posted the biggest declines.
 
 ---
 
@@ -22718,306 +22862,5 @@ General Electric Aerospace Stock Price Hits Near 25-year High — General Electr
 ### 2026-06-24 22:36:55  #Trading Economics #Economy #United States #Crude Oil Stocks Change #Importance 1
 
 US Crude Oil Inventories Fall More than Expected — US crude oil inventories fell by 6.088 million barrels to 412.1 million barrels in the week ended June 19, more than market expectations for a 4.5 million-barrel draw. Crude stocks at the Cushing, Oklahoma, delivery hub dropped by 1.077 million barrels. Refinery crude runs decreased by 81,000 barrels per day. On the other hand, gasoline stocks rose by 2.064 million barrels to 216.3 million barrels, versus forecasts for a 0.6 million-barrel draw. Distillate stockpiles, which include diesel and heating oil, increased by 3.064 million barrels to 106.2 million barrels, compared with expectations for a 0.5 million-barrel drop. Net crude imports went up by 94,000 barrels per day.
-
----
-
-### 2026-06-24 22:36:42  #MKT News #Commodities #Energy #WTI #Impact bullish #Brent
-
-U.S. West Coast crude inventories fell to their lowest level since 2004.
-
----
-
-### 2026-06-24 22:35:53  #其他
-
-幣安：將撤回其在希臘提交的《加密資產市場法規》（MiCA）牌照申請。並將轉而在另一個歐盟成員國申請授權。
-
----
-
-### 2026-06-24 22:35:44  #國際
-
-美國西海岸原油庫存降至2004年以來最低水平。
-
----
-
-### 2026-06-24 22:35:35  #Trading Economics #Markets #United States #stocks #Importance 1
-
-Corning Stock Price Hits All-time High — Corning shares increased to an all-time high of 212.53 USD. Over the past 4 weeks, Corning gained 7.63%, and in the last 12 months, it increased 310.62%.
-
----
-
-### 2026-06-24 22:35:30  #其他
-
-北約秘書長呂特接受採訪時表示： 有 500 架美軍戰機從義大利境內美軍基地起飛，為 “史詩怒火行動” 提供支援。 此次行動規模空前。
-
----
-
-### 2026-06-24 22:34:31  #國際
-
-市場訊息：俄羅斯自由派政治人物馬克西姆·克魯格洛夫因散佈關於軍隊的"虛假新聞"被判入獄。
-
----
-
-### 2026-06-24 22:34:20  #央行 #國際
-
-達拉斯聯儲調查：美國頁岩油氣高管表示，2026年第二季度石油產量將溫和增長。
-
----
-
-### 2026-06-24 22:34:15  #央行 #其他
-
-達拉斯聯儲調查顯示，企業預計2026年底西德克薩斯中質原油價格將為每桶81美元。
-
----
-
-### 2026-06-24 22:34:11  #央行 #其他
-
-達拉斯聯儲調查顯示，石油企業預計2026年末亨利港天然氣價格為每百萬英熱單位3.36美元。
-
----
-
-### 2026-06-24 22:34:06  #央行 #其他
-
-達拉斯聯儲調查顯示，2026年第二季度得克薩斯州、路易斯安那州與新墨西哥州油氣活躍度大幅攀升。
-
----
-
-### 2026-06-24 22:34:04  #MKT News
-
-Germany's defense minister said continuing the frigate project would only be possible at disproportionately high costs and with delays.
-
----
-
-### 2026-06-24 22:33:49  #Trading Economics #Economy #Mongolia #Interest Rate #Importance 0
-
-Central Bank of Mongolia Leaves Monetary Policy Unchanged — The central bank of Mongolia kept its key policy rate unchanged at 12% in June 2026, citing the current state of the economy, banking system, and financial markets, as well as domestic and external conditions and associated risks. Annual inflation has picked up in recent months, driven by rising fuel and food prices, reaching 11.2% in May. Looking ahead, increases in meat and fuel prices are expected to moderate gradually, with inflation projected to stabilise within the central bank’s 5% target range (±2 percentage points) over the medium term. However, upside risks to prices remain if supply-side pressures persist, including adverse seasonal conditions, animal diseases, and geopolitical uncertainties linked to the Middle East and the Russia-Ukraine conflict, particularly if spillovers prove stronger than expected. Policymakers said future policy decisions will depend on developments in inflation, supply-side factors, and both domestic and external economic conditions.
-
----
-
-### 2026-06-24 22:33:43  #MKT News
-
-Germany's defense minister said the F126 frigate project has cost €2.3 billion to date.
-
----
-
-### 2026-06-24 22:33:35  #國際
-
-美國司法部：CHEMOURS就全氟和多氟烷基物質排放問題達成 4.5 億美元和解協議。
-
----
-
-### 2026-06-24 22:33:10  #公司
-
-【海科新源：電解液溶劑及新增劑量價齊升 公司整體處於滿產滿銷狀態】海科新源(301292.SZ)在投資者關係活動記錄表中披露，在“緊平衡”供需格局下，電解液溶劑及核心新增劑價格體系具備極強支撐力，行業已步入量價齊升的良性週期。隨著傳統排產旺季的到來，溶劑與新增劑的供需關係有望進一步趨緊，價格大機率將維持高位執行。公司目前整體處於滿產滿銷狀態，並且已經儲備了充足的“彈藥”來精準匹配下游核心客戶的訂單增長。公司與比亞迪、崑崙新材、法恩萊特、合肥乾銳等頭部客戶簽署的覆蓋2026-2028年的長單正在穩步地執行與交付中。雖然這部分長協鎖定了公司年均45萬噸以上的銷量，但這僅佔公司總產能的一部分。2026年一季度的強勢扭虧為盈，宣告了公司業績拐點的正式到來，公司有信心延續貫穿全年的交付週期。
-
----
-
-### 2026-06-24 22:32:04  #其他
-
-德國國防部長就護衛艦專案表態：若繼續推進該專案，將產生過高成本並伴隨工期延誤，代價難以承受。
-
----
-
-### 2026-06-24 22:31:41  #MKT News #Important #Commodities #Energy #WTI #Impact bullish #Brent
-
-U.S. EIA: Strategic Petroleum Reserve stocks for the week ending June 19 were at their lowest since the week of June 24, 1983.
-
----
-
-### 2026-06-24 22:31:40  #焦點 #國際
-
-美國至6月19日當週EIA戰略石油儲備庫存為1983年6月24日當週以來最低。
-
----
-
-### 2026-06-24 22:31:24  #國際
-
-美國衛生與公眾服務部漢坦病毒應對工作順利完成；監測已結束，美國未出現陽性病例。
-
----
-
-### 2026-06-24 22:31:10  #MKT News #Commodities #Energy #WTI #Impact bearish #Brent
-
-U.S. EIA implied distillate demand for the week ended June 19 was 4.9273 mln b/d, down from 5.1661 mln b/d the prior week.
-
----
-
-### 2026-06-24 22:31:04  #其他
-
-德國國防部長就F126護衛艦專案表態：迄今為止，F126專案已投入整整23億歐元。
-
----
-
-### 2026-06-24 22:31:00  #MKT News #Economic Calendar #Important
-
-United States | EIA Weekly Distillate Fuel Implied Demand (Jun.19) | actual 4927300M | previous 5166100M
-
----
-
-### 2026-06-24 22:30:59  #MKT News #Commodities #Energy #WTI #Impact bearish #Brent
-
-US EIA implied motor gasoline demand for week to June 19: 9.537 mln b/d, prior 10.201 mln b/d.
-
----
-
-### 2026-06-24 22:30:54  #焦點 #國際
-
-美國至6月19日當週EIA戰略石油儲備庫存 -906萬桶，前值-894.1萬桶。
-
----
-
-### 2026-06-24 22:30:49  #MKT News #Economic Calendar #Important
-
-United States | EIA Weekly Motor Gasoline Implied Demand (Jun.19) | actual 9536600M | previous 10200900M
-
----
-
-### 2026-06-24 22:30:46  #MKT News #Commodities #Energy #WTI #Brent
-
-US EIA implied crude oil demand for the week ended June 19: 20.259 mln bpd, prior 20.12 mln bpd.
-
----
-
-### 2026-06-24 22:30:39  #MKT News #Commodities #Energy #WTI #Impact bearish #Brent
-
-US EIA refinery utilization rate for week to June 19 96.1% (expected 96.7%, prior 96.7%).
-
----
-
-### 2026-06-24 22:30:35  #焦點 #國際
-
-美國至6月19日當週EIA俄克拉荷馬州庫欣原油庫存 -107.7萬桶，前值-160.6萬桶。
-美國至6月19日當週EIA原油庫存 -608.8萬桶，預期-446.1萬桶，前值-826.3萬桶。
-
----
-
-### 2026-06-24 22:30:35  #MKT News #Commodities #Energy #WTI #Impact bullish
-
-U.S. EIA refined‑product output rose 55,000 b/d in the week to June 19; prior -29,000 b/d.
-
----
-
-### 2026-06-24 22:30:34  #MKT News #Important #Commodities #Energy #WTI #Impact bullish #Brent
-
-U.S. Strategic Petroleum Reserve drew 9.06 million barrels in the week to June 19, EIA data showed; prior week’s draw was 8.941 million barrels.
-
----
-
-### 2026-06-24 22:30:34  #MKT News #Commodities #Energy #WTI #Impact bullish
-
-EIA: US crude oil volumes brought online in week to June 19 -81,000 b/d; prior 230,000 b/d.
-
----
-
-### 2026-06-24 22:30:34  #MKT News #Commodities #Energy #WTI #Impact bullish #Brent
-
-U.S. EIA gasoline production, week to June 19: -588,000 b/d; prior +356,000 b/d.
-
----
-
-### 2026-06-24 22:30:34  #MKT News #Commodities #Energy #WTI #Impact bearish #Brent
-
-US EIA: petroleum products imports in the week to June 19 were 91,000 b/d; prior -204,000 b/d.
-
----
-
-### 2026-06-24 22:30:32  #MKT News #Commodities #Energy #WTI #Impact bearish #Brent
-
-US EIA heating oil stocks rose 722,000 barrels in the week to June 19, versus a prior-week draw of 204,000 barrels.
-
----
-
-### 2026-06-24 22:30:31  #MKT News #Economic Calendar #Important
-
-United States | EIA Weekly Crude Oil Implied Demand (Jun.19) | actual 20259000M | previous 20120000M
-
----
-
-### 2026-06-24 22:30:26  #MKT News
-
-US EIA crude oil imports for week to June 19: 94,000 barrels; prior -241,000 barrels.
-
----
-
-### 2026-06-24 22:30:26  #MKT News #Commodities #Energy #WTI #Impact bearish #Brent
-
-U.S. EIA gasoline inventories rose 2.064 mln barrels in the week to June 19, versus an expected draw of 0.578 mln barrels and a prior draw of 0.906 mln barrels.
-
----
-
-### 2026-06-24 22:30:19  #MKT News
-
-U.S. EIA weekly reformulated gasoline stocks for week to June 19: +12,000 bbl vs -13,000 bbl prior.
-
----
-
-### 2026-06-24 22:30:18  #MKT News #Important #WTI #Impact bullish
-
-U.S. EIA Cushing, Oklahoma crude inventories fell 1.077 mln bbl in the week to June 19, versus a 1.606 mln bbl draw in the prior week.
-
----
-
-### 2026-06-24 22:30:18  #MKT News #Important #Commodities #Energy #WTI #Impact bullish #Brent
-
-US EIA weekly crude inventories fell 6.088 mln barrels in the week to June 19, versus a consensus draw of 4.461 mln barrels and a prior draw of 8.263 mln barrels.
-
----
-
-### 2026-06-24 22:30:16  #MKT News #WTI #Impact bearish #Brent
-
-U.S. EIA refined products inventories for week to June 19 rose 3.064 mln bbl vs -0.505 mln expected; prior +0.951 mln.
-
----
-
-### 2026-06-24 22:30:13  #焦點 #國際
-
-美國能源資訊署稱，原油庫存下降了609萬桶。
-
----
-
-### 2026-06-24 22:30:09  #MKT News #Economic Calendar #Important
-
-United States | EIA Strategic Petroleum Reserve Stocks Change (Jun.19) | actual -9060000M | previous -8941000M
-
----
-
-### 2026-06-24 22:30:08  #MKT News #Economic Calendar #Important
-
-United States | EIA Weekly Refinery Utilization Rates (Jun.19) | actual 96.1% | consensus 96.7% | previous 96.7%
-
----
-
-### 2026-06-24 22:30:01  #MKT News #Economic Calendar
-
-United States | EIA Weekly Distillate Production Change (Jun.19) | actual 55000M | previous -29000M
-
----
-
-### 2026-06-24 22:30:01  #MKT News #Economic Calendar
-
-United States | EIA Weekly Gasoline Production (Jun.19) | actual -588000M | previous 356000M
-
----
-
-### 2026-06-24 22:30:01  #MKT News #Economic Calendar
-
-United States | EIA Weekly Crude Oil Input Into Refineries Change (Jun.19) | actual -81000M | previous 230000M
-
----
-
-### 2026-06-24 22:30:01  #MKT News #Economic Calendar
-
-United States | EIA Weekly Petroleum Products Imports Change (Jun.19) | actual 91000M | previous -204000M
-
----
-
-### 2026-06-24 22:30:01  #MKT News #Economic Calendar
-
-United States | EIA Weekly Crude Oil Imports Change (Jun.19) | actual 94000M | previous -241000M
-
----
-
-### 2026-06-24 22:30:01  #MKT News #Economic Calendar
-
-United States | EIA Weekly Heating Oil Stocks Change (Jun.19) | actual 722000M | previous -204000M
 
 ---
