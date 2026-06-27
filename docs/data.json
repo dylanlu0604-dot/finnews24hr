@@ -1,7 +1,36 @@
 {
-  "updated": "2026-06-28 02:19:24",
-  "count": 18150,
+  "updated": "2026-06-28 02:23:15",
+  "count": 18152,
   "items": [
+    {
+      "id": "4958571",
+      "time": "2026-06-28 02:20:31",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列總理內塔尼亞胡：強烈反對任何逼迫我方撤軍的企圖，如今美國與黎巴嫩都在告知伊朗，此事與伊朗無關。"
+    },
+    {
+      "id": "4958570",
+      "time": "2026-06-28 02:19:59",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列總理內塔尼亞胡：我方已控制黎巴嫩南部舍加夫地區，並將駐守此地。"
+    },
+    {
+      "id": "mkt:019f0a4e-8b19-7dd8-b143-63fccaf57f96",
+      "time": "2026-06-28 02:19:07",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "Israeli Prime Minister Netanyahu said he has stressed to Israeli forces they have freedom of action to repel any threat in Lebanon."
+    },
     {
       "id": "4958569",
       "time": "2026-06-28 02:14:28",
@@ -166048,14 +166077,6 @@
         "MKT News"
       ],
       "text": "【Al Jazeera reporter killed in Israeli strike on Bureij refugee camp】Al Jazeera said its reporter Ahmed Wisha was killed when an Israeli airstrike struck a residential building in the Bureij refugee camp in central Gaza. Palestinian civil defense said at least 10 people were killed in Israeli strikes across Gaza that day. Al Jazeera said Wisha’s brother, Muhammad Wisha, was killed on April 8 by Israeli shelling while driving."
-    },
-    {
-      "id": "4945958",
-      "time": "2026-06-21 02:22:53",
-      "tags": [
-        "國際"
-      ],
-      "text": "以色列廣播管理局：真主黨在卡夫爾提卜尼特附近發射火箭彈與無人機，造成一名以軍士兵身亡，包括一名軍官在內的另外12人受傷。"
     }
   ]
 }
