@@ -1,7 +1,32 @@
 {
-  "updated": "2026-06-27 15:54:04",
-  "count": 18195,
+  "updated": "2026-06-27 15:58:05",
+  "count": 18193,
   "items": [
+    {
+      "id": "mkt:019f0815-2ae5-7dd8-b141-146201597ba3",
+      "time": "2026-06-27 15:57:12",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Magnitude 5.6 earthquake south of East Java, Indonesia】Indonesia's Meteorology, Climatology and Geophysics Agency (BMKG) reported a magnitude 5.6 earthquake in the offshore southern area of East Java at 14:47 local time on June 27; no tsunami threat is expected."
+    },
+    {
+      "id": "4958307",
+      "time": "2026-06-27 15:56:49",
+      "tags": [
+        "國際"
+      ],
+      "text": "【印尼東爪哇省南部海域發生5.6級地震】據印尼氣象、氣候和地球物理局釋出的報告，當地時間6月27日14時47分，印尼東爪哇省南部海域發生5.6級地震，預計不會有海嘯風險。"
+    },
+    {
+      "id": "4958306",
+      "time": "2026-06-27 15:55:38",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "烏克蘭石油天然氣公司（Naftogaz）表示，俄羅斯襲擊了該公司位於波爾塔瓦州與哈爾科夫州的生產設施，並造成了損毀。"
+    },
     {
       "id": "4958305",
       "time": "2026-06-27 15:50:19",
@@ -166403,50 +166428,6 @@
         "其他"
       ],
       "text": "【新疆維吾爾自治區政府原黨組成員、副主席朱昌傑被查】新疆維吾爾自治區政府原黨組成員、副主席朱昌傑涉嫌嚴重違紀違法，目前正接受中央紀委國家監委紀律審查和監察調查。（央視新聞）"
-    },
-    {
-      "id": "mkt:019ee408-ba9c-7dd8-b09d-b59adf69abda",
-      "time": "2026-06-20 15:57:17",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "DXY",
-        "Brent"
-      ],
-      "text": "Lebanon's military said Israel's ongoing attacks on Lebanon aim to hinder efforts to restore national stability."
-    },
-    {
-      "id": "4945727",
-      "time": "2026-06-20 15:56:28",
-      "tags": [
-        "國際"
-      ],
-      "text": "黎巴嫩軍方宣告稱，以色列持續襲擊黎巴嫩旨在阻撓恢復該國穩定的努力。"
-    },
-    {
-      "id": "mkt:019ee406-c752-7dd8-b09d-a879433a38d6",
-      "time": "2026-06-20 15:55:09",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Iran foreign minister to meet Pakistan interior minister】Iranian Foreign Ministry spokesman Esmail Baghaei said Pakistan Interior Minister Naqvi will visit Tehran on Saturday and is scheduled to hold talks with Iranian Foreign Minister Araghchi. Baghaei said the visit is part of Pakistan’s diplomatic efforts related to ongoing Iran–US negotiations."
-    },
-    {
-      "id": "4945726",
-      "time": "2026-06-20 15:54:30",
-      "tags": [
-        "國際"
-      ],
-      "text": "據報道，本週已有數艘滿載石油的伊朗油輪離開港口，越過美國海軍封鎖線，這被認為是伊朗石油出口的早期跡象。"
-    },
-    {
-      "id": "4945725",
-      "time": "2026-06-20 15:54:10",
-      "tags": [
-        "國際"
-      ],
-      "text": "據報道，美伊諒解備忘錄或將允許伊朗恢復原油與燃料出口，從而重啟伊朗主要資金來源，有望每年為伊朗帶來超 600 億美元的收入。"
     }
   ]
 }
