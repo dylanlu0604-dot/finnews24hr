@@ -1,7 +1,15 @@
 {
-  "updated": "2026-06-27 13:52:37",
-  "count": 18197,
+  "updated": "2026-06-27 13:56:36",
+  "count": 18194,
   "items": [
+    {
+      "id": "mkt:019f07a2-f8ca-7dd8-b140-c63c4724f56a",
+      "time": "2026-06-27 13:52:28",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【WPS to add disk storage management and install-path selection in July after C: drive complaints】June 27 — WPS said it completed an investigation into concentrated user complaints about C: drive space usage and has started optimizations. A new version due in July will add an installer option to choose the installation path and will add a \"Storage Management\" module in settings that aggregates occupancy and releasable space for caches, file backups and cloud-document cache. WPS said caches and backups default to C: and opaque usage had frustrated some high-frequency users; the update’s stated aim is \"install with choice, use with control,\" letting users see local disk usage and free files themselves."
+    },
     {
       "id": "mkt:019f0798-44cf-7dd8-b140-b972ed680b67",
       "time": "2026-06-27 13:40:47",
@@ -166462,43 +166470,6 @@
         "其他"
       ],
       "text": "【時隔44年試射洲際導彈，專家：機動打擊能力已達實戰標準】9月25日，火箭軍向太平洋相關公海海域，成功發射1枚攜載訓練模擬彈頭的洲際彈道導彈，導彈準確落入預定海域。此次任務，是我國自1980年5月18日東風-5全射程試驗後，首次重返這片海域。對火箭軍某旅發射號手趙靜來說，這也是他入伍22年來，第一次等來真正的實射機會。環境之險、考驗之嚴，前所未有。官兵們不僅要忍受高溫高溼，還要24小時不間斷監測裝備狀態，採集關鍵資料。（央視新聞）"
-    },
-    {
-      "id": "4945692",
-      "time": "2026-06-20 13:54:33",
-      "tags": [
-        "國際"
-      ],
-      "text": "以色列駐美大使：以色列將繼續留在黎巴嫩南部安全區，以消滅真主黨。"
-    },
-    {
-      "id": "mkt:019ee398-5842-7dd8-b09c-c618bab1c3d4",
-      "time": "2026-06-20 13:54:32",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "WTI",
-        "S&P500",
-        "Impact bearish"
-      ],
-      "text": "Israel's ambassador to the United States said Israel will continue to remain in the southern Lebanon security zone to eliminate Hezbollah."
-    },
-    {
-      "id": "4945691",
-      "time": "2026-06-20 13:54:03",
-      "tags": [
-        "其他"
-      ],
-      "text": "【強降雨致廣西凌雲河流水位上漲 需防範次生災害】據凌雲水文監測，過去24小時，廣西百色市凌雲縣有大到暴雨，凌雲轄區各監測河流有2.90米以內漲水過程。建議群眾出行前，關注氣象水文等部門釋出的雨水情資訊，做好局地強降雨可能引發的中小河流洪水、鄉鎮內澇、沖溝洪水、滑坡及泥石流等災害的防範工作。（央視新聞）"
-    },
-    {
-      "id": "mkt:019ee396-bbcb-7dd8-b09c-b8db6c7d7571",
-      "time": "2026-06-20 13:52:46",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Bolivia president Paz declares national state of emergency】President Paz declared a national state of emergency on the 20th as protests tied to a deteriorating economy and worsening fuel shortages intensified. Demonstrators have blocked roads, disrupting transport of food and fuel."
     }
   ]
 }
