@@ -1,7 +1,32 @@
 {
-  "updated": "2026-06-27 16:14:27",
-  "count": 18181,
+  "updated": "2026-06-27 16:18:21",
+  "count": 18180,
   "items": [
+    {
+      "id": "4958316",
+      "time": "2026-06-27 16:16:04",
+      "tags": [
+        "其他"
+      ],
+      "text": "【巴基斯坦俾路支省兩天內發生五次地震】據巴基斯坦國家地震監測中心通報，當地時間6月27日8時06分，巴基斯坦俾路支省巴爾汗縣東北58公里處發生5.2級地震，震源深度19公里，附近的穆薩克爾和巴爾汗等地區均有明顯震感。巴基斯坦省災害管理局表示，此次地震造成至少3人受傷，省災害管理局已向受災地區派出救援人員開展救災行動。此外，根據巴基斯坦國家地震監測中心的監測資料，當地時間27日5時45分，俾路支省寇盧縣以北40公里處發生4.3級地震，震源深度15公里。而寇盧地區26日已連續發生三次地震，其中最強的一次5.1級地震發生在當地時間26日16時49分，震中位於寇盧縣東北60公里處，震源深度17公里，附近多個地區均有明顯震感，約70棟房屋受損，至少3人受傷，其中包括1名兒童。巴基斯坦近期地震活動頻繁，特別是俾路支省附近地區的地殼活動較為活躍，當地政府正在持續監測餘震風險，並對受災情況展開進一步評估。"
+    },
+    {
+      "id": "4958315",
+      "time": "2026-06-27 16:15:24",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【娃哈哈回應純淨水漲價】娃哈哈釋出針對近日網傳漲價相關訊息的統一說明。娃哈哈稱，受包材成本波動，公司調整不同包裝規格水產品的渠道批發價，有升有降以保障經銷商夥伴穩定經營。全線純淨水終端零售價不變，消費者購買價格無變化。據此前報道，近日，娃哈哈和華潤飲料均向數地經銷商發出調價通知稱，自7月1日起，娃哈哈純淨水（596ml×24瓶）每箱供應價上調0.5至1元；同樣是自7月1日起，華潤怡寶桶裝水（18.9L）每桶供應價上調1元。據悉，此次調價原因主要指向PET塑膠包材等成本上漲。"
+    },
+    {
+      "id": "mkt:019f0825-cd99-7dd8-b141-22429a415582",
+      "time": "2026-06-27 16:15:22",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Wahaha responds to reports of purified water price hikes】Wahaha said in a unified statement that, due to packaging cost volatility, it has adjusted channel wholesale prices across different pack sizes with some increases and some decreases to stabilize dealers’ operations. The company said terminal retail prices are unchanged and consumer purchase prices will not change. Earlier reports said Wahaha and China Resources Beverage notified distributors that, effective July 1, Wahaha purified water (596ml×24) supply price would rise 0.5–1 yuan per carton and China Resources Yibao bulk water (18.9L) would rise 1 yuan per drum; both companies cited higher PET plastic packaging costs as the main driver."
+    },
     {
       "id": "4958314",
       "time": "2026-06-27 16:08:06",
@@ -166295,39 +166320,6 @@
         "MKT News"
       ],
       "text": "ISRAELI MILITARY said stability between Lebanon and Israel would be achievable if Hezbollah ceases violating the ceasefire agreement."
-    },
-    {
-      "id": "4945743",
-      "time": "2026-06-20 16:17:44",
-      "tags": [
-        "其他"
-      ],
-      "text": "【部分主觀私募規模顯著縮水】今年以來，科技板塊結構性行情持續演繹，但是部分主觀私募卻規模顯著縮水。中國證券投資基金業協會最新資料顯示，運舟資本的管理規模降至50億元以下，意味著這家昔日的百億級私募已經規模腰斬。與此同時，今年以來，半夏投資、同犇投資等多家昔日百億級主觀私募規模也降至50億元以下。從業績表現來看，上述私募均曾在規模增至百億元后經歷了淨值的大幅回撤，並在淨值修復過程中出現了規模收縮。多位業內人士表示，伴隨著百億級梯隊的持續擴容以及居民財富管理需求的快速提高，如何迴歸私募絕對收益本源、在市場週期中平滑波動，是頭部私募亟待解決的課題。（上證報）"
-    },
-    {
-      "id": "mkt:019ee41a-fe93-7dd8-b09d-f0e27711b9e0",
-      "time": "2026-06-20 16:17:14",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Iran's Defense Ministry says it will continue efforts to boost military readiness and improve defensive capabilities."
-    },
-    {
-      "id": "4945742",
-      "time": "2026-06-20 16:16:57",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【特朗普：不再將Anthropic視為國家安全威脅】在6月19日釋出的《阿克西奧斯秀》（《Axios Show》）訪談節目中，美國總統特朗普表示，他已經不再將美國人工智慧公司安特羅匹克（Anthropic）視為國家安全威脅。 (國際線上)"
-    },
-    {
-      "id": "4945741",
-      "time": "2026-06-20 16:16:23",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗國防部表示，該國將繼續努力強化軍事戰備，提升國防能力。"
     }
   ]
 }
