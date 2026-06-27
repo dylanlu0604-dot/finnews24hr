@@ -1,13 +1,13 @@
 {
-  "updated": "2026-06-27 11:57:06",
+  "updated": "2026-06-27 12:01:39",
   "timezone": "Asia/Taipei",
   "source": "群益期貨 財經日曆",
   "source_home": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar",
   "important": 0,
-  "count": 471,
+  "count": 480,
   "history_summary": {
     "cached": 471,
-    "fetched": 0,
+    "fetched": 9,
     "pending": 0,
     "failed": 0,
     "limit": 120
@@ -11625,7 +11625,7 @@
       "interval": "next_week",
       "label": "下週",
       "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=next_week&important=0",
-      "count": 271,
+      "count": 280,
       "dates": [
         {
           "date": "2026-06-29",
@@ -11759,7 +11759,7 @@
               "title": "日本5月零售銷售年率",
               "importance": 1,
               "previous": "2.1 %",
-              "forecast": "3 %",
+              "forecast": "3.2 %",
               "actual": "-- %",
               "actual_released": true,
               "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1171666",
@@ -12280,7 +12280,7 @@
               "country": "英國",
               "title": "英國5月央行抵押貸款(億英鎊)",
               "importance": 1,
-              "previous": "44",
+              "previous": "43.68",
               "forecast": "--",
               "actual": "--",
               "actual_released": false,
@@ -12338,7 +12338,7 @@
               "country": "英國",
               "title": "英國5月央行抵押貸款許可(萬件)",
               "importance": 2,
-              "previous": "6.59",
+              "previous": "6.5945",
               "forecast": "--",
               "actual": "--",
               "actual_released": false,
@@ -12396,7 +12396,7 @@
               "country": "英國",
               "title": "英國5月央行消費信貸(億英鎊)",
               "importance": 1,
-              "previous": "19",
+              "previous": "18.59",
               "forecast": "--",
               "actual": "--",
               "actual_released": false,
@@ -13491,7 +13491,7 @@
         },
         {
           "date": "2026-06-30",
-          "count": 64,
+          "count": 71,
           "events": [
             {
               "id": "capital:1173500",
@@ -13853,7 +13853,7 @@
               "title": "日本5月工業產出月率初值",
               "importance": 1,
               "previous": "0.5 %",
-              "forecast": "-0.4 %",
+              "forecast": "1.1 %",
               "actual": "-- %",
               "actual_released": true,
               "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1173504",
@@ -13910,7 +13910,7 @@
               "country": "日本",
               "title": "日本5月庫存月率",
               "importance": 1,
-              "previous": "-0.2 %",
+              "previous": "-0.3 %",
               "forecast": "-- %",
               "actual": "-- %",
               "actual_released": true,
@@ -14306,6 +14306,412 @@
               "history_checked_at": "2026-06-21 00:03:11"
             },
             {
+              "id": "capital:1178665",
+              "fid": "1178665",
+              "interval": "next_week",
+              "date": "2026-06-30",
+              "time": "13:00",
+              "datetime": "2026-06-30 13:00:00",
+              "display_time": "06/30 13:00",
+              "country": "日本",
+              "title": "日本5月營建訂單年率",
+              "importance": 1,
+              "previous": "-32.3 %",
+              "forecast": "-- %",
+              "actual": "-- %",
+              "actual_released": true,
+              "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1178665",
+              "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=next_week&important=0",
+              "history": [
+                {
+                  "date": "05/29",
+                  "actual": "-32.3",
+                  "forecast": "-",
+                  "previous": "-14.4"
+                },
+                {
+                  "date": "04/30",
+                  "actual": "-14.4",
+                  "forecast": "-",
+                  "previous": "42.7"
+                },
+                {
+                  "date": "03/31",
+                  "actual": "42.7",
+                  "forecast": "-",
+                  "previous": "5.7"
+                },
+                {
+                  "date": "02/27",
+                  "actual": "5.7",
+                  "forecast": "-",
+                  "previous": "20.2"
+                },
+                {
+                  "date": "01/30",
+                  "actual": "20.2",
+                  "forecast": "-",
+                  "previous": "9.5"
+                },
+                {
+                  "date": "12/25",
+                  "actual": "9.5",
+                  "forecast": "-",
+                  "previous": "-10.1"
+                }
+              ],
+              "history_status": "fetched",
+              "history_checked_at": "2026-06-27 12:01:33"
+            },
+            {
+              "id": "capital:1178671",
+              "fid": "1178671",
+              "interval": "next_week",
+              "date": "2026-06-30",
+              "time": "14:00",
+              "datetime": "2026-06-30 14:00:00",
+              "display_time": "06/30 14:00",
+              "country": "德國",
+              "title": "德國5月出口物價指數年率",
+              "importance": 1,
+              "previous": "2.9 %",
+              "forecast": "-- %",
+              "actual": "-- %",
+              "actual_released": true,
+              "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1178671",
+              "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=next_week&important=0",
+              "history": [
+                {
+                  "date": "05/29",
+                  "actual": "2.9",
+                  "forecast": "-",
+                  "previous": "1.5"
+                },
+                {
+                  "date": "04/30",
+                  "actual": "1.5",
+                  "forecast": "-",
+                  "previous": "-0.1"
+                },
+                {
+                  "date": "03/31",
+                  "actual": "-0.1",
+                  "forecast": "-",
+                  "previous": "0.2"
+                },
+                {
+                  "date": "02/27",
+                  "actual": "0.2",
+                  "forecast": "-",
+                  "previous": "0"
+                },
+                {
+                  "date": "01/30",
+                  "actual": "0",
+                  "forecast": "-",
+                  "previous": "0.3"
+                },
+                {
+                  "date": "12/23",
+                  "actual": "0.3",
+                  "forecast": "-",
+                  "previous": "0.5"
+                }
+              ],
+              "history_status": "fetched",
+              "history_checked_at": "2026-06-27 12:01:33"
+            },
+            {
+              "id": "capital:1178670",
+              "fid": "1178670",
+              "interval": "next_week",
+              "date": "2026-06-30",
+              "time": "14:00",
+              "datetime": "2026-06-30 14:00:00",
+              "display_time": "06/30 14:00",
+              "country": "德國",
+              "title": "德國5月出口物價指數月率",
+              "importance": 1,
+              "previous": "0.8 %",
+              "forecast": "-- %",
+              "actual": "-- %",
+              "actual_released": true,
+              "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1178670",
+              "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=next_week&important=0",
+              "history": [
+                {
+                  "date": "05/29",
+                  "actual": "0.8",
+                  "forecast": "-",
+                  "previous": "1.1"
+                },
+                {
+                  "date": "04/30",
+                  "actual": "1.1",
+                  "forecast": "-",
+                  "previous": "0.1"
+                },
+                {
+                  "date": "03/31",
+                  "actual": "0.1",
+                  "forecast": "-",
+                  "previous": "0.9"
+                },
+                {
+                  "date": "02/27",
+                  "actual": "0.9",
+                  "forecast": "-",
+                  "previous": "-0.1"
+                },
+                {
+                  "date": "01/30",
+                  "actual": "-0.1",
+                  "forecast": "-",
+                  "previous": "0.2"
+                },
+                {
+                  "date": "12/23",
+                  "actual": "0.2",
+                  "forecast": "-",
+                  "previous": "0.2"
+                }
+              ],
+              "history_status": "fetched",
+              "history_checked_at": "2026-06-27 12:01:33"
+            },
+            {
+              "id": "capital:1178667",
+              "fid": "1178667",
+              "interval": "next_week",
+              "date": "2026-06-30",
+              "time": "14:00",
+              "datetime": "2026-06-30 14:00:00",
+              "display_time": "06/30 14:00",
+              "country": "德國",
+              "title": "德國5月實際零售銷售年率",
+              "importance": 1,
+              "previous": "-0.3 %",
+              "forecast": "-- %",
+              "actual": "-- %",
+              "actual_released": true,
+              "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1178667",
+              "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=next_week&important=0",
+              "history": [
+                {
+                  "date": "06/01",
+                  "actual": "-0.3",
+                  "forecast": "-",
+                  "previous": "-2"
+                },
+                {
+                  "date": "04/30",
+                  "actual": "-2",
+                  "forecast": "0.5",
+                  "previous": "0.7"
+                },
+                {
+                  "date": "03/31",
+                  "actual": "0.7",
+                  "forecast": "1.6",
+                  "previous": "1.2"
+                },
+                {
+                  "date": "03/02",
+                  "actual": "1.2",
+                  "forecast": "-",
+                  "previous": "3.2"
+                },
+                {
+                  "date": "02/02",
+                  "actual": "3.2",
+                  "forecast": "-",
+                  "previous": "-1.8"
+                },
+                {
+                  "date": "01/07",
+                  "actual": "-1.8",
+                  "forecast": "0.1",
+                  "previous": "1.3"
+                }
+              ],
+              "history_status": "fetched",
+              "history_checked_at": "2026-06-27 12:01:33"
+            },
+            {
+              "id": "capital:1178666",
+              "fid": "1178666",
+              "interval": "next_week",
+              "date": "2026-06-30",
+              "time": "14:00",
+              "datetime": "2026-06-30 14:00:00",
+              "display_time": "06/30 14:00",
+              "country": "德國",
+              "title": "德國5月實際零售銷售月率",
+              "importance": 1,
+              "previous": "-0.3 %",
+              "forecast": "-- %",
+              "actual": "-- %",
+              "actual_released": true,
+              "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1178666",
+              "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=next_week&important=0",
+              "history": [
+                {
+                  "date": "06/01",
+                  "actual": "-0.3",
+                  "forecast": "-0.5",
+                  "previous": "-2"
+                },
+                {
+                  "date": "04/30",
+                  "actual": "-2",
+                  "forecast": "-0.1",
+                  "previous": "-0.6"
+                },
+                {
+                  "date": "03/31",
+                  "actual": "-0.6",
+                  "forecast": "0.2",
+                  "previous": "-0.9"
+                },
+                {
+                  "date": "03/02",
+                  "actual": "-0.9",
+                  "forecast": "-0.2",
+                  "previous": "0.1"
+                },
+                {
+                  "date": "02/02",
+                  "actual": "0.1",
+                  "forecast": "0.2",
+                  "previous": "-0.6"
+                },
+                {
+                  "date": "01/07",
+                  "actual": "-0.6",
+                  "forecast": "0.2",
+                  "previous": "-0.3"
+                }
+              ],
+              "history_status": "fetched",
+              "history_checked_at": "2026-06-27 12:01:33"
+            },
+            {
+              "id": "capital:1178669",
+              "fid": "1178669",
+              "interval": "next_week",
+              "date": "2026-06-30",
+              "time": "14:00",
+              "datetime": "2026-06-30 14:00:00",
+              "display_time": "06/30 14:00",
+              "country": "德國",
+              "title": "德國5月進口物價指數年率",
+              "importance": 1,
+              "previous": "5.3 %",
+              "forecast": "-- %",
+              "actual": "-- %",
+              "actual_released": true,
+              "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1178669",
+              "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=next_week&important=0",
+              "history": [
+                {
+                  "date": "05/29",
+                  "actual": "5.3",
+                  "forecast": "5.3",
+                  "previous": "2.3"
+                },
+                {
+                  "date": "04/30",
+                  "actual": "2.3",
+                  "forecast": "1.6",
+                  "previous": "-2.3"
+                },
+                {
+                  "date": "03/31",
+                  "actual": "-2.3",
+                  "forecast": "-",
+                  "previous": "-2.3"
+                },
+                {
+                  "date": "02/27",
+                  "actual": "-2.3",
+                  "forecast": "-2.8",
+                  "previous": "-2.3"
+                },
+                {
+                  "date": "01/30",
+                  "actual": "-2.3",
+                  "forecast": "-2.6",
+                  "previous": "-1.9"
+                },
+                {
+                  "date": "12/23",
+                  "actual": "-1.9",
+                  "forecast": "-2.2",
+                  "previous": "-1.4"
+                }
+              ],
+              "history_status": "fetched",
+              "history_checked_at": "2026-06-27 12:01:33"
+            },
+            {
+              "id": "capital:1178668",
+              "fid": "1178668",
+              "interval": "next_week",
+              "date": "2026-06-30",
+              "time": "14:00",
+              "datetime": "2026-06-30 14:00:00",
+              "display_time": "06/30 14:00",
+              "country": "德國",
+              "title": "德國5月進口物價指數月率",
+              "importance": 1,
+              "previous": "1.2 %",
+              "forecast": "-- %",
+              "actual": "-- %",
+              "actual_released": true,
+              "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1178668",
+              "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=next_week&important=0",
+              "history": [
+                {
+                  "date": "05/29",
+                  "actual": "1.2",
+                  "forecast": "1.1",
+                  "previous": "3.6"
+                },
+                {
+                  "date": "04/30",
+                  "actual": "3.6",
+                  "forecast": "3",
+                  "previous": "0.3"
+                },
+                {
+                  "date": "03/31",
+                  "actual": "0.3",
+                  "forecast": "0.8",
+                  "previous": "1.1"
+                },
+                {
+                  "date": "02/27",
+                  "actual": "1.1",
+                  "forecast": "0.6",
+                  "previous": "-0.1"
+                },
+                {
+                  "date": "01/30",
+                  "actual": "-0.1",
+                  "forecast": "-0.4",
+                  "previous": "0.5"
+                },
+                {
+                  "date": "12/23",
+                  "actual": "0.5",
+                  "forecast": "0.1",
+                  "previous": "0.2"
+                }
+              ],
+              "history_status": "fetched",
+              "history_checked_at": "2026-06-27 12:01:33"
+            },
+            {
               "id": "capital:1173512",
               "fid": "1173512",
               "interval": "next_week",
@@ -14548,7 +14954,7 @@
               "country": "英國",
               "title": "英國第一季度經常帳(億英鎊)",
               "importance": 2,
-              "previous": "-184",
+              "previous": "-183.92",
               "forecast": "--",
               "actual": "--",
               "actual_released": false,
@@ -15476,7 +15882,7 @@
               "country": "西班牙",
               "title": "西班牙4月經常帳(億歐元)",
               "importance": 1,
-              "previous": "46",
+              "previous": "46.1",
               "forecast": "--",
               "actual": "--",
               "actual_released": false,
@@ -17209,7 +17615,7 @@
         },
         {
           "date": "2026-07-01",
-          "count": 82,
+          "count": 84,
           "events": [
             {
               "id": "capital:1177670",
@@ -17674,6 +18080,122 @@
               ],
               "history_status": "cached",
               "history_checked_at": "2026-06-26 12:03:44"
+            },
+            {
+              "id": "capital:1178672",
+              "fid": "1178672",
+              "interval": "next_week",
+              "date": "2026-07-01",
+              "time": "07:00",
+              "datetime": "2026-07-01 07:00:00",
+              "display_time": "07/01 07:00",
+              "country": "澳大利亞",
+              "title": "澳大利亞6月AIG/PWC製造業表現指數",
+              "importance": 1,
+              "previous": "-22.4",
+              "forecast": "--",
+              "actual": "--",
+              "actual_released": false,
+              "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1178672",
+              "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=next_week&important=0",
+              "history": [
+                {
+                  "date": "06/03",
+                  "actual": "-22.4",
+                  "forecast": "-",
+                  "previous": "-27.9"
+                },
+                {
+                  "date": "05/06",
+                  "actual": "-27.9",
+                  "forecast": "-",
+                  "previous": "-27.9"
+                },
+                {
+                  "date": "04/01",
+                  "actual": "-27.9",
+                  "forecast": "-",
+                  "previous": "-15.6"
+                },
+                {
+                  "date": "03/04",
+                  "actual": "-15.6",
+                  "forecast": "-",
+                  "previous": "-19.4"
+                },
+                {
+                  "date": "02/04",
+                  "actual": "-19.4",
+                  "forecast": "-",
+                  "previous": "-18"
+                },
+                {
+                  "date": "12/03",
+                  "actual": "-18",
+                  "forecast": "-",
+                  "previous": "-22"
+                }
+              ],
+              "history_status": "fetched",
+              "history_checked_at": "2026-06-27 12:01:33"
+            },
+            {
+              "id": "capital:1178673",
+              "fid": "1178673",
+              "interval": "next_week",
+              "date": "2026-07-01",
+              "time": "07:00",
+              "datetime": "2026-07-01 07:00:00",
+              "display_time": "07/01 07:00",
+              "country": "澳大利亞",
+              "title": "澳大利亞6月AIG建築業表現指數",
+              "importance": 1,
+              "previous": "-9.9",
+              "forecast": "--",
+              "actual": "--",
+              "actual_released": false,
+              "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1178673",
+              "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=next_week&important=0",
+              "history": [
+                {
+                  "date": "06/03",
+                  "actual": "-9.9",
+                  "forecast": "-",
+                  "previous": "-19.3"
+                },
+                {
+                  "date": "05/06",
+                  "actual": "-19.3",
+                  "forecast": "-",
+                  "previous": "-31.4"
+                },
+                {
+                  "date": "04/01",
+                  "actual": "-31.4",
+                  "forecast": "-",
+                  "previous": "-8.2"
+                },
+                {
+                  "date": "03/04",
+                  "actual": "-8.2",
+                  "forecast": "-",
+                  "previous": "5.2"
+                },
+                {
+                  "date": "02/04",
+                  "actual": "5.2",
+                  "forecast": "-",
+                  "previous": "-18.7"
+                },
+                {
+                  "date": "12/03",
+                  "actual": "-18.7",
+                  "forecast": "-",
+                  "previous": "-7.1"
+                }
+              ],
+              "history_status": "fetched",
+              "history_checked_at": "2026-06-27 12:01:33"
             },
             {
               "id": "capital:1173552",
@@ -19390,7 +19912,7 @@
               "title": "歐元區6月製造業PMI終值",
               "importance": 2,
               "previous": "51.3",
-              "forecast": "--",
+              "forecast": "51.3",
               "actual": "--",
               "actual_released": false,
               "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1173575",
@@ -39039,7 +39561,7 @@
       "title": "日本5月零售銷售年率",
       "importance": 1,
       "previous": "2.1 %",
-      "forecast": "3 %",
+      "forecast": "3.2 %",
       "actual": "-- %",
       "actual_released": true,
       "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1171666",
@@ -39560,7 +40082,7 @@
       "country": "英國",
       "title": "英國5月央行抵押貸款(億英鎊)",
       "importance": 1,
-      "previous": "44",
+      "previous": "43.68",
       "forecast": "--",
       "actual": "--",
       "actual_released": false,
@@ -39618,7 +40140,7 @@
       "country": "英國",
       "title": "英國5月央行抵押貸款許可(萬件)",
       "importance": 2,
-      "previous": "6.59",
+      "previous": "6.5945",
       "forecast": "--",
       "actual": "--",
       "actual_released": false,
@@ -39676,7 +40198,7 @@
       "country": "英國",
       "title": "英國5月央行消費信貸(億英鎊)",
       "importance": 1,
-      "previous": "19",
+      "previous": "18.59",
       "forecast": "--",
       "actual": "--",
       "actual_released": false,
@@ -41127,7 +41649,7 @@
       "title": "日本5月工業產出月率初值",
       "importance": 1,
       "previous": "0.5 %",
-      "forecast": "-0.4 %",
+      "forecast": "1.1 %",
       "actual": "-- %",
       "actual_released": true,
       "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1173504",
@@ -41184,7 +41706,7 @@
       "country": "日本",
       "title": "日本5月庫存月率",
       "importance": 1,
-      "previous": "-0.2 %",
+      "previous": "-0.3 %",
       "forecast": "-- %",
       "actual": "-- %",
       "actual_released": true,
@@ -41580,6 +42102,412 @@
       "history_checked_at": "2026-06-21 00:03:11"
     },
     {
+      "id": "capital:1178665",
+      "fid": "1178665",
+      "interval": "next_week",
+      "date": "2026-06-30",
+      "time": "13:00",
+      "datetime": "2026-06-30 13:00:00",
+      "display_time": "06/30 13:00",
+      "country": "日本",
+      "title": "日本5月營建訂單年率",
+      "importance": 1,
+      "previous": "-32.3 %",
+      "forecast": "-- %",
+      "actual": "-- %",
+      "actual_released": true,
+      "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1178665",
+      "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=next_week&important=0",
+      "history": [
+        {
+          "date": "05/29",
+          "actual": "-32.3",
+          "forecast": "-",
+          "previous": "-14.4"
+        },
+        {
+          "date": "04/30",
+          "actual": "-14.4",
+          "forecast": "-",
+          "previous": "42.7"
+        },
+        {
+          "date": "03/31",
+          "actual": "42.7",
+          "forecast": "-",
+          "previous": "5.7"
+        },
+        {
+          "date": "02/27",
+          "actual": "5.7",
+          "forecast": "-",
+          "previous": "20.2"
+        },
+        {
+          "date": "01/30",
+          "actual": "20.2",
+          "forecast": "-",
+          "previous": "9.5"
+        },
+        {
+          "date": "12/25",
+          "actual": "9.5",
+          "forecast": "-",
+          "previous": "-10.1"
+        }
+      ],
+      "history_status": "fetched",
+      "history_checked_at": "2026-06-27 12:01:33"
+    },
+    {
+      "id": "capital:1178671",
+      "fid": "1178671",
+      "interval": "next_week",
+      "date": "2026-06-30",
+      "time": "14:00",
+      "datetime": "2026-06-30 14:00:00",
+      "display_time": "06/30 14:00",
+      "country": "德國",
+      "title": "德國5月出口物價指數年率",
+      "importance": 1,
+      "previous": "2.9 %",
+      "forecast": "-- %",
+      "actual": "-- %",
+      "actual_released": true,
+      "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1178671",
+      "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=next_week&important=0",
+      "history": [
+        {
+          "date": "05/29",
+          "actual": "2.9",
+          "forecast": "-",
+          "previous": "1.5"
+        },
+        {
+          "date": "04/30",
+          "actual": "1.5",
+          "forecast": "-",
+          "previous": "-0.1"
+        },
+        {
+          "date": "03/31",
+          "actual": "-0.1",
+          "forecast": "-",
+          "previous": "0.2"
+        },
+        {
+          "date": "02/27",
+          "actual": "0.2",
+          "forecast": "-",
+          "previous": "0"
+        },
+        {
+          "date": "01/30",
+          "actual": "0",
+          "forecast": "-",
+          "previous": "0.3"
+        },
+        {
+          "date": "12/23",
+          "actual": "0.3",
+          "forecast": "-",
+          "previous": "0.5"
+        }
+      ],
+      "history_status": "fetched",
+      "history_checked_at": "2026-06-27 12:01:33"
+    },
+    {
+      "id": "capital:1178670",
+      "fid": "1178670",
+      "interval": "next_week",
+      "date": "2026-06-30",
+      "time": "14:00",
+      "datetime": "2026-06-30 14:00:00",
+      "display_time": "06/30 14:00",
+      "country": "德國",
+      "title": "德國5月出口物價指數月率",
+      "importance": 1,
+      "previous": "0.8 %",
+      "forecast": "-- %",
+      "actual": "-- %",
+      "actual_released": true,
+      "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1178670",
+      "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=next_week&important=0",
+      "history": [
+        {
+          "date": "05/29",
+          "actual": "0.8",
+          "forecast": "-",
+          "previous": "1.1"
+        },
+        {
+          "date": "04/30",
+          "actual": "1.1",
+          "forecast": "-",
+          "previous": "0.1"
+        },
+        {
+          "date": "03/31",
+          "actual": "0.1",
+          "forecast": "-",
+          "previous": "0.9"
+        },
+        {
+          "date": "02/27",
+          "actual": "0.9",
+          "forecast": "-",
+          "previous": "-0.1"
+        },
+        {
+          "date": "01/30",
+          "actual": "-0.1",
+          "forecast": "-",
+          "previous": "0.2"
+        },
+        {
+          "date": "12/23",
+          "actual": "0.2",
+          "forecast": "-",
+          "previous": "0.2"
+        }
+      ],
+      "history_status": "fetched",
+      "history_checked_at": "2026-06-27 12:01:33"
+    },
+    {
+      "id": "capital:1178667",
+      "fid": "1178667",
+      "interval": "next_week",
+      "date": "2026-06-30",
+      "time": "14:00",
+      "datetime": "2026-06-30 14:00:00",
+      "display_time": "06/30 14:00",
+      "country": "德國",
+      "title": "德國5月實際零售銷售年率",
+      "importance": 1,
+      "previous": "-0.3 %",
+      "forecast": "-- %",
+      "actual": "-- %",
+      "actual_released": true,
+      "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1178667",
+      "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=next_week&important=0",
+      "history": [
+        {
+          "date": "06/01",
+          "actual": "-0.3",
+          "forecast": "-",
+          "previous": "-2"
+        },
+        {
+          "date": "04/30",
+          "actual": "-2",
+          "forecast": "0.5",
+          "previous": "0.7"
+        },
+        {
+          "date": "03/31",
+          "actual": "0.7",
+          "forecast": "1.6",
+          "previous": "1.2"
+        },
+        {
+          "date": "03/02",
+          "actual": "1.2",
+          "forecast": "-",
+          "previous": "3.2"
+        },
+        {
+          "date": "02/02",
+          "actual": "3.2",
+          "forecast": "-",
+          "previous": "-1.8"
+        },
+        {
+          "date": "01/07",
+          "actual": "-1.8",
+          "forecast": "0.1",
+          "previous": "1.3"
+        }
+      ],
+      "history_status": "fetched",
+      "history_checked_at": "2026-06-27 12:01:33"
+    },
+    {
+      "id": "capital:1178666",
+      "fid": "1178666",
+      "interval": "next_week",
+      "date": "2026-06-30",
+      "time": "14:00",
+      "datetime": "2026-06-30 14:00:00",
+      "display_time": "06/30 14:00",
+      "country": "德國",
+      "title": "德國5月實際零售銷售月率",
+      "importance": 1,
+      "previous": "-0.3 %",
+      "forecast": "-- %",
+      "actual": "-- %",
+      "actual_released": true,
+      "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1178666",
+      "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=next_week&important=0",
+      "history": [
+        {
+          "date": "06/01",
+          "actual": "-0.3",
+          "forecast": "-0.5",
+          "previous": "-2"
+        },
+        {
+          "date": "04/30",
+          "actual": "-2",
+          "forecast": "-0.1",
+          "previous": "-0.6"
+        },
+        {
+          "date": "03/31",
+          "actual": "-0.6",
+          "forecast": "0.2",
+          "previous": "-0.9"
+        },
+        {
+          "date": "03/02",
+          "actual": "-0.9",
+          "forecast": "-0.2",
+          "previous": "0.1"
+        },
+        {
+          "date": "02/02",
+          "actual": "0.1",
+          "forecast": "0.2",
+          "previous": "-0.6"
+        },
+        {
+          "date": "01/07",
+          "actual": "-0.6",
+          "forecast": "0.2",
+          "previous": "-0.3"
+        }
+      ],
+      "history_status": "fetched",
+      "history_checked_at": "2026-06-27 12:01:33"
+    },
+    {
+      "id": "capital:1178669",
+      "fid": "1178669",
+      "interval": "next_week",
+      "date": "2026-06-30",
+      "time": "14:00",
+      "datetime": "2026-06-30 14:00:00",
+      "display_time": "06/30 14:00",
+      "country": "德國",
+      "title": "德國5月進口物價指數年率",
+      "importance": 1,
+      "previous": "5.3 %",
+      "forecast": "-- %",
+      "actual": "-- %",
+      "actual_released": true,
+      "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1178669",
+      "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=next_week&important=0",
+      "history": [
+        {
+          "date": "05/29",
+          "actual": "5.3",
+          "forecast": "5.3",
+          "previous": "2.3"
+        },
+        {
+          "date": "04/30",
+          "actual": "2.3",
+          "forecast": "1.6",
+          "previous": "-2.3"
+        },
+        {
+          "date": "03/31",
+          "actual": "-2.3",
+          "forecast": "-",
+          "previous": "-2.3"
+        },
+        {
+          "date": "02/27",
+          "actual": "-2.3",
+          "forecast": "-2.8",
+          "previous": "-2.3"
+        },
+        {
+          "date": "01/30",
+          "actual": "-2.3",
+          "forecast": "-2.6",
+          "previous": "-1.9"
+        },
+        {
+          "date": "12/23",
+          "actual": "-1.9",
+          "forecast": "-2.2",
+          "previous": "-1.4"
+        }
+      ],
+      "history_status": "fetched",
+      "history_checked_at": "2026-06-27 12:01:33"
+    },
+    {
+      "id": "capital:1178668",
+      "fid": "1178668",
+      "interval": "next_week",
+      "date": "2026-06-30",
+      "time": "14:00",
+      "datetime": "2026-06-30 14:00:00",
+      "display_time": "06/30 14:00",
+      "country": "德國",
+      "title": "德國5月進口物價指數月率",
+      "importance": 1,
+      "previous": "1.2 %",
+      "forecast": "-- %",
+      "actual": "-- %",
+      "actual_released": true,
+      "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1178668",
+      "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=next_week&important=0",
+      "history": [
+        {
+          "date": "05/29",
+          "actual": "1.2",
+          "forecast": "1.1",
+          "previous": "3.6"
+        },
+        {
+          "date": "04/30",
+          "actual": "3.6",
+          "forecast": "3",
+          "previous": "0.3"
+        },
+        {
+          "date": "03/31",
+          "actual": "0.3",
+          "forecast": "0.8",
+          "previous": "1.1"
+        },
+        {
+          "date": "02/27",
+          "actual": "1.1",
+          "forecast": "0.6",
+          "previous": "-0.1"
+        },
+        {
+          "date": "01/30",
+          "actual": "-0.1",
+          "forecast": "-0.4",
+          "previous": "0.5"
+        },
+        {
+          "date": "12/23",
+          "actual": "0.5",
+          "forecast": "0.1",
+          "previous": "0.2"
+        }
+      ],
+      "history_status": "fetched",
+      "history_checked_at": "2026-06-27 12:01:33"
+    },
+    {
       "id": "capital:1173512",
       "fid": "1173512",
       "interval": "next_week",
@@ -41822,7 +42750,7 @@
       "country": "英國",
       "title": "英國第一季度經常帳(億英鎊)",
       "importance": 2,
-      "previous": "-184",
+      "previous": "-183.92",
       "forecast": "--",
       "actual": "--",
       "actual_released": false,
@@ -42750,7 +43678,7 @@
       "country": "西班牙",
       "title": "西班牙4月經常帳(億歐元)",
       "importance": 1,
-      "previous": "46",
+      "previous": "46.1",
       "forecast": "--",
       "actual": "--",
       "actual_released": false,
@@ -44944,6 +45872,122 @@
       "history_checked_at": "2026-06-26 12:03:44"
     },
     {
+      "id": "capital:1178672",
+      "fid": "1178672",
+      "interval": "next_week",
+      "date": "2026-07-01",
+      "time": "07:00",
+      "datetime": "2026-07-01 07:00:00",
+      "display_time": "07/01 07:00",
+      "country": "澳大利亞",
+      "title": "澳大利亞6月AIG/PWC製造業表現指數",
+      "importance": 1,
+      "previous": "-22.4",
+      "forecast": "--",
+      "actual": "--",
+      "actual_released": false,
+      "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1178672",
+      "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=next_week&important=0",
+      "history": [
+        {
+          "date": "06/03",
+          "actual": "-22.4",
+          "forecast": "-",
+          "previous": "-27.9"
+        },
+        {
+          "date": "05/06",
+          "actual": "-27.9",
+          "forecast": "-",
+          "previous": "-27.9"
+        },
+        {
+          "date": "04/01",
+          "actual": "-27.9",
+          "forecast": "-",
+          "previous": "-15.6"
+        },
+        {
+          "date": "03/04",
+          "actual": "-15.6",
+          "forecast": "-",
+          "previous": "-19.4"
+        },
+        {
+          "date": "02/04",
+          "actual": "-19.4",
+          "forecast": "-",
+          "previous": "-18"
+        },
+        {
+          "date": "12/03",
+          "actual": "-18",
+          "forecast": "-",
+          "previous": "-22"
+        }
+      ],
+      "history_status": "fetched",
+      "history_checked_at": "2026-06-27 12:01:33"
+    },
+    {
+      "id": "capital:1178673",
+      "fid": "1178673",
+      "interval": "next_week",
+      "date": "2026-07-01",
+      "time": "07:00",
+      "datetime": "2026-07-01 07:00:00",
+      "display_time": "07/01 07:00",
+      "country": "澳大利亞",
+      "title": "澳大利亞6月AIG建築業表現指數",
+      "importance": 1,
+      "previous": "-9.9",
+      "forecast": "--",
+      "actual": "--",
+      "actual_released": false,
+      "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1178673",
+      "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=next_week&important=0",
+      "history": [
+        {
+          "date": "06/03",
+          "actual": "-9.9",
+          "forecast": "-",
+          "previous": "-19.3"
+        },
+        {
+          "date": "05/06",
+          "actual": "-19.3",
+          "forecast": "-",
+          "previous": "-31.4"
+        },
+        {
+          "date": "04/01",
+          "actual": "-31.4",
+          "forecast": "-",
+          "previous": "-8.2"
+        },
+        {
+          "date": "03/04",
+          "actual": "-8.2",
+          "forecast": "-",
+          "previous": "5.2"
+        },
+        {
+          "date": "02/04",
+          "actual": "5.2",
+          "forecast": "-",
+          "previous": "-18.7"
+        },
+        {
+          "date": "12/03",
+          "actual": "-18.7",
+          "forecast": "-",
+          "previous": "-7.1"
+        }
+      ],
+      "history_status": "fetched",
+      "history_checked_at": "2026-06-27 12:01:33"
+    },
+    {
       "id": "capital:1173552",
       "fid": "1173552",
       "interval": "next_week",
@@ -46658,7 +47702,7 @@
       "title": "歐元區6月製造業PMI終值",
       "importance": 2,
       "previous": "51.3",
-      "forecast": "--",
+      "forecast": "51.3",
       "actual": "--",
       "actual_released": false,
       "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1173575",
