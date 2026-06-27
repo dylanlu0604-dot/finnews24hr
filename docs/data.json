@@ -1,7 +1,15 @@
 {
-  "updated": "2026-06-28 03:48:57",
-  "count": 18148,
+  "updated": "2026-06-28 03:52:51",
+  "count": 18145,
   "items": [
+    {
+      "id": "4958596",
+      "time": "2026-06-28 03:48:38",
+      "tags": [
+        "其他"
+      ],
+      "text": "卡達與沙烏地阿拉伯兩國部長商討地區局勢。"
+    },
     {
       "id": "4958595",
       "time": "2026-06-28 03:41:49",
@@ -166009,44 +166017,6 @@
         "國際"
       ],
       "text": "北美防空司令部（NORAD）釋出訊息稱，美國空軍第一航空隊一架F-16戰機今日在馬里蘭州黑格斯敦上空攔截了一架闖入貴賓臨時飛行管制區的通用航空飛機。"
-    },
-    {
-      "id": "4945982",
-      "time": "2026-06-21 03:52:06",
-      "tags": [
-        "國際"
-      ],
-      "text": "【特朗普稱通行霍爾木茲海峽將不收取任何費用】當地時間6月20日，美國總統特朗普在社交媒體平臺“真實社交”發文表示，在停火期間的60天內，霍爾木茲海峽將不收取任何通行費。60天期限結束後，也不會收取任何通行費，除非相關協議未能達成，而美國作為中東各國的“守護天使”，為它們提供服務，出於就過去、現在及未來所承擔的成本尋求補償的目的，由美國決定並徵收相關費用。根據此前伊朗官媒與美國官員釋出的美伊諒解備忘錄的內容，涉及霍爾木茲海峽通行的條款明確寫有，伊朗將盡最大努力做出安排，確保商船在60天期限內免費安全往返于波斯灣和阿曼灣之間。至於60天期限過後，霍爾木茲海峽的管理制度將透過伊朗將與阿曼進行的對話，並與其他波斯灣沿岸國家協商確立。（央視新聞）"
-    },
-    {
-      "id": "4945981",
-      "time": "2026-06-21 03:50:37",
-      "tags": [
-        "國際"
-      ],
-      "text": "【特朗普：如與伊不能達成協議 美或收取海峽通行費】美國總統特朗普20日在社交媒體威脅稱，如果與伊朗協議“不能完成”，美國或將收取霍爾木茲海峽通行費。（新華社）"
-    },
-    {
-      "id": "mkt:019ee695-a7cb-7dd8-b0a1-c3530342fb93",
-      "time": "2026-06-21 03:50:27",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "The Trump Trade",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "【Trump says US may charge Strait of Hormuz transit fee if Iran deal 'cannot be completed'】Trump threatened on social media on the 20th that if a deal with Iran \"cannot be completed\", the US may charge transit fees for passage through the Strait of Hormuz."
-    },
-    {
-      "id": "mkt:019ee694-e69c-7dd8-b0a1-b8449fd5d90c",
-      "time": "2026-06-21 03:49:38",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Pakistan's prime minister and army chief will attend technical consultations in Bürgenstock, Switzerland on June 21, the prime minister's office said."
     }
   ]
 }
