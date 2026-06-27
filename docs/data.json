@@ -1,7 +1,31 @@
 {
-  "updated": "2026-06-27 18:53:43",
-  "count": 18219,
+  "updated": "2026-06-27 18:57:41",
+  "count": 18221,
   "items": [
+    {
+      "id": "mkt:019f08b8-e936-7dd8-b141-f5ab6f244d8a",
+      "time": "2026-06-27 18:56:03",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【5.6-magnitude earthquake offshore East Nusa Tenggara, Indonesia】Indonesia's Meteorology, Climatology and Geophysics Agency reported a magnitude-5.6 earthquake at 17:37 local time on June 27, located about 202 km northeast offshore of East Nusa Tenggara province."
+    },
+    {
+      "id": "4958377",
+      "time": "2026-06-27 18:55:23",
+      "tags": [
+        "國際"
+      ],
+      "text": "【印尼東努沙登加拉省附近海域發生5.6級地震】據印尼氣象、氣候和地球物理局釋出的報告，當地時間6月27日17時37分，印尼東努沙登加拉省東北202公里海域發生5.6級地震。"
+    },
+    {
+      "id": "4958376",
+      "time": "2026-06-27 18:53:36",
+      "tags": [
+        "公司"
+      ],
+      "text": "【東鵬飲料：所謂飯局影片為憑空捏造 無任何事實依據】東鵬飲料（集團）股份有限公司釋出關於網路不實謠言的澄清宣告稱，近日，公司關注到相關人員透過虛構場景、偽造言論等手段，在網路上惡意捏造並散佈關於公司的虛假資訊。公司鄭重澄清：所謂飯局影片為憑空捏造、無任何事實依據，對消費者及投資者造成誤導，損害公司聲譽。公司已固定證據並向公安機關報案，將持續追究相關人的法律責任。"
+    },
     {
       "id": "mkt:019f08b5-18e4-7dd8-b141-ef4b84d6836e",
       "time": "2026-06-27 18:51:53",
@@ -166654,14 +166678,6 @@
         "Impact bullish"
       ],
       "text": "【Suzhou party secretary Fan Bo meets JD.com founder Liu Qiangdong】JD.com said it will increase investment in Suzhou and deploy its e-commerce, logistics, AI, digital technology and health-service capabilities to support industrial upgrading and expand local consumption. Suzhou party secretary Fan Bo and deputy party secretary and mayor Wang Wei urged JD to deepen local industry collaboration, broaden its Suzhou footprint and help market access for local products; the city said it will continue a 'three-services' program serving firms, projects and parks and push a market-oriented, rule-of-law and international business environment."
-    },
-    {
-      "id": "4945775",
-      "time": "2026-06-20 18:55:03",
-      "tags": [
-        "其他"
-      ],
-      "text": "【水利部和中國氣象局聯合釋出黃色山洪災害氣象預警】水利部和中國氣象局6月20日18時聯合釋出黃色山洪災害氣象預警：預計，6月20日20時至21日20時，山西南部、內蒙古東北部、黑龍江西部、江西西北部、河南北部、湖北東南部、湖南北部、廣西北部、四川東部和南部、貴州南部、雲南西北部、西藏東南部、陝西西南部、新疆南部和西部等地部分地區可能發生山洪災害(藍色預警)，其中，內蒙古東北部、江西西北部、湖北東南部、湖南西北部、廣西北部、貴州南部、雲南西北部、西藏東南部、新疆南部等地部分地區發生山洪災害可能性較大(黃色預警)。其他地區也可能因局地短歷時強降水引發山洪災害，請各地注意做好實時監測、防汛預警和轉移避險等防範工作。"
     }
   ]
 }
