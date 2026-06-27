@@ -1,7 +1,15 @@
 {
-  "updated": "2026-06-28 03:24:54",
-  "count": 18152,
+  "updated": "2026-06-28 03:28:58",
+  "count": 18150,
   "items": [
+    {
+      "id": "4958591",
+      "time": "2026-06-28 03:26:52",
+      "tags": [
+        "國際"
+      ],
+      "text": "歐洲地中海地震中心（EMSC）：委內瑞拉阿拉瓜州近海發生5.6級地震。"
+    },
     {
       "id": "4958590",
       "time": "2026-06-28 03:21:49",
@@ -166057,34 +166065,6 @@
         "MKT News"
       ],
       "text": "【Drone crashes near Iraqi parliament speaker's residence in Anbar; no casualties】Iraqi police said a drone crashed on the 20th near the residence of Iraqi parliament speaker Halbousi in western Anbar province, causing no casualties or property damage. A police source told Xinhua the unidentified drone fell in the Karma area about 150m from Halbousi's home. The crash ignited nearby reeds; civil defence extinguished the fire. Security services are conducting forensic analysis of the wreckage and the cause remains under investigation. No group has claimed responsibility and Iraqi authorities have not issued a statement."
-    },
-    {
-      "id": "mkt:019ee681-32cd-7dd8-b0a1-a2651ad5a025",
-      "time": "2026-06-21 03:28:07",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "【HEZBOLLAH says Israel bears full responsibility for ceasefire breach】HEZBOLLAH said on the 20th, local time, that Israel bears \"full responsibility\" for violating a ceasefire announced the previous day after Israeli air strikes on southern and eastern Lebanon. HEZBOLLAH described the sustained strikes as \"not merely a violation of the ceasefire but naked aggression and a continuation of war, therefore Israeli authorities bear full responsibility.\""
-    },
-    {
-      "id": "4945976",
-      "time": "2026-06-21 03:27:32",
-      "tags": [
-        "國際"
-      ],
-      "text": "【黎真主黨稱以色列應對違反停火負“全部責任”】黎巴嫩真主黨當地時間20日在宣告中稱，以色列應對違反前一天宣佈的停火協議負“全部責任”。此前，以色列空襲了黎巴嫩南部和東部地區。真主黨表示，以色列持續不斷的襲擊“不再僅僅是違反停火協議，而是赤裸裸的侵略，是戰爭的延續。因此，以色列當局負有全部責任。”"
-    },
-    {
-      "id": "4945975",
-      "time": "2026-06-21 03:25:36",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗宣稱墨西哥為本屆世界盃冠軍。"
     }
   ]
 }
