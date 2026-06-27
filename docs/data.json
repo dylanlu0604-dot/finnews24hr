@@ -1,7 +1,20 @@
 {
-  "updated": "2026-06-27 17:36:08",
-  "count": 18188,
+  "updated": "2026-06-27 17:40:25",
+  "count": 18186,
   "items": [
+    {
+      "id": "mkt:019f0872-0bef-7dd8-b141-86715e495698",
+      "time": "2026-06-27 17:38:39",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "DXY",
+        "S&P500",
+        "Impact bullish"
+      ],
+      "text": "UAE foreign minister praised efforts by Lebanon and Israel to reach a framework agreement."
+    },
     {
       "id": "mkt:019f086b-e6a9-7dd8-b141-79be7d50ca1d",
       "time": "2026-06-27 17:31:56",
@@ -166366,31 +166379,6 @@
         "DXY"
       ],
       "text": "Al Arabiya cited sources saying Lebanon is the main sticking point in ongoing negotiations. The Iranian delegation warned it would withdraw from the talks if Israel continued strikes in Lebanon."
-    },
-    {
-      "id": "4945764",
-      "time": "2026-06-20 17:37:33",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【日本近29萬份泡麵疑似混入異物被召回】據日本媒體報道，日本日清食品公司6月19日宣佈，因生產的部分杯裝泡麵中混入異物，公司決定在全日本範圍召回已出貨的近29萬份產品。該公司調查發現，這款泡麵中所含異物為約10毫米大小的藍色合成樹脂片，混入原因尚不清楚。日清公司說，這款產品由合作廠商“東日本明星株式會社埼玉工廠”今年3月10日生產，保質期至9月10日。生產當天，這家工廠用於投入粉狀調料的裝置因發生故障更換過零部件。由於擔憂同一批次其他產品也混入異物，日清公司決定召回共計28.7萬份“日清杯裝醬汁炒麵”。目前尚未發現有消費者因食用這款產品出現健康問題。（央視財經）"
-    },
-    {
-      "id": "4945763",
-      "time": "2026-06-20 17:37:00",
-      "tags": [
-        "其他"
-      ],
-      "text": "德國慕尼黑髮生貨運列車相撞事故，造成一人死亡。"
-    },
-    {
-      "id": "4945762",
-      "time": "2026-06-20 17:36:23",
-      "tags": [
-        "國際"
-      ],
-      "text": "巴基斯坦內政部長納克維抵達伊朗馬什哈德。 他將前往伊瑪目禮薩聖陵參訪，並舉行一系列政治會談，然後將前往德黑蘭。"
     }
   ]
 }
