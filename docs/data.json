@@ -1,7 +1,15 @@
 {
-  "updated": "2026-06-27 19:51:06",
-  "count": 18210,
+  "updated": "2026-06-27 19:55:09",
+  "count": 18207,
   "items": [
+    {
+      "id": "4958392",
+      "time": "2026-06-27 19:52:04",
+      "tags": [
+        "公司"
+      ],
+      "text": "【陝西省委書記、省長和王傳福座談】6月26日，陝西省委書記趙一德、省長趙剛在西安與比亞迪股份有限公司董事長王傳福一行座談。趙一德代表省委和省政府對王傳福一行來陝表示歡迎，向比亞迪長期以來給予陝西經濟社會發展的支援表示感謝。他說，陝西與比亞迪具有深厚淵源和堅實合作基礎，希望比亞迪一如既往支援陝西、投資陝西、紮根陝西，進一步發揮行業龍頭作用，在整車生產、高階製造、技術研發等方面加大布局力度，協同推動新能源汽車產業再創新優勢，為陝西高質量發展現代化建設增勢賦能。我們將持續營造一流營商環境，為企業在陝發展創造良好條件、提供優質服務。"
+    },
     {
       "id": "4958391",
       "time": "2026-06-27 19:46:52",
@@ -166562,38 +166570,6 @@
         "其他"
       ],
       "text": "國際原子能機構（IAEA）：派駐紮波羅熱核電站（ZNPP）的國際原子能機構小組報告稱，核電站應急柴油發電機已啟動執行，為堆芯冷卻及其他必要核安全功能提供備用電力。"
-    },
-    {
-      "id": "mkt:019ee4e2-01e7-7dd8-b09e-c5dda4f03ee0",
-      "time": "2026-06-20 19:54:37",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Trump criticizes Italian PM Meloni, alleges denial of airfield access and opposition to US Iran policy】US President Trump said Italian Prime Minister Meloni repeatedly tried to get photos with him at the G7 while opposing the US stance on preventing Iran from acquiring nuclear weapons. He alleged Meloni refused US use of Italian airfields, causing major logistical problems despite the United States investing hundreds of billions of dollars annually to defend Italy and other NATO allies. Trump added that, after the US had 'militarily defeated' Iran, Meloni sought to repair relations to boost her domestic support; he said he rejected the overture."
-    },
-    {
-      "id": "4945798",
-      "time": "2026-06-20 19:54:36",
-      "tags": [
-        "其他"
-      ],
-      "text": "國際原子能機構（IAEA）：扎波羅熱核電站今日在軍事衝突中第20次失去外部電力供應。"
-    },
-    {
-      "id": "4945797",
-      "time": "2026-06-20 19:52:33",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：在法國舉行的七國集團峰會期間，義大利總理喬治婭·梅洛尼反覆要求與我合影。她在義大利的支援率很低，這可能是因為她拒絕了真正熱愛並保護義大利的美國，拒絕了美國阻止伊朗獲取或發展核武器的立場（但北約也同樣如此！）。她甚至不允許我們使用義大利的簡易機場或跑道，這給我們造成了極大的後勤不便。儘管美國每年為保護義大利和其他所謂的北約盟國提供數千億美元的援助。現在，在美國軍事上擊敗伊朗之後，她又想和美國重新建立友好關係，以提升自己的支援率。謝了，不用了！"
-    },
-    {
-      "id": "4945794",
-      "time": "2026-06-20 19:52:00",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：梅洛尼不讓我們使用義大利的簡易機場。"
     }
   ]
 }
