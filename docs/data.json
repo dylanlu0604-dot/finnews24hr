@@ -1,7 +1,31 @@
 {
-  "updated": "2026-06-27 21:11:05",
-  "count": 18184,
+  "updated": "2026-06-27 21:15:07",
+  "count": 18178,
   "items": [
+    {
+      "id": "4958428",
+      "time": "2026-06-27 21:13:52",
+      "tags": [
+        "國際"
+      ],
+      "text": "卡達外交部：我們強調，必須避免該地區遭受無端襲擊的後果，並繼續走對話與緩和局勢的道路。"
+    },
+    {
+      "id": "4958427",
+      "time": "2026-06-27 21:13:35",
+      "tags": [
+        "國際"
+      ],
+      "text": "卡達外交部：我們譴責伊朗使用無人機對巴林的襲擊，認為這是對其主權的侵犯以及對國際法規則的違反。"
+    },
+    {
+      "id": "4958425",
+      "time": "2026-06-27 21:10:40",
+      "tags": [
+        "其他"
+      ],
+      "text": "法國急救機構訊息：過去 24 小時內，僅巴黎市就已有 109 人因熱浪死亡。"
+    },
     {
       "id": "4958423",
       "time": "2026-06-27 21:03:17",
@@ -166297,89 +166321,6 @@
         "國際"
       ],
       "text": "萬斯：沒有證據表明伊朗正在封鎖霍爾木茲海峽。"
-    },
-    {
-      "id": "mkt:019ee52b-7015-7dd8-b09f-519c35dca401",
-      "time": "2026-06-20 21:14:49",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Mehr news agency reported Iran's Supreme Joint Military Command said closure of the Strait of Hormuz is the first step and warned it would take further measures if 'aggression continues'."
-    },
-    {
-      "id": "4945837",
-      "time": "2026-06-20 21:14:18",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗最高聯合軍事指揮部稱，關閉霍爾木茲海峽是“第一步”，並警告稱，如果“侵略行為繼續下去”，將採取進一步措施。"
-    },
-    {
-      "id": "4945836",
-      "time": "2026-06-20 21:13:09",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "伊朗最高聯合軍事司令部稱，由於美國和以色列涉嫌違反停火諒解備忘錄，霍爾木茲海峽已關閉。"
-    },
-    {
-      "id": "4945835",
-      "time": "2026-06-20 21:12:55",
-      "tags": [
-        "國際"
-      ],
-      "text": "萬斯：威特科夫正在處理伊朗談判的技術性問題。"
-    },
-    {
-      "id": "4945834",
-      "time": "2026-06-20 21:12:43",
-      "tags": [
-        "國際"
-      ],
-      "text": "萬斯：將追查伊朗的濃縮鈾庫存。"
-    },
-    {
-      "id": "mkt:019ee529-4759-7dd8-b09f-4bd6e766c82e",
-      "time": "2026-06-20 21:12:28",
-      "tags": [
-        "MKT News",
-        "Important",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "Mehr News Agency reported Iran's Supreme Joint Military Command said the Strait of Hormuz will be closed to shipping."
-    },
-    {
-      "id": "4945833",
-      "time": "2026-06-20 21:12:11",
-      "tags": [
-        "國際"
-      ],
-      "text": "【伊朗外長在德黑蘭會見到訪的巴基斯坦內政部長】當地時間20日，巴基斯坦內政部長納克維在伊朗德黑蘭與伊朗外交部長阿拉格齊舉行會見。據悉，納克維將在此次訪問期間跟進美伊談判的推進情況。（央視新聞）"
-    },
-    {
-      "id": "4945832",
-      "time": "2026-06-20 21:11:34",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗最高聯合軍事指揮部稱，霍爾木茲海峽將對船隻關閉。（邁赫爾通訊社）"
-    },
-    {
-      "id": "mkt:019ee528-195d-7dd8-b09f-46f56fb15433",
-      "time": "2026-06-20 21:11:10",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bearish",
-        "DXY",
-        "S&P500",
-        "Impact bullish"
-      ],
-      "text": "According to Fox News, U.S. Vice President Vance said he would offer Iran an opportunity to negotiate."
     }
   ]
 }
