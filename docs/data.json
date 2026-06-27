@@ -1,7 +1,15 @@
 {
-  "updated": "2026-06-27 13:35:58",
+  "updated": "2026-06-27 13:40:07",
   "count": 18206,
   "items": [
+    {
+      "id": "4958252",
+      "time": "2026-06-27 13:37:56",
+      "tags": [
+        "其他"
+      ],
+      "text": "【WPS回應C盤佔用問題：將上線磁碟儲存管理功能】6月27日，針對近期使用者集中反饋的C盤佔用問題，WPS方面表示已完成排查並啟動最佳化，將於7月上線的新版本在安裝介面增加了路徑選擇功能；在使用環節，WPS在設定頁新增了\"儲存管理\"模組，快取、檔案備份、雲文件快取等各類檔案的佔用與可釋放空間集中展示。WPS表示，快取與備份預設存放在C盤、佔用情況不夠直觀，確實給部分高頻使用者造成了困擾，此次最佳化的核心邏輯是\"安裝有選擇、使用可管理\"，讓使用者從安裝到使用的每個環節中，都能清楚瞭解本地佔用了多少、哪些可以清理，並隨時自主管理。"
+    },
     {
       "id": "4958251",
       "time": "2026-06-27 13:32:22",
@@ -166572,14 +166580,6 @@
         "MKT News"
       ],
       "text": "Swiss Foreign Ministry said the agreement text was electronically signed in the early hours of May 18, removing the urgency of holding a meeting in Switzerland. The ministry plans to hold a meeting in the coming days."
-    },
-    {
-      "id": "4945686",
-      "time": "2026-06-20 13:39:36",
-      "tags": [
-        "其他"
-      ],
-      "text": "一家權威海上安全資訊機構提示商船：晝夜均可經霍爾木茲海峽南側航道通行，航行期間需持續開啟船舶自動識別系統及應答器訊號。"
     }
   ]
 }
