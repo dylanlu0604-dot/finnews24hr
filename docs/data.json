@@ -1,7 +1,31 @@
 {
-  "updated": "2026-06-27 17:48:47",
+  "updated": "2026-06-27 17:52:59",
   "count": 18192,
   "items": [
+    {
+      "id": "4958344",
+      "time": "2026-06-27 17:49:53",
+      "tags": [
+        "國際"
+      ],
+      "text": "【馬克龍回應法國極端高溫：不能用既有適應模式應對】針對多日來法國遭遇的極端熱浪，法國總統馬克龍6月26日表示，法國在氣候變化適應方面已做出大量工作，但同時承認本輪高溫極端且前所未有。 馬克龍指出，這次高溫在歐洲歷史上沒有先例，不僅持續時間長，而且氣溫較季節平均水平高出了15攝氏度。這種“熱浪峰值”是此前從未出現的情況，因此不能簡單用既有適應模式來應對。馬克龍在講話中還表示，過去幾年法國已持續推動了住房、公共建築及基礎設施的能源轉型與氣候適應改造。 馬克龍還強調，極端高溫天氣正在變得越來越頻繁和強烈。在這樣的背景下，如何在長期減排和適應新常態之間找到平衡，正在成為歐洲多國共同應對的課題。"
+    },
+    {
+      "id": "mkt:019f087b-7ef9-7dd8-b141-98c9d10c44bd",
+      "time": "2026-06-27 17:48:58",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "DXY",
+        "Impact bullish",
+        "XAUUSD",
+        "Impact mixed",
+        "Nikkei 225",
+        "Impact bearish"
+      ],
+      "text": "【China, Russia conduct 11th joint strategic air patrol】On June 27 Chinese and Russian air forces conducted their 11th joint strategic air patrol over the Sea of Japan, the East China Sea and the western Pacific, saying the operation demonstrated joint resolve and capability to maintain regional peace and stability."
+    },
     {
       "id": "mkt:019f087a-75f0-7dd8-b141-9710c62505cd",
       "time": "2026-06-27 17:47:51",
@@ -166410,26 +166434,6 @@
         "其他"
       ],
       "text": "據德國媒體20日援引當地警方訊息報道，慕尼黑一座橋樑上當天凌晨發生兩列貨運火車相撞事故，導致1人死亡、1人重傷。（新華社）"
-    },
-    {
-      "id": "mkt:019ee472-1552-7dd8-b09e-49546559f8c0",
-      "time": "2026-06-20 17:52:22",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "Chip Wars",
-        "MU.O",
-        "Impact bullish"
-      ],
-      "text": "【PC memory and SSD shortages push costs higher; some laptop models up >20% since start of year】Multiple popular PC categories have seen price rises. Gaming laptops and several high-performance thin-and-light and creator models have increased, with some models more than 20% higher versus the start of the year despite June brand promotions. Dealers report retail increases of several hundred to several thousand yuan; brands are shifting focus from chasing volume to protecting margins. Manufacturers say core-component cost inflation is driving the moves and that further price increases remain possible. A PC company executive said the main cause is a sharp rise in storage-chip prices as AI development is consuming large amounts of storage capacity, tightening supply of memory and SSDs and pushing costs up; broader electronic-component price increases add extra cost, leaving firms unable to fully absorb the rise and forcing modest product price adjustments."
-    },
-    {
-      "id": "4945765",
-      "time": "2026-06-20 17:50:53",
-      "tags": [
-        "其他"
-      ],
-      "text": "【哈薩克阿克託別一加氣站發生火災致3死1傷】據哈通社20日訊息，哈薩克西部城市阿克託別一座加氣站19日晚發生火災，事故造成3人死亡、1人受傷。遇難者中包括2名未成年人。（中新網）"
     }
   ]
 }
