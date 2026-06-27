@@ -1,7 +1,79 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-06-28 01:04:16_
-_本檔包含 3469 則快訊，約 671364 字_
+_更新時間：2026-06-28 01:32:47_
+_本檔包含 3477 則快訊，約 671336 字_
+
+---
+
+### 2026-06-28 01:29:36  #MKT News
+
+CNN, citing US officials, said that when Iran claimed strikes on US military targets in the Middle East, US forces detected several drones that did not hit their targets.
+
+---
+
+### 2026-06-28 01:26:34  #其他
+
+【委內瑞拉地震1430人遇難3238人傷】委內瑞拉全國代表大會主席豪爾赫·羅德里格斯當地時間6月27日下午通報，地震已造成1430人遇難、3238人受傷。（CCTV國際時訊）
+
+---
+
+### 2026-06-28 01:22:41  #其他
+
+委內瑞拉議長豪爾赫·羅德里格斯表示，（局勢已造成）3238人受傷，3142人無家可歸。
+
+---
+
+### 2026-06-28 01:21:00  #其他
+
+委內瑞拉議長豪爾赫·羅德里格斯表示，委內瑞拉地震遇難人數已升至1430人。
+
+---
+
+### 2026-06-28 01:19:48  #國際
+
+黎巴嫩國家通訊社報道，以黎兩國簽署協議、為和談鋪路次日，以色列軍方對黎巴嫩南部發動無人機及空襲。當地時間傍晚6時30分，以色列戰機空襲了上納巴提耶一處不明目標。當日下午早些時候，無人機已對城鎮廣場與曼扎拉社群實施四輪打擊。
+
+---
+
+### 2026-06-28 01:18:45  #其他
+
+【巴基斯坦安全部隊擊斃5名恐怖分子】巴基斯坦警方訊息人士27日說，巴安全部隊當晚成功挫敗一起針對南部城市卡拉奇一處準軍事部隊總部的恐怖襲擊，並當場擊斃5名恐怖分子。此前，據當地媒體報道，卡拉奇一條主要街道發生爆炸並傳出槍聲，安全部隊趕往現場。（新華社）
+
+---
+
+### 2026-06-28 01:18:35  #MKT News
+
+【Pakistan security forces kill 5 militants】Pakistani security forces foiled an attack on a paramilitary headquarters in Karachi on the night of the 27th and killed five suspected militants at the scene, police said.
+
+---
+
+### 2026-06-28 01:14:14  #MKT News #S&P500 #Impact bullish #DXY #Impact bearish #WTI
+
+Israeli Broadcasting Corporation, citing sources, says Israel's military plans to withdraw tomorrow from two experimental areas in southern Lebanon.
+
+---
+
+### 2026-06-28 01:11:17  #其他
+
+市場資訊：塞爾維亞總統亞歷山大·武契奇稱將在數週內辭職，預示將提前舉行大選。
+
+---
+
+### 2026-06-28 01:11:13  #MKT News
+
+Serbian President Vucic said he will resign within weeks, indicating early elections.
+
+---
+
+### 2026-06-28 01:07:22  #公司 #國際
+
+美國廣播公司：週六霍爾木茲海峽襲擊油輪的無人機來自伊朗。
+
+---
+
+### 2026-06-28 01:04:55  #國際
+
+【美國猶他州因野火宣佈進入緊急狀態】全美12個州現有至少37處火情持續燃燒，其中包含猶他州史上破壞程度最嚴重的野火，該州宣佈進入緊急狀態。
 
 ---
 
@@ -20926,29 +20998,5 @@ Japan's Nikkei 225 opened down 668.60 points, or 0.92%, at 71,697.74 on Friday, 
 ### 2026-06-26 07:48:47  #MKT News #Market Themes #The Trump Trade
 
 【Trump says US will use unfrozen Iranian assets to buy US farm commodities】On June 25 at a White House event with US farmers, President Trump said the US will soon use unfrozen Iranian assets to purchase large quantities of US wheat, soybeans and corn, saying Iran currently faces food-supply difficulties and the program will begin shortly and be large in scale. US officials have repeatedly said Iran would use thawed funds to buy US agricultural goods; Iran denies those claims.
-
----
-
-### 2026-06-26 07:48:04  #國際
-
-【特朗普稱將用伊朗的錢買美國農產品】當地時間6月25日，美國總統特朗普在白宮一場活動上對美國農場主稱，美國“有一個新市場即將開啟，那就是伊朗”。按照特朗普的說法，美國將很快動用解凍的伊朗資產，從美國農場主手中購買小麥、大豆和玉米。特朗普稱，“他們（伊朗）眼下糧食供應很困難，而我們要拿走他們的一部分錢——我們會花掉這筆錢，用來購買小麥、大豆和玉米，大量採購，這個過程很快就會啟動。規模會很大。”美國方面近來已多次稱“伊朗將用解凍的資金購買美國農產品”，伊朗則堅決否認。伊朗首席談判代表、伊朗議會議長卡利巴夫6月25日重申，美方所謂“伊朗將動用解凍資產購買美國農產品”的說法純屬無稽之談。 (CCTV國際時訊)
-
----
-
-### 2026-06-26 07:47:47  #公司 #國際 #原創
-
-【三星據悉將於下週宣佈在韓國投資1000萬億韓元計劃】據當地媒體週五報道，三星集團將於下週一（6月29日）宣佈未來10年內在韓國投資1000萬億韓元（約合6475.3 億美元）的計劃，其中包括可能投資300萬億韓元在韓國西南部建設晶片工廠。報道稱，三星會長李在鎔將在韓國總統李在明在青瓦臺主持的會議上宣佈這一訊息。包括三星及其競爭對手SK海力士在內的多家公司高管將出席此次會議，公佈針對首爾以外地區及附近城市的投資計劃。這些晶片製造商的生產設施集中在首爾周邊地區，如今面臨著加大對韓國其他地區投資的壓力。
-
----
-
-### 2026-06-26 07:47:15  #資料 #市場 #央行 #國際
-
-【東京通脹加速 對日本央行進一步加息構成支撐】東京關鍵通脹指標八個月來首次加速，這將使日本央行繼續保持在進一步加息的道路上。據週五公佈的資料顯示，東京6月不包括新鮮食品的消費者價格指數(CPI)同比上漲1.6%，與此前的預測中值相符。剔除生鮮食品和能源價格後的CPI上漲1.9%，這是日本央行密切關注的核心通脹指標。整體CPI上漲1.7%。東京CPI被認為是日本全國物價走勢的領先指標。CPI上漲主要受補貼結束後水費上漲的影響。能源價格則持續下跌，這得益於首相高市早苗實施的汽油補貼政策。CPI加速反映了政策制定者對通脹風險上升的擔憂。儘管日本通脹資料迄今為止受到政府旨在降低生活成本的臨時性計劃的抑制，但週五公佈的資料將支援日本央行上調利率的立場。
-
----
-
-### 2026-06-26 07:46:37  #MKT News #Market Regions #Greater China
-
-【China launches 12th national centralized volume-based drug procurement covering 65 drugs】The National Healthcare Security Administration has launched the 12th national centralized volume-based drug procurement, including 65 drug products. The selection covers oncology and key chronic-disease therapies.
 
 ---

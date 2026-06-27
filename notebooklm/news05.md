@@ -1,7 +1,91 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-06-28 01:04:16_
-_本檔包含 3532 則快訊，約 671168 字_
+_更新時間：2026-06-28 01:32:47_
+_本檔包含 3534 則快訊，約 670640 字_
+
+---
+
+### 2026-06-22 21:19:48  #公司
+
+【帝科股份：控股股東及其一致行動人擬協議轉讓5%股份】帝科股份公告稱，控股股東史衛利及其一致行動人尚輝嘉、迪銀科，擬以62.60元/股的價格，將合計726.4萬股（佔總股本5.00%）無限售流通股，轉讓給富海東超管理的富海東超專享一號私募證券投資基金，轉讓總價4.55億元。受讓方承諾過戶登記完成後12個月內不減持。本次轉讓不觸及要約收購，不影響控股權，尚需深交所稽核透過及辦理過戶，存在不確定性。
+
+---
+
+### 2026-06-22 21:19:21  #公司
+
+【首單央企商業不動產REITs專案獲批】6月22日，華夏保利發展封閉式商業不動產證券投資基金（簡稱“華夏保利商業REIT”）正式獲得中國證監會准予註冊的批覆以及上海證券交易所無異議函。此專案不僅是首單央企商業不動產REITs，同時也是保利發展控股在商業資產證券化方面的標誌性突破。華夏保利商業REIT的獲批，既為資本市場提供優質商業不動產投資選項，更將持續發揮行業標杆效應，為房企存量資產盤活、輕重資產分離轉型提供可複製的實踐路徑，助力我國商業不動產市場與公募REITs行業高質量發展。（人民財訊）
+
+---
+
+### 2026-06-22 21:19:06  #市場
+
+現貨白銀<XAG=>上漲3%，報每盎司67.12美元。
+
+---
+
+### 2026-06-22 21:18:52  #MKT News #Market Regions #Europe & UK #EURUSD #Impact bearish #DXY #Impact bullish #DAX
+
+German government bonds extended gains; 2-year Bund yield fell 5 bps to 2.59%.
+
+---
+
+### 2026-06-22 21:18:38  #國際
+
+歐洲理事會主席科斯塔：我們需要推遲歐盟-英國峰會。
+
+---
+
+### 2026-06-22 21:18:30  #MKT News
+
+U.S. Treasury says the general license does not authorize transactions involving Cuba, Ukraine or other countries.
+
+---
+
+### 2026-06-22 21:18:07  #MKT News #Market Regions #Europe & UK
+
+European Council President Costa said he hopes the successor to UK Prime Minister Starmer will maintain continuity.
+
+---
+
+### 2026-06-22 21:17:54  #MKT News #Market Regions #Europe & UK #EURUSD #Impact bearish #DXY #Impact bullish
+
+【ECB's Lagarde says no stronger policy response needed for Middle East conflict fallout】ECB President Lagarde said the bank does not need a stronger policy response to fallout from the Middle East conflict because inflation is expected to return to target in the medium term. Speaking to MEPs in Brussels, she said households do not expect price rises to persist, which supports the view that, with 'appropriate monetary policy action', inflation can fall from above 3% toward 2%. She added there are currently no signs of inflation expectations de-anchoring or second‑round effects that would require a stronger policy response.
+
+---
+
+### 2026-06-22 21:17:53  #MKT News #Commodities #Energy
+
+Qatar's energy minister says explosion poses no environmental risk.
+
+---
+
+### 2026-06-22 21:17:51  #MKT News #GBPUSD #Impact bearish #DXY #Impact bullish
+
+European Council President Costa said the EU-UK summit needs to be postponed.
+
+---
+
+### 2026-06-22 21:17:18  #其他
+
+英偉達：面向Linux與Linux+QNX作業系統註冊開發者開放搶先體驗的NVIDIA IGX平臺NVIDIA HALOS核心。
+
+---
+
+### 2026-06-22 21:17:06  #宏觀 #國際
+
+美國財政部：該通用許可不授權任何涉及古巴、烏克蘭的交易。
+
+---
+
+### 2026-06-22 21:16:55  #其他
+
+卡達：事態已完全受控，未造成環境影響。
+
+---
+
+### 2026-06-22 21:16:54  #MKT News #Commodities #Energy #WTI #Impact bearish #Brent
+
+The new U.S. general license authorizes transactions including imports of crude oil, petrochemical products and petroleum products into the United States.
 
 ---
 
@@ -21227,77 +21311,5 @@ Al Arabiya TV reported Pakistan's interior minister arrived in Tehran and met wi
 ### 2026-06-21 01:32:58  #國際
 
 巴基斯坦內政部長穆赫辛·納克維抵達德黑蘭，會見伊朗內政部長埃斯坎達爾·穆梅尼、外交部長阿巴斯·阿拉格齊及其他官員。當前各方正持續開展外交斡旋，推動調解程序，並就中東地區長期和平事宜展開磋商。
-
----
-
-### 2026-06-21 01:30:33  #國際
-
-【學者：伊朗效仿特朗普採取“週末戰略”】卡達大學教授阿卜杜拉·班達爾·阿爾-埃泰比（Abdulla Banndar Al Eltaibi）表示，伊朗正在採取“週末策略”。他說：“這是特朗普過去常用的一種做法，目的是讓市場在週末期間不會作出反應。因此，他們（伊朗）實際上正在對特朗普以及調解方施加最大壓力，以霍爾木茲海峽為籌碼，換取黎巴嫩方面的安排。他們希望黎巴嫩境內的所有戰鬥都停止，作為恢復霍爾木茲海峽通行的條件。”
-
----
-
-### 2026-06-21 01:30:12  #其他
-
-巴基斯坦訊息人士：總理謝里夫將在數小時內啟程前往瑞士，出席美伊技術性談判。
-
----
-
-### 2026-06-21 01:29:57  #MKT News
-
-【Scholar: Iran adopting "weekend strategy" used by Trump】Qatar University professor Abdulla Banndar Al Eltaibi said Iran is adopting a "weekend strategy" — a tactic Trump used to limit market reaction over weekends. He said Iran is using the Strait of Hormuz as leverage to apply maximum pressure on Trump and mediators, seeking arrangements that would stop all fighting in Lebanon as a condition for restoring passage through the strait.
-
----
-
-### 2026-06-21 01:20:35  #其他 #焦點
-
-“木頭姐”凱西·伍德：我們完全沒料到這事，特斯拉自動駕駛計程車收到了一張75美元的罰單，該事件會直接納入我們的分析模型。
-
----
-
-### 2026-06-21 01:19:06  #MKT News
-
-Pakistan's prime minister and army chief will travel to Switzerland tomorrow to advance related negotiations, government sources said.
-
----
-
-### 2026-06-21 01:17:49  #MKT News #Important #Brent #Impact bullish #WTI #XAUUSD
-
-【IRGC warns vessels to stay away from Strait of Hormuz】CNN reported that after Iran announced on Saturday it would close the Strait of Hormuz, the Islamic Revolutionary Guard Corps' naval unit warned vessels not to approach the waterway. A state broadcaster reporter said the IRGC issued radio warnings and directly contacted ships, saying vessels attempting to transit could encounter sea mines or be targeted by Iranian naval forces. The reporter added vessel traffic in the Persian Gulf had fallen further compared with several hours earlier.
-
----
-
-### 2026-06-21 01:14:30  #其他
-
-巴基斯坦政府訊息人士：總理和陸軍參謀長將率領巴基斯坦代表團，並致力於促成會談。
-
----
-
-### 2026-06-21 01:10:41  #公司 #市場 #國際
-
-【可口可樂聘請重組專家協助Costa咖啡架構重組和運營最佳化】由於私募股權機構給出的收購報價未能達到20億美元的估值預期，可口可樂已正式擱置出售Costa咖啡的計劃。此次出售計劃作罷後，這家飲料巨頭如今將重心放在架構重組與運營最佳化上，以此提升旗下咖世家全渠道業務的盈利水平。各收購方出價均未達到可口可樂的估值目標，公司因此叫停Costa咖啡出售事宜。可口可樂在2018年斥資超50億美元收購了該咖啡連鎖品牌。可口可樂放棄出售方案，轉而整合Costa的各項業務，撤銷旗下“全球創投事業部”，將Costa連鎖品牌直接劃歸區域板塊管理，重點推進歐洲與中國市場的業務升級。本次重組旨在應對多重行業難題，包括成本持續上漲、咖啡豆價格波動以及消費者消費習慣轉變等。
-
----
-
-### 2026-06-21 01:08:46  #MKT News
-
-【ZELENSKIY warns Russian forces preparing large-scale attack】Ukrainian President ZELENSKIY said on Saturday Russian forces are preparing a large-scale attack on Ukraine and urged civilians to remain vigilant. In an evening video address he said: "It is especially important to closely monitor air-raid alerts tonight and in the coming hours."
-
----
-
-### 2026-06-21 01:08:07  #其他
-
-可口可樂聘請重組專家協助Costa咖啡。
-
----
-
-### 2026-06-21 01:05:06  #MKT News #Commodities #Energy #EURUSD #Impact bullish #Brent #Impact bearish #DXY
-
-IAEA: Ukraine's Zaporizhzhia nuclear plant was reconnected to the grid at 17:50 local time today, ending the latest external power outage after 4.5 hours.
-
----
-
-### 2026-06-21 01:04:34  #國際
-
-國際原子能機構（IAEA）：烏克蘭扎波羅熱核電站已於當地時間今日下午5點50分重新接入電網，本次場外供電中斷事件在持續4個半小時後結束。
 
 ---

@@ -1,7 +1,61 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-06-28 01:04:16_
-_本檔包含 3520 則快訊，約 671237 字_
+_更新時間：2026-06-28 01:32:47_
+_本檔包含 3515 則快訊，約 671237 字_
+
+---
+
+### 2026-06-23 23:22:18  #公司 #國際
+
+道達爾能源（TTEF.PA）CEO：道達爾必須投資建設可繞行霍爾木茲海峽的管道，例如途經阿布扎比、敘利亞的管線。這次危機給我們的教訓是，我們是最受中東影響的石油巨頭。
+
+---
+
+### 2026-06-23 23:22:14  #Trading Economics #Markets #United States #Currency #Importance 1
+
+Dollar Near 14-Month High — The dollar index rose for a fourth consecutive session to 101.3 on Tuesday, its highest level since April last year, extending gains as investors continued to price in the prospect of Fed rate hikes this year. The greenback also drew support from a flight to safety triggered by a sell-off in technology stocks. A hawkish message from the Fed last week has led markets to increase bets on monetary tightening, with traders now assigning a roughly 68% probability to a rate hike in September, up from 29% a week ago. Additional support came from stronger-than-expected flash S&P Global PMI data, which pointed to resilient economic activity in June. Investors will now turn their attention to this week's PCE inflation report, the Fed's preferred measure of inflation, for further clues on the path of interest rates. Among major currencies, the dollar posted its strongest gains against the Australian dollar and the euro.
+
+---
+
+### 2026-06-23 23:21:42  #MKT News
+
+【BOC Governor Macklem: Canada to see modest growth】BOC Governor Macklem said Canada should return to growth after two quarters of contraction, but the rebound will be modest. In a Q&A after a speech on global imbalances he said the economy is very weak and that uncertainty from US trade policy and high tariffs on steel, aluminum, autos and forest products is weighing on activity, notably business investment, which has fallen for five consecutive quarters.
+
+---
+
+### 2026-06-23 23:18:22  #MKT News
+
+Israel to consider allowing defense giants Israel Aerospace Industries (IAI) and Rafael to pursue IPOs in the US.
+
+---
+
+### 2026-06-23 23:18:18  #央行 #其他
+
+加拿大央行：放寬銀行資本監管規則並非解決投資不足問題的唯一手段。
+
+---
+
+### 2026-06-23 23:16:09  #公司 #國際
+
+市場訊息：以色列擬考慮為軍工巨頭以色列航空工業公司與拉斐爾先進防禦系統公司赴美上市。
+
+---
+
+### 2026-06-23 23:15:19  #MKT News #Market Regions #Emerging Markets #DXY #Impact bullish #USDJPY #EURUSD #Impact bearish
+
+Mexican peso dropped more than 1% against the dollar to 17.5480 per USD.
+
+---
+
+### 2026-06-23 23:15:08  #市場
+
+墨西哥比索跌幅擴大超 1%，兌美元匯率跌至 17.5480。
+
+---
+
+### 2026-06-23 23:14:49  #央行 #其他
+
+英國央行泰勒：在通脹向工資傳導層面，我的基準判斷是當前形勢更接近 2011 年，而非 2022 年。英國尚未出現明顯的二輪效應。
 
 ---
 
@@ -21170,89 +21224,5 @@ Qatar's energy minister said it is currently difficult to determine when operati
 ### 2026-06-22 21:19:50  #MKT News #CSI300 #Impact bullish #Hang Seng Index
 
 【China approves first central SOE commercial REIT】June 22 — Huaxia Poly Development Closed‑end Commercial Real Estate Investment Fund (Huaxia Poly Commercial REIT) received CSRC registration approval and a no‑objection letter from the Shanghai Stock Exchange. It is the first commercial REIT sponsored by a central state‑owned enterprise and marks a securitization milestone for Poly Development Holdings. Regulators say the REIT provides a tradable commercial real estate investment option, establishes a benchmark for asset recycling, and offers a replicable path for developers to unlock stock assets and pursue asset‑light transformation, supporting the development of China’s commercial real estate market and the public REITs industry.
-
----
-
-### 2026-06-22 21:19:48  #公司
-
-【帝科股份：控股股東及其一致行動人擬協議轉讓5%股份】帝科股份公告稱，控股股東史衛利及其一致行動人尚輝嘉、迪銀科，擬以62.60元/股的價格，將合計726.4萬股（佔總股本5.00%）無限售流通股，轉讓給富海東超管理的富海東超專享一號私募證券投資基金，轉讓總價4.55億元。受讓方承諾過戶登記完成後12個月內不減持。本次轉讓不觸及要約收購，不影響控股權，尚需深交所稽核透過及辦理過戶，存在不確定性。
-
----
-
-### 2026-06-22 21:19:21  #公司
-
-【首單央企商業不動產REITs專案獲批】6月22日，華夏保利發展封閉式商業不動產證券投資基金（簡稱“華夏保利商業REIT”）正式獲得中國證監會准予註冊的批覆以及上海證券交易所無異議函。此專案不僅是首單央企商業不動產REITs，同時也是保利發展控股在商業資產證券化方面的標誌性突破。華夏保利商業REIT的獲批，既為資本市場提供優質商業不動產投資選項，更將持續發揮行業標杆效應，為房企存量資產盤活、輕重資產分離轉型提供可複製的實踐路徑，助力我國商業不動產市場與公募REITs行業高質量發展。（人民財訊）
-
----
-
-### 2026-06-22 21:19:06  #市場
-
-現貨白銀<XAG=>上漲3%，報每盎司67.12美元。
-
----
-
-### 2026-06-22 21:18:52  #MKT News #Market Regions #Europe & UK #EURUSD #Impact bearish #DXY #Impact bullish #DAX
-
-German government bonds extended gains; 2-year Bund yield fell 5 bps to 2.59%.
-
----
-
-### 2026-06-22 21:18:38  #國際
-
-歐洲理事會主席科斯塔：我們需要推遲歐盟-英國峰會。
-
----
-
-### 2026-06-22 21:18:30  #MKT News
-
-U.S. Treasury says the general license does not authorize transactions involving Cuba, Ukraine or other countries.
-
----
-
-### 2026-06-22 21:18:07  #MKT News #Market Regions #Europe & UK
-
-European Council President Costa said he hopes the successor to UK Prime Minister Starmer will maintain continuity.
-
----
-
-### 2026-06-22 21:17:54  #MKT News #Market Regions #Europe & UK #EURUSD #Impact bearish #DXY #Impact bullish
-
-【ECB's Lagarde says no stronger policy response needed for Middle East conflict fallout】ECB President Lagarde said the bank does not need a stronger policy response to fallout from the Middle East conflict because inflation is expected to return to target in the medium term. Speaking to MEPs in Brussels, she said households do not expect price rises to persist, which supports the view that, with 'appropriate monetary policy action', inflation can fall from above 3% toward 2%. She added there are currently no signs of inflation expectations de-anchoring or second‑round effects that would require a stronger policy response.
-
----
-
-### 2026-06-22 21:17:53  #MKT News #Commodities #Energy
-
-Qatar's energy minister says explosion poses no environmental risk.
-
----
-
-### 2026-06-22 21:17:51  #MKT News #GBPUSD #Impact bearish #DXY #Impact bullish
-
-European Council President Costa said the EU-UK summit needs to be postponed.
-
----
-
-### 2026-06-22 21:17:18  #其他
-
-英偉達：面向Linux與Linux+QNX作業系統註冊開發者開放搶先體驗的NVIDIA IGX平臺NVIDIA HALOS核心。
-
----
-
-### 2026-06-22 21:17:06  #宏觀 #國際
-
-美國財政部：該通用許可不授權任何涉及古巴、烏克蘭的交易。
-
----
-
-### 2026-06-22 21:16:55  #其他
-
-卡達：事態已完全受控，未造成環境影響。
-
----
-
-### 2026-06-22 21:16:54  #MKT News #Commodities #Energy #WTI #Impact bearish #Brent
-
-The new U.S. general license authorizes transactions including imports of crude oil, petrochemical products and petroleum products into the United States.
 
 ---

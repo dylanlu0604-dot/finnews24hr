@@ -1,7 +1,31 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-06-28 01:04:16_
-_本檔包含 3773 則快訊，約 671227 字_
+_更新時間：2026-06-28 01:32:47_
+_本檔包含 3767 則快訊，約 670704 字_
+
+---
+
+### 2026-06-26 07:48:04  #國際
+
+【特朗普稱將用伊朗的錢買美國農產品】當地時間6月25日，美國總統特朗普在白宮一場活動上對美國農場主稱，美國“有一個新市場即將開啟，那就是伊朗”。按照特朗普的說法，美國將很快動用解凍的伊朗資產，從美國農場主手中購買小麥、大豆和玉米。特朗普稱，“他們（伊朗）眼下糧食供應很困難，而我們要拿走他們的一部分錢——我們會花掉這筆錢，用來購買小麥、大豆和玉米，大量採購，這個過程很快就會啟動。規模會很大。”美國方面近來已多次稱“伊朗將用解凍的資金購買美國農產品”，伊朗則堅決否認。伊朗首席談判代表、伊朗議會議長卡利巴夫6月25日重申，美方所謂“伊朗將動用解凍資產購買美國農產品”的說法純屬無稽之談。 (CCTV國際時訊)
+
+---
+
+### 2026-06-26 07:47:47  #公司 #國際 #原創
+
+【三星據悉將於下週宣佈在韓國投資1000萬億韓元計劃】據當地媒體週五報道，三星集團將於下週一（6月29日）宣佈未來10年內在韓國投資1000萬億韓元（約合6475.3 億美元）的計劃，其中包括可能投資300萬億韓元在韓國西南部建設晶片工廠。報道稱，三星會長李在鎔將在韓國總統李在明在青瓦臺主持的會議上宣佈這一訊息。包括三星及其競爭對手SK海力士在內的多家公司高管將出席此次會議，公佈針對首爾以外地區及附近城市的投資計劃。這些晶片製造商的生產設施集中在首爾周邊地區，如今面臨著加大對韓國其他地區投資的壓力。
+
+---
+
+### 2026-06-26 07:47:15  #資料 #市場 #央行 #國際
+
+【東京通脹加速 對日本央行進一步加息構成支撐】東京關鍵通脹指標八個月來首次加速，這將使日本央行繼續保持在進一步加息的道路上。據週五公佈的資料顯示，東京6月不包括新鮮食品的消費者價格指數(CPI)同比上漲1.6%，與此前的預測中值相符。剔除生鮮食品和能源價格後的CPI上漲1.9%，這是日本央行密切關注的核心通脹指標。整體CPI上漲1.7%。東京CPI被認為是日本全國物價走勢的領先指標。CPI上漲主要受補貼結束後水費上漲的影響。能源價格則持續下跌，這得益於首相高市早苗實施的汽油補貼政策。CPI加速反映了政策制定者對通脹風險上升的擔憂。儘管日本通脹資料迄今為止受到政府旨在降低生活成本的臨時性計劃的抑制，但週五公佈的資料將支援日本央行上調利率的立場。
+
+---
+
+### 2026-06-26 07:46:37  #MKT News #Market Regions #Greater China
+
+【China launches 12th national centralized volume-based drug procurement covering 65 drugs】The National Healthcare Security Administration has launched the 12th national centralized volume-based drug procurement, including 65 drug products. The selection covers oncology and key chronic-disease therapies.
 
 ---
 
@@ -22703,65 +22727,5 @@ Micron Technology (MU.O) CEO said he expects capex of about $10 billion in the f
 ### 2026-06-25 04:15:57  #MKT News #MU.O #Impact bearish
 
 Micron Technology (MU.O) CEO said project-related operating expenses in fiscal 2027 are expected to rise by about $1 bln.
-
----
-
-### 2026-06-25 04:15:55  #其他
-
-【SpaceX投資者David George看好星艦 稱發展太空AI算力不可避免】SpaceX投資者、Andreessen Horowitz LLC普通合夥人David George表示，新型星艦火箭的“快速可重複使用”特性，對於實現埃隆·馬斯克利用軌道資料中心擴充套件AI算力的願景至關重要。George週三在接受採訪時表示，一旦星艦投入使用，將那些能力拓展至太空是不可避免的，因為地球上的AI資料中心容量正日益受限。他提出了一個看待這些未來衛星的新視角：“太空中飛機大小的GPU機架”。“至少，軌道資料中心將作為地球現有設施之外的補充算力存在於太空中，”George說，從經濟角度看，太空基礎設施最終可能比地面設施更具優勢。他還指出，SpaceX已經展示了部署此類系統的技術能力。
-
----
-
-### 2026-06-25 04:15:18  #MKT News #MU.O #Impact bullish
-
-Micron Technology (MU.O) CEO says the company plans to increase capital returns.
-
----
-
-### 2026-06-25 04:15:08  #公司 #觀點 #焦點 #國際
-
-高盛計劃將派息從每股4.50美元提高至每股5美元。
-
----
-
-### 2026-06-25 04:14:47  #公司 #其他 #焦點 #國際
-
-美光科技：目前無法預測記憶體供應何時能趕上需求；預計緊張局面將持續到2027年之後。
-
----
-
-### 2026-06-25 04:13:47  #MKT News #Important #MU.O #Impact bullish
-
-Micron Technology (MU.O) CEO said he cannot predict when memory supply will catch up to demand and expects the tight supply-demand balance to persist beyond 2027.
-
----
-
-### 2026-06-25 04:13:09  #MKT News #Market Themes #Chip Wars #MU.O #Impact bullish
-
-Micron Technology (MU.O) says R&D on next-generation DRAM and NAND nodes is progressing well and expects to begin mass production in H2 2027.
-
----
-
-### 2026-06-25 04:13:01  #MKT News #MU.O #Impact bullish
-
-Micron Technology (MU.O) said the mass-production ramp of its 12-layer HBM4 is currently twice that of the 12-layer HBM3E; the company has delivered more than $1 bln in cumulative HBM4 revenue.
-
----
-
-### 2026-06-25 04:12:45  #MKT News #Important #Market Themes #AI Revolution #MU.O #Impact bullish #Nasdaq100 #S&P500
-
-【Micron posts strong results, rises nearly 10% after hours】Micron Technology said it expects fourth fiscal-quarter revenue of $50.0 bln +/- $1.0 bln, above analysts' average forecast of $43.58 bln, and attributed strength to continued demand for AI-related infrastructure. The company said generative AI growth has made HBM and similar products essential for large data centres, driving sharp price gains. Third-quarter revenue was $41.4 bln, beating expectations of $35.4 bln. Micron shares rose about 10% in after-hours trading.
-
----
-
-### 2026-06-25 04:11:44  #公司
-
-高通執行長：公司將擴大與 Hugging Face 的戰略合作關係。
-
----
-
-### 2026-06-25 04:11:20  #MKT News #WTI #Impact bearish #Brent
-
-U.S. official says Trump will include language in a supplemental appropriations bill to allow year‑round sales of gasoline blended with a higher ethanol share.
 
 ---

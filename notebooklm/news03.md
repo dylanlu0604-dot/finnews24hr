@@ -1,7 +1,67 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-06-28 01:04:16_
-_本檔包含 3850 則快訊，約 671123 字_
+_更新時間：2026-06-28 01:32:47_
+_本檔包含 3851 則快訊，約 670986 字_
+
+---
+
+### 2026-06-25 04:15:55  #其他
+
+【SpaceX投資者David George看好星艦 稱發展太空AI算力不可避免】SpaceX投資者、Andreessen Horowitz LLC普通合夥人David George表示，新型星艦火箭的“快速可重複使用”特性，對於實現埃隆·馬斯克利用軌道資料中心擴充套件AI算力的願景至關重要。George週三在接受採訪時表示，一旦星艦投入使用，將那些能力拓展至太空是不可避免的，因為地球上的AI資料中心容量正日益受限。他提出了一個看待這些未來衛星的新視角：“太空中飛機大小的GPU機架”。“至少，軌道資料中心將作為地球現有設施之外的補充算力存在於太空中，”George說，從經濟角度看，太空基礎設施最終可能比地面設施更具優勢。他還指出，SpaceX已經展示了部署此類系統的技術能力。
+
+---
+
+### 2026-06-25 04:15:18  #MKT News #MU.O #Impact bullish
+
+Micron Technology (MU.O) CEO says the company plans to increase capital returns.
+
+---
+
+### 2026-06-25 04:15:08  #公司 #觀點 #焦點 #國際
+
+高盛計劃將派息從每股4.50美元提高至每股5美元。
+
+---
+
+### 2026-06-25 04:14:47  #公司 #其他 #焦點 #國際
+
+美光科技：目前無法預測記憶體供應何時能趕上需求；預計緊張局面將持續到2027年之後。
+
+---
+
+### 2026-06-25 04:13:47  #MKT News #Important #MU.O #Impact bullish
+
+Micron Technology (MU.O) CEO said he cannot predict when memory supply will catch up to demand and expects the tight supply-demand balance to persist beyond 2027.
+
+---
+
+### 2026-06-25 04:13:09  #MKT News #Market Themes #Chip Wars #MU.O #Impact bullish
+
+Micron Technology (MU.O) says R&D on next-generation DRAM and NAND nodes is progressing well and expects to begin mass production in H2 2027.
+
+---
+
+### 2026-06-25 04:13:01  #MKT News #MU.O #Impact bullish
+
+Micron Technology (MU.O) said the mass-production ramp of its 12-layer HBM4 is currently twice that of the 12-layer HBM3E; the company has delivered more than $1 bln in cumulative HBM4 revenue.
+
+---
+
+### 2026-06-25 04:12:45  #MKT News #Important #Market Themes #AI Revolution #MU.O #Impact bullish #Nasdaq100 #S&P500
+
+【Micron posts strong results, rises nearly 10% after hours】Micron Technology said it expects fourth fiscal-quarter revenue of $50.0 bln +/- $1.0 bln, above analysts' average forecast of $43.58 bln, and attributed strength to continued demand for AI-related infrastructure. The company said generative AI growth has made HBM and similar products essential for large data centres, driving sharp price gains. Third-quarter revenue was $41.4 bln, beating expectations of $35.4 bln. Micron shares rose about 10% in after-hours trading.
+
+---
+
+### 2026-06-25 04:11:44  #公司
+
+高通執行長：公司將擴大與 Hugging Face 的戰略合作關係。
+
+---
+
+### 2026-06-25 04:11:20  #MKT News #WTI #Impact bearish #Brent
+
+U.S. official says Trump will include language in a supplemental appropriations bill to allow year‑round sales of gasoline blended with a higher ethanol share.
 
 ---
 
@@ -23170,59 +23230,5 @@ TotalEnergies CEO said the company must invest in oil pipelines to bypass the St
 ### 2026-06-23 23:22:24  #國際
 
 【普京：俄方願基於伊斯坦布林協議等與烏談判】當地時間23日，俄羅斯總統普京在政府工作會議上表示，俄方願意在2022年春季伊斯坦布林達成的協議、2024年在外交部講話中闡述的原則、2025年安克雷奇會晤討論的模式以及地面現實的基礎上，與烏克蘭進行和平談判。他稱，和平談判是由烏克蘭方面主動中斷的。當前基輔透過對俄發動打擊，試圖為恢復中斷的談判創造有利條件。（央視新聞）
-
----
-
-### 2026-06-23 23:22:18  #公司 #國際
-
-道達爾能源（TTEF.PA）CEO：道達爾必須投資建設可繞行霍爾木茲海峽的管道，例如途經阿布扎比、敘利亞的管線。這次危機給我們的教訓是，我們是最受中東影響的石油巨頭。
-
----
-
-### 2026-06-23 23:22:14  #Trading Economics #Markets #United States #Currency #Importance 1
-
-Dollar Near 14-Month High — The dollar index rose for a fourth consecutive session to 101.3 on Tuesday, its highest level since April last year, extending gains as investors continued to price in the prospect of Fed rate hikes this year. The greenback also drew support from a flight to safety triggered by a sell-off in technology stocks. A hawkish message from the Fed last week has led markets to increase bets on monetary tightening, with traders now assigning a roughly 68% probability to a rate hike in September, up from 29% a week ago. Additional support came from stronger-than-expected flash S&P Global PMI data, which pointed to resilient economic activity in June. Investors will now turn their attention to this week's PCE inflation report, the Fed's preferred measure of inflation, for further clues on the path of interest rates. Among major currencies, the dollar posted its strongest gains against the Australian dollar and the euro.
-
----
-
-### 2026-06-23 23:21:42  #MKT News
-
-【BOC Governor Macklem: Canada to see modest growth】BOC Governor Macklem said Canada should return to growth after two quarters of contraction, but the rebound will be modest. In a Q&A after a speech on global imbalances he said the economy is very weak and that uncertainty from US trade policy and high tariffs on steel, aluminum, autos and forest products is weighing on activity, notably business investment, which has fallen for five consecutive quarters.
-
----
-
-### 2026-06-23 23:18:22  #MKT News
-
-Israel to consider allowing defense giants Israel Aerospace Industries (IAI) and Rafael to pursue IPOs in the US.
-
----
-
-### 2026-06-23 23:18:18  #央行 #其他
-
-加拿大央行：放寬銀行資本監管規則並非解決投資不足問題的唯一手段。
-
----
-
-### 2026-06-23 23:16:09  #公司 #國際
-
-市場訊息：以色列擬考慮為軍工巨頭以色列航空工業公司與拉斐爾先進防禦系統公司赴美上市。
-
----
-
-### 2026-06-23 23:15:19  #MKT News #Market Regions #Emerging Markets #DXY #Impact bullish #USDJPY #EURUSD #Impact bearish
-
-Mexican peso dropped more than 1% against the dollar to 17.5480 per USD.
-
----
-
-### 2026-06-23 23:15:08  #市場
-
-墨西哥比索跌幅擴大超 1%，兌美元匯率跌至 17.5480。
-
----
-
-### 2026-06-23 23:14:49  #央行 #其他
-
-英國央行泰勒：在通脹向工資傳導層面，我的基準判斷是當前形勢更接近 2011 年，而非 2022 年。英國尚未出現明顯的二輪效應。
 
 ---
