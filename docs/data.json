@@ -1,7 +1,23 @@
 {
-  "updated": "2026-06-28 01:20:34",
-  "count": 18144,
+  "updated": "2026-06-28 01:24:36",
+  "count": 18145,
   "items": [
+    {
+      "id": "4958547",
+      "time": "2026-06-28 01:22:41",
+      "tags": [
+        "其他"
+      ],
+      "text": "委內瑞拉議長豪爾赫·羅德里格斯表示，（局勢已造成）3238人受傷，3142人無家可歸。"
+    },
+    {
+      "id": "4958546",
+      "time": "2026-06-28 01:21:00",
+      "tags": [
+        "其他"
+      ],
+      "text": "委內瑞拉議長豪爾赫·羅德里格斯表示，委內瑞拉地震遇難人數已升至1430人。"
+    },
     {
       "id": "4958545",
       "time": "2026-06-28 01:19:48",
@@ -165995,15 +166011,6 @@
         "MKT News"
       ],
       "text": "【Scholar: Iran adopting \"weekend strategy\" used by Trump】Qatar University professor Abdulla Banndar Al Eltaibi said Iran is adopting a \"weekend strategy\" — a tactic Trump used to limit market reaction over weekends. He said Iran is using the Strait of Hormuz as leverage to apply maximum pressure on Trump and mediators, seeking arrangements that would stop all fighting in Lebanon as a condition for restoring passage through the strait."
-    },
-    {
-      "id": "4945942",
-      "time": "2026-06-21 01:20:35",
-      "tags": [
-        "其他",
-        "焦點"
-      ],
-      "text": "“木頭姐”凱西·伍德：我們完全沒料到這事，特斯拉自動駕駛計程車收到了一張75美元的罰單，該事件會直接納入我們的分析模型。"
     }
   ]
 }
