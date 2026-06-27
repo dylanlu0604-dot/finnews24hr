@@ -1,7 +1,39 @@
 {
-  "updated": "2026-06-28 00:43:57",
-  "count": 18148,
+  "updated": "2026-06-28 00:48:02",
+  "count": 18147,
   "items": [
+    {
+      "id": "4958533",
+      "time": "2026-06-28 00:47:12",
+      "tags": [
+        "國際"
+      ],
+      "text": "法國外交部：願為落實黎以框架協議提供支援。"
+    },
+    {
+      "id": "4958532",
+      "time": "2026-06-28 00:47:03",
+      "tags": [
+        "其他"
+      ],
+      "text": "法國通報：自6月18日以來，已有74人因熱浪溺水身亡。"
+    },
+    {
+      "id": "4958531",
+      "time": "2026-06-28 00:46:41",
+      "tags": [
+        "國際"
+      ],
+      "text": "法國外交部表示：以色列與黎巴嫩的框架協議必須為黎巴嫩完整主權的恢復鋪平道路。"
+    },
+    {
+      "id": "4958530",
+      "time": "2026-06-28 00:46:03",
+      "tags": [
+        "國際"
+      ],
+      "text": "法國外交部：對以色列與黎巴嫩達成協議表示歡迎，並承諾保障兩國安全。"
+    },
     {
       "id": "mkt:019f09f6-f4ed-7dd8-b142-fd262a4cab7f",
       "time": "2026-06-28 00:43:27",
@@ -166019,50 +166051,6 @@
         "XAUUSD"
       ],
       "text": "【Analysis: Trump says economic risk of Iran war weakens U.S. negotiating leverage】Trump said the prospect of global economic collapse was a key reason he signed a temporary peace agreement with Iran, exposing a central U.S. weakness ahead of the next negotiation round. Because Iran knows Trump is reluctant to restart military action—which would trigger fresh economic turmoil—the pressure on Iran to conclude talks quickly is reduced. U.S. domestic pressure may further intensify: a Maryland poll found 56% of Americans believe the war’s negative effects on U.S. interests outweigh the positive. Former State Department official Chris Kennedy said the memorandum of understanding’s 14 clauses leave Iran in an advantageous position on nuclear issues. The agreement also allows the original 60‑day negotiation period to be “extended,” implying talks could stretch for months. Former Treasury official Miad Maleki said the outcome is more favorable to Iran: Iran will not abandon its nuclear program for sanctions waivers it has already won, and while the U.S. could still escalate militarily, it has forfeited key economic leverage when it most needed it."
-    },
-    {
-      "id": "mkt:019ee5ee-7f58-7dd8-b0a0-bece90ab3045",
-      "time": "2026-06-21 00:47:53",
-      "tags": [
-        "MKT News",
-        "Brent",
-        "Impact bullish",
-        "WTI"
-      ],
-      "text": "ZELENSKIY confirmed Ukrainian forces carried out a drone strike on refinery facilities in Russia's Tyumen region."
-    },
-    {
-      "id": "4945931",
-      "time": "2026-06-21 00:46:26",
-      "tags": [
-        "國際"
-      ],
-      "text": "烏克蘭總統澤連斯基證實，俄羅斯秋明州的煉油設施遭無人機襲擊。"
-    },
-    {
-      "id": "4945930",
-      "time": "2026-06-21 00:44:50",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "伊朗革命衛隊海軍在霍爾木茲海峽附近無線電通告：因以色列在黎巴嫩採取軍事行動，且美國違背相關承諾，本海峽禁止一切船隻通航。所有船舶務必遠離海峽水域，以保障自身航行安全。"
-    },
-    {
-      "id": "mkt:019ee5eb-9cf5-7dd8-b0a0-b39226785fde",
-      "time": "2026-06-21 00:44:44",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Canada will hold a USMCA review meeting with the United States and Mexico on July 1."
-    },
-    {
-      "id": "mkt:019ee5eb-00be-7dd8-b0a0-af80e9241f04",
-      "time": "2026-06-21 00:44:04",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Iranian Students' News Agency reported President Pezeshkian met Pakistan's interior minister."
     }
   ]
 }
