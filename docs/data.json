@@ -1,7 +1,20 @@
 {
-  "updated": "2026-06-28 00:27:27",
+  "updated": "2026-06-28 00:31:34",
   "count": 18152,
   "items": [
+    {
+      "id": "mkt:019f09e9-d41f-7dd8-b142-ed9af3d8eab4",
+      "time": "2026-06-28 00:29:06",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "【Tanker hit in Strait of Hormuz as US-Iran tensions escalate】CNBC reported Saturday that a tanker in the Strait of Hormuz was struck by shelling, marking a fresh escalation in US‑Iran tensions after a prior temporary pact to halt hostilities. The UK Maritime Trade Operations Center said a vessel in the strait was hit by an \"unidentified flying object\"; the hull was damaged and the crew were reported safe. Bahrain condemned an Iranian drone strike as a \"blatant violation\" of its sovereignty. The incidents occurred amid a 60‑day ceasefire framework and negotiations to end the war; both sides accuse the other of breaching the agreement."
+    },
     {
       "id": "mkt:019f09e5-168a-7dd8-b142-e5a4610e855c",
       "time": "2026-06-28 00:23:56",
@@ -166082,16 +166095,6 @@
         "焦點"
       ],
       "text": "【多渡口停航停渡 廣西海事局將內河防汛應急響應提升為Ⅲ級】6月20日19時30分，廣西水文中心升級釋出洪水黃色預警，預計未來24小時，柳江將出現編號洪水，柳江柳州市城區河段將出現超警戒水位的洪水，廣西海事局於20時30分將內河防汛應急響應提升為Ⅲ級。截至20日20時30分，廣西內河轄區68個渡口、107艘渡船停航停渡管控；柳州水上公交、夜遊航線停航；桂林灕江旅遊排筏全線停航。未來三天廣西仍維持多降雨天氣。氣象部門預計，21—22日，廣西北部部分地區有中雨、局地大雨或暴雨並伴有短時雷暴大風等強對流天氣，民眾出行請注意防範。（央視新聞）"
-    },
-    {
-      "id": "mkt:019ee5db-cf7b-7dd8-b0a0-959b767dd52f",
-      "time": "2026-06-21 00:27:28",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Brent"
-      ],
-      "text": "【India: three Indian tankers transit Strait of Hormuz】Indian shipping minister Sarbananda Sonowal said on Saturday three Indian‑flagged tankers — Desh Vaibhav, Desh Vibhor and Sanmar Herald — have safely transited the Strait of Hormuz and are en route to India. The vessels are carrying more than 860,000 tonnes of oil and have 94 Indian crew aboard, he said on social media."
     }
   ]
 }
