@@ -1,7 +1,15 @@
 {
-  "updated": "2026-06-28 03:40:53",
-  "count": 18150,
+  "updated": "2026-06-28 03:44:56",
+  "count": 18149,
   "items": [
+    {
+      "id": "4958595",
+      "time": "2026-06-28 03:41:49",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗專家會議週六敦促與美方談判的伊朗官員嚴格恪守最高領袖穆傑塔巴劃定的紅線，告誡談判方切勿重蹈此前談判的覆轍，並堅稱伊朗核計劃相關事宜不得納入談判範疇。"
+    },
     {
       "id": "4958594",
       "time": "2026-06-28 03:39:04",
@@ -166047,22 +166055,6 @@
         "市場"
       ],
       "text": "巴基斯坦總理辦公室：總理兼陸軍元帥將出席6月21日在瑞士比爾根斯托克舉行的技術層面會談。"
-    },
-    {
-      "id": "4945979",
-      "time": "2026-06-21 03:41:18",
-      "tags": [
-        "其他"
-      ],
-      "text": "【巴基斯坦總理已啟程前往瑞士】據巴基斯坦媒體21日報道，巴基斯坦總理夏巴茲已啟程前往瑞士。（新華社）"
-    },
-    {
-      "id": "mkt:019ee68c-e2ae-7dd8-b0a1-b514adda2f6e",
-      "time": "2026-06-21 03:40:53",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Pakistan prime minister Shehbaz Sharif departs for Switzerland】Pakistan's prime minister Shehbaz Sharif has departed for Switzerland, Pakistani media reported on the 21st."
     }
   ]
 }
