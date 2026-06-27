@@ -1,7 +1,26 @@
 {
-  "updated": "2026-06-27 08:26:27",
+  "updated": "2026-06-27 08:30:13",
   "count": 18180,
   "items": [
+    {
+      "id": "mkt:019f067a-8699-7dd8-b13f-e8a27b27d667",
+      "time": "2026-06-27 08:28:40",
+      "tags": [
+        "MKT News",
+        "SSE Composite",
+        "Impact bullish",
+        "CSI300"
+      ],
+      "text": "【Shanghai Exchange adds 'quantum' to STAR Market industry list; industry cites faster industrialization, clearer policy support】The Shanghai Stock Exchange published draft amendments to STAR Market IPO filing and recommendation rules, revising secondary industry classifications for strategic emerging industries and adding \"quantum\" under the new‑generation information technology sector. Industry participants told reporters quantum technology is entering a new phase—industrialization is accelerating, expectations for investable capital and exit pathways are improving, and policy support is becoming more detailed—while firms still face common structural problems and gaps with overseas peers, calling for patience and resolve."
+    },
+    {
+      "id": "4958117",
+      "time": "2026-06-27 08:27:12",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【黑龍江省出臺急需緊缺技能人才精準供給專項方案】據黑龍江省人力資源和社會保障廳，近日，黑龍江省印發《黑龍江省急需緊缺技能人才精準供給專項工作方案》，圍繞裝備製造、人工智慧、現代服務等重點產業，建立“需求即時感知、培訓快速有效、人崗高效匹配”的閉環機制，著力破解技能人才供給與需求結構性矛盾。其中提到，聚焦人工智慧、先進製造、低空經濟、冰雪經濟等8大領域開展專項培訓，對人工智慧訓練師等急需緊缺職業試點“短平快”培訓專案，著力提升培訓轉化效率。《方案》明確，2026年6月底前重點領域供給效率明顯提升，8月底前建成快速響應平臺，11月底前精準供給機制覆蓋全省，重點產業用人需求滿足率持續提升。"
+    },
     {
       "id": "4958116",
       "time": "2026-06-27 08:20:39",
@@ -166298,22 +166317,6 @@
         "國際"
       ],
       "text": "【今年第7號颱風“米克拉”生成】據中央氣象臺訊息，今年第7號颱風“米克拉”生成！（英文名稱：Mekkhala；名字來源：泰國；名稱意義：雷電天使）。預計，“米克拉”將以每小時15～20公里左右的速度向西偏北方向移動，強度逐漸增強。"
-    },
-    {
-      "id": "4945541",
-      "time": "2026-06-20 08:30:05",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：巴基斯坦內政部長將前往德黑蘭與伊朗官員會面。"
-    },
-    {
-      "id": "mkt:019ee26e-efd0-7dd8-b09b-78e9e6920223",
-      "time": "2026-06-20 08:29:41",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Al Arabiya reports Pakistan's interior minister will travel to Tehran to meet Iranian officials."
     }
   ]
 }
