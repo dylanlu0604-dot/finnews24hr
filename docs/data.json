@@ -1,7 +1,25 @@
 {
-  "updated": "2026-06-28 05:00:39",
+  "updated": "2026-06-28 05:04:43",
   "count": 18151,
   "items": [
+    {
+      "id": "4958616",
+      "time": "2026-06-28 05:01:27",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場資訊：美國總統特朗普與黎巴嫩總統約瑟夫·奧恩的通話氛圍“積極、充滿支援意味”，奧恩或將受邀前往華盛頓。"
+    },
+    {
+      "id": "mkt:019f0ae2-b8ec-7770-9d1b-9c8c35b9ad78",
+      "time": "2026-06-28 05:00:58",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "Lebanon's presidential office said Trump told President Aoun the US will support Lebanon's economy and its legitimate security forces."
+    },
     {
       "id": "4958615",
       "time": "2026-06-28 04:58:12",
@@ -166048,26 +166066,6 @@
         "國際"
       ],
       "text": "特朗普：美國公園警察已逮捕多名破壞倒影池的人員。什麼人會做出這種事？破壞國家紀念建築屬於性質極其惡劣的罪行，涉案人員將面臨多年監禁！修繕工作將即刻啟動。"
-    },
-    {
-      "id": "mkt:019ee6d9-1fce-7dd8-b0a2-0d1755bcd6bb",
-      "time": "2026-06-21 05:04:09",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Europe & UK"
-      ],
-      "text": "According to the Observer, UK Prime Minister Starmer is expected to resign next Monday and begin an orderly handover."
-    },
-    {
-      "id": "4946004",
-      "time": "2026-06-21 05:03:55",
-      "tags": [
-        "其他",
-        "焦點"
-      ],
-      "text": "英國首相斯塔默預計將於下週一辭職，並將有序退出流程作出安排。"
     }
   ]
 }
