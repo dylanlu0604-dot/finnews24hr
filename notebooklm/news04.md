@@ -1,7 +1,25 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-06-28 06:34:50_
-_本檔包含 3500 則快訊，約 669895 字_
+_更新時間：2026-06-28 07:02:52_
+_本檔包含 3495 則快訊，約 669922 字_
+
+---
+
+### 2026-06-24 00:31:25  #MKT News #WTI #Impact bullish #Brent #XAUUSD
+
+【Pakistan PM says 'spoilers' trying to derail US-Iran talks】Pakistan Prime Minister Shehbaz Sharif told Al Jazeera that unspecified "spoilers" are trying to sabotage a US‑Iran agreement and the progress achieved. "There are spoilers across the world who want to destroy this peace agreement," he said without naming countries or parties, adding they "do not want Iran to rise from the ruins of war to a glorious peak."
+
+---
+
+### 2026-06-24 00:29:18  #MKT News
+
+Iranian President PEZESHKIAN said Pakistan's efforts were essential to today's achievements.
+
+---
+
+### 2026-06-24 00:28:40  #MKT News #Market Themes #AI Revolution #Market Regions #Japan & APAC #Nikkei 225 #Impact bullish #USDJPY #Impact bearish
+
+【Blackstone to invest $30 billion in Japanese AI data centers】Blackstone plans to invest $30 billion in AI data centers in Japan over the next three to five years, president and COO Jonathan Gray told Nikkei. The firm is negotiating to develop facilities exceeding 1 GW in Japan.
 
 ---
 
@@ -21082,53 +21100,5 @@ META：正在探索劇集系列、電視直播等新內容形式，計劃近期�
 ### 2026-06-22 22:02:15  #MKT News #Important #Market Regions #Europe & UK #EURUSD #Impact bearish #DXY #Impact bullish #DAX
 
 Euro area June consumer confidence (flash) -17.7; consensus -17.5; prior -19.
-
----
-
-### 2026-06-22 22:02:08  #MKT News #Economic Calendar #Important
-
-Eurozone | Consumer Confidence Flash Estimate (Jun) | actual -17.7 | consensus -17.5 | previous -19
-
----
-
-### 2026-06-22 22:01:35  #公司 #國際
-
-【Meta擬9億美元投資Cred並調整WhatsApp管理層】Meta擬向印度金融科技公司Cred投資約9億美元，獲得約20%股份，公司投後估值約45億美元。作為交易的一部分，Cred創始人Kunal Shah將接替Will Cathcart出任WhatsApp負責人，而Cathcart將轉任Meta內部AI相關新崗位。
-
----
-
-### 2026-06-22 22:01:13  #公司 #資料
-
-A24 與谷歌Deepmind達成人工智慧研究合作關係。
-
----
-
-### 2026-06-22 22:00:48  #國際
-
-巴基斯坦政府：伊朗總統此次訪問為伊美和平協議達成後討論“當前外交接觸”提供了契機。
-
----
-
-### 2026-06-22 22:00:26  #公司
-
-谷歌將投資獨立影視公司 A24 旗下工作室 Backrooms。
-
----
-
-### 2026-06-22 22:00:03  #國際
-
-巴基斯坦政府：伊朗總統將於6月23日訪問巴基斯坦。
-
----
-
-### 2026-06-22 21:59:55  #MKT News
-
-Pakistan government said Iran's president will visit Pakistan on June 23.
-
----
-
-### 2026-06-22 21:59:54  #公司
-
-【48名中國開發者聯名舉報蘋果】個人資訊認證為司法從業人員的公眾號“田軍偉”發文稱，元胞網路等48名中國iOS中小及個人開發者，已聯名向監管部門提交了《關於蘋果公司濫用中國市場壟斷地位的開發者舉報信》，認為蘋果公司已經違背對中國市場的“全球最低費率”承諾，請求監管部門依法審查。舉報信提出四方面請求：一是請求對蘋果公司濫用市場支配地位的違法行為予以查處；二是請求責令蘋果公司公平透明地對待中國iOS開發者，落實此前公開承諾；三是建立“自動對齊監督機制”，蘋果公司一旦在任一海外市場公佈新的費率下調或渠道開放政策，應當於同日在中國市場對照執行同等或更低的費率與渠道安排；四是請求書面反饋處理結果。 (上證報)
 
 ---

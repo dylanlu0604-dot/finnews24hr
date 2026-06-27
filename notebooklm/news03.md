@@ -1,7 +1,50 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-06-28 06:34:50_
-_本檔包含 3879 則快訊，約 669674 字_
+_更新時間：2026-06-28 07:02:52_
+_本檔包含 3881 則快訊，約 670111 字_
+
+---
+
+### 2026-06-25 06:26:36  #央行 #國際
+
+【週四重要財經資訊提醒（以下均為北京時間）】
+① 09:30 澳大利亞5月就業報告（含就業人數和失業率）；
+② 時間待定 日本央行審議委員田村直樹發表講話；
+③ 15:00 商務部召開6月第4次例行新聞釋出會；
+④ 16:00 歐洲央行釋出經濟報告；
+⑤ 17:00 歐洲央行管委、法國央行行長Moulin講話；
+⑥ 18:00 歐洲央行首席經濟學家Lane講話；
+⑦ 20:00 歐洲央行執委Cipollone講話，法國央行行長Moulin講話；
+⑧ 20:30 美國5月個人收入、個人消費開支（PCE），5月耐用品訂單初值，6月20日當週首次申請失業救濟人數；
+⑨ 20:45 美聯儲理事鮑曼談論小型銀行監督管理；
+⑩ 次日02:00 美國芝加哥聯儲主席Goolsbee（2027年FOMC票委）參加CNBC一個節目；
+⑪ 次日03:00 墨西哥央行公佈利率決議；
+⑫ 次日03:40 美國紐約聯儲主席（享有FOMC永久投票權、號稱美聯儲三把手）威廉姆斯講話；
+⑬ 次日06:30 美國芝加哥聯儲主席Goolsbee（2027年FOMC票委）討論塑造貨幣政策的那些因素。
+
+---
+
+### 2026-06-25 06:25:27  #其他
+
+大眾汽車：與貝恩資本簽署獨家協議，擬出售旗下 Everllence 多數股權。
+
+---
+
+### 2026-06-25 06:25:12  #其他
+
+【資金湧入科技成長ETF】在近期的震盪行情中，股票型ETF資金面總體淨流出，但半導體、通訊等科技成長賽道逆勢“吸金”。面對資金湧入，部分績優基金限購升級，也有基金大手筆分紅以控制規模。站在當前時點看，科技成長行情還能否持續？市場風格分化能否收斂？機構間的分歧正在加大。（上證報）
+
+---
+
+### 2026-06-25 06:24:42  #MKT News
+
+U.S. issues tsunami warning: coastal areas within 300 km of the earthquake epicenter in Venezuela may experience dangerous tsunami waves.
+
+---
+
+### 2026-06-25 06:23:42  #公司 #市場
+
+【年內淨自購逾70億元，公募基金釋放看多訊號】今年以來，公募基金持續出手自購，用真金白銀加碼A股市場、傳遞看多信心。Choice資料顯示，截至6月24日，年內公募基金對旗下產品的淨申購金額達73.5億元。其中，權益類產品成為資金佈局的核心，釋放出公募基金積極看多A股後市的訊號。具體來看：國泰中證A500ETF淨申購金額為4.7億元，在權益類產品中排名首位；東方紅慧鑫甄選6個月持有混合A淨申購金額為1.9億元，排名第二位；建信開元耀享9個月持有期混合發起A、富國鑫匯養老目標日期2035三年持有期混合發起式(FOF)A、國泰穩健收益一年持有混合、華泰紫金策略精選混合A、睿遠研選均衡三年持有混合發起式等產品的淨申購金額均超過1億元。從機構分佈看，頭部基金公司是自購主力軍：截至6月24日，國泰基金以年內淨申購旗下基金14.5億元居首；華寶基金緊隨其後，淨申購8.4億元；永贏基金、廣發基金、招商基金和嘉實基金年內淨申購金額均突破5億元。（上證報）
 
 ---
 
@@ -23389,23 +23432,5 @@ Iranian President Pezeshkian said Iran has extended a hand of friendship to Isla
 ### 2026-06-24 00:31:57  #央行 #國際
 
 【德意志銀行上調對短期美債收益率的預測】德意志銀行經濟學家Matthew Raskin、Steven Zang和Andrew Fu在週二的研報中寫道，經過上週的聯邦公開市場委員會會議後，該行如今預計美聯儲今年將分別在9月和12月加息，每次加息25個基點，使聯邦基金利率達到4.1%。報告指出，此次修正上調了該行對短期美債收益率的預測 —— 預計年底2年期美債收益率將達到4.3%（較此前的預測上調35個基點）。鑑於該行假設到2028年年中加息將逐步撤回，因此對長債收益率的影響較為有限。德意志銀行目前預計年底10年期美債收益率為4.8%（較此前的預測上調10個基點）。與市場遠期相比，該行對短端收益率的預測大體一致，但對收益率曲線的預測更為陡峭。
-
----
-
-### 2026-06-24 00:31:25  #MKT News #WTI #Impact bullish #Brent #XAUUSD
-
-【Pakistan PM says 'spoilers' trying to derail US-Iran talks】Pakistan Prime Minister Shehbaz Sharif told Al Jazeera that unspecified "spoilers" are trying to sabotage a US‑Iran agreement and the progress achieved. "There are spoilers across the world who want to destroy this peace agreement," he said without naming countries or parties, adding they "do not want Iran to rise from the ruins of war to a glorious peak."
-
----
-
-### 2026-06-24 00:29:18  #MKT News
-
-Iranian President PEZESHKIAN said Pakistan's efforts were essential to today's achievements.
-
----
-
-### 2026-06-24 00:28:40  #MKT News #Market Themes #AI Revolution #Market Regions #Japan & APAC #Nikkei 225 #Impact bullish #USDJPY #Impact bearish
-
-【Blackstone to invest $30 billion in Japanese AI data centers】Blackstone plans to invest $30 billion in AI data centers in Japan over the next three to five years, president and COO Jonathan Gray told Nikkei. The firm is negotiating to develop facilities exceeding 1 GW in Japan.
 
 ---
