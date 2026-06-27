@@ -1,7 +1,21 @@
 {
-  "updated": "2026-06-27 13:40:07",
-  "count": 18206,
+  "updated": "2026-06-27 13:44:16",
+  "count": 18204,
   "items": [
+    {
+      "id": "mkt:019f0798-44cf-7dd8-b140-b972ed680b67",
+      "time": "2026-06-27 13:40:47",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "CSI300",
+        "Impact bullish",
+        "Copper",
+        "CNH"
+      ],
+      "text": "【Compute-related products accelerate exports this year; Wuhan 800G+ optical module shipments surge over 100x YoY】China electromechanical exports hit 7.58 tln yuan in the first five months, accounting for 63.6% of total exports; monthly values have posted record highs for the comparable month for 15 consecutive months since March 2025. AI supply‑chain products contributed over 50% of this year’s incremental increase in electromechanical exports. Manufacturers report 24/7 production of key AI-server inputs, including electronic fabric. A Wuhan producer says exports of 800G+ optical modules have risen more than 100x YoY as global compute‑infrastructure buildout accelerates."
+    },
     {
       "id": "4958252",
       "time": "2026-06-27 13:37:56",
@@ -166556,30 +166570,6 @@
         "DXY"
       ],
       "text": "Lebanon's National News Agency (NNA) said Israel again carried out airstrikes on southern Lebanon's Jazin area, Sajid and the Rihan Heights."
-    },
-    {
-      "id": "4945687",
-      "time": "2026-06-20 13:43:35",
-      "tags": [
-        "國際"
-      ],
-      "text": "瑞士外交部：鑑於協議文字已於5月18日凌晨完成電子簽署，在瑞士舉行會議已不具緊迫性。但我們正計劃在未來數日內舉行會議。"
-    },
-    {
-      "id": "mkt:019ee38d-ca2e-7dd8-b09c-925a04634978",
-      "time": "2026-06-20 13:43:00",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Iran's foreign ministry said talks are being advanced via mediators and that it will make a public announcement if conditions to begin talks are met."
-    },
-    {
-      "id": "mkt:019ee38d-16f2-7dd8-b09c-8a210e11dc37",
-      "time": "2026-06-20 13:42:14",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Swiss Foreign Ministry said the agreement text was electronically signed in the early hours of May 18, removing the urgency of holding a meeting in Switzerland. The ministry plans to hold a meeting in the coming days."
     }
   ]
 }
