@@ -1,7 +1,15 @@
 {
-  "updated": "2026-06-28 01:28:44",
-  "count": 18146,
+  "updated": "2026-06-28 01:32:47",
+  "count": 18144,
   "items": [
+    {
+      "id": "mkt:019f0a21-3797-7dd8-b143-2f51872ae7e5",
+      "time": "2026-06-28 01:29:36",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "CNN, citing US officials, said that when Iran claimed strikes on US military targets in the Middle East, US forces detected several drones that did not hit their targets."
+    },
     {
       "id": "4958548",
       "time": "2026-06-28 01:26:34",
@@ -165995,30 +166003,6 @@
         "國際"
       ],
       "text": "巴基斯坦內政部長穆赫辛·納克維抵達德黑蘭，會見伊朗內政部長埃斯坎達爾·穆梅尼、外交部長阿巴斯·阿拉格齊及其他官員。當前各方正持續開展外交斡旋，推動調解程序，並就中東地區長期和平事宜展開磋商。"
-    },
-    {
-      "id": "4945944",
-      "time": "2026-06-21 01:30:33",
-      "tags": [
-        "國際"
-      ],
-      "text": "【學者：伊朗效仿特朗普採取“週末戰略”】卡達大學教授阿卜杜拉·班達爾·阿爾-埃泰比（Abdulla Banndar Al Eltaibi）表示，伊朗正在採取“週末策略”。他說：“這是特朗普過去常用的一種做法，目的是讓市場在週末期間不會作出反應。因此，他們（伊朗）實際上正在對特朗普以及調解方施加最大壓力，以霍爾木茲海峽為籌碼，換取黎巴嫩方面的安排。他們希望黎巴嫩境內的所有戰鬥都停止，作為恢復霍爾木茲海峽通行的條件。”"
-    },
-    {
-      "id": "4945943",
-      "time": "2026-06-21 01:30:12",
-      "tags": [
-        "其他"
-      ],
-      "text": "巴基斯坦訊息人士：總理謝里夫將在數小時內啟程前往瑞士，出席美伊技術性談判。"
-    },
-    {
-      "id": "mkt:019ee615-05ca-7dd8-b0a1-139f9926c7d6",
-      "time": "2026-06-21 01:29:57",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Scholar: Iran adopting \"weekend strategy\" used by Trump】Qatar University professor Abdulla Banndar Al Eltaibi said Iran is adopting a \"weekend strategy\" — a tactic Trump used to limit market reaction over weekends. He said Iran is using the Strait of Hormuz as leverage to apply maximum pressure on Trump and mediators, seeking arrangements that would stop all fighting in Lebanon as a condition for restoring passage through the strait."
     }
   ]
 }
