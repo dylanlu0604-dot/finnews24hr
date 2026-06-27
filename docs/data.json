@@ -1,7 +1,15 @@
 {
-  "updated": "2026-06-28 04:16:45",
-  "count": 18148,
+  "updated": "2026-06-28 04:20:37",
+  "count": 18147,
   "items": [
+    {
+      "id": "4958602",
+      "time": "2026-06-28 04:18:24",
+      "tags": [
+        "國際"
+      ],
+      "text": "卡達和埃及外長在通話中討論了地區局勢發展。"
+    },
     {
       "id": "4958601",
       "time": "2026-06-28 04:10:57",
@@ -166019,28 +166027,6 @@
         "國際"
       ],
       "text": "萬斯將赴瑞士參與對伊朗談判。"
-    },
-    {
-      "id": "mkt:019ee6af-79ea-7dd8-b0a1-cbe4bfd23024",
-      "time": "2026-06-21 04:18:40",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "【U.S. has yet to formally respond to reports of Strait of Hormuz closure】As of about six hours after initial reports, the U.S. had not issued a formal response to reports that the Strait of Hormuz was closed. CENTCOM said 55 vessels transited the strait that day carrying roughly 17 million barrels of oil, and reiterated that Iran has no right to control the waterway and that the strait remains open. Vice President Pence was being interviewed when the reports broke and President Trump posted on social media without addressing the incident; the administration has not released a unified official statement."
-    },
-    {
-      "id": "4945985",
-      "time": "2026-06-21 04:17:12",
-      "tags": [
-        "其他"
-      ],
-      "text": "英國泰晤士報：若安迪·伯納姆出任英國首相，蕾切爾·裡夫斯將失去英國財政大臣一職。"
     }
   ]
 }
