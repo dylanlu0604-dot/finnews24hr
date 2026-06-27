@@ -1,7 +1,91 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-06-28 05:36:22_
-_本檔包含 3891 則快訊，約 669655 字_
+_更新時間：2026-06-28 06:04:46_
+_本檔包含 3887 則快訊，約 669660 字_
+
+---
+
+### 2026-06-25 06:20:47  #公司
+
+【多家A股公司主動補稅，折射企業稅務合規新常態】近期，多家A股上市公司釋出補稅公告，涉及電子、化工、醫藥、環保等行業，引發市場關注。記者採訪財稅專家及上市公司後瞭解到，補稅主要緣於上市公司開展的稅務合規自查，屬於常態化經營和法律合規行為。中山大學法學院教授楊小強表示，上市公司補稅公告多集中在5月下旬至6月上旬，主要原因是年報披露、彙算清繳與資訊披露三個時限節點交匯，形成釋出公告的視窗期。（上證報）
+
+---
+
+### 2026-06-25 06:20:18  #MKT News
+
+U.S. tsunami warning system: after an earthquake in Venezuela, Puerto Rico and the U.S. Virgin Islands face a tsunami threat.
+
+---
+
+### 2026-06-25 06:20:00  #國際
+
+美國海嘯預警系統：委內瑞拉發生地震後，波多黎各、維爾京群島面臨海嘯威脅。
+
+---
+
+### 2026-06-25 06:18:33  #MKT News #Important
+
+USGS reported a magnitude-7.1 earthquake in Venezuela's Morón region.
+
+---
+
+### 2026-06-25 06:18:09  #國際
+
+美國國家氣象局太平洋海嘯預警中心：委內瑞拉沿岸或將出現危險海嘯巨浪。
+
+---
+
+### 2026-06-25 06:17:05  #MKT News
+
+U.S. tsunami warning system issued a tsunami threat alert after an earthquake off the coast of Venezuela.
+
+---
+
+### 2026-06-25 06:17:01  #其他
+
+中國地震臺網自動測定：06月25日06時04分在委內瑞拉附近（北緯10.71度，西經67.84度）發生6.7級左右地震，最終結果以正式速報為準。
+
+---
+
+### 2026-06-25 06:15:17  #Trading Economics #Markets #Currency #Importance 1
+
+FX Updates: Norwegian Krone Drops by 0.59% — Top currency losers are Norwegian Krone (-0.59%), Mexican Peso (-0.38%), New Zealand Dollar (-0.33%), British Pound (-0.30%), Euro (-0.22%) and Japanese Yen (-0.14%). Gains are led by Indian Rupee (0.41%) and Dollar Index (0.17%).
+
+---
+
+### 2026-06-25 06:15:09  #宏觀
+
+【嚴控風格漂移，公募分階段糾偏“盲盒基金”】“盲盒基金”的整改進入倒計時。近期，基金投資風格監督自律規則出臺，劍指主題基金監督管理、嚴控風格漂移現象。上海證券報記者從業內瞭解到，部分公募機構快速響應，已按新規將風格糾偏工作分為“摸排，更新，調倉”三個階段，並有序推進。據第三方機構統計，當前公募主題基金規模近3萬億元，涉及約2500只基金。隨著糾偏工作推進，基民投資“開盲盒”的困擾將得到改善。（上證報）
+
+---
+
+### 2026-06-25 06:13:50  #其他
+
+德國地學研究中心GFZ：委內瑞拉沿海發生6.39級地震。
+
+---
+
+### 2026-06-25 06:13:38  #其他
+
+【2036年奧運會舉辦地2029年敲定 奧運設項評估轉向分項】國際奧委會第146次全會24日透過兩項重要改革方案，分別涉及奧運會舉辦地遴選程式和奧運專案設定方法。根據新的遴選程式，2036年奧運會舉辦地將於2029年產生；一套以競賽“分項”為基礎的評估新方法，則將為奧運專案設定注入更多靈活性。自去年6月接替前任主席巴赫執掌國際奧委會以來，考文垂啟動了以“適應未來”為主題的系列改革，最佳化奧運會舉辦地遴選程式正是其中的重要內容。此前，2028年奧運會和2032年奧運會的舉辦城市均提前11年產生。（央視新聞）
+
+---
+
+### 2026-06-25 06:11:59  #MKT News
+
+GFZ reported a magnitude 6.39 earthquake off Venezuela's coast.
+
+---
+
+### 2026-06-25 06:11:49  #MKT News #MU.O #Impact bullish #QCOM.O
+
+【Micron tops estimates, jumps 15% after-hours; Qualcomm up on bullish AI outlook】Chip stocks rallied in after-hours trading Wednesday after Micron Technology (MU.O) reported results and guidance above expectations; its shares rose about 15% after hours and were roughly 270% YTD at Wednesday’s close. Qualcomm (QCOM.O) also rallied, gaining as much as 15% after management at an investor day outlined an expanded AI/data-center push and said its data-center chip expansion will deliver "billions of dollars" of revenue in the fiscal year beginning in October.
+
+---
+
+### 2026-06-25 06:07:23  #MKT News
+
+【AI-driven debt surge sets record as US investment-grade issuance hits $175bn in June】US investment-grade corporate bond issuance hit a record in June, totaling $175bn, driven by strong investor demand and large borrowings tied to AI infrastructure spending, according to a Bloomberg compilation. The amount was about 60% above June 2025's level and surpassed the 2020 post-COVID near-zero-rate peak. NVIDIA and SpaceX each sold $25bn of investment-grade bonds this month, pushing issuance well past dealers' prior estimate of roughly $130bn for June.
 
 ---
 
@@ -23371,113 +23455,5 @@ IRNA reports Iran and Oman have agreed to form a Strait of Hormuz committee.
 ### 2026-06-24 00:17:21  #MKT News
 
 Iranian President Pezeshkian said he hopes to open a new chapter in relations with Pakistan.
-
----
-
-### 2026-06-24 00:17:05  #MKT News
-
-Iranian President Pezeshkian said he held constructive talks with Pakistani officials.
-
----
-
-### 2026-06-24 00:16:49  #國際
-
-伊朗總統：雙方就最新局勢、雙邊關係展開磋商。
-
----
-
-### 2026-06-24 00:16:42  #MKT News
-
-Iranian President Pezeshkian said he discussed several important perspectives on recent developments in the region.
-
----
-
-### 2026-06-24 00:15:52  #MKT News #Market Themes #The Trump Trade #WTI #Impact bullish #Brent
-
-Financial Times, citing people familiar with the matter, reports that at last week's G7 summit Trump said he was "impressed and very appreciative" of Ukraine's long-range strikes inside Russia and agreed to step up sanctions on Russian energy.
-
----
-
-### 2026-06-24 00:15:39  #國際
-
-伊朗總統：在巴基斯坦舉行了富有建設性的會談。
-
----
-
-### 2026-06-24 00:14:54  #MKT News
-
-Iran's president said recent events have underscored an improvement in relations with Pakistan.
-
----
-
-### 2026-06-24 00:14:53  #Trading Economics #Markets #commodity #Importance 0
-
-Coffee Hits 5-week High — Coffee increased to 278.40 USd/Lbs, the highest since May 2026. Over the past 4 weeks, Coffee gained 1.3%, and in the last 12 months, it decreased 12.43%.
-
----
-
-### 2026-06-24 00:14:45  #MKT News
-
-Iran's president says relations with Pakistan are founded on mutual respect.
-
----
-
-### 2026-06-24 00:14:27  #MKT News
-
-Market sources: SpaceX (SPCX.O) high-grade bond offering drew $89 bln in subscriptions.
-
----
-
-### 2026-06-24 00:14:03  #國際
-
-伊朗總統：感謝巴基斯坦所做的努力與提供的支援。
-
----
-
-### 2026-06-24 00:13:23  #國際
-
-伊朗總統：近期一系列事態彰顯了伊巴兩國的雙邊關係。
-
----
-
-### 2026-06-24 00:13:16  #MKT News #Market Regions #Emerging Markets
-
-Fitch says Chile's medium-term fiscal targets face growth and implementation challenges.
-
----
-
-### 2026-06-24 00:13:06  #MKT News
-
-S&P/TSX Composite Index turned higher, rebounding from an earlier 12-day low.
-
----
-
-### 2026-06-24 00:13:00  #其他
-
-SpaceX 首筆高等級債券認購峰值需求達 890 億美元。
-
----
-
-### 2026-06-24 00:12:32  #Trading Economics #Markets #Italy #Stock Market #Importance 0
-
-FTSE MIB Closes Sharply Lower — The FTSE MIB declined 1.5% to close at 52,024 on Tuesday, as a global sell-off in technology stocks weighed on investor sentiment. Semiconductor firm STMicroelectronics led the decline, plunging near 8% amid concerns over elevated valuations in artificial intelligence-related companies and renewed market volatility. The automotive sector also weakened, with losses in Ferrari (-1.5%) and Stellantis (-6.8%). Banking and insurance stocks contributed to the market's decline, led by losses in Intesa Sanpaolo (-1.5%), UniCredit (-1.5%), Assicurazioni Generali (-0.8%), BPER Banca (-0.7%) and BMPS (-0.6%). Elsewhere, Prysmian declined 4.1%. Utilities were relatively resilient, with Enel and Terna advancing on the back of lower oil prices, although Snam ended the session in negative territory.
-
----
-
-### 2026-06-24 00:12:16  #公司
-
-市場訊息：EG 集團已秘密遞交申請，計劃赴美進行規模 10 億美元的首次公開募股。
-
----
-
-### 2026-06-24 00:12:10  #Trading Economics #Markets #Italy #Stock Market #Importance 1
-
-The FTSE MIB Index Closes 1.46% Lower — The FTSE MIB Index dropped 772 points or 1.46 percent on Tuesday to close at 52024 points. Losses were led by STMicroelectronics (-8.12%), Stellantis N.V. (-6.95%) and Prysmian (-4.28%).
-
----
-
-### 2026-06-24 00:11:10  #Trading Economics #Markets #Germany #Stock Market #Importance 1
-
-The DAX Index Closes 0.98% Lower — The DAX Index decreased 246 points or 0.98 percent on Tuesday to close at 24894 points. The decline was led by Infineon (-5.86%), Siemens Energy (-3.93%) and Vonovia (-3.21%). On the upside, the strongest performers were SAP (2.13%), Airbus (1.97%) and Qiagen NV (1.51%).
 
 ---

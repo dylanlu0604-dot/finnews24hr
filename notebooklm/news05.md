@@ -1,7 +1,85 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-06-28 05:36:22_
-_本檔包含 3544 則快訊，約 669863 字_
+_更新時間：2026-06-28 06:04:46_
+_本檔包含 3548 則快訊，約 669911 字_
+
+---
+
+### 2026-06-22 21:55:20  #MKT News #Commodities #Energy
+
+【Qatar says Ras Laffan blast will not affect LNG exports】QatarEnergy CEO said a Sunday explosion at the Ras Laffan industrial area will not affect the country’s LNG export capacity and an investigation has begun into the incident that left 13 dead and 66 injured. The blast and fire hit the Barzan local gas-supply facility, which was partially damaged earlier this year by a drone attack. Ras Laffan — the world’s largest LNG export complex — is being closely watched for restart timing because a rapid recovery would help ease global fuel prices. Vessel-tracking data show four tankers owned or long-term chartered by Qatar’s shipping arm are en route to Ras Laffan via the strait and are not masking AIS positions as Qatar prepares to redeploy empty tonnage and resume shipments.
+
+---
+
+### 2026-06-22 21:54:40  #MKT News #Market Regions #Europe & UK #EURUSD
+
+ECB President Lagarde said the euro area economy is positioned between the ECB's baseline scenario and a milder scenario.
+
+---
+
+### 2026-06-22 21:54:19  #央行 #國際
+
+歐洲央行行長拉加德：歐元區經濟現狀處於歐洲央行基準情景與溫和向好情景之間。
+
+---
+
+### 2026-06-22 21:54:17  #MKT News #XAUUSD #Impact bullish #Brent #DXY
+
+【Netanyahu says Israeli forces in southern Lebanon operate 'without restrictions'】On 22 June, Israeli Prime Minister Netanyahu said Israeli troops conducting operations in southern Lebanon are "not subject to any restrictions" and have "full freedom of action" to eliminate security threats. He said orders from him and Defense Minister Katz to the IDF are clear and unchanged, and that Israeli forces will remain long-term in the so‑called "security zone" in southern Lebanon as long as needed to protect northern Israel and the country.
+
+---
+
+### 2026-06-22 21:53:47  #國際
+
+【內塔尼亞胡重申以軍在黎巴嫩南部行動“不受限制”】當地時間22日，以色列總理內塔尼亞胡發表宣告重申，在黎巴嫩南部執行任務的以色列軍隊在消除安全威脅時“不受任何限制”，並堅稱以軍將長期駐留在所謂的“安全區”內。內塔尼亞胡在宣告中稱，他與國防部長卡茨向以色列國防軍下達的指令非常明確且從未改變。他宣稱，在黎巴嫩南部行動的以色列士兵擁有“充分的行動自由”，以阻止任何針對其自身或以色列北部居民的直接和潛在威脅。內塔尼亞胡堅稱，只要有保護北部地區及全國民眾的安全需要，以色列軍隊就將繼續駐留在黎巴嫩南部所謂的“安全區”內。（央視新聞）
+
+---
+
+### 2026-06-22 21:53:17  #央行 #國際
+
+【拉加德認為歐洲央行暫無必要對伊朗戰爭採取更強力的政策應對】歐洲央行行長克里斯蒂娜·拉加德表示，儘管中東衝突帶來影響，但歐洲央行目前無需採取更為強力的應對措施，因為從中期來看，通脹仍將回到目標水平。拉加德在布魯塞爾向歐洲議會議員表示，家庭消費者並不認為當前較高的通脹水平會持續存在。她表示，這讓歐洲央行相信，在採取適當貨幣政策措施的情況下，通脹率將從目前超過3%的水平回落至2%的目標。拉加德週一表示，“目前我們尚未看到通脹預期脫錨，或出現足以在現階段要求採取更強硬政策應對的第二輪效應。”
+
+---
+
+### 2026-06-22 21:52:46  #MKT News
+
+HKEX filings show DingDingPai (Shenzhen) Technology Co., Ltd. has submitted a listing application.
+
+---
+
+### 2026-06-22 21:51:44  #央行 #國際
+
+歐洲央行行長拉加德：短期內已經出現了一些脫錨現象。
+
+---
+
+### 2026-06-22 21:51:39  #MKT News #Market Regions #Europe & UK #EURUSD #Impact bullish #DXY #Impact bearish
+
+ECB President Lagarde said some short-term de-anchoring has emerged.
+
+---
+
+### 2026-06-22 21:51:30  #MKT News #Market Regions #Europe & UK #EURUSD #Impact bullish #DXY #Impact bearish #XAUUSD #Impact mixed
+
+ECB President LAGARDE said she has observed a degree of de-anchoring in inflation expectations.
+
+---
+
+### 2026-06-22 21:51:22  #央行 #其他
+
+歐洲央行行長拉加德：已觀察到通脹預期出現一定程度脫錨。
+
+---
+
+### 2026-06-22 21:50:53  #MKT News #Important #WTI #Impact bearish
+
+WTI crude fell about 4.0% intraday to $74.16/bbl.
+
+---
+
+### 2026-06-22 21:50:06  #公司
+
+【盯盯拍（深圳）技術股份有限公司向港交所提交上市申請書】據港交所檔案：盯盯拍（深圳）技術股份有限公司向港交所提交上市申請書。
 
 ---
 
@@ -21317,59 +21395,5 @@ Two killed and one wounded in a pre-dawn shooting outside a bar in West Haven, C
 ### 2026-06-21 06:05:13  #國際
 
 半島電視臺駁斥以色列軍方為其針對記者犯下罪行而編造的虛假說辭。
-
----
-
-### 2026-06-21 06:04:25  #國際
-
-黎巴嫩外交部：以色列空襲東部和南部地區，造成7人死亡。
-
----
-
-### 2026-06-21 06:00:15  #其他
-
-【媒體報道稱英國首相斯塔默準備卸任，官方訊息人士則表示其仍專注履職】英國《觀察家報》稱，首相基爾·斯塔默預計將於週一宣佈辭職並公佈離任時間表；但一名政府內部訊息人士表示，斯塔默當下仍專注於治國理政工作。數月以來，斯塔默的首相地位本就持續承壓，局勢在週五急劇惡化：其競爭對手安迪·伯納姆拿下議會一席，由此具備發起正式黨首挑戰的資格。《觀察家報》報道稱，斯塔默正在契克斯鄉間官邸與妻子商議此事，待商議後做出最終決定；工黨高層普遍預計，他最早會在週一就自身去留髮布明確宣告。不過一名政府訊息人士稱，斯塔默始終專注本職工作，並援引他此前表達相同立場的公開表態佐證。這位英國首相週五曾表態，他會直面所有針對其職位的挑戰，呼籲工黨不要因內鬥走向分裂。工黨內已有超百名當選議員（約佔下議院工黨全體議員的四分之一）公開表態，希望斯塔默主動辭職或給出離任時間表。
-
----
-
-### 2026-06-21 05:58:08  #其他
-
-中央氣象臺6月21日06時繼續釋出暴雨黃色預警。
-
----
-
-### 2026-06-21 05:57:48  #MKT News #Market Regions #Europe & UK
-
-【Observer says Starmer may announce resignation timetable next Monday; government source says he remains focused on governing】The Observer reports Prime Minister Starmer is expected to announce his resignation and a departure timetable next Monday after months of pressure that intensified on Friday when rival Andy Burnham won a parliamentary seat, enabling a formal leadership challenge. A government source said Starmer remains focused on governing; he is at Chequers discussing options and has not made a final decision, though several senior Labour figures expect a clear statement as early as Monday. More than 100 Labour MPs—roughly a quarter of Labour’s Commons bench—have publicly called for his resignation or for a set departure date.
-
----
-
-### 2026-06-21 05:56:35  #其他
-
-倫敦消防隊：懷特城紐西蘭路發生火災，已造成三人死亡。
-
----
-
-### 2026-06-21 05:56:12  #國際
-
-伊朗農業部長：戰爭爆發以來，本國戰略儲備糧食一公斤都未動用。得益於降雨量大幅增加，今年伊朗多數農民收入實現顯著增長。
-
----
-
-### 2026-06-21 05:55:14  #公司
-
-糖果製造商瑪氏公司將於8月推出不含人工色素版本的M&M巧克力豆，但這款袋裝巧克力將少兩種標誌性顏色：棕色與藍色。
-
----
-
-### 2026-06-21 05:48:00  #MKT News #WTI #Impact bullish #Brent
-
-【Former U.S. diplomat: commercial shipping through Strait of Hormuz will fall but not halt】Former U.S. ambassador to Oman Richard Schmierer said President Trump's recent comments on the Strait of Hormuz, including a 60‑day reference, may be intended to shift attention from current tensions. He said uncertainty persists: CENTCOM claims it can ensure safe transit while Iran warns ships not to pass or face danger, and it is unclear which side can enforce its position. Schmierer added shipowners and insurers have likely taken note; several vessels are already transiting waters near Oman's coast with apparent U.S. naval support, so commercial shipping is likely to decline but not stop.
-
----
-
-### 2026-06-21 05:47:57  #其他
-
-【英國國王個人納稅賬單將首次對外公開】隨著英國社會各界對王室財務狀況的審查力度持續加大，白金漢宮將首次對外公佈國王的個人納稅明細。一份全新、內容詳盡的王室家庭年度財務報告將於下週釋出，與常規君主撥款報告同步對外公示，此舉旨在推動王室“現代化革新與發展”。本次披露被稱作“歷史性首次公開”，報告將完整展示國王2024至2025財年的個人納稅總額，且今後每年都會持續公示該項納稅資料。此前一直拒絕公開納稅記錄的威爾士親王，此次也將同步公佈自己的個人繳稅賬單。這份白金漢宮釋出的報告將完整羅列國王所有私人收入來源，包括各類投資收益、經營利潤、巴爾莫勒爾與桑德靈厄姆兩座私人莊園營收，以及個人儲蓄所得。蘭開斯特公國是由土地、投資專案，以及辦公、商業、工業地產構成的私人資產組合，每年為國王帶來穩定收入，上一年度該公國收益達2680萬英鎊。
 
 ---

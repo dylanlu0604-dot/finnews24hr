@@ -1,7 +1,115 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-06-28 05:36:22_
-_本檔包含 3489 則快訊，約 669833 字_
+_更新時間：2026-06-28 06:04:46_
+_本檔包含 3494 則快訊，約 669992 字_
+
+---
+
+### 2026-06-24 00:17:05  #MKT News
+
+Iranian President Pezeshkian said he held constructive talks with Pakistani officials.
+
+---
+
+### 2026-06-24 00:16:49  #國際
+
+伊朗總統：雙方就最新局勢、雙邊關係展開磋商。
+
+---
+
+### 2026-06-24 00:16:42  #MKT News
+
+Iranian President Pezeshkian said he discussed several important perspectives on recent developments in the region.
+
+---
+
+### 2026-06-24 00:15:52  #MKT News #Market Themes #The Trump Trade #WTI #Impact bullish #Brent
+
+Financial Times, citing people familiar with the matter, reports that at last week's G7 summit Trump said he was "impressed and very appreciative" of Ukraine's long-range strikes inside Russia and agreed to step up sanctions on Russian energy.
+
+---
+
+### 2026-06-24 00:15:39  #國際
+
+伊朗總統：在巴基斯坦舉行了富有建設性的會談。
+
+---
+
+### 2026-06-24 00:14:54  #MKT News
+
+Iran's president said recent events have underscored an improvement in relations with Pakistan.
+
+---
+
+### 2026-06-24 00:14:53  #Trading Economics #Markets #commodity #Importance 0
+
+Coffee Hits 5-week High — Coffee increased to 278.40 USd/Lbs, the highest since May 2026. Over the past 4 weeks, Coffee gained 1.3%, and in the last 12 months, it decreased 12.43%.
+
+---
+
+### 2026-06-24 00:14:45  #MKT News
+
+Iran's president says relations with Pakistan are founded on mutual respect.
+
+---
+
+### 2026-06-24 00:14:27  #MKT News
+
+Market sources: SpaceX (SPCX.O) high-grade bond offering drew $89 bln in subscriptions.
+
+---
+
+### 2026-06-24 00:14:03  #國際
+
+伊朗總統：感謝巴基斯坦所做的努力與提供的支援。
+
+---
+
+### 2026-06-24 00:13:23  #國際
+
+伊朗總統：近期一系列事態彰顯了伊巴兩國的雙邊關係。
+
+---
+
+### 2026-06-24 00:13:16  #MKT News #Market Regions #Emerging Markets
+
+Fitch says Chile's medium-term fiscal targets face growth and implementation challenges.
+
+---
+
+### 2026-06-24 00:13:06  #MKT News
+
+S&P/TSX Composite Index turned higher, rebounding from an earlier 12-day low.
+
+---
+
+### 2026-06-24 00:13:00  #其他
+
+SpaceX 首筆高等級債券認購峰值需求達 890 億美元。
+
+---
+
+### 2026-06-24 00:12:32  #Trading Economics #Markets #Italy #Stock Market #Importance 0
+
+FTSE MIB Closes Sharply Lower — The FTSE MIB declined 1.5% to close at 52,024 on Tuesday, as a global sell-off in technology stocks weighed on investor sentiment. Semiconductor firm STMicroelectronics led the decline, plunging near 8% amid concerns over elevated valuations in artificial intelligence-related companies and renewed market volatility. The automotive sector also weakened, with losses in Ferrari (-1.5%) and Stellantis (-6.8%). Banking and insurance stocks contributed to the market's decline, led by losses in Intesa Sanpaolo (-1.5%), UniCredit (-1.5%), Assicurazioni Generali (-0.8%), BPER Banca (-0.7%) and BMPS (-0.6%). Elsewhere, Prysmian declined 4.1%. Utilities were relatively resilient, with Enel and Terna advancing on the back of lower oil prices, although Snam ended the session in negative territory.
+
+---
+
+### 2026-06-24 00:12:16  #公司
+
+市場訊息：EG 集團已秘密遞交申請，計劃赴美進行規模 10 億美元的首次公開募股。
+
+---
+
+### 2026-06-24 00:12:10  #Trading Economics #Markets #Italy #Stock Market #Importance 1
+
+The FTSE MIB Index Closes 1.46% Lower — The FTSE MIB Index dropped 772 points or 1.46 percent on Tuesday to close at 52024 points. Losses were led by STMicroelectronics (-8.12%), Stellantis N.V. (-6.95%) and Prysmian (-4.28%).
+
+---
+
+### 2026-06-24 00:11:10  #Trading Economics #Markets #Germany #Stock Market #Importance 1
+
+The DAX Index Closes 0.98% Lower — The DAX Index decreased 246 points or 0.98 percent on Tuesday to close at 24894 points. The decline was led by Infineon (-5.86%), Siemens Energy (-3.93%) and Vonovia (-3.21%). On the upside, the strongest performers were SAP (2.13%), Airbus (1.97%) and Qiagen NV (1.51%).
 
 ---
 
@@ -20990,83 +21098,5 @@ Pakistan government said Iran's president will visit Pakistan on June 23.
 ### 2026-06-22 21:55:22  #公司
 
 【卡達：拉斯拉凡工業區天然氣爆炸事件不影響LNG出口】卡達方面稱，週日拉斯拉凡工業區發生爆炸事故，不會影響其液化天然氣出口能力。卡達能源公司執行長在多哈舉行的新聞釋出會上表示：“這不會影響我們的出口。”他補充說，已開始對這一造成13人死亡、66人受傷的事故展開調查。週日，巴爾贊本地供氣設施發生爆炸和火災，引發市場對拉斯拉凡設施重啟可能延遲的擔憂。該設施今年早些時候曾因無人機襲擊而部分受損。這一全球最大液化天然氣出口設施正受到天然氣市場的密切關注，因為其快速恢復運營將有助於緩解全球燃料價格。根據船舶追蹤資料，隨著卡達為重啟運輸做準備並加緊將更多空載油輪調回國內，四艘由卡達航運部門所有或長期租用的油輪正透過海峽駛向拉斯拉凡，且未隱藏其位置。
-
----
-
-### 2026-06-22 21:55:20  #MKT News #Commodities #Energy
-
-【Qatar says Ras Laffan blast will not affect LNG exports】QatarEnergy CEO said a Sunday explosion at the Ras Laffan industrial area will not affect the country’s LNG export capacity and an investigation has begun into the incident that left 13 dead and 66 injured. The blast and fire hit the Barzan local gas-supply facility, which was partially damaged earlier this year by a drone attack. Ras Laffan — the world’s largest LNG export complex — is being closely watched for restart timing because a rapid recovery would help ease global fuel prices. Vessel-tracking data show four tankers owned or long-term chartered by Qatar’s shipping arm are en route to Ras Laffan via the strait and are not masking AIS positions as Qatar prepares to redeploy empty tonnage and resume shipments.
-
----
-
-### 2026-06-22 21:54:40  #MKT News #Market Regions #Europe & UK #EURUSD
-
-ECB President Lagarde said the euro area economy is positioned between the ECB's baseline scenario and a milder scenario.
-
----
-
-### 2026-06-22 21:54:19  #央行 #國際
-
-歐洲央行行長拉加德：歐元區經濟現狀處於歐洲央行基準情景與溫和向好情景之間。
-
----
-
-### 2026-06-22 21:54:17  #MKT News #XAUUSD #Impact bullish #Brent #DXY
-
-【Netanyahu says Israeli forces in southern Lebanon operate 'without restrictions'】On 22 June, Israeli Prime Minister Netanyahu said Israeli troops conducting operations in southern Lebanon are "not subject to any restrictions" and have "full freedom of action" to eliminate security threats. He said orders from him and Defense Minister Katz to the IDF are clear and unchanged, and that Israeli forces will remain long-term in the so‑called "security zone" in southern Lebanon as long as needed to protect northern Israel and the country.
-
----
-
-### 2026-06-22 21:53:47  #國際
-
-【內塔尼亞胡重申以軍在黎巴嫩南部行動“不受限制”】當地時間22日，以色列總理內塔尼亞胡發表宣告重申，在黎巴嫩南部執行任務的以色列軍隊在消除安全威脅時“不受任何限制”，並堅稱以軍將長期駐留在所謂的“安全區”內。內塔尼亞胡在宣告中稱，他與國防部長卡茨向以色列國防軍下達的指令非常明確且從未改變。他宣稱，在黎巴嫩南部行動的以色列士兵擁有“充分的行動自由”，以阻止任何針對其自身或以色列北部居民的直接和潛在威脅。內塔尼亞胡堅稱，只要有保護北部地區及全國民眾的安全需要，以色列軍隊就將繼續駐留在黎巴嫩南部所謂的“安全區”內。（央視新聞）
-
----
-
-### 2026-06-22 21:53:17  #央行 #國際
-
-【拉加德認為歐洲央行暫無必要對伊朗戰爭採取更強力的政策應對】歐洲央行行長克里斯蒂娜·拉加德表示，儘管中東衝突帶來影響，但歐洲央行目前無需採取更為強力的應對措施，因為從中期來看，通脹仍將回到目標水平。拉加德在布魯塞爾向歐洲議會議員表示，家庭消費者並不認為當前較高的通脹水平會持續存在。她表示，這讓歐洲央行相信，在採取適當貨幣政策措施的情況下，通脹率將從目前超過3%的水平回落至2%的目標。拉加德週一表示，“目前我們尚未看到通脹預期脫錨，或出現足以在現階段要求採取更強硬政策應對的第二輪效應。”
-
----
-
-### 2026-06-22 21:52:46  #MKT News
-
-HKEX filings show DingDingPai (Shenzhen) Technology Co., Ltd. has submitted a listing application.
-
----
-
-### 2026-06-22 21:51:44  #央行 #國際
-
-歐洲央行行長拉加德：短期內已經出現了一些脫錨現象。
-
----
-
-### 2026-06-22 21:51:39  #MKT News #Market Regions #Europe & UK #EURUSD #Impact bullish #DXY #Impact bearish
-
-ECB President Lagarde said some short-term de-anchoring has emerged.
-
----
-
-### 2026-06-22 21:51:30  #MKT News #Market Regions #Europe & UK #EURUSD #Impact bullish #DXY #Impact bearish #XAUUSD #Impact mixed
-
-ECB President LAGARDE said she has observed a degree of de-anchoring in inflation expectations.
-
----
-
-### 2026-06-22 21:51:22  #央行 #其他
-
-歐洲央行行長拉加德：已觀察到通脹預期出現一定程度脫錨。
-
----
-
-### 2026-06-22 21:50:53  #MKT News #Important #WTI #Impact bearish
-
-WTI crude fell about 4.0% intraday to $74.16/bbl.
-
----
-
-### 2026-06-22 21:50:06  #公司
-
-【盯盯拍（深圳）技術股份有限公司向港交所提交上市申請書】據港交所檔案：盯盯拍（深圳）技術股份有限公司向港交所提交上市申請書。
 
 ---
