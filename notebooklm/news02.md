@@ -1,7 +1,373 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-06-27 15:41:59_
-_本檔包含 3870 則快訊，約 671473 字_
+_更新時間：2026-06-27 16:38:31_
+_本檔包含 3878 則快訊，約 671886 字_
+
+---
+
+### 2026-06-26 03:34:23  #其他
+
+訊息人士稱：德州馬拉松加爾維斯頓灣煉油廠故障後恢復正常運營。
+
+---
+
+### 2026-06-26 03:33:06  #MKT News #Commodities #Industrial Metals
+
+【US Army to allow critical-mineral processing plants on bases】As part of the Trump administration’s push to boost domestic production, the US Army will allow several companies to build critical-mineral processing plants on military bases nationwide, people familiar with the matter said. REalloys, Titan Mining, ioneer and Energy Exploration Technologies have agreements with the Pentagon to build facilities to process rare earths, graphite, lithium and boron. REalloys plans a rare-earth separation plant at the Tooele Army Depot in Utah; output will be stored on-site for military use.
+
+---
+
+### 2026-06-26 03:30:07  #MKT News #Important #Macro & Rates #The Fed (FOMC) #DXY #Impact bullish #S&P500 #Impact bearish #US10Y
+
+FOMC permanent voter and New York Fed President Williams is due to speak in ten minutes.
+
+---
+
+### 2026-06-26 03:29:29  #國際
+
+【中方代表在人權理事會作共同發言 揭批以人權為藉口濫施關稅行徑】中國常駐聯合國日內瓦辦事處和瑞士其他國際組織代表賈桂德25日在人權理事會第62屆會議代表近20國作共同發言，揭批以“強迫勞動”為名濫施關稅的單邊霸凌行徑。共同發言指出，消除貧困需要保障各國人民的勞動權和發展權。我們堅決反對“強迫勞動”，同時嚴重關切、強烈反對某個國家濫用國內法律，單方面認定其他經濟體未有效實施並執行“禁止進口強迫勞動產品措施”，並以此為藉口加徵額外關稅。有關國家以“強迫勞動”為名，行濫施關稅之實，只會損害各國勞動者體面勞動的權利和發展權，干擾全球供應鏈產業鏈穩定，破壞國際社會消除貧困的努力。共同發言敦促有關國家尊重客觀事實，停止將經貿問題政治化、人權議題武器化，以實際行動維護國際經貿秩序，助力全球發展和減貧程序。共同發言得到廣泛支援，俄羅斯、巴基斯坦、古巴、委內瑞拉、蘇丹、柬埔寨等多國加入共同發言，發展中國家積極發言呼應。（新華社）
+
+---
+
+### 2026-06-26 03:29:02  #MKT News #Commodities #Industrial Metals
+
+Market sources: a U.S. Army base will host a critical minerals plant to advance domestic production.
+
+---
+
+### 2026-06-26 03:26:44  #MKT News
+
+【Washington Post/FEC analysis: major donors pour $1.3bn+ this cycle; Musk largest GOP individual donor】Washington Post analysis of FEC data shows major donors have contributed more than $1.3bn in this election cycle to date, with the bulk favoring Republican candidates — funds that may be critical to Republican efforts to retain control of Congress in November. In 1H 2026, Republican-leaning donors gave $880m, Democratic-leaning donors $290m, and cross-party/special-interest groups $200m. Elon Musk was the largest individual donor to Republican-aligned organizations and candidates, donating $85.1m.
+
+---
+
+### 2026-06-26 03:26:40  #國際
+
+【中期選舉將近 美媒曝光馬斯克向共和黨大手筆捐款】根據《華盛頓郵報》對美國聯邦選舉委員會資料的分析，隨著中期選舉臨近，美國政壇的主要捐助者在本選舉週期迄今已投入超過13億美元影響國家政治。這些捐款人傾向於支援共和黨，而這筆資金對於共和黨在11月保住國會控制權可能至關重要。2026年上半年，傾向共和黨的捐款人共捐贈了8.8億美元，相比之下，傾向民主黨的捐款人共捐贈了2.9億美元，跨黨派及特殊利益團體則為2億美元。新晉萬億富翁埃隆·馬斯克位列個人捐贈者榜首，其向共和黨相關組織或人士捐贈了8510萬美元。
+
+---
+
+### 2026-06-26 03:24:11  #國際
+
+義大利總理梅洛尼：義大利並未介入伊朗相關衝突，僅提供後勤與技術支援，同時回絕了各類作戰行動支援請求。
+
+---
+
+### 2026-06-26 03:21:08  #國際
+
+美國國防部批准在美軍基地內建設關鍵礦產加工廠。
+
+---
+
+### 2026-06-26 03:19:33  #MKT News #Market Regions #Europe & UK #XAUUSD #Impact bullish #WTI #DXY
+
+Macron said the United States has ended its neutral stance on Ukraine, backing Kyiv's territorial integrity and providing military and energy support as well as sanctions on Russia.
+
+---
+
+### 2026-06-26 03:19:26  #市場
+
+布倫特原油日內漲3%，現報76.09美元/桶。
+
+---
+
+### 2026-06-26 03:18:55  #市場
+
+WTI原油日內漲3%，現報72.48美元/桶。
+
+---
+
+### 2026-06-26 03:18:42  #MKT News #Commodities #Energy #Brent #Impact bullish
+
+Brent crude broke through $76/bbl, advancing 3.52% intraday.
+
+---
+
+### 2026-06-26 03:18:38  #MKT News #Commodities #Energy #WTI #Impact bullish
+
+WTI crude rose above $73/bbl, up 3.6% intraday.
+
+---
+
+### 2026-06-26 03:18:13  #市場 #焦點
+
+布倫特原油突破76美元/桶，日內漲2.91%。
+
+---
+
+### 2026-06-26 03:16:01  #國際
+
+美國：地震後向委內瑞拉調配 1.5 億美元援助資金。
+
+---
+
+### 2026-06-26 03:15:18  #市場
+
+在岸人民幣兌美元（CNY）北京時間03:00收報6.7990元，較週三夜盤收盤漲102點。成交量593.26億美元。
+
+---
+
+### 2026-06-26 03:12:07  #公司
+
+市場訊息：谷歌重組全新 AI 程式碼攻堅團隊。
+
+---
+
+### 2026-06-26 03:08:46  #國際
+
+特朗普告訴國防承包商，他正在努力爭取資金。
+
+---
+
+### 2026-06-26 03:08:06  #央行 #其他
+
+墨西哥央行：預計墨西哥經濟產能過剩局面將持續。
+
+---
+
+### 2026-06-26 03:07:39  #MKT News #Important #WTI #Impact bullish #Brent
+
+【Iran warns vessels not to use unauthorized Strait of Hormuz routes】The Persian Gulf Straits Authority (PGSA), which approves and regulates maritime transit through the Strait of Hormuz, said any passage not following PGSA-approved routes will be treated as unauthorized and will be outside the agency’s security guarantees. The PGSA said liabilities from using unauthorized routes will rest with shipowners, operators and masters. The warning follows a new attack near the Strait of Hormuz that U.S. officials told the Wall Street Journal they attribute to the Islamic Revolutionary Guard Corps and which targeted a Singapore-flagged cargo vessel.
+
+---
+
+### 2026-06-26 03:07:05  #央行 #其他
+
+墨西哥央行：委員會決定考慮了通脹前景、匯率及經濟中需求端壓力缺失等因素。
+
+---
+
+### 2026-06-26 03:06:59  #市場 #國際
+
+【瑞穗：原油期貨走高，受霍爾木茲海峽擔憂影響】有報道稱一艘貨船在霍爾木茲海峽遭到伊朗襲擊，引發了人們對該水道重新開放是否順利的擔憂，隨後原油期貨結算價上漲。隨著越來越多油輪穿過該海峽緩解了全球供應緊張的局面，盤初油價曾短暫跌至戰前水平。瑞穗的Robert Yawger在一份報告中表示：“即使在60天的談判期結束後，我也不認為伊朗會重新開戰，因為雙方都將損失慘重。“西得州中質油結算價上漲2.2%，報每桶71.92美元。近月布倫特原油上漲2.1%，至每桶75.26美元。
+
+---
+
+### 2026-06-26 03:06:36  #央行 #其他
+
+墨西哥央行重申致力於實現通脹溫和、穩定的政策目標。
+
+---
+
+### 2026-06-26 03:06:11  #國際
+
+市場訊息：伊朗與印度石油部長呼籲擴大兩國能源合作。
+
+---
+
+### 2026-06-26 03:05:26  #央行 #其他
+
+墨西哥央行：貨幣政策立場非常適合應對宏觀挑戰。
+
+---
+
+### 2026-06-26 03:05:19  #央行 #其他
+
+墨西哥央行：預測2027年第四季度總體通脹率為3.0%，與之前預測的3.0%持平。
+
+---
+
+### 2026-06-26 03:05:03  #央行 #其他
+
+墨西哥央行預測，2026年第四季度整體通脹率為3.5%，與此前預測值持平。
+
+---
+
+### 2026-06-26 03:04:47  #央行 #其他
+
+墨西哥央行：經濟活動仍面臨顯著下行風險。
+
+---
+
+### 2026-06-26 03:04:29  #國際
+
+市場訊息：美國多家軍工企業週三向特朗普表示希望獲得更多資金支援。
+
+---
+
+### 2026-06-26 03:04:16  #央行 #其他
+
+墨西哥央行：預計墨西哥經濟第二季度將實現擴張。
+
+---
+
+### 2026-06-26 03:04:10  #央行 #其他
+
+墨西哥央行：核心通脹預計將在2027年第二季度收斂至3%的目標水平。
+
+---
+
+### 2026-06-26 03:04:10  #MKT News #WTI #Impact bullish #Brent #XAUUSD
+
+White House official says the US is investigating an attack on a vessel in the Strait of Hormuz.
+
+---
+
+### 2026-06-26 03:03:58  #公司 #市場 #國際
+
+美國通訊業工人協會（CWA）：與美國廣播公司電視網（ABC-TV）達成的新合同承諾，未來四年薪資將分別上漲3%、4%、3%與3.75%。
+
+---
+
+### 2026-06-26 03:03:49  #央行 #其他
+
+墨西哥央行承諾後續維持 6.5% 基準利率不變。
+
+---
+
+### 2026-06-26 03:03:28  #央行 #其他
+
+墨西哥央行：董事會預計，未來將基準利率維持在當前水平是合適的舉措。
+
+---
+
+### 2026-06-26 03:03:22  #央行 #其他
+
+加拿大央行：參與社群對話的人士明確表達了採取行動應對住房危機的願望。較年輕的調查參與者表示，他們已經放棄了將來擁有自己住房的念頭。在央行調查過的所有社群中，加拿大人都對生活成本表示擔憂。私營部門經濟學家認為加拿大央行過去十年中採用的核心通脹指標過多，並建議央行應側重於整體通脹。
+
+---
+
+### 2026-06-26 03:03:19  #央行 #其他
+
+墨西哥央行預測 2026 年二季度通脹率為 4%，此前預期為 4.1%。
+
+---
+
+### 2026-06-26 03:02:32  #其他
+
+墨西哥銀行：在預測區間內，通脹走勢的風險平衡仍偏向上行。
+
+---
+
+### 2026-06-26 03:02:16  #MKT News #Market Regions #Greater China #Hang Seng Index #Impact bearish
+
+Hang Seng Index futures' night session closed down 0.33% at 23,005, trading 72 points below the cash index.
+
+---
+
+### 2026-06-26 03:02:09  #國際
+
+美國農業部：2026年6月1日全生豬存欄量同比為上年的100%，交易市場預估為100.9%。
+
+---
+
+### 2026-06-26 03:01:47  #其他
+
+白宮官員：現在斷定是誰在霍爾木茲島襲擊了船隻還為時過早。
+
+---
+
+### 2026-06-26 03:01:47  #MKT News
+
+Bank of Mexico's board voted unanimously to keep the policy rate unchanged.
+
+---
+
+### 2026-06-26 03:01:41  #國際
+
+白 白宮官員：美國正在調查霍爾木茲海峽船隻遇襲事件。
+
+---
+
+### 2026-06-26 03:01:36  #MKT News
+
+BOC: younger survey respondents say they have given up the idea of owning their own home in the future.
+
+---
+
+### 2026-06-26 03:01:25  #其他
+
+墨西哥銀行：在預測區間內，通脹走勢的風險平衡仍偏向上行。
+
+---
+
+### 2026-06-26 03:01:20  #MKT News
+
+BOC said participants in community dialogues expressed a clear desire for action to address the housing crisis.
+
+---
+
+### 2026-06-26 03:01:16  #MKT News
+
+BOC says private-sector economists view the bank's reliance on too many core inf measures over the past decade and recommend the bank focus on headline inf.
+
+---
+
+### 2026-06-26 03:01:07  #MKT News
+
+BOC says a disconnect between official inflation data and Canadians' everyday experience has undermined confidence in the CPI and, by extension, in the central bank.
+
+---
+
+### 2026-06-26 03:01:04  #MKT News
+
+BOC says stakeholders expressed support for a flexible inf-targeting framework and the 2% target.
+
+---
+
+### 2026-06-26 03:00:58  #其他
+
+加拿大銀行：各界相關方強烈支援 2% 通脹目標。
+
+---
+
+### 2026-06-26 03:00:36  #MKT News
+
+BOC: In every community surveyed by the central bank, Canadians expressed concern about the cost of living.
+
+---
+
+### 2026-06-26 03:00:26  #其他
+
+加拿大銀行：消費者物價指數資料與民眾實際生活感受存在偏差，正削弱公眾信任。
+
+---
+
+### 2026-06-26 03:00:10  #MKT News #Macro & Rates
+
+Mexico central bank policy rate through June 25: 6.50% (consensus 6.50%, prior 6.50%).
+
+---
+
+### 2026-06-26 03:00:08  #央行 #其他
+
+墨西哥央行維持隔夜利率在6.50%不變。
+
+---
+
+### 2026-06-26 03:00:01  #市場
+
+恒指期貨夜盤收跌0.36%，報22942.68點，低水134.23點。
+
+---
+
+### 2026-06-26 03:00:01  #MKT News #Economic Calendar #Important
+
+Mexico | Banxico Interest Rate Decision (Jun.25) | actual 6.5% | consensus 6.50% | previous 6.50%
+
+---
+
+### 2026-06-26 02:59:51  #其他
+
+加拿大不列顛哥倫比亞省省長：加拿大液化天然氣二期專案將於 9 月作出投資最終決定。
+
+---
+
+### 2026-06-26 02:57:57  #國際
+
+印度商務部長談及美印貿易協議： 在確保自身（尤其在南亞、東南亞地區）競爭優勢前，印度不會啟動這項美印貿易協議。
+
+---
+
+### 2026-06-26 02:57:41  #國際
+
+【歐盟延長波音-空客貿易爭端中的關稅暫停期】據知情人士透露，歐盟成員國已同意延長涉及空客與波音之間的貿易爭端的關稅暫停期，這些關稅原定針對價值40億美元的美國產品。此次關稅暫停未設定明確的截止日期。歐盟委員會發言人奧洛夫·吉爾對這一表決結果表示歡迎，他表示：“我們正與美國進行持續磋商，以確保情況穩定與確定性，並維持雙方暫停實施反制措施的狀態。”總部位於法國圖盧茲的空客與總部位於美國弗吉尼亞州阿靈頓的波音之間這場曠日持久的爭端，起因是非法補貼問題。在雙方於五年前達成臨時休戰協議之前，歐盟和美國曾分別對價值115億美元的對方出口商品加徵關稅。
+
+---
+
+### 2026-06-26 02:57:11  #MKT News #EURUSD #Impact bullish #DXY #Impact bearish #S&P500
+
+【EU extends tariff suspension in Airbus-Boeing dispute】EU member states have agreed to extend the tariff suspension in the long-running Airbus-Boeing dispute, covering $4 billion of U.S. goods; no end date was set. European Commission spokesman Olof Gill said Brussels is holding ongoing talks with Washington to preserve stability and keep countermeasures suspended. The dispute over alleged illegal subsidies previously led both sides to impose tariffs on about $11.5 billion of each other’s exports before a five-year truce.
 
 ---
 
@@ -23009,323 +23375,5 @@ United States | 5-Year Note Auction High Yield Rate (Jun.24) | actual 4.2% | pre
 ### 2026-06-25 00:57:46  #MKT News #XAUUSD #Impact bullish #WTI #DXY
 
 Axios reports the first day of Israel-Lebanon talks in Washington produced no progress; the parties remain sharply divided on the scope and timeline of an Israeli withdrawal.
-
----
-
-### 2026-06-25 00:57:33  #宏觀 #國際
-
-【貝森特稱美伊談判涵蓋伊朗重返美元體系 強調美元主導地位至關重要】美國財政部長斯科特·貝森特暗示，美國與伊朗的談判內容包括這個長期與美國對立的國家加入美元體系，並以美元為其石油銷售開具發票。貝森特週三接受採訪時說：“我們在與伊朗的談判中看到，伊朗方面將以美元開具發票。”他說，這是美元即將在全球經濟中更廣泛重新確立主導地位的一個組成部分。貝森特還表示，美國財政部將從卡達多哈負責監督伊朗被凍結資金的處理工作。“其中很大一部分將用於購買美國食品和藥品。因此，我們將把這筆資金重新投入到美國產品中。”在被問及美國財長曆來鍾愛強勢美元的傳統時，貝森特說道，“我們所鍾愛的是做正確的事讓美元堅挺。”
-
----
-
-### 2026-06-25 00:57:02  #MKT News #Important #WTI #Impact bearish #Brent
-
-US energy minister Wright said innovative replenishment methods could raise the Strategic Petroleum Reserve (SPR) to 500 mln barrels.
-
----
-
-### 2026-06-25 00:56:49  #MKT News #Commodities #Energy #WTI #Impact bearish #Brent
-
-U.S. Energy Secretary wright expects to raise Venezuelan oil exports to about 2.0 mln bpd during this administration.
-
----
-
-### 2026-06-25 00:56:27  #國際
-
-美國能源部長賴特表示，預計本屆政府任期內能夠將委內瑞拉石油出口提升至每日200萬桶。
-
----
-
-### 2026-06-25 00:56:16  #國際
-
-美國能源部長賴特稱，透過創新補庫方案，美國戰略石油儲備（SPR）庫存有望回升至5億桶。
-
----
-
-### 2026-06-25 00:55:18  #其他
-
-【奧運史上首次：國際奧委會將向奧運選手發放津貼】國際奧委會24日宣佈將設立奧運選手補助金，給每名奧運選手發放1萬美元的津貼。該政策從2026年米蘭-科爾蒂納冬奧會開始生效。這是奧運史上首次面向所有參賽運動員直接發放補助。國際奧委會運動員委員會主席保羅·加索爾在當天舉行的國際奧委會第146次全會上表示，已為每個奧運週期預留1.4億美元基金，預計每個奧運週期約有14000名奧運選手有條件申請。（新華社）
-
----
-
-### 2026-06-25 00:54:17  #國際
-
-美國國務卿魯比奧：如果伊朗想要達成一項真正好的協議，美國對此持開放態度。
-
----
-
-### 2026-06-25 00:53:51  #國際
-
-美國能源部長賴特稱，關於延長《瓊斯法案》豁免期限一事，相關“磋商對話”仍在進行中。
-
----
-
-### 2026-06-25 00:53:50  #MKT News #XAUUSD #Impact bullish #WTI #DXY
-
-i24News reported the Israel Defense Forces struck a vehicle in southern Lebanon carrying suspects who were attempting to cross into an Israeli security zone.
-
----
-
-### 2026-06-25 00:53:20  #MKT News #Important
-
-【Rubio says U.S., Iran to resume technical talks at end of June】Multiple foreign outlets reported on the 24th that U.S. Secretary of State Rubio said U.S. and Iranian technical teams will resume talks in Switzerland at the end of June.
-
----
-
-### 2026-06-25 00:53:17  #國際
-
-【魯比奧：美伊本月底將繼續技術磋商】據多家外媒24日報道，美國國務卿魯比奧表示，美國和伊朗技術團隊將於6月底在瑞士繼續舉行會談。（新華社）
-
----
-
-### 2026-06-25 00:52:07  #國際
-
-美國能源部長賴特稱，人們相信石油供應將會增長。
-
----
-
-### 2026-06-25 00:51:13  #市場 #焦點
-
-比特幣跌破60000美元，日內跌4.36%。
-
----
-
-### 2026-06-25 00:50:21  #國際
-
-美國能源部長賴特稱，霍爾木茲海峽航運恢復常態尚需數週時間。
-
----
-
-### 2026-06-25 00:50:05  #MKT News #Important #Star Stocks #NVIDIA #Market Themes #Magnificent 7 #NVDA.O
-
-NVIDIA will hold its annual shareholder meeting in 10 minutes.
-
----
-
-### 2026-06-25 00:49:42  #國際
-
-昨日於華盛頓舉行的以黎首輪談判首日結束，未取得任何進展，某種程度上雙方立場甚至出現倒退。一名訊息人士透露，雙方談判過程中部分階段氣氛十分“糟糕”。以色列方面承認雙方存在分歧，但聲稱會談整體氛圍“融洽”。
-
----
-
-### 2026-06-25 00:49:23  #MKT News #WTI #Impact bullish #Brent
-
-U.S. Energy Secretary wright said the Strait of Hormuz will take several weeks to return to normal.
-
----
-
-### 2026-06-25 00:49:15  #MKT News
-
-According to the AP, a federal judge barred President Trump from enforcing a requirement that voters present proof of citizenship when voting.
-
----
-
-### 2026-06-25 00:48:50  #國際
-
-美國國務卿魯比奧：我們希望黎巴嫩武裝部隊以及擁有合法主權的黎巴嫩政府能夠持續掌控並保衛該國越來越多的領土。
-
----
-
-### 2026-06-25 00:45:22  #MKT News #WTI #Impact bearish #Brent
-
-U.S. Energy Secretary Wright said the U.S. will ensure oil flows through the Strait of Hormuz even if it does not reach an agreement with Iran.
-
----
-
-### 2026-06-25 00:45:20  #MKT News
-
-【Colombia left-wing candidate Cepeda concedes presidential election】On the morning of the 24th local time, Iván Cepeda, candidate from the left-wing governing coalition Historic Pact for Colombia, said via livestream he concedes defeat in the Colombian presidential election.
-
----
-
-### 2026-06-25 00:45:16  #其他
-
-【哥倫比亞左翼候選人塞佩達承認大選敗選】當地時間24日上午，來自左翼執政聯盟“哥倫比亞歷史公約聯盟”的候選人伊萬·塞佩達透過網路平臺直播宣佈，他承認在哥倫比亞總統選舉中落敗。（新華社）
-
----
-
-### 2026-06-25 00:44:26  #市場 #焦點
-
-SPACEX股價轉跌，下跌0.3%。
-
----
-
-### 2026-06-25 00:44:15  #國際
-
-美國能源部長賴特稱，即便無法與伊朗達成協議，美國仍將確保霍爾木茲海峽的石油流通順暢。
-
----
-
-### 2026-06-25 00:43:56  #國際
-
-美國能源部長賴特稱，伊朗在霍爾木茲海峽佈設水雷導致石油運輸恢復正常程序推遲。
-
----
-
-### 2026-06-25 00:43:36  #MKT News #WTI #Impact bullish #Brent
-
-U.S. Energy Secretary wright said the resumption of normal oil shipments has been delayed because Iran-laid sea mines remain in the Strait of Hormuz.
-
----
-
-### 2026-06-25 00:43:33  #MKT News #WTI #Impact bearish #Brent
-
-U.S. Energy Secretary wright said Iran will be unable to block passage through the Strait of Hormuz.
-
----
-
-### 2026-06-25 00:43:30  #國際
-
-美國能源部長賴特表示，過去24小時內約有72艘船隻駛出霍爾木茲海峽，總計運輸2000萬桶石油。
-
----
-
-### 2026-06-25 00:43:19  #國際
-
-美國能源部長賴特稱，伊朗今後將無力封鎖霍爾木茲海峽。
-
----
-
-### 2026-06-25 00:42:29  #央行 #國際
-
-美國財長貝森特：對美聯儲需要警惕的核心底層通脹壓力不予置評。但我認為，我們必須客觀看待伊朗衝突對物價、通脹造成的衝擊，等本輪能源漲價效應消退後，再觀察通脹實際表現。同時也要理性看待人工智慧產業熱潮——AI有望提振生產率、起到抑制通脹的作用，推動通脹回落至目標水平。我確信凱文·沃什會選擇最優政策路徑，兼顧抑制通脹與穩定增長兩大美聯儲法定職責。要知道，他此前表態時對通脹風險措辭強硬。
-
----
-
-### 2026-06-25 00:41:54  #MKT News #Commodities #Energy #WTI #Impact bearish #Brent
-
-US Energy Secretary wright said roughly 72 vessels departed the Strait of Hormuz in the past 24 hours, carrying about 20 million barrels of oil.
-
----
-
-### 2026-06-25 00:41:47  #央行 #國際
-
-美國財長貝森特：我認為美國經濟將實現高國內生產總值（GDP）增速，同時不會出現傳統意義上的通脹抬頭。過去幾天，各界都在回顧格林斯潘的執政歷程。他極具先見之明，90年代前夕，美國生產率增速約1.5%，但他預判辦公裝置現代化與網際網路浪潮能夠推動無通脹型經濟繁榮。當年美聯儲僅在1997年初小幅加息一次、短暫收緊政策，除此之外，美國迎來了史上持續時間最長的經濟擴張週期。如今我們很有可能再次復刻這一局面。
-
----
-
-### 2026-06-25 00:41:20  #央行 #焦點 #國際
-
-美國財長貝森特表示，希望美聯儲能“保持開放心態”，待伊朗局勢推升能源價格的影響消退後，再重新審視通脹走勢。
-
----
-
-### 2026-06-25 00:40:36  #市場
-
-特斯拉股價延續跌勢，跌至當日低點，下跌0.9%。
-
----
-
-### 2026-06-25 00:38:17  #MKT News
-
-Iraq's prime minister says ties with the United States will shift from a military relationship to an economic partnership.
-
----
-
-### 2026-06-25 00:38:01  #MKT News #Commodities #Energy #Market Regions #Emerging Markets #WTI #Impact bearish #Brent
-
-Brazil's oil regulator ANP head said domestic fuel prices are gradually easing after a preliminary U.S.-Iran agreement.
-
----
-
-### 2026-06-25 00:37:57  #國際
-
-巴西石油監管機構國家石油、天然氣和生物燃料局（ANP）局長表示，在美國與伊朗達成初步協議後，巴西國內燃油價格正逐步下降。
-
----
-
-### 2026-06-25 00:37:53  #MKT News
-
-German Chancellor Merz urged a NATO "renewal" after the E5 leaders' meeting.
-
----
-
-### 2026-06-25 00:34:33  #Trading Economics #Economy #Russia #Industrial Production #Importance 1
-
-Russia Industrial Output Declines — Industrial production in Russia declined by 0.7% year-on-year in May 2026, reversing a 1.9% gain in the previous month. Output declines were recorded in mining, extending a decline to 2.7% from 0.4% in the previous month, followed by weakened activity in the provision of electricity, gas and steam, air conditioning (-2.2% vs 0.9%) and water supply, sanitation, waste collection and disposal, pollution control activities (-3.4% vs 0.9%). Manufacturing growth slowed sharply, increasing only 0.5% compared to 3.1%. On a seasonally adjusted monthly basis, industrial production declined 0.8% in May, following an increase of 0.3% in the prior period.
-
----
-
-### 2026-06-25 00:34:29  #其他
-
-德國總理默茨出席E5國家領導人會晤後，呼籲北約進行“革新重塑”。
-
----
-
-### 2026-06-25 00:34:20  #Trading Economics #Markets #United States #stocks #Importance 1
-
-Starbucks Stock Price Hits 4-week High — Starbucks shares increased to 103.70 USD, the highest since May 2026. Over the past 4 weeks, Starbucks gained 2.11%, and in the last 12 months, it increased 13.68%.
-
----
-
-### 2026-06-25 00:34:06  #MKT News #Market Themes #The Trump Trade #WTI #Impact bullish #Brent
-
-【Rubio: Iran must honor commitments or Trump will act】U.S. Secretary of State Rubio called Washington’s 60-day sanctions waiver for Iran a temporary measure and said the U.S. expects Tehran to honor commitments made under the agreement. He warned that if Iran does not comply, President Trump has multiple options, including — Rubio said he was not asserting Trump would necessarily use them — reimposing sanctions. Rubio noted the commitments were made clearly in Switzerland and said compliance would allow the U.S. to proceed, while non‑compliance would prompt presidential responses.
-
----
-
-### 2026-06-25 00:33:47  #國際
-
-美國駐義大利大使正進一步緩和兩國的緊張關係，他表示，儘管義大利總理梅洛尼與特朗普發生過公開爭執，但兩國關係“一切良好”。
-
----
-
-### 2026-06-25 00:31:19  #其他
-
-如果方案獲批，搭載（本田、日產、三菱）標準化電子控制單元的車輛最早可於2029年或2030年上市。
-
----
-
-### 2026-06-25 00:30:50  #國際
-
-市場資訊：以色列與黎巴嫩討論移交領土的試點方案。
-
----
-
-### 2026-06-25 00:30:31  #MKT News #Important #Commodities #Energy #WTI #Impact bullish #Brent
-
-Abu Dhabi National Oil Co (ADNOC) set July Murban crude official selling price (OSP) at $101.48 per barrel.
-
----
-
-### 2026-06-25 00:30:29  #公司
-
-阿聯酋阿布扎比國家石油公司（ADNOC）將7月穆爾班原油官方售價定在每桶101.48美元。
-
----
-
-### 2026-06-25 00:28:33  #其他
-
-本田、日產、三菱就下一代汽車電子控制單元標準化進入最終談判階段。
-
----
-
-### 2026-06-25 00:28:15  #MKT News #Market Regions #Japan & APAC
-
-Nikkei reports Honda, Nissan and Mitsubishi plan to standardize next-generation components to reduce costs.
-
----
-
-### 2026-06-25 00:27:42  #MKT News
-
-Iran Foreign Ministry spokesman BAGHAEI said ending US interference and occupation is the only way to secure genuine peace in West Asia.
-
----
-
-### 2026-06-25 00:27:24  #國際
-
-官方資料顯示，俄羅斯5月石油產品與焦炭產量同比下降13.5%。
-
----
-
-### 2026-06-25 00:26:11  #國際
-
-美國國務卿魯比奧：我沒有感受到（中東地區盟友）各方對我方安全保障存在任何疑慮，因為這些保障是實打實的。
-
----
-
-### 2026-06-25 00:24:26  #MKT News
-
-Colombia's president-elect said Colombia will restore and strengthen relations with Israel on an unprecedented scale.
 
 ---

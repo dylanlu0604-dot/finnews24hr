@@ -1,7 +1,325 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-06-27 15:41:59_
-_本檔包含 3750 則快訊，約 671411 字_
+_更新時間：2026-06-27 16:38:31_
+_本檔包含 3774 則快訊，約 672386 字_
+
+---
+
+### 2026-06-25 00:57:33  #宏觀 #國際
+
+【貝森特稱美伊談判涵蓋伊朗重返美元體系 強調美元主導地位至關重要】美國財政部長斯科特·貝森特暗示，美國與伊朗的談判內容包括這個長期與美國對立的國家加入美元體系，並以美元為其石油銷售開具發票。貝森特週三接受採訪時說：“我們在與伊朗的談判中看到，伊朗方面將以美元開具發票。”他說，這是美元即將在全球經濟中更廣泛重新確立主導地位的一個組成部分。貝森特還表示，美國財政部將從卡達多哈負責監督伊朗被凍結資金的處理工作。“其中很大一部分將用於購買美國食品和藥品。因此，我們將把這筆資金重新投入到美國產品中。”在被問及美國財長曆來鍾愛強勢美元的傳統時，貝森特說道，“我們所鍾愛的是做正確的事讓美元堅挺。”
+
+---
+
+### 2026-06-25 00:57:02  #MKT News #Important #WTI #Impact bearish #Brent
+
+US energy minister Wright said innovative replenishment methods could raise the Strategic Petroleum Reserve (SPR) to 500 mln barrels.
+
+---
+
+### 2026-06-25 00:56:49  #MKT News #Commodities #Energy #WTI #Impact bearish #Brent
+
+U.S. Energy Secretary wright expects to raise Venezuelan oil exports to about 2.0 mln bpd during this administration.
+
+---
+
+### 2026-06-25 00:56:27  #國際
+
+美國能源部長賴特表示，預計本屆政府任期內能夠將委內瑞拉石油出口提升至每日200萬桶。
+
+---
+
+### 2026-06-25 00:56:16  #國際
+
+美國能源部長賴特稱，透過創新補庫方案，美國戰略石油儲備（SPR）庫存有望回升至5億桶。
+
+---
+
+### 2026-06-25 00:55:18  #其他
+
+【奧運史上首次：國際奧委會將向奧運選手發放津貼】國際奧委會24日宣佈將設立奧運選手補助金，給每名奧運選手發放1萬美元的津貼。該政策從2026年米蘭-科爾蒂納冬奧會開始生效。這是奧運史上首次面向所有參賽運動員直接發放補助。國際奧委會運動員委員會主席保羅·加索爾在當天舉行的國際奧委會第146次全會上表示，已為每個奧運週期預留1.4億美元基金，預計每個奧運週期約有14000名奧運選手有條件申請。（新華社）
+
+---
+
+### 2026-06-25 00:54:17  #國際
+
+美國國務卿魯比奧：如果伊朗想要達成一項真正好的協議，美國對此持開放態度。
+
+---
+
+### 2026-06-25 00:53:51  #國際
+
+美國能源部長賴特稱，關於延長《瓊斯法案》豁免期限一事，相關“磋商對話”仍在進行中。
+
+---
+
+### 2026-06-25 00:53:50  #MKT News #XAUUSD #Impact bullish #WTI #DXY
+
+i24News reported the Israel Defense Forces struck a vehicle in southern Lebanon carrying suspects who were attempting to cross into an Israeli security zone.
+
+---
+
+### 2026-06-25 00:53:20  #MKT News #Important
+
+【Rubio says U.S., Iran to resume technical talks at end of June】Multiple foreign outlets reported on the 24th that U.S. Secretary of State Rubio said U.S. and Iranian technical teams will resume talks in Switzerland at the end of June.
+
+---
+
+### 2026-06-25 00:53:17  #國際
+
+【魯比奧：美伊本月底將繼續技術磋商】據多家外媒24日報道，美國國務卿魯比奧表示，美國和伊朗技術團隊將於6月底在瑞士繼續舉行會談。（新華社）
+
+---
+
+### 2026-06-25 00:52:07  #國際
+
+美國能源部長賴特稱，人們相信石油供應將會增長。
+
+---
+
+### 2026-06-25 00:51:13  #市場 #焦點
+
+比特幣跌破60000美元，日內跌4.36%。
+
+---
+
+### 2026-06-25 00:50:21  #國際
+
+美國能源部長賴特稱，霍爾木茲海峽航運恢復常態尚需數週時間。
+
+---
+
+### 2026-06-25 00:50:05  #MKT News #Important #Star Stocks #NVIDIA #Market Themes #Magnificent 7 #NVDA.O
+
+NVIDIA will hold its annual shareholder meeting in 10 minutes.
+
+---
+
+### 2026-06-25 00:49:42  #國際
+
+昨日於華盛頓舉行的以黎首輪談判首日結束，未取得任何進展，某種程度上雙方立場甚至出現倒退。一名訊息人士透露，雙方談判過程中部分階段氣氛十分“糟糕”。以色列方面承認雙方存在分歧，但聲稱會談整體氛圍“融洽”。
+
+---
+
+### 2026-06-25 00:49:23  #MKT News #WTI #Impact bullish #Brent
+
+U.S. Energy Secretary wright said the Strait of Hormuz will take several weeks to return to normal.
+
+---
+
+### 2026-06-25 00:49:15  #MKT News
+
+According to the AP, a federal judge barred President Trump from enforcing a requirement that voters present proof of citizenship when voting.
+
+---
+
+### 2026-06-25 00:48:50  #國際
+
+美國國務卿魯比奧：我們希望黎巴嫩武裝部隊以及擁有合法主權的黎巴嫩政府能夠持續掌控並保衛該國越來越多的領土。
+
+---
+
+### 2026-06-25 00:45:22  #MKT News #WTI #Impact bearish #Brent
+
+U.S. Energy Secretary Wright said the U.S. will ensure oil flows through the Strait of Hormuz even if it does not reach an agreement with Iran.
+
+---
+
+### 2026-06-25 00:45:20  #MKT News
+
+【Colombia left-wing candidate Cepeda concedes presidential election】On the morning of the 24th local time, Iván Cepeda, candidate from the left-wing governing coalition Historic Pact for Colombia, said via livestream he concedes defeat in the Colombian presidential election.
+
+---
+
+### 2026-06-25 00:45:16  #其他
+
+【哥倫比亞左翼候選人塞佩達承認大選敗選】當地時間24日上午，來自左翼執政聯盟“哥倫比亞歷史公約聯盟”的候選人伊萬·塞佩達透過網路平臺直播宣佈，他承認在哥倫比亞總統選舉中落敗。（新華社）
+
+---
+
+### 2026-06-25 00:44:26  #市場 #焦點
+
+SPACEX股價轉跌，下跌0.3%。
+
+---
+
+### 2026-06-25 00:44:15  #國際
+
+美國能源部長賴特稱，即便無法與伊朗達成協議，美國仍將確保霍爾木茲海峽的石油流通順暢。
+
+---
+
+### 2026-06-25 00:43:56  #國際
+
+美國能源部長賴特稱，伊朗在霍爾木茲海峽佈設水雷導致石油運輸恢復正常程序推遲。
+
+---
+
+### 2026-06-25 00:43:36  #MKT News #WTI #Impact bullish #Brent
+
+U.S. Energy Secretary wright said the resumption of normal oil shipments has been delayed because Iran-laid sea mines remain in the Strait of Hormuz.
+
+---
+
+### 2026-06-25 00:43:33  #MKT News #WTI #Impact bearish #Brent
+
+U.S. Energy Secretary wright said Iran will be unable to block passage through the Strait of Hormuz.
+
+---
+
+### 2026-06-25 00:43:30  #國際
+
+美國能源部長賴特表示，過去24小時內約有72艘船隻駛出霍爾木茲海峽，總計運輸2000萬桶石油。
+
+---
+
+### 2026-06-25 00:43:19  #國際
+
+美國能源部長賴特稱，伊朗今後將無力封鎖霍爾木茲海峽。
+
+---
+
+### 2026-06-25 00:42:29  #央行 #國際
+
+美國財長貝森特：對美聯儲需要警惕的核心底層通脹壓力不予置評。但我認為，我們必須客觀看待伊朗衝突對物價、通脹造成的衝擊，等本輪能源漲價效應消退後，再觀察通脹實際表現。同時也要理性看待人工智慧產業熱潮——AI有望提振生產率、起到抑制通脹的作用，推動通脹回落至目標水平。我確信凱文·沃什會選擇最優政策路徑，兼顧抑制通脹與穩定增長兩大美聯儲法定職責。要知道，他此前表態時對通脹風險措辭強硬。
+
+---
+
+### 2026-06-25 00:41:54  #MKT News #Commodities #Energy #WTI #Impact bearish #Brent
+
+US Energy Secretary wright said roughly 72 vessels departed the Strait of Hormuz in the past 24 hours, carrying about 20 million barrels of oil.
+
+---
+
+### 2026-06-25 00:41:47  #央行 #國際
+
+美國財長貝森特：我認為美國經濟將實現高國內生產總值（GDP）增速，同時不會出現傳統意義上的通脹抬頭。過去幾天，各界都在回顧格林斯潘的執政歷程。他極具先見之明，90年代前夕，美國生產率增速約1.5%，但他預判辦公裝置現代化與網際網路浪潮能夠推動無通脹型經濟繁榮。當年美聯儲僅在1997年初小幅加息一次、短暫收緊政策，除此之外，美國迎來了史上持續時間最長的經濟擴張週期。如今我們很有可能再次復刻這一局面。
+
+---
+
+### 2026-06-25 00:41:20  #央行 #焦點 #國際
+
+美國財長貝森特表示，希望美聯儲能“保持開放心態”，待伊朗局勢推升能源價格的影響消退後，再重新審視通脹走勢。
+
+---
+
+### 2026-06-25 00:40:36  #市場
+
+特斯拉股價延續跌勢，跌至當日低點，下跌0.9%。
+
+---
+
+### 2026-06-25 00:38:17  #MKT News
+
+Iraq's prime minister says ties with the United States will shift from a military relationship to an economic partnership.
+
+---
+
+### 2026-06-25 00:38:01  #MKT News #Commodities #Energy #Market Regions #Emerging Markets #WTI #Impact bearish #Brent
+
+Brazil's oil regulator ANP head said domestic fuel prices are gradually easing after a preliminary U.S.-Iran agreement.
+
+---
+
+### 2026-06-25 00:37:57  #國際
+
+巴西石油監管機構國家石油、天然氣和生物燃料局（ANP）局長表示，在美國與伊朗達成初步協議後，巴西國內燃油價格正逐步下降。
+
+---
+
+### 2026-06-25 00:37:53  #MKT News
+
+German Chancellor Merz urged a NATO "renewal" after the E5 leaders' meeting.
+
+---
+
+### 2026-06-25 00:34:33  #Trading Economics #Economy #Russia #Industrial Production #Importance 1
+
+Russia Industrial Output Declines — Industrial production in Russia declined by 0.7% year-on-year in May 2026, reversing a 1.9% gain in the previous month. Output declines were recorded in mining, extending a decline to 2.7% from 0.4% in the previous month, followed by weakened activity in the provision of electricity, gas and steam, air conditioning (-2.2% vs 0.9%) and water supply, sanitation, waste collection and disposal, pollution control activities (-3.4% vs 0.9%). Manufacturing growth slowed sharply, increasing only 0.5% compared to 3.1%. On a seasonally adjusted monthly basis, industrial production declined 0.8% in May, following an increase of 0.3% in the prior period.
+
+---
+
+### 2026-06-25 00:34:29  #其他
+
+德國總理默茨出席E5國家領導人會晤後，呼籲北約進行“革新重塑”。
+
+---
+
+### 2026-06-25 00:34:20  #Trading Economics #Markets #United States #stocks #Importance 1
+
+Starbucks Stock Price Hits 4-week High — Starbucks shares increased to 103.70 USD, the highest since May 2026. Over the past 4 weeks, Starbucks gained 2.11%, and in the last 12 months, it increased 13.68%.
+
+---
+
+### 2026-06-25 00:34:06  #MKT News #Market Themes #The Trump Trade #WTI #Impact bullish #Brent
+
+【Rubio: Iran must honor commitments or Trump will act】U.S. Secretary of State Rubio called Washington’s 60-day sanctions waiver for Iran a temporary measure and said the U.S. expects Tehran to honor commitments made under the agreement. He warned that if Iran does not comply, President Trump has multiple options, including — Rubio said he was not asserting Trump would necessarily use them — reimposing sanctions. Rubio noted the commitments were made clearly in Switzerland and said compliance would allow the U.S. to proceed, while non‑compliance would prompt presidential responses.
+
+---
+
+### 2026-06-25 00:33:47  #國際
+
+美國駐義大利大使正進一步緩和兩國的緊張關係，他表示，儘管義大利總理梅洛尼與特朗普發生過公開爭執，但兩國關係“一切良好”。
+
+---
+
+### 2026-06-25 00:31:19  #其他
+
+如果方案獲批，搭載（本田、日產、三菱）標準化電子控制單元的車輛最早可於2029年或2030年上市。
+
+---
+
+### 2026-06-25 00:30:50  #國際
+
+市場資訊：以色列與黎巴嫩討論移交領土的試點方案。
+
+---
+
+### 2026-06-25 00:30:31  #MKT News #Important #Commodities #Energy #WTI #Impact bullish #Brent
+
+Abu Dhabi National Oil Co (ADNOC) set July Murban crude official selling price (OSP) at $101.48 per barrel.
+
+---
+
+### 2026-06-25 00:30:29  #公司
+
+阿聯酋阿布扎比國家石油公司（ADNOC）將7月穆爾班原油官方售價定在每桶101.48美元。
+
+---
+
+### 2026-06-25 00:28:33  #其他
+
+本田、日產、三菱就下一代汽車電子控制單元標準化進入最終談判階段。
+
+---
+
+### 2026-06-25 00:28:15  #MKT News #Market Regions #Japan & APAC
+
+Nikkei reports Honda, Nissan and Mitsubishi plan to standardize next-generation components to reduce costs.
+
+---
+
+### 2026-06-25 00:27:42  #MKT News
+
+Iran Foreign Ministry spokesman BAGHAEI said ending US interference and occupation is the only way to secure genuine peace in West Asia.
+
+---
+
+### 2026-06-25 00:27:24  #國際
+
+官方資料顯示，俄羅斯5月石油產品與焦炭產量同比下降13.5%。
+
+---
+
+### 2026-06-25 00:26:11  #國際
+
+美國國務卿魯比奧：我沒有感受到（中東地區盟友）各方對我方安全保障存在任何疑慮，因為這些保障是實打實的。
+
+---
+
+### 2026-06-25 00:24:26  #MKT News
+
+Colombia's president-elect said Colombia will restore and strengthen relations with Israel on an unprecedented scale.
 
 ---
 
@@ -22446,179 +22764,5 @@ Lebanese president said a new US-backed round of talks with Israel could be deci
 ### 2026-06-23 21:43:12  #Trading Economics #Markets #Commodity #Importance 1
 
 Cocoa Futures at Over 1-Month High — Cocoa futures traded around $4,600 per tonne, the highest since May 11, driven by short covering and weather-related supply concerns. Traders monitored the end of the mid-season harvest in West Africa and the upcoming main harvest, which starts in September. Farmers in top grower Ivory Coast have expressed concerns that recent above-average rainfall could lead to flooding, higher disease incidence, and reduced cocoa bean quality during the final stretch of the mid-crop harvest. While rainfall is crucial for crop development, excessive moisture also favors the emergence of fungal diseases and an increased presence of insects in crops, particularly at a critical stage for cocoa pod formation and ripening. Meanwhile, concerns about the potential impact of the El Nino persisted. Another factor for investors is the drop in ICE-certified stocks at US ports, which fell by 3,828 bags to 2,914,908, suggesting tighter supply.
-
----
-
-### 2026-06-23 21:43:08  #其他
-
-【CPO量產並未延期，卡點在上移】AI算力狂飆，光互聯賽道在“模糊美好”的想象下估值天花板迅速上行。一方面，股價極易受邊際資訊影響而劇烈波動，另一方面，每一次回踩後，市值又屢創新高。不久前，SemiAnalysis的一紙報告引發全球光通訊板塊集體跳水，“CPO量產延期”的悲觀敘事引起市場巨震，英偉達高管甚至在臺北參會期間緊急“闢謠”。21世紀經濟報道記者也從接近英偉達的業內人士處得到印證，在產業端並不存在CPO量產推遲。市場的巨大分歧，或是混淆了“小批次驗證匯入”和“全行業普及”兩個完全不同的週期。真相遠比單一看多或看空更復雜。多位產業人士對記者表示，真正制約CPO乃至整個高速光通訊產品的是上游的磷化銦鐳射晶片。光晶片產線建設加上客戶驗證的漫長時間週期，使其成為當前產能擴張的最短板。長期看，CPO仍是超大模型訓練叢集的終極方案；短期內，NPO、LPO、傳統可插拔光模組或形成多路並行格局，分擔超高頻寬算力需求。算力頻寬競賽的火熱並不會冷卻，但高速光互聯技術落地，註定是一場上游產能先行、分階段迭代的慢行情。（21世紀經濟報道）
-
----
-
-### 2026-06-23 21:43:05  #公司
-
-【寧德時代：明年6月啟動鈉電儲能系統全球市場交付】寧德時代釋出了全球首款場站級鈉電儲能解決方案，推出了實證型鈉電儲能系統天恆鈉電。寧德時代同時宣佈，公司鈉電儲能解決方案及供應鏈均已達到商業化水平，即將開啟規模化交付。寧德時代此前已對外表示，在中國市場，公司將於今年9月向客戶交付首批鈉離子電池儲能系統，全年實現GWh級出貨。根據最新披露，寧德時代的鈉電儲能系統在全球市場則將於明年6月啟動交付。（澎湃）
-
----
-
-### 2026-06-23 21:42:42  #MKT News #Important #XAUUSD #Impact bullish #Brent
-
-Lebanon's president said he will accept no compromise unless the "Israeli occupation of southern Lebanon" ends.
-
----
-
-### 2026-06-23 21:42:18  #市場
-
-標普500軟體指數上漲1.2%，逆勢擺脫科技股回撥拖累。
-
----
-
-### 2026-06-23 21:42:11  #國際
-
-黎巴嫩總統奧恩表示，由美國支援的新一輪與以色列的談判可能具有決定性意義。
-
----
-
-### 2026-06-23 21:41:09  #央行 #其他
-
-匈牙利央行行長：生產力亟需提升。
-
----
-
-### 2026-06-23 21:40:51  #央行 #其他
-
-匈牙利央行行長：企業可透過對沖工具緩釋外匯風險。
-
----
-
-### 2026-06-23 21:40:42  #國際
-
-黎巴嫩總統奧恩表示，只有結束以色列對黎巴嫩南部的佔領，他才會接受。
-
----
-
-### 2026-06-23 21:40:37  #其他
-
-【香港城大和新加坡教育機構攜手成立“應用資料科學與政策研究院”】新加坡科技與管理學院（GSTM）向香港城市大學（簡稱“城大”）捐贈2000萬港元，以支援城大計算學院的學術教研與創科人才培育，攜手為區域科技發展注入動能。有關儀式23日在城大舉行。 據介紹，該捐款中1500萬港元將用於城大成立“應用資料科學與政策研究院”，以促進資料科學、人工智慧與政策研究的應用，支援城大在資料科學、人工智慧領域，尤其是知識轉移工作中保持領先地位，助力應用政策研究領域邁上新臺階。（新華社）
-
----
-
-### 2026-06-23 21:40:03  #Trading Economics #Markets #United States #Stock Market #Importance 1
-
-The Dow Jones Index Opens 0.64% Lower — The Dow Jones Index is losing 332 points. Losses were led by Caterpillar (-4.70%), Nvidia (-3.09%) and Cisco Systems (-2.77%). Offsetting the fall, top gainers were IBM (3.29%), Amgen (2.79%) and Microsoft (2.19%).
-
----
-
-### 2026-06-23 21:40:00  #公司
-
-【ST新華錦：公司股票被實施其他風險警示及相關進展情況】ST新華錦公告稱，中興華對公司2025年度財務報告內部控制審計出具否定意見，公司股票自2026年4月27日起被實施其他風險警示。4月20日，公司解決資金佔用問題，相關警示已撤銷。公司將健全內控制度。此外，若連續2個會計年度內控審計被出具否定意見，公司股票將被實施退市風險警示；公司及實控人被立案調查；公司及關聯方可能被處罰；控股股東等公司重整或影響控制權，存在不確定性。
-
----
-
-### 2026-06-23 21:39:48  #央行 #其他
-
-匈牙利央行行長：未設定外匯目標。
-
----
-
-### 2026-06-23 21:39:42  #央行 #其他
-
-英國央行委員泰勒：英國央行必須防範“短期偏見”，避免重蹈覆轍。
-
----
-
-### 2026-06-23 21:39:26  #公司
-
-【一博科技：目前包括光模組在內的AI領域、機器人領域及ATE領域訂單增長較快】一博科技在機構調研時表示，目前公司前十大簽單客戶結構較往年有所變化，逐漸在向AI/ATE/機器人/新能源等領域靠攏。現有前十大客戶中有2家主業是光模組的，有2家主業與ATE相關，其餘為機器人、新能源、伺服器、高階裝備等相關領域。目前包括光模組在內的AI領域、機器人領域及ATE領域訂單增長較快，公司會結合訂單增長變化做出針對性的調整安排，以更好地滿足客戶需求。
-
----
-
-### 2026-06-23 21:39:20  #MKT News
-
-Bank of England Monetary Policy Committee member Taylor said the central bank must guard against 'short-term bias' to avoid repeating past mistakes.
-
----
-
-### 2026-06-23 21:39:19  #市場
-
-墨西哥主要股指早盤下跌1.5%。
-
----
-
-### 2026-06-23 21:38:46  #MKT News #Market Regions #Wall Street (US) #S&P500 #Impact bearish #Nasdaq100 #Dow
-
-The Russell 2000 index fell 1.6%.
-
----
-
-### 2026-06-23 21:38:40  #MKT News #AMC.N #Impact bearish
-
-AMC (AMC.N) shares plunged nearly 30% to below $2 after the company announced a $200 million offering of new shares.
-
----
-
-### 2026-06-23 21:38:28  #國際
-
-【俄油出口量繼續增加 伊朗供應湧入將構成挑戰】在美國製裁豁免釋放了競爭對手伊朗的石油出口後，俄羅斯正面臨向主要客戶印度銷售石油的激烈競爭，但其石油出口量仍達到今年以來的最高水平。根據彭博彙編的油輪運輸資料，截至6月21日的四周內，俄羅斯原油平均出口量為389萬桶/日，較前一週略有上升。原油出口增加之際，烏克蘭持續對俄羅斯煉油廠發動襲擊，這可能導致無法加工的原油轉而進行出口。由於被美國封鎖的船隻獲准離開，伊朗的石油供應（其中一些是俄羅斯烏拉爾原油的良好替代品）正大量湧入市場。在霍爾木茲海峽關閉期間，俄羅斯藉助美國對其出口的制裁豁免，為其增加的出口找到了現成的市場，尤其方便了印度加工商增加採購。但針對俄羅斯的最新制裁豁免已於6月17日到期，若未能續期，加工商可能轉向其他來源採購。
-
----
-
-### 2026-06-23 21:38:15  #其他
-
-【高溫天氣持續，法國埃菲爾鐵塔提前停止接待遊客】當地時間6月23日，由於法國巴黎持續遭遇高溫天氣，埃菲爾鐵塔運營方宣佈，鐵塔將於當天16時起停止接待遊客，而非原定的次日凌晨0時45分關閉。運營方表示，此舉是為了應對當前高溫天氣帶來的影響，並保障遊客及工作人員的安全。（央視新聞）
-
----
-
-### 2026-06-23 21:38:00  #公司 #市場
-
-半導體相關公司股價多數下跌，邁威爾科技集團跌9.2%，高通跌6.9%，Arm下跌8.5%，微芯科技下跌5.4%，應用材料下跌9.7%，英偉達下跌3.7%，AMD下跌7.5%，博通下跌2.8%，英特爾下滑9%。ISHARES半導體ETF下跌6.9%，VANECK半導體ETF下跌6.2%，ROUNDHILL記憶體ETF下跌13.5%。
-
----
-
-### 2026-06-23 21:37:42  #MKT News #Commodities #Energy #WTI #Impact bearish #Brent
-
-【Russian oil exports rise; inflow of Iranian supply poses challenge】Russian crude exports reached a year-to-date high, averaging 3.89 mln b/d over the four weeks to June 21, Bloomberg tanker data show. Continued Ukrainian strikes on Russian refineries have cut domestic processing, potentially diverting barrels into exports. At the same time, a recent release of detained Iranian tankers has pushed significant Iranian crude—some viewed as a close substitute for Urals—into the market, intensifying competition for buyers, particularly Indian refiners. A US exemption for Russian buyers expired on June 17; failure to renew it could prompt processors to shift to other suppliers.
-
----
-
-### 2026-06-23 21:37:24  #MKT News #Important
-
-Semiconductor stocks fell sharply: Marvell (MRVL.O) down 9.2%, Qualcomm (QCOM.O) down 6.9%, Arm (ARM.O) down 8.5%, Microchip Technology (MCHP.O) down 5.4%, Applied Materials (AMAT.O) down 9.7%, NVIDIA (NVDA.O) down 3.7%, AMD (AMD.O) down 7.5%, Broadcom (AVGO.O) down 2.8% and Intel (INTC.O) down 9%. Sector ETFs also plunged: iShares Semiconductor ETF down 6.9%, VanEck Semiconductor ETF down 6.2% and Roundhill Memory ETF down 13.5%.
-
----
-
-### 2026-06-23 21:36:36  #央行 #其他
-
-匈牙利央行行長：預計夏季將分三次降息，每次降息25個基點。
-
----
-
-### 2026-06-23 21:36:15  #公司
-
-【中企承建奈及利亞首都區衛星城供水專案交付】奈及利亞首都區衛星城供水專案22日舉行交付儀式。專案由中地海外奈及利亞有限公司承建，新建供水管道近400公里，覆蓋布瓦里、卡魯兩個片區，預計將為近100萬居民提供潔淨用水。(新華社)
-
----
-
-### 2026-06-23 21:35:49  #市場
-
-羅素2000指數下跌1.6%。
-
----
-
-### 2026-06-23 21:35:45  #Trading Economics #Markets #United States #Stock Market #Importance 1
-
-US Tech Stocks Sell Off — US equity indices slumped on Tuesday amid a selloff in the heavyweight tech sector. The Nasdaq 100 slid 3%, the S&P 500 dropped 1.5%, and the Dow lost 0.5%. AI stocks tanked on increasing skepticism that spending by hyperscalers will not meet returns. Nvidia and Tesla lost 4%. On the same note, SpaceX plunged 16% as it issued bonds only one week after its IPO, adding to fears of colossal capital expenditure. Chip stocks slipped as SK Hynix slowed production of advanced AI chips to boost commodity DRAM capacity, also aligned with concerns that AI datacenter speculation does not match fundamentals. Micron tanked 11% ahead of its earnings tomorrow and Sandisk lost over 12%. Treasury yields remained elevated despite the decline in energy prices following the hawkish dot plot last week, limiting any respite for traditional sectors of the economy. Finance was pressured as Apollo once again capped private equity withdrawals.
-
----
-
-### 2026-06-23 21:35:30  #央行 #其他
-
-匈牙利央行行長：開啟降息小週期。
-
----
-
-### 2026-06-23 21:35:21  #央行 #其他
-
-匈牙利央行行長：我們將在9月重新評估經濟前景。
 
 ---

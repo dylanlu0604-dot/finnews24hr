@@ -1,7 +1,181 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-06-27 15:41:59_
-_本檔包含 3541 則快訊，約 671464 字_
+_更新時間：2026-06-27 16:38:31_
+_本檔包含 3544 則快訊，約 671341 字_
+
+---
+
+### 2026-06-23 21:43:08  #其他
+
+【CPO量產並未延期，卡點在上移】AI算力狂飆，光互聯賽道在“模糊美好”的想象下估值天花板迅速上行。一方面，股價極易受邊際資訊影響而劇烈波動，另一方面，每一次回踩後，市值又屢創新高。不久前，SemiAnalysis的一紙報告引發全球光通訊板塊集體跳水，“CPO量產延期”的悲觀敘事引起市場巨震，英偉達高管甚至在臺北參會期間緊急“闢謠”。21世紀經濟報道記者也從接近英偉達的業內人士處得到印證，在產業端並不存在CPO量產推遲。市場的巨大分歧，或是混淆了“小批次驗證匯入”和“全行業普及”兩個完全不同的週期。真相遠比單一看多或看空更復雜。多位產業人士對記者表示，真正制約CPO乃至整個高速光通訊產品的是上游的磷化銦鐳射晶片。光晶片產線建設加上客戶驗證的漫長時間週期，使其成為當前產能擴張的最短板。長期看，CPO仍是超大模型訓練叢集的終極方案；短期內，NPO、LPO、傳統可插拔光模組或形成多路並行格局，分擔超高頻寬算力需求。算力頻寬競賽的火熱並不會冷卻，但高速光互聯技術落地，註定是一場上游產能先行、分階段迭代的慢行情。（21世紀經濟報道）
+
+---
+
+### 2026-06-23 21:43:05  #公司
+
+【寧德時代：明年6月啟動鈉電儲能系統全球市場交付】寧德時代釋出了全球首款場站級鈉電儲能解決方案，推出了實證型鈉電儲能系統天恆鈉電。寧德時代同時宣佈，公司鈉電儲能解決方案及供應鏈均已達到商業化水平，即將開啟規模化交付。寧德時代此前已對外表示，在中國市場，公司將於今年9月向客戶交付首批鈉離子電池儲能系統，全年實現GWh級出貨。根據最新披露，寧德時代的鈉電儲能系統在全球市場則將於明年6月啟動交付。（澎湃）
+
+---
+
+### 2026-06-23 21:42:42  #MKT News #Important #XAUUSD #Impact bullish #Brent
+
+Lebanon's president said he will accept no compromise unless the "Israeli occupation of southern Lebanon" ends.
+
+---
+
+### 2026-06-23 21:42:18  #市場
+
+標普500軟體指數上漲1.2%，逆勢擺脫科技股回撥拖累。
+
+---
+
+### 2026-06-23 21:42:11  #國際
+
+黎巴嫩總統奧恩表示，由美國支援的新一輪與以色列的談判可能具有決定性意義。
+
+---
+
+### 2026-06-23 21:41:09  #央行 #其他
+
+匈牙利央行行長：生產力亟需提升。
+
+---
+
+### 2026-06-23 21:40:51  #央行 #其他
+
+匈牙利央行行長：企業可透過對沖工具緩釋外匯風險。
+
+---
+
+### 2026-06-23 21:40:42  #國際
+
+黎巴嫩總統奧恩表示，只有結束以色列對黎巴嫩南部的佔領，他才會接受。
+
+---
+
+### 2026-06-23 21:40:37  #其他
+
+【香港城大和新加坡教育機構攜手成立“應用資料科學與政策研究院”】新加坡科技與管理學院（GSTM）向香港城市大學（簡稱“城大”）捐贈2000萬港元，以支援城大計算學院的學術教研與創科人才培育，攜手為區域科技發展注入動能。有關儀式23日在城大舉行。 據介紹，該捐款中1500萬港元將用於城大成立“應用資料科學與政策研究院”，以促進資料科學、人工智慧與政策研究的應用，支援城大在資料科學、人工智慧領域，尤其是知識轉移工作中保持領先地位，助力應用政策研究領域邁上新臺階。（新華社）
+
+---
+
+### 2026-06-23 21:40:03  #Trading Economics #Markets #United States #Stock Market #Importance 1
+
+The Dow Jones Index Opens 0.64% Lower — The Dow Jones Index is losing 332 points. Losses were led by Caterpillar (-4.70%), Nvidia (-3.09%) and Cisco Systems (-2.77%). Offsetting the fall, top gainers were IBM (3.29%), Amgen (2.79%) and Microsoft (2.19%).
+
+---
+
+### 2026-06-23 21:40:00  #公司
+
+【ST新華錦：公司股票被實施其他風險警示及相關進展情況】ST新華錦公告稱，中興華對公司2025年度財務報告內部控制審計出具否定意見，公司股票自2026年4月27日起被實施其他風險警示。4月20日，公司解決資金佔用問題，相關警示已撤銷。公司將健全內控制度。此外，若連續2個會計年度內控審計被出具否定意見，公司股票將被實施退市風險警示；公司及實控人被立案調查；公司及關聯方可能被處罰；控股股東等公司重整或影響控制權，存在不確定性。
+
+---
+
+### 2026-06-23 21:39:48  #央行 #其他
+
+匈牙利央行行長：未設定外匯目標。
+
+---
+
+### 2026-06-23 21:39:42  #央行 #其他
+
+英國央行委員泰勒：英國央行必須防範“短期偏見”，避免重蹈覆轍。
+
+---
+
+### 2026-06-23 21:39:26  #公司
+
+【一博科技：目前包括光模組在內的AI領域、機器人領域及ATE領域訂單增長較快】一博科技在機構調研時表示，目前公司前十大簽單客戶結構較往年有所變化，逐漸在向AI/ATE/機器人/新能源等領域靠攏。現有前十大客戶中有2家主業是光模組的，有2家主業與ATE相關，其餘為機器人、新能源、伺服器、高階裝備等相關領域。目前包括光模組在內的AI領域、機器人領域及ATE領域訂單增長較快，公司會結合訂單增長變化做出針對性的調整安排，以更好地滿足客戶需求。
+
+---
+
+### 2026-06-23 21:39:20  #MKT News
+
+Bank of England Monetary Policy Committee member Taylor said the central bank must guard against 'short-term bias' to avoid repeating past mistakes.
+
+---
+
+### 2026-06-23 21:39:19  #市場
+
+墨西哥主要股指早盤下跌1.5%。
+
+---
+
+### 2026-06-23 21:38:46  #MKT News #Market Regions #Wall Street (US) #S&P500 #Impact bearish #Nasdaq100 #Dow
+
+The Russell 2000 index fell 1.6%.
+
+---
+
+### 2026-06-23 21:38:40  #MKT News #AMC.N #Impact bearish
+
+AMC (AMC.N) shares plunged nearly 30% to below $2 after the company announced a $200 million offering of new shares.
+
+---
+
+### 2026-06-23 21:38:28  #國際
+
+【俄油出口量繼續增加 伊朗供應湧入將構成挑戰】在美國製裁豁免釋放了競爭對手伊朗的石油出口後，俄羅斯正面臨向主要客戶印度銷售石油的激烈競爭，但其石油出口量仍達到今年以來的最高水平。根據彭博彙編的油輪運輸資料，截至6月21日的四周內，俄羅斯原油平均出口量為389萬桶/日，較前一週略有上升。原油出口增加之際，烏克蘭持續對俄羅斯煉油廠發動襲擊，這可能導致無法加工的原油轉而進行出口。由於被美國封鎖的船隻獲准離開，伊朗的石油供應（其中一些是俄羅斯烏拉爾原油的良好替代品）正大量湧入市場。在霍爾木茲海峽關閉期間，俄羅斯藉助美國對其出口的制裁豁免，為其增加的出口找到了現成的市場，尤其方便了印度加工商增加採購。但針對俄羅斯的最新制裁豁免已於6月17日到期，若未能續期，加工商可能轉向其他來源採購。
+
+---
+
+### 2026-06-23 21:38:15  #其他
+
+【高溫天氣持續，法國埃菲爾鐵塔提前停止接待遊客】當地時間6月23日，由於法國巴黎持續遭遇高溫天氣，埃菲爾鐵塔運營方宣佈，鐵塔將於當天16時起停止接待遊客，而非原定的次日凌晨0時45分關閉。運營方表示，此舉是為了應對當前高溫天氣帶來的影響，並保障遊客及工作人員的安全。（央視新聞）
+
+---
+
+### 2026-06-23 21:38:00  #公司 #市場
+
+半導體相關公司股價多數下跌，邁威爾科技集團跌9.2%，高通跌6.9%，Arm下跌8.5%，微芯科技下跌5.4%，應用材料下跌9.7%，英偉達下跌3.7%，AMD下跌7.5%，博通下跌2.8%，英特爾下滑9%。ISHARES半導體ETF下跌6.9%，VANECK半導體ETF下跌6.2%，ROUNDHILL記憶體ETF下跌13.5%。
+
+---
+
+### 2026-06-23 21:37:42  #MKT News #Commodities #Energy #WTI #Impact bearish #Brent
+
+【Russian oil exports rise; inflow of Iranian supply poses challenge】Russian crude exports reached a year-to-date high, averaging 3.89 mln b/d over the four weeks to June 21, Bloomberg tanker data show. Continued Ukrainian strikes on Russian refineries have cut domestic processing, potentially diverting barrels into exports. At the same time, a recent release of detained Iranian tankers has pushed significant Iranian crude—some viewed as a close substitute for Urals—into the market, intensifying competition for buyers, particularly Indian refiners. A US exemption for Russian buyers expired on June 17; failure to renew it could prompt processors to shift to other suppliers.
+
+---
+
+### 2026-06-23 21:37:24  #MKT News #Important
+
+Semiconductor stocks fell sharply: Marvell (MRVL.O) down 9.2%, Qualcomm (QCOM.O) down 6.9%, Arm (ARM.O) down 8.5%, Microchip Technology (MCHP.O) down 5.4%, Applied Materials (AMAT.O) down 9.7%, NVIDIA (NVDA.O) down 3.7%, AMD (AMD.O) down 7.5%, Broadcom (AVGO.O) down 2.8% and Intel (INTC.O) down 9%. Sector ETFs also plunged: iShares Semiconductor ETF down 6.9%, VanEck Semiconductor ETF down 6.2% and Roundhill Memory ETF down 13.5%.
+
+---
+
+### 2026-06-23 21:36:36  #央行 #其他
+
+匈牙利央行行長：預計夏季將分三次降息，每次降息25個基點。
+
+---
+
+### 2026-06-23 21:36:15  #公司
+
+【中企承建奈及利亞首都區衛星城供水專案交付】奈及利亞首都區衛星城供水專案22日舉行交付儀式。專案由中地海外奈及利亞有限公司承建，新建供水管道近400公里，覆蓋布瓦里、卡魯兩個片區，預計將為近100萬居民提供潔淨用水。(新華社)
+
+---
+
+### 2026-06-23 21:35:49  #市場
+
+羅素2000指數下跌1.6%。
+
+---
+
+### 2026-06-23 21:35:45  #Trading Economics #Markets #United States #Stock Market #Importance 1
+
+US Tech Stocks Sell Off — US equity indices slumped on Tuesday amid a selloff in the heavyweight tech sector. The Nasdaq 100 slid 3%, the S&P 500 dropped 1.5%, and the Dow lost 0.5%. AI stocks tanked on increasing skepticism that spending by hyperscalers will not meet returns. Nvidia and Tesla lost 4%. On the same note, SpaceX plunged 16% as it issued bonds only one week after its IPO, adding to fears of colossal capital expenditure. Chip stocks slipped as SK Hynix slowed production of advanced AI chips to boost commodity DRAM capacity, also aligned with concerns that AI datacenter speculation does not match fundamentals. Micron tanked 11% ahead of its earnings tomorrow and Sandisk lost over 12%. Treasury yields remained elevated despite the decline in energy prices following the hawkish dot plot last week, limiting any respite for traditional sectors of the economy. Finance was pressured as Apollo once again capped private equity withdrawals.
+
+---
+
+### 2026-06-23 21:35:30  #央行 #其他
+
+匈牙利央行行長：開啟降息小週期。
+
+---
+
+### 2026-06-23 21:35:21  #央行 #其他
+
+匈牙利央行行長：我們將在9月重新評估經濟前景。
 
 ---
 
@@ -21223,170 +21397,5 @@ Chevron (CVX.N) and Microsoft (MSFT.O) signed a 20-year power purchase agreement
 ### 2026-06-22 20:01:17  #公司
 
 【*ST寶馨：控股股東400萬股二拍流拍 將公開變賣】*ST寶馨公告稱，公司控股股東江蘇立青持有的400萬股首發後限售股二次拍賣再流拍，佔其所持股份比例2.16%、公司總股本比例0.56%。江門市蓬江區人民法院將於2026年7月10日10時起在淘寶網司法變賣網路平臺公開變賣，變賣週期60天，有人競價則進入24小時倒計時。公司將密切關注後續進展並依規披露，提醒投資者注意風險。
-
----
-
-### 2026-06-22 20:01:04  #國際
-
-預計Prime Day活動期間，美國零售網站的人工智慧流量將較去年6月增長103%。
-
----
-
-### 2026-06-22 20:00:37  #資料
-
-加拿大至6月19日全國經濟信心指數 50.4，前值50.2。
-
----
-
-### 2026-06-22 20:00:30  #MKT News
-
-Canada national economic confidence index stood at 50.4 as of June 19, up from 50.2 previously.
-
----
-
-### 2026-06-22 20:00:20  #MKT News #Economic Calendar #Important
-
-Canada | National Economic Confidence Index (Jun.19) | actual 50.4 | previous 50.2
-
----
-
-### 2026-06-22 19:59:31  #MKT News #WTI #Impact bearish #Brent
-
-【Qatari PM says top priority is defusing regional tensions】On June 22, Qatari prime minister and foreign minister Mohammed said Qatar’s top priority is defusing regional tensions and restoring calm and stability. He urged all parties to resolve disputes diplomatically to prevent escalation, warning that any flare-up anywhere in the Middle East, including Lebanon, could affect US–Iran negotiations. Mohammed said some states were attempting to disrupt the US–Iran talks, but mediators including Qatar detect willingness from both sides to seek a settlement.
-
----
-
-### 2026-06-22 19:59:12  #其他
-
-【柳江1號洪水洪峰過境柳州市區 超警3.14米】記者從柳州市防汛抗旱指揮部獲悉，今年柳江1號洪水洪峰過境柳州市區，超警3.14米。據瞭解，柳江柳州水文站於6月22日16時15分出現85.64米的洪峰水位，超過82.5米的警戒水位3.14米，相應流量19600立方米每秒，目前水位緩慢下降。（央視新聞）
-
----
-
-### 2026-06-22 19:58:57  #MKT News #WTI #Impact bearish #Brent
-
-Al Jazeera reports Qatari prime minister and foreign minister said the Strait of Hormuz should remain open and navigation should be free.
-
----
-
-### 2026-06-22 19:58:56  #國際
-
-【卡達首相：當前首要任務是推動地區局勢降溫】當地時間6月22日，卡達首相兼外交大臣穆罕默德表示，卡達當前的首要任務是為地區局勢“滅火”，推動局勢降溫，儘快實現平靜與穩定。穆罕默德表示，有關各方必須堅持透過外交途徑解決分歧，防止危機進一步升級甚至失控。他還表示，一些國家試圖破壞美國與伊朗之間的談判程序，但卡達及其他斡旋方能夠感受到，美伊雙方均展現出解決問題的意願。穆罕默德強調，中東地區任何地點的局勢升級，無論是在黎巴嫩還是其他地區，都可能對談判程序產生影響。（央視新聞）
-
----
-
-### 2026-06-22 19:58:39  #公司
-
-【首旅酒店：控股子公司京倫飯店向控股股東申請800萬元借款額度】首旅酒店公告稱，控股子公司京倫飯店因日常資金週轉需求，向控股股東首旅集團申請股東借款額度800萬元，借款利率按市場同期貸款利率LPR執行，有效期一年，額度可迴圈使用。京倫飯店股權結構為首旅酒店持股54%、首旅集團持股36%、民贏酒店持股10%。2025年，京倫飯店營收8292.07萬元，淨虧損981.27萬元；2026年一季度，營收1971.36萬元，淨虧損62.54萬元。該關聯交易已獲董事會審議透過。
-
----
-
-### 2026-06-22 19:58:31  #公司 #國際
-
-【博雲新材：澄清市場傳聞 提示股價短期回落風險】博雲新材公告稱，公司股票自2026年4月10日至6月22日累計漲幅超150%，多次觸及異常波動標準，滾動市盈率高於行業平均。公司對市場傳聞進行澄清，博雲東方麓谷基地設計產能約800噸/年，並非傳聞的1800噸/年；2026年1月1日至公告披露日，未向中鎢高新子公司、日本佑能供貨，向鼎泰高科供貨佔比不足0.1%。提醒投資者注意股價短期快速回落風險，理性投資。
-
----
-
-### 2026-06-22 19:57:24  #其他
-
-市場訊息：卡達首相兼外長表示，我們期待海灣合作委員會就確保穩定的安全框架達成共識。
-
----
-
-### 2026-06-22 19:56:41  #公司
-
-【星徽股份：與6名原告糾紛案終審判決 執行金額2647.12萬元】星徽精密公告稱，公司及控股子公司澤寶技術與孫才金等6名原告糾紛案終審已判決，處於執行階段，公司及澤寶技術被列入失信被執行人名單，執行金額2647.12萬元，還需共同支付利息損失246.39萬元。截至公告披露日，公司及子公司未披露的小額訴訟、仲裁事項累計金額1202.45萬元，佔最近一期經審計淨資產的8.53%。該事項不會對公司正常經營造成重大不利影響。
-
----
-
-### 2026-06-22 19:55:53  #其他
-
-【前5個月快遞業務量同比增長5.2%】記者6月22日從國家郵政局獲悉，前5個月，郵政行業寄遞業務量累計完成898.9億件，同比增長4.3%。其中，快遞業務量累計完成828.7億件，同比增長5.2%。(新華社)
-
----
-
-### 2026-06-22 19:55:44  #國際
-
-全球基金在交易日前淨買入價值553億盧比的印度股票。
-
----
-
-### 2026-06-22 19:55:17  #公司
-
-【隆揚電子：控股股東及其一致行動人合計持股比例降至69.94%】隆揚電子公告，公司控股股東隆揚國際及其一致行動人崑山群展商務諮詢合夥企業（有限合夥）計劃在2026年5月19日披露的《關於控股股東及其一致行動人減持股份預披露的公告》釋出之日起15個交易日後的3個月內，以集中競價和大宗交易方式合計減持公司股份不超過565.45萬股（佔公司總股本比例為1.99%）。其中，隆揚國際計劃透過大宗交易的方式減持本公司股份不超過53萬股（即不超過公司總股本的0.19%），群展諮詢計劃透過集中競價或/和大宗交易的方式減持本公司股份不超過512.45萬股(即不超過公司總股本的1.81%)。2026年6月18日，群展諮詢透過大宗交易方式減持16.97萬股，佔總股本的比例為0.06%。本次權益變動後，控股股東及其一致行動人合計持有的公司股份佔公司總股本的比例由70.00%下降至69.94%，本次權益變動觸及1%刻度。
-
----
-
-### 2026-06-22 19:55:15  #MKT News
-
-Qatari PM and foreign minister said he expects the Gulf Cooperation Council (GCC) to agree on a security framework to ensure stability.
-
----
-
-### 2026-06-22 19:54:36  #國際
-
-市場訊息：卡達總理兼外長表示，伊朗與華盛頓之間的任何協議的結果不僅影響兩國，還會影響整個地區。
-
----
-
-### 2026-06-22 19:54:36  #MKT News
-
-Al Jazeera cited Qatar's prime minister and foreign minister as saying any agreement between Iran and Washington would affect not only the two countries but the entire region.
-
----
-
-### 2026-06-22 19:54:27  #公司
-
-【美的集團：2025年度A股分紅25.92億元 6月29日發放】美的集團公告稱，2025年度A股分紅以可參與分配的68.20億股為基數，每10股派現38元，分紅總額25.92億元。按A股股本折算，每10股現金分紅37.221885元。股權登記日為6月26日，除息日及現金紅利發放日為6月29日。美的控股、何享健、方洪波的現金紅利由公司自行派發。
-
----
-
-### 2026-06-22 19:54:20  #Trading Economics #Markets #United States #Stock Market #Importance 2
-
-US Futures Trade Muted — US stock futures were flat on Monday, holding the rebound from the last week on fresh optimism that peace in the Middle East would re-establish energy supply from the region. Contracts for the S&P 500, Nasdaq 100, and Dow were flat in the session to remain near their all-time highs. Iran stated there was major progress in the recent discussions with the US as both sides agreed to reach a peace deal within two months. Prices for energy commodities fell further on hopes of restored supply, although lingering expectations of a hawkish Fed following last week's meetings prevented support for Treasuries. Chip producers extended their historic rally from this year pre-market, contrasting with the recent lag for AI hyperscalers as their soaring levels of AI infrastructure investment sparked lingering skepticism on whether returns will be able to match outlays. Meanwhile, AbbVie added 1% after agreeing to buy Apogee Therapeutics in a $10.9 billion cash deal.
-
----
-
-### 2026-06-22 19:54:13  #市場 #國際
-
-【美股盤前要聞速遞】
-①美股三大股指期貨漲跌不一，道指期貨漲0.08%，標普500指數期貨跌0.05%，納指期貨漲0.14%。
-②德國DAX指數跌0.20%，英國富時100指數漲0.42%，法國CAC40指數跌0.50%，歐洲斯托克50指數漲0.14%。
-③WTI原油跌0.80%，報75.24美元/桶。布倫特原油跌1.74%，報78.66美元/桶。
-④伊朗宣佈：經過18小時談判，伊美達成協議檔案。
-⑤卡達、巴基斯坦釋出聯合宣告：美伊首輪高階別會談落幕，取得令人鼓舞的進展。
-⑥英國首相宣佈辭職，英國執政黨工黨的新黨首提名程式將會從7月9日開始。
-⑦SpaceX盤前跌超4%，預計連續第三個交易日下跌。KeyBanc資本市場對該股首次給予中性評級，並指出，儘管長期來看存在諸多高增長路徑，但短期內風險回報比似乎較為平衡。
-⑧英特爾盤前漲超3%，聯電漲6.8%，據報雙方將合作開發3nm晶片。
-⑨Apogee Therapeutics盤前漲53.78%，報138.98美元。據外媒，製藥巨頭艾伯維正接近達成一項協議，擬以約109億美元現金收購Apogee Therapeutics。
-
----
-
-### 2026-06-22 19:52:51  #市場
-
-【Getty Images美股盤前一度暴漲近300%】全球視覺內容平臺Getty Images美股盤前一度暴漲近300%，現漲129%。
-
----
-
-### 2026-06-22 19:51:43  #公司
-
-【天原股份：向控股股東發行股票募資不超4.79億元】天原股份公告稱，公司擬向控股股東宜賓發展發行股票，募集資金不超過4.79億元，發行股票數量不超96,144,578股。2026年6月22日，公司與宜賓發展簽署《補充協議(二)》，對發行的定價基準日、發行價格、發行數量進行調整。本次發行尚需深交所稽核透過，並取得中國證監會同意註冊的批覆。發行完成後，公司控制權不變，將提升資金實力、盈利能力及償債能力。2026年初至公告日，公司與宜賓發展累計已發生關聯採購162.74萬元、關聯銷售123.83萬元。
-
----
-
-### 2026-06-22 19:51:37  #公司 #焦點
-
-【中船特氣：股價累計漲幅388.77%，6月23日起停牌核查】中船特氣公告，公司股票價格自2026年5月11日至2026年6月22日期間多次觸及股票交易異常波動及嚴重異常波動，累計漲幅388.77%（經前復權計算）。為維護投資者利益，公司將就股票交易波動情況進行停牌核查，股票將於2026年6月23日（星期二）開市起停牌，自披露核查公告後復牌。截至2026年6月18日，公司滾動市盈率535.1倍，靜態市盈率557.73倍，顯著高於同行業平均水平。公司提醒投資者注意二級市場交易風險。
-
----
-
-### 2026-06-22 19:50:36  #MKT News
-
-Qatar says issues including the Washington-Tehran nuclear file are under review.
-
----
-
-### 2026-06-22 19:50:32  #其他
-
-市場訊息：卡達方面表示，華盛頓與德黑蘭之間的核問題等議題正在審議中。
 
 ---

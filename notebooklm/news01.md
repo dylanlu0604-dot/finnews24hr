@@ -1,7 +1,187 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-06-27 15:41:59_
-_本檔包含 3473 則快訊，約 671512 字_
+_更新時間：2026-06-27 16:38:31_
+_本檔包含 3442 則快訊，約 671959 字_
+
+---
+
+### 2026-06-27 16:27:46  #MKT News #Star Stocks #Tesla #Market Themes #Magnificent 7 #TSLA.O #Impact bullish
+
+U.S. National Highway Traffic Safety Administration said it has ended its engineering analysis of about 376,241 Tesla (TSLA.O) Model 3 and Model Y vehicles over a steering loss-of-control issue.
+
+---
+
+### 2026-06-27 16:26:23  #MKT News #Important #XAUUSD #Impact bullish #Brent #DXY
+
+Security sources said an explosive drone struck a camp belonging to an Iranian Kurdish opposition group north of Erbil, Iraq.
+
+---
+
+### 2026-06-27 16:24:12  #國際
+
+安全訊息人士稱：爆炸性無人機襲擊了伊拉克埃爾比勒以北的伊朗庫爾德反對派組織營地。
+
+---
+
+### 2026-06-27 16:23:37  #其他
+
+【北大與DeepSeek聯合開源DSpark框架，高併發下生成速度提升超60%】DeepSeek聯合北京大學正式釋出DSpark推理加速框架，旨在解決大語言模型在高併發生產環境中的推理效率瓶頸。該框架已部署於DeepSeek-V4-Flash與DeepSeek-V4-Pro的預覽版服務引擎中，相比此前生產環境採用的單token推測解碼基線MTP-1，在同等吞吐量水平下可將單使用者生成速度提升60%至85%。相關論文、訓練程式碼及模型檢查點已在GitHub平臺DeepSpec專案中開源。
+
+---
+
+### 2026-06-27 16:22:20  #MKT News #WTI #Impact bullish #Brent
+
+Chairman of Iran's parliamentary National Security Commission said any action violating Iran's shipping directives in the Strait of Hormuz will be met with a decisive response.
+
+---
+
+### 2026-06-27 16:20:59  #國際
+
+伊朗議會國家安全委員會主席表示，任何違反伊朗霍爾木茲海峽航行指令的行為都將受到果斷回應。
+
+---
+
+### 2026-06-27 16:18:47  #公司
+
+【功率半導體再啟階梯式調價 有廠商表示“AI相關的電源功率訂單爆滿 根本做不過來”】由於AI算力叢集功耗激增，功率半導體正成為儲存之後的產業新增長引擎，行業再掀起一輪漲價潮。“我們AI相關的電源功率訂單‘爆滿’，現在訂單根本做不過來”。一家功率半導體廠商人士向記者表示，“因為公司算是少數具備量產能力的國產廠商，無論是面向資料中心800V HVDC等一次電源、伺服器二次電源等產品，都已進入多家頭部客戶供應鏈並實現規模量產，所以訂單需求十分旺盛。”多位業內人士判斷，本輪成本驅動的漲價週期仍將持續一段時間，並且行業將加速功率器件低端產能的出清，市場份額將向具備IDM全鏈條能力或與上游深度繫結，且涉足高景氣賽道的頭部晶片企業集中。（科創板日報）
+
+---
+
+### 2026-06-27 16:16:04  #其他
+
+【巴基斯坦俾路支省兩天內發生五次地震】據巴基斯坦國家地震監測中心通報，當地時間6月27日8時06分，巴基斯坦俾路支省巴爾汗縣東北58公里處發生5.2級地震，震源深度19公里，附近的穆薩克爾和巴爾汗等地區均有明顯震感。巴基斯坦省災害管理局表示，此次地震造成至少3人受傷，省災害管理局已向受災地區派出救援人員開展救災行動。此外，根據巴基斯坦國家地震監測中心的監測資料，當地時間27日5時45分，俾路支省寇盧縣以北40公里處發生4.3級地震，震源深度15公里。而寇盧地區26日已連續發生三次地震，其中最強的一次5.1級地震發生在當地時間26日16時49分，震中位於寇盧縣東北60公里處，震源深度17公里，附近多個地區均有明顯震感，約70棟房屋受損，至少3人受傷，其中包括1名兒童。巴基斯坦近期地震活動頻繁，特別是俾路支省附近地區的地殼活動較為活躍，當地政府正在持續監測餘震風險，並對受災情況展開進一步評估。
+
+---
+
+### 2026-06-27 16:15:24  #公司 #市場
+
+【娃哈哈回應純淨水漲價】娃哈哈釋出針對近日網傳漲價相關訊息的統一說明。娃哈哈稱，受包材成本波動，公司調整不同包裝規格水產品的渠道批發價，有升有降以保障經銷商夥伴穩定經營。全線純淨水終端零售價不變，消費者購買價格無變化。據此前報道，近日，娃哈哈和華潤飲料均向數地經銷商發出調價通知稱，自7月1日起，娃哈哈純淨水（596ml×24瓶）每箱供應價上調0.5至1元；同樣是自7月1日起，華潤怡寶桶裝水（18.9L）每桶供應價上調1元。據悉，此次調價原因主要指向PET塑膠包材等成本上漲。
+
+---
+
+### 2026-06-27 16:15:22  #MKT News
+
+【Wahaha responds to reports of purified water price hikes】Wahaha said in a unified statement that, due to packaging cost volatility, it has adjusted channel wholesale prices across different pack sizes with some increases and some decreases to stabilize dealers’ operations. The company said terminal retail prices are unchanged and consumer purchase prices will not change. Earlier reports said Wahaha and China Resources Beverage notified distributors that, effective July 1, Wahaha purified water (596ml×24) supply price would rise 0.5–1 yuan per carton and China Resources Yibao bulk water (18.9L) would rise 1 yuan per drum; both companies cited higher PET plastic packaging costs as the main driver.
+
+---
+
+### 2026-06-27 16:08:06  #國際
+
+【伊朗外交部譴責美軍空襲伊朗南部】伊朗外交部今天（6月27日）發表宣告，強烈譴責美軍於26日晚對伊朗南部沿海多地發動的空襲。 宣告稱，這些野蠻襲擊以伊朗沿海監控設施為目標，公然違反了《聯合國憲章》第2條第4款，同時也違反了伊美本月18日簽署的諒解備忘錄的第1條。與此同時，以色列與美國協調，還對黎巴嫩發動襲擊，這同樣構成對諒解備忘錄第1條的明顯違反。 伊朗外交部強調，根據《聯合國憲章》第51條，伊朗擁有固有的自衛權。伊朗將全力捍衛國家主權、安全與國家利益。基於此，伊朗武裝部隊針對美軍相關目標實施了防禦性打擊。毫無疑問，這一局勢所產生的一切後果，應由發動侵略、違反承諾的美國以及以任何方式協同美國襲擊伊朗的有關各方來承擔。 在此背景下，伊朗外交部強調，波斯灣南岸的所有國家必須遵守睦鄰友好原則，並遵守國際法基本原則，即不得允許任何侵略方利用其領土或設施對伊朗實施侵略行為。 伊朗外交部還呼籲聯合國秘書長、安理會及其他相關國際機構，不應對美國嚴重違反《聯合國憲章》基本原則與國際法的行為保持沉默，應切實履行其維護地區與國際和平與安全的法律及道德責任。（CCTV國際時訊）
+
+---
+
+### 2026-06-27 16:07:51  #其他
+
+【給阿嬤的情書票房破19億】據燈塔專業版，截至6月27日，由大麥娛樂出品的影片《給阿嬤的情書》票房突破19億。
+
+---
+
+### 2026-06-27 16:07:32  #其他
+
+【山西省長治市委原常委、市政府原副市長王玉聖被查】據山西省紀委監委訊息：山西省長治市委原常委、市政府原副市長王玉聖涉嫌嚴重違紀違法，目前正接受山西省紀委監委紀律審查和監察調查。
+
+---
+
+### 2026-06-27 16:04:10  #公司
+
+【深圳市委書記靳磊會見南方電網公司董事長錢朝陽】據“深視新聞”，6月26日，深圳市委書記靳磊會見中國南方電網有限責任公司黨組書記、董事長錢朝陽一行。靳磊表示，期待與南方電網公司共同搶抓“六張網”規劃建設等機遇，在打造新型電網、探索算電協同新模式等領域深化務實合作，實現互利共贏發展。深圳將全方位做好服務保障。錢朝陽表示，將紮實推動雙方“十五五”戰略合作協議落地見效，大力支撐立體數字的超大城市電網建設，持續提升綠色電力供給能力，高質量完成APEC會議等重大保供電任務，加快推動“六張網”協同發展，助力深圳經濟大市挑大樑。
+
+---
+
+### 2026-06-27 16:01:06  #公司 #市場 #國際
+
+【颱風來襲，日本氣象廳敦促民眾保持警惕】據日本方面6月27日訊息，受颱風影響，日本氣象廳敦促民眾對山體滑坡、河流水位上漲、低窪地區洪水以及巨浪保持高度警惕。東日本旅客鐵道公司決定，27日當天東京與伊豆地區之間執行的特急列車全天停運；東京與千葉方向之間執行的部分特急列車也全天停運。此外，東海道線、伊東線等部分割槽段的普通列車已決定全天停運。日本全日空航空公司已決定取消羽田機場往返八丈島的6個航班，預計約430名旅客受到影響。（央視新聞）
+
+---
+
+### 2026-06-27 15:58:40  #其他
+
+【馬克·古爾曼：觸屏MacBook將搭載M5晶片釋出，蘋果計劃跳過M6 Pro及M6 Max】當地時間6月26日，科技記者馬克·古爾曼發文稱，蘋果傳聞中的觸屏MacBook Pro將在今年晚些時候或2027年初發布，首發搭載現役M5 Pro及M5 Max晶片。蘋果此後計劃推出配備M7晶片的升級版本，這與此前報道蘋果將跳過M6 Pro及M6 Max直接推出M7系列的計劃相吻合。蘋果跳過高階M6晶片的決策被認為與記憶體短缺導致的成本壓力密切相關，蘋果本週已因此宣佈上調Mac及iPad產品售價。
+
+---
+
+### 2026-06-27 15:58:31  #公司
+
+【崑崙資本投資總額突破百億元 躋身央企投資公司第一梯隊】記者6月26日在2026產投融協同發展研討活動上獲悉，崑崙資本已累計投資專案近50個，投資總額突破百億元，躋身央企投資公司第一梯隊。活動現場，崑崙工融電航基金等三隻產業基金完成集中籤約，還同步舉辦新能源、新材料、人工智慧與高階製造三組平行主題沙龍。（上證報）
+
+---
+
+### 2026-06-27 15:57:50  #MKT News #Commodities #Energy #WTI #Impact bullish #Brent
+
+Ukraine's state gas company said Russia struck its production facilities in Poltava and Kharkiv regions, causing damage.
+
+---
+
+### 2026-06-27 15:57:12  #MKT News
+
+【Magnitude 5.6 earthquake south of East Java, Indonesia】Indonesia's Meteorology, Climatology and Geophysics Agency (BMKG) reported a magnitude 5.6 earthquake in the offshore southern area of East Java at 14:47 local time on June 27; no tsunami threat is expected.
+
+---
+
+### 2026-06-27 15:56:49  #國際
+
+【印尼東爪哇省南部海域發生5.6級地震】據印尼氣象、氣候和地球物理局釋出的報告，當地時間6月27日14時47分，印尼東爪哇省南部海域發生5.6級地震，預計不會有海嘯風險。
+
+---
+
+### 2026-06-27 15:55:38  #公司 #國際
+
+烏克蘭石油天然氣公司（Naftogaz）表示，俄羅斯襲擊了該公司位於波爾塔瓦州與哈爾科夫州的生產設施，並造成了損毀。
+
+---
+
+### 2026-06-27 15:50:19  #宏觀 #公司
+
+【張國清在浙江調研時強調 強化科技創新和產業創新深度融合 全面加強質量管理增加高質量供給】中共中央政治局委員、國務院副總理張國清25日至27日在浙江調研科技創新和產業創新深度融合、質量品牌管理等工作。他強調，要深入貫徹習近平總書記重要指示批示精神，落實黨中央、國務院決策部署，強化科技創新和產業創新深度融合，全面加強質量管理，增加高質量供給，不斷塑造發展新動能新優勢，為鞏固拓展經濟穩中向好態勢提供有力支撐。在杭州和義烏，張國清來到浙江強腦科技有限公司、杭州雲深處科技有限公司、浙江真愛毯業科技有限公司等企業，詳細瞭解生產經營、研發創新、數智賦能等情況。他強調，企業是推動創新創造的生力軍，要強化企業創新主體地位，支援企業加大基礎研究投入，持續深耕前沿領域原始創新，加快突破核心技術瓶頸，增強企業技術能力，厚植產業發展優勢。要深化拓展“人工智慧+”，以場景應用為牽引，夯實算力、演算法、資料等技術底座，加快培育行業垂直模型，打造更多高水平智慧體，推進人工智慧賦能新型工業化，不斷催生新質生產力。要推動傳統產業轉型升級，加強標準提升引領，加快推進技術改造和老舊低效裝置工藝淘汰，促進產業智慧化、綠色化、融合化，鞏固提升傳統產業競爭力。張國清還來到義烏國際商貿城，調研“義烏小商品城”質量品牌管理、電商平臺日常監管等情況。他強調，要堅持質量第一、以質取勝，提高研發設計與生產製造質量，推進新技術、新工藝、新材料應用，促進品種開發和品質升級。要鼓勵企業建立品牌培育管理體系，透過技術、產品和服務創新打造精品名品，提高品牌設計、市場推廣、品牌維護等能力，要依法嚴厲打擊品牌仿冒、商標侵權等違法行為，為優質品牌企業發展創造良好環境。要充分發揮平臺企業在促進創新、推動發展、創造就業、國際競爭等方面作用，激發平臺內經營主體和勞動者內生動力，增加產品和服務高質量供給。（新華社）
+
+---
+
+### 2026-06-27 15:49:11  #國際
+
+【伊朗強烈譴責美軍空襲 稱美方違反伊美諒解備忘錄】伊朗外交部27日發表宣告，“強烈譴責”美軍對伊朗南部沿海多地發動空襲，稱美軍襲擊公然違反伊美諒解備忘錄有關條款。 宣告稱，以色列“與美國協調”襲擊了黎巴嫩，同樣違反伊美諒解備忘錄有關條款。 宣告還說，伊朗武裝力量對美軍相關目標實施了防禦性打擊。造成這一局面的責任在於美方。 美軍中央司令部26日發表宣告稱，美軍當天對伊朗發動打擊，以回應此前一天一艘途經霍爾木茲海峽的商船遭襲事件。（新華社）
+
+---
+
+### 2026-06-27 15:48:36  #公司 #市場
+
+【超級牛散章建平新動向 大舉減倉江淮汽車】記者注意到，超級牛散，有著“章盟主”之稱的章建平在近期對江淮汽車進行了大幅度的減倉。資料顯示，截至6月23日，方文豔持有江淮汽車股票2665.02萬股，持股比例為1.18%。而據公司此前披露，截至6月9日，方文豔持有江淮汽車股票3588.52萬股，持股比例為1.59%。也就是說，自6月10日至23日，方文豔在9個交易日內減持了923.5萬股。其間，江淮汽車股票最高價33.51元/股，最低價28.82元/股，區間加權均價為31.386元/股。以均價估算，方文豔此次減持套現約2.9億元。公開資料顯示，方文豔正是章建平的妻子。（證券時報）
+
+---
+
+### 2026-06-27 15:48:15  #國際
+
+【標普確認美國“AA+/A-1+”主權信用評級，展望維持穩定】當地時間6月26日，標普全球評級確認美國長期主權信用評級為“AA+”，短期主權信用評級為“A-1+”。長期評級展望維持穩定。
+
+---
+
+### 2026-06-27 15:47:29  #公司
+
+【張興海回應問界供應鏈：堅定與華為、寧德時代的戰略約定不改變】賽力斯董事長張興海在近日的股東會上就投資者關注的“其他供應商進入問界供應鏈”的問題回應稱，公司核心立場是三個“不改變”：以五高標準造好高階車的底線不改變；堅持與行業高階供應鏈合作的原則不改變；堅定與華為、寧德時代的戰略約定不改變。在此前披露的2025年年度報告中，賽力斯也寫道，公司與華為、寧德時代、博世等全球領先夥伴構建“1+2+N”產業鏈生態，在高階智慧與高階電動領域實現優勢互補、協同共創。
+
+---
+
+### 2026-06-27 15:46:33  #MKT News
+
+President Zelenskiy said Ukrainian "Flamingo" missiles struck a weapons factory in Russia's Volgograd region.
+
+---
+
+### 2026-06-27 15:45:56  #國際
+
+澤連斯基稱，烏克蘭的FP-5“火烈鳥”導彈擊中了伏爾加格勒地區的一家俄羅斯武器生產廠。
+
+---
+
+### 2026-06-27 15:43:51  #其他
+
+【李家超：施政如耕種 需深耕細作】香港特區行政長官李家超今日（27日）在社交媒體發文稱，在將迎來上任四週年之際，他到社群園圃與市民交談，市民表示種植過程中最有滿足感是看到幼苗茁壯成長。園圃雖然面積不大，但百花齊放，收成滿滿。 李家超說，耕種一般分為四個階段：翻土、播種、栽培、收割，就像施政一樣，需要深耕細作。“翻土”即找出問題及解決方法，透過改革清除障礙、克服困難和挑戰，完善制度體系；“播種”是確立方向，推出不同政策及藍圖，為未來發展定下方向和目標；“栽培”是運用政策和社會資源，幫助有需要的市民；“收割”則是施政看到成果。 李家超指出，深耕細作不是一年半載的事，並要根據各種因素，識變、應變、求變，就像他到訪的全環控水耕研發中心，不需泥土、不怕風雨，藉助科技和人工智慧協助耕種。產業升級轉型，變的是形式，不變的是“深耕細作”的精神。 李家超回顧上任四年的施政成果時提到，這幾年領導本屆政府持續推動改革，改變施政文化，成為“以結果為目標”的政府。在鞏固提升香港傳統優勢的同時，我們更要改革創新，以“產業導向”開闢新興賽道，提升市民福祉，深信在“深耕細作”下，香港未來定必有更豐碩成果。（大灣區之聲）
+
+---
+
+### 2026-06-27 15:42:24  #其他
+
+【超16億元 烽火通訊旗下長江計算中標中國電信高效能伺服器集中採購專案】近日，中國電信高效能伺服器2026—2027年集中採購專案中標候選人公示，烽火通訊旗下長江計算成功入圍標包1（ARM-A伺服器G系列），斬獲20%份額，中標金額超16億元。2026年以來，長江計算在運營商領域中標金額已累計突破40億元。
 
 ---
 
@@ -20634,371 +20814,5 @@ Federal Reserve's Williams said the US has so far shown resilience to the econom
 ### 2026-06-26 03:38:19  #市場
 
 【芝加哥大豆、玉米期貨至多漲約2%，紐約可可漲約5.2%逼近1月13日頂部5658美元】週四（6月25日）紐約尾盤，彭博穀物分類指數漲1.63%，報29.5998點，開始一天的交易之後，北京時間10:05小幅下挫重新整理日低至29.0082點，美股開盤後從這一水平附近持續反彈。CBOT玉米期貨漲1.84%，報4.4275美元/蒲式耳。CBOT小麥期貨漲0.88%，報6.0125美元/蒲式耳。CBOT大豆期貨漲1.98%，報11.5750美元/蒲式耳，豆粕期貨漲1.50%，豆油期貨漲2.14%。ICE原糖期貨漲0.89%，ICE白糖期貨漲0.05%。ICE阿拉比卡咖啡期貨跌3.28%，咖啡“C”期貨跌0.16%。羅布斯塔咖啡期貨漲1.69%。紐約可可期貨漲5.17%，報5230美元/噸。倫敦可可期貨漲1.04%。芝加哥WCE雙低油菜籽期貨漲0.50%。ICE棉花期貨漲0.96%。
-
----
-
-### 2026-06-26 03:34:23  #其他
-
-訊息人士稱：德州馬拉松加爾維斯頓灣煉油廠故障後恢復正常運營。
-
----
-
-### 2026-06-26 03:33:06  #MKT News #Commodities #Industrial Metals
-
-【US Army to allow critical-mineral processing plants on bases】As part of the Trump administration’s push to boost domestic production, the US Army will allow several companies to build critical-mineral processing plants on military bases nationwide, people familiar with the matter said. REalloys, Titan Mining, ioneer and Energy Exploration Technologies have agreements with the Pentagon to build facilities to process rare earths, graphite, lithium and boron. REalloys plans a rare-earth separation plant at the Tooele Army Depot in Utah; output will be stored on-site for military use.
-
----
-
-### 2026-06-26 03:30:07  #MKT News #Important #Macro & Rates #The Fed (FOMC) #DXY #Impact bullish #S&P500 #Impact bearish #US10Y
-
-FOMC permanent voter and New York Fed President Williams is due to speak in ten minutes.
-
----
-
-### 2026-06-26 03:29:29  #國際
-
-【中方代表在人權理事會作共同發言 揭批以人權為藉口濫施關稅行徑】中國常駐聯合國日內瓦辦事處和瑞士其他國際組織代表賈桂德25日在人權理事會第62屆會議代表近20國作共同發言，揭批以“強迫勞動”為名濫施關稅的單邊霸凌行徑。共同發言指出，消除貧困需要保障各國人民的勞動權和發展權。我們堅決反對“強迫勞動”，同時嚴重關切、強烈反對某個國家濫用國內法律，單方面認定其他經濟體未有效實施並執行“禁止進口強迫勞動產品措施”，並以此為藉口加徵額外關稅。有關國家以“強迫勞動”為名，行濫施關稅之實，只會損害各國勞動者體面勞動的權利和發展權，干擾全球供應鏈產業鏈穩定，破壞國際社會消除貧困的努力。共同發言敦促有關國家尊重客觀事實，停止將經貿問題政治化、人權議題武器化，以實際行動維護國際經貿秩序，助力全球發展和減貧程序。共同發言得到廣泛支援，俄羅斯、巴基斯坦、古巴、委內瑞拉、蘇丹、柬埔寨等多國加入共同發言，發展中國家積極發言呼應。（新華社）
-
----
-
-### 2026-06-26 03:29:02  #MKT News #Commodities #Industrial Metals
-
-Market sources: a U.S. Army base will host a critical minerals plant to advance domestic production.
-
----
-
-### 2026-06-26 03:26:44  #MKT News
-
-【Washington Post/FEC analysis: major donors pour $1.3bn+ this cycle; Musk largest GOP individual donor】Washington Post analysis of FEC data shows major donors have contributed more than $1.3bn in this election cycle to date, with the bulk favoring Republican candidates — funds that may be critical to Republican efforts to retain control of Congress in November. In 1H 2026, Republican-leaning donors gave $880m, Democratic-leaning donors $290m, and cross-party/special-interest groups $200m. Elon Musk was the largest individual donor to Republican-aligned organizations and candidates, donating $85.1m.
-
----
-
-### 2026-06-26 03:26:40  #國際
-
-【中期選舉將近 美媒曝光馬斯克向共和黨大手筆捐款】根據《華盛頓郵報》對美國聯邦選舉委員會資料的分析，隨著中期選舉臨近，美國政壇的主要捐助者在本選舉週期迄今已投入超過13億美元影響國家政治。這些捐款人傾向於支援共和黨，而這筆資金對於共和黨在11月保住國會控制權可能至關重要。2026年上半年，傾向共和黨的捐款人共捐贈了8.8億美元，相比之下，傾向民主黨的捐款人共捐贈了2.9億美元，跨黨派及特殊利益團體則為2億美元。新晉萬億富翁埃隆·馬斯克位列個人捐贈者榜首，其向共和黨相關組織或人士捐贈了8510萬美元。
-
----
-
-### 2026-06-26 03:24:11  #國際
-
-義大利總理梅洛尼：義大利並未介入伊朗相關衝突，僅提供後勤與技術支援，同時回絕了各類作戰行動支援請求。
-
----
-
-### 2026-06-26 03:21:08  #國際
-
-美國國防部批准在美軍基地內建設關鍵礦產加工廠。
-
----
-
-### 2026-06-26 03:19:33  #MKT News #Market Regions #Europe & UK #XAUUSD #Impact bullish #WTI #DXY
-
-Macron said the United States has ended its neutral stance on Ukraine, backing Kyiv's territorial integrity and providing military and energy support as well as sanctions on Russia.
-
----
-
-### 2026-06-26 03:19:26  #市場
-
-布倫特原油日內漲3%，現報76.09美元/桶。
-
----
-
-### 2026-06-26 03:18:55  #市場
-
-WTI原油日內漲3%，現報72.48美元/桶。
-
----
-
-### 2026-06-26 03:18:42  #MKT News #Commodities #Energy #Brent #Impact bullish
-
-Brent crude broke through $76/bbl, advancing 3.52% intraday.
-
----
-
-### 2026-06-26 03:18:38  #MKT News #Commodities #Energy #WTI #Impact bullish
-
-WTI crude rose above $73/bbl, up 3.6% intraday.
-
----
-
-### 2026-06-26 03:18:13  #市場 #焦點
-
-布倫特原油突破76美元/桶，日內漲2.91%。
-
----
-
-### 2026-06-26 03:16:01  #國際
-
-美國：地震後向委內瑞拉調配 1.5 億美元援助資金。
-
----
-
-### 2026-06-26 03:15:18  #市場
-
-在岸人民幣兌美元（CNY）北京時間03:00收報6.7990元，較週三夜盤收盤漲102點。成交量593.26億美元。
-
----
-
-### 2026-06-26 03:12:07  #公司
-
-市場訊息：谷歌重組全新 AI 程式碼攻堅團隊。
-
----
-
-### 2026-06-26 03:08:46  #國際
-
-特朗普告訴國防承包商，他正在努力爭取資金。
-
----
-
-### 2026-06-26 03:08:06  #央行 #其他
-
-墨西哥央行：預計墨西哥經濟產能過剩局面將持續。
-
----
-
-### 2026-06-26 03:07:39  #MKT News #Important #WTI #Impact bullish #Brent
-
-【Iran warns vessels not to use unauthorized Strait of Hormuz routes】The Persian Gulf Straits Authority (PGSA), which approves and regulates maritime transit through the Strait of Hormuz, said any passage not following PGSA-approved routes will be treated as unauthorized and will be outside the agency’s security guarantees. The PGSA said liabilities from using unauthorized routes will rest with shipowners, operators and masters. The warning follows a new attack near the Strait of Hormuz that U.S. officials told the Wall Street Journal they attribute to the Islamic Revolutionary Guard Corps and which targeted a Singapore-flagged cargo vessel.
-
----
-
-### 2026-06-26 03:07:05  #央行 #其他
-
-墨西哥央行：委員會決定考慮了通脹前景、匯率及經濟中需求端壓力缺失等因素。
-
----
-
-### 2026-06-26 03:06:59  #市場 #國際
-
-【瑞穗：原油期貨走高，受霍爾木茲海峽擔憂影響】有報道稱一艘貨船在霍爾木茲海峽遭到伊朗襲擊，引發了人們對該水道重新開放是否順利的擔憂，隨後原油期貨結算價上漲。隨著越來越多油輪穿過該海峽緩解了全球供應緊張的局面，盤初油價曾短暫跌至戰前水平。瑞穗的Robert Yawger在一份報告中表示：“即使在60天的談判期結束後，我也不認為伊朗會重新開戰，因為雙方都將損失慘重。“西得州中質油結算價上漲2.2%，報每桶71.92美元。近月布倫特原油上漲2.1%，至每桶75.26美元。
-
----
-
-### 2026-06-26 03:06:36  #央行 #其他
-
-墨西哥央行重申致力於實現通脹溫和、穩定的政策目標。
-
----
-
-### 2026-06-26 03:06:11  #國際
-
-市場訊息：伊朗與印度石油部長呼籲擴大兩國能源合作。
-
----
-
-### 2026-06-26 03:05:26  #央行 #其他
-
-墨西哥央行：貨幣政策立場非常適合應對宏觀挑戰。
-
----
-
-### 2026-06-26 03:05:19  #央行 #其他
-
-墨西哥央行：預測2027年第四季度總體通脹率為3.0%，與之前預測的3.0%持平。
-
----
-
-### 2026-06-26 03:05:03  #央行 #其他
-
-墨西哥央行預測，2026年第四季度整體通脹率為3.5%，與此前預測值持平。
-
----
-
-### 2026-06-26 03:04:47  #央行 #其他
-
-墨西哥央行：經濟活動仍面臨顯著下行風險。
-
----
-
-### 2026-06-26 03:04:29  #國際
-
-市場訊息：美國多家軍工企業週三向特朗普表示希望獲得更多資金支援。
-
----
-
-### 2026-06-26 03:04:16  #央行 #其他
-
-墨西哥央行：預計墨西哥經濟第二季度將實現擴張。
-
----
-
-### 2026-06-26 03:04:10  #央行 #其他
-
-墨西哥央行：核心通脹預計將在2027年第二季度收斂至3%的目標水平。
-
----
-
-### 2026-06-26 03:04:10  #MKT News #WTI #Impact bullish #Brent #XAUUSD
-
-White House official says the US is investigating an attack on a vessel in the Strait of Hormuz.
-
----
-
-### 2026-06-26 03:03:58  #公司 #市場 #國際
-
-美國通訊業工人協會（CWA）：與美國廣播公司電視網（ABC-TV）達成的新合同承諾，未來四年薪資將分別上漲3%、4%、3%與3.75%。
-
----
-
-### 2026-06-26 03:03:49  #央行 #其他
-
-墨西哥央行承諾後續維持 6.5% 基準利率不變。
-
----
-
-### 2026-06-26 03:03:28  #央行 #其他
-
-墨西哥央行：董事會預計，未來將基準利率維持在當前水平是合適的舉措。
-
----
-
-### 2026-06-26 03:03:22  #央行 #其他
-
-加拿大央行：參與社群對話的人士明確表達了採取行動應對住房危機的願望。較年輕的調查參與者表示，他們已經放棄了將來擁有自己住房的念頭。在央行調查過的所有社群中，加拿大人都對生活成本表示擔憂。私營部門經濟學家認為加拿大央行過去十年中採用的核心通脹指標過多，並建議央行應側重於整體通脹。
-
----
-
-### 2026-06-26 03:03:19  #央行 #其他
-
-墨西哥央行預測 2026 年二季度通脹率為 4%，此前預期為 4.1%。
-
----
-
-### 2026-06-26 03:02:32  #其他
-
-墨西哥銀行：在預測區間內，通脹走勢的風險平衡仍偏向上行。
-
----
-
-### 2026-06-26 03:02:16  #MKT News #Market Regions #Greater China #Hang Seng Index #Impact bearish
-
-Hang Seng Index futures' night session closed down 0.33% at 23,005, trading 72 points below the cash index.
-
----
-
-### 2026-06-26 03:02:09  #國際
-
-美國農業部：2026年6月1日全生豬存欄量同比為上年的100%，交易市場預估為100.9%。
-
----
-
-### 2026-06-26 03:01:47  #其他
-
-白宮官員：現在斷定是誰在霍爾木茲島襲擊了船隻還為時過早。
-
----
-
-### 2026-06-26 03:01:47  #MKT News
-
-Bank of Mexico's board voted unanimously to keep the policy rate unchanged.
-
----
-
-### 2026-06-26 03:01:41  #國際
-
-白 白宮官員：美國正在調查霍爾木茲海峽船隻遇襲事件。
-
----
-
-### 2026-06-26 03:01:36  #MKT News
-
-BOC: younger survey respondents say they have given up the idea of owning their own home in the future.
-
----
-
-### 2026-06-26 03:01:25  #其他
-
-墨西哥銀行：在預測區間內，通脹走勢的風險平衡仍偏向上行。
-
----
-
-### 2026-06-26 03:01:20  #MKT News
-
-BOC said participants in community dialogues expressed a clear desire for action to address the housing crisis.
-
----
-
-### 2026-06-26 03:01:16  #MKT News
-
-BOC says private-sector economists view the bank's reliance on too many core inf measures over the past decade and recommend the bank focus on headline inf.
-
----
-
-### 2026-06-26 03:01:07  #MKT News
-
-BOC says a disconnect between official inflation data and Canadians' everyday experience has undermined confidence in the CPI and, by extension, in the central bank.
-
----
-
-### 2026-06-26 03:01:04  #MKT News
-
-BOC says stakeholders expressed support for a flexible inf-targeting framework and the 2% target.
-
----
-
-### 2026-06-26 03:00:58  #其他
-
-加拿大銀行：各界相關方強烈支援 2% 通脹目標。
-
----
-
-### 2026-06-26 03:00:36  #MKT News
-
-BOC: In every community surveyed by the central bank, Canadians expressed concern about the cost of living.
-
----
-
-### 2026-06-26 03:00:26  #其他
-
-加拿大銀行：消費者物價指數資料與民眾實際生活感受存在偏差，正削弱公眾信任。
-
----
-
-### 2026-06-26 03:00:10  #MKT News #Macro & Rates
-
-Mexico central bank policy rate through June 25: 6.50% (consensus 6.50%, prior 6.50%).
-
----
-
-### 2026-06-26 03:00:08  #央行 #其他
-
-墨西哥央行維持隔夜利率在6.50%不變。
-
----
-
-### 2026-06-26 03:00:01  #市場
-
-恒指期貨夜盤收跌0.36%，報22942.68點，低水134.23點。
-
----
-
-### 2026-06-26 03:00:01  #MKT News #Economic Calendar #Important
-
-Mexico | Banxico Interest Rate Decision (Jun.25) | actual 6.5% | consensus 6.50% | previous 6.50%
-
----
-
-### 2026-06-26 02:59:51  #其他
-
-加拿大不列顛哥倫比亞省省長：加拿大液化天然氣二期專案將於 9 月作出投資最終決定。
-
----
-
-### 2026-06-26 02:57:57  #國際
-
-印度商務部長談及美印貿易協議： 在確保自身（尤其在南亞、東南亞地區）競爭優勢前，印度不會啟動這項美印貿易協議。
-
----
-
-### 2026-06-26 02:57:41  #國際
-
-【歐盟延長波音-空客貿易爭端中的關稅暫停期】據知情人士透露，歐盟成員國已同意延長涉及空客與波音之間的貿易爭端的關稅暫停期，這些關稅原定針對價值40億美元的美國產品。此次關稅暫停未設定明確的截止日期。歐盟委員會發言人奧洛夫·吉爾對這一表決結果表示歡迎，他表示：“我們正與美國進行持續磋商，以確保情況穩定與確定性，並維持雙方暫停實施反制措施的狀態。”總部位於法國圖盧茲的空客與總部位於美國弗吉尼亞州阿靈頓的波音之間這場曠日持久的爭端，起因是非法補貼問題。在雙方於五年前達成臨時休戰協議之前，歐盟和美國曾分別對價值115億美元的對方出口商品加徵關稅。
-
----
-
-### 2026-06-26 02:57:11  #MKT News #EURUSD #Impact bullish #DXY #Impact bearish #S&P500
-
-【EU extends tariff suspension in Airbus-Boeing dispute】EU member states have agreed to extend the tariff suspension in the long-running Airbus-Boeing dispute, covering $4 billion of U.S. goods; no end date was set. European Commission spokesman Olof Gill said Brussels is holding ongoing talks with Washington to preserve stability and keep countermeasures suspended. The dispute over alleged illegal subsidies previously led both sides to impose tariffs on about $11.5 billion of each other’s exports before a five-year truce.
 
 ---
