@@ -1,7 +1,55 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-06-28 04:08:45_
-_本檔包含 3500 則快訊，約 670307 字_
+_更新時間：2026-06-28 04:36:52_
+_本檔包含 3505 則快訊，約 670851 字_
+
+---
+
+### 2026-06-28 04:34:39  #公司 #國際
+
+法國電力集團（EDF）負責人發出警告：受電力供應短缺影響，美國或將面臨大面積停電風險。
+
+---
+
+### 2026-06-28 04:31:24  #國際
+
+德國地學研究中心（GFZ）：日本本州東海岸附近發生6.07級地震。
+
+---
+
+### 2026-06-28 04:29:51  #國際
+
+歐洲地中海地震中心（EMSC）：日本本州東海岸附近發生6級地震。
+
+---
+
+### 2026-06-28 04:26:30  #公司 #國際
+
+【英國橋點集團即將達成約10億美元收購地產部門交易】英國私募資本集團橋點集團（Bridgepoint）即將達成一項交易，以約10億美元收購美國投資公司凱恩·安德森（Kayne Anderson）旗下地產業務板塊。兩家投資機構的談判仍在推進，交易最快或於週一對外公佈。本次交易將採用現金加股權的支付形式，凱恩·安德森地產業務估值約10億美元。
+
+---
+
+### 2026-06-28 04:25:06  #公司
+
+【坦尚尼亞國家電網故障致大面積停電】當地時間27日晚，由於坦尚尼亞國家電網發生技術故障，導致大面積停電，所有連線到國家輸電網路地區的電力供應中斷。坦尚尼亞電力供應公司當晚發表宣告稱，當天19時，國家電網發生故障。停電影響了坦尚尼亞全國多個地區的家庭、企業和公共機構。坦尚尼亞電力公司表示，其技術團隊正在進行搶修工作，分階段恢復電力供應。（央視新聞）
+
+---
+
+### 2026-06-28 04:23:11  #Trading Economics #Markets #Spain #stocks #Importance 0
+
+Iberdrola Stock Price Hits Near 15-year High — Iberdrola shares increased to 21.98 EUR, the highest since August 2011. Over the past 4 weeks, Iberdrola gained 10.19%, and in the last 12 months, it increased 32.86%.
+
+---
+
+### 2026-06-28 04:18:24  #國際
+
+卡達和埃及外長在通話中討論了地區局勢發展。
+
+---
+
+### 2026-06-28 04:10:57  #國際
+
+歐盟：啟動一項針對查德、總額6300萬歐元的安全合作計劃。
 
 ---
 
@@ -21125,23 +21173,5 @@ South Korea’s Ministry of Oceans and Fisheries says eight South Korean vessels
 ### 2026-06-26 08:20:40  #MKT News #Important #Commodities #Precious Metals #Macro & Rates #The Fed (FOMC) #XAUUSD #Impact bullish
 
 【China International Capital Co: Gold bull market not over; turnaround may be near】China International Capital Co says gold’s selloff since March does not signal the end of the bull market. International gold fell below $4,000/oz, off more than 25% from the March peak of $5,321/oz. CICC cites two primary drivers: US–Iran conflict-driven oil and inflation upside, which stoked tightening expectations, and a June FOMC appearance by a Fed official that was read as hawkish — the dot plot revised up inflation expectations and roughly half of the 18 voters signalled support for at least one rate hike this year. Futures markets have priced one Fed hike in 2026 and one in 2027; a stronger dollar has weighed on gold. CICC cautions against linear extrapolation: US inflation may have peaked and could trend down in H2, and the recent hawkish rhetoric does not necessarily mark a permanent Fed shift away from eventual easing. Conclusion: the correction is not the end of the gold bull market; a turnaround may be near. Recommendation: maintain positions and buy on dips.
-
----
-
-### 2026-06-26 08:20:08  #公司 #市場
-
-【日經指數跌幅擴大】日經225指數下跌2.4%，報70,658.98點。軟銀集團股價下跌10%。
-
----
-
-### 2026-06-26 08:19:35  #市場 #央行 #國際
-
-瑞穗銀行外匯即期交易部副總經理Jumpei Tanaka表示，日元在過去一個月左右的跑贏G10貨幣，可能不僅僅是由於對貨幣干預的擔憂，油價下跌，日本央行加息逐步改善實際利率，因此“此前導致日元貶值的因素已不如以往那麼顯著”。
-
----
-
-### 2026-06-26 08:19:11  #公司 #市場
-
-軟銀集團股價下跌10%。
 
 ---

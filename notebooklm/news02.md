@@ -1,7 +1,25 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-06-28 04:08:45_
-_本檔包含 3718 則快訊，約 670326 字_
+_更新時間：2026-06-28 04:36:52_
+_本檔包含 3714 則快訊，約 669378 字_
+
+---
+
+### 2026-06-26 08:20:08  #公司 #市場
+
+【日經指數跌幅擴大】日經225指數下跌2.4%，報70,658.98點。軟銀集團股價下跌10%。
+
+---
+
+### 2026-06-26 08:19:35  #市場 #央行 #國際
+
+瑞穗銀行外匯即期交易部副總經理Jumpei Tanaka表示，日元在過去一個月左右的跑贏G10貨幣，可能不僅僅是由於對貨幣干預的擔憂，油價下跌，日本央行加息逐步改善實際利率，因此“此前導致日元貶值的因素已不如以往那麼顯著”。
+
+---
+
+### 2026-06-26 08:19:11  #公司 #市場
+
+軟銀集團股價下跌10%。
 
 ---
 
@@ -22391,47 +22409,5 @@ South Korea Manufacturing Confidence Eases in June — South Korea’s Business 
 ### 2026-06-25 05:03:46  #公司
 
 【智利國家銅業公司將在投資審查中權衡資產出售事宜】智利國有礦業巨頭、全球最大銅生產商之一的智利國家銅業公司（Codelco）董事長Bernardo Fontaine在國會下院委員會會議上表示，作為更廣泛的投資優先順序審查的一部分，該公司將評估出售資產或建立合作關係的潛在可能性。Fontaine表示，這項預計耗時三到四個月的評估，其部分目的是讓Codelco確定“繼續保留這些資產、將其出售，或是以某種方式（開展合作）是否合理”。
-
----
-
-### 2026-06-25 05:02:10  #MKT News #LMT.O #Impact bullish #NOC.O #RTX.O
-
-NATO Secretary-General Rutte said Germany and other allies are stepping up efforts to increase defense spending.
-
----
-
-### 2026-06-25 05:01:07  #市場
-
-【紐約期金週三跌3.2%，現貨黃金失守4000美元整數位心理關口，白銀跌超6%】週三（6月24日）紐約尾盤，現貨黃金跌2.86%，報3999.08美元/盎司，全天處於下跌狀態，交投區間為4117.78-3959.33美元，北京時間02:04逼近2025年11月4日底部3928.98美元和當年10月28日底部3886.62美元。COMEX黃金期貨跌3.21%，報4016.40美元/盎司，紐約中午一度跌至3975.70美元。現貨白銀跌6.72%，報57.4512美元/盎司，交投區間為62.3762-55.6125美元，02:04逼近2025年11月28日底部53.3447美元。COMEX白銀期貨跌6.64%，報57.940美元/盎司。COMEX銅期貨跌2.57%，報6.0525美元/磅。現貨鉑金跌4.25%，現貨鈀金跌5.01%。
-
----
-
-### 2026-06-25 05:00:27  #MKT News #Market Themes #The Trump Trade
-
-【Trump: will not accept any shipping-related fees in US-Iran deal】On June 24, Trump said any final US-Iran agreement that imposes fees on shipping or maritime activity would be "unacceptable" to him.
-
----
-
-### 2026-06-25 05:00:22  #資料 #國際
-
-韓國製造業信心指數6月份升至101.2。
-
----
-
-### 2026-06-25 04:59:55  #焦點 #國際
-
-【特朗普：不接受美伊協議包含任何涉及航運的費用】當地時間6月24日，美國總統特朗普表示，如果最終達成的美伊協議中包含針對航運或海事活動的任何形式的費用，這對他來說是“不可接受的”。（央視新聞）
-
----
-
-### 2026-06-25 04:59:03  #MKT News #DXY #Impact bullish #US10Y #S&P500 #Impact bearish
-
-Timiraos said some forecasters who backcast May PCE from US PPI and CPI expect a strong core PCE print and a sizable divergence from CPI, projecting core PCE YoY at 3.4% when the May figure is released on Thursday.
-
----
-
-### 2026-06-25 04:58:57  #資料 #央行 #國際
-
-“美聯儲傳聲筒”Nick Timiraos：一些將美國PPI和CPI資料換算為5月PCE的預測人士預計，美國核心PCE將錄得較強讀數，並且與CPI之間的差距（分歧）較大，預計在週四公佈時，核心PCE同比增速將達到3.4%。
 
 ---

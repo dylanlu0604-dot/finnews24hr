@@ -1,7 +1,49 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-06-28 04:08:45_
-_本檔包含 3483 則快訊，約 669575 字_
+_更新時間：2026-06-28 04:36:52_
+_本檔包含 3483 則快訊，約 670304 字_
+
+---
+
+### 2026-06-23 23:50:15  #MKT News #Star Stocks #Microsoft #Market Themes #Magnificent 7 #MSFT.O #Impact bullish
+
+Microsoft (MSFT.O) announced the Azure Copilot observability agent is now generally available.
+
+---
+
+### 2026-06-23 23:49:57  #MKT News
+
+Pakistan's prime minister said there should be no double standards: some countries can possess ballistic missiles while Iran should not.
+
+---
+
+### 2026-06-23 23:49:55  #MKT News
+
+【Lebanese president, US officials discuss ceasefire-monitoring mechanism】On the 23rd Lebanese President Joseph Aoun spoke by phone with U.S. Vice President Vance and Secretary of State Rubio to discuss Lebanon’s situation and progress after U.S.-Iran talks in Switzerland, the presidential office said. Vance and Rubio reiterated U.S. support for the Lebanese government and sovereignty and said Washington is following up on memoranda of understanding from the Swiss talks, including creating a U.S.-Lebanon-Iran mechanism to shore up the ceasefire and monitor implementation. U.S. officials said they are reviewing the proposed mechanism’s structure and operational arrangements.
+
+---
+
+### 2026-06-23 23:49:31  #其他
+
+微軟：Azure Copilot 視覺化代理現已全面上線。
+
+---
+
+### 2026-06-23 23:48:53  #國際
+
+巴基斯坦總理謝里夫：不應存在雙重標準，不能允許部分國家擁有彈道導彈，卻禁止伊朗擁有。
+
+---
+
+### 2026-06-23 23:48:42  #國際
+
+知情人士訊息：特朗普將於週三在橢圓形辦公室會見各大武器製造商。
+
+---
+
+### 2026-06-23 23:48:32  #Trading Economics #Markets #France #Stock Market #Importance 0
+
+CAC 40 Dips on Hawkish Fed and ECB Prospects — The CAC 40 fell 0.7% to close at 8,341 on Tuesday, extending losses for a third straight session as investors reassessed the outlook for global monetary policy. Markets increasingly expect the US Federal Reserve to deliver a total of 50 basis points in rate hikes by year-end to contain inflationary pressures. In Europe, traders also continued to price in an additional 25 basis-point increase from the European Central Bank later this year, despite Christine Lagarde recently downplaying concerns over second-round inflation effects. Financial stocks traded lower, with Societe Generale down 1.5%. Luxury stocks were mixed as risk aversion increased, with L'Oréal down 0.3%, Hermès losing 1%, and Kering falling 0.9%, while LVMH rose 0.6%. STMicroelectronics plunged 8.1%, tracking Wall Street as technology stocks came under pressure amid concerns that AI-driven valuations have become overstretched. Industrials were mixed, with Schneider Electric down 4%, while Airbus gained 2.2%.
 
 ---
 
@@ -20990,47 +21032,5 @@ Ibovespa Gains on Lower Oil Quotes — The Ibovespa rose 1% to trade above the 1
 ### 2026-06-22 21:40:33  #公司
 
 【海南省與中國中化舉行工作會談 馮飛劉小明李凡榮參加】6月22日，海南省委書記馮飛、省長劉小明在北京與出席第四屆中國國際供應鏈促進博覽會的中國中化控股有限責任公司董事長李凡榮一行舉行工作會談。馮飛、劉小明感謝中國中化長期以來對海南自由貿易港建設的大力支援。馮飛表示，海南自由貿易港封關運作以來，政策紅利持續釋放，物暢其流、人享其行、流量集聚等成效初顯。當前，海南正著力構建具有海南特色和優勢的現代化產業體系，以科技創新引領產業創新，加快發展“種源+種業+種市”南繁產業。希望中國中化充分發揮技術、資金、人才等優勢，持續擴大投資規模，搭建創新研發平臺，打造央地合作典範。海南將持續最佳化營商環境、做好服務保障，助力企業實現更好更快發展。（海南釋出）
-
----
-
-### 2026-06-22 21:40:19  #Trading Economics #Markets #United States #Stock Market #Importance 1
-
-The Dow Jones Index Opens 0.30% Higher — The Dow Jones Index is up by 155 points or 0.30 percent on Monday. Top gainers are Caterpillar (2.49%), Amgen (1.45%) and Nvidia (1.34%). Biggest losses came from Home Depot (-1.88%), Amazon (-1.76%) and McDonalds (-1.22%).
-
----
-
-### 2026-06-22 21:39:55  #公司 #國際
-
-【上海市長會見美國萬寶盛華集團董事會主席兼CEO普里辛，讓全球人才近悅遠來】上海市市長龔正今天（6月22日）會見了美國萬寶盛華集團董事會主席兼執行長約納斯·普里辛一行。龔正說，當前，上海正在按照中央政府的部署，加快建設“五個中心”，著力推動高質量發展。人力資源是現代化產業體系的重要組成部分，我們堅持人才是第一資源，加快建設高水平人才高地，持續完善全球引才網路體系，努力聚天下英才而用之，讓全球人才近悅遠來。歡迎萬寶盛華等世界知名企業發揮所長、積極參與，將更多先進服務理念引入上海，依託全球業務網路和渠道資源，助力上海更好發揮開放引才優勢，創新探索人才合作交流方式，大力引進更多頂尖人才和各類專業人才。同時，歡迎萬寶盛華為上海最佳化營商環境建言獻策，圍繞人才培育和引進等方面多提寶貴建議，幫助上海持續最佳化為企服務水平，助力各類企業實現更大發展。（澎湃）
-
----
-
-### 2026-06-22 21:39:45  #市場
-
-布倫特原油日內跌3%，現報77.64美元/桶。
-
----
-
-### 2026-06-22 21:39:26  #其他 #焦點
-
-市場訊息：安迪·伯納姆宣誓就任英國國會議員。
-
----
-
-### 2026-06-22 21:39:24  #MKT News #Macro & Rates #The Fed (FOMC)
-
-【Federal Reserve issues statement on death of former Chair Greenspan】The Federal Reserve issued a statement on the death of former chair Alan Greenspan, who died at 100 from complications of Parkinson’s disease. The Fed said Greenspan, in an 18‑year tenure, led the central bank through periods of significant expansion and major stress, contributing to sustained price stability, support for economic growth and bolstering public confidence in the institution.
-
----
-
-### 2026-06-22 21:39:18  #MKT News #Important
-
-Market sources: Andy Burnham sworn in as a Member of the UK Parliament.
-
----
-
-### 2026-06-22 21:39:03  #市場
-
-哥倫比亞企業在美上市個股因右翼候選人德拉埃斯普列利亞險勝總統選舉大幅上漲。ECOPETROL上漲6%，GRUPO CIBEST上漲7.5%，GEOPARK上漲2.9%，GRUPO AVAL上漲7%。
 
 ---

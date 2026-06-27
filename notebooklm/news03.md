@@ -1,7 +1,49 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-06-28 04:08:45_
-_本檔包含 3896 則快訊，約 671060 字_
+_更新時間：2026-06-28 04:36:52_
+_本檔包含 3896 則快訊，約 670134 字_
+
+---
+
+### 2026-06-25 05:02:10  #MKT News #LMT.O #Impact bullish #NOC.O #RTX.O
+
+NATO Secretary-General Rutte said Germany and other allies are stepping up efforts to increase defense spending.
+
+---
+
+### 2026-06-25 05:01:07  #市場
+
+【紐約期金週三跌3.2%，現貨黃金失守4000美元整數位心理關口，白銀跌超6%】週三（6月24日）紐約尾盤，現貨黃金跌2.86%，報3999.08美元/盎司，全天處於下跌狀態，交投區間為4117.78-3959.33美元，北京時間02:04逼近2025年11月4日底部3928.98美元和當年10月28日底部3886.62美元。COMEX黃金期貨跌3.21%，報4016.40美元/盎司，紐約中午一度跌至3975.70美元。現貨白銀跌6.72%，報57.4512美元/盎司，交投區間為62.3762-55.6125美元，02:04逼近2025年11月28日底部53.3447美元。COMEX白銀期貨跌6.64%，報57.940美元/盎司。COMEX銅期貨跌2.57%，報6.0525美元/磅。現貨鉑金跌4.25%，現貨鈀金跌5.01%。
+
+---
+
+### 2026-06-25 05:00:27  #MKT News #Market Themes #The Trump Trade
+
+【Trump: will not accept any shipping-related fees in US-Iran deal】On June 24, Trump said any final US-Iran agreement that imposes fees on shipping or maritime activity would be "unacceptable" to him.
+
+---
+
+### 2026-06-25 05:00:22  #資料 #國際
+
+韓國製造業信心指數6月份升至101.2。
+
+---
+
+### 2026-06-25 04:59:55  #焦點 #國際
+
+【特朗普：不接受美伊協議包含任何涉及航運的費用】當地時間6月24日，美國總統特朗普表示，如果最終達成的美伊協議中包含針對航運或海事活動的任何形式的費用，這對他來說是“不可接受的”。（央視新聞）
+
+---
+
+### 2026-06-25 04:59:03  #MKT News #DXY #Impact bullish #US10Y #S&P500 #Impact bearish
+
+Timiraos said some forecasters who backcast May PCE from US PPI and CPI expect a strong core PCE print and a sizable divergence from CPI, projecting core PCE YoY at 3.4% when the May figure is released on Thursday.
+
+---
+
+### 2026-06-25 04:58:57  #資料 #央行 #國際
+
+“美聯儲傳聲筒”Nick Timiraos：一些將美國PPI和CPI資料換算為5月PCE的預測人士預計，美國核心PCE將錄得較強讀數，並且與CPI之間的差距（分歧）較大，預計在週四公佈時，核心PCE同比增速將達到3.4%。
 
 ---
 
@@ -23458,47 +23500,5 @@ Spanish police said a fire at a Madrid skyscraper is under control and no casual
 ### 2026-06-23 23:53:26  #國際
 
 【國際海事組織宣佈啟動霍爾木茲海峽滯留海員疏散計劃】國際海事組織23日宣佈啟動霍爾木茲海峽地區滯留海員疏散計劃。國際海事組織秘書長多明格斯在一份宣告中說，將與伊朗、阿曼等地區沿岸國家、美國以及國際航運業密切合作，疏散目前仍滯留在霍爾木茲海峽地區的超過1.1萬名海員。（新華社）
-
----
-
-### 2026-06-23 23:50:15  #MKT News #Star Stocks #Microsoft #Market Themes #Magnificent 7 #MSFT.O #Impact bullish
-
-Microsoft (MSFT.O) announced the Azure Copilot observability agent is now generally available.
-
----
-
-### 2026-06-23 23:49:57  #MKT News
-
-Pakistan's prime minister said there should be no double standards: some countries can possess ballistic missiles while Iran should not.
-
----
-
-### 2026-06-23 23:49:55  #MKT News
-
-【Lebanese president, US officials discuss ceasefire-monitoring mechanism】On the 23rd Lebanese President Joseph Aoun spoke by phone with U.S. Vice President Vance and Secretary of State Rubio to discuss Lebanon’s situation and progress after U.S.-Iran talks in Switzerland, the presidential office said. Vance and Rubio reiterated U.S. support for the Lebanese government and sovereignty and said Washington is following up on memoranda of understanding from the Swiss talks, including creating a U.S.-Lebanon-Iran mechanism to shore up the ceasefire and monitor implementation. U.S. officials said they are reviewing the proposed mechanism’s structure and operational arrangements.
-
----
-
-### 2026-06-23 23:49:31  #其他
-
-微軟：Azure Copilot 視覺化代理現已全面上線。
-
----
-
-### 2026-06-23 23:48:53  #國際
-
-巴基斯坦總理謝里夫：不應存在雙重標準，不能允許部分國家擁有彈道導彈，卻禁止伊朗擁有。
-
----
-
-### 2026-06-23 23:48:42  #國際
-
-知情人士訊息：特朗普將於週三在橢圓形辦公室會見各大武器製造商。
-
----
-
-### 2026-06-23 23:48:32  #Trading Economics #Markets #France #Stock Market #Importance 0
-
-CAC 40 Dips on Hawkish Fed and ECB Prospects — The CAC 40 fell 0.7% to close at 8,341 on Tuesday, extending losses for a third straight session as investors reassessed the outlook for global monetary policy. Markets increasingly expect the US Federal Reserve to deliver a total of 50 basis points in rate hikes by year-end to contain inflationary pressures. In Europe, traders also continued to price in an additional 25 basis-point increase from the European Central Bank later this year, despite Christine Lagarde recently downplaying concerns over second-round inflation effects. Financial stocks traded lower, with Societe Generale down 1.5%. Luxury stocks were mixed as risk aversion increased, with L'Oréal down 0.3%, Hermès losing 1%, and Kering falling 0.9%, while LVMH rose 0.6%. STMicroelectronics plunged 8.1%, tracking Wall Street as technology stocks came under pressure amid concerns that AI-driven valuations have become overstretched. Industrials were mixed, with Schneider Electric down 4%, while Airbus gained 2.2%.
 
 ---

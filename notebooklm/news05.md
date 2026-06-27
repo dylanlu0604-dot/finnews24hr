@@ -1,7 +1,49 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-06-28 04:08:45_
-_本檔包含 3551 則快訊，約 670234 字_
+_更新時間：2026-06-28 04:36:52_
+_本檔包含 3545 則快訊，約 669780 字_
+
+---
+
+### 2026-06-22 21:40:19  #Trading Economics #Markets #United States #Stock Market #Importance 1
+
+The Dow Jones Index Opens 0.30% Higher — The Dow Jones Index is up by 155 points or 0.30 percent on Monday. Top gainers are Caterpillar (2.49%), Amgen (1.45%) and Nvidia (1.34%). Biggest losses came from Home Depot (-1.88%), Amazon (-1.76%) and McDonalds (-1.22%).
+
+---
+
+### 2026-06-22 21:39:55  #公司 #國際
+
+【上海市長會見美國萬寶盛華集團董事會主席兼CEO普里辛，讓全球人才近悅遠來】上海市市長龔正今天（6月22日）會見了美國萬寶盛華集團董事會主席兼執行長約納斯·普里辛一行。龔正說，當前，上海正在按照中央政府的部署，加快建設“五個中心”，著力推動高質量發展。人力資源是現代化產業體系的重要組成部分，我們堅持人才是第一資源，加快建設高水平人才高地，持續完善全球引才網路體系，努力聚天下英才而用之，讓全球人才近悅遠來。歡迎萬寶盛華等世界知名企業發揮所長、積極參與，將更多先進服務理念引入上海，依託全球業務網路和渠道資源，助力上海更好發揮開放引才優勢，創新探索人才合作交流方式，大力引進更多頂尖人才和各類專業人才。同時，歡迎萬寶盛華為上海最佳化營商環境建言獻策，圍繞人才培育和引進等方面多提寶貴建議，幫助上海持續最佳化為企服務水平，助力各類企業實現更大發展。（澎湃）
+
+---
+
+### 2026-06-22 21:39:45  #市場
+
+布倫特原油日內跌3%，現報77.64美元/桶。
+
+---
+
+### 2026-06-22 21:39:26  #其他 #焦點
+
+市場訊息：安迪·伯納姆宣誓就任英國國會議員。
+
+---
+
+### 2026-06-22 21:39:24  #MKT News #Macro & Rates #The Fed (FOMC)
+
+【Federal Reserve issues statement on death of former Chair Greenspan】The Federal Reserve issued a statement on the death of former chair Alan Greenspan, who died at 100 from complications of Parkinson’s disease. The Fed said Greenspan, in an 18‑year tenure, led the central bank through periods of significant expansion and major stress, contributing to sustained price stability, support for economic growth and bolstering public confidence in the institution.
+
+---
+
+### 2026-06-22 21:39:18  #MKT News #Important
+
+Market sources: Andy Burnham sworn in as a Member of the UK Parliament.
+
+---
+
+### 2026-06-22 21:39:03  #市場
+
+哥倫比亞企業在美上市個股因右翼候選人德拉埃斯普列利亞險勝總統選舉大幅上漲。ECOPETROL上漲6%，GRUPO CIBEST上漲7.5%，GEOPARK上漲2.9%，GRUPO AVAL上漲7%。
 
 ---
 
@@ -21335,83 +21377,5 @@ Iran's negotiating delegation has arrived in Switzerland, Iranian media report.
 ### 2026-06-21 04:36:52  #國際
 
 【美副總統萬斯已啟程前往瑞士】當地時間6月20日，美國副總統發言人表示，副總統萬斯已從華盛頓起飛，啟程前往瑞士。（央視新聞）
-
----
-
-### 2026-06-21 04:34:50  #MKT News #Important
-
-U.S. Vice President Vance said he will be in Switzerland for one to two days for talks with Iran and hopes to make progress on nuclear issues and a ceasefire in Lebanon.
-
----
-
-### 2026-06-21 04:34:25  #其他
-
-萬斯：黎巴嫩境內戰事局勢實際正在好轉。
-
----
-
-### 2026-06-21 04:32:17  #其他 #焦點
-
-萬斯：希望能在核問題上取得進展，同時在黎巴嫩停火問題上取得進展。
-
----
-
-### 2026-06-21 04:32:12  #國際
-
-萬斯前往瑞士參與伊朗問題談判：只能在當地停留一兩天。
-
----
-
-### 2026-06-21 04:30:59  #其他
-
-萬斯稱美伊或將展開為期數日的談判。
-
----
-
-### 2026-06-21 04:29:44  #MKT News
-
-US Vice President Vance has departed Washington for Switzerland, a spokesperson said.
-
----
-
-### 2026-06-21 04:29:28  #MKT News
-
-【Vance departs for Lucerne to join US-Iran talks, US media says】US Vice President Vance left Joint Base Andrews late Saturday afternoon local time for Lucerne, Switzerland, to participate in talks with Iran, CNN reports. US special Middle East envoy Witkoff and Kushner were already on site handling technical aspects. Vance said earlier Saturday the trip’s timing was adjusted several times over the past week and called the visit a "finely coordinated process" requiring diplomatic protocol and procedure.
-
----
-
-### 2026-06-21 04:29:24  #國際
-
-美國副總統發言人表示，美國副總統萬斯已離開華盛頓，啟程前往瑞士。
-
----
-
-### 2026-06-21 04:25:46  #國際
-
-【萬斯啟程參加美伊談判，霍爾木茲海峽通行問題懸而未決】黎巴嫩南部戰事升級導致談判推遲後，美國副總統萬斯即將啟程前往瑞士，參與同伊朗的磋商。美伊雙方簽署的諒解備忘錄為談判鋪平道路，談判核心議題包括伊朗鈾加工活動，以及銷燬或稀釋伊朗現有高濃縮鈾庫存。伊朗再度封鎖霍爾木茲海峽航運通道，稱以色列違反停火協議；併發出警告，今後船舶穿越該水道必須獲得伊朗許可、投保強制保險。
-
----
-
-### 2026-06-21 04:20:37  #國際
-
-萬斯將赴瑞士參與對伊朗談判。
-
----
-
-### 2026-06-21 04:18:40  #MKT News #Commodities #Energy #WTI #Impact bullish #Brent #XAUUSD
-
-【U.S. has yet to formally respond to reports of Strait of Hormuz closure】As of about six hours after initial reports, the U.S. had not issued a formal response to reports that the Strait of Hormuz was closed. CENTCOM said 55 vessels transited the strait that day carrying roughly 17 million barrels of oil, and reiterated that Iran has no right to control the waterway and that the strait remains open. Vice President Pence was being interviewed when the reports broke and President Trump posted on social media without addressing the incident; the administration has not released a unified official statement.
-
----
-
-### 2026-06-21 04:17:12  #其他
-
-英國泰晤士報：若安迪·伯納姆出任英國首相，蕾切爾·裡夫斯將失去英國財政大臣一職。
-
----
-
-### 2026-06-21 04:15:26  #其他
-
-市場資訊：巴基斯坦將在華盛頓與德黑蘭預期舉行的高階別技術談判中發揮重要作用。
 
 ---
