@@ -1,7 +1,20 @@
 {
-  "updated": "2026-06-28 01:12:26",
+  "updated": "2026-06-28 01:16:29",
   "count": 18143,
   "items": [
+    {
+      "id": "mkt:019f0a13-24a9-7dd8-b143-1bbf0967866d",
+      "time": "2026-06-28 01:14:14",
+      "tags": [
+        "MKT News",
+        "S&P500",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish",
+        "WTI"
+      ],
+      "text": "Israeli Broadcasting Corporation, citing sources, says Israel's military plans to withdraw tomorrow from two experimental areas in southern Lebanon."
+    },
     {
       "id": "4958543",
       "time": "2026-06-28 01:11:17",
@@ -165988,14 +166001,6 @@
         "XAUUSD"
       ],
       "text": "【IRGC warns vessels to stay away from Strait of Hormuz】CNN reported that after Iran announced on Saturday it would close the Strait of Hormuz, the Islamic Revolutionary Guard Corps' naval unit warned vessels not to approach the waterway. A state broadcaster reporter said the IRGC issued radio warnings and directly contacted ships, saying vessels attempting to transit could encounter sea mines or be targeted by Iranian naval forces. The reporter added vessel traffic in the Persian Gulf had fallen further compared with several hours earlier."
-    },
-    {
-      "id": "4945941",
-      "time": "2026-06-21 01:14:30",
-      "tags": [
-        "其他"
-      ],
-      "text": "巴基斯坦政府訊息人士：總理和陸軍參謀長將率領巴基斯坦代表團，並致力於促成會談。"
     }
   ]
 }
