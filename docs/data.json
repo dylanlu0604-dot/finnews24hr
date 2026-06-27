@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-27 20:45:35",
-  "count": 18194,
+  "updated": "2026-06-27 20:49:44",
+  "count": 18192,
   "items": [
     {
       "id": "mkt:019f0919-d53f-7dd8-b142-332d5502a7e8",
@@ -166443,26 +166443,6 @@
         "國際"
       ],
       "text": "伊朗外長阿拉格齊會見了來訪的巴基斯坦內政部長。"
-    },
-    {
-      "id": "4945820",
-      "time": "2026-06-20 20:48:42",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗伊斯蘭革命衛隊海軍：計劃穿越霍爾木茲海峽的船隻必須就此事與我們協調。"
-    },
-    {
-      "id": "mkt:019ee512-5ee1-7dd8-b09f-000946386f03",
-      "time": "2026-06-20 20:47:26",
-      "tags": [
-        "MKT News",
-        "Brent",
-        "Impact bullish",
-        "XAUUSD",
-        "DXY"
-      ],
-      "text": "【Zaporizhzhia nuclear plant loses external power for 20th time】The IAEA reported the Zaporizhzhia nuclear plant completely lost external power on June 20, the 20th such outage since the Russia-Ukraine conflict began."
     }
   ]
 }
