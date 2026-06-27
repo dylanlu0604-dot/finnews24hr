@@ -1,7 +1,32 @@
 {
-  "updated": "2026-06-27 22:44:59",
-  "count": 18142,
+  "updated": "2026-06-27 22:49:19",
+  "count": 18140,
   "items": [
+    {
+      "id": "mkt:019f098d-6a7c-7dd8-b142-abd33c8f3e74",
+      "time": "2026-06-27 22:48:10",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "The president of Cyprus welcomed the US-brokered framework agreement between Israel and Lebanon and expressed appreciation for the US role in advancing the initiative."
+    },
+    {
+      "id": "4958485",
+      "time": "2026-06-27 22:44:49",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國即將宣佈針對委內瑞拉的新一輪援助計劃。"
+    },
+    {
+      "id": "4958484",
+      "time": "2026-06-27 22:44:18",
+      "tags": [
+        "宏觀",
+        "公司"
+      ],
+      "text": "【保時捷計劃將卡宴SUV生產線從斯洛伐克遷至萊比錫】保時捷計劃將卡宴SUV的生產工作從斯洛伐克轉移至德國萊比錫工廠，以此提升工廠產能利用率。大眾汽車正考慮關閉四家德國本土工廠，並計劃將裁員規模擴大至10萬人。保時捷執行長米夏埃爾·萊特斯近期強調，公司將持續深耕萊比錫工廠，同時企業必須出臺果斷舉措，才能維持自身競爭力。"
+    },
     {
       "id": "4958483",
       "time": "2026-06-27 22:42:30",
@@ -165965,47 +165990,6 @@
         "國際"
       ],
       "text": "伊朗表示，代表團正前往瑞士，以確保美國履行協議下的承諾。"
-    },
-    {
-      "id": "4945895",
-      "time": "2026-06-20 22:48:40",
-      "tags": [
-        "公司"
-      ],
-      "text": "【山西五寨縣土方滑落致2人死亡】據山西省五寨縣有關部門訊息，6月20日17時左右，國網山西省電力有限公司超高壓變電公司4名施工人員在五寨縣三岔鎮塔子會村路段附近進行施工作業過程中被土方掩埋。當地應急、醫衛等部門展開全力救援，目前4人均被救出，2人經搶救無效死亡，剩餘2人正在救治中。（新華社）"
-    },
-    {
-      "id": "mkt:019ee581-2c9a-7dd8-b0a0-5563272ac348",
-      "time": "2026-06-20 22:48:28",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Saudi outlet Al Hadath reports an Iranian delegation has traveled to Switzerland; members include Iran's central bank governor and the deputy oil minister."
-    },
-    {
-      "id": "4945894",
-      "time": "2026-06-20 22:48:11",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國特使維特科夫和庫什納抵達瑞士，準備與伊朗舉行會談，談判定於週日舉行。"
-    },
-    {
-      "id": "mkt:019ee580-b2a6-7dd8-b0a0-49de2910c702",
-      "time": "2026-06-20 22:47:57",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Iran negotiators depart for Switzerland for MoU talks with US】Iran said on June 20 its negotiating delegation has departed for Switzerland to discuss a memorandum of understanding with the United States. Pakistan’s foreign ministry said technical-level talks will take place in Switzerland on June 21, 2026, with Pakistan and Qatar serving as mediators."
-    },
-    {
-      "id": "4945893",
-      "time": "2026-06-20 22:46:52",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "比特幣升破64000美元，日內漲0.81%。"
     }
   ]
 }
