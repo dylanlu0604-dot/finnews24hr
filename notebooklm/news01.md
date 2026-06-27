@@ -1,7 +1,187 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-06-27 10:37:03_
-_本檔包含 3576 則快訊，約 673022 字_
+_更新時間：2026-06-27 12:05:39_
+_本檔包含 3554 則快訊，約 673120 字_
+
+---
+
+### 2026-06-27 12:03:17  #公司
+
+【氫氣管輸工程成套技術與標準體系正式釋出】6月26日，國家管網集團氫能儲運技術交流會在京舉行。會議正式釋出氫氣管輸工程技術方案與成套標準，為氫氣管輸的接入、儲運、交付建立完整的技術規範與標準體系，填補了我國長距離、規模化氫氣管輸成套技術與標準空白，標誌著我國氫氣長輸管道實現從單點技術攻關向體系化應用的關鍵跨越。
+
+---
+
+### 2026-06-27 12:03:04  #其他
+
+【海南旅遊淡季殺出夜釣黑馬】央視財經訊息，進入6月，全國多地氣溫攀升，往常來說，是海南旅遊市場的淡季。但隨著遊艇夜釣這一夜間體驗專案受到越來越多遊客的青睞，特色海洋休閒體驗正在啟用夜間消費，為海島旅遊淡季開啟全新增長空間。遊艇夜釣單人400元5小時出海套餐、2800元整船包夜套餐，覆蓋新手、資深釣友兩類客群。往年6至8月，蜈支洲海釣遊艇每晚出航率不足3成，發展常態化夜釣後，夜間出航率穩定在95%以上。夜釣業態也直接拉長遊客本地停留時長。資料顯示，推出夜釣專案前，蜈支洲島遊客平均停留1.2天，如今釣友群體平均停留時間達3.7天。
+
+---
+
+### 2026-06-27 11:59:49  #公司 #國際
+
+【傳騰訊擬退出對多家日本遊戲工作室投資，騰訊：保持對日本遊戲市場的長期關注】近日，據多家外媒爆料，騰訊正在談判退出旗下多家日本遊戲工作室的股權投資，東京上市廠商Marvelous成為本輪撤資的核心標的。訊息透露，騰訊正在逐一評估手裡海外工作室的少數股權，對於協同價值消失、回報不及預期的標的，甚至願意折價虧本，將股份回售給原管理團隊完成離場。對於上述“動作”，騰訊表示：“遊戲是騰訊的核心業務之一。我們將持續全力支援我們的投資公司，並保持對日本遊戲市場的長期關注和投入。”（新浪科技）
+
+---
+
+### 2026-06-27 11:59:26  #其他
+
+【我國首條民營控股高鐵累計客流突破1億人次】記者從國鐵上海局瞭解到，6月27日，我國首條民營控股高鐵杭臺高鐵累計客流突破1億人次。（央視新聞）
+
+---
+
+### 2026-06-27 11:57:53  #MKT News #Market Regions #Greater China #Hang Seng Index #Impact bullish
+
+【HKSAR thanks Beijing after NPC Standing Committee authorises Hong Kong jurisdiction over Huanggang port area】The 14th NPC Standing Committee's 23rd meeting on the 26th approved a decision authorising the Hong Kong Special Administrative Region to exercise jurisdiction over the Hong Kong-side port area of Huanggang port and related extension zones. The HKSAR government thanked the central government for its support, saying the authorisation underscores Beijing's commitment to better integrate Hong Kong into the national development agenda, will strengthen cross-boundary infrastructure connectivity, facilitate personnel flows and trade between the mainland and Hong Kong, and advance Guangdong‑Hong Kong‑Macao Greater Bay Area construction — a move it described as strategically significant and an embodiment of the advantages of ‘one country, two systems’.
+
+---
+
+### 2026-06-27 11:57:45  #其他
+
+【國泰海通總裁李俊傑，擬任市級機關正職】上海市市管幹部任職前公示。公示內容顯示，國泰海通證券股份有限公司總裁、黨委副書記李俊傑，擬任市級機關正職。（上海釋出）
+
+---
+
+### 2026-06-27 11:46:00  #公司 #其他
+
+【網傳純淨水漲價，娃哈哈回應】6月27日，娃哈哈釋出針對近日網傳娃哈哈純淨水漲價相關訊息的統一說明：受包材成本波動，我司調整不同包裝規格水產品的渠道批發價，有升有降以保障經銷商夥伴穩定經營。全線純淨水終端零售價不變，消費者購買價格無變化。請廣大消費者放心購買，相關資訊以官方釋出為準。
+
+---
+
+### 2026-06-27 11:44:52  #公司
+
+【四川能源發展集團專業化整合集體揭牌】據四川國資官微訊息，6月26日，四川能源發展集團專業化整合集體正式揭牌，本次揭牌包括6戶子企業，分別為四川能源電力開發集團有限公司、四川能源氣電集團有限責任公司、四川能源新型能源集團有限公司、四川能源職業教育有限公司、四川能源資本控股集團有限責任公司、四川能源潤嘉實業集團有限責任公司。此次揭牌是四川能源發展集團落實省屬國有企業“1+8”重點領域改革部署的重要實踐，透過專業化整合推動相關產業板塊從“物理整合”向“化學融合”轉變。
+
+---
+
+### 2026-06-27 11:44:22  #公司
+
+【亞投行投資5000萬美元支援中國可持續高等教育發展】6月27日，據亞洲基礎設施投資銀行訊息，亞投行作為錨定投資人近日認購了中國教育集團控股有限公司（中教控股）發行的2億美元債券中的5000萬美元份額。據介紹，此次發行是中國民辦高等教育企業首次以獨立信用發行的高階無抵押美元債券，認購倍數高達4.35倍。
+
+---
+
+### 2026-06-27 11:44:13  #國際
+
+印度總理莫迪：即將前往塞席爾，參加他們的國慶慶典。
+
+---
+
+### 2026-06-27 11:42:50  #MKT News #Market Regions #Europe & UK
+
+【UK June high-temperature record broken for third consecutive day】On June 26 the UK Met Office recorded 37.3C in Suffolk, the third consecutive day that the country’s June high-temperature record has been broken. The heatwave also produced record highs on June 24 and 25; the previous official June record was 35.6C, set in 1957 and 1976.
+
+---
+
+### 2026-06-27 11:40:32  #公司 #國際
+
+【美國查封近400個盜播世界盃賽事域名】美國司法部官員26日說，美國查封了近400個非法直播世界盃賽事的網際網路域名。美國司法部說，被查封的域名是在國際足聯、美國全國廣播環球公司和華納兄弟公司等方面協助下確定，這些域名被用來非法向使用者提供受版權保護的內容，包括正在進行和首次播出的世界盃比賽實時影片內容。（新華社）
+
+---
+
+### 2026-06-27 11:40:16  #兩會
+
+【香港特區政府感謝中央支援成立皇崗口岸港方口岸區】十四屆全國人大常委會第二十三次會議26日表決透過了全國人大常委會關於授權香港特別行政區對皇崗口岸港方口岸區及相關延伸區實施管轄的決定。香港特區政府當天感謝中央對成立皇崗口岸港方口岸區的大力支援。 特區政府發言人表示，全國人大常委會的授權決定，充分體現了中央對香港更好融入和服務國家發展大局的高度重視與支援，對加強香港與內地基礎設施互聯互通、便利兩地之間人員往來和經貿活動，以及推進粵港澳大灣區建設均具有重大戰略意義，是“一國兩制”優勢的充分體現。（中新網）
+
+---
+
+### 2026-06-27 11:39:55  #公司 #國際
+
+【時隔近4個月 沙特重啟海灣原油出口終端】專業機構提供的資料顯示，沙烏地阿拉伯國家石油公司（沙特阿美）26日在時隔近4個月後重啟其海灣一側的石油出口終端，開始為超大型油輪裝貨。歐盟“哥白尼哨兵”衛星系統26日拍攝的影象顯示，沙特東部塔努拉角油港當天已經恢復運轉，有兩艘可裝200萬桶原油的超大型油輪正在港口裝貨，另一艘油輪在附近等待，第四艘油輪正駛向港口。正在裝貨的油輪由沙特巴赫裡航運公司運營。（新華社）
+
+---
+
+### 2026-06-27 11:38:29  #其他
+
+中國地震臺網正式測定：06月27日11時06分在巴基斯坦（北緯30.45度，東經69.70度）發生5.1級地震，震源深度10千米。
+
+---
+
+### 2026-06-27 11:36:39  #公司
+
+【國內造紙行業迎來一輪大範圍漲價潮 最高漲200元/噸】國內造紙行業迎來一輪大範圍、多品類同步漲價潮，覆蓋紗管紙、白卡紙、牛卡紙、灰紙板、文化紙等主流紙張，從頭部漿紙龍頭到區域中小型紙廠密集釋出調價通知，本輪漲價核心驅動均指向上游原料、化工輔料、物流運輸等綜合成本持續攀升。其中，博彙紙業自7月1日起，針對公司所生產的非塗類紙品價格在2026年6月價格基礎上恢復上調200元/噸(含稅)。晨鳴集團自7月1日起，將公司生產的文化紙、銅版紙系列產品在6月份價格基礎上上調200元/噸。岳陽林紙決定自2026年7月1日起，公司所有文化紙系列產品接單價格在現有價格基礎上上調200元/噸。
+
+---
+
+### 2026-06-27 11:24:23  #公司
+
+【中國工商銀行獲准擔任非洲人民幣聯合清算行】6月26日，中國人民銀行釋出公告，為促進中非貿易投資便利化，決定授權南非標準銀行和中國工商銀行擔任非洲人民幣聯合清算行。非洲人民幣聯合清算行是首個以大洲命名的人民幣清算行，也是首次由兩家商業銀行聯合擔任的人民幣清算行。此前，中國工商銀行已在12個國家擔任人民幣清算行，此次非洲人民幣聯合清算行的設立標誌著工商銀行的人民幣清算網路又延伸到了標準銀行集團開展經營的19個非洲國家。
+
+---
+
+### 2026-06-27 11:21:31  #其他
+
+澳大利亞確認第四例H5禽流感陽性病例.
+
+---
+
+### 2026-06-27 11:15:00  #MKT News
+
+EMSC reports a 5.4 magnitude earthquake in Pakistan.
+
+---
+
+### 2026-06-27 11:10:07  #其他
+
+【覃偉中率深圳市代表團赴西藏林芝學習考察 推動新時代對口援藏工作邁上新臺階】6月25日至27日，深圳市委副書記、市長覃偉中率深圳市代表團赴西藏林芝學習考察，深入學習貫徹習近平總書記關於西藏工作、對口支援工作的重要論述精神，奮力推動新時代對口援藏工作邁上新臺階。代表團實地調研對口支援專案落實情況和建設成效，與林芝市委書記巴塔，市委副書記、代理市長尹李峰舉行工作會談。覃偉中代表深圳市委、市政府，對西藏自治區、林芝市長期以來給予深圳發展的支援表示感謝，向林芝取得的發展成績表示祝賀。他說，今年是“十五五”開局之年，對口援藏工作站上新起點，深圳將認真落實新時代黨的治藏方略和區域協調發展戰略，在廣東省、西藏自治區黨委和政府的領導支援下，緊扣林芝所需、竭盡深圳所能，用心用情用力做好民生支援、產業支援，深化“組團式”支援和柔性人才支援，深入推進民族交往交流交融，強化發展戰略對接、實現優勢互補，持續拓展清潔能源、生態文旅、現代農業、智慧城市等領域合作，攜手服務好國家重大戰略工程建設，努力取得更多互利共贏、共同發展新成果，為建設團結富裕文明和諧美麗的社會主義現代化新西藏貢獻更大力量。巴塔代表林芝市委、市政府，向深圳市長期以來給予林芝的關心支援表示感謝，希望積極借鑑深圳發展經驗，繼續發揮各自優勢，加強各領域交流合作，攜手實現高質量發展。（深圳釋出）
+
+---
+
+### 2026-06-27 11:04:07  #公司 #國際
+
+【開山集團土耳其伊茲密爾壓縮機工廠建成投產】當地時間2026年6月26日下午，開山集團土耳其伊茲密爾壓縮機工廠(KCT)建成投產。工廠具備完整的空氣壓縮機制造能力，涵蓋主機制造、整機裝配生產及測試等全流程製造環節。這是開山集團在海外佈局的第三座工廠，是面向北美、歐洲市場的重要製造基地。工廠達產後預計可實現年產值約5000萬美元。
+
+---
+
+### 2026-06-27 11:03:53  #MKT News #WTI #Impact bullish #Brent #XAUUSD
+
+【About 2,500 seafarers evacuated from Strait of Hormuz】The International Maritime Organization said on June 26 that preliminary counts show roughly 2,500 seafarers from 115 vessels have been evacuated from the Strait of Hormuz since it launched a crew-evacuation plan on June 23. The plan recommended two corridors — a northern route on Iran’s side and a southern route on Oman’s side — but the IMO suspended the evacuation after a vessel was attacked in the Gulf of Oman on June 25; AIS data show some commercial ships continued transiting the strait after the suspension.
+
+---
+
+### 2026-06-27 11:03:21  #公司 #國際
+
+【奈米比亞大力拓展對華旅遊合作】奈米比亞旅遊局執行長塞布隆·奇卡盧26日在首都溫得和克舉行的業界會議上說，奈米比亞將進一步加強對華旅遊合作，大力吸引中國遊客。（新華社）
+
+---
+
+### 2026-06-27 10:57:30  #其他
+
+【特斯拉FSD低價破解生意盯上中國車主】在中國市場，特斯拉FSD官方選裝價為6.4萬元，但相關功能尚未在中國市場全量推送。介面新聞調查發現，短影片平臺、二手交易平臺和線下改裝門店之間，已經出現所謂的“FSD破解”服務，價格從數千元至3萬元不等。記者近期在短影片平臺上注意到，不少“特斯拉FSD破解實測”的影片流傳，畫面通常展示車輛開啟相關駕駛輔助功能後的行駛狀態，而評論區裡被問得最多的是“在哪改”。（介面新聞）
+
+---
+
+### 2026-06-27 10:54:09  #公司
+
+【115家中外企業簽約參展第五屆中國國際供應鏈促進博覽會】2026年6月26日，第五屆鏈博會參展簽約儀式暨2026年鏈博會參展商聯盟大會在北京舉行。會上，霍尼韋爾、GE醫療、西門子、康寧、住友電工等115家中外企業及機構，與鏈博會承辦單位中展集團簽署第五屆展會參展意向協議。
+
+---
+
+### 2026-06-27 10:53:58  #宏觀
+
+【蔡朝暉已任中央政法委專職主任，此前在海南任職】據《檢察日報》報道，6月22日至24日，中共中央政治局委員、中央政法委書記陳文清在河南調研。中央政法委專職主任蔡朝暉，公安部部長助理譚權，河南省委副書記、政法委書記張巍參加調研。這也意味著，此前在海南任職的蔡朝暉，現已擔任中央政法委專職主任。
+
+---
+
+### 2026-06-27 10:52:32  #公司
+
+【優艾智合到訪嘉環科技 將圍繞工業柔性物流AI賦能等方面展開合作】6月24日，合肥優艾智合機器人股份有限公司（簡稱“優艾智合”）董事長兼CEO張朝輝、副總裁黃澤燦、教育行業總監吳昊到訪嘉環科技。雙方依託產業鏈差異化互補優勢，明確多賽道協同落地路徑，達成長期深度合作共識。下一步，雙方將圍繞工業柔性物流AI賦能、全域智慧巡檢AI迭代升級、智慧製造人才聯合培育三大核心賽道展開合作。
+
+---
+
+### 2026-06-27 10:42:23  #國際
+
+伊朗邁赫通訊社援引當地官員的話稱，西里克港情況正常，美國的攻擊並未對西里克港造成損害。
+
+---
+
+### 2026-06-27 10:42:16  #MKT News #WTI #Impact bearish #Brent #XAUUSD
+
+Iran's Mehr news agency, citing local officials, said a U.S. strike caused no damage to Sirik port.
+
+---
+
+### 2026-06-27 10:37:28  #Trading Economics #Economy #China #Corporate Profits #Importance 1
+
+China Industrial Profits Growth Accelerates in January-May — China’s industrial profits surged 18.8% year-on-year in the January-May 2026 period, accelerating from a 18.2% growth in the first four months of the year. The latest result reflected the ongoing AI investment boom and continued policy support for advanced industries despite lingering weakness in parts of the property-related sector.
 
 ---
 
@@ -21301,322 +21481,5 @@ BBC reported Labour’s ruling body has set a timetable to elect a new leader; A
 ### 2026-06-26 01:37:32  #國際
 
 市場訊息：美國對與剛果民主共和國有關聯的個人和實體實施制裁。
-
----
-
-### 2026-06-26 01:37:01  #國際
-
-市場訊息：美國批准部分與俄羅斯企業盧克石油相關的交易。
-
----
-
-### 2026-06-26 01:35:41  #國際
-
-美國貿易代表辦公室稱：美國堅決支援烏茲別克加入世界貿易組織的程序，並認可烏茲別克迄今已取得的顯著進展。
-
----
-
-### 2026-06-26 01:35:41  #MKT News
-
-The Office of the U.S. Trade Representative said the United States strongly supports Uzbekistan's accession to the World Trade Organization and recognizes the substantive progress it has made to date.
-
----
-
-### 2026-06-26 01:35:26  #MKT News
-
-The U.S. Trade Representative’s office said the United States and Uzbekistan agreed to strengthen investment cooperation and will explore measures to promote and facilitate bilateral investment.
-
----
-
-### 2026-06-26 01:35:25  #國際
-
-美國貿易代表辦公室：美國與烏茲別克將加快談判，力爭達成一項對等貿易投資協定。
-
----
-
-### 2026-06-26 01:35:03  #國際
-
-美國貿易代表辦公室：美國與烏茲別克還同意加強投資合作，探索推動和促進雙邊投資的路徑。
-
----
-
-### 2026-06-26 01:34:56  #國際
-
-美國貿易代表辦公室：美國承諾在關稅行動中對烏茲別克工業產品與農產品給予優惠考慮。
-
----
-
-### 2026-06-26 01:34:53  #MKT News
-
-U.S. Trade Representative (USTR) said the U.S. will give preferential consideration to Uzbekistan's industrial and agricultural products in tariff measures.
-
----
-
-### 2026-06-26 01:34:39  #國際
-
-美國貿易代表辦公室：烏茲別克承諾取消或降低範圍廣泛的美國工業產品與農產品的關稅。
-
----
-
-### 2026-06-26 01:34:34  #MKT News #Market Themes #The Trump Trade
-
-USTR said Uzbekistan has committed to eliminate or reduce tariffs on a range of U.S. industrial goods and agricultural products.
-
----
-
-### 2026-06-26 01:34:27  #國際
-
-美國和烏茲別克宣佈提前收穫貿易成果。
-
----
-
-### 2026-06-26 01:33:10  #其他
-
-貿易商訊息：伊拉克國家石油銷售組織（SOMO）已釋出招標，出售7月裝船原油.
-
----
-
-### 2026-06-26 01:33:10  #MKT News #Commodities #Energy
-
-Iraq's State Organization for Marketing of Oil (SOMO) has issued a tender for July loadings.
-
----
-
-### 2026-06-26 01:32:50  #MKT News
-
-At least 188 people have died in an earthquake in Venezuela; 1,520 injured and about 200 trapped.
-
----
-
-### 2026-06-26 01:32:42  #其他
-
-委內瑞拉最高立法官員羅德里格斯表示，該國地震死亡人數升至至少188人，另有1,520人受傷，200人受困。
-
----
-
-### 2026-06-26 01:31:10  #其他
-
-市場訊息：埃隆·馬斯克已在2026年中期選舉週期中捐款8510萬美元。
-
----
-
-### 2026-06-26 01:30:31  #國際
-
-據美媒：來自路易斯安那州的共和黨參議員比爾·卡西迪（Bill Cassidy）撤回了對一項由民主黨主導的、旨在限制特朗普對伊戰爭權力的議案的支援。
-
----
-
-### 2026-06-26 01:30:14  #公司 #市場 #國際
-
-【歐洲股市上漲 科技股表現亮眼】歐洲股市週四上漲，隨著市場對AI主題的信心恢復，科技板塊表現突出。拜耳公司在其除草劑獲得有利的法院裁決後股價飆升。斯托克歐洲600指數週四上漲0.8%，創下收盤歷史新高。在美光科技釋出的超預期財報緩解了市場對AI板塊估值過高的擔憂後，英飛凌和阿斯麥等半導體相關股票紛紛上漲。拜耳股價一度暴漲20%，此前美國最高法院裁定，該公司無需就旗下Roundup除草劑是否應標示致癌風險承擔數萬起訴訟的法律責任。這一判決將有助於結束長達十年之久的訴訟潮，這些訴訟已讓該公司付出了超過100億美元的代價。
-
----
-
-### 2026-06-26 01:29:46  #MKT News #WTI #Impact bullish #XAUUSD #DXY
-
-CBS reported that Louisiana Republican Senator Bill Cassidy withdrew his support for a Democratic-led bill aimed at limiting President Trump's war powers regarding Iran.
-
----
-
-### 2026-06-26 01:22:30  #MKT News #Commodities #Energy
-
-Sources said Venezuela's El Palito refinery was partially shut after an earthquake-triggered power outage.
-
----
-
-### 2026-06-26 01:22:01  #其他
-
-訊息人士稱，委內瑞拉埃爾帕利托煉油廠因地震引發停電已部分停產。
-
----
-
-### 2026-06-26 01:21:07  #國際
-
-訊息稱日產汽車正考慮收購馬瑞利日本座艙業務資產。
-
----
-
-### 2026-06-26 01:20:47  #MKT News #Star Stocks #Apple #Market Themes #Magnificent 7 #AAPL.O #Impact bullish
-
-【Wedbush: Apple's latest price hikes unlikely to materially dent business】Wedbush said in a note that because Apple targets higher‑income consumers, its recent price increases are unlikely to materially dent demand. To offset rising memory and storage chip costs, Apple raised Mac and iPad prices by 15–25%. Wedbush analysts said the surge in memory prices forced the hikes, but Apple’s growing focus on the high end gives it scope to lift prices without sacrificing hardware performance or provoking significant customer attrition. They added Apple’s collaboration with Intel should help diversify the supply chain and partly ease memory and storage cost pressures.
-
----
-
-### 2026-06-26 01:19:52  #公司 #市場
-
-【機構：分析認為蘋果公司處於提價的“有利地位”】Wedbush在一份報告中表示，鑑於蘋果公司專注於向高收入人群銷售產品，其提價不應對其業務產生太大影響。蘋果公司將Mac和iPad的價格上調了15%至25%，以應對記憶體和快閃記憶體晶片成本的上升。Wedbush的分析師表示：“目前的記憶體價格上漲迫使蘋果公司提價，但我們認為，鑑於該公司越來越關注高階消費者，該公司處於提價的有利地位，而不會犧牲硬體效能，也不會增加客戶流失的風險。“他們補充說，蘋果公司與英特爾的合作應有助於實現供應鏈多元化，並緩解一些記憶體和快閃記憶體的壓力。
-
----
-
-### 2026-06-26 01:19:28  #其他
-
-加拿大金融消費者監管局(FCAC)：對加拿大皇家銀行處以425萬加元的行政罰款，因其違反《銀行法》中的消費者條款。
-
----
-
-### 2026-06-26 01:19:19  #其他
-
-加拿大金融消費者管理局（FCAC）：共有227947個賬戶遭受財務損失，加拿大皇家銀行（RBC）已劃轉並退還超過2240萬加元。
-
----
-
-### 2026-06-26 01:19:10  #國際
-
-美國、墨西哥、西班牙、卡達救援隊伍正趕赴委內瑞拉。
-
----
-
-### 2026-06-26 01:18:38  #其他
-
-委內瑞拉最高立法機構議長豪爾赫·羅德里格斯：地震已造成250棟建築受損或坍塌。
-
----
-
-### 2026-06-26 01:18:36  #MKT News
-
-Venezuela's interim president Rodriguez said an earthquake damaged or destroyed 250 buildings.
-
----
-
-### 2026-06-26 01:18:30  #其他
-
-委內瑞拉總統抵達拉瓜伊拉，實地勘察地震災情。
-
----
-
-### 2026-06-26 01:17:12  #其他
-
-紐約州共和黨州長候選人布魯斯・布萊克曼公佈上任首日施政議程：廢除庇護城市政策、減稅、降低能源成本。
-
----
-
-### 2026-06-26 01:16:14  #央行 #其他
-
-紐約聯儲在6月25日的逆回購工具操作中，全額接受了申報的57.18億美元申請額度。
-
----
-
-### 2026-06-26 01:16:11  #MKT News #Macro & Rates #The Fed (FOMC)
-
-The Federal Reserve accepted $5.718 billion from six counterparties in its fixed-rate reverse repo operation.
-
----
-
-### 2026-06-26 01:15:42  #MKT News
-
-After consulting the head of the Security Service of Ukraine (SBU), Ukrainian President Zelenskiy said he approved a 40-day operation aimed at influencing Russia to end the war.
-
----
-
-### 2026-06-26 01:15:14  #國際
-
-烏克蘭總統澤連斯基在與國家安全域性局長磋商後表示，他已批准一項為期40天的行動，以“施壓”俄羅斯結束衝突。
-
----
-
-### 2026-06-26 01:15:00  #國際
-
-馬克龍表示，法國將於週五公佈應對高溫天氣的全新舉措。
-
----
-
-### 2026-06-26 01:12:54  #國際
-
-【美國法官叫停特朗普關於建立新合格選民名單的命令】一名聯邦法官叫停了美國總統特朗普一項行政命令的關鍵部分。該命令旨在於11月中期選舉前，編制一份被聯邦機構認定為有資格投票的人員名單，並對郵寄選票施加新的限制。這是本週特朗普政府在選舉事務上遭遇的一系列法庭挫敗之一。與此同時，這位總統正因共和黨人未能促使國會透過一項強制要求提供公民身份證明才能投票的法案，而與自己所在的政黨發生內訌。
-
----
-
-### 2026-06-26 01:12:41  #MKT News
-
-【U.S. judge blocks Trump order to create new voter-eligibility list】A federal judge blocked key provisions of President Trump’s executive order that sought to have federal agencies compile a list of persons deemed eligible to vote and to impose new limits on mail ballots ahead of the November midterm elections. The ruling is one of several court setbacks for the administration this week, and comes as Trump faces intra-party friction after Republicans failed to pass federal legislation requiring proof of citizenship to vote.
-
----
-
-### 2026-06-26 01:12:31  #國際
-
-美國佛羅里達州州長：“鱷魚惡魔島” （美國佛羅里達州的一座非法移民拘留設施）人員遣散工作正在推進，被拘留者已被轉移到其他聯邦設施。
-
----
-
-### 2026-06-26 01:10:26  #其他
-
-市場訊息：愛迪生、法國電力、紐沃德及多家義大利企業簽署小型模組化反應堆核電合作協議。
-
----
-
-### 2026-06-26 01:08:16  #MKT News #Commodities #Energy #Copper #Impact bullish
-
-【Brazil starts full construction on Northeast UHV DC transmission project】State Grid Corp. of China's Brazilian unit has begun full-line construction on a Northeast ultra-high-voltage (UHV) ±800 kV DC transmission project, the largest transmission concession in Brazil. Independently financed, built and to be operated by State Grid's Brazil holding, the project comprises a 1,468 km ±800 kV HVDC line, converter stations at both ends and supporting facilities with a rated capacity of 5 GW; it is planned to be fully operational in 2029 under a 30-year concession. The link — State Grid's third overseas UHV project after two earlier Brazilian schemes — aims to create a long-distance, high-capacity export channel for northeast wind and solar, ease local curtailment, strengthen supply security for the capital region and support national energy reallocation and decarbonization efforts.
-
----
-
-### 2026-06-26 01:07:22  #公司 #國際
-
-全球諮詢公司ICF International：美國電網正以驚人的速度擴張，到2030年，其新增規模可能相當於該國目前最大的區域電力系統。
-
----
-
-### 2026-06-26 01:07:18  #MKT News #Copper #Impact bullish
-
-ICF International said the U.S. power grid is expanding at an astonishing pace; by 2030 cumulative additions could be equivalent in scale to the country’s largest current regional power system.
-
----
-
-### 2026-06-26 01:05:59  #MKT News
-
-Italian Prime Minister MELONI said Italy will provide only technical and logistical support.
-
----
-
-### 2026-06-26 01:05:58  #其他
-
-義大利總理梅洛尼：我們僅提供了技術與後勤支援。
-
----
-
-### 2026-06-26 01:05:18  #國際
-
-義大利總理梅洛尼：我們從未捲入伊朗衝突。
-
----
-
-### 2026-06-26 01:05:14  #MKT News
-
-Italian Prime Minister Meloni said Italy has never been involved in the Iran conflict.
-
----
-
-### 2026-06-26 01:04:09  #市場 #國際
-
-美國七年期國債收益率拍賣後變動不大，最新報4.254%，下跌2.25個基點。
-
----
-
-### 2026-06-26 01:03:21  #市場
-
-週四（6月25日）歐市尾盤，英國10年期國債收益率漲1.6個基點，報4.699%。兩年期英債收益率跌1.4個基點，報4.115%。30年期英債收益率漲2.6個基點，50年期英債收益率漲1.0個基點。2/10年期英債收益率利差漲3.268個基點，報+58.464個基點，整體持續上揚。
-
----
-
-### 2026-06-26 01:03:09  #市場 #國際
-
-美國向一級交易商授予12.8%的七年期國債。
-美國將29.7%的七年期國債授予直接競標者。
-美國七年期國債競價/承銷比率為2.50，低於上次拍賣的2.52。
-美國將57.6%的七年期國債授予間接競標者。
-美國七年期國債收益率下降4.260%；配售比例高達36.22%。
-美國7年期國債收益率下降4.260%，與預售時的發行收益率持平。
-
----
-
-### 2026-06-26 01:02:19  #MKT News #Macro & Rates #Treasury Yields #US10Y #Impact bullish #DXY #Impact bearish #XAUUSD
-
-U.S. 7-year Treasury auction settling June 25: stop-out yield 4.26% vs 4.29% prior.
-
----
-
-### 2026-06-26 01:02:13  #MKT News #Macro & Rates #Treasury Yields #US10Y #Impact mixed
-
-US 7-year Treasury auction through June 25: share allocated at the stop-out yield 36.22%, prior 71.23%.
 
 ---

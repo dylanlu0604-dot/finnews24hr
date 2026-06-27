@@ -1,7 +1,324 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-06-27 10:37:03_
-_本檔包含 3811 則快訊，約 673883 字_
+_更新時間：2026-06-27 12:05:39_
+_本檔包含 3813 則快訊，約 673613 字_
+
+---
+
+### 2026-06-26 01:37:01  #國際
+
+市場訊息：美國批准部分與俄羅斯企業盧克石油相關的交易。
+
+---
+
+### 2026-06-26 01:35:41  #國際
+
+美國貿易代表辦公室稱：美國堅決支援烏茲別克加入世界貿易組織的程序，並認可烏茲別克迄今已取得的顯著進展。
+
+---
+
+### 2026-06-26 01:35:41  #MKT News
+
+The Office of the U.S. Trade Representative said the United States strongly supports Uzbekistan's accession to the World Trade Organization and recognizes the substantive progress it has made to date.
+
+---
+
+### 2026-06-26 01:35:26  #MKT News
+
+The U.S. Trade Representative’s office said the United States and Uzbekistan agreed to strengthen investment cooperation and will explore measures to promote and facilitate bilateral investment.
+
+---
+
+### 2026-06-26 01:35:25  #國際
+
+美國貿易代表辦公室：美國與烏茲別克將加快談判，力爭達成一項對等貿易投資協定。
+
+---
+
+### 2026-06-26 01:35:03  #國際
+
+美國貿易代表辦公室：美國與烏茲別克還同意加強投資合作，探索推動和促進雙邊投資的路徑。
+
+---
+
+### 2026-06-26 01:34:56  #國際
+
+美國貿易代表辦公室：美國承諾在關稅行動中對烏茲別克工業產品與農產品給予優惠考慮。
+
+---
+
+### 2026-06-26 01:34:53  #MKT News
+
+U.S. Trade Representative (USTR) said the U.S. will give preferential consideration to Uzbekistan's industrial and agricultural products in tariff measures.
+
+---
+
+### 2026-06-26 01:34:39  #國際
+
+美國貿易代表辦公室：烏茲別克承諾取消或降低範圍廣泛的美國工業產品與農產品的關稅。
+
+---
+
+### 2026-06-26 01:34:34  #MKT News #Market Themes #The Trump Trade
+
+USTR said Uzbekistan has committed to eliminate or reduce tariffs on a range of U.S. industrial goods and agricultural products.
+
+---
+
+### 2026-06-26 01:34:27  #國際
+
+美國和烏茲別克宣佈提前收穫貿易成果。
+
+---
+
+### 2026-06-26 01:33:10  #其他
+
+貿易商訊息：伊拉克國家石油銷售組織（SOMO）已釋出招標，出售7月裝船原油.
+
+---
+
+### 2026-06-26 01:33:10  #MKT News #Commodities #Energy
+
+Iraq's State Organization for Marketing of Oil (SOMO) has issued a tender for July loadings.
+
+---
+
+### 2026-06-26 01:32:50  #MKT News
+
+At least 188 people have died in an earthquake in Venezuela; 1,520 injured and about 200 trapped.
+
+---
+
+### 2026-06-26 01:32:42  #其他
+
+委內瑞拉最高立法官員羅德里格斯表示，該國地震死亡人數升至至少188人，另有1,520人受傷，200人受困。
+
+---
+
+### 2026-06-26 01:31:10  #其他
+
+市場訊息：埃隆·馬斯克已在2026年中期選舉週期中捐款8510萬美元。
+
+---
+
+### 2026-06-26 01:30:31  #國際
+
+據美媒：來自路易斯安那州的共和黨參議員比爾·卡西迪（Bill Cassidy）撤回了對一項由民主黨主導的、旨在限制特朗普對伊戰爭權力的議案的支援。
+
+---
+
+### 2026-06-26 01:30:14  #公司 #市場 #國際
+
+【歐洲股市上漲 科技股表現亮眼】歐洲股市週四上漲，隨著市場對AI主題的信心恢復，科技板塊表現突出。拜耳公司在其除草劑獲得有利的法院裁決後股價飆升。斯托克歐洲600指數週四上漲0.8%，創下收盤歷史新高。在美光科技釋出的超預期財報緩解了市場對AI板塊估值過高的擔憂後，英飛凌和阿斯麥等半導體相關股票紛紛上漲。拜耳股價一度暴漲20%，此前美國最高法院裁定，該公司無需就旗下Roundup除草劑是否應標示致癌風險承擔數萬起訴訟的法律責任。這一判決將有助於結束長達十年之久的訴訟潮，這些訴訟已讓該公司付出了超過100億美元的代價。
+
+---
+
+### 2026-06-26 01:29:46  #MKT News #WTI #Impact bullish #XAUUSD #DXY
+
+CBS reported that Louisiana Republican Senator Bill Cassidy withdrew his support for a Democratic-led bill aimed at limiting President Trump's war powers regarding Iran.
+
+---
+
+### 2026-06-26 01:22:30  #MKT News #Commodities #Energy
+
+Sources said Venezuela's El Palito refinery was partially shut after an earthquake-triggered power outage.
+
+---
+
+### 2026-06-26 01:22:01  #其他
+
+訊息人士稱，委內瑞拉埃爾帕利托煉油廠因地震引發停電已部分停產。
+
+---
+
+### 2026-06-26 01:21:07  #國際
+
+訊息稱日產汽車正考慮收購馬瑞利日本座艙業務資產。
+
+---
+
+### 2026-06-26 01:20:47  #MKT News #Star Stocks #Apple #Market Themes #Magnificent 7 #AAPL.O #Impact bullish
+
+【Wedbush: Apple's latest price hikes unlikely to materially dent business】Wedbush said in a note that because Apple targets higher‑income consumers, its recent price increases are unlikely to materially dent demand. To offset rising memory and storage chip costs, Apple raised Mac and iPad prices by 15–25%. Wedbush analysts said the surge in memory prices forced the hikes, but Apple’s growing focus on the high end gives it scope to lift prices without sacrificing hardware performance or provoking significant customer attrition. They added Apple’s collaboration with Intel should help diversify the supply chain and partly ease memory and storage cost pressures.
+
+---
+
+### 2026-06-26 01:19:52  #公司 #市場
+
+【機構：分析認為蘋果公司處於提價的“有利地位”】Wedbush在一份報告中表示，鑑於蘋果公司專注於向高收入人群銷售產品，其提價不應對其業務產生太大影響。蘋果公司將Mac和iPad的價格上調了15%至25%，以應對記憶體和快閃記憶體晶片成本的上升。Wedbush的分析師表示：“目前的記憶體價格上漲迫使蘋果公司提價，但我們認為，鑑於該公司越來越關注高階消費者，該公司處於提價的有利地位，而不會犧牲硬體效能，也不會增加客戶流失的風險。“他們補充說，蘋果公司與英特爾的合作應有助於實現供應鏈多元化，並緩解一些記憶體和快閃記憶體的壓力。
+
+---
+
+### 2026-06-26 01:19:28  #其他
+
+加拿大金融消費者監管局(FCAC)：對加拿大皇家銀行處以425萬加元的行政罰款，因其違反《銀行法》中的消費者條款。
+
+---
+
+### 2026-06-26 01:19:19  #其他
+
+加拿大金融消費者管理局（FCAC）：共有227947個賬戶遭受財務損失，加拿大皇家銀行（RBC）已劃轉並退還超過2240萬加元。
+
+---
+
+### 2026-06-26 01:19:10  #國際
+
+美國、墨西哥、西班牙、卡達救援隊伍正趕赴委內瑞拉。
+
+---
+
+### 2026-06-26 01:18:38  #其他
+
+委內瑞拉最高立法機構議長豪爾赫·羅德里格斯：地震已造成250棟建築受損或坍塌。
+
+---
+
+### 2026-06-26 01:18:36  #MKT News
+
+Venezuela's interim president Rodriguez said an earthquake damaged or destroyed 250 buildings.
+
+---
+
+### 2026-06-26 01:18:30  #其他
+
+委內瑞拉總統抵達拉瓜伊拉，實地勘察地震災情。
+
+---
+
+### 2026-06-26 01:17:12  #其他
+
+紐約州共和黨州長候選人布魯斯・布萊克曼公佈上任首日施政議程：廢除庇護城市政策、減稅、降低能源成本。
+
+---
+
+### 2026-06-26 01:16:14  #央行 #其他
+
+紐約聯儲在6月25日的逆回購工具操作中，全額接受了申報的57.18億美元申請額度。
+
+---
+
+### 2026-06-26 01:16:11  #MKT News #Macro & Rates #The Fed (FOMC)
+
+The Federal Reserve accepted $5.718 billion from six counterparties in its fixed-rate reverse repo operation.
+
+---
+
+### 2026-06-26 01:15:42  #MKT News
+
+After consulting the head of the Security Service of Ukraine (SBU), Ukrainian President Zelenskiy said he approved a 40-day operation aimed at influencing Russia to end the war.
+
+---
+
+### 2026-06-26 01:15:14  #國際
+
+烏克蘭總統澤連斯基在與國家安全域性局長磋商後表示，他已批准一項為期40天的行動，以“施壓”俄羅斯結束衝突。
+
+---
+
+### 2026-06-26 01:15:00  #國際
+
+馬克龍表示，法國將於週五公佈應對高溫天氣的全新舉措。
+
+---
+
+### 2026-06-26 01:12:54  #國際
+
+【美國法官叫停特朗普關於建立新合格選民名單的命令】一名聯邦法官叫停了美國總統特朗普一項行政命令的關鍵部分。該命令旨在於11月中期選舉前，編制一份被聯邦機構認定為有資格投票的人員名單，並對郵寄選票施加新的限制。這是本週特朗普政府在選舉事務上遭遇的一系列法庭挫敗之一。與此同時，這位總統正因共和黨人未能促使國會透過一項強制要求提供公民身份證明才能投票的法案，而與自己所在的政黨發生內訌。
+
+---
+
+### 2026-06-26 01:12:41  #MKT News
+
+【U.S. judge blocks Trump order to create new voter-eligibility list】A federal judge blocked key provisions of President Trump’s executive order that sought to have federal agencies compile a list of persons deemed eligible to vote and to impose new limits on mail ballots ahead of the November midterm elections. The ruling is one of several court setbacks for the administration this week, and comes as Trump faces intra-party friction after Republicans failed to pass federal legislation requiring proof of citizenship to vote.
+
+---
+
+### 2026-06-26 01:12:31  #國際
+
+美國佛羅里達州州長：“鱷魚惡魔島” （美國佛羅里達州的一座非法移民拘留設施）人員遣散工作正在推進，被拘留者已被轉移到其他聯邦設施。
+
+---
+
+### 2026-06-26 01:10:26  #其他
+
+市場訊息：愛迪生、法國電力、紐沃德及多家義大利企業簽署小型模組化反應堆核電合作協議。
+
+---
+
+### 2026-06-26 01:08:16  #MKT News #Commodities #Energy #Copper #Impact bullish
+
+【Brazil starts full construction on Northeast UHV DC transmission project】State Grid Corp. of China's Brazilian unit has begun full-line construction on a Northeast ultra-high-voltage (UHV) ±800 kV DC transmission project, the largest transmission concession in Brazil. Independently financed, built and to be operated by State Grid's Brazil holding, the project comprises a 1,468 km ±800 kV HVDC line, converter stations at both ends and supporting facilities with a rated capacity of 5 GW; it is planned to be fully operational in 2029 under a 30-year concession. The link — State Grid's third overseas UHV project after two earlier Brazilian schemes — aims to create a long-distance, high-capacity export channel for northeast wind and solar, ease local curtailment, strengthen supply security for the capital region and support national energy reallocation and decarbonization efforts.
+
+---
+
+### 2026-06-26 01:07:22  #公司 #國際
+
+全球諮詢公司ICF International：美國電網正以驚人的速度擴張，到2030年，其新增規模可能相當於該國目前最大的區域電力系統。
+
+---
+
+### 2026-06-26 01:07:18  #MKT News #Copper #Impact bullish
+
+ICF International said the U.S. power grid is expanding at an astonishing pace; by 2030 cumulative additions could be equivalent in scale to the country’s largest current regional power system.
+
+---
+
+### 2026-06-26 01:05:59  #MKT News
+
+Italian Prime Minister MELONI said Italy will provide only technical and logistical support.
+
+---
+
+### 2026-06-26 01:05:58  #其他
+
+義大利總理梅洛尼：我們僅提供了技術與後勤支援。
+
+---
+
+### 2026-06-26 01:05:18  #國際
+
+義大利總理梅洛尼：我們從未捲入伊朗衝突。
+
+---
+
+### 2026-06-26 01:05:14  #MKT News
+
+Italian Prime Minister Meloni said Italy has never been involved in the Iran conflict.
+
+---
+
+### 2026-06-26 01:04:09  #市場 #國際
+
+美國七年期國債收益率拍賣後變動不大，最新報4.254%，下跌2.25個基點。
+
+---
+
+### 2026-06-26 01:03:21  #市場
+
+週四（6月25日）歐市尾盤，英國10年期國債收益率漲1.6個基點，報4.699%。兩年期英債收益率跌1.4個基點，報4.115%。30年期英債收益率漲2.6個基點，50年期英債收益率漲1.0個基點。2/10年期英債收益率利差漲3.268個基點，報+58.464個基點，整體持續上揚。
+
+---
+
+### 2026-06-26 01:03:09  #市場 #國際
+
+美國向一級交易商授予12.8%的七年期國債。
+美國將29.7%的七年期國債授予直接競標者。
+美國七年期國債競價/承銷比率為2.50，低於上次拍賣的2.52。
+美國將57.6%的七年期國債授予間接競標者。
+美國七年期國債收益率下降4.260%；配售比例高達36.22%。
+美國7年期國債收益率下降4.260%，與預售時的發行收益率持平。
+
+---
+
+### 2026-06-26 01:02:19  #MKT News #Macro & Rates #Treasury Yields #US10Y #Impact bullish #DXY #Impact bearish #XAUUSD
+
+U.S. 7-year Treasury auction settling June 25: stop-out yield 4.26% vs 4.29% prior.
+
+---
+
+### 2026-06-26 01:02:13  #MKT News #Macro & Rates #Treasury Yields #US10Y #Impact mixed
+
+US 7-year Treasury auction through June 25: share allocated at the stop-out yield 36.22%, prior 71.23%.
 
 ---
 
@@ -22670,305 +22987,5 @@ Crude Oil Falls Below $70 — Crude oil fell below $70 a barrel on Wednesday, re
 ### 2026-06-24 23:35:19  #MKT News #Important #WTI #Impact bearish
 
 【China's foreign minister held phone call with Pakistan deputy prime minister and foreign minister Durr】China's foreign minister Wang Yi spoke by phone with Pakistan's deputy prime minister and foreign minister Durr on the evening of the 24th; Durr said Iran and the United States have entered a new phase of negotiations. Wang said China will work with parties to support the talks and set three priorities: consolidate a comprehensive ceasefire and prevent fighting from restarting; restore normal navigation through the Strait of Hormuz as soon as possible to protect global supply chains, with arrangements that respect littoral sovereignty and international practice; and support Middle Eastern states in improving ties and exploring a new regional security architecture to reduce major‑power rivalry and strengthen regional strategic autonomy.
-
----
-
-### 2026-06-24 23:34:39  #市場 #焦點 #國際
-
-【歐洲主要股指收盤漲跌不一】歐洲斯托克600指數上漲0.05%，歐元斯托克指數下跌0.27%，歐元區藍籌股指數下跌0.26%。法國CAC 40指數上漲0.55%，西班牙IBEX指數下跌0.44%，英國富時100指數上漲0.25%，德國DAX指數下跌0.71%。
-
----
-
-### 2026-06-24 23:33:23  #MKT News #Macro & Rates #Treasury Yields #DXY #Impact bearish #S&P500 #Impact bullish
-
-U.S. 4-month Treasury bill auction as of June 24: percentage allocated at the stop-out rate 11.15%, prior 11.86%.
-
----
-
-### 2026-06-24 23:33:07  #國際
-
-美國拍賣17週期國庫券，中標最高利率為3.770%，最高價位配售量佔投標總量的11.15%。
-
----
-
-### 2026-06-24 23:33:01  #MKT News #Macro & Rates #Treasury Yields #US10Y #Impact bullish #DXY
-
-US 4-month Treasury auction on June 24: bid-cover ratio 2.55, prior 2.87.
-
----
-
-### 2026-06-24 23:32:55  #MKT News #Macro & Rates #Treasury Yields #DXY #Impact bullish #S&P500 #Impact bearish
-
-US 4-month Treasury auction on June 24: stop-out yield 3.77%, up 10 bps from 3.67% previously.
-
----
-
-### 2026-06-24 23:32:51  #MKT News #Economic Calendar
-
-United States | 4-Month Bill Auction Bid/Cover Ratio (Jun.24) | actual 2.55 | previous 2.87
-
----
-
-### 2026-06-24 23:32:46  #國際
-
-【烏軍打擊俄羅斯天然氣精煉廠和氦氣廠】烏克蘭武裝部隊總參謀部24日在社交媒體上發文稱，當天凌晨，烏國防軍對俄羅斯奧倫堡州一座天然氣精煉廠和一座氦氣廠實施打擊。烏武裝部隊總參謀部表示，此次行動地點距烏方前線超過1200公里，兩座工廠已起火，受損情況正在核實中。此外，烏軍還打擊了俄羅斯別爾哥羅德州一處無人機倉庫。（新華社）
-
----
-
-### 2026-06-24 23:32:42  #MKT News #Economic Calendar
-
-United States | 4-Month Bill Auction High Yield Rate (Jun.24) | actual 3.77% | previous 3.67%
-
----
-
-### 2026-06-24 23:32:26  #國際
-
-美國1年10個月遠期利率協議貼現利差為0.079%。
-
----
-
-### 2026-06-24 23:31:22  #國際
-
-以色列總理內塔尼亞胡：我面見特朗普總統時對他說“我們要進軍伊朗”。我並未尋求許可，只是告知他我方計劃。
-
----
-
-### 2026-06-24 23:30:32  #國際
-
-美國國家運輸安全委員會主席：正考慮調查得州特斯拉車禍。
-
----
-
-### 2026-06-24 23:30:18  #Trading Economics #Economy #Bonds #Importance 1
-
-Bonds Update: Brazil 10Y Bond Yield Drops by 26 bps — Government bonds yields are lower on Wednesday. Top losers are Brazil 10Y (-26bps), US 10Y (-9.40bps), Germany 10Y (-4.71bps) and Japan 10Y (-0.94bps).
-
----
-
-### 2026-06-24 23:29:36  #MKT News #WBD.O #Impact bullish #PARA.O #Impact bearish
-
-Sources: Paramount preparing to sell its joint venture with Universal Pictures to complete a deal with Warner Bros. Discovery (WBD.O).
-
----
-
-### 2026-06-24 23:29:25  #其他
-
-國際奧委會將投入超1億美元設立運動員專項基金，運動員只要參加過夏季或冬季奧運會，均可申請1萬美元補助。
-
----
-
-### 2026-06-24 23:28:26  #國際
-
-美國法院聽證會訊息：法官稱將阻止美國司法部獲取紐約市醫院中未成年時接受跨性別醫療服務的患者相關記錄。
-
----
-
-### 2026-06-24 23:27:48  #公司 #市場 #國際
-
-印度執法局（ED）突擊搜查拉傑什出口公司（印度大型黃金珠寶上市企業）關聯9處經營及辦公場所。
-
----
-
-### 2026-06-24 23:25:46  #MKT News #Commodities #Energy
-
-【Canada Q1 gasoline consumption hits record】Desrosiers Automotive Consultants said Canadian gasoline consumption reached a record 10.33 mln cubic meters in Q1, up 4.2% YoY. Executive partner Andrew King said consumption was strong early in the year but March prices spiked after the US–Iran conflict; the firm will monitor whether that curbs Q2 demand.
-
----
-
-### 2026-06-24 23:25:39  #宏觀 #國際
-
-【王毅同巴基斯坦副總理兼外長達爾通電話】2026年6月24日晚，中共中央政治局委員、外交部長王毅應約同巴基斯坦副總理兼外長達爾通電話。 達爾對中國共產黨即將迎來建黨105週年表示熱烈祝賀，表示巴方欽佩中國共產黨領導中國取得非凡成就，希望同中方加強治黨治國經驗交流。王毅表示，習近平總書記強調，中國共產黨致力於中華民族的偉大復興，百年恰是風華正茂。在習近平黨建思想指引下，中國共產黨帶領中國人民成功走出一條符合自身國情的發展道路。中方願同巴方加強黨際交流，分享治國理政經驗。達爾通報了伊朗與美國開啟新階段談判有關情況，感謝中方始終堅定支援巴方和平斡旋努力。達爾表示，習近平主席就維護和促進中東和平穩定提出的四點主張和巴中兩國就中東海灣地區和平穩定提出的五點倡議為引導局勢降溫發揮了重要作用。巴方期待同中方繼續密切協調配合，共同為實現地區持久和平穩定發揮建設性作用。（外交部）
-
----
-
-### 2026-06-24 23:25:07  #MKT News #EURUSD #Impact bullish #DXY #Impact bearish
-
-ECB Executive Board member Schnabel said the economy shows relative resilience.
-
----
-
-### 2026-06-24 23:24:54  #MKT News #Market Regions #Europe & UK #EURUSD #Impact bullish #DXY #Impact bearish
-
-ECB executive board member Schnabel said the risk of second-round effects is increasing.
-
----
-
-### 2026-06-24 23:24:41  #MKT News #Important #EURUSD #Impact bullish #DXY #Impact bearish #DAX
-
-ECB executive board member SCHNABEL said ECB interest rates are not yet restrictive.
-
----
-
-### 2026-06-24 23:24:15  #其他
-
-【土耳其警方打死一名“伊斯蘭國”相關嫌疑人】據土耳其德米羅倫通訊社24日報道，土耳其首都安卡拉發生一起警匪交火事件，一名與極端組織“伊斯蘭國”有關的嫌疑人在交火中被打死，其妻受傷。（新華社）
-
----
-
-### 2026-06-24 23:24:13  #MKT News #EURUSD #Impact bullish #DXY #Impact bearish
-
-ECB executive board member Schnabel said a ceasefire does not mean the ECB can relax its vigilance.
-
----
-
-### 2026-06-24 23:24:01  #MKT News #Macro & Rates
-
-ECB executive board member Schnabel said war, inf and growth will determine the timing and magnitude of rate hikes.
-
----
-
-### 2026-06-24 23:23:53  #市場 #央行 #國際
-
-【歐央行施納貝爾：仍需進一步加息以達成2%通脹目標】歐洲央行執行理事會成員施納貝爾表示，歐洲央行或需繼續上調借貸成本，以抑制物價上漲壓力。施納貝爾稱，“後續加息措施的幅度與落地時點，將取決於衝突局勢、經濟走勢以及通脹的演變情況。”施納貝爾表示，儘管遭遇劇烈能源價格衝擊，歐元區經濟仍展現出較強韌性，但能源價格依舊處於高位，央行正密切跟蹤相關走勢。
-
----
-
-### 2026-06-24 23:23:44  #MKT News
-
-ECB Executive Board member Schnabel said that, given current conditions, further rate hikes are needed to reach the ECB's 2% inflation target.
-
----
-
-### 2026-06-24 23:23:11  #央行 #焦點 #國際
-
-歐洲央行管委施納貝爾：歐洲央行當前利率尚未達到緊縮水平。
-
----
-
-### 2026-06-24 23:23:11  #MKT News
-
-Meteo-France: Paris recorded its highest June temperature on record; Paris-Longchamp station measured 40.9°C.
-
----
-
-### 2026-06-24 23:23:04  #央行 #國際
-
-歐洲央行管委施納貝爾：通脹第二輪傳導效應風險持續攀升。
-
----
-
-### 2026-06-24 23:22:52  #央行 #國際
-
-歐洲央行管委施納貝爾：即便達成停火，歐洲央行也不能放鬆警惕。
-
----
-
-### 2026-06-24 23:22:50  #市場 #焦點
-
-道指漲1.01%，現報52188.051點；納指漲0.77%，現報25783.791點；標普500指數漲0.75%，現報7420.490點。
-
----
-
-### 2026-06-24 23:22:49  #Trading Economics #Markets #United States #stocks #Importance 1
-
-Home Depot Stock Price Hits 9-week High — Home Depot shares increased to 341.20 USD, the highest since April 2026. Over the past 4 weeks, Home Depot gained 9.73%, and in the last 12 months, it decreased 5.83%.
-
----
-
-### 2026-06-24 23:22:45  #央行 #國際
-
-歐洲央行管委施納貝爾：戰爭、通脹與經濟增長情況將決定加息的時點與幅度。
-
----
-
-### 2026-06-24 23:22:36  #央行 #國際
-
-歐洲央行管委施納貝爾：當前形勢下，仍需進一步加息以實現2%通脹目標。
-
----
-
-### 2026-06-24 23:21:56  #MKT News #Market Regions #Wall Street (US) #Dow #Impact bullish
-
-US equities extended gains; the Dow Jones Industrial Average rose 1%.
-
----
-
-### 2026-06-24 23:21:52  #其他
-
-法國氣象局：巴黎創六月史上最高溫，巴黎隆尚賽馬場測得40.9攝氏度。
-
----
-
-### 2026-06-24 23:20:24  #國際
-
-以色列國防部長卡茨表示，美國並未要求以色列從黎巴嫩南部撤軍，這是伊朗在停火談判中提出的條件。
-
----
-
-### 2026-06-24 23:20:09  #MKT News #XAUUSD #Impact bullish #Brent #S&P500 #Impact bearish
-
-Saudi news outlet Hadas reports Israeli drones flying at low altitude over Beirut.
-
----
-
-### 2026-06-24 23:19:55  #MKT News #Important
-
-LME aluminium down 4.00% intraday, trading at $3,124.92/ton.
-
----
-
-### 2026-06-24 23:19:54  #市場
-
-倫鋁日內大跌4.00%，現報3124.92美元/噸。
-
----
-
-### 2026-06-24 23:18:13  #國際
-
-市場資訊：以色列無人機低空飛越貝魯特上空。
-
----
-
-### 2026-06-24 23:15:52  #MKT News
-
-EMSC reported a magnitude-5.5 earthquake in northern California, United States.
-
----
-
-### 2026-06-24 23:15:18  #公司
-
-派拉蒙為推進收購華納交易，準備出售其與環球影業的合資公司資產。
-
----
-
-### 2026-06-24 23:12:59  #MKT News
-
-Iran’s foreign ministry said Iran and Saudi Arabia reviewed recent regional and international developments and emphasized continuing consultations, maintaining diplomatic channels and bolstering joint cooperation to support regional stability, advance negotiations and secure positive, sustainable outcomes.
-
----
-
-### 2026-06-24 23:12:47  #國際
-
-伊朗、沙特外長通電話，商討美伊談判最新進展。
-
----
-
-### 2026-06-24 23:12:36  #MKT News
-
-Iran's foreign minister Araghchi held a phone call with his Saudi counterpart on Wednesday evening, briefing him on the latest negotiation progress, implementation of agreed measures and consultations carried out under that framework.
-
----
-
-### 2026-06-24 23:10:52  #MKT News
-
-【Trump cancels today's housing bill signing and press conference】President Trump said on social media he will not sign a bipartisan housing bill on Wednesday at Capitol Hill as planned, and has canceled today’s signing and press conference, saying he wants Congress to first pass the Save America Act. Trump called the measure a national emergency and is pushing the Senate to repeal the filibuster to pass the Save America Act, which would introduce new voter ID requirements; Democrats say the current text would amount to voter suppression.
-
----
-
-### 2026-06-24 23:10:19  #國際
-
-【特朗普突然取消兩黨住房法案的簽署儀式】美國總統特朗普突然取消了簽署一項跨黨派住房法案的計劃，並表示，在議員們透過一項在國會擱置已久的選民資格法案之前，他將拒絕就該住房法案採取任何行動。週三上午，特朗普在社交媒體上連發數帖，令國會山的議員們感到措手不及。特朗普在帖子中稱，儘管該住房法案以壓倒性多數透過了參眾兩院，但與他的其他優先事項相比“微不足道”。他還嘲諷該法案居然得到了馬薩諸塞州民主黨參議員伊麗莎白.沃倫(Elizabeth Warren)的支援。他寫道，取消簽署儀式是必要的，因為他認為透過旨在收緊全國的投票規則的《拯救美國法案》(SAVE America Act)屬於“國家緊急事務”。特朗普原定於週三中午出席在國會大廈舉行的簽署儀式。就在幾個小時前，白宮還在高調宣揚這項立法，稱其為總統解決生活成本問題議程的一大支柱。週二晚間，白宮新聞秘書萊維特更是稱讚該法案是“美國歷史上減輕住房負擔最重大的立法之一”。根據美國憲法，國會透過的法案如果總統既不簽署也不否決，將在大約兩週後自動成為法律。
-
----
-
-### 2026-06-24 23:09:46  #國際
-
-埃及總統塞西：自7月1日起上調養老金。
-
----
-
-### 2026-06-24 23:09:37  #Trading Economics #Markets #United States #Stock Market #Importance 2
-
-US Stocks Gain Ground, Dow Rises to Record — US equities gained ground on Wednesday, rebounding from the selloff in the chip sector on signs of improvement to broader credit conditions. The Nasdaq 100 and the S&P 500 gained nearly 1%, while the Dow added 400 points for a new record. Micron was flat ahead of its earnings after the bell. It followed the 13% plunge last session on fresh doubts that capital expenditures from AI companies were overdone and are due to slow. Other semiconductor and memory producers halted the selloff, with Nvidia, Intel, and Broadcom adding up to 2%. AI fundraising remained at soaring levels as SK Hynix was looking to raise $29 billion with a US listing shortly after the record SpaceX IPO. Broader sectors were supported by a pullback in yields across the curve as the outlook of restored energy exports from the Middle East tempered inflationary risks. The Dow Jones outperformed due to its exposure to traditional sectors of the economy, set to change on Monday when Alphabet replaces Verizon.
 
 ---

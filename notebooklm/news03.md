@@ -1,7 +1,307 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-06-27 10:37:03_
-_本檔包含 3805 則快訊，約 672160 字_
+_更新時間：2026-06-27 12:05:39_
+_本檔包含 3809 則快訊，約 672633 字_
+
+---
+
+### 2026-06-24 23:34:39  #市場 #焦點 #國際
+
+【歐洲主要股指收盤漲跌不一】歐洲斯托克600指數上漲0.05%，歐元斯托克指數下跌0.27%，歐元區藍籌股指數下跌0.26%。法國CAC 40指數上漲0.55%，西班牙IBEX指數下跌0.44%，英國富時100指數上漲0.25%，德國DAX指數下跌0.71%。
+
+---
+
+### 2026-06-24 23:33:23  #MKT News #Macro & Rates #Treasury Yields #DXY #Impact bearish #S&P500 #Impact bullish
+
+U.S. 4-month Treasury bill auction as of June 24: percentage allocated at the stop-out rate 11.15%, prior 11.86%.
+
+---
+
+### 2026-06-24 23:33:07  #國際
+
+美國拍賣17週期國庫券，中標最高利率為3.770%，最高價位配售量佔投標總量的11.15%。
+
+---
+
+### 2026-06-24 23:33:01  #MKT News #Macro & Rates #Treasury Yields #US10Y #Impact bullish #DXY
+
+US 4-month Treasury auction on June 24: bid-cover ratio 2.55, prior 2.87.
+
+---
+
+### 2026-06-24 23:32:55  #MKT News #Macro & Rates #Treasury Yields #DXY #Impact bullish #S&P500 #Impact bearish
+
+US 4-month Treasury auction on June 24: stop-out yield 3.77%, up 10 bps from 3.67% previously.
+
+---
+
+### 2026-06-24 23:32:51  #MKT News #Economic Calendar
+
+United States | 4-Month Bill Auction Bid/Cover Ratio (Jun.24) | actual 2.55 | previous 2.87
+
+---
+
+### 2026-06-24 23:32:46  #國際
+
+【烏軍打擊俄羅斯天然氣精煉廠和氦氣廠】烏克蘭武裝部隊總參謀部24日在社交媒體上發文稱，當天凌晨，烏國防軍對俄羅斯奧倫堡州一座天然氣精煉廠和一座氦氣廠實施打擊。烏武裝部隊總參謀部表示，此次行動地點距烏方前線超過1200公里，兩座工廠已起火，受損情況正在核實中。此外，烏軍還打擊了俄羅斯別爾哥羅德州一處無人機倉庫。（新華社）
+
+---
+
+### 2026-06-24 23:32:42  #MKT News #Economic Calendar
+
+United States | 4-Month Bill Auction High Yield Rate (Jun.24) | actual 3.77% | previous 3.67%
+
+---
+
+### 2026-06-24 23:32:26  #國際
+
+美國1年10個月遠期利率協議貼現利差為0.079%。
+
+---
+
+### 2026-06-24 23:31:22  #國際
+
+以色列總理內塔尼亞胡：我面見特朗普總統時對他說“我們要進軍伊朗”。我並未尋求許可，只是告知他我方計劃。
+
+---
+
+### 2026-06-24 23:30:32  #國際
+
+美國國家運輸安全委員會主席：正考慮調查得州特斯拉車禍。
+
+---
+
+### 2026-06-24 23:30:18  #Trading Economics #Economy #Bonds #Importance 1
+
+Bonds Update: Brazil 10Y Bond Yield Drops by 26 bps — Government bonds yields are lower on Wednesday. Top losers are Brazil 10Y (-26bps), US 10Y (-9.40bps), Germany 10Y (-4.71bps) and Japan 10Y (-0.94bps).
+
+---
+
+### 2026-06-24 23:29:36  #MKT News #WBD.O #Impact bullish #PARA.O #Impact bearish
+
+Sources: Paramount preparing to sell its joint venture with Universal Pictures to complete a deal with Warner Bros. Discovery (WBD.O).
+
+---
+
+### 2026-06-24 23:29:25  #其他
+
+國際奧委會將投入超1億美元設立運動員專項基金，運動員只要參加過夏季或冬季奧運會，均可申請1萬美元補助。
+
+---
+
+### 2026-06-24 23:28:26  #國際
+
+美國法院聽證會訊息：法官稱將阻止美國司法部獲取紐約市醫院中未成年時接受跨性別醫療服務的患者相關記錄。
+
+---
+
+### 2026-06-24 23:27:48  #公司 #市場 #國際
+
+印度執法局（ED）突擊搜查拉傑什出口公司（印度大型黃金珠寶上市企業）關聯9處經營及辦公場所。
+
+---
+
+### 2026-06-24 23:25:46  #MKT News #Commodities #Energy
+
+【Canada Q1 gasoline consumption hits record】Desrosiers Automotive Consultants said Canadian gasoline consumption reached a record 10.33 mln cubic meters in Q1, up 4.2% YoY. Executive partner Andrew King said consumption was strong early in the year but March prices spiked after the US–Iran conflict; the firm will monitor whether that curbs Q2 demand.
+
+---
+
+### 2026-06-24 23:25:39  #宏觀 #國際
+
+【王毅同巴基斯坦副總理兼外長達爾通電話】2026年6月24日晚，中共中央政治局委員、外交部長王毅應約同巴基斯坦副總理兼外長達爾通電話。 達爾對中國共產黨即將迎來建黨105週年表示熱烈祝賀，表示巴方欽佩中國共產黨領導中國取得非凡成就，希望同中方加強治黨治國經驗交流。王毅表示，習近平總書記強調，中國共產黨致力於中華民族的偉大復興，百年恰是風華正茂。在習近平黨建思想指引下，中國共產黨帶領中國人民成功走出一條符合自身國情的發展道路。中方願同巴方加強黨際交流，分享治國理政經驗。達爾通報了伊朗與美國開啟新階段談判有關情況，感謝中方始終堅定支援巴方和平斡旋努力。達爾表示，習近平主席就維護和促進中東和平穩定提出的四點主張和巴中兩國就中東海灣地區和平穩定提出的五點倡議為引導局勢降溫發揮了重要作用。巴方期待同中方繼續密切協調配合，共同為實現地區持久和平穩定發揮建設性作用。（外交部）
+
+---
+
+### 2026-06-24 23:25:07  #MKT News #EURUSD #Impact bullish #DXY #Impact bearish
+
+ECB Executive Board member Schnabel said the economy shows relative resilience.
+
+---
+
+### 2026-06-24 23:24:54  #MKT News #Market Regions #Europe & UK #EURUSD #Impact bullish #DXY #Impact bearish
+
+ECB executive board member Schnabel said the risk of second-round effects is increasing.
+
+---
+
+### 2026-06-24 23:24:41  #MKT News #Important #EURUSD #Impact bullish #DXY #Impact bearish #DAX
+
+ECB executive board member SCHNABEL said ECB interest rates are not yet restrictive.
+
+---
+
+### 2026-06-24 23:24:15  #其他
+
+【土耳其警方打死一名“伊斯蘭國”相關嫌疑人】據土耳其德米羅倫通訊社24日報道，土耳其首都安卡拉發生一起警匪交火事件，一名與極端組織“伊斯蘭國”有關的嫌疑人在交火中被打死，其妻受傷。（新華社）
+
+---
+
+### 2026-06-24 23:24:13  #MKT News #EURUSD #Impact bullish #DXY #Impact bearish
+
+ECB executive board member Schnabel said a ceasefire does not mean the ECB can relax its vigilance.
+
+---
+
+### 2026-06-24 23:24:01  #MKT News #Macro & Rates
+
+ECB executive board member Schnabel said war, inf and growth will determine the timing and magnitude of rate hikes.
+
+---
+
+### 2026-06-24 23:23:53  #市場 #央行 #國際
+
+【歐央行施納貝爾：仍需進一步加息以達成2%通脹目標】歐洲央行執行理事會成員施納貝爾表示，歐洲央行或需繼續上調借貸成本，以抑制物價上漲壓力。施納貝爾稱，“後續加息措施的幅度與落地時點，將取決於衝突局勢、經濟走勢以及通脹的演變情況。”施納貝爾表示，儘管遭遇劇烈能源價格衝擊，歐元區經濟仍展現出較強韌性，但能源價格依舊處於高位，央行正密切跟蹤相關走勢。
+
+---
+
+### 2026-06-24 23:23:44  #MKT News
+
+ECB Executive Board member Schnabel said that, given current conditions, further rate hikes are needed to reach the ECB's 2% inflation target.
+
+---
+
+### 2026-06-24 23:23:11  #央行 #焦點 #國際
+
+歐洲央行管委施納貝爾：歐洲央行當前利率尚未達到緊縮水平。
+
+---
+
+### 2026-06-24 23:23:11  #MKT News
+
+Meteo-France: Paris recorded its highest June temperature on record; Paris-Longchamp station measured 40.9°C.
+
+---
+
+### 2026-06-24 23:23:04  #央行 #國際
+
+歐洲央行管委施納貝爾：通脹第二輪傳導效應風險持續攀升。
+
+---
+
+### 2026-06-24 23:22:52  #央行 #國際
+
+歐洲央行管委施納貝爾：即便達成停火，歐洲央行也不能放鬆警惕。
+
+---
+
+### 2026-06-24 23:22:50  #市場 #焦點
+
+道指漲1.01%，現報52188.051點；納指漲0.77%，現報25783.791點；標普500指數漲0.75%，現報7420.490點。
+
+---
+
+### 2026-06-24 23:22:49  #Trading Economics #Markets #United States #stocks #Importance 1
+
+Home Depot Stock Price Hits 9-week High — Home Depot shares increased to 341.20 USD, the highest since April 2026. Over the past 4 weeks, Home Depot gained 9.73%, and in the last 12 months, it decreased 5.83%.
+
+---
+
+### 2026-06-24 23:22:45  #央行 #國際
+
+歐洲央行管委施納貝爾：戰爭、通脹與經濟增長情況將決定加息的時點與幅度。
+
+---
+
+### 2026-06-24 23:22:36  #央行 #國際
+
+歐洲央行管委施納貝爾：當前形勢下，仍需進一步加息以實現2%通脹目標。
+
+---
+
+### 2026-06-24 23:21:56  #MKT News #Market Regions #Wall Street (US) #Dow #Impact bullish
+
+US equities extended gains; the Dow Jones Industrial Average rose 1%.
+
+---
+
+### 2026-06-24 23:21:52  #其他
+
+法國氣象局：巴黎創六月史上最高溫，巴黎隆尚賽馬場測得40.9攝氏度。
+
+---
+
+### 2026-06-24 23:20:24  #國際
+
+以色列國防部長卡茨表示，美國並未要求以色列從黎巴嫩南部撤軍，這是伊朗在停火談判中提出的條件。
+
+---
+
+### 2026-06-24 23:20:09  #MKT News #XAUUSD #Impact bullish #Brent #S&P500 #Impact bearish
+
+Saudi news outlet Hadas reports Israeli drones flying at low altitude over Beirut.
+
+---
+
+### 2026-06-24 23:19:55  #MKT News #Important
+
+LME aluminium down 4.00% intraday, trading at $3,124.92/ton.
+
+---
+
+### 2026-06-24 23:19:54  #市場
+
+倫鋁日內大跌4.00%，現報3124.92美元/噸。
+
+---
+
+### 2026-06-24 23:18:13  #國際
+
+市場資訊：以色列無人機低空飛越貝魯特上空。
+
+---
+
+### 2026-06-24 23:15:52  #MKT News
+
+EMSC reported a magnitude-5.5 earthquake in northern California, United States.
+
+---
+
+### 2026-06-24 23:15:18  #公司
+
+派拉蒙為推進收購華納交易，準備出售其與環球影業的合資公司資產。
+
+---
+
+### 2026-06-24 23:12:59  #MKT News
+
+Iran’s foreign ministry said Iran and Saudi Arabia reviewed recent regional and international developments and emphasized continuing consultations, maintaining diplomatic channels and bolstering joint cooperation to support regional stability, advance negotiations and secure positive, sustainable outcomes.
+
+---
+
+### 2026-06-24 23:12:47  #國際
+
+伊朗、沙特外長通電話，商討美伊談判最新進展。
+
+---
+
+### 2026-06-24 23:12:36  #MKT News
+
+Iran's foreign minister Araghchi held a phone call with his Saudi counterpart on Wednesday evening, briefing him on the latest negotiation progress, implementation of agreed measures and consultations carried out under that framework.
+
+---
+
+### 2026-06-24 23:10:52  #MKT News
+
+【Trump cancels today's housing bill signing and press conference】President Trump said on social media he will not sign a bipartisan housing bill on Wednesday at Capitol Hill as planned, and has canceled today’s signing and press conference, saying he wants Congress to first pass the Save America Act. Trump called the measure a national emergency and is pushing the Senate to repeal the filibuster to pass the Save America Act, which would introduce new voter ID requirements; Democrats say the current text would amount to voter suppression.
+
+---
+
+### 2026-06-24 23:10:19  #國際
+
+【特朗普突然取消兩黨住房法案的簽署儀式】美國總統特朗普突然取消了簽署一項跨黨派住房法案的計劃，並表示，在議員們透過一項在國會擱置已久的選民資格法案之前，他將拒絕就該住房法案採取任何行動。週三上午，特朗普在社交媒體上連發數帖，令國會山的議員們感到措手不及。特朗普在帖子中稱，儘管該住房法案以壓倒性多數透過了參眾兩院，但與他的其他優先事項相比“微不足道”。他還嘲諷該法案居然得到了馬薩諸塞州民主黨參議員伊麗莎白.沃倫(Elizabeth Warren)的支援。他寫道，取消簽署儀式是必要的，因為他認為透過旨在收緊全國的投票規則的《拯救美國法案》(SAVE America Act)屬於“國家緊急事務”。特朗普原定於週三中午出席在國會大廈舉行的簽署儀式。就在幾個小時前，白宮還在高調宣揚這項立法，稱其為總統解決生活成本問題議程的一大支柱。週二晚間，白宮新聞秘書萊維特更是稱讚該法案是“美國歷史上減輕住房負擔最重大的立法之一”。根據美國憲法，國會透過的法案如果總統既不簽署也不否決，將在大約兩週後自動成為法律。
+
+---
+
+### 2026-06-24 23:09:46  #國際
+
+埃及總統塞西：自7月1日起上調養老金。
+
+---
+
+### 2026-06-24 23:09:37  #Trading Economics #Markets #United States #Stock Market #Importance 2
+
+US Stocks Gain Ground, Dow Rises to Record — US equities gained ground on Wednesday, rebounding from the selloff in the chip sector on signs of improvement to broader credit conditions. The Nasdaq 100 and the S&P 500 gained nearly 1%, while the Dow added 400 points for a new record. Micron was flat ahead of its earnings after the bell. It followed the 13% plunge last session on fresh doubts that capital expenditures from AI companies were overdone and are due to slow. Other semiconductor and memory producers halted the selloff, with Nvidia, Intel, and Broadcom adding up to 2%. AI fundraising remained at soaring levels as SK Hynix was looking to raise $29 billion with a US listing shortly after the record SpaceX IPO. Broader sectors were supported by a pullback in yields across the curve as the outlook of restored energy exports from the Middle East tempered inflationary risks. The Dow Jones outperformed due to its exposure to traditional sectors of the economy, set to change on Monday when Alphabet replaces Verizon.
 
 ---
 
@@ -22672,281 +22972,5 @@ Oracle (ORCL.N) filed a prospectus supplement, adding placement agents for a $20
 ### 2026-06-23 20:57:50  #國際
 
 義大利國防部長表示：我們正與英國、日本共同推進全球作戰空中計劃（GCAP）專案，我認為其他國家也會加入。
-
----
-
-### 2026-06-23 20:57:22  #公司 #市場
-
-【*ST春天：股票交易異常波動 業績連續虧損存風險】*ST春天公告稱，2026年6月18日、6月22日、6月23日，公司股票連續3個交易日內日收盤價格漲幅偏離值累計達12%，屬異常波動。經自查，公司經營正常，無應披露未披露重大資訊。2025年度，公司營收34342.34萬元，利潤總額-2501.51萬元，歸母淨利潤-3732.04萬元，扣非淨利潤-4969.49萬元，業績連續虧損。此外，控股股東質押比例較高，公司尚未回覆上交所問詢函，撤銷風險警示尚不確定。
-
----
-
-### 2026-06-23 20:57:22  #MKT News #Market Themes #Chip Wars #MU.O #Impact bearish #WDC.O
-
-【Trade-side NAND prices fall under liquidation pressure; 512Gb TLC and 1Tb QLC wafer prices cut】Seasonally weak Q2 consumer demand and earlier resource-driven finished-goods price hikes have eroded acceptance of high-priced memory; large-cap SSD and embedded eMMC shipments face acute pressure. Primary suppliers are struggling to push further resource-price increases. Since mid-late March spot NAND wafer trade prices have reversed lower; small traders with liquidation pressure are undercutting offers and several wafer types have fallen back to late-January levels. Reflecting spot trade moves, 512Gb TLC wafer price cut to USD22.5 per wafer and 1Tb QLC wafer to USD26.5 per wafer.
-
----
-
-### 2026-06-23 20:57:17  #MKT News
-
-Market sources: Saudi cabinet approved the delineation of zones in which foreign nationals may purchase real estate.
-
----
-
-### 2026-06-23 20:57:03  #市場
-
-【變現壓力下貿易端NAND價格走低 今日512Gb TLC、1Tb QLC wafer價格小幅下調】Q2消費類市場正值傳統淡季，儲存廠商跟隨資源大幅漲價而同步調漲相應成品，持續消耗客戶對高價儲存產品的接受度，尤其是大容量行業SSD和嵌入式eMMC出貨壓力激增。除個別本身庫存水位低的儲存廠商尚能接受當前高價資源以外，非剛需下部分儲存廠商採購新資源的態度趨於謹慎，本季度原廠推漲資源價格明顯吃力。3月中下旬以來，現貨貿易端NAND wafer價格開始出現反轉而向下調整，即便市場不時仍有買盤承接，也難以扭轉wafer貿易價陰跌的局面，近期部分有一定變現壓力的小型貿易商不斷壓低報價。經過連續數月的緩慢下跌後，個別wafer已跌回1月底的價位水平。為反映當前現貨資源貿易價格變化，今日512Gb TLC、1Tb QLC wafer價格分別下調至22.50美金、26.50美金。 (快閃記憶體市場)
-
----
-
-### 2026-06-23 20:56:52  #其他
-
-甲骨文為200億美元股票配售交易新增承銷銷售機構。
-
----
-
-### 2026-06-23 20:56:32  #其他
-
-甲骨文提交招股說明書補充檔案。
-
----
-
-### 2026-06-23 20:56:05  #其他
-
-沙特內閣批准劃定外籍人士可購置房產區域。
-
----
-
-### 2026-06-23 20:55:09  #資料 #國際
-
-美國至6月20日當週紅皮書商業零售銷售年率 10%，前值9.4%。
-
----
-
-### 2026-06-23 20:55:07  #MKT News #Macro & Rates #US Economy
-
-US Redbook weekly chain-store sales YoY for the week to June 20 10.0% vs 9.4% prior.
-
----
-
-### 2026-06-23 20:55:06  #公司 #國際
-
-【隆華科技：兩款用於顯示面板的靶材產品匯入韓國三星供應商名錄並開始批次供貨】隆華科技6月23日在互動平臺表示，公司兩款用於顯示面板的靶材產品順利透過韓國三星的品質稽核和產品驗證，成功匯入其供應商名錄並開始批次供貨，海外市場拓展取得顯著突破。
-
----
-
-### 2026-06-23 20:55:00  #MKT News #Economic Calendar #Important
-
-United States | Redbook Retail Sales (YoY) (Jun.20) | actual 10% | previous 9.4%
-
----
-
-### 2026-06-23 20:54:51  #國際
-
-市場訊息：以色列與黎巴嫩的談判在美國開始。
-
----
-
-### 2026-06-23 20:54:51  #MKT News
-
-Israel and Lebanon have opened negotiations in the United States.
-
----
-
-### 2026-06-23 20:54:37  #公司
-
-【瀚藍環境：收購粵豐環保事項獲國資監管部門批覆】瀚藍環境(600323.SH)公告稱，公司擬透過發行股份及支付現金方式購買廣東南海上市公司高質量發展股權投資基金合夥企業100%財產份額，並以現金購買臻達發展持有的粵豐環保7.22%股份，最終實現對其100%控股，同時擬募集配套資金不超過12億元。近日，佛山市南海區國有資產監督管理局批覆同意本次交易方案。本次交易尚需履行必要決策程式及取得批准，存在不確定性。
-
----
-
-### 2026-06-23 20:54:23  #MKT News
-
-Major explosion reported in Sulaymaniyah governorate in northern Iraq.
-
----
-
-### 2026-06-23 20:54:01  #市場
-
-【甲骨文美股盤前跌超4%】甲骨文美股盤前跌超4%，現報168.03美元。
-
----
-
-### 2026-06-23 20:53:34  #MKT News #Market Themes #AI Revolution #IBM.O #Impact bullish
-
-【JP Morgan raises IBM to Overweight, lifts PT to $291; says software will continue to drive growth】JP Morgan raised IBM’s rating from Neutral to Overweight and lifted its target price to $291 from $270, citing confidence that software will continue to accelerate growth. Analysts say IBM has spent the past decade repositioning toward hybrid cloud and AI with a software-led platform; software now accounts for roughly 45% of revenue but about two-thirds of consolidated profit. JP Morgan highlighted software’s higher margins, scalable revenue recognition, stronger cash conversion and higher-quality earnings as justification for a higher valuation multiple and called the company’s shift into software a positive for the stock.
-
----
-
-### 2026-06-23 20:52:51  #MKT News
-
-Morocco's central bank held its policy rate unchanged at 2.25%.
-
----
-
-### 2026-06-23 20:51:41  #其他
-
-格芯宣佈9SW RF-SOI平臺SLATE技術已具備生產條件。
-
----
-
-### 2026-06-23 20:51:37  #MKT News #Market Regions #Wall Street (US) #S&P500 #Impact bullish
-
-Barclays sets 2027 S&P 500 target at 8,800 points.
-
----
-
-### 2026-06-23 20:51:22  #市場
-
-巴克萊將標普500指數2027年目標點位設在8800點。
-
----
-
-### 2026-06-23 20:51:16  #公司
-
-【航新科技：未參與南航C919客機“C檢”工作】航新科技6月23日在互動平臺表示，公司沒有參與南航C919客機“C檢”工作。
-
----
-
-### 2026-06-23 20:51:04  #其他
-
-格芯：9SW SLATE技術將於2027年下半年實現量產。
-
----
-
-### 2026-06-23 20:50:47  #國際
-
-全球基金6月23日淨買入1.786億印度盧比的印度股票。
-
----
-
-### 2026-06-23 20:50:40  #其他
-
-【中國商飛C909開通第二條高高原航線】據中國商飛訊息，6月23日，隨著成都航空C909飛機“天鵝號”主題航班平穩降落在海拔2506.85米的和靜巴音布魯克機場，烏魯木齊=和靜=喀什航線正式開通。這是繼喀什=塔什庫爾幹航線之後，C909飛機執飛的第二條高高原航線。
-
----
-
-### 2026-06-23 20:50:11  #其他
-
-格芯已在9SW平臺完成SLATE™先進封裝技術資質認證，該技術將用於下一代射頻應用。
-
----
-
-### 2026-06-23 20:50:06  #MKT News #Important
-
-BOC Governor MACKLEM to speak in 10 minutes.
-
----
-
-### 2026-06-23 20:47:21  #公司
-
-【三利譜：股東湯際瑜持股比例降至4.9999%】三利譜公告，資訊披露義務人湯際瑜透過大宗交易方式和集中競價方式減持公司股份，持股比例由6.0937%降低至4.9999%，持股比例下降至5%以下。
-
----
-
-### 2026-06-23 20:47:16  #MKT News #S&P500 #Impact bullish
-
-BARCLAYS raised its year-end 2026 S&P 500 target to 7,800 from 7,650.
-
----
-
-### 2026-06-23 20:46:37  #市場
-
-巴克萊將標普500指數2026年底目標位從7650點上調至7800點。
-
----
-
-### 2026-06-23 20:46:24  #其他
-
-【中天科技釋出新一代16000T海纜敷設船】6月23日，第四屆中國國際供應鏈促進博覽會進入第二天，中天科技在展會現場正式釋出新一代16000T“藍海領航”海纜敷設船。“藍海領航”排水量達到3.5萬噸，滿載最大航速達到12節，可快速完成施工部署；全套起重裝置可滿足多元海纜施工需求。
-
----
-
-### 2026-06-23 20:46:09  #MKT News #KIOX.O #Impact bearish
-
-Kioxia's US ADR fell as much as nearly 20% in premarket, dragged by weakness in the US storage sector.
-
----
-
-### 2026-06-23 20:45:25  #其他
-
-WISeKey與SEALSQ對白宮釋出量子安全行政令表示歡迎，強調需抓住三年關鍵視窗為量子計算破密時代（Q-Day）做好社會層面準備。
-
----
-
-### 2026-06-23 20:45:18  #央行 #中國央行
-
-【中國人民銀行法擬修改 健全宏觀審慎制度框架】中國人民銀行法修訂草案6月23日提請全國人大常委會會議初次審議。修訂草案加快完善中央銀行制度，進一步健全宏觀審慎制度框架，統籌發展和安全，牢牢守住不發生系統性金融風險的底線。
-
----
-
-### 2026-06-23 20:44:34  #國際
-
-伊朗總統佩澤希齊揚與巴基斯坦陸軍參謀長穆尼爾討論防務合作。
-
----
-
-### 2026-06-23 20:44:27  #宏觀 #兩會
-
-【中國人民銀行法擬修改 健全宏觀審慎制度框架】中國人民銀行法修訂草案6月23日提請全國人大常委會會議初次審議。修訂草案加快完善中央銀行制度，進一步健全宏觀審慎制度框架，統籌發展和安全，牢牢守住不發生系統性金融風險的底線。中國人民銀行法是我國確立和規範中央銀行制度的基本法律，在保障貨幣政策制定和執行、建立和完善中央銀行宏觀調控體系等方面發揮了重要作用。隨著近年來我國金融業發展變化，現行中國人民銀行法的法定職責等規定已不適應現實發展需要，宏觀審慎管理等制度有待健全，亟需修改完善。中國人民銀行行長潘功勝受國務院委託在會議上作關於修訂草案的說明時介紹，修訂草案共8章54條，貫徹落實中央金融工作會議精神，加快完善中央銀行制度，進一步明確中國人民銀行職能定位，提升其履職效能。（新華社）
-
----
-
-### 2026-06-23 20:44:09  #MKT News
-
-Iranian President Pezeshkian met with Pakistan's army chief to discuss defense cooperation, the Iranian Students' News Agency reported.
-
----
-
-### 2026-06-23 20:44:04  #其他
-
-【瑞銀：股票投資者正在尋找AI的替代選擇】瑞銀策略師Gerry Fowler表示，股票投資者對他們在AI相關股票中的持倉越來越感到不安，並正在尋找新的交易。對AI領域押注過於集中的擔憂，正促使投資者重新審視其科技股持倉。Fowler說：“投資者越來越認識到擁擠和‘同乘一輛車’的動態，許多人開始質疑相對於風險還有多少上行空間。”他表示，對沖基金已經開始從擁擠的領域撤退，投資者正尋求投資週期性股票——即在經濟增長時期表現良好的股票。
-
----
-
-### 2026-06-23 20:41:52  #市場
-
-受美股儲存概念走低影響，鎧俠美股ADR盤前跌近20%。
-
----
-
-### 2026-06-23 20:41:38  #公司
-
-義大利裕信銀行CEO：數字歐元更多面向零售領域。
-
----
-
-### 2026-06-23 20:41:10  #央行 #其他
-
-市場訊息：土耳其央行兩名首席顧問離職。
-
----
-
-### 2026-06-23 20:41:04  #其他
-
-【浙江省長劉捷在杭州調研】23日下午，浙江省委副書記、省長劉捷在杭州專題調研人工智慧創新發展工作。他強調，要深入學習貫徹習近平總書記關於人工智慧的重要論述精神，緊跟人工智慧發展新變化新趨勢，全力促進人工智慧賦能製造業轉型升級，加快推動人工智慧相關產業高質量發展，為加快建設創新浙江、因地制宜發展新質生產力提供有力支撐。劉捷在調研中強調，人工智慧技術發展迅猛，新動向新趨勢不斷湧現。各地各部門要著眼長遠發展、加強前瞻研判，以人工智慧應用中試基地建設為牽引，強化應用場景建設和開放應用，打造高質量資料集，探索資料資源化價值化路徑，加快發展積體電路、智慧體、應用服務等人工智慧核心產業。要緊扣“415X”先進製造業叢集和“315”科技創新體系建設，加快推進“人工智慧+製造”，推動製造業智慧化、綠色化、融合化發展。要深化為企服務，強化智慧財產權保護，在算力、語料、人才、資本等方面為企業提供精準支援，著力營造建設人工智慧創新發展高地的良好環境。（杭州釋出）
-
----
-
-### 2026-06-23 20:40:07  #其他
-
-【機構：今年全球記憶體市場規模將達到1500萬億韓元】Counterpoint Research釋出最新預測，全球記憶體市場預計將在2027年上半年繼續保持增長勢頭，但明年下半年出現價格大幅調整的可能性無法完全排除。該機構預計全球記憶體市場規模在今年將達到1500萬億韓元，到2027年將進一步增長40%至2100萬億韓元；同時伺服器記憶體佔比維持56~57%的高位，相較2025年的37%顯著提升。
-
----
-
-### 2026-06-23 20:39:49  #國際
-
-【歐盟據稱將升級對Meta的調查 指控其產品導致兒童上癮】歐盟準備加大對Meta Platforms Inc.的調查力度，指控其產品導致兒童上癮。這標誌著歐盟對這家美國社交媒體巨頭的監管壓力進一步升級。據知情人士透露，作為歐盟執行機構的歐盟委員會正準備釋出初步調查結果，指控Meta旗下的Facebook和Instagram利用具有誘導性的設計手段，讓年輕使用者沉迷其中。由於相關程式尚未公開，這些知情人士要求匿名，並表示監管機構尚未確定公佈調查結果的具體日期。
-
----
-
-### 2026-06-23 20:39:40  #宏觀 #兩會
-
-【報告顯示全國統一大市場“四梁八柱”基本建立】國務院關於建設全國統一大市場工作情況的報告6月23日提請十四屆全國人大常委會第二十三次會議審議。報告顯示全國統一大市場建設取得階段性成效，“四梁八柱”基本建立。國家發展改革委相關負責人在常委會會議上作報告時表示，我國市場基礎制度規則不斷健全，市場設施互聯互通顯著加強，一批妨礙統一市場和公平競爭的突出問題得到糾治，商品服務和資源要素流動更加順暢。（新華社）
-
----
-
-### 2026-06-23 20:39:11  #公司
-
-【三星半導體：決定將官網統一至全球平臺，原中文官網“交棒”】6月23日，三星半導體宣佈，為了讓資訊的傳遞更統一、更新鮮、更及時，決定將官網統一至全球平臺。未來，全球使用者訪問的都將是同一個官網。在此次整合中，原中文官網於6月23日起正式“交棒”。調整後，當使用者訪問原中文網址時，將自動跳轉至全球官網英文版，同時全球官網內仍將保留“公司介紹”等少量核心頁面的中文版本。此外，三星半導體的中文資訊陣地將全面向官方微信公眾號、微博和小紅書遷移。
 
 ---
