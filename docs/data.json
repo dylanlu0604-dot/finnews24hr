@@ -1,7 +1,15 @@
 {
-  "updated": "2026-06-27 16:38:31",
-  "count": 18179,
+  "updated": "2026-06-27 16:42:21",
+  "count": 18177,
   "items": [
+    {
+      "id": "4958321",
+      "time": "2026-06-27 16:39:30",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美猶他州因林火蔓延進入緊急狀態】據美媒6月26日報道，受乾燥和大風天氣影響，美國猶他州比弗縣日前燃起的林火仍在迅速蔓延，截至26日，過火面積近287平方公里，猶他州宣佈進入緊急狀態。報道稱，加利福尼亞州東南部、內華達州南部等地區目前處於極端山火風險警報之下。 （CCTV國際時訊）"
+    },
     {
       "id": "mkt:019f0831-2668-7dd8-b141-3eb0a9a4070e",
       "time": "2026-06-27 16:27:46",
@@ -166294,30 +166302,6 @@
         "0700.HK"
       ],
       "text": "【Tencent customer service says WeChat is gray-testing AI assistant Xiaowei】Tencent customer service said WeChat is running a limited gray-scale test of an in-app AI assistant, Xiaowei. Xiaowei supports text and voice interaction to operate WeChat native functions — e.g., adjust settings, send messages, place calls — and currently uses multiple AI models, including Tencent’s own models and high-quality open-source models. The gray test covers multiple systems; participation eligibility is shown in the app."
-    },
-    {
-      "id": "4945750",
-      "time": "2026-06-20 16:41:51",
-      "tags": [
-        "國際"
-      ],
-      "text": "【美國電網扛不住AI熱潮】近來，AI熱潮使得美國各地資料中心用電需求猛增，導致多地電價持續走高，部分地區還發布了停電預警。據路透社報道，為緩解供電困境，美國聯邦能源管制委員會18日要求各區域電網運營商考慮新的協議，加快資料中心等大型用電主體的併網速度。該委員會還表示，今後制定規則時將不再依據美國《國家環境政策法》主動考量對環境的影響。根據資料中心地圖網的資料，美國當前運營的資料中心超過4000座，另外還有大量處於規劃或在建階段。然而，這些資料中心建設速度遠超新建電廠投產速度，再加上接入電網的進度太慢，因此全美各大科技巨頭正想盡辦法為旗下資料中心爭取電力配額。美國電力研究所統計資料顯示，當前資料中心用電量佔全美總電力需求的約5%，到2035年這一佔比可能將升至約20%。（央視財經）"
-    },
-    {
-      "id": "mkt:019ee42f-8a8e-7dd8-b09e-16d44c569171",
-      "time": "2026-06-20 16:39:41",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Refinitiv: A senior HEZBOLLAH official said Israel will not be allowed to \"operate freely\" on territory HEZBOLLAH describes as occupied Lebanese territory."
-    },
-    {
-      "id": "4945749",
-      "time": "2026-06-20 16:39:16",
-      "tags": [
-        "國際"
-      ],
-      "text": "真主黨高階官員稱，該組織不會允許以色列在其所稱的被佔領黎巴嫩領土上享有“行動自由”。"
     }
   ]
 }
