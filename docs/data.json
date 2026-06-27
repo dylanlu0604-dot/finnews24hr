@@ -1,7 +1,23 @@
 {
-  "updated": "2026-06-27 21:23:35",
-  "count": 18170,
+  "updated": "2026-06-27 21:27:38",
+  "count": 18169,
   "items": [
+    {
+      "id": "mkt:019f0942-7cdd-7dd8-b142-4d55adc9c4d9",
+      "time": "2026-06-27 21:26:19",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Xiong'an New Area approved to build national IP protection center】China's National Intellectual Property Administration (CNIPA) has approved construction of a national-level intellectual property protection center in the Xiong'an New Area. The center, now in preparatory stages, will target next‑generation information technology and advanced materials. Once operational it will provide a one‑stop platform for rapid pre-examination, expedited confirmation of rights and accelerated enforcement, and aims to cut average patent grant times by about 70% to speed protection of corporate innovation in the covered sectors."
+    },
+    {
+      "id": "4958439",
+      "time": "2026-06-27 21:25:18",
+      "tags": [
+        "其他"
+      ],
+      "text": "【雄安新區獲批建設國家級智慧財產權保護中心】據“雄安釋出”，近日，國家智慧財產權局批覆同意雄安新區開展國家級智慧財產權保護中心建設，未來面向新一代資訊科技、新材料兩大領域開展智慧財產權快速協同保護工作。目前雄安新區國家級智慧財產權保護中心正有序推進各項籌建工作，待中心建成驗收、正式運營後，將形成集快速預審、快速確權、快速維權於一體的智慧財產權“一站式”綜合服務平臺，相關產業的專利平均授權時間將縮短70％，從而高效保護企業創新成果，加速形成產業技術創新優勢。"
+    },
     {
       "id": "4958432",
       "time": "2026-06-27 21:18:50",
@@ -166215,30 +166231,6 @@
         "國際"
       ],
       "text": "伊朗法爾斯通訊社援引伊朗外交部發言人訊息稱，伊朗代表團將前往瑞士跟進並要求另一方履行其承諾。"
-    },
-    {
-      "id": "4945846",
-      "time": "2026-06-20 21:25:47",
-      "tags": [
-        "國際"
-      ],
-      "text": "沙特媒體：伊朗外長阿拉格齊今晚將與巴基斯坦內政部長一同前往瑞士。"
-    },
-    {
-      "id": "mkt:019ee535-3581-7dd8-b09f-7ef9866523bc",
-      "time": "2026-06-20 21:25:29",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Saudi outlet Hadas reports Iranian foreign minister Araghchi will travel to Switzerland tonight accompanied by Pakistan’s interior minister."
-    },
-    {
-      "id": "4945845",
-      "time": "2026-06-20 21:24:47",
-      "tags": [
-        "國際"
-      ],
-      "text": "【日本多地民眾抗議日美聯合軍演】據日本媒體20日報道，針對日本自衛隊和美軍當天在九州、沖繩等地啟動“堅毅之龍”大規模聯合軍演，日本多地市民團體和當地居民提出抗議，要求停止軍演，避免加劇地區緊張。（新華社）"
     }
   ]
 }
