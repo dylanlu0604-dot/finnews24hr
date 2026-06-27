@@ -1,7 +1,20 @@
 {
-  "updated": "2026-06-28 05:36:22",
-  "count": 18140,
+  "updated": "2026-06-28 05:40:14",
+  "count": 18141,
   "items": [
+    {
+      "id": "mkt:019f0b03-d148-7770-9d1b-a238b19b4da8",
+      "time": "2026-06-28 05:37:07",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "Islamic Republic of Iran Broadcasting (IRIB) reported explosions in the Sirik area of southwest Iran linked to multiple shells striking a communications tower. US media outlet Axios reported the United States carried out airstrikes against Iran."
+    },
     {
       "id": "4958618",
       "time": "2026-06-28 05:18:11",
