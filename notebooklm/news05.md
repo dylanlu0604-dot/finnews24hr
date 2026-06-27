@@ -1,7 +1,139 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-06-27 13:32:02_
-_本檔包含 3559 則快訊，約 672220 字_
+_更新時間：2026-06-27 14:05:03_
+_本檔包含 3562 則快訊，約 672099 字_
+
+---
+
+### 2026-06-22 19:34:11  #焦點 #國際
+
+【萬斯稱已建立協調機制 防止中東局勢升級】當地時間22日，美國副總統萬斯在瑞士發表講話。萬斯表示，美國已建立相關協調機制，以防止中東地區衝突進一步升級，並稱該機制已開始顯現效果，黎巴嫩局勢近期有所緩和。萬斯表示，如果衝突持續升級，不僅無助於各方維護自身安全，反而可能損害地區整體安全形勢。因此，美方與相關方面建立了溝通和協調機制，以確保局勢不會進一步惡化。萬斯稱，從近期情況來看，該機制已經取得初步成效。“過去24小時內，黎巴嫩局勢是近一段時間以來最平靜的時期之一，而此前24小時的情況也相對穩定。”（央視新聞）
+
+---
+
+### 2026-06-22 19:34:03  #MKT News
+
+Indian government: Fertilizer output fell 0.9% YoY in May; steel output may have risen about 5% YoY.
+
+---
+
+### 2026-06-22 19:33:49  #國際
+
+印度政府：5月天然氣產量同比下降4.9%。
+
+---
+
+### 2026-06-22 19:33:38  #MKT News #Commodities #Energy
+
+Indian government reported May crude oil production down 4.6% YoY; May natural gas production down 4.9% YoY.
+
+---
+
+### 2026-06-22 19:33:37  #其他
+
+匈牙利總理毛焦爾：匈牙利將修改憲法以罷免總統。將於秋季啟動全面的憲法審查，包括公眾諮詢。憲法將透過公投確認。
+
+---
+
+### 2026-06-22 19:33:03  #公司
+
+【海天味業：擬10億-20億元回購股份用於登出及員工激勵】海天味業公告稱，公司擬以集中競價交易方式回購A股股份，回購金額不低於10億元且不超過20億元，回購價格不超過53元/股，回購期限自股東會審議透過之日起不超12個月。回購股份將用於登出並減少註冊資本及實施員工持股計劃或股權激勵，其中70%或以上用於登出。截至公告披露日，相關股東暫無減持計劃。本次回購方案尚需股東會審議透過，存在一定不確定性。
+
+---
+
+### 2026-06-22 19:32:54  #國際
+
+印度政府公佈，5月基礎設施產出同比增長0.5%。
+
+---
+
+### 2026-06-22 19:32:50  #MKT News
+
+U.S. Vice President Vance said on the 22nd that if the U.S. agrees to unfreeze Iranian assets, those funds could be used to purchase U.S. soybeans, corn and wheat.
+
+---
+
+### 2026-06-22 19:32:04  #國際
+
+印度原油產量同比下降4.6%。
+
+---
+
+### 2026-06-22 19:31:58  #MKT News
+
+Magyar, Hungary's prime minister, said the constitution will be confirmed by referendum.
+
+---
+
+### 2026-06-22 19:31:51  #MKT News
+
+Hungarian Prime Minister Magyar said he will launch a comprehensive constitutional review this autumn, including public consultation.
+
+---
+
+### 2026-06-22 19:31:44  #市場 #國際
+
+印度10年期基準政府債券收益率收盤報6.8473%；前一交易日收盤為6.8533%。
+
+---
+
+### 2026-06-22 19:31:38  #MKT News
+
+magyar, Hungary's prime minister, said the government will amend the constitution to remove the president.
+
+---
+
+### 2026-06-22 19:31:22  #MKT News #Macro & Rates #The Fed (FOMC)
+
+【Former Fed Chair Alan Greenspan dies at 100】Former Federal Reserve Chair Alan Greenspan died Monday at age 100 at home from complications of Parkinson’s disease. Greenspan led the Fed from 1987 until retiring in early 2006, a period marked by a long expansion, low unemployment and strong equity markets; his standing was later dented by the financial crisis that erupted within two years of his departure. Former Fed Vice Chair Roger Ferguson said Greenspan was among the most influential central bankers of the late 20th century and an early proponent of the view that technology-driven productivity gains supported faster growth without rekindling inflation.
+
+---
+
+### 2026-06-22 19:31:18  #公司
+
+【奧精醫療：原實際控制人崔福齋股份繼承過戶完成】奧精醫療(688613.SH)公告稱，公司原實際控制人之一崔福齋於2025年6月逝世，其生前直接持有公司股份6,334,793股。經公證，其遺產股份5,049,665股由配偶黃晚蘭和女兒HelenHanCui(崔菡)繼承，其中黃晚蘭繼承2,524,833股，HelenHanCui繼承2,524,832股。過戶後，黃晚蘭持股7,574,498股(佔5.53%)，HelenHanCui持股2,524,832股(佔1.84%)。本次過戶不會對公司生產經營和財務狀況產生重大不利影響。
+
+---
+
+### 2026-06-22 19:31:08  #國際
+
+【萬斯稱伊朗解凍資產可能將用於購買美國農產品】美國副總統萬斯22日表示，一旦美國同意解凍伊朗資產，這筆資產可能將被用於購買美國的大豆、玉米和小麥。（新華社）
+
+---
+
+### 2026-06-22 19:31:00  #國際
+
+印度4月份主要行業產出同比增長0.5%。
+
+---
+
+### 2026-06-22 19:29:54  #公司
+
+【益豐藥房：可轉換公司債券跟蹤評級結果維持AA級】益豐藥房公告稱，公司委託聯合資信對“益豐轉債”進行跟蹤信用評級。2026年6月22日評級結果顯示，公司主體信用評級、“益豐轉債”評級均為“AA”，評級展望維持“穩定”，較2025年6月25日的前次評級結果無變化。本次信用評級報告詳見上交所網站。
+
+---
+
+### 2026-06-22 19:29:45  #公司
+
+挪威離岸工業集團：宣佈自週六起實施停工，以回應“安全勞工工會”石油服務工人發起的罷工，停工將導致挪威大陸架上的鑽探作業延遲和暫停。
+
+---
+
+### 2026-06-22 19:28:31  #公司
+
+【明新旭騰：2025年員工持股計劃首次受讓部分40.11萬股解鎖】明新旭騰公告稱，公司2025年員工持股計劃首次受讓部分第一個鎖定期於2026年6月18日屆滿，解鎖條件已成就。本次可解鎖股票數量401,116股，佔總股本比例0.25%。2025年度公司實現營收148,316.25萬元，較2022 - 2024年三年均值增長51.31%，公司層面業績考核達標，解鎖比例100%。除10名離職激勵物件外，其他激勵物件個人考核解鎖比例均為100%。
+
+---
+
+### 2026-06-22 19:27:33  #其他
+
+【北京消防通報“大柵欄街16號起火”：無人員被困傷亡】@北京消防 微博訊息，6月22日18時29分，市119指揮中心接西城區大柵欄街道大柵欄街16號起火的報警，迅速調派消防救援力量到場處置。18時45分，現場明火被撲滅。無人員被困傷亡。火災原因正在調查中。
+
+---
+
+### 2026-06-22 19:27:04  #公司
+
+【中科曙光：董事及高管提前終止減持計劃，累計減持229.99萬股】中科曙光公告稱，截至2026年6月22日，公司董事、總經理歷軍，高階管理人員任京暘、翁啟南提前終止減持計劃。三人透過集中競價方式累計減持229.99萬股，佔公司總股本0.16%，減持總金額2.03億元。其中，歷軍減持181.92萬股，金額1.61億元；任京暘減持25.62萬股，金額2190.11萬元；翁啟南減持22.45萬股，金額1934.22萬元。三人未完成減持數量分別為450.12萬股、6.29萬股、1.00萬股。
 
 ---
 
@@ -21335,119 +21467,5 @@ Tasnim News Agency reported that Iran's Foreign Minister Araghchi held a phone c
 ### 2026-06-20 14:05:17  #其他
 
 【香港機場黃金大劫案最新進展】香港國際機場18日凌晨發生一起黃金搶劫案，涉及6根金條，總值約700萬港元。香港警方20日召開記者會表示，經追查，已拘捕涉案人員4男3女，年齡介於20歲至39歲，均為香港本地居民，部分有黑社會背景。 香港警方介紹案情時說，18日0時23分接獲報案，一名36歲的香港本地男子受僱於一名內地商人，由印度尼西亞獨自運金條回港。他在香港機場一停車場被三名蒙面男子持刀伏擊，6根金條被搶。匪徒得手後登上接應車輛逃去。 香港警方稱，相信此案件並非隨機行劫，而是有預謀，明顯有內鬼通風報信，或是熟人所為。警方已尋獲接應劫匪車輛和涉案刀具，但尚未尋回金條。 香港警方指出，懷疑部分嫌犯已潛逃至內地，香港警方正透過相關渠道尋求內地執法單位提供協助，不排除再有人被捕。（中新網）
-
----
-
-### 2026-06-20 14:02:38  #國際
-
-【阿爾巴尼亞數千人抗議特朗普家相關地產專案】數千名阿爾巴尼亞人19日在首都地拉那連續第20天舉行集會，抗議美國總統特朗普女兒伊萬卡和女婿庫什納在阿爾巴尼亞南部沿海一個自然保護區建豪華度假村的專案。據外媒報道，該自然保護區位於地拉那西南約100公里，是阿爾巴尼亞最有價值的生物多樣性保護區之一，也是火烈鳥等遷徙鳥類的重要落腳處。伊萬卡夫婦因一個偶然機會發現這個風景優美的地方，決定在那裡進行開發，建酒店、公寓、別墅、遊艇碼頭等度假設施。隨著推土機等大型工程裝置5月末開始在專案區域進行開通道路、清理土地、構建圍欄等前期準備工作，對專案的抗議活動持續不斷。環保人士說，該專案將導致長期受保護的鳥類繁衍地遭受“無可挽回的破壞”。（新華社）
-
----
-
-### 2026-06-20 13:59:19  #其他
-
-【時隔44年試射洲際導彈，專家：機動打擊能力已達實戰標準】9月25日，火箭軍向太平洋相關公海海域，成功發射1枚攜載訓練模擬彈頭的洲際彈道導彈，導彈準確落入預定海域。此次任務，是我國自1980年5月18日東風-5全射程試驗後，首次重返這片海域。對火箭軍某旅發射號手趙靜來說，這也是他入伍22年來，第一次等來真正的實射機會。環境之險、考驗之嚴，前所未有。官兵們不僅要忍受高溫高溼，還要24小時不間斷監測裝備狀態，採集關鍵資料。（央視新聞）
-
----
-
-### 2026-06-20 13:54:33  #國際
-
-以色列駐美大使：以色列將繼續留在黎巴嫩南部安全區，以消滅真主黨。
-
----
-
-### 2026-06-20 13:54:32  #MKT News #XAUUSD #Impact bullish #WTI #S&P500 #Impact bearish
-
-Israel's ambassador to the United States said Israel will continue to remain in the southern Lebanon security zone to eliminate Hezbollah.
-
----
-
-### 2026-06-20 13:54:03  #其他
-
-【強降雨致廣西凌雲河流水位上漲 需防範次生災害】據凌雲水文監測，過去24小時，廣西百色市凌雲縣有大到暴雨，凌雲轄區各監測河流有2.90米以內漲水過程。建議群眾出行前，關注氣象水文等部門釋出的雨水情資訊，做好局地強降雨可能引發的中小河流洪水、鄉鎮內澇、沖溝洪水、滑坡及泥石流等災害的防範工作。（央視新聞）
-
----
-
-### 2026-06-20 13:52:46  #MKT News
-
-【Bolivia president Paz declares national state of emergency】President Paz declared a national state of emergency on the 20th as protests tied to a deteriorating economy and worsening fuel shortages intensified. Demonstrators have blocked roads, disrupting transport of food and fuel.
-
----
-
-### 2026-06-20 13:52:24  #國際
-
-據外媒報道，玻利維亞總統帕斯20日宣佈進入國家緊急狀態。 近期因經濟形勢惡化和燃料短缺問題加劇，玻利維亞國內抗議活動持續升級，示威者透過封鎖道路等方式阻斷食品、燃料等物資運輸。（新華社）
-
----
-
-### 2026-06-20 13:50:54  #MKT News
-
-HEZBOLLAH secretary general said preventing the enemy from achieving its objectives is itself a victory and that the group was born to resist oppression and occupation.
-
----
-
-### 2026-06-20 13:50:01  #MKT News #XAUUSD #Impact bullish #DXY #S&P500 #Impact bearish
-
-【Zelenskiy gives Lukashenko one-week ultimatum to remove border fire-control systems】RIA on June 19 quoted Ukrainian President Zelenskiy saying Belarus has deployed systems on the Belarus–Ukraine border to coordinate fire and urging President Lukashenko to remove them within a week, warning Ukraine will act itself if they are not. RIA said this followed an incident two days earlier in Russia’s Bryansk region where a Ukrainian military drone struck a coach carrying Belarusian children; Lukashenko called the strike a brazen fascist act and demanded an explanation from Kyiv.
-
----
-
-### 2026-06-20 13:47:46  #MKT News #Important #WTI #Impact bullish #XAUUSD #DXY
-
-【IRGC says forces on high alert】State news agency reported the Islamic Revolutionary Guard Corps (IRGC) said its armed forces are on high alert, prepared to repel any potential enemy incursions or violations of agreements and to defend Iran's national security.
-
----
-
-### 2026-06-20 13:47:45  #焦點 #國際
-
-【伊朗革命衛隊：已進入高度戰備狀態】據伊朗塔斯尼姆通訊社報道，伊朗革命衛隊表示，武裝部隊已進入高度戒備狀態，準備好抵禦任何潛在敵人的侵犯和違反協議的行為，捍衛國家安全、尊嚴和利益。
-
----
-
-### 2026-06-20 13:46:03  #國際
-
-【澤連斯基對白俄羅斯發出威脅】據俄新社6月19日報道，烏克蘭總統澤連斯基稱白俄羅斯已在白烏邊境地區部署用於協調火力的裝置，並就此向白俄羅斯總統盧卡申科發出威脅。 報道稱，澤連斯基對媒體記者說：“（白俄羅斯總統）最好關閉這些裝置。我想，一週時間對他來說足夠了。如果他沒有這麼做，我們就自己動手。” 兩天前，烏軍無人機在俄羅斯布良斯克州襲擊了一輛載有白俄羅斯兒童的大巴。盧卡申科稱，這是公然的法西斯行徑，他要求烏克蘭當局對此作出解釋。 （參考訊息）
-
----
-
-### 2026-06-20 13:45:19  #MKT News #XAUUSD #Impact bullish #Brent #DXY
-
-Lebanon's National News Agency (NNA) said Israel again carried out airstrikes on southern Lebanon's Jazin area, Sajid and the Rihan Heights.
-
----
-
-### 2026-06-20 13:43:35  #國際
-
-瑞士外交部：鑑於協議文字已於5月18日凌晨完成電子簽署，在瑞士舉行會議已不具緊迫性。但我們正計劃在未來數日內舉行會議。
-
----
-
-### 2026-06-20 13:43:00  #MKT News
-
-Iran's foreign ministry said talks are being advanced via mediators and that it will make a public announcement if conditions to begin talks are met.
-
----
-
-### 2026-06-20 13:42:14  #MKT News
-
-Swiss Foreign Ministry said the agreement text was electronically signed in the early hours of May 18, removing the urgency of holding a meeting in Switzerland. The ministry plans to hold a meeting in the coming days.
-
----
-
-### 2026-06-20 13:39:36  #其他
-
-一家權威海上安全資訊機構提示商船：晝夜均可經霍爾木茲海峽南側航道通行，航行期間需持續開啟船舶自動識別系統及應答器訊號。
-
----
-
-### 2026-06-20 13:33:11  #其他
-
-玻利維亞總統阿爾塞宣佈進入緊急狀態，為部署軍隊應對封鎖危機掃清道路。
-
----
-
-### 2026-06-20 13:32:59  #MKT News
-
-Bolivia President Arce declared a state of emergency.
 
 ---

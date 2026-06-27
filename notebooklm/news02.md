@@ -1,7 +1,133 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-06-27 13:32:02_
-_本檔包含 3862 則快訊，約 672920 字_
+_更新時間：2026-06-27 14:05:03_
+_本檔包含 3872 則快訊，約 672465 字_
+
+---
+
+### 2026-06-26 02:20:00  #國際
+
+【烏克蘭首都基輔傳出爆炸聲】當地時間25日晚9時許，記者在烏克蘭首都基輔聽到多次強烈爆炸聲。基輔市市長克利奇科和基輔市軍事管理局在社交媒體上說，俄軍向基輔市發射了彈道導彈，基輔市防空系統正在執行。（新華社）
+
+---
+
+### 2026-06-26 02:19:32  #MKT News #Macro & Rates #The Fed (FOMC)
+
+Fed's GOOLSBEE welcomed the move to simplify the Federal Reserve's policy statement.
+
+---
+
+### 2026-06-26 02:18:47  #央行 #國際
+
+美聯儲古爾斯比：我支援精簡美聯儲貨幣政策宣告。
+
+---
+
+### 2026-06-26 02:17:18  #市場 #央行 #國際
+
+【凱投宏觀：金和白銀結束連跌勢頭，但黃金仍有進一步下跌的空間】黃金和白銀結算價雙雙走高，結束了兩者連續四天的跌勢。凱投宏觀的Hamad Hussain表示，儘管今天收盤上漲，但黃金仍有進一步下跌的空間，他不認為4,000美元是底部。“我們認為，黃金市場可能會擠出更多過度投機的成分，“他說。他將此歸因於AI/科技股繼續成為投機者首選的賺錢工具，以及市場認為由Kevin Warsh領導的美聯儲將在利率問題上保持偏緊縮立場的觀點。近月黃金期貨收盤上漲1%，至每盎司4,030.50美元，而白銀收盤上漲0.5%，至每盎司58.348美元。
+
+---
+
+### 2026-06-26 02:16:04  #央行 #其他
+
+墨西哥央行公佈比索官方匯率：1 美元兌 17.5260 墨西哥比索。
+
+---
+
+### 2026-06-26 02:15:52  #MKT News #Macro & Rates #The Fed (FOMC) #DXY #Impact bullish #US10Y #Impact bearish #EURUSD
+
+Fed's GOOLSBEE said inf may rise before wages increase.
+
+---
+
+### 2026-06-26 02:15:33  #市場 #央行 #國際
+
+美聯儲古爾斯比：脹可能在薪資上漲之前先行攀升。
+
+---
+
+### 2026-06-26 02:15:25  #央行 #國際
+
+美聯儲古爾斯比：薪資並非衡量通脹的理想先行指標。
+
+---
+
+### 2026-06-26 02:15:25  #MKT News #Macro & Rates #The Fed (FOMC)
+
+Fed's Goolsbee said wages are not a good leading indicator of inflation.
+
+---
+
+### 2026-06-26 02:15:16  #MKT News #Macro & Rates #DXY #Impact bullish #US10Y #Impact bearish #S&P500
+
+GOOLSBEE said a rise in core CPI driven by services would be more concerning than one driven by goods or oil-related items.
+
+---
+
+### 2026-06-26 02:15:11  #Trading Economics #Markets #Commodity #Importance 1
+
+Energy Commodities Updates: Gasoline Rises by 4.94% — Top commodity gainers are Gasoline (4.94%), Heating Oil (4.44%), Natural gas (3.12%), Crude Oil WTI (2.18%) and Brent Crude Oil (1.87%). Biggest losers are Methanol (-1.77%), Germany Natural Gas THE (-1.32%) and Natural Gas EU (-0.66%).
+
+---
+
+### 2026-06-26 02:14:40  #市場 #央行 #國際
+
+美聯儲古爾斯比：若核心消費者物價指數上漲由服務業驅動，相比商品或石油相關品類上漲，這會更令我擔憂。
+
+---
+
+### 2026-06-26 02:14:22  #Trading Economics #Markets #commodity #Importance 0
+
+Gasoline is up by 5% — Gasoline increased 5% to 3.0258 USD/Gal
+
+---
+
+### 2026-06-26 02:14:03  #央行 #國際
+
+美聯儲古爾斯比：認同沃什關於前瞻指引的觀點。
+
+---
+
+### 2026-06-26 02:13:16  #MKT News #Important #Brent #Impact bullish #WTI #S&P500 #Impact bearish
+
+【WSJ: Iran attack on Singapore-flagged freighter tests US-Iran ceasefire deal】Two US senior officials told the Wall Street Journal that Iran’s Islamic Revolutionary Guard Corps attacked a Singapore-flagged freighter in the Strait of Hormuz on Thursday, an incident that tests last week’s US-Iran agreement to end hostilities and reopen the vital shipping lane. The UK Maritime Trade Operations said the vessel’s wheelhouse was damaged but there were no injuries; the strike occurred near Oman’s coast. Iranian paramilitary naval forces had warned hours earlier that ships must not use unapproved routes.
+
+---
+
+### 2026-06-26 02:13:00  #公司 #國際
+
+【EDF擬就出售小型模組化反應堆子公司股權與義大利企業展開談判】據知情人士透露，法國電力公司（EDF）準備就出售其小型模組化核反應堆子公司的股權事宜，與義大利企業展開談判。週四在法國昂蒂布舉行的法意兩國領導人會晤期間，法國總統馬克龍與義大利總理焦爾吉婭·梅洛尼討論了Nuward子公司的相關計劃。EDF旗下的義大利子公司愛迪生公司（Edison）已與義大利核能企業簽署宣告，共同開發Nuward小型模組化反應堆技術，目標是在2035年前實現首批電廠投入運營。該專案旨在設計和建造小型反應堆，為更廣泛的客戶群提供低碳電力和熱能。由於電力成本高昂，義大利正考慮重返核電領域。
+
+---
+
+### 2026-06-26 02:12:58  #MKT News #Macro & Rates #The Fed (FOMC) #DXY #Impact bullish #S&P500 #Impact bearish #XAUUSD
+
+Fed's Goolsbee said core inflation remains too high and is trending in the wrong direction.
+
+---
+
+### 2026-06-26 02:12:49  #央行 #國際
+
+美聯儲古爾斯比：核心通脹仍過高，走勢方向錯誤。
+
+---
+
+### 2026-06-26 02:11:44  #央行 #國際
+
+美聯儲古爾斯比：但當前通脹水平仍遠高於目標區間。
+
+---
+
+### 2026-06-26 02:11:40  #MKT News
+
+GOOLSBEE said it remains well above the required level.
+
+---
+
+### 2026-06-26 02:11:28  #MKT News #Macro & Rates #The Fed (FOMC) #S&P500 #Impact bullish #US10Y #DXY #Impact bearish
+
+Fed's Goolsbee sees some hopeful signs in services inflation.
 
 ---
 
@@ -23215,71 +23341,5 @@ Russia industrial output fell 0.7% YoY in May, versus market expectations for 1.
 ### 2026-06-24 23:59:49  #MKT News #WTI #Impact bearish #XAUUSD #DXY
 
 【Trump: U.S. to join IAEA inspections of Iran nuclear sites】Trump told Fox News on June 24 that U.S. personnel will participate in International Atomic Energy Agency inspections of Iranian nuclear facilities. He said Iran has agreed to allow inspectors in but has in the past agreed in writing and then reneged, and that he is not pushing for inspectors to enter Iran immediately.
-
----
-
-### 2026-06-24 23:59:15  #國際
-
-【特朗普：美方將參與國際原子能機構對伊朗核查行動】美國總統特朗普24日接受美國福克斯新聞頻道採訪時說，美方人員將參與國際原子能機構對伊朗核設施的核查行動。針對伊朗方面稱目前沒有允許國際原子能機構進入遭襲核設施的計劃，特朗普回應說，“他們會達成協議，將其寫成書面檔案，隨後又會出爾反爾，聲稱那並非事實”。特朗普表示：“他們已經同意了，同意核查人員進入。”他還說，並不急於讓核查人員立即進駐伊朗。（新華社）
-
----
-
-### 2026-06-24 23:58:36  #Trading Economics #Markets #Euro Area #Stock Market #Importance 1
-
-European Stocks Close Mixed — European stock indices closed mixed on Wednesday as weakness for banks and the chip sector offset gains elsewhere. The Euro STOXX 50 dropped 0.2% to 6,215 while the STOXX Europe 600 inched higher to 635. US President Trump assured that Iran will not pressure vessels crossing the Strait of Hormuz for toll payments, solidifying the de-escalatory momentum and stretching the plunge in energy prices. Consequently, sovereign yields in the Eurozone retreated and lifted consumer discretionary companies, with Adidas, LVMH, Hermes, and Inditex rising up to 3%. Still, banks fell as markets took profits. In the meantime, Rheinmetall plunged 19% following reports that Germany plans to abandon proposals to build its largest warship since World War II and instead purchase eight smaller frigates from TKMS. Also, Argenx dropped over 7% on setbacks in its myositis drug trial update.
-
----
-
-### 2026-06-24 23:57:20  #公司 #國際
-
-印度塔塔通訊表示，德里資料中心火災後，公司正盡最大努力推進後續恢復工作。
-
----
-
-### 2026-06-24 23:56:36  #MKT News #TATACOMM.NS
-
-Tata Communications said a June 5 fire at its Delhi data center prompted immediate activation of its business continuity plan, citing a force majeure.
-
----
-
-### 2026-06-24 23:56:17  #公司 #國際
-
-印度塔塔通訊：對於所有訂購了災難恢復與備份服務的客戶，公司已能夠保障服務連續執行，或已完成服務恢復。
-
----
-
-### 2026-06-24 23:56:12  #公司 #國際
-
-印度塔塔通訊：6月5日德里資料中心火災發生後，公司立即啟動了針對不可抗力事件預設的業務連續性預案。
-
----
-
-### 2026-06-24 23:55:43  #國際
-
-據TankerTrackers：自2026年6月15日起，伊朗已出口4000萬桶原油。其中總量的一半都集中在單日外運，也就是上週五（2026年6月19日）。
-
----
-
-### 2026-06-24 23:55:21  #MKT News #Important #Commodities #Energy #WTI #Impact bearish #Brent
-
-Sources said due to refinery shutdowns Russia's oil exports from western ports are expected to hit a record 2.7 mln bpd in June.
-
----
-
-### 2026-06-24 23:54:31  #公司 #市場 #國際
-
-【特朗普批評汽油價格下跌不夠快 稱已命令司法部展開調查】美國總統特朗普抱怨汽油價格下降速度不夠快，稱他已下令司法部調查汽油價格。“大型石油公司並沒有像他們支付的石油價格大幅下降那樣，相應地下調加油站的汽油價格，”他在社交媒體上發帖稱，“汽油價格最好能比我現在看到的降得快得多！”特朗普沒有詳述向司法部下達的指示。
-
----
-
-### 2026-06-24 23:54:16  #焦點 #國際
-
-訊息人士稱，由於煉油廠維持閒置狀態，俄羅斯6月經西部港口出口的石油量將達到創紀錄的270萬桶/日。
-
----
-
-### 2026-06-24 23:53:51  #Trading Economics #Markets #France #Stock Market #Importance 0
-
-CAC 40 Rebounds on Luxury Sector Gains — The CAC 40 rose 0.5% to close at 8,385 on Wednesday, snapping a three-session losing streak as gains in the luxury sector supported the index. Luxury heavyweights outperformed after Jefferies raised L'Oreal’s target price to €328 from €323, while maintaining a “below market performance” recommendation and citing elevated profitability. Peers LVMH (+1.9%), Hermes (+1.5%), and Kering (+1%) also advanced. Investors remained focused on US-Iran peace negotiations amid signs of improving shipping activity through the Strait of Hormuz, although uncertainty persisted over whether Tehran would allow United Nations inspectors access to its nuclear facilities. Industrial stocks also traded higher, with Airbus up 0.9% and Safran gaining 2.2%. Meanwhile, Thales fell 1.2% as European defense stocks came under pressure after Rheinmetall plunged on reports that the German government may withdraw funding for a new warship project. Elsewhere, TotalEnergies lost 1.8% on lower oil prices.
 
 ---

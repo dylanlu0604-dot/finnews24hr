@@ -1,7 +1,37 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-06-27 13:32:02_
-_本檔包含 3500 則快訊，約 672443 字_
+_更新時間：2026-06-27 14:05:03_
+_本檔包含 3484 則快訊，約 672214 字_
+
+---
+
+### 2026-06-27 13:57:22  #其他
+
+【中國大唐與四川省政府簽署全面深化戰略合作協議】6月26日，中國大唐與四川省人民政府簽署全面深化戰略合作協議。根據協議，雙方將圍繞清潔能源開發利用、能源基礎設施建設、能源產業建圈強鏈、能源科技創新與成果轉化等方面開展深入合作，共同培育發展能源新質生產力，更好服務國家發展大局和四川現代化建設。
+
+---
+
+### 2026-06-27 13:52:28  #MKT News
+
+【WPS to add disk storage management and install-path selection in July after C: drive complaints】June 27 — WPS said it completed an investigation into concentrated user complaints about C: drive space usage and has started optimizations. A new version due in July will add an installer option to choose the installation path and will add a "Storage Management" module in settings that aggregates occupancy and releasable space for caches, file backups and cloud-document cache. WPS said caches and backups default to C: and opaque usage had frustrated some high-frequency users; the update’s stated aim is "install with choice, use with control," letting users see local disk usage and free files themselves.
+
+---
+
+### 2026-06-27 13:40:47  #MKT News #Market Themes #AI Revolution #CSI300 #Impact bullish #Copper #CNH
+
+【Compute-related products accelerate exports this year; Wuhan 800G+ optical module shipments surge over 100x YoY】China electromechanical exports hit 7.58 tln yuan in the first five months, accounting for 63.6% of total exports; monthly values have posted record highs for the comparable month for 15 consecutive months since March 2025. AI supply‑chain products contributed over 50% of this year’s incremental increase in electromechanical exports. Manufacturers report 24/7 production of key AI-server inputs, including electronic fabric. A Wuhan producer says exports of 800G+ optical modules have risen more than 100x YoY as global compute‑infrastructure buildout accelerates.
+
+---
+
+### 2026-06-27 13:37:56  #其他
+
+【WPS回應C盤佔用問題：將上線磁碟儲存管理功能】6月27日，針對近期使用者集中反饋的C盤佔用問題，WPS方面表示已完成排查並啟動最佳化，將於7月上線的新版本在安裝介面增加了路徑選擇功能；在使用環節，WPS在設定頁新增了"儲存管理"模組，快取、檔案備份、雲文件快取等各類檔案的佔用與可釋放空間集中展示。WPS表示，快取與備份預設存放在C盤、佔用情況不夠直觀，確實給部分高頻使用者造成了困擾，此次最佳化的核心邏輯是"安裝有選擇、使用可管理"，讓使用者從安裝到使用的每個環節中，都能清楚瞭解本地佔用了多少、哪些可以清理，並隨時自主管理。
+
+---
+
+### 2026-06-27 13:32:22  #其他
+
+【我國機電產品加速出海 有企業800G以上光模組出口暴漲百倍】今年前5個月，我國機電產品出口額7.58萬億元，佔我國出口總值的比重達到63.6%。自2025年3月起，連續15個月重新整理同期月度最高值。記者在浙江嘉興的一家工廠看到，這裡有近1000臺織布機正在織布，它是人工智慧伺服器中的電子布。電子布，是電子資訊產業當中的關鍵材料。隨著算力需求爆發，電子布需求也隨之增加。企業車間裡，產線24小時滿產執行。今年以來，和算力有關的相關產品加速出海。在武漢，光模組的生產線同樣24小時不停機。隨著全球算力基礎設施建設加速推進，今年以來，這家企業800G以上光模組出口同比增長超過100倍。資料顯示，今年以來，人工智慧產業鏈相關產品貢獻了機電產品出口增量的五成以上，成為重要拉動力。（央視財經）
 
 ---
 
@@ -21036,131 +21066,5 @@ Metals Commodities Updates: Copper Gains by 2.22% — Top commodity gainers are 
 ### 2026-06-26 02:20:01  #MKT News #XAUUSD #Impact bullish #DXY #WTI
 
 【Explosions heard in Kyiv】Around 9:00 p.m. local time on the 25th a reporter in Kyiv heard multiple strong explosions. Kyiv Mayor Klitschko and the city military administration said on social media that Russian forces launched ballistic missiles at Kyiv and that the city’s air-defence system is operating.
-
----
-
-### 2026-06-26 02:20:00  #國際
-
-【烏克蘭首都基輔傳出爆炸聲】當地時間25日晚9時許，記者在烏克蘭首都基輔聽到多次強烈爆炸聲。基輔市市長克利奇科和基輔市軍事管理局在社交媒體上說，俄軍向基輔市發射了彈道導彈，基輔市防空系統正在執行。（新華社）
-
----
-
-### 2026-06-26 02:19:32  #MKT News #Macro & Rates #The Fed (FOMC)
-
-Fed's GOOLSBEE welcomed the move to simplify the Federal Reserve's policy statement.
-
----
-
-### 2026-06-26 02:18:47  #央行 #國際
-
-美聯儲古爾斯比：我支援精簡美聯儲貨幣政策宣告。
-
----
-
-### 2026-06-26 02:17:18  #市場 #央行 #國際
-
-【凱投宏觀：金和白銀結束連跌勢頭，但黃金仍有進一步下跌的空間】黃金和白銀結算價雙雙走高，結束了兩者連續四天的跌勢。凱投宏觀的Hamad Hussain表示，儘管今天收盤上漲，但黃金仍有進一步下跌的空間，他不認為4,000美元是底部。“我們認為，黃金市場可能會擠出更多過度投機的成分，“他說。他將此歸因於AI/科技股繼續成為投機者首選的賺錢工具，以及市場認為由Kevin Warsh領導的美聯儲將在利率問題上保持偏緊縮立場的觀點。近月黃金期貨收盤上漲1%，至每盎司4,030.50美元，而白銀收盤上漲0.5%，至每盎司58.348美元。
-
----
-
-### 2026-06-26 02:16:04  #央行 #其他
-
-墨西哥央行公佈比索官方匯率：1 美元兌 17.5260 墨西哥比索。
-
----
-
-### 2026-06-26 02:15:52  #MKT News #Macro & Rates #The Fed (FOMC) #DXY #Impact bullish #US10Y #Impact bearish #EURUSD
-
-Fed's GOOLSBEE said inf may rise before wages increase.
-
----
-
-### 2026-06-26 02:15:33  #市場 #央行 #國際
-
-美聯儲古爾斯比：脹可能在薪資上漲之前先行攀升。
-
----
-
-### 2026-06-26 02:15:25  #央行 #國際
-
-美聯儲古爾斯比：薪資並非衡量通脹的理想先行指標。
-
----
-
-### 2026-06-26 02:15:25  #MKT News #Macro & Rates #The Fed (FOMC)
-
-Fed's Goolsbee said wages are not a good leading indicator of inflation.
-
----
-
-### 2026-06-26 02:15:16  #MKT News #Macro & Rates #DXY #Impact bullish #US10Y #Impact bearish #S&P500
-
-GOOLSBEE said a rise in core CPI driven by services would be more concerning than one driven by goods or oil-related items.
-
----
-
-### 2026-06-26 02:15:11  #Trading Economics #Markets #Commodity #Importance 1
-
-Energy Commodities Updates: Gasoline Rises by 4.94% — Top commodity gainers are Gasoline (4.94%), Heating Oil (4.44%), Natural gas (3.12%), Crude Oil WTI (2.18%) and Brent Crude Oil (1.87%). Biggest losers are Methanol (-1.77%), Germany Natural Gas THE (-1.32%) and Natural Gas EU (-0.66%).
-
----
-
-### 2026-06-26 02:14:40  #市場 #央行 #國際
-
-美聯儲古爾斯比：若核心消費者物價指數上漲由服務業驅動，相比商品或石油相關品類上漲，這會更令我擔憂。
-
----
-
-### 2026-06-26 02:14:22  #Trading Economics #Markets #commodity #Importance 0
-
-Gasoline is up by 5% — Gasoline increased 5% to 3.0258 USD/Gal
-
----
-
-### 2026-06-26 02:14:03  #央行 #國際
-
-美聯儲古爾斯比：認同沃什關於前瞻指引的觀點。
-
----
-
-### 2026-06-26 02:13:16  #MKT News #Important #Brent #Impact bullish #WTI #S&P500 #Impact bearish
-
-【WSJ: Iran attack on Singapore-flagged freighter tests US-Iran ceasefire deal】Two US senior officials told the Wall Street Journal that Iran’s Islamic Revolutionary Guard Corps attacked a Singapore-flagged freighter in the Strait of Hormuz on Thursday, an incident that tests last week’s US-Iran agreement to end hostilities and reopen the vital shipping lane. The UK Maritime Trade Operations said the vessel’s wheelhouse was damaged but there were no injuries; the strike occurred near Oman’s coast. Iranian paramilitary naval forces had warned hours earlier that ships must not use unapproved routes.
-
----
-
-### 2026-06-26 02:13:00  #公司 #國際
-
-【EDF擬就出售小型模組化反應堆子公司股權與義大利企業展開談判】據知情人士透露，法國電力公司（EDF）準備就出售其小型模組化核反應堆子公司的股權事宜，與義大利企業展開談判。週四在法國昂蒂布舉行的法意兩國領導人會晤期間，法國總統馬克龍與義大利總理焦爾吉婭·梅洛尼討論了Nuward子公司的相關計劃。EDF旗下的義大利子公司愛迪生公司（Edison）已與義大利核能企業簽署宣告，共同開發Nuward小型模組化反應堆技術，目標是在2035年前實現首批電廠投入運營。該專案旨在設計和建造小型反應堆，為更廣泛的客戶群提供低碳電力和熱能。由於電力成本高昂，義大利正考慮重返核電領域。
-
----
-
-### 2026-06-26 02:12:58  #MKT News #Macro & Rates #The Fed (FOMC) #DXY #Impact bullish #S&P500 #Impact bearish #XAUUSD
-
-Fed's Goolsbee said core inflation remains too high and is trending in the wrong direction.
-
----
-
-### 2026-06-26 02:12:49  #央行 #國際
-
-美聯儲古爾斯比：核心通脹仍過高，走勢方向錯誤。
-
----
-
-### 2026-06-26 02:11:44  #央行 #國際
-
-美聯儲古爾斯比：但當前通脹水平仍遠高於目標區間。
-
----
-
-### 2026-06-26 02:11:40  #MKT News
-
-GOOLSBEE said it remains well above the required level.
-
----
-
-### 2026-06-26 02:11:28  #MKT News #Macro & Rates #The Fed (FOMC) #S&P500 #Impact bullish #US10Y #DXY #Impact bearish
-
-Fed's Goolsbee sees some hopeful signs in services inflation.
 
 ---

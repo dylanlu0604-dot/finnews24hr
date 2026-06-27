@@ -1,7 +1,73 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-06-27 13:32:02_
-_本檔包含 3783 則快訊，約 672101 字_
+_更新時間：2026-06-27 14:05:03_
+_本檔包含 3766 則快訊，約 672075 字_
+
+---
+
+### 2026-06-24 23:59:15  #國際
+
+【特朗普：美方將參與國際原子能機構對伊朗核查行動】美國總統特朗普24日接受美國福克斯新聞頻道採訪時說，美方人員將參與國際原子能機構對伊朗核設施的核查行動。針對伊朗方面稱目前沒有允許國際原子能機構進入遭襲核設施的計劃，特朗普回應說，“他們會達成協議，將其寫成書面檔案，隨後又會出爾反爾，聲稱那並非事實”。特朗普表示：“他們已經同意了，同意核查人員進入。”他還說，並不急於讓核查人員立即進駐伊朗。（新華社）
+
+---
+
+### 2026-06-24 23:58:36  #Trading Economics #Markets #Euro Area #Stock Market #Importance 1
+
+European Stocks Close Mixed — European stock indices closed mixed on Wednesday as weakness for banks and the chip sector offset gains elsewhere. The Euro STOXX 50 dropped 0.2% to 6,215 while the STOXX Europe 600 inched higher to 635. US President Trump assured that Iran will not pressure vessels crossing the Strait of Hormuz for toll payments, solidifying the de-escalatory momentum and stretching the plunge in energy prices. Consequently, sovereign yields in the Eurozone retreated and lifted consumer discretionary companies, with Adidas, LVMH, Hermes, and Inditex rising up to 3%. Still, banks fell as markets took profits. In the meantime, Rheinmetall plunged 19% following reports that Germany plans to abandon proposals to build its largest warship since World War II and instead purchase eight smaller frigates from TKMS. Also, Argenx dropped over 7% on setbacks in its myositis drug trial update.
+
+---
+
+### 2026-06-24 23:57:20  #公司 #國際
+
+印度塔塔通訊表示，德里資料中心火災後，公司正盡最大努力推進後續恢復工作。
+
+---
+
+### 2026-06-24 23:56:36  #MKT News #TATACOMM.NS
+
+Tata Communications said a June 5 fire at its Delhi data center prompted immediate activation of its business continuity plan, citing a force majeure.
+
+---
+
+### 2026-06-24 23:56:17  #公司 #國際
+
+印度塔塔通訊：對於所有訂購了災難恢復與備份服務的客戶，公司已能夠保障服務連續執行，或已完成服務恢復。
+
+---
+
+### 2026-06-24 23:56:12  #公司 #國際
+
+印度塔塔通訊：6月5日德里資料中心火災發生後，公司立即啟動了針對不可抗力事件預設的業務連續性預案。
+
+---
+
+### 2026-06-24 23:55:43  #國際
+
+據TankerTrackers：自2026年6月15日起，伊朗已出口4000萬桶原油。其中總量的一半都集中在單日外運，也就是上週五（2026年6月19日）。
+
+---
+
+### 2026-06-24 23:55:21  #MKT News #Important #Commodities #Energy #WTI #Impact bearish #Brent
+
+Sources said due to refinery shutdowns Russia's oil exports from western ports are expected to hit a record 2.7 mln bpd in June.
+
+---
+
+### 2026-06-24 23:54:31  #公司 #市場 #國際
+
+【特朗普批評汽油價格下跌不夠快 稱已命令司法部展開調查】美國總統特朗普抱怨汽油價格下降速度不夠快，稱他已下令司法部調查汽油價格。“大型石油公司並沒有像他們支付的石油價格大幅下降那樣，相應地下調加油站的汽油價格，”他在社交媒體上發帖稱，“汽油價格最好能比我現在看到的降得快得多！”特朗普沒有詳述向司法部下達的指示。
+
+---
+
+### 2026-06-24 23:54:16  #焦點 #國際
+
+訊息人士稱，由於煉油廠維持閒置狀態，俄羅斯6月經西部港口出口的石油量將達到創紀錄的270萬桶/日。
+
+---
+
+### 2026-06-24 23:53:51  #Trading Economics #Markets #France #Stock Market #Importance 0
+
+CAC 40 Rebounds on Luxury Sector Gains — The CAC 40 rose 0.5% to close at 8,385 on Wednesday, snapping a three-session losing streak as gains in the luxury sector supported the index. Luxury heavyweights outperformed after Jefferies raised L'Oreal’s target price to €328 from €323, while maintaining a “below market performance” recommendation and citing elevated profitability. Peers LVMH (+1.9%), Hermes (+1.5%), and Kering (+1%) also advanced. Investors remained focused on US-Iran peace negotiations amid signs of improving shipping activity through the Strait of Hormuz, although uncertainty persisted over whether Tehran would allow United Nations inspectors access to its nuclear facilities. Industrial stocks also traded higher, with Airbus up 0.9% and Safran gaining 2.2%. Meanwhile, Thales fell 1.2% as European defense stocks came under pressure after Rheinmetall plunged on reports that the German government may withdraw funding for a new warship project. Elsewhere, TotalEnergies lost 1.8% on lower oil prices.
 
 ---
 
@@ -22648,173 +22714,5 @@ Bank of England policymaker Taylor said if more easing room materializes as envi
 ### 2026-06-23 21:19:22  #Trading Economics #Economy #Mexico #Monthly GDP YoY #Importance 0
 
 Mexico Economic Activity Growth Beats Forecasts — Mexico’s economic activity rose 2.3% year-on-year in April 2026, beating forecasts of a 1.9% increase and accelerating from a 1.4% rise in March. The primary sector led growth, expanding 4.4%, as agricultural output increased 4.2% and livestock production rose 4.8%. The secondary sector grew 2.3%, supported by stronger construction activity (10.4%) and mining (3.4%). Meanwhile, the tertiary sector advanced 2.2%, with wholesale trade posting the strongest gain at 10.6%. On a month-over-month basis, economic activity rose 1.2%.
-
----
-
-### 2026-06-23 21:19:07  #MKT News #Macro & Rates #GBPUSD #Impact bullish #DXY #Impact bearish
-
-Bank of England policymaker Taylor said Bank Rate is about 75 basis points above his estimate of the neutral rate.
-
----
-
-### 2026-06-23 21:18:58  #MKT News #GBPUSD
-
-Bank of England MPC member Taylor said in his view holding rates unchanged at this level is the correct and appropriate policy response.
-
----
-
-### 2026-06-23 21:18:49  #市場
-
-標普500指數期貨跌幅擴大至1.5%。
-
----
-
-### 2026-06-23 21:18:45  #焦點 #國際
-
-【伊朗強調可自由使用被解凍資產】據伊朗伊斯蘭共和國通訊社23日報道，伊朗外交部發言人巴加埃當天在德黑蘭舉行的每週例行記者會上表示，伊朗將完全根據國家利益決定如何使用其被解凍資產，且不會受到任何限制。此前有媒體猜測根據伊美達成的協議，伊朗被解凍資金的使用許可權或將受限，可能僅限於購買包括美國食品在內的特定商品。巴加埃對此駁斥說，“這方面沒有任何限制”，在購買商品方面，“伊朗農業部等相關機構將根據價格和質量做出決定”。巴加埃還說，美國頒發的伊朗原油、石化產品、成品油及相關服務的銷售許可證已於22日生效，同樣的原則也適用於已解凍的伊朗資產。“伊朗此前被凍結的資產現在完全可用，並可根據自身優先事項自由使用。”（新華社）
-
----
-
-### 2026-06-23 21:18:32  #市場
-
-澳元兌美元下跌1%，至日內低點0.6931。
-
----
-
-### 2026-06-23 21:18:18  #央行 #其他
-
-英國央行泰勒：當前銀行利率較我對中性利率的估算高出75個基點。
-
----
-
-### 2026-06-23 21:17:52  #國際
-
-在美國當局打擊非法電子煙產業之際， Shopify將禁止平臺銷售電子煙產品。
-
----
-
-### 2026-06-23 21:17:46  #國際
-
-伊朗宣佈德黑蘭為阿里・哈梅內伊的葬禮設立三天假期。
-
----
-
-### 2026-06-23 21:17:37  #央行 #其他
-
-英國央行泰勒：在我看來，在當前利率水平延長維持政策不變，完全是我們所需的正確、適度的政策應對。
-
----
-
-### 2026-06-23 21:17:19  #MKT News #Brent #Impact bullish #XAUUSD #DXY
-
-IDF says HEZBOLLAH militants have crossed the Lebanese security zone.
-
----
-
-### 2026-06-23 21:17:04  #MKT News #XAUUSD #Impact bullish #WTI #DXY
-
-IDF said it struck a HEZBOLLAH cell operating under civilian cover.
-
----
-
-### 2026-06-23 21:17:03  #國際
-
-【FE電動方程式公佈其有史以來規模最大賽歷】6月23日，FE電動方程式與國際汽聯FIA公佈2026/27賽季ABB國際汽聯電動方程式世界錦標賽的初步賽歷。新賽季將以21場比賽、13座城市的史上最大規模亮相，包括美國奧斯汀的美洲賽道（COTA）與荷蘭贊德沃特賽道（MASCOT Zandvoort Circuit）的首次辦賽，以及倫敦站將移師至歷史悠久的布蘭茲哈奇賽道（Brands Hatch）。
-
----
-
-### 2026-06-23 21:16:46  #公司 #國際
-
-【鏈博會展鏈條展生態展場景】在第四屆鏈博會現場，央視財經記者專訪中國貿促會副會長聶文慧。聶文慧表示：“鏈博會是以鏈為思維，展鏈條、展生態、展場景。有一家美國企業——思佳訊公司，主要為蘋果提供配套，今年年初我與該公司相關負責人交流後，對方三週內便決定參展並辦理了相關手續，如今其展位就在蘋果公司展位旁。該負責人稱，參展不僅拉近了企業與中國合作伙伴的聯絡，也加深了和美國本土企業的往來。可以說，鏈博會是中國的，也是世界的，全球企業都能在這裡共同發展、攜手成長。”（央視財經）
-
----
-
-### 2026-06-23 21:16:08  #其他
-
-【摩根資產管理李德輝：判斷AI不能只看短週期資料 行情需跟蹤商業化閉環】摩根資產管理中國基金經理李德輝在摩根資產管理領航者機構策略會上表示，判斷AI不能只看短週期資料，核心在於AI能否成為普遍使用的生產工具，並嵌入使用者生活和工作場景。從資金角度看，AI資本開支的可持續性取決於融資能力和消費者付費提升能否形成商業閉環。對於近期AI交易過於集中的現象，李德輝表示，資金向AI方向集中到“過載”後，波動是正常的。其投資上更傾向於選擇業績確定、估值不貴且自身把握度較高的方向；對於部分漲價環節，當前市場定價已較為激進和充分，需要保持克制。
-
----
-
-### 2026-06-23 21:15:57  #央行 #其他
-
-匈牙利央行行長：需觀察此次下降是否具有持續性。
-
----
-
-### 2026-06-23 21:15:42  #國際
-
-以色列國防軍稱其打擊了一支藏匿於平民區域活動的真主黨小隊。
-
----
-
-### 2026-06-23 21:15:37  #央行 #其他
-
-匈牙利央行行長：福林升值對進口商品的傳導正變得愈發廣泛。
-
----
-
-### 2026-06-23 21:14:49  #央行 #其他
-
-匈牙利福林兌歐元匯率從354.50走貶至356，因央行暗示將進一步降息。
-
----
-
-### 2026-06-23 21:13:40  #公司
-
-【永輝超市：副總裁羅雯霞減持81,600股股份 減持計劃實施完畢】永輝超市公告稱，副總裁羅雯霞原持有公司股份326,460股，佔當時總股本的0.0036%。2026年5月30日披露減持計劃，擬減持不超81,615股，佔當時總股本0.0009%。截至6月23日，其透過集中競價方式減持81,600股，佔總股本0.0009%，減持總金額256,440元，減持計劃實施完畢，當前持股244,860股，佔比0.0027%。
-
----
-
-### 2026-06-23 21:13:33  #公司
-
-【摩根資產管理葉敏：創新藥股價與基本面背離 極致分化提供投資機會】摩根資產管理中國基金經理葉敏在摩根資產管理領航者機構策略會上表示，今年以來市場分化明顯，以AI為代表的科技公司吸收了大量流動性，而部分基本面紮實、成長前景較好的醫藥公司股價持續承壓，股價與基本面出現背離。她認為，中國製藥行業全球競爭力仍在持續提升，海外先進生物製藥向中國進行產業鏈轉移的趨勢不可逆。極致分化反而為參與優質醫藥公司投資提供了更好機會。她同時提示，創新藥投資波動較大，需要結合臨床資料、海外授權、商業化進展和估值變化進行動態管理。
-
----
-
-### 2026-06-23 21:13:13  #央行 #國際
-
-匈牙利央行行長：歐盟資金可從明年起提振投資。
-
----
-
-### 2026-06-23 21:13:09  #公司
-
-【奇瑞西班牙合資工廠啟動新生產線】西班牙埃夫羅汽車集團22日宣佈，其與中國汽車製造商奇瑞在巴塞羅那自由貿易區合資運營的埃夫羅工廠當天啟用全新生產線，進一步提升產能。 記者從埃夫羅汽車集團獲悉，新啟用的M1生產線全長696米，設有97個工作站，單車生產週期約75分鐘。目前，該生產線用於生產S400和S700各動力版本車型，設計上最多可生產5款不同車型，併為埃夫羅工廠2027年推出的純電動車型預留產能。（新華社）
-
----
-
-### 2026-06-23 21:12:28  #央行 #其他
-
-匈牙利央行行長：消費者信心增強可提振經濟增長。
-
----
-
-### 2026-06-23 21:11:40  #其他
-
-義大利經濟部長：義大利2025年赤字仍有可能控制在3%以內。
-
----
-
-### 2026-06-23 21:11:27  #央行 #其他
-
-匈牙利央行行長：赤字路徑與歐元加入預期將主導未來風險評估方向。
-
----
-
-### 2026-06-23 21:11:24  #MKT News #S&P500 #Impact bullish #DXY #Impact bearish #EURUSD
-
-Hungary's central bank says the global risk environment has become more favorable.
-
----
-
-### 2026-06-23 21:11:11  #央行 #國際
-
-匈牙利央行行長：國內資產風險溢價已降至低位，部分得益於與歐盟達成的協議。
-
----
-
-### 2026-06-23 21:11:05  #公司 #觀點 #國際
-
-【摩根大通：亞馬遜Prime Day活動銷售額最高可達80億美元】摩根大通的分析師表示，預計亞馬遜為期四天的Prime活動將在第二季度創造70億至80億美元的全球增量收入。亞馬遜於週二啟動了第12屆年度Prime Day活動，這項為期四天的活動在超過35個國家提供數以百萬計的優惠。這是自2021年以來Prime Day首次在第二季度舉行。摩根大通的分析師認為，提前舉行將有助於亞馬遜創造更多需求，同時避開世界盃和美國建國250週年紀念日的影響。摩根大通的分析師預計，活動期間第三方銷售額的日均增長率將為6%，直接銷售的日均增長率將為7%。
 
 ---
