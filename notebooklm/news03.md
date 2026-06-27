@@ -1,7 +1,31 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-06-28 06:04:46_
-_本檔包含 3887 則快訊，約 669660 字_
+_更新時間：2026-06-28 06:34:50_
+_本檔包含 3879 則快訊，約 669674 字_
+
+---
+
+### 2026-06-25 06:23:41  #MKT News
+
+【Around magnitude-7 quake off Venezuela's northern coast; US issues tsunami warning】At 17:04 local time on June 24 an earthquake struck off Venezuela's northern coast. Colombia's Geological Service reported a magnitude 7.5 quake, epicentre at 10.89°N, 67.74°W, depth under 30 km; the USGS reported a 7.1 quake near Morón. The US Tsunami Warning System issued a tsunami threat alert. Authorities are monitoring; there are no official reports of casualties or damage.
+
+---
+
+### 2026-06-25 06:23:05  #國際
+
+【委內瑞拉發生7級左右地震 美國發布海嘯預警】當地時間6月24日17時04分，委內瑞拉北部海岸附近發生7.5級地震。根據哥倫比亞地質局釋出的最新地震通報，震中位於北緯10.89度、西經67.74度，震源深度小於30公里。目前，相關部門正持續監測地震影響，暫無人員傷亡和財產損失的官方報告。當地時間6月24日，美國地質調查局表示，委內瑞拉莫龍地區發生7.1級地震。美國海嘯預警系統在地震後釋出海嘯威脅警報。（央視新聞）
+
+---
+
+### 2026-06-25 06:22:04  #國際
+
+美國海嘯預警系統：委內瑞拉震中周邊 300 公里範圍內海岸或出現危險性海嘯巨浪。
+
+---
+
+### 2026-06-25 06:21:05  #公司 #市場
+
+【6月25日美股成交額前20：美光科技盤後大漲 營收翻兩番 毛利率躍升近85%】週三美股成交額第1名美光科技，收跌0.31%，成交671.11億美元。 美光科技美股盤後釋出財報，營收較一年前的93億美元大幅增長。對於當前季度，公司預計營收約為500億美元，而一年前同期僅為113億美元。根據LSEG的資料，分析師此前的營收預測為435.8億美元。該公司在第三財季的營收翻了兩番以上。受此訊息提振，該股在盤後交易中上漲超10%。 美光科技表示，受AI驅動的需求影響，預計記憶體供應緊張的局面將持續至2027年之後。公司還表示，已與資料中心運營商和汽車製造商等客戶簽署了16項長期協議，鎖定了為期3至5年的銷售額。 美光科技毛利率躍升至84.9%，高於上一季度的74.9%以及去年同期的39%。這一利潤率表現同樣超出了分析師的預期。 當季公司淨利潤為282.4億美元，合每股24.46美元；而去年同期淨利潤為18.9億美元，合每股1.68美元。
 
 ---
 
@@ -23383,77 +23407,5 @@ Iranian President PEZESHKIAN said Pakistan's efforts were essential to today's a
 ### 2026-06-24 00:28:40  #MKT News #Market Themes #AI Revolution #Market Regions #Japan & APAC #Nikkei 225 #Impact bullish #USDJPY #Impact bearish
 
 【Blackstone to invest $30 billion in Japanese AI data centers】Blackstone plans to invest $30 billion in AI data centers in Japan over the next three to five years, president and COO Jonathan Gray told Nikkei. The firm is negotiating to develop facilities exceeding 1 GW in Japan.
-
----
-
-### 2026-06-24 00:25:35  #MKT News #Market Themes #The Trump Trade
-
-Axios reports President Trump is expected to announce on Tuesday that he will deliver the keynote at the Pennsylvania Defense and Innovation Summit on July 15 at the U.S. Army War College, hosted by Pennsylvania Sen. Dave McCormick.
-
----
-
-### 2026-06-24 00:25:05  #其他
-
-沙特房地產管理局釋出宣告，現已開始受理外國人不動產所有權申請。
-
----
-
-### 2026-06-24 00:23:00  #國際
-
-伊朗總統：伊朗與巴基斯坦均決心深化雙邊經貿往來。
-
----
-
-### 2026-06-24 00:22:29  #MKT News #Important
-
-【Pakistan PM: MoU did not mention Iran's ballistic missile capability】Al Jazeera reports Pakistan PM Shehbaz Sharif said the U.S.-Iran memorandum of understanding did not mention ballistic missiles because the issue was never on the table. He warned against double standards, saying Tehran should not be restricted while other countries are free to possess ballistic missiles.
-
----
-
-### 2026-06-24 00:22:14  #國際
-
-據伊朗伊斯蘭共和國通訊社（IRNA）： 真主黨表示，停火之後，下一階段的目標是以色列軍隊全部撤出黎巴嫩領土。
-
----
-
-### 2026-06-24 00:21:26  #國際
-
-據Axios：特朗普將出席麥考密克防務峰會。
-
----
-
-### 2026-06-24 00:19:44  #國際
-
-伊朗總統：我們堅信唯有透過坦誠對話與區域內合作，才能實現地區和平與穩定。
-
----
-
-### 2026-06-24 00:19:10  #國際
-
-伊朗總統：我們伸出友誼之手，同地區各國一道構建全新地區安全架構。
-
----
-
-### 2026-06-24 00:18:07  #MKT News
-
-Iranian President Pezeshkian said regional issues should be discussed only on the basis of mutual respect.
-
----
-
-### 2026-06-24 00:17:56  #國際
-
-據伊朗伊斯蘭共和國通訊社（IRNA）：伊朗和阿曼同意成立霍爾木茲海峽委員會。
-
----
-
-### 2026-06-24 00:17:55  #MKT News #WTI #Impact bearish #Brent
-
-IRNA reports Iran and Oman have agreed to form a Strait of Hormuz committee.
-
----
-
-### 2026-06-24 00:17:21  #MKT News
-
-Iranian President Pezeshkian said he hopes to open a new chapter in relations with Pakistan.
 
 ---
