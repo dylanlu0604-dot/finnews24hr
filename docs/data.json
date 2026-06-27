@@ -1,7 +1,23 @@
 {
-  "updated": "2026-06-27 17:32:03",
-  "count": 18187,
+  "updated": "2026-06-27 17:36:08",
+  "count": 18188,
   "items": [
+    {
+      "id": "mkt:019f086b-e6a9-7dd8-b141-79be7d50ca1d",
+      "time": "2026-06-27 17:31:56",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Iran police estimate 30–35% of population will attend funeral for late Supreme Leader Ali Khamenei】On the 27th (local time), Iran’s police estimated roughly 30–35% of the population will attend the farewell, funeral and burial ceremonies for the late Supreme Leader Ali Khamenei, scheduled for July. Police put attendance at about 15–20 mln in Tehran, 3.5–8 mln in Mashhad and 3–5 mln in Qom."
+    },
+    {
+      "id": "4958338",
+      "time": "2026-06-27 17:31:48",
+      "tags": [
+        "國際"
+      ],
+      "text": "【烏總統稱烏軍打擊俄軍工廠】烏克蘭總統澤連斯基27日在社交媒體釋出訊息說，當日凌晨，烏軍使用“火烈鳥”巡航導彈擊中俄羅斯伏爾加格勒一家軍工企業。澤連斯基說，該軍工企業是俄方生產火炮系統和特種軍事裝備的大型工業綜合體。烏導彈命中該企業並引發工廠區域火災。澤連斯基稱，每一個用於對烏戰爭的俄羅斯國防設施都是烏克蘭遠端打擊的“合法目標”，烏方遠端打擊的地理範圍“正不斷擴大”。（新華社）"
+    },
     {
       "id": "4958337",
       "time": "2026-06-27 17:28:58",
@@ -166375,16 +166391,6 @@
         "國際"
       ],
       "text": "巴基斯坦內政部長納克維抵達伊朗馬什哈德。 他將前往伊瑪目禮薩聖陵參訪，並舉行一系列政治會談，然後將前往德黑蘭。"
-    },
-    {
-      "id": "mkt:019ee462-3ceb-7dd8-b09e-3d7133073647",
-      "time": "2026-06-20 17:35:03",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Industrial Metals"
-      ],
-      "text": "【Russia to impose 8% export tax on some diamonds】Russia will impose an 8% export tax on certain diamonds from Sept. 1, local time, aimed at protecting its domestic diamond-cutting and processing industry. The tax covers uncut and partially processed diamonds weighing 0.45–10.8 carats and special-size diamonds above 10.8 carats; exports to Eurasian Economic Union members are exempt."
     }
   ]
 }
