@@ -1,7 +1,33 @@
 {
-  "updated": "2026-06-27 19:59:05",
-  "count": 18202,
+  "updated": "2026-06-27 20:03:24",
+  "count": 18201,
   "items": [
+    {
+      "id": "mkt:019f08f3-95bc-7dd8-b142-1c022bc441fe",
+      "time": "2026-06-27 20:00:08",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Europe's oldest operating nuclear plant Beznau taken offline after cooling river water warmed, Axpo says】Axpo said on the 26th local time the Beznau nuclear plant in northern Switzerland was taken offline after river water used to cool the reactor became too warm amid high temperatures."
+    },
+    {
+      "id": "4958397",
+      "time": "2026-06-27 20:00:02",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "本週大盤主力資金累計淨流入-3398.08億元，證券Ⅱ、醫療服務板塊淨流入居前，個股惠科股份淨流入最多。"
+    },
+    {
+      "id": "4958396",
+      "time": "2026-06-27 19:59:38",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【歐洲現役最老核電站因高溫暫停執行】由於高溫天氣導致用於冷卻核反應堆的河水溫度過高，瑞士能源企業阿克斯波公司當地時間26日說，位於瑞士北部的貝茲瑙核電站已於當天暫停執行。這座核電站是歐洲現役最老的核電站。（央視新聞）"
+    },
     {
       "id": "4958395",
       "time": "2026-06-27 19:56:00",
@@ -166492,39 +166518,6 @@
         "國際"
       ],
       "text": "【外媒：孟加拉國總理拉赫曼將於下週訪華，系就任後首次出訪】據法新社、美國彭博社等媒體20日報道，孟加拉國總理塔裡克·拉赫曼將於下週訪問馬來西亞和中國。彭博社稱，這將是拉赫曼自今年2月就任以來的首次出訪活動。孟加拉國通訊社提到，孟加拉國外交部官員表示，拉赫曼將前往馬來西亞，隨後前往中國。孟加拉國官員稱，貿易與基礎設施專案將成為拉赫曼訪華期間雙方討論的重點議題。孟加拉國外交部官員表示，此次訪問被視為一項重要外交舉措，旨在加強孟加拉國的經濟夥伴關係、吸引外國投資，並促進區域互聯互通。（環球網）"
-    },
-    {
-      "id": "4945804",
-      "time": "2026-06-20 20:01:41",
-      "tags": [
-        "其他"
-      ],
-      "text": "【英國火車相撞事故受傷人數升至99人】當地時間20日，英國緊急部門對貝德福德地區列車相撞事故發表最新宣告。英國交通警察局局長表示，目前仍有28名傷者留院治療，其中9人情況危急。事故發生後共有33名傷者因“嚴重”或“非常嚴重”的傷勢被送往醫院接受治療。英國東英格蘭救護服務中心發言人表示，貝德福德地區列車相撞事故共造成99人受傷，傷者統計較之前的89人增加了10人。救援行動共出動20輛救護車以及多架空中救護直升機參與轉運和救治工作。"
-    },
-    {
-      "id": "4945803",
-      "time": "2026-06-20 20:00:13",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "印度太陽製藥：將以27億盧比收購InnovCare生命科學公司100%股權。"
-    },
-    {
-      "id": "4945802",
-      "time": "2026-06-20 20:00:02",
-      "tags": [
-        "市場"
-      ],
-      "text": "本週大盤主力資金累計淨流入-130.38億元，半導體、通訊裝置板塊淨流入居前，個股中際旭創、兆易創新淨流入最多。"
-    },
-    {
-      "id": "mkt:019ee4e6-343e-7dd8-b09e-e9316134f386",
-      "time": "2026-06-20 19:59:12",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "IAEA: Repairs to the ZAPORIZHZHIA NUCLEAR PLANT's main 750 kV Dniprovska transmission line are under way during a localized ceasefire brokered by the agency and monitored by its teams on both banks of the Dnipro River."
     }
   ]
 }
