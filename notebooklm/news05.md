@@ -1,7 +1,97 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-06-27 23:40:12_
-_本檔包含 3525 則快訊，約 671477 字_
+_更新時間：2026-06-28 00:07:29_
+_本檔包含 3526 則快訊，約 670908 字_
+
+---
+
+### 2026-06-22 21:07:30  #其他
+
+META將作為少數投資者加入CRED的股權結構表。
+
+---
+
+### 2026-06-22 21:07:25  #MKT News #Market Regions #Europe & UK #DAX #Impact bullish #FTSE100
+
+European STOXX 600 continued to rise after comments from ECB President Lagarde.
+
+---
+
+### 2026-06-22 21:07:11  #公司
+
+【斯塔默宣佈辭職後 英國財政大臣裡夫斯稱經濟領域仍有諸多工作待推進】英國財政大臣蕾切爾・裡夫斯在基爾・斯塔默宣佈即將卸任首相後表示，當下“仍有許多工作亟待完成”，暗示她希望自己推出的各項經濟規劃能夠在新任工黨領袖的任期內繼續落地實施。 目前尚不清楚裡夫斯是否會繼續留任財政大臣一職。 這位財政大臣表示：“我們攜手取得了諸多值得驕傲的成就，但前路依舊任重道遠。我由衷感謝基爾的領導，感謝他為建設一個更強大、更安全的英國所付出的一切努力。” 裡夫斯稱，得益於工黨政府的施政，“英國經濟如今抵禦全球動盪的能力顯著提升”。她列舉英國的亮眼成績：“今年年初，英國是七國集團中經濟增速最快的國家……我們已經實現六次降息，通貨膨脹率也保持穩定。”
+
+---
+
+### 2026-06-22 21:07:06  #Trading Economics #Markets #Greece #Stock Market #Importance 0
+
+Stocks in Greece Hit 16-1/2-year High — Athens General increased to 2489.00 Index Points, the highest since November 2009. Over the past 4 weeks, Athens Stock Exchange General gained 7.28%, and in the last 12 months, it increased 36.77%.
+
+---
+
+### 2026-06-22 21:07:06  #MKT News #EURUSD #Impact bearish #DXY #Impact bullish #XAUUSD
+
+ECB President Lagarde said the public does not expect high inflation to persist.
+
+---
+
+### 2026-06-22 21:07:01  #國際
+
+受拉加德言論影響，STOXX 歐洲 600 指數延續漲勢。
+
+---
+
+### 2026-06-22 21:07:01  #MKT News #Market Themes #AI Revolution #MU.O #Impact bullish
+
+【Micron signs multi-year storage supply agreement with ANTHROPIC】Micron has signed a multi-year agreement to supply data‑center HBM, DRAM and SSD products to ANTHROPIC, with supply commitments tied to ANTHROPIC's long-term compute expansion for training and deploying the Claude model. Micron has deployed Claude across its engineering, manufacturing and corporate functions to support code generation and agent workflows. Micron also participated as a strategic investor in ANTHROPIC's Series H financing.
+
+---
+
+### 2026-06-22 21:06:55  #MKT News #LCID.O #Impact bullish
+
+Lucid Group (LCID.O) expects its plan to deliver about $158 mln in annualized cost savings.
+
+---
+
+### 2026-06-22 21:06:47  #其他
+
+超微電腦：推出基於英偉達 VERA RUBIN 的解決方案架構方案。
+
+---
+
+### 2026-06-22 21:06:29  #央行 #國際
+
+歐洲央行行長拉加德：公眾並不預期高通脹會持續。
+
+---
+
+### 2026-06-22 21:06:16  #國際
+
+Lucid Group(LCID.O)計劃將美國員工人數減少約18%。
+
+---
+
+### 2026-06-22 21:06:11  #央行 #國際
+
+歐洲央行行長拉加德：前景不確定，通脹上行風險與經濟增長下行風險並存。伊朗戰爭對經濟活動造成壓力，資料顯示經濟放緩，尤其是在服務業方面。目前尚無證據表明脫錨或二次效應需要更強有力的政策行動。我們有信心，透過適當的貨幣政策措施，通脹將回歸目標。
+
+---
+
+### 2026-06-22 21:06:00  #MKT News #LCID.O #Impact bearish
+
+Lucid Group (LCID.O) plans to cut about 18% of its U.S. workforce.
+
+---
+
+### 2026-06-22 21:05:43  #其他
+
+【拉卡拉與Visa簽署戰略合作備忘錄】6月22日，第四屆中國國際供應鏈促進博覽會（鏈博會）在京舉辦，活動期間，拉卡拉與全球支付網路機構Visa正式簽署戰略合作備忘錄（MoU）。雙方將圍繞跨境B2B支付場景深化合作，推動企業間支付流程最佳化與跨境資金流轉效率提升，助力外貿企業更好地融入全球供應鏈體系。
+
+---
+
+### 2026-06-22 21:05:41  #MKT News
+
+Morgan Stanley plans to spend $1.3 billion to acquire an office tower to expand its Dallas operations and expects the building to provide about 4,800 jobs.
 
 ---
 
@@ -21173,89 +21263,5 @@ CENC measured a magnitude 3.2 earthquake at 00:10 on June 21 in Haixi prefecture
 ### 2026-06-21 00:15:36  #其他
 
 【法國發布高溫紅色預警，音樂節全面禁止飲酒】法國政府於週六宣佈，週日中午起將啟動高溫紅色預警的各省行政區，6月21日舉辦的年度夏至音樂節期間全面禁止飲酒。法國總理勒科爾尼召開危機工作會議後，總理辦公室釋出宣告稱：“各省省長將頒佈政令，在高溫紅色預警覆蓋區域的公共場所禁止飲酒。”宣告補充道：“所有由國家及下屬機構主辦的活動，均已下達禁止供應酒水的指令。”法國氣象局在週六釋出最新氣象通報，宣佈包括巴黎在內的35個省份週日將觸發高溫紅色預警，並表示：“全國大範圍地區將長期遭遇極端高溫天氣。”
-
----
-
-### 2026-06-21 00:06:36  #國際
-
-以色列高階外交人士：總理內塔尼亞胡一再澄清以色列將留在安全區，只要需要保護北部邊境，他指示以色列國防軍對真主黨的每一次攻擊作出強有力回應，並採取行動消除針對我們部隊的威脅。作為對過去兩天真主黨攻擊的回應，以色列國防軍打擊了300個目標，並消除了約100名人員。如果真主黨再次攻擊我們，我們將再次強力打擊它。
-
----
-
-### 2026-06-21 00:05:35  #MKT News
-
-【Meloni rebukes Trump, says he should focus on his approval rating】Italian Prime Minister Meloni on the 20th rebuked US President Trump’s recent criticism, calling his "sustained and baseless" attacks meaningless and saying he should focus on his own approval rating. She said her domestic support depends on her ability to defend Italy’s national interests, not her relationship with Trump. Trump had earlier posted that Meloni repeatedly sought photos with him at the G7 and suggested her support fell because she "refused" the US on Iran; he also criticized Italy’s refusal to open airports for related US military operations.
-
----
-
-### 2026-06-21 00:05:20  #國際
-
-【義大利總理回擊特朗普批評：應關注自身支援率】義大利總理梅洛尼20日就美國總統特朗普針對其政府的最新批評作出回應，稱特朗普“持續且毫無理由的攻擊毫無意義”，他應“把注意力放在自己的支援率上”。梅洛尼當天發表宣告說，她的支援率高低並不取決於與特朗普的關係，而是取決於自己維護義大利國家利益的能力。她表示，自己的支援率“與特朗普無關”。（新華社）
-
----
-
-### 2026-06-21 00:04:56  #MKT News
-
-US President Trump said the name of U.S. Immigration and Customs Enforcement (ICE) should be changed to "NICE", saying the change would completely confuse corrupt, dishonest and unpatriotic reporters and journalists.
-
----
-
-### 2026-06-21 00:02:18  #MKT News
-
-【Netanyahu, Katz order IDF to cease fire in Lebanon】Israeli sources said on the 20th Prime Minister Netanyahu and Defense Minister Katz ordered the Israel Defense Forces to cease fire in Lebanon, while directing that forces not immediately withdraw from southern Lebanon. Separately, after a situation assessment, Chief of General Staff Zamir ordered a ceasefire in southern Lebanon.
-
----
-
-### 2026-06-21 00:01:19  #MKT News #Important #Commodities #Energy #WTI #Impact bullish #Brent
-
-Mehr news agency reports an adviser to Iran's Supreme Leader said if an agreement remains on paper, Middle East energy flows will continue to be disrupted.
-
----
-
-### 2026-06-21 00:01:16  #MKT News #DXY #Impact bullish #EURUSD #Impact bearish #Brent
-
-【Trump says Italian PM Meloni refused U.S. on Iran, denied airfield access】U.S. President Trump posted on social media on June 20 saying Italian Prime Minister Meloni refused to support the U.S. in preventing Iran from obtaining or developing nuclear weapons and declined U.S. use of Italian airfields and runways, causing significant logistical inconvenience despite the billions the U.S. spends annually to defend Italy and other NATO allies.
-
----
-
-### 2026-06-21 00:01:01  #焦點 #國際
-
-伊朗最高領袖顧問表示，若協議僅停留在紙面上，中東能源運輸將繼續停滯。
-
----
-
-### 2026-06-20 23:59:37  #MKT News #XAUUSD #Impact bullish #DXY #Brent
-
-Local governor said Russian forces used glide bombs to strike Zaporizhzhia in southeastern Ukraine, killing four and wounding six.
-
----
-
-### 2026-06-20 23:58:25  #國際
-
-黎巴嫩陸軍司令：維護安全與穩定是國家優先事項，並防止以色列透過破壞內部安全來實現該目標。
-
----
-
-### 2026-06-20 23:51:50  #國際
-
-烏克蘭地方官員稱，俄羅斯軍隊使用滑翔炸彈打擊烏克蘭東南部的扎波羅熱，造成4人死亡、6人受傷。
-
----
-
-### 2026-06-20 23:48:49  #國際
-
-伊朗總統辦公室：由佩澤希其揚主持，議會議長、司法總監出席的會議，商討了即將開展的談判程序與維護國家利益相關事宜。
-
----
-
-### 2026-06-20 23:48:18  #其他
-
-翻朗革命衛隊海軍：我方已全面封鎖霍爾木茲海峽。
-
----
-
-### 2026-06-20 23:46:09  #國際
-
-美國參議員斯科特透露，特朗普將於下週三出席參議院共和黨午餐會。
 
 ---

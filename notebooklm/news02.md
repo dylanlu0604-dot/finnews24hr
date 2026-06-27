@@ -1,7 +1,25 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-06-27 23:40:12_
-_本檔包含 3793 則快訊，約 671637 字_
+_更新時間：2026-06-28 00:07:29_
+_本檔包含 3791 則快訊，約 670736 字_
+
+---
+
+### 2026-06-26 07:35:48  #觀點 #國際
+
+【美國銅關稅決定倒計時 “算力金屬”供需迎變局】去年7月，美國政府曾公佈關於銅的關稅方案，此前僅針對銅半成品等徵收50%關稅，而精煉銅暫獲豁免，但計劃自2027年起分階段對精煉銅加徵關稅。該方案最終落地與否將在6月底敲定，美國商務部需於6月30日前提交“232關稅”的調查報告，並據此作出最終決策。隨著6月30日美國“232關稅”調查報告出具時點臨近，全球AI算力相關金屬市場將迎來新一輪波動。高盛等國際投行分析，若美國落地針對銅的新一輪關稅政策，美國採購方或將開啟大規模囤貨。當前美國COMEX銅庫存已突破65萬噸，創下歷史高位。與此同時，國際市場上，鎢、錫、鉭、銦等深度繫結AI算力產業鏈的小金屬，供給緊張或將進一步加劇。
+
+---
+
+### 2026-06-26 07:35:33  #其他
+
+【納入65個品種 第12批國家組織藥品集採啟動】記者昨天（25日）從國家醫保局瞭解到，第12批國家組織藥品集中帶量採購正式啟動，65個藥品品種納入集採範圍。本次集採共篩選65種藥品，覆蓋腫瘤、慢性病等臨床重點用藥領域。存在以下情形的藥品品種不予納入本次集採：一是2025年全國採購金額不足1億元的品種；二是暫不具備公平競爭條件的品種；三是輔助生殖核心用藥、臨床必需且易短缺藥品。
+
+---
+
+### 2026-06-26 07:35:05  #公司
+
+【港股招股書披露質量正在提升 但仍有企業打廣告、蹭AI概念】在近期召開的香港交易所未來科技峰會上，港交所相關負責人劉穎表示，當前一些公司的招股書草稿出現了文字偏浮誇、商業模式介紹不清、美化行業排名、收入確認方式模糊等問題，而這些招股書質量問題會嚴重拖慢IPO（首次公開募資）稽核速度。早在2025年底，香港證監會與港交所就曾聯合釋出通函，曝光了港股IPO中招股書的資訊披露質量問題，兩輪表態均指向同一隱憂。記者翻閱大量IPO招股書發現，部分公司重新遞交的招股書已有大篇幅修改，質量提升明顯。但仍有一些企業在近期遞交的招股書中依然使用大量“廣告式”語言。此外，隨著AI（人工智慧）浪潮的到來，不少公司尤其喜歡在招股書中蹭“AI概念”，但這些公司實際只是業務用到一定AI技術，本質還是原來的業態。
 
 ---
 
@@ -22861,35 +22879,5 @@ Federal Reserve says banks included in its stress test would absorb more than $7
 ### 2026-06-25 03:56:19  #MKT News #Important #Commodities #Energy #Brent #Impact bearish #WTI
 
 【Global crude futures retreat to pre-conflict levels】Brent settled down $3.34 (-4.3%) at $73.74/bbl and U.S. crude fell $2.87 (-3.9%) to $70.34/bbl, returning to levels seen before the US‑Israel‑Iran conflict erupted as more previously idled tankers left the Strait of Hormuz and supply concerns eased. ING said positive signals from the Persian Gulf are boosting optimism about restored flows through the Strait of Hormuz; vessel transits have risen but remain well below pre‑war levels.
-
----
-
-### 2026-06-25 03:55:27  #其他
-
-輝瑞：董事會批准每股 0.43 美元季度現金股息。
-
----
-
-### 2026-06-25 03:55:10  #MKT News #WTI #Impact bullish #Brent #XAUUSD
-
-【Iran's foreign ministry spokesman says US military presence, interventionism blocking regional peace】On the 24th, Iran's foreign ministry spokesman Baghaei wrote on social media that so long as US military presence and interventionism persist, and occupation forces acting as US proxies continue waging unending wars with impunity and committing genocide and other crimes, true peace in the region will be impossible.
-
----
-
-### 2026-06-25 03:55:02  #國際
-
-【伊朗外交部發言人：美國軍事與干涉主義阻礙地區和平】當地時間24日，伊朗外交部發言人巴加埃在其個人社交媒體平臺上表示，只要美國的軍事與干涉主義持續存在，只要作為其代理人的佔領軍在完全免責的情況下繼續對本地區施加無休止的戰爭，並實施種族滅絕及其他罪行，本地區就不可能實現真正的和平。（央視新聞）
-
----
-
-### 2026-06-25 03:54:55  #Trading Economics #Economy #Argentina #Current Account #Importance 1
-
-Argentina Current Account Deficit Narrows — Argentina posted a current account deficit of $1.651 billion in the first quarter of 2026, narrowing from a $5.158 billion gap a year earlier. The result reflected negative balances in the services account, at $4.028 billion, and primary income, at $4.676 billion, partially offset by a goods trade surplus of $6.339 billion and a secondary income surplus of $714 million. The year-on-year improvement was mainly supported by a $3.214 billion increase in goods exports, a $532 million reduction in the services deficit, and a $1.066 billion decline in goods imports. The secondary income account also rose by $354 million. Meanwhile, the primary income deficit widened by $1.658 billion compared with the same period last year.
-
----
-
-### 2026-06-25 03:54:01  #市場
-
-【比特幣再次跌破6萬美元關口 幾大支撐力量均現動搖】比特幣跌回6萬美元下方，重新喚起了過去兩年在加密貨幣市場基本上消失的一種擔憂：當散戶投資者失去興趣的時候，如果市場最大買家也受到壓力，會發生什麼。由於投資者對Michael Saylor旗下Strategy Inc.的融資機器日益擔憂，以及個人投資者更廣泛退場——其中許多人已將注意力和資金轉向人工智慧股票，週三比特幣跌破了一個受到密切關注的支撐位。“市場正在對MSTR和STRC進行整個的重新定價，”Monarq Asset Management管理合夥人Shiliang Tang表示。MSTR和STRC分別是Strategy普通股和優先股的股票程式碼。CoinGlass彙編的資料顯示，過去24小時，近8億美元加密貨幣多頭頭寸被強制平倉。Deribit資料顯示，這輪下跌發生在週五約100億美元比特幣期權的季度到期之前。
 
 ---

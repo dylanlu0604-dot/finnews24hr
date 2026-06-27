@@ -1,7 +1,37 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-06-27 23:40:12_
-_本檔包含 3868 則快訊，約 671338 字_
+_更新時間：2026-06-28 00:07:29_
+_本檔包含 3856 則快訊，約 671293 字_
+
+---
+
+### 2026-06-25 03:55:27  #其他
+
+輝瑞：董事會批准每股 0.43 美元季度現金股息。
+
+---
+
+### 2026-06-25 03:55:10  #MKT News #WTI #Impact bullish #Brent #XAUUSD
+
+【Iran's foreign ministry spokesman says US military presence, interventionism blocking regional peace】On the 24th, Iran's foreign ministry spokesman Baghaei wrote on social media that so long as US military presence and interventionism persist, and occupation forces acting as US proxies continue waging unending wars with impunity and committing genocide and other crimes, true peace in the region will be impossible.
+
+---
+
+### 2026-06-25 03:55:02  #國際
+
+【伊朗外交部發言人：美國軍事與干涉主義阻礙地區和平】當地時間24日，伊朗外交部發言人巴加埃在其個人社交媒體平臺上表示，只要美國的軍事與干涉主義持續存在，只要作為其代理人的佔領軍在完全免責的情況下繼續對本地區施加無休止的戰爭，並實施種族滅絕及其他罪行，本地區就不可能實現真正的和平。（央視新聞）
+
+---
+
+### 2026-06-25 03:54:55  #Trading Economics #Economy #Argentina #Current Account #Importance 1
+
+Argentina Current Account Deficit Narrows — Argentina posted a current account deficit of $1.651 billion in the first quarter of 2026, narrowing from a $5.158 billion gap a year earlier. The result reflected negative balances in the services account, at $4.028 billion, and primary income, at $4.676 billion, partially offset by a goods trade surplus of $6.339 billion and a secondary income surplus of $714 million. The year-on-year improvement was mainly supported by a $3.214 billion increase in goods exports, a $532 million reduction in the services deficit, and a $1.066 billion decline in goods imports. The secondary income account also rose by $354 million. Meanwhile, the primary income deficit widened by $1.658 billion compared with the same period last year.
+
+---
+
+### 2026-06-25 03:54:01  #市場
+
+【比特幣再次跌破6萬美元關口 幾大支撐力量均現動搖】比特幣跌回6萬美元下方，重新喚起了過去兩年在加密貨幣市場基本上消失的一種擔憂：當散戶投資者失去興趣的時候，如果市場最大買家也受到壓力，會發生什麼。由於投資者對Michael Saylor旗下Strategy Inc.的融資機器日益擔憂，以及個人投資者更廣泛退場——其中許多人已將注意力和資金轉向人工智慧股票，週三比特幣跌破了一個受到密切關注的支撐位。“市場正在對MSTR和STRC進行整個的重新定價，”Monarq Asset Management管理合夥人Shiliang Tang表示。MSTR和STRC分別是Strategy普通股和優先股的股票程式碼。CoinGlass彙編的資料顯示，過去24小時，近8億美元加密貨幣多頭頭寸被強制平倉。Deribit資料顯示，這輪下跌發生在週五約100億美元比特幣期權的季度到期之前。
 
 ---
 
@@ -23222,107 +23252,5 @@ As of 23:00 Beijing close, China’s commodity futures front-month contracts wer
 ### 2026-06-23 23:00:11  #Trading Economics #Markets #Currency #Importance 1
 
 FX Updates: Australian Dollar Drops by 1.01% — Top currency losers are Australian Dollar (-1.01%), Swedish Krona (-1.01%), Mexican Peso (-0.87%), Euro (-0.41%) and British Pound (-0.37%). Gains are led by Dollar Index (0.33%) and South Korean Won (0.30%). Meanwhile Japanese Yen was little changed.
-
----
-
-### 2026-06-23 23:00:10  #MKT News
-
-U.S. appeals court allows the Trump administration to expand the scope of expedited removal, market sources say.
-
----
-
-### 2026-06-23 23:00:02  #市場
-
-【夜盤期貨收盤】菜粕連續漲1.23%，天然橡膠連續跌0.98%，紙漿連續跌0.97%，聚丙烯連續跌0.91%，低硫燃料油連續漲0.82%。
-
----
-
-### 2026-06-23 22:59:39  #國際
-
-市場訊息：美國上訴法院允許特朗普政府擴大快速遣返程式。
-
----
-
-### 2026-06-23 22:58:34  #其他
-
-美元指數漲0.34%，報101.35點，創下2025年5月以來新高。
-
----
-
-### 2026-06-23 22:57:28  #公司
-
-【王小洪在北京調研禁毒工作時強調 堅持綜合施策系統治理 縱深推進新時代禁毒人民戰爭】在第39個國際禁毒日到來之際，國務委員、國家禁毒委員會主任王小洪23日來到北京市少年宮、北京市禁毒科技中心和國藥物流有限責任公司調研禁毒工作，看望慰問一線禁毒工作者。他強調，要深入學習貫徹習近平總書記關於禁毒工作的重要指示精神，堅定擁護“兩個確立”、堅決做到“兩個維護”，樹立和踐行正確政績觀，堅持綜合施策、系統治理，進一步健全毒品治理體系，縱深推進新時代禁毒人民戰爭。在北京市少年宮，王小洪實地調研“護航青少年健康成長”禁毒宣傳主題活動開展情況，觀摩禁毒文化作品展、禁毒戲劇社、“禁毒衛士”體驗營等活動，並與現場開展活動的青少年互動交流。他指出，要創新開展全民禁毒宣傳教育，以防範藥物濫用為重點，突出抓好青少年毒品預防教育，築牢青少年識毒拒毒防線，共同呵護青少年特別是未成年人健康成長。（新華社）
-
----
-
-### 2026-06-23 22:57:26  #MKT News
-
-BOC Governor Macklem said he is still monitoring imminent price pressures.
-
----
-
-### 2026-06-23 22:57:10  #公司
-
-普源精電科技股份有限公司更新聆訊後資料集，意味著該公司港交所IPO透過聆訊。
-
----
-
-### 2026-06-23 22:56:34  #MKT News #WTI #Impact bearish #Brent #XAUUSD
-
-BOC Governor Macklem said falling oil prices have reduced some upside inflation risks.
-
----
-
-### 2026-06-23 22:56:22  #央行 #市場
-
-加拿大央行行長麥克勒姆：油價下跌緩解了部分通脹上行風險。
-
----
-
-### 2026-06-23 22:56:08  #MKT News
-
-BOC Governor Macklem said the temporary peace agreement between Iran and the US is "very welcome news."
-
----
-
-### 2026-06-23 22:55:57  #央行 #其他
-
-加拿大央行行長麥克勒姆：伊美臨時和平協議是“非常令人欣喜的訊息”。
-
----
-
-### 2026-06-23 22:55:36  #其他
-
-【北方首個國家級船員評估中心啟用】6月23日，我國北方首個國家級船員評估中心——天津海事局船員評估中心啟用，對於提升國際航運軟實力、助力我國船員隊伍高質量發展具有重要意義。據瞭解，天津海事局船員評估中心配備360°全景航海模擬器、自動化機艙、超大型油輪模擬器、雙燃料輪機模擬器等國際先進軟硬體設施，共建設駕駛、輪機和船舶電子電氣專業三大類17個綜合評估室和280個機考機位。（新華社）
-
----
-
-### 2026-06-23 22:54:55  #公司
-
-廣東鼎泰高科技術股份有限公司更新聆訊後資料集，意味著該公司港交所IPO透過聆訊。
-
----
-
-### 2026-06-23 22:54:41  #其他
-
-AST已確定“藍鳥”11號、12號、13號的發射時間定於8月。
-
----
-
-### 2026-06-23 22:54:06  #其他
-
-【德國中部小型飛機墜毀事故致2人死亡】當地時間6月23日，德國中部黑森州波爾海姆市一處滑翔機機場附近一架小型飛機墜毀。當地警方發言人表示，失事飛機是一架小型螺旋槳飛機，機上共有兩人，被發現時已無生命跡象，隨後被送往醫院。警方介紹，當天11時30分左右，警方接到緊急服務控制中心通報，稱發生飛機墜毀事故。飛機殘骸在一片麥田中被發現。（央視新聞）
-
----
-
-### 2026-06-23 22:53:27  #MKT News
-
-Lebanese presidency: US Vice President Vance and US Secretary of State Rubio, in calls with Lebanese President Aoun, reiterated US support for Lebanese state authority.
-
----
-
-### 2026-06-23 22:52:49  #MKT News
-
-Lebanese presidential office said U.S. Vice President Vance and U.S. Secretary of State Rubio informed President Aoun that a ceasefire mechanism involving the U.S., Lebanon and Iran is under study.
 
 ---

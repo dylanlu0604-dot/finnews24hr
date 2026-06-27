@@ -1,7 +1,109 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-06-27 23:40:12_
-_本檔包含 3519 則快訊，約 671725 字_
+_更新時間：2026-06-28 00:07:29_
+_本檔包含 3521 則快訊，約 671573 字_
+
+---
+
+### 2026-06-23 23:00:10  #MKT News
+
+U.S. appeals court allows the Trump administration to expand the scope of expedited removal, market sources say.
+
+---
+
+### 2026-06-23 23:00:02  #市場
+
+【夜盤期貨收盤】菜粕連續漲1.23%，天然橡膠連續跌0.98%，紙漿連續跌0.97%，聚丙烯連續跌0.91%，低硫燃料油連續漲0.82%。
+
+---
+
+### 2026-06-23 22:59:39  #國際
+
+市場訊息：美國上訴法院允許特朗普政府擴大快速遣返程式。
+
+---
+
+### 2026-06-23 22:58:34  #其他
+
+美元指數漲0.34%，報101.35點，創下2025年5月以來新高。
+
+---
+
+### 2026-06-23 22:57:28  #公司
+
+【王小洪在北京調研禁毒工作時強調 堅持綜合施策系統治理 縱深推進新時代禁毒人民戰爭】在第39個國際禁毒日到來之際，國務委員、國家禁毒委員會主任王小洪23日來到北京市少年宮、北京市禁毒科技中心和國藥物流有限責任公司調研禁毒工作，看望慰問一線禁毒工作者。他強調，要深入學習貫徹習近平總書記關於禁毒工作的重要指示精神，堅定擁護“兩個確立”、堅決做到“兩個維護”，樹立和踐行正確政績觀，堅持綜合施策、系統治理，進一步健全毒品治理體系，縱深推進新時代禁毒人民戰爭。在北京市少年宮，王小洪實地調研“護航青少年健康成長”禁毒宣傳主題活動開展情況，觀摩禁毒文化作品展、禁毒戲劇社、“禁毒衛士”體驗營等活動，並與現場開展活動的青少年互動交流。他指出，要創新開展全民禁毒宣傳教育，以防範藥物濫用為重點，突出抓好青少年毒品預防教育，築牢青少年識毒拒毒防線，共同呵護青少年特別是未成年人健康成長。（新華社）
+
+---
+
+### 2026-06-23 22:57:26  #MKT News
+
+BOC Governor Macklem said he is still monitoring imminent price pressures.
+
+---
+
+### 2026-06-23 22:57:10  #公司
+
+普源精電科技股份有限公司更新聆訊後資料集，意味著該公司港交所IPO透過聆訊。
+
+---
+
+### 2026-06-23 22:56:34  #MKT News #WTI #Impact bearish #Brent #XAUUSD
+
+BOC Governor Macklem said falling oil prices have reduced some upside inflation risks.
+
+---
+
+### 2026-06-23 22:56:22  #央行 #市場
+
+加拿大央行行長麥克勒姆：油價下跌緩解了部分通脹上行風險。
+
+---
+
+### 2026-06-23 22:56:08  #MKT News
+
+BOC Governor Macklem said the temporary peace agreement between Iran and the US is "very welcome news."
+
+---
+
+### 2026-06-23 22:55:57  #央行 #其他
+
+加拿大央行行長麥克勒姆：伊美臨時和平協議是“非常令人欣喜的訊息”。
+
+---
+
+### 2026-06-23 22:55:36  #其他
+
+【北方首個國家級船員評估中心啟用】6月23日，我國北方首個國家級船員評估中心——天津海事局船員評估中心啟用，對於提升國際航運軟實力、助力我國船員隊伍高質量發展具有重要意義。據瞭解，天津海事局船員評估中心配備360°全景航海模擬器、自動化機艙、超大型油輪模擬器、雙燃料輪機模擬器等國際先進軟硬體設施，共建設駕駛、輪機和船舶電子電氣專業三大類17個綜合評估室和280個機考機位。（新華社）
+
+---
+
+### 2026-06-23 22:54:55  #公司
+
+廣東鼎泰高科技術股份有限公司更新聆訊後資料集，意味著該公司港交所IPO透過聆訊。
+
+---
+
+### 2026-06-23 22:54:41  #其他
+
+AST已確定“藍鳥”11號、12號、13號的發射時間定於8月。
+
+---
+
+### 2026-06-23 22:54:06  #其他
+
+【德國中部小型飛機墜毀事故致2人死亡】當地時間6月23日，德國中部黑森州波爾海姆市一處滑翔機機場附近一架小型飛機墜毀。當地警方發言人表示，失事飛機是一架小型螺旋槳飛機，機上共有兩人，被發現時已無生命跡象，隨後被送往醫院。警方介紹，當天11時30分左右，警方接到緊急服務控制中心通報，稱發生飛機墜毀事故。飛機殘骸在一片麥田中被發現。（央視新聞）
+
+---
+
+### 2026-06-23 22:53:27  #MKT News
+
+Lebanese presidency: US Vice President Vance and US Secretary of State Rubio, in calls with Lebanese President Aoun, reiterated US support for Lebanese state authority.
+
+---
+
+### 2026-06-23 22:52:49  #MKT News
+
+Lebanese presidential office said U.S. Vice President Vance and U.S. Secretary of State Rubio informed President Aoun that a ceasefire mechanism involving the U.S., Lebanon and Iran is under study.
 
 ---
 
@@ -21158,95 +21260,5 @@ Dell and NVIDIA are launching a Dell AI Factory to deploy supercomputing-grade i
 ### 2026-06-22 21:07:33  #MKT News #Market Regions #Greater China
 
 【Chinese team builds 3D nanoparticle photothermal material that boosts solar desalination efficiency】Researchers at the Institute of Process Engineering, Chinese Academy of Sciences, with Shenzhen University developed a polymer "latch" mechanism to assemble nanoparticles into a three-dimensional photothermal evaporator that sharply raises solar-driven seawater evaporation. The structure achieves 90.2% solar absorption; nanoscale confinement alters the water hydrogen-bond network and cuts the energy required for the same evaporation volume by 45.7%. A single evaporator recorded an evaporation rate of 38.1 kg/hr per m2, 8.5x the team’s prior 2D films. In a 30-day accelerated seawater aging test there was no nanoparticle shedding; the material produced no photo-induced reactive free radicals and addressed organic-substrate degradation. Results published in Advanced Materials. The team is working to improve condensation efficiency and reduce system costs to enable scale-up for coastal water-scarce regions, islands and remote agricultural irrigation.
-
----
-
-### 2026-06-22 21:07:30  #其他
-
-META將作為少數投資者加入CRED的股權結構表。
-
----
-
-### 2026-06-22 21:07:25  #MKT News #Market Regions #Europe & UK #DAX #Impact bullish #FTSE100
-
-European STOXX 600 continued to rise after comments from ECB President Lagarde.
-
----
-
-### 2026-06-22 21:07:11  #公司
-
-【斯塔默宣佈辭職後 英國財政大臣裡夫斯稱經濟領域仍有諸多工作待推進】英國財政大臣蕾切爾・裡夫斯在基爾・斯塔默宣佈即將卸任首相後表示，當下“仍有許多工作亟待完成”，暗示她希望自己推出的各項經濟規劃能夠在新任工黨領袖的任期內繼續落地實施。 目前尚不清楚裡夫斯是否會繼續留任財政大臣一職。 這位財政大臣表示：“我們攜手取得了諸多值得驕傲的成就，但前路依舊任重道遠。我由衷感謝基爾的領導，感謝他為建設一個更強大、更安全的英國所付出的一切努力。” 裡夫斯稱，得益於工黨政府的施政，“英國經濟如今抵禦全球動盪的能力顯著提升”。她列舉英國的亮眼成績：“今年年初，英國是七國集團中經濟增速最快的國家……我們已經實現六次降息，通貨膨脹率也保持穩定。”
-
----
-
-### 2026-06-22 21:07:06  #Trading Economics #Markets #Greece #Stock Market #Importance 0
-
-Stocks in Greece Hit 16-1/2-year High — Athens General increased to 2489.00 Index Points, the highest since November 2009. Over the past 4 weeks, Athens Stock Exchange General gained 7.28%, and in the last 12 months, it increased 36.77%.
-
----
-
-### 2026-06-22 21:07:06  #MKT News #EURUSD #Impact bearish #DXY #Impact bullish #XAUUSD
-
-ECB President Lagarde said the public does not expect high inflation to persist.
-
----
-
-### 2026-06-22 21:07:01  #國際
-
-受拉加德言論影響，STOXX 歐洲 600 指數延續漲勢。
-
----
-
-### 2026-06-22 21:07:01  #MKT News #Market Themes #AI Revolution #MU.O #Impact bullish
-
-【Micron signs multi-year storage supply agreement with ANTHROPIC】Micron has signed a multi-year agreement to supply data‑center HBM, DRAM and SSD products to ANTHROPIC, with supply commitments tied to ANTHROPIC's long-term compute expansion for training and deploying the Claude model. Micron has deployed Claude across its engineering, manufacturing and corporate functions to support code generation and agent workflows. Micron also participated as a strategic investor in ANTHROPIC's Series H financing.
-
----
-
-### 2026-06-22 21:06:55  #MKT News #LCID.O #Impact bullish
-
-Lucid Group (LCID.O) expects its plan to deliver about $158 mln in annualized cost savings.
-
----
-
-### 2026-06-22 21:06:47  #其他
-
-超微電腦：推出基於英偉達 VERA RUBIN 的解決方案架構方案。
-
----
-
-### 2026-06-22 21:06:29  #央行 #國際
-
-歐洲央行行長拉加德：公眾並不預期高通脹會持續。
-
----
-
-### 2026-06-22 21:06:16  #國際
-
-Lucid Group(LCID.O)計劃將美國員工人數減少約18%。
-
----
-
-### 2026-06-22 21:06:11  #央行 #國際
-
-歐洲央行行長拉加德：前景不確定，通脹上行風險與經濟增長下行風險並存。伊朗戰爭對經濟活動造成壓力，資料顯示經濟放緩，尤其是在服務業方面。目前尚無證據表明脫錨或二次效應需要更強有力的政策行動。我們有信心，透過適當的貨幣政策措施，通脹將回歸目標。
-
----
-
-### 2026-06-22 21:06:00  #MKT News #LCID.O #Impact bearish
-
-Lucid Group (LCID.O) plans to cut about 18% of its U.S. workforce.
-
----
-
-### 2026-06-22 21:05:43  #其他
-
-【拉卡拉與Visa簽署戰略合作備忘錄】6月22日，第四屆中國國際供應鏈促進博覽會（鏈博會）在京舉辦，活動期間，拉卡拉與全球支付網路機構Visa正式簽署戰略合作備忘錄（MoU）。雙方將圍繞跨境B2B支付場景深化合作，推動企業間支付流程最佳化與跨境資金流轉效率提升，助力外貿企業更好地融入全球供應鏈體系。
-
----
-
-### 2026-06-22 21:05:41  #MKT News
-
-Morgan Stanley plans to spend $1.3 billion to acquire an office tower to expand its Dallas operations and expects the building to provide about 4,800 jobs.
 
 ---

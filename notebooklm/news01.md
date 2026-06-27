@@ -1,7 +1,79 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-06-27 23:40:12_
-_本檔包含 3445 則快訊，約 671862 字_
+_更新時間：2026-06-28 00:07:29_
+_本檔包含 3454 則快訊，約 671983 字_
+
+---
+
+### 2026-06-28 00:04:43  #國際
+
+以色列防長卡茨：昨日與美國、黎巴嫩簽署的這項協議具有里程碑意義，是以色列在政治與安全領域取得的一項重大成果。
+
+---
+
+### 2026-06-28 00:04:29  #MKT News
+
+KATZ said the agreement signed with the US and Lebanon is a historic event and an important political and security achievement for Israel.
+
+---
+
+### 2026-06-28 00:04:11  #國際
+
+一名白宮官員表示，美國高階官員對委內瑞拉反對派領袖馬查多在該國地震後試圖返回委內瑞拉的舉動感到不滿。
+
+---
+
+### 2026-06-28 00:02:59  #MKT News
+
+【Venezuela's largest airport partially resumes operations】On the 27th local time, Maiquetía Simón Bolívar International Airport, Venezuela's largest, partially resumed operations and is receiving cargo flights carrying humanitarian aid.
+
+---
+
+### 2026-06-27 23:58:56  #其他
+
+據當地媒體27日報道，巴基斯坦卡拉奇一條主要街道當日發生爆炸並傳出槍聲，目前安全部隊已趕往現場。
+
+---
+
+### 2026-06-27 23:52:51  #國際
+
+烏茲別克同意對美國商品下調關稅，以此深化與美國的經濟合作。穆迪上調該國主權信用評級，進一步體現投資者對該國信心持續提升。
+
+---
+
+### 2026-06-27 23:52:19  #其他
+
+黎巴嫩軍方總司令會見英國官員。
+
+---
+
+### 2026-06-27 23:52:01  #其他
+
+伊拉克貿易部：本季迄今為止，已從本國農戶手中收購410萬噸小麥。
+
+---
+
+### 2026-06-27 23:50:42  #市場
+
+【委內瑞拉震區救援持續 一名嬰兒從廢墟中獲救】委內瑞拉24日發生強震後，黃金72小時救援視窗期持續收緊，災區的搜救工作正爭分奪秒進行。拉瓜伊拉州是此次委內瑞拉強震的重災區。隨著救援工作持續進行，越來越多的被困人員成功獲救。當地時間26日晚，救援人員成功將一名嬰兒從廢墟中救出。隨後，孩子媽媽也被救出，被救援人員安置在轉運車內。（央視新聞）
+
+---
+
+### 2026-06-27 23:47:02  #其他
+
+巴基斯坦卡拉奇東部主要道路傳出爆炸聲和槍擊聲。
+
+---
+
+### 2026-06-27 23:45:36  #國際
+
+【美聯邦航空局調查一架紐瓦克進近航班上報的無人機目擊事件】美國聯邦航空管理局釋出宣告稱，美聯航1513號航班機組週五在降落進近途中發現無人機，該航班最終安全降落在紐瓦克自由國際機場。美國聯邦航空局正調查這起發生於當地週五下午5點20分左右的事件。
+
+---
+
+### 2026-06-27 23:39:36  #國際
+
+以色列無人機襲擊黎巴嫩南部城鎮上納巴提耶。
 
 ---
 
@@ -20788,23 +20860,5 @@ Oil Resumes Decline After Hormuz Incident — Crude oil eased below $72 per barr
 ### 2026-06-26 07:36:49  #Trading Economics #Economy #Japan #Tokyo Core CPI #Importance 1
 
 Tokyo Core Inflation Hits 3-Month High — Core consumer prices in Tokyo’s central wards rose 1.6% year-on-year in June 2026, accelerating from 1.3% in the previous month and in line with market expectations. It was the first acceleration since September last year and marked the fastest increase in three months. However, inflation remained below the Bank of Japan’s 2% target for a fifth consecutive month, as fuel subsidies and favorable base effects helped limit the impact of higher raw material costs linked to the Middle East conflict. The BoJ raised interest rates by 25 bps to their highest level since September 1995 at its June meeting, marking the first rate hike since last December, to prevent higher oil prices from fueling inflation. BoJ board member Naoki Tamura recently said that the central bank should continue to raise interest rates at intervals of a few months.
-
----
-
-### 2026-06-26 07:35:48  #觀點 #國際
-
-【美國銅關稅決定倒計時 “算力金屬”供需迎變局】去年7月，美國政府曾公佈關於銅的關稅方案，此前僅針對銅半成品等徵收50%關稅，而精煉銅暫獲豁免，但計劃自2027年起分階段對精煉銅加徵關稅。該方案最終落地與否將在6月底敲定，美國商務部需於6月30日前提交“232關稅”的調查報告，並據此作出最終決策。隨著6月30日美國“232關稅”調查報告出具時點臨近，全球AI算力相關金屬市場將迎來新一輪波動。高盛等國際投行分析，若美國落地針對銅的新一輪關稅政策，美國採購方或將開啟大規模囤貨。當前美國COMEX銅庫存已突破65萬噸，創下歷史高位。與此同時，國際市場上，鎢、錫、鉭、銦等深度繫結AI算力產業鏈的小金屬，供給緊張或將進一步加劇。
-
----
-
-### 2026-06-26 07:35:33  #其他
-
-【納入65個品種 第12批國家組織藥品集採啟動】記者昨天（25日）從國家醫保局瞭解到，第12批國家組織藥品集中帶量採購正式啟動，65個藥品品種納入集採範圍。本次集採共篩選65種藥品，覆蓋腫瘤、慢性病等臨床重點用藥領域。存在以下情形的藥品品種不予納入本次集採：一是2025年全國採購金額不足1億元的品種；二是暫不具備公平競爭條件的品種；三是輔助生殖核心用藥、臨床必需且易短缺藥品。
-
----
-
-### 2026-06-26 07:35:05  #公司
-
-【港股招股書披露質量正在提升 但仍有企業打廣告、蹭AI概念】在近期召開的香港交易所未來科技峰會上，港交所相關負責人劉穎表示，當前一些公司的招股書草稿出現了文字偏浮誇、商業模式介紹不清、美化行業排名、收入確認方式模糊等問題，而這些招股書質量問題會嚴重拖慢IPO（首次公開募資）稽核速度。早在2025年底，香港證監會與港交所就曾聯合釋出通函，曝光了港股IPO中招股書的資訊披露質量問題，兩輪表態均指向同一隱憂。記者翻閱大量IPO招股書發現，部分公司重新遞交的招股書已有大篇幅修改，質量提升明顯。但仍有一些企業在近期遞交的招股書中依然使用大量“廣告式”語言。此外，隨著AI（人工智慧）浪潮的到來，不少公司尤其喜歡在招股書中蹭“AI概念”，但這些公司實際只是業務用到一定AI技術，本質還是原來的業態。
 
 ---
