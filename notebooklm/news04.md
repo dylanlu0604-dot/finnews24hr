@@ -1,7 +1,25 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-06-28 02:39:20_
-_本檔包含 3520 則快訊，約 671537 字_
+_更新時間：2026-06-28 03:03:26_
+_本檔包含 3511 則快訊，約 670755 字_
+
+---
+
+### 2026-06-23 23:46:49  #國際
+
+【黎總統稱談判必須確保“以色列結束對黎佔領”】黎巴嫩總統奧恩23日表示，黎巴嫩政府不會接受任何低於“以色列結束對黎巴嫩領土佔領、黎巴嫩恢復全部領土主權”的談判結果。 據黎總統府發表的宣告，奧恩當天聽取了黎巴嫩代表團赴華盛頓參加第五輪黎美以三方會談情況彙報，隨後作出上述表態。 奧恩表示，近期事態發展證明，透過談判解決問題是實現黎巴嫩國家目標和維護國家主權的正確選擇。他希望談判能夠在恢復黎巴嫩國家主權、結束以色列對黎南部佔領等問題上取得決定性進展。 奧恩當天還與美國副總統萬斯和美國國務卿魯比奧通電話，雙方就黎巴嫩局勢最新發展以及美伊瑞士談判的階段性進展進行了討論。 萬斯和魯比奧表示，美國支援黎巴嫩政府在推進國家合法權力全面覆蓋、強化國家對全部領土主權控制方面的立場。奧恩感謝美方對推動結束黎巴嫩戰事、加強黎國家權力等方面的關注。(新華社)
+
+---
+
+### 2026-06-23 23:46:45  #公司
+
+網路安全企業 Varonis 在收到收購意向後，據傳正在考量出售事宜。公司漲幅擴大至最高 23%。
+
+---
+
+### 2026-06-23 23:44:40  #MKT News
+
+【Modi meets Wang Yi, BRICS security envoys in New Delhi】June 23, 2026, New Delhi — Indian Prime Minister Modi met Wang Yi, member of the CPC Politburo and director of the Office of the Central Foreign Affairs Commission, and other BRICS senior security representatives. Modi said India supports China taking the BRICS rotating chair next year and will work with China to advance BRICS cooperation and safeguard Global South interests. Wang Yi conveyed Chinese leadership’s good wishes, said China and India should lead unity and self-reliance among Global South nations, urged implementation of leaders’ consensus, greater mutual trust, proper handling of sensitive issues and deeper mutually beneficial cooperation, and said China will continue to support India in fulfilling its BRICS rotating-chair responsibilities. Wang also met Indian National Security Adviser Ajit Doval during the visit.
 
 ---
 
@@ -21182,77 +21200,5 @@ U.S. stocks opened with the Dow up 0.27%, the S&P 500 up 0.12% and the Nasdaq do
 ### 2026-06-22 21:31:17  #Trading Economics #Markets #Commodity #Importance 1
 
 Rubber Consolidates Near 2-1/2-Year High — Rubber traded around 230 US cents per kilogram, holding near its highest level since late 2023 as markets balanced optimism over a potential US-Iran peace agreement with concerns that an El Niño weather pattern could disrupt production. Weather risks and firm demand from the automotive sector have supported prices, keeping sentiment positive. Demand signals from the auto sector remain mixed but broadly supportive. China’s vehicle sales rose to 2.63 million units in May, driven by passenger cars, while global tire makers continued expanding. Sailun Tire announced a $1.14 billion tire project in Egypt, adding major capacity for passenger, truck, and off-road tires. Michelin remained the world’s most valuable tire brand, while Giti Tire ranked as the fastest-growing. Pirelli also extended its Formula 1 tire supply deal through 2028, reinforcing long-term demand visibility for the rubber industry.
-
----
-
-### 2026-06-22 21:31:06  #其他
-
-埃克森美孚：股票將繼續以股票程式碼XOM在紐約證券交易所交易。
-
----
-
-### 2026-06-22 21:31:02  #Trading Economics #Markets #China #stocks #Importance 1
-
-Alibaba Stock Price Hits 49-week Low — Alibaba shares decreased to 104.96 USD, the lowest since July 2025. Over the past 4 weeks, Alibaba lost 22.51%, and in the last 12 months, it decreased 6.94%.
-
----
-
-### 2026-06-22 21:31:01  #市場
-
-多倫多證交所S&P/TSX綜合指數.GSPTSE開盤上漲85.37點，漲幅0.24%，報34942.71點。
-
----
-
-### 2026-06-22 21:30:56  #Trading Economics #Markets #United States #stocks #Importance 1
-
-Amphenol Stock Price Hits All-time High — Amphenol shares increased to an all-time high of 167.27 USD. Over the past 4 weeks, Amphenol gained 39.31%, and in the last 12 months, it increased 77%.
-
----
-
-### 2026-06-22 21:30:53  #市場 #焦點
-
-納斯達克中國金龍指數跌超1%，中比能源跌2.87%，康迪車業跌2.57%，優品車跌2.52%，嗶哩嗶哩跌2.67%，理想汽車跌2.57%。
-
----
-
-### 2026-06-22 21:30:48  #市場 #焦點
-
-【美股開盤：三大股指漲跌不一】道指漲0.32%，標普500指數漲0.19%，納指跌0.12%。超微電腦漲6.23%，美光漲5.01%，英特爾漲4.91%，CRH水泥跌3.57%，紐曼礦業跌3.26%。“七姐妹”方面：英偉達漲0.57%，蘋果漲0.09%，微軟跌0.80%，特斯拉跌1.09%，Meta Platforms跌1.25%，亞馬遜跌1.64%，谷歌跌3.03%。
-
----
-
-### 2026-06-22 21:30:28  #其他
-
-埃克森美孚：將於2026年7月1日起將註冊地從新澤西州遷至德克薩斯州。
-
----
-
-### 2026-06-22 21:30:24  #MKT News #WTI #Impact bullish #Brent #XAUUSD
-
-Israel's prime minister said the Israel Defense Forces will remain deployed in the Lebanese security zone for as long as necessary.
-
----
-
-### 2026-06-22 21:30:15  #其他
-
-內塔尼亞胡：以國防軍將在黎巴嫩安全區駐守至局勢無需駐軍為止。
-
----
-
-### 2026-06-22 21:29:11  #MKT News #Important #XAUUSD #Impact bullish #Brent #DXY
-
-Israel's prime minister said the Israel Defense Forces can operate freely in southern Lebanon to respond to threats.
-
----
-
-### 2026-06-22 21:28:51  #焦點 #國際
-
-以色列總理：國防軍可在黎巴嫩南部自由採取行動以化解威脅。
-
----
-
-### 2026-06-22 21:28:39  #Trading Economics #Markets #Commodity #Importance 1
-
-Palladium Hovers Near 8-Month Low — Palladium held near $1,270 per ounce, remaining close to its lowest level since late September as easing geopolitical risk premiums and softer energy markets weighed on sentiment. US and Iran negotiators reported major advances toward a longer term settlement, helping calm fears of severe supply disruptions through key shipping routes, even as tensions persist from the conflict in Lebanon involving Israel and Hezbollah. Lower crude oil prices have reduced inflation pressures and eased fears of further energy driven tightening, but expectations of higher for longer interest rates continue to pressure non yielding assets like palladium. Market sentiment is also undermined by a projected surplus in the platinum group metals complex. On the demand side, structural change in China’s auto sector adds further headwinds, with electric vehicles rapidly gaining share and reducing long term demand expectations for palladium used in catalytic converters in traditional combustion engines.
 
 ---

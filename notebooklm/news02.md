@@ -1,7 +1,43 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-06-28 02:39:20_
-_本檔包含 3746 則快訊，約 670741 字_
+_更新時間：2026-06-28 03:03:26_
+_本檔包含 3728 則快訊，約 670678 字_
+
+---
+
+### 2026-06-26 08:11:50  #宏觀 #兩會
+
+【廣東支援腦機介面納入醫保 13只腦機介面概念股年內獲機構調研】日前，廣東省印發《廣東省腦機介面科技與產業協同發展行動計劃（2026—2030年）》的通知，推動人工智慧與腦機介面產業鏈深度協同發展。2026年腦機介面首次寫入政府工作報告，被明確為培育發展的六大未來產業之一。2025年北京、上海、山東已經出臺腦機介面專項政策。今年以來，除了廣東外，江蘇、天津相繼推出腦機介面相關專項政策。據證券時報·資料寶統計，今年以來，腦機介面概念股普跌，其中航天長峰、漢威科技跌幅超30%，愛朋醫療、翔宇醫療等跌超20%。從年內調研機構來看，有13只腦機介面概念股獲機構調研，其中翔宇醫療、美好醫療、愛朋醫療、偉思醫療等參與調研的機構數量超百家。
+
+---
+
+### 2026-06-26 08:11:39  #市場 #國際
+
+5年期日本國債收益率上升1.0個基點，至1.890%。
+
+---
+
+### 2026-06-26 08:11:32  #公司
+
+【年內漲184%仍被嫌名字晦氣！匯綠生態遭股民催改名 公司回應】因名字被指“晦氣”，A股上市公司匯綠生態的簡稱再度成為輿論焦點。記者注意到，近期有投資者在互動平臺直接建議公司更改“會綠”二字，並稱公司遲遲不落實。對此，匯綠生態在平臺回覆稱：“尊敬的投資者，公司會審慎考慮關於公司更名的事項，感謝您的關注！”（21財經）
+
+---
+
+### 2026-06-26 08:10:31  #MKT News
+
+Australia's S&P/ASX 200 opened up 11.7 points, or 0.13%, at 8,760.40 on Friday, June 26.
+
+---
+
+### 2026-06-26 08:09:59  #國際
+
+【特朗普下週將首次搭乘卡達贈予的過渡版空軍一號出行】白宮官員透露，美國總統特朗普將於7月1日前往北達科他州出席活動，屆時他將首次搭乘卡達政府贈予美國的全新總統專機。這架波音747-8型飛機的首航任務，是搭載特朗普出席西奧多・羅斯福總統圖書館落成典禮。下週特朗普將舉辦一系列充滿美國本土風情的活動，紀念美國建國250週年，這場落成儀式正是其中一項。多名不願公開姓名、參與內部磋商的官員對外披露了該出行計劃。美國空軍將這架飛機稱作VC-25B過渡專機，它將臨時承擔總統出行任務，直至波音全新定製的總統專機機隊於2028年交付。本屆任期之初，特朗普接受卡達贈予的這架飛機一事引發巨大爭議，批評人士就此提出倫理與國家安全層面的多重擔憂。這架飛機也是外國贈予美國政府的價值最高禮品之一。
+
+---
+
+### 2026-06-26 08:08:40  #MKT News #Market Regions #Greater China #CSI300 #Impact bullish
+
+【CITIC Securities: Banks entering tail of risk cycle in 2026-27】CITIC Securities says after large net outflows earlier this year, China bank A-shares now yield an average static dividend of about 4.3%, with some large caps above 5% and an average static PB of 0.60x. Looking to 2026-27, the sector is entering the tail of its risk cycle; the first derivative of ROE has improved and the firm expects industry ROE to stabilize around 8–9% in 2026–27, supporting valuation gains. H2 could see a "high-certainty equity asset" rerating with significant absolute upside. Stock selection favors banks with strong commercial models, improving ROE prospects, low-valuation large banks set for multiple recovery, names entering stable growth, and high-quality, defensive franchises.
 
 ---
 
@@ -22457,149 +22493,5 @@ Ibovespa Falls on Commodity and Bank Losses — The Ibovespa fell 0.4% to close 
 ### 2026-06-25 04:46:43  #MKT News #QCOM.O #Impact bullish
 
 Qualcomm (QCOM.O) CFO said the company is targeting about $10 billion in automotive revenue in fiscal 2029.
-
----
-
-### 2026-06-25 04:46:30  #MKT News #Market Themes #Chip Wars #QCOM.O #Impact bullish
-
-Qualcomm (QCOM.O) CFO said two hyperscale custom-chip customers will generate $1.0 bln in revenue in fiscal 2027.
-
----
-
-### 2026-06-25 04:46:17  #MKT News
-
-Qualcomm (QCOM.O) CFO said the company targets data-center revenue exceeding $15 billion in fiscal 2029.
-
----
-
-### 2026-06-25 04:45:48  #MKT News #Market Themes #Chip Wars #QCOM.O #Impact bullish
-
-Qualcomm (QCOM.O) raised its fiscal 2029 revenue target for non-handset businesses to $40 bln.
-
----
-
-### 2026-06-25 04:45:43  #MKT News #Important #Market Themes #AI Revolution #QCOM.O #Impact bullish
-
-Qualcomm (QCOM.O) shares rose over 14% in after-hours US trading after the CFO said the company targets $5.0 billion in AI data-center revenue in fiscal 2027.
-
----
-
-### 2026-06-25 04:45:11  #公司
-
-道富集團計劃將 2026 年第三季度股息上調 10%，至每股 0.92 美元。
-
----
-
-### 2026-06-25 04:44:46  #市場
-
-美光科技盤後上漲至15%。
-
----
-
-### 2026-06-25 04:43:55  #MKT News
-
-Trump said he nearly made progress in talks with NATO Secretary-General Rutte.
-
----
-
-### 2026-06-25 04:43:08  #國際
-
-特朗普：關於伊朗戰爭授權的投票毫無意義。
-
----
-
-### 2026-06-25 04:43:03  #MKT News #Important #WTI #Impact bullish #Brent
-
-US President Trump said an Iran deal that includes transportation costs would be unacceptable.
-
----
-
-### 2026-06-25 04:42:31  #MKT News #LMT.O #Impact bullish #RTX.O #NOC.O
-
-White House says Trump's supplemental budget request includes $67.15 bln for Defense Department military projects.
-
----
-
-### 2026-06-25 04:42:02  #國際
-
-特朗普談伊朗：我們在談判中進展順利。
-
----
-
-### 2026-06-25 04:41:45  #國際
-
-特朗普：對霍爾木茲海峽收費是不可接受的。
-
----
-
-### 2026-06-25 04:40:59  #MKT News #Brent #Impact bullish
-
-Trump said he had heard that Burnham, a potential successor to the UK prime minister, is very liberal and therefore may not open the North Sea.
-
----
-
-### 2026-06-25 04:40:53  #MKT News #Market Themes #AI Revolution #QCOM.O #Impact bullish
-
-Hugging Face CEO said AI models from the Hugging Face ecosystem are planned to be integrated and deployed on Qualcomm platforms.
-
----
-
-### 2026-06-25 04:40:39  #MKT News #Important #Macro & Rates #The Fed (FOMC) #DXY #Impact bearish #EURUSD #Impact bullish #S&P500
-
-US President Trump said the US needs low interest rates.
-
----
-
-### 2026-06-25 04:39:06  #公司
-
-高通首席財務官：公司有機會將年度營收規模拓展至 1000 億美元。
-
----
-
-### 2026-06-25 04:38:25  #國際
-
-特朗普：我們需要低利率。
-
----
-
-### 2026-06-25 04:38:16  #國際
-
-美國白宮：特朗普追加撥款申請中包含 671.5 億美元，用於國防部各類軍事專案。
-
----
-
-### 2026-06-25 04:37:23  #國際
-
-美國白宮：特朗普向國會申請 5 億美元用於紐約賓夕法尼亞車站翻新工程，另申請 10 億美元，用以提高通用汽車破產期間福利受損工人的養老金。
-
----
-
-### 2026-06-25 04:37:05  #其他
-
-美光科技：目前看不到供應實現供需平衡的明確時間點。
-
----
-
-### 2026-06-25 04:36:51  #國際
-
-特朗普談及伊朗校園襲擊事件：不確定他們能否解決此事。
-
----
-
-### 2026-06-25 04:35:50  #公司 #其他 #焦點 #國際
-
-美光科技：預計 2028 年儲存晶片供應將逐步改善。
-
----
-
-### 2026-06-25 04:35:30  #其他
-
-高通：預計安卓系統硬體裝置營收將增長大約5%。在2029財年，預計硬體將在收入佔比大約三分之一。
-
----
-
-### 2026-06-25 04:35:10  #Trading Economics #Markets #United States #Stock Market #Importance 1
-
-The Dow Jones Index Closes 0.34% Higher — The Dow Jones Index rose 174 points or 0.34 percent on Wednesday to close at 51840 points. Leading the gains are Home Depot (5.35%), Sherwin-Williams (3.12%) and 3M (2.49%). Top losers were Chevron (-2.43%), Walt Disney (-2.34%) and Microsoft (-2.27%).
 
 ---

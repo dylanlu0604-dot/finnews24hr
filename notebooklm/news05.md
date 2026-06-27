@@ -1,7 +1,79 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-06-28 02:39:20_
-_本檔包含 3535 則快訊，約 670291 字_
+_更新時間：2026-06-28 03:03:26_
+_本檔包含 3541 則快訊，約 670547 字_
+
+---
+
+### 2026-06-22 21:31:06  #其他
+
+埃克森美孚：股票將繼續以股票程式碼XOM在紐約證券交易所交易。
+
+---
+
+### 2026-06-22 21:31:02  #Trading Economics #Markets #China #stocks #Importance 1
+
+Alibaba Stock Price Hits 49-week Low — Alibaba shares decreased to 104.96 USD, the lowest since July 2025. Over the past 4 weeks, Alibaba lost 22.51%, and in the last 12 months, it decreased 6.94%.
+
+---
+
+### 2026-06-22 21:31:01  #市場
+
+多倫多證交所S&P/TSX綜合指數.GSPTSE開盤上漲85.37點，漲幅0.24%，報34942.71點。
+
+---
+
+### 2026-06-22 21:30:56  #Trading Economics #Markets #United States #stocks #Importance 1
+
+Amphenol Stock Price Hits All-time High — Amphenol shares increased to an all-time high of 167.27 USD. Over the past 4 weeks, Amphenol gained 39.31%, and in the last 12 months, it increased 77%.
+
+---
+
+### 2026-06-22 21:30:53  #市場 #焦點
+
+納斯達克中國金龍指數跌超1%，中比能源跌2.87%，康迪車業跌2.57%，優品車跌2.52%，嗶哩嗶哩跌2.67%，理想汽車跌2.57%。
+
+---
+
+### 2026-06-22 21:30:48  #市場 #焦點
+
+【美股開盤：三大股指漲跌不一】道指漲0.32%，標普500指數漲0.19%，納指跌0.12%。超微電腦漲6.23%，美光漲5.01%，英特爾漲4.91%，CRH水泥跌3.57%，紐曼礦業跌3.26%。“七姐妹”方面：英偉達漲0.57%，蘋果漲0.09%，微軟跌0.80%，特斯拉跌1.09%，Meta Platforms跌1.25%，亞馬遜跌1.64%，谷歌跌3.03%。
+
+---
+
+### 2026-06-22 21:30:28  #其他
+
+埃克森美孚：將於2026年7月1日起將註冊地從新澤西州遷至德克薩斯州。
+
+---
+
+### 2026-06-22 21:30:24  #MKT News #WTI #Impact bullish #Brent #XAUUSD
+
+Israel's prime minister said the Israel Defense Forces will remain deployed in the Lebanese security zone for as long as necessary.
+
+---
+
+### 2026-06-22 21:30:15  #其他
+
+內塔尼亞胡：以國防軍將在黎巴嫩安全區駐守至局勢無需駐軍為止。
+
+---
+
+### 2026-06-22 21:29:11  #MKT News #Important #XAUUSD #Impact bullish #Brent #DXY
+
+Israel's prime minister said the Israel Defense Forces can operate freely in southern Lebanon to respond to threats.
+
+---
+
+### 2026-06-22 21:28:51  #焦點 #國際
+
+以色列總理：國防軍可在黎巴嫩南部自由採取行動以化解威脅。
+
+---
+
+### 2026-06-22 21:28:39  #Trading Economics #Markets #Commodity #Importance 1
+
+Palladium Hovers Near 8-Month Low — Palladium held near $1,270 per ounce, remaining close to its lowest level since late September as easing geopolitical risk premiums and softer energy markets weighed on sentiment. US and Iran negotiators reported major advances toward a longer term settlement, helping calm fears of severe supply disruptions through key shipping routes, even as tensions persist from the conflict in Lebanon involving Israel and Hezbollah. Lower crude oil prices have reduced inflation pressures and eased fears of further energy driven tightening, but expectations of higher for longer interest rates continue to pressure non yielding assets like palladium. Market sentiment is also undermined by a projected surplus in the platinum group metals complex. On the demand side, structural change in China’s auto sector adds further headwinds, with electric vehicles rapidly gaining share and reducing long term demand expectations for palladium used in catalytic converters in traditional combustion engines.
 
 ---
 
@@ -21281,41 +21353,5 @@ Trump said the Strait of Hormuz will not charge any transit fees during a 60-day
 ### 2026-06-21 03:05:37  #其他
 
 秘魯左翼總統候選人羅伯託・桑切斯表示，其所屬政黨將向有關部門申請作廢本次大選所有海外選票；目前保守派對手藤森惠子在計票最後階段領先優勢不斷擴大，勝選在望。
-
----
-
-### 2026-06-21 02:59:11  #MKT News
-
-Hezbollah's media relations department said Israel's claim that it has encircled militants on the Ali al-Taher Heights is completely unfounded, calling such reports an attempt to bolster Israeli troop morale after failing to make gains in the area.
-
----
-
-### 2026-06-21 02:58:52  #國際
-
-真主黨媒體關係部門：以色列方面的說法，意在以軍在阿里・塔希爾推進行動失利後提振己方士氣。
-
----
-
-### 2026-06-21 02:58:00  #其他
-
-【荷蘭5比1戰勝瑞典】美加墨世界盃小組賽F組第2輪，荷蘭對陣瑞典，5比1戰勝瑞典。
-
----
-
-### 2026-06-21 02:56:04  #MKT News
-
-【Delay in Iran‑US talks signals strategic bargaining, expert says】Qin Tian, deputy director of the Middle East Institute at the China Institute of International Relations, said Iran is deliberately slowing and controlling the pace of negotiations, adopting a wait‑and‑see approach: if a memorandum’s implementation yields tangible benefits for Tehran, Iran will engage actively; if implementation falls short and Iran does not receive expected gains, it will not advance further talks. Qin said Washington has not clearly benefited from prior conflict or from the current ceasefire memorandum, and with US midterm elections approaching the Trump administration’s space for large‑scale military action against Iran is increasingly constrained. As a result, the US appears to be relying chiefly on economic inducements in the memorandum — proposals such as an Iran reconstruction fund and unfreezing Iranian assets — to boost Tehran’s negotiating incentives. Qin added Israel is similarly constrained: it wants to disrupt US‑Iran negotiations but must avoid antagonizing Washington, limiting its willingness to pursue large‑scale military operations.
-
----
-
-### 2026-06-21 02:42:46  #MKT News
-
-【Shooting in Chicago injures at least 12; two in critical condition】Chicago police said on the 20th that a late-night shooting on the 19th left at least 12 people wounded after two people fired from an SUV into a crowd. Victims were taken to hospital; two men are in critical condition. Police said they are investigating the incident.
-
----
-
-### 2026-06-21 02:41:14  #國際
-
-英國首相斯塔默：會聲援巴勒斯坦，且不會對伊朗開戰。
 
 ---

@@ -1,7 +1,62 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-06-28 02:39:20_
-_本檔包含 3494 則快訊，約 671296 字_
+_更新時間：2026-06-28 03:03:26_
+_本檔包含 3496 則快訊，約 671061 字_
+
+---
+
+### 2026-06-28 02:56:42  #其他
+
+三菱重工將在日美兩國投資燃氣輪機專案，資金超6.18億美元。
+
+---
+
+### 2026-06-28 02:56:09  #MKT News
+
+【US media: Trump-Netanyahu contacts have fallen sharply】Politico reports that after U.S. and Israeli strikes on Iran on Feb. 28, Israeli officials briefly viewed the alliance as entering a 'golden era' but four months later are preparing for greater isolation. U.S. Vice President Vance told Israel last week it 'has almost no friends' and warned it not to attack its only remaining powerful ally. Seven sources, including U.S. and Israeli officials, said Vance's remarks reflect a new normal in which Israel's status no longer receives priority treatment from Washington. Tensions are visible: one source said Prime Minister Netanyahu visited Washington five times in 2025 but has made only one trip this year, in February, and phone contact has fallen sharply.
+
+---
+
+### 2026-06-28 02:55:31  #國際
+
+【中國裁判將首次參加世界盃淘汰賽執裁工作】新華社美國波士頓6月27日訊息，國際足聯27日宣佈，中國裁判馬寧將在美加墨世界盃32強賽德國隊與巴拉圭隊的比賽中擔任第四官員，周飛將擔任該場比賽候補助理裁判。這將是中國裁判員首次參與世界盃淘汰賽執裁工作。（新華社）
+
+---
+
+### 2026-06-28 02:54:19  #國際
+
+以色列總理內塔尼亞胡：伊朗國內爆發了抗議活動，我相信其政權最終將會倒臺。
+
+---
+
+### 2026-06-28 02:48:26  #焦點 #國際
+
+以色列總理內塔尼亞胡：由美國斡旋達成的以黎框架協議釋放了明確訊號，伊朗與真主黨不得參與黎巴嫩未來的安全部署，這份協議重創了德黑蘭在該地區的影響力。
+
+---
+
+### 2026-06-28 02:41:58  #MKT News
+
+Israeli Prime Minister Netanyahu said he will send a delegation to Washington to clarify Israel's position on the U.S.-Iran agreement.
+
+---
+
+### 2026-06-28 02:41:47  #MKT News #WTI #Impact bullish #Brent #DXY
+
+Israeli Prime Minister Netanyahu said a two-state solution will be impossible to achieve under any government he leads.
+
+---
+
+### 2026-06-28 02:39:23  #焦點 #國際
+
+以色列總理內塔尼亞胡談以黎框架協議：
+1、將與黎巴嫩達成其他協議；
+2、在我領導的任何政府中，兩國方案將不可能實現；
+3、將以武力應對真主黨試圖違反協議的努力；
+4、伊朗已不再是我們所知的那個伊朗，我們有機會進行新的考驗；
+5、不會接受加沙和黎巴嫩的“零和”局面；
+6、留在黎巴嫩是保障以色列安全的“好解決方案”；
+7、將派遣代表團前往華盛頓，闡明我們對美伊協議的立場。
 
 ---
 
@@ -21064,41 +21119,5 @@ Japan's Nikkei index slipped back below 71,000 points, down 2.00% intraday.
 ### 2026-06-26 08:12:32  #Trading Economics #Markets #Commodity #Importance 2
 
 Gold Set for Sharp Weekly Drop — Gold steadied above $4,000 an ounce on Friday but remained on track to lose nearly 5% for the week as hawkish signals from the US Federal Reserve outweighed support from the impact of US-Iran peace efforts. On Thursday, bullion rebounded modestly after the latest US PCE inflation data came in broadly in line with expectations, easing fears of imminent Fed rate hikes and pushing the dollar and Treasury yields lower. Even so, markets are pricing in an 80% chance of a Fed rate hike in December following last week's hawkish pause, while the probability of a September increase stands at around 63%. Meanwhile, oil prices continued to retreat and have returned to pre-conflict levels as progress in US-Iran peace negotiations eased concerns over Middle East supply disruptions and further reduced inflation worries.
-
----
-
-### 2026-06-26 08:11:50  #宏觀 #兩會
-
-【廣東支援腦機介面納入醫保 13只腦機介面概念股年內獲機構調研】日前，廣東省印發《廣東省腦機介面科技與產業協同發展行動計劃（2026—2030年）》的通知，推動人工智慧與腦機介面產業鏈深度協同發展。2026年腦機介面首次寫入政府工作報告，被明確為培育發展的六大未來產業之一。2025年北京、上海、山東已經出臺腦機介面專項政策。今年以來，除了廣東外，江蘇、天津相繼推出腦機介面相關專項政策。據證券時報·資料寶統計，今年以來，腦機介面概念股普跌，其中航天長峰、漢威科技跌幅超30%，愛朋醫療、翔宇醫療等跌超20%。從年內調研機構來看，有13只腦機介面概念股獲機構調研，其中翔宇醫療、美好醫療、愛朋醫療、偉思醫療等參與調研的機構數量超百家。
-
----
-
-### 2026-06-26 08:11:39  #市場 #國際
-
-5年期日本國債收益率上升1.0個基點，至1.890%。
-
----
-
-### 2026-06-26 08:11:32  #公司
-
-【年內漲184%仍被嫌名字晦氣！匯綠生態遭股民催改名 公司回應】因名字被指“晦氣”，A股上市公司匯綠生態的簡稱再度成為輿論焦點。記者注意到，近期有投資者在互動平臺直接建議公司更改“會綠”二字，並稱公司遲遲不落實。對此，匯綠生態在平臺回覆稱：“尊敬的投資者，公司會審慎考慮關於公司更名的事項，感謝您的關注！”（21財經）
-
----
-
-### 2026-06-26 08:10:31  #MKT News
-
-Australia's S&P/ASX 200 opened up 11.7 points, or 0.13%, at 8,760.40 on Friday, June 26.
-
----
-
-### 2026-06-26 08:09:59  #國際
-
-【特朗普下週將首次搭乘卡達贈予的過渡版空軍一號出行】白宮官員透露，美國總統特朗普將於7月1日前往北達科他州出席活動，屆時他將首次搭乘卡達政府贈予美國的全新總統專機。這架波音747-8型飛機的首航任務，是搭載特朗普出席西奧多・羅斯福總統圖書館落成典禮。下週特朗普將舉辦一系列充滿美國本土風情的活動，紀念美國建國250週年，這場落成儀式正是其中一項。多名不願公開姓名、參與內部磋商的官員對外披露了該出行計劃。美國空軍將這架飛機稱作VC-25B過渡專機，它將臨時承擔總統出行任務，直至波音全新定製的總統專機機隊於2028年交付。本屆任期之初，特朗普接受卡達贈予的這架飛機一事引發巨大爭議，批評人士就此提出倫理與國家安全層面的多重擔憂。這架飛機也是外國贈予美國政府的價值最高禮品之一。
-
----
-
-### 2026-06-26 08:08:40  #MKT News #Market Regions #Greater China #CSI300 #Impact bullish
-
-【CITIC Securities: Banks entering tail of risk cycle in 2026-27】CITIC Securities says after large net outflows earlier this year, China bank A-shares now yield an average static dividend of about 4.3%, with some large caps above 5% and an average static PB of 0.60x. Looking to 2026-27, the sector is entering the tail of its risk cycle; the first derivative of ROE has improved and the firm expects industry ROE to stabilize around 8–9% in 2026–27, supporting valuation gains. H2 could see a "high-certainty equity asset" rerating with significant absolute upside. Stock selection favors banks with strong commercial models, improving ROE prospects, low-valuation large banks set for multiple recovery, names entering stable growth, and high-quality, defensive franchises.
 
 ---

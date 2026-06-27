@@ -1,7 +1,151 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-06-28 02:39:20_
-_本檔包含 3859 則快訊，約 670785 字_
+_更新時間：2026-06-28 03:03:26_
+_本檔包含 3880 則快訊，約 671235 字_
+
+---
+
+### 2026-06-25 04:46:30  #MKT News #Market Themes #Chip Wars #QCOM.O #Impact bullish
+
+Qualcomm (QCOM.O) CFO said two hyperscale custom-chip customers will generate $1.0 bln in revenue in fiscal 2027.
+
+---
+
+### 2026-06-25 04:46:17  #MKT News
+
+Qualcomm (QCOM.O) CFO said the company targets data-center revenue exceeding $15 billion in fiscal 2029.
+
+---
+
+### 2026-06-25 04:45:48  #MKT News #Market Themes #Chip Wars #QCOM.O #Impact bullish
+
+Qualcomm (QCOM.O) raised its fiscal 2029 revenue target for non-handset businesses to $40 bln.
+
+---
+
+### 2026-06-25 04:45:43  #MKT News #Important #Market Themes #AI Revolution #QCOM.O #Impact bullish
+
+Qualcomm (QCOM.O) shares rose over 14% in after-hours US trading after the CFO said the company targets $5.0 billion in AI data-center revenue in fiscal 2027.
+
+---
+
+### 2026-06-25 04:45:11  #公司
+
+道富集團計劃將 2026 年第三季度股息上調 10%，至每股 0.92 美元。
+
+---
+
+### 2026-06-25 04:44:46  #市場
+
+美光科技盤後上漲至15%。
+
+---
+
+### 2026-06-25 04:43:55  #MKT News
+
+Trump said he nearly made progress in talks with NATO Secretary-General Rutte.
+
+---
+
+### 2026-06-25 04:43:08  #國際
+
+特朗普：關於伊朗戰爭授權的投票毫無意義。
+
+---
+
+### 2026-06-25 04:43:03  #MKT News #Important #WTI #Impact bullish #Brent
+
+US President Trump said an Iran deal that includes transportation costs would be unacceptable.
+
+---
+
+### 2026-06-25 04:42:31  #MKT News #LMT.O #Impact bullish #RTX.O #NOC.O
+
+White House says Trump's supplemental budget request includes $67.15 bln for Defense Department military projects.
+
+---
+
+### 2026-06-25 04:42:02  #國際
+
+特朗普談伊朗：我們在談判中進展順利。
+
+---
+
+### 2026-06-25 04:41:45  #國際
+
+特朗普：對霍爾木茲海峽收費是不可接受的。
+
+---
+
+### 2026-06-25 04:40:59  #MKT News #Brent #Impact bullish
+
+Trump said he had heard that Burnham, a potential successor to the UK prime minister, is very liberal and therefore may not open the North Sea.
+
+---
+
+### 2026-06-25 04:40:53  #MKT News #Market Themes #AI Revolution #QCOM.O #Impact bullish
+
+Hugging Face CEO said AI models from the Hugging Face ecosystem are planned to be integrated and deployed on Qualcomm platforms.
+
+---
+
+### 2026-06-25 04:40:39  #MKT News #Important #Macro & Rates #The Fed (FOMC) #DXY #Impact bearish #EURUSD #Impact bullish #S&P500
+
+US President Trump said the US needs low interest rates.
+
+---
+
+### 2026-06-25 04:39:06  #公司
+
+高通首席財務官：公司有機會將年度營收規模拓展至 1000 億美元。
+
+---
+
+### 2026-06-25 04:38:25  #國際
+
+特朗普：我們需要低利率。
+
+---
+
+### 2026-06-25 04:38:16  #國際
+
+美國白宮：特朗普追加撥款申請中包含 671.5 億美元，用於國防部各類軍事專案。
+
+---
+
+### 2026-06-25 04:37:23  #國際
+
+美國白宮：特朗普向國會申請 5 億美元用於紐約賓夕法尼亞車站翻新工程，另申請 10 億美元，用以提高通用汽車破產期間福利受損工人的養老金。
+
+---
+
+### 2026-06-25 04:37:05  #其他
+
+美光科技：目前看不到供應實現供需平衡的明確時間點。
+
+---
+
+### 2026-06-25 04:36:51  #國際
+
+特朗普談及伊朗校園襲擊事件：不確定他們能否解決此事。
+
+---
+
+### 2026-06-25 04:35:50  #公司 #其他 #焦點 #國際
+
+美光科技：預計 2028 年儲存晶片供應將逐步改善。
+
+---
+
+### 2026-06-25 04:35:30  #其他
+
+高通：預計安卓系統硬體裝置營收將增長大約5%。在2029財年，預計硬體將在收入佔比大約三分之一。
+
+---
+
+### 2026-06-25 04:35:10  #Trading Economics #Markets #United States #Stock Market #Importance 1
+
+The Dow Jones Index Closes 0.34% Higher — The Dow Jones Index rose 174 points or 0.34 percent on Wednesday to close at 51840 points. Leading the gains are Home Depot (5.35%), Sherwin-Williams (3.12%) and 3M (2.49%). Top losers were Chevron (-2.43%), Walt Disney (-2.34%) and Microsoft (-2.27%).
 
 ---
 
@@ -23260,23 +23404,5 @@ FTSE 100 Outperforms Global Markets — The FTSE 100 edged higher on Tuesday, ou
 ### 2026-06-23 23:48:00  #MKT News
 
 【Lebanese president says talks must secure end to Israel's occupation】Lebanese President Aoun said his government will not accept any negotiation outcome short of Israel ending its occupation of Lebanese territory and Lebanon restoring full territorial sovereignty. He was briefed on a Lebanese delegation's report from the fifth round of Lebanon–US–Israel talks in Washington. In calls with US Vice President Vance and Secretary of State Rubio, Aoun and US officials discussed recent developments and phased progress in US–Iran talks in Switzerland; Vance and Rubio said the US supports Lebanon's push to extend legitimate state authority across its territory and strengthen control over national sovereignty.
-
----
-
-### 2026-06-23 23:46:49  #國際
-
-【黎總統稱談判必須確保“以色列結束對黎佔領”】黎巴嫩總統奧恩23日表示，黎巴嫩政府不會接受任何低於“以色列結束對黎巴嫩領土佔領、黎巴嫩恢復全部領土主權”的談判結果。 據黎總統府發表的宣告，奧恩當天聽取了黎巴嫩代表團赴華盛頓參加第五輪黎美以三方會談情況彙報，隨後作出上述表態。 奧恩表示，近期事態發展證明，透過談判解決問題是實現黎巴嫩國家目標和維護國家主權的正確選擇。他希望談判能夠在恢復黎巴嫩國家主權、結束以色列對黎南部佔領等問題上取得決定性進展。 奧恩當天還與美國副總統萬斯和美國國務卿魯比奧通電話，雙方就黎巴嫩局勢最新發展以及美伊瑞士談判的階段性進展進行了討論。 萬斯和魯比奧表示，美國支援黎巴嫩政府在推進國家合法權力全面覆蓋、強化國家對全部領土主權控制方面的立場。奧恩感謝美方對推動結束黎巴嫩戰事、加強黎國家權力等方面的關注。(新華社)
-
----
-
-### 2026-06-23 23:46:45  #公司
-
-網路安全企業 Varonis 在收到收購意向後，據傳正在考量出售事宜。公司漲幅擴大至最高 23%。
-
----
-
-### 2026-06-23 23:44:40  #MKT News
-
-【Modi meets Wang Yi, BRICS security envoys in New Delhi】June 23, 2026, New Delhi — Indian Prime Minister Modi met Wang Yi, member of the CPC Politburo and director of the Office of the Central Foreign Affairs Commission, and other BRICS senior security representatives. Modi said India supports China taking the BRICS rotating chair next year and will work with China to advance BRICS cooperation and safeguard Global South interests. Wang Yi conveyed Chinese leadership’s good wishes, said China and India should lead unity and self-reliance among Global South nations, urged implementation of leaders’ consensus, greater mutual trust, proper handling of sensitive issues and deeper mutually beneficial cooperation, and said China will continue to support India in fulfilling its BRICS rotating-chair responsibilities. Wang also met Indian National Security Adviser Ajit Doval during the visit.
 
 ---
