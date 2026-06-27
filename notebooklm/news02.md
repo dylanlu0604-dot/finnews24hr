@@ -1,7 +1,67 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-06-27 18:26:19_
-_本檔包含 3852 則快訊，約 672594 字_
+_更新時間：2026-06-27 19:13:54_
+_本檔包含 3831 則快訊，約 672029 字_
+
+---
+
+### 2026-06-26 05:16:08  #國際
+
+美國眾議院議長約翰遜：與特朗普舉行了富有成效的會晤。
+
+---
+
+### 2026-06-26 05:15:21  #市場
+
+富時A50期指連續夜盤收跌0.57%，報15765點。
+
+---
+
+### 2026-06-26 05:07:37  #公司
+
+【蘋果調整Mac晶片戰略 下一代高階晶片將直接躍遷至M7系列】蘋果公司正對其Mac晶片戰略進行史上最大調整之一，準備讓下一代高階處理器直接躍遷至聚焦人工智慧的新一代晶片。知情人士稱，目前使用M5系列的蘋果計劃最早於今年推出基礎版M6處理器，用於入門級Mac，但該公司將首次跳過這款晶片的高階版本。知情人士稱，蘋果轉而計劃在2027年推出具備更先進計算和圖形處理能力的下一代Pro和Max晶片，作為新一代M7晶片的一部分。
+
+---
+
+### 2026-06-26 05:03:37  #Trading Economics #Markets #Brazil #Stock Market #Importance 1
+
+Ibovespa Rises on Soft Inflation Data — The Ibovespa rose 0.9% to close at 171,990 on Thursday, as investors reacted positively to softer-than-expected inflation data and fresh guidance from the BCB. Brazil’s mid-month inflation slowed more than forecast in June, while the BCB sought to clarify its latest 25 basis-point Selic cut and stressed that future decisions remain data-dependent. The softer inflation print and lower oil prices pushed the yield curve lower. Major banks traded mixed, with Banco do Brasil up 1.6%, Itaú rising 1.7%, while Bradesco edged down 0.2%. Vale rose 1.1%, recovering from recent losses. Petrobras gained 0.5% as oil prices edged up despite improving shipping flows through the Strait of Hormuz. Meanwhile, Braskem plunged 10.4% after creditors rejected its restructuring proposal.
+
+---
+
+### 2026-06-26 05:03:32  #市場
+
+週四（6月25日）紐約尾盤（週五北京時間04:59），離岸人民幣（CNH）兌美元報6.8008元，較週三紐約尾盤反彈124點，日內整體交投於6.8164-6.7969元區間，整體持續上揚。
+
+---
+
+### 2026-06-26 05:02:54  #央行 #國際
+
+【紐約聯儲行長稱利率處於良好位置 預計通脹到2028年達標】紐約聯儲行長約翰·威廉姆斯表示，利率處於能夠讓通脹向央行目標回落的良好位置。“鑑於通脹處於高位，我們必須讓它可持續地回到我們2%的長期目標水平，”威廉姆斯週四在為Jersey City一場活動準備的演講稿中表示。“當前貨幣政策立場處於實現這一點的良好位置。”威廉姆斯指出，通脹“毫無疑問處於高位”，受到關稅、伊朗戰爭引發的能源衝擊以及人工智慧投資熱潮的推動。他表示，儘管關稅影響基本釋放、能源價格已回落，但仍存在重大風險。威廉姆斯預計，通脹到年底將放緩至3.5%，隨後將“沿著平穩路徑”繼續向2%靠攏，到2028年達到目標。他表示，未來幾個季度，貿易關稅影響逐步消退應該有助於緩解通脹，而住房通脹應該繼續放緩。他還表示，如果中東衝突能夠相對較快地解決，能源和商品價格也應該企穩。
+
+---
+
+### 2026-06-26 05:02:21  #MKT News
+
+A British official said King Charles will not reside at Buckingham Palace after renovation work completes next year.
+
+---
+
+### 2026-06-26 05:00:27  #其他
+
+英國查爾斯國王 2024 至 2025 財年繳納個人稅款 1290 萬英鎊。
+
+---
+
+### 2026-06-26 04:58:27  #市場
+
+週四（6月25日）紐約尾盤，現貨黃金漲0.64%，報4024.97美元/盎司。COMEX黃金期貨漲0.78%，報4040.10美元/盎司。現貨白銀漲0.73%，報57.8327美元/盎司。COMEX白銀期貨跌0.38%，報58.290美元/盎司。COMEX銅期貨漲2.03%，報6.1335美元/磅。現貨鉑金漲1.08%，現貨鈀金漲1.43%。
+
+---
+
+### 2026-06-26 04:56:49  #Trading Economics #Markets #Canada #Stock Market #Importance 1
+
+TSX Edges Higher on Banks and Miners Gains — The S&P/TSX Composite Index rose 0.3% to close at 34,850 on Thursday, supported by gains in the financial and mining sectors. Although oil prices edged higher after a cargo ship was struck by an unidentified projectile off the Omani coast, they remained near pre-conflict lows, easing inflation concerns and supporting financial stocks and the broader index. TD Bank rose 0.9%, RBC gained 0.4%, and BMO added 0.9%. Gold prices also edged higher, supporting mining shares, with Agnico Eagle rising 1.7%. Meanwhile, a renewed wave of volatility in technology stocks on Wall Street weighed on Canadian tech shares. Shopify fell 2.6%, Constellation Software lost 3.6%, and Celestica shed 0.7%. Investors also assessed the latest minutes from the Bank of Canada, which showed policymakers agreed to keep monetary policy flexible in response to potential new US trade restrictions and changes in energy prices.
 
 ---
 
@@ -23033,191 +23093,5 @@ Spot silver hit its lowest level since last November, trading at $56.17/oz, down
 ### 2026-06-25 02:00:52  #國際
 
 美國國家運輸安全委員會將在特斯拉事故調查中重點核查駕駛員操作狀態與自動駕駛系統技術狀況。
-
----
-
-### 2026-06-25 02:00:50  #MKT News #Important #Commodities #Precious Metals
-
-SHFE most-active silver contract tumbled 8.00% intraday to 13,700 yuan/kg.
-
----
-
-### 2026-06-25 02:00:29  #央行 #國際
-
-美聯儲理事庫克未就經濟前景與貨幣政策發表相關評論。
-
----
-
-### 2026-06-25 02:00:28  #MKT News #Macro & Rates #The Fed (FOMC)
-
-Fed Governor Cook did not comment on monetary policy or the economic outlook in remarks at the opening of a small-business symposium.
-
----
-
-### 2026-06-25 02:00:26  #市場 #焦點
-
-白銀連續主力合約日內跌8%，現報13700.00元。
-
----
-
-### 2026-06-25 02:00:26  #市場
-
-紐約期銀日內跌9%，現報56.84美元/盎司。
-
----
-
-### 2026-06-25 02:00:05  #市場 #焦點
-
-紐約期銀失守57美元/盎司，日內跌8.82%。
-
----
-
-### 2026-06-25 01:59:48  #MKT News #Important #Commodities #Precious Metals
-
-Spot silver plunged 8.00% intraday to $56.58/oz.
-
----
-
-### 2026-06-25 01:59:37  #市場 #焦點
-
-現貨白銀日內跌8%，現報56.59美元/盎司。
-
----
-
-### 2026-06-25 01:59:11  #其他
-
-阿聯酋宣佈，巴布氣頂開發專案預計天然氣日產量約為15億標準立方英尺。
-
----
-
-### 2026-06-25 01:58:36  #MKT News #Commodities #Energy
-
-UAE state news agency said the project is expected to have production capacity of about 1.5 bln standard cubic feet per day of natural gas.
-
----
-
-### 2026-06-25 01:58:15  #國際
-
-【聯邦法官永久叫停美政府要求選民提供身份證明的命令】當地時間6月24日，美國聯邦地區法院法官丹尼斯·卡斯珀裁定，永久禁止特朗普政府實施其首份選舉行政令中的大部分內容。該行政令要求選民在登記投票時提供公民身份檔案證明，並規定郵寄選票若在選舉日後送達，即使郵戳日期符合要求，也不得計票。法官表示，根據美國憲法，規範選舉事務的權力屬於各州和國會，而非總統，因此總統無權透過行政命令單方面修改相關選舉規則。（
-
----
-
-### 2026-06-25 01:56:35  #MKT News #Important #Commodities #Precious Metals
-
-Spot silver broke below $57/oz, down 7.40% intraday.
-
----
-
-### 2026-06-25 01:56:27  #市場 #焦點
-
-現貨白銀失守57美元/盎司，日內跌7.51%。
-
----
-
-### 2026-06-25 01:56:23  #MKT News #Commodities #Energy #BP.L #Impact bearish #TTE.PA
-
-ADNOC will hold a 60% stake in the Bab natural gas cap concession; TotalEnergies and BP Abu Dhabi will each hold 10%.
-
----
-
-### 2026-06-25 01:56:13  #市場
-
-紐約期銀日內跌8%，現報57.51美元/盎司。
-
----
-
-### 2026-06-25 01:55:39  #公司
-
-阿聯酋宣佈，阿布扎比國家石油公司將持有巴布氣頂開發專案60%特許股權，道達爾能源、英國石油阿布扎比分公司各持股10%。
-
----
-
-### 2026-06-25 01:54:55  #觀點
-
-【摩根大通下調特斯拉第二季度汽車交付量預期】摩根大通分析師Rajat Gupta把對特斯拉第二季度汽車交付量的預估從43.05萬輛下調至42萬輛，原因是近期電動汽車需求方面的訊號喜憂參半。由於下調交付量預期，Gupta還將第二季度盈利預期從0.44美元下調至0.42美元，並將2026年每股收益預期從1.95美元下調至1.90美元。
-
----
-
-### 2026-06-25 01:54:20  #MKT News #WTI #Impact bearish #Brent
-
-UAE state news agency says the government has awarded the development concession for the Bab gas cap to Abu Dhabi National Oil Company (ADNOC) and its partners.
-
----
-
-### 2026-06-25 01:53:50  #公司
-
-阿聯酋將巴布氣田氣頂開發特許權授予阿布扎比國家石油公司及其合作伙伴。
-
----
-
-### 2026-06-25 01:52:36  #市場
-
-現貨白銀日內跌7%，現報57.21美元/盎司。
-
----
-
-### 2026-06-25 01:51:24  #MKT News #Important #Commodities #Precious Metals
-
-Spot silver fell 7.00% intraday to $57.23/oz; spot palladium fell 6.00% to $1,154.40/oz.
-
----
-
-### 2026-06-25 01:51:11  #Trading Economics #Economy #Brazil #Government Bond 10Y #Importance 1
-
-Brazil 10-Year Yield Eases After Copom Minutes — Brazil’s 10-year government bond yield edged down to 14.4% in late June after the release of the minutes from the latest Copom meeting, in which the benchmark Selic rate was cut by 25 basis points to 14.25% per year. The view that Copom left the door open for further Selic cuts helped ease the Brazilian yield curve. Still, the minutes struck a slightly more hawkish tone than the initial statement, explicitly describing the inflation risk balance as asymmetric and tilted to the upside. Meanwhile, the US Federal Reserve adopted a more hawkish stance at its latest meeting, with policymakers signaling additional rate hikes by December. The shift led investors to scale back expectations for monetary easing, limiting the decline in bond yields.
-
----
-
-### 2026-06-25 01:50:36  #市場 #焦點
-
-白銀連續主力合約日內跌7%，現報13853.00元。
-
----
-
-### 2026-06-25 01:50:25  #其他
-
-Coinbase：部分使用者在OP網路上發起轉賬可能失敗。
-
----
-
-### 2026-06-25 01:48:05  #MKT News #Commodities #Energy #WTI #Brent
-
-Iraq's state news agency reported the Kurdistan Regional Government said several foreign oil companies have resumed operations in Iraqi Kurdistan.
-
----
-
-### 2026-06-25 01:47:49  #國際
-
-市場資訊：歐洲各國領導人堅稱，他們正在落實美國總統特朗普的訴求，即推動北約實現“歐洲化”。
-
----
-
-### 2026-06-25 01:47:06  #Trading Economics #Markets #other #currency #Importance 0
-
-Bitcoin Hits 20-month Low — The Bitcoin touched 59140.00 against the BTC, the highest since October 2024. Over the past 4 weeks, Bitcoin US Dollar lost 23.38%, and in the last 12 months, it decreased 44.89%.
-
----
-
-### 2026-06-25 01:46:58  #公司 #市場 #國際
-
-【SpaceX發行的250億美元債券走弱，長期債券領跌】在透過債市募資250億美元次日，SpaceX債券大多走弱，長債領跌。投資者在該公司的首次發債中更青睞期限較短的債券。Trace資料顯示，截至紐約週三上午10點25分，SpaceX發行的30年期債券較同期美國國債收益率高出188個基點，而交易最終定價為高出175個基點。期限最短的5年期債券價格持穩。
-
----
-
-### 2026-06-25 01:46:47  #市場 #觀點 #國際
-
-【高盛分析師稱石油多頭誤判油價跌幅 低估系統靈活性】高盛全球大宗商品研究聯席主管Daan Struyven表示，石油多頭分析師誤判了伊朗局勢緩和後原油價格的下跌幅度。美國與伊朗在4月達成臨時停火協議，並開啟了旨在正式結束戰爭的談判。Struyven表示，市場“低估了系統的靈活性”。
-
----
-
-### 2026-06-25 01:46:00  #國際
-
-【賴特稱依託“創新方案”，美國戰略石油儲備儲量有望突破5億桶】美國能源部長克里斯·賴特週三在路透社舉辦的論壇上表示，無需動用納稅人資金，依靠各類“創新方案”，就能將儲量已大幅消耗的美國戰略石油儲備（SPR）提升至5億桶以上。賴特拒絕詳細說明正在考量的具體辦法，不過一名知情人士此前透露，美國正考慮開採軍方所屬土地下的石油資源。賴特表示，作為1.72億桶原油置換計劃的一部分，此前借給石油企業的原油將連本帶息歸還，這會讓戰略石油儲備總量提升至遠超4億桶的規模。他補充，這批原油預計從今年年末至明年初開始歸還，歸還總量將比當初儲備借出的原油多出3500萬至4000萬桶。
-
----
-
-### 2026-06-25 01:45:19  #公司 #焦點
-
-伊拉克庫爾德斯坦自治區政府表示，已有多家外國石油公司恢復在該地區的運營。
 
 ---

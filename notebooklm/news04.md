@@ -1,7 +1,123 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-06-27 18:26:19_
-_本檔包含 3516 則快訊，約 672210 字_
+_更新時間：2026-06-27 19:13:54_
+_本檔包含 3524 則快訊，約 672697 字_
+
+---
+
+### 2026-06-23 22:03:56  #其他
+
+美銀全球研究部將全球半導體行業的TAM預測上調至2.7萬億美元，此前預測為2.3萬億美元。
+
+---
+
+### 2026-06-23 22:03:17  #國際
+
+官方資料顯示，截至6月21日，歐盟2025/26年度玉米進口量為1781萬噸，去年同期為1936萬噸。
+
+---
+
+### 2026-06-23 22:03:03  #MKT News #Important #Market Regions #Europe & UK
+
+UK government has brought forward plans to tax low-value imported goods by six months, moving implementation to October 2028.
+
+---
+
+### 2026-06-23 22:02:58  #國際
+
+官方資料顯示，截至6月21日，歐盟2025/26年度大麥出口量為861萬噸，去年同期為478萬噸。
+
+---
+
+### 2026-06-23 22:02:36  #國際
+
+官方資料顯示，截至6月21日，歐盟2025/26年度軟小麥出口量為2273萬噸，上年同期為2122萬噸。
+
+---
+
+### 2026-06-23 22:01:59  #其他
+
+市場訊息：英國政府將低價值進口商品徵稅措施提前六個月至2028年10月實施。
+
+---
+
+### 2026-06-23 22:01:48  #Trading Economics #Economy #United States #Services PMI #Importance 1
+
+US Services Growth Remains Subdued — The S&P Global US Services PMI rose to 51.3 in June 2026 from 50.7 in May, just above the market consensus of 51, according to a preliminary estimate. The latest reading indicated a modest improvement in business activity, the strongest since February, partly linked to the soccer World Cup, though growth remained subdued. Output and new orders rose only slightly, with firms citing high prices, elevated interest rates, and weak confidence among businesses and consumers.
+
+---
+
+### 2026-06-23 22:01:29  #經濟數據 #美國
+
+美國6月里奇蒙德聯儲製造業指數4，前值13。
+
+---
+
+### 2026-06-23 22:00:58  #央行 #國際
+
+美國6月里奇蒙德聯儲製造業指數 4，前值13。
+美國6月里奇蒙德聯儲製造業裝船指數 3，前值16。
+美國6月里奇蒙德聯儲服務業收入指數 -1，前值14。
+
+---
+
+### 2026-06-23 22:00:45  #MKT News
+
+U.S. Richmond Fed services revenue index -1 in June; prior 14.
+
+---
+
+### 2026-06-23 22:00:41  #MKT News
+
+US Richmond Fed manufacturing shipments index for June 3, down from 16 previously.
+
+---
+
+### 2026-06-23 22:00:39  #MKT News #Important #Macro & Rates #US Economy #S&P500 #Impact bearish #DXY #US10Y #Impact bullish
+
+U.S. Richmond Fed manufacturing index, June: 4; prior 13.
+
+---
+
+### 2026-06-23 22:00:38  #MKT News #Economic Calendar #Important
+
+United States | Richmond Fed Services Revenue Index (Jun) | actual -1 | previous 14
+
+---
+
+### 2026-06-23 22:00:32  #MKT News #Economic Calendar #Important
+
+United States | Richmond Fed Manufacturing Shipments Index (Jun) | actual 3 | previous 16
+
+---
+
+### 2026-06-23 22:00:32  #MKT News #Economic Calendar #Important
+
+United States | Richmond Fed Manufacturing Index (Jun) | actual 4 | previous 13
+
+---
+
+### 2026-06-23 22:00:24  #Trading Economics #Markets #Canada #Stock Market #Importance 1
+
+TSX Slips on Global Risk-Off Mood — The S&P/TSX Composite Index fell 0.5% to trade below the 35,000 mark on Tuesday, tracking global equities amid a broad selloff in technology stocks and persistent concerns over elevated interest rates. Worries that speculative AI spending by hyperscalers is running ahead of fundamentals weighed on North American tech shares and hurt overall risk appetite. Celestica plunged nearly 7%, leading losses in the tech sector. Gold prices also declined, extending pressure on mining stocks after the hawkish projections from the US Federal Reserve last week. Agnico Eagle, Barrick, and Franco-Nevada lost around 3%, while WPM fell more than 4%. Meanwhile, oil prices dropped for a second straight session as supply concerns eased amid progress in restoring shipments through the Strait of Hormuz, reducing fears of energy-driven inflation but weighing on energy shares.
+
+---
+
+### 2026-06-23 21:59:59  #MKT News #Market Regions #Wall Street (US) #S&P500 #Impact bearish
+
+S&P 500 decline narrows to 1%.
+
+---
+
+### 2026-06-23 21:59:49  #MKT News #Important #SPCX.O
+
+SpaceX (SPCX.O) stock reversed earlier losses and was up 1%.
+
+---
+
+### 2026-06-23 21:59:35  #Trading Economics #Markets #Brazil #Stock Market #Importance 1
+
+Ibovespa Slips as Global Tech Selloff Weighs — The Ibovespa edged lower to trade below the 170,000 mark on Tuesday, tracking a broader risk-off mood as a selloff in technology stocks weighed on global markets. Losses were broad-based, led by Vale, which fell 2.2%. Vale’s board unanimously approved the call for a shareholders’ meeting on July 22 to vote on the removal of its chairman, Daniel Stieler, following a request from the miner’s largest shareholder, Previ, triggering an internal dispute over the position. Utility stocks also moved lower, with Axia and Sabesp down around 1%. Major banks declined after minutes from the latest Banco Central do Brasil meeting showed policymakers see Selic paths closer to market expectations as more appropriate. On Monday, the BCB’s Focus survey showed the year-end Selic forecast rising from 13.75% to 14.00%. Bradesco and Itaú both lost more than 0.5%. Other notable laggards included Petrobras (-0.6%), WEG (-1%), and Embraer (-1%).
 
 ---
 
@@ -21165,71 +21281,5 @@ MOODY'S expects SpaceX (SPCX.O) to maintain strong liquidity, noting operating c
 ### 2026-06-22 20:21:46  #其他
 
 【6月重點20城樓市活躍度延續，端午假期上海二手房網籤量同比增19%】中指研究院資料顯示，6月以來（6月1日-6月20日）20個重點城市二手住宅成交8.8萬套，同比增長10.9%。城市表現上，上海、蘇州等城市二手住宅成交套數同比增幅超20%，深圳、寧波等超10%，需求在傳統小陽春後活躍度還在延續。其中，上海、深圳等核心城市新房市場延續修復態勢，端午假期市場成交也保持活躍。機構資料顯示，端午假期上海新建商品住宅共網籤601套，與去年端午三天假期(293套)相比，成交量增加308套。二手房市場成交也保持熱度，3天網籤量共計1231套，相比去年端午節三天(1035套)增加196套，增幅約18.9%。北京、廣州等城市新房市場也保持較高熱度。6月截至20日，北京新房成交面積環比增長36%；廣州新房成交面積同比增長9%。中指研究院報告指出，進入6月後，重點城市二手房成交仍保持增長態勢，北京、上海等核心城市成交量繼續處於近年來同期較高水平，需求延續釋放態勢。與二手房相比，新房市場仍以結構性分化為主，修復主要集中於核心城市優質板塊及優質專案。（中指研究院）
-
----
-
-### 2026-06-22 20:21:39  #其他
-
-【上海市政府常務會議研究戰興產業和數字上海“十五五”規劃，部署促進民間投資發展】上海市委副書記、市長龔正今天（6月22日）主持召開市政府常務會議，要求按照市委部署，全力保持經濟韌性增長勢頭；下大力氣提升戰略性新興產業發展能級；促進民間投資高質量發展；紮實推進“數字上海”建設。會議指出，二季度是承上啟下的關鍵階段，各區、各部門要強化實幹擔當，全力延續一季度經濟增長的良好勢頭，全力衝刺半年經濟增長目標。要聚力促進主要行業拉長板、補短板，推動權重行業切實成為“定盤星”、承壓行業加快形成“轉折點”。聚力支援重點區域挑重擔、作貢獻，在研究新情況、解決新問題上下功夫、出經驗，統籌推進短期穩增長和中長期轉型發展。聚力推動經營主體穩預期、強信心，堅持規範與服務並重、政策與活動並舉，認真落實好全國統一大市場建設要求，不斷提升政策精準性、有效性，同時精心辦好重大活動，強化文商旅體展聯動，更好助力全市經濟增長。會議原則同意《上海市戰略性新興產業發展“十五五”規劃》並指出，要搶抓新賽道、開闢新領域，更好發揮戰新產業對經濟發展的引領帶動作用。要注重創新引領，緊扣三大先導產業等重點產業鏈鍛造硬核實力，瞄準前沿技術領域深化前瞻佈局，圍繞細分賽道壯大產業叢集。注重改革賦能，推進位制度創新，擴大場景開放，強化要素保障，最大程度釋放經營主體活力。注重開放合作，深化對內聯動和對外開放，推動提升產業發展質效再上新臺階。(第一財經)
-
----
-
-### 2026-06-22 20:21:26  #MKT News
-
-MOODY'S expects significant funding will be required after 2026 to support SpaceX (SPCX.O)'s capital plan.
-
----
-
-### 2026-06-22 20:21:02  #MKT News #Market Regions #Greater China #CSI300 #Impact bullish #Copper #CNH
-
-【June activity in 20 major Chinese cities steadies; Shanghai Dragon Boat resale net signings +19% YoY】China Index Academy data: June 1–20 resale transactions across 20 major Chinese cities totaled 88,000 units, up 10.9% YoY. Shanghai and Suzhou resale volumes rose over 20% YoY; Shenzhen and Ningbo rose over 10%, signaling sustained demand. Core-city new-home markets continue to recover. During the three-day Dragon Boat holiday Shanghai new-home net contract signings totaled 601 units vs 293 a year earlier (+308); Shanghai resale net signings were 1,231 vs 1,035 last year (+196, +18.9%). As of June 20 Beijing new-home transacted area rose 36% MoM; Guangzhou new-home transacted area rose 9% YoY. China Index Academy says June resale activity remains on an upward trend, with core-city volumes at multi-year highs for the period; new-home recovery is structurally uneven and concentrated in prime districts and top projects.
-
----
-
-### 2026-06-22 20:20:47  #MKT News #Important #WTI #Brent
-
-Vessel-tracking shows two supertankers transited the Strait of Hormuz into the Persian Gulf and are expected to load about 4 mln barrels of oil; one is bound for Iraq's Basra port. Separately, two smaller crude tankers with combined capacity below 2 mln barrels transited the Strait into the Gulf of Oman.
-
----
-
-### 2026-06-22 20:20:06  #MKT News #Important
-
-ECB President Lagarde to speak at the European Parliament in 10 minutes; Canada May CPI (MoM) due in 10 minutes.
-
----
-
-### 2026-06-22 20:18:58  #央行 #國際
-
-美國白宮國家經濟委員會主任哈塞特：美聯儲主席沃什並未向白宮尋求建議。
-
----
-
-### 2026-06-22 20:18:47  #公司
-
-【藏格礦業：子公司2萬噸/年碳酸鋰專案一期工程獲備案】藏格礦業公告稱，近日，其全資子公司藏格鋰業收到青海省工業和資訊化廳簽發的《工業和資訊化專案備案通知書》。專案為2萬噸/年碳酸鋰專案一期工程採用迴圈吸附工藝回收沉鋰母液鋰離子技術改造專案，位於格爾木市察爾汗鹽湖，總投資3200萬元，資金由企業自籌，建設週期為2026年6月至12月。專案建成後將強化公司鹽湖提鋰優勢、提高產能，但存在市場價格波動和產品質量升級等風險。
-
----
-
-### 2026-06-22 20:18:44  #MKT News #Star Stocks #Microsoft #Market Themes #Magnificent 7 #MSFT.O
-
-Microsoft (MSFT.O) said the Pecos data center campus, once operational, will coordinate operations with an on-site natural gas-fired power plant.
-
----
-
-### 2026-06-22 20:18:30  #公司
-
-穆迪：預計太空探索技術公司（SpaceX）將維持強勁流動性，但僅經營現金流預計不足以滿足該公司的資本計劃需求。
-
----
-
-### 2026-06-22 20:18:24  #國際
-
-【瑞士：歡迎美伊談判取得“建設性進展”】瑞士外交部22日發表宣告說，瑞士對美伊談判取得的“建設性進展”表示歡迎，並隨時準備支援後續程序。宣告說，瑞士注意到了美伊談判調解方卡達和巴基斯坦當天發表的聯合宣告。瑞士對21日至22日在比爾根山舉行的密集外交會談所取得的“建設性進展”表示歡迎。宣告說，在諒解備忘錄的基礎上設立一個高階別委員會是“積極的一步”，將有助於規劃政治和技術程序的下一階段。瑞士尤其歡迎各方就60天內達成最終協議的路線圖達成一致，認為該路線圖為立即啟動技術層面討論創造了條件。宣告說，“瑞士將繼續秉持其斡旋傳統，隨時準備支援這一程序”。（新華社）
-
----
-
-### 2026-06-22 20:18:15  #MKT News
-
-White House National Economic Council director Hassett said Fed chair Kevin Warsh did not seek advice from the White House.
 
 ---

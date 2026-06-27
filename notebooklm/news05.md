@@ -1,7 +1,73 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-06-27 18:26:19_
-_本檔包含 3578 則快訊，約 672697 字_
+_更新時間：2026-06-27 19:13:54_
+_本檔包含 3572 則快訊，約 672596 字_
+
+---
+
+### 2026-06-22 20:21:39  #其他
+
+【上海市政府常務會議研究戰興產業和數字上海“十五五”規劃，部署促進民間投資發展】上海市委副書記、市長龔正今天（6月22日）主持召開市政府常務會議，要求按照市委部署，全力保持經濟韌性增長勢頭；下大力氣提升戰略性新興產業發展能級；促進民間投資高質量發展；紮實推進“數字上海”建設。會議指出，二季度是承上啟下的關鍵階段，各區、各部門要強化實幹擔當，全力延續一季度經濟增長的良好勢頭，全力衝刺半年經濟增長目標。要聚力促進主要行業拉長板、補短板，推動權重行業切實成為“定盤星”、承壓行業加快形成“轉折點”。聚力支援重點區域挑重擔、作貢獻，在研究新情況、解決新問題上下功夫、出經驗，統籌推進短期穩增長和中長期轉型發展。聚力推動經營主體穩預期、強信心，堅持規範與服務並重、政策與活動並舉，認真落實好全國統一大市場建設要求，不斷提升政策精準性、有效性，同時精心辦好重大活動，強化文商旅體展聯動，更好助力全市經濟增長。會議原則同意《上海市戰略性新興產業發展“十五五”規劃》並指出，要搶抓新賽道、開闢新領域，更好發揮戰新產業對經濟發展的引領帶動作用。要注重創新引領，緊扣三大先導產業等重點產業鏈鍛造硬核實力，瞄準前沿技術領域深化前瞻佈局，圍繞細分賽道壯大產業叢集。注重改革賦能，推進位制度創新，擴大場景開放，強化要素保障，最大程度釋放經營主體活力。注重開放合作，深化對內聯動和對外開放，推動提升產業發展質效再上新臺階。(第一財經)
+
+---
+
+### 2026-06-22 20:21:26  #MKT News
+
+MOODY'S expects significant funding will be required after 2026 to support SpaceX (SPCX.O)'s capital plan.
+
+---
+
+### 2026-06-22 20:21:02  #MKT News #Market Regions #Greater China #CSI300 #Impact bullish #Copper #CNH
+
+【June activity in 20 major Chinese cities steadies; Shanghai Dragon Boat resale net signings +19% YoY】China Index Academy data: June 1–20 resale transactions across 20 major Chinese cities totaled 88,000 units, up 10.9% YoY. Shanghai and Suzhou resale volumes rose over 20% YoY; Shenzhen and Ningbo rose over 10%, signaling sustained demand. Core-city new-home markets continue to recover. During the three-day Dragon Boat holiday Shanghai new-home net contract signings totaled 601 units vs 293 a year earlier (+308); Shanghai resale net signings were 1,231 vs 1,035 last year (+196, +18.9%). As of June 20 Beijing new-home transacted area rose 36% MoM; Guangzhou new-home transacted area rose 9% YoY. China Index Academy says June resale activity remains on an upward trend, with core-city volumes at multi-year highs for the period; new-home recovery is structurally uneven and concentrated in prime districts and top projects.
+
+---
+
+### 2026-06-22 20:20:47  #MKT News #Important #WTI #Brent
+
+Vessel-tracking shows two supertankers transited the Strait of Hormuz into the Persian Gulf and are expected to load about 4 mln barrels of oil; one is bound for Iraq's Basra port. Separately, two smaller crude tankers with combined capacity below 2 mln barrels transited the Strait into the Gulf of Oman.
+
+---
+
+### 2026-06-22 20:20:06  #MKT News #Important
+
+ECB President Lagarde to speak at the European Parliament in 10 minutes; Canada May CPI (MoM) due in 10 minutes.
+
+---
+
+### 2026-06-22 20:18:58  #央行 #國際
+
+美國白宮國家經濟委員會主任哈塞特：美聯儲主席沃什並未向白宮尋求建議。
+
+---
+
+### 2026-06-22 20:18:47  #公司
+
+【藏格礦業：子公司2萬噸/年碳酸鋰專案一期工程獲備案】藏格礦業公告稱，近日，其全資子公司藏格鋰業收到青海省工業和資訊化廳簽發的《工業和資訊化專案備案通知書》。專案為2萬噸/年碳酸鋰專案一期工程採用迴圈吸附工藝回收沉鋰母液鋰離子技術改造專案，位於格爾木市察爾汗鹽湖，總投資3200萬元，資金由企業自籌，建設週期為2026年6月至12月。專案建成後將強化公司鹽湖提鋰優勢、提高產能，但存在市場價格波動和產品質量升級等風險。
+
+---
+
+### 2026-06-22 20:18:44  #MKT News #Star Stocks #Microsoft #Market Themes #Magnificent 7 #MSFT.O
+
+Microsoft (MSFT.O) said the Pecos data center campus, once operational, will coordinate operations with an on-site natural gas-fired power plant.
+
+---
+
+### 2026-06-22 20:18:30  #公司
+
+穆迪：預計太空探索技術公司（SpaceX）將維持強勁流動性，但僅經營現金流預計不足以滿足該公司的資本計劃需求。
+
+---
+
+### 2026-06-22 20:18:24  #國際
+
+【瑞士：歡迎美伊談判取得“建設性進展”】瑞士外交部22日發表宣告說，瑞士對美伊談判取得的“建設性進展”表示歡迎，並隨時準備支援後續程序。宣告說，瑞士注意到了美伊談判調解方卡達和巴基斯坦當天發表的聯合宣告。瑞士對21日至22日在比爾根山舉行的密集外交會談所取得的“建設性進展”表示歡迎。宣告說，在諒解備忘錄的基礎上設立一個高階別委員會是“積極的一步”，將有助於規劃政治和技術程序的下一階段。瑞士尤其歡迎各方就60天內達成最終協議的路線圖達成一致，認為該路線圖為立即啟動技術層面討論創造了條件。宣告說，“瑞士將繼續秉持其斡旋傳統，隨時準備支援這一程序”。（新華社）
+
+---
+
+### 2026-06-22 20:18:15  #MKT News
+
+White House National Economic Council director Hassett said Fed chair Kevin Warsh did not seek advice from the White House.
 
 ---
 
@@ -21470,107 +21536,5 @@ Saudi outlet Hadas reported Iran's Islamic Revolutionary Guard Corps warned vess
 ### 2026-06-20 19:14:16  #其他
 
 【端午檔電影票房破3億】據網路平臺資料，截至6月20日，2026年端午檔電影票房（含預售實時）突破3億元。
-
----
-
-### 2026-06-20 19:08:02  #國際
-
-一位美國官員表示：威特科夫和庫什納將前往瑞士與伊朗進行談判。
-
----
-
-### 2026-06-20 19:08:01  #MKT News
-
-Al Arabiya reported U.S. special envoy Vitekov has just arrived in Switzerland.
-
----
-
-### 2026-06-20 19:06:27  #公司
-
-【國鐵成都局端午假期單日傳送旅客創歷史新高】從中國鐵路成都局集團有限公司獲悉，19日端午假期首日，西南鐵路迎來出行高峰，國鐵成都局傳送旅客193.82萬人次，同比增長8.9%，創端午假期單日歷史新高，客流熱度和出行活躍度均創歷史同期最好水平。
-
----
-
-### 2026-06-20 19:05:18  #MKT News #XAUUSD #Impact bullish #Brent #Impact mixed
-
-Hezbollah pledged a ceasefire while warning it will not hesitate to resist any Israeli attempt to seize Lebanese territory.
-
----
-
-### 2026-06-20 19:04:42  #國際
-
-真主黨表示，在履行停火承諾的同時，將毫不猶豫地抵抗以色列在黎巴嫩奪取任何領土的企圖。
-
----
-
-### 2026-06-20 19:04:08  #MKT News
-
-HEZBOLLAH said it targeted Israeli forces that advanced last night toward areas near Nabatieh in southern Lebanon.
-
----
-
-### 2026-06-20 19:03:59  #國際
-
-黎巴嫩真主黨稱，昨晚他們襲擊了向黎巴嫩南部奈拜提耶附近地區推進的以色列軍隊。
-
----
-
-### 2026-06-20 19:02:48  #國際
-
-特朗普：美國在對伊朗的戰爭中表現出色。
-
----
-
-### 2026-06-20 19:02:22  #國際
-
-特朗普：伊朗在軍事上“已被徹底擊敗”。
-
----
-
-### 2026-06-20 19:02:10  #MKT News
-
-【Trump says Iran 'completely defeated', declares US no longer weak】Trump said the radical left and Democrats now recognize how well the US has acted in confronting Iran, asserting Iran has been militarily "completely defeated" and that the United States is no longer weak. He accused Obama of sending Iran billions in cash and failing to use an exhausted US military to restrain what he called the world's top state sponsor of terrorism. Trump said Iran had "gotten away with it" for 47 years until his appearance, after which "everything changed" and "America is back."
-
----
-
-### 2026-06-20 19:01:28  #國際
-
-當地衛生部門稱，以色列炮火在加沙造成五人死亡，其中包括一名兒童。
-
----
-
-### 2026-06-20 18:58:00  #MKT News #Market Regions #Greater China #Star Stocks #JD.com #JD.O #Impact bullish
-
-【Suzhou party secretary Fan Bo meets JD.com founder Liu Qiangdong】JD.com said it will increase investment in Suzhou and deploy its e-commerce, logistics, AI, digital technology and health-service capabilities to support industrial upgrading and expand local consumption. Suzhou party secretary Fan Bo and deputy party secretary and mayor Wang Wei urged JD to deepen local industry collaboration, broaden its Suzhou footprint and help market access for local products; the city said it will continue a 'three-services' program serving firms, projects and parks and push a market-oriented, rule-of-law and international business environment.
-
----
-
-### 2026-06-20 18:55:03  #其他
-
-【水利部和中國氣象局聯合釋出黃色山洪災害氣象預警】水利部和中國氣象局6月20日18時聯合釋出黃色山洪災害氣象預警：預計，6月20日20時至21日20時，山西南部、內蒙古東北部、黑龍江西部、江西西北部、河南北部、湖北東南部、湖南北部、廣西北部、四川東部和南部、貴州南部、雲南西北部、西藏東南部、陝西西南部、新疆南部和西部等地部分地區可能發生山洪災害(藍色預警)，其中，內蒙古東北部、江西西北部、湖北東南部、湖南西北部、廣西北部、貴州南部、雲南西北部、西藏東南部、新疆南部等地部分地區發生山洪災害可能性較大(黃色預警)。其他地區也可能因局地短歷時強降水引發山洪災害，請各地注意做好實時監測、防汛預警和轉移避險等防範工作。
-
----
-
-### 2026-06-20 18:37:49  #國際
-
-黎巴嫩官方媒體報道，以色列夜間的空襲造成至少七人死亡。
-
----
-
-### 2026-06-20 18:37:22  #MKT News
-
-【State Council Information Office to hold press briefing on June 22 at 15:00】The State Council Information Office will hold a press conference at 15:00 on Monday, June 22, 2026. MOFCOM Vice Minister and Deputy International Trade Representative Ling Ji, together with officials from the National Development and Reform Commission and the Ministry of Finance, will outline policy measures to stabilize and enhance the quality of foreign investment and will take questions.
-
----
-
-### 2026-06-20 18:36:39  #公司 #國際
-
-【義大利外長宣佈取消訪美】義大利副總理兼外長安東尼奧·塔亞尼當地時間6月19日宣佈，取消原定於下週舉行的訪美行程，原因是美國總統特朗普針對義大利總理梅洛尼發表了“嚴重”“且具有冒犯性的言論”，“我們無法容忍任何人像美國總統那樣冒犯義大利”。 據義大利媒體當天早些時候報道，美國總統特朗普在接受電話採訪時稱，在剛剛落幕的七國集團峰會期間，義大利總理梅洛尼“乞求”與他拍照合影，他因為“可憐她”才予以同意。對此，義大利政府予以猛烈抨擊。梅洛尼本人在社交媒體平臺上釋出影片，稱特朗普的說法“完全是編造的”，並稱“義大利和我從不乞求”。（CCTV國際時訊）
-
----
-
-### 2026-06-20 18:35:38  #宏觀
-
-預告：國務院新聞辦公室將於2026年6月22日（星期一）下午3時舉行新聞釋出會,請商務部副部長兼國際貿易談判副代表凌激和國家發展改革委、財政部有關負責人介紹利用外資固穩促優有關政策措施，並答記者問。
 
 ---

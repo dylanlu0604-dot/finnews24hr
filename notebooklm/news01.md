@@ -1,7 +1,145 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-06-27 18:26:19_
-_本檔包含 3429 則快訊，約 673028 字_
+_更新時間：2026-06-27 19:13:54_
+_本檔包含 3442 則快訊，約 673827 字_
+
+---
+
+### 2026-06-27 19:10:22  #MKT News #Market Themes #The Trump Trade #WTI #Impact bearish #Brent
+
+【Rubio says US pushing for Trump visit to India early next year; expects trade deal in weeks–months】US Secretary of State Rubio said Washington is pushing for President Trump to visit India early next year and expects a bilateral trade deal to be finalised within weeks or months, describing negotiations as in their final stage. He plans a return visit to India later this year to prepare for the presidential trip. Rubio said the US seeks a larger role in meeting India’s rising energy demand and can help boost global crude supply, including by facilitating Venezuelan exports.
+
+---
+
+### 2026-06-27 19:03:12  #MKT News #Important #WTI #Impact bullish #Brent
+
+Iranian state TV said more vessels are seeking Iran's permission to transit the Strait of Hormuz after warning shots were fired at unauthorized ships.
+
+---
+
+### 2026-06-27 19:01:22  #國際
+
+中國地震臺網正式測定：06月27日18時37分在印尼班達海（南緯6.85度，東經125.65度）發生6.0級地震，震源深度530千米。
+
+---
+
+### 2026-06-27 19:00:03  #國際
+
+伊朗國家電視臺表示，在未經許可的船隻遭到警告射擊後，目前有更多船舶正申請過境霍爾木茲海峽的伊朗許可。
+
+---
+
+### 2026-06-27 18:56:03  #MKT News
+
+【5.6-magnitude earthquake offshore East Nusa Tenggara, Indonesia】Indonesia's Meteorology, Climatology and Geophysics Agency reported a magnitude-5.6 earthquake at 17:37 local time on June 27, located about 202 km northeast offshore of East Nusa Tenggara province.
+
+---
+
+### 2026-06-27 18:55:23  #國際
+
+【印尼東努沙登加拉省附近海域發生5.6級地震】據印尼氣象、氣候和地球物理局釋出的報告，當地時間6月27日17時37分，印尼東努沙登加拉省東北202公里海域發生5.6級地震。
+
+---
+
+### 2026-06-27 18:53:36  #公司
+
+【東鵬飲料：所謂飯局影片為憑空捏造 無任何事實依據】東鵬飲料（集團）股份有限公司釋出關於網路不實謠言的澄清宣告稱，近日，公司關注到相關人員透過虛構場景、偽造言論等手段，在網路上惡意捏造並散佈關於公司的虛假資訊。公司鄭重澄清：所謂飯局影片為憑空捏造、無任何事實依據，對消費者及投資者造成誤導，損害公司聲譽。公司已固定證據並向公安機關報案，將持續追究相關人的法律責任。
+
+---
+
+### 2026-06-27 18:51:53  #MKT News #Brent #Impact bullish #WTI #XAUUSD
+
+Kuwait condemned Iran’s attack on Bahraini territory, saying it seriously undermines efforts to maintain peace and stability and poses a threat to regional security.
+
+---
+
+### 2026-06-27 18:51:02  #其他
+
+【汶川一國道旁山體滑坡有人員傷亡】6月27日，四川汶川縣臥龍鎮往四姑娘山方向一國道附近發生山體滑坡，有大石塊掉落。16時許，記者從臥龍鎮政府獲悉，有人員因此傷亡，該路段後續可能再次落石。汶川縣政府人員稱，有接到相關傷亡報告，具體由鄉鎮進行調查處理。據汶川警方訊息，該路段邊坡仍存在持續垮塌、滾落碎石風險，為保障過往人員車輛安全，自15時起對該路段實施全封閉臨時交通管制。（新京報）
+
+---
+
+### 2026-06-27 18:49:09  #公司 #其他
+
+【金山辦公旗下辦公產品WPS再回應占用C盤空間爭議】6月27日，金山辦公表示，針對近期使用者集中反饋的“預設佔用C盤、清理入口不清晰”等問題，WPS已完成排查並啟動最佳化。最佳化後的新版本將於7月上線。屆時使用者可前往WPS官網下載更新。在安裝環節，新版本在安裝介面增加了路徑選擇功能。安裝路徑、檔案備份路徑、雲文件儲存路徑三條路徑分開設定、互不繫結，使用者在安裝當下即可明確檔案的存放位置。在使用環節，WPS在設定頁新增了“儲存管理”模組。快取、檔案備份、雲文件快取等各類檔案的佔用與可釋放空間集中展示，使用者可一鍵清理，操作進度與釋放結果均有明確反饋。儲存路徑同樣支援自主修改，變更前系統會校驗目標盤的空間與許可權，變更過程中實時顯示進度。金山辦公表示，快取與備份預設存放在C盤、佔用情況不夠直觀，確實給部分高頻使用者造成了困擾，此次最佳化的核心邏輯是“安裝有選擇、使用可管理”，讓使用者從安裝到使用的每個環節中，都能清楚瞭解本地佔用了多少、哪些可以清理，並隨時自主管理。
+
+---
+
+### 2026-06-27 18:41:37  #公司
+
+【博納影業：已有全新AI電影專案正式立項】博納影業(001330)近日在業績說明會上表示，當下，公司儲備有20餘個電影和劇集專案，涵蓋歷史、動作、科幻、動畫等豐富題材。此外，公司已有全新的AI電影專案正式立項，另有多個真人及動畫專案正處於開發之中。
+
+---
+
+### 2026-06-27 18:40:20  #其他
+
+【聯合海上資訊中心：霍爾木茲海峽威脅等級上調 南部航道範圍擴大】據聯合海上資訊中心(JMIC)週六釋出的一份通知稱，霍爾木茲海峽的南部航道範圍已擴大，以滿足進出港船舶同時通航的需求。 聯合海上資訊中心還指出，在商船遭遇襲擊後，該海峽的海事安全威脅等級已由“中等”上調至“較高”。
+
+---
+
+### 2026-06-27 18:36:17  #國際
+
+【俄稱伏爾加格勒市一企業遭襲 已致1死11傷】俄羅斯伏爾加格勒州州長博恰羅夫27日通報稱，烏軍對伏爾加格勒市一企業的襲擊造成1人死亡、仍有1人失蹤。此外，受傷人數上升至11人，其中2人傷勢嚴重。
+
+---
+
+### 2026-06-27 18:34:08  #國際
+
+【魯比奧稱特朗普可能於2027年年初訪問印度】據路透社27日援引印度媒體IANS報道，美國正尋求安排美國總統特朗普於2027年年初訪問印度，同時兩國正就雙邊貿易協議展開談判。美國國務卿魯比奧表示，他本人可能將在今年訪問印度，為特朗普的訪問做準備。在接受IANS採訪時，魯比奧說：“我們正在爭取在明年年初某個時間讓總統訪問印度。”魯比奧還提到，美國希望與印度達成貿易協議，目前“進展非常積極”。報道稱，數月來，印度一直敦促美國安排特朗普訪印。（中新網）
+
+---
+
+### 2026-06-27 18:31:04  #MKT News
+
+Germany's foreign minister said Berlin supports implementing the Israel-Lebanon agreement and that maintaining the Lebanese state's monopoly on the use of force is essential.
+
+---
+
+### 2026-06-27 18:30:36  #MKT News #Market Regions #Europe & UK
+
+Germany's foreign minister said an agreement between Israel and Lebanon strengthens both countries' security and offers an opportunity to resolve a decades-long conflict.
+
+---
+
+### 2026-06-27 18:29:33  #其他
+
+【局地將出現短時強降水 北京懷柔區釋出暴雨橙色預警】6月27日18時，北京懷柔區升級釋出暴雨橙色預警訊號。預計，當前至夜間懷柔區寶山鎮、長哨營滿族鄉、喇叭溝門滿族鄉、湯河口鎮降雨將持續，部分地區將出現小時雨量70毫米以上的短時強降水，局地6小時累計雨量可達100毫米以上，請注意防範。
+
+---
+
+### 2026-06-27 18:29:09  #公司
+
+【聯合海上資訊中心提升霍爾木茲海峽威脅等級】英國海上貿易行動辦公室27日轉發聯合海上資訊中心的一份公告稱，聯合海上資訊中心27日將霍爾木茲海峽海上安全威脅等級由“中等”上調至“較高”。（新華社）
+
+---
+
+### 2026-06-27 18:29:03  #國際
+
+德國外交部長：我們支援以色列和黎巴嫩之間協議的執行，黎巴嫩國家對使用武力的壟斷至關重要。
+
+---
+
+### 2026-06-27 18:28:21  #國際
+
+伊朗確定國家利益委員會成員：針對任何違反諒解備忘錄條款的行為，我方都將迅速作出毀滅性反擊。
+
+---
+
+### 2026-06-27 18:27:24  #國際
+
+德國外交部長：以色列和黎巴嫩之間的協議增強了兩國的安全，併為解決持續數十年的衝突提供了機會。
+
+---
+
+### 2026-06-27 18:26:58  #MKT News
+
+Saudi outlet alhadath reports Iran's foreign minister will travel to Baghdad tomorrow.
+
+---
+
+### 2026-06-27 18:26:35  #國際
+
+伊朗確定國家利益委員會一名成員表示，華盛頓方面透過支援其以色列代理人的相關行動，違反了諒解備忘錄第一條條款。
 
 ---
 
@@ -20676,65 +20814,5 @@ U.S. State Department approved a $250 million sale to Australia of training serv
 ### 2026-06-26 05:16:33  #Trading Economics #Economy #Mexico #Interest Rate #Importance 1
 
 Banxico Holds Interest Rates — Banxico kept its benchmark interest rate unchanged at 6.50% during its June 2026 meeting, in line with expectations. It was noted that the economy is expected to rebound in the second quarter, although significant downside risks to activity remain. Inflation continued to ease between April and mid-June, with headline inflation down from 4.45% to 3.55%, while core inflation eased from 4.26% to 4.12%. Banxico revised down its headline inflation forecasts for the second quarter due to softer non-core prices, while slightly raising its core inflation outlook through the end of 2026. Banxico maintained its projection for headline inflation to converge to the 3% target in the second quarter of 2027. Policymakers said the balance of risks remains tilted to the upside, citing trade disruptions, geopolitical tensions, persistent core inflation, climate-related shocks, and possible peso depreciation. Banxico signaled that it will likely be keeping the policy rate at its current level.
-
----
-
-### 2026-06-26 05:16:08  #國際
-
-美國眾議院議長約翰遜：與特朗普舉行了富有成效的會晤。
-
----
-
-### 2026-06-26 05:15:21  #市場
-
-富時A50期指連續夜盤收跌0.57%，報15765點。
-
----
-
-### 2026-06-26 05:07:37  #公司
-
-【蘋果調整Mac晶片戰略 下一代高階晶片將直接躍遷至M7系列】蘋果公司正對其Mac晶片戰略進行史上最大調整之一，準備讓下一代高階處理器直接躍遷至聚焦人工智慧的新一代晶片。知情人士稱，目前使用M5系列的蘋果計劃最早於今年推出基礎版M6處理器，用於入門級Mac，但該公司將首次跳過這款晶片的高階版本。知情人士稱，蘋果轉而計劃在2027年推出具備更先進計算和圖形處理能力的下一代Pro和Max晶片，作為新一代M7晶片的一部分。
-
----
-
-### 2026-06-26 05:03:37  #Trading Economics #Markets #Brazil #Stock Market #Importance 1
-
-Ibovespa Rises on Soft Inflation Data — The Ibovespa rose 0.9% to close at 171,990 on Thursday, as investors reacted positively to softer-than-expected inflation data and fresh guidance from the BCB. Brazil’s mid-month inflation slowed more than forecast in June, while the BCB sought to clarify its latest 25 basis-point Selic cut and stressed that future decisions remain data-dependent. The softer inflation print and lower oil prices pushed the yield curve lower. Major banks traded mixed, with Banco do Brasil up 1.6%, Itaú rising 1.7%, while Bradesco edged down 0.2%. Vale rose 1.1%, recovering from recent losses. Petrobras gained 0.5% as oil prices edged up despite improving shipping flows through the Strait of Hormuz. Meanwhile, Braskem plunged 10.4% after creditors rejected its restructuring proposal.
-
----
-
-### 2026-06-26 05:03:32  #市場
-
-週四（6月25日）紐約尾盤（週五北京時間04:59），離岸人民幣（CNH）兌美元報6.8008元，較週三紐約尾盤反彈124點，日內整體交投於6.8164-6.7969元區間，整體持續上揚。
-
----
-
-### 2026-06-26 05:02:54  #央行 #國際
-
-【紐約聯儲行長稱利率處於良好位置 預計通脹到2028年達標】紐約聯儲行長約翰·威廉姆斯表示，利率處於能夠讓通脹向央行目標回落的良好位置。“鑑於通脹處於高位，我們必須讓它可持續地回到我們2%的長期目標水平，”威廉姆斯週四在為Jersey City一場活動準備的演講稿中表示。“當前貨幣政策立場處於實現這一點的良好位置。”威廉姆斯指出，通脹“毫無疑問處於高位”，受到關稅、伊朗戰爭引發的能源衝擊以及人工智慧投資熱潮的推動。他表示，儘管關稅影響基本釋放、能源價格已回落，但仍存在重大風險。威廉姆斯預計，通脹到年底將放緩至3.5%，隨後將“沿著平穩路徑”繼續向2%靠攏，到2028年達到目標。他表示，未來幾個季度，貿易關稅影響逐步消退應該有助於緩解通脹，而住房通脹應該繼續放緩。他還表示，如果中東衝突能夠相對較快地解決，能源和商品價格也應該企穩。
-
----
-
-### 2026-06-26 05:02:21  #MKT News
-
-A British official said King Charles will not reside at Buckingham Palace after renovation work completes next year.
-
----
-
-### 2026-06-26 05:00:27  #其他
-
-英國查爾斯國王 2024 至 2025 財年繳納個人稅款 1290 萬英鎊。
-
----
-
-### 2026-06-26 04:58:27  #市場
-
-週四（6月25日）紐約尾盤，現貨黃金漲0.64%，報4024.97美元/盎司。COMEX黃金期貨漲0.78%，報4040.10美元/盎司。現貨白銀漲0.73%，報57.8327美元/盎司。COMEX白銀期貨跌0.38%，報58.290美元/盎司。COMEX銅期貨漲2.03%，報6.1335美元/磅。現貨鉑金漲1.08%，現貨鈀金漲1.43%。
-
----
-
-### 2026-06-26 04:56:49  #Trading Economics #Markets #Canada #Stock Market #Importance 1
-
-TSX Edges Higher on Banks and Miners Gains — The S&P/TSX Composite Index rose 0.3% to close at 34,850 on Thursday, supported by gains in the financial and mining sectors. Although oil prices edged higher after a cargo ship was struck by an unidentified projectile off the Omani coast, they remained near pre-conflict lows, easing inflation concerns and supporting financial stocks and the broader index. TD Bank rose 0.9%, RBC gained 0.4%, and BMO added 0.9%. Gold prices also edged higher, supporting mining shares, with Agnico Eagle rising 1.7%. Meanwhile, a renewed wave of volatility in technology stocks on Wall Street weighed on Canadian tech shares. Shopify fell 2.6%, Constellation Software lost 3.6%, and Celestica shed 0.7%. Investors also assessed the latest minutes from the Bank of Canada, which showed policymakers agreed to keep monetary policy flexible in response to potential new US trade restrictions and changes in energy prices.
 
 ---

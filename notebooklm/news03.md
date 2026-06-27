@@ -1,7 +1,193 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-06-27 18:26:19_
-_本檔包含 3832 則快訊，約 673481 字_
+_更新時間：2026-06-27 19:13:54_
+_本檔包含 3844 則快訊，約 673470 字_
+
+---
+
+### 2026-06-25 02:00:50  #MKT News #Important #Commodities #Precious Metals
+
+SHFE most-active silver contract tumbled 8.00% intraday to 13,700 yuan/kg.
+
+---
+
+### 2026-06-25 02:00:29  #央行 #國際
+
+美聯儲理事庫克未就經濟前景與貨幣政策發表相關評論。
+
+---
+
+### 2026-06-25 02:00:28  #MKT News #Macro & Rates #The Fed (FOMC)
+
+Fed Governor Cook did not comment on monetary policy or the economic outlook in remarks at the opening of a small-business symposium.
+
+---
+
+### 2026-06-25 02:00:26  #市場 #焦點
+
+白銀連續主力合約日內跌8%，現報13700.00元。
+
+---
+
+### 2026-06-25 02:00:26  #市場
+
+紐約期銀日內跌9%，現報56.84美元/盎司。
+
+---
+
+### 2026-06-25 02:00:05  #市場 #焦點
+
+紐約期銀失守57美元/盎司，日內跌8.82%。
+
+---
+
+### 2026-06-25 01:59:48  #MKT News #Important #Commodities #Precious Metals
+
+Spot silver plunged 8.00% intraday to $56.58/oz.
+
+---
+
+### 2026-06-25 01:59:37  #市場 #焦點
+
+現貨白銀日內跌8%，現報56.59美元/盎司。
+
+---
+
+### 2026-06-25 01:59:11  #其他
+
+阿聯酋宣佈，巴布氣頂開發專案預計天然氣日產量約為15億標準立方英尺。
+
+---
+
+### 2026-06-25 01:58:36  #MKT News #Commodities #Energy
+
+UAE state news agency said the project is expected to have production capacity of about 1.5 bln standard cubic feet per day of natural gas.
+
+---
+
+### 2026-06-25 01:58:15  #國際
+
+【聯邦法官永久叫停美政府要求選民提供身份證明的命令】當地時間6月24日，美國聯邦地區法院法官丹尼斯·卡斯珀裁定，永久禁止特朗普政府實施其首份選舉行政令中的大部分內容。該行政令要求選民在登記投票時提供公民身份檔案證明，並規定郵寄選票若在選舉日後送達，即使郵戳日期符合要求，也不得計票。法官表示，根據美國憲法，規範選舉事務的權力屬於各州和國會，而非總統，因此總統無權透過行政命令單方面修改相關選舉規則。（
+
+---
+
+### 2026-06-25 01:56:35  #MKT News #Important #Commodities #Precious Metals
+
+Spot silver broke below $57/oz, down 7.40% intraday.
+
+---
+
+### 2026-06-25 01:56:27  #市場 #焦點
+
+現貨白銀失守57美元/盎司，日內跌7.51%。
+
+---
+
+### 2026-06-25 01:56:23  #MKT News #Commodities #Energy #BP.L #Impact bearish #TTE.PA
+
+ADNOC will hold a 60% stake in the Bab natural gas cap concession; TotalEnergies and BP Abu Dhabi will each hold 10%.
+
+---
+
+### 2026-06-25 01:56:13  #市場
+
+紐約期銀日內跌8%，現報57.51美元/盎司。
+
+---
+
+### 2026-06-25 01:55:39  #公司
+
+阿聯酋宣佈，阿布扎比國家石油公司將持有巴布氣頂開發專案60%特許股權，道達爾能源、英國石油阿布扎比分公司各持股10%。
+
+---
+
+### 2026-06-25 01:54:55  #觀點
+
+【摩根大通下調特斯拉第二季度汽車交付量預期】摩根大通分析師Rajat Gupta把對特斯拉第二季度汽車交付量的預估從43.05萬輛下調至42萬輛，原因是近期電動汽車需求方面的訊號喜憂參半。由於下調交付量預期，Gupta還將第二季度盈利預期從0.44美元下調至0.42美元，並將2026年每股收益預期從1.95美元下調至1.90美元。
+
+---
+
+### 2026-06-25 01:54:20  #MKT News #WTI #Impact bearish #Brent
+
+UAE state news agency says the government has awarded the development concession for the Bab gas cap to Abu Dhabi National Oil Company (ADNOC) and its partners.
+
+---
+
+### 2026-06-25 01:53:50  #公司
+
+阿聯酋將巴布氣田氣頂開發特許權授予阿布扎比國家石油公司及其合作伙伴。
+
+---
+
+### 2026-06-25 01:52:36  #市場
+
+現貨白銀日內跌7%，現報57.21美元/盎司。
+
+---
+
+### 2026-06-25 01:51:24  #MKT News #Important #Commodities #Precious Metals
+
+Spot silver fell 7.00% intraday to $57.23/oz; spot palladium fell 6.00% to $1,154.40/oz.
+
+---
+
+### 2026-06-25 01:51:11  #Trading Economics #Economy #Brazil #Government Bond 10Y #Importance 1
+
+Brazil 10-Year Yield Eases After Copom Minutes — Brazil’s 10-year government bond yield edged down to 14.4% in late June after the release of the minutes from the latest Copom meeting, in which the benchmark Selic rate was cut by 25 basis points to 14.25% per year. The view that Copom left the door open for further Selic cuts helped ease the Brazilian yield curve. Still, the minutes struck a slightly more hawkish tone than the initial statement, explicitly describing the inflation risk balance as asymmetric and tilted to the upside. Meanwhile, the US Federal Reserve adopted a more hawkish stance at its latest meeting, with policymakers signaling additional rate hikes by December. The shift led investors to scale back expectations for monetary easing, limiting the decline in bond yields.
+
+---
+
+### 2026-06-25 01:50:36  #市場 #焦點
+
+白銀連續主力合約日內跌7%，現報13853.00元。
+
+---
+
+### 2026-06-25 01:50:25  #其他
+
+Coinbase：部分使用者在OP網路上發起轉賬可能失敗。
+
+---
+
+### 2026-06-25 01:48:05  #MKT News #Commodities #Energy #WTI #Brent
+
+Iraq's state news agency reported the Kurdistan Regional Government said several foreign oil companies have resumed operations in Iraqi Kurdistan.
+
+---
+
+### 2026-06-25 01:47:49  #國際
+
+市場資訊：歐洲各國領導人堅稱，他們正在落實美國總統特朗普的訴求，即推動北約實現“歐洲化”。
+
+---
+
+### 2026-06-25 01:47:06  #Trading Economics #Markets #other #currency #Importance 0
+
+Bitcoin Hits 20-month Low — The Bitcoin touched 59140.00 against the BTC, the highest since October 2024. Over the past 4 weeks, Bitcoin US Dollar lost 23.38%, and in the last 12 months, it decreased 44.89%.
+
+---
+
+### 2026-06-25 01:46:58  #公司 #市場 #國際
+
+【SpaceX發行的250億美元債券走弱，長期債券領跌】在透過債市募資250億美元次日，SpaceX債券大多走弱，長債領跌。投資者在該公司的首次發債中更青睞期限較短的債券。Trace資料顯示，截至紐約週三上午10點25分，SpaceX發行的30年期債券較同期美國國債收益率高出188個基點，而交易最終定價為高出175個基點。期限最短的5年期債券價格持穩。
+
+---
+
+### 2026-06-25 01:46:47  #市場 #觀點 #國際
+
+【高盛分析師稱石油多頭誤判油價跌幅 低估系統靈活性】高盛全球大宗商品研究聯席主管Daan Struyven表示，石油多頭分析師誤判了伊朗局勢緩和後原油價格的下跌幅度。美國與伊朗在4月達成臨時停火協議，並開啟了旨在正式結束戰爭的談判。Struyven表示，市場“低估了系統的靈活性”。
+
+---
+
+### 2026-06-25 01:46:00  #國際
+
+【賴特稱依託“創新方案”，美國戰略石油儲備儲量有望突破5億桶】美國能源部長克里斯·賴特週三在路透社舉辦的論壇上表示，無需動用納稅人資金，依靠各類“創新方案”，就能將儲量已大幅消耗的美國戰略石油儲備（SPR）提升至5億桶以上。賴特拒絕詳細說明正在考量的具體辦法，不過一名知情人士此前透露，美國正考慮開採軍方所屬土地下的石油資源。賴特表示，作為1.72億桶原油置換計劃的一部分，此前借給石油企業的原油將連本帶息歸還，這會讓戰略石油儲備總量提升至遠超4億桶的規模。他補充，這批原油預計從今年年末至明年初開始歸還，歸還總量將比當初儲備借出的原油多出3500萬至4000萬桶。
+
+---
+
+### 2026-06-25 01:45:19  #公司 #焦點
+
+伊拉克庫爾德斯坦自治區政府表示，已有多家外國石油公司恢復在該地區的運營。
 
 ---
 
@@ -22994,121 +23180,5 @@ EU to publish July–December funding plan at 17:30 CET today (23:30 Beijing tim
 ### 2026-06-23 22:04:11  #Trading Economics #Economy #United States #Richmond Fed Services Index #Importance 1
 
 Richmond Fed Services Index Weakens — The Richmond Fed Fifth District Service Sector Survey was flat in June 2026, with the revenues index falling to -1 from 14 and the demand index declining to 3 from 15. Local business conditions also weakened, with the index dropping to -9 from 0 in May. Despite softer current activity, expectations remained resilient, as the indexes for future revenues and demand stayed firmly in positive territory. The future local business conditions index rose to 15. Labor market conditions improved, with the current employment index increasing to 8 from -1, while the forward-looking employment index held steady at 24. Both current and expected wages remained firmly positive. On prices, firms reported slightly faster growth in prices paid, while price growth received was little changed. Over the next 12 months, businesses expect slower growth in input costs and a slight pickup in prices received.
-
----
-
-### 2026-06-23 22:03:56  #其他
-
-美銀全球研究部將全球半導體行業的TAM預測上調至2.7萬億美元，此前預測為2.3萬億美元。
-
----
-
-### 2026-06-23 22:03:17  #國際
-
-官方資料顯示，截至6月21日，歐盟2025/26年度玉米進口量為1781萬噸，去年同期為1936萬噸。
-
----
-
-### 2026-06-23 22:03:03  #MKT News #Important #Market Regions #Europe & UK
-
-UK government has brought forward plans to tax low-value imported goods by six months, moving implementation to October 2028.
-
----
-
-### 2026-06-23 22:02:58  #國際
-
-官方資料顯示，截至6月21日，歐盟2025/26年度大麥出口量為861萬噸，去年同期為478萬噸。
-
----
-
-### 2026-06-23 22:02:36  #國際
-
-官方資料顯示，截至6月21日，歐盟2025/26年度軟小麥出口量為2273萬噸，上年同期為2122萬噸。
-
----
-
-### 2026-06-23 22:01:59  #其他
-
-市場訊息：英國政府將低價值進口商品徵稅措施提前六個月至2028年10月實施。
-
----
-
-### 2026-06-23 22:01:48  #Trading Economics #Economy #United States #Services PMI #Importance 1
-
-US Services Growth Remains Subdued — The S&P Global US Services PMI rose to 51.3 in June 2026 from 50.7 in May, just above the market consensus of 51, according to a preliminary estimate. The latest reading indicated a modest improvement in business activity, the strongest since February, partly linked to the soccer World Cup, though growth remained subdued. Output and new orders rose only slightly, with firms citing high prices, elevated interest rates, and weak confidence among businesses and consumers.
-
----
-
-### 2026-06-23 22:01:29  #經濟數據 #美國
-
-美國6月里奇蒙德聯儲製造業指數4，前值13。
-
----
-
-### 2026-06-23 22:00:58  #央行 #國際
-
-美國6月里奇蒙德聯儲製造業指數 4，前值13。
-美國6月里奇蒙德聯儲製造業裝船指數 3，前值16。
-美國6月里奇蒙德聯儲服務業收入指數 -1，前值14。
-
----
-
-### 2026-06-23 22:00:45  #MKT News
-
-U.S. Richmond Fed services revenue index -1 in June; prior 14.
-
----
-
-### 2026-06-23 22:00:41  #MKT News
-
-US Richmond Fed manufacturing shipments index for June 3, down from 16 previously.
-
----
-
-### 2026-06-23 22:00:39  #MKT News #Important #Macro & Rates #US Economy #S&P500 #Impact bearish #DXY #US10Y #Impact bullish
-
-U.S. Richmond Fed manufacturing index, June: 4; prior 13.
-
----
-
-### 2026-06-23 22:00:38  #MKT News #Economic Calendar #Important
-
-United States | Richmond Fed Services Revenue Index (Jun) | actual -1 | previous 14
-
----
-
-### 2026-06-23 22:00:32  #MKT News #Economic Calendar #Important
-
-United States | Richmond Fed Manufacturing Shipments Index (Jun) | actual 3 | previous 16
-
----
-
-### 2026-06-23 22:00:32  #MKT News #Economic Calendar #Important
-
-United States | Richmond Fed Manufacturing Index (Jun) | actual 4 | previous 13
-
----
-
-### 2026-06-23 22:00:24  #Trading Economics #Markets #Canada #Stock Market #Importance 1
-
-TSX Slips on Global Risk-Off Mood — The S&P/TSX Composite Index fell 0.5% to trade below the 35,000 mark on Tuesday, tracking global equities amid a broad selloff in technology stocks and persistent concerns over elevated interest rates. Worries that speculative AI spending by hyperscalers is running ahead of fundamentals weighed on North American tech shares and hurt overall risk appetite. Celestica plunged nearly 7%, leading losses in the tech sector. Gold prices also declined, extending pressure on mining stocks after the hawkish projections from the US Federal Reserve last week. Agnico Eagle, Barrick, and Franco-Nevada lost around 3%, while WPM fell more than 4%. Meanwhile, oil prices dropped for a second straight session as supply concerns eased amid progress in restoring shipments through the Strait of Hormuz, reducing fears of energy-driven inflation but weighing on energy shares.
-
----
-
-### 2026-06-23 21:59:59  #MKT News #Market Regions #Wall Street (US) #S&P500 #Impact bearish
-
-S&P 500 decline narrows to 1%.
-
----
-
-### 2026-06-23 21:59:49  #MKT News #Important #SPCX.O
-
-SpaceX (SPCX.O) stock reversed earlier losses and was up 1%.
-
----
-
-### 2026-06-23 21:59:35  #Trading Economics #Markets #Brazil #Stock Market #Importance 1
-
-Ibovespa Slips as Global Tech Selloff Weighs — The Ibovespa edged lower to trade below the 170,000 mark on Tuesday, tracking a broader risk-off mood as a selloff in technology stocks weighed on global markets. Losses were broad-based, led by Vale, which fell 2.2%. Vale’s board unanimously approved the call for a shareholders’ meeting on July 22 to vote on the removal of its chairman, Daniel Stieler, following a request from the miner’s largest shareholder, Previ, triggering an internal dispute over the position. Utility stocks also moved lower, with Axia and Sabesp down around 1%. Major banks declined after minutes from the latest Banco Central do Brasil meeting showed policymakers see Selic paths closer to market expectations as more appropriate. On Monday, the BCB’s Focus survey showed the year-end Selic forecast rising from 13.75% to 14.00%. Bradesco and Itaú both lost more than 0.5%. Other notable laggards included Petrobras (-0.6%), WEG (-1%), and Embraer (-1%).
 
 ---
