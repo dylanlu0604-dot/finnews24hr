@@ -1,7 +1,28 @@
 {
-  "updated": "2026-06-27 12:59:15",
-  "count": 18213,
+  "updated": "2026-06-27 13:03:14",
+  "count": 18212,
   "items": [
+    {
+      "id": "mkt:019f0774-c19b-7dd8-b140-aefb8e7c08ee",
+      "time": "2026-06-27 13:01:59",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Brent",
+        "Impact bullish",
+        "WTI"
+      ],
+      "text": "Norwegian oil services industry blockade has taken effect, disrupting offshore drilling operations."
+    },
+    {
+      "id": "4958243",
+      "time": "2026-06-27 13:00:49",
+      "tags": [
+        "其他"
+      ],
+      "text": "挪威石油服務業停工封鎖正式生效，海上鑽井作業已受衝擊。"
+    },
     {
       "id": "4958241",
       "time": "2026-06-27 12:42:04",
@@ -166607,32 +166628,6 @@
         "國際"
       ],
       "text": "【海洋法管不著？伊朗稱並非成員國 自己收費“合法合理”】據伊朗學生通訊社報道，伊朗司法機構律師中心國際事務副負責人表示：“目前國際社會上聲稱‘伊朗無資格徵收海峽服務費用’觀點的一方通常援引的是1982年《聯合國海洋法公約》。然而，伊朗並非1982年《聯合國海洋法公約》成員國，因此不受該公約所規定的‘過境通行’制度約束。在國際海洋法中，就實際且明確的服務收取費用是公認的合法行為。伊朗可以就其提供的服務收取費用，前提是該費用具有服務對價性質，而非單純的稅收或通行費。”"
-    },
-    {
-      "id": "4945675",
-      "time": "2026-06-20 13:02:47",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【保時捷擬敲定新一輪降本方案 同步收緊整車產能】保時捷正敲定新一輪成本削減磋商，企業將迎來整車減產週期。 保時捷執行長米夏埃爾·萊特斯接受採訪時表示，公司計劃在7月工廠夏季休產前，與員工代表達成降本相關協議。受美國關稅政策以及歐洲行業競爭加劇多重壓力，保時捷自去年起便啟動新一輪節流談判。萊特斯在採訪中透露，降本配套措施還將調整產能規劃，保時捷本年度整車產量將低於去年約28萬輛的銷量規模。 “即便整車產銷規模收縮，保時捷也要保持盈利。”他同時表示，車企計劃深化與同集團姊妹品牌奧迪的合作，以此實現盈利目標。"
-    },
-    {
-      "id": "mkt:019ee368-f26f-7dd8-b09c-5f50974f59a3",
-      "time": "2026-06-20 13:02:46",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Iran says not party to 1982 UNCLOS, defends charging strait service fees as lawful】A deputy head of the Center for Lawyers for International Affairs at Iran’s judiciary said international arguments that Iran lacks authority to levy strait service fees typically cite the 1982 UN Convention on the Law of the Sea (UNCLOS). He said Iran is not a party to UNCLOS and therefore not bound by its transit passage regime. He added that under international maritime law charging for actual, defined services is recognized as lawful and Iran may charge fees for services it provides so long as the charge is a service payment rather than a tax or a pure transit fee."
-    },
-    {
-      "id": "4945674",
-      "time": "2026-06-20 13:00:20",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "黎巴嫩國家通訊社：以色列夜間空襲黎巴嫩南部，造成三人死亡。"
     }
   ]
 }
