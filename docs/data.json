@@ -1,7 +1,23 @@
 {
-  "updated": "2026-06-28 05:44:17",
+  "updated": "2026-06-28 05:48:20",
   "count": 18145,
   "items": [
+    {
+      "id": "4958622",
+      "time": "2026-06-28 05:46:38",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國中央司令部：美軍在伊朗最新襲擊民用船隻後實施額外打擊。"
+    },
+    {
+      "id": "4958621",
+      "time": "2026-06-28 05:44:53",
+      "tags": [
+        "其他"
+      ],
+      "text": "遭腐敗指控後，阿根廷總統辦公室最高負責人努埃爾·阿多爾尼宣佈辭職。"
+    },
     {
       "id": "4958620",
       "time": "2026-06-28 05:42:43",
@@ -166000,25 +166016,6 @@
         "公司"
       ],
       "text": "糖果製造商瑪氏公司將於8月推出不含人工色素版本的M&M巧克力豆，但這款袋裝巧克力將少兩種標誌性顏色：棕色與藍色。"
-    },
-    {
-      "id": "mkt:019ee701-4644-7dd8-b0a2-44f8db7def24",
-      "time": "2026-06-21 05:48:00",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "【Former U.S. diplomat: commercial shipping through Strait of Hormuz will fall but not halt】Former U.S. ambassador to Oman Richard Schmierer said President Trump's recent comments on the Strait of Hormuz, including a 60‑day reference, may be intended to shift attention from current tensions. He said uncertainty persists: CENTCOM claims it can ensure safe transit while Iran warns ships not to pass or face danger, and it is unclear which side can enforce its position. Schmierer added shipowners and insurers have likely taken note; several vessels are already transiting waters near Oman's coast with apparent U.S. naval support, so commercial shipping is likely to decline but not stop."
-    },
-    {
-      "id": "4946012",
-      "time": "2026-06-21 05:47:57",
-      "tags": [
-        "其他"
-      ],
-      "text": "【英國國王個人納稅賬單將首次對外公開】隨著英國社會各界對王室財務狀況的審查力度持續加大，白金漢宮將首次對外公佈國王的個人納稅明細。一份全新、內容詳盡的王室家庭年度財務報告將於下週釋出，與常規君主撥款報告同步對外公示，此舉旨在推動王室“現代化革新與發展”。本次披露被稱作“歷史性首次公開”，報告將完整展示國王2024至2025財年的個人納稅總額，且今後每年都會持續公示該項納稅資料。此前一直拒絕公開納稅記錄的威爾士親王，此次也將同步公佈自己的個人繳稅賬單。這份白金漢宮釋出的報告將完整羅列國王所有私人收入來源，包括各類投資收益、經營利潤、巴爾莫勒爾與桑德靈厄姆兩座私人莊園營收，以及個人儲蓄所得。蘭開斯特公國是由土地、投資專案，以及辦公、商業、工業地產構成的私人資產組合，每年為國王帶來穩定收入，上一年度該公國收益達2680萬英鎊。"
     }
   ]
 }
