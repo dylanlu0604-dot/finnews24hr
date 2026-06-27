@@ -1,7 +1,19 @@
 {
-  "updated": "2026-06-27 10:37:03",
-  "count": 18219,
+  "updated": "2026-06-27 10:41:10",
+  "count": 18218,
   "items": [
+    {
+      "id": "te:economy:562335",
+      "time": "2026-06-27 10:37:28",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "China",
+        "Corporate Profits",
+        "Importance 1"
+      ],
+      "text": "China Industrial Profits Growth Accelerates in January-May — China’s industrial profits surged 18.8% year-on-year in the January-May 2026 period, accelerating from a 18.2% growth in the first four months of the year. The latest result reflected the ongoing AI investment boom and continued policy support for advanced industries despite lingering weakness in parts of the property-related sector."
+    },
     {
       "id": "4958200",
       "time": "2026-06-27 10:34:54",
@@ -166658,22 +166670,6 @@
         "市場"
       ],
       "text": "【金飾克價年內大跌近450元】6月20日，國際金價繼續走弱。截至週五（6月19日）紐約尾盤，現貨黃金價格下跌0.79%，報4154.78美元/盎司；黃金期貨價格下跌1.72%，報4172.9美元/盎司。受國際金價調整影響，國內多家品牌足金飾品價格下跌至約1260元/克，和年內高點相比下跌近450元。（央視財經）"
-    },
-    {
-      "id": "4945637",
-      "time": "2026-06-20 10:39:58",
-      "tags": [
-        "國際"
-      ],
-      "text": "日本計劃到2040年吸引總計2.3萬億美元的公私合作投資。"
-    },
-    {
-      "id": "4945636",
-      "time": "2026-06-20 10:38:46",
-      "tags": [
-        "公司"
-      ],
-      "text": "【諾獎得主John Jumper從DeepMind跳槽Anthropic】AlphaFold核心領導者John Jumper官宣：離開工作近9年的Google DeepMind，加入Anthropic。用一個AI模型改寫了整個結構生物學的諾獎得主，轉身走了。"
     }
   ]
 }
