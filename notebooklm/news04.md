@@ -1,7 +1,61 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-06-28 07:02:52_
-_本檔包含 3495 則快訊，約 669922 字_
+_更新時間：2026-06-28 07:31:13_
+_本檔包含 3493 則快訊，約 670024 字_
+
+---
+
+### 2026-06-24 00:39:50  #國際
+
+義大利總理梅洛尼：與特朗普發生爭執後，義大利外交政策將保持不變。
+
+---
+
+### 2026-06-24 00:39:07  #MKT News
+
+MELONI says cooperation with the United States must return to normal.
+
+---
+
+### 2026-06-24 00:37:54  #國際
+
+伊朗總統：伊朗導彈相關內容並未納入諒解備忘錄，且永遠不會納入。我們絕不會同任何人就本國防禦能力展開談判。
+
+---
+
+### 2026-06-24 00:37:54  #MKT News #WTI #Impact bullish #XAUUSD #DXY
+
+Iranian President Pezeshkian said Iran will never negotiate with anyone over its defensive capabilities.
+
+---
+
+### 2026-06-24 00:37:36  #MKT News #Important #WTI #Impact bullish #Brent #XAUUSD
+
+Iranian President PEZESHKIAN said Iran's missiles are not covered by the memorandum of understanding and never will be.
+
+---
+
+### 2026-06-24 00:36:41  #MKT News #WTI #Impact bearish #Brent #XAUUSD
+
+Iranian President Pezeshkian said Iran has extended a hand of friendship to Islamic countries including Pakistan, Qatar, Saudi Arabia, Egypt and Turkey to promote mutual understanding and lay the groundwork for a new regional security architecture.
+
+---
+
+### 2026-06-24 00:35:52  #其他
+
+白宮釋出關於武器轉讓戰略的行政令。
+
+---
+
+### 2026-06-24 00:32:23  #央行 #歐洲央行
+
+【德意志銀行上調對短期美債收益率的預測】德意志銀行經濟學家MatthewRaskin、StevenZang和AndrewFu在週二的研報中寫道，經過上週的聯邦公開市場委員會會議後，該行如今預計美聯儲今年將分別在9月和12月加息，每次加息25個基點，使聯邦基金利率達到4.1%。報告指出，此次修正上調了該行對短期美債收益率的預測——預計年底2年期美債收益率將達到4.3%（較此前的預測上調35個基點）。鑑於該行假設到2028年年中加息將逐步撤回，因此對長債收益率的影響較為有限。德意志銀行目前預計年底10年期美債收益率為4.8%（較此前的預測上調10個基點）。與市場遠期相比，該行對短端收益率的預測大體一致，但對收益率曲線的預測更為陡峭。
+
+---
+
+### 2026-06-24 00:31:57  #央行 #國際
+
+【德意志銀行上調對短期美債收益率的預測】德意志銀行經濟學家Matthew Raskin、Steven Zang和Andrew Fu在週二的研報中寫道，經過上週的聯邦公開市場委員會會議後，該行如今預計美聯儲今年將分別在9月和12月加息，每次加息25個基點，使聯邦基金利率達到4.1%。報告指出，此次修正上調了該行對短期美債收益率的預測 —— 預計年底2年期美債收益率將達到4.3%（較此前的預測上調35個基點）。鑑於該行假設到2028年年中加息將逐步撤回，因此對長債收益率的影響較為有限。德意志銀行目前預計年底10年期美債收益率為4.8%（較此前的預測上調10個基點）。與市場遠期相比，該行對短端收益率的預測大體一致，但對收益率曲線的預測更為陡峭。
 
 ---
 
@@ -21034,71 +21088,5 @@ People familiar with the matter said SpaceX (SPCX.O) has asked banks to arrange 
 ### 2026-06-22 22:07:54  #公司 #市場
 
 【興業科技：股票交易異常波動 收購磷化銦業務存不確定性】興業科技公告稱，公司股票連續三個交易日收盤價漲幅累計偏離超過20%，屬異常波動。公司於6月21日晚披露擬收購磷化銦業務相關資產框架協議，該收購尚需董事會審議，能否完成不確定。此業務2026年預計收入佔2025年收入比例極小，對當期營收和淨利潤影響小。新專案可能面臨市場開拓慢等風險，公司目前經營穩定，主業未變，控股股東等在異常波動期間未買賣公司股票。
-
----
-
-### 2026-06-22 22:07:33  #其他
-
-據訊息人士透露，SpaceX可能隨後發行高階無擔保票據，期限為5至30年期，以美元計價。
-
----
-
-### 2026-06-22 22:07:15  #其他 #焦點
-
-訊息人士稱，SpaceX已授權銀行安排六場固定收益投資者電話會議，會議將於6月22日舉行。
-
----
-
-### 2026-06-22 22:04:57  #其他
-
-【2026年APEC中小企業工商論壇將在深圳開幕】6月23日—25日，2026年APEC中小企業工商論壇將在深圳羅湖舉辦。本屆論壇由工業和資訊化部中小企業發展促進中心、中國中小企業國際合作協會、深圳市人民政府共同主辦，以‌“數智賦能，開放創新，合作共贏”‌為主題，舉辦主論壇、3場平行論壇及3場特色產業調研，同期設定優質中小企業產品展示區，匯聚APEC經濟體政府代表、院士專家、領軍企業，共探亞太中小企業數智轉型新路徑，共築區域產業開放合作新生態，共享全球價值鏈融通發展新機遇。（深圳釋出）
-
----
-
-### 2026-06-22 22:03:35  #Trading Economics #Markets #Commodity #Importance 1
-
-Baltic Dry Index Falls on Monday — The Baltic Exchange dry bulk freight index declined 1.4% to 2,684 on Monday, reflecting broad weakness across all vessel categories. The capesize index, which typically carries around 150,000 tonne cargoes such as iron ore and coal, fell 1.8% to 4,074. The panamax index, covering vessels that usually transport 60,000 to 70,000 tonnes of coal or grain, also dropped 1.8% to 2,059. Also, the supramax index slipped 0.2% to 1,715.
-
----
-
-### 2026-06-22 22:03:30  #公司 #市場
-
-義大利AVIO公司股票在暫停交易後恢復交易，下跌4.6%。
-
----
-
-### 2026-06-22 22:03:23  #經濟數據 #歐元區
-
-【歐元區6月消費者信心指數初值為負17.7】歐元區6月消費者信心指數初值為負17.7，市場預估為負17.5，前月為負19.0。
-
----
-
-### 2026-06-22 22:02:48  #國際
-
-【伊朗總統佩澤希齊揚將率團訪問巴基斯坦】當地時間22日，據巴基斯坦外交部訊息，伊朗總統佩澤希齊揚將於6月23日對巴基斯坦進行國事訪問。據悉，佩澤希齊揚將率高階別代表團訪問，代表團成員包括多名部長及其他高階官員。（央視新聞）
-
----
-
-### 2026-06-22 22:02:33  #公司
-
-Meta 官網訊息：電視端 Instagram 現已登陸三星智慧電視。
-
----
-
-### 2026-06-22 22:02:26  #資料 #焦點
-
-歐元區6月消費者信心指數初值 -17.7，預期-17.5，前值-19。
-
----
-
-### 2026-06-22 22:02:16  #其他
-
-META：正在探索劇集系列、電視直播等新內容形式，計劃近期推出.
-
----
-
-### 2026-06-22 22:02:15  #MKT News #Important #Market Regions #Europe & UK #EURUSD #Impact bearish #DXY #Impact bullish #DAX
-
-Euro area June consumer confidence (flash) -17.7; consensus -17.5; prior -19.
 
 ---

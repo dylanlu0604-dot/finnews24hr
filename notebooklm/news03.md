@@ -1,7 +1,49 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-06-28 07:02:52_
-_本檔包含 3881 則快訊，約 670111 字_
+_更新時間：2026-06-28 07:31:13_
+_本檔包含 3879 則快訊，約 669969 字_
+
+---
+
+### 2026-06-25 06:34:51  #國際
+
+市場訊息：日本青森縣發生強烈震動。
+
+---
+
+### 2026-06-25 06:34:29  #國際
+
+【中國銀河證券：A股或迴歸多主線 建議關注AI基建等三大方向】6月24日，中國銀河證券2026年中期投資策略報告會暨科技金融會議在上海舉行。在全球經濟格局加速重構、A股市場機遇與風險共生的當下，與會專家圍繞宏觀經濟走勢與產業變革機遇展開了深入研討。與會專家認為，AI與中東衝突正在重塑宏觀經濟格局。下半年投資環境或有所改善，市場有望迴歸多主線並行的格局，從而推動A股行情上行，建議關注AI基建領域、週期與製造板塊和紅利板塊的投資機遇。（中證報）
+
+---
+
+### 2026-06-25 06:32:48  #公司 #市場
+
+【延期合約保證金比例升至140% 多家銀行收緊個人貴金屬業務 】6月24日，工商銀行宣佈將於近期停辦代理上海黃金交易所個人貴金屬競價交易業務。6月以來，多家銀行收緊個人貴金屬相關業務，華夏銀行、廣發銀行、中國銀行等近10家全國性銀行先後釋出公告，調整個人貴金屬延期合約保證金比例，部分銀行將保證金比例上調至140%。業內人士認為，上述保證金比例突破100%意味著個人貴金屬延期合約的槓桿水平已實質性歸零，投機性資金將逐步退出市場。（中證報）
+
+---
+
+### 2026-06-25 06:32:01  #公司
+
+【直接融資勢頭超過信貸，金融“脫媒”深化倒逼銀行轉型】一家股份行支行的對公條線人士，最近察覺到一些變化：部分7年期、10年期乃至更長期限的固定資產貸款到期後，企業主動選擇不再續貸；與此同時，越來越多優質客戶將融資主渠道從銀行轉向債券市場。種種跡象表明，金融“脫媒”趨勢愈發明顯，資金開始繞開銀行等金融中介，直接進行交易。在這種情況下，銀行的角色將迎來重塑。未來，銀行不再只是“放貸者”，而將轉型為“服務中介”，以綜合服務能力重新定義自身價值。（上證報）
+
+---
+
+### 2026-06-25 06:30:25  #MKT News
+
+Volkswagen will sell a 51% stake in Everllence and remain a 49% principal shareholder in the medium term. The automaker said the planned leveraged buyout would generate roughly €7.4 billion.
+
+---
+
+### 2026-06-25 06:30:17  #Trading Economics #Markets #Commodity #Importance 1
+
+Energy Commodities Updates: Brent Crude Oil Plunges by 5.20% — Top commodity losers are Brent Crude Oil (-5.20%), Crude Oil WTI (-4.66%) and Methanol (-3.99%). Gains are led by Natural gas (2.25%) and Heating Oil (0.68%).
+
+---
+
+### 2026-06-25 06:26:57  #其他
+
+大眾汽車：Everllence 相關槓桿收購交易完成後，大眾將獲得約 74 億歐元資金。
 
 ---
 
@@ -23378,59 +23420,5 @@ MELONI said she does not believe Trump's dispute will harm the Italian economy.
 ### 2026-06-24 00:39:52  #MKT News #Market Regions #Europe & UK
 
 Italy's prime minister MELONI said Italy's foreign policy will remain unchanged following a dispute with Trump.
-
----
-
-### 2026-06-24 00:39:50  #國際
-
-義大利總理梅洛尼：與特朗普發生爭執後，義大利外交政策將保持不變。
-
----
-
-### 2026-06-24 00:39:07  #MKT News
-
-MELONI says cooperation with the United States must return to normal.
-
----
-
-### 2026-06-24 00:37:54  #國際
-
-伊朗總統：伊朗導彈相關內容並未納入諒解備忘錄，且永遠不會納入。我們絕不會同任何人就本國防禦能力展開談判。
-
----
-
-### 2026-06-24 00:37:54  #MKT News #WTI #Impact bullish #XAUUSD #DXY
-
-Iranian President Pezeshkian said Iran will never negotiate with anyone over its defensive capabilities.
-
----
-
-### 2026-06-24 00:37:36  #MKT News #Important #WTI #Impact bullish #Brent #XAUUSD
-
-Iranian President PEZESHKIAN said Iran's missiles are not covered by the memorandum of understanding and never will be.
-
----
-
-### 2026-06-24 00:36:41  #MKT News #WTI #Impact bearish #Brent #XAUUSD
-
-Iranian President Pezeshkian said Iran has extended a hand of friendship to Islamic countries including Pakistan, Qatar, Saudi Arabia, Egypt and Turkey to promote mutual understanding and lay the groundwork for a new regional security architecture.
-
----
-
-### 2026-06-24 00:35:52  #其他
-
-白宮釋出關於武器轉讓戰略的行政令。
-
----
-
-### 2026-06-24 00:32:23  #央行 #歐洲央行
-
-【德意志銀行上調對短期美債收益率的預測】德意志銀行經濟學家MatthewRaskin、StevenZang和AndrewFu在週二的研報中寫道，經過上週的聯邦公開市場委員會會議後，該行如今預計美聯儲今年將分別在9月和12月加息，每次加息25個基點，使聯邦基金利率達到4.1%。報告指出，此次修正上調了該行對短期美債收益率的預測——預計年底2年期美債收益率將達到4.3%（較此前的預測上調35個基點）。鑑於該行假設到2028年年中加息將逐步撤回，因此對長債收益率的影響較為有限。德意志銀行目前預計年底10年期美債收益率為4.8%（較此前的預測上調10個基點）。與市場遠期相比，該行對短端收益率的預測大體一致，但對收益率曲線的預測更為陡峭。
-
----
-
-### 2026-06-24 00:31:57  #央行 #國際
-
-【德意志銀行上調對短期美債收益率的預測】德意志銀行經濟學家Matthew Raskin、Steven Zang和Andrew Fu在週二的研報中寫道，經過上週的聯邦公開市場委員會會議後，該行如今預計美聯儲今年將分別在9月和12月加息，每次加息25個基點，使聯邦基金利率達到4.1%。報告指出，此次修正上調了該行對短期美債收益率的預測 —— 預計年底2年期美債收益率將達到4.3%（較此前的預測上調35個基點）。鑑於該行假設到2028年年中加息將逐步撤回，因此對長債收益率的影響較為有限。德意志銀行目前預計年底10年期美債收益率為4.8%（較此前的預測上調10個基點）。與市場遠期相比，該行對短端收益率的預測大體一致，但對收益率曲線的預測更為陡峭。
 
 ---
