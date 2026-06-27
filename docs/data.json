@@ -1,7 +1,15 @@
 {
-  "updated": "2026-06-27 10:16:50",
-  "count": 18212,
+  "updated": "2026-06-27 10:20:52",
+  "count": 18213,
   "items": [
+    {
+      "id": "mkt:019f06df-c7f7-7dd8-b140-73ab90a21120",
+      "time": "2026-06-27 10:19:16",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Preliminary data show Germany records all-time high temperature】Preliminary observations from the German Weather Service (DWD) on the 26th show Germany hit 41.3°C at 17:00 local time in Saarbrücken‑Burbach, Saarland, a national record, surpassing the previous 41.2°C recorded on 25 July 2019 in Tönisvorst and Duisburg‑Baerl, North Rhine‑Westphalia."
+    },
     {
       "id": "4958176",
       "time": "2026-06-27 10:13:28",
