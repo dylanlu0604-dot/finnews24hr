@@ -1,7 +1,19 @@
 {
-  "updated": "2026-06-28 00:23:20",
-  "count": 18153,
+  "updated": "2026-06-28 00:27:27",
+  "count": 18152,
   "items": [
+    {
+      "id": "mkt:019f09e5-168a-7dd8-b142-e5a4610e855c",
+      "time": "2026-06-28 00:23:56",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Market sources say Iran attacked a tanker in the Strait of Hormuz; the vessel was damaged but there were no casualties."
+    },
     {
       "id": "mkt:019f09e3-18ec-7dd8-b142-df292d7d35be",
       "time": "2026-06-28 00:21:45",
@@ -166080,22 +166092,6 @@
         "Brent"
       ],
       "text": "【India: three Indian tankers transit Strait of Hormuz】Indian shipping minister Sarbananda Sonowal said on Saturday three Indian‑flagged tankers — Desh Vaibhav, Desh Vibhor and Sanmar Herald — have safely transited the Strait of Hormuz and are en route to India. The vessels are carrying more than 860,000 tonnes of oil and have 94 Indian crew aboard, he said on social media."
-    },
-    {
-      "id": "4945924",
-      "time": "2026-06-21 00:26:44",
-      "tags": [
-        "其他"
-      ],
-      "text": "衛星影像顯示莫斯科煉油廠出現多處撞擊痕跡與火災損毀：一套聯合煉油裝置的工藝管廊遭到2至3次打擊，儲油罐區周邊也受損嚴重。分析報告同時確認，廠區內6座燃料儲罐出現損毀；另有部分無人機命中防護電纜引發火情，這類火災在衛星圖上無法識別。"
-    },
-    {
-      "id": "4945923",
-      "time": "2026-06-21 00:24:13",
-      "tags": [
-        "其他"
-      ],
-      "text": "巴西總統盧拉在民調中保持對右翼參議員博爾索納羅的領先優勢。"
     }
   ]
 }
