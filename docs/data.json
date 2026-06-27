@@ -1,7 +1,15 @@
 {
-  "updated": "2026-06-28 05:16:42",
-  "count": 18147,
+  "updated": "2026-06-28 05:20:34",
+  "count": 18146,
   "items": [
+    {
+      "id": "4958618",
+      "time": "2026-06-28 05:18:11",
+      "tags": [
+        "市場"
+      ],
+      "text": "【委內瑞拉震後搜救工作持續 1名被困兒童獲救】當地時間27日，在委內瑞拉地震災區的最新搜救行動中，哥倫比亞救援隊在卡拉巴列達成功救出一名11歲男孩。這是距離72小時黃金救援視窗期最後數小時內最新救出的倖存者。委內瑞拉24日連續發生兩次7級以上強震，造成大量人員傷亡。委政府宣佈多項措施應對強震災情，國際社會已向委提供震後援助。（央視新聞）"
+    },
     {
       "id": "4958617",
       "time": "2026-06-28 05:08:37",
@@ -166010,22 +166018,6 @@
         "MKT News"
       ],
       "text": "【IDF says carried out precision airstrike on Hamas member in Gaza】Israel Defense Forces said on the 20th it carried out a precision airstrike in central Gaza that killed Ahmed Samir Mohamed Washa, a member of Hamas’s armed wing whom the IDF said also worked as an Al Jazeera cameraman. The IDF said two other Hamas militants were killed and alleged Washa acted as a sniper for Hamas’s military wing and had planned attacks on Israeli forces, posing a direct threat. The IDF said Washa’s brother, Mohammed Samir Mohamed Washa, a key member of Hamas’s rocket and weapons-production unit who also used an Al Jazeera journalist cover, was killed by Israeli strikes in April."
-    },
-    {
-      "id": "mkt:019ee6e7-439e-7dd8-b0a2-209b60e6b4aa",
-      "time": "2026-06-21 05:19:36",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Israel Defense Forces (IDF) said Ahmed Vashakh, a former Al Jazeera photographer who served as a Hamas sniper operator, was killed in a precision strike in central Gaza and had planned multiple sniper attacks in recent months."
-    },
-    {
-      "id": "mkt:019ee6e5-7475-7dd8-b0a2-1872e104d954",
-      "time": "2026-06-21 05:17:37",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【U.S. Vice President Vance says Iran talks to focus on nuclear issue, Lebanon ceasefire】U.S. Vice President Vance said ahead of travel to Switzerland that talks with Iran will prioritize progress on the nuclear issue and pushing for a Lebanon ceasefire. He said a political leadership–led framework will be set at the highest level while technical teams continue on the ground, and that he expects to stay in Switzerland one to two days but hopes to advance handling of Iranian nuclear material. Vance said securing a Lebanon ceasefire is also a priority after recent Israeli missile strikes in the area and that the situation will require ongoing management; he added Iran will have its own items it wants to discuss."
     }
   ]
 }
