@@ -1,7 +1,39 @@
 {
-  "updated": "2026-06-27 09:27:27",
-  "count": 18190,
+  "updated": "2026-06-27 09:31:33",
+  "count": 18193,
   "items": [
+    {
+      "id": "mkt:019f06b3-1df4-7dd8-b140-2bf93163d669",
+      "time": "2026-06-27 09:30:29",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CNH",
+        "Impact bullish",
+        "Copper",
+        "CSI300"
+      ],
+      "text": "China industrial enterprises above designated size: year-to-date profits up 18.8% YoY in May, versus 18.2% previously."
+    },
+    {
+      "id": "4958150",
+      "time": "2026-06-27 09:30:25",
+      "tags": [
+        "其他"
+      ],
+      "text": "【樓市復甦訊號？多城核心地塊高溢價成交：房企扎堆搶奪，持續重新整理當地紀錄】近日，深圳、杭州、長沙等多個城市上演高熱土拍，核心片區宅地輪番拍出高溢價，板塊地價接連創下新高。“本身土拍熱度的提升更多是市場供給帶動的，熱點城市核心優質地塊的集中上市，帶動了更多房企積極入市，在一定程度上也會帶動樓市信心的提升。但同步也會導致市場分化情緒強化，核心優質專案會持續受到更多關注，非熱點城市以及缺乏配套的遠郊房產熱度將持續處於低位。”58安居客研究院院長張波分析道。（澎湃新聞）"
+    },
+    {
+      "id": "mkt:019f06b2-fb3b-7dd8-b140-26e659ae33e2",
+      "time": "2026-06-27 09:30:20",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "China | Industrial Profit Growth YTD (May) | actual 18.8% | previous 18.20%"
+    },
     {
       "id": "mkt:019f06ae-b504-7dd8-b140-185f036acb3a",
       "time": "2026-06-27 09:25:40",
