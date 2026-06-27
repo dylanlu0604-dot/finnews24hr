@@ -1,7 +1,15 @@
 {
-  "updated": "2026-06-28 01:59:07",
-  "count": 18144,
+  "updated": "2026-06-28 02:03:08",
+  "count": 18142,
   "items": [
+    {
+      "id": "4958558",
+      "time": "2026-06-28 02:02:08",
+      "tags": [
+        "國際"
+      ],
+      "text": "卡達外交部：首相強調，必須保障霍爾木茲海峽的航行自由，堅持透過對話與外交途徑解決問題。"
+    },
     {
       "id": "mkt:019f0a3b-a9c8-7dd8-b143-43ae4fc35653",
       "time": "2026-06-28 01:58:29",
@@ -9,6 +17,14 @@
         "MKT News"
       ],
       "text": "Israeli Prime Minister Netanyahu said Israel is breaking Iran’s diplomatic axis and has reached a framework agreement that would allow it to end the conflict with Lebanon."
+    },
+    {
+      "id": "4958557",
+      "time": "2026-06-28 01:58:28",
+      "tags": [
+        "國際"
+      ],
+      "text": "內塔尼亞胡談及黎巴嫩局勢：我們正在瓦解伊朗的外交軸心。我們之所以能達成這份諒解框架，原因很簡單，我方對真主黨實施了強力打擊。原本指望伊朗支援的真主黨，最終並未得到援助。"
     },
     {
       "id": "mkt:019f0a3a-9a83-7dd8-b143-3f2da7dc23f1",
@@ -165972,38 +165988,6 @@
         "其他"
       ],
       "text": "【訊息人士：伊拉克國民議會議長住所遭無人機襲擊】當地時間20日，伊拉克安全部門訊息人士稱，伊拉克國民議會議長海巴特·哈勒布西的住所遭不明無人機襲擊。（央視新聞）"
-    },
-    {
-      "id": "mkt:019ee633-2ad7-7dd8-b0a1-38ef0b41228a",
-      "time": "2026-06-21 02:02:53",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "The extremist group Islamic State has claimed responsibility for an attack in northeast Aleppo, Syria."
-    },
-    {
-      "id": "4945954",
-      "time": "2026-06-21 02:02:25",
-      "tags": [
-        "國際"
-      ],
-      "text": "極端組織“伊斯蘭國”宣稱對敘利亞阿勒頗東北部的襲擊事件負責。"
-    },
-    {
-      "id": "4945953",
-      "time": "2026-06-21 02:01:31",
-      "tags": [
-        "其他"
-      ],
-      "text": "西班牙首相佩德羅・桑切斯的妻子貝戈尼亞・戈麥斯將接受庭審，被控四項重罪：權錢交易（影響力兜售）、商業腐敗、侵吞公共資金、侵佔財物。"
-    },
-    {
-      "id": "4945952",
-      "time": "2026-06-21 02:00:27",
-      "tags": [
-        "國際"
-      ],
-      "text": "半島電視臺一名攝像師在以色列對加沙地帶中部發動的空襲中身亡。"
     }
   ]
 }
