@@ -1,7 +1,41 @@
 {
-  "updated": "2026-06-28 00:48:02",
-  "count": 18147,
+  "updated": "2026-06-28 00:52:11",
+  "count": 18149,
   "items": [
+    {
+      "id": "4958536",
+      "time": "2026-06-28 00:50:31",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "伊朗國家電視臺：多艘船舶此前未經許可通行海峽遭鳴槍警告，如今更多船隻主動向伊朗申請霍爾木茲海峽通行許可。"
+    },
+    {
+      "id": "4958535",
+      "time": "2026-06-28 00:50:19",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "伊朗最高領袖顧問雷扎伊稱，美國在霍爾木茲海峽製造緊張局勢，違反停戰備忘錄。"
+    },
+    {
+      "id": "mkt:019f09fb-7dac-7dd8-b143-05be429d92b0",
+      "time": "2026-06-28 00:48:24",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "French Foreign Ministry says it is willing to contribute to implementation of a framework agreement between Lebanon and Israel."
+    },
+    {
+      "id": "4958534",
+      "time": "2026-06-28 00:47:50",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列國防部長卡茨表示，他已同內塔尼亞胡一同下令軍隊，做好長期駐守黎巴嫩南部的準備。"
+    },
     {
       "id": "4958533",
       "time": "2026-06-28 00:47:12",
@@ -166031,26 +166065,6 @@
         "Brent"
       ],
       "text": "【CENTCOM says Iran does not control Strait of Hormuz】Al Jazeera reported CENTCOM said Iran does not control the Strait of Hormuz. A CENTCOM spokesman said US forces are monitoring the situation to ensure continued shipping through the waterway. Earlier the Islamic Revolutionary Guard Corps said it had closed the Strait, citing continued Israeli strikes in southern Lebanon."
-    },
-    {
-      "id": "4945932",
-      "time": "2026-06-21 00:49:42",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【特朗普對經濟形勢的擔憂削弱美國在伊朗談判中的籌碼】美國總統特朗普坦言，擔憂全球經濟崩盤是他簽署美伊臨時和平諒解備忘錄的重要動因。這番表態暴露了美方即將與德黑蘭開啟下一輪談判時存在的核心短板。特朗普於週三簽署的這份諒解備忘錄，重新打通霍爾木茲海峽航道，同時批准豁免針對伊朗原油出口的制裁措施。政策效果立竿見影：國際油價進一步走低，美國股市上漲。特朗普本週在法國出席新聞釋出會時，專門提及了這兩項市場變化。“我不願目睹一場經濟災難，”特朗普週四在法國埃維昂舉行的記者會上表態，“如果戰事持續升級，經濟災難完全有可能上演。”"
-    },
-    {
-      "id": "mkt:019ee5ef-79ae-7dd8-b0a0-c0c116829a3f",
-      "time": "2026-06-21 00:48:57",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bearish",
-        "XAUUSD"
-      ],
-      "text": "【Analysis: Trump says economic risk of Iran war weakens U.S. negotiating leverage】Trump said the prospect of global economic collapse was a key reason he signed a temporary peace agreement with Iran, exposing a central U.S. weakness ahead of the next negotiation round. Because Iran knows Trump is reluctant to restart military action—which would trigger fresh economic turmoil—the pressure on Iran to conclude talks quickly is reduced. U.S. domestic pressure may further intensify: a Maryland poll found 56% of Americans believe the war’s negative effects on U.S. interests outweigh the positive. Former State Department official Chris Kennedy said the memorandum of understanding’s 14 clauses leave Iran in an advantageous position on nuclear issues. The agreement also allows the original 60‑day negotiation period to be “extended,” implying talks could stretch for months. Former Treasury official Miad Maleki said the outcome is more favorable to Iran: Iran will not abandon its nuclear program for sanctions waivers it has already won, and while the U.S. could still escalate militarily, it has forfeited key economic leverage when it most needed it."
     }
   ]
 }
