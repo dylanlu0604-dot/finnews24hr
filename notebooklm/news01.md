@@ -1,7 +1,79 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-06-28 04:36:52_
-_本檔包含 3505 則快訊，約 670851 字_
+_更新時間：2026-06-28 05:04:43_
+_本檔包含 3501 則快訊，約 670789 字_
+
+---
+
+### 2026-06-28 05:01:27  #國際
+
+市場資訊：美國總統特朗普與黎巴嫩總統約瑟夫·奧恩的通話氛圍“積極、充滿支援意味”，奧恩或將受邀前往華盛頓。
+
+---
+
+### 2026-06-28 05:00:58  #MKT News #Market Themes #The Trump Trade
+
+Lebanon's presidential office said Trump told President Aoun the US will support Lebanon's economy and its legitimate security forces.
+
+---
+
+### 2026-06-28 04:58:12  #焦點 #國際
+
+黎巴嫩總統府表示：特朗普向奧恩確認，美國政府將扶持黎巴嫩經濟，並支援黎巴嫩合法安全部隊。
+
+---
+
+### 2026-06-28 04:53:35  #國際
+
+中國地震臺網正式測定：06月28日04時21分在日本本州東部附近海域（北緯40.25度，東經142.40度）發生5.9級地震，震源深度90千米。
+
+---
+
+### 2026-06-28 04:53:29  #MKT News #XAUUSD #Impact bearish
+
+The Lebanese presidential palace said President Aoun told US President Trump on a phone call that Lebanon will assume responsibility for implementing the framework agreement with Israel. Aoun requested US help to prevent breaches of the agreement and to press Israel to withdraw from southern Lebanon.
+
+---
+
+### 2026-06-28 04:52:35  #國際
+
+黎巴嫩總統府表示，奧恩已請求美國協助阻止違反協議的行為，並向以色列施壓，要求其撤出黎巴嫩南部區域。
+
+---
+
+### 2026-06-28 04:52:31  #國際
+
+黎巴嫩總統府表示，奧恩在與特朗普的通話中稱，黎巴嫩將承擔起履行與以色列框架協議的責任。
+
+---
+
+### 2026-06-28 04:52:18  #MKT News #Macro & Rates #DXY #Impact bullish #EURUSD #Impact bearish #USDJPY
+
+【Neuberger: dollar likely to break six- to nine-month range】Neuberger portfolio manager Joseph Purtell said the dollar may strengthen in the near term as US real interest rates rise. He expects the currency to break out of its six- to nine-month trading range, but added that structural risks, including US fiscal sustainability, could weaken the dollar over the longer term.
+
+---
+
+### 2026-06-28 04:51:56  #其他
+
+阿聯酋總統就地震遇難者向委內瑞拉代總統表達慰問。
+
+---
+
+### 2026-06-28 04:42:17  #國際
+
+【日本巖手縣近海發生6.1級地震】據日本氣象廳公佈的資料，當地時間28日5時21分左右，日本巖手縣近海發生里氏6.1級地震，最大震感為震度5弱，震源深度40公里。本次地震暫無海嘯風險。（央視新聞）
+
+---
+
+### 2026-06-28 04:41:27  #國際
+
+以色列對加沙地帶中部代爾拜萊赫東部發動猛烈空襲，現場升起滾滾濃煙。
+
+---
+
+### 2026-06-28 04:41:10  #國際
+
+美國高階官員和黎巴嫩官員表示，美國總統特朗普透過電話與黎巴嫩總統約瑟夫·奧恩通話，並祝賀他簽署了與以色列的框架協議。
 
 ---
 
@@ -17,9 +89,21 @@ _本檔包含 3505 則快訊，約 670851 字_
 
 ---
 
+### 2026-06-28 04:30:50  #MKT News
+
+EMSC said a magnitude-6 earthquake struck near the east coast of Honshu, Japan.
+
+---
+
 ### 2026-06-28 04:29:51  #國際
 
 歐洲地中海地震中心（EMSC）：日本本州東海岸附近發生6級地震。
+
+---
+
+### 2026-06-28 04:27:08  #MKT News
+
+【Tanzania national grid fault triggers widespread blackout】On the evening of the 27th local time, a technical fault on Tanzania’s national grid cut power to all areas connected to the national transmission network. The national power utility said the fault occurred at 19:00 and the outage affected households, businesses and public institutions across multiple regions. Technical teams are conducting repairs and will restore supply in phases.
 
 ---
 
@@ -47,6 +131,12 @@ Iberdrola Stock Price Hits Near 15-year High — Iberdrola shares increased to 2
 
 ---
 
+### 2026-06-28 04:17:59  #MKT News
+
+【Gavekal Research: scenario of Trump forcing Fed cuts that keep inflation above 2% is unlikely】Gavekal Research said markets feared in 2025 that Trump might undermine Fed independence by nominating a political ally as chair, forcing rate cuts and leaving inflation persistently above the Fed’s 2% target. Developments over the past seven months make that scenario unlikely: the appointment of Kevin Walsh to lead the Fed and the retention of 11 of 12 regional Fed bank presidents. At Walsh’s first meeting earlier this month the Fed emphasized its commitment to price stability, surprising some market participants who had expected a more dovish stance.
+
+---
+
 ### 2026-06-28 04:10:57  #國際
 
 歐盟：啟動一項針對查德、總額6300萬歐元的安全合作計劃。
@@ -65,6 +155,12 @@ Iberdrola Stock Price Hits Near 15-year High — Iberdrola shares increased to 2
 
 ---
 
+### 2026-06-28 03:59:39  #MKT News
+
+【Trump nominates Lance Shroyer as ICE director】President Trump has nominated Lance Shroyer to lead U.S. Immigration and Customs Enforcement (ICE). Trump said Shroyer, a former Oklahoma state trooper and U.S. Marine who has long worked alongside ICE, has extensive experience in combating illegal-immigration crime and carrying out deportations. Trump urged the Senate to move quickly to confirm the nomination.
+
+---
+
 ### 2026-06-28 03:55:29  #國際
 
 【特朗普提名俄克拉荷馬州執法官員出任移民與海關執法局局長】美國總統特朗普表示，他將提名蘭斯·施羅耶擔任美國移民與海關執法局（ICE）局長，並敦促參議院“立刻”批准這項任命。特朗普於週六在社交媒體發文稱，施羅耶曾任職俄克拉荷馬州州警，同時是美國海軍陸戰隊退伍軍人。特朗普寫道：“他是一名愛國者，擁有一線實戰經驗；數十年間專門抓捕窮兇極惡之徒，是一名實績出眾的領導者。”目前，戴維·文徹拉擔任該移民機構代理局長。移民與海關執法局前代理局長託德·萊昂斯已於4月宣佈卸任，其最後任職日為5月31日。特朗普第二屆任期內，該局至今尚未產生正式局長。
@@ -74,6 +170,12 @@ Iberdrola Stock Price Hits Near 15-year High — Iberdrola shares increased to 2
 ### 2026-06-28 03:54:53  #國際
 
 美國食品藥品監督管理局（FDA）前任抗癌藥物部門主管理查德·帕茲德正被考慮重返該職位。
+
+---
+
+### 2026-06-28 03:51:37  #MKT News
+
+President Trump returned to the White House from his Virginia golf club, MSNow White House reporter said.
 
 ---
 
@@ -95,6 +197,12 @@ Iberdrola Stock Price Hits Near 15-year High — Iberdrola shares increased to 2
 
 ---
 
+### 2026-06-28 03:37:03  #MKT News
+
+Trump nominated Lance Shroyer to be the next director of U.S. Immigration and Customs Enforcement (ICE).
+
+---
+
 ### 2026-06-28 03:35:36  #國際
 
 特朗普：參議院必須立即確認蘭斯的任命，不要拖延。
@@ -107,9 +215,21 @@ Iberdrola Stock Price Hits Near 15-year High — Iberdrola shares increased to 2
 
 ---
 
+### 2026-06-28 03:30:00  #MKT News
+
+EMSC reports a magnitude 5.6 earthquake offshore Aragua state, Venezuela.
+
+---
+
 ### 2026-06-28 03:26:52  #國際
 
 歐洲地中海地震中心（EMSC）：委內瑞拉阿拉瓜州近海發生5.6級地震。
+
+---
+
+### 2026-06-28 03:21:57  #MKT News
+
+【Israeli official says Israel will respond strongly if HEZBOLLAH attacks】On the 27th an Israeli security official said Israel is on high alert for a possible near-term HEZBOLLAH attack aimed at scuttling the newly signed Israel-Lebanon framework agreement and vowed a severe and forceful response to any strike. Earlier HEZBOLLAH deputy leader Naim Qassem denounced the US-Israel-Lebanon framework agreement as invalid.
 
 ---
 
@@ -119,15 +239,39 @@ Iberdrola Stock Price Hits Near 15-year High — Iberdrola shares increased to 2
 
 ---
 
+### 2026-06-28 03:14:17  #MKT News
+
+【Israeli national security minister says Israel-Lebanon framework deal is "a major mistake"】On the 27th, Israeli national security minister Itamar Ben-Gvir said the US-mediated Israel-Lebanon framework agreement is "a major mistake" and demanded Prime Minister Benjamin Netanyahu formally submit the deal to cabinet for a vote. Ben-Gvir said the Lebanese government will not genuinely disarm Hezbollah and that only the Israel Defense Forces can do so.
+
+---
+
 ### 2026-06-28 03:13:52  #國際
 
 【以國家安全部長：黎以美框架協議是“重大錯誤”】當地時間27日，以色列國家安全部部長本-格維爾發表宣告稱，在美國斡旋下達成的以黎新框架協議是“一個重大錯誤”，要求總理內塔尼亞胡將該協議正式提交內閣進行表決。本-格維爾表示，黎巴嫩政府不會真正解除真主黨的武裝，這一點只有以色列國防軍才能做到。（央視新聞）
 
 ---
 
+### 2026-06-28 03:11:14  #MKT News
+
+【Czech Republic records highest temperature on record】Local time June 27, Doksany in the Usti nad Labem Region recorded 40.8°C, the highest temperature on record in the Czech Republic.
+
+---
+
+### 2026-06-28 03:09:42  #MKT News
+
+Sources: Iranian foreign minister Araghchi will visit Iraq on Sunday.
+
+---
+
 ### 2026-06-28 03:08:12  #公司 #觀點
 
 摩根大通CEO戴蒙談人工智慧：科技推動人類取得巨大進步，但它也會被壞人濫用，就像飛機、各類藥品都曾被不法利用一樣。在座不少人都有孫輩或子女，待到他們長大，很有可能活到一百歲。而且，我們在座眾人如今所罹患的癌症，有一半到那時將不存在了。
+
+---
+
+### 2026-06-28 03:04:45  #MKT News #S&P500 #Impact bullish #XAUUSD #Impact bearish #WTI
+
+【NETANYAHU says US, Lebanon agree Israel may retain security zone in Lebanon until Hezbollah disarmed】NETANYAHU said at a March 27 press conference the framework agreement with Lebanon is a "historic achievement" that advances ending the bilateral conflict and could lead to a final peace. He said the deal is a major blow to Iran and Hezbollah. The agreement, he said, reflects US and Lebanese assent for Israel to retain a security zone inside Lebanon for a period "as needed" — until Hezbollah and other armed groups are disarmed and Lebanon no longer poses a threat to Israel. As a pilot to hand territory to the Lebanese army and remove Hezbollah control, Israel will withdraw from two small currently held areas: one entirely outside the security zone and one at its edge that Israeli forces no longer need. NETANYAHU said Israel effectively retains all security-zone depth required to defend its northern border.
 
 ---
 
@@ -21005,173 +21149,5 @@ U.S. chip stocks slipped in after-hours trading: Micron Technology (MU.O) down n
 ### 2026-06-26 08:36:40  #MKT News
 
 South Korea's Defense Ministry says it will train 500,000 drone operators.
-
----
-
-### 2026-06-26 08:35:20  #公司
-
-【力勤資源：預計2026年營業收入564.13億元 淨利潤60.01億元】力勤資源（02245.HK）釋出內幕訊息公告，公司就建議A股發行向深交所提交申請材料，A股招股說明書（申報稿）將於2026年6月26日刊載於深交所主機板股票發行上市稽核網站。該說明書包含截至2026年12月31日止年度的自願性盈利預測：預計營業收入5641270.04萬元（即564.13億元），較2025年度已審數4025523.77萬元增長40.14%；預計淨利潤600135.62萬元（即60.01億元），較2025年度已審數474984.81萬元增長26.35%。
-
----
-
-### 2026-06-26 08:34:59  #MKT News #005930.KS #Impact bearish #000660.KS
-
-SK Hynix fell 4%; Samsung Electronics fell more than 3%.
-
----
-
-### 2026-06-26 08:34:26  #國際
-
-韓國國防部：將培養50萬名“無人機戰士”。
-
----
-
-### 2026-06-26 08:33:19  #其他
-
-【福建省委書記周祖翼調研科研院所強調：推動科技創新與產業創新深度融合】據福建日報，6月25日，福建省委書記周祖翼深入位於福州市的部分科研院所調研。周祖翼強調，要深入實施創新驅動發展戰略，持續強化基礎研究，推動科技創新與產業創新深度融合，因地制宜發展新質生產力，以創新賦能經濟社會高質量發展，為福建在中國式現代化建設中奮勇爭先提供科技支撐。
-
----
-
-### 2026-06-26 08:33:15  #國際 #原創
-
-【美法官裁定馬斯克需就“百萬美元抽獎騙局”的集體訴訟出庭作證】美國一位聯邦法官週四裁定埃隆·馬斯克需在兩起擬議的集體訴訟中宣誓作證。這兩起訴訟指控馬斯克在2024年大選前，透過承諾每天發放100萬美元的獎金來欺騙搖擺州的選民。原告方面聲稱，馬斯克和他的美國政治行動委員會承諾100萬美元的獎金將像抽獎一樣“隨機”選出。而實際上選民根本沒有中獎的真正機會，18名獲獎者之所以被選中，是因為他們可能成為美國政治行動委員會的優質代言人。
-
----
-
-### 2026-06-26 08:33:12  #宏觀 #市場 #國際
-
-【韓國財政部長：將下調燃油價格上限】韓國財政部長週五表示，為緩解通脹壓力，韓國將下調燃油價格上限。“由於中東局勢的不確定性，本週我們維持了第六次燃油價格上限不變，但第七次上限將低於當前水平，並將持續到消費者價格穩定為止，”韓國財政部長具允哲表示。韓國時隔數十年首次於三月在全國範圍內實施燃油價格上限，目前當局每月都會對此進行調整。韓國5月份消費者通脹率升至3.1%，為兩年多來的最高水平，超出預期。這一上漲主要受中東衝突引發的高油價推動，也增強了下月就可能實施貨幣緊縮政策的理由。具允哲表示，政府將採取政策措施，力爭今年下半年將消費者通脹控制在3%以下。
-
----
-
-### 2026-06-26 08:32:22  #國際
-
-韓國國防部長官：將迅速擴充無人機及反無人機部隊。
-
----
-
-### 2026-06-26 08:32:05  #市場 #國際
-
-30年期日本國債收益率上漲1.5個基點，至3.840%。
-
----
-
-### 2026-06-26 08:31:57  #公司 #國際
-
-【瑞典能源公司Orrön Energy宣佈達成戰略交易，將設立北歐領先獨立發電企業】當地時間6月25日，瑞典能源公司Orrön Energy宣佈與挪威可再生能源公司Cloudberry Clean Energy達成協議。Orrön Energy表示，將把公司除Karskruv風電場外的北歐可再生能源平臺及組織與Cloudberry進行合併，由此設立一家領先的北歐獨立發電企業。作為本次交易的對價，Orrön Energy將獲得合併後Cloudberry 27.01%的股份，成為其最大股東。Orrön Energy將繼續持有Karskruv風電場及其大型歐洲開發業務，包括資料中心、太陽能和電池專案。
-
----
-
-### 2026-06-26 08:31:04  #國際
-
-日本5月5月煤炭進口總量同比增長11.8%，動力煤進口量增長14.1%，無煙煤進口量增長64.3%；日本5月液化天然氣進口量下降15.1%。
-
----
-
-### 2026-06-26 08:30:37  #國際
-
-日本5月原油進口量下降57.3%。
-
----
-
-### 2026-06-26 08:30:24  #其他
-
-【中網投董事長吳海：AI已成"原子級技術"，一級市場投融資持續活躍】MWC2026上海期間，中國網際網路投資基金董事長吳海致辭表示，"十五五"規劃中AI定位戰略升級，已成為"產業創新核心"和"原子級技術"，將深度嵌入研發、製造、檢測全環節。一級市場AI投融資自2023年起持續高活躍，具身機器人、多模態模型等方向融資走高。中網投在AI領域長期佈局三大方向：基礎創新（模型演算法）、基礎設施（AI晶片、資料平臺）、產業融合（具身智慧、自動駕駛、AI安全）。
-
----
-
-### 2026-06-26 08:30:10  #市場
-
-上海證交所上日融資餘額上漲0.7%至15,211.1億元。
-
----
-
-### 2026-06-26 08:29:52  #Trading Economics #Markets #United States #Stock Market #Importance 2
-
-US Futures Steady After Choppy Session — US stock futures were little changed on Friday after the major indexes ended mixed in the previous session following volatile trading, as renewed weakness in megacap technology stocks offset optimism driven by a bullish outlook for memory-chip makers. On Thursday, the Nasdaq Composite fell 0.46%, marking its fourth consecutive day of losses, as an early rally sparked by Micron’s upbeat forecast gave way to broad selling across the technology sector. Micron surged 15.7% after reporting strong earnings and issuing a robust revenue outlook for the August quarter, lifting other chip-related stocks including Sandisk (22%), Applied Materials (13.4%), and Western Digital (4.9%). Meanwhile, megacap technology shares remained under pressure, with Apple (-6.1%), Nvidia (-1.6%), Microsoft (-3.5%), Amazon (-3.1%), and Meta (-2.7%) all posting losses.
-
----
-
-### 2026-06-26 08:29:41  #公司 #市場 #國際
-
-【中韓半導體ETF華泰柏瑞：將於2026年6月26日開市起至當日10:30停牌】近期，華泰柏瑞基金管理有限公司（以下簡稱 “本公司”）旗下華泰柏瑞中證韓交所中韓半導體交易型開放式指數證券投資基金（QDII）（擴位證券簡稱：中韓半導體 ETF 華泰柏瑞，交易程式碼：513310，以下簡稱 “本基金”）二級市場交易價格顯著高於基金份額參考淨值，存在大幅溢價情形。特此提醒投資者警惕二級市場交易溢價風險，若盲目參與投資，或將產生重大虧損。為維護投資者合法權益，本基金將於 2026 年 6 月 26 日開盤起至當日 10:30 實施停牌。如午市收盤時，本基金二級市場交易溢價幅度仍維持高位，公司有權向上海證券交易所申請，於 2026 年 6 月 26 日下午盤中臨時停牌直至收盤，以此向市場提示風險，具體安排以屆時釋出公告為準。
-
----
-
-### 2026-06-26 08:28:13  #公司 #市場 #焦點 #國際
-
-日本日經指數跌幅擴大至3%；日本東證指數下跌1%，報3976.22點。軟銀集團股價大跌 12%。
-
----
-
-### 2026-06-26 08:28:08  #MKT News #Market Themes #Chip Wars
-
-Huatai-PineBridge China-Korea Semiconductor ETF will be suspended from market open on June 26, 2026 until 10:30 that day.
-
----
-
-### 2026-06-26 08:27:17  #MKT News #Important #Market Regions #Japan & APAC #Nikkei 225 #Impact bearish
-
-Japan's Nikkei 225 fell 3.00% intraday to 70,102.76 points.
-
----
-
-### 2026-06-26 08:27:08  #市場 #國際
-
-韓國綜合股價指數（KOSPI）下跌3%，至8661.89點。
-
----
-
-### 2026-06-26 08:27:05  #MKT News #Important #Market Regions
-
-South Korea's KOSPI index tumbled 3.00% intraday to 8,661.89 points.
-
----
-
-### 2026-06-26 08:26:55  #市場
-
-MSCI亞太指數下跌1%至276.01點。
-
----
-
-### 2026-06-26 08:26:46  #其他
-
-【湖北省省長李殿勳在武漢調研場景創新並召開推進會】據湖北日報，6月25日下午，湖北省委副書記、省長李殿勳在武漢市調研場景創新並召開推進會，研究部署加快推進全省場景培育與開放應用工作。李殿勳來到武漢市測繪研究院，調研“城市智眼”低空無人機遙感監測網場景建設和應用情況，強調要統籌考慮末端感知、網路互聯、資料融通、算力共享、智慧應用、安全監管，加快建設“空天地”一體智慧感知系統和綜合應用體系，更好服務城市執行和社會治理。
-
----
-
-### 2026-06-26 08:25:53  #其他
-
-【廣西雲南等地今明天降雨連連 北方多地週末高溫發展】今明天（6月26日至27日），南方主雨帶維持在雲南至華南北部等地，廣西、雲南、廣東、福建等地部分地區有暴雨或大暴雨。28日之後，南方主雨帶將北抬，江南北部、江漢東部、江淮等地降雨發展增強，需注意防範。受降雨影響，今明天華南多地最高氣溫將有所下降，但體感仍然悶熱。北方多地週末高溫發展，需注意防暑。
-
----
-
-### 2026-06-26 08:25:24  #其他
-
-【中國移動聯合產業夥伴釋出全球首個通訊智慧體協同開源專案OpenAN】6月25日，在2026上海世界行動通訊大會期間，中國移動攜手GSMA及華為、中興等多家國際知名通訊與科技企業，在Linux網路子基金會社群正式釋出全球首個通訊智慧體協同的開源專案——OpenAN，面向網路運營場景實現安全、高效、可控的多智慧體協同模式。OpenAN專案的釋出，為全球通訊行業提供了首個面向通訊場景的智慧體協同全開源解決方案，標誌著智慧體技術從概念研究走向工程落地。同時，該專案也為自智網路向L4級演進積累了重要的技術基礎。
-
----
-
-### 2026-06-26 08:23:22  #市場
-
-【全球最大的黃金ETF SPDR Gold Trust持倉較前日減少6.27噸】截至2026年06月25日，全球最大的黃金ETF SPDR Gold Trust持倉量為1007.08噸，較前一個交易日減少6.27噸。
-
----
-
-### 2026-06-26 08:22:47  #MKT News
-
-South Korea’s Ministry of Oceans and Fisheries says eight South Korean vessels have exited the Strait of Hormuz.
-
----
-
-### 2026-06-26 08:21:48  #國際
-
-韓國海洋部：另有八艘韓國船隻已駛出霍爾木茲海峽。
-
----
-
-### 2026-06-26 08:20:40  #MKT News #Important #Commodities #Precious Metals #Macro & Rates #The Fed (FOMC) #XAUUSD #Impact bullish
-
-【China International Capital Co: Gold bull market not over; turnaround may be near】China International Capital Co says gold’s selloff since March does not signal the end of the bull market. International gold fell below $4,000/oz, off more than 25% from the March peak of $5,321/oz. CICC cites two primary drivers: US–Iran conflict-driven oil and inflation upside, which stoked tightening expectations, and a June FOMC appearance by a Fed official that was read as hawkish — the dot plot revised up inflation expectations and roughly half of the 18 voters signalled support for at least one rate hike this year. Futures markets have priced one Fed hike in 2026 and one in 2027; a stronger dollar has weighed on gold. CICC cautions against linear extrapolation: US inflation may have peaked and could trend down in H2, and the recent hawkish rhetoric does not necessarily mark a permanent Fed shift away from eventual easing. Conclusion: the correction is not the end of the gold bull market; a turnaround may be near. Recommendation: maintain positions and buy on dips.
 
 ---
