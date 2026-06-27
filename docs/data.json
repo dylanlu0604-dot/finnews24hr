@@ -1,7 +1,26 @@
 {
-  "updated": "2026-06-28 02:27:19",
+  "updated": "2026-06-28 02:31:21",
   "count": 18162,
   "items": [
+    {
+      "id": "4958579",
+      "time": "2026-06-28 02:29:35",
+      "tags": [
+        "公司",
+        "市場",
+        "觀點",
+        "國際"
+      ],
+      "text": "摩根大通CEO戴蒙談美元儲備貨幣地位：倘若三四十年後，美國不再擁有全球頂尖的軍事實力與經濟實力，美元也就無法維持頭號儲備貨幣的地位。不妨做個簡單考量：如果你的全部資金只能投往一個國家，你會選哪裡？答案顯而易見，只有一個選擇。有人跟我說，他們正把存放在美國金庫的黃金運走,只因對美國心生不滿。我當時回應“這倒是無所謂，但眼下有三支軍隊隨時能奪走你這批黃金”。這就是真實的世界。很多人忘了，世道本就充滿博弈與殘酷。"
+    },
+    {
+      "id": "4958578",
+      "time": "2026-06-28 02:26:49",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列總理內塔尼亞胡：（以色列）今後組建的任何一屆政府都不會接納兩國方案。"
+    },
     {
       "id": "4958577",
       "time": "2026-06-28 02:26:22",
@@ -166149,22 +166168,6 @@
         "MKT News"
       ],
       "text": "【US media: IAEA director to participate in technical talks on Iran nuclear programme】US broadcaster CBS reports IAEA Director Rafael Grossi is in Switzerland and is expected to take part in technical talks on Iran’s nuclear programme. A 14-point memorandum of understanding assigns the IAEA responsibility for inspections and to supervise downblending of Iran’s highly enriched uranium (HEU)."
-    },
-    {
-      "id": "4945960",
-      "time": "2026-06-21 02:31:10",
-      "tags": [
-        "其他"
-      ],
-      "text": "一項新研究顯示，一款人工智慧模型正幫助部分常年病因不明的患者得到確診。"
-    },
-    {
-      "id": "4945959",
-      "time": "2026-06-21 02:30:13",
-      "tags": [
-        "其他"
-      ],
-      "text": "蘇格蘭反恐警方正在調查愛丁堡發生的襲擊事件，該事件已造成五人受傷。"
     }
   ]
 }
