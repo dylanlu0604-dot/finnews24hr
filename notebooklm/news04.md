@@ -1,7 +1,141 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-06-27 16:38:31_
-_本檔包含 3544 則快訊，約 671341 字_
+_更新時間：2026-06-27 17:32:03_
+_本檔包含 3535 則快訊，約 671534 字_
+
+---
+
+### 2026-06-23 21:50:05  #MKT News #Important
+
+US Richmond Fed manufacturing index for June due in 10 minutes.
+
+---
+
+### 2026-06-23 21:49:25  #MKT News #Important #Star Stocks #NVIDIA #Market Themes #AI Revolution #Chip Wars #Magnificent 7 #NVDA.O #Impact mixed #LITE.O #Impact bullish #IIVI.O
+
+【CPO mass production not delayed; bottleneck shifting upstream】Surging AI compute has pushed optical-interconnect valuations higher and amplified stock volatility. A SemiAnalysis report alleging delays to CPO (co‑packaged optics) mass production sparked a global sell-off in optical-communications names; NVIDIA executives denied a delay at a Taipei event and industry contacts say CPO mass production has not been postponed. Market confusion appears to conflate small‑batch validation with full industry rollout. Multiple industry sources identify indium‑phosphide laser chips as the binding constraint: long photonic‑chip fab buildouts and extended customer validation cycles make lasers the current capacity bottleneck. Strategically, CPO remains the long‑term solution for hyperscale model training clusters, but near term NPO, LPO and conventional pluggable modules are likely to operate in parallel to meet ultra‑high bandwidth demand. Deployment will be upstream‑capacity led and phased; compute‑bandwidth demand remains robust.
+
+---
+
+### 2026-06-23 21:49:17  #公司
+
+【*ST利達：控股股東740萬股解質押後再質押】*ST利達公告稱，控股股東柯利達集團於6月22日將質押給無錫農商銀行的740萬股無限售流通股辦理解除質押和再質押手續，用於補充流動資金。截至公告日，柯利達集團持有公司11167.79萬股，佔總股本18.74%，累計質押10672.10萬股，佔其持股95.56%，佔總股本17.91%。控股股東及其一致行動人合計持有16512.30萬股，佔27.71%，累計質押13572.10萬股，佔其合計持股82.19%，佔總股本22.77%。
+
+---
+
+### 2026-06-23 21:48:28  #國際
+
+【美國銀行稱納斯達克100指數正逼近泡沫水平】美國銀行的研究分析師表示，儘管圍繞納斯達克100指數漲勢的風險正在累積，但人工智慧主題可能還有進一步拓展的空間。該團隊的泡沫風險指標顯示，納斯達克100指數的該指標略低於0.8這個通常意味著短期兩端尾部風險升高的水平，而科技股和半導體股已經顯示出極端的泡沫式價格走勢。包括Riddhi Prasad在內的美國銀行團隊寫道，人工智慧泡沫可能需要數年時間才能完全形成，不過歷史表明，其指標有助於提示階段性回撥。
+
+---
+
+### 2026-06-23 21:47:59  #國際
+
+【日本島根縣一商業街發生火災】當地時間6月23日晚，日本島根縣出雲市今市町一商業街發生火災。截至當地時間21時，現場共有5到6棟房屋起火，滅火工作仍在進行中。截至目前沒有人員受傷或被困的報告。（央視新聞）
+
+---
+
+### 2026-06-23 21:47:41  #其他
+
+【全新理想L8上市，35.98萬元起】6月23日，全新理想L8上市，新車分為Ultra版本、Livis版本，售價分別為35.98萬、42.98萬元。據瞭解兩個版本均搭載第三代5C增程系統，純電續航均為430公里，CLTC綜合續航里程達到1670公里。Ultra版本在智慧駕駛方面配備了旗艦級智慧座艙，硬體包括雙OrinX晶片、鐳射雷達、雙目攝像頭、毫米波雷達、超聲波雷達和紅外感測器。
+
+---
+
+### 2026-06-23 21:47:04  #MKT News #Important #DXY #Impact bullish #S&P500 #XAUUSD #Impact bearish
+
+S&P Global preliminary June US composite PMI 52.2, five-month high; preliminary US services PMI 51.3, four-month high; preliminary US services PMI 55.7, 49-month high.
+
+---
+
+### 2026-06-23 21:46:21  #公司 #國際
+
+【一家估值40億美元的印度初創公司贏得Meta投資，卻將創始人“拱手讓給”WhatsApp】印度金融科技初創公司Cred即將完成由扎克伯格旗下Meta Platforms領投的9億美元融資，但代價是將其創始人兼執行長Kunal Shah“拱手讓給”了WhatsApp。近日，該公司表示，在這輪最新融資中，這家即將迎來Meta作為少數股東的初創公司估值已超過40億美元。這筆資金將用於“加速業務增長、強化機構實力，並擴大其在各業務領域的領先地位”。
+
+---
+
+### 2026-06-23 21:46:20  #經濟數據 #美國
+
+【美國6月份製造業採購經理指數初值報55.7 高於預期】美國6月份綜合產出指數初值報52.2，高於5月份的51.5。6月份製造業採購經理指數初值報55.7，分析師預估54.6；6月份服務業經營活動指數初值報51.3，分析師預估51.1。
+
+---
+
+### 2026-06-23 21:45:35  #資料 #國際
+
+美國6月標普全球製造業PMI初值 55.7，預期54.8，前值55.1。
+美國6月標普全球綜合PMI初值 52.2，前值51.5。
+美國6月標普全球服務業PMI初值 51.3，預期51，前值50.7。
+
+---
+
+### 2026-06-23 21:45:10  #MKT News #Important #Macro & Rates #US Economy #DXY #Impact bullish #S&P500 #Copper
+
+US S&P Global preliminary June manufacturing PMI 55.7, consensus 54.8, prior 55.1.
+
+---
+
+### 2026-06-23 21:45:08  #MKT News #Important #Macro & Rates #US Economy #S&P500 #Impact bullish #DXY #US10Y #Impact bearish
+
+US June S&P Global Services PMI flash 51.3; consensus 51.0; prior 50.7.
+
+---
+
+### 2026-06-23 21:45:08  #MKT News #S&P500 #Impact bullish #DXY #XAUUSD #Impact bearish
+
+US June S&P Global composite PMI (flash) 52.2, prior 51.5.
+
+---
+
+### 2026-06-23 21:45:00  #MKT News #Economic Calendar #Important
+
+United States | Services PMI Flash (Jun) | actual 51.3 | consensus 51 | previous 50.7
+
+---
+
+### 2026-06-23 21:45:00  #MKT News #Economic Calendar #Important
+
+United States | Composite PMI Flash (Jun) | actual 52.2 | previous 51.5
+
+---
+
+### 2026-06-23 21:45:00  #MKT News #Economic Calendar #Important
+
+United States | Manufacturing PMI Flash (Jun) | actual 55.7 | consensus 54.8 | previous 55.1
+
+---
+
+### 2026-06-23 21:44:22  #公司 #國際
+
+【美國將提供175億美元貸款支援大型核反應堆建設】據知情人士透露，特朗普政府將提供175億美元資金，用於資助西屋電氣公司的大型核反應堆裝置訂單。這筆資金將提供給已簽署美國能源部貸款意向書的7家未具名公用事業公司。特朗普將核反應堆視為資料中心和經濟增長的關鍵電力來源，並於去年簽署行政令，要求到2030年美國有10座大型常規核反應堆在建。儘管許多公司正致力於在美國推動新一代小型模組化反應堆的開發，但大型傳統核電站的建設大多處於停滯狀態。本世紀以來，美國僅完工了三座此類核電站，目前尚無任何一座在建。
+
+---
+
+### 2026-06-23 21:44:11  #MKT News #Market Themes #The Trump Trade #Copper #Impact bullish
+
+【US to provide $17.5 bln loan to back large nuclear reactor builds】Sources say the Trump administration will provide $17.5 billion to finance Westinghouse Electric equipment orders for large nuclear reactors. The funds will be allocated to seven unnamed utilities that have signed DOE loan intent letters. The administration views large reactors as critical power for data centers and economic growth and issued an executive order last year aiming for 10 large conventional reactors under construction in the US by 2030. Large conventional reactor builds have largely stalled: only three such plants have been completed since 2000 and none are currently under construction.
+
+---
+
+### 2026-06-23 21:44:05  #市場
+
+【SpaceX股價跌破150美元的首日開盤價】SpaceX股價下跌4%，報148.51美元/股，已低於150美元的首日開盤價，總市值報1.95萬億美元。
+
+---
+
+### 2026-06-23 21:43:55  #MKT News #Macro & Rates #DXY #Impact bullish #EURUSD #Impact bearish
+
+Hungary's central bank governor said he expects two further 25bp rate cuts over the summer.
+
+---
+
+### 2026-06-23 21:43:21  #MKT News
+
+Lebanese president said a new US-backed round of talks with Israel could be decisive.
+
+---
+
+### 2026-06-23 21:43:12  #Trading Economics #Markets #Commodity #Importance 1
+
+Cocoa Futures at Over 1-Month High — Cocoa futures traded around $4,600 per tonne, the highest since May 11, driven by short covering and weather-related supply concerns. Traders monitored the end of the mid-season harvest in West Africa and the upcoming main harvest, which starts in September. Farmers in top grower Ivory Coast have expressed concerns that recent above-average rainfall could lead to flooding, higher disease incidence, and reduced cocoa bean quality during the final stretch of the mid-crop harvest. While rainfall is crucial for crop development, excessive moisture also favors the emergence of fungal diseases and an increased presence of insects in crops, particularly at a critical stage for cocoa pod formation and ripening. Meanwhile, concerns about the potential impact of the El Nino persisted. Another factor for investors is the drop in ICE-certified stocks at US ports, which fell by 3,828 bags to 2,914,908, suggesting tighter supply.
 
 ---
 
@@ -21211,191 +21345,5 @@ Hassett, director of the White House National Economic Council, offered condolen
 ### 2026-06-22 20:10:10  #MKT News #SPCX.O
 
 According to a U.S. SEC filing, SpaceX (SPCX.O) will offer notes to qualified institutional buyers and non-U.S. persons.
-
----
-
-### 2026-06-22 20:09:53  #其他
-
-哈塞特：艾倫·格林斯潘是個才華橫溢的人。
-
----
-
-### 2026-06-22 20:09:35  #MKT News #Important #SPCX.O #Impact bullish
-
-According to an SEC filing, SpaceX (SPCX.O) has begun offering senior unsecured notes and will use net proceeds to repay outstanding borrowings.
-
----
-
-### 2026-06-22 20:09:33  #公司
-
-【萊茵生物：終止發行股份購買資產並募集配套資金事項】萊茵生物公告稱，公司於2026年6月22日召開董事會，審議透過終止發行股份購買資產並募集配套資金暨關聯交易事項。2025年12月公司擬向德福金康普等發行股份購買北京金康普80%股權，並向廣州德福營養募資。因市場環境變化，為維護股東利益，經協商決定終止。本次交易尚處預案階段，無需股東會審議。公司承諾1個月內不再籌劃重大資產重組。終止交易對現有經營和財務無重大不利影響。
-
----
-
-### 2026-06-22 20:09:21  #其他
-
-市場訊息：SpaceX將用淨收益償還未償貸款。
-
----
-
-### 2026-06-22 20:08:34  #其他
-
-市場訊息：SpaceX啟動首期高階無抵押債券發行。
-
----
-
-### 2026-06-22 20:07:57  #公司
-
-【倍輕鬆：實際控制人部分股份因合同糾紛被司法凍結】倍輕鬆公告稱，實際控制人馬學軍所持595,923股公司股份於2026年5月25日被司法凍結，佔公司總股本0.69%，佔其直接和間接控制持股數比例為1.40%。該凍結系因前期馬學軍與申請人的合同糾紛，糾紛金額為1024.51萬元。本次凍結不會導致公司控制權變更，也不會對公司生產經營、治理產生重大不利影響。公司將持續關注進展並及時披露。
-
----
-
-### 2026-06-22 20:07:27  #其他
-
-【唐寧街又換首相折射英國政壇動盪】當地時間今天（6月22日）上午，英國首相斯塔默宣佈辭職。有分析稱，此次斯塔默辭職的導火索是工黨地方選舉遭遇重挫，疊加英國國內經濟疲軟、公共服務承壓、非法移民問題難解，導致工黨支援率不斷下滑，黨內要求更換黨首的呼聲持續高漲。而近年來英國首相頻繁更迭，更折射出英國政壇的動盪，工黨和保守黨這兩大主要政黨都越來越難以實現穩定執政。（CCTV國際時訊）
-
----
-
-### 2026-06-22 20:06:58  #市場
-
-波羅的海乾散貨指數下跌1.4%，至2684點。
-
----
-
-### 2026-06-22 20:06:58  #MKT News
-
-Baltic Dry Index (BDI) fell 1.4% to 2,684 points.
-
----
-
-### 2026-06-22 20:06:27  #公司
-
-【新亞強：持股5%以上股東減持至5%】新亞強公告稱，持股5%以上股東孫秀傑基於自身資金需求，於本次權益變動前持有公司19,517,701股，佔總股本6.18%；變動後持有15,789,344股，佔比降至5.00%，減持方式為集中競價和大宗交易。此前減持計劃期限已屆滿，未來12個月內不排除繼續減持可能，若發生將依法披露。
-
----
-
-### 2026-06-22 20:06:26  #MKT News #Star Stocks #Microsoft #Market Themes #Magnificent 7 #CVX.N #Impact bullish
-
-Chevron (CVX) shares rose 1.7% in pre-market trading after the company signed a 20-year power agreement with Microsoft to power a data center in West Texas.
-
----
-
-### 2026-06-22 20:05:58  #MKT News #Market Themes #AI Revolution #NOK.O #Impact bullish
-
-Google Cloud and Nokia will integrate Google's GEMINI model into Nokia's Assurance Center.
-
----
-
-### 2026-06-22 20:05:46  #公司 #市場
-
-雪佛龍公司股價盤前上漲1.7%；該公司已與微軟簽訂為期20年的供電協議，為微軟位於西得克薩斯州的資料中心供電。
-
----
-
-### 2026-06-22 20:05:37  #公司
-
-谷歌雲：宣佈與諾基亞達成合作，將谷歌的Gemini大模型整合至諾基亞保障中心。
-
----
-
-### 2026-06-22 20:04:08  #MKT News #CVX.N #GE.O #Impact bullish
-
-Chevron (CVX.N): Kilby project will use GE Vernova and Solar Turbines gas turbines for power generation.
-
----
-
-### 2026-06-22 20:03:54  #其他
-
-洲際交易所與歐易OKX成立合資企業，搭建傳統與數字資產市場橋樑。
-
----
-
-### 2026-06-22 20:03:41  #其他
-
-雪佛龍： Kilby專案預計將提供2.67吉瓦的產能。預計將於2026年底前就Kilby專案作出最終投資決策。預計2028年將首次從Kilby專案交付電力。
-
----
-
-### 2026-06-22 20:03:07  #宏觀 #公司
-
-【李強在遼寧大連調研：要大力發展高階裝備製造業，加快建設現代化產業體系】中共中央政治局常委、國務院總理李強6月22日在遼寧省大連市調研。他強調，要深入貫徹落實習近平總書記關於新時代東北全面振興和建設現代化產業體系的重要指示精神，堅持智慧化、綠色化、融合化方向，加強原創性、引領性科技攻關，強化產業基礎再造，大力發展高階裝備製造業，加快建設現代化產業體系，為高質量發展不斷注入新動能。李強首先來到大連船舶重工集團有限公司，聽取企業業務發展等介紹和大連市船舶工業發展彙報，登上在建船隻，瞭解液化天然氣運輸船等船舶建造情況。他指出，高階船舶製造具有高技術、高難度、高附加值的特點。要強化企業創新主體地位，加快關鍵技術研發突破，培養造就一批掌握精湛技藝、具有豐富經驗的技術骨幹和產業工人，進一步提升自主創新能力，透過經營理念創新和產品、服務迭代升級來創造市場、引領市場。大連造船業在發展高階裝備製造業方面有比較好的基礎，要緊盯國際前沿，聚焦關鍵領域持續攻堅，加強行業內交流合作，著力打造先進製造業叢集、建設世界一流造船基地。在一重集團大連核電石化有限公司，李強詳細瞭解核電、石化等裝備研製情況，走進車間察看核反應堆壓力容器加工製造。他強調，先進核電等高階裝備對國家能源、產業、科技安全意義重大。要強化科技創新和產業創新深度融合，加快科技成果轉化，提升原創設計能力和精工製造能力，推進新一代核電技術的安全應用。李強指出，建設現代化產業體系，不僅要培育壯大新興產業和未來產業，也要最佳化提升傳統產業。高階石化裝備研發生產對相關產業提質增效具有重要的基礎性作用，要強化數智技術賦能，推進標準更新升級，嚴格環保、能效等規範管理，突破一批標誌性重大技術裝備，不斷增強核心競爭力。李強還與現場技術人員交流，勉勵他們發揚工匠精神，為企業發展和國家建設貢獻力量。吳政隆陪同調研。 (央視新聞)
-
----
-
-### 2026-06-22 20:02:54  #MKT News
-
-Chevron (CVX.N) said the Kilby project is expected to generate more than $10 billion in tax revenue and create about 2,000 jobs.
-
----
-
-### 2026-06-22 20:02:37  #其他
-
-Strategy以總價3490萬美元購入520枚比特幣。
-
----
-
-### 2026-06-22 20:02:31  #Trading Economics #Markets #Commodity #Importance 1
-
-Wheat Falls from 3-Week High — Wheat futures eased to around $6 per bushel, down from a three-week high of $6.13 on June 17, as crude oil declined and tanker traffic continued through the Strait of Hormuz amid progress in US–Iran talks, reducing war-risk premiums. Weaker oil also points to cheaper ocean freight, which may further pressure delivered wheat values. In the European Union, exporters face a tougher outlook as Morocco is set to import less after a drought recovery, while Black Sea suppliers remain highly competitive. Competition from lower-cost exporters such as Russia and Ukraine continues to cap prices, alongside weakening demand from Algeria and China. Argentina and Australia are expected to produce less, while strong crops in Russia and Ukraine, as well as firmer output in Turkey and Syria, could intensify competition. Meanwhile, Egypt has purchased 4.7 million tons of wheat and is on track to meet its 5 million-ton target, backing its subsidised bread program.
-
----
-
-### 2026-06-22 20:02:29  #公司
-
-雪佛龍：KILBY專案將採用GE VERNOVA和SOLAR TURBINES公司的渦輪機進行發電。
-
----
-
-### 2026-06-22 20:02:29  #MKT News #XAUUSD #Impact bearish #DXY #Impact bullish
-
-At the open of the Shanghai Gold Exchange evening session on Monday, June 22, gold T+D fell 2.61% to 914.5 yuan/gram; silver T+D rose 0.53% to 15,989 yuan/kg.
-
----
-
-### 2026-06-22 20:02:28  #MKT News #Commodities #Energy #CVX.N
-
-Chevron (CVX.N) said it expects first power deliveries from the Kilby project in 2028.
-
----
-
-### 2026-06-22 20:02:15  #公司
-
-雪佛龍公司： KILBY專案預計將產生超過100億美元的稅收收入，並支撐2000個就業崗位。
-
----
-
-### 2026-06-22 20:02:03  #MKT News #Commodities #Energy #CVX.N
-
-Chevron (CVX.N) expects to make a final investment decision on the Kilby project by end-2026.
-
----
-
-### 2026-06-22 20:01:45  #MKT News #Commodities #Energy #CVX.N #Impact bullish
-
-Chevron (CVX.N) said the Kilby project is expected to provide 2.67 GW of capacity.
-
----
-
-### 2026-06-22 20:01:35  #國際
-
-【高市以“難保工作時間”回應醜聞質詢 引發輿論譁然】日本首相高市早苗22日在國會答辯期間，面對有關自身醜聞的質詢時表示，近期連續回應相關問題已影響其“作為首相的工作時間”。相關言論引發輿論譁然。 近日，日本《週刊文春》雜誌連續以郵件、錄音等證據爆料，揭露高市陣營在2025年自民黨總裁選舉及今年眾議院選舉期間，曾利用人工智慧技術製作並傳播誹謗、抹黑其他候選人的影片。22日上午，“中道改革聯合”眾議員後藤祐一在國會就此向高市提出質詢，追問其陣營與相關事件的關係。 對此高市回應稱，自己近期“曾多次在深夜乃至凌晨致電秘書核實情況”，並稱由於連續應對相關問題，“越來越難以保證作為首相的工作時間”。 此番言論引發輿論譁然。立憲民主黨黨首水岡俊一在記者會上表示，在野黨目前都是儘早提前告知政府質詢內容，但高市反覆以“深夜才看到問題”等理由迴避，令人深感遺憾和憤怒。 社交媒體上也批評不斷。日本法政大學教授山口二郎表示，高市試圖將責任歸咎於他人的做法“十分幼稚”。日本前外務省官員孫崎享批評高市的答辯“敷衍搪塞”，並指出，當前醜聞持續發酵的原因正是高市本人始終未能將事實經過說明清楚。(新華社)
-
----
-
-### 2026-06-22 20:01:27  #其他
-
-市場訊息：雪佛龍與微軟簽署為期20年的電力協議，支援西得克薩斯州的資料中心。
-
----
-
-### 2026-06-22 20:01:23  #MKT News #CVX.N #MSFT.O
-
-Chevron (CVX.N) and Microsoft (MSFT.O) signed a 20-year power purchase agreement to supply a data center in West Texas.
-
----
-
-### 2026-06-22 20:01:17  #公司
-
-【*ST寶馨：控股股東400萬股二拍流拍 將公開變賣】*ST寶馨公告稱，公司控股股東江蘇立青持有的400萬股首發後限售股二次拍賣再流拍，佔其所持股份比例2.16%、公司總股本比例0.56%。江門市蓬江區人民法院將於2026年7月10日10時起在淘寶網司法變賣網路平臺公開變賣，變賣週期60天，有人競價則進入24小時倒計時。公司將密切關注後續進展並依規披露，提醒投資者注意風險。
 
 ---

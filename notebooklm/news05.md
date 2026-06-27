@@ -1,7 +1,193 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-06-27 16:38:31_
-_本檔包含 3541 則快訊，約 671709 字_
+_更新時間：2026-06-27 17:32:03_
+_本檔包含 3556 則快訊，約 672125 字_
+
+---
+
+### 2026-06-22 20:09:53  #其他
+
+哈塞特：艾倫·格林斯潘是個才華橫溢的人。
+
+---
+
+### 2026-06-22 20:09:35  #MKT News #Important #SPCX.O #Impact bullish
+
+According to an SEC filing, SpaceX (SPCX.O) has begun offering senior unsecured notes and will use net proceeds to repay outstanding borrowings.
+
+---
+
+### 2026-06-22 20:09:33  #公司
+
+【萊茵生物：終止發行股份購買資產並募集配套資金事項】萊茵生物公告稱，公司於2026年6月22日召開董事會，審議透過終止發行股份購買資產並募集配套資金暨關聯交易事項。2025年12月公司擬向德福金康普等發行股份購買北京金康普80%股權，並向廣州德福營養募資。因市場環境變化，為維護股東利益，經協商決定終止。本次交易尚處預案階段，無需股東會審議。公司承諾1個月內不再籌劃重大資產重組。終止交易對現有經營和財務無重大不利影響。
+
+---
+
+### 2026-06-22 20:09:21  #其他
+
+市場訊息：SpaceX將用淨收益償還未償貸款。
+
+---
+
+### 2026-06-22 20:08:34  #其他
+
+市場訊息：SpaceX啟動首期高階無抵押債券發行。
+
+---
+
+### 2026-06-22 20:07:57  #公司
+
+【倍輕鬆：實際控制人部分股份因合同糾紛被司法凍結】倍輕鬆公告稱，實際控制人馬學軍所持595,923股公司股份於2026年5月25日被司法凍結，佔公司總股本0.69%，佔其直接和間接控制持股數比例為1.40%。該凍結系因前期馬學軍與申請人的合同糾紛，糾紛金額為1024.51萬元。本次凍結不會導致公司控制權變更，也不會對公司生產經營、治理產生重大不利影響。公司將持續關注進展並及時披露。
+
+---
+
+### 2026-06-22 20:07:27  #其他
+
+【唐寧街又換首相折射英國政壇動盪】當地時間今天（6月22日）上午，英國首相斯塔默宣佈辭職。有分析稱，此次斯塔默辭職的導火索是工黨地方選舉遭遇重挫，疊加英國國內經濟疲軟、公共服務承壓、非法移民問題難解，導致工黨支援率不斷下滑，黨內要求更換黨首的呼聲持續高漲。而近年來英國首相頻繁更迭，更折射出英國政壇的動盪，工黨和保守黨這兩大主要政黨都越來越難以實現穩定執政。（CCTV國際時訊）
+
+---
+
+### 2026-06-22 20:06:58  #市場
+
+波羅的海乾散貨指數下跌1.4%，至2684點。
+
+---
+
+### 2026-06-22 20:06:58  #MKT News
+
+Baltic Dry Index (BDI) fell 1.4% to 2,684 points.
+
+---
+
+### 2026-06-22 20:06:27  #公司
+
+【新亞強：持股5%以上股東減持至5%】新亞強公告稱，持股5%以上股東孫秀傑基於自身資金需求，於本次權益變動前持有公司19,517,701股，佔總股本6.18%；變動後持有15,789,344股，佔比降至5.00%，減持方式為集中競價和大宗交易。此前減持計劃期限已屆滿，未來12個月內不排除繼續減持可能，若發生將依法披露。
+
+---
+
+### 2026-06-22 20:06:26  #MKT News #Star Stocks #Microsoft #Market Themes #Magnificent 7 #CVX.N #Impact bullish
+
+Chevron (CVX) shares rose 1.7% in pre-market trading after the company signed a 20-year power agreement with Microsoft to power a data center in West Texas.
+
+---
+
+### 2026-06-22 20:05:58  #MKT News #Market Themes #AI Revolution #NOK.O #Impact bullish
+
+Google Cloud and Nokia will integrate Google's GEMINI model into Nokia's Assurance Center.
+
+---
+
+### 2026-06-22 20:05:46  #公司 #市場
+
+雪佛龍公司股價盤前上漲1.7%；該公司已與微軟簽訂為期20年的供電協議，為微軟位於西得克薩斯州的資料中心供電。
+
+---
+
+### 2026-06-22 20:05:37  #公司
+
+谷歌雲：宣佈與諾基亞達成合作，將谷歌的Gemini大模型整合至諾基亞保障中心。
+
+---
+
+### 2026-06-22 20:04:08  #MKT News #CVX.N #GE.O #Impact bullish
+
+Chevron (CVX.N): Kilby project will use GE Vernova and Solar Turbines gas turbines for power generation.
+
+---
+
+### 2026-06-22 20:03:54  #其他
+
+洲際交易所與歐易OKX成立合資企業，搭建傳統與數字資產市場橋樑。
+
+---
+
+### 2026-06-22 20:03:41  #其他
+
+雪佛龍： Kilby專案預計將提供2.67吉瓦的產能。預計將於2026年底前就Kilby專案作出最終投資決策。預計2028年將首次從Kilby專案交付電力。
+
+---
+
+### 2026-06-22 20:03:07  #宏觀 #公司
+
+【李強在遼寧大連調研：要大力發展高階裝備製造業，加快建設現代化產業體系】中共中央政治局常委、國務院總理李強6月22日在遼寧省大連市調研。他強調，要深入貫徹落實習近平總書記關於新時代東北全面振興和建設現代化產業體系的重要指示精神，堅持智慧化、綠色化、融合化方向，加強原創性、引領性科技攻關，強化產業基礎再造，大力發展高階裝備製造業，加快建設現代化產業體系，為高質量發展不斷注入新動能。李強首先來到大連船舶重工集團有限公司，聽取企業業務發展等介紹和大連市船舶工業發展彙報，登上在建船隻，瞭解液化天然氣運輸船等船舶建造情況。他指出，高階船舶製造具有高技術、高難度、高附加值的特點。要強化企業創新主體地位，加快關鍵技術研發突破，培養造就一批掌握精湛技藝、具有豐富經驗的技術骨幹和產業工人，進一步提升自主創新能力，透過經營理念創新和產品、服務迭代升級來創造市場、引領市場。大連造船業在發展高階裝備製造業方面有比較好的基礎，要緊盯國際前沿，聚焦關鍵領域持續攻堅，加強行業內交流合作，著力打造先進製造業叢集、建設世界一流造船基地。在一重集團大連核電石化有限公司，李強詳細瞭解核電、石化等裝備研製情況，走進車間察看核反應堆壓力容器加工製造。他強調，先進核電等高階裝備對國家能源、產業、科技安全意義重大。要強化科技創新和產業創新深度融合，加快科技成果轉化，提升原創設計能力和精工製造能力，推進新一代核電技術的安全應用。李強指出，建設現代化產業體系，不僅要培育壯大新興產業和未來產業，也要最佳化提升傳統產業。高階石化裝備研發生產對相關產業提質增效具有重要的基礎性作用，要強化數智技術賦能，推進標準更新升級，嚴格環保、能效等規範管理，突破一批標誌性重大技術裝備，不斷增強核心競爭力。李強還與現場技術人員交流，勉勵他們發揚工匠精神，為企業發展和國家建設貢獻力量。吳政隆陪同調研。 (央視新聞)
+
+---
+
+### 2026-06-22 20:02:54  #MKT News
+
+Chevron (CVX.N) said the Kilby project is expected to generate more than $10 billion in tax revenue and create about 2,000 jobs.
+
+---
+
+### 2026-06-22 20:02:37  #其他
+
+Strategy以總價3490萬美元購入520枚比特幣。
+
+---
+
+### 2026-06-22 20:02:31  #Trading Economics #Markets #Commodity #Importance 1
+
+Wheat Falls from 3-Week High — Wheat futures eased to around $6 per bushel, down from a three-week high of $6.13 on June 17, as crude oil declined and tanker traffic continued through the Strait of Hormuz amid progress in US–Iran talks, reducing war-risk premiums. Weaker oil also points to cheaper ocean freight, which may further pressure delivered wheat values. In the European Union, exporters face a tougher outlook as Morocco is set to import less after a drought recovery, while Black Sea suppliers remain highly competitive. Competition from lower-cost exporters such as Russia and Ukraine continues to cap prices, alongside weakening demand from Algeria and China. Argentina and Australia are expected to produce less, while strong crops in Russia and Ukraine, as well as firmer output in Turkey and Syria, could intensify competition. Meanwhile, Egypt has purchased 4.7 million tons of wheat and is on track to meet its 5 million-ton target, backing its subsidised bread program.
+
+---
+
+### 2026-06-22 20:02:29  #公司
+
+雪佛龍：KILBY專案將採用GE VERNOVA和SOLAR TURBINES公司的渦輪機進行發電。
+
+---
+
+### 2026-06-22 20:02:29  #MKT News #XAUUSD #Impact bearish #DXY #Impact bullish
+
+At the open of the Shanghai Gold Exchange evening session on Monday, June 22, gold T+D fell 2.61% to 914.5 yuan/gram; silver T+D rose 0.53% to 15,989 yuan/kg.
+
+---
+
+### 2026-06-22 20:02:28  #MKT News #Commodities #Energy #CVX.N
+
+Chevron (CVX.N) said it expects first power deliveries from the Kilby project in 2028.
+
+---
+
+### 2026-06-22 20:02:15  #公司
+
+雪佛龍公司： KILBY專案預計將產生超過100億美元的稅收收入，並支撐2000個就業崗位。
+
+---
+
+### 2026-06-22 20:02:03  #MKT News #Commodities #Energy #CVX.N
+
+Chevron (CVX.N) expects to make a final investment decision on the Kilby project by end-2026.
+
+---
+
+### 2026-06-22 20:01:45  #MKT News #Commodities #Energy #CVX.N #Impact bullish
+
+Chevron (CVX.N) said the Kilby project is expected to provide 2.67 GW of capacity.
+
+---
+
+### 2026-06-22 20:01:35  #國際
+
+【高市以“難保工作時間”回應醜聞質詢 引發輿論譁然】日本首相高市早苗22日在國會答辯期間，面對有關自身醜聞的質詢時表示，近期連續回應相關問題已影響其“作為首相的工作時間”。相關言論引發輿論譁然。 近日，日本《週刊文春》雜誌連續以郵件、錄音等證據爆料，揭露高市陣營在2025年自民黨總裁選舉及今年眾議院選舉期間，曾利用人工智慧技術製作並傳播誹謗、抹黑其他候選人的影片。22日上午，“中道改革聯合”眾議員後藤祐一在國會就此向高市提出質詢，追問其陣營與相關事件的關係。 對此高市回應稱，自己近期“曾多次在深夜乃至凌晨致電秘書核實情況”，並稱由於連續應對相關問題，“越來越難以保證作為首相的工作時間”。 此番言論引發輿論譁然。立憲民主黨黨首水岡俊一在記者會上表示，在野黨目前都是儘早提前告知政府質詢內容，但高市反覆以“深夜才看到問題”等理由迴避，令人深感遺憾和憤怒。 社交媒體上也批評不斷。日本法政大學教授山口二郎表示，高市試圖將責任歸咎於他人的做法“十分幼稚”。日本前外務省官員孫崎享批評高市的答辯“敷衍搪塞”，並指出，當前醜聞持續發酵的原因正是高市本人始終未能將事實經過說明清楚。(新華社)
+
+---
+
+### 2026-06-22 20:01:27  #其他
+
+市場訊息：雪佛龍與微軟簽署為期20年的電力協議，支援西得克薩斯州的資料中心。
+
+---
+
+### 2026-06-22 20:01:23  #MKT News #CVX.N #MSFT.O
+
+Chevron (CVX.N) and Microsoft (MSFT.O) signed a 20-year power purchase agreement to supply a data center in West Texas.
+
+---
+
+### 2026-06-22 20:01:17  #公司
+
+【*ST寶馨：控股股東400萬股二拍流拍 將公開變賣】*ST寶馨公告稱，公司控股股東江蘇立青持有的400萬股首發後限售股二次拍賣再流拍，佔其所持股份比例2.16%、公司總股本比例0.56%。江門市蓬江區人民法院將於2026年7月10日10時起在淘寶網司法變賣網路平臺公開變賣，變賣週期60天，有人競價則進入24小時倒計時。公司將密切關注後續進展並依規披露，提醒投資者注意風險。
 
 ---
 
@@ -21254,101 +21440,5 @@ Al Arabiya cited sources saying Lebanon is the main sticking point in ongoing ne
 ### 2026-06-20 17:35:03  #MKT News #Commodities #Industrial Metals
 
 【Russia to impose 8% export tax on some diamonds】Russia will impose an 8% export tax on certain diamonds from Sept. 1, local time, aimed at protecting its domestic diamond-cutting and processing industry. The tax covers uncut and partially processed diamonds weighing 0.45–10.8 carats and special-size diamonds above 10.8 carats; exports to Eurasian Economic Union members are exempt.
-
----
-
-### 2026-06-20 17:18:14  #MKT News #XAUUSD #Impact bullish #DXY #Brent
-
-【Lebanese army condemns Israeli 'brutal attacks'】Lebanese Armed Forces said on social media on June 20 that Israeli "brutal attacks" on Lebanon continue and are intended to hinder any solution to restore stability. The LAF said the latest escalation has spread across much of southern Lebanon into the Bekaa Valley, causing additional casualties and property damage. One LAF soldier was killed in Israeli airstrikes on southern Lebanon on June 20.
-
----
-
-### 2026-06-20 17:15:16  #其他
-
-【廣東結束防汛Ⅳ級應急響應】“廣東應急管理”訊息，鑑於本輪強降雨過程已經結束，廣東省江河水情平穩，根據《廣東省防汛防旱防風防凍應急預案》和省防總有關規定，省防總決定於6月20日17時結束防汛Ⅳ級應急響應。受持續強降雨影響，當前廣東省江河底水高，土壤含水量飽和。各地各部門要克服麻痺鬆懈思想，加強地質災害防禦和超警河流退水階段巡查防守。要強化轉移人員安置管理，在風險沒有解除前嚴禁擅自冒險返回，堅決做到“不安全、不返回”。要加快損毀設施修復，儘快恢復正常的生產生活秩序，全力以赴保障人民群眾生命財產安全。
-
----
-
-### 2026-06-20 17:11:20  #公司
-
-【雲南世博園藝有限公司原董事長彭曉斌接受審查調查】據華僑城集團雲南公司紀委、陸良縣監委訊息：雲南世博園藝有限公司原董事長彭曉斌（已退休）涉嫌嚴重違紀違法，目前正接受華僑城集團雲南公司紀委紀律審查；經省監委指定曲靖市監委管轄，曲靖市監委指定陸良縣監委管轄，正接受陸良縣監委監察調查。
-
----
-
-### 2026-06-20 17:04:08  #國際
-
-【中領館：提醒中國公民切勿非法進入緬北有關地區】近期，多名中國公民從緬甸曼德勒機場入境後，因擅自前往外國人禁止進入或限制進入地區被緬甸警方拘捕。同時，亦有多名中國公民持出入境通行證透過有關陸路口岸進入緬北邊境地區，隨後在轉往緬內陸其他地區途中，因涉嫌非法入境被緬警方拘捕。中國駐曼德勒總領事館提醒來緬中國公民充分了解緬甸國情及法律法規，切勿前往外國人禁止或限制進入地區，同時嚴格遵守出國（境）證照使用範圍，尤其是持出入境通行證自中緬邊境口岸入緬者，僅限於在緬方相關邊境城市活動，切勿越界前往內陸地區，以免違反緬甸法律。如遇緊急情況，請及時撥打緬甸官方求助電話並與中國駐緬使領館聯絡。
-
----
-
-### 2026-06-20 17:02:11  #公司 #國際
-
-【俄羅斯將對部分鑽石徵收8%出口稅】據俄羅斯媒體報道，從當地時間9月1日起，俄羅斯政府將對部分鑽石徵收8%的出口稅，目的是保護其國內的鑽石切割加工產業。根據政策規定，俄羅斯政府將對重量在0.45克拉至10.8克拉之間的未加工和部分加工鑽石，以及10.8克拉以上的特殊尺寸鑽石，徵收8%的出口稅，不過這一措施不適用於歐亞經濟聯盟成員國。全球25%至30%未加工鑽石產自俄羅斯，在七國集團的制裁影響下，部分俄羅斯產鑽石會經過阿聯酋迪拜轉至印度進行加工，即將生效的出口稅會直接提高印度買家購買俄羅斯毛坯鑽石的成本。印度是全球毛坯鑽石的主要加工中心，約90%毛坯鑽石在印度進行加工。此外，據俄羅斯《生意人報》報道，9月1日起，俄羅斯另一項法令也將生效：實驗室培育的鑽石在俄羅斯不能再以“鑽石”的名字進行銷售，只能以“成品合成鑽石”的名義銷售。（央視財經）
-
----
-
-### 2026-06-20 16:58:37  #其他
-
-【河北直達南疆地區鐵路物流通道開始執行】20日上午，隨著汽笛長鳴，冀疆班列石家莊至喀什多式聯運專列從河北省石家莊市公路橋樑建設集團有限公司鐵路專用線緩緩駛出。這標誌著河北省直達新疆南疆地區的鐵路物流通道開始執行。（新華社）
-
----
-
-### 2026-06-20 16:55:14  #MKT News
-
-Syrian state television reports the defense ministry said unidentified gunmen attacked in northeast Aleppo, killing two soldiers.
-
----
-
-### 2026-06-20 16:55:03  #MKT News #Commodities #Energy #Copper #Impact bullish #US10Y #Nasdaq100 #Impact mixed
-
-【US grids strained by AI-driven data center power surge】AI-driven demand for data-center power has pushed electricity prices higher and prompted outage warnings in parts of the US. On the 18th, the Federal Energy Regulatory Commission (FERC) asked regional grid operators to adopt new agreements to speed interconnection for large users such as data centers, and said it will no longer proactively factor environmental impacts under the National Environmental Policy Act (NEPA) when drafting rules. Data Center Map shows more than 4,000 operational US data centers, with many more planned or under construction; buildouts are outpacing new power-plant commissioning and slow interconnection is forcing tech firms to compete for power allocations. The Electric Power Research Institute estimates data centers now account for about 5% of US electricity demand and could reach roughly 20% by 2035.
-
----
-
-### 2026-06-20 16:54:57  #國際
-
-敘利亞軍方表示，阿勒頗東北部發生不明槍手襲擊事件，造成兩名士兵死亡。
-
----
-
-### 2026-06-20 16:54:41  #公司 #市場
-
-【電腦用記憶體、固態硬碟貨源緊張、成本大漲 部分機型較年初漲幅已超過20%】近期電腦市場多個熱門品類價格均出現上漲，不僅遊戲本價格持續走高，部分高效能輕薄本和創作本也出現不同程度的漲價，雖然目前處於6月的品牌大促期間，但是部分機型較年初漲幅已超過20%。有電腦經銷商表示，近期不少暢銷本價格普遍上漲數百元至千元不等，目前品牌關注點已經從“搶銷量”逐漸轉向“保利潤”。隨著核心零部件成本持續上漲，後續整機價格仍存在進一步上漲的可能。“今年以來，漲價最主要原因是儲存晶片大幅漲價，AI發展搶佔大量儲存產能，電腦用記憶體、固態硬碟貨源緊張、成本大漲；同時各類電子元件價格上漲帶來額外成本，儲存漲價是核心影響因素，企業難以消化成本，只能適度上調產品價格。”某電腦公司高管對記者表示。 (證券時報)
-
----
-
-### 2026-06-20 16:51:34  #其他
-
-【多名中國公民被緬甸警方拘捕】近期，多名中國公民從緬甸曼德勒機場入境後，因擅自前往外國人禁止進入或限制進入地區被緬甸警方拘捕。同時，亦有多名中國公民持出入境通行證透過有關陸路口岸進入緬北邊境地區，隨後在轉往緬內陸其他地區途中，因涉嫌非法入境被緬警方拘捕。（中新網）
-
----
-
-### 2026-06-20 16:48:50  #國際
-
-【】巴嫩軍方：以方持續襲擊阻撓恢復黎穩定的努力】黎巴嫩軍方20日在社交媒體上發文說，以色列對黎巴嫩的“野蠻襲擊”仍在繼續，持續的襲擊旨在阻撓任何能恢復黎巴嫩穩定的解決方案。文中說，此前最新一輪衝突升級已波及黎南部大部分地區，直至貝卡谷地，造成更多人員傷亡和財產損失。其中，一名黎巴嫩政府軍人員在以色列20日對黎南部的空襲中死亡。此前有報道說，以色列與黎巴嫩真主黨已同意停火，停火將於“當地時間週五（19日）下午4時開始”。但據黎巴嫩媒體報道，以色列20日凌晨開始對黎南部地區發動多輪空襲，造成至少5人死亡。（新華社）
-
----
-
-### 2026-06-20 16:46:36  #MKT News #Market Themes #AI Revolution #0700.HK
-
-【Tencent customer service says WeChat is gray-testing AI assistant Xiaowei】Tencent customer service said WeChat is running a limited gray-scale test of an in-app AI assistant, Xiaowei. Xiaowei supports text and voice interaction to operate WeChat native functions — e.g., adjust settings, send messages, place calls — and currently uses multiple AI models, including Tencent’s own models and high-quality open-source models. The gray test covers multiple systems; participation eligibility is shown in the app.
-
----
-
-### 2026-06-20 16:41:51  #國際
-
-【美國電網扛不住AI熱潮】近來，AI熱潮使得美國各地資料中心用電需求猛增，導致多地電價持續走高，部分地區還發布了停電預警。據路透社報道，為緩解供電困境，美國聯邦能源管制委員會18日要求各區域電網運營商考慮新的協議，加快資料中心等大型用電主體的併網速度。該委員會還表示，今後制定規則時將不再依據美國《國家環境政策法》主動考量對環境的影響。根據資料中心地圖網的資料，美國當前運營的資料中心超過4000座，另外還有大量處於規劃或在建階段。然而，這些資料中心建設速度遠超新建電廠投產速度，再加上接入電網的進度太慢，因此全美各大科技巨頭正想盡辦法為旗下資料中心爭取電力配額。美國電力研究所統計資料顯示，當前資料中心用電量佔全美總電力需求的約5%，到2035年這一佔比可能將升至約20%。（央視財經）
-
----
-
-### 2026-06-20 16:39:41  #MKT News
-
-Refinitiv: A senior HEZBOLLAH official said Israel will not be allowed to "operate freely" on territory HEZBOLLAH describes as occupied Lebanese territory.
-
----
-
-### 2026-06-20 16:39:16  #國際
-
-真主黨高階官員稱，該組織不會允許以色列在其所稱的被佔領黎巴嫩領土上享有“行動自由”。
 
 ---

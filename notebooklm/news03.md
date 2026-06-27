@@ -1,7 +1,385 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-06-27 16:38:31_
-_本檔包含 3774 則快訊，約 672386 字_
+_更新時間：2026-06-27 17:32:03_
+_本檔包含 3815 則快訊，約 673028 字_
+
+---
+
+### 2026-06-25 01:28:19  #公司 #焦點 #國際
+
+一家由前特朗普政府官員執掌的遊說公司推出一項利潤豐厚的業務，專門協助客戶爭取總統特赦。
+
+---
+
+### 2026-06-25 01:28:01  #MKT News #Commodities #Precious Metals
+
+Spot platinum fell more than 5% to $1,567.15 per ounce.
+
+---
+
+### 2026-06-25 01:27:28  #MKT News
+
+An ECB official said the central bank’s primary objective is price stability.
+
+---
+
+### 2026-06-25 01:27:18  #國際
+
+伊朗總統佩澤希基揚週二訪問伊斯蘭堡期間，獲巴基斯坦內外科學院授予心臟外科榮譽院士頭銜。
+
+---
+
+### 2026-06-25 01:27:17  #MKT News #Important #Commodities #Precious Metals
+
+SHFE silver main contract plunged 6.00% intraday, now at 14,001.00 yuan/kg.
+
+---
+
+### 2026-06-25 01:26:54  #MKT News #WTI #Impact bearish
+
+ECB official Siegmann said falling oil prices will help reduce inflation.
+
+---
+
+### 2026-06-25 01:26:42  #央行 #國際
+
+歐洲央行官員齊格曼：（央行）首要目標是物價穩定。
+
+---
+
+### 2026-06-25 01:26:25  #市場
+
+現貨白銀日內跌6%，現報57.80美元/盎司。
+
+---
+
+### 2026-06-25 01:26:19  #市場 #焦點
+
+白銀連續主力合約日內跌6%，現報14001.00元。
+
+---
+
+### 2026-06-25 01:25:32  #央行 #國際
+
+歐洲央行官員齊格曼：油價走低將對通脹產生利好作用。
+
+---
+
+### 2026-06-25 01:25:27  #MKT News #Important #Commodities #Precious Metals
+
+Spot silver plunged 6.00% intraday to $57.83/oz.
+
+---
+
+### 2026-06-25 01:25:12  #Trading Economics #Markets #other #currency #Importance 0
+
+LTCUSD traded below 40 — The Litecoin exchange rate decreased below 40 US Dollars in the foreign exchange interbank market.
+
+---
+
+### 2026-06-25 01:23:56  #市場 #焦點
+
+現貨白銀失守58美元/盎司，日內跌5.79%。
+
+---
+
+### 2026-06-25 01:23:50  #國際
+
+美國眾議院議長邁克·約翰遜：世界盃讓美國出現極具反差的一幕，世界各地的遊客都無比喜愛美國，反觀那些參選國會議員的左翼人士卻處處唱衰本國。
+
+---
+
+### 2026-06-25 01:23:43  #MKT News #Important #Commodities #Precious Metals
+
+Spot silver fell to $58/oz, the lowest since December last year, down 5.75% intraday.
+
+---
+
+### 2026-06-25 01:22:16  #其他
+
+【27個國家和國際組織的外交官及智庫專家參訪湖北】“內陸開放高地·戰略支點湖北”駐華外交官及國際智庫專家參訪活動24日在湖北省武漢市正式啟動。來自土庫曼、葛摩、保加利亞、阿根廷、英國、西班牙、上海合作組織等27個國家和國際組織的近40名駐華大使、高階別外交官及智庫專家將在湖北省武漢市、荊州市、宜昌市開展為期四天的參觀考察。首日，外交官及智庫專家們到訪湖北省博物館和武商夢時代廣場，感受荊楚文物的千年魅力，觀摩人形機器人等前沿領域的創新應用。保加利亞駐華大使特霍夫表示，在同一天瞭解到中國悠久的歷史底蘊和領先的科技發展成果，讓他印象深刻，期待此行能在湖北深入瞭解中華文化，探索合作空間。（新華社）
+
+---
+
+### 2026-06-25 01:22:11  #國際
+
+美國一名聯邦法官裁定禁止特朗普推行選民投票需提供公民身份證明的規定。
+
+---
+
+### 2026-06-25 01:22:02  #MKT News #Market Regions #Wall Street (US) #Nasdaq100 #Impact bearish
+
+Nasdaq turned negative, now down 0.25%.
+
+---
+
+### 2026-06-25 01:21:20  #市場 #焦點
+
+納斯達克指數轉跌，最新下跌0.24%。
+
+---
+
+### 2026-06-25 01:21:11  #公司 #國際
+
+諾和諾德美國區總裁：公司正尋求小型配套併購，擴充產品管線。
+
+---
+
+### 2026-06-25 01:20:44  #國際
+
+美國國務卿魯比奧：黎巴嫩武裝部隊需從真主黨手中接管相關領土。
+
+---
+
+### 2026-06-25 01:20:07  #MKT News #Important
+
+BOC to release monetary policy meeting minutes in ten minutes.
+
+---
+
+### 2026-06-25 01:19:42  #市場 #焦點
+
+標普500指數轉跌。
+
+---
+
+### 2026-06-25 01:19:31  #Trading Economics #Markets #United States #stocks #Importance 1
+
+Meta Stock Price Hits 12-week Low — Meta shares decreased to 556.87 USD, the lowest since March 2026. Over the past 4 weeks, Meta Platforms, Inc. lost 8.84%, and in the last 12 months, it decreased 21.23%.
+
+---
+
+### 2026-06-25 01:19:03  #國際
+
+諾和諾德美國區總裁：尚不確定聯邦醫保是否會立刻加大該處方藥（GLP‑1）報銷支援力度。
+
+---
+
+### 2026-06-25 01:18:20  #市場
+
+納斯達克100指數跌幅擴大至盤中低點0.5%。
+
+---
+
+### 2026-06-25 01:17:45  #MKT News #Market Regions #Europe & UK #EURUSD #Impact bearish #DXY #Impact bullish #Brent
+
+U.S. Energy Secretary Wright said EU rules will make imports of U.S. liquefied natural gas (LNG) virtually impossible.
+
+---
+
+### 2026-06-25 01:17:26  #市場
+
+鈀金期貨日內跌6%，現報1167.50美元/盎司。
+
+---
+
+### 2026-06-25 01:17:15  #公司
+
+亞馬遜旗下Zoox重新設計無人駕駛計程車，以適配大規模量產。
+
+---
+
+### 2026-06-25 01:17:07  #MKT News #Macro & Rates #The Fed (FOMC)
+
+The Federal Reserve accepted $4.534 bln from seven counterparties in a fixed-rate reverse repurchase operation.
+
+---
+
+### 2026-06-25 01:17:02  #央行 #國際
+
+週三（6月24日），美聯儲隔夜逆回購協議（RRP）使用規模為45.34億美元（交易對手7家），上個交易日報64.84億美元。
+
+---
+
+### 2026-06-25 01:16:56  #其他
+
+空客被要求對部分存在機翼裂紋問題的A380客機進行檢查。
+
+---
+
+### 2026-06-25 01:16:44  #其他
+
+市場資訊：紐約結婚許可及其他線索顯示泰勒·斯威夫特將於7月3日舉行婚禮。
+
+---
+
+### 2026-06-25 01:16:22  #國際
+
+諾和諾德美國區總裁：聯邦醫保患者中，選擇口服 GLP‑1 片劑的人數是注射劑的兩倍。
+
+---
+
+### 2026-06-25 01:15:45  #其他
+
+EVO與Visa宣佈建立多年合作伙伴關係，共同助力全球遊戲社群。
+
+---
+
+### 2026-06-25 01:14:49  #國際
+
+美國能源部長賴特稱，歐盟新規（甲烷法規）將讓美國液化天然氣（LNG）幾乎無法進入歐洲市場。
+
+---
+
+### 2026-06-25 01:13:43  #其他
+
+奧迪墨西哥工廠工人批准薪資協議，避免罷工。
+
+---
+
+### 2026-06-25 01:13:11  #MKT News #Commodities #Energy #WTI #Impact bearish #Brent
+
+【ADNOC cuts Murban crude official selling price】UAE's Abu Dhabi National Oil Company (ADNOC) set July official selling price for benchmark Murban crude at $101.48 a barrel, down from $104.44 a barrel in June.
+
+---
+
+### 2026-06-25 01:12:56  #國際
+
+俄羅斯5月份天然氣產量同比增長1%，達到530億立方米。
+
+---
+
+### 2026-06-25 01:11:15  #MKT News #Market Themes #The Trump Trade
+
+President Trump said progress is going very smoothly.
+
+---
+
+### 2026-06-25 01:10:33  #焦點 #國際
+
+特朗普談伊朗談判：進展非常順利。
+
+---
+
+### 2026-06-25 01:10:29  #MKT News #Market Themes #Chip Wars #AVGO.O #Impact bullish
+
+【Broadcom CEO: OpenAI's Jalapeño chip signals shift to proprietary AI hardware】Broadcom CEO Hock Tan said the debut of the Jalapeño AI chip, co-developed with OpenAI, marks a shift toward AI labs building their own hardware and infrastructure. He said the move validates Broadcom’s business model and predicted frontier LLM developers will ultimately design and build their own chips and compute because they can do it better. He added OpenAI’s full‑stack strategy produced a chip that is "excellent" for its intended use.
+
+---
+
+### 2026-06-25 01:10:21  #MKT News
+
+Trump said Iran is making very large concessions.
+
+---
+
+### 2026-06-25 01:10:21  #焦點 #國際
+
+特朗普：伊朗作出極大讓步。
+
+---
+
+### 2026-06-25 01:09:54  #MKT News #Market Regions #Europe & UK #RNO.PA
+
+Renault's head of HR in France said the company plans to cut 800 positions in its French engineering division through voluntary departures; the division currently employs 5,500 staff.
+
+---
+
+### 2026-06-25 01:08:59  #其他 #焦點
+
+法國人力資源主管稱，雷諾計劃在法國工程部門的5500名員工中，開展800例自願裁員。
+
+---
+
+### 2026-06-25 01:07:36  #國際
+
+據白宮隨行記者團訊息，特朗普車隊已啟程前往國會大廈。
+
+---
+
+### 2026-06-25 01:05:27  #焦點 #國際
+
+【美伊兩國正圍繞和談爭奪輿論主導權】美伊兩國正圍繞和談爭奪輿論主導權，雙方針對擬議協議作出相互矛盾的表態。美國總統特朗普稱伊朗已同意接受全面核核查，伊朗則表示核查人員不得進入本國核心核設施。副總統萬斯稱美、卡達官員將共同監督伊朗海外資產解凍事宜，伊朗方面同樣對此予以否認。
+
+---
+
+### 2026-06-25 01:04:24  #Trading Economics #Markets #Mexico #Currency #Importance 2
+
+Mexican Peso Drops to April Lows — The Mexican peso fell to 17.6 per USD in late June, the weakest since early April, amid contrasting outlooks for the Bank of Mexico and the Federal Reserve. The dollar surged against G10 and emerging market currencies after hawkish projections by FOMC members in their latest rate decision drove markets to position for more than one rate hike by the central bank this year. Conversely, the latest economic data weakened the argument for dovish policymakers at Banxico. The domestic headline inflation rate fell more than expected to a ten-month low of 3.55% in the first half of June, while the core rate also eased more than forecasted. Besides loosening policy domestically, a narrower rate differential between both central banks would decrease demand for peso-denominated carry trades.
+
+---
+
+### 2026-06-25 01:02:37  #宏觀 #市場 #國際
+
+美國財政部拍賣700億美元五年期國債，得標利率4.2%，投標倍數2.35。
+
+---
+
+### 2026-06-25 01:02:33  #MKT News
+
+CNN reports President Trump is en route to Capitol Hill for a lunch with Senate Republicans.
+
+---
+
+### 2026-06-25 01:02:16  #MKT News #Macro & Rates #Treasury Yields #DXY #Impact bullish #XAUUSD #Impact bearish #USDJPY
+
+US 5-year Treasury auction as of June 24 — percentage of awards at the stop-out yield 86.81% (prior 75.22%).
+
+---
+
+### 2026-06-25 01:02:15  #MKT News #Macro & Rates #Treasury Yields #US10Y #Impact bearish #DXY #Impact bullish #XAUUSD
+
+U.S. 5-year Treasury auction on June 24: stop-out yield 4.20%, prior 4.18%.
+
+---
+
+### 2026-06-25 01:02:15  #MKT News #Macro & Rates #Treasury Yields #US10Y #Impact bullish
+
+US 5-year Treasury auction bid-cover ratio 2.35 on June 24; prior 2.34.
+
+---
+
+### 2026-06-25 01:02:07  #MKT News #Economic Calendar
+
+United States | 5-Year Note Auction Bid/Cover Ratio (Jun.24) | actual 2.35 | previous 2.34
+
+---
+
+### 2026-06-25 01:02:07  #MKT News #Economic Calendar
+
+United States | 5-Year Note Auction Accepted at High (Jun.24) | actual 86.81% | previous 75.22%
+
+---
+
+### 2026-06-25 01:02:07  #MKT News #Economic Calendar
+
+United States | 5-Year Note Auction High Yield Rate (Jun.24) | actual 4.2% | previous 4.18%
+
+---
+
+### 2026-06-25 01:01:23  #MKT News #Commodities #Industrial Metals #Copper #Impact bearish
+
+【Night session most-active contracts close】At the 01:00 night-session close, Shanghai most-active copper contract fell 2.30%, aluminum down 2.13%, zinc down 1.33%, nickel down 1.72%, tin down 2.64%, lead down 0.95%, stainless steel down 0.85% and alumina down 0.84%; international most-active copper contract fell 2.29%.
+
+---
+
+### 2026-06-25 01:00:27  #市場 #國際
+
+700億美元拍賣前，美國國債5年期收益率為4.193%。
+
+---
+
+### 2026-06-25 01:00:16  #國際
+
+美國能源部長賴特稱，預計將於今年晚些時候前往委內瑞拉。
+
+---
+
+### 2026-06-25 01:00:03  #市場
+
+【夜盤期貨收盤】國際銅夜盤收跌2.29%，滬銅收跌2.30%，滬鋁收跌2.13%，滬鋅收跌1.33%，滬鉛收跌0.95%，滬鎳收跌1.76%，滬錫收跌2.65%。氧化鋁夜盤收跌0.84%，鋁合金收跌1.69%。不鏽鋼夜盤收跌0.85%。
+
+---
+
+### 2026-06-25 00:58:42  #國際
+
+【以黎華盛頓首輪談判首日未能取得任何進展】以色列與黎巴嫩在華盛頓舉行的首輪談判首日未能取得任何進展，雙方在以色列撤軍範圍與時間節點上存在重大分歧。會談氣氛愈發緊張，兩國分歧依舊懸殊。美國調解方目前實質上重啟談判，試圖促使雙方軟化立場，推動磋商重回正軌。
+
+---
+
+### 2026-06-25 00:57:46  #MKT News #XAUUSD #Impact bullish #WTI #DXY
+
+Axios reports the first day of Israel-Lebanon talks in Washington produced no progress; the parties remain sharply divided on the scope and timeline of an Israeli withdrawal.
 
 ---
 
@@ -22630,139 +23008,5 @@ Market news: Turkish President Erdogan met Poland's president.
 ### 2026-06-23 21:50:20  #Trading Economics #Economy #United States #Manufacturing PMI #Importance 2
 
 US Manufacturing Growth Strongest Since 2022 — The S&P Global US Manufacturing PMI increased to 55.7 in June 2026 from 55.1 in May, surpassing market forecasts of 54.8 and reaching its highest level since May 2022. This expansion signifies that factory business conditions have improved continuously since last August, with growth steadily accelerating from the recent low point in February. Driving this upward momentum, production growth accelerated at the fastest pace since July 2021, propelled by the largest surge in new orders since April 2022. Additionally, input inventories experienced their biggest increase since May 2025, marking the second steepest rise in the history of the survey. The PMI also benefited from the most significant lengthening of supplier delivery times recorded since August 2022. Conversely, the overall index gains were partially constrained by a substantial decline in employment, which represented the sharpest drop in manufacturing workforce levels since May 2020.
-
----
-
-### 2026-06-23 21:50:05  #MKT News #Important
-
-US Richmond Fed manufacturing index for June due in 10 minutes.
-
----
-
-### 2026-06-23 21:49:25  #MKT News #Important #Star Stocks #NVIDIA #Market Themes #AI Revolution #Chip Wars #Magnificent 7 #NVDA.O #Impact mixed #LITE.O #Impact bullish #IIVI.O
-
-【CPO mass production not delayed; bottleneck shifting upstream】Surging AI compute has pushed optical-interconnect valuations higher and amplified stock volatility. A SemiAnalysis report alleging delays to CPO (co‑packaged optics) mass production sparked a global sell-off in optical-communications names; NVIDIA executives denied a delay at a Taipei event and industry contacts say CPO mass production has not been postponed. Market confusion appears to conflate small‑batch validation with full industry rollout. Multiple industry sources identify indium‑phosphide laser chips as the binding constraint: long photonic‑chip fab buildouts and extended customer validation cycles make lasers the current capacity bottleneck. Strategically, CPO remains the long‑term solution for hyperscale model training clusters, but near term NPO, LPO and conventional pluggable modules are likely to operate in parallel to meet ultra‑high bandwidth demand. Deployment will be upstream‑capacity led and phased; compute‑bandwidth demand remains robust.
-
----
-
-### 2026-06-23 21:49:17  #公司
-
-【*ST利達：控股股東740萬股解質押後再質押】*ST利達公告稱，控股股東柯利達集團於6月22日將質押給無錫農商銀行的740萬股無限售流通股辦理解除質押和再質押手續，用於補充流動資金。截至公告日，柯利達集團持有公司11167.79萬股，佔總股本18.74%，累計質押10672.10萬股，佔其持股95.56%，佔總股本17.91%。控股股東及其一致行動人合計持有16512.30萬股，佔27.71%，累計質押13572.10萬股，佔其合計持股82.19%，佔總股本22.77%。
-
----
-
-### 2026-06-23 21:48:28  #國際
-
-【美國銀行稱納斯達克100指數正逼近泡沫水平】美國銀行的研究分析師表示，儘管圍繞納斯達克100指數漲勢的風險正在累積，但人工智慧主題可能還有進一步拓展的空間。該團隊的泡沫風險指標顯示，納斯達克100指數的該指標略低於0.8這個通常意味著短期兩端尾部風險升高的水平，而科技股和半導體股已經顯示出極端的泡沫式價格走勢。包括Riddhi Prasad在內的美國銀行團隊寫道，人工智慧泡沫可能需要數年時間才能完全形成，不過歷史表明，其指標有助於提示階段性回撥。
-
----
-
-### 2026-06-23 21:47:59  #國際
-
-【日本島根縣一商業街發生火災】當地時間6月23日晚，日本島根縣出雲市今市町一商業街發生火災。截至當地時間21時，現場共有5到6棟房屋起火，滅火工作仍在進行中。截至目前沒有人員受傷或被困的報告。（央視新聞）
-
----
-
-### 2026-06-23 21:47:41  #其他
-
-【全新理想L8上市，35.98萬元起】6月23日，全新理想L8上市，新車分為Ultra版本、Livis版本，售價分別為35.98萬、42.98萬元。據瞭解兩個版本均搭載第三代5C增程系統，純電續航均為430公里，CLTC綜合續航里程達到1670公里。Ultra版本在智慧駕駛方面配備了旗艦級智慧座艙，硬體包括雙OrinX晶片、鐳射雷達、雙目攝像頭、毫米波雷達、超聲波雷達和紅外感測器。
-
----
-
-### 2026-06-23 21:47:04  #MKT News #Important #DXY #Impact bullish #S&P500 #XAUUSD #Impact bearish
-
-S&P Global preliminary June US composite PMI 52.2, five-month high; preliminary US services PMI 51.3, four-month high; preliminary US services PMI 55.7, 49-month high.
-
----
-
-### 2026-06-23 21:46:21  #公司 #國際
-
-【一家估值40億美元的印度初創公司贏得Meta投資，卻將創始人“拱手讓給”WhatsApp】印度金融科技初創公司Cred即將完成由扎克伯格旗下Meta Platforms領投的9億美元融資，但代價是將其創始人兼執行長Kunal Shah“拱手讓給”了WhatsApp。近日，該公司表示，在這輪最新融資中，這家即將迎來Meta作為少數股東的初創公司估值已超過40億美元。這筆資金將用於“加速業務增長、強化機構實力，並擴大其在各業務領域的領先地位”。
-
----
-
-### 2026-06-23 21:46:20  #經濟數據 #美國
-
-【美國6月份製造業採購經理指數初值報55.7 高於預期】美國6月份綜合產出指數初值報52.2，高於5月份的51.5。6月份製造業採購經理指數初值報55.7，分析師預估54.6；6月份服務業經營活動指數初值報51.3，分析師預估51.1。
-
----
-
-### 2026-06-23 21:45:35  #資料 #國際
-
-美國6月標普全球製造業PMI初值 55.7，預期54.8，前值55.1。
-美國6月標普全球綜合PMI初值 52.2，前值51.5。
-美國6月標普全球服務業PMI初值 51.3，預期51，前值50.7。
-
----
-
-### 2026-06-23 21:45:10  #MKT News #Important #Macro & Rates #US Economy #DXY #Impact bullish #S&P500 #Copper
-
-US S&P Global preliminary June manufacturing PMI 55.7, consensus 54.8, prior 55.1.
-
----
-
-### 2026-06-23 21:45:08  #MKT News #Important #Macro & Rates #US Economy #S&P500 #Impact bullish #DXY #US10Y #Impact bearish
-
-US June S&P Global Services PMI flash 51.3; consensus 51.0; prior 50.7.
-
----
-
-### 2026-06-23 21:45:08  #MKT News #S&P500 #Impact bullish #DXY #XAUUSD #Impact bearish
-
-US June S&P Global composite PMI (flash) 52.2, prior 51.5.
-
----
-
-### 2026-06-23 21:45:00  #MKT News #Economic Calendar #Important
-
-United States | Services PMI Flash (Jun) | actual 51.3 | consensus 51 | previous 50.7
-
----
-
-### 2026-06-23 21:45:00  #MKT News #Economic Calendar #Important
-
-United States | Composite PMI Flash (Jun) | actual 52.2 | previous 51.5
-
----
-
-### 2026-06-23 21:45:00  #MKT News #Economic Calendar #Important
-
-United States | Manufacturing PMI Flash (Jun) | actual 55.7 | consensus 54.8 | previous 55.1
-
----
-
-### 2026-06-23 21:44:22  #公司 #國際
-
-【美國將提供175億美元貸款支援大型核反應堆建設】據知情人士透露，特朗普政府將提供175億美元資金，用於資助西屋電氣公司的大型核反應堆裝置訂單。這筆資金將提供給已簽署美國能源部貸款意向書的7家未具名公用事業公司。特朗普將核反應堆視為資料中心和經濟增長的關鍵電力來源，並於去年簽署行政令，要求到2030年美國有10座大型常規核反應堆在建。儘管許多公司正致力於在美國推動新一代小型模組化反應堆的開發，但大型傳統核電站的建設大多處於停滯狀態。本世紀以來，美國僅完工了三座此類核電站，目前尚無任何一座在建。
-
----
-
-### 2026-06-23 21:44:11  #MKT News #Market Themes #The Trump Trade #Copper #Impact bullish
-
-【US to provide $17.5 bln loan to back large nuclear reactor builds】Sources say the Trump administration will provide $17.5 billion to finance Westinghouse Electric equipment orders for large nuclear reactors. The funds will be allocated to seven unnamed utilities that have signed DOE loan intent letters. The administration views large reactors as critical power for data centers and economic growth and issued an executive order last year aiming for 10 large conventional reactors under construction in the US by 2030. Large conventional reactor builds have largely stalled: only three such plants have been completed since 2000 and none are currently under construction.
-
----
-
-### 2026-06-23 21:44:05  #市場
-
-【SpaceX股價跌破150美元的首日開盤價】SpaceX股價下跌4%，報148.51美元/股，已低於150美元的首日開盤價，總市值報1.95萬億美元。
-
----
-
-### 2026-06-23 21:43:55  #MKT News #Macro & Rates #DXY #Impact bullish #EURUSD #Impact bearish
-
-Hungary's central bank governor said he expects two further 25bp rate cuts over the summer.
-
----
-
-### 2026-06-23 21:43:21  #MKT News
-
-Lebanese president said a new US-backed round of talks with Israel could be decisive.
-
----
-
-### 2026-06-23 21:43:12  #Trading Economics #Markets #Commodity #Importance 1
-
-Cocoa Futures at Over 1-Month High — Cocoa futures traded around $4,600 per tonne, the highest since May 11, driven by short covering and weather-related supply concerns. Traders monitored the end of the mid-season harvest in West Africa and the upcoming main harvest, which starts in September. Farmers in top grower Ivory Coast have expressed concerns that recent above-average rainfall could lead to flooding, higher disease incidence, and reduced cocoa bean quality during the final stretch of the mid-crop harvest. While rainfall is crucial for crop development, excessive moisture also favors the emergence of fungal diseases and an increased presence of insects in crops, particularly at a critical stage for cocoa pod formation and ripening. Meanwhile, concerns about the potential impact of the El Nino persisted. Another factor for investors is the drop in ICE-certified stocks at US ports, which fell by 3,828 bags to 2,914,908, suggesting tighter supply.
 
 ---
