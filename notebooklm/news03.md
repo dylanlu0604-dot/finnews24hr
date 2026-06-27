@@ -1,7 +1,43 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-06-28 03:40:53_
-_本檔包含 3891 則快訊，約 670470 字_
+_更新時間：2026-06-28 04:08:45_
+_本檔包含 3896 則快訊，約 671060 字_
+
+---
+
+### 2026-06-25 04:57:52  #MKT News
+
+President Trump said a war-powers vote on Iran is meaningless.
+
+---
+
+### 2026-06-25 04:57:38  #MKT News #Commodities #Energy
+
+Trump said oil companies have not sufficiently reduced gasoline prices and that he spoke with oil firms today.
+
+---
+
+### 2026-06-25 04:57:35  #MKT News #Market Themes #Chip Wars #AI Revolution #QCOM.O #Impact bullish
+
+【Qualcomm shares jump after-hours as CFO lifts data-center and non-phone revenue targets】Qualcomm (QCOM.O) shares rose as much as 15% in after-hours trading after the CFO raised long-term targets for data-center and non-phone businesses. The company increased its FY2029 non-phone revenue target to $40.0 billion, roughly double its prior FY2029 goal, and is targeting over $15.0 billion of AI data-center revenue in FY2029.
+
+---
+
+### 2026-06-25 04:54:59  #MKT News #QCOM.O #Impact bullish
+
+Qualcomm (QCOM.O) CFO says the company has an opportunity to raise annual revenue to $100 billion.
+
+---
+
+### 2026-06-25 04:54:58  #國際
+
+美國 30 年期美債收益率當日下行 10 個基點，報 4.84%。
+
+---
+
+### 2026-06-25 04:54:34  #MKT News #Market Themes #AI Revolution #QCOM.O #Impact bullish
+
+Qualcomm (QCOM.O) targets roughly $6 bln in revenue from its Personal AI and compute businesses in fiscal 2029.
 
 ---
 
@@ -23464,11 +23500,5 @@ Pakistan's prime minister said there should be no double standards: some countri
 ### 2026-06-23 23:48:32  #Trading Economics #Markets #France #Stock Market #Importance 0
 
 CAC 40 Dips on Hawkish Fed and ECB Prospects — The CAC 40 fell 0.7% to close at 8,341 on Tuesday, extending losses for a third straight session as investors reassessed the outlook for global monetary policy. Markets increasingly expect the US Federal Reserve to deliver a total of 50 basis points in rate hikes by year-end to contain inflationary pressures. In Europe, traders also continued to price in an additional 25 basis-point increase from the European Central Bank later this year, despite Christine Lagarde recently downplaying concerns over second-round inflation effects. Financial stocks traded lower, with Societe Generale down 1.5%. Luxury stocks were mixed as risk aversion increased, with L'Oréal down 0.3%, Hermès losing 1%, and Kering falling 0.9%, while LVMH rose 0.6%. STMicroelectronics plunged 8.1%, tracking Wall Street as technology stocks came under pressure amid concerns that AI-driven valuations have become overstretched. Industrials were mixed, with Schneider Electric down 4%, while Airbus gained 2.2%.
-
----
-
-### 2026-06-23 23:48:27  #國際
-
-【黎總統與美官員通話 討論建立黎巴嫩停火監督機制】當地時間23日，黎巴嫩總統約瑟夫·奧恩與美國副總統萬斯、美國國務卿魯比奧通電話，雙方討論了黎巴嫩最新局勢以及美伊瑞士會談後的階段性進展。黎巴嫩總統府釋出的宣告表示，萬斯和魯比奧重申了美國對黎巴嫩政府立場和國家主權的支援。宣告稱，美國官員強調，美方正在跟進落實瑞士會談期間達成的各項諒解備忘錄內容，包括建立一個由美國、黎巴嫩和伊朗組成的機制，以鞏固黎巴嫩停火併監督相關措施的執行情況。美方補充說，目前正在審查有關該機制的結構和運作安排。（央視新聞）
 
 ---

@@ -1,7 +1,31 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-06-28 03:40:53_
-_本檔包含 3720 則快訊，約 670137 字_
+_更新時間：2026-06-28 04:08:45_
+_本檔包含 3718 則快訊，約 670326 字_
+
+---
+
+### 2026-06-26 08:18:07  #公司 #市場 #觀點 #央行 #國際
+
+【中金：黃金牛市尚未結束 轉機可能已經不遠】中金公司研報稱，美國通脹今年夏季大機率見頂，勞動力市場正在降溫，沃什改革為未來美聯儲政策轉松預留空間，美聯儲政策並不會全面轉向緊縮。隨著地緣與通脹壓力在下半年逐漸緩解，美聯儲加息的機率很低，反而降息的時點和節奏可能超出市場預期，推動美元流動性寬鬆迴歸，為黃金、股票等資產提供新的支援。因此，中金認為黃金牛市並未結束。6月全球通脹衝高，且多家央行正在加息，或是全球流動性壓力最大的時期，黃金加速調整並不意外。進入7—8月，隨著美國通脹與增長資料回落，或沃什提供新的政策指引，存在美聯儲緊縮敘事被快速逆轉的可能性，判斷黃金市場的轉折點已經漸行漸近。與此同時，中金提示黃金也是AI泡沫的潛在對沖資產，可起到風險分散效果。綜上所述，中金仍對黃金後市保持樂觀，建議維持倉位，逢低吸納，靜待轉機。
+
+---
+
+### 2026-06-26 08:17:43  #公司
+
+野村：已與穩定幣網路運營商Circle網際網路集團達成戰略合作伙伴關係，將提供由穩定幣支援的抵押品管理、資金轉移等全球金融服務。
+
+---
+
+### 2026-06-26 08:17:08  #市場 #央行 #國際
+
+【日元徘徊在1986年來低點附近 但單月表現仍優於其他G10貨幣】日元在距離四十年來低點僅一步之遙的地方止步，卻產生了意想不到的結果：日元成為本月迄今為止兌美元表現最好的G10貨幣。日元兌美元下跌1.6%，相比之下，歐元下跌2.5%，澳元下跌3.9%，挪威克朗下跌超過6%。儘管日元仍處於歷史低位，但考慮到日本可能在161.95附近進行干預，交易員不願押注日元進一步下跌。一旦跌破該關口，日元將下探1986年12月以來的最低水平。與此同時，美元走強，加之美聯儲立場更為鷹派，給其他貨幣帶來壓力。由於市場對達成結束伊朗衝突的持久協議抱有樂觀情緒，油價也回落至伊朗戰爭前的水平。
+
+---
+
+### 2026-06-26 08:15:17  #公司
+
+【深圳拍出105億宅地 與騰訊“企鵝島”隔海對望】105.1億元，深圳誕生百億級宅地。據深圳市規劃和自然資源局訊息，6月25日，深圳市寶安區新安街道一宗商品住宅用地順利成交，成交價105.1億元，競得人為深圳市保利產業投資有限公司。此次出讓的寶安區新安街道A002-0113宗地，與騰訊總部新園區“企鵝島”隔海相望，土地用途為二類居住用地，土地面積37357.23平方米，總建築面積為119535平方米，其中住宅104600平方米。宗地掛牌起始價52.8億元，吸引了華潤&招商、中海、保利發展、建發4家頭部房企到場，經超350輪激烈競價，成交價105.1億元，綜合樓面價8.79萬元/平方米，溢價率99.05%。（21財經）
 
 ---
 
@@ -22409,41 +22433,5 @@ Timiraos said some forecasters who backcast May PCE from US PPI and CPI expect a
 ### 2026-06-25 04:58:57  #資料 #央行 #國際
 
 “美聯儲傳聲筒”Nick Timiraos：一些將美國PPI和CPI資料換算為5月PCE的預測人士預計，美國核心PCE將錄得較強讀數，並且與CPI之間的差距（分歧）較大，預計在週四公佈時，核心PCE同比增速將達到3.4%。
-
----
-
-### 2026-06-25 04:57:52  #MKT News
-
-President Trump said a war-powers vote on Iran is meaningless.
-
----
-
-### 2026-06-25 04:57:38  #MKT News #Commodities #Energy
-
-Trump said oil companies have not sufficiently reduced gasoline prices and that he spoke with oil firms today.
-
----
-
-### 2026-06-25 04:57:35  #MKT News #Market Themes #Chip Wars #AI Revolution #QCOM.O #Impact bullish
-
-【Qualcomm shares jump after-hours as CFO lifts data-center and non-phone revenue targets】Qualcomm (QCOM.O) shares rose as much as 15% in after-hours trading after the CFO raised long-term targets for data-center and non-phone businesses. The company increased its FY2029 non-phone revenue target to $40.0 billion, roughly double its prior FY2029 goal, and is targeting over $15.0 billion of AI data-center revenue in FY2029.
-
----
-
-### 2026-06-25 04:54:59  #MKT News #QCOM.O #Impact bullish
-
-Qualcomm (QCOM.O) CFO says the company has an opportunity to raise annual revenue to $100 billion.
-
----
-
-### 2026-06-25 04:54:58  #國際
-
-美國 30 年期美債收益率當日下行 10 個基點，報 4.84%。
-
----
-
-### 2026-06-25 04:54:34  #MKT News #Market Themes #AI Revolution #QCOM.O #Impact bullish
-
-Qualcomm (QCOM.O) targets roughly $6 bln in revenue from its Personal AI and compute businesses in fiscal 2029.
 
 ---

@@ -1,7 +1,37 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-06-28 03:40:53_
-_本檔包含 3554 則快訊，約 669952 字_
+_更新時間：2026-06-28 04:08:45_
+_本檔包含 3551 則快訊，約 670234 字_
+
+---
+
+### 2026-06-22 21:38:44  #央行 #國際
+
+【美銀：預計美聯儲今年將加息75個基點】美銀證券在一份報告中表示，美聯儲的通脹問題已明顯惡化，因此預計今年將進行三次每次25個基點的加息，從9月份開始。經濟學家們指出，在凱文·沃什作為主席的首次新聞釋出會上：“他反覆強調了恢復價格穩定的重要性，並暗示政策並非特別具有限制性。與之前的言論相比，他對人工智慧驅動的通脹回落也更加謹慎。”
+
+---
+
+### 2026-06-22 21:38:43  #MKT News #Important #Commodities #Energy #Brent #Impact bearish
+
+Brent crude extends intraday decline to 3.0%, trading at $77.71/bbl.
+
+---
+
+### 2026-06-22 21:38:12  #央行 #國際
+
+【拉加德稱無需對中東衝突採取更強硬應對，通脹仍將回歸2%目標】6月22日，歐洲央行行長拉加德表示，儘管中東局勢帶來衝擊，但目前沒有跡象顯示通脹預期脫錨或二輪效應，歐洲央行無需採取更強力政策反應。她稱，預計中期通脹將回落至2%，政策將繼續“逐次會議、資料依賴”調整，並保持靈活應對外部衝擊。市場仍預期年內或有進一步加息空間。
+
+---
+
+### 2026-06-22 21:38:09  #市場 #焦點
+
+WTI原油失守74美元/桶，日內跌2.47%。
+
+---
+
+### 2026-06-22 21:37:57  #Trading Economics #Markets #United States #Stock Market #Importance 2
+
+US Stocks Start Week higher — US stocks rose on Monday, extending the rebound from last week on fresh optimism that peace in the Middle East would re-establish energy supply from the region. The S&P 500 and Nasdaq 100 inched higher while the Dow gained over 200 points. Iran stated there was major progress in the recent discussions with the US as both sides agreed to reach a peace deal within two months. Prices for energy commodities fell further on hopes of restored supply, although lingering expectations of a hawkish Fed following last week's meetings prevented support for Treasuries. Chip producers extended their historic rally with Micron and Sandisk adding 5%. Meanwhile, AI hyperscalers extended their underperformance with Amazon, Oracle, and Meta dropping over 2% each on concerns over soaring AI capex. Likewise, SpaceX sank 5% after announcing a new bond sale, although it remains 40% above its IPO. Also, AbbVie added 1% after agreeing to buy Apogee Therapeutics in a $10.9 billion cash deal.
 
 ---
 
@@ -21383,53 +21413,5 @@ US Vice President Vance has departed Washington for Switzerland, a spokesperson 
 ### 2026-06-21 04:15:26  #其他
 
 市場資訊：巴基斯坦將在華盛頓與德黑蘭預期舉行的高階別技術談判中發揮重要作用。
-
----
-
-### 2026-06-21 03:57:27  #國際
-
-北美防空司令部（NORAD）釋出訊息稱，美國空軍第一航空隊一架F-16戰機今日在馬里蘭州黑格斯敦上空攔截了一架闖入貴賓臨時飛行管制區的通用航空飛機。
-
----
-
-### 2026-06-21 03:52:06  #國際
-
-【特朗普稱通行霍爾木茲海峽將不收取任何費用】當地時間6月20日，美國總統特朗普在社交媒體平臺“真實社交”發文表示，在停火期間的60天內，霍爾木茲海峽將不收取任何通行費。60天期限結束後，也不會收取任何通行費，除非相關協議未能達成，而美國作為中東各國的“守護天使”，為它們提供服務，出於就過去、現在及未來所承擔的成本尋求補償的目的，由美國決定並徵收相關費用。根據此前伊朗官媒與美國官員釋出的美伊諒解備忘錄的內容，涉及霍爾木茲海峽通行的條款明確寫有，伊朗將盡最大努力做出安排，確保商船在60天期限內免費安全往返于波斯灣和阿曼灣之間。至於60天期限過後，霍爾木茲海峽的管理制度將透過伊朗將與阿曼進行的對話，並與其他波斯灣沿岸國家協商確立。（央視新聞）
-
----
-
-### 2026-06-21 03:50:37  #國際
-
-【特朗普：如與伊不能達成協議 美或收取海峽通行費】美國總統特朗普20日在社交媒體威脅稱，如果與伊朗協議“不能完成”，美國或將收取霍爾木茲海峽通行費。（新華社）
-
----
-
-### 2026-06-21 03:50:27  #MKT News #Market Themes #The Trump Trade #WTI #Impact bullish #Brent #XAUUSD
-
-【Trump says US may charge Strait of Hormuz transit fee if Iran deal 'cannot be completed'】Trump threatened on social media on the 20th that if a deal with Iran "cannot be completed", the US may charge transit fees for passage through the Strait of Hormuz.
-
----
-
-### 2026-06-21 03:49:38  #MKT News
-
-Pakistan's prime minister and army chief will attend technical consultations in Bürgenstock, Switzerland on June 21, the prime minister's office said.
-
----
-
-### 2026-06-21 03:48:35  #市場
-
-巴基斯坦總理辦公室：總理兼陸軍元帥將出席6月21日在瑞士比爾根斯托克舉行的技術層面會談。
-
----
-
-### 2026-06-21 03:41:18  #其他
-
-【巴基斯坦總理已啟程前往瑞士】據巴基斯坦媒體21日報道，巴基斯坦總理夏巴茲已啟程前往瑞士。（新華社）
-
----
-
-### 2026-06-21 03:40:53  #MKT News
-
-【Pakistan prime minister Shehbaz Sharif departs for Switzerland】Pakistan's prime minister Shehbaz Sharif has departed for Switzerland, Pakistani media reported on the 21st.
 
 ---

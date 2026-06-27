@@ -1,7 +1,13 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-06-28 03:40:53_
-_本檔包含 3487 則快訊，約 670755 字_
+_更新時間：2026-06-28 04:08:45_
+_本檔包含 3483 則快訊，約 669575 字_
+
+---
+
+### 2026-06-23 23:48:27  #國際
+
+【黎總統與美官員通話 討論建立黎巴嫩停火監督機制】當地時間23日，黎巴嫩總統約瑟夫·奧恩與美國副總統萬斯、美國國務卿魯比奧通電話，雙方討論了黎巴嫩最新局勢以及美伊瑞士會談後的階段性進展。黎巴嫩總統府釋出的宣告表示，萬斯和魯比奧重申了美國對黎巴嫩政府立場和國家主權的支援。宣告稱，美國官員強調，美方正在跟進落實瑞士會談期間達成的各項諒解備忘錄內容，包括建立一個由美國、黎巴嫩和伊朗組成的機制，以鞏固黎巴嫩停火併監督相關措施的執行情況。美方補充說，目前正在審查有關該機制的結構和運作安排。（央視新聞）
 
 ---
 
@@ -21026,35 +21032,5 @@ Market sources: Andy Burnham sworn in as a Member of the UK Parliament.
 ### 2026-06-22 21:39:03  #市場
 
 哥倫比亞企業在美上市個股因右翼候選人德拉埃斯普列利亞險勝總統選舉大幅上漲。ECOPETROL上漲6%，GRUPO CIBEST上漲7.5%，GEOPARK上漲2.9%，GRUPO AVAL上漲7%。
-
----
-
-### 2026-06-22 21:38:44  #央行 #國際
-
-【美銀：預計美聯儲今年將加息75個基點】美銀證券在一份報告中表示，美聯儲的通脹問題已明顯惡化，因此預計今年將進行三次每次25個基點的加息，從9月份開始。經濟學家們指出，在凱文·沃什作為主席的首次新聞釋出會上：“他反覆強調了恢復價格穩定的重要性，並暗示政策並非特別具有限制性。與之前的言論相比，他對人工智慧驅動的通脹回落也更加謹慎。”
-
----
-
-### 2026-06-22 21:38:43  #MKT News #Important #Commodities #Energy #Brent #Impact bearish
-
-Brent crude extends intraday decline to 3.0%, trading at $77.71/bbl.
-
----
-
-### 2026-06-22 21:38:12  #央行 #國際
-
-【拉加德稱無需對中東衝突採取更強硬應對，通脹仍將回歸2%目標】6月22日，歐洲央行行長拉加德表示，儘管中東局勢帶來衝擊，但目前沒有跡象顯示通脹預期脫錨或二輪效應，歐洲央行無需採取更強力政策反應。她稱，預計中期通脹將回落至2%，政策將繼續“逐次會議、資料依賴”調整，並保持靈活應對外部衝擊。市場仍預期年內或有進一步加息空間。
-
----
-
-### 2026-06-22 21:38:09  #市場 #焦點
-
-WTI原油失守74美元/桶，日內跌2.47%。
-
----
-
-### 2026-06-22 21:37:57  #Trading Economics #Markets #United States #Stock Market #Importance 2
-
-US Stocks Start Week higher — US stocks rose on Monday, extending the rebound from last week on fresh optimism that peace in the Middle East would re-establish energy supply from the region. The S&P 500 and Nasdaq 100 inched higher while the Dow gained over 200 points. Iran stated there was major progress in the recent discussions with the US as both sides agreed to reach a peace deal within two months. Prices for energy commodities fell further on hopes of restored supply, although lingering expectations of a hawkish Fed following last week's meetings prevented support for Treasuries. Chip producers extended their historic rally with Micron and Sandisk adding 5%. Meanwhile, AI hyperscalers extended their underperformance with Amazon, Oracle, and Meta dropping over 2% each on concerns over soaring AI capex. Likewise, SpaceX sank 5% after announcing a new bond sale, although it remains 40% above its IPO. Also, AbbVie added 1% after agreeing to buy Apogee Therapeutics in a $10.9 billion cash deal.
 
 ---
