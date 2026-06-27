@@ -1,7 +1,15 @@
 {
-  "updated": "2026-06-27 16:02:15",
-  "count": 18195,
+  "updated": "2026-06-27 16:06:19",
+  "count": 18184,
   "items": [
+    {
+      "id": "4958311",
+      "time": "2026-06-27 16:04:10",
+      "tags": [
+        "公司"
+      ],
+      "text": "【深圳市委書記靳磊會見南方電網公司董事長錢朝陽】據“深視新聞”，6月26日，深圳市委書記靳磊會見中國南方電網有限責任公司黨組書記、董事長錢朝陽一行。靳磊表示，期待與南方電網公司共同搶抓“六張網”規劃建設等機遇，在打造新型電網、探索算電協同新模式等領域深化務實合作，實現互利共贏發展。深圳將全方位做好服務保障。錢朝陽表示，將紮實推動雙方“十五五”戰略合作協議落地見效，大力支撐立體數字的超大城市電網建設，持續提升綠色電力供給能力，高質量完成APEC會議等重大保供電任務，加快推動“六張網”協同發展，助力深圳經濟大市挑大樑。"
+    },
     {
       "id": "4958310",
       "time": "2026-06-27 16:01:06",
@@ -166348,109 +166356,6 @@
         "WTI"
       ],
       "text": "Al Arabiya reported Israel carried out airstrikes in southern Lebanon."
-    },
-    {
-      "id": "4945736",
-      "time": "2026-06-20 16:05:58",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：美國一個高階代表團已抵達瑞士。"
-    },
-    {
-      "id": "mkt:019ee410-797b-7dd8-b09d-de50d89413ce",
-      "time": "2026-06-20 16:05:45",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Al Arabiya TV reports a senior US delegation has arrived in Switzerland."
-    },
-    {
-      "id": "4945735",
-      "time": "2026-06-20 16:05:34",
-      "tags": [
-        "國際"
-      ],
-      "text": "印度衛生部禁用16種固定劑量複方藥物。"
-    },
-    {
-      "id": "mkt:019ee40f-bf1c-7dd8-b09d-d1761bcb0864",
-      "time": "2026-06-20 16:04:57",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Ryanair CEO O'Leary said the company could receive a boost from a US-Iran agreement."
-    },
-    {
-      "id": "mkt:019ee40f-8c7b-7dd8-b09d-c98b96e7476b",
-      "time": "2026-06-20 16:04:44",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy"
-      ],
-      "text": "Ryanair CEO O'Leary said if oil trades at or below about $80 a barrel, the airline will certainly consider hedging beginning summer 2027."
-    },
-    {
-      "id": "mkt:019ee40f-4fa2-7dd8-b09d-c2c9e1c12f53",
-      "time": "2026-06-20 16:04:29",
-      "tags": [
-        "MKT News",
-        "RYAAY.O",
-        "Impact mixed"
-      ],
-      "text": "Ryanair CEO O'Leary said passenger volumes are healthy, but fares appear to be flat year-on-year."
-    },
-    {
-      "id": "4945734",
-      "time": "2026-06-20 16:04:24",
-      "tags": [
-        "公司"
-      ],
-      "text": "瑞安航空<RYA.I>執行長奧利裡表示：\"客流量表現良好，但票價與去年同期相比似乎基本持平。\""
-    },
-    {
-      "id": "mkt:019ee40f-22c4-7dd8-b09d-ba766cc5627c",
-      "time": "2026-06-20 16:04:17",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "【Norway to ban generative AI for primary school students】Norwegian Prime Minister Jonas Gahr Støre said on the 19th the government will ban generative AI use by primary school pupils to prevent negative effects on learning. Under the plan, children aged 6–13 will in principle be prohibited from using AI tools; 14–16-year-olds may use them only under strict teacher supervision; 17–19-year-old upper-secondary students will be taught appropriate use to prepare for higher education and the workplace. The measures take effect from the new school year starting at the end of August."
-    },
-    {
-      "id": "4945733",
-      "time": "2026-06-20 16:04:14",
-      "tags": [
-        "公司"
-      ],
-      "text": "瑞安航空執行長奧利裡表示，美伊協議\"或許會帶來些許刺激效應\" 。"
-    },
-    {
-      "id": "4945732",
-      "time": "2026-06-20 16:03:55",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "瑞安航空執行長奧萊利表示，如果油價跌至每桶80美元區間低端或跌破每桶80美元，“我們肯定會考慮針對2027年夏季啟動套期保值”。"
-    },
-    {
-      "id": "4945731",
-      "time": "2026-06-20 16:03:45",
-      "tags": [
-        "其他"
-      ],
-      "text": "【挪威將禁止小學生使用生成式人工智慧】挪威首相斯特勒19日表示，為防止對學習產生負面影響，挪威將禁止小學生使用生成式人工智慧工具，同時限制人工智慧工具在高年級學生教育中的使用。根據挪威政府公佈的方案，6到13歲的小學生原則上不得使用人工智慧工具；14到16歲的初中生可在教師的嚴密監管下謹慎使用此類工具。17到19歲的高中生應學習如何恰當地使用人工智慧工具，以便為後續的高等教育和未來的職場環境做好準備。挪威首相斯特勒當天表示，使用人工智慧會增加兒童跳過教育中重要環節的風險，學校應該專注於教學生“閱讀、寫作和數學”。他強調，這些新規將從8月底開始的新學年實施。（央視新聞）"
-    },
-    {
-      "id": "4945730",
-      "time": "2026-06-20 16:02:19",
-      "tags": [
-        "其他"
-      ],
-      "text": "【《玩具總動員5》票房破8000萬】據貓眼專業版資料，電影《玩具總動員5》上映2天 ，總票房破8000萬。"
     }
   ]
 }
