@@ -1,7 +1,15 @@
 {
-  "updated": "2026-06-28 13:42:03",
+  "updated": "2026-06-28 13:46:03",
   "count": 18152,
   "items": [
+    {
+      "id": "4958752",
+      "time": "2026-06-28 13:42:16",
+      "tags": [
+        "國際"
+      ],
+      "text": "【以總理警告伊朗無權介入黎巴嫩事務】以色列總理內塔尼亞胡6月27日稱，以色列、美國和黎巴嫩政府已簽訂框架協議，這項框架協議是對伊朗和黎巴嫩真主黨的“沉重打擊”。他同時稱，這是黎巴嫩政府、以色列和美國在對伊朗說：“你無權介入，也無權發揮任何作用。” 內塔尼亞胡還說，雖然以色列不是美伊協議的締約方，但在伊朗核問題等核心議題上，以色列仍將向美國傳達自己的利益訴求，也將堅持以色列“在邊境的利益”，絕不會撤出黎南部所謂“安全區”。（CCVT國際時訊）"
+    },
     {
       "id": "4958751",
       "time": "2026-06-28 13:41:26",
@@ -166120,18 +166128,6 @@
         "Important"
       ],
       "text": "Al Jazeera reports Pakistan's army chief has arrived in Switzerland to participate in US-Iran talks."
-    },
-    {
-      "id": "mkt:019ee8b4-18b0-7dd8-b0a3-61c9a344998e",
-      "time": "2026-06-21 13:42:57",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "【US, Iran send senior officials to Switzerland despite mutual violation claims — analyst】Despite mutual accusations of violations, the US and Iran have each sent senior officials to talks in Switzerland because both have vested interests in ending the conflict, said Sina Azodi, director of the Middle East Program at George Washington University. Azodi said Iran views Israeli strikes on Lebanon as breaching a memorandum of understanding, while Washington could interpret Tehran’s threats to close the Strait of Hormuz as a breach; Tehran may be testing whether Washington can rein in Israel and halt hostilities in Lebanon."
     }
   ]
 }
