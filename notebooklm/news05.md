@@ -1,7 +1,19 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-06-29 02:35:35_
-_本檔包含 3486 則快訊，約 665522 字_
+_更新時間：2026-06-29 02:59:22_
+_本檔包含 3477 則快訊，約 665014 字_
+
+---
+
+### 2026-06-23 07:53:37  #Trading Economics #Markets #Commodity #Importance 2
+
+Gold Steady as Iran Talks Ease Inflation Concerns — Gold held near $4,200 an ounce on Tuesday, maintaining gains from the previous session as early signs of progress in ongoing peace talks between the US and Iran helped ease concerns about inflation. In a significant development, Washington issued Iran a 60-day license to sell oil on international markets, fueling expectations of a faster recovery in global supply. Shipping activity through the Strait of Hormuz has also increased, with producers such as Kuwait and the United Arab Emirates finding alternative ways to export energy, while Iran shipped more than 30 million barrels over the past week. Gold has come under constant pressure since the Middle East conflict erupted in late February, as disruptions to energy flows through Hormuz drove oil prices higher and reinforced expectations that central banks raise interest rates to contain inflation.
+
+---
+
+### 2026-06-23 07:53:28  #MKT News
+
+【Smart-glasses privacy under scrutiny after covert in-flight filming; device makers explore data-classification, local storage】A recent incident of smart glasses covertly filming flight attendants has heightened privacy scrutiny of the smart-glasses industry. With shipments approaching tens of millions and devices offering first-person, often always-on capture, manufacturers are exploring data classification, on-device/local storage and algorithmic controls to limit data exposure. Industry participants are urging verifiable privacy protections, transparent collaboration and strict standards to make privacy a core product design principle.
 
 ---
 
@@ -20997,71 +21009,5 @@ Saudi outlet Asharq News reports Lebanese authorities have been informed that Is
 ### 2026-06-22 03:02:04  #其他
 
 英國統計機構承認關鍵就業資料存在新錯誤。
-
----
-
-### 2026-06-22 02:58:16  #MKT News #Important
-
-【Israel to end nationwide public restrictions, including Lebanon border area】CNN reports Israel will end nationwide public restrictions, including those along the Lebanon border, a move cited as a sign of recent ceasefire progress. Israel’s Home Front Command said the current measures will expire at 0600 local on Monday. The restrictions had limited gatherings and school activities in northern communities since the conflict with Iran began three months ago. By Monday morning there will be no nationwide measures affecting schools, work or public gatherings.
-
----
-
-### 2026-06-22 02:55:54  #MKT News
-
-【CSIS: Iran war has cost US about $40 billion】CSIS senior fellow Mark Cancian said a preliminary CSIS analysis estimates the Iran war has cost the US Department of Defense about $40 billion, covering munitions use, equipment losses and base damage; the figure excludes routine combat spending already budgeted in the DoD's FY26 budget of more than $1 trillion. The analysis says other agencies, chiefly the Department of Homeland Security and Veterans Affairs, incurred roughly $1 billion in costs. US pump prices rose from a national average below $3/gal to above $4/gal for much of the conflict; Brown University energy-cost tracking estimates the average household would have spent at least $253 less without the war. Inflation outpaced average wage growth in April and May, effectively eroding pay for the first time since 2023.
-
----
-
-### 2026-06-22 02:53:44  #國際
-
-烏克蘭總統澤連斯基：波蘭總統納夫羅茨基正走著和歐爾班一樣的路，最終只會釀成糟糕的後果；納夫羅茨基企圖透過煽動反烏情緒攫取政治利益。
-
----
-
-### 2026-06-22 02:45:56  #國際
-
-以色列解除該國北部所有與戰事相關的集會限制。
-
----
-
-### 2026-06-22 02:42:08  #公司
-
-持有坦克製造商KNDS半數股權的家族股東，同意向德國政府出售40%股份。
-
----
-
-### 2026-06-22 02:38:48  #MKT News
-
-Israel's Prime Minister Netanyahu said that for every one civilian wounded, five terrorists have been eliminated, a 5-to-1 ratio he called unprecedented.
-
----
-
-### 2026-06-22 02:38:14  #國際
-
-以色列總理內塔尼亞胡：我們在加沙設立了“安全區”，我們在敘利亞設立了“安全區”，我們在黎巴嫩設立了“安全區”，只要有必要，我們就會一直保留下去。
-
----
-
-### 2026-06-22 02:37:51  #國際
-
-以色列總理內塔尼亞胡：多年來一直有人跟我們說“你們不能打擊伊朗本土。”雖說摩薩德可以開展行動，我們也確實實施過不少，其中很多都是我批准的。但絕不允許派遣本國軍隊進入伊朗境內。如今我們打破了這條限制。我們派遣英勇的飛行員飛越了伊朗上空。
-
----
-
-### 2026-06-22 02:37:05  #國際
-
-以色列總理內塔尼亞胡：恐怖分子不僅以平民為襲擊目標，還藏身於平民之中。他們此舉犯下雙重戰爭罪行。我們的打擊目標是恐怖分子，但任何此類戰爭都會造成部分平民傷亡。
-
----
-
-### 2026-06-22 02:36:18  #MKT News
-
-Cuban president says long-time revolutionary leader and Castro ally Ramiro Valdés has died.
-
----
-
-### 2026-06-22 02:35:55  #國際
-
-巴基斯坦總理稱讚伊朗以不失尊嚴的方式處理危機，肯定伊朗方面的處事姿態。
 
 ---

@@ -1,7 +1,25 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-06-29 02:35:35_
-_本檔包含 3661 則快訊，約 666086 字_
+_更新時間：2026-06-29 02:59:22_
+_本檔包含 3663 則快訊，約 665504 字_
+
+---
+
+### 2026-06-26 12:43:59  #公司
+
+【祥睿錦英與派能科技達成戰略合作】據美錦能源訊息，6月25日，北京祥睿錦英新型儲能裝備科技有限公司與上海派能能源科技股份有限公司簽署戰略合作協議。雙方落地400MWh獨立儲能電站專案，並簽訂2GWh大容量電池框架協議，圍繞儲能電芯研發、系統整合、產業鏈協同及市場拓展開展全方位深度合作。美錦能源是祥睿錦英的參股方。依託美錦能源氫能與傳統能源產業基底，三方協同將加速儲能專案規模化落地。
+
+---
+
+### 2026-06-26 12:43:33  #其他
+
+【青茂口岸6月26日正式啟用智慧通關】記者今日從珠海出入境邊防檢查總站青茂邊檢站獲悉，青茂口岸自6月26日起正式啟用智慧通關。 據悉，該口岸出入境旅檢大廳的快捷通道，自6月26日起，支援“刷臉”通行。旅客只需要對著通道前的顯示屏“刷臉”，便可匹配出個人資訊，無需出示證件即可快速進入快捷通道。
+
+---
+
+### 2026-06-26 12:43:32  #MKT News
+
+IAEA Director General GROSSI said the agency's existence is essential to ensuring the credibility of a U.S.-Iran agreement.
 
 ---
 
@@ -22048,11 +22066,5 @@ CSI 300 index futures main contract (IF) broke above 4,900, posting an intraday 
 ### 2026-06-25 11:16:15  #其他
 
 【生態環境部：嚴防汛期水質出現大幅波動】生態環境部今天（25日）舉行6月例行新聞釋出會，有關負責人介紹，當前我國已進入主汛期，針對汛期水質容易出現大幅波動的嚴峻形勢，生態環境部已聞汛而動，作出安排部署。生態環境部水生態環境司司長蔣火華介紹，汛期是檢驗水生態環境質量保障能力的一場“大考”。一些地方旱季“藏汙納垢”、雨季“零存整取”問題突出。從監測資料來看，汛期水質會出現大幅波動，每年6—9月全國I至Ⅲ類水質比例平均下降10個百分點，這與秋冬季容易出現重汙染天氣的情況類似。生態環境部已做出系統部署，加強風險隱患排查整治，做到早識別、早排查、早整改。充分發揮水質自動監測站作用，逐一識別汛期問題斷面，督促指導地方加密監測頻次，最佳化防控措施。對‌白洋淀、洱海、丹江口水庫和太湖、巢湖、滇池‌等新老“三湖”，及贛江、漢江等24個重點水體，及時啟動大面積水華“一湖一策”應對方案。密切關注氣象水文動態，強化應急值守和資訊報告，一旦發生突發水汙染事件，迅速啟動應急響應，及時妥善處理處置。對汛期水質異常波動等問題，生態環境部將及時開展分析會商，點對點指導地方查明原因、加快整改。同時還推動流域上下游、左右岸共同研判風險、協同制定對策，避免“上游排汙、下游買單”“左岸治理、右岸反彈”等，形成問題交辦、整改落實、跟蹤問效的閉環管理。
-
----
-
-### 2026-06-25 11:15:57  #Trading Economics #Economy #Australia #Government Bond 10Y #Importance 1
-
-Australia 10Y Yield Holds Near 4-Month Low — Australia’s 10-year government bond yield held around 4.7%, sitting near a four-month low, as falling oil prices and narrowing yield spreads driven by a hawkish US policy outlook outweighed a rebound in domestic employment data. The economy added 40,300 jobs in May, rebounding from a revised decline of 40,600 in April and above market forecasts for a 30,000 increase, while the unemployment rate dipped to 4.4% from 4.5%, as expected. The latest jobs data followed Wednesday’s mixed inflation figures, which left markets split on another rate hike, priced at around 50% by year-end. Meanwhile, mounting wagers on US interest rate hikes have helped Australian bonds outperform Treasuries, shrinking the Aussie's yield premium. Last week, the Fed signaled growing support for tighter monetary policy, with Chair Kevin Warsh reaffirming his commitment to restoring price stability. Progress in US-Iran peace talks have also pushed oil prices back to pre-conflict levels and eased inflation concerns.
 
 ---

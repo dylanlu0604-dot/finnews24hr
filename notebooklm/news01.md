@@ -1,7 +1,43 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-06-29 02:35:35_
-_本檔包含 3492 則快訊，約 665661 字_
+_更新時間：2026-06-29 02:59:22_
+_本檔包含 3495 則快訊，約 665557 字_
+
+---
+
+### 2026-06-29 02:52:10  #國際
+
+埃及內閣週日宣佈，埃及已批准四家國有企業參與政府私有化計劃的初步登記。
+
+---
+
+### 2026-06-29 02:50:01  #國際
+
+特朗普：全新高爾夫球場改造工程將於9月1日動工。
+
+---
+
+### 2026-06-29 02:46:31  #MKT News
+
+Trump said he was determined to build one of the world’s greatest golf courses in Washington and open it to the public.
+
+---
+
+### 2026-06-29 02:45:50  #國際
+
+特朗普：一定會在華盛頓建成世界頂級高爾夫球場之一，並且該球場將對公眾開放。
+
+---
+
+### 2026-06-29 02:45:27  #MKT News
+
+President Trump said the Lincoln Memorial Reflecting Pool is fully back in service after sustaining significant damage.
+
+---
+
+### 2026-06-29 02:43:59  #國際
+
+特朗普：此前受損嚴重的倒影池現已全面投入使用。
 
 ---
 
@@ -21119,23 +21155,5 @@ South Korean Won Hits Three-Week Low — The South Korean won weakened toward 1,
 ### 2026-06-26 12:44:39  #MKT News #Market Regions #Greater China
 
 【Xiangrui Jinying, Painen sign 400 MWh storage project and 2 GWh battery framework】Beijing Xiangrui Jinying New Energy Storage Equipment Technology Co and Shanghai Painen Energy Technology Co signed a strategic cooperation to develop a 400 MWh standalone energy storage power station and a 2 GWh battery framework. The agreement covers cell R&D, system integration, supply-chain coordination and market expansion. Meijin Energy, a shareholder in Xiangrui Jinying, will leverage its hydrogen and conventional energy platforms to support the three-party effort and accelerate large-scale roll-out of storage projects in China.
-
----
-
-### 2026-06-26 12:43:59  #公司
-
-【祥睿錦英與派能科技達成戰略合作】據美錦能源訊息，6月25日，北京祥睿錦英新型儲能裝備科技有限公司與上海派能能源科技股份有限公司簽署戰略合作協議。雙方落地400MWh獨立儲能電站專案，並簽訂2GWh大容量電池框架協議，圍繞儲能電芯研發、系統整合、產業鏈協同及市場拓展開展全方位深度合作。美錦能源是祥睿錦英的參股方。依託美錦能源氫能與傳統能源產業基底，三方協同將加速儲能專案規模化落地。
-
----
-
-### 2026-06-26 12:43:33  #其他
-
-【青茂口岸6月26日正式啟用智慧通關】記者今日從珠海出入境邊防檢查總站青茂邊檢站獲悉，青茂口岸自6月26日起正式啟用智慧通關。 據悉，該口岸出入境旅檢大廳的快捷通道，自6月26日起，支援“刷臉”通行。旅客只需要對著通道前的顯示屏“刷臉”，便可匹配出個人資訊，無需出示證件即可快速進入快捷通道。
-
----
-
-### 2026-06-26 12:43:32  #MKT News
-
-IAEA Director General GROSSI said the agency's existence is essential to ensuring the credibility of a U.S.-Iran agreement.
 
 ---

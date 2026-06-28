@@ -1,7 +1,43 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-06-29 02:35:35_
-_本檔包含 3494 則快訊，約 665243 字_
+_更新時間：2026-06-29 02:59:22_
+_本檔包含 3498 則快訊，約 665202 字_
+
+---
+
+### 2026-06-24 09:20:51  #MKT News #Important #Market Themes #China EV Leaders #China Tech Giants #Hang Seng Index #Impact bullish #09866.HK #09888.HK
+
+At the Hong Kong open the Hang Seng rose 0.36% and the Hang Seng Tech Index gained 0.48%. Technology names led advances: NIO-SW (09866.HK) up about 5%, Baidu (09888.HK) up about 3%.
+
+---
+
+### 2026-06-24 09:20:36  #MKT News #Important #Market Regions #Greater China #CNH #Impact bullish
+
+PBOC conducted CNY 662.5 bln 7-day reverse repo today; bids CNY 662.5 bln, allotment CNY 662.5 bln; rate 1.40%, unchanged from prior operation.
+
+---
+
+### 2026-06-24 09:20:34  #央行 #其他
+
+央行今日開展6625億元7天逆回購操作，投標量6625億元，中標量6625億元，操作利率為1.40%，與此前持平。
+
+---
+
+### 2026-06-24 09:20:29  #國際
+
+美國國務卿魯比奧將於當地時間上午11:00在阿布扎比會見阿聯酋總統。
+
+---
+
+### 2026-06-24 09:20:06  #MKT News #Important #AUDUSD #Impact mixed
+
+Australia's May CPI (not seasonally adjusted) YoY is due in 10 minutes.
+
+---
+
+### 2026-06-24 09:18:01  #Trading Economics #Markets #Australia #Stock Market #Importance 1
+
+Australia Stocks Hold Steady Ahead of CPI Data — Australian shares were little changed in Wednesday morning trade, hovering near 8,789 after four straight sessions of losses and lingering at their lowest level in over a week. Traders awaited May CPI data later today, with forecasts pointing to faster annual inflation after April’s 4.2% but a rare monthly decline, the first in nine months. Labor market figures due Thursday also kept sentiment cautious. Meanwhile, U.S. equity futures were muted after a sharp selloff in tech and chipmakers dragged Wall Street lower overnight. Gains in tech services, consumer, healthcare, and commercial sectors helped offset weakness in non-energy and energy minerals. Early local movers included Lynas Rare Earths (2.5%), CSL Ltd. (2.3%), and Aristocrat Leisure (1.5%). In the meantime, two of the four big banks also posted modest gains. On the downside, Genesis Minerals slipped 3.6%, followed by Greatland Resources (-3.5%), Insurance Australia Group (-2.2%), and Perseus Mining (-1.4%).
 
 ---
 
@@ -21079,17 +21115,5 @@ South Korea's KOSPI opened down 13.46 points, or 0.15%, at 9,101.09 on Tuesday, 
 ### 2026-06-23 07:54:18  #公司 #國際
 
 【不當大廠碼農，美國應屆計算機畢業生競逐“創始人”賽道】最新研究顯示，創辦初創公司正成為越來越多電腦科學畢業生的首選。充裕的資金、風投的濃厚興趣，加上自動化程式設計技術的進步，共同推動許多畢業生走上了創始人之路。與此同時，在軟體工程等領域，僱主越來越青睞有經驗的求職者，導致應屆生就業機會縮水，這也迫使許多人另尋出路，自己當起了老闆。風投公司SignalFire的一份新報告顯示，在美國20所大學中，已就業的2025屆電腦科學畢業生裡，身份標註為“創始人”的比例翻了一番，達到6%，而2022屆的這一比例僅為2.9%。該報告分析了每年超過1萬名學士學位獲得者的領英個人資料。
-
----
-
-### 2026-06-23 07:53:37  #Trading Economics #Markets #Commodity #Importance 2
-
-Gold Steady as Iran Talks Ease Inflation Concerns — Gold held near $4,200 an ounce on Tuesday, maintaining gains from the previous session as early signs of progress in ongoing peace talks between the US and Iran helped ease concerns about inflation. In a significant development, Washington issued Iran a 60-day license to sell oil on international markets, fueling expectations of a faster recovery in global supply. Shipping activity through the Strait of Hormuz has also increased, with producers such as Kuwait and the United Arab Emirates finding alternative ways to export energy, while Iran shipped more than 30 million barrels over the past week. Gold has come under constant pressure since the Middle East conflict erupted in late February, as disruptions to energy flows through Hormuz drove oil prices higher and reinforced expectations that central banks raise interest rates to contain inflation.
-
----
-
-### 2026-06-23 07:53:28  #MKT News
-
-【Smart-glasses privacy under scrutiny after covert in-flight filming; device makers explore data-classification, local storage】A recent incident of smart glasses covertly filming flight attendants has heightened privacy scrutiny of the smart-glasses industry. With shipments approaching tens of millions and devices offering first-person, often always-on capture, manufacturers are exploring data classification, on-device/local storage and algorithmic controls to limit data exposure. Industry participants are urging verifiable privacy protections, transparent collaboration and strict standards to make privacy a core product design principle.
 
 ---

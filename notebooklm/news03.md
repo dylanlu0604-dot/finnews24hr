@@ -1,7 +1,13 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-06-29 02:35:35_
-_本檔包含 3837 則快訊，約 665453 字_
+_更新時間：2026-06-29 02:59:22_
+_本檔包含 3832 則快訊，約 664981 字_
+
+---
+
+### 2026-06-25 11:15:57  #Trading Economics #Economy #Australia #Government Bond 10Y #Importance 1
+
+Australia 10Y Yield Holds Near 4-Month Low — Australia’s 10-year government bond yield held around 4.7%, sitting near a four-month low, as falling oil prices and narrowing yield spreads driven by a hawkish US policy outlook outweighed a rebound in domestic employment data. The economy added 40,300 jobs in May, rebounding from a revised decline of 40,600 in April and above market forecasts for a 30,000 increase, while the unemployment rate dipped to 4.4% from 4.5%, as expected. The latest jobs data followed Wednesday’s mixed inflation figures, which left markets split on another rate hike, priced at around 50% by year-end. Meanwhile, mounting wagers on US interest rate hikes have helped Australian bonds outperform Treasuries, shrinking the Aussie's yield premium. Last week, the Fed signaled growing support for tighter monetary policy, with Chair Kevin Warsh reaffirming his commitment to restoring price stability. Progress in US-Iran peace talks have also pushed oil prices back to pre-conflict levels and eased inflation concerns.
 
 ---
 
@@ -23096,41 +23102,5 @@ A-shares at the open: Shanghai Composite down 0.39%, Shenzhen Composite down 0.4
 ### 2026-06-24 09:20:59  #MKT News #HSI #Impact bullish #HSCEI #HSTECH
 
 Hong Kong's Hang Seng Index (HSI) opened June 24 (Wednesday) up 84.42 points, or 0.36%, at 23,420.7; the Hang Seng Technology Index rose 21.19 points, or 0.48%, to 4,420.41; the Hang Seng China Enterprises Index (HSCEI) added 32.77 points, or 0.42%, to 7,792.13; the Hang Seng Red Chip Index was up 13.58 points, or 0.35%, at 3,902.26.
-
----
-
-### 2026-06-24 09:20:51  #MKT News #Important #Market Themes #China EV Leaders #China Tech Giants #Hang Seng Index #Impact bullish #09866.HK #09888.HK
-
-At the Hong Kong open the Hang Seng rose 0.36% and the Hang Seng Tech Index gained 0.48%. Technology names led advances: NIO-SW (09866.HK) up about 5%, Baidu (09888.HK) up about 3%.
-
----
-
-### 2026-06-24 09:20:36  #MKT News #Important #Market Regions #Greater China #CNH #Impact bullish
-
-PBOC conducted CNY 662.5 bln 7-day reverse repo today; bids CNY 662.5 bln, allotment CNY 662.5 bln; rate 1.40%, unchanged from prior operation.
-
----
-
-### 2026-06-24 09:20:34  #央行 #其他
-
-央行今日開展6625億元7天逆回購操作，投標量6625億元，中標量6625億元，操作利率為1.40%，與此前持平。
-
----
-
-### 2026-06-24 09:20:29  #國際
-
-美國國務卿魯比奧將於當地時間上午11:00在阿布扎比會見阿聯酋總統。
-
----
-
-### 2026-06-24 09:20:06  #MKT News #Important #AUDUSD #Impact mixed
-
-Australia's May CPI (not seasonally adjusted) YoY is due in 10 minutes.
-
----
-
-### 2026-06-24 09:18:01  #Trading Economics #Markets #Australia #Stock Market #Importance 1
-
-Australia Stocks Hold Steady Ahead of CPI Data — Australian shares were little changed in Wednesday morning trade, hovering near 8,789 after four straight sessions of losses and lingering at their lowest level in over a week. Traders awaited May CPI data later today, with forecasts pointing to faster annual inflation after April’s 4.2% but a rare monthly decline, the first in nine months. Labor market figures due Thursday also kept sentiment cautious. Meanwhile, U.S. equity futures were muted after a sharp selloff in tech and chipmakers dragged Wall Street lower overnight. Gains in tech services, consumer, healthcare, and commercial sectors helped offset weakness in non-energy and energy minerals. Early local movers included Lynas Rare Earths (2.5%), CSL Ltd. (2.3%), and Aristocrat Leisure (1.5%). In the meantime, two of the four big banks also posted modest gains. On the downside, Genesis Minerals slipped 3.6%, followed by Greatland Resources (-3.5%), Insurance Australia Group (-2.2%), and Perseus Mining (-1.4%).
 
 ---
