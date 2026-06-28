@@ -1,7 +1,18 @@
 {
-  "updated": "2026-06-29 00:24:16",
-  "count": 17984,
+  "updated": "2026-06-29 00:28:19",
+  "count": 17983,
   "items": [
+    {
+      "id": "mkt:019f0f0c-82fd-7aab-8c01-ab7a710b0bc5",
+      "time": "2026-06-29 00:25:05",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Richmond Fed President Barkin, a 2027 FOMC voting member, is scheduled to speak in ten minutes."
+    },
     {
       "id": "mkt:019f0f08-c3d8-7aab-8c01-a081969ad86d",
       "time": "2026-06-29 00:21:00",
@@ -164571,22 +164582,6 @@
         "WTI"
       ],
       "text": "【Israel says it killed more than 20 Hezbollah fighters in southern Lebanon】On the 21st the IDF said it discovered an underground tunnel with four shafts and hundreds of weapons beneath the southern Lebanese village of Majdal Zoun, about 10 km from the Israel-Lebanon border, and that the 551st Brigade of its 91st Division is conducting operations there. The IDF said it killed more than 20 Hezbollah fighters during the operation, including over 10 members of the elite Radwan unit, and destroyed more than 50 military sites including observation posts and weapons storage facilities."
-    },
-    {
-      "id": "4946584",
-      "time": "2026-06-22 00:27:07",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗塔斯尼姆通訊社稱，特朗普近期發表的威脅言論致使瑞士談判陷入暫停，也給談判程序帶來極大不確定性。"
-    },
-    {
-      "id": "4946583",
-      "time": "2026-06-22 00:24:22",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗稱，特朗普發表的威脅言論致使美伊瑞士談判中止。"
     }
   ]
 }
