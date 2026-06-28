@@ -1,7 +1,27 @@
 {
-  "updated": "2026-06-28 14:06:07",
+  "updated": "2026-06-28 14:09:58",
   "count": 18157,
   "items": [
+    {
+      "id": "mkt:019f0cd8-84de-7770-9d1d-10d47648a5f4",
+      "time": "2026-06-28 14:09:04",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Bahrain's interior ministry said a residential building was damaged in an attack by Iran; no fatalities were reported."
+    },
+    {
+      "id": "4958764",
+      "time": "2026-06-28 14:08:03",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【本週13股獲南向資金持股量環比增長超20%】本週南向資金合計成交淨買入89.24億港元，指數低位堅定加倉。從持股量變化來看，本週13股獲南向資金持股量環比增長超20%，藥捷安康-B居首，環比增長142.51%，其他還有國富量子、壁仞科技、建滔集團持股量環比增幅居前，持股量環比增幅分別為83.57%、52.95%、40.42%。 (證券時報)"
+    },
     {
       "id": "mkt:019f0ccf-8ad4-7770-9d1d-0b78a707471e",
       "time": "2026-06-28 13:59:15",
@@ -166159,22 +166179,6 @@
         "XAUUSD"
       ],
       "text": "Iran's government says its negotiating delegation is ready to begin diplomatic consultations soon."
-    },
-    {
-      "id": "mkt:019ee8cc-69f3-7dd8-b0a3-9174b0c7dac6",
-      "time": "2026-06-21 14:09:30",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Swiss foreign ministry said a US delegation is en route to Birgen Mountain."
-    },
-    {
-      "id": "4946168",
-      "time": "2026-06-21 14:07:05",
-      "tags": [
-        "國際"
-      ],
-      "text": "【瑞士外交部證實美國代表團抵達瑞士】瑞士外交部今天（6月21日）在社交媒體上表示歡迎美國代表團抵達瑞士，並稱美國代表團正在前往比爾根山的途中。（CCTV國際時訊）"
     }
   ]
 }
