@@ -1,7 +1,40 @@
 {
-  "updated": "2026-06-28 21:29:23",
-  "count": 18045,
+  "updated": "2026-06-28 21:33:19",
+  "count": 18043,
   "items": [
+    {
+      "id": "mkt:019f0e6e-b364-7aab-8c01-48e3083dcb5c",
+      "time": "2026-06-28 21:32:43",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "【U.S. UN envoy says Washington will destroy Iranian infrastructure controlling Strait of Hormuz if needed】The U.S. permanent representative to the United Nations said Washington will continue to act as needed to destroy Iranian infrastructure used to control the Strait of Hormuz. He warned Tehran it is mistaken if it believes President Trump will stand aside while Iran attacks shipping and U.S. bases, and said Iran must choose to be a responsible state or risk destruction."
+    },
+    {
+      "id": "4959014",
+      "time": "2026-06-28 21:31:39",
+      "tags": [
+        "其他"
+      ],
+      "text": "【超3200種農產品亮相鄉村特色優勢產業發展大會】新疆的核桃紅棗、寧夏的葡萄酒……6月27日，在第四屆鄉村特色優勢產業發展大會上，超3200種農產品登臺亮相，展現各地鄉村產業振興新發展。在農業農村部等部委指導下，中國鄉村發展志願服務促進會啟動實施鄉村振興特色優勢產業培育工程，支援培育油茶、核桃、油橄欖等9個產業發展。經過四年的不懈努力，鄉村振興特色優勢產業培育工程取得明顯成效。（新華社）"
+    },
+    {
+      "id": "4959013",
+      "time": "2026-06-28 21:31:15",
+      "tags": [
+        "其他"
+      ],
+      "text": "【航行警告 渤海執行軍事任務】據中國海事局網站訊息，唐山海事局釋出航行警告，6月29日0時至6月30日24時，渤海部分海域進行實彈射擊活動，禁止駛入。"
+    },
+    {
+      "id": "4959012",
+      "time": "2026-06-28 21:31:07",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國駐聯合國大使：如果伊朗認為特朗普會在它攻擊航運和我們基地時袖手旁觀，那它就錯了。"
+    },
     {
       "id": "mkt:019f0e63-4ef0-7aab-8c01-42d617fc814e",
       "time": "2026-06-28 21:20:16",
@@ -165112,60 +165145,6 @@
         "國際"
       ],
       "text": "【伊朗代表團拒絕與美方握手合影】據伊朗塔斯尼姆通訊今天（6月21日）報道，一名接近伊朗談判團隊的訊息人士就瑞士談判中斷直播及合影安排表示，美方及會議組織方原計劃在多邊會談開始時安排伊朗與美國代表團共同握手並舉行合影儀式。該人士指出，伊朗談判代表團團長及整個談判團隊對此類禮節安排表示反對，並稱不會與美方代表團共同出席合影環節。該訊息人士補充稱，在伊方拒絕參與後，相關直播及合影儀式在沒有伊朗代表團參與的情況下進行，隨後伊朗代表團才進入會場參加會議。（CCTV國際時訊）"
-    },
-    {
-      "id": "4946495",
-      "time": "2026-06-21 21:31:32",
-      "tags": [
-        "國際"
-      ],
-      "text": "【2026年APEC工商領導人中國論壇在京舉辦】6月21日，2026年APEC工商領導人中國論壇在京成功舉辦。2026年APEC工商領導人峰會主席、中國貿促會會長任鴻斌表示，亞太地區佔世界經濟總量超六成、貿易總量近一半，亞太工商界應同心協力維護以世貿組織為核心的多邊貿易體制，持續推動區域貿易投資自由化便利化，深化亞太經濟一體化程序。今年是中國第三次擔任APEC東道主，也是中國“十五五”開局之年，中國貿促會、中國國際商會願攜手亞太工商界深挖合作潛力，推動產業鏈、供應鏈、價值鏈深度融合，為建設亞太共同體貢獻力量。（中國貿促）"
-    },
-    {
-      "id": "mkt:019eea60-ee8e-7dd8-b0a6-dc72b37517db",
-      "time": "2026-06-21 21:31:21",
-      "tags": [
-        "MKT News",
-        "Important",
-        "WTI",
-        "Impact bullish",
-        "XAUUSD",
-        "DXY"
-      ],
-      "text": "U.S. President Trump said Iran must immediately stop its proxies in Lebanon from provoking incidents, warning that if it does not the United States will strike Iran again, like last week, and more forcefully."
-    },
-    {
-      "id": "4946494",
-      "time": "2026-06-21 21:31:09",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "特朗普：若無法制止（黎巴嫩）代理人勢力，美國將再次強力打擊伊朗。"
-    },
-    {
-      "id": "4946493",
-      "time": "2026-06-21 21:30:41",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：伊朗必須制止其黎巴嫩代理人制造事端。"
-    },
-    {
-      "id": "4946492",
-      "time": "2026-06-21 21:30:14",
-      "tags": [
-        "國際"
-      ],
-      "text": "【萬斯稱美國願與伊朗“從根本上改變雙邊關係”】美國副總統萬斯在與伊朗舉行高階別會談前表示，美國願意與伊朗“從根本上改變雙邊關係”。萬斯表示，伊朗和美國領導層此前從未以如此高的級別舉行會晤。萬斯稱：“總統要求我們開啟新的篇章，改變我們與伊朗人民的關係，並向伊朗人民伸出友誼之手。如果伊朗領導層願意放棄成為‘地區不穩定因素’，如果他們願意長期放棄‘發展核武器的目標’，那麼美國願意從根本上改變與伊朗的關係。”（央視新聞）"
-    },
-    {
-      "id": "4946491",
-      "time": "2026-06-21 21:29:52",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普稱與伊朗達成的諒解備忘錄僅為停火延期協議。"
     }
   ]
 }
