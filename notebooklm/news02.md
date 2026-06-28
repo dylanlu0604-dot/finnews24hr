@@ -1,7 +1,73 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-06-29 02:59:22_
-_本檔包含 3663 則快訊，約 665504 字_
+_更新時間：2026-06-29 03:42:00_
+_本檔包含 3666 則快訊，約 665790 字_
+
+---
+
+### 2026-06-26 12:50:34  #其他
+
+國際原子能機構（IAEA）：扎波羅熱核電站的一條關鍵輸電線及對該核電站核執行至關重要的其他能源基礎設施已完成修復。
+
+---
+
+### 2026-06-26 12:49:25  #市場
+
+【段永平誇泡泡瑪特新品可愛】6月26日，知名投資人段永平（賬號名：大道無形我有型）在社交平臺曬泡泡瑪特新品“復古理髮店”系列，並表示，“確實蠻可愛的。” 6月25日，有報道稱泡泡瑪特新品遇冷，與此前LABUBU系列發售後全線搶購、市場加價的行情不同，本次新品的多個常規款發售後，成交價隨即跌破官方發行價，出現了罕見的“破發”現象。
+
+---
+
+### 2026-06-26 12:48:21  #其他
+
+【深圳市雷雨大風黃色、暴雨黃色預警訊號擴充套件至全市】深圳市氣象臺2026年06月26日12時45分將分割槽雷雨大風黃色、暴雨黃色預警訊號擴充套件至全市，預計2-3小時將出現30-50毫米降水，陣風將達8級或以上，並伴有強雷電，全市處於暴雨戒備狀態。
+
+---
+
+### 2026-06-26 12:47:50  #其他
+
+來福諧波香港IPO價格定在區間的高階。
+
+---
+
+### 2026-06-26 12:47:13  #MKT News #Commodities #Energy
+
+IAEA said repairs to the site's transmission line are not expected to be completed in the near term but remain under way.
+
+---
+
+### 2026-06-26 12:47:09  #國際
+
+菲律賓數字支付巨頭GCash的所有者尋求透過該國史上最大規模的首次公開發行(IPO)融資至多15億美元。
+
+---
+
+### 2026-06-26 12:46:41  #MKT News
+
+IAEA: The Dniprovska 750 kV transmission line remains out of service after the connecting substation sustained severe damage.
+
+---
+
+### 2026-06-26 12:46:21  #國際
+
+【阿根廷強調在國際法框架下維護馬島主權】阿根廷外交部長巴勃羅·基爾諾25日表示，阿根廷政府將在國際法框架下采取一切必要措施，維護對馬爾維納斯群島（簡稱馬島，英國稱福克蘭群島）的主權。阿根廷外交部在一份宣告中說，阿根廷將堅定不移恢復對馬爾維納斯群島、南喬治亞島、南桑威奇群島及周邊海域的主權，強烈反對相關國家企業在主權爭議地區進行油氣勘探和生產活動。聯合國非殖民化特別委員會24日透過決議，敦促英國與阿根廷就馬爾維納斯群島主權爭端進行談判，尋求以和平方式解決這一主權爭端。（新華社）
+
+---
+
+### 2026-06-26 12:45:02  #MKT News #Commodities #Energy
+
+IAEA said repairs to key power lines and other energy infrastructure at the Zaporizhzhia nuclear plant have been completed.
+
+---
+
+### 2026-06-26 12:45:01  #Trading Economics #Markets #South Korea #Currency #Importance 1
+
+South Korean Won Hits Three-Week Low — The South Korean won weakened toward 1,546 per dollar, extending losses to its lowest level in three weeks as a firmer US dollar and persistent foreign equity outflows weighed on the currency. The greenback remained supported after US core inflation reached its highest level since October 2023, reinforcing expectations that the Federal Reserve could keep interest rates higher for longer. At the same time, official data showed offshore investors recorded a record net selloff of Korean stocks in May, reinforcing concerns that persistent foreign equity outflows remain a key headwind for the won, even as the country's AI-driven earnings outlook stays favorable. Limiting further losses, oil prices remained subdued as easing concerns over Middle East supply disruptions improved the outlook for the energy-importing economy. Authorities also rolled out broader discounts on agricultural and fishery products to keep inflation around 3% in the second half following May's 26-month high of 3.1%
+
+---
+
+### 2026-06-26 12:44:39  #MKT News #Market Regions #Greater China
+
+【Xiangrui Jinying, Painen sign 400 MWh storage project and 2 GWh battery framework】Beijing Xiangrui Jinying New Energy Storage Equipment Technology Co and Shanghai Painen Energy Technology Co signed a strategic cooperation to develop a 400 MWh standalone energy storage power station and a 2 GWh battery framework. The agreement covers cell R&D, system integration, supply-chain coordination and market expansion. Meijin Energy, a shareholder in Xiangrui Jinying, will leverage its hydrogen and conventional energy platforms to support the three-party effort and accelerate large-scale roll-out of storage projects in China.
 
 ---
 
@@ -22018,53 +22084,5 @@ FTSE China A50 futures staged a short-term surge, trading more than 2% higher in
 ### 2026-06-25 11:19:19  #宏觀
 
 【生態環境部：五大攻堅行動集中解決“家門口”的突出水環境問題】生態環境部今天（25日）舉行6月例行新聞釋出會，有關負責人介紹，未來，不僅要把大江大河、重要湖泊建成美麗河湖，還要努力把群眾身邊的小微水體建成一個個美麗水細胞，讓老百姓真切感受到河湖之美、生態之變。生態環境部水生態環境司司長 蔣火華：我們聚焦群眾反映的突出問題，會同國家發展改革委、工信部、住建部、水利部、農業農村部精準部署五大攻堅行動：工業園區水汙染整治、縣鄉黑臭水體治理、畜禽糞汙綜合治理、鄉村河湖庫管護、小微水體排查整治。集中力量解決老百姓“家門口”的突出水環境問題，推動群眾身邊水體實現三個基本目標：無異色、無異味、無異物。據介紹，生態環境部將強化源頭治理，緊盯工業、城鎮生活、農業農村三大汙染源，透過強化工業企業汙染防控、加強城鎮生活汙水收集處理、推動養殖業清潔生產、強化入河汙染物管控，從源頭推動生產生活方式綠色低碳轉型，從根本上著力解決水汙染問題。同時加強監測執法，把水質監測網路從大江大河向小微水體延伸，強化對製造、加工、修理等規模以下工業企業以及畜禽養殖場（戶）的現場執法監管，對群眾反覆投訴、久拖不決的水汙染難題推動納入生態環保督察，壓實各方責任，做到群眾身邊水體有人管、管得住、管得好。
-
----
-
-### 2026-06-25 11:19:15  #MKT News #Market Regions #Greater China #CSI300 #Impact bullish #SSE Composite #Hang Seng Index
-
-China's Sci‑Tech Innovation 50 Index rose over 4%, led by Xin Yuan Co., whose shares jumped more than 14%.
-
----
-
-### 2026-06-25 11:18:41  #市場 #焦點
-
-科創50日內漲幅達4.00%，成分股中，芯原股份漲14.95%，佰維儲存漲11.53%，百利天恆漲11.10%，海光資訊漲8.46%。
-
----
-
-### 2026-06-25 11:18:13  #公司 #市場
-
-【算力晶片概念震盪走強 芯原股份漲超10%創歷史新高】算力晶片概念震盪走強，芯原股份漲超10%，創歷史新高，海光資訊、天普股份、寒武紀、翱捷科技、東芯股份等跟漲。
-
----
-
-### 2026-06-25 11:17:22  #MKT News #Market Regions #Greater China
-
-【No limit on fuel–electric swaps; Beijing to allocate 9,600 ordinary passenger‑car quotas by lottery】Beijing Municipal Motor Vehicle Regulation Office said at 10:00 on June 26 the city will allocate 9,600 ordinary passenger‑car quotas for families and individuals, who will enter a single joint lottery pool; an additional 400 quotas will be allocated to companies.
-
----
-
-### 2026-06-25 11:17:18  #其他
-
-【油電切換無次數限制 北京9600個普通小客車指標將搖號配置】從北京市機動車調控管理辦公室獲悉，6月26日10:00，北京市將配置家庭和個人普通小客車指標共計9600個，家庭與個人申請人進入同池搖號；另配置單位普通小客車指標400個。截至2026年3月8日24時的小客車指標申請，經稽核，家庭普通小客車指標申請共計528855個有效編碼，個人普通小客車指標申請共計2546598個有效編碼，單位普通小客車指標申請共計38406家。交通部門特別提示，北京市支援普通小客車指標購置新能源小客車。根據《〈北京市小客車數量調控暫行規定〉實施細則（2025年修訂）》第二十九條規定，持普通小客車指標購置的新能源小客車在出售、報廢后，可以申請普通小客車更新指標。按此規定，普通指標可自由切換購置燃油車或新能源車。
-
----
-
-### 2026-06-25 11:17:00  #MKT News #Market Regions #Greater China #CSI300 #Impact bullish
-
-CSI 300 index futures main contract (IF) broke above 4,900, posting an intraday gain of 1.41%.
-
----
-
-### 2026-06-25 11:16:41  #MKT News
-
-【China MEE moves to prevent large water-quality swings in main flood season】China's Ministry of Ecology and Environment (MEE) said at its June 25 regular press briefing that, with the country in the main flood season, it has mobilised to prevent large fluctuations in water quality. The MEE will hold prompt analysis meetings on abnormal water-quality swings, provide point-to-point guidance to local authorities to identify causes and speed remediation, and push basin-wide coordination — including upstream-downstream and left-right bank joint risk assessments and coordinated countermeasures — to prevent pollution being shifted downstream or between banks. The ministry said it will enforce closed-loop management covering problem assignment, rectification and follow-up.
-
----
-
-### 2026-06-25 11:16:15  #其他
-
-【生態環境部：嚴防汛期水質出現大幅波動】生態環境部今天（25日）舉行6月例行新聞釋出會，有關負責人介紹，當前我國已進入主汛期，針對汛期水質容易出現大幅波動的嚴峻形勢，生態環境部已聞汛而動，作出安排部署。生態環境部水生態環境司司長蔣火華介紹，汛期是檢驗水生態環境質量保障能力的一場“大考”。一些地方旱季“藏汙納垢”、雨季“零存整取”問題突出。從監測資料來看，汛期水質會出現大幅波動，每年6—9月全國I至Ⅲ類水質比例平均下降10個百分點，這與秋冬季容易出現重汙染天氣的情況類似。生態環境部已做出系統部署，加強風險隱患排查整治，做到早識別、早排查、早整改。充分發揮水質自動監測站作用，逐一識別汛期問題斷面，督促指導地方加密監測頻次，最佳化防控措施。對‌白洋淀、洱海、丹江口水庫和太湖、巢湖、滇池‌等新老“三湖”，及贛江、漢江等24個重點水體，及時啟動大面積水華“一湖一策”應對方案。密切關注氣象水文動態，強化應急值守和資訊報告，一旦發生突發水汙染事件，迅速啟動應急響應，及時妥善處理處置。對汛期水質異常波動等問題，生態環境部將及時開展分析會商，點對點指導地方查明原因、加快整改。同時還推動流域上下游、左右岸共同研判風險、協同制定對策，避免“上游排汙、下游買單”“左岸治理、右岸反彈”等，形成問題交辦、整改落實、跟蹤問效的閉環管理。
 
 ---

@@ -1,7 +1,79 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-06-29 02:59:22_
-_本檔包含 3498 則快訊，約 665202 字_
+_更新時間：2026-06-29 03:42:00_
+_本檔包含 3509 則快訊，約 666484 字_
+
+---
+
+### 2026-06-24 09:25:52  #市場
+
+仙工智慧香港首日掛牌開盤報101.6港元，與招股價持平。
+
+---
+
+### 2026-06-24 09:25:34  #MKT News #Important #Market Regions #Greater China #SSE Composite #Impact bearish #SZSE Component
+
+A-shares at the open: Shanghai Composite down 0.39%, Shenzhen Composite down 0.45%, ChiNext Index down 0.25%. New listing N Zhenbao surged 905% on its first day.
+
+---
+
+### 2026-06-24 09:25:26  #焦點
+
+三大股指低開，滬指跌0.39％，深成指跌0.45％，創業板跌0.25％。
+
+---
+
+### 2026-06-24 09:24:35  #央行 #國際
+
+馬來西亞央行就外匯流入發表評論後，林吉特跌幅收窄。
+
+---
+
+### 2026-06-24 09:23:41  #市場
+
+【港股醫藥股走強 和譽漲近5%】截至發稿，和譽-B(02256.HK)漲4.67%，銀諾醫藥-B(02591.HK)漲4.27%，康諾亞-B(02162.HK)漲3.39%，再鼎醫藥(09688.HK)漲2.88%。
+
+---
+
+### 2026-06-24 09:22:16  #公司 #國際
+
+韓國總統政策室長：三星和SK海力士的新晶片叢集計劃已進入最後階段。
+
+---
+
+### 2026-06-24 09:21:49  #MKT News #Important #Market Regions #Greater China #CNH #Impact bearish
+
+【PBOC nets CNY 242.2 bln via 7-day reverse repos】PBOC conducted CNY 662.5 bln of 7-day reverse repo operations today; CNY 420.3 bln matured, resulting in a net liquidity injection of CNY 242.2 bln into the open market.
+
+---
+
+### 2026-06-24 09:21:47  #央行 #中國央行
+
+【央行今日開展6625億元7天逆回購操作】央行今日開展6625億元7天逆回購操作，操作利率為1.40%，與此前持平。
+
+---
+
+### 2026-06-24 09:21:37  #央行 #其他
+
+央行公開市場今日淨投放2,422.0億元人民幣。
+
+---
+
+### 2026-06-24 09:21:07  #MKT News #WTI #Impact bearish #Brent
+
+【Senate approves resolution requiring Trump to end military action against Iran】On June 23 the U.S. Senate passed a resolution limiting presidential war powers that directs President Trump to end U.S. military operations against Iran and requires congressional authorization before any future military action against Iran. The measure, previously approved by the House, passed 50-48; four Republicans joined the large majority of Senate Democrats in voting yes and two Republican senators were absent.
+
+---
+
+### 2026-06-24 09:21:00
+
+港股恒指高開漲0.36％，國企指數漲0.42％，科指開漲0.48%，科技股多數走強。
+
+---
+
+### 2026-06-24 09:20:59  #MKT News #HSI #Impact bullish #HSCEI #HSTECH
+
+Hong Kong's Hang Seng Index (HSI) opened June 24 (Wednesday) up 84.42 points, or 0.36%, at 23,420.7; the Hang Seng Technology Index rose 21.19 points, or 0.48%, to 4,420.41; the Hang Seng China Enterprises Index (HSCEI) added 32.77 points, or 0.42%, to 7,792.13; the Hang Seng Red Chip Index was up 13.58 points, or 0.35%, at 3,902.26.
 
 ---
 
@@ -21109,11 +21181,5 @@ South Korea's KOSPI opened down 13.46 points, or 0.15%, at 9,101.09 on Tuesday, 
 ### 2026-06-23 07:54:51  #MKT News #Market Themes #AI Revolution #CSI300 #Impact bullish #Hang Seng Index
 
 【CITIC Securities: Non-bank financials poised for multiple catalysts】CITIC Securities says this edition of the Lujiazui Forum should exert three constructive forces on non-bank finance: capital markets supplying incremental financing, an improved regulatory framework, and liquidity measures to curb risk. Securities firms are the most direct beneficiaries: the STAR Market’s fifth-set standards have been widened to cover AI large models, and combined with derivatives liberalization and cross-border business innovation, investment banking and FICC show clear upside. Insurance reforms to align reporting and banking (reporting-and-banking unification) should compress channel fees and liability costs; cleanup of disorderly competition will accelerate consolidation and reinforce compliance advantages at top insurers. The PBOC has created a liquidity support facility for non-banks, building a multi-layered risk-mitigation mechanism. Direct financing’s share has overtaken bank loans for the first time, providing structural support to brokers’ long-term ROE. Analysts recommend focusing on leading brokerages and insurers with compliance strength. Insurance sector valuations look attractive; current share prices overstate near-term earnings drag from low rates and high base effects, while asset-side recovery could boost Q2 profit growth and trigger price repair.
-
----
-
-### 2026-06-23 07:54:18  #公司 #國際
-
-【不當大廠碼農，美國應屆計算機畢業生競逐“創始人”賽道】最新研究顯示，創辦初創公司正成為越來越多電腦科學畢業生的首選。充裕的資金、風投的濃厚興趣，加上自動化程式設計技術的進步，共同推動許多畢業生走上了創始人之路。與此同時，在軟體工程等領域，僱主越來越青睞有經驗的求職者，導致應屆生就業機會縮水，這也迫使許多人另尋出路，自己當起了老闆。風投公司SignalFire的一份新報告顯示，在美國20所大學中，已就業的2025屆電腦科學畢業生裡，身份標註為“創始人”的比例翻了一番，達到6%，而2022屆的這一比例僅為2.9%。該報告分析了每年超過1萬名學士學位獲得者的領英個人資料。
 
 ---

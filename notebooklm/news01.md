@@ -1,7 +1,188 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-06-29 02:59:22_
-_本檔包含 3495 則快訊，約 665557 字_
+_更新時間：2026-06-29 03:42:00_
+_本檔包含 3514 則快訊，約 665683 字_
+
+---
+
+### 2026-06-29 03:40:01  #MKT News #Important #WTI #Impact bullish #XAUUSD
+
+Iranian state television quoted Iranian officials saying Iran did not attend technical talks scheduled for Sunday, citing recent attacks and unmet conditions.
+
+---
+
+### 2026-06-29 03:37:46  #焦點 #國際
+
+伊朗官員：因近期遭遇襲擊且相關條件未得到滿足，伊朗未參加原定於週日舉行的技術性會談。
+
+---
+
+### 2026-06-29 03:37:21  #市場
+
+悉尼早盤交易中，美元兌G10主要貨幣匯率呈現區間震盪。
+
+---
+
+### 2026-06-29 03:36:01  #國際
+
+【特朗普稱將與民主黨熱門華盛頓特區市長候選人會面】美國總統特朗普表示，他計劃會見珍妮絲·劉易斯·喬治，後者在華盛頓特區市長民主黨初選中勝出。特朗普在社交平臺發文稱：“我將會見珍妮絲·劉易斯·喬治，但我必須提醒所有人，華盛頓特區要重新變回安全、體面的城區。”特朗普並未透露會面具體時間。
+
+---
+
+### 2026-06-29 03:32:41  #MKT News
+
+【Grenade attack on police checkpoint in Pakistan's Quetta injures six】Pakistani police said on the 29th a grenade attack on a police checkpoint in Quetta, Balochistan, on the night of the 28th wounded six people, including two policemen. Security forces were immediately dispatched to the scene.
+
+---
+
+### 2026-06-29 03:32:28  #其他
+
+【巴基斯坦一警方檢查站發生手榴彈襲擊事件 6人受傷】巴基斯坦警方當地時間29日通報，巴基斯坦俾路支省奎達市一警方檢查站28日夜間發生一起手榴彈襲擊事件，造成包括2名警察在內的六人受傷。襲擊發生後，大批巴安全部隊隨即趕赴現場。（央視新聞）
+
+---
+
+### 2026-06-29 03:28:41  #國際
+
+美國地質調查局：菲律賓卡圖代西北偏西68公里處發生5.0級地震。
+
+---
+
+### 2026-06-29 03:26:37  #其他
+
+【國際清算銀行警告全球經濟面臨多重壓力】總部設於瑞士巴塞爾的國際清算銀行當地時間28日釋出報告稱，當前全球經濟增長面臨多重壓力，包括人工智慧熱潮或難持續、金融體系存在脆弱性、公共財政緊張以及通脹上行等。
+
+---
+
+### 2026-06-29 03:25:20  #MKT News #Commodities #Energy #WTI #Impact mixed #Brent
+
+Russian President Putin urged oil refineries to accelerate maintenance and for fuel imports to be arranged promptly.
+
+---
+
+### 2026-06-29 03:25:16  #MKT News
+
+Putin said the immediate priority is to increase production of air-defense systems to protect Russian infrastructure from attacks.
+
+---
+
+### 2026-06-29 03:25:10  #MKT News #Commodities #Energy
+
+Putin said fuel stocks in Crimea are sufficient to last several days and that supplies will be secured.
+
+---
+
+### 2026-06-29 03:25:03  #宏觀 #國際
+
+【白宮擔憂英國難兌現國防開支承諾 新首相或將推遲達標時間表】美國白宮方面擔憂英國無法兌現將國防開支提升至國內生產總值5%的承諾，有官員警告稱，部分歐洲盟友當初為迎合特朗普許下了“虛假承諾”。此番擔憂產生之際，安迪·伯納姆即將接替基爾·斯塔默出任英國首相。儘管伯納姆已釋放訊號表示支援增加國防開支，但英國政府即將出臺的國防計劃預計會推遲設定國防開支達到國內生產總值3%的時間表。
+
+---
+
+### 2026-06-29 03:24:18  #國際
+
+普京：克里米亞燃料儲備可維持數日，供應將得到保障。
+
+---
+
+### 2026-06-29 03:24:15  #國際
+
+普京：首要任務是提高防空系統產量，以保護基礎設施免遭襲擊。
+
+---
+
+### 2026-06-29 03:24:07  #國際
+
+普京：煉油廠應加快檢修進度，同時應落實燃油進口安排。
+
+---
+
+### 2026-06-29 03:24:04  #國際
+
+普京：受損設施正快速恢復重建。
+
+---
+
+### 2026-06-29 03:23:35  #市場 #國際
+
+美國部分頭部債券基金經理將五年期美國國債視作平穩度過凱文·沃什執政初期的最優配置標的。
+
+---
+
+### 2026-06-29 03:15:46  #國際
+
+普京：基輔當局要為其在庫爾斯克地區犯下的罪行付出代價，俄方將奪取一片土地，用來修建安全緩衝區。
+
+---
+
+### 2026-06-29 03:15:28  #國際
+
+普京：基輔方面提出一項提議，希望將軍事行動範圍限定在四個地區，即頓涅茨克、盧甘斯克、扎波羅熱與赫爾松。此舉能讓烏克蘭武裝部隊把其他戰線的兵力調往上述四地。在烏軍兵員緊缺的當下，這一提議無異於給基輔當局一條喘息生路。但保全基輔當局，不在我們的計劃之內。
+
+---
+
+### 2026-06-29 03:14:42  #MKT News
+
+Putin said Ukraine's armed forces want to limit military operations to four regions to enable troop redeployment.
+
+---
+
+### 2026-06-29 03:13:47  #其他
+
+大眾汽車計劃終止與博世的自動駕駛合作專案。
+
+---
+
+### 2026-06-29 03:11:37  #國際
+
+普京宣佈，俄方的任務是徹底解放頓巴斯與新俄羅斯地區。
+
+---
+
+### 2026-06-29 03:09:25  #MKT News #Important
+
+【US media: US-Iran technical talks still planned in coming days】The New York Times reported a senior US official said US-Iran technical talks on implementing a memorandum of understanding are still planned in the coming days. Despite recent reciprocal strikes, the official said no meetings have been canceled and the sides are exchanging information via "deconfliction channels".
+
+---
+
+### 2026-06-29 03:07:55  #國際
+
+普京：針對俄羅斯能源基礎設施的襲擊確實引發了供應難題，這一點顯而易見。烏克蘭武裝部隊襲擊俄能源設施確實造成了燃油短缺，但目前短缺狀況尚不嚴峻。
+
+---
+
+### 2026-06-29 03:07:42  #焦點 #國際
+
+一名美國官員向阿拉伯電視臺表示，美伊之間的技術性談判正按既定日程推進。該官員稱，與伊朗的技術性談判並未取消，將於未來數日舉行。
+
+---
+
+### 2026-06-29 03:07:07  #MKT News #WTI #Impact bullish #Brent
+
+Putin said attacks on Russia's energy infrastructure are causing problems.
+
+---
+
+### 2026-06-29 03:07:00  #MKT News #WTI #Impact bearish #Brent
+
+Russian President Putin said all damaged energy facilities are being restored rapidly and that operations retain a substantial safety margin.
+
+---
+
+### 2026-06-29 03:06:36  #國際
+
+普京表示，俄羅斯的燃油短缺問題並不嚴峻。
+
+---
+
+### 2026-06-29 03:06:32  #MKT News
+
+Putin said Russia's fuel shortage is not serious.
+
+---
+
+### 2026-06-29 03:05:20  #國際
+
+特朗普：將會見珍妮絲·劉易斯·喬治。
+注：後者為美國華盛頓特區4區市議員，正在參選華盛頓特區市長，民調大幅領先民主黨初選對手，主打平價住房、育兒普惠、控租金，政策立場與特朗普完全對立。
 
 ---
 
@@ -21089,71 +21270,5 @@ Japan plans to fund a proposed consumption-tax cut by reviewing subsidies rather
 ### 2026-06-26 12:50:49  #Trading Economics #Markets #Indonesia #Currency #Importance 1
 
 Rupiah Set for Weekly Decline — The rupiah traded near IDR 17,950 per U.S. dollar on Friday, extending its recent slide as broad dollar strength persisted after the Fed reinforced its hawkish stance despite holding interest rates steady last week. Locally, traders adopted a cautious approach ahead of June CPI data, with food prices in the spotlight after May’s fastest annual rise in seven months, driven by El Niño’s impact. Worries also mounted that Indonesia’s 72-month trade surplus streak could soon end amid elevated energy imports. The currency fell about 1% so far this week, erasing gains from the prior two periods. Still, weakness was capped by news that the government may trim over USD 2 billion from President Prabowo’s top program to bolster fiscal discipline. Softer oil prices, down toward pre-Iran war levels, eased pressure on the import bill and budget. Meantime, foreign inflows returned so far in June, lifted by around IDR 105 trillion in demand for Bank Indonesia’s one-year securities and government bonds
-
----
-
-### 2026-06-26 12:50:34  #其他
-
-國際原子能機構（IAEA）：扎波羅熱核電站的一條關鍵輸電線及對該核電站核執行至關重要的其他能源基礎設施已完成修復。
-
----
-
-### 2026-06-26 12:49:25  #市場
-
-【段永平誇泡泡瑪特新品可愛】6月26日，知名投資人段永平（賬號名：大道無形我有型）在社交平臺曬泡泡瑪特新品“復古理髮店”系列，並表示，“確實蠻可愛的。” 6月25日，有報道稱泡泡瑪特新品遇冷，與此前LABUBU系列發售後全線搶購、市場加價的行情不同，本次新品的多個常規款發售後，成交價隨即跌破官方發行價，出現了罕見的“破發”現象。
-
----
-
-### 2026-06-26 12:48:21  #其他
-
-【深圳市雷雨大風黃色、暴雨黃色預警訊號擴充套件至全市】深圳市氣象臺2026年06月26日12時45分將分割槽雷雨大風黃色、暴雨黃色預警訊號擴充套件至全市，預計2-3小時將出現30-50毫米降水，陣風將達8級或以上，並伴有強雷電，全市處於暴雨戒備狀態。
-
----
-
-### 2026-06-26 12:47:50  #其他
-
-來福諧波香港IPO價格定在區間的高階。
-
----
-
-### 2026-06-26 12:47:13  #MKT News #Commodities #Energy
-
-IAEA said repairs to the site's transmission line are not expected to be completed in the near term but remain under way.
-
----
-
-### 2026-06-26 12:47:09  #國際
-
-菲律賓數字支付巨頭GCash的所有者尋求透過該國史上最大規模的首次公開發行(IPO)融資至多15億美元。
-
----
-
-### 2026-06-26 12:46:41  #MKT News
-
-IAEA: The Dniprovska 750 kV transmission line remains out of service after the connecting substation sustained severe damage.
-
----
-
-### 2026-06-26 12:46:21  #國際
-
-【阿根廷強調在國際法框架下維護馬島主權】阿根廷外交部長巴勃羅·基爾諾25日表示，阿根廷政府將在國際法框架下采取一切必要措施，維護對馬爾維納斯群島（簡稱馬島，英國稱福克蘭群島）的主權。阿根廷外交部在一份宣告中說，阿根廷將堅定不移恢復對馬爾維納斯群島、南喬治亞島、南桑威奇群島及周邊海域的主權，強烈反對相關國家企業在主權爭議地區進行油氣勘探和生產活動。聯合國非殖民化特別委員會24日透過決議，敦促英國與阿根廷就馬爾維納斯群島主權爭端進行談判，尋求以和平方式解決這一主權爭端。（新華社）
-
----
-
-### 2026-06-26 12:45:02  #MKT News #Commodities #Energy
-
-IAEA said repairs to key power lines and other energy infrastructure at the Zaporizhzhia nuclear plant have been completed.
-
----
-
-### 2026-06-26 12:45:01  #Trading Economics #Markets #South Korea #Currency #Importance 1
-
-South Korean Won Hits Three-Week Low — The South Korean won weakened toward 1,546 per dollar, extending losses to its lowest level in three weeks as a firmer US dollar and persistent foreign equity outflows weighed on the currency. The greenback remained supported after US core inflation reached its highest level since October 2023, reinforcing expectations that the Federal Reserve could keep interest rates higher for longer. At the same time, official data showed offshore investors recorded a record net selloff of Korean stocks in May, reinforcing concerns that persistent foreign equity outflows remain a key headwind for the won, even as the country's AI-driven earnings outlook stays favorable. Limiting further losses, oil prices remained subdued as easing concerns over Middle East supply disruptions improved the outlook for the energy-importing economy. Authorities also rolled out broader discounts on agricultural and fishery products to keep inflation around 3% in the second half following May's 26-month high of 3.1%
-
----
-
-### 2026-06-26 12:44:39  #MKT News #Market Regions #Greater China
-
-【Xiangrui Jinying, Painen sign 400 MWh storage project and 2 GWh battery framework】Beijing Xiangrui Jinying New Energy Storage Equipment Technology Co and Shanghai Painen Energy Technology Co signed a strategic cooperation to develop a 400 MWh standalone energy storage power station and a 2 GWh battery framework. The agreement covers cell R&D, system integration, supply-chain coordination and market expansion. Meijin Energy, a shareholder in Xiangrui Jinying, will leverage its hydrogen and conventional energy platforms to support the three-party effort and accelerate large-scale roll-out of storage projects in China.
 
 ---

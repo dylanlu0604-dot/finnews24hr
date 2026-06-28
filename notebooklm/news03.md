@@ -1,7 +1,55 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-06-29 02:59:22_
-_本檔包含 3832 則快訊，約 664981 字_
+_更新時間：2026-06-29 03:42:00_
+_本檔包含 3828 則快訊，約 665812 字_
+
+---
+
+### 2026-06-25 11:19:15  #MKT News #Market Regions #Greater China #CSI300 #Impact bullish #SSE Composite #Hang Seng Index
+
+China's Sci‑Tech Innovation 50 Index rose over 4%, led by Xin Yuan Co., whose shares jumped more than 14%.
+
+---
+
+### 2026-06-25 11:18:41  #市場 #焦點
+
+科創50日內漲幅達4.00%，成分股中，芯原股份漲14.95%，佰維儲存漲11.53%，百利天恆漲11.10%，海光資訊漲8.46%。
+
+---
+
+### 2026-06-25 11:18:13  #公司 #市場
+
+【算力晶片概念震盪走強 芯原股份漲超10%創歷史新高】算力晶片概念震盪走強，芯原股份漲超10%，創歷史新高，海光資訊、天普股份、寒武紀、翱捷科技、東芯股份等跟漲。
+
+---
+
+### 2026-06-25 11:17:22  #MKT News #Market Regions #Greater China
+
+【No limit on fuel–electric swaps; Beijing to allocate 9,600 ordinary passenger‑car quotas by lottery】Beijing Municipal Motor Vehicle Regulation Office said at 10:00 on June 26 the city will allocate 9,600 ordinary passenger‑car quotas for families and individuals, who will enter a single joint lottery pool; an additional 400 quotas will be allocated to companies.
+
+---
+
+### 2026-06-25 11:17:18  #其他
+
+【油電切換無次數限制 北京9600個普通小客車指標將搖號配置】從北京市機動車調控管理辦公室獲悉，6月26日10:00，北京市將配置家庭和個人普通小客車指標共計9600個，家庭與個人申請人進入同池搖號；另配置單位普通小客車指標400個。截至2026年3月8日24時的小客車指標申請，經稽核，家庭普通小客車指標申請共計528855個有效編碼，個人普通小客車指標申請共計2546598個有效編碼，單位普通小客車指標申請共計38406家。交通部門特別提示，北京市支援普通小客車指標購置新能源小客車。根據《〈北京市小客車數量調控暫行規定〉實施細則（2025年修訂）》第二十九條規定，持普通小客車指標購置的新能源小客車在出售、報廢后，可以申請普通小客車更新指標。按此規定，普通指標可自由切換購置燃油車或新能源車。
+
+---
+
+### 2026-06-25 11:17:00  #MKT News #Market Regions #Greater China #CSI300 #Impact bullish
+
+CSI 300 index futures main contract (IF) broke above 4,900, posting an intraday gain of 1.41%.
+
+---
+
+### 2026-06-25 11:16:41  #MKT News
+
+【China MEE moves to prevent large water-quality swings in main flood season】China's Ministry of Ecology and Environment (MEE) said at its June 25 regular press briefing that, with the country in the main flood season, it has mobilised to prevent large fluctuations in water quality. The MEE will hold prompt analysis meetings on abnormal water-quality swings, provide point-to-point guidance to local authorities to identify causes and speed remediation, and push basin-wide coordination — including upstream-downstream and left-right bank joint risk assessments and coordinated countermeasures — to prevent pollution being shifted downstream or between banks. The ministry said it will enforce closed-loop management covering problem assignment, rectification and follow-up.
+
+---
+
+### 2026-06-25 11:16:15  #其他
+
+【生態環境部：嚴防汛期水質出現大幅波動】生態環境部今天（25日）舉行6月例行新聞釋出會，有關負責人介紹，當前我國已進入主汛期，針對汛期水質容易出現大幅波動的嚴峻形勢，生態環境部已聞汛而動，作出安排部署。生態環境部水生態環境司司長蔣火華介紹，汛期是檢驗水生態環境質量保障能力的一場“大考”。一些地方旱季“藏汙納垢”、雨季“零存整取”問題突出。從監測資料來看，汛期水質會出現大幅波動，每年6—9月全國I至Ⅲ類水質比例平均下降10個百分點，這與秋冬季容易出現重汙染天氣的情況類似。生態環境部已做出系統部署，加強風險隱患排查整治，做到早識別、早排查、早整改。充分發揮水質自動監測站作用，逐一識別汛期問題斷面，督促指導地方加密監測頻次，最佳化防控措施。對‌白洋淀、洱海、丹江口水庫和太湖、巢湖、滇池‌等新老“三湖”，及贛江、漢江等24個重點水體，及時啟動大面積水華“一湖一策”應對方案。密切關注氣象水文動態，強化應急值守和資訊報告，一旦發生突發水汙染事件，迅速啟動應急響應，及時妥善處理處置。對汛期水質異常波動等問題，生態環境部將及時開展分析會商，點對點指導地方查明原因、加快整改。同時還推動流域上下游、左右岸共同研判風險、協同制定對策，避免“上游排汙、下游買單”“左岸治理、右岸反彈”等，形成問題交辦、整改落實、跟蹤問效的閉環管理。
 
 ---
 
@@ -23030,77 +23078,5 @@ Indonesia Financial Services Authority welcomes MSCI's decision to retain Indone
 ### 2026-06-24 09:27:24  #MKT News #Market Regions #Greater China #SSE Composite #Impact bearish #SZSE Component #CSI300
 
 At the open on Wednesday, June 24, China's Shanghai Composite Index fell 16.15 pts (-0.39%) to 4,090.10; Shenzhen Composite Index fell 71.80 pts (-0.45%) to 15,782.40; CSI 300 Index fell 19.00 pts (-0.39%) to 4,900.38; ChiNext Index fell 10.29 pts (-0.25%) to 4,181.91; STAR 50 Index fell 19.87 pts (-1.04%) to 1,896.34.
-
----
-
-### 2026-06-24 09:25:52  #市場
-
-仙工智慧香港首日掛牌開盤報101.6港元，與招股價持平。
-
----
-
-### 2026-06-24 09:25:34  #MKT News #Important #Market Regions #Greater China #SSE Composite #Impact bearish #SZSE Component
-
-A-shares at the open: Shanghai Composite down 0.39%, Shenzhen Composite down 0.45%, ChiNext Index down 0.25%. New listing N Zhenbao surged 905% on its first day.
-
----
-
-### 2026-06-24 09:25:26  #焦點
-
-三大股指低開，滬指跌0.39％，深成指跌0.45％，創業板跌0.25％。
-
----
-
-### 2026-06-24 09:24:35  #央行 #國際
-
-馬來西亞央行就外匯流入發表評論後，林吉特跌幅收窄。
-
----
-
-### 2026-06-24 09:23:41  #市場
-
-【港股醫藥股走強 和譽漲近5%】截至發稿，和譽-B(02256.HK)漲4.67%，銀諾醫藥-B(02591.HK)漲4.27%，康諾亞-B(02162.HK)漲3.39%，再鼎醫藥(09688.HK)漲2.88%。
-
----
-
-### 2026-06-24 09:22:16  #公司 #國際
-
-韓國總統政策室長：三星和SK海力士的新晶片叢集計劃已進入最後階段。
-
----
-
-### 2026-06-24 09:21:49  #MKT News #Important #Market Regions #Greater China #CNH #Impact bearish
-
-【PBOC nets CNY 242.2 bln via 7-day reverse repos】PBOC conducted CNY 662.5 bln of 7-day reverse repo operations today; CNY 420.3 bln matured, resulting in a net liquidity injection of CNY 242.2 bln into the open market.
-
----
-
-### 2026-06-24 09:21:47  #央行 #中國央行
-
-【央行今日開展6625億元7天逆回購操作】央行今日開展6625億元7天逆回購操作，操作利率為1.40%，與此前持平。
-
----
-
-### 2026-06-24 09:21:37  #央行 #其他
-
-央行公開市場今日淨投放2,422.0億元人民幣。
-
----
-
-### 2026-06-24 09:21:07  #MKT News #WTI #Impact bearish #Brent
-
-【Senate approves resolution requiring Trump to end military action against Iran】On June 23 the U.S. Senate passed a resolution limiting presidential war powers that directs President Trump to end U.S. military operations against Iran and requires congressional authorization before any future military action against Iran. The measure, previously approved by the House, passed 50-48; four Republicans joined the large majority of Senate Democrats in voting yes and two Republican senators were absent.
-
----
-
-### 2026-06-24 09:21:00
-
-港股恒指高開漲0.36％，國企指數漲0.42％，科指開漲0.48%，科技股多數走強。
-
----
-
-### 2026-06-24 09:20:59  #MKT News #HSI #Impact bullish #HSCEI #HSTECH
-
-Hong Kong's Hang Seng Index (HSI) opened June 24 (Wednesday) up 84.42 points, or 0.36%, at 23,420.7; the Hang Seng Technology Index rose 21.19 points, or 0.48%, to 4,420.41; the Hang Seng China Enterprises Index (HSCEI) added 32.77 points, or 0.42%, to 7,792.13; the Hang Seng Red Chip Index was up 13.58 points, or 0.35%, at 3,902.26.
 
 ---
