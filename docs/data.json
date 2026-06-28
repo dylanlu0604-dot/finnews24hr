@@ -1,7 +1,57 @@
 {
-  "updated": "2026-06-29 04:21:59",
-  "count": 17981,
+  "updated": "2026-06-29 04:26:01",
+  "count": 17985,
   "items": [
+    {
+      "id": "mkt:019f0fe6-dc43-7aab-8c02-e902d6490539",
+      "time": "2026-06-29 04:23:35",
+      "tags": [
+        "MKT News",
+        "Important",
+        "S&P500",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish",
+        "WTI"
+      ],
+      "text": "According to Axios, US officials say the United States and Iran have agreed to halt attacks and will meet this week."
+    },
+    {
+      "id": "4959150",
+      "time": "2026-06-29 04:23:00",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "美國與伊朗達成共識，雙方停止相互打擊，並將於本週舉行會晤。"
+    },
+    {
+      "id": "mkt:019f0fe5-50e4-7aab-8c02-e02e240493e4",
+      "time": "2026-06-29 04:21:54",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "AP: Pakistan says it conducted ground operations and strikes in an area along the Afghanistan border, killing 29 militants."
+    },
+    {
+      "id": "4959148",
+      "time": "2026-06-29 04:21:53",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲官員巴爾金：目前還無法篤定通脹能回落至2%，居民消費旺盛、人工智慧領域投資擴張以及持續存在的定價壓力均是潛在風險。"
+    },
+    {
+      "id": "4959147",
+      "time": "2026-06-29 04:21:46",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲官員巴爾金：通脹水平依舊過高，但已出現物價壓力有望緩解的初步跡象。"
+    },
     {
       "id": "4959146",
       "time": "2026-06-29 04:20:08",
@@ -164517,14 +164567,6 @@
         "國際"
       ],
       "text": "伊朗革命衛隊聖城旅指揮官伊斯梅爾·卡阿尼警告以色列，若繼續推行當下政策，以色列或將重演2000年從黎巴嫩南部撤軍的結局。"
-    },
-    {
-      "id": "4946651",
-      "time": "2026-06-22 04:25:20",
-      "tags": [
-        "國際"
-      ],
-      "text": "以色列一名高階安全官員表示，若再度嘗試將伊朗議題與黎巴嫩議題分割處理，只會惡化以美關係。"
     }
   ]
 }
