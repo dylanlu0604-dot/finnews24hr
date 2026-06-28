@@ -1,7 +1,15 @@
 {
-  "updated": "2026-06-28 21:13:06",
+  "updated": "2026-06-28 21:17:15",
   "count": 18049,
   "items": [
+    {
+      "id": "mkt:019f0e5f-d915-7aab-8c01-3ba344801fae",
+      "time": "2026-06-28 21:16:30",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iraq government spokesman said targeted anti‑corruption measures are ongoing, describing them as a core pillar of national sovereignty; the campaign has been praised for its transparency and is aimed at protecting public funds."
+    },
     {
       "id": "mkt:019f0e5b-8b62-7aab-8c01-3780f58be70d",
       "time": "2026-06-28 21:11:48",
@@ -165195,14 +165203,6 @@
         "國際"
       ],
       "text": "特朗普針對佩澤希齊揚表態，稱其最好謹言慎行。"
-    },
-    {
-      "id": "4946486",
-      "time": "2026-06-21 21:13:44",
-      "tags": [
-        "國際"
-      ],
-      "text": "卡達總理讚揚美伊代表團為中東和平作出的努力。"
     }
   ]
 }
