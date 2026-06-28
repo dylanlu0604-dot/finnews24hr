@@ -1,7 +1,76 @@
 {
-  "updated": "2026-06-29 03:42:00",
-  "count": 17984,
+  "updated": "2026-06-29 03:46:03",
+  "count": 17986,
   "items": [
+    {
+      "id": "mkt:019f0fc2-348e-7aab-8c02-ad2f49791006",
+      "time": "2026-06-29 03:43:33",
+      "tags": [
+        "MKT News",
+        "S&P500",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish",
+        "WTI"
+      ],
+      "text": "Putin said Ukraine has proposed halting mutual attacks on each other's territory."
+    },
+    {
+      "id": "mkt:019f0fc2-2373-7aab-8c02-a74c4a36d2b9",
+      "time": "2026-06-29 03:43:28",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "Brent"
+      ],
+      "text": "Putin said on a Ukrainian proposal that Russia has no plans to save the Kyiv regime."
+    },
+    {
+      "id": "mkt:019f0fc2-0fe2-7aab-8c02-9f8aeb0fc7d7",
+      "time": "2026-06-29 03:43:23",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "WTI"
+      ],
+      "text": "Putin said Russia's primary objective is to liberate the Donbass and \"Novorossiya\", including the Kherson and Zaporizhzhia regions."
+    },
+    {
+      "id": "4959131",
+      "time": "2026-06-29 03:43:18",
+      "tags": [
+        "國際"
+      ],
+      "text": "普京：烏克蘭提議雙方停火、互不襲擊對方領土。"
+    },
+    {
+      "id": "4959130",
+      "time": "2026-06-29 03:42:28",
+      "tags": [
+        "國際"
+      ],
+      "text": "普京：我們的核心任務是解放頓巴斯與“新俄羅斯”，這其中包括赫爾松州和扎波羅熱州。"
+    },
+    {
+      "id": "4959129",
+      "time": "2026-06-29 03:42:20",
+      "tags": [
+        "國際"
+      ],
+      "text": "普京：烏克蘭已提出將戰事限制在頓涅茨克、盧甘斯克、赫爾松與扎波羅熱四個地區。"
+    },
+    {
+      "id": "4959128",
+      "time": "2026-06-29 03:42:15",
+      "tags": [
+        "國際"
+      ],
+      "text": "普京就烏克蘭相關提議表態：我們無意挽救基輔政權。"
+    },
     {
       "id": "mkt:019f0fbe-f884-7aab-8c02-920e0db8fd17",
       "time": "2026-06-29 03:40:01",
@@ -164505,47 +164574,6 @@
         "其他"
       ],
       "text": "卡達多哈、巴林境內傳來劇烈爆炸聲，當地伴有震感。"
-    },
-    {
-      "id": "mkt:019eebb7-b8d0-7dd8-b0a9-10b6022bda25",
-      "time": "2026-06-22 03:45:46",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "Refinitiv reported a loud explosion was heard in Doha, Qatar."
-    },
-    {
-      "id": "4946638",
-      "time": "2026-06-22 03:45:21",
-      "tags": [
-        "其他"
-      ],
-      "text": "目擊者：卡達多哈傳來巨大爆炸聲。"
-    },
-    {
-      "id": "mkt:019eebb5-811a-7dd8-b0a9-0a1c410b72e0",
-      "time": "2026-06-22 03:43:21",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "President Trump said that after the U.S. spent tens of trillions of dollars defending NATO, Italy and its prime minister never even considered intervening against Iran and its nuclear threat. He said that despite decades of U.S. protection they were not there when tested and when the U.S. and other nations needed them most, calling it very disappointing."
-    },
-    {
-      "id": "4946637",
-      "time": "2026-06-22 03:43:05",
-      "tags": [
-        "國際"
-      ],
-      "text": "【特朗普：義大利並未承擔保衛美國的職責】特朗普在社交媒體發文稱：“我們已為北約投入數萬億美元，可義大利及其總理，卻壓根不願介入應對伊朗及其嚴峻的核威脅問題。數十年來，一直是我們在保護他們，可一旦到了需要出力的時候，他們卻不肯站出來守護我們乃至世界其他地區。情況很糟糕。”"
-    },
-    {
-      "id": "4946636",
-      "time": "2026-06-22 03:42:19",
-      "tags": [
-        "國際"
-      ],
-      "text": "烏克蘭總統澤連斯基：烏克蘭襲擊了被佔領克里米亞的油庫以及俄羅斯克拉斯諾達爾邊疆區一處石油運輸設施。"
     }
   ]
 }
