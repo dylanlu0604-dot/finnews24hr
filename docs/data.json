@@ -1,7 +1,35 @@
 {
-  "updated": "2026-06-28 08:08:43",
+  "updated": "2026-06-28 08:12:42",
   "count": 18153,
   "items": [
+    {
+      "id": "4958664",
+      "time": "2026-06-28 08:11:43",
+      "tags": [
+        "其他"
+      ],
+      "text": "科威特軍方稱其防空部隊目前正在對抗“敵對”導彈與無人機襲擊。"
+    },
+    {
+      "id": "4958663",
+      "time": "2026-06-28 08:11:10",
+      "tags": [
+        "其他"
+      ],
+      "text": "科威特政府釋出預警，警示當地居民危險即將來臨。"
+    },
+    {
+      "id": "mkt:019f0b90-ccd8-7770-9d1b-e51b6d1cedfe",
+      "time": "2026-06-28 08:11:06",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Air-raid sirens sounded in Kuwait; the Kuwaiti military said it is responding to an incoming aerial threat."
+    },
     {
       "id": "mkt:019f0b8e-2d23-7770-9d1b-d8616aad2fa0",
       "time": "2026-06-28 08:08:14",
@@ -166060,32 +166088,6 @@
         "MKT News"
       ],
       "text": "【LFP prices more than double; demand remains strong】Lithium iron phosphate (LFP) prices have jumped this year, with a ~400 kg bag trading above 25,000 yuan versus about 10,000 yuan a year ago. Demand remains robust: finished-goods warehouses are full and more than 90% of output is supplied to leading new-energy vehicle makers, which account for the bulk of order growth. Producers point to strong NEV and energy-storage exports as the main demand driver. Upstream costs are also pushing prices higher: LFP is made from iron phosphate, lithium carbonate and glucose, with iron phosphate representing roughly 30% of raw-material cost; iron phosphate has risen sharply year-to-date, lifting overall LFP production costs."
-    },
-    {
-      "id": "4946049",
-      "time": "2026-06-21 08:12:30",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國中央司令部：一架美國空軍F-35隱形戰鬥機在中東上空由一架KC-135 Stratotanker加油機進行空中加油。"
-    },
-    {
-      "id": "4946048",
-      "time": "2026-06-21 08:10:19",
-      "tags": [
-        "市場"
-      ],
-      "text": "【磷酸鐵鋰價格翻倍 需求依然旺盛】磷酸鐵、磷酸鐵鋰是新能源和儲能電池的重要原材料，今年以來價格一路走高，市場熱度居高不下。記者瞭解到，一包約400公斤的磷酸鐵鋰，現在的價格超過25000元，一年前的價格僅有10000元。儘管價格已翻倍，但需求依然旺盛。在一家磷酸鐵鋰生產工廠的成品倉庫內，不管是新增的貨架還是地上，貨物都擺得滿滿當當。這家企業生產的磷酸鐵鋰，超過九成是給頭部新能源車企供貨，這是他們今年訂單量增長的最大來源。有企業負責人告訴記者，新能源汽車以及儲能產品的出口旺盛，拉動磷酸鐵鋰需求持續走高，成為本輪產品漲價的重要動因。除了下游需求拉動外，上游原材料價格上漲，也是本輪磷酸鐵鋰價格走高的另一個關鍵因素。據介紹，磷酸鐵鋰主要由磷酸鐵、碳酸鋰、葡萄糖混合生產而成，其中磷酸鐵成本佔原料總成本的三成左右。今年以來，磷酸鐵價格大幅上行，抬升了磷酸鐵鋰的整體生產成本。（央視財經）"
-    },
-    {
-      "id": "4946047",
-      "time": "2026-06-21 08:09:59",
-      "tags": [
-        "市場",
-        "觀點",
-        "國際"
-      ],
-      "text": "【美銅關稅審查報告公佈在即 交易員嚴陣以待“多空抉擇”】全球市場上的銅交易員都在屏息等待將於6月底由美國商務部發布的審查報告，該報告將成為特朗普關稅決定最終拍板的關鍵依據。在靴子落地前夕，交易員們正密切關注相關訊號，以判斷是該平倉銅多頭頭寸，還是該加碼押注美國銅價將繼續上漲。摩根士丹利分析師在本月早些時候釋出的報告中指出，明年1月起實施15%精煉銅關稅的可能性為43%。過去一個月，紐約銅價相對於倫銅的溢價不斷擴大，表明部分投資者正押注這一方向。但無論特朗普的這枚硬幣最終翻向哪一面，鑑於銅在人工智慧(AI)基礎設施中無可替代的剛需地位，大多數分析師和交易員對銅的長期前景目前都相對樂觀。"
     }
   ]
 }
