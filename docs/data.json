@@ -1,7 +1,15 @@
 {
-  "updated": "2026-06-28 23:02:48",
-  "count": 18020,
+  "updated": "2026-06-28 23:06:58",
+  "count": 18018,
   "items": [
+    {
+      "id": "4959042",
+      "time": "2026-06-28 23:02:37",
+      "tags": [
+        "其他"
+      ],
+      "text": "法國南錫附近發生致命飛機事故，巴黎檢察院事故調查部門已接手該案調查。"
+    },
     {
       "id": "4959041",
       "time": "2026-06-28 23:01:46",
@@ -164905,32 +164913,6 @@
         "MKT News"
       ],
       "text": "Iran's Fars news agency, citing an informed member of Iran's negotiation team, said the first round of four-party talks in Switzerland has concluded."
-    },
-    {
-      "id": "mkt:019eeab7-91e3-7dd8-b0a7-4f9b1a0b1322",
-      "time": "2026-06-21 23:05:59",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "Refinitiv reported sources close to the negotiating team said the first round of talks in Switzerland concluded."
-    },
-    {
-      "id": "4946537",
-      "time": "2026-06-21 23:05:46",
-      "tags": [
-        "其他"
-      ],
-      "text": "【國產TGV玻璃基板正加速走向量產】當前，TGV玻璃基板賽道正迎來從技術驗證向小批次量產過渡的關鍵節點。記者在採訪中瞭解到，國內多家頭部企業的產線籌備工作已全面鋪開。國內中試產線正加速跑通驗證，頭部企業紛紛加碼佈局、搶佔先機。根據國際市場研究機構預測，到2030年，全球先進封裝市場規模將逼近800億美元。從底層材料的突圍，到跨界工藝的打通，國產TGV玻璃基板正加速走向量產。"
-    },
-    {
-      "id": "4946536",
-      "time": "2026-06-21 23:05:04",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "熟悉談判內情的訊息人士表示，在瑞士與美國舉行的首輪談判已結束。"
     }
   ]
 }
