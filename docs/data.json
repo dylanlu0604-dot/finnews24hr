@@ -1,7 +1,18 @@
 {
-  "updated": "2026-06-28 13:26:03",
+  "updated": "2026-06-28 13:30:06",
   "count": 18151,
   "items": [
+    {
+      "id": "mkt:019f0cb1-b2ae-7770-9d1c-e09c99e0e1ed",
+      "time": "2026-06-28 13:26:39",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "【Iran says trade with UAE has resumed】Iranian state media on the 27th quoted a trade department official saying Tehran has resumed trade with neighbouring the UAE and that containers and cargo shipped from a UAE port have arrived in Iran. A Trade Promotion Organization official told IRNA trade is gradually increasing and is expected to recover toward pre-conflict levels as regional tensions calm."
+    },
     {
       "id": "4958749",
       "time": "2026-06-28 13:25:12",
@@ -166112,14 +166123,6 @@
         "國際"
       ],
       "text": "【報道：印度謀求在美印貿易協定中獲取競爭優勢】據媒體援引印度一名聯邦部長的訊息稱，在取得相較於其他國家的競爭優勢前，印度不太可能落實擬議中的美印貿易協定。 報道稱，印度工商部長於週六新聞釋出會上表示：“目前懸而未決的核心問題是，我方關稅水平必須低於其他競爭國家。”"
-    },
-    {
-      "id": "4946150",
-      "time": "2026-06-21 13:28:30",
-      "tags": [
-        "國際"
-      ],
-      "text": "俄羅斯導彈襲擊波爾塔瓦，造成11人受傷。"
     }
   ]
 }
