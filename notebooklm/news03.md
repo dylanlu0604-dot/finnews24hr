@@ -1,7 +1,199 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-06-28 12:06:33_
-_本檔包含 3851 則快訊，約 669756 字_
+_更新時間：2026-06-28 13:42:03_
+_本檔包含 3828 則快訊，約 670014 字_
+
+---
+
+### 2026-06-25 08:13:58  #公司 #國際
+
+【SK海力士考慮在韓國清州新建NAND快閃記憶體晶圓廠】韓國媒體《每日經濟新聞》援引未具名業內人士報道稱，SK海力士正考慮在韓國清州新建一座NAND快閃記憶體晶圓廠。報道稱，這是一項更廣泛地區投資計劃的組成部分。該計劃預計將於6月29日在總統府舉行的會議上公佈。報道稱，SK海力士的計劃可能側重於擴大對其位於清州的NAND快閃記憶體晶圓廠的投資。SK海力士於2018年建成M15工廠。此外，三星電子目前在天安和溫陽的封裝工廠生產HBM等先進晶片。
+
+---
+
+### 2026-06-25 08:13:55  #其他
+
+日經225指數漲幅擴大至2.5%。
+
+---
+
+### 2026-06-25 08:10:20  #MKT News
+
+S&P/ASX 200 opened down 27.20 points (-0.31%) at 8,781.20 on Thursday, June 25.
+
+---
+
+### 2026-06-25 08:09:24  #公司
+
+【Ollin完成3.3億美元B輪融資】6月25日，信達生物宣佈，公司合作伙伴Ollin已完成超額認購的3.3億美元B輪融資。本輪融資由新投資方TCGX和創始投資方ARCH Venture Partners共同領投，並獲得了多家醫療健康Crossover機構投資者、主權財富基金及其他新機構投資者的參與，包括a16z Bio+Health、Blackstone Multi-Asset Investing、Commodore Capital、加拿大養老金計劃投資委員會等。公司聯合創始投資方Mubadala Capital和Monograph Capital亦繼續參與本輪投資。
+
+---
+
+### 2026-06-25 08:08:29  #MKT News
+
+Korea Exchange activated the KOSPI "sidecar" temporary trading-halt mechanism.
+
+---
+
+### 2026-06-25 08:07:45  #焦點 #國際
+
+韓國交易所啟動SIDECAR機制，暫停KOSPI程式化買盤。
+
+---
+
+### 2026-06-25 08:07:17  #國際
+
+【美國地質調查局就委內瑞拉強震釋出紅色警報 】美國地質調查局地震資訊網24日就委內瑞拉強震釋出紅色警報，預計地震將造成重大人員傷亡、大範圍破壞和相關經濟損失，並在多地引發災情。（新華社）
+
+---
+
+### 2026-06-25 08:06:17  #MKT News #Market Regions #Japan & APAC #Nikkei 225 #Impact bullish
+
+Japan's Nikkei 225 extended intraday gains to 2%.
+
+---
+
+### 2026-06-25 08:06:04  #其他
+
+日股日經指數漲幅擴大至2%。
+
+---
+
+### 2026-06-25 08:04:11  #焦點 #國際
+
+韓國綜合股價指數(KOSPI)漲幅擴大至5.6%。
+
+---
+
+### 2026-06-25 08:04:11  #Trading Economics #Markets #United States #Stock Market #Importance 2
+
+Nasdaq Futures Rally on Micron Outlook — Nasdaq 100 futures climbed 2% on Thursday after Micron Technology’s strong earnings outlook reinforced optimism surrounding the artificial intelligence sector. S&P 500 futures advanced 0.6%, while Dow futures added 0.1%. In after-hours trading, Micron shares soared more than 15% after the memory-chip maker posted fiscal third-quarter results that exceeded expectations and forecast current-quarter revenue of $50 billion, sharply higher than $11.3 billion a year earlier and above analysts’ estimate of $43.58 billion. Qualcomm also rallied 13% after lifting its fiscal 2029 non-handset revenue target to $40 billion from a previous forecast of $22 billion. Other semiconductor-related stocks moved higher as well, including Sandisk, Western Digital, Marvell Technology, Applied Materials, and Lam Research. Investors are now awaiting the latest PCE price index report, the Federal Reserve’s preferred measure of inflation.
+
+---
+
+### 2026-06-25 08:03:30  #MKT News #Important
+
+South Korea's KOSPI index broke above 8,900 points, up 5.52% intraday.
+
+---
+
+### 2026-06-25 08:02:27  #市場
+
+MSCI亞太指數上漲1%至277.71點。
+
+---
+
+### 2026-06-25 08:02:18  #MKT News #Important #Nikkei 225 #Impact bullish #005930.KS #000660.KS
+
+【Japan, South Korea stocks open higher; KOSPI up 2.9%】Japan's Nikkei 225 opened 1.4% higher at 70,114.09. South Korea's KOSPI rose 2.9%. SK Hynix jumped 11%; Samsung Electronics gained 5%.
+
+---
+
+### 2026-06-25 08:02:13  #公司 #市場
+
+三星電子股價上漲5%。
+
+---
+
+### 2026-06-25 08:02:07  #市場
+
+澳大利亞S&P/ASX 200指數早盤下跌0.2%，報8,794.20點。
+
+---
+
+### 2026-06-25 08:01:34  #市場
+
+SK海力士股價上漲11%。
+
+---
+
+### 2026-06-25 08:01:26  #其他
+
+麥格理將必和必拓目標價上調2%，至每股57.00澳元。
+
+---
+
+### 2026-06-25 08:00:38  #市場 #國際
+
+韓國綜合股價指數（KOSPI）開盤上漲2.7%，至8703.42點。
+
+---
+
+### 2026-06-25 08:00:29  #市場
+
+日經225指數上午開盤報70114.09點，漲幅1.36%。
+
+---
+
+### 2026-06-25 07:57:41  #MKT News #Market Themes #AI Revolution #NVDA.O #Impact bullish
+
+【China International Capital Co: High-end AI servers likely to adopt diamond heat spreader plus full liquid cooling】China International Capital Co (CICC) says proximal (near-chip) heat spreading and liquid cooling are complementary as GPU power for H100, Blackwell and Rubin series climbs past the kW level and 3D packaging raises local heat flux, exposing copper/aluminum thermal limits. Diamond, with ~2,000 W/m·K thermal conductivity and low thermal expansion, can rapidly even out chip hotspots; CICC expects implementations where diamond handles near-chip lateral heat spreading while full liquid cooling removes system- and rack-level heat — a composite diamond-heat-spreader plus full-liquid-cooling solution is likely for future high-end AI servers.
+
+---
+
+### 2026-06-25 07:57:32  #觀點 #國際
+
+【中信建投：中東停火修復板塊情緒 重視物理AI低位配置機會】中信建投研報稱，中東地區停火協議達成，市場情緒有望迎來修復。5月汽車呈現內需承壓、出口強勁特徵。板塊自4月底開始大幅回撥築底，當前內需悲觀預期或已price-in，近期板塊回撥並無基本面明顯利空，主因資金面“高低切”等流動性因素變化，全年依然看好汽車出海行情。同時，機器人及智駕板塊底部alpha標的具備高價效比，中期產業趨勢有望持續兌現。
+
+---
+
+### 2026-06-25 07:57:04  #公司 #觀點
+
+【中金：未來高階AI伺服器有望採用“金剛石熱沉+全液冷”複合散熱方案】中金公司研報認為，近端散熱與液冷形成互補體系，當前H100、Blackwell、Rubin系列GPU功耗持續突破千瓦級，3D封裝進一步抬升晶片區域性熱流，銅鋁材料熱傳導瓶頸凸顯；金剛石具備2000W/m・K級別超高熱導率、低熱膨脹係數，可快速攤平晶片熱點。產業落地層面，金剛石負責晶片近端均熱擴散，液冷承擔機櫃系統級排熱，二者並非替代關係，未來高階AI伺服器有望採用“金剛石熱沉+全液冷”複合散熱方案。
+
+---
+
+### 2026-06-25 07:55:35  #其他
+
+美光業績超預期，宣稱已簽署價值220億美元的記憶體晶片客戶訂單。
+
+---
+
+### 2026-06-25 07:55:07  #公司
+
+【三花智控：資料中心液冷業務推進順利】三花智控(002050)在互動平臺表示，資料中心液冷業務推進順利，公司以熱管理零部件供應商的身份切入液冷新業務場景，一次側、二次側公司已有產品供應，核心品類涵蓋閥、泵、換熱器、控制器等；同時結合客戶遠期應用需求持續開展研發，不斷完善產品線，已為全球部分客戶提供相關產品。
+
+---
+
+### 2026-06-25 07:54:17  #公司
+
+【拓邦股份：電機產品已獲頭部企業新一代AI資料中心超節點的液冷伺服器廠商供應商定點】拓邦股份(002139)在互動平臺表示，公司在資料中心液冷散熱領域，專注於為室外側冷源裝置提供製冷控制器等核心部件，不涉及室內側的CDU（冷量分配單元）整機或液冷系統整合；同時，公司電機產品已獲得頭部企業新一代AI資料中心超節點的液冷伺服器廠商供應商定點，有望受益於客戶產品的市場推進及批次匯入。
+
+---
+
+### 2026-06-25 07:53:21  #公司 #市場 #觀點 #國際
+
+【中信建投：多航線艙位持續緊張，全球集運運價持續走強】中信建投研報稱，美線運價持續衝高。SCFI指數七週連漲，主流FAK報價5000-5500美元/FEU，高階艙位超6200美元/FEU，美東艙位緊缺週期長於美西。美國加徵關稅、CPSC新規促使企業提前搶運，疊加巴拿馬運河枯水擁堵壓縮有效運力，船公司控艙惜售，6至7月初艙位基本售罄。拉美航線提前進入備貨高峰，全線運價走高。南美東航線漲幅領跑，即期艙溢價明顯。巴西關稅調整預期推動貨主集中出貨；拉美重點港口長期壓港，40尺冷藏箱缺口突出，空箱迴流緩慢，船公司連續加收GRI、PSS附加費，運價上行壓力難消。亞歐、地中海運價同步走強。預計7月兩地航線運價將再度漲價；中東航線地緣擾動抬升運輸成本。旺季貨量集中囤積，紅海繞行拉長船舶週轉；霍爾木茲海峽運力釋放存不確定性，船司為保障準班頻繁跳港，艙位供給持續偏緊。
+
+---
+
+### 2026-06-25 07:53:12  #其他
+
+市場訊息：SK海力士考慮擴大對清州南德工廠的投資。
+
+---
+
+### 2026-06-25 07:53:08  #經濟數據 #日本
+
+日本至6月19日當週外資買進日股4794億日元，前值由-7851億日元修正為-7852億日元。
+
+---
+
+### 2026-06-25 07:53:01  #Trading Economics #Markets #Commodity #Importance 2
+
+Gold Holds Near 8-Month Lows — Gold steadied around $4,000 an ounce on Thursday, but stayed close to its lowest levels in almost eight months as a stronger dollar and growing expectations of Federal Reserve rate hikes continued to weigh on prices. The US dollar rose to its highest level in more than a year against a basket of major currencies, making dollar-denominated commodities such as gold costlier for holders of other currencies. Last week, the Fed kept interest rates unchanged but signaled increasing support for tighter monetary policy, with Chair Kevin Warsh indicating his commitment to bringing inflation under control. Markets are now pricing in a possible rate hike in September, with additional increases potentially following before year-end. Those expectations have overshadowed the supportive effect of progress in US-Iran peace negotiations, which has driven oil prices back to pre-conflict levels and significantly reduced inflationary pressures.
+
+---
+
+### 2026-06-25 07:52:30  #公司 #觀點
+
+【硬科技IPO紅利釋放 3家頭部券商承銷保薦收入領先】當科技持續成為市場核心主線，押中硬科技專案的券商也成為被追逐的焦點。6月24日，半導體零部件概念股臻寶科技登陸科創板，首日漲幅超12倍，投資者中一簽最高賺27萬元。作為保薦券商的中信證券也賺得“盆滿缽滿”，不僅攬收9603萬元承銷費；同時，作為臻寶科技第九大股東，中信證券最新持股市值近16億元。這僅是2026年硬科技IPO盛宴的縮影。今年科創板和創業板合計迎來20只新股，8家券商共攬入17億元保薦承銷費；更大的想象空間在於排隊中的121家擬IPO企業，如長鑫科技等明星專案蓄勢待發，投行“硬科技收穫季”才剛開始。Wind資料顯示，以招股日為準，上述20只新股由8家券商保薦。其中，中信證券獨攬7個專案，國泰海通和中金公司分別以6個和4個位居其後，中信建投承銷保薦了2個專案，東吳證券、申萬宏源、國投證券、國聯民生各承銷保薦了1個。中信證券、國泰海通、中金公司這3家頭部券商不僅專案數量領先，承銷保薦收入排名同樣居前。上述20只新股實際募資總額303億元，承銷保薦費用共17億元。其中，中信證券以6.64億元的承銷及保薦收入居首，較第二名國泰海通（4.36億元）多2.28億元；第三名為中金公司，攬收2.34億元，其他5家券商的收入則均在1億元以下。
+
+---
+
+### 2026-06-25 07:51:28  #觀點 #國際
+
+【中信建投：中東停火修復板塊情緒，重視物理AI低位配置機會】中信建投研報稱，中東地區停火協議達成，市場情緒有望迎來修復。5月汽車呈現內需承壓、出口強勁特徵。板塊自4月底開始大幅回撥築底，當前內需悲觀預期或已price-in，近期板塊回撥並無基本面明顯利空，主因資金面“高低切”等流動性因素變化，全年依然看好汽車出海行情。同時，機器人及智駕板塊底部alpha標的具備高價效比，中期產業趨勢有望持續兌現。
 
 ---
 
@@ -22937,335 +23129,5 @@ Trump claimed he cut the US trade deficit by 67%, the largest reduction in US hi
 ### 2026-06-24 03:12:33  #MKT News
 
 President Trump accused former President Obama of attempting to bribe Iran with tens of billions of dollars and said Iran's leadership only understands "iron-fist measures".
-
----
-
-### 2026-06-24 03:12:17  #觀點
-
-摩根大通已獲批推出一隻全新間隔基金，投資於公募及私募信貸資產，並允許投資者按月贖回份額；當前直接信貸行業正遭遇新一輪大規模撤資申請的衝擊。
-
----
-
-### 2026-06-24 03:11:43  #國際
-
-特朗普：我們與伊朗達成了一份具有歷史意義的和平協議，以此終結衝突。而最重要的是，我們明確落實了一項關鍵訴求——這也是我促成這份協議的初衷——伊朗永遠不得擁有核武器，伊朗方面已對此表示認同。
-
----
-
-### 2026-06-24 03:11:13  #MKT News #Market Regions #Emerging Markets
-
-Argentina's statistics agency said Q1 2026 GDP rose 2.3% YoY, above market consensus of 1.7%.
-
----
-
-### 2026-06-24 03:09:50  #公司 #國際
-
-特朗普稱讚禮來公司。
-
----
-
-### 2026-06-24 03:07:03  #MKT News #Brent #Impact bearish #XAUUSD #S&P500 #Impact bullish
-
-US President Trump said the US will strip Iran of its nuclear capability and that Iran has agreed to this.
-
----
-
-### 2026-06-24 03:06:59  #國際
-
-特朗普談及伊朗： 我們會讓伊朗徹底喪失導彈作戰能力。
-
----
-
-### 2026-06-24 03:06:43  #MKT News #Commodities #Energy #Market Themes #The Trump Trade #WTI #Impact bearish #Brent
-
-U.S. President Trump said energy prices have fallen sharply.
-
----
-
-### 2026-06-24 03:06:38  #國際
-
-特朗普：沙特國王曾對我說“閣下，您要知道，兩年前貴國當時處境岌岌可危”。
-
----
-
-### 2026-06-24 03:06:15  #MKT News #WTI #Impact bullish #XAUUSD #DXY
-
-U.S. President Trump said "We can fly over Tehran whenever we want; no one would dare do anything to us," and said he had seen "fake news" reports claiming they (Iran) are doing quite well.
-
----
-
-### 2026-06-24 03:05:55  #MKT News #Commodities #Energy #Market Themes #The Trump Trade #WTI #Impact bearish #Brent
-
-President Trump said the US is working to reach a fair deal with Iran. Yesterday 19 mln barrels of oil transited the Strait of Hormuz.
-
----
-
-### 2026-06-24 03:05:22  #國際
-
-特朗普談及伊朗： 我們可以隨意飛越德黑蘭上空，沒人能拿我們怎麼樣。
-
----
-
-### 2026-06-24 03:05:18  #國際
-
-特朗普談及伊朗： 我們會徹底剝奪其所有核能力，伊朗方面已對此表示同意。 目前雙方溝通進展十分順利。
-
----
-
-### 2026-06-24 03:04:49  #國際
-
-特朗普：美國正致力於與伊朗達成公平協議，昨日有1900萬桶石油經由霍爾木茲海峽運輸。
-
----
-
-### 2026-06-24 03:04:42  #MKT News #Market Themes #The Trump Trade #Nasdaq100 #Impact bearish
-
-At a Pennsylvania rally, Trump claimed US stocks hit a new high today. The Nasdaq Composite is currently down about 2%.
-
----
-
-### 2026-06-24 03:04:16  #國際
-
-特朗普稱讚汽油價格下降。
-
----
-
-### 2026-06-24 03:03:56  #MKT News
-
-US President Trump said Iran is in poor shape and lacks both an army and air-defence systems.
-
----
-
-### 2026-06-24 03:03:29  #MKT News #WTI #Impact bullish #Brent #XAUUSD
-
-U.S. President Trump said Iran's economy has been severely damaged and will take years to recover.
-
----
-
-### 2026-06-24 03:03:13  #MKT News #Macro & Rates #Treasury Yields #US10Y #Impact bearish
-
-U.S. Treasury Department data show foreign investors bought $5.2bn of 10-year Treasuries maturing May 2036 in the latest two-week reporting period, down from $6.23bn the prior month.
-
----
-
-### 2026-06-24 03:03:01  #MKT News #Market Regions #Greater China #Hang Seng Index #Impact bullish
-
-Hang Seng index futures night session closed up 0.78% at 23,498, trading at a 162-point premium to the cash index.
-
----
-
-### 2026-06-24 03:02:53  #其他
-
-【C羅梅開二度 葡萄牙5-0戰勝烏茲別克】北京時間6月24日，2026美加墨世界盃小組賽K組第二輪中，葡萄牙5-0戰勝烏茲別克，小組賽一勝一平積4分。
-
----
-
-### 2026-06-24 03:02:39  #MKT News
-
-US President Trump said the US is getting along fairly well with Iran.
-
----
-
-### 2026-06-24 03:02:24  #MKT News #WTI #Impact bearish #Brent
-
-TRUMP on Iran said the US is working to reach a fair deal.
-
----
-
-### 2026-06-24 03:02:20  #MKT News #S&P500 #Impact bullish #WTI #Impact bearish #DXY
-
-US President Trump says Iran has agreed never to possess nuclear weapons.
-
----
-
-### 2026-06-24 03:02:16  #國際
-
-特朗普談伊朗問題：我們正致力於達成一份公平的協議。
-
----
-
-### 2026-06-24 03:01:39  #焦點 #國際
-
-特朗普：伊朗已同意永遠不擁有核武器。
-
----
-
-### 2026-06-24 03:01:29  #國際
-
-特朗普：我們和伊朗相處得很好。
-
----
-
-### 2026-06-24 03:01:19  #其他
-
-阿根廷國家統計局公佈，2026年第一季度國內生產總值同比增長2.3%。此前路透調查的預期增速為1.70%。
-
----
-
-### 2026-06-24 03:01:13  #宏觀 #市場 #國際
-
-美國財政部公佈，在最近半個報告期內，外國投資者買入了22.71億美元將於2056年5月15日到期的30年期國債，上月該資料為27.67億美元。
-
----
-
-### 2026-06-24 03:01:10  #宏觀 #市場 #國際
-
-美國財政部：在最新雙週報報告期內，投資基金買入289.62億美元2036年5月15日到期的10年期國債，上月買入規模為293.32億美元。
-
----
-
-### 2026-06-24 03:01:07  #宏觀 #市場 #國際
-
-美國財政部：在最近的雙週報告期內，投資基金買入157.23億美元將於2056年5月15日到期的30年期國債，前一個月的買入規模為183.40億美元。
-
----
-
-### 2026-06-24 03:01:04  #宏觀 #市場 #國際
-
-美國財政部公佈，在最新雙週報報告期內，投資基金買入421.81億美元將於2029年6月15日到期的3年期國債，上月買入規模為416.36億美元。
-
----
-
-### 2026-06-24 03:01:00  #宏觀 #市場 #國際
-
-美國財政部：在最近兩週報告期內，外國投資者買入52億美元將於2036年5月15日到期的10年期國債，上月買入規模為62.3億美元。
-
----
-
-### 2026-06-24 03:00:03  #市場
-
-恒指期貨夜盤收漲0.86%，報23487.10點，高水150.82點。
-
----
-
-### 2026-06-24 02:59:41  #其他
-
-【烏干達和剛果（金）啟動埃博拉疫情監控跨境合作】當地時間23日，烏干達衛生部表示，該國與剛果（金）啟動埃博拉疫情監控跨境合作，以加強對兩國邊境地區的監控，阻止疫情擴散。（央視新聞）
-
----
-
-### 2026-06-24 02:57:48  #MKT News
-
-Trump says Iran cannot have nuclear weapons.
-
----
-
-### 2026-06-24 02:57:45  #國際
-
-特朗普談及伊朗問題： 伊朗絕不能擁有核武器，這點沒得商量。
-
----
-
-### 2026-06-24 02:57:16  #國際
-
-特朗普：已會見工會領袖。
-
----
-
-### 2026-06-24 02:56:40  #MKT News
-
-【US allows Iran team to enter US two days before next match】On June 23 the U.S. Department of Homeland Security said it has relaxed travel restrictions to allow Iran’s national football team to enter the United States two days before its June 26 group match against Egypt in Seattle; the team must depart the same night. DHS said overall security measures and procedures remain unchanged. Iran will remain based in Tijuana, Mexico, for the tournament and several team staff and federation officials continue to be barred from entry.
-
----
-
-### 2026-06-24 02:56:13  #國際
-
-【美國允許伊朗隊下一場比賽前2天入境】當地時間6月23日，美國國土安全部發言人表示，美國放寬對參加世界盃比賽的伊朗國家足球隊的旅行限制，伊朗隊將被允許在26日對陣埃及隊的比賽前兩天入境美國，但仍須在比賽結束當晚離境。發言人表示，整體安全措施和流程保持不變。由於在美國停留的限制，伊朗隊在整個世界盃賽事期間駐紮在墨西哥蒂華納，往返美國參加比賽，同時多名伊朗隊工作人員和足協官員被禁止入境。當地時間6月26日，伊朗隊將在美國西雅圖迎戰小組賽的最後一個對手埃及隊。（央視新聞）
-
----
-
-### 2026-06-24 02:55:35  #MKT News
-
-Trump on Iran: we are doing pretty well.
-
----
-
-### 2026-06-24 02:55:30  #國際
-
-特朗普談伊朗局勢：我們目前進展相當順利。
-
----
-
-### 2026-06-24 02:55:17  #MKT News #6758.T #Impact bullish
-
-Nikkei reports Sony's new image sensor increases resolution by 20% by rearranging the color filter array.
-
----
-
-### 2026-06-24 02:53:54  #MKT News #Market Themes #The Trump Trade
-
-President Trump said he may run again, asked whether he should, and said he would like to.
-
----
-
-### 2026-06-24 02:49:04  #市場
-
-納斯達克100指數跌幅擴大至3.5%，觸及盤中低點。
-
----
-
-### 2026-06-24 02:47:52  #MKT News #Nasdaq100 #Impact bearish #S&P500 #US10Y #Impact bullish
-
-【SpaceX prepares first bond sale, plans $25 billion offering】SpaceX is preparing its first bond issuance to raise $25 billion to test fixed-income investor appetite for Elon Musk’s vision for the company. Bonds would span 5- to 30-year maturities. Banks view the deal as a bellwether for further fundraising; a buy-side source said SpaceX could return in the next few years seeking roughly $10 billion more in refinancing. The planned sale comes amid a renewed large-cap tech selloff and market concern over high valuations and a rising-rate outlook.
-
----
-
-### 2026-06-24 02:43:13  #市場 #焦點
-
-紐約期銀失守62美元/盎司，日內跌6.15%。
-
----
-
-### 2026-06-24 02:42:59  #MKT News #WTI #Impact bullish #Brent
-
-Italian Prime Minister Meloni said allowing Iran to impose transit fees in the Strait of Hormuz would turn a strategic trade waterway into a geopolitical weapon and is unacceptable.
-
----
-
-### 2026-06-24 02:42:42  #Trading Economics #Markets #United States #stocks #Importance 1
-
-Tesla Stock Price Hits 7-week Low — Tesla shares decreased to 380.12 USD, the lowest since May 2026. Over the past 4 weeks, Tesla lost 12.18%, and in the last 12 months, it increased 11.84%.
-
----
-
-### 2026-06-24 02:42:14  #MKT News #Commodities #Energy #WTI #Impact mixed #Brent
-
-【Several gas exporters warn EU methane rules could threaten energy security】The US, Qatar and other natural gas exporters have urged the EU to relax parts of proposed methane-emissions rules, warning the measures could threaten EU energy security. In a letter to European leaders co-signed by Nigeria and Algeria they called for a "pragmatic approach" to clarify and amend rule details so importers can continue supplying required oil and gas. The appeal comes as the EU faces pressure to lower high energy prices and plans to boost US gas imports amid the Middle East conflict; several member states want the methane rules' impact on energy security discussed at this week's EU energy ministers meeting.
-
----
-
-### 2026-06-24 02:39:21  #MKT News #AIR.PA #Impact bearish
-
-Fuselage cracks detected on Airbus A380s operated by Emirates and Qantas; Airbus to inspect 16 A380 aircraft.
-
----
-
-### 2026-06-24 02:36:43  #其他
-
-市場訊息：阿聯酋航空、澳洲航空旗下空客 A380 客機被檢出機身裂紋。
-
----
-
-### 2026-06-24 02:36:19  #其他
-
-市場訊息：空客在發現機身裂紋後，將對 16 架 A380 客機開展檢查。
-
----
-
-### 2026-06-24 02:32:29  #MKT News
-
-The US Federal Communications Commission said wireless spectrum auctions raised more than $3.5 billion.
-
----
-
-### 2026-06-24 02:31:34  #MKT News #Commodities #Energy #WTI #Impact bearish
-
-U.S. crude futures settled at $73.21/barrel, down $0.65, or 0.88%.
-
----
-
-### 2026-06-24 02:31:29  #MKT News #Commodities #Precious Metals #Energy #XAUUSD #Impact bearish #WTI
-
-【Night session main contracts close】As of the 02:30 close, SHFE gold main contract fell 0.82% to 902 yuan/gram; SHFE silver main contract fell 4.36% to 14,868 yuan/kg; SC crude oil main contract fell 1.52% to 492 yuan/barrel.
 
 ---
