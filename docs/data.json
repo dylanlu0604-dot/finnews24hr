@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-28 12:10:37",
-  "count": 18154,
+  "updated": "2026-06-28 12:14:46",
+  "count": 18151,
   "items": [
     {
       "id": "mkt:019f0c6b-7086-7770-9d1c-a8cd52af3ce8",
@@ -166127,31 +166127,6 @@
         "其他"
       ],
       "text": "市場訊息：美伊關鍵談判即將開啟。"
-    },
-    {
-      "id": "mkt:019ee861-5cfa-7dd8-b0a3-34f0130e1863",
-      "time": "2026-06-21 12:12:35",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "AP: U.S. Vice President Vance has arrived in Switzerland."
-    },
-    {
-      "id": "mkt:019ee860-652b-7dd8-b0a3-28bada6521c2",
-      "time": "2026-06-21 12:11:31",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【US offers to unfreeze tens of billions of dollars to press Iran to accept UN nuclear inspections in Swiss talks】Market sources: In Switzerland the US will press Iran to allow UN nuclear inspectors back into key nuclear sites, using the unfreezing of tens of billions of dollars of frozen Iranian assets as the primary incentive. The issue is expected to be one of the most critical in the first round of talks."
-    },
-    {
-      "id": "4946123",
-      "time": "2026-06-21 12:11:23",
-      "tags": [
-        "國際"
-      ],
-      "text": "據報道，美國副總統萬斯（Vance）已於當地時間凌晨5點59分抵達瑞士。"
     }
   ]
 }
