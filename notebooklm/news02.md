@@ -1,7 +1,199 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-06-28 18:37:48_
-_本檔包含 3678 則快訊，約 669807 字_
+_更新時間：2026-06-28 19:47:44_
+_本檔包含 3667 則快訊，約 668852 字_
+
+---
+
+### 2026-06-26 11:14:27  #MKT News #Market Regions #Emerging Markets
+
+South Korea's KOSPI plunged about 8%, triggering a 20-minute trading halt. Financial blog Zero Hedge says MSCI’s decision in its latest review to keep South Korea in the emerging-markets index may be justified.
+
+---
+
+### 2026-06-26 11:14:22  #MKT News #000858.SZ #Impact bullish
+
+【Wuliangye chairman Deng Min says two constants unchanged, confident in company outlook】At Wuliangye’s 2025 shareholders’ meeting, chairman Deng Min said the baijiu sector is in a deep adjustment and requires rational assessment, but two constants remain: first, baijiu consumption fundamentals and intrinsic value are unchanged, so advantaged regions, firms and brands face greater structural opportunities than challenges; second, Wuliangye’s long-term value-growth foundation is intact — as an industry leader the company has strong operating resilience, controllable risk and is positioned to traverse the current cycle earlier and faster. Management expressed continued confidence in Wuliangye’s development.
+
+---
+
+### 2026-06-26 11:13:59  #公司
+
+【五糧液集團董事長鄧敏：兩大點始終沒有改變 對五糧液發展充滿信心】6月26日，在五糧液(000858)2025年度股東大會上，五糧液集團黨委書記、董事長鄧敏表示，當前，白酒行業仍處於深度調整階段，我們需要對此做出理性分析和判斷，在穿越週期中抓住戰略發展的機會。概括起來就是兩個始終：一是，白酒消費底層邏輯和價值屬性始終沒有改變，對優勢產區、優勢企業、優勢品牌而言，面臨的結構性戰略機會始終是大於挑戰；二是，五糧液長期價值成長的根基始終沒有改變，作為中國白酒行業的頭部優勢企業，公司整體經營韌性強大，抗風險能力可控，具備更早、更快穿越此輪週期的優勢和能力。我們對五糧液的發展始終充滿信心。
+
+---
+
+### 2026-06-26 11:13:12  #MKT News #Important #Market Regions #Greater China #002714.SZ #Impact bullish #300498.SZ #000876.SZ
+
+A-share pork stocks jumped; Shennong Group hit the daily limit while Muyuan, Wens, New Hope, New Wufeng and Juxing Agriculture & Animal Husbandry also rose. Media reported hog firms have set targets to cut planned new production capacity and have brought forward the timetable.
+
+---
+
+### 2026-06-26 11:11:55  #央行 #公司 #國際
+
+【央行：授權中國銀行（香港）雅加達分行擔任印度尼西亞人民幣清算行】中國人民銀行公告，根據《中國人民銀行與印度尼西亞銀行關於建立人民幣清算安排的合作備忘錄》，中國人民銀行決定授權中國銀行（香港）有限公司雅加達分行擔任印度尼西亞人民幣清算行。
+
+---
+
+### 2026-06-26 11:11:23  #公司 #市場
+
+【豬肉股快速拉昇，神農集團漲停】豬肉股快速拉昇，神農集團漲停，牧原股份、溫氏股份、新希望、新五豐、巨星農牧跟漲。
+
+---
+
+### 2026-06-26 11:10:39  #MKT News #Important
+
+【South Korean stocks fall over 8%, circuit breaker triggered】Korea Exchange triggered a circuit breaker after the KOSPI fell 8%, suspending trading for 20 minutes.
+
+---
+
+### 2026-06-26 11:10:38  #市場 #焦點 #國際
+
+【韓股跌超8% 觸發市場熔斷】韓國交易所因KOSPI指數下跌8%觸發市場熔斷機制 (Circuit Breaker)，交易暫停20分鐘。
+
+---
+
+### 2026-06-26 11:09:51  #市場
+
+新加坡海峽時報指數下跌1%至5166.97點。
+
+---
+
+### 2026-06-26 11:09:49  #MKT News #Market Regions #Greater China #000002.SZ #Impact bullish
+
+A-share property development names rallied: Yingxin Development touched the daily limit, Hefei Urban Construction had earlier hit the limit; Zhangjiang Hi‑Tech and Rongfeng Holdings rose over 6%, Vanke A gained more than 5%.
+
+---
+
+### 2026-06-26 11:09:21  #MKT News #Commodities #Precious Metals #Macro & Rates #The Fed (FOMC) #XAUUSD #Impact bearish #DXY #Impact bullish #S&P500
+
+【Macquarie cuts year-end spot gold forecast to $4,300; sees decline from next year through 2030】Macquarie cuts its year-end spot gold target to $4,300 from $4,400 and says inflation trends and central bank policy — especially a hawkish Fed — are the key price drivers. The apparent end to the Middle East conflict and a firmer Fed stance have pressured gold; Macquarie notes the Fed’s new chair Wash set a hawkish tone at his first meeting and that the central bank has the capacity to push or suppress gold prices. The bank expects the Middle East shock to weigh on Q3 global growth, but a subsequent growth rebound and the start of an easing cycle should drive money out of precious metals and lower gold. Investors have been taking profits and rotating into equities, leaving room for later gold re-entry only if a major macro shock occurs. Forecasts: 2026 average spot $4,641 (+35% YoY); 2027 average $4,200 (‑9.5%). Macquarie expects gold to decline year‑by‑year from next year through 2030.
+
+---
+
+### 2026-06-26 11:09:13  #公司 #國際
+
+【“木頭姐”出售阿里巴巴股票】凱茜·伍德(Cathie Wood)旗下的基金週四拋售了阿里巴巴的美國存託憑證(ADR)，而就在三週前，這些基金剛剛增持了阿里巴巴的股票。根據週四釋出的交易公告，ARK旗下的三隻基金共計拋售了176,004股阿里巴巴股票。此前，伍德的基金於6月4日買入了245,342股阿里巴巴股票。
+
+---
+
+### 2026-06-26 11:09:04  #MKT News #Commodities #Industrial Metals #BHP.N #Impact bearish #RIO.N #VALE.N
+
+【Iron ore weakens for seventh straight week, posts largest weekly drop since 2022】Iron ore prices fell for a seventh consecutive week, recording the largest single-week drop since 2022. Singapore iron ore futures hit an intraday low of $96.95/ton on Friday, down about 1.5% for the week. The market is under pressure from seasonal demand weakness and narrowing steel mill margins, rising seaborne supply and elevated port inventories. A temporary U.S.-Iran peace deal has eased fuel costs, adding to downside. Kpler analyst Sushmita Vazirani said Australian miners may lift output in the final week of the month to meet quarterly targets and flagged progress in Port Hedland union talks with BHP as a key supply-watch for July.
+
+---
+
+### 2026-06-26 11:08:02  #市場
+
+富時中國A50指數期貨下跌4%。
+
+---
+
+### 2026-06-26 11:07:51  #其他
+
+韓國KOSPI指數持續下挫，跌幅擴大至8%。SK海力士跌超9%，三星電子跌近9%。
+
+---
+
+### 2026-06-26 11:07:51  #MKT News #Important #000660.KS #Impact bearish #005930.KS
+
+【KOSPI plunges 8%; SK Hynix falls 9%】South Korea's KOSPI index continued to slide, widening losses to about 8%. SK Hynix fell more than 9%; Samsung Electronics dropped nearly 9%.
+
+---
+
+### 2026-06-26 11:07:46  #MKT News #Market Themes #AI Revolution
+
+【AIIA launches preparatory work for Token Service working group】China Artificial Intelligence Industry Development Alliance (AIIA) has launched preparatory work to establish a Token Service working group to support high-quality development of token services. The group is led by the China Academy of Information and Communications Technology (CAICT) and comprises 22 organisations, including Huawei Cloud, Baidu Intelligent Cloud, China Mobile, China Telecom and China Unicom, aiming to coordinate upstream and downstream industry participants to build a high-quality token service ecosystem.
+
+---
+
+### 2026-06-26 11:07:29  #MKT News #CNH #Impact bullish
+
+PBOC said under the Memorandum of Understanding with Bank Indonesia on establishing RMB clearing arrangements it has authorized Bank of China (Hong Kong) Limited's Jakarta branch to serve as Indonesia's RMB clearing bank.
+
+---
+
+### 2026-06-26 11:07:11  #其他
+
+【AIIA詞元（Token）服務工作組籌備成立】為助力Token服務實現高質量發展，中國人工智慧產業發展聯盟（AIIA）詞元（Token）服務工作組的籌備工作正式啟動。由中國信通院牽頭，聯合華為雲、百度智慧雲、中國移動、中國電信、中國聯通等22家單位，凝聚產業上下游合力，構建“高質量Token服務”生態體系。
+
+---
+
+### 2026-06-26 11:06:47  #其他
+
+阿里巴巴港股跌5%。
+
+---
+
+### 2026-06-26 11:06:32  #MKT News #688256.SS #Impact bearish
+
+Cambricon fell more than 5% as turnover exceeded CNY10 billion.
+
+---
+
+### 2026-06-26 11:05:58  #MKT News #Market Themes #Chip Wars #Nasdaq100 #Impact mixed #SZSE Component #Impact bullish #CSI300
+
+【China Semiconductor Industry Association: Q1 China IC sector departed from typical cyclical pattern】On June 26 at the 2026 China (Shenzhen) Integrated Circuit Summit, Wang Junjie, executive secretary-general of the China Semiconductor Industry Association, said China’s integrated-circuit industry in Q1 departed from normal cyclical behavior, with 2026 starting at a peak and shipments nearly flat with Q4 2025. Domestic IC manufacturing unusually led sector growth in Q1. Latest institutional estimates project the global semiconductor market could top $1.5 trillion this year. The industry nonetheless shows structural supply–demand imbalances: memory makers’ profits surged, foundry and packaging/test saw concurrent volume and price gains, while handset OEMs face margin pressure.
+
+---
+
+### 2026-06-26 11:05:45  #Trading Economics #Markets #other #currency #Importance 1
+
+Bitcoin Slides Toward $58,000 — Bitcoin continued its descent to around $58,000 in late June, hitting its lowest level since September 2024 and extending its decline to roughly 50% from last year's record high. The cryptocurrency remained under pressure amid weakening institutional demand and persistent macroeconomic headwinds. US-listed spot Bitcoin ETFs have recorded net outflows of about $2.92 billion so far this month, while concerns over persistent inflation and growing expectations that the Federal Reserve will hike interest rates this year further dampened risk appetite. Meanwhile, markets awaited the expiry of about $10 billion in Bitcoin options on Friday on Deribit, with most of the contracts representing bullish bets that have lost value as Bitcoin declined, potentially prompting traders to adopt a more defensive stance and adding to expectations of heightened volatility.
+
+---
+
+### 2026-06-26 11:05:22  #市場
+
+以太坊下跌3.03%，報1510.95美元。
+
+---
+
+### 2026-06-26 11:04:51  #其他
+
+【中半協：一季度積體電路產業偏離傳統週期特徵】6月26日，中國半導體行業協會執行秘書長王俊傑在2026中國（深圳）積體電路峰會上表示，今年一季度中國積體電路產業偏離傳統週期特徵，2026年起步就是高潮，出貨量幾乎與去年第四季度持平。據統計，一季度國內積體電路製造業增長罕見領跑行業增速；機構最新預計全球半導體產業年內有望突破1.5萬億美元。另一方面，產業存在供需結構性失衡，儲存廠業績暴增，晶圓代工、封測量價齊升，手機等終端廠商盈利承壓。
+
+---
+
+### 2026-06-26 11:04:32  #市場 #國際
+
+泰國SET指數下跌1%至1542.36點。
+
+---
+
+### 2026-06-26 11:04:10  #MKT News #Market Regions #Greater China #CNH #Impact bullish
+
+PBOC has authorized Standard Bank South Africa Ltd and Industrial and Commercial Bank of China Ltd as joint RMB clearing banks in Africa to facilitate China–Africa trade and investment.
+
+---
+
+### 2026-06-26 11:04:06  #央行 #公司
+
+央行：為促進中非貿易投資便利化，中國人民銀行決定授權南非標準銀行有限公司和中國工商銀行股份有限公司擔任非洲人民幣聯合清算行。
+
+---
+
+### 2026-06-26 11:04:01  #央行 #其他
+
+紐西蘭央行5月份淨賣出2.52億紐西蘭元。
+
+---
+
+### 2026-06-26 11:03:29  #MKT News #Important #Hang Seng Index #Impact bearish #S&P500 #XAUUSD #Impact bullish
+
+Taiwan Stock Exchange Weighted Index (TAIEX) fell more than 3%.
+
+---
+
+### 2026-06-26 11:03:05  #其他
+
+【我國單機容量最大抽水蓄能電站——天台抽水蓄能電站全面投產】6月25日23時59分，總裝機容量170萬千瓦的天台抽水蓄能電站實現全面投產發電，這也是“十五五”期間國內首個全面投產的抽水蓄能電站。
+
+---
+
+### 2026-06-26 11:02:38  #Trading Economics #Markets #Japan #Currency #Importance 2
+
+Yen Stays Near 40-Year Low — The Japanese yen traded around 161.7 per dollar on Friday, hovering near its weakest level since 1986 despite data showing Tokyo's core inflation accelerated for the first time in eight months, reinforcing expectations that the Bank of Japan will continue raising interest rates. On Wednesday, BOJ Governor Kazuo Ueda reaffirmed his commitment to further rate hikes in line with economic, inflation, and financial developments. A day later, hawkish board member Naoki Tamura also advocated raising rates every few months. The BOJ is due to announce its next policy decision on July 31. The yen remained under pressure despite repeated verbal warnings from Japan's Finance Ministry and record currency intervention in recent weeks, as a stronger dollar and the wide interest rate differential with the US continued to weigh on the currency while the Federal Reserve is expected to raise rates later this year.
 
 ---
 
@@ -21898,263 +22090,5 @@ DIGITALBRIDGE據悉正在探索AIMS資料中心的各種方案，包括出售的
 ### 2026-06-25 10:05:17  #MKT News #Market Themes #AI Revolution #BIDU.O #Impact bullish
 
 【Baidu consolidates Wenxin sites into unified AI portal】On June 25, Baidu said it has merged and upgraded its Wenxin-related websites into a single Baidu Wenxin site as a one-stop AI services portal, with an expanded feature matrix.
-
----
-
-### 2026-06-25 10:05:11  #Trading Economics #Markets #China #Stock Market #Importance 1
-
-Chinese Stocks Follow Mixed Wall Street Session — The Shanghai Composite slipped 0.3% to 4,099 on Thursday, while the Shenzhen Component advanced 1.3% to 16,251, as the two benchmarks diverged following a mixed overnight session on Wall Street. Sentiment toward artificial intelligence-related stocks improved after Micron Technology reported stronger-than-expected quarterly results and issued an upbeat revenue forecast, bolstering confidence in sustained AI-driven demand. Adding to the positive tone, Qualcomm projected annual data-center AI component sales exceeding $15 billion by fiscal 2029. Both developments helped revive investor interest in the technology sector following a recent global selloff. However, gains in technology shares were partly offset by weakness in major lenders, with Industrial and Commercial Bank of China falling 1.1%, Agricultural Bank of China losing 1.0%, China Construction Bank dropping 1.3%, and Bank of China retreating 2.0%.
-
----
-
-### 2026-06-25 10:04:34  #MKT News #Important #01347.HK #Impact bullish
-
-Hong Kong-listed Hua Hong Hongli (01347.HK) climbed above HK$200 to a fresh record high, extending its year-to-date gain to over 170%.
-
----
-
-### 2026-06-25 10:04:32  #公司 #焦點
-
-港股華虹宏力(01347.HK)突破200港元續刷歷史新高，年內漲幅超170%。
-
----
-
-### 2026-06-25 10:03:58  #MKT News #Macro & Rates #DXY #Impact bullish #USDJPY #CNH #Impact bearish
-
-【Mitsubishi UFJ: Thai baht, other Asian currencies pressured by US rates staying higher for longer】Mitsubishi UFJ senior FX analyst Lloyd Chan says the Thai baht and other Asian currencies are under pressure against the dollar as US interest rates are expected to remain higher for longer. He warns this is likely to create short-term downside for regional currencies, especially low-yielders, and the bank maintains a negative view on recent baht moves. Chan added that although the BOT expects stronger growth this year, concerns persist that expansion remains slow and uneven.
-
----
-
-### 2026-06-25 10:03:22  #MKT News #01888.HK #Impact bullish #01989.HK #00148.HK
-
-PCB-related stocks in Hong Kong rallied: Kingboard Laminates (01888.HK) rose more than 6%, Guanghe Technology (01989.HK) gained over 5% and Kingboard Group (00148.HK) advanced about 3%.
-
----
-
-### 2026-06-25 10:02:58  #其他
-
-Kakobank將以241億韓元收購Mastern Capital。
-
----
-
-### 2026-06-25 10:02:35  #市場
-
-【創新藥概念股多數回撥，塞力醫療跌停】創新藥概念股多數回撥，塞力醫療跌停，亞太藥業跌超9%，雙鷺藥業、新華製藥、康芝藥業跌幅居前。
-
----
-
-### 2026-06-25 10:02:29  #市場 #國際
-
-印尼盾兌美元早盤交易走弱，至17950。
-
----
-
-### 2026-06-25 10:02:13  #公司
-
-【物流具身平臺賽那德完成3億元C輪融資】6月25日，物流具身平臺賽那德宣佈完成3億元人民幣C輪融資。本輪融資參與方包括滿幫集團，以及海通開元、達晨財智等。
-
----
-
-### 2026-06-25 10:01:56  #公司
-
-【川環科技：下游客戶對橡塑管路的應用匹配節奏持續加快】據川環科技訊息，隨著下游各領域熱管理需求提升，近期已有多家海內外各賽道頭部企業先後赴公司開展技術交流、現場審廠與專案對接，合作覆蓋算力液冷、儲能熱管理、汽車管路等多個場景。在算力液冷賽道，截至目前，多數合作客戶已完成相關資質認證，合作專案持續穩步推進；其中騰訊為近期新完成現場審廠及對應資質認證的客戶，雙方後續專案對接正按計劃有序開展。公司相關負責人表示：“目前各賽道的合作專案都在按節奏有序推進，下游客戶對橡塑管路的應用匹配節奏持續加快。”
-
----
-
-### 2026-06-25 10:01:42  #其他
-
-【百度文心網站升級為統一入口】6月25日，百度宣佈對百度文心相關網站進行合併升級，統一整合為全新的百度文心網站，一站式AI服務入口，功能矩陣全面擴容。
-
----
-
-### 2026-06-25 10:01:33  #其他
-
-FPT與微軟合作，在亞洲開展人工智慧聯合創新。
-
----
-
-### 2026-06-25 10:01:27  #MKT News
-
-TASS, citing local officials, reported a fuel depot in Russia's Krasnodar region caught fire after debris from a downed drone fell.
-
----
-
-### 2026-06-25 10:01:10  #市場 #國際
-
-印尼基準股指早盤下跌0.3%至5,866點。
-
----
-
-### 2026-06-25 10:00:34  #市場
-
-【酒價內參6月25日價格釋出：精品茅臺青花汾20領漲 總價低位小幅反彈】新浪財經“酒價內參”過去24小時收集的資料顯示，中國白酒市場主要大單品的終端零售均價6月25日整體低位小幅反彈。如果主要單品各取一瓶整體打包售賣，今日總售價為9870元，較昨日上漲6元，結束此前連續三日回落走勢，但仍處於近期低位區間，僅較昨日創下的近兩個多月最低點略有回升。終端交投情緒整體仍偏謹慎，核心單品的漲跌分化依然顯著。今日11大白酒單品四漲四跌三平，漲跌家數均衡。上漲方面，精品茅臺漲幅居前，上漲9元/瓶，創近一月來最大單日漲幅，自昨日的近一月最低位快速反彈；青花汾20上漲6元/瓶，重新站上370元關口，平進入六月以來的最高價紀錄；五糧液普五八代與古井貢古20均小幅上漲1元/瓶，其中前者自昨日創下的今年2月2日以來最低紀錄小幅反彈，仍處於低位區間，後者自昨日的近一月最低位小幅修復。下跌方面，飛天茅臺跌幅居前，下跌4元/瓶，持續緩步回落；國窖1573與青花郎均下跌3元/瓶；水晶劍南春小幅下跌1元/瓶，平近一月最低價紀錄。五糧液1618、洋河夢之藍M6+與習酒君品價格環比保持不變，其中五糧液1618仍處於近一月最低位，洋河夢之藍M6+仍平近一月最高價紀錄。
-
----
-
-### 2026-06-25 10:00:30  #Trading Economics #Economy #Japan #Interest Rate #Importance 1
-
-BoJ Hawk Tamura Calls for Rate Hike Every Few Months — Bank of Japan should continue raising interest rates at intervals of a few months, board member Naoki Tamura said in a speech, arguing the policy rate should gradually move toward a neutral level of around 2%, above the current 1%. He noted inflationary pressures are likely to strengthen regardless of Middle East tensions, with higher import costs expected to pass through to consumer prices more quickly and broadly than after Russia’s 2022 invasion of Ukraine, reflecting shifts in firms’ pricing behavior. “Considering the recent increase in upside risks to prices, what I envisage as a baseline path is raising the policy interest rate by 0.25 percentage points at intervals of a few months toward the neutral interest rate level of 2%,” Tamura said. He added that if inflation risks intensify, the central bank should “accelerate the pace of rate hikes without hesitation” by increasing either the frequency or size of moves.
-
----
-
-### 2026-06-25 10:00:25  #MKT News #Star Stocks #Tencent #0700.HK
-
-【Chuanhuan Technology: Downstream adoption of rubber/plastic pipeline applications accelerating】Chuanhuan Technology said multiple domestic and overseas leading customers have recently conducted technical exchanges, on-site audits and project coordination, with cooperation covering compute liquid cooling, energy-storage thermal management and automotive pipeline applications. In the compute liquid cooling segment most partners have completed qualification certification and projects are progressing steadily; Tencent recently completed an on-site audit and received certification, and subsequent project integration is proceeding as planned. A company representative said projects across segments are advancing in an orderly rhythm and downstream matching for rubber/plastic pipeline applications is accelerating.
-
----
-
-### 2026-06-25 09:59:39  #市場 #國際
-
-美國原油期貨價格下跌逾1美元，至2月27日以來最低水平。
-
----
-
-### 2026-06-25 09:58:56  #MKT News #03986.HK #Impact bullish #09903.HK #00981.HK
-
-Hong Kong-listed chip stocks ended higher after choppy trading: Zhaoyi Innovation (03986.HK) rose more than 9%, Tianshu Zhixin (09903.HK) rose over 8%, Lanqi Technology (06809.HK) gained over 6% and SMIC (00981.HK) climbed more than 3%.
-
----
-
-### 2026-06-25 09:58:51  #MKT News #WTI #Impact bullish #Brent #XAUUSD
-
-【IRGC warns vessels using Strait of Hormuz routes not approved by Tehran will be targeted】The Islamic Revolutionary Guard Corps warned international shipping on Wednesday that any new Strait of Hormuz transit routes established without Tehran’s coordination are unacceptable and dangerous, and threatened direct action against vessels that ignore its orders. The IRGC said only Iran-designated routes are safe, and its navy added all vessels seeking transit must coordinate with Iranian forces on VHF channel 16 — a requirement that places Iranian military permission at the centre of commercial navigation through the chokepoint.
-
----
-
-### 2026-06-25 09:58:25  #市場 #焦點
-
-紐約期金失守3990美元/盎司，日內跌0.47%。
-
----
-
-### 2026-06-25 09:58:05  #其他
-
-【今年前5個月上海實現進出口2.1萬億元 增長17.9%】從上海海關獲悉，今年前5個月，上海市累計實現進出口2.1萬億元，增長17.9%，外貿執行穩中向好。其中5月，上海市進出口4204.9億元，同比增長11.5%，連續16個月保持增長態勢；出口2000.1億元，增長26.7%；進口2204.8億元，增長0.6%。
-
----
-
-### 2026-06-25 09:57:41  #公司
-
-【瀘州老窖集團等投資新設金嘉企管合夥企業】企查查APP顯示，近日，成都金嘉企業管理合夥企業（有限合夥）成立，經營範圍包含：企業總部管理；企業管理；資訊諮詢服務（不含許可類資訊諮詢服務）；企業管理諮詢。企查查股權穿透顯示，該企業由瀘州老窖集團有限責任公司旗下四川金舵投資有限責任公司等共同持股。
-
----
-
-### 2026-06-25 09:57:21  #其他
-
-聯訊儀器漲超5%，股價突破2700元。
-
----
-
-### 2026-06-25 09:57:19  #MKT News #Market Regions #Greater China #CSI300 #Impact bullish #SSE Composite
-
-China A-share gaming sector rose in choppy trade; Giant Network hit the daily limit-up. ZQGame, Bingchuan Network, 37 Interactive Entertainment, Perfect World and G-bits also advanced.
-
----
-
-### 2026-06-25 09:57:00  #市場
-
-【遊戲板塊震盪上揚，巨人網路漲停】遊戲板塊震盪上揚，巨人網路漲停，中青寶、冰川網路、三七互娛、完美世界、吉位元跟漲。
-
----
-
-### 2026-06-25 09:56:51  #MKT News #Macro & Rates #Treasury Yields #Market Regions #Japan & APAC
-
-Japan 10-year government bond yield fell 4bps to 2.625%.
-
----
-
-### 2026-06-25 09:56:50  #其他
-
-委內瑞拉代總統羅德里格斯24日宣佈，該國進入緊急狀態。（新華社）
-
----
-
-### 2026-06-25 09:56:41  #市場 #國際
-
-10年期日本國債收益率下跌4.0個基點至2.625%。
-
----
-
-### 2026-06-25 09:55:35  #市場
-
-【港股保險股集體下跌，眾安線上等多股跌超3%】港股保險股集體下跌，眾安線上、中國太平、中國財險、中國平安跌超3%，友邦保險、中國人壽跌超2%。
-
----
-
-### 2026-06-25 09:55:31  #公司
-
-【三環集團：警惕偽造授權與假冒MLCC產品】三環集團6月24日晚就MLCC產品釋出宣告稱，近期發現市場上存在偽造公司授權檔案、冒充公司授權代理商以及銷售假冒公司MLCC（多層片式陶瓷電容器）產品等情況。三環集團表示，公司從未授權任何代理商向下遊客戶（包括但不限於貿易商、分銷商及終端客戶）授予任何形式的二級授權或分銷代理資格。公司授權證書均採用統一模板。公司MLCC產品標籤均為原廠封裝。
-
----
-
-### 2026-06-25 09:55:13  #其他
-
-【委內瑞拉最大機場因地震受損關閉】委內瑞拉代總統羅德里格斯當地時間6月24日晚表示，因接連強震造成的破壞，首都加拉加斯附近的全國最大機場——邁克蒂亞西蒙·玻利瓦爾國際機場關閉。（CCTV國際時訊）
-
----
-
-### 2026-06-25 09:54:53  #國際
-
-【伊方說船隻透過霍爾木茲海峽須與伊革命衛隊協調】伊朗伊斯蘭革命衛隊海軍25日在社交媒體上發表宣告說，船隻透過霍爾木茲海峽必須與革命衛隊海軍協調，違規船舶“將受到處置”。宣告說，數小時前，某些機構在未與伊朗協調的情況下，宣佈了船舶透過霍爾木茲海峽的新航線，所謂新航線不可接受且極其危險。宣告還說，革命衛隊海軍警告，透過霍爾木茲海峽僅可經由伊朗所公佈的航線，禁止任何船舶在這些航線以外航行，在這些航線以外航行極其危險。（新華社）
-
----
-
-### 2026-06-25 09:54:52  #MKT News #WTI #Impact bullish #Brent
-
-【Iran says vessels transiting Strait of Hormuz must coordinate with IRGC navy】Iran’s Islamic Revolutionary Guard Corps (IRGC) navy said on social media on the 25th that vessels transiting the Strait of Hormuz must coordinate with the IRGC navy and that non‑compliant ships “will be dealt with.” It said some agencies hours earlier had announced new transit routes without Iranian coordination, calling those routes unacceptable and extremely dangerous. The IRGC navy warned transit is permitted only via Iran‑published routes and that navigation outside those routes is prohibited and extremely dangerous.
-
----
-
-### 2026-06-25 09:54:04  #公司
-
-【先正達集團中國與麥當勞中國、麥肯食品中國簽署三方合作備忘錄】6月24日，第四屆鏈博會期間，先正達集團中國與麥當勞中國、麥肯食品中國，正式簽署三方合作備忘錄，共同推進馬鈴薯試點合作專案。
-
----
-
-### 2026-06-25 09:53:54  #公司 #市場
-
-【光纖概念反覆活躍 光電股份等多股漲停】光纖概念反覆活躍，上游原材料方向領漲，光電股份漲停，此前泰和新材14天7板，宏柏新材2連板，金信諾、中天科技、永鼎股份、唯科科技漲幅靠前。
-
----
-
-### 2026-06-25 09:53:42  #MKT News
-
-【Where to park spare cash: retail money-market yield tracker】Tencent Licaitong on-demand + 7-day annualized yield ranged 0.6640%–1.4590%. WeChat Lingqiantong 7-day annualized yield ranged 1.0020%–1.0270%. Alipay Yu'ebao 7-day annualized yield ranged 1.0000%–1.0990%.
-
----
-
-### 2026-06-25 09:51:40  #其他
-
-【2025年全國共調配血液358.9萬單位】從國家衛生健康委近日在京舉辦的重點建議提案辦理溝通會暨服務代表委員能力提升班上獲悉，2025年全國共調配血液358.9萬單位，其中省際間共調配血液63.1萬單位，同比增長8.79%。
-
----
-
-### 2026-06-25 09:51:25  #MKT News #Important #Commodities #Energy #WTI #Impact bearish #Brent
-
-WTI and Brent crude fell more than 1% intraday, trading at $69.76/bbl and $72.69/bbl respectively.
-
----
-
-### 2026-06-25 09:51:09  #市場 #焦點
-
-滬深兩市成交額超1萬億元，較上日此時放量1538億元。
-
----
-
-### 2026-06-25 09:50:55  #市場 #焦點
-
-低硫燃料油連續主力合約日內跌5%，現報3710.00元。
-
----
-
-### 2026-06-25 09:50:48  #其他
-
-【中國氣象局宣佈設立“媽祖”獎學金助力全球氣象防災減災和可持續發展】中國氣象局24日在日內瓦參加世界氣象組織執行理事會第80次屆會期間，宣佈設立“媽祖”獎學金，助力全球氣象防災減災和可持續發展。（新華社）
-
----
-
-### 2026-06-25 09:50:39  #Trading Economics #Economy #Australia #Household Spending MoM #Importance 1
-
-Australia Personal Spending Rebounds in May — Household spending in Australia rose 1.3% month-over-month in May 2026, rebounding from a 1.1% decline in April. Spending increased across eight of the nine major consumption categories, with the strongest recovery recorded in clothing and footwear (2.7% vs -2.2% in April), followed by miscellaneous goods and services (2.2% vs -0.7%), transport (1.4% vs -4.7%), food (1.1% vs -1.1%), and recreation and culture (0.8% vs -0.2%). Meanwhile, spending continued to rise for hotels, cafes and restaurants (1.9% vs 0.9%), alcoholic beverages and tobacco (1.0% vs 0.4%), and furnishings and household equipment (0.8% vs 0.0%). Regionally, household spending rose in Western Australia (2.6%), the Northern Territory (2.1%), Victoria (1.7%), South Australia (1.6%), Queensland (1.1%), New South Wales (0.7%), and the Australian Capital Territory (0.6%). In contrast, Tasmania was the only jurisdiction to record a decline, with spending falling 0.5%. On an annual basis, household spending increased 5.5%.
 
 ---

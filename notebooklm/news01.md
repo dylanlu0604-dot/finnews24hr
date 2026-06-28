@@ -1,7 +1,253 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-06-28 18:37:48_
-_本檔包含 3456 則快訊，約 670213 字_
+_更新時間：2026-06-28 19:47:44_
+_本檔包含 3464 則快訊，約 670425 字_
+
+---
+
+### 2026-06-28 19:43:37  #國際
+
+【外媒：法國發生一起民用飛機墜毀事故，造成11人死亡】綜合法新社等媒體6月28日最新報道，法國發生一起民用飛機墜毀事故，造成11人死亡。另據路透社援引法國媒體訊息報道，墜毀的飛機上載有跳傘人員。報道未明確說明這架飛機上載有多少人。（）
+
+---
+
+### 2026-06-28 19:42:56  #市場 #央行 #國際
+
+【美元衝高人民幣回撥至6.8】6月中旬以來，外匯市場行情出現明顯切換，美元指數受美聯儲超預期鷹派政策提振衝高，人民幣迎來階段性回撥。美元指數於6月25日持續衝高至101.5，又於26日小幅回落至101.36。匯率端同步出現調整，截至26日收盤，在岸人民幣對美元報6.7978，離岸人民幣對美元報6.8048。本輪人民幣由升轉貶，核心誘因來自美聯儲議息會議釋放的超預期鷹派訊號。美聯儲釋出的經濟預測摘要顯示，美聯儲官員對2026年聯邦基金利率預測的中值從3月的3.4%提高至3.8%。東方金誠首席宏觀分析師王青表示，6月16日美聯儲主席沃什首次主持議息會議，會後釋放了超出市場預期的鷹派訊號，對美元的推升作用較大，超過了15日美伊簽署諒解備忘錄、避險因素消退對美元的影響。這導致美元指數從6月17日的100.4升至25日的101.5。（第一財經）
+
+---
+
+### 2026-06-28 19:42:09  #公司
+
+【達飛輪船稱其“加拉帕戈斯號”集裝箱船已駛離霍爾木茲海峽】法國航運巨頭達飛輪船（CMA CGM）表示，其旗下的“加拉帕戈斯號”（Galapagos）集裝箱船已於週日上午駛離霍爾木茲海峽。達飛輪船在一份宣告中表示：“此次穿越在依然複雜且需要保持持續警惕的地區局勢中，標誌著一個重要的里程碑。”該公司拒絕就這艘船隻駛離海峽的具體情況作進一步評論。達飛輪船表示，自戰爭爆發以來，目前仍有10艘船隻滯留在海灣地區。
+
+---
+
+### 2026-06-28 19:41:31  #MKT News #Important #2222.SR
+
+Saudi state news agency SPA reports an ARAMCO helicopter crashed at Ras Tanura, killing 14. Cause is unknown and an investigation is under way.
+
+---
+
+### 2026-06-28 19:41:25  #國際
+
+據報道，一嘉賓稱“讓黎巴嫩再次偉大！”特朗普回應：“好的，我會的。”
+
+---
+
+### 2026-06-28 19:40:01  #其他
+
+沙烏地阿拉伯國家通訊社表示，沙特阿美直升機墜毀原因尚不明確，調查正在進行中。
+
+---
+
+### 2026-06-28 19:39:02  #其他
+
+沙特阿美一架直升機墜毀，機上 14 名乘客全部遇難。
+
+---
+
+### 2026-06-28 19:36:29  #其他
+
+【熱浪來襲，匈牙利帕克斯核電站或將進一步削減發電量】匈牙利政府在其網站上表示，由於作為冷卻水源的多瑙河河水溫度過高，該國帕克斯（Paks）核電站週日可能需進一步削減320兆瓦（MW）的發電量。政府稱，週日極有可能打破39.9攝氏度的日最高氣溫紀錄。政府稱，週日極有可能打破39.9攝氏度的日最高氣溫紀錄。這座擁有四座俄製反應堆、總裝機容量為2吉瓦（GW）的核電站已於週六宣佈，因水溫超過29.5攝氏度的干預閾值，3號反應堆將削減243兆瓦的輸出功率。若週日進一步減產，該電站的總發電量將降至其裝機容量的約70%。
+
+---
+
+### 2026-06-28 19:36:14  #國際
+
+【伊朗稱通行霍爾木茲海峽仍需與革命衛隊協調】當地時間28日，據伊朗方面訊息，所有船隻透過霍爾木茲海峽仍需與伊朗伊斯蘭革命衛隊保持協調，以確保航行安全。該訊息未明確提及釋出方。伊朗方面同時公佈了建議航道：進入波斯灣的船隻最安全的航線位於伊朗霍爾木茲島以南；駛離波斯灣的船隻則應選擇伊朗拉臘克島以南航道通行。訊息未提及上述安排是否屬於霍爾木茲海峽新的航線管理措施。（央視新聞）
+
+---
+
+### 2026-06-28 19:36:07  #MKT News #Market Themes #AI Revolution #Nasdaq100 #Impact mixed #Copper #Impact bullish #S&P500
+
+【CSC Financial: AI compute stays structurally strong but volatility rising; avoid chasing rallies】CSC Financial says Q3 market direction will be driven by: fundamentals — AI compute demand remains highly cyclical; company earnings and overseas results are key, and policy actions from the July Politburo meeting matter given macro pressure since April. Liquidity — external shocks have risen while domestic liquidity is neutral. Risk appetite — geopolitical events and major tech listings can produce short-term volatility; monitor compute trends in Japan, Korea and the US due to global tech linkage. Sector view — AI compute’s bull case intact but volatility has increased; advise against chasing rallies, accumulate on dips. Lithium batteries should enter seasonal strength, energy storage demand is warming, and renewables may see valuation repair. Dividend plays look poised for oversold rebounds. Focus: banks, coal, utilities, AI, optical modules, storage, chips, industrial metals, lithium battery materials (VC).
+
+---
+
+### 2026-06-28 19:32:34  #MKT News
+
+Local French authorities said a civilian aircraft crashed near Nancy, France, killing 11 people.
+
+---
+
+### 2026-06-28 19:30:35  #其他
+
+據法國省長訊息，法國南希附近發生墜機事故，造成11人死亡。
+
+---
+
+### 2026-06-28 19:30:12  #宏觀 #公司 #觀點
+
+【中信建投：鋰電有望迎來旺季、儲能需求持續回暖】中信建投釋出研報稱，以下因素將決定三季度行情的走勢：基本面方面，AI算力仍維持較高景氣度，其中報業績和海外財報值得關注，同時4月以來宏觀經濟承壓情況下，7月政治局會議提振經濟舉措較為重要；流動性方面，外部擾動加大，內部維持中性；風險偏好方面，地緣事件、行業巨頭上市會對市場造成短期波動，而考慮到全球科技股聯動效應，日韓美等主要海外算力也需要持續追蹤。行業配置上，AI算力雖景氣邏輯不變但波動加劇，建議謹慎追高，逢回撥佈局；鋰電有望迎來旺季、儲能需求持續回暖，新能源存在階段估值修復機會；紅利有望超跌反彈、配置價效比較高。重點關注：銀行、煤炭、公用事業、AI、光模組、儲存、晶片、工業金屬、鋰電材料（VC）等。
+
+---
+
+### 2026-06-28 19:24:12  #國際
+
+美國地質調查局（USGS）：紐西蘭福克斯頓海灘以西 65 公里處發生 5 級地震。
+
+---
+
+### 2026-06-28 19:23:36  #行業 #市場 #國際
+
+【崔東樹：2026年1-5月中國佔世界汽車份額31%】乘聯分會崔東樹發文稱，根據世界汽車組織統計資料，全球汽車生產不斷增長，2025年達到9638萬臺，較2024年的9272萬臺增4%，中佔世界生產份額36%。根據我們統計2025年全球汽車銷量9689萬臺，較2024年9177萬臺同比增長6%。2026年5月的世界汽車銷量達到816萬臺，同比增3%。2026年1-5月世界汽車銷量達到3915萬臺，同比增2%。隨著美國、中國車市的年初相對負增長，2026年1-5月世界車市銷量增長不強。隨著美國、中國車市的年初相對負增長，2026年1-5月世界車市銷量增長不強。2025年中國達到世界汽車的35.4%的份額；2026年初的中國份額31.2%，2026年初，中國汽車銷量下滑較大，隨著商用車走強，5月份額回升到32.2%。年初較低是入門級銷量萎縮因素的異常體現，乘用車弱、商用車強，出口暴增。期待能有改善低端收入和減少抑制低端消費政策，隨著政策刺激效果逐步恢復顯現，預計未來中國車市逐步走強。
+
+---
+
+### 2026-06-28 19:18:23  #其他
+
+【解壓足球賣爆全球 世界盃背後的智慧財產權進階密碼】美加墨世界盃火熱進行中，而在浙江義烏，這個被稱為全球體育用品“超級工廠”的地方，同樣沉浸在足球氛圍中。在義烏全球數貿中心，一款十二面的“解壓足球”兩個多月售出40萬個，日產能達3萬個。據記者瞭解，“解壓足球”從創意到落地，研發團隊花了整整一個月的時間，產品一經推出便迅速引爆市場。 現在，義烏的商家已經從“拼價格”轉向“拼專利”。商家的轉型底氣從何而來？答案就藏在被商戶們稱為“智慧財產權超市”的地方。“義烏智慧財產權維權服務中心”依託覆蓋全球197個司法轄區的商標資料庫，每月開展一次全球統一檢索，實時追蹤企業核心商標在海外的註冊動態，發現風險及時預警、主動電話聯絡，將風險防範埠前移。義烏相關部門在國際商標註冊方面也開闢了“高速路”——申請人最快半個小時即可完成提交，可一次性選擇132個國家和地區作為目標市場。（央視財經）
+
+---
+
+### 2026-06-28 19:16:40  #MKT News #WTI #Impact bullish #Brent #XAUUSD
+
+Iranian state television said vessels transiting the Strait of Hormuz must still coordinate with the Iranian Revolutionary Guard. It said the safest inbound route into the Persian Gulf is south of Hormuz Island and the safest outbound route is south of Larak Island.
+
+---
+
+### 2026-06-28 19:15:02  #焦點 #國際
+
+伊朗國家電視臺表示，駛入波斯灣的船隻的最安全通航航道位於伊朗霍爾木茲島以南，駛出波斯灣的船隻的最安全通航航道位於伊朗拉拉克島以南。
+
+---
+
+### 2026-06-28 19:14:17  #國際
+
+伊朗國家電視臺表示，船隻通行霍爾木茲海峽仍需與伊朗革命衛隊協調。
+
+---
+
+### 2026-06-28 19:13:02  #公司
+
+【深天馬A：目前公司在與產業鏈合作伙伴協同進行玻璃基封裝基板樣品開發中 處在技術預研階段】深天馬A近日接受機構調研時表示，作為深耕行業四十餘年的顯示面板企業，公司在玻璃基加工能力上擁有長期行業經驗，同時公司前期有與產業鏈合作伙伴開展先進大尺寸面板級扇出型封裝技術開發，在高精度多層RDL、玻璃基工藝最佳化、上下游協同等核心技術和關鍵能力上有一定積累，目前公司在與產業鏈合作伙伴協同進行玻璃基封裝基板樣品開發中，處在技術預研階段。現在行業上還沒有進入到規模化商業階段，公司在該領域未來能否推進技術落地及商業化還存在不確定性。
+
+---
+
+### 2026-06-28 19:11:17  #MKT News #Important
+
+Iran and Lebanon parliamentary leaders spoke by phone minutes ago to discuss bilateral issues, particularly the situation in Lebanon, Iranian Students' News Agency (ISNA) reports.
+
+---
+
+### 2026-06-28 19:09:15  #國際
+
+白俄羅斯總統盧卡申科結束莫斯科兩天會談後離開。此次閉門談判未對外公佈任何成果，官方渠道也未披露會晤議程與會談實質內容。
+
+---
+
+### 2026-06-28 19:09:01  #國際
+
+伊朗方面訊息：伊朗議會議長與黎巴嫩議會議長數分鐘前通電話，雙方就雙邊事務、尤其是黎巴嫩局勢交換了意見。
+
+---
+
+### 2026-06-28 19:08:30  #國際
+
+【伊朗外交部：結束黎巴嫩戰爭是達成最終協議以及地區穩定的基本條件】伊朗外交部發言人巴加埃在回答有關以黎框架協議，以及美伊諒解備忘錄中關於結束黎巴嫩戰爭第一條款執行最新情況的提問時表示，伊朗根據其基於《聯合國憲章》和國際法基本規則的一貫政策，強調維護黎巴嫩國家主權和領土完整、尊重全體黎巴嫩人民的尊嚴與安全的必要性，認為這是任何與結束戰爭及猶太復國主義政權對黎巴嫩佔領有關的諒解得以存續和穩定的基本條件。在此基礎上，伊朗無論是在4月8日的停火協議中，還是在6月18日關於結束戰爭的諒解備忘錄中，都將結束以色列在黎巴嫩的戰爭和軍事行動與結束對伊朗的戰爭置於同等優先位置，並迄今堅持要求予以落實。伊朗強調，全面落實關於結束戰爭的諒解備忘錄第一條款，即結束猶以色列對黎巴嫩的戰爭和軍事行動，以及佔領者從黎巴嫩所有被佔領土撤出，是實現最終穩定協議、建立地區穩定的基本條件。
+
+---
+
+### 2026-06-28 19:06:11  #MKT News
+
+【PBOC'S PAN attended BIS governors' meeting and annual general meeting in Basel】PBOC'S PAN attended the BIS governors' meeting and annual general meeting in Basel, Switzerland on June 27-28, 2026. Governors exchanged views on the international economic and financial outlook, measuring second‑round inflation effects, and the impact of AI. During the meeting PAN held bilateral talks with several fellow governors to discuss financial cooperation.
+
+---
+
+### 2026-06-28 19:04:59  #央行 #其他
+
+【中國人民銀行行長潘功勝出席國際清算銀行行長例會及年度股東大會】2026年6月27日至28日，中國人民銀行行長潘功勝出席國際清算銀行（BIS）在瑞士巴塞爾舉行的行長例會和年度股東大會。與會央行行長就國際經濟金融形勢、通脹第二輪效應的衡量、人工智慧的影響等問題進行了交流。會議期間，潘功勝會見部分與會央行行長，就雙邊金融合作交換了意見。(中國人民銀行)
+
+---
+
+### 2026-06-28 19:04:09  #MKT News #WTI #Impact bearish #XAUUSD #DXY
+
+【Iran foreign ministry: ending Lebanon war a basic condition for final agreement, regional stability】Iran's foreign ministry spokesman Baghaei said ending the war in Lebanon and Israeli military operations there — including withdrawal of occupying forces from all occupied Lebanese territory — is a basic condition for any final agreement and for regional stability, citing Iran's policy grounded in the UN Charter and international law to uphold Lebanese sovereignty and security. He said Iran placed ending Israel's military campaign in Lebanon on an equal priority with ending the war against Iran in both the April 8 ceasefire and the June 18 memorandum on ending the war, and has insisted on implementation of the memorandum's first clause.
+
+---
+
+### 2026-06-28 19:01:45  #宏觀 #市場
+
+【中央層面樹立和踐行正確政績觀學習教育工作專班 中央紀委辦公廳公開通報廣西壯族自治區南寧市、甘肅省酒泉市新城區、浙江省杭州市蕭山區3起政績觀偏差問題】日前，中央層面樹立和踐行正確政績觀學習教育工作專班、中央紀委辦公廳公開通報廣西壯族自治區南寧市、甘肅省酒泉市新城區、浙江省杭州市蕭山區3起政績觀偏差問題。
+
+1.廣西壯族自治區南寧市利用國有企業自有資金迴圈空轉虛增財政收入。2024年，南寧市對以前年度無償劃撥給3戶市屬國有企業、已用於公益性專案和基礎設施建設的15宗土地，直接修改《國有建設用地劃撥決定書》，將決定書中原本為0元的“劃撥價款”，修改為84萬元至5億元不等，再向3戶企業收取所謂“劃撥價款”。財政部門在收到3戶企業用自有資金上繳的“劃撥價款”並計入財政收入後，再以徵地補償款名義返還企業。如此迴圈空轉，其中1宗土地最多達18次。透過上述方式，南寧市共虛增2024年財政收入28.3億元。
+
+2.甘肅省酒泉市新城區騙取超長期特別國債資金建設景觀工程。2024年5月，酒泉市新城區開發建設管理委員會為建設體育公園水系景觀工程，在明知該專案未納入國土空間規劃，也未按要求編制內澇防治設計檔案的情況下，透過將“伴行步道”包裝成“檢修路”、將“水系補水”專案包裝為“水汙染治理”專案等方式，將體育公園水系景觀工程包裝為“雨洪行洩通道及水汙染治理”工程，申報並獲得城市地下管網超長期特別國債資金5595萬元。2025年底工程完工，其中動用3816萬元修建的種植島、觀景平臺等景觀工程，不僅未實現建設目標，反而嚴重妨礙雨洪行洩功能發揮。
+
+3.浙江省杭州市蕭山區利用2家融資平臺違規新增地方政府隱性債務、在債務未清零的情況下虛假退出。2022年以來，杭州市蕭山區安排所屬2家融資平臺透過虛構合同、虛增資產價值等方式向金融機構融資，實施市政道路、徵地拆遷、環境改造等公益性專案，形成大量地方政府隱性債務。其中7.38億元是鎖定2023年3月31日存量地方政府隱性債務後又違規新增的。2024年12月，杭州市蕭山區在上述隱性債務未清償的情況下，向上級政府部門虛假報告2家融資平臺隱性債務已全部清零並退出，影響防範化解政府債務風險政策落實成效。（新華社）
+
+---
+
+### 2026-06-28 19:00:36  #公司
+
+中導光電裝置股份有限公司科創板IPO獲受理，擬融資金額18億元。康佰家醫藥集團股份有限公司滬市主機板IPO獲受理，擬融資金額8.09億元。
+
+---
+
+### 2026-06-28 18:59:57  #公司
+
+伊萊特能源裝備股份有限公司滬市主機板IPO獲受理，擬融資金額11.92億元。
+
+---
+
+### 2026-06-28 18:58:48  #國際
+
+伊拉克總理同伊朗外長阿拉格齊磋商伊美諒解備忘錄相關事宜。
+
+---
+
+### 2026-06-28 18:55:16  #其他
+
+【滬蓉攜手共築新質生產力高地，2026東西部協同創新發展大會在成都舉行】6月27日，成都高新區高新創閤中心群賢畢至。“海聚川湧·科創致遠”2026東西部協同創新發展大會在此隆重舉行。這場跨越千里的盛會，匯聚了滬蓉兩地政府領導、院士專家、頭部企業及金融機構代表，圍繞人才互通、產業融通、資本聯動等核心議題展開深度對話。會上，東西部科創產業聯盟宣告成立，一系列重磅成果標誌著東西部協同創新從理念走向行動、從點狀對接邁向平臺化合作。（每日經濟新聞）
+
+---
+
+### 2026-06-28 18:54:52  #MKT News #Star Stocks #Tesla #Market Themes #Magnificent 7 #TSLA.O
+
+Elon Musk said Grok 4.5, built on a 1.5 trillion-parameter V9 base model and fine-tuned with Cursor data, is now in internal testing at SpaceX and Tesla.
+
+---
+
+### 2026-06-28 18:54:07  #其他
+
+【水利部安排部署南方地區暴雨洪水防禦工作】水利部訊息，據預報，6月28日至7月3日，受冷暖空氣共同影響，江南大部、西南東部南部、華南西北部及湖北南部將有一次強降雨過程，以大到暴雨為主，其中安徽南部、江西北部、湖南北部、湖北南部、貴州南部、廣西西北部等地部分地區將有大暴雨。長江流域上游支流烏江，中下游幹流及洞庭湖水系澧水、沅江、資水，鄱陽湖水系昌江、樂安河、修河，沿江支流青弋江、水陽江；珠江流域西江上游北盤江、南盤江，中游支流都柳江；太湖周邊及浙閩地區新安江上游等河流將出現明顯漲水過程。暴雨區內江西昌江可能發生編號洪水，部分中小河流可能發生超警以上洪水。6月28日，水利部組織防汛會商，滾動分析研判雨情汛情發展態勢，針對性安排部署暴雨洪水防禦工作，要求相關地方水利部門和流域管理機構壓緊壓實防汛責任，緊盯重點地區、重點部位洪水風險，加強會商研判，滾動分析預報，及時釋出預警資訊；突出抓好暴雨區內中小河流洪水和山洪災害防禦工作，強化預警“叫應”，嚴格落實“誰組織、轉移誰、何時轉、轉何處、不擅返”五個關鍵環節責任和措施，全力保障群眾生命安全；科學排程流域水工程體系，加強水工程特別是中小水庫、病險水庫、河道堤防等巡查防守，細化落實在建工程安全度汛措施。
+
+---
+
+### 2026-06-28 18:52:34  #其他
+
+【馬斯克：Grok 4.5現已在SpaceX、特斯拉內部開啟私有測試版】馬斯克發文稱，Grok 4.5 基於自研 1.5 萬億引數 V9 基礎大模型打造，並引入 Cursor 資料完成補充訓練，目前已在 SpaceX、特斯拉內部開啟私有測試。早期評測結果顯示，其效能接近甚至有望超越 Opus 模型。基於人類反饋的強化學習（RL）仍在持續大幅提升模型能力，Grok 配套構建排程框架也在每日迭代最佳化。馬斯克表示，SpaceX 今年每個月都會推出一批從零完整訓練的全新大模型。
+
+---
+
+### 2026-06-28 18:51:35  #公司
+
+馬斯克：Grok 4.5現已在太空探索技術公司、特斯拉內部開啟私有測試版。
+
+---
+
+### 2026-06-28 18:50:12  #國際
+
+阿拉伯國家聯盟秘書長譴責伊朗持續襲擊巴林與科威特，要求伊朗立即停止一切攻擊性行動。
+
+---
+
+### 2026-06-28 18:49:46  #其他
+
+當地省政府稱，週日法國東北部通布蘭鎮發生民用航空器相關事故，有關部門已趕赴現場處置。
+
+---
+
+### 2026-06-28 18:43:46  #國際
+
+巴基斯坦外交部長表示，所有相關方都必須嚴格遵守停火協議。
+
+---
+
+### 2026-06-28 18:42:30  #MKT News
+
+Pakistan's foreign minister stressed all parties must adhere to the ceasefire agreement.
 
 ---
 
@@ -20723,197 +20969,5 @@ Indonesia's stock index extended losses to 2%.
 ### 2026-06-26 11:14:58  #Trading Economics #Markets #Commodity #Importance 1
 
 Corn Pressured at Multi-Month Lows — Corn futures held around $4.1 per bushel, struggling to sustain their rebound from eight-month lows as weaker crude oil prices and a firmer US dollar continued to weigh on prices, while hot US weather raised crop concerns. The National Weather Service forecast temperatures nearing 100 degrees Fahrenheit this weekend, extending as far north as the upper Midwest and as far east as the Carolinas. These elevated temperatures are expected to stretch from the Plains to the Atlantic Coast through July 4. Elsewhere, Brazil raised its estimate for the country’s 2025/26 second corn crop by 3.4%, although the forecast remained below the previous season’s record harvest after adverse weather limited potential. Meanwhile, lower crude oil prices continued to pressure corn as improved shipping through the Strait of Hormuz boosted expectations of stronger global oil supply. A stronger US dollar also weighed amid mounting bets on US rate hikes this year, making US supplies less competitive overseas.
-
----
-
-### 2026-06-26 11:14:27  #MKT News #Market Regions #Emerging Markets
-
-South Korea's KOSPI plunged about 8%, triggering a 20-minute trading halt. Financial blog Zero Hedge says MSCI’s decision in its latest review to keep South Korea in the emerging-markets index may be justified.
-
----
-
-### 2026-06-26 11:14:22  #MKT News #000858.SZ #Impact bullish
-
-【Wuliangye chairman Deng Min says two constants unchanged, confident in company outlook】At Wuliangye’s 2025 shareholders’ meeting, chairman Deng Min said the baijiu sector is in a deep adjustment and requires rational assessment, but two constants remain: first, baijiu consumption fundamentals and intrinsic value are unchanged, so advantaged regions, firms and brands face greater structural opportunities than challenges; second, Wuliangye’s long-term value-growth foundation is intact — as an industry leader the company has strong operating resilience, controllable risk and is positioned to traverse the current cycle earlier and faster. Management expressed continued confidence in Wuliangye’s development.
-
----
-
-### 2026-06-26 11:13:59  #公司
-
-【五糧液集團董事長鄧敏：兩大點始終沒有改變 對五糧液發展充滿信心】6月26日，在五糧液(000858)2025年度股東大會上，五糧液集團黨委書記、董事長鄧敏表示，當前，白酒行業仍處於深度調整階段，我們需要對此做出理性分析和判斷，在穿越週期中抓住戰略發展的機會。概括起來就是兩個始終：一是，白酒消費底層邏輯和價值屬性始終沒有改變，對優勢產區、優勢企業、優勢品牌而言，面臨的結構性戰略機會始終是大於挑戰；二是，五糧液長期價值成長的根基始終沒有改變，作為中國白酒行業的頭部優勢企業，公司整體經營韌性強大，抗風險能力可控，具備更早、更快穿越此輪週期的優勢和能力。我們對五糧液的發展始終充滿信心。
-
----
-
-### 2026-06-26 11:13:12  #MKT News #Important #Market Regions #Greater China #002714.SZ #Impact bullish #300498.SZ #000876.SZ
-
-A-share pork stocks jumped; Shennong Group hit the daily limit while Muyuan, Wens, New Hope, New Wufeng and Juxing Agriculture & Animal Husbandry also rose. Media reported hog firms have set targets to cut planned new production capacity and have brought forward the timetable.
-
----
-
-### 2026-06-26 11:11:55  #央行 #公司 #國際
-
-【央行：授權中國銀行（香港）雅加達分行擔任印度尼西亞人民幣清算行】中國人民銀行公告，根據《中國人民銀行與印度尼西亞銀行關於建立人民幣清算安排的合作備忘錄》，中國人民銀行決定授權中國銀行（香港）有限公司雅加達分行擔任印度尼西亞人民幣清算行。
-
----
-
-### 2026-06-26 11:11:23  #公司 #市場
-
-【豬肉股快速拉昇，神農集團漲停】豬肉股快速拉昇，神農集團漲停，牧原股份、溫氏股份、新希望、新五豐、巨星農牧跟漲。
-
----
-
-### 2026-06-26 11:10:39  #MKT News #Important
-
-【South Korean stocks fall over 8%, circuit breaker triggered】Korea Exchange triggered a circuit breaker after the KOSPI fell 8%, suspending trading for 20 minutes.
-
----
-
-### 2026-06-26 11:10:38  #市場 #焦點 #國際
-
-【韓股跌超8% 觸發市場熔斷】韓國交易所因KOSPI指數下跌8%觸發市場熔斷機制 (Circuit Breaker)，交易暫停20分鐘。
-
----
-
-### 2026-06-26 11:09:51  #市場
-
-新加坡海峽時報指數下跌1%至5166.97點。
-
----
-
-### 2026-06-26 11:09:49  #MKT News #Market Regions #Greater China #000002.SZ #Impact bullish
-
-A-share property development names rallied: Yingxin Development touched the daily limit, Hefei Urban Construction had earlier hit the limit; Zhangjiang Hi‑Tech and Rongfeng Holdings rose over 6%, Vanke A gained more than 5%.
-
----
-
-### 2026-06-26 11:09:21  #MKT News #Commodities #Precious Metals #Macro & Rates #The Fed (FOMC) #XAUUSD #Impact bearish #DXY #Impact bullish #S&P500
-
-【Macquarie cuts year-end spot gold forecast to $4,300; sees decline from next year through 2030】Macquarie cuts its year-end spot gold target to $4,300 from $4,400 and says inflation trends and central bank policy — especially a hawkish Fed — are the key price drivers. The apparent end to the Middle East conflict and a firmer Fed stance have pressured gold; Macquarie notes the Fed’s new chair Wash set a hawkish tone at his first meeting and that the central bank has the capacity to push or suppress gold prices. The bank expects the Middle East shock to weigh on Q3 global growth, but a subsequent growth rebound and the start of an easing cycle should drive money out of precious metals and lower gold. Investors have been taking profits and rotating into equities, leaving room for later gold re-entry only if a major macro shock occurs. Forecasts: 2026 average spot $4,641 (+35% YoY); 2027 average $4,200 (‑9.5%). Macquarie expects gold to decline year‑by‑year from next year through 2030.
-
----
-
-### 2026-06-26 11:09:13  #公司 #國際
-
-【“木頭姐”出售阿里巴巴股票】凱茜·伍德(Cathie Wood)旗下的基金週四拋售了阿里巴巴的美國存託憑證(ADR)，而就在三週前，這些基金剛剛增持了阿里巴巴的股票。根據週四釋出的交易公告，ARK旗下的三隻基金共計拋售了176,004股阿里巴巴股票。此前，伍德的基金於6月4日買入了245,342股阿里巴巴股票。
-
----
-
-### 2026-06-26 11:09:04  #MKT News #Commodities #Industrial Metals #BHP.N #Impact bearish #RIO.N #VALE.N
-
-【Iron ore weakens for seventh straight week, posts largest weekly drop since 2022】Iron ore prices fell for a seventh consecutive week, recording the largest single-week drop since 2022. Singapore iron ore futures hit an intraday low of $96.95/ton on Friday, down about 1.5% for the week. The market is under pressure from seasonal demand weakness and narrowing steel mill margins, rising seaborne supply and elevated port inventories. A temporary U.S.-Iran peace deal has eased fuel costs, adding to downside. Kpler analyst Sushmita Vazirani said Australian miners may lift output in the final week of the month to meet quarterly targets and flagged progress in Port Hedland union talks with BHP as a key supply-watch for July.
-
----
-
-### 2026-06-26 11:08:02  #市場
-
-富時中國A50指數期貨下跌4%。
-
----
-
-### 2026-06-26 11:07:51  #其他
-
-韓國KOSPI指數持續下挫，跌幅擴大至8%。SK海力士跌超9%，三星電子跌近9%。
-
----
-
-### 2026-06-26 11:07:51  #MKT News #Important #000660.KS #Impact bearish #005930.KS
-
-【KOSPI plunges 8%; SK Hynix falls 9%】South Korea's KOSPI index continued to slide, widening losses to about 8%. SK Hynix fell more than 9%; Samsung Electronics dropped nearly 9%.
-
----
-
-### 2026-06-26 11:07:46  #MKT News #Market Themes #AI Revolution
-
-【AIIA launches preparatory work for Token Service working group】China Artificial Intelligence Industry Development Alliance (AIIA) has launched preparatory work to establish a Token Service working group to support high-quality development of token services. The group is led by the China Academy of Information and Communications Technology (CAICT) and comprises 22 organisations, including Huawei Cloud, Baidu Intelligent Cloud, China Mobile, China Telecom and China Unicom, aiming to coordinate upstream and downstream industry participants to build a high-quality token service ecosystem.
-
----
-
-### 2026-06-26 11:07:29  #MKT News #CNH #Impact bullish
-
-PBOC said under the Memorandum of Understanding with Bank Indonesia on establishing RMB clearing arrangements it has authorized Bank of China (Hong Kong) Limited's Jakarta branch to serve as Indonesia's RMB clearing bank.
-
----
-
-### 2026-06-26 11:07:11  #其他
-
-【AIIA詞元（Token）服務工作組籌備成立】為助力Token服務實現高質量發展，中國人工智慧產業發展聯盟（AIIA）詞元（Token）服務工作組的籌備工作正式啟動。由中國信通院牽頭，聯合華為雲、百度智慧雲、中國移動、中國電信、中國聯通等22家單位，凝聚產業上下游合力，構建“高質量Token服務”生態體系。
-
----
-
-### 2026-06-26 11:06:47  #其他
-
-阿里巴巴港股跌5%。
-
----
-
-### 2026-06-26 11:06:32  #MKT News #688256.SS #Impact bearish
-
-Cambricon fell more than 5% as turnover exceeded CNY10 billion.
-
----
-
-### 2026-06-26 11:05:58  #MKT News #Market Themes #Chip Wars #Nasdaq100 #Impact mixed #SZSE Component #Impact bullish #CSI300
-
-【China Semiconductor Industry Association: Q1 China IC sector departed from typical cyclical pattern】On June 26 at the 2026 China (Shenzhen) Integrated Circuit Summit, Wang Junjie, executive secretary-general of the China Semiconductor Industry Association, said China’s integrated-circuit industry in Q1 departed from normal cyclical behavior, with 2026 starting at a peak and shipments nearly flat with Q4 2025. Domestic IC manufacturing unusually led sector growth in Q1. Latest institutional estimates project the global semiconductor market could top $1.5 trillion this year. The industry nonetheless shows structural supply–demand imbalances: memory makers’ profits surged, foundry and packaging/test saw concurrent volume and price gains, while handset OEMs face margin pressure.
-
----
-
-### 2026-06-26 11:05:45  #Trading Economics #Markets #other #currency #Importance 1
-
-Bitcoin Slides Toward $58,000 — Bitcoin continued its descent to around $58,000 in late June, hitting its lowest level since September 2024 and extending its decline to roughly 50% from last year's record high. The cryptocurrency remained under pressure amid weakening institutional demand and persistent macroeconomic headwinds. US-listed spot Bitcoin ETFs have recorded net outflows of about $2.92 billion so far this month, while concerns over persistent inflation and growing expectations that the Federal Reserve will hike interest rates this year further dampened risk appetite. Meanwhile, markets awaited the expiry of about $10 billion in Bitcoin options on Friday on Deribit, with most of the contracts representing bullish bets that have lost value as Bitcoin declined, potentially prompting traders to adopt a more defensive stance and adding to expectations of heightened volatility.
-
----
-
-### 2026-06-26 11:05:22  #市場
-
-以太坊下跌3.03%，報1510.95美元。
-
----
-
-### 2026-06-26 11:04:51  #其他
-
-【中半協：一季度積體電路產業偏離傳統週期特徵】6月26日，中國半導體行業協會執行秘書長王俊傑在2026中國（深圳）積體電路峰會上表示，今年一季度中國積體電路產業偏離傳統週期特徵，2026年起步就是高潮，出貨量幾乎與去年第四季度持平。據統計，一季度國內積體電路製造業增長罕見領跑行業增速；機構最新預計全球半導體產業年內有望突破1.5萬億美元。另一方面，產業存在供需結構性失衡，儲存廠業績暴增，晶圓代工、封測量價齊升，手機等終端廠商盈利承壓。
-
----
-
-### 2026-06-26 11:04:32  #市場 #國際
-
-泰國SET指數下跌1%至1542.36點。
-
----
-
-### 2026-06-26 11:04:10  #MKT News #Market Regions #Greater China #CNH #Impact bullish
-
-PBOC has authorized Standard Bank South Africa Ltd and Industrial and Commercial Bank of China Ltd as joint RMB clearing banks in Africa to facilitate China–Africa trade and investment.
-
----
-
-### 2026-06-26 11:04:06  #央行 #公司
-
-央行：為促進中非貿易投資便利化，中國人民銀行決定授權南非標準銀行有限公司和中國工商銀行股份有限公司擔任非洲人民幣聯合清算行。
-
----
-
-### 2026-06-26 11:04:01  #央行 #其他
-
-紐西蘭央行5月份淨賣出2.52億紐西蘭元。
-
----
-
-### 2026-06-26 11:03:29  #MKT News #Important #Hang Seng Index #Impact bearish #S&P500 #XAUUSD #Impact bullish
-
-Taiwan Stock Exchange Weighted Index (TAIEX) fell more than 3%.
-
----
-
-### 2026-06-26 11:03:05  #其他
-
-【我國單機容量最大抽水蓄能電站——天台抽水蓄能電站全面投產】6月25日23時59分，總裝機容量170萬千瓦的天台抽水蓄能電站實現全面投產發電，這也是“十五五”期間國內首個全面投產的抽水蓄能電站。
-
----
-
-### 2026-06-26 11:02:38  #Trading Economics #Markets #Japan #Currency #Importance 2
-
-Yen Stays Near 40-Year Low — The Japanese yen traded around 161.7 per dollar on Friday, hovering near its weakest level since 1986 despite data showing Tokyo's core inflation accelerated for the first time in eight months, reinforcing expectations that the Bank of Japan will continue raising interest rates. On Wednesday, BOJ Governor Kazuo Ueda reaffirmed his commitment to further rate hikes in line with economic, inflation, and financial developments. A day later, hawkish board member Naoki Tamura also advocated raising rates every few months. The BOJ is due to announce its next policy decision on July 31. The yen remained under pressure despite repeated verbal warnings from Japan's Finance Ministry and record currency intervention in recent weeks, as a stronger dollar and the wide interest rate differential with the US continued to weigh on the currency while the Federal Reserve is expected to raise rates later this year.
 
 ---
