@@ -1,7 +1,28 @@
 {
-  "updated": "2026-06-29 01:19:43",
-  "count": 17992,
+  "updated": "2026-06-29 01:23:29",
+  "count": 17991,
   "items": [
+    {
+      "id": "mkt:019f0f40-cef3-7aab-8c02-0bf1ba0bad73",
+      "time": "2026-06-29 01:22:13",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "【Putin says Russia facing domestic fuel shortages, considers full diesel export ban】President Putin said motorists and businesses are facing fuel shortages and long queues at filling stations. He confirmed a full ban on diesel exports is among options under consideration after several refineries halted production. Following a Friday meeting with producers and government departments, Russia's Energy Ministry advised against an immediate diesel export ban, citing risks of diesel inventory build-up and other knock-on issues; the government will reassess market conditions on Monday."
+    },
+    {
+      "id": "4959085",
+      "time": "2026-06-29 01:19:14",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "【普京承認俄羅斯國內燃油供應出現短缺】俄羅斯總統普京表示，車主與各類企業仍面臨燃油供應難題，各地加油站普遍出現排隊現象。受多家煉油廠停產影響，俄羅斯正出臺舉措穩定國內市場，普京證實，全面禁止柴油出口是當前研討的備選方案之一。俄羅斯能源部週五與石油生產商、政府部門召開會議後，暫不建議實施柴油出口禁令，理由是此舉可能造成柴油庫存積壓等衍生問題；政府將於週一重新評估市場形勢。"
+    },
     {
       "id": "mkt:019f0f34-b340-7aab-8c02-0373c65bc664",
       "time": "2026-06-29 01:08:59",
@@ -164605,33 +164626,6 @@
         "國際"
       ],
       "text": "以色列向美國承諾，將恪守黎巴嫩南部的黃線邊界相關立場。"
-    },
-    {
-      "id": "mkt:019eeb34-03a8-7dd8-b0a8-483da2e4cfcc",
-      "time": "2026-06-22 01:21:54",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy"
-      ],
-      "text": "Sources said a fire broke out at the combined-heat-and-power unit of Marathon's Galveston Bay refinery in Texas; no injuries reported so far."
-    },
-    {
-      "id": "mkt:019eeb33-7722-7dd8-b0a8-46edc2b44de5",
-      "time": "2026-06-22 01:21:18",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "Al Arabiya reported the Iranian delegation left the negotiating table and returned to its residence in Switzerland; talks with the US are continuing via intermediaries."
-    },
-    {
-      "id": "4946595",
-      "time": "2026-06-22 01:21:07",
-      "tags": [
-        "其他"
-      ],
-      "text": "訊息人士稱，馬拉松石油位於得克薩斯州加爾維斯頓灣的煉油廠聯產裝置發生火災，目前未造成人員傷亡。"
     }
   ]
 }
