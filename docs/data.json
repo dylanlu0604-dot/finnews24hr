@@ -1,7 +1,23 @@
 {
-  "updated": "2026-06-28 22:33:37",
-  "count": 18026,
+  "updated": "2026-06-28 22:37:38",
+  "count": 18024,
   "items": [
+    {
+      "id": "mkt:019f0ea8-fecd-7aab-8c01-669f4c4e12ef",
+      "time": "2026-06-28 22:36:23",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【IDF says it will continue operations in south Lebanon \"security zone\" under ceasefire agreement】On June 28 the Israel Defense Forces said Chief of Staff Zamir approved plans to continue military operations inside the ceasefire \"security zone\" in south Lebanon. He said the 36th Division and an assault brigade maintain combat control of the Beaufort Heights area and possess the tools and capabilities to degrade adversaries. Zamir called Northern Command the IDF's \"main operational focus\" and said forces are prepared to rapidly restart offensive operations in Lebanon and Iran if required. He described the agreement with the Lebanese government as historic and said the IDF will adhere to it, but cautioned the coming period will be a test shaped by both sides' actions."
+    },
+    {
+      "id": "4959037",
+      "time": "2026-06-28 22:35:03",
+      "tags": [
+        "國際"
+      ],
+      "text": "【以軍稱將依據停火協議繼續在黎南部“安全區”內行動】當地時間28日，以色列國防軍發表宣告稱，以軍總參謀長扎米爾當天在視察以軍北方司令部時，正式批准了根據停火協議在黎巴嫩南部“安全區”內繼續採取軍事行動的計劃。扎米爾表示，目前以軍第36師和突擊旅的部隊正維持著對博福特高地區域的作戰控制，並配備了削弱敵方所需的所有工具和能力。扎米爾稱，北方司令部轄區現在是以軍的“主要作戰重心”。以軍已做好充分準備，一旦需要，將“迅速重啟在黎巴嫩和伊朗的進攻行動”。扎米爾表示，與黎巴嫩政府簽署的協議具有歷史性和重大意義。他重申以軍將遵守協議，但強調“現在的考驗在於雙方的行動，接下來的這段時期將塑造未來”。扎米爾還表示，黎巴嫩真主黨已被嚴重削弱，其武裝人員被困在地下。以軍目前保持著對該地區的作戰控制，並處於高度戒備狀態，一旦停火協議遭到破壞，將立刻實施迅速且決定性的打擊。（央視新聞）"
+    },
     {
       "id": "4959036",
       "time": "2026-06-28 22:27:21",
@@ -164951,45 +164967,6 @@
         "國際"
       ],
       "text": "美國能源部長賴特：昨日共有 67 艘船舶經由霍爾木茲海峽通行，前一日通行船舶為 55 艘。原油及成品油運輸量基本恢復至衝突爆發前的水平。"
-    },
-    {
-      "id": "4946529",
-      "time": "2026-06-21 22:37:01",
-      "tags": [
-        "公司",
-        "市場",
-        "國際"
-      ],
-      "text": "【美國能源部長預測油價將進一步下跌，並表示霍爾木茲海峽的石油運輸已恢復 “正常水平”】美國能源部長克里斯・賴特週日表示，美伊簽署初步協議恢復這條關鍵航道通航後，霍爾木茲海峽的石油運輸 “已恢復正常”，談判人員將在接下來兩個月內，著力解決尚未敲定的核相關議題。賴特在美國廣播公司新聞節目中稱：“我早已不再預判原油或汽油價格走勢，但油價仍會持續下行。海峽的石油與天然氣運輸量現已迴歸常態，無論美伊談判後續進展如何，運輸都將保持穩定。美國原油產量持續攀升，委內瑞拉產量大幅增長，同時我們與全球其他能源生產國保持合作。因此我認為，美國民眾可以期待能源價格繼續走低。”賴特在節目中對聯合主持人喬納森・卡爾表示，週日這場坦誠的對話將釐清伊朗的訴求，以及伊朗方面認為自身可能需要做出哪些讓步。談及伊朗方面，賴特稱：“他們在此次談判中不再擁有以往談判裡一貫掌握的籌碼。”"
-    },
-    {
-      "id": "mkt:019eea9c-2241-7dd8-b0a7-37cf36061493",
-      "time": "2026-06-21 22:36:01",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "Iran's deputy oil minister said Iraq plans to gradually restore crude oil output to 4.2-4.3 mln bpd, the level before the US-Iran conflict."
-    },
-    {
-      "id": "4946528",
-      "time": "2026-06-21 22:35:25",
-      "tags": [
-        "其他"
-      ],
-      "text": "伊拉克石油部副部長表示，伊拉克計劃逐步將原油產量恢復至危機前水平，即每日420萬至430萬桶。"
-    },
-    {
-      "id": "4946527",
-      "time": "2026-06-21 22:33:43",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗總統：美以情報機構企圖製造內部分裂，破壞伊朗民族團結。"
     }
   ]
 }
