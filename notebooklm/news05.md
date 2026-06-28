@@ -1,7 +1,37 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-06-29 00:36:29_
-_本檔包含 3505 則快訊，約 666552 字_
+_更新時間：2026-06-29 01:04:00_
+_本檔包含 3503 則快訊，約 666548 字_
+
+---
+
+### 2026-06-23 07:23:12  #市場
+
+【高階產品吃緊吃香 高純石英砂身價水漲船高】受AI資料中心及算力網路建設推動，光纖產業鏈全線“吃緊”，其中高純石英砂的身價也水漲船高，成了名副其實的 “砂中黃金”。行業資料顯示，當前光纖用高純石英砂主流報價已漲至每噸4.8萬元至5.5萬元，其中純度6N級以上的高階產品更是“一砂難求”，由於國產自給率有待提升，行業供需偏緊格局不斷加劇。高純石英砂近期的漲價底氣，來自下游光纖產業爆發式的需求傳導。“高純石英砂應用在光棒製備多個環節，且光纖生產中也要用到石英配套產品。”一位從事石英制品加工的企業負責人表示，光棒廠訂單增加，自然對包括高純石英砂在內的“周邊產品”需求增大。（上海證券報）
+
+---
+
+### 2026-06-23 07:22:08  #其他
+
+【稀有“味精”供需錯配加劇 鍺價半年漲逾八成】截至6月18日，鍺錠已攀升至25000元/千克，較2025年末漲逾83%。驅動這一輪價格飆升的，主要是AI算力基礎設施等領域對光纖的旺盛需求。在光纖製造中，四氯化鍺扮演著“味精”般的關鍵角色。它是光纖預製棒纖芯摻雜的核心原料，主要作用是提高纖芯折射率等，讓光纖的傳輸效能更“能打”。“在光纖預製棒的原材料成本里，鍺的佔比很低，但由於下游對鍺材料的純度要求高，加上國內鍺供給較為集中、材料不可替代性強，相比其他材料，鍺的供需矛盾會更為明顯。”一家頭部光纖預製棒生產商介紹。（上海證券報）
+
+---
+
+### 2026-06-23 07:19:28  #公司 #市場
+
+【金價劇烈波動 銀行集體上調貴金屬產品保證金】據證券時報，6月22日，廣發銀行、華夏銀行、中國銀行相繼釋出公告，上調代理上海黃金交易所個人貴金屬交易延期合約保證金比例。這是6月以來銀行再度密集收緊貴金屬交易槓桿。據記者梳理，6月2日，建設銀行、工商銀行已率先將黃金、白銀等延期合約保證金比例從100%上調至120%；隨後農行跟進。6月16日，招行亦將多個合約追保保證金比例調整為120%。而今年2月，工行、農行、建行等多家大行已將保證金比例由80%統一上調至100%，市場普遍認為相關合約已徹底“去槓桿”。
+
+---
+
+### 2026-06-23 07:18:32  #其他
+
+【鏈博會開幕首日 主賓國澳大利亞攜新能源代表團亮相】22日是第四屆中國國際供應鏈促進博覽會開幕的第一天，主賓省安徽以“皖鏈中外·智創未來”為主題，舉辦了主題推介活動，向全球推介安徽產業硬實力，深度融入全球產業鏈供應鏈分工。在推介活動上，安徽的新能源汽車、人工智慧、量子科技等企業向來自世界各地的參會嘉賓，介紹了產業創新優勢和供應鏈水平。本屆鏈博會，澳大利亞首次以“主賓國”身份亮相，並組織了新能源行業代表團來華參展。開幕首日舉辦的“中澳可再生能源產業合作對接會”，為中澳企業搭建起了高效務實的合作平臺。（央視）
+
+---
+
+### 2026-06-23 07:15:59  #市場
+
+【全球資金“加槓桿”押注半導體】今年以來，隨著人工智慧產業迭代、相關需求全面爆發，全球半導體板塊持續走強。在此背景下，具備高彈性特徵的半導體槓桿ETF成為資金追逐的焦點，海外市場多隻相關產品今年以來規模大增。 本輪槓桿ETF行情呈現鮮明的散戶主導特徵，個人資金成為入場主力。業內人士認為，自帶槓桿屬性的交易工具是一把“雙刃劍”，在放大收益的同時，其每日調倉、波動加劇、流動性失衡等潛在風險持續暴露，短期劇烈回撤、走勢異常背離等現象頻發，為這場散戶主導的資金狂歡埋下多重隱患。（上海證券報）
 
 ---
 
@@ -21135,47 +21165,5 @@ Axios reported a diplomat participating in the talks said the Iranian delegation
 ### 2026-06-22 01:04:40  #MKT News #XAUUSD #Impact bullish #WTI
 
 【Ghalibaf rebuffs Trump's latest threat】Ghalibaf, head of Iran’s negotiating delegation in Switzerland and speaker of the Iranian parliament, said on social media on June 21 that Iran does not take US threats seriously, warned Washington to choose its words carefully and said Iran’s armed forces are fully prepared to respond “in another way.” He added that regardless of US bluster, “we will be the ones to act.” Earlier, Trump posted that “Iran must immediately stop its ‘proxies’ in Lebanon. If not, we will strike Iran again, like last week, and only harder.”
-
----
-
-### 2026-06-22 00:48:11  #MKT News #Important #WTI #Impact bullish #Brent #XAUUSD
-
-【Iran delegation leaves Swiss talks in protest at Trump threat】On the 21st, Iran said a source close to its negotiating team reported the delegation had left the negotiating site in protest at President Trump’s threats. Informed sources said Trump’s latest remarks have paused US‑Iran talks in Switzerland and cast doubt on whether negotiations can continue. Earlier, Trump posted on Truth Social that Iran must immediately stop its "proxy" actions in Lebanon or the United States will strike Iran.
-
----
-
-### 2026-06-22 00:47:41  #焦點 #國際
-
-【抗議特朗普威脅言論 伊朗代表團離開談判地點】當地時間21日，伊朗方面釋出訊息稱，一名接近談判團隊的訊息人士透露，伊朗談判代表團因抗議特朗普的威脅言論，已離開談判地點。另據知情人士訊息，美國總統特朗普最新對伊朗發出的威脅言論導致美伊在瑞士的會談暫停，並使談判能否繼續進行蒙上陰影。此前，特朗普在社交平臺“真實社交”上發文稱，伊朗必須立即停止其在黎巴嫩的“代理人”行動，否則美國將對伊朗發動打擊。（央視新聞）
-
----
-
-### 2026-06-22 00:44:28  #國際
-
-【世界拳聯世界盃中國站：中國選手斬獲5金】2026世界拳擊聯合會（世界拳聯）世界盃中國站21日迎來決賽日，中國選手楊柳、王霄萌、包子怡、詹依蓮、吳愉分別獲得女子70公斤級、80公斤級、75公斤級、80公斤以上級和51公斤級冠軍。張家茂不敵美國選手帕特里西奧，獲得男子55公斤級亞軍。（新華社）
-
----
-
-### 2026-06-22 00:40:51  #MKT News #Important #Commodities #Energy #WTI #Impact bearish #Brent
-
-Iranian state media reported a member of Iran's negotiating team said a draft for exemptions from sanctions on Iranian oil has been finalized and formal publication of the exemptions is expected soon.
-
----
-
-### 2026-06-22 00:40:26  #宏觀 #焦點 #國際
-
-伊朗談判代表團成員對伊朗官方媒體表示：伊朗石油制裁豁免相關草案已敲定，豁免令很快就會出臺。
-
----
-
-### 2026-06-22 00:38:19  #MKT News
-
-Iranian state media reported a member of Iran's negotiation team said procedures to execute the release of Iran's frozen funds have begun, with a Qatari delegation participating.
-
----
-
-### 2026-06-22 00:37:41  #焦點 #國際
-
-伊朗談判代表團成員對官方媒體表示：伊朗凍結資金解凍的執行流程已在卡達代表團參與下完成。
 
 ---

@@ -1,7 +1,73 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-06-29 00:36:29_
-_本檔包含 3656 則快訊，約 666198 字_
+_更新時間：2026-06-29 01:04:00_
+_本檔包含 3655 則快訊，約 666711 字_
+
+---
+
+### 2026-06-26 12:22:13  #國際
+
+國際原子能機構總幹事格羅西：我們希望儘快出訪伊朗。
+
+---
+
+### 2026-06-26 12:22:07  #國際
+
+國際原子能機構總幹事格羅西：不可否認，我們已就國際原子能機構獲准進入伊朗開展核查達成一致。
+
+---
+
+### 2026-06-26 12:22:05  #MKT News #WTI #Impact bearish #Brent #DXY
+
+GROSSI, IAEA director general, said it is undeniable that an agreement has been reached and the IAEA will be granted access to conduct inspections in Iran.
+
+---
+
+### 2026-06-26 12:21:06  #公司
+
+加拿大帝國商業銀行將黑莓公司目標股價從10美元上調至13美元。
+
+---
+
+### 2026-06-26 12:20:29  #其他
+
+【全球首艘2.4萬箱甲醇雙燃料集裝箱船今日交付啟航】今天（6月26日），在南通海事局全程監管保障下，全球首制2.4萬箱甲醇雙燃料集裝箱船“東方智慧”輪從江蘇南通長江段碼頭交付啟航。該輪總長399.99米、型寬61.3米，最多可以裝載24168個標準集裝箱，為當前全球最大級別的甲醇雙燃料集裝箱船。
+
+---
+
+### 2026-06-26 12:18:52  #其他
+
+【全國10條河流發生超警洪水】記者從水利部瞭解到，受近期降雨影響，昨天到今天，廣東北江支流大坪水，廣西紅水河支流佈柳河龍頭河、鬱江支流澄碧河田州河，貴州柳江支流龍江，四川大渡河上游及支流梭磨河、黃河上游支流白河，新疆渭幹河支流卡拉蘇河等10條河流發生超警洪水，最大超警幅度1.58米，目前大部河流已退至警戒以下。四川大渡河發生2026年第1號洪水。
+
+---
+
+### 2026-06-26 12:16:58  #公司 #觀點
+
+【花旗：聯想集團基礎設施服務業務料將實現強勁增長】花旗分析師在一份研究報告中表示，聯想集團的基礎設施服務業務在未來三年可能會實現強勁增長。花旗將其對聯想集團2027-2029年的盈利預測分別上調了6%、29%和40%，原因是其包括伺服器在內的基礎設施方案業務收入增加且盈利能力提高。他們表示，該業務部門受到來自中國和海外強勁的伺服器需求、AI伺服器交付量增加以及在CPU和儲存晶片供應緊張的情況下定價改善的支撐。花旗分析師預計，該業務部門在2027-2029年的收入將分別增長47%、44%和23%。花旗維持對聯想集團的買入評級，並將其目標價從20.00港元上調至31.00港元。
+
+---
+
+### 2026-06-26 12:16:26  #其他
+
+香港天文臺釋出紅色暴雨警告。
+
+---
+
+### 2026-06-26 12:15:15  #公司 #國際
+
+韓國HD造船海洋工程有限公司： HD現代三湖重工為開展安全培訓已全面停產，將於6月29日恢復生產。
+
+---
+
+### 2026-06-26 12:14:07  #公司 #市場 #國際
+
+【SpaceX計劃為美國消費者推出新的星鏈移動服務】據《英國金融時報》援引知情人士訊息，埃隆·馬斯克旗下的SpaceX已向投資者透露，公司計劃為美國消費者推出一項全新的星鏈移動服務。 SpaceX總裁兼營運長格溫·肖特韋爾在首次公開募股路演期間表示，公司正在考慮推出一款星鏈零售產品。 該公司可能自行建設覆蓋美國的地面行動網路，但此舉需要星鏈向個人使用者銷售移動合約。 SpaceX未對評論請求作出回應。
+
+---
+
+### 2026-06-26 12:12:34  #Trading Economics #Economy #Japan #Government Bond 10Y #Importance 1
+
+Japan 10-Year Yield Edges Lower — Japan's 10-year government bond yield slipped to around 2.61% on Friday, extending its decline for a third consecutive session despite data showing Tokyo's core inflation accelerated for the first time in eight months, reinforcing expectations that the Bank of Japan will continue raising interest rates. On Wednesday, BOJ Governor Kazuo Ueda reaffirmed his commitment to further rate hikes in line with economic, inflation, and financial conditions. A day later, hawkish board member Naoki Tamura also called for rate increases every few months. The BOJ is set to announce its next policy decision on July 31. Meanwhile, Japanese bond yields tracked lower US Treasury yields after a benign US inflation report reduced expectations for multiple Federal Reserve rate hikes this year. Oil prices also returned to pre-war levels as progress in US-Iran peace efforts eased inflation concerns.
 
 ---
 
@@ -21952,77 +22018,5 @@ XPeng said global deliveries of its X9 model have exceeded 60,000 vehicles.
 ### 2026-06-25 11:06:14  #公司
 
 【湖北省省長李殿勳在武漢調研商業航天產業】據湖北日報，6月24日下午，湖北省委副書記、省長李殿勳在武漢市調研商業航天產業發展時強調，要主動順應全球商業航天技術創新與產業發展趨勢，充分發揮湖北科教資源、產業基礎與應用場景等多重優勢，堅持需求牽引和創新驅動，以更加科學務實的舉措推動全省商業航天產業快速健康發展。李殿勳先後來到航天科工火箭技術有限公司、航天科工空間工程發展有限公司、開普勒衛星科技（武漢）有限公司，瞭解星箭技術攻關、成果轉化、應用拓展情況與商業航天相關產業園區發展情況。
-
----
-
-### 2026-06-25 11:06:01  #觀點 #國際
-
-摩根大通將韓國KOSPI指數基準情景目標位上調至12500點，悲觀情景目標位8000點。
-
----
-
-### 2026-06-25 11:04:19  #市場
-
-【比特幣跌穿6萬美元 過去24小時幣圈近18萬人爆倉】全球最大的加密貨幣比特幣價格週三一度跌破6萬美元大關，最低觸及59023.11 美元，創下自2024年10月以來的最低水平。過去兩年來，幣圈交易員們一直將6萬美元視為重要的支撐位。截至發稿，CoinGlass資料顯示，過去24小時內幣圈近18萬人爆倉，爆倉金額達到了9.84億美元，其中多單爆倉7.99億美元。
-
----
-
-### 2026-06-25 11:03:42  #公司
-
-南方兩倍做多海力士(07709)漲超15%，南方兩倍做多三星電子(07747)漲超10%。
-
----
-
-### 2026-06-25 11:03:32  #觀點 #國際
-
-摩根大通將韓國KOSPI指數牛市目標位上調至15000點，理由是人工智慧繁榮和財富效應。
-
----
-
-### 2026-06-25 11:03:31  #MKT News #Important #Market Themes #Chip Wars #000660.KS #Impact bullish #005930.KS
-
-China Southern 2x Long SK Hynix (07709) rose more than 15%; China Southern 2x Long Samsung Electronics (07747) rose over 10%.
-
----
-
-### 2026-06-25 11:02:37  #國際
-
-美國地質調查局：委內瑞拉尤馬雷東南 28 公里處發生7.5級地震。
-
----
-
-### 2026-06-25 11:01:54  #公司
-
-【騰訊申請註冊WorkBuddy商標】天眼查智慧財產權資訊顯示，近日，騰訊科技（深圳）有限公司申請註冊多枚“TENCENT WORKBUDDY”商標，國際分類包括廣告銷售、教育娛樂等，當前商標狀態均為等待實質審查。該公司成立於2000年2月，法定代表人為馬化騰，註冊資本200萬美元，經營範圍包括從事計算機軟硬體的技術開發、銷售自行開發的軟體等，由中霸集團有限公司全資持股。公開資料顯示，WorkBuddy是騰訊雲推出的桌面Agent工具。
-
----
-
-### 2026-06-25 11:01:29  #焦點
-
-【我國發電裝機突破40億千瓦】國家能源局6月25日宣佈，截至2026年5月底，我國發電裝機達40.1億千瓦，規模位居全球首位。非化石能源裝機成為電力裝機增量的絕對主體，能源結構持續最佳化。煤電裝機佔比從2010年的61%下降至2026年5月的32%；非化石能源裝機佔比由2010年的25%提升至2026年5月的62%；可再生能源裝機佔比由2010年的24%提升至2026年5月的61%。規模化、低成本的綠電供給，為國內工業轉型升級、民生用電保障、新興產業培育築牢了堅實的能源基礎。
-
----
-
-### 2026-06-25 11:01:29  #MKT News
-
-U.S. State Department Assistant Secretary for Public Affairs Johnson said the U.S. embassy in Caracas reported all U.S. personnel accounted for and safe after an earthquake in Venezuela.
-
----
-
-### 2026-06-25 11:01:10  #其他
-
-小鵬汽車：小鵬X9全球交付突破60,000臺，創新勢力MPV交付速度新紀錄。
-
----
-
-### 2026-06-25 11:01:10  #MKT News #Important #Commodities #Energy #Copper #Impact bullish
-
-China's installed power generation capacity exceeded 4 billion kilowatts, roughly 4,000 GW (4 TW).
-
----
-
-### 2026-06-25 11:00:27  #其他
-
-【交通運輸部：加快推動人工智慧在交通運輸領域規模化創新應用】交通運輸部等五部門聯合印發《“人工智慧+交通運輸”典型應用場景創新行動方案》。行動方案提出，到2030年，開放一批高價值應用場景，形成一批高水平演算法模型，湧現一批“人工智慧+交通運輸”新基礎設施、新技術裝備、新服務模式、新產業形態，人工智慧更加有力地引領交通運輸高質量發展和高水平安全。聚焦智慧駕駛、智慧公路、智慧鐵路、智慧航運、智慧民航等重點方向，圍繞路網執行狀態智慧監測、鐵路裝備自主健康管理、船舶編隊智慧航行、航空旅客智慧安檢等典型應用場景開展試點示範，持續拓展人工智慧技術在交通運輸領域的應用廣度與深度。
 
 ---

@@ -1,13 +1,103 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-06-29 00:36:29_
-_本檔包含 3491 則快訊，約 667399 字_
+_更新時間：2026-06-29 01:04:00_
+_本檔包含 3495 則快訊，約 666765 字_
+
+---
+
+### 2026-06-29 01:01:36  #MKT News
+
+【China Earthquake Administration activates third-level response after M5.5 quake in Gaoxian, Yibin (Sichuan)】The China Earthquake Networks Center (CENC) recorded a magnitude-5.5 earthquake at 00:12 local time on June 29, 2026, centered on Gaoxian County, Yibin, Sichuan (28.50°N, 104.69°E) at a depth of 6 km. The China Earthquake Administration has activated a third-level emergency response. (Xinhua)
+
+---
+
+### 2026-06-29 01:00:24  #其他
+
+【中國地震局對四川宜賓市高縣地震啟動三級應急響應】據中國地震臺網正式測定，2026年6月29日0時12分，在四川宜賓市高縣（北緯28.50度，東經104.69度）發生5.5級地震，震源深度6公里。中國地震局啟動三級應急響應。
+
+---
+
+### 2026-06-29 00:48:39  #其他
+
+卡達內政部表示，一名卡達公民因“該地區軍事行動”產生的彈片受傷後身亡。
+
+---
+
+### 2026-06-29 00:47:58  #MKT News
+
+Al Jazeera reports Tehran–Dubai flights will resume next week.
+
+---
+
+### 2026-06-29 00:46:55  #其他
+
+市場資訊：德黑蘭-迪拜航班將於下週恢復。
+
+---
+
+### 2026-06-29 00:42:39  #MKT News #Important #XAUUSD #Impact bullish #WTI #DXY
+
+Israeli broadcaster i24NEWS reported that planned U.S.-Iran talks have been cancelled.
+
+---
+
+### 2026-06-29 00:42:25  #其他
+
+【四川高縣發生5.5級地震】據中國地震臺網正式測定，6月29日0時12分在四川宜賓市高縣發生5.5級地震，震源深度6公里，震中位於北緯28.50度，東經104.69度。 據悉，本次震中距珙縣7公里、距高縣18公里、距長寧縣24公里、距宜賓敘州區26公里、距水富市30公里，距宜賓市28公里，距重慶市216公里。
+
+---
+
+### 2026-06-29 00:40:39  #焦點 #國際
+
+以色列24新聞臺記者：原定本週舉行的美伊新一輪談判已取消。
+
+---
+
+### 2026-06-29 00:40:28  #國際
+
+美國要求以色列對協議文字作出兩處修改以促成協議達成，一是以色列撤出其目前佔領的黎巴嫩南部一處村莊，二是加入明確表述，說明此次撤軍將是以色列更大規模撤出黎巴嫩部署行動的開端。
+
+---
+
+### 2026-06-29 00:39:57  #國際
+
+俄羅斯總統普京：保障燃油供應增量、制定符合經濟規律的合理價格，是穩定燃油市場的系統性舉措。
+
+---
+
+### 2026-06-29 00:38:28  #MKT News
+
+Russia's President Putin said gas stations nationwide have seen long queues and public demand for gasoline is at times exceeding supply.
+
+---
+
+### 2026-06-29 00:37:45  #國際
+
+俄羅斯總統普京：各地加油站前排起長隊，市面上時常供應不上民眾所需標號的汽油。
+
+---
+
+### 2026-06-29 00:37:13  #MKT News #WTI #Impact bullish #Brent
+
+Putin said Russia has begun drawing on its fuel reserves, but gasoline inventories remain flat YoY.
+
+---
+
+### 2026-06-29 00:36:58  #MKT News #Important #Commodities #Energy #Brent #Impact bullish #WTI
+
+Russian President Putin said Russia is considering a comprehensive ban on diesel exports.
 
 ---
 
 ### 2026-06-29 00:35:52  #MKT News
 
 Putin said Russia’s largest refineries are operating at full capacity.
+
+---
+
+### 2026-06-29 00:35:52  #國際
+
+俄羅斯總統普京：當前汽油庫存170萬噸，同比下降4%。
 
 ---
 
@@ -21065,71 +21155,5 @@ IAEA Director General Grossi said the agency has conducted preliminary exchanges
 ### 2026-06-26 12:22:25  #MKT News
 
 IAEA Director General Grossi said the agency hopes to visit Iran as soon as possible.
-
----
-
-### 2026-06-26 12:22:13  #國際
-
-國際原子能機構總幹事格羅西：我們希望儘快出訪伊朗。
-
----
-
-### 2026-06-26 12:22:07  #國際
-
-國際原子能機構總幹事格羅西：不可否認，我們已就國際原子能機構獲准進入伊朗開展核查達成一致。
-
----
-
-### 2026-06-26 12:22:05  #MKT News #WTI #Impact bearish #Brent #DXY
-
-GROSSI, IAEA director general, said it is undeniable that an agreement has been reached and the IAEA will be granted access to conduct inspections in Iran.
-
----
-
-### 2026-06-26 12:21:06  #公司
-
-加拿大帝國商業銀行將黑莓公司目標股價從10美元上調至13美元。
-
----
-
-### 2026-06-26 12:20:29  #其他
-
-【全球首艘2.4萬箱甲醇雙燃料集裝箱船今日交付啟航】今天（6月26日），在南通海事局全程監管保障下，全球首制2.4萬箱甲醇雙燃料集裝箱船“東方智慧”輪從江蘇南通長江段碼頭交付啟航。該輪總長399.99米、型寬61.3米，最多可以裝載24168個標準集裝箱，為當前全球最大級別的甲醇雙燃料集裝箱船。
-
----
-
-### 2026-06-26 12:18:52  #其他
-
-【全國10條河流發生超警洪水】記者從水利部瞭解到，受近期降雨影響，昨天到今天，廣東北江支流大坪水，廣西紅水河支流佈柳河龍頭河、鬱江支流澄碧河田州河，貴州柳江支流龍江，四川大渡河上游及支流梭磨河、黃河上游支流白河，新疆渭幹河支流卡拉蘇河等10條河流發生超警洪水，最大超警幅度1.58米，目前大部河流已退至警戒以下。四川大渡河發生2026年第1號洪水。
-
----
-
-### 2026-06-26 12:16:58  #公司 #觀點
-
-【花旗：聯想集團基礎設施服務業務料將實現強勁增長】花旗分析師在一份研究報告中表示，聯想集團的基礎設施服務業務在未來三年可能會實現強勁增長。花旗將其對聯想集團2027-2029年的盈利預測分別上調了6%、29%和40%，原因是其包括伺服器在內的基礎設施方案業務收入增加且盈利能力提高。他們表示，該業務部門受到來自中國和海外強勁的伺服器需求、AI伺服器交付量增加以及在CPU和儲存晶片供應緊張的情況下定價改善的支撐。花旗分析師預計，該業務部門在2027-2029年的收入將分別增長47%、44%和23%。花旗維持對聯想集團的買入評級，並將其目標價從20.00港元上調至31.00港元。
-
----
-
-### 2026-06-26 12:16:26  #其他
-
-香港天文臺釋出紅色暴雨警告。
-
----
-
-### 2026-06-26 12:15:15  #公司 #國際
-
-韓國HD造船海洋工程有限公司： HD現代三湖重工為開展安全培訓已全面停產，將於6月29日恢復生產。
-
----
-
-### 2026-06-26 12:14:07  #公司 #市場 #國際
-
-【SpaceX計劃為美國消費者推出新的星鏈移動服務】據《英國金融時報》援引知情人士訊息，埃隆·馬斯克旗下的SpaceX已向投資者透露，公司計劃為美國消費者推出一項全新的星鏈移動服務。 SpaceX總裁兼營運長格溫·肖特韋爾在首次公開募股路演期間表示，公司正在考慮推出一款星鏈零售產品。 該公司可能自行建設覆蓋美國的地面行動網路，但此舉需要星鏈向個人使用者銷售移動合約。 SpaceX未對評論請求作出回應。
-
----
-
-### 2026-06-26 12:12:34  #Trading Economics #Economy #Japan #Government Bond 10Y #Importance 1
-
-Japan 10-Year Yield Edges Lower — Japan's 10-year government bond yield slipped to around 2.61% on Friday, extending its decline for a third consecutive session despite data showing Tokyo's core inflation accelerated for the first time in eight months, reinforcing expectations that the Bank of Japan will continue raising interest rates. On Wednesday, BOJ Governor Kazuo Ueda reaffirmed his commitment to further rate hikes in line with economic, inflation, and financial conditions. A day later, hawkish board member Naoki Tamura also called for rate increases every few months. The BOJ is set to announce its next policy decision on July 31. Meanwhile, Japanese bond yields tracked lower US Treasury yields after a benign US inflation report reduced expectations for multiple Federal Reserve rate hikes this year. Oil prices also returned to pre-war levels as progress in US-Iran peace efforts eased inflation concerns.
 
 ---
