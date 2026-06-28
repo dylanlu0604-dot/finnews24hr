@@ -1,7 +1,115 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-06-29 00:07:59_
-_本檔包含 3476 則快訊，約 667006 字_
+_更新時間：2026-06-29 00:36:29_
+_本檔包含 3491 則快訊，約 667399 字_
+
+---
+
+### 2026-06-29 00:35:52  #MKT News
+
+Putin said Russia’s largest refineries are operating at full capacity.
+
+---
+
+### 2026-06-29 00:35:41  #MKT News
+
+Putin said previously stockpiled fuel has been supplied to Russia's domestic market.
+
+---
+
+### 2026-06-29 00:35:27  #MKT News
+
+Putin said Russia's gasoline stocks reached 1.7 mln tonnes.
+
+---
+
+### 2026-06-29 00:34:44  #國際
+
+俄羅斯總統普京：正考慮全面實施柴油出口禁令，相關事宜將展開研討。
+
+---
+
+### 2026-06-29 00:34:23  #國際
+
+俄羅斯總統普京：當前汽油庫存基本與去年同期持平。
+
+---
+
+### 2026-06-29 00:34:15  #國際
+
+俄羅斯總統普京：國內煉油廠已滿負荷運轉。
+
+---
+
+### 2026-06-29 00:34:05  #國際
+
+俄羅斯總統普京：俄羅斯7月燃油計劃產量將高於6月。
+
+---
+
+### 2026-06-29 00:33:53  #MKT News
+
+【5.5 magnitude quake in Gao County, Yibin, Sichuan; depth 6 km】cenc measured a magnitude-5.5 earthquake at 00:12 on June 29 in Gao County, Yibin, Sichuan; focal depth 6 km.
+
+---
+
+### 2026-06-29 00:29:44  #其他 #焦點
+
+中國地震臺網正式測定：06月29日00時12分，在四川宜賓市高縣(北緯28.50度，東經104.69度)發生5.5級地震，震源深度6公里。
+
+---
+
+### 2026-06-29 00:29:39  #其他
+
+訊息人士：受戰事再度爆發影響，原定於本週在瑞士舉行的美伊談判已暫停。
+
+---
+
+### 2026-06-29 00:25:05  #MKT News #Important #Macro & Rates #The Fed (FOMC)
+
+Richmond Fed President Barkin, a 2027 FOMC voting member, is scheduled to speak in ten minutes.
+
+---
+
+### 2026-06-29 00:21:00  #MKT News
+
+【Approx. magnitude-5.5 quake near Gao County, Yibin, Sichuan】cenc automatic determination: 2026-06-29 00:12 — an approximately magnitude-5.5 earthquake occurred in Gao County, Yibin, Sichuan. Final parameters subject to the formal rapid report.
+
+---
+
+### 2026-06-29 00:20:28  #其他
+
+【四川宜賓市高縣附近發生5.5級左右地震】據中國地震臺網自動測定：2026年6月29日0時12分在四川宜賓市高縣（北緯28.50度，東經104.70度）發生5.5級左右地震，最終結果以正式速報為準。
+
+---
+
+### 2026-06-29 00:17:04  #國際
+
+沙特王儲穆罕默德·本·薩勒曼與法國總統馬克龍於週日通電話，雙方討論了美伊諒解備忘錄的最新進展，以及為實現地區安全與穩定尋求全面解決方案的相關努力。二人還著重強調保障航行自由的重要性，並表態支援旨在緩和緊張局勢的外交行動。
+
+---
+
+### 2026-06-29 00:16:33  #MKT News
+
+According to AXIOS, the US has asked Israel to make two edits to an agreement text to secure a deal: withdraw Israeli forces from a village in southern Lebanon currently under Israeli occupation, and add explicit language that the move would mark the start of a broader withdrawal from Lebanon.
+
+---
+
+### 2026-06-29 00:12:48  #國際
+
+【中國代表在聯合國揭批日本人權劣跡】近日，中國代表團副團長李笑梅在聯合國人權理事會第62屆會議婦女權利問題研討會上發言，揭批日本人權劣跡。李笑梅指出，今年是東京審判開庭80週年，強徵“慰安婦”是日本軍國主義犯下的針對婦女的嚴重反人類罪行。中方敦促日本深刻反省侵略歷史，以誠實態度妥善處理歷史遺留問題。（CCTV國際時訊）
+
+---
+
+### 2026-06-29 00:09:35  #其他
+
+黎巴嫩議會議長：必須避免衝突，盡一切努力維護、守護地區穩定與民間和平。
+
+---
+
+### 2026-06-29 00:08:44  #MKT News
+
+Lebanon's parliament speaker reiterated the need to avoid conflict and said he would do everything possible to preserve stability and social peace.
 
 ---
 
@@ -21023,23 +21131,5 @@ GROSSI, IAEA director general, said it is undeniable that an agreement has been 
 ### 2026-06-26 12:12:34  #Trading Economics #Economy #Japan #Government Bond 10Y #Importance 1
 
 Japan 10-Year Yield Edges Lower — Japan's 10-year government bond yield slipped to around 2.61% on Friday, extending its decline for a third consecutive session despite data showing Tokyo's core inflation accelerated for the first time in eight months, reinforcing expectations that the Bank of Japan will continue raising interest rates. On Wednesday, BOJ Governor Kazuo Ueda reaffirmed his commitment to further rate hikes in line with economic, inflation, and financial conditions. A day later, hawkish board member Naoki Tamura also called for rate increases every few months. The BOJ is set to announce its next policy decision on July 31. Meanwhile, Japanese bond yields tracked lower US Treasury yields after a benign US inflation report reduced expectations for multiple Federal Reserve rate hikes this year. Oil prices also returned to pre-war levels as progress in US-Iran peace efforts eased inflation concerns.
-
----
-
-### 2026-06-26 12:12:30  #公司 #市場
-
-【全球晶片LOF：將於6月26日下午開市起停牌至當日收市】景順長城基金管理有限公司公告，近期旗下景順長城全球半導體晶片產業股票型證券投資基金（QDII-LOF）（場內簡稱：全球晶片，擴位簡稱：全球晶片LOF，交易程式碼：501225）二級市場交易價格明顯高於基金份額淨值，出現較大幅度溢價。2026年6月26日中午收盤，本基金二級市場的最新成交價為4.606元，截至2026年6月24日，本基金基金份額淨值為3.5034元。特此鄭重提醒廣大投資者，應密切關注二級市場交易價格溢價風險，審慎做出投資決策，如盲目投資，後續可能遭受重大損失。為保護投資者利益，本基金將於2026年6月26日下午開市起停牌至當日收市，停牌期間本基金贖回業務照常辦理。
-
----
-
-### 2026-06-26 12:12:06  #MKT News #Market Regions #Japan & APAC
-
-【Japan's Tokai No.2 nuclear plant offline】Japan Atomic Power Company said the Tokai No.2 nuclear power plant is currently offline. The Japan Meteorological Agency recorded a magnitude-5.8 earthquake at about 12:46 p.m. local time on the 26th in northeastern Chiba Prefecture. So far no abnormalities have been reported at the plant and nearby radiation monitoring stations have shown no change in dose rates.
-
----
-
-### 2026-06-26 12:11:43  #MKT News #Market Themes #China EV Leaders #XPEV.O #Impact bullish
-
-【He Xiaopeng says autonomous driving can legally enter global markets by year-end】On June 26, He Xiaopeng said Xpeng’s second‑generation VLA is headed for global rollout. He noted WP.29’s approval of DCAS UNR 171 series 02 will enter into force six months after approval and become an EU mandatory regulation, clearing the way for legal deployment of autonomous driving in the EU and other markets from end‑2026. He said Xpeng plans overseas rollouts of VLA and VLM in 2027, including mixed Chinese/local‑language in‑car voice control. Xpeng took an active role in the WP.29 ADS working group to advance the first global autonomous‑driving regulation.
 
 ---

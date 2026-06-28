@@ -1,7 +1,25 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-06-29 00:07:59_
-_本檔包含 3660 則快訊，約 667497 字_
+_更新時間：2026-06-29 00:36:29_
+_本檔包含 3656 則快訊，約 666198 字_
+
+---
+
+### 2026-06-26 12:12:30  #公司 #市場
+
+【全球晶片LOF：將於6月26日下午開市起停牌至當日收市】景順長城基金管理有限公司公告，近期旗下景順長城全球半導體晶片產業股票型證券投資基金（QDII-LOF）（場內簡稱：全球晶片，擴位簡稱：全球晶片LOF，交易程式碼：501225）二級市場交易價格明顯高於基金份額淨值，出現較大幅度溢價。2026年6月26日中午收盤，本基金二級市場的最新成交價為4.606元，截至2026年6月24日，本基金基金份額淨值為3.5034元。特此鄭重提醒廣大投資者，應密切關注二級市場交易價格溢價風險，審慎做出投資決策，如盲目投資，後續可能遭受重大損失。為保護投資者利益，本基金將於2026年6月26日下午開市起停牌至當日收市，停牌期間本基金贖回業務照常辦理。
+
+---
+
+### 2026-06-26 12:12:06  #MKT News #Market Regions #Japan & APAC
+
+【Japan's Tokai No.2 nuclear plant offline】Japan Atomic Power Company said the Tokai No.2 nuclear power plant is currently offline. The Japan Meteorological Agency recorded a magnitude-5.8 earthquake at about 12:46 p.m. local time on the 26th in northeastern Chiba Prefecture. So far no abnormalities have been reported at the plant and nearby radiation monitoring stations have shown no change in dose rates.
+
+---
+
+### 2026-06-26 12:11:43  #MKT News #Market Themes #China EV Leaders #XPEV.O #Impact bullish
+
+【He Xiaopeng says autonomous driving can legally enter global markets by year-end】On June 26, He Xiaopeng said Xpeng’s second‑generation VLA is headed for global rollout. He noted WP.29’s approval of DCAS UNR 171 series 02 will enter into force six months after approval and become an EU mandatory regulation, clearing the way for legal deployment of autonomous driving in the EU and other markets from end‑2026. He said Xpeng plans overseas rollouts of VLA and VLM in 2027, including mixed Chinese/local‑language in‑car voice control. Xpeng took an active role in the WP.29 ADS working group to advance the first global autonomous‑driving regulation.
 
 ---
 
@@ -22006,47 +22024,5 @@ China's installed power generation capacity exceeded 4 billion kilowatts, roughl
 ### 2026-06-25 11:00:27  #其他
 
 【交通運輸部：加快推動人工智慧在交通運輸領域規模化創新應用】交通運輸部等五部門聯合印發《“人工智慧+交通運輸”典型應用場景創新行動方案》。行動方案提出，到2030年，開放一批高價值應用場景，形成一批高水平演算法模型，湧現一批“人工智慧+交通運輸”新基礎設施、新技術裝備、新服務模式、新產業形態，人工智慧更加有力地引領交通運輸高質量發展和高水平安全。聚焦智慧駕駛、智慧公路、智慧鐵路、智慧航運、智慧民航等重點方向，圍繞路網執行狀態智慧監測、鐵路裝備自主健康管理、船舶編隊智慧航行、航空旅客智慧安檢等典型應用場景開展試點示範，持續拓展人工智慧技術在交通運輸領域的應用廣度與深度。
-
----
-
-### 2026-06-25 11:00:21  #市場 #國際
-
-泰國SET指數開盤上漲0.7%，至1558.53點。
-
----
-
-### 2026-06-25 10:59:46  #公司
-
-【深圳天使母基金、昭衍新藥等成立種子創投合夥企業】企查查APP顯示，近日，深圳市倚鋒明遠種子創業投資合夥企業（有限合夥）成立，出資額約1.28億元，經營範圍包含：以自有資金從事投資活動；創業投資。企查查股權穿透顯示，該合夥企業由深圳市天使投資引導基金有限公司、昭衍新藥(603127)全資子公司北京昭衍管理科技有限公司等共同持股。
-
----
-
-### 2026-06-25 10:57:58  #其他
-
-【郭蘭峰：“胖東來現象”反映居民對最佳化消費環境的訴求】6月25日，中國經濟體制改革研究會會長郭蘭峰在2026夏季達沃斯論壇上表示，擴大消費要最佳化消費環境。“為什麼會出現‘胖東來現象’？我想是因為他們商場的價格比較合理、產品質量有保障。”郭蘭峰表示，“胖東來現象”一定程度反映出居民對最佳化消費環境的訴求。
-
----
-
-### 2026-06-25 10:57:54  #Trading Economics #Economy #China #Government Bond 10Y #Importance 1
-
-China 10Y Yield Nears 3-Week Low — China’s 10-year government bond yield fell to around 1.73% on Thursday, approaching its lowest level in three weeks, as plans by the People's Bank of China to introduce overnight reverse repo operations raised expectations of easier liquidity conditions. The PBOC said it will conduct overnight reverse repo operations on June 29–30, providing fixed-rate overnight liquidity to better meet short-term funding needs in the banking system. The new overnight rate will complement the existing 7-day rate of 1.4%, aligning the PBOC’s policy framework more closely with global peers. The move follows Governor Pan Gongsheng’s remarks at the Lujiazui Forum, where he signaled plans to expand overnight operations. Meanwhile, China launched marketing for up to €5 billion ($5.7 billion) of euro-denominated sovereign bonds, which could be its largest euro issuance on record, with initial price guidance set at 15, 22, and 33 basis points over mid-swaps for the 5-, 8-, and 12-year tranches, respectively.
-
----
-
-### 2026-06-25 10:55:37  #其他
-
-【中國貿促會副會長李慶霜率團出席上合組織實業家委員會理事會會議等系列活動】6月23日至25日，中國貿促會副會長李慶霜率團赴吉爾吉斯斯坦出席上合組織實業家委員會理事會會議和上合組織投資與商務論壇併發言，與上合組織政商界代表就深化區域產供鏈協同合作、推動地方交流、拓展務實合作空間等進行交流。
-
----
-
-### 2026-06-25 10:55:06  #MKT News
-
-The State Department’s deputy assistant secretary for foreign assistance said the US will deploy search-and-rescue teams and deliver medical and humanitarian supplies to Venezuela.
-
----
-
-### 2026-06-25 10:54:37  #Trading Economics #Markets #China #Currency #Importance 1
-
-Offshore Yuan Holds Near 1-Month Low — The offshore yuan steadied around 6.81 per dollar on Thursday, hovering near a one-month low after the People’s Bank of China unveiled plans to introduce overnight reverse repo operations as part of its next phase of monetary policy reform. The central bank said it will conduct overnight reverse repurchase operations on June 29–30, providing fixed-rate overnight liquidity to better address short-term funding needs in the banking system. The new overnight reverse repo rate will complement the existing seven-day rate of 1.4%, bringing the PBOC’s policy toolkit closer in line with major global central banks such as the Federal Reserve. During the Lujiazui Forum, Governor Pan Gongsheng outlined the central bank’s plans to broaden overnight reverse repo operations. Externally, the yuan remained under pressure from a stronger US dollar amid growing market expectations of further Federal Reserve interest rate hikes later this year.
 
 ---

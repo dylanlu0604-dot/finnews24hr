@@ -1,7 +1,67 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-06-29 00:07:59_
-_本檔包含 3519 則快訊，約 666214 字_
+_更新時間：2026-06-29 00:36:29_
+_本檔包含 3505 則快訊，約 666552 字_
+
+---
+
+### 2026-06-23 07:15:29  #公司 #國際
+
+【Reliance Worldwide將關閉澳大利亞黃銅製造業務並預警資產減值】管道產品製造商Reliance Worldwide表示，計劃關閉其位於澳大利亞墨爾本市的黃銅鑄造、鍛造和機械加工作業，此舉是該公司正在進行的生產佈局調整的一部分，預計將提升未來盈利。該公司表示，其在Moorabbin和Braeside的業務已不再具有經濟可行性，並預計到2027財年底，此舉將為息稅折舊及攤銷前利潤帶來約900萬美元的年淨增長。該公司稱，美洲地區成本的降低預計將足以抵消亞太地區收入減少所帶來的影響。該公司表示：“運營盈利的改善，反映出調整後的供應鏈帶來了更優的第三方採購經濟效益，以及美國關稅敞口的降低。”Reliance表示，預計將在2026財年錄得1億至1.1億美元的一次性淨支出，其中包括商譽減值和裁員撥備。Reliance稱，約有85名員工受此次關閉影響。
+
+---
+
+### 2026-06-23 07:14:51  #其他
+
+【全球腦機介面×醫保創新場景大賽在杭州啟動】此次賽事由國家醫療保障局聯合浙江省人民政府共同舉辦，將於9月舉行決賽。目前，大賽官網已開放線上報名通道。此次大賽設定腦控無人機競技賽、腦控運動輪椅競技賽、腦控機械臂搬運競技賽、腦控機器狗競技賽、腦控打字競速賽、虛擬任務競速賽六大任務競技類賽道，以及健康監測與早期預警、功能康復與智慧照護2個場景應用類賽道。國家醫療保障局大資料中心主任付超奇在會上表示，大賽以腦機介面創新應用為突破口，打造“前沿智慧技術+智慧醫保+全域健康服務”的發展新模式。（科技日報）
+
+---
+
+### 2026-06-23 07:14:28  #公司 #市場
+
+【光棒個別型別較年初漲價逾五倍 供應緊缺或將延續至2027年】受益於AI算力網路建設帶來的巨量光纖光纜需求，作為光纖製造“母體”的光纖預製棒（下稱“光棒”）價格較2025年初快速上漲：通用G.652D光棒報價漲幅超過180%；用於資料中心高密度佈線的G.657.A2類光棒，每等效芯公里報價則由22元至30元漲到160元，漲幅近550%。多家上市公司表示，本輪光棒價格上漲與供需失衡以及上游原材料漲價傳導等因素共同導致，預計緊缺狀態將持續到2027年。（上海證券報）
+
+---
+
+### 2026-06-23 07:14:07  #其他
+
+【算力光纖需求共振 高純四氯化矽景氣度上行】受算力基建、通訊網路升級帶動，今年以來，高純四氯化矽市場需求持續回暖。高純四氯化矽下游主要應用於光纖預製棒、合成石英玻璃的生產。據瞭解，受益於全球光纖高景氣，高純四氯化矽同步進入緊缺導致的漲價週期。“當前高純四氯化矽行業處於景氣上行週期，後續其市場需求具備中長期剛性增長邏輯。”近日一家矽化工龍頭企業負責人對記者表示，“能滿足光纖A2超低損耗光棒、先進半導體制程的6N以上超高純四氯化矽產能存在技術壁壘高、客戶匯入難等特點，目前全球有效產能偏緊，疊加下游光棒產業未來幾年的擴產節奏，行業盈利水平有望進一步抬升。”（上海證券報）
+
+---
+
+### 2026-06-23 07:13:10  #市場 #國際
+
+【美國汽油價格連續第六週下跌】資料顯示，週一，美國與伊朗之間的外交斡旋使美國消費者在加油時感到了一絲寬慰：汽油價格已連續第六週下跌，較5月份的高點下降了15%。據油價追蹤服務機構GasBuddy的資料，上週全國汽油均價下跌了14.1美分/加侖，週一降至每加侖3.85美元。大多數州的汽油價格均出現下跌。GasBuddy資料顯示，過去一週，科羅拉多州的汽油價格每加侖下跌25美分，亞利桑那州下跌22美分，俄亥俄州下跌21美分。
+
+---
+
+### 2026-06-23 07:12:15  #其他
+
+【議會否決組閣方案 羅馬尼亞新總理人選仍待定 】羅馬尼亞參眾兩院聯席會議22日晚投票，沒有透過總理阿德里安·韋什泰亞的組閣方案。這一結果意味著羅馬尼亞總統達恩需與各黨派協商，再次委任新的總理，同時臨時政府將繼續履職。據羅通社報道，韋什泰亞政府需獲得至少233張贊成票才能宣誓就職，而參眾兩院聯席會議當晚僅有189票贊成，另有23票反對。投票結束後，韋什泰亞在宣告中表達遺憾，稱羅馬尼亞人接下來“還將經歷一段不安和焦慮的時期”。
+
+---
+
+### 2026-06-23 07:10:42  #國際
+
+【環球時報社評：孟加拉國總理訪華，少數印媒不必耿耿於懷】孟加拉人民共和國總理塔裡克·拉赫曼將於6月24日至26日對中國進行正式訪問。此訪是塔裡克就任後首次訪華，他還將出席在大連舉行的第十七屆夏季達沃斯論壇。緊湊而豐富的行程安排，折射出孟加拉國新一屆政府對發展對華關係的高度重視。據孟加拉國媒體透露，中孟雙方將簽署一系列合作檔案，充分體現兩國深厚的政治互信基礎和巨大的合作潛能。少數印度媒體對孟加拉國領導人首訪忽視印度而耿耿於懷。有印媒稱，塔裡克是“繞過印度”去了中國，對孟加拉國沒有表現出優先發展與印度的關係而感到很不是滋味。還有媒體警告中孟兩國開展水利合作“尤其觸動了新德里的敏感神經”。這些泛著酸味的論調背後，折射出一部分印方人士抱有“老大”心態，把鄰國首訪當作“宗主國受貢儀式”，把別國的外交自主選擇視為對自己的冒犯。 其實，中國重視發展與孟加拉國的關係，也樂意發展與印度的務實合作。中印應當做睦鄰友好的朋友、相互成就的夥伴，實現“龍象共舞”。（環球網）
+
+---
+
+### 2026-06-23 07:07:49  #Trading Economics #Economy #Australia #Manufacturing PMI #Importance 2
+
+Australia Factory Growth Picks Up in June — The S&P Global Australia Manufacturing PMI increased to 51.2 in June 2026 from 50.7 in the previous month, preliminary estimates showed. It was the third consecutive month of expansion, supported by rises in employment. However, production continued to decline slightly, with the rate of decline little changed from the previous month. Looking ahead, business sentiment strengthened, supported by expansion plans and optimism about future new orders.
+
+---
+
+### 2026-06-23 07:07:14  #公司 #國際
+
+【報道：韓國總統李在明將與三星討論區域投資計劃】據每日經濟援引政界及業界未具名訊息人士的話報道稱，韓國總統李在明將於6月25日會見三星電子執行會長李在鎔（Jay Y. Lee），討論區域投資計劃。李在明已於6月19日會見了SK集團會長崔泰源。外界猜測，三星和SK海力士可能會在韓國西南部的全羅道地區進行晶片相關的投資。三星、SK海力士及其他公司可能會在6月29日舉行的總統府會議上宣佈區域投資計劃。
+
+---
+
+### 2026-06-23 07:07:08  #Trading Economics #Economy #Australia #Services PMI #Importance 1
+
+Australia Services Activity Nears Stabilisation in June — The S&P Global Flash Australia Services PMI Business Activity Index rose to 49.9 in June from 48.7 in the previous month. The flash data indicated that the services sector moved closer to stabilization but remained slightly in contraction territory. Nonetheless, the improvement helped lift the Composite Output Index to 49.8 from 48.7, signaling broadly stable private sector activity. However, new orders continued to decline for a fourth straight month amid market uncertainty, while export demand also weakened. Business confidence fell to its lowest level since the pandemic. Employment returned to growth, but firms reduced backlogs at the fastest pace in over two years. Meanwhile, input cost and selling price inflation eased further despite persistent fuel and transportation cost pressures.
 
 ---
 
@@ -21117,149 +21177,5 @@ Iranian state media reported a member of Iran's negotiation team said procedures
 ### 2026-06-22 00:37:41  #焦點 #國際
 
 伊朗談判代表團成員對官方媒體表示：伊朗凍結資金解凍的執行流程已在卡達代表團參與下完成。
-
----
-
-### 2026-06-22 00:35:54  #MKT News #WTI #Impact bullish #Brent
-
-Iranian state media reports a member of Iran's negotiating team said talks on other issues will not proceed unless the war in Lebanon ends.
-
----
-
-### 2026-06-22 00:34:57  #國際
-
-伊朗談判團隊成員對伊朗國家媒體表示：如果黎巴嫩戰事不結束，就不會就其他議題進行談判。
-
----
-
-### 2026-06-22 00:33:47  #MKT News #Market Regions #Europe & UK
-
-France's foreign ministry said the foreign minister will meet Qatar's prime minister in Switzerland on Monday local time.
-
----
-
-### 2026-06-22 00:33:11  #國際
-
-法國外交部：法國外長將於週一在瑞士會見卡達首相。
-
----
-
-### 2026-06-22 00:31:49  #MKT News #WTI #Impact bullish #Brent
-
-TASNIM NEWS, citing sources, says Iran's delegation walked out of talks in protest at comments by Trump.
-
----
-
-### 2026-06-22 00:31:25  #焦點 #國際
-
-訊息人士：伊朗代表團為抗議特朗普言論已離開談判會場。
-
----
-
-### 2026-06-22 00:28:28  #MKT News #XAUUSD #Impact bullish #DXY #WTI
-
-【Israel says it killed more than 20 Hezbollah fighters in southern Lebanon】On the 21st the IDF said it discovered an underground tunnel with four shafts and hundreds of weapons beneath the southern Lebanese village of Majdal Zoun, about 10 km from the Israel-Lebanon border, and that the 551st Brigade of its 91st Division is conducting operations there. The IDF said it killed more than 20 Hezbollah fighters during the operation, including over 10 members of the elite Radwan unit, and destroyed more than 50 military sites including observation posts and weapons storage facilities.
-
----
-
-### 2026-06-22 00:27:07  #國際
-
-伊朗塔斯尼姆通訊社稱，特朗普近期發表的威脅言論致使瑞士談判陷入暫停，也給談判程序帶來極大不確定性。
-
----
-
-### 2026-06-22 00:24:22  #國際
-
-伊朗稱，特朗普發表的威脅言論致使美伊瑞士談判中止。
-
----
-
-### 2026-06-22 00:22:41  #國際
-
-【以軍稱在黎巴嫩南部打死多名黎真主黨武裝人員】當地時間21日，以色列國防軍發表宣告稱，以軍在距離以黎邊境約10公里的黎巴嫩南部村鎮馬吉代勒祖恩地下，發現了一條建有4個地道豎井並藏有數百件武器的地道。據以色列國防軍釋出的宣告，以軍第91師指揮下的第551旅目前正在該地區展開行動。在行動期間，以軍共打死了20多名黎巴嫩真主黨武裝人員，其中包括10多名真主黨精銳武裝拉德萬部隊的成員。此外，以軍還聲稱摧毀了50多個軍事基礎設施站點，包括觀察哨和武器儲存設施。以軍透露，其在現場具體定位了一條長度超過200米、深度超過25米的地道。以方聲稱，該地道內設有4個地道豎井和12個房間，其中包括生活區以及用於儲存簡易爆炸裝置、反坦克導彈和無人機的房間。（央視新聞）
-
----
-
-### 2026-06-22 00:21:58  #國際
-
-【真主黨領導人明確拒絕以色列在黎巴嫩境內設立任何安全區】黎巴嫩真主黨領導人納伊姆·卡西姆明確拒絕以色列在黎巴嫩境內設立任何安全區。此前以色列總理內塔尼亞胡宣稱，以軍會駐守黎巴嫩南部，直至局勢不再需要駐軍為止。卡西姆表示：“以色列軍隊盤踞黎巴嫩領土，這絕無可能。”他補充稱，“以色列是侵略者，必須撤離。”
-
----
-
-### 2026-06-22 00:21:09  #國際
-
-訊息人士：伊朗代表團正在開展內部磋商，目前尚不清楚其是否會重返談判。
-
----
-
-### 2026-06-22 00:19:16  #MKT News
-
-Republican Senator Lindsey Graham said he hopes diplomacy will succeed but warned that if Iran attempts to challenge the United States, the U.S. will utterly destroy Iran.
-
----
-
-### 2026-06-22 00:18:56  #MKT News #XAUUSD #Impact bullish #DXY #WTI
-
-【Hezbollah leader says will respond to any ceasefire violations】Hezbollah leader Naim Qassem said Israel will not continue to remain stationed in Lebanon and the group will respond to any Israeli violations of the ceasefire. His remarks came as Israeli officials said the ceasefire, which took effect on Friday, still permits the Israel Defense Forces to act without restriction to remove threats inside Lebanon.
-
----
-
-### 2026-06-22 00:15:30  #國際
-
-伊朗首席談判代表卡利巴夫：他們難道就沒想過，倘若其威脅真能奏效，又怎會落到如今這般絕望的境地？我們根本不把美國的威脅放在眼裡。美方最好謹言慎行，我方武裝力量已準備好採取另一種方式予以回擊。無論美方如何叫囂，付諸行動的終將是我們。
-
----
-
-### 2026-06-22 00:15:06  #國際
-
-伊朗首席談判代表卡利巴夫表示，美國應當對自身言論謹慎行事，伊方武裝力量已做好反擊準備。
-
----
-
-### 2026-06-22 00:14:44  #MKT News #XAUUSD #Impact bullish #WTI #DXY
-
-Iran parliament speaker Ghalibaf said Iran does not care about US threats, told Washington to watch its words, and said Iran’s armed forces are prepared to respond in other ways; he added that regardless of US statements, Iran will be the one to take real action.
-
----
-
-### 2026-06-22 00:14:01  #國際
-
-【伊朗抗議特朗普近期發出的威脅 並正在考量應對舉措】伊朗已就特朗普近期發出的威脅向美國正式提出抗議，並正在考量應對舉措。德黑蘭稱，任何形式的威脅行為都違反相關協議第一條條款，該條款規定美方不得實施威脅，因此特朗普此番言論嚴重違背雙方達成的共識。
-
----
-
-### 2026-06-22 00:11:17  #國際
-
-【伊朗：若以色列不從黎巴嫩撤軍，將終止與美國的談判】伊朗方面表示，除非以色列全面撤出黎巴嫩且各戰線戰事全部平息，否則伊美之間所有談判都將中止。伊朗警告，若以色列繼續採取相關行動，伊朗將採取強硬得多的反擊措施。德黑蘭方面還懷疑美國借談判為以色列爭取喘息時間。
-
----
-
-### 2026-06-22 00:11:03  #MKT News #Important #Commodities #Energy #WTI #Impact bearish #Brent
-
-Iranian state TV quoted the head of the National Iranian Oil Company (NIOC) saying more than 25 million barrels of Iranian oil have crossed blockade lines since last Monday.
-
----
-
-### 2026-06-22 00:10:24  #公司 #焦點 #國際
-
-伊朗國家石油公司負責人表示，自週一以來，已有超過2500萬桶伊朗石油突破封鎖線運輸。
-
----
-
-### 2026-06-22 00:10:06  #焦點 #國際
-
-伊朗塔斯尼姆通訊社：若以色列不從黎巴嫩撤軍，伊朗將終止與美國的談判。
-
----
-
-### 2026-06-22 00:09:02  #國際
-
-美國能源部長賴特：伊朗依然我行我素。
-
----
-
-### 2026-06-22 00:08:01  #國際
-
-【萬斯稱特朗普要求與伊朗“翻開新篇章”】美國副總統萬斯週日（6月21日）在伊美會談前表示，特朗普已要求與伊朗“翻開新篇章”，以轉變美伊關係。
 
 ---

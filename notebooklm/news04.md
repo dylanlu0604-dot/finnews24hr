@@ -1,7 +1,103 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-06-29 00:07:59_
-_本檔包含 3477 則快訊，約 667742 字_
+_更新時間：2026-06-29 00:36:29_
+_本檔包含 3483 則快訊，約 666853 字_
+
+---
+
+### 2026-06-24 09:05:35  #其他
+
+【福州長樂國際機場成為福建省首座4F級機場 】6月23日上午，福州長樂國際機場二跑道投運，標誌著該機場由此邁入“雙跑道時代”。同日，該機場獲頒新版《運輸機場使用許可證》，飛行區等級由4E提升至4F，成為福建省首座4F級機場。當天上午，福州往返荷蘭阿姆斯特丹直飛航線也迎來首航。（新華社）
+
+---
+
+### 2026-06-24 09:05:24  #MKT News #Important #Commodities #Precious Metals #XAUUSD #Impact bearish
+
+Spot gold fell nearly $30 intraday, slipping below $4,070/oz and down about 1% on the day.
+
+---
+
+### 2026-06-24 09:05:05  #市場
+
+臺灣證交所加權股價指數下跌2%至46,144.58點。
+
+---
+
+### 2026-06-24 09:04:53  #其他
+
+【加強資料期刊建設 中國科學院釋出新刊】6月23日，由中國科學院主管的英文資料期刊《資料快報（英文）》（Data Express）正式創刊。期刊旨在發表具有高質量、可重複、長效價值的科學資料，推動各領域科學資料的規範出版、廣泛共享與高效複用，促進全球科研資料的流通與協作。據介紹，除《資料快報（英文）》外，中國科學院2026年還將在數理、生態環境、海洋大氣等領域啟動建設系列領域資料期刊，組成“1種綜合旗艦刊+N種領域專業刊”的資料期刊叢集，構建立體化資料期刊體系，為廣大科研人員提供科學資料成果快速釋出渠道。（新華社）
+
+---
+
+### 2026-06-24 09:04:52  #市場 #焦點
+
+現貨黃金失守4070美元/盎司，日內跌0.98%。
+
+---
+
+### 2026-06-24 09:04:41  #Trading Economics #Markets #commodity #Importance 0
+
+Brent Hits 16-week Low — Brent decreased to 76.47 USD/Bbl, the lowest since February 2026. Over the past 4 weeks, Brent Crude Oil lost 20.82%, and in the last 12 months, it increased 15.23%.
+
+---
+
+### 2026-06-24 09:04:00  #Trading Economics #Markets #Japan #Stock Market #Importance 2
+
+Japan’s Nikkei Declines for Second Day — The Nikkei 225 Index fell 0.6% to below 69,500 on Wednesday, extending the previous session’s losses as a technology-driven selloff on Wall Street weighed on sentiment amid growing concerns over heavy AI spending by hyperscalers. In Japan, the Summary of Opinions from the Bank of Japan’s June meeting showed that policymakers generally favored continuing interest rate hikes, citing underlying inflation moving closer to the central bank’s 2% target while financial conditions remain supportive. On the geopolitical front, progress in US-Iran peace negotiations helped increase traffic through the Strait of Hormuz, easing pressure on global energy supplies and reducing inflation concerns. Among notable decliners, Fujikura dropped 2.7%, Tokyo Electron lost 2.2%, Furukawa Electric fell 1.7%, Disco Corp slipped 2.2%, and Sumitomo Electric declined 1.6%.
+
+---
+
+### 2026-06-24 09:03:56  #市場 #焦點
+
+紐約期金失守4090美元/盎司，日內跌1.44%。
+
+---
+
+### 2026-06-24 09:03:43  #MKT News #Important #Commodities #Precious Metals
+
+Shanghai (SHFE) silver 2608 contract weakened sharply intraday, widening losses to 5.05% at 14,761 yuan/kg; turnover topped 83.0 bln yuan. Open interest rose by more than 5,000 lots, and intraday volatility increased.
+
+---
+
+### 2026-06-24 09:03:41  #市場 #焦點
+
+現貨黃金失守4080美元/盎司，日內跌0.79%。
+
+---
+
+### 2026-06-24 09:03:08  #市場
+
+日經225指數現跌0.4%，盤初一度上漲0.6%。
+
+---
+
+### 2026-06-24 09:02:34  #公司
+
+【怡達股份：公司溼電子化學品正常銷售及推進客戶認證】怡達股份(300721)6月24日在互動平臺表示，公司溼電子化學品正常銷售及推進客戶認證，目前銷量及收入佔比影響較小。
+
+---
+
+### 2026-06-24 09:02:11  #市場 #焦點
+
+白銀連續主力合約日內跌5%，現報14768.00元。
+
+---
+
+### 2026-06-24 09:01:41  #宏觀
+
+【工業和資訊化部：穩定和擴大汽車消費】工業和資訊化部相關負責人昨天（23日）表示，將從發展規劃、技術創新等四方面提振汽車消費。工業和資訊化部裝備工業一司負責人 郭守剛：我們將穩定和擴大汽車消費。加快編制出臺智慧網聯新能源汽車產業發展“十五五”規劃，推動產業轉型升級。聚力技術創新，加快新一代動力電池、車用晶片、作業系統、自動駕駛等技術攻關及產業化，讓更多創新技術成果惠及廣大消費者。進一步挖掘市場潛力。規範競爭秩序。堅決維護健康有序、風清氣正的市場秩序。（央視）
+
+---
+
+### 2026-06-24 09:01:30  #MKT News #Important #Market Themes #Chip Wars #TSM.O #Impact bullish
+
+【Report: TSMC to raise advanced-node foundry prices across the board】Taiwan media, citing technology analysts, report TSMC has begun notifying customers of wafer-foundry price increases covering not only the rumored 3nm node but all advanced nodes 7nm and below, with hikes of about 5–10% that would affect roughly 75% of wafer revenue.
+
+---
+
+### 2026-06-24 09:01:26  #MKT News #Market Regions #Japan & APAC #Nikkei 225 #Impact bearish
+
+Japan's Nikkei 225 pared earlier gains, down 0.4% at 69,499.12.
 
 ---
 
@@ -20929,65 +21025,5 @@ Oil Steadies as US-Iran Talks Continue — Crude oil stabilized above $74 per ba
 ### 2026-06-23 07:15:59  #市場
 
 【全球資金“加槓桿”押注半導體】今年以來，隨著人工智慧產業迭代、相關需求全面爆發，全球半導體板塊持續走強。在此背景下，具備高彈性特徵的半導體槓桿ETF成為資金追逐的焦點，海外市場多隻相關產品今年以來規模大增。 本輪槓桿ETF行情呈現鮮明的散戶主導特徵，個人資金成為入場主力。業內人士認為，自帶槓桿屬性的交易工具是一把“雙刃劍”，在放大收益的同時，其每日調倉、波動加劇、流動性失衡等潛在風險持續暴露，短期劇烈回撤、走勢異常背離等現象頻發，為這場散戶主導的資金狂歡埋下多重隱患。（上海證券報）
-
----
-
-### 2026-06-23 07:15:29  #公司 #國際
-
-【Reliance Worldwide將關閉澳大利亞黃銅製造業務並預警資產減值】管道產品製造商Reliance Worldwide表示，計劃關閉其位於澳大利亞墨爾本市的黃銅鑄造、鍛造和機械加工作業，此舉是該公司正在進行的生產佈局調整的一部分，預計將提升未來盈利。該公司表示，其在Moorabbin和Braeside的業務已不再具有經濟可行性，並預計到2027財年底，此舉將為息稅折舊及攤銷前利潤帶來約900萬美元的年淨增長。該公司稱，美洲地區成本的降低預計將足以抵消亞太地區收入減少所帶來的影響。該公司表示：“運營盈利的改善，反映出調整後的供應鏈帶來了更優的第三方採購經濟效益，以及美國關稅敞口的降低。”Reliance表示，預計將在2026財年錄得1億至1.1億美元的一次性淨支出，其中包括商譽減值和裁員撥備。Reliance稱，約有85名員工受此次關閉影響。
-
----
-
-### 2026-06-23 07:14:51  #其他
-
-【全球腦機介面×醫保創新場景大賽在杭州啟動】此次賽事由國家醫療保障局聯合浙江省人民政府共同舉辦，將於9月舉行決賽。目前，大賽官網已開放線上報名通道。此次大賽設定腦控無人機競技賽、腦控運動輪椅競技賽、腦控機械臂搬運競技賽、腦控機器狗競技賽、腦控打字競速賽、虛擬任務競速賽六大任務競技類賽道，以及健康監測與早期預警、功能康復與智慧照護2個場景應用類賽道。國家醫療保障局大資料中心主任付超奇在會上表示，大賽以腦機介面創新應用為突破口，打造“前沿智慧技術+智慧醫保+全域健康服務”的發展新模式。（科技日報）
-
----
-
-### 2026-06-23 07:14:28  #公司 #市場
-
-【光棒個別型別較年初漲價逾五倍 供應緊缺或將延續至2027年】受益於AI算力網路建設帶來的巨量光纖光纜需求，作為光纖製造“母體”的光纖預製棒（下稱“光棒”）價格較2025年初快速上漲：通用G.652D光棒報價漲幅超過180%；用於資料中心高密度佈線的G.657.A2類光棒，每等效芯公里報價則由22元至30元漲到160元，漲幅近550%。多家上市公司表示，本輪光棒價格上漲與供需失衡以及上游原材料漲價傳導等因素共同導致，預計緊缺狀態將持續到2027年。（上海證券報）
-
----
-
-### 2026-06-23 07:14:07  #其他
-
-【算力光纖需求共振 高純四氯化矽景氣度上行】受算力基建、通訊網路升級帶動，今年以來，高純四氯化矽市場需求持續回暖。高純四氯化矽下游主要應用於光纖預製棒、合成石英玻璃的生產。據瞭解，受益於全球光纖高景氣，高純四氯化矽同步進入緊缺導致的漲價週期。“當前高純四氯化矽行業處於景氣上行週期，後續其市場需求具備中長期剛性增長邏輯。”近日一家矽化工龍頭企業負責人對記者表示，“能滿足光纖A2超低損耗光棒、先進半導體制程的6N以上超高純四氯化矽產能存在技術壁壘高、客戶匯入難等特點，目前全球有效產能偏緊，疊加下游光棒產業未來幾年的擴產節奏，行業盈利水平有望進一步抬升。”（上海證券報）
-
----
-
-### 2026-06-23 07:13:10  #市場 #國際
-
-【美國汽油價格連續第六週下跌】資料顯示，週一，美國與伊朗之間的外交斡旋使美國消費者在加油時感到了一絲寬慰：汽油價格已連續第六週下跌，較5月份的高點下降了15%。據油價追蹤服務機構GasBuddy的資料，上週全國汽油均價下跌了14.1美分/加侖，週一降至每加侖3.85美元。大多數州的汽油價格均出現下跌。GasBuddy資料顯示，過去一週，科羅拉多州的汽油價格每加侖下跌25美分，亞利桑那州下跌22美分，俄亥俄州下跌21美分。
-
----
-
-### 2026-06-23 07:12:15  #其他
-
-【議會否決組閣方案 羅馬尼亞新總理人選仍待定 】羅馬尼亞參眾兩院聯席會議22日晚投票，沒有透過總理阿德里安·韋什泰亞的組閣方案。這一結果意味著羅馬尼亞總統達恩需與各黨派協商，再次委任新的總理，同時臨時政府將繼續履職。據羅通社報道，韋什泰亞政府需獲得至少233張贊成票才能宣誓就職，而參眾兩院聯席會議當晚僅有189票贊成，另有23票反對。投票結束後，韋什泰亞在宣告中表達遺憾，稱羅馬尼亞人接下來“還將經歷一段不安和焦慮的時期”。
-
----
-
-### 2026-06-23 07:10:42  #國際
-
-【環球時報社評：孟加拉國總理訪華，少數印媒不必耿耿於懷】孟加拉人民共和國總理塔裡克·拉赫曼將於6月24日至26日對中國進行正式訪問。此訪是塔裡克就任後首次訪華，他還將出席在大連舉行的第十七屆夏季達沃斯論壇。緊湊而豐富的行程安排，折射出孟加拉國新一屆政府對發展對華關係的高度重視。據孟加拉國媒體透露，中孟雙方將簽署一系列合作檔案，充分體現兩國深厚的政治互信基礎和巨大的合作潛能。少數印度媒體對孟加拉國領導人首訪忽視印度而耿耿於懷。有印媒稱，塔裡克是“繞過印度”去了中國，對孟加拉國沒有表現出優先發展與印度的關係而感到很不是滋味。還有媒體警告中孟兩國開展水利合作“尤其觸動了新德里的敏感神經”。這些泛著酸味的論調背後，折射出一部分印方人士抱有“老大”心態，把鄰國首訪當作“宗主國受貢儀式”，把別國的外交自主選擇視為對自己的冒犯。 其實，中國重視發展與孟加拉國的關係，也樂意發展與印度的務實合作。中印應當做睦鄰友好的朋友、相互成就的夥伴，實現“龍象共舞”。（環球網）
-
----
-
-### 2026-06-23 07:07:49  #Trading Economics #Economy #Australia #Manufacturing PMI #Importance 2
-
-Australia Factory Growth Picks Up in June — The S&P Global Australia Manufacturing PMI increased to 51.2 in June 2026 from 50.7 in the previous month, preliminary estimates showed. It was the third consecutive month of expansion, supported by rises in employment. However, production continued to decline slightly, with the rate of decline little changed from the previous month. Looking ahead, business sentiment strengthened, supported by expansion plans and optimism about future new orders.
-
----
-
-### 2026-06-23 07:07:14  #公司 #國際
-
-【報道：韓國總統李在明將與三星討論區域投資計劃】據每日經濟援引政界及業界未具名訊息人士的話報道稱，韓國總統李在明將於6月25日會見三星電子執行會長李在鎔（Jay Y. Lee），討論區域投資計劃。李在明已於6月19日會見了SK集團會長崔泰源。外界猜測，三星和SK海力士可能會在韓國西南部的全羅道地區進行晶片相關的投資。三星、SK海力士及其他公司可能會在6月29日舉行的總統府會議上宣佈區域投資計劃。
-
----
-
-### 2026-06-23 07:07:08  #Trading Economics #Economy #Australia #Services PMI #Importance 1
-
-Australia Services Activity Nears Stabilisation in June — The S&P Global Flash Australia Services PMI Business Activity Index rose to 49.9 in June from 48.7 in the previous month. The flash data indicated that the services sector moved closer to stabilization but remained slightly in contraction territory. Nonetheless, the improvement helped lift the Composite Output Index to 49.8 from 48.7, signaling broadly stable private sector activity. However, new orders continued to decline for a fourth straight month amid market uncertainty, while export demand also weakened. Business confidence fell to its lowest level since the pandemic. Employment returned to growth, but firms reduced backlogs at the fastest pace in over two years. Meanwhile, input cost and selling price inflation eased further despite persistent fuel and transportation cost pressures.
 
 ---

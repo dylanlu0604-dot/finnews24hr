@@ -1,7 +1,49 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-06-29 00:07:59_
-_本檔包含 3860 則快訊，約 666551 字_
+_更新時間：2026-06-29 00:36:29_
+_本檔包含 3851 則快訊，約 666565 字_
+
+---
+
+### 2026-06-25 11:00:21  #市場 #國際
+
+泰國SET指數開盤上漲0.7%，至1558.53點。
+
+---
+
+### 2026-06-25 10:59:46  #公司
+
+【深圳天使母基金、昭衍新藥等成立種子創投合夥企業】企查查APP顯示，近日，深圳市倚鋒明遠種子創業投資合夥企業（有限合夥）成立，出資額約1.28億元，經營範圍包含：以自有資金從事投資活動；創業投資。企查查股權穿透顯示，該合夥企業由深圳市天使投資引導基金有限公司、昭衍新藥(603127)全資子公司北京昭衍管理科技有限公司等共同持股。
+
+---
+
+### 2026-06-25 10:57:58  #其他
+
+【郭蘭峰：“胖東來現象”反映居民對最佳化消費環境的訴求】6月25日，中國經濟體制改革研究會會長郭蘭峰在2026夏季達沃斯論壇上表示，擴大消費要最佳化消費環境。“為什麼會出現‘胖東來現象’？我想是因為他們商場的價格比較合理、產品質量有保障。”郭蘭峰表示，“胖東來現象”一定程度反映出居民對最佳化消費環境的訴求。
+
+---
+
+### 2026-06-25 10:57:54  #Trading Economics #Economy #China #Government Bond 10Y #Importance 1
+
+China 10Y Yield Nears 3-Week Low — China’s 10-year government bond yield fell to around 1.73% on Thursday, approaching its lowest level in three weeks, as plans by the People's Bank of China to introduce overnight reverse repo operations raised expectations of easier liquidity conditions. The PBOC said it will conduct overnight reverse repo operations on June 29–30, providing fixed-rate overnight liquidity to better meet short-term funding needs in the banking system. The new overnight rate will complement the existing 7-day rate of 1.4%, aligning the PBOC’s policy framework more closely with global peers. The move follows Governor Pan Gongsheng’s remarks at the Lujiazui Forum, where he signaled plans to expand overnight operations. Meanwhile, China launched marketing for up to €5 billion ($5.7 billion) of euro-denominated sovereign bonds, which could be its largest euro issuance on record, with initial price guidance set at 15, 22, and 33 basis points over mid-swaps for the 5-, 8-, and 12-year tranches, respectively.
+
+---
+
+### 2026-06-25 10:55:37  #其他
+
+【中國貿促會副會長李慶霜率團出席上合組織實業家委員會理事會會議等系列活動】6月23日至25日，中國貿促會副會長李慶霜率團赴吉爾吉斯斯坦出席上合組織實業家委員會理事會會議和上合組織投資與商務論壇併發言，與上合組織政商界代表就深化區域產供鏈協同合作、推動地方交流、拓展務實合作空間等進行交流。
+
+---
+
+### 2026-06-25 10:55:06  #MKT News
+
+The State Department’s deputy assistant secretary for foreign assistance said the US will deploy search-and-rescue teams and deliver medical and humanitarian supplies to Venezuela.
+
+---
+
+### 2026-06-25 10:54:37  #Trading Economics #Markets #China #Currency #Importance 1
+
+Offshore Yuan Holds Near 1-Month Low — The offshore yuan steadied around 6.81 per dollar on Thursday, hovering near a one-month low after the People’s Bank of China unveiled plans to introduce overnight reverse repo operations as part of its next phase of monetary policy reform. The central bank said it will conduct overnight reverse repurchase operations on June 29–30, providing fixed-rate overnight liquidity to better address short-term funding needs in the banking system. The new overnight reverse repo rate will complement the existing seven-day rate of 1.4%, bringing the PBOC’s policy toolkit closer in line with major global central banks such as the Federal Reserve. During the Lujiazui Forum, Governor Pan Gongsheng outlined the central bank’s plans to broaden overnight reverse repo operations. Externally, the yuan remained under pressure from a stronger US dollar amid growing market expectations of further Federal Reserve interest rate hikes later this year.
 
 ---
 
@@ -23174,101 +23216,5 @@ Bank Negara Malaysia says recent volatility in the Ringgit and other regional cu
 ### 2026-06-24 09:06:10  #市場
 
 現貨黃金日內跌1%，現報4068.71美元/盎司。
-
----
-
-### 2026-06-24 09:05:35  #其他
-
-【福州長樂國際機場成為福建省首座4F級機場 】6月23日上午，福州長樂國際機場二跑道投運，標誌著該機場由此邁入“雙跑道時代”。同日，該機場獲頒新版《運輸機場使用許可證》，飛行區等級由4E提升至4F，成為福建省首座4F級機場。當天上午，福州往返荷蘭阿姆斯特丹直飛航線也迎來首航。（新華社）
-
----
-
-### 2026-06-24 09:05:24  #MKT News #Important #Commodities #Precious Metals #XAUUSD #Impact bearish
-
-Spot gold fell nearly $30 intraday, slipping below $4,070/oz and down about 1% on the day.
-
----
-
-### 2026-06-24 09:05:05  #市場
-
-臺灣證交所加權股價指數下跌2%至46,144.58點。
-
----
-
-### 2026-06-24 09:04:53  #其他
-
-【加強資料期刊建設 中國科學院釋出新刊】6月23日，由中國科學院主管的英文資料期刊《資料快報（英文）》（Data Express）正式創刊。期刊旨在發表具有高質量、可重複、長效價值的科學資料，推動各領域科學資料的規範出版、廣泛共享與高效複用，促進全球科研資料的流通與協作。據介紹，除《資料快報（英文）》外，中國科學院2026年還將在數理、生態環境、海洋大氣等領域啟動建設系列領域資料期刊，組成“1種綜合旗艦刊+N種領域專業刊”的資料期刊叢集，構建立體化資料期刊體系，為廣大科研人員提供科學資料成果快速釋出渠道。（新華社）
-
----
-
-### 2026-06-24 09:04:52  #市場 #焦點
-
-現貨黃金失守4070美元/盎司，日內跌0.98%。
-
----
-
-### 2026-06-24 09:04:41  #Trading Economics #Markets #commodity #Importance 0
-
-Brent Hits 16-week Low — Brent decreased to 76.47 USD/Bbl, the lowest since February 2026. Over the past 4 weeks, Brent Crude Oil lost 20.82%, and in the last 12 months, it increased 15.23%.
-
----
-
-### 2026-06-24 09:04:00  #Trading Economics #Markets #Japan #Stock Market #Importance 2
-
-Japan’s Nikkei Declines for Second Day — The Nikkei 225 Index fell 0.6% to below 69,500 on Wednesday, extending the previous session’s losses as a technology-driven selloff on Wall Street weighed on sentiment amid growing concerns over heavy AI spending by hyperscalers. In Japan, the Summary of Opinions from the Bank of Japan’s June meeting showed that policymakers generally favored continuing interest rate hikes, citing underlying inflation moving closer to the central bank’s 2% target while financial conditions remain supportive. On the geopolitical front, progress in US-Iran peace negotiations helped increase traffic through the Strait of Hormuz, easing pressure on global energy supplies and reducing inflation concerns. Among notable decliners, Fujikura dropped 2.7%, Tokyo Electron lost 2.2%, Furukawa Electric fell 1.7%, Disco Corp slipped 2.2%, and Sumitomo Electric declined 1.6%.
-
----
-
-### 2026-06-24 09:03:56  #市場 #焦點
-
-紐約期金失守4090美元/盎司，日內跌1.44%。
-
----
-
-### 2026-06-24 09:03:43  #MKT News #Important #Commodities #Precious Metals
-
-Shanghai (SHFE) silver 2608 contract weakened sharply intraday, widening losses to 5.05% at 14,761 yuan/kg; turnover topped 83.0 bln yuan. Open interest rose by more than 5,000 lots, and intraday volatility increased.
-
----
-
-### 2026-06-24 09:03:41  #市場 #焦點
-
-現貨黃金失守4080美元/盎司，日內跌0.79%。
-
----
-
-### 2026-06-24 09:03:08  #市場
-
-日經225指數現跌0.4%，盤初一度上漲0.6%。
-
----
-
-### 2026-06-24 09:02:34  #公司
-
-【怡達股份：公司溼電子化學品正常銷售及推進客戶認證】怡達股份(300721)6月24日在互動平臺表示，公司溼電子化學品正常銷售及推進客戶認證，目前銷量及收入佔比影響較小。
-
----
-
-### 2026-06-24 09:02:11  #市場 #焦點
-
-白銀連續主力合約日內跌5%，現報14768.00元。
-
----
-
-### 2026-06-24 09:01:41  #宏觀
-
-【工業和資訊化部：穩定和擴大汽車消費】工業和資訊化部相關負責人昨天（23日）表示，將從發展規劃、技術創新等四方面提振汽車消費。工業和資訊化部裝備工業一司負責人 郭守剛：我們將穩定和擴大汽車消費。加快編制出臺智慧網聯新能源汽車產業發展“十五五”規劃，推動產業轉型升級。聚力技術創新，加快新一代動力電池、車用晶片、作業系統、自動駕駛等技術攻關及產業化，讓更多創新技術成果惠及廣大消費者。進一步挖掘市場潛力。規範競爭秩序。堅決維護健康有序、風清氣正的市場秩序。（央視）
-
----
-
-### 2026-06-24 09:01:30  #MKT News #Important #Market Themes #Chip Wars #TSM.O #Impact bullish
-
-【Report: TSMC to raise advanced-node foundry prices across the board】Taiwan media, citing technology analysts, report TSMC has begun notifying customers of wafer-foundry price increases covering not only the rumored 3nm node but all advanced nodes 7nm and below, with hikes of about 5–10% that would affect roughly 75% of wafer revenue.
-
----
-
-### 2026-06-24 09:01:26  #MKT News #Market Regions #Japan & APAC #Nikkei 225 #Impact bearish
-
-Japan's Nikkei 225 pared earlier gains, down 0.4% at 69,499.12.
 
 ---
