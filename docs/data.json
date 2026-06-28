@@ -1,7 +1,23 @@
 {
-  "updated": "2026-06-28 15:20:29",
-  "count": 18145,
+  "updated": "2026-06-28 15:24:31",
+  "count": 18146,
   "items": [
+    {
+      "id": "4958794",
+      "time": "2026-06-28 15:22:39",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國地質調查局（USGS）：萬那杜奧爾里港東北 45 公里處發生 5.2 級地震。"
+    },
+    {
+      "id": "4958793",
+      "time": "2026-06-28 15:21:00",
+      "tags": [
+        "公司"
+      ],
+      "text": "【半導體賽道又迎新股】A股打新投資者注意啦！根據目前的發行安排，下週有2只新股申購，創業板、北交所各有1只。兩隻新股均在週一（6月29日）申購，分別是創業板新股託倫斯、北交所新股康美特。"
+    },
     {
       "id": "4958792",
       "time": "2026-06-28 15:19:21",
@@ -166058,14 +166074,6 @@
         "其他"
       ],
       "text": "據半島電視臺：巴基斯坦內政部長表示，事情朝著正確的方向發展，我們希望瑞士會談能帶來積極和有益的結果。"
-    },
-    {
-      "id": "mkt:019ee90e-f560-7dd8-b0a4-1cff384f93f8",
-      "time": "2026-06-21 15:22:12",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Al Jazeera reported Pakistan's interior minister said matters are moving in the right direction and that he hopes the Swiss talks can produce positive and beneficial results."
     }
   ]
 }
