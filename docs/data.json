@@ -1,7 +1,15 @@
 {
-  "updated": "2026-06-29 06:47:06",
+  "updated": "2026-06-29 06:51:02",
   "count": 17973,
   "items": [
+    {
+      "id": "mkt:019f106d-6a93-7aab-8c03-84cf8193a3ca",
+      "time": "2026-06-29 06:50:33",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【U.S. media: Zhipu (02513.HK) GLM-5.2 rivals Mythos in vulnerability discovery】U.S. outlets The Verge and the Wall Street Journal report Zhipu (02513.HK) has released open-weight model GLM-5.2. The model still lags Anthropic and OpenAI on broad tasks, but some researchers say GLM-5.2 matches Anthropic’s Mythos in certain vulnerability-detection and cybersecurity scenarios. Cybersecurity firm Semgrep reports GLM-5.2 outperformed Anthropic’s Claude Opus 4.8 on some benchmarks; researchers add that with additional instruction both Opus 4.8 and GLM-5.2 can rival Mythos at bug finding. GLM’s open-weight distribution — downloadable and runnable on commodity hardware — boosts flexibility and deep access for advanced users but may elevate the risk of malicious misuse."
+    },
     {
       "id": "4959218",
       "time": "2026-06-29 06:43:41",
@@ -164468,14 +164476,6 @@
         "焦點"
       ],
       "text": "今天《人民日報》頭版的主要內容有：\n1、“必須把我們黨建設好、建設強”（總書記的人民情懷）\n2、各地區各部門各單位深入開展學習教育——把政績刻在群眾心坎上（樹立和踐行正確政績觀）\n3、重慶涪陵因地制宜做強做優特色產業\n4、陝西榆林全面改善生態環境質量 紅色基因永傳承 綠色發展繪新篇（老區新事）\n5、端午假期 全社會跨區域人員流動量預計超6.5億人次\n6、端午假期 全國消費市場執行平穩。"
-    },
-    {
-      "id": "4946738",
-      "time": "2026-06-22 06:49:48",
-      "tags": [
-        "國際"
-      ],
-      "text": "【經濟日報金觀平：攜手共促全球產業鏈供應鏈合作】6月22日，主題為“連結世界、共創未來”的第四屆中國國際供應鏈促進博覽會於北京開幕。來自85個國家、地區和國際組織的676家中外鏈主企業、專精特新企業和行業機構攜手產供鏈上下游合作伙伴參展。外資參展商比例達到36.5%，世界500強及行業龍頭企業參展佔比超過65%。參展熱情空前高漲，一方面凸顯全球產業鏈供應鏈合作的強大需求；另一方面也表明我國作為全球產業鏈供應鏈的重要環節，一直以實際行動為深化全球產業鏈供應鏈合作、構建開放型世界經濟貢獻力量。"
     }
   ]
 }
