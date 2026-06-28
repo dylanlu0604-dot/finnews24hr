@@ -1,7 +1,23 @@
 {
-  "updated": "2026-06-29 03:29:57",
+  "updated": "2026-06-29 03:33:58",
   "count": 17984,
   "items": [
+    {
+      "id": "mkt:019f0fb8-41da-7aab-8c02-8b5b5655b3a9",
+      "time": "2026-06-29 03:32:41",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Grenade attack on police checkpoint in Pakistan's Quetta injures six】Pakistani police said on the 29th a grenade attack on a police checkpoint in Quetta, Balochistan, on the night of the 28th wounded six people, including two policemen. Security forces were immediately dispatched to the scene."
+    },
+    {
+      "id": "4959123",
+      "time": "2026-06-29 03:32:28",
+      "tags": [
+        "其他"
+      ],
+      "text": "【巴基斯坦一警方檢查站發生手榴彈襲擊事件 6人受傷】巴基斯坦警方當地時間29日通報，巴基斯坦俾路支省奎達市一警方檢查站28日夜間發生一起手榴彈襲擊事件，造成包括2名警察在內的六人受傷。襲擊發生後，大批巴安全部隊隨即趕赴現場。（央視新聞）"
+    },
     {
       "id": "4959122",
       "time": "2026-06-29 03:28:41",
@@ -164526,22 +164542,6 @@
         "Important"
       ],
       "text": "Saudi outlet Asharq News reports Lebanese authorities have been informed that Israel plans to withdraw from several positions inside Lebanon ahead of Lebanon‑Israel talks this week."
-    },
-    {
-      "id": "4946631",
-      "time": "2026-06-22 03:30:56",
-      "tags": [
-        "國際"
-      ],
-      "text": "法國總統馬克龍宣佈將於6月22日（週一）成立一個全新的跨部門危機應對小組。"
-    },
-    {
-      "id": "4946630",
-      "time": "2026-06-22 03:30:04",
-      "tags": [
-        "市場"
-      ],
-      "text": "英鎊兌美元跌幅擴大至0.3%，有訊息稱英國首相斯塔默可能會辭職。"
     }
   ]
 }
