@@ -1,7 +1,49 @@
 {
-  "updated": "2026-06-28 19:39:33",
-  "count": 18091,
+  "updated": "2026-06-28 19:43:37",
+  "count": 18094,
   "items": [
+    {
+      "id": "4958970",
+      "time": "2026-06-28 19:42:09",
+      "tags": [
+        "公司"
+      ],
+      "text": "【達飛輪船稱其“加拉帕戈斯號”集裝箱船已駛離霍爾木茲海峽】法國航運巨頭達飛輪船（CMA CGM）表示，其旗下的“加拉帕戈斯號”（Galapagos）集裝箱船已於週日上午駛離霍爾木茲海峽。達飛輪船在一份宣告中表示：“此次穿越在依然複雜且需要保持持續警惕的地區局勢中，標誌著一個重要的里程碑。”該公司拒絕就這艘船隻駛離海峽的具體情況作進一步評論。達飛輪船表示，自戰爭爆發以來，目前仍有10艘船隻滯留在海灣地區。"
+    },
+    {
+      "id": "mkt:019f0e08-e313-7aab-8c00-c288e4e5401d",
+      "time": "2026-06-28 19:41:31",
+      "tags": [
+        "MKT News",
+        "Important",
+        "2222.SR"
+      ],
+      "text": "Saudi state news agency SPA reports an ARAMCO helicopter crashed at Ras Tanura, killing 14. Cause is unknown and an investigation is under way."
+    },
+    {
+      "id": "4958969",
+      "time": "2026-06-28 19:41:25",
+      "tags": [
+        "國際"
+      ],
+      "text": "據報道，一嘉賓稱“讓黎巴嫩再次偉大！”特朗普回應：“好的，我會的。”"
+    },
+    {
+      "id": "4958968",
+      "time": "2026-06-28 19:40:01",
+      "tags": [
+        "其他"
+      ],
+      "text": "沙烏地阿拉伯國家通訊社表示，沙特阿美直升機墜毀原因尚不明確，調查正在進行中。"
+    },
+    {
+      "id": "4958967",
+      "time": "2026-06-28 19:39:02",
+      "tags": [
+        "其他"
+      ],
+      "text": "沙特阿美一架直升機墜毀，機上 14 名乘客全部遇難。"
+    },
     {
       "id": "4958966",
       "time": "2026-06-28 19:36:29",
@@ -165556,28 +165598,6 @@
         "DXY"
       ],
       "text": "【Iran negotiators meet Pakistan, Qatar mediators】On the 21st in Switzerland, Iran’s chief negotiator and parliament speaker Ghalibaf met Pakistan PM Shehbaz Sharif and earlier held talks with Qatar’s prime minister and foreign minister Mohammed. Discussions reportedly focused on implementing clauses of the Iran‑U.S. memorandum of understanding — notably Articles 1 and 11 calling for a halt to fighting on all fronts including Lebanon and the release of $12 billion in frozen Iranian assets — and Article 6 arrangements for about $300 billion in reconstruction investment."
-    },
-    {
-      "id": "mkt:019ee9fd-e418-7dd8-b0a5-b64733f8e1f7",
-      "time": "2026-06-21 19:43:10",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "The Trump Trade",
-        "S&P500",
-        "Impact bullish",
-        "Nasdaq100",
-        "Dow"
-      ],
-      "text": "【Trump: US booming, 'winning on all fronts'】President Trump said the US is booming, citing record employment and stock-market gains and calling it the best economy in history; he added the US military remains far ahead of others and the country is 'winning on all fronts'."
-    },
-    {
-      "id": "4946418",
-      "time": "2026-06-21 19:39:46",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：巴基斯坦外長表示，與沙特、埃及和土耳其的外長達成一致，共同推動重啟加沙問題（的解決程序）。"
     }
   ]
 }
