@@ -1,7 +1,67 @@
 {
-  "updated": "2026-06-29 04:01:54",
-  "count": 17982,
+  "updated": "2026-06-29 04:05:55",
+  "count": 17985,
   "items": [
+    {
+      "id": "mkt:019f0fd5-decf-7aab-8c02-c2b0ef1dc41f",
+      "time": "2026-06-29 04:05:02",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Israeli prime minister's office said Israel notified the United States in advance that it would carry out strikes against Hezbollah."
+    },
+    {
+      "id": "mkt:019f0fd5-c9d3-7aab-8c02-b90e8a21c18b",
+      "time": "2026-06-29 04:04:56",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "【Iran official: Iran absent from US‑Iran technical talks on the 28th citing recent attacks and unmet conditions】An Iranian official said Tehran did not attend the technical talks scheduled on the 28th, citing recent attacks and failure to meet related conditions. US sources said renewed clashes between the US and Iran have stalled plans to resume US‑Iran technical talks in Switzerland this week."
+    },
+    {
+      "id": "4959139",
+      "time": "2026-06-29 04:04:53",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗官員：受遭襲事件影響 伊方缺席28日的美伊技術性談判】一位伊朗官員稱，伊朗未參加原定於當天舉行的技術性談判，原因是“近期發生的襲擊事件以及未能滿足相關條件”。另據美國方面當天訊息，有知情人士稱，由於美伊兩國再次發生衝突，原定於本週在瑞士恢復美伊技術性談判的計劃陷入停滯。（央視新聞）"
+    },
+    {
+      "id": "4959138",
+      "time": "2026-06-29 04:04:22",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列總理辦公室：以色列已在襲擊前告知美國。"
+    },
+    {
+      "id": "mkt:019f0fd4-2ed7-7aab-8c02-b4d204fda4bb",
+      "time": "2026-06-29 04:03:11",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "Brent"
+      ],
+      "text": "The Israeli prime minister's office said the Israeli military destroyed underground Hezbollah infrastructure in a village in southern Lebanon."
+    },
+    {
+      "id": "4959137",
+      "time": "2026-06-29 04:03:10",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列總理辦公室稱，以色列軍方摧毀了黎巴嫩南部一個村莊內真主黨的地下基礎設施。"
+    },
     {
       "id": "4959136",
       "time": "2026-06-29 03:58:44",
@@ -164510,37 +164570,6 @@
         "國際"
       ],
       "text": "一名參與瑞士談判的美國外交官透露，預計美方與伊朗、巴基斯坦及卡達斡旋方的磋商將持續至深夜。"
-    },
-    {
-      "id": "4946644",
-      "time": "2026-06-22 04:02:42",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "土耳其外交部長警告，以色列存在破壞美伊協議的風險。"
-    },
-    {
-      "id": "mkt:019eebc6-7f8e-7dd8-b0a9-2e4f7dec4804",
-      "time": "2026-06-22 04:01:54",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "A U.S. diplomat said the Iranian delegation remains in Switzerland and nuclear talks are continuing; intensive negotiations on all elements of a nuclear agreement are underway, with some sessions focused on clarifying confusion about the Strait of Hormuz to ensure it remains open."
-    },
-    {
-      "id": "mkt:019eebc6-7c29-7dd8-b0a9-25ceaadc7613",
-      "time": "2026-06-22 04:01:54",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Energy"
-      ],
-      "text": "Qatar's Ministry of Interior said the Ras Laffan plant explosion was caused by a \"technical accident\"."
     }
   ]
 }
