@@ -1,7 +1,111 @@
 {
-  "updated": "2026-06-29 07:48:09",
-  "count": 17965,
+  "updated": "2026-06-29 07:52:07",
+  "count": 17970,
   "items": [
+    {
+      "id": "mkt:019f10a5-34b5-7aab-8c04-15f2331cac77",
+      "time": "2026-06-29 07:51:30",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Japan May retail sales ¥13.447 tln vs ¥13.217 tln in the prior month."
+    },
+    {
+      "id": "mkt:019f10a5-12d6-7aab-8c04-0a346f514815",
+      "time": "2026-06-29 07:51:21",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Japan | Retail Sales (May) | actual 13447000000000T | previous 13217000000000T"
+    },
+    {
+      "id": "mkt:019f10a4-79e4-7aab-8c04-013964471e26",
+      "time": "2026-06-29 07:50:42",
+      "tags": [
+        "MKT News",
+        "USDJPY",
+        "Impact bearish",
+        "Nikkei 225",
+        "Impact bullish"
+      ],
+      "text": "Japan May seasonally adjusted retail sales MoM +1.9% vs -0.6% expected; April revised up to +2.1% from +1.3%."
+    },
+    {
+      "id": "mkt:019f10a4-5fba-7aab-8c03-f92ddd9988a2",
+      "time": "2026-06-29 07:50:35",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Japan | Retail Sales SA (MoM) (May) | actual 1.9% | consensus -0.60% | previous 1.30%"
+    },
+    {
+      "id": "4959286",
+      "time": "2026-06-29 07:50:34",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本5月份零售額環比增長1.9%，預估為-0.5%。日本5月份零售額同比增長5.3%，預估為3.0%."
+    },
+    {
+      "id": "mkt:019f10a4-29dd-7aab-8c03-f2f0369b556d",
+      "time": "2026-06-29 07:50:21",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bearish",
+        "Nikkei 225",
+        "Impact bullish"
+      ],
+      "text": "Japan May retail sales YoY 5.3% (est. 3.2%); April revised up to 2.8% from 2.1%."
+    },
+    {
+      "id": "mkt:019f10a4-27d8-7aab-8c03-ee05390f119f",
+      "time": "2026-06-29 07:50:21",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "【Iran, Lebanon agree to set up conflict-management working group】Iran and Lebanon have agreed to establish a conflict-management working group, with US participation to oversee implementation of Lebanon-related clauses in the recently signed US‑Iran peace memorandum, Iran’s parliament speaker said after a call with Lebanon’s parliament speaker Berri. The speaker said Iran’s negotiating team in Switzerland repeatedly flagged breaches by other parties during US‑Iran talks. Foreign ministry spokesman Baghaei urged a prompt timetable for an unconditional Israeli withdrawal from occupied Lebanese territory and said full implementation of the memorandum’s Article 1 is a necessary precondition for a final settlement and regional stability."
+    },
+    {
+      "id": "mkt:019f10a3-e767-7aab-8c03-e2c58d81d123",
+      "time": "2026-06-29 07:50:04",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Japan | Retail sales (YoY) (May) | actual 5.3% | consensus 3.2% | previous 2.10%"
+    },
+    {
+      "id": "4959284",
+      "time": "2026-06-29 07:49:36",
+      "tags": [
+        "公司"
+      ],
+      "text": "【多隻“老登”新基延長募集期 搶佔潛在風格切換先機卻響應冷淡】近日，多隻聚焦食品消費、金融等傳統“核心資產”（業內稱之“老登”）的新發基金頻頻延長募集期，部分產品甚至半個月內兩次延長募集期，最終僅勉強跨過2億元成立門檻。在AI科技行情高位震盪的背景下，基金公司逆勢佈局“老登”資產，背後折射出複雜的矛盾心態：一方面，全品類大型公募為搶佔潛在風格切換先機，不得不提前卡位；另一方面，市場低迷導致資金響應冷淡，新基金即便勉強成立，後續能否做大仍存懸念。有業內人士指出，與存量基金相比，新發基金更易“講故事”，但行情何時到來尚不確定，“老登”資產的復甦之路依然漫長。"
+    },
+    {
+      "id": "mkt:019f10a2-14c0-7aab-8c03-df2ebccee7ee",
+      "time": "2026-06-29 07:48:05",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "005930.KS",
+        "Impact bullish",
+        "000660.KS"
+      ],
+      "text": "【Samsung, SK Group expected to announce up to 2,000 trillion won investment plan】As part of South Korea's President Lee flagship industrial strategy, Samsung Group and SK Group are preparing to announce an investment programme of up to 2,000 trillion won (about $1.3tn) over the next decade. Reports say Samsung and SK Hynix would each build four to five semiconductor fabs in Gwangju. Samsung also plans a chip packaging plant in Chungcheongnam-do; SK Hynix is set to expand a NAND plant in Chungcheongbuk-do."
+    },
     {
       "id": "te:markets:562354",
       "time": "2026-06-29 07:47:11",
@@ -164397,58 +164501,6 @@
         "觀點"
       ],
       "text": "【中信建投：VC進入供需錯配期，看好漲價業績彈性】中信建投研報稱，VC在新產能投產不及預期下進入新一輪供需錯配期，本輪漲價週期啟動板塊具備業績彈性：VC屬於危險化學品，工藝及環保要求較高，伴隨著儲能需求高增及供給增量投放不及預期，26Q3供需趨緊。我們判斷旺季來臨下VC價格將進入上漲週期，本週VC價格已實現上漲5000元/噸，我們認為後續VC價格仍會繼續向上，有望上漲至18-20萬區間。看好VC漲價下板塊業績超預期的投資機會。"
-    },
-    {
-      "id": "mkt:019eec99-0876-7dd8-b0aa-50a1ef2621a6",
-      "time": "2026-06-22 07:51:52",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "Treasury Yields",
-        "DXY",
-        "Impact bullish",
-        "USDJPY",
-        "S&P500",
-        "Impact bearish"
-      ],
-      "text": "U.S. two-year Treasury yield rose to 4.2297%, its highest level since February 2025."
-    },
-    {
-      "id": "4946833",
-      "time": "2026-06-22 07:51:30",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "美國2年期國債收益率升至4.2297%，為2025年2月以來最高。"
-    },
-    {
-      "id": "4946832",
-      "time": "2026-06-22 07:51:23",
-      "tags": [
-        "其他"
-      ],
-      "text": "法拉第未來： FF EAI機器人6月機器人本體出貨預計將超過100臺，首個交付季將超額完成220臺目標，堅持正毛利導向和“先款後貨”銷售與交付紀律，為業務的快速推進提供現金流支撐。"
-    },
-    {
-      "id": "4946831",
-      "time": "2026-06-22 07:49:51",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【在中東不確定性之際日經指數可能下跌】隨著對中東衝突的不確定性持續，日本股市在近期大幅上漲後可能下跌。新加坡交易所的日經指數期貨下跌0.2%，至71,485點。在美國總統特朗普警告稱美國可能因伊朗支援真主黨而對其進行打擊後，投資者正關注原油價格和中東局勢的發展。日經指數週五上漲0.3%，達到創紀錄的71,250.06點。"
-    },
-    {
-      "id": "te:markets:560566",
-      "time": "2026-06-22 07:49:32",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 2"
-      ],
-      "text": "Gold Slides as Oil Advances — Gold fell below $4,150 an ounce on Monday, extending its recent decline as higher oil prices kept inflation concerns elevated following renewed tensions during the opening day of US-Iran talks. President Donald Trump threatened fresh military action if Hezbollah continues its attacks on Israel and warned Tehran against shutting the Strait of Hormuz again. At the same time, Iranian media reported that Tehran had suspended negotiations in response to Trump’s remarks, although sources familiar with the discussions said talks were still underway. Gold was also weighed down by expectations of tighter monetary policy after the Federal Reserve left interest rates unchanged last week while adopting a more hawkish tone. Nine of the Fed’s 19 policymakers now anticipate at least one rate increase this year, with investors pricing in a potential hike as soon as September."
     }
   ]
 }
