@@ -1,7 +1,103 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-06-29 06:05:24_
-_本檔包含 3524 則快訊，約 666104 字_
+_更新時間：2026-06-29 06:31:53_
+_本檔包含 3521 則快訊，約 665629 字_
+
+---
+
+### 2026-06-24 09:53:23  #市場
+
+房地產板塊震盪走低，深深房A跌停，合肥城建、天地源、北辰實業、京能置業、大龍地產跌幅居前。
+
+---
+
+### 2026-06-24 09:52:44  #MKT News #Important #01347.HK #Impact bullish
+
+Hong Kong-listed Huahong Hongli (01347.HK) continued to push higher, now up more than 10%.
+
+---
+
+### 2026-06-24 09:52:16  #其他
+
+【港股半導體、算力硬體股走高，華虹宏力漲近10%】港股半導體、算力硬體股走高，華虹宏力漲近10%，劍橋科技漲超8%，中芯國際、瀾起科技、建滔積層板跟漲。
+
+---
+
+### 2026-06-24 09:52:10  #國際
+
+白宮發言人萊維特：明天中午12點，在國會山，特朗普總統將簽署《21世紀住房之路法案》成為法律，這是美國歷史上最重要的住房可負擔性立法之一。這項兩黨法案包括總統長期倡導的政策。它削減不必要的繁文縟節，有助於增加住房供應，並限制大型機構投資者購買獨棟住宅的能力。 正如總統所說，房屋應該由美國家庭擁有，而不是大型企業。
+
+---
+
+### 2026-06-24 09:51:48  #公司 #國際
+
+【國家能源局負責人會見沙特國際電力和水務公司董事長】6月22日，中國國家能源局副局長萬勁松在京應約會見沙特國際電力和水務公司董事長穆罕默德·阿布納揚。雙方就中沙清潔能源領域合作深入交換意見。萬勁松表示，沙特國際電力和水務公司是全球知名的清潔能源開發企業，與中國能源企業在中東、中亞以及東南亞開展良好合作。中方歡迎沙特國際電力和水務公司按照市場原則參與中國的清潔能源專案，支援與中方能源企業合作拓展第三國能源市場。（國家能源局）
+
+---
+
+### 2026-06-24 09:51:41  #MKT News #Commodities #Energy
+
+【China energy official meets Saudi International Power and Water chairman on clean-energy cooperation】Beijing, June 22 — Wan Jinsong, deputy head of China’s National Energy Administration, met Mohammed Abunayyan, chairman of Saudi International Power and Water Company, to discuss deeper cooperation in clean energy. Wan said the company is a globally recognised clean-energy developer with established cooperation with Chinese energy firms in the Middle East, Central Asia and Southeast Asia, and welcomed its participation in Chinese clean-energy projects on market terms. He also expressed support for the firm partnering with Chinese energy companies to expand into third‑country energy markets.
+
+---
+
+### 2026-06-24 09:51:29  #MKT News #Commodities #Energy #CSI300 #Impact bearish #SSE Composite #SZSE Component
+
+A-share coal sector weakened in choppy trade; Dayou Energy fell more than 8%, with Yunmei Energy, Antai Group, Huadian Energy, Shaanxi Black Cat and Baotailong also sliding.
+
+---
+
+### 2026-06-24 09:51:04  #央行 #美聯儲
+
+【華爾街吵起來了？與美銀、高盛“唱反調” 瑞銀稱美聯儲加息風險被高估】近幾日，多家華爾街大行調整了對美聯儲利率路徑的預測。美國銀行6月22日表示，由於通脹變得“明顯惡化”，預計美聯儲今年將加息三次。這是目前全球各大主流投行中最為激進的加息預期。德意志銀行則在6月19日釋出的一份報告中預測，美聯儲今年將加息兩次。但瑞銀集團（UBS）分析師認為，市場可能高估了美聯儲加息的風險。
+
+---
+
+### 2026-06-24 09:50:48  #MKT News #DXY #Impact bearish #XAUUSD #Impact bullish #Copper
+
+【Australia May CPI slips but core inflation beats estimates; RBA hike risk remains】ABS data show Australia’s May CPI fell 0.7% MoM and slowed to 4.0% YoY from 4.2% (market had expected -0.4% MoM, 4.3% YoY). Declines in fuel costs and holiday travel demand pressured the headline print. Excluding volatile items, core inflation rose 0.4% MoM (vs 0.3% expected), lifting the annual core rate to 3.6%. The RBA has raised rates three times this year; with core inflation above the 2–3% target range, further tightening cannot be ruled out.
+
+---
+
+### 2026-06-24 09:50:46  #公司
+
+【煤炭板塊多數走低，大有能源跌超8%】煤炭板塊多數走低，大有能源跌超8%，雲煤能源、安泰集團、華電能源、陝西黑貓、寶泰隆跟跌。
+
+---
+
+### 2026-06-24 09:50:43  #國際
+
+【特朗普再稱伊朗同意IAEA核查】當地時間6月23日，美國總統特朗普再次表示，伊朗已經同意接受國際原子能機構（IAEA）的核查，美方“百分之百確認”伊朗已同意了相關安排，如果伊朗此前“沒有核查”的說法屬實，他會“立即取消相關會談”。 對於國際原子能機構核查人員何時進入伊朗，特朗普未給出具體時間表，僅表示將在“適當的時候”進行，並稱“沒必要著急”。 對此，伊朗媒體23日援引伊朗外交部發言人巴加埃的話報道，暫無國際原子能機構核查人員訪問伊朗受損核設施的計劃。 （CCTV國際時訊）
+
+---
+
+### 2026-06-24 09:50:01  #市場
+
+【港股醫藥外包概念股走強 凱萊英漲近9%】截至發稿，凱萊英(06821.HK)漲8.88%，金斯瑞生物科技(01548.HK)漲6.53%，泰格醫藥(03347.HK)漲5.04%，昭衍新藥(06127.HK)漲5.13%。
+
+---
+
+### 2026-06-24 09:49:48  #公司 #市場
+
+【先進封裝板塊區域性走強，三安光電漲停】先進封裝板塊區域性走強，太極實業、匯成股份、瑞華泰盤中創新高，三安光電漲停，英諾鐳射、長電科技、綠通科技跟漲。
+
+---
+
+### 2026-06-24 09:49:45  #MKT News #Market Regions #Greater China #SZSE Component #Impact bullish #CSI300
+
+Mainland A-share advanced-packaging sector showed selective strength; Taiji Industrial, Huicheng and Ruihuatai hit intraday highs, Sanan Optoelectronics reached the daily price limit, and Inno Laser, JCET and Lvtong Technology also gained.
+
+---
+
+### 2026-06-24 09:49:42  #國際
+
+韓國總統政策室長：住房問題是最具挑戰性的。
+
+---
+
+### 2026-06-24 09:49:04  #其他
+
+【中國移動副總經理李慧鏑：自智網路的未來，加速到來】當地時間6月23日，由電信管理論壇（TM Forum）主辦的2026年全球數字轉型大會（DTW2026）在丹麥哥本哈根開幕。中國移動副總經理李慧鏑出席大會時指出，隨著生成式人工智慧廣泛應用，Token流量呈現爆發式增長，網路正從傳統“位元傳輸”向“位元+Token傳遞”演進。中國移動積極順應這一趨勢，持續推進網路升級，為人工智慧時代提供堅實的數字基礎設施支撐。他強調，從人工運維到自動化運維，到自智運營，最終到AI Native，通訊產業正迎來新的歷史性跨越。未來的網路不僅連線人與人、人與物，更將連線意圖與結果；不僅傳遞資訊，更將理解需求、創造價值。（國是直通車）
 
 ---
 
@@ -21147,119 +21243,5 @@ Japanese Shares Retreat on Profit Taking — The Nikkei 225 Index fell 0.6% to b
 ### 2026-06-23 08:39:54  #Trading Economics #Economy #Japan #Services PMI #Importance 1
 
 Japan Services Sector Returns to Growth in June — Japan’s S&P Global Flash Services PMI Business Activity Index rose to 51.8 in June 2026 from 50.0 in the previous month, flash estimates showed. The reading signaled a renewed expansion in the services sector after activity stagnated in the previous month, supported by stronger demand conditions, with service providers reporting a firmer increase in new business. Despite the improvement in domestic demand, foreign sales remained under pressure, as service firms continued to report a marked decline in export business. Rising workloads led to a further accumulation of outstanding business, encouraging companies to increase staffing levels. Looking ahead, optimism softened, with firms citing concerns over inflation, labor shortages, and supply-chain disruptions linked to the Middle East conflict. Meanwhile, elevated cost pressures persisted, prompting businesses to pass higher expenses on to clients through further price increases.
-
----
-
-### 2026-06-23 08:38:59  #國際
-
-伊朗議會議長卡利巴夫表示，霍爾木茲海峽將由伊朗管轄。（IRNA）
-
----
-
-### 2026-06-23 08:38:39  #MKT News #Market Regions #Japan & APAC #USDJPY #Impact bearish
-
-【US-Japan talks on FX raise odds of yen intervention】FX desks are on alert for possible Japanese intervention after reports that Japan's finance minister Katayama and US treasury secretary Bessent held an online discussion that may have touched on exchange rates. USD/JPY traded around 161.57 early Tuesday, near a 40-year low. NHK and Kyodo reported the officials may have discussed the currency. Traders say the yen remains under pressure after the Bank of Japan’s recent rate hike failed to raise borrowing costs quickly enough to curb inflation, and higher oil prices linked to the US‑Iran war add further strain. A Sumitomo Mitsui Trust Bank New York trader, Takeru Yamamoto, said Japanese authorities may seek to signal coordination with the US and that the intervention threshold is not high; he added USD/JPY could test the 162 area this week despite the underlying fundamentals.
-
----
-
-### 2026-06-23 08:37:10  #其他
-
-深交所港股通標的證券名單調整， 6月23日起調入星源材質。
-
----
-
-### 2026-06-23 08:37:08  #MKT News #Market Regions #Greater China
-
-Shenzhen Stock Exchange adjusts Hong Kong Stock Connect eligible securities list; effective June 23 adds Xingyuan Materials.
-
----
-
-### 2026-06-23 08:36:48  #其他
-
-【阿波羅旗下私募信貸基金ABS設定5%的贖回比例上限】阿波羅全球管理旗下規模達260億美元的私募信貸基金Apollo Debt Solutions (ADS)週一表示，已將贖回額度限制在基金份額的5%；此前投資者尋求贖回約16.8%的基金份額。該基金在提交的檔案中表示，根據初步資料，向這些投資者支付贖回款項將導致基金總流出額達到7億美元，高於3億美元的流入額。這意味著今年迄今為止，基金淨流出額約佔其資產價值的3%。該基金贖回申請比例高於上一季度的約11.2%。該基金主要面向富裕人群，通常允許投資者每三個月贖回一次部分資金。
-
----
-
-### 2026-06-23 08:36:25  #Trading Economics #Economy #Japan #Manufacturing PMI #Importance 2
-
-Japan Manufacturing Expansion Strengthens in June — The S&P Global Japan Manufacturing PMI increased to 54.9 in June 2026, above both the previous month and market expectations of 54.5, preliminary estimates showed. It was the sixth consecutive month of expansion in factory activity, supported by faster output growth. Output growth was the second-quickest since January 2022.
-
----
-
-### 2026-06-23 08:34:28  #其他
-
-【普洛藥業：海外CDMO專案透過官方審計並投入商業化生產】據普洛藥業訊息，近日，普洛藥業與海外某長期戰略合作伙伴共同推進的創新藥CDMO DS專案，順利透過海外官方審計認證，並全面進入商業化生產供應階段。
-
----
-
-### 2026-06-23 08:34:19  #市場
-
-【圖表顯示西得州中質油價格可能出現“修正性“反彈】FOREX.com的Fawad Razaqzada在一封電子郵件中表示，根據日線圖，西得州中質油價格顯示出“修正性“反彈的可能性。“西得州中質油幾周來一直呈下跌趨勢，導致動能指標越來越向下極度延伸，“該市場分析師指出。“這增加了出現修正性反彈的可能性，”Razaqzada說。最初的主要阻力位在每桶76.10美元左右。“該區域在今年早些時候曾作為支撐位，隨後最終失守，而最新的價格走勢表明，它現在正發揮阻力位的作用，“該分析師補充道。近月西得州中質油期貨上漲0.5%，報每桶74.21美元。
-
----
-
-### 2026-06-23 08:33:36  #公司 #觀點
-
-【中信證券：PCIe協議將成為AI時代的慢通脹環節】中信證券研報稱，PCIe是CPU與外設互聯的核心協議，其需求通脹被市場相對忽視；AI時代，由於CPU原生PCIe通道不足且GPU通道需求高，需要PCIe Switch實現通道拓展等需求。研報測算，PCIe Switch 2028年全球市場或達300億元，其中國產算力晶片配套空間約70億元，為2026年2倍以上。用量上，伺服器中XPU:PCIe Switch一般在4:1到2:1，PCIe Switch用量隨算力晶片不斷增長；其中，八卡AI伺服器為基本盤，方案相對確定；超節點伺服器有私有生態瓜分市場風險，海外趨勢較為明顯；整體用量呈現慢通脹特點，為空間主要驅動因素。價格上，主流104通道產品在3000—5000元。國產替代尚在早期，建議關注相對領先的公司，以及有望切入PCIe Switch市場的標的。
-
----
-
-### 2026-06-23 08:32:42  #Trading Economics #Economy #Japan #Composite PMI #Importance 1
-
-Japan Composite PMI Hits 3-Month High — Japan’s S&P Global Composite PMI rose to 52.5 in June 2026 from a final 51.1 in the previous month, flash data showed. It was the highest reading since March and marking the 15th straight month of expansion in private sector activity.
-
----
-
-### 2026-06-23 08:30:46  #經濟數據 #日本
-
-日本6月製造業PMI初值54.9，前值54.5。
-
----
-
-### 2026-06-23 08:30:30  #觀點
-
-【中信證券：關注景氣度蔓延擴散至的新方向】中信證券研報稱，2026年陸家嘴論壇在上海開幕，透過完善制度化的規則建設，加快金融強國建設，正逢科創板“1+6”改革一週年，會議強調金融資源向硬科技、新質生產力傾斜。上週A股呈現區間震盪、先揚後抑格局，各大指數走勢顯著分化，滬指承壓回撥、成長賽道相對抗跌；短線題材輪動節奏進一步加快，增量資金逐步向籌碼結構健康、業績兌現確定性強的科技成長板塊集中，結構性資金遷移趨勢進一步強化。從催化因素和時序上看，AI上游通脹、液冷、儲存、具身智慧的主題熱情有望爆發。結合市場環境、催化因素以及綜合量化指標研判，建議關注上述四大主題方向。
-
----
-
-### 2026-06-23 08:30:27  #資料 #國際
-
-日本6月份標普全球製造業PMI報54.9，標普全球服務業PMI報51.8。日本6月份標普全球綜合PMI報52.5。
-
----
-
-### 2026-06-23 08:30:08  #MKT News
-
-Japan June composite PMI (flash) 52.5, up from prior 51.1.
-
----
-
-### 2026-06-23 08:30:07  #MKT News
-
-Japan June preliminary services PMI 51.8, prior 50.0.
-
----
-
-### 2026-06-23 08:30:06  #MKT News
-
-Japan preliminary June manufacturing PMI 54.9, prior 54.5.
-
----
-
-### 2026-06-23 08:30:00  #MKT News #Economic Calendar #Important
-
-Japan | Manufacturing PMI Flash (Jun) | actual 54.9 | previous 54.5
-
----
-
-### 2026-06-23 08:29:24  #市場
-
-【全球最大的黃金ETF SPDR Gold Trust持倉較前日增加1.71噸】截至2026年06月22日，全球最大的黃金ETF SPDR Gold Trust持倉量為1022.20噸，較前一個交易日增加1.71噸。
-
----
-
-### 2026-06-23 08:28:58  #公司
-
-【北京市委書記尹力會見瑞士諾華集團董事會主席】據北京日報，6月22日下午，北京市委書記尹力會見瑞士諾華集團董事會主席喬恩禮。尹力說，希望諾華集團加快推動昌平工廠擴建升級，不斷提升先進製造能力，加強本地化產能佈局，引入更多創新藥品、高階製劑在京生產。做強在京研發功能，與醫療機構、科研院所、醫藥企業等深化創新合作，加快創新成果率先在京落地。與北京科技企業共同拓展人工智慧在製藥、精準診療、慢病數字化管理等方面的應用，不斷塑造競爭新優勢。發揮公共衛生、慢病管理方面經驗和資料豐富優勢，為北京完善疾病預防體系和醫療服務體系貢獻更大力量。
 
 ---

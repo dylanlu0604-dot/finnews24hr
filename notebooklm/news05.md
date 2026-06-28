@@ -1,7 +1,121 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-06-29 06:05:24_
-_本檔包含 3435 則快訊，約 665725 字_
+_更新時間：2026-06-29 06:31:53_
+_本檔包含 3440 則快訊，約 665275 字_
+
+---
+
+### 2026-06-23 08:38:59  #國際
+
+伊朗議會議長卡利巴夫表示，霍爾木茲海峽將由伊朗管轄。（IRNA）
+
+---
+
+### 2026-06-23 08:38:39  #MKT News #Market Regions #Japan & APAC #USDJPY #Impact bearish
+
+【US-Japan talks on FX raise odds of yen intervention】FX desks are on alert for possible Japanese intervention after reports that Japan's finance minister Katayama and US treasury secretary Bessent held an online discussion that may have touched on exchange rates. USD/JPY traded around 161.57 early Tuesday, near a 40-year low. NHK and Kyodo reported the officials may have discussed the currency. Traders say the yen remains under pressure after the Bank of Japan’s recent rate hike failed to raise borrowing costs quickly enough to curb inflation, and higher oil prices linked to the US‑Iran war add further strain. A Sumitomo Mitsui Trust Bank New York trader, Takeru Yamamoto, said Japanese authorities may seek to signal coordination with the US and that the intervention threshold is not high; he added USD/JPY could test the 162 area this week despite the underlying fundamentals.
+
+---
+
+### 2026-06-23 08:37:10  #其他
+
+深交所港股通標的證券名單調整， 6月23日起調入星源材質。
+
+---
+
+### 2026-06-23 08:37:08  #MKT News #Market Regions #Greater China
+
+Shenzhen Stock Exchange adjusts Hong Kong Stock Connect eligible securities list; effective June 23 adds Xingyuan Materials.
+
+---
+
+### 2026-06-23 08:36:48  #其他
+
+【阿波羅旗下私募信貸基金ABS設定5%的贖回比例上限】阿波羅全球管理旗下規模達260億美元的私募信貸基金Apollo Debt Solutions (ADS)週一表示，已將贖回額度限制在基金份額的5%；此前投資者尋求贖回約16.8%的基金份額。該基金在提交的檔案中表示，根據初步資料，向這些投資者支付贖回款項將導致基金總流出額達到7億美元，高於3億美元的流入額。這意味著今年迄今為止，基金淨流出額約佔其資產價值的3%。該基金贖回申請比例高於上一季度的約11.2%。該基金主要面向富裕人群，通常允許投資者每三個月贖回一次部分資金。
+
+---
+
+### 2026-06-23 08:36:25  #Trading Economics #Economy #Japan #Manufacturing PMI #Importance 2
+
+Japan Manufacturing Expansion Strengthens in June — The S&P Global Japan Manufacturing PMI increased to 54.9 in June 2026, above both the previous month and market expectations of 54.5, preliminary estimates showed. It was the sixth consecutive month of expansion in factory activity, supported by faster output growth. Output growth was the second-quickest since January 2022.
+
+---
+
+### 2026-06-23 08:34:28  #其他
+
+【普洛藥業：海外CDMO專案透過官方審計並投入商業化生產】據普洛藥業訊息，近日，普洛藥業與海外某長期戰略合作伙伴共同推進的創新藥CDMO DS專案，順利透過海外官方審計認證，並全面進入商業化生產供應階段。
+
+---
+
+### 2026-06-23 08:34:19  #市場
+
+【圖表顯示西得州中質油價格可能出現“修正性“反彈】FOREX.com的Fawad Razaqzada在一封電子郵件中表示，根據日線圖，西得州中質油價格顯示出“修正性“反彈的可能性。“西得州中質油幾周來一直呈下跌趨勢，導致動能指標越來越向下極度延伸，“該市場分析師指出。“這增加了出現修正性反彈的可能性，”Razaqzada說。最初的主要阻力位在每桶76.10美元左右。“該區域在今年早些時候曾作為支撐位，隨後最終失守，而最新的價格走勢表明，它現在正發揮阻力位的作用，“該分析師補充道。近月西得州中質油期貨上漲0.5%，報每桶74.21美元。
+
+---
+
+### 2026-06-23 08:33:36  #公司 #觀點
+
+【中信證券：PCIe協議將成為AI時代的慢通脹環節】中信證券研報稱，PCIe是CPU與外設互聯的核心協議，其需求通脹被市場相對忽視；AI時代，由於CPU原生PCIe通道不足且GPU通道需求高，需要PCIe Switch實現通道拓展等需求。研報測算，PCIe Switch 2028年全球市場或達300億元，其中國產算力晶片配套空間約70億元，為2026年2倍以上。用量上，伺服器中XPU:PCIe Switch一般在4:1到2:1，PCIe Switch用量隨算力晶片不斷增長；其中，八卡AI伺服器為基本盤，方案相對確定；超節點伺服器有私有生態瓜分市場風險，海外趨勢較為明顯；整體用量呈現慢通脹特點，為空間主要驅動因素。價格上，主流104通道產品在3000—5000元。國產替代尚在早期，建議關注相對領先的公司，以及有望切入PCIe Switch市場的標的。
+
+---
+
+### 2026-06-23 08:32:42  #Trading Economics #Economy #Japan #Composite PMI #Importance 1
+
+Japan Composite PMI Hits 3-Month High — Japan’s S&P Global Composite PMI rose to 52.5 in June 2026 from a final 51.1 in the previous month, flash data showed. It was the highest reading since March and marking the 15th straight month of expansion in private sector activity.
+
+---
+
+### 2026-06-23 08:30:46  #經濟數據 #日本
+
+日本6月製造業PMI初值54.9，前值54.5。
+
+---
+
+### 2026-06-23 08:30:30  #觀點
+
+【中信證券：關注景氣度蔓延擴散至的新方向】中信證券研報稱，2026年陸家嘴論壇在上海開幕，透過完善制度化的規則建設，加快金融強國建設，正逢科創板“1+6”改革一週年，會議強調金融資源向硬科技、新質生產力傾斜。上週A股呈現區間震盪、先揚後抑格局，各大指數走勢顯著分化，滬指承壓回撥、成長賽道相對抗跌；短線題材輪動節奏進一步加快，增量資金逐步向籌碼結構健康、業績兌現確定性強的科技成長板塊集中，結構性資金遷移趨勢進一步強化。從催化因素和時序上看，AI上游通脹、液冷、儲存、具身智慧的主題熱情有望爆發。結合市場環境、催化因素以及綜合量化指標研判，建議關注上述四大主題方向。
+
+---
+
+### 2026-06-23 08:30:27  #資料 #國際
+
+日本6月份標普全球製造業PMI報54.9，標普全球服務業PMI報51.8。日本6月份標普全球綜合PMI報52.5。
+
+---
+
+### 2026-06-23 08:30:08  #MKT News
+
+Japan June composite PMI (flash) 52.5, up from prior 51.1.
+
+---
+
+### 2026-06-23 08:30:07  #MKT News
+
+Japan June preliminary services PMI 51.8, prior 50.0.
+
+---
+
+### 2026-06-23 08:30:06  #MKT News
+
+Japan preliminary June manufacturing PMI 54.9, prior 54.5.
+
+---
+
+### 2026-06-23 08:30:00  #MKT News #Economic Calendar #Important
+
+Japan | Manufacturing PMI Flash (Jun) | actual 54.9 | previous 54.5
+
+---
+
+### 2026-06-23 08:29:24  #市場
+
+【全球最大的黃金ETF SPDR Gold Trust持倉較前日增加1.71噸】截至2026年06月22日，全球最大的黃金ETF SPDR Gold Trust持倉量為1022.20噸，較前一個交易日增加1.71噸。
+
+---
+
+### 2026-06-23 08:28:58  #公司
+
+【北京市委書記尹力會見瑞士諾華集團董事會主席】據北京日報，6月22日下午，北京市委書記尹力會見瑞士諾華集團董事會主席喬恩禮。尹力說，希望諾華集團加快推動昌平工廠擴建升級，不斷提升先進製造能力，加強本地化產能佈局，引入更多創新藥品、高階製劑在京生產。做強在京研發功能，與醫療機構、科研院所、醫藥企業等深化創新合作，加快創新成果率先在京落地。與北京科技企業共同拓展人工智慧在製藥、精準診療、慢病數字化管理等方面的應用，不斷塑造競爭新優勢。發揮公共衛生、慢病管理方面經驗和資料豐富優勢，為北京完善疾病預防體系和醫療服務體系貢獻更大力量。
 
 ---
 
@@ -20683,89 +20797,5 @@ NZX 50 Extends Gains on Consumer Staples Boost — The NZX 50 climbed 54 points,
 ③ 17:00 歐洲央行管委科赫爾發表講話；
 ④ 20:30 加拿大5月CPI，歐洲央行行長拉加德發表講話；
 ⑤ 22:00 歐元區6月消費者信心指數初值。
-
----
-
-### 2026-06-22 06:30:56  #MKT News
-
-【Trump again lashes New York Times: False reporting on Iran 'treasonous'】US President Trump said the "corrupt, failing New York Times" has published false and fabricated "facts" about an embattled Iran, calling that conduct "treasonous." He said he will add all their "false and ridiculous" reports to his multibillion-dollar lawsuit against the paper and labeled them "criminals."
-
----
-
-### 2026-06-22 06:29:57  #MKT News #00697.HK
-
-Shoucheng Holdings (00697.HK) said a fund managed by a Shoucheng Capital subsidiary has recently invested in AI services firm Zhizi Xinyuan.
-
----
-
-### 2026-06-22 06:19:58  #Trading Economics #Markets #Commodity #Importance 0
-
-Brent Inches Higher for 4th Session — Brent oil prices opened the week more than 1.5% higher, rising to almost $82 per barrel as the US and Iran began talks in Switzerland, the first to take place under last week's memorandum of understanding. The agreement called for reopening the strait of Hormuz, and ending hostilities, including in Lebanon, where Israel and the Iran-backed Hezbollah have continued exchanging attacks. However, Iran said the US had failed to secure a ceasefire in Lebanon and announced it had again halted traffic through the strait. Tehran also said Sunday's talks would exclude substantive issues such as its nuclear programme.
-
----
-
-### 2026-06-22 06:19:31  #MKT News #Market Themes #The Trump Trade #Commodities #Energy #WTI #Impact bullish
-
-【Trump threat clouds US-Iran talks; oil opens higher, WTI up 1.7%】International oil prices opened higher on Monday after Trump warned he would strike Iran if Hezbollah continues to attack Israel, a move that raised doubts over progress in talks between Washington and Tehran. WTI crude rose as much as 1.7%. The warning came days after Trump signed a memorandum last week launching a 60‑day negotiation window; high‑level talks began at the Bürgenstock resort in Switzerland. Iran said it had again closed the Strait of Hormuz, but millions of barrels continued to transit the waterway over the weekend.
-
----
-
-### 2026-06-22 06:18:39  #國際
-
-美國外交官：美伊會談包含落實黎巴嫩南部停火相關內容，還就核協議展開深入磋商。
-
----
-
-### 2026-06-22 06:17:57  #Trading Economics #Markets #Commodity #Importance 2
-
-Oil Starts the Week Higher — Crude oil prices opened the week more than 1.5% higher, rising above $78 per barrel as the US and Iran began talks in Switzerland, the first to take place under last week's memorandum of understanding. The agreement called for reopening the strait of Hormuz, and ending hostilities, including in Lebanon, where Israel and the Iran-backed Hezbollah have continued exchanging attacks. However, Iran said the US had failed to secure a ceasefire in Lebanon and announced it had again halted traffic through the strait. Tehran also said Sunday's talks would exclude substantive issues such as its nuclear programme.
-
----
-
-### 2026-06-22 06:17:55  #國際
-
-【韓媒：李在明調整幕僚團隊釋放訊號，施政核心將集中在社會民生等方面】據韓國多家媒體21日報道，韓國總統李在明進入執政第二年，對青瓦臺幕僚團隊和國家安保高層進行調整，涉及宣傳溝通、民政事務、社會政策、國防和經濟安保等領域。韓國總統秘書室室長姜勳植表示，此次人事調整旨在提速國政運營，聚焦推進外交安保佈局、制度秩序和改革任務。（環球網）
-
----
-
-### 2026-06-22 06:13:13  #MKT News
-
-【De la Espriella wins Colombian presidential runoff】Preliminary counts show independent candidate Abelardo de la Espriella, backed by far-right group Defenders of the Homeland, won Colombia's presidential runoff held on the 21st.
-
----
-
-### 2026-06-22 06:13:06  #其他
-
-【德拉埃斯普列亞贏得哥倫比亞總統選舉】初步計票結果顯示，極右翼政治團體“祖國捍衛者”的獨立候選人阿韋拉多·德拉埃斯普列亞在21日舉行的哥倫比亞總統選舉第二輪投票中獲勝。（新華社）
-
----
-
-### 2026-06-22 06:12:09  #MKT News
-
-【Sources: U.S.-Iran talks remain paused】Iranian sources said on the 22nd that negotiations between Iran and the United States in Switzerland began on the 21st at about 15:00 local time and ran roughly 1.5 hours before being recessed for 30 minutes for internal consultations. Iran's delegation refused to resume after Trump made threatening remarks. Qatar and Pakistan continue mediating and intermediaries are still relaying messages; mediation is ongoing but no final agreement has been reached. Iran lodged a formal protest over U.S. breaches of commitments, citing a specific violation of Article 1 of the memorandum of understanding (MoU).
-
----
-
-### 2026-06-22 06:10:37  #焦點 #國際
-
-【訊息人士稱美伊談判仍處於暫停狀態】據伊朗方面22日訊息，一位訊息人士稱，伊朗與美國在瑞士進行的談判於當地時間21日15時左右開始，在持續約一個半小時後，因各代表團需要內部磋商而暫停休會30分鐘。但由於特朗普發表了威脅性言論，伊朗代表團拒絕返回繼續談判。儘管如此，卡達方和巴基斯坦方仍在持續進行斡旋，伊朗美國透過中間方傳遞資訊。目前調解努力仍在繼續，但尚未取得最終結果。在談判過程中，伊朗代表團對美方違反承諾的行為、特別是違反諒解備忘錄第一條的內容，提出了明確抗議。伊朗代表團還要求美國加快履行承諾，包括解凍伊朗被凍結資產以及簽發伊朗石油出口的制裁豁免。在核問題方面，伊朗代表團強調，開啟核議題談判的前提是美國必須按照備忘錄第1、4、10和11條履行其承諾。（央視新聞）
-
----
-
-### 2026-06-22 06:07:13  #市場 #國際
-
-【美伊開啟和平談判 特朗普揚言將打擊伊朗 美股股指期貨下跌】美伊開啟和平談判之際，特朗普威脅，若真主黨持續襲擊以色列，美方將發動軍事打擊，美國各大股指期貨走低。標普500股指期貨下跌0.3%，納斯達克100股指期貨跌0.4%。
-
----
-
-### 2026-06-22 06:06:05  #市場 #焦點
-
-紐約期銀突破65美元/盎司，日內跌2.28%。
-
----
-
-### 2026-06-22 06:05:57  #市場
-
-【霍爾木茲海峽緊張局勢持續，油價飆升、標普500股指期貨下挫】週一早盤布倫特原油期貨走強，美股股指期貨走低，美伊於瑞士開啟和平協議談判，美債期貨同步走弱。英鎊兌美元匯率走低，有訊息稱斯塔默將在未來數日公佈辭去英國首相。
 
 ---

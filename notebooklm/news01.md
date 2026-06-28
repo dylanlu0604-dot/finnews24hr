@@ -1,7 +1,115 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-06-29 06:05:24_
-_本檔包含 3541 則快訊，約 666037 字_
+_更新時間：2026-06-29 06:31:53_
+_本檔包含 3553 則快訊，約 665989 字_
+
+---
+
+### 2026-06-29 06:30:00  #國際
+
+普京表示，烏克蘭無人機襲擊煉油廠致使俄羅斯面臨燃料短缺問題。
+
+---
+
+### 2026-06-29 06:29:01  #焦點 #國際
+
+【美伊衝突再起令談判又生變數 伊方稱 “未參加” 美官員稱改期】美伊原計劃本月末舉行技術性談判，但在談判前夕兩國再起衝突。28日晚間，有伊朗官員稱，由於此次襲擊及伊方相關條件未獲滿足，伊朗未參加原定於28日舉行的技術磋商。與此同時，美國方面也傳出訊息稱，美伊將於30日在卡達首都多哈舉行會談。有分析指出，本次美伊之間爆發的衝突暴露出雙方在霍爾木茲海峽主導權上的深層矛盾。而這無疑也給雙方未來的談判，增添了不確定性。
+
+---
+
+### 2026-06-29 06:25:28  #其他
+
+黎巴嫩議會議長（真主黨盟友）表示，黎以之間的這份協議 “不會獲得透過”。
+
+---
+
+### 2026-06-29 06:24:53  #MKT News #Market Regions #Greater China #CSI300 #Impact bullish
+
+【Trade thesis 'buy brokers = buy a basket of discounted tech stocks' gains traction; broker stocks re-rate】A-share broker sector has exited a prior lull, with rising activity and inflows. Market participants say the key shift is a breakdown of the old seesaw—broker rallies paired with tech pullbacks—after securities firms and hard-tech began rallying together. Investors are treating brokers as cheap proxies for hard‑tech exposure because many firms now hold stakes in hard‑tech via underwriting follow‑ons and direct equity investments, and the broker sector is trading at historically low valuations. That dynamic is driving a fresh value re‑rating in broker stocks.
+
+---
+
+### 2026-06-29 06:22:40  #國際
+
+俄羅斯總統普京表示，一旦華盛頓方面與伊朗就中東衝突達成協議，美方談判代表預計將前往莫斯科。他同時補充，俄羅斯已準備好就全部相關細節持續開展磋商。
+
+---
+
+### 2026-06-29 06:22:24  #公司
+
+市場資訊：三星與SK集團十年內投資總額或達2萬億韓元。
+
+---
+
+### 2026-06-29 06:19:02  #MKT News #Commodities #Precious Metals #XAUUSD #Impact bearish
+
+Spot gold slid intraday, extending losses to 0.6% at $4,055/oz; spot silver fell 0.5%.
+
+---
+
+### 2026-06-29 06:18:35  #市場 #焦點
+
+現貨黃金失守4060美元/盎司，日內跌0.55%。
+
+---
+
+### 2026-06-29 06:18:34  #市場 #焦點
+
+紐約期金失守4070美元/盎司，日內跌0.67%。
+
+---
+
+### 2026-06-29 06:18:34  #市場
+
+鈀金期貨日內跌1%，現報1208.18美元/盎司。
+
+---
+
+### 2026-06-29 06:17:46  #市場
+
+紐約期銀日內跌1%，現報59.06美元/盎司。
+
+---
+
+### 2026-06-29 06:16:25  #MKT News #Market Regions #Greater China
+
+Yikong Zhijia to list in Hong Kong, offering 26.13 mln H shares, subject to exercise of the overallotment option, at HK$81.16-87.92 per share; trading expected to begin July 8.
+
+---
+
+### 2026-06-29 06:15:52  #市場 #焦點
+
+紐約期金失守4080美元/盎司，日內跌0.42%。
+
+---
+
+### 2026-06-29 06:14:53  #公司
+
+Momenta每股發售股份發售價為295.60港元。
+
+---
+
+### 2026-06-29 06:13:53  #公司
+
+Momenta全球發售擬定發售股份 1990 萬股。
+
+---
+
+### 2026-06-29 06:13:40  #MKT News #Important #Market Regions #Greater China
+
+Momenta plans a Hong Kong listing with an offering of 19.93 million shares, subject to exercise of the overallotment option, priced at HK$295.6 per share; trading expected to begin July 8.
+
+---
+
+### 2026-06-29 06:05:33  #市場
+
+標準普爾500指數期貨上漲0.4%，納斯達克指數期貨在震盪交投中上漲0.4%。
+
+---
+
+### 2026-06-29 06:04:42  #其他
+
+中國地震臺網正式測定：06月29日05時44分在青海海西州直轄區（北緯37.82度，東經95.53度）發生3.1級地震，震源深度10千米。
 
 ---
 
@@ -21396,41 +21504,5 @@ ZALANDO股價在Tradegate平臺下跌14.3%，此前德國金融監管機構對ZA
 ### 2026-06-26 13:33:08  #MKT News #Macro & Rates #Market Regions #Europe & UK #EURUSD #Impact bullish #DXY #Impact bearish
 
 【Analyst: Limited scope for further decline in German 10-year bund yield】SEB chief strategist Jussi Hiljanen said in a note the rally in German government bonds may be near its end after the 10-year bund yield fell to about a multi-month low of 2.85%. He said a sustained move below 2.80% would require a clear dovish shift in the ECB policy outlook, which he judges premature. SEB expects the 10-year bund yield to recover to 2.90–3.00% ahead of the ECB meeting on July 23. Hiljanen added the longer-term trajectory will largely depend on whether markets begin to price further policy-rate cuts in 2027.
-
----
-
-### 2026-06-26 13:33:02  #其他
-
-港股大模型概念股震盪下挫，智譜、MINIMAX-W均跌超10%。
-
----
-
-### 2026-06-26 13:31:31  #市場 #焦點
-
-天然橡膠連續主力合約日內跌3%，現報16465.00元。
-
----
-
-### 2026-06-26 13:31:10  #MKT News #Copper #Impact bullish #CNH #DXY #Impact bearish
-
-【China electric loaders in hot demand; construction machinery order books full】June is normally a seasonal trough for China’s construction machinery sector, but production lines are running at full capacity, electric models are in acute shortage and delivery cycles have lengthened significantly. New-energy construction equipment sales remain strong: Jan–May electric loader sales totaled 20,819 units, up 90.9% YoY. Electrification is becoming the industry's primary growth engine. Exports are also elevated: Jan–May construction machinery trade was $28.911 bln, up 19.5% YoY, with exports of $27.902 bln, up 20.8%. Many manufacturers report capacity constraints and say logistics have shifted from monthly concentrated shipments to continuous dispatching.
-
----
-
-### 2026-06-26 13:30:06  #其他
-
-【中國電動裝載機熱銷 工程機械訂單爆滿】每年六月份通常是工程機械行業的傳統淡季，但今年卻出現了“淡季不淡”的火熱景象。央視財經記者在走訪中發現，多家企業生產線滿負荷運轉，電動產品更是“一機難求”，部分訂單交付週期大幅延長。資料顯示，今年1至5月份，我國新能源工程機械銷量保持較好的勢頭，以電動裝載機為例，1至5月份累計銷售20819臺，同比增長90.9%。電動化正在成為工程機械行業增長的核心引擎。國內市場“淡季不淡”，海外市場同樣飄紅。今年前五個月，我國工程機械出口持續高增長，多家企業突破產能上限，物流發貨節奏也從“月度集中”轉為“常態化”。資料顯示，今年1至5月，我國工程機械進出口貿易額為289.11億美元，同比增長19.5%，其中出口金額279.02億美元，同比增長20.8%。 （央視財經）
-
----
-
-### 2026-06-26 13:28:14  #國際
-
-韓國KOSPI指數跌幅收窄至不足6%，此前一度重挫近9%。
-
----
-
-### 2026-06-26 13:28:12  #MKT News
-
-【China meets Cambodian People's Party chairman and Senate president Hun Sen】China met Cambodian People's Party chairman and Senate president Hun Sen at the Great Hall of the People on June 26. China said international and regional conditions are undergoing complex, deep changes and urged closer China‑Cambodia cooperation to inject greater stability into regional peace and development. China expressed willingness to establish a security partnership with Cambodia and praised Phnom Penh's decisive action against telecom‑network fraud, saying it will continue to work with Cambodia to fully eliminate such criminal networks.
 
 ---

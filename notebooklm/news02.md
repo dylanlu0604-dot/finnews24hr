@@ -1,7 +1,43 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-06-29 06:05:24_
-_本檔包含 3660 則快訊，約 666082 字_
+_更新時間：2026-06-29 06:31:53_
+_本檔包含 3653 則快訊，約 665043 字_
+
+---
+
+### 2026-06-26 13:33:02  #其他
+
+港股大模型概念股震盪下挫，智譜、MINIMAX-W均跌超10%。
+
+---
+
+### 2026-06-26 13:31:31  #市場 #焦點
+
+天然橡膠連續主力合約日內跌3%，現報16465.00元。
+
+---
+
+### 2026-06-26 13:31:10  #MKT News #Copper #Impact bullish #CNH #DXY #Impact bearish
+
+【China electric loaders in hot demand; construction machinery order books full】June is normally a seasonal trough for China’s construction machinery sector, but production lines are running at full capacity, electric models are in acute shortage and delivery cycles have lengthened significantly. New-energy construction equipment sales remain strong: Jan–May electric loader sales totaled 20,819 units, up 90.9% YoY. Electrification is becoming the industry's primary growth engine. Exports are also elevated: Jan–May construction machinery trade was $28.911 bln, up 19.5% YoY, with exports of $27.902 bln, up 20.8%. Many manufacturers report capacity constraints and say logistics have shifted from monthly concentrated shipments to continuous dispatching.
+
+---
+
+### 2026-06-26 13:30:06  #其他
+
+【中國電動裝載機熱銷 工程機械訂單爆滿】每年六月份通常是工程機械行業的傳統淡季，但今年卻出現了“淡季不淡”的火熱景象。央視財經記者在走訪中發現，多家企業生產線滿負荷運轉，電動產品更是“一機難求”，部分訂單交付週期大幅延長。資料顯示，今年1至5月份，我國新能源工程機械銷量保持較好的勢頭，以電動裝載機為例，1至5月份累計銷售20819臺，同比增長90.9%。電動化正在成為工程機械行業增長的核心引擎。國內市場“淡季不淡”，海外市場同樣飄紅。今年前五個月，我國工程機械出口持續高增長，多家企業突破產能上限，物流發貨節奏也從“月度集中”轉為“常態化”。資料顯示，今年1至5月，我國工程機械進出口貿易額為289.11億美元，同比增長19.5%，其中出口金額279.02億美元，同比增長20.8%。 （央視財經）
+
+---
+
+### 2026-06-26 13:28:14  #國際
+
+韓國KOSPI指數跌幅收窄至不足6%，此前一度重挫近9%。
+
+---
+
+### 2026-06-26 13:28:12  #MKT News
+
+【China meets Cambodian People's Party chairman and Senate president Hun Sen】China met Cambodian People's Party chairman and Senate president Hun Sen at the Great Hall of the People on June 26. China said international and regional conditions are undergoing complex, deep changes and urged closer China‑Cambodia cooperation to inject greater stability into regional peace and development. China expressed willingness to establish a security partnership with Cambodia and praised Phnom Penh's decisive action against telecom‑network fraud, saying it will continue to work with Cambodia to fully eliminate such criminal networks.
 
 ---
 
@@ -21970,83 +22006,5 @@ Thailand’s Ministry of Commerce said exports could increase 8% this year.
 ### 2026-06-25 11:49:29  #公司
 
 【上海未來產業基金擬參與投資2只子基金】6月25日，根據上海未來產業基金公示，投資決策委員會近期審議透過擬參與投資以下2只子基金：上海清科致成創業投資合夥企業（有限合夥）（暫定名）、上海前瞻致行創業投資合夥企業（有限合夥）。
-
----
-
-### 2026-06-25 11:48:45  #公司
-
-【信德新材：公司瀝青基碳纖維製品已獲部分光纖客戶驗證】信德新材(301349)在互動平臺表示，公司瀝青基碳纖維製品業務主要由子公司大連信德新材料科技有限公司生產並對外經營銷售。公司碳纖維製品目前已進入光伏、光纖、半導體、熱處理等領域並陸續透過驗證階段。其中，在光纖、光伏、熱處理領域驗證較順利，目前已經開始小批次供貨。光纖領域中，公司瀝青基碳纖維製品已獲得部分光纖客戶的驗證。在半導體領域因對產品指標要求更高，驗證時間會更長，目前驗證較為順利。公司持續積極向下遊瀝青基碳纖維生產領域拓展，大連信德新材料科技有限公司2025年營業收入為751.55萬元，目前該業務營業收入佔比較低，請留意投資風險。
-
----
-
-### 2026-06-25 11:47:49  #公司
-
-【港迪技術：全資子公司中標6916.8萬元專案】港迪技術公告，全資子公司武漢港迪智慧技術有限公司收到廣州港股份有限公司傳送的中標通知書，確定港迪智慧為廣州港煤礦裝卸智慧化專案中標人。中標金額為6916.8萬元。
-
----
-
-### 2026-06-25 11:47:33  #MKT News #Market Themes #The Trump Trade
-
-U.S. President Trump said two major earthquakes in Venezuela caused heavy casualties.
-
----
-
-### 2026-06-25 11:47:11  #國際
-
-特朗普：委內瑞拉遭遇兩場強震，已造成慘重傷亡。
-
----
-
-### 2026-06-25 11:46:55  #Trading Economics #Economy #Thailand #Balance of Trade #Importance 2
-
-Thailand Trade Gap Widens in May — Thailand’s trade deficit widened to USD 5.71 billion in May 2026 from USD 1.12 billion a year earlier, marking an eighth straight monthly shortfall, though it was smaller than forecasts of a USD 6.6 billion gap, as exports rose much less than imports. Imports jumped 35.1% year-on-year, easing from a 45.0% rise in April and slightly exceeding forecasts of 35%, supported by ongoing government stimulus measures aimed at boosting consumption and investment. Meanwhile, exports grew 10.6% year-on-year, easing sharply from a 23.1% surge in April, which marked the strongest growth in three months, and falling short of market forecasts of 11.6%. It was also the softest increase since February.
-
----
-
-### 2026-06-25 11:46:43  #公司
-
-【IDC：一季度全球手持智慧相機市場出貨量同比增長33%】6月25日，國際資料公司（IDC）最新報告顯示，2026年第一季度全球手持智慧相機市場出貨量達到414萬臺，同比增長33%。銷售額超過105億元人民幣，同比增長20%。IDC預計，至2030年，全球手持智慧相機市場規模將會超過4000萬臺，五年複合增長率接近18%。
-
----
-
-### 2026-06-25 11:46:09  #MKT News #WTI #Impact bullish #Brent
-
-U.S. President Trump said preliminary reports on Venezuela are not optimistic.
-
----
-
-### 2026-06-25 11:46:04  #MKT News
-
-【Chinese Refrigeration Society solicits data-center liquid-cooling needs and technologies】The Chinese Refrigeration Society has opened a nationwide call, via the China Association for Science and Technology’s Sci-Tech China digital platform, for data-center liquid-cooling technical needs and technological achievements to accelerate R&D, industrialisation and low-carbon deployment. Submissions will be catalogued and screened; representative technical problems will be selected and expert teams convened to run targeted "online diagnosis + offline matchmaking" sessions to develop solutions. Promising projects will be chosen for dedicated matchmaking events to promote commercialisation and implementation.
-
----
-
-### 2026-06-25 11:45:58  #MKT News #WTI #Impact bullish #XAUUSD #DXY
-
-President Trump said on Venezuela he has instructed all US government agencies to be prepared to act swiftly.
-
----
-
-### 2026-06-25 11:45:54  #國際
-
-特朗普：我已下令政府所有部門做好立即行動的準備。
-
----
-
-### 2026-06-25 11:45:52  #MKT News
-
-U.S. President Trump said the United States is ready, willing and able to help Venezuela at any time.
-
----
-
-### 2026-06-25 11:45:34  #國際
-
-特朗普：美國隨時準備在委內瑞拉地震後提供援助。
-
----
-
-### 2026-06-25 11:45:08  #MKT News
-
-【Indonesia says no decision yet on 2026 nickel ore production quota】Indonesia's mining ministry said on Thursday it has not decided on a total nickel ore production quota for the 2026 fiscal year. Market reports had suggested Jakarta might raise quotas. The ministry said the government's objective is to align ore output with downstream demand and that any quota adjustment applications must undergo a review process.
 
 ---

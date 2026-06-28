@@ -1,7 +1,85 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-06-29 06:05:24_
-_本檔包含 3809 則快訊，約 666001 字_
+_更新時間：2026-06-29 06:31:53_
+_本檔包含 3806 則快訊，約 665628 字_
+
+---
+
+### 2026-06-25 11:48:45  #公司
+
+【信德新材：公司瀝青基碳纖維製品已獲部分光纖客戶驗證】信德新材(301349)在互動平臺表示，公司瀝青基碳纖維製品業務主要由子公司大連信德新材料科技有限公司生產並對外經營銷售。公司碳纖維製品目前已進入光伏、光纖、半導體、熱處理等領域並陸續透過驗證階段。其中，在光纖、光伏、熱處理領域驗證較順利，目前已經開始小批次供貨。光纖領域中，公司瀝青基碳纖維製品已獲得部分光纖客戶的驗證。在半導體領域因對產品指標要求更高，驗證時間會更長，目前驗證較為順利。公司持續積極向下遊瀝青基碳纖維生產領域拓展，大連信德新材料科技有限公司2025年營業收入為751.55萬元，目前該業務營業收入佔比較低，請留意投資風險。
+
+---
+
+### 2026-06-25 11:47:49  #公司
+
+【港迪技術：全資子公司中標6916.8萬元專案】港迪技術公告，全資子公司武漢港迪智慧技術有限公司收到廣州港股份有限公司傳送的中標通知書，確定港迪智慧為廣州港煤礦裝卸智慧化專案中標人。中標金額為6916.8萬元。
+
+---
+
+### 2026-06-25 11:47:33  #MKT News #Market Themes #The Trump Trade
+
+U.S. President Trump said two major earthquakes in Venezuela caused heavy casualties.
+
+---
+
+### 2026-06-25 11:47:11  #國際
+
+特朗普：委內瑞拉遭遇兩場強震，已造成慘重傷亡。
+
+---
+
+### 2026-06-25 11:46:55  #Trading Economics #Economy #Thailand #Balance of Trade #Importance 2
+
+Thailand Trade Gap Widens in May — Thailand’s trade deficit widened to USD 5.71 billion in May 2026 from USD 1.12 billion a year earlier, marking an eighth straight monthly shortfall, though it was smaller than forecasts of a USD 6.6 billion gap, as exports rose much less than imports. Imports jumped 35.1% year-on-year, easing from a 45.0% rise in April and slightly exceeding forecasts of 35%, supported by ongoing government stimulus measures aimed at boosting consumption and investment. Meanwhile, exports grew 10.6% year-on-year, easing sharply from a 23.1% surge in April, which marked the strongest growth in three months, and falling short of market forecasts of 11.6%. It was also the softest increase since February.
+
+---
+
+### 2026-06-25 11:46:43  #公司
+
+【IDC：一季度全球手持智慧相機市場出貨量同比增長33%】6月25日，國際資料公司（IDC）最新報告顯示，2026年第一季度全球手持智慧相機市場出貨量達到414萬臺，同比增長33%。銷售額超過105億元人民幣，同比增長20%。IDC預計，至2030年，全球手持智慧相機市場規模將會超過4000萬臺，五年複合增長率接近18%。
+
+---
+
+### 2026-06-25 11:46:09  #MKT News #WTI #Impact bullish #Brent
+
+U.S. President Trump said preliminary reports on Venezuela are not optimistic.
+
+---
+
+### 2026-06-25 11:46:04  #MKT News
+
+【Chinese Refrigeration Society solicits data-center liquid-cooling needs and technologies】The Chinese Refrigeration Society has opened a nationwide call, via the China Association for Science and Technology’s Sci-Tech China digital platform, for data-center liquid-cooling technical needs and technological achievements to accelerate R&D, industrialisation and low-carbon deployment. Submissions will be catalogued and screened; representative technical problems will be selected and expert teams convened to run targeted "online diagnosis + offline matchmaking" sessions to develop solutions. Promising projects will be chosen for dedicated matchmaking events to promote commercialisation and implementation.
+
+---
+
+### 2026-06-25 11:45:58  #MKT News #WTI #Impact bullish #XAUUSD #DXY
+
+President Trump said on Venezuela he has instructed all US government agencies to be prepared to act swiftly.
+
+---
+
+### 2026-06-25 11:45:54  #國際
+
+特朗普：我已下令政府所有部門做好立即行動的準備。
+
+---
+
+### 2026-06-25 11:45:52  #MKT News
+
+U.S. President Trump said the United States is ready, willing and able to help Venezuela at any time.
+
+---
+
+### 2026-06-25 11:45:34  #國際
+
+特朗普：美國隨時準備在委內瑞拉地震後提供援助。
+
+---
+
+### 2026-06-25 11:45:08  #MKT News
+
+【Indonesia says no decision yet on 2026 nickel ore production quota】Indonesia's mining ministry said on Thursday it has not decided on a total nickel ore production quota for the 2026 fiscal year. Market reports had suggested Jakarta might raise quotas. The ministry said the government's objective is to align ore output with downstream demand and that any quota adjustment applications must undergo a review process.
 
 ---
 
@@ -22868,101 +22946,5 @@ STAR 50 Index rose 1%. Among constituents, Geke Microelectronics jumped about 9%
 ### 2026-06-24 09:53:42  #公司 #國際
 
 【韓國總統政策室長：三星與SK海力士新晶片叢集規劃進入收尾階段】韓國總統辦公室政策室長金容範6月24日表示，三星電子和SK海力士建立新半導體叢集的計劃已進入最後討論階段，一旦最終敲定將正式向大眾公佈。金容範指出，由於人工智慧（AI）行業對晶片的需求呈現“爆發式增長”，兩家公司現有的龍仁半導體叢集建設程序將大幅提前。其中，SK海力士計劃在龍仁建設四座晶圓廠，目前正討論將第四座工廠的完工時間從原定的2044年大幅提前至2034年。
-
----
-
-### 2026-06-24 09:53:23  #市場
-
-房地產板塊震盪走低，深深房A跌停，合肥城建、天地源、北辰實業、京能置業、大龍地產跌幅居前。
-
----
-
-### 2026-06-24 09:52:44  #MKT News #Important #01347.HK #Impact bullish
-
-Hong Kong-listed Huahong Hongli (01347.HK) continued to push higher, now up more than 10%.
-
----
-
-### 2026-06-24 09:52:16  #其他
-
-【港股半導體、算力硬體股走高，華虹宏力漲近10%】港股半導體、算力硬體股走高，華虹宏力漲近10%，劍橋科技漲超8%，中芯國際、瀾起科技、建滔積層板跟漲。
-
----
-
-### 2026-06-24 09:52:10  #國際
-
-白宮發言人萊維特：明天中午12點，在國會山，特朗普總統將簽署《21世紀住房之路法案》成為法律，這是美國歷史上最重要的住房可負擔性立法之一。這項兩黨法案包括總統長期倡導的政策。它削減不必要的繁文縟節，有助於增加住房供應，並限制大型機構投資者購買獨棟住宅的能力。 正如總統所說，房屋應該由美國家庭擁有，而不是大型企業。
-
----
-
-### 2026-06-24 09:51:48  #公司 #國際
-
-【國家能源局負責人會見沙特國際電力和水務公司董事長】6月22日，中國國家能源局副局長萬勁松在京應約會見沙特國際電力和水務公司董事長穆罕默德·阿布納揚。雙方就中沙清潔能源領域合作深入交換意見。萬勁松表示，沙特國際電力和水務公司是全球知名的清潔能源開發企業，與中國能源企業在中東、中亞以及東南亞開展良好合作。中方歡迎沙特國際電力和水務公司按照市場原則參與中國的清潔能源專案，支援與中方能源企業合作拓展第三國能源市場。（國家能源局）
-
----
-
-### 2026-06-24 09:51:41  #MKT News #Commodities #Energy
-
-【China energy official meets Saudi International Power and Water chairman on clean-energy cooperation】Beijing, June 22 — Wan Jinsong, deputy head of China’s National Energy Administration, met Mohammed Abunayyan, chairman of Saudi International Power and Water Company, to discuss deeper cooperation in clean energy. Wan said the company is a globally recognised clean-energy developer with established cooperation with Chinese energy firms in the Middle East, Central Asia and Southeast Asia, and welcomed its participation in Chinese clean-energy projects on market terms. He also expressed support for the firm partnering with Chinese energy companies to expand into third‑country energy markets.
-
----
-
-### 2026-06-24 09:51:29  #MKT News #Commodities #Energy #CSI300 #Impact bearish #SSE Composite #SZSE Component
-
-A-share coal sector weakened in choppy trade; Dayou Energy fell more than 8%, with Yunmei Energy, Antai Group, Huadian Energy, Shaanxi Black Cat and Baotailong also sliding.
-
----
-
-### 2026-06-24 09:51:04  #央行 #美聯儲
-
-【華爾街吵起來了？與美銀、高盛“唱反調” 瑞銀稱美聯儲加息風險被高估】近幾日，多家華爾街大行調整了對美聯儲利率路徑的預測。美國銀行6月22日表示，由於通脹變得“明顯惡化”，預計美聯儲今年將加息三次。這是目前全球各大主流投行中最為激進的加息預期。德意志銀行則在6月19日釋出的一份報告中預測，美聯儲今年將加息兩次。但瑞銀集團（UBS）分析師認為，市場可能高估了美聯儲加息的風險。
-
----
-
-### 2026-06-24 09:50:48  #MKT News #DXY #Impact bearish #XAUUSD #Impact bullish #Copper
-
-【Australia May CPI slips but core inflation beats estimates; RBA hike risk remains】ABS data show Australia’s May CPI fell 0.7% MoM and slowed to 4.0% YoY from 4.2% (market had expected -0.4% MoM, 4.3% YoY). Declines in fuel costs and holiday travel demand pressured the headline print. Excluding volatile items, core inflation rose 0.4% MoM (vs 0.3% expected), lifting the annual core rate to 3.6%. The RBA has raised rates three times this year; with core inflation above the 2–3% target range, further tightening cannot be ruled out.
-
----
-
-### 2026-06-24 09:50:46  #公司
-
-【煤炭板塊多數走低，大有能源跌超8%】煤炭板塊多數走低，大有能源跌超8%，雲煤能源、安泰集團、華電能源、陝西黑貓、寶泰隆跟跌。
-
----
-
-### 2026-06-24 09:50:43  #國際
-
-【特朗普再稱伊朗同意IAEA核查】當地時間6月23日，美國總統特朗普再次表示，伊朗已經同意接受國際原子能機構（IAEA）的核查，美方“百分之百確認”伊朗已同意了相關安排，如果伊朗此前“沒有核查”的說法屬實，他會“立即取消相關會談”。 對於國際原子能機構核查人員何時進入伊朗，特朗普未給出具體時間表，僅表示將在“適當的時候”進行，並稱“沒必要著急”。 對此，伊朗媒體23日援引伊朗外交部發言人巴加埃的話報道，暫無國際原子能機構核查人員訪問伊朗受損核設施的計劃。 （CCTV國際時訊）
-
----
-
-### 2026-06-24 09:50:01  #市場
-
-【港股醫藥外包概念股走強 凱萊英漲近9%】截至發稿，凱萊英(06821.HK)漲8.88%，金斯瑞生物科技(01548.HK)漲6.53%，泰格醫藥(03347.HK)漲5.04%，昭衍新藥(06127.HK)漲5.13%。
-
----
-
-### 2026-06-24 09:49:48  #公司 #市場
-
-【先進封裝板塊區域性走強，三安光電漲停】先進封裝板塊區域性走強，太極實業、匯成股份、瑞華泰盤中創新高，三安光電漲停，英諾鐳射、長電科技、綠通科技跟漲。
-
----
-
-### 2026-06-24 09:49:45  #MKT News #Market Regions #Greater China #SZSE Component #Impact bullish #CSI300
-
-Mainland A-share advanced-packaging sector showed selective strength; Taiji Industrial, Huicheng and Ruihuatai hit intraday highs, Sanan Optoelectronics reached the daily price limit, and Inno Laser, JCET and Lvtong Technology also gained.
-
----
-
-### 2026-06-24 09:49:42  #國際
-
-韓國總統政策室長：住房問題是最具挑戰性的。
-
----
-
-### 2026-06-24 09:49:04  #其他
-
-【中國移動副總經理李慧鏑：自智網路的未來，加速到來】當地時間6月23日，由電信管理論壇（TM Forum）主辦的2026年全球數字轉型大會（DTW2026）在丹麥哥本哈根開幕。中國移動副總經理李慧鏑出席大會時指出，隨著生成式人工智慧廣泛應用，Token流量呈現爆發式增長，網路正從傳統“位元傳輸”向“位元+Token傳遞”演進。中國移動積極順應這一趨勢，持續推進網路升級，為人工智慧時代提供堅實的數字基礎設施支撐。他強調，從人工運維到自動化運維，到自智運營，最終到AI Native，通訊產業正迎來新的歷史性跨越。未來的網路不僅連線人與人、人與物，更將連線意圖與結果；不僅傳遞資訊，更將理解需求、創造價值。（國是直通車）
 
 ---
