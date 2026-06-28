@@ -1,7 +1,23 @@
 {
-  "updated": "2026-06-29 00:44:29",
+  "updated": "2026-06-29 00:48:30",
   "count": 17991,
   "items": [
+    {
+      "id": "mkt:019f0f21-767f-7aab-8c01-f2e3a470026f",
+      "time": "2026-06-29 00:47:58",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Al Jazeera reports Tehran–Dubai flights will resume next week."
+    },
+    {
+      "id": "4959079",
+      "time": "2026-06-29 00:46:55",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場資訊：德黑蘭-迪拜航班將於下週恢復。"
+    },
     {
       "id": "mkt:019f0f1c-9595-7aab-8c01-efe47604154e",
       "time": "2026-06-29 00:42:39",
@@ -164618,28 +164634,6 @@
         "WTI"
       ],
       "text": "【Ghalibaf rebuffs Trump's latest threat】Ghalibaf, head of Iran’s negotiating delegation in Switzerland and speaker of the Iranian parliament, said on social media on June 21 that Iran does not take US threats seriously, warned Washington to choose its words carefully and said Iran’s armed forces are fully prepared to respond “in another way.” He added that regardless of US bluster, “we will be the ones to act.” Earlier, Trump posted that “Iran must immediately stop its ‘proxies’ in Lebanon. If not, we will strike Iran again, like last week, and only harder.”"
-    },
-    {
-      "id": "mkt:019eeb15-23e6-7dd8-b0a8-269f959f6514",
-      "time": "2026-06-22 00:48:11",
-      "tags": [
-        "MKT News",
-        "Important",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "【Iran delegation leaves Swiss talks in protest at Trump threat】On the 21st, Iran said a source close to its negotiating team reported the delegation had left the negotiating site in protest at President Trump’s threats. Informed sources said Trump’s latest remarks have paused US‑Iran talks in Switzerland and cast doubt on whether negotiations can continue. Earlier, Trump posted on Truth Social that Iran must immediately stop its \"proxy\" actions in Lebanon or the United States will strike Iran."
-    },
-    {
-      "id": "4946591",
-      "time": "2026-06-22 00:47:41",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "【抗議特朗普威脅言論 伊朗代表團離開談判地點】當地時間21日，伊朗方面釋出訊息稱，一名接近談判團隊的訊息人士透露，伊朗談判代表團因抗議特朗普的威脅言論，已離開談判地點。另據知情人士訊息，美國總統特朗普最新對伊朗發出的威脅言論導致美伊在瑞士的會談暫停，並使談判能否繼續進行蒙上陰影。此前，特朗普在社交平臺“真實社交”上發文稱，伊朗必須立即停止其在黎巴嫩的“代理人”行動，否則美國將對伊朗發動打擊。（央視新聞）"
     }
   ]
 }
