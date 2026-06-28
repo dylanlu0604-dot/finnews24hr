@@ -1,7 +1,60 @@
 {
-  "updated": "2026-06-28 08:36:32",
-  "count": 18155,
+  "updated": "2026-06-28 08:40:33",
+  "count": 18159,
   "items": [
+    {
+      "id": "mkt:019f0baa-a64b-7770-9d1c-0280d9973e1f",
+      "time": "2026-06-28 08:39:20",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "Iran's Islamic Revolutionary Guard Corps alleged the US used IRGC Navy confrontations with intruding vessels as a pretext to attack five Iranian coastal posts."
+    },
+    {
+      "id": "mkt:019f0ba9-e991-7770-9d1b-ff609324fc65",
+      "time": "2026-06-28 08:38:32",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "Brent",
+        "DXY"
+      ],
+      "text": "Iran's Islamic Revolutionary Guard Corps (IRGC) said it will treat future violators of the agreement more harshly and that any \"hostile aggression\" will be met with a \"destructive response\"."
+    },
+    {
+      "id": "4958671",
+      "time": "2026-06-28 08:37:30",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗伊斯蘭革命衛隊（IRGC）表示，今後將以更強硬手段應對違規船隻，任何“敵方侵略”都將得到“毀滅性回擊”。"
+    },
+    {
+      "id": "4958670",
+      "time": "2026-06-28 08:37:27",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國中央司令部：美國海軍與空軍戰鬥機對霍爾木茲海峽及其周邊多處10處伊朗軍事目標實施打擊，報復伊朗針對美國油輪發動的無人機襲擊。"
+    },
+    {
+      "id": "mkt:019f0ba8-a40a-7770-9d1b-f2efb72e5a60",
+      "time": "2026-06-28 08:37:09",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Tasnim News reported Iran's Islamic Revolutionary Guard Corps navy and Aerospace Force launched joint missile and drone operations in Kuwait and Bahrain in response to recent U.S. strikes."
+    },
     {
       "id": "4958669",
       "time": "2026-06-28 08:35:56",
@@ -166095,14 +166148,6 @@
         "國際"
       ],
       "text": "特朗普：我們與承包商進行了會面，可能將被迫釋放並排幹大量蓄水，以便進行必要的修復工作。"
-    },
-    {
-      "id": "4946053",
-      "time": "2026-06-21 08:40:23",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：更多與倒影池“破壞行為”有關的人員已被逮捕。"
     }
   ]
 }
