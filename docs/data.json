@@ -1,7 +1,25 @@
 {
-  "updated": "2026-06-28 12:14:46",
-  "count": 18151,
+  "updated": "2026-06-28 12:18:39",
+  "count": 18152,
   "items": [
+    {
+      "id": "mkt:019f0c70-f75a-7770-9d1c-b12dcba111e4",
+      "time": "2026-06-28 12:15:57",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "【World's first 16 MW tension-leg floating wind platform \"Haiyou Anlan\" departs port】The world's first and largest single-turbine tension-leg floating wind platform, \"Haiyou Anlan\" (16 MW), completed integrated assembly at Zhuhai Gaolan Port and departed yesterday under escort by Zhuhai maritime authorities for the Lufeng oilfield cluster waters off eastern Guangdong. The platform is over 307 m tall and weighs nearly 8,000 tonnes; its departure marks China’s deepwater floating-wind technology moving from demonstration toward scale and commercial deployment."
+    },
+    {
+      "id": "4958731",
+      "time": "2026-06-28 12:14:38",
+      "tags": [
+        "其他"
+      ],
+      "text": "【全球首座16兆瓦張力腿浮式風電平臺“海油安瀾號”順利出港】昨日，全球首座單機容量最大的張力腿浮式風電平臺——“海油安瀾號”，在珠海高欄港完成一體化整合後，由珠海海事部門護送，順利出港，正式向粵東陸豐油田群海域進發。這座總高逾307米、總重近8000噸的“海上大風車”從珠海高欄港啟程出海，標誌著我國深遠海浮式風電技術正從示範應用加速向規模化、商業化邁進。 (央視新聞)"
+    },
     {
       "id": "mkt:019f0c6b-7086-7770-9d1c-a8cd52af3ce8",
       "time": "2026-06-28 12:09:55",
@@ -166119,14 +166137,6 @@
         "其他"
       ],
       "text": "【自然資源部對安徽湖北湖南貴州啟動地質災害防禦Ⅳ級響應】據氣象部門預報，未來三天，安徽、湖北、湖南、貴州部分地區有大到暴雨過程，局地有大暴雨。自然資源部地質災害技術指導中心研判，安徽南部和西部、湖北西南部和東部、湖南西部、貴州南部等部分地區發生地質災害的風險較高。根據《自然資源部地質災害防禦響應工作方案》，自然資源部於6月20日17時對安徽、湖北、湖南、貴州啟動地質災害防禦Ⅳ級響應。（央視新聞）"
-    },
-    {
-      "id": "4946125",
-      "time": "2026-06-21 12:17:13",
-      "tags": [
-        "其他"
-      ],
-      "text": "市場訊息：美伊關鍵談判即將開啟。"
     }
   ]
 }
