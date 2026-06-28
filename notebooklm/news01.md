@@ -1,7 +1,105 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-06-29 06:31:53_
-_本檔包含 3553 則快訊，約 665989 字_
+_更新時間：2026-06-29 07:04:40_
+_本檔包含 3547 則快訊，約 665503 字_
+
+---
+
+### 2026-06-29 07:02:25  #MKT News
+
+INVESCO survey: some institutions are reassessing reliance on U.S. custodians, counterparties and clearing infrastructure.
+
+---
+
+### 2026-06-29 06:56:37  #Trading Economics #Markets #New Zealand #Stock Market #Importance 1
+
+New Zealand Shares Lower to Start the Week — The NZX 50 dropped 50 points, or 0.4%, to 13,445 in Monday morning trade, after being muted in the previous session, tracking a decline on Wall Street on Friday, with chipmakers leading the sell-off. Traders remained cautious ahead of the release of New Zealand's consumer and business confidence data for June, as both indicators remained subdued in May despite improving. Investors also anticipated the release of China's PMI data and US jobs data for June to help gauge the economic outlook in the world's largest and second-largest economies. However, easing oil prices capped the decline as inflation concerns moderated, reducing expectations of an interest rate hike. Materials, utilities, consumer discretionary, and healthcare stocks mainly weighed on the index, with notable losses from Delegat Group (-2.8%), Turners Automotive (-2.3%), Westpac Banking Corp. (-1.9%), Contact Energy (-1.6%), Hallenstein Glasson (-1.2%), Meridian Energy (-1.2%), and Fisher & Paykel (-0.6%).
+
+---
+
+### 2026-06-29 06:53:52  #市場 #焦點
+
+比特幣跌破59000美元，日內跌1.79%。
+
+---
+
+### 2026-06-29 06:52:14  #國際
+
+【俄稱繼續在頓涅茨克兩城鎮推進】俄羅斯國防部28日通報稱，過去一天，俄軍繼續在蘇梅、哈爾科夫、頓涅茨克、第聶伯羅彼得羅夫斯克及扎波羅熱等方向打擊烏軍。在頓涅茨克紅利曼，俄軍突擊分隊繼續向西推進，控制5個據點及59棟建築；在康斯坦丁諾夫卡，俄軍對該地西南部地區的清剿仍在繼續。烏克蘭武裝部隊總參謀部28日通報稱，烏軍當天凌晨繼續對俄羅斯軍事和能源基礎設施實施遠端打擊，目標包括兩座煉油廠、一座鐵路橋、一座彈藥庫等設施。其中，位於克拉斯諾達爾邊疆區的斯拉維揚斯克煉油廠因遭襲擊發生火災。（央視新聞）
+
+---
+
+### 2026-06-29 06:51:13  #MKT News
+
+【Venezuela: Power, water partly restored in earthquake-hit La Guaira】On June 28 local time, Acting President Rodríguez said power service in earthquake-hit La Guaira state has been restored to 75%, water supply to 68%, and road traffic to about 90%, with road and vehicle movement largely back to normal.
+
+---
+
+### 2026-06-29 06:51:02  #資料 #央行 #國際
+
+【週一重要財經資訊提醒（以下均為北京時間）】 
+① 待定 歐洲央行在辛特拉舉行中央銀行論壇，至7月1日；北京太空算力大會舉辦；
+② 07:30 澳洲聯儲助理主席Kent發表講話；
+③ 07:50 日本5月零售銷售；
+④ 13:00 英國央行首席經濟學家Pill發表講話；
+⑤ 16:30 英國5月央行抵押貸款許可
+⑥ 17:00 歐元區6月經濟景氣指數，歐元區6月消費者信心指數終值；
+⑦ 22:30 美國6月達拉斯聯儲商業活動指數
+⑧ 次日00:30 歐洲央行行長拉加德發表講話。
+
+---
+
+### 2026-06-29 06:50:33  #MKT News
+
+【U.S. media: Zhipu (02513.HK) GLM-5.2 rivals Mythos in vulnerability discovery】U.S. outlets The Verge and the Wall Street Journal report Zhipu (02513.HK) has released open-weight model GLM-5.2. The model still lags Anthropic and OpenAI on broad tasks, but some researchers say GLM-5.2 matches Anthropic’s Mythos in certain vulnerability-detection and cybersecurity scenarios. Cybersecurity firm Semgrep reports GLM-5.2 outperformed Anthropic’s Claude Opus 4.8 on some benchmarks; researchers add that with additional instruction both Opus 4.8 and GLM-5.2 can rival Mythos at bug finding. GLM’s open-weight distribution — downloadable and runnable on commodity hardware — boosts flexibility and deep access for advanced users but may elevate the risk of malicious misuse.
+
+---
+
+### 2026-06-29 06:50:30  #其他
+
+【委內瑞拉地震重災區拉瓜伊拉州電力及供水已部分恢復 】當地時間6月28日，委內瑞拉代總統羅德里格斯表示，地震重災區拉瓜伊拉州電力服務恢復至75%，供水恢復至68%，道路交通已恢復約90%，道路通行和車輛通行基本恢復正常。
+
+---
+
+### 2026-06-29 06:43:41  #國際
+
+克里姆林宮方面表示，待美方不再全力應對與伊朗的衝突後，美方談判代表史蒂夫·維特科夫與賈裡德·庫什納預計將前往莫斯科，繼續磋商結束烏克蘭衝突相關事宜。
+
+---
+
+### 2026-06-29 06:41:25  #公司 #觀點
+
+【萬億發債潮疊加評級上調，券商大力融資謀轉型】今年以來，券商融資節奏持續提速，債券發行規模實現大幅躍升。Choice資料顯示，截至6月26日，年內已有61家券商累計發行521只債券，總髮行規模超過1.22萬億元，較去年同期的5274.98億元同比增長超過131%。另外，行業龍頭髮債體量達到千億級。與此同時，多家券商大額髮債批覆密集落地。6月以來，證券行業迎來罕見的債券信用評級集中上調。中金財富、東北證券、長城證券、華安證券、浙商證券等多家券商密集公告評級調整，旗下多款次級債信用等級成功從AA+躍升至AAA，行業總體信用資質實現質的提升。（上證報）
+
+---
+
+### 2026-06-29 06:37:59  #其他
+
+英國將取消83型驅逐艦與32型護衛艦建造計劃，轉而採購至少六艘通用混合型作戰艦艇；該型艦艇設計可投放空中及水下無人載具。此舉標誌英國作戰思路轉向自主無人作戰，新艦預計21世紀30年代初列裝服役。
+
+---
+
+### 2026-06-29 06:34:02  #國際
+
+黎巴嫩議會議長貝里表示，這份由美國支援的黎以協議，現有版本不會被接受。
+
+---
+
+### 2026-06-29 06:32:53  #MKT News
+
+【Kintetsu train derails at Kyoto Station; Kyoto Line services suspended】Kintetsu Railway said a train derailed inside Kyoto Station at about 05:13 local time on June 29. Operators have suspended services in both directions on the Kintetsu Kyoto Line between Kyoto Station and Kami-Tobaguchi while tracks are inspected. No injuries have been reported so far.
+
+---
+
+### 2026-06-29 06:32:49  #公司 #國際
+
+【日本鐵路京都站站內發生列車脫軌事故】據近畿日本鐵道公司稱，當地時間6月29日5時13分左右，京都站站內發生列車脫軌事故，鐵路方面正在對線路進行檢查，因此近鐵京都線京都站至上鳥羽口站區間上下行線路暫停執行。目前尚未收到此次脫軌事故造成人員受傷的訊息。（央視新聞）
+
+---
+
+### 2026-06-29 06:31:33  #MKT News #005930.KS #Impact bullish #000660.KS
+
+Korean Maeil Business Newspaper reports Samsung and SK Group's combined investment plans over the next 10 years may total 2,000 trillion won (about $1.3 trillion).
 
 ---
 
@@ -21378,131 +21476,5 @@ According to the Financial Times, EU ministers are preparing to curb Brussels' a
 ### 2026-06-26 13:47:53  #MKT News #Star Stocks #Apple #Market Themes #Magnificent 7 #AAPL.O #Impact bullish
 
 【Counterpoint Research: Apple entry into foldables likely to lift market prices】Counterpoint Research says Apple’s entry into the foldable phone market will push up prices by refocusing consumers on the high end and boosting demand for premium software and productivity tools. The firm cites Apple as one factor behind a projected c.18% rise in global foldable-phone average selling prices (ASP) this year. It adds that competition is driving down prices for budget clamshell foldables—narrowing their gap with high-end slab smartphones—while demand is surging for larger, pricier book-style foldables.
-
----
-
-### 2026-06-26 13:47:44  #市場 #焦點
-
-雞蛋連續主力合約日內跌2%，現報4292.00元。
-
----
-
-### 2026-06-26 13:46:06  #其他
-
-臺灣長榮海運稱旗下一艘船在阿曼外海遭不明物體撞擊。
-
----
-
-### 2026-06-26 13:45:24  #公司 #國際
-
-【印度對涉華熱敏紙啟動反傾銷調查】印度商工部發布公告稱，應印度國內行業協會Indian Association of Thermal Paper Manufacturers' & Allied Industries提交的申請，對原產於或進口自中國、美國和韓國的熱敏紙（Thermal Paper or Thermal Sensitive Paper）啟動反傾銷調查。本案主要涉及印度海關編碼48119093、48119094、48119095、48119096和48119099項下的產品以及48119011項下的部分產品。本案傾銷調查期為2025年1月1日至2025年12月31日（12個月），損害調查期為2022年至2023年、2023年至2024年、2024年至2025年以及2025年1月1日至2025年12月31日。
-
----
-
-### 2026-06-26 13:44:40  #公司 #國際
-
-【印度對涉華雙向拉伸尼龍薄膜啟動反傾銷調查】近日，印度商工部發布公告稱，應印度國內企業JPFL Films Private Limited提交的申請，對原產於或進口自中國和泰國的雙向拉伸尼龍薄膜[Biaxially Oriented Polyamide (BOPA) Film]啟動反傾銷調查。涉案產品的印度海關編碼為39209219、39209299。涉案產品的厚度介於12微米至30微米。本案傾銷調查期為2025年1月1日至2025年12月31日（12個月），損害調查期為2022年至2023年、2023年至2024年、2024年至2025年以及2025年1月1日至2025年12月31日。
-
----
-
-### 2026-06-26 13:44:24  #公司 #國際
-
-【印度對華裝飾紙啟動第一次反傾銷日落複審調查】印度商工部發布公告稱，應印度國內企業ITC Limited提交的申請，對原產於或進口自中國的裝飾紙（Decor Paper）啟動反傾銷調查。本案主要涉及印度海關編碼48059100項下的產品以及48022090項下的部分產品。本案傾銷調查期為2025年4月1日至2026年3月31日（12個月），損害調查期為2022年至2023年、2023年至2024年、2024年至2025年以及2025年4月1日至2026年3月31日。
-
----
-
-### 2026-06-26 13:43:35  #公司 #國際
-
-【印度對涉華合金和非合金熱軋鋼板啟動反傾銷調查】6月25日，印度商工部發布公告稱，應印度國內企業JSW Steel Limited、JSW Vijaynagar Metallics Limited和Jindal Steel Odisha Limited 提交的申請，對原產於或進口自中國、日本和俄羅斯的合金和非合金熱軋鋼板啟動反傾銷調查。本案主要涉及印度海關編碼7208、7211、7225以及7226項下的產品。本案傾銷調查期為2025年1月1日至2025年12月31日（12個月），損害調查期為2022年4月1日至2023年3月31日、2023年4月1日至2024年3月31日、2024年4月1日至2025年3月31日以及2025年1月至2025年12月。
-
----
-
-### 2026-06-26 13:43:18  #MKT News #Star Stocks #Amazon #Market Themes #Magnificent 7
-
-【Amazon Global Selling launches Latin America Fast-Track to support 3,000 Chinese brands in 2026】Amazon Global Selling has launched a Latin America Fast-Track program targeting 3,000 Chinese brands in 2026, offering one-stop support including assistance to register China-controlled local companies in Brazil, Mexico RFC tax-ID optimization, up to $12,000 registration subsidies, Amazon logistics fee waivers, and dedicated account managers to accelerate entry and expansion in Mexico and Brazil.
-
----
-
-### 2026-06-26 13:42:51  #公司 #國際
-
-【印度對涉華透析器啟動反傾銷調查】6月25日，印度商工部發布公告稱，應印度國內企業Poly Medicure Limited提交的申請，對原產於或進口自中國和馬來西亞的透析器（Dialyzers）啟動反傾銷調查。本案主要涉及印度海關編碼90189031項下的產品。本案傾銷調查期為2025年1月1日至2025年12月31日（12個月），損害調查期為2022年4月1日至2023年3月31日、2023年4月1日至2024年3月31日、2024年4月1日至2025年3月31日以及2025年1月至2025年12月。
-
----
-
-### 2026-06-26 13:42:26  #其他
-
-鎧俠股價一度大跌12%。
-
----
-
-### 2026-06-26 13:41:31  #公司
-
-【海博思創等成立能源科技公司】企查查APP顯示，近日，北京海萬正規化能源科技有限公司成立，法定代表人為李楊，註冊資本為1000萬元，經營範圍包含：新材料技術推廣服務；儲能技術服務；太陽能發電技術服務；電池零配件銷售等。企查查股權穿透顯示，該公司由溫州寶耀正規化新能源科技有限公司、海博思創全資子公司河北雄安匯儲能源科技有限公司共同持股。
-
----
-
-### 2026-06-26 13:40:25  #公司 #國際
-
-【亞馬遜全球開店推出“拉美速通計劃”，要扶持3000箇中國品牌深耕拉美】亞馬遜全球開店推出“拉美速通計劃”，在2026年內面向3000 箇中國品牌，提供包括巴西中方控股本土公司註冊協助、墨西哥最佳化RFC稅號解決方案、最高12,000美元註冊補貼、亞馬遜物流費用減免、客戶經理全程陪跑等在內的一站式拉美拓展方案，幫助中國品牌跨過拉美經營門檻，深耕墨西哥及巴西。
-
----
-
-### 2026-06-26 13:39:23  #其他
-
-京東方Ａ成交額超300億元，現漲4.12%。
-
----
-
-### 2026-06-26 13:38:27  #公司
-
-法國電力公司 EDF 承諾投入 8000 萬歐元用於學校和休閒中心的空氣冷卻系統升級。
-
----
-
-### 2026-06-26 13:37:50  #MKT News #CSI300 #Impact bullish #SSE Composite
-
-A-share commercial aerospace sector rallied again; China Satellite hit the daily limit. Aerospace Power earlier sealed a limit-up; Shanghai Hanxun jumped >14%, CETC Lantian climbed >13%, Guanglian Aviation gained >10%.
-
----
-
-### 2026-06-26 13:36:50  #MKT News
-
-【Analyst: US 10-year Treasury yield likely to lack clear trend】SEB chief strategist Jussi Hiljanen said in a note that as markets priced higher odds of a durable US–Iran peace the US 10-year Treasury yield rose to 4.40% and is likely to trade around that level over the coming months. “We expect the US 10-year yield to lack a clear trend in the coming months, trading mostly in a 4.30%–4.50% range,” he said. SEB said a durable Middle East settlement alone is unlikely to push UST yields into a sustained downtrend; that would require supportive macro data and explicit Fed policy communication.
-
----
-
-### 2026-06-26 13:36:48  #市場
-
-【商業航天板塊再度拉昇，中國衛星漲停】商業航天板塊再度拉昇，中國衛星漲停，航天動力此前封板，電科藍天、上海瀚訊、廣聯航空漲超10%。
-
----
-
-### 2026-06-26 13:36:48  #MKT News #Important
-
-Taiwan's TAIEX fell 1,683.5 points, or 3.64%, to 44,571.76 at the close on Friday, June 26.
-
----
-
-### 2026-06-26 13:36:36  #公司 #國際
-
-【Anthropic進一步搶佔OpenAI市場份額：付費收入和使用者持續增長】美國頂尖人工智慧企業OpenAI與Anthropic之間的競爭日益激烈。據一份報告稱，Anthropic正在快速搶佔OpenAI的付費使用者市場份額。信用卡交易分析公司Indagari資料顯示，Anthropic旗艦模型Claude付費使用者和收入逐月增長，自2026年1月以來，該細分市場的收入增長了約75%。Indagari的資料來自2800萬美國消費者的數千億筆匿名信用卡交易記錄，覆蓋了2025年至2026年5月10日之間的每週交易。另一個AI線上教育平臺DataCamp也給出了類似的結論。其指出，平臺上的使用者今年對Claude的興趣呈爆炸式增長，Claude已經成為該網站上搜尋量最高的詞條，甚至超過了AI。
-
----
-
-### 2026-06-26 13:36:12  #市場
-
-ZALANDO股價在Tradegate平臺下跌14.3%，此前德國金融監管機構對ZALANDO 2025年賬目展開調查。
-
----
-
-### 2026-06-26 13:35:09  #其他
-
-臺灣證交所加權股價指數收低3.6%報44,571.76。
-
----
-
-### 2026-06-26 13:33:08  #MKT News #Macro & Rates #Market Regions #Europe & UK #EURUSD #Impact bullish #DXY #Impact bearish
-
-【Analyst: Limited scope for further decline in German 10-year bund yield】SEB chief strategist Jussi Hiljanen said in a note the rally in German government bonds may be near its end after the 10-year bund yield fell to about a multi-month low of 2.85%. He said a sustained move below 2.80% would require a clear dovish shift in the ECB policy outlook, which he judges premature. SEB expects the 10-year bund yield to recover to 2.90–3.00% ahead of the ECB meeting on July 23. Hiljanen added the longer-term trajectory will largely depend on whether markets begin to price further policy-rate cuts in 2027.
 
 ---

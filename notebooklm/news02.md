@@ -1,7 +1,133 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-06-29 06:31:53_
-_本檔包含 3653 則快訊，約 665043 字_
+_更新時間：2026-06-29 07:04:40_
+_本檔包含 3660 則快訊，約 666206 字_
+
+---
+
+### 2026-06-26 13:47:44  #市場 #焦點
+
+雞蛋連續主力合約日內跌2%，現報4292.00元。
+
+---
+
+### 2026-06-26 13:46:06  #其他
+
+臺灣長榮海運稱旗下一艘船在阿曼外海遭不明物體撞擊。
+
+---
+
+### 2026-06-26 13:45:24  #公司 #國際
+
+【印度對涉華熱敏紙啟動反傾銷調查】印度商工部發布公告稱，應印度國內行業協會Indian Association of Thermal Paper Manufacturers' & Allied Industries提交的申請，對原產於或進口自中國、美國和韓國的熱敏紙（Thermal Paper or Thermal Sensitive Paper）啟動反傾銷調查。本案主要涉及印度海關編碼48119093、48119094、48119095、48119096和48119099項下的產品以及48119011項下的部分產品。本案傾銷調查期為2025年1月1日至2025年12月31日（12個月），損害調查期為2022年至2023年、2023年至2024年、2024年至2025年以及2025年1月1日至2025年12月31日。
+
+---
+
+### 2026-06-26 13:44:40  #公司 #國際
+
+【印度對涉華雙向拉伸尼龍薄膜啟動反傾銷調查】近日，印度商工部發布公告稱，應印度國內企業JPFL Films Private Limited提交的申請，對原產於或進口自中國和泰國的雙向拉伸尼龍薄膜[Biaxially Oriented Polyamide (BOPA) Film]啟動反傾銷調查。涉案產品的印度海關編碼為39209219、39209299。涉案產品的厚度介於12微米至30微米。本案傾銷調查期為2025年1月1日至2025年12月31日（12個月），損害調查期為2022年至2023年、2023年至2024年、2024年至2025年以及2025年1月1日至2025年12月31日。
+
+---
+
+### 2026-06-26 13:44:24  #公司 #國際
+
+【印度對華裝飾紙啟動第一次反傾銷日落複審調查】印度商工部發布公告稱，應印度國內企業ITC Limited提交的申請，對原產於或進口自中國的裝飾紙（Decor Paper）啟動反傾銷調查。本案主要涉及印度海關編碼48059100項下的產品以及48022090項下的部分產品。本案傾銷調查期為2025年4月1日至2026年3月31日（12個月），損害調查期為2022年至2023年、2023年至2024年、2024年至2025年以及2025年4月1日至2026年3月31日。
+
+---
+
+### 2026-06-26 13:43:35  #公司 #國際
+
+【印度對涉華合金和非合金熱軋鋼板啟動反傾銷調查】6月25日，印度商工部發布公告稱，應印度國內企業JSW Steel Limited、JSW Vijaynagar Metallics Limited和Jindal Steel Odisha Limited 提交的申請，對原產於或進口自中國、日本和俄羅斯的合金和非合金熱軋鋼板啟動反傾銷調查。本案主要涉及印度海關編碼7208、7211、7225以及7226項下的產品。本案傾銷調查期為2025年1月1日至2025年12月31日（12個月），損害調查期為2022年4月1日至2023年3月31日、2023年4月1日至2024年3月31日、2024年4月1日至2025年3月31日以及2025年1月至2025年12月。
+
+---
+
+### 2026-06-26 13:43:18  #MKT News #Star Stocks #Amazon #Market Themes #Magnificent 7
+
+【Amazon Global Selling launches Latin America Fast-Track to support 3,000 Chinese brands in 2026】Amazon Global Selling has launched a Latin America Fast-Track program targeting 3,000 Chinese brands in 2026, offering one-stop support including assistance to register China-controlled local companies in Brazil, Mexico RFC tax-ID optimization, up to $12,000 registration subsidies, Amazon logistics fee waivers, and dedicated account managers to accelerate entry and expansion in Mexico and Brazil.
+
+---
+
+### 2026-06-26 13:42:51  #公司 #國際
+
+【印度對涉華透析器啟動反傾銷調查】6月25日，印度商工部發布公告稱，應印度國內企業Poly Medicure Limited提交的申請，對原產於或進口自中國和馬來西亞的透析器（Dialyzers）啟動反傾銷調查。本案主要涉及印度海關編碼90189031項下的產品。本案傾銷調查期為2025年1月1日至2025年12月31日（12個月），損害調查期為2022年4月1日至2023年3月31日、2023年4月1日至2024年3月31日、2024年4月1日至2025年3月31日以及2025年1月至2025年12月。
+
+---
+
+### 2026-06-26 13:42:26  #其他
+
+鎧俠股價一度大跌12%。
+
+---
+
+### 2026-06-26 13:41:31  #公司
+
+【海博思創等成立能源科技公司】企查查APP顯示，近日，北京海萬正規化能源科技有限公司成立，法定代表人為李楊，註冊資本為1000萬元，經營範圍包含：新材料技術推廣服務；儲能技術服務；太陽能發電技術服務；電池零配件銷售等。企查查股權穿透顯示，該公司由溫州寶耀正規化新能源科技有限公司、海博思創全資子公司河北雄安匯儲能源科技有限公司共同持股。
+
+---
+
+### 2026-06-26 13:40:25  #公司 #國際
+
+【亞馬遜全球開店推出“拉美速通計劃”，要扶持3000箇中國品牌深耕拉美】亞馬遜全球開店推出“拉美速通計劃”，在2026年內面向3000 箇中國品牌，提供包括巴西中方控股本土公司註冊協助、墨西哥最佳化RFC稅號解決方案、最高12,000美元註冊補貼、亞馬遜物流費用減免、客戶經理全程陪跑等在內的一站式拉美拓展方案，幫助中國品牌跨過拉美經營門檻，深耕墨西哥及巴西。
+
+---
+
+### 2026-06-26 13:39:23  #其他
+
+京東方Ａ成交額超300億元，現漲4.12%。
+
+---
+
+### 2026-06-26 13:38:27  #公司
+
+法國電力公司 EDF 承諾投入 8000 萬歐元用於學校和休閒中心的空氣冷卻系統升級。
+
+---
+
+### 2026-06-26 13:37:50  #MKT News #CSI300 #Impact bullish #SSE Composite
+
+A-share commercial aerospace sector rallied again; China Satellite hit the daily limit. Aerospace Power earlier sealed a limit-up; Shanghai Hanxun jumped >14%, CETC Lantian climbed >13%, Guanglian Aviation gained >10%.
+
+---
+
+### 2026-06-26 13:36:50  #MKT News
+
+【Analyst: US 10-year Treasury yield likely to lack clear trend】SEB chief strategist Jussi Hiljanen said in a note that as markets priced higher odds of a durable US–Iran peace the US 10-year Treasury yield rose to 4.40% and is likely to trade around that level over the coming months. “We expect the US 10-year yield to lack a clear trend in the coming months, trading mostly in a 4.30%–4.50% range,” he said. SEB said a durable Middle East settlement alone is unlikely to push UST yields into a sustained downtrend; that would require supportive macro data and explicit Fed policy communication.
+
+---
+
+### 2026-06-26 13:36:48  #市場
+
+【商業航天板塊再度拉昇，中國衛星漲停】商業航天板塊再度拉昇，中國衛星漲停，航天動力此前封板，電科藍天、上海瀚訊、廣聯航空漲超10%。
+
+---
+
+### 2026-06-26 13:36:48  #MKT News #Important
+
+Taiwan's TAIEX fell 1,683.5 points, or 3.64%, to 44,571.76 at the close on Friday, June 26.
+
+---
+
+### 2026-06-26 13:36:36  #公司 #國際
+
+【Anthropic進一步搶佔OpenAI市場份額：付費收入和使用者持續增長】美國頂尖人工智慧企業OpenAI與Anthropic之間的競爭日益激烈。據一份報告稱，Anthropic正在快速搶佔OpenAI的付費使用者市場份額。信用卡交易分析公司Indagari資料顯示，Anthropic旗艦模型Claude付費使用者和收入逐月增長，自2026年1月以來，該細分市場的收入增長了約75%。Indagari的資料來自2800萬美國消費者的數千億筆匿名信用卡交易記錄，覆蓋了2025年至2026年5月10日之間的每週交易。另一個AI線上教育平臺DataCamp也給出了類似的結論。其指出，平臺上的使用者今年對Claude的興趣呈爆炸式增長，Claude已經成為該網站上搜尋量最高的詞條，甚至超過了AI。
+
+---
+
+### 2026-06-26 13:36:12  #市場
+
+ZALANDO股價在Tradegate平臺下跌14.3%，此前德國金融監管機構對ZALANDO 2025年賬目展開調查。
+
+---
+
+### 2026-06-26 13:35:09  #其他
+
+臺灣證交所加權股價指數收低3.6%報44,571.76。
+
+---
+
+### 2026-06-26 13:33:08  #MKT News #Macro & Rates #Market Regions #Europe & UK #EURUSD #Impact bullish #DXY #Impact bearish
+
+【Analyst: Limited scope for further decline in German 10-year bund yield】SEB chief strategist Jussi Hiljanen said in a note the rally in German government bonds may be near its end after the 10-year bund yield fell to about a multi-month low of 2.85%. He said a sustained move below 2.80% would require a clear dovish shift in the ECB policy outlook, which he judges premature. SEB expects the 10-year bund yield to recover to 2.90–3.00% ahead of the ECB meeting on July 23. Hiljanen added the longer-term trajectory will largely depend on whether markets begin to price further policy-rate cuts in 2027.
 
 ---
 
@@ -21922,89 +22048,5 @@ Reserve Bank of India will conduct a four-day variable-rate repo (VRR) auction u
 ### 2026-06-25 11:56:20  #Trading Economics #Economy #Japan #Government Bond 10Y #Importance 1
 
 Japan 10-Year Yield Falls as Oil Prices Decline — Japan’s 10-year government bond yield fell roughly 5 basis points to 2.62% on Thursday, reaching its lowest level in a week as progress in US-Iran peace negotiations drove oil prices back to pre-conflict levels and eased inflation concerns. As a major importer of Middle Eastern oil, Japan remains particularly sensitive to geopolitical developments in the region. On the domestic front, Bank of Japan board member Naoki Tamura said the central bank should continue raising interest rates every few months, arguing that the policy rate should gradually approach a neutral level of around 2%. He added that inflationary pressures are likely to intensify regardless of Middle East developments, as higher import costs are expected to be passed on to consumers more rapidly and broadly than after Russia’s 2022 invasion of Ukraine, reflecting changes in corporate pricing behavior.
-
----
-
-### 2026-06-25 11:56:14  #觀點
-
-【國信證券6月醫藥行業投資策略：創新藥及產業鏈基本面向好】國信證券釋出研報稱，中國創新藥不僅連續在國際重要學術會議上讀出優秀的臨床資料，在海外的臨床開發同樣取得進展，即將進入在全球的商業化階段。中國CXO企業在人才紅利、化學能力、合規產能、智慧財產權保護方面具有綜合優勢。該行認為，中國企業在化學CDMO領域的核心行業地位5年內具備較強的不可替代性。此外，該行關注估值合理、邏輯改善的藥房板塊。
-
----
-
-### 2026-06-25 11:55:04  #公司
-
-【英力股份：公司暫未取得戴爾AIPC結構件訂單】英力股份6月25日在互動平臺表示，公司暫未取得戴爾AIPC結構件訂單；惠普的AIPC結構件，公司已開展樣品送樣認證工作，訂單尚未落地。
-
----
-
-### 2026-06-25 11:54:34  #公司
-
-【北緯科技：物聯網業務目前無AI玩具相關合作】北緯科技6月25日在互動平臺表示，公司物聯網業務目前無AI玩具相關合作。
-
----
-
-### 2026-06-25 11:53:47  #市場
-
-【6月25日午間漲停分析】創業板指半日漲超2%、科創50漲超4%，儲存晶片、半導體概念持續爆發，全市下跌個股4300只。興業科技5連板，宏柏新材3連板，一圖看懂>>
-
----
-
-### 2026-06-25 11:52:46  #公司
-
-【中國信通院人工智慧所聯合釋出《企業級智慧體技術與應用研究報告（2026年）》】6月24日，在第十四屆網際網路安全大會上，中國信通院人工智慧研究所聯合三六零安全科技股份有限公司共同釋出《企業級智慧體技術與應用研究報告（2026年）》。報告聚焦智慧體在企業級領域的應用研究，重點圍繞企業級智慧體的發展概述、技術能力、運營管理、應用實踐、趨勢展望五大篇章展開。透過梳理企業級智慧體技術與應用發展現狀，呈現行業應用成效，分析當前問題挑戰，旨在加速企業級智慧體規模化落地應用，促進產業發展。
-
----
-
-### 2026-06-25 11:52:38  #央行 #國際
-
-【西太平洋銀行下調紐西蘭利率峰值預期】紐西蘭央行上調官方隔夜拆款利率的幅度可能不及西太平洋銀行最初的預期。預期加息幅度較小是因為，伊朗衝突的儘早解決意味著通貨膨脹前景走弱以及經濟復甦提前。西太平洋銀行預計紐西蘭央行將從9月份開始上調官方隔夜拆款利率，但在2026年僅會再收緊一次政策。這一緊縮路徑意味著官方隔夜拆款利率將在2027年底達到4.0%的峰值，隨後在2028年底回落至3.75%的中性水平。西太平洋銀行此前曾預計官方隔夜拆款利率將在4.25%觸頂。西太平洋銀行表示：“我們的核心觀點意味著，今年的加息次數比我們最新預測的少一次，但比我們在衝突爆發前的預測多一次。”
-
----
-
-### 2026-06-25 11:52:27  #Trading Economics #Markets #India #Currency #Importance 1
-
-Rupee Rises on Falling Crude Prices — The Indian rupee strengthened to around 94.3 per dollar,reversing earlier losses and positioning for further gains as crude oil prices fell below levels seen before the Iran conflict. In the previous session, the rupee briefly neared the 95-per-dollar level before rebounding, supported by likely Reserve Bank of India intervention and comments from RBI Governor Sanjay Malhotra that weighed on forward premium levels. Support for the rupee was reinforced by a steep correction in global energy markets following the announcement of a 60-day negotiating period between the United States and Iran. The retreat in energy costs has eased worries about imported inflation for major oil-importing economies such as India. European natural gas prices have fallen about 45% from their wartime peak, while crude oil prices have declined roughly 40%. Brent crude has slipped below $80 per barrel, dropping beneath levels recorded before the Iran conflict escalated, and US crude is approaching the $70 mark.
-
----
-
-### 2026-06-25 11:52:06  #國際
-
-【建國慶典活動變競選式集會 特朗普再喊“美國回來了”】美國總統特朗普把他自己和他的政策描繪為美國未來偉大復興的關鍵，將一場與美國建國250週年慶典相關的活動變成了一場競選式的集會。“我非常高興地宣佈，美國回來了，”特朗普當地時間週三在華盛頓國家廣場上說道。這場臨時活動拉開了美國大州博覽會(Great American State Fair)的序幕，該博覽會將在華盛頓舉辦16天，作為週年慶典的一部分。特朗普試圖借美國建國250週年紀念之機，在政治上陷入困境、民調支援率接近歷史低點之際，提升自己的形象。此前，多名藝術家退出原定的系列音樂會，稱這些活動比他們預想的更具政治色彩。特朗普隨即著手在週三的慶祝活動中注入自己的元素。
-
----
-
-### 2026-06-25 11:51:17  #MKT News #Market Regions #Emerging Markets
-
-Thailand’s Ministry of Commerce said exports could increase 8% this year.
-
----
-
-### 2026-06-25 11:50:36  #公司
-
-【拉林鐵路開通運營5週年 累計運送旅客超625萬人次】從國鐵集團獲悉，6月25日，西藏首條電氣化鐵路——拉林鐵路開通運營滿五週年，累計運送旅客超625萬人次、貨物超200萬噸。
-
----
-
-### 2026-06-25 11:50:34  #MKT News #XAUUSD #Impact bullish #DXY
-
-【Trump says US ready to aid Venezuela after major earthquakes】Trump posted on social media that two major earthquakes have struck Venezuela, causing heavy casualties, and said the United States is prepared, willing and able to provide assistance. He has directed all government departments to be ready to act quickly; preliminary reports on the situation are not optimistic.
-
----
-
-### 2026-06-25 11:50:19  #其他
-
-【香港新一份施政報告29日展開公眾諮詢】香港特區行政長官李家超今日（25日）宣佈，新一份施政報告的公眾諮詢將從下週一（29日）起展開。
-
----
-
-### 2026-06-25 11:50:07  #公司
-
-【勝宏科技回應壓價：已量產高階PCB價格穩定 新產品遵循市場化定價原則】勝宏科技公告投資者關係活動記錄表，其中提到，目前公司已有部分ASIC相關PCB產品進行批次生產，業務進展順利。供需情況方面，勝宏科技表示，目前公司在手訂單飽滿，業務進展順利，訂單生產和交付均在正常履行中。從中期來看，高階產品的供給仍將處於相對緊張的狀態，下游有充足的需求消化新增產能。有投資者提問勝宏科技是否會被客戶壓價，公司表示，其前期量產高階產品原材料價格平穩，產品定價較為穩定，新產品定價遵循市場化定價原則，將根據具體產品料號的製造難度、市場供需、原材料價格波動情況等與客戶協商定價。
-
----
-
-### 2026-06-25 11:49:29  #公司
-
-【上海未來產業基金擬參與投資2只子基金】6月25日，根據上海未來產業基金公示，投資決策委員會近期審議透過擬參與投資以下2只子基金：上海清科致成創業投資合夥企業（有限合夥）（暫定名）、上海前瞻致行創業投資合夥企業（有限合夥）。
 
 ---

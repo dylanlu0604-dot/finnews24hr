@@ -1,7 +1,79 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-06-29 06:31:53_
-_本檔包含 3440 則快訊，約 665275 字_
+_更新時間：2026-06-29 07:04:40_
+_本檔包含 3433 則快訊，約 665187 字_
+
+---
+
+### 2026-06-23 08:47:40  #MKT News #Important #Market Regions #Greater China #CSI300 #Impact bullish #SSE Composite #SZSE Component
+
+【Margin financing across China's two exchanges rises CNY 29.02 bln】As of June 22, margin financing on the Shanghai Stock Exchange was CNY 1,505.56 bln, up CNY 10.37 bln from the previous trading day; on the Shenzhen Stock Exchange it was CNY 1,458.12 bln, up CNY 18.65 bln. Combined margin financing totaled CNY 2,963.68 bln, up CNY 29.02 bln day-on-day.
+
+---
+
+### 2026-06-23 08:47:26  #其他
+
+【兩市融資餘額增加290.19億元】截至6月22日，上交所融資餘額報15055.58億元，較前一交易日增加103.73億元；深交所融資餘額報14581.19億元，較前一交易日增加186.46億元；兩市合計29636.77億元，較前一交易日增加290.19億元。
+
+---
+
+### 2026-06-23 08:46:53  #國際
+
+【伊朗議會議長卡利巴夫表示霍爾木茲海峽將由伊朗管轄】據伊朗伊斯蘭共和國通訊社報道，伊朗議會議長卡利巴夫表示，霍爾木茲海峽再也回不到戰前狀態。加利巴夫剛結束在瑞士的會談返程，並表態：伊朗會遵守國際準則，但霍爾木茲海峽由伊朗負責管轄。
+
+---
+
+### 2026-06-23 08:45:21  #其他
+
+畢馬威澳大利亞董事長馬丁·謝潑德將辭職。（AFR）
+
+---
+
+### 2026-06-23 08:44:52  #MKT News #Market Regions #Europe & UK
+
+【Second EU–Moldova summit held in Brussels】Brussels, June 22 — The second EU–Moldova summit was held with European Council President Costa, European Commission President Von der Leyen and Moldovan President Sandu in attendance. The EU said it formally opened first-stage accession talks with Moldova a week earlier and described the summit as marking a new stage in the accession process. Leaders focused on next-phase work to integrate Moldova into the EU single market and policy framework and reviewed the Moldova Growth Plan and reform implementation. The EU said Moldova has received about €504 million in EU support to date.
+
+---
+
+### 2026-06-23 08:44:19  #國際
+
+【第二屆歐盟—摩爾多瓦峰會在布魯塞爾舉行】當地時間6月22日，第二屆歐盟—摩爾多瓦峰會在布魯塞爾舉行，歐洲理事會主席科斯塔、歐盟委員會主席馮德萊恩、摩爾多瓦總統桑杜等出席會議。歐盟在會後發表宣告稱，一週前，歐盟正式啟動與摩爾多瓦的首階段入盟談判，此次峰會標誌著摩爾多瓦加入歐盟程序邁入新的階段。與會領導人重點討論了摩爾多瓦入盟程序下一階段工作，以及如何進一步推動摩爾多瓦逐步融入歐盟單一市場和政策體系，並評估了摩爾多瓦增長計劃及相關改革措施落實情況。宣告還說，目前摩爾多瓦已經獲得歐盟約5.04億歐元的資金支援。
+
+---
+
+### 2026-06-23 08:44:18  #MKT News #Macro & Rates #The Fed (FOMC) #S&P500 #Impact bearish #XAUUSD
+
+【Morgan Stanley: liquidity squeeze, not rate hikes, is the near-term threat to US stocks】Morgan Stanley CIO and head US equity strategist Mike Wilson said liquidity, not rate hikes, is the primary near-term risk for US equities. He noted reserve-management programs are about 75% smaller than their peak and Treasury repo volumes have fallen roughly 50%, tightening market liquidity. Accelerating loan growth is worsening the squeeze as the real economy absorbs more capital while balance-sheet support recedes. Wilson expects US equities to be volatile in July and possibly pull back; a next earnings-driven leg up may be delayed until liquidity headwinds ease. He said last week's FOMC under Fed Chair Kevin Warsh was a necessary step to rebuild Fed credibility and that the S&P 500/gold ratio has risen about 40% since Warsh's February nomination, signaling market confidence. Wilson backed Warsh's move to reduce heavy forward guidance, saying markets should react to incoming data rather than try to pre-empt Fed remarks.
+
+---
+
+### 2026-06-23 08:44:02  #宏觀
+
+【今年前5個月全國財政收支“成績單”反映什麼 專家解讀】昨天（22日），財政部發布了今年1-5月的全國財政收支執行情況，資料顯示，前五個月，全國一般公共預算收入超過10萬億元。中央財經大學財稅學院教授白彥鋒：這次的財政收入資料改善，是中央到地方，財政到經濟全方位全面改善，這還是非常可喜的，財政收支的緊平衡的狀態得到了非常大的緩解。稅收收入的增速超過一般公共預算的增速，也就是稅收佔比在提高。這其實體現的是財政收入質量在改善，另外反映了經濟增長的潛質得到進一步的釋放和提升。從主體稅種來看，1-5月，受工業服務業持續增長、工業生產者出廠價格上行等帶動，國內增值稅增長6.2%，增幅連續4個月提高。增值稅和國民經濟、工業生產以及服務消費都是密切相關的，這是稅收收入中的主體稅種，也反映了經濟的壓艙石在不斷改善。（央視）
+
+---
+
+### 2026-06-23 08:42:46  #國際
+
+【日方飛機多次滋擾我調查船 我方向日方喊話】6月16日至18日，自然資源部東海局“向陽紅22”船在我國臺灣島以東海域開展了海洋環境調查。 記者注意到，此次中方實施的海洋環境調查活動海域，包括了日菲勾連提出的非法無效主張海域。 自然資源部東海生態中心副主任，航次領隊時俊稱，“在調查期間，6月17日上午以及6月18日下午，日方派出飛機兩次近距離繞船盤旋。” 而對於日方的滋擾，“向陽紅22”號船也以喊話的方式宣告立場，“這裡是中國管轄海域，請不要干擾我方正常作業，保持安全距離。” （環球時報）
+
+---
+
+### 2026-06-23 08:41:14  #宏觀 #市場 #國際
+
+【日本干預匯市的風險上升 先前傳出日、美財長舉行線上會議】在日元進一步走軟，且傳出日本財務大臣片山皋月與美國財政部長斯科特·貝森特舉行線上會議的報道，外匯交易員正高度警戒日本當局可能進場干預匯市。週二上午，日元兌美元匯率約為161.57，接近40年來的最低水準。NHK和共同社報道，片山和貝森特可能討論了匯率問題。
+
+---
+
+### 2026-06-23 08:39:54  #公司
+
+【中航光電：興航光電目前沒有面向800G、1.6T等產品開發計劃】中航光電(002179)在互動平臺表示，公司合營企業興航光電主要負責特種封裝光模組研製，面向各種耐高溫及複雜機械效能等特種應用環境，目前沒有面向800G、1.6T等產品開發計劃。
+
+---
+
+### 2026-06-23 08:39:54  #Trading Economics #Economy #Japan #Services PMI #Importance 1
+
+Japan Services Sector Returns to Growth in June — Japan’s S&P Global Flash Services PMI Business Activity Index rose to 51.8 in June 2026 from 50.0 in the previous month, flash estimates showed. The reading signaled a renewed expansion in the services sector after activity stagnated in the previous month, supported by stronger demand conditions, with service providers reporting a firmer increase in new business. Despite the improvement in domestic demand, foreign sales remained under pressure, as service firms continued to report a marked decline in export business. Rising workloads led to a further accumulation of outstanding business, encouraging companies to increase staffing levels. Looking ahead, optimism softened, with firms citing concerns over inflation, labor shortages, and supply-chain disruptions linked to the Middle East conflict. Meanwhile, elevated cost pressures persisted, prompting businesses to pass higher expenses on to clients through further price increases.
 
 ---
 
@@ -20661,141 +20733,5 @@ Spot silver hit $65/oz, up 0.29% intraday.
 ### 2026-06-22 07:06:08  #國際
 
 【美伊談判暫停 特朗普威脅言論引發伊代表團離場抗議】美國和伊朗代表團21日在瑞士比爾根山舉行談判。伊朗方面釋出訊息稱，談判並沒有討論伊朗核計劃問題，優先處理與黎巴嫩相關的議題。美總統特朗普當天就黎巴嫩問題發文威脅伊朗，警告伊朗立即停止在黎巴嫩的“代理人”行動，否則美將再次猛烈打擊伊朗。隨後，伊朗代表團就特朗普上述言論提出抗議，同時離開會場，暫停談判，轉向內部磋商。（央視）
-
----
-
-### 2026-06-22 07:04:32  #公司 #國際
-
-韓國電力公司宣佈第三季度電價保持不變。
-
----
-
-### 2026-06-22 07:03:17  #其他
-
-【注意防範暴雨、強對流天氣，中央氣象臺釋出預警】據中央氣象臺訊息，6月22日8時至23日8時，我國部分地區有大到暴雨，局地有雷暴大風或冰雹等強對流天氣。預計，6月22日8時至23日8時，貴州中部和東部、重慶東南部、湖南中北部、湖北東部、江西北部、安徽南部、江蘇南部、浙江北部、上海以及廣西北部、雲南西部和東北部、四川東北部和東南部、河北西北部、內蒙古東北部、西藏東南部等地部分地區有大到暴雨，其中，貴州中部和東部、湖南西部、江西北部、江蘇南部等地的部分地區有大暴雨（100～230毫米）。
-
----
-
-### 2026-06-22 07:02:00  #宏觀
-
-【今天15點，將舉行重要釋出會】國務院新聞辦公室將於2026年6月22日（星期一）下午3時舉行新聞釋出會，請商務部副部長兼國際貿易談判副代表凌激和國家發展改革委、財政部有關負責人介紹利用外資固穩促優有關政策措施。（央視）
-
----
-
-### 2026-06-22 07:01:52  #MKT News
-
-【State Council press briefing 15:00 today on measures to stabilize and optimize foreign investment】The State Council Information Office will hold a press briefing at 15:00 on Monday, June 22, 2026. MOFCOM vice minister and deputy international trade representative Ling Ji, together with officials from the NDRC and the Ministry of Finance, will outline policy measures to leverage foreign investment to stabilize activity and improve investment quality.
-
----
-
-### 2026-06-22 07:00:58  #其他
-
-【新型量子感測裝置能有效抵消鐳射噪聲】據最新一期《自然》雜誌報道，英國帝國理工學院研究團隊構建了一種新型量子感測裝置，首次在實驗中驗證了長基線原子干涉儀的關鍵工作原理。該裝置能夠有效抵消鐳射噪聲，即使單次測量完全被噪聲淹沒，也能恢復出微弱訊號。這一成果解決了尋找暗物質和引力波的重大難題，是邁向未來大型基礎物理量子感測器的重要里程碑。
-
----
-
-### 2026-06-22 07:00:43  #其他
-
-【人體蛋白質“高精地圖”繪製成功】從西湖大學獲悉，該校醫學院郭天南教授團隊聯合多家科研單位，收集了近3000份人體組織樣本，覆蓋58種正常組織、25種癌症型別，對超過1.3萬種蛋白質進行定量分析，成功繪製出迄今解析度最高、覆蓋範圍最廣的人體蛋白質組空間圖譜。相關成果日前在《自然》雜誌刊發。目前，這項研究的所有資料已透過公開資料庫向全球開放。
-
----
-
-### 2026-06-22 06:58:53  #Trading Economics #Markets #New Zealand #Stock Market #Importance 1
-
-NZX 50 Extends Gains on Consumer Staples Boost — The NZX 50 climbed 54 points, or 0.4%, to 13,549 in Monday morning trade, extending gains from the prior session, mainly supported by advances in consumer staples, materials, and healthcare stocks. Consumer staples surged 5.6%, boosted by a jump in A2 Milk, which soared 11.1% after the company received highly coveted regulatory approval from China to produce infant formula at Pokeno. The broader index hit its highest level since March 4, extending its second weekly rise as last week's data continued to support sentiment. New Zealand's GDP growth accelerated to 0.8% qoq in Q1, while annual growth held steady at 1.5%. However, a decline in US futures capped the gains, as President Trump's threats to restart the war with Iran, even as Vice President JD Vance met with Iranian officials for the first talks under an interim peace deal, weighed on sentiment. Other early gainers included Gentrack Group (2.1%), AFT Pharmaceuticals (1.9%), F&C Investment Trust (1.7%), and Fisher & Paykel (0.9%).
-
----
-
-### 2026-06-22 06:58:32  #國際
-
-伊朗隊主帥稱，本屆世界盃不敗開局將被載入史冊。
-
----
-
-### 2026-06-22 06:58:08  #國際
-
-市場資訊：日本擬到2040年在17個戰略領域投資約2.3萬億美元。
-
----
-
-### 2026-06-22 06:56:19  #宏觀
-
-除了頭版內容，今天《人民日報》涉及財經的主要內容還包括：
-1、超一千二百家企業齊聚第四屆鏈博會 連結世界 共創未來
-2、5月中國快遞發展指數為472.9 行業規模持續擴容
-3、前5月國家鐵路傳送貨物16.7億噸 同比增長1.8%
-4、中國品牌汽車在厄瓜多表現亮眼
-5、三部門公佈《網路資料安全風險評估辦法》
-6、消費平穩增長態勢沒有變
-7、四部門印發通知 推動海洋經濟領域就業穩崗擴容提質
-8、市場監管總局出臺通知 加強眼鏡制配場所全鏈條計量監管
-9、存在未公開個人資訊收集使用規則等問題 30款APP被通報
-10、北京交通行業車輛新能源化率達48% 中心城區綠色出行比例達76.5%
-11、上海碳普惠平臺一年碳減排量超33萬噸 已累計開設個人碳賬戶約45萬個。
-
----
-
-### 2026-06-22 06:56:11  #宏觀 #焦點
-
-今天《人民日報》頭版的主要內容有：
-1、“必須把我們黨建設好、建設強”（總書記的人民情懷）
-2、各地區各部門各單位深入開展學習教育——把政績刻在群眾心坎上（樹立和踐行正確政績觀）
-3、重慶涪陵因地制宜做強做優特色產業
-4、陝西榆林全面改善生態環境質量 紅色基因永傳承 綠色發展繪新篇（老區新事）
-5、端午假期 全社會跨區域人員流動量預計超6.5億人次
-6、端午假期 全國消費市場執行平穩。
-
----
-
-### 2026-06-22 06:49:48  #國際
-
-【經濟日報金觀平：攜手共促全球產業鏈供應鏈合作】6月22日，主題為“連結世界、共創未來”的第四屆中國國際供應鏈促進博覽會於北京開幕。來自85個國家、地區和國際組織的676家中外鏈主企業、專精特新企業和行業機構攜手產供鏈上下游合作伙伴參展。外資參展商比例達到36.5%，世界500強及行業龍頭企業參展佔比超過65%。參展熱情空前高漲，一方面凸顯全球產業鏈供應鏈合作的強大需求；另一方面也表明我國作為全球產業鏈供應鏈的重要環節，一直以實際行動為深化全球產業鏈供應鏈合作、構建開放型世界經濟貢獻力量。
-
----
-
-### 2026-06-22 06:46:59  #MKT News
-
-【Israeli media: Israel considering 'small-scale' pullback from southern Lebanon】Channel 12 reported on the evening of the 21st that Israel is considering a 'small-scale' pullback from southern Lebanon. Israeli political and security leadership held consultations over the past 24 hours and have been communicating with the US at multiple levels. Citing senior officials, the report said Israel has not received any US request to withdraw forces from southern Lebanon, but is studying limited withdrawals from areas beyond the Blue Line currently held by the IDF. The report added US pressure has raised the likelihood of an IDF pullback, while Israel stressed its bottom line is to remain within the Blue Line.
-
----
-
-### 2026-06-22 06:46:24  #國際
-
-【以媒：以色列正考慮從黎巴嫩南部“小規模撤軍”】以色列第12頻道電視臺網站21日晚報道說，以色列正在考慮從黎巴嫩南部“小規模撤軍”。報道稱，以色列政治高層和安全系統在過去24小時內舉行了一系列磋商，以色列與美國也在“各個層級”進行了溝通。報道援引知情高階官員的話說，以方目前尚未收到任何美方要求以軍撤出黎巴嫩南部的請求，但以方正在研究從一些位於“黃線”以外、目前由以軍控制的區域實施“小規模撤離”。（新華社）
-
----
-
-### 2026-06-22 06:44:58  #國際
-
-特朗普將於週一下午3點30分簽署行政令。
-
----
-
-### 2026-06-22 06:40:46  #市場
-
-【私募備案高位分化，兩類權益策略潛力可觀】今年以來，A股市場震盪走強，以AI為代表的科技主線顯現強勁的賺錢效應。這股暖流直接傳導至產品發行端，證券私募行業的新產品備案表現出顯著的高熱態勢。然而，總量的繁榮之下，行業競爭格局正在重塑。當頭部機構憑藉穩健收益大舉跑馬圈地時，不少中小機構的產品募資不盡如人意。股票策略與多資產策略成為今年新產品發行的兩大主力軍，多位業內人士表示，這兩類策略下半年的新產品增長潛力預計較為可觀。（中證報）
-
----
-
-### 2026-06-22 06:39:48  #公司
-
-【年內2297家上市公司合計分紅派現近7000億元】A股市場正迎來年度分紅的集中落地高峰。資料顯示，截至6月21日，滬深兩市已有2297家上市公司完成2025年度現金分紅，累計派發金額達6972.65億元。 (證券日報)
-
----
-
-### 2026-06-22 06:37:59  #國際
-
-烏克蘭敖德薩州州長：俄羅斯使用導彈發動襲擊，造成1人死亡、3人受傷。
-
----
-
-### 2026-06-22 06:32:15  #資料 #央行 #國際
-
-【週一重要財經資訊提醒（以下均為北京時間）】 
-① 09:00 中國6月貸款市場報價利率(LPR)；
-② 15:00 國新辦就利用外資固穩促優有關政策措施舉行新聞釋出會；
-③ 17:00 歐洲央行管委科赫爾發表講話；
-④ 20:30 加拿大5月CPI，歐洲央行行長拉加德發表講話；
-⑤ 22:00 歐元區6月消費者信心指數初值。
 
 ---

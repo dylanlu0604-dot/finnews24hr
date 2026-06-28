@@ -1,7 +1,169 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-06-29 06:31:53_
-_本檔包含 3521 則快訊，約 665629 字_
+_更新時間：2026-06-29 07:04:40_
+_本檔包含 3536 則快訊，約 665262 字_
+
+---
+
+### 2026-06-24 10:03:28  #兩會
+
+【河南省政協人口資源環境委員會原主任闞全程被雙開】中央紀委國家監委網站通報，據河南省紀委監委訊息：經中共河南省委批准，河南省紀委監委對河南省政協人口資源環境委員會原主任闞全程嚴重違紀違法問題進行了立案審查調查。經查，闞全程喪失理想信念，背棄初心使命，對抗組織審查；無視中央八項規定精神，接受可能影響公正執行公務的宴請；違背組織原則，在組織談話函詢時不如實說明問題，在幹部選拔任用等工作中為他人謀取利益並收受財物；廉潔底線失守，違規收受禮品、消費卡；大搞權錢交易，利用職務便利為他人在藥品銷售、器械採購、工程承攬、職工錄用等方面謀取利益，非法收受鉅額財物。闞全程嚴重違反黨的政治紀律、組織紀律、廉潔紀律和生活紀律，構成嚴重職務違法並涉嫌受賄犯罪，且在黨的十八大後不收斂、不收手，性質嚴重，影響惡劣，應予嚴肅處理。依據《中國共產黨紀律處分條例》《中華人民共和國監察法》《中華人民共和國公職人員政務處分法》等有關規定，經河南省紀委常委會會議、河南省委常委會會議討論，並經中央紀委常委會會議研究報中共中央批准，決定給予闞全程開除黨籍處分；由河南省監委給予其開除公職處分；終止其中國共產黨第二十次全國代表大會代表、中國共產黨河南省第十一次代表大會代表資格；收繳其違紀違法所得；將其涉嫌犯罪問題移送檢察機關依法審查起訴，所涉財物一併移送。給予其開除黨籍的處分，待召開河南省委全會時予以追認。
+
+---
+
+### 2026-06-24 10:02:51  #MKT News
+
+【Pakistan PM says will join Iran to resist forces seeking to undermine regional peace】On June 23 in Islamabad, Pakistani Prime Minister Shehbaz Sharif said after talks with Iranian President Pezeshkian that Pakistan and Iran will build an "iron wall" to jointly resist any forces attempting to undermine regional peace and are determined to thwart efforts to derail the peace process. Sharif called the talks productive and friendly, welcomed last week’s US‑Iran memorandum of understanding, and said he will visit Tehran next week.
+
+---
+
+### 2026-06-24 10:02:46  #市場 #國際
+
+印尼股市基準指數上漲1%至6160.85點。
+
+---
+
+### 2026-06-24 10:02:23  #MKT News #Macro & Rates #Treasury Yields #USDJPY #Impact bearish #DXY
+
+Japan 30-year government bond yield rose 2.0 bps to 3.860%.
+
+---
+
+### 2026-06-24 10:01:50  #MKT News #Market Regions #Greater China #CSI300 #Impact bullish #Hang Seng Index
+
+China's STAR 50 index rose more than 2%; Ailisi jumped over 9% to lead gains among constituents.
+
+---
+
+### 2026-06-24 10:01:44  #市場 #國際
+
+印尼盾兌美元匯率在早盤交易中跌至17,920，此前MSCI延長了對印尼盾的審查期限。
+
+---
+
+### 2026-06-24 10:01:28  #市場 #焦點
+
+南向資金淨買入額達10億港元。
+
+---
+
+### 2026-06-24 10:01:17  #市場 #國際
+
+印尼股市基準指數開盤上漲0.4%，至6128.27點。
+
+---
+
+### 2026-06-24 10:00:53  #MKT News #Market Regions #Greater China
+
+China A-share property sector weakened: Shenshenfang A hit limit-down, Tiandiyuan fell over 9%, while Hefei Urban Construction, Jintou Chengkai, Dalong Real Estate and Worldunion also declined.
+
+---
+
+### 2026-06-24 10:00:28  #市場
+
+【電子布、銅箔等PCB上游方向持續拉昇，國際復材創新高】電子布、銅箔等PCB上游方向持續拉昇，國際復材漲超13%創新高，中國巨石觸及漲停，銅冠銅箔、宏和科技、中材科技漲幅居前。
+
+---
+
+### 2026-06-24 10:00:21  #其他
+
+國家國防科技工業局黨組成員、副局長卞志剛涉嫌嚴重違紀違法，目前正接受中央紀委國家監委紀律審查和監察調查。（央視新聞）
+
+---
+
+### 2026-06-24 10:00:11  #MKT News #000660.KS #Impact bearish
+
+【S. Korean report: SK Hynix to pursue US ADR offering; size could reach $26 bln】SK Hynix is expected to file documents with Korean financial regulators to advance a planned US ADR offering, the Korea Economic Daily reports. Earlier reports cited a potential $10 bln raise, but based on the company's post-rally market value industry estimates put the maximum at about 40 trillion won (~$26 bln); final size remains undecided. SK Hynix plans to issue shares in Korea and deposit them with the Korea Securities Depository as the ADRs' underlying securities. Korean regulatory review could finish by July 3, potentially allowing ADR trading to begin as soon as next month.
+
+---
+
+### 2026-06-24 10:00:10  #國際
+
+【塞瓦斯托波爾遭烏襲擊後斷電】黑海港口城市塞瓦斯托波爾市市長拉茲沃扎耶夫今天（6月24日）證實，該市遭烏克蘭襲擊後斷電。拉茲沃扎耶夫在社交媒體上發訊息稱，防空系統在塞瓦斯托波爾——這座克里米亞地區最大城市上空擊落了9架無人機。（CCTV國際時訊）
+
+---
+
+### 2026-06-24 09:59:28  #公司 #市場
+
+【PCB概念集體反彈 中國巨石觸及漲停續創歷史新高】PCB概念集體反彈，玻纖、銅箔方向領漲，中國巨石觸及漲停，國際復材漲超10%，續創歷史新高，此前滿坤科技20cm漲停，亨通股份、華正新材、平安電工、銅冠銅箔等跟漲。
+
+---
+
+### 2026-06-24 09:58:57  #市場 #焦點
+
+滬深兩市成交額超1萬億元，較上日此時縮量2231億元。
+
+---
+
+### 2026-06-24 09:58:32  #央行 #市場 #國際
+
+【馬來西亞央行承諾採取更有力措施促進資金流入】6月24日，馬來西亞央行發表宣告表示，將加大力度鼓勵外匯流入，包括努力促進企業海外收益的匯回和兌換，該國穩健的經濟基本面將繼續支撐林吉特。宣告發布後，林吉特小幅收窄跌幅，兌美元匯率基本持平於4.1423。林吉特6月下跌4.30%，成為亞洲表現最差的貨幣。
+
+---
+
+### 2026-06-24 09:58:28  #MKT News #02513.HK #Impact bullish
+
+Zhipu (02513.HK) rose more than 10% on trading turnover of nearly HK$1.7 billion.
+
+---
+
+### 2026-06-24 09:58:25  #其他
+
+智譜(02513.HK)漲超10%，成交額近17億港元。
+
+---
+
+### 2026-06-24 09:58:13  #公司 #觀點
+
+【高盛將立訊精密目標價翻倍至106元 因資料中心等業務預計將強勁增長】高盛將立訊精密12個月的目標價由50.15元人民幣大幅上調至106元人民幣，以反映該行對資料中心業務的強勁增長、汽車電子業務及海外OEM（原始裝置製造商）客戶擴張等趨勢的預期。分析師Verena Jeng等分析師在報告中表示，預計立訊精密2025-2028年收入複合年增長率(CAGR)為22%，因其擁有兼具效能與成本優勢的定製化材料等優勢。預計同期電信與資料中心業務的CAGR將達到67%，到2028年將佔到總營收的19%。將立訊精密2026/2027年盈利預測分別上調8%/27%，主要反映更高收入，毛利率略降，且公司在元件業務領域增長。
+
+---
+
+### 2026-06-24 09:57:59  #市場 #焦點
+
+三大指數低開高走全線翻紅。
+
+---
+
+### 2026-06-24 09:57:33  #MKT News #Important
+
+China A-shares' three major indices turned positive; ChiNext Index rose 0.74% and the Shenzhen Composite Index rose 0.35%.
+
+---
+
+### 2026-06-24 09:56:57  #MKT News
+
+China's CSI 500 index futures (IC) most-active contract rose 1.00% intraday to 8,513.0 points.
+
+---
+
+### 2026-06-24 09:56:24  #其他
+
+【冶金工業規劃研究院副院長管志傑一行來撫順特鋼交流】據撫順特鋼訊息，6月22日，冶金工業規劃研究院副院長管志傑一行8人來到撫順特鋼，就產業政策、能源、環保、低碳、數智賦能、物流降本六大核心領域開展專題政策宣講與交流座談。雙方就特鋼行業高質量發展、政策落地實施及企業重點工作等進行了深入研討。
+
+---
+
+### 2026-06-24 09:56:18  #MKT News
+
+STAR 50 Index rose 1%. Among constituents, Geke Microelectronics jumped about 9% and Semiconductor Manufacturing International Corp (SMIC) gained over 3%.
+
+---
+
+### 2026-06-24 09:55:36  #市場 #焦點
+
+科創50日內漲幅達1.02%，成分股中，格科微漲8.54%，艾力斯漲8.01%，中科飛測漲6.56%，華虹宏力漲5.04%。
+
+---
+
+### 2026-06-24 09:55:32  #國際
+
+韓國總統政策室長：韓國必須採取特別措施擴大住房供應。
+
+---
+
+### 2026-06-24 09:53:42  #公司 #國際
+
+【韓國總統政策室長：三星與SK海力士新晶片叢集規劃進入收尾階段】韓國總統辦公室政策室長金容範6月24日表示，三星電子和SK海力士建立新半導體叢集的計劃已進入最後討論階段，一旦最終敲定將正式向大眾公佈。金容範指出，由於人工智慧（AI）行業對晶片的需求呈現“爆發式增長”，兩家公司現有的龍仁半導體叢集建設程序將大幅提前。其中，SK海力士計劃在龍仁建設四座晶圓廠，目前正討論將第四座工廠的完工時間從原定的2044年大幅提前至2034年。
 
 ---
 
@@ -21171,77 +21333,5 @@ Eide Bailly將以18億美元的價格向私募股權公司出售股份。
 ### 2026-06-23 08:49:01  #Trading Economics #Markets #Japan #Stock Market #Importance 2
 
 Japanese Shares Retreat on Profit Taking — The Nikkei 225 Index fell 0.6% to below 72,000, while the broader Topix Index declined 0.5% to 7,073 on Tuesday, with both benchmarks pulling back from record highs as investors took profits following a strong rally in semiconductor and artificial intelligence-related stocks. Japanese equities also mirrored overnight weakness on Wall Street, where major US technology stocks came under pressure. Meanwhile, investors drew encouragement from signs of progress in ongoing US-Iran negotiations after Washington granted Tehran a 60-day license to sell oil on international markets, fueling expectations of a faster recovery in global supply. Among individual movers, SoftBank Group dropped 5.8%, JX Advanced Metals fell 3.1%, Furukawa Electric lost 4.6%, Taiyo Yuden declined 1.7%, and Murata Manufacturing slipped 3.9%.
-
----
-
-### 2026-06-23 08:47:40  #MKT News #Important #Market Regions #Greater China #CSI300 #Impact bullish #SSE Composite #SZSE Component
-
-【Margin financing across China's two exchanges rises CNY 29.02 bln】As of June 22, margin financing on the Shanghai Stock Exchange was CNY 1,505.56 bln, up CNY 10.37 bln from the previous trading day; on the Shenzhen Stock Exchange it was CNY 1,458.12 bln, up CNY 18.65 bln. Combined margin financing totaled CNY 2,963.68 bln, up CNY 29.02 bln day-on-day.
-
----
-
-### 2026-06-23 08:47:26  #其他
-
-【兩市融資餘額增加290.19億元】截至6月22日，上交所融資餘額報15055.58億元，較前一交易日增加103.73億元；深交所融資餘額報14581.19億元，較前一交易日增加186.46億元；兩市合計29636.77億元，較前一交易日增加290.19億元。
-
----
-
-### 2026-06-23 08:46:53  #國際
-
-【伊朗議會議長卡利巴夫表示霍爾木茲海峽將由伊朗管轄】據伊朗伊斯蘭共和國通訊社報道，伊朗議會議長卡利巴夫表示，霍爾木茲海峽再也回不到戰前狀態。加利巴夫剛結束在瑞士的會談返程，並表態：伊朗會遵守國際準則，但霍爾木茲海峽由伊朗負責管轄。
-
----
-
-### 2026-06-23 08:45:21  #其他
-
-畢馬威澳大利亞董事長馬丁·謝潑德將辭職。（AFR）
-
----
-
-### 2026-06-23 08:44:52  #MKT News #Market Regions #Europe & UK
-
-【Second EU–Moldova summit held in Brussels】Brussels, June 22 — The second EU–Moldova summit was held with European Council President Costa, European Commission President Von der Leyen and Moldovan President Sandu in attendance. The EU said it formally opened first-stage accession talks with Moldova a week earlier and described the summit as marking a new stage in the accession process. Leaders focused on next-phase work to integrate Moldova into the EU single market and policy framework and reviewed the Moldova Growth Plan and reform implementation. The EU said Moldova has received about €504 million in EU support to date.
-
----
-
-### 2026-06-23 08:44:19  #國際
-
-【第二屆歐盟—摩爾多瓦峰會在布魯塞爾舉行】當地時間6月22日，第二屆歐盟—摩爾多瓦峰會在布魯塞爾舉行，歐洲理事會主席科斯塔、歐盟委員會主席馮德萊恩、摩爾多瓦總統桑杜等出席會議。歐盟在會後發表宣告稱，一週前，歐盟正式啟動與摩爾多瓦的首階段入盟談判，此次峰會標誌著摩爾多瓦加入歐盟程序邁入新的階段。與會領導人重點討論了摩爾多瓦入盟程序下一階段工作，以及如何進一步推動摩爾多瓦逐步融入歐盟單一市場和政策體系，並評估了摩爾多瓦增長計劃及相關改革措施落實情況。宣告還說，目前摩爾多瓦已經獲得歐盟約5.04億歐元的資金支援。
-
----
-
-### 2026-06-23 08:44:18  #MKT News #Macro & Rates #The Fed (FOMC) #S&P500 #Impact bearish #XAUUSD
-
-【Morgan Stanley: liquidity squeeze, not rate hikes, is the near-term threat to US stocks】Morgan Stanley CIO and head US equity strategist Mike Wilson said liquidity, not rate hikes, is the primary near-term risk for US equities. He noted reserve-management programs are about 75% smaller than their peak and Treasury repo volumes have fallen roughly 50%, tightening market liquidity. Accelerating loan growth is worsening the squeeze as the real economy absorbs more capital while balance-sheet support recedes. Wilson expects US equities to be volatile in July and possibly pull back; a next earnings-driven leg up may be delayed until liquidity headwinds ease. He said last week's FOMC under Fed Chair Kevin Warsh was a necessary step to rebuild Fed credibility and that the S&P 500/gold ratio has risen about 40% since Warsh's February nomination, signaling market confidence. Wilson backed Warsh's move to reduce heavy forward guidance, saying markets should react to incoming data rather than try to pre-empt Fed remarks.
-
----
-
-### 2026-06-23 08:44:02  #宏觀
-
-【今年前5個月全國財政收支“成績單”反映什麼 專家解讀】昨天（22日），財政部發布了今年1-5月的全國財政收支執行情況，資料顯示，前五個月，全國一般公共預算收入超過10萬億元。中央財經大學財稅學院教授白彥鋒：這次的財政收入資料改善，是中央到地方，財政到經濟全方位全面改善，這還是非常可喜的，財政收支的緊平衡的狀態得到了非常大的緩解。稅收收入的增速超過一般公共預算的增速，也就是稅收佔比在提高。這其實體現的是財政收入質量在改善，另外反映了經濟增長的潛質得到進一步的釋放和提升。從主體稅種來看，1-5月，受工業服務業持續增長、工業生產者出廠價格上行等帶動，國內增值稅增長6.2%，增幅連續4個月提高。增值稅和國民經濟、工業生產以及服務消費都是密切相關的，這是稅收收入中的主體稅種，也反映了經濟的壓艙石在不斷改善。（央視）
-
----
-
-### 2026-06-23 08:42:46  #國際
-
-【日方飛機多次滋擾我調查船 我方向日方喊話】6月16日至18日，自然資源部東海局“向陽紅22”船在我國臺灣島以東海域開展了海洋環境調查。 記者注意到，此次中方實施的海洋環境調查活動海域，包括了日菲勾連提出的非法無效主張海域。 自然資源部東海生態中心副主任，航次領隊時俊稱，“在調查期間，6月17日上午以及6月18日下午，日方派出飛機兩次近距離繞船盤旋。” 而對於日方的滋擾，“向陽紅22”號船也以喊話的方式宣告立場，“這裡是中國管轄海域，請不要干擾我方正常作業，保持安全距離。” （環球時報）
-
----
-
-### 2026-06-23 08:41:14  #宏觀 #市場 #國際
-
-【日本干預匯市的風險上升 先前傳出日、美財長舉行線上會議】在日元進一步走軟，且傳出日本財務大臣片山皋月與美國財政部長斯科特·貝森特舉行線上會議的報道，外匯交易員正高度警戒日本當局可能進場干預匯市。週二上午，日元兌美元匯率約為161.57，接近40年來的最低水準。NHK和共同社報道，片山和貝森特可能討論了匯率問題。
-
----
-
-### 2026-06-23 08:39:54  #公司
-
-【中航光電：興航光電目前沒有面向800G、1.6T等產品開發計劃】中航光電(002179)在互動平臺表示，公司合營企業興航光電主要負責特種封裝光模組研製，面向各種耐高溫及複雜機械效能等特種應用環境，目前沒有面向800G、1.6T等產品開發計劃。
-
----
-
-### 2026-06-23 08:39:54  #Trading Economics #Economy #Japan #Services PMI #Importance 1
-
-Japan Services Sector Returns to Growth in June — Japan’s S&P Global Flash Services PMI Business Activity Index rose to 51.8 in June 2026 from 50.0 in the previous month, flash estimates showed. The reading signaled a renewed expansion in the services sector after activity stagnated in the previous month, supported by stronger demand conditions, with service providers reporting a firmer increase in new business. Despite the improvement in domestic demand, foreign sales remained under pressure, as service firms continued to report a marked decline in export business. Rising workloads led to a further accumulation of outstanding business, encouraging companies to increase staffing levels. Looking ahead, optimism softened, with firms citing concerns over inflation, labor shortages, and supply-chain disruptions linked to the Middle East conflict. Meanwhile, elevated cost pressures persisted, prompting businesses to pass higher expenses on to clients through further price increases.
 
 ---

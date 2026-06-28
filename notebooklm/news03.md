@@ -1,7 +1,91 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-06-29 06:31:53_
-_本檔包含 3806 則快訊，約 665628 字_
+_更新時間：2026-06-29 07:04:40_
+_本檔包含 3793 則快訊，約 664885 字_
+
+---
+
+### 2026-06-25 11:56:14  #觀點
+
+【國信證券6月醫藥行業投資策略：創新藥及產業鏈基本面向好】國信證券釋出研報稱，中國創新藥不僅連續在國際重要學術會議上讀出優秀的臨床資料，在海外的臨床開發同樣取得進展，即將進入在全球的商業化階段。中國CXO企業在人才紅利、化學能力、合規產能、智慧財產權保護方面具有綜合優勢。該行認為，中國企業在化學CDMO領域的核心行業地位5年內具備較強的不可替代性。此外，該行關注估值合理、邏輯改善的藥房板塊。
+
+---
+
+### 2026-06-25 11:55:04  #公司
+
+【英力股份：公司暫未取得戴爾AIPC結構件訂單】英力股份6月25日在互動平臺表示，公司暫未取得戴爾AIPC結構件訂單；惠普的AIPC結構件，公司已開展樣品送樣認證工作，訂單尚未落地。
+
+---
+
+### 2026-06-25 11:54:34  #公司
+
+【北緯科技：物聯網業務目前無AI玩具相關合作】北緯科技6月25日在互動平臺表示，公司物聯網業務目前無AI玩具相關合作。
+
+---
+
+### 2026-06-25 11:53:47  #市場
+
+【6月25日午間漲停分析】創業板指半日漲超2%、科創50漲超4%，儲存晶片、半導體概念持續爆發，全市下跌個股4300只。興業科技5連板，宏柏新材3連板，一圖看懂>>
+
+---
+
+### 2026-06-25 11:52:46  #公司
+
+【中國信通院人工智慧所聯合釋出《企業級智慧體技術與應用研究報告（2026年）》】6月24日，在第十四屆網際網路安全大會上，中國信通院人工智慧研究所聯合三六零安全科技股份有限公司共同釋出《企業級智慧體技術與應用研究報告（2026年）》。報告聚焦智慧體在企業級領域的應用研究，重點圍繞企業級智慧體的發展概述、技術能力、運營管理、應用實踐、趨勢展望五大篇章展開。透過梳理企業級智慧體技術與應用發展現狀，呈現行業應用成效，分析當前問題挑戰，旨在加速企業級智慧體規模化落地應用，促進產業發展。
+
+---
+
+### 2026-06-25 11:52:38  #央行 #國際
+
+【西太平洋銀行下調紐西蘭利率峰值預期】紐西蘭央行上調官方隔夜拆款利率的幅度可能不及西太平洋銀行最初的預期。預期加息幅度較小是因為，伊朗衝突的儘早解決意味著通貨膨脹前景走弱以及經濟復甦提前。西太平洋銀行預計紐西蘭央行將從9月份開始上調官方隔夜拆款利率，但在2026年僅會再收緊一次政策。這一緊縮路徑意味著官方隔夜拆款利率將在2027年底達到4.0%的峰值，隨後在2028年底回落至3.75%的中性水平。西太平洋銀行此前曾預計官方隔夜拆款利率將在4.25%觸頂。西太平洋銀行表示：“我們的核心觀點意味著，今年的加息次數比我們最新預測的少一次，但比我們在衝突爆發前的預測多一次。”
+
+---
+
+### 2026-06-25 11:52:27  #Trading Economics #Markets #India #Currency #Importance 1
+
+Rupee Rises on Falling Crude Prices — The Indian rupee strengthened to around 94.3 per dollar,reversing earlier losses and positioning for further gains as crude oil prices fell below levels seen before the Iran conflict. In the previous session, the rupee briefly neared the 95-per-dollar level before rebounding, supported by likely Reserve Bank of India intervention and comments from RBI Governor Sanjay Malhotra that weighed on forward premium levels. Support for the rupee was reinforced by a steep correction in global energy markets following the announcement of a 60-day negotiating period between the United States and Iran. The retreat in energy costs has eased worries about imported inflation for major oil-importing economies such as India. European natural gas prices have fallen about 45% from their wartime peak, while crude oil prices have declined roughly 40%. Brent crude has slipped below $80 per barrel, dropping beneath levels recorded before the Iran conflict escalated, and US crude is approaching the $70 mark.
+
+---
+
+### 2026-06-25 11:52:06  #國際
+
+【建國慶典活動變競選式集會 特朗普再喊“美國回來了”】美國總統特朗普把他自己和他的政策描繪為美國未來偉大復興的關鍵，將一場與美國建國250週年慶典相關的活動變成了一場競選式的集會。“我非常高興地宣佈，美國回來了，”特朗普當地時間週三在華盛頓國家廣場上說道。這場臨時活動拉開了美國大州博覽會(Great American State Fair)的序幕，該博覽會將在華盛頓舉辦16天，作為週年慶典的一部分。特朗普試圖借美國建國250週年紀念之機，在政治上陷入困境、民調支援率接近歷史低點之際，提升自己的形象。此前，多名藝術家退出原定的系列音樂會，稱這些活動比他們預想的更具政治色彩。特朗普隨即著手在週三的慶祝活動中注入自己的元素。
+
+---
+
+### 2026-06-25 11:51:17  #MKT News #Market Regions #Emerging Markets
+
+Thailand’s Ministry of Commerce said exports could increase 8% this year.
+
+---
+
+### 2026-06-25 11:50:36  #公司
+
+【拉林鐵路開通運營5週年 累計運送旅客超625萬人次】從國鐵集團獲悉，6月25日，西藏首條電氣化鐵路——拉林鐵路開通運營滿五週年，累計運送旅客超625萬人次、貨物超200萬噸。
+
+---
+
+### 2026-06-25 11:50:34  #MKT News #XAUUSD #Impact bullish #DXY
+
+【Trump says US ready to aid Venezuela after major earthquakes】Trump posted on social media that two major earthquakes have struck Venezuela, causing heavy casualties, and said the United States is prepared, willing and able to provide assistance. He has directed all government departments to be ready to act quickly; preliminary reports on the situation are not optimistic.
+
+---
+
+### 2026-06-25 11:50:19  #其他
+
+【香港新一份施政報告29日展開公眾諮詢】香港特區行政長官李家超今日（25日）宣佈，新一份施政報告的公眾諮詢將從下週一（29日）起展開。
+
+---
+
+### 2026-06-25 11:50:07  #公司
+
+【勝宏科技回應壓價：已量產高階PCB價格穩定 新產品遵循市場化定價原則】勝宏科技公告投資者關係活動記錄表，其中提到，目前公司已有部分ASIC相關PCB產品進行批次生產，業務進展順利。供需情況方面，勝宏科技表示，目前公司在手訂單飽滿，業務進展順利，訂單生產和交付均在正常履行中。從中期來看，高階產品的供給仍將處於相對緊張的狀態，下游有充足的需求消化新增產能。有投資者提問勝宏科技是否會被客戶壓價，公司表示，其前期量產高階產品原材料價格平穩，產品定價較為穩定，新產品定價遵循市場化定價原則，將根據具體產品料號的製造難度、市場供需、原材料價格波動情況等與客戶協商定價。
+
+---
+
+### 2026-06-25 11:49:29  #公司
+
+【上海未來產業基金擬參與投資2只子基金】6月25日，根據上海未來產業基金公示，投資決策委員會近期審議透過擬參與投資以下2只子基金：上海清科致成創業投資合夥企業（有限合夥）（暫定名）、上海前瞻致行創業投資合夥企業（有限合夥）。
 
 ---
 
@@ -22784,167 +22868,5 @@ China Stocks Extend Declines — The Shanghai Composite fell 0.3% to 4,095 on We
 ### 2026-06-24 10:04:16  #Trading Economics #Markets #Hong Kong #Stock Market #Importance 1
 
 Hong Kong Stocks Gain on Bargain Hunting — The Hang Seng Index rose about 0.2% to 23,370 on Wednesday, snapping a five-day losing streak, as bargain hunting emerged after the index's recent underperformance. Improved risk sentiment also supported the market after signs of progress in US-Iran peace talks eased concerns over potential disruptions to global energy supplies. Lower oil prices further helped reduce inflation worries and boosted appetite for risk assets across markets. Investor sentiment was further underpinned by continued enthusiasm for artificial intelligence and semiconductor-related investments. Demand for AI exposure remained strong after a leveraged ETF linked to SK Hynix became Hong Kong's largest ETF by assets. However, gains were capped by caution over US interest rates and concerns about the pace of China's economic recovery. Notable movers included Tencent (+1.0%), Knowledge Atlas (+8.9%), SMIC (+3.2%), and Xiaomi (+1.7%).
-
----
-
-### 2026-06-24 10:03:28  #兩會
-
-【河南省政協人口資源環境委員會原主任闞全程被雙開】中央紀委國家監委網站通報，據河南省紀委監委訊息：經中共河南省委批准，河南省紀委監委對河南省政協人口資源環境委員會原主任闞全程嚴重違紀違法問題進行了立案審查調查。經查，闞全程喪失理想信念，背棄初心使命，對抗組織審查；無視中央八項規定精神，接受可能影響公正執行公務的宴請；違背組織原則，在組織談話函詢時不如實說明問題，在幹部選拔任用等工作中為他人謀取利益並收受財物；廉潔底線失守，違規收受禮品、消費卡；大搞權錢交易，利用職務便利為他人在藥品銷售、器械採購、工程承攬、職工錄用等方面謀取利益，非法收受鉅額財物。闞全程嚴重違反黨的政治紀律、組織紀律、廉潔紀律和生活紀律，構成嚴重職務違法並涉嫌受賄犯罪，且在黨的十八大後不收斂、不收手，性質嚴重，影響惡劣，應予嚴肅處理。依據《中國共產黨紀律處分條例》《中華人民共和國監察法》《中華人民共和國公職人員政務處分法》等有關規定，經河南省紀委常委會會議、河南省委常委會會議討論，並經中央紀委常委會會議研究報中共中央批准，決定給予闞全程開除黨籍處分；由河南省監委給予其開除公職處分；終止其中國共產黨第二十次全國代表大會代表、中國共產黨河南省第十一次代表大會代表資格；收繳其違紀違法所得；將其涉嫌犯罪問題移送檢察機關依法審查起訴，所涉財物一併移送。給予其開除黨籍的處分，待召開河南省委全會時予以追認。
-
----
-
-### 2026-06-24 10:02:51  #MKT News
-
-【Pakistan PM says will join Iran to resist forces seeking to undermine regional peace】On June 23 in Islamabad, Pakistani Prime Minister Shehbaz Sharif said after talks with Iranian President Pezeshkian that Pakistan and Iran will build an "iron wall" to jointly resist any forces attempting to undermine regional peace and are determined to thwart efforts to derail the peace process. Sharif called the talks productive and friendly, welcomed last week’s US‑Iran memorandum of understanding, and said he will visit Tehran next week.
-
----
-
-### 2026-06-24 10:02:46  #市場 #國際
-
-印尼股市基準指數上漲1%至6160.85點。
-
----
-
-### 2026-06-24 10:02:23  #MKT News #Macro & Rates #Treasury Yields #USDJPY #Impact bearish #DXY
-
-Japan 30-year government bond yield rose 2.0 bps to 3.860%.
-
----
-
-### 2026-06-24 10:01:50  #MKT News #Market Regions #Greater China #CSI300 #Impact bullish #Hang Seng Index
-
-China's STAR 50 index rose more than 2%; Ailisi jumped over 9% to lead gains among constituents.
-
----
-
-### 2026-06-24 10:01:44  #市場 #國際
-
-印尼盾兌美元匯率在早盤交易中跌至17,920，此前MSCI延長了對印尼盾的審查期限。
-
----
-
-### 2026-06-24 10:01:28  #市場 #焦點
-
-南向資金淨買入額達10億港元。
-
----
-
-### 2026-06-24 10:01:17  #市場 #國際
-
-印尼股市基準指數開盤上漲0.4%，至6128.27點。
-
----
-
-### 2026-06-24 10:00:53  #MKT News #Market Regions #Greater China
-
-China A-share property sector weakened: Shenshenfang A hit limit-down, Tiandiyuan fell over 9%, while Hefei Urban Construction, Jintou Chengkai, Dalong Real Estate and Worldunion also declined.
-
----
-
-### 2026-06-24 10:00:28  #市場
-
-【電子布、銅箔等PCB上游方向持續拉昇，國際復材創新高】電子布、銅箔等PCB上游方向持續拉昇，國際復材漲超13%創新高，中國巨石觸及漲停，銅冠銅箔、宏和科技、中材科技漲幅居前。
-
----
-
-### 2026-06-24 10:00:21  #其他
-
-國家國防科技工業局黨組成員、副局長卞志剛涉嫌嚴重違紀違法，目前正接受中央紀委國家監委紀律審查和監察調查。（央視新聞）
-
----
-
-### 2026-06-24 10:00:11  #MKT News #000660.KS #Impact bearish
-
-【S. Korean report: SK Hynix to pursue US ADR offering; size could reach $26 bln】SK Hynix is expected to file documents with Korean financial regulators to advance a planned US ADR offering, the Korea Economic Daily reports. Earlier reports cited a potential $10 bln raise, but based on the company's post-rally market value industry estimates put the maximum at about 40 trillion won (~$26 bln); final size remains undecided. SK Hynix plans to issue shares in Korea and deposit them with the Korea Securities Depository as the ADRs' underlying securities. Korean regulatory review could finish by July 3, potentially allowing ADR trading to begin as soon as next month.
-
----
-
-### 2026-06-24 10:00:10  #國際
-
-【塞瓦斯托波爾遭烏襲擊後斷電】黑海港口城市塞瓦斯托波爾市市長拉茲沃扎耶夫今天（6月24日）證實，該市遭烏克蘭襲擊後斷電。拉茲沃扎耶夫在社交媒體上發訊息稱，防空系統在塞瓦斯托波爾——這座克里米亞地區最大城市上空擊落了9架無人機。（CCTV國際時訊）
-
----
-
-### 2026-06-24 09:59:28  #公司 #市場
-
-【PCB概念集體反彈 中國巨石觸及漲停續創歷史新高】PCB概念集體反彈，玻纖、銅箔方向領漲，中國巨石觸及漲停，國際復材漲超10%，續創歷史新高，此前滿坤科技20cm漲停，亨通股份、華正新材、平安電工、銅冠銅箔等跟漲。
-
----
-
-### 2026-06-24 09:58:57  #市場 #焦點
-
-滬深兩市成交額超1萬億元，較上日此時縮量2231億元。
-
----
-
-### 2026-06-24 09:58:32  #央行 #市場 #國際
-
-【馬來西亞央行承諾採取更有力措施促進資金流入】6月24日，馬來西亞央行發表宣告表示，將加大力度鼓勵外匯流入，包括努力促進企業海外收益的匯回和兌換，該國穩健的經濟基本面將繼續支撐林吉特。宣告發布後，林吉特小幅收窄跌幅，兌美元匯率基本持平於4.1423。林吉特6月下跌4.30%，成為亞洲表現最差的貨幣。
-
----
-
-### 2026-06-24 09:58:28  #MKT News #02513.HK #Impact bullish
-
-Zhipu (02513.HK) rose more than 10% on trading turnover of nearly HK$1.7 billion.
-
----
-
-### 2026-06-24 09:58:25  #其他
-
-智譜(02513.HK)漲超10%，成交額近17億港元。
-
----
-
-### 2026-06-24 09:58:13  #公司 #觀點
-
-【高盛將立訊精密目標價翻倍至106元 因資料中心等業務預計將強勁增長】高盛將立訊精密12個月的目標價由50.15元人民幣大幅上調至106元人民幣，以反映該行對資料中心業務的強勁增長、汽車電子業務及海外OEM（原始裝置製造商）客戶擴張等趨勢的預期。分析師Verena Jeng等分析師在報告中表示，預計立訊精密2025-2028年收入複合年增長率(CAGR)為22%，因其擁有兼具效能與成本優勢的定製化材料等優勢。預計同期電信與資料中心業務的CAGR將達到67%，到2028年將佔到總營收的19%。將立訊精密2026/2027年盈利預測分別上調8%/27%，主要反映更高收入，毛利率略降，且公司在元件業務領域增長。
-
----
-
-### 2026-06-24 09:57:59  #市場 #焦點
-
-三大指數低開高走全線翻紅。
-
----
-
-### 2026-06-24 09:57:33  #MKT News #Important
-
-China A-shares' three major indices turned positive; ChiNext Index rose 0.74% and the Shenzhen Composite Index rose 0.35%.
-
----
-
-### 2026-06-24 09:56:57  #MKT News
-
-China's CSI 500 index futures (IC) most-active contract rose 1.00% intraday to 8,513.0 points.
-
----
-
-### 2026-06-24 09:56:24  #其他
-
-【冶金工業規劃研究院副院長管志傑一行來撫順特鋼交流】據撫順特鋼訊息，6月22日，冶金工業規劃研究院副院長管志傑一行8人來到撫順特鋼，就產業政策、能源、環保、低碳、數智賦能、物流降本六大核心領域開展專題政策宣講與交流座談。雙方就特鋼行業高質量發展、政策落地實施及企業重點工作等進行了深入研討。
-
----
-
-### 2026-06-24 09:56:18  #MKT News
-
-STAR 50 Index rose 1%. Among constituents, Geke Microelectronics jumped about 9% and Semiconductor Manufacturing International Corp (SMIC) gained over 3%.
-
----
-
-### 2026-06-24 09:55:36  #市場 #焦點
-
-科創50日內漲幅達1.02%，成分股中，格科微漲8.54%，艾力斯漲8.01%，中科飛測漲6.56%，華虹宏力漲5.04%。
-
----
-
-### 2026-06-24 09:55:32  #國際
-
-韓國總統政策室長：韓國必須採取特別措施擴大住房供應。
-
----
-
-### 2026-06-24 09:53:42  #公司 #國際
-
-【韓國總統政策室長：三星與SK海力士新晶片叢集規劃進入收尾階段】韓國總統辦公室政策室長金容範6月24日表示，三星電子和SK海力士建立新半導體叢集的計劃已進入最後討論階段，一旦最終敲定將正式向大眾公佈。金容範指出，由於人工智慧（AI）行業對晶片的需求呈現“爆發式增長”，兩家公司現有的龍仁半導體叢集建設程序將大幅提前。其中，SK海力士計劃在龍仁建設四座晶圓廠，目前正討論將第四座工廠的完工時間從原定的2044年大幅提前至2034年。
 
 ---
