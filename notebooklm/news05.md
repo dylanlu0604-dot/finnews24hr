@@ -1,7 +1,115 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-06-29 02:02:33_
-_本檔包含 3488 則快訊，約 666069 字_
+_更新時間：2026-06-29 02:35:35_
+_本檔包含 3486 則快訊，約 665522 字_
+
+---
+
+### 2026-06-23 07:52:29  #其他
+
+【智慧眼鏡行業隱私保護受關注 終端廠商探索資料分級處理等方案】近期“智慧眼鏡偷拍空乘”事件引發公眾對智慧眼鏡行業隱私保護的強烈擔憂。作為新興穿戴裝置，智慧眼鏡具備“第一人稱”視角，資訊採集範圍廣、行為隱蔽，隨著出貨量走向千萬級，核心功能常需“全天候待命”，如何在保障體驗的同時堅守隱私紅線，成為行業焦點。據證券時報記者瞭解，終端廠商正在探索資料分級處理、本地化儲存、演算法最佳化等方案。業內人士呼籲，行業需建立可驗證的隱私防護機制，推動透明化協作與嚴格標準，將隱私保護內化為產品核心基因。
+
+---
+
+### 2026-06-23 07:51:24  #公司 #國際 #原創
+
+【三星HBM4晶片推出四個月銷售額突破10億美元】據業內人士週二透露，三星電子第六代高頻寬儲存晶片HBM4的銷售額已突破10億美元。就在四個月前，這家韓國科技巨頭於今年2月成為全球首家開始量產和出貨HBM4晶片的公司。業內人士預計，三星HBM4晶片的銷售額到6月底將超過12億美元。
+
+---
+
+### 2026-06-23 07:51:15  #市場 #國際
+
+【日經指數或上漲，受對美伊談判重燃希望提振】在對美伊和平談判重燃希望之際，日本股市可能上漲。新加坡交易所的日經指數期貨上漲0.2%，報73060點。一些科技股可能會受到隔夜納斯達克指數下跌的拖累。在美國為伊朗以美元出售石油掃清障礙後，投資者正關注和平談判的任何進展。日經指數週一上漲1.5%，達到創紀錄的72353.96點。
+
+---
+
+### 2026-06-23 07:50:58  #市場
+
+【智譜市值破萬億港元 稀缺性溢價為估值底層邏輯】6月22日，港股智譜盤中一度漲超42%，最高觸及2980港元/股，對應總市值為1.27萬億港元。截至當日收盤，智譜股價漲幅小幅回落至15.09%，收報2410港元/股，總市值1.07萬億港元。拉長時間線來看，智譜上市不到半年，從上市時的528億港元市值到如今萬億港元市值，累計漲幅超過1900%。根據多家券商分析，稀缺性是2026年大模型估值的底層邏輯。“全球模型廠商上市標的稀缺+尚未進入解禁期+較低流動性”，瑞銀分析師如此拆解智譜的估值溢價原因。在市值快速攀升的同時，對於智譜的稀缺性溢價能維持多久，市場目前仍有分歧。但至少目前，資本正為“AGI（通用人工智慧）敘事”投下信任票。
+
+---
+
+### 2026-06-23 07:50:25  #國際
+
+美國總統特朗普將於23日下午2點（美國東部時間）在賓夕法尼亞州發表講話。
+
+---
+
+### 2026-06-23 07:49:48  #公司
+
+【鏈博會場館100%用綠電】昨日，第四屆中國國際供應鏈促進博覽會在北京中國國際展覽中心（順義館）開幕。國網北京市電力公司以全綠電供應為核心、數智化保障為支撐，全方位築牢展會安全可靠的電力防線。 綠色電能穩定供應是本屆鏈博會電力保障的一大亮點。展會延續綠色辦展理念，依託“分散式光伏+綠證”雙軌綠色供能模式，實現全部場館100%綠色電力供應。展館屋頂11.5兆瓦分散式光伏系統高效運轉，預計展會期間日均發電量可達5萬千瓦時。國網北京電力助力場館方透過北京電力交易中心綠證交易平臺購買900張綠證，摺合綠電90萬千瓦時，全面夯實展會零碳用電基礎。（北京日報）
+
+---
+
+### 2026-06-23 07:49:33  #公司 #市場 #觀點 #央行 #國際
+
+【金價劇烈波動 銀行密集收緊交易槓桿】6月22日，廣發銀行、華夏銀行、中國銀行相繼釋出公告，上調代理上海黃金交易所個人貴金屬交易延期合約保證金比例。統計資料顯示，6月以來，國有四大行、招商銀行等至少7家銀行已調整該項業務保證金比例。其中，多家機構將保證金比例由約100%上調至120%，最高甚至達140%。在銀行業收緊風控的同時，國際貴金屬市場正經歷劇烈波動。6月22日，國際現貨黃金價格報約4210美元/盎司，較年初5500美元上方的年內高點大幅回落。面對金價持續走弱，國際大行紛紛下調價格展望。高盛近日將2026年年底黃金目標價大幅下調500美元至4900美元/盎司，理由是美聯儲年內降息無望，經濟學家已將下次降息時間推遲至2027年，直接削弱黃金ETF資金流入預期。儘管短期金價承壓，全球央行對黃金的長期配置需求依然強勁。
+
+---
+
+### 2026-06-23 07:48:38  #公司
+
+【天風國際證券分析師郭明錤：聯發科贏得谷歌升級版TPU晶片訂單】天風國際證券分析師郭明錤在社交媒體平臺X上發帖稱，最新產業調查顯示，聯發科已獲得谷歌升級版TPU V9晶片的獨家訂單，預計該晶片的定價將比上一代高出約30%。他表示，該晶片預計將於2027年底開始生產。
+
+---
+
+### 2026-06-23 07:46:34  #其他
+
+【媒體：雅居樂陳氏家族以12億港元出售香港超級豪宅】香港當地媒體HK01援引成交記錄報道，開發商雅居樂背後的陳氏家族，以12億港元(約1.53億美元)的價格售出香港淺水灣一棟四層豪宅。 這棟超級豪宅面積近13,000平方英尺，摺合每平方英尺95,598港元，是今年迄今香港單一專案最貴。陳氏家族於2011年以近5億港元的價格購得該地皮，後來重建。
+
+---
+
+### 2026-06-23 07:45:48  #市場 #國際
+
+指標10年期日本國債期貨早盤下跌0.12點。
+
+---
+
+### 2026-06-23 07:45:38  #市場 #國際
+
+日本日經平均指數期貨早盤上漲0.3%。
+
+---
+
+### 2026-06-23 07:45:31  #市場
+
+【一線城市住宅租金持續回暖】一線城市住房租賃市場正在持續修復。中指研究院資料顯示，2026年3月份租賃旺季啟動以來，北京、上海、深圳住宅租金已連續三個月環比上漲。今年1月份至5月份，一線城市住宅平均租金累計上漲0.21%。
+
+---
+
+### 2026-06-23 07:44:50  #公司
+
+【高通據悉接近收購AI晶片初創公司Modular】據報道，高通正就收購人工智慧晶片初創公司Modular進行深入談判，潛在交易對Modular的估值約為40億美元。雙方尚未達成最終協議，談判仍可能無果而終，交易細節也可能發生變化。
+
+---
+
+### 2026-06-23 07:44:28  #公司 #市場 #國際
+
+【SpaceX連跌三日，市值較高點跌超6000億美元】美東時間週一，SpaceX股價大跌，收盤跌幅超16%，股價為154.6美元/股，市值達2.03萬億美元，該公司股價已連續三個交易日下跌。上市以來，6月16日SpaceX收盤價最高，超200美元/股，市值達2.66萬億美元。訊息面上，據SpaceX向美國證券交易委員會提交檔案，SpaceX啟動對投資級債券的首次發行。
+
+---
+
+### 2026-06-23 07:44:12  #宏觀
+
+【總投資超一千二百億元 涵蓋九大領域 北京市123個專案面向民間資本推介】北京市發改委近日公佈今年首批面向民間資本公開推介的123個專案，這批專案總投資超1200億元，擬引入民間資本投資約555億元。這123個專案分佈在9個領域。其中，科技創新領域專案14個，包括海淀區“星際數鏈”天基測控與資料中繼衛星系統專案、石景山區易華錄文博行業高質量資料集平臺專案等，總投資約48億元，擬吸引民間投資約24億元；先進製造業領域專案21個，包括順義區中科新微特半導體產業化專案、大興區乳源多組分高活性免疫蛋白國產化專案等，總投資約39億元，擬吸引民間投資約25億元。商業服務領域總投資約310億元，擬吸引民間投資約148億元，包括豐臺區王佐站城一體化專案、順義區優合產業生鮮冷鏈基地專案等16個。
+
+---
+
+### 2026-06-23 07:42:00  #國際
+
+【中國市場，美企維繫全球競爭力的重要依託】近日，美中貿易全國委員會發布2026年度《中國商業環境調查》報告。報告顯示，80%的受訪美國企業認為中國市場對其全球競爭力“非常重要”或“重要”，較2025年的66%明顯回升；高達95%的企業認為，在華業務對其保持全球競爭力具有從“一定”到“非常重要”的意義。華南美國商會此前釋出的報告也顯示，75%受訪美企計劃2026年在華再投資。這些數字揭示了一個重要事實：中國市場不是美企的可選項，而是維繫其全球競爭力的重要依託。中國市場的三重優勢——超大規模市場、完備產業鏈、創新試驗場景——之所以能夠持續釋放紅利，離不開穩定的制度預期。當前，“中美建設性戰略穩定關係”為兩國關係提供了新的定位——合作為主、競爭有度、分歧可控、和平可期。加之新設立的中美貿易理事會、投資理事會溝通機制，使得美企在華投資更安全、更可預期、更有信心，敢於將技術、產能、資金持續投向中國市場。中美關係穩定、健康、可持續發展需要兩國各個方面合力推動，理性的商界已用腳在投票：在中國，為全球，仍是美企維持競爭力的務實選擇。（人民日報）
+
+---
+
+### 2026-06-23 07:39:54  #其他
+
+中國銀河證券首席策略分析師楊超表示，從宏觀環境看，國內經濟穩中向好的基礎仍需鞏固，低利率環境將延續，紅利資產的底層邏輯依然成立。對於險資等中長期資金來說，高股息的紅利資產屬於稀缺優質資產，仍是其配置的重要抓手。
+
+---
+
+### 2026-06-23 07:37:01  #其他
+
+【國家資料局局長劉烈宏：突出資料賦能人工智慧創新發展這個重點 推動“人工智慧+”與“資料要素×”同頻共振】國家資料局黨組書記、局長劉烈宏在人民日報刊文《深化市場化配置改革 釋放資料要素價值》。文章稱，賦能人工智慧發展，持續發揮資料要素乘數效應。資料是人工智慧的燃料，資料的規模、質量是推動人工智慧創新發展的重要基礎，人工智慧的應用深化也為資料要素的價值釋放開闢了廣闊的新空間。下一步，要突出資料賦能人工智慧創新發展這個重點，關鍵是要實現“人工智慧+”行動到哪裡，高質量資料集的建設和推廣就要到哪裡，推動“人工智慧+”與“資料要素×”同頻共振，為新質生產力培育注入強勁動能。
 
 ---
 
@@ -20955,125 +21063,5 @@ Cuban president says long-time revolutionary leader and Castro ally Ramiro Vald�
 ### 2026-06-22 02:35:55  #國際
 
 巴基斯坦總理稱讚伊朗以不失尊嚴的方式處理危機，肯定伊朗方面的處事姿態。
-
----
-
-### 2026-06-22 02:35:32  #MKT News
-
-Israeli Prime Minister Netanyahu said claims by some in the US that Trump wholly follows him, and by some in Israel that he wholly defers to Trump, are both untrue. He said leaders are heads of independent states and that he represents Israel's interests.
-
----
-
-### 2026-06-22 02:34:55  #MKT News #XAUUSD #Impact bullish #Brent #S&P500 #Impact bearish
-
-Israeli Prime Minister Netanyahu said he was told not to enter Rafah but did; told not to strike Hezbollah but did; and told not to confront Iran but did.
-
----
-
-### 2026-06-22 02:34:29  #MKT News #WTI #Impact bullish #Brent #XAUUSD
-
-NETANYAHU said Israel struck bridges and multiple targets. He estimated cumulative damage to the "IRGC economy" at hundreds of billions of dollars — not millions or tens of billions — and said recovery would take a long time.
-
----
-
-### 2026-06-22 02:33:08  #MKT News #WTI #Impact bullish #XAUUSD #DXY
-
-【Netanyahu says Israel has shifted limits on military action against Iran】Prime Minister Netanyahu said Israel has changed its limits on military action against Iran. He said Israelis were long told they could not strike Iranian territory and were limited to Mossad operations — which he has approved many times — but those restrictions have been lifted, and Israel has sent pilots to fly over Iranian airspace.
-
----
-
-### 2026-06-22 02:32:40  #其他
-
-古巴總統：長期追隨卡斯特羅的革命領袖拉米羅·巴爾德斯逝世。
-
----
-
-### 2026-06-22 02:32:19  #其他
-
-SpaceX：獵鷹9號火箭於加利福尼亞發射24顆星鏈衛星。
-
----
-
-### 2026-06-22 02:26:41  #MKT News #XAUUSD #Impact bullish #Brent
-
-Israel's Prime Minister NETANYAHU said Israel will maintain a 'security zone' in Lebanon as needed to protect its citizens.
-
----
-
-### 2026-06-22 02:26:30  #MKT News #XAUUSD #Impact bullish #Brent #DXY
-
-i24News reports Israeli Prime Minister Netanyahu said Israel thwarted an Iranian plan "aimed at completely annihilating us."
-
----
-
-### 2026-06-22 02:22:17  #國際
-
-以色列總理內塔尼亞胡：在美國，人們都說特朗普對我言聽計從。在以色列，又有人說我凡事都順著他的意思。兩種說法都不符合事實。我們是兩個獨立且擁有民族自豪感國家的領導人。我始終以以色列的利益為先。
-
----
-
-### 2026-06-22 02:18:48  #MKT News #Brent #Impact bullish #XAUUSD #DXY
-
-【HEZBOLLAH leader says group will respond to any Israeli aggression】On the evening of the 21st, HEZBOLLAH leader Naim Qassem said in a televised address the group would respond to any Israeli aggression, called Israel an aggressor that must withdraw, and said continued Israeli troop presence on Lebanese territory was "impossible" and there is no space in Lebanon for an Israeli "security zone." He added Lebanon has its own national army responsible for safeguarding sovereignty and said HEZBOLLAH cooperates with the Lebanese Armed Forces.
-
----
-
-### 2026-06-22 02:18:17  #國際
-
-【黎真主黨領導人：將對以色列的任何侵犯行為作出回應】當地時間21日晚，黎巴嫩真主黨領導人納伊姆·卡西姆發表電視講話表示，該組織將對以色列的任何侵犯行為作出回應。卡西姆說，以色列是侵略者，必須撤離，以色列軍隊繼續駐紮在黎巴嫩領土上是“不可能的”，而且黎巴嫩境內沒有以色列設立“安全區”的空間。卡西姆還表示，黎巴嫩有自己的國家軍隊，負責維護國家主權，真主黨也與黎巴嫩軍隊合作。（央視新聞）
-
----
-
-### 2026-06-22 02:16:34  #MKT News
-
-【Lebanese Health Ministry says Israeli strikes have killed 4,106 in Lebanon through June 21】The Lebanese Health Ministry's emergency operations center said on June 21 that sustained Israeli air raids and other attacks in Lebanon between March 2 and June 21 had killed 4,106 people and injured 12,153.
-
----
-
-### 2026-06-22 02:16:23  #國際
-
-【黎巴嫩衛生部：以色列襲擊已致4106人死亡】據黎巴嫩公共衛生部緊急行動中心21日訊息，3月2日至6月21日期間，以色列在黎巴嫩發動的持續不斷的空襲和襲擊已造成4106人死亡，另有12153人受傷。（央視新聞）
-
----
-
-### 2026-06-22 02:15:21  #公司
-
-德國KNDS集團家族股東達成股權轉讓協議，為上市鋪路。
-
----
-
-### 2026-06-22 02:09:12  #其他
-
-中國地震臺網正式測定：06月22日01時58分在新疆伊犁州昭蘇縣（北緯43.36度，東經81.10度）發生4.0級地震，震源深度20千米。
-
----
-
-### 2026-06-22 02:09:07  #國際
-
-【特朗普言論令伊美未來的談判走向仍不明朗】伊朗國家電視臺一名記者週日表示，在美國總統特朗普發表相關言論後，伊朗與美國談判的後續走向仍存變數。這名記者稱：“談判能否繼續目前尚不明確。”他還補充道，伊朗首席談判代表針對特朗普威脅言論作出回應後的各方反應，將很大程度決定下一步談判程序。此番表態釋出前，伊朗與美國代表團在瑞士舉行的談判已暫停。此前一名伊朗訊息人士透露，談判只是臨時休會，並未徹底終止。
-
----
-
-### 2026-06-22 02:07:29  #國際
-
-德國部長表示，霍爾木茲海峽一旦遭封鎖，責任在於特朗普。
-
----
-
-### 2026-06-22 02:06:24  #MKT News #WTI #Impact bullish #Brent
-
-【German defense minister says Trump responsible for Strait of Hormuz closure】Germany’s defense minister Boris Pistorius said President Trump bears responsibility for the closure of the Strait of Hormuz, adding that “ultimately the plug in this bottleneck was pushed in by Trump, not us, but we have an interest in pulling it back out.” He said Iran had earlier agreed under a preliminary deal signed by Trump and Iranian president Pezeshkian to reopen the waterway and shipping flows had begun to resume, but Iran on Saturday said it had reclosed the route citing Israeli strikes in Lebanon. Pistorius said keeping the Strait open, or ensuring safe passage, is in Europe’s energy-security and economic-recovery interest.
-
----
-
-### 2026-06-22 02:04:38  #MKT News #WTI #Impact bearish #Brent
-
-【Iran negotiator says draft oil sanctions exemption finalized】On the 21st, a member of Iran’s negotiating team said a draft exemption for oil sanctions has been finalized and will be issued soon. Administrative steps to unfreeze Iran’s frozen funds are underway with participation from a Qatari delegation.
-
----
-
-### 2026-06-22 02:04:05  #國際
-
-【伊朗談判團隊成員稱伊石油制裁豁免草案已敲定】當地時間21日，據伊朗方面訊息，伊朗談判團隊一名成員透露，有關伊朗石油制裁豁免的草案已經最終定稿，並補充說豁免將很快釋出。有關解凍伊朗被凍結資金的行政程式已在卡達代表團的參與下進行。（央視新聞）
 
 ---

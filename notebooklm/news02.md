@@ -1,7 +1,79 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-06-29 02:02:33_
-_本檔包含 3655 則快訊，約 666063 字_
+_更新時間：2026-06-29 02:35:35_
+_本檔包含 3661 則快訊，約 666086 字_
+
+---
+
+### 2026-06-26 12:42:53  #其他
+
+國際原子能機構總幹事格羅西：國際原子能機構的存在對確保伊美協議具備可信度至關重要。
+
+---
+
+### 2026-06-26 12:42:38  #其他
+
+投行TD Cowen將安森美半導體評級從買入下調至持有；目標價從115美元下調至110美元。
+
+---
+
+### 2026-06-26 12:41:05  #其他
+
+【江蘇：堅持用最嚴格制度、最嚴密法治保護生態環境，加強固危廢規範管理】6月24日，江蘇省政府召開常務會議，研究安排安全生產、固危廢違法犯罪打擊、安防產業發展、海外專利佈局等工作。省長劉小濤主持會議。會議強調，要以安全生產月為契機，深入推進安全生產“六化”建設，持續深化燃氣安全“一件事”全鏈條治理，綜合運用人工智慧、大資料等數智手段推進重點領域隱患“穿透式”排查整治，落實落細各項防汛措施，針對性精準開展安全宣傳，讓安全生產成為全社會的思想共識和自覺行動。要堅持用最嚴格制度、最嚴密法治保護生態環境，加強固危廢規範管理，嚴厲打擊違法犯罪行為，提升全過程可溯化資訊化監管水平，加快構建源頭減量、過程管控、末端利用和全鏈條無害化管理的綜合治理體系。會議分別審議了關於支援連雲港安防產業高質量發展和加強海外專利佈局的政策措施。會議指出，要不斷提升全球公共安全合作論壇（連雲港）國際化專業化水平，系統編制產業鏈發展圖譜，拓展特色安防應用場景，引育並舉構建企業梯隊，多元化拓展國際市場，推動人工智慧賦能安防產業高質量發展。
+
+---
+
+### 2026-06-26 12:39:42  #其他
+
+【規模最大全釩液流電池儲能電站轉入商運 儲能相關企業已接近40萬家】據央視財經報道，近日，新疆吉木薩爾全釩液流電池儲能電站全面轉入商業執行，該電站是目前我國規模最大的全釩液流電池儲能電站，標誌著我國在大容量、長時儲能技術規模化應用方面取得新進展。隨著我國能源綠色轉型的加速，風電、光伏等新能源裝機規模持續快速增長。全釩液流儲能作為支撐高比例可再生能源發展的戰略性技術，正迎來技術突破與產業落地的雙重加速階段。行業資料顯示，我國釩製品產能佔全球總量的72%；儲能領域釩應用佔比從2023年的10.8%提升至16.3%，儲能應用佔比持續攀升，已成為釩全產業鏈中增長最快的細分領域，為全釩液流儲能規模化發展提供了穩定的原料支撐與發展動力。企查查資料顯示，截至6月25日，國內現儲存能相關企業39.55萬家。近十年儲能相關企業註冊量呈顯著增長態勢，2025年全年註冊10.8萬家，同比增長16.62%，達近十年註冊量峰值。截至目前，今年已註冊相關企業5.47萬家。存量方面，從經營時間來看，儲能相關企業多成立於近三年，其中成立年限在1—3年的企業佔比最高，達39.11%。從地區分佈來看，儲能相關企業主要分佈在華東地區，佔比33.71%，穩居首位。
+
+---
+
+### 2026-06-26 12:39:06  #國際
+
+據塔斯社報道，俄羅斯禁止從亞美尼亞進口所有魚類。
+
+---
+
+### 2026-06-26 12:35:56  #其他
+
+傑富瑞將百事可樂目標價從164美元下調至162美元。
+
+---
+
+### 2026-06-26 12:35:31  #其他
+
+傑富瑞將莫德納目標價從45美元上調至53美元。
+
+---
+
+### 2026-06-26 12:35:16  #國際
+
+據俄羅斯新聞社援引國防部報道，俄羅斯夜間擊落660架無人機。
+
+---
+
+### 2026-06-26 12:35:12  #MKT News
+
+Russian Defence Ministry says it shot down 660 drones overnight.
+
+---
+
+### 2026-06-26 12:35:09  #國際
+
+【國際原子能機構總幹事：稀釋核材料或運出是伊朗的可選方案，但需伊朗同意執行】國際原子能機構總幹事格羅西表示，相信自2025年上次核查以來，伊朗核材料未被轉移，但需進一步確認。不可否認，我們已就國際原子能機構獲准進入伊朗開展核查達成一致。機構已與伊朗官方進行了初步溝通。我們希望儘快出訪伊朗。稀釋核材料或運出是伊朗的可選方案，但需伊朗同意執行。相信自2025年上次核查以來，伊朗核材料未被轉移，但需進一步確認。
+
+---
+
+### 2026-06-26 12:32:28  #公司 #國際
+
+【科濟藥業：董事會已批准一項股份回購計劃】科濟藥業公告，本公司於2026年5月22日召開的股東周年大會已批准授予本公司一項股份回購授權。根據該授權，公司最多可回購相關決議案透過當日已發行股份總數（不包含任何庫存股）的10%，對應最多57,096,024股本公司股份（下稱“股份”），該授權簡稱《2026年股份回購授權》。本公司謹此公告，公司董事會（下稱“董事會”）已批准一項股份回購計劃：自2026年6月25日起至下一屆股東周年大會閉幕為止，依據《2026年股份回購授權》，於公開市場回購不超過30,124,699股本公司股份，該數量約佔截至2026年5月31日本公司已發行股份總數的5%。股份回購所用資金來源於非 IPO 募集資金，包括經營業務收入、利息收入及其他各類補貼。
+
+---
+
+### 2026-06-26 12:32:21  #MKT News
+
+IAEA Director General GROSSI said Iran can choose to lower the enrichment level of nuclear material or have it shipped abroad, but must consent to doing so.
 
 ---
 
@@ -21982,41 +22054,5 @@ CSI 300 index futures main contract (IF) broke above 4,900, posting an intraday 
 ### 2026-06-25 11:15:57  #Trading Economics #Economy #Australia #Government Bond 10Y #Importance 1
 
 Australia 10Y Yield Holds Near 4-Month Low — Australia’s 10-year government bond yield held around 4.7%, sitting near a four-month low, as falling oil prices and narrowing yield spreads driven by a hawkish US policy outlook outweighed a rebound in domestic employment data. The economy added 40,300 jobs in May, rebounding from a revised decline of 40,600 in April and above market forecasts for a 30,000 increase, while the unemployment rate dipped to 4.4% from 4.5%, as expected. The latest jobs data followed Wednesday’s mixed inflation figures, which left markets split on another rate hike, priced at around 50% by year-end. Meanwhile, mounting wagers on US interest rate hikes have helped Australian bonds outperform Treasuries, shrinking the Aussie's yield premium. Last week, the Fed signaled growing support for tighter monetary policy, with Chair Kevin Warsh reaffirming his commitment to restoring price stability. Progress in US-Iran peace talks have also pushed oil prices back to pre-conflict levels and eased inflation concerns.
-
----
-
-### 2026-06-25 11:15:33  #Trading Economics #Markets #Commodity #Importance 1
-
-Zinc Hits 7-Week Low — Zinc futures fell to around $3,410 per tonne, the lowest in seven weeks, pressured by a surging US dollar. Expectations of higher US interest rates strengthen the greenback, making dollar-priced commodities less attractive for buyers using other currencies. The downside was partly limited by progress in US-Iran talks, which reduced concerns over further disruptions to global activity and improved the industrial demand outlook. Zinc prices also remained supported by tightening supply conditions following recent disruptions at key facilities. Glencore’s Kazzinc facility in Kazakhstan remains affected by reduced operating rates after an explosion, while Nexa’s Cajamarquilla smelter in Peru has been recovering from fire-related damage. A seismic event at Boliden’s Garpenberg mine earlier this year has also raised concerns about prolonged lower output. These supply constraints come as the International Lead and Zinc Study Group forecasts a refined zinc deficit of 19,000 tonnes this year.
-
----
-
-### 2026-06-25 11:15:02  #公司 #市場
-
-【廣汽本田公佈語音換道專利，可提高自動駕駛車輛換道效率】天眼查智慧財產權資訊顯示，6月23日，廣汽本田汽車有限公司、廣汽本田汽車研究開發有限公司申請的 “基於語音互動的車輛換道控制方法、裝置、裝置及程式產品” 專利公佈。摘要顯示，本發明公開了基於語音互動的車輛換道控制方法、裝置、裝置及程式產品，包括：當車輛處於自動駕駛模式，獲取駕駛員的語音資訊，根據語音資訊識別駕駛員是否發出換道指示；當駕駛員發出換道指示，確定換道指示對應的目標車道，獲取當前車道的第一車道路況和目標車道的第二車道路況；確定車輛的換道成本、換道收益以及換道風險值，根據換道收益與換道成本的比值確定收益成本比；當收益成本比大於等於預設的第一閾值，且換道風險值小於預設的第二閾值，確定執行換道指示，根據第一車道路況和第二車道路況規劃得到目標換道路徑；根據目標換道路徑控制車輛換道至目標車道。
-
----
-
-### 2026-06-25 11:13:55  #其他
-
-HCLTECH 和 ServiceNow 將藉助 Google Cloud 擴充套件企業級人工智慧。
-
----
-
-### 2026-06-25 11:13:55  #市場 #焦點
-
-丁二烯橡膠連續主力合約日內跌6%，現報11960.00元。
-
----
-
-### 2026-06-25 11:13:31  #MKT News #Market Themes #China EV Leaders #XPEV.O #Impact bullish
-
-XPeng said global deliveries of its X9 model have exceeded 60,000 vehicles.
-
----
-
-### 2026-06-25 11:13:29  #公司
-
-【交通運輸部等：圍繞航線規劃等核心任務 鼓勵開發民航垂域大模型】交通運輸部、國家鐵路局、中國民用航空局、國家郵政局、中國國家鐵路集團有限公司印發《“人工智慧+交通運輸”典型應用場景創新行動方案》，其中提出，圍繞航線規劃、飛行安全、航班編排、籤派決策、機組排班等核心任務，鼓勵開發民航垂域大模型，開展執行預測、排程最佳化、風險防控等關鍵技術應用，打造全流程個性化出行服務、機坪態勢感知與風險預警、無人化智慧貨運站等多方面立體化應用場景，加快推進民航數智化轉型升級。深化多模態生物識別與智慧安檢技術在值機、通關、登機等環節整合應用，構建安檢通道旅客識別系統、行李匹配系統、服務引導終端等，提升旅客出行體驗。在確保安全的前提下，探索開展垂直起降航空器與無人機在短途運輸、空中游覽等場景應用，提升低空運輸服務能力。
 
 ---
