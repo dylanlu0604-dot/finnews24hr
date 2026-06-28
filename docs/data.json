@@ -1,7 +1,43 @@
 {
-  "updated": "2026-06-28 09:48:22",
-  "count": 18168,
+  "updated": "2026-06-28 09:52:19",
+  "count": 18170,
   "items": [
+    {
+      "id": "mkt:019f0bec-e6d5-7770-9d1c-431c0c1bda1a",
+      "time": "2026-06-28 09:51:42",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Refinitiv: US officials say the Iran situation remains evolving; there are no reports of US casualties or major damage to US facilities in the region. Iran has launched multiple missiles and drones at neighboring states, including Bahrain and Kuwait."
+    },
+    {
+      "id": "4958702",
+      "time": "2026-06-28 09:51:24",
+      "tags": [
+        "國際"
+      ],
+      "text": "一名美國官員表示，目前暫未報告有美國公民傷亡，該區域內的美國設施也未遭受重大影響或損壞。"
+    },
+    {
+      "id": "4958701",
+      "time": "2026-06-28 09:51:11",
+      "tags": [
+        "國際"
+      ],
+      "text": "一名美國官員表示，伊朗局勢仍在發展變化中。"
+    },
+    {
+      "id": "4958700",
+      "time": "2026-06-28 09:51:04",
+      "tags": [
+        "國際"
+      ],
+      "text": "一名美國官員表示，伊朗向包括巴林和科威特在內的鄰國發射了多枚導彈和無人機。"
+    },
     {
       "id": "4958699",
       "time": "2026-06-28 09:47:15",
@@ -166232,22 +166268,6 @@
         "MKT News"
       ],
       "text": "According to Lighthouse Pro real-time data, Toy Story 5's cumulative box office exceeded CNY100 mln on its third day of release."
-    },
-    {
-      "id": "4946072",
-      "time": "2026-06-21 09:51:53",
-      "tags": [
-        "國際"
-      ],
-      "text": "【巴外交部：巴基斯坦將繼續支援並推進美伊諒解備忘錄執行】巴基斯坦外交部21日釋出宣告說，巴基斯坦總理夏巴茲·謝里夫及巴基斯坦陸軍參謀長穆尼爾已啟程前往瑞士參加關於落實美伊諒解備忘錄的高階別會談。來自伊朗、卡達和美國的高階代表團也將參與此次會談。巴外交部稱，此次會談標誌著自6月17日簽署美伊諒解備忘錄以來的首次正式接觸。巴基斯坦將繼續支援並推進美伊諒解備忘錄的執行。 (央視新聞)"
-    },
-    {
-      "id": "4946071",
-      "time": "2026-06-21 09:49:04",
-      "tags": [
-        "其他"
-      ],
-      "text": "【玩具總動員5票房破億】據燈塔專業版實時資料，截至6月21日9時47分，影片《玩具總動員5》票房突破1億。"
     }
   ]
 }
