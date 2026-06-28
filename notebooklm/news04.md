@@ -1,7 +1,253 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-06-28 10:35:05_
-_本檔包含 3498 則快訊，約 669953 字_
+_更新時間：2026-06-28 12:06:33_
+_本檔包含 3507 則快訊，約 669694 字_
+
+---
+
+### 2026-06-24 02:31:20  #MKT News #Commodities #Precious Metals #XAUUSD #Impact bearish
+
+Shanghai Gold Exchange June 23 evening session: gold T+D closed down 0.35% at 900.43 yuan/gram; silver T+D closed down 2.75% at 14,827.0 yuan/kg.
+
+---
+
+### 2026-06-24 02:31:19  #市場
+
+WTI 7月原油期貨收報73.21美元/桶。NYMEX 7月天然氣期貨收報3.1470美元/百萬英熱單位。NYMEX 7月汽油期貨收報2.9590美元/加侖，NYMEX 7月取暖油期貨收報3.1546美元/加侖。
+
+---
+
+### 2026-06-24 02:31:15  #MKT News
+
+AP: A US Department of Homeland Security spokesman said the US has eased restrictions on the Iranian World Cup team, allowing the team to depart for the match venue two days before its next game.
+
+---
+
+### 2026-06-24 02:30:58  #國際
+
+美國聯邦通訊委員會表示，無線頻譜拍賣募款總額超 35 億美元。
+
+---
+
+### 2026-06-24 02:30:02  #市場
+
+上期所原油期貨夜盤收跌1.52%，報492.00元人民幣/桶。滬金夜盤收跌0.82%，滬銀收跌4.36%。
+
+---
+
+### 2026-06-24 02:30:00  #Trading Economics #Markets #Crypto #Importance 1
+
+Crypto Updates: Ether Drops by 4.09% — Top crypto losers are Ether (-4.09%), Bitcoin (-2.60%) and Binance (-2.58%).
+
+---
+
+### 2026-06-24 02:28:45  #MKT News #Market Themes #AI Revolution
+
+OpenAI opens applications for its 2026 DevDay developer conference.
+
+---
+
+### 2026-06-24 02:27:34  #其他
+
+【CFA一級考試透過率降至39%】CFA協會週二公佈，5月份39%的考生透過了一級考試，低於2月的45%，也低於去年11月和8月考試的43%。雖然這一透過率低於過去十年40%的平均水平，但仍高於2021年創下的低點。據CFA的資料，5月有超過3.1萬名考生參加一級考試，為2019年以來同級考試規模最大的一次。
+
+---
+
+### 2026-06-24 02:26:24  #MKT News #Market Themes #The Trump Trade
+
+FIFA president says Trump will personally present the World Cup trophy.
+
+---
+
+### 2026-06-24 02:26:04  #MKT News
+
+【Rubio: Iran denies agreeing to IAEA inspections for 'internal reasons'】The New York Times reports U.S. Secretary of State Rubio said Iran, citing domestic political reasons, has denied the Switzerland agreement to allow IAEA inspections. Rubio said Iran committed to inspections and must either honor that commitment—if it does the process will move forward; if it does not, President Trump will have to decide next steps.
+
+---
+
+### 2026-06-24 02:25:00  #Trading Economics #Markets #Commodity #Importance 1
+
+Agricultural Commodities Updates: Coffee Gains by 3.28% — Top commodity gainers are Coffee (3.28%), Rice (3.26%) and Rapeseed (1.12%). Biggest losers are Lumber (-2.19%) and Wheat (-1.64%).
+
+---
+
+### 2026-06-24 02:23:55  #國際
+
+國際足聯主席：特朗普將親自頒發世界盃獎盃。
+
+---
+
+### 2026-06-24 02:22:13  #MKT News
+
+The U.S. State Department and other regional governments issued a joint statement saying a "violent minority" is attempting to disregard the will of the majority of the Bolivian people.
+
+---
+
+### 2026-06-24 02:22:01  #MKT News
+
+U.S. State Department and other regional governments said in a joint statement that attempts to overthrow Bolivia's government constitute a "serious threat" to order and stability.
+
+---
+
+### 2026-06-24 02:21:53  #宏觀 #國際
+
+美國國務院聯合西半球多國發布聯合宣告：玻利維亞境內顛覆政府的各類行徑對當地秩序與穩定構成 “嚴重威脅”。
+
+---
+
+### 2026-06-24 02:20:50  #MKT News
+
+【Trump approval falls to second‑term low; half of Americans say Iran war not worth it】A five‑day Refinitiv/Ipsos poll ending Monday found Trump’s approval at 34%, returning to the lowest level of his second term, last seen in April. Only 24% said a war with Iran would be worth the cost; 50% said the conflict was not worth it and the remainder were unsure. About 63% said an agreement signed by Trump was unlikely to produce lasting peace between the US and Iran.
+
+---
+
+### 2026-06-24 02:19:59  #Trading Economics #Markets #Commodity #Importance 1
+
+Metals Commodities Updates: Silver Tumbles by 5.14% — Top commodity losers are Silver (-5.14%), Copper (-3.56%) and Gold (-1.61%). Gains are led by Lithium Carbonate (0.96%).
+
+---
+
+### 2026-06-24 02:18:47  #公司 #國際
+
+IBM：特朗普政府將持有Anderon的股權，但不參與治理。Anderon量子晶圓代工業務將從擴建位於紐約州奧爾巴尼的設施起步。量子技術對於實現規模化製造至關重要。許多量子計算公司已表達了向Anderon採購的意向。 量子計算賽道最終只會誕生一兩家絕對頭部贏家。
+
+---
+
+### 2026-06-24 02:18:37  #MKT News #IBM.O #Impact bullish
+
+IBM Research head expects one or two clear winners to emerge in the quantum computing race.
+
+---
+
+### 2026-06-24 02:18:23  #MKT News
+
+IBM's head of research said many quantum computing firms have expressed interest in purchasing from Anderon.
+
+---
+
+### 2026-06-24 02:18:07  #MKT News #IBM.O
+
+IBM's vice president of quantum applications said quantum technology is critical to achieving scalable manufacturing.
+
+---
+
+### 2026-06-24 02:17:53  #MKT News #Market Themes #Chip Wars #IBM.N #Impact bullish
+
+IBM (IBM.N): Anderon's quantum wafer foundry will launch by expanding its facility in Albany, New York.
+
+---
+
+### 2026-06-24 02:17:30  #MKT News #Market Themes #The Trump Trade
+
+IBM (IBM.N) said the Trump administration will hold an equity stake in Anderon but will not participate in governance.
+
+---
+
+### 2026-06-24 02:17:16  #其他
+
+【報道：英國首相熱門人選伯納姆擬解除裡夫斯財政大臣職務】據知情人士透露，安迪·伯納姆準備解除蕾切爾·裡夫斯的財政大臣職務，但會為她提供一個內閣中的其他職位。 裡夫斯試圖在伯納姆掌權的情況下保住財政大臣職位，但並未成功。
+
+---
+
+### 2026-06-24 02:15:19  #MKT News #Macro & Rates #The Fed (FOMC) #DXY #Impact bullish #EURUSD #Impact bearish #USDJPY
+
+【Fed rate‑hike bets firm; dollar hits highest since last November】The dollar rose to its strongest since last November on Tuesday as traders consolidated bets on Fed tightening, pricing nearly two 25bp hikes by early 2027. "The dollar has room to run; it tends to strengthen ahead of Fed hikes and markets are discussing a possible September start to the hiking cycle," said Mizuho strategist Jordan Rochester. The euro slid to a one‑year low after ECB President Lagarde's comments trimmed odds of further ECB rate hikes. The yen remained under pressure as markets judge BOJ tightening too slow to stop depreciation, keeping FX intervention risk elevated.
+
+---
+
+### 2026-06-24 02:14:59  #Trading Economics #Markets #Commodity #Importance 1
+
+Energy Commodities Updates: Natural gas Falls by 3.36% — Top commodity losers are Natural gas (-3.36%), Methanol (-2.77%), Gasoline (-1.17%), Brent Crude Oil (-0.94%) and Crude Oil WTI (-0.92%). Gains are led by Heating Oil (2.07%), Natural Gas UK (0.83%) and Natural Gas EU (0.64%).
+
+---
+
+### 2026-06-24 02:11:52  #國際
+
+據美聯社：美國放寬對伊朗世界盃球隊的限制。
+
+---
+
+### 2026-06-24 02:11:24  #MKT News #Commodities #Energy #WTI #Impact bearish #Brent
+
+Kpler analyst Amena Bakr said Strait of Hormuz transit volumes rebounded to 4.8 mln b/d after detained vessels and a previously sanctioned fleet were unblocked.
+
+---
+
+### 2026-06-24 02:11:04  #公司
+
+軍工初創公司Stark Defence按32億歐元估值融資5億歐元（摺合5.70億美元），紅杉資本、Peter Thiel旗下Founders Fund領投。
+
+---
+
+### 2026-06-24 02:07:07  #MKT News
+
+Argentina's interbank peso closed 0.61% weaker at 1,471.5 per USD, its weakest level in eight months.
+
+---
+
+### 2026-06-24 02:06:34  #市場
+
+交易商訊息：阿根廷比索銀行間匯率收盤下跌 0.61%，報 1 美元兌 1471.5 比索，創八個月新低。
+
+---
+
+### 2026-06-24 02:04:37  #MKT News #WTI #Impact bullish #Brent
+
+【Dallas Fed: U.S. far more resilient to oil-price shocks than in 1980s】The Federal Reserve Bank of Dallas estimates in a new study that a recent spring oil surge above $120/bbl reduced U.S. output by roughly 0.3 percentage point, far less than similar shocks in the 1980s when U.S. oil import dependence was higher. A U.S.-backed war on Iran cut about 15% of global oil supply, disrupted Strait of Hormuz shipping, roiled commodity markets, pushed prices higher, caused regional shortages and weighed on overall demand.
+
+---
+
+### 2026-06-24 02:03:28  #市場
+
+甲骨文股價創逾一個月新低，最新下跌 5.1%。
+
+---
+
+### 2026-06-24 02:01:51  #央行 #市場 #國際
+
+【達拉斯聯儲：美國經濟對油價衝擊的抵抗力遠強於1980年代】美國達拉斯聯儲一項最新研究估計，去年春季油價飆升至每桶120美元以上，使美國經濟產出減少約0.3個百分點，但這一衝擊遠低於20世紀80年代類似石油衝擊造成的影響，當時美國對石油進口依賴程度更高。在美國支援下對伊朗發動的戰爭導致全球石油供應減少約15%，霍爾木茲海峽航運受阻，全球大宗商品市場陷入動盪，價格上漲、部分地區供應短缺且整體需求下降。
+
+---
+
+### 2026-06-24 01:57:15  #MKT News
+
+【Israel confirms smuggling of tens of thousands of Starlink terminals into Iran】Israel’s opposition leader and former prime minister Naftali Bennett said at a June 23 public event in Jerusalem that while serving as PM in 2021–2022 he purchased and smuggled tens of thousands of Starlink user terminals into Iran to help anti-government protesters attempting to topple the regime. He said the current Netanyahu government did not continue the program.
+
+---
+
+### 2026-06-24 01:57:13  #國際
+
+【以色列證實向伊朗偷運數萬星鏈】以色列反對黨領導人、前總理貝內特6月23日在耶路撒冷的一場公開活動上承認，他2021年至2022年擔任以色列總理期間，曾採購數萬臺“星鏈”接收器並偷運入伊朗，以幫助反政府抗議者試圖推翻伊朗政權。但據他稱，內塔尼亞胡領導的現任以色列政府未能持續推進該計劃。（CCTV國際時訊）
+
+---
+
+### 2026-06-24 01:55:36  #公司 #國際
+
+蘇利南總理：馬來西亞國家石油公司（馬石油）在 52 號海上區塊再獲油氣新發現。
+
+---
+
+### 2026-06-24 01:54:48  #Trading Economics #Markets #commodity #Importance 0
+
+Silver is down by 5% — Silver decreased 5% to 61.8 USD/t.oz
+
+---
+
+### 2026-06-24 01:52:38  #MKT News
+
+Financial Times reported SpaceX (SPCX.O) drew roughly $90 bln of orders for a $25 bln bond offering by midday local time.
+
+---
+
+### 2026-06-24 01:52:31  #其他
+
+市場訊息：SpaceX 此次 250 億美元債券發行，午間時段認購訂單規模接近 900 億美元。
+
+---
+
+### 2026-06-24 01:51:04  #Trading Economics #Markets #United States #stocks #Importance 1
+
+CME Stock Price Hits 16-month Low — CME shares decreased to 244.52 USD, the lowest since February 2025. Over the past 4 weeks, CME lost 13.42%, and in the last 12 months, it decreased 9.86%.
 
 ---
 
@@ -20926,197 +21172,5 @@ FX Updates: Polish Zloty Drops by 0.64% — Top currency losers are Polish Zloty
 ### 2026-06-22 22:59:09  #市場
 
 【牛津經濟研究院：英國財政不確定性或推高長期英國國債收益率】牛津經濟研究院的Andrew Goodwin在一份報告中表示，未來幾個月，短期英國國債收益率與長期英國國債收益率之間的差距可能會擴大。他表示，在基爾·斯塔默週一早些時候辭職後，隨著英國等待新領導人上任，財政前景不明朗，長期英國國債收益率可能會上升。Goodwin表示，被普遍預計將接替斯塔默的安迪·伯納姆可能會“淡化“秋季預算中宣佈的嚴格財政措施。不過，Goodwin表示，隨著油價下跌和通脹擔憂緩解，短期英國國債收益率可能會下降。Tradeweb資料顯示，10年期英國國債收益率下跌4.3個基點，最新報4.796%。兩年期英國國債收益率下跌5個基點，至4.200%。
-
----
-
-### 2026-06-22 22:58:29  #MKT News #Market Regions #Greater China
-
-HKEX filings show Shenzhen Basic Semiconductor Co., Ltd. has passed its HKEX listing hearing.
-
----
-
-### 2026-06-22 22:58:01  #公司
-
-Getty Images一度漲超133%，公司與OpenAI達成“展示協議”。
-
----
-
-### 2026-06-22 22:57:50  #國際
-
-法國總統馬克龍：感謝斯塔默對加強法英關係所作的貢獻，他在烏克蘭志願聯盟中的承諾，以及對重振英國與歐盟關係所付出的努力。我們共同在國防、核能、太空和創新領域所做的工作，特別是去年七月我們法英峰會上的成果，見證了這一承諾。
-
----
-
-### 2026-06-22 22:57:21  #市場 #國際
-
-【韓國總統李在明不支援率首超支援率】韓國一項最新民意調查結果顯示，總統李在明的不支援率升至49.7%，支援率降至46.7%。這是李在明去年6月上任以來，不支援率首次高於支援率。民調機構分析，地方選舉選票短缺事件是導致李在明支援率下滑的主要原因之一。受《能源經濟新聞》委託，韓國民調機構“真實計量器”15日至19日就李在明施政情況對全國2517名成年人展開調查。22日釋出的民調結果顯示，李在明支援率為46.7%，較一週前資料下降4.8個百分點，在該機構民調中首次跌破50%。其不支援率為49.7%，較一週前資料上升5.5個百分點。（新華社）
-
----
-
-### 2026-06-22 22:57:21  #Trading Economics #Markets #Commodity #Importance 1
-
-Heating Oil Falls Toward 3-1/2-Month Low — US heating oil prices fell to below $3.14 per gallon, near the lowest since early March, as progress in US-Iran peace talks fueled expectations of easing energy shortages and weaker fuel price pressures. Markets reacted to reports that Washington and Tehran agreed on a roadmap toward a final agreement within 60 days, while the US Treasury authorized production, delivery, and sale of Iranian oil and petroleum products for two months. A potential reopening of the Strait of Hormuz could mark a major shift for global energy markets, restoring traffic through a route that normally handles about a quarter of global seaborne oil shipments. The prospect of returning supply has already pushed Brent crude below $79 per barrel, its lowest level since early March. US refiners are also adjusting operations after months of disruption, producing record levels of jet fuel while reducing gasoline output to capture stronger margins.
-
----
-
-### 2026-06-22 22:56:51  #公司
-
-【程剛：KOOK不是“中國的Discord”，今年商業化收入預增超200%】在近日一場圓桌對話中，KOOK語音創始人兼CEO程剛回應"中國是否會有自己的Discord"的疑問。他表示，對KOOK而言，早期為了讓第一次接觸的使用者更容易理解，我們會說自己是“中國的Discord”，但我們內心希望把KOOK定義為面向中國遊戲玩家及泛娛樂人群的實時社群基礎設施。程剛指出，中國遊戲玩家生態、內容生態和開發者生態與國外均有很大區別，這也決定了KOOK與Discord之間存在許多差異。此外，實時是KOOK與普通社群產品的明顯區別。“我其實不太希望KOOK被定義為‘中國的Discord’。KOOK真正的定義不是在‘對標誰’的商業故事裡，而是在“被使用者需要”的每一個日常裡。我們並不急著證明自己是個大故事，我們要先證明使用者真的離不開KOOK，這也是我們希望能一直做下去的事。”程剛稱。（新浪科技）
-
----
-
-### 2026-06-22 22:56:23  #市場
-
-標普500指數和納斯達克100指數跌幅擴大至0.5%。
-
----
-
-### 2026-06-22 22:55:23  #其他
-
-日媒訊息：日美財務大臣預計將會晤。
-
----
-
-### 2026-06-22 22:54:48  #市場
-
-標普500指數轉跌，最新下跌0.4%。
-
----
-
-### 2026-06-22 22:54:24  #MKT News #Important #USDJPY #Impact bearish
-
-USD/JPY slid more than 40 pips in intra-session trading, turning down 0.1% on the day to a low of 161.07.
-
----
-
-### 2026-06-22 22:53:35  #市場
-
-日元走強，盤中升至1美元兌161.08日元日內高點。
-
----
-
-### 2026-06-22 22:53:07  #市場
-
-超微電腦股價上漲12.2%。
-
----
-
-### 2026-06-22 22:51:41  #公司
-
-【保利發展：商業不動產REITs獲註冊 後續待募集發行】保利發展公告稱，2026年1月27日公司董事會同意以廣州保利中心及佛山保利水城專案為基礎資產，開展商業不動產公募REITs申報發行工作。申報材料於1月30日獲上交所受理，4月28日上交所對其基金上市和資產支援證券掛牌轉讓無異議。6月22日，該REITs獲中國證監會准予註冊，基金型別為契約型封閉式，合同期限32年，募集份額總額5億份。發行上市尚需履行募集發行、上市申請程式。
-
----
-
-### 2026-06-22 22:51:34  #MKT News #Market Themes #AI Revolution
-
-【ASEAN secretary-general says ASEAN, China should deepen cooperation to tackle global challenges】ASEAN secretary-general said at a Jakarta forum marking the 5th anniversary of the China‑ASEAN comprehensive strategic partnership that ASEAN and China should deepen cooperation to address rising global challenges, prioritizing peace and stability, digital transformation and innovation, energy cooperation, resilience to transnational threats, and people‑to‑people connectivity. China’s ambassador to ASEAN said Beijing is willing to expand cooperation with ASEAN in the digital economy, AI, clean energy, blue‑economy development, agriculture and climate-change response to promote innovation and green, sustainable growth in the region.
-
----
-
-### 2026-06-22 22:50:16  #國際
-
-市場訊息：歐盟委員會將撥款 11 億歐元用於歐盟交通基礎設施的建設與現代化升級。
-
----
-
-### 2026-06-22 22:49:14  #其他
-
-Cloudflare 表示正在修復故障。
-
----
-
-### 2026-06-22 22:48:57  #其他
-
-調查顯示：黎巴嫩南部建築損毀損失預估達 13.8 億美元。
-
----
-
-### 2026-06-22 22:48:16  #市場
-
-美元兌日元漲幅再度大幅收窄，最新報下跌0.02%，報161.24。
-
----
-
-### 2026-06-22 22:48:06  #公司
-
-【利元亨：玻璃鐳射穿孔裝置已完成樣機開發 但尚未形成正式訂單及收入】利元亨6月22日在互動平臺稱，公司在TGV（玻璃通孔）領域已有技術儲備，自主研發的玻璃鐳射穿孔裝置已完成樣機開發，目前正結合客戶需求進行產品打樣及工藝驗證，尚未形成正式訂單及收入。
-
----
-
-### 2026-06-22 22:47:53  #國際
-
-【東盟秘書長：東盟和中國應深化合作應對全球挑戰】東盟秘書長高金洪22日在出席慶祝中國—東盟建立全面戰略伙伴關係5週年雅加達論壇暨專題報告釋出會時表示，面對日益複雜的全球性挑戰，東盟和中國應繼續深化合作，為地區以及世界和平、繁榮及可持續發展作出更大貢獻。高金洪說，從1991年中國和東盟正式開啟對話程序到2021年建立全面戰略伙伴關係，東盟和中國關係持續深化。2025年，中國對東盟進出口總值突破萬億美元，並簽署中國—東盟自貿區3.0版升級議定書，表明雙邊關係與時俱進、充滿活力。他指出，當前全球地緣政治形勢日益複雜，經濟碎片化加劇，氣候治理壓力不斷上升，技術進步速度也正在超出許多治理框架的適應能力。在這一背景下，強有力的東盟—中國關係具有重要意義。高金洪認為，面向未來，東盟和中國應重點推進五方面合作：一是維護和平與穩定，二是加強數字化轉型與創新，三是深化能源合作，四是增強應對跨國威脅的韌性，五是促進人文互聯互通。他表示，更加穩健的東盟—中國夥伴關係，必須面向未來、務實包容，並始終堅持以人民為中心。中國駐東盟大使王擎在致辭中表示，中國和東盟是命運與共的近鄰，只有同舟共濟，才能推動關係健康穩定發展。中國和東盟應堅持開放合作，加快落實中國—東盟自貿區3.0版升級議定書，建設更加開放的區域共同大市場，並透過互利合作提升地區糧食和能源安全、維護供應鏈穩定，打造更具韌性的區域經濟迴圈。王擎說，中方願同東盟拓展數字經濟、人工智慧、清潔能源、藍色經濟、農業和應對氣候變化等領域合作，推動創新和綠色發展，使本地區各國共享現代化和可持續發展機遇。（新華社）
-
----
-
-### 2026-06-22 22:47:08  #國際
-
-日元匯率貶值至兩年低點：日本財務大臣與美國財長召開緊急線上會議。
-
----
-
-### 2026-06-22 22:46:27  #公司
-
-【浙江東方科脈電子股份有限公司透過港交所上市聆訊】據港交所檔案：浙江東方科脈電子股份有限公司透過港交所上市聆訊。
-
----
-
-### 2026-06-22 22:46:25  #Trading Economics #Markets #United States #Currency #Importance 1
-
-Dollar Strengthens on Monday — The dollar index rose to 101 on Monday, reaching a new high in more than a year, as investors returned from the long weekend and refocused on developments in the Middle East and the monetary policy outlook. The US and Iran agreed on a roadmap toward a final deal to end their conflict within 60 days, with Iran’s foreign minister citing “progress” in negotiations, contributing to a decline in oil prices. However, markets continue to anticipate that the Federal Reserve will raise the fed funds rate this year, following a hawkish tone from new Chair Kevin Warsh last week and upward revisions to inflation forecasts. Attention now turns to this week’s PCE report, which includes the Fed’s preferred inflation gauge and is expected to provide fresh insight into underlying price pressures. The dollar strengthened most against the Japanese yen amid rising intervention concerns, while it weakened slightly against the British pound following UK Prime Minister Keir Starmer’s resignation.
-
----
-
-### 2026-06-22 22:46:10  #公司
-
-【威邁斯：車載電源產品可以應用於飛行汽車中 並已獲小鵬匯天定點】威邁斯6月22日在互動平臺稱，目前公司的車載電源產品已可以應用於飛行汽車中，並已獲得小鵬匯天的定點。
-
----
-
-### 2026-06-22 22:46:04  #Trading Economics #Markets #United States #stocks #Importance 1
-
-Alphabet Stock Price Hits 7-week Low — Alphabet shares decreased to 346.33 USD, the lowest since April 2026. Over the past 4 weeks, Alphabet lost 10.52%, and in the last 12 months, it increased 108.17%.
-
----
-
-### 2026-06-22 22:45:28  #公司 #焦點
-
-【寧德時代許金梅：今年9月開始交付首批鈉離子電池解決方案 2026年底實現GWh級出貨量】6月22日晚間，寧德時代許金梅在儲能新品釋出會表示，寧德時代將於今年9月交付首批鈉離子電池解決方案，預計2026年底中國出貨達GWh級，明年6月全球交付。目前，寧德時代已攻克量產難題，提升良率，降低成本，並擴建產能。許金梅認為鋰、鈉技術並行，公司鈉鋰相容方案可無縫融入產業鏈，應對鋰價波動。（每經網）
-
----
-
-### 2026-06-22 22:45:10  #MKT News #Important #Market Themes #China EV Leaders #300750.SZ #Impact bullish
-
-【CATL's Xu: first sodium‑ion battery deliveries start Sept 2026; China shipments to reach GWh scale by end‑2026】On June 22, CATL executive Xu Jinmei said the company will begin delivering its first sodium‑ion battery solutions in September 2026, expects China shipments to reach GWh‑scale by end‑2026, and plans global deliveries from June 2027. CATL has overcome mass‑production hurdles, improved yields, cut costs and expanded capacity. Xu said lithium and sodium technologies will run in parallel and CATL’s sodium‑lithium compatible solutions can be integrated into the supply chain to address lithium price volatility.
-
----
-
-### 2026-06-22 22:44:54  #公司
-
-【閃迪專利曝光3D存算架構：HBM與NAND分層協同】閃迪近日披露一項專利顯示，公司提出基於CBA儲存晶粒的3D堆疊架構：將GPU或AI加速器等計算晶片直接整合在NAND/CMOS邏輯儲存單元之上，並置於中介層，周圍堆疊HBM晶片。其中HBM負責高頻寬低延遲訪問，NAND層承擔大容量讀寫與儲存任務。該設計旨在緩解HBM容量受限問題（單堆約32–64GB）。此前閃迪提出HBF架構，透過TSV垂直堆疊NAND，容量可達4TB，較HBM提升8–16倍，但仍面臨延遲與系統整合複雜度挑戰。相較DRAM，NAND具備更高容量與更低成本，但訪問速度更慢。新架構透過3D分層，實現了兩者的完美互補。
-
----
-
-### 2026-06-22 22:44:20  #MKT News #Market Regions #Wall Street (US) #Nasdaq100 #Impact bearish #S&P500
-
-US stocks extended losses; the Nasdaq Composite fell 1.00%.
-
----
-
-### 2026-06-22 22:44:08  #市場 #國際
-
-美國股市延續跌勢，納斯達克綜合指數下跌1.00%。
-
----
-
-### 2026-06-22 22:44:04  #市場 #焦點
-
-納指跌1.00%，現報26252.703點；道指漲0.28%，現報51708.031點；標普500指數跌0.30%，現報7478.300點。
-
----
-
-### 2026-06-22 22:42:58  #Trading Economics #Markets #United States #stocks #Importance 1
-
-Netflix Stock Price Hits 19-month Low — Netflix shares decreased to 74.56 USD, the lowest since October 2024. Over the past 4 weeks, Netflix lost 16.43%, and in the last 12 months, it decreased 39.38%.
 
 ---

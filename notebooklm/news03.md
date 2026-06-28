@@ -1,7 +1,241 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-06-28 10:35:05_
-_本檔包含 3853 則快訊，約 669458 字_
+_更新時間：2026-06-28 12:06:33_
+_本檔包含 3851 則快訊，約 669756 字_
+
+---
+
+### 2026-06-25 07:51:27  #其他
+
+【科技股熱潮下私募業績分化 寧泉等就業績承壓向投資人致歉】今年以來，A股、港股市場呈現極致分化，以人工智慧（AI）、半導體等為代表的科技股走勢強勁，消費、地產等傳統板塊則表現低迷。極致行情下，私募業績大幅分化，寧泉資產、半夏投資等知名私募近日就業績承壓向投資人致歉。從行業整體情況看，堅守消費、地產等低估值價值的私募大面積跑輸，不少老牌主觀私募陷入深度回撤。同時，一批專注科技成長股的私募賺得盆滿缽滿，重點佈局中小盤的量化私募整體表現也優於主觀多頭。
+
+---
+
+### 2026-06-25 07:51:07  #MKT News
+
+Foreign investors net sold Japanese government bonds (JGBs) ¥1.0573 tln in the week to June 19, versus net selling of ¥531.0 bln in the prior week.
+
+---
+
+### 2026-06-25 07:50:57  #MKT News #Economic Calendar #Important
+
+Japan | Weekly Foreign investment in Japanese Bonds (Jun.19) | actual -1057300000000B | previous -531000000000B
+
+---
+
+### 2026-06-25 07:50:56  #MKT News #Market Regions #Japan & APAC #USDJPY #Impact bullish #DXY
+
+Japan's net purchases of foreign equities were 426.8 billion yen in the week to June 19, versus net sales of 418.3 billion yen in the prior week.
+
+---
+
+### 2026-06-25 07:50:54  #國際
+
+日本6月19日當週外資淨買進日本股票 4794億日元，前值 -7851億日元。日本6月19日當週外資淨買進日本債券 -10573億日元，前值 -5310億日元。日本6月19日當週外資淨買進日本債券 -10573億日元，前值 -5310億日元。日本6月19日當週淨買進國外債券 1997億日元，前值 3826億日元。
+
+---
+
+### 2026-06-25 07:50:45  #MKT News #Economic Calendar #Important
+
+Japan | Weekly Foreign Stocks Buying (Jun.19) | actual 426800000000B | previous -418300000000B
+
+---
+
+### 2026-06-25 07:50:11  #MKT News
+
+Foreign investors net bought JPY 479.4 bln of Japanese equities in the week to June 19; the prior week's net selling was revised from JPY 785.1 bln to JPY 785.2 bln.
+
+---
+
+### 2026-06-25 07:50:10  #MKT News #USDJPY #Impact bullish
+
+Japan bought foreign bonds worth 199.7 bln yen in the week to June 19; prior reading revised from 382.6 bln yen to 382.5 bln yen.
+
+---
+
+### 2026-06-25 07:50:00  #MKT News #Economic Calendar #Important
+
+Japan | Weekly Foreign Bonds Buying (Jun.19) | actual 199700000000B | previous 382600000000B
+
+---
+
+### 2026-06-25 07:50:00  #MKT News #Economic Calendar #Important
+
+Japan | Weekly Foreign investment in Japanese Stocks (Jun.19) | actual 479400000000B | previous -785100000000B
+
+---
+
+### 2026-06-25 07:49:48  #央行 #中國央行
+
+【夯實金融市場穩定基石 非銀流動性支援工具穩步推進】繼2024年創設兩項支援資本市場工具、打通央行向非銀機構提供流動性的供給渠道後，央行日前明確表示，研究設立特定情景非銀流動性支援宏觀審慎工具。近年來，隨著金融市場發展，非銀機構已成為重要參與主體，對風險情景的流動性支援也有越來越多的需求。
+
+---
+
+### 2026-06-25 07:49:46  #國際
+
+【委內瑞拉連續發生7級以上強震 加拉加斯震感強烈】當地時間24日傍晚，新華社駐委內瑞拉記者在該國首都加拉加斯感到強烈地震震感，記者駐地門窗作響、書架傾倒。社交媒體流傳的圖片顯示，加拉加斯街道上有房屋倒塌。據外媒報道，此次地震造成人員傷亡。截至目前，委內瑞拉官方尚未釋出相關訊息。據美國地質調查局地震資訊網訊息，格林尼治時間24日22時4分（北京時間25日6時4分），委內瑞拉蒙塔爾萬附近發生7.1級地震，震源深度10公里。該網後續監測顯示，不到一分鐘內，委內瑞拉再次發生強震，震級7.5級，震中位於北緯10.40度、西經68.32度，震源深度10公里。據外媒報道，美國海嘯預警系統已發出警報，委內瑞拉地震震中300公里範圍內的沿海地區可能遭受海嘯襲擊。（新華社）
+
+---
+
+### 2026-06-25 07:49:12  #國際
+
+日本石油天然氣金屬礦物資源機構（JOGMEC）：KUJI國家石油儲備基地未因地震受損。
+
+---
+
+### 2026-06-25 07:46:30  #公司 #觀點 #央行 #國際
+
+【花旗集團將季度股息提高12%至每股0.67美元】花旗銀行完成美聯儲年度壓力測試後，計劃將普通股季度股息上調12%，由每股0.60美元增至0.67美元。媒體此前預期股息為每股0.63美元。該行此前已公告，於第二季度啟動一項總額300億美元、分多年實施的普通股回購計劃。
+
+---
+
+### 2026-06-25 07:46:10  #市場 #國際
+
+基準10年期日本國債期貨早盤上漲0.12點。
+
+---
+
+### 2026-06-25 07:46:09  #MKT News #Important
+
+【Magnitude-7.5 quake offshore northern Venezuela】The US Geological Survey said on June 24 local time a magnitude-7.5 earthquake struck offshore northern Venezuela near Morón, close to the epicenter of an earlier magnitude-7.1 quake. The USGS said the two quakes may cause "a large number of casualties and widespread damage."
+
+---
+
+### 2026-06-25 07:45:57  #國際
+
+【委內瑞拉再次發生7.5級地震 】據美國地質調查局訊息，當地時間6月24日，委內瑞拉北部近海再次發生7.5級地震，震中位於該國北部莫龍附近，與此前發生的7.1級地震震中區域接近。美國地質調查局表示，委內瑞拉發生兩次地震後，可能造成“大量人員傷亡和廣泛破壞”。
+
+---
+
+### 2026-06-25 07:45:43  #市場 #國際
+
+日本日經平均指數期貨早盤上漲2.66%。
+
+---
+
+### 2026-06-25 07:43:47  #MKT News #WTI #Impact bullish #Brent #XAUUSD
+
+USGS said an earthquake in Venezuela is likely to cause significant casualties and widespread damage.
+
+---
+
+### 2026-06-25 07:42:44  #國際
+
+美國地質調查局：委內瑞拉地震後，預計可能造成大量人員傷亡和廣泛破壞。
+
+---
+
+### 2026-06-25 07:42:12  #國際
+
+【人民日報鐘聲：急修“安保三檔案”，暴露日本加速軍事轉軌的急躁姿態】圍繞年內修訂“安保三檔案”，日本自民黨日前透過該黨擬向政府提交的建議草案。草案內容激進，包括大幅增加防衛費、全面取消武器出口限制，以及大力發展進攻性軍事力量等。這已非簡單的政策調整，而是日本右翼勢力加速掙脫戰後束縛、全面推進“再軍事化”的危險舉措，對地區和平穩定的潛在衝擊不容小覷。日本右翼勢力為加速重新武裝，不斷渲染周邊安全形勢、無端指責抹黑中國正常軍事活動，打著“加強防衛”“被動應對”的幌子，實則大肆發展主動進攻的中遠端武器，加強力量投射和前沿部署，妄圖將軍事擴張和備戰深度嵌入國家制度、經濟產業和社會輿論，一步步突破日本憲法和國際法規則約束，公然挑戰戰後國際秩序，正在給地區安全製造真正的威脅。
+
+---
+
+### 2026-06-25 07:41:52  #其他
+
+【紅利基金短期淨值承壓 資金借道ETF逆勢加倉】近期，A股市場整體呈現明顯的K型分化特徵，以人工智慧（AI）為核心的科技板塊持續衝高，並帶動各大指數上揚，而此前被公認的避險板塊——紅利指數則罕見地加速下滑，與科技的熱潮形成冷熱不均的畫面。然而，在淨值短期承壓之下，紅利主題ETF卻被資金集體加倉，個別產品年內甚至有上百億的份額增長。多家公募指出，在低利率時代的長邏輯下，高股息資產依然被眾多機構視為震盪市中不可或缺的“底氣”所在。
+
+---
+
+### 2026-06-25 07:39:07  #公司 #國際
+
+【洛克希德-馬丁斬獲350億美元導彈防禦合同】洛克希德・馬丁公司獲得美國國防部一份最高價值350億美元的合同，將把防空反導攔截彈產量提升至原有四倍，這也是特朗普政府擴大彈藥產能整體舉措的一環。洛克希德週三釋出宣告稱，根據這份為期七年的不確定交付合同，該防務承包商將大幅增產“末段高空區域防禦系統”（薩德/THAAD）攔截彈。本次授出合同源於公司今年1月與美國國防部達成的框架協議，協議約定未來數年大幅提升相關裝備產能。
+
+---
+
+### 2026-06-25 07:39:00  #央行 #日本央行
+
+【日本央行行長稱將繼續加息】日本央行6月24日公佈行長植田和男在全國信用金庫大會上的致辭。植田表示，當前金融環境“仍處於寬鬆狀態”，“將根據經濟、物價和金融形勢變化，繼續上調政策利率”。
+
+---
+
+### 2026-06-25 07:37:42  #公司
+
+【腦機介面重新點燃醫療創投圈 有投資人稱“幾乎所有方向都能融到錢”】“國內各種腦機介面的中下游公司源源不斷地找過來，希望能幫他們對接深圳做上游晶片、封裝、導線這些原材料的供應商。”一位腦機介面產業對接平臺的負責人向證券時報記者描述眼下的忙碌，有關企業名單越拉越長，隔三差五就會更新。這種熱度並非個例。今年，腦機介面把沉寂已久的醫療創投圈重新點燃了。據不完全統計，2026年前5個月，中國腦機介面領域的融資事件超30起，融資總額超過46億元。一個原本被視作“前沿小賽道”裡的方向，半年時間就變成賽道里最擁擠的入口。“幾乎所有腦機介面方向的企業，現階段都能融到錢。”有醫療健康領域的投資人這樣感嘆。
+
+---
+
+### 2026-06-25 07:36:42  #MKT News
+
+Japan Cabinet Secretary: nuclear facilities have sustained no damage and show no abnormalities.
+
+---
+
+### 2026-06-25 07:35:53  #國際
+
+日本內閣官房長官木原稔：日本地震後未發現核設施出現異常。
+
+---
+
+### 2026-06-25 07:35:36  #市場 #焦點
+
+紐約期金突破4030美元/盎司，日內漲0.53%。
+
+---
+
+### 2026-06-25 07:35:26  #市場 #焦點
+
+現貨黃金突破4010美元/盎司，日內漲0.29%。
+
+---
+
+### 2026-06-25 07:35:21  #MKT News
+
+Japan's chief cabinet secretary said no casualties have been reported after an earthquake.
+
+---
+
+### 2026-06-25 07:35:02  #公司 #觀點
+
+花旗集團將繼續執行300億美元的股票回購計劃。
+
+---
+
+### 2026-06-25 07:34:45  #公司 #觀點
+
+花旗集團將季度股息提高12%至每股0.67美元。
+
+---
+
+### 2026-06-25 07:34:27  #公司
+
+【美光科技：預計下一代DRAM與NAND明年下半年開始進入量產階段】據報道，美光科技6月24日表示，下一代DRAM與NAND節點的研發進展良好，預計將在2027年下半年開始進入量產階段。HBM4 12層產品的量產爬坡速度目前是HBM3E 12層版本的兩倍。公司已經累計交付超過10億美元的HBM4收入。
+
+---
+
+### 2026-06-25 07:33:38  #國際
+
+日本內閣官房長官木原稔：地震目前尚無人員傷亡報告，會繼續調查。
+
+---
+
+### 2026-06-25 07:32:36  #公司
+
+【美光科技CEO：預計第四財季資本支出約為100億美元】據報道，美光科技CEO表示，預計第四財季資本支出約為100億美元，預計2026財年全年資本支出約為270億美元。2027財年各季度的資本支出將高於2026第四財季的水平。
+
+---
+
+### 2026-06-25 07:31:57  #市場
+
+【REITs市場流動性分化明顯 修復行情需要長線增量資金】截至6月24日收盤，中證REITs全收益指數“七連跌”，點位在此前失守1000點後下探到了928.96點。在這一背景下，市場對公募REITs的流動性有所擔憂。從機構統計的成交量、交易活躍度等資料來看，公募REITs的流動性呈現出“總量尚可、結構惡化、分層加劇”三大特徵，中尾部資產的交易深度和抗衝擊能力被削弱。業內人士建議，流動性環境改善要從增量資金入市、投資者多元化、市場配套制度等方面入手，修復行情要看長線增量資金入市配套政策落地的情況。
+
+---
+
+### 2026-06-25 07:30:45  #公司 #觀點 #央行 #國際
+
+【壓力測試過關 摩根大通、高盛等大型銀行提高股利並回購股份】美國幾家大型銀行在透過了今年的美聯儲壓力測試後提高了股息；近年來，隨著監管機構研擬新的要求，壓力測試已趨於寬鬆。美聯儲年度評估結果公佈後，美國最大貸款機構摩根大通將季度股利由每股1.50美元提高到1.65美元，高盛的股利從4.50美元上調至5美元。摩根大通也批准了一項新的500億美元股票回購計劃，自7月1日起生效。富國銀行的股利從45美分升至50美分，摩根士丹利也上調股利，從1美元升至1.15美元。這項源於2008年金融危機後建立的美聯儲壓力測試顯示，所有受檢銀行都能維持足夠資本，以承受假設中的經濟衰退衝擊。該項檢測通常決定銀行透過股利與股票回購向股東返還資本時，能採取多大程度的積極作為。測試要求銀行評估假設的危機情境，並根據其業務組合估算可能面臨的損失。
+
+---
+
+### 2026-06-25 07:30:31  #Trading Economics #Markets #Commodity #Importance 0
+
+Brent Sinks to Pre-War Levels — Brent dropped toward $73 per barrel on Thursday, extending losses for a fourth consecutive session and wiping out all the gains made since the outbreak of the Middle East conflict, as progress in US-Iran peace efforts improved the supply outlook. Growing confidence in a lasting agreement has encouraged more tankers to transit the Strait of Hormuz with their tracking signals turned on. Supply has also increased across key segments of the market, with buyers facing a surge of crude offers from the Middle East and other exporting regions, including West Africa. In addition, a temporary US waiver permitting purchases of already-loaded Iranian oil is expected to further boost available supply. Reflecting the weaker market sentiment, Brent’s prompt spread, a closely watched indicator, shifted into bearish contango on Wednesday for the first time since the conflict began.
+
+---
+
+### 2026-06-25 07:28:53  #Trading Economics #Markets #Commodity #Importance 2
+
+Oil Sinks Toward Pre-War Levels — Crude oil dropped below $70 per barrel on Thursday, extending losses for a fourth consecutive session and nearly wiping out all the gains made since the outbreak of the Middle East conflict, as progress in US-Iran peace efforts improved the supply outlook. Growing confidence in a lasting agreement has encouraged more tankers to transit the Strait of Hormuz with their tracking signals turned on. Supply has also increased across key segments of the market, with buyers facing a surge of crude offers from the Middle East and other exporting regions, including West Africa. In addition, a temporary US waiver permitting purchases of already-loaded Iranian oil is expected to further boost available supply. Reflecting the weaker market sentiment, Brent’s prompt spread, a closely watched indicator, shifted into bearish contango on Wednesday for the first time since the conflict began.
 
 ---
 
@@ -23033,251 +23267,5 @@ U.S. crude futures settled at $73.21/barrel, down $0.65, or 0.88%.
 ### 2026-06-24 02:31:29  #MKT News #Commodities #Precious Metals #Energy #XAUUSD #Impact bearish #WTI
 
 【Night session main contracts close】As of the 02:30 close, SHFE gold main contract fell 0.82% to 902 yuan/gram; SHFE silver main contract fell 4.36% to 14,868 yuan/kg; SC crude oil main contract fell 1.52% to 492 yuan/barrel.
-
----
-
-### 2026-06-24 02:31:20  #MKT News #Commodities #Precious Metals #XAUUSD #Impact bearish
-
-Shanghai Gold Exchange June 23 evening session: gold T+D closed down 0.35% at 900.43 yuan/gram; silver T+D closed down 2.75% at 14,827.0 yuan/kg.
-
----
-
-### 2026-06-24 02:31:19  #市場
-
-WTI 7月原油期貨收報73.21美元/桶。NYMEX 7月天然氣期貨收報3.1470美元/百萬英熱單位。NYMEX 7月汽油期貨收報2.9590美元/加侖，NYMEX 7月取暖油期貨收報3.1546美元/加侖。
-
----
-
-### 2026-06-24 02:31:15  #MKT News
-
-AP: A US Department of Homeland Security spokesman said the US has eased restrictions on the Iranian World Cup team, allowing the team to depart for the match venue two days before its next game.
-
----
-
-### 2026-06-24 02:30:58  #國際
-
-美國聯邦通訊委員會表示，無線頻譜拍賣募款總額超 35 億美元。
-
----
-
-### 2026-06-24 02:30:02  #市場
-
-上期所原油期貨夜盤收跌1.52%，報492.00元人民幣/桶。滬金夜盤收跌0.82%，滬銀收跌4.36%。
-
----
-
-### 2026-06-24 02:30:00  #Trading Economics #Markets #Crypto #Importance 1
-
-Crypto Updates: Ether Drops by 4.09% — Top crypto losers are Ether (-4.09%), Bitcoin (-2.60%) and Binance (-2.58%).
-
----
-
-### 2026-06-24 02:28:45  #MKT News #Market Themes #AI Revolution
-
-OpenAI opens applications for its 2026 DevDay developer conference.
-
----
-
-### 2026-06-24 02:27:34  #其他
-
-【CFA一級考試透過率降至39%】CFA協會週二公佈，5月份39%的考生透過了一級考試，低於2月的45%，也低於去年11月和8月考試的43%。雖然這一透過率低於過去十年40%的平均水平，但仍高於2021年創下的低點。據CFA的資料，5月有超過3.1萬名考生參加一級考試，為2019年以來同級考試規模最大的一次。
-
----
-
-### 2026-06-24 02:26:24  #MKT News #Market Themes #The Trump Trade
-
-FIFA president says Trump will personally present the World Cup trophy.
-
----
-
-### 2026-06-24 02:26:04  #MKT News
-
-【Rubio: Iran denies agreeing to IAEA inspections for 'internal reasons'】The New York Times reports U.S. Secretary of State Rubio said Iran, citing domestic political reasons, has denied the Switzerland agreement to allow IAEA inspections. Rubio said Iran committed to inspections and must either honor that commitment—if it does the process will move forward; if it does not, President Trump will have to decide next steps.
-
----
-
-### 2026-06-24 02:25:00  #Trading Economics #Markets #Commodity #Importance 1
-
-Agricultural Commodities Updates: Coffee Gains by 3.28% — Top commodity gainers are Coffee (3.28%), Rice (3.26%) and Rapeseed (1.12%). Biggest losers are Lumber (-2.19%) and Wheat (-1.64%).
-
----
-
-### 2026-06-24 02:23:55  #國際
-
-國際足聯主席：特朗普將親自頒發世界盃獎盃。
-
----
-
-### 2026-06-24 02:22:13  #MKT News
-
-The U.S. State Department and other regional governments issued a joint statement saying a "violent minority" is attempting to disregard the will of the majority of the Bolivian people.
-
----
-
-### 2026-06-24 02:22:01  #MKT News
-
-U.S. State Department and other regional governments said in a joint statement that attempts to overthrow Bolivia's government constitute a "serious threat" to order and stability.
-
----
-
-### 2026-06-24 02:21:53  #宏觀 #國際
-
-美國國務院聯合西半球多國發布聯合宣告：玻利維亞境內顛覆政府的各類行徑對當地秩序與穩定構成 “嚴重威脅”。
-
----
-
-### 2026-06-24 02:20:50  #MKT News
-
-【Trump approval falls to second‑term low; half of Americans say Iran war not worth it】A five‑day Refinitiv/Ipsos poll ending Monday found Trump’s approval at 34%, returning to the lowest level of his second term, last seen in April. Only 24% said a war with Iran would be worth the cost; 50% said the conflict was not worth it and the remainder were unsure. About 63% said an agreement signed by Trump was unlikely to produce lasting peace between the US and Iran.
-
----
-
-### 2026-06-24 02:19:59  #Trading Economics #Markets #Commodity #Importance 1
-
-Metals Commodities Updates: Silver Tumbles by 5.14% — Top commodity losers are Silver (-5.14%), Copper (-3.56%) and Gold (-1.61%). Gains are led by Lithium Carbonate (0.96%).
-
----
-
-### 2026-06-24 02:18:47  #公司 #國際
-
-IBM：特朗普政府將持有Anderon的股權，但不參與治理。Anderon量子晶圓代工業務將從擴建位於紐約州奧爾巴尼的設施起步。量子技術對於實現規模化製造至關重要。許多量子計算公司已表達了向Anderon採購的意向。 量子計算賽道最終只會誕生一兩家絕對頭部贏家。
-
----
-
-### 2026-06-24 02:18:37  #MKT News #IBM.O #Impact bullish
-
-IBM Research head expects one or two clear winners to emerge in the quantum computing race.
-
----
-
-### 2026-06-24 02:18:23  #MKT News
-
-IBM's head of research said many quantum computing firms have expressed interest in purchasing from Anderon.
-
----
-
-### 2026-06-24 02:18:07  #MKT News #IBM.O
-
-IBM's vice president of quantum applications said quantum technology is critical to achieving scalable manufacturing.
-
----
-
-### 2026-06-24 02:17:53  #MKT News #Market Themes #Chip Wars #IBM.N #Impact bullish
-
-IBM (IBM.N): Anderon's quantum wafer foundry will launch by expanding its facility in Albany, New York.
-
----
-
-### 2026-06-24 02:17:30  #MKT News #Market Themes #The Trump Trade
-
-IBM (IBM.N) said the Trump administration will hold an equity stake in Anderon but will not participate in governance.
-
----
-
-### 2026-06-24 02:17:16  #其他
-
-【報道：英國首相熱門人選伯納姆擬解除裡夫斯財政大臣職務】據知情人士透露，安迪·伯納姆準備解除蕾切爾·裡夫斯的財政大臣職務，但會為她提供一個內閣中的其他職位。 裡夫斯試圖在伯納姆掌權的情況下保住財政大臣職位，但並未成功。
-
----
-
-### 2026-06-24 02:15:19  #MKT News #Macro & Rates #The Fed (FOMC) #DXY #Impact bullish #EURUSD #Impact bearish #USDJPY
-
-【Fed rate‑hike bets firm; dollar hits highest since last November】The dollar rose to its strongest since last November on Tuesday as traders consolidated bets on Fed tightening, pricing nearly two 25bp hikes by early 2027. "The dollar has room to run; it tends to strengthen ahead of Fed hikes and markets are discussing a possible September start to the hiking cycle," said Mizuho strategist Jordan Rochester. The euro slid to a one‑year low after ECB President Lagarde's comments trimmed odds of further ECB rate hikes. The yen remained under pressure as markets judge BOJ tightening too slow to stop depreciation, keeping FX intervention risk elevated.
-
----
-
-### 2026-06-24 02:14:59  #Trading Economics #Markets #Commodity #Importance 1
-
-Energy Commodities Updates: Natural gas Falls by 3.36% — Top commodity losers are Natural gas (-3.36%), Methanol (-2.77%), Gasoline (-1.17%), Brent Crude Oil (-0.94%) and Crude Oil WTI (-0.92%). Gains are led by Heating Oil (2.07%), Natural Gas UK (0.83%) and Natural Gas EU (0.64%).
-
----
-
-### 2026-06-24 02:11:52  #國際
-
-據美聯社：美國放寬對伊朗世界盃球隊的限制。
-
----
-
-### 2026-06-24 02:11:24  #MKT News #Commodities #Energy #WTI #Impact bearish #Brent
-
-Kpler analyst Amena Bakr said Strait of Hormuz transit volumes rebounded to 4.8 mln b/d after detained vessels and a previously sanctioned fleet were unblocked.
-
----
-
-### 2026-06-24 02:11:04  #公司
-
-軍工初創公司Stark Defence按32億歐元估值融資5億歐元（摺合5.70億美元），紅杉資本、Peter Thiel旗下Founders Fund領投。
-
----
-
-### 2026-06-24 02:07:07  #MKT News
-
-Argentina's interbank peso closed 0.61% weaker at 1,471.5 per USD, its weakest level in eight months.
-
----
-
-### 2026-06-24 02:06:34  #市場
-
-交易商訊息：阿根廷比索銀行間匯率收盤下跌 0.61%，報 1 美元兌 1471.5 比索，創八個月新低。
-
----
-
-### 2026-06-24 02:04:37  #MKT News #WTI #Impact bullish #Brent
-
-【Dallas Fed: U.S. far more resilient to oil-price shocks than in 1980s】The Federal Reserve Bank of Dallas estimates in a new study that a recent spring oil surge above $120/bbl reduced U.S. output by roughly 0.3 percentage point, far less than similar shocks in the 1980s when U.S. oil import dependence was higher. A U.S.-backed war on Iran cut about 15% of global oil supply, disrupted Strait of Hormuz shipping, roiled commodity markets, pushed prices higher, caused regional shortages and weighed on overall demand.
-
----
-
-### 2026-06-24 02:03:28  #市場
-
-甲骨文股價創逾一個月新低，最新下跌 5.1%。
-
----
-
-### 2026-06-24 02:01:51  #央行 #市場 #國際
-
-【達拉斯聯儲：美國經濟對油價衝擊的抵抗力遠強於1980年代】美國達拉斯聯儲一項最新研究估計，去年春季油價飆升至每桶120美元以上，使美國經濟產出減少約0.3個百分點，但這一衝擊遠低於20世紀80年代類似石油衝擊造成的影響，當時美國對石油進口依賴程度更高。在美國支援下對伊朗發動的戰爭導致全球石油供應減少約15%，霍爾木茲海峽航運受阻，全球大宗商品市場陷入動盪，價格上漲、部分地區供應短缺且整體需求下降。
-
----
-
-### 2026-06-24 01:57:15  #MKT News
-
-【Israel confirms smuggling of tens of thousands of Starlink terminals into Iran】Israel’s opposition leader and former prime minister Naftali Bennett said at a June 23 public event in Jerusalem that while serving as PM in 2021–2022 he purchased and smuggled tens of thousands of Starlink user terminals into Iran to help anti-government protesters attempting to topple the regime. He said the current Netanyahu government did not continue the program.
-
----
-
-### 2026-06-24 01:57:13  #國際
-
-【以色列證實向伊朗偷運數萬星鏈】以色列反對黨領導人、前總理貝內特6月23日在耶路撒冷的一場公開活動上承認，他2021年至2022年擔任以色列總理期間，曾採購數萬臺“星鏈”接收器並偷運入伊朗，以幫助反政府抗議者試圖推翻伊朗政權。但據他稱，內塔尼亞胡領導的現任以色列政府未能持續推進該計劃。（CCTV國際時訊）
-
----
-
-### 2026-06-24 01:55:36  #公司 #國際
-
-蘇利南總理：馬來西亞國家石油公司（馬石油）在 52 號海上區塊再獲油氣新發現。
-
----
-
-### 2026-06-24 01:54:48  #Trading Economics #Markets #commodity #Importance 0
-
-Silver is down by 5% — Silver decreased 5% to 61.8 USD/t.oz
-
----
-
-### 2026-06-24 01:52:38  #MKT News
-
-Financial Times reported SpaceX (SPCX.O) drew roughly $90 bln of orders for a $25 bln bond offering by midday local time.
-
----
-
-### 2026-06-24 01:52:31  #其他
-
-市場訊息：SpaceX 此次 250 億美元債券發行，午間時段認購訂單規模接近 900 億美元。
-
----
-
-### 2026-06-24 01:51:04  #Trading Economics #Markets #United States #stocks #Importance 1
-
-CME Stock Price Hits 16-month Low — CME shares decreased to 244.52 USD, the lowest since February 2025. Over the past 4 weeks, CME lost 13.42%, and in the last 12 months, it decreased 9.86%.
 
 ---

@@ -1,7 +1,151 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-06-28 10:35:05_
-_本檔包含 3518 則快訊，約 670028 字_
+_更新時間：2026-06-28 12:06:33_
+_本檔包含 3504 則快訊，約 670115 字_
+
+---
+
+### 2026-06-28 12:04:41  #國際
+
+英媒援引日本郵船訊息：水雷或將阻礙霍爾木茲海峽航運長達數月。
+
+---
+
+### 2026-06-28 12:04:08  #公司
+
+谷歌對Meta Gemini模型的使用設限，因人工智慧需求緊張導致算力吃緊。
+
+---
+
+### 2026-06-28 12:04:00  #其他
+
+【騰訊小範圍內測TenPay Go，面向境外人士來華支付】記者瞭解到，騰訊正在內測一款面向境外人士的“來華生活便利助手”，旨在提供包括移動支付服務的一站式數字生活服務。該App將支援在全國數千萬家微信支付合作商戶中直接消費，目前仍在小範圍測試中，暫未全量開放體驗。記者留意到，該款APP已在App Store上架，名為TenPayGo。（介面新聞）
+
+---
+
+### 2026-06-28 12:02:14  #其他
+
+【世界盃32強全部產生】北京時間6月28日，2026年美加墨世界盃小組賽收官。在J組的最後兩場小組賽中，約旦1-3不敵阿根廷，阿爾及利亞3-3戰平奧地利。至此，32強席位已全部落定。（央視新聞）
+
+---
+
+### 2026-06-28 11:51:38  #國際
+
+麥納麥訊息：巴林內政部28日在社交媒體上說，警報已拉響，請民眾保持冷靜並前往最近的安全地點。 當天早些時候，巴林內政部已釋出了一次警報拉響提示。伊朗伊斯蘭革命衛隊當天宣佈對位於巴林的美軍第五艦隊等重要基礎設施發動打擊。（新華社）
+
+---
+
+### 2026-06-28 11:47:29  #MKT News
+
+CENC automatic detection: at 11:39 on June 28 a magnitude ~4.0 earthquake was recorded near Haixi prefecture, Qinghai (37.86°N, 95.42°E). Final magnitude pending official quick report.
+
+---
+
+### 2026-06-28 11:42:39  #公司
+
+【加拿大商界代表說期待進博會為加中合作創造機遇】加拿大最大商會之一、薩里與懷特羅克貿易委員會執行長喬斯琳·揚近日接受記者採訪時說，中國市場擁有巨大的發展潛力和豐富的合作機遇，期待今年的中國國際進口博覽會（進博會）為加中未來合作創造機遇。今年，加拿大將擔任進博會主賓國。談及進博會這一平臺，喬斯琳·揚說，任何能夠將全球進出口商和商界人士匯聚一堂的平臺，尤其是促進加中交流的平臺，都是建立商業聯絡、拓展合作網路的寶貴機會。喬斯琳·揚說，加中雙方企業互補性強，未來擁有巨大的合作空間，有望共同推動創新與經濟發展。她說，加拿大擁有許多能夠面向中國市場的優勢領域，例如清潔技術、先進製造業、食品產業以及農業科技等。“中國在科技創新領域處於世界領先地位，我非常期待看到此次進博會能夠促成有價值的交流與對話，併為雙方未來合作創造新機遇。”（新華社）
+
+---
+
+### 2026-06-28 11:41:30  #其他
+
+中國地震臺網自動測定：06月28日11時39分在青海海西州直轄區附近（北緯37.86度，東經95.42度）發生4.0級左右地震，最終結果以正式速報為準。
+
+---
+
+### 2026-06-28 11:38:44  #其他
+
+巴林內政部：拉響防空警報。
+
+---
+
+### 2026-06-28 11:38:29  #MKT News
+
+Bahrain Interior Ministry said alarms are sounding and urged citizens and residents to remain calm and proceed to the nearest safe location.
+
+---
+
+### 2026-06-28 11:30:35  #MKT News #Market Regions #Greater China #CNH #Impact bearish #CSI300 #Copper
+
+【CPCA's Cui Dongshu: China auto imports 38,000 units in May, down 19% YoY】June 28 — Cui Dongshu, secretary-general of the CPCA, said China auto imports in May 2026 totaled 38,000 units, down 19% YoY; January–May imports were 160,000 units, down 11% YoY. He cited the rise of domestic brands and accelerated localization by international manufacturers as drivers of sustained weakness in imports. Imported cars have recorded three consecutive years of negative growth; smoothing out volatility would imply eight straight years of decline.
+
+---
+
+### 2026-06-28 11:22:04  #MKT News #AUDUSD #Impact mixed
+
+【Australian treasurer: inflation expected to peak at about 4.25% mid-year】Treasurer Jim Chalmers said Australia’s headline inflation is expected to peak near 4.25% mid-year, below prior forecasts, as lower oil prices and progress in Middle East talks support disinflation. He said he hopes a ceasefire will hold and warned Middle East uncertainty—particularly risks around the Strait of Hormuz—keeps inflation higher than expected, although recent progress has been more pronounced than anticipated. Chalmers declined to give a core inflation forecast—the RBA’s key policy metric—but said core inflation is also "moving forward" and that Treasury will update its forecasts mid-year.
+
+---
+
+### 2026-06-28 11:11:26  #其他
+
+香港天文臺釋出黃色暴雨警告。
+
+---
+
+### 2026-06-28 11:09:52  #其他
+
+【通用技術生物藥物研究院正式揭牌】6月27日，通用技術生物藥物研究院在北京中關村生命科學園正式揭牌成立，同步揭牌的還有細胞治療與修復再生北京市重點實驗室、創新藥物人才共育培養基地、細胞與基因治療藥物研發博士後工作站等創新平臺。
+
+---
+
+### 2026-06-28 11:08:39  #MKT News
+
+【Fuxin Technology says online full text of sales executive Zhou Zhiqi speech fabricated】Fuxin Technology said on June 28 that an online article purporting to be the full text of sales executive Zhou Zhiqi’s speech is fabricated and does not represent the company. Zhou’s presentation at the CFCF2026 Optical Connectivity Conference on June 27 in Suzhou, titled Breaking the Deadlock and Reshaping: Micro-TEC Domesticization Wave, only described company products and technology. The company said its Micro-TEC products use bismuth telluride materials that do not require 6N-grade or higher tellurium or bismuth raw materials, it has not recently added major telecommunications customers nor secured any large new orders, and industry peers likewise do not require 6N-grade raw materials for bismuth telluride.
+
+---
+
+### 2026-06-28 11:06:49  #公司 #焦點
+
+【富信科技：網傳公司銷售周志奇演講完整原文為杜撰文章】富信科技6月28日釋出宣告，針對部分網路媒體、自媒體和社交媒體平臺傳播的題為《周志奇演講完整原文》的文章及相關內容，公司經核查後鄭重宣告如下：一、《破局與重塑：Micro-TEC國產化浪潮》是公司銷售周志奇在CFCF2026光連線大會（6.27蘇州）的演講主題，其在該演講中僅對公司產品和技術進行了介紹；網傳《周志奇演講完整原文》為杜撰文章，此文與公司無關並完全不代表公司立場。二、公司生產的Micro TEC產品所使用的碲化鉍材料無需使用純度達6N級及以上的碲、鉍等單質原料；公司近期未新增通訊領域重大客戶，亦未獲取新增大額訂單。據瞭解，行業內生產Micro TEC產品所使用的碲化鉍材料亦無需使用純度達6N級及以上的碲、鉍等單質原料。
+
+---
+
+### 2026-06-28 11:05:23  #公司
+
+【追覓業務調整 同步啟動人員最佳化】近日，追覓系各大業務單元（BU）正在收縮和調整，將旗下超過200個業務單元（BU）大幅收縮整合為四大主營業務板塊，並同步啟動人員最佳化。追覓相關業務負責人接受採訪時表示，近期，追覓科技完成新一輪核心戰略調整，正式鎖定智慧家庭、戶外庭院、智慧出行、具身智慧四大核心賽道，對旗下業務體系進行系統性梳理與最佳化。此次戰略迭代是企業發展邏輯的深度重塑，全面迴歸硬核科技研發與技術落地的核心賽道。與業務調整同步進行的是人員最佳化，這也是追覓成立以來最大規模的組織人事精簡。據悉，此次公司總體裁撤比例約為12%。據估算，目前追覓體系（不含一線工廠員工）總人數約2萬人，此次最佳化涉及人數約2400人。這一比例略高於追覓科技每年年中考核約10%的常態化淘汰比例。
+
+---
+
+### 2026-06-28 11:02:54  #MKT News #WTI #Impact bullish #XAUUSD #DXY
+
+【US official says US military facilities in Middle East not significantly affected】Refinitiv on the 27th quoted a US official saying Iran launched missile and drone strikes against neighboring states including Bahrain and Kuwait; there have been no reported US casualties and US facilities in the Middle East sustained no significant damage.
+
+---
+
+### 2026-06-28 11:00:19  #其他
+
+【蘭州大學回應教師楊某某相關論文問題：成立專項調查組】蘭州大學6月27日釋出情況說明：學校高度重視網上對我校教師楊某某相關論文問題的反映，已第一時間成立專項調查組啟動調查。學校一貫對科研失信行為秉持“零容忍”態度，將根據調查情況嚴肅認真處理。
+
+---
+
+### 2026-06-28 10:51:47  #公司
+
+【英媒：蘇格蘭隊從美加墨世界盃出局後，主帥克拉克決定辭職】據英國廣播公司（BBC）、《衛報》等媒體28日報道，蘇格蘭隊從美加墨世界盃出局後，蘇格蘭隊主帥史蒂夫·克拉克決定辭職。（環球網）
+
+---
+
+### 2026-06-28 10:47:52  #其他
+
+【蔚來ES8大五座版將於7月9日上市】6月27日，蔚來宣佈ES8大五座版開啟預訂，將於7月9日正式上市。
+
+---
+
+### 2026-06-28 10:45:57  #國際
+
+【日本山梨縣地震已致20人受傷】據日本總務省消防廳訊息，截至當地時間28日9時，26日晚發生在山梨縣的地震已造成20人受傷。當地時間26日22時29分左右，日本山梨縣東部發生5.6級地震，最大震度達6弱，多地震感強烈。日本氣象廳設定的地震震度由弱到強分別為0至4級、5弱、5強、6弱、6強和7級，共10個等級。日本氣象廳稱，震度6弱意味著人員難以站立，室內未固定傢俱可能發生移動甚至傾倒。據日本廣播協會統計，這是當地自1924年以來再次發生震度達到6弱的地震。此次地震震中靠近富士山。日本氣象廳表示，目前富士山各項觀測資料未見明顯變化，暫未發現與火山活動有關的異常情況。(新華社)
+
+---
+
+### 2026-06-28 10:45:44  #MKT News
+
+【Earthquake in Yamanashi prefecture injures 20】Japan's Fire and Disaster Management Agency said an earthquake that occurred in Yamanashi prefecture on the night of the 26th has injured 20 people as of 0900 JST on the 28th.
+
+---
+
+### 2026-06-28 10:37:14  #其他
+
+【中越邊境天麻高速馬鹿塘特大橋順利合龍 實現全線貫通】6月28日，位於雲南省文山州麻栗坡縣的天麻高速馬鹿塘特大橋順利合龍，標誌著天麻高速實現全線貫通，為中越邊境再添一條互聯互通的國門大動脈。馬鹿塘特大橋橫跨馬鹿塘水庫，全長1005.5米，主跨480米，為雙塔雙索麵半漂浮體系的鋼混組合梁斜拉橋。南北兩岸各一個主墩，最高塔高254米，相當於80多層高樓，矗立在近75度陡峭峽谷之間，由於區域地質條件錯綜複雜，斷層裂隙、岩土破碎帶及古滑坡體大範圍分佈，給施工建設帶來了極大挑戰。一線建設人員攻克各種難關，歷時910余天，橋面實現了毫米級精確對接，全線取得重大進展。（央視新聞）
 
 ---
 
@@ -56,6 +200,12 @@ _本檔包含 3518 則快訊，約 670028 字_
 ### 2026-06-28 10:16:24  #MKT News
 
 【Jiguang Xingtong completes 72-hour continuous stable link in mission】On June 27, Jiguang Xingtong said it achieved a 72-hour continuous stable laser-communication link during a mission. The spaceborne laser communication terminal supplier expects to deliver more than 100 terminals in 2026 and to have roughly 100 terminals operational in orbit. It closed an A4 financing round near RMB300 million earlier this year, with proceeds earmarked for next‑generation space laser communication R&D, automated production lines and upgrades to on‑orbit technology verification capabilities.
+
+---
+
+### 2026-06-28 09:56:24  #公司
+
+【暑期機票預訂量環比增長65% 航司最佳化航線提前佈局】全國暑運即將開始，民航方面，從目前的旅客預訂情況來看，長線深度遊和清涼避暑遊成為今年暑期出行的兩大主線，西北、東北等目的地熱度持續攀升，機票預訂量迎來大幅增長。去哪兒大資料研究院研究員石珂表示，截至目前，近一週預訂7月至8月暑期出行的機票明顯增長，環比上週增長65%。山西大同、貴州銅仁、西藏拉薩、內蒙古烏海、新疆和田的暑期機票預訂增幅都達到50%以上。面對今年暑期長線遊與避暑遊交織的旺盛市場需求，各大航空公司正積極最佳化航線網路，透過加密熱門目的地航班、投入寬體機型等方式精準增加運力供給，全力保障旅客暑期出行需求。 (央視財經)
 
 ---
 
@@ -21031,239 +21181,5 @@ Hong Kong tech stocks opened lower: BOSS Zhipin (02076.HK) and Alibaba (09988.HK
 ### 2026-06-26 09:33:54  #Trading Economics #Markets #South Korea #Stock Market #Importance 1
 
 South Korean Shares Fall on Tech Selloff, Profit-Taking — The benchmark KOSPI fell more than 3% to around 8,660 on Friday, reversing gains from the previous session, following overnight losses on Wall Street and profit-taking. Investor sentiment weakened after the Nasdaq extended its losing streak as renewed weakness in large-cap technology stocks reignited concerns over AI-related valuations. Markets also remained cautious after US core inflation matched expectations but reached its highest level since October 2023, reinforcing expectations that the Federal Reserve could keep interest rates higher for longer. At the same time, investors locked in profits following the KOSPI's 5.4% surge in the previous session. Technology heavyweights declined, with Samsung Electronics and SK Hynix falling more than 3% and 4%, respectively, while SK Square (-7.7%), Hyundai Motor (-3.4%), LG Energy Solution (-2.7%), HD Hyundai Heavy Industries (-3.3%), Hanwha Aerospace (-4.8%), and Doosan Enerbility (-4.6%) also traded sharply lower.
-
----
-
-### 2026-06-26 09:33:50  #MKT News #Market Regions #Japan & APAC #USDJPY #Impact bullish
-
-【Economist: Tokyo CPI unlikely to speed Bank of Japan rate hikes】Takuya Hoshino of the Dai-ichi Life Research Institute said Tokyo-area CPI rebounded in June for the first time in eight months but is unlikely to push the Bank of Japan to accelerate rate hikes. Tokyo consumer prices excluding fresh food rose 1.6% YoY in June, up from 1.3% in May. Hoshino said the print shows some underlying price resilience but is insufficient to prompt concern about faster cost pass-through to consumers and is unlikely to move the BOJ to bring forward hikes.
-
----
-
-### 2026-06-26 09:33:00  #市場 #焦點
-
-【A股昨日連闆闆塊異動拉昇】超聲電子、興業科技觸及漲停，中材科技、泰和新材、美盈森、航錦科技、ST中裝跟漲。
-
----
-
-### 2026-06-26 09:32:55  #MKT News #Market Themes #China EV Leaders #Market Regions #Greater China #01211.HK #Impact bearish #02015.HK #09863.HK
-
-Hong Kong auto stocks mostly fell. Beijing Automotive (01958.HK) and NIO-SW (09866.HK) slid over 5%; Leapmotor (09863.HK) fell about 4%; BYD Company (01211.HK) dropped over 3%; Li Auto (02015.HK) fell nearly 3%.
-
----
-
-### 2026-06-26 09:32:53  #MKT News #Market Regions #Greater China #CSI300 #Impact bearish #Hang Seng Index #SSE Composite
-
-FTSE China A50 futures extend losses to 1.2%.
-
----
-
-### 2026-06-26 09:32:47  #市場
-
-中科聞歌首日開盤現漲超100%，報123.5港元，總市值超200億港元。
-
----
-
-### 2026-06-26 09:32:25  #市場 #焦點
-
-20號膠連續主力合約日內跌4%，現報14275.00元。
-
----
-
-### 2026-06-26 09:32:09  #公司
-
-【遠翔新材：截至目前公司與安瓦新能源暫無供貨關係】遠翔新材(301300)在互動平臺表示，公司董事長帶隊走訪安瓦新能源，意在挖掘電池配套材料合作機會。截至目前，公司與安瓦新能源暫無供貨關係，未簽署供貨訂單。本次僅為前期產業交流，後續合作能否落地存在不確定性，相關進展達到披露要求後公司會及時公告，請注意投資風險。
-
----
-
-### 2026-06-26 09:32:02  #市場
-
-電力股盤初拉昇，龍源電力直線漲停，金房能源、節能風電、協鑫能科、浙江新能、華電遼能跟漲。
-
----
-
-### 2026-06-26 09:31:32  #市場 #焦點
-
-恒生科技指數跌超2%，現報4317.360點；恒生指數現跌0.892%。
-
----
-
-### 2026-06-26 09:31:30  #MKT News #Market Regions #Greater China #CSI300 #Impact bullish #SSE Composite
-
-China A-shares grid-equipment sector opened higher; Baosheng hit the daily limit. Baiyun Electric, Yineng Power, Acrel, Hangzhou Kelin and Great Wall Technology also advanced.
-
----
-
-### 2026-06-26 09:31:29  #MKT News #Market Regions #Greater China #CSI300 #Impact bearish
-
-【China stock index futures open lower】China's CSI 300 index futures (IF) front-month contract fell 0.54% at the morning open; SSE 50 index futures (IH) down 0.10%; CSI 500 index futures (IC) down 0.82%; CSI 1000 index futures (IM) down 0.98%.
-
----
-
-### 2026-06-26 09:31:22  #MKT News
-
-【China government bond futures open: morning session】At the morning open, China’s 2-year government bond futures (TS) most-active contract fell 0.01%, 5-year (TF) unchanged, 10-year (T) unchanged, 30-year (TL) up 0.10%.
-
----
-
-### 2026-06-26 09:31:17  #市場 #焦點
-
-中證500指數期貨連續主力合約日內跌1%，現報8610.80點。
-
----
-
-### 2026-06-26 09:31:08  #市場
-
-中證轉債指數開盤下跌0.03%。迴天轉債、祥和轉債、聯瑞轉債、威唐轉債、奕瑞轉債跌幅居前，分別跌4.57%、4.39%、2.67%、2.46%、2.38%。恆逸轉2、花園轉債、百潤轉債、金05轉債、天準轉債漲幅居前，分別漲8.18%、4.44%、3.14%、1.70%、1.50%。
-
----
-
-### 2026-06-26 09:31:05  #市場 #焦點
-
-中證1000指數期貨連續主力合約日內跌1%，現報8432.00點。
-
----
-
-### 2026-06-26 09:31:03  #MKT News #Market Regions #Greater China #Hang Seng Index #Impact bearish
-
-HSI fell 1%; Hang Seng Tech Index fell 1.8%.
-
----
-
-### 2026-06-26 09:31:02  #市場 #焦點
-
-北證50日內跌幅達1.21%，成分股中，同惠電子跌5.67%，曙光數創跌3.98%，華嶺股份跌3.83%，納科諾爾跌2.77%。
-
----
-
-### 2026-06-26 09:30:44  #市場
-
-富時中國A50指數期貨跌幅擴大至1%。
-
----
-
-### 2026-06-26 09:30:38  #市場 #焦點
-
-恒生指數跌超1%，現報22840.230點；恒生科技指數現跌1.647%。
-
----
-
-### 2026-06-26 09:30:32  #市場 #焦點
-
-多晶矽連續主力合約日內跌4%，現報34685.00元。
-
----
-
-### 2026-06-26 09:30:27  #公司 #市場
-
-【電網裝置板塊高開，寶勝股份漲停】電網裝置板塊高開，寶勝股份漲停，白雲電器、億能電力、安科瑞、杭州柯林、長城科技跟漲。
-
----
-
-### 2026-06-26 09:30:26  #市場 #焦點
-
-深證成指跌1.00%，現報16180.621點；上證指數跌0.54%，現報4097.895點；創業板指跌1.47%，現報4307.839點。
-
----
-
-### 2026-06-26 09:30:19  #其他
-
-【海口桂林洋110kV福創輸變電工程全面投運】據海口日報，近日，隨著最後一組專項除錯及執行試驗資料順利達標，海口桂林洋110kV福創輸變電新建工程正式投入運營。作為江東新區總部經濟區（生態CBD）唯一規劃的110kV變電站，該專案投運後將有效破解園區供電瓶頸，為江東新區高質量發展提供堅實電力保障。
-
----
-
-### 2026-06-26 09:30:04  #MKT News #Market Regions #Greater China #02272.HK #Impact bullish #01956.HK #09630.HK
-
-Hong Kong new listings rallied: Ketuo Co. (02272.HK) surged 178.38%, Zhongke Wenge (01956.HK) rose 81.22%, and Xinqi Weizhuang (09630.HK) gained 73.70%.
-
----
-
-### 2026-06-26 09:30:02  #市場
-
-【股指期貨早盤開盤】 中證1000指數期貨連續跌0.44%， 滬深300指數期貨連續跌0.27%， 中證500指數期貨連續跌0.47%， 上證50指數期貨連續跌0.10%。
-
----
-
-### 2026-06-26 09:30:02  #市場 #焦點
-
-恒生科技指數跌超1%，現報4352.950點；恒生指數現跌0.578%。
-
----
-
-### 2026-06-26 09:30:02  #市場 #焦點
-
-科創50日內跌幅達1.54%，成分股中，翱捷科技跌3.39%，盛科通訊跌3.28%，華虹宏力跌3.14%，佰維儲存跌3.11%。
-
----
-
-### 2026-06-26 09:30:02  #市場
-
-【國債期貨開盤】 30年期主力合約漲0.10%， 10年期主力合約基本持平， 5年期主力合約漲0.01%， 2年期主力合約漲0.01%。
-
----
-
-### 2026-06-26 09:29:42  #公司 #國際
-
-【特朗普將首次乘坐卡達贈送的新專機 下週出席北達科他州活動】據白宮官員透露，唐納德·特朗普將首次乘坐卡達政府贈送的新總統專機，計劃於7月1日前往北達科他州參加活動。特朗普將首次乘坐這架波音公司747-8飛機，出席西奧多·羅斯福總統圖書館的落成典禮，也是他下週為慶祝美國建國250週年而舉辦的一系列活動之一。
-
----
-
-### 2026-06-26 09:29:22  #MKT News #000300.SS #Impact bearish #000001.SS #399001.SZ
-
-A-share CPO sector opened sharply lower in early trade; Lihexing fell more than 8%, Taichenguang dropped over 7%, Tonghui Electronics declined about 6%, and Luxshare Precision and Changyingtong were down more than 4%.
-
----
-
-### 2026-06-26 09:29:16  #MKT News #Market Themes #AI Revolution #CSI300 #Impact bullish #SSE Composite #Hang Seng Index
-
-【Galaxy Securities H2 2026 machinery outlook: focus on AI-related tech growth】Galaxy Securities says H2 2026 investment opportunities in the machinery equipment sector center on three market themes: prioritise AI-related tech growth — e.g., optical-module test instruments, AI PCB equipment and consumables, and AI power-generation equipment; target strategic and emerging industries highlighted in China’s 15th Five-Year Plan, such as humanoid robotics and controlled nuclear fusion; and favour low-valuation, high-quality stocks with rising industry beta in cyclical subsectors, including construction/engineering machinery and machine tools.
-
----
-
-### 2026-06-26 09:29:00  #公司 #市場
-
-【港股新股集體走強 科拓股份等個股漲超70%】利弗莫爾證券顯示，截至發稿，科拓股份(02272.HK)漲178.38%，中科聞歌(01956.HK)漲81.22%，芯碁微裝(09630.HK)漲73.70%。
-
----
-
-### 2026-06-26 09:28:53  #其他
-
-【孟加拉國總理塔裡克向人民英雄紀念碑敬獻花圈】6月26日上午，孟加拉國總理塔裡克前往天安門廣場，向人民英雄紀念碑敬獻花圈。（央視新聞）
-
----
-
-### 2026-06-26 09:28:32  #MKT News #Market Regions #Greater China
-
-China A-share lab-grown diamond sector pulled back; Huifeng Diamond fell over 7%, Liliang Diamond dropped over 5%, Huanghe Xuanfeng down more than 4%, Sifangda and Chujiang New Material also declined.
-
----
-
-### 2026-06-26 09:28:09  #公司 #國際
-
-【日本航空自衛隊改編航空宇宙自衛隊】今天（6月26日），包含將日本航空自衛隊改編為“航空宇宙自衛隊”等內容的《防衛省設定法》等修正案，在日本參議院全體會議上獲得透過。修正後的《防衛省設定法》等明確“將宇宙領域列為新的行動領域”，並規定將航空自衛隊更名為“航空宇宙自衛隊”。日本“航空宇宙自衛隊”預計將在本財年（2026年4月1日至2027年3月31日）內正式成立，並將新組建負責宇宙領域任務的專業部隊——“宇宙作戰集團”。這是自1954年日本航空自衛隊成立以來，首次對其組織名稱進行調整。（CCTV國際時訊）
-
----
-
-### 2026-06-26 09:28:06  #MKT News #Market Regions #Japan & APAC
-
-【Japan approves renaming of Air Self-Defense Force to Air and Space Self-Defense Force】Japan’s House of Councillors passed amendments to the Defense Ministry Establishment Law today, formally designating space as a new operational domain and renaming the Air Self-Defense Force the Air and Space Self-Defense Force. The new service is expected to be established in fiscal 2026 (Apr. 1, 2026–Mar. 31, 2027) and will include a newly created Space Operations Group responsible for space missions. This is the first organizational name change since the Air Self-Defense Force’s founding in 1954.
-
----
-
-### 2026-06-26 09:27:59  #觀點 #其他
-
-【銀河證券下半年機械行業展望：緊抓跟AI相關科技成長主線】銀河證券研報稱，展望2026年下半年機械裝置板塊的投資機會，可以從三個方面考慮：一是繼續緊抓跟AI相關科技成長主線，包括光模組測試儀器、AI PCB裝置及耗材、AI發電裝置等；二是“十五五”規劃強調未來產業和新興產業，是中國經濟轉型升級新舊動能轉換的關鍵，包括人形機器人、可控核聚變等；三是從各細分行業週期性特徵考慮選擇行業β向上的低估值基本面優質個股，包括工程機械、機床等板塊。
-
----
-
-### 2026-06-26 09:27:34  #MKT News #Market Regions #Greater China #SSE Composite #Impact bearish #CSI300 #SZSE Component
-
-Friday, June 26 — China's Shanghai Composite opened down 21.59 points (-0.52%) at 4,098.69; Shenzhen Composite opened down 132.68 points (-0.81%) at 16,211.41; CSI 300 Index opened down 38.28 points (-0.76%) at 4,981.83; ChiNext Index opened down 52.58 points (-1.20%) at 4,319.41; STAR 50 Index opened down 31.90 points (-1.54%) at 2,034.43.
-
----
-
-### 2026-06-26 09:27:18  #市場
-
-現貨白銀日內跌1%，現報57.22美元/盎司。
 
 ---

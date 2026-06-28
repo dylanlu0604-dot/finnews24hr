@@ -1,7 +1,199 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-06-28 10:35:05_
-_本檔包含 3576 則快訊，約 670006 字_
+_更新時間：2026-06-28 12:06:33_
+_本檔包含 3571 則快訊，約 669732 字_
+
+---
+
+### 2026-06-22 22:58:29  #MKT News #Market Regions #Greater China
+
+HKEX filings show Shenzhen Basic Semiconductor Co., Ltd. has passed its HKEX listing hearing.
+
+---
+
+### 2026-06-22 22:58:01  #公司
+
+Getty Images一度漲超133%，公司與OpenAI達成“展示協議”。
+
+---
+
+### 2026-06-22 22:57:50  #國際
+
+法國總統馬克龍：感謝斯塔默對加強法英關係所作的貢獻，他在烏克蘭志願聯盟中的承諾，以及對重振英國與歐盟關係所付出的努力。我們共同在國防、核能、太空和創新領域所做的工作，特別是去年七月我們法英峰會上的成果，見證了這一承諾。
+
+---
+
+### 2026-06-22 22:57:21  #市場 #國際
+
+【韓國總統李在明不支援率首超支援率】韓國一項最新民意調查結果顯示，總統李在明的不支援率升至49.7%，支援率降至46.7%。這是李在明去年6月上任以來，不支援率首次高於支援率。民調機構分析，地方選舉選票短缺事件是導致李在明支援率下滑的主要原因之一。受《能源經濟新聞》委託，韓國民調機構“真實計量器”15日至19日就李在明施政情況對全國2517名成年人展開調查。22日釋出的民調結果顯示，李在明支援率為46.7%，較一週前資料下降4.8個百分點，在該機構民調中首次跌破50%。其不支援率為49.7%，較一週前資料上升5.5個百分點。（新華社）
+
+---
+
+### 2026-06-22 22:57:21  #Trading Economics #Markets #Commodity #Importance 1
+
+Heating Oil Falls Toward 3-1/2-Month Low — US heating oil prices fell to below $3.14 per gallon, near the lowest since early March, as progress in US-Iran peace talks fueled expectations of easing energy shortages and weaker fuel price pressures. Markets reacted to reports that Washington and Tehran agreed on a roadmap toward a final agreement within 60 days, while the US Treasury authorized production, delivery, and sale of Iranian oil and petroleum products for two months. A potential reopening of the Strait of Hormuz could mark a major shift for global energy markets, restoring traffic through a route that normally handles about a quarter of global seaborne oil shipments. The prospect of returning supply has already pushed Brent crude below $79 per barrel, its lowest level since early March. US refiners are also adjusting operations after months of disruption, producing record levels of jet fuel while reducing gasoline output to capture stronger margins.
+
+---
+
+### 2026-06-22 22:56:51  #公司
+
+【程剛：KOOK不是“中國的Discord”，今年商業化收入預增超200%】在近日一場圓桌對話中，KOOK語音創始人兼CEO程剛回應"中國是否會有自己的Discord"的疑問。他表示，對KOOK而言，早期為了讓第一次接觸的使用者更容易理解，我們會說自己是“中國的Discord”，但我們內心希望把KOOK定義為面向中國遊戲玩家及泛娛樂人群的實時社群基礎設施。程剛指出，中國遊戲玩家生態、內容生態和開發者生態與國外均有很大區別，這也決定了KOOK與Discord之間存在許多差異。此外，實時是KOOK與普通社群產品的明顯區別。“我其實不太希望KOOK被定義為‘中國的Discord’。KOOK真正的定義不是在‘對標誰’的商業故事裡，而是在“被使用者需要”的每一個日常裡。我們並不急著證明自己是個大故事，我們要先證明使用者真的離不開KOOK，這也是我們希望能一直做下去的事。”程剛稱。（新浪科技）
+
+---
+
+### 2026-06-22 22:56:23  #市場
+
+標普500指數和納斯達克100指數跌幅擴大至0.5%。
+
+---
+
+### 2026-06-22 22:55:23  #其他
+
+日媒訊息：日美財務大臣預計將會晤。
+
+---
+
+### 2026-06-22 22:54:48  #市場
+
+標普500指數轉跌，最新下跌0.4%。
+
+---
+
+### 2026-06-22 22:54:24  #MKT News #Important #USDJPY #Impact bearish
+
+USD/JPY slid more than 40 pips in intra-session trading, turning down 0.1% on the day to a low of 161.07.
+
+---
+
+### 2026-06-22 22:53:35  #市場
+
+日元走強，盤中升至1美元兌161.08日元日內高點。
+
+---
+
+### 2026-06-22 22:53:07  #市場
+
+超微電腦股價上漲12.2%。
+
+---
+
+### 2026-06-22 22:51:41  #公司
+
+【保利發展：商業不動產REITs獲註冊 後續待募集發行】保利發展公告稱，2026年1月27日公司董事會同意以廣州保利中心及佛山保利水城專案為基礎資產，開展商業不動產公募REITs申報發行工作。申報材料於1月30日獲上交所受理，4月28日上交所對其基金上市和資產支援證券掛牌轉讓無異議。6月22日，該REITs獲中國證監會准予註冊，基金型別為契約型封閉式，合同期限32年，募集份額總額5億份。發行上市尚需履行募集發行、上市申請程式。
+
+---
+
+### 2026-06-22 22:51:34  #MKT News #Market Themes #AI Revolution
+
+【ASEAN secretary-general says ASEAN, China should deepen cooperation to tackle global challenges】ASEAN secretary-general said at a Jakarta forum marking the 5th anniversary of the China‑ASEAN comprehensive strategic partnership that ASEAN and China should deepen cooperation to address rising global challenges, prioritizing peace and stability, digital transformation and innovation, energy cooperation, resilience to transnational threats, and people‑to‑people connectivity. China’s ambassador to ASEAN said Beijing is willing to expand cooperation with ASEAN in the digital economy, AI, clean energy, blue‑economy development, agriculture and climate-change response to promote innovation and green, sustainable growth in the region.
+
+---
+
+### 2026-06-22 22:50:16  #國際
+
+市場訊息：歐盟委員會將撥款 11 億歐元用於歐盟交通基礎設施的建設與現代化升級。
+
+---
+
+### 2026-06-22 22:49:14  #其他
+
+Cloudflare 表示正在修復故障。
+
+---
+
+### 2026-06-22 22:48:57  #其他
+
+調查顯示：黎巴嫩南部建築損毀損失預估達 13.8 億美元。
+
+---
+
+### 2026-06-22 22:48:16  #市場
+
+美元兌日元漲幅再度大幅收窄，最新報下跌0.02%，報161.24。
+
+---
+
+### 2026-06-22 22:48:06  #公司
+
+【利元亨：玻璃鐳射穿孔裝置已完成樣機開發 但尚未形成正式訂單及收入】利元亨6月22日在互動平臺稱，公司在TGV（玻璃通孔）領域已有技術儲備，自主研發的玻璃鐳射穿孔裝置已完成樣機開發，目前正結合客戶需求進行產品打樣及工藝驗證，尚未形成正式訂單及收入。
+
+---
+
+### 2026-06-22 22:47:53  #國際
+
+【東盟秘書長：東盟和中國應深化合作應對全球挑戰】東盟秘書長高金洪22日在出席慶祝中國—東盟建立全面戰略伙伴關係5週年雅加達論壇暨專題報告釋出會時表示，面對日益複雜的全球性挑戰，東盟和中國應繼續深化合作，為地區以及世界和平、繁榮及可持續發展作出更大貢獻。高金洪說，從1991年中國和東盟正式開啟對話程序到2021年建立全面戰略伙伴關係，東盟和中國關係持續深化。2025年，中國對東盟進出口總值突破萬億美元，並簽署中國—東盟自貿區3.0版升級議定書，表明雙邊關係與時俱進、充滿活力。他指出，當前全球地緣政治形勢日益複雜，經濟碎片化加劇，氣候治理壓力不斷上升，技術進步速度也正在超出許多治理框架的適應能力。在這一背景下，強有力的東盟—中國關係具有重要意義。高金洪認為，面向未來，東盟和中國應重點推進五方面合作：一是維護和平與穩定，二是加強數字化轉型與創新，三是深化能源合作，四是增強應對跨國威脅的韌性，五是促進人文互聯互通。他表示，更加穩健的東盟—中國夥伴關係，必須面向未來、務實包容，並始終堅持以人民為中心。中國駐東盟大使王擎在致辭中表示，中國和東盟是命運與共的近鄰，只有同舟共濟，才能推動關係健康穩定發展。中國和東盟應堅持開放合作，加快落實中國—東盟自貿區3.0版升級議定書，建設更加開放的區域共同大市場，並透過互利合作提升地區糧食和能源安全、維護供應鏈穩定，打造更具韌性的區域經濟迴圈。王擎說，中方願同東盟拓展數字經濟、人工智慧、清潔能源、藍色經濟、農業和應對氣候變化等領域合作，推動創新和綠色發展，使本地區各國共享現代化和可持續發展機遇。（新華社）
+
+---
+
+### 2026-06-22 22:47:08  #國際
+
+日元匯率貶值至兩年低點：日本財務大臣與美國財長召開緊急線上會議。
+
+---
+
+### 2026-06-22 22:46:27  #公司
+
+【浙江東方科脈電子股份有限公司透過港交所上市聆訊】據港交所檔案：浙江東方科脈電子股份有限公司透過港交所上市聆訊。
+
+---
+
+### 2026-06-22 22:46:25  #Trading Economics #Markets #United States #Currency #Importance 1
+
+Dollar Strengthens on Monday — The dollar index rose to 101 on Monday, reaching a new high in more than a year, as investors returned from the long weekend and refocused on developments in the Middle East and the monetary policy outlook. The US and Iran agreed on a roadmap toward a final deal to end their conflict within 60 days, with Iran’s foreign minister citing “progress” in negotiations, contributing to a decline in oil prices. However, markets continue to anticipate that the Federal Reserve will raise the fed funds rate this year, following a hawkish tone from new Chair Kevin Warsh last week and upward revisions to inflation forecasts. Attention now turns to this week’s PCE report, which includes the Fed’s preferred inflation gauge and is expected to provide fresh insight into underlying price pressures. The dollar strengthened most against the Japanese yen amid rising intervention concerns, while it weakened slightly against the British pound following UK Prime Minister Keir Starmer’s resignation.
+
+---
+
+### 2026-06-22 22:46:10  #公司
+
+【威邁斯：車載電源產品可以應用於飛行汽車中 並已獲小鵬匯天定點】威邁斯6月22日在互動平臺稱，目前公司的車載電源產品已可以應用於飛行汽車中，並已獲得小鵬匯天的定點。
+
+---
+
+### 2026-06-22 22:46:04  #Trading Economics #Markets #United States #stocks #Importance 1
+
+Alphabet Stock Price Hits 7-week Low — Alphabet shares decreased to 346.33 USD, the lowest since April 2026. Over the past 4 weeks, Alphabet lost 10.52%, and in the last 12 months, it increased 108.17%.
+
+---
+
+### 2026-06-22 22:45:28  #公司 #焦點
+
+【寧德時代許金梅：今年9月開始交付首批鈉離子電池解決方案 2026年底實現GWh級出貨量】6月22日晚間，寧德時代許金梅在儲能新品釋出會表示，寧德時代將於今年9月交付首批鈉離子電池解決方案，預計2026年底中國出貨達GWh級，明年6月全球交付。目前，寧德時代已攻克量產難題，提升良率，降低成本，並擴建產能。許金梅認為鋰、鈉技術並行，公司鈉鋰相容方案可無縫融入產業鏈，應對鋰價波動。（每經網）
+
+---
+
+### 2026-06-22 22:45:10  #MKT News #Important #Market Themes #China EV Leaders #300750.SZ #Impact bullish
+
+【CATL's Xu: first sodium‑ion battery deliveries start Sept 2026; China shipments to reach GWh scale by end‑2026】On June 22, CATL executive Xu Jinmei said the company will begin delivering its first sodium‑ion battery solutions in September 2026, expects China shipments to reach GWh‑scale by end‑2026, and plans global deliveries from June 2027. CATL has overcome mass‑production hurdles, improved yields, cut costs and expanded capacity. Xu said lithium and sodium technologies will run in parallel and CATL’s sodium‑lithium compatible solutions can be integrated into the supply chain to address lithium price volatility.
+
+---
+
+### 2026-06-22 22:44:54  #公司
+
+【閃迪專利曝光3D存算架構：HBM與NAND分層協同】閃迪近日披露一項專利顯示，公司提出基於CBA儲存晶粒的3D堆疊架構：將GPU或AI加速器等計算晶片直接整合在NAND/CMOS邏輯儲存單元之上，並置於中介層，周圍堆疊HBM晶片。其中HBM負責高頻寬低延遲訪問，NAND層承擔大容量讀寫與儲存任務。該設計旨在緩解HBM容量受限問題（單堆約32–64GB）。此前閃迪提出HBF架構，透過TSV垂直堆疊NAND，容量可達4TB，較HBM提升8–16倍，但仍面臨延遲與系統整合複雜度挑戰。相較DRAM，NAND具備更高容量與更低成本，但訪問速度更慢。新架構透過3D分層，實現了兩者的完美互補。
+
+---
+
+### 2026-06-22 22:44:20  #MKT News #Market Regions #Wall Street (US) #Nasdaq100 #Impact bearish #S&P500
+
+US stocks extended losses; the Nasdaq Composite fell 1.00%.
+
+---
+
+### 2026-06-22 22:44:08  #市場 #國際
+
+美國股市延續跌勢，納斯達克綜合指數下跌1.00%。
+
+---
+
+### 2026-06-22 22:44:04  #市場 #焦點
+
+納指跌1.00%，現報26252.703點；道指漲0.28%，現報51708.031點；標普500指數跌0.30%，現報7478.300點。
+
+---
+
+### 2026-06-22 22:42:58  #Trading Economics #Markets #United States #stocks #Importance 1
+
+Netflix Stock Price Hits 19-month Low — Netflix shares decreased to 74.56 USD, the lowest since October 2024. Over the past 4 weeks, Netflix lost 16.43%, and in the last 12 months, it decreased 39.38%.
 
 ---
 
@@ -21334,227 +21526,5 @@ AP: U.S. Vice President Vance has arrived in Switzerland.
 ### 2026-06-21 12:07:16  #國際
 
 【日多地民眾抗議日美聯合軍演】據日本媒體6月20日報道，針對日本自衛隊和美軍當天在九州、沖繩等地啟動“堅毅之龍”大規模聯合軍演，日本多地市民團體和當地居民提出抗議，要求停止軍演，避免加劇地區緊張。熊本縣山都町居民日前向有關方面提交抗議檔案，表達當地民眾對演習中美軍“魚鷹”運輸機低空飛行訓練的擔憂。抗議人士還表示，日美聯合軍演將攪動地區局勢，進一步加劇日本與周邊國家的緊張關係。據日本媒體報道，此次“堅毅之龍”軍演由日本陸上自衛隊和美國海軍陸戰隊等約9600人參加，以所謂“離島防衛”等為主要內容，將從6月20日持續至30日。（CCTV國際時訊）
-
----
-
-### 2026-06-21 12:04:09  #MKT News
-
-MSCI has assigned SpaceX its lowest ESG rating, the Financial Times reports.
-
----
-
-### 2026-06-21 12:02:54  #公司
-
-市場訊息：太空探索技術公司（SpaceX）被MSCI授予了最低等級的ESG評級。
-
----
-
-### 2026-06-21 11:51:41  #國際
-
-【訊息人士：瑞士會談將率先召開黎巴嫩問題緊急會議】據報道，一名知情外交官週日向美國媒體透露，瑞士舉行的多場會談新增黎巴嫩問題緊急會議，且該議題將作為首個討論事項。 一名伊朗官員週六向美國媒體表示，結束黎巴嫩境內衝突是 “伊朗代表團議程上最重要的事項”。
-
----
-
-### 2026-06-21 11:47:36  #MKT News
-
-CNN reports an Iranian official said ending the conflict in Lebanon is the top item on the Iranian delegation's agenda.
-
----
-
-### 2026-06-21 11:45:15  #其他
-
-市場訊息：國際貨幣基金組織團隊將於6月24日至30日訪問斯里蘭卡。
-
----
-
-### 2026-06-21 11:44:07  #國際
-
-【伊朗宣稱封鎖霍爾木茲海峽，但航道航運依舊通行，船隻南北兩條航線均正常通行】據報道，多家海事情報機構提供的船舶追蹤資料顯示，儘管伊朗聲稱已封鎖霍爾木茲海峽，6月20日仍有大量船舶進出波斯灣。值得注意的是，南北兩條過境航道均有船隻通行；此前數週鮮有船舶使用的南線航道，航運活動再度恢復。
-
----
-
-### 2026-06-21 11:38:48  #公司 #市場 #國際
-
-【機構：韓國成為全球增長最快的武器供應國之一】據斯德哥爾摩國際和平研究所（SIPRI）的報告稱，韓國已成為全球增長最快的武器供應國之一。報道指出，韓國四大防務企業——韓華集團、 現代羅特姆、LIG Nex1和韓國航空航天工業今年的總收入預計將達到約370億美元，幾乎是2021年的四倍。此外，韓國還成為向歐洲北約成員國供應武器的第二大供應商，僅次於美國。
-
----
-
-### 2026-06-21 11:34:47  #國際
-
-【端午假期前兩天 廣州白雲機場口岸出入境人員同比增長25.3%】記者從白雲邊檢站瞭解到，截至20日24時，廣州白雲機場口岸假期累計查驗出入境人員超10萬人次、出入境航班超670架次，較去年端午假期分別同比增長25.3%和24%。截至20日24時，出境方面，已累計查驗人員超5.1萬人次，同比增長25.6%。入境方面，已累計查驗人員超5萬人次，同比增長24.9%。外國人免簽入境政策紅利也在持續釋放。截至20日24時，在入境人員當中，已累計查驗外籍旅客超2萬人次，同比增長35%，來源國前三位分別是馬來西亞、新加坡、俄羅斯。（央視新聞）
-
----
-
-### 2026-06-21 11:26:16  #國際
-
-據泰媒21日報道，泰國清萊府一段在建的鐵路隧道20日晚發生腳手架坍塌，已造成兩名工人死亡、至少兩人重傷。（新華社）
-
----
-
-### 2026-06-21 11:23:53  #MKT News #Market Regions #Europe & UK
-
-【UK train collision injuries rise to 99】Two trains collided in the Bedford area on June 19. An ambulance service spokesman said on June 20 the number of injured had risen to 99. The rail operator said the cause remains under investigation. Services between London and Bedford remained suspended as of press time. The line is one of the UK's main routes; large passenger disruption forced many travelers to alter plans or remain at stations.
-
----
-
-### 2026-06-21 11:23:31  #其他
-
-【英國火車相撞事故受傷人數增至99人】英國貝德福德地區6月19日發生兩列火車相撞事故。當地救護機構發言人20日表示，事故造成的受傷人數上升至99人。英國鐵路部門表示，事故原因仍在調查中。截至記者發稿，從倫敦開往貝德福德的列車仍然沒有恢復執行。作為英國最重要的鐵路幹線之一，大量旅客被迫改變行程，不少人只能滯留車站等待最新訊息。（CCTV國際時訊）
-
----
-
-### 2026-06-21 11:20:35  #公司
-
-【端午假期最後一天 鐵路運輸迎來返程客流高峰】今天是端午假期最後一天，鐵路運輸迎來返程客流高峰。記者從國鐵集團瞭解到，全國鐵路預計傳送旅客1794萬人次，增開旅客列車1355列。為應對旅客集中返程，各地鐵路部門根據12306大資料，在客流集中的線路和區段增加運力投放。多地鐵路部門還增開夜間高鐵。（央視新聞）
-
----
-
-### 2026-06-21 11:18:10  #其他
-
-【紅線守底線 涉稅中介執業別“跑偏” 】近日，河南、廣東、江西等地稅務部門集中曝光了3起涉稅中介違法違規案件，再次警示：涉稅中介執業絕不能“走偏路”，守法合規經營才是長遠發展的“護身符”。涉稅中介是連線稅務機關與經營主體的重要橋樑紐帶，在協助納稅人規範辦稅、防範稅收風險、落實稅費優惠政策等方面發揮著積極作用。然而，少數不法中介背棄職業操守、踐踏法律紅線，淪為偷逃稅款的“幫手”、擾亂稅收秩序的“推手”。從此次曝光的案件來看，涉稅中介違法手段都極具專業性與隱蔽性：或是自己透過隱匿收入、虛列成本、進行虛假納稅申報等方式偷逃稅款；或是幫助所代理企業違規登出造成其少繳稅款；或是利用專業優勢操控空殼個體工商戶虛開發票，幫助所代理企業虛增經營成本，從而少繳稅款。（新華社）
-
----
-
-### 2026-06-21 11:13:23  #其他
-
-【同程旅遊：端午假期短途旅行產品預訂熱度同比增長超30%】6月21日，同程旅行釋出報告顯示，今年端午假期，“民俗遊”、“賽事遊”、“畢業遊”三大主題並行發力，國內旅遊市場整體穩中有升。親子家庭與年輕白領周邊微度假仍佔主流，江浙滬、京津冀等區域短途旅行產品預訂熱度同比增長超30%。長線需求表現也可圈可點，端午假期跨省遊訂單佔比較去年同期提升約5個百分點。
-
----
-
-### 2026-06-21 11:10:18  #其他
-
-【颱風“米克拉”可達強颱風或超強颱風，逐漸靠近我國臺灣島東部海面】今年第7號颱風“米克拉”（強熱帶風暴級）的中心6月21日上午8時位於臺灣鵝鑾鼻東偏南方向約1480公里的西北太平洋洋麵上，就是北緯15.3度、東經133.1度，中心附近最大風力有10級（28米/秒），中心最低氣壓為982百帕，七級風圈半徑為160—240公里，十級風圈半徑為80—90公里。預計，“米克拉”將以每小時25公里左右的速度向西北方向移動，強度繼續增強，最強可達強颱風級或超強颱風級（48—55米/秒，15—16級），並逐漸向我國臺灣島東部海面靠近，23日晚上之前對我國海域無影響。
-
----
-
-### 2026-06-21 11:08:35  #國際
-
-【日媒披露侵華日軍疑進行動物血液輸入人體實驗】據日本共同社20日報道，日本陸軍1940年3月一次軍醫會議上的報告顯示，侵華戰爭期間，日軍疑似在中國反覆實施將動物血液注入人體的實驗。報告顯示，實驗時間為1938年秋，地點被隱去。實驗物件有23人，身份不明。實驗者給部分物件注入動物血液或血清，具體包括對失血後陷入危重狀態者大量輸注馬血，以及將雞血注入人體觀察其存留時間等。報告還顯示，輸血後實驗物件出現高熱等現象。（央視新聞）
-
----
-
-### 2026-06-21 11:07:54  #MKT News
-
-【Navigation warning: military training in Beibu Gulf, vessels barred June 22 12:00–14:00】Beihai Maritime Safety Administration issued a navigation warning that military training will be conducted in parts of the Beibu Gulf from June 22 12:00 to 14:00; vessels are prohibited from entering the designated area.
-
----
-
-### 2026-06-21 11:04:55  #公司
-
-【廣州又新增一家山姆 全市首家單層大店】6月18日，廣州市花都區人民政府與沃爾瑪（中國）投資有限公司正式簽訂合作協議。廣州首家山姆會員商店單層標杆店落地花都。（中國廣州釋出）
-
----
-
-### 2026-06-21 11:02:56  #其他
-
-【納木錯藏原羚被網圍欄阻攔？官方稱對通道進行增設和最佳化】針對網傳關於“納木錯旁藏原羚被網圍欄阻攔”相關內容，西藏自治區拉薩市當雄自然資源和林業草原局、 當雄縣納木錯-念青唐古拉風景名勝區管理局6月20日深夜釋出通報稱，確實存在部分通道設定間距不科學、圍欄高度對中大型野生動物通行造成一定影響等問題。當雄縣自然資源和林草部門對通道進行了增設和最佳化，增加了巡護力量和頻次，正在進一步建立健全野生動物通行監測資料臺賬，持續最佳化通道設定。（澎湃新聞）
-
----
-
-### 2026-06-21 11:00:00  #其他
-
-【內馬爾因傷至今未能亮相本次世界盃賽場，盧拉打趣：他是首位“遠端辦公”的球員】據路透社、法新社等媒體報道，巴西總統盧拉近日就巴西隊前鋒內馬爾因傷缺席世界盃打趣說，內馬爾是巴西國家隊首位“遠端辦公”的球員。與此同時，巴西隊主教練安切洛蒂仍在等待內馬爾能否在對陣蘇格蘭的比賽中迴歸。（環球網）
-
----
-
-### 2026-06-21 10:59:40  #MKT News #Market Regions #Greater China
-
-【Yangtze River Delta rail sees peak return traffic as Dragon Boat holiday ends】China Railway Shanghai Group said June 21, the final day of the 2026 Dragon Boat holiday, will be the peak return day for Yangtze River Delta rail, with about 3.54 mln passenger trips expected, up 1.1% YoY. Railway authorities are coordinating capacity and optimizing services to manage concentrated arrivals and departures and ensure orderly travel.
-
----
-
-### 2026-06-21 10:58:11  #國際
-
-瑞銀：厄爾尼諾對全球大豆產量總體有利，尤其是美國和巴西南部等主產國。受厄爾尼諾影響，印尼經濟增長可能在四個季度後下降1%，因乾旱損害農業和礦業。
-
----
-
-### 2026-06-21 10:57:08  #MKT News #Copper #Impact bullish
-
-UBS says El Niño could shave about 1 percentage point off Indonesia's GDP growth four quarters out as drought damages agriculture and mining.
-
----
-
-### 2026-06-21 10:56:31  #MKT News
-
-UBS said El Niño is overall beneficial for global soybean production, particularly for major producers such as the US and southern Brazil.
-
----
-
-### 2026-06-21 10:55:59  #MKT News
-
-【Wang Shuguo denies Fuyao University told departments to target profit】Fuyao University of Science and Technology president Wang Shuguo said the school is not directing departments to pursue profit or market-driven revenue. The university instead urges departments to tackle real industrial problems through applied research and to commercialize outcomes to strengthen departmental self-financing capacity.
-
----
-
-### 2026-06-21 10:55:18  #國際
-
-以色列軍事分析家認為，以色列國防軍在黎巴嫩的行動可能持續數週，未來發展將深受特朗普的回應以及外交努力的影響。
-
----
-
-### 2026-06-21 10:53:23  #其他
-
-馬斯克：通縮將成為最大威脅，人工智慧會倒逼各國政府直接向民眾發放現金。
-
----
-
-### 2026-06-21 10:52:57  #國際
-
-以色列僑民事務部長Amichai Chikli：以色列“遲早”會與敘利亞開戰，敘利亞與土耳其之間的聯盟對我們構成“戰略挑戰”。敘利亞和土耳其對以色列的威脅遠比伊朗更令人擔憂。
-
----
-
-### 2026-06-21 10:52:17  #其他
-
-【王樹國回應“福耀科大各院系逐步自負盈虧”：絕非要求院系以盈利為目標】近日，關於“福耀科大各院系逐步自負盈虧”的話題引起輿論關注。對此，福耀科技大學校長王樹國表示，學校非要求院系以盈利為目標、市場化創收，而是鼓勵院系依託真實的產業問題開展科研攻關，同時透過科研成果轉化提升院系自我造血能力。（澎湃新聞）
-
----
-
-### 2026-06-21 10:50:21  #MKT News
-
-Israeli Minister of Diaspora Affairs Amichai Chikli said Syria and Turkey pose far more worrying threats to Israel than Iran.
-
----
-
-### 2026-06-21 10:50:02  #其他
-
-【湖南瀘溪一民房火災致6死】記者6月21日從湖南省湘西土家族苗族自治州相關部門瞭解到，21日6時21分，瀘溪縣武溪鎮株洲北路一民房1樓發生火災。目前已造成6人遇難。（新華社）
-
----
-
-### 2026-06-21 10:49:21  #MKT News #XAUUSD #Impact bullish #Brent #DXY
-
-Israel's minister of diaspora affairs Amichai Chikli said Israel will "sooner or later" go to war with Syria and that an alliance between Syria and Turkey poses a "strategic challenge" to Israel.
-
----
-
-### 2026-06-21 10:48:45  #央行 #國際
-
-【股票投資者正面臨氣候風險】隨著市場對伊朗戰事的擔憂逐步消退，股票投資者正面臨另一重風險：氣候風險。該風險促使投資者重新評估農業、保險等各行各業的持倉佈局。有極高機率，2027年前將出現一次 “超強厄爾尼諾” 現象，這會造成全球部分地區氣溫攀升，電力需求暴漲、農作物減產，並再度推升通脹壓力。這或將加大各國央行調控的難度，給處於歷史高位區間的全球股市帶來下行風險。盛寶銀行大宗商品策略主管表示：“此次厄爾尼諾恰逢全球經濟格外敏感的階段。全球經濟仍在消化伊朗衝突帶來的通脹衝擊，歷經數月擾動後，供應鏈依舊脆弱不堪。”
-
----
-
-### 2026-06-21 10:46:35  #MKT News #Commodities #Energy #S&P500 #Impact bearish #WTI #Impact bullish #DXY
-
-【Super El Niño by 2027 Could Threaten Global Stocks】NOAA's Climate Prediction Center puts the odds of a very strong El Niño by 2027 at about 63%. Saxo Bank commodity strategist Ole Hansen said a 'super El Niño' could raise regional temperatures, drive spikes in electricity demand, cut crop yields and rekindle inflationary pressure, complicating central-bank outlooks and posing downside risk to global equities near record levels. Hansen added the timing is sensitive because markets are still adjusting to inflation effects from the US‑Iran conflict and supply chains remain fragile after months of disruption. Market-sensitive sectors include agriculture, energy, utilities and insurance, with direct implications for inflation, policy guidance, liquidity and sector positioning.
-
----
-
-### 2026-06-21 10:45:07  #其他
-
-【廣西柳江發生2026年第1號洪水】記者從廣西壯族自治區水文中心獲悉，受上游來水及降雨影響，廣西柳江柳州水文站6月21日8時05分水位漲至82.50米（警戒水位82.50米），根據《廣西壯族自治區主要江河洪水編號規定》，此次洪水編號為“柳江2026年第1號洪水”。（央視新聞）
-
----
-
-### 2026-06-21 10:42:59  #公司 #市場
-
-【碧芭寶貝：所有已檢測紙尿褲產品甲醯胺專案結果均為“未檢出”】6月21日，碧芭寶貝再就嬰兒紙尿褲事件釋出公告。公司稱，目前品牌全核心主力系列成品第三方檢測報告已全部出具，所有已檢測紙尿褲產品甲醯胺專案結果均為“未檢出”。剩餘細分系列產品正在分批加急檢測，公司嚴格執行“出一批、公示一批”原則。所有新增檢測報告、進度更新會第一時間同步至該頁面，全程接受全體家長、媒體、行業監督，絕不隱瞞任何資料。
-
----
-
-### 2026-06-21 10:40:44  #公司
-
-【AI投資熱潮向上遊擴散 美股多家半導體裝置龍頭今年翻倍】回顧年初至今的美股市場，不僅半導體、光通訊等AI硬體板塊集體狂飆，產業鏈上游的半導體裝置賽道亦同步走出亮眼升勢。據統計，美股總市值超百億美元的9家半導體裝置公司，今年以來股價漲幅均已超過75%。其中，應用材料、拉姆研究、科磊、泰瑞達、MKS Inc、英特格、Onto Innovation Inc這7只個股年內股價實現翻倍。就產業邏輯而言，種種跡象表明，半導體裝置正迎來機構所謂的“賣方市場”。
 
 ---
