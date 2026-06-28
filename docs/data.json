@@ -1,7 +1,36 @@
 {
-  "updated": "2026-06-28 19:14:55",
-  "count": 18099,
+  "updated": "2026-06-28 19:19:00",
+  "count": 18098,
   "items": [
+    {
+      "id": "mkt:019f0df2-2497-7aab-8c00-adf0a7d24ce0",
+      "time": "2026-06-28 19:16:40",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Iranian state television said vessels transiting the Strait of Hormuz must still coordinate with the Iranian Revolutionary Guard. It said the safest inbound route into the Persian Gulf is south of Hormuz Island and the safest outbound route is south of Larak Island."
+    },
+    {
+      "id": "4958959",
+      "time": "2026-06-28 19:15:02",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "伊朗國家電視臺表示，駛入波斯灣的船隻的最安全通航航道位於伊朗霍爾木茲島以南，駛出波斯灣的船隻的最安全通航航道位於伊朗拉拉克島以南。"
+    },
+    {
+      "id": "4958958",
+      "time": "2026-06-28 19:14:17",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗國家電視臺表示，船隻通行霍爾木茲海峽仍需與伊朗革命衛隊協調。"
+    },
     {
       "id": "4958957",
       "time": "2026-06-28 19:13:02",
@@ -165599,43 +165628,6 @@
         "MKT News"
       ],
       "text": "Iranian President Pezeshkian said he hopes all parties involved in the talks can successfully advance the process."
-    },
-    {
-      "id": "mkt:019ee9e7-5932-7dd8-b0a5-79d8268edafa",
-      "time": "2026-06-21 19:18:33",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Qatar foreign ministry spokesperson said a technical and expert working group has been formed to discuss terms of a final US-Iran agreement, and a follow-up team has been set up to implement the memorandum of understanding until a final agreement is reached."
-    },
-    {
-      "id": "4946407",
-      "time": "2026-06-21 19:17:49",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：卡達方面表示，希望美國與伊朗的會談能達成持久和全面的協議。"
-    },
-    {
-      "id": "4946406",
-      "time": "2026-06-21 19:17:28",
-      "tags": [
-        "國際"
-      ],
-      "text": "【美伊談判前 多場雙邊會談在瑞士舉行】截至當地時間21日中午，已有多場雙邊會談在瑞士中部下瓦爾登州的比爾根山舉行，為美國和伊朗談判做技術性準備。據伊朗媒體報道，伊朗外長阿拉格齊與瑞士外長卡西斯當天舉行了45分鐘的會晤。報道說，這是伊朗代表團在瑞士的首場正式活動。卡西斯在社交媒體上發文說，在充滿挑戰的背景下，瑞士與伊朗之間的信任關係始終服務於外交，致力於維護中東和平與安全。巴基斯坦總理辦公室發表宣告說，巴基斯坦總理夏巴茲當天在比爾根山與美國副總統萬斯舉行會見。另據伊朗媒體報道，巴陸軍參謀長穆尼爾也參加了會見。與此同時，由伊朗伊斯蘭議會議長卡利巴夫率領的伊朗代表團會見了作為調解人的卡達首相兼外交大臣穆罕默德。國際原子能機構總幹事格羅西同日在社交媒體上說，他當天在比爾根山會見了卡西斯，瞭解伊朗局勢最新進展和走向。格羅西說：“在這一關鍵時刻，必須盡一切努力讓外交取得成功。”此外，據伊朗邁赫爾通訊社報道，伊朗代表團當天舉行了90分鐘的內部會議，評估談判的最新進展及美方承諾的履行情況。瑞士外交部媒體負責人21日告訴新華社記者，預計美國和伊朗的談判將於當地時間當天下午舉行。（新華社）"
-    },
-    {
-      "id": "mkt:019ee9e6-1a1a-7dd8-b0a5-71d55e45db99",
-      "time": "2026-06-21 19:17:11",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bearish",
-        "Brent",
-        "S&P500",
-        "Impact bullish"
-      ],
-      "text": "Al Arabiya reported Qatar said it hopes US-Iran talks can reach a durable, comprehensive agreement."
     }
   ]
 }
