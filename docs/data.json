@@ -1,7 +1,48 @@
 {
-  "updated": "2026-06-29 00:36:29",
-  "count": 17986,
+  "updated": "2026-06-29 00:40:34",
+  "count": 17988,
   "items": [
+    {
+      "id": "mkt:019f0f18-c2b2-7aab-8c01-e6e13f20bcf6",
+      "time": "2026-06-29 00:38:28",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Russia's President Putin said gas stations nationwide have seen long queues and public demand for gasoline is at times exceeding supply."
+    },
+    {
+      "id": "4959074",
+      "time": "2026-06-29 00:37:45",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯總統普京：各地加油站前排起長隊，市面上時常供應不上民眾所需標號的汽油。"
+    },
+    {
+      "id": "mkt:019f0f17-9e4c-7aab-8c01-d9f7d4cdaad5",
+      "time": "2026-06-29 00:37:13",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Putin said Russia has begun drawing on its fuel reserves, but gasoline inventories remain flat YoY."
+    },
+    {
+      "id": "mkt:019f0f17-639a-7aab-8c01-d3abd5fdd36f",
+      "time": "2026-06-29 00:36:58",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "Brent",
+        "Impact bullish",
+        "WTI"
+      ],
+      "text": "Russian President Putin said Russia is considering a comprehensive ban on diesel exports."
+    },
     {
       "id": "mkt:019f0f16-618d-7aab-8c01-ce035f849d8b",
       "time": "2026-06-29 00:35:52",
@@ -9,6 +50,14 @@
         "MKT News"
       ],
       "text": "Putin said Russia’s largest refineries are operating at full capacity."
+    },
+    {
+      "id": "4959073",
+      "time": "2026-06-29 00:35:52",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯總統普京：當前汽油庫存170萬噸，同比下降4%。"
     },
     {
       "id": "mkt:019f0f16-342c-7aab-8c01-c3fea0ad0aee",
@@ -164567,33 +164616,6 @@
         "Brent"
       ],
       "text": "Iranian state media reported a member of Iran's negotiating team said a draft for exemptions from sanctions on Iranian oil has been finalized and formal publication of the exemptions is expected soon."
-    },
-    {
-      "id": "4946589",
-      "time": "2026-06-22 00:40:26",
-      "tags": [
-        "宏觀",
-        "焦點",
-        "國際"
-      ],
-      "text": "伊朗談判代表團成員對伊朗官方媒體表示：伊朗石油制裁豁免相關草案已敲定，豁免令很快就會出臺。"
-    },
-    {
-      "id": "mkt:019eeb0c-1b2f-7dd8-b0a8-17367306b985",
-      "time": "2026-06-22 00:38:19",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Iranian state media reported a member of Iran's negotiation team said procedures to execute the release of Iran's frozen funds have begun, with a Qatari delegation participating."
-    },
-    {
-      "id": "4946588",
-      "time": "2026-06-22 00:37:41",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "伊朗談判代表團成員對官方媒體表示：伊朗凍結資金解凍的執行流程已在卡達代表團參與下完成。"
     }
   ]
 }
