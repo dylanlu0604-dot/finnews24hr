@@ -1,7 +1,45 @@
 {
-  "updated": "2026-06-29 05:32:53",
-  "count": 17975,
+  "updated": "2026-06-29 05:36:54",
+  "count": 17977,
   "items": [
+    {
+      "id": "4959180",
+      "time": "2026-06-29 05:35:46",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【每天1300部AI短劇上線 投流成本持續攀升“堆量”難以為繼】依託飛速進步的影片生成模型和高效的智慧製作工具，國內短劇產業正迅速“AI化”。一個顯著標志是，AI短劇如今已成為行業絕對主流。 行業權威研究機構DataEye劇查查向證券時報記者提供的資料顯示，今年一季度國內全行業上線短劇約12.8萬部，其中AI短劇佔比超95%。 AI短劇產能大爆發的另一面是行業流量競爭日益加劇，流量成本持續走高。“AI短劇製作端成本大概下降了90%，但流量成本同比上漲了超過100%，與此同時，收益端下滑了50%以上。”DataEye劇查查副總裁林啟文向證券時報記者表示。 “按照一季度資料換算下來，平均每天上線超過1300部新劇。目前市場上每10部新短劇中，就有超過9部由AI參與或主導製作，行業供給結構已發生深刻轉變。”林啟文說。（證券時報）"
+    },
+    {
+      "id": "mkt:019f1027-5d5e-7aab-8c03-1ca5cf7ba632",
+      "time": "2026-06-29 05:34:02",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "XAUUSD",
+        "S&P500",
+        "Impact bullish"
+      ],
+      "text": "Germany's foreign minister said they held constructive talks with Israel's foreign minister on a framework agreement between Israel and Lebanon. The minister called the agreement a key step toward stability, said it must now be fully implemented, and described it as a genuine opportunity for durable de-escalation in the decades-long conflict."
+    },
+    {
+      "id": "4959179",
+      "time": "2026-06-29 05:33:05",
+      "tags": [
+        "市場"
+      ],
+      "text": "【下游需求大增 儲能企業密集簽單】儲能市場景氣度持續走高。高工產研鋰電研究所釋出的資料顯示，截至6月28日，今年上半年已有35家儲能企業對外披露訂單簽約資料，累計簽約規模約550GWh（吉瓦時）。從月度走勢看，1月份至3月份簽約體量相對平穩，4月份至6月份訂單規模直線拉昇，行業呈現供不應求的狀態。"
+    },
+    {
+      "id": "mkt:019f1026-3efd-7aab-8c03-14822c0f48cb",
+      "time": "2026-06-29 05:32:49",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Germany's foreign minister held productive talks with the UAE deputy prime minister on Gulf security arrangements and risks posed by neighboring Iran. They said freedom of navigation in the Strait of Hormuz must not be impaired and described recent attacks on Bahrain and Kuwait as unacceptable."
+    },
     {
       "id": "4959178",
       "time": "2026-06-29 05:31:58",
@@ -164466,22 +164504,6 @@
         "國際"
       ],
       "text": "伊朗國家隊門將阿里·貝蘭萬德在世界盃賽事前的採訪中向伊朗球迷承諾，他會像封鎖霍爾木茲海峽一樣守住國家隊球門。"
-    },
-    {
-      "id": "4946683",
-      "time": "2026-06-22 05:36:45",
-      "tags": [
-        "其他"
-      ],
-      "text": "哥倫比亞左翼候選人塞佩達暫居第二，得票率47.9%，目前已有三分之一的票箱完成計票。"
-    },
-    {
-      "id": "4946682",
-      "time": "2026-06-22 05:36:42",
-      "tags": [
-        "其他"
-      ],
-      "text": "在已統計三分之一選票的情況下，哥倫比亞右翼候選人德拉埃斯普列亞以50.4%的得票率在選舉中領先。"
     }
   ]
 }
