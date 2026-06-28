@@ -1,7 +1,42 @@
 {
-  "updated": "2026-06-29 06:51:02",
-  "count": 17973,
+  "updated": "2026-06-29 06:54:58",
+  "count": 17978,
   "items": [
+    {
+      "id": "4959222",
+      "time": "2026-06-29 06:53:52",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "比特幣跌破59000美元，日內跌1.79%。"
+    },
+    {
+      "id": "4959221",
+      "time": "2026-06-29 06:52:14",
+      "tags": [
+        "國際"
+      ],
+      "text": "【俄稱繼續在頓涅茨克兩城鎮推進】俄羅斯國防部28日通報稱，過去一天，俄軍繼續在蘇梅、哈爾科夫、頓涅茨克、第聶伯羅彼得羅夫斯克及扎波羅熱等方向打擊烏軍。在頓涅茨克紅利曼，俄軍突擊分隊繼續向西推進，控制5個據點及59棟建築；在康斯坦丁諾夫卡，俄軍對該地西南部地區的清剿仍在繼續。烏克蘭武裝部隊總參謀部28日通報稱，烏軍當天凌晨繼續對俄羅斯軍事和能源基礎設施實施遠端打擊，目標包括兩座煉油廠、一座鐵路橋、一座彈藥庫等設施。其中，位於克拉斯諾達爾邊疆區的斯拉維揚斯克煉油廠因遭襲擊發生火災。（央視新聞）"
+    },
+    {
+      "id": "mkt:019f106e-05f8-7aab-8c03-88ea16ff11af",
+      "time": "2026-06-29 06:51:13",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Venezuela: Power, water partly restored in earthquake-hit La Guaira】On June 28 local time, Acting President Rodríguez said power service in earthquake-hit La Guaira state has been restored to 75%, water supply to 68%, and road traffic to about 90%, with road and vehicle movement largely back to normal."
+    },
+    {
+      "id": "4959220",
+      "time": "2026-06-29 06:51:02",
+      "tags": [
+        "資料",
+        "央行",
+        "國際"
+      ],
+      "text": "【週一重要財經資訊提醒（以下均為北京時間）】 \n① 待定 歐洲央行在辛特拉舉行中央銀行論壇，至7月1日；北京太空算力大會舉辦；\n② 07:30 澳洲聯儲助理主席Kent發表講話；\n③ 07:50 日本5月零售銷售；\n④ 13:00 英國央行首席經濟學家Pill發表講話；\n⑤ 16:30 英國5月央行抵押貸款許可\n⑥ 17:00 歐元區6月經濟景氣指數，歐元區6月消費者信心指數終值；\n⑦ 22:30 美國6月達拉斯聯儲商業活動指數\n⑧ 次日00:30 歐洲央行行長拉加德發表講話。"
+    },
     {
       "id": "mkt:019f106d-6a93-7aab-8c03-84cf8193a3ca",
       "time": "2026-06-29 06:50:33",
@@ -9,6 +44,14 @@
         "MKT News"
       ],
       "text": "【U.S. media: Zhipu (02513.HK) GLM-5.2 rivals Mythos in vulnerability discovery】U.S. outlets The Verge and the Wall Street Journal report Zhipu (02513.HK) has released open-weight model GLM-5.2. The model still lags Anthropic and OpenAI on broad tasks, but some researchers say GLM-5.2 matches Anthropic’s Mythos in certain vulnerability-detection and cybersecurity scenarios. Cybersecurity firm Semgrep reports GLM-5.2 outperformed Anthropic’s Claude Opus 4.8 on some benchmarks; researchers add that with additional instruction both Opus 4.8 and GLM-5.2 can rival Mythos at bug finding. GLM’s open-weight distribution — downloadable and runnable on commodity hardware — boosts flexibility and deep access for advanced users but may elevate the risk of malicious misuse."
+    },
+    {
+      "id": "4959219",
+      "time": "2026-06-29 06:50:30",
+      "tags": [
+        "其他"
+      ],
+      "text": "【委內瑞拉地震重災區拉瓜伊拉州電力及供水已部分恢復 】當地時間6月28日，委內瑞拉代總統羅德里格斯表示，地震重災區拉瓜伊拉州電力服務恢復至75%，供水恢復至68%，道路交通已恢復約90%，道路通行和車輛通行基本恢復正常。"
     },
     {
       "id": "4959218",
