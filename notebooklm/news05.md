@@ -1,7 +1,93 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-06-28 23:06:58_
-_本檔包含 3547 則快訊，約 666668 字_
+_更新時間：2026-06-28 23:40:25_
+_本檔包含 3527 則快訊，約 667424 字_
+
+---
+
+### 2026-06-23 07:00:06  #MKT News #AUDUSD #Impact bullish
+
+Australia Jun S&P Global manufacturing PMI preliminary 51.2, prior 50.7.
+
+---
+
+### 2026-06-23 06:59:48  #公司 #國際
+
+市場訊息：韓國總統李在明將與三星討論地區投資事宜。
+
+---
+
+### 2026-06-23 06:59:14  #其他
+
+【年內FOF發行規模創歷史新高】FOF（基金中基金）市場規模持續擴容。Wind資料顯示，截至6月22日，全市場存續公募FOF產品已達615只（僅統計主份額），總規模達3692.07億元，較五年前（2021年6月22日）的1250.55億元增長195.24%。僅年內就新成立FOF產品88只，合計發行規模1137.69億元，不僅超過2025年全年發行水平，也重新整理了此前2021年的發行紀錄。值得關注的是，與2021年主要由養老目標FOF擴容帶動市場增長不同，今年FOF規模增長呈現出更加鮮明的資產配置特徵。（證券日報）
+
+---
+
+### 2026-06-23 06:56:05  #MKT News #Important
+
+CME Group said connectivity issues with CME Direct, including disconnects and failed connections, have been resolved.
+
+---
+
+### 2026-06-23 06:54:26  #宏觀
+
+除了頭版內容，今天《人民日報》涉及財經的主要內容還包括：
+1、李強將出席第十七屆夏季達沃斯論壇
+2、二〇二六年亞太經合組織工商領導人中國論壇在京舉行 凝聚工商界合作共識 共譜亞太發展新篇章（APEC中國年：開放 創新 合作）
+3、第十七屆夏季達沃斯論壇開幕——開啟多元對話 探尋務實良策
+4、開放“鏈”世界 合作贏未來（和音）
+5、財政部：在政府採購活動中對有關美企採取相關措施
+6、我國將10家美國實體列入出口管制管控名單
+7、五方面十五條舉措出臺 推動利用外資固穩促優（權威釋出）
+8、底座結構基本完備、執行體系初步形成——現代物流網怎麼建（經濟新方位·精準發力建好“六張網”）
+9、前5月全國一般公共預算收入同比增長4% 收入向好態勢繼續鞏固
+10、海南推出政策強化自然資源要素精準供給
+11、3年多減少1.2億張，個性化數字化或是未來趨勢 信用卡加快“瘦身”提質（大資料觀察）
+12、二〇二五年交通運輸行業發展統計公報釋出 我國交通運輸基礎設施持續完善
+13、市場監管總局宣佈聯合調查嬰幼兒紙尿褲甲醯胺問題
+14、粽子飄香 文創熱賣 龍舟競渡 多彩假期，激發消費潛力（經濟聚焦）
+15、端午假期國內出遊1.24億人次 666.7萬人次出入境
+16、深化市場化配置改革 釋放資料要素價值
+17、第四屆鏈博會首設人工智慧專區
+18、AI錢包將成為使用者“數字管家” 人工智慧帶來金融服務新體驗
+19、中國市場，美企維繫全球競爭力的重要依託（經濟透視）。
+
+---
+
+### 2026-06-23 06:54:16  #宏觀 #焦點
+
+今天《人民日報》頭版的主要內容有：
+1、“把黨的政治建設作為黨的根本性建設”（總書記的人民情懷）
+2、甘肅會寧縣發展紅色文旅產業促民富——弘揚偉大長征精神 會師之城薪火賡續（牢記初心使命 奮進復興征程）
+3、李強在遼寧大連調研時強調 大力發展高階裝備製造業 加快建設現代化產業體系
+4、王滬寧主持召開全國政協主席會議
+5、丁薛祥出席第四屆中國國際供應鏈促進博覽會開幕式並作主旨講話
+6、前5月新設立外商投資企業同比增長5.3% 5月實際使用外資同比增長5.9%
+7、黃河二〇二六年主汛期前調水調沙啟動。
+
+---
+
+### 2026-06-23 06:53:54  #其他
+
+【6月份以來核心城市樓市延續修復態勢】6月份以來，核心城市二手房市場延續修復態勢。中指研究院最新資料顯示，6月1日至20日，20個重點城市二手住宅成交8.8萬套，同比增長10.9%。與此同時，端午假期期間，京滬深等核心城市二手房市場仍保持較高活躍度。不少城市掛牌量較前期高點持續回落，市場供需關係出現邊際改善。 上海中原地產市場分析師盧文曦表示，端午假期期間，上海二手房成交1231套，同比增長18.9%。深圳二手房市場同樣保持活躍。據深圳貝殼研究院監測，端午假期期間，貝殼深圳合作門店二手房簽約量較去年同期增長28%，創近六年同期新高。中原地產首席分析師張大偉表示，6月份北京二手房網籤量有望繼續突破1.5萬套，市場活躍度將保持在近年來同期較高水平。（證券日報）
+
+---
+
+### 2026-06-23 06:49:23  #Trading Economics #Markets #New Zealand #Stock Market #Importance 1
+
+New Zealand Stocks Trade Flat in Morning Session — The NZX 50 was almost flat, trading around 13,453 in Tuesday morning trade after falling in the prior session, as gains in industrials, consumer staples, and real estate stocks were offset by declines in energy, communication services, and healthcare. Traders also anticipated the release of the US final Q1 GDP data and the May PCE Price Index, due this week, for clues on the Fed's monetary policy decision at its upcoming meeting, after it held interest rates steady last week. Investors also continued to monitor developments in US-Iran peace talks amid Israel's attacks across southern Lebanon despite ongoing diplomatic efforts. Turners Automotive Group advanced 1.5%, A2 Milk rose 1.2%, and Ryman Healthcare climbed 0.9%, while Meridian Energy, Summerset Group, and Auckland International Airport fell 0.7%, 0.6%, and 0.5%, respectively.
+
+---
+
+### 2026-06-23 06:48:44  #公司 #觀點
+
+【近九成上市券商加入“雙提升”行動 部分公司方案仍舉措空泛評估不足】近一個月來，興業證券、財通證券、華泰證券等多家券商密集釋出2026年“提質增效重回報”專項行動方案，在年內又掀起一波小高潮。據證券時報記者統計，自2024年滬深交易所分別啟動“提質增效重回報”與“質量回報雙提升”兩大專項行動以來，證券板塊已有44家公司釋出相關方案，覆蓋率近九成。部分券商已形成“制定—落實—評估”的常態化閉環，目標舉措亦逐年務實。不過，需要注意的是，仍有不少方案停留在“重過往、輕未來”的層面，對市值管理等投資者關切議題回應不足，評估跟進也遠未到位。在監管強調“可操作、可落實、可檢驗”的要求下，券商如何讓“提質增效”從紙面走向實踐，仍是一道待解的命題。（證券時報）
+
+---
+
+### 2026-06-23 06:45:51  #MKT News #WTI #Impact bearish #Brent
+
+【Iran deputy foreign minister outlines technical follow‑up mechanism for Iran‑US talks】Iran’s deputy foreign minister, who heads the Iranian technical negotiation delegation, said consensus from the Swiss four‑party talks establishes a high‑level supervisory committee for follow‑up Iran‑US negotiations, comprising Iran’s parliament speaker, Iran’s foreign minister, the US vice president, Pakistan’s prime minister and the Qatari prime minister. Four working groups will cover sanctions relief, nuclear issues, reconstruction and economic development, and monitoring and implementation. Parties agreed to set up a liaison point between Iran and the US to safeguard commercial shipping through the Strait of Hormuz and to create a Lebanon de‑escalation cell involving Iran, the US, Pakistan and Qatar; the four technical delegation heads will supervise the working groups and report to the high‑level committee. Negotiators also followed up on issuing a general licence for sales of Iranian oil, petrochemical products, derivatives and related services and on unfreezing Iranian assets; the US has issued related sales licences and posted them on the US Treasury OFAC website. Parties agreed to activate a previously signed frozen‑funds release arrangement totalling $12bn, split into two $6bn tranches, and to move immediately to execution.
 
 ---
 
@@ -21221,185 +21307,5 @@ According to Axios, a U.S. official said Iranian delegates had agreed to hold an
 ### 2026-06-21 23:40:38  #MKT News #Important
 
 Iranian state media said bilateral talks between Iranian and Qatari delegations began after a four-party meeting ended.
-
----
-
-### 2026-06-21 23:40:18  #焦點 #國際
-
-伊朗官方媒體稱，伊朗與卡達代表團在瑞士的雙邊會談已於四方談判結束後啟動。
-
----
-
-### 2026-06-21 23:38:15  #其他
-
-【山東金鄉縣通報萬福河汙染問題：初步調查為汙水外溢導致，正應急處理】6月21日，山東省金鄉縣釋出通報稱，有網民反映金鄉縣萬福河水汙染問題，經初步調查，為食品加工汙水部分外溢進入萬福河。目前，當地已制定了汙水治理方案，並對汙染河段進行應急處置。
-
----
-
-### 2026-06-21 23:38:15  #MKT News #XAUUSD #Impact bullish #WTI #DXY
-
-Press TV reports an Iranian delegation has lodged a protest with the US over Trump’s recent verbal threats and is weighing options for an appropriate response.
-
----
-
-### 2026-06-21 23:37:26  #國際
-
-伊朗談判代表團已向美方提出抗議，目前正在斟酌應對特朗普近期口頭威脅的合適舉措。
-
----
-
-### 2026-06-21 23:34:50  #其他
-
-訊息人士：美伊在瑞士舉行的第二輪四方談判即將開始。
-
----
-
-### 2026-06-21 23:34:16  #國際
-
-以色列總理內塔尼亞胡：為保護北部民眾，我們將在黎巴嫩南部安全區駐守至必要之時。
-
----
-
-### 2026-06-21 23:33:56  #MKT News #Important
-
-Al Arabiya, citing sources, says a second round of US-Iran talks in Switzerland is imminent.
-
----
-
-### 2026-06-21 23:32:26  #其他
-
-【凝聚APEC工商合作共識 攜手書寫亞太發展新篇章】亞太經合組織（APEC）是亞太地區層級最高、領域最廣、最具影響力的經濟合作機制。作為APEC“中國年”工商領域標誌性活動，以“開放·互通·協同：連結亞太·共創未來”為主題的APEC工商領導人中國論壇21日在京舉辦。圍繞亞太自貿區、互聯互通、數字創新等熱點議題，亞太政商界人士深入交流、凝聚共識，攜手書寫亞太和全球發展新篇章。（新華社）
-
----
-
-### 2026-06-21 23:31:53  #國際
-
-【埃及總統：美伊最終協議應保障所有阿拉伯國家的安全】埃及總統塞西21日表示，美伊最終協議應保障海灣阿拉伯國家合作委員會成員國和所有阿拉伯國家的安全，回應相關國家關切。塞西當天在開羅會見巴基斯坦外長、沙烏地阿拉伯外交大臣和土耳其外長，就地區局勢發展以及支援落實美國與伊朗達成的諒解備忘錄等議題交換意見。（新華社）
-
----
-
-### 2026-06-21 23:30:15  #其他 #焦點
-
-【中國男籃熱身賽戰勝澳大利亞隊】21日，在杭州奧體中心體育館進行的熱身賽中，憑藉王俊傑和崔永熙最後時刻的出色發揮，中國男籃以91:81戰勝澳大利亞隊。
-
----
-
-### 2026-06-21 23:29:13  #國際
-
-伊朗媒體：下一輪會談預計將在1小時後開始。
-
----
-
-### 2026-06-21 23:28:06  #國際
-
-伊朗最高領袖顧問表示，伊朗不會放棄在霍爾木茲海峽取得的相關主動權。
-
----
-
-### 2026-06-21 23:27:54  #MKT News #WTI #Impact bullish #Brent #XAUUSD
-
-Fars News Agency: An adviser to Iran's supreme leader said Iran will not relinquish capabilities it has acquired in the Strait of Hormuz.
-
----
-
-### 2026-06-21 23:27:39  #國際
-
-【真主黨譴責黎巴嫩與以色列開展直接談判】真主黨表示，黎以官員將在華盛頓舉行的多輪直接談判不會帶來任何有利結果。該組織發文稱，黎巴嫩政府只會順從美國政府的指令行事，此舉有損黎巴嫩主權；並譴責與以色列的直接談判及其可能產生的一切後果。
-
----
-
-### 2026-06-21 23:23:11  #MKT News #Important
-
-【First round of U.S.-Iran talks ends; Iran says nuclear issue not raised】The first round of U.S.-Iran talks in Switzerland concluded on the 21st after an 80-minute session, Iran said. Pakistan and Qatar participated as mediators; the meeting was adjourned for a break and internal consultations. Iran said the nuclear programme was not discussed; discussions focused on implementing Article 13 of a memorandum of understanding and prioritized Lebanon-related issues.
-
----
-
-### 2026-06-21 23:20:32  #焦點 #國際
-
-【伊美首輪直接對話未談核問題】伊朗國家電視臺今天（6月21日）報道說，經過80分鐘的談判，在巴基斯坦與卡達調解方參與下舉行的四方會談暫時中止，以進行休息和內部磋商。伊朗國家電視臺的報道還說，與一些外國媒體報道不同，在首輪會談中並沒有討論伊朗核計劃相關問題，而是重點集中在落實諒解備忘錄第13條，並優先處理與黎巴嫩相關的議題。
-
----
-
-### 2026-06-21 23:19:14  #MKT News #Important #Brent #Impact bullish #WTI
-
-Islamic Republic of Iran Broadcasting (IRIB) said parties did not negotiate Iran's nuclear program during the first 80-minute round of talks.
-
----
-
-### 2026-06-21 23:19:04  #宏觀 #國際
-
-以色列總理內塔尼亞胡：我們將堅定捍衛本國核心利益，我們已取得重大成果，絕不會拱手相讓。只要局勢需要，我們就會持續駐守黎巴嫩南部“安全區”。至於伊朗，無論後續政治局勢如何演變，我絕不允許伊朗擁有核武器。只要我擔任以色列總理，這件事就絕不會發生。
-
----
-
-### 2026-06-21 23:18:47  #國際
-
-伊朗媒體：首輪80分鐘會談期間並未就伊朗核計劃展開任何談判。
-
----
-
-### 2026-06-21 23:18:16  #其他
-
-【中國隊張博恆奪得體操亞錦賽雙槓金牌】21日是2026年第13屆亞洲體操錦標賽、第19屆亞洲青年體操錦標賽男子賽事的最後一個比賽日，賽事在貴州省遵義市奧體中心進行，中國隊張博恆奪得雙槓金牌。（新華社）
-
----
-
-### 2026-06-21 23:18:03  #MKT News
-
-Iranian media report that after 80 minutes of negotiation, four-way talks between the US and Iran, with mediators from Pakistan and Qatar present, have been temporarily suspended for a short recess and internal consultations.
-
----
-
-### 2026-06-21 23:15:20  #其他
-
-【超警戒水位4.44米 洪峰過境廣西河池】據廣西河池水文中心監測，6月21日18時20分，龍江金城江水文站迎來洪峰，洪峰水位192.44米，超警戒水位4.44米，對應流量4220立方米每秒。（央視新聞）
-
----
-
-### 2026-06-21 23:14:58  #其他
-
-美伊四方會談在經過80分鐘磋商後暫時休會，各方將分別開展內部協商，巴基斯坦與卡達作為斡旋方全程在場。
-
----
-
-### 2026-06-21 23:13:24  #其他
-
-真主黨：黎巴嫩赴華盛頓談判難以取得有利成果。
-
----
-
-### 2026-06-21 23:12:31  #其他
-
-伊拉克石油部副部長表示，該國計劃逐步將原油產量恢復至危機前420萬至430萬桶/日的水平。
-
----
-
-### 2026-06-21 23:12:13  #國際
-
-真主黨譴責（黎巴嫩）與以色列進行直接談判。
-
----
-
-### 2026-06-21 23:11:26  #其他
-
-【顧客稱愛犬被海底撈帶辦公室後死亡 門店回應：與當事人積極溝通，前期已墊付醫藥費用】6月21日晚間訊息，據媒體報道，南京一女子反映，自己6月18日晚帶寵物去江寧區海底撈就餐，員工將狗帶到辦公室並承諾持續開啟空調。女子稱自己準備走的時候發現它口吐白沫，後經治療無效死亡。海底撈門店負責人稱，員工怕狗冷關掉了空調。女子稱自己為愛犬已花掉2千元，多次協商未果後，顧客已報警處理。對此，涉事門店回應稱，目前海底撈所有門店謝絕顧客攜帶寵物進店用餐，個別門店在非就餐區提供寵物寄存服務。門店表示，經查 ，6月18日晚22點32分，顧客將寵物狗臨時寄存於門店辦公室，未進入就餐區域，此時辦公室室內溫度約為23度；門店夥伴於23點17分關閉辦公室空調，顧客於23點19分將寵物狗帶離辦公室，並下樓；大約半小時後，顧客返回門店，於23點48分將寵物狗重新放回辦公室，並於次日0點34分將寵物狗帶離門店，此時室內溫度約為27度。關空調前後，期間溫差大約5度。門店稱，目前我們正與當事人積極溝通中，前期我們已墊付醫藥費用，並退還顧客餐費，後續我們將最佳化相關服務。
-
----
-
-### 2026-06-21 23:08:19  #MKT News #Important
-
-【First round of Iran-US talks concluded】Foreign media reported on the 21st that the first round of Iran-US talks concluded.
-
----
-
-### 2026-06-21 23:07:45  #國際
-
-據外媒21日報道，伊美談判第一輪已結束。（新華社）
-
----
-
-### 2026-06-21 23:07:30  #MKT News
-
-Iran's Fars news agency, citing an informed member of Iran's negotiation team, said the first round of four-party talks in Switzerland has concluded.
 
 ---

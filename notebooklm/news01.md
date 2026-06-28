@@ -1,7 +1,91 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-06-28 23:06:58_
-_本檔包含 3471 則快訊，約 667676 字_
+_更新時間：2026-06-28 23:40:25_
+_本檔包含 3474 則快訊，約 667966 字_
+
+---
+
+### 2026-06-28 23:38:46  #其他
+
+【體操亞錦賽中國隊單日斬獲兩金】第13屆亞洲體操錦標賽、第19屆亞洲青年體操錦標賽女子單項決賽28日在貴州省遵義市奧體中心收官。中國隊張清穎奪得成年組平衡木冠軍，張怡涵榮獲成年組自由體操冠軍，陳紫嫣勇奪青年組平衡木冠軍。
+
+---
+
+### 2026-06-28 23:33:09  #公司
+
+【物理AI第一股Momenta明日啟動招股，賓士、比亞迪等現身基石名單】6月28日晚間訊息，全球領先的物理AI公司Momenta將於6月29日披露全球發售檔案，正式啟動招股，成為“物理AI第一股”。新浪科技獲得的資訊顯示，Momenta基石席位空前火爆，陣容豪華，包括國際頂級長線基金及主權基金、頂級戰略投資人和中資頂級資本。新加坡政府投資公司、富達國際、貝萊德、橡樹資本、梅賽德斯-賓士、比亞迪、高毅等現身基石名單。訊息人士透露，本次新加坡政府投資公司（GIC）和富達國際兩家基金強勢領投，GIC近年重倉Anthropic與臺積電，富達國際此前重倉中際旭創、寒武紀等AI龍頭，意味著Momenta正成為物理AI規模化落地的“資本錨點”。梅賽德斯-賓士和比亞迪既是Momenta的老股東，也是深度合作伙伴，此次作為基石繼續加碼投資，帶來產業端的資本與訂單雙重護航，意味著雙方的合作護城河進一步加深。此前，Momenta於6月23日在港交所刊發聆訊後資料集（PHIP），透過港交所聆訊，正式進入IPO衝刺階段。招股書顯示，Momenta近三年營收規模實現跨越式增長：2023年至2025年，Momenta營業收入從7.43億元增長至24.13億元，三年翻三倍，年均複合增長率超80%。截至2025年底，公司現金儲備超100億元。（新浪科技）
+
+---
+
+### 2026-06-28 23:24:14  #其他
+
+【德國連續三天重新整理本國最高氣溫紀錄】根據德國氣象局當地時間6月28日釋出的初步資料，當天下午4時左右，德國勃蘭登堡州的科申氣象站測得41.7攝氏度高溫。這是德國連續第三天重新整理最高氣溫紀錄。此前，德國氣象局26日在西部城市薩爾布呂肯測得41.3攝氏度高溫，27日在東部默肯-德雷維茨地區測得41.5攝氏度高溫。（央視新聞）
+
+---
+
+### 2026-06-28 23:24:11  #MKT News
+
+【Germany registers highest temperatures for third consecutive day】Preliminary data from the German Weather Service (DWD) show a Brandenburg weather station recorded 41.7°C at about 16:00 local time on June 28, marking the third straight day of national high-temperature records. DWD recorded 41.3°C in Saarbrücken on June 26 and 41.5°C in Merken-Drewitz on June 27.
+
+---
+
+### 2026-06-28 23:23:17  #MKT News
+
+【Croatia issues nationwide heat warnings】On the 28th, the Croatian National Hydrometeorological Service issued red heat warnings for four regions and orange warnings for other parts of the country. Forecasts show daytime highs reaching up to 39°C in some areas.
+
+---
+
+### 2026-06-28 23:22:13  #國際
+
+美國獨立議員伯尼·桑德斯：如今美國民眾承受著巨大的生活壓力。大家知道壓力會帶來什麼後果嗎？壓力足以奪走人的生命。如果每天都要拼盡全力才能勉強維持一家生計，身心都會遭受嚴重損耗。現實情況是，工薪家庭、低收入人群的預期壽命遠達不到應有水平——足足少了六年。他們的平均壽命比富人短六年。大家明白我這話的分量嗎？換句話說，在美國，身為工薪階層等同於被判了縮短壽命的重刑。人們拼盡全力只為活下去，身心卻都在不斷被透支、摧垮。
+
+---
+
+### 2026-06-28 23:19:41  #其他
+
+【克羅埃西亞全國高溫預警】克羅埃西亞國家水文氣象局28日釋出了針對4個地區的紅色高溫預警，並針對該國其他地區釋出了橙色高溫預警。根據氣象預報，一些地區的日間最高氣溫將達到39攝氏度。克羅埃西亞國家水文氣象局網站上釋出的資訊顯示，沿海的裡耶卡、斯普利特和杜布羅夫尼克等3個地區以及內陸的首都薩格勒布處於紅色高溫預警狀態，該國其他地區則處於橙色高溫預警狀態。
+
+---
+
+### 2026-06-28 23:19:27  #國際
+
+【日本媒體人：警惕日本再次成為戰爭加害國】長期追蹤和批評日本軍事擴張、日美軍事一體化等問題的日本媒體人吉田敏浩28日表示，日美軍事同盟長期以來將和平憲法掏空，而日本政府不僅未能糾正這一趨勢，反而持續推進軍事擴張，這最終或導致日本再次成為戰爭加害國。（新華社）
+
+---
+
+### 2026-06-28 23:14:00  #其他
+
+委內瑞拉地震已救出33人，仍有數千人下落不明。
+
+---
+
+### 2026-06-28 23:10:58  #央行 #國際
+
+美國總統特朗普即將迎來美國最高法院的裁決結果，法院將判定他兩項最大膽的政策博弈舉措是否合法：一是罷免一名美聯儲理事，二是廢除自動落地公民權制度。
+
+---
+
+### 2026-06-28 23:09:25  #國際
+
+以色列總理內塔尼亞胡談及土耳其：埃爾多安幾乎每天都在叫囂要摧毀以色列。我們十分嚴肅地看待這類言論，因為從本民族的歷史中我們學到一個道理，倘若有人揚言要消滅你，就必須認真對待。我們重視這些表態，同時也會將相關情況告知美方盟友，絕不會置之不理。
+
+---
+
+### 2026-06-28 23:08:43  #MKT News
+
+The office of Lebanon's parliament speaker said Iran's parliament speaker Ghalibaf assured that Tehran will, under a memorandum of understanding, press Israel to stop launching military operations against Lebanon.
+
+---
+
+### 2026-06-28 23:08:30  #國際
+
+黎巴嫩議長辦公室：黎巴嫩國民議會議長貝里與伊朗議會議長卡利巴夫就以色列襲擊黎巴嫩南部、違反伊美諒解備忘錄相關事宜展開磋商。
+
+---
+
+### 2026-06-28 23:07:44  #國際
+
+黎巴嫩議長辦公室：伊朗議會議長卡利巴夫保證，德黑蘭方面將依據諒解備忘錄，推動以色列停止對黎巴嫩發動戰事。
 
 ---
 
@@ -20945,71 +21029,5 @@ US 10-Year Yield Holds Decline — The yield on the 10-year US Treasury note rem
 ### 2026-06-26 12:07:50  #MKT News #Market Regions #Greater China #Hang Seng Index #Impact bearish #02382.HK #09999.HK #Impact mixed
 
 【Hong Kong midday: HSI down 1.87%, Hang Seng Tech Index down 3.21%】Hong Kong stocks at the midday close: HSI fell 1.87% and the Hang Seng Tech Index dropped 3.21%. Storage, semiconductors, optical communications and lithium battery names led declines; pork and game-software sectors were among few gainers. Large-cap moves: Sunny Optical (02382.HK) down over 12%, Zhipu (02513.HK) down over 10%, SMIC (00981.HK) down over 6%, CATL (03750.HK) and Lenovo Group (00992.HK) down over 5%, BYD (01211.HK) and Alibaba (09988.HK) down over 4%, Baidu (09888.HK) down over 3%; NetEase-S (09999.HK) up over 1%. Newly listed stocks: 02272.HK up 195%, 01956.HK up 87%, 09630.HK up 76%.
-
----
-
-### 2026-06-26 12:07:29  #MKT News
-
-Global Chip LOF will be suspended from the afternoon session open on June 26, 2026 through that day's market close; fund redemptions will continue to be processed during the suspension.
-
----
-
-### 2026-06-26 12:06:55  #市場 #國際
-
-【投資者以創紀錄速度加碼美元多頭押注】美國商品期貨交易委員會(CFTC)資料顯示，投資者以創紀錄速度加碼美元多頭押注。當前美元投機性淨多倉價值約300億美元，為特朗普第二總統任期以來最高水平；今年上半年淨增約370億美元頭寸，創2012年CFTC開始記錄以來同期最快增速。“短期來看，由於美國實際利率上升，美元可能仍會走強，”Neuberger投資組合經理Joseph Purtell表示。他認為美元有望突破過去六至九個月的區間，但補充說，從長期來看，考慮到美國政府財政可持續性等結構性問題，美元可能走弱。美國銀行估計，今年迄今已有3,410億美元流入美股，遠超去年同期的1,340億美元。
-
----
-
-### 2026-06-26 12:04:41  #國際
-
-韓國總統李在明稱，週末將再有三艘船隻離開霍爾木茲海峽。此前韓國政府表示，有八艘韓國船隻已駛出霍爾木茲海峽。
-
----
-
-### 2026-06-26 12:03:58  #MKT News #WTI #Impact bullish #Brent
-
-South Korea's Lee said three ships will depart the Strait of Hormuz over the weekend.
-
----
-
-### 2026-06-26 12:03:30  #MKT News
-
-Financial Times reports Musk-owned SpaceX plans to roll out Starlink mobile service to the US mass consumer market.
-
----
-
-### 2026-06-26 12:03:09  #國際
-
-據報道，SPACEX計劃面向美國消費者推出新的星鏈移動服務。
-
----
-
-### 2026-06-26 12:02:49  #國際
-
-韓國首爾綜指日內跌幅小幅收窄至7.2%，此前跌超8%。
-
----
-
-### 2026-06-26 12:01:47  #MKT News #Commodities #Industrial Metals #Copper #Impact bearish #DXY #Impact bullish #Nasdaq100
-
-【Aluminium set for fourth straight weekly fall as Middle East supply revival weighs】Asian tech selloff, a stronger dollar and expectations that Middle Eastern supply will resume after a temporary US‑Iran agreement have driven aluminium toward a fourth consecutive weekly decline, the longest run since April 2025; the region supplies about 10% of global output and prices are forecast to be down roughly 7% on the week. A merchant vessel attack on Thursday revived Strait of Hormuz security concerns and increased shipping uncertainty. Copper and other industrial metals also fell as tech-led risk‑off hit demand-linked metals used in electronics, cabling and AI data‑centre builds. Jinrui Futures said near‑term macro sentiment remains negative and aluminium is likely to trade weakly and choppily.
-
----
-
-### 2026-06-26 12:01:34  #其他
-
-財通證券給予TCL科技買進的初始評級。
-
----
-
-### 2026-06-26 12:01:15  #公司 #市場
-
-【港股午評：恒生指數跌1.87%，恒生科技指數跌3.32%】港股午間收盤，恒生指數跌1.87%，恒生科技指數跌3.32%。恒指港股通ETF銀華（159318）跌1.92%，港股通科技ETF鵬華（159751）跌3.82%。板塊方面，建築產品板塊漲幅靠前；通訊裝置、半導體產品與裝置板塊跌幅靠前。個股方面，科拓股份漲195.07%，中科聞歌漲87.48%，芯碁微裝漲76.39%，聖邦股份漲25.0%，怡俊集團控股漲16.42%；長飛光纖光纜跌13.98%，天數智芯跌13.43%，舜宇光學科技跌12.31%，琻捷電子科技跌12.01%，壁仞科技跌11.69%。
-
----
-
-### 2026-06-26 12:00:00  #公司 #市場 #國際
-
-【AI相關交易持續震盪，軟銀集團股價大跌】軟銀集團股價週五大跌逾13%，因對人工智慧(AI)估值和盈利能力的擔憂引發了亞洲科技股的普遍拋售。軟銀被視為AI交易的風向標，該股的下跌使其有望創下近兩年來最大的單日百分比跌幅之一。日本基準股指日經指數下跌逾4%，愛德萬測試和鎧俠等其他科技股的跌幅均超過9%。與其他AI概念股一樣，軟銀的股價近來也陷入了劇烈波動的模式，因為市場對AI相關股票的情緒在對該技術長期前景的樂觀與對近期變現能力和天價估值的悲觀之間搖擺。分析師表示，這家科技投資集團最近的股價下跌，可能是由一則有關ChatGPT開發商OpenAI正考慮推遲其首次公開募股(IPO)的報道所引發。媒體週四援引知情人士的話報道稱，由於對市場波動的擔憂，OpenAI傾向於將其IPO推遲到明年。
 
 ---
