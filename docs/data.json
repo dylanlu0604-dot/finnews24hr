@@ -1,7 +1,31 @@
 {
-  "updated": "2026-06-28 23:23:47",
-  "count": 18011,
+  "updated": "2026-06-28 23:27:53",
+  "count": 18013,
   "items": [
+    {
+      "id": "4959051",
+      "time": "2026-06-28 23:24:14",
+      "tags": [
+        "其他"
+      ],
+      "text": "【德國連續三天重新整理本國最高氣溫紀錄】根據德國氣象局當地時間6月28日釋出的初步資料，當天下午4時左右，德國勃蘭登堡州的科申氣象站測得41.7攝氏度高溫。這是德國連續第三天重新整理最高氣溫紀錄。此前，德國氣象局26日在西部城市薩爾布呂肯測得41.3攝氏度高溫，27日在東部默肯-德雷維茨地區測得41.5攝氏度高溫。（央視新聞）"
+    },
+    {
+      "id": "mkt:019f0ed4-be7e-7aab-8c01-79dd9f449eb1",
+      "time": "2026-06-28 23:24:11",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Germany registers highest temperatures for third consecutive day】Preliminary data from the German Weather Service (DWD) show a Brandenburg weather station recorded 41.7°C at about 16:00 local time on June 28, marking the third straight day of national high-temperature records. DWD recorded 41.3°C in Saarbrücken on June 26 and 41.5°C in Merken-Drewitz on June 27."
+    },
+    {
+      "id": "mkt:019f0ed3-eb90-7aab-8c01-77663eba1d09",
+      "time": "2026-06-28 23:23:17",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Croatia issues nationwide heat warnings】On the 28th, the Croatian National Hydrometeorological Service issued red heat warnings for four regions and orange warnings for other parts of the country. Forecasts show daytime highs reaching up to 39°C in some areas."
+    },
     {
       "id": "4959050",
       "time": "2026-06-28 23:22:13",
@@ -164842,14 +164866,6 @@
         "XAUUSD"
       ],
       "text": "Fars News Agency: An adviser to Iran's supreme leader said Iran will not relinquish capabilities it has acquired in the Strait of Hormuz."
-    },
-    {
-      "id": "4946549",
-      "time": "2026-06-21 23:27:39",
-      "tags": [
-        "國際"
-      ],
-      "text": "【真主黨譴責黎巴嫩與以色列開展直接談判】真主黨表示，黎以官員將在華盛頓舉行的多輪直接談判不會帶來任何有利結果。該組織發文稱，黎巴嫩政府只會順從美國政府的指令行事，此舉有損黎巴嫩主權；並譴責與以色列的直接談判及其可能產生的一切後果。"
     }
   ]
 }
