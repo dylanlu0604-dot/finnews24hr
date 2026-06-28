@@ -1,7 +1,157 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-06-28 21:13:06_
-_本檔包含 3645 則快訊，約 668105 字_
+_更新時間：2026-06-28 22:13:56_
+_本檔包含 3650 則快訊，約 668219 字_
+
+---
+
+### 2026-06-26 11:52:34  #MKT News
+
+【Magnitude-5.8 earthquake in northeast Chiba; Tokyo felt strong shaking】The Japan Meteorological Agency said a magnitude-5.8 earthquake struck northeast Chiba Prefecture at about 12:46pm JST on the 26th, with a focal depth of 50 km and a maximum JMA seismic intensity of 4. Tokyo reported strong shaking.
+
+---
+
+### 2026-06-26 11:52:08  #公司
+
+【北環線支線香港段鐵路方案刊憲 將連通香港和深圳的地鐵網路】香港特區政府今日（26日）按《鐵路條例》（第519章）（條例）的規定，在憲報刊登北環線支線香港段的相關鐵路方案。 特區政府早前與香港鐵路有限公司（港鐵公司）簽訂北環線專案（包括北環線主線和支線）的第一部分專案協議，啟動北環線主線專案當中較成熟和迫切的工程，並同時要求港鐵公司同步進行北環線支線的詳細規劃及設計。北環線支線包括從主線新田站開始一條約六公里長的地下鐵路，當中香港段長約五公里，深圳段則長約一公里。北環線支線將設三個新鐵路站，包括香港段位於新田科技城的洲頭和河套地區兩個新鐵路站，以及深圳段於新皇崗口岸設定的一個新鐵路站。 特區政府發言人表示，北環線專案是推動北部都會區發展和助力香港更好融入國家發展的重要運輸基建，配合國家“十五五”規劃綱要提出加快北部都會區建設，促進軌道交通協同發展。北環線主線將成為北部都會區多個新發展區的公共運輸骨幹，釋放北部都會區的發展潛力，並會連線現有的屯馬線及東鐵線，形成貫通新界和九龍市區的環狀鐵路，大幅提升鐵路網路的覆蓋範圍和韌性。北環線支線則會作為北環線專案的跨境分支，連線新皇崗口岸，連通香港和深圳的地鐵網路及便利港深兩地人員流動，亦服務新田科技城及河套地區，同時兼備香港本地通勤和跨境鐵路服務的功能，推動粵港澳大灣區基礎設施“硬聯通”。北環線主線和支線投入服務後，往來錦上路和古洞，以及新田和新皇崗口岸的行程預計分別只需約12分鐘及11分鐘。
+
+---
+
+### 2026-06-26 11:52:00  #公司
+
+【斯迪克：部分客戶已完成超薄MLCC離型膜認證 6月已實現小批次供貨】斯迪克(300806)在互動平臺表示，從當前客戶驗證情況來看，部分客戶已完成超薄MLCC離型膜認證，6月已實現小批次供貨，預計下半年相關業務將取得階段性進展。
+
+---
+
+### 2026-06-26 11:51:44  #公司
+
+【再添綠色新動能！世界第一高壩首臺機組併網發電】從國家能源集團獲悉，今天（26日），國家重點能源專案——大渡河雙江口水電站迎來首臺機組併網發電，為西南地區清潔能源供應體系建設和我國“雙碳”目標落地再添新的支撐。
+
+---
+
+### 2026-06-26 11:51:08  #國際
+
+日本氣象廳：日本發生地震，震度等級為七級中的四級。
+
+---
+
+### 2026-06-26 11:50:48  #其他
+
+香港天文臺釋出黃色暴雨警告。
+
+---
+
+### 2026-06-26 11:50:46  #MKT News #Important #000858.SZ #Impact bullish
+
+【Wuliangye GM Hua Tao: Will honor scheduled cash dividend; pursue buybacks and share cancellation】At the June 26, 2025 annual shareholders’ meeting, Wuliangye General Manager Hua Tao said the company will honor its scheduled annual cash dividend commitment. It will advance share buybacks and subsequent cancellations in accordance with regulations and cooperate with a major shareholder’s planned stake increase. The company will timely start preparing a new three‑year active return plan and continue to strengthen investor communication to return cash to all shareholders.
+
+---
+
+### 2026-06-26 11:50:42  #國際
+
+日本氣象廳稱，日本地震不會引發海嘯。
+
+---
+
+### 2026-06-26 11:50:04  #公司 #市場
+
+【五糧液總經理華濤：按期兌現分紅承諾 真金白銀回饋全體股東】 6月26日，在五糧液(000858)2025年度股東大會上，總經理華濤表示，持續強化公司的價值管理，增強資本市場的認同，嚴格落地股東回報相關的舉措。五糧液將按期兌現年度現金的分紅承諾，依規推進股份回購以及後續登出，配合落實大股東的增持計劃，適時啟動編制新一輪的三年主動回報規劃，持續健全投資者的交流渠道，以真金白銀回饋全體股東。據悉，2024年度，五糧液現金分紅及中期分紅總額超223億元，現金分紅的比例提升至70%，股息率達到近5%，2025年分紅總額也將超過200億元。
+
+---
+
+### 2026-06-26 11:50:01  #國際
+
+日本千葉縣6.0級地震 ，東京地區有強烈震感。（央視）
+
+---
+
+### 2026-06-26 11:48:25  #MKT News
+
+Japan Meteorological Agency says preliminary epicenter magnitude is 6.0.
+
+---
+
+### 2026-06-26 11:47:57  #國際
+
+日本防災科學技術研究所（NIED）初步測定日本發生地震，震級為6.0級。
+
+---
+
+### 2026-06-26 11:47:48  #MKT News #Market Regions #Japan & APAC
+
+Earthquake struck Tokyo, Japan; reports of buildings shaking.
+
+---
+
+### 2026-06-26 11:47:12  #其他
+
+市場訊息：日本東京地震導致建築物搖晃。
+
+---
+
+### 2026-06-26 11:45:39  #公司
+
+【北京京鐵東北環線鐵路運營管理公司成立 註冊資本約89億元】企查查APP顯示，近日，北京京鐵東北環線鐵路運營管理有限公司成立，法定代表人為張穎，註冊資本約為89億元，經營範圍包含：再生資源銷售；土地整治服務；工程管理服務；非居住房地產租賃；對外承包工程；建設工程設計等。企查查股權穿透顯示，該公司由中國國家鐵路集團有限公司旗下中國鐵路北京局集團有限公司全資持股。
+
+---
+
+### 2026-06-26 11:45:12  #公司
+
+【小米成立享看創境資訊科技服務公司】企查查APP顯示，近日，上海享看創境資訊科技服務有限公司成立，法定代表人為劉嬋，註冊資本為1000萬元，經營範圍包含：資訊科技諮詢服務；廣告製作；廣告設計、代理；組織文化藝術交流活動；市場營銷策劃；社會經濟諮詢服務等。企查查股權穿透顯示，該公司由小米通訊技術有限公司全資持股。
+
+---
+
+### 2026-06-26 11:44:32  #公司
+
+【格力公佈智慧財產權維權進展通報：7人被判處有期徒刑6個月至3年不等】6月26日，格力文傳公佈格力電器智慧財產權維權進展通報（八）。格力電器表示，針對“空調、風扇、浴霸等家電商標侵權、不正當競爭”“壓縮機虛假宣傳” 等智慧財產權侵權行為，公司堅決採取法律措施維護自身權益。據格力電器介紹，在2026年1月至5月期間，格力電器收到91起 “侵害商標權”“不正當競爭糾紛”等民事案件的裁判文書，涉案侵權主體依法均已受到懲處，合計判賠金額254.25萬元。2024年1月至2026年5月，刑事案件結案6起，有7人被判處有期徒刑6個月至3年不等、罰金總計30萬元；民事案件結案675起，判賠金額總計3354.86萬元；行政案件結案6起，處以罰款總計97989元。
+
+---
+
+### 2026-06-26 11:44:20  #MKT News #Commodities #Energy #WTI #Impact bearish #Brent
+
+Sources say Qatar is offering crude oil for July–August loading via tender.
+
+---
+
+### 2026-06-26 11:44:08  #其他
+
+訊息人士：卡達透過招標提供7-8月裝船原油。
+
+---
+
+### 2026-06-26 11:43:02  #其他
+
+【微信回應互刪朋友圈互動不可見】6月26日，微信官方今天釋出了一條關於“朋友圈冷知識”的內容，回答了一些使用者在社媒討論較多的問題。對於“刪好友後，那些朋友圈互動還在嗎？ ”，微信回應：這取決於你們是“單向告別”還是“雙向奔赴”。如果只是你刪了對方。過去的互動，在雙方視角原封不動。TA 可能毫無察覺，直到某天給你發訊息收到紅色感嘆號。但如果你倆互刪了呢？ TA 的點贊和評論，會從你的朋友圈裡消失。你自己的回覆還在，但 TA 的痕跡，全部撤走。 針對為什麼朋友圈會有分組設計，微信表示：微信從來不替你社交。分不分組是你的事，它不替你判斷關係遠近。刪不刪痕跡是兩個人的事，它不替你單方面蓋棺定論。它永遠只給工具，不給答案。因為答案本來就該是你的。
+
+---
+
+### 2026-06-26 11:37:53  #MKT News #Important #Market Regions #Japan & APAC #Nikkei 225 #Impact bearish
+
+Japan's Nikkei 225 index losses widened to 5%.
+
+---
+
+### 2026-06-26 11:37:39  #市場 #國際
+
+日本東證指數下跌2%。
+
+---
+
+### 2026-06-26 11:36:34  #公司
+
+日經225指數大跌5%，軟銀集團跌超12%。
+
+---
+
+### 2026-06-26 11:36:33  #MKT News #Market Regions #Greater China #XAUUSD #Impact bullish #DXY #Copper #Impact bearish
+
+【China A-shares midday: ChiNext down 3.72%; about 4,600 stocks decline】By midday China A-shares were sharply lower. Shanghai Composite -2.14%, Shenzhen Composite Index -3.04%, ChiNext Index -3.72%. Combined Shanghai/Shenzhen turnover CNY2.43 tln, up CNY3.3 bln vs prior session. Glass-substrate names outperformed, with Kaisheng Technology nearing the daily limit. Select chip stocks were active; Tongcheng New Material and others hit limit up. Lithography-machine plays were firm, with Xinlai Yingcai and Haili stocks touching limit. Non-ferrous metals, pharmaceuticals and semiconductor sectors led the declines. Roughly 4,600 stocks fell.
+
+---
+
+### 2026-06-26 11:35:58  #MKT News #CSI300 #Impact bullish #Copper
+
+【NEA to accelerate new-energy infrastructure buildout across three fronts during 15th Five-Year Plan】The National Energy Administration told a State Council press briefing that during the 15th Five-Year Plan period it will accelerate new-energy infrastructure deployment across three priority areas. First, infrastructure to accelerate renewables: optimize development models; build clean-energy bases including wind and solar in the Three North region and integrated hydro-wind-solar hubs in the southwest; expand green-power direct connections; develop low‑carbon/zero‑carbon oil and gas fields; and boost integrated renewable deployment. The NEA said it will also raise grid access and curtailment resistance and build a safe, reliable, green, resilient, intelligent and flexible power grid, targeting a >40% increase in source–storage–dispatch capability. Second, infrastructure driven by new technologies and business models, including renewable hydrogen, green fuels, EV charging, nuclear comprehensive utilization, virtual power plants and integrated energy stations. Third, speed up digitization and smart upgrades of traditional energy infrastructure.
 
 ---
 
@@ -21838,125 +21988,5 @@ Malaysia's economic minister said that as of June 22 unemployment is contained; 
 ### 2026-06-25 10:39:57  #MKT News #Market Regions #Greater China #CNH #Impact bullish #CSI300 #Hang Seng Index
 
 【Chongqing proposes continued action to identify and remove implicit barriers to foreign investment】Chongqing Development and Reform Commission has published a draft Notice on Improving Full‑Lifecycle Services for Foreign Investment Projects for public comment. The draft pledges to protect foreign investors’ lawful rights, advance municipal foreign‑investment legislation, and strictly apply pre‑establishment national treatment plus the negative list, banning entry restrictions targeted at foreign capital. It calls for continued special inspections to root out implicit barriers, opens complaint channels, and promises strict enforcement against differential treatment, hidden thresholds and selective law enforcement. The draft also guarantees equal participation by foreign firms in government procurement and requires soliciting foreign‑invested enterprises’ views when drafting policies on using foreign capital.
-
----
-
-### 2026-06-25 10:39:54  #公司 #觀點
-
-【欣旺達動力增資至132億元，增幅約38%】天眼查App顯示，6月22日，欣旺達動力科技股份有限公司發生工商變更，註冊資本由約95.7億人民幣增至約132億人民幣，增幅約38%。該公司成立於2014年10月，法定代表人為王明旺，經營範圍包括軟體開發及銷售、新能源汽車充電設施運營、新能源汽車充電裝置及配件的研發與銷售等，由欣旺達惠州新能源有限公司、天津和諧海河股權投資合夥企業（有限合夥）、中信證券投資有限公司等共同持股。
-
----
-
-### 2026-06-25 10:39:27  #MKT News #Important #Market Regions #Greater China
-
-China A-share lab-grown diamond sector jumped; Henglin Co. and Guoji Jinggong hit the daily price limit, Yingnuo Laser and Woerde rose over 7%, Chujiang New Materials gained about 3%.
-
----
-
-### 2026-06-25 10:39:19  #市場
-
-【機場航運板塊走高，華夏航空漲停】機場航運板塊走高，華夏航空漲停，海航控股、白雲機場、廈門空港、上海機場、春秋航空等紛紛走高。
-
----
-
-### 2026-06-25 10:39:13  #其他
-
-【重慶：擬持續實施外資隱性壁壘排查整治專項行動】重慶市發展改革委牽頭起草了《關於提升外商投資專案全生命週期服務水平的通知（徵求意見稿）》，現面向社會公開徵集意見建議。徵求意見稿提出，保護外資企業合法權益。謀劃推進市級外商投資立法。嚴格執行外商投資准入前國民待遇加負面清單管理制度，嚴禁針對外資單獨設定准入限制。持續實施外資隱性壁壘排查整治專項行動，暢通投訴舉報渠道，嚴肅查處外資企業差別待遇、隱形門檻、選擇性執法等行為，保障外資企業依法平等參與政府採購等活動。制定利用外資有關政策時充分徵求外資企業意見。
-
----
-
-### 2026-06-25 10:38:21  #MKT News
-
-Malaysia's Ministry of Economy said as of June 18 it had approved financing facilities exceeding MYR700 mln, benefiting more than 1,000 SMEs.
-
----
-
-### 2026-06-25 10:37:43  #其他
-
-RESONAC將提升高純度氟化氫氣體的產量。
-
----
-
-### 2026-06-25 10:36:59  #其他
-
-【重慶：擬研究制定市級鼓勵外資企業境內再投資政策舉措】重慶市發展改革委牽頭起草了《關於提升外商投資專案全生命週期服務水平的通知（徵求意見稿）》，現面向社會公開徵集意見建議。徵求意見稿提出，鼓勵存量外資再投資。全面落實國家層面支援符合條件的境外投資者以分配利潤直接投資10%稅額抵免、暫不徵收預提所得稅雙重稅收優惠以及降低初期用地成本、簡化登記手續等政策措施。研究制定市級鼓勵外資企業境內再投資政策舉措。全面摸排、動態更新在渝外資企業增資擴產規劃及再投資意向，建立存量外資再投資專案庫，推動年內擬擴產再投資專案落地。
-
----
-
-### 2026-06-25 10:36:46  #MKT News #Market Regions #Greater China
-
-【Chongqing drafts measures to speed FDI lifecycle, seeks pilot openings in telecom value-added, healthcare, education】Chongqing Development and Reform Commission has drafted a public consultation notice aiming to raise full-lifecycle services for foreign-invested projects. The proposal calls for stronger foreign-capital attraction, the creation of an 'Invest in Chongqing' brand, and a tiered project-attraction mechanism to accelerate conversion of leads into signed deals, signings into funded projects, and funded projects into production capacity. It also proposes using the pilot free-trade zone as a testing ground and actively pursuing pilot opening policies for telecom value-added services, healthcare and education. The document is a draft circulated for public comment.
-
----
-
-### 2026-06-25 10:36:26  #公司 #觀點
-
-【欣旺達動力科技公司增資至132億 增幅約38%】天眼查App顯示，近日，欣旺達動力科技股份有限公司發生工商變更，註冊資本由約95.7億人民幣增至約132億人民幣，增幅約38%。該公司成立於2014年10月，法定代表人為王明旺，經營範圍包括軟體開發及銷售、新能源汽車充電設施運營、新能源汽車充電裝置及配件的研發與銷售等，由欣旺達惠州新能源有限公司、天津和諧海河股權投資合夥企業（有限合夥）、中信證券投資有限公司等共同持股。
-
----
-
-### 2026-06-25 10:36:01  #MKT News
-
-Malaysia's economy minister said the government will continue targeted, data-driven measures to protect workers and support businesses.
-
----
-
-### 2026-06-25 10:35:44  #其他
-
-【重慶：擬積極爭取電信增值、醫療、教育等領域開放試點政策】重慶市發展改革委牽頭起草了《關於提升外商投資專案全生命週期服務水平的通知（徵求意見稿）》，現面向社會公開徵集意見建議。徵求意見稿提出，強化外資專案招引。持續打造“投資重慶”品牌，建立健全外資專案梯度招引機制，加快推進專案線索轉簽約、簽約專案轉到資、到資專案提產能。發揮自貿試驗區改革開放“試驗田”作用，積極爭取電信增值、醫療、教育等領域開放試點政策。
-
----
-
-### 2026-06-25 10:34:58  #Trading Economics #Markets #Commodity #Importance 1
-
-European Gas Prices Near 2-Month Lows — European natural gas prices hovered around €40.8 per MWh, remaining near a two-month low, as shipping activity through the Strait of Hormuz showed signs of normalization following progress in US-Iran peace talks. Three stranded crude oil supertankers successfully transited the waterway earlier this week, while several empty Qatari LNG carriers have entered the Gulf in recent weeks to reload, signaling a potential recovery in gas shipments. Additionally, Qatar's Prime Minister indicated that LNG production is expected to return to normal within a few weeks, apart from the damaged facility. The prospect of resumed LNG flows from the Gulf eased fears of a supply crunch and could help Europe replenish inventories ahead of next winter. These developments offset support from strong power-sector demand amid hot weather and low wind speeds across Europe.
-
----
-
-### 2026-06-25 10:34:50  #公司
-
-【星熠智慧完成千萬級天使輪融資】6月25日，AI人力供應鏈公司星熠智慧宣佈完成千萬級天使輪融資。本輪融資由浦東創投領投，L2F光源創業者基金跟投，光源資本擔任孵化方及獨家財務顧問。本輪融資將主要用於核心業務“極速到崗”的市場拓展、自研KYMS AI勝任力引擎的持續迭代，以及團隊的擴張。
-
----
-
-### 2026-06-25 10:34:24  #MKT News #Commodities #Industrial Metals #Copper
-
-China A-share PET copper-foil sector rose in choppy trade. Oulai New Materials, Zhongtian Technology and Hongtian Co. hit intraday highs. Wanshun New Materials jumped more than 15%, Jingwei Huikai gained over 10%; Tongfeng Electronics, Sanfu Xinke and Ashichuang also advanced.
-
----
-
-### 2026-06-25 10:34:22  #MKT News
-
-El Salvador's president said the country, through its foreign ministry, has prepared aid for Venezuela: 300 rescue and medical personnel and 50 tonnes of equipment, medicine and essential supplies ready to deploy to Caracas.
-
----
-
-### 2026-06-25 10:34:21  #市場 #焦點
-
-南向資金淨買入額達20億港元。
-
----
-
-### 2026-06-25 10:33:47  #公司
-
-【三六零與中國惠普達成戰略合作 推動AI安全與終端生態融合】6月24日，ISC.AI 2026大會現場，三六零與中國惠普有限公司正式簽署生態戰略合作協議。雙方將發揮各自在人工智慧、數字安全、硬體生態領域的優勢，圍繞AI產品能力協同、大模型安全、數字安全、生態共建等方向開展合作，探索人工智慧與安全能力在終端及各類數字化場景下的融合應用。
-
----
-
-### 2026-06-25 10:33:15  #公司 #市場
-
-【PET銅箔板塊震盪上揚，歐萊新材等股創新高】PET銅箔板塊震盪上揚，歐萊新材、中天科技、洪田股份盤中創新高，萬順新材漲超15%，經緯輝開漲超10%，銅峰電子、三孚新科、江南新材、德福科技、阿石創跟漲。
-
----
-
-### 2026-06-25 10:33:06  #其他
-
-【康寧釋出玻璃光互連技術】康寧推出了下一代玻璃光互連元件Glass Bridge，直接連線光子積體電路（PIC）與光纖。該技術主要面向CPO及玻璃基板半導體封裝市場，為下一代AI資料中心架構提供連線。
-
----
-
-### 2026-06-25 10:32:38  #MKT News #DXY #Impact bullish #EURUSD #Impact bearish
-
-【Analyst: Australian jobs rebound structurally weak; RBA likely to hold in August】Analyst Eamonn Sheridan says Australia’s May labour market outperformed expectations overall, but a large downward revision to April and a rising share of part-time employment alongside falling hours point to structural weakness. Unemployment at 4.4% eases immediate upside pressure on the Reserve Bank of Australia. The shift toward part-time work and lower hours gives the RBA scope to delay tightening. Robust household spending and core inflation remaining above target leave room for Westpac’s call for an August hike, but market consensus still favours the RBA standing pat. June inflation will be the key data ahead of the August meeting.
 
 ---
