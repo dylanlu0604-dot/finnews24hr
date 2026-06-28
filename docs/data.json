@@ -1,7 +1,27 @@
 {
-  "updated": "2026-06-28 13:58:01",
-  "count": 18159,
+  "updated": "2026-06-28 14:02:05",
+  "count": 18160,
   "items": [
+    {
+      "id": "mkt:019f0ccf-8ad4-7770-9d1d-0b78a707471e",
+      "time": "2026-06-28 13:59:15",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Kuwait's foreign ministry said Iran's continued attacks have undermined efforts to de-escalate tensions."
+    },
+    {
+      "id": "4958762",
+      "time": "2026-06-28 13:57:36",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "韓國將於週一公佈與三星、SK集團合作的大型重點專案。"
+    },
     {
       "id": "mkt:019f0cca-d893-7770-9d1d-0054dae6d653",
       "time": "2026-06-28 13:54:08",
@@ -166179,14 +166199,6 @@
         "MKT News"
       ],
       "text": "Iran's agriculture minister said imports of basic commodities have proceeded as scheduled with no interruptions even during wartime and will continue."
-    },
-    {
-      "id": "4946166",
-      "time": "2026-06-21 13:58:58",
-      "tags": [
-        "其他"
-      ],
-      "text": "【飛豬：端午假期人均預訂金額同比增長16%】6月21日，飛豬釋出的《2026端午假期出遊快報》顯示，消費者的品質旅行偏好明顯，人均預訂金額同比增長16%。平臺上中國境內酒店間夜量同比增長30%以上，其中，88VIP帶來的酒店間夜量增長超60%。"
     }
   ]
 }
