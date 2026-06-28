@@ -1,7 +1,23 @@
 {
-  "updated": "2026-06-29 00:07:59",
-  "count": 17992,
+  "updated": "2026-06-29 00:12:07",
+  "count": 17988,
   "items": [
+    {
+      "id": "4959063",
+      "time": "2026-06-29 00:09:35",
+      "tags": [
+        "其他"
+      ],
+      "text": "黎巴嫩議會議長：必須避免衝突，盡一切努力維護、守護地區穩定與民間和平。"
+    },
+    {
+      "id": "mkt:019f0efd-877b-7aab-8c01-91fe01ee6d32",
+      "time": "2026-06-29 00:08:44",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Lebanon's parliament speaker reiterated the need to avoid conflict and said he would do everything possible to preserve stability and social peace."
+    },
     {
       "id": "mkt:019f0efb-cc5e-7aab-8c01-8bc5dba8ec38",
       "time": "2026-06-29 00:06:50",
@@ -164611,63 +164627,6 @@
         "國際"
       ],
       "text": "【伊朗抗議特朗普近期發出的威脅 並正在考量應對舉措】伊朗已就特朗普近期發出的威脅向美國正式提出抗議，並正在考量應對舉措。德黑蘭稱，任何形式的威脅行為都違反相關協議第一條條款，該條款規定美方不得實施威脅，因此特朗普此番言論嚴重違背雙方達成的共識。"
-    },
-    {
-      "id": "4946576",
-      "time": "2026-06-22 00:11:17",
-      "tags": [
-        "國際"
-      ],
-      "text": "【伊朗：若以色列不從黎巴嫩撤軍，將終止與美國的談判】伊朗方面表示，除非以色列全面撤出黎巴嫩且各戰線戰事全部平息，否則伊美之間所有談判都將中止。伊朗警告，若以色列繼續採取相關行動，伊朗將採取強硬得多的反擊措施。德黑蘭方面還懷疑美國借談判為以色列爭取喘息時間。"
-    },
-    {
-      "id": "mkt:019eeaf3-24b7-7dd8-b0a7-d7535adcf3ea",
-      "time": "2026-06-22 00:11:03",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "Iranian state TV quoted the head of the National Iranian Oil Company (NIOC) saying more than 25 million barrels of Iranian oil have crossed blockade lines since last Monday."
-    },
-    {
-      "id": "4946575",
-      "time": "2026-06-22 00:10:24",
-      "tags": [
-        "公司",
-        "焦點",
-        "國際"
-      ],
-      "text": "伊朗國家石油公司負責人表示，自週一以來，已有超過2500萬桶伊朗石油突破封鎖線運輸。"
-    },
-    {
-      "id": "4946574",
-      "time": "2026-06-22 00:10:06",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "伊朗塔斯尼姆通訊社：若以色列不從黎巴嫩撤軍，伊朗將終止與美國的談判。"
-    },
-    {
-      "id": "4946573",
-      "time": "2026-06-22 00:09:02",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國能源部長賴特：伊朗依然我行我素。"
-    },
-    {
-      "id": "4946572",
-      "time": "2026-06-22 00:08:01",
-      "tags": [
-        "國際"
-      ],
-      "text": "【萬斯稱特朗普要求與伊朗“翻開新篇章”】美國副總統萬斯週日（6月21日）在伊美會談前表示，特朗普已要求與伊朗“翻開新篇章”，以轉變美伊關係。"
     }
   ]
 }
