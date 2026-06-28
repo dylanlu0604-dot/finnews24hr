@@ -1,7 +1,34 @@
 {
-  "updated": "2026-06-28 13:54:01",
+  "updated": "2026-06-28 13:58:01",
   "count": 18159,
   "items": [
+    {
+      "id": "mkt:019f0cca-d893-7770-9d1d-0054dae6d653",
+      "time": "2026-06-28 13:54:08",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI"
+      ],
+      "text": "Bahrain's military said it intercepted multiple Iranian attacks."
+    },
+    {
+      "id": "4958761",
+      "time": "2026-06-28 13:53:37",
+      "tags": [
+        "國際"
+      ],
+      "text": "巴林軍方宣告稱，巴林攔截了伊朗發動的多起襲擊。"
+    },
+    {
+      "id": "4958760",
+      "time": "2026-06-28 13:53:32",
+      "tags": [
+        "國際"
+      ],
+      "text": "巴林國防軍總指揮部宣告：伊朗透過針對巴林平民的導彈和無人機襲擊，繼續其系統性的敵對行徑。"
+    },
     {
       "id": "mkt:019f0cc9-958c-7770-9d1c-f9a898abc483",
       "time": "2026-06-28 13:52:45",
@@ -166160,35 +166187,6 @@
         "其他"
       ],
       "text": "【飛豬：端午假期人均預訂金額同比增長16%】6月21日，飛豬釋出的《2026端午假期出遊快報》顯示，消費者的品質旅行偏好明顯，人均預訂金額同比增長16%。平臺上中國境內酒店間夜量同比增長30%以上，其中，88VIP帶來的酒店間夜量增長超60%。"
-    },
-    {
-      "id": "4946165",
-      "time": "2026-06-21 13:57:54",
-      "tags": [
-        "國際"
-      ],
-      "text": "【世界盃歷史第1000場比賽  日本隊4比0勝突尼西亞隊】美加墨世界盃F組第二輪日本隊4:0戰勝突尼西亞隊。這是世界盃歷史上的第1000場比賽。（新華社）"
-    },
-    {
-      "id": "mkt:019ee8c1-9fc2-7dd8-b0a3-786fbd4d3d62",
-      "time": "2026-06-21 13:57:43",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Brent",
-        "Impact bearish",
-        "XAUUSD",
-        "DXY"
-      ],
-      "text": "【US, Iran, Pakistan negotiators arrive in Switzerland】US Vice President Vance, Iran’s negotiating delegation and Pakistan’s prime minister and army chief have arrived in Switzerland to begin technical talks. Vance said US‑Iran discussions will focus on nuclear issues and a ceasefire in Lebanon; Iranian officials say ending the Lebanon conflict is their delegation’s top priority."
-    },
-    {
-      "id": "4946162",
-      "time": "2026-06-21 13:55:29",
-      "tags": [
-        "其他"
-      ],
-      "text": "【買家鑽平臺“僅退款”空子被拘 總檯記者調查惡意退貨亂象】“七天無理由退貨”是消費者權益保護法的規定。之所以有這樣的規定，是因為電商購物只能憑圖片和描述下單，消費者難以充分了解商品真實情況，消費者權利需要平衡。但令人意想不到的是，一位電商商家賣出20臺品牌充電器，買家退貨後竟然變成了沙子，而這起事件的發生居然正是不法分子利用了“七天無理由退貨”這一規定。（央視新聞）"
     }
   ]
 }
