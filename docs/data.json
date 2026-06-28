@@ -1,7 +1,15 @@
 {
-  "updated": "2026-06-28 20:00:10",
-  "count": 18093,
+  "updated": "2026-06-28 20:04:15",
+  "count": 18088,
   "items": [
+    {
+      "id": "4958979",
+      "time": "2026-06-28 20:00:16",
+      "tags": [
+        "其他"
+      ],
+      "text": "【網傳大疆全系漲價3%-8% ，官方回應：訊息不實，無調價計劃】市場流傳訊息稱，大疆全系產品將於2026年7月15日起調價，漲幅3%-8%。針對該說法，大疆方面向記者回應表示，訊息不實，純屬謠言；目前大疆官方指導價保持穩定，沒有網傳的全系調價計劃。"
+    },
     {
       "id": "mkt:019f0e18-9f80-7aab-8c00-ceb33bdbce0e",
       "time": "2026-06-28 19:58:42",
@@ -165538,58 +165546,6 @@
         "國際"
       ],
       "text": "巴基斯坦外交部長：希望美伊談判能夠取得積極進展，後續談判的推進將會面臨更大挑戰。"
-    },
-    {
-      "id": "4946430",
-      "time": "2026-06-21 20:04:12",
-      "tags": [
-        "市場",
-        "觀點"
-      ],
-      "text": "【中信建投：繼續看好AI算力作為本輪牛市中長期核心主線的後續表現】中信建投證券認為，市場短期強勁反彈行情，但反彈完成後A股或將進入震盪期。繼續看好AI算力作為本輪牛市中長期核心主線的後續表現。陸家嘴金融論壇等國內政策紅利有望繼續推動雙創板塊上漲，預計創業板和科創板將繼續保持強勢。而估值高企和交易結構可能成為後續科技主線階段性切換的主要原因。重點關注：AI算力、工業金屬、石化、機械、新能源等，逢低佈局：銀行、非銀、公用事業、煤炭等。"
-    },
-    {
-      "id": "4946429",
-      "time": "2026-06-21 20:03:53",
-      "tags": [
-        "國際"
-      ],
-      "text": "巴基斯坦外交部長：美伊雙方一致認定外交途徑是解決分歧的出路。"
-    },
-    {
-      "id": "4946428",
-      "time": "2026-06-21 20:03:38",
-      "tags": [
-        "國際"
-      ],
-      "text": "巴基斯坦外交部長：各方已達成共識，將降低伊朗核燃料庫存的丰度。"
-    },
-    {
-      "id": "4946427",
-      "time": "2026-06-21 20:02:55",
-      "tags": [
-        "公司"
-      ],
-      "text": "【思泉新材：副總裁兼董事會秘書郭智超因意外交通事故去世】思泉新材6月21日公告，公司副總裁、董事會秘書郭智超女士於2026年6月19日因意外交通事故去世。截至公告披露日，郭智超女士不持有公司股票。暫由公司董事長任澤明先生代為履行董事會秘書職責。"
-    },
-    {
-      "id": "4946426",
-      "time": "2026-06-21 20:01:12",
-      "tags": [
-        "國際"
-      ],
-      "text": "【巴基斯坦外長參與埃及四方會談，稱60天內霍爾木茲海峽不會收費】綜合沙特媒體報道，巴基斯坦外長達爾在參與埃及、土耳其、沙特、巴基斯坦的四方會談時表示，在60天期限內，（伊朗）不會阻止船隻透過霍爾木茲海峽，霍爾木茲海峽不會徵收通行費。無論是“通行費”還是“服務費”，在霍爾木茲海峽都不會收取。巴基斯坦成功在47年來首次將美國和伊朗拉到一起（進行對話）。巴基斯坦與合作伙伴和盟友共同努力，確保了調解工作的成功。美國與伊朗之間的戰爭是毀滅性的，對經濟產生了負面影響。目前有三個技術團隊參與美伊談判。技術委員會正在討論核問題、被凍結資金以及黎巴嫩局勢。此外，達爾還表示已向沙特、埃及和土耳其的外長通報了諒解備忘錄。"
-    },
-    {
-      "id": "mkt:019eea0e-42b2-7dd8-b0a5-d5a2f9226d41",
-      "time": "2026-06-21 20:01:03",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "【Pakistan foreign minister says Iran will not levy Strait of Hormuz transit fees within 60 days】Pakistan Foreign Minister Durrani, at a quadrilateral meeting in Egypt with Egypt, Turkey and Saudi Arabia, said Iran will not block vessels transiting the Strait of Hormuz nor levy transit or service fees during a 60-day window. He said Pakistan had brought the US and Iran into talks for the first time in 47 years and that three technical teams are engaged in US‑Iran negotiations, covering nuclear issues, frozen funds and the situation in Lebanon. Durrani said he has briefed the foreign ministers of Saudi Arabia, Egypt and Turkey on a memorandum of understanding."
     }
   ]
 }
