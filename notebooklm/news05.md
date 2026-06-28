@@ -1,7 +1,253 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-06-28 20:24:36_
-_本檔包含 3606 則快訊，約 669000 字_
+_更新時間：2026-06-28 21:13:06_
+_本檔包含 3576 則快訊，約 668464 字_
+
+---
+
+### 2026-06-23 05:48:47  #Trading Economics #Economy #South Korea #Consumer Confidence #Importance 1
+
+South Korea Consumer Sentiment Improves in June — South Korea’s Composite Consumer Sentiment Index rose by 0.5 point to 95.5 in June 2026 compared with the previous month. Consumer sentiment regarding current domestic economic conditions increased three points to 86, while expectations for future economic conditions slipped one point to 92. Sentiment on current living standards rose one point to 94, while the outlook for future living standards remained unchanged at 97. Expectations for future household income and spending were also unchanged at 100 and 110, respectively. Meanwhile, the expected inflation rate for the next year stood at 2.8%, while three-year and five-year inflation expectations were 2.7% and 2.6%, respectively.
+
+---
+
+### 2026-06-23 05:42:45  #Trading Economics #Economy #Argentina #Unemployment Rate #Importance 0
+
+Argentina Unemployment Rises in Q1 2026 — Argentina’s unemployment rate rose to 7.8% in the first quarter of 2026, up from 7.5% in the previous quarter. The number of unemployed reached 1.1 million people. By region, unemployment was highest in Greater Buenos Aires at 8.7%, followed by the Pampas region at 8.2%. The jobless rate stood at 8.3% for women and 7.5% for men. Among the unemployed, 28.2% were the main income providers in their households. By education level, 36% had completed secondary education, while 10.8% had tertiary or university studies. Regarding job-search duration, 31.8% had been looking for work for more than a year, while 78.7% had previous work experience. By sector, 16.8% had last worked in construction and 16.6% in commerce. Meanwhile, the employment rate edged down to 44.8% from 45%, while labor force participation remained stable at 48.6%.
+
+---
+
+### 2026-06-23 05:35:11  #公司
+
+據傳舒適剃鬚刀母公司已拒絕非邀約收購提案。
+
+---
+
+### 2026-06-23 05:32:58  #市場
+
+彭博股指：SpaceX將於2026年6月24日收盤時被納入彭博全球股指的大盤股板塊。
+
+---
+
+### 2026-06-23 05:32:46  #MKT News
+
+Bloomberg Indices says SpaceX will be added to the large-cap segment of the Bloomberg Global Index at the close of trading on June 24, 2026.
+
+---
+
+### 2026-06-23 05:32:02  #其他
+
+Bending Spoons 投資方擬透過 IPO 募資至多 16.2 億美元。
+
+---
+
+### 2026-06-23 05:29:33  #公司 #市場 #觀點 #國際
+
+【百度ADR盤後上漲，花旗對其開啟30天的看漲催化觀察】百度在美國上市的ADR盤後交易上漲1.5%，此前花旗對這家網際網路搜尋引擎巨頭開啟30天的看漲催化觀察。分析師Alicia Yap寫道，百度“晶片和雲業務的內在實力可能成為推動股價上漲的催化因素。”“雖然難以判斷整體市場情緒何時會發生轉變，但我們相信，一旦百度晶片業務分拆時間表及市場興趣變得明朗，仍存在釋放價值的機會。”花旗給予百度“買入”評級。該公司股價今年以來下跌逾14%。
+
+---
+
+### 2026-06-23 05:26:57  #國際
+
+市場訊息： 烏克蘭與日本將設立規模達數千萬美元的聯合基金， 相關細節將於週四在波蘭舉辦的烏克蘭重建大會上公佈。
+
+---
+
+### 2026-06-23 05:25:38  #國際
+
+市場訊息：烏克蘭與日本計劃依託日立、東芝設立重建基金。
+
+---
+
+### 2026-06-23 05:19:49  #Trading Economics #Markets #Colombia #Stock Market #Importance 1
+
+COLCAP Drops After Tight Election Result — The MSCI COLCAP index fell 4.4% to close at 2,393 on June 22, reversing part of its recent rally after one of the tightest presidential elections in Colombian history. Optimism following the victory of Abelardo de la Espriella faded as investors assessed the narrow margin of victory and the challenges it may pose for implementing market-friendly reforms. The right-wing outsider secured the presidency with a lead of roughly one percentage point over leftist Senator Iván Cepeda, disappointing investors who had hoped for a stronger mandate. De la Espriella has pledged to reduce Colombia’s widening budget deficit while supporting coal mining and oil drilling to strengthen fiscal revenues. Financial and energy stocks led losses, with Cibest down 5.3% and Ecopetrol plunging 8.5%.
+
+---
+
+### 2026-06-23 05:15:44  #市場
+
+富時A50期指連續夜盤收跌0.01%，報16003點。
+
+---
+
+### 2026-06-23 05:11:39  #市場
+
+週一（6月22日）紐約尾盤（週二北京時間04:59），離岸人民幣（CNH）兌美元報6.7781元，較上週五紐約尾盤漲57點，日內整體交投於6.7863-6.7730元區間。
+
+---
+
+### 2026-06-23 05:10:49  #國際
+
+阿曼外交大臣：阿曼與伊朗談判代表共同重申恪守國際法，承諾保障霍爾木茲海峽航道安全、通行免收通行費。
+
+---
+
+### 2026-06-23 05:10:43  #MKT News #Macro & Rates #The Fed (FOMC) #S&P500 #Impact bullish #DXY #Impact bearish #US10Y #Impact mixed
+
+Federal Reserve's Goolsbee said Fed Chair Warsh's approach to reduce speculation about interest rates and pare back forward guidance is one he largely supports.
+
+---
+
+### 2026-06-23 05:10:12  #MKT News
+
+Oman's foreign minister said the country reiterated its commitment to international law and to safe, fee-free passage.
+
+---
+
+### 2026-06-23 05:09:38  #公司 #國際
+
+【美國FAA選用Air Space Intelligence打造AI空管工具】Air Space Intelligence公司贏得美國政府合同，將提供用於管理航班交通的人工智慧技術。該公司為美國聯邦航空局（FAA）開發了兩款AI工具：一款用於規劃飛行軌跡，另一款用於識別擁堵區域併為空中交通管制員提供解決方案。美國政府表示，新系統將減少航班延誤、改善交通流量並增加空域容量，預計整個過渡工作將於2028年底前完成。
+
+---
+
+### 2026-06-23 05:09:30  #MKT News
+
+Oman’s foreign minister said he hosted Iranian parliamentary speaker Ghalibaf and foreign minister Araghchi in Muscat tonight; they held constructive talks on the recent Iran‑US memorandum of understanding, with particular focus on the Strait of Hormuz.
+
+---
+
+### 2026-06-23 05:09:29  #央行 #國際
+
+美聯儲古爾斯比：在我看來，需要判斷本輪通脹是否具備持續性。 沃什的思路是減少市場對利率的猜測、弱化前瞻指引；我相當認同這一思路。
+
+---
+
+### 2026-06-23 05:08:41  #MKT News
+
+Fed's GOOLSBEE said he needs to assess whether the current inf will be persistent.
+
+---
+
+### 2026-06-23 05:07:58  #央行 #國際
+
+美聯儲古爾斯比：服務業通脹形勢略顯令人擔憂。
+
+---
+
+### 2026-06-23 05:07:35  #MKT News #Macro & Rates #The Fed (FOMC) #DXY #Impact bullish #US10Y #S&P500 #Impact bearish
+
+Fed's GOOLSBEE said more evidence is needed to show the current bout of inf is temporary; services‑sector inf is mildly concerning.
+
+---
+
+### 2026-06-23 05:07:17  #MKT News #Macro & Rates #The Fed (FOMC) #US Economy #S&P500 #Impact bullish #DXY #USDJPY
+
+Fed's Goolsbee said the US has not yet experienced a stagflation shock and the labor market has remained stable.
+
+---
+
+### 2026-06-23 05:06:57  #MKT News
+
+Romania's prime minister-designate failed to win parliamentary approval for the proposed cabinet.
+
+---
+
+### 2026-06-23 05:06:45  #其他
+
+【羅馬尼亞候任總理提交的內閣名單未獲議會透過】當地時間6月22日晚，羅馬尼亞參眾兩院聯席會議對候任總理阿德里安·韋什泰亞此前向議會提交的內閣成員名單和施政綱領進行投票。議會以189票贊成、23票反對否決了阿德里安·韋什泰亞的內閣成員名單。據悉，根據相關程式，羅馬尼亞總統達恩需再次提名新的總理人選。（央視新聞）
+
+---
+
+### 2026-06-23 05:06:42  #MKT News #DXY #Impact bullish #US10Y #Impact bearish #S&P500
+
+GOOLSBEE said markets remain stable; inf is well above target and the trend is unfavorable.
+
+---
+
+### 2026-06-23 05:06:36  #Trading Economics #Markets #Brazil #Stock Market #Importance 1
+
+Ibovespa Gains on US-Iran Peace Progress — The Ibovespa rose 1.2% to close at 170,370 on Monday as progress in peace talks between the US and Iran boosted market sentiment. US Vice President JD Vance and Iran’s Foreign Minister took part in negotiations in Switzerland, with mediators from Qatar and Pakistan reporting encouraging progress, including the establishment of a framework for future technical talks. Both sides agreed on a roadmap to reach a final agreement within 60 days. Oil prices declined, pushing bond yields lower and easing concerns over energy-driven inflation. Major banks led gains, with Itaú up 2.7% and Bradesco rising 1.8%. Utilities also advanced, with Axia up 2% and Sabesp gaining 3.5%. Petrobras rose 0.9% despite lower oil prices, supported by the payment of its latest interest on equity installment and the signing of a memorandum of understanding with Pemex. Retailers also contributed to gains, with Azzas surging 10.3% after presenting alternatives for Farm.
+
+---
+
+### 2026-06-23 05:06:31  #央行 #國際
+
+美聯儲古爾斯比： 我們尚未遭遇滯脹衝擊，就業市場保持穩定。
+
+---
+
+### 2026-06-23 05:06:03  #央行 #國際
+
+美聯儲古爾斯比： 通脹遠高於目標水平，且走勢趨於惡化。
+
+---
+
+### 2026-06-23 05:05:48  #其他
+
+Apollo私人信用基金將投資者贖回上限設在5%。
+
+---
+
+### 2026-06-23 05:05:45  #央行 #國際
+
+美聯儲古爾斯比： 不後悔投出反對票。
+
+---
+
+### 2026-06-23 05:05:15  #央行 #國際
+
+美聯儲古爾斯比：市場當前整體保持穩定。
+
+---
+
+### 2026-06-23 05:03:09  #其他
+
+市場訊息：據傳高通即將達成收購 AI 晶片初創企業 Modular 的交易。
+
+---
+
+### 2026-06-23 05:02:01  #市場
+
+【現貨黃金漲約0.9%，亞太早盤一度突破4220美元】週一（6月22日）紐約尾盤，現貨黃金漲0.87%，報4192.04美元/盎司，日內整體高位震盪、北京時間09:00漲至4220.72美元重新整理日高。COMEX黃金期貨跌0.87%，報4209.10美元/盎司，06:00低開至4151.40美元重新整理日低，08:00也開啟一波顯著的回升行情、逼近4240美元但日內整體沒能出現轉漲。現貨白銀漲0.35%，報65.1285美元/盎司，08:00出現一波顯著的拉昇行情、09:00重新整理日高至67.1472美元。COMEX白銀期貨漲0.21%，報65.700美元/盎司。COMEX銅期貨漲0.94%，報6.4340美元/磅。現貨鉑金漲0.89%，現貨鈀金漲0.52%。
+
+---
+
+### 2026-06-23 05:00:55  #央行 #國際
+
+韓國央行：韓國 6 月消費者 12 個月通脹預期中值為 2.8%，5 月同樣為 2.8%。
+
+---
+
+### 2026-06-23 05:00:10  #MKT News #Market Regions #Japan & APAC
+
+South Korea June consumer confidence index 106.6, versus 106.1 previously.
+
+---
+
+### 2026-06-23 05:00:09  #資料 #國際
+
+韓國6月消費者信心指數 106.6，前值106.1。
+
+---
+
+### 2026-06-23 05:00:00  #MKT News #Economic Calendar #Important
+
+South Korea | Consumer Confidence Index (Jun) | actual 106.6 | previous 106.1
+
+---
+
+### 2026-06-23 04:55:23  #國際
+
+【特斯拉致命車禍引發美國汽車安全監管機構調查】一起涉及特斯拉轎車的致命碰撞事故正接受聯邦調查，此前一輛電動汽車在德克薩斯州衝進一棟住宅，導致屋內一名女子身亡。美國國家公路交通安全管理局(NHTSA)週一表示，已對6月19日發生的這起事故展開特別撞車事故調查。該機構在電子郵件宣告中確認調查，但未提供更多細節。週五晚間，一輛特斯拉Model 3在休斯敦附近衝進一棟磚房。事故被前門攝像頭拍下後引發廣泛關注。Harris County警長辦公室在宣告中表示，司機告訴當局，車輛駛離道路並高速碰撞時，他正在使用自動駕駛輔助系統。
+
+---
+
+### 2026-06-23 04:49:32  #MKT News
+
+Iran's central bank governor said remaining frozen funds will not necessarily be restricted to basic goods and that Iran will be able to purchase other non-sanctioned goods.
+
+---
+
+### 2026-06-23 04:49:04  #央行 #國際
+
+塔斯尼姆通訊社訊息：伊朗央行行長稱，剩餘被凍結資金未必只能用於採購民生必需品，伊朗可動用該資金購置其他不受制裁限制的商品。
+
+---
+
+### 2026-06-23 04:48:52  #MKT News #WTI #Impact bearish #DXY #S&P500 #Impact bullish
+
+【Trump says Iran will accept large-scale weapons inspections】President Trump said on social media on June 22 that all parties understand Iran will agree to large-scale weapons inspections to ensure its long-term nuclear integrity. Earlier the same day US and Iranian delegations concluded a first round of talks at Bürgenstock, Switzerland. Vice President Vance said at a press briefing the talks made substantial progress, laying a strong foundation for a final deal, and that Iran had agreed to invite IAEA inspectors back. Iran's state news agency IRNA quoted Foreign Ministry spokesman BAGHAEI saying Iran's cooperation with the IAEA will continue under existing mechanisms and in accordance with Iranian parliamentary law and decisions of the Supreme National Security Council.
 
 ---
 
@@ -21306,431 +21552,5 @@ Al Arabiya reported Iran's negotiating team entered the meeting room after journ
 ### 2026-06-21 21:13:44  #國際
 
 卡達總理讚揚美伊代表團為中東和平作出的努力。
-
----
-
-### 2026-06-21 21:11:16  #國際
-
-【萬斯說美伊談判“過去幾個小時取得巨大進展”】美國副總統萬斯21日在瑞士比爾根山說，美伊談判“過去幾個小時取得巨大進展”，預計“我們將在相關領域取得更多進展”。萬斯在美伊談判開始時說，過去幾天，“我們在確保黎巴嫩停火方面取得了巨大進展”。現在面臨的問題是，“我們能否翻開新的一頁，我們能否永久改變中東的關係格局”。（新華社）
-
----
-
-### 2026-06-21 21:10:12  #MKT News #Important #WTI #Impact bearish #Brent #DXY
-
-【Vance says US and Iran can work together to promote peace and prosperity】U.S. Vice President Vance, at talks in Switzerland, said negotiations with Iran have made "significant" progress in recent hours and more gains are expected within hours. He said both sides now see "a shared future"; President Trump has urged a "new page" in relations with the Iranian people and has authorized pursuit of diplomatic solutions on a range of issues, though Vance questioned whether this can permanently reshape the Middle East balance. Saudi media reported Vance announced the Strait of Hormuz has been opened and that further steps are expected. Vance said substantial progress has been made toward a Lebanese ceasefire in recent days, while warning such pauses are often "messy"; Trump remains committed to a comprehensive regional ceasefire.
-
----
-
-### 2026-06-21 21:09:56  #焦點 #國際
-
-特朗普在接受採訪時稱，美國可以充當霍爾木茲海峽的 “守護天使”，並抽取 20% 的石油收益。他表示：“如有必要，我們將掌控該海峽”，還會 “狠狠打擊他們”，同時放出狠話：“倘若雙方無法達成協議，我們就將收取通行費。”
-
----
-
-### 2026-06-21 21:07:50  #其他
-
-據燈塔專業版資料，截至6月21日21時，《玩具總動員5》端午檔票房1.21億，成為2026年端午檔票房冠軍。
-
----
-
-### 2026-06-21 21:06:19  #MKT News #WTI #Impact bullish #Brent #XAUUSD
-
-【Trump warns Iran not to close Strait of Hormuz, threatens military action】Fox News reported Trump told Iranian officials in a phone call last night not to close the Strait of Hormuz, warning "if you close it, you will no longer be a country." He said the US could act as the strait's "guardian" and "take" 20% of Iran's oil, suggested the US might seize control of the waterway if necessary, warned he would "blow them to pieces," and said the US could impose transit fees if no agreement is reached.
-
----
-
-### 2026-06-21 21:05:53  #其他
-
-巴基斯坦總理：希望美伊會談能達成一份 “意義重大的協議檔案”，以此推動 “全球和平、發展與繁榮”。
-
----
-
-### 2026-06-21 21:05:11  #國際
-
-特朗普總統夜間與伊朗方面通話，警告對方不得封鎖海峽。特朗普稱他對伊朗官員表示：“只要你們封鎖海峽，你們的國家就不復存在。你們根本別想活著回到自己國家。”
-
----
-
-### 2026-06-21 21:03:36  #MKT News
-
-Qatar's prime minister said he had seen dedication and significant efforts from Fansi, Pakistan's prime minister and Iran's foreign minister.
-
----
-
-### 2026-06-21 21:03:30  #國際
-
-卡達總理：我們看到了來自範斯、巴基斯坦總理和伊朗外長的奉獻和巨大努力。
-
----
-
-### 2026-06-21 21:02:49  #MKT News #Important
-
-【US, Iran, Pakistan and Qatar begin four-party talks in Switzerland】Delegations from Iran, the United States, Pakistan and Qatar began four-party talks in Switzerland on June 21.
-
----
-
-### 2026-06-21 21:01:53  #國際
-
-【美伊巴卡四方會談開始】伊朗法爾斯通訊社今天（6月21日）報道，伊朗、美國、巴基斯坦和卡達代表團的四方會談在瑞士開始。（CCTV國際時訊）
-
----
-
-### 2026-06-21 21:01:30  #其他
-
-據燈塔專業版資料，截至6月21日21時，2026年端午檔票房3.94億，《玩具總動員5》成為2026端午檔（6.19-6.21）票房冠軍。2026年端午檔票房TOP5影片為《玩具總動員5》《給阿嬤的情書》《抓特務》《火遮眼》《我看見兩朵一樣的雲》。
-
----
-
-### 2026-06-21 21:01:26  #MKT News
-
-【Colombia holds presidential runoff vote】On June 21 Colombia is holding a presidential runoff between independent Avelardo de la Espriella of the far‑right Homeland Defenders grouping and Ivan Cepeda of the left‑wing Historic Pact coalition to choose the president for 2026–2030. Polls opened at 08:00 and close at 16:00 local time; counting begins immediately after and preliminary results are expected tonight. No candidate won a majority in the May 31 first round; under current rules the candidate with the most votes in the runoff will be elected.
-
----
-
-### 2026-06-21 21:01:21  #國際
-
-【萬斯稱特朗普致力於區域全面停火】美國副總統萬斯今天（6月21日）表示，美國總統特朗普致力於區域全面停火，希望改善與伊朗人的關係。他還說，過去數小時在相關問題上取得重大進展，希望能夠透過外交手段合作以改變中東。（CCTV國際時訊）
-
----
-
-### 2026-06-21 21:00:40  #MKT News
-
-U.S. Vice President Vance said more work remains and he looks forward to working together.
-
----
-
-### 2026-06-21 21:00:37  #MKT News
-
-Vice President Vance said today leaders are attending primarily to establish a framework for technical negotiations and to ensure their teams have full backing and can seek help to overcome any obstacles.
-
----
-
-### 2026-06-21 21:00:17  #其他
-
-【哥倫比亞舉行總統選舉第二輪投票】當地時間6月21日，哥倫比亞舉行總統選舉第二輪投票，選民將從極右翼政治團體“祖國捍衛者”的獨立候選人阿韋拉多·德拉埃斯普列亞和左翼執政聯盟“哥倫比亞歷史公約聯盟”候選人伊萬·塞佩達中選出新一任總統，任期為2026年至2030年。當天上午8時，第二輪投票正式開始。投票將於當日16時結束，隨後進入計票階段，初步計票結果預計於當晚公佈。（央視新聞）
-
----
-
-### 2026-06-21 21:00:01  #MKT News
-
-U.S. Vice President Vance said President Trump envisions the Middle East will be completely different in a decade.
-
----
-
-### 2026-06-21 20:59:36  #焦點 #國際
-
-【萬斯：美國願與伊朗實現關係 “根本性轉變”】美國副總統 J.D. 萬斯在這場事關重大、層級頗高的美伊高階別會談前發表的講話，他表示美國願意同伊朗實現雙邊關係的 “根本性轉變”。萬斯開篇稱：“伊美兩國領導層從未開展過如此高階別的會面。”他補充道：“總統囑託我們翻開全新一頁，重塑美國與伊朗民眾的關係，向伊朗人民伸出和解之手。我們想告訴伊朗方面：只要伊朗領導層不再主動製造地區動盪、長期放棄核武器研發訴求，美國就願意同伊朗實現雙邊關係的根本性轉變。這無疑是我們的目標。”“短短數小時內我們已經取得顯著進展，我預計接下來的幾小時內還將收穫更多成果。”
-
----
-
-### 2026-06-21 20:57:54  #公司
-
-【眾泰汽車：2026年第三次臨時股東會將審議董事罷免等議案】眾泰汽車公告稱，公司將於2026年6月29日召開2026年第三次臨時股東會。6月19日，股東厚土蘭德（截至提案提出日持股1.29億股，佔比2.55%）提議將罷免王伊安、鍾雨菲董事職務的議案提交審議，因許明哲已辭職，厚土蘭德撤回對其罷免議案。董事會同意將上述兩項罷免議案提交會議審議，會議還將審議全資三級子公司登出生產地址、與債權人達成債務和解等議案。
-
----
-
-### 2026-06-21 20:56:41  #MKT News
-
-U.S. Vice President Vance said technical talks may not resolve all differences, but they will, for the first time in history, enable us to sit together as a team.
-
----
-
-### 2026-06-21 20:56:35  #國際
-
-美國副總統萬斯：技術性談判或許無法解決所有分歧，但這將讓我們雙方團隊有史以來第一次能夠坐在一起共事。
-
----
-
-### 2026-06-21 20:56:18  #國際
-
-美國副總統萬斯：各方有意搭建框架，用以開展技術性磋商。
-
----
-
-### 2026-06-21 20:55:45  #其他
-
-卡達總理：今天的會議只是實現目標的開始。
-
----
-
-### 2026-06-21 20:55:37  #公司
-
-利比亞國家石油公司稱原油產量達到144萬桶/日，為2013年以來最高水平。
-
----
-
-### 2026-06-21 20:55:36  #MKT News #Important #S&P500 #Impact bullish #DXY #Impact bearish #XAUUSD
-
-U.S. Vice President Vance said President Trump is committed to securing a comprehensive regional ceasefire.
-
----
-
-### 2026-06-21 20:55:34  #國際
-
-美國副總統萬斯：今天的會議意味著技術談判的開始。
-
----
-
-### 2026-06-21 20:55:24  #焦點 #國際
-
-美國副總統萬斯：特朗普承諾推動實現該地區全面停火。
-
----
-
-### 2026-06-21 20:55:06  #國際
-
-美國副總統萬斯：這類停火協議往往“有點混亂”。
-
----
-
-### 2026-06-21 20:54:41  #MKT News #Important #S&P500 #Impact bullish #WTI #Impact bearish #XAUUSD
-
-U.S. Vice President Vance said over the past few days the U.S. has made significant progress in securing a ceasefire in Lebanon.
-
----
-
-### 2026-06-21 20:54:37  #國際
-
-美國副總統萬斯：對於黎巴嫩問題目前的進展，我感到十分樂觀。
-
----
-
-### 2026-06-21 20:54:29  #MKT News
-
-Qatar's prime minister said today's meeting is only the beginning of achieving the objectives.
-
----
-
-### 2026-06-21 20:54:03  #MKT News #Important
-
-U.S. Vice President Vance expects further progress within hours.
-
----
-
-### 2026-06-21 20:53:50  #MKT News
-
-U.S. Vice President Vance said President Trump has asked us to "open a new chapter" to change our relationship with the Iranian people.
-
----
-
-### 2026-06-21 20:53:29  #國際
-
-美國副總統萬斯：如果伊朗放棄核武器，美國願意改變與伊朗的關係。
-
----
-
-### 2026-06-21 20:53:17  #MKT News
-
-U.S. Vice President Vance said a shared future is now visible and parties can work together to advance peace and prosperity.
-
----
-
-### 2026-06-21 20:53:13  #國際
-
-美國副總統萬斯：如今我們看到，未來我們能夠攜手共進，合力推動和平與繁榮。
-
----
-
-### 2026-06-21 20:53:04  #MKT News
-
-U.S. Vice President Vance said Iran should abandon its nuclear ambitions.
-
----
-
-### 2026-06-21 20:52:58  #MKT News
-
-US Vice President Vance said he witnessed a historic meeting between the US and Iran.
-
----
-
-### 2026-06-21 20:52:50  #MKT News
-
-US Vice President Vance said significant progress had been made in the past few hours.
-
----
-
-### 2026-06-21 20:52:46  #焦點 #國際
-
-美國副總統萬斯：預計數小時內將取得更多進展。
-
----
-
-### 2026-06-21 20:52:34  #焦點 #國際
-
-美國副總統萬斯：我們已開放霍爾木茲海峽，期待進一步舉措。
-
----
-
-### 2026-06-21 20:52:32  #MKT News #WTI #Impact bullish #XAUUSD
-
-U.S. Vice President Vance said Iran has long been a driver of regional instability.
-
----
-
-### 2026-06-21 20:52:31  #MKT News
-
-U.S. Vice President Vance said the U.S. is working to transform the situation in the Middle East through diplomatic cooperation.
-
----
-
-### 2026-06-21 20:52:21  #MKT News #Important #WTI #Impact bullish #Brent #DXY
-
-US Vice President Vance said the United States has opened the Strait of Hormuz and expects further measures.
-
----
-
-### 2026-06-21 20:52:11  #國際
-
-美國副總統萬斯：過去幾個小時取得了很大進展。
-
----
-
-### 2026-06-21 20:52:00  #國際
-
-美國副總統萬斯：特朗普要求我們翻開全新一頁。
-
----
-
-### 2026-06-21 20:51:53  #國際
-
-美國副總統萬斯：伊朗一直是地區不穩定的推手。
-
----
-
-### 2026-06-21 20:51:30  #國際
-
-美國副總統萬斯：我們正試圖透過外交手段共同努力，實現中東局勢的轉變。
-
----
-
-### 2026-06-21 20:51:00  #MKT News
-
-U.S. Vice President Vance said the key is whether the United States can permanently alter relations in the Middle East.
-
----
-
-### 2026-06-21 20:50:52  #MKT News
-
-U.S. Vice President Vance said Trump authorized them to seek diplomatic solutions on a range of issues.
-
----
-
-### 2026-06-21 20:50:33  #國際
-
-美國副總統萬斯： 我們並不希望重回以往的行事方式 。
-
----
-
-### 2026-06-21 20:50:21  #國際
-
-美國副總統萬斯：特朗普授權我們就一系列問題尋求外交解決方案。
-
----
-
-### 2026-06-21 20:49:53  #其他
-
-巴基斯坦總理：我相信我們將進行卓有成效的討論，結果會非常好。
-
----
-
-### 2026-06-21 20:49:45  #國際
-
-萬斯：關鍵問題在於我們在中東還能取得多少進展。
-
----
-
-### 2026-06-21 20:48:52  #MKT News
-
-Pakistan's prime minister said he expects productive talks and very positive outcomes.
-
----
-
-### 2026-06-21 20:48:44  #其他
-
-巴基斯坦總理表示，這是一個偉大的日子，將促進地區的和平與繁榮。
-
----
-
-### 2026-06-21 20:48:36  #MKT News
-
-Saudi outlet Hadas reports Pakistan's prime minister said the day will promote regional peace and prosperity.
-
----
-
-### 2026-06-21 20:48:12  #國際
-
-美國國家安全域性局長：在美國國家安全域性一次授權紅藍對抗測試中，Anthropic 旗下人工智慧模型Mythos在數小時內便獲取了幾乎全部涉密系統的訪問許可權。
-
----
-
-### 2026-06-21 20:45:42  #MKT News #Important
-
-【US, Iran Begin Talks in Switzerland】US and Iranian delegations have arrived and begun negotiations in Switzerland.
-
----
-
-### 2026-06-21 20:44:50  #焦點 #國際
-
-【美伊在瑞士開始談判】新華社記者21日在瑞士比爾根山現場看到，美國和伊朗代表團已抵達會場開始談判。 （新華社）
-
----
-
-### 2026-06-21 20:40:04  #其他 #焦點
-
-美伊談判現場即將召開新聞釋出會。
-
----
-
-### 2026-06-21 20:40:01  #MKT News #Important
-
-Al-Arabiya reports a press conference is scheduled shortly at the U.S.-Iran talks venue.
-
----
-
-### 2026-06-21 20:38:07  #國際
-
-加沙急救中心的一名訊息人士表示，以色列政權對加沙地帶南部汗尤尼斯市西部進行了空襲，2人遇難，若干人受傷。
-
----
-
-### 2026-06-21 20:38:04  #國際
-
-法航將往返以色列的航班取消期限延長至 6 月 30 日。
-
----
-
-### 2026-06-21 20:36:04  #國際
-
-埃及與阿聯酋企業簽署合作協議，將投資逾30億美元開發新開羅城市專案。
-
----
-
-### 2026-06-21 20:35:32  #市場
-
-市場訊息：幾內亞總統下令禁止黃金原礦出口。
-
----
-
-### 2026-06-21 20:31:24  #公司
-
-【眾泰汽車：董事許明哲先生因個人工作調整辭職】眾泰汽車公告，公司董事會於2026年6月20日收到董事許明哲先生的書面辭職報告。許明哲先生因個人工作調整，申請辭去公司第九屆董事會董事等相關職務，辭職後將不在公司擔任任何職務。根據相關規定，許明哲先生的辭職不會導致公司董事會成員低於法定最低人數，不會影響公司董事會的正常執行，亦不會對公司的日常經營產生不利影響，辭職報告自送達董事會之日起生效。
-
----
-
-### 2026-06-21 20:26:01  #MKT News
-
-【CITIC Securities says China's nano‑zirconia set for rapid growth】CITIC Securities research says demand for high‑end zirconia in China should rise as solid‑state battery supply chains accelerate, SOFCs expand rapidly, electronic‑grade bioceramics grow and nuclear power enters a recovery cycle. Yttria (yttrium oxide), the key stabilizer for zirconia, faces constrained rare‑earth supply after output from Japanese suppliers including Tosoh and First Rare Element Chemical fell sharply, supporting expectations that Chinese producers will gain significant share of the global high‑end zirconia market. Zirconium oxychloride feedstock prices are up about 30% since the start of the year and downstream zirconia prices have risen roughly 30% YTD. Electronic‑grade high‑purity nano‑zirconia is quoted at $50–65.7/kg and yttria‑stabilized zirconia (YSZ) high‑end powders at $50–150/kg. Domestic high‑end zirconia market is seeing simultaneous volume and price increases.
-
----
-
-### 2026-06-21 20:25:20  #焦點 #國際
-
-巴基斯坦外交部長：伊朗濃縮鈾含量將從60%降至0.7%。
-
----
-
-### 2026-06-21 20:25:07  #國際
-
-巴基斯坦、美國和伊朗就降低濃縮鈾水平達成一致。
 
 ---
