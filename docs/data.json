@@ -1,7 +1,16 @@
 {
-  "updated": "2026-06-29 01:46:32",
-  "count": 17989,
+  "updated": "2026-06-29 01:50:35",
+  "count": 17986,
   "items": [
+    {
+      "id": "4959092",
+      "time": "2026-06-29 01:49:22",
+      "tags": [
+        "其他",
+        "焦點"
+      ],
+      "text": "【四川高縣發生5.5級地震 消防救援力量已趕赴震中】6月29日0時12分，四川省宜賓市高縣發生5.5級地震，震源深度6公里。總檯記者從四川省消防救援總隊瞭解到，地震發生後，四川省消防救援總隊已啟動應急響應，調派宜賓支隊赴震中偵察災情。截至29日1時，首批救援力量已抵達震中沙河鎮，暫無房屋倒塌、人員被困情況報告。（央視新聞）"
+    },
     {
       "id": "4959091",
       "time": "2026-06-29 01:45:23",
@@ -164567,41 +164576,6 @@
         "DXY"
       ],
       "text": "Lebanese broadcaster Al-Mayadeen reported Iran's delegation will not return to negotiations unless Trump apologizes for his threats and Israel withdraws troops from southern Lebanon."
-    },
-    {
-      "id": "4946603",
-      "time": "2026-06-22 01:49:35",
-      "tags": [
-        "其他"
-      ],
-      "text": "卡達首相稱此次美伊談判是地區穩定的“轉折點”。"
-    },
-    {
-      "id": "4946602",
-      "time": "2026-06-22 01:49:17",
-      "tags": [
-        "國際"
-      ],
-      "text": "【德國政府擬推動養老金改革 引入市場投資並逐步延遲退休年齡】知情人士透露，德國總理默茨領導的執政聯盟正準備支援一項全面改革德國養老金制度的提案，其中包括引入市場儲蓄機制、收緊提前退休規則，以及逐步提高退休年齡。這些建議由政府任命的委員會起草，將於週二提交。方案建議逐步引入相當於總工資2%的補充養老金繳費，這部分資金將透過一個公共基金工具進行管理，並投資於資本市場。委員會還建議根據預期壽命的增長逐步提高退休年齡。此外，該建議還將取消一項廣受歡迎的提前退休通道，該通道允許繳費滿45年的勞動者提前退休。養老金改革是這屆執政已13個月的聯合政府中最具分歧的議題之一，持續考驗默茨所在保守派與克林拜爾領導的社會民主黨之間長期存在的政策分歧。"
-    },
-    {
-      "id": "mkt:019eeb4d-0e07-7dd8-b0a8-75e89260c5cb",
-      "time": "2026-06-22 01:49:16",
-      "tags": [
-        "MKT News",
-        "DAX",
-        "Impact mixed",
-        "EURUSD"
-      ],
-      "text": "【Germany to push pension reform: 2% of payroll into public market fund, retirement age to rise】A government-appointed committee will submit on Tuesday a draft pension overhaul backed by Chancellor Merz’s coalition that would introduce market-based savings, tighten early-retirement rules and phase up the retirement age in line with rising life expectancy. The proposal calls for phased supplementary contributions equal to 2% of total wages to be managed via a public fund vehicle and invested in capital markets. It would also remove an early-retirement route that allowed workers with 45 years’ contributions to retire early. The reform is one of the most divisive issues in the 13-month-old coalition and may face implementation risks amid Conservative–Social Democrat disagreement."
-    },
-    {
-      "id": "mkt:019eeb4a-99e8-7dd8-b0a8-6e9c110d8db8",
-      "time": "2026-06-22 01:46:35",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Refinitiv, citing Iranian sources, reports Iran-US talks in Switzerland have been paused but not ended."
     }
   ]
 }
