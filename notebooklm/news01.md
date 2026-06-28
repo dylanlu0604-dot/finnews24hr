@@ -1,7 +1,67 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-06-28 23:40:25_
-_本檔包含 3474 則快訊，約 667966 字_
+_更新時間：2026-06-29 00:07:59_
+_本檔包含 3476 則快訊，約 667006 字_
+
+---
+
+### 2026-06-29 00:06:50  #MKT News
+
+【Australia's Firmus to partner with NVIDIA on Indonesian data center】Australia AI infrastructure firm Firmus Technologies Pty Ltd will partner with NVIDIA to build its first data center in Indonesia. A revenue-share and credit-support agreement allows Firmus to procure NVIDIA infrastructure for customers and covers up to 170,000 NVIDIA AI accelerator chips in 2027-28; the deal could generate up to $30bn of offtake (committed purchase) revenue over the project's first six years.
+
+---
+
+### 2026-06-29 00:05:40  #其他
+
+伊拉克在反腐行動中拘留的官員包括負責分銷事務的副石油部長。
+
+---
+
+### 2026-06-28 23:58:32  #其他
+
+沙特王儲與法國總統表態支援旨在緩和緊張局勢的外交行動。
+
+---
+
+### 2026-06-28 23:58:26  #其他
+
+沙特王儲與法國總統強調保障航行自由的重要性。
+
+---
+
+### 2026-06-28 23:58:16  #其他
+
+沙特王儲與法國總統探討推動實現地區安全的綜合性解決途徑。
+
+---
+
+### 2026-06-28 23:58:08  #其他
+
+沙特王儲同法國總統談及美伊諒解備忘錄最新動態。
+
+---
+
+### 2026-06-28 23:50:59  #其他
+
+沙特王儲同法國總統會晤，共同探討為實現地區安全尋求全面解決方案的相關舉措。
+
+---
+
+### 2026-06-28 23:48:55  #MKT News #WTI #Impact bullish #Brent #XAUUSD
+
+【Iran urges US to set timetable for Israel's unconditional withdrawal from occupied Lebanese territory】Iran on Sunday urged the United States to set a timetable to push Israel to unconditionally withdraw from occupied Lebanese territory under a memorandum-of-understanding framework to end the conflict, Iranian Foreign Ministry spokesman Baghaei said. He said ending Israel’s military actions and withdrawal from all occupied Lebanese territory is a necessary condition for a final, sustainable agreement and regional stability, and Tehran is calling for a prompt determination of such a withdrawal timetable.
+
+---
+
+### 2026-06-28 23:44:02  #國際
+
+科技記者馬克·古爾曼：結合往年規律來看，蘋果iPhone 18 Pro以及iPhone Ultra最有可能的釋出日期為9月8日週二或9月9日週三。但9月7日是美國勞工節，考慮到需要留出一天緩衝出行，蘋果或許會傾向選擇9月9日召開釋出會。
+
+---
+
+### 2026-06-28 23:41:37  #國際
+
+巴基斯坦外交部：巴外長與沙特外長通電話，雙方對地區局勢發展深表關切。
 
 ---
 
@@ -20981,53 +21041,5 @@ Japan 10-Year Yield Edges Lower — Japan's 10-year government bond yield slippe
 ### 2026-06-26 12:11:43  #MKT News #Market Themes #China EV Leaders #XPEV.O #Impact bullish
 
 【He Xiaopeng says autonomous driving can legally enter global markets by year-end】On June 26, He Xiaopeng said Xpeng’s second‑generation VLA is headed for global rollout. He noted WP.29’s approval of DCAS UNR 171 series 02 will enter into force six months after approval and become an EU mandatory regulation, clearing the way for legal deployment of autonomous driving in the EU and other markets from end‑2026. He said Xpeng plans overseas rollouts of VLA and VLM in 2027, including mixed Chinese/local‑language in‑car voice control. Xpeng took an active role in the WP.29 ADS working group to advance the first global autonomous‑driving regulation.
-
----
-
-### 2026-06-26 12:11:34  #公司 #國際
-
-【日本東海第二核電站處於停運狀態】日本原子力發電公司當地時間26日表示，東海第二核電站目前處於停運狀態。據日本氣象廳訊息，26日12時46分左右，日本千葉縣東北部發生5.8級地震。截至目前，尚未確認此次地震導致核電站出現任何異常。此外，用於監測核電站周邊輻射水平的監測站測得的輻射劑量數值也沒有發生變化。
-
----
-
-### 2026-06-26 12:11:20  #市場 #國際
-
-【泰銖或將跌至一年多來的最低點】美元/泰銖上漲0.1%至33.4270，有望創下自2025年5月12日以來的最高收盤價。泰國SET指數下跌1%至1543.64，有望終結兩連漲的勢頭。
-
----
-
-### 2026-06-26 12:10:58  #其他
-
-【Omdia：全球小遊戲市場規模有望於2030年增長至200億美元】Omdia最新預測，全球小遊戲市場規模將在2026年達到100億美元，並有望於2030年增長至200億美元，實現翻倍增長。隨著中國以外市場不斷拓展，以及商業化模式日趨成熟，小遊戲正邁入新的發展階段。
-
----
-
-### 2026-06-26 12:10:32  #國際
-
-【何小鵬：今年底自動駕駛可合法進入全球】6月26日，何小鵬發文表示，小鵬第二代VLA走向全球進入確定模式。他提及WP.29批准的DCAS UNR 171 series 02在六個月後將生效成為歐盟強制法規，這意味著從2026年底自動駕駛可以合法進入歐盟等全球市場。何小鵬還表示：“敬請期待2027年在海外的小鵬汽車的VLA和VLM的入場和體驗（例如海外可以用中文和當地語言混合和愛車對話和控車）。”此前，小鵬汽車深度參與了聯合國世界車輛法規協調論壇（WP.29）自動駕駛系統（ADS）工作組會議，推動全球首個自動駕駛技術法規落地。（第一財經）
-
----
-
-### 2026-06-26 12:10:24  #公司 #觀點
-
-花旗集團研究部門將聯想集團目標價從20.00港元上調至31.00港元。
-
----
-
-### 2026-06-26 12:09:59  #國際
-
-【國際刑事法院3名女法官起訴特朗普政府 】國際刑事法院3名女法官24日在美國紐約聯邦法院起訴美國總統特朗普及其政府，指控此前對她們實施的制裁措施非法。來自加拿大、烏干達和貝南的3名女法官在起訴書中表示，美國對她們實施的制裁旨在懲罰和脅迫國際刑事法院法官。據媒體報道，一名白宮官員稱，這些制裁是特朗普依據美國《國際緊急經濟權力法》合法行使權力。但這3名法官指出，制裁超出了《國際緊急經濟權力法》的授權範圍，不僅違法，而且並非基於真正的國家緊急狀態或特殊威脅。
-
----
-
-### 2026-06-26 12:08:57  #Trading Economics #Economy #United States #Government Bond 10Y #Importance 1
-
-US 10-Year Yield Holds Decline — The yield on the 10-year US Treasury note remained around 4.37% on Friday, hovering near seven-week lows as a benign inflation report reduced expectations for multiple Federal Reserve rate hikes this year. The latest US PCE inflation data came in broadly in line with forecasts, and although inflation remains well above the Fed's 2% target, the report eased concerns about a sharper-than-expected acceleration in price pressures. Even so, markets are pricing in an 80% chance of a Fed rate hike in December following last week's hawkish pause, while the probability of a September increase stands at around 63%. New York Fed President John Williams also said on Thursday that inflationary pressures are expected to moderate this year but remain too high.
-
----
-
-### 2026-06-26 12:07:50  #MKT News #Market Regions #Greater China #Hang Seng Index #Impact bearish #02382.HK #09999.HK #Impact mixed
-
-【Hong Kong midday: HSI down 1.87%, Hang Seng Tech Index down 3.21%】Hong Kong stocks at the midday close: HSI fell 1.87% and the Hang Seng Tech Index dropped 3.21%. Storage, semiconductors, optical communications and lithium battery names led declines; pork and game-software sectors were among few gainers. Large-cap moves: Sunny Optical (02382.HK) down over 12%, Zhipu (02513.HK) down over 10%, SMIC (00981.HK) down over 6%, CATL (03750.HK) and Lenovo Group (00992.HK) down over 5%, BYD (01211.HK) and Alibaba (09988.HK) down over 4%, Baidu (09888.HK) down over 3%; NetEase-S (09999.HK) up over 1%. Newly listed stocks: 02272.HK up 195%, 01956.HK up 87%, 09630.HK up 76%.
 
 ---

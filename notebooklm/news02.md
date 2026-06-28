@@ -1,7 +1,55 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-06-28 23:40:25_
-_本檔包含 3658 則快訊，約 666981 字_
+_更新時間：2026-06-29 00:07:59_
+_本檔包含 3660 則快訊，約 667497 字_
+
+---
+
+### 2026-06-26 12:11:34  #公司 #國際
+
+【日本東海第二核電站處於停運狀態】日本原子力發電公司當地時間26日表示，東海第二核電站目前處於停運狀態。據日本氣象廳訊息，26日12時46分左右，日本千葉縣東北部發生5.8級地震。截至目前，尚未確認此次地震導致核電站出現任何異常。此外，用於監測核電站周邊輻射水平的監測站測得的輻射劑量數值也沒有發生變化。
+
+---
+
+### 2026-06-26 12:11:20  #市場 #國際
+
+【泰銖或將跌至一年多來的最低點】美元/泰銖上漲0.1%至33.4270，有望創下自2025年5月12日以來的最高收盤價。泰國SET指數下跌1%至1543.64，有望終結兩連漲的勢頭。
+
+---
+
+### 2026-06-26 12:10:58  #其他
+
+【Omdia：全球小遊戲市場規模有望於2030年增長至200億美元】Omdia最新預測，全球小遊戲市場規模將在2026年達到100億美元，並有望於2030年增長至200億美元，實現翻倍增長。隨著中國以外市場不斷拓展，以及商業化模式日趨成熟，小遊戲正邁入新的發展階段。
+
+---
+
+### 2026-06-26 12:10:32  #國際
+
+【何小鵬：今年底自動駕駛可合法進入全球】6月26日，何小鵬發文表示，小鵬第二代VLA走向全球進入確定模式。他提及WP.29批准的DCAS UNR 171 series 02在六個月後將生效成為歐盟強制法規，這意味著從2026年底自動駕駛可以合法進入歐盟等全球市場。何小鵬還表示：“敬請期待2027年在海外的小鵬汽車的VLA和VLM的入場和體驗（例如海外可以用中文和當地語言混合和愛車對話和控車）。”此前，小鵬汽車深度參與了聯合國世界車輛法規協調論壇（WP.29）自動駕駛系統（ADS）工作組會議，推動全球首個自動駕駛技術法規落地。（第一財經）
+
+---
+
+### 2026-06-26 12:10:24  #公司 #觀點
+
+花旗集團研究部門將聯想集團目標價從20.00港元上調至31.00港元。
+
+---
+
+### 2026-06-26 12:09:59  #國際
+
+【國際刑事法院3名女法官起訴特朗普政府 】國際刑事法院3名女法官24日在美國紐約聯邦法院起訴美國總統特朗普及其政府，指控此前對她們實施的制裁措施非法。來自加拿大、烏干達和貝南的3名女法官在起訴書中表示，美國對她們實施的制裁旨在懲罰和脅迫國際刑事法院法官。據媒體報道，一名白宮官員稱，這些制裁是特朗普依據美國《國際緊急經濟權力法》合法行使權力。但這3名法官指出，制裁超出了《國際緊急經濟權力法》的授權範圍，不僅違法，而且並非基於真正的國家緊急狀態或特殊威脅。
+
+---
+
+### 2026-06-26 12:08:57  #Trading Economics #Economy #United States #Government Bond 10Y #Importance 1
+
+US 10-Year Yield Holds Decline — The yield on the 10-year US Treasury note remained around 4.37% on Friday, hovering near seven-week lows as a benign inflation report reduced expectations for multiple Federal Reserve rate hikes this year. The latest US PCE inflation data came in broadly in line with forecasts, and although inflation remains well above the Fed's 2% target, the report eased concerns about a sharper-than-expected acceleration in price pressures. Even so, markets are pricing in an 80% chance of a Fed rate hike in December following last week's hawkish pause, while the probability of a September increase stands at around 63%. New York Fed President John Williams also said on Thursday that inflationary pressures are expected to moderate this year but remain too high.
+
+---
+
+### 2026-06-26 12:07:50  #MKT News #Market Regions #Greater China #Hang Seng Index #Impact bearish #02382.HK #09999.HK #Impact mixed
+
+【Hong Kong midday: HSI down 1.87%, Hang Seng Tech Index down 3.21%】Hong Kong stocks at the midday close: HSI fell 1.87% and the Hang Seng Tech Index dropped 3.21%. Storage, semiconductors, optical communications and lithium battery names led declines; pork and game-software sectors were among few gainers. Large-cap moves: Sunny Optical (02382.HK) down over 12%, Zhipu (02513.HK) down over 10%, SMIC (00981.HK) down over 6%, CATL (03750.HK) and Lenovo Group (00992.HK) down over 5%, BYD (01211.HK) and Alibaba (09988.HK) down over 4%, Baidu (09888.HK) down over 3%; NetEase-S (09999.HK) up over 1%. Newly listed stocks: 02272.HK up 195%, 01956.HK up 87%, 09630.HK up 76%.
 
 ---
 
@@ -22000,41 +22048,5 @@ The State Department’s deputy assistant secretary for foreign assistance said 
 ### 2026-06-25 10:54:37  #Trading Economics #Markets #China #Currency #Importance 1
 
 Offshore Yuan Holds Near 1-Month Low — The offshore yuan steadied around 6.81 per dollar on Thursday, hovering near a one-month low after the People’s Bank of China unveiled plans to introduce overnight reverse repo operations as part of its next phase of monetary policy reform. The central bank said it will conduct overnight reverse repurchase operations on June 29–30, providing fixed-rate overnight liquidity to better address short-term funding needs in the banking system. The new overnight reverse repo rate will complement the existing seven-day rate of 1.4%, bringing the PBOC’s policy toolkit closer in line with major global central banks such as the Federal Reserve. During the Lujiazui Forum, Governor Pan Gongsheng outlined the central bank’s plans to broaden overnight reverse repo operations. Externally, the yuan remained under pressure from a stronger US dollar amid growing market expectations of further Federal Reserve interest rate hikes later this year.
-
----
-
-### 2026-06-25 10:54:33  #宏觀
-
-【“美麗中國”全民行動5年計劃出臺 明確15條舉措】生態環境部今天（25日）舉行6月例行新聞釋出會，會上介紹，生態環境部、中央宣傳部、中央社會工作部等六部門聯合印發《美麗中國建設全民行動促進計劃（2026—2030年）》，目標是到2030年，美麗中國建設文化支撐更加堅實，公眾生態文明素養顯著提升，綠色低碳生活方式蔚然成風，美麗中國建設全民行動體系基本形成。《促進計劃》提出了15條具體舉措：在弘揚生態文化方面，提出依託博物館、展覽館、科教館等，增加生態文化展示與體驗等服務功能；推動生態文化融入旅遊發展，打造生態文化旅遊精品線路和特色產品。在促進公眾參與方面，深化環保設施向公眾開放，鼓勵有條件、有能力、有意願的行業企業應開盡開；統籌整合志願服務陣地資源，拓寬公眾參與渠道，培育管理規範、素質過硬的志願服務隊伍，打造“美麗中國，志願有我”等品牌專案。在引導生活方式綠色轉型方面，聚焦公眾吃、穿、住、行、用、遊等領域，探索建立積分兌換、商業折扣、公共服務兌換等多元激勵機制，激發全民踐行綠色低碳行為的內生動力等。
-
----
-
-### 2026-06-25 10:53:14  #國際
-
-美國負責對外援助事務的副國務卿盧因表示：美國將向委內瑞拉派遣搜救隊，並提供醫療和人道主義物資。
-
----
-
-### 2026-06-25 10:52:47  #市場
-
-【首日12倍股C臻寶獲槓桿資金搶籌】截至6月24日，市場融資餘額合計2.99萬億元，較前一交易日增加136.84億元，這已經是融資餘額連續7個交易日持續增加。具體到個股，6月24日共有1868只股獲融資淨買入，淨買入金額在1億元以上的有68只，其中3只融資淨買入額超5億元。C臻寶融資淨買入額居首，當日淨買入10.35億元，該股上市首日大漲1212.84%。立訊精密、雲南鍺業，融資淨買入金額分別為8.44億元、5.74億元，融資淨買入金額居前的還有通富微電、陽光電源、新易盛等。分行業統計，獲融資客淨買入超1億元個股中，電子、有色金屬、通訊等行業較為集中，分別有39只、6只、5只個股上榜。
-
----
-
-### 2026-06-25 10:51:46  #MKT News #Star Stocks #Alibaba #Meituan #JD.com #Xiaomi #09961.HK #Impact bearish #09988.HK #09888.HK
-
-Hong Kong internet stocks slid, led by Trip.com Group-S (09961.HK) down more than 9%; Alibaba (09988.HK) off about 5%; Baidu (09888.HK) and Xiaomi Group (01810.HK) down over 3%; JD.com (09618.HK) down nearly 3% and Meituan (03690.HK) down just over 2%.
-
----
-
-### 2026-06-25 10:50:46  #MKT News #Market Regions #Greater China
-
-【Guo Lanfeng: Income-distribution reform needed to boost consumption, better reflect labour value】June 25 — Guo Lanfeng, chair of the China Economic System Reform Research Association, said at the 2026 Summer Davos Forum that expanding consumption and domestic demand first requires consumers’ capacity to spend. Beyond high-quality employment, raising that capacity requires income-distribution reform because labour currently holds a disadvantaged share; ordinary workers account for most consumption, so reforms should progressively let labour’s value be more fully reflected in the economic cycle.
-
----
-
-### 2026-06-25 10:50:15  #其他
-
-【郭蘭峰：提升消費能力需要收入分配改革 更充分體現出勞動價值】6月25日，中國經濟體制改革研究會會長郭蘭峰在2026夏季達沃斯論壇上表示，擴大消費或者擴大國內需求，首先要有消費能力，除了高質量的就業，提升消費能力還需要收入分配改革。近年社會各界對收入分配改革的呼聲越來越強，因為勞動在收入分配中處於劣勢。大量的消費都在普通勞動者，所以收入分配製度改革，可能要逐步讓勞動價值在整體經濟迴圈中得到更充分體現。
 
 ---

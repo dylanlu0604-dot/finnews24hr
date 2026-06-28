@@ -1,7 +1,81 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-06-28 23:40:25_
-_本檔包含 3527 則快訊，約 667424 字_
+_更新時間：2026-06-29 00:07:59_
+_本檔包含 3519 則快訊，約 666214 字_
+
+---
+
+### 2026-06-23 07:06:04  #國際
+
+【烏克蘭可能重新調整對俄停火提議】烏克蘭一名高階官員週一表示，如果聯合國安理會未能透過一項敦促全面且無條件結束敵對行動的決議，烏克蘭可能會修改其向俄羅斯提出的、沿著實際前線停火的提議。烏克蘭駐聯合國代表Andrii Melnyk是在安理會一場歷時甚長的會議中發表上述談話。這是近幾個月來，為處理這場戰爭而召開的第六次相關會議。他表示，“烏克蘭已準備好與俄羅斯展開直接談判，根據《聯合國憲章》尋求公正且持久的和平，但我們的耐心並非無窮無盡。”他並指出，烏克蘭已多次敦促安理會透過一項要求全面且無條件停火的決議。“如果安理會繼續選擇觀望，我不排除烏克蘭可能重新調整並修改其提議。沿著實際前線停火本身已是重大的妥協，”他說。他未透露更多細節。
+
+---
+
+### 2026-06-23 07:05:37  #國際
+
+【民調顯示：不安感加重，三成受訪美國人隨身攜槍】美國民調機構McLaughlin &Associates日前面向1000名美國民眾展開調查，結果顯示近三成受訪者在日常生活中隨身攜帶槍支。隨著越來越多州放寬持槍管控政策，加之對公共空間的不信任感上升，民眾持槍比例或將持續攀升，美國多地儼然有重回 “狂野西部”這一無序狀態之勢。（環球網）
+
+---
+
+### 2026-06-23 07:04:24  #公司
+
+【個別產品年化收益率近140%，銀行理財指數化投資受青睞】當前銀行理財市場指數化投資熱度持續走高。資管服務平臺聯合智評資料顯示，今年以來，掛鉤人工智慧（AI）算力、儲存晶片、量子科技等熱門賽道的理財產品收益亮眼，超六成產品年化收益率在同類指數理財中位居前列，個別產品年化收益率逼近140%。受訪人士表示，在理財全面淨值化轉型背景下，指數化產品已成為理財公司突破收益瓶頸的重要路徑。（證券日報）
+
+---
+
+### 2026-06-23 07:04:08  #國際
+
+【伊朗說將按現行機制繼續與國際原子能機構合作】伊朗伊斯蘭共和國通訊社22日援引伊朗外交部發言人巴加埃的話報道，伊朗與國際原子能機構的合作與互動將按照現行機制繼續進行，並遵循伊朗議會相關法律以及最高國家安全委員會作出的決定。報道還援引訊息人士的話說，伊美在瑞士持續約18小時的談判過程中，伊朗方面未就核問題展開談判，也未作出任何新的相關承諾。
+
+---
+
+### 2026-06-23 07:03:48  #國際
+
+【法國過半省份釋出高溫紅色預警，馬克龍提醒民眾：我們正在經歷艱難時刻】截至22日，法國本土96個省份中已有49個釋出高溫紅色預警，另有超40個省份釋出高溫橙色預警，多地氣溫超過40攝氏度。受酷暑影響，法國多地學校停課、列車停運，大型文娛活動接連取消。綜合法國《世界報》《巴黎人報》等多家媒體報道，22日，法國波爾多、圖盧茲等主要城市的氣溫均突破40攝氏度，巴黎與里昂分別為38攝氏度與39攝氏度。法國總統馬克龍提醒民眾對高溫天氣“保持高度警惕”，敦促人們照顧好老人和弱勢群體、聽從政府建議，並稱“我們正在經歷艱難時刻”。
+
+---
+
+### 2026-06-23 07:03:48  #Trading Economics #Economy #Australia #Composite PMI #Importance 1
+
+Australia Composite PMI Rises in June — Australia’s composite PMI rose to 49.8 in June 2026 from a final 48.7 in the previous month, flash data showed. The latest result signaled a near-stabilisation of business activity following a slight contraction in May.
+
+---
+
+### 2026-06-23 07:03:11  #公司 #市場
+
+【小金屬鋯供需關係生變，A股相關個股受資金追捧】6月22日，小金屬鋯概念板塊熱度攀升，截至當日收盤，該板塊三祥新材股份有限公司、廣東東方鋯業股份有限公司等核心龍頭股價悉數漲停，其餘多隻股票漲幅超過5%。市場訊息顯示，受海外氧化鋯粉體龍頭供給收縮等因素影響，國內龍頭企業已跟進調價，東方鋯業自6月18日起上調氧氯化鋯、二氧化鋯等產品價格。6月22日，東方鋯業證券部相關人士表示，上述漲價內容屬實，本輪漲價主要受成本上漲與供需格局變化雙重驅動。（證券日報）
+
+---
+
+### 2026-06-23 07:02:35  #MKT News #Market Regions #Europe & UK
+
+UK grid operator says power supplies will be adequate this winter.
+
+---
+
+### 2026-06-23 07:01:39  #MKT News #Commodities #Energy #Brent #Impact mixed
+
+【Danske Bank: Sees Brent averaging $80/bbl for rest of 2026】Danske Bank forecasts Brent crude will average $80/bbl for the remainder of 2026 and rise to $85/bbl in 2027. The bank said a U.S.-Iran deal would reopen oil shipments through the Strait of Hormuz but warned Iran’s production and exports would take months to normalize, limiting immediate supply relief. Danske flagged ongoing U.S. Strategic Petroleum Reserve releases as a near-term supply factor and said Washington may maintain releases for political reasons ahead of November’s U.S. midterm elections.
+
+---
+
+### 2026-06-23 07:00:52  #資料
+
+澳大利亞6月標普全球綜合PMI初值 49.8，前值48.7。
+澳大利亞6月標普全球服務業PMI初值 49.9，前值48.7。
+澳大利亞6月標普全球製造業PMI初值 51.2，前值50.7。
+
+---
+
+### 2026-06-23 07:00:10  #MKT News #DXY #Impact bullish #XAUUSD #Impact bearish
+
+Australia June S&P Global services PMI (preliminary) 49.9, up from 48.7; remains below the 50 expansion threshold.
+
+---
+
+### 2026-06-23 07:00:06  #MKT News #AUDUSD #Impact bearish
+
+Australia June S&P Global Composite PMI preliminary 49.8; prior 48.7.
 
 ---
 
@@ -21187,125 +21261,5 @@ Iranian state TV quoted the head of the National Iranian Oil Company (NIOC) sayi
 ### 2026-06-22 00:08:01  #國際
 
 【萬斯稱特朗普要求與伊朗“翻開新篇章”】美國副總統萬斯週日（6月21日）在伊美會談前表示，特朗普已要求與伊朗“翻開新篇章”，以轉變美伊關係。
-
----
-
-### 2026-06-22 00:07:18  #MKT News #XAUUSD #Impact bullish #DXY #WTI
-
-【Hezbollah opposes Lebanon-US direct talks, says they will harm sovereignty and serve Israel】Al Jazeera reported Hezbollah opposes direct talks between the Lebanese government and the US, saying such negotiations would weaken Lebanon’s sovereignty and serve Israeli interests. The group said the Lebanese delegation in Washington was asked to sign US-proposed terms that “deprive Lebanese sovereignty” and align Lebanon with forces reconciled with Israel, calling the talks based on a “flawed” premise that would produce “surrender” rather than serve Lebanon’s interests. Hezbollah added that government participation hinders efforts to counter enemy plans and resistance on the ground, risks Lebanon’s stability and independence, and amounts to compliance with US and Israeli policy objectives.
-
----
-
-### 2026-06-22 00:05:37  #MKT News #Brent #Impact bullish #XAUUSD #DXY
-
-【Israeli chief of staff: military operations in Lebanon continue】The Israel Defense Forces said on the 21st Chief of Staff Zamir, speaking in southern Lebanon at a meeting with commanders, said military operations in Lebanon remain ongoing. Zamir said the IDF is fighting on multiple fronts and continuing strikes against Hezbollah; he added some units suffered "significant losses" with multiple soldiers and commanders killed. Israeli media reported on the 20th that the prime minister and defence minister instructed the IDF to call a cease-fire in Lebanon, but the army has not withdrawn from areas it controls in southern Lebanon. Prime Minister Netanyahu reiterated the IDF will remain in south Lebanon "as long as necessary."
-
----
-
-### 2026-06-22 00:05:28  #國際
-
-【以軍總參謀長：在黎巴嫩軍事行動仍在繼續】據以色列國防軍21日發表的宣告，以軍總參謀長扎米爾當天在黎巴嫩南部與以軍指揮官會面時稱，以軍在黎巴嫩的軍事行動仍在繼續。扎米爾稱，以軍“正在多線作戰”，持續打擊黎真主黨武裝組織。他還稱，以軍一些部隊遭受“重大損失”，有多名士兵和指揮官死亡。以色列媒體20日報道說，以總理和國防部長指示以軍在黎巴嫩停火，但以軍未撤出其在黎南部控制的地區。以總理內塔尼亞胡重申“只要有必要”，以軍會一直駐留在黎南部。（新華社）
-
----
-
-### 2026-06-22 00:01:58  #國際
-
-訊息人士：伊朗代表團將不在日內瓦與國際原子能機構總幹事舉行會談。美方原本希望國際原子能機構總幹事格羅西出席瑞士舉行的伊美談判，但伊朗拒絕了這一提議。
-
----
-
-### 2026-06-22 00:01:19  #國際
-
-伊朗方面稱，特朗普的威脅行為嚴重違反諒解備忘錄。
-
----
-
-### 2026-06-21 23:57:48  #其他
-
-迪士尼《玩具總動員5》北美首映票房達1.6億美元。
-
----
-
-### 2026-06-21 23:55:26  #MKT News #XAUUSD #Impact bullish #Brent
-
-Hezbollah leader said the group will respond to any act of aggression.
-
----
-
-### 2026-06-21 23:55:24  #其他
-
-真主黨領袖稱將對任何侵犯行為作出回應。
-
----
-
-### 2026-06-21 23:55:14  #MKT News #XAUUSD #Impact bullish #WTI #DXY
-
-Hezbollah leader says Israel will not continue to be stationed in Lebanon.
-
----
-
-### 2026-06-21 23:55:00  #宏觀 #國際
-
-【以總理稱以軍將根據需要繼續駐留黎巴嫩南部】當地時間21日，以色列總理內塔尼亞胡公開表示，以色列軍隊將根據安全需要在黎巴嫩南部的“安全區”長期駐留，並重申將採取一切手段阻止伊朗獲得核武器。內塔尼亞胡在當天的一場講話中表示，以色列在過去一年中針對伊朗實施了兩次重大軍事行動，旨在“消除來自伊朗的緊迫威脅”。他強調，以色列已經取得了“重大成果”，且絕不會妥協，將繼續捍衛其根本利益。在談及黎巴嫩南部局勢時，內塔尼亞胡強調，以軍將繼續駐留在黎南部的所謂“安全區”，直至消除對以色列北部及全國民眾的“安全威脅”。內塔尼亞胡堅稱，只要其還擔任以色列總理，他在這一問題上的堅定立場就絕不改變。同時，只要其還擔任以色列總理，無論政治局勢如何發展，他都絕不允許伊朗擁有核武器。（央視新聞）
-
----
-
-### 2026-06-21 23:54:42  #國際
-
-真主黨領導人稱，以色列不會留在黎巴嫩。
-
----
-
-### 2026-06-21 23:54:33  #MKT News
-
-According to Axios, a U.S. official said Iranian delegates had agreed to hold an on-site media briefing at the start of a meeting and brought state media to the venue, but left after seeing the number of journalists present and later issued an inaccurate account through state media.
-
----
-
-### 2026-06-21 23:54:08  #其他
-
-【亞洲接力錦標賽 中國隊創造男子4x100米接力賽會紀錄】2026亞洲接力錦標賽北京時間6月21日在紹興上虞結束，由謝震業、施君豪、黃友聞、陳錦豐組成的中國隊以38.08秒的成績奪得冠軍，並創男子4x100米接力賽會紀錄。（央視新聞）
-
----
-
-### 2026-06-21 23:52:57  #國際
-
-一名美方官員透露，伊朗代表此前已同意會談開場安排媒體採訪環節。該官員稱：“他們甚至攜帶本國官方媒體記者到場報道，相關人員也已提前就位。但在看到現場媒體人數眾多後，伊朗代表直接離場，隨後還透過本國官媒釋出與事實不符的會談情況說明。”
-
----
-
-### 2026-06-21 23:48:49  #國際
-
-據伊朗媒體21日報道，伊朗代表團已就美國總統特朗普近期口頭威脅向美方提出抗議，目前正在制定適當回應方案。
-
----
-
-### 2026-06-21 23:48:49  #MKT News #Market Themes #The Trump Trade #XAUUSD #Impact bullish #DXY #WTI
-
-【Iranian delegation lodges protest over Trump's verbal threats】Iranian media said on the 21st the Iranian delegation has lodged a protest with the US over recent verbal threats by President Trump and is preparing an appropriate response.
-
----
-
-### 2026-06-21 23:44:49  #MKT News
-
-【Iran delegation begins bilateral talks with Qatar】Iranian media on the 21st reported that after the first round of Iran‑US negotiations concluded, Iran's delegation began bilateral talks with Qatar's delegation.
-
----
-
-### 2026-06-21 23:44:12  #國際
-
-【伊朗代表團開始與卡達代表團會談】據伊朗媒體21日報道，伊美談判第一輪結束後，伊朗代表團與卡達代表團的雙邊會談開始。（新華社）
-
----
-
-### 2026-06-21 23:41:23  #其他
-
-【全國游泳冠軍賽：宋伯睿爆冷奪金】2026年全國游泳冠軍賽21日收官，19歲的宋伯睿以1分57秒50奪得男子200米仰泳專案金牌並重新整理個人最好成績，徐嘉餘以1分57秒55收穫銀牌，潘展樂以1分58秒54收穫銅牌並重新整理個人最好成績。（新華社）
-
----
-
-### 2026-06-21 23:40:38  #MKT News #Important
-
-Iranian state media said bilateral talks between Iranian and Qatari delegations began after a four-party meeting ended.
 
 ---

@@ -1,7 +1,43 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-06-28 23:40:25_
-_本檔包含 3871 則快訊，約 667907 字_
+_更新時間：2026-06-29 00:07:59_
+_本檔包含 3860 則快訊，約 666551 字_
+
+---
+
+### 2026-06-25 10:54:33  #宏觀
+
+【“美麗中國”全民行動5年計劃出臺 明確15條舉措】生態環境部今天（25日）舉行6月例行新聞釋出會，會上介紹，生態環境部、中央宣傳部、中央社會工作部等六部門聯合印發《美麗中國建設全民行動促進計劃（2026—2030年）》，目標是到2030年，美麗中國建設文化支撐更加堅實，公眾生態文明素養顯著提升，綠色低碳生活方式蔚然成風，美麗中國建設全民行動體系基本形成。《促進計劃》提出了15條具體舉措：在弘揚生態文化方面，提出依託博物館、展覽館、科教館等，增加生態文化展示與體驗等服務功能；推動生態文化融入旅遊發展，打造生態文化旅遊精品線路和特色產品。在促進公眾參與方面，深化環保設施向公眾開放，鼓勵有條件、有能力、有意願的行業企業應開盡開；統籌整合志願服務陣地資源，拓寬公眾參與渠道，培育管理規範、素質過硬的志願服務隊伍，打造“美麗中國，志願有我”等品牌專案。在引導生活方式綠色轉型方面，聚焦公眾吃、穿、住、行、用、遊等領域，探索建立積分兌換、商業折扣、公共服務兌換等多元激勵機制，激發全民踐行綠色低碳行為的內生動力等。
+
+---
+
+### 2026-06-25 10:53:14  #國際
+
+美國負責對外援助事務的副國務卿盧因表示：美國將向委內瑞拉派遣搜救隊，並提供醫療和人道主義物資。
+
+---
+
+### 2026-06-25 10:52:47  #市場
+
+【首日12倍股C臻寶獲槓桿資金搶籌】截至6月24日，市場融資餘額合計2.99萬億元，較前一交易日增加136.84億元，這已經是融資餘額連續7個交易日持續增加。具體到個股，6月24日共有1868只股獲融資淨買入，淨買入金額在1億元以上的有68只，其中3只融資淨買入額超5億元。C臻寶融資淨買入額居首，當日淨買入10.35億元，該股上市首日大漲1212.84%。立訊精密、雲南鍺業，融資淨買入金額分別為8.44億元、5.74億元，融資淨買入金額居前的還有通富微電、陽光電源、新易盛等。分行業統計，獲融資客淨買入超1億元個股中，電子、有色金屬、通訊等行業較為集中，分別有39只、6只、5只個股上榜。
+
+---
+
+### 2026-06-25 10:51:46  #MKT News #Star Stocks #Alibaba #Meituan #JD.com #Xiaomi #09961.HK #Impact bearish #09988.HK #09888.HK
+
+Hong Kong internet stocks slid, led by Trip.com Group-S (09961.HK) down more than 9%; Alibaba (09988.HK) off about 5%; Baidu (09888.HK) and Xiaomi Group (01810.HK) down over 3%; JD.com (09618.HK) down nearly 3% and Meituan (03690.HK) down just over 2%.
+
+---
+
+### 2026-06-25 10:50:46  #MKT News #Market Regions #Greater China
+
+【Guo Lanfeng: Income-distribution reform needed to boost consumption, better reflect labour value】June 25 — Guo Lanfeng, chair of the China Economic System Reform Research Association, said at the 2026 Summer Davos Forum that expanding consumption and domestic demand first requires consumers’ capacity to spend. Beyond high-quality employment, raising that capacity requires income-distribution reform because labour currently holds a disadvantaged share; ordinary workers account for most consumption, so reforms should progressively let labour’s value be more fully reflected in the economic cycle.
+
+---
+
+### 2026-06-25 10:50:15  #其他
+
+【郭蘭峰：提升消費能力需要收入分配改革 更充分體現出勞動價值】6月25日，中國經濟體制改革研究會會長郭蘭峰在2026夏季達沃斯論壇上表示，擴大消費或者擴大國內需求，首先要有消費能力，除了高質量的就業，提升消費能力還需要收入分配改革。近年社會各界對收入分配改革的呼聲越來越強，因為勞動在收入分配中處於劣勢。大量的消費都在普通勞動者，所以收入分配製度改革，可能要逐步讓勞動價值在整體經濟迴圈中得到更充分體現。
 
 ---
 
@@ -23234,107 +23270,5 @@ Shanghai (SHFE) silver 2608 contract weakened sharply intraday, widening losses 
 ### 2026-06-24 09:01:26  #MKT News #Market Regions #Japan & APAC #Nikkei 225 #Impact bearish
 
 Japan's Nikkei 225 pared earlier gains, down 0.4% at 69,499.12.
-
----
-
-### 2026-06-24 09:01:14
-
-國內期貨主力合約跌多漲少，滬錫、滬銀跌超4％，滬鎳跌超2％，SC原油、純苯、丙烯跌近2％，滬鋅、滬金、滬鋁、不鏽鋼（SS）跌超1％。漲幅方面，菜粕漲超1％，鐵礦石、豆一漲近1％。
-
----
-
-### 2026-06-24 09:01:11  #MKT News #Market Regions #Greater China
-
-Taiwan Stock Exchange Weighted Index opened down 727.88 points (-1.55%) at 46,372.77 on Wednesday, June 24.
-
----
-
-### 2026-06-24 09:01:07  #MKT News #Important #Market Themes #Chip Wars #TSM.O #Impact bullish
-
-【Report: TSMC to raise wafer-foundry prices across advanced nodes】Taiwan media citing tech analysts say TSMC has notified customers of wafer-foundry price increases across all advanced processes — not only the rumored 3nm but also 7nm and below — with hikes around 5-10%, affecting roughly 75% of its wafer revenue.
-
----
-
-### 2026-06-24 09:00:56  #MKT News #Commodities #Precious Metals #XAUUSD #Impact bearish
-
-Shanghai Gold Exchange gold T+D fell 1.02% to 894.3 yuan/gram in early trade on June 24; silver T+D fell 3.12% to 14,772.0 yuan/kg.
-
----
-
-### 2026-06-24 09:00:23  #市場
-
-鈀金期貨日內跌1%，現報1231.00美元/盎司。
-
----
-
-### 2026-06-24 09:00:22  #MKT News #Important #Commodities #Precious Metals #Industrial Metals #Energy #XAUUSD #Impact bearish #WTI
-
-At the morning open, China's main commodity futures were mostly lower. SHFE tin and silver fell more than 4%; SHFE nickel declined over 2%. SC crude oil, benzene and propylene slipped about 2%; SHFE zinc, gold, aluminium and stainless steel (SS) dropped over 1%. Rapeseed meal rose more than 1%, while iron ore and DCE soybean No.1 gained around 1%.
-
----
-
-### 2026-06-24 09:00:18  #市場
-
-臺灣證交所加權股價指數下跌1.4%至46,429.87點。
-
----
-
-### 2026-06-24 09:00:12  #其他
-
-臺灣證交所加權股價指數開低0.4%報46,909.98。
-
----
-
-### 2026-06-24 09:00:12  #MKT News #Market Regions #Greater China #CSI300 #Impact bullish #SSE Composite #CNH
-
-FTSE China A50 futures opened 0.61% higher.
-
----
-
-### 2026-06-24 09:00:03  #市場
-
-【商品期貨開盤】白銀連續跌4.67%，錫連續跌4.11%，鎳連續跌2.13%，丙烯連續跌2.10%，上海原油連續跌1.92%。
-
----
-
-### 2026-06-24 09:00:02  #市場
-
-富時中國A50指數期貨開盤上漲0.57%。
-
----
-
-### 2026-06-24 08:59:33  #市場
-
-【酒價內參6月24日價格釋出：五糧液1618古井貢古20領跌 總價創兩個多月新低】新浪財經“酒價內參”過去24小時收集的資料顯示，中國白酒市場主要大單品的終端零售均價6月24日整體大幅下挫。如果主要單品各取一瓶整體打包售賣，今日總售價為9864元，較昨日大幅下跌30元，連續三日回落並創下今年4月18日以來最低。今日除國窖1573上漲外，其餘品種均回落或平盤，其中四款單品更是創下近一月最低價，低位震盪態勢進一步加劇，終端交投情緒明顯降溫。今日11大白酒單品一漲八跌兩平，輸家數量佔據絕對優勢。上漲方面，國窖1573為唯一贏家，上漲5元/瓶，連續兩日反彈，重新逼近890元關口。下跌方面，五糧液1618、古井貢古20與青花郎跌幅居前，均下跌6元/瓶，其中五糧液1618創近一月最大日跌幅，價格創近一月最低；古井貢古20回吐此前部分漲幅，同樣創下近一月最低價；青花郎再度跌破700元關口。青花汾20與習酒君品均下跌5元/瓶；飛天茅臺下跌3元/瓶；精品茅臺與五糧液普五八代均下跌2元/瓶，其中前者連續三日回落並創下近一月最低價，後者已七連陰，失守800元關口後繼續下探，續創今年2月2日以來最低紀錄。洋河夢之藍M6+與水晶劍南春價格環比保持不變，其中前者仍平近一月最高價紀錄，後者仍處於近一月的次低位。
-
----
-
-### 2026-06-24 08:58:59  #其他
-
-【訊息稱臺積電先進製程代工將全線漲價】科技分析師科潘（Tim Culpan）指出，臺積電已陸續向客戶通知調漲晶圓代工價格，漲價範圍不僅涵蓋市場傳言的3nm製程，更擴及7nm及以下所有先進製程，整體漲幅約5％至10％，影響範圍涵蓋約75％的晶圓營收來源。
-
----
-
-### 2026-06-24 08:58:43  #其他
-
-【摩根資產管理趙隆隆：鋰電或成能源鏈復甦先頭】摩根資產管理中國基金經理趙隆隆在摩根資產管理領航者機構策略會上表示，從能源維度看，鋰電產業鏈可作為復甦先頭觀察，包括上游碳酸鋰、電池及部分供需格局較好的材料環節，都是優先關注方向。需求端看，儲能已成為鋰電池需求的重要增量，電動車領域也出現單車帶電量提升、電動重卡放量等積極變化。趙隆隆認為，如果下游需求和供需關係出現扭轉，新能源可能進入新一輪週期，其中上游資源環節需要得到足夠重視。
-
----
-
-### 2026-06-24 08:58:21  #公司
-
-【摩根資產管理李博：消費未進入大週期 但細分高增公司已具配置價值】摩根資產管理中國基金經理李博在摩根資產管理領航者機構策略會上表示，消費目前尚未進入大的向上週期，但部分細分公司已具備配置價值。他表示，自己增配消費的核心邏輯，是尋找去年四季度以來被市場忽視、但業績已出現驗證的細分公司。具體方向上，零食量販公司近三年處於擴張週期，部分A股公司今年業績增速較高、估值相對不高；遊戲板塊年初以來調整較多，但部分公司利潤體量、現金流和明年增速仍具吸引力。此外，速凍食品等細分方向也可關注。李博認為，這類消費投資並非押注行業全面反轉，而是尋找估值與成長匹配的結構性機會。
-
----
-
-### 2026-06-24 08:57:48  #國際
-
-【美國會透過跨黨派法案加快可負擔住房供應 已提交特朗普簽字】美國眾議院週二透過一項跨黨派法案，旨在加快建設並提供更多可負擔住房，現已提交總統特朗普簽署生效。該法案已於週一在參議院以85票贊成、5票反對獲得透過。“美國正面臨一個經過多年積累形成的住房供應短缺問題，”眾議院金融服務委員會主席、來自阿肯色州的共和黨人希爾(French Hill)在眾議院辯論中表示。根據週二釋出的一項調查，大多數美國消費者目前更傾向於購房，而非租房或與家人同住；這是自2023年以來，消費者態度首次轉向支援購房。希爾表示，該法案將“消除新建住房的不必要障礙”，並對他所說的過時銀行監管進行現代化改革，以促進低收入人群獲得更多住房貸款。眾議院以358票贊成、32票反對的結果透過該法案。特朗普第二任期內通脹率明顯上升，民調顯示，生活成本高企已成為選民最關注的問題之一。
-
----
-
-### 2026-06-24 08:57:23  #MKT News #S&P500
-
-【CBOE launches Cboe Predicts; first products are mini‑S&P500 binary options】CBOE on June 23 announced Cboe Predicts, a new predictive‑markets product suite. The initial offerings are binary options on the mini S&P 500 index (XSP), symbols XSPBW and XSPBX, now available on Interactive Brokers and expected to launch on Charles Schwab in coming months. Binary options are all‑or‑nothing derivatives that have previously traded in OTC markets with regulatory gray areas.
 
 ---

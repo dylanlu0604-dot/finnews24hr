@@ -1,7 +1,109 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-06-28 23:40:25_
-_本檔包含 3472 則快訊，約 667036 字_
+_更新時間：2026-06-29 00:07:59_
+_本檔包含 3477 則快訊，約 667742 字_
+
+---
+
+### 2026-06-24 09:01:14
+
+國內期貨主力合約跌多漲少，滬錫、滬銀跌超4％，滬鎳跌超2％，SC原油、純苯、丙烯跌近2％，滬鋅、滬金、滬鋁、不鏽鋼（SS）跌超1％。漲幅方面，菜粕漲超1％，鐵礦石、豆一漲近1％。
+
+---
+
+### 2026-06-24 09:01:11  #MKT News #Market Regions #Greater China
+
+Taiwan Stock Exchange Weighted Index opened down 727.88 points (-1.55%) at 46,372.77 on Wednesday, June 24.
+
+---
+
+### 2026-06-24 09:01:07  #MKT News #Important #Market Themes #Chip Wars #TSM.O #Impact bullish
+
+【Report: TSMC to raise wafer-foundry prices across advanced nodes】Taiwan media citing tech analysts say TSMC has notified customers of wafer-foundry price increases across all advanced processes — not only the rumored 3nm but also 7nm and below — with hikes around 5-10%, affecting roughly 75% of its wafer revenue.
+
+---
+
+### 2026-06-24 09:00:56  #MKT News #Commodities #Precious Metals #XAUUSD #Impact bearish
+
+Shanghai Gold Exchange gold T+D fell 1.02% to 894.3 yuan/gram in early trade on June 24; silver T+D fell 3.12% to 14,772.0 yuan/kg.
+
+---
+
+### 2026-06-24 09:00:23  #市場
+
+鈀金期貨日內跌1%，現報1231.00美元/盎司。
+
+---
+
+### 2026-06-24 09:00:22  #MKT News #Important #Commodities #Precious Metals #Industrial Metals #Energy #XAUUSD #Impact bearish #WTI
+
+At the morning open, China's main commodity futures were mostly lower. SHFE tin and silver fell more than 4%; SHFE nickel declined over 2%. SC crude oil, benzene and propylene slipped about 2%; SHFE zinc, gold, aluminium and stainless steel (SS) dropped over 1%. Rapeseed meal rose more than 1%, while iron ore and DCE soybean No.1 gained around 1%.
+
+---
+
+### 2026-06-24 09:00:18  #市場
+
+臺灣證交所加權股價指數下跌1.4%至46,429.87點。
+
+---
+
+### 2026-06-24 09:00:12  #其他
+
+臺灣證交所加權股價指數開低0.4%報46,909.98。
+
+---
+
+### 2026-06-24 09:00:12  #MKT News #Market Regions #Greater China #CSI300 #Impact bullish #SSE Composite #CNH
+
+FTSE China A50 futures opened 0.61% higher.
+
+---
+
+### 2026-06-24 09:00:03  #市場
+
+【商品期貨開盤】白銀連續跌4.67%，錫連續跌4.11%，鎳連續跌2.13%，丙烯連續跌2.10%，上海原油連續跌1.92%。
+
+---
+
+### 2026-06-24 09:00:02  #市場
+
+富時中國A50指數期貨開盤上漲0.57%。
+
+---
+
+### 2026-06-24 08:59:33  #市場
+
+【酒價內參6月24日價格釋出：五糧液1618古井貢古20領跌 總價創兩個多月新低】新浪財經“酒價內參”過去24小時收集的資料顯示，中國白酒市場主要大單品的終端零售均價6月24日整體大幅下挫。如果主要單品各取一瓶整體打包售賣，今日總售價為9864元，較昨日大幅下跌30元，連續三日回落並創下今年4月18日以來最低。今日除國窖1573上漲外，其餘品種均回落或平盤，其中四款單品更是創下近一月最低價，低位震盪態勢進一步加劇，終端交投情緒明顯降溫。今日11大白酒單品一漲八跌兩平，輸家數量佔據絕對優勢。上漲方面，國窖1573為唯一贏家，上漲5元/瓶，連續兩日反彈，重新逼近890元關口。下跌方面，五糧液1618、古井貢古20與青花郎跌幅居前，均下跌6元/瓶，其中五糧液1618創近一月最大日跌幅，價格創近一月最低；古井貢古20回吐此前部分漲幅，同樣創下近一月最低價；青花郎再度跌破700元關口。青花汾20與習酒君品均下跌5元/瓶；飛天茅臺下跌3元/瓶；精品茅臺與五糧液普五八代均下跌2元/瓶，其中前者連續三日回落並創下近一月最低價，後者已七連陰，失守800元關口後繼續下探，續創今年2月2日以來最低紀錄。洋河夢之藍M6+與水晶劍南春價格環比保持不變，其中前者仍平近一月最高價紀錄，後者仍處於近一月的次低位。
+
+---
+
+### 2026-06-24 08:58:59  #其他
+
+【訊息稱臺積電先進製程代工將全線漲價】科技分析師科潘（Tim Culpan）指出，臺積電已陸續向客戶通知調漲晶圓代工價格，漲價範圍不僅涵蓋市場傳言的3nm製程，更擴及7nm及以下所有先進製程，整體漲幅約5％至10％，影響範圍涵蓋約75％的晶圓營收來源。
+
+---
+
+### 2026-06-24 08:58:43  #其他
+
+【摩根資產管理趙隆隆：鋰電或成能源鏈復甦先頭】摩根資產管理中國基金經理趙隆隆在摩根資產管理領航者機構策略會上表示，從能源維度看，鋰電產業鏈可作為復甦先頭觀察，包括上游碳酸鋰、電池及部分供需格局較好的材料環節，都是優先關注方向。需求端看，儲能已成為鋰電池需求的重要增量，電動車領域也出現單車帶電量提升、電動重卡放量等積極變化。趙隆隆認為，如果下游需求和供需關係出現扭轉，新能源可能進入新一輪週期，其中上游資源環節需要得到足夠重視。
+
+---
+
+### 2026-06-24 08:58:21  #公司
+
+【摩根資產管理李博：消費未進入大週期 但細分高增公司已具配置價值】摩根資產管理中國基金經理李博在摩根資產管理領航者機構策略會上表示，消費目前尚未進入大的向上週期，但部分細分公司已具備配置價值。他表示，自己增配消費的核心邏輯，是尋找去年四季度以來被市場忽視、但業績已出現驗證的細分公司。具體方向上，零食量販公司近三年處於擴張週期，部分A股公司今年業績增速較高、估值相對不高；遊戲板塊年初以來調整較多，但部分公司利潤體量、現金流和明年增速仍具吸引力。此外，速凍食品等細分方向也可關注。李博認為，這類消費投資並非押注行業全面反轉，而是尋找估值與成長匹配的結構性機會。
+
+---
+
+### 2026-06-24 08:57:48  #國際
+
+【美國會透過跨黨派法案加快可負擔住房供應 已提交特朗普簽字】美國眾議院週二透過一項跨黨派法案，旨在加快建設並提供更多可負擔住房，現已提交總統特朗普簽署生效。該法案已於週一在參議院以85票贊成、5票反對獲得透過。“美國正面臨一個經過多年積累形成的住房供應短缺問題，”眾議院金融服務委員會主席、來自阿肯色州的共和黨人希爾(French Hill)在眾議院辯論中表示。根據週二釋出的一項調查，大多數美國消費者目前更傾向於購房，而非租房或與家人同住；這是自2023年以來，消費者態度首次轉向支援購房。希爾表示，該法案將“消除新建住房的不必要障礙”，並對他所說的過時銀行監管進行現代化改革，以促進低收入人群獲得更多住房貸款。眾議院以358票贊成、32票反對的結果透過該法案。特朗普第二任期內通脹率明顯上升，民調顯示，生活成本高企已成為選民最關注的問題之一。
+
+---
+
+### 2026-06-24 08:57:23  #MKT News #S&P500
+
+【CBOE launches Cboe Predicts; first products are mini‑S&P500 binary options】CBOE on June 23 announced Cboe Predicts, a new predictive‑markets product suite. The initial offerings are binary options on the mini S&P 500 index (XSP), symbols XSPBW and XSPBX, now available on Interactive Brokers and expected to launch on Charles Schwab in coming months. Binary options are all‑or‑nothing derivatives that have previously traded in OTC markets with regulatory gray areas.
 
 ---
 
@@ -20887,79 +20989,5 @@ Australia Factory Growth Picks Up in June — The S&P Global Australia Manufactu
 ### 2026-06-23 07:07:08  #Trading Economics #Economy #Australia #Services PMI #Importance 1
 
 Australia Services Activity Nears Stabilisation in June — The S&P Global Flash Australia Services PMI Business Activity Index rose to 49.9 in June from 48.7 in the previous month. The flash data indicated that the services sector moved closer to stabilization but remained slightly in contraction territory. Nonetheless, the improvement helped lift the Composite Output Index to 49.8 from 48.7, signaling broadly stable private sector activity. However, new orders continued to decline for a fourth straight month amid market uncertainty, while export demand also weakened. Business confidence fell to its lowest level since the pandemic. Employment returned to growth, but firms reduced backlogs at the fastest pace in over two years. Meanwhile, input cost and selling price inflation eased further despite persistent fuel and transportation cost pressures.
-
----
-
-### 2026-06-23 07:06:04  #國際
-
-【烏克蘭可能重新調整對俄停火提議】烏克蘭一名高階官員週一表示，如果聯合國安理會未能透過一項敦促全面且無條件結束敵對行動的決議，烏克蘭可能會修改其向俄羅斯提出的、沿著實際前線停火的提議。烏克蘭駐聯合國代表Andrii Melnyk是在安理會一場歷時甚長的會議中發表上述談話。這是近幾個月來，為處理這場戰爭而召開的第六次相關會議。他表示，“烏克蘭已準備好與俄羅斯展開直接談判，根據《聯合國憲章》尋求公正且持久的和平，但我們的耐心並非無窮無盡。”他並指出，烏克蘭已多次敦促安理會透過一項要求全面且無條件停火的決議。“如果安理會繼續選擇觀望，我不排除烏克蘭可能重新調整並修改其提議。沿著實際前線停火本身已是重大的妥協，”他說。他未透露更多細節。
-
----
-
-### 2026-06-23 07:05:37  #國際
-
-【民調顯示：不安感加重，三成受訪美國人隨身攜槍】美國民調機構McLaughlin &Associates日前面向1000名美國民眾展開調查，結果顯示近三成受訪者在日常生活中隨身攜帶槍支。隨著越來越多州放寬持槍管控政策，加之對公共空間的不信任感上升，民眾持槍比例或將持續攀升，美國多地儼然有重回 “狂野西部”這一無序狀態之勢。（環球網）
-
----
-
-### 2026-06-23 07:04:24  #公司
-
-【個別產品年化收益率近140%，銀行理財指數化投資受青睞】當前銀行理財市場指數化投資熱度持續走高。資管服務平臺聯合智評資料顯示，今年以來，掛鉤人工智慧（AI）算力、儲存晶片、量子科技等熱門賽道的理財產品收益亮眼，超六成產品年化收益率在同類指數理財中位居前列，個別產品年化收益率逼近140%。受訪人士表示，在理財全面淨值化轉型背景下，指數化產品已成為理財公司突破收益瓶頸的重要路徑。（證券日報）
-
----
-
-### 2026-06-23 07:04:08  #國際
-
-【伊朗說將按現行機制繼續與國際原子能機構合作】伊朗伊斯蘭共和國通訊社22日援引伊朗外交部發言人巴加埃的話報道，伊朗與國際原子能機構的合作與互動將按照現行機制繼續進行，並遵循伊朗議會相關法律以及最高國家安全委員會作出的決定。報道還援引訊息人士的話說，伊美在瑞士持續約18小時的談判過程中，伊朗方面未就核問題展開談判，也未作出任何新的相關承諾。
-
----
-
-### 2026-06-23 07:03:48  #國際
-
-【法國過半省份釋出高溫紅色預警，馬克龍提醒民眾：我們正在經歷艱難時刻】截至22日，法國本土96個省份中已有49個釋出高溫紅色預警，另有超40個省份釋出高溫橙色預警，多地氣溫超過40攝氏度。受酷暑影響，法國多地學校停課、列車停運，大型文娛活動接連取消。綜合法國《世界報》《巴黎人報》等多家媒體報道，22日，法國波爾多、圖盧茲等主要城市的氣溫均突破40攝氏度，巴黎與里昂分別為38攝氏度與39攝氏度。法國總統馬克龍提醒民眾對高溫天氣“保持高度警惕”，敦促人們照顧好老人和弱勢群體、聽從政府建議，並稱“我們正在經歷艱難時刻”。
-
----
-
-### 2026-06-23 07:03:48  #Trading Economics #Economy #Australia #Composite PMI #Importance 1
-
-Australia Composite PMI Rises in June — Australia’s composite PMI rose to 49.8 in June 2026 from a final 48.7 in the previous month, flash data showed. The latest result signaled a near-stabilisation of business activity following a slight contraction in May.
-
----
-
-### 2026-06-23 07:03:11  #公司 #市場
-
-【小金屬鋯供需關係生變，A股相關個股受資金追捧】6月22日，小金屬鋯概念板塊熱度攀升，截至當日收盤，該板塊三祥新材股份有限公司、廣東東方鋯業股份有限公司等核心龍頭股價悉數漲停，其餘多隻股票漲幅超過5%。市場訊息顯示，受海外氧化鋯粉體龍頭供給收縮等因素影響，國內龍頭企業已跟進調價，東方鋯業自6月18日起上調氧氯化鋯、二氧化鋯等產品價格。6月22日，東方鋯業證券部相關人士表示，上述漲價內容屬實，本輪漲價主要受成本上漲與供需格局變化雙重驅動。（證券日報）
-
----
-
-### 2026-06-23 07:02:35  #MKT News #Market Regions #Europe & UK
-
-UK grid operator says power supplies will be adequate this winter.
-
----
-
-### 2026-06-23 07:01:39  #MKT News #Commodities #Energy #Brent #Impact mixed
-
-【Danske Bank: Sees Brent averaging $80/bbl for rest of 2026】Danske Bank forecasts Brent crude will average $80/bbl for the remainder of 2026 and rise to $85/bbl in 2027. The bank said a U.S.-Iran deal would reopen oil shipments through the Strait of Hormuz but warned Iran’s production and exports would take months to normalize, limiting immediate supply relief. Danske flagged ongoing U.S. Strategic Petroleum Reserve releases as a near-term supply factor and said Washington may maintain releases for political reasons ahead of November’s U.S. midterm elections.
-
----
-
-### 2026-06-23 07:00:52  #資料
-
-澳大利亞6月標普全球綜合PMI初值 49.8，前值48.7。
-澳大利亞6月標普全球服務業PMI初值 49.9，前值48.7。
-澳大利亞6月標普全球製造業PMI初值 51.2，前值50.7。
-
----
-
-### 2026-06-23 07:00:10  #MKT News #DXY #Impact bullish #XAUUSD #Impact bearish
-
-Australia June S&P Global services PMI (preliminary) 49.9, up from 48.7; remains below the 50 expansion threshold.
-
----
-
-### 2026-06-23 07:00:06  #MKT News #AUDUSD #Impact bearish
-
-Australia June S&P Global Composite PMI preliminary 49.8; prior 48.7.
 
 ---
