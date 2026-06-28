@@ -1,7 +1,39 @@
 {
-  "updated": "2026-06-29 02:43:17",
-  "count": 17963,
+  "updated": "2026-06-29 02:47:08",
+  "count": 17966,
   "items": [
+    {
+      "id": "mkt:019f0f8d-fd47-7aab-8c02-438ce3e13e6a",
+      "time": "2026-06-29 02:46:31",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Trump said he was determined to build one of the world’s greatest golf courses in Washington and open it to the public."
+    },
+    {
+      "id": "4959102",
+      "time": "2026-06-29 02:45:50",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：一定會在華盛頓建成世界頂級高爾夫球場之一，並且該球場將對公眾開放。"
+    },
+    {
+      "id": "mkt:019f0f8d-05c6-7aab-8c02-3d5d3d3dcb23",
+      "time": "2026-06-29 02:45:27",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "President Trump said the Lincoln Memorial Reflecting Pool is fully back in service after sustaining significant damage."
+    },
+    {
+      "id": "4959101",
+      "time": "2026-06-29 02:43:59",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：此前受損嚴重的倒影池現已全面投入使用。"
+    },
     {
       "id": "4959100",
       "time": "2026-06-29 02:29:08",
@@ -164350,14 +164382,6 @@
         "國際"
       ],
       "text": "烏克蘭總統澤連斯基：波蘭總統納夫羅茨基正走著和歐爾班一樣的路，最終只會釀成糟糕的後果；納夫羅茨基企圖透過煽動反烏情緒攫取政治利益。"
-    },
-    {
-      "id": "4946623",
-      "time": "2026-06-22 02:45:56",
-      "tags": [
-        "國際"
-      ],
-      "text": "以色列解除該國北部所有與戰事相關的集會限制。"
     }
   ]
 }
