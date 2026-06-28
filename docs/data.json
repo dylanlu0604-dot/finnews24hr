@@ -1,7 +1,87 @@
 {
-  "updated": "2026-06-29 02:59:22",
-  "count": 17965,
+  "updated": "2026-06-29 03:13:57",
+  "count": 17973,
   "items": [
+    {
+      "id": "4959110",
+      "time": "2026-06-29 03:11:37",
+      "tags": [
+        "國際"
+      ],
+      "text": "普京宣佈，俄方的任務是徹底解放頓巴斯與新俄羅斯地區。"
+    },
+    {
+      "id": "mkt:019f0fa2-f6f7-7aab-8c02-61a1de3aea16",
+      "time": "2026-06-29 03:09:25",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "【US media: US-Iran technical talks still planned in coming days】The New York Times reported a senior US official said US-Iran technical talks on implementing a memorandum of understanding are still planned in the coming days. Despite recent reciprocal strikes, the official said no meetings have been canceled and the sides are exchanging information via \"deconfliction channels\"."
+    },
+    {
+      "id": "4959109",
+      "time": "2026-06-29 03:07:55",
+      "tags": [
+        "國際"
+      ],
+      "text": "普京：針對俄羅斯能源基礎設施的襲擊確實引發了供應難題，這一點顯而易見。烏克蘭武裝部隊襲擊俄能源設施確實造成了燃油短缺，但目前短缺狀況尚不嚴峻。"
+    },
+    {
+      "id": "4959108",
+      "time": "2026-06-29 03:07:42",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "一名美國官員向阿拉伯電視臺表示，美伊之間的技術性談判正按既定日程推進。該官員稱，與伊朗的技術性談判並未取消，將於未來數日舉行。"
+    },
+    {
+      "id": "mkt:019f0fa0-d971-7aab-8c02-5f37591a6d32",
+      "time": "2026-06-29 03:07:07",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Putin said attacks on Russia's energy infrastructure are causing problems."
+    },
+    {
+      "id": "mkt:019f0fa0-bf24-7aab-8c02-55cfa2ffe9dd",
+      "time": "2026-06-29 03:07:00",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "Russian President Putin said all damaged energy facilities are being restored rapidly and that operations retain a substantial safety margin."
+    },
+    {
+      "id": "4959107",
+      "time": "2026-06-29 03:06:36",
+      "tags": [
+        "國際"
+      ],
+      "text": "普京表示，俄羅斯的燃油短缺問題並不嚴峻。"
+    },
+    {
+      "id": "mkt:019f0fa0-4fff-7aab-8c02-4ee3738d0c13",
+      "time": "2026-06-29 03:06:32",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Putin said Russia's fuel shortage is not serious."
+    },
+    {
+      "id": "4959106",
+      "time": "2026-06-29 03:05:20",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：將會見珍妮絲·劉易斯·喬治。\n注：後者為美國華盛頓特區4區市議員，正在參選華盛頓特區市長，民調大幅領先民主黨初選對手，主打平價住房、育兒普惠、控租金，政策立場與特朗普完全對立。"
+    },
     {
       "id": "4959104",
       "time": "2026-06-29 02:52:10",
@@ -164365,14 +164445,6 @@
         "國際"
       ],
       "text": "以色列國防部長卡茨：以色列無意從貝卡夫要塞撤退，該要塞是黎巴嫩安全區不可分割的一部分，對保護加利利定居點和以色列國防軍部隊至關重要。正如總理內塔尼亞胡和我所澄清的，以色列不會從黎巴嫩的安全區撤退。"
-    },
-    {
-      "id": "4946625",
-      "time": "2026-06-22 03:02:04",
-      "tags": [
-        "其他"
-      ],
-      "text": "英國統計機構承認關鍵就業資料存在新錯誤。"
     }
   ]
 }
