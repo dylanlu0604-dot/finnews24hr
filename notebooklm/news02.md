@@ -1,7 +1,91 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-06-29 03:42:00_
-_本檔包含 3666 則快訊，約 665790 字_
+_更新時間：2026-06-29 04:30:03_
+_本檔包含 3664 則快訊，約 665571 字_
+
+---
+
+### 2026-06-26 13:00:00  #MKT News #Economic Calendar #Important
+
+Singapore | Industrial Production Index SA (MoM) (May) | actual -0.7% | consensus 2.00% | previous 5.80%
+
+---
+
+### 2026-06-26 12:58:53  #國際
+
+【澤連斯基下令開展為期40天行動 以促使俄羅斯結束戰爭】在聽取了安全部門負責人關於打擊俄羅斯目標的簡報後，烏克蘭總統弗拉基米爾·澤連斯基批准了一項為期40天的行動，旨在“影響”俄羅斯結束戰爭。澤連斯基週四晚些時候在社交媒體上發了帖子，但沒有透露細節。他讚揚了烏克蘭安全部門利用無人機保衛國家前線陣地的表現。俄羅斯國防部報告稱，一夜之間在俄羅斯多個地區擊落了660架烏克蘭無人機，這似乎是四年多戰爭以來俄羅斯領土遭受的最猛烈的空中襲擊。
+
+---
+
+### 2026-06-26 12:57:26  #MKT News
+
+Refinitiv IFR reports Zhejiang Laifu Harmonic Drive Co. will price its Hong Kong IPO at the top of its indicated range, seeking to raise HK$1.1 billion.
+
+---
+
+### 2026-06-26 12:56:33  #市場
+
+【投資金價掉下880元/克關口，直擊北京菜百購金現場】6月26日上午10時許，投資金價仍位於880元/克下方。記者實地探訪北京菜百首飾總店發現，未到營業時間，店門口已有不少消費者提前等候。開門後，人群直奔四樓投資金條購買區。櫃檯前，有消費者秒拍秒付，帶走100克投資金條。而在售產品中，20克以下的小克重金條仍處於缺貨狀態。（21財經）
+
+---
+
+### 2026-06-26 12:55:41  #其他
+
+【深圳通報房地產領域違規自媒體賬號典型案例】據深圳市網際網路資訊辦公室訊息，為進一步規範房地產領域網路資訊傳播秩序，深圳市住建、網信部門持續深入開展專項整治，督促屬地網站平臺嚴格落實主體責任，依法依約處置一批違規自媒體賬號。現將部分典型案例通報。根據有關政策規定，相關賬號已被平臺依法依約予以關閉3個月處置。
+
+---
+
+### 2026-06-26 12:55:33  #公司
+
+鑫苑物業服務集團有限公司在香港暫停交易。
+
+---
+
+### 2026-06-26 12:55:14  #公司
+
+【機構：攜程集團長期收入可能因合規措施承壓】晨星的Kai Wang在一份報告中表示，攜程集團的長期收入可能會受到新合規措施的拖累。該分析師表示，這家線上旅遊公司正在升級其運營實踐，以符合更新後的行業標準和合規框架，這可能是近期收入承壓的一個因素。隨著行業標準的演變，此類升級在長期內可能會成為常態。由於削減了增值服務，預計攜程集團截至6月的季度國內航空和地面交通收入將同比下降25%。晨星將攜程集團ADR的公允價值估值從70.00美元下調至63.00美元。
+
+---
+
+### 2026-06-26 12:54:36  #MKT News #Market Regions #Japan & APAC
+
+Japan plans to fund a proposed consumption-tax cut by reviewing subsidies rather than issuing deficit-financing bonds, broadcaster TBS reported.
+
+---
+
+### 2026-06-26 12:54:07  #公司 #國際
+
+據日本東京廣播公司（TBS）報道，日本政府計劃透過重審補貼專案，而非發行赤字融資債券，來為擬議中的消費稅削減措施籌措資金。
+
+---
+
+### 2026-06-26 12:53:56  #其他
+
+【面向中小整合商 寧德時代線上直銷平臺上線】6月26日，記者獲悉，寧德時代線上直銷平臺“寧德時代商城”正式上線，目標客戶是小批次需求的中小整合商。該平臺目前在售產品包括：100Ah，280Ah(1P)，314Ah三款儲能電芯，3箱即可起訂，降低採購門檻。（ 第一財經  ）
+
+---
+
+### 2026-06-26 12:53:17  #國際
+
+【日本稱又有兩艘本國船舶駛過霍爾木茲海峽】日本國土交通大臣金子恭之於週五例行記者會上表示，昨日至今日，又有兩艘日本船舶穿越霍爾木茲海峽。其透露，目前仍有35艘日本船舶停靠在波斯灣海域；船舶航行狀況、船員身體健康均未出現任何異常。
+
+---
+
+### 2026-06-26 12:51:45  #其他
+
+【機器人傳動部件生產商來福諧波香港IPO價格定在區間的高階】IFR援引知情人士報道稱，中國機器人精密傳動部件提供商來福諧波將香港IPO價格定在區間的高階，擬融資11億港元。
+
+---
+
+### 2026-06-26 12:50:56  #國際
+
+【日本前首相再次強調高市應道歉】6月25日，日本前首相鳩山由紀夫在第21屆韓國濟州論壇上發言，再次批評日本首相高市早苗的涉臺錯誤言論。鳩山由紀夫指出，高市應馬上收回其錯誤言論，並且道歉！然而，日本公眾輿論卻被所謂“中國威脅”的敘事所誤導。鳩山由紀夫強調，中國政府對此感到憤怒不滿完全可以理解。日本政府應明確向中國表示，日本將繼續遵守《日中聯合宣告》，特別是堅持不支援“臺獨”的立場。 （CCTV國際時訊 ）
+
+---
+
+### 2026-06-26 12:50:49  #Trading Economics #Markets #Indonesia #Currency #Importance 1
+
+Rupiah Set for Weekly Decline — The rupiah traded near IDR 17,950 per U.S. dollar on Friday, extending its recent slide as broad dollar strength persisted after the Fed reinforced its hawkish stance despite holding interest rates steady last week. Locally, traders adopted a cautious approach ahead of June CPI data, with food prices in the spotlight after May’s fastest annual rise in seven months, driven by El Niño’s impact. Worries also mounted that Indonesia’s 72-month trade surplus streak could soon end amid elevated energy imports. The currency fell about 1% so far this week, erasing gains from the prior two periods. Still, weakness was capped by news that the government may trim over USD 2 billion from President Prabowo’s top program to bolster fiscal discipline. Softer oil prices, down toward pre-Iran war levels, eased pressure on the import bill and budget. Meantime, foreign inflows returned so far in June, lifted by around IDR 105 trillion in demand for Bank Indonesia’s one-year securities and government bonds
 
 ---
 
@@ -21988,101 +22072,5 @@ Indonesia's mining ministry said all requests to revise mining quotas will be su
 ### 2026-06-25 11:29:50  #MKT News #Commodities #Industrial Metals #Copper
 
 Indonesia's mining ministry said the government must ensure ore production aligns with downstream demand.
-
----
-
-### 2026-06-25 11:29:45  #其他
-
-【水利部：全國9條河流發生超警以上洪水】從水利部瞭解到，受近期降雨影響，昨天到今天，廣西紅水河支流佈柳河、柳江支流小環江及西河，貴州柳江支流龍江、烏江支流邢江河，四川大渡河支流康定河，江西贛江支流橫江，內蒙古額爾古納河支流免渡河等8條河流發生超警洪水；新疆喀什噶爾河支流恰克馬克河發生短歷時超過保證流量洪水。目前大部河流已退至警戒水位以下。
-
----
-
-### 2026-06-25 11:29:22  #MKT News #Important #Commodities #Industrial Metals
-
-Indonesia's Ministry of Mining said it has not yet decided on a total nickel ore production quota for fiscal 2026.
-
----
-
-### 2026-06-25 11:28:54  #國際
-
-印尼礦業部：尚未就2026財年鎳礦石總產量配額做出決定。
-
----
-
-### 2026-06-25 11:27:46  #其他
-
-【多項成果集中釋出 深圳低空經濟這場年度大會即將舉行】據深圳市低空經濟產業協會訊息，6月26日，深圳市低空經濟產業協會第一屆第四次會員大會暨深圳低空經濟成果釋出會將在深圳國家工程實驗室大樓舉行。本次大會將集中釋出和啟動多項重點成果，包括：《深圳市低空產業人才白皮書》釋出，系統呈現深圳低空經濟人才現狀、崗位需求和培養路徑；低空經濟新職業觀察哨專案啟動，持續關注低空經濟領域新崗位、新職業、新技能的發展變化；2026年團體標準立項揭榜掛帥釋出等。
-
----
-
-### 2026-06-25 11:27:10  #公司
-
-【攜程集團-S港股跌超10%】攜程集團-S港股跌10.07%，報318.00港元。
-
----
-
-### 2026-06-25 11:25:42  #MKT News #Important #CSI300 #Impact bullish #SSE Composite #Hang Seng Index
-
-FTSE China A50 futures staged a short-term surge, trading more than 2% higher intraday.
-
----
-
-### 2026-06-25 11:25:31  #市場 #焦點
-
-富時中國A50指數期貨漲幅擴大至2%。
-
----
-
-### 2026-06-25 11:25:01  #其他
-
-【阿聯酋石油出口已恢復至戰前水平85%左右】據國際能源署（IEA），阿聯酋依靠其替代航線和輸油管道，6月初石油出口量已恢復至戰前水平的近85%。IEA在一份報告中指出，作為全球第七大石油生產國，阿聯酋的石油供應量實際上在美伊簽署臨時協議之前就已經開始回升。根據該機構統計，在美伊衝突爆發不久後的3月，阿聯酋石油出口量僅為約190萬桶/日，而6月初這一數字躍升至430萬桶/日。
-
----
-
-### 2026-06-25 11:24:36  #公司
-
-【豆包關聯公司申請註冊“豆包雲”商標】天眼查智慧財產權資訊顯示，近日，豆包關聯公司北京春田知韻科技有限公司申請註冊“豆包雲”商標，國際分類涉及科學儀器、網站服務，當前商標狀態均為等待實質審查。該公司成立於2023年7月，法定代表人為嚴林，註冊資本100萬人民幣，經營範圍包括計算機系統服務、資料處理服務、軟體開發等，由北京抖音資訊服務有限公司全資持股。
-
----
-
-### 2026-06-25 11:24:23  #其他
-
-【“十四五”碧水保衛戰交出亮眼成績單】生態環境部召開6月例行新聞釋出會，生態環境部水生態環境司司長蔣火華表示，“十四五”全國水生態環境質量實現轉折性變化。2025年，全國地表水好Ⅲ水質比例達到91.4%，劣Ⅴ類斷面比例為0.6%，均為有監測記錄以來最好水平。重點河湖生態流量達標率達到90%以上，累計修復河湖生態緩衝帶長度8600公里，長江江豚種群數量回升至1426頭。長江干流連續6年全線Ⅱ類，黃河干流連續4年全線Ⅱ類。成績的取得是各地區各部門共同努力的結果，一是持續深化水環境治理，二是著力推進水生態保護修復，三是有效防範水環境風險，四是健全完善水生態環境治理體系。
-
----
-
-### 2026-06-25 11:23:56  #其他
-
-【華為汪濤：產業界需要共同定義面向未來十年的行動通訊網路】6月24日，在2026MWC上海期間，華為副董事長、輪值董事長汪濤在發表主題演講。汪濤表示，展望未來，產業界需要共同定義面向未來十年的行動通訊網路，為此，華為提出幾點倡議：第一，在全球範圍協同，共同推動U6GHz在更多的國家標識為行動通訊的頻譜，為下個十年的全球移動聯接奠定頻譜根基；第二，在3GPP統一標準下，共同推動NTN產業發展，形成以地面為主，天地一體的通訊網路；第三，共同定義下一代AI原生核心網，使能未來智慧體業務；最後，積極探索移動服務新模式、新場景，商網聯動，共創商業新價值。
-
----
-
-### 2026-06-25 11:23:32  #國際
-
-印尼方面稱阿巴迪液化天然氣專案可能於2027年開工建設。
-
----
-
-### 2026-06-25 11:23:13  #市場 #國際
-
-菲律賓股市指數上漲1%至6051.92點。
-
----
-
-### 2026-06-25 11:19:47  #MKT News #Important #Market Themes #AI Revolution
-
-【JP Morgan raises South Korea Kospi bull-case target to 15,000】JP Morgan raised its bull-case target for South Korea's Kospi index to 15,000 and lifted its base and bear targets to 12,500 and 8,000 respectively, implying roughly 77% upside from Wednesday's close of 8,471.02. The bank keeps its highest overweight on Korean equities and recommends buying on dips, citing a constructive view on AI, stronger earnings at related hardware names, and further room for retail inflows.
-
----
-
-### 2026-06-25 11:19:36  #其他
-
-【我國產品碳足跡管理體系建設和適應氣候變化進展相關報告發布】6月25日，生態環境部召開6月例行新聞釋出會，生態環境部新聞發言人裴曉菲表示，在今年“全國低碳日”活動現場，生態環境部發布了《產品碳足跡管理體系建設進展報告（2026）》和《中國適應氣候變化進展報告（2025）》。《產品碳足跡管理體系建設進展報告（2026）》系統梳理了2025年以來各部門工作進展及地方實踐。報告顯示，我國產品碳足跡核算標準體系日趨完善，印發《產品碳足跡因子資料庫建設工作指引》，產品碳足跡工作從核算走向應用。《中國適應氣候變化進展報告（2025）》顯示，全球氣候變暖趨勢仍在持續。我國區域性、階段性高溫熱浪頻發，降水極端性突出，對自然生態系統和經濟社會系統造成顯著影響。面對複雜嚴峻形勢，各地各部門有效防範應對，推動適應氣候變化重點工作取得實效。（生態環境部）
-
----
-
-### 2026-06-25 11:19:19  #宏觀
-
-【生態環境部：五大攻堅行動集中解決“家門口”的突出水環境問題】生態環境部今天（25日）舉行6月例行新聞釋出會，有關負責人介紹，未來，不僅要把大江大河、重要湖泊建成美麗河湖，還要努力把群眾身邊的小微水體建成一個個美麗水細胞，讓老百姓真切感受到河湖之美、生態之變。生態環境部水生態環境司司長 蔣火華：我們聚焦群眾反映的突出問題，會同國家發展改革委、工信部、住建部、水利部、農業農村部精準部署五大攻堅行動：工業園區水汙染整治、縣鄉黑臭水體治理、畜禽糞汙綜合治理、鄉村河湖庫管護、小微水體排查整治。集中力量解決老百姓“家門口”的突出水環境問題，推動群眾身邊水體實現三個基本目標：無異色、無異味、無異物。據介紹，生態環境部將強化源頭治理，緊盯工業、城鎮生活、農業農村三大汙染源，透過強化工業企業汙染防控、加強城鎮生活汙水收集處理、推動養殖業清潔生產、強化入河汙染物管控，從源頭推動生產生活方式綠色低碳轉型，從根本上著力解決水汙染問題。同時加強監測執法，把水質監測網路從大江大河向小微水體延伸，強化對製造、加工、修理等規模以下工業企業以及畜禽養殖場（戶）的現場執法監管，對群眾反覆投訴、久拖不決的水汙染難題推動納入生態環保督察，壓實各方責任，做到群眾身邊水體有人管、管得住、管得好。
 
 ---

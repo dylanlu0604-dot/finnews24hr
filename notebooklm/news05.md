@@ -1,7 +1,117 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-06-29 03:42:00_
-_本檔包含 3467 則快訊，約 664587 字_
+_更新時間：2026-06-29 04:30:03_
+_本檔包含 3455 則快訊，約 665383 字_
+
+---
+
+### 2026-06-23 08:01:15  #MKT News #Market Regions #Japan & APAC #Nikkei 225 #Impact bullish
+
+Japan's Nikkei 225 opened up 117.24 points, or 0.16%, at 72,471.20 on Tuesday, June 23.
+
+---
+
+### 2026-06-23 08:01:13  #MKT News
+
+South Korea's KOSPI opened down 13.46 points, or 0.15%, at 9,101.09 on Tuesday, June 23.
+
+---
+
+### 2026-06-23 08:00:59  #其他
+
+【網警依法查處編造傳播涉農網路謠言案 全力護航“三夏”生產】當前，正值“三夏”生產關鍵時期，各地搶抓農時、爭分奪秒開展夏收，全力保障夏糧顆粒歸倉。個別不法網民為博取關注、吸粉引流，透過網路平臺肆意編造、擺拍、釋出涉農虛假資訊，誤導公眾認知，製造社會焦慮，擾亂農業生產秩序，挑戰法律底線。
+
+近日，河南公安機關網安部門迅速行動，依法查處一批涉農網路謠言案件，堅決維護網路環境清朗和農業生產大局穩定。
+
+經查，網民祁某、劉某、周某、吳某、張某、侯某、劉某、王某、馬某等多人釋出涉安陽、商丘、周口、濟源等地“毀糧賣青”“誰在麥田下投毒”“麥田流血水”等多條涉農網路謠言資訊，引發大範圍傳播，誤導公眾認知，造成不良社會影響。
+
+目前，屬地公安機關已對上述人員依法作出行政處罰。
+
+網警提醒：網路空間不是法外之地！“三夏”生產關乎國家糧食安全和千家萬戶生計，請廣大網民自覺遵守法律法規，不造謠、不信謠、不傳謠。公安網安部門將持續保持嚴打高壓態勢，對造謠傳謠行為依法打處，全力為“三夏”生產保駕護航。
+
+---
+
+### 2026-06-23 08:00:38  #市場 #國際
+
+韓國綜合股價指數（KOSPI）開盤下跌0.3%，至9083.54點。
+
+---
+
+### 2026-06-23 08:00:32  #市場 #焦點
+
+比特幣升破64000美元，日內漲1.09%。
+
+---
+
+### 2026-06-23 08:00:14  #市場
+
+日經225指數上午開盤報72404.37點，漲幅0.07%。
+
+---
+
+### 2026-06-23 07:59:45  #公司 #觀點
+
+【中信建投：半導體裝置全球景氣週期持續確認，關注零部件漲價情況】中信建投研報表示，SEMI上修全年預期、海力士2034年產能翻三倍，全球半導體景氣週期持續確立。SEMI於6月11日釋出報告，將2026年全球前段半導體裝置市場規模增速預期從此前的16.5%大幅上調至23.5%，達1522億美元。Q1全球半導體裝置出貨額達365.5億美元，同比+14%，創下歷史單季度新高。本月初公佈SK海力士五年產能翻倍的計劃後，SK集團會長崔泰源近日受訪時進一步透露，如果所有建設計劃按預期推進，那海力士的產能到2034年將是當前的三倍。零部件環節是本輪行情彈性最大的方向。全球半導體裝置零部件正經歷一輪歷史罕見的全鏈條漲價潮。半導體產業鏈的定價權正從晶片終端向裝置與零部件環節結構性上移。
+
+---
+
+### 2026-06-23 07:59:23  #公司
+
+【深化併購重組與再融資改革 推動上市公司提質增效】併購重組與再融資，已經成為上市公司提質增效，助力新質生產力發展的重要抓手。證監會主席吳清近日在陸家嘴論壇上表示，將大力支援上市公司併購重組及再融資，進一步釋放資本市場改革紅利，持續暢通科技、產業、資本三者良性迴圈。平安證券投行事業部副總經理彭朝暉認為，政策明確向經營穩健的優質主體、深耕硬科技的科創主體傾斜，引導上市公司聚焦主業，透過產業整合培育核心競爭力，推動上市公司質量穩步提升，充分發揮資本市場賦能產業升級功能。
+
+---
+
+### 2026-06-23 07:59:11  #其他
+
+市場訊息：達能正考慮在澳大利亞和紐西蘭進行更多收購。
+
+---
+
+### 2026-06-23 07:58:58  #國際
+
+美國海岸警衛隊：阿拉斯加直升機墜毀事故中4名機組人員安全。
+
+---
+
+### 2026-06-23 07:58:35  #國際
+
+美國海岸警衛隊：正在調查阿拉斯加墜機事故原因。
+
+---
+
+### 2026-06-23 07:58:31  #經濟數據 #英國
+
+【英國政府利息支出創歷年5月份最高紀錄】據路透社報道，由於債務利息支出大漲，英國中央政府今年5月份的公共借款數量大幅超過去年同期水平。
+
+---
+
+### 2026-06-23 07:58:28  #MKT News #WTI #Impact mixed #Brent
+
+【CITIC Securities: Nuclear issue unlikely to yield effective results within 60 days】After the Islamabad MoU, substantive US–Iran talks have opened, but CITIC Securities says the main near-term risk is domestic political pressure in the US, Israel and Iran rather than an immediate war. Keeping the Strait of Hormuz fully open faces significant hurdles; apart from proxy-force dynamics, meaningful progress on the nuclear file within 60 days is unlikely and a prolonged stalemate is possible — lowering the odds of rapid large-scale conflict but also of a stable agreement. Strategically, the episode will push Gulf states back toward a security-first governance posture since the Arab Spring while sharpening incentives for economic diversification, potentially creating cooperation opportunities for China in traditional and new energy and the digital economy.
+
+---
+
+### 2026-06-23 07:57:42  #其他
+
+【各地“十五五”規劃勾勒消費升級路線圖 健康消費站上“C位”】梳理各省份“十五五”規劃綱要，最佳化消費供給成為各地擴內需的發力重點，其中服務消費與新型消費被置於突出位置。各省錨定發展型、改善型、新型消費三條主線，培育構建多層次、多元化的消費體系，謀劃挖掘增量空間、培育新的增長動能，持續夯實經濟增長的內生動能。“十五五”規劃綱要提出，提高發展型消費比重。服務消費中包含大量發展型消費，如教育和培訓消費、健康消費等。梳理各省規劃，健康消費站上了挖潛消費市場增量的“C位”，幾乎所有省份都在規劃中提及發展醫療健康、康復療養等健康消費關鍵詞。（證券時報）
+
+---
+
+### 2026-06-23 07:55:53  #觀點
+
+【中信建投：當前保險板塊估值具有較高配置價值】中信建投研報表示，建議關注頭部券商與合規優勢險企的相對受益邏輯。當前保險板塊估值具有較高配置價值，當前股價過度反映低利率和較高基數帶來的潛在業績增速壓力，資產端回暖有望帶動二季度利潤增速和股價修復。
+
+---
+
+### 2026-06-23 07:55:04  #央行 #美聯儲
+
+【關鍵資料公佈在即 美聯儲緊縮預期引市場擔憂】美元兌日元匯率22日早盤徘徊在161.55一線，顯示市場認為美國貨幣政策緊縮預期可能推高美元兌日元匯率。本週，美國將公佈最新的通脹資料，濃重的穩通脹緊縮政策氣氛縈繞，更廣泛的資本市場定價調整風險受到各方關注。市場本週將密切關注美國5月個人消費支出（PCE）價格指數與採購經理人指數（PMI）初值。美聯儲日前釋放下一步存在加息可能性的訊號後，該組資料被市場認為是進一步行動的佐證和指引。
+
+---
+
+### 2026-06-23 07:54:51  #MKT News #Market Themes #AI Revolution #CSI300 #Impact bullish #Hang Seng Index
+
+【CITIC Securities: Non-bank financials poised for multiple catalysts】CITIC Securities says this edition of the Lujiazui Forum should exert three constructive forces on non-bank finance: capital markets supplying incremental financing, an improved regulatory framework, and liquidity measures to curb risk. Securities firms are the most direct beneficiaries: the STAR Market’s fifth-set standards have been widened to cover AI large models, and combined with derivatives liberalization and cross-border business innovation, investment banking and FICC show clear upside. Insurance reforms to align reporting and banking (reporting-and-banking unification) should compress channel fees and liability costs; cleanup of disorderly competition will accelerate consolidation and reinforce compliance advantages at top insurers. The PBOC has created a liquidity support facility for non-banks, building a multi-layered risk-mitigation mechanism. Direct financing’s share has overtaken bank loans for the first time, providing structural support to brokers’ long-term ROE. Analysts recommend focusing on leading brokerages and insurers with compliance strength. Insurance sector valuations look attractive; current share prices overstate near-term earnings drag from low rates and high base effects, while asset-side recovery could boost Q2 profit growth and trigger price repair.
 
 ---
 
@@ -20775,179 +20885,5 @@ QatarEnergy confirmed an operational incident during start-up at Ras Laffan Indu
 ### 2026-06-22 04:35:13  #MKT News #WTI #Impact bearish #Brent #XAUUSD
 
 【US diplomat says progress in US-Iran talks on keeping Strait of Hormuz open】A US diplomat told Axios that US-Iran talks, which began Sunday morning local time and have continued in various formats with minimal interruption, made progress on keeping the Strait of Hormuz fully open after recent Iranian statements about possible closure. The talks also addressed a Lebanon de‑escalation mechanism and ceasefire implementation. The diplomat said discussions covered all components of the nuclear agreement and were productive on implementing a memorandum of understanding, aligning positions, and planning political and technical follow‑up.
-
----
-
-### 2026-06-22 04:27:31  #國際
-
-伊朗廣播電視臺一名記者表示，目前尚無法確認談判是否已經結束，但種種跡象顯示伊朗代表團或許正準備返回伊朗。
-
----
-
-### 2026-06-22 04:26:05  #國際
-
-伊朗革命衛隊聖城旅指揮官伊斯梅爾·卡阿尼警告以色列，若繼續推行當下政策，以色列或將重演2000年從黎巴嫩南部撤軍的結局。
-
----
-
-### 2026-06-22 04:25:20  #國際
-
-以色列一名高階安全官員表示，若再度嘗試將伊朗議題與黎巴嫩議題分割處理，只會惡化以美關係。
-
----
-
-### 2026-06-22 04:21:49  #國際
-
-【美國外交官：美伊談判富有建設性】一名美國外交官透露，美伊談判於週日上午啟動，此後幾乎不間斷持續推進，磋商議題涵蓋黎巴嫩衝突隔離機制、停火安排、伊朗核計劃以及霍爾木茲海峽通航事宜，美方著重強調海峽必須保持暢通。該外交官表示，雙方圍繞落實諒解備忘錄、推進後續政治與技術層面磋商的討論富有建設性。
-
----
-
-### 2026-06-22 04:19:01  #MKT News #WTI #Impact bearish #Brent
-
-Axios: U.S. diplomats say Iran talks are focused on a Lebanon conflict de-escalation mechanism and on implementing a ceasefire agreement.
-
----
-
-### 2026-06-22 04:18:47  #國際
-
-美國外交官就伊朗談判表態：重點是建立黎巴嫩去衝突機制以及落實停火協議。
-
----
-
-### 2026-06-22 04:18:39  #焦點 #國際
-
-美國外交官談伊朗談判：在維持霍爾木茲海峽暢通方面已取得良好進展。
-
----
-
-### 2026-06-22 04:18:25  #MKT News #Important #WTI #Impact bearish #Brent
-
-Axios reported U.S. diplomats said they have made good progress in keeping the Strait of Hormuz open.
-
----
-
-### 2026-06-22 04:15:37  #MKT News #Commodities #Energy #Brent #Impact bullish #WTI
-
-Insiders report an explosion at the Barzan gas plant in Ras Laffan, Qatar; cause cited as "operational error".
-
----
-
-### 2026-06-22 04:15:04  #MKT News #WTI #Impact bearish #XAUUSD #S&P500 #Impact bullish
-
-【Egypt, Pakistan, Saudi Arabia, Turkey foreign ministers meet in Cairo】Foreign ministers of Egypt, Pakistan, Saudi Arabia and Turkey met in Cairo on the 21st and issued a joint statement saying the US‑Iran conflict poses significant risks to regional security, international energy markets, maritime trade routes, global supply chains and international trade. They welcomed the recent US‑Iran memorandum of understanding as a constructive step toward de‑escalation and urged all parties to honor commitments. The ministers said the US and Iran should sustain current momentum, promptly complete next‑stage talks and agree a durable, verifiable and mutually acceptable solution that addresses regional states' concerns.
-
----
-
-### 2026-06-22 04:12:16  #國際
-
-【埃及、巴基斯坦、沙特、土耳其外長在開羅舉行會談】埃及外長阿卜杜勒阿提、巴基斯坦副總理兼外交部長達爾、沙烏地阿拉伯外交大臣費薩爾和土耳其外長費丹21日在開羅舉行會談，就包括伊朗問題在內的當前地區局勢交換意見。埃及、巴基斯坦、沙特、土耳其當天釋出聯合宣告稱，美國與伊朗衝突對地區安全與穩定、國際能源市場、海上航線、全球供應鏈和國際貿易構成重大風險。各方對近期美伊簽署諒解備忘錄表示歡迎，認為這對推動局勢緩和、結束地區衝突起建設性作用，並強調有關方應忠實履行承諾。（新華社）
-
----
-
-### 2026-06-22 04:11:16  #MKT News
-
-According to Iran's Press TV, four-party talks in Switzerland have ended after Iran's delegation walked out.
-
----
-
-### 2026-06-22 04:10:02  #焦點 #國際
-
-伊朗新聞電視臺稱，在瑞士舉行的四方會談結束後，伊朗代表團已離場。
-
----
-
-### 2026-06-22 04:08:11  #MKT News
-
-A U.S. diplomat participating in talks in Switzerland told Axios he expects negotiations with Iran and mediators from Pakistan and Qatar to continue overnight.
-
----
-
-### 2026-06-22 04:07:15  #國際
-
-一名參與瑞士談判的美國外交官透露，預計美方與伊朗、巴基斯坦及卡達斡旋方的磋商將持續至深夜。
-
----
-
-### 2026-06-22 04:02:42  #焦點 #國際
-
-土耳其外交部長警告，以色列存在破壞美伊協議的風險。
-
----
-
-### 2026-06-22 04:01:54  #MKT News #WTI #Impact bearish #Brent
-
-A U.S. diplomat said the Iranian delegation remains in Switzerland and nuclear talks are continuing; intensive negotiations on all elements of a nuclear agreement are underway, with some sessions focused on clarifying confusion about the Strait of Hormuz to ensure it remains open.
-
----
-
-### 2026-06-22 04:01:54  #MKT News #Important #Commodities #Energy
-
-Qatar's Ministry of Interior said the Ras Laffan plant explosion was caused by a "technical accident".
-
----
-
-### 2026-06-22 04:01:20  #其他
-
-卡達內政部表示，拉斯拉凡工業園區一家工廠發生的爆炸由“技術事故”導致。
-
----
-
-### 2026-06-22 03:55:08  #其他
-
-卡達內政部報告稱，拉斯拉凡一處工廠發生爆炸，目前尚無人員傷亡報告，也未發生洩漏。
-
----
-
-### 2026-06-22 03:54:06  #MKT News #Important
-
-Qatar's Ministry of Interior said an explosion occurred inside a factory in the Ras Laffan industrial area; no casualties or leaks have been reported so far.
-
----
-
-### 2026-06-22 03:51:28  #國際
-
-以色列國家安全部長本-格維爾談及特朗普： 美方此番（談判）想法未免有些天真，是典型的美式天真。
-
----
-
-### 2026-06-22 03:50:47  #國際
-
-以色列國家安全部長本-格維爾： 對待伊朗人，妥協毫無意義，簽署協議也毫無意義。 必須轟炸伊朗，反覆轟炸，持續打擊。 對待真主黨也是同理——持續轟炸，一輪又一輪地打擊。這才是可行之道。 任何人想譴責我都悉聽尊便，全世界的人想說什麼都隨便。我由衷堅信這套主張。
-
----
-
-### 2026-06-22 03:50:10  #其他
-
-卡達多哈、巴林境內傳來劇烈爆炸聲，當地伴有震感。
-
----
-
-### 2026-06-22 03:45:46  #MKT News #Important
-
-Refinitiv reported a loud explosion was heard in Doha, Qatar.
-
----
-
-### 2026-06-22 03:45:21  #其他
-
-目擊者：卡達多哈傳來巨大爆炸聲。
-
----
-
-### 2026-06-22 03:43:21  #MKT News
-
-President Trump said that after the U.S. spent tens of trillions of dollars defending NATO, Italy and its prime minister never even considered intervening against Iran and its nuclear threat. He said that despite decades of U.S. protection they were not there when tested and when the U.S. and other nations needed them most, calling it very disappointing.
-
----
-
-### 2026-06-22 03:43:05  #國際
-
-【特朗普：義大利並未承擔保衛美國的職責】特朗普在社交媒體發文稱：“我們已為北約投入數萬億美元，可義大利及其總理，卻壓根不願介入應對伊朗及其嚴峻的核威脅問題。數十年來，一直是我們在保護他們，可一旦到了需要出力的時候，他們卻不肯站出來守護我們乃至世界其他地區。情況很糟糕。”
-
----
-
-### 2026-06-22 03:42:19  #國際
-
-烏克蘭總統澤連斯基：烏克蘭襲擊了被佔領克里米亞的油庫以及俄羅斯克拉斯諾達爾邊疆區一處石油運輸設施。
 
 ---

@@ -1,7 +1,193 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-06-29 03:42:00_
-_本檔包含 3509 則快訊，約 666484 字_
+_更新時間：2026-06-29 04:30:03_
+_本檔包含 3523 則快訊，約 665554 字_
+
+---
+
+### 2026-06-24 09:32:38  #MKT News #Important #Market Regions #Greater China #CSI300 #Impact bullish #SSE Composite
+
+【Total margin financing and securities‑lending balance tops 3.0 tln yuan for first time】As of June 23, total margin financing and securities‑lending balance across Shanghai, Shenzhen and Beijing stood at 3.000971 tln yuan, the first time above 3.0 tln, up 5.94 bln yuan versus the prior trading day. Financing balance was 2.978993 tln yuan, up 6.137 bln yuan.
+
+---
+
+### 2026-06-24 09:32:33  #市場 #焦點
+
+北證50日內跌幅達1.04%，成分股中，艾融軟體跌7.34%，諾思蘭德跌5.22%，德源藥業跌4.11%，聚星科技跌4.10%。
+
+---
+
+### 2026-06-24 09:32:30  #市場
+
+【PCB概念股盤初拉昇，西隴科學2連板】PCB概念股盤初拉昇，西隴科學2連板，滿坤科技、瑞華泰、世名科技、博敏電子、興森科技跟漲。
+
+---
+
+### 2026-06-24 09:32:21  #公司
+
+新年68歲的軟銀集團CEO孫正義表示，他準備到70多歲時仍繼續領導公司。
+
+---
+
+### 2026-06-24 09:31:56  #經濟數據 #澳洲
+
+澳大利亞5月季調後CPI同比增長4%，前值4.2%。
+
+---
+
+### 2026-06-24 09:31:42  #MKT News #Market Regions #Greater China #Hang Seng Index #Impact bullish
+
+Hong Kong stocks widened gains; Hang Seng Tech Index up 1%, HSI up 0.5%.
+
+---
+
+### 2026-06-24 09:31:37  #MKT News
+
+Australia May seasonally adjusted CPI MoM -0.1%; prior -0.1%.
+
+---
+
+### 2026-06-24 09:31:26  #MKT News #AUDUSD #Impact bearish
+
+Australia May seasonally adjusted CPI YoY 4.0%, down from 4.2% in April.
+
+---
+
+### 2026-06-24 09:31:25  #MKT News #Market Regions #Greater China #CSI300 #Impact bullish #SSE Composite #SZSE Component
+
+【China equity index futures open】China equity index futures opened higher: CSI 300 futures (IF) main contract +0.24%, SSE 50 futures (IH) +0.18%, CSI 500 futures (IC) +0.72%, CSI 1000 futures (IM) +0.47%.
+
+---
+
+### 2026-06-24 09:31:22  #MKT News
+
+【China government bond futures open morning session】China government bond futures opened higher in the morning session: 2-year (TS) main contract +0.01%, 5-year (TF) +0.02%, 10-year (T) +0.02%, 30-year (TL) +0.04%.
+
+---
+
+### 2026-06-24 09:31:12  #市場
+
+創業板指率先翻紅，滬指跌幅收窄至0.11%。
+
+---
+
+### 2026-06-24 09:31:10  #MKT News
+
+China's ChiNext Index led gains, turning positive; Shanghai Composite's decline narrowed to 0.11%.
+
+---
+
+### 2026-06-24 09:31:04  #市場 #國際
+
+40年期日本國債收益率上升1個基點，至3.770%。
+
+---
+
+### 2026-06-24 09:31:03  #MKT News #AUDUSD #Impact bearish #DXY #Impact bullish
+
+Australia May non-seasonally adjusted CPI MoM -0.7% (est. -0.4%), prior +0.4%.
+
+---
+
+### 2026-06-24 09:30:56  #MKT News #Important #DXY #Impact bullish #WTI #Impact bearish #Copper
+
+Australia May unadjusted CPI YoY 4.0%, versus 4.3% consensus and prior 4.2%.
+
+---
+
+### 2026-06-24 09:30:55  #公司 #市場
+
+【鋰電池電解液概念盤初活躍 孚日股份一字漲停】早盤鋰電池電解液概念活躍，孚日股份一字漲停，海科新源、華盛鋰電、海辰藥業、永太科技、奧克股份漲幅靠前。
+
+---
+
+### 2026-06-24 09:30:52  #MKT News #Market Themes #Chip Wars #CSI300 #Impact bearish
+
+A-share storage-chip sector pulled back in early trade; Yuanlin Co. hit the daily down limit, Huate Gas fell over 6%, and Jinhong Gas, Guanggang Gas and Shengmei Shanghai also declined.
+
+---
+
+### 2026-06-24 09:30:36  #資料
+
+澳大利亞5月消費者價格指數(CPI)環比下降0.7%。
+
+---
+
+### 2026-06-24 09:30:32  #市場 #焦點
+
+恒生科技指數漲超1%，現報4445.790點；恒生指數現漲0.574%。
+
+---
+
+### 2026-06-24 09:30:29  #資料 #市場
+
+澳大利亞5月整體消費者價格指數(CPI)同比上漲4%。
+
+---
+
+### 2026-06-24 09:30:24  #資料
+
+澳大利亞5月澳洲儲備銀行加權中位數CPI同比上升3.6%。
+
+---
+
+### 2026-06-24 09:30:08  #MKT News #Market Regions #Emerging Markets
+
+Indonesia Financial Services Authority (OJK) said that while it has received positive recognition, global index reviews are not the ultimate goal; OJK will continue to strengthen and accelerate implementation of its reform agenda.
+
+---
+
+### 2026-06-24 09:30:03  #市場
+
+【國債期貨開盤】 30年期主力合約漲0.04%， 10年期主力合約漲0.04%， 5年期主力合約漲0.02%， 2年期主力合約跌0.01%。
+
+---
+
+### 2026-06-24 09:30:03  #市場
+
+【股指期貨早盤開盤】 中證1000指數期貨連續漲0.38%， 滬深300指數期貨連續漲0.42%， 中證500指數期貨連續漲0.41%， 上證50指數期貨連續漲0.21%。
+
+---
+
+### 2026-06-24 09:29:43  #MKT News #Market Regions #Emerging Markets
+
+Indonesia's Financial Services Authority (OJK) said it and market operators will deepen engagement with global index providers and investors.
+
+---
+
+### 2026-06-24 09:29:30  #公司
+
+【惠威科技新設子公司 含多項AI業務】企查查APP顯示，近日，深圳惠威智慧有限公司成立，經營範圍包含：人工智慧應用軟體開發；人工智慧基礎軟體開發；軟體開發；人工智慧通用應用系統等。企查查股權穿透顯示，該公司由惠威科技(002888)全資持股。
+
+---
+
+### 2026-06-24 09:29:29  #MKT News
+
+China A-share lab-grown diamond sector weakened, with Huifeng Diamond down nearly 8% and Liliang Diamond off 5%; Sifangda, Boyun New Materials, Huanghe Whirlwind and Zhongbing Hongjian also fell.
+
+---
+
+### 2026-06-24 09:29:22  #MKT News
+
+Indonesia Financial Services Authority (OJK) said MSCI's review results provide impetus to accelerate capital market reforms.
+
+---
+
+### 2026-06-24 09:29:12  #MKT News #Market Regions #Emerging Markets
+
+Indonesia Financial Services Authority welcomes MSCI's decision to retain Indonesia's emerging-market classification.
+
+---
+
+### 2026-06-24 09:27:27  #市場
+
+【新股N臻寶高開超900%】新股N臻寶高開超900%，根據招股書，臻寶科技專注於積體電路及顯示面板刻蝕、薄膜沉積和蒸鍍裝置真空腔內零部件及零部件表面處理服務等。
+
+---
+
+### 2026-06-24 09:27:24  #MKT News #Market Regions #Greater China #SSE Composite #Impact bearish #SZSE Component #CSI300
+
+At the open on Wednesday, June 24, China's Shanghai Composite Index fell 16.15 pts (-0.39%) to 4,090.10; Shenzhen Composite Index fell 71.80 pts (-0.45%) to 15,782.40; CSI 300 Index fell 19.00 pts (-0.39%) to 4,900.38; ChiNext Index fell 10.29 pts (-0.25%) to 4,181.91; STAR 50 Index fell 19.87 pts (-1.04%) to 1,896.34.
 
 ---
 
@@ -21071,115 +21257,5 @@ US Futures Edge Lower After Tech-Led Drop — US stock futures edged lower on Tu
 ### 2026-06-23 08:02:42  #觀點
 
 【中信建投：一季度疫苗產品批簽發同比增長 多款產品及新適應症獲批】 中信建投證券研報指出，2026年一季度疫苗行業整體批簽發次數為875批次，同比增加14.1%，主要由於脊髓灰質炎疫苗、麻腮風疫苗、肝炎疫苗等產品簽發批次大幅增長所致。研發方面，2026年一季度成大生物人二倍體狂苗、康希諾MCV4擴齡及組分百白破疫苗、康泰生物四價流感裂解疫苗等產品或新適應症獲批；另有多款產品處於上市審評階段。2026年疫苗行業應關注：1）創新疫苗管線後續研發節點及對外授權預期。2）產品銷售改善，疊加新品上市貢獻業績增量。3）股權變更後續進展。
-
----
-
-### 2026-06-23 08:01:15  #MKT News #Market Regions #Japan & APAC #Nikkei 225 #Impact bullish
-
-Japan's Nikkei 225 opened up 117.24 points, or 0.16%, at 72,471.20 on Tuesday, June 23.
-
----
-
-### 2026-06-23 08:01:13  #MKT News
-
-South Korea's KOSPI opened down 13.46 points, or 0.15%, at 9,101.09 on Tuesday, June 23.
-
----
-
-### 2026-06-23 08:00:59  #其他
-
-【網警依法查處編造傳播涉農網路謠言案 全力護航“三夏”生產】當前，正值“三夏”生產關鍵時期，各地搶抓農時、爭分奪秒開展夏收，全力保障夏糧顆粒歸倉。個別不法網民為博取關注、吸粉引流，透過網路平臺肆意編造、擺拍、釋出涉農虛假資訊，誤導公眾認知，製造社會焦慮，擾亂農業生產秩序，挑戰法律底線。
-
-近日，河南公安機關網安部門迅速行動，依法查處一批涉農網路謠言案件，堅決維護網路環境清朗和農業生產大局穩定。
-
-經查，網民祁某、劉某、周某、吳某、張某、侯某、劉某、王某、馬某等多人釋出涉安陽、商丘、周口、濟源等地“毀糧賣青”“誰在麥田下投毒”“麥田流血水”等多條涉農網路謠言資訊，引發大範圍傳播，誤導公眾認知，造成不良社會影響。
-
-目前，屬地公安機關已對上述人員依法作出行政處罰。
-
-網警提醒：網路空間不是法外之地！“三夏”生產關乎國家糧食安全和千家萬戶生計，請廣大網民自覺遵守法律法規，不造謠、不信謠、不傳謠。公安網安部門將持續保持嚴打高壓態勢，對造謠傳謠行為依法打處，全力為“三夏”生產保駕護航。
-
----
-
-### 2026-06-23 08:00:38  #市場 #國際
-
-韓國綜合股價指數（KOSPI）開盤下跌0.3%，至9083.54點。
-
----
-
-### 2026-06-23 08:00:32  #市場 #焦點
-
-比特幣升破64000美元，日內漲1.09%。
-
----
-
-### 2026-06-23 08:00:14  #市場
-
-日經225指數上午開盤報72404.37點，漲幅0.07%。
-
----
-
-### 2026-06-23 07:59:45  #公司 #觀點
-
-【中信建投：半導體裝置全球景氣週期持續確認，關注零部件漲價情況】中信建投研報表示，SEMI上修全年預期、海力士2034年產能翻三倍，全球半導體景氣週期持續確立。SEMI於6月11日釋出報告，將2026年全球前段半導體裝置市場規模增速預期從此前的16.5%大幅上調至23.5%，達1522億美元。Q1全球半導體裝置出貨額達365.5億美元，同比+14%，創下歷史單季度新高。本月初公佈SK海力士五年產能翻倍的計劃後，SK集團會長崔泰源近日受訪時進一步透露，如果所有建設計劃按預期推進，那海力士的產能到2034年將是當前的三倍。零部件環節是本輪行情彈性最大的方向。全球半導體裝置零部件正經歷一輪歷史罕見的全鏈條漲價潮。半導體產業鏈的定價權正從晶片終端向裝置與零部件環節結構性上移。
-
----
-
-### 2026-06-23 07:59:23  #公司
-
-【深化併購重組與再融資改革 推動上市公司提質增效】併購重組與再融資，已經成為上市公司提質增效，助力新質生產力發展的重要抓手。證監會主席吳清近日在陸家嘴論壇上表示，將大力支援上市公司併購重組及再融資，進一步釋放資本市場改革紅利，持續暢通科技、產業、資本三者良性迴圈。平安證券投行事業部副總經理彭朝暉認為，政策明確向經營穩健的優質主體、深耕硬科技的科創主體傾斜，引導上市公司聚焦主業，透過產業整合培育核心競爭力，推動上市公司質量穩步提升，充分發揮資本市場賦能產業升級功能。
-
----
-
-### 2026-06-23 07:59:11  #其他
-
-市場訊息：達能正考慮在澳大利亞和紐西蘭進行更多收購。
-
----
-
-### 2026-06-23 07:58:58  #國際
-
-美國海岸警衛隊：阿拉斯加直升機墜毀事故中4名機組人員安全。
-
----
-
-### 2026-06-23 07:58:35  #國際
-
-美國海岸警衛隊：正在調查阿拉斯加墜機事故原因。
-
----
-
-### 2026-06-23 07:58:31  #經濟數據 #英國
-
-【英國政府利息支出創歷年5月份最高紀錄】據路透社報道，由於債務利息支出大漲，英國中央政府今年5月份的公共借款數量大幅超過去年同期水平。
-
----
-
-### 2026-06-23 07:58:28  #MKT News #WTI #Impact mixed #Brent
-
-【CITIC Securities: Nuclear issue unlikely to yield effective results within 60 days】After the Islamabad MoU, substantive US–Iran talks have opened, but CITIC Securities says the main near-term risk is domestic political pressure in the US, Israel and Iran rather than an immediate war. Keeping the Strait of Hormuz fully open faces significant hurdles; apart from proxy-force dynamics, meaningful progress on the nuclear file within 60 days is unlikely and a prolonged stalemate is possible — lowering the odds of rapid large-scale conflict but also of a stable agreement. Strategically, the episode will push Gulf states back toward a security-first governance posture since the Arab Spring while sharpening incentives for economic diversification, potentially creating cooperation opportunities for China in traditional and new energy and the digital economy.
-
----
-
-### 2026-06-23 07:57:42  #其他
-
-【各地“十五五”規劃勾勒消費升級路線圖 健康消費站上“C位”】梳理各省份“十五五”規劃綱要，最佳化消費供給成為各地擴內需的發力重點，其中服務消費與新型消費被置於突出位置。各省錨定發展型、改善型、新型消費三條主線，培育構建多層次、多元化的消費體系，謀劃挖掘增量空間、培育新的增長動能，持續夯實經濟增長的內生動能。“十五五”規劃綱要提出，提高發展型消費比重。服務消費中包含大量發展型消費，如教育和培訓消費、健康消費等。梳理各省規劃，健康消費站上了挖潛消費市場增量的“C位”，幾乎所有省份都在規劃中提及發展醫療健康、康復療養等健康消費關鍵詞。（證券時報）
-
----
-
-### 2026-06-23 07:55:53  #觀點
-
-【中信建投：當前保險板塊估值具有較高配置價值】中信建投研報表示，建議關注頭部券商與合規優勢險企的相對受益邏輯。當前保險板塊估值具有較高配置價值，當前股價過度反映低利率和較高基數帶來的潛在業績增速壓力，資產端回暖有望帶動二季度利潤增速和股價修復。
-
----
-
-### 2026-06-23 07:55:04  #央行 #美聯儲
-
-【關鍵資料公佈在即 美聯儲緊縮預期引市場擔憂】美元兌日元匯率22日早盤徘徊在161.55一線，顯示市場認為美國貨幣政策緊縮預期可能推高美元兌日元匯率。本週，美國將公佈最新的通脹資料，濃重的穩通脹緊縮政策氣氛縈繞，更廣泛的資本市場定價調整風險受到各方關注。市場本週將密切關注美國5月個人消費支出（PCE）價格指數與採購經理人指數（PMI）初值。美聯儲日前釋放下一步存在加息可能性的訊號後，該組資料被市場認為是進一步行動的佐證和指引。
-
----
-
-### 2026-06-23 07:54:51  #MKT News #Market Themes #AI Revolution #CSI300 #Impact bullish #Hang Seng Index
-
-【CITIC Securities: Non-bank financials poised for multiple catalysts】CITIC Securities says this edition of the Lujiazui Forum should exert three constructive forces on non-bank finance: capital markets supplying incremental financing, an improved regulatory framework, and liquidity measures to curb risk. Securities firms are the most direct beneficiaries: the STAR Market’s fifth-set standards have been widened to cover AI large models, and combined with derivatives liberalization and cross-border business innovation, investment banking and FICC show clear upside. Insurance reforms to align reporting and banking (reporting-and-banking unification) should compress channel fees and liability costs; cleanup of disorderly competition will accelerate consolidation and reinforce compliance advantages at top insurers. The PBOC has created a liquidity support facility for non-banks, building a multi-layered risk-mitigation mechanism. Direct financing’s share has overtaken bank loans for the first time, providing structural support to brokers’ long-term ROE. Analysts recommend focusing on leading brokerages and insurers with compliance strength. Insurance sector valuations look attractive; current share prices overstate near-term earnings drag from low rates and high base effects, while asset-side recovery could boost Q2 profit growth and trigger price repair.
 
 ---

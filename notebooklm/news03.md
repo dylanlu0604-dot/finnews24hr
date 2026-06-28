@@ -1,7 +1,103 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-06-29 03:42:00_
-_本檔包含 3828 則快訊，約 665812 字_
+_更新時間：2026-06-29 04:30:03_
+_本檔包含 3813 則快訊，約 665514 字_
+
+---
+
+### 2026-06-25 11:29:45  #其他
+
+【水利部：全國9條河流發生超警以上洪水】從水利部瞭解到，受近期降雨影響，昨天到今天，廣西紅水河支流佈柳河、柳江支流小環江及西河，貴州柳江支流龍江、烏江支流邢江河，四川大渡河支流康定河，江西贛江支流橫江，內蒙古額爾古納河支流免渡河等8條河流發生超警洪水；新疆喀什噶爾河支流恰克馬克河發生短歷時超過保證流量洪水。目前大部河流已退至警戒水位以下。
+
+---
+
+### 2026-06-25 11:29:22  #MKT News #Important #Commodities #Industrial Metals
+
+Indonesia's Ministry of Mining said it has not yet decided on a total nickel ore production quota for fiscal 2026.
+
+---
+
+### 2026-06-25 11:28:54  #國際
+
+印尼礦業部：尚未就2026財年鎳礦石總產量配額做出決定。
+
+---
+
+### 2026-06-25 11:27:46  #其他
+
+【多項成果集中釋出 深圳低空經濟這場年度大會即將舉行】據深圳市低空經濟產業協會訊息，6月26日，深圳市低空經濟產業協會第一屆第四次會員大會暨深圳低空經濟成果釋出會將在深圳國家工程實驗室大樓舉行。本次大會將集中釋出和啟動多項重點成果，包括：《深圳市低空產業人才白皮書》釋出，系統呈現深圳低空經濟人才現狀、崗位需求和培養路徑；低空經濟新職業觀察哨專案啟動，持續關注低空經濟領域新崗位、新職業、新技能的發展變化；2026年團體標準立項揭榜掛帥釋出等。
+
+---
+
+### 2026-06-25 11:27:10  #公司
+
+【攜程集團-S港股跌超10%】攜程集團-S港股跌10.07%，報318.00港元。
+
+---
+
+### 2026-06-25 11:25:42  #MKT News #Important #CSI300 #Impact bullish #SSE Composite #Hang Seng Index
+
+FTSE China A50 futures staged a short-term surge, trading more than 2% higher intraday.
+
+---
+
+### 2026-06-25 11:25:31  #市場 #焦點
+
+富時中國A50指數期貨漲幅擴大至2%。
+
+---
+
+### 2026-06-25 11:25:01  #其他
+
+【阿聯酋石油出口已恢復至戰前水平85%左右】據國際能源署（IEA），阿聯酋依靠其替代航線和輸油管道，6月初石油出口量已恢復至戰前水平的近85%。IEA在一份報告中指出，作為全球第七大石油生產國，阿聯酋的石油供應量實際上在美伊簽署臨時協議之前就已經開始回升。根據該機構統計，在美伊衝突爆發不久後的3月，阿聯酋石油出口量僅為約190萬桶/日，而6月初這一數字躍升至430萬桶/日。
+
+---
+
+### 2026-06-25 11:24:36  #公司
+
+【豆包關聯公司申請註冊“豆包雲”商標】天眼查智慧財產權資訊顯示，近日，豆包關聯公司北京春田知韻科技有限公司申請註冊“豆包雲”商標，國際分類涉及科學儀器、網站服務，當前商標狀態均為等待實質審查。該公司成立於2023年7月，法定代表人為嚴林，註冊資本100萬人民幣，經營範圍包括計算機系統服務、資料處理服務、軟體開發等，由北京抖音資訊服務有限公司全資持股。
+
+---
+
+### 2026-06-25 11:24:23  #其他
+
+【“十四五”碧水保衛戰交出亮眼成績單】生態環境部召開6月例行新聞釋出會，生態環境部水生態環境司司長蔣火華表示，“十四五”全國水生態環境質量實現轉折性變化。2025年，全國地表水好Ⅲ水質比例達到91.4%，劣Ⅴ類斷面比例為0.6%，均為有監測記錄以來最好水平。重點河湖生態流量達標率達到90%以上，累計修復河湖生態緩衝帶長度8600公里，長江江豚種群數量回升至1426頭。長江干流連續6年全線Ⅱ類，黃河干流連續4年全線Ⅱ類。成績的取得是各地區各部門共同努力的結果，一是持續深化水環境治理，二是著力推進水生態保護修復，三是有效防範水環境風險，四是健全完善水生態環境治理體系。
+
+---
+
+### 2026-06-25 11:23:56  #其他
+
+【華為汪濤：產業界需要共同定義面向未來十年的行動通訊網路】6月24日，在2026MWC上海期間，華為副董事長、輪值董事長汪濤在發表主題演講。汪濤表示，展望未來，產業界需要共同定義面向未來十年的行動通訊網路，為此，華為提出幾點倡議：第一，在全球範圍協同，共同推動U6GHz在更多的國家標識為行動通訊的頻譜，為下個十年的全球移動聯接奠定頻譜根基；第二，在3GPP統一標準下，共同推動NTN產業發展，形成以地面為主，天地一體的通訊網路；第三，共同定義下一代AI原生核心網，使能未來智慧體業務；最後，積極探索移動服務新模式、新場景，商網聯動，共創商業新價值。
+
+---
+
+### 2026-06-25 11:23:32  #國際
+
+印尼方面稱阿巴迪液化天然氣專案可能於2027年開工建設。
+
+---
+
+### 2026-06-25 11:23:13  #市場 #國際
+
+菲律賓股市指數上漲1%至6051.92點。
+
+---
+
+### 2026-06-25 11:19:47  #MKT News #Important #Market Themes #AI Revolution
+
+【JP Morgan raises South Korea Kospi bull-case target to 15,000】JP Morgan raised its bull-case target for South Korea's Kospi index to 15,000 and lifted its base and bear targets to 12,500 and 8,000 respectively, implying roughly 77% upside from Wednesday's close of 8,471.02. The bank keeps its highest overweight on Korean equities and recommends buying on dips, citing a constructive view on AI, stronger earnings at related hardware names, and further room for retail inflows.
+
+---
+
+### 2026-06-25 11:19:36  #其他
+
+【我國產品碳足跡管理體系建設和適應氣候變化進展相關報告發布】6月25日，生態環境部召開6月例行新聞釋出會，生態環境部新聞發言人裴曉菲表示，在今年“全國低碳日”活動現場，生態環境部發布了《產品碳足跡管理體系建設進展報告（2026）》和《中國適應氣候變化進展報告（2025）》。《產品碳足跡管理體系建設進展報告（2026）》系統梳理了2025年以來各部門工作進展及地方實踐。報告顯示，我國產品碳足跡核算標準體系日趨完善，印發《產品碳足跡因子資料庫建設工作指引》，產品碳足跡工作從核算走向應用。《中國適應氣候變化進展報告（2025）》顯示，全球氣候變暖趨勢仍在持續。我國區域性、階段性高溫熱浪頻發，降水極端性突出，對自然生態系統和經濟社會系統造成顯著影響。面對複雜嚴峻形勢，各地各部門有效防範應對，推動適應氣候變化重點工作取得實效。（生態環境部）
+
+---
+
+### 2026-06-25 11:19:19  #宏觀
+
+【生態環境部：五大攻堅行動集中解決“家門口”的突出水環境問題】生態環境部今天（25日）舉行6月例行新聞釋出會，有關負責人介紹，未來，不僅要把大江大河、重要湖泊建成美麗河湖，還要努力把群眾身邊的小微水體建成一個個美麗水細胞，讓老百姓真切感受到河湖之美、生態之變。生態環境部水生態環境司司長 蔣火華：我們聚焦群眾反映的突出問題，會同國家發展改革委、工信部、住建部、水利部、農業農村部精準部署五大攻堅行動：工業園區水汙染整治、縣鄉黑臭水體治理、畜禽糞汙綜合治理、鄉村河湖庫管護、小微水體排查整治。集中力量解決老百姓“家門口”的突出水環境問題，推動群眾身邊水體實現三個基本目標：無異色、無異味、無異物。據介紹，生態環境部將強化源頭治理，緊盯工業、城鎮生活、農業農村三大汙染源，透過強化工業企業汙染防控、加強城鎮生活汙水收集處理、推動養殖業清潔生產、強化入河汙染物管控，從源頭推動生產生活方式綠色低碳轉型，從根本上著力解決水汙染問題。同時加強監測執法，把水質監測網路從大江大河向小微水體延伸，強化對製造、加工、修理等規模以下工業企業以及畜禽養殖場（戶）的現場執法監管，對群眾反覆投訴、久拖不決的水汙染難題推動納入生態環保督察，壓實各方責任，做到群眾身邊水體有人管、管得住、管得好。
 
 ---
 
@@ -22892,191 +22988,5 @@ PCB-related stocks on China’s A-share market rallied in early trade; Xilong Sc
 ### 2026-06-24 09:32:44  #MKT News #Market Themes #AI Revolution #02513.HK #Impact bullish #00268.HK #00992.HK
 
 Some Hong Kong AI stocks rose: Zhipu AI (02513.HK) up over 6%; Kingdee International (00268.HK) and Lenovo Group (00992.HK) up over 5%; Cambridge Technology (06166.HK) and GigaDevice (03986.HK) up over 3%.
-
----
-
-### 2026-06-24 09:32:38  #MKT News #Important #Market Regions #Greater China #CSI300 #Impact bullish #SSE Composite
-
-【Total margin financing and securities‑lending balance tops 3.0 tln yuan for first time】As of June 23, total margin financing and securities‑lending balance across Shanghai, Shenzhen and Beijing stood at 3.000971 tln yuan, the first time above 3.0 tln, up 5.94 bln yuan versus the prior trading day. Financing balance was 2.978993 tln yuan, up 6.137 bln yuan.
-
----
-
-### 2026-06-24 09:32:33  #市場 #焦點
-
-北證50日內跌幅達1.04%，成分股中，艾融軟體跌7.34%，諾思蘭德跌5.22%，德源藥業跌4.11%，聚星科技跌4.10%。
-
----
-
-### 2026-06-24 09:32:30  #市場
-
-【PCB概念股盤初拉昇，西隴科學2連板】PCB概念股盤初拉昇，西隴科學2連板，滿坤科技、瑞華泰、世名科技、博敏電子、興森科技跟漲。
-
----
-
-### 2026-06-24 09:32:21  #公司
-
-新年68歲的軟銀集團CEO孫正義表示，他準備到70多歲時仍繼續領導公司。
-
----
-
-### 2026-06-24 09:31:56  #經濟數據 #澳洲
-
-澳大利亞5月季調後CPI同比增長4%，前值4.2%。
-
----
-
-### 2026-06-24 09:31:42  #MKT News #Market Regions #Greater China #Hang Seng Index #Impact bullish
-
-Hong Kong stocks widened gains; Hang Seng Tech Index up 1%, HSI up 0.5%.
-
----
-
-### 2026-06-24 09:31:37  #MKT News
-
-Australia May seasonally adjusted CPI MoM -0.1%; prior -0.1%.
-
----
-
-### 2026-06-24 09:31:26  #MKT News #AUDUSD #Impact bearish
-
-Australia May seasonally adjusted CPI YoY 4.0%, down from 4.2% in April.
-
----
-
-### 2026-06-24 09:31:25  #MKT News #Market Regions #Greater China #CSI300 #Impact bullish #SSE Composite #SZSE Component
-
-【China equity index futures open】China equity index futures opened higher: CSI 300 futures (IF) main contract +0.24%, SSE 50 futures (IH) +0.18%, CSI 500 futures (IC) +0.72%, CSI 1000 futures (IM) +0.47%.
-
----
-
-### 2026-06-24 09:31:22  #MKT News
-
-【China government bond futures open morning session】China government bond futures opened higher in the morning session: 2-year (TS) main contract +0.01%, 5-year (TF) +0.02%, 10-year (T) +0.02%, 30-year (TL) +0.04%.
-
----
-
-### 2026-06-24 09:31:12  #市場
-
-創業板指率先翻紅，滬指跌幅收窄至0.11%。
-
----
-
-### 2026-06-24 09:31:10  #MKT News
-
-China's ChiNext Index led gains, turning positive; Shanghai Composite's decline narrowed to 0.11%.
-
----
-
-### 2026-06-24 09:31:04  #市場 #國際
-
-40年期日本國債收益率上升1個基點，至3.770%。
-
----
-
-### 2026-06-24 09:31:03  #MKT News #AUDUSD #Impact bearish #DXY #Impact bullish
-
-Australia May non-seasonally adjusted CPI MoM -0.7% (est. -0.4%), prior +0.4%.
-
----
-
-### 2026-06-24 09:30:56  #MKT News #Important #DXY #Impact bullish #WTI #Impact bearish #Copper
-
-Australia May unadjusted CPI YoY 4.0%, versus 4.3% consensus and prior 4.2%.
-
----
-
-### 2026-06-24 09:30:55  #公司 #市場
-
-【鋰電池電解液概念盤初活躍 孚日股份一字漲停】早盤鋰電池電解液概念活躍，孚日股份一字漲停，海科新源、華盛鋰電、海辰藥業、永太科技、奧克股份漲幅靠前。
-
----
-
-### 2026-06-24 09:30:52  #MKT News #Market Themes #Chip Wars #CSI300 #Impact bearish
-
-A-share storage-chip sector pulled back in early trade; Yuanlin Co. hit the daily down limit, Huate Gas fell over 6%, and Jinhong Gas, Guanggang Gas and Shengmei Shanghai also declined.
-
----
-
-### 2026-06-24 09:30:36  #資料
-
-澳大利亞5月消費者價格指數(CPI)環比下降0.7%。
-
----
-
-### 2026-06-24 09:30:32  #市場 #焦點
-
-恒生科技指數漲超1%，現報4445.790點；恒生指數現漲0.574%。
-
----
-
-### 2026-06-24 09:30:29  #資料 #市場
-
-澳大利亞5月整體消費者價格指數(CPI)同比上漲4%。
-
----
-
-### 2026-06-24 09:30:24  #資料
-
-澳大利亞5月澳洲儲備銀行加權中位數CPI同比上升3.6%。
-
----
-
-### 2026-06-24 09:30:08  #MKT News #Market Regions #Emerging Markets
-
-Indonesia Financial Services Authority (OJK) said that while it has received positive recognition, global index reviews are not the ultimate goal; OJK will continue to strengthen and accelerate implementation of its reform agenda.
-
----
-
-### 2026-06-24 09:30:03  #市場
-
-【國債期貨開盤】 30年期主力合約漲0.04%， 10年期主力合約漲0.04%， 5年期主力合約漲0.02%， 2年期主力合約跌0.01%。
-
----
-
-### 2026-06-24 09:30:03  #市場
-
-【股指期貨早盤開盤】 中證1000指數期貨連續漲0.38%， 滬深300指數期貨連續漲0.42%， 中證500指數期貨連續漲0.41%， 上證50指數期貨連續漲0.21%。
-
----
-
-### 2026-06-24 09:29:43  #MKT News #Market Regions #Emerging Markets
-
-Indonesia's Financial Services Authority (OJK) said it and market operators will deepen engagement with global index providers and investors.
-
----
-
-### 2026-06-24 09:29:30  #公司
-
-【惠威科技新設子公司 含多項AI業務】企查查APP顯示，近日，深圳惠威智慧有限公司成立，經營範圍包含：人工智慧應用軟體開發；人工智慧基礎軟體開發；軟體開發；人工智慧通用應用系統等。企查查股權穿透顯示，該公司由惠威科技(002888)全資持股。
-
----
-
-### 2026-06-24 09:29:29  #MKT News
-
-China A-share lab-grown diamond sector weakened, with Huifeng Diamond down nearly 8% and Liliang Diamond off 5%; Sifangda, Boyun New Materials, Huanghe Whirlwind and Zhongbing Hongjian also fell.
-
----
-
-### 2026-06-24 09:29:22  #MKT News
-
-Indonesia Financial Services Authority (OJK) said MSCI's review results provide impetus to accelerate capital market reforms.
-
----
-
-### 2026-06-24 09:29:12  #MKT News #Market Regions #Emerging Markets
-
-Indonesia Financial Services Authority welcomes MSCI's decision to retain Indonesia's emerging-market classification.
-
----
-
-### 2026-06-24 09:27:27  #市場
-
-【新股N臻寶高開超900%】新股N臻寶高開超900%，根據招股書，臻寶科技專注於積體電路及顯示面板刻蝕、薄膜沉積和蒸鍍裝置真空腔內零部件及零部件表面處理服務等。
-
----
-
-### 2026-06-24 09:27:24  #MKT News #Market Regions #Greater China #SSE Composite #Impact bearish #SZSE Component #CSI300
-
-At the open on Wednesday, June 24, China's Shanghai Composite Index fell 16.15 pts (-0.39%) to 4,090.10; Shenzhen Composite Index fell 71.80 pts (-0.45%) to 15,782.40; CSI 300 Index fell 19.00 pts (-0.39%) to 4,900.38; ChiNext Index fell 10.29 pts (-0.25%) to 4,181.91; STAR 50 Index fell 19.87 pts (-1.04%) to 1,896.34.
 
 ---

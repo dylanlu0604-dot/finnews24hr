@@ -1,7 +1,181 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-06-29 03:42:00_
-_本檔包含 3514 則快訊，約 665683 字_
+_更新時間：2026-06-29 04:30:03_
+_本檔包含 3529 則快訊，約 665522 字_
+
+---
+
+### 2026-06-29 04:26:24  #其他 #焦點
+
+美伊將於週二在卡達首都多哈會面，磋商霍爾木茲海峽相關爭端。
+
+---
+
+### 2026-06-29 04:23:35  #MKT News #Important #S&P500 #Impact bullish #DXY #Impact bearish #WTI
+
+According to Axios, US officials say the United States and Iran have agreed to halt attacks and will meet this week.
+
+---
+
+### 2026-06-29 04:23:00  #焦點 #國際
+
+美國與伊朗達成共識，雙方停止相互打擊，並將於本週舉行會晤。
+
+---
+
+### 2026-06-29 04:21:54  #MKT News #Important
+
+AP: Pakistan says it conducted ground operations and strikes in an area along the Afghanistan border, killing 29 militants.
+
+---
+
+### 2026-06-29 04:21:53  #央行 #國際
+
+美聯儲官員巴爾金：目前還無法篤定通脹能回落至2%，居民消費旺盛、人工智慧領域投資擴張以及持續存在的定價壓力均是潛在風險。
+
+---
+
+### 2026-06-29 04:21:46  #央行 #國際
+
+美聯儲官員巴爾金：通脹水平依舊過高，但已出現物價壓力有望緩解的初步跡象。
+
+---
+
+### 2026-06-29 04:20:08  #央行 #國際
+
+【美聯儲巴爾金警示通脹仍處高位，但已觀察到通脹緩和跡象】里士滿聯邦儲備銀行行長湯姆·巴爾金表示，當前通脹水平過高，不過他已看到物價壓力或將很快緩和的初步訊號。巴爾金稱，截至5月的個人消費支出物價指數同比上行；若聯邦基金利率、勞動力市場無法進一步發揮抑制作用，很難有把握讓通脹回落至2%目標水平。巴爾金對企業在當前高通脹環境下的定價行為表示擔憂。他指出，企業定價時會將當下通脹水平納入考量，這可能造成通脹黏性、居高不下。
+
+---
+
+### 2026-06-29 04:14:38  #MKT News
+
+Israel's prime minister's office said a destroyed underground tunnel contained hundreds of weapons and several rocket-launch platforms.
+
+---
+
+### 2026-06-29 04:14:35  #MKT News
+
+Israel's prime minister's office said Israeli forces will remain stationed in the security zone in southern Lebanon.
+
+---
+
+### 2026-06-29 04:14:32  #MKT News #XAUUSD #Impact bullish #WTI #DXY
+
+The Israeli Prime Minister's Office said the military will continue to destroy Hezbollah infrastructure and eliminate threats to northern Israeli towns.
+
+---
+
+### 2026-06-29 04:13:40  #其他 #焦點
+
+美聯社：巴基斯坦稱對阿富汗邊境地區發動了襲擊。
+
+---
+
+### 2026-06-29 04:12:21  #國際
+
+以色列：以色列國防軍將繼續留在黎巴嫩南部安全區。
+
+---
+
+### 2026-06-29 04:10:14  #國際
+
+特朗普：國際足聯給出的各項資料遠超歷史上任何一屆世界盃。這是對美國莫大的褒獎。感謝所有人。
+
+---
+
+### 2026-06-29 04:07:32  #國際
+
+以色列：真主黨地道藏有數百件武器。
+
+---
+
+### 2026-06-29 04:05:02  #MKT News #WTI #Impact bullish #Brent #XAUUSD
+
+Israeli prime minister's office said Israel notified the United States in advance that it would carry out strikes against Hezbollah.
+
+---
+
+### 2026-06-29 04:04:56  #MKT News #WTI #Impact bullish #XAUUSD #DXY
+
+【Iran official: Iran absent from US‑Iran technical talks on the 28th citing recent attacks and unmet conditions】An Iranian official said Tehran did not attend the technical talks scheduled on the 28th, citing recent attacks and failure to meet related conditions. US sources said renewed clashes between the US and Iran have stalled plans to resume US‑Iran technical talks in Switzerland this week.
+
+---
+
+### 2026-06-29 04:04:53  #國際
+
+【伊朗官員：受遭襲事件影響 伊方缺席28日的美伊技術性談判】一位伊朗官員稱，伊朗未參加原定於當天舉行的技術性談判，原因是“近期發生的襲擊事件以及未能滿足相關條件”。另據美國方面當天訊息，有知情人士稱，由於美伊兩國再次發生衝突，原定於本週在瑞士恢復美伊技術性談判的計劃陷入停滯。（央視新聞）
+
+---
+
+### 2026-06-29 04:04:22  #國際
+
+以色列總理辦公室：以色列已在襲擊前告知美國。
+
+---
+
+### 2026-06-29 04:03:11  #MKT News #XAUUSD #Impact bullish #DXY #Brent
+
+The Israeli prime minister's office said the Israeli military destroyed underground Hezbollah infrastructure in a village in southern Lebanon.
+
+---
+
+### 2026-06-29 04:03:10  #國際
+
+以色列總理辦公室稱，以色列軍方摧毀了黎巴嫩南部一個村莊內真主黨的地下基礎設施。
+
+---
+
+### 2026-06-29 03:58:44  #國際
+
+普京：所謂“安克雷奇會晤”從未形成任何正式官方檔案。雙方沒有簽署任何書面文書，但當時我們探討了結束烏克蘭衝突的若干可行方案，以及各方正在考量的妥協條款。這些妥協方案正是美方提交給我們的內容。美方談判人員擬定了一系列讓步條件，要求我們接受。而我們當時同意作出這些讓步。
+
+---
+
+### 2026-06-29 03:55:04  #其他
+
+【委內瑞拉強震致中國公民8人遇難 1人失聯】中國駐委內瑞拉大使館通報，截至委內瑞拉當地時間28日15時，據不完全統計，已確認有8名中國公民在委內瑞拉6月24日發生的地震中遇難，1名中國公民失聯，其他人員身份尚在核實。（央視新聞）
+
+---
+
+### 2026-06-29 03:43:33  #MKT News #S&P500 #Impact bullish #DXY #Impact bearish #WTI
+
+Putin said Ukraine has proposed halting mutual attacks on each other's territory.
+
+---
+
+### 2026-06-29 03:43:28  #MKT News #XAUUSD #Impact bullish #DXY #Brent
+
+Putin said on a Ukrainian proposal that Russia has no plans to save the Kyiv regime.
+
+---
+
+### 2026-06-29 03:43:23  #MKT News #XAUUSD #Impact bullish #DXY #WTI
+
+Putin said Russia's primary objective is to liberate the Donbass and "Novorossiya", including the Kherson and Zaporizhzhia regions.
+
+---
+
+### 2026-06-29 03:43:18  #國際
+
+普京：烏克蘭提議雙方停火、互不襲擊對方領土。
+
+---
+
+### 2026-06-29 03:42:28  #國際
+
+普京：我們的核心任務是解放頓巴斯與“新俄羅斯”，這其中包括赫爾松州和扎波羅熱州。
+
+---
+
+### 2026-06-29 03:42:20  #國際
+
+普京：烏克蘭已提出將戰事限制在頓涅茨克、盧甘斯克、赫爾松與扎波羅熱四個地區。
+
+---
+
+### 2026-06-29 03:42:15  #國際
+
+普京就烏克蘭相關提議表態：我們無意挽救基輔政權。
 
 ---
 
@@ -21186,89 +21360,5 @@ Singapore May industrial production YoY +13.0% vs forecast +17.2%; April revised
 ### 2026-06-26 13:00:00  #MKT News #Economic Calendar #Important
 
 Singapore | Industrial Production (YoY) (May) | actual 13% | consensus 17.2% | previous 17.60%
-
----
-
-### 2026-06-26 13:00:00  #MKT News #Economic Calendar #Important
-
-Singapore | Industrial Production Index SA (MoM) (May) | actual -0.7% | consensus 2.00% | previous 5.80%
-
----
-
-### 2026-06-26 12:58:53  #國際
-
-【澤連斯基下令開展為期40天行動 以促使俄羅斯結束戰爭】在聽取了安全部門負責人關於打擊俄羅斯目標的簡報後，烏克蘭總統弗拉基米爾·澤連斯基批准了一項為期40天的行動，旨在“影響”俄羅斯結束戰爭。澤連斯基週四晚些時候在社交媒體上發了帖子，但沒有透露細節。他讚揚了烏克蘭安全部門利用無人機保衛國家前線陣地的表現。俄羅斯國防部報告稱，一夜之間在俄羅斯多個地區擊落了660架烏克蘭無人機，這似乎是四年多戰爭以來俄羅斯領土遭受的最猛烈的空中襲擊。
-
----
-
-### 2026-06-26 12:57:26  #MKT News
-
-Refinitiv IFR reports Zhejiang Laifu Harmonic Drive Co. will price its Hong Kong IPO at the top of its indicated range, seeking to raise HK$1.1 billion.
-
----
-
-### 2026-06-26 12:56:33  #市場
-
-【投資金價掉下880元/克關口，直擊北京菜百購金現場】6月26日上午10時許，投資金價仍位於880元/克下方。記者實地探訪北京菜百首飾總店發現，未到營業時間，店門口已有不少消費者提前等候。開門後，人群直奔四樓投資金條購買區。櫃檯前，有消費者秒拍秒付，帶走100克投資金條。而在售產品中，20克以下的小克重金條仍處於缺貨狀態。（21財經）
-
----
-
-### 2026-06-26 12:55:41  #其他
-
-【深圳通報房地產領域違規自媒體賬號典型案例】據深圳市網際網路資訊辦公室訊息，為進一步規範房地產領域網路資訊傳播秩序，深圳市住建、網信部門持續深入開展專項整治，督促屬地網站平臺嚴格落實主體責任，依法依約處置一批違規自媒體賬號。現將部分典型案例通報。根據有關政策規定，相關賬號已被平臺依法依約予以關閉3個月處置。
-
----
-
-### 2026-06-26 12:55:33  #公司
-
-鑫苑物業服務集團有限公司在香港暫停交易。
-
----
-
-### 2026-06-26 12:55:14  #公司
-
-【機構：攜程集團長期收入可能因合規措施承壓】晨星的Kai Wang在一份報告中表示，攜程集團的長期收入可能會受到新合規措施的拖累。該分析師表示，這家線上旅遊公司正在升級其運營實踐，以符合更新後的行業標準和合規框架，這可能是近期收入承壓的一個因素。隨著行業標準的演變，此類升級在長期內可能會成為常態。由於削減了增值服務，預計攜程集團截至6月的季度國內航空和地面交通收入將同比下降25%。晨星將攜程集團ADR的公允價值估值從70.00美元下調至63.00美元。
-
----
-
-### 2026-06-26 12:54:36  #MKT News #Market Regions #Japan & APAC
-
-Japan plans to fund a proposed consumption-tax cut by reviewing subsidies rather than issuing deficit-financing bonds, broadcaster TBS reported.
-
----
-
-### 2026-06-26 12:54:07  #公司 #國際
-
-據日本東京廣播公司（TBS）報道，日本政府計劃透過重審補貼專案，而非發行赤字融資債券，來為擬議中的消費稅削減措施籌措資金。
-
----
-
-### 2026-06-26 12:53:56  #其他
-
-【面向中小整合商 寧德時代線上直銷平臺上線】6月26日，記者獲悉，寧德時代線上直銷平臺“寧德時代商城”正式上線，目標客戶是小批次需求的中小整合商。該平臺目前在售產品包括：100Ah，280Ah(1P)，314Ah三款儲能電芯，3箱即可起訂，降低採購門檻。（ 第一財經  ）
-
----
-
-### 2026-06-26 12:53:17  #國際
-
-【日本稱又有兩艘本國船舶駛過霍爾木茲海峽】日本國土交通大臣金子恭之於週五例行記者會上表示，昨日至今日，又有兩艘日本船舶穿越霍爾木茲海峽。其透露，目前仍有35艘日本船舶停靠在波斯灣海域；船舶航行狀況、船員身體健康均未出現任何異常。
-
----
-
-### 2026-06-26 12:51:45  #其他
-
-【機器人傳動部件生產商來福諧波香港IPO價格定在區間的高階】IFR援引知情人士報道稱，中國機器人精密傳動部件提供商來福諧波將香港IPO價格定在區間的高階，擬融資11億港元。
-
----
-
-### 2026-06-26 12:50:56  #國際
-
-【日本前首相再次強調高市應道歉】6月25日，日本前首相鳩山由紀夫在第21屆韓國濟州論壇上發言，再次批評日本首相高市早苗的涉臺錯誤言論。鳩山由紀夫指出，高市應馬上收回其錯誤言論，並且道歉！然而，日本公眾輿論卻被所謂“中國威脅”的敘事所誤導。鳩山由紀夫強調，中國政府對此感到憤怒不滿完全可以理解。日本政府應明確向中國表示，日本將繼續遵守《日中聯合宣告》，特別是堅持不支援“臺獨”的立場。 （CCTV國際時訊 ）
-
----
-
-### 2026-06-26 12:50:49  #Trading Economics #Markets #Indonesia #Currency #Importance 1
-
-Rupiah Set for Weekly Decline — The rupiah traded near IDR 17,950 per U.S. dollar on Friday, extending its recent slide as broad dollar strength persisted after the Fed reinforced its hawkish stance despite holding interest rates steady last week. Locally, traders adopted a cautious approach ahead of June CPI data, with food prices in the spotlight after May’s fastest annual rise in seven months, driven by El Niño’s impact. Worries also mounted that Indonesia’s 72-month trade surplus streak could soon end amid elevated energy imports. The currency fell about 1% so far this week, erasing gains from the prior two periods. Still, weakness was capped by news that the government may trim over USD 2 billion from President Prabowo’s top program to bolster fiscal discipline. Softer oil prices, down toward pre-Iran war levels, eased pressure on the import bill and budget. Meantime, foreign inflows returned so far in June, lifted by around IDR 105 trillion in demand for Bank Indonesia’s one-year securities and government bonds
 
 ---
