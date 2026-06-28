@@ -1,7 +1,15 @@
 {
-  "updated": "2026-06-29 04:05:55",
-  "count": 17985,
+  "updated": "2026-06-29 04:09:55",
+  "count": 17984,
   "items": [
+    {
+      "id": "4959141",
+      "time": "2026-06-29 04:07:32",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列：真主黨地道藏有數百件武器。"
+    },
     {
       "id": "mkt:019f0fd5-decf-7aab-8c02-c2b0ef1dc41f",
       "time": "2026-06-29 04:05:02",
@@ -164554,22 +164562,6 @@
         "國際"
       ],
       "text": "伊朗新聞電視臺稱，在瑞士舉行的四方會談結束後，伊朗代表團已離場。"
-    },
-    {
-      "id": "mkt:019eebcc-3d89-7dd8-b0a9-379d3a395c32",
-      "time": "2026-06-22 04:08:11",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "A U.S. diplomat participating in talks in Switzerland told Axios he expects negotiations with Iran and mediators from Pakistan and Qatar to continue overnight."
-    },
-    {
-      "id": "4946645",
-      "time": "2026-06-22 04:07:15",
-      "tags": [
-        "國際"
-      ],
-      "text": "一名參與瑞士談判的美國外交官透露，預計美方與伊朗、巴基斯坦及卡達斡旋方的磋商將持續至深夜。"
     }
   ]
 }
