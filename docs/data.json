@@ -1,7 +1,47 @@
 {
-  "updated": "2026-06-29 01:42:26",
-  "count": 17987,
+  "updated": "2026-06-29 01:46:32",
+  "count": 17989,
   "items": [
+    {
+      "id": "4959091",
+      "time": "2026-06-29 01:45:23",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯國防部通報：防空系統單日在俄境內多地及亞速海上空擊落72架烏克蘭無人機。"
+    },
+    {
+      "id": "4959090",
+      "time": "2026-06-29 01:45:18",
+      "tags": [
+        "其他"
+      ],
+      "text": "【委內瑞拉強震遇難人數升至1450人】當地時間28日，委內瑞拉全國代表大會主席豪爾赫·羅德里格斯宣佈，委內瑞拉24日發生的強震造成的死亡人數上升至1450人。"
+    },
+    {
+      "id": "4959089",
+      "time": "2026-06-29 01:45:06",
+      "tags": [
+        "其他"
+      ],
+      "text": "【宜賓公安啟動應急響應巡查排險#】6月29日0時12分在四川宜賓市高縣發生5.5級地震，地震發生後宜賓消防迅速集結力量，趕赴震中開展災情排查、人員搜救與應急處置工作。"
+    },
+    {
+      "id": "mkt:019f0f55-818f-7aab-8c02-1a631cad829c",
+      "time": "2026-06-29 01:44:49",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "A magnitude-5.5 earthquake struck Gao County, Yibin, Sichuan; no casualties reported so far."
+    },
+    {
+      "id": "mkt:019f0f54-8f43-7aab-8c02-15591f981279",
+      "time": "2026-06-29 01:43:47",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Iran foreign minister holds talks with Iraq prime minister】Iran's foreign ministry said Iran's foreign minister met Iraq's prime minister in Iraq on Sunday at midday. Tehran said the minister stressed Iran's determination to deepen political, economic, security, commercial, cultural and people-to-people ties with Iraq, saying closer bilateral cooperation supports regional stability. He outlined recent diplomatic steps aimed at ending what Iran describes as US–Israeli hostilities against Iran, and urged regional states to help maintain security and prevent third parties from using their territory or facilities to carry out illegal attacks on Iran."
+    },
     {
       "id": "4959087",
       "time": "2026-06-29 01:34:21",
@@ -164562,31 +164602,6 @@
         "MKT News"
       ],
       "text": "Refinitiv, citing Iranian sources, reports Iran-US talks in Switzerland have been paused but not ended."
-    },
-    {
-      "id": "4946601",
-      "time": "2026-06-22 01:45:42",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "伊朗訊息人士表示，伊朗與美國在瑞士舉行的談判已暫停，但並未結束。"
-    },
-    {
-      "id": "4946600",
-      "time": "2026-06-22 01:45:21",
-      "tags": [
-        "公司"
-      ],
-      "text": "【前5個月“保險版ABS”登記總規模近900億元】近日，中保保險資產登記交易系統有限公司釋出一隻險資資產支援計劃登記情況。據統計，今年前5個月，險資資產支援計劃登記規模合計為893.7億元，登記產品合計為23只。"
-    },
-    {
-      "id": "mkt:019eeb47-cf24-7dd8-b0a8-61d23e780685",
-      "time": "2026-06-22 01:43:32",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Ethiopia's ruling Prosperity Party wins parliamentary election】Ethiopia's National Election Board said in Addis Ababa on June 21 that the ruling Prosperity Party won the parliamentary vote held in early June. The board said the Prosperity Party captured 438 of 486 seats in the House of Peoples' Representatives, the lower chamber of the federal parliament."
     }
   ]
 }
