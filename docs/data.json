@@ -1,7 +1,69 @@
 {
-  "updated": "2026-06-29 07:44:13",
-  "count": 17968,
+  "updated": "2026-06-29 07:48:09",
+  "count": 17965,
   "items": [
+    {
+      "id": "te:markets:562354",
+      "time": "2026-06-29 07:47:11",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "US Futures Climb Ahead of Peace Talks — US stock futures rose on Monday following reports that Washington and Tehran have agreed to halt attacks against each other before peace talks resume in Doha this week. The conflict had escalated since Thursday, with Iran targeting a container ship, a vessel carrying Qatari oil, and military bases in Kuwait and Bahrain, triggering multiple retaliatory US strikes. Meanwhile, Wall Street is coming off a mixed week as investors rotated out of technology stocks and into other sectors. The S&P 500 and Nasdaq Composite fell 1.95% and 4.6%, respectively, last week, while the Dow gained 0.6%. Megacap technology stocks led the declines, with Nvidia and Alphabet each dropping more than 8%, while Apple, Amazon, and Meta lost over 4% apiece. SpaceX also plunged 17%, erasing nearly all of its gains since its market debut on June 12."
+    },
+    {
+      "id": "4959283",
+      "time": "2026-06-29 07:46:53",
+      "tags": [
+        "其他"
+      ],
+      "text": "本週公開市場7天期逆回購到期量22655億元，較上週進一步增逾17%。"
+    },
+    {
+      "id": "4959282",
+      "time": "2026-06-29 07:46:34",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "基準10年期日本國債期貨早盤下跌0.24點。"
+    },
+    {
+      "id": "4959281",
+      "time": "2026-06-29 07:46:25",
+      "tags": [
+        "其他"
+      ],
+      "text": "【國際清算銀行：全球經濟面臨多重壓力，包括債務高企和AI熱潮等】國際清算銀行(BIS)稱，從公共債務上升到金融脆弱性，再到人工智慧(AI)熱潮的可持續性，這些全球性壓力正在加劇風險，凸顯出審慎制定政策的必要性。國際清算銀行週日釋出的《年度經濟報告》警告稱，當前存在一系列複雜的脆弱性因素，包括財政狀況緊張、供應衝擊持續以及通脹再次居高不下的風險。該銀行表示，儘管近幾個月來經濟活動保持韌性，但決策者必須果斷採取行動，以維護穩定。“政策舉措必須相互配合，以避免對全球經濟形成掣肘。歸根結底，成功取決於穩健的財政和金融基礎，”國際清算銀行(BIS)總經理德科斯(Pablo Hernandez de Cos)表示。"
+    },
+    {
+      "id": "4959280",
+      "time": "2026-06-29 07:45:44",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "日本日經平均指數期貨早盤上漲0.63%。"
+    },
+    {
+      "id": "4959279",
+      "time": "2026-06-29 07:44:57",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【經濟日報金觀平：為靈活就業者消除後顧之憂】近日，國務院印發《實施就業優先戰略“十五五”規劃》，明確提出“拓寬靈活就業、新就業形態發展渠道”，強調“維護靈活就業、新就業形態勞動者合法權益”，以消除從業者後顧之憂，為靈活就業、新就業形態注入更多確定性，進一步推動靈活就業、新就業形態健康發展。靈活就業、新就業形態進出門檻低、活力強，已成為吸納就業的重要“蓄水池”。中華全國總工會資料顯示，新就業形態勞動者約8400萬人；根據人社部資料，去年中國靈活就業人員規模已超過2億人。平臺企業要真正壓實責任、強化治理，這是靈活就業、新就業形態健康發展的重要前提。平臺要把派單邏輯、收入計算、配送路線納入協商議題，更好保障勞動者的知情權、參與權和選擇權；不得透過加盟、代理承攬等方式刻意拉長用工鏈條，或讓勞動者註冊為個體工商戶成為商事主體來規避勞動關係、轉嫁用工風險。"
+    },
+    {
+      "id": "4959278",
+      "time": "2026-06-29 07:44:13",
+      "tags": [
+        "其他"
+      ],
+      "text": "【約三分之一主權財富基金擬增加對私募資產的配置 傳統股債風險升高】一項行業調查顯示，在傳統債股投資組合面臨的風險不斷上升之際，全球規模最大的公共投資機構計劃提高對私募和流動性較低資產的配置。接受景順調查的機構中，約三分之一的主權財富基金計劃在2026年增加對私募信貸、私募股權和基礎設施資產的配置，近五分之一打算降低對股票的敞口。"
+    },
     {
       "id": "4959277",
       "time": "2026-06-29 07:43:17",
@@ -164387,88 +164449,6 @@
         "Importance 2"
       ],
       "text": "Gold Slides as Oil Advances — Gold fell below $4,150 an ounce on Monday, extending its recent decline as higher oil prices kept inflation concerns elevated following renewed tensions during the opening day of US-Iran talks. President Donald Trump threatened fresh military action if Hezbollah continues its attacks on Israel and warned Tehran against shutting the Strait of Hormuz again. At the same time, Iranian media reported that Tehran had suspended negotiations in response to Trump’s remarks, although sources familiar with the discussions said talks were still underway. Gold was also weighed down by expectations of tighter monetary policy after the Federal Reserve left interest rates unchanged last week while adopting a more hawkish tone. Nine of the Fed’s 19 policymakers now anticipate at least one rate increase this year, with investors pricing in a potential hike as soon as September."
-    },
-    {
-      "id": "4946830",
-      "time": "2026-06-22 07:48:08",
-      "tags": [
-        "國際"
-      ],
-      "text": "【美媒稱美伊談判還在繼續 伊朗談判代表仍在現場】據美國有線電視新聞網21日報道，美伊談判仍在瑞士進行，美國代表團預計“將通宵工作”。報道援引一名參與談判的美國高階外交官員的話說，伊朗談判代表仍在現場，美國副總統萬斯等美方談判代表一直在與伊方“持續進行會晤和談判”，美方“預計會通宵工作”。當天早些時候，伊朗代表團突然暫停談判，以抗議美國總統特朗普當天對伊朗發出的威脅言論。（新華社）"
-    },
-    {
-      "id": "mkt:019eec95-9432-7dd8-b0aa-49efcfcc1c8c",
-      "time": "2026-06-22 07:48:06",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【CNN: U.S.-Iran talks continue in Switzerland; Iranian negotiators remain on site】CNN reported on the 21st that U.S.-Iran talks are continuing in Switzerland and the U.S. delegation expects to work through the night. A senior U.S. diplomat said Iranian negotiators remain on site and U.S. negotiators, including Vice President Vance, have continued meetings with Iranian counterparts. Earlier the same day Iran paused negotiations to protest President Trump’s threatening remarks."
-    },
-    {
-      "id": "4946829",
-      "time": "2026-06-22 07:47:57",
-      "tags": [
-        "其他"
-      ],
-      "text": "LIME計劃將優步列為其IPO的錨定投資者。"
-    },
-    {
-      "id": "4946828",
-      "time": "2026-06-22 07:47:46",
-      "tags": [
-        "其他"
-      ],
-      "text": "LIME預計本週啟動IPO路演與投資者洽談，擬融資約2億美元，估值約18億美元。"
-    },
-    {
-      "id": "4946827",
-      "time": "2026-06-22 07:46:32",
-      "tags": [
-        "其他"
-      ],
-      "text": "【端午假期 全國消費市場執行平穩】記者21日從商務部獲悉：端午假期，全國消費市場執行平穩，生活必需品貨足價穩。 商務部商務大資料顯示，截至6月20日，2026年消費品以舊換新惠及1.36億人次，帶動銷售額超1萬億元。其中，汽車以舊換新銷售342.8萬臺，帶動銷售額5552.4億元；家電以舊換新、數碼和智慧購新產品銷售13289.5萬臺，帶動銷售額4516.3億元。 各地生活必需品市場供應充足，價格總體平穩。商務大資料顯示，假期期間，全國200家大型農副產品批發市場庫存充足，糧油、肉類、水果價格與節前（6月18日）基本持平。（人民日報）"
-    },
-    {
-      "id": "4946825",
-      "time": "2026-06-22 07:46:24",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "【北京發出首張數字藝人卡——虛擬偶像演出有規可依】近日，AI虛擬偶像尤慄（Yuri）在北京經濟技術開發區拿到了全國首張“數字藝人卡”。此次獲頒“數字藝人卡”，是尤慄繼擁有“數字居民”身份後，又一個重要身份轉變。這源於北京首個新質生產力“沙盒審批”工作方案——《北京經濟技術開發區關於開展新質生產力“沙盒審批”試點的工作方案（試行）》的正式出臺，並率先在機器人、數字人營業性演出領域落地。"
-    },
-    {
-      "id": "4946824",
-      "time": "2026-06-22 07:46:15",
-      "tags": [
-        "公司"
-      ],
-      "text": "【小米徐潔雲回應“雷軍過早被質疑擺拍”】6月21日晚，小米集團董事長特別助理、戰略市場部副總經理徐潔雲發文回應雷軍過早被質疑擺拍：“其實吧，工作之餘吃吃喝喝拍Vlog，都兩年了。你說拍Vlog帶著相機也合理吧？但如果有人非要往某些方面帶，再怎麼合理，似乎也都會變成不合理，而且還能把拍vlog的相機在，說成在場的人都是擺拍。所以，還是劉震雲先生說得好，這就是‘沒有真相，只有情緒和角度’。我們的世界，還是少點陰暗好。”"
-    },
-    {
-      "id": "4946823",
-      "time": "2026-06-22 07:45:49",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "基準10年期日本國債期貨早盤下跌0.28點。"
-    },
-    {
-      "id": "4946822",
-      "time": "2026-06-22 07:45:45",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "日本日經平均指數期貨早盤下跌0.1%。"
-    },
-    {
-      "id": "4946821",
-      "time": "2026-06-22 07:45:40",
-      "tags": [
-        "其他"
-      ],
-      "text": "【東風-17發射狀態首次公開！多車齊射場面硬核】這是火箭軍某野外訓練場，數枚新型導彈正在起豎。從火力突擊的過程中可以看到，各作戰單元不僅要密切協同完成多波次的火力打擊，同時還要隨時做好防強電磁干擾、防精確打擊等特情處置。官兵們表示，新型裝備智慧化程度更高，機動效能更強，火力打擊更加精確，具有全天候、無依託、強突防的作戰優勢。裝備的迭代升級，本質是科技實力的硬核落地。近年來，東風-17、東風-26D、東風-31、東風-61等一大批我國自主研發的新型主戰裝備列裝、常態參訓。（央視）"
     }
   ]
 }
