@@ -1,7 +1,15 @@
 {
-  "updated": "2026-06-29 01:58:40",
-  "count": 17987,
+  "updated": "2026-06-29 02:02:33",
+  "count": 17982,
   "items": [
+    {
+      "id": "4959094",
+      "time": "2026-06-29 02:00:24",
+      "tags": [
+        "國際"
+      ],
+      "text": "【烏干達宣佈從南非撤僑】烏干達外交部28日釋出宣告說，鑑於南非民間近幾月反移民暴力和排外抗議活動持續升級，烏總統穆塞韋尼已指示政府安排撤離在南非的烏干達公民。（新華社）"
+    },
     {
       "id": "4959093",
       "time": "2026-06-29 01:53:13",
@@ -164528,62 +164536,6 @@
         "國際"
       ],
       "text": "【伊朗談判團隊成員稱伊石油制裁豁免草案已敲定】當地時間21日，據伊朗方面訊息，伊朗談判團隊一名成員透露，有關伊朗石油制裁豁免的草案已經最終定稿，並補充說豁免將很快釋出。有關解凍伊朗被凍結資金的行政程式已在卡達代表團的參與下進行。（央視新聞）"
-    },
-    {
-      "id": "mkt:019eeb59-2e47-7dd8-b0a8-8839268399b9",
-      "time": "2026-06-22 02:02:30",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Pakistan's prime minister thanked Switzerland for its support and constructive engagement after signing a historic Islamabad MoU, saying both sides agreed that successful implementation would aid regional peace and stability and bolster global economic prosperity."
-    },
-    {
-      "id": "4946606",
-      "time": "2026-06-22 02:02:26",
-      "tags": [
-        "其他"
-      ],
-      "text": "【西班牙4比0沙烏地阿拉伯】美加墨世界盃H組第二輪，西班牙隊VS沙烏地阿拉伯隊。 第11分鐘，亞馬爾門前包抄破門打入個人世界盃首球。此後奧亞薩瓦爾雙響、坦巴克蒂烏龍。最終西班牙隊4-0大勝沙烏地阿拉伯。"
-    },
-    {
-      "id": "mkt:019eeb58-41b6-7dd8-b0a8-85140d091020",
-      "time": "2026-06-22 02:01:30",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "【Chubb CEO: Strait of Hormuz shipping to resume gradually but remains war-zone environment】Chubb CEO Evan Greenberg said US efforts to reopen shipping lanes through the Strait of Hormuz should gradually increase vessel traffic, but the security situation remains highly unstable and can change day-to-day or hour-to-hour. He identified sea mines as the biggest uncertainty and said only a single narrow channel is currently usable, constraining the number of ships able to transit. The US Navy is working to open wider passages, and Greenberg said shipping activity will rise incrementally as that work progresses."
-    },
-    {
-      "id": "4946605",
-      "time": "2026-06-22 02:00:41",
-      "tags": [
-        "其他"
-      ],
-      "text": "中國地震臺網自動測定：06月22日01時58分在新疆伊犁州昭蘇縣附近（北緯43.37度，東經81.11度）發生4.0級左右地震，最終結果以正式速報為準。"
-    },
-    {
-      "id": "4946604",
-      "time": "2026-06-22 02:00:38",
-      "tags": [
-        "國際"
-      ],
-      "text": "據Al-Mayadeen報道，伊朗代表團表示，除非特朗普為其威脅道歉，且以色列從黎巴嫩撤軍，否則不會重返談判桌。"
-    },
-    {
-      "id": "mkt:019eeb56-79d7-7dd8-b0a8-7ffcc35adb75",
-      "time": "2026-06-22 01:59:33",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "WTI",
-        "DXY"
-      ],
-      "text": "Lebanese broadcaster Al-Mayadeen reported Iran's delegation will not return to negotiations unless Trump apologizes for his threats and Israel withdraws troops from southern Lebanon."
     }
   ]
 }
