@@ -1,7 +1,31 @@
 {
-  "updated": "2026-06-28 19:06:45",
+  "updated": "2026-06-28 19:10:51",
   "count": 18105,
   "items": [
+    {
+      "id": "4958956",
+      "time": "2026-06-28 19:09:15",
+      "tags": [
+        "國際"
+      ],
+      "text": "白俄羅斯總統盧卡申科結束莫斯科兩天會談後離開。此次閉門談判未對外公佈任何成果，官方渠道也未披露會晤議程與會談實質內容。"
+    },
+    {
+      "id": "4958955",
+      "time": "2026-06-28 19:09:01",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗方面訊息：伊朗議會議長與黎巴嫩議會議長數分鐘前通電話，雙方就雙邊事務、尤其是黎巴嫩局勢交換了意見。"
+    },
+    {
+      "id": "4958954",
+      "time": "2026-06-28 19:08:30",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗外交部：結束黎巴嫩戰爭是達成最終協議以及地區穩定的基本條件】伊朗外交部發言人巴加埃在回答有關以黎框架協議，以及美伊諒解備忘錄中關於結束黎巴嫩戰爭第一條款執行最新情況的提問時表示，伊朗根據其基於《聯合國憲章》和國際法基本規則的一貫政策，強調維護黎巴嫩國家主權和領土完整、尊重全體黎巴嫩人民的尊嚴與安全的必要性，認為這是任何與結束戰爭及猶太復國主義政權對黎巴嫩佔領有關的諒解得以存續和穩定的基本條件。在此基礎上，伊朗無論是在4月8日的停火協議中，還是在6月18日關於結束戰爭的諒解備忘錄中，都將結束以色列在黎巴嫩的戰爭和軍事行動與結束對伊朗的戰爭置於同等優先位置，並迄今堅持要求予以落實。伊朗強調，全面落實關於結束戰爭的諒解備忘錄第一條款，即結束猶以色列對黎巴嫩的戰爭和軍事行動，以及佔領者從黎巴嫩所有被佔領土撤出，是實現最終穩定協議、建立地區穩定的基本條件。"
+    },
     {
       "id": "mkt:019f0de8-8b19-7aab-8c00-9aac5e07c269",
       "time": "2026-06-28 19:06:11",
@@ -165664,38 +165688,6 @@
         "國際"
       ],
       "text": "據伊朗媒體訊息：美國、伊朗、卡達三方會議“目前正在”瑞士舉行，討論黎巴嫩停火及伊朗被凍結資產問題。"
-    },
-    {
-      "id": "mkt:019ee9e0-471d-7dd8-b0a5-648390fa99fa",
-      "time": "2026-06-21 19:10:49",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "Mehr news agency reports the US, Iran and Qatar are holding tripartite talks in Switzerland to discuss a Lebanon ceasefire and Iran’s frozen assets."
-    },
-    {
-      "id": "4946398",
-      "time": "2026-06-21 19:09:28",
-      "tags": [
-        "其他"
-      ],
-      "text": "卡達方面稱美伊高階別會談在瑞士啟動。"
-    },
-    {
-      "id": "mkt:019ee9dc-a974-7dd8-b0a5-5e716840c35e",
-      "time": "2026-06-21 19:06:53",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "TASNIM NEWS cites sources close to the negotiating team saying the Strait of Hormuz will remain closed as long as the Lebanon ceasefire agreement is not observed and waivers for Iranian oil sales are not approved."
     }
   ]
 }
