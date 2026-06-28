@@ -1,7 +1,20 @@
 {
-  "updated": "2026-06-28 09:40:25",
-  "count": 18169,
+  "updated": "2026-06-28 09:44:21",
+  "count": 18167,
   "items": [
+    {
+      "id": "mkt:019f0be4-91d8-7770-9d1c-3d0e78028c23",
+      "time": "2026-06-28 09:42:36",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Apple",
+        "Market Themes",
+        "Magnificent 7",
+        "AAPL.O"
+      ],
+      "text": "【Ming-Chi Kuo: iOS 27 to deepen system-level integration with Apple Intelligence】June 27 — TF International Securities analyst Ming-Chi Kuo said in a report that iOS 27 will deepen system-level integration with Apple Intelligence. His supply-chain survey shows lower-tier iPhones with the A20 in 1H27 will increase DRAM to 9GB (1.5GB×6-die) to preserve responsiveness under AI workloads, up from 8GB (2GB×4-die) on current A19 models. Three high-end A20 Pro models due 2H26 (a foldable and two 18 Pro variants) will remain at 12GB (1.5GB×8-die)."
+    },
     {
       "id": "4958695",
       "time": "2026-06-28 09:38:46",
@@ -166227,30 +166240,6 @@
         "國際"
       ],
       "text": "【美軍否認霍爾木茲海峽被關閉】伊朗武裝部隊哈塔姆·安比亞中央司令部當地時間6月20日發表宣告稱，由於美國公然違背承諾，未履行旨在結束戰爭的諒解備忘錄條款，同時以色列持續違反停火協議，不斷襲擊黎巴嫩南部，伊朗決定關閉霍爾木茲海峽。美軍中央司令部發言人當天表示，霍爾木茲海峽交通仍然暢通，美軍正繼續在海峽周邊海域開展行動。（CCTV國際時訊）"
-    },
-    {
-      "id": "4946069",
-      "time": "2026-06-21 09:43:34",
-      "tags": [
-        "其他"
-      ],
-      "text": "【報道：特斯拉加速推進人工智慧與機器人戰略，申請註冊 “Amazing Abundance” 商標】據報道，特斯拉已正式提交 “Amazing Abundance” 商標註冊申請，此舉表明企業將進一步深耕長期發展願景，核心佈局人工智慧、人形機器人、自動駕駛系統，並依託自動化技術實現生產成本大幅下降的未來圖景。"
-    },
-    {
-      "id": "4946068",
-      "time": "2026-06-21 09:42:18",
-      "tags": [
-        "其他"
-      ],
-      "text": "ADP調研：人工智慧非但沒有減少工作量，反而催生更多無薪加班。"
-    },
-    {
-      "id": "4946067",
-      "time": "2026-06-21 09:41:22",
-      "tags": [
-        "國際"
-      ],
-      "text": "巴基斯坦總理預計將會見伊朗、卡達、美國相關方。"
     }
   ]
 }
