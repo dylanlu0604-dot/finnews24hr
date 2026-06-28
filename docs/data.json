@@ -1,7 +1,15 @@
 {
-  "updated": "2026-06-29 01:04:00",
-  "count": 17994,
+  "updated": "2026-06-29 01:07:59",
+  "count": 17990,
   "items": [
+    {
+      "id": "4959082",
+      "time": "2026-06-29 01:03:44",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯總統普京：必須保障農業領域的燃油供應。"
+    },
     {
       "id": "mkt:019f0f2d-ee72-7aab-8c01-faef172e0410",
       "time": "2026-06-29 01:01:36",
@@ -164608,56 +164616,6 @@
         "國際"
       ],
       "text": "【訊息人士：伊朗方面並未離場，伊美之間的談判仍在繼續】伊朗媒體週日報道稱，伊朗代表團與此次談判的調解方之一卡達代表團會面後，已離開談判場地。該報道引發外界猜測，伊美兩國在瑞士舉行的相關磋商已暫停或結束。但美國阿克西奧斯新聞網記者巴拉克·拉維德援引一名參與談判的外交官說法，否認了上述訊息。這名外交官表示：“伊朗方面並未離場，伊美之間的談判仍在繼續。”"
-    },
-    {
-      "id": "mkt:019eeb25-758b-7dd8-b0a8-394e07d1c714",
-      "time": "2026-06-22 01:06:01",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bearish",
-        "XAUUSD",
-        "DXY"
-      ],
-      "text": "Iranian state media quoted a Foreign Ministry spokesman saying Sunday’s talks centered on ending the war, lifting sanctions and securing the release of Iran’s frozen funds."
-    },
-    {
-      "id": "mkt:019eeb24-ee77-7dd8-b0a8-32515cee0b81",
-      "time": "2026-06-22 01:05:26",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "Axios reported a diplomat participating in the talks said the Iranian delegation had not left and U.S.-Iran negotiations were continuing."
-    },
-    {
-      "id": "4946593",
-      "time": "2026-06-22 01:05:24",
-      "tags": [
-        "國際"
-      ],
-      "text": "一名參與瑞士談判的外交官稱，伊朗代表團並未離場，美伊談判仍在進行。"
-    },
-    {
-      "id": "4946592",
-      "time": "2026-06-22 01:05:18",
-      "tags": [
-        "其他",
-        "焦點",
-        "國際"
-      ],
-      "text": "伊朗外交部發言人表示，週日會談的重點為結束戰爭、解除制裁以及解凍伊朗被凍結資金。"
-    },
-    {
-      "id": "mkt:019eeb24-3bdb-7dd8-b0a8-2e4efa61bdf4",
-      "time": "2026-06-22 01:04:40",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "WTI"
-      ],
-      "text": "【Ghalibaf rebuffs Trump's latest threat】Ghalibaf, head of Iran’s negotiating delegation in Switzerland and speaker of the Iranian parliament, said on social media on June 21 that Iran does not take US threats seriously, warned Washington to choose its words carefully and said Iran’s armed forces are fully prepared to respond “in another way.” He added that regardless of US bluster, “we will be the ones to act.” Earlier, Trump posted that “Iran must immediately stop its ‘proxies’ in Lebanon. If not, we will strike Iran again, like last week, and only harder.”"
     }
   ]
 }
