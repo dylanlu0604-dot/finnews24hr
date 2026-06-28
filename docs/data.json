@@ -1,7 +1,85 @@
 {
-  "updated": "2026-06-28 21:00:56",
-  "count": 18046,
+  "updated": "2026-06-28 21:04:58",
+  "count": 18048,
   "items": [
+    {
+      "id": "mkt:019f0e54-2293-7aab-8c01-178c4c6820a9",
+      "time": "2026-06-28 21:03:42",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Putin said the security of the state and citizens and the inviolability of Russia's borders will be guaranteed."
+    },
+    {
+      "id": "mkt:019f0e53-c9a3-7aab-8c01-0d43711bb231",
+      "time": "2026-06-28 21:03:19",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Russian President Putin said Russia is experiencing a difficult period that has taught it many lessons."
+    },
+    {
+      "id": "mkt:019f0e53-be88-7aab-8c01-0056ef8f1ca6",
+      "time": "2026-06-28 21:03:16",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "【Europe records over 1,300 heat-related excess deaths】WHO Director-General Tedros said on social media on June 28 that since June 21 Europe has recorded more than 1,300 excess deaths linked to high temperatures. Excess deaths are the difference between estimated total deaths for a place and period and expected deaths absent a health crisis."
+    },
+    {
+      "id": "4959005",
+      "time": "2026-06-28 21:02:59",
+      "tags": [
+        "國際"
+      ],
+      "text": "海灣合作委員會秘書長針對傳聞中 3000 億美元伊朗重建一攬子計劃表態：“關於這 3000 億相關方案，我並未見過任何相關檔案。該方案既未向我通報，也未告知海灣合作委員會其他成員國。”"
+    },
+    {
+      "id": "4959004",
+      "time": "2026-06-28 21:02:49",
+      "tags": [
+        "國際"
+      ],
+      "text": "普京：俄羅斯正經歷艱難時期，但這一時期教會了我們許多。"
+    },
+    {
+      "id": "4959003",
+      "time": "2026-06-28 21:02:32",
+      "tags": [
+        "國際"
+      ],
+      "text": "普京表示，西方國家無法在戰場上擊敗俄羅斯，於是轉而企圖破壞俄羅斯政局穩定，但即便這一圖謀也未能得逞。"
+    },
+    {
+      "id": "4959002",
+      "time": "2026-06-28 21:01:46",
+      "tags": [
+        "國際"
+      ],
+      "text": "【歐洲已記錄到與高溫相關的1300多例超額死亡】世界衛生組織總幹事譚德塞28日在社交媒體發文稱，自6月21日以來，歐洲已有超過1300例超額死亡記錄與高溫天氣有關。超額死亡數指特定地點和特定時期估計的總死亡人數與沒有健康危機情況下的預計死亡人數之間的差額。（新華社）"
+    },
+    {
+      "id": "mkt:019f0e51-19df-7aab-8c00-fc0b498fd8f8",
+      "time": "2026-06-28 21:00:23",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "WTI"
+      ],
+      "text": "Putin said the current period is decisive for Russia and that Russia cannot be defeated on the battlefield."
+    },
+    {
+      "id": "4959001",
+      "time": "2026-06-28 21:00:07",
+      "tags": [
+        "國際"
+      ],
+      "text": "普京稱當下是俄羅斯命運攸關的時刻。他補充表示，俄羅斯在戰場上不可能被擊敗。"
+    },
     {
       "id": "mkt:019f0e4e-2f64-7aab-8c00-f3fa3c55c396",
       "time": "2026-06-28 20:57:12",
@@ -165127,63 +165205,6 @@
         "國際"
       ],
       "text": "特朗普總統夜間與伊朗方面通話，警告對方不得封鎖海峽。特朗普稱他對伊朗官員表示：“只要你們封鎖海峽，你們的國家就不復存在。你們根本別想活著回到自己國家。”"
-    },
-    {
-      "id": "mkt:019eea47-873a-7dd8-b0a6-af6a96e7f2bc",
-      "time": "2026-06-21 21:03:36",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Qatar's prime minister said he had seen dedication and significant efforts from Fansi, Pakistan's prime minister and Iran's foreign minister."
-    },
-    {
-      "id": "4946480",
-      "time": "2026-06-21 21:03:30",
-      "tags": [
-        "國際"
-      ],
-      "text": "卡達總理：我們看到了來自範斯、巴基斯坦總理和伊朗外長的奉獻和巨大努力。"
-    },
-    {
-      "id": "mkt:019eea46-d0c2-7dd8-b0a6-a36c5a6baf8b",
-      "time": "2026-06-21 21:02:49",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "【US, Iran, Pakistan and Qatar begin four-party talks in Switzerland】Delegations from Iran, the United States, Pakistan and Qatar began four-party talks in Switzerland on June 21."
-    },
-    {
-      "id": "4946479",
-      "time": "2026-06-21 21:01:53",
-      "tags": [
-        "國際"
-      ],
-      "text": "【美伊巴卡四方會談開始】伊朗法爾斯通訊社今天（6月21日）報道，伊朗、美國、巴基斯坦和卡達代表團的四方會談在瑞士開始。（CCTV國際時訊）"
-    },
-    {
-      "id": "4946478",
-      "time": "2026-06-21 21:01:30",
-      "tags": [
-        "其他"
-      ],
-      "text": "據燈塔專業版資料，截至6月21日21時，2026年端午檔票房3.94億，《玩具總動員5》成為2026端午檔（6.19-6.21）票房冠軍。2026年端午檔票房TOP5影片為《玩具總動員5》《給阿嬤的情書》《抓特務》《火遮眼》《我看見兩朵一樣的雲》。"
-    },
-    {
-      "id": "mkt:019eea45-8bcc-7dd8-b0a6-9ca086567a8d",
-      "time": "2026-06-21 21:01:26",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Colombia holds presidential runoff vote】On June 21 Colombia is holding a presidential runoff between independent Avelardo de la Espriella of the far‑right Homeland Defenders grouping and Ivan Cepeda of the left‑wing Historic Pact coalition to choose the president for 2026–2030. Polls opened at 08:00 and close at 16:00 local time; counting begins immediately after and preliminary results are expected tonight. No candidate won a majority in the May 31 first round; under current rules the candidate with the most votes in the runoff will be elected."
-    },
-    {
-      "id": "4946477",
-      "time": "2026-06-21 21:01:21",
-      "tags": [
-        "國際"
-      ],
-      "text": "【萬斯稱特朗普致力於區域全面停火】美國副總統萬斯今天（6月21日）表示，美國總統特朗普致力於區域全面停火，希望改善與伊朗人的關係。他還說，過去數小時在相關問題上取得重大進展，希望能夠透過外交手段合作以改變中東。（CCTV國際時訊）"
     }
   ]
 }
