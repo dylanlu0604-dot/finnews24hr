@@ -1,7 +1,26 @@
 {
-  "updated": "2026-06-28 18:09:19",
-  "count": 18106,
+  "updated": "2026-06-28 18:13:22",
+  "count": 18105,
   "items": [
+    {
+      "id": "mkt:019f0db5-e19e-7aab-8c00-6d8a2e60c5df",
+      "time": "2026-06-28 18:10:51",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Saudi foreign ministry strongly condemned Iran's attacks on Kuwait and Bahrain and its threats to the freedom and safety of navigation in the Strait of Hormuz."
+    },
+    {
+      "id": "4958927",
+      "time": "2026-06-28 18:08:52",
+      "tags": [
+        "國際"
+      ],
+      "text": "沙特外交部：我們強烈譴責伊朗針對科威特、巴林，以及霍爾木茲海峽航道安全與航行自由發動的襲擊。"
+    },
     {
       "id": "mkt:019f0db3-8ff5-7aab-8c00-67828f258a90",
       "time": "2026-06-28 18:08:19",
@@ -165686,30 +165705,6 @@
         "Greater China"
       ],
       "text": "【Dragon Boat Festival three-day cross-regional travel expected to total 652.78 mln person-trips】China's Ministry of Transport said the three-day Dragon Boat Festival holiday (June 19–21, 2026) is expected to generate 652.78 mln cross-regional person-trips in total, averaging 217.59 mln per day, flat YoY."
-    },
-    {
-      "id": "4946374",
-      "time": "2026-06-21 18:13:15",
-      "tags": [
-        "其他"
-      ],
-      "text": "【艾可藍獲得海外資料中心發電機組後處理訂單】近日，艾可藍拿下海外資料中心發電機組後處理專案訂單，該專案共包含38臺燃氣機組後處理裝置，將助力海外資料中心構建高效、安全、綠色低碳的供電體系。"
-    },
-    {
-      "id": "4946373",
-      "time": "2026-06-21 18:10:59",
-      "tags": [
-        "國際"
-      ],
-      "text": "【伊朗總統：不會製造核武器 不會放棄鈾濃縮權利】據伊朗伊斯蘭共和國通訊社21日報道，伊朗總統佩澤希齊揚重申伊朗不會放棄鈾濃縮的權利，並強調伊朗“明確表示不會製造原子彈”。佩澤希齊揚表示，美國想確保伊朗不製造核武器，而多年來伊朗也無意製造核武器，“但有一點是明確的，伊朗絕不會放棄鈾濃縮權利，美國也不得不接受這一點”。佩澤希齊揚說，伊朗與美國之間的諒解條款總體有利於伊朗人民。隨著伊美談判的啟動，伊朗在卡達持有的60億美元資金將獲解凍。伊朗中央銀行行長赫馬提參與相關談判，旨在明確這些資金的投向領域。佩澤希齊揚表示，伊朗最高領袖已授權政府繼續推進伊美談判，所有人必須團結一致、共同建設伊朗。他說，仍有個人或政治力量不願看到局勢恢復平靜，企圖破壞伊朗國家內部團結，必須保持警惕，避免分裂內訌。（新華社）"
-    },
-    {
-      "id": "4946372",
-      "time": "2026-06-21 18:09:40",
-      "tags": [
-        "其他"
-      ],
-      "text": "【端午假期三天全社會跨區域人員流動量預計超6.5億人次】記者從交通運輸部獲悉，端午假期三天（2026年6月19日—21日），預計全社會跨區域人員流動總量為65278萬人次，日均為21759.3萬人次，同比持平。（央視新聞）"
     }
   ]
 }
