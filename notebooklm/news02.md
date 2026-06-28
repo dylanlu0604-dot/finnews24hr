@@ -1,7 +1,61 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-06-29 01:23:29_
-_本檔包含 3655 則快訊，約 666361 字_
+_更新時間：2026-06-29 02:02:33_
+_本檔包含 3655 則快訊，約 666063 字_
+
+---
+
+### 2026-06-26 12:29:54  #其他
+
+傑富瑞將法拉利目標價從350歐元上調至380歐元。
+
+---
+
+### 2026-06-26 12:29:44  #公司
+
+傑富瑞將應用材料公司目標價從510美元上調至770美元。
+
+---
+
+### 2026-06-26 12:28:58  #MKT News
+
+IAEA Director General Grossi said he believes Iran's nuclear material has not been transferred since the last inspection in 2025, but this still needs to be confirmed.
+
+---
+
+### 2026-06-26 12:28:03  #Trading Economics #Markets #China #Currency #Importance 1
+
+Offshore Yuan Heads for 2nd Weekly Loss — The offshore yuan weakened to around 6.80 per dollar on Friday and was on track for a second consecutive weekly loss, remaining under pressure from a broadly strong US dollar. The greenback continued its momentum after the Federal Reserve recently adopted a more hawkish stance, leading markets to price in a 75% probability of a rate hike as early as September. Meanwhile, the People's Bank of China unveiled plans to introduce overnight reverse repo operations on June 29–30 as part of the next phase of its monetary policy framework reform. This will complement the existing seven-day reverse repo rate, bringing the PBOC's policy toolkit more closely in line with those of major central banks, including the Federal Reserve. On the economic front, fiscal expenditure rose 0.8% year-on-year to CNY 11.39 trillion ($1.59 trillion) in the first five months of 2026. Central government spending increased 6.5% to CNY 1.68 trillion, while local government expenditure fell 0.1% to CNY 9.71 trillion.
+
+---
+
+### 2026-06-26 12:26:45  #國際
+
+國際原子能機構總幹事格羅西：認為自2025年上一次核查以來，伊朗的核材料未被轉移，但仍需加以核實。
+
+---
+
+### 2026-06-26 12:26:19  #宏觀
+
+【“十五五”能源領域新設兩項指標 促進節能降碳】在國務院新聞辦今天舉行的新聞釋出會上，國家能源局發展規劃司司長任育之介紹，能源領域是碳達峰的主戰場，“十五五”時期，我們將以更大力度、更實舉措，加快能源綠色低碳轉型。任育之介紹，“十五五”時期，圍繞轉型降碳，我國設定了5項量化指標。其中，非化石能源消費比重、非化石能源發電量比重、電能佔終端能源消費比重這3項指標，接續“十四五”提出了更高目標；新設定了2項指標：一項是單位發電量碳排放指標，“十五五”的目標是下降10%以上，這是提升我國電力系統的綠色轉型和效率提升的綜合性指標；另一項是重點行業節能量指標，透過節能降碳改造和技術創新，重點行業“十五五”將節約用能1.5億噸標準煤以上。（央視新聞）
+
+---
+
+### 2026-06-26 12:25:50  #其他
+
+【深圳上半年新增20家上市企業 位居全國大中城市第一】近日，記者從深圳市委金融辦瞭解到，2026年上半年，深圳資本市場迎來集中“收穫期”，上市梯隊擴容提速。包括，一週三家硬科技企業集中登陸境內外資本市場；深交所迎來史上最大IPO募資專案；上半年深圳全市新增上市企業20家，數量居全國首位，其中15家企業登陸港交所，跨境上市數量創新高。（21財經）
+
+---
+
+### 2026-06-26 12:25:02  #MKT News
+
+IAEA Director General Grossi said the agency has conducted preliminary exchanges with Iranian authorities.
+
+---
+
+### 2026-06-26 12:24:59  #MKT News #Market Regions #Japan & APAC
+
+【Magnitude-5.8 quake forces Narita runway closures, halts Tsukuba Express】A magnitude-5.8 earthquake struck northeastern Chiba Prefecture at about 12:46 local time on the 26th. Narita Airport closed two runways from 12:47 and is conducting safety inspections. The Tsukuba Express, linking Tsukuba in Ibaraki Prefecture with Akihabara in Tokyo, suspended full-line service from 12:50; the operator said trains will resume once safety is confirmed.
 
 ---
 
@@ -21964,59 +22018,5 @@ XPeng said global deliveries of its X9 model have exceeded 60,000 vehicles.
 ### 2026-06-25 11:13:29  #公司
 
 【交通運輸部等：圍繞航線規劃等核心任務 鼓勵開發民航垂域大模型】交通運輸部、國家鐵路局、中國民用航空局、國家郵政局、中國國家鐵路集團有限公司印發《“人工智慧+交通運輸”典型應用場景創新行動方案》，其中提出，圍繞航線規劃、飛行安全、航班編排、籤派決策、機組排班等核心任務，鼓勵開發民航垂域大模型，開展執行預測、排程最佳化、風險防控等關鍵技術應用，打造全流程個性化出行服務、機坪態勢感知與風險預警、無人化智慧貨運站等多方面立體化應用場景，加快推進民航數智化轉型升級。深化多模態生物識別與智慧安檢技術在值機、通關、登機等環節整合應用，構建安檢通道旅客識別系統、行李匹配系統、服務引導終端等，提升旅客出行體驗。在確保安全的前提下，探索開展垂直起降航空器與無人機在短途運輸、空中游覽等場景應用，提升低空運輸服務能力。
-
----
-
-### 2026-06-25 11:13:16  #市場 #觀點 #焦點 #國際 #原創
-
-【摩根大通將韓國股市牛市情景目標位上調至15000點】摩根大通上調韓國Kospi指數目標位，並建議逢低加倉，繼續維持對韓國股市的最高敞口。摩根大通策略師在報告中寫道：“這源於我們對人工智慧的建設性看法以及相關硬體公司的盈利。散戶買盤仍有進一步增加的空間。”策略師表示，參與AI資料中心建設的科技企業盈利如今已經大到足以在宏觀層面產生影響，為企業、家庭和政府帶來財富提振。摩根大通的牛市情景目標位預示，Kospi指數較週三收盤點位8471.02點有77%的上行空間。摩根大通還將該指數的基本情景和熊市情景目標位分別上調至12500點和8000點。
-
----
-
-### 2026-06-25 11:12:56  #MKT News #Market Themes #AI Revolution
-
-【China transport agencies to develop end-to-end large AI models for intelligent driving】The Ministry of Transport, National Railway Administration, Civil Aviation Administration, State Post Bureau and China State Railway Group issued an Action Plan for AI+Transport applications, directing R&D and testing of end-to-end large AI models for intelligent driving. Work will target highway freight, logistics parks/campus transport and short-distance shuttles; develop and validate intelligent evaluation technologies and explore hybrid virtual–real test sites. The plan prioritises trunk routes for bulk cargo—minerals, containers and grain—for integrated intelligent-driving field validation, aiming to drive technical cost reductions and quality/efficiency gains in freight transport.
-
----
-
-### 2026-06-25 11:11:31  #其他
-
-何小鵬：小鵬X9全球第60000臺交付，在香港，交給了陳幼堅先生。 陳幼堅先生是華人設計界的前輩，國家大劇院的標識、香港國際機場的Logo、可口可樂的中文商標，都出自他手。
-
----
-
-### 2026-06-25 11:11:13  #MKT News #Market Themes #Chip Wars
-
-【Kioxia plans to issue US ADRs in spring 2027】Kioxia, the Japanese NAND flash supplier, plans to issue US American Depositary Receipts (ADRs) in spring 2027 to capture AI-driven strength in global semiconductor demand, CFO Yoshihiko Kawamura said at the annual shareholders meeting. Kawamura said the company aims to enter the US market after its fiscal year ends in late March, targeting the start of the next fiscal year — around April, May or June — to establish a direct link to US investors.
-
----
-
-### 2026-06-25 11:10:38  #其他
-
-【教育部發布預警：低分上名校？“內部指標”不存在】2026年高考落下帷幕，查分、志願填報、錄取等環節成為考生和家長關注的焦點，一些機構或個人為牟取經濟利益盯上了這個關鍵時期，打著各種幌子實施詐騙。近期，上海嘉定警方打掉一招生詐騙團伙，犯罪嫌疑人虛構“國家級體能協會副主席”等身份，以“包裝成‘高水平運動員’低分上名校”為名，謊稱可將高考失利學生包裝為足球、籃球等專案高水平運動員，以低分進入“985”“211”高校，先後詐騙22名考生家長，涉案金額900餘萬元。教育部提醒，高校招生錄取嚴格依據分數、志願和計劃進行，公開透明，不存在任何“內部指標”“特招名額”“內部降低分數補招”等非正規渠道。
-
----
-
-### 2026-06-25 11:10:09  #市場
-
-【保險板塊震盪走強 中國人保漲超6%】保險板塊震盪走強，截至發稿，中國人保漲超6%，中國人壽、新華保險等跟漲。
-
----
-
-### 2026-06-25 11:09:56  #其他
-
-【生態環境部：年底前建立縣城黑臭水體清單 發現一處銷號一處】生態環境部今天（25日）舉行6月例行新聞釋出會，針對縣城、城鄉接合部等區域的水體黑臭問題，生態環境部協同有關部門研究制定相關政策檔案，指導各地從“查、治、管”三方面，推進縣城黑臭水體治理。生態環境部水生態環境司司長蔣火華介紹，已組織地方深入開展縣城黑臭水體排查，指導將縣城建成區內的河流、溝渠、湖庫、坑塘等各類水體全面納入排查範圍，根據主要汙染來源，明確治理主責部門，各地今年年底前將建立縣城黑臭水體清單。對黑臭水體數量與實際情況明顯不符的，加強現場核實，確保排查工作不留死角、不走過場。我國城市黑臭水體近年來治理攻堅成效明顯，但在縣城、城鄉接合部等區域，一些支流水體、坑塘溝渠的黑臭問題還比較突出。黑臭水體表象在水裡，根子在岸上，實質是汙水、垃圾直排環境問題。生態環境部指導各地借鑑城市黑臭水體治理經驗，重點抓好生活汙水收集處理，從根本上消除黑臭。同時還將定期評估各地黑臭水體漏查漏報率、返黑返臭率等情況，壓實治理責任。對已治理黑臭水體加強水質監測，跟蹤水體水質變化情況，防止返黑返臭。鼓勵運用影片監控、小微監測設施、無人機、衛星遙感等方式，精準識別突出問題，確保“發現一處、治理一處、銷號一處”。
-
----
-
-### 2026-06-25 11:09:08  #市場 #焦點
-
-乙二醇連續主力合約日內跌4%，現報4040.00元。
-
----
-
-### 2026-06-25 11:08:56  #公司
-
-【中國石化董事長侯啟軍拜會吉爾吉斯斯坦副總理阿昆別科夫】6月24日，中國石化集團公司董事長侯啟軍在烏魯木齊拜會吉爾吉斯斯坦副總理阿昆別科夫，雙方就上游勘探開發、煉油廠建設、成品油貿易、新能源等領域潛在合作機會交換意見。
 
 ---

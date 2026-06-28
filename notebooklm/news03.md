@@ -1,7 +1,61 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-06-29 01:23:29_
-_本檔包含 3849 則快訊，約 666771 字_
+_更新時間：2026-06-29 02:02:33_
+_本檔包含 3846 則快訊，約 666830 字_
+
+---
+
+### 2026-06-25 11:13:16  #市場 #觀點 #焦點 #國際 #原創
+
+【摩根大通將韓國股市牛市情景目標位上調至15000點】摩根大通上調韓國Kospi指數目標位，並建議逢低加倉，繼續維持對韓國股市的最高敞口。摩根大通策略師在報告中寫道：“這源於我們對人工智慧的建設性看法以及相關硬體公司的盈利。散戶買盤仍有進一步增加的空間。”策略師表示，參與AI資料中心建設的科技企業盈利如今已經大到足以在宏觀層面產生影響，為企業、家庭和政府帶來財富提振。摩根大通的牛市情景目標位預示，Kospi指數較週三收盤點位8471.02點有77%的上行空間。摩根大通還將該指數的基本情景和熊市情景目標位分別上調至12500點和8000點。
+
+---
+
+### 2026-06-25 11:12:56  #MKT News #Market Themes #AI Revolution
+
+【China transport agencies to develop end-to-end large AI models for intelligent driving】The Ministry of Transport, National Railway Administration, Civil Aviation Administration, State Post Bureau and China State Railway Group issued an Action Plan for AI+Transport applications, directing R&D and testing of end-to-end large AI models for intelligent driving. Work will target highway freight, logistics parks/campus transport and short-distance shuttles; develop and validate intelligent evaluation technologies and explore hybrid virtual–real test sites. The plan prioritises trunk routes for bulk cargo—minerals, containers and grain—for integrated intelligent-driving field validation, aiming to drive technical cost reductions and quality/efficiency gains in freight transport.
+
+---
+
+### 2026-06-25 11:11:31  #其他
+
+何小鵬：小鵬X9全球第60000臺交付，在香港，交給了陳幼堅先生。 陳幼堅先生是華人設計界的前輩，國家大劇院的標識、香港國際機場的Logo、可口可樂的中文商標，都出自他手。
+
+---
+
+### 2026-06-25 11:11:13  #MKT News #Market Themes #Chip Wars
+
+【Kioxia plans to issue US ADRs in spring 2027】Kioxia, the Japanese NAND flash supplier, plans to issue US American Depositary Receipts (ADRs) in spring 2027 to capture AI-driven strength in global semiconductor demand, CFO Yoshihiko Kawamura said at the annual shareholders meeting. Kawamura said the company aims to enter the US market after its fiscal year ends in late March, targeting the start of the next fiscal year — around April, May or June — to establish a direct link to US investors.
+
+---
+
+### 2026-06-25 11:10:38  #其他
+
+【教育部發布預警：低分上名校？“內部指標”不存在】2026年高考落下帷幕，查分、志願填報、錄取等環節成為考生和家長關注的焦點，一些機構或個人為牟取經濟利益盯上了這個關鍵時期，打著各種幌子實施詐騙。近期，上海嘉定警方打掉一招生詐騙團伙，犯罪嫌疑人虛構“國家級體能協會副主席”等身份，以“包裝成‘高水平運動員’低分上名校”為名，謊稱可將高考失利學生包裝為足球、籃球等專案高水平運動員，以低分進入“985”“211”高校，先後詐騙22名考生家長，涉案金額900餘萬元。教育部提醒，高校招生錄取嚴格依據分數、志願和計劃進行，公開透明，不存在任何“內部指標”“特招名額”“內部降低分數補招”等非正規渠道。
+
+---
+
+### 2026-06-25 11:10:09  #市場
+
+【保險板塊震盪走強 中國人保漲超6%】保險板塊震盪走強，截至發稿，中國人保漲超6%，中國人壽、新華保險等跟漲。
+
+---
+
+### 2026-06-25 11:09:56  #其他
+
+【生態環境部：年底前建立縣城黑臭水體清單 發現一處銷號一處】生態環境部今天（25日）舉行6月例行新聞釋出會，針對縣城、城鄉接合部等區域的水體黑臭問題，生態環境部協同有關部門研究制定相關政策檔案，指導各地從“查、治、管”三方面，推進縣城黑臭水體治理。生態環境部水生態環境司司長蔣火華介紹，已組織地方深入開展縣城黑臭水體排查，指導將縣城建成區內的河流、溝渠、湖庫、坑塘等各類水體全面納入排查範圍，根據主要汙染來源，明確治理主責部門，各地今年年底前將建立縣城黑臭水體清單。對黑臭水體數量與實際情況明顯不符的，加強現場核實，確保排查工作不留死角、不走過場。我國城市黑臭水體近年來治理攻堅成效明顯，但在縣城、城鄉接合部等區域，一些支流水體、坑塘溝渠的黑臭問題還比較突出。黑臭水體表象在水裡，根子在岸上，實質是汙水、垃圾直排環境問題。生態環境部指導各地借鑑城市黑臭水體治理經驗，重點抓好生活汙水收集處理，從根本上消除黑臭。同時還將定期評估各地黑臭水體漏查漏報率、返黑返臭率等情況，壓實治理責任。對已治理黑臭水體加強水質監測，跟蹤水體水質變化情況，防止返黑返臭。鼓勵運用影片監控、小微監測設施、無人機、衛星遙感等方式，精準識別突出問題，確保“發現一處、治理一處、銷號一處”。
+
+---
+
+### 2026-06-25 11:09:08  #市場 #焦點
+
+乙二醇連續主力合約日內跌4%，現報4040.00元。
+
+---
+
+### 2026-06-25 11:08:56  #公司
+
+【中國石化董事長侯啟軍拜會吉爾吉斯斯坦副總理阿昆別科夫】6月24日，中國石化集團公司董事長侯啟軍在烏魯木齊拜會吉爾吉斯斯坦副總理阿昆別科夫，雙方就上游勘探開發、煉油廠建設、成品油貿易、新能源等領域潛在合作機會交換意見。
 
 ---
 
@@ -23132,77 +23186,5 @@ Hang Seng index futures opened the day session up 0.71% at 23,480, trading a 144
 ### 2026-06-24 09:14:32  #Trading Economics #Markets #Commodity #Importance 0
 
 Silver Holds Losses on Hawkish Fed Bets — Silver traded near $61 an ounce on Wednesday, hovering at six-month lows as expectations of tighter Federal Reserve policy outweighed support from the interim US-Iran peace agreement, which helped ease inflation concerns. At its latest policy meeting, Fed officials left interest rates unchanged but indicated increasing support for future rate hikes, while new Fed Chair Kevin Warsh reaffirmed his commitment to restoring price stability. Meanwhile, progress in negotiations between Washington and Tehran encouraged a rise in traffic through the Strait of Hormuz, easing pressure on global energy supplies and reducing inflation risks. Silver and other metals also faced additional selling pressure as a sharp decline in US technology stocks prompted investors to trim bullion positions to offset losses elsewhere in their portfolios.
-
----
-
-### 2026-06-24 09:14:19  #宏觀
-
-【預告：國新辦定於6月26日就“十五五”時期加快新型能源體系建設有關規劃情況舉行新聞釋出會】國務院新聞辦公室定於2026年6月26日（星期五）上午10時舉行“開局起步‘十五五’”系列主題新聞釋出會，請國家發展改革委黨組成員、國家能源局局長王宏志介紹“十五五”時期加快新型能源體系建設有關規劃情況，並答記者問。
-
----
-
-### 2026-06-24 09:14:09  #MKT News
-
-【Omdia: 2026 global smartphone ASP to reach $565 as vendors pivot to value-led strategy】Omdia says rising component costs and heightened geopolitical uncertainty are prompting a structural shift in the global smartphone market, with leading vendors moving away from low-cost, high-volume models toward higher-end, higher-value portfolios. Omdia forecasts 2026 global smartphone shipments will fall 12.2% YoY to 1.093 bln units, roughly 152 mln fewer than 2025, while total market value is expected to rise 6.1% YoY. Average selling price is projected to climb from $467 in 2025 to $565 in 2026.
-
----
-
-### 2026-06-24 09:14:00  #MKT News
-
-【Deguan New Materials says it retains technical know‑how for BOPP capacitor film】At an analyst meeting, Deguan New Materials said it previously produced and sold capacitor film and retains technical know‑how for BOPP capacitor film; the business was suspended due to aging equipment. The company will monitor downstream demand and upstream supply and will cautiously consider restarting the business based on market application development and its own technical readiness.
-
----
-
-### 2026-06-24 09:13:58  #公司
-
-【山東重工與中集集團簽署戰略合作協議】6月23日，山東重工集團與中國國際海運集裝箱（集團）股份有限公司在濟南簽署戰略合作協議。根據協議，雙方將在高階裝備、清潔能源、智慧物流、國際市場、戰略新業務等方面深化合作。
-
----
-
-### 2026-06-24 09:13:40  #MKT News #DXY #Impact bullish
-
-Bank Negara Malaysia said the Ringgit fell against the US dollar following market adjustments in June.
-
----
-
-### 2026-06-24 09:13:26  #公司
-
-【中國移動集團打造5G-A跨省高鐵極致體驗通訊服務】為深度落實國家服務業擴能提質行動部署，銜接“十五五”高鐵發展戰略，破解高速軌道交通場景通訊痛點，樹立智慧出行服務標杆。6月17日，中國移動聯合華為在京滬高鐵（北京南-上海虹橋）正式啟動“中國移動5G-A高鐵加速服務的先鋒體驗官”專項探訪活動。本次活動依託中國移動全球領先的5G-A與AI融合技術，落地全國首個5G-A跨省高鐵專屬加速服務體系，建成京滬高鐵極致網路體驗樣板點，成功實現高鐵通訊從“通用覆蓋”向“智慧定製、極致尊享”的跨越式升級，全力打造“坐高鐵，就用中國移動”的服務新名片。（新華社）
-
----
-
-### 2026-06-24 09:13:20  #市場
-
-【Omdia：2026年全球智慧手機平均售價將達565美元 廠商戰略轉向價值優先】Omdia最新研究顯示，隨著零部件成本上升及地緣政治不確定性加劇，全球智慧手機市場正經歷結構性轉型。領先廠商正逐步擺脫低成本、高出貨量的增長模式，轉而聚焦高階化與高價值產品組合。根據Omdia全球智慧手機預測，2026年全球智慧手機出貨量預計同比下降12.2%，至10.93億部，較2025年減少約1.52億部。儘管出貨量下滑，同期市場總價值仍預計同比增長6.1%。出貨量與市場價值之間的這種背離，正受到零售價格大幅上漲的推動。全球智慧手機平均售價（ASP）預計將從2025年的467美元上升至2026年的565美元。
-
----
-
-### 2026-06-24 09:13:20  #MKT News #DXY #Impact bearish
-
-Bank Negara Malaysia said going forward Malaysia's solid economic fundamentals will provide durable support to the Ringgit.
-
----
-
-### 2026-06-24 09:13:11  #央行 #國際
-
-馬來西亞央行：林吉特6月經歷了一輪市場調整，對美元匯率走跌。
-
----
-
-### 2026-06-24 09:13:11  #央行 #美聯儲
-
-【高盛投資主管：美聯儲7月份加息機率為50% 股價上漲的財富效應或成為加息理由】高盛資產及財富管理多元行業投資主管LindsayRosner最新警告稱，美聯儲在7月份加息的“可能性較大”，機率為50%。她在接受最新採訪時指出，即將公佈的通脹資料，特別是個人消費支出報告，是可能促使美聯儲採取行動的關鍵因素。Rosner還進一步指出，股價上漲帶來的財富效應可能會反映在通脹資料上，從而可能成為加息的理由。
-
----
-
-### 2026-06-24 09:13:03  #公司 #國際
-
-韓國總統助理透露，三星電子、SK海力士正與韓國政府就下一階段投資及選址展開磋商。
-
----
-
-### 2026-06-24 09:12:27  #央行 #國際
-
-【一位日本央行委員：中性利率似乎在2%左右】上週政策會議的意見摘要顯示，日本央行政策委員會九名委員之一表示，中性利率似乎在2%左右。另一位委員表示，政策利率仍低於中性利率估計區間。這位委員表示，須儘快將政策利率拉近到中性利率附近。注：日本央行對中性利率的估計大概在1.1%-2.5%。一位委員稱，央行每隔幾個月考慮一次加息是可取的。注：日本央行在6月會議上將政策利率上調至1%，與外界普遍預期一致。
 
 ---

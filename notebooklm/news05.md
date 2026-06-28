@@ -1,7 +1,67 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-06-29 01:23:29_
-_本檔包含 3497 則快訊，約 666662 字_
+_更新時間：2026-06-29 02:02:33_
+_本檔包含 3488 則快訊，約 666069 字_
+
+---
+
+### 2026-06-23 07:36:13  #其他
+
+【國家資料局局長劉烈宏：加快資料供給、流通、利用、安全等關鍵技術攻關，突破一批基礎性、原創性關鍵技術】國家資料局黨組書記、局長劉烈宏在人民日報刊文《深化市場化配置改革 釋放資料要素價值》。文章稱，夯實基礎，不斷強化資料要素價值釋放能力支撐。“核心技術攻關、資料標準化、數字人才培養”3個基礎良性互動、高效協同，為資料要素市場化配置改革提供堅實支撐。一是加快推進關鍵技術攻關，強化高水平資料科技供給。加快資料供給、流通、利用、安全等關鍵技術攻關，突破一批基礎性、原創性關鍵技術，破除制約大規模高價值、高敏感資料安全可信流通的梗阻。二是加快推進資料標準化，強化資料領域“通用語言”構建。要堅持急用為先，加快推進國家資料標準體系建設，高質量推進標準研製和推廣應用，進一步發揮標準的規範性和引領性作用。三是加快數字人才培養，強化創新發展人才支撐。隨著資料開發利用深度和廣度不斷提升，市場對數字人才尤其是高層次、複合型數字人才需求不斷增長。要加快數字人才隊伍建設，加快形成與我國數字經濟高質量發展相適應的數字人才供給能力。
+
+---
+
+### 2026-06-23 07:35:37  #公司 #市場
+
+【磷化工產業鏈步入景氣上行週期 4股市盈率不足12倍】6月22日，磷化工板塊集體衝高，截至收盤，概念指數上漲8.09%，川發龍蟒、興發集團、澄星股份等多隻個股漲停。2026年以來，磷化工產業鏈步入景氣上行週期，上游原料與下游產品價格共振上行，行業熱度持續攀升。本輪行情的核心驅動力之一來自成本端，受地緣政治因素影響，國際硫磺供給大幅收縮，價格出現暴漲，6月12日一度觸及1.175萬元/噸的高點，年內累計漲幅一度超過210%，直接推高了溼法磷酸及下游磷肥的生產成本。生意社資料顯示，磷酸(溼法)價格最新達到1.13萬元/噸，與2025年末的7250元/噸相比上漲超55%。據證券時報·資料寶統計，A股中磷化工概念股超過20只，6月以來合計獲融資淨買入7.89億元，融資淨買入的個股共有8只，其中雲天化、興發集團、新安股份、興福電子備受青睞，融資淨買入金額分別為4.11億元、3.03億元、2.26億元、1.32億元。從估值來看，磷化工概念股滾動市盈率中位數為25.73倍，其中4股不足12倍，包括史丹利、新洋豐、芭田股份、雲天化，分別為9.31倍、10.01倍、11.07倍、11.21倍。
+
+---
+
+### 2026-06-23 07:35:30  #市場 #觀點 #國際
+
+【華泰證券：美國FERC大型負荷統一監管框架落地，看好大型燃機及燃料電池、儲能等新型供電方案投資機遇】華泰證券研報表示，當地時間6月18日，美國FERC釋出針對資料中心等大型負荷的最新接網規定，要求六大區域電網運營商（PJM、MISO、SPP、CAISO、ISO-NE、NYISO）梳理/改革電價機制並提供負荷接入方案，以實現speed-to-power，同時確保終端電價公平與成本合理分攤。本輪政策標誌著美國大型負荷接網監管進入統一框架，並進一步強化資料中心自備電邏輯，看好大型燃機作為主力電源，以及燃料電池、儲能等新型供電方案的投資機遇。
+
+---
+
+### 2026-06-23 07:35:13  #其他
+
+【國家資料局局長劉烈宏：進一步破除影響生產力發展的體制機制障礙，健全完善資料基礎制度】國家資料局黨組書記、局長劉烈宏在人民日報刊文《深化市場化配置改革 釋放資料要素價值》。文章稱，打好組合拳，著力構建資料要素價值實現閉環。要遵循資料要素價值釋放規律，堅持制度、設施、應用、市場、產業協同發力，構建資料要素價值釋放閉環。堅持制度引領，進一步破除影響生產力發展的體制機制障礙，健全完善資料基礎制度，將制度優勢轉為發展勝勢。堅持基礎先行，加快建設和運營資料基礎設施，夯實資料安全基礎，破解資料安全合規高效流通“不可能三角”。堅持場景牽引，強化資料要素場景應用，打通技術和產業、研發和市場的橋樑，更好發揮乘數效應。堅持市場培育，一體推進位制度、生態、設施、治理等建設，加快建設開放共享安全的全國一體化資料市場。堅持壯大產業，持續繁榮資料產業生態。
+
+---
+
+### 2026-06-23 07:32:23  #市場
+
+日經指數期貨在新加坡交易所開盤上漲110點，報73000點。
+
+---
+
+### 2026-06-23 07:32:13  #公司
+
+【曝三星顯示獲蘋果量產認證 三星為摺疊屏iPhone獨供OLED面板】據韓媒 The Elec 22 日援引業內人士訊息稱，蘋果已經批准三星顯示啟動摺疊 OLED 模組生產。三星顯示已啟用越南工廠的部分後段產線，首批約 300 萬塊面板計劃在今年交付。 模組量產認證是面板供應商正式供貨前必須透過的稽核，主要檢驗最終組裝質量、產品效能和量產穩定性。訊息稱蘋果要求良率至少達到 70%，三星顯示最終良率超過 80%，順利透過認證。 三星顯示將獨家供應蘋果首款摺疊屏手機所需的 OLED 面板。雙方已簽署為期三年的獨家供貨協議，合同期內，蘋果不會從其他供應商採購摺疊 OLED 面板，今年首批出貨量預計約為 300 萬塊。 面板後段製程由三星顯示越南工廠負責。
+
+---
+
+### 2026-06-23 07:31:43  #央行 #美聯儲
+
+【格林斯潘功過交織的貨幣政策遺產】6月22日，執掌美聯儲19年、享年百歲的艾倫·格林斯潘辭世。站在當下金融市場高波動、政府高債務、AI資產泡沫隱現的宏觀節點，覆盤格林斯潘時代的得失，能為新主席沃什治下的美聯儲提供極具現實意義的政策參照。
+
+---
+
+### 2026-06-23 07:31:21  #公司
+
+【6月機構研報熱度攀升 8只機構評級股獲融資淨買入超10億元】6月機構研報熱度攀升，超500次“買入型”評級投向A股400餘隻個股，行業配置偏好出現明顯傾斜，科技成長賽道成為核心關注方向。據證券時報·資料寶統計，截至6月22日，6月以來41家機構累計釋出582次“買入型”（包括買入、增持、推薦、強烈推薦、強烈買入）評級，合計覆蓋453股。從個股來看，6月以來共有18股獲3家及以上機構評級，其中比亞迪、鼎捷數智、太陽紙業、比音勒芬獲機構評級數量居前，分別有9家、9家、8家、8家。分行業來看，上述機構評級家數不少於3家的18股中，電力裝置、食品飲料行業個股最多，分別有4只；機械裝置行業個股為3只。機構評級居前的電力裝置股中，科達利、恩捷股份、駱駝股份均具有鋰電池概念。多隻機構評級股獲得融資資金青睞。從資金面來看，截至6月18日，機構評級股6月以來獲融資淨買入合計158.33億元，其中8股融資淨買入在10億元以上，亨通光電、東山精密、京東方A居前，分別為29.04億元、20.69億元、14億元。其中，亨通光電、東山精密均具有光通訊概念。
+
+---
+
+### 2026-06-23 07:30:38  #Trading Economics #Markets #Commodity #Importance 0
+
+Brent Steadies as US-Iran Talks Continue — Brent stabilized above $78 per barrel on Tuesday after facing pressure in the previous session, as investors assessed signs of initial progress in ongoing peace negotiations between the US and Iran in Switzerland. In a key development, Washington granted Iran a 60-day license to sell oil on international markets, raising expectations of a quicker recovery in global supply. Traffic through the Strait of Hormuz has also picked up, with producers including Kuwait and the United Arab Emirates finding alternative routes to export energy, while Iran shipped more than 30 million barrels over the past week. Meanwhile, Iran's nuclear program remains a major point of contention after Vice President JD Vance said Tehran had agreed to admit nuclear inspectors, a claim Iranian officials have denied.
+
+---
+
+### 2026-06-23 07:30:17  #公司
+
+【平陸運河航線船員簽註工作啟動】經交通運輸部海事局授權，廣西海事局22日正式公告新增“平陸運河航線”簽註，並同步啟動師資培訓和船員簽註工作。這標誌著運河通航的船員資質保障工作開始實施。“平陸運河航線”從南寧橫州市平塘江口至欽州港全程約134.2公里航段，涵蓋連續彎道、狹窄航道、橋區水域及河海交匯區等複雜場景，通航風險較高。根據《中華人民共和國船員條例》，船員適任證書必須註明航區或航線，不得超範圍任職。即日起，海事部門將同步開放船員考試與簽註申請。平陸運河是西部陸海新通道的骨幹工程，是新中國成立以來建設的第一條通江達海的大運河，今年9月將全線通航。（央視）
 
 ---
 
@@ -21015,119 +21075,5 @@ i24News reports Israeli Prime Minister Netanyahu said Israel thwarted an Iranian
 ### 2026-06-22 02:04:05  #國際
 
 【伊朗談判團隊成員稱伊石油制裁豁免草案已敲定】當地時間21日，據伊朗方面訊息，伊朗談判團隊一名成員透露，有關伊朗石油制裁豁免的草案已經最終定稿，並補充說豁免將很快釋出。有關解凍伊朗被凍結資金的行政程式已在卡達代表團的參與下進行。（央視新聞）
-
----
-
-### 2026-06-22 02:02:30  #MKT News
-
-Pakistan's prime minister thanked Switzerland for its support and constructive engagement after signing a historic Islamabad MoU, saying both sides agreed that successful implementation would aid regional peace and stability and bolster global economic prosperity.
-
----
-
-### 2026-06-22 02:02:26  #其他
-
-【西班牙4比0沙烏地阿拉伯】美加墨世界盃H組第二輪，西班牙隊VS沙烏地阿拉伯隊。 第11分鐘，亞馬爾門前包抄破門打入個人世界盃首球。此後奧亞薩瓦爾雙響、坦巴克蒂烏龍。最終西班牙隊4-0大勝沙烏地阿拉伯。
-
----
-
-### 2026-06-22 02:01:30  #MKT News #WTI #Impact bullish #Brent #XAUUSD
-
-【Chubb CEO: Strait of Hormuz shipping to resume gradually but remains war-zone environment】Chubb CEO Evan Greenberg said US efforts to reopen shipping lanes through the Strait of Hormuz should gradually increase vessel traffic, but the security situation remains highly unstable and can change day-to-day or hour-to-hour. He identified sea mines as the biggest uncertainty and said only a single narrow channel is currently usable, constraining the number of ships able to transit. The US Navy is working to open wider passages, and Greenberg said shipping activity will rise incrementally as that work progresses.
-
----
-
-### 2026-06-22 02:00:41  #其他
-
-中國地震臺網自動測定：06月22日01時58分在新疆伊犁州昭蘇縣附近（北緯43.37度，東經81.11度）發生4.0級左右地震，最終結果以正式速報為準。
-
----
-
-### 2026-06-22 02:00:38  #國際
-
-據Al-Mayadeen報道，伊朗代表團表示，除非特朗普為其威脅道歉，且以色列從黎巴嫩撤軍，否則不會重返談判桌。
-
----
-
-### 2026-06-22 01:59:33  #MKT News #XAUUSD #Impact bullish #WTI #DXY
-
-Lebanese broadcaster Al-Mayadeen reported Iran's delegation will not return to negotiations unless Trump apologizes for his threats and Israel withdraws troops from southern Lebanon.
-
----
-
-### 2026-06-22 01:49:35  #其他
-
-卡達首相稱此次美伊談判是地區穩定的“轉折點”。
-
----
-
-### 2026-06-22 01:49:17  #國際
-
-【德國政府擬推動養老金改革 引入市場投資並逐步延遲退休年齡】知情人士透露，德國總理默茨領導的執政聯盟正準備支援一項全面改革德國養老金制度的提案，其中包括引入市場儲蓄機制、收緊提前退休規則，以及逐步提高退休年齡。這些建議由政府任命的委員會起草，將於週二提交。方案建議逐步引入相當於總工資2%的補充養老金繳費，這部分資金將透過一個公共基金工具進行管理，並投資於資本市場。委員會還建議根據預期壽命的增長逐步提高退休年齡。此外，該建議還將取消一項廣受歡迎的提前退休通道，該通道允許繳費滿45年的勞動者提前退休。養老金改革是這屆執政已13個月的聯合政府中最具分歧的議題之一，持續考驗默茨所在保守派與克林拜爾領導的社會民主黨之間長期存在的政策分歧。
-
----
-
-### 2026-06-22 01:49:16  #MKT News #DAX #Impact mixed #EURUSD
-
-【Germany to push pension reform: 2% of payroll into public market fund, retirement age to rise】A government-appointed committee will submit on Tuesday a draft pension overhaul backed by Chancellor Merz’s coalition that would introduce market-based savings, tighten early-retirement rules and phase up the retirement age in line with rising life expectancy. The proposal calls for phased supplementary contributions equal to 2% of total wages to be managed via a public fund vehicle and invested in capital markets. It would also remove an early-retirement route that allowed workers with 45 years’ contributions to retire early. The reform is one of the most divisive issues in the 13-month-old coalition and may face implementation risks amid Conservative–Social Democrat disagreement.
-
----
-
-### 2026-06-22 01:46:35  #MKT News
-
-Refinitiv, citing Iranian sources, reports Iran-US talks in Switzerland have been paused but not ended.
-
----
-
-### 2026-06-22 01:45:42  #焦點 #國際
-
-伊朗訊息人士表示，伊朗與美國在瑞士舉行的談判已暫停，但並未結束。
-
----
-
-### 2026-06-22 01:45:21  #公司
-
-【前5個月“保險版ABS”登記總規模近900億元】近日，中保保險資產登記交易系統有限公司釋出一隻險資資產支援計劃登記情況。據統計，今年前5個月，險資資產支援計劃登記規模合計為893.7億元，登記產品合計為23只。
-
----
-
-### 2026-06-22 01:43:32  #MKT News
-
-【Ethiopia's ruling Prosperity Party wins parliamentary election】Ethiopia's National Election Board said in Addis Ababa on June 21 that the ruling Prosperity Party won the parliamentary vote held in early June. The board said the Prosperity Party captured 438 of 486 seats in the House of Peoples' Representatives, the lower chamber of the federal parliament.
-
----
-
-### 2026-06-22 01:40:37  #其他
-
-SpaceX：24顆星鏈衛星確認成功部署。
-
----
-
-### 2026-06-22 01:36:05  #其他
-
-伊美談判於瑞士啟幕，調解方卡達與巴基斯坦稱此次磋商是實現地區穩定的“歷史性”契機。談判旨在延續近期緩和局勢的相關舉措，落實臨時協議並推進外交斡旋。
-
----
-
-### 2026-06-22 01:35:02  #MKT News
-
-Qatari PM welcomed today's Lake Lucerne summit in Switzerland and the ongoing U.S.-Iran talks, thanked Pakistan and other parties for helping secure a consensus, said he looks forward to building on it, and thanked Switzerland for hosting.
-
----
-
-### 2026-06-22 01:32:26  #其他
-
-哥倫比亞總統大選投票站關閉。
-
----
-
-### 2026-06-22 01:25:23  #MKT News #Commodities #Energy #WTI #Impact bearish #Brent #Copper #Impact bullish
-
-【Columbia researcher: Middle East conflict to accelerate energy transition and supply diversification】Karen Young, researcher at Columbia University’s Center on Global Energy Policy, said a conflict involving Iran is exerting irreversible pressure on the oil sector and has pushed major economies to evaluate energy options outside the Middle East. "Countries are now more focused on energy security and therefore seek to diversify oil supplies and energy resources. In many regions this will mean a shift to renewables, especially in transport and electric vehicles," she said. Young warned the shift will reshape power-generation mixes and reduce the scale of gas sourced from the Middle East as countries rely more on domestic and accessible resources. "The key is not to depend on any single source, especially oil, or any single type of fuel," she added.
-
----
-
-### 2026-06-22 01:24:32  #國際
-
-以色列向美國承諾，將恪守黎巴嫩南部的黃線邊界相關立場。
 
 ---

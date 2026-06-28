@@ -1,7 +1,67 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-06-29 01:23:29_
-_本檔包含 3495 則快訊，約 666995 字_
+_更新時間：2026-06-29 02:02:33_
+_本檔包含 3496 則快訊，約 666255 字_
+
+---
+
+### 2026-06-29 02:00:24  #國際
+
+【烏干達宣佈從南非撤僑】烏干達外交部28日釋出宣告說，鑑於南非民間近幾月反移民暴力和排外抗議活動持續升級，烏總統穆塞韋尼已指示政府安排撤離在南非的烏干達公民。（新華社）
+
+---
+
+### 2026-06-29 01:53:13  #其他
+
+【委內瑞拉地震1450人遇難人3150傷】委內瑞拉全國代表大會主席豪爾赫·羅德里格斯當地時間6月28日下午通報，地震已造成1450人遇難、3150人受傷。774棟建築物受損或完全倒塌，12721人受災。（CCTV國際時訊）
+
+---
+
+### 2026-06-29 01:49:22  #其他 #焦點
+
+【四川高縣發生5.5級地震 消防救援力量已趕赴震中】6月29日0時12分，四川省宜賓市高縣發生5.5級地震，震源深度6公里。總檯記者從四川省消防救援總隊瞭解到，地震發生後，四川省消防救援總隊已啟動應急響應，調派宜賓支隊赴震中偵察災情。截至29日1時，首批救援力量已抵達震中沙河鎮，暫無房屋倒塌、人員被困情況報告。（央視新聞）
+
+---
+
+### 2026-06-29 01:45:23  #國際
+
+俄羅斯國防部通報：防空系統單日在俄境內多地及亞速海上空擊落72架烏克蘭無人機。
+
+---
+
+### 2026-06-29 01:45:18  #其他
+
+【委內瑞拉強震遇難人數升至1450人】當地時間28日，委內瑞拉全國代表大會主席豪爾赫·羅德里格斯宣佈，委內瑞拉24日發生的強震造成的死亡人數上升至1450人。
+
+---
+
+### 2026-06-29 01:45:06  #其他
+
+【宜賓公安啟動應急響應巡查排險#】6月29日0時12分在四川宜賓市高縣發生5.5級地震，地震發生後宜賓消防迅速集結力量，趕赴震中開展災情排查、人員搜救與應急處置工作。
+
+---
+
+### 2026-06-29 01:44:49  #MKT News
+
+A magnitude-5.5 earthquake struck Gao County, Yibin, Sichuan; no casualties reported so far.
+
+---
+
+### 2026-06-29 01:43:47  #MKT News
+
+【Iran foreign minister holds talks with Iraq prime minister】Iran's foreign ministry said Iran's foreign minister met Iraq's prime minister in Iraq on Sunday at midday. Tehran said the minister stressed Iran's determination to deepen political, economic, security, commercial, cultural and people-to-people ties with Iraq, saying closer bilateral cooperation supports regional stability. He outlined recent diplomatic steps aimed at ending what Iran describes as US–Israeli hostilities against Iran, and urged regional states to help maintain security and prevent third parties from using their territory or facilities to carry out illegal attacks on Iran.
+
+---
+
+### 2026-06-29 01:34:21  #國際
+
+【伊朗外交部：伊朗外長與伊拉克外長舉行會晤】伊朗外交部長阿拉格齊率外交代表團到訪巴格達，同伊拉克高層磋商，並於本週日上午與伊拉克外長福阿德·侯賽因舉行會談。
+
+---
+
+### 2026-06-29 01:25:07  #市場
+
+【渠道漲價、終端穩價 娃哈哈、怡寶上調供貨價 瓶裝水價格戰壓力給到經銷商】6月以來，多位經銷商陸續在社交媒體平臺發文，稱自7月1日起，娃哈哈純淨水(596ml×24瓶)每箱供應價上調0.5-1元；同樣是自7月1日起，華潤怡寶桶裝水（18.9L）每桶供應價上調1元。若以上述漲價幅度計算，對經銷商而言，娃哈哈純淨水596ml/瓶的漲價約0.02元至0.04元。中國食品產業分析師朱丹蓬向紅星資本局分析稱，飲用水企業此次調價主要指向PET塑膠包材等原材料成本的大幅上漲。
 
 ---
 
@@ -21101,59 +21161,5 @@ Russian Defence Ministry says it shot down 660 drones overnight.
 ### 2026-06-26 12:32:21  #MKT News
 
 IAEA Director General GROSSI said Iran can choose to lower the enrichment level of nuclear material or have it shipped abroad, but must consent to doing so.
-
----
-
-### 2026-06-26 12:29:54  #其他
-
-傑富瑞將法拉利目標價從350歐元上調至380歐元。
-
----
-
-### 2026-06-26 12:29:44  #公司
-
-傑富瑞將應用材料公司目標價從510美元上調至770美元。
-
----
-
-### 2026-06-26 12:28:58  #MKT News
-
-IAEA Director General Grossi said he believes Iran's nuclear material has not been transferred since the last inspection in 2025, but this still needs to be confirmed.
-
----
-
-### 2026-06-26 12:28:03  #Trading Economics #Markets #China #Currency #Importance 1
-
-Offshore Yuan Heads for 2nd Weekly Loss — The offshore yuan weakened to around 6.80 per dollar on Friday and was on track for a second consecutive weekly loss, remaining under pressure from a broadly strong US dollar. The greenback continued its momentum after the Federal Reserve recently adopted a more hawkish stance, leading markets to price in a 75% probability of a rate hike as early as September. Meanwhile, the People's Bank of China unveiled plans to introduce overnight reverse repo operations on June 29–30 as part of the next phase of its monetary policy framework reform. This will complement the existing seven-day reverse repo rate, bringing the PBOC's policy toolkit more closely in line with those of major central banks, including the Federal Reserve. On the economic front, fiscal expenditure rose 0.8% year-on-year to CNY 11.39 trillion ($1.59 trillion) in the first five months of 2026. Central government spending increased 6.5% to CNY 1.68 trillion, while local government expenditure fell 0.1% to CNY 9.71 trillion.
-
----
-
-### 2026-06-26 12:26:45  #國際
-
-國際原子能機構總幹事格羅西：認為自2025年上一次核查以來，伊朗的核材料未被轉移，但仍需加以核實。
-
----
-
-### 2026-06-26 12:26:19  #宏觀
-
-【“十五五”能源領域新設兩項指標 促進節能降碳】在國務院新聞辦今天舉行的新聞釋出會上，國家能源局發展規劃司司長任育之介紹，能源領域是碳達峰的主戰場，“十五五”時期，我們將以更大力度、更實舉措，加快能源綠色低碳轉型。任育之介紹，“十五五”時期，圍繞轉型降碳，我國設定了5項量化指標。其中，非化石能源消費比重、非化石能源發電量比重、電能佔終端能源消費比重這3項指標，接續“十四五”提出了更高目標；新設定了2項指標：一項是單位發電量碳排放指標，“十五五”的目標是下降10%以上，這是提升我國電力系統的綠色轉型和效率提升的綜合性指標；另一項是重點行業節能量指標，透過節能降碳改造和技術創新，重點行業“十五五”將節約用能1.5億噸標準煤以上。（央視新聞）
-
----
-
-### 2026-06-26 12:25:50  #其他
-
-【深圳上半年新增20家上市企業 位居全國大中城市第一】近日，記者從深圳市委金融辦瞭解到，2026年上半年，深圳資本市場迎來集中“收穫期”，上市梯隊擴容提速。包括，一週三家硬科技企業集中登陸境內外資本市場；深交所迎來史上最大IPO募資專案；上半年深圳全市新增上市企業20家，數量居全國首位，其中15家企業登陸港交所，跨境上市數量創新高。（21財經）
-
----
-
-### 2026-06-26 12:25:02  #MKT News
-
-IAEA Director General Grossi said the agency has conducted preliminary exchanges with Iranian authorities.
-
----
-
-### 2026-06-26 12:24:59  #MKT News #Market Regions #Japan & APAC
-
-【Magnitude-5.8 quake forces Narita runway closures, halts Tsukuba Express】A magnitude-5.8 earthquake struck northeastern Chiba Prefecture at about 12:46 local time on the 26th. Narita Airport closed two runways from 12:47 and is conducting safety inspections. The Tsukuba Express, linking Tsukuba in Ibaraki Prefecture with Akihabara in Tokyo, suspended full-line service from 12:50; the operator said trains will resume once safety is confirmed.
 
 ---
