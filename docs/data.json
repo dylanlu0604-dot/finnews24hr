@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-28 22:29:22",
-  "count": 18030,
+  "updated": "2026-06-28 22:33:37",
+  "count": 18026,
   "items": [
     {
       "id": "4959036",
@@ -164990,44 +164990,6 @@
         "國際"
       ],
       "text": "伊朗總統：美以情報機構企圖製造內部分裂，破壞伊朗民族團結。"
-    },
-    {
-      "id": "4946526",
-      "time": "2026-06-21 22:33:23",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗總統：那些不假思索便隨意表態、不顧及後續後果的人必須認清，他們此舉實則是在為敵人的利益服務。"
-    },
-    {
-      "id": "4946525",
-      "time": "2026-06-21 22:32:51",
-      "tags": [
-        "其他"
-      ],
-      "text": "【哥倫比亞軍警擊斃一反政府武裝重要頭目】哥倫比亞國防部長佩德羅·桑切斯20日晚透過社交媒體宣佈，哥倫比亞軍事部隊與國家警察在一次聯合行動中，擊斃反政府武裝“莫爾迪斯科”在該國西南部的最高頭目。桑切斯表示，此次清剿行動在哥倫比亞考卡山谷省布埃納文圖拉市的鄉村地區進行。據介紹，該頭目涉嫌謀殺、強行招募未成年人、販毒和恐怖襲擊等犯罪活動。“莫爾迪斯科”是從原反政府武裝“哥倫比亞革命武裝力量”（“哥武”）分裂出來的非法武裝組織。哥倫比亞政府與“哥武”2016年簽署和平協議，結束長達半個世紀的對抗。“哥武”次年解除武裝並轉型為政黨，但部分成員反對並另立分支。（新華社）"
-    },
-    {
-      "id": "4946524",
-      "time": "2026-06-21 22:31:42",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【隨著石油價格下跌，押注石油供應過剩的頭寸重新成為焦點】隨著美伊達成和平協議後原油期貨價格大幅下挫，一批幾乎已被市場遺忘的、押注石油供應過剩的場外期權頭寸重新回到投資者的視野。在美國打擊伊朗之前，部分交易員曾押注原油供應過剩將使近期合約價格低於遠期合約，即市場進入所謂的“遠期升水”結構。但美伊衝突爆發後，由於市場擔心供應短缺，近月價格一度飆升。4月下旬，WTI原油8月合約價格一度較9月合約每桶高出逾5美元，而9月合約又較10月合約高出4美元。那時的一波上漲行情使得超過2萬份（相當於每月2000萬桶石油）以現金結算的看跌期權頭寸幾乎變得一文不值。如今，隨著合約間價差重新收窄至每桶1美元以下，這些期權又重新變得有參考價值了。隨著油價回落至戰前水平，重新進入人們視野的不只是看跌價差的頭寸，整個市場的單向持倉也在變得更加悲觀。美國商品期貨交易委員會的最新周度資料顯示，對沖基金及其他大型投機者所持有的國際基準布倫特原油的淨多頭頭寸已降至六個月來的最低水平，自3月底以來減少了近四分之三。"
-    },
-    {
-      "id": "mkt:019eea98-2e98-7dd8-b0a7-2c7c98f03b61",
-      "time": "2026-06-21 22:31:42",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "【Oil-glut bearish positions regain focus as crude retreats】After a US–Iran peace agreement sent crude futures sharply lower, previously dormant OTC option positions betting on an oil supply glut have resurfaced. Before a US strike on Iran, some traders had positioned for contango (near-month below forward months); the subsequent conflict flipped the curve into strong backwardation — in late April WTI August traded >$5/bbl above September and September ~ $4/bbl above October. That move left more than 20,000 cash-settled put contracts (≈20 mln bbl/month) nearly worthless. With inter-month spreads now narrowed to under $1/bbl and prices back near pre-conflict levels, those puts have regained reference value. CFTC weekly data show hedge funds and other large specs cut net-long Brent to a six-month low, down roughly 75% since end-March, indicating materially more bearish directional positioning."
     }
   ]
 }
