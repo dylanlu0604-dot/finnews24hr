@@ -1,7 +1,91 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-06-29 01:04:00_
-_本檔包含 3484 則快訊，約 666798 字_
+_更新時間：2026-06-29 01:23:29_
+_本檔包含 3495 則快訊，約 666528 字_
+
+---
+
+### 2026-06-24 09:12:00  #公司
+
+【德冠新材：對BOPP電容膜具有一定技術儲備】德冠新材(001378)6月23日在分析師會議上表示，公司過往有生產和銷售電容膜的經驗，對BOPP電容膜具有一定的技術儲備，後因裝置老舊淘汰暫停該部分業務。未來會持續關注電容膜的下游市場和上游供應的發展情況。公司將根據市場應用場景的發展和自身技術儲備，審慎考慮是否重啟該業務。
+
+---
+
+### 2026-06-24 09:11:04  #MKT News
+
+Bank Negara Malaysia said MPC members observed that the onshore foreign-exchange market remains healthy.
+
+---
+
+### 2026-06-24 09:10:56  #央行 #國際
+
+馬來西亞央行：展望未來，外部形勢變動與國內因素料將繼續主導林吉特表現。
+
+---
+
+### 2026-06-24 09:10:54  #MKT News
+
+Bank Negara Malaysia reiterated it will continue to closely monitor developments in financial markets.
+
+---
+
+### 2026-06-24 09:10:50  #MKT News
+
+Bank Negara Malaysia said MPC members unanimously judged that Malaysia's favorable macroeconomic fundamentals remain solid.
+
+---
+
+### 2026-06-24 09:10:48  #公司
+
+【德冠新材：已具備批次生產石墨烯轉移膜技術能力 鋰電池絕緣膜已形成產品交付】德冠新材(001378)6月23日在分析師會議上表示，目前公司已具備批次生產石墨烯轉移膜的技術能力，鋰電池絕緣膜已形成產品交付，公司將加快推動鋰電池膜材料的開發和認證程序。因公司產品屬於上游基礎材料，下游產業鏈較長，產品最終應用情況仍需要經過一定時間的技術驗證，目前這部分業務佔營業收入比例不足1%。
+
+---
+
+### 2026-06-24 09:10:44  #MKT News #Market Regions #Emerging Markets
+
+Bank Negara Malaysia says recent volatility in the Ringgit and other regional currencies remains driven by global developments.
+
+---
+
+### 2026-06-24 09:10:31  #央行 #國際
+
+馬來西亞央行：金融市場委員會委員認為，在岸外匯市場狀況依然穩健。
+
+---
+
+### 2026-06-24 09:10:23  #央行 #國際
+
+馬來西亞央行重申將繼續密切監測金融市場動態。
+
+---
+
+### 2026-06-24 09:09:56  #央行 #國際
+
+馬來西亞央行：金融市場委員會成員一致認為，馬來西亞有利的宏觀經濟基本面依然穩固。
+
+---
+
+### 2026-06-24 09:09:42  #央行 #國際
+
+馬來西亞央行表示，林吉特及區域貨幣近期的走勢繼續受全球形勢發展所驅動。
+
+---
+
+### 2026-06-24 09:09:35  #公司
+
+【三德科技：暫無轉型研發晶片晶圓應用裝置和檢測儀器的計劃】三德科技24日在互動平臺表示，公司暫無轉型研發晶片晶圓應用裝置和檢測儀器的計劃，將持續關注各行業技術發展趨勢，並基於自身技術、經驗、資源等積累與沉澱審慎評估未來業務拓展機會。
+
+---
+
+### 2026-06-24 09:09:02  #公司
+
+【峰璟股份：公司自主研發的新型鈦酸鋰電池產品能量密度比傳統鈦酸鋰電池有大幅提升】峰璟股份24日在互動平臺表示，公司自主研發的新型鈦酸鋰電池產品透過自主研發的技術升級，能量密度比傳統鈦酸鋰電池有大幅提升。
+
+---
+
+### 2026-06-24 09:08:42  #國際
+
+【特朗普將於週三簽署住房法案並會見北約秘書長】根據白宮公佈的每日行程安排，特朗普將於美國東部時間週三下午 12 點簽署《住房之路法案》。他將於美國東部時間下午1點在國會大廈出席參議院指導委員會午餐會。特朗普將於美國東部時間下午3:30在橢圓形辦公室與北約秘書長舉行會晤。
 
 ---
 
@@ -21013,23 +21097,5 @@ Brent Steadies as US-Iran Talks Continue — Brent stabilized above $78 per barr
 ### 2026-06-23 07:30:17  #公司
 
 【平陸運河航線船員簽註工作啟動】經交通運輸部海事局授權，廣西海事局22日正式公告新增“平陸運河航線”簽註，並同步啟動師資培訓和船員簽註工作。這標誌著運河通航的船員資質保障工作開始實施。“平陸運河航線”從南寧橫州市平塘江口至欽州港全程約134.2公里航段，涵蓋連續彎道、狹窄航道、橋區水域及河海交匯區等複雜場景，通航風險較高。根據《中華人民共和國船員條例》，船員適任證書必須註明航區或航線，不得超範圍任職。即日起，海事部門將同步開放船員考試與簽註申請。平陸運河是西部陸海新通道的骨幹工程，是新中國成立以來建設的第一條通江達海的大運河，今年9月將全線通航。（央視）
-
----
-
-### 2026-06-23 07:29:15  #Trading Economics #Markets #Commodity #Importance 2
-
-Oil Steadies as US-Iran Talks Continue — Crude oil stabilized above $74 per barrel on Tuesday after facing pressure in the previous session, as investors assessed signs of initial progress in ongoing peace negotiations between the US and Iran in Switzerland. In a key development, Washington granted Iran a 60-day license to sell oil on international markets, raising expectations of a quicker recovery in global supply. Traffic through the Strait of Hormuz has also picked up, with producers including Kuwait and the United Arab Emirates finding alternative routes to export energy, while Iran shipped more than 30 million barrels over the past week. Meanwhile, Iran's nuclear program remains a major point of contention after Vice President JD Vance said Tehran had agreed to admit nuclear inspectors, a claim Iranian officials have denied.
-
----
-
-### 2026-06-23 07:27:34  #其他
-
-【人民日報：推動我國產業向全球價值鏈中高階邁進】建設貿易強國是全面建設社會主義現代化國家的內在要求，是我國推進高水平對外開放的重要組成部分。貿易強國之“強”，不僅體現在規模大、覆蓋面廣，更體現在質量優、附加值高、創新能力強、規則影響力大，體現在我國產業在全球價值鏈中的地位持續提升。貫徹落實黨中央決策部署，必須把貿易強國建設放在構建新發展格局、擴大高水平對外開放、發展新質生產力中統籌把握，推動貿易創新發展，推動我國產業向全球價值鏈中高階邁進。要最佳化升級貨物貿易，推動出口產品向技術含量高、附加值高、帶動能力強的方向升級。鞏固機電產品、裝備製造等傳統優勢，提升產品品質、品牌影響力、國際競爭力和售後服務水平。緊扣新質生產力培育，支援高技術產品、綠色低碳產品等拓展國際市場。
-
----
-
-### 2026-06-23 07:25:47  #央行 #市場 #觀點
-
-【LPR連續13個月保持不變 貸款利率定價基準有望多元化】6月22日，中國人民銀行授權全國銀行間同業拆借中心公佈新一期貸款市場報價利率（LPR），1年期為3.0%，5年期以上為3.5%，連續13個月保持不變。專家表示，6月兩個期限品種的LPR保持不變，符合市場預期。專家分析，一方面是由於主要政策利率保持不變，當月LPR定價基礎沒有變化；另一方面從穩息差角度看，當前報價行缺乏主動下調LPR報價加點的動力。“預計伴隨利率調控框架改革，未來LPR報價形成機制有可能從7天期逆回購利率加點的方式逐步調整。”中信證券首席經濟學家明明表示，2026年第一季度中國貨幣政策執行報告提及單一貸款利率定價基準向多元化基準演化的海外先例，也可能對應未來我國貸款利率定價方式從單純跟隨LPR轉向參考國債利率等更加多元化方式。預計未來相較於直接LPR“降息”，央行或更多基於調控框架最佳化改革的方式，實現實體經濟融資降成本的目標。（中國證券報）
 
 ---

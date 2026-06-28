@@ -1,7 +1,43 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-06-29 01:04:00_
-_本檔包含 3495 則快訊，約 666765 字_
+_更新時間：2026-06-29 01:23:29_
+_本檔包含 3495 則快訊，約 666995 字_
+
+---
+
+### 2026-06-29 01:22:13  #MKT News #Important #WTI #Impact bullish #Brent
+
+【Putin says Russia facing domestic fuel shortages, considers full diesel export ban】President Putin said motorists and businesses are facing fuel shortages and long queues at filling stations. He confirmed a full ban on diesel exports is among options under consideration after several refineries halted production. Following a Friday meeting with producers and government departments, Russia's Energy Ministry advised against an immediate diesel export ban, citing risks of diesel inventory build-up and other knock-on issues; the government will reassess market conditions on Monday.
+
+---
+
+### 2026-06-29 01:19:14  #宏觀 #國際
+
+【普京承認俄羅斯國內燃油供應出現短缺】俄羅斯總統普京表示，車主與各類企業仍面臨燃油供應難題，各地加油站普遍出現排隊現象。受多家煉油廠停產影響，俄羅斯正出臺舉措穩定國內市場，普京證實，全面禁止柴油出口是當前研討的備選方案之一。俄羅斯能源部週五與石油生產商、政府部門召開會議後，暫不建議實施柴油出口禁令，理由是此舉可能造成柴油庫存積壓等衍生問題；政府將於週一重新評估市場形勢。
+
+---
+
+### 2026-06-29 01:08:59  #MKT News
+
+Qatar's Interior Ministry said a Qatari citizen died from shrapnel injuries sustained in recent regional military operations.
+
+---
+
+### 2026-06-29 01:08:32  #其他
+
+【一卡達公民因近期地區內發生的軍事行動受傷身亡】當地時間28日晚，卡達內政部發表宣告說，一名卡達公民因近期該地區軍事行動產生的彈片受傷身亡，另有一名居民受傷，已被送醫治療，目前情況穩定。宣告說，卡達方面此前發現一海上交通工具未按時返回，隨即展開搜救。28日凌晨，搜救人員找到該船，並確認上述人員傷亡情況。 （央視新聞）
+
+---
+
+### 2026-06-29 01:08:17  #國際
+
+歐盟委員會委員卡拉斯將於6月29日至30日訪問土耳其，並將與土耳其外交部長菲丹會面。
+
+---
+
+### 2026-06-29 01:03:44  #國際
+
+俄羅斯總統普京：必須保障農業領域的燃油供應。
 
 ---
 
@@ -21119,41 +21155,5 @@ IAEA Director General Grossi said the agency has conducted preliminary exchanges
 ### 2026-06-26 12:24:59  #MKT News #Market Regions #Japan & APAC
 
 【Magnitude-5.8 quake forces Narita runway closures, halts Tsukuba Express】A magnitude-5.8 earthquake struck northeastern Chiba Prefecture at about 12:46 local time on the 26th. Narita Airport closed two runways from 12:47 and is conducting safety inspections. The Tsukuba Express, linking Tsukuba in Ibaraki Prefecture with Akihabara in Tokyo, suspended full-line service from 12:50; the operator said trains will resume once safety is confirmed.
-
----
-
-### 2026-06-26 12:24:42  #公司 #國際
-
-【受地震影響 日本成田機場部分跑道關閉】當地時間26日12時46分左右，日本千葉縣東北部發生5.8級地震。受地震影響，位於千葉縣的成田機場自12時47分起關閉兩條跑道，正在進行安全檢查。此外，連線茨城縣筑波市和東京秋葉原的筑波快線12時50分起全線暫停運營。鐵路公司表示，在確認安全後，將盡快恢復列車執行。
-
----
-
-### 2026-06-26 12:24:02  #國際
-
-國際原子能機構總幹事格羅西：該機構已與伊朗官方進行了初步溝通。
-
----
-
-### 2026-06-26 12:23:24  #公司
-
-【尚比亞國有礦業公司ZCCM尋求恢復倫敦上市資格】據報道，尚比亞整合銅礦投資控股公司（ZCCM Investments Holdings Plc，簡稱 ZCCM-IH）已聘請顧問，以提升其證券的吸引力。執行長卡肯恩瓦·穆揚瓦表示，公司目標是在十年內將ZCCM的市值從14億美元提升至70億美元。ZCCM-IH在盧薩卡有主要上市，同時在巴黎和倫敦設有次級上市，但因未能及時提交財務報表，其英國股票已被多次暫停交易。
-
----
-
-### 2026-06-26 12:23:00  #其他
-
-【國聯民生證券：供需缺口將剛性存在 化工或迎長期基本面牛市】國聯民生證券釋出研報稱，化工迎來基本面牛市的基礎，其中短中期有美伊及俄烏帶來的大體量物理性產能損失，中長期有“雙碳”帶來的落後產能退出。短中期看，全球73家化工企業預計修復完成時間在27-30年不等，這部分供給損失獨立於海峽是否開放及油價等因素。該行認為，只要不出現1980年兩伊衝突(需求-9.9%)及2020年公共衛生事件(需求-8.9%)等情景，供需缺口將剛性存在，不受海峽開放，油價高低等影響。從中長期看，“雙碳”考核強化，化工行業供給約束持續加碼。
-
----
-
-### 2026-06-26 12:22:43  #其他
-
-【公安部：1至5月全國破獲毒品犯罪案件1.2萬起】今天是第39個國際禁毒日，記者從公安部瞭解的最新資料顯示，今年1至5月，全國共破獲毒品犯罪案件1.2萬起，抓獲犯罪嫌疑人1.8萬名，繳獲毒品10.7噸。各地深化“拔釘追逃”，抓獲潛藏境外的涉毒逃犯49名，其中國際刑警紅色通緝令逃犯2名、公安部A級通緝逃犯2名。
-
----
-
-### 2026-06-26 12:22:25  #MKT News
-
-IAEA Director General Grossi said the agency hopes to visit Iran as soon as possible.
 
 ---

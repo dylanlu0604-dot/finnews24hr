@@ -1,7 +1,25 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-06-29 01:04:00_
-_本檔包含 3503 則快訊，約 666548 字_
+_更新時間：2026-06-29 01:23:29_
+_本檔包含 3497 則快訊，約 666662 字_
+
+---
+
+### 2026-06-23 07:29:15  #Trading Economics #Markets #Commodity #Importance 2
+
+Oil Steadies as US-Iran Talks Continue — Crude oil stabilized above $74 per barrel on Tuesday after facing pressure in the previous session, as investors assessed signs of initial progress in ongoing peace negotiations between the US and Iran in Switzerland. In a key development, Washington granted Iran a 60-day license to sell oil on international markets, raising expectations of a quicker recovery in global supply. Traffic through the Strait of Hormuz has also picked up, with producers including Kuwait and the United Arab Emirates finding alternative routes to export energy, while Iran shipped more than 30 million barrels over the past week. Meanwhile, Iran's nuclear program remains a major point of contention after Vice President JD Vance said Tehran had agreed to admit nuclear inspectors, a claim Iranian officials have denied.
+
+---
+
+### 2026-06-23 07:27:34  #其他
+
+【人民日報：推動我國產業向全球價值鏈中高階邁進】建設貿易強國是全面建設社會主義現代化國家的內在要求，是我國推進高水平對外開放的重要組成部分。貿易強國之“強”，不僅體現在規模大、覆蓋面廣，更體現在質量優、附加值高、創新能力強、規則影響力大，體現在我國產業在全球價值鏈中的地位持續提升。貫徹落實黨中央決策部署，必須把貿易強國建設放在構建新發展格局、擴大高水平對外開放、發展新質生產力中統籌把握，推動貿易創新發展，推動我國產業向全球價值鏈中高階邁進。要最佳化升級貨物貿易，推動出口產品向技術含量高、附加值高、帶動能力強的方向升級。鞏固機電產品、裝備製造等傳統優勢，提升產品品質、品牌影響力、國際競爭力和售後服務水平。緊扣新質生產力培育，支援高技術產品、綠色低碳產品等拓展國際市場。
+
+---
+
+### 2026-06-23 07:25:47  #央行 #市場 #觀點
+
+【LPR連續13個月保持不變 貸款利率定價基準有望多元化】6月22日，中國人民銀行授權全國銀行間同業拆借中心公佈新一期貸款市場報價利率（LPR），1年期為3.0%，5年期以上為3.5%，連續13個月保持不變。專家表示，6月兩個期限品種的LPR保持不變，符合市場預期。專家分析，一方面是由於主要政策利率保持不變，當月LPR定價基礎沒有變化；另一方面從穩息差角度看，當前報價行缺乏主動下調LPR報價加點的動力。“預計伴隨利率調控框架改革，未來LPR報價形成機制有可能從7天期逆回購利率加點的方式逐步調整。”中信證券首席經濟學家明明表示，2026年第一季度中國貨幣政策執行報告提及單一貸款利率定價基準向多元化基準演化的海外先例，也可能對應未來我國貸款利率定價方式從單純跟隨LPR轉向參考國債利率等更加多元化方式。預計未來相較於直接LPR“降息”，央行或更多基於調控框架最佳化改革的方式，實現實體經濟融資降成本的目標。（中國證券報）
 
 ---
 
@@ -21111,59 +21129,5 @@ Qatari PM welcomed today's Lake Lucerne summit in Switzerland and the ongoing U.
 ### 2026-06-22 01:24:32  #國際
 
 以色列向美國承諾，將恪守黎巴嫩南部的黃線邊界相關立場。
-
----
-
-### 2026-06-22 01:21:54  #MKT News #Commodities #Energy
-
-Sources said a fire broke out at the combined-heat-and-power unit of Marathon's Galveston Bay refinery in Texas; no injuries reported so far.
-
----
-
-### 2026-06-22 01:21:18  #MKT News #Important
-
-Al Arabiya reported the Iranian delegation left the negotiating table and returned to its residence in Switzerland; talks with the US are continuing via intermediaries.
-
----
-
-### 2026-06-22 01:21:07  #其他
-
-訊息人士稱，馬拉松石油位於得克薩斯州加爾維斯頓灣的煉油廠聯產裝置發生火災，目前未造成人員傷亡。
-
----
-
-### 2026-06-22 01:16:49  #國際
-
-【訊息人士：伊朗方面並未離場，伊美之間的談判仍在繼續】伊朗媒體週日報道稱，伊朗代表團與此次談判的調解方之一卡達代表團會面後，已離開談判場地。該報道引發外界猜測，伊美兩國在瑞士舉行的相關磋商已暫停或結束。但美國阿克西奧斯新聞網記者巴拉克·拉維德援引一名參與談判的外交官說法，否認了上述訊息。這名外交官表示：“伊朗方面並未離場，伊美之間的談判仍在繼續。”
-
----
-
-### 2026-06-22 01:06:01  #MKT News #WTI #Impact bearish #XAUUSD #DXY
-
-Iranian state media quoted a Foreign Ministry spokesman saying Sunday’s talks centered on ending the war, lifting sanctions and securing the release of Iran’s frozen funds.
-
----
-
-### 2026-06-22 01:05:26  #MKT News #Important
-
-Axios reported a diplomat participating in the talks said the Iranian delegation had not left and U.S.-Iran negotiations were continuing.
-
----
-
-### 2026-06-22 01:05:24  #國際
-
-一名參與瑞士談判的外交官稱，伊朗代表團並未離場，美伊談判仍在進行。
-
----
-
-### 2026-06-22 01:05:18  #其他 #焦點 #國際
-
-伊朗外交部發言人表示，週日會談的重點為結束戰爭、解除制裁以及解凍伊朗被凍結資金。
-
----
-
-### 2026-06-22 01:04:40  #MKT News #XAUUSD #Impact bullish #WTI
-
-【Ghalibaf rebuffs Trump's latest threat】Ghalibaf, head of Iran’s negotiating delegation in Switzerland and speaker of the Iranian parliament, said on social media on June 21 that Iran does not take US threats seriously, warned Washington to choose its words carefully and said Iran’s armed forces are fully prepared to respond “in another way.” He added that regardless of US bluster, “we will be the ones to act.” Earlier, Trump posted that “Iran must immediately stop its ‘proxies’ in Lebanon. If not, we will strike Iran again, like last week, and only harder.”
 
 ---
