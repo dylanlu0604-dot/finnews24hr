@@ -1,7 +1,79 @@
 {
-  "updated": "2026-06-28 14:25:56",
-  "count": 18156,
+  "updated": "2026-06-28 14:42:59",
+  "count": 18153,
   "items": [
+    {
+      "id": "4958774",
+      "time": "2026-06-28 14:37:49",
+      "tags": [
+        "國際"
+      ],
+      "text": "歐盟卡拉斯：（關於委內瑞拉地震）歐盟的哥白尼衛星系統正在支援緊急救援人員。"
+    },
+    {
+      "id": "mkt:019f0cf1-e492-7770-9d1d-3b109c2f6751",
+      "time": "2026-06-28 14:36:46",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "kallas said the EU has mobilized EUR 5 mln in emergency assistance for communities affected by an earthquake in Venezuela."
+    },
+    {
+      "id": "4958773",
+      "time": "2026-06-28 14:35:06",
+      "tags": [
+        "國際"
+      ],
+      "text": "歐盟卡拉斯就委內瑞拉地震發表宣告：歐盟已調動500萬歐元緊急援助。"
+    },
+    {
+      "id": "4958772",
+      "time": "2026-06-28 14:35:01",
+      "tags": [
+        "國際"
+      ],
+      "text": "歐盟委卡拉斯就委內瑞拉地震發表宣告：歐洲在委內瑞拉亟需幫助的此刻與該國站在一起。"
+    },
+    {
+      "id": "mkt:019f0cef-fa67-7770-9d1d-37e701b27e56",
+      "time": "2026-06-28 14:34:41",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "kallas said the EU's Copernicus satellite system is supporting emergency responders in Venezuela following an earthquake."
+    },
+    {
+      "id": "mkt:019f0cef-ef20-7770-9d1d-2b95f756d0fa",
+      "time": "2026-06-28 14:34:38",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "kallas said she spoke with interim Venezuelan president Delcy RODRIGUEZ about the devastating earthquake in Venezuela."
+    },
+    {
+      "id": "mkt:019f0cef-e703-7770-9d1d-2578b3280a6b",
+      "time": "2026-06-28 14:34:36",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "kallas said the EU has activated the EU Civil Protection Mechanism in response to an earthquake in Venezuela."
+    },
+    {
+      "id": "4958771",
+      "time": "2026-06-28 14:34:28",
+      "tags": [
+        "國際"
+      ],
+      "text": "歐盟委員會卡拉斯就委內瑞拉地震表態：我們已啟動歐洲民事保護機制。"
+    },
+    {
+      "id": "4958770",
+      "time": "2026-06-28 14:34:16",
+      "tags": [
+        "國際"
+      ],
+      "text": "歐盟委員會卡拉斯：委內瑞拉發生災難性地震後，我與委內瑞拉代總統通了電話。"
+    },
     {
       "id": "4958769",
       "time": "2026-06-28 14:19:33",
@@ -166062,109 +166134,6 @@
         "Brent"
       ],
       "text": "Iran's central bank governor said he hopes to reach an agreement with the US in coming days; restoring oil exports and resource flows would create better conditions."
-    },
-    {
-      "id": "4946182",
-      "time": "2026-06-21 14:42:55",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗石油部長：若西方國家恪守相關共識精神，石油產業將成為伊美最終和平協議的核心試驗場。"
-    },
-    {
-      "id": "mkt:019ee8ea-1fbb-7dd8-b0a3-c03174628e88",
-      "time": "2026-06-21 14:41:58",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Iran's central bank governor said foreign exchange reserves rose by USD 4.5 bln during the war."
-    },
-    {
-      "id": "4946181",
-      "time": "2026-06-21 14:40:17",
-      "tags": [
-        "市場"
-      ],
-      "text": "科威特政府資料顯示，5月消費者物價指數環比上漲0.07%。"
-    },
-    {
-      "id": "4946180",
-      "time": "2026-06-21 14:40:10",
-      "tags": [
-        "市場"
-      ],
-      "text": "科威特政府資料顯示，5月消費者物價指數同比上漲2.49%。"
-    },
-    {
-      "id": "mkt:019ee8e7-e00f-7dd8-b0a3-bb48c46905b7",
-      "time": "2026-06-21 14:39:30",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "【Ukraine again strikes Russian oil terminal】Russia's regional authorities said Ukrainian drones struck an oil terminal in Krasnodar Krai, sparking a fire. Ukrainian drones also hit a passenger ferry, killing one."
-    },
-    {
-      "id": "4946179",
-      "time": "2026-06-21 14:38:44",
-      "tags": [
-        "國際"
-      ],
-      "text": "當地官員稱，俄羅斯克拉斯諾達爾地區一處石油碼頭遭烏克蘭無人機襲擊後起火。"
-    },
-    {
-      "id": "4946178",
-      "time": "2026-06-21 14:38:40",
-      "tags": [
-        "國際"
-      ],
-      "text": "當地政府表示，烏克蘭無人機襲擊俄羅斯克拉斯諾達爾地區一艘客運渡輪，造成一人死亡。"
-    },
-    {
-      "id": "4946177",
-      "time": "2026-06-21 14:38:36",
-      "tags": [
-        "國際"
-      ],
-      "text": "俄任命的克里米亞州長稱，烏克蘭無人機襲擊克里米亞，造成4人死亡、28人受傷。"
-    },
-    {
-      "id": "4946176",
-      "time": "2026-06-21 14:33:58",
-      "tags": [
-        "公司",
-        "市場",
-        "國際"
-      ],
-      "text": "【今日特朗普要聞】\n1、特朗普稱，霍爾木茲海峽60天寬限期結束後不會徵收通行費，除非通行費由美國徵收並所有。但如果不能達成協議，美國或將收取霍爾木茲海峽通行費。\n2、特朗普坦言擔憂全球經濟崩盤是其簽署美伊臨時和平諒解備忘錄的核心原因，這份協議重開霍爾木茲海峽、豁免伊朗原油制裁並帶動油價下跌、美股上漲，而美方對經濟危機的顧慮也使其在美伊後續談判中處於籌碼不足的弱勢。\n3、特朗普稱，伊朗在軍事上“已被徹底擊敗”。\n4、特朗普重申沒有美國便沒有以色列，稱自己終止伊核協議、打擊伊朗核設施才保全以色列，雖與內塔尼亞胡交好但要求其保持理智，並篤定以色列會聽從自己、美方能夠約束以方襲擊黎巴嫩。\n5、特朗表態，已不再將美國人工智慧公司Anthropic視作國家安全威脅。\n6、特朗普在社交媒體發文，稱義大利總理梅洛尼於 G7 峰會期間多次求合影，指責其在防伊朗擁核議題上不配合美方，還拒絕開放本國機場跑道給美軍使用，給美方帶來極大後勤阻礙，並稱美國每年投入鉅額資金守護義大利等北約盟友。\n7、特朗普將於下週三出席參議院共和黨午餐會。"
-    },
-    {
-      "id": "4946175",
-      "time": "2026-06-21 14:27:28",
-      "tags": [
-        "國際"
-      ],
-      "text": "【世界盃塞內加爾隨隊記者遭遇簽證難題】本屆世界盃，伊朗隊的三場小組賽均在美國境內舉行。但美國對駐地位於墨西哥蒂華納市的伊朗隊施加了嚴格的行程限制，僅允許伊朗隊在比賽日前一天入境美國，並要求其在賽後當天離開美國。這一要求給伊朗隊的備戰造成極大不便。不僅是伊朗，央視記者近日在美國探訪正在訓練的塞內加爾隊時發現，美國給隨隊報道的塞內加爾記者簽發的是單次入境簽證，給報道工作也帶來困難。（央視新聞）"
-    },
-    {
-      "id": "4946174",
-      "time": "2026-06-21 14:26:52",
-      "tags": [
-        "國際"
-      ],
-      "text": "【伊朗最高領袖哈梅內伊的軍事顧問警示：不要對伊美談判抱有樂觀情緒】伊朗最高領袖哈梅內伊的軍事顧問週日警示，不要對伊美談判抱有樂觀情緒，他稱美國是在無法逼迫伊朗屈服後才轉向談判渠道。他在社交平臺 X 上發文表示：“美國原本打算推行‘以實力求和平’戰略，迫使伊朗投降。如今該策略已然失敗，美方走投無路，才執意要開展談判。”這位前伊朗革命衛隊指揮官補充道：“任何樂觀心態都會被敵人加以利用。”"
-    },
-    {
-      "id": "mkt:019ee8db-a7e5-7dd8-b0a3-b27f854cd650",
-      "time": "2026-06-21 14:26:09",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Iran brigadier general warns optimism could be exploited】An Iranian brigadier general told state-affiliated Fars News the US sought to force Iran's submission via a \"peace through strength\" strategy and, having failed, is now desperately pushing for negotiations. He said the enemy has proven untrustworthy and warned: \"We must remain vigilant; any optimism could be exploited.\""
     }
   ]
 }
