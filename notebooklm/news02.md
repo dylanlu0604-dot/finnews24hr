@@ -1,7 +1,91 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-06-29 04:30:03_
-_本檔包含 3664 則快訊，約 665571 字_
+_更新時間：2026-06-29 05:05:04_
+_本檔包含 3661 則快訊，約 665358 字_
+
+---
+
+### 2026-06-26 13:10:44  #其他
+
+【江蘇無錫：力爭“十五五”末研發投入強度達3.8%以上】持續推動科技創新和產業創新深度融合，力爭“十五五”末研發投入強度達3.8%以上，力爭到2030年戰略性新興產業產值佔比達50%，打造具有國際競爭力的產業創新智造強市……6月25日，無錫市召開“開局起步‘十五五’”專題新聞釋出會。無錫市委副書記、市長蔣鋒表示，“十五五”期間，無錫將加快構建現代化產業體系、打造產業科技創新高地、全方位擴大內需、打造雙向開放樞紐城市、建設現代化人民城市。
+
+---
+
+### 2026-06-26 13:09:04  #公司 #國際
+
+【和譽-B(02256)：和譽醫藥在2026 ASCO年會公佈ABSK061聯合ABSK043治療FGFR2陽性晚期GC/GEJC II期研究結果】和譽-B(02256)釋出公告，公司的附屬公司上海和譽生物醫藥科技有限公司(和譽醫藥)宣佈，在近期舉行的2026年美國臨床腫瘤學會(ASCO)年會上，公司公佈了其自主研發的同類首創(First-in-class)口服高選擇性 FGFR2/3抑制劑ABSK061聯合口服PD-L1抑制劑ABSK043，伴或不伴CAPOX(奧沙利鉑聯合卡培他濱)治療FGFR2陽性晚期胃癌及胃食管結合部癌(GC/GEJC)的II期臨床研究初步結果。研究資料顯示，ABSK061聯合ABSK043，伴或不伴CAPOX，在FGFR2陽性晚期GC/GEJC患者中展現出良好的安全性和積極的抗腫瘤活性，凸顯了這種靶向聯合免疫治療策略作為該患者群體新型治療方案的潛力。
+
+---
+
+### 2026-06-26 13:07:26  #公司
+
+【國家稅務總局推出集團企業“稅收貢獻賬單”】據國家稅務總局訊息，繼向納稅人推送“稅收紅利賬單”之後，國家稅務總局探索建立集團企業涉稅資料準確歸集、精準推送、高效應用的工作流程，創新推出集團企業“稅收貢獻賬單”服務，按統一標準歸集展示集團企業年度納稅資料，幫助其更準確全面地掌握整體納稅情況，更好提高納稅遵從、履行社會責任，為高質量發展營造法治公平的稅收環境。稅務總局納稅服務司有關負責人介紹，目前，稅務部門初步選取了央企上市公司及民營企業等500多家重點集團，並於6月中旬試點開展了向集團總部推送整個集團上年度“稅收貢獻賬單”的工作。
+
+---
+
+### 2026-06-26 13:06:05  #其他
+
+住友化學：將於7月1日起上調硝酸銨價格。
+
+---
+
+### 2026-06-26 13:05:27  #公司 #國際
+
+【全球首個自動駕駛系統技術法規獲批發布 10只概念股獲融資大幅淨買入】據工信部訊息，6月22—26日，聯合國世界車輛法規協調組織（UN/WP.29）第199次全體會議在瑞士日內瓦召開。會上，由中國、歐盟、英國、美國、加拿大和日本共同牽頭制定的聯合國自動駕駛系統全球技術法規（ADS GTR）經全體締約方投票表決，正式獲批發布。據證券時報·資料寶統計，A股中智慧駕駛概念股共有91只，從資金流向上來看，23股6月以來獲得融資淨買入，10股融資淨買入金額超過1億元，芯原股份、藍思科技、晶方科技居前，分別為8.99億元、5.67億元、3.36億元，這三家公司均屬汽車電子產業鏈。估值上來看，按最新滾動市盈率計算，目前15股估值不足20倍，華域汽車、天有為、上汽集團較低，分別為7.01倍、9.87倍、11.18倍。（證券時報）
+
+---
+
+### 2026-06-26 13:05:06  #其他
+
+【安森美宣佈將收購Synaptics，交易對價約70億美元】6月26日訊息，安森美與Synaptics Incorporated宣佈，雙方已簽署最終協議。根據協議，安森美將透過全股票交易方式收購Synaptics，該交易對應的企業總價值約為70億美元。此次交易採用固定換股比例，即每股Synaptics股票可兌換1.350股安森美普通股。按照雙方過去10個交易日成交量加權平均股價計算，該交易對應約19%的溢價。安森美表示，透過整合Synaptics差異化的邊緣AI計算、強大的人機互動（HMI）和無線連線技術方面的技術能力，安森美將從電源與感知領域擴充套件至智慧系統領域。雙方結合後將進一步強化安森美在物理AI的市場地位，並預計到2030年將總潛在市場規模擴大300億美元，達到2430億美元。
+
+---
+
+### 2026-06-26 13:04:36  #MKT News #Star Stocks #Market Themes #AI Revolution #Chip Wars #Hang Seng Index #Impact bearish #Nasdaq100 #AAPL.O
+
+【Apple price hikes trigger Asian tech sell-off; investors fear rising memory prices could curb AI demand】Apple’s product price increases prompted a Friday sell-off in Asian technology stocks as investors worried that rising component costs will suppress end-device demand and eventually weigh on the memory chip market supporting AI investment. Markets are reassessing whether rapidly rising storage prices—driven by strong AI demand—could, by raising manufacturing and consumer costs, begin to curb overall spending. Apple’s move is being read as a clear signal that sector pricing power may come at the expense of future demand, prompting re-ratings of AI-exposed semiconductor names. Charu Chanana, chief investment strategist at Saxo, said markets no longer treat rising memory prices as an unambiguous positive for the AI trade: it confirms robust AI infrastructure demand but increases the cost of building and using AI, risking a slowdown in the memory cycle that markets have begun to price in.
+
+---
+
+### 2026-06-26 13:03:08  #觀點
+
+高盛將諾和諾德目標價從305丹麥克朗上調至310丹麥克朗。
+
+---
+
+### 2026-06-26 13:02:17  #其他
+
+【深半協：2025年深圳積體電路產業實現銷售收入3610.4億元】6月26日，深圳市半導體行業協會諮詢委員會主任周生明在2026中國（深圳）積體電路峰會上表示，長期以來，我國積體電路長期存在大額貿易逆差，但是近年來中國積體電路出口增長率超過進口增長率，也是國產半導體產業走向世界的一個佐證。據統計，2025年深圳積體電路產業實現銷售收入3610.4億元，同比增長27.1%，超額完成2700億元的規劃目標，產業鏈日趨完善，創新成果不斷湧現。
+
+---
+
+### 2026-06-26 13:01:56  #MKT News #Commodities #Energy #Brent #Impact bullish #WTI
+
+A Kazakh minister said Kazakhstan cut gas output at the Karachaganak field after a Ukrainian drone strike on Russia's Orenburg gas-processing plant.
+
+---
+
+### 2026-06-26 13:00:11  #MKT News
+
+Singapore May seasonally adjusted industrial production MoM -0.7% vs 2.0% expected; April revised to 6.2% from 5.8%.
+
+---
+
+### 2026-06-26 13:00:09  #公司
+
+中信資源控股有限公司在香港暫停交易。
+
+---
+
+### 2026-06-26 13:00:08  #MKT News
+
+Singapore May industrial production YoY +13.0% vs forecast +17.2%; April revised down to 16.5% from 17.6%.
+
+---
+
+### 2026-06-26 13:00:00  #MKT News #Economic Calendar #Important
+
+Singapore | Industrial Production (YoY) (May) | actual 13% | consensus 17.2% | previous 17.60%
 
 ---
 
@@ -21970,107 +22054,5 @@ Thailand's Commerce Ministry said May exports based on customs data rose 10.6% Y
 ### 2026-06-25 11:33:45  #MKT News
 
 【Japanese businesses send 10 delegations to China】The fourth Chain Expo was held in Beijing June 22–26. Japan sent the largest number of Asian delegations, dispatching 10 economic groups to China, including Keidanren (Japan Business Federation), the Japan Chamber of Commerce and Industry and the Kansai Economic Federation. Keidanren is Japan’s largest and most influential comprehensive business group, with core members spanning leading firms across sectors; the Japan Chamber is one of the country’s largest nationwide business organizations; the Kansai federation represents the Kansai region, Japan’s second-largest economic area. Collectively the 10 delegations cover broad segments of Japan’s corporate network.
-
----
-
-### 2026-06-25 11:33:43  #MKT News #USDJPY #Impact bullish #7203.T #7201.T
-
-【Yen slide to 40-year low may add ¥934bn (≈$5.8bn) to Japanese automakers' profits】Yen weakness, despite policy efforts to halt the fall, could lift aggregate profits at Japanese automakers by about ¥934bn (≈$5.8bn) if the currency stays near current levels. Toyota’s May guidance assumes $1=¥150 versus the current ~¥161; Toyota estimates each ¥1 depreciation boosts its operating profit by ¥50bn, implying a substantial benefit from continued yen weakness. Other OEM assumptions are more conservative: Honda $1=¥145, Nissan $1=¥150, Subaru and Mazda $1=¥155. In yuan terms of input costs, raw material and energy prices in yen have fallen more than 30% from late‑April peaks after the US‑Iran peace agreement. Analyst Tatsuo Yoshida says the recent developments could be materially positive for firms that already factored Middle East risks into forecasts and that lower gasoline prices may help consumer confidence and support vehicle demand.
-
----
-
-### 2026-06-25 11:33:35  #國際
-
-泰國商務部公佈資料：5月經清關進口額同比增長35.1%，預期為增長35%。
-
----
-
-### 2026-06-25 11:33:07  #國際
-
-【鏈博會期間日本企業組了10個團訪華】6月22日至26日，第四屆鏈博會在京舉行，譚主獲取了此次訪華的日本訪問團名單。譚主獲悉，本屆鏈博會中，日本是亞洲國家裡團組數量最多的。 日方共有10個經濟團組來華，包括日本經濟團體聯合會（經團聯）、日本商工會議所等。經團聯是日本規模最大、最具權威的綜合性經濟團體，核心會員幾乎囊括了日本所有領域的頭部企業；日本商工會議所是日本規模最大的全國性工商組織之一；而關西經濟聯合會所代表的關西地區是日本第二大經濟圈。可以說，這10個團體廣泛覆蓋了日本社會企業網路的方方面面。 其實，由約200名商界領袖組成的日本經濟界代表團年初曾計劃訪華，卻因高市早苗涉臺錯誤言論的影響，被一再推遲。日本企業一等再等，索性自己尋找交流的方法。 在鏈博會現場，譚主也和日本商界人士聊了聊。日本貿易振興機構中國東北亞地區總代表小野寺修表示：“各企業來訪是為了在中日關係困難的時候，維持與中國商界的關係，瞭解中國當前的形勢。”國際貿促會副會長秦喜秋也直言：“失去中國，日本也無法存在。” 此次鏈博會，日本企業“用腳投票”恰恰說明，高市早苗的對華“脫鉤”完全不得人心。（玉淵譚天）
-
----
-
-### 2026-06-25 11:32:35  #MKT News
-
-India's 10-year benchmark government bond yield fell to its lowest level since March 20.
-
----
-
-### 2026-06-25 11:31:34  #MKT News #Market Regions #Greater China #CSI300 #Impact bullish
-
-【Index futures morning session close】Index futures morning session close: CSI 300 futures (IF) front contract +1.63%; SSE 50 futures (IH) front contract +1.49%; CSI 500 futures (IC) front contract +0.62%; CSI 1000 futures (IM) front contract +0.06%.
-
----
-
-### 2026-06-25 11:31:30  #公司 #市場 #觀點 #焦點 #A股
-
-【午評：科創50指數漲超4%站上2000點，大金融、算力硬體板塊集體走強】三大指數早盤集體上漲，截至午盤，上證指數漲0.36%，深證成指漲1.46%，創業板指漲2.01%，北證50跌0.99%，科創50指數漲4.18%。全市場成交額24388億元，較上日放量3390億元，全市場4300只個股下跌。板塊題材上，機場航運、保險、證券、白酒、元件、遊戲、儲存晶片、PCB概念股漲幅居前；貴金屬、教育、PEEK材料、農化製品、染料、軟體開發板塊跌幅居前。盤面上，儲存晶片巨頭美光科技公佈的財報大超預期推動算力硬體板塊繼續走強，中微半導、太龍股份、長電科技、太極實業、盛視科技等10餘股漲停。硬科技IPO紅利釋放，券商股盤中再度拉昇，長江證券漲停，中信建投、財達證券漲幅居前。多家名酒企業釋出調價通知，白酒板塊盤中異動拉昇，酒鬼酒直線漲停。此外，遊戲、機場航運、超級電容等板塊均有表現。另一方面，隔夜國際金價失守4000美元/盎司，貴金屬板塊集體走低，興業銀錫、山金國際、紫金礦業領跌板塊。ST板塊同樣表現低迷，ST雪浪、*ST航圖盤中大跌超10%。
-
----
-
-### 2026-06-25 11:31:23  #MKT News
-
-【China government bond futures morning session close】2-year bond futures (TS) main contract up 0.02%; 5-year (TF) up 0.05%; 10-year (T) up 0.10%; 30-year (TL) up 0.41%.
-
----
-
-### 2026-06-25 11:31:08  #MKT News #Important #Market Regions #Japan & APAC #Nikkei 225 #Impact bullish
-
-Japan's Nikkei 225 rose 4.00% intraday to 71,986.36 points.
-
----
-
-### 2026-06-25 11:31:07  #其他 #焦點
-
-【日經225指數漲幅擴大至4%】日經225指數漲幅擴大至4%，現報71986.37點。
-
----
-
-### 2026-06-25 11:31:05  #MKT News #Important #Commodities #Precious Metals
-
-At the morning close, China's most-active futures contracts were mostly lower: Shanghai silver slid over 7%; NR20 rubber fell nearly 7%; synthetic rubber and Shanghai crude (SC) lost more than 5%; natural rubber dropped about 5%; platinum, PTA and paraxylene declined over 4%. PVC was the only notable gainer, up about 1%.
-
----
-
-### 2026-06-25 11:30:37  #公司
-
-【中關村發展集團原董事長趙長山貪汙、受賄案一審宣判：獲刑19年】6月25日，北京市第一中級人民法院依法公開宣判中關村發展集團股份有限公司原黨委書記、董事長趙長山貪汙、受賄案，對被告人趙長山以貪汙罪判處有期徒刑十年，並處罰金人民幣一百萬元；以受賄罪判處有期徒刑十三年，並處罰金人民幣三百萬元；決定執行有期徒刑十九年，並處罰金人民幣四百萬元。追繳被告人趙長山貪汙犯罪所得發還被害單位，對被告人趙長山受賄犯罪所得予以沒收，上繳國庫。
-
----
-
-### 2026-06-25 11:30:23  #MKT News
-
-Indonesia's mining ministry said all requests to revise mining quotas will be subject to a review process.
-
----
-
-### 2026-06-25 11:30:03  #市場
-
-【股指期貨早盤收盤】 中證1000指數期貨連續漲0.06%， 滬深300指數期貨連續漲1.63%， 中證500指數期貨連續漲0.62%， 上證50指數期貨連續漲1.49%。
-
----
-
-### 2026-06-25 11:30:02  #市場
-
-【國債期貨早盤收盤】 30年期主力合約漲0.41%， 10年期主力合約漲0.10%， 5年期主力合約漲0.05%， 2年期主力合約漲0.02%。
-
----
-
-### 2026-06-25 11:30:02  #市場
-
-【商品期貨早盤收盤】白銀連續跌7.10%，20號膠連續跌6.68%，丁二烯橡膠連續跌5.58%，上海原油連續跌5.34%，天然橡膠連續跌4.91%。
-
----
-
-### 2026-06-25 11:29:51  #國際
-
-印尼礦業部：政府需確保礦石生產與下游需求相匹配。
-
----
-
-### 2026-06-25 11:29:50  #MKT News #Commodities #Industrial Metals #Copper
-
-Indonesia's mining ministry said the government must ensure ore production aligns with downstream demand.
 
 ---

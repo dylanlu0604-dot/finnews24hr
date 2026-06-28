@@ -1,7 +1,109 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-06-29 04:30:03_
-_本檔包含 3813 則快訊，約 665514 字_
+_更新時間：2026-06-29 05:05:04_
+_本檔包含 3803 則快訊，約 664566 字_
+
+---
+
+### 2026-06-25 11:33:43  #MKT News #USDJPY #Impact bullish #7203.T #7201.T
+
+【Yen slide to 40-year low may add ¥934bn (≈$5.8bn) to Japanese automakers' profits】Yen weakness, despite policy efforts to halt the fall, could lift aggregate profits at Japanese automakers by about ¥934bn (≈$5.8bn) if the currency stays near current levels. Toyota’s May guidance assumes $1=¥150 versus the current ~¥161; Toyota estimates each ¥1 depreciation boosts its operating profit by ¥50bn, implying a substantial benefit from continued yen weakness. Other OEM assumptions are more conservative: Honda $1=¥145, Nissan $1=¥150, Subaru and Mazda $1=¥155. In yuan terms of input costs, raw material and energy prices in yen have fallen more than 30% from late‑April peaks after the US‑Iran peace agreement. Analyst Tatsuo Yoshida says the recent developments could be materially positive for firms that already factored Middle East risks into forecasts and that lower gasoline prices may help consumer confidence and support vehicle demand.
+
+---
+
+### 2026-06-25 11:33:35  #國際
+
+泰國商務部公佈資料：5月經清關進口額同比增長35.1%，預期為增長35%。
+
+---
+
+### 2026-06-25 11:33:07  #國際
+
+【鏈博會期間日本企業組了10個團訪華】6月22日至26日，第四屆鏈博會在京舉行，譚主獲取了此次訪華的日本訪問團名單。譚主獲悉，本屆鏈博會中，日本是亞洲國家裡團組數量最多的。 日方共有10個經濟團組來華，包括日本經濟團體聯合會（經團聯）、日本商工會議所等。經團聯是日本規模最大、最具權威的綜合性經濟團體，核心會員幾乎囊括了日本所有領域的頭部企業；日本商工會議所是日本規模最大的全國性工商組織之一；而關西經濟聯合會所代表的關西地區是日本第二大經濟圈。可以說，這10個團體廣泛覆蓋了日本社會企業網路的方方面面。 其實，由約200名商界領袖組成的日本經濟界代表團年初曾計劃訪華，卻因高市早苗涉臺錯誤言論的影響，被一再推遲。日本企業一等再等，索性自己尋找交流的方法。 在鏈博會現場，譚主也和日本商界人士聊了聊。日本貿易振興機構中國東北亞地區總代表小野寺修表示：“各企業來訪是為了在中日關係困難的時候，維持與中國商界的關係，瞭解中國當前的形勢。”國際貿促會副會長秦喜秋也直言：“失去中國，日本也無法存在。” 此次鏈博會，日本企業“用腳投票”恰恰說明，高市早苗的對華“脫鉤”完全不得人心。（玉淵譚天）
+
+---
+
+### 2026-06-25 11:32:35  #MKT News
+
+India's 10-year benchmark government bond yield fell to its lowest level since March 20.
+
+---
+
+### 2026-06-25 11:31:34  #MKT News #Market Regions #Greater China #CSI300 #Impact bullish
+
+【Index futures morning session close】Index futures morning session close: CSI 300 futures (IF) front contract +1.63%; SSE 50 futures (IH) front contract +1.49%; CSI 500 futures (IC) front contract +0.62%; CSI 1000 futures (IM) front contract +0.06%.
+
+---
+
+### 2026-06-25 11:31:30  #公司 #市場 #觀點 #焦點 #A股
+
+【午評：科創50指數漲超4%站上2000點，大金融、算力硬體板塊集體走強】三大指數早盤集體上漲，截至午盤，上證指數漲0.36%，深證成指漲1.46%，創業板指漲2.01%，北證50跌0.99%，科創50指數漲4.18%。全市場成交額24388億元，較上日放量3390億元，全市場4300只個股下跌。板塊題材上，機場航運、保險、證券、白酒、元件、遊戲、儲存晶片、PCB概念股漲幅居前；貴金屬、教育、PEEK材料、農化製品、染料、軟體開發板塊跌幅居前。盤面上，儲存晶片巨頭美光科技公佈的財報大超預期推動算力硬體板塊繼續走強，中微半導、太龍股份、長電科技、太極實業、盛視科技等10餘股漲停。硬科技IPO紅利釋放，券商股盤中再度拉昇，長江證券漲停，中信建投、財達證券漲幅居前。多家名酒企業釋出調價通知，白酒板塊盤中異動拉昇，酒鬼酒直線漲停。此外，遊戲、機場航運、超級電容等板塊均有表現。另一方面，隔夜國際金價失守4000美元/盎司，貴金屬板塊集體走低，興業銀錫、山金國際、紫金礦業領跌板塊。ST板塊同樣表現低迷，ST雪浪、*ST航圖盤中大跌超10%。
+
+---
+
+### 2026-06-25 11:31:23  #MKT News
+
+【China government bond futures morning session close】2-year bond futures (TS) main contract up 0.02%; 5-year (TF) up 0.05%; 10-year (T) up 0.10%; 30-year (TL) up 0.41%.
+
+---
+
+### 2026-06-25 11:31:08  #MKT News #Important #Market Regions #Japan & APAC #Nikkei 225 #Impact bullish
+
+Japan's Nikkei 225 rose 4.00% intraday to 71,986.36 points.
+
+---
+
+### 2026-06-25 11:31:07  #其他 #焦點
+
+【日經225指數漲幅擴大至4%】日經225指數漲幅擴大至4%，現報71986.37點。
+
+---
+
+### 2026-06-25 11:31:05  #MKT News #Important #Commodities #Precious Metals
+
+At the morning close, China's most-active futures contracts were mostly lower: Shanghai silver slid over 7%; NR20 rubber fell nearly 7%; synthetic rubber and Shanghai crude (SC) lost more than 5%; natural rubber dropped about 5%; platinum, PTA and paraxylene declined over 4%. PVC was the only notable gainer, up about 1%.
+
+---
+
+### 2026-06-25 11:30:37  #公司
+
+【中關村發展集團原董事長趙長山貪汙、受賄案一審宣判：獲刑19年】6月25日，北京市第一中級人民法院依法公開宣判中關村發展集團股份有限公司原黨委書記、董事長趙長山貪汙、受賄案，對被告人趙長山以貪汙罪判處有期徒刑十年，並處罰金人民幣一百萬元；以受賄罪判處有期徒刑十三年，並處罰金人民幣三百萬元；決定執行有期徒刑十九年，並處罰金人民幣四百萬元。追繳被告人趙長山貪汙犯罪所得發還被害單位，對被告人趙長山受賄犯罪所得予以沒收，上繳國庫。
+
+---
+
+### 2026-06-25 11:30:23  #MKT News
+
+Indonesia's mining ministry said all requests to revise mining quotas will be subject to a review process.
+
+---
+
+### 2026-06-25 11:30:03  #市場
+
+【股指期貨早盤收盤】 中證1000指數期貨連續漲0.06%， 滬深300指數期貨連續漲1.63%， 中證500指數期貨連續漲0.62%， 上證50指數期貨連續漲1.49%。
+
+---
+
+### 2026-06-25 11:30:02  #市場
+
+【國債期貨早盤收盤】 30年期主力合約漲0.41%， 10年期主力合約漲0.10%， 5年期主力合約漲0.05%， 2年期主力合約漲0.02%。
+
+---
+
+### 2026-06-25 11:30:02  #市場
+
+【商品期貨早盤收盤】白銀連續跌7.10%，20號膠連續跌6.68%，丁二烯橡膠連續跌5.58%，上海原油連續跌5.34%，天然橡膠連續跌4.91%。
+
+---
+
+### 2026-06-25 11:29:51  #國際
+
+印尼礦業部：政府需確保礦石生產與下游需求相匹配。
+
+---
+
+### 2026-06-25 11:29:50  #MKT News #Commodities #Industrial Metals #Copper
+
+Indonesia's mining ministry said the government must ensure ore production aligns with downstream demand.
 
 ---
 
@@ -22826,167 +22928,5 @@ China A-share baijiu sector strengthened on choppy trading; Jinshiyuan rose over
 ### 2026-06-24 09:40:10  #市場 #焦點
 
 滬深兩市成交額超5000億元，較上日此時縮量1399億元。
-
----
-
-### 2026-06-24 09:39:56  #國際
-
-馬來西亞推出計劃，目標在2030年前推出商用貨運及客運無人機服務。
-
----
-
-### 2026-06-24 09:39:44  #MKT News #Important #600909.SS #Impact bullish #CSI300
-
-A-share brokerage stocks extended gains; Huaan Securities hit the daily limit, Huachuang Yunxin rose over 4%.
-
----
-
-### 2026-06-24 09:39:27  #公司 #市場
-
-三星電子股價上漲6.1%，SK海力士股價上漲2.4%。
-
----
-
-### 2026-06-24 09:38:47  #MKT News #CSI300 #Impact bullish
-
-China A-share innovative-drug stocks opened higher in early trade; Haixin Co. hit the daily trading limit, Jingfeng Pharmaceutical rose more than 9%, Canaan Technology, Langkun Technology and Xinhua Pharmaceutical rose over 7%, while Kailaiying and Shuanglu Pharmaceutical also gained.
-
----
-
-### 2026-06-24 09:38:26  #市場
-
-【證券板塊再度拉昇，華安證券漲停】證券板塊再度拉昇，華安證券漲停，華創雲信、國元證券、長江證券、財達證券、紅塔證券跟漲。
-
----
-
-### 2026-06-24 09:38:22  #MKT News #Commodities #Energy #XAUUSD #Impact bullish #Brent #WTI
-
-Russian news agency, citing Moscow authorities, says Sevastopol in Crimea lost power after a drone attack.
-
----
-
-### 2026-06-24 09:38:13  #MKT News #Commodities #Precious Metals #XAUUSD #Impact bearish #DXY #Impact bullish #US10Y
-
-【ANZ: Weak market sentiment weighs on gold】Gold slid in Asian morning trade as market sentiment weakened. ANZ research analysts said that although gold is traditionally a safe-haven asset, it has failed to withstand a large cross-market sell-off and is down more than 22% since late February after the outbreak of the Middle East conflict. They flagged rising US rate-hike expectations as an additional drag on the metal.
-
----
-
-### 2026-06-24 09:38:08  #其他
-
-孫正義：軟銀的長期主要關注點將是人工智慧機器人。
-
----
-
-### 2026-06-24 09:37:44  #市場
-
-【國家統計局：6月中旬生豬（外三元）價格環比持平】國家統計局釋出2026年6月中旬流通領域重要生產資料市場價格變動情況，對全國流通領域9大類50種重要生產資料市場價格的監測顯示，6月中旬與6月上旬相比，15種產品價格上漲，32種下降，3種持平。其中生豬（外三元）價格為9.5元/千克，環比持平。
-
----
-
-### 2026-06-24 09:37:06  #MKT News #Important #CSI300 #Impact bullish #SSE Composite
-
-A-share brokerage stocks jumped: Hua'an Securities up >7%, Huachuang Yunxin up >4%, Changjiang Securities up >3%; Guoyuan Securities, Caida Securities and China Merchants Securities also rose.
-
----
-
-### 2026-06-24 09:36:58  #市場
-
-【港股人工智慧股走強 智譜漲近9%】截至發稿，智譜(02513.HK)漲8.66%，深演智慧(02723.HK)漲3.96%，劍橋科技(06166.HK)漲3.20%，瀾起科技(06809.HK)漲1.91%。
-
----
-
-### 2026-06-24 09:36:48  #MKT News #Market Regions #Greater China
-
-【13th APEC Tourism Ministers' Meeting opens in Macau】The 13th APEC Tourism Ministers' Meeting runs June 24-28 in Macau as part of China’s APEC host year. Around 300 participants will discuss Asia‑Pacific tourism integration, industry convergence, smart tourism and low‑carbon development.
-
----
-
-### 2026-06-24 09:36:37  #其他
-
-【第十三屆APEC旅遊部長會議今起在澳門舉行】今天（24日）起到28日，第十三屆APEC旅遊部長會議在澳門舉行。今年是APEC“中國年”，這次會議活動也是今年中國擔任APEC東道主期間約300場會議活動的重要組成部分。會議期間，300多名嘉賓將圍繞亞太旅遊一體化、產業融合、智慧旅遊、低碳發展等議題展開交流研討。
-
----
-
-### 2026-06-24 09:36:13  #國際
-
-韓國總統政策室長：人工智慧驅動的繁榮可能遠超預期。
-
----
-
-### 2026-06-24 09:35:59  #MKT News #Market Regions #Greater China
-
-A-share fiber-optic sector active in early trade: Taihe New Materials, Aerospace Electric and Tongding Interconnection hit daily limits; Hongbo New Materials rose over 6%, Guangku Technology and Yongding Co. gained more than 5%.
-
----
-
-### 2026-06-24 09:35:48  #市場
-
-澳大利亞S&P/ASX 200指數在5月份通脹資料公佈後基本保持不變，最新上漲0.2%，報8,802.0點。
-
----
-
-### 2026-06-24 09:35:33  #市場
-
-【腦機介面板塊盤初拉昇，愛朋醫療漲超10%】腦機介面板塊盤初拉昇，海南海藥2連板，倍益康、愛朋醫療漲超10%，南京熊貓、三博腦科、翔宇醫療、樂普醫療、東方中科跟漲。
-
----
-
-### 2026-06-24 09:35:30  #Trading Economics #Economy #Australia #Inflation Rate #Importance 3
-
-Australia Inflation Rate at 3-Month Low of 4% — The annual inflation rate in Australia unexpectedly slowed to 4.0% in May 2026 from 4.2% in April, coming in below expectations of 4.4% but remaining above the central bank’s 2–3% target range. It was the softest increase since February, as goods inflation moderated to 4.2% from 4.7%, with transport costs rising at a slower pace of 3.6% (vs 6.6% in April) as automotive fuel prices increased more slowly (7.7% vs 18.6%). On a monthly basis, consumer prices fell 0.7%, the first decline since August 2025, compared with market expectations of a 0.3% fall.
-
----
-
-### 2026-06-24 09:35:15  #公司
-
-【藍盾光電、安光環境中標多個環境監測專案】據藍盾光電訊息，近期，藍盾光電及子公司安徽安光環境科技有限公司中標多個環境監測專案，業務涵蓋大氣環境監測、常規空氣自動站、區域噪聲監測網路、地表水水質自動站、監測站房智慧化改造等多元場景，市場版圖輻射華南、華中、西南、西北等地。
-
----
-
-### 2026-06-24 09:34:26  #MKT News #Important #Market Themes #AI Revolution
-
-China A-share brain–computer interface sector rallied after choppy trading: Aipeng Medical up over 15%; Hainan Haiyao and Chuangxin Medical each hit daily limit; Sanbo Neurology rose over 8%; Nanjing Panda up over 7%; Xiangyu Medical also advanced.
-
----
-
-### 2026-06-24 09:34:05  #市場
-
-【光纖概念股再度活躍，通鼎互聯盤中創新高】光纖概念股再度活躍，通鼎互聯盤中創新高，泰和新材漲停，光庫科技、長芯博創、長飛光纖跟漲。
-
----
-
-### 2026-06-24 09:33:53  #公司 #市場
-
-【創新藥概念延續強勢 海欣股份4連板】早盤創新藥概念延續強勢，海欣股份4連板，海南海藥走出2連板，迦南科技漲超10%，景峰醫藥、新華製藥、樂普醫療等漲幅靠前。
-
----
-
-### 2026-06-24 09:33:12  #國際
-
-【英法西意熱浪持續 或打破更多高溫紀錄】歐洲多地高溫天氣持續，上週末以來法國已有至少40人死於高溫導致的溺水等事故，英國在打破5月最高氣溫紀錄後或將重新整理6月的紀錄，義大利十餘座城市23日處於高溫紅色預警狀態，西班牙多地也將持續高溫。法國多地上週末迎來高溫天氣。法國總理勒科爾尼23日再次就高溫天氣召開應急會議。他在會前披露，6月18日以來，全法範圍共有40人死於溺水。法國體育部長瑪麗娜·費拉里當天接受法國媒體採訪時警告，民眾下水游泳、躲避熱浪的同時一定要注意安全。(新華社)
-
----
-
-### 2026-06-24 09:33:00  #其他
-
-【2026年APEC中小企業工商論壇在深圳開幕】據“深視新聞”，6月24日，2026年APEC中小企業工商論壇（簡稱“工商論壇”）在深圳羅湖舉辦。本屆論壇由工業和資訊化部中小企業發展促進中心、中國中小企業國際合作協會、深圳市人民政府共同主辦，以“數智賦能，開放創新，合作共贏”為主題，舉辦主論壇、3場平行論壇及3場特色產業調研，同期設定優質中小企業產品展示區，匯聚APEC成員經濟體政府代表、院士專家、領軍企業，共探亞太中小企業數智轉型新路徑，共築區域產業開放合作新生態，共享全球價值鏈融通發展新機遇。
-
----
-
-### 2026-06-24 09:32:53  #MKT News #Market Regions #Greater China #CSI300 #Impact bullish #SSE Composite
-
-PCB-related stocks on China’s A-share market rallied in early trade; Xilong Science recorded a second consecutive daily limit-up. Mankun Technology, Ruihuatai, Shiming Technology, Bomin Electronics and Xingsen Technology also gained.
-
----
-
-### 2026-06-24 09:32:50  #其他
-
-【市場融資融券餘額首次突破3萬億元】截至6月23日，滬深北兩融餘額為30009.71億元，首次突破3萬億元，較上一交易日增加59.40億元，其中融資餘額29789.93億元，較上一日增加61.37億元。
-
----
-
-### 2026-06-24 09:32:44  #MKT News #Market Themes #AI Revolution #02513.HK #Impact bullish #00268.HK #00992.HK
-
-Some Hong Kong AI stocks rose: Zhipu AI (02513.HK) up over 6%; Kingdee International (00268.HK) and Lenovo Group (00992.HK) up over 5%; Cambridge Technology (06166.HK) and GigaDevice (03986.HK) up over 3%.
 
 ---

@@ -1,7 +1,169 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-06-29 04:30:03_
-_本檔包含 3523 則快訊，約 665554 字_
+_更新時間：2026-06-29 05:05:04_
+_本檔包含 3526 則快訊，約 665108 字_
+
+---
+
+### 2026-06-24 09:39:56  #國際
+
+馬來西亞推出計劃，目標在2030年前推出商用貨運及客運無人機服務。
+
+---
+
+### 2026-06-24 09:39:44  #MKT News #Important #600909.SS #Impact bullish #CSI300
+
+A-share brokerage stocks extended gains; Huaan Securities hit the daily limit, Huachuang Yunxin rose over 4%.
+
+---
+
+### 2026-06-24 09:39:27  #公司 #市場
+
+三星電子股價上漲6.1%，SK海力士股價上漲2.4%。
+
+---
+
+### 2026-06-24 09:38:47  #MKT News #CSI300 #Impact bullish
+
+China A-share innovative-drug stocks opened higher in early trade; Haixin Co. hit the daily trading limit, Jingfeng Pharmaceutical rose more than 9%, Canaan Technology, Langkun Technology and Xinhua Pharmaceutical rose over 7%, while Kailaiying and Shuanglu Pharmaceutical also gained.
+
+---
+
+### 2026-06-24 09:38:26  #市場
+
+【證券板塊再度拉昇，華安證券漲停】證券板塊再度拉昇，華安證券漲停，華創雲信、國元證券、長江證券、財達證券、紅塔證券跟漲。
+
+---
+
+### 2026-06-24 09:38:22  #MKT News #Commodities #Energy #XAUUSD #Impact bullish #Brent #WTI
+
+Russian news agency, citing Moscow authorities, says Sevastopol in Crimea lost power after a drone attack.
+
+---
+
+### 2026-06-24 09:38:13  #MKT News #Commodities #Precious Metals #XAUUSD #Impact bearish #DXY #Impact bullish #US10Y
+
+【ANZ: Weak market sentiment weighs on gold】Gold slid in Asian morning trade as market sentiment weakened. ANZ research analysts said that although gold is traditionally a safe-haven asset, it has failed to withstand a large cross-market sell-off and is down more than 22% since late February after the outbreak of the Middle East conflict. They flagged rising US rate-hike expectations as an additional drag on the metal.
+
+---
+
+### 2026-06-24 09:38:08  #其他
+
+孫正義：軟銀的長期主要關注點將是人工智慧機器人。
+
+---
+
+### 2026-06-24 09:37:44  #市場
+
+【國家統計局：6月中旬生豬（外三元）價格環比持平】國家統計局釋出2026年6月中旬流通領域重要生產資料市場價格變動情況，對全國流通領域9大類50種重要生產資料市場價格的監測顯示，6月中旬與6月上旬相比，15種產品價格上漲，32種下降，3種持平。其中生豬（外三元）價格為9.5元/千克，環比持平。
+
+---
+
+### 2026-06-24 09:37:06  #MKT News #Important #CSI300 #Impact bullish #SSE Composite
+
+A-share brokerage stocks jumped: Hua'an Securities up >7%, Huachuang Yunxin up >4%, Changjiang Securities up >3%; Guoyuan Securities, Caida Securities and China Merchants Securities also rose.
+
+---
+
+### 2026-06-24 09:36:58  #市場
+
+【港股人工智慧股走強 智譜漲近9%】截至發稿，智譜(02513.HK)漲8.66%，深演智慧(02723.HK)漲3.96%，劍橋科技(06166.HK)漲3.20%，瀾起科技(06809.HK)漲1.91%。
+
+---
+
+### 2026-06-24 09:36:48  #MKT News #Market Regions #Greater China
+
+【13th APEC Tourism Ministers' Meeting opens in Macau】The 13th APEC Tourism Ministers' Meeting runs June 24-28 in Macau as part of China’s APEC host year. Around 300 participants will discuss Asia‑Pacific tourism integration, industry convergence, smart tourism and low‑carbon development.
+
+---
+
+### 2026-06-24 09:36:37  #其他
+
+【第十三屆APEC旅遊部長會議今起在澳門舉行】今天（24日）起到28日，第十三屆APEC旅遊部長會議在澳門舉行。今年是APEC“中國年”，這次會議活動也是今年中國擔任APEC東道主期間約300場會議活動的重要組成部分。會議期間，300多名嘉賓將圍繞亞太旅遊一體化、產業融合、智慧旅遊、低碳發展等議題展開交流研討。
+
+---
+
+### 2026-06-24 09:36:13  #國際
+
+韓國總統政策室長：人工智慧驅動的繁榮可能遠超預期。
+
+---
+
+### 2026-06-24 09:35:59  #MKT News #Market Regions #Greater China
+
+A-share fiber-optic sector active in early trade: Taihe New Materials, Aerospace Electric and Tongding Interconnection hit daily limits; Hongbo New Materials rose over 6%, Guangku Technology and Yongding Co. gained more than 5%.
+
+---
+
+### 2026-06-24 09:35:48  #市場
+
+澳大利亞S&P/ASX 200指數在5月份通脹資料公佈後基本保持不變，最新上漲0.2%，報8,802.0點。
+
+---
+
+### 2026-06-24 09:35:33  #市場
+
+【腦機介面板塊盤初拉昇，愛朋醫療漲超10%】腦機介面板塊盤初拉昇，海南海藥2連板，倍益康、愛朋醫療漲超10%，南京熊貓、三博腦科、翔宇醫療、樂普醫療、東方中科跟漲。
+
+---
+
+### 2026-06-24 09:35:30  #Trading Economics #Economy #Australia #Inflation Rate #Importance 3
+
+Australia Inflation Rate at 3-Month Low of 4% — The annual inflation rate in Australia unexpectedly slowed to 4.0% in May 2026 from 4.2% in April, coming in below expectations of 4.4% but remaining above the central bank’s 2–3% target range. It was the softest increase since February, as goods inflation moderated to 4.2% from 4.7%, with transport costs rising at a slower pace of 3.6% (vs 6.6% in April) as automotive fuel prices increased more slowly (7.7% vs 18.6%). On a monthly basis, consumer prices fell 0.7%, the first decline since August 2025, compared with market expectations of a 0.3% fall.
+
+---
+
+### 2026-06-24 09:35:15  #公司
+
+【藍盾光電、安光環境中標多個環境監測專案】據藍盾光電訊息，近期，藍盾光電及子公司安徽安光環境科技有限公司中標多個環境監測專案，業務涵蓋大氣環境監測、常規空氣自動站、區域噪聲監測網路、地表水水質自動站、監測站房智慧化改造等多元場景，市場版圖輻射華南、華中、西南、西北等地。
+
+---
+
+### 2026-06-24 09:34:26  #MKT News #Important #Market Themes #AI Revolution
+
+China A-share brain–computer interface sector rallied after choppy trading: Aipeng Medical up over 15%; Hainan Haiyao and Chuangxin Medical each hit daily limit; Sanbo Neurology rose over 8%; Nanjing Panda up over 7%; Xiangyu Medical also advanced.
+
+---
+
+### 2026-06-24 09:34:05  #市場
+
+【光纖概念股再度活躍，通鼎互聯盤中創新高】光纖概念股再度活躍，通鼎互聯盤中創新高，泰和新材漲停，光庫科技、長芯博創、長飛光纖跟漲。
+
+---
+
+### 2026-06-24 09:33:53  #公司 #市場
+
+【創新藥概念延續強勢 海欣股份4連板】早盤創新藥概念延續強勢，海欣股份4連板，海南海藥走出2連板，迦南科技漲超10%，景峰醫藥、新華製藥、樂普醫療等漲幅靠前。
+
+---
+
+### 2026-06-24 09:33:12  #國際
+
+【英法西意熱浪持續 或打破更多高溫紀錄】歐洲多地高溫天氣持續，上週末以來法國已有至少40人死於高溫導致的溺水等事故，英國在打破5月最高氣溫紀錄後或將重新整理6月的紀錄，義大利十餘座城市23日處於高溫紅色預警狀態，西班牙多地也將持續高溫。法國多地上週末迎來高溫天氣。法國總理勒科爾尼23日再次就高溫天氣召開應急會議。他在會前披露，6月18日以來，全法範圍共有40人死於溺水。法國體育部長瑪麗娜·費拉里當天接受法國媒體採訪時警告，民眾下水游泳、躲避熱浪的同時一定要注意安全。(新華社)
+
+---
+
+### 2026-06-24 09:33:00  #其他
+
+【2026年APEC中小企業工商論壇在深圳開幕】據“深視新聞”，6月24日，2026年APEC中小企業工商論壇（簡稱“工商論壇”）在深圳羅湖舉辦。本屆論壇由工業和資訊化部中小企業發展促進中心、中國中小企業國際合作協會、深圳市人民政府共同主辦，以“數智賦能，開放創新，合作共贏”為主題，舉辦主論壇、3場平行論壇及3場特色產業調研，同期設定優質中小企業產品展示區，匯聚APEC成員經濟體政府代表、院士專家、領軍企業，共探亞太中小企業數智轉型新路徑，共築區域產業開放合作新生態，共享全球價值鏈融通發展新機遇。
+
+---
+
+### 2026-06-24 09:32:53  #MKT News #Market Regions #Greater China #CSI300 #Impact bullish #SSE Composite
+
+PCB-related stocks on China’s A-share market rallied in early trade; Xilong Science recorded a second consecutive daily limit-up. Mankun Technology, Ruihuatai, Shiming Technology, Bomin Electronics and Xingsen Technology also gained.
+
+---
+
+### 2026-06-24 09:32:50  #其他
+
+【市場融資融券餘額首次突破3萬億元】截至6月23日，滬深北兩融餘額為30009.71億元，首次突破3萬億元，較上一交易日增加59.40億元，其中融資餘額29789.93億元，較上一日增加61.37億元。
+
+---
+
+### 2026-06-24 09:32:44  #MKT News #Market Themes #AI Revolution #02513.HK #Impact bullish #00268.HK #00992.HK
+
+Some Hong Kong AI stocks rose: Zhipu AI (02513.HK) up over 6%; Kingdee International (00268.HK) and Lenovo Group (00992.HK) up over 5%; Cambridge Technology (06166.HK) and GigaDevice (03986.HK) up over 3%.
 
 ---
 
@@ -21111,151 +21273,5 @@ SoftBank shares in Tokyo fell 5.3%.
 ### 2026-06-23 08:19:25  #其他
 
 【加拿大推出首部國家級核能戰略】當地時間6月22日，加拿大能源與自然資源部部長蒂姆·霍奇森公佈該國首份國家核能戰略，他表示，該計劃將復興加拿大民用核能發展。霍奇森表示，新的國家核能戰略與該電力戰略相契合，將由四大“支柱”組成：推動在加拿大各地新建核電專案；將加拿大定位為全球首選的核能供應商和出口國；擴大鈾礦生產和核燃料機遇，同時支援建設世界一流的核廢料長期管理體系；發展加拿大核能新創新。霍奇森表示，加拿大計劃在未來15年新建10座核反應堆，向更多國家出售加拿大製造反應堆，並將鈾出口量翻一番。（中央廣電總檯國際線上）
-
----
-
-### 2026-06-23 08:18:52  #公司 #觀點
-
-【中信建投：2026年有望成為人形機器人垂類應用大年 重視機器人場景應用表現】 中信建投證券研報稱，2026年有望成為人形機器人垂類應用大年，重視機器人場景應用表現。人形機器人的落地應用是市場關注的重點，2026年有望成為人形垂類應用大年，隨著機器人泛化水平提高，預計在工業、商業等領域將逐步看到機器人落地應用。物理AI是人工智慧的下一波浪潮，機器人是AI最好的物理載體之一，值得重視。此外，Optimus量產漸行漸近，近期對供應鏈量產量綱指引逐步清晰，其放量節奏逐步得以驗證，後續V3產品釋出、量產推進仍值得密切關注。此外，國產機器人公司IPO持續推進，有望帶來本體估值重估，預計未來一個季度內板塊催化不斷，建議聚焦優質環節。
-
----
-
-### 2026-06-23 08:18:47  #市場 #國際
-
-10年期日本國債收益率上漲1.0個基點，至2.680%。
-
----
-
-### 2026-06-23 08:18:35  #國際
-
-【聯合國糧農組織：新一輪厄爾尼諾現象威脅全球多地農業】當地時間6月22日，聯合國糧農組織釋出全球農業高風險區分佈圖，警告新一輪厄爾尼諾現象或將在未來數週內形成，對全球農業構成嚴峻威脅。基於過去41年衛星影像資料的風險評估，薩赫勒地區、南部非洲、南亞、東南亞、中美洲乾旱走廊及加勒比地區被列為風險最高區域，部分農田和牧場在未來數月出現乾旱的機率超過50%。糧農組織指出，當前全球氣溫較以往更高，衝突與糧食不安全問題廣泛存在，本輪厄爾尼諾現象將對脆弱地區造成更為嚴重的衝擊。（央視）
-
----
-
-### 2026-06-23 08:18:33  #MKT News
-
-【FAO warns new El Nifio threatens agriculture across multiple regions】On June 22 the UN Food and Agriculture Organization (FAO) released a global high‑risk agricultural map, warning a new El Nifio could form within weeks and pose a severe threat to crop and pasture production. Using 41 years of satellite imagery, FAO identified the Sahel, southern Africa, South Asia, Southeast Asia, Central America’s dry corridor and the Caribbean as highest‑risk areas, with some cropland and rangeland facing >50% odds of drought in the coming months. FAO said higher baseline global temperatures and widespread conflict and food insecurity will amplify impacts on vulnerable regions.
-
----
-
-### 2026-06-23 08:17:41  #MKT News
-
-【Coverage dispute over Washington reflecting pool escalates; Trump threatens to sue ABC】President Trump said he is preparing to sue broadcaster ABC, accusing it of false reporting on damage to a Washington reflecting pool. He alleged ABC paid him $16m in past settlements for reporting errors and failed to disclose that his "close friends", Democrats Barack Obama and Joe Biden, spent more than $100m on the pool, which he said never operated properly and was rarely open because of leaks and foul odors.
-
----
-
-### 2026-06-23 08:16:37  #市場 #國際
-
-歐洲斯托克50指數期貨下滑0.4%，德國DAX指數期貨下跌0.4%，英國富時指數期貨走低0.2%。
-
----
-
-### 2026-06-23 08:15:58  #公司 #市場 #國際
-
-【日經指數下跌0.1% 受科技股拖累 軟銀集團下跌5.2%】在近期大幅上漲以及隔夜美國科技股下跌之後，日本股市走低。科技股領跌。軟銀集團下跌5.2%，富士通下跌1.9%。在美國為伊朗以美元出售石油掃清障礙之後，投資者正關注原油價格和中東局勢發展。日經指數下跌0.1%，報72308.89點。
-
----
-
-### 2026-06-23 08:15:22  #其他
-
-【颱風“米克拉”向我國臺灣島東南洋麵靠近 過往船隻需及時回港避風】今年第7號颱風“米克拉”正向我國臺灣島東南洋麵靠近，中央氣象臺今早（23日）6時繼續釋出颱風藍色預警。今年第7號颱風“米克拉”目前是超強颱風級別，預計“米克拉”未來將以每小時10-15公里的速度向北偏西方向移動，強度變化不大，並逐漸向我國臺灣島東南洋麵靠近。受其影響，今天巴士海峽，臺灣以東洋麵將出現6級以上大風天氣，最大陣風11-12級，過往船只需要及時回港避風。
-
----
-
-### 2026-06-23 08:14:42  #觀點
-
-【中信建投：AIDC發電裝置方面，堅定看好國產燃機出海】 中信建投證券研報稱，AIDC發電裝置方面，堅定看好國產燃機出海。大摩釋出報告，預計全球燃機訂單在2026年見頂，2027年起訂單下滑，疊加SOFC、燃料電池等補充方案推進，2030年後可能供給過剩。中信建投認為：（1）擴產沒有想象中容易、供給端未必會如期增長：對供給端預測不能簡單線性外推，行業擴產從規劃到形成穩定交付能力需要時間，且不同廠商、不同機型、不同地區的可交付能力差異較大。重型燃機交付約束來自機頭、核心高溫部件、長週期鍛件、供應鏈配套、成套整合和現場工程等多個環節。（2）國產燃機本身就是重要的補充缺口路線、等同於SOFC+發動機等新路線：海外討論SOFC、發動機等交付更快的技術路線。一方面，部分路線仍處在早期匯入階段，仍有較多不確定性。另一方面，國產燃機本身即交期較短的重要補充。考慮最差的情況，如果全球燃機訂單下降，國產燃機訂單不會下降。我們只能看到產業仍然維持高景氣，國產燃機訂單仍在高增、交付週期仍長、有效供給仍偏緊。
-
----
-
-### 2026-06-23 08:12:36  #市場
-
-SK Square股價大漲10%。
-
----
-
-### 2026-06-23 08:12:27  #市場 #焦點
-
-現貨黃金失守4180美元/盎司，日內跌0.29%。
-
----
-
-### 2026-06-23 08:12:07  #國際
-
-特朗普：準備就ABC虛假報道提起訴訟。
-
----
-
-### 2026-06-23 08:11:42  #公司
-
-鷹瞳科技-B(02251)釋出公告，於2026年6月22日斥資56.55萬港元回購4.78萬股。
-
----
-
-### 2026-06-23 08:11:12  #公司
-
-【摯達科技擬折讓約11.88%配售最多1912.565萬股 淨籌約2.06億港元】摯達科技(02650)釋出公告，於2026年6月23日，公司與配售代理訂立配售協議，配售代理各自有條件同意按盡力基準促使不少於6名承配人根據配售協議所載條款及在其條件的規限下，以每股H股10.98港元的配售價認購最多1912.565萬股配售股份。假設配售股份獲悉數配售，配售股份數目佔配售事項完成後經擴大的已發行H股總數約6.01%。配售價每股配售股份10.98港元較於最後交易日於聯交所所報收市價每股H股12.46港元折讓約11.88%。
-
-假設配售股份獲悉數配售，配售事項所得款項總額及所得款項淨額預計將分別為約2.1億港元及約2.06億港元。配售事項所得款項淨額將擬以下列方式動用：30%用於光儲充系統新產品的研發；30%用於機器人產品的應用場景渠道的擴充套件，工程及生產製造能力的發展；20%用於集團產品的海外市場開拓；及20%用作集團的一般營運資金。
-
----
-
-### 2026-06-23 08:10:38  #MKT News
-
-Australia's S&P/ASX 200 opened up 28.70 points (+0.33%) at 8,844.80 on Tuesday, June 23.
-
----
-
-### 2026-06-23 08:10:14  #市場 #焦點
-
-紐約期金失守4200美元/盎司，日內跌0.06%。
-
----
-
-### 2026-06-23 08:06:47  #市場 #國際
-
-【韓國KOSPI指數轉漲】 韓國KOSPI指數轉漲，現漲0.38%，報9149.05點。
-
----
-
-### 2026-06-23 08:06:16  #市場
-
-紐約期銀日內跌1%，現報65.40美元/盎司。
-
----
-
-### 2026-06-23 08:05:56  #其他
-
-LG化學計劃到2035年投資15萬億韓元用於研發。
-
----
-
-### 2026-06-23 08:05:35  #公司 #國際
-
-【海思科：與Nuvectis簽訂獨佔許可協議，協議包括最高14.21億美元的額外里程碑付款】海思科公告，公司與美國Nuvectis Pharma,Inc.於近日簽訂獨佔許可協議，授予Nuvectis在除大中華區域以外的全球範圍內開發、生產和商業化HSK42360專案（BRAF抑制劑）的獨家權利，以及在除大中華、東南亞及印度以外區域的全球範圍內開發、生產和商業化HSK39297專案（CFB抑制劑）的獨家權利。作為對外許可交易對價的一部分，公司將從Nuvectis獲得HSK42360和HSK39297專案的授權許可費（包括4,000萬美元的首付款和近期里程碑付款及最高14.21億美元的額外里程碑付款）以及銷售提成。
-
----
-
-### 2026-06-23 08:05:01  #市場
-
-澳大利亞S&P/ASX 200指數早盤上漲0.3%，報8,842.20點。
-
----
-
-### 2026-06-23 08:05:00  #Trading Economics #Markets #United States #Stock Market #Importance 2
-
-US Futures Edge Lower After Tech-Led Drop — US stock futures edged lower on Tuesday after Wall Street opened the week on a weak note, weighed down by sharp losses in technology shares. During Monday's regular session, the S&P 500 and Nasdaq Composite declined 0.37% and 1.32%, respectively, while the Dow Jones added 0.29%. Major tech stocks led the downturn, with Alphabet falling 5%, Microsoft losing 3.2%, Amazon dropping 4.8%, Broadcom sliding 4.7%, and Meta Platforms shedding 2.3%. SpaceX also sank 16.4%, marking its third consecutive losing session after unveiling a new bond offering. Meanwhile, Micron jumped 6.8% after announcing a strategic partnership with Anthropic. On the geopolitical front, the US granted Iran a 60-day license to sell oil on global markets, boosting expectations for a faster recovery in crude supply.
-
----
-
-### 2026-06-23 08:04:48  #公司
-
-京東工業在港交所公告，董事會宣佈，宋春正先生因個人健康原因辭任執行董事、執行長、薪酬委員會委員，以及香港聯合交易所有限公司《證券上市規則》第3.05條規定的授權代表，辭任自2026年7月1日起生效。董事會欣然宣佈，王培暖先生獲委任為本公司執行董事、執行長及授權代表，委任自2026年7月1日起生效。
-
----
-
-### 2026-06-23 08:02:42  #觀點
-
-【中信建投：一季度疫苗產品批簽發同比增長 多款產品及新適應症獲批】 中信建投證券研報指出，2026年一季度疫苗行業整體批簽發次數為875批次，同比增加14.1%，主要由於脊髓灰質炎疫苗、麻腮風疫苗、肝炎疫苗等產品簽發批次大幅增長所致。研發方面，2026年一季度成大生物人二倍體狂苗、康希諾MCV4擴齡及組分百白破疫苗、康泰生物四價流感裂解疫苗等產品或新適應症獲批；另有多款產品處於上市審評階段。2026年疫苗行業應關注：1）創新疫苗管線後續研發節點及對外授權預期。2）產品銷售改善，疊加新品上市貢獻業績增量。3）股權變更後續進展。
 
 ---

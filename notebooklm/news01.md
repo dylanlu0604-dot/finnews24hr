@@ -1,7 +1,91 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-06-29 04:30:03_
-_本檔包含 3529 則快訊，約 665522 字_
+_更新時間：2026-06-29 05:05:04_
+_本檔包含 3529 則快訊，約 665130 字_
+
+---
+
+### 2026-06-29 05:01:52  #其他
+
+【英國下任首相熱門人選伯納姆公佈權力下放方案，削弱倫敦集權】有望接替斯塔默出任英國首相的工黨議員伯納姆，將於週一完整闡述其治國藍圖，承諾改革英國治理模式，將權力從倫敦下放至各地方區域。伯納姆本月剛贏得議會席位、重返威斯敏斯特宮，也是目前唯一正式宣佈參選、接替斯塔默的候選人，有望在數週內入主唐寧街首相府。伯納姆因擔任大曼徹斯特市長聲名鵲起。他將在週一的演講中，把向地方社群下放權力作為核心綱領。其辦公室表示，他還將推出一項為期十年的發展規劃，透過重振工業、興建住房、完善基建、改革公用事業提升民眾生活水平；整套方案的核心不只是更換執政者，而是徹底改變英國的治理方式。他將在演講中說明如何“讓英國重回應有地位”，為國家經濟按下“止跌開關”，同時承諾改革公共採購體系，更好扶持本土就業與產業。一旦就任，伯納姆將成為十年內英國第七任首相。黨內多數人士認為，唯有他兼具個人號召力與長遠規劃，既能爭取選民認同，也能遏制奈傑爾·法拉奇主打反移民政策的英國改革黨不斷壯大。
+
+---
+
+### 2026-06-29 04:58:55  #其他
+
+加拿大1比0戰勝南非。
+
+---
+
+### 2026-06-29 04:52:47  #其他
+
+英國首相熱門人選伯納姆將推出一份經濟轉型十年規劃。
+
+---
+
+### 2026-06-29 04:49:15  #國際
+
+伊朗國家電視臺：船舶通行霍爾木茲海峽仍需與革命衛隊協調；駛入波斯灣船隻的最安全航道位於伊朗霍爾木茲島南側；駛出波斯灣船隻的最安全航道位於伊朗拉臘克島南側。
+
+---
+
+### 2026-06-29 04:49:05  #國際
+
+【美官員：美伊計劃於30日在卡達首都舉行會談】一位美國高階官員透露，美伊雙方已同意停止相互攻擊，並計劃於6月30日在卡達首都舉行會晤，以解決關於霍爾木茲海峽的爭端。另一位美國官員表示，美伊雙方將“暫時”停止敵對行動，在技術性會談繼續進行的同時，霍爾木茲海峽“船只可以自由通行”。美國官員和另外的知情人士均證實了美伊計劃於30日舉行會晤。但截至目前，美伊雙方以及當前美伊談判的調解方巴基斯坦和卡達均未作出正式說明。（央視新聞）
+
+---
+
+### 2026-06-29 04:48:53  #國際
+
+伊朗外交部長：以色列從黎巴嫩撤軍並停止襲擊，這是與美國臨時協議所規定的；德黑蘭歡迎與包括伊拉克在內的阿拉伯國家就海灣安全磋商框架，並承諾擴大與巴格達新政府的雙邊關係。
+
+---
+
+### 2026-06-29 04:43:55  #國際
+
+斯洛維尼亞總統娜塔莎·皮爾茨·穆薩爾稱美以對伊朗發動戰事是“一步錯棋”，並表示她認為特朗普也意識到了這一點。 她對卡達在美國與伊朗之間開展斡旋所發揮的作用表示讚許，同時警示歐盟在國際舞臺上的影響力正不斷式微。
+
+---
+
+### 2026-06-29 04:43:27  #MKT News
+
+【Pakistan conducts intelligence-led ground operation along Afghanistan border, kills 29 militants】AP: Pakistani security forces on Sunday carried out an intelligence-led ground operation along the Pakistan-Afghanistan border, striking militant hideouts and killing 29 fighters, officials said. Authorities said the action responded to a series of militant attacks nationwide. A day earlier, gunmen with explosives attacked the Pakistan Rangers' regional headquarters in Karachi, killing three soldiers; security forces killed three attackers and detained another, whom the military said was an injured Afghan national. A splinter faction of the Pakistan Taliban calling itself the Free Men Party claimed responsibility for the Karachi attack.
+
+---
+
+### 2026-06-29 04:39:30  #其他
+
+【基金“中考”即將收官 有望創出歷史最佳業績】還有兩個交易日，今年公募基金“中考”即將收官。目前來看，上半年基金的業績有望創出歷史最佳紀錄。
+
+---
+
+### 2026-06-29 04:39:16  #其他
+
+【大眾計劃終止與博世的自動駕駛合作】德國《圖片報》報道稱，大眾與博世名為“自動駕駛聯盟”的聯合專案即將終止。此前，這份自動駕駛合作協議總規模約15億歐元。
+
+---
+
+### 2026-06-29 04:37:37  #國際
+
+伊拉克總理與伊朗外長阿拉格齊討論了伊朗-美國諒解備忘錄。
+
+---
+
+### 2026-06-29 04:36:34  #國際
+
+【普京：俄建議烏俄雙方均停止打擊對方領土縱深目標】當地時間6月28日，俄羅斯總統普京向媒體表示，俄方建議俄烏雙方均停止攻擊對方領土的縱深目標，否則俄方對烏縱深地區的打擊將更具威力，後果將更嚴重。普京表示，俄方不會給烏克蘭阻止俄軍前進的機會，烏方對俄羅斯基礎設施的打擊不會影響前線局勢。他還表示，目前，不排除烏方將採取分散俄方注意力的行動，烏方破壞小組會滲透到俄方控制地區，但很快就被消滅。（央視）
+
+---
+
+### 2026-06-29 04:35:12  #MKT News #S&P500 #Impact bullish #DXY #Impact bearish #WTI
+
+【Putin says Russia proposes both sides halt strikes on each other's deep targets】June 28 — Putin told media Russia has proposed that both sides stop striking each other’s deep (rear-area) targets; he warned that if such strikes continue, Russian strikes on Ukrainian depth will become more powerful and consequences more severe. He said Russia will not give Ukraine an opportunity to halt Russian advances and that Ukrainian strikes on Russian infrastructure will not alter frontline dynamics. Putin added Kyiv may undertake diversionary actions and that sabotage teams penetrating Russian-held areas are being quickly eliminated.
+
+---
+
+### 2026-06-29 04:30:53  #焦點 #國際
+
+【美國官員證實：美伊雙方同意停止相互打擊，並於本週舉行會談】一名美國高階官員透露，美國與伊朗已達成協議，停止相互襲擊；雙方計劃於週二在卡達首都會面，協商霍爾木茲海峽爭端。此前停火協議生效僅11天，局勢便已岌岌可危：美伊再度發起相互打擊，特朗普總統也曾威脅重啟戰事、“徹底解決衝突”。此次衝突再起，根源在於雙方對停戰諒解備忘錄（MOU）存在解讀分歧，尤其是協議中關於霍爾木茲海峽的相關條款。一名美國高階官員表示：“我們雙方決定停止一切軍事打擊行動。”另一名美國官員透露，雙方“暫時”停火，航道船隻可自由通行，技術性談判將持續推進。
 
 ---
 
@@ -21276,89 +21360,5 @@ Singapore Manufacturing Output Below Forecasts — Singapore's manufacturing pro
 ### 2026-06-26 13:10:45  #MKT News #Important #Market Themes #AI Revolution #06869.HK #Impact bearish #09903.HK #02513.HK
 
 Hong Kong-listed AI stocks slid: Yangtze Optical Fibre and Cable (06869.HK) fell more than 14%, Tianshu AI (09903.HK) fell more than 13%, Zhipu AI (02513.HK) fell more than 11% and MINIMAX-W (00100.HK) fell more than 10%.
-
----
-
-### 2026-06-26 13:10:44  #其他
-
-【江蘇無錫：力爭“十五五”末研發投入強度達3.8%以上】持續推動科技創新和產業創新深度融合，力爭“十五五”末研發投入強度達3.8%以上，力爭到2030年戰略性新興產業產值佔比達50%，打造具有國際競爭力的產業創新智造強市……6月25日，無錫市召開“開局起步‘十五五’”專題新聞釋出會。無錫市委副書記、市長蔣鋒表示，“十五五”期間，無錫將加快構建現代化產業體系、打造產業科技創新高地、全方位擴大內需、打造雙向開放樞紐城市、建設現代化人民城市。
-
----
-
-### 2026-06-26 13:09:04  #公司 #國際
-
-【和譽-B(02256)：和譽醫藥在2026 ASCO年會公佈ABSK061聯合ABSK043治療FGFR2陽性晚期GC/GEJC II期研究結果】和譽-B(02256)釋出公告，公司的附屬公司上海和譽生物醫藥科技有限公司(和譽醫藥)宣佈，在近期舉行的2026年美國臨床腫瘤學會(ASCO)年會上，公司公佈了其自主研發的同類首創(First-in-class)口服高選擇性 FGFR2/3抑制劑ABSK061聯合口服PD-L1抑制劑ABSK043，伴或不伴CAPOX(奧沙利鉑聯合卡培他濱)治療FGFR2陽性晚期胃癌及胃食管結合部癌(GC/GEJC)的II期臨床研究初步結果。研究資料顯示，ABSK061聯合ABSK043，伴或不伴CAPOX，在FGFR2陽性晚期GC/GEJC患者中展現出良好的安全性和積極的抗腫瘤活性，凸顯了這種靶向聯合免疫治療策略作為該患者群體新型治療方案的潛力。
-
----
-
-### 2026-06-26 13:07:26  #公司
-
-【國家稅務總局推出集團企業“稅收貢獻賬單”】據國家稅務總局訊息，繼向納稅人推送“稅收紅利賬單”之後，國家稅務總局探索建立集團企業涉稅資料準確歸集、精準推送、高效應用的工作流程，創新推出集團企業“稅收貢獻賬單”服務，按統一標準歸集展示集團企業年度納稅資料，幫助其更準確全面地掌握整體納稅情況，更好提高納稅遵從、履行社會責任，為高質量發展營造法治公平的稅收環境。稅務總局納稅服務司有關負責人介紹，目前，稅務部門初步選取了央企上市公司及民營企業等500多家重點集團，並於6月中旬試點開展了向集團總部推送整個集團上年度“稅收貢獻賬單”的工作。
-
----
-
-### 2026-06-26 13:06:05  #其他
-
-住友化學：將於7月1日起上調硝酸銨價格。
-
----
-
-### 2026-06-26 13:05:27  #公司 #國際
-
-【全球首個自動駕駛系統技術法規獲批發布 10只概念股獲融資大幅淨買入】據工信部訊息，6月22—26日，聯合國世界車輛法規協調組織（UN/WP.29）第199次全體會議在瑞士日內瓦召開。會上，由中國、歐盟、英國、美國、加拿大和日本共同牽頭制定的聯合國自動駕駛系統全球技術法規（ADS GTR）經全體締約方投票表決，正式獲批發布。據證券時報·資料寶統計，A股中智慧駕駛概念股共有91只，從資金流向上來看，23股6月以來獲得融資淨買入，10股融資淨買入金額超過1億元，芯原股份、藍思科技、晶方科技居前，分別為8.99億元、5.67億元、3.36億元，這三家公司均屬汽車電子產業鏈。估值上來看，按最新滾動市盈率計算，目前15股估值不足20倍，華域汽車、天有為、上汽集團較低，分別為7.01倍、9.87倍、11.18倍。（證券時報）
-
----
-
-### 2026-06-26 13:05:06  #其他
-
-【安森美宣佈將收購Synaptics，交易對價約70億美元】6月26日訊息，安森美與Synaptics Incorporated宣佈，雙方已簽署最終協議。根據協議，安森美將透過全股票交易方式收購Synaptics，該交易對應的企業總價值約為70億美元。此次交易採用固定換股比例，即每股Synaptics股票可兌換1.350股安森美普通股。按照雙方過去10個交易日成交量加權平均股價計算，該交易對應約19%的溢價。安森美表示，透過整合Synaptics差異化的邊緣AI計算、強大的人機互動（HMI）和無線連線技術方面的技術能力，安森美將從電源與感知領域擴充套件至智慧系統領域。雙方結合後將進一步強化安森美在物理AI的市場地位，並預計到2030年將總潛在市場規模擴大300億美元，達到2430億美元。
-
----
-
-### 2026-06-26 13:04:36  #MKT News #Star Stocks #Market Themes #AI Revolution #Chip Wars #Hang Seng Index #Impact bearish #Nasdaq100 #AAPL.O
-
-【Apple price hikes trigger Asian tech sell-off; investors fear rising memory prices could curb AI demand】Apple’s product price increases prompted a Friday sell-off in Asian technology stocks as investors worried that rising component costs will suppress end-device demand and eventually weigh on the memory chip market supporting AI investment. Markets are reassessing whether rapidly rising storage prices—driven by strong AI demand—could, by raising manufacturing and consumer costs, begin to curb overall spending. Apple’s move is being read as a clear signal that sector pricing power may come at the expense of future demand, prompting re-ratings of AI-exposed semiconductor names. Charu Chanana, chief investment strategist at Saxo, said markets no longer treat rising memory prices as an unambiguous positive for the AI trade: it confirms robust AI infrastructure demand but increases the cost of building and using AI, risking a slowdown in the memory cycle that markets have begun to price in.
-
----
-
-### 2026-06-26 13:03:08  #觀點
-
-高盛將諾和諾德目標價從305丹麥克朗上調至310丹麥克朗。
-
----
-
-### 2026-06-26 13:02:17  #其他
-
-【深半協：2025年深圳積體電路產業實現銷售收入3610.4億元】6月26日，深圳市半導體行業協會諮詢委員會主任周生明在2026中國（深圳）積體電路峰會上表示，長期以來，我國積體電路長期存在大額貿易逆差，但是近年來中國積體電路出口增長率超過進口增長率，也是國產半導體產業走向世界的一個佐證。據統計，2025年深圳積體電路產業實現銷售收入3610.4億元，同比增長27.1%，超額完成2700億元的規劃目標，產業鏈日趨完善，創新成果不斷湧現。
-
----
-
-### 2026-06-26 13:01:56  #MKT News #Commodities #Energy #Brent #Impact bullish #WTI
-
-A Kazakh minister said Kazakhstan cut gas output at the Karachaganak field after a Ukrainian drone strike on Russia's Orenburg gas-processing plant.
-
----
-
-### 2026-06-26 13:00:11  #MKT News
-
-Singapore May seasonally adjusted industrial production MoM -0.7% vs 2.0% expected; April revised to 6.2% from 5.8%.
-
----
-
-### 2026-06-26 13:00:09  #公司
-
-中信資源控股有限公司在香港暫停交易。
-
----
-
-### 2026-06-26 13:00:08  #MKT News
-
-Singapore May industrial production YoY +13.0% vs forecast +17.2%; April revised down to 16.5% from 17.6%.
-
----
-
-### 2026-06-26 13:00:00  #MKT News #Economic Calendar #Important
-
-Singapore | Industrial Production (YoY) (May) | actual 13% | consensus 17.2% | previous 17.60%
 
 ---
