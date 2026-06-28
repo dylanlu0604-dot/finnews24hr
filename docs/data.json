@@ -1,7 +1,23 @@
 {
-  "updated": "2026-06-29 01:23:29",
-  "count": 17991,
+  "updated": "2026-06-29 01:42:26",
+  "count": 17987,
   "items": [
+    {
+      "id": "4959087",
+      "time": "2026-06-29 01:34:21",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗外交部：伊朗外長與伊拉克外長舉行會晤】伊朗外交部長阿拉格齊率外交代表團到訪巴格達，同伊拉克高層磋商，並於本週日上午與伊拉克外長福阿德·侯賽因舉行會談。"
+    },
+    {
+      "id": "4959086",
+      "time": "2026-06-29 01:25:07",
+      "tags": [
+        "市場"
+      ],
+      "text": "【渠道漲價、終端穩價 娃哈哈、怡寶上調供貨價 瓶裝水價格戰壓力給到經銷商】6月以來，多位經銷商陸續在社交媒體平臺發文，稱自7月1日起，娃哈哈純淨水(596ml×24瓶)每箱供應價上調0.5-1元；同樣是自7月1日起，華潤怡寶桶裝水（18.9L）每桶供應價上調1元。若以上述漲價幅度計算，對經銷商而言，娃哈哈純淨水596ml/瓶的漲價約0.02元至0.04元。中國食品產業分析師朱丹蓬向紅星資本局分析稱，飲用水企業此次調價主要指向PET塑膠包材等原材料成本的大幅上漲。"
+    },
     {
       "id": "mkt:019f0f40-cef3-7aab-8c02-0bf1ba0bad73",
       "time": "2026-06-29 01:22:13",
@@ -164571,61 +164587,6 @@
         "MKT News"
       ],
       "text": "【Ethiopia's ruling Prosperity Party wins parliamentary election】Ethiopia's National Election Board said in Addis Ababa on June 21 that the ruling Prosperity Party won the parliamentary vote held in early June. The board said the Prosperity Party captured 438 of 486 seats in the House of Peoples' Representatives, the lower chamber of the federal parliament."
-    },
-    {
-      "id": "4946599",
-      "time": "2026-06-22 01:40:37",
-      "tags": [
-        "其他"
-      ],
-      "text": "SpaceX：24顆星鏈衛星確認成功部署。"
-    },
-    {
-      "id": "4946598",
-      "time": "2026-06-22 01:36:05",
-      "tags": [
-        "其他"
-      ],
-      "text": "伊美談判於瑞士啟幕，調解方卡達與巴基斯坦稱此次磋商是實現地區穩定的“歷史性”契機。談判旨在延續近期緩和局勢的相關舉措，落實臨時協議並推進外交斡旋。"
-    },
-    {
-      "id": "mkt:019eeb40-09d8-7dd8-b0a8-596b103db66f",
-      "time": "2026-06-22 01:35:02",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Qatari PM welcomed today's Lake Lucerne summit in Switzerland and the ongoing U.S.-Iran talks, thanked Pakistan and other parties for helping secure a consensus, said he looks forward to building on it, and thanked Switzerland for hosting."
-    },
-    {
-      "id": "4946597",
-      "time": "2026-06-22 01:32:26",
-      "tags": [
-        "其他"
-      ],
-      "text": "哥倫比亞總統大選投票站關閉。"
-    },
-    {
-      "id": "mkt:019eeb37-3066-7dd8-b0a8-549f83d1dfb2",
-      "time": "2026-06-22 01:25:23",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bearish",
-        "Brent",
-        "Copper",
-        "Impact bullish"
-      ],
-      "text": "【Columbia researcher: Middle East conflict to accelerate energy transition and supply diversification】Karen Young, researcher at Columbia University’s Center on Global Energy Policy, said a conflict involving Iran is exerting irreversible pressure on the oil sector and has pushed major economies to evaluate energy options outside the Middle East. \"Countries are now more focused on energy security and therefore seek to diversify oil supplies and energy resources. In many regions this will mean a shift to renewables, especially in transport and electric vehicles,\" she said. Young warned the shift will reshape power-generation mixes and reduce the scale of gas sourced from the Middle East as countries rely more on domestic and accessible resources. \"The key is not to depend on any single source, especially oil, or any single type of fuel,\" she added."
-    },
-    {
-      "id": "4946596",
-      "time": "2026-06-22 01:24:32",
-      "tags": [
-        "國際"
-      ],
-      "text": "以色列向美國承諾，將恪守黎巴嫩南部的黃線邊界相關立場。"
     }
   ]
 }
