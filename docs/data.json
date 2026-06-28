@@ -1,7 +1,31 @@
 {
-  "updated": "2026-06-28 17:35:25",
-  "count": 18105,
+  "updated": "2026-06-28 17:39:39",
+  "count": 18106,
   "items": [
+    {
+      "id": "mkt:019f0d98-5f5a-7aab-8c00-38bbb7d47f16",
+      "time": "2026-06-28 17:38:37",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iraqi security forces arrested 17 officials on corruption charges."
+    },
+    {
+      "id": "4958907",
+      "time": "2026-06-28 17:37:30",
+      "tags": [
+        "其他"
+      ],
+      "text": "北京房山、門頭溝區氣象臺釋出暴雨藍色預警訊號。"
+    },
+    {
+      "id": "mkt:019f0d96-2832-7aab-8c00-367e0ab64a03",
+      "time": "2026-06-28 17:36:12",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Oman condemned an early-morning military attack on Kuwaiti territory, the Omani news agency reported."
+    },
     {
       "id": "4958906",
       "time": "2026-06-28 17:33:35",
@@ -165686,22 +165710,6 @@
         "XAUUSD"
       ],
       "text": "Al Arabiya reported Iranian President Pezeshkian said Iran will not relinquish its right to enrich uranium."
-    },
-    {
-      "id": "4946351",
-      "time": "2026-06-21 17:39:35",
-      "tags": [
-        "市場"
-      ],
-      "text": "【柳江出現今年第1號洪水 63個渡口停航停渡】據央視新聞，受持續強降雨（19日—21日）及上游來水影響，截至今天（6月21日）14時，柳江水位漲至83米，並持續上漲，相應流量15600立方米每秒。今天上午8時5分，柳江柳州水文站水位到達82.50米的警戒水位，根據主要江河洪水編號有關規定，此次洪水編號為“柳江2026年第一號洪水”。（央視新聞）"
-    },
-    {
-      "id": "mkt:019ee989-8c65-7dd8-b0a4-dd37f3e3f606",
-      "time": "2026-06-21 17:36:06",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Iranian state media said Iran's parliament speaker met in Switzerland with Qatar's prime minister and foreign minister to discuss implementation of provisions of a US-Iran memorandum of understanding."
     }
   ]
 }
