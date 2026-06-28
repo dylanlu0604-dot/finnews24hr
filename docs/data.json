@@ -1,7 +1,44 @@
 {
-  "updated": "2026-06-29 04:13:56",
-  "count": 17983,
+  "updated": "2026-06-29 04:17:59",
+  "count": 17985,
   "items": [
+    {
+      "id": "mkt:019f0fde-abc7-7aab-8c02-dc3678c1212b",
+      "time": "2026-06-29 04:14:38",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Israel's prime minister's office said a destroyed underground tunnel contained hundreds of weapons and several rocket-launch platforms."
+    },
+    {
+      "id": "mkt:019f0fde-a015-7aab-8c02-d7529ea8d6b2",
+      "time": "2026-06-29 04:14:35",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Israel's prime minister's office said Israeli forces will remain stationed in the security zone in southern Lebanon."
+    },
+    {
+      "id": "mkt:019f0fde-91ab-7aab-8c02-ca97e2b07885",
+      "time": "2026-06-29 04:14:32",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "DXY"
+      ],
+      "text": "The Israeli Prime Minister's Office said the military will continue to destroy Hezbollah infrastructure and eliminate threats to northern Israeli towns."
+    },
+    {
+      "id": "4959145",
+      "time": "2026-06-29 04:13:40",
+      "tags": [
+        "其他",
+        "焦點"
+      ],
+      "text": "美聯社：巴基斯坦稱對阿富汗邊境地區發動了襲擊。"
+    },
     {
       "id": "4959144",
       "time": "2026-06-29 04:12:21",
@@ -164527,32 +164564,6 @@
         "Brent"
       ],
       "text": "Axios reported U.S. diplomats said they have made good progress in keeping the Strait of Hormuz open."
-    },
-    {
-      "id": "mkt:019eebd3-0dc9-7dd8-b0a9-4b73b7efccff",
-      "time": "2026-06-22 04:15:37",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "Brent",
-        "Impact bullish",
-        "WTI"
-      ],
-      "text": "Insiders report an explosion at the Barzan gas plant in Ras Laffan, Qatar; cause cited as \"operational error\"."
-    },
-    {
-      "id": "mkt:019eebd2-8c97-7dd8-b0a9-47c1b3288c93",
-      "time": "2026-06-22 04:15:04",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bearish",
-        "XAUUSD",
-        "S&P500",
-        "Impact bullish"
-      ],
-      "text": "【Egypt, Pakistan, Saudi Arabia, Turkey foreign ministers meet in Cairo】Foreign ministers of Egypt, Pakistan, Saudi Arabia and Turkey met in Cairo on the 21st and issued a joint statement saying the US‑Iran conflict poses significant risks to regional security, international energy markets, maritime trade routes, global supply chains and international trade. They welcomed the recent US‑Iran memorandum of understanding as a constructive step toward de‑escalation and urged all parties to honor commitments. The ministers said the US and Iran should sustain current momentum, promptly complete next‑stage talks and agree a durable, verifiable and mutually acceptable solution that addresses regional states' concerns."
     }
   ]
 }
