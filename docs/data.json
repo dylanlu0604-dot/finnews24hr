@@ -1,7 +1,31 @@
 {
-  "updated": "2026-06-28 12:35:04",
-  "count": 18151,
+  "updated": "2026-06-28 12:39:09",
+  "count": 18154,
   "items": [
+    {
+      "id": "mkt:019f0c84-3309-7770-9d1c-d57a15107729",
+      "time": "2026-06-28 12:36:58",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "The Israeli military said on Saturday it killed several militants in a security zone in southern Syria."
+    },
+    {
+      "id": "mkt:019f0c84-21cd-7770-9d1c-ccbc716c9ff5",
+      "time": "2026-06-28 12:36:53",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iran's foreign ministry condemned U.S. airstrikes in southern Iran, saying they violated the temporary ceasefire agreement."
+    },
+    {
+      "id": "4958739",
+      "time": "2026-06-28 12:34:35",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列稱襲擊了敘利亞安全區的武裝人員。"
+    },
     {
       "id": "4958738",
       "time": "2026-06-28 12:33:13",
