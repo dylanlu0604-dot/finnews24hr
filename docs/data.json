@@ -1,7 +1,24 @@
 {
-  "updated": "2026-06-29 00:28:19",
-  "count": 17983,
+  "updated": "2026-06-29 00:32:23",
+  "count": 17982,
   "items": [
+    {
+      "id": "4959068",
+      "time": "2026-06-29 00:29:44",
+      "tags": [
+        "其他",
+        "焦點"
+      ],
+      "text": "中國地震臺網正式測定：06月29日00時12分，在四川宜賓市高縣(北緯28.50度，東經104.69度)發生5.5級地震，震源深度6公里。"
+    },
+    {
+      "id": "4959067",
+      "time": "2026-06-29 00:29:39",
+      "tags": [
+        "其他"
+      ],
+      "text": "訊息人士：受戰事再度爆發影響，原定於本週在瑞士舉行的美伊談判已暫停。"
+    },
     {
       "id": "mkt:019f0f0c-82fd-7aab-8c01-ab7a710b0bc5",
       "time": "2026-06-29 00:25:05",
@@ -164550,38 +164567,6 @@
         "國際"
       ],
       "text": "法國外交部：法國外長將於週一在瑞士會見卡達首相。"
-    },
-    {
-      "id": "mkt:019eeb06-2698-7dd8-b0a7-ffeaab8c352b",
-      "time": "2026-06-22 00:31:49",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "TASNIM NEWS, citing sources, says Iran's delegation walked out of talks in protest at comments by Trump."
-    },
-    {
-      "id": "4946585",
-      "time": "2026-06-22 00:31:25",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "訊息人士：伊朗代表團為抗議特朗普言論已離開談判會場。"
-    },
-    {
-      "id": "mkt:019eeb03-1829-7dd8-b0a7-f74851160acd",
-      "time": "2026-06-22 00:28:28",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "DXY",
-        "WTI"
-      ],
-      "text": "【Israel says it killed more than 20 Hezbollah fighters in southern Lebanon】On the 21st the IDF said it discovered an underground tunnel with four shafts and hundreds of weapons beneath the southern Lebanese village of Majdal Zoun, about 10 km from the Israel-Lebanon border, and that the 551st Brigade of its 91st Division is conducting operations there. The IDF said it killed more than 20 Hezbollah fighters during the operation, including over 10 members of the elite Radwan unit, and destroyed more than 50 military sites including observation posts and weapons storage facilities."
     }
   ]
 }
