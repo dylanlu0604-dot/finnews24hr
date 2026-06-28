@@ -1,7 +1,55 @@
 {
-  "updated": "2026-06-28 21:04:58",
-  "count": 18048,
+  "updated": "2026-06-28 21:09:01",
+  "count": 18050,
   "items": [
+    {
+      "id": "mkt:019f0e58-3649-7aab-8c01-24190c463100",
+      "time": "2026-06-28 21:08:09",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Putin says State Duma elections will be held on schedule and strictly in accordance with the law."
+    },
+    {
+      "id": "4959009",
+      "time": "2026-06-28 21:07:49",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國國土安全部長馬克韋恩·馬林表示，持有臨時保護身份的移民應當申請永久居留身份，或者返回原籍國。"
+    },
+    {
+      "id": "mkt:019f0e57-e11b-7aab-8c01-1b13a58a8866",
+      "time": "2026-06-28 21:07:47",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Putin said special operations forces personnel are Russia's true elite."
+    },
+    {
+      "id": "4959008",
+      "time": "2026-06-28 21:06:47",
+      "tags": [
+        "國際"
+      ],
+      "text": "普京表示，國家與民眾的安全、俄羅斯國界的不可侵犯性都將得到保障。"
+    },
+    {
+      "id": "4959007",
+      "time": "2026-06-28 21:06:40",
+      "tags": [
+        "國際"
+      ],
+      "text": "普京稱，特種作戰部隊官兵是俄羅斯真正的精銳力量。"
+    },
+    {
+      "id": "4959006",
+      "time": "2026-06-28 21:05:51",
+      "tags": [
+        "公司"
+      ],
+      "text": "【康寧推出下一代玻璃光互連元件】近日，Corning（康寧）在首爾POSCO Tower Yeoksam舉辦的AI資料中心光通訊與互連技術大會上，正式推出下一代玻璃光互連元件Glass Bridge（玻璃橋）。該產品基於玻璃波導技術，用於實現光纖與光子積體電路（PIC）之間的直接光學連線，主要面向共封裝光學（CPO）及玻璃基板半導體封裝應用場景。公司方面表示，該方案透過在玻璃內部構建光傳播路徑，以減少傳統光互連中的多級器件與對準環節，從而提升光互連密度與系統整合度。業內人士告訴記者，康寧此次推出的Glass Bridge光互連元件，並非傳統意義上的可插拔光模組產品，而是切入CPO封裝裡非常底層、但未來可能越來越關鍵的環節：光纖如何低損耗、高密度、可量產地接入光子晶片。這或意味著AI光通訊的下一輪競爭，開始向玻璃基板、光耦合、fiber-to-PIC連線和CPO封裝介面下沉。（上海證券報）"
+    },
     {
       "id": "mkt:019f0e54-2293-7aab-8c01-178c4c6820a9",
       "time": "2026-06-28 21:03:42",
@@ -165169,42 +165217,6 @@
         "國際"
       ],
       "text": "特朗普在接受採訪時稱，美國可以充當霍爾木茲海峽的 “守護天使”，並抽取 20% 的石油收益。他表示：“如有必要，我們將掌控該海峽”，還會 “狠狠打擊他們”，同時放出狠話：“倘若雙方無法達成協議，我們就將收取通行費。”"
-    },
-    {
-      "id": "4946483",
-      "time": "2026-06-21 21:07:50",
-      "tags": [
-        "其他"
-      ],
-      "text": "據燈塔專業版資料，截至6月21日21時，《玩具總動員5》端午檔票房1.21億，成為2026年端午檔票房冠軍。"
-    },
-    {
-      "id": "mkt:019eea4a-0186-7dd8-b0a6-b59732c69c12",
-      "time": "2026-06-21 21:06:19",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "【Trump warns Iran not to close Strait of Hormuz, threatens military action】Fox News reported Trump told Iranian officials in a phone call last night not to close the Strait of Hormuz, warning \"if you close it, you will no longer be a country.\" He said the US could act as the strait's \"guardian\" and \"take\" 20% of Iran's oil, suggested the US might seize control of the waterway if necessary, warned he would \"blow them to pieces,\" and said the US could impose transit fees if no agreement is reached."
-    },
-    {
-      "id": "4946482",
-      "time": "2026-06-21 21:05:53",
-      "tags": [
-        "其他"
-      ],
-      "text": "巴基斯坦總理：希望美伊會談能達成一份 “意義重大的協議檔案”，以此推動 “全球和平、發展與繁榮”。"
-    },
-    {
-      "id": "4946481",
-      "time": "2026-06-21 21:05:11",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普總統夜間與伊朗方面通話，警告對方不得封鎖海峽。特朗普稱他對伊朗官員表示：“只要你們封鎖海峽，你們的國家就不復存在。你們根本別想活著回到自己國家。”"
     }
   ]
 }
