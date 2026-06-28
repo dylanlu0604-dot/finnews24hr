@@ -1,7 +1,88 @@
 {
-  "updated": "2026-06-29 06:00:55",
-  "count": 17970,
+  "updated": "2026-06-29 06:05:24",
+  "count": 17969,
   "items": [
+    {
+      "id": "mkt:019f1042-be6c-7aab-8c03-49e9fbaba447",
+      "time": "2026-06-29 06:03:57",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Wall Street (US)",
+        "Nasdaq100",
+        "Impact bullish"
+      ],
+      "text": "U.S. stock index futures edged higher in early trade; Nasdaq futures up 0.4%."
+    },
+    {
+      "id": "mkt:019f1042-3644-7aab-8c03-47598935ed23",
+      "time": "2026-06-29 06:03:22",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Spot silver advanced just over 1.00% in early trade to $59.39/oz."
+    },
+    {
+      "id": "4959199",
+      "time": "2026-06-29 06:03:15",
+      "tags": [
+        "市場"
+      ],
+      "text": "現貨白銀日內漲1%，現報59.38美元/盎司。"
+    },
+    {
+      "id": "4959198",
+      "time": "2026-06-29 06:01:36",
+      "tags": [
+        "市場"
+      ],
+      "text": "標普500指數期貨上漲0.1%，納斯達克指數期貨下跌0.1%，布倫特原油價格上漲1.4%。"
+    },
+    {
+      "id": "mkt:019f1040-7615-7aab-8c03-3f2744537dee",
+      "time": "2026-06-29 06:01:27",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD"
+      ],
+      "text": "Spot gold opened flat on Monday at $4,078.61/oz."
+    },
+    {
+      "id": "mkt:019f1040-0af5-7aab-8c03-35b1b5a56db8",
+      "time": "2026-06-29 06:01:00",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish"
+      ],
+      "text": "WTI crude opened slightly higher on Monday, trading at $70.27 per barrel."
+    },
+    {
+      "id": "4959197",
+      "time": "2026-06-29 06:00:33",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金突破4080美元/盎司，日內跌0.01%。"
+    },
+    {
+      "id": "mkt:019f103f-8494-7aab-8c03-2867e85b1f27",
+      "time": "2026-06-29 06:00:25",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Wall Street (US)",
+        "Nasdaq100",
+        "Impact bearish"
+      ],
+      "text": "U.S. equity index futures opened modestly lower on Monday; Nasdaq futures down 0.2%."
+    },
     {
       "id": "4959196",
       "time": "2026-06-29 06:00:11",
@@ -164359,89 +164440,6 @@
         "市場"
       ],
       "text": "【霍爾木茲海峽緊張局勢持續，油價飆升、標普500股指期貨下挫】週一早盤布倫特原油期貨走強，美股股指期貨走低，美伊於瑞士開啟和平協議談判，美債期貨同步走弱。英鎊兌美元匯率走低，有訊息稱斯塔默將在未來數日公佈辭去英國首相。"
-    },
-    {
-      "id": "4946713",
-      "time": "2026-06-22 06:03:07",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "紐約期金突破4170美元/盎司，日內跌1.78%。"
-    },
-    {
-      "id": "mkt:019eec35-7591-7dd8-b0a9-b2719e4c8c26",
-      "time": "2026-06-22 06:03:06",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "U.S. 10-year Treasury futures fell 12 ticks; 30-year Treasury futures fell 21 ticks."
-    },
-    {
-      "id": "4946711",
-      "time": "2026-06-22 06:02:36",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "美國10年期國債期貨下跌12個最小變動價位，30年期國債期貨下跌21個最小變動價位。"
-    },
-    {
-      "id": "4946710",
-      "time": "2026-06-22 06:02:02",
-      "tags": [
-        "國際"
-      ],
-      "text": "日本每日新聞民調：日本高市內閣支援率51%。"
-    },
-    {
-      "id": "mkt:019eec34-3347-7dd8-b0a9-ac18269cc550",
-      "time": "2026-06-22 06:01:44",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Precious Metals",
-        "XAUUSD"
-      ],
-      "text": "Spot gold opened Monday down 0.1%, trading at $4,154/oz."
-    },
-    {
-      "id": "4946709",
-      "time": "2026-06-22 06:01:32",
-      "tags": [
-        "市場"
-      ],
-      "text": "布倫特原油期貨上漲2%。"
-    },
-    {
-      "id": "4946708",
-      "time": "2026-06-22 06:01:14",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "現貨黃金突破4150美元/盎司，日內跌0.12%。"
-    },
-    {
-      "id": "4946707",
-      "time": "2026-06-22 06:01:02",
-      "tags": [
-        "市場"
-      ],
-      "text": "標普500指數期貨下跌0.3%，納斯達克指數期貨下跌0.4%。"
-    },
-    {
-      "id": "mkt:019eec33-8ee5-7dd8-b0a9-a47a10ee254a",
-      "time": "2026-06-22 06:01:02",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bullish"
-      ],
-      "text": "WTI crude opened up 1.7% on Monday and is trading at $78.30/bbl."
     }
   ]
 }
