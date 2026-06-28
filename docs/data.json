@@ -1,7 +1,53 @@
 {
-  "updated": "2026-06-29 07:20:27",
-  "count": 17969,
+  "updated": "2026-06-29 07:24:26",
+  "count": 17966,
   "items": [
+    {
+      "id": "mkt:019f108b-71e3-7aab-8c03-bbd42a632661",
+      "time": "2026-06-29 07:23:21",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "【INVESCO: Sovereign investors shift toward energy assets, flag dollar concerns】INVESCO said in a Monday survey that sovereign wealth funds and central banks managing $29 tln are reallocating toward energy assets and expressing concern about the dollar, reflecting portfolio reassessments driven by unprecedented geopolitical shifts. The survey of 90 sovereign wealth funds and 54 central banks found that amid trade tariffs, waterway closures and conflicts in Ukraine and the Middle East, investors are prioritizing diversification and portfolios able to withstand shocks and remain broadly stable. About 80% of respondents said energy security and energy-transition infrastructure are the most reliable ways to boost portfolio resilience; INVESCO said infrastructure will account for 9% of sovereign wealth fund assets by 2026. INVESCO noted that demand for energy-intensive AI infrastructure is increasing the appeal of such assets. INVESCO research head Benjamin Jones said resilience is becoming a requirement rather than a luxury."
+    },
+    {
+      "id": "4959249",
+      "time": "2026-06-29 07:23:01",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【瑞為技術尋求透過香港IPO募資6.08億港元】根據呈交香港交易所的檔案，廈門瑞為資訊科技股份有限公司香港上市擬發行2810萬股股份，發行價為每股21.66港元。該公司勢將募資6.08億港元（7750萬美元）。預計將於7月8日掛牌上市。華泰國際、建銀國際和農銀國際為聯席保薦人。"
+    },
+    {
+      "id": "te:markets:562349",
+      "time": "2026-06-29 07:22:57",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Brent Rises to Start the Week — Brent climbed above $72 per barrel on Monday, recovering modestly from four-month lows after a series of tit-for-tat attacks between the US and Iran over the Strait of Hormuz. The two sides, however, agreed to halt further strikes ahead of peace talks set to resume later this week. The exchange of attacks began on Thursday when Iran targeted a container ship, prompting US strikes the following day. Washington launched another round of attacks overnight on Saturday after Tehran struck a vessel carrying Qatari oil. Meanwhile, Axios reported that US and Iranian officials are scheduled to meet in Doha on Tuesday to discuss the Strait of Hormuz and other issues aimed at ending the conflict. Despite the renewed tensions, shipping activity through the vital waterway has picked up since the US and Iran reached an interim peace agreement, although shipowners remain cautious as hundreds of vessels are still stranded in the Persian Gulf."
+    },
+    {
+      "id": "te:markets:562348",
+      "time": "2026-06-29 07:21:27",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 2"
+      ],
+      "text": "Oil Rises to Start the Week — Crude oil climbed to around $70 per barrel on Monday, recovering modestly from four-month lows after a series of tit-for-tat attacks between the US and Iran over the Strait of Hormuz. The two sides, however, agreed to halt further strikes ahead of peace talks set to resume later this week. The exchange of attacks began on Thursday when Iran targeted a container ship, prompting US strikes the following day. Washington launched another round of attacks overnight on Saturday after Tehran struck a vessel carrying Qatari oil. Meanwhile, Axios reported that US and Iranian officials are scheduled to meet in Doha on Tuesday to discuss the Strait of Hormuz and other issues aimed at ending the conflict. Despite the renewed tensions, shipping activity through the vital waterway has picked up since the US and Iran reached an interim peace agreement, although shipowners remain cautious as hundreds of vessels are still stranded in the Persian Gulf."
+    },
     {
       "id": "4959248",
       "time": "2026-06-29 07:19:47",
@@ -164400,66 +164446,6 @@
         "Important"
       ],
       "text": "IRNA reports Iran's delegation remains at the negotiating venue in Switzerland; talks between the parties and mediators from Pakistan and Qatar are ongoing."
-    },
-    {
-      "id": "4946789",
-      "time": "2026-06-22 07:23:47",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國農業部：新增3例螺旋蠅病例，國內累計確診病例升至15例。"
-    },
-    {
-      "id": "4946788",
-      "time": "2026-06-22 07:23:24",
-      "tags": [
-        "其他"
-      ],
-      "text": "【權益類基金年內合計分紅同比增長超23%】今年以來，公募基金分紅保持較高熱度，其中權益類基金分紅金額同比增幅明顯，成為年內公募基金分紅市場的重要增量。公募排排網資料顯示，截至6月21日，年內共有1940只基金實施分紅，合計分紅3054次，分紅總金額達874.87億元。從一級型別看，1287只債券型基金合計分紅1737次，合計分紅金額達444.01億元，佔全部基金分紅金額的50.75%，依然是公募基金分紅的“基本盤”。今年以來，權益類基金分紅同比增長更為突出。資料顯示，今年以來，408只權益類基金（股票型基金和偏股混合型基金），合計分紅298.52億元，較去年同期的241.05億元增長23.84%。（證券日報）"
-    },
-    {
-      "id": "4946787",
-      "time": "2026-06-22 07:22:38",
-      "tags": [
-        "其他"
-      ],
-      "text": "記者團播報：美伊會談預計將持續到深夜。"
-    },
-    {
-      "id": "mkt:019eec7d-b834-7dd8-b0aa-15a18ca20866",
-      "time": "2026-06-22 07:22:02",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "US President Trump will sign an executive order Monday afternoon U.S. time, at 3:30 a.m. Beijing time the following day."
-    },
-    {
-      "id": "mkt:019eec7d-a602-7dd8-b0aa-0e5bc012953b",
-      "time": "2026-06-22 07:21:57",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "DXY",
-        "WTI"
-      ],
-      "text": "【Russia says it struck Ukrainian military airport; Ukraine says it hit Russian radar station】On the 21st the Russian Defence Ministry said that over the previous 24 hours Russian forces struck one Ukrainian military airport and targets including energy and transport infrastructure and logistics hubs. It said Russian air defences intercepted eight guided aerial bombs and hundreds of fixed‑wing UAVs, and the Black Sea Fleet destroyed four Ukrainian unmanned boats. Ukraine's General Staff said dozens of frontline engagements occurred by the afternoon of the 21st, with heaviest fighting around Huliaipole and Pokrovsk, and that Ukrainian unmanned systems struck Russian radar stations, fuel depots and military vehicles."
-    },
-    {
-      "id": "4946785",
-      "time": "2026-06-22 07:21:21",
-      "tags": [
-        "國際"
-      ],
-      "text": "【俄稱打擊烏軍用機場 烏稱打擊俄雷達基站】當地時間21日，俄羅斯國防部通報稱，過去24小時，俄軍打擊了1座烏克蘭軍用機場，以及烏軍使用的能源和交通基礎設施、後勤中心等目標。俄軍防空系統則攔截了烏軍8枚制導航空炸彈和數百架固定翼無人機。另外，俄軍黑海艦隊還摧毀了4艘烏軍無人艇。烏克蘭武裝部隊總參謀部21日通報稱，截至當天下午，前線共發生數十次戰鬥，其中古利亞伊波列和波克羅夫斯克方向的戰鬥最為激烈。另外，烏軍無人系統部隊21日打擊了俄軍雷達基站、油料庫、軍用車輛等多個目標。"
-    },
-    {
-      "id": "4946784",
-      "time": "2026-06-22 07:20:40",
-      "tags": [
-        "公司"
-      ],
-      "text": "【庫克時代漸遠？古爾曼：蘋果新CEO或重新重視設計團隊】彭博社知名蘋果記者馬克·古爾曼(Mark Gurman)週日發文，回顧了過去十年蘋果公司組織架構的變化。在庫克時代，設計團隊在蘋果高層的影響力逐漸削弱，這一趨勢因喬尼·艾維(Jony Ive)的離職及人才外流而加劇，同時財務與運營部門在產品方向上擁有了越來越大的話語權。 不過，古爾曼認為，即將接任CEO的約翰·特努斯(John Ternus)可能會重新調整這種關係，再次確立設計團隊對於蘋果未來發展的重要地位。"
     }
   ]
 }
