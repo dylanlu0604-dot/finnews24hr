@@ -1,7 +1,39 @@
 {
-  "updated": "2026-06-28 12:30:59",
+  "updated": "2026-06-28 12:35:04",
   "count": 18151,
   "items": [
+    {
+      "id": "4958738",
+      "time": "2026-06-28 12:33:13",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗外交部發表宣告，譴責美國打擊伊朗南部地區的行動違反臨時協議。"
+    },
+    {
+      "id": "4958737",
+      "time": "2026-06-28 12:33:03",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗外長訪問伊拉克】據報道，伊朗外長阿拉格齊於週日早晨啟程前往伊拉克進行正式訪問，目的地為該國首都巴格達。在此次訪問中，伊朗外交部長將與伊拉克高階官員就雙邊關係及地區和國際局勢進行磋商和交流。"
+    },
+    {
+      "id": "mkt:019f0c7f-af91-7770-9d1c-c6a6b9870a65",
+      "time": "2026-06-28 12:32:02",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Iranian foreign minister visits Iraq】IRNA said Iranian foreign minister Araghchi departed Sunday morning for an official visit to Baghdad to consult with senior Iraqi officials on bilateral relations and regional and international issues."
+    },
+    {
+      "id": "4958736",
+      "time": "2026-06-28 12:31:46",
+      "tags": [
+        "其他"
+      ],
+      "text": "【中國移動03星近期將擇機發射 搭載星載基站驗證衛星物聯網業務】《科創板日報》記者獲悉，中國移動下一顆手機直連衛星試驗星03星近期將擇機發射。與今年6月9日發射的“中國移動02星”不同，03星將搭載星載基站，實現“星上再生”模式。此外，03星還將同步驗證衛星物聯網業務，實現寬頻與窄帶物聯的融合。 (科創板日報)"
+    },
     {
       "id": "4958735",
       "time": "2026-06-28 12:26:06",
@@ -166086,43 +166118,6 @@
         "其他"
       ],
       "text": "中國地震臺網正式測定：06月21日12時37分在青海海西州直轄區（北緯37.81度，東經95.45度）發生3.4級地震，震源深度10千米。"
-    },
-    {
-      "id": "4946134",
-      "time": "2026-06-21 12:32:57",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "【德意志銀行上調美國通脹預期】德意志銀行上調美國通脹預期，全面修正美聯儲政策判斷，預計2026年美聯儲合計加息50個基點、利率升至4.1%，7月或提前加息。（新華財經）"
-    },
-    {
-      "id": "4946133",
-      "time": "2026-06-21 12:32:43",
-      "tags": [
-        "國際"
-      ],
-      "text": "【瑞士比爾根山高度警戒 迎接美伊談判】經過幾番改址、一再延期，依據美國和伊朗停戰諒解備忘錄進行的美伊技術性談判定於21日在瑞士中部下瓦爾登州的比爾根山舉行，美伊雙方以及調解方代表正陸續抵達瑞士。為確保安全，瑞士聯邦政府已批准增派約2000名軍事人員。談判期間，比爾根山周圍46公里半徑範圍內實施空域限制，瑞士空軍執行空中警戒並加強空域監控，道路交通、徒步路線加強管制。目前，美伊雙方談判立場尚存分歧，有關霍爾木茲海峽是否關閉，雙方各執一詞。21日這場在比爾根山舉行的美伊談判能否順利進行，仍有待觀察。（新華社）"
-    },
-    {
-      "id": "mkt:019ee873-50d3-7dd8-b0a3-4eec4388b92d",
-      "time": "2026-06-21 12:32:11",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "【Switzerland raises security at Bürgenstock ahead of US-Iran talks】US and Iranian technical talks under a ceasefire memorandum are scheduled for the 21st at Bürgenstock in Nidwalden, central Switzerland. The Swiss federal government authorised deployment of about 2,000 military personnel. A 46-km radius airspace restriction around Bürgenstock is in force; the Swiss Air Force is on aerial patrol and airspace monitoring has been stepped up, with road and hiking access tightened. Delegations and mediators are arriving. Negotiating positions still diverge—notably on whether the Strait of Hormuz would be closed—so the talks’ outcome and whether they proceed smoothly remain uncertain."
-    },
-    {
-      "id": "4946131",
-      "time": "2026-06-21 12:31:44",
-      "tags": [
-        "其他"
-      ],
-      "text": "【《給阿嬤的情書》在英國首映】中國電影《給阿嬤的情書》20日在英國倫敦舉行首映禮。（新華社）"
     }
   ]
 }
