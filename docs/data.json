@@ -1,7 +1,83 @@
 {
-  "updated": "2026-06-28 23:44:34",
-  "count": 18000,
+  "updated": "2026-06-29 00:07:59",
+  "count": 17992,
   "items": [
+    {
+      "id": "mkt:019f0efb-cc5e-7aab-8c01-8bc5dba8ec38",
+      "time": "2026-06-29 00:06:50",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Australia's Firmus to partner with NVIDIA on Indonesian data center】Australia AI infrastructure firm Firmus Technologies Pty Ltd will partner with NVIDIA to build its first data center in Indonesia. A revenue-share and credit-support agreement allows Firmus to procure NVIDIA infrastructure for customers and covers up to 170,000 NVIDIA AI accelerator chips in 2027-28; the deal could generate up to $30bn of offtake (committed purchase) revenue over the project's first six years."
+    },
+    {
+      "id": "4959062",
+      "time": "2026-06-29 00:05:40",
+      "tags": [
+        "其他"
+      ],
+      "text": "伊拉克在反腐行動中拘留的官員包括負責分銷事務的副石油部長。"
+    },
+    {
+      "id": "4959061",
+      "time": "2026-06-28 23:58:32",
+      "tags": [
+        "其他"
+      ],
+      "text": "沙特王儲與法國總統表態支援旨在緩和緊張局勢的外交行動。"
+    },
+    {
+      "id": "4959060",
+      "time": "2026-06-28 23:58:26",
+      "tags": [
+        "其他"
+      ],
+      "text": "沙特王儲與法國總統強調保障航行自由的重要性。"
+    },
+    {
+      "id": "4959059",
+      "time": "2026-06-28 23:58:16",
+      "tags": [
+        "其他"
+      ],
+      "text": "沙特王儲與法國總統探討推動實現地區安全的綜合性解決途徑。"
+    },
+    {
+      "id": "4959058",
+      "time": "2026-06-28 23:58:08",
+      "tags": [
+        "其他"
+      ],
+      "text": "沙特王儲同法國總統談及美伊諒解備忘錄最新動態。"
+    },
+    {
+      "id": "4959057",
+      "time": "2026-06-28 23:50:59",
+      "tags": [
+        "其他"
+      ],
+      "text": "沙特王儲同法國總統會晤，共同探討為實現地區安全尋求全面解決方案的相關舉措。"
+    },
+    {
+      "id": "mkt:019f0eeb-642c-7aab-8c01-86142453712e",
+      "time": "2026-06-28 23:48:55",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "【Iran urges US to set timetable for Israel's unconditional withdrawal from occupied Lebanese territory】Iran on Sunday urged the United States to set a timetable to push Israel to unconditionally withdraw from occupied Lebanese territory under a memorandum-of-understanding framework to end the conflict, Iranian Foreign Ministry spokesman Baghaei said. He said ending Israel’s military actions and withdrawal from all occupied Lebanese territory is a necessary condition for a final, sustainable agreement and regional stability, and Tehran is calling for a prompt determination of such a withdrawal timetable."
+    },
+    {
+      "id": "4959056",
+      "time": "2026-06-28 23:44:02",
+      "tags": [
+        "國際"
+      ],
+      "text": "科技記者馬克·古爾曼：結合往年規律來看，蘋果iPhone 18 Pro以及iPhone Ultra最有可能的釋出日期為9月8日週二或9月9日週三。但9月7日是美國勞工節，考慮到需要留出一天緩衝出行，蘋果或許會傾向選擇9月9日召開釋出會。"
+    },
     {
       "id": "4959055",
       "time": "2026-06-28 23:41:37",
@@ -164592,164 +164668,6 @@
         "國際"
       ],
       "text": "【萬斯稱特朗普要求與伊朗“翻開新篇章”】美國副總統萬斯週日（6月21日）在伊美會談前表示，特朗普已要求與伊朗“翻開新篇章”，以轉變美伊關係。"
-    },
-    {
-      "id": "mkt:019eeaef-b3db-7dd8-b0a7-cb7843c097fa",
-      "time": "2026-06-22 00:07:18",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "DXY",
-        "WTI"
-      ],
-      "text": "【Hezbollah opposes Lebanon-US direct talks, says they will harm sovereignty and serve Israel】Al Jazeera reported Hezbollah opposes direct talks between the Lebanese government and the US, saying such negotiations would weaken Lebanon’s sovereignty and serve Israeli interests. The group said the Lebanese delegation in Washington was asked to sign US-proposed terms that “deprive Lebanese sovereignty” and align Lebanon with forces reconciled with Israel, calling the talks based on a “flawed” premise that would produce “surrender” rather than serve Lebanon’s interests. Hezbollah added that government participation hinders efforts to counter enemy plans and resistance on the ground, risks Lebanon’s stability and independence, and amounts to compliance with US and Israeli policy objectives."
-    },
-    {
-      "id": "mkt:019eeaee-2951-7dd8-b0a7-c7dfc5b6421c",
-      "time": "2026-06-22 00:05:37",
-      "tags": [
-        "MKT News",
-        "Brent",
-        "Impact bullish",
-        "XAUUSD",
-        "DXY"
-      ],
-      "text": "【Israeli chief of staff: military operations in Lebanon continue】The Israel Defense Forces said on the 21st Chief of Staff Zamir, speaking in southern Lebanon at a meeting with commanders, said military operations in Lebanon remain ongoing. Zamir said the IDF is fighting on multiple fronts and continuing strikes against Hezbollah; he added some units suffered \"significant losses\" with multiple soldiers and commanders killed. Israeli media reported on the 20th that the prime minister and defence minister instructed the IDF to call a cease-fire in Lebanon, but the army has not withdrawn from areas it controls in southern Lebanon. Prime Minister Netanyahu reiterated the IDF will remain in south Lebanon \"as long as necessary.\""
-    },
-    {
-      "id": "4946571",
-      "time": "2026-06-22 00:05:28",
-      "tags": [
-        "國際"
-      ],
-      "text": "【以軍總參謀長：在黎巴嫩軍事行動仍在繼續】據以色列國防軍21日發表的宣告，以軍總參謀長扎米爾當天在黎巴嫩南部與以軍指揮官會面時稱，以軍在黎巴嫩的軍事行動仍在繼續。扎米爾稱，以軍“正在多線作戰”，持續打擊黎真主黨武裝組織。他還稱，以軍一些部隊遭受“重大損失”，有多名士兵和指揮官死亡。以色列媒體20日報道說，以總理和國防部長指示以軍在黎巴嫩停火，但以軍未撤出其在黎南部控制的地區。以總理內塔尼亞胡重申“只要有必要”，以軍會一直駐留在黎南部。（新華社）"
-    },
-    {
-      "id": "4946570",
-      "time": "2026-06-22 00:01:58",
-      "tags": [
-        "國際"
-      ],
-      "text": "訊息人士：伊朗代表團將不在日內瓦與國際原子能機構總幹事舉行會談。美方原本希望國際原子能機構總幹事格羅西出席瑞士舉行的伊美談判，但伊朗拒絕了這一提議。"
-    },
-    {
-      "id": "4946569",
-      "time": "2026-06-22 00:01:19",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗方面稱，特朗普的威脅行為嚴重違反諒解備忘錄。"
-    },
-    {
-      "id": "4946568",
-      "time": "2026-06-21 23:57:48",
-      "tags": [
-        "其他"
-      ],
-      "text": "迪士尼《玩具總動員5》北美首映票房達1.6億美元。"
-    },
-    {
-      "id": "mkt:019eeae4-d6df-7dd8-b0a7-bf9d1935385d",
-      "time": "2026-06-21 23:55:26",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "Hezbollah leader said the group will respond to any act of aggression."
-    },
-    {
-      "id": "4946567",
-      "time": "2026-06-21 23:55:24",
-      "tags": [
-        "其他"
-      ],
-      "text": "真主黨領袖稱將對任何侵犯行為作出回應。"
-    },
-    {
-      "id": "mkt:019eeae4-a94c-7dd8-b0a7-b601e46b2135",
-      "time": "2026-06-21 23:55:14",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "WTI",
-        "DXY"
-      ],
-      "text": "Hezbollah leader says Israel will not continue to be stationed in Lebanon."
-    },
-    {
-      "id": "4946566",
-      "time": "2026-06-21 23:55:00",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "【以總理稱以軍將根據需要繼續駐留黎巴嫩南部】當地時間21日，以色列總理內塔尼亞胡公開表示，以色列軍隊將根據安全需要在黎巴嫩南部的“安全區”長期駐留，並重申將採取一切手段阻止伊朗獲得核武器。內塔尼亞胡在當天的一場講話中表示，以色列在過去一年中針對伊朗實施了兩次重大軍事行動，旨在“消除來自伊朗的緊迫威脅”。他強調，以色列已經取得了“重大成果”，且絕不會妥協，將繼續捍衛其根本利益。在談及黎巴嫩南部局勢時，內塔尼亞胡強調，以軍將繼續駐留在黎南部的所謂“安全區”，直至消除對以色列北部及全國民眾的“安全威脅”。內塔尼亞胡堅稱，只要其還擔任以色列總理，他在這一問題上的堅定立場就絕不改變。同時，只要其還擔任以色列總理，無論政治局勢如何發展，他都絕不允許伊朗擁有核武器。（央視新聞）"
-    },
-    {
-      "id": "4946565",
-      "time": "2026-06-21 23:54:42",
-      "tags": [
-        "國際"
-      ],
-      "text": "真主黨領導人稱，以色列不會留在黎巴嫩。"
-    },
-    {
-      "id": "mkt:019eeae4-076f-7dd8-b0a7-afe74e85269d",
-      "time": "2026-06-21 23:54:33",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "According to Axios, a U.S. official said Iranian delegates had agreed to hold an on-site media briefing at the start of a meeting and brought state media to the venue, but left after seeing the number of journalists present and later issued an inaccurate account through state media."
-    },
-    {
-      "id": "4946564",
-      "time": "2026-06-21 23:54:08",
-      "tags": [
-        "其他"
-      ],
-      "text": "【亞洲接力錦標賽 中國隊創造男子4x100米接力賽會紀錄】2026亞洲接力錦標賽北京時間6月21日在紹興上虞結束，由謝震業、施君豪、黃友聞、陳錦豐組成的中國隊以38.08秒的成績奪得冠軍，並創男子4x100米接力賽會紀錄。（央視新聞）"
-    },
-    {
-      "id": "4946563",
-      "time": "2026-06-21 23:52:57",
-      "tags": [
-        "國際"
-      ],
-      "text": "一名美方官員透露，伊朗代表此前已同意會談開場安排媒體採訪環節。該官員稱：“他們甚至攜帶本國官方媒體記者到場報道，相關人員也已提前就位。但在看到現場媒體人數眾多後，伊朗代表直接離場，隨後還透過本國官媒釋出與事實不符的會談情況說明。”"
-    },
-    {
-      "id": "4946562",
-      "time": "2026-06-21 23:48:49",
-      "tags": [
-        "國際"
-      ],
-      "text": "據伊朗媒體21日報道，伊朗代表團已就美國總統特朗普近期口頭威脅向美方提出抗議，目前正在制定適當回應方案。"
-    },
-    {
-      "id": "mkt:019eeade-c957-7dd8-b0a7-a61b21cbb0ac",
-      "time": "2026-06-21 23:48:49",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "The Trump Trade",
-        "XAUUSD",
-        "Impact bullish",
-        "DXY",
-        "WTI"
-      ],
-      "text": "【Iranian delegation lodges protest over Trump's verbal threats】Iranian media said on the 21st the Iranian delegation has lodged a protest with the US over recent verbal threats by President Trump and is preparing an appropriate response."
-    },
-    {
-      "id": "mkt:019eeadb-210b-7dd8-b0a7-9df7f7c319a4",
-      "time": "2026-06-21 23:44:49",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Iran delegation begins bilateral talks with Qatar】Iranian media on the 21st reported that after the first round of Iran‑US negotiations concluded, Iran's delegation began bilateral talks with Qatar's delegation."
     }
   ]
 }
