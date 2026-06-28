@@ -1,7 +1,27 @@
 {
-  "updated": "2026-06-28 09:28:36",
-  "count": 18171,
+  "updated": "2026-06-28 09:32:33",
+  "count": 18170,
   "items": [
+    {
+      "id": "mkt:019f0bda-cdfe-7770-9d1c-32159960fd21",
+      "time": "2026-06-28 09:31:56",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "【Iranian sources: four aerial objects struck near Bandar-e Lengeh】Iranian sources said early on the 28th four aerial objects struck the area near Bandar-e Lengeh in southern Iran. US Central Command said on the 27th it posted a social-media statement that US forces conducted a new round of strikes inside Iran targeting military surveillance facilities, communications systems, air-defense positions, drone storage facilities and mine‑laying equipment."
+    },
+    {
+      "id": "4958690",
+      "time": "2026-06-28 09:30:07",
+      "tags": [
+        "其他"
+      ],
+      "text": "【葡萄牙0比0哥倫比亞】2026年美加墨世界盃小組賽K組第三輪哥倫比亞VS葡萄牙，最終葡萄牙0比0哥倫比亞。（央視新聞）"
+    },
     {
       "id": "4958689",
       "time": "2026-06-28 09:24:41",
@@ -166235,35 +166255,6 @@
         "國際"
       ],
       "text": "市場訊息：伊朗議會議長抵達瑞士參與伊巴諒解備忘錄談判。"
-    },
-    {
-      "id": "4946062",
-      "time": "2026-06-21 09:30:53",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【10倍儲存牛股 本週限售股解禁】據統計，本週（6月22日至26日）A股將有49家公司有限售股份解禁，合計解禁數量27.63億股，以最新收盤價計算（下同），總解禁市值達549.08億元。這批解禁股中包含多隻儲存、光通訊等強勢板塊牛股。儲存牛股兆易創新本週解禁市值為4.07億元。6月17日，公司釋出股權激勵行權結果，行權股票數量共計125萬股，本次上市流通數量為64.71萬股，本次行權人員合計37人，以58.09元/股的行權價和最新股價計算，125萬股行權後合計盈利7.14億元，人均盈利達1928萬元。該股自2025年以來，累計漲近5倍，相比2024年低點，已漲超10倍。本週解禁個股集中度較高，有15家公司解禁市值超10億元，合計解禁市值約485.93億元。珠城科技、新恆匯解禁市值均超過50億元。(證券時報)"
-    },
-    {
-      "id": "4946061",
-      "time": "2026-06-21 09:29:39",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：以色列與真主黨衝突已被納入瑞士和平談判首日議程。"
-    },
-    {
-      "id": "mkt:019ee7cb-e5d9-7dd8-b0a2-928e9ea2d336",
-      "time": "2026-06-21 09:29:19",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "DXY",
-        "WTI"
-      ],
-      "text": "US broadcaster CBS reports the Israel–Hezbollah conflict has been added to the agenda for the opening day of peace talks in Switzerland."
     }
   ]
 }
