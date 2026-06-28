@@ -1,7 +1,103 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-06-28 08:04:42_
-_本檔包含 3710 則快訊，約 669319 字_
+_更新時間：2026-06-28 08:56:26_
+_本檔包含 3708 則快訊，約 668660 字_
+
+---
+
+### 2026-06-26 09:01:54  #市場 #焦點
+
+瀝青連續主力合約日內漲2%，現報3803.00元。
+
+---
+
+### 2026-06-26 09:01:36  #其他
+
+據委內瑞拉衛生部通報，委內瑞拉強震遇難人數升至235人。
+
+---
+
+### 2026-06-26 09:01:28  #市場 #觀點
+
+【中金財富期貨：美股資本市場也出現非AI資產被AI資產“抽血”資金的情況，黃金亦在受害者之列】油價下行，但是由狂熱的AI投資驅動的新通脹可能正在成型，蘋果和微軟在同一天宣佈漲價，這可能不是巧合，AI軍備競賽的賬單開始轉嫁給普通消費者，一場由資料中心驅動的新一輪通脹正悄然成形，目前黃金市場無法消除通脹壓力的影響，且隨著美股科技股的市值劇烈膨脹疊加天量IPO抽血，美股資本市場也出現非AI資產被AI資產“抽血”資金的情況，黃金亦在受害者之列。
+
+---
+
+### 2026-06-26 09:01:27  #MKT News #Commodities #Precious Metals #XAUUSD #Impact bullish
+
+At the morning open on Friday June 26, Shanghai Gold Exchange gold T+D rose 1.25% to 884.2 yuan/gram; silver T+D rose 0.91% to 14,050 yuan/kg.
+
+---
+
+### 2026-06-26 09:01:27  #MKT News #Market Regions #Greater China
+
+Taiwan Weighted Index opened 538.4 points lower, down 1.16% at 45,716.86 on Friday, June 26.
+
+---
+
+### 2026-06-26 09:01:04  #MKT News
+
+【Navigation warning: military activity east of Wenzhou】China Maritime Safety Administration: Wenzhou maritime authority issued a navigation warning closing parts of the East China Sea east of Wenzhou to navigation for military activities from June 26 18:00 to June 28 18:00 (CST); entry prohibited.
+
+---
+
+### 2026-06-26 09:00:28  #MKT News #CSI300 #Impact bearish
+
+FTSE China A50 index futures opened 0.6% lower.
+
+---
+
+### 2026-06-26 09:00:25  #MKT News #Important
+
+At the open, most-active domestic futures contracts were mixed. Low-sulfur fuel oil (LU) rose over 3%; propylene, container freight to Europe, LPG and polypropylene gained more than 2%; SC crude, Soybean No.1 and fuel oil climbed over 1%. On the downside, lithium carbonate fell over 4%; 20# rubber dropped more than 3%; rubber was down nearly 2%; iron ore and coke declined over 1%.
+
+---
+
+### 2026-06-26 09:00:23  #市場
+
+臺灣證交所加權股價指數下跌1%至45,774.10點。
+
+---
+
+### 2026-06-26 09:00:19  #市場 #焦點
+
+碳酸鋰連續主力合約日內跌4%，現報148900.00元。
+
+---
+
+### 2026-06-26 09:00:13  #其他
+
+臺灣證交所加權股價指數開低0.1%報46,188.60。
+
+---
+
+### 2026-06-26 09:00:06  #公司 #觀點
+
+【英國私募巨頭MFS衝擊波蔓延，摩根士丹利曾是早期支持者】媒體看到的檔案顯示，摩根士丹利是華爾街最早支援Market Financial Solutions Ltd.（MFS）的機構之一，在該公司經歷繁榮並最終因揹負24億美元債務而破產之前，提升了這家英國私募信貸公司的信譽。檔案顯示，當MFS創始人、曾經的酒水商店老闆Paresh Raja拓展其英國抵押貸款業務時，摩根士丹利便為其提供了早期支援。
+
+---
+
+### 2026-06-26 09:00:04  #市場 #焦點
+
+豆粕連續主力合約日內漲1%，現報2974.00元。
+
+---
+
+### 2026-06-26 09:00:03  #市場
+
+富時中國A50指數期貨開盤下跌0.60%。
+
+---
+
+### 2026-06-26 09:00:03  #市場
+
+【商品期貨開盤】碳酸鋰連續跌3.89%，低硫燃料油連續漲3.61%，20號膠連續跌3.49%，丙烯連續漲3.48%，液化石油氣連續漲2.68%，燃料油連續漲2.59%，聚丙烯連續漲2.22%，集運指數歐線期貨連續漲2.08%。
+
+---
+
+### 2026-06-26 08:59:44  #Trading Economics #Markets #Commodity #Importance 0
+
+Silver Set for Sharp Weekly Drop — Silver steadied near $58 an ounce on Friday but remained on track to lose about 12% for the week as hawkish signals from the US Federal Reserve outweighed support from the impact of US-Iran peace efforts. On Thursday, silver found some support after the latest US PCE inflation data came in broadly in line with expectations, easing fears of imminent Fed rate hikes and pushing the dollar and Treasury yields lower. Even so, markets are pricing in an 80% chance of a Fed rate hike in December following last week's hawkish pause, while the probability of a September increase stands at around 63%. Meanwhile, oil prices continued to retreat and have returned to pre-conflict levels as progress in US-Iran peace negotiations eased concerns over Middle East supply disruptions and further reduced inflation worries.
 
 ---
 
@@ -22240,128 +22336,5 @@ U.S. tsunami warning system says earthquake in Venezuela no longer poses a tsuna
 ### 2026-06-25 07:05:35  #公司 #市場
 
 三星電子首爾盤前在NexTrade漲7.8%，SK海力士漲6.7%。
-
----
-
-### 2026-06-25 07:05:09  #國際
-
-據中國地震臺網正式測定，2026年06月25日06時30分（北京時間），日本本州東部附近海域海域（40.20°N,142.40°E）發生6.9級地震，震源深度為50千米。自然資源部海嘯預警中心根據初步地震引數判斷，地震可能會在震源周圍引發局地海嘯，但不會對我國沿岸造成影響。自然資源部海嘯預警中心將繼續跟蹤分析地震和海嘯監測資料，並及時釋出資訊。
-
----
-
-### 2026-06-25 07:04:40  #國際
-
-日本東北電力：女川核電站及停運的東通核電站均未發現異常。
-
----
-
-### 2026-06-25 07:03:42  #其他
-
-委內瑞拉內政部長透過國家電視臺表示，地震已造成加拉加斯多棟建築倒塌。
-
----
-
-### 2026-06-25 07:02:32  #市場
-
-紐約期銀日內跌1%，現報57.92美元/盎司。
-
----
-
-### 2026-06-25 07:02:29  #宏觀
-
-除了頭版內容，今天《人民日報》涉及財經的主要內容還包括：
-1、李強出席2026年夏季達沃斯論壇工商界代表座談會
-2、在第十七屆夏季達沃斯論壇開幕式上的致辭（二〇二六年六月二十四日，大連）
-3、2026年夏季達沃斯論壇上各界熱議“中國機遇”——創新賦能 開放共贏
-4、涉企檢查當“減量不降效”（縱橫）
-5、鏈博會上，科技創新氛圍濃
-6、就微短劇發展管理辦法 廣電總局公開徵求意見
-7、免籤政策釋放紅利 民心紐帶持續拉緊 中巴旅遊合作展現充沛動能
-8、加大政策支援力度 中孟合作走深走實 孟加拉國加快發展可再生能源
-9、菲律賓經濟面臨滯脹風險 腐敗醜聞打擊投資者信心 低收入群體生活壓力加大
-10、從暑期消費看文旅市場新活力（商海觀潮）。
-
----
-
-### 2026-06-25 07:02:19  #宏觀 #焦點 #兩會
-
-今天《人民日報》頭版的主要內容有：
-1、習近平在山東德州考察時強調 以紮實舉措推進農業農村現代化 用勤勞和智慧創造更加美好生活
-2、湖南韶山市把紅色資源轉化為發展動能——紅色熱土鋪展新畫卷（牢記初心使命 奮進復興征程）
-3、李強出席2026年夏季達沃斯論壇開幕式並致辭
-4、趙樂際同全國人大常委會會議列席代表座談時強調 深入學習貫徹習近平法治思想 在法治宣傳教育中積極發揮代表作用
-5、全國政協十四屆常委會第十七次會議閉幕 王滬寧主持並講話。
-
----
-
-### 2026-06-25 07:01:00  #央行 #美聯儲
-
-【美聯儲公佈壓力測試結果：32家大型銀行具備充足抵禦能力】據報道，美聯儲最新壓力測試顯示，32家大型銀行具備充足抵禦能力，即便遭遇嚴重經濟衰退仍可持續開展放貸業務。接受測試的銀行在假設情景下能夠承受超過7000億美元的損失，資本僅下降1.6%，仍然高於最低監管要求。
-
----
-
-### 2026-06-25 07:00:57  #市場
-
-英國汽車製造商與經銷商協會（SMMT）：5 月英國汽車總產量上漲 2.7%，達 51178 輛。
-
----
-
-### 2026-06-25 07:00:45  #其他
-
-英國汽車製造商與經銷商協會（SMMT）：5 月英國乘用車產量增長 3.2%，達 49249 輛；商用車產量下降 7.6%，至 1929 輛。
-
----
-
-### 2026-06-25 07:00:26  #公司
-
-【黃仁勳股東大會放言：本輪AI基建週期長達數十年】在當地時間6月24日的英偉達2026年度股東大會上，股東批准了該公司全部10名董事會成員提名。英偉達CEO黃仁勳在股東大會上還進行了發言，強調“有用的AI時代”已經到來，並釋放了對AI基礎設施建設將繼續的信心。就AI基礎設施建設的可持續性，黃仁勳則表示，算力越多，token越多，收入也就越多。這輪建設將以數十年為單位來衡量，涉及電網、網際網路等關鍵基礎設施建設。相信這將成為人類歷史上規模最大的基礎設施建設。
-
----
-
-### 2026-06-25 06:54:12  #Trading Economics #Markets #New Zealand #Stock Market #Importance 1
-
-NZX 50 Edges Higher in Morning Trade — The NZX 50 climbed 25 points, or 0.2%, to 13,426 in Thursday morning trade, erasing losses from the previous three sessions, tracking a rise in US futures after Micron posted a sizeable earnings beat and a better-than-expected outlook. Easing oil prices also lifted sentiment as inflation concerns moderated, reducing expectations of an interest rate hike. However, traders remained cautious ahead of the release of the final US Q1 GDP data and the May PCE Price Index later today, which could provide clues about the Federal Reserve's monetary policy decision at its upcoming meeting, after it left interest rates unchanged last week. Consumer staples, energy, communication services, and utilities primarily drove the index, with notable gains from A2 Milk (4.2%), Scott Technology (2.4%), Channel Infrastructure (0.9%), Ebos Group (0.8%), and ANZ Group (0.4%).
-
----
-
-### 2026-06-25 06:53:59  #市場 #焦點
-
-紐約期金失守4010美元/盎司，日內漲0.05%。
-
----
-
-### 2026-06-25 06:52:45  #其他
-
-海嘯預警中心稱巨浪可能襲擊委內瑞拉海岸。
-
----
-
-### 2026-06-25 06:52:21  #國際
-
-【俄稱控制一定居點 烏稱打擊俄能源設施】24日，俄羅斯國防部發布戰報稱，俄軍控制了蘇梅地區伊沃爾詹斯科耶居民點。俄軍各部隊叢集在蘇梅、哈爾科夫、頓涅茨克、第聶伯羅彼得羅夫斯克、扎波羅熱方向多地打擊烏軍。俄軍還對烏軍特種作戰部隊無人系統中心、烏燃料能源和交通基礎設施等目標實施打擊。烏克蘭武裝部隊總參謀部24日稱，當天凌晨，烏國防軍對俄羅斯奧倫堡州一座天然氣精煉廠和一座氦氣廠實施打擊。烏方稱，此次行動地點距烏方前線超過1200公里，兩座工廠已起火，受損情況正在核實中。此外，烏軍還打擊了俄羅斯別爾哥羅德州一處無人機倉庫。（央視新聞）
-
----
-
-### 2026-06-25 06:49:59  #國際
-
-美國海嘯預警系統：本次日本地震未觸發海嘯預警、提示、觀測警報及海嘯風險警報。
-
----
-
-### 2026-06-25 06:49:00  #國際
-
-【國際原子能機構要求核查伊朗核設施】國際原子能機構總幹事格羅西24日在日本表示，對於伊朗核相關設施的核查“必須進行”，具體地點和時間仍在研究之中，希望能儘快實施核查。 (央視新聞)
-
----
-
-### 2026-06-25 06:47:15  #公司 #國際
-
-【阿里巴巴證實：已起訴美國防部】多家外媒23日報道稱，阿里巴巴起訴美國國防部，要求將其從“中國軍事企業名單”中移除。24日，阿里巴巴向《環球時報》記者證實了上述訊息。阿里巴巴在宣告中表示：“我們已正式對美國國防部提起訴訟，要求將公司從‘中國軍事企業名單’中移除。”阿里巴巴強調，公司並非中國軍工企業，亦未參與任何“軍民融合”戰略。將阿里巴巴列入名單的決定毫無事實依據，武斷且反覆無常。
-
----
-
-### 2026-06-25 06:46:56  #MKT News #Star Stocks #Alibaba #BABA.N #Impact bullish
-
-【Alibaba confirms lawsuit against Pentagon over US 'Chinese military companies' list】Alibaba confirmed it has filed suit against the Pentagon seeking removal from the US list of Chinese military companies. The company said it is not a Chinese defense contractor, has not participated in military-civil fusion, and called the designation baseless, arbitrary and inconsistent.
 
 ---

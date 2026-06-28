@@ -1,7 +1,103 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-06-28 08:04:42_
-_本檔包含 3479 則快訊，約 669210 字_
+_更新時間：2026-06-28 08:56:26_
+_本檔包含 3481 則快訊，約 669677 字_
+
+---
+
+### 2026-06-24 01:02:06  #MKT News #Economic Calendar
+
+United States | 2-Year Note Auction High Yield Rate (Jun.23) | actual 4.189% | previous 4.07%
+
+---
+
+### 2026-06-24 01:01:56  #MKT News #Commodities #Industrial Metals #Copper #Impact bearish
+
+【Night session main contracts close】As of 01:00 Beijing time, SHFE copper main contract -1.13%, SHFE aluminum -1.47%, SHFE zinc -1.59%, SHFE nickel -2.21%, SHFE tin -4.59%, SHFE lead +0.06%, SHFE stainless steel main contract -1.41%, SHFE alumina +0.17%, international copper main contract -1.30%.
+
+---
+
+### 2026-06-24 01:00:02  #市場
+
+【夜盤期貨收盤】國際銅夜盤收跌1.30%，滬銅收跌1.13%，滬鋁收跌1.47%，滬鋅收跌1.59%，滬鉛收漲0.06%，滬鎳收跌2.10%，滬錫收跌4.44%。氧化鋁夜盤收漲0.17%，鋁合金收跌1.07%。不鏽鋼夜盤收跌1.41%。
+
+---
+
+### 2026-06-24 00:59:29  #MKT News
+
+S3 Partners estimates SpaceX short interest at roughly 5–7% of float.
+
+---
+
+### 2026-06-24 00:59:22  #其他
+
+S3 Partners 資料：SpaceX 空頭倉位約佔流通股的 5% 至 7%。
+
+---
+
+### 2026-06-24 00:59:11  #MKT News
+
+【US to engage directly with Lebanese government, Rubio says】On June 23, US Secretary of State Rubio said the United States will engage directly with the Lebanese government. Asked about arrangements for the Strait of Hormuz, Rubio said under current international law no country is permitted to levy transit fees or other charges in international waterways, and that specifics will be raised and discussed at an appropriate time.
+
+---
+
+### 2026-06-24 00:58:45  #MKT News #SPSC.O #Impact bullish
+
+Sources say supply-chain software maker SPS Commerce is exploring a sale and has hired Morgan Stanley to advise. SPS Commerce shares were up more than 7%.
+
+---
+
+### 2026-06-24 00:57:48  #MKT News
+
+SpaceX said proceeds will fully repay its bridge loan, with any remaining proceeds used for general corporate purposes.
+
+---
+
+### 2026-06-24 00:57:42  #公司
+
+SpaceX ：本次發債所得資金將全額償還公司過橋貸款，剩餘資金用於一般企業經營用途。
+
+---
+
+### 2026-06-24 00:57:31  #國際
+
+【美國務卿：美國將直接與黎巴嫩政府接觸】當地時間6月23日，美國國務卿魯比奧表示，美國將直接與黎巴嫩政府進行接觸。談及霍爾木茲海峽未來安排時，魯比奧表示，沒有任何國家被允許在國際水道上徵收通行費或其他費用，這是現行國際法的規定。對於相關問題的具體處理方式，他表示將在適當時候提出並討論。（央視新聞）
+
+---
+
+### 2026-06-24 00:55:58  #MKT News
+
+ANEC expects Brazil's soybean-meal exports in June to reach 2.47 mln t, up from its prior forecast of 2.24 mln t.
+
+---
+
+### 2026-06-24 00:55:43  #MKT News
+
+ANEC projects Brazil's June soybean exports at 15.21 mln tonnes, down from a prior estimate of 15.31 mln tonnes.
+
+---
+
+### 2026-06-24 00:55:25  #MKT News
+
+SpaceX filed documents to issue senior unsecured bonds across five maturities: 5-, 7-, 10-, 20- and 30-year; size not disclosed.
+
+---
+
+### 2026-06-24 00:55:08  #其他
+
+市場訊息：SpaceX 提交發行申請，擬推出期限 5 年、7 年、10 年、20 年及 30 年期高階無擔保債券。
+
+---
+
+### 2026-06-24 00:54:21  #MKT News #Commodities #Energy
+
+【Mexico and Brazil to cooperate on oil exploration and refining projects】Mexico's Pemex and Brazil's Petrobras said their CEOs signed a non-binding memorandum of understanding in Rio de Janeiro to cooperate on exploration, production and refining to help expand oil reserves. The agreement covers Gulf of Mexico shallow- and deep-water exploration and cooperation on refining, natural gas, petrochemicals and related areas.
+
+---
+
+### 2026-06-24 00:52:36  #MKT News #Star Stocks #Tesla #Market Themes #Magnificent 7 #TSLA.O #Impact bullish
+
+【Baird: Tesla–SpaceX merger likely within 12–18 months; Tesla Q2 deliveries 392,900, 2026 deliveries 1.68m, PT $522】Baird analyst Ben Kallo forecasts Tesla will deliver 392,900 vehicles in Q2 and 1.68m vehicles in 2026. He says a Tesla–SpaceX merger is "very likely" and could occur within 12–18 months, describing the combination as the "ultimate direction" and "clear and compelling" with scale benefits for both companies. Kallo reiterates an Outperform rating on Tesla and a $522 price target.
 
 ---
 
@@ -20920,89 +21016,5 @@ Alphabet (GOOG.O) shares fell to an intraday low, down 5%.
 ### 2026-06-22 22:25:50  #MKT News #Important #Market Regions #Japan & APAC #USDJPY #Impact mixed
 
 【USD/JPY briefly nears 2024 high, then retreats】USD/JPY briefly rose above 161.90 before plunging to 161.20; bids then lifted it back to 161.65. Japanese officials have repeatedly warned they are closely monitoring the market. Last Friday produced the highest weekly close in 40 years, and the reported end of the Iran war appears not to have eased pressure. Earlier gains broke June resistance at 161.80, but the July intraday high of 161.94 remains unbroken though under threat. With Japan's Ministry of Finance under pressure, yen trading is likely to remain volatile.
-
----
-
-### 2026-06-22 22:25:33  #市場
-
-ALPHABET股價跌至盤中低點5%。
-
----
-
-### 2026-06-22 22:25:33  #公司 #國際
-
-【電車製造商Lucid將裁員18%】Lucid Motors將裁員18%，涉及約1500名員工，這家電動汽車製造商僅在四個月前才剛完成一輪12%的人員精簡。該公司週一宣佈，其位於亞利桑那州卡薩格蘭德的工廠還取消了電動汽車生產的第二班生產線。 Lucid在一份宣告中表示，本次裁員是新任執行長Silvio Napoli為實現“精簡公司架構、提升執行力，讓Lucid逐步具備更強市場競爭力”所推出的舉措之一。本輪裁員發生在美國電動汽車市場遇冷的背景下，多家主流車企紛紛將電動車型從產品規劃中剔除。
-
----
-
-### 2026-06-22 22:25:04  #其他
-
-故障監測平臺 DownDetector 資料：使用者反饋社交媒體平臺 X 出現故障，共有 27108 名使用者提交故障反饋。
-
----
-
-### 2026-06-22 22:24:56  #MKT News #Commodities #Energy
-
-A Brazilian oil company and Mexico's Pemex will sign a memorandum of understanding on June 23, market sources said.
-
----
-
-### 2026-06-22 22:24:41  #其他
-
-據Vanda Research資料顯示，SpaceX的散戶交易活躍度創下近期所有IPO之最。在上市的前五個交易日內，散戶投資者淨買入達4.05億美元。上週散戶投資者買入SpaceX的金額，超過了他們買入所有“科技七巨頭”股票金額的總和。
-
----
-
-### 2026-06-22 22:23:50  #MKT News
-
-DownDetector said 27,108 users reported issues with social media platform X.
-
----
-
-### 2026-06-22 22:23:15  #公司
-
-【科思科技：控股股東涉訴一審判決 擬上訴結果尚不確定】科思科技公告稱，公司近日收到控股股東及實控人劉建德送達的北京三中院一審判決。該判決確認《股權代持協議書》無效，劉建德需支付2020年、2021年分紅補償金共842.85萬元，梅青林可協商出售劉建德名下1736.60萬股公司股票，所得款項優先支付其投資款1671.59萬元。目前判決未生效，劉建德擬上訴，後續進展和執行情況不確定，不會影響公司控制權和持續經營。
-
----
-
-### 2026-06-22 22:22:02  #公司 #國際
-
-瑞銀集團（UBS）分析師Giovanni Staunovo：中東衝突以及霍爾木茲海峽的航運受限，持續對產量和出口造成壓力。此外，（沙特）東西向輸油管道泵站遭襲，導致繞過霍爾木茲海峽的輸油管道運輸暫時中斷，這可能是4月出口量較3月下降的原因。
-
----
-
-### 2026-06-22 22:21:28  #國際
-
-【沙烏地阿拉伯4月原油出口延續跌勢，降至有記錄以來的最低水平】根據週一公佈的聯合石油資料庫（JODI）資料，受伊朗戰爭擾亂海灣地區航運的影響，沙烏地阿拉伯4月份原油出口連續第二個月下滑，跌至歷史最低紀錄。資料顯示，沙特4月原油出口量從3月份的497.4萬桶/日降至約399萬桶/日。此次公佈的沙特原油出口及產量資料追溯至2002年，這也是該資料庫可查的最早時期。
-
----
-
-### 2026-06-22 22:20:48  #央行 #國際
-
-【凱投宏觀：歐洲央行今年將維持利率不變】凱投宏觀的Andrew Kenningham在一份報告中表示，歐洲央行今年可能會維持利率不變，隨後在2027年降息。在美國和伊朗達成暫時休戰之際，能源成本已經下降，預計今年油價將跌至每桶75美元。Kenningham說，雖然短期通脹預測有所上升，但長期預期仍與該央行2%的目標保持一致。“我們更加確信，對工資通脹的任何第二輪效應都將是微乎其微的。”Kenningham補充說，不過，如果休戰未能維持且能源價格回升，加息仍是可能的。“包括歐洲央行首席經濟學家Philip Lane在內的決策者一直極力強調，他們已準備好進一步加息。”
-
----
-
-### 2026-06-22 22:20:19  #其他
-
-【跨國企業四屆全勤參展鏈博會】今天，第四屆中國國際供應鏈促進博覽會在北京開幕。本屆鏈博會國際化水平再升級，吸引了來自全球多國的政府代表團、跨國企業集中亮相，持續釋放外資看好中國產業鏈、加碼在華合作的明確訊號。本屆鏈博會外資參展商的比例達到36.5%，確定組團前來觀展洽談的境外團組超過200個。來自芬蘭、奧地利、哈薩克等13個國家的企業首次參展。作為今年主賓國的澳大利亞表示，希望藉助鏈博會平臺，推動更多創新企業與中國合作伙伴精準對接，共同打造更具韌性的供應鏈。 多國政府代表團踴躍參會的同時，深耕中國市場多年的跨國企業也深度參與鏈博會，不少企業實現四屆全勤參展。這些跨國企業大多聚焦能源轉型、工業數字化、人工智慧等重點發展賽道，帶來大量中外聯合研發的新技術、新解決方案，以智慧技術賦能實體經濟轉型升級。（央視財經）
-
----
-
-### 2026-06-22 22:19:14  #MKT News #Important #SPCX.O #Impact bearish
-
-SpaceX (SPCX.O) shares extended losses, last $168.50, down 9%.
-
----
-
-### 2026-06-22 22:19:10  #其他
-
-墨西哥總統辛鮑姆：墨西哥正協調私營企業向古巴運送石油。
-
----
-
-### 2026-06-22 22:18:38  #MKT News
-
-【Baltic Dry Index falls as freight weakens across most vessel types】The Baltic Dry Index fell 38 points (1.4%) to 2,684. The Capesize index slipped 75 points (1.8%) to 4,074; it had hit its highest level since June 10 in the prior session. Capesize average daily earnings fell $684 to $33,444. The Panamax index dropped 37 points (1.8%) to 2,059, with Panamax average daily earnings down $328 to $18,532. The Supramax index declined 3 points (0.2%) to 1,715. The Handysize index rose 2 points to 936.
 
 ---

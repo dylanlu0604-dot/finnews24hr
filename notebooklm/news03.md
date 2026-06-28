@@ -1,7 +1,130 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-06-28 08:04:42_
-_本檔包含 3877 則快訊，約 669372 字_
+_更新時間：2026-06-28 08:56:26_
+_本檔包含 3879 則快訊，約 669714 字_
+
+---
+
+### 2026-06-25 07:05:09  #國際
+
+據中國地震臺網正式測定，2026年06月25日06時30分（北京時間），日本本州東部附近海域海域（40.20°N,142.40°E）發生6.9級地震，震源深度為50千米。自然資源部海嘯預警中心根據初步地震引數判斷，地震可能會在震源周圍引發局地海嘯，但不會對我國沿岸造成影響。自然資源部海嘯預警中心將繼續跟蹤分析地震和海嘯監測資料，並及時釋出資訊。
+
+---
+
+### 2026-06-25 07:04:40  #國際
+
+日本東北電力：女川核電站及停運的東通核電站均未發現異常。
+
+---
+
+### 2026-06-25 07:03:42  #其他
+
+委內瑞拉內政部長透過國家電視臺表示，地震已造成加拉加斯多棟建築倒塌。
+
+---
+
+### 2026-06-25 07:02:32  #市場
+
+紐約期銀日內跌1%，現報57.92美元/盎司。
+
+---
+
+### 2026-06-25 07:02:29  #宏觀
+
+除了頭版內容，今天《人民日報》涉及財經的主要內容還包括：
+1、李強出席2026年夏季達沃斯論壇工商界代表座談會
+2、在第十七屆夏季達沃斯論壇開幕式上的致辭（二〇二六年六月二十四日，大連）
+3、2026年夏季達沃斯論壇上各界熱議“中國機遇”——創新賦能 開放共贏
+4、涉企檢查當“減量不降效”（縱橫）
+5、鏈博會上，科技創新氛圍濃
+6、就微短劇發展管理辦法 廣電總局公開徵求意見
+7、免籤政策釋放紅利 民心紐帶持續拉緊 中巴旅遊合作展現充沛動能
+8、加大政策支援力度 中孟合作走深走實 孟加拉國加快發展可再生能源
+9、菲律賓經濟面臨滯脹風險 腐敗醜聞打擊投資者信心 低收入群體生活壓力加大
+10、從暑期消費看文旅市場新活力（商海觀潮）。
+
+---
+
+### 2026-06-25 07:02:19  #宏觀 #焦點 #兩會
+
+今天《人民日報》頭版的主要內容有：
+1、習近平在山東德州考察時強調 以紮實舉措推進農業農村現代化 用勤勞和智慧創造更加美好生活
+2、湖南韶山市把紅色資源轉化為發展動能——紅色熱土鋪展新畫卷（牢記初心使命 奮進復興征程）
+3、李強出席2026年夏季達沃斯論壇開幕式並致辭
+4、趙樂際同全國人大常委會會議列席代表座談時強調 深入學習貫徹習近平法治思想 在法治宣傳教育中積極發揮代表作用
+5、全國政協十四屆常委會第十七次會議閉幕 王滬寧主持並講話。
+
+---
+
+### 2026-06-25 07:01:00  #央行 #美聯儲
+
+【美聯儲公佈壓力測試結果：32家大型銀行具備充足抵禦能力】據報道，美聯儲最新壓力測試顯示，32家大型銀行具備充足抵禦能力，即便遭遇嚴重經濟衰退仍可持續開展放貸業務。接受測試的銀行在假設情景下能夠承受超過7000億美元的損失，資本僅下降1.6%，仍然高於最低監管要求。
+
+---
+
+### 2026-06-25 07:00:57  #市場
+
+英國汽車製造商與經銷商協會（SMMT）：5 月英國汽車總產量上漲 2.7%，達 51178 輛。
+
+---
+
+### 2026-06-25 07:00:45  #其他
+
+英國汽車製造商與經銷商協會（SMMT）：5 月英國乘用車產量增長 3.2%，達 49249 輛；商用車產量下降 7.6%，至 1929 輛。
+
+---
+
+### 2026-06-25 07:00:26  #公司
+
+【黃仁勳股東大會放言：本輪AI基建週期長達數十年】在當地時間6月24日的英偉達2026年度股東大會上，股東批准了該公司全部10名董事會成員提名。英偉達CEO黃仁勳在股東大會上還進行了發言，強調“有用的AI時代”已經到來，並釋放了對AI基礎設施建設將繼續的信心。就AI基礎設施建設的可持續性，黃仁勳則表示，算力越多，token越多，收入也就越多。這輪建設將以數十年為單位來衡量，涉及電網、網際網路等關鍵基礎設施建設。相信這將成為人類歷史上規模最大的基礎設施建設。
+
+---
+
+### 2026-06-25 06:54:12  #Trading Economics #Markets #New Zealand #Stock Market #Importance 1
+
+NZX 50 Edges Higher in Morning Trade — The NZX 50 climbed 25 points, or 0.2%, to 13,426 in Thursday morning trade, erasing losses from the previous three sessions, tracking a rise in US futures after Micron posted a sizeable earnings beat and a better-than-expected outlook. Easing oil prices also lifted sentiment as inflation concerns moderated, reducing expectations of an interest rate hike. However, traders remained cautious ahead of the release of the final US Q1 GDP data and the May PCE Price Index later today, which could provide clues about the Federal Reserve's monetary policy decision at its upcoming meeting, after it left interest rates unchanged last week. Consumer staples, energy, communication services, and utilities primarily drove the index, with notable gains from A2 Milk (4.2%), Scott Technology (2.4%), Channel Infrastructure (0.9%), Ebos Group (0.8%), and ANZ Group (0.4%).
+
+---
+
+### 2026-06-25 06:53:59  #市場 #焦點
+
+紐約期金失守4010美元/盎司，日內漲0.05%。
+
+---
+
+### 2026-06-25 06:52:45  #其他
+
+海嘯預警中心稱巨浪可能襲擊委內瑞拉海岸。
+
+---
+
+### 2026-06-25 06:52:21  #國際
+
+【俄稱控制一定居點 烏稱打擊俄能源設施】24日，俄羅斯國防部發布戰報稱，俄軍控制了蘇梅地區伊沃爾詹斯科耶居民點。俄軍各部隊叢集在蘇梅、哈爾科夫、頓涅茨克、第聶伯羅彼得羅夫斯克、扎波羅熱方向多地打擊烏軍。俄軍還對烏軍特種作戰部隊無人系統中心、烏燃料能源和交通基礎設施等目標實施打擊。烏克蘭武裝部隊總參謀部24日稱，當天凌晨，烏國防軍對俄羅斯奧倫堡州一座天然氣精煉廠和一座氦氣廠實施打擊。烏方稱，此次行動地點距烏方前線超過1200公里，兩座工廠已起火，受損情況正在核實中。此外，烏軍還打擊了俄羅斯別爾哥羅德州一處無人機倉庫。（央視新聞）
+
+---
+
+### 2026-06-25 06:49:59  #國際
+
+美國海嘯預警系統：本次日本地震未觸發海嘯預警、提示、觀測警報及海嘯風險警報。
+
+---
+
+### 2026-06-25 06:49:00  #國際
+
+【國際原子能機構要求核查伊朗核設施】國際原子能機構總幹事格羅西24日在日本表示，對於伊朗核相關設施的核查“必須進行”，具體地點和時間仍在研究之中，希望能儘快實施核查。 (央視新聞)
+
+---
+
+### 2026-06-25 06:47:15  #公司 #國際
+
+【阿里巴巴證實：已起訴美國防部】多家外媒23日報道稱，阿里巴巴起訴美國國防部，要求將其從“中國軍事企業名單”中移除。24日，阿里巴巴向《環球時報》記者證實了上述訊息。阿里巴巴在宣告中表示：“我們已正式對美國國防部提起訴訟，要求將公司從‘中國軍事企業名單’中移除。”阿里巴巴強調，公司並非中國軍工企業，亦未參與任何“軍民融合”戰略。將阿里巴巴列入名單的決定毫無事實依據，武斷且反覆無常。
+
+---
+
+### 2026-06-25 06:46:56  #MKT News #Star Stocks #Alibaba #BABA.N #Impact bullish
+
+【Alibaba confirms lawsuit against Pentagon over US 'Chinese military companies' list】Alibaba confirmed it has filed suit against the Pentagon seeking removal from the US list of Chinese military companies. The company said it is not a Chinese defense contractor, has not participated in military-civil fusion, and called the designation baseless, arbitrary and inconsistent.
 
 ---
 
@@ -23312,101 +23435,5 @@ United States | 2-Year Note Auction Bid/Cover Ratio (Jun.23) | actual 2.64 | pre
 ### 2026-06-24 01:02:06  #MKT News #Economic Calendar
 
 United States | 2-Year Note Auction Accepted at High (Jun.23) | actual 5.66% | previous 42.14%
-
----
-
-### 2026-06-24 01:02:06  #MKT News #Economic Calendar
-
-United States | 2-Year Note Auction High Yield Rate (Jun.23) | actual 4.189% | previous 4.07%
-
----
-
-### 2026-06-24 01:01:56  #MKT News #Commodities #Industrial Metals #Copper #Impact bearish
-
-【Night session main contracts close】As of 01:00 Beijing time, SHFE copper main contract -1.13%, SHFE aluminum -1.47%, SHFE zinc -1.59%, SHFE nickel -2.21%, SHFE tin -4.59%, SHFE lead +0.06%, SHFE stainless steel main contract -1.41%, SHFE alumina +0.17%, international copper main contract -1.30%.
-
----
-
-### 2026-06-24 01:00:02  #市場
-
-【夜盤期貨收盤】國際銅夜盤收跌1.30%，滬銅收跌1.13%，滬鋁收跌1.47%，滬鋅收跌1.59%，滬鉛收漲0.06%，滬鎳收跌2.10%，滬錫收跌4.44%。氧化鋁夜盤收漲0.17%，鋁合金收跌1.07%。不鏽鋼夜盤收跌1.41%。
-
----
-
-### 2026-06-24 00:59:29  #MKT News
-
-S3 Partners estimates SpaceX short interest at roughly 5–7% of float.
-
----
-
-### 2026-06-24 00:59:22  #其他
-
-S3 Partners 資料：SpaceX 空頭倉位約佔流通股的 5% 至 7%。
-
----
-
-### 2026-06-24 00:59:11  #MKT News
-
-【US to engage directly with Lebanese government, Rubio says】On June 23, US Secretary of State Rubio said the United States will engage directly with the Lebanese government. Asked about arrangements for the Strait of Hormuz, Rubio said under current international law no country is permitted to levy transit fees or other charges in international waterways, and that specifics will be raised and discussed at an appropriate time.
-
----
-
-### 2026-06-24 00:58:45  #MKT News #SPSC.O #Impact bullish
-
-Sources say supply-chain software maker SPS Commerce is exploring a sale and has hired Morgan Stanley to advise. SPS Commerce shares were up more than 7%.
-
----
-
-### 2026-06-24 00:57:48  #MKT News
-
-SpaceX said proceeds will fully repay its bridge loan, with any remaining proceeds used for general corporate purposes.
-
----
-
-### 2026-06-24 00:57:42  #公司
-
-SpaceX ：本次發債所得資金將全額償還公司過橋貸款，剩餘資金用於一般企業經營用途。
-
----
-
-### 2026-06-24 00:57:31  #國際
-
-【美國務卿：美國將直接與黎巴嫩政府接觸】當地時間6月23日，美國國務卿魯比奧表示，美國將直接與黎巴嫩政府進行接觸。談及霍爾木茲海峽未來安排時，魯比奧表示，沒有任何國家被允許在國際水道上徵收通行費或其他費用，這是現行國際法的規定。對於相關問題的具體處理方式，他表示將在適當時候提出並討論。（央視新聞）
-
----
-
-### 2026-06-24 00:55:58  #MKT News
-
-ANEC expects Brazil's soybean-meal exports in June to reach 2.47 mln t, up from its prior forecast of 2.24 mln t.
-
----
-
-### 2026-06-24 00:55:43  #MKT News
-
-ANEC projects Brazil's June soybean exports at 15.21 mln tonnes, down from a prior estimate of 15.31 mln tonnes.
-
----
-
-### 2026-06-24 00:55:25  #MKT News
-
-SpaceX filed documents to issue senior unsecured bonds across five maturities: 5-, 7-, 10-, 20- and 30-year; size not disclosed.
-
----
-
-### 2026-06-24 00:55:08  #其他
-
-市場訊息：SpaceX 提交發行申請，擬推出期限 5 年、7 年、10 年、20 年及 30 年期高階無擔保債券。
-
----
-
-### 2026-06-24 00:54:21  #MKT News #Commodities #Energy
-
-【Mexico and Brazil to cooperate on oil exploration and refining projects】Mexico's Pemex and Brazil's Petrobras said their CEOs signed a non-binding memorandum of understanding in Rio de Janeiro to cooperate on exploration, production and refining to help expand oil reserves. The agreement covers Gulf of Mexico shallow- and deep-water exploration and cooperation on refining, natural gas, petrochemicals and related areas.
-
----
-
-### 2026-06-24 00:52:36  #MKT News #Star Stocks #Tesla #Market Themes #Magnificent 7 #TSLA.O #Impact bullish
-
-【Baird: Tesla–SpaceX merger likely within 12–18 months; Tesla Q2 deliveries 392,900, 2026 deliveries 1.68m, PT $522】Baird analyst Ben Kallo forecasts Tesla will deliver 392,900 vehicles in Q2 and 1.68m vehicles in 2026. He says a Tesla–SpaceX merger is "very likely" and could occur within 12–18 months, describing the combination as the "ultimate direction" and "clear and compelling" with scale benefits for both companies. Kallo reiterates an Outperform rating on Tesla and a $522 price target.
 
 ---

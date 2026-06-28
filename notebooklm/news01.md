@@ -1,7 +1,157 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-06-28 08:04:42_
-_本檔包含 3513 則快訊，約 669395 字_
+_更新時間：2026-06-28 08:56:26_
+_本檔包含 3522 則快訊，約 670640 字_
+
+---
+
+### 2026-06-28 08:53:31  #觀點
+
+【華泰證券：5月工業企業利潤總體向好 行業分化加劇】華泰證券研報稱，5月工業企業盈利增速較4月的24.7%略回落至21.1%，但仍高於一季度的15.5%且營收增速延續回升，顯示企業盈利總體向好，其中能源及AI鏈相關行業為利潤增長的主要支撐，而隨著霍爾木茲海峽封鎖超過三個月，供給衝擊的影響深化，部分中下游企業產能利用率進一步走弱，行業盈利表現分化加劇。5月油價邊際回落但整體上游石化鏈盈利增速仍在高位，而受益於全球AI投資需求強勁，電子計算機行業持續引領盈利及收入增長，對總體工業企業盈利的貢獻從6.7個百分點提升至9.6個百分點，有色冶煉及化學制品分別貢獻6.4、4.2個百分點，三者合計貢獻約20.2個百分點，而內需相關下游製造業，利潤增速仍偏弱，尤其是汽車、傢俱製造降幅進一步走闊。
+
+---
+
+### 2026-06-28 08:46:59  #國際
+
+伊朗伊斯蘭革命衛隊28日發表宣告稱，根據伊美諒解備忘錄，霍爾木茲海峽的通行管控由伊方負責，今後將更強硬地對待“違規”船隻。（新華社）
+
+---
+
+### 2026-06-28 08:45:53  #其他
+
+【委內瑞拉多地地鐵和鐵路系統將恢復運營】當地時間27日，委內瑞拉交通部長哈克琳·法里亞宣佈，加拉加斯、瓦倫西亞和馬拉開波地鐵，以及加拉加斯與圖伊谷之間的客運鐵路將於28日恢復運營。法里亞表示，相關決定是在對各條鐵路線路的安全狀況進行嚴格評估後作出的。（央視新聞）
+
+---
+
+### 2026-06-28 08:45:07  #國際
+
+市場訊息：伊朗革命衛隊稱已對8處美方目標發動打擊。
+
+---
+
+### 2026-06-28 08:42:33  #國際
+
+【伊朗革命衛隊：將以果斷行動回應美方“侵略” 】伊朗伊斯蘭革命衛隊28日發表宣告說，將以果斷行動回應美方“侵略”行為。（新華社）
+
+---
+
+### 2026-06-28 08:41:22  #MKT News #WTI #Impact bullish #Brent #XAUUSD
+
+Iran's Islamic Revolutionary Guard Corps said any breach of the ceasefire would violate the Islamabad agreement and completely halt all ongoing processes.
+
+---
+
+### 2026-06-28 08:40:53  #國際
+
+伊朗伊斯蘭革命衛隊（IRGC）稱，美國以伊朗伊斯蘭革命衛隊海軍扣押違規船隻作為藉口，襲擊了五處伊朗沿海據點。
+
+---
+
+### 2026-06-28 08:40:42  #國際
+
+伊朗伊斯蘭革命衛隊表示，任何停火違約行為都違背伊斯蘭堡協議，還將導致所有當前程序完全停滯。
+
+---
+
+### 2026-06-28 08:39:20  #MKT News #WTI #Impact bullish #XAUUSD #DXY
+
+Iran's Islamic Revolutionary Guard Corps alleged the US used IRGC Navy confrontations with intruding vessels as a pretext to attack five Iranian coastal posts.
+
+---
+
+### 2026-06-28 08:38:32  #MKT News #XAUUSD #Impact bullish #Brent #DXY
+
+Iran's Islamic Revolutionary Guard Corps (IRGC) said it will treat future violators of the agreement more harshly and that any "hostile aggression" will be met with a "destructive response".
+
+---
+
+### 2026-06-28 08:37:30  #國際
+
+伊朗伊斯蘭革命衛隊（IRGC）表示，今後將以更強硬手段應對違規船隻，任何“敵方侵略”都將得到“毀滅性回擊”。
+
+---
+
+### 2026-06-28 08:37:27  #國際
+
+美國中央司令部：美國海軍與空軍戰鬥機對霍爾木茲海峽及其周邊多處10處伊朗軍事目標實施打擊，報復伊朗針對美國油輪發動的無人機襲擊。
+
+---
+
+### 2026-06-28 08:37:09  #MKT News #Important #WTI #Impact bullish #Brent #XAUUSD
+
+Tasnim News reported Iran's Islamic Revolutionary Guard Corps navy and Aerospace Force launched joint missile and drone operations in Kuwait and Bahrain in response to recent U.S. strikes.
+
+---
+
+### 2026-06-28 08:35:56  #國際
+
+伊朗伊斯蘭革命衛隊海軍與航空航天部隊已在科威特和巴林發起聯合導彈與無人機行動，以回應美國近期的打擊行動。
+
+---
+
+### 2026-06-28 08:34:27  #MKT News
+
+Bahrain's Interior Ministry said the danger had passed after it received an enemy air-raid alert.
+
+---
+
+### 2026-06-28 08:33:59  #國際
+
+【以防長：黎真主黨若未解除武裝 以軍不會撤出黎巴嫩】以色列國防部長卡茨27日發表影片宣告說，以色列、美國和黎巴嫩前一天簽署的三方框架協議中包含一項重要原則：只要黎巴嫩境內真主黨未解除武裝，以色列就不會從黎巴嫩撤軍。卡茨威脅說，如果伊朗試圖攻擊以色列以阻止三方框架協議落實，以色列將以“強大武力”回應。(新華社)
+
+---
+
+### 2026-06-28 08:29:13  #其他
+
+【科威特稱防空系統正應對襲擊，巴林拉響警報】科威特軍方28日發表宣告說，科威特防空系統正應對“敵對”導彈和無人機襲擊。巴林內政部同日在社交媒體上說，警報已拉響，請民眾保持冷靜並前往最近的安全地點。（新華社）
+
+---
+
+### 2026-06-28 08:26:59  #公司
+
+【近一週120多隻個股獲機構調研 廣生堂調研機構數最多】近一週（6月20日至26日）機構調研個股有120多隻，廣生堂調研機構數最多。廣生堂有53家機構調研，包括6家基金公司、6家證券公司、8傢俬募等。勝宏科技、盛弘股份、聯合化學、恆坤新材等個股均有20家以上機構評級，其中恆坤新材、廣信材料、鼎龍股份等個股均有時下熱門的光刻膠概念。從市場表現來看，近一週機構調研股平均跌超2%，東方鉭業、京東方A、信德新材、匯成真空等個股均漲超10%。
+
+---
+
+### 2026-06-28 08:16:38  #國際
+
+【歐洲僅20%家庭有空調，歐洲缺空調背後原因】歐洲多地連日來遭遇高溫，多地打破高溫紀錄。然而，歐洲國家空調普及率遠低於其他地區主要經濟體。為何在經濟較為發達的歐洲，民眾卻較少使用空調等製冷裝置呢？ 據悉，歐洲僅有約20%的家庭配備空調等製冷裝置。主要原因是，以往歐洲的夏天，尤其是在歐洲北部，天氣不那麼炎熱，儘管有熱浪，但長時間高溫天氣並不頻繁，因此人們安裝空調的需求並不多。 其次，歐洲許多地方空調安裝難度大、成本高。歐洲建築普遍較為老舊，還有大量列入保護名錄的老建築物，申請安裝空調的流程繁瑣且有難度。同時，歐洲的能源成本高，部分民眾難以承擔高昂的空調電費。 此外，還有政策層面的限制。為應對氣候變化，歐洲制定了綠色發展的一些目標，大幅增加空調的使用可能會讓相關目標更難實現。（央視財經）
+
+---
+
+### 2026-06-28 08:11:43  #其他
+
+科威特軍方稱其防空部隊目前正在對抗“敵對”導彈與無人機襲擊。
+
+---
+
+### 2026-06-28 08:11:10  #其他
+
+科威特政府釋出預警，警示當地居民危險即將來臨。
+
+---
+
+### 2026-06-28 08:11:06  #MKT News #WTI #Impact bullish #Brent #XAUUSD
+
+Air-raid sirens sounded in Kuwait; the Kuwaiti military said it is responding to an incoming aerial threat.
+
+---
+
+### 2026-06-28 08:08:14  #MKT News
+
+Bahrain authorities said alarms sounded, urging residents to "remain calm" and proceed to the nearest safe location.
+
+---
+
+### 2026-06-28 08:07:44  #MKT News #Important #XAUUSD #Impact bullish #WTI #DXY
+
+【Trump says US struck Iranian missile and drone storage sites】President Trump said on the 27th US forces struck Iranian missile and drone storage sites and coastal radar stations after Iran again violated a ceasefire, warning that “the Islamic Republic of Iran will no longer exist” if escalation continues. CENTCOM said the same day it carried out a new round of strikes inside Iran as a direct response to Iran’s continued targeting of merchant shipping, saying US aircraft hit military surveillance facilities, communications nodes, air-defence positions, drone storage sites and minelaying equipment.
+
+---
+
+### 2026-06-28 08:07:36  #其他
+
+【央視曝手機測評作弊亂象】記者調查發現，數碼產品測評這個領域的高度技術化，長期以來處於“無人能實錘作弊亂象”的灰色地帶。網路安全專家介紹，整套作弊體系分為三層，層層美化測評資料：第一層廠商專供測評博主的特供媒體機，硬體經過篩選最佳化；第二層韌體內建識別程式，檢測到博主身份並自動開啟高效能模式；第三層雲端遠端控制，可實時下發測評作弊配置。當這套系統識別到某博主啟動測評時，就會進入“作弊模式”，自動拉高CPU效能、調高螢幕亮度、最佳化後臺載入邏輯，切換軟體時僅載入介面而非完整應用，營造全程流暢的假象。邊亮介紹，為了規避被發現的風險，這套測評作弊機制也經歷了多輪迭代，隱蔽性越來越強。記者調查發現，由於特供樣機、韌體作弊、雲端調控三重手段疊加，普通消費者很難分辨測評真假，這也導致數碼測評公信力持續受損，而且技術造假取證難度極大，給監管帶來很大難度。（央視新聞）
 
 ---
 
@@ -21137,101 +21287,5 @@ Most-active polysilicon futures contract fell sharply, down nearly 3% intraday t
 ### 2026-06-26 09:03:05  #MKT News #Market Regions #Greater China #CSI300 #Impact bullish #Copper
 
 【Henan to add at least 50,000 affordable rental units by 2030】Henan provincial party and government offices issued an implementation plan to boost high-quality urban development, tasking city governments with stabilizing the property market by city-specific supply control, inventory reduction and higher-quality housing supply. The plan mandates cities to deliver 2–3 annual model "Good House" projects, accelerate urban-village and dilapidated-housing redevelopment, support owner-led refurbishment and rebuild-on-original-footprint schemes, and complete nationally funded urban-village redevelopment projects by 2028. It requires continued renovation of urban neighborhoods built before 2005 and promotes acquisition of existing commercial housing for use as affordable rental housing, targeting an addition of over 50,000 affordable rental units by 2030. The plan also orders a property-service quality upgrade, aiming for full coverage of community property services and party-building within property service firms.
-
----
-
-### 2026-06-26 09:01:54  #市場 #焦點
-
-瀝青連續主力合約日內漲2%，現報3803.00元。
-
----
-
-### 2026-06-26 09:01:36  #其他
-
-據委內瑞拉衛生部通報，委內瑞拉強震遇難人數升至235人。
-
----
-
-### 2026-06-26 09:01:28  #市場 #觀點
-
-【中金財富期貨：美股資本市場也出現非AI資產被AI資產“抽血”資金的情況，黃金亦在受害者之列】油價下行，但是由狂熱的AI投資驅動的新通脹可能正在成型，蘋果和微軟在同一天宣佈漲價，這可能不是巧合，AI軍備競賽的賬單開始轉嫁給普通消費者，一場由資料中心驅動的新一輪通脹正悄然成形，目前黃金市場無法消除通脹壓力的影響，且隨著美股科技股的市值劇烈膨脹疊加天量IPO抽血，美股資本市場也出現非AI資產被AI資產“抽血”資金的情況，黃金亦在受害者之列。
-
----
-
-### 2026-06-26 09:01:27  #MKT News #Commodities #Precious Metals #XAUUSD #Impact bullish
-
-At the morning open on Friday June 26, Shanghai Gold Exchange gold T+D rose 1.25% to 884.2 yuan/gram; silver T+D rose 0.91% to 14,050 yuan/kg.
-
----
-
-### 2026-06-26 09:01:27  #MKT News #Market Regions #Greater China
-
-Taiwan Weighted Index opened 538.4 points lower, down 1.16% at 45,716.86 on Friday, June 26.
-
----
-
-### 2026-06-26 09:01:04  #MKT News
-
-【Navigation warning: military activity east of Wenzhou】China Maritime Safety Administration: Wenzhou maritime authority issued a navigation warning closing parts of the East China Sea east of Wenzhou to navigation for military activities from June 26 18:00 to June 28 18:00 (CST); entry prohibited.
-
----
-
-### 2026-06-26 09:00:28  #MKT News #CSI300 #Impact bearish
-
-FTSE China A50 index futures opened 0.6% lower.
-
----
-
-### 2026-06-26 09:00:25  #MKT News #Important
-
-At the open, most-active domestic futures contracts were mixed. Low-sulfur fuel oil (LU) rose over 3%; propylene, container freight to Europe, LPG and polypropylene gained more than 2%; SC crude, Soybean No.1 and fuel oil climbed over 1%. On the downside, lithium carbonate fell over 4%; 20# rubber dropped more than 3%; rubber was down nearly 2%; iron ore and coke declined over 1%.
-
----
-
-### 2026-06-26 09:00:23  #市場
-
-臺灣證交所加權股價指數下跌1%至45,774.10點。
-
----
-
-### 2026-06-26 09:00:19  #市場 #焦點
-
-碳酸鋰連續主力合約日內跌4%，現報148900.00元。
-
----
-
-### 2026-06-26 09:00:13  #其他
-
-臺灣證交所加權股價指數開低0.1%報46,188.60。
-
----
-
-### 2026-06-26 09:00:06  #公司 #觀點
-
-【英國私募巨頭MFS衝擊波蔓延，摩根士丹利曾是早期支持者】媒體看到的檔案顯示，摩根士丹利是華爾街最早支援Market Financial Solutions Ltd.（MFS）的機構之一，在該公司經歷繁榮並最終因揹負24億美元債務而破產之前，提升了這家英國私募信貸公司的信譽。檔案顯示，當MFS創始人、曾經的酒水商店老闆Paresh Raja拓展其英國抵押貸款業務時，摩根士丹利便為其提供了早期支援。
-
----
-
-### 2026-06-26 09:00:04  #市場 #焦點
-
-豆粕連續主力合約日內漲1%，現報2974.00元。
-
----
-
-### 2026-06-26 09:00:03  #市場
-
-富時中國A50指數期貨開盤下跌0.60%。
-
----
-
-### 2026-06-26 09:00:03  #市場
-
-【商品期貨開盤】碳酸鋰連續跌3.89%，低硫燃料油連續漲3.61%，20號膠連續跌3.49%，丙烯連續漲3.48%，液化石油氣連續漲2.68%，燃料油連續漲2.59%，聚丙烯連續漲2.22%，集運指數歐線期貨連續漲2.08%。
-
----
-
-### 2026-06-26 08:59:44  #Trading Economics #Markets #Commodity #Importance 0
-
-Silver Set for Sharp Weekly Drop — Silver steadied near $58 an ounce on Friday but remained on track to lose about 12% for the week as hawkish signals from the US Federal Reserve outweighed support from the impact of US-Iran peace efforts. On Thursday, silver found some support after the latest US PCE inflation data came in broadly in line with expectations, easing fears of imminent Fed rate hikes and pushing the dollar and Treasury yields lower. Even so, markets are pricing in an 80% chance of a Fed rate hike in December following last week's hawkish pause, while the probability of a September increase stands at around 63%. Meanwhile, oil prices continued to retreat and have returned to pre-conflict levels as progress in US-Iran peace negotiations eased concerns over Middle East supply disruptions and further reduced inflation worries.
 
 ---
