@@ -1,7 +1,115 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-06-29 05:05:04_
-_本檔包含 3803 則快訊，約 664566 字_
+_更新時間：2026-06-29 05:36:54_
+_本檔包含 3812 則快訊，約 665745 字_
+
+---
+
+### 2026-06-25 11:39:25  #Trading Economics #Economy #Thailand #Imports YoY #Importance 1
+
+Thailand Import Growth Stays Robust — Thailand’s imports rose 35.1% yoy in May 2026, slowing from a 45.0% surge in the prior month. The was roughly in line with market expectations of 25.1%, supported by resilient household demand and policy support aimed at boosting spending and capital outlays despite disruptions from the Middle East conflict.
+
+---
+
+### 2026-06-25 11:39:09  #Trading Economics #Economy #Thailand #Exports YoY #Importance 1
+
+Thailand Export Growth Slows to 3-Month Low — Thailand’s exports grew 10.6% year-on-year in May 2026, easing sharply from a 23.1% surge in April, which marked the strongest growth in three months, and falling short of market forecasts of 11.6%. It was the softest increase in exports since February.
+
+---
+
+### 2026-06-25 11:39:01  #公司
+
+【北方銅業：將在充分調研市場基礎上決定覆銅板投建計劃】北方銅業(000737)在互動平臺表示，公司年產5萬噸高效能壓延銅箔和200萬平米覆銅板專案的覆銅板建設部分，因相關技術、人才儲備不足，為審慎起見，目前尚未投建。下一步，公司將在充分調研市場、科學論證的基礎上，決定覆銅板投建計劃。
+
+---
+
+### 2026-06-25 11:39:01  #MKT News
+
+Thailand's Ministry of Commerce said exports will continue to expand later this year.
+
+---
+
+### 2026-06-25 11:38:58  #MKT News #Market Regions #Japan & APAC #USDJPY #Impact bearish
+
+Japan 20-year government bond (JGB) auction bid-cover ratio was 2.97, the weakest since May 2025; May's bid-cover ratio was 4.01.
+
+---
+
+### 2026-06-25 11:38:37  #國際
+
+泰國商務部：今年晚些時候泰國出口將繼續保持增長。
+
+---
+
+### 2026-06-25 11:38:23  #其他
+
+【法國高溫天氣造成數十萬只家禽死亡】法國農業組織估算，持續多日的高溫天氣造成該國數十萬只家禽死亡，死禽清運處理系統不堪負荷，兩大主產區的政府正考慮允許養殖戶就地掩埋死禽。
+
+---
+
+### 2026-06-25 11:38:01  #市場 #國際
+
+日本20年期國債拍賣認購倍數創2025年5月以來最低。
+
+---
+
+### 2026-06-25 11:37:28  #國際
+
+【泰國5月出口同比增長10.6%(】泰國商務部公佈資料顯示，泰國5月基於海關資料的出口較上年同期增長10.6%，泰國5月基於海關資料的進口較上年同期增長35.1%。泰國5月海關清關貿易逆差57.1億美元。
+
+---
+
+### 2026-06-25 11:36:22  #公司
+
+【浙江世寶：線控轉向尚未在已上市車型中廣泛應用】針對投資者關於“ 公司在“線控轉向”國內佔比多少，國標實施後對公司哪些增量 ？ ”浙江世寶6月25日在互動平臺回應稱，線控轉向尚未在已上市車型中廣泛應用。公司認為相關標準的實施將有助於線控轉向在高階自動駕駛汽車上的應用。公司是國內領先的線控轉向供應商，目前已經與數個主要客戶在共同推進開發專案。
+
+---
+
+### 2026-06-25 11:35:59  #市場 #國際
+
+日本20年期國債拍賣投標倍數為2.97，而12個月平均值為3.55。
+
+---
+
+### 2026-06-25 11:35:41  #MKT News
+
+Thailand's Ministry of Commerce said May customs-cleared trade deficit was $5.71 bln, versus a Reuters survey estimate of a $6.12 bln deficit.
+
+---
+
+### 2026-06-25 11:35:05  #MKT News #Important #Market Themes #Chip Wars #SZSE Component #Impact bullish #SSE Composite #CSI300
+
+【A-share midday: STAR 50 Index +4.18% as storage chips, brokers lead gains】Chinese A-shares at midday: Shanghai Composite +0.36%, Shenzhen Composite +1.46%, ChiNext +2.01%, STAR 50 +4.18%. Storage-chip names triggered a wave of limit-ups, including Taiji Industrial. Securities stocks rallied; Zhongxin Jiantou and Changjiang Securities hit limit-up. Also outperforming: optical communications, baijiu, insurance, construction machinery and warehousing/logistics. Underperforming: lithium, innovative drugs, oil, nonferrous metals and power. Market turnover in the first half-day exceeded 2.4 trillion yuan.
+
+---
+
+### 2026-06-25 11:35:00  #公司
+
+天邑股份6月25日在互動平臺表示，公司在CPO領域目前沒有應用技術。
+
+---
+
+### 2026-06-25 11:34:33  #MKT News
+
+Thailand's Ministry of Commerce said May imports, on a customs-based measure, rose 35.1% YoY, versus a REUTERS SURVEY estimate of 35.0%.
+
+---
+
+### 2026-06-25 11:33:50  #國際
+
+泰國5月經清關核算貿易逆差為57.1億美元。
+
+---
+
+### 2026-06-25 11:33:50  #MKT News
+
+Thailand's Commerce Ministry said May exports based on customs data rose 10.6% YoY, below a REUTERS SURVEY estimate of 12.0%.
+
+---
+
+### 2026-06-25 11:33:45  #MKT News
+
+【Japanese businesses send 10 delegations to China】The fourth Chain Expo was held in Beijing June 22–26. Japan sent the largest number of Asian delegations, dispatching 10 economic groups to China, including Keidanren (Japan Business Federation), the Japan Chamber of Commerce and Industry and the Kansai Economic Federation. Keidanren is Japan’s largest and most influential comprehensive business group, with core members spanning leading firms across sectors; the Japan Chamber is one of the country’s largest nationwide business organizations; the Kansai federation represents the Kansai region, Japan’s second-largest economic area. Collectively the 10 delegations cover broad segments of Japan’s corporate network.
 
 ---
 
@@ -22874,59 +22982,5 @@ Hong Kong-listed Tuya Smart (02391.HK) fell more than 14%; turnover exceeded HK$
 ### 2026-06-24 09:44:00  #MKT News #Nikkei 225 #Impact bullish
 
 【BofA Global Research sees further upside for Japanese stocks into year‑end】BofA Global Research raised its year‑end targets for Japanese equities, flagging stronger‑than‑expected AI demand, a higher probability the Strait of Hormuz stays open and improving corporate ROE. It lifted its Nikkei 225 year‑end target to 76,000 from 67,000 and its TOPIX target to 4,400 from 4,200. BofA said ROE gains to date were mainly driven by margin improvement, but as the manufacturing cycle recovers leverage expansion is likely to become the new driver.
-
----
-
-### 2026-06-24 09:43:43  #MKT News
-
-Hong Kong-listed pharma outsourcing names advanced, led by Kailaiying (06821.HK) which rose more than 7%; Tigermed (03347.HK) and Pharmaron (03759.HK) gained over 5%; Joinn Laboratories (06127.HK) and WuXi AppTec (02359.HK) rose above 4%.
-
----
-
-### 2026-06-24 09:43:29  #Trading Economics #Markets #South Korea #Stock Market #Importance 1
-
-South Korean Shares Rebound on Chip Gains — The benchmark KOSPI rose more than 3% to around 8,470 on Wednesday, recovering part of the losses from the previous session as investors returned to semiconductor stocks following a sharp market selloff. Chipmakers led the rebound, with Samsung Electronics and SK Hynix advancing over 6% and 2%, respectively, amid optimism over AI-driven memory demand and ahead of key earnings updates from the sector, including Micron's results later this week. Other gainers included HD Hyundai Heavy Industries (1.4%), Hanwha Ocean (1.7%), Kia Corporation (1.3%), and Doosan Enerbility (0.8%). Sentiment was also supported by signs of improving risk appetite after oil prices eased as concerns over disruptions in the Strait of Hormuz softened. Meanwhile, MSCI kept South Korea in its emerging-market category, citing ongoing foreign-exchange market accessibility issues and delaying progress toward developed-market status.
-
----
-
-### 2026-06-24 09:42:34  #市場 #焦點
-
-科創50日內跌幅達1.10%，成分股中，沐曦股份跌4.94%，滬矽產業跌4.87%，盛美上海跌4.70%，摩爾執行緒跌4.15%。
-
----
-
-### 2026-06-24 09:42:29  #MKT News #600519.SS #Impact bullish
-
-China A-share baijiu sector strengthened on choppy trading; Jinshiyuan rose over 5%, Huachuang Yunxin gained more than 3%, Jihong, Zhongrui, Yingjia Gongjiu and Kweichow Moutai also advanced.
-
----
-
-### 2026-06-24 09:42:14  #MKT News #Market Regions #Greater China
-
-【NBS: Mid-June live hog (three-way cross) price unchanged MoM】China's National Bureau of Statistics said its mid-June 2026 survey of market prices for key production materials in circulation covered 50 items across nine categories; 15 prices rose, 32 fell and three were unchanged. The mid-June price for live hogs (three-way cross) was 9.5 yuan/kg, unchanged versus early June.
-
----
-
-### 2026-06-24 09:42:06  #市場
-
-【港口航運板塊盤初衝高，招商輪船漲停創新高】港口航運板塊盤初衝高，招商輪船漲停創新高，中遠海能、招商南油、國航遠洋、南京港、寧波遠洋跟漲。
-
----
-
-### 2026-06-24 09:40:32  #公司 #市場
-
-半導體產業鏈震盪拉昇，西隴科學2連板，匯成股份、賽英電子、富滿微、格科微均漲超10%，神工股份、中科飛測、長電科技等跟漲。
-
----
-
-### 2026-06-24 09:40:17  #市場
-
-【光通訊概念震盪回升 通鼎互聯等漲停】光通訊概念震盪回升，截至發稿，泰和新材、通鼎互聯、航天電器漲停，宏柏新材、光庫科技等跟漲。
-
----
-
-### 2026-06-24 09:40:10  #市場 #焦點
-
-滬深兩市成交額超5000億元，較上日此時縮量1399億元。
 
 ---

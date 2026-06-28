@@ -1,7 +1,103 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-06-29 05:05:04_
-_本檔包含 3661 則快訊，約 665358 字_
+_更新時間：2026-06-29 05:36:54_
+_本檔包含 3659 則快訊，約 665542 字_
+
+---
+
+### 2026-06-26 13:20:24  #MKT News #Market Themes #Chip Wars #002129.SZ #Impact bullish
+
+China A-share semiconductor materials sector stayed active in the afternoon. Youyan Gui touched a 20CM limit-up; earlier TCL Zhonghuan hit the daily limit. Lian Micro, Shanghai Silicon Industry and Xi'an Yicai followed with gains.
+
+---
+
+### 2026-06-26 13:18:54  #國際
+
+【澤連斯基稱已批准新情報行動】烏克蘭總統澤連斯基25日在社交媒體發文稱已批准一項為期40天的情報行動，但他未透露任何細節。澤連斯基稱，這一情報行動旨在“迫使”俄方結束戰事。連續數月以來，烏克蘭國家安全域性透過使用各類無人機，在烏前線陣地上展現了“最高水平”的作戰效能。烏國家安全域性下屬的“阿爾法”特種作戰中心在打擊俄軍人員及裝備方面“處於領先地位”。據外媒報道，烏克蘭無人機的襲擊目標主要為俄軍事設施、武器裝備以及油氣工業設施，此類行動通常由烏克蘭不同情報機構負責執行。（新華社）
+
+---
+
+### 2026-06-26 13:18:50
+
+【鋰電池板塊持續走弱】永杉鋰業、融捷股份觸及跌停，海科新源、容百科技、蔚藍鋰芯、豐元股份、孚日股份等跌幅靠前。
+
+---
+
+### 2026-06-26 13:18:28  #市場
+
+半導體矽片概念午後持續活躍，有研矽觸及20CM漲停，此前TCL中環漲停，立昂微、滬矽產業、西安奕材跟漲。
+
+---
+
+### 2026-06-26 13:16:54  #其他
+
+【招商蛇口60.9億元摘得杭州永久河宅地 成交樓面價51577元/平】杭州今日成功出讓永久河宅地。該地塊規劃建築面積11.81萬平方米，起始價34.04億元，吸引房企激烈爭奪，競價歷時約3小時、共243輪。最終，該地塊由招商蛇口以60.94億元競得，成交樓面價51577元/平方米，溢價率79.03%。
+
+---
+
+### 2026-06-26 13:16:33  #其他
+
+【國家能源局局長：中國能源體系經受住了衝擊】王宏志在當天的國新辦釋出會上說，今年2月底以來，全球能源市場出現劇烈波動，很多國家出現不同程度的能源短缺、油價暴漲、供應緊張，中國能源體系經受住了衝擊，供需總體平衡、價格總體穩定，展現了強大韌性。
+
+---
+
+### 2026-06-26 13:16:33  #MKT News #Brent #Impact bullish #XAUUSD #DXY
+
+【Russia says shot down 47 drones headed for Moscow】Moscow Mayor Sobyanin said on social media that between 02:24 and 07:23 local time on June 26 Russian air-defence systems shot down 47 drones headed for Moscow. The Russian Defence Ministry said early on June 26 that overnight its air-defence forces intercepted and destroyed 660 Ukrainian fixed-wing drones across multiple locations.
+
+---
+
+### 2026-06-26 13:15:39  #國際
+
+【俄稱擊落47架飛向莫斯科的無人機】當地時間6月26日，總檯記者獲悉，根據俄羅斯首都莫斯科市長索比亞寧透過社交媒體釋出的資訊，當天2時24分至7時23分，俄軍防空系統已擊落47架飛向莫斯科的無人機。據俄羅斯國防部26日清晨通報，過去一夜，俄軍防空力量在多地攔截並摧毀660架烏克蘭固定翼無人機。
+
+---
+
+### 2026-06-26 13:14:59  #Trading Economics #Markets #Currency #Importance 1
+
+FX Updates: Australian Dollar Depreciates by 0.29% — Top currency losers are Australian Dollar (-0.29%) and Turkish Lira (-0.25%). Gains are led by Japanese Yen (0.10%) and British Pound (0.07%). Meanwhile, Euro and Dollar Index were little changed.
+
+---
+
+### 2026-06-26 13:14:09  #其他
+
+【千億基金叢集釋出 東莞松山湖科技金融集聚區正式開園】6月25日，東莞松山湖科技金融集聚區舉行開園儀式。活動現場，八大合作平臺集中揭牌、30餘家機構分批簽約入駐、千億級基金叢集重磅釋出，多項標誌性成果集中落地，標誌著東莞暢通“科技—產業—金融”良性迴圈邁出實質性一步，為當地向“科創制造強市”躍遷注入核心金融動能。
+
+---
+
+### 2026-06-26 13:13:49  #市場 #焦點
+
+滬深兩市成交額超2.5萬億元，較上日此時縮量360億元。
+
+---
+
+### 2026-06-26 13:13:11  #其他
+
+【內蒙古奇乾鄉正式接通大網電 當地告別“靠天用電”歷史】6月26日，10千伏奇乾線新建工程正式投運送電，內蒙古額爾古納市奇乾鄉正式接通大網電，當地居民和駐防單位徹底告別“靠天用電”的歷史，這標誌著內蒙古所有行政鄉全部實現大網電覆蓋。（央視）
+
+---
+
+### 2026-06-26 13:12:07  #其他
+
+【英國王室說白金漢宮翻修後國王不住】英國王室25日宣佈，白金漢宮明年完成大規模翻修後，國王查爾斯三世和王后卡米拉不會在這裡居住。這一決定意味著更多公眾有機會參觀這處建築。查爾斯和卡米拉決定繼續留在白金漢宮附近的克拉倫斯宮居住，查爾斯從王儲時期就在這裡居住。英國王室司庫詹姆斯·查默斯25日說，白金漢宮現在和將來都是王室禮儀活動中心、主要辦公場所。（新華社）
+
+---
+
+### 2026-06-26 13:11:31  #其他
+
+【港股人工智慧股震盪走低 長飛光纖光纜跌超14%】港股人工智慧股震盪走低，長飛光纖光纜跌超14%，天數智芯跌超13%，智譜跌超11%，MINIMAX-W跌超10%。
+
+---
+
+### 2026-06-26 13:10:50  #Trading Economics #Economy #Singapore #Industrial Production #Importance 1
+
+Singapore Manufacturing Output Below Forecasts — Singapore's manufacturing production grew by 13% year-on-year in May 2026, slowing from a downwardly revised six-month high of 16.5% in the previous month and missing market expectations of 17%. Output increased at a slower pace in electronics (35.8% vs 40.3% in April), particularly semiconductors (37.0% vs 43.5%) and infocomms & consumer electronics (59.2% vs 76.0%). Overall manufacturing output was also weighed down by a continued decline in biomedical manufacturing (-24.2% vs -16.1%), a contraction in transport engineering (-5.0% vs 10.8%), and a sharp moderation in general manufacturing industries (1.8% vs 17.7%). On the other hand, output fell at a softer pace in chemicals (-11.5% vs -17.6%), while growth in precision engineering accelerated (32.2% vs 16.4%). On a monthly basis, manufacturing production fell 0.7%, reversing an upwardly revised 6.2% increase in April. For the January–May period, manufacturing production rose 10.7%.
+
+---
+
+### 2026-06-26 13:10:45  #MKT News #Important #Market Themes #AI Revolution #06869.HK #Impact bearish #09903.HK #02513.HK
+
+Hong Kong-listed AI stocks slid: Yangtze Optical Fibre and Cable (06869.HK) fell more than 14%, Tianshu AI (09903.HK) fell more than 13%, Zhipu AI (02513.HK) fell more than 11% and MINIMAX-W (00100.HK) fell more than 10%.
 
 ---
 
@@ -21946,113 +22042,5 @@ US Natgas Prices Advance — US natural gas prices rose to around $3.24 per MMBt
 ### 2026-06-25 11:39:47  #市場
 
 【金飾克價年內跌近500元】國內各大黃金品牌的金飾掛牌價持續下調。6月25日，國內黃金飾品價格對比顯示，部分品牌克價距離年初高點跌近500元，跌幅超28%。老鳳祥報價1215元/克，較前一日下降26元，兩日累計下降53元，克價距離年初高點跌498元；周生生報價1221元/克，較前一日下降19元，兩日累計跌去49元，克價距離年初高點跌487元；周大福、六福分別報價1222元/克、1220元/克，較前一日均下降16元，兩日累計分別跌去55元、46元，克價距離年初高點分別跌約478元、480元。
-
----
-
-### 2026-06-25 11:39:25  #Trading Economics #Economy #Thailand #Imports YoY #Importance 1
-
-Thailand Import Growth Stays Robust — Thailand’s imports rose 35.1% yoy in May 2026, slowing from a 45.0% surge in the prior month. The was roughly in line with market expectations of 25.1%, supported by resilient household demand and policy support aimed at boosting spending and capital outlays despite disruptions from the Middle East conflict.
-
----
-
-### 2026-06-25 11:39:09  #Trading Economics #Economy #Thailand #Exports YoY #Importance 1
-
-Thailand Export Growth Slows to 3-Month Low — Thailand’s exports grew 10.6% year-on-year in May 2026, easing sharply from a 23.1% surge in April, which marked the strongest growth in three months, and falling short of market forecasts of 11.6%. It was the softest increase in exports since February.
-
----
-
-### 2026-06-25 11:39:01  #公司
-
-【北方銅業：將在充分調研市場基礎上決定覆銅板投建計劃】北方銅業(000737)在互動平臺表示，公司年產5萬噸高效能壓延銅箔和200萬平米覆銅板專案的覆銅板建設部分，因相關技術、人才儲備不足，為審慎起見，目前尚未投建。下一步，公司將在充分調研市場、科學論證的基礎上，決定覆銅板投建計劃。
-
----
-
-### 2026-06-25 11:39:01  #MKT News
-
-Thailand's Ministry of Commerce said exports will continue to expand later this year.
-
----
-
-### 2026-06-25 11:38:58  #MKT News #Market Regions #Japan & APAC #USDJPY #Impact bearish
-
-Japan 20-year government bond (JGB) auction bid-cover ratio was 2.97, the weakest since May 2025; May's bid-cover ratio was 4.01.
-
----
-
-### 2026-06-25 11:38:37  #國際
-
-泰國商務部：今年晚些時候泰國出口將繼續保持增長。
-
----
-
-### 2026-06-25 11:38:23  #其他
-
-【法國高溫天氣造成數十萬只家禽死亡】法國農業組織估算，持續多日的高溫天氣造成該國數十萬只家禽死亡，死禽清運處理系統不堪負荷，兩大主產區的政府正考慮允許養殖戶就地掩埋死禽。
-
----
-
-### 2026-06-25 11:38:01  #市場 #國際
-
-日本20年期國債拍賣認購倍數創2025年5月以來最低。
-
----
-
-### 2026-06-25 11:37:28  #國際
-
-【泰國5月出口同比增長10.6%(】泰國商務部公佈資料顯示，泰國5月基於海關資料的出口較上年同期增長10.6%，泰國5月基於海關資料的進口較上年同期增長35.1%。泰國5月海關清關貿易逆差57.1億美元。
-
----
-
-### 2026-06-25 11:36:22  #公司
-
-【浙江世寶：線控轉向尚未在已上市車型中廣泛應用】針對投資者關於“ 公司在“線控轉向”國內佔比多少，國標實施後對公司哪些增量 ？ ”浙江世寶6月25日在互動平臺回應稱，線控轉向尚未在已上市車型中廣泛應用。公司認為相關標準的實施將有助於線控轉向在高階自動駕駛汽車上的應用。公司是國內領先的線控轉向供應商，目前已經與數個主要客戶在共同推進開發專案。
-
----
-
-### 2026-06-25 11:35:59  #市場 #國際
-
-日本20年期國債拍賣投標倍數為2.97，而12個月平均值為3.55。
-
----
-
-### 2026-06-25 11:35:41  #MKT News
-
-Thailand's Ministry of Commerce said May customs-cleared trade deficit was $5.71 bln, versus a Reuters survey estimate of a $6.12 bln deficit.
-
----
-
-### 2026-06-25 11:35:05  #MKT News #Important #Market Themes #Chip Wars #SZSE Component #Impact bullish #SSE Composite #CSI300
-
-【A-share midday: STAR 50 Index +4.18% as storage chips, brokers lead gains】Chinese A-shares at midday: Shanghai Composite +0.36%, Shenzhen Composite +1.46%, ChiNext +2.01%, STAR 50 +4.18%. Storage-chip names triggered a wave of limit-ups, including Taiji Industrial. Securities stocks rallied; Zhongxin Jiantou and Changjiang Securities hit limit-up. Also outperforming: optical communications, baijiu, insurance, construction machinery and warehousing/logistics. Underperforming: lithium, innovative drugs, oil, nonferrous metals and power. Market turnover in the first half-day exceeded 2.4 trillion yuan.
-
----
-
-### 2026-06-25 11:35:00  #公司
-
-天邑股份6月25日在互動平臺表示，公司在CPO領域目前沒有應用技術。
-
----
-
-### 2026-06-25 11:34:33  #MKT News
-
-Thailand's Ministry of Commerce said May imports, on a customs-based measure, rose 35.1% YoY, versus a REUTERS SURVEY estimate of 35.0%.
-
----
-
-### 2026-06-25 11:33:50  #國際
-
-泰國5月經清關核算貿易逆差為57.1億美元。
-
----
-
-### 2026-06-25 11:33:50  #MKT News
-
-Thailand's Commerce Ministry said May exports based on customs data rose 10.6% YoY, below a REUTERS SURVEY estimate of 12.0%.
-
----
-
-### 2026-06-25 11:33:45  #MKT News
-
-【Japanese businesses send 10 delegations to China】The fourth Chain Expo was held in Beijing June 22–26. Japan sent the largest number of Asian delegations, dispatching 10 economic groups to China, including Keidanren (Japan Business Federation), the Japan Chamber of Commerce and Industry and the Kansai Economic Federation. Keidanren is Japan’s largest and most influential comprehensive business group, with core members spanning leading firms across sectors; the Japan Chamber is one of the country’s largest nationwide business organizations; the Kansai federation represents the Kansai region, Japan’s second-largest economic area. Collectively the 10 delegations cover broad segments of Japan’s corporate network.
 
 ---

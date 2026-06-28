@@ -1,7 +1,61 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-06-29 05:05:04_
-_本檔包含 3526 則快訊，約 665108 字_
+_更新時間：2026-06-29 05:36:54_
+_本檔包含 3521 則快訊，約 665543 字_
+
+---
+
+### 2026-06-24 09:43:43  #MKT News
+
+Hong Kong-listed pharma outsourcing names advanced, led by Kailaiying (06821.HK) which rose more than 7%; Tigermed (03347.HK) and Pharmaron (03759.HK) gained over 5%; Joinn Laboratories (06127.HK) and WuXi AppTec (02359.HK) rose above 4%.
+
+---
+
+### 2026-06-24 09:43:29  #Trading Economics #Markets #South Korea #Stock Market #Importance 1
+
+South Korean Shares Rebound on Chip Gains — The benchmark KOSPI rose more than 3% to around 8,470 on Wednesday, recovering part of the losses from the previous session as investors returned to semiconductor stocks following a sharp market selloff. Chipmakers led the rebound, with Samsung Electronics and SK Hynix advancing over 6% and 2%, respectively, amid optimism over AI-driven memory demand and ahead of key earnings updates from the sector, including Micron's results later this week. Other gainers included HD Hyundai Heavy Industries (1.4%), Hanwha Ocean (1.7%), Kia Corporation (1.3%), and Doosan Enerbility (0.8%). Sentiment was also supported by signs of improving risk appetite after oil prices eased as concerns over disruptions in the Strait of Hormuz softened. Meanwhile, MSCI kept South Korea in its emerging-market category, citing ongoing foreign-exchange market accessibility issues and delaying progress toward developed-market status.
+
+---
+
+### 2026-06-24 09:42:34  #市場 #焦點
+
+科創50日內跌幅達1.10%，成分股中，沐曦股份跌4.94%，滬矽產業跌4.87%，盛美上海跌4.70%，摩爾執行緒跌4.15%。
+
+---
+
+### 2026-06-24 09:42:29  #MKT News #600519.SS #Impact bullish
+
+China A-share baijiu sector strengthened on choppy trading; Jinshiyuan rose over 5%, Huachuang Yunxin gained more than 3%, Jihong, Zhongrui, Yingjia Gongjiu and Kweichow Moutai also advanced.
+
+---
+
+### 2026-06-24 09:42:14  #MKT News #Market Regions #Greater China
+
+【NBS: Mid-June live hog (three-way cross) price unchanged MoM】China's National Bureau of Statistics said its mid-June 2026 survey of market prices for key production materials in circulation covered 50 items across nine categories; 15 prices rose, 32 fell and three were unchanged. The mid-June price for live hogs (three-way cross) was 9.5 yuan/kg, unchanged versus early June.
+
+---
+
+### 2026-06-24 09:42:06  #市場
+
+【港口航運板塊盤初衝高，招商輪船漲停創新高】港口航運板塊盤初衝高，招商輪船漲停創新高，中遠海能、招商南油、國航遠洋、南京港、寧波遠洋跟漲。
+
+---
+
+### 2026-06-24 09:40:32  #公司 #市場
+
+半導體產業鏈震盪拉昇，西隴科學2連板，匯成股份、賽英電子、富滿微、格科微均漲超10%，神工股份、中科飛測、長電科技等跟漲。
+
+---
+
+### 2026-06-24 09:40:17  #市場
+
+【光通訊概念震盪回升 通鼎互聯等漲停】光通訊概念震盪回升，截至發稿，泰和新材、通鼎互聯、航天電器漲停，宏柏新材、光庫科技等跟漲。
+
+---
+
+### 2026-06-24 09:40:10  #市場 #焦點
+
+滬深兩市成交額超5000億元，較上日此時縮量1399億元。
 
 ---
 
@@ -21189,89 +21243,5 @@ South Korea's KOSPI index fell as much as 2.00% intraday.
 ### 2026-06-23 08:25:02  #觀點
 
 【開源證券：繼續佈局大模型、物理AI、核心AI應用、算力租賃】開源證券研報表示，在推理能力方面，智譜GLM-5.2是目前最強的開源大模型之一，多項核心指標追平甚至超過ClaudeOpus4.8和GPT-5.5。此外，火山引擎Force原動力大會將於6.23-24在北京舉行，內容包括新品釋出、技術主論壇及AI內容/Sendacne影視/AI應用/AI漫短劇等11個產品和13個行業分論壇。物理AI方面，阿里巴巴千問大模型家族首次推出完整的具身智慧大模型Qwen-Robot系列。國產模型效能進一步向全球頂尖邁進、甚至實現超越，在世界模型、物理AI方面亦持續突破，頭部模型廠商“大額融資+模型效能躍遷+Token/ARR高增+估值躍升”正迴圈將延續，在自身收入高增的同時，或繼續拉動上下游算力、3D資料、垂直應用需求高增，建議繼續圍繞核心AI方向佈局。（第一財經）
-
----
-
-### 2026-06-23 08:24:56  #其他
-
-【MOMENTA透過港交所上市聆訊】MOMENTA GLOBAL LIMITED - W透過港交所上市聆訊。
-
----
-
-### 2026-06-23 08:24:33  #其他
-
-【阿根廷一公交車失控碾壓行人 致1死6傷】當地時間22日19時許，阿根廷海濱城市馬德普拉塔市一輛公交車在駛入站臺時失控，撞上候車設施並碾壓了多名行人。據悉，事故已造成1人死亡、至少6人受傷，傷者均被送往醫院救治。事故原因正在調查中。（央視）
-
----
-
-### 2026-06-23 08:23:54  #MKT News #Market Regions #Greater China
-
-Momenta cleared its HKEX listing hearing.
-
----
-
-### 2026-06-23 08:22:27  #MKT News #Important #Commodities #Precious Metals
-
-Spot silver down more than 1% intraday at $64.45/oz.
-
----
-
-### 2026-06-23 08:22:26  #市場
-
-現貨白銀日內跌1%，現報64.36美元/盎司。
-
----
-
-### 2026-06-23 08:22:05  #國際
-
-美國法院目前駁回了特朗普政府針對洛杉磯移民執法問題提起的訴訟。
-
----
-
-### 2026-06-23 08:21:54  #市場 #國際
-
-日本東證股價指數(TOPIX)下跌0.5%，報4,074.09點。
-
----
-
-### 2026-06-23 08:21:41  #MKT News
-
-South Korea's KOSPI slid below 9,000, down 1.29% intraday.
-
----
-
-### 2026-06-23 08:20:58  #市場 #國際
-
-韓國綜合股價指數下跌1%，至9021點。
-
----
-
-### 2026-06-23 08:20:45  #MKT News
-
-South Korea's KOSPI fell 1.00% intraday.
-
----
-
-### 2026-06-23 08:20:31  #MKT News #Market Regions #Japan & APAC #9984.T #Impact bearish
-
-SoftBank shares in Tokyo fell 5.3%.
-
----
-
-### 2026-06-23 08:20:12  #公司 #市場
-
-軟銀集團股價下跌5.3%，此前Arm股價隔夜大幅下挫。
-
----
-
-### 2026-06-23 08:19:36  #MKT News #Market Themes #AI Revolution #Magnificent 7 #Star Stocks #Tesla #TSLA.O #Impact bullish
-
-【CITIC Securities: 2026 Seen as Potential Breakout Year for Humanoid Robot Vertical Applications】CITIC Securities says 2026 could be a breakout year for vertical applications of humanoid robots as rising robot generalization enables industrial and commercial deployments. The report calls physical AI the next wave of AI and identifies robots as a primary physical carrier. It highlights Tesla’s Optimus approaching mass production, with supply‑chain volume guidance becoming clearer and the ramp progressively validated; upcoming V3 product releases and mass‑production progress warrant close monitoring. Ongoing IPOs of domestic robot makers may trigger a hardware valuation re-rating; the firm expects continued sector catalysts over the next quarter and recommends focusing on high‑quality segments of the value chain.
-
----
-
-### 2026-06-23 08:19:25  #其他
-
-【加拿大推出首部國家級核能戰略】當地時間6月22日，加拿大能源與自然資源部部長蒂姆·霍奇森公佈該國首份國家核能戰略，他表示，該計劃將復興加拿大民用核能發展。霍奇森表示，新的國家核能戰略與該電力戰略相契合，將由四大“支柱”組成：推動在加拿大各地新建核電專案；將加拿大定位為全球首選的核能供應商和出口國；擴大鈾礦生產和核燃料機遇，同時支援建設世界一流的核廢料長期管理體系；發展加拿大核能新創新。霍奇森表示，加拿大計劃在未來15年新建10座核反應堆，向更多國家出售加拿大製造反應堆，並將鈾出口量翻一番。（中央廣電總檯國際線上）
 
 ---

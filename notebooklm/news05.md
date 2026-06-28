@@ -1,7 +1,91 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-06-29 05:05:04_
-_本檔包含 3451 則快訊，約 664908 字_
+_更新時間：2026-06-29 05:36:54_
+_本檔包含 3458 則快訊，約 665305 字_
+
+---
+
+### 2026-06-23 08:24:56  #其他
+
+【MOMENTA透過港交所上市聆訊】MOMENTA GLOBAL LIMITED - W透過港交所上市聆訊。
+
+---
+
+### 2026-06-23 08:24:33  #其他
+
+【阿根廷一公交車失控碾壓行人 致1死6傷】當地時間22日19時許，阿根廷海濱城市馬德普拉塔市一輛公交車在駛入站臺時失控，撞上候車設施並碾壓了多名行人。據悉，事故已造成1人死亡、至少6人受傷，傷者均被送往醫院救治。事故原因正在調查中。（央視）
+
+---
+
+### 2026-06-23 08:23:54  #MKT News #Market Regions #Greater China
+
+Momenta cleared its HKEX listing hearing.
+
+---
+
+### 2026-06-23 08:22:27  #MKT News #Important #Commodities #Precious Metals
+
+Spot silver down more than 1% intraday at $64.45/oz.
+
+---
+
+### 2026-06-23 08:22:26  #市場
+
+現貨白銀日內跌1%，現報64.36美元/盎司。
+
+---
+
+### 2026-06-23 08:22:05  #國際
+
+美國法院目前駁回了特朗普政府針對洛杉磯移民執法問題提起的訴訟。
+
+---
+
+### 2026-06-23 08:21:54  #市場 #國際
+
+日本東證股價指數(TOPIX)下跌0.5%，報4,074.09點。
+
+---
+
+### 2026-06-23 08:21:41  #MKT News
+
+South Korea's KOSPI slid below 9,000, down 1.29% intraday.
+
+---
+
+### 2026-06-23 08:20:58  #市場 #國際
+
+韓國綜合股價指數下跌1%，至9021點。
+
+---
+
+### 2026-06-23 08:20:45  #MKT News
+
+South Korea's KOSPI fell 1.00% intraday.
+
+---
+
+### 2026-06-23 08:20:31  #MKT News #Market Regions #Japan & APAC #9984.T #Impact bearish
+
+SoftBank shares in Tokyo fell 5.3%.
+
+---
+
+### 2026-06-23 08:20:12  #公司 #市場
+
+軟銀集團股價下跌5.3%，此前Arm股價隔夜大幅下挫。
+
+---
+
+### 2026-06-23 08:19:36  #MKT News #Market Themes #AI Revolution #Magnificent 7 #Star Stocks #Tesla #TSLA.O #Impact bullish
+
+【CITIC Securities: 2026 Seen as Potential Breakout Year for Humanoid Robot Vertical Applications】CITIC Securities says 2026 could be a breakout year for vertical applications of humanoid robots as rising robot generalization enables industrial and commercial deployments. The report calls physical AI the next wave of AI and identifies robots as a primary physical carrier. It highlights Tesla’s Optimus approaching mass production, with supply‑chain volume guidance becoming clearer and the ramp progressively validated; upcoming V3 product releases and mass‑production progress warrant close monitoring. Ongoing IPOs of domestic robot makers may trigger a hardware valuation re-rating; the firm expects continued sector catalysts over the next quarter and recommends focusing on high‑quality segments of the value chain.
+
+---
+
+### 2026-06-23 08:19:25  #其他
+
+【加拿大推出首部國家級核能戰略】當地時間6月22日，加拿大能源與自然資源部部長蒂姆·霍奇森公佈該國首份國家核能戰略，他表示，該計劃將復興加拿大民用核能發展。霍奇森表示，新的國家核能戰略與該電力戰略相契合，將由四大“支柱”組成：推動在加拿大各地新建核電專案；將加拿大定位為全球首選的核能供應商和出口國；擴大鈾礦生產和核燃料機遇，同時支援建設世界一流的核廢料長期管理體系；發展加拿大核能新創新。霍奇森表示，加拿大計劃在未來15年新建10座核反應堆，向更多國家出售加拿大製造反應堆，並將鈾出口量翻一番。（中央廣電總檯國際線上）
 
 ---
 
@@ -20821,47 +20905,5 @@ TASNIM NEWS reported Iran's delegation refused to return to four-way talks after
 ### 2026-06-22 05:37:23  #國際
 
 伊朗國家隊門將阿里·貝蘭萬德在世界盃賽事前的採訪中向伊朗球迷承諾，他會像封鎖霍爾木茲海峽一樣守住國家隊球門。
-
----
-
-### 2026-06-22 05:36:45  #其他
-
-哥倫比亞左翼候選人塞佩達暫居第二，得票率47.9%，目前已有三分之一的票箱完成計票。
-
----
-
-### 2026-06-22 05:36:42  #其他
-
-在已統計三分之一選票的情況下，哥倫比亞右翼候選人德拉埃斯普列亞以50.4%的得票率在選舉中領先。
-
----
-
-### 2026-06-22 05:30:07  #國際
-
-特朗普聲稱英國首相斯塔默即將辭職，唐寧街駁斥該辭職傳聞。
-
----
-
-### 2026-06-22 05:25:26  #國際
-
-烏克蘭總統澤連斯基： 無意指責其他家庭，但對我而言，女兒留在烏克蘭本土求學至關重要。 切身親歷祖國正遭受的苦難，遠比道聽途說來得重要。戰時身處故土，和我們所有孩子一同直面導彈襲擊，這份經歷意義非凡。 與此同時，我並不苛責那些隨父母離開本國的孩子。
-
----
-
-### 2026-06-22 05:19:33  #MKT News
-
-【Syria says it can play constructive role in Lebanon crisis, denies plans for military intervention】SANA reported Syrian President Ahmed Shala said Syria can play a constructive role in resolving Lebanon’s crisis by supporting Lebanon and helping establish communication channels among Lebanese political factions, including Hezbollah. He said earlier comments about Syria’s possible role were misinterpreted and sparked concerns of potential military intervention. Shala said Syria seeks economic—not military—corridors with Lebanon, citing historical trade links between Damascus and Beirut and between Homs and Tripoli. He added talks with the US have focused on ending the conflict and addressing its consequences for Lebanon and Syria.
-
----
-
-### 2026-06-22 05:09:44  #其他
-
-雷諾阻撓日產董事會人選提名，矛頭直指債權方瑞穗銀行。
-
----
-
-### 2026-06-22 05:06:55  #公司
-
-【KNDS家族所有者將向德國政府出售40%的股份】知情人士透露，持有坦克製造商KNDS一半股份的家族已同意將40%的股份出售給德國政府。這項交易掃清了該公司在夏季前上市的最後一個障礙。KNDS生產“豹2”和“勒克萊爾”坦克，正準備在法蘭克福和巴黎兩地上市。此舉將使這些家族退出這家法德合資企業。訊息人士稱，這筆交易對KNDS的估值將在150億歐元至180億歐元之間。這意味著德國政府將為其持有的股份支付約60億至70億歐元。
 
 ---

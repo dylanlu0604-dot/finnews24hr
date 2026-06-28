@@ -1,7 +1,91 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-06-29 05:05:04_
-_本檔包含 3529 則快訊，約 665130 字_
+_更新時間：2026-06-29 05:36:54_
+_本檔包含 3527 則快訊，約 665714 字_
+
+---
+
+### 2026-06-29 05:35:46  #公司 #市場
+
+【每天1300部AI短劇上線 投流成本持續攀升“堆量”難以為繼】依託飛速進步的影片生成模型和高效的智慧製作工具，國內短劇產業正迅速“AI化”。一個顯著標志是，AI短劇如今已成為行業絕對主流。 行業權威研究機構DataEye劇查查向證券時報記者提供的資料顯示，今年一季度國內全行業上線短劇約12.8萬部，其中AI短劇佔比超95%。 AI短劇產能大爆發的另一面是行業流量競爭日益加劇，流量成本持續走高。“AI短劇製作端成本大概下降了90%，但流量成本同比上漲了超過100%，與此同時，收益端下滑了50%以上。”DataEye劇查查副總裁林啟文向證券時報記者表示。 “按照一季度資料換算下來，平均每天上線超過1300部新劇。目前市場上每10部新短劇中，就有超過9部由AI參與或主導製作，行業供給結構已發生深刻轉變。”林啟文說。（證券時報）
+
+---
+
+### 2026-06-29 05:34:02  #MKT News #WTI #Impact bearish #XAUUSD #S&P500 #Impact bullish
+
+Germany's foreign minister said they held constructive talks with Israel's foreign minister on a framework agreement between Israel and Lebanon. The minister called the agreement a key step toward stability, said it must now be fully implemented, and described it as a genuine opportunity for durable de-escalation in the decades-long conflict.
+
+---
+
+### 2026-06-29 05:33:05  #市場
+
+【下游需求大增 儲能企業密集簽單】儲能市場景氣度持續走高。高工產研鋰電研究所釋出的資料顯示，截至6月28日，今年上半年已有35家儲能企業對外披露訂單簽約資料，累計簽約規模約550GWh（吉瓦時）。從月度走勢看，1月份至3月份簽約體量相對平穩，4月份至6月份訂單規模直線拉昇，行業呈現供不應求的狀態。
+
+---
+
+### 2026-06-29 05:32:49  #MKT News
+
+Germany's foreign minister held productive talks with the UAE deputy prime minister on Gulf security arrangements and risks posed by neighboring Iran. They said freedom of navigation in the Strait of Hormuz must not be impaired and described recent attacks on Bahrain and Kuwait as unacceptable.
+
+---
+
+### 2026-06-29 05:31:58  #其他
+
+【四川高縣5.5級地震致13人受傷 均為輕微傷已送醫診療】“宜賓釋出”微信公眾號訊息，據中國地震臺網正式測定：2026年6月29日0時12分，宜賓市高縣沙河鎮附近（北緯28.50度，東經104.69度）發生5.5級地震，震源深度6千米。地震發生後，宜賓市抗震救災指揮部啟動地震三級應急響應。市級相關部門、縣（區）迅速行動，及時開展災情排查和救災工作。截至2026年6月29日3時30分，此次地震未造成重大人員傷亡，因災受傷13人均為輕微傷，已及時送醫診療，緊急避險轉移和安置196人。目前，抗震救災各項工作正在緊張有序進行，當地社會秩序穩定。
+
+---
+
+### 2026-06-29 05:31:53  #其他
+
+英國海軍取消護衛艦建造計劃，重心轉向無人作戰裝備研發。
+
+---
+
+### 2026-06-29 05:30:52  #MKT News #Market Regions #Europe & UK
+
+【China-made cooling appliances see surge in European orders amid rare heatwave】A rare European heatwave—record highs in Germany and the Czech Republic and national high-temperature warnings in Hungary and Poland—has lifted demand for air conditioners, fans and other cooling products, boosting China-origin orders via cross-border e-commerce. The international trade director of a Ningbo-based joint-stock firm, Zheng Li, said ice machine shipments to Europe from January–May rose more than 70% YoY and now account for about 15% of the company's sales.
+
+---
+
+### 2026-06-29 05:30:35  #公司
+
+挪威加斯科公司：阿斯加德油田6月29日至30日發生非計劃停機，日輸氣量減少600萬立方米。
+
+---
+
+### 2026-06-29 05:22:40  #其他
+
+【巴基斯坦軍方在邊境展開反恐行動 打死29名武裝分子】當地時間29日凌晨，巴基斯坦新聞與廣播部長阿陶拉·塔拉爾在社交媒體發文稱，針對近期在巴境內連續發生的多起恐怖襲擊事件，巴基斯坦安全部隊28日在巴基斯坦與阿富汗邊境地區展開了一系列針對極端武裝組織“自由人黨”的精準軍事打擊行動，共打死29名武裝分子，同時銷燬了大量武器和彈藥。據巴軍方釋出的訊息，“自由人黨”在27日晚對位於卡拉奇的巴基斯坦遊騎兵部隊營地進行了汽車炸彈襲擊，並與巴安全部隊交火，造成3名巴軍人死亡。
+
+---
+
+### 2026-06-29 05:16:48  #其他
+
+【三條全球最大碳纖維產線同日投產 補齊高階材料短板】我國碳纖維產業創新發展再添里程碑。6月28日，中國建材三條世界級高效能碳纖維生產線在中復神鷹連雲港基地集中投產，覆蓋通用、高強、高模三大主流碳纖維品類。此次三條全球頂級產線集中投產，補齊國內高階碳纖維規模化產能短板，推動行業擺脫同質化規模競爭，向高階化、技術化轉型。
+
+---
+
+### 2026-06-29 05:13:57  #市場 #國際
+
+【熱門賽道遭拋售！華爾街重大警告】美股“AI交易”出現裂痕。據美銀證券的最新報告，截至6月24日當週，美國股票基金流出85億美元（約合人民幣574億元），這是投資者三個月來首次從美國股市撤資。其中，科技基金錄得93億美元（約合人民幣629億元）創紀錄流出，顯示美股“AI交易”正在降溫。美銀證券警告稱，近期超大規模雲端計算商與晶片股走勢嚴重分化，若科技巨頭破位下跌將加速資金洗牌，今夏美股市場或將全面轉入避險模式。
+
+---
+
+### 2026-06-29 05:13:52  #MKT News #XAUUSD #Impact bullish #DXY #WTI
+
+【Netanyahu, Katz say IDF to remain in southern Lebanon "security zone" after destroying Hezbollah underground facility】On the evening of the 28th, Prime Minister Netanyahu and Defense Minister Katz said the IDF destroyed Hezbollah underground military infrastructure in Majdal Zun village in southern Lebanon. The tunnel system exceeded 200m in length and 25m in depth and contained hundreds of weapons and several launch shafts the statement said, citing intent to strike Israeli territory and civilians. Israel notified the United States in advance. The statement said IDF commanders and troops will remain in the southern Lebanon "security zone" and continue to destroy armed infrastructure and neutralize threats to northern Israeli communities.
+
+---
+
+### 2026-06-29 05:13:41  #國際
+
+【以總理與防長髮表聯合宣告：以軍將繼續駐留在黎南部“安全區”】當地時間28日晚，以色列總理內塔尼亞胡與國防部長卡茨發表聯合宣告稱，以色列國防軍剛剛摧毀了位於黎巴嫩南部馬吉達勒宗村區域的黎巴嫩真主黨地下武裝基礎設施。根據宣告披露的細節，被摧毀的地下隧道長度超過200米，深度超過25米。隧道內藏有數百件武器以及數個發射井，這些設施此前意圖用於打擊以色列領土及其公民。宣告稱，在摧毀該基礎設施之前，以色列已向美國進行了提前通報。宣告表示，以軍指揮官和士兵將繼續駐留在黎巴嫩南部的“安全區”內，並將繼續摧毀武裝基礎設施、消除對以色列北部社群的威脅。（央視新聞）
+
+---
+
+### 2026-06-29 05:11:32  #公司
+
+【19家A股上市公司釋出上半年業績預告 多家公司預計淨利同比增長超100%】隨著6月接近尾聲，A股2026年半年報業績預告大幕已拉開。資料顯示，截至6月28日《證券日報》記者發稿時，已有19家A股上市公司預告上半年業績，其中，恆逸石化股份有限公司（以下簡稱“恆逸石化”）、衛星化學股份有限公司（以下簡稱“衛星化學”）、杭州長川科技股份有限公司（以下簡稱“長川科技”）、惠州億緯鋰能股份有限公司（以下簡稱“億緯鋰能”）等上市公司預計上半年歸屬於上市公司股東的淨利潤同比增長上限超100%，廣東銀禧科技股份有限公司（以下簡稱“銀禧科技”）、聖元環保股份有限公司（以下簡稱“聖元環保”）等上市公司預計上半年歸屬於上市公司股東的淨利潤同比增長上限超50%。
 
 ---
 
@@ -21264,101 +21348,5 @@ South Korea's Lee aims to develop five defense innovation companies each valued 
 ### 2026-06-26 13:20:36  #市場 #央行 #國際
 
 【機構：美國10年期國債收益率料將缺乏明確趨勢】SEB的Jussi Hiljanen在一份報告中表示，對達成一項可持續的美伊和平協議的希望，推動美國10年期國債收益率升向4.40%，未來幾個月該收益率可能會在這一水平附近徘徊。“我們認為，10年期國債收益率在未來幾個月很可能缺乏明確趨勢，主要在4.30%-4.50%的區間內波動，“該首席策略師表示。Hiljanen說，SEB仍然認為，單靠衝突的可持續解決不太可能引發收益率的下行趨勢，這還需要宏觀資料和美聯儲溝通的支援。
-
----
-
-### 2026-06-26 13:20:24  #MKT News #Market Themes #Chip Wars #002129.SZ #Impact bullish
-
-China A-share semiconductor materials sector stayed active in the afternoon. Youyan Gui touched a 20CM limit-up; earlier TCL Zhonghuan hit the daily limit. Lian Micro, Shanghai Silicon Industry and Xi'an Yicai followed with gains.
-
----
-
-### 2026-06-26 13:18:54  #國際
-
-【澤連斯基稱已批准新情報行動】烏克蘭總統澤連斯基25日在社交媒體發文稱已批准一項為期40天的情報行動，但他未透露任何細節。澤連斯基稱，這一情報行動旨在“迫使”俄方結束戰事。連續數月以來，烏克蘭國家安全域性透過使用各類無人機，在烏前線陣地上展現了“最高水平”的作戰效能。烏國家安全域性下屬的“阿爾法”特種作戰中心在打擊俄軍人員及裝備方面“處於領先地位”。據外媒報道，烏克蘭無人機的襲擊目標主要為俄軍事設施、武器裝備以及油氣工業設施，此類行動通常由烏克蘭不同情報機構負責執行。（新華社）
-
----
-
-### 2026-06-26 13:18:50
-
-【鋰電池板塊持續走弱】永杉鋰業、融捷股份觸及跌停，海科新源、容百科技、蔚藍鋰芯、豐元股份、孚日股份等跌幅靠前。
-
----
-
-### 2026-06-26 13:18:28  #市場
-
-半導體矽片概念午後持續活躍，有研矽觸及20CM漲停，此前TCL中環漲停，立昂微、滬矽產業、西安奕材跟漲。
-
----
-
-### 2026-06-26 13:16:54  #其他
-
-【招商蛇口60.9億元摘得杭州永久河宅地 成交樓面價51577元/平】杭州今日成功出讓永久河宅地。該地塊規劃建築面積11.81萬平方米，起始價34.04億元，吸引房企激烈爭奪，競價歷時約3小時、共243輪。最終，該地塊由招商蛇口以60.94億元競得，成交樓面價51577元/平方米，溢價率79.03%。
-
----
-
-### 2026-06-26 13:16:33  #其他
-
-【國家能源局局長：中國能源體系經受住了衝擊】王宏志在當天的國新辦釋出會上說，今年2月底以來，全球能源市場出現劇烈波動，很多國家出現不同程度的能源短缺、油價暴漲、供應緊張，中國能源體系經受住了衝擊，供需總體平衡、價格總體穩定，展現了強大韌性。
-
----
-
-### 2026-06-26 13:16:33  #MKT News #Brent #Impact bullish #XAUUSD #DXY
-
-【Russia says shot down 47 drones headed for Moscow】Moscow Mayor Sobyanin said on social media that between 02:24 and 07:23 local time on June 26 Russian air-defence systems shot down 47 drones headed for Moscow. The Russian Defence Ministry said early on June 26 that overnight its air-defence forces intercepted and destroyed 660 Ukrainian fixed-wing drones across multiple locations.
-
----
-
-### 2026-06-26 13:15:39  #國際
-
-【俄稱擊落47架飛向莫斯科的無人機】當地時間6月26日，總檯記者獲悉，根據俄羅斯首都莫斯科市長索比亞寧透過社交媒體釋出的資訊，當天2時24分至7時23分，俄軍防空系統已擊落47架飛向莫斯科的無人機。據俄羅斯國防部26日清晨通報，過去一夜，俄軍防空力量在多地攔截並摧毀660架烏克蘭固定翼無人機。
-
----
-
-### 2026-06-26 13:14:59  #Trading Economics #Markets #Currency #Importance 1
-
-FX Updates: Australian Dollar Depreciates by 0.29% — Top currency losers are Australian Dollar (-0.29%) and Turkish Lira (-0.25%). Gains are led by Japanese Yen (0.10%) and British Pound (0.07%). Meanwhile, Euro and Dollar Index were little changed.
-
----
-
-### 2026-06-26 13:14:09  #其他
-
-【千億基金叢集釋出 東莞松山湖科技金融集聚區正式開園】6月25日，東莞松山湖科技金融集聚區舉行開園儀式。活動現場，八大合作平臺集中揭牌、30餘家機構分批簽約入駐、千億級基金叢集重磅釋出，多項標誌性成果集中落地，標誌著東莞暢通“科技—產業—金融”良性迴圈邁出實質性一步，為當地向“科創制造強市”躍遷注入核心金融動能。
-
----
-
-### 2026-06-26 13:13:49  #市場 #焦點
-
-滬深兩市成交額超2.5萬億元，較上日此時縮量360億元。
-
----
-
-### 2026-06-26 13:13:11  #其他
-
-【內蒙古奇乾鄉正式接通大網電 當地告別“靠天用電”歷史】6月26日，10千伏奇乾線新建工程正式投運送電，內蒙古額爾古納市奇乾鄉正式接通大網電，當地居民和駐防單位徹底告別“靠天用電”的歷史，這標誌著內蒙古所有行政鄉全部實現大網電覆蓋。（央視）
-
----
-
-### 2026-06-26 13:12:07  #其他
-
-【英國王室說白金漢宮翻修後國王不住】英國王室25日宣佈，白金漢宮明年完成大規模翻修後，國王查爾斯三世和王后卡米拉不會在這裡居住。這一決定意味著更多公眾有機會參觀這處建築。查爾斯和卡米拉決定繼續留在白金漢宮附近的克拉倫斯宮居住，查爾斯從王儲時期就在這裡居住。英國王室司庫詹姆斯·查默斯25日說，白金漢宮現在和將來都是王室禮儀活動中心、主要辦公場所。（新華社）
-
----
-
-### 2026-06-26 13:11:31  #其他
-
-【港股人工智慧股震盪走低 長飛光纖光纜跌超14%】港股人工智慧股震盪走低，長飛光纖光纜跌超14%，天數智芯跌超13%，智譜跌超11%，MINIMAX-W跌超10%。
-
----
-
-### 2026-06-26 13:10:50  #Trading Economics #Economy #Singapore #Industrial Production #Importance 1
-
-Singapore Manufacturing Output Below Forecasts — Singapore's manufacturing production grew by 13% year-on-year in May 2026, slowing from a downwardly revised six-month high of 16.5% in the previous month and missing market expectations of 17%. Output increased at a slower pace in electronics (35.8% vs 40.3% in April), particularly semiconductors (37.0% vs 43.5%) and infocomms & consumer electronics (59.2% vs 76.0%). Overall manufacturing output was also weighed down by a continued decline in biomedical manufacturing (-24.2% vs -16.1%), a contraction in transport engineering (-5.0% vs 10.8%), and a sharp moderation in general manufacturing industries (1.8% vs 17.7%). On the other hand, output fell at a softer pace in chemicals (-11.5% vs -17.6%), while growth in precision engineering accelerated (32.2% vs 16.4%). On a monthly basis, manufacturing production fell 0.7%, reversing an upwardly revised 6.2% increase in April. For the January–May period, manufacturing production rose 10.7%.
-
----
-
-### 2026-06-26 13:10:45  #MKT News #Important #Market Themes #AI Revolution #06869.HK #Impact bearish #09903.HK #02513.HK
-
-Hong Kong-listed AI stocks slid: Yangtze Optical Fibre and Cable (06869.HK) fell more than 14%, Tianshu AI (09903.HK) fell more than 13%, Zhipu AI (02513.HK) fell more than 11% and MINIMAX-W (00100.HK) fell more than 10%.
 
 ---
