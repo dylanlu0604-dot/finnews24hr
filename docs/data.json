@@ -1,7 +1,16 @@
 {
-  "updated": "2026-06-29 04:26:01",
-  "count": 17985,
+  "updated": "2026-06-29 04:30:03",
+  "count": 17984,
   "items": [
+    {
+      "id": "4959151",
+      "time": "2026-06-29 04:26:24",
+      "tags": [
+        "其他",
+        "焦點"
+      ],
+      "text": "美伊將於週二在卡達首都多哈會面，磋商霍爾木茲海峽相關爭端。"
+    },
     {
       "id": "mkt:019f0fe6-dc43-7aab-8c02-e902d6490539",
       "time": "2026-06-29 04:23:35",
@@ -164551,22 +164560,6 @@
         "XAUUSD"
       ],
       "text": "【US diplomat says progress in US-Iran talks on keeping Strait of Hormuz open】A US diplomat told Axios that US-Iran talks, which began Sunday morning local time and have continued in various formats with minimal interruption, made progress on keeping the Strait of Hormuz fully open after recent Iranian statements about possible closure. The talks also addressed a Lebanon de‑escalation mechanism and ceasefire implementation. The diplomat said discussions covered all components of the nuclear agreement and were productive on implementing a memorandum of understanding, aligning positions, and planning political and technical follow‑up."
-    },
-    {
-      "id": "4946653",
-      "time": "2026-06-22 04:27:31",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗廣播電視臺一名記者表示，目前尚無法確認談判是否已經結束，但種種跡象顯示伊朗代表團或許正準備返回伊朗。"
-    },
-    {
-      "id": "4946652",
-      "time": "2026-06-22 04:26:05",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗革命衛隊聖城旅指揮官伊斯梅爾·卡阿尼警告以色列，若繼續推行當下政策，以色列或將重演2000年從黎巴嫩南部撤軍的結局。"
     }
   ]
 }
