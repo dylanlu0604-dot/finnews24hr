@@ -1,7 +1,23 @@
 {
-  "updated": "2026-06-28 14:17:54",
-  "count": 18159,
+  "updated": "2026-06-28 14:21:58",
+  "count": 18158,
   "items": [
+    {
+      "id": "4958769",
+      "time": "2026-06-28 14:19:33",
+      "tags": [
+        "國際"
+      ],
+      "text": "科威特外交部宣告，科威特保留採取一切必要措施維護國家主權、安全與穩定的全部權利。"
+    },
+    {
+      "id": "mkt:019f0ce0-712e-7770-9d1d-1987f5c22f92",
+      "time": "2026-06-28 14:17:43",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Three world-class high-performance carbon-fiber lines commissioned】China National Building Material Group (CNBM) said three world-class high-performance carbon-fiber production lines were commissioned at Zhongfu Shenying’s Lianyungang base, covering standard, high‑strength and high‑modulus grades and adding domestic production capacity across the three main carbon-fiber segments."
+    },
     {
       "id": "4958768",
       "time": "2026-06-28 14:14:38",
@@ -166166,30 +166182,6 @@
         "國際"
       ],
       "text": "【美媒：美伊談判將聚焦核問題和以黎局勢】 據美國媒體20日報道，即將在瑞士舉行的美伊談判將聚焦伊朗核問題、以色列和黎巴嫩局勢。美國阿克西奧斯新聞網站20日援引兩名地區知情人士的話報道稱，美方希望透過首輪談判促成伊方允許聯合國核查人員訪問曾遭美國和以色列轟炸的核設施。作為交換，美方將允許伊方動用部分被凍結資金用於購買人道主義物資。美國哥倫比亞廣播公司同日援引一名參與談判的外交人員的話說，首輪談判議程中已增加了一場關於黎巴嫩真主黨與以色列停火問題的緊急會議。美國副總統萬斯20日啟程前往瑞士出席與伊朗方面的談判。萬斯在出發前對媒體說，他預計在瑞士停留一到兩天，希望談判在伊朗核問題、黎巴嫩戰線停火等方面取得進展。首輪談判旨在“確立實際架構和談判機制”，技術專家層面的工作級別磋商可能在首輪高階別談判結束後繼續在瑞士進行。（新華社）"
-    },
-    {
-      "id": "mkt:019ee8d6-59c2-7dd8-b0a3-a845fcec0c55",
-      "time": "2026-06-21 14:20:22",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Israeli military said it killed Hussein Qadla and Muhammad Farah, members of the military wings of Hamas and Palestinian Islamic Jihad."
-    },
-    {
-      "id": "4946171",
-      "time": "2026-06-21 14:19:48",
-      "tags": [
-        "國際"
-      ],
-      "text": "以色列軍方稱擊斃了哈馬斯和伊斯蘭聖戰組織軍事分支兩位成員。"
-    },
-    {
-      "id": "mkt:019ee8d4-5d74-7dd8-b0a3-a47ba2fb85b8",
-      "time": "2026-06-21 14:18:12",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Israeli military to stage scheduled exercise in Jaffa】The Israeli military said it is conducting a scheduled exercise in the Jaffa area, expected to conclude next Tuesday morning. The operation will involve concentrated movements of security forces and vehicles and associated construction activity."
     }
   ]
 }
