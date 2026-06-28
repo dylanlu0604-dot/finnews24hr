@@ -1,7 +1,31 @@
 {
-  "updated": "2026-06-28 15:03:53",
-  "count": 18157,
+  "updated": "2026-06-28 15:08:08",
+  "count": 18154,
   "items": [
+    {
+      "id": "mkt:019f0d0c-1df0-7770-9d1d-4cf96e047eeb",
+      "time": "2026-06-28 15:05:25",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Kuwaiti military said it intercepted two ballistic missiles on Sunday morning; no damage or casualties reported."
+    },
+    {
+      "id": "4958786",
+      "time": "2026-06-28 15:05:22",
+      "tags": [
+        "國際"
+      ],
+      "text": "德國地球科學研究中心（GFZ）監測：阿富汗興都庫什地區發生 6.1 級地震。"
+    },
+    {
+      "id": "4958785",
+      "time": "2026-06-28 15:05:05",
+      "tags": [
+        "國際"
+      ],
+      "text": "科威特方面稱，該國週日在本國領空攔截兩枚導彈。"
+    },
     {
       "id": "4958784",
       "time": "2026-06-28 15:01:28",
@@ -166116,58 +166140,6 @@
         "國際"
       ],
       "text": "巴基斯坦外交部：巴基斯坦總理攜代表團抵達蘇黎世。巴基斯坦總理總理、陸軍參謀長兼國防參謀長和陸軍元帥將出席高層會談，商討落實《伊斯蘭堡諒解備忘錄》相關事宜。"
-    },
-    {
-      "id": "mkt:019ee902-00de-7dd8-b0a3-ec0fc7d682a1",
-      "time": "2026-06-21 15:08:03",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Austria's foreign minister to visit China June 22-26】China's foreign ministry said Austria's foreign minister Lai Xingge will visit China June 22-26 at the invitation of China's foreign minister Wang Yi."
-    },
-    {
-      "id": "mkt:019ee900-fcec-7dd8-b0a3-e1e631d77ed2",
-      "time": "2026-06-21 15:06:56",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Pakistan's foreign ministry said its delegation will hold bilateral talks to reaffirm its commitment to dialogue and a balanced approach pending the signing of a memorandum."
-    },
-    {
-      "id": "mkt:019ee8ff-fc91-7dd8-b0a3-da67958cf4c5",
-      "time": "2026-06-21 15:05:50",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK"
-      ],
-      "text": "Pakistan's foreign ministry said talks in Switzerland were the first formal participation and engagement among all parties since the memorandum of understanding was signed electronically."
-    },
-    {
-      "id": "4946190",
-      "time": "2026-06-21 15:05:35",
-      "tags": [
-        "國際"
-      ],
-      "text": "【烏克蘭無人機襲擊刻赤半島致4死28傷】克里米亞地區行政長官謝爾蓋·阿克肖諾夫21日透過社交媒體釋出訊息稱，刻赤半島遭到烏克蘭無人機襲擊，導致4人死亡、28人受傷。他說，相關部門人員已趕赴現場，將對遇襲人員提供一切必要的幫助和支援。(新華社)"
-    },
-    {
-      "id": "4946189",
-      "time": "2026-06-21 15:04:54",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "【瑞士首輪正式會議將於北京時間19:30舉行】據沙特媒體哈達斯、阿拉伯衛星電視臺報道，美國、伊朗和巴基斯坦已開始進行雙邊及三方接觸。伊朗方面稱，首輪正式談判會議將於格林威治時間11:30（北京時間19:30）舉行。"
-    },
-    {
-      "id": "mkt:019ee8ff-07c7-7dd8-b0a3-d7aa5b8e44ce",
-      "time": "2026-06-21 15:04:48",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "【First formal round of talks in Switzerland to be held at 19:30 Beijing time】Saudi outlets Hadath and Al Arabiya report the US, Iran and Pakistan have begun bilateral and trilateral contacts. Iran says the first formal round of talks in Switzerland will take place at 11:30 GMT (19:30 Beijing time)."
     }
   ]
 }
