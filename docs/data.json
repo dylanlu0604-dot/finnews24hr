@@ -1,7 +1,23 @@
 {
-  "updated": "2026-06-29 01:00:11",
-  "count": 17992,
+  "updated": "2026-06-29 01:04:00",
+  "count": 17994,
   "items": [
+    {
+      "id": "mkt:019f0f2d-ee72-7aab-8c01-faef172e0410",
+      "time": "2026-06-29 01:01:36",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【China Earthquake Administration activates third-level response after M5.5 quake in Gaoxian, Yibin (Sichuan)】The China Earthquake Networks Center (CENC) recorded a magnitude-5.5 earthquake at 00:12 local time on June 29, 2026, centered on Gaoxian County, Yibin, Sichuan (28.50°N, 104.69°E) at a depth of 6 km. The China Earthquake Administration has activated a third-level emergency response. (Xinhua)"
+    },
+    {
+      "id": "4959081",
+      "time": "2026-06-29 01:00:24",
+      "tags": [
+        "其他"
+      ],
+      "text": "【中國地震局對四川宜賓市高縣地震啟動三級應急響應】據中國地震臺網正式測定，2026年6月29日0時12分，在四川宜賓市高縣（北緯28.50度，東經104.69度）發生5.5級地震，震源深度6公里。中國地震局啟動三級應急響應。"
+    },
     {
       "id": "4959080",
       "time": "2026-06-29 00:48:39",
