@@ -1,7 +1,325 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-06-28 13:42:03_
-_本檔包含 3577 則快訊，約 669478 字_
+_更新時間：2026-06-28 15:08:08_
+_本檔包含 3584 則快訊，約 669699 字_
+
+---
+
+### 2026-06-22 23:37:10  #其他
+
+巴拿馬港務局：巴拿馬克里斯托瓦爾港5月集裝箱吞吐量環比3月增長，達71096箱次，3月為46408箱次。
+
+---
+
+### 2026-06-22 23:37:06  #市場 #國際
+
+【斯塔默辭職後 債券交易員最關心誰來掌管英國財政大權】英國債券投資者認為，在首相基爾·斯塔默宣佈辭職後，財政大臣蕾切爾·裡夫斯的政治前景已岌岌可危，並開始評估其潛在繼任者可能對市場帶來的影響。裡夫斯一直堅持其財政規則，即透過稅收收入覆蓋政府日常開支，同時逐步降低國家債務負擔。在經歷多年政治動盪後，這一立場幫助安撫了市場情緒。這些財政規則也成為斯塔默執政時期的核心政策標籤，投資者曾多次對任何放鬆財政紀律的跡象表示反對。正因如此，確認參選首相的安迪·伯納姆也明確排除了修改現有財政框架的可能性。瑞穗歐洲、中東和非洲地區固定收益、外匯及大宗商品策略主管Jordan Rochester表示，“相比伯納姆，我更擔心誰會出任財政大臣。我非常懷疑裡夫斯是否能夠繼續留任。”
+
+---
+
+### 2026-06-22 23:36:35  #MKT News #Market Regions #Europe & UK #DAX #Impact bullish #FTSE100 #STOXX Europe 50
+
+European equities on Monday, June 22: DAX rose 107.32 points (0.43%) to 25,132.93; FTSE 100 rose 70.21 points (0.68%) to 10,433.48; CAC 40 fell 21.03 points (0.25%) to 8,400.11; STOXX Europe 50 rose 18.92 points (0.30%) to 6,312.05; IBEX 35 rose 206.93 points (1.07%) to 19,554.33; FTSE MIB fell 42.43 points (0.08%) to 52,806.50.
+
+---
+
+### 2026-06-22 23:36:13  #其他
+
+巴拿馬港務局資料顯示，5月巴拿馬巴爾博亞港集裝箱吞吐量升至221,536標準箱，3月吞吐量為153,840標準箱。
+
+---
+
+### 2026-06-22 23:34:50  #公司 #資料 #市場 #焦點
+
+【Alphabet創2月以來最大跌幅 因兩名AI領軍人物相繼離職】Alphabet週一盤中一度下跌5.9%，創下2月上旬以來的盤中最大跌幅，拖累“科技七巨頭”中的其他股票下跌。上週末，該公司流失了第二位知名AI研究人員。Google DeepMind副總裁John Jumper於週五宣佈將離職並加入Anthropic。Jumper因在AI領域的貢獻榮獲2024年諾貝爾化學獎
+
+---
+
+### 2026-06-22 23:34:05  #公司 #觀點 #國際
+
+【SpaceX將首次發行投資級債券，銀行家正進行推介】在完成創紀錄的750億美元美國IPO後，SpaceX啟動對投資級債券的首次發行，預計這將開啟一輪大規模舉債浪潮，為其在AI領域的佈局提供資金。據知情人士透露，曾為SpaceX提供短期過橋融資的幾家銀行——包括美國銀行、花旗集團、高盛、摩根大通和摩根士丹利，週一安排了與投資者的電話會議。該人士表示，預計隨後將進行債券發行，期限在5年至30年之間。
+
+---
+
+### 2026-06-22 23:33:15  #市場 #焦點 #國際
+
+【歐洲主要股指收盤漲跌不一】歐洲斯托克600指數上漲0.66%，斯托克歐洲指數上漲0.51%，歐元區藍籌股指數上漲0.53%。英國富時100指數上漲0.77%，德國DAX指數上漲0.66%，法國CAC 40指數下跌0.12%，西班牙IBEX指數上漲1.18%。
+
+---
+
+### 2026-06-22 23:32:29  #宏觀 #市場 #國際
+
+美國財政部拍賣三個月期國債，得標利率3.695%，投標倍數2.68。拍賣六個月期國債，得標利率3.840%，投標倍數2.51。
+
+---
+
+### 2026-06-22 23:32:23  #MKT News
+
+US 3-month Treasury bill auction to June 22 — percent awarded at the high (stop-out) yield 87.55%, previous 25.15%.
+
+---
+
+### 2026-06-22 23:32:22  #MKT News #Macro & Rates #Treasury Yields #DXY #Impact bullish #USDJPY #US10Y #Impact bearish
+
+U.S. 3-month Treasury auction: stop-out yield 3.695%, previous 3.64%.
+
+---
+
+### 2026-06-22 23:32:21  #MKT News #Macro & Rates #Treasury Yields #US10Y #Impact bullish
+
+US 6-month Treasury auction on June 22 — percentage of awards at the stop-out yield 97.87%, previous 14%.
+
+---
+
+### 2026-06-22 23:32:21  #MKT News #Macro & Rates #Treasury Yields #US10Y #Impact bullish #DXY #Impact bearish
+
+US 3-month Treasury auction on June 22 bid-cover ratio 2.68, prior 2.47.
+
+---
+
+### 2026-06-22 23:32:21  #MKT News #Macro & Rates #Treasury Yields #US10Y #Impact bearish
+
+U.S. six-month Treasury auction on June 22: stop-out yield 3.84%, prior 3.68%.
+
+---
+
+### 2026-06-22 23:32:16  #MKT News #Macro & Rates #Treasury Yields #US10Y #Impact bullish #DXY #XAUUSD #Impact bearish
+
+US 6-month Treasury auction on June 22: bid-cover ratio 2.51, previous 2.76.
+
+---
+
+### 2026-06-22 23:32:04  #MKT News #Economic Calendar
+
+United States | 3-Month Bill Auction Bid/Cover Ratio (Jun.22) | actual 2.68 | previous 2.47
+
+---
+
+### 2026-06-22 23:32:04  #MKT News #Economic Calendar
+
+United States | 3-Month Bill Auction Accepted at High (Jun.22) | actual 87.55% | previous 25.15%
+
+---
+
+### 2026-06-22 23:32:04  #MKT News #Economic Calendar
+
+United States | 3-Month Bill Auction High Yield Rate (Jun.22) | actual 3.695% | previous 3.64%
+
+---
+
+### 2026-06-22 23:32:03  #MKT News #Economic Calendar
+
+United States | 6-Month Bill Auction Bid/Cover Ratio (Jun.22) | actual 2.51 | previous 2.76
+
+---
+
+### 2026-06-22 23:32:03  #MKT News #Economic Calendar
+
+United States | 6-Month Bill Auction Accepted at High (Jun.22) | actual 97.87% | previous 14%
+
+---
+
+### 2026-06-22 23:32:03  #MKT News #Economic Calendar
+
+United States | 6-Month Bill Auction High Yield Rate (Jun.22) | actual 3.84% | previous 3.68%
+
+---
+
+### 2026-06-22 23:31:23  #公司
+
+【卡達工廠爆炸已致13人死亡】卡達能源大臣兼卡達能源公司執行長薩阿德·卡阿比22日表示，該國萊凡角工業城一天然氣工廠21日深夜發生的爆炸已造成13人死亡、66人受傷。卡阿比說，此次事件屬於生產事故，並非蓄意破壞或敵對行為所致。卡達內政部22日發表的宣告說，爆炸由技術故障引發。民防部門在事後迅速趕赴現場處置，目前應急救援行動仍在進行中。有關部門正對事故原因展開調查。（新華社）
+
+---
+
+### 2026-06-22 23:30:00  #Trading Economics #Markets #Colombia #Currency #Importance 1
+
+Colombian Peso Surges to 6-Year High — The Colombian peso surged to 3,425 per USD in June, around the strongest in six years, after rightwing presidential candidate de la Espriella won the presidential elections runoff. The President-elect, seen as an outsider, won the run-off after against leftist Cepeda, who was backed by outgoing President Petro, following the surprise first round win. The surge in the peso tracked similar moves for other Colombian asset classes. Espriella had pledged to cut Colombia's growing budget deficit amid the country's increasingly tight public finances, with last year's shortfall coming at 6.4% of the GDP, a reason cited by the central bank to hold rates restrictive. At the same time, the candidate also pledged to back coal mining and oil drilling in Colombia, which face opposition from the incumbent government.
+
+---
+
+### 2026-06-22 23:28:59  #國際
+
+【日本民眾抗議日美軍演攪動地區局勢】日美聯合軍演攪動地區局勢，引發日本民眾強烈反對和擔憂。日本民眾提出抗議，要求停止軍演，避免加劇地區緊張。（CCTV國際時訊）
+
+---
+
+### 2026-06-22 23:28:42  #國際
+
+白宮新聞秘書萊維特：自2025年美國政府入股以來，英特爾股價暴漲494%。
+
+---
+
+### 2026-06-22 23:28:28  #Trading Economics #Markets #Commodity #Importance 0
+
+Coffee Prices Below Recent Highs — Arabica coffee futures traded around $2.70 per pound, after touching May highs earlier in the month, supported by a stronger US dollar and signs of progress in US-Iran negotiations. The closure of the Strait of Hormuz has tightened coffee supply chains by pushing up global shipping, insurance, fertiliser, and fuel costs, increasing pressure on coffee importers and roasters. At the same time, traders are closely monitoring the El Niño weather pattern, with attention extending beyond the current harvest to its potential impact on Brazil’s 2026/27 production cycle. Coffee trader Commercial noted that El Niño could delay seasonal rains in Brazil this September and October, a critical period for tree flowering, potentially weighing on the country’s upcoming crop. Brazil’s coffee harvest for the 2026/27 season has reached 39% of the planted area as of June 17, according to Safras & Mercado, below 43% a year earlier and slightly under the five-year average of 40%.
+
+---
+
+### 2026-06-22 23:28:06  #市場
+
+奈飛股價下跌高達4.6%，跌破斐波那契50%回撥位。
+
+---
+
+### 2026-06-22 23:27:48  #國際
+
+白俄羅斯與塞爾維亞計劃簽署社會及勞動領域合作諒解備忘錄。
+
+---
+
+### 2026-06-22 23:27:42  #其他
+
+巴西國家開發銀行（BNDES）行長梅爾卡丹特：盧拉要求本行盤活其股權組合，投資人工智慧與生物技術領域。
+
+---
+
+### 2026-06-22 23:27:34  #MKT News
+
+IRNA said Iran's interactions with the International Atomic Energy Agency will continue under existing procedures.
+
+---
+
+### 2026-06-22 23:27:07  #國際
+
+巴基斯坦常駐聯合國安理會代表：在地區局勢脆弱的大環境下，敘利亞領導層展現出的治理智慧，以及其聚焦本國核心要務與戰後重建的做法值得肯定。
+
+---
+
+### 2026-06-22 23:27:00  #MKT News #Important
+
+Iran's foreign ministry spokesperson said Tehran did not negotiate the nuclear issue in talks in Switzerland on Sunday and did not accept any new commitments.
+
+---
+
+### 2026-06-22 23:26:37  #國際
+
+伊朗外交部發言人：德黑蘭並未就核問題進行談判，且在週日於瑞士舉行的會談中未接受任何新承諾。
+
+---
+
+### 2026-06-22 23:26:25  #國際
+
+印度國防秘書拉傑什·庫馬爾·辛格於2026年6月22日會見以色列國防部總司長、退役少將阿米爾·巴拉姆。雙方會談重點圍繞透過聯合研發、聯合生產，以及在下一代軍事技術與先進國防裝備領域開展協作，深化印以防務合作展開。
+
+---
+
+### 2026-06-22 23:25:24  #國際
+
+伊朗官員：結合昨日瑞士談判情況，德黑蘭在長達18小時的會談中未就核議題展開磋商，也未作出任何新承諾。
+
+---
+
+### 2026-06-22 23:24:48  #MKT News #Important
+
+Iran's foreign ministry spokesman said Tehran's interactions with the IAEA will require approval from Iran's parliament and a decision by the Supreme National Security Council.
+
+---
+
+### 2026-06-22 23:24:46  #公司 #國際
+
+迪士尼旗下美國廣播公司（ABC）將推出廣播宣傳活動，鼓勵觀眾在聯邦通訊委員會的程式中對《觀點》節目以及本廣播公司表示支援。
+
+---
+
+### 2026-06-22 23:23:39  #焦點 #國際
+
+伊朗外交部發言人表示，德黑蘭與國際原子能機構（IAEA）的互動將須經伊朗議會批准，並遵循最高國家安全委員會的決定。
+
+---
+
+### 2026-06-22 23:23:30  #公司 #國際
+
+印度航空執行長威爾遜：本人任期已進入最後階段，普拉迪普·辛格·卡羅拉的經驗將助力實現向新任執行長的平穩交接。
+
+---
+
+### 2026-06-22 23:23:06  #央行 #美聯儲
+
+【RBC策略師稱美股能夠承受美聯儲進行兩次左右的加息】RBCCapitalMarkets的LoriCalvasina表示，只要美聯儲的緊縮週期保持適度，美國股市應該能夠承受加息。“只要未來12個月內進行兩次左右幅度分別為25個基點的加息，我認為股市最終會安好，”該銀行美國股票策略主管Calvasina週一表示，“股市似乎能承受一切適度進行。”上週的美聯儲政策會議令交易員猝不及防，美聯儲新任主席凱文·沃什明確表示不會容忍高通脹。不過，美股在因假期而縮短的交易周仍實現上漲，為連續第二週上漲，也是過去12周內的第11次上漲。標普500指數自3月30日觸及2026年低點以來已上漲18%。
+
+---
+
+### 2026-06-22 23:22:22  #央行 #國際
+
+【RBC策略師稱美股能夠承受美聯儲進行兩次左右的加息】RBC Capital Markets的Lori Calvasina表示，只要美聯儲的緊縮週期保持適度，美國股市應該能夠承受加息。“只要未來12個月內進行兩次左右幅度分別為25個基點的加息，我認為股市最終會安好，”該銀行美國股票策略主管Calvasina週一表示，“股市似乎能承受一切適度進行。”
+
+---
+
+### 2026-06-22 23:21:46  #公司 #市場
+
+谷歌母公司Alphabet跌超7%，創4月底以來新低，盤中市值蒸發3200億美元。
+
+---
+
+### 2026-06-22 23:21:40  #其他
+
+研究人員稱，勒索軟體組織公佈塔塔電子超過20萬份洩露檔案。
+
+---
+
+### 2026-06-22 23:21:28  #其他
+
+塔塔電子表示，幾周前其部分系統發生了一起網路安全事件，目前已排查到該事件。
+
+---
+
+### 2026-06-22 23:21:24  #其他
+
+研究人員稱，塔塔電子資料洩露包含據稱屬於蘋果、特斯拉的商業機密檔案。
+
+---
+
+### 2026-06-22 23:21:15  #公司
+
+訊息人士稱，蘋果公司正在排查其受塔塔電子資料洩露事件影響的範圍，目前全面分析工作正在進行中。
+
+---
+
+### 2026-06-22 23:21:09  #國際
+
+伊朗外交部發言人：伊朗將按照現有程式繼續與國際原子能機構開展互動。
+
+---
+
+### 2026-06-22 23:20:35  #MKT News #Important #Commodities #Energy #WTI #Impact bearish #Brent
+
+WTI crude fell below $74/bbl, down 4.22% intraday; Brent fell below $77/bbl, down 3.91% intraday.
+
+---
+
+### 2026-06-22 23:20:00  #市場 #焦點
+
+布倫特原油失守77美元/桶，日內跌3.81%。
+
+---
+
+### 2026-06-22 23:19:32  #國際
+
+【內塔尼亞胡稱以軍在黎南部行動“不受限制”】以色列總理內塔尼亞胡22日發表宣告稱，以軍在黎巴嫩南部擁有“充分行動自由”，可打擊針對以軍士兵和以色列北部居民的任何現實或潛在威脅，以方將繼續在黎南部“安全區”駐留，直至相關安全需求得到滿足。內塔尼亞胡在宣告中稱，他與國防部長卡茨向以軍下達的指令“明確且沒有改變”。以軍在這一問題上“不受任何限制”，他本人及整個以色列社會都支援駐紮在黎南部的以軍部隊。（新華社）
+
+---
+
+### 2026-06-22 23:19:15  #國際
+
+以色列國防軍：2026年年初至今已繳獲240餘件槍支，新證據顯示“恐怖組織”在朱迪亞-撒馬利亞地區平民區紮根活動。
+
+---
+
+### 2026-06-22 23:17:58  #市場
+
+卡達股市受拉斯拉凡工業城爆炸事件影響下跌，阿聯酋市場上漲。
+
+---
+
+### 2026-06-22 23:17:19  #其他
+
+熱浪席捲西歐，萊茵河水位持續走低，嚴重阻礙燃油運往西歐部分地區，駁船載貨量被迫降至正常標準的一半以下。
+
+---
+
+### 2026-06-22 23:13:49  #MKT News #Star Stocks #NVIDIA #Market Themes #Magnificent 7 #NVDA.O #Impact bullish
+
+【SpaceX signs roughly $6.3 billion compute deal with Reflection AI】Documents reviewed by CNBC show SpaceX has signed a compute deal with open-source AI developer Reflection AI, making the firm the latest external company to access Elon Musk’s Colossus compute infrastructure. Under the agreement Reflection gains immediate use of NVIDIA GB300 chips and will pay SpaceX $150m per month from July 1, 2026 through 2029; if fully executed total payments would be about $6.3bln. The contract permits either party to terminate after three months from the effective date with 90 days’ notice.
 
 ---
 
@@ -21279,288 +21597,5 @@ Iranian lawmaker Novin said any understanding reached with the US is based on a 
 ### 2026-06-21 15:08:24  #國際
 
 巴基斯坦外交部：巴基斯坦總理攜代表團抵達蘇黎世。巴基斯坦總理總理、陸軍參謀長兼國防參謀長和陸軍元帥將出席高層會談，商討落實《伊斯蘭堡諒解備忘錄》相關事宜。
-
----
-
-### 2026-06-21 15:08:03  #MKT News
-
-【Austria's foreign minister to visit China June 22-26】China's foreign ministry said Austria's foreign minister Lai Xingge will visit China June 22-26 at the invitation of China's foreign minister Wang Yi.
-
----
-
-### 2026-06-21 15:06:56  #MKT News
-
-Pakistan's foreign ministry said its delegation will hold bilateral talks to reaffirm its commitment to dialogue and a balanced approach pending the signing of a memorandum.
-
----
-
-### 2026-06-21 15:05:50  #MKT News #Market Regions #Europe & UK
-
-Pakistan's foreign ministry said talks in Switzerland were the first formal participation and engagement among all parties since the memorandum of understanding was signed electronically.
-
----
-
-### 2026-06-21 15:05:35  #國際
-
-【烏克蘭無人機襲擊刻赤半島致4死28傷】克里米亞地區行政長官謝爾蓋·阿克肖諾夫21日透過社交媒體釋出訊息稱，刻赤半島遭到烏克蘭無人機襲擊，導致4人死亡、28人受傷。他說，相關部門人員已趕赴現場，將對遇襲人員提供一切必要的幫助和支援。(新華社)
-
----
-
-### 2026-06-21 15:04:54  #焦點 #國際
-
-【瑞士首輪正式會議將於北京時間19:30舉行】據沙特媒體哈達斯、阿拉伯衛星電視臺報道，美國、伊朗和巴基斯坦已開始進行雙邊及三方接觸。伊朗方面稱，首輪正式談判會議將於格林威治時間11:30（北京時間19:30）舉行。
-
----
-
-### 2026-06-21 15:04:48  #MKT News #Important
-
-【First formal round of talks in Switzerland to be held at 19:30 Beijing time】Saudi outlets Hadath and Al Arabiya report the US, Iran and Pakistan have begun bilateral and trilateral contacts. Iran says the first formal round of talks in Switzerland will take place at 11:30 GMT (19:30 Beijing time).
-
----
-
-### 2026-06-21 15:03:02  #宏觀 #國際
-
-【奧地利外長賴辛格將訪華】外交部發言人宣佈：應中共中央政治局委員、外交部長王毅邀請，奧地利外長賴辛格將於6月22日至26日訪華。（外交部）
-
----
-
-### 2026-06-21 15:00:15  #其他
-
-【航行警告！渤海實彈射擊】據中國海事局網站訊息，唐山海事局釋出航行警告，6月22日0時至6月25日24時，渤海部分海域進行實彈射擊活動，禁止駛入。
-
----
-
-### 2026-06-21 15:00:02  #其他
-
-【客流同比上升超100%，端午假期第二日上海外灘、南京路迎大客流】端午小長假期間，上海外灘、南京路等區域迎來大客流。據“上海黃浦”微信公眾號訊息， 2026年6月20日，外灘濱水區累計客流34萬人次，同比上升112.5%；南京路步行街累計客流20.2萬人次，同比上升143.4%；豫園累計客流13.8萬人次，同比上升122.6%。
-
----
-
-### 2026-06-21 14:58:39  #其他
-
-俄任命的克里米亞州長稱，燃料僅供給保障克里米亞運作與安全的政府機構。
-
----
-
-### 2026-06-21 14:58:35  #其他
-
-俄任命的克里米亞州長稱，克里米亞加油站已停止供應燃油——無論現金、非現金支付，還是面向個人及法人實體的燃油券都無法加油。
-
----
-
-### 2026-06-21 14:47:52  #公司
-
-【端午假期國家電網保障電力供應平穩有序】端午期間，國家電網廣大員工堅守運維保電與工程建設一線，統籌做好重點活動保供電、汛期安全防護、民生服務保障各項工作，為節日電力平穩執行和迎峰度夏提供堅強支撐。當前正值南方梅汛期，國家電網加強監測預警、裝置運維和應急值守。在安徽宣城，古泉換流站每日開展例行巡視，強化重過載裝置、充油裝置的特巡特護，依託“人工+機器人+影片監控+無人機”立體巡檢體系，實時跟蹤關鍵資料，精準掌握裝置執行狀態。在福建，國網福建電力充分運用配電自動化、智慧輔控系統、紅外測溫等技術手段，對重點線路和裝置實施24小時監控巡視，累計投入應急發電車157輛、發電機56臺、搶修車輛609臺，安排值守人員2620人。為守護福建長樂三溪村沿襲600多年的“夜賽龍舟”端午習俗，國網福州供電公司構建“常規巡檢+智慧監測+儲能兜底”三重保電體系，保障可靠用電。國網漳州供電公司啟動“地空配合、日夜巡護”保電模式，接入應急發電車全程駐守，保障“龍江歲月杯”龍舟賽和晚會演出供電。（新華社）
-
----
-
-### 2026-06-21 14:45:11  #MKT News #WTI #Impact bearish #Brent
-
-Iran's central bank governor said he hopes to reach an agreement with the US in coming days; restoring oil exports and resource flows would create better conditions.
-
----
-
-### 2026-06-21 14:42:55  #國際
-
-伊朗石油部長：若西方國家恪守相關共識精神，石油產業將成為伊美最終和平協議的核心試驗場。
-
----
-
-### 2026-06-21 14:41:58  #MKT News
-
-Iran's central bank governor said foreign exchange reserves rose by USD 4.5 bln during the war.
-
----
-
-### 2026-06-21 14:40:17  #市場
-
-科威特政府資料顯示，5月消費者物價指數環比上漲0.07%。
-
----
-
-### 2026-06-21 14:40:10  #市場
-
-科威特政府資料顯示，5月消費者物價指數同比上漲2.49%。
-
----
-
-### 2026-06-21 14:39:30  #MKT News #Commodities #Energy #WTI #Impact bullish #Brent
-
-【Ukraine again strikes Russian oil terminal】Russia's regional authorities said Ukrainian drones struck an oil terminal in Krasnodar Krai, sparking a fire. Ukrainian drones also hit a passenger ferry, killing one.
-
----
-
-### 2026-06-21 14:38:44  #國際
-
-當地官員稱，俄羅斯克拉斯諾達爾地區一處石油碼頭遭烏克蘭無人機襲擊後起火。
-
----
-
-### 2026-06-21 14:38:40  #國際
-
-當地政府表示，烏克蘭無人機襲擊俄羅斯克拉斯諾達爾地區一艘客運渡輪，造成一人死亡。
-
----
-
-### 2026-06-21 14:38:36  #國際
-
-俄任命的克里米亞州長稱，烏克蘭無人機襲擊克里米亞，造成4人死亡、28人受傷。
-
----
-
-### 2026-06-21 14:33:58  #公司 #市場 #國際
-
-【今日特朗普要聞】
-1、特朗普稱，霍爾木茲海峽60天寬限期結束後不會徵收通行費，除非通行費由美國徵收並所有。但如果不能達成協議，美國或將收取霍爾木茲海峽通行費。
-2、特朗普坦言擔憂全球經濟崩盤是其簽署美伊臨時和平諒解備忘錄的核心原因，這份協議重開霍爾木茲海峽、豁免伊朗原油制裁並帶動油價下跌、美股上漲，而美方對經濟危機的顧慮也使其在美伊後續談判中處於籌碼不足的弱勢。
-3、特朗普稱，伊朗在軍事上“已被徹底擊敗”。
-4、特朗普重申沒有美國便沒有以色列，稱自己終止伊核協議、打擊伊朗核設施才保全以色列，雖與內塔尼亞胡交好但要求其保持理智，並篤定以色列會聽從自己、美方能夠約束以方襲擊黎巴嫩。
-5、特朗表態，已不再將美國人工智慧公司Anthropic視作國家安全威脅。
-6、特朗普在社交媒體發文，稱義大利總理梅洛尼於 G7 峰會期間多次求合影，指責其在防伊朗擁核議題上不配合美方，還拒絕開放本國機場跑道給美軍使用，給美方帶來極大後勤阻礙，並稱美國每年投入鉅額資金守護義大利等北約盟友。
-7、特朗普將於下週三出席參議院共和黨午餐會。
-
----
-
-### 2026-06-21 14:27:28  #國際
-
-【世界盃塞內加爾隨隊記者遭遇簽證難題】本屆世界盃，伊朗隊的三場小組賽均在美國境內舉行。但美國對駐地位於墨西哥蒂華納市的伊朗隊施加了嚴格的行程限制，僅允許伊朗隊在比賽日前一天入境美國，並要求其在賽後當天離開美國。這一要求給伊朗隊的備戰造成極大不便。不僅是伊朗，央視記者近日在美國探訪正在訓練的塞內加爾隊時發現，美國給隨隊報道的塞內加爾記者簽發的是單次入境簽證，給報道工作也帶來困難。（央視新聞）
-
----
-
-### 2026-06-21 14:26:52  #國際
-
-【伊朗最高領袖哈梅內伊的軍事顧問警示：不要對伊美談判抱有樂觀情緒】伊朗最高領袖哈梅內伊的軍事顧問週日警示，不要對伊美談判抱有樂觀情緒，他稱美國是在無法逼迫伊朗屈服後才轉向談判渠道。他在社交平臺 X 上發文表示：“美國原本打算推行‘以實力求和平’戰略，迫使伊朗投降。如今該策略已然失敗，美方走投無路，才執意要開展談判。”這位前伊朗革命衛隊指揮官補充道：“任何樂觀心態都會被敵人加以利用。”
-
----
-
-### 2026-06-21 14:26:09  #MKT News
-
-【Iran brigadier general warns optimism could be exploited】An Iranian brigadier general told state-affiliated Fars News the US sought to force Iran's submission via a "peace through strength" strategy and, having failed, is now desperately pushing for negotiations. He said the enemy has proven untrustworthy and warned: "We must remain vigilant; any optimism could be exploited."
-
----
-
-### 2026-06-21 14:23:50  #國際
-
-伊朗政府在社交媒體上釋出談判團隊在飛機上進行討論的圖片。
-
----
-
-### 2026-06-21 14:23:31  #公司 #國際
-
-【美媒：美伊談判將聚焦核問題和以黎局勢】 據美國媒體20日報道，即將在瑞士舉行的美伊談判將聚焦伊朗核問題、以色列和黎巴嫩局勢。美國阿克西奧斯新聞網站20日援引兩名地區知情人士的話報道稱，美方希望透過首輪談判促成伊方允許聯合國核查人員訪問曾遭美國和以色列轟炸的核設施。作為交換，美方將允許伊方動用部分被凍結資金用於購買人道主義物資。美國哥倫比亞廣播公司同日援引一名參與談判的外交人員的話說，首輪談判議程中已增加了一場關於黎巴嫩真主黨與以色列停火問題的緊急會議。美國副總統萬斯20日啟程前往瑞士出席與伊朗方面的談判。萬斯在出發前對媒體說，他預計在瑞士停留一到兩天，希望談判在伊朗核問題、黎巴嫩戰線停火等方面取得進展。首輪談判旨在“確立實際架構和談判機制”，技術專家層面的工作級別磋商可能在首輪高階別談判結束後繼續在瑞士進行。（新華社）
-
----
-
-### 2026-06-21 14:20:22  #MKT News
-
-Israeli military said it killed Hussein Qadla and Muhammad Farah, members of the military wings of Hamas and Palestinian Islamic Jihad.
-
----
-
-### 2026-06-21 14:19:48  #國際
-
-以色列軍方稱擊斃了哈馬斯和伊斯蘭聖戰組織軍事分支兩位成員。
-
----
-
-### 2026-06-21 14:18:12  #MKT News
-
-【Israeli military to stage scheduled exercise in Jaffa】The Israeli military said it is conducting a scheduled exercise in the Jaffa area, expected to conclude next Tuesday morning. The operation will involve concentrated movements of security forces and vehicles and associated construction activity.
-
----
-
-### 2026-06-21 14:13:49  #國際
-
-以色列軍方：此次在加沙地帶打擊的哈馬斯小組，曾為該組織轉移超 5 億謝克爾資金。
-
----
-
-### 2026-06-21 14:12:59  #焦點 #國際
-
-伊朗政府：我們談判代表團已做好準備，即將開啟外交磋商。
-
----
-
-### 2026-06-21 14:12:44  #MKT News #WTI #Impact bearish #Brent #XAUUSD
-
-Iran's government says its negotiating delegation is ready to begin diplomatic consultations soon.
-
----
-
-### 2026-06-21 14:09:30  #MKT News
-
-Swiss foreign ministry said a US delegation is en route to Birgen Mountain.
-
----
-
-### 2026-06-21 14:07:05  #國際
-
-【瑞士外交部證實美國代表團抵達瑞士】瑞士外交部今天（6月21日）在社交媒體上表示歡迎美國代表團抵達瑞士，並稱美國代表團正在前往比爾根山的途中。（CCTV國際時訊）
-
----
-
-### 2026-06-21 14:04:12  #國際
-
-伊朗農業部長：我們一直按正常計劃進口基本商品，即使在戰爭期間也未出現任何中斷，並將繼續推進。隨著海上封鎖解除及60天視窗期的開啟，基本商品進口將更加便利，成本也會降低。
-
----
-
-### 2026-06-21 14:03:14  #MKT News
-
-Iran's agriculture minister said the lifting of a maritime blockade and the opening of a 60-day window would ease imports of essential commodities and lower costs.
-
----
-
-### 2026-06-21 14:03:03  #MKT News
-
-Iran's agriculture minister said imports of basic commodities have proceeded as scheduled with no interruptions even during wartime and will continue.
-
----
-
-### 2026-06-21 13:58:58  #其他
-
-【飛豬：端午假期人均預訂金額同比增長16%】6月21日，飛豬釋出的《2026端午假期出遊快報》顯示，消費者的品質旅行偏好明顯，人均預訂金額同比增長16%。平臺上中國境內酒店間夜量同比增長30%以上，其中，88VIP帶來的酒店間夜量增長超60%。
-
----
-
-### 2026-06-21 13:57:54  #國際
-
-【世界盃歷史第1000場比賽  日本隊4比0勝突尼西亞隊】美加墨世界盃F組第二輪日本隊4:0戰勝突尼西亞隊。這是世界盃歷史上的第1000場比賽。（新華社）
-
----
-
-### 2026-06-21 13:57:43  #MKT News #Important #Brent #Impact bearish #XAUUSD #DXY
-
-【US, Iran, Pakistan negotiators arrive in Switzerland】US Vice President Vance, Iran’s negotiating delegation and Pakistan’s prime minister and army chief have arrived in Switzerland to begin technical talks. Vance said US‑Iran discussions will focus on nuclear issues and a ceasefire in Lebanon; Iranian officials say ending the Lebanon conflict is their delegation’s top priority.
-
----
-
-### 2026-06-21 13:55:29  #其他
-
-【買家鑽平臺“僅退款”空子被拘 總檯記者調查惡意退貨亂象】“七天無理由退貨”是消費者權益保護法的規定。之所以有這樣的規定，是因為電商購物只能憑圖片和描述下單，消費者難以充分了解商品真實情況，消費者權利需要平衡。但令人意想不到的是，一位電商商家賣出20臺品牌充電器，買家退貨後竟然變成了沙子，而這起事件的發生居然正是不法分子利用了“七天無理由退貨”這一規定。（央視新聞）
-
----
-
-### 2026-06-21 13:53:50  #MKT News #Market Themes #AI Revolution
-
-Amazon founder Jeff Bezos said artificial intelligence could cause worker shortages rather than widespread unemployment.
-
----
-
-### 2026-06-21 13:47:40  #其他 #焦點
-
-【巴基斯坦總理和陸軍參謀長抵達瑞士】巴基斯坦總理夏巴茲·謝里夫與陸軍參謀長穆尼爾已抵達瑞士。（CCTV國際時訊）
-
----
-
-### 2026-06-21 13:47:20  #MKT News #Important
-
-Al Jazeera reports Pakistan's army chief has arrived in Switzerland to participate in US-Iran talks.
-
----
-
-### 2026-06-21 13:42:57  #MKT News #WTI #Impact bullish #Brent #XAUUSD
-
-【US, Iran send senior officials to Switzerland despite mutual violation claims — analyst】Despite mutual accusations of violations, the US and Iran have each sent senior officials to talks in Switzerland because both have vested interests in ending the conflict, said Sina Azodi, director of the Middle East Program at George Washington University. Azodi said Iran views Israeli strikes on Lebanon as breaching a memorandum of understanding, while Washington could interpret Tehran’s threats to close the Strait of Hormuz as a breach; Tehran may be testing whether Washington can rein in Israel and halt hostilities in Lebanon.
 
 ---

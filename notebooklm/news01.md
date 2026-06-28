@@ -1,7 +1,295 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-06-28 13:42:03_
-_本檔包含 3485 則快訊，約 670676 字_
+_更新時間：2026-06-28 15:08:08_
+_本檔包含 3495 則快訊，約 670172 字_
+
+---
+
+### 2026-06-28 15:05:25  #MKT News
+
+Kuwaiti military said it intercepted two ballistic missiles on Sunday morning; no damage or casualties reported.
+
+---
+
+### 2026-06-28 15:05:22  #國際
+
+德國地球科學研究中心（GFZ）監測：阿富汗興都庫什地區發生 6.1 級地震。
+
+---
+
+### 2026-06-28 15:05:05  #國際
+
+科威特方面稱，該國週日在本國領空攔截兩枚導彈。
+
+---
+
+### 2026-06-28 15:01:28  #國際
+
+科威特第一季度進口額為27.3億第納爾，第一季度出口額為45億第納爾。
+
+---
+
+### 2026-06-28 14:59:24  #國際
+
+【給阿嬤的情書在日本一票難求】央視財經訊息，電影《給阿嬤的情書》近日在日本上映。影片以僑批文化和華僑奮鬥史為背景，講述跨越時代的親情與家國情懷，引發觀眾共鳴，吸引不少人走進影院觀影。影片於6月26日起在日本東京、大阪、京都等地上映。據發行方介紹，影片上映後市場反響超出預期，熱門場次一票難求。發行方表示，從7月3日開始，上映影院將由目前的7家增加至14家。同時，首輪上映的7家影院均決定延長放映週期，進一步擴大影片放映規模。27日，日本潮州會還組織了集體觀影活動。（央視財經）
+
+---
+
+### 2026-06-28 14:58:34  #公司
+
+【百付科技回應被市監部門處罰：誠懇接受，深表歉意】6月28日，百付科技釋出宣告：“近日，我司收到市場監督管理部門的相關通知。對此，我們誠懇接受，堅決服從。對於此次事件給客戶、合作伙伴帶來的困擾，我們深表歉意。”宣告強調，此次事件僅涉及公司自身宣傳規範問題，不影響公司的技術能力、服務質量和專案交付，也未損害任何客戶的實際權益。“此次事件反映出公司在快速發展過程中，內部合規管理仍有待加強。我們不迴避問題，不推諉責任，將以最嚴格的標準落實各項整改要求。”
+
+---
+
+### 2026-06-28 14:58:07  #MKT News #XAUUSD #Impact bullish #DXY
+
+【IDF says it killed several Hezbollah fighters in southern Lebanon】The IDF said on the 28th that on the 27th it killed several Hezbollah fighters in southern Lebanon's Nebetiyeh region after encountering militants carrying rockets; it destroyed their operating site and, in a separate strike, a Hezbollah rocket-launcher. The area adjoins a "security zone" where IDF troops were operating. The military said it will continue operations to "eliminate threats".
+
+---
+
+### 2026-06-28 14:57:46  #其他
+
+科威特政府資料顯示，第一季度進口額為27.3億第納爾。
+
+---
+
+### 2026-06-28 14:57:30  #其他
+
+科威特政府資料顯示，第一季度出口額為45億第納爾。
+
+---
+
+### 2026-06-28 14:56:51  #國際
+
+【以軍稱在黎南部打死數名真主黨武裝人員】以色列國防軍28日發表宣告說，以軍27日在黎巴嫩南部打死數名黎真主黨武裝人員。宣告說，以軍27日在黎南部奈拜提耶地區發現數名攜帶火箭彈的黎真主黨武裝人員，隨後對其發動打擊並將其打死，同時摧毀了他們的活動場所。此外，以軍在另一次打擊中摧毀了一處黎真主黨火箭彈發射裝置。宣告說，事發地毗鄰以軍士兵正在執行任務的“安全區”，以軍將繼續開展行動以“消除威脅”。（新華社）
+
+---
+
+### 2026-06-28 14:56:29  #公司 #國際
+
+【韓國將於週一宣佈三星、SK集團的多個大型專案】根據總統發言人，韓國將於週一宣佈所謂的“三大工程”計劃，總統李在明將與政府各部門、三星電子和SK的官員會面，併釋出政策和投資公告。李在明將於下午2點在總統府青瓦臺發表講話，屆時韓國產業通商部、科學技術資訊通訊部、氣候能源環境部和國土交通部將公佈三大工程的政策。
+
+---
+
+### 2026-06-28 14:48:43  #國際
+
+【今日特朗普要聞】
+1、當地時間6月27日，特朗普在社交媒體平臺發帖稱，美國戰機剛剛打擊了伊朗導彈與無人機儲存設施以及沿海雷達站點，原因是他們再次違反停火協議。他們很可能永遠學不會！終有一刻，我們將不再保持克制，被迫以軍事手段完成我們業已成功開啟的行動。若真走到那一步，伊朗伊斯蘭共和國將不復存在！
+2、美國高階官員和黎巴嫩官員表示，特朗普透過電話與黎巴嫩總統通話，並祝賀他簽署了與以色列的框架協議。
+3、當地時間6月27日，特朗普提名蘭斯·施羅耶出任美國移民與海關執法局局長。
+4、美國國務卿魯比奧表示特朗普可能明年初訪問印度。
+5、特朗普駁斥哈格曼新書為“假新聞”，並重申選舉勝利敘事。
+6、特朗普公佈了一款他稱作“愛國者護照”的新版設計效果圖，護照印有他本人肖像，用以紀念美國建國250週年，該款護照將於7月6日起正式簽發。
+
+---
+
+### 2026-06-28 14:46:33  #公司 #市場 #國際
+
+【義烏避暑神器海外爆單】歐洲多國的高溫天氣催生了空調、風扇等產品的消費需求。在跨境電商渠道的強勢帶動下，中國製造的降溫產品訂單量顯著增長，成為今夏外貿出口的新增長點。在義烏國際商貿城，各類創意十足的降溫用品正受到海外採購商的熱捧。央視財經記者瞭解到，今年1至5月，義烏跨境電商總交易額達811.75億元人民幣，同比增長10.23%。在浙江寧波的一家外貿公司，工作人員正在加緊處理跨境電商平臺上的訂單，擁有智慧顯示屏的風扇以及小巧的移動空調成為今年平臺上的爆款。外貿端訂單激增，上游生產企業同樣開足馬力，在一家主營製冰機的企業，車間內裝配、檢測、打包等工序有序推進，負責人介紹，受歐洲持續高溫帶動，小型家用、戶外便攜款製冰機需求大漲。（央視財經）
+
+---
+
+### 2026-06-28 14:45:31  #公司
+
+【智元第15000臺通用具身機器人正式量產下線】6月28日，智元宣佈第15000臺通用具身機器人精靈G2正式量產下線。智元機器人合夥人、高階副總裁、具身業務部總裁姚卯青表示，15000臺量產下線印證了智元規模化量產到達新高度，也標誌著中國人形機器人產業邁上了大規模真實場景應用。姚卯青表示，量產不是目的，只是一個過程，透過規模化量產讓機器人在各行各業快速部署，在真實物理世界互動過程中去獲取資料，透過資料飛輪讓產品變得越來越智慧、越來越穩定。今年3月30日，智元宣佈第1萬臺通用具身機器人遠征A3下線；去年12月8日，智元第5000臺通用具身機器人量產下線交付。
+
+---
+
+### 2026-06-28 14:37:49  #國際
+
+歐盟卡拉斯：（關於委內瑞拉地震）歐盟的哥白尼衛星系統正在支援緊急救援人員。
+
+---
+
+### 2026-06-28 14:36:46  #MKT News
+
+kallas said the EU has mobilized EUR 5 mln in emergency assistance for communities affected by an earthquake in Venezuela.
+
+---
+
+### 2026-06-28 14:35:06  #國際
+
+歐盟卡拉斯就委內瑞拉地震發表宣告：歐盟已調動500萬歐元緊急援助。
+
+---
+
+### 2026-06-28 14:35:01  #國際
+
+歐盟委卡拉斯就委內瑞拉地震發表宣告：歐洲在委內瑞拉亟需幫助的此刻與該國站在一起。
+
+---
+
+### 2026-06-28 14:34:41  #MKT News
+
+kallas said the EU's Copernicus satellite system is supporting emergency responders in Venezuela following an earthquake.
+
+---
+
+### 2026-06-28 14:34:38  #MKT News
+
+kallas said she spoke with interim Venezuelan president Delcy RODRIGUEZ about the devastating earthquake in Venezuela.
+
+---
+
+### 2026-06-28 14:34:36  #MKT News
+
+kallas said the EU has activated the EU Civil Protection Mechanism in response to an earthquake in Venezuela.
+
+---
+
+### 2026-06-28 14:34:28  #國際
+
+歐盟委員會卡拉斯就委內瑞拉地震表態：我們已啟動歐洲民事保護機制。
+
+---
+
+### 2026-06-28 14:34:16  #國際
+
+歐盟委員會卡拉斯：委內瑞拉發生災難性地震後，我與委內瑞拉代總統通了電話。
+
+---
+
+### 2026-06-28 14:19:33  #國際
+
+科威特外交部宣告，科威特保留採取一切必要措施維護國家主權、安全與穩定的全部權利。
+
+---
+
+### 2026-06-28 14:17:43  #MKT News
+
+【Three world-class high-performance carbon-fiber lines commissioned】China National Building Material Group (CNBM) said three world-class high-performance carbon-fiber production lines were commissioned at Zhongfu Shenying’s Lianyungang base, covering standard, high‑strength and high‑modulus grades and adding domestic production capacity across the three main carbon-fiber segments.
+
+---
+
+### 2026-06-28 14:14:38  #國際
+
+【世界盃32強出爐，騰訊混元猜對29支球隊，MiniMax、訊飛星火各28支】6月28日下午訊息，世界盃32強今日全部出爐，12大AI 32強考卷最終成績也正式揭曉。其中，騰訊混元以 29/32 領跑，MiniMax、訊飛星火均為28/32，DeepSeek、智譜、聯想天禧AI同為27/32。整體來看，12家AI對傳統強隊和主流晉級隊判斷高度一致，真正拉開差距的，是波黑、維德角、剛果（金）、迦納等邊緣晉級隊，以及伊朗、韓國、烏拉圭等出局判斷。（新浪科技）
+
+---
+
+### 2026-06-28 14:13:56  #其他
+
+【青海首次開行至土庫曼巴爾坎中亞班列】青海西寧至土庫曼巴爾坎首列中亞班列28日從青藏鐵路西寧雙寨物流基地駛出，滿載服裝、電器、汽車配件、日用百貨等貨物，經霍爾果斯口岸出境，途經哈薩克，預計14至15天后最終抵達土庫曼阿加拉站。班列全程約5420公里，編組55車，是青海省首次開行直達土庫曼的國際貨運班列。（中國新聞網）
+
+---
+
+### 2026-06-28 14:11:50  #國際
+
+【伊朗稱將更強烈回應美進一步行為】據伊朗學生新聞網今天（6月28日）訊息，伊朗伊斯蘭革命衛隊發言人穆赫比表示，美國“自相矛盾的本性”導致其即使在最敏感的時刻，包括在美伊談判期間也會採取破壞穩定的行動，伊朗將對美軍任何進一步的違反停火行為作出“更強烈的回應”。（CCTV國際時訊）
+
+---
+
+### 2026-06-28 14:09:56  #國際
+
+巴林內政部：有居民樓因伊朗襲擊受損，未造成人員死亡。
+
+---
+
+### 2026-06-28 14:09:04  #MKT News #XAUUSD #Impact bullish #Brent
+
+Bahrain's interior ministry said a residential building was damaged in an attack by Iran; no fatalities were reported.
+
+---
+
+### 2026-06-28 14:08:03  #公司 #市場
+
+【本週13股獲南向資金持股量環比增長超20%】本週南向資金合計成交淨買入89.24億港元，指數低位堅定加倉。從持股量變化來看，本週13股獲南向資金持股量環比增長超20%，藥捷安康-B居首，環比增長142.51%，其他還有國富量子、壁仞科技、建滔集團持股量環比增幅居前，持股量環比增幅分別為83.57%、52.95%、40.42%。 (證券時報)
+
+---
+
+### 2026-06-28 14:02:23  #國際
+
+【暴力執法引民怨 美移民與海關執法局又要換掌門】美國總統特朗普27日表示，將提名俄克拉何馬州前州警蘭斯·施羅耶為國土安全部下屬移民與海關執法局下任局長。此前，移民與海關執法局在移民問題上暴力執法引發巨大爭議，國土安全部長和該局“一把手”先後去職。特朗普在社交媒體上宣佈上述訊息。按美國方面說法，如果施羅耶的提名獲得國會參議院確認，他將在公眾對移民與海關執法局的極度不滿中開啟任期。由於移民問題的高度敏感性加之政治極化，自奧巴馬政府後，移民與海關執法局歷任“一把手”均為未經參議院批准的代理局長。（央視新聞）
+
+---
+
+### 2026-06-28 13:59:15  #MKT News #WTI #Impact bullish #Brent
+
+Kuwait's foreign ministry said Iran's continued attacks have undermined efforts to de-escalate tensions.
+
+---
+
+### 2026-06-28 13:57:36  #公司 #國際
+
+韓國將於週一公佈與三星、SK集團合作的大型重點專案。
+
+---
+
+### 2026-06-28 13:54:08  #MKT News #XAUUSD #Impact bullish #WTI
+
+Bahrain's military said it intercepted multiple Iranian attacks.
+
+---
+
+### 2026-06-28 13:53:37  #國際
+
+巴林軍方宣告稱，巴林攔截了伊朗發動的多起襲擊。
+
+---
+
+### 2026-06-28 13:53:32  #國際
+
+巴林國防軍總指揮部宣告：伊朗透過針對巴林平民的導彈和無人機襲擊，繼續其系統性的敵對行徑。
+
+---
+
+### 2026-06-28 13:52:45  #MKT News #Brent #Impact bullish #XAUUSD #DXY
+
+Bahrain's Defence Force General Command said Iran continues systematic hostile acts, carrying out missile and drone strikes targeting Bahraini civilians.
+
+---
+
+### 2026-06-28 13:51:48  #公司
+
+【200萬粉絲網紅詆譭袁隆平成果，抖音：相關賬號已無限期封禁】據中國食品報融媒體報道，近日接到網友反饋，某位在全平臺粉絲量超過200萬、打著“保衛老種子”旗號的農業網紅，在影片中公然將“三系雜交技術”稱為“變態雜交”、“病態雜交”，將“雄性不育”稱為“怕吃完像騾子一樣不生育”，大肆攻擊育種技術。然而，被攻擊的“三系雜交”的奠基者正是袁隆平院士，而“三系法”等現代育種技術，正是數十年來糧食安全的底線基礎。6月28日，@抖音黑板報 發文表示，相關賬號釋出故意擾亂社會經濟發展秩序、易引發公眾恐慌的不實資訊，違反《抖音社群自律公約》，已處置無限期封禁。
+
+---
+
+### 2026-06-28 13:51:22  #MKT News #WTI #Impact bullish #Brent #XAUUSD
+
+IRGC spokesman says Iran will respond more forcefully to any further US violations of the ceasefire agreement.
+
+---
+
+### 2026-06-28 13:51:15  #其他
+
+【首屆西部商業航天大會在西安啟幕】以“西部問天·星箭聚力·共建中國西部商業航天產業新高地”為主題的首屆西部商業航天大會27日在西安開幕。50億元省級商業航天專項基金、百餘家上下游供應鏈合作、四大產學研創新平臺等一系列成果落地，將推動西部商業航天產業發展。（中新網）
+
+---
+
+### 2026-06-28 13:50:17  #國際
+
+伊朗伊斯蘭革命衛隊發言人表示，德黑蘭將對美國任何進一步違反停火的行為採取更強有力的回應。
+
+---
+
+### 2026-06-28 13:48:24  #國際
+
+【第44屆康博會折射康復輔具產業新趨勢】28日，第44屆中國國際康復輔助器具產業暨國際福祉機器博覽會（以下簡稱“康博會”）在重慶閉幕。為期3天的展會上，來自中國、德國、日本等國家和地區的上百家企業集中展示腦機介面康復裝置、智慧仿生肢體、外骨骼機器人、智慧輪椅等前沿產品。人工智慧與康復輔具深度融合，成為本屆展會最受關注的話題之一。（新華社）
+
+---
+
+### 2026-06-28 13:46:59  #公司
+
+【國統股份：各地大型水利專案招標投放節奏不均衡使得公司新增訂單階段性承壓】國統股份近日在業績說明會上表示，當前水利基建投資持續加碼，但市場和產品競爭激烈，各地大型水利專案招標投放節奏不均衡，使得公司新增訂單階段性承壓。公司始終堅定聚焦PCCP輸水管道核心主業，依託自身生產、技術及區域佈局優勢，將水利、市政管網業務作為長期發展根基。經營層及各業務團隊均全力推進市場開拓工作，主動對接全國重大水網、調水工程，持續加大重點區域業務跟進力度，多措並舉搶抓行業發展機遇，盡力改善訂單承接情況，穩步夯實主業經營基礎。
+
+---
+
+### 2026-06-28 13:46:56  #國際
+
+科威特譴責伊朗週日再度對本國發動襲擊。
+
+---
+
+### 2026-06-28 13:46:28  #市場 #國際
+
+印度總理：印度民眾家庭減少購置婚禮黃金。
+
+---
+
+### 2026-06-28 13:42:16  #國際
+
+【以總理警告伊朗無權介入黎巴嫩事務】以色列總理內塔尼亞胡6月27日稱，以色列、美國和黎巴嫩政府已簽訂框架協議，這項框架協議是對伊朗和黎巴嫩真主黨的“沉重打擊”。他同時稱，這是黎巴嫩政府、以色列和美國在對伊朗說：“你無權介入，也無權發揮任何作用。” 內塔尼亞胡還說，雖然以色列不是美伊協議的締約方，但在伊朗核問題等核心議題上，以色列仍將向美國傳達自己的利益訴求，也將堅持以色列“在邊境的利益”，絕不會撤出黎南部所謂“安全區”。（CCVT國際時訊）
 
 ---
 
@@ -146,6 +434,12 @@ Iran's foreign ministry condemned U.S. airstrikes in southern Iran, saying they 
 ### 2026-06-28 12:20:43  #國際
 
 【報道：品浩（PIMCO）瞄準公開市場私募交易】英國媒體援引對品浩首席投資官的採訪報道，品浩正藉助部分大型融資方的資金需求，在公開市場開展私募交易以把握投資機遇。近幾個月，品浩牽頭完成多筆私募配售業務，包括為中東各國政府提供戰時債務融資、以及參與Meta、甲骨文的資料中心專案投資。品浩首席投資官表示：“在該領域，我們可依託自身龐大資金體量爭取有利交易條款。當下市場迎來視窗期，能挖掘許久未見的優質投資價值。”
+
+---
+
+### 2026-06-28 12:18:10  #公司
+
+【上海交通大學量子科技學院正式啟動建設】6月27日下午，2026張江量子灣釋出會在香港大學張江基地舉行。現場，上海交大量子科技學院、鐵馬量子實驗室公司、張江量子孵化器三大核心平臺正式成立。據介紹，上海交通大學量子科技學院正式啟動建設，由丁洪院士任創始院長，陸朝陽教授和嚮導教授出任副院長。鐵馬量子實驗室公司揭牌成立，由上海未來產業基金、海桐國際創新中心、張江高科等共建。張江量子孵化器啟動運營，由海桐孵化器x張江浩芯聯合運營。
 
 ---
 
@@ -20839,233 +21133,5 @@ N惠科漲超600%，成交額超36億元，總市值超5400億元。
 ### 2026-06-26 09:56:16  #MKT News #Macro & Rates #The Fed (FOMC) #Market Regions #Emerging Markets #DXY #Impact bullish
 
 【Mitsubishi UFJ: Ringgit upside likely limited despite policy support】Mitsubishi UFJ Financial Group senior FX strategist Lloyd Chan said in a report the Malaysian Ringgit should remain supported near term after Bank Negara encouraged government-linked companies to repatriate offshore earnings and convert them into Ringgit. Chan said upside versus the dollar is likely limited because expectations of higher-for-longer US interest rates continue to underpin the dollar, a shift from 2024 when markets priced Fed cuts, so external headwinds may persist despite domestic policy support.
-
----
-
-### 2026-06-26 09:56:00  #市場
-
-滔搏國際復牌後股價下跌11%，報1.82港元。
-
----
-
-### 2026-06-26 09:55:54  #MKT News
-
-Taiwan's TAIEX fell more than 2%.
-
----
-
-### 2026-06-26 09:55:32  #公司
-
-【特斯拉中國為員工子女設立“星河獎學金”】特斯拉高階副總裁陶琳微博稱：為特斯拉員工子女設立的“星河獎學金”正式上線。符合條件的員工即可申請，單項獎金最高5000元。
-
----
-
-### 2026-06-26 09:55:14  #市場
-
-臺灣加權股價指數下跌2%至45,322.04點。
-
----
-
-### 2026-06-26 09:54:37  #MKT News #Important #Market Regions #Greater China #SZSE Component #Impact bearish
-
-Shenzhen Component Index falls more than 2%; Taichen Guang plunges over 12%, the worst-performing constituent.
-
----
-
-### 2026-06-26 09:54:10  #MKT News #SSE Composite #Impact bearish #CSI300
-
-Shanghai Composite fell more than 1%, led by declines in gaming, film and media, and pharmaceuticals & healthcare stocks.
-
----
-
-### 2026-06-26 09:54:02  #市場 #焦點
-
-深證成指跌2.00%，現報16016.757點；上證指數跌1.10%，現報4074.873點；創業板指跌2.52%，現報4261.791點。
-
----
-
-### 2026-06-26 09:53:33  #市場 #焦點
-
-科創50日內跌幅達2％，成分股中，盛科通訊跌5.7％，國盾量子跌5.5％，中科星圖、源傑科技跌5％。
-
----
-
-### 2026-06-26 09:53:33  #Trading Economics #Economy #China #Fiscal Expenditure #Importance 0
-
-China Fiscal Spending Up 0.8% in Jan-May — China’s fiscal spending increased 0.8% year-on-year to CNY 11.39 trillion (USD 1.59 trillion) in the first five months of 2026. Central government expenditure rose 6.5% to CNY 1.68 trillion, while local government spending edged down 0.1% to CNY 9.71 trillion, indicating that fiscal support remained largely driven by the central government. Among major spending categories, healthcare outlays recorded the strongest growth, rising 11.3%, followed by social security and employment (+6.3%), debt interest payments (+5.1%), and science and technology (+0.9%). Meanwhile, expenditure declined on agriculture, forestry and water conservancy (-11.2%), energy conservation and environmental protection (-8.8%), culture, tourism, sports and media (-7.8%), transportation (-3.8%), urban and rural communities (-2.5%), and education (-0.5%).
-
----
-
-### 2026-06-26 09:53:30  #MKT News #Important #S&P500 #Impact bearish #DXY #Impact bullish #XAUUSD
-
-South Korea's KOSPI fell 4.00% intraday to 8,572.69 points.
-
----
-
-### 2026-06-26 09:53:19  #MKT News #Market Regions #Greater China #06869.HK #Impact bearish #02382.HK #01729.HK
-
-Hong Kong-listed optical-communications names fell, led by Yangtze Optical Fibre & Cable (06869.HK) down more than 9%, Sunny Optical Technology (02382.HK) off over 8%, Huiju Technology (01729.HK) down more than 7%, Cambridge Technology (06166.HK) off nearly 6% and Xizhi Technology-P (01879.HK) down over 4%.
-
----
-
-### 2026-06-26 09:53:15  #市場 #焦點
-
-上證指數跌1.01%，現報4078.613點；深證成指跌1.88%，現報16037.222點；創業板指跌2.48%，現報4263.776點。
-
----
-
-### 2026-06-26 09:53:01  #MKT News #Commodities #Energy
-
-【Zhejiang Tiantai pumped-storage plant fully commissioned, 1,700 MW installed】China Three Gorges Corp said at 23:59 on June 25 the Zhejiang Tiantai pumped-storage power station reached full commercial operation after its final unit completed a 15-day commissioning trial. The station has total installed capacity of 1,700 MW, is the world’s highest-rated-head pumped-storage plant and China’s largest by single-unit capacity, and is the first pumped-storage project to enter full operation in China during the 15th Five-Year Plan.
-
----
-
-### 2026-06-26 09:52:52  #市場 #焦點 #國際
-
-韓國綜合股價指數下跌4%至8572.69點。
-
----
-
-### 2026-06-26 09:52:19  #公司
-
-【CPO概念震盪走低 太辰光跌超11%】CPO概念震盪走低，太辰光跌超11%，新易盛、中際旭創跌超5%，長盈通、匯綠生態、仕佳光子、光迅科技、亨通光電、永鼎股份紛紛下挫。
-
----
-
-### 2026-06-26 09:52:12  #公司
-
-【世界額定水頭最高、我國單機容量最大抽蓄電站全面投產】據中國三峽集團訊息，6月25日23點59分，隨著最後一臺機組順利完成15天考核試執行，總裝機容量170萬千瓦的浙江天台抽水蓄能電站實現全面投產發電。該電站是世界額定水頭最高、國內單機容量最大的抽水蓄能電站，也是“十五五”時期國內首個全面投產的抽水蓄能電站。
-
----
-
-### 2026-06-26 09:52:05  #公司 #市場
-
-【機器人概念逆勢拉昇 模塑科技、祥鑫科技雙雙漲停】機器人概念盤中逆勢拉昇，模塑科技漲停，此前祥鑫科技2連板，恆鋒工具、朗迪集團、豐光精密、徵和工業漲幅靠前。
-
----
-
-### 2026-06-26 09:51:54  #市場 #焦點
-
-滬深兩市成交額超1萬億元，較上日此時縮量294億元。
-
----
-
-### 2026-06-26 09:51:32  #宏觀 #公司
-
-【“質量中國”新媒體矩陣正式上線執行】質量是興國之道、富國之本、強國之策。黨的十八大以來，以習近平同志為核心的黨中央多次對質量工作作出重大部署，明確提出要加快建設質量強國。為深入學習貫徹習近平總書記關於質量工作的重要指示批示精神，推動實施《質量強國建設綱要》，更好宣傳質量工作，市場監管總局開通“質量中國”微信公眾號、微博賬號、抖音賬號，形成“質量中國”新媒體矩陣，今日正式上線執行。“質量中國”新媒體矩陣作為質量強國建設資訊釋出的重要平臺，將集中釋出黨中央、國務院關於質量工作的重要政策和重大部署，生動展示貫徹落實《質量強國建設綱要》和“質量三強一基”建設經驗做法，全面交流國內外質量發展最新動態和專家觀點，致力打造成為權威的質量政策資訊“釋出站”、實時的質量發展實踐“展示臺”、有力的質量強國建設“助推器”。（市場監管總局）
-
----
-
-### 2026-06-26 09:50:50  #MKT News #Market Themes #AI Revolution #9984.T #Impact bearish
-
-【SoftBank shares plunge on risk OpenAI IPO may be delayed】SoftBank Group shares fell as much as 12% intraday after reports OpenAI may postpone its IPO until next year, potentially delaying returns for Japanese investors. SoftBank’s exposure to OpenAI was expected to reach about $65bn by October. Markets had treated an OpenAI listing as a major valuation catalyst that helped push SoftBank to record highs and lift its market value above Toyota last month. The New York Times reported OpenAI’s adviser bankers warned tech-sector volatility could damp IPO demand. The move produced SoftBank’s biggest single-day drop in Tokyo in over three months on Friday morning. Strategist Hiroki Takei said an OpenAI IPO would provide a transparent market valuation for SoftBank’s large holdings, including hundreds of unlisted startups, which could narrow the group’s conglomerate discount; a delay would lower those expectations.
-
----
-
-### 2026-06-26 09:50:18  #公司
-
-【蘇博特等成立科技新公司 含民用航空材料業務】企查查APP顯示，近日，江蘇領聚新材科技有限公司成立，經營範圍包含：3D列印基礎材料銷售；民用航空材料銷售；電子專用材料製造；電子專用材料銷售等。企查查股權穿透顯示，該公司由蘇博特等共同持股。
-
----
-
-### 2026-06-26 09:50:00  #MKT News #Important #Market Regions #Greater China #SZSE Component #Impact bearish #SSE Composite
-
-China's ChiNext Index fell more than 2%; Shenzhen Component Index fell 1.6%; Shanghai Composite fell 0.9%; Sci‑Tech Innovation Board 50 Index fell more than 1%.
-
----
-
-### 2026-06-26 09:49:46  #市場
-
-日經225指數跌幅擴大；最新報70051.40，下跌3.2%。
-
----
-
-### 2026-06-26 09:49:08  #市場 #焦點
-
-創業板指跌2.04%，現報4282.604點；上證指數跌0.83%，現報4086.015點；深證成指跌1.52%，現報16096.209點。
-
----
-
-### 2026-06-26 09:48:55  #其他
-
-【CPO概念股走低，新易盛、中際旭創跌超5%】CPO概念股走低，太辰光跌超10%，立訊精密、特發資訊跌超7%，新易盛、中際旭創跌超5%。
-
----
-
-### 2026-06-26 09:48:21  #市場 #焦點
-
-南向資金淨買入額達20億港元。
-
----
-
-### 2026-06-26 09:48:09  #MKT News
-
-【Lianxin Testing says online diapers formamide test screenshots are invalid; no formal report issued】Lianxin Testing (Jiangsu) Co. said on June 26 that circulated screenshots purporting to show formamide detected in diapers are invalid. The company said no formal report has been issued; an official report would bear a cross-page seal. Testing is ongoing, any cited findings are not official, and Lianxin said it will pursue legal action against malicious dissemination that harms the company’s reputation.
-
----
-
-### 2026-06-26 09:47:54  #其他
-
-【港股光通訊股走弱 長飛光纖光纜跌超8%】截至發稿，長飛光纖光纜(06869.HK)跌8.55%，舜宇光學科技(02382.HK)跌7.09%，匯聚科技(01729.HK)跌5.09%，劍橋科技(06166.HK)跌4.68%。
-
----
-
-### 2026-06-26 09:47:29  #公司 #市場
-
-【小金屬板塊盤初拉昇，寶武鎂業漲停】小金屬板塊盤初拉昇，寶武鎂業漲停，翔鷺鎢業、金鉬股份、錫業股份、廈門鎢業、中鎢高新跟漲。
-
----
-
-### 2026-06-26 09:46:43  #市場
-
-紐約期銀日內跌2%，現報57.59美元/盎司。
-
----
-
-### 2026-06-26 09:46:43  #市場
-
-富時中國A50指數期貨跌超2%。
-
----
-
-### 2026-06-26 09:46:43  #MKT News #Important #Market Regions #Greater China #CSI300 #Impact bearish #Hang Seng Index
-
-FTSE China A50 index futures fell more than 2%.
-
----
-
-### 2026-06-26 09:46:22  #MKT News #Important #Market Themes #Chip Wars
-
-【N Huike surges nearly 400%, triggers second trading halt】N Huike surged nearly 400%, triggering a second intraday trading halt. Shares were at 50.56 yuan, implying a market capitalization of 368.9 bln yuan. The company’s core business is R&D, manufacturing and sales of semiconductor display panels and smart display terminals.
-
----
-
-### 2026-06-26 09:46:11  #市場
-
-鈀金期貨日內跌1%，現報1181.10美元/盎司。
-
----
-
-### 2026-06-26 09:46:05  #公司 #國際
-
-【美國ITC釋出對光伏幹線匯流排電纜部件及其元件的337部分終裁】美國國際貿易委員會（ITC）釋出公告稱，對特定光伏幹線匯流排電纜部件及其元件作出337部分終裁：認定經由列名被告美國Voltage, LLC, Chapel Hill, N.C.、中國浙江Ningbo Voltage Smart Production Co., Ningbo, China寧波小伏科技有限公司對美出口、在美進口和在美銷售的涉案產品存在侵權美國註冊專利號12,015,375第1、8、12、20項權利要求和美國註冊專利號12,015,376第1、10、12項權利要求，救濟措施為對侵權產品釋出有限排除令，對總統審查期間出口到美國的侵權產品徵收100%保證金，本案調查終止。
-
----
-
-### 2026-06-26 09:45:27  #公司 #焦點
-
-新股N惠科漲近400%，觸發二次臨停。
-
----
-
-### 2026-06-26 09:45:16  #公司 #市場
-
-【玻璃基板概念逆勢拉昇 旗濱集團、萊寶高科雙雙漲停】早盤玻璃基板概念逆勢拉昇，旗濱集團、萊寶高科漲停，凱盛科技、力諾藥包、長信科技、美迪凱等跟漲。
-
----
-
-### 2026-06-26 09:45:08  #Trading Economics #Markets #Australia #Currency #Importance 1
-
-Aussie Pressured by Stronger US Dollar — The Australian dollar traded below $0.690, near a three-month low and headed for a heavy weekly loss as the greenback remained broadly firm on expectations of US interest rate hikes. The US dollar has rallied since the Federal Reserve adopted a surprisingly hawkish stance last week, prompting markets to price in a 75% chance of a rate hike as early as September. Meanwhile, expectations for additional tightening by the Reserve Bank of Australia have eased, despite a slight increase in underlying price pressures in May. Investors expect second-quarter inflation to fall short of the central bank’s 8% forecast, reinforcing bets that the RBA has already reached the peak of its tightening cycle. Markets priced in only about a 50% chance of another hike in the 4.35% cash rate, while some have started pricing in rate cuts in the second half of 2027. The Aussie is also on track for a second straight monthly loss, weighed down by recent Middle East tensions and a selloff in tech-related stocks.
 
 ---
