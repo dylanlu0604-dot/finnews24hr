@@ -1,7 +1,15 @@
 {
-  "updated": "2026-06-29 03:54:00",
-  "count": 17983,
+  "updated": "2026-06-29 03:57:53",
+  "count": 17982,
   "items": [
+    {
+      "id": "4959134",
+      "time": "2026-06-29 03:55:04",
+      "tags": [
+        "其他"
+      ],
+      "text": "【委內瑞拉強震致中國公民8人遇難 1人失聯】中國駐委內瑞拉大使館通報，截至委內瑞拉當地時間28日15時，據不完全統計，已確認有8名中國公民在委內瑞拉6月24日發生的地震中遇難，1名中國公民失聯，其他人員身份尚在核實。（央視新聞）"
+    },
     {
       "id": "mkt:019f0fc2-348e-7aab-8c02-ad2f49791006",
       "time": "2026-06-29 03:43:33",
@@ -164533,23 +164541,6 @@
         "其他"
       ],
       "text": "卡達內政部表示，拉斯拉凡工業園區一家工廠發生的爆炸由“技術事故”導致。"
-    },
-    {
-      "id": "4946642",
-      "time": "2026-06-22 03:55:08",
-      "tags": [
-        "其他"
-      ],
-      "text": "卡達內政部報告稱，拉斯拉凡一處工廠發生爆炸，目前尚無人員傷亡報告，也未發生洩漏。"
-    },
-    {
-      "id": "mkt:019eebbf-5ac2-7dd8-b0a9-18b3c5b1d913",
-      "time": "2026-06-22 03:54:06",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "Qatar's Ministry of Interior said an explosion occurred inside a factory in the Ras Laffan industrial area; no casualties or leaks have been reported so far."
     }
   ]
 }
