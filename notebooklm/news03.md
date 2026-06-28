@@ -1,7 +1,199 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-06-28 19:47:44_
-_本檔包含 3869 則快訊，約 669719 字_
+_更新時間：2026-06-28 20:24:36_
+_本檔包含 3874 則快訊，約 669208 字_
+
+---
+
+### 2026-06-25 10:16:49  #市場 #國際
+
+印尼基準股指收復早盤失地，最新上漲0.6%，報5922點。
+
+---
+
+### 2026-06-25 10:15:30  #其他
+
+【2025年1月至2026年5月檢察機關對毒品案件提出二審和再審抗訴300餘件】最高檢黨組成員、副檢察長苗生明介紹，檢察機關充分發揮檢察一體化優勢，堅持上下聯動、同向發力，綜合運用抗訴、再審檢察建議、書面糾正違法等多元化監督方式，推動毒品案件精準監督、規範監督、有力監督。2025年1月至2026年5月，全國檢察機關對毒品案件提出二審和再審抗訴300餘件，已改判100餘件，對100餘人加重了刑罰。同時，透過書面糾正審判活動違法400餘件。
+
+---
+
+### 2026-06-25 10:15:08  #Trading Economics #Markets #Currency #Importance 1
+
+Asia FX Updates: South Korean Won Drops by 0.39% — Top currency loser is South Korean Won (-0.39%). Gains are led by Japanese Yen (0.06%). Meanwhile Chinese Yuan was little changed.
+
+---
+
+### 2026-06-25 10:15:07  #觀點 #央行 #國際
+
+【壓力測試過關，摩根大通、高盛等大行提高股利】當地時間6月24日，美聯儲壓力測試顯示，所有受檢銀行都能維持足夠資本，以承受假設中的經濟衰退衝擊。美聯儲年度評估結果公佈後，摩根大通將季度股利由每股1.50美元提高到1.65美元，高盛的股利從4.50美元上調至5美元。摩根大通另外批准一項新的500億美元股票回購計劃，自7月1日起生效。
+
+---
+
+### 2026-06-25 10:14:36  #其他
+
+【最高檢：依法打擊寄遞毒品犯罪，推動寄遞安全三項制度嚴格落實】6月25日，最高檢黨組成員、副檢察長苗生明在新聞釋出會上介紹，針對“網際網路+寄遞”毒品犯罪高發問題，檢察機關常態化落實最高檢“七號檢察建議”，始終保持對寄遞領域涉毒犯罪高壓態勢，推動寄遞安全“三項制度”（即實名收寄、收寄驗視、過機安檢）嚴格落實，協同推進行業綜合治理，努力斬斷毒品流通“隱形通道”。
+
+---
+
+### 2026-06-25 10:14:25  #公司
+
+【軟通動力通州智慧製造基地建設再提速 液冷伺服器產線即將投產】據軟通動力訊息，軟通動力通州智慧製造基地建設再提速。2026年9月，一體化冷板式液冷伺服器智慧產線將正式投產，標誌著公司在算力基礎設施領域完成新一輪產能佈局。如今，該智慧製造基地核心廠房與配套樓建設已進入收尾階段。未來，這裡將形成年產約20萬臺信創PC及終端和10萬臺伺服器的產能規模。
+
+---
+
+### 2026-06-25 10:14:23  #市場
+
+現貨黃金下跌近1%，至每盎司3962.11美元。
+
+---
+
+### 2026-06-25 10:14:10  #MKT News #Commodities #Precious Metals #02099.HK #Impact bearish #01818.HK #01787.HK
+
+Hong Kong-listed gold miners slid: China Gold International (02099.HK) fell over 9%; Zhaojin Mining (01818.HK), Shandong Gold (01787.HK) and Lingbao Gold (03330.HK) dropped more than 8%.
+
+---
+
+### 2026-06-25 10:13:27  #市場 #焦點
+
+滬深兩市成交額超1.5萬億元，較上日此時放量2304億元。
+
+---
+
+### 2026-06-25 10:13:15  #MKT News #00670.HK #Impact bullish #00753.HK #00293.HK
+
+Hong Kong-listed aviation stocks traded higher: China Eastern Airlines (00670.HK) up over 5%, Air China (00753.HK) up over 3%, Cathay Pacific (00293.HK) up over 2% and China Southern Airlines (01055.HK) up over 1%.
+
+---
+
+### 2026-06-25 10:13:06  #其他
+
+【中使館提醒在委內瑞拉中國公民注意防災】中國駐委內瑞拉大使館當地時間6月24日發文，提醒在委中國公民密切關注當地地震預警和災害相關資訊，防範餘震及地震導致的次生災害；保持冷靜，做好安全防護，保持通訊裝置暢通。請相關地區中國公民立即遠離海邊，轉移至安全區域避險。如遇緊急情況，請及時報警並聯系中國駐委內瑞拉使館尋求協助。
+
+---
+
+### 2026-06-25 10:12:59  #市場 #焦點
+
+20號膠連續主力合約日內跌7%，現報14525.00元。
+
+---
+
+### 2026-06-25 10:12:49  #其他
+
+【加大理賠力度，1-5月全國農業保險已賠付370億元】據國家金融監督管理總局，今年1—5月，全國農業保險已賠付370億元，受益農戶1209萬戶次。糧食作物保險已賠付60.47億元，受益農戶546.31萬戶次，其中，小麥已賠付30.93億元，受益農戶343.42萬戶次。農險賠款為受災農戶恢復再生產發揮了重要作用。金融監管總局表示，當前黃淮海等夏糧主產省已經進入集中收穫期，受近期強降雨、病蟲害等因素影響，部分省份受災嚴重。農業保險理賠工作時間緊、任務重。目前，面對比較集中的區域性大面積農業災害，農險理賠服務領域還存在不少困難和問題。
+
+---
+
+### 2026-06-25 10:12:43  #其他
+
+【黃巖島藍洞調查報告發布】生態環境部6月25日釋出《2025年黃巖島藍洞調查報告》。報告顯示，黃巖島藍洞屬於世界罕見的珊瑚礁生長結構成因型海洋藍洞，也是我國迄今探明的第一個珊瑚礁藍洞，洞口面積約1491.7平方米、最大直徑56.3米，深度16.6米，內部結構呈漏斗狀，洞底狹窄，存在水體濁度分層。地質年代學研究初步表明，該藍洞至少形成於距今3200年前。黃巖島藍洞及周邊海域生物多樣性豐富。(新華社)
+
+---
+
+### 2026-06-25 10:12:32  #市場
+
+【創新藥概念震盪回落 亞太藥業觸及跌停】創新藥概念震盪回落，亞太藥業觸及跌停，津藥藥業、康芝藥業、雙鷺藥業、新華製藥、海辰藥業、君實生物、百花醫藥跌幅居前。
+
+---
+
+### 2026-06-25 10:12:21  #市場
+
+【有色·鎢概念震盪走強 翔鷺鎢業觸及漲停】有色·鎢概念震盪走強，翔鷺鎢業觸及漲停，中鎢高新、廈門鎢業、章源鎢業漲幅靠前。
+
+---
+
+### 2026-06-25 10:12:06  #市場 #國際 #原創
+
+【霍爾木茲海峽重開增加供應 布倫特原油抹去戰時全部漲幅】在美伊和平協議取得進展後，霍爾木茲海峽的運輸量增加，布倫特原油期貨價格已抹去戰爭期間的所有漲幅。這一全球基準油價週四延續跌勢，跌破衝突前的收盤價每桶72.48美元。WTI原油期貨交易價格徘徊在69美元附近。市場關鍵領域突然供應過剩，買家被來自中東以及非洲的原油報價淹沒。截至北京時間上午10:00，8月交割的布倫特原油期貨下跌1.6%至每桶72.56美元。8月交割的WTI下降1.4%至每桶69.38美元。美國頒佈的一項臨時豁免令允許購買已裝船的伊朗原油，這也將進一步增加供應量。不過，融資和保險方面的障礙依然存在，這可能會限制銷售。
+
+---
+
+### 2026-06-25 10:10:34  #MKT News #Market Regions #Greater China #Hang Seng Index #Impact bearish
+
+Hang Seng Tech Index fell over 2%; HSI down 1.4%.
+
+---
+
+### 2026-06-25 10:10:29  #其他
+
+【委內瑞拉官員：地震致至少18人受傷】委內瑞拉首都加拉加斯附近的米蘭達州查考市市長古斯塔沃·杜克24日在社交媒體上說，該市有兩處建築物在地震中倒塌，目前已救出18名受困傷者，500餘名政府工作人員正在執行救援任務。（新華社）
+
+---
+
+### 2026-06-25 10:10:25  #MKT News
+
+【Venezuela official: Earthquake injures at least 18】Gustavo Duque, mayor of Chacao in Miranda state near Caracas, said on social media on the 24th that two buildings collapsed in the quake; 18 people have been rescued injured and more than 500 government personnel are conducting rescue operations.
+
+---
+
+### 2026-06-25 10:10:05  #市場 #焦點
+
+白銀連續主力合約日內跌8%，現報13704.00元。
+
+---
+
+### 2026-06-25 10:10:02  #市場 #焦點
+
+恒生科技指數跌超2%，現報4389.270點；恒生指數現跌1.405%。
+
+---
+
+### 2026-06-25 10:09:06  #市場 #焦點
+
+北證50日內跌幅達1.03%，成分股中，國航遠洋跌6.00%，聚星科技跌5.37%，XD銅冠礦跌4.86%，諾思蘭德跌4.46%。
+
+---
+
+### 2026-06-25 10:08:49  #其他
+
+【最高檢：深挖涉毒洗錢犯罪】最高人民檢察院6月25日舉行的新聞釋出會上，最高檢副檢察長苗生明介紹，檢察機關深挖徹查“自洗錢”與“他洗錢”犯罪，大力推進涉毒資產追繳，確保實現涉毒洗錢犯罪查處全覆蓋。2025年1月至2026年5月，全國檢察機關共起訴涉毒洗錢犯罪1200餘人。如最高檢掛牌督辦、重慶檢察機關辦理的李某波等人特大跨境走私、販賣、運輸毒品、洗錢案，李某波透過虛擬貨幣洗錢4800餘萬元，被依法數罪併罰判處死刑。
+
+---
+
+### 2026-06-25 10:08:39  #市場 #焦點
+
+紐約期金失守3980美元/盎司，日內跌0.72%。
+
+---
+
+### 2026-06-25 10:08:39  #市場
+
+大盤主力淨流出超100億。
+
+---
+
+### 2026-06-25 10:08:27  #市場 #焦點
+
+現貨黃金失守3970美元/盎司，日內跌0.76%。
+
+---
+
+### 2026-06-25 10:08:20  #其他
+
+【2025年1月至2026年5月檢察機關提起公訴毒品犯罪4.6萬餘人】最高檢黨組成員、副檢察長苗生明介紹，2025年1月至2026年5月，全國檢察機關共批捕毒品犯罪2.9萬餘人，同比下降36%；提起公訴毒品犯罪4.6萬餘人，同比下降30%。從辦案情況看，受境外毒品滲透等多方面因素影響，新型毒品犯罪和未列管成癮性物質濫用問題突出，懲治毒品犯罪仍需持續發力。
+
+---
+
+### 2026-06-25 10:06:48  #MKT News #Market Themes #China EV Leaders #09868.HK #Impact bearish
+
+Hong Kong-listed XPeng Inc. (09868.HK) shares fell more than 5% on turnover exceeding HK$300 mln.
+
+---
+
+### 2026-06-25 10:06:15  #公司
+
+【豪恩汽電等成立芯宸智算科技公司 含多項AI業務】企查查APP顯示，近日，深圳市豪恩芯宸智算科技有限公司成立，經營範圍包含：人工智慧通用應用系統；人工智慧行業應用系統整合服務；人工智慧應用軟體開發；人工智慧公共資料平臺等。企查查股權穿透顯示，該公司由豪恩汽電等共同持股。
+
+---
+
+### 2026-06-25 10:05:21  #其他
+
+DIGITALBRIDGE據悉正在探索AIMS資料中心的各種方案，包括出售的可能性，估值或達20億美元。
+
+---
+
+### 2026-06-25 10:05:17  #MKT News #Market Themes #AI Revolution #BIDU.O #Impact bullish
+
+【Baidu consolidates Wenxin sites into unified AI portal】On June 25, Baidu said it has merged and upgraded its Wenxin-related websites into a single Baidu Wenxin site as a one-stop AI services portal, with an expanded feature matrix.
 
 ---
 
@@ -23162,167 +23354,5 @@ South Korea's KOSPI extended gains to about 3%; Samsung Electronics rose 6.6%.
 ### 2026-06-24 08:05:24  #宏觀 #公司 #市場 #國際
 
 【韓國股市暴跌引發投資者重新審視2900億美元槓桿ETF熱潮】在韓國股市AI驅動的拋售中，市場的目光重新聚焦於散戶投資增長最快的領域之一：槓桿交易所交易基金(ETF)。這些產品多年來一直是日內交易員的常用工具，但本週三星電子和SK海力士股價波動劇烈，而且韓國最高市場監管機構對允許發行單一股票槓桿ETF表達了後悔之意，這引發了投資者對這類ETF是否在加劇市場波動的重新審視。這個問題在週二變得更加緊迫，當日韓國基準Kospi指數暴跌10%，引發全球半導體股票遭拋售，並拖累歐洲和美國股指下跌。雖然很少有投資者將此次下跌歸咎於槓桿ETF，但策略師們越來越將它們視為投機機制的一部分，一旦動能發生轉變，槓桿ETF就會放大市場波動。隨著槓桿ETF產品達到空前規模，市場對其的關注度也隨之升溫。資料顯示，目前槓桿ETF的資產規模已超過2900億美元，其中亞洲市場規模超過450億美元，美國市場規模超過2200億美元。巴克萊股票戰術策略的Alexander Altmann估計，過去10個交易日中，美國槓桿ETF的再平衡平均每天約為200億美元，大約是過去一年平均水平的四倍。
-
----
-
-### 2026-06-24 08:04:27  #觀點
-
-【中信建投：證券板塊當前處於“業績高增、估值低位、產業趨勢加速”三者共振的視窗期】中信建投研報稱，證券板塊當前處於“業績高增、估值低位、產業趨勢加速”三者共振的視窗期。業績端，中報高增+投行專案兌現構成連續驗證；產業端，大財富業務格局集中、科創投行賦能、國際業務加速擴張三大趨勢夯實中長期中樞；估值端，PB歷史較低分位蘊含安全邊際。在科技板塊交易擁擠度攀升、資金高切低輪動的背景下，證券板塊的風險收益比仍具吸引力。
-
----
-
-### 2026-06-24 08:03:11  #MKT News #Market Themes #Chip Wars #005930.KS #Impact bullish #000660.KS
-
-Samsung Electronics shares rose 4%; SK Hynix shares gained 3%.
-
----
-
-### 2026-06-24 08:02:54  #MKT News #Important #Nikkei 225 #Impact bearish
-
-South Korea's KOSPI opened 1.9% higher; Japan's Nikkei 225 opened 0.25% lower.
-
----
-
-### 2026-06-24 08:02:53  #MKT News #Market Regions #Japan & APAC #USDJPY #Impact bearish #DXY
-
-Bank of Japan June policy meeting summary: one member said there is no reason for the BOJ to stop reducing bond purchases.
-
----
-
-### 2026-06-24 08:02:50  #公司 #市場
-
-三星電子股價上漲3%，SK海力士股價上漲3.4%。
-
----
-
-### 2026-06-24 08:02:37  #央行 #國際
-
-日本央行意見摘要：一位委員稱央行完全沒有理由停止削減日本公債購買規模。
-
----
-
-### 2026-06-24 08:02:32  #國際
-
-美國財長貝森特：通脹將回歸目標水平。
-
----
-
-### 2026-06-24 08:02:14  #Trading Economics #Markets #United States #Stock Market #Importance 2
-
-US Futures Steady Ahead of Micron Results — US stock futures were little changed on Wednesday as investors awaited Micron Technology’s earnings report, with the memory chip sector continuing to benefit from the global expansion of AI infrastructure. Micron shares gained more than 1% in after-hours trading, while competitor Sandisk added around 1%, recovering slightly after both stocks plunged over 13% during Tuesday’s regular session. Meanwhile, shares of Google parent Alphabet rose roughly 0.5% after S&P Global announced the company would join the 30-stock Dow before trading begins next Monday. In the previous session, the S&P 500 fell 1.44% and the Nasdaq Composite dropped 2.21%, while the Dow lost 0.09%. The selloff was led by AI infrastructure firms, including semiconductor and memory chip makers, as investors grew increasingly concerned that massive AI investments by hyperscalers may generate weaker-than-expected returns.
-
----
-
-### 2026-06-24 08:02:08  #MKT News #Market Themes #AI Revolution #USDJPY #Impact bearish #XAUUSD #Impact bullish #Copper #Impact mixed
-
-Bank of Japan June policy meeting summary: a member said global AI-related demand is boosting economic activity and prices more than expected.
-
----
-
-### 2026-06-24 08:02:06  #公司
-
-【和譽醫藥：與禮來深化研發合作】和譽醫藥公告，公司與全球領先製藥企業禮來簽署戰略研究合作及授權協議。根據協議，雙方將圍繞多個疾病靶點開展創新藥研發合作，共同推進具有全球潛力的新型候選藥物。和譽醫藥將依託其早期藥物發現平臺、創新研發體系及豐富的開發經驗，圍繞禮來選定的疾病靶點開展新藥專案的發現與早期開發活動。和譽醫藥將獲得首付款，並有資格在後續達成開發、監管及商業化相關里程碑後獲得進一步付款，潛在總金額達19億美元。此外，和譽醫藥還將有權根據此次合作產生的產品年度淨銷售額獲得階梯式銷售分成。
-
----
-
-### 2026-06-24 08:01:58  #央行 #國際
-
-日本央行意見摘要：一位委員表示，全球人工智慧相關需求正以超出預期的程度推高經濟活動和物價。
-
----
-
-### 2026-06-24 08:01:47  #市場 #央行 #國際
-
-日本央行會議意見摘要：一位委員表示，即使未來原油價格下跌，價格上行偏差也極有可能開始蔓延至更廣泛的商品領域。
-
----
-
-### 2026-06-24 08:01:39  #MKT News #Market Regions #Japan & APAC #Nikkei 225 #Impact bullish #XAUUSD
-
-BANK OF JAPAN June policy meeting summary: a member said inf expectations have shifted; negative real rates have driven higher lending, commercial paper issuance and asset prices.
-
----
-
-### 2026-06-24 08:01:35  #國際
-
-【美國會令特朗普將美軍撤出對伊行動】當地時間6月23日下午，美國國會參議院透過一項法案，要求美國總統特朗普停止對伊朗的軍事行動，將美軍從與伊朗的敵對行動中撤出。表決結果為50票贊成、48票反對，2名共和黨議員缺席投票。這項戰爭權力決議本月早些時候已在眾議院透過。這是自美國1973年《戰爭權力法》頒佈以來，首次由參眾兩院雙雙透過決議。不過，該投票大機率僅具象徵意義。 根據1973年《戰爭權力法》，兩院透過的“共同決議案”不需送白宮由總統簽署。美國國會制定該法時意圖將其作為終止軍事行動的機制。但法律專家認為此問題尚無定論——此前從未有戰爭權力決議在參眾兩院雙雙透過；而1983年美國最高法院裁決稱此類措施須提交總統簽署或否決方能產生法律效力。 白宮方面則堅持《戰爭權力法》違憲，故對其無約束力。
-
----
-
-### 2026-06-24 08:01:03  #MKT News #USDJPY #Impact bearish #DXY
-
-BANK OF JAPAN June policy meeting summary: one member said signs of rising wholesale prices are becoming clearer, particularly in distribution costs, which could feed through to underlying inflation.
-
----
-
-### 2026-06-24 08:00:53  #MKT News #Market Regions #Japan & APAC
-
-Bank of Japan June policy meeting summary: one member said more attention is needed to firms' proactive pricing behavior and the upward pressure it places on overall inflation.
-
----
-
-### 2026-06-24 08:00:41  #市場 #國際
-
-韓國綜合股價指數（KOSPI）開盤上漲1.9%，至8356.79點。
-
----
-
-### 2026-06-24 08:00:18  #市場
-
-日經225指數上午開盤報69615.08點，跌幅0.25%。
-
----
-
-### 2026-06-24 08:00:08  #Trading Economics #Markets #Australia #stocks #Importance 1
-
-Commonwealth Bank Stock Price Hits 4-week High — Commonwealth Bank shares increased to 166.11 AUD, the highest since May 2026. Over the past 4 weeks, Commonwealth Bank gained 0.92%, and in the last 12 months, it decreased 11.7%.
-
----
-
-### 2026-06-24 07:59:48  #央行 #國際
-
-日本央行意見摘要：一位委員表示，批發價格漲勢愈發明顯，尤其是流通成本方面，這可能會影響基礎通脹。
-
----
-
-### 2026-06-24 07:59:42  #央行 #國際
-
-日本央行意見摘要：一位委員表示，必須更加警惕企業積極的定價行為推高整體通脹。
-
----
-
-### 2026-06-24 07:59:37  #觀點
-
-【中信建投：中國科技政策進一步進入產業閉環攻關階段】中信建投證券研報指出，中國科技政策正在由追趕型創新、創新與安全並重，進一步進入以高水平科技自立自強為核心的產業閉環攻關階段。科技政策的重心將圍繞國家能力建設展開，優先補足算力、資料、基礎軟體、關鍵材料、工業母機、高階儀器等薄弱環節，再透過企業主導的產學研融通、中試驗證和科技金融，將研發成果轉化為可迭代的產業能力。指標層面，重點關注研發投入強度、基礎研究權重、創新質量、成果轉化效率和關鍵核心技術自主可控程度五個維度。當前中國研發投入總量已進入全球第一梯隊，但基礎研究佔比、企業基礎研究參與度、專利產業化率和關鍵環節工程化能力仍是制約因素。政策工具層面，供給端注重能力建設，需求端強調場景創造，制度環境形成正向激勵，並透過新型舉國體制形成合力。展望未來，硬科技投資將從政策主題交易轉向訂單驗證和產業化兌現，安全、智慧化與轉化能力有望成為“十五五”時期政策與市場共同關注的主線。
-
----
-
-### 2026-06-24 07:59:34  #其他
-
-【中酒協：超八成受訪酒企利潤承壓 白酒行業存量博弈格局延續】近日，中國酒業協會聯合畢馬威中國於德陽綿竹釋出《2026中國白酒市場中期研究報告》，全維度拆解行業上半年執行現狀。《報告》指出，行業正經歷典型的“量價利三殺”，超86%調研企業利潤率下降，68.5%受訪企業預期下半年繼續下行調整。
-
----
-
-### 2026-06-24 07:58:57  #國際
-
-【中方：維和人員安全不容侵犯 肇事者應被嚴懲】中國常駐聯合國副代表孫磊23日在安理會表決透過加強對襲擊維和人員行為追責決議後作解釋性發言，對決議透過表示歡迎。 孫磊說，聯合國維和行動是維護國際和平與安全的重要手段。作為維和行動的堅定支持者、主要出兵國和“聯合國維和人員安全之友小組”共同主席，中方高度關注維和人員安全問題，歡迎安理會一致透過第2823號決議。 他表示，當前國際安全環境錯綜複雜，維和人員面臨的傳統與非傳統安全威脅十分嚴峻。任何蓄意襲擊維和人員的行為，都嚴重違反國際人道法和安理會相關決議。中方支援安理會透過這項決議，希望決議得到有效落實，向國際社會發出維和人員安全不容侵犯、肇事者應被嚴懲的明確訊號。
-
----
-
-### 2026-06-24 07:58:26  #MKT News
-
-Indonesian financial regulator says the country's capital market remains highly promising and attractive to domestic and foreign investors.
-
----
-
-### 2026-06-24 07:57:57  #MKT News #Market Regions #Japan & APAC #USDJPY #Impact bullish
-
-Bank of Japan June policy meeting summary: one member said downside risks to output and employment could disrupt the virtuous wage-price cycle and could push Japan back into deflation.
-
----
-
-### 2026-06-24 07:57:40  #MKT News
-
-Indonesian financial regulator says it will maintain communication with global index providers and investors.
 
 ---

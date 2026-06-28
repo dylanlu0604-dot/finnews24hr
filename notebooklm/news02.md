@@ -1,7 +1,121 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-06-28 19:47:44_
-_本檔包含 3667 則快訊，約 668852 字_
+_更新時間：2026-06-28 20:24:36_
+_本檔包含 3654 則快訊，約 669015 字_
+
+---
+
+### 2026-06-26 11:25:06  #其他
+
+中際旭創成交額超300億元，現跌6.07%。
+
+---
+
+### 2026-06-26 11:24:15  #市場 #焦點
+
+中證1000指數期貨連續主力合約日內跌3%，現報8267.60點。
+
+---
+
+### 2026-06-26 11:23:50  #市場 #焦點
+
+PTA連續主力合約日內跌1%，現報5414.00元。
+
+---
+
+### 2026-06-26 11:23:33  #國際
+
+【中方強調聯合國建設和平工作要尊重主權和主導權】中國常駐聯合國副代表孫磊25日在聯合國建設和平委員會年度會議上表示，聯合國建和工作要尊重當事國主權和主導權，根據當事國具體條件和優先事項精準施策，切實尊重、調動併發揮當事國的主導作用。 孫磊說，今年是落實建和架構審查成果的啟動之年。建和委作為架構中樞，發揮了重要作用。我們應總結經驗、把準方向、改革創新、提質增效，推動聯合國建設和平事業行穩致遠。 孫磊表示，建和工作在著眼當事國最迫切需求的同時，更應著眼長遠，將資源用於消除貧困、普及教育、創造就業、改善民生等重點領域，增強當事國內生髮展動力，致力於消除衝突動盪的深層根源。建和工作還要同維和任務加強協調，促進維和到建和的平穩過渡。建和委應根據授權，加強同聯大、安理會和經社理事會互動，密切同聯合國系統內部專案、基金的聯動，積極拓展與區域組織、國際金融機構等的夥伴關係，有效調集資源，增強系統合力，不斷提質增效。 孫磊強調，中方提出全球發展倡議、全球安全倡議、全球文明倡議和全球治理倡議，為國際建設和平事業提供了中國智慧和中國方案。中方願同各方深化經驗互鑑，積極參與建和架構審查成果落實，推動完善更加務實、高效、包容的建和架構，攜手共創和平繁榮未來。(新華社)
+
+---
+
+### 2026-06-26 11:23:18  #市場 #焦點
+
+富時中國A50指數期貨跌幅擴大至4%。
+
+---
+
+### 2026-06-26 11:23:18  #MKT News #Important #Market Regions #Greater China #CSI300 #Impact bearish #HSI #XAUUSD #Impact bullish
+
+FTSE China A50 futures extended losses to 4%.
+
+---
+
+### 2026-06-26 11:23:09  #宏觀
+
+【國家能源局：“十五五”時期將繼續推動能源專案敞開大門 出臺民營企業參與大中型水電等專案投資指引】國家能源局新聞發言人、副局長萬勁松在國新辦新聞釋出會上表示，“十五五”時期，將堅持開門搞建設、服務促投資，加力支援民營企業投身新型能源體系建設。在能源重大專案上，擴大民營企業投資空間。對具有一定收益的核電、水電、油氣儲運設施等重大專案，逐一論證民營企業參與的可行性。當前，民營企業已參與12個核電專案，股比最高達20%。“十五五”時期，我們將繼續推動能源專案敞開大門，出臺民營企業參與大中型水電等專案投資指引，讓企業投資有方向、收益有保障。在新模式新業態上，支援民營企業大展身手。在目前已審批的105個綠電直連專案中，民營企業的專案佔一半。當前，多使用者綠電直連政策已經出臺，進一步激發民營企業投資零碳園區、工業綠色微電網和綜合能源服務的積極性。我們將進一步完善電力市場和價格機制，支援民營企業投資虛擬電廠、充電設施、新型儲能等專案。在最佳化營商環境上，為民營企業提供更好服務。集中整治招投標亂象、光伏行業無序競爭、強制產業配套等行為，持續推進電網、油氣管網等基礎設施對民營企業公平開放。“十五五”時期，我們還將陸續出臺新的改革創新舉措，讓民營企業在能源領域投資空間更大、機會更多、信心更足。
+
+---
+
+### 2026-06-26 11:23:07  #市場 #焦點
+
+上證50指數期貨連續主力合約日內跌3%，現報2836.80點。
+
+---
+
+### 2026-06-26 11:22:10  #公司
+
+【智元機器人等入股飛闊科技】天眼查App顯示，近日，杭州飛闊科技有限公司發生工商變更，新增智元機器人關聯公司智元創新（上海）科技股份有限公司、共青城慕智合創創業投資合夥企業（有限合夥）、杭州澤蒙投資管理合夥企業（有限合夥）等為股東，同時，註冊資本由100萬人民幣增至107萬人民幣。杭州飛闊科技有限公司成立於2024年10月，法定代表人為李潔，經營範圍包括技術服務、技術開發、技術諮詢、技術交流、技術轉讓、技術推廣，智慧機器人銷售，工業機器人銷售，智慧機器人的研發等。
+
+---
+
+### 2026-06-26 11:21:59  #市場 #國際
+
+韓國綜合股價指數（KOSPI）跌幅擴大；最新報8199.81，下跌8.2%。
+
+---
+
+### 2026-06-26 11:20:15  #公司
+
+【松延動力在珠海成立新科技公司 註冊資本500萬】天眼查App顯示，近日，松延智創（珠海市橫琴）科技有限公司成立，法定代表人為姜哲源，註冊資本500萬人民幣，經營範圍包括工業機器人銷售、智慧機器人的研發、智慧機器人銷售等，由北京松延動力科技集團股份有限公司全資持股。
+
+---
+
+### 2026-06-26 11:20:03  #其他
+
+【南非總統：將與非洲國家合作解決非法移民問題】當地時間6月25日，南非總統拉馬福薩在南非立法首都開普敦表示，將與非洲其他國家攜手合作，共同應對非法移民問題。拉馬福薩當天在南非全國省級事務委員會（議會上院）回答議員提問時說，非法移民問題是一個席捲非洲大陸乃至全球的問題，南非無法僅靠一己之力解決。南非正與非洲其他國家進行溝通，並透過非洲聯盟和南部非洲發展共同體尋求可持續的解決方案。非洲各國需要攜手合作，共同應對引發該問題的原因，包括衝突、政治不穩定、經濟困難、失業、環境壓力等。（央視新聞）
+
+---
+
+### 2026-06-26 11:18:22  #MKT News
+
+Indonesia's stock index extended losses to 2%.
+
+---
+
+### 2026-06-26 11:17:49  #市場 #國際
+
+印尼股指下跌2%至5879.53點。
+
+---
+
+### 2026-06-26 11:16:40  #MKT News #Market Themes #Chip Wars #S&P500 #Impact bearish #Nasdaq100 #DXY #Impact bullish
+
+【KOSPI plunges over 8% as chip stocks face fresh sell-off】KOSPI tumbled more than 8% intraday on Friday, wiping out the prior session's gains and triggering a market circuit-breaker. Samsung Electronics and SK Hynix shares fell about 9% each. Foreign investors sold 2.5 tln won (≈$1.6bn) of KOSPI stocks in early trade. The rout reversed Thursday’s rally after Micron’s upbeat guidance and SK Hynix’s planned U.S. listing had lifted AI-related optimism. Sentiment soured after reports Apple raised prices amid memory-chip shortages and OpenAI may delay an IPO until next year. IG International analyst Fabien Yip warned that if large buyers such as Apple cannot absorb higher costs it would raise questions about demand elasticity and the sustainability of memory-chip margins, and that an OpenAI IPO delay underscores tech stocks’ vulnerability to shifts in retail enthusiasm.
+
+---
+
+### 2026-06-26 11:15:38  #其他
+
+上海6月份個人車牌拍賣將於明天（10:30-11:30）舉行，本月個人客車額度合計拍賣總數3809個。警示價為92900元。（上海釋出）
+
+---
+
+### 2026-06-26 11:15:02  #公司
+
+【無界動力完成超2億美元天使輪融資】6月26日，通用具身智慧機器人公司無界動力宣佈完成超2億美元天使輪融資。最新天使輪融資由京東關聯基金、C資本、弘毅投資、盛宇投資、豐源投資等多家知名機構聯合投資，老股東線性資本、紅杉中國、華業天成、雅瑞資本等跟投，所獲資金將持續用於具身通用大腦研發、技術基礎設施建設以及全球規模化交付。同時，Pre-A輪近2億美元的融資也接近完成，持續獲得頂級產業資本、頭部美元和人民幣資本的支援。
+
+---
+
+### 2026-06-26 11:15:00  #市場 #焦點
+
+【A股豬肉概念板塊異動拉昇】神農集團觸及漲停，大禹生物、牧原股份、溫氏股份、巨星農牧、蘇豪匯鴻、新希望跟漲。
+
+---
+
+### 2026-06-26 11:14:58  #Trading Economics #Markets #Commodity #Importance 1
+
+Corn Pressured at Multi-Month Lows — Corn futures held around $4.1 per bushel, struggling to sustain their rebound from eight-month lows as weaker crude oil prices and a firmer US dollar continued to weigh on prices, while hot US weather raised crop concerns. The National Weather Service forecast temperatures nearing 100 degrees Fahrenheit this weekend, extending as far north as the upper Midwest and as far east as the Carolinas. These elevated temperatures are expected to stretch from the Plains to the Atlantic Coast through July 4. Elsewhere, Brazil raised its estimate for the country’s 2025/26 second corn crop by 3.4%, although the forecast remained below the previous season’s record harvest after adverse weather limited potential. Meanwhile, lower crude oil prices continued to pressure corn as improved shipping through the Strait of Hormuz boosted expectations of stronger global oil supply. A stronger US dollar also weighed amid mounting bets on US rate hikes this year, making US supplies less competitive overseas.
 
 ---
 
@@ -21898,197 +22012,5 @@ Kioxia plans to list American Depositary Receipts (ADRs) in the US in April or M
 ### 2026-06-25 10:17:02  #MKT News #DXY #Impact bearish
 
 【Australia May jobs rebound, unemployment dips slightly】Australia's labour market showed signs of recovery in May: net employment rose 40.3k vs a 30k consensus; April was revised to a 40.6k gain, though a sizable downward revision to earlier data partly offsets the improvement. Unemployment eased from a four-and-a-half-year high to 4.4% (from 4.5%) as expected, while the participation rate rose to 66.7%. Aggregate hours worked fell 1.1%. The report points to economic resilience and could, if necessary, support further RBA rate hikes.
-
----
-
-### 2026-06-25 10:16:49  #市場 #國際
-
-印尼基準股指收復早盤失地，最新上漲0.6%，報5922點。
-
----
-
-### 2026-06-25 10:15:30  #其他
-
-【2025年1月至2026年5月檢察機關對毒品案件提出二審和再審抗訴300餘件】最高檢黨組成員、副檢察長苗生明介紹，檢察機關充分發揮檢察一體化優勢，堅持上下聯動、同向發力，綜合運用抗訴、再審檢察建議、書面糾正違法等多元化監督方式，推動毒品案件精準監督、規範監督、有力監督。2025年1月至2026年5月，全國檢察機關對毒品案件提出二審和再審抗訴300餘件，已改判100餘件，對100餘人加重了刑罰。同時，透過書面糾正審判活動違法400餘件。
-
----
-
-### 2026-06-25 10:15:08  #Trading Economics #Markets #Currency #Importance 1
-
-Asia FX Updates: South Korean Won Drops by 0.39% — Top currency loser is South Korean Won (-0.39%). Gains are led by Japanese Yen (0.06%). Meanwhile Chinese Yuan was little changed.
-
----
-
-### 2026-06-25 10:15:07  #觀點 #央行 #國際
-
-【壓力測試過關，摩根大通、高盛等大行提高股利】當地時間6月24日，美聯儲壓力測試顯示，所有受檢銀行都能維持足夠資本，以承受假設中的經濟衰退衝擊。美聯儲年度評估結果公佈後，摩根大通將季度股利由每股1.50美元提高到1.65美元，高盛的股利從4.50美元上調至5美元。摩根大通另外批准一項新的500億美元股票回購計劃，自7月1日起生效。
-
----
-
-### 2026-06-25 10:14:36  #其他
-
-【最高檢：依法打擊寄遞毒品犯罪，推動寄遞安全三項制度嚴格落實】6月25日，最高檢黨組成員、副檢察長苗生明在新聞釋出會上介紹，針對“網際網路+寄遞”毒品犯罪高發問題，檢察機關常態化落實最高檢“七號檢察建議”，始終保持對寄遞領域涉毒犯罪高壓態勢，推動寄遞安全“三項制度”（即實名收寄、收寄驗視、過機安檢）嚴格落實，協同推進行業綜合治理，努力斬斷毒品流通“隱形通道”。
-
----
-
-### 2026-06-25 10:14:25  #公司
-
-【軟通動力通州智慧製造基地建設再提速 液冷伺服器產線即將投產】據軟通動力訊息，軟通動力通州智慧製造基地建設再提速。2026年9月，一體化冷板式液冷伺服器智慧產線將正式投產，標誌著公司在算力基礎設施領域完成新一輪產能佈局。如今，該智慧製造基地核心廠房與配套樓建設已進入收尾階段。未來，這裡將形成年產約20萬臺信創PC及終端和10萬臺伺服器的產能規模。
-
----
-
-### 2026-06-25 10:14:23  #市場
-
-現貨黃金下跌近1%，至每盎司3962.11美元。
-
----
-
-### 2026-06-25 10:14:10  #MKT News #Commodities #Precious Metals #02099.HK #Impact bearish #01818.HK #01787.HK
-
-Hong Kong-listed gold miners slid: China Gold International (02099.HK) fell over 9%; Zhaojin Mining (01818.HK), Shandong Gold (01787.HK) and Lingbao Gold (03330.HK) dropped more than 8%.
-
----
-
-### 2026-06-25 10:13:27  #市場 #焦點
-
-滬深兩市成交額超1.5萬億元，較上日此時放量2304億元。
-
----
-
-### 2026-06-25 10:13:15  #MKT News #00670.HK #Impact bullish #00753.HK #00293.HK
-
-Hong Kong-listed aviation stocks traded higher: China Eastern Airlines (00670.HK) up over 5%, Air China (00753.HK) up over 3%, Cathay Pacific (00293.HK) up over 2% and China Southern Airlines (01055.HK) up over 1%.
-
----
-
-### 2026-06-25 10:13:06  #其他
-
-【中使館提醒在委內瑞拉中國公民注意防災】中國駐委內瑞拉大使館當地時間6月24日發文，提醒在委中國公民密切關注當地地震預警和災害相關資訊，防範餘震及地震導致的次生災害；保持冷靜，做好安全防護，保持通訊裝置暢通。請相關地區中國公民立即遠離海邊，轉移至安全區域避險。如遇緊急情況，請及時報警並聯系中國駐委內瑞拉使館尋求協助。
-
----
-
-### 2026-06-25 10:12:59  #市場 #焦點
-
-20號膠連續主力合約日內跌7%，現報14525.00元。
-
----
-
-### 2026-06-25 10:12:49  #其他
-
-【加大理賠力度，1-5月全國農業保險已賠付370億元】據國家金融監督管理總局，今年1—5月，全國農業保險已賠付370億元，受益農戶1209萬戶次。糧食作物保險已賠付60.47億元，受益農戶546.31萬戶次，其中，小麥已賠付30.93億元，受益農戶343.42萬戶次。農險賠款為受災農戶恢復再生產發揮了重要作用。金融監管總局表示，當前黃淮海等夏糧主產省已經進入集中收穫期，受近期強降雨、病蟲害等因素影響，部分省份受災嚴重。農業保險理賠工作時間緊、任務重。目前，面對比較集中的區域性大面積農業災害，農險理賠服務領域還存在不少困難和問題。
-
----
-
-### 2026-06-25 10:12:43  #其他
-
-【黃巖島藍洞調查報告發布】生態環境部6月25日釋出《2025年黃巖島藍洞調查報告》。報告顯示，黃巖島藍洞屬於世界罕見的珊瑚礁生長結構成因型海洋藍洞，也是我國迄今探明的第一個珊瑚礁藍洞，洞口面積約1491.7平方米、最大直徑56.3米，深度16.6米，內部結構呈漏斗狀，洞底狹窄，存在水體濁度分層。地質年代學研究初步表明，該藍洞至少形成於距今3200年前。黃巖島藍洞及周邊海域生物多樣性豐富。(新華社)
-
----
-
-### 2026-06-25 10:12:32  #市場
-
-【創新藥概念震盪回落 亞太藥業觸及跌停】創新藥概念震盪回落，亞太藥業觸及跌停，津藥藥業、康芝藥業、雙鷺藥業、新華製藥、海辰藥業、君實生物、百花醫藥跌幅居前。
-
----
-
-### 2026-06-25 10:12:21  #市場
-
-【有色·鎢概念震盪走強 翔鷺鎢業觸及漲停】有色·鎢概念震盪走強，翔鷺鎢業觸及漲停，中鎢高新、廈門鎢業、章源鎢業漲幅靠前。
-
----
-
-### 2026-06-25 10:12:06  #市場 #國際 #原創
-
-【霍爾木茲海峽重開增加供應 布倫特原油抹去戰時全部漲幅】在美伊和平協議取得進展後，霍爾木茲海峽的運輸量增加，布倫特原油期貨價格已抹去戰爭期間的所有漲幅。這一全球基準油價週四延續跌勢，跌破衝突前的收盤價每桶72.48美元。WTI原油期貨交易價格徘徊在69美元附近。市場關鍵領域突然供應過剩，買家被來自中東以及非洲的原油報價淹沒。截至北京時間上午10:00，8月交割的布倫特原油期貨下跌1.6%至每桶72.56美元。8月交割的WTI下降1.4%至每桶69.38美元。美國頒佈的一項臨時豁免令允許購買已裝船的伊朗原油，這也將進一步增加供應量。不過，融資和保險方面的障礙依然存在，這可能會限制銷售。
-
----
-
-### 2026-06-25 10:10:34  #MKT News #Market Regions #Greater China #Hang Seng Index #Impact bearish
-
-Hang Seng Tech Index fell over 2%; HSI down 1.4%.
-
----
-
-### 2026-06-25 10:10:29  #其他
-
-【委內瑞拉官員：地震致至少18人受傷】委內瑞拉首都加拉加斯附近的米蘭達州查考市市長古斯塔沃·杜克24日在社交媒體上說，該市有兩處建築物在地震中倒塌，目前已救出18名受困傷者，500餘名政府工作人員正在執行救援任務。（新華社）
-
----
-
-### 2026-06-25 10:10:25  #MKT News
-
-【Venezuela official: Earthquake injures at least 18】Gustavo Duque, mayor of Chacao in Miranda state near Caracas, said on social media on the 24th that two buildings collapsed in the quake; 18 people have been rescued injured and more than 500 government personnel are conducting rescue operations.
-
----
-
-### 2026-06-25 10:10:05  #市場 #焦點
-
-白銀連續主力合約日內跌8%，現報13704.00元。
-
----
-
-### 2026-06-25 10:10:02  #市場 #焦點
-
-恒生科技指數跌超2%，現報4389.270點；恒生指數現跌1.405%。
-
----
-
-### 2026-06-25 10:09:06  #市場 #焦點
-
-北證50日內跌幅達1.03%，成分股中，國航遠洋跌6.00%，聚星科技跌5.37%，XD銅冠礦跌4.86%，諾思蘭德跌4.46%。
-
----
-
-### 2026-06-25 10:08:49  #其他
-
-【最高檢：深挖涉毒洗錢犯罪】最高人民檢察院6月25日舉行的新聞釋出會上，最高檢副檢察長苗生明介紹，檢察機關深挖徹查“自洗錢”與“他洗錢”犯罪，大力推進涉毒資產追繳，確保實現涉毒洗錢犯罪查處全覆蓋。2025年1月至2026年5月，全國檢察機關共起訴涉毒洗錢犯罪1200餘人。如最高檢掛牌督辦、重慶檢察機關辦理的李某波等人特大跨境走私、販賣、運輸毒品、洗錢案，李某波透過虛擬貨幣洗錢4800餘萬元，被依法數罪併罰判處死刑。
-
----
-
-### 2026-06-25 10:08:39  #市場 #焦點
-
-紐約期金失守3980美元/盎司，日內跌0.72%。
-
----
-
-### 2026-06-25 10:08:39  #市場
-
-大盤主力淨流出超100億。
-
----
-
-### 2026-06-25 10:08:27  #市場 #焦點
-
-現貨黃金失守3970美元/盎司，日內跌0.76%。
-
----
-
-### 2026-06-25 10:08:20  #其他
-
-【2025年1月至2026年5月檢察機關提起公訴毒品犯罪4.6萬餘人】最高檢黨組成員、副檢察長苗生明介紹，2025年1月至2026年5月，全國檢察機關共批捕毒品犯罪2.9萬餘人，同比下降36%；提起公訴毒品犯罪4.6萬餘人，同比下降30%。從辦案情況看，受境外毒品滲透等多方面因素影響，新型毒品犯罪和未列管成癮性物質濫用問題突出，懲治毒品犯罪仍需持續發力。
-
----
-
-### 2026-06-25 10:06:48  #MKT News #Market Themes #China EV Leaders #09868.HK #Impact bearish
-
-Hong Kong-listed XPeng Inc. (09868.HK) shares fell more than 5% on turnover exceeding HK$300 mln.
-
----
-
-### 2026-06-25 10:06:15  #公司
-
-【豪恩汽電等成立芯宸智算科技公司 含多項AI業務】企查查APP顯示，近日，深圳市豪恩芯宸智算科技有限公司成立，經營範圍包含：人工智慧通用應用系統；人工智慧行業應用系統整合服務；人工智慧應用軟體開發；人工智慧公共資料平臺等。企查查股權穿透顯示，該公司由豪恩汽電等共同持股。
-
----
-
-### 2026-06-25 10:05:21  #其他
-
-DIGITALBRIDGE據悉正在探索AIMS資料中心的各種方案，包括出售的可能性，估值或達20億美元。
-
----
-
-### 2026-06-25 10:05:17  #MKT News #Market Themes #AI Revolution #BIDU.O #Impact bullish
-
-【Baidu consolidates Wenxin sites into unified AI portal】On June 25, Baidu said it has merged and upgraded its Wenxin-related websites into a single Baidu Wenxin site as a one-stop AI services portal, with an expanded feature matrix.
 
 ---

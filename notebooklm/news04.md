@@ -1,7 +1,169 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-06-28 19:47:44_
-_本檔包含 3479 則快訊，約 669858 字_
+_更新時間：2026-06-28 20:24:36_
+_本檔包含 3490 則快訊，約 669039 字_
+
+---
+
+### 2026-06-24 08:04:27  #觀點
+
+【中信建投：證券板塊當前處於“業績高增、估值低位、產業趨勢加速”三者共振的視窗期】中信建投研報稱，證券板塊當前處於“業績高增、估值低位、產業趨勢加速”三者共振的視窗期。業績端，中報高增+投行專案兌現構成連續驗證；產業端，大財富業務格局集中、科創投行賦能、國際業務加速擴張三大趨勢夯實中長期中樞；估值端，PB歷史較低分位蘊含安全邊際。在科技板塊交易擁擠度攀升、資金高切低輪動的背景下，證券板塊的風險收益比仍具吸引力。
+
+---
+
+### 2026-06-24 08:03:11  #MKT News #Market Themes #Chip Wars #005930.KS #Impact bullish #000660.KS
+
+Samsung Electronics shares rose 4%; SK Hynix shares gained 3%.
+
+---
+
+### 2026-06-24 08:02:54  #MKT News #Important #Nikkei 225 #Impact bearish
+
+South Korea's KOSPI opened 1.9% higher; Japan's Nikkei 225 opened 0.25% lower.
+
+---
+
+### 2026-06-24 08:02:53  #MKT News #Market Regions #Japan & APAC #USDJPY #Impact bearish #DXY
+
+Bank of Japan June policy meeting summary: one member said there is no reason for the BOJ to stop reducing bond purchases.
+
+---
+
+### 2026-06-24 08:02:50  #公司 #市場
+
+三星電子股價上漲3%，SK海力士股價上漲3.4%。
+
+---
+
+### 2026-06-24 08:02:37  #央行 #國際
+
+日本央行意見摘要：一位委員稱央行完全沒有理由停止削減日本公債購買規模。
+
+---
+
+### 2026-06-24 08:02:32  #國際
+
+美國財長貝森特：通脹將回歸目標水平。
+
+---
+
+### 2026-06-24 08:02:14  #Trading Economics #Markets #United States #Stock Market #Importance 2
+
+US Futures Steady Ahead of Micron Results — US stock futures were little changed on Wednesday as investors awaited Micron Technology’s earnings report, with the memory chip sector continuing to benefit from the global expansion of AI infrastructure. Micron shares gained more than 1% in after-hours trading, while competitor Sandisk added around 1%, recovering slightly after both stocks plunged over 13% during Tuesday’s regular session. Meanwhile, shares of Google parent Alphabet rose roughly 0.5% after S&P Global announced the company would join the 30-stock Dow before trading begins next Monday. In the previous session, the S&P 500 fell 1.44% and the Nasdaq Composite dropped 2.21%, while the Dow lost 0.09%. The selloff was led by AI infrastructure firms, including semiconductor and memory chip makers, as investors grew increasingly concerned that massive AI investments by hyperscalers may generate weaker-than-expected returns.
+
+---
+
+### 2026-06-24 08:02:08  #MKT News #Market Themes #AI Revolution #USDJPY #Impact bearish #XAUUSD #Impact bullish #Copper #Impact mixed
+
+Bank of Japan June policy meeting summary: a member said global AI-related demand is boosting economic activity and prices more than expected.
+
+---
+
+### 2026-06-24 08:02:06  #公司
+
+【和譽醫藥：與禮來深化研發合作】和譽醫藥公告，公司與全球領先製藥企業禮來簽署戰略研究合作及授權協議。根據協議，雙方將圍繞多個疾病靶點開展創新藥研發合作，共同推進具有全球潛力的新型候選藥物。和譽醫藥將依託其早期藥物發現平臺、創新研發體系及豐富的開發經驗，圍繞禮來選定的疾病靶點開展新藥專案的發現與早期開發活動。和譽醫藥將獲得首付款，並有資格在後續達成開發、監管及商業化相關里程碑後獲得進一步付款，潛在總金額達19億美元。此外，和譽醫藥還將有權根據此次合作產生的產品年度淨銷售額獲得階梯式銷售分成。
+
+---
+
+### 2026-06-24 08:01:58  #央行 #國際
+
+日本央行意見摘要：一位委員表示，全球人工智慧相關需求正以超出預期的程度推高經濟活動和物價。
+
+---
+
+### 2026-06-24 08:01:47  #市場 #央行 #國際
+
+日本央行會議意見摘要：一位委員表示，即使未來原油價格下跌，價格上行偏差也極有可能開始蔓延至更廣泛的商品領域。
+
+---
+
+### 2026-06-24 08:01:39  #MKT News #Market Regions #Japan & APAC #Nikkei 225 #Impact bullish #XAUUSD
+
+BANK OF JAPAN June policy meeting summary: a member said inf expectations have shifted; negative real rates have driven higher lending, commercial paper issuance and asset prices.
+
+---
+
+### 2026-06-24 08:01:35  #國際
+
+【美國會令特朗普將美軍撤出對伊行動】當地時間6月23日下午，美國國會參議院透過一項法案，要求美國總統特朗普停止對伊朗的軍事行動，將美軍從與伊朗的敵對行動中撤出。表決結果為50票贊成、48票反對，2名共和黨議員缺席投票。這項戰爭權力決議本月早些時候已在眾議院透過。這是自美國1973年《戰爭權力法》頒佈以來，首次由參眾兩院雙雙透過決議。不過，該投票大機率僅具象徵意義。 根據1973年《戰爭權力法》，兩院透過的“共同決議案”不需送白宮由總統簽署。美國國會制定該法時意圖將其作為終止軍事行動的機制。但法律專家認為此問題尚無定論——此前從未有戰爭權力決議在參眾兩院雙雙透過；而1983年美國最高法院裁決稱此類措施須提交總統簽署或否決方能產生法律效力。 白宮方面則堅持《戰爭權力法》違憲，故對其無約束力。
+
+---
+
+### 2026-06-24 08:01:03  #MKT News #USDJPY #Impact bearish #DXY
+
+BANK OF JAPAN June policy meeting summary: one member said signs of rising wholesale prices are becoming clearer, particularly in distribution costs, which could feed through to underlying inflation.
+
+---
+
+### 2026-06-24 08:00:53  #MKT News #Market Regions #Japan & APAC
+
+Bank of Japan June policy meeting summary: one member said more attention is needed to firms' proactive pricing behavior and the upward pressure it places on overall inflation.
+
+---
+
+### 2026-06-24 08:00:41  #市場 #國際
+
+韓國綜合股價指數（KOSPI）開盤上漲1.9%，至8356.79點。
+
+---
+
+### 2026-06-24 08:00:18  #市場
+
+日經225指數上午開盤報69615.08點，跌幅0.25%。
+
+---
+
+### 2026-06-24 08:00:08  #Trading Economics #Markets #Australia #stocks #Importance 1
+
+Commonwealth Bank Stock Price Hits 4-week High — Commonwealth Bank shares increased to 166.11 AUD, the highest since May 2026. Over the past 4 weeks, Commonwealth Bank gained 0.92%, and in the last 12 months, it decreased 11.7%.
+
+---
+
+### 2026-06-24 07:59:48  #央行 #國際
+
+日本央行意見摘要：一位委員表示，批發價格漲勢愈發明顯，尤其是流通成本方面，這可能會影響基礎通脹。
+
+---
+
+### 2026-06-24 07:59:42  #央行 #國際
+
+日本央行意見摘要：一位委員表示，必須更加警惕企業積極的定價行為推高整體通脹。
+
+---
+
+### 2026-06-24 07:59:37  #觀點
+
+【中信建投：中國科技政策進一步進入產業閉環攻關階段】中信建投證券研報指出，中國科技政策正在由追趕型創新、創新與安全並重，進一步進入以高水平科技自立自強為核心的產業閉環攻關階段。科技政策的重心將圍繞國家能力建設展開，優先補足算力、資料、基礎軟體、關鍵材料、工業母機、高階儀器等薄弱環節，再透過企業主導的產學研融通、中試驗證和科技金融，將研發成果轉化為可迭代的產業能力。指標層面，重點關注研發投入強度、基礎研究權重、創新質量、成果轉化效率和關鍵核心技術自主可控程度五個維度。當前中國研發投入總量已進入全球第一梯隊，但基礎研究佔比、企業基礎研究參與度、專利產業化率和關鍵環節工程化能力仍是制約因素。政策工具層面，供給端注重能力建設，需求端強調場景創造，制度環境形成正向激勵，並透過新型舉國體制形成合力。展望未來，硬科技投資將從政策主題交易轉向訂單驗證和產業化兌現，安全、智慧化與轉化能力有望成為“十五五”時期政策與市場共同關注的主線。
+
+---
+
+### 2026-06-24 07:59:34  #其他
+
+【中酒協：超八成受訪酒企利潤承壓 白酒行業存量博弈格局延續】近日，中國酒業協會聯合畢馬威中國於德陽綿竹釋出《2026中國白酒市場中期研究報告》，全維度拆解行業上半年執行現狀。《報告》指出，行業正經歷典型的“量價利三殺”，超86%調研企業利潤率下降，68.5%受訪企業預期下半年繼續下行調整。
+
+---
+
+### 2026-06-24 07:58:57  #國際
+
+【中方：維和人員安全不容侵犯 肇事者應被嚴懲】中國常駐聯合國副代表孫磊23日在安理會表決透過加強對襲擊維和人員行為追責決議後作解釋性發言，對決議透過表示歡迎。 孫磊說，聯合國維和行動是維護國際和平與安全的重要手段。作為維和行動的堅定支持者、主要出兵國和“聯合國維和人員安全之友小組”共同主席，中方高度關注維和人員安全問題，歡迎安理會一致透過第2823號決議。 他表示，當前國際安全環境錯綜複雜，維和人員面臨的傳統與非傳統安全威脅十分嚴峻。任何蓄意襲擊維和人員的行為，都嚴重違反國際人道法和安理會相關決議。中方支援安理會透過這項決議，希望決議得到有效落實，向國際社會發出維和人員安全不容侵犯、肇事者應被嚴懲的明確訊號。
+
+---
+
+### 2026-06-24 07:58:26  #MKT News
+
+Indonesian financial regulator says the country's capital market remains highly promising and attractive to domestic and foreign investors.
+
+---
+
+### 2026-06-24 07:57:57  #MKT News #Market Regions #Japan & APAC #USDJPY #Impact bullish
+
+Bank of Japan June policy meeting summary: one member said downside risks to output and employment could disrupt the virtuous wage-price cycle and could push Japan back into deflation.
+
+---
+
+### 2026-06-24 07:57:40  #MKT News
+
+Indonesian financial regulator says it will maintain communication with global index providers and investors.
 
 ---
 
@@ -20956,101 +21118,5 @@ Iran's central bank governor said remaining frozen funds will not necessarily be
 ### 2026-06-23 04:48:52  #MKT News #WTI #Impact bearish #DXY #S&P500 #Impact bullish
 
 【Trump says Iran will accept large-scale weapons inspections】President Trump said on social media on June 22 that all parties understand Iran will agree to large-scale weapons inspections to ensure its long-term nuclear integrity. Earlier the same day US and Iranian delegations concluded a first round of talks at Bürgenstock, Switzerland. Vice President Vance said at a press briefing the talks made substantial progress, laying a strong foundation for a final deal, and that Iran had agreed to invite IAEA inspectors back. Iran's state news agency IRNA quoted Foreign Ministry spokesman BAGHAEI saying Iran's cooperation with the IAEA will continue under existing mechanisms and in accordance with Iranian parliamentary law and decisions of the Supreme National Security Council.
-
----
-
-### 2026-06-23 04:48:48  #國際
-
-【特朗普稱伊朗將同意接受武器核查】美國總統特朗普22日在社交媒體發文稱，各方都完全清楚，伊朗將同意接受大規模武器核查，以確保其在未來長期保持“核誠信”。當天早些時候，美國和伊朗代表團在瑞士比爾根山的首輪談判結束。美國副總統萬斯在新聞釋出會上表示，美伊談判取得很多進展，為達成最終協議奠定非常好的基礎，伊朗已同意邀請國際原子能機構核查人員重返伊朗。伊朗伊斯蘭共和國通訊社22日援引伊朗外交部發言人巴加埃的話報道，伊朗與國際原子能機構的合作與互動將按照現行機制繼續進行，並遵循伊朗議會相關法律以及最高國家安全委員會作出的決定。（新華社）
-
----
-
-### 2026-06-23 04:47:09  #MKT News
-
-【Iran parliament speaker says Iran, US should jointly guarantee Lebanon's territorial integrity】On 22 June, Iran's chief negotiator and parliament speaker Ghalibaf said an Iran‑US memorandum of understanding explicitly calls for ending wars against Iran and its allies. He said both sides concluded in Swiss talks that Iran and the United States should jointly guarantee Lebanon's territorial integrity. The MoU already includes assurances on territorial integrity and should be implemented; the parties agreed to establish a coordination center to resolve related issues, enable displaced Lebanese to return and facilitate withdrawal of Israeli forces from Lebanese territory.
-
----
-
-### 2026-06-23 04:46:44  #國際
-
-美國聯邦航空管理局向一家美國航空航天防務企業授予一份價值 8.75 億美元的多年期軟體及人工智慧專案合同。
-
----
-
-### 2026-06-23 04:46:43  #MKT News
-
-TASNIM NEWS: Iran's central bank governor said Tehran has no obligation under existing agreements to buy agricultural inputs from the United States.
-
----
-
-### 2026-06-23 04:46:16  #國際
-
-【伊朗議長：伊美應共同保障黎巴嫩領土完整】當地時間22日，伊朗談判代表團團長、伊朗議會議長卡利巴夫表示，在伊美諒解備忘錄中，明確強調結束針對伊朗及其盟友的戰爭。卡利巴夫表示，伊美雙方在瑞士談判中達成結論，伊朗和美國應共同保障黎巴嫩的領土完整。諒解備忘錄中已包含對領土完整的保證，應繼續推進落實。為此，雙方同意建立協調中心以解決相關問題，從而使黎巴嫩民眾能夠返回家園，並促使以色列軍隊從黎巴嫩領土撤出。（央視新聞）
-
----
-
-### 2026-06-23 04:45:57  #MKT News #Commodities #Energy
-
-Goldman Sachs says a two-month delay in Qatar LNG export restart to end-September 2026 could push Q4 2026 TTF gas prices toward €50/MWh versus its €40/MWh forecast.
-
----
-
-### 2026-06-23 04:43:13  #國際
-
-【特朗普簽署兩項行政令 推動2028年部署用於科學研究的量子計算機】據華爾街日報報道，特朗普簽署了兩項行政命令，旨在加速先進量子計算機的研發，並降低其帶來的安全威脅。其中一項行政命令於週一簽署，指示包括能源部在內的聯邦機構與私營部門及學術界合作，在2028年前部署一臺能夠用於科學研究的量子計算機。這樣的目標被認為是展示該技術具備現實應用能力的關鍵指標。量子計算機能夠以遠超傳統超級計算機的速度解決問題，因此正成為全球各國日益重視的領域。特朗普簽署的第二項行政命令則要求各政府機構及安全專家為量子系統做準備——這些系統可能比預期更快地突破標準加密體系。其目標是強化政府與私營部門的安全系統，防止先進的量子駭客攻擊摧毀關鍵基礎設施。
-
----
-
-### 2026-06-23 04:42:59  #MKT News #Market Themes #Crypto Concepts #Nasdaq100 #Impact bullish #S&P500
-
-【Trump signs two executive orders to accelerate quantum computing, seeks scientific-use machine by 2028】Trump signed two executive orders to speed advanced quantum computing R&D and reduce related security risks. One order, signed Monday, directs federal agencies including the Department of Energy to work with industry and academia to deploy a quantum computer usable for scientific research by 2028, a benchmark intended to demonstrate practical capability. The second directs agencies and security experts to prepare for quantum systems that could break standard encryption sooner than expected and to strengthen government and private-sector defenses to protect critical infrastructure.
-
----
-
-### 2026-06-23 04:42:07  #Trading Economics #Markets #Canada #Stock Market #Importance 1
-
-TSX Rises on US-Iran Talks and Soft Core Inflation — The S&P/TSX Composite Index rose 0.4% to close at 35,002 on Monday as investors assessed US-Iran peace talks and Canada’s May inflation report. The US and Iran reportedly made progress in their first round of talks aimed at reaching a final peace deal. Oil prices fell, easing concerns over energy-driven inflation pressures. Meanwhile, annual inflation accelerated more than expected, driven by higher gasoline prices. However, the data is unlikely to alter the Bank of Canada’s view on underlying inflation, as core price measures remained soft. The BoC said earlier this month it saw limited evidence that higher energy prices were feeding into broader inflation. In addition, Canada’s banking regulator lowered capital requirements for the country’s largest lenders, a move expected to support credit growth. Banking stocks advanced, with RBC up 1% and BMO gaining 1.2%. Elsewhere, higher gold prices lifted Agnico Eagle by 2.2%, WPM by 4.7%, and Barrick by 1.2%.
-
----
-
-### 2026-06-23 04:41:45  #觀點
-
-高盛：卡達液化天然氣出口擴產將推遲兩個月至 2026 年 9 月末，這一情況或推動 2026 年第四季度荷蘭 TTF 天然氣價格逼近 50 歐元 / 兆瓦時，高於該行此前 40 歐元 / 兆瓦時的預期。
-
----
-
-### 2026-06-23 04:41:32  #央行 #焦點 #國際
-
-塔斯尼姆通訊社訊息：伊朗央行行長表示，依據現行相關協議，德黑蘭並無義務從美國採購農業生產資料。
-
----
-
-### 2026-06-23 04:41:22  #MKT News #DXY #Impact bullish #EURUSD #Impact bearish #USDJPY
-
-【Dollar index up 0.29% on 22nd】The dollar index, measuring the dollar against six major currencies, rose 0.29% to 101.024 at the New York FX close on the 22nd. EUR/USD 1.1424 (prev. 1.1477); GBP/USD 1.3244 (1.3234); USD/JPY 161.42 (161.26); USD/CHF 0.8091 (0.8066); USD/CAD 1.4157 (1.4174); USD/SEK 9.6212 (9.5742).
-
----
-
-### 2026-06-23 04:41:11  #公司 #市場 #國際
-
-【CFTC：資產管理公司美國國債期貨淨多頭增加 對沖基金淨空頭增加】美國商品期貨交易委員會(CFTC)資料顯示，截至6月16日當週，資產管理公司總體偏看漲美國國債期貨，尤其是在長端顯著增加淨多頭頭寸。另一方面，對沖基金在多個期限的美國國債期貨上增加淨空頭頭寸。當週，從10年期國債期貨到超長期國債合約，資產管理公司的淨多頭頭寸合計增加2020萬美元/DV01，其中大部分淨增幅出現在長期國債期貨，多頭增加約900萬美元/DV01。對沖基金當週最看空10年期國債期貨，淨空頭頭寸增加650萬美元/DV01。其長期國債期貨淨空頭頭寸增加近400萬美元/DV01。
-
----
-
-### 2026-06-23 04:40:34  #市場
-
-【美元指數22日上漲】美元指數22日上漲。衡量美元對六種主要貨幣的美元指數當天上漲0.29%，在匯市尾市收於101.024。截至紐約匯市尾市，1歐元兌換1.1424美元，低於前一交易日的1.1477美元；1英鎊兌換1.3244美元，高於前一交易日的1.3234美元。1美元兌換161.42日元，高於前一交易日的161.26日元；1美元兌換0.8091瑞士法郎，高於前一交易日的0.8066瑞士法郎；1美元兌換1.4157加元，低於前一交易日的1.4174加元；1美元兌換9.6212瑞典克朗，高於前一交易日的9.5742瑞典克朗。
-
----
-
-### 2026-06-23 04:39:48  #MKT News #Commodities #Energy #WTI #Impact bearish #Brent
-
-【International oil prices fell on the 22nd】NYMEX July light sweet crude futures fell $1.78 to $74.82/bbl, down 2.32% at the close; ICE August Brent crude futures fell $2.67 to $77.90/bbl, down 3.31%.
-
----
-
-### 2026-06-23 04:39:26  #MKT News #Important
-
-【Ghalibaf says Strait of Hormuz to be managed under Iranian mechanism】On June 22, Ghalibaf, head of Iran’s negotiation delegation and parliament speaker, said management of the Strait of Hormuz will not return to its pre-war status and, while claiming compliance with international law, will be carried out under a mechanism set by Iran. He said Iran and the US agreed to establish a coordination centre and hotline to resolve incidents more quickly within a 30-day timeframe. The hotline is not for approving transit permits, which will follow existing procedures; it is intended only to handle vessel problems or emergencies.
 
 ---

@@ -1,7 +1,103 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-06-28 19:47:44_
-_本檔包含 3613 則快訊，約 669330 字_
+_更新時間：2026-06-28 20:24:36_
+_本檔包含 3606 則快訊，約 669000 字_
+
+---
+
+### 2026-06-23 04:48:48  #國際
+
+【特朗普稱伊朗將同意接受武器核查】美國總統特朗普22日在社交媒體發文稱，各方都完全清楚，伊朗將同意接受大規模武器核查，以確保其在未來長期保持“核誠信”。當天早些時候，美國和伊朗代表團在瑞士比爾根山的首輪談判結束。美國副總統萬斯在新聞釋出會上表示，美伊談判取得很多進展，為達成最終協議奠定非常好的基礎，伊朗已同意邀請國際原子能機構核查人員重返伊朗。伊朗伊斯蘭共和國通訊社22日援引伊朗外交部發言人巴加埃的話報道，伊朗與國際原子能機構的合作與互動將按照現行機制繼續進行，並遵循伊朗議會相關法律以及最高國家安全委員會作出的決定。（新華社）
+
+---
+
+### 2026-06-23 04:47:09  #MKT News
+
+【Iran parliament speaker says Iran, US should jointly guarantee Lebanon's territorial integrity】On 22 June, Iran's chief negotiator and parliament speaker Ghalibaf said an Iran‑US memorandum of understanding explicitly calls for ending wars against Iran and its allies. He said both sides concluded in Swiss talks that Iran and the United States should jointly guarantee Lebanon's territorial integrity. The MoU already includes assurances on territorial integrity and should be implemented; the parties agreed to establish a coordination center to resolve related issues, enable displaced Lebanese to return and facilitate withdrawal of Israeli forces from Lebanese territory.
+
+---
+
+### 2026-06-23 04:46:44  #國際
+
+美國聯邦航空管理局向一家美國航空航天防務企業授予一份價值 8.75 億美元的多年期軟體及人工智慧專案合同。
+
+---
+
+### 2026-06-23 04:46:43  #MKT News
+
+TASNIM NEWS: Iran's central bank governor said Tehran has no obligation under existing agreements to buy agricultural inputs from the United States.
+
+---
+
+### 2026-06-23 04:46:16  #國際
+
+【伊朗議長：伊美應共同保障黎巴嫩領土完整】當地時間22日，伊朗談判代表團團長、伊朗議會議長卡利巴夫表示，在伊美諒解備忘錄中，明確強調結束針對伊朗及其盟友的戰爭。卡利巴夫表示，伊美雙方在瑞士談判中達成結論，伊朗和美國應共同保障黎巴嫩的領土完整。諒解備忘錄中已包含對領土完整的保證，應繼續推進落實。為此，雙方同意建立協調中心以解決相關問題，從而使黎巴嫩民眾能夠返回家園，並促使以色列軍隊從黎巴嫩領土撤出。（央視新聞）
+
+---
+
+### 2026-06-23 04:45:57  #MKT News #Commodities #Energy
+
+Goldman Sachs says a two-month delay in Qatar LNG export restart to end-September 2026 could push Q4 2026 TTF gas prices toward €50/MWh versus its €40/MWh forecast.
+
+---
+
+### 2026-06-23 04:43:13  #國際
+
+【特朗普簽署兩項行政令 推動2028年部署用於科學研究的量子計算機】據華爾街日報報道，特朗普簽署了兩項行政命令，旨在加速先進量子計算機的研發，並降低其帶來的安全威脅。其中一項行政命令於週一簽署，指示包括能源部在內的聯邦機構與私營部門及學術界合作，在2028年前部署一臺能夠用於科學研究的量子計算機。這樣的目標被認為是展示該技術具備現實應用能力的關鍵指標。量子計算機能夠以遠超傳統超級計算機的速度解決問題，因此正成為全球各國日益重視的領域。特朗普簽署的第二項行政命令則要求各政府機構及安全專家為量子系統做準備——這些系統可能比預期更快地突破標準加密體系。其目標是強化政府與私營部門的安全系統，防止先進的量子駭客攻擊摧毀關鍵基礎設施。
+
+---
+
+### 2026-06-23 04:42:59  #MKT News #Market Themes #Crypto Concepts #Nasdaq100 #Impact bullish #S&P500
+
+【Trump signs two executive orders to accelerate quantum computing, seeks scientific-use machine by 2028】Trump signed two executive orders to speed advanced quantum computing R&D and reduce related security risks. One order, signed Monday, directs federal agencies including the Department of Energy to work with industry and academia to deploy a quantum computer usable for scientific research by 2028, a benchmark intended to demonstrate practical capability. The second directs agencies and security experts to prepare for quantum systems that could break standard encryption sooner than expected and to strengthen government and private-sector defenses to protect critical infrastructure.
+
+---
+
+### 2026-06-23 04:42:07  #Trading Economics #Markets #Canada #Stock Market #Importance 1
+
+TSX Rises on US-Iran Talks and Soft Core Inflation — The S&P/TSX Composite Index rose 0.4% to close at 35,002 on Monday as investors assessed US-Iran peace talks and Canada’s May inflation report. The US and Iran reportedly made progress in their first round of talks aimed at reaching a final peace deal. Oil prices fell, easing concerns over energy-driven inflation pressures. Meanwhile, annual inflation accelerated more than expected, driven by higher gasoline prices. However, the data is unlikely to alter the Bank of Canada’s view on underlying inflation, as core price measures remained soft. The BoC said earlier this month it saw limited evidence that higher energy prices were feeding into broader inflation. In addition, Canada’s banking regulator lowered capital requirements for the country’s largest lenders, a move expected to support credit growth. Banking stocks advanced, with RBC up 1% and BMO gaining 1.2%. Elsewhere, higher gold prices lifted Agnico Eagle by 2.2%, WPM by 4.7%, and Barrick by 1.2%.
+
+---
+
+### 2026-06-23 04:41:45  #觀點
+
+高盛：卡達液化天然氣出口擴產將推遲兩個月至 2026 年 9 月末，這一情況或推動 2026 年第四季度荷蘭 TTF 天然氣價格逼近 50 歐元 / 兆瓦時，高於該行此前 40 歐元 / 兆瓦時的預期。
+
+---
+
+### 2026-06-23 04:41:32  #央行 #焦點 #國際
+
+塔斯尼姆通訊社訊息：伊朗央行行長表示，依據現行相關協議，德黑蘭並無義務從美國採購農業生產資料。
+
+---
+
+### 2026-06-23 04:41:22  #MKT News #DXY #Impact bullish #EURUSD #Impact bearish #USDJPY
+
+【Dollar index up 0.29% on 22nd】The dollar index, measuring the dollar against six major currencies, rose 0.29% to 101.024 at the New York FX close on the 22nd. EUR/USD 1.1424 (prev. 1.1477); GBP/USD 1.3244 (1.3234); USD/JPY 161.42 (161.26); USD/CHF 0.8091 (0.8066); USD/CAD 1.4157 (1.4174); USD/SEK 9.6212 (9.5742).
+
+---
+
+### 2026-06-23 04:41:11  #公司 #市場 #國際
+
+【CFTC：資產管理公司美國國債期貨淨多頭增加 對沖基金淨空頭增加】美國商品期貨交易委員會(CFTC)資料顯示，截至6月16日當週，資產管理公司總體偏看漲美國國債期貨，尤其是在長端顯著增加淨多頭頭寸。另一方面，對沖基金在多個期限的美國國債期貨上增加淨空頭頭寸。當週，從10年期國債期貨到超長期國債合約，資產管理公司的淨多頭頭寸合計增加2020萬美元/DV01，其中大部分淨增幅出現在長期國債期貨，多頭增加約900萬美元/DV01。對沖基金當週最看空10年期國債期貨，淨空頭頭寸增加650萬美元/DV01。其長期國債期貨淨空頭頭寸增加近400萬美元/DV01。
+
+---
+
+### 2026-06-23 04:40:34  #市場
+
+【美元指數22日上漲】美元指數22日上漲。衡量美元對六種主要貨幣的美元指數當天上漲0.29%，在匯市尾市收於101.024。截至紐約匯市尾市，1歐元兌換1.1424美元，低於前一交易日的1.1477美元；1英鎊兌換1.3244美元，高於前一交易日的1.3234美元。1美元兌換161.42日元，高於前一交易日的161.26日元；1美元兌換0.8091瑞士法郎，高於前一交易日的0.8066瑞士法郎；1美元兌換1.4157加元，低於前一交易日的1.4174加元；1美元兌換9.6212瑞典克朗，高於前一交易日的9.5742瑞典克朗。
+
+---
+
+### 2026-06-23 04:39:48  #MKT News #Commodities #Energy #WTI #Impact bearish #Brent
+
+【International oil prices fell on the 22nd】NYMEX July light sweet crude futures fell $1.78 to $74.82/bbl, down 2.32% at the close; ICE August Brent crude futures fell $2.67 to $77.90/bbl, down 3.31%.
+
+---
+
+### 2026-06-23 04:39:26  #MKT News #Important
+
+【Ghalibaf says Strait of Hormuz to be managed under Iranian mechanism】On June 22, Ghalibaf, head of Iran’s negotiation delegation and parliament speaker, said management of the Strait of Hormuz will not return to its pre-war status and, while claiming compliance with international law, will be carried out under a mechanism set by Iran. He said Iran and the US agreed to establish a coordination centre and hotline to resolve incidents more quickly within a 30-day timeframe. The hotline is not for approving transit permits, which will follow existing procedures; it is intended only to handle vessel problems or emergencies.
 
 ---
 
@@ -21636,143 +21732,5 @@ Al-Arabiya reports a press conference is scheduled shortly at the U.S.-Iran talk
 ### 2026-06-21 20:25:07  #國際
 
 巴基斯坦、美國和伊朗就降低濃縮鈾水平達成一致。
-
----
-
-### 2026-06-21 20:23:53  #公司
-
-【供應鏈公司：已向蘋果首款摺疊屏iPhone小批次供貨】日前，記者從一家蘋果供應鏈公司獲悉，該公司已於近期開始向首款摺疊屏iPhone小批次供貨。按照公司收到的目標指引，該款產品將於9月釋出。近日，有訊息稱蘋果首款摺疊屏iPhone已從原定的2026年秋季推遲至2027年初上市發售。對此，一位蘋果供應鏈公司人士對記者表示，截至目前，其得到的目標指引是，首款摺疊屏iPhone將於2026年秋季釋出。對於首款摺疊屏iPhone具體釋出時間，截至記者發稿，蘋果方面暫無公開回應。(中國證券報)
-
----
-
-### 2026-06-21 20:23:12  #國際
-
-美國和伊朗談判調解方卡達外交部21日發表宣告說，已組建專門技術專家組，就美伊最終協議的各項條款進行談判。此外，還成立了後續工作組，負責監督美伊諒解備忘錄的執行並跟進進展情況，直至最終協議達成。（新華社）
-
----
-
-### 2026-06-21 20:21:41  #央行 #其他
-
-捷克央行副行長：捷克政策制定者不會承諾後續利率調整舉措。
-
----
-
-### 2026-06-21 20:21:28  #央行 #其他
-
-捷克央行副行長： 捷克此次加息並非緊縮週期開端。
-
----
-
-### 2026-06-21 20:15:00  #其他
-
-【廣西水利廳將3市洪水防禦應急響應提升為三級】受上游來水及降雨影響，柳江已出現2026年第1次編號洪水。廣西壯族自治區水文中心升級釋出洪水橙色預警，預計龍江河池市金城江城區河段將超警4米左右，柳江柳州市城區河段將超警2米左右，桂江桂林市城區河段將出現接近警戒水位的洪水。結合氣象水文分析預報，經綜合分析研判，廣西壯族自治區水利廳決定自6月21日9時將針對河池、柳州、桂林等3市的洪水防禦四級應急響應提升為三級應急響應。 (央視新聞)
-
----
-
-### 2026-06-21 20:10:26  #宏觀 #焦點
-
-【6月21日《新聞聯播》主要內容】今天《新聞聯播》主要內容有： 1.【新思想引領新徵程】山海攜手 書寫東西部協作嶄新篇章； 2.【偉大征程】黨的十一屆三中全會開啟改革開放和社會主義現代化建設新時期； 3.服務消費提質擴容 假日經濟活力迸發； 4.端午假期全社會跨區域人員流動量預計超6.5億人次； 5.【黨旗在基層一線高高飄揚】農加貴：燭照深山40年； 6.長三角地區進出口連續15個月保持增長； 7.第四屆鏈博會明天開幕 布展工作已全面完成； 8.【暖心一瞬】凡人善舉暖人心 生活處處有溫情； 9.國內聯播快訊： （1）2026（丙午）年公祭中華人文始祖伏羲大典在甘肅天水舉行； （2）四部門合力支援海洋經濟發展促進就業創業； （3）我國將全面建立房屋建築統一程式碼制度； （4）2030年我國多式聯運1小時換裝率將超過90%； （5）第二十八屆上海國際電影節閉幕； （6）大型季播節目《城市風華錄》佛山篇今晚播出； （7）長江中下游一帶雨勢再度增強； 10.美國與伊朗今日在瑞士舉行技術層面談判 以媒：以總理稱不會從黎南部撤軍； 11.國際聯播快訊： （1）俄在紅利曼奪取據點 烏實施縱深打擊； （2）美洛杉磯倉儲設施火災煙霧持續擴散； （3）剛果（金）埃博拉死亡病例升至247例； 12.二十四節氣·夏至。
-
----
-
-### 2026-06-21 20:08:18  #其他
-
-【中國新能源汽車在厄瓜多表現亮眼】為期兩天的2026基多可持續汽車展20日在厄瓜多首都基多開幕，中國品牌新能源車型受到當地消費者青睞。“新能源汽車具有節省燃油成本、降低維護費用和減少汙染排放等優勢，我打算在本屆車展上購置一輛新車。”參展觀眾、厄瓜多機械師阿德里安·塞古拉表示，中國新能源汽車非常受歡迎，不僅價格有優勢，而且外觀設計時尚、續航表現良好。（新華社）
-
----
-
-### 2026-06-21 20:06:58  #觀點
-
-【中信建投：國產模型加速迭代 算力景氣度持續】中信建投證券認為，國內模型持續迭代，GLM-5.2、Kimi K2.7 Code強化1M上下文、長程Agent、Agentic Coding和真實工程交付能力，推動國產模型從通用問答轉向開發者工具和企業級工作流。Kimi補強國際化運營能力，DeepSeek融資強化頭部模型產業化預期，微信AI灰度測試則顯示AI入口正從獨立App走向超級應用生態，有望提升模型呼叫頻次和推理token消耗。海外方面，Anthropic收入、大客戶數和融資規模繼續上修，企業工作流和Agentic Coding需求仍處擴張通道。算力側，AI雲廠商backlog增長，GPU租賃價格上行，CPU、DRAM/NAND供給約束擴散，算力、儲存和租賃服務景氣度有望延續。
-
----
-
-### 2026-06-21 20:05:59  #觀點 #國際
-
-【中信建投：鋯-我國奈米氧化鋯迎來快速發展機遇】中信建投證券認為，預計伴隨固態電池產業加速發展、SOFC行業高速增長、電子級生物陶瓷以及核能步入新一輪復甦週期，新興領域用高階氧化鋯需求將穩步增長。氧化釔作為氧化鋯最關鍵的穩定劑，由於稀土供給受限，日本東曹、第一稀元素化學等全球龍頭產量大幅下降，預計中國廠商在全球高階氧化鋯市場的份額將大幅提升。目前作為原材料的氧氯化鋯相較年初價格提高了30%，作為氧氯化鋯下游最大應用領域的氧化鋯價格年初以來漲幅同樣接近30%。作為氧化鋯中附加值較高的部分，目前電子專用高純奈米氧化鋯報價高達50–65.7美元/公斤，釔穩定氧化鋯高階粉體（YSZ）報價區間則高達50–150美元/公斤，價格同樣出現大幅增長。國內高階氧化鋯市場正迎來量價齊升。
-
----
-
-### 2026-06-21 20:05:50  #MKT News #Market Regions #Greater China #CNH #Impact bullish #Copper #CSI300
-
-【First two days of Dragon Boat holiday: footfall at 78 monitored shopping streets up 4.0% YoY; turnover up 3.5%】MOFCOM says China’s consumer market ran smoothly over this year’s Dragon Boat holiday, with essential goods supply adequate and prices stable. In the first two days of the holiday, footfall across 78 MOFCOM‑monitored pedestrian streets and shopping districts rose 4.0% YoY and turnover rose 3.5% YoY. As of June 20, the 2026 old‑for‑new trade‑in campaign has covered 136 mln person‑times and generated over CNY1 trillion in sales; auto trade‑ins accounted for 3.428 mln vehicles and CNY555.24 bln in sales, while appliance/digital/smart device replacements totaled 132.895 mln units and CNY451.63 bln in sales.
-
----
-
-### 2026-06-21 20:04:22  #國際
-
-巴基斯坦外交部長：希望美伊談判能夠取得積極進展，後續談判的推進將會面臨更大挑戰。
-
----
-
-### 2026-06-21 20:04:12  #市場 #觀點
-
-【中信建投：繼續看好AI算力作為本輪牛市中長期核心主線的後續表現】中信建投證券認為，市場短期強勁反彈行情，但反彈完成後A股或將進入震盪期。繼續看好AI算力作為本輪牛市中長期核心主線的後續表現。陸家嘴金融論壇等國內政策紅利有望繼續推動雙創板塊上漲，預計創業板和科創板將繼續保持強勢。而估值高企和交易結構可能成為後續科技主線階段性切換的主要原因。重點關注：AI算力、工業金屬、石化、機械、新能源等，逢低佈局：銀行、非銀、公用事業、煤炭等。
-
----
-
-### 2026-06-21 20:03:53  #國際
-
-巴基斯坦外交部長：美伊雙方一致認定外交途徑是解決分歧的出路。
-
----
-
-### 2026-06-21 20:03:38  #國際
-
-巴基斯坦外交部長：各方已達成共識，將降低伊朗核燃料庫存的丰度。
-
----
-
-### 2026-06-21 20:02:55  #公司
-
-【思泉新材：副總裁兼董事會秘書郭智超因意外交通事故去世】思泉新材6月21日公告，公司副總裁、董事會秘書郭智超女士於2026年6月19日因意外交通事故去世。截至公告披露日，郭智超女士不持有公司股票。暫由公司董事長任澤明先生代為履行董事會秘書職責。
-
----
-
-### 2026-06-21 20:01:12  #國際
-
-【巴基斯坦外長參與埃及四方會談，稱60天內霍爾木茲海峽不會收費】綜合沙特媒體報道，巴基斯坦外長達爾在參與埃及、土耳其、沙特、巴基斯坦的四方會談時表示，在60天期限內，（伊朗）不會阻止船隻透過霍爾木茲海峽，霍爾木茲海峽不會徵收通行費。無論是“通行費”還是“服務費”，在霍爾木茲海峽都不會收取。巴基斯坦成功在47年來首次將美國和伊朗拉到一起（進行對話）。巴基斯坦與合作伙伴和盟友共同努力，確保了調解工作的成功。美國與伊朗之間的戰爭是毀滅性的，對經濟產生了負面影響。目前有三個技術團隊參與美伊談判。技術委員會正在討論核問題、被凍結資金以及黎巴嫩局勢。此外，達爾還表示已向沙特、埃及和土耳其的外長通報了諒解備忘錄。
-
----
-
-### 2026-06-21 20:01:03  #MKT News #WTI #Impact bearish #Brent
-
-【Pakistan foreign minister says Iran will not levy Strait of Hormuz transit fees within 60 days】Pakistan Foreign Minister Durrani, at a quadrilateral meeting in Egypt with Egypt, Turkey and Saudi Arabia, said Iran will not block vessels transiting the Strait of Hormuz nor levy transit or service fees during a 60-day window. He said Pakistan had brought the US and Iran into talks for the first time in 47 years and that three technical teams are engaged in US‑Iran negotiations, covering nuclear issues, frozen funds and the situation in Lebanon. Durrani said he has briefed the foreign ministers of Saudi Arabia, Egypt and Turkey on a memorandum of understanding.
-
----
-
-### 2026-06-21 19:56:42  #其他
-
-【端午假期北京重點商圈客流量突破2600萬人次】記者21日從北京市商務局瞭解到，端午假期，北京地區假日市場活力有效釋放。假日期間（2026年6月19日至21日）重點監測的127家企業實現銷售額61.1億元，同比增長1.6%。北京全市70個重點商圈客流2650.4萬人次。假日期間，北京重點商圈主題活動營造濃郁氛圍。東城區隆福寺“夏季潮集夜市”推出老字號展銷、國潮演藝等特色主題活動。朝陽區朝陽合生匯落地FIFA官方授權商品華北首展及限時快閃主題場景，集中展售潮流周邊吸引球迷客群，假日期間帶動銷售額同比增長45.7%。（新華社）
-
----
-
-### 2026-06-21 19:53:29  #國際
-
-以色列總統接受採訪時表示：我們本希望與黎巴嫩實現和平，倘若能自駕前往貝魯特，我會由衷感到欣喜。
-
----
-
-### 2026-06-21 19:50:25  #其他
-
-【一組資料看端午假期全國消費市場情況】記者從商務部瞭解到，今年端午假期，全國消費市場執行平穩，生活必需品貨足價穩。商務部商務大資料顯示，今年端午假期前兩天，商務部重點監測的78個步行街及商圈客流量、營業額分別同比增長4.0%、3.5%。消費品以舊換新也在帶動相關商品銷售增長。截至6月20日，2026年消費品以舊換新惠及1.36億人次，帶動銷售額超1萬億元。其中，汽車以舊換新銷售342.8萬臺，帶動銷售額5552.4億元。家電以舊換新、數碼和智慧購新產品銷售13289.5萬臺，帶動銷售額4516.3億元。此外，各地生活必需品市場供應充足，價格總體平穩。商務大資料顯示，節日期間，全國200家大型農副產品批發市場庫存充足，糧油、肉類、水果價格與節前（6月18日）基本持平，雞蛋、蔬菜價格分別下降0.7%和0.3%。（央視新聞）
-
----
-
-### 2026-06-21 19:48:34  #MKT News
-
-【Source: Iran has no plans to negotiate with IAEA director-general GROSSI】A source close to Iran’s negotiating team in Switzerland said on the 21st Iran has no plans to negotiate with IAEA director-general GROSSI, and his presence in Switzerland does not mean he will take part. The source said the US had requested GROSSI’s involvement but Iran opposed it. Iran’s team is focusing on implementing Article 13 of the memorandum—with particular emphasis on Article 1—and is pressing for unfreezing Iranian assets and lifting oil sanctions.
-
----
-
-### 2026-06-21 19:48:06  #國際
-
-【訊息人士稱伊朗無意與國際原子能機構總幹事談判】當地時間21日，一名正在瑞士、接近伊朗談判團隊的訊息人士稱，伊朗並沒有與國際原子能機構總幹事格羅西進行任何談判的計劃，他現身瑞士並不意味著將參與跟伊朗的談判。該人士強調，美方曾要求格羅西參與相關談判，但這一提議遭到伊朗的反對。這名訊息人士表示，伊朗談判團隊的目標僅限於落實備忘錄第13條，並重點關注第1條內容，以及推動伊朗資產解凍與解除石油制裁等議題。（央視新聞）
-
----
-
-### 2026-06-21 19:47:54  #MKT News
-
-cenc recorded a magnitude-3.1 earthquake at 19:43 on June 21 in Haixi prefecture, Qinghai (37.78°N, 95.37°E); depth 10 km.
 
 ---
