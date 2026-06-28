@@ -1,7 +1,71 @@
 {
-  "updated": "2026-06-29 00:32:23",
-  "count": 17982,
+  "updated": "2026-06-29 00:36:29",
+  "count": 17986,
   "items": [
+    {
+      "id": "mkt:019f0f16-618d-7aab-8c01-ce035f849d8b",
+      "time": "2026-06-29 00:35:52",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Putin said Russia’s largest refineries are operating at full capacity."
+    },
+    {
+      "id": "mkt:019f0f16-342c-7aab-8c01-c3fea0ad0aee",
+      "time": "2026-06-29 00:35:41",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Putin said previously stockpiled fuel has been supplied to Russia's domestic market."
+    },
+    {
+      "id": "mkt:019f0f15-ffde-7aab-8c01-bf62624e3a2f",
+      "time": "2026-06-29 00:35:27",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Putin said Russia's gasoline stocks reached 1.7 mln tonnes."
+    },
+    {
+      "id": "4959072",
+      "time": "2026-06-29 00:34:44",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯總統普京：正考慮全面實施柴油出口禁令，相關事宜將展開研討。"
+    },
+    {
+      "id": "4959071",
+      "time": "2026-06-29 00:34:23",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯總統普京：當前汽油庫存基本與去年同期持平。"
+    },
+    {
+      "id": "4959070",
+      "time": "2026-06-29 00:34:15",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯總統普京：國內煉油廠已滿負荷運轉。"
+    },
+    {
+      "id": "4959069",
+      "time": "2026-06-29 00:34:05",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯總統普京：俄羅斯7月燃油計劃產量將高於6月。"
+    },
+    {
+      "id": "mkt:019f0f14-90d6-7aab-8c01-b760f396e98e",
+      "time": "2026-06-29 00:33:53",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【5.5 magnitude quake in Gao County, Yibin, Sichuan; depth 6 km】cenc measured a magnitude-5.5 earthquake at 00:12 on June 29 in Gao County, Yibin, Sichuan; focal depth 6 km."
+    },
     {
       "id": "4959068",
       "time": "2026-06-29 00:29:44",
@@ -164530,43 +164594,6 @@
         "國際"
       ],
       "text": "伊朗談判代表團成員對官方媒體表示：伊朗凍結資金解凍的執行流程已在卡達代表團參與下完成。"
-    },
-    {
-      "id": "mkt:019eeb09-e2ba-7dd8-b0a8-096f9ea34453",
-      "time": "2026-06-22 00:35:54",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "Iranian state media reports a member of Iran's negotiating team said talks on other issues will not proceed unless the war in Lebanon ends."
-    },
-    {
-      "id": "4946587",
-      "time": "2026-06-22 00:34:57",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗談判團隊成員對伊朗國家媒體表示：如果黎巴嫩戰事不結束，就不會就其他議題進行談判。"
-    },
-    {
-      "id": "mkt:019eeb07-f64f-7dd8-b0a8-0439983d53ce",
-      "time": "2026-06-22 00:33:47",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK"
-      ],
-      "text": "France's foreign ministry said the foreign minister will meet Qatar's prime minister in Switzerland on Monday local time."
-    },
-    {
-      "id": "4946586",
-      "time": "2026-06-22 00:33:11",
-      "tags": [
-        "國際"
-      ],
-      "text": "法國外交部：法國外長將於週一在瑞士會見卡達首相。"
     }
   ]
 }
