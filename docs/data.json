@@ -1,7 +1,15 @@
 {
-  "updated": "2026-06-28 23:40:25",
-  "count": 18002,
+  "updated": "2026-06-28 23:44:34",
+  "count": 18000,
   "items": [
+    {
+      "id": "4959055",
+      "time": "2026-06-28 23:41:37",
+      "tags": [
+        "國際"
+      ],
+      "text": "巴基斯坦外交部：巴外長與沙特外長通電話，雙方對地區局勢發展深表關切。"
+    },
     {
       "id": "4959054",
       "time": "2026-06-28 23:38:46",
@@ -164742,31 +164750,6 @@
         "MKT News"
       ],
       "text": "【Iran delegation begins bilateral talks with Qatar】Iranian media on the 21st reported that after the first round of Iran‑US negotiations concluded, Iran's delegation began bilateral talks with Qatar's delegation."
-    },
-    {
-      "id": "4946561",
-      "time": "2026-06-21 23:44:12",
-      "tags": [
-        "國際"
-      ],
-      "text": "【伊朗代表團開始與卡達代表團會談】據伊朗媒體21日報道，伊美談判第一輪結束後，伊朗代表團與卡達代表團的雙邊會談開始。（新華社）"
-    },
-    {
-      "id": "4946560",
-      "time": "2026-06-21 23:41:23",
-      "tags": [
-        "其他"
-      ],
-      "text": "【全國游泳冠軍賽：宋伯睿爆冷奪金】2026年全國游泳冠軍賽21日收官，19歲的宋伯睿以1分57秒50奪得男子200米仰泳專案金牌並重新整理個人最好成績，徐嘉餘以1分57秒55收穫銀牌，潘展樂以1分58秒54收穫銅牌並重新整理個人最好成績。（新華社）"
-    },
-    {
-      "id": "mkt:019eead7-4cfd-7dd8-b0a7-948c802983fb",
-      "time": "2026-06-21 23:40:38",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "Iranian state media said bilateral talks between Iranian and Qatari delegations began after a four-party meeting ended."
     }
   ]
 }
