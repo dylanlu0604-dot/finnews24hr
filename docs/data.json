@@ -1,7 +1,23 @@
 {
-  "updated": "2026-06-29 03:33:58",
-  "count": 17984,
+  "updated": "2026-06-29 03:37:59",
+  "count": 17985,
   "items": [
+    {
+      "id": "4959126",
+      "time": "2026-06-29 03:37:21",
+      "tags": [
+        "市場"
+      ],
+      "text": "悉尼早盤交易中，美元兌G10主要貨幣匯率呈現區間震盪。"
+    },
+    {
+      "id": "4959124",
+      "time": "2026-06-29 03:36:01",
+      "tags": [
+        "國際"
+      ],
+      "text": "【特朗普稱將與民主黨熱門華盛頓特區市長候選人會面】美國總統特朗普表示，他計劃會見珍妮絲·劉易斯·喬治，後者在華盛頓特區市長民主黨初選中勝出。特朗普在社交平臺發文稱：“我將會見珍妮絲·劉易斯·喬治，但我必須提醒所有人，華盛頓特區要重新變回安全、體面的城區。”特朗普並未透露會面具體時間。"
+    },
     {
       "id": "mkt:019f0fb8-41da-7aab-8c02-8b5b5655b3a9",
       "time": "2026-06-29 03:32:41",
@@ -164533,15 +164549,6 @@
         "其他"
       ],
       "text": "市場資訊：英國議員、首相競爭者安迪·伯納姆已向英國首相斯塔默下最後通牒，要求其在週二晚間前給出辭職時間表。其支持者警告，若首相未能照做，或將引發一波內閣大臣集體請辭，後續還會有更多官員離職。"
-    },
-    {
-      "id": "mkt:019eebad-1f29-7dd8-b0a9-0165d8609ff4",
-      "time": "2026-06-22 03:34:11",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "Saudi outlet Asharq News reports Lebanese authorities have been informed that Israel plans to withdraw from several positions inside Lebanon ahead of Lebanon‑Israel talks this week."
     }
   ]
 }
