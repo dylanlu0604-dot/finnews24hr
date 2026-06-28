@@ -1,7 +1,313 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-06-28 17:43:48_
-_本檔包含 3684 則快訊，約 669194 字_
+_更新時間：2026-06-28 18:37:48_
+_本檔包含 3678 則快訊，約 669807 字_
+
+---
+
+### 2026-06-26 11:02:19  #MKT News #Commodities #Energy #WTI #Impact bearish #Brent
+
+U.S. WTI and Brent crude both fell more than 1% intraday, trading at $70.61/bbl and $74.34/bbl respectively.
+
+---
+
+### 2026-06-26 11:02:11  #市場
+
+臺灣加權股價指數下跌3%至44,848.10點。
+
+---
+
+### 2026-06-26 11:02:02  #央行 #中國央行
+
+【中國人民銀行行長潘功勝會見花旗集團董事會主席兼執行長範潔恩】據央行網站訊息，6月25日，中國人民銀行行長潘功勝會見花旗集團董事會主席兼執行長範潔恩。雙方就全球經濟金融形勢、中國宏觀經濟政策、中美經貿關係等議題進行了交流。
+
+---
+
+### 2026-06-26 11:01:03  #宏觀 #公司
+
+【支援居民換購住房有關個人所得稅政策是否有所調整？國家稅務總局回應】國家稅務總局釋出關於《國家稅務總局關於個人所得稅有關征管事項的公告》的解讀。關於支援居民換購住房有關個人所得稅政策是否有所調整？國家稅務總局表示，根據《財政部稅務總局住房城鄉建設部關於延續實施支援居民換購住房有關個人所得稅政策的公告》（2026年第3號）規定，延續實施支援居民換購住房有關個人所得稅政策至2027年12月31日。具體規定與申報操作流程也延續以往規定，符合條件的納稅人參照《國家稅務總局關於支援居民換購住房個人所得稅政策有關征管事項的公告》（2022年第21號）規定辦理。
+
+---
+
+### 2026-06-26 11:00:09  #MKT News #Market Regions #Greater China
+
+【PBOC'S PAN meets Citigroup chairman and CEO Jane Fraser】On June 25, 2026 PBOC'S PAN met with Citigroup chairman and CEO Jane Fraser to exchange views on the global economic and financial outlook, China’s macroeconomic policy and China‑US economic and trade relations.
+
+---
+
+### 2026-06-26 11:00:02  #央行 #公司 #觀點 #國際
+
+【中國人民銀行行長潘功勝會見花旗集團董事會主席兼執行長範潔恩】2026年6月25日，中國人民銀行行長潘功勝會見花旗集團董事會主席兼執行長範潔恩。雙方就全球經濟金融形勢、中國宏觀經濟政策、中美經貿關係等議題進行了交流。（央行）
+
+---
+
+### 2026-06-26 10:59:33  #國際
+
+【印度尼西亞國家發展規劃部副部長魯迪亞德到訪中國信通院】6月25日，印度尼西亞國家發展規劃部副部長、國家發展規劃署副署長費布里安・魯迪亞德一行到訪中國信通院。雙方圍繞數字經濟發展、人工智慧、資料治理與要素流通等進行了深入交流。
+
+---
+
+### 2026-06-26 10:59:10  #公司
+
+【生豬企業新設產能調減目標 時限提前】記者從多家企業獲悉，近期已設定新的生豬產能調減指標，且有企業表示淘汰時限有所前置。某上市企業人士表示，“公司參加了近期的產能調控會議，會進行一定數量的產能調減，而且這一次要在9月份之前完成，時間進度有所加快。” (財聯社)
+
+---
+
+### 2026-06-26 10:58:54  #宏觀
+
+【國家能源局：“十五五”時期全國電網固定資產投資將達5萬億元以上】國務院新聞辦公室6月26日舉行“開局起步‘十五五’”系列主題新聞釋出會，介紹“十五五”時期加快新型能源體系建設有關規劃情況。國家能源局電力司司長杜忠明表示，“十五五”全國的電網固定資產投資將達到5萬億元以上。下一步將重點聚焦三個“新”。第一，是完善電網的新架構，著力構建主幹電網、配電網和微電網協同發展的新型電網平臺，強化電網的安全韌性，推動車網互動，加快大功率充電設施和電動重卡充換電設施的建設，支撐保障超過1.1億輛電動汽車的充電需求。第二，是攻關突破關鍵新技術。要加快構網型技術、長時儲能技術和100%綠電大基地的輸電技術等創新應用，實施人工智慧+電網工程，給電網裝上智慧的大腦。第三，推出更多更好的新服務，要持續最佳化新能源的接網送出服務，大幅增強系統的調節能力。
+
+---
+
+### 2026-06-26 10:58:20  #MKT News #Market Regions #Greater China #CSI300 #Impact bearish
+
+CSI 500 index futures (IC) most-active contract is down 3.00% intraday at 8,427.0 points.
+
+---
+
+### 2026-06-26 10:57:43  #宏觀 #公司
+
+【國家稅務總局釋出公告 明確個人所得稅有關征管事項】國家稅務總局釋出關於個人所得稅有關征管事項的公告，一、自2026年7月1日起，自然人報廢產品出售者透過“三流合一反向開票”向資源回收企業銷售收購的報廢產品，對“三流合一反向開票”年銷售額（不含增值稅）不超過60萬元的部分減按0.25%預繳經營所得個人所得稅，超過60萬元的部分仍按照0.5%預繳經營所得個人所得稅。其他服務與徵管規定按照《國家稅務總局關於資源回收企業向自然人報廢產品出售者“反向開票”有關事項的公告》（2024年第5號）執行。二、根據《財政部 稅務總局 住房城鄉建設部關於延續實施支援居民換購住房有關個人所得稅政策的公告》（2026年第3號）規定，在2026年1月1日至2027年12月31日期間，納稅人出售自有住房並在現住房出售後1年內，在同一城市重新購買住房的，可按規定申請退還其出售現住房已繳納的個人所得稅，具體服務與徵管規定參照《國家稅務總局關於支援居民換購住房個人所得稅政策有關征管事項的公告》（2022年第21號）執行。
+
+---
+
+### 2026-06-26 10:57:07  #MKT News #Important #Market Regions #Wall Street (US) #Europe & UK #S&P500 #Impact bearish #Nasdaq100 #DAX
+
+【US and European equity futures extend losses】US and European equity futures extended losses: Nasdaq-100 futures down 1.6%, S&P 500 futures down 0.7%, Dow futures down 0.18%; STOXX 50 futures down 0.9%, DAX futures down 1.0%, FTSE 100 futures down 0.8%.
+
+---
+
+### 2026-06-26 10:56:45  #MKT News #Important #Market Regions #Greater China #SZSE Component #Impact bearish #SSE Composite
+
+【ChiNext falls over 4%】ChiNext Index fell more than 4%; Shenzhen Component Index down 3.4%; Shanghai Composite down 2.5%. STAR 50 Index fell over 4%. More than 4,700 stocks declined across the market.
+
+---
+
+### 2026-06-26 10:56:38  #市場 #焦點
+
+科創50日內跌幅達4.12%，成分股中，瀾起科技跌7.58%，源傑科技跌7.63%，龍芯中科跌6.57%，生益電子跌6.37%。
+
+---
+
+### 2026-06-26 10:56:33  #其他
+
+【科創50指數跌幅擴大至4%】科創50指數跌幅擴大至4%，現報1983.41點。
+
+---
+
+### 2026-06-26 10:56:28  #MKT News #Important #Commodities #Energy #Market Themes #Crypto Concepts
+
+China's National Energy Administration said western regions should, going forward, not only export electricity, coal and gas, but also export products and tokens.
+
+---
+
+### 2026-06-26 10:56:05  #宏觀 #焦點
+
+【國家能源局：未來西部地區不僅要向外送電、送煤、送氣，還要向外送產品、送Token（詞元）】6月26日，國務院新聞辦公室舉行“開局起步‘十五五’”系列主題新聞釋出會，介紹“十五五”時期加快新型能源體系建設有關規劃情況。國家能源局新聞發言人、副局長萬勁松表示，“十五五”時期將切實保障東中部地區用能需求，同時還將推動東中部重點用能地區挖掘潛力，加強本地非化石能源的就近開發利用，合理佈局新增支撐電源，推動電從遠方來，也從身邊來。此外，還將有序引導高載能產業有序向西部轉移，推動先進製造業、算力、氫能等產業佈局與清潔能源基地協同，促進用能產業空間佈局最佳化，未來西部地區不僅要向外送電、送煤、送氣，還要向外送產品、送Token（詞元）。
+
+---
+
+### 2026-06-26 10:55:53  #其他
+
+澳大利亞考慮對未成年人社交媒體禁令採取更嚴格的執行措施。
+
+---
+
+### 2026-06-26 10:55:29  #市場 #焦點
+
+創業板指跌4.01%，現報4196.791點；上證指數跌2.49%，現報4017.785點；深證成指跌3.38%，現報15791.646點。
+
+---
+
+### 2026-06-26 10:55:21  #市場 #焦點
+
+中證500指數期貨連續主力合約日內跌3%，現報8436.80點。
+
+---
+
+### 2026-06-26 10:54:51  #公司
+
+【“給中石化員工轉賬16萬元買花生油卻無法提貨”？涉事分公司回應】山東臨沂的劉女士反映稱，此前，她向中國石化銷售股份有限公司煙臺石油分公司福山第15加油站（以下簡稱“福山第15加油站”）王某順，轉賬16萬元，採購400箱花生油，事後發現無法提貨。6月24日，中石化煙臺石油分公司相關工作人員回應稱，涉事的王某順此前確係該公司的員工，但他不清楚目前是否還在職，公司相關領導正在處理此事。（澎湃新聞）
+
+---
+
+### 2026-06-26 10:54:32  #市場 #焦點
+
+紐約期金失守4000美元/盎司，日內跌1.18%。
+
+---
+
+### 2026-06-26 10:54:26  #市場 #國際
+
+歐洲斯托克50指數期貨下跌0.9%，德國DAX指數期貨下跌1.0%，英國富時100指數期貨下跌0.8%。
+
+---
+
+### 2026-06-26 10:54:24
+
+滬指跌逾2％，創業板指跌近4％，半導體、算力硬體、能源金屬概念股下挫明顯。市場逾4600股下跌。
+
+---
+
+### 2026-06-26 10:54:22  #MKT News #Important #Commodities #Precious Metals #XAUUSD #Impact bearish
+
+Spot gold fell more than 1% intraday to $3,986.02/oz. Spot silver dropped over $2 intraday to $55.83/oz, down 3.47%.
+
+---
+
+### 2026-06-26 10:54:17  #市場
+
+現貨黃金日內跌1%，現報3985.78美元/盎司。
+
+---
+
+### 2026-06-26 10:53:57  #MKT News #Market Themes #Chip Wars #513310.SS #Impact bearish
+
+China-South Korea Semiconductor ETF (513310) fell more than 5%, with trading turnover exceeding CNY2.1 billion.
+
+---
+
+### 2026-06-26 10:53:56  #市場
+
+標普500指數期貨跌幅擴大至1.5%，納斯達克指數期貨下跌0.7%。
+
+---
+
+### 2026-06-26 10:53:44  #市場 #焦點
+
+現貨黃金失守3990美元/盎司，日內跌0.94%。
+
+---
+
+### 2026-06-26 10:53:42  #其他
+
+SINDA：將以每股12美元的價格首次公開發行1775萬股股票。
+
+---
+
+### 2026-06-26 10:53:10  #市場 #焦點
+
+滬深兩市成交額超2萬億元，較上日此時縮量893億元。
+
+---
+
+### 2026-06-26 10:53:00  #MKT News #Market Regions #Japan & APAC #Nikkei 225 #Impact bearish #Hang Seng Index #CSI300
+
+MSCI Asia Pacific index extends losses to 3%.
+
+---
+
+### 2026-06-26 10:52:59  #市場
+
+滬深300指數下跌3%至4,869.34點。
+
+---
+
+### 2026-06-26 10:52:47  #MKT News #Important #Market Regions #Greater China #SZSE Component #Impact bearish
+
+Shenzhen Component Index fell more than 3%; Taichen Guang led constituents, down over 12%.
+
+---
+
+### 2026-06-26 10:52:13  #市場
+
+MSCI亞太指數下跌3%至270.51點。
+
+---
+
+### 2026-06-26 10:51:32  #MKT News #Important #Market Regions #Greater China #CSI300 #Impact bearish #SSE Composite #CNH
+
+China's STAR 50 Index falls more than 3%.
+
+---
+
+### 2026-06-26 10:51:20  #市場 #焦點
+
+深證成指跌3.00%，現報15853.710點；上證指數跌2.21%，現報4029.198點；創業板指跌3.64%，現報4212.834點。
+
+---
+
+### 2026-06-26 10:51:12  #MKT News #Market Regions #Greater China #01336.HK #Impact bearish #02628.HK #00966.HK
+
+Hong Kong-listed insurance stocks fell: New China Life (01336.HK) down nearly 5%, China Life (02628.HK) down over 4%, China Taiping (00966.HK) down over 3%, Ping An Insurance (02318.HK) down over 2%.
+
+---
+
+### 2026-06-26 10:51:11  #MKT News #Market Regions #Greater China #Commodities #Energy #Copper #Impact bullish
+
+【NEA: National power-grid fixed-asset investment to exceed CNY5 trillion in 15th Five-Year Plan】National Energy Administration Power Department director Du Zhongming said fixed-asset investment in China’s national power grid will exceed CNY5 trillion during the 15th Five-Year Plan period. The NEA will focus on three priorities: build a new grid architecture integrating backbone transmission, distribution and microgrids to strengthen resilience, enable vehicle-grid interaction and accelerate large-capacity charging and charging-and-swapping facilities for electric heavy trucks to meet charging demand for over 110 million EVs; push breakthrough technologies including grid-forming technologies, long-duration storage and transmission solutions for large 100% renewable generation bases, and deploy AI-enabled grid projects; and roll out new services to optimize renewable grid connection and power delivery and materially enhance system balancing and flexibility.
+
+---
+
+### 2026-06-26 10:51:03  #MKT News #HMC.N
+
+Honda Motor (HMC.N) CEO said the company aims to implement a strategy over the next three years to win competition against emerging players in the auto industry.
+
+---
+
+### 2026-06-26 10:50:57  #公司
+
+【協鑫能科成立科技公司 註冊資本10億元】企查查APP顯示，近日，無錫協鑫元極科技有限公司成立，法定代表人為費智，註冊資本為10億元，經營範圍包含：雲端計算裝備技術服務；人工智慧基礎軟體開發；人工智慧理論與演算法軟體開發；人工智慧應用軟體開發等。企查查股權穿透顯示，該公司由協鑫能科旗下蘇州協鑫鑫元科技有限公司及協鑫智慧能源（蘇州）有限公司共同持股。
+
+---
+
+### 2026-06-26 10:50:46  #公司
+
+本田執行長三部敏宏：我們的目標是在未來三年內實施戰略，以在與汽車行業新興勢力的競爭中勝出。
+
+---
+
+### 2026-06-26 10:50:37  #市場 #焦點
+
+科創50日內跌幅達3％，成分股中，瀾起科技跌6.6％，源傑科技跌6.3％，龍芯中科跌6％，凱賽生物跌5.8％。
+
+---
+
+### 2026-06-26 10:50:23  #Trading Economics #Markets #Indonesia #Stock Market #Importance 1
+
+Indonesia Shares Under Strain, Head for Steep Weekly Drop — Indonesia’s IDX Composite dipped 82 points, or 1.4%, to 5,918 in a Friday morning session, erasing the prior day’s rally as broad-based selling gripped all major sectors. Regional weakness weighed after a mixed Wall Street close overnight, with Apple’s price hikes to offset surging chip costs adding pressure. Sentiment was further clouded by vigilance ahead of June PMI data from main trading partner China next week, and local data on June CPI and May trade. Still, losses were capped by reports that Indonesia is considering another budget cut of over USD 2 billion for Prabowo’s flagship free meal program, easing fiscal burden. Basic materials, cyclicals, and industrials were among notable laggards, with solid declines from Jasa Marga (-7.6%), Darma Henwa (-6.7%), Sarana Mitra Luas (-6.2%), and Buka Lapak (-4.8%). For the week, markets are set for their first fall in three weeks, down about 3.8% so far, as frontier-market downgrade risks linger despite MSCI's review delay to November.
+
+---
+
+### 2026-06-26 10:50:17  #MKT News #Important
+
+South Korea's KOSPI extended losses, plunging 7.00% intraday to 8,303.60.
+
+---
+
+### 2026-06-26 10:50:12  #市場 #國際
+
+韓國綜合股價指數下跌7%至8303.60。
+
+---
+
+### 2026-06-26 10:49:38  #MKT News #Commodities #Energy #CSI300 #Impact bullish #SSE Composite #Copper
+
+【National Energy Administration to tighten unified power market governance, eliminate local protectionism and market barriers】The National Energy Administration said the 15th Five-Year Plan will target a basically completed national unified power market, focusing on market access, trading cycles and governance. It will push provincial power trading spot markets into full formal operation, normalise cross-province transactions during grid operating periods and enable real-time trading between State Grid and China Southern Power Grid to deliver surplus wind and solar over long distances. Trading cycles will be optimised to better match renewable generation characteristics. The administration also said it will strengthen coordinated multi-agency supervision, apply uniform enforcement, and crack down on administrative market intervention, price collusion and abuse of market dominance to remove local protection and market barriers.
+
+---
+
+### 2026-06-26 10:49:30  #MKT News #Important #Market Regions #Greater China #SSE Composite #Impact bearish #SZSE Component
+
+Shanghai Composite fell more than 2%, the Shenzhen Component dropped over 2.7% and the ChiNext index slid 3.3%; more than 4,500 mainland A-shares declined.
+
+---
+
+### 2026-06-26 10:49:01  #MKT News #HMC.N #Impact bearish
+
+Honda Motor Co. (HMC.N) CEO said the company cannot compete with rapidly growing peers, warning the auto business outlook may come under pressure.
+
+---
+
+### 2026-06-26 10:48:50  #MKT News #Market Regions #Wall Street (US) #Japan & APAC #HMC.N
+
+Honda Motor Co (HMC.N) CEO said the company’s priority markets are the US, Japan and India, and competition from "emerging forces" is limited.
+
+---
+
+### 2026-06-26 10:48:39  #宏觀
+
+【國家能源局：將提升統一電力市場治理水平 堅決破除地方保護和市場壁壘】6月26日，國務院新聞辦公室舉行“開局起步‘十五五’”系列主題新聞釋出會，介紹“十五五”時期加快新型能源體系建設有關規劃情況。國家能源局新聞發言人、發展規劃司司長任育之表示，“十五五”時期要錨定全國統一電力市場基本建成的目標，重點從市場渠道、交易週期、治理水平三個方面發力，進一步建好電力市場。第一，暢通消納新能源的市場渠道，比如在省內電力交易市場方面，將推動現貨市場全面轉入正式執行，常態化開展跨省電網經營期的交易，實現國家電網和南方電網的實時交易，讓富裕的風光電跨越千里送進千家萬戶；第二，最佳化適配新型電網的交易週期，更加精準地匹配新能源的發電特性。“更長”方面，鼓勵發電用電的雙方簽訂多年期的電力交易合同，實現中長期市場全年無休連續開市；“更短”方面就是要縮短週期，靈活交易，用好現貨輔助服務等短期市場，精準體現電力在時間上、空間上不同的價值，以適配新能源。第三，提升統一電力市場的治理水平。將加強多部門的協同監管，堅持一把尺子量到底，堅決破除地方保護和市場壁壘，堅決整治行政干預市場、價格串通、濫用市場支配地位等行為。
 
 ---
 
@@ -21850,347 +22156,5 @@ WTI and Brent crude fell more than 1% intraday, trading at $69.76/bbl and $72.69
 ### 2026-06-25 09:50:39  #Trading Economics #Economy #Australia #Household Spending MoM #Importance 1
 
 Australia Personal Spending Rebounds in May — Household spending in Australia rose 1.3% month-over-month in May 2026, rebounding from a 1.1% decline in April. Spending increased across eight of the nine major consumption categories, with the strongest recovery recorded in clothing and footwear (2.7% vs -2.2% in April), followed by miscellaneous goods and services (2.2% vs -0.7%), transport (1.4% vs -4.7%), food (1.1% vs -1.1%), and recreation and culture (0.8% vs -0.2%). Meanwhile, spending continued to rise for hotels, cafes and restaurants (1.9% vs 0.9%), alcoholic beverages and tobacco (1.0% vs 0.4%), and furnishings and household equipment (0.8% vs 0.0%). Regionally, household spending rose in Western Australia (2.6%), the Northern Territory (2.1%), Victoria (1.7%), South Australia (1.6%), Queensland (1.1%), New South Wales (0.7%), and the Australian Capital Territory (0.6%). In contrast, Tasmania was the only jurisdiction to record a decline, with spending falling 0.5%. On an annual basis, household spending increased 5.5%.
-
----
-
-### 2026-06-25 09:50:39  #MKT News #Market Regions #Greater China #06060.HK #Impact bearish #00966.HK #02318.HK
-
-Hong Kong-listed insurance stocks fell: ZhongAn Online (06060.HK), China Taiping (00966.HK), China P&C Insurance (02328.HK) and Ping An (02318.HK) dropped more than 3%, while AIA (01299.HK) and China Life (02628.HK) fell over 2%.
-
----
-
-### 2026-06-25 09:50:28  #公司 #市場
-
-【實控人涉嫌非法吸存罪被刑拘，華恒生物“20cm”跌停】6月25日，華恒生物開盤“20cm”跌停。截至發稿，報17.12元/股，成交額1684萬元，換手率0.39%。訊息面上，公司實際控制人、董事長兼總經理郭恆華因涉嫌非法吸收公眾存款罪被公安機關刑事拘留。同時，公告稱，董事會收到郭恆華的書面辭職報告，申請辭去公司董事長、總經理、董事及董事會下屬各專門委員會擔任的全部職務。
-
----
-
-### 2026-06-25 09:49:24  #MKT News
-
-【Venezuela declares nationwide state of emergency】Following a strong earthquake, acting President Delcy Rodriguez said in a national address on the evening of June 24 local time that Venezuela had entered a state of emergency, urged unity, ordered nationwide school closures and suspended all non-essential activities.
-
----
-
-### 2026-06-25 09:49:17  #公司
-
-【MLCC概念反覆活躍 昀冢科技漲超15%續創歷史新高】MLCC概念反覆活躍，昀冢科技漲超15%續創歷史新高，火炬電子2連板，三環集團、風華高科、博遷新材、潔美科技跟漲。
-
----
-
-### 2026-06-25 09:48:03  #其他
-
-【委內瑞拉全國停課】強震發生後，當地時間6月24日晚，委內瑞拉代總統德爾西·羅德里格斯發表全國講話，呼籲災後民眾保持團結，宣佈全國停課，並暫停所有非必要活動。（CCTV國際時訊）
-
----
-
-### 2026-06-25 09:47:46  #MKT News #Important #Market Regions #Greater China #SSE Composite #Impact bullish #SZSE Component #CSI300
-
-Mainland A-shares extended early gains: ChiNext rose over 2%, the Shenzhen Component gained over 1.5%, and the Shanghai Composite was up 0.15%.
-
----
-
-### 2026-06-25 09:47:30  #公司 #市場
-
-【港股PCB概念股走強 建滔集團漲超8%】截至發稿，建滔集團(00148.HK)漲8.44%，建滔積層板(01888.HK)漲7.43%，光和合科技(01989.HK)漲5.97%。
-
----
-
-### 2026-06-25 09:47:24  #MKT News
-
-Venezuela's acting president Rodríguez said Maiquetía airport is closed due to damage to a seismic assembly.
-
----
-
-### 2026-06-25 09:47:20  #其他
-
-羅德里格斯：國民警衛隊蘇爾巴蘭將軍將領導地震應對工作。
-
----
-
-### 2026-06-25 09:47:09  #MKT News #Important
-
-【Lianxun Instruments shares top 2,700 yuan, up 32x since listing】Shares rose more than 5% to break 2,700 yuan; from the IPO price of 81.88 yuan the stock has gained 3,209% (about 32x) since its April 24 listing this year.
-
----
-
-### 2026-06-25 09:47:07  #市場
-
-滬深300指數上漲1%至4,992.45點。
-
----
-
-### 2026-06-25 09:47:01  #MKT News
-
-Kioxia is considering a stock split to make its shares easier to purchase.
-
----
-
-### 2026-06-25 09:46:53  #市場 #焦點
-
-創業板指漲2.00%，現報4336.525點；上證指數漲0.14%，現報4116.392點；深證成指漲1.49%，現報16289.968點。
-
----
-
-### 2026-06-25 09:46:51  #MKT News
-
-Acting President Rodríguez said the Venezuelan government will declare a state of emergency following the earthquake.
-
----
-
-### 2026-06-25 09:46:42  #Trading Economics #Markets #United States #Currency #Importance 2
-
-Dollar Stands Tall on Hawkish Fed Bets — The dollar index traded near 101.5 on Thursday, holding around its highest levels in more than a year as investors continued to price in Federal Reserve interest rate hikes later this year, while awaiting a key inflation report for further direction. Last week, the Fed signaled growing support for tighter monetary policy, with Chair Kevin Warsh reaffirming his commitment to restoring price stability. Those expectations have largely outweighed the impact of progress in US-Iran peace negotiations, which have pushed oil prices back to pre-conflict levels and helped ease inflation concerns. Market participants are now focused on the latest PCE price index report, the Fed’s preferred measure of inflation. Other closely watched releases include final first-quarter GDP figures, May personal income and preliminary durable goods orders data, as well as weekly jobless claims for the period ending June 20.
-
----
-
-### 2026-06-25 09:46:41  #市場 #國際
-
-【中證500股指期貨(IC)主力合約日內漲超1%】中證500股指期貨(IC)主力合約日內漲超1%，現報8688.4點。滬深300股指期貨(IF)主力合約日內漲超1%，現報4881.0點。
-
----
-
-### 2026-06-25 09:46:35  #其他
-
-羅德里格斯稱，加拉加斯主要機場因地震破壞而關閉。
-
----
-
-### 2026-06-25 09:46:23  #MKT News
-
-【TAMURA: neutral rate around 2%, Bank of Japan should move toward it quickly】TAMURA said raising the Bank of Japan’s policy rate to a neutral level of about 2% is essential to avoid being forced into larger hikes later. He prefers incremental rate increases every few months to approach the 2% neutral rate, but said the BOJ should not hesitate to accelerate or deliver larger moves if upside price risks rise. He judged potential inf has reached 2% and that upside price risks persist regardless of Middle East developments. TAMURA said Japan differs from the Fed and ECB because the BOJ’s policy rate remains below neutral and inflation expectations are not yet well anchored. He opposed pausing tapering of bond purchases next fiscal year and urged rapid normalization of the BOJ’s bond holdings.
-
----
-
-### 2026-06-25 09:46:21  #公司
-
-鎧俠CEO：預計未來一段時間內NAND快閃記憶體需求強勁。
-
----
-
-### 2026-06-25 09:46:19  #Trading Economics #Economy #Australia #Employment Change #Importance 1
-
-Australia Employment Bounces Back — Here's a smoother and more natural version with improved flow and grammar: > Employment in Australia rose by 40,300 to 14.74 million in May 2026, rebounding from a revised decline of 40,700 in the previous month and surpassing market expectations for a 30,000 increase. It marked the strongest employment gain since December, driven by a 35,200 rise in part-time jobs to 4.60 million, while full-time employment also increased by 5,200 to 10.14 million. The employment-to-population ratio edged up to 63.8% from 63.7%, marking its first increase in six months. Meanwhile, the participation rate ticked up to 66.7% from 66.6%. Compared with a year earlier, total employment increased by 147,500, or 1.0%.
-
----
-
-### 2026-06-25 09:46:08  #MKT News #Important
-
-China's Sci‑Tech Innovation Board 50 (STAR 50) rose more than 3%, led by Zhongbaiwei Storage, which gained over 12%, Zhongke Feice up more than 8%, and Zhongwei Company up about 6%.
-
----
-
-### 2026-06-25 09:46:07  #國際
-
-【中國駐札幌總領事館提醒領區中國公民注意防範地震餘震】6月25日，中國駐札幌總領事館提醒領區中國公民注意防範地震餘震。全文如下：據日本氣象廳釋出，日本時間6月25日7時30分左右，巖手縣附近海域發生里氏6.9級地震。中國駐札幌總領館提醒領區內中國公民，特別是青森縣、巖手縣中國公民，高度警惕餘震發生及次生災害，透過電視、網路、廣播等方式密切關注地震動態等防災資訊，遵循當地政府釋出的預防、避難指令。同時，建議領區中國公民提高自我保護意識，做好日常防災備災，提前確認附近避難路線、場所，適當儲備飲用水、應急食品、藥品、安全帽、口哨等應急物資。此外，建議領區中國公民積極透過“中國領事APP”或微信、支付寶“中國領事”小程式進行“海外公民登記”，以便災害發生時及時聯絡、獲得救助。
-
----
-
-### 2026-06-25 09:46:00  #市場 #焦點
-
-hy0270104【A股數字晶片設計板塊異動拉昇】中微半導漲14.48%，北京君正、佰維儲存、富瀚微、聚辰股份、江波龍、德明利跟漲。
-
----
-
-### 2026-06-25 09:46:00  #市場 #焦點
-
-gn0980081【A股AI算力晶片板塊異動拉昇】盛視科技、恆林股份觸及漲停，北京君正、佰維儲存、兆易創新、全志科技、東芯股份跟漲。
-
----
-
-### 2026-06-25 09:45:57  #市場 #焦點
-
-滬深300指數期貨連續主力合約日內漲1%，現報4879.40點。
-
----
-
-### 2026-06-25 09:45:40
-
-【港股三大指數跌幅擴大逾1％ 攜程跌超7％】6月25日訊息，港股三大指數持續走低，均跌超1％。科指成分股中，攜程跌超7％，地平線機器人跌超4％，阿里巴巴、小鵬汽車、理想汽車跌超3％，美團、小米、百度、快手、京東等跌超2％。
-
----
-
-### 2026-06-25 09:45:36  #Trading Economics #Markets #China #stocks #Importance 1
-
-Zijin Mining Stock Price Hits 39-week Low — Zijin Mining shares decreased to 26.51 CNY, the lowest since September 2025. Over the past 4 weeks, Zijin Mining Group lost 15.31%, and in the last 12 months, it increased 39.81%.
-
----
-
-### 2026-06-25 09:45:35  #市場 #焦點
-
-科創50日內漲幅達3.07%，成分股中，佰維儲存漲12.23%，中科飛測漲8.22%，盛美上海漲6.44%，中微公司漲6.28%。
-
----
-
-### 2026-06-25 09:45:31  #其他
-
-委內瑞拉代總統羅德里格斯在地震後宣佈進入緊急狀態。
-
----
-
-### 2026-06-25 09:45:31  #MKT News #Market Themes #AI Revolution #Market Regions #Greater China #03986.HK #Impact bullish #02513.HK #02166.HK
-
-Hong Kong AI-related shares rose: GigaDevice Semiconductor (03986.HK) up over 9%, Zhipu Technology (02513.HK) up nearly 7%, Xinzhi Holdings (02166.HK) up over 6%, and Yangtze Optical Fibre and Cable (06869.HK) up over 5%.
-
----
-
-### 2026-06-25 09:45:23  #市場 #焦點
-
-南向資金淨買入額達10億港元。
-
----
-
-### 2026-06-25 09:45:19  #MKT News #Market Regions #Greater China #CSI300 #Impact bullish
-
-CSI 500 index futures (IC) main contract widened intraday gains to 1.00%, now at 8,687.8 points.
-
----
-
-### 2026-06-25 09:45:08  #Trading Economics #Markets #China #stocks #Importance 1
-
-CNOOC Stock Price Hits 23-week Low — CNOOC shares decreased to 21.46 HKD, the lowest since January 2026. Over the past 4 weeks, CNOOC lost 20.21%, and in the last 12 months, it increased 19.6%.
-
----
-
-### 2026-06-25 09:44:34  #市場
-
-【金飾克價跌至1215元】6月25日，國內黃金飾品價格對比顯示，多家黃金珠寶品牌公佈的境內足金首飾價格較昨日有所下調，老鳳祥報價1215元/克，較前一日下降26元；周生生報價1221元/克，較前一日下降19元；老廟黃金報價1238元/克，較前一日下降7元。
-
----
-
-### 2026-06-25 09:44:15  #公司
-
-【惠城環保：網傳“聯合石化因油品質量問題拒籤合同”不屬實】惠城環保(300779)在互動平臺回覆投資者稱，網傳“聯合石化因油品質量問題拒籤合同”的說法不屬實。公司目前與聯合石化的合作處於正常推進中。公司20萬噸/年混合廢塑膠資源化綜合利用專案產出的產品為液化塑膠裂解氣和塑膠裂解輕油。公司生產出的產品經SGS檢測，產品質量符合要求。鑑於不同客戶不同裝置針對原料指標要求存在差異，公司現已建成加氫裝置，以提升產品品質。
-
----
-
-### 2026-06-25 09:44:07  #市場 #焦點
-
-中證500指數期貨連續主力合約日內漲1%，現報8681.00點。
-
----
-
-### 2026-06-25 09:44:06  #其他
-
-羅德里格斯稱委內瑞拉學校將暫時停課。
-
----
-
-### 2026-06-25 09:43:50  #其他
-
-羅德里格斯稱委內瑞拉發生了20次餘震。
-
----
-
-### 2026-06-25 09:43:01  #市場 #焦點
-
-gn0980073【A股MicroLED板塊異動拉昇】維信諾觸及漲停，長信科技、TCL科技、天通股份、京東方A、木林森、惠柏新材跟漲。
-
----
-
-### 2026-06-25 09:43:00  #市場 #焦點
-
-gn0980024【A股觸控式螢幕概念板塊異動拉昇】超聲電子觸及漲停，萬順新材、長信科技、京東方A、藍思科技、寶明科技、彩虹股份跟漲。
-
----
-
-### 2026-06-25 09:43:00  #市場 #焦點
-
-gn0700957【A股摺疊屏板塊異動拉昇】維信諾觸及漲停，長信科技、TCL科技、安潔科技、斯迪克、信維通訊、京東方A跟漲。
-
----
-
-### 2026-06-25 09:43:00  #市場 #焦點
-
-hy0270300【A股光學光電子板塊異動拉昇】維信諾觸及漲停，匯創達、長信科技、TCL科技、萬潤科技、光智科技、翰博高新跟漲。
-
----
-
-### 2026-06-25 09:43:00  #市場 #焦點
-
-hy0270301【A股面板板塊異動拉昇】維信諾觸及漲停，匯創達、長信科技、TCL科技、翰博高新、京東方A、彩虹股份跟漲。
-
----
-
-### 2026-06-25 09:42:51  #公司
-
-鎧俠CEO：不會進行會損害供需平衡的資本支出。
-
----
-
-### 2026-06-25 09:42:51  #MKT News
-
-STAR 50 Index rose more than 2%; Baiwei Storage led constituents, up over 9%.
-
----
-
-### 2026-06-25 09:42:37  #其他
-
-委內瑞拉代總統羅德里格斯稱加拉加斯有建築物倒塌。
-
----
-
-### 2026-06-25 09:42:34  #市場 #焦點
-
-科創50日內漲幅達2.08%，成分股中，佰維儲存漲9.06%，中科飛測漲6.74%，瀾起科技漲5.37%，盛美上海漲4.93%。
-
----
-
-### 2026-06-25 09:42:34  #MKT News #Market Regions #Greater China #CSI300 #Impact bullish #SSE Composite
-
-China A-share advanced packaging theme strengthened amid choppy trading. Changdian Technology recorded three limit-up sessions in four trading days and extended to a record high; Shengjian Technology, Guolin Technology, Xinyuan Micro and Zhongke Feice also rose.
-
----
-
-### 2026-06-25 09:41:43  #其他
-
-【淮安市委書記史志軍會見新開發銀行行長羅塞芙】據“淮安釋出”，近日，淮安市委書記史志軍會見新開發銀行行長羅塞芙，就加強溝通對接、推動合作共贏進行深入交流。史志軍表示，當前淮安正一手抓工業強市，一手抓城市功能品質提升，加快建設區域醫療高地，推動淮安大學正式獲批，同時加大水環境治理力度，彰顯“水城”特色，努力在服務區域發展中發揮更大作用。希望新開發銀行在基礎設施建設、生態環保等領域給予更多支援，拓展雙方合作空間。
-
----
-
-### 2026-06-25 09:41:34  #其他
-
-【先進封裝概念反覆活躍 長電科技4天3板續創歷史新高】先進封裝概念反覆活躍，長電科技4天3板，續創歷史新高，總市值超1800億，盛劍科技、國林科技、芯源微、中科飛測、耐科裝備等漲幅靠前。
-
----
-
-### 2026-06-25 09:41:24  #MKT News #Market Regions #Greater China #SZSE Component #Impact bullish #SSE Composite #Impact bearish
-
-Shenzhen Component Index rose more than 1%; Shanghai Composite's decline narrowed to 0.17%.
-
----
-
-### 2026-06-25 09:41:08  #MKT News #02391.HK #Impact bearish #02533.HK #02525.HK
-
-Hong Kong autonomous-driving stocks slid in choppy trade: Tuya Smart (02391.HK) tumbled over 10%, Black Sesame Technologies (02533.HK) and Hesai-W (02525.HK) fell over 4%, CHINA'S WERIDE-W (00800.HK) declined nearly 4%.
-
----
-
-### 2026-06-25 09:40:41  #央行
-
-【中國央行逆回購今日淨回籠1775億元人民幣】6月25日訊，中國央行今日開展3705億元7天期逆回購操作，因今日有3000億元1年期中期借貸便利（MLF）和2480億元7天期逆回購到期，當日實現淨回籠1775億元人民幣。
-
----
-
-### 2026-06-25 09:40:38  #市場 #焦點
-
-深證成指漲1.00%，現報16211.966點；上證指數跌0.19%，現報4102.893點；創業板指漲1.39%，現報4310.569點。
-
----
-
-### 2026-06-25 09:40:06  #公司 #市場
-
-【小金屬板塊低開高走，長裕集團5連板】小金屬板塊低開高走，東方鉭業、雲南鍺業盤中創新高，長裕集團5連板，貴研鉑業、宜安科技、盛龍股份、錫業股份、東方鋯業跟漲。
-
----
-
-### 2026-06-25 09:40:00  #市場 #焦點
-
-gn0980256【A股被動元件概念板塊異動拉昇】艾華集團、火炬電子、江海股份觸及漲停，昀冢科技、鈞崴電子、三環集團、博遷新材跟漲。
-
----
-
-### 2026-06-25 09:40:00  #市場 #焦點
-
-gn0700829【A股MLCC概念板塊異動拉昇】火炬電子觸及漲停，和順科技、昀冢科技、三環集團、博遷新材、斯迪克、風華高科跟漲。
 
 ---

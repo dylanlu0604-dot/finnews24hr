@@ -1,7 +1,334 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-06-28 17:43:48_
-_本檔包含 3576 則快訊，約 669183 字_
+_更新時間：2026-06-28 18:37:48_
+_本檔包含 3590 則快訊，約 669170 字_
+
+---
+
+### 2026-06-23 03:53:07  #焦點 #國際
+
+伊朗首席談判代表向國家電視臺表示，瑞士會談中已敲定解凍 120 億美元伊朗資產的相關簽署事宜。
+
+---
+
+### 2026-06-23 03:52:47  #MKT News #Market Themes #The Trump Trade #IBM.N
+
+US President Trump praised IBM CEO (IBM.N).
+
+---
+
+### 2026-06-23 03:51:36  #國際
+
+特朗普在白宮發表講話。
+
+---
+
+### 2026-06-23 03:51:26  #MKT News #Star Stocks #Tesla #Market Themes #Magnificent 7 #TSLA.O #Impact bearish
+
+【NHTSA opens probe into fatal Tesla (TSLA.O) Model 3 crash near Houston】NHTSA said on Monday it will investigate a fatal crash involving a Tesla (TSLA.O) Model 3 that drove into a residence near Houston, Texas, late Friday. Harris County sheriff’s office said the driver told police he was using an automatic driving‑assist system; the vehicle left the road at high speed and struck a brick home, fatally injuring a woman inside.
+
+---
+
+### 2026-06-23 03:51:15  #公司 #市場 #國際
+
+特朗普稱讚IBM執行長，IBM股價上漲。
+
+---
+
+### 2026-06-23 03:50:32  #MKT News #Market Themes #The Trump Trade
+
+U.S. President Trump is signing an executive order.
+
+---
+
+### 2026-06-23 03:41:42  #MKT News #Macro & Rates #USDJPY #Impact bullish #EURUSD #GBPUSD #Impact bearish
+
+CFTC weekly positions for the week ended June 16: JPY net short 150,132 contracts; EUR net long 34,353 contracts; GBP net short 71,585 contracts; CHF net short 40,058 contracts.
+
+---
+
+### 2026-06-23 03:40:31  #國際
+
+【歐盟停止出售成員國碳配額，以推動能源轉型】歐盟已停止出售一批提前分配的碳排放配額。此前，歐盟計劃利用其碳排放交易體系（ETS）籌集資金，以幫助實現擺脫俄羅斯天然氣的能源轉型。歐盟委員會在官網的一份宣告中表示，歐盟已於週一達成目標，透過拍賣原本將由各國政府在2027年至2030年間出售的配額，成功籌集了80億歐元。隨著該目標的達成，歐盟碳排放交易體系中成員國常規配額拍賣的日程表已作出相應調整。
+
+---
+
+### 2026-06-23 03:39:33  #MKT News #Macro & Rates #Treasury Yields #US10Y #Impact bearish
+
+CFTC: for the week to June 16, speculators raised net short positions in CBOT US 2-year Treasury futures by 50,669 contracts to 1,270,507 contracts and increased net short in CBOT US 10-year Treasury futures by 47,275 contracts to 911,082 contracts.
+
+---
+
+### 2026-06-23 03:38:36  #MKT News #Commodities #Energy
+
+CFTC: For the week ended June 16, speculative positions in NYMEX and ICE natural-gas futures flipped to a net long of 1,332 contracts, an increase of 30,288 contracts from the prior week.
+
+---
+
+### 2026-06-23 03:37:51  #MKT News #Market Regions #Wall Street (US) #S&P500 #Impact mixed
+
+U.S. Commodity Futures Trading Commission (CFTC): For the week to June 16, equity fund managers raised net long positions in CME S&P 500 futures by 3,319 contracts to 983,431 contracts. Equity fund speculators increased net short positions in CME S&P 500 futures by 64,644 contracts to 501,690 contracts.
+
+---
+
+### 2026-06-23 03:36:18  #MKT News #Commodities #Energy #WTI
+
+CFTC data: For the week to June 16, speculators cut WTI crude net-long positions by 2,441 contracts to 100,978.
+
+---
+
+### 2026-06-23 03:35:52  #MKT News #Commodities #Precious Metals #Industrial Metals #XAUUSD #Impact bullish #Copper #Impact bearish
+
+CFTC: week to June 16, COMEX gold speculators increased net longs by 9,258 contracts to 112,918; silver net longs rose 2,275 contracts to 12,070; copper net longs fell 52 contracts to 71,076.
+
+---
+
+### 2026-06-23 03:33:37  #市場 #國際
+
+美國商品期貨交易委員會（CFTC）：6月16日當週，投機者所持NYMEX鉑金淨多頭頭寸降低至8,072手合約，創逾14周新低。
+所持NYMEX鈀金淨空頭頭寸降低至4,268手合約。
+
+---
+
+### 2026-06-23 03:32:51  #MKT News
+
+US Coast Guard says it is actively responding to a crash in Sitka, Alaska today involving a Coast Guard MH-60 "Jayhawk" helicopter.
+
+---
+
+### 2026-06-23 03:31:39  #MKT News
+
+A U.S. official told NewsNation that Secretary of State Rubio spoke last Friday with Israeli Prime Minister Netanyahu and Lebanese President Aoun about consolidating a ceasefire and future negotiations. After the calls, U.S. Central Command activated a monitoring mechanism to provide policymakers with real-time battlefield information from Lebanon.
+
+---
+
+### 2026-06-23 03:31:33  #兩會
+
+【恩蘇埃宣誓就任赤道幾內亞總理】當地時間22日，曼努埃爾·奧薩·恩蘇埃·恩蘇阿宣誓就任赤道幾內亞總理。赤道幾內亞副總統曼格16日晚在社交媒體上發文說，恩蘇埃當天向總統提交了所有內閣成員的集體辭呈。經評估確認，上一屆政府既定目標的完成率與預期嚴重不符。赤道幾內亞總統奧比昂19日簽署法令，重新任命曼努埃爾·奧薩·恩蘇埃·恩蘇阿為政府總理，負責行政協調。（央視新聞）
+
+---
+
+### 2026-06-23 03:30:53  #其他
+
+【伊拉克總理將於7月訪問土耳其 討論石油出口問題】據伊拉克總理辦公室發表的一份宣告，伊拉克總理阿里·扎伊迪收到土耳其總統埃爾多安的邀請，將於7月訪問土耳其。阿里·扎伊迪在與埃爾多安通話時討論了雙方共同關心的議題，包括經由Kirkuk-Ceyhan管道進行的石油出口。阿里·扎伊迪還邀請土耳其企業投資伊拉克。雙方還討論了水資源問題。
+
+---
+
+### 2026-06-23 03:30:24  #宏觀 #市場 #觀點
+
+【摩根大通看好英鎊 因政治不確定性消退】英國首相基爾·斯塔默宣佈辭職後，英國政治不確定性開始減弱，摩根大通恢復對英鎊的看漲觀點。摩根大通長期以來一直認為，英鎊兌其他低息貨幣的套利交易具有良好價值，儘管市場共識大體上一直是中性或看空。斯塔默表示將辭去英國首相職務後，英鎊上漲0.1%，至1.3245，抹去早前一度達0.4%的跌幅。市場還對前衛生大臣韋斯·斯特里廷決定支援安迪·伯納姆出任下一任首相，而不是自己角逐黨魁作出積極反應，這進一步緩解了近期政治不確定性。全球外匯策略師James Nelligan週一在報告中表示，辭職“使政治局勢多了些許清晰度”，使工黨能夠團結在”伯納姆周圍，由他領導該黨。伯納姆“已淡化其在財政政策上的表態，這意味著套利、英國韌性、估值和倉位更能夠支撐英鎊，”他還表示。
+
+---
+
+### 2026-06-23 03:29:15  #市場 #國際
+
+美國商品期貨交易委員會（CFTC）資料：截至 6 月 16 日當週，WTI 原油投機客淨多頭頭寸削減 2441 手，降至 100978 手。
+
+---
+
+### 2026-06-23 03:28:33  #市場 #國際
+
+美國商品期貨交易委員會（CFTC）資料：截至 6 月 16 日當週，紐約商品交易所（COMEX）銅投機客淨多頭頭寸削減 52 手，降至 71076 手。
+黃金投機者淨多頭頭寸增加 9258 手，至 112918 手。 
+ 白銀投機客淨多頭頭寸增加 2275 手，升至 12070 手。
+
+---
+
+### 2026-06-23 03:27:21  #市場 #國際
+
+【長週末歸來，美債收益率普遍漲超5個基點】週一（6月22日）紐約尾盤，美國10年期基準國債收益率漲5.35個基點，報4.5068%，日內交投於4.4731%-4.5128%區間。兩年期美債收益率漲5.76個基點，報4.2342%，全天處於上漲狀態、窄幅震盪於4.22%附近。20年期美債收益率漲5.19個基點，30年期美債收益率漲4.67個基點。三年期美債收益率漲5.93個基點，五年期美債收益率漲5.51個基點，七年期美債收益率漲5.29個基點。
+
+---
+
+### 2026-06-23 03:24:11  #MKT News #WTI #Impact bearish #Brent #XAUUSD
+
+【Vance says Switzerland talks 'very productive', warns you can't trust words alone】U.S. Vice President Vance described talks in Switzerland as "very productive" and said mechanisms were established to help keep the Strait of Hormuz open now and in the future. He said Iran has for the first time in a long time allowed weapons and nuclear inspectors into the country, but cautioned that only actions matter — inspectors' actual access and permitted activities will determine progress and remain part of ongoing negotiations.
+
+---
+
+### 2026-06-23 03:23:42  #MKT News
+
+US President Trump said he looks forward to working with Colombia's new president.
+
+---
+
+### 2026-06-23 03:23:04  #國際
+
+特朗普：我期待攜手合作，共建哥倫比亞與美利堅合眾國之間牢固的雙邊關係。
+
+---
+
+### 2026-06-23 03:20:51  #市場
+
+【日元在美股盤初創將近兩年新低，隨後出現兩波反彈行情】週一（6月22日）紐約尾盤，美元兌日元漲0.14%，報161.53日元，亞太盤初微幅下跌、跌穿161.20日元，隨後持續上揚，北京時間22:03達到161.93日元——逼近2024年7月3日頂部161.95日元、1986年年底頂部164.50日元、1986年年中頂部182.85日元，隨後出現兩波短線跳水行情、22:51重新整理日低至161.08日元。歐元兌日元跌0.28%，報184.56日元；英鎊兌日元漲0.28%，報214.020日元。
+
+---
+
+### 2026-06-23 03:18:11  #其他
+
+市場訊息：美方宣佈，美軍中央司令部將負責監管黎巴嫩停火監督機制。
+
+---
+
+### 2026-06-23 03:17:45  #MKT News
+
+U.S. officials said CENTCOM will oversee a Lebanon ceasefire mechanism.
+
+---
+
+### 2026-06-23 03:17:29  #國際
+
+伊朗代理國防部長：武裝部隊處於最高戒備狀態；侵略者若有任何新的挑釁或誤判，都將招致比以往更強有力的回擊。伊朗有能力同時採取談判與對抗策略，並能針對美國在談判期間違背承諾的行為做出回應。在談判期間及整個60天期限內，伊朗將維持並加強其在各區域的軍事態勢。
+
+---
+
+### 2026-06-23 03:17:19  #MKT News #XAUUSD #Impact bullish #WTI #Brent
+
+Iran's acting defense minister said Iran will maintain and strengthen its military posture across all theaters during negotiations and throughout the 60-day period.
+
+---
+
+### 2026-06-23 03:17:02  #MKT News #WTI #Impact bullish #XAUUSD #DXY
+
+Iran's acting defense minister said Iran is capable of pursuing negotiations and confrontation simultaneously and can respond if the US breaches commitments during talks.
+
+---
+
+### 2026-06-23 03:16:50  #國際
+
+特朗普背書約翰・詹姆斯競選密歇根州州長。
+
+---
+
+### 2026-06-23 03:16:39  #MKT News
+
+Iran's acting defense minister said the armed forces are at highest alert and warned any new provocation or miscalculation by aggressors would be met with a more forceful response than previously.
+
+---
+
+### 2026-06-23 03:09:55  #市場 #央行 #國際
+
+【巴克萊建議投資者為美國國債收益率走高佈局】在美聯儲上週轉向更為鷹派的立場後，巴克萊利率策略師建議客戶為美國國債收益率走高佈局。該巴克萊團隊將各期限美債的目標收益率上調了約35個基點，這與該行經濟學家的預估調整相符。巴克萊經濟學家一度預測美聯儲將在2027年降息，而如今認為美聯儲政策將維持不變。此外，巴克萊策略師Anshul Pradhan和Demi Hu上週晚些時候寫道，主席凱文·沃什領導下美聯儲放棄前瞻性指引的做法，導致“透過不確定性渠道而產生的風險溢價應該上升”。
+
+---
+
+### 2026-06-23 03:09:29  #其他
+
+【阿根廷2-0戰勝奧地利 小組賽兩連勝提前出線】美加墨世界盃J組小組賽，阿根廷2-0戰勝奧地利，收穫小組賽兩連勝，提前晉級32強。
+
+---
+
+### 2026-06-23 03:07:52  #其他
+
+市場訊息：特斯拉車輛衝撞得州住宅致人死亡事故已啟動聯邦安全調查。
+
+---
+
+### 2026-06-23 03:07:17  #市場
+
+SPACEX股價跌幅擴大至13%，跌破首日收盤價。
+
+---
+
+### 2026-06-23 03:03:11  #市場
+
+在岸人民幣兌美元（CNY）北京時間03:00收報6.7773元，較上週四夜盤收盤跌45點。成交量632.89億美元。
+
+---
+
+### 2026-06-23 03:01:57  #MKT News #Market Regions #Greater China #Hang Seng Index #Impact bullish
+
+Hang Seng Index futures night session rose 0.29% to 23,830, trading 61 points above the cash index.
+
+---
+
+### 2026-06-23 03:01:02  #其他
+
+阿根廷一季度失業率7.8%。
+
+---
+
+### 2026-06-23 03:00:02  #市場
+
+恒指期貨夜盤收漲0.26%，報23823.00點，高水54.48點。
+
+---
+
+### 2026-06-23 02:58:11  #國際
+
+特朗普提名的美國疾控中心負責人施瓦茨若獲提名確認，將辭去現有職務並出售所持資產。
+
+---
+
+### 2026-06-23 02:57:51  #其他
+
+【加拿大蒙特利爾市發生槍擊事件 3人死亡】加拿大魁北克省蒙特利爾市警方22日說，該市一社群當天發生槍擊事件，目前已造成包括警員和嫌疑人在內的3人死亡。（新華社）
+
+---
+
+### 2026-06-23 02:54:58  #公司
+
+【Strategy購入520枚比特幣 連續三週依靠發行普通股融資】Michael Saylor旗下的Strategy公司買入了價值3940萬美元的比特幣。儘管此前曾承諾要轉向透過發行永續優先股為購買比特幣提供資金，但該公司已連續第三週利用發行普通股融資。根據週一提交的監管檔案，這家前身為MicroStrategy的公司在6月15日至6月21日期間買入了520枚比特幣。
+
+---
+
+### 2026-06-23 02:51:02  #MKT News #Commodities #Energy
+
+Venezuela's central bank said oil export revenue rose to $5.49 billion in Q1 2026.
+
+---
+
+### 2026-06-23 02:50:55  #央行 #其他
+
+委內瑞拉央行：2026年第一季度委內瑞拉石油出口收入升至54.9億美元。
+
+---
+
+### 2026-06-23 02:48:32  #MKT News #Commodities #Energy #Brent #Impact bearish
+
+Brent crude futures settled at $77.90 a barrel, down $2.67, or 3.31%.
+
+---
+
+### 2026-06-23 02:47:45  #市場
+
+布倫特原油期貨結算價報每桶77.90美元，下跌2.67美元，跌幅3.31%。
+
+---
+
+### 2026-06-23 02:47:42  #公司 #國際
+
+美國聯合航空公司：預計到年底將有近1000架配備星鏈系統的飛機。
+
+---
+
+### 2026-06-23 02:47:21  #其他
+
+美聯航加速星鏈Wi-Fi部署，首個寬體機跨大西洋航班已投入運營。
+
+---
+
+### 2026-06-23 02:42:58  #MKT News #UAL.O #Impact bullish
+
+Starlink satellite internet has been rolled out on United Airlines' international flights.
+
+---
+
+### 2026-06-23 02:42:15  #MKT News
+
+TASNIM NEWS reported the head of Iran's negotiating delegation arrived in Muscat and was welcomed by Oman's foreign minister.
+
+---
+
+### 2026-06-23 02:42:03  #公司 #國際
+
+美國內政部宣佈，將石油和天然氣公司在聯邦土地上鑽探時必須繳納的保證金削減95%，以鼓勵更多能源勘探。
+
+---
+
+### 2026-06-23 02:42:03  #MKT News #Commodities #Energy #WTI #Impact bearish #Brent
+
+【Trump administration cuts federal onshore drilling bond requirement by 95%】The U.S. Interior Department said it will cut bond requirements for oil and gas firms drilling on federal lands by 95%, lowering required bonds for onshore federal leases from $500,000 under the Biden administration to $25,000 to encourage more energy exploration. The bonds are intended to ensure plugging and cleanup costs are not borne by taxpayers. The policy will enter a 60-day public comment period after publication in the Federal Register. Interior also said it will remove certain provisions from waste‑minimization rules that apply to drilling permit applications and will clarify related definitions.
 
 ---
 
@@ -21309,245 +21636,5 @@ Israel's defense minister said the IDF's operations in Lebanon are unrestricted 
 ### 2026-06-21 18:38:11  #國際
 
 以色列國防部長：以色列國防軍士兵在黎巴嫩過去和現在都沒有受到限制，可以採取行動消除威脅。
-
----
-
-### 2026-06-21 18:37:43  #公司 #觀點
-
-【明天，深交所史上最大規模IPO來了】根據目前安排，下週將有2只新股可申購：一隻為避雷器、絕緣子“小巨人”，另一隻為國內領先的新能源發電運營商。擬於下週一（6月22日）申購的華潤新能源是中國華潤旗下主營風光發電投資運營的核心平臺，也是我國主要的新能源發電企業之一。公司本次發行價10.11元/股，網上申購上限63.2萬股，頂格申購需配深市市值632萬元，在今年以來上市的主機板新股中排名第一，預計將有較高中籤率。華潤新能源本次公開發行股份數量為21.07億股，佔發行後公司總股本的比例約為16.20%（超額配售選擇權行使前）。公司授予中金公司不超過初始發行規模15.00%（不超過3.16億股）的超額配售選擇權，若超額配售選擇權全額行使，則發行總股數將擴大至24.23億股，佔發行後總股本的比例約為18.19%（超額配售選擇權全額行使後）。華潤新能源本次IPO預計募集資金總額為245億元，將重新整理深交所IPO融資紀錄，超越2020年上市的金龍魚（約139億元），成為深交所史上最大規模IPO。發行的募集資金將用於風力發電、太陽能發電專案建設。2025年以來，滬深兩市僅華電新能、華潤新能源發行股份總數超20億元，華電新能中籤率約0.56%，遠高於0.04%的平均中籤率水平。(上海證券報)
-
----
-
-### 2026-06-21 18:34:50  #公司
-
-【瑞典時隔40多年再建反應堆 北歐核電迎復甦潮】瑞典最大電力企業瓦滕法爾集團近日宣佈，已選定英國羅爾斯-羅伊斯公司在瑞典西南部建造3座小型模組化反應堆，將在時隔40多年後再次建造核反應堆。這個北歐國家自1980年決定逐步淘汰核電以來，已將現有12座核反應堆關停一半，但本屆政府重新鼓勵核電開發。包括瑞典在內，北歐國家近年面對能源供應鏈衝擊，為追求穩定、清潔的電力來源而出現核電開發復甦潮。（新華社）
-
----
-
-### 2026-06-21 18:34:10  #國際
-
-埃及總統會見沙特、土耳其、巴基斯坦三國外長。
-
----
-
-### 2026-06-21 18:32:51  #公司
-
-【深圳基本半導體股份有限公司透過港交所上市聆訊】據港交所檔案：深圳基本半導體股份有限公司透過港交所上市聆訊。
-
----
-
-### 2026-06-21 18:32:27  #MKT News #WTI #Impact bullish #XAUUSD #DXY
-
-Iran warned it would not negotiate any broader agreement with the United States unless fighting in Lebanon ends, Al Arabiya reported.
-
----
-
-### 2026-06-21 18:29:00  #國際
-
-伊朗警告稱，以色列在黎巴嫩的存在將使美國與黎巴嫩達成的協議失效。
-
----
-
-### 2026-06-21 18:27:46  #MKT News #WTI #Brent
-
-【Iran foreign ministry says it will follow up on US compliance with commitments】Baghaei, Iran’s foreign ministry spokesman traveling with the Iranian negotiating delegation to Switzerland, said on his personal social media on the 21st that Iran will rigorously follow up on US fulfilment of its commitments. The Switzerland meeting aimed to track implementation of clauses in the Iran–US memorandum of understanding; under Article 13, launching final-agreement talks depends on execution of Articles 1, 4, 5, 10 and 11. Article 1 — ending wars on all fronts, including Lebanon — must be implemented before final negotiations can begin. Talks focused on implementing those clauses, especially Article 1, and reviewed measures to execute Article 10 (Iran oil exports) and Article 11 (unfreezing frozen Iranian assets).
-
----
-
-### 2026-06-21 18:27:15  #國際
-
-伊朗外交部稱伊朗將跟進美方履行其承諾】當地時間21日，隨伊朗談判代表團出訪瑞士的伊朗外交部發言人巴加埃在其個人社交媒體表示，伊朗決心以嚴謹和認真的態度，跟進對方承諾的履行程序。巴加埃說，當天在瑞士舉行的會議，旨在跟進落實伊美諒解備忘錄中的相關條款。根據備忘錄第13條的規定，啟動最終協議談判，取決於第1、4、5、10和11條的執行情況。在這些條款——特別是第1條（在包括黎巴嫩在內的所有戰線結束戰爭）——未得到執行之前，不可能進入最終協議的談判階段。當天會談重點聚焦於上述條款的落實，尤其是第1條。同時，也將審查為執行第10條（伊朗石油出口）和第11條（解凍伊朗被凍結資產）所擬定的相關措施。（央視新聞）
-
----
-
-### 2026-06-21 18:25:39  #國際
-
-【IAEA總幹事現身美伊會談地點】國際原子能機構總幹事格羅西今天（6月21日）在社交媒體上表示，他在瑞士比爾根山會見了瑞士外長卡西斯，共同審視伊朗近期事態發展、前進道路以及國際原子能機構的重要作用。美國總統特使威特科夫此前曾表示，伊朗將邀請國際原子能機構檢查其核設施，並著手確認和查明伊朗濃縮核材料存放的具體位置。伊朗外交部發言人巴加埃對此予以否認。巴加埃表示，對於因美國和以色列襲擊而導致國際原子能機構無法進入的核設施，能夠恢復檢查將取決於談判程序及最終結果。(CCTV國際時訊）
-
----
-
-### 2026-06-21 18:24:26  #宏觀
-
-【重慶發改委通報招投標違法違規典型案件，12名違規專家被暫停評標半年】為進一步規範工程建設專案招標投標市場秩序，嚴厲打擊招標投標違法違規行為。重慶市發改委近日通報7起該市工程建設專案招標投標違法違規典型案件，既有投標人弄虛作假投標、串通投標等違法違規行為，又有中標人轉包、評標專家不按規定評標等違法違規行為。澎湃新聞（www.thepaper.cn）6月21日從該通報瞭解到，12名評標專家不按規定評標，因其不良行為分別被記分6分，暫停評標6個月。
-
----
-
-### 2026-06-21 18:20:59  #其他
-
-市場訊息：威尼斯或將把遊客入城費上調至 50 歐元，以此應對過度旅遊問題。
-
----
-
-### 2026-06-21 18:19:06  #公司
-
-【臥安機器人：擬以不超5億港元回購H股用於股權激勵】臥安機器人釋出自願公告，公司擬根據H股激勵計劃，進一步於市場上購買H股，用作日後授出獎勵股份。公告顯示，董事會認為公司H股估值偏低，當前市價未能充分反映基本面及長期增長潛力，現為儲備獎勵股份的適當時機；公司目前預期以不超過5億港元的總代價進行本次股份購買。背景方面，該計劃此前已獲董事會及股東大會批准，並已委任受託人管理；本次回購系繼2026年3月24日、3月27日、4月2日、4月22日、6月11日及6月16日相關公告後的進一步實施安排。本次回購有助於最佳化股權結構、增強核心團隊穩定性，並向市場傳遞管理層對公司長期價值的信心；若後續股價持續低估，公司可視情況追加資金支援計劃實施。
-
----
-
-### 2026-06-21 18:15:52  #MKT News #Market Regions #Greater China
-
-【Dragon Boat Festival three-day cross-regional travel expected to total 652.78 mln person-trips】China's Ministry of Transport said the three-day Dragon Boat Festival holiday (June 19–21, 2026) is expected to generate 652.78 mln cross-regional person-trips in total, averaging 217.59 mln per day, flat YoY.
-
----
-
-### 2026-06-21 18:13:15  #其他
-
-【艾可藍獲得海外資料中心發電機組後處理訂單】近日，艾可藍拿下海外資料中心發電機組後處理專案訂單，該專案共包含38臺燃氣機組後處理裝置，將助力海外資料中心構建高效、安全、綠色低碳的供電體系。
-
----
-
-### 2026-06-21 18:10:59  #國際
-
-【伊朗總統：不會製造核武器 不會放棄鈾濃縮權利】據伊朗伊斯蘭共和國通訊社21日報道，伊朗總統佩澤希齊揚重申伊朗不會放棄鈾濃縮的權利，並強調伊朗“明確表示不會製造原子彈”。佩澤希齊揚表示，美國想確保伊朗不製造核武器，而多年來伊朗也無意製造核武器，“但有一點是明確的，伊朗絕不會放棄鈾濃縮權利，美國也不得不接受這一點”。佩澤希齊揚說，伊朗與美國之間的諒解條款總體有利於伊朗人民。隨著伊美談判的啟動，伊朗在卡達持有的60億美元資金將獲解凍。伊朗中央銀行行長赫馬提參與相關談判，旨在明確這些資金的投向領域。佩澤希齊揚表示，伊朗最高領袖已授權政府繼續推進伊美談判，所有人必須團結一致、共同建設伊朗。他說，仍有個人或政治力量不願看到局勢恢復平靜，企圖破壞伊朗國家內部團結，必須保持警惕，避免分裂內訌。（新華社）
-
----
-
-### 2026-06-21 18:09:40  #其他
-
-【端午假期三天全社會跨區域人員流動量預計超6.5億人次】記者從交通運輸部獲悉，端午假期三天（2026年6月19日—21日），預計全社會跨區域人員流動總量為65278萬人次，日均為21759.3萬人次，同比持平。（央視新聞）
-
----
-
-### 2026-06-21 18:08:33  #其他
-
-瑞士外長：我們為盧塞恩湖峰會搭建磋商與對話平臺。
-
----
-
-### 2026-06-21 18:08:29  #國際
-
-瑞士外長：瑞士與伊朗之間的互信關係將持續服務於外交程序，助力中東實現和平。
-
----
-
-### 2026-06-21 18:07:22  #MKT News #GBPUSD #Impact bearish #FTSE100
-
-【Sky News: Foreign Secretary Cooper privately asked PM Starmer to resign】Sky News reported on the 21st that Foreign Secretary Cooper privately asked Prime Minister Starmer to resign over the weekend.
-
----
-
-### 2026-06-21 18:06:40  #公司
-
-【軒竹生物：安奈拉唑鈉新適應症根除幽門螺桿菌之III期臨床試驗完成首例患者入組】軒竹生物公告，集團自主研發的創新藥安奈拉唑鈉腸溶片（商品名：安久衛®）用於含安奈拉唑鈉的鉍劑四聯療法根除幽門螺桿菌（「Hp」）之III期臨床研究，近日已成功完成首例患者入組，標誌著該項關鍵註冊臨床研究正式邁入實質性執行階段。
-
----
-
-### 2026-06-21 18:00:06  #市場
-
-【針對長江中下游等地強降雨 國家防總辦公室持續部署防範工作】6月21日，國家防總辦公室、應急管理部組織中國氣象局、水利部、自然資源部、住房城鄉建設部、交通運輸部等多部門聯合會商，研判近期降雨趨勢和汛情形勢，研究部署重點地區防汛工作。會商指出，珠江流域柳江發生2026年主要江河第1號洪水，為今年主要江河首次編號洪水。6月21日至26日，西南地區東部和南部、江漢、江淮、江南、華南西部等地將有大到暴雨，局地特大暴雨。未來三天，貴州、湖北、湖南、安徽等地暴雨致災風險高，需加強防範持續強降雨可能引發的山洪、地質災害、中小河流洪水和城市內澇。會商強調：要加強監測預報和預警響應聯動，加密監測、滾動預報、提早預警，前移工作關口，及時啟動調整應急響應，視情果斷採取關停管控等剛性措施。要突出抓好山洪地質災害和中小河流洪水防禦，動態調整山洪、地質災害預警閾值，提前組織危險區域人員轉移避險，重點關注旅遊景區、民宿農家樂、涉水專案、漫水路橋等風險點，進一步壓實“五個關鍵環節”，按照“四個一律”要求，做到提前轉、梯次轉、白天轉、擴面轉。要做好防洪工程巡查防守和重點在建工程安全度汛，預置搶險救援力量，重點關注超警堤段、險工險段、中小水庫、重點山塘、淤地壩，堅持巡查防守，排查整治風險隱患。做好城市內澇和農田漬澇防範應對工作。要用心用情做好救災救助工作，及時下撥救災資金，迅速呼叫救災物資，妥善安置受災群眾，確保基本生活得到有效保障。國家防總維持針對江蘇、安徽、江西、湖北、湖南、廣西、重慶、貴州的防汛四級應急響應，於21日10時終止針對浙江、廣東、雲南的防汛四級應急響應。（央視新聞）
-
----
-
-### 2026-06-21 17:59:10  #其他
-
-【自然資源部與中國氣象局聯合釋出橙色地質災害氣象風險預警】自然資源部與中國氣象局6月21日18時聯合釋出橙色地質災害氣象風險預警：預計，6月21日20時至22日20時，安徽西南部、江西西北部、湖北東部、湖南西北部、廣西北部、重慶南部、貴州東部、雲南西部、西藏東南部、新疆西北部等地部分地區發生地質災害的氣象風險較高（黃色預警），其中，湖南西北部局地發生地質災害的氣象風險高（橙色預警）。各級政府及有關部門按照應急預案做好地質災害防禦工作。請社會公眾及時關注地質災害氣象風險預警資訊，謹慎前往地質災害預警區域。橙色預警區內高風險隱患點和風險區受威脅人員請根據當地防災部門組織立即撤離前往附近避險安置點，臨坡臨崖臨溝臨水人員根據撤離訊號及時撤離前往附近避險安置點；黃色預警區內人員，請隨時關注預警資訊變化，注意附近警示標誌，避免在溝谷、斜坡、陡崖（坎）等高風險地帶逗留。
-
----
-
-### 2026-06-21 17:57:28  #國際
-
-伊朗總統佩澤希基揚：武裝部隊各分支均認同我們當前推進的路線，相關決議經由國家安全委員會全體一致達成。
-
----
-
-### 2026-06-21 17:55:40  #其他
-
-西方外交訊息人士：國際原子能機構總幹事是否參加會談尚未得到確認。
-
----
-
-### 2026-06-21 17:55:06  #其他
-
-聯合國秘書長古特雷斯：值此關鍵關頭，務必全力為外交斡旋爭取一切成功的可能。
-
----
-
-### 2026-06-21 17:54:08  #公司
-
-【中超控股：再次延長2023年度向特定物件發行股票決議有效期】中超控股(002471)6月21日公告，擬再次延長2023年度向特定物件發行股票決議有效期及授權有效期，再次延長後的有效期限自2026年第五次臨時股東會審議透過之日起12個月。
-
----
-
-### 2026-06-21 17:53:16  #其他
-
-巴基斯坦國家電視臺訊息：技術層級磋商或將持續至明日（週一）。
-
----
-
-### 2026-06-21 17:52:49  #國際
-
-伊朗外交部：依據諒解備忘錄啟動談判，需先落實五項條款，其中一項涉及全面終止各戰線戰事。
-
----
-
-### 2026-06-21 17:52:30  #國際
-
-在美國、卡達、巴基斯坦兩名斡旋方在場的情況下，華盛頓與德黑蘭的談判將於當地時間下午 1 時啟動。
-
----
-
-### 2026-06-21 17:52:11  #國際
-
-【伊朗外交部公共外交中心主任兼發言人：伊朗決心以一絲不苟和嚴肅的態度跟蹤對方履行承諾的執行程序】伊朗外交部公共外交中心主任兼發言人：伊朗決心以一絲不苟和嚴肅的態度跟蹤對方履行承諾的執行程序。今天的瑞士會議，是為了跟蹤執行2026年6月18日《關於結束戰爭諒解備忘錄》各項條款。根據諒解備忘錄第13條，開始最終協議談判的前提是執行第1、4、5、10和11條。沒有執行這些條款，特別是第1條（在所有戰線包括黎巴嫩結束戰爭），不可能進入最終協議談判階段。今天的，重點關注執行上述條款，特別是第1條，以及審查為執行第10條（伊朗石油出口問題）和第11條（解凍伊朗被凍結資產）所預見的措施。
-
----
-
-### 2026-06-21 17:52:07  #MKT News
-
-Gaza health ministry said Israeli attacks killed at least nine Palestinians in the Gaza Strip over the past 24 hours.
-
----
-
-### 2026-06-21 17:51:13  #MKT News
-
-Saudi outlet Hadath reports Iranian parliament speaker Ghalibaf met Qatar’s prime minister at Bilgen Mountain.
-
----
-
-### 2026-06-21 17:50:31  #MKT News
-
-IAEA Director General GROSSI met Switzerland's foreign minister at Bürgenstock to assess the latest developments on Iran.
-
----
-
-### 2026-06-21 17:48:16  #其他
-
-國際原子能機構總幹事：在此關鍵節點，應當盡一切可能為外交斡旋創造取得成功的機會。
-
----
-
-### 2026-06-21 17:46:32  #國際
-
-國際原子能機構總幹事：在比爾根施托克與瑞士外長舉行會面，商討伊朗相關局勢最新進展、後續推進方案以及原子能機構發揮的關鍵作用。
-
----
-
-### 2026-06-21 17:46:14  #國際
-
-美國副總統在瑞士比爾根施托克度假酒店會見巴基斯坦總理，伊美相關談判正於該地舉行。
-
----
-
-### 2026-06-21 17:45:51  #其他
-
-【陳茂波：香港成為內地科企國際化發展重要支撐點】香港特區政府財政司司長陳茂波21日發表網誌表示，內地硬科技企業選擇以香港為國際化發展的策略適應地，彰顯對香港國際投資者網路及中國科技創新與全球資本連線點角色的信任與認可。 陳茂波說，內地科企正渴望對接全球資本、拓展國際夥伴，它們對香港的期待已超越單純的融資平臺。香港的普通法體系、資金自由流動、與國際接軌的管治準則及覆蓋全球的投資者網路等，為這些企業快速適應國際市場提供了堅實支撐。對內地科企而言，香港是通往世界的門戶；對國際資本而言，香港則是理解中國創科的最佳視窗。當越來越多硬科技企業選擇在香港進行首次公開招股或第二上市，國際投資者得以更直接地參與中國創科產業的快速成長，而企業也能在香港的監管框架與市場紀律中錘鍊出更強的國際競爭力。這種互動，正是香港作為“超級聯絡人”及“超級增值人”的作用。 陳茂波指出，隨著大灣區與長三角在“十五五”時期深化區域協調發展，香港正成為這兩個快速增長區域的國際化支撐點。從上市集資到財資中心，從智慧財產權保護到國際人才配置，香港的專業服務體系讓科創企業更好“被理解”“被認識”“被欣賞”。 陳茂波表示，憑藉國家堅實支援，香港經濟已連續三年增長，今年上半年增長更趨全面。香港的制度優勢和國際化優勢，與國家的科創優勢和產業優勢相互賦能，在全球科技創新競爭中有著無可替代的獨特位置。（新華社）
-
----
-
-### 2026-06-21 17:45:46  #MKT News #CNH
-
-【PBOC's Pan meets Indonesia's Finance Minister Purbaya Yudhi Sadewa】PBOC's Pan met Indonesia's Finance Minister Purbaya Yudhi Sadewa on June 18, 2026. They exchanged views on the current economic and financial outlook, China–Indonesia financial cooperation and the Indonesian finance ministry's issuance of yuan‑denominated bonds in China (Panda bonds).
-
----
-
-### 2026-06-21 17:45:37  #央行 #宏觀 #國際
-
-【中國人民銀行行長潘功勝會見印度尼西亞財政部部長普爾巴亞·尤迪·薩德瓦】2026年6月18日，中國人民銀行行長潘功勝會見印度尼西亞財政部部長普爾巴亞·尤迪·薩德瓦。雙方就當前經濟金融形勢、中印尼金融合作、印度尼西亞財政部在我國境內發行人民幣計價債券（熊貓債）等進行了交流。(央行)
-
----
-
-### 2026-06-21 17:45:35  #國際
-
-市場訊息：伊朗總統佩澤希齊揚表示，伊朗不會放棄鈾濃縮的權利。
 
 ---
