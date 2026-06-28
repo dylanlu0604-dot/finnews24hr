@@ -1,7 +1,23 @@
 {
-  "updated": "2026-06-29 06:19:53",
-  "count": 17970,
+  "updated": "2026-06-29 06:23:53",
+  "count": 17971,
   "items": [
+    {
+      "id": "4959210",
+      "time": "2026-06-29 06:22:40",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯總統普京表示，一旦華盛頓方面與伊朗就中東衝突達成協議，美方談判代表預計將前往莫斯科。他同時補充，俄羅斯已準備好就全部相關細節持續開展磋商。"
+    },
+    {
+      "id": "4959209",
+      "time": "2026-06-29 06:22:24",
+      "tags": [
+        "公司"
+      ],
+      "text": "市場資訊：三星與SK集團十年內投資總額或達2萬億韓元。"
+    },
     {
       "id": "mkt:019f1050-8f78-7aab-8c03-660b65a925fa",
       "time": "2026-06-29 06:19:02",
@@ -164437,17 +164453,6 @@
         "00697.HK"
       ],
       "text": "Shoucheng Holdings (00697.HK) said a fund managed by a Shoucheng Capital subsidiary has recently invested in AI services firm Zhizi Xinyuan."
-    },
-    {
-      "id": "te:markets:560558",
-      "time": "2026-06-22 06:19:58",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 0"
-      ],
-      "text": "Brent Inches Higher for 4th Session — Brent oil prices opened the week more than 1.5% higher, rising to almost $82 per barrel as the US and Iran began talks in Switzerland, the first to take place under last week's memorandum of understanding. The agreement called for reopening the strait of Hormuz, and ending hostilities, including in Lebanon, where Israel and the Iran-backed Hezbollah have continued exchanging attacks. However, Iran said the US had failed to secure a ceasefire in Lebanon and announced it had again halted traffic through the strait. Tehran also said Sunday's talks would exclude substantive issues such as its nuclear programme."
     }
   ]
 }
