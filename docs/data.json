@@ -1,7 +1,15 @@
 {
-  "updated": "2026-06-29 02:22:36",
-  "count": 17974,
+  "updated": "2026-06-29 02:27:33",
+  "count": 17973,
   "items": [
+    {
+      "id": "4959099",
+      "time": "2026-06-29 02:23:56",
+      "tags": [
+        "市場"
+      ],
+      "text": "奈及利亞反壟斷委員會表示，國際原油價格大幅下跌，但國內燃油零售價下調速度滯後，並警告將對燃油市場採取整治措施。"
+    },
     {
       "id": "4959098",
       "time": "2026-06-29 02:12:34",
@@ -164439,29 +164447,6 @@
         "其他"
       ],
       "text": "SpaceX：獵鷹9號火箭於加利福尼亞發射24顆星鏈衛星。"
-    },
-    {
-      "id": "mkt:019eeb6f-51f7-7dd8-b0a8-b94022c0318e",
-      "time": "2026-06-22 02:26:41",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "Israel's Prime Minister NETANYAHU said Israel will maintain a 'security zone' in Lebanon as needed to protect its citizens."
-    },
-    {
-      "id": "mkt:019eeb6f-2494-7dd8-b0a8-b7777a48b071",
-      "time": "2026-06-22 02:26:30",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "Brent",
-        "DXY"
-      ],
-      "text": "i24News reports Israeli Prime Minister Netanyahu said Israel thwarted an Iranian plan \"aimed at completely annihilating us.\""
     }
   ]
 }
