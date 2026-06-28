@@ -1,7 +1,175 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-06-28 07:31:13_
-_本檔包含 3554 則快訊，約 669878 字_
+_更新時間：2026-06-28 08:04:42_
+_本檔包含 3571 則快訊，約 669277 字_
+
+---
+
+### 2026-06-22 22:18:37  #公司
+
+諾基亞美股漲逾4%。6月22日，谷歌雲與諾基亞宣佈擴充套件合作關係，將谷歌Gemini模型整合至諾基亞網路軟體套件NOKia Assurance Center。
+
+---
+
+### 2026-06-22 22:18:33  #市場
+
+SpaceX股價延續跌勢，最新下跌8.8%，報168.50美元。
+
+---
+
+### 2026-06-22 22:18:25  #公司
+
+巴西國家石油公司表示，巴西石油與墨西哥石油公司的合作諒解備忘錄將涵蓋勘探與生產以及工業流程領域的開發機遇。
+
+---
+
+### 2026-06-22 22:17:59  #公司
+
+巴西石油公司稱，巴西石油與墨西哥石油公司將於週二簽署油氣合作諒解備忘錄。
+
+---
+
+### 2026-06-22 22:17:41  #公司
+
+薩班斯可再生能源公司： 與Meta的合作專案預計將創造並支撐 600 餘個就業崗位。
+
+---
+
+### 2026-06-22 22:16:41  #公司 #國際
+
+薩班哲可再生能源公司透過與Meta簽訂長期購電協議，拓展美國業務增長。
+
+---
+
+### 2026-06-22 22:16:07  #市場
+
+NETFLIX  盤中下挫 2.3%，創時段新低。
+
+---
+
+### 2026-06-22 22:15:02  #市場 #國際
+
+【機構：受7月天氣展望提振，美國天然氣期貨上漲】美國天然氣期貨走高，此前週末釋出的7月更炎熱天氣預報增加了預期的製冷需求，同時產量上升限制了漲幅。EBW Analytics的Eli Rubin在一份報告中表示：“間歇性看漲的高溫與看跌的供應增加之間的拉鋸，可能仍是夏季的核心主題。“但在短期內，“不斷升溫的天氣與季節性和技術面相吻合，意味著在交易員於7月最終結算前進行頭寸調整之際，將對阻力位進行測試。“紐約商交所天然氣期貨上漲1.1%，報每百萬英熱單位3.268美元。
+
+---
+
+### 2026-06-22 22:14:06  #央行 #其他
+
+銀行界人士稱，土耳其央行上週買入了90億美元外匯。
+
+---
+
+### 2026-06-22 22:13:18  #MKT News
+
+【SpaceX to hold six fixed-income investor calls on June 22】SpaceX has authorized banks to run six fixed-income investor calls on June 22, ahead of an expected USD-denominated senior unsecured note offering with maturities of 5–30 years. BofA Securities, Citigroup, Goldman Sachs, JP Morgan and Morgan Stanley have been mandated to arrange the calls.
+
+---
+
+### 2026-06-22 22:13:13  #其他
+
+美元指數DXY短線下挫約15點，報100.97。
+
+---
+
+### 2026-06-22 22:13:05  #MKT News #XAUUSD #Impact bullish #WTI #EURUSD
+
+US dollar index (DXY) briefly fell about 15 points to 100.97.
+
+---
+
+### 2026-06-22 22:12:59  #市場
+
+莫德納股價下跌7.4%，此前六個交易日該股累計漲幅已近40%。
+
+---
+
+### 2026-06-22 22:12:36  #其他
+
+法院檔案顯示，Uber董事會因在合規問題上敷衍了事，導致多起性侵與性騷擾訴訟，被股東提起訴訟。
+
+---
+
+### 2026-06-22 22:12:16  #其他
+
+美元兌日元<JPY=>大幅下挫至161.42，最新報161.69，漲幅0.25%。
+
+---
+
+### 2026-06-22 22:11:48  #Trading Economics #Economy #United States #Government Bond 10Y #Importance 2
+
+Treasury Yields in the US Move Higher — The yield on the US 10-year Treasury note rose to 4.5% on Monday, its highest level in about two weeks, while the more policy-sensitive 2-year Treasury yield climbed above 4.2%, reaching its highest level since February 2025. Investors returned from the long weekend focused on the outlook for monetary policy and inflation, despite signs of progress in US-Iran negotiations that contributed to another decline in oil prices. Markets are currently pricing in at least one 25bps Federal Reserve rate hike by year-end, with the probability of such a move as early as September standing at around 50%. Attention now turns to Thursday's PCE report, which includes the Fed's preferred inflation gauge and is expected to provide fresh insight into underlying price pressures and the likely path of interest rates.
+
+---
+
+### 2026-06-22 22:11:31  #MKT News #Important #USDJPY #Impact bearish #DXY
+
+USD/JPY fell about 70 pips intraday to 161.70.
+
+---
+
+### 2026-06-22 22:10:39  #MKT News #SPCX.O
+
+Sources: SpaceX (SPCX.O) has appointed BofA, Citigroup, Goldman Sachs, JP Morgan and Morgan Stanley to arrange investor conference calls.
+
+---
+
+### 2026-06-22 22:10:32  #市場
+
+日元兌美元匯率在劇烈波動中短暫回升，抹去了跌幅。
+
+---
+
+### 2026-06-22 22:10:13  #MKT News
+
+DownDetector reports user complaints indicating issues with X.
+
+---
+
+### 2026-06-22 22:10:05  #MKT News
+
+Sources said SpaceX (SPCX.O) may seek to issue senior unsecured USD-denominated bonds with maturities of 5 to 30 years.
+
+---
+
+### 2026-06-22 22:09:45  #其他
+
+故障監測平臺 DownDetector：使用者反饋 X 平臺出現故障。
+
+---
+
+### 2026-06-22 22:09:28  #其他
+
+【SpaceX跌8%】SpaceX跌8%，報170.245美元/股，總市值報2.24萬億美元。
+
+---
+
+### 2026-06-22 22:09:18  #公司 #觀點
+
+訊息人士透露，SpaceX已委任美銀證券、花旗集團、高盛、摩根大通以及摩根士丹利安排投資者路演推介。
+
+---
+
+### 2026-06-22 22:08:42  #國際
+
+稀土概念股UURAF漲2.7%，“美國稀土”USAR漲2%，MP材料漲1.5%，ETF XME跌1.2%，NB跌1.5%，UUUU跌3.1%。
+
+---
+
+### 2026-06-22 22:08:32  #MKT News #Important
+
+People familiar with the matter said SpaceX (SPCX.O) has asked banks to arrange six fixed-income investor calls scheduled for June 22.
+
+---
+
+### 2026-06-22 22:08:20  #公司 #國際
+
+【卡達投資局參與美國光子技術公司HyperLight 8000萬美元C輪融資】卡達投資局（QIA）當地時間6月18日宣佈參與HyperLight公司8000萬美元C輪融資。本輪融資由MediaTek Innovation Fund領投，資金將用於擴大其薄膜鈮酸鋰（TFLN）光子晶片產能，並加速在AI資料中心與通訊網路中的商業化部署。
+
+---
+
+### 2026-06-22 22:07:54  #公司 #市場
+
+【興業科技：股票交易異常波動 收購磷化銦業務存不確定性】興業科技公告稱，公司股票連續三個交易日收盤價漲幅累計偏離超過20%，屬異常波動。公司於6月21日晚披露擬收購磷化銦業務相關資產框架協議，該收購尚需董事會審議，能否完成不確定。此業務2026年預計收入佔2025年收入比例極小，對當期營收和淨利潤影響小。新專案可能面臨市場開拓慢等風險，公司目前經營穩定，主業未變，控股股東等在異常波動期間未買賣公司股票。
 
 ---
 
@@ -21359,71 +21527,5 @@ Wells Fargo says it is extremely bullish and forecasts the S&P 500 will rise to 
 ### 2026-06-21 08:09:59  #市場 #觀點 #國際
 
 【美銅關稅審查報告公佈在即 交易員嚴陣以待“多空抉擇”】全球市場上的銅交易員都在屏息等待將於6月底由美國商務部發布的審查報告，該報告將成為特朗普關稅決定最終拍板的關鍵依據。在靴子落地前夕，交易員們正密切關注相關訊號，以判斷是該平倉銅多頭頭寸，還是該加碼押注美國銅價將繼續上漲。摩根士丹利分析師在本月早些時候釋出的報告中指出，明年1月起實施15%精煉銅關稅的可能性為43%。過去一個月，紐約銅價相對於倫銅的溢價不斷擴大，表明部分投資者正押注這一方向。但無論特朗普的這枚硬幣最終翻向哪一面，鑑於銅在人工智慧(AI)基礎設施中無可替代的剛需地位，大多數分析師和交易員對銅的長期前景目前都相對樂觀。
-
----
-
-### 2026-06-21 08:04:11  #其他
-
-【中國裁判組亮相2026世界盃】今天，美加墨世界盃E組第二輪，厄瓜多VS庫拉索。中國裁判馬寧、傅明、周飛在本場比賽一同亮相，同場執裁世界盃賽事。（央視新聞）
-
----
-
-### 2026-06-21 08:03:40  #其他
-
-據英國國家電網資料，英國託內斯1號核反應堆在停運後已恢復併網執行。
-
----
-
-### 2026-06-21 08:03:30  #MKT News #WTI #Impact mixed #Brent #XAUUSD #Impact bullish
-
-【U.S.-Iran technical talks due today; mixed signals over Strait of Hormuz closure】Following a June 18 memorandum of understanding, technical-level U.S.-Iran talks are scheduled in Switzerland on June 21, Pakistan said on June 20. Iran’s negotiating team has arrived in Switzerland and the U.S. vice president has departed to attend. On June 20 Iran’s military announced it was closing the Strait of Hormuz, citing U.S. failure to restrain Israel and alleged breaches of the MoU; the U.S. military said it had not detected any Iranian actions to close the waterway. President Trump on June 20 issued guidance on charging transit fees for passage through the strait.
-
----
-
-### 2026-06-21 08:02:46  #MKT News
-
-Two killed and one wounded in a pre-dawn shooting outside a bar in West Haven, Connecticut early on the 20th, local police said.
-
----
-
-### 2026-06-21 08:02:08  #MKT News
-
-【Cuba's foreign minister says US has no authority to judge Cuba's reforms】Cuba's foreign minister Rodriguez said on the 20th the US, which he described as the executor of collective punishment against the Cuban people, has no political, legal or moral authority to judge reforms Cuba adopts. He said the measures are based on national sovereignty and self-determination to counter the impact of "extreme economic pressure", that US views on how Cuba adapts to new domestic and international realities are "not important", and that Havana will continue to defend its sovereignty and oppose foreign interference.
-
----
-
-### 2026-06-21 08:00:40  #公司 #央行 #國際
-
-【韓國央行罕見警告：儲存晶片景氣週期或推高通脹壓力】韓國央行罕見警告，儲存晶片景氣週期帶來的鉅額績效獎金，可能從半導體行業擴散至更廣泛領域，進而推高通脹壓力。隨著三星、SK海力士員工獎金巨幅增長，晶片廠周邊奢侈品消費已明顯升溫，新世界、樂天購物、現代百貨等零售股也被股民炒成“儲存概念股”。韓國央行目前預測，該國今年的整體通脹率可能會達到2.7%，遠高於2%的政策目標。因此，韓國央行7月或9月的政策會議，已經成為重要的加息視窗期。
-
----
-
-### 2026-06-21 07:55:53  #宏觀 #國際
-
-【古巴外長稱美國無權評判古巴改革】古巴外長羅德里格斯20日表示，作為對古巴人民實施集體懲罰的執行者，美國政府沒有政治、法律或道義上的權威來評判古巴採取的改革措施。 羅德里格斯在社交媒體上說，古巴出臺的這些措施基於國家主權和自決權，以應對“極端經濟打壓”帶來的衝擊。對於古巴如何適應新的國內外現實，美國的看法“不重要”。他表示，古巴將繼續捍衛主權，同時堅決反對外國干涉。 羅德里格斯當天在另一篇帖文中指出，美國對古巴實施的全面封鎖，性質堪比“軍事封鎖”，並指責美方公開鼓動顛覆古巴憲法秩序，執意尋求對古巴進行軍事幹預。 古巴全國人民政權代表大會18日召開特別會議，審議並批准經濟和社會改革方案。該方案涵蓋23個領域共176項改革措施。美國國務院一名發言人19日在接受媒體採訪時表示，這些改革措施“幅度有限”。 美國長期對古巴實施經濟、金融封鎖和貿易禁運。今年相繼對委內瑞拉、伊朗發起軍事行動後，美國總統特朗普又對古巴發出威脅，稱“下一個是古巴”，並進一步加大對古巴施壓，實行石油封鎖。為應對美國持續施壓，古巴國家主席迪亞斯-卡內爾12日表示，古巴已確定一系列重點工作，涵蓋經濟社會發展、對外開放、能源轉型等領域。(新華社)
-
----
-
-### 2026-06-21 07:55:35  #其他
-
-【崔東樹：5月乘用車市場一大特徵為總量承壓、結構性大分化】崔東樹發文分析，2026年5月乘用車市場的特徵：一、總量承壓、結構性大分化，“燃油冷、新能源熱”成最大焦點，國內零售下滑核心原因是“燃油崩塌”導致新能源零售滲透率62.9%（歷史新高），電動化替代速度超預期；二、合資品牌電動化轉型加速，5月主流合資新能源國內零售同比增51%，總體自主新能源增速-10%，別克（新能源佔比45%）等合資品牌轉型新能源初見效果。；三、出口爆發式增長，出口中新能源佔比54%（歷史新高），新能源+自主雙驅動，“出海”成核心增長引擎；四、被動去庫存特徵明顯、渠道庫存下降較快，上市經銷商全面虧損，經銷商生存壓力持續加大；五、自主品牌高階突破凸顯，20-30萬、30-40萬、40萬以上乘用車零售均超50%；六、微型電動車承壓，A級車萎縮，入門級消費亟待支援，經濟型電動車標準期待推出。
-
----
-
-### 2026-06-21 07:52:22  #其他
-
-【崔東樹：5月車市核心特徵為燃油車內銷崩塌、新能源強勢主導、出口逆勢增長】崔東樹發文稱，5月車市核心特徵為燃油車內銷崩塌、新能源強勢主導、出口逆勢增長。國內車市下滑的核心誘因是燃油車在高油價衝擊下的銷量大幅萎縮，5月燃油車份額37%，但同比減量佔乘用車總減量的82%，拖累大盤走勢。高油價、消費轉型等因素加速“油電替代”過程，本月新能源零售滲透率持續突破60%達到62.9%的歷史高位。合資品牌電動化轉型加速，5月新能源合資車型銷量同比增51%，燃油車同比降41%。出口繼續保持行業核心增長引擎，5月新能源出口佔比54%創新高，但燃油車出口增46%的表現也很強，形成中國出海全面增長的超強世界表現。當前車市存量競爭特徵凸顯，行業內部分化持續加劇。新能源市場告別全域增長，呈現“高階電動車爆發、低端經濟型車型承壓”的兩極分化態勢，縣鄉市場、入門級車型下滑過大。同時“新車效應”短期化，對市場拉動效力大幅減弱。渠道端壓力持續凸顯，行業被動去庫存節奏加快，經銷商普遍虧損、經營風險攀升。整體而言，5月車市回暖僅為結構性修復，電動化迭代與海外出海已成為行業長期增長的核心支撐。
-
----
-
-### 2026-06-21 07:51:04  #其他
-
-【中國公民免籤前往柬埔寨，這些事項需注意】中國駐柬埔寨大使館6月20日釋出關於中國公民免籤前往柬埔寨的領事提醒： 柬埔寨政府宣佈，自2026年6月15日至10月15日，持中華人民共和國普通護照人員無論自中國境內還是第三國出發，均可免簽入境柬埔寨。免籤期間可多次入境，單次停留不超過14天。入境旅客無需提前辦理簽證，僅需按要求填寫電子入境卡（E-ArrivalCard）即可辦理入境手續。
-
----
-
-### 2026-06-21 07:43:33  #公司 #市場 #焦點 #國際
-
-【馬斯克拿下7800億元天價薪酬，2028年可兌現】日前，特斯拉向美國證券交易委員會（SEC）提交的檔案顯示，公司CEO埃隆·馬斯克已於6月16日兌現其2018年薪酬方案。馬斯克由此淨獲得約2.86億股特斯拉股票，賬面收益高達1160億美元（約合人民幣7854億元）。檔案顯示，馬斯克以拆分調整後的行權價每股23.34美元，行使3.04億股股票的期權。6月16日當天，特斯拉收盤價為每股404.66美元，價差達每股381.32美元，單筆交易賬面收益約1160億美元。按照實施協議約定，此次行權採取“淨額結算”方式，特斯拉扣留1753.19萬股股票（價值約71億美元）用於抵扣行權成本，相當於馬斯克淨獲得約2.86億股股票。值得注意的是，上述股票為限制性股票，需滿足服務年限要求，馬斯克預計於2028年方能出售這批股票。
 
 ---

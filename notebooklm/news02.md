@@ -1,7 +1,25 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-06-28 07:31:13_
-_本檔包含 3719 則快訊，約 669821 字_
+_更新時間：2026-06-28 08:04:42_
+_本檔包含 3710 則快訊，約 669319 字_
+
+---
+
+### 2026-06-26 08:58:54  #國際
+
+日本財務大臣片山皋月：不會限制用於投資的預算申請。在投資時會將財政可持續性銘記於心。不會依靠舉債來為調降食品消費稅提供資金。需要透過評估補貼和支出來為減稅籌集資金。
+
+---
+
+### 2026-06-26 08:58:41  #其他
+
+【北京：兩大新興專業首次評職稱】昨天，北京市人力資源和社會保障局釋出《關於開展2026年度北京市職稱評價工作的通知》，自7月7日起，在全市啟動2026年度職稱申報工作。今年，本市首次開設機器人、低空技術兩大新興專業職稱評審。機器人專業劃分四大評價方向，包含核心零部件、演算法與軟體、整機設計與製造、系統整合與應用，覆蓋研發、硬體、程式開發、專案整合等全領域從業人員。低空技術專業結合城市產業實際，設定低空飛行器研發、低空飛行器製造、低空執行系統建設、低空安全保障四大方向，完整覆蓋低空經濟產業鏈核心環節。
+
+---
+
+### 2026-06-26 08:57:42  #Trading Economics #Markets #Japan #Stock Market #Importance 1
+
+Japanese Shares Fall as Tech Stocks Weigh — The Nikkei 225 Index fell 2.8% to below 70,400, while the broader Topix Index slipped 0.7% to 3,987 on Friday, giving back the previous session's gains as technology stocks came under renewed selling pressure after Thursday's strong rally. Japanese equities also tracked a volatile session on Wall Street, where losses in megacap technology stocks outweighed optimism driven by a bullish outlook for memory-chip makers. Among the biggest decliners were Kioxia Holdings (-4.1%), SoftBank Group (-10.8%), Advantest (-6.2%), Tokyo Electron (-2.3%), and Taiyo Yuden (-8.3%). On the economic front, data showed Tokyo's core inflation rate accelerated for the first time in eight months, reinforcing expectations that the Bank of Japan will continue raising interest rates.
 
 ---
 
@@ -22345,77 +22363,5 @@ NZX 50 Edges Higher in Morning Trade — The NZX 50 climbed 25 points, or 0.2%, 
 ### 2026-06-25 06:46:56  #MKT News #Star Stocks #Alibaba #BABA.N #Impact bullish
 
 【Alibaba confirms lawsuit against Pentagon over US 'Chinese military companies' list】Alibaba confirmed it has filed suit against the Pentagon seeking removal from the US list of Chinese military companies. The company said it is not a Chinese defense contractor, has not participated in military-civil fusion, and called the designation baseless, arbitrary and inconsistent.
-
----
-
-### 2026-06-25 06:45:37  #市場 #央行 #國際
-
-【對沖基金持續加大美國國債敞口 美聯儲稱基差交易是主要推手】美聯儲表示，對沖基金對美國國債敞口不斷增加，主要是由於現貨-期貨基差交易的復甦。由首席經濟學家Phillip Monin撰寫的報告表示，截至去年9月，這種高槓杆交易已在對沖基金所持美國國債多頭頭寸中佔8300億美元，約為2020年初上一峰值的兩倍。其在對沖基金國債多頭總敞口中佔比35%。在對沖基金的美債多頭頭寸中，互換利差和期限匹配交易等套利策略佔據主導地位。報告稱，基差交易涉及做空國債期貨合約，同時做多以回購融資方式購買的、可交割到期貨的國債。
-
----
-
-### 2026-06-25 06:45:17  #Trading Economics #Markets #Crypto #Importance 1
-
-Crypto Updates: Ether Depreciates by 3.05% — Top crypto losers are Ether (-3.05%), Bitcoin (-2.93%) and Binance (-2.38%).
-
----
-
-### 2026-06-25 06:41:27  #MKT News
-
-NHK reported that no tsunami warning was issued after an earthquake in Japan.
-
----
-
-### 2026-06-25 06:40:17  #Trading Economics #Markets #Commodity #Importance 1
-
-Agricultural Commodities Updates: Cocoa Rallies by 7.21% — Top commodity gainers are Cocoa (7.21%) and Coffee (0.62%). Biggest losers are Oat (-6.37%) and Cotton (-3.23%).
-
----
-
-### 2026-06-25 06:39:34  #MKT News #USDJPY #Impact bearish #XAUUSD #Impact bullish #Nikkei 225
-
-【6.9-magnitude quake offshore Iwate Prefecture】Around 07:30 Tokyo time on the 25th, a magnitude-6.9 earthquake struck offshore Iwate Prefecture; the Japan Meteorological Agency reported a maximum seismic intensity of JMA 6-upper. Strong shaking was felt in Tokyo.
-
----
-
-### 2026-06-25 06:39:33  #公司
-
-【A股公司年度“紅包”派發進行時，“雙創”板塊成現金分紅硬核力量】截至6月23日（按派息日計），今年已有2379家上市公司實施了2025年年度現金分紅，合計派發現金紅利7087.55億元。其中，工商銀行以601.97億元的分紅金額居首，中國移動、農業銀行、中國平安緊隨其後，分紅金額均超過300億元。從行業分佈來看，除銀行、證券等金融板塊外，通訊、電力裝置、醫藥生物、電子等行業已發放的分紅金額位居前列。值得注意的是，一批來自創業板、科創板的硬核科技企業正步入業績收穫期，並以持續高分紅回饋耐心陪跑的投資者。（上證報）
-
----
-
-### 2026-06-25 06:39:20  #國際
-
-【日本巖手縣近海發生6.9級地震】東京時間25日早上7時30分左右，巖手縣近海發生里氏6.9級地震，最大震感為震度6強。日本首都東京有明顯震感。（央視新聞）
-
----
-
-### 2026-06-25 06:38:31  #MKT News
-
-Japan Meteorological Agency: a magnitude 6.9 earthquake struck off the coast of Iwate Prefecture; maximum seismic intensity 6+ (Japan scale).
-
----
-
-### 2026-06-25 06:37:37  #MKT News #Important #Market Regions #Japan & APAC
-
-EMSC reports a magnitude-6.9 earthquake off the east coast of Honshu, Japan.
-
----
-
-### 2026-06-25 06:36:38  #國際
-
-NHK稱日本地震沒有引發海嘯威脅。
-
----
-
-### 2026-06-25 06:35:22  #焦點 #國際
-
-日本北部發生6.9級地震，東京有震感。
-
----
-
-### 2026-06-25 06:35:17  #Trading Economics #Markets #Commodity #Importance 1
-
-Metals Commodities Updates: Silver Slumps by 6.24% — Top commodity losers are Silver (-6.24%), Platinum (-4.51%) and Gold (-2.66%). Gains are led by Iron Ore CNY (0.74%).
 
 ---

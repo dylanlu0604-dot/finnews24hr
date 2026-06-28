@@ -1,7 +1,91 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-06-28 07:31:13_
-_本檔包含 3493 則快訊，約 670024 字_
+_更新時間：2026-06-28 08:04:42_
+_本檔包含 3479 則快訊，約 669210 字_
+
+---
+
+### 2026-06-24 00:52:22  #其他
+
+LME期銅收跌278美元，報13371美元/噸。LME期鋁收跌132美元，報3232美元/噸。LME期鋅收跌116美元，報3492美元/噸。LME期鉛收跌30美元，報1934美元/噸。LME期鎳收跌582美元，報17172美元/噸。LME期錫收跌3031美元，報51154美元/噸。LME期鈷收平，報56290美元/噸。
+
+---
+
+### 2026-06-24 00:49:39  #公司 #國際
+
+【機構：特斯拉第二季度交付量料達39.29萬 該公司與SpaceX有可能合併】Baird分析師Ben Kallo預測，特斯拉第二季度料將交付392,900輛汽車。他補充說，這家電動汽車公司2026年的總交付量將達到168萬輛。這位分析師寫道：“我們認為SpaceX與特斯拉的合併很有可能發生，預計需要12到18個月的時間。”他還補充說，兩家公司的合併是“最終方向”，而且“清晰並令人信服，兩家公司都將受益於更大的規模”。除了可能與SpaceX合併之外，特斯拉的潛在催化劑還包括Optimus機器人升級、歐盟監管機構進一步採納全自動駕駛技術、無人駕駛計程車業務在美國拓展、Tesla Semi卡車推出，以及能源業務新產品。Kallo重申對特斯拉的“跑贏大盤”評級和目標價522美元。
+
+---
+
+### 2026-06-24 00:49:18  #MKT News
+
+EG Group, a fuel-station and convenience-store operator, has confidentially applied for a U.S. IPO seeking about $1 bln.
+
+---
+
+### 2026-06-24 00:48:19  #公司
+
+埃尼集團、阿爾巴尼亞能源與基礎設施部、阿爾巴尼亞經濟與創新部簽署意向備忘錄，計劃開展可行性研究，在阿爾巴尼亞境內建設並運營國家戰略油氣儲備基地與能源樞紐。
+
+---
+
+### 2026-06-24 00:47:58  #MKT News #Star Stocks #Meta Platforms #Market Themes #AI Revolution #Magnificent 7 #META.O #Impact bullish
+
+The New York Times reports Meta Platforms (META.O) is working on an app called Meta Photos that would use AI to generate new forms of media.
+
+---
+
+### 2026-06-24 00:47:45  #其他
+
+市場訊息：Meta 還在測試一款名為 Meta Photos 的獨立付費產品，該產品將藉助人工智慧生成全新形式的媒體內容。
+
+---
+
+### 2026-06-24 00:45:29  #MKT News #Star Stocks #Meta Platforms #Market Themes #Magnificent 7
+
+The New York Times reports Zuckerberg has instructed Meta Platforms (META.O) to develop a prediction-market app, internally called "Arena", similar to Polymarket and Kalshi.
+
+---
+
+### 2026-06-24 00:43:55  #其他
+
+市場訊息：扎克伯格授意Meta開發預測市場類應用， 這款應用將獨立於臉書和照片牆運營， 該應用使用者不涉及現金投注，僅採用積分機制。
+
+---
+
+### 2026-06-24 00:41:51  #MKT News #WTI #Impact bearish #S&P500 #Impact bullish #DXY
+
+【Hezbollah leader Naim Qassem says Israel must withdraw fully from all Lebanese territory】Hezbollah leader Naim Qassem said on the 23rd (local time) that a ceasefire has now been achieved and Israel must withdraw on schedule, fully vacating all Lebanese territory. He added that after the withdrawal only the Lebanese army would be deployed south of the Litani River.
+
+---
+
+### 2026-06-24 00:41:20  #國際
+
+【黎真主黨領導人：以色列必須從黎全部領土完全撤出】黎巴嫩真主黨領導人納伊姆·卡西姆當地時間23日發表電視講話稱，現在停火已經實現，以色列撤軍必須按照時間表進行。他說，“以色列別無選擇，必須從黎巴嫩全部領土完全撤出，哪怕一寸土地也不能保留。”納伊姆·卡西姆還稱，以色列撤軍後，將僅有黎巴嫩軍隊部署在利塔尼河以南地區。以色列方面對此暫無回應。（央視新聞）
+
+---
+
+### 2026-06-24 00:40:42  #MKT News
+
+MELONI said she does not believe Trump's dispute will harm the Italian economy.
+
+---
+
+### 2026-06-24 00:40:25  #國際
+
+義大利總理梅洛尼：我認為特朗普引發的爭端不會對義大利經濟造成負面影響。
+
+---
+
+### 2026-06-24 00:40:22  #央行 #加拿大央行
+
+【加拿大央行行長髮出警告 稱過度投資美國構成全球金融風險】加拿大央行行長麥克萊姆發出警告稱，對美國的過度投資正給全球金融體系帶來更廣泛的回撥風險。他在巴黎發表講話時指出，“大量流入美國的資本可能再次被錯誤配置，導致股票和信貸市場估值被推高，為痛苦的市場調整埋下隱患，"麥克萊姆（Macklem）週二表示，"這些資本流動可能突然逆轉。無論出現哪種情況，由此產生的壓力都可能波及到美國以外。"麥克萊姆明確表示，全球失衡並非由單一國家造成，而是多種因素共同作用的結果：歐洲投資不足、美國儲蓄率偏低等，這些因素促使全球資本不成比例地湧入美國。加拿大央行行長蒂夫·麥克萊姆”當資本流動過度時，可能會擴大貿易逆差、助長保護主義並扭曲資產價格。資本被錯誤配置，壓力累積，金融穩定風險增加，他說。
+
+---
+
+### 2026-06-24 00:39:52  #MKT News #Market Regions #Europe & UK
+
+Italy's prime minister MELONI said Italy's foreign policy will remain unchanged following a dispute with Trump.
 
 ---
 
@@ -20920,173 +21004,5 @@ SpaceX (SPCX.O) shares extended losses, last $168.50, down 9%.
 ### 2026-06-22 22:18:38  #MKT News
 
 【Baltic Dry Index falls as freight weakens across most vessel types】The Baltic Dry Index fell 38 points (1.4%) to 2,684. The Capesize index slipped 75 points (1.8%) to 4,074; it had hit its highest level since June 10 in the prior session. Capesize average daily earnings fell $684 to $33,444. The Panamax index dropped 37 points (1.8%) to 2,059, with Panamax average daily earnings down $328 to $18,532. The Supramax index declined 3 points (0.2%) to 1,715. The Handysize index rose 2 points to 936.
-
----
-
-### 2026-06-22 22:18:37  #公司
-
-諾基亞美股漲逾4%。6月22日，谷歌雲與諾基亞宣佈擴充套件合作關係，將谷歌Gemini模型整合至諾基亞網路軟體套件NOKia Assurance Center。
-
----
-
-### 2026-06-22 22:18:33  #市場
-
-SpaceX股價延續跌勢，最新下跌8.8%，報168.50美元。
-
----
-
-### 2026-06-22 22:18:25  #公司
-
-巴西國家石油公司表示，巴西石油與墨西哥石油公司的合作諒解備忘錄將涵蓋勘探與生產以及工業流程領域的開發機遇。
-
----
-
-### 2026-06-22 22:17:59  #公司
-
-巴西石油公司稱，巴西石油與墨西哥石油公司將於週二簽署油氣合作諒解備忘錄。
-
----
-
-### 2026-06-22 22:17:41  #公司
-
-薩班斯可再生能源公司： 與Meta的合作專案預計將創造並支撐 600 餘個就業崗位。
-
----
-
-### 2026-06-22 22:16:41  #公司 #國際
-
-薩班哲可再生能源公司透過與Meta簽訂長期購電協議，拓展美國業務增長。
-
----
-
-### 2026-06-22 22:16:07  #市場
-
-NETFLIX  盤中下挫 2.3%，創時段新低。
-
----
-
-### 2026-06-22 22:15:02  #市場 #國際
-
-【機構：受7月天氣展望提振，美國天然氣期貨上漲】美國天然氣期貨走高，此前週末釋出的7月更炎熱天氣預報增加了預期的製冷需求，同時產量上升限制了漲幅。EBW Analytics的Eli Rubin在一份報告中表示：“間歇性看漲的高溫與看跌的供應增加之間的拉鋸，可能仍是夏季的核心主題。“但在短期內，“不斷升溫的天氣與季節性和技術面相吻合，意味著在交易員於7月最終結算前進行頭寸調整之際，將對阻力位進行測試。“紐約商交所天然氣期貨上漲1.1%，報每百萬英熱單位3.268美元。
-
----
-
-### 2026-06-22 22:14:06  #央行 #其他
-
-銀行界人士稱，土耳其央行上週買入了90億美元外匯。
-
----
-
-### 2026-06-22 22:13:18  #MKT News
-
-【SpaceX to hold six fixed-income investor calls on June 22】SpaceX has authorized banks to run six fixed-income investor calls on June 22, ahead of an expected USD-denominated senior unsecured note offering with maturities of 5–30 years. BofA Securities, Citigroup, Goldman Sachs, JP Morgan and Morgan Stanley have been mandated to arrange the calls.
-
----
-
-### 2026-06-22 22:13:13  #其他
-
-美元指數DXY短線下挫約15點，報100.97。
-
----
-
-### 2026-06-22 22:13:05  #MKT News #XAUUSD #Impact bullish #WTI #EURUSD
-
-US dollar index (DXY) briefly fell about 15 points to 100.97.
-
----
-
-### 2026-06-22 22:12:59  #市場
-
-莫德納股價下跌7.4%，此前六個交易日該股累計漲幅已近40%。
-
----
-
-### 2026-06-22 22:12:36  #其他
-
-法院檔案顯示，Uber董事會因在合規問題上敷衍了事，導致多起性侵與性騷擾訴訟，被股東提起訴訟。
-
----
-
-### 2026-06-22 22:12:16  #其他
-
-美元兌日元<JPY=>大幅下挫至161.42，最新報161.69，漲幅0.25%。
-
----
-
-### 2026-06-22 22:11:48  #Trading Economics #Economy #United States #Government Bond 10Y #Importance 2
-
-Treasury Yields in the US Move Higher — The yield on the US 10-year Treasury note rose to 4.5% on Monday, its highest level in about two weeks, while the more policy-sensitive 2-year Treasury yield climbed above 4.2%, reaching its highest level since February 2025. Investors returned from the long weekend focused on the outlook for monetary policy and inflation, despite signs of progress in US-Iran negotiations that contributed to another decline in oil prices. Markets are currently pricing in at least one 25bps Federal Reserve rate hike by year-end, with the probability of such a move as early as September standing at around 50%. Attention now turns to Thursday's PCE report, which includes the Fed's preferred inflation gauge and is expected to provide fresh insight into underlying price pressures and the likely path of interest rates.
-
----
-
-### 2026-06-22 22:11:31  #MKT News #Important #USDJPY #Impact bearish #DXY
-
-USD/JPY fell about 70 pips intraday to 161.70.
-
----
-
-### 2026-06-22 22:10:39  #MKT News #SPCX.O
-
-Sources: SpaceX (SPCX.O) has appointed BofA, Citigroup, Goldman Sachs, JP Morgan and Morgan Stanley to arrange investor conference calls.
-
----
-
-### 2026-06-22 22:10:32  #市場
-
-日元兌美元匯率在劇烈波動中短暫回升，抹去了跌幅。
-
----
-
-### 2026-06-22 22:10:13  #MKT News
-
-DownDetector reports user complaints indicating issues with X.
-
----
-
-### 2026-06-22 22:10:05  #MKT News
-
-Sources said SpaceX (SPCX.O) may seek to issue senior unsecured USD-denominated bonds with maturities of 5 to 30 years.
-
----
-
-### 2026-06-22 22:09:45  #其他
-
-故障監測平臺 DownDetector：使用者反饋 X 平臺出現故障。
-
----
-
-### 2026-06-22 22:09:28  #其他
-
-【SpaceX跌8%】SpaceX跌8%，報170.245美元/股，總市值報2.24萬億美元。
-
----
-
-### 2026-06-22 22:09:18  #公司 #觀點
-
-訊息人士透露，SpaceX已委任美銀證券、花旗集團、高盛、摩根大通以及摩根士丹利安排投資者路演推介。
-
----
-
-### 2026-06-22 22:08:42  #國際
-
-稀土概念股UURAF漲2.7%，“美國稀土”USAR漲2%，MP材料漲1.5%，ETF XME跌1.2%，NB跌1.5%，UUUU跌3.1%。
-
----
-
-### 2026-06-22 22:08:32  #MKT News #Important
-
-People familiar with the matter said SpaceX (SPCX.O) has asked banks to arrange six fixed-income investor calls scheduled for June 22.
-
----
-
-### 2026-06-22 22:08:20  #公司 #國際
-
-【卡達投資局參與美國光子技術公司HyperLight 8000萬美元C輪融資】卡達投資局（QIA）當地時間6月18日宣佈參與HyperLight公司8000萬美元C輪融資。本輪融資由MediaTek Innovation Fund領投，資金將用於擴大其薄膜鈮酸鋰（TFLN）光子晶片產能，並加速在AI資料中心與通訊網路中的商業化部署。
-
----
-
-### 2026-06-22 22:07:54  #公司 #市場
-
-【興業科技：股票交易異常波動 收購磷化銦業務存不確定性】興業科技公告稱，公司股票連續三個交易日收盤價漲幅累計偏離超過20%，屬異常波動。公司於6月21日晚披露擬收購磷化銦業務相關資產框架協議，該收購尚需董事會審議，能否完成不確定。此業務2026年預計收入佔2025年收入比例極小，對當期營收和淨利潤影響小。新專案可能面臨市場開拓慢等風險，公司目前經營穩定，主業未變，控股股東等在異常波動期間未買賣公司股票。
 
 ---

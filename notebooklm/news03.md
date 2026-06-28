@@ -1,7 +1,79 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-06-28 07:31:13_
-_本檔包含 3879 則快訊，約 669969 字_
+_更新時間：2026-06-28 08:04:42_
+_本檔包含 3877 則快訊，約 669372 字_
+
+---
+
+### 2026-06-25 06:45:37  #市場 #央行 #國際
+
+【對沖基金持續加大美國國債敞口 美聯儲稱基差交易是主要推手】美聯儲表示，對沖基金對美國國債敞口不斷增加，主要是由於現貨-期貨基差交易的復甦。由首席經濟學家Phillip Monin撰寫的報告表示，截至去年9月，這種高槓杆交易已在對沖基金所持美國國債多頭頭寸中佔8300億美元，約為2020年初上一峰值的兩倍。其在對沖基金國債多頭總敞口中佔比35%。在對沖基金的美債多頭頭寸中，互換利差和期限匹配交易等套利策略佔據主導地位。報告稱，基差交易涉及做空國債期貨合約，同時做多以回購融資方式購買的、可交割到期貨的國債。
+
+---
+
+### 2026-06-25 06:45:17  #Trading Economics #Markets #Crypto #Importance 1
+
+Crypto Updates: Ether Depreciates by 3.05% — Top crypto losers are Ether (-3.05%), Bitcoin (-2.93%) and Binance (-2.38%).
+
+---
+
+### 2026-06-25 06:41:27  #MKT News
+
+NHK reported that no tsunami warning was issued after an earthquake in Japan.
+
+---
+
+### 2026-06-25 06:40:17  #Trading Economics #Markets #Commodity #Importance 1
+
+Agricultural Commodities Updates: Cocoa Rallies by 7.21% — Top commodity gainers are Cocoa (7.21%) and Coffee (0.62%). Biggest losers are Oat (-6.37%) and Cotton (-3.23%).
+
+---
+
+### 2026-06-25 06:39:34  #MKT News #USDJPY #Impact bearish #XAUUSD #Impact bullish #Nikkei 225
+
+【6.9-magnitude quake offshore Iwate Prefecture】Around 07:30 Tokyo time on the 25th, a magnitude-6.9 earthquake struck offshore Iwate Prefecture; the Japan Meteorological Agency reported a maximum seismic intensity of JMA 6-upper. Strong shaking was felt in Tokyo.
+
+---
+
+### 2026-06-25 06:39:33  #公司
+
+【A股公司年度“紅包”派發進行時，“雙創”板塊成現金分紅硬核力量】截至6月23日（按派息日計），今年已有2379家上市公司實施了2025年年度現金分紅，合計派發現金紅利7087.55億元。其中，工商銀行以601.97億元的分紅金額居首，中國移動、農業銀行、中國平安緊隨其後，分紅金額均超過300億元。從行業分佈來看，除銀行、證券等金融板塊外，通訊、電力裝置、醫藥生物、電子等行業已發放的分紅金額位居前列。值得注意的是，一批來自創業板、科創板的硬核科技企業正步入業績收穫期，並以持續高分紅回饋耐心陪跑的投資者。（上證報）
+
+---
+
+### 2026-06-25 06:39:20  #國際
+
+【日本巖手縣近海發生6.9級地震】東京時間25日早上7時30分左右，巖手縣近海發生里氏6.9級地震，最大震感為震度6強。日本首都東京有明顯震感。（央視新聞）
+
+---
+
+### 2026-06-25 06:38:31  #MKT News
+
+Japan Meteorological Agency: a magnitude 6.9 earthquake struck off the coast of Iwate Prefecture; maximum seismic intensity 6+ (Japan scale).
+
+---
+
+### 2026-06-25 06:37:37  #MKT News #Important #Market Regions #Japan & APAC
+
+EMSC reports a magnitude-6.9 earthquake off the east coast of Honshu, Japan.
+
+---
+
+### 2026-06-25 06:36:38  #國際
+
+NHK稱日本地震沒有引發海嘯威脅。
+
+---
+
+### 2026-06-25 06:35:22  #焦點 #國際
+
+日本北部發生6.9級地震，東京有震感。
+
+---
+
+### 2026-06-25 06:35:17  #Trading Economics #Markets #Commodity #Importance 1
+
+Metals Commodities Updates: Silver Slumps by 6.24% — Top commodity losers are Silver (-6.24%), Platinum (-4.51%) and Gold (-2.66%). Gains are led by Iron Ore CNY (0.74%).
 
 ---
 
@@ -23336,89 +23408,5 @@ SpaceX filed documents to issue senior unsecured bonds across five maturities: 5
 ### 2026-06-24 00:52:36  #MKT News #Star Stocks #Tesla #Market Themes #Magnificent 7 #TSLA.O #Impact bullish
 
 【Baird: Tesla–SpaceX merger likely within 12–18 months; Tesla Q2 deliveries 392,900, 2026 deliveries 1.68m, PT $522】Baird analyst Ben Kallo forecasts Tesla will deliver 392,900 vehicles in Q2 and 1.68m vehicles in 2026. He says a Tesla–SpaceX merger is "very likely" and could occur within 12–18 months, describing the combination as the "ultimate direction" and "clear and compelling" with scale benefits for both companies. Kallo reiterates an Outperform rating on Tesla and a $522 price target.
-
----
-
-### 2026-06-24 00:52:22  #其他
-
-LME期銅收跌278美元，報13371美元/噸。LME期鋁收跌132美元，報3232美元/噸。LME期鋅收跌116美元，報3492美元/噸。LME期鉛收跌30美元，報1934美元/噸。LME期鎳收跌582美元，報17172美元/噸。LME期錫收跌3031美元，報51154美元/噸。LME期鈷收平，報56290美元/噸。
-
----
-
-### 2026-06-24 00:49:39  #公司 #國際
-
-【機構：特斯拉第二季度交付量料達39.29萬 該公司與SpaceX有可能合併】Baird分析師Ben Kallo預測，特斯拉第二季度料將交付392,900輛汽車。他補充說，這家電動汽車公司2026年的總交付量將達到168萬輛。這位分析師寫道：“我們認為SpaceX與特斯拉的合併很有可能發生，預計需要12到18個月的時間。”他還補充說，兩家公司的合併是“最終方向”，而且“清晰並令人信服，兩家公司都將受益於更大的規模”。除了可能與SpaceX合併之外，特斯拉的潛在催化劑還包括Optimus機器人升級、歐盟監管機構進一步採納全自動駕駛技術、無人駕駛計程車業務在美國拓展、Tesla Semi卡車推出，以及能源業務新產品。Kallo重申對特斯拉的“跑贏大盤”評級和目標價522美元。
-
----
-
-### 2026-06-24 00:49:18  #MKT News
-
-EG Group, a fuel-station and convenience-store operator, has confidentially applied for a U.S. IPO seeking about $1 bln.
-
----
-
-### 2026-06-24 00:48:19  #公司
-
-埃尼集團、阿爾巴尼亞能源與基礎設施部、阿爾巴尼亞經濟與創新部簽署意向備忘錄，計劃開展可行性研究，在阿爾巴尼亞境內建設並運營國家戰略油氣儲備基地與能源樞紐。
-
----
-
-### 2026-06-24 00:47:58  #MKT News #Star Stocks #Meta Platforms #Market Themes #AI Revolution #Magnificent 7 #META.O #Impact bullish
-
-The New York Times reports Meta Platforms (META.O) is working on an app called Meta Photos that would use AI to generate new forms of media.
-
----
-
-### 2026-06-24 00:47:45  #其他
-
-市場訊息：Meta 還在測試一款名為 Meta Photos 的獨立付費產品，該產品將藉助人工智慧生成全新形式的媒體內容。
-
----
-
-### 2026-06-24 00:45:29  #MKT News #Star Stocks #Meta Platforms #Market Themes #Magnificent 7
-
-The New York Times reports Zuckerberg has instructed Meta Platforms (META.O) to develop a prediction-market app, internally called "Arena", similar to Polymarket and Kalshi.
-
----
-
-### 2026-06-24 00:43:55  #其他
-
-市場訊息：扎克伯格授意Meta開發預測市場類應用， 這款應用將獨立於臉書和照片牆運營， 該應用使用者不涉及現金投注，僅採用積分機制。
-
----
-
-### 2026-06-24 00:41:51  #MKT News #WTI #Impact bearish #S&P500 #Impact bullish #DXY
-
-【Hezbollah leader Naim Qassem says Israel must withdraw fully from all Lebanese territory】Hezbollah leader Naim Qassem said on the 23rd (local time) that a ceasefire has now been achieved and Israel must withdraw on schedule, fully vacating all Lebanese territory. He added that after the withdrawal only the Lebanese army would be deployed south of the Litani River.
-
----
-
-### 2026-06-24 00:41:20  #國際
-
-【黎真主黨領導人：以色列必須從黎全部領土完全撤出】黎巴嫩真主黨領導人納伊姆·卡西姆當地時間23日發表電視講話稱，現在停火已經實現，以色列撤軍必須按照時間表進行。他說，“以色列別無選擇，必須從黎巴嫩全部領土完全撤出，哪怕一寸土地也不能保留。”納伊姆·卡西姆還稱，以色列撤軍後，將僅有黎巴嫩軍隊部署在利塔尼河以南地區。以色列方面對此暫無回應。（央視新聞）
-
----
-
-### 2026-06-24 00:40:42  #MKT News
-
-MELONI said she does not believe Trump's dispute will harm the Italian economy.
-
----
-
-### 2026-06-24 00:40:25  #國際
-
-義大利總理梅洛尼：我認為特朗普引發的爭端不會對義大利經濟造成負面影響。
-
----
-
-### 2026-06-24 00:40:22  #央行 #加拿大央行
-
-【加拿大央行行長髮出警告 稱過度投資美國構成全球金融風險】加拿大央行行長麥克萊姆發出警告稱，對美國的過度投資正給全球金融體系帶來更廣泛的回撥風險。他在巴黎發表講話時指出，“大量流入美國的資本可能再次被錯誤配置，導致股票和信貸市場估值被推高，為痛苦的市場調整埋下隱患，"麥克萊姆（Macklem）週二表示，"這些資本流動可能突然逆轉。無論出現哪種情況，由此產生的壓力都可能波及到美國以外。"麥克萊姆明確表示，全球失衡並非由單一國家造成，而是多種因素共同作用的結果：歐洲投資不足、美國儲蓄率偏低等，這些因素促使全球資本不成比例地湧入美國。加拿大央行行長蒂夫·麥克萊姆”當資本流動過度時，可能會擴大貿易逆差、助長保護主義並扭曲資產價格。資本被錯誤配置，壓力累積，金融穩定風險增加，他說。
-
----
-
-### 2026-06-24 00:39:52  #MKT News #Market Regions #Europe & UK
-
-Italy's prime minister MELONI said Italy's foreign policy will remain unchanged following a dispute with Trump.
 
 ---

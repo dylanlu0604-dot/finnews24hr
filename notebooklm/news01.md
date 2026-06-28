@@ -1,7 +1,31 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-06-28 07:31:13_
-_本檔包含 3512 則快訊，約 670120 字_
+_更新時間：2026-06-28 08:04:42_
+_本檔包含 3513 則快訊，約 669395 字_
+
+---
+
+### 2026-06-28 08:02:48  #其他
+
+【跨廈深鐵路特大橋門式墩鋼蓋梁吊裝完成】近日，深汕鐵路跨廈深鐵路特大橋門式墩鋼蓋梁跨營業線吊裝作業圓滿收官。本次門式墩鋼蓋梁吊裝作業，單榀構件自重高達219.5噸至269.2噸，尺寸規格大，且所有吊裝作業僅能利用夜間短暫天窗期開展，高密度連續吊裝統籌難度極高，屬於高風險臨近營業線施工。(央視新聞)
+
+---
+
+### 2026-06-28 08:02:43  #其他
+
+【暑期檔電影票房破15億 80部影片集結暑期檔】據網路平臺資料，截至目前，2026年暑期檔電影總票房（含預售）突破15億元。近日，2026暑期檔電影片單釋出，近80部中外影片在暑期檔上映，包含革命歷史、科幻、喜劇、動畫等多元型別。（央視財經）
+
+---
+
+### 2026-06-28 07:49:24  #其他
+
+巴林內政部：巴林響起警報。
+
+---
+
+### 2026-06-28 07:39:11  #公司
+
+【國內首個第四代半導體材料全產業鏈專案落戶鄭州】6月26日，鄭州高新區與中科粉研（河南）超硬材料有限公司簽署協議，中科粉研第四代半導體材料生產基地正式落戶該區。該基地是國內首個第四代半導體材料全產業鏈專案，將為河南在全球獨具優勢的超硬材料產業鏈補上關鍵的一環。(河南政府網)
 
 ---
 
@@ -21209,23 +21233,5 @@ At the open, most-active domestic futures contracts were mixed. Low-sulfur fuel 
 ### 2026-06-26 08:59:44  #Trading Economics #Markets #Commodity #Importance 0
 
 Silver Set for Sharp Weekly Drop — Silver steadied near $58 an ounce on Friday but remained on track to lose about 12% for the week as hawkish signals from the US Federal Reserve outweighed support from the impact of US-Iran peace efforts. On Thursday, silver found some support after the latest US PCE inflation data came in broadly in line with expectations, easing fears of imminent Fed rate hikes and pushing the dollar and Treasury yields lower. Even so, markets are pricing in an 80% chance of a Fed rate hike in December following last week's hawkish pause, while the probability of a September increase stands at around 63%. Meanwhile, oil prices continued to retreat and have returned to pre-conflict levels as progress in US-Iran peace negotiations eased concerns over Middle East supply disruptions and further reduced inflation worries.
-
----
-
-### 2026-06-26 08:58:54  #國際
-
-日本財務大臣片山皋月：不會限制用於投資的預算申請。在投資時會將財政可持續性銘記於心。不會依靠舉債來為調降食品消費稅提供資金。需要透過評估補貼和支出來為減稅籌集資金。
-
----
-
-### 2026-06-26 08:58:41  #其他
-
-【北京：兩大新興專業首次評職稱】昨天，北京市人力資源和社會保障局釋出《關於開展2026年度北京市職稱評價工作的通知》，自7月7日起，在全市啟動2026年度職稱申報工作。今年，本市首次開設機器人、低空技術兩大新興專業職稱評審。機器人專業劃分四大評價方向，包含核心零部件、演算法與軟體、整機設計與製造、系統整合與應用，覆蓋研發、硬體、程式開發、專案整合等全領域從業人員。低空技術專業結合城市產業實際，設定低空飛行器研發、低空飛行器製造、低空執行系統建設、低空安全保障四大方向，完整覆蓋低空經濟產業鏈核心環節。
-
----
-
-### 2026-06-26 08:57:42  #Trading Economics #Markets #Japan #Stock Market #Importance 1
-
-Japanese Shares Fall as Tech Stocks Weigh — The Nikkei 225 Index fell 2.8% to below 70,400, while the broader Topix Index slipped 0.7% to 3,987 on Friday, giving back the previous session's gains as technology stocks came under renewed selling pressure after Thursday's strong rally. Japanese equities also tracked a volatile session on Wall Street, where losses in megacap technology stocks outweighed optimism driven by a bullish outlook for memory-chip makers. Among the biggest decliners were Kioxia Holdings (-4.1%), SoftBank Group (-10.8%), Advantest (-6.2%), Tokyo Electron (-2.3%), and Taiyo Yuden (-8.3%). On the economic front, data showed Tokyo's core inflation rate accelerated for the first time in eight months, reinforcing expectations that the Bank of Japan will continue raising interest rates.
 
 ---
