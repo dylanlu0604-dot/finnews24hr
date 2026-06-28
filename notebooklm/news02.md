@@ -1,7 +1,97 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-06-28 22:13:56_
-_本檔包含 3650 則快訊，約 668219 字_
+_更新時間：2026-06-28 23:06:58_
+_本檔包含 3653 則快訊，約 667816 字_
+
+---
+
+### 2026-06-26 11:59:17  #Trading Economics #Markets #Commodity #Importance 1
+
+Palm Oil Recovers But Heads for Weekly Loss — Malaysian palm oil futures hovered near MYR 4,600 per tonne, rebounding from recent declines as stronger vegetable oil prices on China’s Dalian Exchange lifted sentiment. Firmer export demand also lent support, with cargo surveyors estimating shipments rose 10.6%–11.1% in the first 25 days of June. Meanwhile, top supplier Indonesia moved to roll out its B50 biodiesel mandate from July 1, with a three-month transition period for retailers to clear existing stocks, reinforcing views of higher domestic consumption. Supply concerns also persisted as weather-related risks continued to cloud production. In India, palm oil imports are expected to top 600,000 tonnes in June, up from 549,356 tonnes in May, underscoring robust demand from the world’s largest buyer. However, the contract remained on track for a weekly loss of about 1%, reversing the prior week’s strong gains as a firmer ringgit and a sharp drop in crude oil prices, amid easing Middle East supply concerns, capped upside momentum.
+
+---
+
+### 2026-06-26 11:59:16  #公司
+
+【摩爾執行緒旗下杭州光速摩方智慧科技公司增資至2億 增幅100%】天眼查App顯示，近日，光速摩方智慧科技（杭州）有限責任公司發生工商變更，註冊資本由1億人民幣增至2億人民幣，增幅100%。該公司成立於2025年3月，法定代表人為王東，經營範圍包括積體電路設計、積體電路晶片設計及服務、資訊系統整合服務等，由摩爾執行緒（688795）全資持股。
+
+---
+
+### 2026-06-26 11:58:17  #其他
+
+法國巴黎銀行將美光科技目標價從615美元上調至1700美元。
+
+---
+
+### 2026-06-26 11:58:08  #MKT News #MU.O #Impact bullish
+
+BNP Paribas SA raises its price target for Micron Technology (MU.O) to $1,700 from $615.
+
+---
+
+### 2026-06-26 11:58:01  #市場
+
+【6月26日午間漲停分析】創業板指半日大跌3.72%、滬指跌逾2%，全市下跌個股超4500只，算力硬體概念全線重挫。興業科技6連板，宏柏新材4連板，一圖看懂>>
+
+---
+
+### 2026-06-26 11:57:39  #公司 #國際
+
+【日本將設“航空宇宙自衛隊” 軍事擴張引發擔憂】日本國會參議院26日上午表決透過了《防衛省設定法》修正案等法案，決定將航空自衛隊改編為“航空宇宙自衛隊”。由於相關法案已於4月底經眾議院表決透過，此次在參議院透過意味著相關法案正式成立。此舉進一步引發日本輿論擔憂情緒。 根據法案，“航空宇宙自衛隊”將於2026年內成立，並新設由航空自衛隊最高階將官擔任指揮官、專門負責太空領域的“宇宙作戰集團”，從而推進衛星發射，加強對太空態勢的監測能力。 此外，此次表決還透過了關於提高退役自衛隊人員待遇、強化駐沖繩陸上自衛隊編制等法案。 上述動向持續引發日本輿論擔憂。愛知縣和平委員會當天在社交平臺發文說，此次修法為攻擊他國而將軍事領域擴充套件至太空，“對此堅決反對！這隻會導致日本走向軍事擴張，加劇對立，並招致戰爭”。 日本社民黨黨首福島瑞穗25日在國會就相關問題向政府提出質詢後也表示，在行使集體自衛權範圍等基本問題尚未釐清、相關定義仍然模糊的情況下，政府卻將“宇宙防衛”視為理所當然，並不斷推進相關討論，這種做法存在問題。 近期，日本除在多地加強軍事部署外，還頻繁透過制定和修訂相關法案和政策檔案，為進一步強化所謂“防衛力量”鋪路。相關動向令日本國內的擔憂情緒持續升溫。(新華社)
+
+---
+
+### 2026-06-26 11:57:31  #其他
+
+【特斯拉宣佈為員工子女設立獎學金，單項最高5000元】6月26日，特斯拉宣佈為員工子女設立獎學金，包括高等教育入學獎學金和科學素養類競賽/論文釋出獎學金，單項獎金最高5000元。
+
+---
+
+### 2026-06-26 11:57:27  #公司
+
+【商絡電子：目前暫未涉及商業航天領域相關業務】商絡電子6月26日在互動平臺表示，公司目前暫未涉及商業航天領域相關業務。
+
+---
+
+### 2026-06-26 11:56:39  #MKT News #Market Regions #Japan & APAC
+
+Japan Meteorological Agency said an earthquake struck with seismic intensity 4 on Japan's 7-point scale and that it will not trigger a tsunami.
+
+---
+
+### 2026-06-26 11:56:09  #市場 #焦點
+
+比特幣升破60000美元，日內漲0.37%。
+
+---
+
+### 2026-06-26 11:55:28  #公司
+
+無人機初創公司Elroy Air即將達成一項價值8億美元的SPAC交易。
+
+---
+
+### 2026-06-26 11:54:20  #市場
+
+WTI原油日內跌2%，現報70.48美元/桶。
+
+---
+
+### 2026-06-26 11:53:54  #公司
+
+【大北農回應“被停貸限貸”傳聞：經營及融資活動均正常開展】6月26日訊息，有投資者在互動平臺提問大北農：網傳大北農是被停貸限貸三家養豬企業之一，是否屬實？大北農回覆，公司目前已關注到相關市場傳聞。截至目前，公司經營及融資活動均在正常開展中。
+
+---
+
+### 2026-06-26 11:53:19  #MKT News
+
+TSMC (TSM.N) said it has taken proactive measures across its Taiwan facilities to prepare for heavy rain; all plants are operating normally.
+
+---
+
+### 2026-06-26 11:53:18  #MKT News
+
+【Hong Kong gazettes Northern Link branch scheme; will link Hong Kong and Shenzhen metro networks】Hong Kong government today (26) gazetted the rail scheme for the Hong Kong section of the Northern Link branch under the Rail Ordinance (Cap. 519). The government previously signed a first-part project agreement with MTR Corporation covering the Northern Link mainline and branch, initiating more mature and urgent mainline works while directing MTR to proceed with detailed planning and design for the branch. The branch comprises an approximately 6 km underground alignment from the Northern Link mainline at San Tin station, with about 5 km in Hong Kong and roughly 1 km in Shenzhen. It will create three new stations: two in Hong Kong in the San Tin Technology City area at Chau Tau and Hetao, and one in Shenzhen at the new Huanggang Port crossing.
 
 ---
 
@@ -21916,77 +22006,5 @@ China Construction Bank Stock Price Hits 4-week Low — China Construction Bank 
 ### 2026-06-25 10:46:40  #Trading Economics #Economy #China #Reverse Repo Rate #Importance 1
 
 PBoC to Launch Overnight Reverse Repo Operations — The People's Bank of China said it will conduct overnight reverse repurchase operations on Monday and Tuesday to improve short-term liquidity management in the banking system. The move follows Governor Pan Gongsheng's remarks last week that the central bank would broaden its short-term liquidity toolkit by introducing overnight reverse repos and narrowing the interest-rate corridor for its temporary repo and reverse repo facilities. According to the PBoC, the overnight reverse repos will be carried out through fixed-rate, quantity-based bidding. Pan also said the central bank will optimize its temporary overnight repo and reverse repo operations by narrowing the interest-rate corridor to 50 basis points from 70 basis points, a step aimed at strengthening interest-rate guidance and improving the effectiveness of monetary policy implementation.
-
----
-
-### 2026-06-25 10:46:36  #MKT News #Important #Commodities #Industrial Metals
-
-Lithium carbonate contract 2609 weakened intraday, down 3.18% at 154,520 yuan/ton; turnover about 22.3 bln yuan and open interest rose by nearly 1,600 lots intraday as trading volatility increased.
-
----
-
-### 2026-06-25 10:46:06  #公司
-
-【寧德時代控股子公司業務新增電車銷售】企查查APP顯示，近日，蘇州時代新安能源科技有限公司發生工商變更，經營範圍新增新能源汽車整車銷售、電車銷售、二手車經紀等。企查查資訊顯示，該公司成立於2021年，註冊資本25億元，由寧德時代持股90%。
-
----
-
-### 2026-06-25 10:46:00  #MKT News #Commodities #Energy #Brent #Impact bearish #WTI
-
-【Strait of Hormuz shipping resumes, easing supply concerns; oil pares wartime gains】Oil pared wartime gains on Thursday as markets priced in improved global supply after tankers began transiting the Strait of Hormuz following a US‑Iran agreement to reopen the route. Maritime analytics firm Kpler says more than 20 tankers carrying roughly 35 mln barrels of crude — mostly non‑Iranian vessels that had been stranded in the Gulf for over three months after Tehran effectively closed the waterway — have transited the strait; most are expected to reach Asian destinations in early August. CITIGROUP says the worst phase for commodity‑futures carry/arbitrage trades may be over; its base case assumes materially eased tensions and it sees Brent falling to $60–65/bbl over the next 6–12 months as shipping normalises.
-
----
-
-### 2026-06-25 10:45:59  #市場 #焦點
-
-滬深兩市成交額超2萬億元，較上日此時放量3056億元。
-
----
-
-### 2026-06-25 10:43:28  #MKT News #Important #SZSE Component #Impact bearish #XAUUSD
-
-ChiNext Index turned negative after earlier gains of more than 2%; pharmaceuticals and healthcare, precious metals and brain–computer interface stocks led the declines.
-
----
-
-### 2026-06-25 10:42:46  #市場
-
-【美團股價創1年以來新低】6月25日盤中，美團股價下跌超4%，最低為64.75港元，創一年以來新低，市值為4004億港元。今年2月，美團市值約為5000億港元。
-
----
-
-### 2026-06-25 10:42:23  #市場 #焦點
-
-創業板指震盪回落轉跌，此前漲超2%。
-
----
-
-### 2026-06-25 10:41:16  #Trading Economics #Markets #Indonesia #Stock Market #Importance 1
-
-Indonesia Equities Rebound from Recent Losses — Indonesian shares climbed 68 points, or 1.2%, to 5,953 in early Thursday trade, snapping a three-day losing streak as bargain hunters returned after the market hit a two-week low. Sentiment was buoyed by MSCI’s decision to retain Indonesia in its emerging markets index despite transparency concerns. Meanwhile, Bank Indonesia noted stronger foreign inflows into its one-year bond, called SRBI, and government bonds, with funds reaching about IDR 105 trillion so far in June. U.S. futures also edged higher as oil prices fell back to pre-war levels. However, gains were capped by caution ahead of next week’s local data releases, including June CPI and May trade figures. Meanwhile, concerns emerged over Indonesia’s 21-spot drop in the World Competitiveness Ranking. Still, all sectors advanced, led by transport, healthcare, energy, and infrastructure. Standout movers included Barito Pacific (6.6%), Indah Kiat Pulp & Paper (4.9%), Astra International (3.0%), and Sumber Alfaria Trijaya (2.5%).
-
----
-
-### 2026-06-25 10:40:44  #MKT News #Important #Market Regions #Greater China #600519.SS #Impact bullish #000858.SZ #CSI300
-
-China A-share baijiu sector staged a short-term rally: Jiugui Liquor hit its daily trading limit, Jihong Co. rose over 4%, Shuijingfang gained more than 3%, Gujing Gongjiu climbed over 2%; Wuliangye and Kweichow Moutai also advanced.
-
----
-
-### 2026-06-25 10:40:42  #公司 #市場
-
-白酒概念短線拉昇，酒鬼酒拉昇漲停，吉宏股份漲超4%，水井坊漲超3%，古井貢酒漲超2%，五糧液、貴州茅臺跟漲。
-
----
-
-### 2026-06-25 10:40:15  #MKT News
-
-Malaysia's economic minister said that as of June 22 unemployment is contained; 6,197 workers have been affected, equivalent to about 0.04% of total employment.
-
----
-
-### 2026-06-25 10:39:57  #MKT News #Market Regions #Greater China #CNH #Impact bullish #CSI300 #Hang Seng Index
-
-【Chongqing proposes continued action to identify and remove implicit barriers to foreign investment】Chongqing Development and Reform Commission has published a draft Notice on Improving Full‑Lifecycle Services for Foreign Investment Projects for public comment. The draft pledges to protect foreign investors’ lawful rights, advance municipal foreign‑investment legislation, and strictly apply pre‑establishment national treatment plus the negative list, banning entry restrictions targeted at foreign capital. It calls for continued special inspections to root out implicit barriers, opens complaint channels, and promises strict enforcement against differential treatment, hidden thresholds and selective law enforcement. The draft also guarantees equal participation by foreign firms in government procurement and requires soliciting foreign‑invested enterprises’ views when drafting policies on using foreign capital.
 
 ---

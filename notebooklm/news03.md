@@ -1,7 +1,79 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-06-28 22:13:56_
-_本檔包含 3878 則快訊，約 667378 字_
+_更新時間：2026-06-28 23:06:58_
+_本檔包含 3875 則快訊，約 667548 字_
+
+---
+
+### 2026-06-25 10:46:36  #MKT News #Important #Commodities #Industrial Metals
+
+Lithium carbonate contract 2609 weakened intraday, down 3.18% at 154,520 yuan/ton; turnover about 22.3 bln yuan and open interest rose by nearly 1,600 lots intraday as trading volatility increased.
+
+---
+
+### 2026-06-25 10:46:06  #公司
+
+【寧德時代控股子公司業務新增電車銷售】企查查APP顯示，近日，蘇州時代新安能源科技有限公司發生工商變更，經營範圍新增新能源汽車整車銷售、電車銷售、二手車經紀等。企查查資訊顯示，該公司成立於2021年，註冊資本25億元，由寧德時代持股90%。
+
+---
+
+### 2026-06-25 10:46:00  #MKT News #Commodities #Energy #Brent #Impact bearish #WTI
+
+【Strait of Hormuz shipping resumes, easing supply concerns; oil pares wartime gains】Oil pared wartime gains on Thursday as markets priced in improved global supply after tankers began transiting the Strait of Hormuz following a US‑Iran agreement to reopen the route. Maritime analytics firm Kpler says more than 20 tankers carrying roughly 35 mln barrels of crude — mostly non‑Iranian vessels that had been stranded in the Gulf for over three months after Tehran effectively closed the waterway — have transited the strait; most are expected to reach Asian destinations in early August. CITIGROUP says the worst phase for commodity‑futures carry/arbitrage trades may be over; its base case assumes materially eased tensions and it sees Brent falling to $60–65/bbl over the next 6–12 months as shipping normalises.
+
+---
+
+### 2026-06-25 10:45:59  #市場 #焦點
+
+滬深兩市成交額超2萬億元，較上日此時放量3056億元。
+
+---
+
+### 2026-06-25 10:43:28  #MKT News #Important #SZSE Component #Impact bearish #XAUUSD
+
+ChiNext Index turned negative after earlier gains of more than 2%; pharmaceuticals and healthcare, precious metals and brain–computer interface stocks led the declines.
+
+---
+
+### 2026-06-25 10:42:46  #市場
+
+【美團股價創1年以來新低】6月25日盤中，美團股價下跌超4%，最低為64.75港元，創一年以來新低，市值為4004億港元。今年2月，美團市值約為5000億港元。
+
+---
+
+### 2026-06-25 10:42:23  #市場 #焦點
+
+創業板指震盪回落轉跌，此前漲超2%。
+
+---
+
+### 2026-06-25 10:41:16  #Trading Economics #Markets #Indonesia #Stock Market #Importance 1
+
+Indonesia Equities Rebound from Recent Losses — Indonesian shares climbed 68 points, or 1.2%, to 5,953 in early Thursday trade, snapping a three-day losing streak as bargain hunters returned after the market hit a two-week low. Sentiment was buoyed by MSCI’s decision to retain Indonesia in its emerging markets index despite transparency concerns. Meanwhile, Bank Indonesia noted stronger foreign inflows into its one-year bond, called SRBI, and government bonds, with funds reaching about IDR 105 trillion so far in June. U.S. futures also edged higher as oil prices fell back to pre-war levels. However, gains were capped by caution ahead of next week’s local data releases, including June CPI and May trade figures. Meanwhile, concerns emerged over Indonesia’s 21-spot drop in the World Competitiveness Ranking. Still, all sectors advanced, led by transport, healthcare, energy, and infrastructure. Standout movers included Barito Pacific (6.6%), Indah Kiat Pulp & Paper (4.9%), Astra International (3.0%), and Sumber Alfaria Trijaya (2.5%).
+
+---
+
+### 2026-06-25 10:40:44  #MKT News #Important #Market Regions #Greater China #600519.SS #Impact bullish #000858.SZ #CSI300
+
+China A-share baijiu sector staged a short-term rally: Jiugui Liquor hit its daily trading limit, Jihong Co. rose over 4%, Shuijingfang gained more than 3%, Gujing Gongjiu climbed over 2%; Wuliangye and Kweichow Moutai also advanced.
+
+---
+
+### 2026-06-25 10:40:42  #公司 #市場
+
+白酒概念短線拉昇，酒鬼酒拉昇漲停，吉宏股份漲超4%，水井坊漲超3%，古井貢酒漲超2%，五糧液、貴州茅臺跟漲。
+
+---
+
+### 2026-06-25 10:40:15  #MKT News
+
+Malaysia's economic minister said that as of June 22 unemployment is contained; 6,197 workers have been affected, equivalent to about 0.04% of total employment.
+
+---
+
+### 2026-06-25 10:39:57  #MKT News #Market Regions #Greater China #CNH #Impact bullish #CSI300 #Hang Seng Index
+
+【Chongqing proposes continued action to identify and remove implicit barriers to foreign investment】Chongqing Development and Reform Commission has published a draft Notice on Improving Full‑Lifecycle Services for Foreign Investment Projects for public comment. The draft pledges to protect foreign investors’ lawful rights, advance municipal foreign‑investment legislation, and strictly apply pre‑establishment national treatment plus the negative list, banning entry restrictions targeted at foreign capital. It calls for continued special inspections to root out implicit barriers, opens complaint channels, and promises strict enforcement against differential treatment, hidden thresholds and selective law enforcement. The draft also guarantees equal participation by foreign firms in government procurement and requires soliciting foreign‑invested enterprises’ views when drafting policies on using foreign capital.
 
 ---
 
@@ -23288,95 +23360,5 @@ FTSE China A50 futures opened 0.61% higher.
 ### 2026-06-24 08:49:30  #其他
 
 【華泰柏瑞等三隻滬深300ETF週二累計資金流出近203億元 為1月底來最大】資料顯示，華泰柏瑞、易方達和華夏基金旗下的三隻上海上市的滬深300指數ETF，週二累計遭資金淨流出近203億元人民幣，為1月底以來單日最大。
-
----
-
-### 2026-06-24 08:47:17  #MKT News #CSI300 #Impact bullish #SSE Composite
-
-【China margin financing balance across both exchanges rises CNY 6.131 bln】As of June 23, Shanghai Stock Exchange margin balance was CNY 1.5046 tln, down CNY 0.993 bln from the prior session; Shenzhen Stock Exchange margin balance was CNY 1.4652 tln, up CNY 7.124 bln; combined CNY 2.9698 tln, up CNY 6.131 bln.
-
----
-
-### 2026-06-24 08:47:06  #其他
-
-【兩市融資餘額增加61.31億元】截至6月23日，上交所融資餘額報15045.65億元，較前一交易日減少9.93億元；深交所融資餘額報14652.43億元，較前一交易日增加71.24億元；兩市合計29698.08億元，較前一交易日增加61.31億元。
-
----
-
-### 2026-06-24 08:44:56  #公司 #國際
-
-【美方官員：Anthropic旗下Mythos模型發現美國涉密政府系統漏洞】一名美國官員週二向美聯社透露，在一場測試演練中，Anthropic公司一款人工智慧模型成功找出多處美國高度機密、高安全等級政府計算機系統存在的安全漏洞。該官員因討論相關涉密事宜要求匿名，其表示Anthropic與美國多家情報機構合作，使用自家Mythos模型開展測試。官員稱，該模型在數小時內定位到若干漏洞，但這不代表它能在同等時間內利用這些漏洞實施攻擊。
-
----
-
-### 2026-06-24 08:43:51  #MKT News #Important
-
-AP reported ANTHROPIC's MYTHOS model found a vulnerability in U.S. government classified systems.
-
----
-
-### 2026-06-24 08:43:09  #公司
-
-【三星或將宣佈回購90萬億韓元股票】據韓聯社援引未具名的行業訊息人士報道，三星電子正準備回購價值約90萬億韓元的股票，用以支付員工獎金，相關細節可能很快公佈。 由於與工會達成協議，三星需透過公司股票支付特殊績效獎金，因此需要回購股份。 預計三星稅後將向員工發放約93萬億韓元的公司股票獎金。
-
----
-
-### 2026-06-24 08:40:06  #市場 #國際
-
-10年期日本國債收益率下跌0.5個基點，至2.670%。
-
----
-
-### 2026-06-24 08:39:42  #市場 #焦點
-
-比特幣升破63000美元，日內漲0.44%。
-
----
-
-### 2026-06-24 08:36:42  #MKT News
-
-YONHAP reports two vessels, including a VLCC operated by South Korea's HMM, have left the Strait of Hormuz.
-
----
-
-### 2026-06-24 08:36:30  #Trading Economics #Markets #Commodity #Importance 2
-
-Gold Extends Losses on Hawkish Fed Bets — Gold fell below $4,100 an ounce on Wednesday, sliding toward seven-month lows as expectations of tighter Federal Reserve policy outweighed support from the interim US-Iran peace agreement, which helped ease inflation concerns. At its latest policy meeting, Fed officials left interest rates unchanged but indicated increasing support for future rate hikes, while new Fed Chair Kevin Warsh reaffirmed his commitment to restoring price stability. Meanwhile, progress in negotiations between Washington and Tehran encouraged a rise in traffic through the Strait of Hormuz, easing pressure on global energy supplies and reducing inflation risks. Gold also faced additional selling pressure as a sharp decline in US technology stocks prompted investors to trim bullion positions to offset losses elsewhere in their portfolios.
-
----
-
-### 2026-06-24 08:36:26  #公司
-
-【三星電子股價因股票回購計劃訊息飆升10%】有報道稱三星計劃斥資 90 萬億韓元回購股票，訊息傳出後，三星股價飆升 10%。韓聯社報道稱，三星或將宣佈90萬億韓元的股票回購計劃。
-
----
-
-### 2026-06-24 08:35:39  #公司 #市場 #國際
-
-【野村、索尼齊力發債，日本企業本週債券發行開局火爆】野村控股與索尼集團發力發債，本週前兩個交易日日本企業在全球市場的債券發行規模突破80億美元，當前已是今年發債最密集的時段之一，後續還將有更多債券推出。野村於週二完成35億美元債券定價；索尼時隔近30年重返美國債市，發行10億美元債券。投資級企業的收益率溢價在今年1月觸及二十年來低位，目前仍維持在相近水平，兩家企業藉此視窗期登陸全球債券市場。據不願具名的知情人士透露，日本電信巨頭NTT旗下金融子公司也加入發債熱潮，已聘請多家投行籌備美元、歐元、英鎊多幣種債券發行。
-
----
-
-### 2026-06-24 08:33:57  #國際
-
-兩艘船舶駛出霍爾木茲海峽，其中包括一艘由韓國現代商船（HMM）運營的超大型油輪（VLCC）。
-
----
-
-### 2026-06-24 08:33:43  #公司
-
-【競相佈局人工智慧 全球企業“鏈”上中國機遇】在今年鏈博會現場，原有的“數字科技鏈”升級成為“數智科技鏈”。這一字之變，背後體現的是人工智慧正在成為產業鏈上的主角。現場首設的人工智慧專區集聚了中外AI領軍企業，展示了從資料、算力到應用的全鏈條。高通公司全球高階副總裁錢堃表示，AI智慧體的賦能使得現有終端裝置有一個大的升級換代週期。中國的產業鏈非常完善，透過跟中國合作伙伴不斷合作，他們的產品能很快走向市場並被全球接受。（央視）
-
----
-
-### 2026-06-24 08:33:07  #MKT News #Macro & Rates #US Economy
-
-【U.S. Treasury Secretary says economic policy will bolster supply-chain resilience to guard against critical-supply risks】U.S. Treasury Secretary Scott Bessent said in prepared remarks to the Economic Club of New York on Tuesday that U.S. economic national-security policy will be guided in part by the need to reduce vulnerability to potential adversaries cutting off critical supplies. "We will build resilience before crises occur," he said, urging supply-chain reviews to assess vulnerabilities in the military, hospitals, energy systems and the financial system. Bessent said the U.S. should develop sufficient domestic production capacity to ensure Americans are not subject to critical overseas bottlenecks.
-
----
-
-### 2026-06-24 08:32:47  #公司 #國際
-
-【沃爾瑪旗下的Flipkart計劃在IPO前拓展印度快速商務業務】沃爾瑪旗下的Flipkart正在加速其在印度的“快速商務”業務擴張，計劃在全國範圍內新增500個社群倉庫，重點佈局中小城市，以在這一快速增長的110億美元市場中展開競爭。就在Flipkart——這家在電子商務領域與亞馬遜競爭的企業——正準備在孟買上市之際，這一舉措應運而生，儘管具體時間表尚未確定。Flipkart較晚進入印度“快速商務”領域（該領域在印度呈現爆發式增長），該模式下，企業透過社群倉庫在10至30分鐘內將從iPhone到巧克力再到牛奶等各類商品送貨上門——這一現象重塑了這個全球人口最多國家的購物模式。據Datum Intelligence的資料，Eternal旗下的Blinkit在印度擁有超過2,200家門店，Swiggy旗下的Instamart則擁有超過1,100家門店。而Flipkart週二表示，其門店數量已達到1,000家，並計劃在數月內將這一數字提升至1,500家。
 
 ---

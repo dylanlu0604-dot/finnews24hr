@@ -1,7 +1,91 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-06-28 22:13:56_
-_本檔包含 3472 則快訊，約 668752 字_
+_更新時間：2026-06-28 23:06:58_
+_本檔包含 3471 則快訊，約 667676 字_
+
+---
+
+### 2026-06-28 23:02:37  #其他
+
+法國南錫附近發生致命飛機事故，巴黎檢察院事故調查部門已接手該案調查。
+
+---
+
+### 2026-06-28 23:01:46  #宏觀 #國際
+
+以色列財政部長：在美國、總理以及內閣決議的許可下，我將透過強化我方定居存在，徹底打消建立巴勒斯坦國的設想。我們已新建103個定居點、160處農場，完成約一百萬德南土地的合法化手續，全部具備合法依據。這才是令各方難以接受的核心癥結，而非其他事由。我正投入數十億資金，修建道路、推進土地確權，從根本上改變當地實地現狀。
+
+---
+
+### 2026-06-28 22:56:41  #其他
+
+【法國過去5日死亡人數飆升，醫院緊急下單3萬臺空調】6月28日，法國國家公共衛生署釋出報告稱，過去五天每日死亡人數有所增加。自6月24日以來，該機構記錄的死亡人數比前幾個月同期增加了約1000人。6月24日，法國記錄的死亡人數（包括所有死因）超過1200人，6月25日和26日的單日死亡人數超過1400人，較4月和5月同期每天的死亡人數高出約40%。與此同時，法國衛生部長斯特凡妮·里斯特（Stéphanie Rist）在6月28日接受電視採訪時表示，有大量的法國醫院因各種原因沒有安裝空調，目前3萬臺空調訂單已經緊急下達，她預計這些空調將在“未來幾天內”到位。她還稱，熱浪尚未結束。（第一財經）
+
+---
+
+### 2026-06-28 22:43:53  #其他
+
+【蘋果漲價經銷商趁火打劫】近日，蘋果因儲存短缺上調MacBook Pro售價後，經銷商開始對漲價前已全款下單的訂單追要差價。sw1000稱他6月5日全款下單一臺128GB統一記憶體的M5 Max MacBook Pro，英國經銷商KRCS隨後拒絕按原價發貨，要求補齊差價或退款，差價接近20000元。
+
+---
+
+### 2026-06-28 22:38:51  #國際
+
+伊朗伊斯蘭共和國通訊社（IRNA）報道，伊朗將於週一起恢復飛往迪拜的航班。
+
+---
+
+### 2026-06-28 22:36:23  #MKT News
+
+【IDF says it will continue operations in south Lebanon "security zone" under ceasefire agreement】On June 28 the Israel Defense Forces said Chief of Staff Zamir approved plans to continue military operations inside the ceasefire "security zone" in south Lebanon. He said the 36th Division and an assault brigade maintain combat control of the Beaufort Heights area and possess the tools and capabilities to degrade adversaries. Zamir called Northern Command the IDF's "main operational focus" and said forces are prepared to rapidly restart offensive operations in Lebanon and Iran if required. He described the agreement with the Lebanese government as historic and said the IDF will adhere to it, but cautioned the coming period will be a test shaped by both sides' actions.
+
+---
+
+### 2026-06-28 22:35:03  #國際
+
+【以軍稱將依據停火協議繼續在黎南部“安全區”內行動】當地時間28日，以色列國防軍發表宣告稱，以軍總參謀長扎米爾當天在視察以軍北方司令部時，正式批准了根據停火協議在黎巴嫩南部“安全區”內繼續採取軍事行動的計劃。扎米爾表示，目前以軍第36師和突擊旅的部隊正維持著對博福特高地區域的作戰控制，並配備了削弱敵方所需的所有工具和能力。扎米爾稱，北方司令部轄區現在是以軍的“主要作戰重心”。以軍已做好充分準備，一旦需要，將“迅速重啟在黎巴嫩和伊朗的進攻行動”。扎米爾表示，與黎巴嫩政府簽署的協議具有歷史性和重大意義。他重申以軍將遵守協議，但強調“現在的考驗在於雙方的行動，接下來的這段時期將塑造未來”。扎米爾還表示，黎巴嫩真主黨已被嚴重削弱，其武裝人員被困在地下。以軍目前保持著對該地區的作戰控制，並處於高度戒備狀態，一旦停火協議遭到破壞，將立刻實施迅速且決定性的打擊。（央視新聞）
+
+---
+
+### 2026-06-28 22:27:21  #公司
+
+【太龍藥業與江藥集團簽署合資成立營銷公司框架協議】6月28日上午，江藥集團有限公司（簡稱“江藥集團”）與河南太龍藥業股份有限公司（簡稱“太龍藥業”）在江西省南昌市舉行合資成立營銷公司框架協議簽約儀式，雙方擬透過合資成立營銷公司實現營銷體系整合、院外市場共建以及商業渠道拓展等領域進行深度合作，透過此次合作，太龍藥業的產品將更高效地接入江藥集團覆蓋全國的院外終端網路，為公司戰略落地提供強有力的渠道支撐。
+
+---
+
+### 2026-06-28 22:23:34  #其他
+
+星鏈就委內瑞拉業務表態：正努力盡快為DIGITEL和MOVILNET使用者提供免費服務。
+
+---
+
+### 2026-06-28 22:21:38  #其他
+
+星鏈：星鏈移動服務正為拉瓜伊拉地區的委內瑞拉Movistar使用者提供免費網路連線。
+
+---
+
+### 2026-06-28 22:20:46  #國際
+
+伊朗議長卡利巴夫與黎巴嫩議長貝里一致認為，衝突監督委員會應儘快召開統一會議，推進黎巴嫩戰事收尾相關工作。
+
+---
+
+### 2026-06-28 22:20:30  #國際
+
+伊朗議長卡利巴夫與黎巴嫩議長貝里通話時稱，瑞士會談已商定設立衝突監督機構，由伊朗、美國及黎巴嫩三方共同參與。
+
+---
+
+### 2026-06-28 22:20:10  #國際
+
+伊朗議長卡利巴夫與黎巴嫩議長貝里通電話時表示，伊朗目標是結束黎巴嫩境內戰事、讓流離失所民眾返鄉，同時促使猶太復國主義政權撤軍，正為此付出切實努力。
+
+---
+
+### 2026-06-28 22:14:39  #國際
+
+伊朗南部法爾斯省軍方公關辦公室表示，針對設拉子機場周邊未爆彈藥的清除與可控引爆作業已於週日啟動，預計持續一週。
 
 ---
 
@@ -20927,95 +21011,5 @@ Financial Times reports Musk-owned SpaceX plans to roll out Starlink mobile serv
 ### 2026-06-26 12:00:00  #公司 #市場 #國際
 
 【AI相關交易持續震盪，軟銀集團股價大跌】軟銀集團股價週五大跌逾13%，因對人工智慧(AI)估值和盈利能力的擔憂引發了亞洲科技股的普遍拋售。軟銀被視為AI交易的風向標，該股的下跌使其有望創下近兩年來最大的單日百分比跌幅之一。日本基準股指日經指數下跌逾4%，愛德萬測試和鎧俠等其他科技股的跌幅均超過9%。與其他AI概念股一樣，軟銀的股價近來也陷入了劇烈波動的模式，因為市場對AI相關股票的情緒在對該技術長期前景的樂觀與對近期變現能力和天價估值的悲觀之間搖擺。分析師表示，這家科技投資集團最近的股價下跌，可能是由一則有關ChatGPT開發商OpenAI正考慮推遲其首次公開募股(IPO)的報道所引發。媒體週四援引知情人士的話報道稱，由於對市場波動的擔憂，OpenAI傾向於將其IPO推遲到明年。
-
----
-
-### 2026-06-26 11:59:17  #Trading Economics #Markets #Commodity #Importance 1
-
-Palm Oil Recovers But Heads for Weekly Loss — Malaysian palm oil futures hovered near MYR 4,600 per tonne, rebounding from recent declines as stronger vegetable oil prices on China’s Dalian Exchange lifted sentiment. Firmer export demand also lent support, with cargo surveyors estimating shipments rose 10.6%–11.1% in the first 25 days of June. Meanwhile, top supplier Indonesia moved to roll out its B50 biodiesel mandate from July 1, with a three-month transition period for retailers to clear existing stocks, reinforcing views of higher domestic consumption. Supply concerns also persisted as weather-related risks continued to cloud production. In India, palm oil imports are expected to top 600,000 tonnes in June, up from 549,356 tonnes in May, underscoring robust demand from the world’s largest buyer. However, the contract remained on track for a weekly loss of about 1%, reversing the prior week’s strong gains as a firmer ringgit and a sharp drop in crude oil prices, amid easing Middle East supply concerns, capped upside momentum.
-
----
-
-### 2026-06-26 11:59:16  #公司
-
-【摩爾執行緒旗下杭州光速摩方智慧科技公司增資至2億 增幅100%】天眼查App顯示，近日，光速摩方智慧科技（杭州）有限責任公司發生工商變更，註冊資本由1億人民幣增至2億人民幣，增幅100%。該公司成立於2025年3月，法定代表人為王東，經營範圍包括積體電路設計、積體電路晶片設計及服務、資訊系統整合服務等，由摩爾執行緒（688795）全資持股。
-
----
-
-### 2026-06-26 11:58:17  #其他
-
-法國巴黎銀行將美光科技目標價從615美元上調至1700美元。
-
----
-
-### 2026-06-26 11:58:08  #MKT News #MU.O #Impact bullish
-
-BNP Paribas SA raises its price target for Micron Technology (MU.O) to $1,700 from $615.
-
----
-
-### 2026-06-26 11:58:01  #市場
-
-【6月26日午間漲停分析】創業板指半日大跌3.72%、滬指跌逾2%，全市下跌個股超4500只，算力硬體概念全線重挫。興業科技6連板，宏柏新材4連板，一圖看懂>>
-
----
-
-### 2026-06-26 11:57:39  #公司 #國際
-
-【日本將設“航空宇宙自衛隊” 軍事擴張引發擔憂】日本國會參議院26日上午表決透過了《防衛省設定法》修正案等法案，決定將航空自衛隊改編為“航空宇宙自衛隊”。由於相關法案已於4月底經眾議院表決透過，此次在參議院透過意味著相關法案正式成立。此舉進一步引發日本輿論擔憂情緒。 根據法案，“航空宇宙自衛隊”將於2026年內成立，並新設由航空自衛隊最高階將官擔任指揮官、專門負責太空領域的“宇宙作戰集團”，從而推進衛星發射，加強對太空態勢的監測能力。 此外，此次表決還透過了關於提高退役自衛隊人員待遇、強化駐沖繩陸上自衛隊編制等法案。 上述動向持續引發日本輿論擔憂。愛知縣和平委員會當天在社交平臺發文說，此次修法為攻擊他國而將軍事領域擴充套件至太空，“對此堅決反對！這隻會導致日本走向軍事擴張，加劇對立，並招致戰爭”。 日本社民黨黨首福島瑞穗25日在國會就相關問題向政府提出質詢後也表示，在行使集體自衛權範圍等基本問題尚未釐清、相關定義仍然模糊的情況下，政府卻將“宇宙防衛”視為理所當然，並不斷推進相關討論，這種做法存在問題。 近期，日本除在多地加強軍事部署外，還頻繁透過制定和修訂相關法案和政策檔案，為進一步強化所謂“防衛力量”鋪路。相關動向令日本國內的擔憂情緒持續升溫。(新華社)
-
----
-
-### 2026-06-26 11:57:31  #其他
-
-【特斯拉宣佈為員工子女設立獎學金，單項最高5000元】6月26日，特斯拉宣佈為員工子女設立獎學金，包括高等教育入學獎學金和科學素養類競賽/論文釋出獎學金，單項獎金最高5000元。
-
----
-
-### 2026-06-26 11:57:27  #公司
-
-【商絡電子：目前暫未涉及商業航天領域相關業務】商絡電子6月26日在互動平臺表示，公司目前暫未涉及商業航天領域相關業務。
-
----
-
-### 2026-06-26 11:56:39  #MKT News #Market Regions #Japan & APAC
-
-Japan Meteorological Agency said an earthquake struck with seismic intensity 4 on Japan's 7-point scale and that it will not trigger a tsunami.
-
----
-
-### 2026-06-26 11:56:09  #市場 #焦點
-
-比特幣升破60000美元，日內漲0.37%。
-
----
-
-### 2026-06-26 11:55:28  #公司
-
-無人機初創公司Elroy Air即將達成一項價值8億美元的SPAC交易。
-
----
-
-### 2026-06-26 11:54:20  #市場
-
-WTI原油日內跌2%，現報70.48美元/桶。
-
----
-
-### 2026-06-26 11:53:54  #公司
-
-【大北農回應“被停貸限貸”傳聞：經營及融資活動均正常開展】6月26日訊息，有投資者在互動平臺提問大北農：網傳大北農是被停貸限貸三家養豬企業之一，是否屬實？大北農回覆，公司目前已關注到相關市場傳聞。截至目前，公司經營及融資活動均在正常開展中。
-
----
-
-### 2026-06-26 11:53:19  #MKT News
-
-TSMC (TSM.N) said it has taken proactive measures across its Taiwan facilities to prepare for heavy rain; all plants are operating normally.
-
----
-
-### 2026-06-26 11:53:18  #MKT News
-
-【Hong Kong gazettes Northern Link branch scheme; will link Hong Kong and Shenzhen metro networks】Hong Kong government today (26) gazetted the rail scheme for the Hong Kong section of the Northern Link branch under the Rail Ordinance (Cap. 519). The government previously signed a first-part project agreement with MTR Corporation covering the Northern Link mainline and branch, initiating more mature and urgent mainline works while directing MTR to proceed with detailed planning and design for the branch. The branch comprises an approximately 6 km underground alignment from the Northern Link mainline at San Tin station, with about 5 km in Hong Kong and roughly 1 km in Shenzhen. It will create three new stations: two in Hong Kong in the San Tin Technology City area at Chau Tau and Hetao, and one in Shenzhen at the new Huanggang Port crossing.
 
 ---

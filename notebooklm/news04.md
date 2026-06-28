@@ -1,7 +1,97 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-06-28 22:13:56_
-_本檔包含 3466 則快訊，約 667970 字_
+_更新時間：2026-06-28 23:06:58_
+_本檔包含 3472 則快訊，約 668575 字_
+
+---
+
+### 2026-06-24 08:47:17  #MKT News #CSI300 #Impact bullish #SSE Composite
+
+【China margin financing balance across both exchanges rises CNY 6.131 bln】As of June 23, Shanghai Stock Exchange margin balance was CNY 1.5046 tln, down CNY 0.993 bln from the prior session; Shenzhen Stock Exchange margin balance was CNY 1.4652 tln, up CNY 7.124 bln; combined CNY 2.9698 tln, up CNY 6.131 bln.
+
+---
+
+### 2026-06-24 08:47:06  #其他
+
+【兩市融資餘額增加61.31億元】截至6月23日，上交所融資餘額報15045.65億元，較前一交易日減少9.93億元；深交所融資餘額報14652.43億元，較前一交易日增加71.24億元；兩市合計29698.08億元，較前一交易日增加61.31億元。
+
+---
+
+### 2026-06-24 08:44:56  #公司 #國際
+
+【美方官員：Anthropic旗下Mythos模型發現美國涉密政府系統漏洞】一名美國官員週二向美聯社透露，在一場測試演練中，Anthropic公司一款人工智慧模型成功找出多處美國高度機密、高安全等級政府計算機系統存在的安全漏洞。該官員因討論相關涉密事宜要求匿名，其表示Anthropic與美國多家情報機構合作，使用自家Mythos模型開展測試。官員稱，該模型在數小時內定位到若干漏洞，但這不代表它能在同等時間內利用這些漏洞實施攻擊。
+
+---
+
+### 2026-06-24 08:43:51  #MKT News #Important
+
+AP reported ANTHROPIC's MYTHOS model found a vulnerability in U.S. government classified systems.
+
+---
+
+### 2026-06-24 08:43:09  #公司
+
+【三星或將宣佈回購90萬億韓元股票】據韓聯社援引未具名的行業訊息人士報道，三星電子正準備回購價值約90萬億韓元的股票，用以支付員工獎金，相關細節可能很快公佈。 由於與工會達成協議，三星需透過公司股票支付特殊績效獎金，因此需要回購股份。 預計三星稅後將向員工發放約93萬億韓元的公司股票獎金。
+
+---
+
+### 2026-06-24 08:40:06  #市場 #國際
+
+10年期日本國債收益率下跌0.5個基點，至2.670%。
+
+---
+
+### 2026-06-24 08:39:42  #市場 #焦點
+
+比特幣升破63000美元，日內漲0.44%。
+
+---
+
+### 2026-06-24 08:36:42  #MKT News
+
+YONHAP reports two vessels, including a VLCC operated by South Korea's HMM, have left the Strait of Hormuz.
+
+---
+
+### 2026-06-24 08:36:30  #Trading Economics #Markets #Commodity #Importance 2
+
+Gold Extends Losses on Hawkish Fed Bets — Gold fell below $4,100 an ounce on Wednesday, sliding toward seven-month lows as expectations of tighter Federal Reserve policy outweighed support from the interim US-Iran peace agreement, which helped ease inflation concerns. At its latest policy meeting, Fed officials left interest rates unchanged but indicated increasing support for future rate hikes, while new Fed Chair Kevin Warsh reaffirmed his commitment to restoring price stability. Meanwhile, progress in negotiations between Washington and Tehran encouraged a rise in traffic through the Strait of Hormuz, easing pressure on global energy supplies and reducing inflation risks. Gold also faced additional selling pressure as a sharp decline in US technology stocks prompted investors to trim bullion positions to offset losses elsewhere in their portfolios.
+
+---
+
+### 2026-06-24 08:36:26  #公司
+
+【三星電子股價因股票回購計劃訊息飆升10%】有報道稱三星計劃斥資 90 萬億韓元回購股票，訊息傳出後，三星股價飆升 10%。韓聯社報道稱，三星或將宣佈90萬億韓元的股票回購計劃。
+
+---
+
+### 2026-06-24 08:35:39  #公司 #市場 #國際
+
+【野村、索尼齊力發債，日本企業本週債券發行開局火爆】野村控股與索尼集團發力發債，本週前兩個交易日日本企業在全球市場的債券發行規模突破80億美元，當前已是今年發債最密集的時段之一，後續還將有更多債券推出。野村於週二完成35億美元債券定價；索尼時隔近30年重返美國債市，發行10億美元債券。投資級企業的收益率溢價在今年1月觸及二十年來低位，目前仍維持在相近水平，兩家企業藉此視窗期登陸全球債券市場。據不願具名的知情人士透露，日本電信巨頭NTT旗下金融子公司也加入發債熱潮，已聘請多家投行籌備美元、歐元、英鎊多幣種債券發行。
+
+---
+
+### 2026-06-24 08:33:57  #國際
+
+兩艘船舶駛出霍爾木茲海峽，其中包括一艘由韓國現代商船（HMM）運營的超大型油輪（VLCC）。
+
+---
+
+### 2026-06-24 08:33:43  #公司
+
+【競相佈局人工智慧 全球企業“鏈”上中國機遇】在今年鏈博會現場，原有的“數字科技鏈”升級成為“數智科技鏈”。這一字之變，背後體現的是人工智慧正在成為產業鏈上的主角。現場首設的人工智慧專區集聚了中外AI領軍企業，展示了從資料、算力到應用的全鏈條。高通公司全球高階副總裁錢堃表示，AI智慧體的賦能使得現有終端裝置有一個大的升級換代週期。中國的產業鏈非常完善，透過跟中國合作伙伴不斷合作，他們的產品能很快走向市場並被全球接受。（央視）
+
+---
+
+### 2026-06-24 08:33:07  #MKT News #Macro & Rates #US Economy
+
+【U.S. Treasury Secretary says economic policy will bolster supply-chain resilience to guard against critical-supply risks】U.S. Treasury Secretary Scott Bessent said in prepared remarks to the Economic Club of New York on Tuesday that U.S. economic national-security policy will be guided in part by the need to reduce vulnerability to potential adversaries cutting off critical supplies. "We will build resilience before crises occur," he said, urging supply-chain reviews to assess vulnerabilities in the military, hospitals, energy systems and the financial system. Bessent said the U.S. should develop sufficient domestic production capacity to ensure Americans are not subject to critical overseas bottlenecks.
+
+---
+
+### 2026-06-24 08:32:47  #公司 #國際
+
+【沃爾瑪旗下的Flipkart計劃在IPO前拓展印度快速商務業務】沃爾瑪旗下的Flipkart正在加速其在印度的“快速商務”業務擴張，計劃在全國範圍內新增500個社群倉庫，重點佈局中小城市，以在這一快速增長的110億美元市場中展開競爭。就在Flipkart——這家在電子商務領域與亞馬遜競爭的企業——正準備在孟買上市之際，這一舉措應運而生，儘管具體時間表尚未確定。Flipkart較晚進入印度“快速商務”領域（該領域在印度呈現爆發式增長），該模式下，企業透過社群倉庫在10至30分鐘內將從iPhone到巧克力再到牛奶等各類商品送貨上門——這一現象重塑了這個全球人口最多國家的購物模式。據Datum Intelligence的資料，Eternal旗下的Blinkit在印度擁有超過2,200家門店，Swiggy旗下的Instamart則擁有超過1,100家門店。而Flipkart週二表示，其門店數量已達到1,000家，並計劃在數月內將這一數字提升至1,500家。
 
 ---
 
@@ -20897,59 +20987,5 @@ New Zealand Stocks Trade Flat in Morning Session — The NZX 50 was almost flat,
 ### 2026-06-23 06:45:51  #MKT News #WTI #Impact bearish #Brent
 
 【Iran deputy foreign minister outlines technical follow‑up mechanism for Iran‑US talks】Iran’s deputy foreign minister, who heads the Iranian technical negotiation delegation, said consensus from the Swiss four‑party talks establishes a high‑level supervisory committee for follow‑up Iran‑US negotiations, comprising Iran’s parliament speaker, Iran’s foreign minister, the US vice president, Pakistan’s prime minister and the Qatari prime minister. Four working groups will cover sanctions relief, nuclear issues, reconstruction and economic development, and monitoring and implementation. Parties agreed to set up a liaison point between Iran and the US to safeguard commercial shipping through the Strait of Hormuz and to create a Lebanon de‑escalation cell involving Iran, the US, Pakistan and Qatar; the four technical delegation heads will supervise the working groups and report to the high‑level committee. Negotiators also followed up on issuing a general licence for sales of Iranian oil, petrochemical products, derivatives and related services and on unfreezing Iranian assets; the US has issued related sales licences and posted them on the US Treasury OFAC website. Parties agreed to activate a previously signed frozen‑funds release arrangement totalling $12bn, split into two $6bn tranches, and to move immediately to execution.
-
----
-
-### 2026-06-23 06:43:44  #宏觀 #國際
-
-【伊朗副外長披露伊美談判後續技術層面磋商機制】當地時間23日，伊朗外交部副部長、伊方技術談判代表團團長加里巴巴迪披露了接下來伊朗與美國之間技術層面磋商的安排機制。加里巴巴迪表示，根據瑞士四方會談達成的共識，接下來的談判將在高階別委員會的監督下進行，成員包括伊朗議長、伊朗外交部長、美國副總統以及巴基斯坦總理和卡達首相。同時決定設立四個工作組，分別負責：解除制裁、核問題、重建與經濟發展、監督與執行。各方還決定在伊朗和美國之間設立一個聯絡點，用於保障商船安全透過霍爾木茲海峽；同時在伊朗、美國及巴基斯坦、卡達之間設立一個黎巴嫩衝突降級小組。四國技術代表團團長將對各工作組及上述兩個機制進行監督，並向高階別委員會彙報進展。加里巴巴迪最後表示，在技術談判中，各方還就簽發對伊朗石油、石化產品、衍生品及相關服務銷售的一般許可，以及解凍伊朗被凍結資產的相關共識進行了必要的跟進。基於此，美方已簽發相關石油產品等銷售許可，並已在美國財政部外國資產控制辦公室網站公佈。此外，各方還同意啟動此前簽署的被凍結資金解凍安排，總額為120億美元（分為兩筆，各60億美元），並立即進入執行階段。（央視新聞）
-
----
-
-### 2026-06-23 06:40:35  #市場
-
-【算力光纖需求共振，高純四氯化矽景氣度上行】受算力基建、通訊網路升級帶動，今年以來，高純四氯化矽市場需求持續回暖。高純四氯化矽下游主要應用於光纖預製棒、合成石英玻璃的生產。據瞭解，受益於全球光纖高景氣，高純四氯化矽同步進入緊缺導致的漲價週期。一位行業知情人士透露，目前市場高純四氯化矽銷售多為長協鎖價銷售模式，去年以來，長協價格已出現大幅上漲。2025年底，光纖用9N級高純四氯化矽長協成交參考價約2.5萬元/噸，今年一季度對應的長協參考價上行至約4.5萬元/噸，階段性價格漲幅約80%。（上證報）
-
----
-
-### 2026-06-23 06:40:06  #Trading Economics #Markets #Commodity #Importance 1
-
-Agricultural Commodities Updates: Cocoa Surges by 7.83% — Top commodity gainers are Cocoa (7.83%), Rice (1.97%) and Rapeseed (1.49%). Biggest losers are Oat (-3.42%) and Sugar (-2.06%).
-
----
-
-### 2026-06-23 06:38:57  #MKT News #Market Themes #AI Revolution #WTI #Impact bullish #Nikkei 225 #S&P500 #Impact bearish
-
-【Optimism on US-Iran talks lifts risk appetite; Asian stocks set to open higher】Optimism over US-Iran peace talks pushed oil higher and lifted risk appetite, likely producing higher openings for Asian equities that will partly offset weakness on Wall Street after several tech giants fell. Index futures pointed to gains in Sydney, Hong Kong and Tokyo. SpaceX said on Monday it will issue investment-grade bonds in a large financing; the stock plunged about 16% on the announcement. Market expectations of a US-Iran deal, a recovery in AI-related trading and resilient corporate earnings have driven the S&P 500 to rebound nearly 20% from war-induced lows. UBS’s chief investment office said geopolitical developments may remain the main near-term source of volatility, but shifts in investor confidence over the durability of the AI rally could also spark market swings.
-
----
-
-### 2026-06-23 06:38:11  #MKT News #Commodities #Energy #WTI #Impact bearish #Brent
-
-【Iran crude re-entry expectations rise; oil steadies】Markets have steadied as investors weigh early progress in Iran peace talks and a U.S. decision to allow some Iranian crude sales. A U.S. 60-day license permits the sale of limited volumes of Iranian oil and petroleum products. Rebecca Babin, managing director and senior energy trader at CIBC Private Wealth Management, said, "The road to a deal remains long; however, markets may price in a supply glut before it arrives — just as they sometimes anticipate shortages before they materialize — oil prices often overshoot."
-
----
-
-### 2026-06-23 06:35:46  #公司 #國際
-
-黑石集團Gray：投資日本（多個）資料中心。
-
----
-
-### 2026-06-23 06:35:09  #MKT News #Commodities #Energy #WTI #Impact bullish
-
-WTI crude reached $75.00/bbl, up 0.44% intraday.
-
----
-
-### 2026-06-23 06:35:06  #Trading Economics #Markets #Commodity #Importance 1
-
-Metals Commodities Updates: Lithium Carbonate Plunges by 6.13% — Top commodity losers are Lithium Carbonate (-6.13%), Iron Ore CNY (-1%) and Silicon (-0.65%). Gains are led by Gold (0.98%) and Platinum (0.64%).
-
----
-
-### 2026-06-23 06:34:08  #市場
-
-【稀有“味精” 供需錯配加劇，鍺價半年漲逾八成】截至6月18日，鍺錠已攀升至25000元/千克，較2025年末漲逾83%。驅動這一輪價格飆升的，主要是AI算力基礎設施等領域對光纖的旺盛需求。在光纖製造中，四氯化鍺扮演著“味精”般的關鍵角色。它是光纖預製棒纖芯摻雜的核心原料，主要作用是提高纖芯折射率等，讓光纖的傳輸效能更“能打”。“在光纖預製棒的原材料成本里，鍺的佔比很低，但由於下游對鍺材料的純度要求高，加上國內鍺供給較為集中、材料不可替代性強，相比其他材料，鍺的供需矛盾會更為明顯。”一家頭部光纖預製棒生產商介紹。對於鍺價一路走高，上海鋼聯分析師陳琪琪表示，原因是原料供應緊張、需求增加。短期來看，鍺由於原料招標價格高企，對鍺產品成本形成支撐。此外，由於今年光纖需求、太陽能電池、軍工增量明顯，預計短期鍺錠價格高位震盪，長期依舊延續上漲態勢。有機構預計，近兩年光纖級鍺產品需求增速將維持在15%至20%。（上證報）
 
 ---

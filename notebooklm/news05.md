@@ -1,7 +1,61 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-06-28 22:13:56_
-_本檔包含 3560 則快訊，約 667854 字_
+_更新時間：2026-06-28 23:06:58_
+_本檔包含 3547 則快訊，約 666668 字_
+
+---
+
+### 2026-06-23 06:43:44  #宏觀 #國際
+
+【伊朗副外長披露伊美談判後續技術層面磋商機制】當地時間23日，伊朗外交部副部長、伊方技術談判代表團團長加里巴巴迪披露了接下來伊朗與美國之間技術層面磋商的安排機制。加里巴巴迪表示，根據瑞士四方會談達成的共識，接下來的談判將在高階別委員會的監督下進行，成員包括伊朗議長、伊朗外交部長、美國副總統以及巴基斯坦總理和卡達首相。同時決定設立四個工作組，分別負責：解除制裁、核問題、重建與經濟發展、監督與執行。各方還決定在伊朗和美國之間設立一個聯絡點，用於保障商船安全透過霍爾木茲海峽；同時在伊朗、美國及巴基斯坦、卡達之間設立一個黎巴嫩衝突降級小組。四國技術代表團團長將對各工作組及上述兩個機制進行監督，並向高階別委員會彙報進展。加里巴巴迪最後表示，在技術談判中，各方還就簽發對伊朗石油、石化產品、衍生品及相關服務銷售的一般許可，以及解凍伊朗被凍結資產的相關共識進行了必要的跟進。基於此，美方已簽發相關石油產品等銷售許可，並已在美國財政部外國資產控制辦公室網站公佈。此外，各方還同意啟動此前簽署的被凍結資金解凍安排，總額為120億美元（分為兩筆，各60億美元），並立即進入執行階段。（央視新聞）
+
+---
+
+### 2026-06-23 06:40:35  #市場
+
+【算力光纖需求共振，高純四氯化矽景氣度上行】受算力基建、通訊網路升級帶動，今年以來，高純四氯化矽市場需求持續回暖。高純四氯化矽下游主要應用於光纖預製棒、合成石英玻璃的生產。據瞭解，受益於全球光纖高景氣，高純四氯化矽同步進入緊缺導致的漲價週期。一位行業知情人士透露，目前市場高純四氯化矽銷售多為長協鎖價銷售模式，去年以來，長協價格已出現大幅上漲。2025年底，光纖用9N級高純四氯化矽長協成交參考價約2.5萬元/噸，今年一季度對應的長協參考價上行至約4.5萬元/噸，階段性價格漲幅約80%。（上證報）
+
+---
+
+### 2026-06-23 06:40:06  #Trading Economics #Markets #Commodity #Importance 1
+
+Agricultural Commodities Updates: Cocoa Surges by 7.83% — Top commodity gainers are Cocoa (7.83%), Rice (1.97%) and Rapeseed (1.49%). Biggest losers are Oat (-3.42%) and Sugar (-2.06%).
+
+---
+
+### 2026-06-23 06:38:57  #MKT News #Market Themes #AI Revolution #WTI #Impact bullish #Nikkei 225 #S&P500 #Impact bearish
+
+【Optimism on US-Iran talks lifts risk appetite; Asian stocks set to open higher】Optimism over US-Iran peace talks pushed oil higher and lifted risk appetite, likely producing higher openings for Asian equities that will partly offset weakness on Wall Street after several tech giants fell. Index futures pointed to gains in Sydney, Hong Kong and Tokyo. SpaceX said on Monday it will issue investment-grade bonds in a large financing; the stock plunged about 16% on the announcement. Market expectations of a US-Iran deal, a recovery in AI-related trading and resilient corporate earnings have driven the S&P 500 to rebound nearly 20% from war-induced lows. UBS’s chief investment office said geopolitical developments may remain the main near-term source of volatility, but shifts in investor confidence over the durability of the AI rally could also spark market swings.
+
+---
+
+### 2026-06-23 06:38:11  #MKT News #Commodities #Energy #WTI #Impact bearish #Brent
+
+【Iran crude re-entry expectations rise; oil steadies】Markets have steadied as investors weigh early progress in Iran peace talks and a U.S. decision to allow some Iranian crude sales. A U.S. 60-day license permits the sale of limited volumes of Iranian oil and petroleum products. Rebecca Babin, managing director and senior energy trader at CIBC Private Wealth Management, said, "The road to a deal remains long; however, markets may price in a supply glut before it arrives — just as they sometimes anticipate shortages before they materialize — oil prices often overshoot."
+
+---
+
+### 2026-06-23 06:35:46  #公司 #國際
+
+黑石集團Gray：投資日本（多個）資料中心。
+
+---
+
+### 2026-06-23 06:35:09  #MKT News #Commodities #Energy #WTI #Impact bullish
+
+WTI crude reached $75.00/bbl, up 0.44% intraday.
+
+---
+
+### 2026-06-23 06:35:06  #Trading Economics #Markets #Commodity #Importance 1
+
+Metals Commodities Updates: Lithium Carbonate Plunges by 6.13% — Top commodity losers are Lithium Carbonate (-6.13%), Iron Ore CNY (-1%) and Silicon (-0.65%). Gains are led by Gold (0.98%) and Platinum (0.64%).
+
+---
+
+### 2026-06-23 06:34:08  #市場
+
+【稀有“味精” 供需錯配加劇，鍺價半年漲逾八成】截至6月18日，鍺錠已攀升至25000元/千克，較2025年末漲逾83%。驅動這一輪價格飆升的，主要是AI算力基礎設施等領域對光纖的旺盛需求。在光纖製造中，四氯化鍺扮演著“味精”般的關鍵角色。它是光纖預製棒纖芯摻雜的核心原料，主要作用是提高纖芯折射率等，讓光纖的傳輸效能更“能打”。“在光纖預製棒的原材料成本里，鍺的佔比很低，但由於下游對鍺材料的純度要求高，加上國內鍺供給較為集中、材料不可替代性強，相比其他材料，鍺的供需矛盾會更為明顯。”一家頭部光纖預製棒生產商介紹。對於鍺價一路走高，上海鋼聯分析師陳琪琪表示，原因是原料供應緊張、需求增加。短期來看，鍺由於原料招標價格高企，對鍺產品成本形成支撐。此外，由於今年光纖需求、太陽能電池、軍工增量明顯，預計短期鍺錠價格高位震盪，長期依舊延續上漲態勢。有機構預計，近兩年光纖級鍺產品需求增速將維持在15%至20%。（上證報）
 
 ---
 
@@ -21347,137 +21401,5 @@ Iranian media report that after 80 minutes of negotiation, four-way talks betwee
 ### 2026-06-21 23:07:30  #MKT News
 
 Iran's Fars news agency, citing an informed member of Iran's negotiation team, said the first round of four-party talks in Switzerland has concluded.
-
----
-
-### 2026-06-21 23:05:59  #MKT News #Important
-
-Refinitiv reported sources close to the negotiating team said the first round of talks in Switzerland concluded.
-
----
-
-### 2026-06-21 23:05:46  #其他
-
-【國產TGV玻璃基板正加速走向量產】當前，TGV玻璃基板賽道正迎來從技術驗證向小批次量產過渡的關鍵節點。記者在採訪中瞭解到，國內多家頭部企業的產線籌備工作已全面鋪開。國內中試產線正加速跑通驗證，頭部企業紛紛加碼佈局、搶佔先機。根據國際市場研究機構預測，到2030年，全球先進封裝市場規模將逼近800億美元。從底層材料的突圍，到跨界工藝的打通，國產TGV玻璃基板正加速走向量產。
-
----
-
-### 2026-06-21 23:05:04  #焦點 #國際
-
-熟悉談判內情的訊息人士表示，在瑞士與美國舉行的首輪談判已結束。
-
----
-
-### 2026-06-21 22:59:37  #國際
-
-美國駐聯合國大使：以色列與阿聯酋曾開展軍事協作，共同抵禦伊朗威脅、互相提供防衛支援。
-
----
-
-### 2026-06-21 22:58:06  #國際
-
-瑞士外交部長：啟動此次談判是至關重要的第一步，瑞士與美伊雙方均保持著互信關係。
-
----
-
-### 2026-06-21 22:53:41  #MKT News #Commodities #Energy #WTI #Impact bearish #Brent
-
-【Iraq plans to restore oil output to pre-conflict levels】Iraq’s deputy oil minister for upstream affairs said on Sunday the country plans to gradually restore crude production to 4.2–4.3 mln bpd. The proposed increase would return output to levels before the Iran war and the closure of the Strait of Hormuz.
-
----
-
-### 2026-06-21 22:47:37  #其他
-
-衣索比亞國家選舉委員會21日宣佈，執政黨繁榮黨贏得議會選舉。 （新華社）
-
----
-
-### 2026-06-21 22:44:19  #國際
-
-瑞士外交部長：我與美國副總統就落實美伊諒解備忘錄的會談交換了意見。
-
----
-
-### 2026-06-21 22:43:57  #MKT News
-
-Ethiopia's National Election Board said Prime Minister Abiy's Prosperity Party won a parliamentary majority.
-
----
-
-### 2026-06-21 22:42:33  #其他
-
-衣索比亞全國選舉委員會：總理阿比領導的繁榮黨拿下議會多數席位。
-
----
-
-### 2026-06-21 22:39:58  #國際
-
-美國能源部長賴特：昨日共有 67 艘船舶經由霍爾木茲海峽通行，前一日通行船舶為 55 艘。原油及成品油運輸量基本恢復至衝突爆發前的水平。
-
----
-
-### 2026-06-21 22:37:01  #公司 #市場 #國際
-
-【美國能源部長預測油價將進一步下跌，並表示霍爾木茲海峽的石油運輸已恢復 “正常水平”】美國能源部長克里斯・賴特週日表示，美伊簽署初步協議恢復這條關鍵航道通航後，霍爾木茲海峽的石油運輸 “已恢復正常”，談判人員將在接下來兩個月內，著力解決尚未敲定的核相關議題。賴特在美國廣播公司新聞節目中稱：“我早已不再預判原油或汽油價格走勢，但油價仍會持續下行。海峽的石油與天然氣運輸量現已迴歸常態，無論美伊談判後續進展如何，運輸都將保持穩定。美國原油產量持續攀升，委內瑞拉產量大幅增長，同時我們與全球其他能源生產國保持合作。因此我認為，美國民眾可以期待能源價格繼續走低。”賴特在節目中對聯合主持人喬納森・卡爾表示，週日這場坦誠的對話將釐清伊朗的訴求，以及伊朗方面認為自身可能需要做出哪些讓步。談及伊朗方面，賴特稱：“他們在此次談判中不再擁有以往談判裡一貫掌握的籌碼。”
-
----
-
-### 2026-06-21 22:36:01  #MKT News #Commodities #Energy #WTI #Impact bearish #Brent
-
-Iran's deputy oil minister said Iraq plans to gradually restore crude oil output to 4.2-4.3 mln bpd, the level before the US-Iran conflict.
-
----
-
-### 2026-06-21 22:35:25  #其他
-
-伊拉克石油部副部長表示，伊拉克計劃逐步將原油產量恢復至危機前水平，即每日420萬至430萬桶。
-
----
-
-### 2026-06-21 22:33:43  #國際
-
-伊朗總統：美以情報機構企圖製造內部分裂，破壞伊朗民族團結。
-
----
-
-### 2026-06-21 22:33:23  #國際
-
-伊朗總統：那些不假思索便隨意表態、不顧及後續後果的人必須認清，他們此舉實則是在為敵人的利益服務。
-
----
-
-### 2026-06-21 22:32:51  #其他
-
-【哥倫比亞軍警擊斃一反政府武裝重要頭目】哥倫比亞國防部長佩德羅·桑切斯20日晚透過社交媒體宣佈，哥倫比亞軍事部隊與國家警察在一次聯合行動中，擊斃反政府武裝“莫爾迪斯科”在該國西南部的最高頭目。桑切斯表示，此次清剿行動在哥倫比亞考卡山谷省布埃納文圖拉市的鄉村地區進行。據介紹，該頭目涉嫌謀殺、強行招募未成年人、販毒和恐怖襲擊等犯罪活動。“莫爾迪斯科”是從原反政府武裝“哥倫比亞革命武裝力量”（“哥武”）分裂出來的非法武裝組織。哥倫比亞政府與“哥武”2016年簽署和平協議，結束長達半個世紀的對抗。“哥武”次年解除武裝並轉型為政黨，但部分成員反對並另立分支。（新華社）
-
----
-
-### 2026-06-21 22:31:42  #市場 #國際
-
-【隨著石油價格下跌，押注石油供應過剩的頭寸重新成為焦點】隨著美伊達成和平協議後原油期貨價格大幅下挫，一批幾乎已被市場遺忘的、押注石油供應過剩的場外期權頭寸重新回到投資者的視野。在美國打擊伊朗之前，部分交易員曾押注原油供應過剩將使近期合約價格低於遠期合約，即市場進入所謂的“遠期升水”結構。但美伊衝突爆發後，由於市場擔心供應短缺，近月價格一度飆升。4月下旬，WTI原油8月合約價格一度較9月合約每桶高出逾5美元，而9月合約又較10月合約高出4美元。那時的一波上漲行情使得超過2萬份（相當於每月2000萬桶石油）以現金結算的看跌期權頭寸幾乎變得一文不值。如今，隨著合約間價差重新收窄至每桶1美元以下，這些期權又重新變得有參考價值了。隨著油價回落至戰前水平，重新進入人們視野的不只是看跌價差的頭寸，整個市場的單向持倉也在變得更加悲觀。美國商品期貨交易委員會的最新周度資料顯示，對沖基金及其他大型投機者所持有的國際基準布倫特原油的淨多頭頭寸已降至六個月來的最低水平，自3月底以來減少了近四分之三。
-
----
-
-### 2026-06-21 22:31:42  #MKT News #Commodities #Energy #WTI #Impact bearish #Brent
-
-【Oil-glut bearish positions regain focus as crude retreats】After a US–Iran peace agreement sent crude futures sharply lower, previously dormant OTC option positions betting on an oil supply glut have resurfaced. Before a US strike on Iran, some traders had positioned for contango (near-month below forward months); the subsequent conflict flipped the curve into strong backwardation — in late April WTI August traded >$5/bbl above September and September ~ $4/bbl above October. That move left more than 20,000 cash-settled put contracts (≈20 mln bbl/month) nearly worthless. With inter-month spreads now narrowed to under $1/bbl and prices back near pre-conflict levels, those puts have regained reference value. CFTC weekly data show hedge funds and other large specs cut net-long Brent to a six-month low, down roughly 75% since end-March, indicating materially more bearish directional positioning.
-
----
-
-### 2026-06-21 22:27:21  #國際
-
-【特朗普稱美國或收取中東地區20%的石油收益】新華社華盛頓6月21日電 美國總統特朗普21日接受美國福克斯新聞頻道採訪時說，如果美國和伊朗未能達成協議，美國將會成為霍爾木茲海峽的“守護者”，並收取中東地區20%的石油收益。該媒體表示，特朗普20日晚與伊朗方面通話，警告他們不要關閉霍爾木茲海峽。特朗普對伊朗官員說：“你們要是關閉它，你們就不會再擁有一個國家。”特朗普稱，“如果有必要，我們可能會接管霍爾木茲海峽”，“我們將對他們（伊朗）實施猛烈打擊”，“如果他們達不成協議，我們就徵收通行費”。特朗普稱，美伊諒解備忘錄只是延長了停火，並非最終協議。如果伊朗在談判桌上不作出嚴肅承諾，他會保留多種選擇。特朗普還就伊朗總統佩澤希齊揚不放棄鈾濃縮權利言論回應說：“他最好注意自己的言辭。”特朗普21日在社交媒體上發文稱，伊朗必須立即停止在黎巴嫩的“代理人”行動，否則美國將會再次對伊朗發起猛烈打擊，“就像上週那樣，而且會更猛烈”。（新華社）
-
----
-
-### 2026-06-21 22:20:48  #國際
-
-【埃及、巴基斯坦、沙特和土耳其舉行會談 聚焦中東局勢】當地時間21日，埃及外長阿卜杜勒阿提、巴基斯坦副總理兼外長達爾、沙特外交大臣費薩爾和土耳其外長費丹在埃及首都開羅舉行四方會談。會議就地區和國際形勢深入交換意見，並重申了四國繼續磋商與協調對於維護中東乃至整個地區的和平、安全、穩定與繁榮的重要性。會後四國發表聯合宣告，主要內容如下：四國外長歡迎美伊於2026年6月18日簽署的《伊斯蘭堡諒解備忘錄》。四國認為這一重要進展是朝著緩和局勢、結束衝突邁出的建設性一步，強調各方必須切實履行其所作承諾。四國對巴基斯坦在實現這一歷史性成果中發揮的關鍵作用，以及卡達為確保諒解備忘錄談判取得成功所提供的支援表示讚賞。強調迅速成功完成下一階段談判的重要性，旨在就懸而未決的問題達成持久且各方都能接受的解決方案。宣告強調，協議應考慮到該地區各國的關切。宣告指出，巴勒斯坦問題對於實現中東和平、安全與穩定至關重要，巴勒斯坦問題仍然是實現該地區公正、全面和持久和平努力的核心，也是構建穩定安全區域秩序的根本支柱。宣告重申支援巴勒斯坦人民的合法權利，包括自決權以及在1967年邊界基礎上建立以東耶路撒冷為首都的獨立巴勒斯坦國的權利。（央視新聞）
-
----
-
-### 2026-06-21 22:19:10  #國際
-
-市場訊息：一架小型飛機在美國馬里蘭州林區墜毀，造成三名以色列人遇難，事發地點距華盛頓特區不足 20 英里。
 
 ---
