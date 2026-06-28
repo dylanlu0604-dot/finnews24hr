@@ -1,7 +1,82 @@
 {
-  "updated": "2026-06-28 12:06:33",
-  "count": 18149,
+  "updated": "2026-06-28 12:10:37",
+  "count": 18154,
   "items": [
+    {
+      "id": "mkt:019f0c6b-7086-7770-9d1c-a8cd52af3ce8",
+      "time": "2026-06-28 12:09:55",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "Bahrain's foreign ministry said it condemns Iran's renewed attack."
+    },
+    {
+      "id": "4958730",
+      "time": "2026-06-28 12:09:16",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "巴林外交部譴責伊朗再次發動襲擊。"
+    },
+    {
+      "id": "mkt:019f0c69-6149-7770-9d1c-a555fda85a10",
+      "time": "2026-06-28 12:07:40",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "Magnificent 7",
+        "Star Stocks",
+        "Alphabet",
+        "Meta Platforms",
+        "META.O",
+        "Impact bearish"
+      ],
+      "text": "Financial Times reports Google has limited Meta's access to Gemini, citing AI-driven pressure on compute capacity."
+    },
+    {
+      "id": "4958729",
+      "time": "2026-06-28 12:07:38",
+      "tags": [
+        "國際"
+      ],
+      "text": "【特斯拉Model S簽名典藏版限量投放歐洲市場】據報道，特斯拉Model S Signature Edition（簽名典藏版）於近日正式登陸歐洲市場，該車型僅限量20臺投放歐洲地區，採用定向受邀客戶專屬購買模式，不面向公眾開放選購。據瞭解，特斯拉數月前已關停Model S、Model X全球線上訂單通道。美國市場共推出250臺Model S、100臺Model X簽名典藏版，目前本土庫存已全部售罄。"
+    },
+    {
+      "id": "4958728",
+      "time": "2026-06-28 12:07:28",
+      "tags": [
+        "國際"
+      ],
+      "text": "巴林國家通訊社訊息：巴林稱伊朗於週日向其發射導彈、無人機實施襲擊。"
+    },
+    {
+      "id": "mkt:019f0c68-bc04-7770-9d1c-9b8efed09eeb",
+      "time": "2026-06-28 12:06:58",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "WTI",
+        "Impact mixed"
+      ],
+      "text": "ISRAELI MILITARY said it killed an armed HEZBOLLAH militant and struck a launcher in the Nabatieh area."
+    },
+    {
+      "id": "4958727",
+      "time": "2026-06-28 12:06:44",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列軍方稱其已擊斃真主黨武裝分子，並襲擊了納巴提亞地區的一個發射裝置。"
+    },
     {
       "id": "4958726",
       "time": "2026-06-28 12:04:41",
@@ -166077,22 +166152,6 @@
         "國際"
       ],
       "text": "據報道，美國副總統萬斯（Vance）已於當地時間凌晨5點59分抵達瑞士。"
-    },
-    {
-      "id": "4946121",
-      "time": "2026-06-21 12:09:54",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：美方計劃在瑞士會談期間敦促伊朗允許聯合國核核查人員重返核心核設施，而解凍伊朗數十億美元凍結資產將作為核心談判籌碼。該議題預計是首輪談判中最關鍵的議題之一。"
-    },
-    {
-      "id": "4946119",
-      "time": "2026-06-21 12:07:16",
-      "tags": [
-        "國際"
-      ],
-      "text": "【日多地民眾抗議日美聯合軍演】據日本媒體6月20日報道，針對日本自衛隊和美軍當天在九州、沖繩等地啟動“堅毅之龍”大規模聯合軍演，日本多地市民團體和當地居民提出抗議，要求停止軍演，避免加劇地區緊張。熊本縣山都町居民日前向有關方面提交抗議檔案，表達當地民眾對演習中美軍“魚鷹”運輸機低空飛行訓練的擔憂。抗議人士還表示，日美聯合軍演將攪動地區局勢，進一步加劇日本與周邊國家的緊張關係。據日本媒體報道，此次“堅毅之龍”軍演由日本陸上自衛隊和美國海軍陸戰隊等約9600人參加，以所謂“離島防衛”等為主要內容，將從6月20日持續至30日。（CCTV國際時訊）"
     }
   ]
 }
