@@ -1,7 +1,15 @@
 {
-  "updated": "2026-06-28 10:23:11",
-  "count": 18159,
+  "updated": "2026-06-28 10:27:09",
+  "count": 18158,
   "items": [
+    {
+      "id": "4958706",
+      "time": "2026-06-28 10:23:32",
+      "tags": [
+        "其他"
+      ],
+      "text": "【深圳新投放1.5萬個燃油車指標】央視財經訊息，商務部等多部門在本週同一天釋出了《關於培育壯大汽車後市場消費若干措施的通知》和《關於公佈汽車流通消費改革試點城市名單的通知》兩份檔案。在40個汽車流通消費改革試點城市中，深圳是最佳化汽車限購的城市之一，現在，改變已開始出現。深圳7月30日將開展2026年專項普通小汽車增量指標搖號，一次性投放1.5萬個燃油車增量指標，透過階梯搖號的方式面向個人進行配置，目前已經進入報名期。這些新購買的汽車將在未來6個月內陸續上牌，將直接帶動汽車保險、金融貸款、汽車裝飾、保養維修等業務的增長。（央視財經）"
+    },
     {
       "id": "4958705",
       "time": "2026-06-28 10:20:34",
@@ -166161,22 +166169,6 @@
         "其他"
       ],
       "text": "中國地震臺網正式測定：06月21日10時19分在西藏阿里地區日土縣（北緯33.72度，東經81.14度）發生3.6級地震，震源深度10千米。"
-    },
-    {
-      "id": "mkt:019ee7fe-f8a6-7dd8-b0a2-ca780e056431",
-      "time": "2026-06-21 10:25:07",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Qunar: searches for historic towns triple during Dragon Boat Festival holiday】Qunar data on June 21 show Dragon Boat Festival travel demand concentrated in nearby and folk tourism. Bookings for small cities marketed as “20°C cool” rose over 40% YoY, searches for distinctive historic towns tripled, and car-rental orders increased 60%. In the week to June 21, summer flight bookings jumped 65% week-on-week; family travelers accounted for more than 60% of bookings."
-    },
-    {
-      "id": "4946083",
-      "time": "2026-06-21 10:23:47",
-      "tags": [
-        "其他"
-      ],
-      "text": "【去哪兒旅行：端午假期特色古鎮搜尋量增長3倍】6月21日，去哪兒旅行資料顯示，今年端午期間，周邊遊、民俗遊火熱，特別是一批擁有“20度清涼”的熱門小城預訂量同比增長超40%，特色古鎮搜尋量增長3倍，租車訂單量增六成。截至6月21日，近一週預訂暑期出行機票量環比上週大幅增長65%，家庭遊客佔比超六成。"
     }
   ]
 }
