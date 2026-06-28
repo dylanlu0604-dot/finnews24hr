@@ -1,7 +1,70 @@
 {
-  "updated": "2026-06-28 17:52:13",
-  "count": 18103,
+  "updated": "2026-06-28 17:56:18",
+  "count": 18104,
   "items": [
+    {
+      "id": "mkt:019f0da6-9129-7aab-8c00-4ae90d8b9743",
+      "time": "2026-06-28 17:54:07",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "S&P500",
+        "Impact bullish",
+        "Nasdaq100",
+        "Copper"
+      ],
+      "text": "【Zhongtai Securities: market to stay tech-driven dispersion, not style rotation】Zhongtai Securities says the market will likely hold a clear bottom and consolidate over the next one to two weeks. After major IPO listings, falling uncertainty and repaired sentiment could lift the market toward prior highs or new highs. Leadership is expected to remain a diffusion across technology names rather than a broad style rotation. High-conviction tech plays: storage, semiconductor equipment and the overseas compute chain, with storage and chip equipment seen as most certain. Non-tech pockets to watch: new energy, AI-related specialty materials and minor metals, construction machinery and securities brokers. New energy is supported medium-term by higher power demand from AI compute expansion and export demand. In AI materials, a price upcycle in copper-clad laminate (CCL) has begun. Brokers should benefit from IPO cornerstone buying and higher trading activity, offering tactical swing opportunities."
+    },
+    {
+      "id": "4958920",
+      "time": "2026-06-28 17:53:36",
+      "tags": [
+        "國際"
+      ],
+      "text": "西班牙首相：當下局勢艱難，西班牙將持續同委內瑞拉官方開展協作，為受災民眾及其家屬提供一切必要的領事協助。"
+    },
+    {
+      "id": "4958919",
+      "time": "2026-06-28 17:52:52",
+      "tags": [
+        "國際"
+      ],
+      "text": "新加坡主要反對黨維持PRITAM SINGH黨主席職位不變。"
+    },
+    {
+      "id": "4958918",
+      "time": "2026-06-28 17:52:18",
+      "tags": [
+        "觀點"
+      ],
+      "text": "【開源證券：降低斜率預期，科技仍是主線】開源證券研報稱，市場不能靠估值和情緒單腿走路。中期看，配置重心不應停留在簡單的順週期修復，也不應機械回到前期最擁擠的科技方向，而應尋找“二次點火+敘事張力”的交集。具體方向上，科技仍是當下最具“二次點火+敘事張力”結合度的主線；在科技之外，有色和化工也值得階段性重視，尤其是在美伊階段性緩和背景下，有色和化工前期受到的壓制得到緩和，後續可能有較為明顯的修復行情。"
+    },
+    {
+      "id": "4958917",
+      "time": "2026-06-28 17:52:00",
+      "tags": [
+        "央行",
+        "觀點"
+      ],
+      "text": "【方正證券：後續風格繼續極致化演繹的機率已經不大】方正證券表示，風格再平衡的必要性進一步增強，當前價值/成長比價來到底部區域，意味著後續風格繼續極致化演繹的機率已經不大。從再平衡的潛在方向來看，仍是圍繞著中報業績預期較好的行業做再平衡，而不是無論什麼行業都可以“高切低”，部分此前因為科技資金虹吸出現錯殺的行業如券商、化工、創新藥、AI應用在過去一週出現修復，此外，美國PCE資料公佈之後，美聯儲年內加息預期有所回擺，隨著油價回落，加息預期最悲觀的時候可能已經過去，這對於風格再平衡而言是好事。另一方面，科技目前進入觀察期，前期強勢的硬體漲價進一步擴散，但美光財報公佈之後市場開始交易儲存成本走高擠壓產業鏈其它環節的利潤空間，後續重點關注7月中下旬美國CSP大廠財報指引情況。"
+    },
+    {
+      "id": "4958916",
+      "time": "2026-06-28 17:51:48",
+      "tags": [
+        "觀點"
+      ],
+      "text": "【中泰證券：後續市場風格依然是科技擴散而非風格切換】中泰證券研報表示，整體而言，未來一兩週市場大機率維持底部明確，震盪蓄勢的格局。重要IPO上市後，隨著市場不確定性落地、情緒面修復，市場有望迎來一輪前高/新高的行情。後續市場風格依然是科技擴散而非風格切換。一、科技方面關注：儲存與半導體裝置、海外算力鏈。儲存與半導體裝置是當前確定性最強的方向。二、非科技方向：新能源、AI相關新材料與小金屬、工程機械、券商。新能源方向上，AI算力擴張帶來的用電需求與出海邏輯構成中期支撐。AI相關新材料方面，覆銅板CCL漲價螺旋已經開啟。券商受益於IPO跟投及市場交投活躍，仍有波段機會。"
+    },
+    {
+      "id": "4958915",
+      "time": "2026-06-28 17:51:31",
+      "tags": [
+        "觀點"
+      ],
+      "text": "【中信證券：A股走勢更具韌性】中信證券研報表示，5月初美元走強、加息預期升溫，恰好對應的就是全球市場K型分化加速的節點，核心是緊縮預期對非AI領域需求的損傷。行情走到當下，K型分化走到階段性極致，甚至海外科技板塊內部也在縮圈，而股、債、商、匯的定價也已經體現出衰退交易早期的跡象；如果後續緊縮真實發生，或進一步損傷碳基世界需求；反之，K型分化則有望階段性收斂。相對劇烈波動的外盤，A股走勢更具韌性，部分非AI板塊已有左側資金涉足的跡象，其中少數低估值板塊已有修復的基礎，只需等待契機。"
+    },
     {
       "id": "mkt:019f0da1-3cb1-7aab-8c00-47a1d493dec2",
       "time": "2026-06-28 17:48:18",
@@ -165634,54 +165697,6 @@
         "國際"
       ],
       "text": "伊朗總統佩澤希基揚：武裝部隊各分支均認同我們當前推進的路線，相關決議經由國家安全委員會全體一致達成。"
-    },
-    {
-      "id": "4946364",
-      "time": "2026-06-21 17:55:40",
-      "tags": [
-        "其他"
-      ],
-      "text": "西方外交訊息人士：國際原子能機構總幹事是否參加會談尚未得到確認。"
-    },
-    {
-      "id": "4946363",
-      "time": "2026-06-21 17:55:06",
-      "tags": [
-        "其他"
-      ],
-      "text": "聯合國秘書長古特雷斯：值此關鍵關頭，務必全力為外交斡旋爭取一切成功的可能。"
-    },
-    {
-      "id": "4946362",
-      "time": "2026-06-21 17:54:08",
-      "tags": [
-        "公司"
-      ],
-      "text": "【中超控股：再次延長2023年度向特定物件發行股票決議有效期】中超控股(002471)6月21日公告，擬再次延長2023年度向特定物件發行股票決議有效期及授權有效期，再次延長後的有效期限自2026年第五次臨時股東會審議透過之日起12個月。"
-    },
-    {
-      "id": "4946361",
-      "time": "2026-06-21 17:53:16",
-      "tags": [
-        "其他"
-      ],
-      "text": "巴基斯坦國家電視臺訊息：技術層級磋商或將持續至明日（週一）。"
-    },
-    {
-      "id": "4946360",
-      "time": "2026-06-21 17:52:49",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗外交部：依據諒解備忘錄啟動談判，需先落實五項條款，其中一項涉及全面終止各戰線戰事。"
-    },
-    {
-      "id": "4946359",
-      "time": "2026-06-21 17:52:30",
-      "tags": [
-        "國際"
-      ],
-      "text": "在美國、卡達、巴基斯坦兩名斡旋方在場的情況下，華盛頓與德黑蘭的談判將於當地時間下午 1 時啟動。"
     }
   ]
 }
