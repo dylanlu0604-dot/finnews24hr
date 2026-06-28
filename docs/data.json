@@ -1,7 +1,23 @@
 {
-  "updated": "2026-06-28 14:09:58",
-  "count": 18157,
+  "updated": "2026-06-28 14:13:54",
+  "count": 18156,
   "items": [
+    {
+      "id": "4958766",
+      "time": "2026-06-28 14:11:50",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗稱將更強烈回應美進一步行為】據伊朗學生新聞網今天（6月28日）訊息，伊朗伊斯蘭革命衛隊發言人穆赫比表示，美國“自相矛盾的本性”導致其即使在最敏感的時刻，包括在美伊談判期間也會採取破壞穩定的行動，伊朗將對美軍任何進一步的違反停火行為作出“更強烈的回應”。（CCTV國際時訊）"
+    },
+    {
+      "id": "4958765",
+      "time": "2026-06-28 14:09:56",
+      "tags": [
+        "國際"
+      ],
+      "text": "巴林內政部：有居民樓因伊朗襲擊受損，未造成人員死亡。"
+    },
     {
       "id": "mkt:019f0cd8-84de-7770-9d1d-10d47648a5f4",
       "time": "2026-06-28 14:09:04",
@@ -166150,35 +166166,6 @@
         "MKT News"
       ],
       "text": "【Israeli military to stage scheduled exercise in Jaffa】The Israeli military said it is conducting a scheduled exercise in the Jaffa area, expected to conclude next Tuesday morning. The operation will involve concentrated movements of security forces and vehicles and associated construction activity."
-    },
-    {
-      "id": "4946170",
-      "time": "2026-06-21 14:13:49",
-      "tags": [
-        "國際"
-      ],
-      "text": "以色列軍方：此次在加沙地帶打擊的哈馬斯小組，曾為該組織轉移超 5 億謝克爾資金。"
-    },
-    {
-      "id": "4946169",
-      "time": "2026-06-21 14:12:59",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "伊朗政府：我們談判代表團已做好準備，即將開啟外交磋商。"
-    },
-    {
-      "id": "mkt:019ee8cf-5e19-7dd8-b0a3-9ca2b8e60cb5",
-      "time": "2026-06-21 14:12:44",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bearish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "Iran's government says its negotiating delegation is ready to begin diplomatic consultations soon."
     }
   ]
 }
