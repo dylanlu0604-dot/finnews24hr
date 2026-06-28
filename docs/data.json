@@ -1,7 +1,31 @@
 {
-  "updated": "2026-06-29 02:06:40",
+  "updated": "2026-06-29 02:10:32",
   "count": 17979,
   "items": [
+    {
+      "id": "4959097",
+      "time": "2026-06-29 02:09:01",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場資訊：參與崑崙芯認購的投資者需承諾採購價值為認購金額3至7倍的崑崙芯晶片。"
+    },
+    {
+      "id": "4959096",
+      "time": "2026-06-29 02:08:38",
+      "tags": [
+        "其他"
+      ],
+      "text": "百度AI晶片業務崑崙芯衝擊港股IPO，目標估值500億美元。"
+    },
+    {
+      "id": "mkt:019f0f69-90d0-7aab-8c02-264296db46c2",
+      "time": "2026-06-29 02:06:44",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Iraq says willing to mediate between US and Iran】Iraq’s foreign minister told a joint press conference in Baghdad with Iran’s foreign minister that Baghdad is willing to mediate between the US and Iran to help end the conflict, saying Iraq maintains good relations with both and is prepared to work with both sides. He said Iraq has previously facilitated US–Iran cooperation. Despite a memorandum of understanding between Iran and the US, he added that clashes in the Strait of Hormuz continue and warned the war must end to avoid regional destruction."
+    },
     {
       "id": "4959094",
       "time": "2026-06-29 02:00:24",
@@ -164482,30 +164506,6 @@
         "公司"
       ],
       "text": "德國KNDS集團家族股東達成股權轉讓協議，為上市鋪路。"
-    },
-    {
-      "id": "4946611",
-      "time": "2026-06-22 02:09:12",
-      "tags": [
-        "其他"
-      ],
-      "text": "中國地震臺網正式測定：06月22日01時58分在新疆伊犁州昭蘇縣（北緯43.36度，東經81.10度）發生4.0級地震，震源深度20千米。"
-    },
-    {
-      "id": "4946610",
-      "time": "2026-06-22 02:09:07",
-      "tags": [
-        "國際"
-      ],
-      "text": "【特朗普言論令伊美未來的談判走向仍不明朗】伊朗國家電視臺一名記者週日表示，在美國總統特朗普發表相關言論後，伊朗與美國談判的後續走向仍存變數。這名記者稱：“談判能否繼續目前尚不明確。”他還補充道，伊朗首席談判代表針對特朗普威脅言論作出回應後的各方反應，將很大程度決定下一步談判程序。此番表態釋出前，伊朗與美國代表團在瑞士舉行的談判已暫停。此前一名伊朗訊息人士透露，談判只是臨時休會，並未徹底終止。"
-    },
-    {
-      "id": "4946609",
-      "time": "2026-06-22 02:07:29",
-      "tags": [
-        "國際"
-      ],
-      "text": "德國部長表示，霍爾木茲海峽一旦遭封鎖，責任在於特朗普。"
     }
   ]
 }
