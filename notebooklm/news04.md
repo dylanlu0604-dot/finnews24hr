@@ -1,7 +1,367 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-06-28 08:56:26_
-_本檔包含 3481 則快訊，約 669677 字_
+_更新時間：2026-06-28 10:35:05_
+_本檔包含 3498 則快訊，約 669953 字_
+
+---
+
+### 2026-06-24 01:44:29  #MKT News
+
+【Paris's Louvre to close early for four days amid heat wave】On June 23 (local time) Paris's Louvre Museum said it will shorten daily hours from June 24–27, closing at 16:00 instead of 18:00, citing sustained high temperatures. The museum said heat is accumulating inside the historic building and, despite some heat resistance, it cannot fully cope with current conditions; combined with high visitor numbers, overheating is most pronounced in the afternoon.
+
+---
+
+### 2026-06-24 01:44:16  #其他
+
+【受高溫天氣影響，巴黎盧浮宮將連續4天提前閉館】當地時間6月23日，法國巴黎盧浮宮博物館宣佈，受持續高溫天氣影響，自6月24日至27日，該館每日閉館時間由原定的18時提前至16時。盧浮宮方面表示，近期巴黎遭遇強烈高溫，這座歷史建築雖然具備一定耐熱能力，但整體上並不能充分適應當前氣候變化。隨著熱量在建築內持續積聚，加之遊客數量較多，館內高溫問題在下午時段尤為明顯。此前，巴黎埃菲爾鐵塔也已宣佈因高溫天氣調整開放時間。法國目前正遭受今年以來第二輪大範圍熱浪影響，多地持續釋出高溫預警。（央視新聞）
+
+---
+
+### 2026-06-24 01:44:07  #MKT News
+
+Refinitiv/Ipsos poll: only 23% of Americans say U.S.-Iran ties are stronger post-war, while 35% say ties are weaker.
+
+---
+
+### 2026-06-24 01:43:57  #MKT News
+
+Refinitiv/Ipsos poll: 52% of Americans say the Iran issue is not worth paying a price; 24% say it is.
+
+---
+
+### 2026-06-24 01:43:54  #國際
+
+路透社與益普索聯合民調顯示，僅 23% 的美國人認為戰爭過後美國對伊朗佔據更有利地位，35% 受訪者則認為美國處境更為被動。特朗普支援率跌至 34%，平其二任期以來最低水平。 52% 的美國人認為對伊朗開戰得不償失，僅有 24% 持相反觀點。
+
+---
+
+### 2026-06-24 01:43:43  #MKT News
+
+Refinitiv/Ipsos poll shows US President Trump’s approval rating fell to 34%, matching his second-term low.
+
+---
+
+### 2026-06-24 01:42:57  #MKT News #Important
+
+【Trump says IAEA inspectors will enter Iran at an appropriate time】On June 23, US President Trump said Iran's claims about IAEA verification are incorrect and that IAEA inspectors will enter Iran at an appropriate time. Earlier the same day Iranian foreign ministry spokesman BAGHAEI said there are currently no plans for IAEA inspectors to visit Iran's damaged nuclear facilities.
+
+---
+
+### 2026-06-24 01:42:47  #國際
+
+【特朗普稱國際原子能機構核查人員將適時訪問伊朗】當地時間6月23日，美國總統特朗普表示，伊朗在國際原子能機構核查問題上的說法是錯誤的。他同時表示，核查人員將在適當時候進入當地開展工作。伊朗外交部發言人巴加埃23日早些時候表示，暫無國際原子能機構核查人員訪問伊朗受損核設施的計劃。（央視新聞）
+
+---
+
+### 2026-06-24 01:41:45  #MKT News
+
+Andy Burnham, a frontrunner to be the next Labour leader, is preparing to replace Chancellor of the Exchequer Rachel Reeves but would offer her another cabinet post.
+
+---
+
+### 2026-06-24 01:40:57  #其他
+
+沃爾瑪據悉將以14億美元收購VIBE.CO。
+
+---
+
+### 2026-06-24 01:36:27  #MKT News
+
+【Atlanta Fed president search seen as test of how Waller will reshape Fed】CNBC reports the search for a new president of the Federal Reserve Bank of Atlanta has entered its seventh month and is being closely watched as a gauge of how new Fed chair Waller may reshape the FOMC. Two people familiar with the process said a search begun under former chair Powell was paused to allow Waller to lead the appointment. Michael Faulkender, a former senior Treasury official in the Trump administration, was later added to the candidate list; his current status is unclear.
+
+---
+
+### 2026-06-24 01:31:20  #公司
+
+聯合航空：公司將聯合 DirecTV，在搭載星鏈網路的座椅靠背顯示屏上提供電視直播服務，活動持續至 7 月 20 日。
+
+---
+
+### 2026-06-24 01:29:34  #宏觀 #國際
+
+美國國務院：持續實施破壞、顛覆政權的行徑，對該國及整個西半球的憲政秩序與民主穩定構成嚴重威脅。
+
+---
+
+### 2026-06-24 01:29:08  #MKT News #Market Themes #The Trump Trade #Macro & Rates #US Economy #DXY #Impact bullish #S&P500 #US10Y #Impact bearish
+
+Asked whether truck drivers face a high risk of job losses from AI, US President Trump said they will not lose their jobs, that finding work is not difficult now, and that US employment data is at historic highs.
+
+---
+
+### 2026-06-24 01:29:04  #市場 #央行 #國際
+
+【彭博美元指數創11月以來最高水平 交易員上調美聯儲升息押注】彭博美元即期指數週二升至去年11月以來最高水平，交易員進一步強化了對美聯儲今年加息的預期。彭博美元即期指數上漲0.4%。隨著美聯儲政策前景與全球其他主要央行日益背離，美元獲得支撐。交易員目前預計，到2027年初，美國將累計加息近50個基點，相當於接近兩次25個基點的加息。瑞穗國際策略師Jordan Rochester表示：“美元還有進一步上漲空間。美元通常會在美聯儲加息前走強，而市場目前正在考慮9月啟動加息週期的可能性。”
+
+---
+
+### 2026-06-24 01:28:45  #宏觀 #國際
+
+美國國務院：對玻利維亞暴力封路行為損害當地民主與法治深表關切。
+
+---
+
+### 2026-06-24 01:28:10  #MKT News
+
+Trump on the Iran deal: anyone who criticizes the agreement must be educated, even my friends.
+
+---
+
+### 2026-06-24 01:26:38  #MKT News #Macro & Rates #The Fed (FOMC)
+
+CNBC reports the selection process for the Atlanta Fed presidency has restarted after Wosh was named Federal Reserve chair.
+
+---
+
+### 2026-06-24 01:26:14  #央行 #國際
+
+市場訊息：沃什出任美聯儲主席後，亞特蘭大聯儲行長遴選流程已重新啟動。
+
+---
+
+### 2026-06-24 01:24:59  #MKT News
+
+Asked when IAEA inspectors would be on site in Iran, U.S. President Trump said at the right time and that he was not in a hurry.
+
+---
+
+### 2026-06-24 01:23:46  #MKT News #Important
+
+SpaceX plans to raise $25 billion through issuance of senior high-grade bonds.
+
+---
+
+### 2026-06-24 01:23:20  #MKT News #WTI #Impact bullish #XAUUSD #DXY
+
+Iran said it had not arranged visits by IAEA inspectors; U.S. President Trump responded: "If that's true, I'll cancel all meetings now."
+
+---
+
+### 2026-06-24 01:23:10  #國際
+
+特朗普：如果伊朗想找麻煩，那就去尋求核武器。在軍事力量和能力遭受重創之後，伊朗已不具備有利的談判地位。伊朗的軍事基礎設施已徹底摧毀，通脹率已達300%。
+
+---
+
+### 2026-06-24 01:22:47  #公司 #焦點 #國際
+
+SpaceX 擬透過首次美國高等級債券發行募資 250 億美元。
+
+---
+
+### 2026-06-24 01:22:05  #MKT News
+
+President Trump said Iran faces hunger, shortages of food and medicine, and high inflation.
+
+---
+
+### 2026-06-24 01:20:58  #MKT News #WTI #Impact bullish #XAUUSD #DXY
+
+TRUMP said Iran's military infrastructure has been completely destroyed and the inf rate has reached 300%.
+
+---
+
+### 2026-06-24 01:20:37  #MKT News #XAUUSD #Impact bearish #WTI #DXY
+
+Trump said Iran no longer holds a favorable negotiating position after its military forces and capabilities were severely degraded.
+
+---
+
+### 2026-06-24 01:19:59  #MKT News #XAUUSD #Impact bullish #WTI
+
+U.S. President Trump: If Iran wants to cause trouble, then go seek nuclear weapons.
+
+---
+
+### 2026-06-24 01:19:40  #國際
+
+特朗普：伊朗面臨糧食短缺、藥品匱乏以及通脹高企等難題。
+
+---
+
+### 2026-06-24 01:19:19  #國際
+
+美國總統特朗普被問及AI對卡車司機們構成的風險，兜售就業資料。
+
+---
+
+### 2026-06-24 01:18:46  #MKT News #WTI #Impact bearish #Brent
+
+President Trump said he is reaching an agreement with Iran and expects further progress.
+
+---
+
+### 2026-06-24 01:18:15  #MKT News #XAUUSD #Impact bullish #Brent #DXY
+
+President Trump said the immediate priority is ensuring Iran never acquires nuclear weapons.
+
+---
+
+### 2026-06-24 01:17:40  #MKT News #Important
+
+Trump on Iran: Iran's claim about IAEA inspections is incorrect. IAEA inspectors will arrive on site at an appropriate time.
+
+---
+
+### 2026-06-24 01:16:48  #國際
+
+特朗普談及伊朗：核查人員將在合適時機赴當地開展核查工作。
+
+---
+
+### 2026-06-24 01:16:44  #MKT News #Macro & Rates #The Fed (FOMC)
+
+The Fed accepted $6.484 bln from 10 counterparties in its fixed-rate reverse repo operation.
+
+---
+
+### 2026-06-24 01:16:32  #國際
+
+特朗普：伊朗對國際原子能機構核查人員的相關說法是錯誤的。
+
+---
+
+### 2026-06-24 01:16:07  #央行 #美聯儲
+
+美聯儲隔夜逆回購協議（RRP）週二使用規模為64.84億美元（交易對手10家），上個交易日報39.25億美元。
+
+---
+
+### 2026-06-24 01:16:00  #央行 #國際
+
+週二（6月23日），美聯儲隔夜逆回購協議（RRP）使用規模為64.84億美元（交易對手10家），上個交易日報39.25億美元。
+
+---
+
+### 2026-06-24 01:15:58  #國際
+
+特朗普：明日將與共和黨議員商討選民身份核驗法案。
+
+---
+
+### 2026-06-24 01:15:34  #國際
+
+美國總統特朗普抵達雷丁。
+
+---
+
+### 2026-06-24 01:15:09  #國際
+
+特朗普：是否與伊朗達成協議，我們拭目以待。
+
+---
+
+### 2026-06-24 01:14:12  #Trading Economics #Markets #United States #Stock Market #Importance 1
+
+Chip Stocks Hold Selloff — A selloff for heavyweight chip producers pressured US equity indices on Tuesday. The Nasdaq 100 slid 3% and the S&P 500 dropped 1%. AI infrastructure companies, including semiconductor and memory chip producers, tanked on increasing skepticism that AI spending by hyperscalers will not meet returns. On top of that, SK Hynix slowed production of advanced AI chips to boost commodity DRAM capacity, a sign that demand for compute could slow. Micron, Lam Research, Sandisk, and Qualcomm plunged close to 10%, Tesla lost 5%, and Nvidia and Oracle slipped 3.5%. On the same note, SpaceX plunged 16% before rebounding as it issued bonds only one week after its IPO, adding to caution on colossal capital expenditure. Treasury yields remained elevated despite the decline in energy prices following the hawkish dot plot last week, limiting any respite for traditional sectors of the economy. Still, gains for healthcare and consumer defensive companies aided the Dow to hover around the flatline.
+
+---
+
+### 2026-06-24 01:12:32  #其他
+
+【C羅連續六屆世界盃進球】美加墨世界盃K組，葡萄牙對陣烏茲別克，C羅搶點破門，攻入個人本屆世界盃首球，連續六屆世界盃進球。
+
+---
+
+### 2026-06-24 01:10:40  #MKT News #Important #XAUUSD #Impact bullish #WTI #DXY
+
+【Pezeshkian: Iran–US memorandum does not cover missiles】On the 23rd, while visiting Pakistan, President Pezeshkian said the Iran–US memorandum does not cover missile issues and will not be expanded to do so. He said Iran will never negotiate its defensive capabilities with any party.
+
+---
+
+### 2026-06-24 01:10:16  #國際
+
+【伊朗總統：伊美諒解備忘錄不涉及導彈問題】當地時間23日，正在巴基斯坦訪問的伊朗總統佩澤希齊揚在接受採訪時表示，伊美諒解備忘錄中並不包含導彈問題，未來也不會將其納入議題。佩澤希齊揚稱，伊朗永遠不會與任何人協商伊朗方面的防禦能力。巴基斯坦總理夏巴茲·謝里夫表示，某些國家擁有彈道導彈，而伊朗卻被禁止擁有，這種“雙重標準”是不可接受且不合邏輯的。（央視新聞）
+
+---
+
+### 2026-06-24 01:07:48  #MKT News #Important #WTI #Impact bullish #Brent #XAUUSD
+
+【Iran president says without missiles Iran would have been flattened like Gaza】On June 23, during a visit to Pakistan, President PEZESHKIAN said the Iran‑US memorandum of understanding does not cover Iran’s missiles and that Iran will never negotiate its defensive capabilities; he added that without its missiles Iran would have been flattened by the US and Israel like Gaza. Pakistan Prime Minister Shehbaz Sharif said banning Iran from possessing ballistic missiles while other countries have them would be a double standard, calling that unacceptable and illogical.
+
+---
+
+### 2026-06-24 01:07:11  #MKT News #Market Themes #AI Revolution
+
+Market news: ANTHROPIC seeks deeper integration of Claude into Slack chat.
+
+---
+
+### 2026-06-24 01:06:59  #焦點 #國際
+
+【伊朗總統稱若無導彈伊朗已成加沙】當地時間6月23日，正在巴基斯坦訪問的伊朗總統佩澤希齊揚在接受採訪時表示，伊美諒解備忘錄中不包含伊朗導彈問題，而且未來也絕不會將此納入談判中。佩澤希齊揚說，“如果不是因為我們的導彈，伊朗早就被美國和以色列夷為平地了，就像巴勒斯坦加沙地帶一樣。伊朗永遠不會與任何人談判我們的防禦能力。”巴基斯坦總理夏巴茲·謝里夫表示，其他國家擁有彈道導彈，伊朗被禁止擁有的話那就是“雙重標準”，這是不可接受且不合邏輯的。（CCTV國際時訊）
+
+---
+
+### 2026-06-24 01:05:56  #市場
+
+彭博美元指數創2025年11月份以來盤中新高。
+
+---
+
+### 2026-06-24 01:05:33  #公司 #國際
+
+【嘉年華郵輪：伊朗戰事衝擊預訂業務，下調業績預期】嘉年華郵輪表示，激烈的地緣衝突打亂了郵輪預訂節奏，燃油成本持續攀升不斷擠壓企業利潤，因此下調了本季度業績預期。上一財季的郵輪預訂業務在歐洲地區受衝擊最為嚴重，地中海航線遭遇的影響尤為突出。公司執行長表示，集團旗下全航線旺盛的出行需求與遊客消費能力，一定程度對沖了地緣衝突帶來的業務負面影響。展望後市，隨著近期國際油價回落，嘉年華預計2026年剩餘運營週期的燃油開支將小幅下行。公司將全年燃油總支出預期從此前的21.5億美元下調至21.2億美元。
+
+---
+
+### 2026-06-24 01:04:07  #市場 #國際
+
+美國兩年期國債收益率招標後保持平穩，最新下跌 4.45 個基點，報 4.186%。
+
+---
+
+### 2026-06-24 01:03:39  #公司
+
+Anthropic 釋出公告：面向 Claude 企業版與團隊版客戶，在 Slack 研究預覽渠道推出 Claude 標記功能。
+
+---
+
+### 2026-06-24 01:03:09  #央行 #美聯儲
+
+【美國財政部拍賣690億美元兩年期國債】美國財政部拍賣690億美元兩年期國債，得標利率4.189%，投標倍數2.64。
+
+---
+
+### 2026-06-24 01:02:50  #宏觀 #市場 #國際
+
+美國財政部拍賣690億美元兩年期國債，得標利率4.189%，投標倍數2.64。
+
+---
+
+### 2026-06-24 01:02:40  #其他
+
+Anthropic：計劃將 @Claude 呼叫功能拓展至其他產品介面 。輸入 @Claude 進行標記後，系統會將任務拆解為多個步驟，依次分步執行，並呼叫所有可用工具完成處理。可對 @Claude 可訪問的敏感資料及專項任務工具設定極嚴格的許可權範圍。
+
+---
+
+### 2026-06-24 01:02:24  #MKT News #Macro & Rates #Treasury Yields #US10Y #Impact bearish #DXY #Impact bullish #EURUSD
+
+U.S. 2-year Treasury auction to June 23: share of allotment at the stop-out yield 5.66%, prior 42.14%.
+
+---
+
+### 2026-06-24 01:02:17  #MKT News #Macro & Rates #Treasury Yields #DXY #Impact bullish #S&P500 #Impact bearish #US10Y
+
+U.S. 2-year Treasury auction on June 23 — stop-out yield 4.189%, prior 4.07%.
+
+---
+
+### 2026-06-24 01:02:16  #MKT News #Macro & Rates #Treasury Yields #US10Y
+
+US 2-year Treasury auction on June 23: bid-cover ratio 2.64; prior 2.64.
+
+---
+
+### 2026-06-24 01:02:06  #MKT News #Economic Calendar
+
+United States | 2-Year Note Auction Bid/Cover Ratio (Jun.23) | actual 2.64 | previous 2.64
+
+---
+
+### 2026-06-24 01:02:06  #MKT News #Economic Calendar
+
+United States | 2-Year Note Auction Accepted at High (Jun.23) | actual 5.66% | previous 42.14%
 
 ---
 
@@ -20758,263 +21118,5 @@ US stocks extended losses; the Nasdaq Composite fell 1.00%.
 ### 2026-06-22 22:42:58  #Trading Economics #Markets #United States #stocks #Importance 1
 
 Netflix Stock Price Hits 19-month Low — Netflix shares decreased to 74.56 USD, the lowest since October 2024. Over the past 4 weeks, Netflix lost 16.43%, and in the last 12 months, it decreased 39.38%.
-
----
-
-### 2026-06-22 22:42:44  #公司 #市場
-
-標準普爾綜合1500客運航空公司指數隨原油價格下跌上漲1.3%。
-
----
-
-### 2026-06-22 22:42:31  #Trading Economics #Markets #Commodity #Importance 0
-
-Brent Drops Toward $78 — Brent crude oil extended losses to around $78 per barrel on Monday, hovering near its lowest level since early March, following reports that the US and Iran have agreed to a roadmap aimed at securing a final peace agreement within 60 days. In addition, the US Treasury Department authorized the production, delivery and sale of Iranian oil and petroleum products for 60 days, boosting expectations of a faster supply recovery. Shipping activity through the Strait of Hormuz has also increased. Data showed millions of barrels still flowing through the chokepoint over the weekend. Iran has increased visible oil shipments through Hormuz to the highest level since the conflict began and cut prices for cargoes sold to China. Gulf producers are preparing to raise output, with Kuwait lifting force majeure notices and Abu Dhabi’s ADNOC resuming supply operations. A full reopening of Hormuz could release about 80 million barrels into the market, adding pressure to prices as demand remains weak.
-
----
-
-### 2026-06-22 22:42:06  #Trading Economics #Markets #Commodity #Importance 2
-
-Crude Oil Falls Toward $74 — Crude oil extended losses to around $74 per barrel on Monday, hovering near its lowest level since early March, following reports that the US and Iran have agreed to a roadmap aimed at securing a final peace agreement within 60 days. In addition, the US Treasury Department authorized the production, delivery and sale of Iranian oil and petroleum products for 60 days, boosting expectations of a faster supply recovery. Shipping activity through the Strait of Hormuz has also increased. Data showed millions of barrels still flowing through the chokepoint over the weekend. Iran has increased visible oil shipments through Hormuz to the highest level since the conflict began and cut prices for cargoes sold to China. Gulf producers are preparing to raise output, with Kuwait lifting force majeure notices and Abu Dhabi’s ADNOC resuming supply operations. A full reopening of Hormuz could release about 80 million barrels into the market, adding pressure to prices as demand remains weak.
-
----
-
-### 2026-06-22 22:41:45  #國際
-
-美國議員宣告：美國眾議院相關委員會就社交媒體監管達成兩黨共識，暫未披露細則。
-
----
-
-### 2026-06-22 22:40:33  #其他
-
-ICE紐約可可<CCc2>價格躍升逾9%，至每公噸4,630美元。
-
----
-
-### 2026-06-22 22:40:16  #MKT News #Star Stocks #NVIDIA #Market Themes #Magnificent 7
-
-【Dingyang Technology says share plunge due to multiple factors, limited ties to NVIDIA】Dingyang Technology shares fell 11.87% to 68.75 yuan at the close. Market participants said the prior rally was driven by NVIDIA photonics-chain thematic speculation, leaving the stock exposed to concentrated profit-taking. The company said the share move reflected multiple factors and that its ties to NVIDIA are limited; it does not see pronounced business cyclicality, though some products have seasonal demand around university term starts. Q1 2026 revenue was about 162.0 mln yuan, up 22.85% YoY; net profit was about 38.34 mln yuan, down 5.77% YoY. Management pointed to high accounts receivable and a YoY rise in financial expenses of 10.06 mln yuan—mainly foreign-exchange losses and lower interest income—plus higher R&D spending and reduced government subsidies as the main drivers of the profit decline.
-
----
-
-### 2026-06-22 22:39:40  #其他
-
-國際貨幣基金組織稱需採取進一步措施解決塞內加爾資料錯報問題。
-
----
-
-### 2026-06-22 22:39:33  #市場
-
-洲際交易所倫敦可可期貨<LCCc2>跳漲超5%，報每噸3468英鎊。
-
----
-
-### 2026-06-22 22:39:12  #公司
-
-谷歌：谷歌已對A24進行了一筆投資。
-
----
-
-### 2026-06-22 22:37:28  #公司
-
-【林武會見華潤集團客人】6月22日下午，山東省委書記林武在濟南會見了華潤集團董事長王祥明、總經理王崔軍一行。林武、王祥明分別介紹了山東省、華潤集團發展情況，圍繞醫藥健康產業發展、新能源開發利用、新型消費培育壯大、城市建設運營、新材料產業提檔升級等交換了意見，表示將在良好合作的基礎上，全面深化戰略合作，共同推動各類合作專案建設提速增效，加強“十五五”時期重大專案謀劃佈局，促進雙方合作向更深層次、更寬領域邁進，努力實現互利共贏、共同發展。
-
----
-
-### 2026-06-22 22:36:05  #其他
-
-國際貨幣基金組織表示：塞內加爾重申有意簽署新一期 IMF 援助計劃。
-
----
-
-### 2026-06-22 22:35:53  #市場
-
-哥倫比亞MSCI COLCAP指數下跌2.6%。
-
----
-
-### 2026-06-22 22:35:48  #MKT News #RKLB.O #Impact bearish #PL.O #RDW.O
-
-U.S. space stocks tumbled: Planet Labs fell 4.7%, Satellogic fell 9.2%, Redwire fell 10.9%, SpaceX fell 10.0%, Rocket Lab fell 9.4% and Intuitive Machines fell 9.3%.
-
----
-
-### 2026-06-22 22:35:24  #國際
-
-【菲律賓警方公佈校園槍擊案調查進展】據菲律賓媒體22日報道，菲律賓警方釋出通報，公佈了當天發生在萊特島塔克洛班市的校園槍擊案的最新調查進展。據警方通報，上午9時許，兩名槍手闖入塔克洛班市一所中學並開槍射擊，造成至少3名學生死亡、7人受傷，傷者仍在醫院接受救治。警方趕到現場後，在校內逮捕了一名15歲的嫌疑人，另一名14歲的嫌疑人逃跑數小時後也被抓獲。警方在現場發現超過40個彈殼，並從嫌疑人身上繳獲一支9毫米口徑手槍和一支0.38英寸口徑左輪手槍。菲律賓國家警察總部發言人艾倫在新聞釋出會上說，經初步調查，9毫米口徑手槍為當地一名女警官的配槍，該警官已被拘留並接受調查。另一支左輪手槍登記資訊顯示，該槍屬菲律賓宿務市一家安保機構所有。目前，警方正在調查嫌疑人的作案動機。菲律賓國家警察總監納塔特斯發表宣告，向遇難者家屬致以慰問，並承諾“將採取一切必要措施伸張正義”。（新華社）
-
----
-
-### 2026-06-22 22:34:34  #其他
-
-【英國工黨黨魁熱門人選伯納姆正式宣誓就任議員】當地時間22日，英國大曼徹斯特前市長安迪·伯納姆在英國議會正式宣誓就任梅克菲爾德選區議員，完成其重返英國下議院的最後程式。伯納姆於上週舉行的議會補選中勝出，併成功當選議員。根據英國議會慣例，新當選議員需向英國國王宣誓效忠後，方可正式履職並在下議院擁有投票權和發言權。當天，伯納姆在工黨議員安妮莉絲·米德格利和喬·普拉特的陪同下完成宣誓儀式。當天早些時候，英國首相斯塔默在唐寧街10號首相府前發表講話說，他將辭去英國工黨黨首職務，但在繼任者選出之前，他將繼續擔任英國首相。隨後，伯納姆宣佈參選工黨領袖。隨著多位工黨重量級人物公開表態支援，英國媒體普遍認為，伯納姆已經成為接替斯塔默、角逐英國下一任首相職位的最熱門人選。（央視新聞）
-
----
-
-### 2026-06-22 22:34:01  #其他
-
-國際貨幣基金組織關於塞內加爾的宣告：代表團對塞內加爾當局持續保持溝通、承諾解決過往錯報問題暴露出來的脆弱性表示歡迎。
-
----
-
-### 2026-06-22 22:33:55  #MKT News #Nasdaq100 #Impact bearish
-
-Nasdaq-100 turns negative.
-
----
-
-### 2026-06-22 22:33:54  #其他
-
-國際貨幣基金組織：塞內加爾當局重申對基金組織支援的新規劃的興趣。
-
----
-
-### 2026-06-22 22:33:49  #MKT News
-
-IMF said its team held open and constructive technical discussions with Senegalese authorities.
-
----
-
-### 2026-06-22 22:33:48  #其他
-
-國際貨幣基金組織就塞內加爾問題表態：該組織還歡迎進行機構改革以統一債務管理職能，認為這是在誤報事件中採取的關鍵糾偏措施。
-
----
-
-### 2026-06-22 22:33:39  #MKT News
-
-IMF staff concluded their visit to Senegal.
-
----
-
-### 2026-06-22 22:33:38  #公司 #市場 #國際
-
-美國航天概念股股價暴跌。Planet Labs股價下跌4.7%，Satellogic股價下跌9.2%，Redwire股價下跌10.9%。、SpaceX股價下跌10%，火箭實驗室（Rocket Lab）股價下跌9.4%，直覺機器公司（Intuitive Machines）股價下跌9.3%。 朗希爾太空科技 ETF 下跌 6.2%，Procure 太空 ETF 下跌 3.8%。
-
----
-
-### 2026-06-22 22:33:30  #市場
-
-納斯達克100指數轉跌。
-
----
-
-### 2026-06-22 22:32:41  #其他
-
-國際貨幣基金組織（IMF）：國際貨幣基金組織工作組與塞內加爾官方進行了公開且富有建設性的技術磋商。
-
----
-
-### 2026-06-22 22:32:37  #公司 #市場
-
-【股價大跌11.87%，鼎陽科技獨家回應】鼎陽科技6月22日股價大跌。截至收盤，公司股價報68.75元/股，收盤跌幅為11.87%。市場觀點認為，本輪上漲主要依靠英偉達光通訊產業鏈題材炒作，股價短期內漲幅較大，獲利資金集中踩踏。此外，公司應收賬款較高，一季度業績“增收不增利”。對於股價大跌，鼎陽科技方面回應記者，股價受多重因素影響。公司和英偉達關係不大。公司業務沒有明顯的週期性，一些產品和高校每年開學季採購有一定關係。（中證金牛座）
-
----
-
-### 2026-06-22 22:32:22  #其他
-
-國際貨幣基金組織關於塞內加爾的訊息：IMF工作人員結束對塞內加爾的訪問。
-
----
-
-### 2026-06-22 22:31:14  #公司
-
-【立訊精密：擬使用不超400億元閒置自有資金購買低風險銀行產品】立訊精密(002475)6月22日公告，為了提高資金使用效率和收益水平，在確保資金安全、操作合法合規的原則下，並且在不影響公司正常經營的情況下，公司及其控股子公司擬使用不超過400億元閒置自有資金進行現金管理，用於購買安全性高、流動性好、低風險的銀行理財產品。
-
----
-
-### 2026-06-22 22:31:00  #宏觀
-
-土耳其財政部：截至五月底，中央政府債務存量為1.49891萬億里拉。
-
----
-
-### 2026-06-22 22:30:30  #公司 #國際
-
-【UPS宣佈投資4800萬美元擴建全球溫控跨運設施網路】美國聯合包裹服務公司（UPS）6月22日宣佈，將投資4800萬美元，在全球範圍內建設27個溫控貨運轉運中心。這些中心分佈於美國及包括歐洲、亞洲和美洲在內的主要國際市場，旨在最佳化空運和陸運之間的快速運輸和短期儲存，同時滿足特定的溫度要求。
-
----
-
-### 2026-06-22 22:30:28  #MKT News #Important #SPCX.O #Impact bearish
-
-SpaceX (SPCX.O) shares fell for a third straight session, intraday losses widening to 10%.
-
----
-
-### 2026-06-22 22:29:43  #Trading Economics #Economy #Euro Area #Consumer Confidence #Importance 2
-
-Euro Area Consumer Mood Improves Amid Lower Oil — Consumer confidence in the Euro Area improved for a second consecutive month, rising by 1.3 percentage points to -17.7 in June 2026 from -19 in May, according to flash estimates. However, the reading came slightly below market expectations of -17.5. Sentiment also strengthened across the broader European Union, with the index improving to -17 from -18.2 in the previous month. The recovery comes as crude oil prices have eased in recent weeks, although they remain slightly above levels seen before the Middle East conflict began. Despite the improvement, consumer confidence remains below its long-term average and continues to sit below pre-conflict levels, highlighting ongoing concerns over economic uncertainty and household purchasing power.
-
----
-
-### 2026-06-22 22:29:20  #市場 #焦點
-
-SPACEX股價連續第三個交易日下跌，跌幅達10%。
-
----
-
-### 2026-06-22 22:29:19  #MKT News #S&P500 #Impact bearish
-
-S&P 500 turned lower.
-
----
-
-### 2026-06-22 22:29:11  #其他
-
-Cloudflare 稱正在排查報錯率攀升問題。
-
----
-
-### 2026-06-22 22:28:27  #市場
-
-標普500指數轉跌。
-
----
-
-### 2026-06-22 22:27:07  #公司 #資料 #市場
-
-【谷歌股價下跌5% 上週諾獎科學家離開John Jumper谷歌】谷歌股價下跌5%，報349.660美元/股，總市值報4.26萬億美元。谷歌DeepMind的高階研究科學家John Jumper上週五宣佈離開，轉投Anthropic。Jumper表示，市場和行業變化是其離開的重要因素。AI人才戰爭已趨白熱化，頂級人才看重研究方向、組織開放及推動科學邊界的機會。
-
----
-
-### 2026-06-22 22:26:57  #其他
-
-【局地氣溫超43攝氏度 法國逾800所學校停課】法國西部22日迎來本輪熱浪“最熱一天”，局地氣溫預計升至43攝氏度。法國教育部已下令全國逾800所學校停課。法國氣象局預報顯示，西南部城市波爾多22日下午最高氣溫可達43攝氏度，首都巴黎氣溫或升至39攝氏度。據法國教育部通報，全國6萬所學校中有超800所宣佈停課，另有1800所學校調整教學時間。自上週起，法國一些學校已建議家長讓孩子居家，或是中午接孩子離校，避免學生待在悶熱的教室裡。（新華社）
-
----
-
-### 2026-06-22 22:26:30  #MKT News #Star Stocks #Alphabet #Market Themes #Magnificent 7 #GOOG.O #Impact bearish
-
-Alphabet (GOOG.O) shares fell to an intraday low, down 5%.
-
----
-
-### 2026-06-22 22:26:29  #市場 #國際
-
-【美元兌日元一度逼近2024年高點 隨後快速走低】美元兌日元短暫升至161.90上方，隨後急速下挫至161.20。不過，此輪下跌已獲得買盤承接，匯率快速回升至161.65。日本官員多次發出警告，表示正在密切關注市場走勢。上週五，美元兌日元匯率錄得40年來最高周收盤價，而伊朗戰爭的結束似乎並未帶來緩解。今日早些時候的上漲已突破6月份高點161.80，但2024年7月盤中高點161.94仍未被突破（儘管已岌岌可危）。隨著財務省面臨考驗，日元交易將進入一段充滿變數的時期。
-
----
-
-### 2026-06-22 22:26:18  #公司 #觀點
-
-【太合音樂集團遞表港交所】6月22日，港交所檔案顯示，太合音樂集團向港交所提交上市申請書，聯席保薦人為Deutsche Bank、中信建投國際。
-
----
-
-### 2026-06-22 22:26:10  #公司 #市場
-
-谷歌股價下跌5%，報349.660美元/股，總市值報4.26萬億美元。
-
----
-
-### 2026-06-22 22:25:52  #市場 #央行 #國際
-
-【美銀：利空因素猶存，但黃金股估值具備吸引力】美國銀行表示，儘管美元走強、美聯儲鷹派政策壓制金價，黃金類股票仍擁有誘人估值。該行指出，黃金股當前隱含金價約每盎司 3354 美元，較現貨金價折價約 19%；財政赤字、去美元化趨勢以及各國央行持續大舉購金，將為金價提供長期支撐。美銀維持樂觀判斷，稱新興市場央行購金需求持續，即便短期市場波動加劇，部分黃金礦業企業仍存在顯著上漲空間。
-
----
-
-### 2026-06-22 22:25:50  #MKT News #Important #Market Regions #Japan & APAC #USDJPY #Impact mixed
-
-【USD/JPY briefly nears 2024 high, then retreats】USD/JPY briefly rose above 161.90 before plunging to 161.20; bids then lifted it back to 161.65. Japanese officials have repeatedly warned they are closely monitoring the market. Last Friday produced the highest weekly close in 40 years, and the reported end of the Iran war appears not to have eased pressure. Earlier gains broke June resistance at 161.80, but the July intraday high of 161.94 remains unbroken though under threat. With Japan's Ministry of Finance under pressure, yen trading is likely to remain volatile.
 
 ---

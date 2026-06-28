@@ -1,7 +1,265 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-06-28 08:56:26_
-_本檔包含 3576 則快訊，約 669534 字_
+_更新時間：2026-06-28 10:35:05_
+_本檔包含 3576 則快訊，約 670006 字_
+
+---
+
+### 2026-06-22 22:42:44  #公司 #市場
+
+標準普爾綜合1500客運航空公司指數隨原油價格下跌上漲1.3%。
+
+---
+
+### 2026-06-22 22:42:31  #Trading Economics #Markets #Commodity #Importance 0
+
+Brent Drops Toward $78 — Brent crude oil extended losses to around $78 per barrel on Monday, hovering near its lowest level since early March, following reports that the US and Iran have agreed to a roadmap aimed at securing a final peace agreement within 60 days. In addition, the US Treasury Department authorized the production, delivery and sale of Iranian oil and petroleum products for 60 days, boosting expectations of a faster supply recovery. Shipping activity through the Strait of Hormuz has also increased. Data showed millions of barrels still flowing through the chokepoint over the weekend. Iran has increased visible oil shipments through Hormuz to the highest level since the conflict began and cut prices for cargoes sold to China. Gulf producers are preparing to raise output, with Kuwait lifting force majeure notices and Abu Dhabi’s ADNOC resuming supply operations. A full reopening of Hormuz could release about 80 million barrels into the market, adding pressure to prices as demand remains weak.
+
+---
+
+### 2026-06-22 22:42:06  #Trading Economics #Markets #Commodity #Importance 2
+
+Crude Oil Falls Toward $74 — Crude oil extended losses to around $74 per barrel on Monday, hovering near its lowest level since early March, following reports that the US and Iran have agreed to a roadmap aimed at securing a final peace agreement within 60 days. In addition, the US Treasury Department authorized the production, delivery and sale of Iranian oil and petroleum products for 60 days, boosting expectations of a faster supply recovery. Shipping activity through the Strait of Hormuz has also increased. Data showed millions of barrels still flowing through the chokepoint over the weekend. Iran has increased visible oil shipments through Hormuz to the highest level since the conflict began and cut prices for cargoes sold to China. Gulf producers are preparing to raise output, with Kuwait lifting force majeure notices and Abu Dhabi’s ADNOC resuming supply operations. A full reopening of Hormuz could release about 80 million barrels into the market, adding pressure to prices as demand remains weak.
+
+---
+
+### 2026-06-22 22:41:45  #國際
+
+美國議員宣告：美國眾議院相關委員會就社交媒體監管達成兩黨共識，暫未披露細則。
+
+---
+
+### 2026-06-22 22:40:33  #其他
+
+ICE紐約可可<CCc2>價格躍升逾9%，至每公噸4,630美元。
+
+---
+
+### 2026-06-22 22:40:16  #MKT News #Star Stocks #NVIDIA #Market Themes #Magnificent 7
+
+【Dingyang Technology says share plunge due to multiple factors, limited ties to NVIDIA】Dingyang Technology shares fell 11.87% to 68.75 yuan at the close. Market participants said the prior rally was driven by NVIDIA photonics-chain thematic speculation, leaving the stock exposed to concentrated profit-taking. The company said the share move reflected multiple factors and that its ties to NVIDIA are limited; it does not see pronounced business cyclicality, though some products have seasonal demand around university term starts. Q1 2026 revenue was about 162.0 mln yuan, up 22.85% YoY; net profit was about 38.34 mln yuan, down 5.77% YoY. Management pointed to high accounts receivable and a YoY rise in financial expenses of 10.06 mln yuan—mainly foreign-exchange losses and lower interest income—plus higher R&D spending and reduced government subsidies as the main drivers of the profit decline.
+
+---
+
+### 2026-06-22 22:39:40  #其他
+
+國際貨幣基金組織稱需採取進一步措施解決塞內加爾資料錯報問題。
+
+---
+
+### 2026-06-22 22:39:33  #市場
+
+洲際交易所倫敦可可期貨<LCCc2>跳漲超5%，報每噸3468英鎊。
+
+---
+
+### 2026-06-22 22:39:12  #公司
+
+谷歌：谷歌已對A24進行了一筆投資。
+
+---
+
+### 2026-06-22 22:37:28  #公司
+
+【林武會見華潤集團客人】6月22日下午，山東省委書記林武在濟南會見了華潤集團董事長王祥明、總經理王崔軍一行。林武、王祥明分別介紹了山東省、華潤集團發展情況，圍繞醫藥健康產業發展、新能源開發利用、新型消費培育壯大、城市建設運營、新材料產業提檔升級等交換了意見，表示將在良好合作的基礎上，全面深化戰略合作，共同推動各類合作專案建設提速增效，加強“十五五”時期重大專案謀劃佈局，促進雙方合作向更深層次、更寬領域邁進，努力實現互利共贏、共同發展。
+
+---
+
+### 2026-06-22 22:36:05  #其他
+
+國際貨幣基金組織表示：塞內加爾重申有意簽署新一期 IMF 援助計劃。
+
+---
+
+### 2026-06-22 22:35:53  #市場
+
+哥倫比亞MSCI COLCAP指數下跌2.6%。
+
+---
+
+### 2026-06-22 22:35:48  #MKT News #RKLB.O #Impact bearish #PL.O #RDW.O
+
+U.S. space stocks tumbled: Planet Labs fell 4.7%, Satellogic fell 9.2%, Redwire fell 10.9%, SpaceX fell 10.0%, Rocket Lab fell 9.4% and Intuitive Machines fell 9.3%.
+
+---
+
+### 2026-06-22 22:35:24  #國際
+
+【菲律賓警方公佈校園槍擊案調查進展】據菲律賓媒體22日報道，菲律賓警方釋出通報，公佈了當天發生在萊特島塔克洛班市的校園槍擊案的最新調查進展。據警方通報，上午9時許，兩名槍手闖入塔克洛班市一所中學並開槍射擊，造成至少3名學生死亡、7人受傷，傷者仍在醫院接受救治。警方趕到現場後，在校內逮捕了一名15歲的嫌疑人，另一名14歲的嫌疑人逃跑數小時後也被抓獲。警方在現場發現超過40個彈殼，並從嫌疑人身上繳獲一支9毫米口徑手槍和一支0.38英寸口徑左輪手槍。菲律賓國家警察總部發言人艾倫在新聞釋出會上說，經初步調查，9毫米口徑手槍為當地一名女警官的配槍，該警官已被拘留並接受調查。另一支左輪手槍登記資訊顯示，該槍屬菲律賓宿務市一家安保機構所有。目前，警方正在調查嫌疑人的作案動機。菲律賓國家警察總監納塔特斯發表宣告，向遇難者家屬致以慰問，並承諾“將採取一切必要措施伸張正義”。（新華社）
+
+---
+
+### 2026-06-22 22:34:34  #其他
+
+【英國工黨黨魁熱門人選伯納姆正式宣誓就任議員】當地時間22日，英國大曼徹斯特前市長安迪·伯納姆在英國議會正式宣誓就任梅克菲爾德選區議員，完成其重返英國下議院的最後程式。伯納姆於上週舉行的議會補選中勝出，併成功當選議員。根據英國議會慣例，新當選議員需向英國國王宣誓效忠後，方可正式履職並在下議院擁有投票權和發言權。當天，伯納姆在工黨議員安妮莉絲·米德格利和喬·普拉特的陪同下完成宣誓儀式。當天早些時候，英國首相斯塔默在唐寧街10號首相府前發表講話說，他將辭去英國工黨黨首職務，但在繼任者選出之前，他將繼續擔任英國首相。隨後，伯納姆宣佈參選工黨領袖。隨著多位工黨重量級人物公開表態支援，英國媒體普遍認為，伯納姆已經成為接替斯塔默、角逐英國下一任首相職位的最熱門人選。（央視新聞）
+
+---
+
+### 2026-06-22 22:34:01  #其他
+
+國際貨幣基金組織關於塞內加爾的宣告：代表團對塞內加爾當局持續保持溝通、承諾解決過往錯報問題暴露出來的脆弱性表示歡迎。
+
+---
+
+### 2026-06-22 22:33:55  #MKT News #Nasdaq100 #Impact bearish
+
+Nasdaq-100 turns negative.
+
+---
+
+### 2026-06-22 22:33:54  #其他
+
+國際貨幣基金組織：塞內加爾當局重申對基金組織支援的新規劃的興趣。
+
+---
+
+### 2026-06-22 22:33:49  #MKT News
+
+IMF said its team held open and constructive technical discussions with Senegalese authorities.
+
+---
+
+### 2026-06-22 22:33:48  #其他
+
+國際貨幣基金組織就塞內加爾問題表態：該組織還歡迎進行機構改革以統一債務管理職能，認為這是在誤報事件中採取的關鍵糾偏措施。
+
+---
+
+### 2026-06-22 22:33:39  #MKT News
+
+IMF staff concluded their visit to Senegal.
+
+---
+
+### 2026-06-22 22:33:38  #公司 #市場 #國際
+
+美國航天概念股股價暴跌。Planet Labs股價下跌4.7%，Satellogic股價下跌9.2%，Redwire股價下跌10.9%。、SpaceX股價下跌10%，火箭實驗室（Rocket Lab）股價下跌9.4%，直覺機器公司（Intuitive Machines）股價下跌9.3%。 朗希爾太空科技 ETF 下跌 6.2%，Procure 太空 ETF 下跌 3.8%。
+
+---
+
+### 2026-06-22 22:33:30  #市場
+
+納斯達克100指數轉跌。
+
+---
+
+### 2026-06-22 22:32:41  #其他
+
+國際貨幣基金組織（IMF）：國際貨幣基金組織工作組與塞內加爾官方進行了公開且富有建設性的技術磋商。
+
+---
+
+### 2026-06-22 22:32:37  #公司 #市場
+
+【股價大跌11.87%，鼎陽科技獨家回應】鼎陽科技6月22日股價大跌。截至收盤，公司股價報68.75元/股，收盤跌幅為11.87%。市場觀點認為，本輪上漲主要依靠英偉達光通訊產業鏈題材炒作，股價短期內漲幅較大，獲利資金集中踩踏。此外，公司應收賬款較高，一季度業績“增收不增利”。對於股價大跌，鼎陽科技方面回應記者，股價受多重因素影響。公司和英偉達關係不大。公司業務沒有明顯的週期性，一些產品和高校每年開學季採購有一定關係。（中證金牛座）
+
+---
+
+### 2026-06-22 22:32:22  #其他
+
+國際貨幣基金組織關於塞內加爾的訊息：IMF工作人員結束對塞內加爾的訪問。
+
+---
+
+### 2026-06-22 22:31:14  #公司
+
+【立訊精密：擬使用不超400億元閒置自有資金購買低風險銀行產品】立訊精密(002475)6月22日公告，為了提高資金使用效率和收益水平，在確保資金安全、操作合法合規的原則下，並且在不影響公司正常經營的情況下，公司及其控股子公司擬使用不超過400億元閒置自有資金進行現金管理，用於購買安全性高、流動性好、低風險的銀行理財產品。
+
+---
+
+### 2026-06-22 22:31:00  #宏觀
+
+土耳其財政部：截至五月底，中央政府債務存量為1.49891萬億里拉。
+
+---
+
+### 2026-06-22 22:30:30  #公司 #國際
+
+【UPS宣佈投資4800萬美元擴建全球溫控跨運設施網路】美國聯合包裹服務公司（UPS）6月22日宣佈，將投資4800萬美元，在全球範圍內建設27個溫控貨運轉運中心。這些中心分佈於美國及包括歐洲、亞洲和美洲在內的主要國際市場，旨在最佳化空運和陸運之間的快速運輸和短期儲存，同時滿足特定的溫度要求。
+
+---
+
+### 2026-06-22 22:30:28  #MKT News #Important #SPCX.O #Impact bearish
+
+SpaceX (SPCX.O) shares fell for a third straight session, intraday losses widening to 10%.
+
+---
+
+### 2026-06-22 22:29:43  #Trading Economics #Economy #Euro Area #Consumer Confidence #Importance 2
+
+Euro Area Consumer Mood Improves Amid Lower Oil — Consumer confidence in the Euro Area improved for a second consecutive month, rising by 1.3 percentage points to -17.7 in June 2026 from -19 in May, according to flash estimates. However, the reading came slightly below market expectations of -17.5. Sentiment also strengthened across the broader European Union, with the index improving to -17 from -18.2 in the previous month. The recovery comes as crude oil prices have eased in recent weeks, although they remain slightly above levels seen before the Middle East conflict began. Despite the improvement, consumer confidence remains below its long-term average and continues to sit below pre-conflict levels, highlighting ongoing concerns over economic uncertainty and household purchasing power.
+
+---
+
+### 2026-06-22 22:29:20  #市場 #焦點
+
+SPACEX股價連續第三個交易日下跌，跌幅達10%。
+
+---
+
+### 2026-06-22 22:29:19  #MKT News #S&P500 #Impact bearish
+
+S&P 500 turned lower.
+
+---
+
+### 2026-06-22 22:29:11  #其他
+
+Cloudflare 稱正在排查報錯率攀升問題。
+
+---
+
+### 2026-06-22 22:28:27  #市場
+
+標普500指數轉跌。
+
+---
+
+### 2026-06-22 22:27:07  #公司 #資料 #市場
+
+【谷歌股價下跌5% 上週諾獎科學家離開John Jumper谷歌】谷歌股價下跌5%，報349.660美元/股，總市值報4.26萬億美元。谷歌DeepMind的高階研究科學家John Jumper上週五宣佈離開，轉投Anthropic。Jumper表示，市場和行業變化是其離開的重要因素。AI人才戰爭已趨白熱化，頂級人才看重研究方向、組織開放及推動科學邊界的機會。
+
+---
+
+### 2026-06-22 22:26:57  #其他
+
+【局地氣溫超43攝氏度 法國逾800所學校停課】法國西部22日迎來本輪熱浪“最熱一天”，局地氣溫預計升至43攝氏度。法國教育部已下令全國逾800所學校停課。法國氣象局預報顯示，西南部城市波爾多22日下午最高氣溫可達43攝氏度，首都巴黎氣溫或升至39攝氏度。據法國教育部通報，全國6萬所學校中有超800所宣佈停課，另有1800所學校調整教學時間。自上週起，法國一些學校已建議家長讓孩子居家，或是中午接孩子離校，避免學生待在悶熱的教室裡。（新華社）
+
+---
+
+### 2026-06-22 22:26:30  #MKT News #Star Stocks #Alphabet #Market Themes #Magnificent 7 #GOOG.O #Impact bearish
+
+Alphabet (GOOG.O) shares fell to an intraday low, down 5%.
+
+---
+
+### 2026-06-22 22:26:29  #市場 #國際
+
+【美元兌日元一度逼近2024年高點 隨後快速走低】美元兌日元短暫升至161.90上方，隨後急速下挫至161.20。不過，此輪下跌已獲得買盤承接，匯率快速回升至161.65。日本官員多次發出警告，表示正在密切關注市場走勢。上週五，美元兌日元匯率錄得40年來最高周收盤價，而伊朗戰爭的結束似乎並未帶來緩解。今日早些時候的上漲已突破6月份高點161.80，但2024年7月盤中高點161.94仍未被突破（儘管已岌岌可危）。隨著財務省面臨考驗，日元交易將進入一段充滿變數的時期。
+
+---
+
+### 2026-06-22 22:26:18  #公司 #觀點
+
+【太合音樂集團遞表港交所】6月22日，港交所檔案顯示，太合音樂集團向港交所提交上市申請書，聯席保薦人為Deutsche Bank、中信建投國際。
+
+---
+
+### 2026-06-22 22:26:10  #公司 #市場
+
+谷歌股價下跌5%，報349.660美元/股，總市值報4.26萬億美元。
+
+---
+
+### 2026-06-22 22:25:52  #市場 #央行 #國際
+
+【美銀：利空因素猶存，但黃金股估值具備吸引力】美國銀行表示，儘管美元走強、美聯儲鷹派政策壓制金價，黃金類股票仍擁有誘人估值。該行指出，黃金股當前隱含金價約每盎司 3354 美元，較現貨金價折價約 19%；財政赤字、去美元化趨勢以及各國央行持續大舉購金，將為金價提供長期支撐。美銀維持樂觀判斷，稱新興市場央行購金需求持續，即便短期市場波動加劇，部分黃金礦業企業仍存在顯著上漲空間。
+
+---
+
+### 2026-06-22 22:25:50  #MKT News #Important #Market Regions #Japan & APAC #USDJPY #Impact mixed
+
+【USD/JPY briefly nears 2024 high, then retreats】USD/JPY briefly rose above 161.90 before plunging to 161.20; bids then lifted it back to 161.65. Japanese officials have repeatedly warned they are closely monitoring the market. Last Friday produced the highest weekly close in 40 years, and the reported end of the Iran war appears not to have eased pressure. Earlier gains broke June resistance at 161.80, but the July intraday high of 161.94 remains unbroken though under threat. With Japan's Ministry of Finance under pressure, yen trading is likely to remain volatile.
 
 ---
 
@@ -21298,264 +21556,5 @@ Israel's minister of diaspora affairs Amichai Chikli said Israel will "sooner or
 ### 2026-06-21 10:40:44  #公司
 
 【AI投資熱潮向上遊擴散 美股多家半導體裝置龍頭今年翻倍】回顧年初至今的美股市場，不僅半導體、光通訊等AI硬體板塊集體狂飆，產業鏈上游的半導體裝置賽道亦同步走出亮眼升勢。據統計，美股總市值超百億美元的9家半導體裝置公司，今年以來股價漲幅均已超過75%。其中，應用材料、拉姆研究、科磊、泰瑞達、MKS Inc、英特格、Onto Innovation Inc這7只個股年內股價實現翻倍。就產業邏輯而言，種種跡象表明，半導體裝置正迎來機構所謂的“賣方市場”。
-
----
-
-### 2026-06-21 10:33:38  #公司
-
-【好奇公佈紙尿褲最新檢測結果：未檢出甲醯胺，各項指標合格】6月21日，好奇品牌公告，近期，公司已對全系列的好奇紙尿褲產品進行復核覆檢，目前已獲取的第三方檢測結果均顯示：未檢出甲醯胺，各項指標合格。同時，公司已配合相關部門對好奇產品展開全面獨立抽檢，公司會持續積極跟進結果儘快出示，回應家長們的關切、消除大眾顧慮。
-
----
-
-### 2026-06-21 10:28:18  #其他
-
-中國地震臺網正式測定：06月21日10時19分在西藏阿里地區日土縣（北緯33.72度，東經81.14度）發生3.6級地震，震源深度10千米。
-
----
-
-### 2026-06-21 10:25:07  #MKT News
-
-【Qunar: searches for historic towns triple during Dragon Boat Festival holiday】Qunar data on June 21 show Dragon Boat Festival travel demand concentrated in nearby and folk tourism. Bookings for small cities marketed as “20°C cool” rose over 40% YoY, searches for distinctive historic towns tripled, and car-rental orders increased 60%. In the week to June 21, summer flight bookings jumped 65% week-on-week; family travelers accounted for more than 60% of bookings.
-
----
-
-### 2026-06-21 10:23:47  #其他
-
-【去哪兒旅行：端午假期特色古鎮搜尋量增長3倍】6月21日，去哪兒旅行資料顯示，今年端午期間，周邊遊、民俗遊火熱，特別是一批擁有“20度清涼”的熱門小城預訂量同比增長超40%，特色古鎮搜尋量增長3倍，租車訂單量增六成。截至6月21日，近一週預訂暑期出行機票量環比上週大幅增長65%，家庭遊客佔比超六成。
-
----
-
-### 2026-06-21 10:18:56  #其他
-
-【京東618酒水銷售同比增長25%】6月19日，京東酒業釋出“京東名酒618巔峰戰報”，統計時間為5月13日00:00至6月18日24:00。戰報顯示，京東酒類銷售同比增長25%，成交破新高。
-
----
-
-### 2026-06-21 10:12:44  #國際
-
-【烏入盟進入談判階段 歐盟內部分歧顯現】當地時間18日至19日，歐盟夏季峰會在布魯塞爾舉行。峰會期間，烏克蘭總統澤連斯基再次敦促歐盟加快烏克蘭入盟談判程序。不過，隨著烏克蘭入盟議題進入實質推進階段，歐盟成員國在擴員節奏、財政負擔以及制度改革等問題上的分歧也逐漸顯現。（央視新聞）
-
----
-
-### 2026-06-21 10:11:06  #國際
-
-【歐洲多國持續遭遇高溫天氣】持續的熱浪近日席捲了歐洲多國。20日，德國、法國、義大利等歐洲多國繼續遭遇高溫天氣。20日，熱浪席捲德國大部分地區，德國氣象局再次釋出高溫預警。氣象學家表示，高溫天氣仍將持續，德國西南部地區的氣溫甚至可能達到40攝氏度。受高溫天氣影響，德國勃蘭登堡州的部分道路受損。專家稱，德國今年6月份的極端高溫可能會接近2019年創下的最高紀錄。（央視新聞）
-
----
-
-### 2026-06-21 10:10:28  #公司
-
-【中國大唐集團有限公司原黨組管理幹部付東接受審查調查】中央紀委國家監委網站6月21日通報，據中央紀委國家監委駐中國大唐紀檢監察組、黑龍江省紀委監委訊息：中國大唐集團有限公司原黨組管理幹部付東涉嫌嚴重違紀違法，目前正接受中央紀委國家監委駐中國大唐紀檢監察組紀律審查和黑龍江省齊齊哈爾市監察委員會監察調查。
-
----
-
-### 2026-06-21 10:09:42  #其他
-
-中國地震臺網正式測定：06月21日10時04分在青海海西州直轄區（北緯37.89度，東經95.56度）發生3.2級地震，震源深度10千米。
-
----
-
-### 2026-06-21 10:08:41  #國際
-
-【黎巴嫩民眾：以色列自1948年以來就失去了信譽】黎巴嫩民眾表示，他們已經習慣了以軍前後矛盾的做法。對黎巴嫩民眾來說，以色列早就失去了信譽。自1948年以來，以色列就已經失去了信譽，而不是從現在才開始失去信譽。從1948年開始，他們就總是在騙人，他們嘴上說，停火、停火，然後在暗中做好準備，隨時發動襲擊。他們聲稱已經停火，然後再對你發動襲擊。提爾地區的居民表示，一切仍與往常一樣，以軍的戰機在空中盤旋，襲擊時有發生，根本沒有所謂的停火。（央視）
-
----
-
-### 2026-06-21 10:07:27  #MKT News #Brent #Impact bullish #XAUUSD #DXY
-
-【Lebanese say Israel has long lost credibility】Lebanese residents say they have grown accustomed to contradictory actions by the Israeli military and that Israel has lost credibility since 1948, routinely announcing ceasefires while secretly preparing strikes. Residents in the Tyre area report Israeli warplanes circling and intermittent airstrikes, saying there is no actual ceasefire.
-
----
-
-### 2026-06-21 10:06:19  #MKT News
-
-【China summer grain sowing nearly 70% complete】The Ministry of Agriculture and Rural Affairs said its latest crop bulletin shows nationwide summer grain sowing is about 70% complete. Major grain-producing regions have widely adopted seed-and-fertilizer simultaneous-sowing technology this year, which the ministry says has effectively improved planting quality.
-
----
-
-### 2026-06-21 10:05:30  #MKT News
-
-【Los Angeles declares emergency after multi-day warehouse fire】Los Angeles declared a local emergency on June 20 after a large commercial storage facility ignited on June 17. The blaze has persisted for several days and produced heavy acrid smoke across surrounding neighborhoods; Mayor Bass said the declaration is to secure needed resources and protect community safety.
-
----
-
-### 2026-06-21 10:04:03  #其他
-
-蔚來：ET9地平線特別版全新主題「極境逐光」，全球限量99臺。 整車售價83.8萬元起；採用BaaS電池租用方式購買，售價73萬元起，同時可享使用者權益靈活選擇方案。
-
----
-
-### 2026-06-21 10:02:28  #其他
-
-【廣西南寧：新能源智慧船舶完成試航】6月20日，中技船舶首批9艘新能源船舶集中試航儀式在廣西南寧港舉行。9艘船舶包含無人駕駛智慧船、商用作業船、民用休閒船，適配執法巡邏、景區觀光等各類場景，助力內河航運綠色轉型。（新華社）
-
----
-
-### 2026-06-21 09:57:08  #其他
-
-【馬寧出示6張黃牌 庫拉索收穫隊史首個世界盃積分】在剛剛結束的美加墨世界盃E組小組賽中，庫拉索隊0:0戰平厄瓜多隊，收穫隊史首個世界盃積分。主裁判馬寧出示6張黃牌。本場比賽有三名中國裁判同場執法，創造中國足球歷史。馬寧擔任主裁判，周飛擔任助理裁判，傅明擔任影片助理裁判（VAR）。比賽中，主裁判馬寧向厄瓜多、庫拉索兩隊分別出示1張和5張黃牌；全場比賽沒有出現紅牌。馬寧成為時隔24年再度主哨世界盃的中國裁判，他也是唯一一位連續兩屆入選世界盃裁判名單的中國裁判。他曾在2022年卡達世界盃6次擔任第四官員。（新華社）
-
----
-
-### 2026-06-21 09:56:11  #公司
-
-ANTHROPIC執行長：人工智慧公司需要“數千億美元”收入，否則將面臨生存風險。
-
----
-
-### 2026-06-21 09:55:35  #MKT News
-
-According to Lighthouse Pro real-time data, Toy Story 5's cumulative box office exceeded CNY100 mln on its third day of release.
-
----
-
-### 2026-06-21 09:51:53  #國際
-
-【巴外交部：巴基斯坦將繼續支援並推進美伊諒解備忘錄執行】巴基斯坦外交部21日釋出宣告說，巴基斯坦總理夏巴茲·謝里夫及巴基斯坦陸軍參謀長穆尼爾已啟程前往瑞士參加關於落實美伊諒解備忘錄的高階別會談。來自伊朗、卡達和美國的高階代表團也將參與此次會談。巴外交部稱，此次會談標誌著自6月17日簽署美伊諒解備忘錄以來的首次正式接觸。巴基斯坦將繼續支援並推進美伊諒解備忘錄的執行。 (央視新聞)
-
----
-
-### 2026-06-21 09:49:04  #其他
-
-【玩具總動員5票房破億】據燈塔專業版實時資料，截至6月21日9時47分，影片《玩具總動員5》票房突破1億。
-
----
-
-### 2026-06-21 09:46:09  #國際
-
-【美軍否認霍爾木茲海峽被關閉】伊朗武裝部隊哈塔姆·安比亞中央司令部當地時間6月20日發表宣告稱，由於美國公然違背承諾，未履行旨在結束戰爭的諒解備忘錄條款，同時以色列持續違反停火協議，不斷襲擊黎巴嫩南部，伊朗決定關閉霍爾木茲海峽。美軍中央司令部發言人當天表示，霍爾木茲海峽交通仍然暢通，美軍正繼續在海峽周邊海域開展行動。（CCTV國際時訊）
-
----
-
-### 2026-06-21 09:43:34  #其他
-
-【報道：特斯拉加速推進人工智慧與機器人戰略，申請註冊 “Amazing Abundance” 商標】據報道，特斯拉已正式提交 “Amazing Abundance” 商標註冊申請，此舉表明企業將進一步深耕長期發展願景，核心佈局人工智慧、人形機器人、自動駕駛系統，並依託自動化技術實現生產成本大幅下降的未來圖景。
-
----
-
-### 2026-06-21 09:42:18  #其他
-
-ADP調研：人工智慧非但沒有減少工作量，反而催生更多無薪加班。
-
----
-
-### 2026-06-21 09:41:22  #國際
-
-巴基斯坦總理預計將會見伊朗、卡達、美國相關方。
-
----
-
-### 2026-06-21 09:39:45  #國際
-
-市場訊息：伊朗方面表示，此次瑞士對話的結果將明確華盛頓是否真的有意願進入第二階段談判。
-
----
-
-### 2026-06-21 09:39:18  #MKT News
-
-IRNA: Iran said the outcome of talks in Switzerland will clarify whether Washington truly intends to enter second-stage negotiations.
-
----
-
-### 2026-06-21 09:38:19  #國際
-
-【伊朗足協宣佈投訴美國後 白宮官員：將繼續評估 目前原定計劃不變】伊朗足協19日釋出宣告，宣佈將就世界盃賽事期間，伊朗隊在美國遭遇的行程安排不公問題，向國際足聯提出正式投訴。據報道，白宮國際足聯工作組執行總監安德魯·朱利亞尼當地時間20日在接受媒體採訪時表示，儘管伊朗隊提出投訴，但美方將繼續評估伊朗隊在世界盃期間的行程安排，目前原定計劃保持不變。 (環球網)
-
----
-
-### 2026-06-21 09:36:06  #國際
-
-【以色列代表與聯合國官員在會上激烈爭吵】當地時間19日，以色列常駐聯合國代表丹尼·達農和聯合國兒童與武裝衝突問題特別代表瓦妮薩·弗雷澤在會議上爆發激烈爭吵。達農在會上對此前以色列被列入聯合國衝突中性暴力報告的“黑名單”一事表示不滿，並指責聯合國衝突中的性暴力問題秘書長特別代表帕滕是屈服於壓力，弗雷澤以“程式問題”及“不得人身攻擊”為由打斷達農發言。雙方隨即陷入爭吵。（央視新聞）
-
----
-
-### 2026-06-21 09:35:55  #MKT News
-
-【Israel's UN envoy and UN official clash at meeting】On June 19, Israel's UN ambassador Danny Danon and the UN Special Representative for Children and Armed Conflict, Vanessa Frezer, exchanged a heated argument at a meeting. Danon objected to Israel's inclusion on a UN list of parties credibly linked to conflict-related sexual violence and accused the Secretary-General's special representative on sexual violence in conflict, Patten, of bowing to pressure. Frezer interrupted, citing procedural rules and barring personal attacks, and the exchange escalated.
-
----
-
-### 2026-06-21 09:34:53  #國際
-
-市場訊息：伊朗議會議長抵達瑞士參與伊巴諒解備忘錄談判。
-
----
-
-### 2026-06-21 09:30:53  #公司 #市場
-
-【10倍儲存牛股 本週限售股解禁】據統計，本週（6月22日至26日）A股將有49家公司有限售股份解禁，合計解禁數量27.63億股，以最新收盤價計算（下同），總解禁市值達549.08億元。這批解禁股中包含多隻儲存、光通訊等強勢板塊牛股。儲存牛股兆易創新本週解禁市值為4.07億元。6月17日，公司釋出股權激勵行權結果，行權股票數量共計125萬股，本次上市流通數量為64.71萬股，本次行權人員合計37人，以58.09元/股的行權價和最新股價計算，125萬股行權後合計盈利7.14億元，人均盈利達1928萬元。該股自2025年以來，累計漲近5倍，相比2024年低點，已漲超10倍。本週解禁個股集中度較高，有15家公司解禁市值超10億元，合計解禁市值約485.93億元。珠城科技、新恆匯解禁市值均超過50億元。(證券時報)
-
----
-
-### 2026-06-21 09:29:39  #國際
-
-市場訊息：以色列與真主黨衝突已被納入瑞士和平談判首日議程。
-
----
-
-### 2026-06-21 09:29:19  #MKT News #XAUUSD #Impact bullish #DXY #WTI
-
-US broadcaster CBS reports the Israel–Hezbollah conflict has been added to the agenda for the opening day of peace talks in Switzerland.
-
----
-
-### 2026-06-21 09:25:17  #公司 #國際
-
-【Babycare就紙尿褲事件再發宣告】6月21日凌晨，Babycare就嬰兒紙尿褲事件再發宣告：關注到相關報道後，公司第一時間委託權威第三方檢測機構，對全系列紙尿褲產品加急複檢。為確保嚴謹性，公司在歐盟REACH法規SVHC檢測要求之外，額外增加了SN/T 3587-2016（進出口紡織品醯胺類有機溶劑殘留量的測定）檢測。目前，在售全系列產品依據歐盟REACH法規SVHC要求完成的檢測報告均已出具，結果均為“未檢出”，特此公示。依據SN/T 3587-2016標準，公司已取得23個產品的檢測報告，結果同樣均為“未檢出”。其餘產品的檢測仍在進行中，公司將持續更新檢測進度，出一批公示一批，絕不迴避，也歡迎各界監督。為進一步確認產品安全性，公司還全面排查了紙尿褲生產的原材料和生產裝置端，相關合規檢測報告顯示均為“未檢出”。
-
----
-
-### 2026-06-21 09:17:29  #MKT News
-
-Pakistan's Foreign Ministry said the prime minister is expected to hold bilateral meetings with attending delegations during the talks.
-
----
-
-### 2026-06-21 09:17:28  #國際
-
-巴基斯坦外交部：預計總理將在會談間隙與各參會代表團舉行雙邊會晤。
-
----
-
-### 2026-06-21 09:15:44  #MKT News
-
-Pakistan Foreign Ministry says Pakistan will continue to support implementation of the understanding reached between Iran and the US.
-
----
-
-### 2026-06-21 09:14:25  #MKT News
-
-Pakistan's foreign ministry said Prime Minister Sharif and Marshal Munir traveled to Bürgenstock, Switzerland, to attend talks on implementing a memorandum of understanding.
-
----
-
-### 2026-06-21 09:11:56  #國際
-
-【伊朗總統會見巴基斯坦內政部長】當地時間6月20日，伊朗總統佩澤希齊揚在伊朗首都德黑蘭會見了到訪的巴基斯坦內政部長納克維。雙方就伊美之間簽署的諒解備忘錄進行了磋商。同一天，伊朗外長阿拉格齊也與納克維進行了會面。（央視新聞）
-
----
-
-### 2026-06-21 09:06:36  #市場
-
-【酒價內參6月21日價格釋出：精品茅臺水晶劍南春領漲 總價創三日新高】新浪財經“酒價內參”過去24小時收集的資料顯示，中國白酒市場主要大單品的終端零售均價6月21日整體低位反彈。如果主要單品各取一瓶整體打包售賣，今日總售價為9899元，較昨日大幅上漲24元，結束此前連續五日回落走勢並創下三天以來最高，終端交投情緒有所回暖，但核心單品的漲跌分化依然顯著。
-今日11大白酒單品七漲四跌，贏家佔據明顯優勢。上漲方面，精品茅臺與水晶劍南春漲幅居前，均上漲6元/瓶，其中前者自近一月最低位反彈，平近一月來最大單日漲幅紀錄，後者創下近一月最大日漲幅，自昨日的近一月最低位快速反彈至近一月次高位；國窖1573與青花郎均上漲5元/瓶；古井貢古20上漲4元/瓶，自近一月次低位反彈，結束此前五連陰；洋河夢之藍M6+與青花汾20均上漲3元/瓶，前者收穫三連陽，價格由月內低位快速攀升至近一月最高位，後者同樣實現低位三連漲。下跌方面，五糧液普五八代與五糧液1618均下跌3元/瓶，其中前者已四連陰，價格快速下探並再度失守800元關口，平近一月最低價紀錄，後者連續兩日回落並創下近一月最低價；飛天茅臺與習酒君品均小幅下跌1元/瓶。
-
----
-
-### 2026-06-21 09:01:50  #公司
-
-【長三角鐵路今迎返程客流最高峰：預計傳送354萬人次，同比增長1.1%】長三角鐵路今迎返程最高峰。6月21日，記者從中國鐵路上海局集團有限公司（以下簡稱“上鐵集團”）獲悉，今日是2026年端午假期最後一天，長三角鐵路迎來返程客流最高峰，今日預計傳送旅客354萬人次，較去年同期增加1.1%。鐵路部門統籌運力、最佳化服務，全力應對集中到達與出發客流，保障旅客出行平穩有序。（澎湃新聞）
-
----
-
-### 2026-06-21 08:59:25  #市場
-
-富國銀行：極度看好後市，預測標普500指數到2027年底將飆升至8600-8800點。
-
----
-
-### 2026-06-21 08:59:16  #MKT News #S&P500 #Impact bullish
-
-Wells Fargo says it is extremely bullish and forecasts the S&P 500 will rise to 8,600-8,800 by end-2027.
 
 ---

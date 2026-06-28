@@ -1,7 +1,211 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-06-28 08:56:26_
-_本檔包含 3879 則快訊，約 669714 字_
+_更新時間：2026-06-28 10:35:05_
+_本檔包含 3853 則快訊，約 669458 字_
+
+---
+
+### 2026-06-25 07:26:31  #MKT News #Market Regions #Europe & UK
+
+【UK car production up in May for first time, driven by surge in US exports】The Society of Motor Manufacturers and Traders (SMMT) said UK car production rose 2.7% YoY in May to 51,178 units, ending four months of decline and driven by an 83.1% jump in exports to the US. Passenger car output was up 3.2% YoY at 49,249 units; commercial vehicle production fell 7.6% to 1,929. Exports to the EU and China slipped 5.2% and 14.3% respectively. SMMT warned high energy costs, trade risks and weak EV demand continue to threaten competitiveness; CEO Mike Hawes said manufacturers have invested billions in zero‑emission technology but weak underlying demand and rising compliance costs risk competitiveness, jobs and future investment. Total UK car production for Jan–May was down 8.7% YoY at 317,779 units.
+
+---
+
+### 2026-06-25 07:26:07  #其他
+
+【高通預計到2029財年資料中心AI元件銷售額將超150億美元】高通當地時間6月24日釋出最新展望，預計到2029年，除手機業務外，其他業務的年收入將達到400億美元，是兩年前長期預測的兩倍；預測到2029財年在資料中心AI元件市場的銷售額將超過150億美元。
+
+---
+
+### 2026-06-25 07:25:59  #公司 #市場 #國際
+
+【年內股價回撤較大的部分低估值核電概念股一覽】當地時間6月23日，美國能源部宣佈，將向公用事業公司和能源企業提供總額175億美元的貸款支援，以加快全美10座大型核反應堆的建設和部署。AI資料中心的快速擴張，正給美國電力系統帶來前所未有的壓力。華源證券分析，AI資料中心帶來的新增電力需求為未來十年的核電覆興提供了堅實基礎。從產業趨勢看，全球核能正在從傳統公用事業資產逐步演變為AI時代的核心基礎設施。據證券時報·資料寶統計，截至6月24日收盤，滾動市盈率低於40倍的核電概念股有18只。華能國際滾動市盈率為8.39倍，排在最低位置。公司旗下聯營企業包括霞浦核電、石島灣核電。盾安環境、久立特材、海陸重工、浙富控股、上海電力滾動市盈率介於10倍至20倍之間。從股價表現來看，以6月24日收盤價與年內高點相比，上述18只核電概念股中，8股回撤幅度超30%，包括常輔股份、中國核建、沃爾核材、海陸重工、寶鈦股份等。常輔股份回撤幅度最高，達到50.69%。
+
+---
+
+### 2026-06-25 07:25:41  #Trading Economics #Economy #United Kingdom #Car Production #Importance 1
+
+UK Car Production Rises for 1st Time in 5 Months — UK car production increased by 3.2% year-on-year to 49,249 units in May 2026, rebounding from a 0.7% decline in the previous month. This marked the first month of rise since last December, as overseas demand improved while domestic production remained broadly stable. The recovery in exports helped lift overall vehicle manufacturing despite lingering uncertainty surrounding global trade conditions and the impact of tariffs. Car exports strengthened during the month, with the United States recording the largest increase among major export markets, surging 83% to 7,733 units, supported by the implementation of the US-UK trade agreement. However, exports to the European Union, the UK's largest market, declined 5.2% to 20,057 units, while shipments to China fell 14% to 2,794 units. Overall UK vehicle production rose 2.7% to 51,178 units, while commercial vehicle output dropped 7.6% to 1,929 units.
+
+---
+
+### 2026-06-25 07:23:50  #其他
+
+【首設人工智慧專區 創新應用集中亮相鏈博會】第四屆中國國際供應鏈促進博覽會正在北京舉行，本屆鏈博會把數字科技鏈升級為數智科技鏈，同時首次設立人工智慧專區，完整呈現從資料採集、智慧計算到行業場景落地的全鏈條產業生態，一大批人工智慧創新應用集中亮相。（央視）
+
+---
+
+### 2026-06-25 07:23:44  #公司
+
+【大眾集團將埃維能多數股權售予貝恩資本】6月25日，大眾集團宣佈已與貝恩資本簽訂獨家協議，出售其持有的埃維能（Everllence）多數股權——將轉讓51%的股份。根據與貝恩資本簽訂的獨家協議，大眾集團將出售其持有的埃維能51%的股份，並計劃在中期內繼續作為持股49%的主要股東。此項擬議的槓桿收購交易將為大眾集團帶來約74億歐元的收益。埃維能總部位於德國，在全球140多個地點擁有約1.6萬名員工。
+
+---
+
+### 2026-06-25 07:23:26  #其他
+
+【三季度投資視窗期即將來臨 多家公募發行冷門行業ETF】三季度投資視窗期即將來臨，公募基金開始以ETF新品的方式，對冷門和低配的傳統行業進行試探性佈局。今年以來，科技與非科技主題基金的業績差距迅速拉大，有關風格切換的討論也日漸增多。雖然擁抱科技的主動權益基金不會輕易換倉，但多家頭部公募正在以ETF的方式開始切入。6月末，多家公募密集發行工程機械、食品消費、家電、生物醫藥等前期較為冷門的行業ETF，試圖挖掘被低估的投資機會。
+
+---
+
+### 2026-06-25 07:22:11  #公司 #市場
+
+【利益繫結 良性共振 公募自購頻頻命中“績優基”】在今年科技投資的浪潮中，作為專業投資者，公募機構積極投身其中。憑藉對AI主線的重倉把握，一些基金公司自購的部分基金產品獲得了豐厚的回報。比如，財通基金今年1月自購的財通成長優選A如果持有至今，回報率或突破140%；另外，融通基金2月成立的發起式新產品融通科技臻選A目前回報率已翻倍，基金公司原始投入的1000萬元已實現回本。在公募行業降費讓利的大背景下，自有資金的投資回報在一定程度上能夠為公募機構尤其是中小機構提供經營利潤補充。業內人士透露，公募機構自有資金投資的出發點並非追求短期利潤最大化，而是基於專業判斷進行中長期資產配置。利益捆綁機制能夠將公募機構利益和產品業績、基民投資體驗高度繫結，力爭形成良性共振。透過真金白銀的風險共擔、強化投研責任約束，以主業的高質量發展對沖降費影響，才是更具持續性的盈利路徑。（中國證券報）
+
+---
+
+### 2026-06-25 07:21:44  #公司
+
+【四川國資整合產業版圖 兩大萬億平臺“分工換擋”】近兩年來，四川國資體系密集推進系列資產置換與專業化整合，一場覆蓋交通基建、軌道交通、清潔能源、裝備製造的系統性資產重組全面推進。日前，新築股份重大資產重組方案獲深交所受理，四川路橋完成橋樑部件資產收購相關表決，蜀道投資集團有限責任公司與四川發展（控股）有限責任公司兩大省級萬億級國資平臺業務邊界進一步釐清。
+
+---
+
+### 2026-06-25 07:20:14  #MKT News
+
+U.S. tsunami warning system says earthquake in Venezuela no longer poses a tsunami threat.
+
+---
+
+### 2026-06-25 07:20:07  #國際
+
+美國海嘯預警系統：委內瑞拉地震引發的海嘯預警現已對波多黎各、美屬維爾京群島和英屬維爾京群島取消。
+
+---
+
+### 2026-06-25 07:19:32  #國際
+
+美國海嘯預警系統：委內瑞拉地震不再構成海嘯威脅。
+
+---
+
+### 2026-06-25 07:19:05  #公司
+
+【英偉達谷歌AI液冷路線亮相 A股公司全產業鏈佈局】近期，AI液冷技術路徑再度成為業內討論的焦點。谷歌推出Brazos技術路線，大幅提升傳統資料中心效能。英偉達在其官方部落格發文介紹了Rubin全液冷方案。這意味著散熱正成為行業關注的問題。業內人士表示，當前資料中心製冷三類技術路線並存。由於全球各地基建配套、地理氣候條件存在差異，未來資料中心或以液冷為核心，與其他路線並行。目前，國內多家上市公司已佈局AI液冷，覆蓋冷板、CDU等零部件、製冷液、整機裝置等全產業鏈環節。（上海證券報）
+
+---
+
+### 2026-06-25 07:18:23  #其他
+
+市場訊息：美伊達成協議後，卡達與沙烏地阿拉伯商討地區安全事宜。
+
+---
+
+### 2026-06-25 07:17:36  #市場
+
+【6月以來機構密集調研的算力硬體概念股名單出爐】全球高效能運算格局迎來變化，國產自研超算一舉奪得全球算力榜首。此次突破覆蓋晶片、儲存、散熱等算力硬體全產業鏈，帶動算力硬體賽道熱度走高。據證券時報·資料寶統計，A股中佈局算力晶片、HBM和液冷散熱三大算力硬體板塊的個股共有116只。6月以來，算力硬體概念股平均上漲19.05%，其中中巨芯-U累計上漲130.8%，居首；華正新材、唯特偶和盛美上海緊隨其後，分別上漲89.58%、87.38%和75.59%。6月以來，21只算力硬體概念股獲機構調研，其中11只備受機構關注，獲機構調研家數在10家及以上，盛美上海、精智達、奧比中光-W獲機構調研家數居前，分別達到129家、88家、71家。
+
+---
+
+### 2026-06-25 07:16:46  #其他
+
+【多地農商銀行啟動全員清收行動】近期，多家農商銀行集中開展全員清收行動。這既反映出農商銀行改善資產質量的需求，也是銀行落實監管要求的體現。事實上，各類不良資產處置方式各有適用範圍，全員清收方式能夠利用銀行員工的本地關係網，最適配清收筆數多、單筆金額小的農戶信用貸款和個體工商戶經營性貸款。在短期突擊壓降不良貸款規模後，如何建立改善資產質量的長效機制是各家農商銀行要著力解決的問題。（中證報）
+
+---
+
+### 2026-06-25 07:16:00  #公司 #市場
+
+【A股公司年度“紅包”派發進行時 “雙創”板塊成現金分紅硬核力量】Wind資料顯示，截至6月23日（按派息日計），今年已有2379家上市公司實施了2025年年度現金分紅，合計派發現金紅利7087.55億元。其中，工商銀行以601.97億元的分紅金額居首，中國移動、農業銀行、中國平安緊隨其後，分紅金額均超過300億元。從行業分佈來看，除銀行、證券等金融板塊外，通訊、電力裝置、醫藥生物、電子等行業已發放的分紅金額位居前列。值得注意的是，一批來自創業板、科創板的硬核科技企業正步入業績收穫期，並以持續高分紅回饋耐心陪跑的投資者。在監管持續引導、市場生態最佳化與企業內生驅動的三重合力之下，“真金白銀回饋投資者”正從監管要求加速內化為越來越多上市公司的自覺行為。（上海證券報）
+
+---
+
+### 2026-06-25 07:15:52  #公司 #國際
+
+西聯匯款：目前正等待美國一個州對Intermex交易的批准或無異議。公司與Intermex正積極與紐約州金融服務局及其他監管機構進行討論。
+
+---
+
+### 2026-06-25 07:15:09  #公司
+
+【高通宣佈將向微軟和Meta供貨最新AI晶片】高通週三披露，微軟、Meta將採用其全新AI晶片方案；同時公司還將為另外兩家未具名超大型雲廠商開發定製化晶片。這家全球智慧手機晶片龍頭企業舉辦投資者溝通會，正式落地資料中心AI晶片佈局。高通介紹，微軟將採用其全新高頻寬計算（HBC）晶片架構。該方案依託手機、筆記本通用的平價普通記憶體，而非英偉達高價HBM高頻寬記憶體、Cerebras所用靜態儲存SRAM，成本優勢突出。Meta則將搭載高通專為AI資料中心設計的自研CPU——Dragonfly C1000。（第一財經）
+
+---
+
+### 2026-06-25 07:14:41  #國際
+
+西聯匯款與Intermex就待定收購Intermex事宜提供最新進展：美國51個州及所有國際轄區的監管機構已批准該交易，或對該交易不持反對意見。
+
+---
+
+### 2026-06-25 07:13:50  #公司
+
+【多家A股公司主動補稅 折射企業稅務合規新常態】近期，多家A股上市公司釋出補稅公告，涉及電子、化工、醫藥、環保等行業，引發市場關注。記者採訪財稅專家及上市公司後瞭解到，補稅主要緣於上市公司開展的稅務合規自查，屬於常態化經營和法律合規行為。中山大學法學院教授楊小強表示，上市公司補稅公告多集中在5月下旬至6月上旬，主要原因是年報披露、彙算清繳與資訊披露三個時限節點交匯，形成釋出公告的視窗期。（上海證券報）
+
+---
+
+### 2026-06-25 07:13:33  #其他
+
+在倫敦市市長薩迪克·汗阻止交易後，大都會警察局獲准延長參與Palantir人工智慧專案。（衛報）
+
+---
+
+### 2026-06-25 07:12:22  #MKT News #Star Stocks #NVIDIA #Market Themes #AI Revolution #Magnificent 7 #NVDA.O #Impact bullish
+
+【Jensen Huang: AI infrastructure cycle will last decades】At NVIDIA's annual shareholder meeting, Jensen Huang told CNBC that questions about AI investment returns "already have answers." He described AI data centers as "token factories," saying tokens can become code, answers, designs, actions and services and that "each token is a unit of profit." Huang said NVIDIA's systems "may not be the cheapest, but produce tokens at the lowest cost, with the highest throughput and the most revenue." He flagged "physical AI"—robots, cars and factories that can sense, reason, plan and act—as the next growth wave, expressed optimism on long-term growth and ASIC competition, and said "this build-out will be measured in decades" with NVIDIA's infrastructure offering the "best inference economics."
+
+---
+
+### 2026-06-25 07:12:05  #公司 #資料 #市場
+
+【谷歌再傳兩名關鍵AI員工將離職】谷歌母公司Alphabet股價週三盤中跳水，知情人士稱，谷歌的兩名頂尖人工智慧（AI）研究人員Jonas Adler和Alexander Pritzel正計劃離職，轉投競爭對手Anthropic。這一訊息進一步加劇了外界對這家搜尋巨頭在AI領域領先地位可能被削弱的擔憂。就在上週，Google Gemini聯合負責人Noam Shazeer宣佈離開Google，加入已向SEC秘密提交IPO申請的OpenAI。2024年諾貝爾化學獎得主、AlphaFold核心領導者John Jumper隨後也宣佈將離開Google DeepMind加入Anthropic。
+
+---
+
+### 2026-06-25 07:11:38  #公司 #市場
+
+【美股晶片股盤後全線上漲】美光科技釋出財報後，美股晶片股盤後全線上漲，截至發稿，美光科技漲超14%，高通漲超13%，西部資料、閃迪、希捷科技漲超10%，ARM、應用材料漲超6%，阿斯麥漲超5%。美光科技最新財報顯示，公司預計第四財季經調整營收490億美元至510億美元，市場預期432.4億美元。
+
+---
+
+### 2026-06-25 07:11:19  #公司
+
+【德琪醫藥：擬按最高總代價5000萬港元購回股份】6月25日早間，德琪醫藥在港交所公告，於2026年6月24日，董事會已決議動用股份購回授權，並根據市況不時於公開市場按最高總代價5000萬港元購回股份。董事會可根據購回當時的市況及集團的資本管理需要，後續將購回的股份登出或由公司持作庫存股份。公司將以其內部資源為建議股份購回提供資金。
+
+---
+
+### 2026-06-25 07:10:53  #其他
+
+國際貨幣基金組織批准向茅利塔尼亞提供9580萬美元融資安排。
+
+---
+
+### 2026-06-25 07:10:05  #國際
+
+【委內瑞拉強震後多處建築受損】據中國地震臺網正式測定，今天（6月25日）6時4分在委內瑞拉發生7.1級地震，震源深度10公里，震中位於北緯10.35度，西經68.35度。首都加拉加斯震感強烈。根據社交媒體釋出的影片來看，委內瑞拉首都加拉加斯有建築倒塌和損壞。加拉加斯附近的玻利瓦爾國際機場內部也出現設施受損的情況。目前，官方傷亡和損失統計尚未釋出。美國海嘯預警系統在地震後釋出海嘯威脅警報。（CCTV國際時訊 ）
+
+---
+
+### 2026-06-25 07:09:46  #其他
+
+【美光高管：人形機器人的儲存容量是L2+汽車的十倍】在當地時間6月24日的2026財年第三季度業績交流會上，美光科技高管表示，人形機器人的儲存容量大約是L2+自動駕駛車輛的10倍，預計從這個10年（截至2030年）的後半部分開始，相關市場將開啟大規模、長達數十年的記憶體需求週期。
+
+---
+
+### 2026-06-25 07:09:25  #宏觀 #公司
+
+【央企“科改”“雙百”2025年度考核放榜，上市公司表現亮眼】近日，國務院國資委公佈中央企業“科改示範行動”“雙百行動”2025年度改革專項考核結果，評級分為標杆、優良、合格、不合格四個等級。作為國企改革深化提升行動高質量收官之年的關鍵“大考”，本次考核備受關注。從已公佈的情況來看，中國能建、中國西電、中鋁集團等多家央企取得歷史最佳成績，一批央企控股上市公司以“標杆”評級脫穎而出，改革紅利加速向資本市場傳導。（上證報）
+
+---
+
+### 2026-06-25 07:08:56  #其他
+
+【OpenAI釋出首款AI晶片】當地時間6月24日，OpenAI與博通聯合釋出首款定製晶片Jalapeño。這是一款專用積體電路（ASIC），專為大模型推理設計，從設計到流片僅用9個月時間。合作方中，OpenAI負責架構設計，博通負責流片、網路硬體，加拿大電子製造商Celestica提供板卡/機架整合配套。該晶片透過最佳化資料流動，提升推理效率並降低能耗。晶片工程樣片已完成實驗室驗證，計劃2026年底規模化落地，配套千兆瓦級資料中心叢集。
+
+---
+
+### 2026-06-25 07:08:48  #公司 #市場
+
+【美光高管：無法確定儲存供應何時能趕上增長的需求】當地時間6月24日，在美光科技2026財年第三季度業績交流會上，美光高管表示，公司預計行業供應將在2028年逐步改善，但目前無法確定儲存供應何時能趕上不斷增長的需求。當日美光科技跌0.37%，盤後漲超15%。
+
+---
+
+### 2026-06-25 07:07:21  #國際
+
+【委內瑞拉發生7.1級地震 引發海嘯預警】委內瑞拉當地時間週三晚間發生大地震，加拉加斯建築倒塌，部分手機訊號和電力線路中斷，加勒比海地區拉響海嘯警報。美國地質調查局稱，此次地震震級為7.1級，震中位於卡拉沃沃省蒙塔爾班西北約45公里（28英里）處。這是該國歷史上最嚴重的地震之一。加拉加斯餘震不斷，驚恐的市民滯留街頭。委內瑞拉當局和官方媒體尚未通報人員傷亡情況。海嘯預警中心表示，海嘯可能襲擊委內瑞拉海岸。太平洋海嘯預警中心在電郵宣告中稱，震中300公里內的海岸都可能遭受危險海嘯襲擊。報告稱，博內爾島、委內瑞拉、庫拉索島和阿魯巴島的沿海地區都可能出現海嘯。
+
+---
+
+### 2026-06-25 07:05:35  #公司 #市場
+
+三星電子首爾盤前在NexTrade漲7.8%，SK海力士漲6.7%。
 
 ---
 
@@ -23075,365 +23279,5 @@ Financial Times reported SpaceX (SPCX.O) drew roughly $90 bln of orders for a $2
 ### 2026-06-24 01:51:04  #Trading Economics #Markets #United States #stocks #Importance 1
 
 CME Stock Price Hits 16-month Low — CME shares decreased to 244.52 USD, the lowest since February 2025. Over the past 4 weeks, CME lost 13.42%, and in the last 12 months, it decreased 9.86%.
-
----
-
-### 2026-06-24 01:44:29  #MKT News
-
-【Paris's Louvre to close early for four days amid heat wave】On June 23 (local time) Paris's Louvre Museum said it will shorten daily hours from June 24–27, closing at 16:00 instead of 18:00, citing sustained high temperatures. The museum said heat is accumulating inside the historic building and, despite some heat resistance, it cannot fully cope with current conditions; combined with high visitor numbers, overheating is most pronounced in the afternoon.
-
----
-
-### 2026-06-24 01:44:16  #其他
-
-【受高溫天氣影響，巴黎盧浮宮將連續4天提前閉館】當地時間6月23日，法國巴黎盧浮宮博物館宣佈，受持續高溫天氣影響，自6月24日至27日，該館每日閉館時間由原定的18時提前至16時。盧浮宮方面表示，近期巴黎遭遇強烈高溫，這座歷史建築雖然具備一定耐熱能力，但整體上並不能充分適應當前氣候變化。隨著熱量在建築內持續積聚，加之遊客數量較多，館內高溫問題在下午時段尤為明顯。此前，巴黎埃菲爾鐵塔也已宣佈因高溫天氣調整開放時間。法國目前正遭受今年以來第二輪大範圍熱浪影響，多地持續釋出高溫預警。（央視新聞）
-
----
-
-### 2026-06-24 01:44:07  #MKT News
-
-Refinitiv/Ipsos poll: only 23% of Americans say U.S.-Iran ties are stronger post-war, while 35% say ties are weaker.
-
----
-
-### 2026-06-24 01:43:57  #MKT News
-
-Refinitiv/Ipsos poll: 52% of Americans say the Iran issue is not worth paying a price; 24% say it is.
-
----
-
-### 2026-06-24 01:43:54  #國際
-
-路透社與益普索聯合民調顯示，僅 23% 的美國人認為戰爭過後美國對伊朗佔據更有利地位，35% 受訪者則認為美國處境更為被動。特朗普支援率跌至 34%，平其二任期以來最低水平。 52% 的美國人認為對伊朗開戰得不償失，僅有 24% 持相反觀點。
-
----
-
-### 2026-06-24 01:43:43  #MKT News
-
-Refinitiv/Ipsos poll shows US President Trump’s approval rating fell to 34%, matching his second-term low.
-
----
-
-### 2026-06-24 01:42:57  #MKT News #Important
-
-【Trump says IAEA inspectors will enter Iran at an appropriate time】On June 23, US President Trump said Iran's claims about IAEA verification are incorrect and that IAEA inspectors will enter Iran at an appropriate time. Earlier the same day Iranian foreign ministry spokesman BAGHAEI said there are currently no plans for IAEA inspectors to visit Iran's damaged nuclear facilities.
-
----
-
-### 2026-06-24 01:42:47  #國際
-
-【特朗普稱國際原子能機構核查人員將適時訪問伊朗】當地時間6月23日，美國總統特朗普表示，伊朗在國際原子能機構核查問題上的說法是錯誤的。他同時表示，核查人員將在適當時候進入當地開展工作。伊朗外交部發言人巴加埃23日早些時候表示，暫無國際原子能機構核查人員訪問伊朗受損核設施的計劃。（央視新聞）
-
----
-
-### 2026-06-24 01:41:45  #MKT News
-
-Andy Burnham, a frontrunner to be the next Labour leader, is preparing to replace Chancellor of the Exchequer Rachel Reeves but would offer her another cabinet post.
-
----
-
-### 2026-06-24 01:40:57  #其他
-
-沃爾瑪據悉將以14億美元收購VIBE.CO。
-
----
-
-### 2026-06-24 01:36:27  #MKT News
-
-【Atlanta Fed president search seen as test of how Waller will reshape Fed】CNBC reports the search for a new president of the Federal Reserve Bank of Atlanta has entered its seventh month and is being closely watched as a gauge of how new Fed chair Waller may reshape the FOMC. Two people familiar with the process said a search begun under former chair Powell was paused to allow Waller to lead the appointment. Michael Faulkender, a former senior Treasury official in the Trump administration, was later added to the candidate list; his current status is unclear.
-
----
-
-### 2026-06-24 01:31:20  #公司
-
-聯合航空：公司將聯合 DirecTV，在搭載星鏈網路的座椅靠背顯示屏上提供電視直播服務，活動持續至 7 月 20 日。
-
----
-
-### 2026-06-24 01:29:34  #宏觀 #國際
-
-美國國務院：持續實施破壞、顛覆政權的行徑，對該國及整個西半球的憲政秩序與民主穩定構成嚴重威脅。
-
----
-
-### 2026-06-24 01:29:08  #MKT News #Market Themes #The Trump Trade #Macro & Rates #US Economy #DXY #Impact bullish #S&P500 #US10Y #Impact bearish
-
-Asked whether truck drivers face a high risk of job losses from AI, US President Trump said they will not lose their jobs, that finding work is not difficult now, and that US employment data is at historic highs.
-
----
-
-### 2026-06-24 01:29:04  #市場 #央行 #國際
-
-【彭博美元指數創11月以來最高水平 交易員上調美聯儲升息押注】彭博美元即期指數週二升至去年11月以來最高水平，交易員進一步強化了對美聯儲今年加息的預期。彭博美元即期指數上漲0.4%。隨著美聯儲政策前景與全球其他主要央行日益背離，美元獲得支撐。交易員目前預計，到2027年初，美國將累計加息近50個基點，相當於接近兩次25個基點的加息。瑞穗國際策略師Jordan Rochester表示：“美元還有進一步上漲空間。美元通常會在美聯儲加息前走強，而市場目前正在考慮9月啟動加息週期的可能性。”
-
----
-
-### 2026-06-24 01:28:45  #宏觀 #國際
-
-美國國務院：對玻利維亞暴力封路行為損害當地民主與法治深表關切。
-
----
-
-### 2026-06-24 01:28:10  #MKT News
-
-Trump on the Iran deal: anyone who criticizes the agreement must be educated, even my friends.
-
----
-
-### 2026-06-24 01:26:38  #MKT News #Macro & Rates #The Fed (FOMC)
-
-CNBC reports the selection process for the Atlanta Fed presidency has restarted after Wosh was named Federal Reserve chair.
-
----
-
-### 2026-06-24 01:26:14  #央行 #國際
-
-市場訊息：沃什出任美聯儲主席後，亞特蘭大聯儲行長遴選流程已重新啟動。
-
----
-
-### 2026-06-24 01:24:59  #MKT News
-
-Asked when IAEA inspectors would be on site in Iran, U.S. President Trump said at the right time and that he was not in a hurry.
-
----
-
-### 2026-06-24 01:23:46  #MKT News #Important
-
-SpaceX plans to raise $25 billion through issuance of senior high-grade bonds.
-
----
-
-### 2026-06-24 01:23:20  #MKT News #WTI #Impact bullish #XAUUSD #DXY
-
-Iran said it had not arranged visits by IAEA inspectors; U.S. President Trump responded: "If that's true, I'll cancel all meetings now."
-
----
-
-### 2026-06-24 01:23:10  #國際
-
-特朗普：如果伊朗想找麻煩，那就去尋求核武器。在軍事力量和能力遭受重創之後，伊朗已不具備有利的談判地位。伊朗的軍事基礎設施已徹底摧毀，通脹率已達300%。
-
----
-
-### 2026-06-24 01:22:47  #公司 #焦點 #國際
-
-SpaceX 擬透過首次美國高等級債券發行募資 250 億美元。
-
----
-
-### 2026-06-24 01:22:05  #MKT News
-
-President Trump said Iran faces hunger, shortages of food and medicine, and high inflation.
-
----
-
-### 2026-06-24 01:20:58  #MKT News #WTI #Impact bullish #XAUUSD #DXY
-
-TRUMP said Iran's military infrastructure has been completely destroyed and the inf rate has reached 300%.
-
----
-
-### 2026-06-24 01:20:37  #MKT News #XAUUSD #Impact bearish #WTI #DXY
-
-Trump said Iran no longer holds a favorable negotiating position after its military forces and capabilities were severely degraded.
-
----
-
-### 2026-06-24 01:19:59  #MKT News #XAUUSD #Impact bullish #WTI
-
-U.S. President Trump: If Iran wants to cause trouble, then go seek nuclear weapons.
-
----
-
-### 2026-06-24 01:19:40  #國際
-
-特朗普：伊朗面臨糧食短缺、藥品匱乏以及通脹高企等難題。
-
----
-
-### 2026-06-24 01:19:19  #國際
-
-美國總統特朗普被問及AI對卡車司機們構成的風險，兜售就業資料。
-
----
-
-### 2026-06-24 01:18:46  #MKT News #WTI #Impact bearish #Brent
-
-President Trump said he is reaching an agreement with Iran and expects further progress.
-
----
-
-### 2026-06-24 01:18:15  #MKT News #XAUUSD #Impact bullish #Brent #DXY
-
-President Trump said the immediate priority is ensuring Iran never acquires nuclear weapons.
-
----
-
-### 2026-06-24 01:17:40  #MKT News #Important
-
-Trump on Iran: Iran's claim about IAEA inspections is incorrect. IAEA inspectors will arrive on site at an appropriate time.
-
----
-
-### 2026-06-24 01:16:48  #國際
-
-特朗普談及伊朗：核查人員將在合適時機赴當地開展核查工作。
-
----
-
-### 2026-06-24 01:16:44  #MKT News #Macro & Rates #The Fed (FOMC)
-
-The Fed accepted $6.484 bln from 10 counterparties in its fixed-rate reverse repo operation.
-
----
-
-### 2026-06-24 01:16:32  #國際
-
-特朗普：伊朗對國際原子能機構核查人員的相關說法是錯誤的。
-
----
-
-### 2026-06-24 01:16:07  #央行 #美聯儲
-
-美聯儲隔夜逆回購協議（RRP）週二使用規模為64.84億美元（交易對手10家），上個交易日報39.25億美元。
-
----
-
-### 2026-06-24 01:16:00  #央行 #國際
-
-週二（6月23日），美聯儲隔夜逆回購協議（RRP）使用規模為64.84億美元（交易對手10家），上個交易日報39.25億美元。
-
----
-
-### 2026-06-24 01:15:58  #國際
-
-特朗普：明日將與共和黨議員商討選民身份核驗法案。
-
----
-
-### 2026-06-24 01:15:34  #國際
-
-美國總統特朗普抵達雷丁。
-
----
-
-### 2026-06-24 01:15:09  #國際
-
-特朗普：是否與伊朗達成協議，我們拭目以待。
-
----
-
-### 2026-06-24 01:14:12  #Trading Economics #Markets #United States #Stock Market #Importance 1
-
-Chip Stocks Hold Selloff — A selloff for heavyweight chip producers pressured US equity indices on Tuesday. The Nasdaq 100 slid 3% and the S&P 500 dropped 1%. AI infrastructure companies, including semiconductor and memory chip producers, tanked on increasing skepticism that AI spending by hyperscalers will not meet returns. On top of that, SK Hynix slowed production of advanced AI chips to boost commodity DRAM capacity, a sign that demand for compute could slow. Micron, Lam Research, Sandisk, and Qualcomm plunged close to 10%, Tesla lost 5%, and Nvidia and Oracle slipped 3.5%. On the same note, SpaceX plunged 16% before rebounding as it issued bonds only one week after its IPO, adding to caution on colossal capital expenditure. Treasury yields remained elevated despite the decline in energy prices following the hawkish dot plot last week, limiting any respite for traditional sectors of the economy. Still, gains for healthcare and consumer defensive companies aided the Dow to hover around the flatline.
-
----
-
-### 2026-06-24 01:12:32  #其他
-
-【C羅連續六屆世界盃進球】美加墨世界盃K組，葡萄牙對陣烏茲別克，C羅搶點破門，攻入個人本屆世界盃首球，連續六屆世界盃進球。
-
----
-
-### 2026-06-24 01:10:40  #MKT News #Important #XAUUSD #Impact bullish #WTI #DXY
-
-【Pezeshkian: Iran–US memorandum does not cover missiles】On the 23rd, while visiting Pakistan, President Pezeshkian said the Iran–US memorandum does not cover missile issues and will not be expanded to do so. He said Iran will never negotiate its defensive capabilities with any party.
-
----
-
-### 2026-06-24 01:10:16  #國際
-
-【伊朗總統：伊美諒解備忘錄不涉及導彈問題】當地時間23日，正在巴基斯坦訪問的伊朗總統佩澤希齊揚在接受採訪時表示，伊美諒解備忘錄中並不包含導彈問題，未來也不會將其納入議題。佩澤希齊揚稱，伊朗永遠不會與任何人協商伊朗方面的防禦能力。巴基斯坦總理夏巴茲·謝里夫表示，某些國家擁有彈道導彈，而伊朗卻被禁止擁有，這種“雙重標準”是不可接受且不合邏輯的。（央視新聞）
-
----
-
-### 2026-06-24 01:07:48  #MKT News #Important #WTI #Impact bullish #Brent #XAUUSD
-
-【Iran president says without missiles Iran would have been flattened like Gaza】On June 23, during a visit to Pakistan, President PEZESHKIAN said the Iran‑US memorandum of understanding does not cover Iran’s missiles and that Iran will never negotiate its defensive capabilities; he added that without its missiles Iran would have been flattened by the US and Israel like Gaza. Pakistan Prime Minister Shehbaz Sharif said banning Iran from possessing ballistic missiles while other countries have them would be a double standard, calling that unacceptable and illogical.
-
----
-
-### 2026-06-24 01:07:11  #MKT News #Market Themes #AI Revolution
-
-Market news: ANTHROPIC seeks deeper integration of Claude into Slack chat.
-
----
-
-### 2026-06-24 01:06:59  #焦點 #國際
-
-【伊朗總統稱若無導彈伊朗已成加沙】當地時間6月23日，正在巴基斯坦訪問的伊朗總統佩澤希齊揚在接受採訪時表示，伊美諒解備忘錄中不包含伊朗導彈問題，而且未來也絕不會將此納入談判中。佩澤希齊揚說，“如果不是因為我們的導彈，伊朗早就被美國和以色列夷為平地了，就像巴勒斯坦加沙地帶一樣。伊朗永遠不會與任何人談判我們的防禦能力。”巴基斯坦總理夏巴茲·謝里夫表示，其他國家擁有彈道導彈，伊朗被禁止擁有的話那就是“雙重標準”，這是不可接受且不合邏輯的。（CCTV國際時訊）
-
----
-
-### 2026-06-24 01:05:56  #市場
-
-彭博美元指數創2025年11月份以來盤中新高。
-
----
-
-### 2026-06-24 01:05:33  #公司 #國際
-
-【嘉年華郵輪：伊朗戰事衝擊預訂業務，下調業績預期】嘉年華郵輪表示，激烈的地緣衝突打亂了郵輪預訂節奏，燃油成本持續攀升不斷擠壓企業利潤，因此下調了本季度業績預期。上一財季的郵輪預訂業務在歐洲地區受衝擊最為嚴重，地中海航線遭遇的影響尤為突出。公司執行長表示，集團旗下全航線旺盛的出行需求與遊客消費能力，一定程度對沖了地緣衝突帶來的業務負面影響。展望後市，隨著近期國際油價回落，嘉年華預計2026年剩餘運營週期的燃油開支將小幅下行。公司將全年燃油總支出預期從此前的21.5億美元下調至21.2億美元。
-
----
-
-### 2026-06-24 01:04:07  #市場 #國際
-
-美國兩年期國債收益率招標後保持平穩，最新下跌 4.45 個基點，報 4.186%。
-
----
-
-### 2026-06-24 01:03:39  #公司
-
-Anthropic 釋出公告：面向 Claude 企業版與團隊版客戶，在 Slack 研究預覽渠道推出 Claude 標記功能。
-
----
-
-### 2026-06-24 01:03:09  #央行 #美聯儲
-
-【美國財政部拍賣690億美元兩年期國債】美國財政部拍賣690億美元兩年期國債，得標利率4.189%，投標倍數2.64。
-
----
-
-### 2026-06-24 01:02:50  #宏觀 #市場 #國際
-
-美國財政部拍賣690億美元兩年期國債，得標利率4.189%，投標倍數2.64。
-
----
-
-### 2026-06-24 01:02:40  #其他
-
-Anthropic：計劃將 @Claude 呼叫功能拓展至其他產品介面 。輸入 @Claude 進行標記後，系統會將任務拆解為多個步驟，依次分步執行，並呼叫所有可用工具完成處理。可對 @Claude 可訪問的敏感資料及專項任務工具設定極嚴格的許可權範圍。
-
----
-
-### 2026-06-24 01:02:24  #MKT News #Macro & Rates #Treasury Yields #US10Y #Impact bearish #DXY #Impact bullish #EURUSD
-
-U.S. 2-year Treasury auction to June 23: share of allotment at the stop-out yield 5.66%, prior 42.14%.
-
----
-
-### 2026-06-24 01:02:17  #MKT News #Macro & Rates #Treasury Yields #DXY #Impact bullish #S&P500 #Impact bearish #US10Y
-
-U.S. 2-year Treasury auction on June 23 — stop-out yield 4.189%, prior 4.07%.
-
----
-
-### 2026-06-24 01:02:16  #MKT News #Macro & Rates #Treasury Yields #US10Y
-
-US 2-year Treasury auction on June 23: bid-cover ratio 2.64; prior 2.64.
-
----
-
-### 2026-06-24 01:02:06  #MKT News #Economic Calendar
-
-United States | 2-Year Note Auction Bid/Cover Ratio (Jun.23) | actual 2.64 | previous 2.64
-
----
-
-### 2026-06-24 01:02:06  #MKT News #Economic Calendar
-
-United States | 2-Year Note Auction Accepted at High (Jun.23) | actual 5.66% | previous 42.14%
 
 ---
