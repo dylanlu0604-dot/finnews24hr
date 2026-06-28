@@ -1,7 +1,34 @@
 {
-  "updated": "2026-06-29 05:52:46",
-  "count": 17976,
+  "updated": "2026-06-29 05:56:46",
+  "count": 17977,
   "items": [
+    {
+      "id": "4959192",
+      "time": "2026-06-29 05:53:53",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "【美聯儲7月維持利率不變的機率為69.5%】據CME“美聯儲觀察”：美聯儲7月維持利率不變的機率為69.5%，累計加息25個基點的機率為30.5%。 美聯儲到9月維持利率不變的機率為40.4%，累計加息25個基點的機率為46.9%，累計加息50個基點的機率為12.8%。"
+    },
+    {
+      "id": "mkt:019f1038-75e3-7aab-8c03-223e2a0363b0",
+      "time": "2026-06-29 05:52:43",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "【FT: UK to replace Type 45 destroyers with unmanned-capable warships】The Financial Times reports the Royal Navy will order at least six general-purpose combat vessels able to deploy unmanned air and undersea systems, a plan due to be announced this week. The ships, intended as part of the Type 45 destroyer replacement, will be the navy's first hybrid-powered warships and are expected to enter service in the early 2030s. The Labour government is set to abandon a long‑planned eight-ship Type 83 destroyer programme and cancel the five-ship Type 32 frigate programme first announced in 2020 in favour of the new general-purpose vessels. The defence secretary’s final plan is expected to add at least £1bn to defence spending, raising new defence investment by more than £14.5bn versus earlier plans. Government says the vessels will act as unmanned-systems control hubs, extending operational reach and firepower without a proportionate increase in crew or cost."
+    },
+    {
+      "id": "4959191",
+      "time": "2026-06-29 05:52:16",
+      "tags": [
+        "國際"
+      ],
+      "text": "《日經新聞》民調：日本高市內閣支援率上升2個百分點，達到68%。"
+    },
     {
       "id": "4959190",
       "time": "2026-06-29 05:51:34",
@@ -164477,22 +164504,6 @@
         "國際"
       ],
       "text": "伊朗首席談判代表卡利巴夫：這就是我們保護我們土地的方式。"
-    },
-    {
-      "id": "4946694",
-      "time": "2026-06-22 05:55:43",
-      "tags": [
-        "其他"
-      ],
-      "text": "哥倫比亞左翼候選人塞佩達暫居第二位，得票率為48.3%，目前約90%的選票已完成統計。"
-    },
-    {
-      "id": "4946693",
-      "time": "2026-06-22 05:55:34",
-      "tags": [
-        "其他"
-      ],
-      "text": "已統計約90%選票，哥倫比亞選舉中右翼候選人德拉埃斯普列利亞以50.1%的得票率暫時領先。"
     }
   ]
 }
