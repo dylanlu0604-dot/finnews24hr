@@ -1,7 +1,23 @@
 {
-  "updated": "2026-06-29 00:16:10",
+  "updated": "2026-06-29 00:20:16",
   "count": 17985,
   "items": [
+    {
+      "id": "4959065",
+      "time": "2026-06-29 00:17:04",
+      "tags": [
+        "國際"
+      ],
+      "text": "沙特王儲穆罕默德·本·薩勒曼與法國總統馬克龍於週日通電話，雙方討論了美伊諒解備忘錄的最新進展，以及為實現地區安全與穩定尋求全面解決方案的相關努力。二人還著重強調保障航行自由的重要性，並表態支援旨在緩和緊張局勢的外交行動。"
+    },
+    {
+      "id": "mkt:019f0f04-b33d-7aab-8c01-98a926515e90",
+      "time": "2026-06-29 00:16:33",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "According to AXIOS, the US has asked Israel to make two edits to an agreement text to secure a deal: withdraw Israeli forces from a village in southern Lebanon currently under Israeli occupation, and add explicit language that the move would mark the start of a broader withdrawal from Lebanon."
+    },
     {
       "id": "4959064",
       "time": "2026-06-29 00:12:48",
@@ -164579,26 +164595,6 @@
         "國際"
       ],
       "text": "訊息人士：伊朗代表團正在開展內部磋商，目前尚不清楚其是否會重返談判。"
-    },
-    {
-      "id": "mkt:019eeafa-a88a-7dd8-b0a7-ecebcdc0acae",
-      "time": "2026-06-22 00:19:16",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Republican Senator Lindsey Graham said he hopes diplomacy will succeed but warned that if Iran attempts to challenge the United States, the U.S. will utterly destroy Iran."
-    },
-    {
-      "id": "mkt:019eeafa-5bd0-7dd8-b0a7-e0a235050811",
-      "time": "2026-06-22 00:18:56",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "DXY",
-        "WTI"
-      ],
-      "text": "【Hezbollah leader says will respond to any ceasefire violations】Hezbollah leader Naim Qassem said Israel will not continue to remain stationed in Lebanon and the group will respond to any Israeli violations of the ceasefire. His remarks came as Israeli officials said the ceasefire, which took effect on Friday, still permits the Israel Defense Forces to act without restriction to remove threats inside Lebanon."
     }
   ]
 }
