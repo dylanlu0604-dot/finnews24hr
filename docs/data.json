@@ -1,7 +1,77 @@
 {
-  "updated": "2026-06-29 04:30:03",
-  "count": 17984,
+  "updated": "2026-06-29 04:48:56",
+  "count": 17985,
   "items": [
+    {
+      "id": "4959161",
+      "time": "2026-06-29 04:43:55",
+      "tags": [
+        "國際"
+      ],
+      "text": "斯洛維尼亞總統娜塔莎·皮爾茨·穆薩爾稱美以對伊朗發動戰事是“一步錯棋”，並表示她認為特朗普也意識到了這一點。 她對卡達在美國與伊朗之間開展斡旋所發揮的作用表示讚許，同時警示歐盟在國際舞臺上的影響力正不斷式微。"
+    },
+    {
+      "id": "mkt:019f0ff9-0deb-7aab-8c02-fb0301282a14",
+      "time": "2026-06-29 04:43:27",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Pakistan conducts intelligence-led ground operation along Afghanistan border, kills 29 militants】AP: Pakistani security forces on Sunday carried out an intelligence-led ground operation along the Pakistan-Afghanistan border, striking militant hideouts and killing 29 fighters, officials said. Authorities said the action responded to a series of militant attacks nationwide. A day earlier, gunmen with explosives attacked the Pakistan Rangers' regional headquarters in Karachi, killing three soldiers; security forces killed three attackers and detained another, whom the military said was an injured Afghan national. A splinter faction of the Pakistan Taliban calling itself the Free Men Party claimed responsibility for the Karachi attack."
+    },
+    {
+      "id": "4959160",
+      "time": "2026-06-29 04:39:30",
+      "tags": [
+        "其他"
+      ],
+      "text": "【基金“中考”即將收官 有望創出歷史最佳業績】還有兩個交易日，今年公募基金“中考”即將收官。目前來看，上半年基金的業績有望創出歷史最佳紀錄。"
+    },
+    {
+      "id": "4959159",
+      "time": "2026-06-29 04:39:16",
+      "tags": [
+        "其他"
+      ],
+      "text": "【大眾計劃終止與博世的自動駕駛合作】德國《圖片報》報道稱，大眾與博世名為“自動駕駛聯盟”的聯合專案即將終止。此前，這份自動駕駛合作協議總規模約15億歐元。"
+    },
+    {
+      "id": "4959158",
+      "time": "2026-06-29 04:37:37",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊拉克總理與伊朗外長阿拉格齊討論了伊朗-美國諒解備忘錄。"
+    },
+    {
+      "id": "4959154",
+      "time": "2026-06-29 04:36:34",
+      "tags": [
+        "國際"
+      ],
+      "text": "【普京：俄建議烏俄雙方均停止打擊對方領土縱深目標】當地時間6月28日，俄羅斯總統普京向媒體表示，俄方建議俄烏雙方均停止攻擊對方領土的縱深目標，否則俄方對烏縱深地區的打擊將更具威力，後果將更嚴重。普京表示，俄方不會給烏克蘭阻止俄軍前進的機會，烏方對俄羅斯基礎設施的打擊不會影響前線局勢。他還表示，目前，不排除烏方將採取分散俄方注意力的行動，烏方破壞小組會滲透到俄方控制地區，但很快就被消滅。（央視）"
+    },
+    {
+      "id": "mkt:019f0ff1-7f8f-7aab-8c02-f5e7a8a237f7",
+      "time": "2026-06-29 04:35:12",
+      "tags": [
+        "MKT News",
+        "S&P500",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish",
+        "WTI"
+      ],
+      "text": "【Putin says Russia proposes both sides halt strikes on each other's deep targets】June 28 — Putin told media Russia has proposed that both sides stop striking each other’s deep (rear-area) targets; he warned that if such strikes continue, Russian strikes on Ukrainian depth will become more powerful and consequences more severe. He said Russia will not give Ukraine an opportunity to halt Russian advances and that Ukrainian strikes on Russian infrastructure will not alter frontline dynamics. Putin added Kyiv may undertake diversionary actions and that sabotage teams penetrating Russian-held areas are being quickly eliminated."
+    },
+    {
+      "id": "4959153",
+      "time": "2026-06-29 04:30:53",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "【美國官員證實：美伊雙方同意停止相互打擊，並於本週舉行會談】一名美國高階官員透露，美國與伊朗已達成協議，停止相互襲擊；雙方計劃於週二在卡達首都會面，協商霍爾木茲海峽爭端。此前停火協議生效僅11天，局勢便已岌岌可危：美伊再度發起相互打擊，特朗普總統也曾威脅重啟戰事、“徹底解決衝突”。此次衝突再起，根源在於雙方對停戰諒解備忘錄（MOU）存在解讀分歧，尤其是協議中關於霍爾木茲海峽的相關條款。一名美國高階官員表示：“我們雙方決定停止一切軍事打擊行動。”另一名美國官員透露，雙方“暫時”停火，航道船隻可自由通行，技術性談判將持續推進。"
+    },
     {
       "id": "4959151",
       "time": "2026-06-29 04:26:24",
@@ -164497,69 +164567,6 @@
         "國際"
       ],
       "text": "【成果亮眼遭遇股價背離 百餘藥企掀起超百億回購】近日，中國生物製藥一紙公告，宣佈擬於12個月內以不超過20億港元在公開市場上回購公司普通股。這是今年以來醫藥上市企業大手筆的回購動作之一。公告還特別強調：董事會認為公司價值目前被嚴重低估，希望透過這一股份購買計劃儘快提振投資者信心，提升股東回報。 中國生物製藥的公告，道出了近期眾多醫藥上市公司的痛處。一方面，國內創新藥、CXO（醫藥研發生產外包）領域的發展捷報頻傳，如國產創新藥閃耀ASCO（美國臨床腫瘤學會）舞臺，多項突破性技術成就大放異彩，創新藥對外授權金額再創新高……但另一方面，資本市場上的表現卻與之背離，AH股醫藥板塊持續下跌，走勢低迷。 在這一背景下，一輪由上市公司層面主導的回購潮開始發力。據東吳證券統計，今年4月初至6月中旬，A股和H股中已有百餘家醫藥上市公司宣佈或實施回購股份。Wind資料顯示，今年以來，AH股醫藥公司已累計回購近130億元。（證券時報）"
-    },
-    {
-      "id": "mkt:019eebf1-03aa-7dd8-b0a9-70c2dc28a86a",
-      "time": "2026-06-22 04:48:21",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "QatarEnergy said the fire has been brought under control following efforts by emergency response teams."
-    },
-    {
-      "id": "4946657",
-      "time": "2026-06-22 04:47:29",
-      "tags": [
-        "公司"
-      ],
-      "text": "卡達能源公司表示，在應急響應小組被部署控制火勢後，火情已得到控制。"
-    },
-    {
-      "id": "mkt:019eebf0-0111-7dd8-b0a9-6f9c4caf9fb0",
-      "time": "2026-06-22 04:47:15",
-      "tags": [
-        "MKT News",
-        "Brent",
-        "Impact bullish",
-        "WTI"
-      ],
-      "text": "QatarEnergy confirmed an operational incident during start-up at Ras Laffan Industrial City that caused an explosion and fire at Barzan gas-supply facilities."
-    },
-    {
-      "id": "4946656",
-      "time": "2026-06-22 04:46:59",
-      "tags": [
-        "公司"
-      ],
-      "text": "卡達能源公司確認，拉斯拉凡工業城投產作業期間發生執行事故，導致巴爾贊天然氣供應設施發生爆炸火災。"
-    },
-    {
-      "id": "4946655",
-      "time": "2026-06-22 04:40:18",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：遭嚴重蓄意破壞的倒影池修繕工程將即刻動工。我剛剛前去實地視察，當時我不禁自言自語，也對著身旁隨行人員感嘆，天吶，什麼樣的人能幹出這種事？一群病態、精神失常之徒！我們一定會將其修復。"
-    },
-    {
-      "id": "4946654",
-      "time": "2026-06-22 04:37:38",
-      "tags": [
-        "其他"
-      ],
-      "text": "目前有訊息猜測，美伊新一輪談判結束後或將釋出一份初步聯合宣告。"
-    },
-    {
-      "id": "mkt:019eebe4-fe97-7dd8-b0a9-63da49b5b784",
-      "time": "2026-06-22 04:35:13",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bearish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "【US diplomat says progress in US-Iran talks on keeping Strait of Hormuz open】A US diplomat told Axios that US-Iran talks, which began Sunday morning local time and have continued in various formats with minimal interruption, made progress on keeping the Strait of Hormuz fully open after recent Iranian statements about possible closure. The talks also addressed a Lebanon de‑escalation mechanism and ceasefire implementation. The diplomat said discussions covered all components of the nuclear agreement and were productive on implementing a memorandum of understanding, aligning positions, and planning political and technical follow‑up."
     }
   ]
 }
