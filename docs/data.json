@@ -1,7 +1,17 @@
 {
-  "updated": "2026-06-28 13:34:04",
-  "count": 18150,
+  "updated": "2026-06-28 13:38:04",
+  "count": 18151,
   "items": [
+    {
+      "id": "mkt:019f0cbb-40be-7770-9d1c-e83ba05eb220",
+      "time": "2026-06-28 13:37:05",
+      "tags": [
+        "MKT News",
+        "META.O",
+        "Impact bearish"
+      ],
+      "text": "【Google restricts Meta's access to Gemini compute after demand outstrips supply】The Financial Times reports Google has limited Meta's ability to purchase compute for its Gemini AI model after Meta's demand exceeded Google's available capacity. Google told Meta in March it could not fill all requested Gemini compute purchases; the shortfall has disrupted and delayed some of Meta's internal AI projects. Several other Google customers were also affected to a lesser degree, FT said, with Meta particularly hard hit owing to unusually high demand for Google models."
+    },
     {
       "id": "4958750",
       "time": "2026-06-28 13:29:46",
