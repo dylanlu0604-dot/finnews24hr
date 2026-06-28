@@ -1,7 +1,29 @@
 {
-  "updated": "2026-06-29 07:08:37",
-  "count": 17971,
+  "updated": "2026-06-29 07:12:36",
+  "count": 17966,
   "items": [
+    {
+      "id": "4959231",
+      "time": "2026-06-29 07:10:14",
+      "tags": [
+        "公司"
+      ],
+      "text": "【易控智駕尋求透過香港IPO募資至多23億港元】根據呈交香港交易所的公告，易控智駕科技股份有限公司在香港發售2610萬股股份，發行價區間為每股81.16港元至87.92港元。該公司勢將籌資至多23億港元（2.93億美元）。預計7月8日掛牌上市。國泰海通為獨家保薦人。"
+    },
+    {
+      "id": "mkt:019f107d-ccc0-7aab-8c03-aa208b59b325",
+      "time": "2026-06-29 07:08:27",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact mixed",
+        "Brent",
+        "DXY"
+      ],
+      "text": "【Institutions: Slow, bumpy oil-price normalization would prompt further RESERVE BANK OF AUSTRALIA hikes】The RESERVE BANK OF AUSTRALIA has warned official rates could rise further, keeping Middle East tensions and oil prices in focus for policy. Matthew Hassan, head of Australian macro forecasting at Westpac, said oil and gas supply normalization will be a slow, bumpy process and persistent domestic inflation would force the RBA to hike again in August. He added the RBA board will face a difficult choice given already-soft economic growth."
+    },
     {
       "id": "4959229",
       "time": "2026-06-29 07:08:04",
@@ -164411,65 +164433,6 @@
         "MKT News"
       ],
       "text": "U.S. Trade Representative Greer will travel to India to discuss a U.S.-India joint statement as part of bilateral trade agreement negotiations."
-    },
-    {
-      "id": "4946765",
-      "time": "2026-06-22 07:12:10",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國貿易代表辦公室：賈米森·格里爾將前往印度，在雙邊貿易協定談判框架下討論美印聯合宣告。"
-    },
-    {
-      "id": "4946764",
-      "time": "2026-06-22 07:12:00",
-      "tags": [
-        "觀點"
-      ],
-      "text": "【機構：A股行情結構性分化 資金或持續向高景氣方向縮圈】端午節前四個交易日，A股震盪上行，創業板指與科創50指數雙雙創下歷史新高，科技板塊表現出明顯的相對優勢。與此同時，傳統價值板塊持續回撥，市場風格分化進一步加劇。展望後市，券商策略研報認為，外部擾動因素階段性落地後，市場不確定性顯著下降，行情有望繼續向縱深演繹，結構上或逐步呈現擴散特徵。後續，A股行情結構性分化，資金持續向高景氣方向縮圈的特徵仍將延續。（上海證券報）"
-    },
-    {
-      "id": "4946763",
-      "time": "2026-06-22 07:11:13",
-      "tags": [
-        "其他"
-      ],
-      "text": "勞埃德銀行將招聘近300名與智慧體人工智慧相關的員工。"
-    },
-    {
-      "id": "4946762",
-      "time": "2026-06-22 07:10:54",
-      "tags": [
-        "國際"
-      ],
-      "text": "【伊朗媒體：伊朗代表團拒絕繼續在瑞士進行伊美談 】據伊朗媒體22日報道，伊朗代表團拒絕繼續在瑞士與美國進行談判。（新華社）"
-    },
-    {
-      "id": "4946761",
-      "time": "2026-06-22 07:10:31",
-      "tags": [
-        "公司"
-      ],
-      "text": "【SpaceX獲得三大評級機構授予投資級評級，展望“穩定”】馬斯克旗下的SpaceX上週獲得穆迪、惠譽和標普全球評級授予投資級信用評級，在該公司備受矚目的首次公開發行(IPO)之後，這三大評級機構均認為其展望“穩定”。這種共識表明對SpaceX財務穩定性的廣泛信心，該公司正在競爭激烈的市場中推進一項耗資巨大且雄心勃勃的人工智慧(AI)計劃。穆迪給予“Baa1”評級，惠譽給予“BBB+”評級，標普全球給予“BBB”評級——這些評級均表明SpaceX的債務狀況被視為投資級，通常意味著其信用風險適中，且具備充分能力履行財務承諾。標普表示，其認為SpaceX的航天和通訊連線業務實力雄厚，但人工智慧業務因資金需求高昂且競爭激烈而存在不確定性。另外，根據英國金融時報，MSCI對SpaceX的環境、社會和公司治理(ESG)給予了最低評級。"
-    },
-    {
-      "id": "4946760",
-      "time": "2026-06-22 07:09:51",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "現貨白銀突破65美元/盎司，日內漲0.34%。"
-    },
-    {
-      "id": "mkt:019eec72-5b26-7dd8-b0a9-f34d8444bc0d",
-      "time": "2026-06-22 07:09:37",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Precious Metals"
-      ],
-      "text": "Spot silver hit $65/oz, up 0.29% intraday."
     }
   ]
 }
