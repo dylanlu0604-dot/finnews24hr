@@ -1,7 +1,15 @@
 {
-  "updated": "2026-06-28 17:31:16",
-  "count": 18108,
+  "updated": "2026-06-28 17:35:25",
+  "count": 18105,
   "items": [
+    {
+      "id": "4958906",
+      "time": "2026-06-28 17:33:35",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列國防軍證實，一名軍官在黎巴嫩南部交戰中陣亡。"
+    },
     {
       "id": "mkt:019f0d90-18a2-7aab-8c00-2d5a5c2f1b8e",
       "time": "2026-06-28 17:29:34",
@@ -165694,38 +165702,6 @@
         "MKT News"
       ],
       "text": "Iranian state media said Iran's parliament speaker met in Switzerland with Qatar's prime minister and foreign minister to discuss implementation of provisions of a US-Iran memorandum of understanding."
-    },
-    {
-      "id": "4946350",
-      "time": "2026-06-21 17:35:15",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：巴基斯坦總理謝里夫與美國副總統萬斯會晤，庫什納、維特科夫及巴基斯坦陸軍參謀長亦出席。"
-    },
-    {
-      "id": "4946349",
-      "time": "2026-06-21 17:34:40",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗官方媒體報道，伊朗議會議長在瑞士同卡達首相兼外交大臣商討了美伊諒解備忘錄相關條款的落實事宜。"
-    },
-    {
-      "id": "mkt:019ee987-9c56-7dd8-b0a4-d3acc10258f7",
-      "time": "2026-06-21 17:33:59",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Al Arabiya reported SHARIF met with U.S. Vice President VANCE; Kushner, Witkoff and Pakistan army chief also attended."
-    },
-    {
-      "id": "4946348",
-      "time": "2026-06-21 17:33:30",
-      "tags": [
-        "國際"
-      ],
-      "text": "敘利亞當地訊息人士稱，以色列軍方侵入德拉西郊的亞爾穆克盆地地區，此舉侵犯了敘利亞主權。"
     }
   ]
 }
