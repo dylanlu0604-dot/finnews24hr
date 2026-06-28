@@ -1,7 +1,72 @@
 {
-  "updated": "2026-06-29 06:15:49",
-  "count": 17967,
+  "updated": "2026-06-29 06:19:53",
+  "count": 17970,
   "items": [
+    {
+      "id": "mkt:019f1050-8f78-7aab-8c03-660b65a925fa",
+      "time": "2026-06-29 06:19:02",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "Spot gold slid intraday, extending losses to 0.6% at $4,055/oz; spot silver fell 0.5%."
+    },
+    {
+      "id": "4959208",
+      "time": "2026-06-29 06:18:35",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金失守4060美元/盎司，日內跌0.55%。"
+    },
+    {
+      "id": "4959207",
+      "time": "2026-06-29 06:18:34",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金失守4070美元/盎司，日內跌0.67%。"
+    },
+    {
+      "id": "4959206",
+      "time": "2026-06-29 06:18:34",
+      "tags": [
+        "市場"
+      ],
+      "text": "鈀金期貨日內跌1%，現報1208.18美元/盎司。"
+    },
+    {
+      "id": "4959205",
+      "time": "2026-06-29 06:17:46",
+      "tags": [
+        "市場"
+      ],
+      "text": "紐約期銀日內跌1%，現報59.06美元/盎司。"
+    },
+    {
+      "id": "mkt:019f104e-29b0-7aab-8c03-5f7e49396c3d",
+      "time": "2026-06-29 06:16:25",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "Yikong Zhijia to list in Hong Kong, offering 26.13 mln H shares, subject to exercise of the overallotment option, at HK$81.16-87.92 per share; trading expected to begin July 8."
+    },
+    {
+      "id": "4959204",
+      "time": "2026-06-29 06:15:52",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金失守4080美元/盎司，日內跌0.42%。"
+    },
     {
       "id": "4959203",
       "time": "2026-06-29 06:14:53",
@@ -164383,47 +164448,6 @@
         "Importance 0"
       ],
       "text": "Brent Inches Higher for 4th Session — Brent oil prices opened the week more than 1.5% higher, rising to almost $82 per barrel as the US and Iran began talks in Switzerland, the first to take place under last week's memorandum of understanding. The agreement called for reopening the strait of Hormuz, and ending hostilities, including in Lebanon, where Israel and the Iran-backed Hezbollah have continued exchanging attacks. However, Iran said the US had failed to secure a ceasefire in Lebanon and announced it had again halted traffic through the strait. Tehran also said Sunday's talks would exclude substantive issues such as its nuclear programme."
-    },
-    {
-      "id": "mkt:019eec44-7c11-7dd8-b0a9-cf4c2b4b93ad",
-      "time": "2026-06-22 06:19:31",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "The Trump Trade",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bullish"
-      ],
-      "text": "【Trump threat clouds US-Iran talks; oil opens higher, WTI up 1.7%】International oil prices opened higher on Monday after Trump warned he would strike Iran if Hezbollah continues to attack Israel, a move that raised doubts over progress in talks between Washington and Tehran. WTI crude rose as much as 1.7%. The warning came days after Trump signed a memorandum last week launching a 60‑day negotiation window; high‑level talks began at the Bürgenstock resort in Switzerland. Iran said it had again closed the Strait of Hormuz, but millions of barrels continued to transit the waterway over the weekend."
-    },
-    {
-      "id": "4946722",
-      "time": "2026-06-22 06:18:39",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國外交官：美伊會談包含落實黎巴嫩南部停火相關內容，還就核協議展開深入磋商。"
-    },
-    {
-      "id": "te:markets:560557",
-      "time": "2026-06-22 06:17:57",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 2"
-      ],
-      "text": "Oil Starts the Week Higher — Crude oil prices opened the week more than 1.5% higher, rising above $78 per barrel as the US and Iran began talks in Switzerland, the first to take place under last week's memorandum of understanding. The agreement called for reopening the strait of Hormuz, and ending hostilities, including in Lebanon, where Israel and the Iran-backed Hezbollah have continued exchanging attacks. However, Iran said the US had failed to secure a ceasefire in Lebanon and announced it had again halted traffic through the strait. Tehran also said Sunday's talks would exclude substantive issues such as its nuclear programme."
-    },
-    {
-      "id": "4946719",
-      "time": "2026-06-22 06:17:55",
-      "tags": [
-        "國際"
-      ],
-      "text": "【韓媒：李在明調整幕僚團隊釋放訊號，施政核心將集中在社會民生等方面】據韓國多家媒體21日報道，韓國總統李在明進入執政第二年，對青瓦臺幕僚團隊和國家安保高層進行調整，涉及宣傳溝通、民政事務、社會政策、國防和經濟安保等領域。韓國總統秘書室室長姜勳植表示，此次人事調整旨在提速國政運營，聚焦推進外交安保佈局、制度秩序和改革任務。（環球網）"
     }
   ]
 }
