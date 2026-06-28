@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-28 21:21:23",
-  "count": 18049,
+  "updated": "2026-06-28 21:25:25",
+  "count": 18045,
   "items": [
     {
       "id": "mkt:019f0e63-4ef0-7aab-8c01-42d617fc814e",
@@ -165166,43 +165166,6 @@
         "國際"
       ],
       "text": "特朗普稱與伊朗達成的諒解備忘錄僅為停火延期協議。"
-    },
-    {
-      "id": "mkt:019eea5a-9b62-7dd8-b0a6-d269ec864a6f",
-      "time": "2026-06-21 21:24:26",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "Libya's National Oil Corporation said crude production reached 1.44 mln barrels per day, the highest level since 2013."
-    },
-    {
-      "id": "mkt:019eea59-7297-7dd8-b0a6-cdb0a06f26e0",
-      "time": "2026-06-21 21:23:10",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Saudi outlet Hadath reports the Iranian delegation refused to pose for a photo with the U.S. delegation."
-    },
-    {
-      "id": "4946490",
-      "time": "2026-06-21 21:22:37",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：伊朗談判團隊在記者撤離後進入會議室。"
-    },
-    {
-      "id": "mkt:019eea58-e0ab-7dd8-b0a6-c5dd7677f5fc",
-      "time": "2026-06-21 21:22:33",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Al Arabiya reported Iran's negotiating team entered the meeting room after journalists were evacuated."
     }
   ]
 }
