@@ -1,7 +1,23 @@
 {
-  "updated": "2026-06-28 19:31:14",
-  "count": 18093,
+  "updated": "2026-06-28 19:35:26",
+  "count": 18095,
   "items": [
+    {
+      "id": "mkt:019f0e00-b2b1-7aab-8c00-b55c0ad39f48",
+      "time": "2026-06-28 19:32:34",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Local French authorities said a civilian aircraft crashed near Nancy, France, killing 11 people."
+    },
+    {
+      "id": "4958964",
+      "time": "2026-06-28 19:30:35",
+      "tags": [
+        "其他"
+      ],
+      "text": "據法國省長訊息，法國南希附近發生墜機事故，造成11人死亡。"
+    },
     {
       "id": "4958963",
       "time": "2026-06-28 19:30:12",
