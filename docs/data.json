@@ -1,7 +1,31 @@
 {
-  "updated": "2026-06-28 15:08:08",
-  "count": 18154,
+  "updated": "2026-06-28 15:12:08",
+  "count": 18149,
   "items": [
+    {
+      "id": "4958789",
+      "time": "2026-06-28 15:10:37",
+      "tags": [
+        "公司"
+      ],
+      "text": "【梁文鋒署名，DeepSeek釋出最新論文】在6月中旬獲得500億融資後僅十幾天，6月27日，DeepSeek團隊聯合北京大學釋出論文《DSpark: Confidence-Scheduled Speculative Decoding with Semi-Autoregressive Generation》。這不是一次模型版本的迭代，而是在原有DeepSeek-V4-Pro和DeepSeek-V4-Flash基礎上增加了一個推測解碼模組，重點在於工程落地層面的最佳化。隨DSpark一同開源的DeepSpec，是一個用於訓練和評估推測解碼草稿模型的全棧程式碼庫，包含資料準備工具、草稿模型實現、訓練程式碼和評估指令碼，支援MIT許可。目前DeepSpec已內建DSpark、DFlash和Eagle3三種實現。值得注意的是，DeepSeek創始人梁文鋒位列論文作者名單。在完成首輪融資的當下，創始人依然親自參與技術論文撰寫，這在AI行業並不多見。"
+    },
+    {
+      "id": "4958788",
+      "time": "2026-06-28 15:09:40",
+      "tags": [
+        "國際"
+      ],
+      "text": "【腸道真菌菌群紊亂增加兒童過敏風險】英國《自然-通訊》雜誌近日釋出的兩項研究表明，嬰兒期腸道真菌群落的成熟對免疫發育有著重要意義，真菌菌群紊亂會增加兒童期患上食物過敏、哮喘等過敏疾病的風險。真菌在人體腸道微生物中的佔比僅為約0.1%，但在免疫調節和人體代謝方面起著重要作用。（新華社）"
+    },
+    {
+      "id": "4958787",
+      "time": "2026-06-28 15:09:18",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗外交部發言人：我們隨同外交事務大臣閣下抵達巴格達；將與伊拉克兄弟們舉行會晤。"
+    },
     {
       "id": "mkt:019f0d0c-1df0-7770-9d1d-4cf96e047eeb",
       "time": "2026-06-28 15:05:25",
@@ -166076,70 +166100,6 @@
         "國際"
       ],
       "text": "伊朗媒體訊息：布林根施托克首輪正式會談將於下午舉行。"
-    },
-    {
-      "id": "4946195",
-      "time": "2026-06-21 15:11:47",
-      "tags": [
-        "其他"
-      ],
-      "text": "【重慶調整啟動部分割槽縣防汛應急響應，有區縣通知進入臨戰狀態】根據當前雨水情及預報情況，以及《重慶市防汛抗旱應急預案》有關規定，重慶市防汛抗旱指揮部經會商研判，從6月21日11時起，針對部分割槽縣調整、啟動市級防汛應急響應。重慶市水利局釋出訊息稱，此次調整後，萬盛經開區、江津、綦江、南川、酉陽、秀山6地調整為防汛三級應急響應。兩江新區、北碚、武隆、豐都、石柱、彭水、黔江7地啟動防汛三級應急響應。"
-    },
-    {
-      "id": "4946194",
-      "time": "2026-06-21 15:10:31",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗議會議員諾文：與美國達成的諒解是基於實力地位。伊朗憑藉戰場上的優勢和人民的支援，在地區格局和談判中佔據上風。特朗普在戰爭的敘事中，將失敗粉飾為勝利。當今世界已將伊朗視為一個第四極力量和一個新興大國。"
-    },
-    {
-      "id": "4946193",
-      "time": "2026-06-21 15:10:19",
-      "tags": [
-        "其他"
-      ],
-      "text": "巴林國家銀行正與巴林、科威特相關銀行洽談潛在合併事宜。"
-    },
-    {
-      "id": "mkt:019ee903-2fef-7dd8-b0a4-035b2efc344e",
-      "time": "2026-06-21 15:09:20",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Iranian lawmaker Nuowen said Trump is portraying defeat as victory in his war narrative and that the world now regards Iran as a fourth pole and an emerging great power."
-    },
-    {
-      "id": "4946192",
-      "time": "2026-06-21 15:09:06",
-      "tags": [
-        "國際"
-      ],
-      "text": "瑞士外交部歡迎伊朗代表團的到來。"
-    },
-    {
-      "id": "mkt:019ee902-e5f3-7dd8-b0a3-f8f528672508",
-      "time": "2026-06-21 15:09:01",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Iranian MP Novin said Iran, leveraging battlefield advantages and popular support, holds the upper hand in the regional balance and in negotiations."
-    },
-    {
-      "id": "mkt:019ee902-bf01-7dd8-b0a3-f21dc94a1166",
-      "time": "2026-06-21 15:08:51",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Iranian lawmaker Novin said any understanding reached with the US is based on a position of strength."
-    },
-    {
-      "id": "4946191",
-      "time": "2026-06-21 15:08:24",
-      "tags": [
-        "國際"
-      ],
-      "text": "巴基斯坦外交部：巴基斯坦總理攜代表團抵達蘇黎世。巴基斯坦總理總理、陸軍參謀長兼國防參謀長和陸軍元帥將出席高層會談，商討落實《伊斯蘭堡諒解備忘錄》相關事宜。"
     }
   ]
 }
