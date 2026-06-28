@@ -1,7 +1,73 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-06-29 05:36:54_
-_本檔包含 3659 則快訊，約 665542 字_
+_更新時間：2026-06-29 06:05:24_
+_本檔包含 3660 則快訊，約 666082 字_
+
+---
+
+### 2026-06-26 13:27:31  #MKT News #Important
+
+South Korea's benchmark KOSPI index pared losses to under 6% after plunging as much as nearly 9% earlier.
+
+---
+
+### 2026-06-26 13:26:19  #MKT News #Macro & Rates
+
+【Reserve Bank of India proposes widening money-market access to non-bank financials and corporates】Reserve Bank of India on Thursday put out draft rules proposing to expand participation in India's term money market to shadow banks and corporates to deepen funding markets and broaden short-term liquidity channels. Under current rules only banks and independent primary dealers trade in the term money market under prudential limits. The draft would allow non-bank financial companies, including mortgage lenders, to act as borrowers and lenders in term money-market transactions; corporates would be permitted to participate as lenders. Smaller NBFCs would be excluded. The RBI said the reform was first flagged in April's monetary policy statement and the draft will be subject to public consultation.
+
+---
+
+### 2026-06-26 13:25:10  #國際
+
+【習近平會見柬埔寨人民黨主席、參議院主席洪森】6月26日上午，中共中央總書記、國家主席習近平在人民大會堂會見柬埔寨人民黨主席、參議院主席洪森。習近平祝賀柬埔寨人民黨成立75週年，祝願柬埔寨人民黨領導柬不斷開創國家建設和民族振興事業新局面。習近平表示，去年4月，我對柬埔寨進行國事訪問，同柬領導人一道開啟構建新時代全天候中柬命運共同體新篇章。一年多來，兩國互信持續增強，各領域合作不斷深入，中柬傳統友好展示新的時代內涵。中方一貫將柬埔寨作為周邊外交重點方向，堅定支援柬埔寨維護國家主權和安全、走出符合自身國情的發展道路。中方願同柬方一道，共守和平、共謀發展、共創繁榮，紮實推進中柬命運共同體建設，為推動構建人類命運共同體樹立典範。習近平強調，當前，國際和地區形勢發生複雜深刻變化，中柬兩國應該攜手在變局中顯擔當、在亂象中守正道，為地區和平發展注入更多穩定性。一要築牢戰略互信根基。雙方要從歷史中汲取力量，百尺竿頭更進一步，將互信水平提升到新高度。中方願同柬方深化黨際交往，加強治黨治國經驗交流，共同提高黨的執政能力。二要走穩發展振興之路。雙方要推動“工業發展走廊”和“魚米走廊”取得實質性進展。要充分釋放中柬自由貿易協定潛能，推動務實合作成果更好惠及民生，不斷夯實中柬友好的民意基礎。三要維護各自國家長治久安。中方願同柬方建立安全夥伴關係。中方高度讚賞柬方清剿電信網路詐騙的決心和行動，願同柬方一道持續發力，徹底剷除電詐“毒瘤”。四要打造戰略協作典範。中方讚賞柬方恪守一箇中國原則，並率先對中方提出的重大理念和倡議予以支援。中方願同柬方加強協調和配合，更好維護地區睦鄰友好的基本面和合作共贏的大方向。（央視新聞）
+
+---
+
+### 2026-06-26 13:24:46  #其他
+
+【小鵬機器人調整：新設九部門，何小鵬兼任產品部負責人】小鵬機器人中心新設立九個二級部門。其中，何小鵬在宣佈親自兼任機器人中心負責人後，目前還兼任機器人中心產品部負責人，直接聽取產品部內各組織負責人彙報。（21財經）
+
+---
+
+### 2026-06-26 13:24:30  #MKT News
+
+South Korea's Lee aims to develop five defense innovation companies each valued at 1 tln won by 2030.
+
+---
+
+### 2026-06-26 13:24:30  #公司 #市場
+
+【有機矽概念逆勢拉昇 晨光新材漲停】午後有機矽概念逆勢拉昇，晨光新材直線漲停，此前宏柏新材4連板，新亞強、 矽烷科技、潤禾材料、三孚股份、東嶽矽材跟漲。
+
+---
+
+### 2026-06-26 13:24:09  #國際
+
+韓國總統李在明：到2030年培育五家價值1萬億韓元的國防創新企業。
+
+---
+
+### 2026-06-26 13:23:29  #MKT News #XPEV.O
+
+【XPeng robotics unit reorganizes; He Xiaopeng to lead product division】XPeng's robotics center has set up nine second‑level departments and named founder He Xiaopeng as head of the robotics center; He will also serve concurrently as head of the product department and will receive direct reports from department leaders. Key reporting executives include Gu Jie (Embodied Systems Engineering), Liu Xianming (General Platform — virtual) and Yu Tao (Brand Marketing — acting). The nine subdepartments are: Product; Embodied Systems Engineering; Controls and Safety Development; Embodied Intelligence; Data Closed‑loop; General Platform (virtual); Product Matrix (virtual); Brand Marketing; and Project Management.
+
+---
+
+### 2026-06-26 13:22:09  #其他
+
+【厄瓜多總統：慶祝世界盃晉級 全國放假一天 】厄瓜多總統：慶祝世界盃晉級 全國放假一天厄瓜多總統丹尼爾·諾沃亞25日釋出行政令稱，為慶祝厄瓜多隊在美加墨世界盃中晉級淘汰賽，全國26日將放假一天。“感謝球員和教練，儘管經歷了艱難時刻，但他們最終成功調整狀態，為整個國家帶來了這份巨大的喜悅。明天放假！”諾沃亞在社交平臺上寫道。（新華社）
+
+---
+
+### 2026-06-26 13:21:18  #宏觀
+
+【一季度全國市場監管部門完成食品安全監督抽檢586127批次】記者今天瞭解到，2026年一季度，全國市場監管部門堅持問題導向，強化全鏈條抽檢，完成食品安全監督抽檢586127批次，總體不合格率為1.88%。從食品品種看，糧食加工品，食用油、油脂及其製品，畜禽肉及副產品，肉製品，鮮蛋，乳製品不合格率分別為0.30%、0.48%、0.51%、1.17%、1.53%、0.08%；蔬菜、水果、水產品不合格率分別為4.05%、5.28%、2.80%。從變化趨勢看，水產製品、水產品、鮮蛋等15類食品不合格率與上年同期相比有所降低，特殊膳食食品、豆類、保健食品等24類食品不合格率與上年同期相比有所上升。（央視）
+
+---
+
+### 2026-06-26 13:20:36  #市場 #央行 #國際
+
+【機構：美國10年期國債收益率料將缺乏明確趨勢】SEB的Jussi Hiljanen在一份報告中表示，對達成一項可持續的美伊和平協議的希望，推動美國10年期國債收益率升向4.40%，未來幾個月該收益率可能會在這一水平附近徘徊。“我們認為，10年期國債收益率在未來幾個月很可能缺乏明確趨勢，主要在4.30%-4.50%的區間內波動，“該首席策略師表示。Hiljanen說，SEB仍然認為，單靠衝突的可持續解決不太可能引發收益率的下行趨勢，這還需要宏觀資料和美聯儲溝通的支援。
 
 ---
 
@@ -21982,65 +22048,5 @@ U.S. President Trump said the United States is ready, willing and able to help V
 ### 2026-06-25 11:45:08  #MKT News
 
 【Indonesia says no decision yet on 2026 nickel ore production quota】Indonesia's mining ministry said on Thursday it has not decided on a total nickel ore production quota for the 2026 fiscal year. Market reports had suggested Jakarta might raise quotas. The ministry said the government's objective is to align ore output with downstream demand and that any quota adjustment applications must undergo a review process.
-
----
-
-### 2026-06-25 11:43:24  #公司 #國際
-
-【康寧大中國區總裁：始終在中國，與產業鏈夥伴協同發展】第四屆鏈博會正在北京舉行。175年曆史的美國老牌材料科學巨頭康寧公司，今年已連續第四次參展。康寧公司方面表示，期待藉助鏈博會平臺，促進產業鏈供應鏈協同合作，以百年創新積澱與全球化視野，推動中國創新實踐走向全球。鏈博會康寧公司展臺今年鏈博會展出的“重頭戲”，是康寧面向下一代資料中心架構的技術創新，包括共封裝光學（CPO），多模多芯光纖等前沿技術方向的解決方案。據瞭解，緊抓AI驅動的新一輪產業變革機遇，康寧持續加大在光通訊、顯示科技及汽車應用等關鍵領域的投入，貫穿資料中心、先進製造與高階顯示等重要產業環節。（北京日報）
-
----
-
-### 2026-06-25 11:42:46  #MKT News #Market Regions #Japan & APAC
-
-Japan 20-year bond yield fell 1.5 bps to 3.55%.
-
----
-
-### 2026-06-25 11:42:41  #市場 #國際
-
-日本20年期國債收益率下跌1.5個基點，至3.55%。
-
----
-
-### 2026-06-25 11:42:30  #其他
-
-【中國製冷學會公開徵集資料中心液冷技術需求與科技成果】6月25日，中國製冷學會發布通知，為加速資料中心液冷技術研發與產業化應用，推動綠色低碳解決方案落地，中國製冷學會現依託中國科協“科創中國”數字平臺，面向全國公開徵集資料中心液冷技術需求及科技成果。後續，中國製冷學會將對徵集的技術需求進行梳理和識別，選擇其中有代表性的難題，組建專家團隊組織專項“線上問診+線下對接”活動，形成技術解決方案；從徵整合果中遴選潛力較大、應用預期較好的專案，策劃專場對接會，推動轉化落地實施。
-
----
-
-### 2026-06-25 11:41:40  #MKT News #Market Regions #Emerging Markets
-
-【Goldman Sachs: Indonesia likely to retain MSCI EM status as reforms advance】Goldman Sachs analysts say Indonesia is likely to retain its MSCI emerging-market status as market reforms progress, though updated equity-disclosure data could still trigger further index weight cuts and stock deletions. MSCI has kept Indonesia's EM status unchanged and delayed a final decision until November. Analysts say index-adjustment uncertainty and a challenging economy may weigh on investor sentiment; higher rates support the rupiah, but weak domestic demand, slowing credit growth and cooling retail sales are downside risks. Goldman Sachs maintains an underweight rating on Indonesian equities.
-
----
-
-### 2026-06-25 11:41:32  #市場
-
-日經225指數向上觸及72000點，最新報72005.05點，日內上漲4.09%。
-
----
-
-### 2026-06-25 11:41:22  #Trading Economics #Markets #Commodity #Importance 1
-
-US Natgas Prices Advance — US natural gas prices rose to around $3.24 per MMBtu as weather forecasts turned hotter, while investors awaited weekly inventory data. Forecasters said above-average temperatures are expected across the mid-Atlantic and Upper Midwest through July 3, lifting gas-for-power demand. Expectations of a smaller-than-average storage build also supported prices, with inventories forecast to increase by 67 bcf for the week ended June 19, below the five-year average gain of 75 bcf for the period. Additional support came from improved LNG export activity, with average gas flows to major US LNG export facilities rising to 17.3 bcfd so far in June from 17.1 bcfd in May, partly driven by record feedgas at the Golden Pass. Moreover, production in the US Lower 48 states fell to 109.5 bcfd so far in June from 109.7 bcfd in May.
-
----
-
-### 2026-06-25 11:41:03  #國際
-
-【美地震學家：委內瑞拉、日本連發強震無關聯】北京時間25日6時過後，委內瑞拉連續發生7級以上強震，日本東北海域此後不久發生7.2級地震。據美國有線電視新聞網報道，同一天，美國加利福尼亞州發生5.6級地震。這些地震之間是否有關聯？加州理工學院資深地震學家露西·瓊斯表示，簡而言之，沒有關聯。瓊斯認為，這些地震發生在不同的斷層和板塊邊界上，意味著並非一場地震引發另一場地震。地震發生時間或許會有巧合，但地點不會——每一次地震都發生在人們熟知的活躍板塊邊界上，那裡的應力已經積累數十年甚至數個世紀。在這些地區，大地震是自然迴圈中可以預期的一部分，儘管具體何時發生目前仍無法準確預測。（新華社）
-
----
-
-### 2026-06-25 11:40:27  #公司 #國際
-
-【曹操出行：將開拓歐洲Robotaxi市場】曹操出行宣佈，公司與全球自動駕駛技術企業May Mobility正式達成戰略合作。雙方將在國際市場合作探索Robotaxi 大規模商業化運營。
-
----
-
-### 2026-06-25 11:39:47  #市場
-
-【金飾克價年內跌近500元】國內各大黃金品牌的金飾掛牌價持續下調。6月25日，國內黃金飾品價格對比顯示，部分品牌克價距離年初高點跌近500元，跌幅超28%。老鳳祥報價1215元/克，較前一日下降26元，兩日累計下降53元，克價距離年初高點跌498元；周生生報價1221元/克，較前一日下降19元，兩日累計跌去49元，克價距離年初高點跌487元；周大福、六福分別報價1222元/克、1220元/克，較前一日均下降16元，兩日累計分別跌去55元、46元，克價距離年初高點分別跌約478元、480元。
 
 ---

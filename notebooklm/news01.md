@@ -1,7 +1,157 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-06-29 05:36:54_
-_本檔包含 3527 則快訊，約 665714 字_
+_更新時間：2026-06-29 06:05:24_
+_本檔包含 3541 則快訊，約 666037 字_
+
+---
+
+### 2026-06-29 06:03:57  #MKT News #Market Regions #Wall Street (US) #Nasdaq100 #Impact bullish
+
+U.S. stock index futures edged higher in early trade; Nasdaq futures up 0.4%.
+
+---
+
+### 2026-06-29 06:03:22  #MKT News #Important
+
+Spot silver advanced just over 1.00% in early trade to $59.39/oz.
+
+---
+
+### 2026-06-29 06:03:15  #市場
+
+現貨白銀日內漲1%，現報59.38美元/盎司。
+
+---
+
+### 2026-06-29 06:01:36  #市場
+
+標普500指數期貨上漲0.1%，納斯達克指數期貨下跌0.1%，布倫特原油價格上漲1.4%。
+
+---
+
+### 2026-06-29 06:01:27  #MKT News #Commodities #Precious Metals #XAUUSD
+
+Spot gold opened flat on Monday at $4,078.61/oz.
+
+---
+
+### 2026-06-29 06:01:00  #MKT News #Commodities #Energy #WTI #Impact bullish
+
+WTI crude opened slightly higher on Monday, trading at $70.27 per barrel.
+
+---
+
+### 2026-06-29 06:00:33  #市場 #焦點
+
+現貨黃金突破4080美元/盎司，日內跌0.01%。
+
+---
+
+### 2026-06-29 06:00:25  #MKT News #Market Regions #Wall Street (US) #Nasdaq100 #Impact bearish
+
+U.S. equity index futures opened modestly lower on Monday; Nasdaq futures down 0.2%.
+
+---
+
+### 2026-06-29 06:00:11  #市場 #焦點
+
+紐約期金突破4100美元/盎司，日內漲0.10%。
+
+---
+
+### 2026-06-29 06:00:10  #焦點 #國際
+
+特朗普宣佈對伊朗發動新一輪大規模打擊。他警告，伊朗教士政權或將難以為繼。
+
+---
+
+### 2026-06-29 06:00:02  #市場
+
+WTI原油日內漲2%，現報70.77美元/桶。
+
+---
+
+### 2026-06-29 06:00:00  #市場
+
+布倫特原油日內漲1%，現報73.89美元/桶。
+
+---
+
+### 2026-06-29 05:53:53  #央行 #國際
+
+【美聯儲7月維持利率不變的機率為69.5%】據CME“美聯儲觀察”：美聯儲7月維持利率不變的機率為69.5%，累計加息25個基點的機率為30.5%。 美聯儲到9月維持利率不變的機率為40.4%，累計加息25個基點的機率為46.9%，累計加息50個基點的機率為12.8%。
+
+---
+
+### 2026-06-29 05:52:43  #MKT News #Market Regions #Europe & UK
+
+【FT: UK to replace Type 45 destroyers with unmanned-capable warships】The Financial Times reports the Royal Navy will order at least six general-purpose combat vessels able to deploy unmanned air and undersea systems, a plan due to be announced this week. The ships, intended as part of the Type 45 destroyer replacement, will be the navy's first hybrid-powered warships and are expected to enter service in the early 2030s. The Labour government is set to abandon a long‑planned eight-ship Type 83 destroyer programme and cancel the five-ship Type 32 frigate programme first announced in 2020 in favour of the new general-purpose vessels. The defence secretary’s final plan is expected to add at least £1bn to defence spending, raising new defence investment by more than £14.5bn versus earlier plans. Government says the vessels will act as unmanned-systems control hubs, extending operational reach and firepower without a proportionate increase in crew or cost.
+
+---
+
+### 2026-06-29 05:52:16  #國際
+
+《日經新聞》民調：日本高市內閣支援率上升2個百分點，達到68%。
+
+---
+
+### 2026-06-29 05:51:34  #市場 #國際
+
+歐洲天然氣價格上漲3%。
+
+---
+
+### 2026-06-29 05:49:10  #國際
+
+【以軍摧毀黎巴嫩南部真主黨地道 稱已事先通知美方】以色列總理內塔尼亞胡和以國防部長卡茨28日晚發表聯合宣告稱，以色列國防軍當天摧毀黎巴嫩南部一處黎真主黨地道，並在實施行動前通知美國。宣告說，以軍當天摧毀了黎巴嫩南部邁季代勒尊附近的黎真主黨地下軍事設施，該設施是一條長度超200米、深度超25米“內藏有數百件武器和多個發射井”的地道。以方稱，這些武器和發射井“用於襲擊以色列領和公民”。宣告還說，以方事先向美國及美駐黎巴嫩代表通報了這一行動計劃。宣告稱，以軍將繼續駐留在黎巴嫩南部“安全區”並摧毀軍事設施，消除“安全威脅”。（新華社）
+
+---
+
+### 2026-06-29 05:48:37  #國際
+
+【馬杜羅社交媒體賬號再發文：感謝國際社會震後援助】當地時間6月28日，委內瑞拉總統馬杜羅的社交媒體賬號再次發文，對地震遇難者和家屬表達慰問，並對各國政府和人民的援助表示感謝。帖文說，“我們向遇難者、傷者、失蹤者及其家屬表示深切慰問，也向所有奮戰在救援一線、全力挽救生命的人致以敬意。”他還感謝世界各國政府和人民第一時間向委內瑞拉提供支援與援助，並呼籲社會各界繼續保持團結與互助，共同推動災區恢復重建。該帖文落款為6月28日於紐約，24日地震發生之後，馬杜羅曾於24日和25日透過該賬號發文，目前暫不清楚這一賬號由誰運營。馬杜羅與夫人塞西莉亞自1月3日起被美國強行控制，1月4日起馬杜羅的個人社交賬號每天釋出圖片記錄馬杜羅夫婦被美方控制的天數並呼籲美國放人。
+
+---
+
+### 2026-06-29 05:42:42  #公司
+
+【國家能源集團釋出116項 新一代煤電產業鏈供需對接清單】6月27日，國家能源集團舉辦首屆新一代煤電現代產業鏈融通發展共鏈行動大會，集中釋出新一代煤電產業鏈116項供需對接清單，打通上中下游資訊壁壘，破解供需錯配難題。20家產業鏈上下游企業現場簽署商務合同、合作協議與共建協議，將“紙面資源”轉化為“落地專案”。依託此次簽約契機，新一代煤電領域5家全國重點實驗室共建協議落地簽署，以國家級創新平臺為載體，集中力量攻堅煤電前沿關鍵技術。
+
+---
+
+### 2026-06-29 05:40:26  #市場
+
+【上漲支撐因素鬆動 黃金下半年面臨“壓力測試”】站在2026年年中，國際、國內金價較1月曆史高點已累計回撤近30%，呈現極罕見的高位劇烈調整。展望後市，業內人士表示，黃金的價格走勢是該資產與股市、利率、油價之間多重關係博弈的結果，金價的短期預測變得愈發困難。（上證報）
+
+---
+
+### 2026-06-29 05:40:11  #其他
+
+【告別“重首發，輕持營” 公募基金加碼“二次首發”】今年以來，多家公募加碼優勢產品的“二次首發”，部分產品管理規模近乎翻倍。在政策導向與費率改革的推動下，行業過往“重首發，輕持營”的利益邏輯正在改變，深耕存量的良性行業生態加速形成。（上證報）
+
+---
+
+### 2026-06-29 05:39:51  #市場
+
+【“買券商等於買一籃子打折科技股”交易邏輯發酵 券商股上演價值重估行情】近期，A股券商板塊告別前期沉寂，盤面異動頻發，資金關注度持續攀升。6月22日券商板塊迎來異動，行業指數單日大漲超過7%，場內掀起個股漲停潮。隨後多個交易日資金持續加碼，長江證券、華安證券等標的更是走出連板行情。盤面最關鍵的變化在於，打破了過往“券商拉昇，科技回撥”的存量資金蹺蹺板效應，證券與硬科技雙線共振走強。“買券商等於買一籃子打折科技股”的交易邏輯在市場上快速發酵。長久以來，券商僅以“牛市旗手”的行情彈性被資金關注，如今卻憑藉投行跟投、股權直投手握大量硬科技企業股權，疊加自身板塊估值處於歷史低位，科創底色逐步被資金挖掘，一場全新的價值重估行情正在上演。（上證報）
+
+---
+
+### 2026-06-29 05:39:24  #央行 #國際
+
+【全球科技股同步回撥 AI主線地位不改但再平衡需求上升】上週全球市場科技產業鏈同步震盪，海外相關賽道估值下行對A股構成傳導壓力，A股呈現“衝高回落，極致分化”格局。綜合本週券商策略研報來看，美聯儲加息預期反覆、科技板塊交易擁擠度抬升，以及AI產業面訊息擾動共同壓制了科技板塊風險偏好。在中期維度上，AI產業上行趨勢尚未出現實質性拐點，各細分賽道景氣度持續兌現，行情延續的基礎仍存。（上證報）
+
+---
+
+### 2026-06-29 05:38:00  #公司
+
+【專屬APP退場+髮卡放緩 銀行信用卡重構增長邏輯】6月30日，中國銀行信用卡APP“繽紛生活”將全面停止服務，相關功能遷移至“中國銀行”APP。 過去幾年間，在最佳化成本的考量下，中小銀行紛紛放棄開發信用卡獨立APP，將其功能合併至手機銀行APP中，國有大行、股份行、中小銀行亦陸續關停線下異地分中心。 線上整合、線下關停，國內信用卡行業正告別粗放擴張週期，迎來經營模式重構。（證券時報）
+
+---
+
+### 2026-06-29 05:36:34  #其他
+
+【香港特區政府財政司司長陳茂波：香港擔綱內地企業出海“超級轉換器”】香港特區政府財政司司長陳茂波昨日（6月28日）發表網誌表示，近期參與2026年夏季達沃斯論壇、首屆西部商業航天大會，此行實地見證東北重工業、西部硬科技雄厚產業實力，而依託“一國兩制”獨特優勢，香港正以超級聯絡人、超級增值人、超級轉換器三重功能，打通內地科創成果通往全球市場的完整通道，助力內地企業穩健出海、規模化佈局全球。（證券時報）
 
 ---
 
@@ -21282,71 +21432,5 @@ ZALANDO股價在Tradegate平臺下跌14.3%，此前德國金融監管機構對ZA
 ### 2026-06-26 13:28:12  #MKT News
 
 【China meets Cambodian People's Party chairman and Senate president Hun Sen】China met Cambodian People's Party chairman and Senate president Hun Sen at the Great Hall of the People on June 26. China said international and regional conditions are undergoing complex, deep changes and urged closer China‑Cambodia cooperation to inject greater stability into regional peace and development. China expressed willingness to establish a security partnership with Cambodia and praised Phnom Penh's decisive action against telecom‑network fraud, saying it will continue to work with Cambodia to fully eliminate such criminal networks.
-
----
-
-### 2026-06-26 13:27:31  #MKT News #Important
-
-South Korea's benchmark KOSPI index pared losses to under 6% after plunging as much as nearly 9% earlier.
-
----
-
-### 2026-06-26 13:26:19  #MKT News #Macro & Rates
-
-【Reserve Bank of India proposes widening money-market access to non-bank financials and corporates】Reserve Bank of India on Thursday put out draft rules proposing to expand participation in India's term money market to shadow banks and corporates to deepen funding markets and broaden short-term liquidity channels. Under current rules only banks and independent primary dealers trade in the term money market under prudential limits. The draft would allow non-bank financial companies, including mortgage lenders, to act as borrowers and lenders in term money-market transactions; corporates would be permitted to participate as lenders. Smaller NBFCs would be excluded. The RBI said the reform was first flagged in April's monetary policy statement and the draft will be subject to public consultation.
-
----
-
-### 2026-06-26 13:25:10  #國際
-
-【習近平會見柬埔寨人民黨主席、參議院主席洪森】6月26日上午，中共中央總書記、國家主席習近平在人民大會堂會見柬埔寨人民黨主席、參議院主席洪森。習近平祝賀柬埔寨人民黨成立75週年，祝願柬埔寨人民黨領導柬不斷開創國家建設和民族振興事業新局面。習近平表示，去年4月，我對柬埔寨進行國事訪問，同柬領導人一道開啟構建新時代全天候中柬命運共同體新篇章。一年多來，兩國互信持續增強，各領域合作不斷深入，中柬傳統友好展示新的時代內涵。中方一貫將柬埔寨作為周邊外交重點方向，堅定支援柬埔寨維護國家主權和安全、走出符合自身國情的發展道路。中方願同柬方一道，共守和平、共謀發展、共創繁榮，紮實推進中柬命運共同體建設，為推動構建人類命運共同體樹立典範。習近平強調，當前，國際和地區形勢發生複雜深刻變化，中柬兩國應該攜手在變局中顯擔當、在亂象中守正道，為地區和平發展注入更多穩定性。一要築牢戰略互信根基。雙方要從歷史中汲取力量，百尺竿頭更進一步，將互信水平提升到新高度。中方願同柬方深化黨際交往，加強治黨治國經驗交流，共同提高黨的執政能力。二要走穩發展振興之路。雙方要推動“工業發展走廊”和“魚米走廊”取得實質性進展。要充分釋放中柬自由貿易協定潛能，推動務實合作成果更好惠及民生，不斷夯實中柬友好的民意基礎。三要維護各自國家長治久安。中方願同柬方建立安全夥伴關係。中方高度讚賞柬方清剿電信網路詐騙的決心和行動，願同柬方一道持續發力，徹底剷除電詐“毒瘤”。四要打造戰略協作典範。中方讚賞柬方恪守一箇中國原則，並率先對中方提出的重大理念和倡議予以支援。中方願同柬方加強協調和配合，更好維護地區睦鄰友好的基本面和合作共贏的大方向。（央視新聞）
-
----
-
-### 2026-06-26 13:24:46  #其他
-
-【小鵬機器人調整：新設九部門，何小鵬兼任產品部負責人】小鵬機器人中心新設立九個二級部門。其中，何小鵬在宣佈親自兼任機器人中心負責人後，目前還兼任機器人中心產品部負責人，直接聽取產品部內各組織負責人彙報。（21財經）
-
----
-
-### 2026-06-26 13:24:30  #MKT News
-
-South Korea's Lee aims to develop five defense innovation companies each valued at 1 tln won by 2030.
-
----
-
-### 2026-06-26 13:24:30  #公司 #市場
-
-【有機矽概念逆勢拉昇 晨光新材漲停】午後有機矽概念逆勢拉昇，晨光新材直線漲停，此前宏柏新材4連板，新亞強、 矽烷科技、潤禾材料、三孚股份、東嶽矽材跟漲。
-
----
-
-### 2026-06-26 13:24:09  #國際
-
-韓國總統李在明：到2030年培育五家價值1萬億韓元的國防創新企業。
-
----
-
-### 2026-06-26 13:23:29  #MKT News #XPEV.O
-
-【XPeng robotics unit reorganizes; He Xiaopeng to lead product division】XPeng's robotics center has set up nine second‑level departments and named founder He Xiaopeng as head of the robotics center; He will also serve concurrently as head of the product department and will receive direct reports from department leaders. Key reporting executives include Gu Jie (Embodied Systems Engineering), Liu Xianming (General Platform — virtual) and Yu Tao (Brand Marketing — acting). The nine subdepartments are: Product; Embodied Systems Engineering; Controls and Safety Development; Embodied Intelligence; Data Closed‑loop; General Platform (virtual); Product Matrix (virtual); Brand Marketing; and Project Management.
-
----
-
-### 2026-06-26 13:22:09  #其他
-
-【厄瓜多總統：慶祝世界盃晉級 全國放假一天 】厄瓜多總統：慶祝世界盃晉級 全國放假一天厄瓜多總統丹尼爾·諾沃亞25日釋出行政令稱，為慶祝厄瓜多隊在美加墨世界盃中晉級淘汰賽，全國26日將放假一天。“感謝球員和教練，儘管經歷了艱難時刻，但他們最終成功調整狀態，為整個國家帶來了這份巨大的喜悅。明天放假！”諾沃亞在社交平臺上寫道。（新華社）
-
----
-
-### 2026-06-26 13:21:18  #宏觀
-
-【一季度全國市場監管部門完成食品安全監督抽檢586127批次】記者今天瞭解到，2026年一季度，全國市場監管部門堅持問題導向，強化全鏈條抽檢，完成食品安全監督抽檢586127批次，總體不合格率為1.88%。從食品品種看，糧食加工品，食用油、油脂及其製品，畜禽肉及副產品，肉製品，鮮蛋，乳製品不合格率分別為0.30%、0.48%、0.51%、1.17%、1.53%、0.08%；蔬菜、水果、水產品不合格率分別為4.05%、5.28%、2.80%。從變化趨勢看，水產製品、水產品、鮮蛋等15類食品不合格率與上年同期相比有所降低，特殊膳食食品、豆類、保健食品等24類食品不合格率與上年同期相比有所上升。（央視）
-
----
-
-### 2026-06-26 13:20:36  #市場 #央行 #國際
-
-【機構：美國10年期國債收益率料將缺乏明確趨勢】SEB的Jussi Hiljanen在一份報告中表示，對達成一項可持續的美伊和平協議的希望，推動美國10年期國債收益率升向4.40%，未來幾個月該收益率可能會在這一水平附近徘徊。“我們認為，10年期國債收益率在未來幾個月很可能缺乏明確趨勢，主要在4.30%-4.50%的區間內波動，“該首席策略師表示。Hiljanen說，SEB仍然認為，單靠衝突的可持續解決不太可能引發收益率的下行趨勢，這還需要宏觀資料和美聯儲溝通的支援。
 
 ---
