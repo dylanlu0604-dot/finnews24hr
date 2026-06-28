@@ -1,7 +1,15 @@
 {
-  "updated": "2026-06-28 23:36:04",
-  "count": 18005,
+  "updated": "2026-06-28 23:40:25",
+  "count": 18002,
   "items": [
+    {
+      "id": "4959054",
+      "time": "2026-06-28 23:38:46",
+      "tags": [
+        "其他"
+      ],
+      "text": "【體操亞錦賽中國隊單日斬獲兩金】第13屆亞洲體操錦標賽、第19屆亞洲青年體操錦標賽女子單項決賽28日在貴州省遵義市奧體中心收官。中國隊張清穎奪得成年組平衡木冠軍，張怡涵榮獲成年組自由體操冠軍，陳紫嫣勇奪青年組平衡木冠軍。"
+    },
     {
       "id": "4959053",
       "time": "2026-06-28 23:33:09",
@@ -164759,43 +164767,6 @@
         "Important"
       ],
       "text": "Iranian state media said bilateral talks between Iranian and Qatari delegations began after a four-party meeting ended."
-    },
-    {
-      "id": "4946559",
-      "time": "2026-06-21 23:40:18",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "伊朗官方媒體稱，伊朗與卡達代表團在瑞士的雙邊會談已於四方談判結束後啟動。"
-    },
-    {
-      "id": "4946558",
-      "time": "2026-06-21 23:38:15",
-      "tags": [
-        "其他"
-      ],
-      "text": "【山東金鄉縣通報萬福河汙染問題：初步調查為汙水外溢導致，正應急處理】6月21日，山東省金鄉縣釋出通報稱，有網民反映金鄉縣萬福河水汙染問題，經初步調查，為食品加工汙水部分外溢進入萬福河。目前，當地已制定了汙水治理方案，並對汙染河段進行應急處置。"
-    },
-    {
-      "id": "mkt:019eead5-1cbc-7dd8-b0a7-8e4ae648c440",
-      "time": "2026-06-21 23:38:15",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "WTI",
-        "DXY"
-      ],
-      "text": "Press TV reports an Iranian delegation has lodged a protest with the US over Trump’s recent verbal threats and is weighing options for an appropriate response."
-    },
-    {
-      "id": "4946557",
-      "time": "2026-06-21 23:37:26",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗談判代表團已向美方提出抗議，目前正在斟酌應對特朗普近期口頭威脅的合適舉措。"
     }
   ]
 }
