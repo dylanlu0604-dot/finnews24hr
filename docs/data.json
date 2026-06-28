@@ -1,7 +1,15 @@
 {
-  "updated": "2026-06-28 11:46:07",
+  "updated": "2026-06-28 11:50:11",
   "count": 18147,
   "items": [
+    {
+      "id": "mkt:019f0c56-e5bd-7770-9d1c-973eee07f71e",
+      "time": "2026-06-28 11:47:29",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "CENC automatic detection: at 11:39 on June 28 a magnitude ~4.0 earthquake was recorded near Haixi prefecture, Qinghai (37.86°N, 95.42°E). Final magnitude pending official quick report."
+    },
     {
       "id": "4958721",
       "time": "2026-06-28 11:42:39",
@@ -166069,14 +166077,6 @@
         "國際"
       ],
       "text": "【訊息人士：瑞士會談將率先召開黎巴嫩問題緊急會議】據報道，一名知情外交官週日向美國媒體透露，瑞士舉行的多場會談新增黎巴嫩問題緊急會議，且該議題將作為首個討論事項。 一名伊朗官員週六向美國媒體表示，結束黎巴嫩境內衝突是 “伊朗代表團議程上最重要的事項”。"
-    },
-    {
-      "id": "mkt:019ee84a-7ce8-7dd8-b0a3-1de45e23a355",
-      "time": "2026-06-21 11:47:36",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "CNN reports an Iranian official said ending the conflict in Lebanon is the top item on the Iranian delegation's agenda."
     }
   ]
 }
