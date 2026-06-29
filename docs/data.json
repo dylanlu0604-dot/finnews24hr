@@ -1,7 +1,15 @@
 {
-  "updated": "2026-06-29 11:24:52",
-  "count": 17901,
+  "updated": "2026-06-29 11:28:47",
+  "count": 17894,
   "items": [
+    {
+      "id": "4959639",
+      "time": "2026-06-29 11:26:55",
+      "tags": [
+        "其他"
+      ],
+      "text": "【瑞銀：儘管前景疲軟，澳大利亞鋰礦股仍具價值】疲軟的中短期鋰價預測導致瑞銀(UBS)下調對包括PLS和Liontown在內的澳大利亞生產商的股價預期。儘管如此，瑞銀表示，儘管市場情緒疲軟，但由於有強勁的估值支撐，該機構依然看好澳大利亞證券交易所(ASX)的鋰礦股。該機構稱，Liontown仍是其首選，而PMET是“符合長期主題的極具吸引力的選擇“。瑞銀重申對Liontown、PMET和IGO的買入評級。該機構重申對PLS的中性評級，稱與同行相比，該股似乎仍然昂貴。其對PLS的目標價下調17%，至每股5.60澳元，而對Liontown的目標價下調7.4%，至2.50澳元。瑞銀將對IGO的目標價下調1.0%，至9.65澳元，而對PMET的目標價維持在0.90澳元不變。"
+    },
     {
       "id": "mkt:019f1167-3aaa-7aab-8c07-f60c64991f72",
       "time": "2026-06-29 11:23:25",
@@ -163869,79 +163877,6 @@
         "Impact bullish"
       ],
       "text": "Shanghai Stock Exchange 50 Index up 1%."
-    },
-    {
-      "id": "4947221",
-      "time": "2026-06-22 11:28:41",
-      "tags": [
-        "其他"
-      ],
-      "text": "【颱風“米克拉”加強為強颱風級 我國部分海域陣風可達10至11級】今年第7號颱風“米克拉”的中心今天（6月22日）上午由颱風級加強為強颱風級，上午8點鐘其中心位於臺灣鵝鑾鼻東偏南方向約890公里的西北太平洋洋麵上，就是北緯17.4度、東經127.9度，中心附近最大風力有15級（48米/秒，強颱風級），中心最低氣壓為945百帕，七級風圈半徑為200至350公里，十級風圈半徑為80至90公里，十二級風圈半徑為40公里。預計，“米克拉”將以每小時15至20公里的速度向西偏北方向移動，強度逐漸增強，並逐漸向我國臺灣島東南洋麵靠近。受其影響，23日夜間至27日，巴士海峽，臺灣以東洋麵、東海南部海面將有7至9級風，陣風10至11級；部分海域風力有10至11級，陣風12至13級。"
-    },
-    {
-      "id": "4947220",
-      "time": "2026-06-22 11:28:18",
-      "tags": [
-        "國際"
-      ],
-      "text": "孟加拉國總理：已請求馬來西亞總理儘快考慮招聘更多孟加拉工人，並儘早開放勞動力市場。我們同意招聘過程應透明、公平且可負擔，以降低勞工成本"
-    },
-    {
-      "id": "4947219",
-      "time": "2026-06-22 11:28:00",
-      "tags": [
-        "國際"
-      ],
-      "text": "韓國總統政策室長表示，政策制定者需要考慮該國晶片主導的繁榮所帶來的收益將如何在經濟中擴散，並警告稱，過剩流動性歷來會流入房地產市場。"
-    },
-    {
-      "id": "mkt:019eed5e-c991-7dd8-b0af-3609dae37877",
-      "time": "2026-06-22 11:27:52",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Bangladesh's prime minister said he has asked Malaysia's prime minister to consider hiring more Bangladeshi workers as soon as possible and to open Malaysia's labor market sooner."
-    },
-    {
-      "id": "mkt:019eed5e-1d81-7dd8-b0af-2904d971435b",
-      "time": "2026-06-22 11:27:08",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "【Navigation warning: live-fire drills in Beibu Gulf】Zhanjiang Maritime Safety Administration posted on the China Maritime Safety Administration website that parts of the Beibu Gulf (Gulf of Tonkin) will be closed to navigation for live-fire exercises from 0000 on June 23 to 2400 on June 24; entry is prohibited."
-    },
-    {
-      "id": "mkt:019eed5d-8202-7dd8-b0af-20dba43a7ba4",
-      "time": "2026-06-22 11:26:28",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Bangladesh's prime minister agreed to advance free trade agreement (FTA) negotiations with Malaysia."
-    },
-    {
-      "id": "mkt:019eed5c-f3b9-7dd8-b0af-1879dfd5a710",
-      "time": "2026-06-22 11:25:52",
-      "tags": [
-        "MKT News",
-        "Important",
-        "GBPUSD",
-        "Impact bearish",
-        "XAUUSD",
-        "Impact bullish",
-        "FTSE100",
-        "Impact mixed"
-      ],
-      "text": "【UK could see seventh PM in a decade; leadership change may not resolve core problems】British politics is again in flux as Labour leader Keir Starmer faces an internal rebellion, raising the prospect of a seventh prime minister in ten years and extending policy uncertainty for markets. Two front-runners in early market pricing are Andy Burnham—advocating progressive capitalism, greater state intervention, stronger public services and devolution, long pro-EU but cautious on rejoining (prediction markets ~94% support)—and Wes Stretton, a centrist proposing tax reform (aligning capital gains with income tax) and an explicit pro-EU rejoin stance (prediction markets ~1%). Recent precedent shows leadership moves can be market-moving: Liz Truss’s short-lived fiscal package triggered severe market turbulence and a sharp fall in sterling; Boris Johnson completed Brexit but left after a governance scandal. Structural constraints persist: Brexit’s drag on trade, investment and labour mobility; intense intra-party politics that shorten leaders’ tenures; and concentrated socioeconomic pressures—manufacturing hollowing, ageing population, rising fiscal and public-service burdens, and regional disparities—limit any government’s ability to deliver quick fixes. For asset allocators and macro traders, the immediate implications are elevated political risk and policy uncertainty around fiscal, regulatory and EU-related direction rather than a clear directional break."
-    },
-    {
-      "id": "4947218",
-      "time": "2026-06-22 11:25:35",
-      "tags": [
-        "兩會"
-      ],
-      "text": "【南極旅遊擬納入法治化管理：未經許可開展活動最高罰百萬】6月22日，全國人大常委會法工委發言人黃海華在記者會上透露，南極活動與環境保護法草案二次審議稿擬對南極旅遊活動作出系統性規範，明確申請許可制度、經營者與旅遊者雙方義務，並設定最高一百萬元的罰款及十年禁申許可等罰則。（澎湃新聞）"
     }
   ]
 }
