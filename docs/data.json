@@ -1,7 +1,49 @@
 {
-  "updated": "2026-06-29 12:27:24",
+  "updated": "2026-06-29 12:31:31",
   "count": 17903,
   "items": [
+    {
+      "id": "4959717",
+      "time": "2026-06-29 12:30:41",
+      "tags": [
+        "公司"
+      ],
+      "text": "豐田汽車：5月母公司全球汽車產量同比下降5.5%，至765,470輛。"
+    },
+    {
+      "id": "4959716",
+      "time": "2026-06-29 12:30:33",
+      "tags": [
+        "公司"
+      ],
+      "text": "豐田汽車：5月母公司全球銷量同比下降7.2%，至834,279輛。"
+    },
+    {
+      "id": "4959715",
+      "time": "2026-06-29 12:29:14",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "【媒體：英國擬加大伊朗相關制裁執行力度】據英國金融時報，英國金融制裁實施辦公室（OFSI）負責人賈爾斯・湯姆森在接受採訪時表示，該制裁執行機構正加大力度，對違規與伊朗開展業務往來的企業實施處罰。湯姆森透露，俄羅斯相關制裁依舊是OFSI的首要工作重心。該部門還在深化與美國的合作，預計雙方未來將聯合開出處罰罰單。此外，部門即將首次抽調人員借調至英國央行。"
+    },
+    {
+      "id": "4959714",
+      "time": "2026-06-29 12:27:36",
+      "tags": [
+        "公司"
+      ],
+      "text": "阿布扎比國家石油公司物流與航運公司：上調2026財年全年業績指引。2026財年營收指引為低個位數增長，2026財年EBITDA指引顯示高達20%的增長，2026財年淨利潤指引顯示高增長達60%。更新後的業績指引反映了年初至今的實際表現以及對今年剩餘時間的假設。"
+    },
+    {
+      "id": "4959713",
+      "time": "2026-06-29 12:26:58",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【鵬鼎控股跌停，光模組業務佔比低 公司獨家回應】6月29日早盤，鵬鼎控股股價跌停，跌停價為99.88元/股。市場認為，公司前期股價因光模組題材被炒作，但公司光模組業務佔比較低。對此，鵬鼎控股方面獨家回應中國證券報·中證金牛座記者稱，二級市場股價受多重因素影響，公司光模組業務佔比情況此前已經披露過，對於後續佔比是否會增加目前無法預測，需要以後續財報為準。依據鵬鼎控股此前公告，公司主要從事各類印製電路板的研發、設計、製造、銷售與服務。2025年，公司光模組業務實現營業收入2.28億元，佔整體營業收入比重為0.58%；2026年一季度公司光模組業務實現營業收入2.26億元，佔整體營業收入比重為2.83%。預計2026年全年，該業務佔公司整體營業收入比重較小，對公司經營業績無法產生重大影響。(中證金牛座)"
+    },
     {
       "id": "4959712",
       "time": "2026-06-29 12:25:31",
@@ -163951,55 +163993,6 @@
         "國際"
       ],
       "text": "【日本或透過出售了美債 為創紀錄規模的日元匯市干預籌資】日本可能動用了其持有的外國證券，其中包括美國國債，為過去一個月創紀錄的匯市干預提供資金，這一舉動可能引起美國方面的關注。根據日本財務省週五公佈的儲備資料，截至5月底，日本持有的外國證券較4月減少756億美元。這一下降規模與日本近期為支撐日元而入市干預的金額大致相當。日本財務省上週確認，截至5月27日，當月用於匯市干預的資金達到創紀錄的11.73萬億日元（734億美元）。一位在報告說明會上發言的財務省官員承認，匯市干預是外匯儲備持倉大幅下降的原因之一，並表示此次降幅為紀錄最大。"
-    },
-    {
-      "id": "4947290",
-      "time": "2026-06-22 12:30:45",
-      "tags": [
-        "國際"
-      ],
-      "text": "【以色列軍方電臺：過去48小時黎巴嫩戰事暫停】據以色列軍方電臺報道，過去48小時，黎巴嫩境內的戰鬥和真主黨發動的越境襲擊均暫停。"
-    },
-    {
-      "id": "4947289",
-      "time": "2026-06-22 12:30:10",
-      "tags": [
-        "其他"
-      ],
-      "text": "英矽智慧與SK生物製藥達成價值最高達25億美元的人工智慧驅動研發合作，將獲得最高達1800萬美元的預付款及近期里程碑付款。"
-    },
-    {
-      "id": "mkt:019eed96-a7a2-7dd8-b0b0-0356cc7d82a8",
-      "time": "2026-06-22 12:28:53",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "Brent",
-        "Impact mixed",
-        "WTI"
-      ],
-      "text": "【Kuwait issues rare buyer-collect naphtha tender, underscores Strait of Hormuz flow resumption】Kuwait National Petroleum Company issued a tender to sell naphtha — used in gasoline and plastics production — requiring buyers to pick up cargo at a deep-Gulf port, transport by sea and charter vessels themselves. Traders said it is the first such buyer-collect offer in years. The move coincides with rising Strait of Hormuz traffic and oil producers’ steps to restore supplies after a temporary US‑Iran peace agreement."
-    },
-    {
-      "id": "4947288",
-      "time": "2026-06-22 12:27:38",
-      "tags": [
-        "公司"
-      ],
-      "text": "【周立成擬任中國投資協會秘書長】6月22日，中國投資協會發布關於中國投資協會第五屆理事會屆中調整負責人人選的公示：周立成，男，漢族，1962年4月生，山西大同人，中共黨員，高階工程師，碩士學位。歷任國家開發投資公司高階專案經理、國投中魯果汁股份有限公司董事長、中投諮詢有限公司總經理，國家開發投資集團有限公司專職股權董事等職務（已退休），擬任中國投資協會秘書長。"
-    },
-    {
-      "id": "te:markets:560643",
-      "time": "2026-06-22 12:27:37",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "India",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "Indian Stocks Rebound — India’s BSE Sensex rose about 0.5% to 77,177 in early trade on Monday, rebounding from losses in the last session as easing crude oil prices and improving global risk sentiment supported investor appetite. Market sentiment improved after reports that US-Iran talks advanced toward a final deal within 60 days, easing concerns following President Donald Trump's threat of fresh strikes on Iran. Further support came after India said three oil tankers carrying over 860,000 metric tons safely crossed the Strait of Hormuz, a route handling about 20% of global oil supplies. Among individual stocks, Bharat Forge secured a INR 4.25 billion contract from the Defence Ministry to supply gas turbine generators to the Indian Navy, while Kirloskar Oil Engines shares jumped 20% after securing a major order from HyperNext for data center infrastructure. Other notable gainers were Aegis Logistics (6.3%), SCI (4.1%), NIACL (3.2%), Garden Reach Shipbuilders (3.2%), HFCL (2.8%), and Reliance (2.3%)."
     }
   ]
 }
