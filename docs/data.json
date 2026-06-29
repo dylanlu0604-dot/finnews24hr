@@ -1,7 +1,77 @@
 {
-  "updated": "2026-06-29 08:15:23",
-  "count": 17968,
+  "updated": "2026-06-29 08:19:20",
+  "count": 17967,
   "items": [
+    {
+      "id": "mkt:019f10bd-6839-7aab-8c04-8836e00591b8",
+      "time": "2026-06-29 08:17:56",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Australia's ACCC will monitor fuel prices and market conduct after a partial reinstatement of the fuel excise."
+    },
+    {
+      "id": "4959320",
+      "time": "2026-06-29 08:17:55",
+      "tags": [
+        "市場"
+      ],
+      "text": "澳大利亞競爭與消費者委員會（ACCC）：隨著燃油消費稅部分恢復，我們預計零售汽油與柴油價格或將隨消費稅調整同步上漲。"
+    },
+    {
+      "id": "mkt:019f10bc-d9fc-7aab-8c04-865c807148dd",
+      "time": "2026-06-29 08:17:19",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bearish",
+        "Nikkei 225",
+        "Impact bullish",
+        "DXY"
+      ],
+      "text": "【Japan retail sales rise for third month as wages, STATE AID support spending】Japan retail sales rose for a third consecutive month in May, up 1.9% MoM and 5.3% YoY, driven by wage gains and STATE AID that have eased household cost pressures. Despite growing concern the Iran war could lift prices, consumer demand remains firm as wage growth has long outpaced inf and subsidies from Prime Minister Sanae Takaichi are helping households sustain spending."
+    },
+    {
+      "id": "4959319",
+      "time": "2026-06-29 08:16:57",
+      "tags": [
+        "其他"
+      ],
+      "text": "澳大利亞競爭與消費者委員會（ACCC）表示，從7月1日至8月2日，燃油消費稅減免額將從每升32澳分降至16澳分。"
+    },
+    {
+      "id": "mkt:019f10bc-745c-7aab-8c04-7de478ab094f",
+      "time": "2026-06-29 08:16:53",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bearish"
+      ],
+      "text": "Japan 10-year government bond yield rose 3.5 bps to 2.63%."
+    },
+    {
+      "id": "4959318",
+      "time": "2026-06-29 08:16:41",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "10年期日本國債收益率上漲3.5個基點，至2.630%。"
+    },
+    {
+      "id": "4959317",
+      "time": "2026-06-29 08:16:23",
+      "tags": [
+        "其他"
+      ],
+      "text": "澳大利亞競爭與消費者委員會（ACCC）：在燃油消費稅部分恢復徵收後，將對燃油價格及市場行為展開監控。"
+    },
     {
       "id": "4959316",
       "time": "2026-06-29 08:14:06",
@@ -164427,78 +164497,6 @@
         "觀點"
       ],
       "text": "【中信證券：看好具備SOTA能力溢價的頭部模型廠商及AI基建、AI應用的投資機會】中信證券研報指出，Anthropic是全球AI演算法與應用開發的領軍者，是組織文化、戰略聚焦、技術創新等驅動非線性增長的代表。公司專注Coding生態與企業對安全性的需求，依靠技術快速迭代Claude模型，持續放大領先優勢，在2B市場實現了對OpenAI的反超，成為全球ARR增長最快AI企業之一。當前公司產品商業化持續提速，2026年5月ARR達470億美元。當前大模型產業處於技術與商業雙重拐點，看好具備SOTA能力溢價的頭部模型廠商及AI基建、AI應用的投資機會。後續重點跟蹤商業化產品形態、模型廠商競爭格局演變及收入利潤增長曲線等。"
-    },
-    {
-      "id": "4946880",
-      "time": "2026-06-22 08:19:01",
-      "tags": [
-        "公司"
-      ],
-      "text": "【科大訊飛：公司產品及服務價格隨著市場供需等因素進行動態調整】關於公司是否有漲價計劃的問題，科大訊飛(002230)在互動平臺表示，公司產品及服務價格隨著市場供需、成本變化及客戶需求等因素進行動態調整。請投資者理性判斷市場熱點，注意投資風險。"
-    },
-    {
-      "id": "4946879",
-      "time": "2026-06-22 08:18:35",
-      "tags": [
-        "公司",
-        "觀點"
-      ],
-      "text": "【中信證券：頭部半導體裝置公司將繼續受益於強勁的邏輯與儲存需求】中信證券研報稱，根據SEMI資料，2025年全球WFE市場規模同比增長12%至1173億美元；我們預計2026年、2027年全球WFE市場規模將分別同比增長26%/35%至1,478/1,995億美元，其中2027年下游Foundry/邏輯預計佔比52%、儲存預計佔比39%（DRAM和NAND佔比分別提升至24%、15%）。考慮到大客戶積極的資本開支指引以及擴產計劃，我們認為頭部半導體裝置公司將繼續受益於強勁的邏輯與儲存需求。結合下游市場需求、競爭格局、裝置支出強度、公司業績以及估值情況，我們重點推薦先進光刻龍頭，EUV以及DUV出貨量存在上修空間的標的；DRAM領域優勢突出，估值相對較低的標的；刻蝕優勢領先，NAND收入佔比最高的標的；建議關注量檢測需求提升，但利潤率仍可能存在短期逆風因素的標的。"
-    },
-    {
-      "id": "4946878",
-      "time": "2026-06-22 08:16:40",
-      "tags": [
-        "市場"
-      ],
-      "text": "【美債走低 現貨市場在假日結束後恢復交易】美債全線走低，油價上漲加劇通脹擔憂；現貨市場上週五因假日無交易。2年期國債收益率上升4個基點至4.22%。10年期國債收益率上升5個基點至4.50%。布倫特原油期貨上漲超過1%。"
-    },
-    {
-      "id": "te:markets:560569",
-      "time": "2026-06-22 08:16:33",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Stock Market",
-        "Importance 2"
-      ],
-      "text": "US Futures Decline on US-Iran Tensions — US stock futures moved lower on Monday as tensions flared during the first day of talks between the US and Iran, driving oil prices higher. President Donald Trump threatened fresh strikes if Hezbollah continues its attacks on Israel and warned Tehran against closing the Strait of Hormuz again. Meanwhile, Iranian media reported that Tehran had suspended negotiations in response to Trump's remarks, although sources familiar with the discussions said talks were still ongoing. Investors also turned their attention to this week's release of the US PCE price index, the Federal Reserve's preferred measure of inflation. Last week, the Fed left interest rates unchanged but signaled a more hawkish stance, with nearly half of FOMC members now expecting at least one rate increase before year-end. Despite this, US equities posted gains last week, led by the tech-heavy Nasdaq Composite, which rose 2.43%, while the S&P 500 and Dow advanced 0.93% and 0.71%, respectively."
-    },
-    {
-      "id": "4946877",
-      "time": "2026-06-22 08:16:29",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "紐約期金突破4190美元/盎司，日內跌1.30%。"
-    },
-    {
-      "id": "4946876",
-      "time": "2026-06-22 08:16:27",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "紐約期金突破4180美元/盎司，日內跌1.54%。"
-    },
-    {
-      "id": "4946875",
-      "time": "2026-06-22 08:16:18",
-      "tags": [
-        "觀點"
-      ],
-      "text": "【中信證券：服務消費、情緒消費及體育、文旅、寵物、銀髮健康等方向有望成為內需弱修復中的結構性亮點】中信證券研報稱，5月內需讀數進一步走弱，社零同比下降0.6%，為2023年以來首次轉負，核心拖累來自商品消費，尤其是汽車、石油製品和家電三類，合計拖累限額以上商品零售約5.54個百分點；與此同時，鄉村強於城鎮、餐飲強於商品、一線城市與非一線城市差距收斂。短期看，商品消費偏弱並非主要源於補貼資金退坡，2026年以舊換新資金仍有2500億元、僅較去年下降16.7%，首批625億元已提前下達，但補貼撬動效率明顯下降，家電拉動係數回落、汽車由正轉負，反映前期需求釋放、換購週期拉長和收入預期偏弱共同壓制消費意願。財富效應方面，中國居民資產仍以住房和存款為主，科技行情對消費傳導弱於美韓。向後看，促消費政策仍在加碼，2026年消費相關財政資金有望接近6000億元，服務消費、情緒消費及體育、文旅、寵物、銀髮健康等方向有望成為內需弱修復中的結構性亮點。"
-    },
-    {
-      "id": "4946874",
-      "time": "2026-06-22 08:15:31",
-      "tags": [
-        "公司",
-        "觀點"
-      ],
-      "text": "【中信證券：加息很難影響“AI類週期股”的估值】中信證券研報稱，今年以來AI驅動的行情是由龐大的基礎設施投資驅動的“瓶頸交易”，更像是2006~07年由投資和重資產公司推動的牛市，而非網際網路泡沫行情，加息很難影響“AI類週期股”的估值，除非加息真的影響到AI的終端需求、商業化假設和資本開支增速。全球範圍內的加息程序率先影響到的是需求增長相對偏弱的板塊，AI與非AI的K型分化在全球都成立；不過，由於強勢美元敘事同時開始迴歸，以及市場整體呈現存量資金調結構的格局，A股的非AI週期板塊相比海外的對標公司明顯更弱；同樣是K型分化，A股行情的寬度相對海外有所不足。改變非AI板塊的弱勢還需要自身敘事在未來出現一些積極變化，或者資金面發生改變，而非等AI調整。"
     }
   ]
 }
