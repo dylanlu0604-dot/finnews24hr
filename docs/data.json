@@ -1,7 +1,60 @@
 {
-  "updated": "2026-06-29 07:56:03",
-  "count": 17973,
+  "updated": "2026-06-29 07:59:58",
+  "count": 17969,
   "items": [
+    {
+      "id": "4959297",
+      "time": "2026-06-29 07:59:15",
+      "tags": [
+        "其他"
+      ],
+      "text": "【澳大利亞APRA就銀行風險權重調整展開諮詢】澳大利亞審慎監管局（APRA）已開始就擬議的銀行信用風險資本設定調整進行公眾諮詢。 提案內容包括： - 允許對大型國內公共基礎設施敞口採用較低的風險權重； - 在滿足特定條件的情況下，允許對高質量的未評級企業敞口採用較低的風險權重； - 調整標準，使更多住宅地產開發專案符合100%較低風險權重的資格要求； - 計劃於2026年下半年最終確定信用風險資本調整方案，並擬於2027年4月1日起生效； - 與流動性風險和市場風險相關的提案將在未來12個月內開展諮詢。"
+    },
+    {
+      "id": "4959296",
+      "time": "2026-06-29 07:56:23",
+      "tags": [
+        "公司"
+      ],
+      "text": "【A股分紅派息轉增一覽：63股今日股權登記】Wind資料顯示，根據上市公司權益分配方案梳理統計，63只A股今日股權登記。其中，60股擬派息，3股派息、轉增或送股同時實施。分紅派息方面，60只個股分紅派息的股權登記日為6月29日。濟川藥業、洋河股份、天地數碼分紅力度最大，每10股分別派息17.40元、14.70元、6.50元。3股派息、轉增或送股同時實施，股權登記日為6月29日。海鷗股份、美心翼申、金銀河分紅力度最大，每10股分別派息1.80元、1.00元、0.33元。"
+    },
+    {
+      "id": "te:economy:562355",
+      "time": "2026-06-29 07:56:15",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Japan",
+        "Retail Sales YoY",
+        "Importance 2"
+      ],
+      "text": "Japan Retail Sales Growth Highest Since 2023 — Retail sales in Japan increased 5.3% year-on-year in May 2026, accelerating from an upwardly revised 2.8% rise in the previous month and surpassing market expectations for a 3.2% gain. It was the strongest growth since November 2023, supported by government measures, including a stimulus package aimed at boosting consumption and easing price pressures. On a monthly basis, retail sales rose 1.9%, easing from an upwardly revised 2.1% gain in April, which was the fastest increase in four months."
+    },
+    {
+      "id": "4959295",
+      "time": "2026-06-29 07:56:12",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【日本零售銷售連續第三個月增長，受益於薪資上漲和補貼】受工資上漲及政府補貼緩解生活成本影響，日本5月份零售銷售連續第三個月實現增長。 日本經濟產業省週一公佈的資料顯示，5月零售額環比增長1.9%，4月資料經上修後也顯示增長勢頭強勁。這一數字超出彭博社對經濟學家調查的全部預期。與去年同期相比，零售額增長5.3%，高於市場普遍預期的3%增幅。上述資料未經過通脹調整。"
+    },
+    {
+      "id": "4959294",
+      "time": "2026-06-29 07:55:51",
+      "tags": [
+        "觀點"
+      ],
+      "text": "【中泰證券：AI需求引領磷化銦、銦金屬供需趨緊】中泰證券研報指出，AI資本開支增加，光通訊需求增長，帶來磷化銦襯底需求的高增長。磷化銦（InP）是一種化合物半導體材料，在光通訊領域，磷化銦始終是核心晶片材料。據Omdia、Yole，2025年全球磷化銦襯底（2英寸當量）總需求約200—210萬片，全球有效合規產能僅60—70萬片，接近70%的供需缺口持續拉高產業景氣度。Lumentum預測到2030年，AIDC對磷化銦的需求年複合增長率將達到85%。磷化銦需求確定性增長、下游加庫存將拉動銦需求上行。供給高集中度，企業翻倍式擴產配適高增的需求。由於磷化銦單晶生長裝置和技術方面存在較高技術壁壘，磷化銦襯底市場參與者較少且以國外廠商為主，頭部企業集中度高，壟斷格局明顯，近年來國產化程序加速。2026年以來，核心磷化銦襯底企業持續擴產，配適高增的需求。"
+    },
+    {
+      "id": "4959293",
+      "time": "2026-06-29 07:55:49",
+      "tags": [
+        "其他"
+      ],
+      "text": "澳大利亞審慎監管局（APRA）提議包括對大型國內公共基礎設施風險敞口給予較低風險權重等舉措。"
+    },
     {
       "id": "4959292",
       "time": "2026-06-29 07:55:19",
@@ -164437,93 +164490,6 @@
         "國際"
       ],
       "text": "韓國6月進口20天同比 23.2%，前值 29.3%。韓國6月出口20天同比 60.4%，前值 64.8%。"
-    },
-    {
-      "id": "4946847",
-      "time": "2026-06-22 07:59:16",
-      "tags": [
-        "其他"
-      ],
-      "text": "【年內新成立FOF基金已達88只 上半年新發規模超歷史峰值】2026年以來，曾長期處於公募基金市場邊緣的FOF（基金中基金）迎來爆發式增長。Wind資料顯示，截至6月20日，年內新成立FOF基金已達88只，合計發行規模高達1137.69億元，不僅超越2025年全年水平，還超過了2021年創下的歷史峰值。與此同時，全市場FOF基金平均收益率達5.28%，在權益市場波動的背景下展現出穩健的抗風險能力，FOF正從公募基金的“配角”加速走向舞臺中央。"
-    },
-    {
-      "id": "4946846",
-      "time": "2026-06-22 07:59:10",
-      "tags": [
-        "其他"
-      ],
-      "text": "【2026年電影端午檔票房已達3.92億元】截至6月21日21時，2026年電影端午檔票房3.92億，總場次144萬場，重新整理中國影史端午檔總場次紀錄。同時，2026年暑期檔總票房已超11.82億元。今年端午檔3天假期，近20部涵蓋科幻、青春、動畫等多種題材的影片集中上映，創下近十年來同期新高。資料顯示，整個暑期檔將有80多部新片陸續和觀眾見面，覆蓋歷史、喜劇、愛情、國風動畫、硬核科幻等多元題材和型別。（央視）"
-    },
-    {
-      "id": "te:markets:560567",
-      "time": "2026-06-22 07:58:23",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 0"
-      ],
-      "text": "Silver Falls as Oil Prices Rise — Silver fell toward $64 an ounce on Monday, extending its recent decline as higher oil prices kept inflation concerns elevated following renewed tensions during the opening day of US-Iran talks. President Donald Trump threatened fresh military action if Hezbollah continues its attacks on Israel and warned Tehran against shutting the Strait of Hormuz again. At the same time, Iranian media reported that Tehran had suspended negotiations in response to Trump’s remarks, although sources familiar with the discussions said talks were still underway. Silver was also weighed down by expectations of tighter monetary policy after the Federal Reserve left interest rates unchanged last week while adopting a more hawkish tone. Nine of the Fed’s 19 policymakers now anticipate at least one rate increase this year, with investors pricing in a potential hike as soon as September."
-    },
-    {
-      "id": "4946845",
-      "time": "2026-06-22 07:58:09",
-      "tags": [
-        "公司"
-      ],
-      "text": "【Lime計劃在首次公開募股中將優步列為基石投資者】據報道，運營電動腳踏車和電動滑板車網路的Lime計劃在首次公開募股（IPO）中，將網約車公司優步（Uber） UBER.N 列為基石投資者。該公司預計將於本週透過路演與IPO投資者展開磋商，以約18億美元的估值籌集約2億美元資金。"
-    },
-    {
-      "id": "mkt:019eec9e-6792-7dd8-b0aa-6283794f4938",
-      "time": "2026-06-22 07:57:44",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "【CSC Financial: Overseas rare-earth squeeze forces downstream cuts; Chinese rare-earth chain likely to benefit】CSC Financial research note says Chinese dental zirconia makers have received notices from Japan's Tosoh suspending supply of zirconia powder, signaling raw-material shortages have moved from expectation to reality after overseas rare-earth constraints. YSZ (yttria-stabilized zirconia), a yttria-doped high-performance ceramic, faces steep domestic-foreign price divergence: domestic yttrium oxide quoted about 55,000 yuan/ton, Rotterdam port price $457.50/kg and Baichuan reports a European price of $1,175/kg, with some spreads exceeding 100x. Baichuan data show similar widening for other oxides: dysprosium ~8x, terbium ~5x, gadolinium ~40x, scandium ~6x. Rare earths are essential additives for high-end materials and manufacturing; tightening overseas supply and expanding spreads imply Chinese producers of rare-earth-added high-end materials could gain global market share, supporting upstream, midstream and downstream segments of the domestic rare-earth industry chain."
-    },
-    {
-      "id": "4946844",
-      "time": "2026-06-22 07:57:31",
-      "tags": [
-        "觀點",
-        "國際"
-      ],
-      "text": "【中信建投：奈米氧化鋯迎來快速發展機遇】中信建投研報稱，從高階氧化鋯下游需求結構看，預計未來五年固態電池複合增速將達到76%，未來十年SOFC複合增速將達到26.6%，新興領域將帶來高階氧化鋯需求大幅增長。與此同時，鋯在清潔能源產業具備多元化應用價值，成長空間突出。由於氧化釔作為氧化鋯最關鍵的穩定劑，受制於稀土緊缺，日本東曹、第一稀元素化學等全球龍頭產能大幅下降，我國高階氧化鋯正迎來高速發展機遇。"
-    },
-    {
-      "id": "4946843",
-      "time": "2026-06-22 07:57:19",
-      "tags": [
-        "其他"
-      ],
-      "text": "【多元策略基金業績承壓 多元與賽道策略走向融合】近兩年來，隨著A股市場結構性行情極致演繹，基金的多元配置策略越來越難。公募、遊資等機構高度聚焦AI、算力等少數賽道，導致固守分散持倉策略的基金收益持續低迷，多元策略失效一度成為行業話題。不過，面對市場的變化，也有一批均衡基金透過主動調整倉位，業績表現也十分亮眼。在當前科技行情獨當一面的背景下，基金行業對多元投資的認知也在變化，業內普遍認為，公募投研正在打破賽道和均衡二選一的固有認知，兩種投資框架逐步融合發展。"
-    },
-    {
-      "id": "4946842",
-      "time": "2026-06-22 07:57:12",
-      "tags": [
-        "觀點",
-        "國際"
-      ],
-      "text": "【中信建投：海外稀土緊缺導致下游減停產，國內產業鏈上中下游均將受益】中信建投研報稱，國內齒科氧化鋯企業確認“已經收到日本東曹關於氧化鋯粉體暫停供應的通知”，標誌著海外稀土供給受限之後，原料短缺問題從預期走向落地。氧化釔穩定奈米氧化鋯（YSZ）是新增氧化釔的高效能陶瓷材料，由於海外稀土供給受限，內外價差最大高達上百倍。國內氧化釔報價約5.5萬元/噸，鹿特丹港口價457.50美元/kg，百川報歐洲市場價1175美元/kg，內外價差巨大。此外，據百川資料，氧化鏑內外價差約8倍，氧化鋱內外價差約5倍，氧化釓內外價差約40倍，氧化鈧內外價差約6倍等。稀土是高階材料、高階製造不可或缺新增劑，隨著海外稀土供給收緊，內外價差走擴，國內新增稀土的高階材料有望獲得更大全球市場份額，稀土產業鏈上中下游均因此受益。"
-    },
-    {
-      "id": "4946841",
-      "time": "2026-06-22 07:56:57",
-      "tags": [
-        "國際"
-      ],
-      "text": "哥倫比亞極右翼候選人德拉埃斯普列亞稱，美國總統唐納德・特朗普已致電祝賀其大選獲勝。"
-    },
-    {
-      "id": "mkt:019eec9c-e171-7dd8-b0aa-59026956563f",
-      "time": "2026-06-22 07:56:04",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Parliamentary sources: Bank of Japan Deputy Governor HIMINO will attend a House of Representatives Budget Committee session from 08:00 to 08:38."
     }
   ]
 }
