@@ -1,7 +1,64 @@
 {
-  "updated": "2026-06-29 10:18:30",
-  "count": 17938,
+  "updated": "2026-06-29 10:22:27",
+  "count": 17935,
   "items": [
+    {
+      "id": "te:economy:562378",
+      "time": "2026-06-29 10:21:28",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Taiwan",
+        "Consumer Confidence",
+        "Importance 1"
+      ],
+      "text": "Taiwan Consumer Confidence Recovers in June — Taiwan’s consumer confidence index rose to 65.05 in June 2026 from 62.08 in the previous month, recovering from its lowest level in more than three years as sentiment improved across all six core components. The strongest gain was recorded in stock investment prospects, which climbed to 29.9 from 22.06 in May, followed by future price levels (35.83 vs 32.77), durable goods purchases (93.55 vs 91.68), labor market expectations (72.46 vs 70.7), household finances (77.7 vs 76.02), while expectations for domestic economic conditions edged up to 80.87 from 79.26, marking the smallest increase among the main indicators. Additionally, confidence in real estate purchases (90.35 vs 88.51), assessments of current health conditions (86.82 vs 84.92), and expected health conditions (81.86 vs 80.01) strengthened. Despite the broad-based improvement, all six main sub-indicators remained below the 100-point threshold, indicating that consumers continued to hold a generally cautious outlook."
+    },
+    {
+      "id": "mkt:019f112d-48f5-7aab-8c07-324f499291b1",
+      "time": "2026-06-29 10:20:08",
+      "tags": [
+        "MKT News",
+        "600519.SS",
+        "Impact bullish"
+      ],
+      "text": "China A-share baijiu sector firm: Jiugui Liquor up over 8%, Shede Spirits up over 5%, Kweichow Moutai up over 2%; Yingjia Gongjiu and Shuijingfang also gained."
+    },
+    {
+      "id": "4959584",
+      "time": "2026-06-29 10:19:51",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "【自變數C輪融資後估值超200億】自變數機器人宣佈，繼4月下旬完成小米戰投領投的B輪融資後，公司於2個多月內迅速完成B+、B++及C輪融資，4輪融資均已全部完成交割。本輪投後估值正式突破200億元人民幣。本輪投資方已確認名單包括：中國移動、國家人工智慧產業投資基金、紅杉中國、IDG資本、原始碼資本、達晨財智、中金資本等30餘家頂級機構及網際網路巨頭資本。其中，小米戰投已連續三輪持續加註。（科創板日報）"
+    },
+    {
+      "id": "4959583",
+      "time": "2026-06-29 10:19:00",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【A股白酒板塊異動拉昇】巨力索具觸及漲停，酒鬼酒、捨得酒業、迎駕貢酒、水井坊、會稽山、廣譽遠跟漲。"
+    },
+    {
+      "id": "4959582",
+      "time": "2026-06-29 10:19:00",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【A股食品飲料板塊異動拉昇】佳禾食品觸及漲停，酒鬼酒、百潤股份、元祖股份、捨得酒業、巴比食品、迎駕貢酒跟漲。"
+    },
+    {
+      "id": "4959581",
+      "time": "2026-06-29 10:18:01",
+      "tags": [
+        "公司"
+      ],
+      "text": "【北京太空算力創新中心正式揭牌】今日在北京海淀中關村舉辦的全球數字經濟大會太空算力論壇上，北京太空算力創新中心正式揭牌成立，創新中心採用“公司+聯盟”雙輪驅動模式，運營主體為北京天算星聯科技有限公司。創新中心承擔四類核心職能：一是共性技術攻關，圍繞星載AI晶片、高效能算力載荷、智慧衛星平臺、太空大模型、天地一體雲平臺等關鍵環節統籌組織聯合研發；二是公共平臺服務，建設覆蓋晶片到系統的地面綜合驗證基礎設施與天地一體測試驗證環境，向產業鏈上下游開放共享；三是標準制定與生態引領，主導或參與國家、行業標準研製，以開源開放理念匯聚產業生態；四是成果轉化與場景變現，統籌城市治理、行業“天數天算”、社會化Token化AI服務三類應用通路，推動太空算力規模化商業落地。 (科創板日報記者 李明明)"
+    },
     {
       "id": "4959580",
       "time": "2026-06-29 10:16:36",
@@ -164177,82 +164234,6 @@
         "其他"
       ],
       "text": "【寧德時代港股漲超3%】寧德時代港股漲3.74%，報734.00港元。"
-    },
-    {
-      "id": "4947134",
-      "time": "2026-06-22 10:22:18",
-      "tags": [
-        "其他"
-      ],
-      "text": "【40款移動應用違法違規收集使用個人資訊被通報】經公安部計算機資訊系統安全產品質量監督檢驗中心檢測，40款移動應用存在一項或者多項違法違規收集使用個人資訊情況。處理不滿十四周歲未成年人個人資訊，未制定專門的個人資訊處理規則，未取得未成年人父母或其他監護人的同意。"
-    },
-    {
-      "id": "4947133",
-      "time": "2026-06-22 10:22:08",
-      "tags": [
-        "公司"
-      ],
-      "text": "【傑創智慧等成立新公司 含衛星遙感資料處理業務】企查查APP顯示，近日，杭州傑創駿圖智慧科技有限公司成立，經營範圍包含：智慧機器人銷售；智慧機器人的研發；智慧無人飛行器製造；智慧無人飛行器銷售；衛星遙感資料處理；人工智慧公共資料平臺等。企查查股權穿透顯示，該公司由傑創智慧等共同持股。"
-    },
-    {
-      "id": "4947132",
-      "time": "2026-06-22 10:21:39",
-      "tags": [
-        "其他"
-      ],
-      "text": "【小米YU7 GT取得紐北自動駕駛圈速紀錄】6月22日，小米汽車宣佈，小米YU7 GT以10分29秒483，取得全球首個紐北自動駕駛圈速紀錄。"
-    },
-    {
-      "id": "mkt:019eed21-9771-7dd8-b0ae-3e769f8edc5a",
-      "time": "2026-06-22 10:21:02",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "【Hainan island duty-free sales total 202 mln yuan over Dragon Boat holiday】Haikou Customs said Hainan island duty-free shopping totaled 202 mln yuan from June 19-21, with 34,700 shoppers and 159,000 items sold. Compared with the same period last year, sales rose 8.6%, shopper numbers rose 11.2% and items sold rose 1.9%."
-    },
-    {
-      "id": "mkt:019eed21-3e00-7dd8-b0ae-36a2be60d186",
-      "time": "2026-06-22 10:20:39",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Ant Group board reshuffle: He Xiaopeng among three new independent directors】Ant Group completed a board reshuffle, appointing three new independent directors: Bai Chong'en, dean of Tsinghua University School of Economics and Management; He Xiaopeng, chairman and CEO of XPeng Motors; and Zeng Shunfu, former CEO of Deloitte China. Former HKEX chair Shi Meilun and AI scholar Zhang Hongjiang remain on the board. The board stays at nine members, with independent directors exceeding 50%, a move the group says strengthens governance."
-    },
-    {
-      "id": "4947131",
-      "time": "2026-06-22 10:20:21",
-      "tags": [
-        "市場"
-      ],
-      "text": "【端午期間 海南離島免稅購物金額超2億元】今年端午節期間（6月19日至21日），海南離島免稅消費市場持續升溫。據海口海關統計，假期三天海關共監管離島免稅購物金額達2.02億元，購物人數3.47萬人次，購物件數15.9萬件。與去年同期相比，分別實現8.6%、11.2%和1.9%的穩步增長。假期期間，家庭式、親友結伴出行的顧客成為購物主力，高階護膚品、智慧數碼產品等品類備受青睞。"
-    },
-    {
-      "id": "4947130",
-      "time": "2026-06-22 10:19:14",
-      "tags": [
-        "其他"
-      ],
-      "text": "高市早苗：消費稅將在兩年減稅期結束後恢復徵收。"
-    },
-    {
-      "id": "4947129",
-      "time": "2026-06-22 10:18:50",
-      "tags": [
-        "其他"
-      ],
-      "text": "【法國多地釋出高溫預警 部分地區臨時“禁酒”】法國氣象局通報，首都巴黎和34個省21日釋出最高階別的高溫紅色預警，覆蓋範圍創歷史紀錄。紅色預警區域內21日執行“禁酒令”，限制民眾在公共場所飲酒，以避免民眾出現不適症狀，擠佔醫療資源。本輪紅色預警範圍覆蓋逾三分之一法國本土面積，另有45個省釋出高溫橙色預警。據法新社統計，約5300萬法國人21日將受到高溫天氣影響。氣象部門預計，22日局地氣溫或將升至41攝氏度，法國全國平均氣溫或打破歷史最高紀錄。"
-    },
-    {
-      "id": "mkt:019eed1f-825e-7dd8-b0ae-28474e3c6b51",
-      "time": "2026-06-22 10:18:45",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "China's Ministry of Public Security Computer Information System Security Product Quality Supervision and Inspection Center found 40 mobile apps that violated laws and regulations by collecting and using personal information."
     }
   ]
 }
