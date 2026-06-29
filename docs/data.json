@@ -1,7 +1,207 @@
 {
-  "updated": "2026-06-29 17:01:23",
-  "count": 17862,
+  "updated": "2026-06-29 17:05:26",
+  "count": 17863,
   "items": [
+    {
+      "id": "mkt:019f129f-d9ed-7aab-8c0f-8df2aace7871",
+      "time": "2026-06-29 17:04:53",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Shanghai Stock Exchange website shows Xi'an Xintong Pharmaceutical Research Co., Ltd.'s STAR Market IPO review status changed to \"inquiry\"."
+    },
+    {
+      "id": "4960253",
+      "time": "2026-06-29 17:04:39",
+      "tags": [
+        "公司"
+      ],
+      "text": "【國聯民生：獲同意公開發行面值總額不超60億元次級債券】國聯民生公告，公司收到中國證監會出具的《關於同意國聯民生證券股份有限公司向專業投資者公開發行次級債券註冊的批覆》。根據批覆，中國證監會同意公司向專業投資者公開發行面值總額不超過60億元次級債券的註冊申請。該批覆自同意註冊之日起24個月內有效，公司在註冊有效期內可以分期發行次級債券。"
+    },
+    {
+      "id": "4960252",
+      "time": "2026-06-29 17:04:36",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【納斯達克100ETF招商：提示二級市場交易價格溢價風險】納斯達克100ETF招商公告稱，近期該基金二級市場交易價格明顯高於基金份額參考淨值，出現較大幅度溢價。2026年6月29日，收盤價為2.304元，收盤時基金份額參考淨值為2.1375元。若6月30日溢價幅度未有效回落，基金有權申請停牌等措施警示風險。投資者可在二級市場交易或申贖基金，交易價格受多種因素影響，可能面臨損失。目前基金運作正常，無應披露未披露重大資訊。"
+    },
+    {
+      "id": "4960251",
+      "time": "2026-06-29 17:04:32",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【亞太精選ETF南方：二級市場交易價格溢價 提醒投資者注意風險】亞太精選ETF南方公告稱，近期該基金二級市場交易價格明顯高於基金份額參考淨值，出現較大幅度溢價。2026年6月29日，收盤價為1.918元，收盤時基金份額參考淨值為1.8128元。若6月30日溢價幅度未有效回落，基金有權申請停牌等措施警示風險。基金管理人提醒投資者關注產品風險，審慎投資，目前基金運作正常且無應披露未披露重大資訊。"
+    },
+    {
+      "id": "mkt:019f129f-84a2-7aab-8c0f-823dfb0560ab",
+      "time": "2026-06-29 17:04:31",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【China's State Council to moderately expand 'Double First Class' program, focus on strong disciplines and strategic needs】China's State Council issued the Education Development 15th Five-Year Plan, launching a new round of 'Double First Class' construction and requiring standards to be determined autonomously and scientifically under a national-mission, strategy-driven, forward-looking systematic approach. The plan calls for a moderate expansion of the program targeted at advantaged disciplines and strategic needs, emphasizing disciplinary crossovers, industry-education and science-education integration, digital-intelligence enablement, reinforcement of basic disciplines, coordination between applied and basic fields, accelerated development of emerging interdisciplinary areas, and positioning participating institutions as primary hubs for elite innovation talent, the main force in basic research and sources of major technological breakthroughs."
+    },
+    {
+      "id": "4960250",
+      "time": "2026-06-29 17:04:27",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【納斯達克ETF華安：提示二級市場交易價格溢價風險】納斯達克ETF華安公告稱，近期本基金二級市場交易價格明顯高於基金份額參考淨值，出現較大幅度溢價。2026年6月29日，收盤價為2.419元，收盤時參考淨值為2.2479元。若6月30日溢價幅度未有效回落，基金有權申請停牌等措施。投資者可在二級市場交易或申贖，交易價格受多種因素影響。目前基金運作正常，無應披露未披露資訊。提醒投資者關注風險，謹慎投資。"
+    },
+    {
+      "id": "4960249",
+      "time": "2026-06-29 17:04:19",
+      "tags": [
+        "公司"
+      ],
+      "text": "【港美網際網路LOF：7月1日因香港假期暫停贖回業務】港美網際網路LOF公告稱，因2026年7月1日為香港特別行政區成立紀念日假期，為保障基金平穩運作，保護持有人利益，7月1日暫停辦理該基金贖回業務，二級市場交易業務照常辦理。7月2日起恢復辦理，屆時不再另行公告。該基金已於2026年5月28日起暫停申購、定期定額投資業務。"
+    },
+    {
+      "id": "4960248",
+      "time": "2026-06-29 17:04:11",
+      "tags": [
+        "公司"
+      ],
+      "text": "【康迪科技：戰略控股信儲新能源 業務延伸至AIDC備電儲能領域】6月29日，康迪科技宣佈完成對信儲新能源2000萬元戰略投資，並以51%股權實現控股。信儲新能源深耕資料中心備用鋰電池、通訊基站領域。該公司未來會圍繞資料中心、AI工廠和通訊基站等場景提供備用鋰電池和BMS解決方案。此次投資標誌著康迪戰略性進軍全球AI資料中心備用電源及儲能市場。"
+    },
+    {
+      "id": "4960247",
+      "time": "2026-06-29 17:03:54",
+      "tags": [
+        "公司"
+      ],
+      "text": "【易方達基金：旗下部分基金7月3日暫停多項業務7月6日恢復】易方達基金公告稱，為保護基金份額持有人利益、保障基金平穩運作，旗下部分基金2026年7月3日將暫停申購、贖回、轉換、定期定額投資業務，7月6日恢復辦理。暫停原因主要為納斯達克、紐約等境外主要投資市場休市，適用基金列表及具體暫停原因詳見附件。投資者可登入公司網站或撥打客服電話獲取相關資訊。"
+    },
+    {
+      "id": "4960246",
+      "time": "2026-06-29 17:03:47",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【納指ETF嘉實：二級市場交易價格溢價 6月30日開市起停牌】納指ETF嘉實公告稱，近期該基金二級市場交易價格明顯高於基金份額參考淨值，出現較大幅度溢價。2026年6月29日，收盤價為2.047元，收盤時基金份額參考淨值為1.8595元。為保護投資者利益，基金於6月30日開市起停牌，自10:30起復牌，停牌期間贖回業務照常辦理。若6月30日溢價幅度未有效回落，基金有權採取進一步停牌措施。目前基金運作正常，無應披露而未披露的重大資訊。"
+    },
+    {
+      "id": "mkt:019f129e-a43b-7aab-8c0f-7cb53f7b3f3b",
+      "time": "2026-06-29 17:03:34",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【Zhuque-3 reusable Yao-2 launch vehicle completes static-fire test】Zhuque-3 reusable Yao-2 launch vehicle completed a static-fire test at the Dongfeng Commercial Aerospace Innovation Test Zone. The trial verified the rocket, launch-site systems and their integration; all systems performed normally, test data met expectations and validated system coordination, clearing a technical milestone for subsequent flight missions."
+    },
+    {
+      "id": "4960245",
+      "time": "2026-06-29 17:03:32",
+      "tags": [
+        "公司"
+      ],
+      "text": "【前海開源基金：旗下部分基金7月1日暫停相關業務 7月2日恢復】前海開源基金公告稱，為保障基金平穩運作，維護基金份額持有人利益，根據相關規定，旗下26只基金於2026年7月1日暫停申購、贖回、轉換及定期定額投資等業務，7月2日起恢復，屆時不再另行公告。若非港股通交易日安排變化，將相應調整並公告。投資者可透過公司網站或客服電話諮詢。"
+    },
+    {
+      "id": "4960244",
+      "time": "2026-06-29 17:03:24",
+      "tags": [
+        "公司"
+      ],
+      "text": "【智匯礦業：聯交所就3.66億股H股全流通申請授出上市批准】智匯礦業公告，公司已收到聯交所於2026年6月29日就3.66億股H股上市及買賣的批准。該批准涉及將三名股東持有的公司境內非上市股份轉換為H股的申請。公司表示將遵守相關規則及法律完成轉換程式，並會適時釋出進一步公告。"
+    },
+    {
+      "id": "4960243",
+      "time": "2026-06-29 17:03:01",
+      "tags": [
+        "公司"
+      ],
+      "text": "【EPS創健科技：截至3月31日止年度除稅後虧損1103萬港元】EPS創健科技公告，截至二零二六年三月三十一日止年度收益約4.58億港元，上年同期5.45億港元；除稅後虧損1103萬港元，上年同期淨利潤3039.4萬港元。"
+    },
+    {
+      "id": "4960242",
+      "time": "2026-06-29 17:02:24",
+      "tags": [
+        "國際"
+      ],
+      "text": "歐盟拍賣281.8萬噸現貨碳排放配額，成交價為每噸79.01歐元。"
+    },
+    {
+      "id": "4960241",
+      "time": "2026-06-29 17:01:59",
+      "tags": [
+        "其他"
+      ],
+      "text": "【完成靜態點火試驗 朱雀三號重複使用遙二運載火箭取得新進展】6月29日，朱雀三號重複使用遙二運載火箭在東風商業航天創新試驗區順利完成靜態點火試驗。據介紹，本次試驗全面檢驗了火箭系統、發射場系統及兩者之間的匹配性，各系統工作正常，試驗資料與結果符合預期，驗證了系統工作的正確性和協調性，為後續飛行任務實施奠定了基礎。朱雀三號是我國面向大型星座組網任務自主研製的一款大運力、低成本、可重複使用的大型液體運載火箭，採用不鏽鋼作為箭體主結構材料，可在執行軌道發射任務後自主高精度返回，在回收場實現軟著陸並重複使用。目前，朱雀三號重複使用遙二運載火箭發射前各項關鍵地面驗證工作已全部完成。後續，試驗隊將按照既定計劃開展各項發射準備工作，為執行飛行試驗任務做好充分準備。（央視新聞）"
+    },
+    {
+      "id": "4960240",
+      "time": "2026-06-29 17:01:51",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【國務院印發《教育發展“十五五”規劃》】國務院日前印發《教育發展“十五五”規劃》，對“十五五”時期加快建設教育強國作出部署。（新華社）"
+    },
+    {
+      "id": "mkt:019f129c-fcb6-7aab-8c0f-75d302500bb6",
+      "time": "2026-06-29 17:01:45",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "GBPUSD",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "【UK mortgage approvals fall as rate‑locking surge fades】UK mortgage approvals fell sharply in May to 56,205, below April’s 15-month high of 66,034 and short of economists’ 63,000 forecast, Bank of England data on Monday showed. Approvals had remained elevated since the Ukraine shock as households rushed to lock rates ahead of rising borrowing costs; the data suggest that surge is now fading, signaling fresh spring pressure on the housing market. Consumers added £1.7bn (about $2.2bn) of unsecured credit in May, unchanged from April and slightly below expectations."
+    },
+    {
+      "id": "mkt:019f129c-e731-7aab-8c0f-6f00483b40b6",
+      "time": "2026-06-29 17:01:40",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "China's State Council issued a notice publishing the Education Development 15th Five-Year Plan, Xinhua reported."
+    },
+    {
+      "id": "4960239",
+      "time": "2026-06-29 17:01:23",
+      "tags": [
+        "公司"
+      ],
+      "text": "巴基斯坦油田公司再度任命馬利克擔任執行長，任期三年。"
+    },
+    {
+      "id": "mkt:019f129c-71d8-7aab-8c0f-611e1508a8a6",
+      "time": "2026-06-29 17:01:10",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "【SAMR fines Zhongshan Torch Group and Shanghai Dinghui Baifu 1.75 mln yuan each】The State Administration for Market Regulation (SAMR) recently imposed administrative penalties on Zhongshan Torch Group Co., Ltd. and Shanghai Dinghui Baifu Investment Management Co., Ltd. after they acquired control of Zhongju Hi‑Tech Industrial Co., Ltd. by other means in a case found to violate the PRC Anti‑Monopoly Law governing concentrations; each company was fined 1.75 mln yuan."
+    },
+    {
+      "id": "mkt:019f129c-65ea-7aab-8c0f-58322ce0cab9",
+      "time": "2026-06-29 17:01:07",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Reportedly, the Israeli government has approved an extension of the \"Rear Special Status\"."
+    },
+    {
+      "id": "4960238",
+      "time": "2026-06-29 17:01:06",
+      "tags": [
+        "宏觀",
+        "公司"
+      ],
+      "text": "【市場監管總局：對火炬集團和鼎暉百孚分別處以175萬元罰款】近日，市場監管總局依法對中山火炬集團有限公司和上海鼎暉百孚投資管理有限公司透過其他方式取得中炬高新技術實業股份有限公司控制權違反《中華人民共和國反壟斷法》實施經營者集中案作出行政處罰決定，對火炬集團和鼎暉百孚分別處以175萬元罰款。（央視新聞）"
+    },
     {
       "id": "4960237",
       "time": "2026-06-29 17:00:48",
@@ -163478,206 +163678,6 @@
         "國際"
       ],
       "text": "巴基斯坦總理謝里夫：伊朗與美國的首次高階別委員會會議已在瑞士圓滿結束。"
-    },
-    {
-      "id": "4947866",
-      "time": "2026-06-22 17:05:00",
-      "tags": [
-        "市場"
-      ],
-      "text": "【機構：6月電視、筆電面板價格與前月一致，顯示器面板價格上漲】根據TrendForce集邦諮詢顯示器研究中心最新調研資料，2026年6月，電視、筆電面板價格與前月一致，顯示器面板價格上漲。6月，電視面板價格與上月一致。65吋電視面板均價為177美元，最低價格為170美元，最高為180美元。55吋電視面板均價為126美元，最低價格為119美元，最高為129美元。43吋電視面板均價為66美元，最低價格為64美元，最高為68美元。32吋電視面板均價為37美元，最低價格為36美元，最高為38美元。顯示器面板6月保持微幅上漲態勢。27吋IPS面板均價為63.6美元，與前月比上漲0.1美元，上漲幅度為0.2%；最低價格為58美元，最高價格為66.4美元。23.8吋IPS面板均價為51美元，與前月比上漲0.1美元，上漲幅度為0.2%；最低價格為47.9美元，最高價格52.7美元。筆電面板價格從2026年2月至6月保持穩定。17.3吋TN面板均價為37.6美元，本期最低價格37美元，最高價格38.9美元。15.6吋Value IPS面板均價為39.6美元，本期最低價格37.9美元，最高價格41美元。14.0吋TN面板價格均價為26.7美元，本期最低價格26.2美元，最高價格27.9美元。11.6吋TN面板均價為24.9美元，本期最低價格24美元，最高價格26.3美元。"
-    },
-    {
-      "id": "mkt:019eee93-3e73-7dd8-b0b6-20ffd712665d",
-      "time": "2026-06-22 17:04:47",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy"
-      ],
-      "text": "Nikkei reports JERA, Japan's largest power company, plans to build a large gas-fired power plant in the US."
-    },
-    {
-      "id": "4947865",
-      "time": "2026-06-22 17:04:09",
-      "tags": [
-        "公司"
-      ],
-      "text": "【張裕A：首次回購0.0456%公司股份】張裕A公告，2026年6月22日，公司首次透過股份回購專用證券賬戶以集中競價方式回購公司境內上市外資股(B股)30萬股，佔公司目前總股本的0.0456%，最高成交價格為8.23港元/股，最低成交價格為8.18港元/股，成交總金額為246.42萬港元（不含交易費用）。"
-    },
-    {
-      "id": "4947864",
-      "time": "2026-06-22 17:03:59",
-      "tags": [
-        "國際"
-      ],
-      "text": "JERA 將在美國配套資料中心新建火電廠，投資金額5000億日元。"
-    },
-    {
-      "id": "mkt:019eee92-5335-7dd8-b0b6-1eca1826e57d",
-      "time": "2026-06-22 17:03:47",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "GBPUSD",
-        "Impact bearish"
-      ],
-      "text": "【Sterling extends losses after UK Prime Minister Starmer announces resignation】Sterling extended losses after UK Prime Minister Starmer announced his resignation. The move was widely anticipated; Starmer had faced pressure from Labour MPs to make way for Andy Burnham, who won last week's by-election and has positioned himself for a leadership bid. GBP/USD was down 0.3% on the day and EUR/GBP was up 0.1%, both little changed versus pre-announcement levels."
-    },
-    {
-      "id": "4947863",
-      "time": "2026-06-22 17:03:31",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【日經ETF工銀：提示二級市場交易價格溢價風險】日經ETF工銀公告稱，近期本基金二級市場交易價格明顯高於基金份額參考淨值，出現較大幅度溢價。2026年6月22日，二級市場收盤價為1.912元，收盤時基金份額參考淨值為1.7791元。若6月23日溢價幅度未有效回落，基金有權申請臨時停牌等措施。目前基金運作正常，無應披露而未披露的重大資訊。提醒投資者關注溢價風險，審慎投資。"
-    },
-    {
-      "id": "4947862",
-      "time": "2026-06-22 17:03:26",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【納斯達克100ETF招商：提示二級市場交易價格溢價風險】納斯達克100ETF招商公告稱，近期本基金二級市場交易價格明顯高於基金份額參考淨值，出現較大幅度溢價。2026年6月22日，收盤價為2.394元，收盤時基金份額參考淨值為2.2270元。提醒投資者關注溢價風險，審慎投資。若6月23日溢價幅度未有效回落，基金有權申請停牌等措施。目前基金運作正常，無應披露未披露重大資訊。"
-    },
-    {
-      "id": "4947861",
-      "time": "2026-06-22 17:03:21",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【亞太精選ETF南方：二級市場價格溢價 23日開市起停牌】亞太精選ETF南方公告稱，近期該基金二級市場交易價格明顯高於基金份額參考淨值，出現較大幅度溢價。2026年6月22日，收盤價為2.090元，收盤時基金份額參考淨值為1.8901元。為保護投資者利益，基金於6月23日開市起停牌，10:30起復牌，停牌期間贖回業務照常辦理。若6月23日溢價幅度未有效回落，基金有權採取進一步停牌措施。"
-    },
-    {
-      "id": "te:economy:560746",
-      "time": "2026-06-22 17:03:17",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Morocco",
-        "Inflation Rate",
-        "Importance 1"
-      ],
-      "text": "Morocco Inflation Slows to 1.2% — Morocco’s annual inflation rate slowed to 1.2% in May 2026 from 1.7% in the previous month. The main downward pressure came from a decline in food prices (-0.7% vs 0.6% in April), particularly food and non-alcoholic beverages (-0.9% vs 0.5%). Meanwhile, non-food inflation edged up slightly to 2.6% from 2.5%, as price growth accelerated in housing and utilities (1.5% vs 0.7%) and furniture, household items and routine home maintenance (1.2% vs 0.6%). On the other hand, inflation moderated in transport (8.1% vs 8.4%) and clothing and footwear (0.9% vs 1.0%), while prices declined for recreation and culture (-0.1% vs 0.2%). On a monthly basis, consumer prices fell by 0.9%, marking the first decline this year, following a 0.4% increase in the previous period."
-    },
-    {
-      "id": "4947860",
-      "time": "2026-06-22 17:03:16",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【納指科技ETF景順：基金交易價格溢價 23日開市起停牌】納指科技ETF景順公告稱，近期基金二級市場交易價格明顯高於基金份額參考淨值，出現較大幅度溢價。2026年6月22日，收盤價為2.761元，收盤時基金份額參考淨值為2.3210元。為保護投資者利益，基金於6月23日開市起停牌，10:30起復牌，停牌期間贖回業務照常辦理。若23日溢價幅度未有效回落，基金有權採取進一步停牌措施。"
-    },
-    {
-      "id": "mkt:019eee91-ce8d-7dd8-b0b6-171c4264cba6",
-      "time": "2026-06-22 17:03:13",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【PLA Navy task group to visit Vladivostok in late June】In late June, at the invitation of the Russian navy, a PLA Navy task group composed of the ships Qi Jiguang and Kunlun Shan will visit Vladivostok. The two militaries said the visit will implement the leaders' consensus and expand practical cooperation to deepen the China‑Russia comprehensive strategic partnership."
-    },
-    {
-      "id": "4947859",
-      "time": "2026-06-22 17:03:12",
-      "tags": [
-        "公司"
-      ],
-      "text": "【中原高速：副董事長、總經理王鐵軍因工作調整辭職】中原高速公告，公司副董事長、總經理王鐵軍因工作調整，於2026年6月22日提交書面辭職申請，辭去所有職務。根據《公司法》、《公司章程》及相關規定，王鐵軍的辭職不會影響公司董事會正常執行。公司及董事會對其任職期間的貢獻表示衷心感謝。"
-    },
-    {
-      "id": "4947858",
-      "time": "2026-06-22 17:03:03",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【納指ETF易方達：提示二級市場交易價格溢價風險】納指ETF易方達公告稱，近期本基金二級市場交易價格明顯高於基金份額參考淨值，出現較大幅度溢價。2026年6月22日，收盤價為2.079元，基金份額參考淨值為1.9233元。提醒投資者關注溢價風險，審慎投資。若6月23日溢價幅度未有效回落，基金有權採取停牌等措施警示風險。目前基金運作正常，無應披露未披露重大資訊。"
-    },
-    {
-      "id": "4947857",
-      "time": "2026-06-22 17:03:00",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【納斯達克100ETF大成：提示基金二級市場交易價格溢價風險】納斯達克100ETF大成公告稱，近期該基金二級市場交易價格明顯高於基金份額參考淨值，出現較大幅度溢價。2026年6月22日，其二級市場收盤價為1.851元，收盤時基金份額參考淨值為1.725元。若6月23日溢價幅度未有效回落，基金有權採取停牌等措施。投資者交易除面臨淨值波動風險，還受多種因素影響，可能遭受損失。目前基金運作正常，無應披露未披露重大資訊。"
-    },
-    {
-      "id": "4947856",
-      "time": "2026-06-22 17:02:45",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【納指ETF嘉實：二級市場交易價格溢價 提醒投資者注意風險】納指ETF嘉實公告稱，近期該基金二級市場交易價格明顯高於基金份額參考淨值，出現較大幅度溢價。2026年6月22日，收盤價為2.116元，收盤時基金份額參考淨值為1.9414元。若6月23日溢價幅度未有效回落，基金有權申請停牌等措施。目前基金運作正常，無應披露而未披露的重大資訊。提醒投資者密切關注溢價風險，審慎投資。"
-    },
-    {
-      "id": "4947855",
-      "time": "2026-06-22 17:02:41",
-      "tags": [
-        "公司"
-      ],
-      "text": "【智慧汽車ETF國泰：基金份額持有人大會計票日停牌】智慧汽車ETF國泰公告稱，本基金自2026年5月20日起至6月22日17:00止以通訊方式召開基金份額持有人大會，審議修改基金合同議案。為使大會順利召開，基金將自6月23日上午開市起至持有人大會表決結果公告日上午10:30停牌，10:30起復牌。相關公告可透過基金管理人官網查閱。"
-    },
-    {
-      "id": "4947854",
-      "time": "2026-06-22 17:02:33",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【ST圍海：股票連續三日收盤跌幅偏離值累計達13.19%】ST圍海公告稱，公司股票於2026年6月17日、6月18日、6月22日連續三個交易日收盤價格跌幅偏離值累計達13.19%，屬異常波動。經核查，公司前期披露資訊無補充、更正，未發現媒體報道影響股價的未公開重大資訊，生產經營正常，內外部環境無重大變化，控股股東及實控人無應披露未披露事項，異常波動期間未買賣公司股票，不存在違反公平資訊披露規定情形，請投資者注意風險。"
-    },
-    {
-      "id": "4947853",
-      "time": "2026-06-22 17:02:27",
-      "tags": [
-        "國際"
-      ],
-      "text": "歐盟以每噸79.04歐元的價格拍賣319.9萬個現貨碳排放配額。"
-    },
-    {
-      "id": "4947852",
-      "time": "2026-06-22 17:02:18",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【納指ETF匯添富：提示基金二級市場交易價格溢價風險】納指ETF匯添富公告稱，近期該基金二級市場交易價格明顯高於基金份額參考淨值，出現較大幅度溢價。2026年6月22日，收盤價2.435元，收盤時基金份額參考淨值2.2582元。提醒投資者關注溢價風險，審慎投資。若6月23日溢價幅度未有效回落，基金有權申請停牌等措施警示風險。目前基金運作正常，無應披露未披露重大資訊。"
-    },
-    {
-      "id": "4947851",
-      "time": "2026-06-22 17:02:16",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【納指ETF廣發：提示二級市場交易價格溢價風險】納指ETF廣發公告稱，近期該基金二級市場交易價格明顯高於基金份額參考淨值，出現較大幅度溢價。2026年6月22日，收盤價為1.6860元，收盤時基金份額參考淨值為1.5500元。若6月23日溢價幅度未有效回落，基金有權申請臨時停牌等措施。提醒投資者密切關注溢價風險，審慎投資。目前基金運作正常，無應披露未披露資訊。"
-    },
-    {
-      "id": "4947850",
-      "time": "2026-06-22 17:02:07",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【中國海軍艦艇編隊將訪問俄羅斯】6月下旬，應俄羅斯海軍邀請，中國人民解放軍海軍戚繼光艦、崑崙山艦組成的艦艇編隊將赴俄羅斯符拉迪沃斯託克訪問。中俄兩軍將認真落實兩國元首共識，不斷拓展各領域務實合作，為深化兩國新時代全面戰略協作夥伴關係發揮積極作用。 （國防部）"
-    },
-    {
-      "id": "te:economy:560744",
-      "time": "2026-06-22 17:01:34",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "United Kingdom",
-        "Government Bond 10Y",
-        "Importance 1"
-      ],
-      "text": "UK 10-Year Gilt Steady as PM Starmer Resigns — UK 10-year gilt yields were little changed around 4.85% after Prime Minister Keir Starmer announced he would step down, opening the possibility of Greater Manchester Mayor Andy Burnham becoming the next Labour leader. Burnham is now seen as a leading candidate, but investors are focused on what a new government could mean for fiscal policy and the future path of borrowing. Markets are also watching who could replace Chancellor Rachel Reeves if a leadership change results in a wider cabinet reshuffle. Burnham has so far provided limited detail on his economic plans, creating uncertainty over potential spending commitments and debt dynamics. Investors remain cautious about any increase in government borrowing, as UK public finances are already under pressure. Bond yields have eased in recent weeks amid optimism over a possible US Iran peace deal, after previously reaching an 18-year high as Middle East tensions pushed energy prices higher and raised inflation concerns."
     }
   ]
 }
