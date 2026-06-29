@@ -1,7 +1,120 @@
 {
-  "updated": "2026-06-29 11:28:47",
-  "count": 17894,
+  "updated": "2026-06-29 11:32:39",
+  "count": 17888,
   "items": [
+    {
+      "id": "mkt:019f116f-1574-7aab-8c08-1917040ba7a5",
+      "time": "2026-06-29 11:32:00",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【June 27-28: PLA Southern Theater conducted routine naval and air patrols in South China Sea】The PLA Southern Theater deployed naval and air assets for routine patrols in the South China Sea on June 27-28, spokesperson Zhai Shichen said. He accused the Philippines of enlisting external states to carry out so-called 'joint patrols', called the actions disruptive, and said theater forces will firmly defend China’s territorial sovereignty and maritime rights and maintain regional stability."
+    },
+    {
+      "id": "mkt:019f116e-70ce-7aab-8c08-11758a61356b",
+      "time": "2026-06-29 11:31:18",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CNH"
+      ],
+      "text": "【China bond futures morning close】2-year bond futures (TS) most-active contract was up 2 bps at the morning close; 5-year (TF) up 7 bps, 10-year (T) up 9 bps and 30-year (TL) up 9 bps."
+    },
+    {
+      "id": "mkt:019f116e-66c2-7aab-8c08-0ee18e6b1c47",
+      "time": "2026-06-29 11:31:15",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish",
+        "CSI500",
+        "Impact bearish",
+        "CSI1000"
+      ],
+      "text": "【Stock index futures morning close】China's CSI 300 index futures (IF main contract) +0.04% at the morning close; SSE 50 futures (IH main contract) +1.54%; CSI 500 futures (IC main contract) -0.57%; CSI 1000 futures (IM main contract) -1.62%."
+    },
+    {
+      "id": "mkt:019f116e-473b-7aab-8c08-004b787e2e41",
+      "time": "2026-06-29 11:31:07",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals",
+        "Industrial Metals",
+        "Energy",
+        "Market Regions",
+        "Greater China",
+        "WTI",
+        "Impact bearish"
+      ],
+      "text": "At the morning session close, China's front-month commodity futures were mostly higher: palladium up nearly 4%, live hogs up over 3%, platinum up nearly 3%. Fiberboard, lithium carbonate, coking coal, Shanghai silver, red dates and Shanghai zinc rose more than 2%. Lagging contracts included SC crude oil down over 2%, synthetic rubber down nearly 2%, japonica rice, 20# rubber and PVC down more than 1%, and caustic soda down nearly 1%."
+    },
+    {
+      "id": "4959644",
+      "time": "2026-06-29 11:30:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "【股指期貨早盤收盤】 中證1000指數期貨連續跌1.60%， 滬深300指數期貨連續漲0.02%， 中證500指數期貨連續跌0.56%， 上證50指數期貨連續漲1.54%。"
+    },
+    {
+      "id": "4959643",
+      "time": "2026-06-29 11:30:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "【國債期貨早盤收盤】 30年期主力合約漲0.05%， 10年期主力合約漲0.09%， 5年期主力合約漲0.08%， 2年期主力合約漲0.02%。"
+    },
+    {
+      "id": "4959642",
+      "time": "2026-06-29 11:30:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "【商品期貨早盤收盤】鈀連續漲3.78%，生豬連續漲3.52%，鉑連續漲2.75%，纖維板連續漲2.66%，碳酸鋰連續漲2.39%，焦煤連續漲2.25%，白銀連續漲2.20%，紅棗連續漲2.19%。"
+    },
+    {
+      "id": "4959641",
+      "time": "2026-06-29 11:29:37",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "滬深兩市成交額超2.5萬億元，較上日此時放量743億元。"
+    },
+    {
+      "id": "mkt:019f116c-9fa0-7aab-8c07-fc369b3c6f57",
+      "time": "2026-06-29 11:29:19",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "Star Stocks",
+        "JD.com",
+        "Meituan",
+        "09626.HK",
+        "Impact bullish",
+        "09888.HK",
+        "03690.HK"
+      ],
+      "text": "Hong Kong tech stocks extended gains: Bilibili (09626.HK) rose more than 8%, Baidu (09888.HK) rose over 7%; JD.com (09618.HK) and Meituan (03690.HK) also climbed."
+    },
+    {
+      "id": "4959640",
+      "time": "2026-06-29 11:28:30",
+      "tags": [
+        "公司"
+      ],
+      "text": "【通力科技減速機配套華峰鋁業生產線正式通車】據通力科技訊息，近日，華峰鋁業年產45萬噸新能源汽車高階鋁板帶箔專案1+1+4熱連軋2400mm生產線正式投產通車。通力科技自主研發的高效能減速機全線配套該產線輥道傳動系統，實現公司傳動裝備在有色高階軋製領域的重要突破。"
+    },
     {
       "id": "4959639",
       "time": "2026-06-29 11:26:55",
@@ -163729,154 +163842,6 @@
         "公司"
       ],
       "text": "【長安責任保險風險處置最新進展 中安財險（籌）登場】近日，安徽國元金融控股集團有限責任公司（以下簡稱“國元金控集團”）釋出資訊顯示，安徽中安財產保險股份有限公司（籌）（以下簡稱“中安財險（籌）”）成立大會暨2026年第一次股東會在合肥召開。6月22日，記者從業內獲悉，中安財險（籌）的成立與長安責任保險股份有限公司（以下簡稱“長安責任保險”）的風險處置有關。早在2024年，便有訊息稱，國元金控集團將作為牽頭方，主導長安責任保險的風險處置工作。如今兩年過後，長安責任保險風險處置提速。(北京商報)"
-    },
-    {
-      "id": "4947231",
-      "time": "2026-06-22 11:32:30",
-      "tags": [
-        "公司",
-        "其他"
-      ],
-      "text": "國家礦山安全監察局山西局監察執法八處三級調研員耿青祿涉嫌嚴重違法，涉通洲集團留神峪煤業有限公司“5·22”特別重大瓦斯爆炸事故，目前正接受山西省監察委員會監察調查。（新華社）"
-    },
-    {
-      "id": "4947230",
-      "time": "2026-06-22 11:32:22",
-      "tags": [
-        "兩會"
-      ],
-      "text": "【國家消防救援人員法草案擬強化職業保障：明確休息休假權】6月22日，全國人大常委會法工委發言人黃海華在記者會上介紹，國家消防救援人員法草案二次審議稿擬增加職業保障專條規定，明確國家實行與消防救援人員職業特點相適應的職業保障制度，建立符合其職業特點的休息休假制度，依法享有年休假、探親假等權利，並加強職業健康保障，定期開展健康檢查及心理疏導。（澎湃新聞）"
-    },
-    {
-      "id": "4947229",
-      "time": "2026-06-22 11:31:32",
-      "tags": [
-        "公司",
-        "市場",
-        "焦點",
-        "A股"
-      ],
-      "text": "【午評：創業板指半日漲0.74%，金屬、化工、大金融板塊領漲】A股三大指數早盤集體上漲，截至午盤，上證指數漲0.18%，深證成指漲0.29%，創業板指漲0.74%，北證50跌1.75%，科創50指數漲0.02%。全市場成交額25211億元，較上日放量3708億元，全市場超4200只個股下跌。板塊題材上，培育鑽石、小金屬、磷化工、證券、煤炭開採加工、石墨電極、化學原料、貴金屬、電池板塊漲幅居前；電機、生物製品、汽車零部件、工業母機、教育、人形機器人、軍工裝備板塊跌幅居前。盤面上，“算力金屬”近期引起關注，有色金屬板塊多數走強，東方鋯業、長裕集團2連板，錫業股份、金鉬股份漲停，東方鉭業、雲南鍺業、翔鷺鎢業等股創新高。證券、保險等大金融板塊盤中異動拉昇，廣發證券漲停，新華保險、中國人壽、長江證券等股同樣走高。化學化工板塊同樣表現積極，澄星股份、興發集團、多氟多等股封死漲停。此外，培育鑽石、煤炭、雲遊戲等板塊表現出色。另一方面，半導體、CPO等AI算力硬體股盤初衝高後部分回落，華盛昌盤中跌停，寒武紀、新相微、國科微等股跌超5%。創新藥概念股未能延續節前反彈，博瑞醫藥盤中觸及20cm跌停，艾迪藥業、賽倫生物跌幅居前。"
-    },
-    {
-      "id": "mkt:019eed62-0d98-7dd8-b0af-59a430736ab2",
-      "time": "2026-06-22 11:31:26",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【China government bond futures morning session close】2-year government bond futures (TS) most-active contract fell 0.01%; 5-year (TF) fell 0.04%; 10-year (T) fell 0.06%; 30-year (TL) fell 0.15%."
-    },
-    {
-      "id": "mkt:019eed61-fa77-7dd8-b0af-5426291936fc",
-      "time": "2026-06-22 11:31:21",
-      "tags": [
-        "MKT News",
-        "CSI300",
-        "Impact bullish",
-        "SSE Composite"
-      ],
-      "text": "【China stock-index futures morning session close】At the morning session close, China stock-index futures: CSI 300 (IF) main contract +0.49%, SSE 50 (IH) main contract +0.57%, CSI 500 (IC) main contract -0.28%, CSI 1000 (IM) main contract -0.99%."
-    },
-    {
-      "id": "mkt:019eed61-db2d-7dd8-b0af-4ed0c0d5ddd6",
-      "time": "2026-06-22 11:31:13",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Precious Metals",
-        "XAUUSD",
-        "Impact bearish"
-      ],
-      "text": "At the morning close, China's most-active futures contracts were mostly lower: lithium carbonate fell more than 6%, Shanghai silver dropped nearly 6%, platinum slid about 5%, eggs fell over 4%, palladium and Shanghai gold declined more than 3%, and methanol was down roughly 3%. Synthetic rubber and ethylene glycol (EG) led gains, up more than 1%."
-    },
-    {
-      "id": "4947228",
-      "time": "2026-06-22 11:31:12",
-      "tags": [
-        "公司"
-      ],
-      "text": "金川公司於2026年6月22日將金川鎳出廠價由137000元/噸下調至134500元/噸，跌幅2500元。"
-    },
-    {
-      "id": "mkt:019eed61-ad65-7dd8-b0af-45a1f4551ef9",
-      "time": "2026-06-22 11:31:01",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Typhoon Mikla upgrades to strong typhoon; parts of Chinese waters to see gusts to force 12–13】Typhoon Mikla, the seventh typhoon of the year, strengthened to strong-typhoon intensity at 08:00 on June 22. Its center was located at 17.4°N, 127.9°E — about 890 km east‑southeast of Cape Eluanbi, Taiwan — with maximum near‑center winds of 48 m/s and central pressure of 945 hPa. Seven‑level wind radius is 200–350 km, ten‑level radius 80–90 km, twelve‑level radius 40 km. Mikla is forecast to move west‑northwest at 15–20 km/h, intensify and gradually approach waters southeast of Taiwan. From the night of June 23 through June 27, the Bashi Channel, waters east of Taiwan and the southern East China Sea are expected to see force 7–9 winds with gusts to force 10–11; some sea areas may experience force 10–11 winds with gusts to force 12–13."
-    },
-    {
-      "id": "4947227",
-      "time": "2026-06-22 11:30:31",
-      "tags": [
-        "市場"
-      ],
-      "text": "越南VN指數上漲1%至1842.83點。"
-    },
-    {
-      "id": "4947226",
-      "time": "2026-06-22 11:30:03",
-      "tags": [
-        "市場"
-      ],
-      "text": "【股指期貨早盤收盤】 中證1000指數期貨連續跌0.99%， 滬深300指數期貨連續漲0.49%， 中證500指數期貨連續跌0.28%， 上證50指數期貨連續漲0.57%。"
-    },
-    {
-      "id": "4947225",
-      "time": "2026-06-22 11:30:03",
-      "tags": [
-        "市場"
-      ],
-      "text": "【商品期貨早盤收盤】碳酸鋰連續跌6.08%，白銀連續跌5.65%，鉑連續跌4.77%，雞蛋連續跌4.62%，鈀連續跌3.51%。"
-    },
-    {
-      "id": "4947224",
-      "time": "2026-06-22 11:30:03",
-      "tags": [
-        "市場"
-      ],
-      "text": "【國債期貨早盤收盤】 30年期主力合約跌0.15%， 10年期主力合約跌0.06%， 5年期主力合約跌0.04%， 2年期主力合約跌0.01%。"
-    },
-    {
-      "id": "te:markets:560628",
-      "time": "2026-06-22 11:29:56",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Palm Oil Hits Over Two-Week High — Malaysian palm oil futures extended their recent gains, hovering above MYR 4,650 and climbing to their highest level in more than two weeks. Sentiment was supported by strength in rival edible oils on the Dalian and Chicago exchanges, alongside a weaker ringgit that improved the commodity's export competitiveness. Strong export demand also underpinned prices, with cargo surveyor Intertek Testing Services noting that Malaysian palm oil product shipments rose 19.1% during June 1-20 from the same period in May. Supply concerns added further support as the lingering effects of El Niño continued to fuel forecasts of lower production. Meanwhile, imports by top buyer India are expected to exceed 600,000 tonnes in June after rising to 549,356 tonnes in May, signaling firm demand. However, gains were capped by a sharp drop in crude oil prices after reports that the U.S. and Iran made progress in talks toward a broader agreement within 60 days, including efforts to end hostilities in Lebanon."
-    },
-    {
-      "id": "4947223",
-      "time": "2026-06-22 11:29:35",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "滬深兩市成交額超2.5萬億元，較上日此時放量3641億元。"
-    },
-    {
-      "id": "4947222",
-      "time": "2026-06-22 11:29:05",
-      "tags": [
-        "其他"
-      ],
-      "text": "上證50指數漲1%。"
-    },
-    {
-      "id": "mkt:019eed5f-dab8-7dd8-b0af-3f336c2519b6",
-      "time": "2026-06-22 11:29:02",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "SSE Composite",
-        "Impact bullish"
-      ],
-      "text": "Shanghai Stock Exchange 50 Index up 1%."
     }
   ]
 }
