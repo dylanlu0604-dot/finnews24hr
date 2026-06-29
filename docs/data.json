@@ -1,7 +1,51 @@
 {
-  "updated": "2026-06-29 10:57:38",
-  "count": 17901,
+  "updated": "2026-06-29 11:01:31",
+  "count": 17896,
   "items": [
+    {
+      "id": "4959611",
+      "time": "2026-06-29 11:00:40",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "泰國SET指數開盤上漲0.5%，報1550.80點。"
+    },
+    {
+      "id": "mkt:019f1152-2160-7aab-8c07-b67883d92760",
+      "time": "2026-06-29 11:00:22",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "SSE 50 Index rose more than 2% intraday."
+    },
+    {
+      "id": "4959609",
+      "time": "2026-06-29 10:58:30",
+      "tags": [
+        "公司"
+      ],
+      "text": "【古麒絨材：公司在手未交付訂單充足 為二季度持續出貨提供支撐】古麒絨材(001390)近日在接待機構調研中表示，2026年一季度營收增長核心來源於下游客戶訂單放量、成品羽絨發貨規模同比提升。下游民用與軍用品牌對羽絨產品結構持續最佳化，高蓬鬆、高絨子訂單佔比穩步上行，是營收增長核心驅動力。在手未交付訂單充足，為二季度持續出貨提供支撐。"
+    },
+    {
+      "id": "4959608",
+      "time": "2026-06-29 10:58:25",
+      "tags": [
+        "其他"
+      ],
+      "text": "【四川省宜賓市高縣發生5.5級地震 水利部迅即啟動水利抗震救災排程指揮機制】2026年6月29日0時12分，四川省宜賓市高縣（北緯28.5度，東經104.69度）發生5.5級地震，震源深度6千米。水利部迅即啟動水利抗震救災排程指揮機制，及時召開專題會商會，分析地震對水利工程和農村供水影響，研判震區雨水情形勢，安排部署水利抗震救災工作。水利部根據全國“水利一張圖”分析，第一時間排查震區河流以及堤防、水庫、農村供水工程、水文測站、水閘、調水工程分佈情況，並及時通報四川省水利廳，督促地方水利部門立即摸排水利工程震損情況。經初步排查，暫未收到水利工程震損情況報告。預報震區未來三天有小到中雨。水利部將密切關注震區雨情、水情及水利工程執行情況，指導地方水利部門繼續做好震區水利工程震損排查和群眾飲水安全保障工作，嚴防發生次生災害。"
+    },
+    {
+      "id": "4959607",
+      "time": "2026-06-29 10:57:06",
+      "tags": [
+        "其他"
+      ],
+      "text": "阿富汗塔利班發言人：巴基斯坦在阿富汗邊境地區的空襲造成數十人死傷。"
+    },
     {
       "id": "mkt:019f114f-0a41-7aab-8c07-ae83fb0cd7c0",
       "time": "2026-06-29 10:57:00",
@@ -163821,99 +163865,6 @@
         "兩會"
       ],
       "text": "【廣東省深圳市政協原黨組書記、主席戴北方嚴重違紀違法被開除黨籍】經中共中央批准，中央紀委國家監委對廣東省深圳市政協原黨組書記、主席戴北方嚴重違紀違法問題進行了立案審查調查。經查，戴北方喪失理想信念，忘卻初心使命，對組織不忠誠不老實，對抗組織審查；違反中央八項規定精神，違規收受禮品、接受宴請；違反組織原則，在幹部選拔任用工作中為他人謀取利益；廉潔底線失守，利用職權為親屬謀取利益；家風不正，對家人失管失教；目無法紀，大搞權錢交易，利用職務便利為他人在企業經營、專案承攬等方面謀利，並非法收受鉅額財物。戴北方嚴重違反黨的政治紀律、組織紀律、廉潔紀律和生活紀律，構成嚴重職務違法並涉嫌受賄犯罪，且在黨的十八大後不收斂、不收手，性質嚴重，影響惡劣，應予嚴肅處理。依據《中國共產黨紀律處分條例》《中華人民共和國監察法》《中華人民共和國公職人員政務處分法》等有關規定，經中央紀委常委會會議研究並報中共中央批准，決定給予戴北方開除黨籍處分；按規定取消其享受的待遇；收繳其違紀違法所得；將其涉嫌犯罪問題移送檢察機關依法審查起訴，所涉財物一併移送。"
-    },
-    {
-      "id": "4947191",
-      "time": "2026-06-22 11:01:27",
-      "tags": [
-        "兩會"
-      ],
-      "text": "【江西省政協原黨組成員、副主席尹建業被“雙開”】經中共中央批准，中央紀委國家監委對江西省政協原黨組成員、副主席尹建業嚴重違紀違法問題進行了立案審查調查。經查，尹建業喪失理想信念，背棄初心使命，搞政治攀附，造成惡劣影響，對抗組織審查；違反中央八項規定精神，違規借用管理和服務物件車輛，接受可能影響公正執行公務的宴請、旅遊以及打高爾夫球活動安排，違規出入私人會所；不按規定報告個人有關事項，在組織談話函詢時不如實說明問題，違規為本人配偶、他人在崗位調動、職務提拔調整等方面謀取利益；廉潔底線失守，違規收受禮品、禮金，搞權色、錢色交易，與管理和服務物件賭博；違規干預和插手執法活動；貪慾膨脹，將公權力異化為謀取私利的工具，與私營企業主大搞權錢交易，利用職務便利為他人在專案承攬、企業經營等方面謀利，並非法收受鉅額財物。尹建業嚴重違反黨的政治紀律、組織紀律、廉潔紀律、工作紀律和生活紀律，構成嚴重職務違法並涉嫌受賄犯罪，且在黨的十八大後不收斂、不收手，性質嚴重，影響惡劣，應予嚴肅處理。依據《中國共產黨紀律處分條例》《中華人民共和國監察法》《中華人民共和國公職人員政務處分法》等有關規定，經中央紀委常委會會議研究並報中共中央批准，決定給予尹建業開除黨籍處分；由國家監委給予其開除公職處分；終止其江西省第十五次黨代會代表資格；收繳其違紀違法所得；將其涉嫌犯罪問題移送檢察機關依法審查起訴，所涉財物一併移送。"
-    },
-    {
-      "id": "te:economy:560623",
-      "time": "2026-06-22 11:00:56",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Oman",
-        "Inflation Rate",
-        "Importance 0"
-      ],
-      "text": "Oman Inflation Rises to Over 4-Year High — The annual inflation rate in Oman rose to 3.8% in May 2026 from 3.2% in the previous month. This marked the highest reading since February 2022, as faster price increases were recorded in food and non-alcoholic beverages (6.7% vs 6.3% in April), transport (9.2% vs 6.0%), miscellaneous goods and services (9.6% vs 9.1%), furnishings, household equipment and routine household maintenance (3.1% vs 3.0%), restaurants and hotels (4.6% vs 4.5%), and recreation and culture (0.4% vs 0.2%). At the same time, costs remained steady for education (2.2%) and health (1.8%), while prices for alcoholic beverages and tobacco, clothing and footwear, and communication remained unchanged. Meanwhile, housing and utility costs declined (-0.3% vs 0.1%). On a monthly basis, consumer prices increased by 0.5% from 0.1% in April."
-    },
-    {
-      "id": "mkt:019eed46-0371-7dd8-b0ae-f792afa16d07",
-      "time": "2026-06-22 11:00:48",
-      "tags": [
-        "MKT News",
-        "Copper",
-        "Impact bullish"
-      ],
-      "text": "More than 100 companies, including Nestlé and Uber (UBER.N), urged governments to make electrification a central economic strategy."
-    },
-    {
-      "id": "4947190",
-      "time": "2026-06-22 11:00:41",
-      "tags": [
-        "其他"
-      ],
-      "text": "戴北方被開除黨籍。"
-    },
-    {
-      "id": "4947189",
-      "time": "2026-06-22 11:00:35",
-      "tags": [
-        "其他"
-      ],
-      "text": "尹建業被雙開。"
-    },
-    {
-      "id": "te:markets:560622",
-      "time": "2026-06-22 11:00:23",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Soybeans Attempt Rebound — Soybean futures rose above $11.2 per bushel, attempting to rebound from four-month lows as a stronger US dollar was offset by firmer crude oil prices and renewed Chinese demand. The USDA confirmed last week the sale of 132,000 tons of US soybeans to China for delivery in the 2026/27 marketing year, marking the first publicly reported Chinese purchase since the May summit. Additional support came from higher crude oil prices after shipping activity through the Strait of Hormuz slowed, while early talks between US and Iran, held under a new interim agreement, got off to a shaky start. Agricultural goods tend to track crude oil movements given their linkage to biofuel demand in grains and oilseeds. Meanwhile, the US dollar remained firm after the Federal Reserve policy meeting last week reinforced expectations of rate hikes this year, making US commodities more expensive for foreign buyers. Elsewhere, excess soil moisture in southern Argentina has slowed the 2025/26 soybean harvest."
-    },
-    {
-      "id": "mkt:019eed45-8f0e-7dd8-b0ae-e93f21a08b1d",
-      "time": "2026-06-22 11:00:19",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【14th NPC Standing Committee to meet June 23-26 in Beijing】China's 14th National People's Congress Standing Committee will hold its 23rd meeting in Beijing from June 23-26, the NPCSC Legislative Affairs Commission said. Following a chairman's meeting, the agenda includes continued review of draft amendments to the Trademark Law, Certified Public Accountants Law, procuratorate public-interest litigation law, Antarctic activities and environmental protection law, and the national fire and rescue personnel law; the NPC Financial and Economic Committee will submit a proposal to review amendments to the Government Procurement Law; the State Council will submit drafts for review including amendments to the Tendering and Bidding Law, a draft Financial Law, and proposed revisions to the PBOC law."
-    },
-    {
-      "id": "4947188",
-      "time": "2026-06-22 11:00:05",
-      "tags": [
-        "其他"
-      ],
-      "text": "俄當局稱，莫斯科擊落近60架無人機，機場已恢復運營。"
-    },
-    {
-      "id": "mkt:019eed44-9e1e-7dd8-b0ae-e2adea17aa15",
-      "time": "2026-06-22 10:59:17",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Emerging Markets",
-        "DXY",
-        "Impact bullish"
-      ],
-      "text": "Malaysian ringgit fell 0.4% against the dollar to 4.152 per dollar, its weakest level since Nov. 24, 2025."
-    },
-    {
-      "id": "4947187",
-      "time": "2026-06-22 10:58:38",
-      "tags": [
-        "兩會"
-      ],
-      "text": "【十四屆全國人大常委會第二十三次會議6月23日至26日在北京舉行】從今天全國人大常委會法制工作委員會舉行的記者會上瞭解到，十四屆全國人大常委會第六十八次委員長會議決定，十四屆全國人大常委會第二十三次會議6月23日至26日在北京舉行。委員長會議建議，十四屆全國人大常委會第二十三次會議：繼續審議商標法修訂草案、註冊會計師法修正草案、檢察公益訴訟法草案、南極活動與環境保護法草案、國家消防救援人員法草案；審議全國人大財政經濟委員會關於提請審議政府採購法修訂草案的議案；審議國務院關於提請審議招標投標法修訂草案的議案、關於提請審議金融法草案的議案、關於提請審議中國人民銀行法修訂草案的議案等。（央視）"
     }
   ]
 }
