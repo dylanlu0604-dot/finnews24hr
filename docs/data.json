@@ -1,7 +1,136 @@
 {
-  "updated": "2026-06-29 08:59:01",
-  "count": 17940,
+  "updated": "2026-06-29 09:03:28",
+  "count": 17916,
   "items": [
+    {
+      "id": "mkt:019f10e5-b3f3-7aab-8c05-3e0541eb86bf",
+      "time": "2026-06-29 09:01:56",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "Shanghai Gold Exchange gold T+D early Monday trade on June 29 rose 1.18% to 887.64 yuan/gram; silver T+D gained 2.16% to 14,173 yuan/kg."
+    },
+    {
+      "id": "mkt:019f10e5-5b08-7aab-8c05-3033866ecce1",
+      "time": "2026-06-29 09:01:34",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "Taiwan's TAIEX opened up 203.16 points, or 0.46%, at 44,774.92 on Monday, June 29."
+    },
+    {
+      "id": "4959372",
+      "time": "2026-06-29 09:01:28",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "雞蛋連續主力合約日內跌2%，現報4259.00元。"
+    },
+    {
+      "id": "mkt:019f10e4-f4bd-7aab-8c05-2dd0afdbb225",
+      "time": "2026-06-29 09:01:08",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "SC crude oil main contract fell 2.00% intraday to 462.10 yuan per barrel."
+    },
+    {
+      "id": "4959371",
+      "time": "2026-06-29 09:00:29",
+      "tags": [
+        "公司"
+      ],
+      "text": "【海爾創始人張瑞敏人民日報撰文：以創新破局，向生態發力】文章稱，從初創時期只有幾百人、資不抵債、靠借錢開工資的小工廠，到如今在全球擁有10多萬名員工、旗下子公司連續8年入選世界500強的國際品牌，海爾已經走過40多年。企業經營管理是門大學問，一路走來，對三個詞體會尤深——機遇、創新和傳承。抓住時代機遇，企業要靠創新。不創新，就會陷入自以為是、路徑依賴的困境。如今，我們正站在以雲端計算、大資料、物聯網為代表的第四次工業革命的路口。行業之間、產品之間的邊界與距離逐漸消融，產品正在被場景替代，行業正在被生態“復”蓋。企業不能只做單一產品，而要以無界生態創造無限可能，成為一座生機無限的生態花園。在這樣的背景下，我們致力於搭建員工與合作方及使用者之間共同進化的生態。我們始終堅信，一個具有進化能力、能夠持續自我糾錯的企業，才能在風浪中穩穩向前。"
+    },
+    {
+      "id": "mkt:019f10e4-5d06-7aab-8c05-241679442b69",
+      "time": "2026-06-29 09:00:29",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish",
+        "SSE Composite"
+      ],
+      "text": "FTSE China A50 index futures opened 0.3% higher."
+    },
+    {
+      "id": "4959370",
+      "time": "2026-06-29 09:00:25",
+      "tags": [
+        "市場"
+      ],
+      "text": "臺灣證交所加權股價指數開盤變動不大，報44,594.81。"
+    },
+    {
+      "id": "mkt:019f10e4-490f-7aab-8c05-1f96e53d5170",
+      "time": "2026-06-29 09:00:24",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals",
+        "Industrial Metals",
+        "Energy",
+        "Market Regions",
+        "Greater China",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "Impact bearish"
+      ],
+      "text": "At the open, China’s main futures contracts were mostly higher. Shanghai silver and platinum rose over 2%; Shanghai zinc, live hogs, Shanghai tin, cast aluminum, Shanghai gold and red dates gained more than 1%. On the downside, synthetic rubber fell over 2%; SC crude oil, fuel oil, eggs, 20# rubber and PVC dropped more than 1%; soda ash and styrene (EB) declined around 1%."
+    },
+    {
+      "id": "4959369",
+      "time": "2026-06-29 09:00:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "富時中國A50指數期貨開盤上漲0.17%。"
+    },
+    {
+      "id": "4959368",
+      "time": "2026-06-29 09:00:03",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "雞蛋連續主力合約日內跌1%，現報4290.00元。"
+    },
+    {
+      "id": "4959367",
+      "time": "2026-06-29 09:00:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "【商品期貨開盤】丁二烯橡膠連續跌2.20%，鉑連續漲2.04%，白銀連續漲2.00%，鈀連續漲2.00%，上海原油連續跌1.82%。"
+    },
+    {
+      "id": "te:markets:562361",
+      "time": "2026-06-29 08:59:15",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Japan",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "Japanese Shares Fall for Second Session — The Nikkei 225 Index fell 1.3% to below 68,500, while the broader Topix Index slipped 0.5% to 3,944 on Monday, marking a second consecutive session of losses as investors monitored the latest developments in the Middle East. Oil prices climbed after renewed clashes between the US and Iran around the Strait of Hormuz, although both sides agreed to halt further attacks ahead of peace talks scheduled for this week in Doha, Qatar. Domestically, data showed Japan's retail sales rose 5.3% in May, the strongest increase since November 2023, supported largely by a government stimulus package that lifted consumer spending. Technology stocks led the declines amid mounting concerns over the sustainability of the AI-driven rally, with Kioxia (-8.8%), SoftBank Group (-5.2%), Fujikura (-7.7%), Advantest (-5.7%), and Ibiden (-7.5%) posting sharp losses."
+    },
     {
       "id": "4959366",
       "time": "2026-06-29 08:58:28",
@@ -163908,352 +164037,6 @@
         "其他"
       ],
       "text": "卡達：美伊高階別會談第一階段結束。"
-    },
-    {
-      "id": "mkt:019eecda-19a6-7dd8-b0ab-e7fbc267c010",
-      "time": "2026-06-22 09:02:56",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Qatar's Ministry of Interior said an explosion at a factory in Ras Laffan injured at least 54 people and left 18 missing."
-    },
-    {
-      "id": "4946966",
-      "time": "2026-06-22 09:02:36",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【商務部：決定將10家美國實體列入出口管制管控名單】根據《中華人民共和國出口管制法》和《中華人民共和國兩用物項出口管制條例》等法律法規有關規定，為維護國家安全和利益，履行防擴散等國際義務，決定將艾維奧克斯公司等10家美國實體列入出口管制管控名單（見附件），並採取以下措施：一、禁止出口經營者對上述10家實體出口兩用物項，禁止任何國家和地區的組織和個人將原產於中國的兩用物項轉移或提供給上述實體；正在開展的相關出口活動應當立即停止。二、特殊情況下確需出口的，出口經營者應當向商務部提出申請。本公告自公佈之日起正式實施。"
-    },
-    {
-      "id": "4946965",
-      "time": "2026-06-22 09:02:24",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "碳酸鋰連續主力合約日內跌5%，現報157280.00元。"
-    },
-    {
-      "id": "4946964",
-      "time": "2026-06-22 09:01:57",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "鈀連續主力合約日內跌4%，現報300.70元。"
-    },
-    {
-      "id": "mkt:019eecd9-32bc-7dd8-b0ab-dcba53fe6934",
-      "time": "2026-06-22 09:01:57",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Iran's foreign ministry spokesperson said talks held in Switzerland made good progress toward implementing the other party's commitments."
-    },
-    {
-      "id": "mkt:019eecd9-1612-7dd8-b0ab-d6f51191e341",
-      "time": "2026-06-22 09:01:50",
-      "tags": [
-        "MKT News",
-        "Important",
-        "DXY",
-        "Impact bullish",
-        "S&P500",
-        "Impact bearish",
-        "Hang Seng Index"
-      ],
-      "text": "MOFCOM decided to add 10 U.S. entities to its export control list."
-    },
-    {
-      "id": "4946963",
-      "time": "2026-06-22 09:01:37",
-      "tags": [
-        "公司"
-      ],
-      "text": "【銅冠銅箔：目前公司訂單充足 生產經營正常】銅冠銅箔(301217)在互動平臺表示，目前公司訂單充足，生產經營正常。"
-    },
-    {
-      "id": "mkt:019eecd8-a314-7dd8-b0ab-cf8f084ecb41",
-      "time": "2026-06-22 09:01:20",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Nikkei 225",
-        "Impact bullish"
-      ],
-      "text": "Taiwan's TAIEX opened up 945.37 points, or 2.03%, at 47,410.57 on Monday, June 22."
-    },
-    {
-      "id": "mkt:019eecd8-991f-7dd8-b0ab-c0a6c4edddec",
-      "time": "2026-06-22 09:01:18",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Precious Metals",
-        "XAUUSD",
-        "Impact bearish"
-      ],
-      "text": "Shanghai Gold Exchange Gold T+D fell 2.31% to 917.31 yuan/gram in early trade on Monday, June 22; Silver T+D dropped 3.03% to 16,082.0 yuan/kg."
-    },
-    {
-      "id": "mkt:019eecd8-7020-7dd8-b0ab-b80bbe083f79",
-      "time": "2026-06-22 09:01:07",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Precious Metals",
-        "XAUUSD",
-        "Impact bullish"
-      ],
-      "text": "Spot gold extended gains, touching $4,220/oz and rising 1.55% intraday. Spot silver climbed above $67/oz, up 3.40% on the session."
-    },
-    {
-      "id": "em:qqyh_zgyh:202606223777174212",
-      "time": "2026-06-22 09:00:52",
-      "tags": [
-        "央行",
-        "中國央行"
-      ],
-      "text": "【6月LPR不變：1年期3.0% 5年期以上3.5%】貸款市場報價利率（LPR）報價連續13個月按兵不動。中國人民銀行授權全國銀行間同業拆借中心公佈，2026年6月22日，貸款市場報價利率（LPR）為：1年期LPR為3.00%，5年期以上LPR為3.50%，均較上月保持不變，以上LPR在下一次釋出LPR之前有效。"
-    },
-    {
-      "id": "4946962",
-      "time": "2026-06-22 09:00:36",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "現貨白銀突破67美元/盎司，日內漲3.41%。"
-    },
-    {
-      "id": "mkt:019eecd7-e5fe-7dd8-b0ab-b3f64429b2a6",
-      "time": "2026-06-22 09:00:32",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "CSI300",
-        "Impact bullish"
-      ],
-      "text": "FTSE China A50 index futures opened 0.18% higher."
-    },
-    {
-      "id": "4946961",
-      "time": "2026-06-22 09:00:30",
-      "tags": [
-        "央行",
-        "焦點"
-      ],
-      "text": "【一年期、五年期LPR均維持不變】中國央行將一年期和五年期貸款市場報價利率（LPR）分別維持在3%和3.5%不變，為連續13個月保持不變。"
-    },
-    {
-      "id": "mkt:019eecd7-d8d4-7dd8-b0ab-ad1dffe3d020",
-      "time": "2026-06-22 09:00:29",
-      "tags": [
-        "MKT News",
-        "Macro & Rates"
-      ],
-      "text": "China's five-year loan prime rate (LPR) stood at 3.50% on June 22, in line with the forecast and the prior reading of 3.50%."
-    },
-    {
-      "id": "mkt:019eecd7-d726-7dd8-b0ab-a651175c56b3",
-      "time": "2026-06-22 09:00:28",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Energy",
-        "Precious Metals"
-      ],
-      "text": "At the open, China’s main futures contracts were mixed. Low-sulfur fuel oil (LU) jumped over 3%, lithium carbonate slid over 5% and Shanghai silver futures fell about 4%. Palladium, eggs and platinum were down more than 3%. Container freight to Europe rose over 2%; Shanghai crude (SC) and bottle-grade PET gained just above 1%."
-    },
-    {
-      "id": "mkt:019eecd7-d65e-7dd8-b0ab-9c2a6d7af9e0",
-      "time": "2026-06-22 09:00:28",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "China one-year loan prime rate (LPR) as of June 22: 3.00%; expected 3.00%; prior 3.00%."
-    },
-    {
-      "id": "te:markets:560570",
-      "time": "2026-06-22 09:00:23",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Japan",
-        "Stock Market",
-        "Importance 2"
-      ],
-      "text": "Japanese Shares Scale Fresh Record Highs — The Nikkei 225 Index jumped 1.4% to above 72,200, while the broader Topix Index gained 1% to 4,085 on Monday, with both benchmarks reaching new record highs as Japanese firms tied to the global artificial intelligence infrastructure boom continued to lead the market higher. Domestic equities advanced despite a rise in oil prices after tensions escalated during the first day of talks between the US and Iran. Investors also awaited the latest Japanese PMI data for clues on economic conditions, along with the Bank of Japan’s Summary of Opinions from its June meeting, where policymakers raised interest rates by 25 basis points to 1%. Among notable gainers, Furukawa Electric jumped 8.7%, Murata Manufacturing rose 6.7%, JX Advanced Metals gained 8%, Ibiden advanced 5.1%, and SoftBank Group added 1.1%."
-    },
-    {
-      "id": "4946960",
-      "time": "2026-06-22 09:00:22",
-      "tags": [
-        "市場"
-      ],
-      "text": "現貨白銀日內漲3%，現報66.97美元/盎司。"
-    },
-    {
-      "id": "mkt:019eecd7-bc32-7dd8-b0ab-97bb87b351c4",
-      "time": "2026-06-22 09:00:21",
-      "tags": [
-        "MKT News",
-        "Economic Calendar"
-      ],
-      "text": "China | 5-Year Loan Prime Rate (Jun.22) | actual 3.5% | consensus 3.50% | previous 3.50%"
-    },
-    {
-      "id": "mkt:019eecd7-b016-7dd8-b0ab-8a0ce7338fe6",
-      "time": "2026-06-22 09:00:18",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "China | 1-Year Loan Prime Rate (Jun.22) | actual 3% | consensus 3.00% | previous 3.00%"
-    },
-    {
-      "id": "mkt:019eecd7-ac92-7dd8-b0ab-83f7eab21d33",
-      "time": "2026-06-22 09:00:17",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "【1yr, 5yr LPR unchanged】The PBOC left the 1-year and 5-year loan prime rates (LPR) at 3.00% and 3.50%, respectively, marking the 13th consecutive month without change."
-    },
-    {
-      "id": "4946959",
-      "time": "2026-06-22 09:00:15",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "【財政部：關於在政府採購活動中對有關美國企業採取相關措施的通知】根據有關法律法規，經批准，現決定在政府採購活動中對46家美國企業採取相關措施。具體通知如下： 一、採購人在政府採購活動中，不得采購46家美國企業（不包括在華美資企業）生產的產品。 二、本通知自印發之日起施行。"
-    },
-    {
-      "id": "4946958",
-      "time": "2026-06-22 09:00:11",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "現貨黃金突破4210美元/盎司，日內漲1.34%。"
-    },
-    {
-      "id": "4946957",
-      "time": "2026-06-22 09:00:09",
-      "tags": [
-        "市場"
-      ],
-      "text": "紐約期銀日內漲1%，現報67.48美元/盎司。"
-    },
-    {
-      "id": "4946956",
-      "time": "2026-06-22 09:00:07",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "紐約期金突破4230美元/盎司，日內跌0.37%。"
-    },
-    {
-      "id": "4946955",
-      "time": "2026-06-22 09:00:03",
-      "tags": [
-        "市場"
-      ],
-      "text": "【商品期貨開盤】白銀連續跌4.37%，碳酸鋰連續跌4.32%，鉑連續跌3.47%，雞蛋連續跌3.33%，鈀連續跌3.00%。"
-    },
-    {
-      "id": "4946954",
-      "time": "2026-06-22 09:00:03",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "紐約期銀突破67美元/盎司，日內漲0.29%。"
-    },
-    {
-      "id": "4946953",
-      "time": "2026-06-22 09:00:02",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "白銀連續主力合約日內跌4%，現報15980.00元。"
-    },
-    {
-      "id": "4946952",
-      "time": "2026-06-22 09:00:02",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "碳酸鋰連續主力合約日內跌4%，現報158400.00元。"
-    },
-    {
-      "id": "4946951",
-      "time": "2026-06-22 09:00:02",
-      "tags": [
-        "市場"
-      ],
-      "text": "富時中國A50指數期貨開盤下跌0.05%。"
-    },
-    {
-      "id": "4946950",
-      "time": "2026-06-22 09:00:02",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "焦煤連續主力合約日內跌1%，現報1279.00元。"
-    },
-    {
-      "id": "4946949",
-      "time": "2026-06-22 09:00:00",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "紐約期金突破4220美元/盎司，日內跌0.60%。"
-    },
-    {
-      "id": "mkt:019eecd7-24d3-7dd8-b0ab-79ab720a50cb",
-      "time": "2026-06-22 08:59:43",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Greater China",
-        "DXY",
-        "Impact bullish",
-        "XAUUSD",
-        "S&P500",
-        "Impact bearish"
-      ],
-      "text": "China's Ministry of Finance said it will take measures against relevant U.S. companies in government procurement activities."
-    },
-    {
-      "id": "mkt:019eecd7-0400-7dd8-b0ab-764f789e2914",
-      "time": "2026-06-22 08:59:34",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Iran negotiating delegation concludes work; technical team to continue】State news agency reported on June 22 that Iranian Foreign Ministry spokesman Baghaei said the negotiating delegation has concluded its work, while technical teams will continue. Mediators Qatar and Pakistan will issue a text summarising the talks’ key points, which will be submitted as the agreement document."
-    },
-    {
-      "id": "4946948",
-      "time": "2026-06-22 08:59:14",
-      "tags": [
-        "市場"
-      ],
-      "text": "現貨白銀日內漲2%，現報66.21美元/盎司。"
     }
   ]
 }
