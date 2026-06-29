@@ -1,7 +1,26 @@
 {
-  "updated": "2026-06-29 10:53:45",
-  "count": 17907,
+  "updated": "2026-06-29 10:57:38",
+  "count": 17901,
   "items": [
+    {
+      "id": "mkt:019f114f-0a41-7aab-8c07-ae83fb0cd7c0",
+      "time": "2026-06-29 10:57:00",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY"
+      ],
+      "text": "Taliban spokesman says Pakistani airstrikes along the Afghan border have killed and wounded dozens."
+    },
+    {
+      "id": "4959606",
+      "time": "2026-06-29 10:55:28",
+      "tags": [
+        "公司"
+      ],
+      "text": "【華工科技：一季度光模組出口同比大增系去年同期基數較小疊加需求旺盛】對於媒體此前報道的一季度光模組產品出口同比暴增超百倍，華工科技證券部人士今日對記者表示，“首先AI帶來的光模組需求增長是確定的。另外我們800G以上產品去年同期在海外是處於送測以及小批次（出貨）階段，相對來說基數較小，而今年一季度同比有明顯增長。具體情況要以半年報財務資料為準。”注：6月27日央視財經報道，一季度，華工科技子公司華工正源800G以上高階光模組海外銷售額同比暴漲13974%，環比去年四季度大增229%，生產線全天不停機滿產運轉。 (財聯社)"
+    },
     {
       "id": "te:markets:562391",
       "time": "2026-06-29 10:52:58",
@@ -163895,88 +163914,6 @@
         "兩會"
       ],
       "text": "【十四屆全國人大常委會第二十三次會議6月23日至26日在北京舉行】從今天全國人大常委會法制工作委員會舉行的記者會上瞭解到，十四屆全國人大常委會第六十八次委員長會議決定，十四屆全國人大常委會第二十三次會議6月23日至26日在北京舉行。委員長會議建議，十四屆全國人大常委會第二十三次會議：繼續審議商標法修訂草案、註冊會計師法修正草案、檢察公益訴訟法草案、南極活動與環境保護法草案、國家消防救援人員法草案；審議全國人大財政經濟委員會關於提請審議政府採購法修訂草案的議案；審議國務院關於提請審議招標投標法修訂草案的議案、關於提請審議金融法草案的議案、關於提請審議中國人民銀行法修訂草案的議案等。（央視）"
-    },
-    {
-      "id": "4947186",
-      "time": "2026-06-22 10:57:21",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "亞航X股價下跌1.5%，至1.31馬來西亞林吉特。"
-    },
-    {
-      "id": "4947185",
-      "time": "2026-06-22 10:56:34",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "馬來西亞林吉特兌美元匯率下跌0.4%，至4.152，為2025年11月24日以來最低水平。"
-    },
-    {
-      "id": "4947184",
-      "time": "2026-06-22 10:56:20",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "南向資金淨賣出額達40億港元。"
-    },
-    {
-      "id": "4947182",
-      "time": "2026-06-22 10:55:40",
-      "tags": [
-        "其他"
-      ],
-      "text": "阿里雲：將於北京時間2026年7月15日12:00:00起，取消雲資料庫Tair記憶體型例項的月付優惠活動。"
-    },
-    {
-      "id": "mkt:019eed41-4d82-7dd8-b0ae-df79d8ef508d",
-      "time": "2026-06-22 10:55:40",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution",
-        "Nasdaq100",
-        "Impact bullish",
-        "S&P500",
-        "DXY",
-        "Impact bearish"
-      ],
-      "text": "【Bernstein: Global gaming revenue may hit $220 bln by 2026; PC growth to outpace consoles】Bernstein analysts forecast global video game industry revenue could reach $220 bln by 2026. They expect PCs to be the fastest-growing segment this year as consumer and gaming PC lines blur, while consoles face rising memory-cost pressure. Asian developers, benefiting from a large skilled and lower-cost workforce, may continue taking share from major Western peers. Analysts say concerns about AI disrupting game development are overstated, since production still relies heavily on original narrative and other creative work."
-    },
-    {
-      "id": "mkt:019eed41-2ef4-7dd8-b0ae-d3aaf9f4887a",
-      "time": "2026-06-22 10:55:32",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "Star Stocks",
-        "Alibaba",
-        "BABA.N",
-        "Impact bearish",
-        "9988.HK"
-      ],
-      "text": "Alibaba Cloud will cancel the monthly-payment discount for memory-optimized Tair cloud-database instances effective 12:00:00 Beijing time on 15 July 2026."
-    },
-    {
-      "id": "em:jjsj_zgsj:202606223777708181",
-      "time": "2026-06-22 10:55:00",
-      "tags": [
-        "經濟數據",
-        "中國"
-      ],
-      "text": "【商務部：1-5月重點平臺智慧眼鏡銷售額增長2.8倍】商務部消費促進司負責人談2026年5月我國消費市場情況。新型消費需求旺盛。消費品以舊換新帶動綠色、智慧、健康消費增長，通訊器材類零售額增長13.8%。5月份，新能源汽車國內零售滲透率達62.9%，再創歷史新高。商務部商務大資料顯示，1-5月，重點平臺智慧眼鏡銷售額增長2.8倍、手持攝影裝置銷售額增長24.2%、智慧血糖儀銷售額增長14.7%、有機食品銷售額增長3.6%。"
-    },
-    {
-      "id": "4947181",
-      "time": "2026-06-22 10:54:21",
-      "tags": [
-        "市場"
-      ],
-      "text": "【創業板指翻綠 此前一度漲近1.7%】指數衝高回落，創業板指翻綠，此前一度漲近1.7%。醫藥生物、軍工、汽配、酒店旅遊等方向跌幅居前，滬深京三市下跌個股近4400只。"
     }
   ]
 }
