@@ -1,7 +1,56 @@
 {
-  "updated": "2026-06-29 15:13:20",
-  "count": 17860,
+  "updated": "2026-06-29 15:17:30",
+  "count": 17850,
   "items": [
+    {
+      "id": "4959949",
+      "time": "2026-06-29 15:16:17",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "南向資金淨賣出額達20億港元。"
+    },
+    {
+      "id": "mkt:019f123c-5417-7aab-8c0c-320da9901f47",
+      "time": "2026-06-29 15:16:11",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【China government bond futures midday close】China government bond futures midday close: front-month 2-year (TS) up 0.03%, 5-year (TF) up 0.10%, 10-year (T) up 0.14%, 30-year (TL) up 0.12%."
+    },
+    {
+      "id": "te:markets:562467",
+      "time": "2026-06-29 15:16:02",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "China",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The Shangai Composite Index Closes 1.19% Higher — The Shangai Composite Index gained 48 points or 1.19 percent on Monday to close at 4075 points. Gains were led by Jiangsu Hengrui (8.18%), Sh Fosun Pharma (6.65%) and Guangzhou Baiy (3.95%)."
+    },
+    {
+      "id": "4959948",
+      "time": "2026-06-29 15:15:01",
+      "tags": [
+        "市場"
+      ],
+      "text": "【國債期貨收盤】 30年期主力合約漲0.12%， 10年期主力合約漲0.14%， 5年期主力合約漲0.10%， 2年期主力合約漲0.03%。"
+    },
+    {
+      "id": "te:economy:562466",
+      "time": "2026-06-29 15:14:31",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Spain",
+        "Inflation Rate",
+        "Importance 2"
+      ],
+      "text": "Spain Inflation Rate Holds at 3.2% as Expected — Spain's annual inflation rate remained unchanged at 3.2% in June 2026, matching the readings in May and April and meeting market expectations, according to preliminary estimates. Upward pressure came from electricity and gas prices, which increased more sharply than they did in June 2025. In contrast, motor fuels and lubricants for personal vehicles helped moderate inflation, as their prices declined compared with the increase recorded a year earlier. Meanwhile, the core inflation rate eased to 2.9% from an upwardly revised 3.0% in May. On a monthly basis, the CPI rose 0.6%."
+    },
     {
       "id": "te:economy:562465",
       "time": "2026-06-29 15:12:43",
@@ -163487,146 +163536,6 @@
         "Important"
       ],
       "text": "【Iranian media: delegation leaves Switzerland to return home】Iranian media reported on the 22nd that a delegation led by Iran's parliament speaker Mohammad Bagher Ghalibaf left Switzerland and returned to Iran."
-    },
-    {
-      "id": "4947559",
-      "time": "2026-06-22 15:17:28",
-      "tags": [
-        "其他"
-      ],
-      "text": "【贏創計劃全球裁員3200人】贏創近日宣佈，將延長“贏創定製”增效計劃，涉及贏創全球所有業務及職能部門，擬裁減約3200個崗位，其中德國本土約佔2150個。相關措施計劃於2027年啟動，持續至2029年底。6月22日，贏創向介面新聞確認，德國以外地區將削減1050個職位，中國區包含在內，但具體裁員數量尚未明確。“贏創定製”計劃於2023年10月推出，原定目標為2026年底前累計削減約2800個崗位。今年5月，贏創曾表示該計劃進展順利並將實現既定降本目標。"
-    },
-    {
-      "id": "mkt:019eee30-e904-7dd8-b0b3-6926672921ac",
-      "time": "2026-06-22 15:17:23",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution",
-        "CSI300",
-        "Impact bullish",
-        "SZSE Component",
-        "Hang Seng Index"
-      ],
-      "text": "【Yunzhisheng exploring return to A-share market】Hong Kong-listed AI firm Yunzhisheng has held preliminary talks with multiple brokers on a potential A-share relisting, sources say, adding the work remains at a research stage. Market expectations for AI-company returns to the A-share market have risen after the STAR Market broadened its fifth set of listing standards to include more AI firms. Yunzhisheng has not responded to the report."
-    },
-    {
-      "id": "te:economy:560701",
-      "time": "2026-06-22 15:17:21",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "India",
-        "Government Bond 10Y",
-        "Importance 1"
-      ],
-      "text": "India 10Y Yield Pauses Decline — The yield on India’s 10-year G-Sec hovered around 6.8%, stabilizing after four consecutive weeks of declines as lower crude oil prices and strong foreign inflows supported bond demand. Yields remained under pressure after Brent crude fell 1.9% to $79.04 per barrel, following Iran's export waivers under its interim agreement with the US. However, further declines were limited by uncertainty over the US-Iran truce and renewed concerns surrounding the Strait of Hormuz. Investors also weighed El Niño-related risks to inflation and growth, while elevated global yields following the Federal Reserve's hawkish stance added caution. Foreign investors have purchased INR 213.5 billion of Indian bonds this month, a 15-month high, supported by the RBI's June 5 measures to boost inflows and recent tax cuts. Markets are also awaiting Bloomberg Index Services' decision on the potential inclusion of Indian debt in its Global Aggregate Index, which could further strengthen overseas demand."
-    },
-    {
-      "id": "4947558",
-      "time": "2026-06-22 15:16:50",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "據伊朗媒體22日報道，由伊朗伊斯蘭議會議長卡利巴夫率領的伊朗代表團離開瑞士，返回伊朗。（新華社）"
-    },
-    {
-      "id": "mkt:019eee30-2eae-7dd8-b0b3-6279f2445eec",
-      "time": "2026-06-22 15:16:35",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "India plans to sign trade agreements with Canada, Israel and the Gulf Cooperation Council (GCC), the trade minister said."
-    },
-    {
-      "id": "4947557",
-      "time": "2026-06-22 15:16:32",
-      "tags": [
-        "公司"
-      ],
-      "text": "【雲知聲正研究回A可能性】港股上市AI企業雲知聲近期已與多家券商展開接觸，就回歸A股上市的可行性進行前期溝通。接近公司的人士透露，目前相關工作尚處於研究階段。隨著近期科創板第五套上市標準向人工智慧領域擴容，市場對於部分人工智慧企業迴歸A股的預期正在升溫。截至發稿，雲知聲方面尚未對上述訊息作出回應。（介面）"
-    },
-    {
-      "id": "mkt:019eee2f-f81a-7dd8-b0b3-5e4084dc2d9c",
-      "time": "2026-06-22 15:16:21",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "【China bond futures midday close】2-year bond futures (TS) main contract up 0.01%; 5-year (TF) main contract up 0.01%; 10-year (T) main contract up 0.01%; 30-year (TL) main contract up 0.15%."
-    },
-    {
-      "id": "4947556",
-      "time": "2026-06-22 15:16:11",
-      "tags": [
-        "國際"
-      ],
-      "text": "印度貿易部長：印度計劃與加拿大、以色列、海灣阿拉伯國家合作委員會簽署貿易協定。"
-    },
-    {
-      "id": "te:markets:560700",
-      "time": "2026-06-22 15:16:02",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "China",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The Shangai Composite Index Closes 1.81% Higher — The Shangai Composite Index gained 74 points or 1.81 percent on Monday to close at 4164 points. Gains were led by New China Life (10.01%), Sanan Optoelectron (9.98%) and Hengli Petrochemical (8.77%)."
-    },
-    {
-      "id": "4947555",
-      "time": "2026-06-22 15:15:17",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "伊朗伊斯蘭共和國通訊社報道：伊朗代表團結束瑞士會談後返回德黑蘭。"
-    },
-    {
-      "id": "mkt:019eee2e-cab0-7dd8-b0b3-5675f19707c7",
-      "time": "2026-06-22 15:15:04",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "India's trade minister said India aims to secure preferential market access through a trade agreement with the United States."
-    },
-    {
-      "id": "4947554",
-      "time": "2026-06-22 15:15:03",
-      "tags": [
-        "市場"
-      ],
-      "text": "【國債期貨收盤】 30年期主力合約漲0.15%， 10年期主力合約漲0.01%， 5年期主力合約漲0.01%， 2年期主力合約漲0.01%。"
-    },
-    {
-      "id": "4947553",
-      "time": "2026-06-22 15:15:00",
-      "tags": [
-        "國際"
-      ],
-      "text": "印度貿易部長：印度正尋求透過與美國的貿易協定獲得優惠准入待遇。"
-    },
-    {
-      "id": "4947552",
-      "time": "2026-06-22 15:14:52",
-      "tags": [
-        "其他"
-      ],
-      "text": "【中國法律諮詢中心服務平臺正式上線】記者6月22日從中國法學會獲悉，中國法律諮詢中心服務平臺近日正式上線。該服務平臺是以法學專家諮詢工作資訊資料庫為依託，集資訊查詢、線上諮詢、預約諮詢服務於一體的綜合性服務平臺，旨在為社會公眾提供優質高水平的法律諮詢服務。據介紹，服務平臺已搭建起中國法律諮詢中心、省、市、縣四級專家庫架構，建立了法學專家資源的分級管理和動態更新機制。聚焦實際需求，打造法學會基層服務站點和法學諮詢專家資訊檢索查詢、線上留言法律諮詢服務、預約法學會基層服務站點和法學諮詢專家線下諮詢、編髮法學會基層服務站點和法學諮詢專家工作動態、統計法學會基層服務站點和法學諮詢專家工作資料五大應用場景，實現從線上到線下、從查詢到諮詢、從服務到管理的全鏈條覆蓋。（新華社）"
-    },
-    {
-      "id": "4947551",
-      "time": "2026-06-22 15:14:39",
-      "tags": [
-        "央行",
-        "市場",
-        "觀點"
-      ],
-      "text": "【高盛預計央行購金速度將小幅放緩，但仍將持續為金價託底】高盛預測，2026年央行將持續以每月50噸的速度購入黃金，2027年放緩至每月40噸。而即便月度購金速度較前期峰值有所回落，這一趨勢仍為金價提供了持久的結構性底部支撐。創紀錄比例的央行表示有意增持黃金儲備，這一需求背景為金價下行風險提供了實質性的緩衝。高盛的預測意味著，即便月度資料有所波動，央行需求仍將在未來兩年內成為金價最持續的結構性支撐因素之一。世界黃金協會在2月至5月期間對76家央行進行的另一項調查也支援這一觀點。創紀錄的45%受訪者表示，他們預計未來12個月內將增持黃金儲備，這是該調查歷史上的最高水平。約90%的受訪者預計同期全球央行黃金持有量將上升，其餘受訪者預計將大致保持穩定。沒有受訪者預計會出現下降。"
     }
   ]
 }
