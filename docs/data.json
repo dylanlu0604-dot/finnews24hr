@@ -1,7 +1,83 @@
 {
-  "updated": "2026-06-29 15:09:16",
-  "count": 17865,
+  "updated": "2026-06-29 15:13:20",
+  "count": 17860,
   "items": [
+    {
+      "id": "te:economy:562465",
+      "time": "2026-06-29 15:12:43",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Slovakia",
+        "Consumer Confidence",
+        "Importance 1"
+      ],
+      "text": "Slovakia Consumer Morale Hits 4-Month High — Slovakia's consumer confidence indicator rose to -27.3 in June 2026 from a more than three-year low of -28.3 in the previous month. It marked the highest level since February, mainly driven by less pessimistic expectations regarding households' future financial situation (-11.3 vs -13.4 in May) and a more favorable assessment of their past financial situation (-15.1 vs -17.2). Consumers were also less negative about the country's future economic outlook (-42.4 vs -44.0), although their assessment of the past economic situation deteriorated slightly (-54.7 vs -53.6). Expectations for unemployment improved (36.2 vs 36.6), while expectations for household savings were marginally less negative (-19.1 vs -19.3). On the inflation front, perceptions of past price growth eased (42.4 vs 45.1), while inflation expectations also softened notably (36.6 vs 40.8)."
+    },
+    {
+      "id": "4959947",
+      "time": "2026-06-29 15:11:34",
+      "tags": [
+        "公司"
+      ],
+      "text": "【歌爾股份旗下精密製造公司增資至約10.7億】天眼查App顯示，近日，怡力精密製造有限公司發生工商變更，註冊資本由約10.1億人民幣增至約10.7億人民幣。該公司成立於2013年7月，法定代表人為何朝明，經營範圍包括開發、製造、銷售光電子器件及其他電子器件等，由歌爾股份（002241）、香港歌爾泰克有限公司共同持股。"
+    },
+    {
+      "id": "4959946",
+      "time": "2026-06-29 15:11:29",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【上海期貨交易所：同意華友鈷業“HUAYOU”牌電解鎳（電積工藝）（三期）註冊】6月29日，上海期貨交易所公告，近期，上期所收到浙江華友鈷業股份有限公司報送的相關申請材料。根據《上海期貨交易所有色金屬交割商品管理規定》等有關規定，經研究決定：\n一、同意浙江華友鈷業股份有限公司子公司衢州華友鈷新材料有限公司生產的“HUAYOU”牌電解鎳（電積工藝，Ni99.96）（三期）在我所註冊，註冊產能5萬噸，執行標準價。\n二、自公告之日起，上述產品可用於我所鎳期貨合約的履約交割。"
+    },
+    {
+      "id": "4959945",
+      "time": "2026-06-29 15:11:18",
+      "tags": [
+        "其他"
+      ],
+      "text": "【事關建設工程施工合同糾紛案件 最高法釋出23條解釋】今天，最高人民法院釋出《關於審理建設工程施工合同糾紛案件適用法律問題的解釋（二）》。解釋共二十三條，除第二十三條是關於施行時間的規定外，其餘二十二個條文都是針對司法實踐中爭議較多的問題作出規定。（央視新聞）"
+    },
+    {
+      "id": "mkt:019f1237-c4ee-7aab-8c0c-29cb3fd86d74",
+      "time": "2026-06-29 15:11:12",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "Chip Wars",
+        "Nasdaq100",
+        "Impact mixed"
+      ],
+      "text": "【Nearly 20 analog and power semiconductor firms to start price increases on July 1】Nearly 20 global analog and power semiconductor firms will start a new round of price increases from July 1, after multiple stepped adjustments earlier this year. Vendors report full order books and improved capacity visibility. Analysts say the hikes are driven by rising wafer-foundry and raw-material costs and amplified by a surge in power-chip demand from AI data-center buildouts. Market share is expected to consolidate toward chipmakers with IDM full-chain capabilities, deep upstream ties, or exposure to high-growth segments."
+    },
+    {
+      "id": "4959944",
+      "time": "2026-06-29 15:10:55",
+      "tags": [
+        "其他"
+      ],
+      "text": "【中創新航：積極響應《動力和儲能電池企業供應商賬款支付規範倡議》號召】據中創新航訊息，近期，中國汽車動力電池產業創新聯盟與中關村儲能產業技術聯盟聯合釋出了《動力和儲能電池企業供應商賬款支付規範倡議》(以下簡稱《倡議》)。中創新航將繼續貫徹落實《保障中小企業款項支付條例》要求，積極響應《倡議》號召，在訂單確認、交付與驗收、支付與結算等方面積極落實《倡議》要求，一如既往地維護供應商權益，持續構建合作共贏的產業鏈生態。"
+    },
+    {
+      "id": "4959943",
+      "time": "2026-06-29 15:10:32",
+      "tags": [
+        "公司"
+      ],
+      "text": "【寧德時代：積極響應《動力和儲能電池企業供應商賬款支付規範倡議》】6月29日，中國汽車動力電池產業創新聯盟與中關村儲能產業技術聯盟聯合釋出《動力和儲能電池企業供應商款項支付規範倡議》。寧德時代積極響應倡議號召。我們深知，產業鏈的健康穩定是行業高質量發展的根基，維護公平誠信的市場環境，保障供應商合法權益，是公司義不容辭的責任。寧德時代堅決貫徹倡議精神，未來將攜手產業鏈夥伴共建誠信合規、共生共贏的產業生態，以實際行動助力我國動力和儲能電池產業高質量、可持續健康發展。（寧德時代）"
+    },
+    {
+      "id": "4959942",
+      "time": "2026-06-29 15:09:29",
+      "tags": [
+        "行業",
+        "其他",
+        "焦點"
+      ],
+      "text": "【7月1日起集中調價，近20家半導體企業開啟新一輪漲價潮】全球近20家模擬及功率半導體企業即將於7月1日啟動新一輪漲價，年內已呈現多批次階梯式調價特徵。不少廠商稱當前在手訂單飽滿，產能能見度顯著提升。分析指出，本輪漲價的核心動力，源於晶圓代工和原材料漲價帶來的成本壓力，與AI資料中心建設帶來的功率晶片需求激增形成共振。市場份額將向具備IDM全鏈條能力或與上游深度繫結、且涉足高景氣賽道的頭部晶片企業集中。（21財經）"
+    },
     {
       "id": "4959941",
       "time": "2026-06-29 15:07:42",
@@ -163551,120 +163627,6 @@
         "觀點"
       ],
       "text": "【高盛預計央行購金速度將小幅放緩，但仍將持續為金價託底】高盛預測，2026年央行將持續以每月50噸的速度購入黃金，2027年放緩至每月40噸。而即便月度購金速度較前期峰值有所回落，這一趨勢仍為金價提供了持久的結構性底部支撐。創紀錄比例的央行表示有意增持黃金儲備，這一需求背景為金價下行風險提供了實質性的緩衝。高盛的預測意味著，即便月度資料有所波動，央行需求仍將在未來兩年內成為金價最持續的結構性支撐因素之一。世界黃金協會在2月至5月期間對76家央行進行的另一項調查也支援這一觀點。創紀錄的45%受訪者表示，他們預計未來12個月內將增持黃金儲備，這是該調查歷史上的最高水平。約90%的受訪者預計同期全球央行黃金持有量將上升，其餘受訪者預計將大致保持穩定。沒有受訪者預計會出現下降。"
-    },
-    {
-      "id": "4947550",
-      "time": "2026-06-22 15:13:12",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "倫敦證券交易所集團（LSEG）資料顯示，德國場外交易日前基荷電力價格為180歐元/兆瓦時，較上週五週一交割的價格上漲45%。"
-    },
-    {
-      "id": "4947549",
-      "time": "2026-06-22 15:11:57",
-      "tags": [
-        "其他"
-      ],
-      "text": "易捷航空：董事會還指出，擬議的所有權結構不透明，且沒有提供任何依據來評估第三份提案能否落實。"
-    },
-    {
-      "id": "4947548",
-      "time": "2026-06-22 15:11:52",
-      "tags": [
-        "公司"
-      ],
-      "text": "【阿里旗下平頭哥半導體增資至10億元】企查查APP顯示，近日，平頭哥（上海）半導體技術有限公司發生工商變更，註冊資本由3億元增加至10億元，增幅約為233.33%。企查查顯示，該公司成立於2018年11月，法定代表人為包文俊，現由平頭哥（上海）電子技術有限公司全資持股。官網顯示，平頭哥半導體為阿里巴巴集團全資半導體晶片業務主體，具備成熟的晶片研發體系及晶片端到端全鏈路研發能力。"
-    },
-    {
-      "id": "mkt:019eee2b-9d1b-7dd8-b0b3-4d0d839a3603",
-      "time": "2026-06-22 15:11:36",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Precious Metals",
-        "XAUUSD",
-        "Impact bullish"
-      ],
-      "text": "【Goldman Sachs: central bank gold buying to slow slightly but remain a structural floor for prices】Goldman Sachs forecasts central banks will buy gold at roughly 50 t/month in 2026, slowing to about 40 t/month in 2027. Although below prior peaks, Goldman says the sustained buying trend will provide a durable structural floor for gold prices and materially buffer downside risk. A World Gold Council survey of 76 central banks conducted Feb–May supports this: a record 45% expect to increase gold reserves in the next 12 months; about 90% expect global central bank gold holdings to rise and none expect a decline."
-    },
-    {
-      "id": "4947547",
-      "time": "2026-06-22 15:11:33",
-      "tags": [
-        "公司"
-      ],
-      "text": "【寧波華翔投資成立機器人新公司 含多項AI業務】企查查APP顯示，近日，華翔啟源（北京）機器人有限公司成立，經營範圍包含：人工智慧公共資料平臺；人工智慧公共服務平臺技術諮詢服務；人工智慧基礎資源與技術平臺等。企查查股權穿透顯示，該公司由寧波華翔(002048)旗下寧波華翔啟源科技有限公司全資持股。"
-    },
-    {
-      "id": "4947546",
-      "time": "2026-06-22 15:11:23",
-      "tags": [
-        "宏觀",
-        "兩會"
-      ],
-      "text": "【王滬寧主持召開全國政協主席會議】政協第十四屆全國委員會第五十二次主席會議22日在京召開。中共中央政治局常委、全國政協主席王滬寧主持並講話。會議傳達學習貫徹習近平總書記近期重要講話和重要指示精神。王滬寧表示，習近平黨建思想對強黨強國具有重大現實意義和長遠指導意義，在習近平新時代中國特色社會主義思想中有著特殊重要的地位，要持續推動學習貫徹習近平黨建思想走深走實，把學習成效體現到堅持人民政協性質定位、充分發揮專門協商機構作用、聚焦黨和國家中心任務履職盡責的實際行動和工作成效上。要深入學習貫徹習近平總書記對常態化做好東西部協作工作的重要指示精神，圍繞促進區域協調發展、推進鄉村全面振興、推動全體人民共同富裕等積極建言獻策。要深入學習貫徹習近平總書記關於前瞻佈局和發展未來產業的重要論述，引導經濟界、科技界等相關界別政協委員透過視察考察調研、提案、社情民意資訊等提出意見和建議。要深入學習貫徹習近平總書記關於一體推進教育科技人才發展的重要論述，聚焦建立健全教育科技人才一體推進協調機制、加快建設國家戰略人才力量等重點問題，深入調查研究、協商議政，助力推動科技自主創新和人才自主培養。（新華社）"
-    },
-    {
-      "id": "4947545",
-      "time": "2026-06-22 15:11:10",
-      "tags": [
-        "其他"
-      ],
-      "text": "【鏈博會“朋友圈”持續擴容 首日舉辦多場高關注度活動】第四屆鏈博會以“連結世界，共創未來”為主題，設定“6鏈1展區”，分別是數智科技鏈、先進製造鏈、綠色農業鏈、健康生活鏈、智慧汽車鏈、清潔能源鏈和供應鏈服務展區。今天下午還將舉辦十多場會議活動，其中有多場關注度都非常高。比如下午的貿促智庫交流活動現場將釋出《全球供應鏈促進報告2026》；中澳關於可再生能源產業的合作對接會也在下午舉行；同時還有多場的城市推介活動和供需對接會。在這些活動上，不僅可以看到多項重要成果釋出，還會見證多個重要的合作簽約儀式。（央視新聞）"
-    },
-    {
-      "id": "4947544",
-      "time": "2026-06-22 15:10:41",
-      "tags": [
-        "其他"
-      ],
-      "text": "易捷航空：拒絕對易捷航空的潛在收購要約。"
-    },
-    {
-      "id": "4947543",
-      "time": "2026-06-22 15:10:32",
-      "tags": [
-        "公司"
-      ],
-      "text": "【我國批准全球首款用於實體瘤治療的CAR-T療法】6月22日，國家藥品監督管理局透過優先審評，批准了科濟藥業子公司愷興生命科技（上海）有限公司申報的舒瑞基奧侖賽注射液（商品名：愷力美）上市，用於治療CLDN18.2陽性、人表皮生長因子受體2（HER2）陰性，至少二線治療失敗的晚期胃/食管胃結合部腺癌。該藥物也是全球首款獲批上市的用於實體瘤治療的CAR-T療法產品。（第一財經）"
-    },
-    {
-      "id": "4947542",
-      "time": "2026-06-22 15:10:08",
-      "tags": [
-        "公司"
-      ],
-      "text": "【公司高頻板透過英偉達認證？超聲電子：訊息不屬實】6月22日，針對投資者關於“ 網上關注到超聲電子的高頻板透過英偉達認證，是否屬實？ ”的提問，超聲電子在互動平臺表示，該訊息不屬實。"
-    },
-    {
-      "id": "te:economy:560697",
-      "time": "2026-06-22 15:09:59",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Turkey",
-        "Consumer Confidence",
-        "Importance 1"
-      ],
-      "text": "Turkey Consumer Sentiment Hits 3-Year High — Turkey’s consumer confidence index rose to 87.9 in June 2026 from 85.8 in May, according to the latest consumer tendency survey conducted jointly by the Turkish Statistical Institute and the Central Bank of the Republic of Türkiye. This marked the highest reading since May 2023, driven by a stronger assessment of households’ current financial situation, which increased to 72.3 from 69.2 in May, alongside continued improvement in expectations for the general economic outlook, rising to 83.9 from 81.4. Household financial expectations for the next 12 months also improved to 89.5 from 87.9, while willingness to spend on durable goods increased to 105.9 from 104.5. Despite the monthly improvement, the index remained below the neutral 100 level, indicating that consumer sentiment in Turkey is still broadly pessimistic."
-    },
-    {
-      "id": "4947541",
-      "time": "2026-06-22 15:09:52",
-      "tags": [
-        "國際"
-      ],
-      "text": "AMSPEC：馬來西亞6月1日至20日棕櫚油出口環比增長24.95%，出口量為862,436噸。"
-    },
-    {
-      "id": "4947540",
-      "time": "2026-06-22 15:09:18",
-      "tags": [
-        "國際"
-      ],
-      "text": "新加坡航空與馬來西亞航空及其他合作方推出戰略性聯合業務合作關係，並推出全新聯合票價產品。"
     }
   ]
 }
