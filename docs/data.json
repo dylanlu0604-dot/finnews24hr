@@ -1,7 +1,70 @@
 {
-  "updated": "2026-06-29 12:07:15",
-  "count": 17915,
+  "updated": "2026-06-29 12:11:15",
+  "count": 17911,
   "items": [
+    {
+      "id": "te:economy:562408",
+      "time": "2026-06-29 12:10:37",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Philippines",
+        "Consumer Confidence",
+        "Importance 0"
+      ],
+      "text": "Philippines Consumer Sentiment Lowest Since 2020 — Consumer confidence in the Philippines deteriorated sharply in Q2 2026, with the indicator falling to -42.0 from -15.8 in Q1, marking its weakest reading since Q4 2020 during the COVID pandemic. Sentiment weakened as consumers anticipated higher fuel and food prices due to the Middle East conflict, alongside weaker economic conditions, higher unemployment, and a softer Philippine peso. Concerns over governance issues and the perceived lack of sufficient government measures to mitigate rising prices further weighed on confidence. As a result, households became more pessimistic about the country's economic condition (-71.1 vs. -40.4 in Q1), family financial situation (-36.2 vs. -6.2), and family income (-18.7 vs. -0.8). Expectations also deteriorated for the next quarter (-16.3 vs. 1.8) and the next 12 months (0.2 vs. 9.6), pointing to a more cautious outlook amid persistent inflationary and geopolitical uncertainties."
+    },
+    {
+      "id": "4959700",
+      "time": "2026-06-29 12:10:14",
+      "tags": [
+        "市場"
+      ],
+      "text": "【瑞銀：維持中國燃氣目標價8.9港元 評級“買入”】瑞銀髮布研報稱，維持中國燃氣(00384)目標價8.9港元以及“買入”評級。管理層指引2027年3底止每股派息不少於0.35港元，派息比率下跌解釋為保留資金用於資本支出，以支援15%的目標增長，這表明此次削減反映的是為未來增長進行再投資，而非現金流疲軟。"
+    },
+    {
+      "id": "4959699",
+      "time": "2026-06-29 12:09:32",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美國州博覽會在華盛頓舉行】作為紀念美國獨立250週年慶祝活動之一，美國州博覽會6月25日至7月10日在華盛頓舉行。州博覽會匯聚美國各州、華盛頓哥倫比亞特區及海外領地的展館展示，以及現場音樂、嘉年華遊樂設施和數十個互動體驗活動。（新華社）"
+    },
+    {
+      "id": "mkt:019f1191-3c7f-7aab-8c08-97b8c7a9a083",
+      "time": "2026-06-29 12:09:18",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "Hang Seng Index",
+        "Impact bullish",
+        "01276.HK",
+        "00992.HK",
+        "Impact bearish"
+      ],
+      "text": "【Hong Kong midday: Hang Seng up 2.12% as healthcare sector surges】After a >1,200-point drop last week, the Hang Seng opened higher and rallied to reclaim the 23,000 level, rising about 400 points intraday. At the midday close the Hang Seng Index was up 2.12% at 23,153.43 and the Hang Seng Tech Index rose 3.68% to 4,412.23; market turnover was HKD172.93 billion. Healthcare led gains, with innovative-drug names strongest; internet and gaming stocks also outperformed. Electronic components and optical-communications names lagged. Notable movers: White Dove Online (02672.HK) +317.95% (midday), Yaojie Ankang-B (02617.HK) +39.56%, Hengrui Medicine (01276.HK) +7.84%; Lenovo Group (00992.HK) -9.64%, Yangtze Optical Fibre & Cable (06869.HK) -8.22%."
+    },
+    {
+      "id": "4959698",
+      "time": "2026-06-29 12:08:39",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【英偉達支援的Firmus與DayOne將在印尼建造AI資料中心園區】由英偉達(Nvidia)支援的資料中心運營商Firmus將在印尼建設一座AI資料中心園區。該公司表示，該專案將在前六年內帶來價值高達300億美元的協議。澳大利亞企業Firmus在一份宣告中宣佈，已與英偉達達成一項為期八年的合作協議，在印尼巴淡島建設一座裝機容量達360兆瓦的專屬英偉達DSX AI工廠園區；該島嶼與新加坡隔海相望。Firmus表示，這一大型資料中心專案將與總部位於新加坡的DayOne聯手開發。Firmus預計，在合作的前六年裡，客戶的承諾訂單將為其帶來250億至300億美元的收入。該公司表示，這項協議包含在2027至2028年間採購多達17萬塊英偉達AI圖形處理器，“使巴淡島園區躋身亞太地區最大的AI基礎設施開發專案之列”。"
+    },
+    {
+      "id": "te:markets:562407",
+      "time": "2026-06-29 12:07:20",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Wheat Futures Hit Over 2-Month Low — Wheat futures fell below $5.80 per bushel in late June, reaching their lowest level since April 10, as the advancing US winter wheat harvest reinforced expectations of ample supplies. Hard red winter wheat was 49% harvested, far ahead of 11% a year earlier and the five-year average of 19%, while the soft red winter wheat harvest reached 45%, also outpacing both last year and the five-year average. Crop conditions across other wheat-producing regions also remained broadly favorable. However, losses were limited by slower farmer selling during the Northern Hemisphere harvest and concerns over European wheat production following a recent heatwave. Meanwhile, traders awaited the US Department of Agriculture's quarterly Grain Stocks report due Tuesday. Traders also monitored the resumption of security talks in the Strait of Hormuz after renewed US-Iran tensions, as the recovery of fertilizer shipments through the strategic waterway could help alleviate concerns over wheat production costs."
+    },
     {
       "id": "4959697",
       "time": "2026-06-29 12:06:36",
@@ -164006,91 +164069,6 @@
         "國際"
       ],
       "text": "【SK海力士超越三星電子 成為韓國市值最高企業】週一，韓國晶片製造商SK海力士（SK Hynix）的市值一度超過同行三星電子，躍居韓國市值第一大企業。SK海力士股價上漲5.7%，總市值達2082.5萬億韓元（摺合1.35萬億美元）；同期三星電子股價僅上漲0.4%，總市值為2081.3萬億韓元。三星電子自2000年起便穩居韓國市值榜首，此次寶座被SK海力士短暫取代。受美國科技巨頭爭相建設人工智慧資料中心帶動，儲存晶片需求暴漲、供給收緊、產品價格走高，韓國兩大晶片企業均斬獲史上最高利潤。僅今年年內，SK海力士股價漲幅超340%，大幅跑贏三星電子200%的漲幅。"
-    },
-    {
-      "id": "4947271",
-      "time": "2026-06-22 12:09:28",
-      "tags": [
-        "公司"
-      ],
-      "text": "【中汽協：1-5月銷量排名前十轎車生產企業共銷售243.1萬輛】6月22日，據中國汽車工業協會統計分析，2026年1-5月，銷量排名前十位的轎車生產企業共銷售243.1萬輛，佔轎車銷售總量的67.4%。在上述十家企業中，與去年同期相比，上汽股份和特斯拉銷量呈不同程度增長，其他企業銷量均呈不同程度下降。"
-    },
-    {
-      "id": "4947270",
-      "time": "2026-06-22 12:09:10",
-      "tags": [
-        "其他"
-      ],
-      "text": "峰飛航空宣佈已入選香港低空經濟“監管沙盒X”首批試點專案。"
-    },
-    {
-      "id": "mkt:019eed84-3dd5-7dd8-b0af-c3b2c35c3769",
-      "time": "2026-06-22 12:08:47",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Fengfei Aviation picked for Hong Kong low-altitude Regulatory Sandbox X pilot】June 22 — Fengfei Aviation said it was selected in the first batch of pilots for Hong Kong’s low-altitude Regulatory Sandbox X. Four projects were chosen in the initial round; two will deploy Fengfei’s large eVTOL aircraft. Under guidance of the Hong Kong Low-Altitude Economy Working Group and its regulatory framework support, Fengfei and partners including Hong Kong China Travel Service Automobile Co., Ltd. and Aiyikang Ltd. will advance phased, scenario-based route planning, flight-parameter validation and end-to-end flight trials in Hong Kong."
-    },
-    {
-      "id": "4947269",
-      "time": "2026-06-22 12:08:44",
-      "tags": [
-        "公司"
-      ],
-      "text": "【邁克生物：暫無相關海洋生物、海洋毒素檢測相關業務及研發規劃】邁克生物6月22日在互動平臺表示，公司暫無相關海洋生物、海洋毒素檢測相關業務及研發規劃。"
-    },
-    {
-      "id": "4947268",
-      "time": "2026-06-22 12:08:24",
-      "tags": [
-        "其他"
-      ],
-      "text": "TD Cowen 將埃森哲評級從“買入”下調至“持有”，目標價 150 美元。"
-    },
-    {
-      "id": "mkt:019eed83-7dac-7dd8-b0af-b8a46a0de1e2",
-      "time": "2026-06-22 12:07:57",
-      "tags": [
-        "MKT News",
-        "EURUSD",
-        "Impact bullish",
-        "DAX"
-      ],
-      "text": "Irish officials told the Financial Times an EU capital markets pact is likely to be reached by year-end."
-    },
-    {
-      "id": "4947267",
-      "time": "2026-06-22 12:07:49",
-      "tags": [
-        "市場"
-      ],
-      "text": "全球晶片LOF、財通福鑫定開混合將於2026年6月22日下午開盤起至當日收盤停牌。"
-    },
-    {
-      "id": "mkt:019eed83-4387-7dd8-b0af-b4e302bd091d",
-      "time": "2026-06-22 12:07:43",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Caitong Fuxin Periodic Open-Ended Mixed Fund will suspend trading from market open on June 22, 2026 through market close the same day."
-    },
-    {
-      "id": "4947266",
-      "time": "2026-06-22 12:07:30",
-      "tags": [
-        "公司"
-      ],
-      "text": "貝恩公司透過“情緒編碼”AI復刻體來評估軟體收購目標。"
-    },
-    {
-      "id": "mkt:019eed82-ef7d-7dd8-b0af-af3d5f131d78",
-      "time": "2026-06-22 12:07:21",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "Chip Wars"
-      ],
-      "text": "Global Chip LOF will suspend trading from the open of the afternoon session on June 22, 2026 until market close that day."
     }
   ]
 }
