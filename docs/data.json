@@ -1,7 +1,109 @@
 {
-  "updated": "2026-06-29 08:27:15",
-  "count": 17968,
+  "updated": "2026-06-29 08:31:13",
+  "count": 17969,
   "items": [
+    {
+      "id": "mkt:019f10c9-1cf7-7aab-8c04-d72b8a991718",
+      "time": "2026-06-29 08:30:43",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Korea Exchange triggered the circuit-breaker mechanism for the KOSDAQ."
+    },
+    {
+      "id": "4959335",
+      "time": "2026-06-29 08:30:25",
+      "tags": [
+        "公司"
+      ],
+      "text": "好利來（中國）電子科技股份有限公司在深圳短暫停牌。"
+    },
+    {
+      "id": "4959334",
+      "time": "2026-06-29 08:30:08",
+      "tags": [
+        "市場"
+      ],
+      "text": "日經指數下跌1.1%，報68,623.71點。"
+    },
+    {
+      "id": "4959333",
+      "time": "2026-06-29 08:29:51",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金失守4050美元/盎司，日內跌0.77%。"
+    },
+    {
+      "id": "mkt:019f10c8-0854-7aab-8c04-cb0ac2bb68cc",
+      "time": "2026-06-29 08:29:32",
+      "tags": [
+        "MKT News",
+        "Important",
+        "005930.KS",
+        "Impact bearish",
+        "000660.KS"
+      ],
+      "text": "South Korea's KOSPI losses widened to 3%; Samsung Electronics down 5%, SK Hynix down 4.5%."
+    },
+    {
+      "id": "4959332",
+      "time": "2026-06-29 08:29:25",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "韓國綜合股價指數（KOSPI）下跌3％，三星電子跌5%，SK海力士跌4.5%。"
+    },
+    {
+      "id": "4959331",
+      "time": "2026-06-29 08:29:12",
+      "tags": [
+        "公司"
+      ],
+      "text": "佳兆業資本投資：子公司與一家科技企業簽訂戰略合作協議。將攜手合作夥伴共同拓展國產AI晶片及算力產品的應用場景。"
+    },
+    {
+      "id": "mkt:019f10c7-a6d5-7aab-8c04-c0bebdeba28f",
+      "time": "2026-06-29 08:29:07",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【China International Capital Co: Absolute leverage in Korean stocks at record highs, but leverage-to-market-cap not extreme】China International Capital Co. says on-exchange leverage in Korean stocks is around 2x–5x and absolute leverage has reached historical highs, but leverage relative to market value is not extreme; market sentiment and liquidity indicators are slightly tight but not severe. High leverage can amplify volatility and create liquidity stress: a 16–36% decline would trigger margin calls, recent forced-liquidation pressure has risen, but medium-to-long-term direction depends more on fundamentals."
+    },
+    {
+      "id": "mkt:019f10c7-42d0-7aab-8c04-bf3f49b310da",
+      "time": "2026-06-29 08:28:41",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Industrial Metals"
+      ],
+      "text": "【Weekend supply-restart reports weigh on lithium carbonate; prices likely to open lower】Minmetals Futures said weekend reports of supply-side restarts are pressuring lithium carbonate and prices are likely to open lower. Supply: H2 incremental lithium carbonate output will be driven mainly by spodumene, with overall release pacing slightly faster than H1. Demand: downstream orders remain full; July–August is a seasonal EV consumption trough but downstream production continues to rise MoM, and peak demand is expected in Sept–Oct. Overall, Minmetals judges the annual supply–demand balance will remain tight — even if a large Jiangxi lithium mine resumes production. A near-term price decline may prompt downstream buyers to bring forward restocking, which would limit downside."
+    },
+    {
+      "id": "mkt:019f10c6-86c4-7aab-8c04-b7661b4767c1",
+      "time": "2026-06-29 08:27:53",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "Spot gold fell to $4,050/oz, down 0.77% intraday."
+    },
+    {
+      "id": "4959330",
+      "time": "2026-06-29 08:27:24",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【威廉姆斯公司正就收購Momentum Midstream的55億美元交易進行談判】據媒體援引知情人士報道，美國管道運營商威廉姆斯公司正就以約55億美元收購競爭對手天然氣管道運營商Momentum Midstream一事進行深入談判。報道稱，這家總部位於俄克拉荷馬州塔爾薩的公司正在就從私募股權公司EnCap Flatrock Midstream手中收購Momentum一事敲定協議細節，並補充稱交易可能在一週左右宣佈。此項交易將使威廉姆斯公司獲得額外運輸能力，將海恩斯維爾頁岩氣輸送至美國墨西哥灣沿岸的出口終端。報道稱，目前尚未做出最終決定，EnCap仍可能選擇保留該公司。"
+    },
     {
       "id": "mkt:019f10c4-fd16-7aab-8c04-af727677f781",
       "time": "2026-06-29 08:26:12",
@@ -164416,98 +164518,6 @@
         "Japan & APAC"
       ],
       "text": "Bank of Japan Deputy Governor HIMINO said the BOJ will closely monitor the impact of policy-rate increases on firms and households."
-    },
-    {
-      "id": "4946898",
-      "time": "2026-06-22 08:31:00",
-      "tags": [
-        "國際"
-      ],
-      "text": "日本經濟產業大臣赤澤亮正：將竭盡全力維持穩定的能源供應。"
-    },
-    {
-      "id": "4946897",
-      "time": "2026-06-22 08:30:40",
-      "tags": [
-        "觀點"
-      ],
-      "text": "【中信證券：預計“十五五”新能源裝機規模仍將保持較快增長】中信證券研報稱，展望“十五五”，預計在終端綠電消費約束加強、電力行業降碳程序提速等因素推動下，新能源裝機規模仍將保持較快增長；結合全社會用電量年均複合增速5%以及火電、水電、核電供給增量等預測，中信證券預測“十五五”時期國內新能源年均增量將達到5280億千瓦時，對應年均裝機增量2.9億千瓦，到2030年末新能源電量、裝機佔比將分別達到37%、56%；為確保運營商投資積極性，欠補問題解決、加強新能源電價保障等措施需進一步強化。"
-    },
-    {
-      "id": "4946896",
-      "time": "2026-06-22 08:30:15",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "日本央行副行長冰見野良三： 央行將密切關注上調政策利率可能對企業和家庭產生的影響。"
-    },
-    {
-      "id": "4946895",
-      "time": "2026-06-22 08:29:26",
-      "tags": [
-        "市場",
-        "央行",
-        "國際"
-      ],
-      "text": "日本央行副行長冰見野良三： 如果推遲對貨幣寬鬆程度進行必要調整，物價過度上漲的風險可能成為現實。"
-    },
-    {
-      "id": "4946894",
-      "time": "2026-06-22 08:29:09",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "日本央行副行長冰見野良三： 延遲加息或將對經濟造成壓力。"
-    },
-    {
-      "id": "4946893",
-      "time": "2026-06-22 08:28:40",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "日本央行副行長冰見野良三： 近期中東緊張局勢緩和與我們4月展望報告中的預測偏差不大。"
-    },
-    {
-      "id": "4946892",
-      "time": "2026-06-22 08:28:25",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "日本央行副行長冰見野良三：寬鬆的金融環境預計將持續。"
-    },
-    {
-      "id": "mkt:019eecba-60fa-7dd8-b0aa-c85e5d8e34c6",
-      "time": "2026-06-22 08:28:17",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "HIMINO, Bank of Japan deputy governor, said the recent easing of Middle East tensions is not materially different from the BOJ's April outlook."
-    },
-    {
-      "id": "mkt:019eecba-2db3-7dd8-b0aa-c12857e84092",
-      "time": "2026-06-22 08:28:04",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "Market Regions",
-        "Japan & APAC",
-        "USDJPY",
-        "Impact bearish"
-      ],
-      "text": "Bank of Japan Deputy Governor HIMINO said oil-price pass-through to downstream goods has progressed relatively rapidly."
-    },
-    {
-      "id": "4946891",
-      "time": "2026-06-22 08:27:58",
-      "tags": [
-        "國際"
-      ],
-      "text": "日本經濟產業大臣赤澤亮正：希望霍爾木茲海峽能夠迅速恢復自由安全的航行。"
     }
   ]
 }
