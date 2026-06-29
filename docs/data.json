@@ -1,7 +1,75 @@
 {
-  "updated": "2026-06-29 09:19:30",
-  "count": 17901,
+  "updated": "2026-06-29 09:23:30",
+  "count": 17893,
   "items": [
+    {
+      "id": "4959407",
+      "time": "2026-06-29 09:22:30",
+      "tags": [
+        "公司"
+      ],
+      "text": "【圖靈獎得主Joseph Sifakis出任曹操出行首席科學顧問】6月29日，全球頂級AI科學家、圖靈獎得主約瑟夫·希發基思（Joseph Sifakis）正式受邀出任曹操出行AI創新中心首席科學顧問，為曹操出行向AI原生公司轉型提供核心學術支撐、國際化視野及戰略路徑規劃。"
+    },
+    {
+      "id": "mkt:019f10f8-7bcc-7aab-8c05-73311afcc35b",
+      "time": "2026-06-29 09:22:27",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "Hang Seng Index",
+        "Impact bullish",
+        "Hang Seng TECH Index",
+        "Hang Seng China Enterprises Index"
+      ],
+      "text": "Hong Kong stocks opened higher on Monday June 29: HSI up 155.79 points (+0.69%) at 22,827.65; Hang Seng TECH Index up 67.97 points (+1.60%) at 4,323.56; Hang Seng China Enterprises Index (HSCEI) up 76.96 points (+1.03%) at 7,537.80; Hang Seng Redchip Index up 18.37 points (+0.49%) at 3,767.46."
+    },
+    {
+      "id": "4959406",
+      "time": "2026-06-29 09:22:21",
+      "tags": [],
+      "text": "港股恒指高開漲0.69％，國企指數漲1.03％，科指開漲1.6%。"
+    },
+    {
+      "id": "mkt:019f10f8-1ecd-7aab-8c05-6c87149d5736",
+      "time": "2026-06-29 09:22:03",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Hang Seng Index",
+        "Impact bullish",
+        "Hang Seng Tech Index",
+        "02672.HK"
+      ],
+      "text": "Hong Kong open: Hang Seng Index +0.69%, Hang Seng Tech Index +1.6% at the open. New listing Baige Online (02672.HK) opened up 291.67% on its debut; its grey-market session closed up 272.44% on the prior trading day."
+    },
+    {
+      "id": "4959405",
+      "time": "2026-06-29 09:21:47",
+      "tags": [
+        "央行",
+        "焦點"
+      ],
+      "text": "中國央行：今日開展1575億元7天逆回購操作，投標量1575億元，中標量1575億元，操作利率為1.40%。同時，開展了3000億元隔夜逆回購操作。"
+    },
+    {
+      "id": "mkt:019f10f7-e068-7aab-8c05-6419a8b32f96",
+      "time": "2026-06-29 09:21:47",
+      "tags": [
+        "MKT News",
+        "Important",
+        "CNH"
+      ],
+      "text": "PBOC conducted CNY157.5 bln of 7-day reverse repos today, receiving CNY157.5 bln in bids and allotting CNY157.5 bln at a 1.40% rate. It also conducted CNY300.0 bln of overnight reverse repos."
+    },
+    {
+      "id": "4959402",
+      "time": "2026-06-29 09:19:16",
+      "tags": [
+        "公司"
+      ],
+      "text": "【鋅業股份：公司有銦產品 今年預計產量5—8噸左右】鋅業股份(000751)在互動平臺表示，公司有銦產品，銦作為公司鋅冶煉過程中的綜合回收產品，產量取決於原料礦的帶入量，今年預計產量5—8噸左右。"
+    },
     {
       "id": "4959400",
       "time": "2026-06-29 09:18:22",
@@ -163753,152 +163821,6 @@
         "Brent"
       ],
       "text": "WTI and Brent crude each fell more than 1% intraday, trading at $76.47/bbl and $79.32/bbl, respectively."
-    },
-    {
-      "id": "mkt:019eecec-c83b-7dd8-b0ac-76424086ac46",
-      "time": "2026-06-22 09:23:21",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Iran's foreign minister said Pakistan and Qatar's 'relentless' mediation has brought significant progress toward ending the war in Lebanon."
-    },
-    {
-      "id": "4947005",
-      "time": "2026-06-22 09:22:52",
-      "tags": [
-        "市場"
-      ],
-      "text": "布倫特原油日內跌1%，現報79.23美元/桶。"
-    },
-    {
-      "id": "mkt:019eecec-4828-7dd8-b0ac-6e05ae17b94f",
-      "time": "2026-06-22 09:22:48",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "【PBOC 7-day reverse repos net CNY 341.5bn withdrawal today】PBOC conducted CNY 476.5bn of 7-day reverse repos today; CNY 818.0bn of 7-day reverse repos matured, resulting in a net liquidity withdrawal of CNY 341.5bn."
-    },
-    {
-      "id": "4947004",
-      "time": "2026-06-22 09:21:49",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗外交部長：石油和石化產品出口禁令解除，封鎖解除，部分凍結資產解凍，伊朗重大重建與發展計劃啟動。"
-    },
-    {
-      "id": "4947003",
-      "time": "2026-06-22 09:21:40",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "央行公開市場今日淨回籠3,415.0億元人民幣。"
-    },
-    {
-      "id": "mkt:019eeceb-3032-7dd8-b0ac-63073e86b17e",
-      "time": "2026-06-22 09:21:36",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "HSI",
-        "Impact bearish",
-        "HSCEI"
-      ],
-      "text": "Hong Kong stocks opened lower on Monday June 22: Hang Seng Index (HSI) down 113.05 pts (-0.47%) at 23,811.76; Hang Seng Tech Index down 9.28 pts (-0.20%) at 4,595.07; Hang Seng China Enterprises Index (HSCEI) down 40.49 pts (-0.51%) at 7,935.55; Hang Seng Red Chip Index down 22.56 pts (-0.56%) at 3,987.03."
-    },
-    {
-      "id": "4947002",
-      "time": "2026-06-22 09:21:34",
-      "tags": [
-        "焦點"
-      ],
-      "text": "港股恒指低開跌0.47％，國企指數跌0.51％，科指開跌0.2%。"
-    },
-    {
-      "id": "mkt:019eeceb-0f72-7dd8-b0ac-5ef84bcbce1f",
-      "time": "2026-06-22 09:21:28",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Star Stocks",
-        "Alibaba",
-        "Market Regions",
-        "Greater China",
-        "Hang Seng Index",
-        "Impact bearish",
-        "00981.HK",
-        "Impact bullish",
-        "09988.HK"
-      ],
-      "text": "Hong Kong stocks opened lower: Hang Seng Index down 0.47%, Hang Seng TECH Index down 0.2%. Semiconductor Manufacturing International Corp (00981.HK) rose about 3%; Alibaba Group Holding Ltd (09988.HK) fell about 2%."
-    },
-    {
-      "id": "mkt:019eecea-e79e-7dd8-b0ac-535df1f79c5a",
-      "time": "2026-06-22 09:21:18",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Qatar issues joint statement on U.S.-Iran talks】Qatar's Foreign Ministry on the 22nd issued a joint statement on U.S.-Iran talks, saying the negotiations had made \"encouraging progress\" and established a mechanism to hold further technical talks."
-    },
-    {
-      "id": "4947001",
-      "time": "2026-06-22 09:21:07",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗外長：巴基斯坦和卡達的不懈調解為結束黎巴嫩戰爭取得重大進展。"
-    },
-    {
-      "id": "em:qqyh_zgyh:202606223777184564",
-      "time": "2026-06-22 09:20:53",
-      "tags": [
-        "央行",
-        "中國央行"
-      ],
-      "text": "【央行今日開展4765億元7天逆回購操作】央行今日開展4765億元7天逆回購操作，投標量4765億元，中標量4765億元，操作利率為1.40%，與此前持平。"
-    },
-    {
-      "id": "mkt:019eecea-4859-7dd8-b0ac-4d930b8c2155",
-      "time": "2026-06-22 09:20:37",
-      "tags": [
-        "MKT News",
-        "Important",
-        "CNH"
-      ],
-      "text": "PBOC conducted 476.5 bln yuan of 7-day reverse repos today; bid and allotment both 476.5 bln yuan. Operation rate 1.40%, unchanged."
-    },
-    {
-      "id": "4947000",
-      "time": "2026-06-22 09:20:30",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "央行今日開展4765億元7天逆回購操作，投標量4765億元，中標量4765億元，操作利率為1.40%，與此前持平。"
-    },
-    {
-      "id": "4946999",
-      "time": "2026-06-22 09:19:42",
-      "tags": [
-        "其他"
-      ],
-      "text": "【卡達與巴基斯坦聯合宣告：美伊首輪高階別會談結束，各方敲定60天路線圖】卡達和巴基斯坦釋出聯合宣告。宣告指出，在美伊諒解備忘錄框架下舉行的首輪高階別會談已在瑞士結束。在諒解備忘錄基礎上，各方同意設立一個高階別委員會，為調解工作提供政治監督。首席談判代表將定期向高階別委員會彙報。高階別委員會已就60天內達成最終協議的時間表達成一致，為立即啟動進一步技術性會談奠定了基礎。此外，各方同意在相關方與黎巴嫩共和國之間設立一個衝突消除協調小組，由調解方提供協助，以確保根據諒解備忘錄終止在黎巴嫩的軍事行動。本週剩餘時間內，技術性會談將在瑞士比爾根山度假村繼續就所有問題進行。"
-    },
-    {
-      "id": "mkt:019eece9-6433-7dd8-b0ac-41768ee843ac",
-      "time": "2026-06-22 09:19:38",
-      "tags": [
-        "MKT News",
-        "Important",
-        "WTI",
-        "Impact bearish",
-        "XAUUSD",
-        "DXY"
-      ],
-      "text": "【Qatar, Pakistan joint statement: first round of US-Iran senior talks ends; parties set 60-day roadmap】Qatar and Pakistan issued a joint statement saying the first round of US-Iran senior-level talks under a memorandum of understanding concluded in Switzerland. Parties agreed to form a high-level committee to provide political oversight of the mediation, with chief negotiators reporting regularly; the committee has agreed on a 60-day timeline to reach a final agreement and to allow immediate further technical talks. They also agreed to create a coordination group, with mediators' assistance, between the relevant parties and Lebanon to ensure cessation of military operations under the MoU; technical talks will continue this week at Switzerland's Bürgenstock resort on all outstanding issues."
     }
   ]
 }
