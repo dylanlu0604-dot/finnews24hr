@@ -1,7 +1,80 @@
 {
-  "updated": "2026-06-29 11:09:21",
-  "count": 17902,
+  "updated": "2026-06-29 11:13:15",
+  "count": 17903,
   "items": [
+    {
+      "id": "4959626",
+      "time": "2026-06-29 11:12:41",
+      "tags": [
+        "公司"
+      ],
+      "text": "【招商銀行：AI貢獻比已經提升到接近1:9】招商銀行最新披露的股東溝通實錄顯示，招商銀行資訊長周天虹表示，招行對大模型技術一直高度重視，從未動搖。公司在人工智慧領域耕耘了一段時間，也看到了一些效果。公司有一個重要的指標——AI貢獻比，也即AI處理業務的對應工時和人類員工實際投入工時之比。去年底，這一指標數值是1:13.5；今年5月底，已經提升到接近1:9，提升幅度不小。"
+    },
+    {
+      "id": "mkt:019f115b-734b-7aab-8c07-ded508ec17a1",
+      "time": "2026-06-29 11:10:33",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "01093.HK",
+        "Impact bullish",
+        "01801.HK",
+        "09888.HK"
+      ],
+      "text": "Hang Seng up more than 2% intraday, led by CSPC PHARMA (01093.HK), Innovent Biologics (01801.HK) and Baidu (09888.HK). Hang Seng Tech index extends gains, up about 3.5%."
+    },
+    {
+      "id": "mkt:019f115a-f97d-7aab-8c07-d2c4d3635f54",
+      "time": "2026-06-29 11:10:02",
+      "tags": [
+        "MKT News",
+        "Important",
+        "CSI300",
+        "Impact bullish",
+        "Hang Seng Index"
+      ],
+      "text": "FTSE China A50 index futures rose over 1% ahead of midday trade."
+    },
+    {
+      "id": "4959625",
+      "time": "2026-06-29 11:09:52",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "恒生指數漲超2%，現報23125.299點；恒生科技指數現漲3.466%。"
+    },
+    {
+      "id": "te:economy:562394",
+      "time": "2026-06-29 11:09:32",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "China",
+        "Reverse Repo Rate",
+        "Importance 1"
+      ],
+      "text": "PBoC Holds 7-Day Repo Rate, Launches Overnight Reverse Repos — The People's Bank of China (PBoC) injected CNY 157.5 billion through seven-day reverse repos on Monday, while keeping the borrowing cost unchanged at a record low of 1.4%, signaling its commitment to an accommodative monetary stance to support the economy. In a new move, the central bank also launched overnight reverse repo operations, offering CNY 300 billion to financial institutions to provide greater flexibility in managing short-term liquidity and smoothing funding conditions in the interbank market. However, the PBoC did not disclose the borrowing cost for the new overnight facility. The introduction of the tool comes as authorities seek to refine their liquidity management framework, ensuring ample cash in the banking system while maintaining stable money market rates."
+    },
+    {
+      "id": "4959624",
+      "time": "2026-06-29 11:09:08",
+      "tags": [
+        "公司"
+      ],
+      "text": "【美銀：上調美光目標價至1550美元，重申“買入”評級】美銀證券發表報告指，美光再次交出強勁季度業績，鞏固了該行對記憶體在人工智慧中角色的建設性看法，以及供應端日益增強的自律性支援更持久的週期。雖然戰略客戶協議(SCA)現已達16份，或適度限制短期定價上行空間，但它們透過與面臨不斷上升的記憶體稅(約佔AI資本開支35%)的客戶保持一致，顯著增強了可見性並降低了波動性。估值仍具吸引力，股份隱含約10%的自由現金流收益率，而該行預期在2026年12月《晶片法案》週年後，資本回報將顯著提升。該行重申美光“買入”評級，上調未來年度每股盈利預測4%至7%，並基於分類加總估值法(SOTP)，將目標價從1500美元上調至1550美元，對核心記憶體業務估值為賬面值的約3倍(此前為2.5倍)，資料中心/人工智慧業務為31倍市盈率(保持不變)。"
+    },
+    {
+      "id": "4959623",
+      "time": "2026-06-29 11:08:59",
+      "tags": [
+        "觀點",
+        "國際"
+      ],
+      "text": "【大摩：下調申洲國際目標價至50港元，下調2026至28年盈利預測】摩根士丹利發表研報指，申洲國際2026年上半年的訂單波動將影響其收入和利潤率，但今年以來股價跑輸大市，已充分反映了上述疲弱因素。不過，該行預期隨著中東衝突影響消退及客戶情緒改善，加上低基數效應，下半年出貨量及收入均將按年增長9%，淨利潤預期按年增長19%。因應宏觀不確定性，該行將2026至2028年的盈利預測分別下調3%、5%及8%，並將目標市盈率由14倍下調至12倍，目標價由58港元下調至50港元，重申“增持”評級，並認為該股目前提供超過6%的預期現金股息率，具備吸引力。"
+    },
     {
       "id": "4959622",
       "time": "2026-06-29 11:08:37",
@@ -163873,55 +163946,6 @@
         "其他"
       ],
       "text": "亞航宣佈開通多條新航線，包括釜山、巴林、倫敦、巴淡島及其他馬來西亞國內航線。"
-    },
-    {
-      "id": "4947204",
-      "time": "2026-06-22 11:12:55",
-      "tags": [
-        "兩會"
-      ],
-      "text": "【檢察公益訴訟案件範圍有望進一步拓寬：反電信網路詐騙等擬納入】檢察公益訴訟案件範圍有望進一步拓寬。6月22日，全國人大常委會法工委發言人黃海華在記者會上透露，檢察公益訴訟法草案二次審議稿擬明確將未成年人、婦女、老年人和殘疾人等特定群體權益保障，反電信網路詐騙，侵害眾多勞動者合法權益，違反法律規定處理個人資訊等民生領域案件納入檢察公益訴訟範疇。十四屆全國人大常委會第二十三次會議6月23日至26日在北京舉行，檢察公益訴訟法草案將提請繼續審議。 (澎湃新聞)"
-    },
-    {
-      "id": "4947203",
-      "time": "2026-06-22 11:11:54",
-      "tags": [
-        "其他"
-      ],
-      "text": "亞航：正在航線網路中逐步恢復航班頻次與運力，預計到2026年8月將恢復全部運力。"
-    },
-    {
-      "id": "4947202",
-      "time": "2026-06-22 11:10:53",
-      "tags": [
-        "其他"
-      ],
-      "text": "【“四屆老友”星巴克亮相2026鏈博會】6月22日，星巴克連續第四年亮相鏈博會。本屆展會星巴克以“在地創新，鏈創未來”為主題，並帶來創意新作星巴克玫瑰20系列。該系列甄選山東平陰的重瓣紅玫瑰，單杯萃取至少20朵玫瑰。在鮮花原產地，星巴克保護收購價格，與花農建立長期合作，每年採購超6億朵玫瑰，惠及超2400家花農。（國是直通車）"
-    },
-    {
-      "id": "4947201",
-      "time": "2026-06-22 11:10:01",
-      "tags": [
-        "公司"
-      ],
-      "text": "【半導體裝置板塊震盪回落 波長光電等多股跌超10%】半導體裝置板塊日內震盪回落，波長光電、福光股份、和林微納均跌超10%，強一股份、聯動科技、柏誠股份、芯碁微裝、微導奈米等跌超5%。"
-    },
-    {
-      "id": "4947200",
-      "time": "2026-06-22 11:09:51",
-      "tags": [
-        "其他"
-      ],
-      "text": "【成都端午假期消費近300億元】據悉，2026“端午”假期成都消費市場火熱，6月19日至21日端午期間，成都市線上線下合計實現消費金額294.8億元、同比增長2.9%。其中，商品消費152.2億元（佔比51.6%），同比增長1.2%；服務消費142.6億元（佔比48.4%），同比增長4.8%。成都市重點監測的11個商圈合計吸引客流約939.8萬人，同比增長7.1%，合計實現營收約15.1億元，同比增長4.9%。有9個商圈實現客流和營收雙增長，其中春熙路商圈吸引客流約597.0萬人次，實現營收約7.8億元，同比增長4.4%。"
-    },
-    {
-      "id": "4947199",
-      "time": "2026-06-22 11:09:28",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "印尼股指下跌1%至6116.97點。"
     }
   ]
 }
