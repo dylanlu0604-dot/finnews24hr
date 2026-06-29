@@ -1,7 +1,43 @@
 {
-  "updated": "2026-06-29 08:31:13",
-  "count": 17969,
+  "updated": "2026-06-29 08:35:11",
+  "count": 17963,
   "items": [
+    {
+      "id": "4959338",
+      "time": "2026-06-29 08:32:27",
+      "tags": [
+        "公司"
+      ],
+      "text": "蘋果公司修復了地圖搜尋、路線規劃和導航功能故障。"
+    },
+    {
+      "id": "mkt:019f10c9-ae9a-7aab-8c04-de68b82495ba",
+      "time": "2026-06-29 08:31:20",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "Nikkei 225",
+        "Impact bearish"
+      ],
+      "text": "Japan's Nikkei 225 fell as much as 1.00% intraday."
+    },
+    {
+      "id": "4959337",
+      "time": "2026-06-29 08:31:00",
+      "tags": [
+        "其他"
+      ],
+      "text": "CFETS：6月26日人民幣匯率指數按周漲0.8至102.57。"
+    },
+    {
+      "id": "4959336",
+      "time": "2026-06-29 08:30:44",
+      "tags": [
+        "國際"
+      ],
+      "text": "韓國交易所啟動SIDECAR機制，暫停KOSDAQ程式化買盤。"
+    },
     {
       "id": "mkt:019f10c9-1cf7-7aab-8c04-d72b8a991718",
       "time": "2026-06-29 08:30:43",
@@ -164428,96 +164464,6 @@
         "國際"
       ],
       "text": "日本首相高市早苗：一直在努力不斷提高工資。"
-    },
-    {
-      "id": "4946906",
-      "time": "2026-06-22 08:35:06",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "日本日經指數升至歷史新高，日內漲1%。"
-    },
-    {
-      "id": "4946905",
-      "time": "2026-06-22 08:34:59",
-      "tags": [
-        "觀點"
-      ],
-      "text": "花旗：泡泡瑪特新推出的Labubu玩具不太可能成為短期催化劑。"
-    },
-    {
-      "id": "4946904",
-      "time": "2026-06-22 08:33:35",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【LG高管將訪問英偉達總部 討論物理人工智慧】據《亞洲商業日報》報道，LG電子、LG CNS、LG Innotek及其他LG集團下屬企業高管將於週一訪問英偉達總部，討論在物理人工智慧和機器人領域的合作事宜，報道未提及訊息來源。 此次訪問是在本月早些時候LG集團董事長具光謨與英偉達執行長黃仁勳在首爾會晤之後進行的。 週一，LG電子股價在首爾上漲12%；LG CNS上漲12%；LG公司上漲4.7%。"
-    },
-    {
-      "id": "mkt:019eecbe-2513-7dd8-b0aa-eb014ffd7d84",
-      "time": "2026-06-22 08:32:24",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "TAKAICHI expects the BANK OF JAPAN to coordinate closely with the government and implement appropriate monetary policy to achieve a 2% inf target."
-    },
-    {
-      "id": "4946901",
-      "time": "2026-06-22 08:32:10",
-      "tags": [
-        "其他"
-      ],
-      "text": "市場訊息：LG高管將訪問英偉達總部，討論物理人工智慧。"
-    },
-    {
-      "id": "mkt:019eecbd-d16c-7dd8-b0aa-e220b4491e69",
-      "time": "2026-06-22 08:32:03",
-      "tags": [
-        "MKT News",
-        "USDJPY",
-        "Impact bullish"
-      ],
-      "text": "Bank of Japan Deputy Governor HIMINO expects the accommodative policy environment to persist."
-    },
-    {
-      "id": "mkt:019eecbd-b585-7dd8-b0aa-da366cf0fd0a",
-      "time": "2026-06-22 08:31:56",
-      "tags": [
-        "MKT News",
-        "USDJPY",
-        "Impact bullish",
-        "DXY"
-      ],
-      "text": "Bank of Japan Deputy Governor HIMINO said if necessary adjustments to monetary easing are delayed, the risk of price overshoot could emerge."
-    },
-    {
-      "id": "4946900",
-      "time": "2026-06-22 08:31:54",
-      "tags": [
-        "其他"
-      ],
-      "text": "CFETS：6月18日人民幣匯率指數按周漲0.28至101.77。"
-    },
-    {
-      "id": "4946899",
-      "time": "2026-06-22 08:31:39",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "日本首相高市早苗：期望日本央行與政府密切協調，適當實施貨幣政策以實現2%的通脹目標。"
-    },
-    {
-      "id": "mkt:019eecbd-5793-7dd8-b0aa-d3200599c677",
-      "time": "2026-06-22 08:31:32",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC"
-      ],
-      "text": "Bank of Japan Deputy Governor HIMINO said the BOJ will closely monitor the impact of policy-rate increases on firms and households."
     }
   ]
 }
