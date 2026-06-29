@@ -1,7 +1,83 @@
 {
-  "updated": "2026-06-29 08:51:08",
-  "count": 17949,
+  "updated": "2026-06-29 08:55:04",
+  "count": 17945,
   "items": [
+    {
+      "id": "4959359",
+      "time": "2026-06-29 08:54:04",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "10年期日本國債收益率上漲5.0個基點，至2.645%。"
+    },
+    {
+      "id": "4959358",
+      "time": "2026-06-29 08:53:52",
+      "tags": [
+        "公司",
+        "資料",
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "【調查顯示韓國通脹率可能連續第二個月突破3%】韓國整體通脹率可能連續第二個月突破3%，高於央行2%的目標，這增強了該行收緊政策的理由。媒體調查的七位經濟學家的預測中位數顯示，6月份基準消費者價格指數(CPI)同比料上升3.2%，高於5月份3.1%的升幅。調查顯示，按環比計算，該指數6月份可能上升0.1%，而前一個月的升幅為0.5%。星展集團的馬鐵英表示，原材料成本的累計上漲和韓元走弱繼續傳導至該國經濟。該經濟學家預計韓國央行將在7月份加息一次，並在第四季度再次加息。通脹資料將於週四公佈。"
+    },
+    {
+      "id": "mkt:019f10dd-0807-7aab-8c05-0e9c38275d48",
+      "time": "2026-06-29 08:52:28",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Apple",
+        "Market Themes",
+        "Chip Wars",
+        "Magnificent 7",
+        "688012.SS",
+        "Impact bullish"
+      ],
+      "text": "【Citigroup: Apple interest elevates ChangXin Memory toward credible No.4 DRAM maker】Citigroup says Apple’s reported interest in ChangXin Memory could shift the firm from a China-focused substitute story to a credible global fourth-largest DRAM manufacturer, and expects the news to be positive for ChangXin and its supply chain, including equipment vendors and OSATs."
+    },
+    {
+      "id": "4959357",
+      "time": "2026-06-29 08:52:07",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "【Momenta Global擬透過香港IPO募資58.9億港元】根據提交給香港交易所的檔案，Momenta Global在香港IPO中擬全球發行約1990萬股，每股發行價為295.60港元。據估算，該公司預計將募資58.9億港元（7.51億美元）。基石投資者包括新加坡政府投資公司（GIC，認購1億美元）、富達國際（Fidelity International，1億美元）、貝萊德（BlackRock，2500萬美元）和梅賽德斯-賓士股份公司（Mercedes-Benz AG，2500萬美元）。公司股票預計將於7月8日開始交易。中金公司與德意志銀行擔任此次發行的聯席保薦人。"
+    },
+    {
+      "id": "mkt:019f10dc-872b-7aab-8c05-075aef008e21",
+      "time": "2026-06-29 08:51:55",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "USDJPY",
+        "Impact bearish",
+        "DXY",
+        "Nikkei 225"
+      ],
+      "text": "Japan 30-year government bond yield rose 5 bps to 3.845%."
+    },
+    {
+      "id": "4959356",
+      "time": "2026-06-29 08:51:28",
+      "tags": [
+        "其他"
+      ],
+      "text": "【四川抗震指揮部派工作組趕赴宜賓 目前正進行第二輪排查】6月29日0時12分，在四川宜賓市高縣發生5.5級地震，震源深度6公里。地震發生後，四川省抗震指揮部派出工作組趕赴現場指導開展救援處置工作。記者從宜賓市抗震救災指揮部獲悉，截至6月29日6時，經第一輪排查，因災受傷13人，均為輕傷（除1人骨折仍在醫院治療外，其餘人員已離院返家），緊急避險轉移和安置225人。當地政府正組織屬地力量進行第二輪排查。地震發生後，宜賓市抗震救災指揮部啟動地震三級應急響應。市級相關部門、縣（區）開展災情排查和救災工作。（央視）"
+    },
+    {
+      "id": "4959355",
+      "time": "2026-06-29 08:50:42",
+      "tags": [
+        "宏觀",
+        "市場",
+        "觀點"
+      ],
+      "text": "中金研報稱，傾向於認為7月政治局會議後或有望開啟貨幣政策進一步放鬆的視窗，若寬鬆落地，債券市場可能迎來一波較快的踏空回補行情，利率下行或會相應提速。建議投資者關注包括30年期國債等長久期資產的配置機會，提前佈局可能是應對潛在踏空風險的較好選擇。"
+    },
     {
       "id": "4959354",
       "time": "2026-06-29 08:50:00",
@@ -164227,103 +164303,6 @@
         "國際"
       ],
       "text": "【韓國綜指漲幅擴大至1%】韓國綜指漲幅擴大至1%，現報9143.63點。"
-    },
-    {
-      "id": "4946936",
-      "time": "2026-06-22 08:54:27",
-      "tags": [
-        "國際"
-      ],
-      "text": "【伊朗外交部：伊美談判就解凍伊朗資產等取得良好進展】據伊朗媒體22日報道，伊朗外交部發言人巴加埃說，伊朗和美國討論了石油銷售許可證和解凍伊朗資產等問題，並取得了良好進展。（新華社）"
-    },
-    {
-      "id": "4946935",
-      "time": "2026-06-22 08:54:18",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "三星電子股價收復早前失地，上漲0.1%。"
-    },
-    {
-      "id": "mkt:019eecd2-1c17-7dd8-b0ab-5a541f7ee8e6",
-      "time": "2026-06-22 08:54:13",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "Iran's Foreign Ministry spokesman said officials have discussed preparatory work to launch negotiations on a final agreement."
-    },
-    {
-      "id": "4946934",
-      "time": "2026-06-22 08:53:25",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗外交部發言人：已就啟動最終協議談判的籌備工作展開討論。"
-    },
-    {
-      "id": "mkt:019eecd1-4128-7dd8-b0ab-50b731e5aa30",
-      "time": "2026-06-22 08:53:17",
-      "tags": [
-        "MKT News",
-        "Important",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "Iran's foreign ministry spokesman said an agreement had been reached on arrangements for a mechanism to ensure the safe passage of vessels through the Strait of Hormuz."
-    },
-    {
-      "id": "mkt:019eecd0-720a-7dd8-b0ab-4df12fd9a3cc",
-      "time": "2026-06-22 08:52:24",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Iran's Foreign Ministry spokesman said the document will be formally submitted as the outcome of the 18-hour negotiations."
-    },
-    {
-      "id": "4946933",
-      "time": "2026-06-22 08:52:08",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗外交部發言人：關於船隻安全透過霍爾木茲海峽的問題，雙方同意建立一項機制。"
-    },
-    {
-      "id": "4946932",
-      "time": "2026-06-22 08:51:55",
-      "tags": [
-        "國際"
-      ],
-      "text": "【美外交官稱美伊預計將“通宵”談判 】一名參與談判的美國高階外交官22日對隨團美國媒體說，美國與伊朗在瑞士比爾根山的談判仍繼續進行，美國代表團預計將“通宵”工作。該外交官表示，伊朗談判代表仍在現場，美國副總統萬斯等美方談判代表一直在與伊方進行會晤和談判。美伊談判內容包括“澄清伊朗方面關於霍爾木茲海峽的一些令人困惑的資訊，並建立衝突消除機制，以確保海峽保持完全開放”，“我們還討論了黎巴嫩南部的衝突消除機制以及執行停火協議的問題”。該外交官還說，雙方已就核協議的所有要素進行了充分討論，並計劃將當天的工作作為未來持續技術會談的起點。（新華社）"
-    },
-    {
-      "id": "4946931",
-      "time": "2026-06-22 08:51:26",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "5年期日本國債收益率上漲2.0個基點，至1.910%。"
-    },
-    {
-      "id": "mkt:019eeccf-5ae5-7dd8-b0ab-43e8d43b1e54",
-      "time": "2026-06-22 08:51:12",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Iran's foreign ministry spokesperson said mediators from Qatar and Pakistan will issue a text outlining general points."
-    },
-    {
-      "id": "4946930",
-      "time": "2026-06-22 08:51:10",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗外交部發言人：這份檔案將作為18小時會談期間達成的協議檔案被提交。"
     }
   ]
 }
