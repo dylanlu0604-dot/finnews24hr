@@ -1,7 +1,89 @@
 {
-  "updated": "2026-06-29 13:35:14",
-  "count": 17918,
+  "updated": "2026-06-29 13:39:20",
+  "count": 17921,
   "items": [
+    {
+      "id": "4959800",
+      "time": "2026-06-29 13:37:32",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金失守4040美元/盎司，日內跌1.02%。"
+    },
+    {
+      "id": "4959799",
+      "time": "2026-06-29 13:37:22",
+      "tags": [
+        "市場"
+      ],
+      "text": "現貨黃金日內跌1%，現報4040.18美元/盎司。"
+    },
+    {
+      "id": "mkt:019f11e1-9b9b-7aab-8c09-ca864976c057",
+      "time": "2026-06-29 13:37:05",
+      "tags": [
+        "MKT News",
+        "CSI300",
+        "Impact bullish",
+        "SSE Composite"
+      ],
+      "text": "A-share petrochemical sector rallied in afternoon trading; Haohua Technology and Hengli Petrochemical climbed over 3%, while Sanlian Hongpu and Aoyang Health also advanced."
+    },
+    {
+      "id": "mkt:019f11e1-1f6f-7aab-8c09-c1263f77345d",
+      "time": "2026-06-29 13:36:33",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars"
+      ],
+      "text": "South Korean government plans to accelerate approvals and construction in the southwest to rapidly expand memory-chip capacity. The central region will focus on advanced packaging, while the southeast will be developed as a hub for semiconductor materials, components, equipment and next-generation power chips."
+    },
+    {
+      "id": "mkt:019f11e0-3cb5-7aab-8c09-bcd3e576367e",
+      "time": "2026-06-29 13:35:35",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "Copper",
+        "Impact bullish"
+      ],
+      "text": "South Korea's government expects to invest about 550 trillion won in construction of artificial intelligence data centers."
+    },
+    {
+      "id": "4959798",
+      "time": "2026-06-29 13:35:29",
+      "tags": [
+        "市場"
+      ],
+      "text": "截止13:35，兩市101只個股漲停。"
+    },
+    {
+      "id": "4959797",
+      "time": "2026-06-29 13:35:21",
+      "tags": [
+        "國際"
+      ],
+      "text": "韓國政府：預計建設人工智慧資料中心的投資規模約為5500萬億韓元。"
+    },
+    {
+      "id": "4959796",
+      "time": "2026-06-29 13:35:13",
+      "tags": [
+        "其他"
+      ],
+      "text": "臺灣證交所加權股價指數收高1%報44,999.90。"
+    },
+    {
+      "id": "4959795",
+      "time": "2026-06-29 13:35:06",
+      "tags": [
+        "國際"
+      ],
+      "text": "【歐洲高溫相關超額死亡逾1300例】世界衛生組織6月28日介紹說，自6月21日以來，歐洲已記錄超過1300例與高溫相關的超額死亡。所謂超額死亡數是指特定時期和地點內實際死亡總數，高於正常預期死亡人數的差值。世衛組織鼓勵歐洲國家實施高溫健康行動計劃，以保護民眾健康。（CCTV國際時訊）"
+    },
     {
       "id": "4959794",
       "time": "2026-06-29 13:33:38",
@@ -164089,55 +164171,6 @@
         "公司"
       ],
       "text": "【AI影片生成公司Sand.ai三個月連續完成兩輪融資】近日，Sand.ai宣佈完成新一輪融資，3個月內兩輪融資金額合計超1億美元。宿華、Lollapalooza Capital、九坤創投、經緯創投、和玉資本、創新工場、襄禾資本、原始碼資本、中科創星、洪泰基金、今日資本、華業天成、雲暉基金、IDG、百度風投等一線機構聯合投資。據悉，Sand.ai將於今年三季度開源新一代影片生成模型。該模型採用MoE架構，兼顧高效推理與目前開源領域最大的引數規模。Sand.ai創始人、CEO曹越表示，有信心做到頭部水準，並且要把它開源給所有人。"
-    },
-    {
-      "id": "4947366",
-      "time": "2026-06-22 13:39:02",
-      "tags": [
-        "市場"
-      ],
-      "text": "【Omdia：第一季度中國大陸PC和平板電腦市場分別同比下降2%和5%】Omdia最新資料顯示，2026年第一季度，中國大陸PC和平板電腦市場分別同比下降2%和5%。其中，PC總出貨量降至890萬臺，平板電腦出貨量降至830萬臺。從產品類別來看，膝上型電腦（包括移動工作站）出貨量同比下降19%，而臺式電腦（包括臺式工作站）出貨量則同比增長41%，分別達到530萬臺和360萬臺。市場表現疲軟主要受到零部件成本上漲推動裝置價格上升的影響，同時消費者補貼力度減弱也進一步抑制了市場需求。"
-    },
-    {
-      "id": "4947365",
-      "time": "2026-06-22 13:39:00",
-      "tags": [
-        "公司"
-      ],
-      "text": "【上海國資新設遠航成長壹號私募投資基金 出資額30億元】企查查APP顯示，近日，上海臨港新片區遠航成長壹號私募投資基金合夥企業（有限合夥）成立，出資額30億元，經營範圍包含：以私募基金從事股權投資、投資管理、資產管理等活動。企查查股權穿透顯示，該企業由上海臨港新片區投資控股（集團）有限公司等共同出資。"
-    },
-    {
-      "id": "4947364",
-      "time": "2026-06-22 13:38:22",
-      "tags": [
-        "公司"
-      ],
-      "text": "【正規化智慧成立新公司 含積體電路晶片及產品銷售業務】企查查APP顯示，近日，正規化矩陣（北京）控股有限公司成立，法定代表人為湯宗貴，註冊資本為1000萬元，經營範圍包含：人工智慧應用軟體開發；人工智慧基礎軟體開發；積體電路晶片及產品銷售；物聯網技術服務等。企查查股權穿透顯示，該公司由正規化智慧（06682.HK）全資持股。"
-    },
-    {
-      "id": "4947363",
-      "time": "2026-06-22 13:38:10",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "韓國交易所CEO：所謂的“韓國折扣”問題已基本解決。"
-    },
-    {
-      "id": "mkt:019eedd4-edf0-7dd8-b0b0-e6f0263a05ff",
-      "time": "2026-06-22 13:36:55",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "China A-share retail sector slipped; Jinhe Commercial Management hit its daily down limit, with Ningbo Zhongbai, Zhejiang Dongri, Huazhi Wine and Gongxiao Daji also trading lower."
-    },
-    {
-      "id": "4947362",
-      "time": "2026-06-22 13:36:07",
-      "tags": [
-        "市場"
-      ],
-      "text": "【零售板塊區域性走低，錦和商管跌停】零售板塊區域性走低，錦和商管跌停，寧波中百、浙江東日、華致酒行、供銷大集跟跌。"
     }
   ]
 }
