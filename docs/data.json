@@ -1,7 +1,185 @@
 {
-  "updated": "2026-06-29 17:09:27",
-  "count": 17869,
+  "updated": "2026-06-29 17:13:32",
+  "count": 17878,
   "items": [
+    {
+      "id": "mkt:019f12a7-0e8c-7aab-8c0f-ea780f4794f5",
+      "time": "2026-06-29 17:12:45",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Fed chair Kevin Warsh to disclose details of special working groups in coming weeks】The New York Times reports Fed chair Kevin Warsh will disclose further details in the coming weeks on special working groups charged with reviewing Fed strategy, policy and operations. In a June 2 letter he promised an \"open, clear-eyed discussion\" and said the groups will target five market-relevant areas: the Fed's communications; its $6.7 trillion Treasury and mortgage-backed securities portfolio; which data the Fed prioritizes; productivity trends and labor-market conditions; and the models and metrics used to assess inflation. Warsh aims to complete the reviews by year-end so policymakers can consider what reforms, if any, to implement. Each group will be led by external appointees selected by Warsh and supported by designated Fed staff."
+    },
+    {
+      "id": "mkt:019f12a6-baeb-7aab-8c0f-e6019a64bc19",
+      "time": "2026-06-29 17:12:24",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Tencent",
+        "00700.HK",
+        "Impact bullish"
+      ],
+      "text": "HKEX filing shows Tencent Holdings (00700.HK) repurchased 1.2 mln shares on June 29 for HKD 500.9 mln."
+    },
+    {
+      "id": "4960282",
+      "time": "2026-06-29 17:12:01",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本首相候選人高市早苗：已成立委員會審查外資。"
+    },
+    {
+      "id": "te:economy:562531",
+      "time": "2026-06-29 17:12:00",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Euro Area",
+        "Economic Optimism Index",
+        "Importance 2"
+      ],
+      "text": "Eurozone Economic Sentiment Improves for Second Month — The Eurozone Economic Sentiment Indicator rose for a second consecutive month to 95.0 in June 2026, moving further from April’s five-year low and surpassing market expectations of 94.3, as businesses and consumers continued to evaluate the economic impact of the Iran war amid ongoing US-Iran peace negotiations. Sectoral confidence showed mixed trends: service providers (3.2 vs. 2.6 in May), retailers (-9.7 vs. -10.9), consumers (-17.7 vs. -19.0), and manufacturers (-7.7 vs. -7.9) saw slight improvements, while confidence among constructors worsened (-4.5 vs. -3.9). On inflation, consumer expectations fell to 34.0 from 40.4, and manufacturers’ selling price expectations eased to 22.3 from 26.7. Among major Eurozone economies, the ESI increased significantly in the Netherlands (+4.1), Germany (+1.7), and Italy (+1.3), while Spain saw a modest rise (+0.7). France’s ESI remained broadly stable (-0.2)."
+    },
+    {
+      "id": "4960281",
+      "time": "2026-06-29 17:11:49",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【先進製程高純CO₂供應拉響警報，三星與SK海力士庫存跌破安全線】據報道，受煉油廠及石化廠開工率降低影響，半導體先進製程所需的高純度二氧化碳（CO₂）供應趨緊，產業已拉響短缺警報。目前，行業整體庫存已跌破常規的一個月安全水平（製造商與供應商通常各維持兩週庫存）。資料顯示，三星電子每月高純CO₂消耗量約1800至2000噸，SK海力士則需600至700噸。儘管目前兩大巨頭尚未出現生產中斷，但隨著庫存持續萎縮，企業正全力加緊採購。然而，即便提高採購單價，短期內也難以獲取額外供貨量。工業氣體行業人士坦言：“由於原材料短缺，我們無法滿足按需供應。從實際操作層面來看，短期內根本沒有辦法提高產量。”液化二氧化碳（CO2）價格較年初已上漲約20%。業界普遍認為，這種供需緊張的局面很可能會一直持續到年底。"
+    },
+    {
+      "id": "mkt:019f12a6-219f-7aab-8c0f-dcdb7ca9ddf9",
+      "time": "2026-06-29 17:11:45",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "USDJPY",
+        "Impact bearish",
+        "Nikkei 225"
+      ],
+      "text": "Japan's Prime Minister Takaichi said a committee has been established to review foreign investment."
+    },
+    {
+      "id": "te:economy:562530",
+      "time": "2026-06-29 17:11:42",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Portugal",
+        "Consumer Confidence",
+        "Importance 1"
+      ],
+      "text": "Portugal Consumer Confidence Improves — Portugal's consumer confidence index rose to -25.9 in June 2026 from -27.1 in May, marking the first improvement in sentiment since December 2025. Over the past year, consumer sentiment weakened, with households' financial outlook deteriorating to -16.2 from -15.5 and perceptions of the country's economic situation declining to -55.1 from -50.7. Current price concerns increased to 67.0 from 63.2, while assessments of households' financial situation eased to 15 from 16. Looking ahead, confidence improved, with expectations for the country's economic situation rising to -45.6 from -48.5, households' financial outlook improving to -13.0 from -14.0, and price concerns falling to 59.1 from 66.4."
+    },
+    {
+      "id": "4960280",
+      "time": "2026-06-29 17:11:40",
+      "tags": [
+        "公司"
+      ],
+      "text": "騰訊於6月29日回購了價值5.01億港元的股份。"
+    },
+    {
+      "id": "4960279",
+      "time": "2026-06-29 17:11:29",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本首相高市：將加強審查外國投資的能力。"
+    },
+    {
+      "id": "mkt:019f12a5-d26a-7aab-8c0f-d2c1a777ad1d",
+      "time": "2026-06-29 17:11:24",
+      "tags": [
+        "MKT News",
+        "USDJPY",
+        "Impact mixed",
+        "Nikkei 225",
+        "Impact bearish"
+      ],
+      "text": "Japanese Prime Minister Takaichi says she will strengthen screening capacity for foreign investment."
+    },
+    {
+      "id": "4960278",
+      "time": "2026-06-29 17:10:45",
+      "tags": [
+        "公司"
+      ],
+      "text": "【日科化學：正在籌劃發行股份及支付現金購買資產並募集配套資金事項】日科化學公告，公司正在籌劃發行股份及支付現金購買資產並募集配套資金事項，公司證券自2026年6月29日開市時起開始停牌。公司預計在不超過10個交易日內披露本次交易方案，即在2026年7月13日前披露相關資訊。若公司未能在上述期限內召開董事會審議並披露交易方案，公司證券最晚將於2026年7月13日開市起復牌並終止籌劃相關事項。"
+    },
+    {
+      "id": "te:economy:562528",
+      "time": "2026-06-29 17:10:38",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Euro Area",
+        "Consumer Confidence",
+        "Importance 1"
+      ],
+      "text": "Eurozone Consumer Confidence Up for 2nd Month — Euro Area consumer confidence was confirmed at -17.7 in June 2026, up from -19 in May, marking the second consecutive month of improvement. In the broader European Union, consumer sentiment also increased to -17 from -18.2 the month before, as consumers grew less pessimistic about the economy and their future financial situation. They also reported a modest improvement in their assessment of their past financial situation and showed a slightly stronger willingness to make major purchases."
+    },
+    {
+      "id": "4960277",
+      "time": "2026-06-29 17:10:30",
+      "tags": [
+        "公司"
+      ],
+      "text": "【精達股份：持股5%以上股東華安保險減持0.23%股份】精達股份公告稱，公司於2026年6月29日收到持股5%以上股東華安保險的告知函，獲悉其當日透過集中競價方式減持公司股份500萬股，佔公司總股本0.23%。華安保險持股比例由9.05%降至8.82%。本次權益變動為實施前期減持計劃，不觸及要約收購，不會導致公司控股股東、實控人變化，也未違反相關規定及承諾。截至公告披露日，華安保險仍處於減持計劃實施期。"
+    },
+    {
+      "id": "4960276",
+      "time": "2026-06-29 17:10:23",
+      "tags": [
+        "公司"
+      ],
+      "text": "【上海超矽科創板IPO稽核狀態變更為'已問詢'】上海超矽半導體股份有限公司科創板IPO稽核狀態變更為'已問詢'，保薦機構為長江保薦。"
+    },
+    {
+      "id": "4960275",
+      "time": "2026-06-29 17:10:07",
+      "tags": [
+        "其他"
+      ],
+      "text": "【今年小浪底調水調沙下洩流量達歷年之最 水庫預計排沙將超1億噸】2026年主汛期前黃河調水調沙正式拉開序幕。水利部小浪底水利樞紐管理中心水量排程處排程專員趙珂介紹說：“今年下洩最大流量將按照控制花園口站4800立方米/秒左右運用，並計劃持續5天左右，是歷年調水調沙下洩流量之最。”"
+    },
+    {
+      "id": "mkt:019f12a4-018c-7aab-8c0f-c8d54364bbb8",
+      "time": "2026-06-29 17:09:25",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "RIA quoted the RUSSIAN DEFENCE MINISTRY as saying Russian forces have taken control of Bohodariivka in eastern Ukraine."
+    },
+    {
+      "id": "mkt:019f12a4-0013-7aab-8c0f-c102e525f6e4",
+      "time": "2026-06-29 17:09:25",
+      "tags": [
+        "MKT News",
+        "QTEC"
+      ],
+      "text": "Invesco Nasdaq Technology ETF will be suspended from market open on June 29, 2026; trading is scheduled to resume at 10:30 on June 29, 2026. Redemption services will remain available during the suspension."
+    },
+    {
+      "id": "4960274",
+      "time": "2026-06-29 17:09:08",
+      "tags": [
+        "其他"
+      ],
+      "text": "【輕舟試驗飛船第二批在軌試驗成果釋出】從中國科學院獲悉，由中國科學院微小衛星創新研究院抓總研製的輕舟試驗飛船（白象號）對外公佈第二批在軌試驗成果。這艘飛船今年3月30日成功升空，4月15日已對外發布首批試驗資料，本次公佈的新技術覆蓋太空精密檢測、太空醫療、太空生物培育、航天降本增效四大方向，將為我國空間站運維、空間技術民用、地外探索打下堅實技術基礎。（新華社）"
+    },
+    {
+      "id": "4960273",
+      "time": "2026-06-29 17:08:57",
+      "tags": [
+        "市場"
+      ],
+      "text": "【上期所攜手中基協舉辦基金和衍生品業務培訓班】近日，由上海期貨交易所（下稱上期所）、中國證券投資基金業協會（下稱中基協）聯合主辦，北京期貨商會承辦的“上期大學堂——從業人員強化班·機構投資者培訓（基金）專班”在北京舉辦，來自100家基金機構投研、風控及交易等部門的130餘人參加，共同探討基金參與衍生品市場的能力建設與業務合規等話題。中基協相關負責人表示，期貨和衍生品市場是現代金融體系的重要組成部分，透過發揮價格發現、風險管理和資源配置等功能，為資產管理行業高質量發展提供重要支撐。國家“十五五”規劃明確提出“穩步發展期貨、衍生品和資產證券化”，進一步明確了行業發展方向。（上期所）"
+    },
     {
       "id": "mkt:019f12a3-755f-7aab-8c0f-bba3c7cccfee",
       "time": "2026-06-29 17:08:49",
@@ -65,6 +243,14 @@
         "其他"
       ],
       "text": "市場訊息：沃什將於未來數週公佈特別工作組更多細節。"
+    },
+    {
+      "id": "4960267",
+      "time": "2026-06-29 17:07:03",
+      "tags": [
+        "其他"
+      ],
+      "text": "【安徽省淮南市人大常委會副主任程俊華接受審查調查】中央紀委國家監委網站6月29日通報，據安徽省紀委監委訊息：安徽省淮南市人大常委會副主任程俊華涉嫌嚴重違紀違法，目前正接受安徽省紀委監委紀律審查和監察調查。"
     },
     {
       "id": "4960266",
@@ -163622,103 +163808,6 @@
         "市場"
       ],
       "text": "【機構：首相辭職後，受財政不確定性影響，英鎊可能進一步下跌】Monex Europe分析師在一份報告中表示，在首相基爾·斯塔默辭職後，由於財政政策存在不確定性，英鎊面臨進一步下跌的可能。安迪·伯納姆在上週的特別選舉中獲勝後，成為接替斯塔默的最熱門人選。這些分析師表示：“換人並不能解決英國的財政挑戰，而且我們尚未從伯納姆那裡聽到任何能讓我們相信他有比現政府更可靠計劃的言論。“儘管如此，英鎊的近期命運取決於誰將出任財政大臣。他們表示，前衛生大臣Wes Streeting是一個可能的人選，這可能會讓市場鬆一口氣。英鎊下跌0.2%，至1.3204美元。歐元上漲0.1%，至0.8669英鎊。"
-    },
-    {
-      "id": "4947889",
-      "time": "2026-06-22 17:13:06",
-      "tags": [
-        "公司"
-      ],
-      "text": "【瑞可達：控股股東減持“瑞可轉債”12.31%】瑞可達公告稱，公司向不特定物件發行10億元可轉換公司債券，於2025年12月12日起上市交易。公司控股股東、實際控制人吳世均及其一致行動人合計配售“瑞可轉債”322.16萬張，佔發行總量的32.22%。2026年6月10日至6月22日，吳世均以大宗交易方式減持“瑞可轉債”123.13萬張，佔發行總量的12.31%。變動後，吳世均及其一致行動人合計持有199.03萬張，佔發行總量的19.90%。"
-    },
-    {
-      "id": "te:markets:560750",
-      "time": "2026-06-22 17:13:03",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United Kingdom",
-        "Currency",
-        "Importance 3"
-      ],
-      "text": "Pound Nears YTD Low as PM Starmer Resigns — The British pound weakened to $1.32 on Monday, approaching its lowest level this year after Prime Minister Keir Starmer resigned. Starmer's departure preludes a Labour Party successor by the start of September, with long-time Manchester mayor Andy Burnham seen as favorite to take the leadership role after winning the by-election last week. Burnham is seen as a fiscal dove and called for higher government expenditure, thus pressuring the sterling and lifting gilts across the curve, driving foreign investors to pivot out of pound-denominated assets as yields were already at their highest among G7 members. On the monetary policy front, the Bank of England left interest rates unchanged at 3.75% this month and maintained a cautious stance. The central bank also revised down its forecast for peak inflation in the fourth quarter of 2026 to 3.25%, from a previous estimate of 3.6%."
-    },
-    {
-      "id": "4947888",
-      "time": "2026-06-22 17:12:45",
-      "tags": [
-        "其他"
-      ],
-      "text": "英國極右翼政黨改革黨領袖法拉奇稱英國改革黨已 “做好大選備戰準備”  。"
-    },
-    {
-      "id": "4947887",
-      "time": "2026-06-22 17:11:33",
-      "tags": [
-        "公司"
-      ],
-      "text": "渣打銀行於6月19日在其他交易所回購總計726,855股股份，斥資1490萬英鎊，內容出自港交所檔案披露。"
-    },
-    {
-      "id": "te:markets:560749",
-      "time": "2026-06-22 17:11:27",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United Kingdom",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "FTSE 100 Falls for 3rd Session as Political Uncertainty Grows — The FTSE 100 edged lower on Monday, heading toward a third consecutive session of declines as markets assessed the impact of UK Prime Minister Keir Starmer’s resignation. Starmer will remain in office until a successor is chosen, pledging to ensure an orderly transition, with a new leader expected by September. The move has increased focus on Andy Burnham’s potential leadership bid and the policies he may pursue if he replaces Starmer, while other candidates could compete during the summer. Homebuilders came under pressure, partly due to concerns over possible changes in housing policy, as Burnham has previously argued for greater government involvement in the sector. Barratt Redrow, Taylor Wimpey and Persimmon shares all fell around 2%. Among major index stocks, Unilever declined 0.9%, Rolls-Royce dropped 1.2% and BAE Systems lost 1.3%. In contrast, energy majors gained, with Shell rising 0.8% and BP adding 0.4%."
-    },
-    {
-      "id": "4947886",
-      "time": "2026-06-22 17:11:24",
-      "tags": [
-        "其他"
-      ],
-      "text": "香港交易所資訊顯示，貝萊德（BlackRock）在嗶哩嗶哩-WH股的持股比例於06月16日從5.20%降至4.90%。"
-    },
-    {
-      "id": "4947885",
-      "time": "2026-06-22 17:10:55",
-      "tags": [
-        "觀點"
-      ],
-      "text": "香港交易所資訊顯示，摩根大通（JPMorgan）在快手-WH股的持股比例於06月16日從4.97%升至5.13%，購買的平均股價為44.4225港元。"
-    },
-    {
-      "id": "4947884",
-      "time": "2026-06-22 17:10:33",
-      "tags": [
-        "其他"
-      ],
-      "text": "【金融監管總局聯合中國人民銀行、中國證監會召開金融消費者和投資者保護監管聯絡員會議】近日，金融監管總局聯合中國人民銀行、中國證監會召開第四次金融消費者和投資者保護監管聯絡員會議。會議研究了金融消保制度規劃以及近期跨領域金融消保和投保重點問題，通報了金融消保和投保領域國際交流與合作情況。會議強調，金融管理部門要持續加強常態化會商會晤、資訊共享和協同共治，堅持問題導向，聚焦金融消費者和投資者集中反映的重點領域問題，緊密協作、齊抓共管，共同做好規範金融產品網路營銷、個人貸款業務明示綜合融資成本以及金融領域個人資訊專項治理等工作；繼續加強與相關部門聯動，協同做好適老助殘服務、最佳化個人身後金融事服務、金融教育等。進一步深化金融消費者和投資者保護工作協調機制，著力提升金融消費者和投資者保護質效。"
-    },
-    {
-      "id": "4947883",
-      "time": "2026-06-22 17:10:01",
-      "tags": [
-        "其他"
-      ],
-      "text": "惠譽稱，總回報互換引發透明度與結構性風險擔憂。"
-    },
-    {
-      "id": "4947882",
-      "time": "2026-06-22 17:09:56",
-      "tags": [
-        "公司",
-        "觀點"
-      ],
-      "text": "香港交易所資訊顯示，摩根大通（JPMorgan）在美的集團H股的持股比例於06月16日從12.78%升至13.10%，購買的平均股價為89.8403港元。"
-    },
-    {
-      "id": "4947881",
-      "time": "2026-06-22 17:09:46",
-      "tags": [
-        "國際"
-      ],
-      "text": "【烏方稱三艘商船遭俄無人機襲擊 1人死亡】據烏克蘭國際文傳電訊社報道，三艘駛往烏敖德薩州港口的商船21日晚至22日凌晨在黑海海域遭俄羅斯無人機襲擊，造成1名船員死亡。烏克蘭海港管理局在社交媒體發文稱，襲擊導致一艘懸掛巴拿馬國旗的貨船起火，1名埃及籍船員死亡。烏海軍方面表示，其餘8名船員已被營救並疏散。烏方稱，另有兩艘分別懸掛帛琉國旗和貝里斯國旗的民用船隻在襲擊中受損，未造成人員傷亡。目前兩艘船隻已繼續航行。（新華社）"
     }
   ]
 }
