@@ -1,7 +1,48 @@
 {
-  "updated": "2026-06-29 13:26:58",
-  "count": 17913,
+  "updated": "2026-06-29 13:31:06",
+  "count": 17911,
   "items": [
+    {
+      "id": "4959786",
+      "time": "2026-06-29 13:30:08",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "雞蛋連續主力合約日內漲1%，現報4390.00元。"
+    },
+    {
+      "id": "4959785",
+      "time": "2026-06-29 13:30:08",
+      "tags": [
+        "市場"
+      ],
+      "text": "紐約期銀日內跌2%，現報58.45美元/盎司。"
+    },
+    {
+      "id": "mkt:019f11da-9c5f-7aab-8c09-8ee8a9c41653",
+      "time": "2026-06-29 13:29:27",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Market sources: South Korea will focus on boosting its global market share in humanoid robots."
+    },
+    {
+      "id": "4959784",
+      "time": "2026-06-29 13:28:37",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：韓國將著力提升其人形機器人全球市場份額。"
+    },
+    {
+      "id": "4959783",
+      "time": "2026-06-29 13:27:55",
+      "tags": [
+        "國際"
+      ],
+      "text": "【霍爾木茲海峽通行量回落 上週船舶遇襲事件引發新疑慮】兩艘船隻遭襲後，市場對船東穿越霍爾木茲海峽的能力與意願再度產生疑慮，該水道的商業航運量因此維持在較低水平。船舶跟蹤資料顯示，週末期間僅有少數船隻完成公開通行。其中，兩艘超大型原油運輸船(VLCC)空載駛入波斯灣，一艘懸掛法國國旗的集裝箱船及兩艘滿載油輪則駛離這一內海區域。儘管週末觀測到的通行量有所下降，但仍高於美伊戰爭期間的大多數時間。自華盛頓與德黑蘭本月早些時候宣佈就重新開放海峽達成臨時安排以來，更多船東願意透過霍爾木茲海峽，這一趨勢已有所強化。全球投資者、船東和保險機構正緊盯這一咽喉要道的動向，將其視為檢驗和平協議能否持續、以及嚴重受擾的供應鏈能否恢復正常的關鍵指標。在兩起船隻遇襲後，美國與伊朗上週末進行了針鋒相對的打擊，考驗雙方脆弱的停火狀態，不過雙方此後已同意在本週恢復談判前暫停攻擊。"
+    },
     {
       "id": "4959782",
       "time": "2026-06-29 13:25:40",
@@ -164024,66 +164065,6 @@
         "MKT News"
       ],
       "text": "【Israeli military says it killed two Hamas officers in Gaza】The Israeli Defense Forces (IDF) said on June 22 that it killed two officers of the Palestinian Islamic Resistance Movement (Hamas) on June 20 in the Gaza Strip: Ahmed Zaza, engineering chief of the Sejebalieh camp in Gaza City, and Hussein Safadi, commander of the Sniper Array."
-    },
-    {
-      "id": "4947356",
-      "time": "2026-06-22 13:31:02",
-      "tags": [
-        "市場"
-      ],
-      "text": "富時中國A50指數期貨上漲1%。"
-    },
-    {
-      "id": "4947355",
-      "time": "2026-06-22 13:30:56",
-      "tags": [
-        "國際"
-      ],
-      "text": "以色列國防軍22日發表宣告說，20日在加沙地帶打死了兩名巴勒斯坦伊斯蘭抵抗運動（哈馬斯）軍官，分別是加沙城“西傑巴利耶營”工程主管艾哈邁德·扎扎和加沙城“狙擊陣列”指揮官侯賽因·薩法迪。（新華社）"
-    },
-    {
-      "id": "4947354",
-      "time": "2026-06-22 13:30:10",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "卡達央行公佈資料顯示，該國5月M2貨幣供應量同比增長9.65%。"
-    },
-    {
-      "id": "te:markets:560653",
-      "time": "2026-06-22 13:30:01",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Crypto",
-        "Importance 1"
-      ],
-      "text": "Crypto Updates: Ether Rises by 1.87% — Top crypto gainers are Ether (1.87%), Bitcoin (1.51%) and Binance (1.33%)."
-    },
-    {
-      "id": "4947353",
-      "time": "2026-06-22 13:29:00",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國銀行將阿克蘇諾貝爾的目標股價從65歐元上調至75歐元。"
-    },
-    {
-      "id": "4947352",
-      "time": "2026-06-22 13:27:43",
-      "tags": [
-        "市場"
-      ],
-      "text": "【世名科技漲停走出3連板】世名科技漲停走出3連板，3天累計漲幅達72.79%。"
-    },
-    {
-      "id": "mkt:019eedcb-f9e9-7dd8-b0b0-cf8002901631",
-      "time": "2026-06-22 13:27:08",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "REUTERS SURVEY: Respondents expect the BOT to hold its key policy rate at 1.00% throughout 2026."
     }
   ]
 }
