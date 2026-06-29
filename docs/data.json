@@ -1,7 +1,64 @@
 {
-  "updated": "2026-06-29 11:42:23",
-  "count": 17900,
+  "updated": "2026-06-29 11:46:23",
+  "count": 17895,
   "items": [
+    {
+      "id": "mkt:019f117a-a0d1-7aab-8c08-60d7a5e73ab8",
+      "time": "2026-06-29 11:44:36",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Thai Automotive Industry Association said Thailand's domestic vehicle sales rose 10.6% YoY in May, versus 2.54% growth in April."
+    },
+    {
+      "id": "4959664",
+      "time": "2026-06-29 11:43:51",
+      "tags": [
+        "國際"
+      ],
+      "text": "泰國聯合會資料顯示：泰國5月國內汽車銷量同比增長10.60%，4月增速為2.54%。"
+    },
+    {
+      "id": "4959663",
+      "time": "2026-06-29 11:43:22",
+      "tags": [
+        "公司",
+        "市場",
+        "觀點"
+      ],
+      "text": "【花旗：上調六福集團目標價至31.8港元，上調2027及28財年純利預測】花旗發表研報指，六福集團截至今年3月底2026財年純利同比增長86%，與此前盈喜相符，管理層預期2027財年銷售及純利都將錄得雙位數增幅，遠高於該行及市場預期。該行將六福2027及2028財年純利預測上調8%及10%，目標價由30.2港元上調至31.8港元，維持“買入”評級。報告指出，六福管理層預期2027財年整體毛利率或因金價下跌而低於2024財年的27.2%水平，但經營槓桿及潛在黃金對沖收益可緩衝淨利潤率跌幅。公司有計劃在海外淨開設30間門店，並進入至少兩個新國家。花旗目前預測六福2027財年純利達約20.63億港元，同比僅升0.8%，低於管理層雙位數增長指引。"
+    },
+    {
+      "id": "4959662",
+      "time": "2026-06-29 11:42:54",
+      "tags": [
+        "其他"
+      ],
+      "text": "【廣和通實現VLA端側推理2.6倍加速】據廣和通訊息，近日，廣和通AI研究院在具身智慧領域取得關鍵進展：基於自研FiboVLA框架與端側推理最佳化技術，團隊在多個主流VLA模型上實現平均2.6倍推理加速，並完成GR00T N1.5在邊緣側高算力主控平臺的部署。相關成果已透過LIBERO模擬基準資料集與桌面雙臂真機環境驗證，為具身智慧模型在機器人端側高效執行提供工程支撐。"
+    },
+    {
+      "id": "4959661",
+      "time": "2026-06-29 11:42:50",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "【日本擬定經濟藍圖 將實際經濟增速翻倍至1%以上】日本政府已制定一項經濟藍圖，目標是到2040年實現超過1%的實際年增長率和3%的名義年增長率，這一目標將是過去五年日本平均增速的兩倍以上，也是東京數十年來提出的最雄心勃勃的經濟目標之一。該藍圖草案還提出，到2040財年，公共和私人部門累計投資規模將超過370萬億日元（約合2.29萬億美元），同時，私營部門年度資本支出目標約為230萬億日元，而GDP預計將達到近1100萬億日元，這標誌著日本有意打破過去幾十年制約其經濟增長的投資不足模式。該藍圖體現了日本首相高市早苗透過戰略性公私合作重振經濟的決心，並將資源投入政府認為對日本長期競爭力至關重要的產業。同時，政府還敦促日本央行維持有利於經濟增長的利率政策。這表明，日本政府傾向於維持較低的融資成本，併為與日本央行之間潛在的政策摩擦埋下了伏筆，因為日本央行一直在謹慎地逐步退出超寬鬆貨幣政策環境。"
+    },
+    {
+      "id": "mkt:019f1178-f96f-7aab-8c08-5efdf99d46b4",
+      "time": "2026-06-29 11:42:48",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "Nikkei 225",
+        "Impact bullish",
+        "USDJPY",
+        "Impact mixed"
+      ],
+      "text": "【Japan drafts economic blueprint aiming to double real growth to over 1% by 2040】Japan has drafted a blueprint targeting annual real GDP growth of more than 1% and nominal growth of 3% by 2040, roughly double its five-year average. The plan projects cumulative public and private investment above ¥370 trillion (about $2.29 trillion) by FY2040, an annual private-sector capex target of about ¥230 trillion and a GDP level near ¥1,100 trillion. The blueprint centres on strategic public‑private partnerships and directed support for industries the government views as critical to long-term competitiveness to address chronic underinvestment. The government urged the Bank of Japan to maintain growth‑friendly interest‑rate settings, signalling a preference for lower financing costs and raising the prospect of policy friction as the BOJ cautiously withdraws from ultra‑loose policy."
+    },
     {
       "id": "4959660",
       "time": "2026-06-29 11:40:50",
@@ -163868,99 +163925,6 @@
         "公司"
       ],
       "text": "【潔美科技：距離“潔美轉債”停止轉股並贖回僅剩半個交易日】潔美科技(002859)6月22日午間公告，截至6月22日上午收市，距離“潔美轉債”停止轉股並贖回僅剩半個交易日。根據安排，截至6月22日收市後仍未轉股的“潔美轉債”將被強制贖回。此次贖回完成後，“潔美轉債”將在深交所摘牌，特提醒“潔美轉債”持券人注意在期限內轉股。"
-    },
-    {
-      "id": "4947248",
-      "time": "2026-06-22 11:46:17",
-      "tags": [
-        "公司",
-        "觀點"
-      ],
-      "text": "【紫晶儲存案庭前會議爆滿，中信建投、致同等聯合追償逾10億先行賠付款】6月22日，中信建投等4家中介機構起訴紫晶儲存等48名被告的庭前會議，在上海金融法院召開。 當日上午9點左右，記者在上海金融法院發現，排隊安檢人員基本都是去第十一法庭參與該追償權糾紛，有律師、原被告方人員以及旁聽者。記者瞭解到，因是庭前會議，且旁聽席位有限，非案件當事人有關人員無法入內旁聽。 這起案件由中信建投證券、致同會計師事務所(特殊普通合夥)、容誠會計師事務所(特殊普通合夥)、廣東恆益律師事務所四家中介機構聯合發起，起訴紫晶儲存（被告一）及其子公司深圳紫晶儲存科技有限公司（被告二）、控股股股東梅州紫辰投資諮詢有限公司（被告三）、原上市公司董監高、業務往來公司、5家貸款合作銀行等48名被告，要求追償10.86億元先行賠付款。 對於此次訴訟對紫晶儲存的影響以及應對舉措，紫晶儲存稱，公司目前已停止經營，暫無解決進展及後續的處理計劃，公司將根據相關訴訟進展情況及時披露事件進展。（一財）"
-    },
-    {
-      "id": "4947247",
-      "time": "2026-06-22 11:45:45",
-      "tags": [
-        "公司"
-      ],
-      "text": "【廣信材料：截至目前公司整體產銷量同比有所提升】廣信材料(300537)在互動平臺表示，根據前期產能整合進度、產品結構最佳化和市場拓展情況，按照目前出貨量初步估計2026年截至目前公司整體產銷量同比有所提升，二季度較一季度環比有所增長，增長主要來源於PCB、LCD、LED、光伏等領域，具體生產相關資料請關注後續定期報告披露情況。"
-    },
-    {
-      "id": "mkt:019eed6e-65bb-7dd8-b0af-97e446919c71",
-      "time": "2026-06-22 11:44:55",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "Chip Wars",
-        "AI Revolution"
-      ],
-      "text": "【South Korea policy chief warns chip windfall may fuel property risk】South Korea presidential office policy chief Kim Yong-beom warned semiconductor profits from the AI boom could flow into the property market. He said semiconductor margin gains have pushed nominal growth to its fastest in over 20 years, while benefits remain uneven: Q1 real GDP rose 3.8% and real gross domestic income climbed 13.2%, indicating chip-price-driven purchasing power has outpaced output. Kim said most of the income gain has yet to circulate broadly but could appear in coming quarters via bonuses, wage increases and repatriated export earnings, potentially supporting luxury spending and housing demand. He warned that historically such excess liquidity has often ended up in real estate and it is hard to assume this cycle will be different."
-    },
-    {
-      "id": "mkt:019eed6e-07fa-7dd8-b0af-8fb742c8257f",
-      "time": "2026-06-22 11:44:31",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "SK Hynix's market capitalization briefly exceeded Samsung Electronics intraday, making it South Korea's largest company by market value."
-    },
-    {
-      "id": "4947246",
-      "time": "2026-06-22 11:44:23",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "SK海力士市值一度超越三星電子，成為韓國最具價值企業。"
-    },
-    {
-      "id": "4947245",
-      "time": "2026-06-22 11:44:06",
-      "tags": [
-        "公司"
-      ],
-      "text": "【北京經開區智慧製造與機器人基金登記成立，出資額50.01億】天眼查App顯示，6月18日，北京經濟技術開發區智慧製造與機器人股權投資基金合夥企業（有限合夥）成立，執行事務合夥人為北京亦莊國際產業投資管理有限公司，出資額50.01億人民幣，經營範圍為私募股權投資基金管理、創業投資基金管理服務。合夥人資訊顯示，該基金由北京亦莊國際投資發展有限公司、北京亦莊國際產業投資管理有限公司共同出資。"
-    },
-    {
-      "id": "4947244",
-      "time": "2026-06-22 11:43:35",
-      "tags": [
-        "公司"
-      ],
-      "text": "【寧德時代新設新能源公司，含熱力生產和供應業務】企查查APP顯示，近日，寧德潤培新能源有限公司成立，法定代表人為戴維，註冊資本為1597萬元，經營範圍包含：太陽能發電技術服務；熱力生產和供應；合同能源管理；線上能源計量技術研發；物聯網技術研發等。企查查股權穿透顯示，該公司由寧德時代(300750)旗下時代綠色能源有限公司全資持股。"
-    },
-    {
-      "id": "4947243",
-      "time": "2026-06-22 11:43:22",
-      "tags": [
-        "公司"
-      ],
-      "text": "【高德雲圖接入阿里QoderWork】6月22日，高德公司宣佈，旗下空間智慧基座品牌高德雲圖已經接入QoderWork。QoderWork是阿里推出的桌面AIAgent。接進Qoderwork的聯結器之後，雲圖的空間智慧能力中商業經營方向的能力，能在QoderWork的對話方塊裡直接呼叫。後續還將接入專家技能SKILL套件和企業級Agent。"
-    },
-    {
-      "id": "4947242",
-      "time": "2026-06-22 11:43:08",
-      "tags": [
-        "公司"
-      ],
-      "text": "【航天馭星在上海成立航天科技公司】企查查APP顯示，近日，上海馭星航天科技有限公司成立，法定代表人為成磊，經營範圍包含：衛星通訊服務；衛星行動通訊終端製造；衛星遙感應用系統整合；積體電路設計；資料處理服務等。企查查股權穿透顯示，該公司由北京航天馭星科技股份有限公司旗下蘇州三垣航天科技有限公司全資持股。"
-    },
-    {
-      "id": "4947241",
-      "time": "2026-06-22 11:43:01",
-      "tags": [
-        "其他"
-      ],
-      "text": "【李家超率團展開福建訪問行程】香港特區行政長官李家超今天（22日）率領特區政府代表團抵達福建訪問，將出席閩港高層會晤暨閩港合作會議第五次會議。 李家超表示，此次訪問期間，閩港兩地將簽署多項合作專案，特區政府代表團亦會實地調研，參觀科技企業和文化專案，瞭解福建在數字經濟等方面的最新發展。他期待這次訪問成果豐碩，為閩港合作開拓更廣闊的空間。"
-    },
-    {
-      "id": "mkt:019eed6c-1c66-7dd8-b0af-86b5d0b2b192",
-      "time": "2026-06-22 11:42:25",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Australia's agriculture minister said tests confirmed H5 avian influenza in a second bird detected in Western Australia."
     }
   ]
 }
