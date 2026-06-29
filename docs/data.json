@@ -1,7 +1,138 @@
 {
-  "updated": "2026-06-29 16:53:21",
-  "count": 17862,
+  "updated": "2026-06-29 16:57:22",
+  "count": 17865,
   "items": [
+    {
+      "id": "te:economy:562514",
+      "time": "2026-06-29 16:56:38",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United Kingdom",
+        "Consumer Credit",
+        "Importance 1"
+      ],
+      "text": "US Credit Growth Slows More than Expected — Net borrowing of consumer credit by individuals in the UK eased to £1.66 billion in May of 2026 from the downwardly revised £1.71 billion in the prior month and missing market forecasts of £1.8 billion. This was slightly below the previous 6-month average of £1.9 billion. Within this, net borrowing through credit cards was £0.6 billion in May, down from £0.8 billion in April. Net borrowing through other forms of consumer credit, such as car dealership finance and personal loans, increased to £1.1 billion in May, from £0.9 billion in April."
+    },
+    {
+      "id": "4960229",
+      "time": "2026-06-29 16:56:27",
+      "tags": [
+        "公司"
+      ],
+      "text": "【隆基綠能：“隆22轉債”2026年跟蹤評級維持AAA級】隆基綠能公告稱，聯合資信對公司2021年度公開發行的“隆22轉債”進行跟蹤信用評級。前次（2025年6月25日）公司主體長期信用等級、“隆22轉債”信用等級均為AAA，評級展望穩定。2026年6月26日出具的報告顯示，本次維持公司主體長期信用等級、“隆22轉債”信用等級為AAA，評級展望為穩定。本次信用評級報告詳見上交所網站。"
+    },
+    {
+      "id": "mkt:019f1297-d90c-7aab-8c0e-fca0d0294a4f",
+      "time": "2026-06-29 16:56:09",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "Hang Seng Index",
+        "Impact bullish"
+      ],
+      "text": "【Hong Kong Marine Department unveils measures to facilitate visiting yachts】On June 29 the Hong Kong Marine Department announced three measures to ease cross-border yacht visits: upgraded electronic systems, relaxed berth requirements for visiting yachts, and streamlined qualification procedures for mainland captains. The department said the steps will simplify approvals and speed up clearance under existing overseas‑visitor rules, aiming to attract more yachts from the Greater Bay Area and overseas and to bolster Hong Kong’s position as an Asian yacht hub."
+    },
+    {
+      "id": "4960228",
+      "time": "2026-06-29 16:56:04",
+      "tags": [
+        "公司"
+      ],
+      "text": "【銀信科技：控股股東部分股份質押及解除質押】銀信科技公告稱，公司控股股東、實際控制人詹立雄部分股份辦理質押及解除質押業務。6月25日，詹立雄質押1500萬股，佔其所持股份16.29%，佔公司總股本3.38%，用於置換存續質押；6月26日，詹立雄解除質押1980萬股，佔其所持股份21.50%，佔公司總股本4.46%。截至公告披露日，詹立雄累計質押1500萬股，佔其所持股份14.86%，佔公司總股本3.38%。其具備良好資信和履約能力，質押股份無平倉或強制過戶風險，本次質押對公司無重大影響。"
+    },
+    {
+      "id": "4960227",
+      "time": "2026-06-29 16:55:38",
+      "tags": [
+        "公司"
+      ],
+      "text": "【顧家家居：高林辭任財務負責人職務，劉海蘭接任】顧家家居6月29日公告，公司收到財務負責人高林的書面辭職報告，高林因工作調整申請辭去公司財務負責人職務，辭職後仍在公司擔任事業部副總經理職務。公司於同日召開董事會會議，同意聘任劉海蘭為公司副總裁兼財務負責人，任期自本次董事會審議透過之日起至第五屆董事會屆滿之日止。"
+    },
+    {
+      "id": "4960226",
+      "time": "2026-06-29 16:55:33",
+      "tags": [
+        "其他"
+      ],
+      "text": "【香港海事處落實便利措施以促進遊艇訪港】香港特區政府海事處今日（29日）公佈推出遊艇跨境便利措施，包括提升電子業務系統、放寬對訪港遊艇的泊位要求以及便利內地訪港遊艇船長取得所需資歷。 海事處發言人表示，今日推出的三項措施，將透過簡化審批程式和提升通關效率，在現行境外遊艇訪港政策上提供便利，從而吸引更多來自大灣區其他城市乃至世界各地的遊艇訪港，助力香港發展成為亞洲遊艇樞紐。（大灣區之聲）"
+    },
+    {
+      "id": "mkt:019f1297-2c29-7aab-8c0e-f1d46ef2901d",
+      "time": "2026-06-29 16:55:24",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY"
+      ],
+      "text": "【Afghanistan says Pakistani airstrike killed at least 36, wounded 163】Afghan deputy government spokesman Fitrat posted on social media on the 29th saying a Pakistani military airstrike on Afghanistan has killed at least 36 civilians and wounded 163. He said the worst-hit strike was in Paktia province, where 30 people were killed, 158 wounded and three homes were completely destroyed."
+    },
+    {
+      "id": "4960225",
+      "time": "2026-06-29 16:55:01",
+      "tags": [
+        "其他",
+        "國際"
+      ],
+      "text": "【阿富汗稱巴基斯坦空襲致36死163傷】阿富汗政府副發言人菲特拉特29日在社交媒體發文稱，巴基斯坦軍方對阿富汗發動的空襲已造成至少36名平民死亡、163人受傷。 菲特拉特稱，傷亡最嚴重的襲擊發生在帕克蒂亞省，已造成30人死亡、158人受傷，有3棟民宅被完全摧毀。 當日早些時候，阿富汗政府發言人穆賈希德在社交媒體上發文稱，巴基斯坦前一晚對阿富汗帕克蒂亞省、帕克提卡省和庫納爾省3地實施空襲，造成數十名平民傷亡，其中包括婦女和兒童。他表示，阿富汗政府強烈譴責這一“侵略行徑”。 巴基斯坦新聞與廣播部長阿陶拉·塔拉爾29日說，巴基斯坦安全部隊28日至29日凌晨在巴基斯坦與阿富汗邊境地區展開軍事行動，打死29名武裝分子。(新華社)"
+    },
+    {
+      "id": "mkt:019f1296-901c-7aab-8c0e-eae7136d5ec9",
+      "time": "2026-06-29 16:54:44",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Russia's attack on Dnipro, Ukraine, killed four, the regional governor said."
+    },
+    {
+      "id": "4960223",
+      "time": "2026-06-29 16:54:22",
+      "tags": [
+        "其他"
+      ],
+      "text": "【哈囉單車騎行時輪胎抱死致使用者摔傷，客服回應：平臺已有專員跟進處理】據媒體報道，有杭州使用者表示，6月20號晚上自己騎行哈囉單車出行，但過程中發生了意外，突然前後輪抱死，導致自己被摔傷。針對此事，截至發稿前，哈囉官方暫無回應。哈囉單車客服則向新浪科技表示，平臺已有專員跟進處理。對於車輛鎖死的具體原因，客服表示“不清楚，專員會處理”。（新浪科技）"
+    },
+    {
+      "id": "mkt:019f1296-1a40-7aab-8c0e-e5958cb59e66",
+      "time": "2026-06-29 16:54:14",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iran's traffic police chief said authorities will not impose a blanket ban on entry to Tehran, Iranian sources reported."
+    },
+    {
+      "id": "4960222",
+      "time": "2026-06-29 16:54:05",
+      "tags": [
+        "國際"
+      ],
+      "text": "烏克蘭州長稱，俄羅斯襲擊烏克蘭第聶伯羅市造成四人死亡。"
+    },
+    {
+      "id": "mkt:019f1295-be46-7aab-8c0e-d8efacc7e36e",
+      "time": "2026-06-29 16:53:51",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CNH",
+        "Impact bullish",
+        "CSI300",
+        "Hang Seng Index"
+      ],
+      "text": "【Guangdong FTZ Jan‑May trade +51% YoY; nine Customs reform cases picked for 2026 FTZ innovation list】China Customs' Guangdong branch said Guangdong Free Trade Zone imports and exports totaled 497.01 bln yuan in January–May, up 51% YoY and adding 4.5 percentage points to Guangdong's foreign trade growth. The branch said nine customs reform cases — including electronic tax payment for cross‑border e‑commerce retail imports and airport smart‑logistics reforms — were selected for the eighth batch of institutional innovation cases in the 2026 China (Guangdong) Free Trade Zone."
+    },
+    {
+      "id": "4960221",
+      "time": "2026-06-29 16:53:01",
+      "tags": [
+        "央行",
+        "市場"
+      ],
+      "text": "【5月外資淨拋售英國國債，為九個月來首現淨賣出】英國央行公佈資料顯示，5月境外投資者淨拋售英國國債，終結了此前連續8個月的淨買入態勢。5月非本土投資者淨賣出54.57億英鎊英國國債，4月則為淨買入182.29億英鎊。受油價走高與政治不確定性雙重影響，英國10年期國債收益率5月一度飆升18個基點至5.19%，創2008年以來新高。"
+    },
     {
       "id": "4960220",
       "time": "2026-06-29 16:52:36",
@@ -163535,108 +163666,6 @@
         "公司"
       ],
       "text": "【深圳新星：控股股東擬提供不超3.5億元財務資助】深圳新星公告稱，控股股東、實際控制人陳學敏擬向公司提供不超3.5億元財務資助，借款利率不高於貸款市場報價利率，無需公司提供擔保。有效期自2026年6月22日起兩年，額度可迴圈使用，資金用於日常運營流動資金週轉等。該交易構成關聯交易，但可免於按關聯交易審議和披露，已獲董事會透過，無需提交股東會審議，不構成重大資產重組。"
-    },
-    {
-      "id": "te:economy:560742",
-      "time": "2026-06-22 16:57:16",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Macau",
-        "Inflation Rate",
-        "Importance 1"
-      ],
-      "text": "Macau Inflation Rate Hits Over 2-Year High — The annual inflation rate in Macau rose to 1.43% in May 2026 from 1.21% in the previous month, marking its highest level since February 2024. Price increases were recorded across several categories, including housing and utilities (0.59% vs 0.33% in April), food and non-alcoholic beverages (1.19% vs 1.11%), transport (4.79% vs 3.97%), recreation, sport, and culture (1.24% vs 1.03%), information and communication (1.06% vs 0.55%), clothing and footwear (2.91% vs 2.33%), and health (0.89% vs 0.70%). Meanwhile, prices edged lower in household furnishings and services (0.76% vs 0.78%) and miscellaneous goods and services (3.56% vs 3.61%), while education remained steady at 1.05%. Costs for alcoholic beverages and tobacco fell to 0.46% after remaining unchanged in the previous month. On a monthly basis, consumer prices eased to 0.17% in May after recording a 0.31% increase in April."
-    },
-    {
-      "id": "4947830",
-      "time": "2026-06-22 16:57:02",
-      "tags": [
-        "國際"
-      ],
-      "text": "【今日特朗普要聞】\n1、特朗普21日在社交媒體上發文稱，伊朗必須立即停止在黎巴嫩的“代理人”行動，否則美國將會再次對伊朗發起猛烈打擊，“就像上週那樣，而且會更猛烈”。\n2、特朗普21日接受採訪時說，如果美國和伊朗未能達成協議，美國將會成為霍爾木茲海峽的“守護者”，並收取中東地區20%的石油收益。\n3、美國副總統萬斯表示，美國總統特朗普致力於區域全面停火，希望改善與伊朗人的關係。\n4、特朗普考慮授權敘利亞進入黎巴嫩南部地區。\n5、特朗普在社交平臺發文稱，我們在各個領域都捷報頻傳，取得前所未有的勝利。\n6、特朗普認為義大利未站出來支援的舉措不妥。\n7、特朗普稱哥倫比亞候選人德拉埃斯普列利亞贏得很漂亮。"
-    },
-    {
-      "id": "4947829",
-      "time": "2026-06-22 16:56:02",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗媒體：繼相關協議達成後，第二艘伊朗集裝箱貨輪今日停靠阿巴斯港沙希德拉賈伊碼頭裝貨。"
-    },
-    {
-      "id": "4947828",
-      "time": "2026-06-22 16:55:31",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【海清智元超購逾7000倍，IPO首日收盤漲258%】6月22日，多光譜AI技術企業海清智元科技股份有限公司（01392.HK）在香港交易所主機板正式掛牌上市。開盤報29港元，較發行價7.2港元漲逾300%，盤中最高觸及30港元。截至收盤，海清智元收報25.8港元，漲幅258%。此前招股階段，海清智元公開發售部分獲逾25萬名投資者認購，超額認購7180倍，認購總金額超4400億港元，躋身港股主機板近年認購紀錄前五。本次全球發售8516.25萬股H股，發行價7.2港元，集資約6.13億港元，民銀資本與浦銀國際擔任聯席保薦人。（21財經）"
-    },
-    {
-      "id": "mkt:019eee8a-3b6f-7dd8-b0b5-dfe2204f5f3d",
-      "time": "2026-06-22 16:54:56",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "【NMPA approves Sileweimi monoclonal antibody injection for rabies passive immunization】The National Medical Products Administration has approved Chongqing Zhixiang Jintai Biopharmaceutical Co., Ltd.'s Sileweimi monoclonal antibody injection (brand name Jinsuxi) for passive immunization in adults exposed to rabies virus. The approval provides a new post‑exposure prophylaxis option for affected patients."
-    },
-    {
-      "id": "4947827",
-      "time": "2026-06-22 16:54:43",
-      "tags": [
-        "宏觀",
-        "市場"
-      ],
-      "text": "【財政部發行2026年記賬式附息（十三期）國債】財政部擬發行2026年記賬式附息（十三期）國債。現就本次發行工作有關事宜通知如下：（一）品種。本期國債為2年期固定利率附息債。 （二）發行數量。本期國債競爭性招標面值總額1600億元，進行甲類成員追加投標。 （三）票面利率。本期國債票面利率透過競爭性招標確定。 （四）本息兌付日期。本期國債自2026年6月25日開始計息，每年支付利息，付息日為每年6月25日（節假日順延，下同），2028年6月25日償還本金並支付最後一次利息。"
-    },
-    {
-      "id": "mkt:019eee8a-0136-7dd8-b0b5-d5aaff0ca13a",
-      "time": "2026-06-22 16:54:42",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "【China approves Kaixing Life Sciences' Kailimei injection for CLDN18.2+ gastric/GEJ adenocarcinoma】China's National Medical Products Administration granted priority-review approval to Kaixing Life Sciences (Shanghai) Co. for Shurui Jiaolunsai injection, marketed as Kailimei, for CLDN18.2‑positive, HER2‑negative advanced gastric or gastroesophageal junction adenocarcinoma in patients who have progressed after at least two prior lines of therapy. The approval adds a new later‑line treatment option for this biomarker‑defined patient population."
-    },
-    {
-      "id": "mkt:019eee89-dde8-7dd8-b0b5-cc5b926661ad",
-      "time": "2026-06-22 16:54:33",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【NMPA conditionally approves injectable monoclonal antibody Yizekang for recurrent/metastatic nasopharyngeal carcinoma】The National Medical Products Administration, via its priority review channel, has granted conditional approval to Chengdu Bailiduote Biopharma Co., Ltd.'s injectable monoclonal antibody Lunkangyilongtuo (trade name Yizekang). Indication: adults with recurrent or metastatic nasopharyngeal carcinoma who progressed after at least two lines of systemic chemotherapy and prior PD‑1/PD‑L1 inhibitor therapy. The approval adds a new treatment option for this patient cohort."
-    },
-    {
-      "id": "4947826",
-      "time": "2026-06-22 16:53:45",
-      "tags": [
-        "公司"
-      ],
-      "text": "【格力機器人專利獲授權】天眼查智慧財產權資訊顯示，近日，珠海格力智慧裝備有限公司、格力電器（000651）申請的 “機器人” 專利獲授權。摘要顯示，本實用新型提供了一種機器人，包括：機體，機體沿預定軌跡可移動地設定；穿線管件，用於穿設線路，穿線管件設定在機體上並與機體連線，以使機體帶動穿線管件移動；支撐元件，設定在機體上，穿線管件與支撐元件連線，以透過支撐元件對穿線管件進行支撐；防護部件，防護部件的一端與支撐元件連線，另一端與穿線管件連線，防護部件的至少部分可伸縮地設定，以在穿線管件隨機體移動後，帶動穿線管件恢復至初始位置。本申請解決了現有技術中的機器人末端夾具的訊號線與氣路管線容易發生纏繞干涉的問題。"
-    },
-    {
-      "id": "4947825",
-      "time": "2026-06-22 16:53:45",
-      "tags": [
-        "公司"
-      ],
-      "text": "【ST南新：子公司廣州南新制藥有限公司收到對乙醯氨基酚甘露醇注射液上市申請《受理通知書》】ST南新公告，子公司廣州南新制藥有限公司收到國家藥品監督管理局核准簽發的對乙醯氨基酚甘露醇注射液上市申請《受理通知書》。對乙醯氨基酚甘露醇注射液適用於治療成人輕度至中度疼痛、輔助阿片類鎮痛藥緩解成人術後中重度疼痛及成人發熱緩解。"
-    },
-    {
-      "id": "mkt:019eee88-ff43-7dd8-b0b5-c33054a7a4e0",
-      "time": "2026-06-22 16:53:36",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "LLY.O",
-        "Impact bullish"
-      ],
-      "text": "【China NMPA approves elacestrant tosylate (INLURIYO) tablets】China's National Medical Products Administration approved Eli Lilly Nederland B.V.'s class-1 innovative drug elacestrant tosylate tablets (brand INLURIYO) for adults with locally advanced or metastatic estrogen receptor–positive (ER+), HER2–negative, ESR1‑mutant breast cancer previously treated with endocrine therapy. Approval covers use as monotherapy and in combination with abemaciclib for the same population, giving Eli Lilly market access in China for an endocrine‑therapy–resistant ER+/HER2– indication."
     }
   ]
 }
