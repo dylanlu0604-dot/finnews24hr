@@ -1,7 +1,52 @@
 {
-  "updated": "2026-06-29 08:11:21",
-  "count": 17971,
+  "updated": "2026-06-29 08:15:23",
+  "count": 17968,
   "items": [
+    {
+      "id": "4959316",
+      "time": "2026-06-29 08:14:06",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "【基本半導體尋求在香港IPO中融資至多8.66億港元】據香港交易所檔案顯示，深圳基本半導體股份有限公司將透過在香港上市發行2740萬股股票，發行價區間為每股27.49港元至31.62港元。據估算，預計將籌集至多8.66億港元（1.1億美元）。預計將於7月8日開始交易。國金證券（香港）和中銀國際擔任聯席保薦人。"
+    },
+    {
+      "id": "4959315",
+      "time": "2026-06-29 08:13:43",
+      "tags": [
+        "公司",
+        "資料",
+        "觀點"
+      ],
+      "text": "【中信證券：工業企業利潤或從前期價格驅動的高彈性修復逐步轉向增速邊際放緩、結構繼續分化】中信證券研報指出，5月工業企業利潤增速邊際回落但仍維持高位，累計利潤增速繼續上行，結構上國有和股份制企業仍保持較快增長，私營企業利潤明顯轉弱。工業企業“價-利潤率”對利潤形成支撐，量的拖累邊際減輕，價格環比動能放緩，成本與庫存壓力有所抬升。行業層面，上游利潤增速進一步抬升，中游利潤明顯放緩，下游利潤維持弱修復，“煤炭、有色、電子、化工”等仍是利潤增長主線，上游漲價向中下游傳導過程中，利潤格局分化有所加劇。展望未來，工業企業利潤或從前期價格驅動的高彈性修復逐步轉向增速邊際放緩、結構繼續分化，後續需進一步關注美伊衝突放緩導致油價中樞下行對PPI的影響，以及在內需弱修復背景下政策工具使用和節奏的變化。"
+    },
+    {
+      "id": "4959314",
+      "time": "2026-06-29 08:12:53",
+      "tags": [
+        "觀點"
+      ],
+      "text": "【中信證券：具備產業和人口增長潛力的城市可能會有相對持續的住房增量需求，房價表現更有支撐】中信證券研報指出，今年3月以來一線城市房地產市場邊際回暖，新房和二手房價格連續三個月環比轉正，同比降幅也持續收窄，市場關心此次一線城市房價為何會回升以及6月的持續性。我們研究發現，進入6月後一線城市房價和成交量修復邊際有所放緩。我們認為3-5月一線房價回暖的原因包括2月底以來多個一線城市先後最佳化房地產調控政策、去年以來一線城市房屋供給收縮以及房價經歷調整後一線城市庫存去化較快。從政策實施效果來看，深圳和上海此次實施的放寬限購類政策對於當地房市起到了較好的帶動效果，限購放開區域的成交量和房價表現好於非限購放開區域。今年以來非一線城市的房價表現整體不如一線城市。具體來看，非一線城市中產業實力和人口吸納能力較強的城市的房價表現相對較好，代表性城市是杭州和成都。展望後續，我們認為具備產業和人口增長潛力的城市可能會有相對持續的住房增量需求，房價表現更有支撐。"
+    },
+    {
+      "id": "mkt:019f10b8-3a8c-7aab-8c04-77aa6e5de5d3",
+      "time": "2026-06-29 08:12:16",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "South Korea's KOSPI narrowed losses to within 1% after earlier falling 2%."
+    },
+    {
+      "id": "mkt:019f10b7-1407-7aab-8c04-6f20458784d5",
+      "time": "2026-06-29 08:11:00",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars"
+      ],
+      "text": "【CITIC Securities: Current MLCC price rally likely to last over a year】CITIC Securities research says MLCC price increases have accelerated and the current cycle could mirror the 2017–18 supercycle. The firm expects the upcycle to extend beyond one year and factory-side price hikes could double or exceed that magnitude."
+    },
     {
       "id": "mkt:019f10b6-8ecb-7aab-8c04-63d0a12fa0a7",
       "time": "2026-06-29 08:10:27",
@@ -164454,87 +164499,6 @@
         "觀點"
       ],
       "text": "【中信證券：加息很難影響“AI類週期股”的估值】中信證券研報稱，今年以來AI驅動的行情是由龐大的基礎設施投資驅動的“瓶頸交易”，更像是2006~07年由投資和重資產公司推動的牛市，而非網際網路泡沫行情，加息很難影響“AI類週期股”的估值，除非加息真的影響到AI的終端需求、商業化假設和資本開支增速。全球範圍內的加息程序率先影響到的是需求增長相對偏弱的板塊，AI與非AI的K型分化在全球都成立；不過，由於強勢美元敘事同時開始迴歸，以及市場整體呈現存量資金調結構的格局，A股的非AI週期板塊相比海外的對標公司明顯更弱；同樣是K型分化，A股行情的寬度相對海外有所不足。改變非AI板塊的弱勢還需要自身敘事在未來出現一些積極變化，或者資金面發生改變，而非等AI調整。"
-    },
-    {
-      "id": "4946873",
-      "time": "2026-06-22 08:15:02",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "三星電子股價下跌3%。"
-    },
-    {
-      "id": "mkt:019eecac-f9c6-7dd8-b0aa-b392f8bf9558",
-      "time": "2026-06-22 08:13:39",
-      "tags": [
-        "MKT News",
-        "Nasdaq100",
-        "Impact bullish",
-        "AMAT.O",
-        "LRCX.O"
-      ],
-      "text": "【CITIC Securities expects global wafer fab equipment market to grow 26% in 2026】CITIC Securities forecasts robust semiconductor-equipment demand driven by large downstream customers’ capex guidance and expansion plans. It projects the global wafer fab equipment (WFE) market will expand 26% YoY in 2026 to $147.8bn and 35% YoY in 2027 to $199.5bn, with memory’s share increasing. As capacity is brought online and new product cycles roll out, equipment makers’ pricing power may improve. The report advises monitoring equipment suppliers exposed to memory and capex-led spending."
-    },
-    {
-      "id": "4946872",
-      "time": "2026-06-22 08:13:31",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "【韓國6月份初步資料顯示人工智慧熱潮繼續推動出口強勁增長】韓國6月份初步資料顯示出口繼續保持強勁增長，得益於半導體行業景氣持續。韓國海關週一公佈的資料顯示，本月前20天經工作日差異調整後的出口同比增長49.7%。5月份前20天的同比增幅為52.6%。未經工作日差異調整後的出口同比增長60.4%，進口增長23.2%，貿易順差達到175億美元。最新資料表明，在與人工智慧和資料中心相關的投資熱潮推動下，外需依然強勁。半導體仍是韓國經濟增長的主要驅動力，有助於抵消經濟其他領域的疲弱。晶片出口再次領漲，同比增長188.4%。計算機相關產品出口增長293.3%。韓國央行行長申鉉松表示，半導體產業擴張帶來的好處正透過企業盈利、消費和投資改善，越來越多地傳導至整體經濟。"
-    },
-    {
-      "id": "mkt:019eecac-460d-7dd8-b0aa-ad5088409acb",
-      "time": "2026-06-22 08:12:53",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bearish",
-        "Brent",
-        "S&P500",
-        "Impact bullish"
-      ],
-      "text": "Two South Korean vessels transited the Strait of Hormuz after the US and Iran signed a ceasefire MoU."
-    },
-    {
-      "id": "4946871",
-      "time": "2026-06-22 08:12:36",
-      "tags": [
-        "國際"
-      ],
-      "text": "兩艘韓國船隻在美伊簽署停火備忘錄後駛過霍爾木茲海峽。"
-    },
-    {
-      "id": "4946870",
-      "time": "2026-06-22 08:12:27",
-      "tags": [
-        "市場"
-      ],
-      "text": "美元/日元上漲0.11%，報161.475。"
-    },
-    {
-      "id": "4946869",
-      "time": "2026-06-22 08:12:02",
-      "tags": [
-        "公司"
-      ],
-      "text": "【拼多多集團在雄安購置辦公樓】2026年6月21日，拼多多集團與中國電建完成正式簽約，透過整體購置方式，落位雄安·電建智匯城的數字新消費電商產業園。據瞭解，拼多多此次購置的樓宇位於雄安數字新消費電商產業園內。拼多多已於5月27日註冊成立全資子公司“拼多多資訊科技服務（雄安）有限公司”；於6月10日，首批150名新員工已正式入職；於6月16日與雄安新區管委會簽署《數字服務戰略合作框架協議》，同步啟動專項招聘計劃，提供超5000個工作崗位。（介面）"
-    },
-    {
-      "id": "mkt:019eecab-381a-7dd8-b0aa-a6af25fec913",
-      "time": "2026-06-22 08:11:44",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "China Tech Giants",
-        "Market Regions",
-        "Greater China",
-        "PDD.O",
-        "Impact bullish"
-      ],
-      "text": "【Pinduoduo buys office building in Xiong'an】June 21, 2026 — Pinduoduo Group signed with PowerChina to acquire an office building in Xiong'an PowerChina Zhihui City digital new‑consumption e‑commerce industrial park. Pinduoduo registered a wholly owned local unit, Pinduoduo Information Technology Services (Xiong'an) Co., Ltd., on May 27; onboarded 150 new employees on June 10; and on June 16 signed a Digital Service Strategic Cooperation Framework Agreement with the Xiong'an New Area Management Committee and launched recruitment for more than 5,000 positions."
     }
   ]
 }
