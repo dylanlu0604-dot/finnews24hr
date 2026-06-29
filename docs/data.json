@@ -1,7 +1,78 @@
 {
-  "updated": "2026-06-29 10:22:27",
-  "count": 17935,
+  "updated": "2026-06-29 10:26:21",
+  "count": 17934,
   "items": [
+    {
+      "id": "4959587",
+      "time": "2026-06-29 10:25:39",
+      "tags": [
+        "公司"
+      ],
+      "text": "【野村一舉升聯想集團目標價至35港元 重申買入評級】野村證券發表報告，對聯想集團(00992.HK)維持買入評級，基於2027財年預測每股盈利20倍計，目標價由原先16港元大幅上調至35港元，意味著46%的上行空間。在野村5月發表的上一份聯想報告中，該行已強調通用伺服器業務的勢頭可能遠超預期。儘管聯想股價自5月以來已上升逾100%，但野村認為此超額表現可能持續，因為該行相信：(1)市場尚未充分反映聯想伺服器業務的潛力；(2)野村對2027/28財年的盈利預測現已較市場共識高出約10%；(3)聯想目前正處於重估過程中，其主要同業戴爾(DELL.N)正以30倍的一年預期市盈率交易，野村認為這為聯想的重估創造了空間。該行上調聯想集團2027/28財年盈利預測12%。"
+    },
+    {
+      "id": "mkt:019f1132-3468-7aab-8c07-495cd7eb4b67",
+      "time": "2026-06-29 10:25:30",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "00992.HK",
+        "Impact bullish"
+      ],
+      "text": "【Nomura raises Lenovo Group PT to HK$35, reiterates buy】Nomura reiterated a buy on Lenovo Group (00992.HK) and raised its target price to HK$35 from HK$16, based on 20x FY2027 EPS, implying about 46% upside. The broker said momentum in Lenovo’s general server business may exceed expectations; despite the stock rallying more than 100% since May, Nomura expects further upside because the market has not fully priced the server opportunity, its FY2027/28 earnings forecasts run roughly 10% above consensus, and Lenovo is in a re-rating phase with peers such as Dell trading near 30x one-year forward P/E. Nomura lifted its FY2027/28 EPS forecasts by 12%."
+    },
+    {
+      "id": "4959586",
+      "time": "2026-06-29 10:25:00",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【A股半導體材料板塊異動拉昇】有研矽漲14.24%，神工股份、凱德石英、恆坤新材、滬矽產業、雅克科技、阿石創跟漲。"
+    },
+    {
+      "id": "mkt:019f1130-a2a9-7aab-8c07-4339f0af0a5b",
+      "time": "2026-06-29 10:23:47",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "Venezuela interim president Rodriguez said most of La Guaira state has been reconnected to the national grid."
+    },
+    {
+      "id": "4959585",
+      "time": "2026-06-29 10:23:07",
+      "tags": [
+        "其他"
+      ],
+      "text": "委內瑞拉臨時總統：已成功將拉瓜伊拉州大部分地區重新接入國家電力系統。"
+    },
+    {
+      "id": "mkt:019f112f-f85d-7aab-8c07-3c7f914e2423",
+      "time": "2026-06-29 10:23:04",
+      "tags": [
+        "MKT News",
+        "CSI300",
+        "Impact bullish",
+        "SSE Composite",
+        "SZSE Component"
+      ],
+      "text": "A-share retail sector rebounded; Zhongbai Group and Ningbo Zhongbai both hit the daily price limit, while Zhejiang Dongri, Bubugao, Dongbai Group and Central Mall also advanced."
+    },
+    {
+      "id": "te:markets:562379",
+      "time": "2026-06-29 10:22:25",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Currency",
+        "Importance 2"
+      ],
+      "text": "Dollar Holds Steady as Jobs Data Looms — The dollar index was little changed at around 101.3 on Monday after reaching a more than one-year high last week, as investors awaited the latest US monthly jobs report for fresh clues on labor market strength and the outlook for Federal Reserve policy. Fed Chair Kevin Warsh reiterated the central bank’s commitment to bringing inflation under control, reinforcing the hawkish tone of his debut earlier this month that prompted markets to scale back expectations for US rate cuts this year. Markets are now pricing in three Fed rate hikes this year, with the probability of the first increase in September standing above 60%. Meanwhile, investors continued to monitor developments in the Middle East after oil prices climbed following renewed clashes between the US and Iran around the Strait of Hormuz, although both sides agreed to halt further attacks ahead of peace talks set to resume this week in Doha, Qatar."
+    },
     {
       "id": "te:economy:562378",
       "time": "2026-06-29 10:21:28",
@@ -164159,81 +164230,6 @@
         "市場"
       ],
       "text": "【電池產業鏈短線拉昇，億緯鋰能漲超5%、寧德時代漲超3%】電池產業鏈短線拉昇，龍蟠科技漲停，豐元股份、湖南裕能漲超9%，億緯鋰能漲超5%，寧德時代漲超3%。"
-    },
-    {
-      "id": "4947140",
-      "time": "2026-06-22 10:26:03",
-      "tags": [
-        "公司"
-      ],
-      "text": "【思格新能許映童：持續推進“AI in All”戰略 國內重點佈局工商業、大型地面等光儲場景】思格新能創始人許映童近期在接受採訪時表示，全球光儲市場需求持續增長，隨著今年3月江蘇南通基地啟用，公司產能得到進一步釋放。思格正持續推進“AI in All”戰略，將人工智慧融入產品設計、系統執行、能源排程和使用者互動等環節，圍繞AI原生儲能產品、模組化光儲系統等高附加值領域進行自研自產；在國內會重點圍繞工商業光儲、園區能源管理和大型地面光儲場景展開相關佈局。對於如何避免低價內卷，其認為關鍵在於“不能只賣硬體”。“單一硬體很容易被比價格，但系統價值、使用者體驗、AI排程、安裝效率和長期運維能力，很難被簡單複製。儲能行業未來的競爭，不會停留在單一硬體引數，而會進入系統架構、AI能力、能源排程、使用者體驗和安全可靠性的綜合競爭”。 (科創板日報)"
-    },
-    {
-      "id": "4947139",
-      "time": "2026-06-22 10:25:35",
-      "tags": [
-        "公司"
-      ],
-      "text": "【三峽樞紐新通道先行開挖區開挖進度過半】從三峽集團瞭解到，截至目前，三峽樞紐新通道先行開挖區已完成總開挖量的56%，預計今年10月份完成開挖任務。新通道建成後，三峽樞紐年雙向總透過能力可達3.36億噸。"
-    },
-    {
-      "id": "4947138",
-      "time": "2026-06-22 10:25:11",
-      "tags": [
-        "市場"
-      ],
-      "text": "臺灣加權股價指數上漲3%至47,871.19點。"
-    },
-    {
-      "id": "4947137",
-      "time": "2026-06-22 10:24:35",
-      "tags": [
-        "其他"
-      ],
-      "text": "據卡達內政部22日訊息，位於萊凡角工業城的一家工廠因技術問題發生爆炸，致54人受傷、18人失蹤。（新華社）"
-    },
-    {
-      "id": "mkt:019eed24-598b-7dd8-b0ae-4ad37dfb1974",
-      "time": "2026-06-22 10:24:02",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "000001.SS",
-        "Impact bearish",
-        "000300.SS"
-      ],
-      "text": "China A-share innovative drug sector weakened; Borui Medical hit the 20% daily down limit, while Tailong Pharmaceutical, Aidi Pharmaceutical, Yifang Biotech and Sailun Biotech also fell."
-    },
-    {
-      "id": "4947136",
-      "time": "2026-06-22 10:23:44",
-      "tags": [
-        "市場"
-      ],
-      "text": "【創新藥板塊震盪走弱，博瑞醫藥觸及20cm跌停】創新藥板塊震盪走弱，博瑞醫藥觸及20cm跌停，太龍藥業、艾迪藥業、益方生物、賽倫生物等跟跌。"
-    },
-    {
-      "id": "mkt:019eed24-101a-7dd8-b0ae-436e72a253b3",
-      "time": "2026-06-22 10:23:44",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "China EV Leaders",
-        "03750.HK",
-        "Impact bullish",
-        "300750.SZ",
-        "HSI"
-      ],
-      "text": "CATL (03750.HK) Hong Kong shares rose more than 4%; A-shares gained over 2%."
-    },
-    {
-      "id": "4947135",
-      "time": "2026-06-22 10:22:54",
-      "tags": [
-        "其他"
-      ],
-      "text": "【寧德時代港股漲超3%】寧德時代港股漲3.74%，報734.00港元。"
     }
   ]
 }
