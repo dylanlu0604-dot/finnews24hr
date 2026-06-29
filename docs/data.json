@@ -1,7 +1,63 @@
 {
-  "updated": "2026-06-29 08:39:09",
-  "count": 17959,
+  "updated": "2026-06-29 08:43:08",
+  "count": 17961,
   "items": [
+    {
+      "id": "4959346",
+      "time": "2026-06-29 08:41:53",
+      "tags": [
+        "國際"
+      ],
+      "text": "韓國KAKAO工會：將於週一舉行一日罷工。"
+    },
+    {
+      "id": "4959345",
+      "time": "2026-06-29 08:41:29",
+      "tags": [
+        "市場"
+      ],
+      "text": "日經225指數在交易時段內跌破68000點，為6月15日以來首次。"
+    },
+    {
+      "id": "te:markets:562360",
+      "time": "2026-06-29 08:41:14",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Silver Slips on Fresh US-Iran Clashes — Silver fell to around $58.5 an ounce on Monday, snapping a two-day rebound as renewed exchanges of attacks between the US and Iran over the Strait of Hormuz lifted oil prices and rekindled inflation concerns. The conflict escalated since Thursday, with Iran targeting a container ship, a vessel carrying Qatari oil, and military bases in Kuwait and Bahrain, prompting multiple US retaliatory strikes. However, both sides later agreed to suspend further attacks ahead of peace talks set to resume this week in Doha, Qatar. Meanwhile, Friday's data showed US PCE inflation broadly matched expectations, leading investors to slightly pare back bets on Federal Reserve rate hikes this year. Markets are now awaiting the latest US monthly jobs report and the ISM Manufacturing PMI for further clues on the outlook for monetary policy."
+    },
+    {
+      "id": "4959344",
+      "time": "2026-06-29 08:40:35",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "【三星、SK海力士鉅額投資計劃公佈前夕，韓國綜合股價指數下跌】韓國主要股指KOSPI一度暴跌3.1%，SK海力士和三星電子股價下跌，此前有報道稱，兩家公司將在未來十年內投資高達2000萬億韓元（約合1.3萬億美元）。三星和SK海力士的股票是該指數下跌的最大拖累因素。據首爾NH投資證券的股票銷售交易員RoyLim表示，機構普遍看好韓國特種電力裝置及電網相關標的將成為本次投資的受益板塊。截至目前，KOSPI今年已上漲93%。尤金證券分析師HuhJae-Hwan在研報中指出，韓國本土股市波動劇烈，核心原因是除半導體外缺少具備競爭力的替代賽道；他補充稱，本次大型產業專案將利好半導體產業鏈相關企業，有助於緩解行業產能瓶頸。“半導體行業領導地位似乎不太可能被結構性削弱。但暫時避免極端波動或許是一種審慎策略。”他表示。科斯達克指數一度上漲5%。"
+    },
+    {
+      "id": "te:markets:562358",
+      "time": "2026-06-29 08:40:23",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 2"
+      ],
+      "text": "Gold Slips on Fresh US-Iran Clashes — Gold fell to around $4,050 an ounce on Monday, snapping a two-day rebound as renewed exchanges of attacks between the US and Iran over the Strait of Hormuz lifted oil prices and rekindled inflation concerns. The conflict escalated since Thursday, with Iran targeting a container ship, a vessel carrying Qatari oil, and military bases in Kuwait and Bahrain, prompting multiple US retaliatory strikes. However, both sides later agreed to suspend further attacks ahead of peace talks set to resume this week in Doha, Qatar. Meanwhile, Friday's data showed US PCE inflation broadly matched expectations, leading investors to slightly pare back bets on Federal Reserve rate hikes this year. Markets are now awaiting the latest US monthly jobs report and the ISM Manufacturing PMI for further clues on the outlook for monetary policy."
+    },
+    {
+      "id": "mkt:019f10d1-a654-7aab-8c04-eebe844e4e7b",
+      "time": "2026-06-29 08:40:02",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【RBA deputy governor says central bank better placed to handle next crisis】RBA deputy governor Kent said a review of alternative monetary tools leaves the central bank better able to respond to future shocks. He said the cash rate target remains the primary instrument, while other tools can provide additional support in exceptional periods but are more complex and carry greater risks. Kent referenced the MPC’s newly released framework for supplementary tools in a low-rate environment and said the Committee may be less tolerant of inflation undershooting the 2%–3% target range when rates are low. He added that, in that scenario, the bank could consider lowering the cash rate target earlier and more decisively to counter deflationary shocks."
+    },
     {
       "id": "mkt:019f10cf-428e-7aab-8c04-e256f296fe91",
       "time": "2026-06-29 08:37:26",
@@ -164391,41 +164447,6 @@
         "焦點"
       ],
       "text": "紐約期銀突破66美元/盎司，日內跌1.15%。"
-    },
-    {
-      "id": "mkt:019eecc7-db3a-7dd8-b0ab-008ceaa6e03e",
-      "time": "2026-06-22 08:43:01",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "【China week of June 8-14 hog procurement and dressed pork factory-gate prices】Ministry of Agriculture and Rural Affairs monitoring for June 8-14, 2026: average hog procurement price at designated slaughterhouses 11.11 yuan/kg, down 0.5% week-on-week and 29.1% year-on-year. Average dressed pork factory-gate price 14.69 yuan/kg, down 0.3% week-on-week and 28.7% year-on-year."
-    },
-    {
-      "id": "4946915",
-      "time": "2026-06-22 08:41:06",
-      "tags": [
-        "其他"
-      ],
-      "text": "日股東證股價指數創歷史新高。"
-    },
-    {
-      "id": "4946914",
-      "time": "2026-06-22 08:40:40",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【日韓股市低開高走】日韓股市低開高走，日經225指數現漲逾約1%，首次突破72,000點創歷史新高；韓國綜指現漲0.2%，此前跌超1%。"
-    },
-    {
-      "id": "4946913",
-      "time": "2026-06-22 08:40:14",
-      "tags": [
-        "觀點"
-      ],
-      "text": "【銀河證券：A股下半年建議關注三大主線】銀河證券釋出2026年A股中期投資展望策略研報，下半年建議關注三大主線：（1）AI“基建”：海外AI資本開支擴張與國內新型基礎設施投資共振，算力、通訊、電力等底層設施加速建設，產業鏈景氣有望由核心硬體向基礎設施和能源方向擴散。（2）週期與製造：輸入型通脹抬升價格中樞，“反內卷”改善供給格局，疊加新型基建和製造業出海需求修復，部分資源品與週期製造板塊有望迎來修復。（3）紅利板塊存階段性修復機會，為資金階段性輪動與配置再均衡的重要方向，關注有業績改善預期、分紅穩定可持續的領域。"
     }
   ]
 }
