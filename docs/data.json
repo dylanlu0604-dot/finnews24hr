@@ -1,7 +1,61 @@
 {
-  "updated": "2026-06-29 10:30:15",
-  "count": 17929,
+  "updated": "2026-06-29 10:34:11",
+  "count": 17918,
   "items": [
+    {
+      "id": "te:economy:562382",
+      "time": "2026-06-29 10:33:28",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Australia",
+        "Government Bond 10Y",
+        "Importance 1"
+      ],
+      "text": "Australia 10Y Yield Stays Near 4-Month Low — Australia’s 10-year government bond yield rose above 4.7%, but remained near a four-month low as markets pared back expectations of further domestic rate hikes, while renewed Middle East tensions reignited inflation concerns. Although the US and Iran agreed to pause further attacks after the recent exchange of strikes around the Strait of Hormuz, oil prices climbed as the latest escalation disrupted the recovery in oil shipments through the strategic waterway that had followed an earlier interim agreement. In Australia, focus turns to Tuesday's release of minutes from the Reserve Bank’s most recent interest-rate setting meeting. The central bank left the cash rate unchanged at 4.35% at its June meeting following three rate hikes earlier this year. Despite a rebound in employment data, recent mixed inflation figures left the markets split on another rate hike, implied around 50% by year-end, while some have started pricing in rate cuts in the second half of 2027."
+    },
+    {
+      "id": "te:markets:562381",
+      "time": "2026-06-29 10:32:19",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "New Zealand",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "New Zealand Dollar Remains Under Pressure — The New Zealand dollar hovered near a seven-month low at around $0.564, weighed down by a broadly stronger US dollar and growing concerns over the domestic growth outlook. Although the recent pullback in oil prices, following a US-Iran deal, has eased near-term inflation concerns, the broader economic damage from the earlier energy shock persists. Expectations for aggressive tightening by the Reserve Bank of New Zealand have been scaled back, with markets now pricing in roughly a 66% chance of a July rate hike, down from over 80% a few weeks earlier, and anticipating just two moves this year rather than three. Investors are now awaiting this week’s business and consumer confidence data for clues on the state of the economy, with the country’s four major banks forecasting the economy to have contracted in the second quarter."
+    },
+    {
+      "id": "mkt:019f1138-37ee-7aab-8c07-5ff629bc7cee",
+      "time": "2026-06-29 10:32:04",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "Magnificent 7",
+        "Star Stocks",
+        "Apple",
+        "AAPL.O"
+      ],
+      "text": "【Apple considers 1.4nm process for flagship smartphone SoC in 2028】Apple is reportedly considering a 1.4nm process for its flagship smartphone SoC as early as 2028, implying the lifecycle of 2nm-based flagship chips could be about two years."
+    },
+    {
+      "id": "4959590",
+      "time": "2026-06-29 10:31:22",
+      "tags": [
+        "其他"
+      ],
+      "text": "據報道，蘋果正考慮最早於2028年在其旗艦智慧手機SoC中採用1.4nm工藝技術，這意味著採用2nm工藝製造的旗艦晶片的生命週期可能只有大約兩年。 (臺灣電子時報)"
+    },
+    {
+      "id": "4959588",
+      "time": "2026-06-29 10:30:45",
+      "tags": [
+        "公司"
+      ],
+      "text": "【萬憬能源：將持續實施老舊管網安全升級改造】萬憬能源近日在投資者網上集體接待日活動上表示，公司建成148.48公里自有長輸管線，配套阿克蘇市區超750公里市政管網及20座場站，全面覆蓋自有特許經營區域。當前管網整體利用率處於合理區間，長輸管線隨供氣規模提升持續釋放成本優勢，可充分滿足區域居民、工商業用氣需求。後續公司將持續實施老舊管網安全升級改造，結合工業園區、新建城區用氣需求適度延伸擴容，同步佈局智慧管網提升運維效率。若有達到披露標準的大型管網投資專案，公司將及時公告。"
+    },
     {
       "id": "mkt:019f1135-97df-7aab-8c07-5714b36e75af",
       "time": "2026-06-29 10:29:12",
@@ -164043,153 +164097,6 @@
         "Impact bearish"
       ],
       "text": "Cambricon shares fell more than 5%, with turnover exceeding 10.5 bln yuan."
-    },
-    {
-      "id": "4947156",
-      "time": "2026-06-22 10:34:06",
-      "tags": [
-        "公司"
-      ],
-      "text": "【中國石油集團董事長戴厚良到數智研究院調研】據中國石油報，6月18日，中國石油集團董事長、黨組書記戴厚良到數智研究院調研。戴厚良強調，要切實增強“不進則退”“慢進也是退”的危機感，勇擔使命、紮實作為，加快建設一流新型研究院，奮力推動“數智中國石油”建設，為網路強國、數字中國建設作出更大貢獻。"
-    },
-    {
-      "id": "4947155",
-      "time": "2026-06-22 10:34:00",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "聚丙烯連續主力合約日內跌3%，現報7538.00元。"
-    },
-    {
-      "id": "te:markets:560612",
-      "time": "2026-06-22 10:33:41",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Platinum Holds Decline — Platinum futures held recent declines below $1,670 an ounce, trading toward a seven-month low as uncertainty over US–Iran peace negotiations kept inflation risks elevated. The high-level talks had a shaky start after President Trump threatened fresh strikes if Hezbollah continues its attacks on Israel, while Tehran announced a renewed closure of the Strait of Hormuz. Iran also reportedly suspended negotiations in response to Trump’s remarks, although sources familiar with the discussions said talks were still underway. Additionally, platinum was weighed down by a stronger US dollar after the Fed Reserve left rates unchanged last week and adopted a more hawkish tone. Nine Fed officials now expect at least one rate increase this year, with markets pricing in a potential hike as soon as September. The platinum market also remains structurally tight, as output from major producers South Africa and Russia remains constrained by aging mines, high costs, and sanctions-related disruptions."
-    },
-    {
-      "id": "4947154",
-      "time": "2026-06-22 10:33:15",
-      "tags": [
-        "市場"
-      ],
-      "text": "上海鋼聯釋出資料顯示，今日MMLC電池級碳酸鋰（早盤）中間價報156900元/噸，較上日16:30價格下跌8750元/噸。"
-    },
-    {
-      "id": "4947153",
-      "time": "2026-06-22 10:33:07",
-      "tags": [
-        "其他"
-      ],
-      "text": "【剛果（金）埃博拉確診病例數過千】剛果（金）衛生部21日說，該國本輪埃博拉疫情累計確診病例升至1003例，其中254例死亡。"
-    },
-    {
-      "id": "te:markets:560611",
-      "time": "2026-06-22 10:33:01",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Indonesia",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "Indonesia Shares Inch Higher to Start Week — Indonesian stocks edged up 13 points, or 0.2%, to 6,186 in Monday morning trade, reversing prior-session losses on strength in infrastructure, energy, and tech. Sentiment was supported by strong May tax revenue growth and fresh infrastructure financing from the Asian Infrastructure Investment Bank. Geopolitically, reports said the U.S. and Iran approved a 60-day roadmap toward a final peace deal, including an end to hostilities in Lebanon. In top trading partner China, the PBoC held lending rates steady for a 13th month despite signs of cooling demand, with softer consumption and investment last month. However, gains were capped by worries over Bank Indonesia’s further tightening, MSCI’s downgrade of Indonesia’s Information Flow accessibility, and FTSE Russell’s removal of several local stocks from its indices. Early standouts included Sumber Alfaria Trijaya (3.7%), Indosat (3.5%), Hartadinata Abadi (2.8%), and Medco Energi (2.6%)."
-    },
-    {
-      "id": "4947152",
-      "time": "2026-06-22 10:32:47",
-      "tags": [
-        "公司"
-      ],
-      "text": "【貝殼（天津）投資有限公司增資至7.5億美元，增幅約15%】天眼查 App顯示，6月17日，貝殼（天津）投資有限公司發生工商變更，註冊資本由6.5億美元增至7.5億美元，增幅約15%。該公司成立於2018年9月，法定代表人為左東華，經營範圍包括在國家允許外商投資的領域依法進行投資，為其投資者提供諮詢服務，為其母公司、關聯公司、所投資企業提供品牌推廣和市場營銷服務等。股東資訊顯示，該公司由香港享住國際有限公司全資持股。"
-    },
-    {
-      "id": "4947151",
-      "time": "2026-06-22 10:32:42",
-      "tags": [
-        "其他"
-      ],
-      "text": "【深圳：端午假期實現旅遊收入23.94億元 同比增長4.5%】據深圳市文化廣電旅遊體育局訊息，初步測算，2026年端午節假期3天（6月19日至6月21日）全市共接待遊客430.38萬人次，同比增長3.4%；實現旅遊收入23.94億元，同比增長4.5%。"
-    },
-    {
-      "id": "mkt:019eed2b-ae92-7dd8-b0ae-5717674f2f35",
-      "time": "2026-06-22 10:32:03",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Industrial Metals"
-      ],
-      "text": "【Mulinshen subsidiary to raise all PCB prices by additional 10%】Wholly owned subsidiary Xinyu Mulinshen Electronics said rising glass fiber cloth costs and tight supply have driven a sharp increase in copper-clad laminate (CCL) input costs. The company will raise prices across its PCB product line by 10% effective June 17, 2026. It had implemented a 20% across-the-board PCB price increase on June 12, 2026."
-    },
-    {
-      "id": "4947150",
-      "time": "2026-06-22 10:31:40",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【木林森子公司對全線PCB產品價格再次上調10%】從木林森全資子公司新餘木林森電子有限公司獲悉，受原材料玻璃布影響，PCB生產所需的原材料覆銅板價格持續大幅上漲，且貨源緊缺，導致PCB核心主材覆銅板成本大幅飆升。為持續保證優質產品及更好的服務，協同市場的發展平衡供需方共同利益，公司慎重研究決定於2026年6月17日起，將對全線PCB產品價格進行再次上調10%。此前，公司已於2026年6月12日對全線PCB產品價格上調20%。"
-    },
-    {
-      "id": "4947149",
-      "time": "2026-06-22 10:31:31",
-      "tags": [
-        "市場"
-      ],
-      "text": "【先進封裝概念持續走強 盛合晶微漲超10%】先進封裝概念盤中持續走強，盛合晶微漲超10%，長電科技、太極實業、中科飛測、雅克科技、通富微電、華天科技漲幅靠前。"
-    },
-    {
-      "id": "4947148",
-      "time": "2026-06-22 10:31:25",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "科創50指數衝高回落轉跌，此前漲超2%。"
-    },
-    {
-      "id": "te:markets:560610",
-      "time": "2026-06-22 10:31:17",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Gasoline Prices Slip — US gasoline prices fell to around $2.90 per gallon in June, halting a three-day gain, as markets tracked a rapidly shifting US–Iran peace talk narrative. Both sides agreed on a 60-day roadmap toward a final deal, with technical talks set to continue through the rest of the week, according to mediators Qatar and Pakistan in Switzerland. However, doubts over the viability of the agreement persisted after local media earlier reported that Iran suspended talks following President Donald Trump’s renewed threats of military action. The fast-changing developments have left markets assessing how soon oil shipping through the Strait of Hormuz could return to normal operations. A normalization of shipping would open the door to higher crude supply from the region, alongside potential adjustments in OPEC+ output policy and a gradual return of Iranian barrels to export markets, feeding into global refining supply."
-    },
-    {
-      "id": "te:markets:560609",
-      "time": "2026-06-22 10:31:17",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 0"
-      ],
-      "text": "Silver Rises as Oil Extends Decline — Silver climbed to around $66 an ounce on Monday, recouping some losses from recent sessions as oil prices fell further following reports that the US and Iran had agreed on a roadmap toward a final peace deal within 60 days. The development helped ease market concerns after both sides recently exchanged threats over the conflict in Lebanon, with Tehran claiming it had once again closed the Strait of Hormuz. However, millions of barrels of crude continued to pass through the waterway over the weekend, while Persian Gulf producers prepared to increase output. Investors also looked ahead to this week’s release of the US PCE price index, the Federal Reserve’s preferred measure of inflation. Last week, the Fed left interest rates unchanged but maintained a more hawkish stance. Nine of the Fed’s 19 policymakers now project at least one rate increase this year, with markets increasingly betting on a hike as early as September."
-    },
-    {
-      "id": "4947147",
-      "time": "2026-06-22 10:30:40",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "玻璃連續主力合約日內跌1%，現報976.00元。"
-    },
-    {
-      "id": "4947146",
-      "time": "2026-06-22 10:30:16",
-      "tags": [
-        "公司"
-      ],
-      "text": "【楊子卸任巨力集團有限公司副董事長】天眼查App顯示，6月10日，巨力集團有限公司發生工商變更，楊建忠卸任總經理、董事長，楊子卸任副董事長，由楊建忠擔任經理，同時多位主要人員發生變更。該公司成立於1997年3月，註冊資本3.65億人民幣，經營範圍包括對製造業、建築業、交通運輸業、商業、房地產業、文化娛樂業、住宿餐飲業、科技研發的投資及其資產管理等，由楊建忠、楊子分別持股83%、17%。"
     }
   ]
 }
