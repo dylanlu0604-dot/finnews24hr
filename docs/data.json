@@ -1,7 +1,99 @@
 {
-  "updated": "2026-06-29 09:23:30",
-  "count": 17893,
+  "updated": "2026-06-29 09:27:32",
+  "count": 17898,
   "items": [
+    {
+      "id": "4959414",
+      "time": "2026-06-29 09:26:28",
+      "tags": [
+        "市場"
+      ],
+      "text": "【ETF開盤：港股通網際網路ETF領漲2.47%，通訊ETF領跌2.44%】ETF開盤漲跌不一，港股通網際網路ETF（159280）領漲2.47%，中證A50ETF（560820）漲2.44%，之江鳳凰ETF（512190）漲2.43%，通訊ETF（159511）領跌2.44%，杭州灣區ETF（512870）跌2.11%，大灣區ETF（512970）跌2.06%。"
+    },
+    {
+      "id": "4959413",
+      "time": "2026-06-29 09:25:49",
+      "tags": [],
+      "text": "滬指跌0.01％，深成指平開，創業板漲0.15％。"
+    },
+    {
+      "id": "mkt:019f10fb-3010-7aab-8c05-8d491b39c71b",
+      "time": "2026-06-29 09:25:24",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "SSE Composite",
+        "Impact bearish",
+        "SZSE Component"
+      ],
+      "text": "A-share open: Shanghai Composite down 0.01%, Shenzhen Composite Index flat, ChiNext Index up 0.15%."
+    },
+    {
+      "id": "4959412",
+      "time": "2026-06-29 09:24:21",
+      "tags": [
+        "公司"
+      ],
+      "text": "【永太科技：氟化液產品尚未形成大規模批次訂單 營收佔比較小】永太科技(002326)6月29日在互動平臺表示，氟化液產品正處於市場推廣與客戶驗證階段，目前尚未形成大規模批次訂單，在營業收入中佔比仍較小。公司將順應行業發展趨勢與下游應用需求，持續推進產品迭代升級，積極開展產品的市場推廣，努力拓展該業務，打造新的增長曲線。"
+    },
+    {
+      "id": "4959411",
+      "time": "2026-06-29 09:24:11",
+      "tags": [
+        "市場"
+      ],
+      "text": "港股新股海光芯正開盤漲75.35%，報199.9港元，上一交易日暗盤收漲86.84%。"
+    },
+    {
+      "id": "mkt:019f10f9-f823-7aab-8c05-809539faac75",
+      "time": "2026-06-29 09:24:05",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "01191.HK",
+        "Impact bullish"
+      ],
+      "text": "Hong Kong IPO Haiguang Xinzhen (01191.HK) opened 75.35% higher at HKD199.90; its grey-market session on the prior trading day closed up 86.84%."
+    },
+    {
+      "id": "4959410",
+      "time": "2026-06-29 09:24:03",
+      "tags": [
+        "公司"
+      ],
+      "text": "【上海：以能繁母豬存欄量為核心調控指標，調整正常保有量為8萬頭，規模豬場保有量為90個】上海市釋出《生豬產能綜合調控實施方案（2026年修訂）》，以能繁母豬存欄量為核心調控指標，調整正常保有量為8萬頭，規模豬場保有量為90個。根據月度存欄量變動，劃分綠色、黃色和紅色區域，分類採取調控措施。在綠色區域以市場調節為主，黃色區域以預警和引導為主，紅色區域強化調控措施。同時，各區、光明食品集團（域外農場）需確保生豬生產能力相對穩定，市農業農村委將及時釋出生產監測資訊，引導養殖場科學安排生產節奏。（農業農村部）"
+    },
+    {
+      "id": "4959409",
+      "time": "2026-06-29 09:23:24",
+      "tags": [
+        "其他"
+      ],
+      "text": "【去哪兒旅行啟動四川宜賓地震應急保障】據中國地震臺網正式測定，2026年6月29日00時12分，宜賓市高縣沙河鎮附近（北緯28.50度，東經104.69度）發生5.5級地震，震源深度6千米。線上旅遊平臺去哪兒旅行迅速啟動應急保障：預訂時間在6月29日08:00前，入住日期為6月29日至7月3日的四川宜賓市、瀘州市的酒店訂單，去哪兒已開啟兜底保障措施，使用者可免費取消。同時，去哪兒將密切關注當地交通的政策，按照要求為廣大使用者辦理退改服務。"
+    },
+    {
+      "id": "4959408",
+      "time": "2026-06-29 09:23:17",
+      "tags": [
+        "其他"
+      ],
+      "text": "新股禮邦醫藥(09637.HK)上市首日開漲85.84%，報42港元，上一交易日暗盤收漲88.05%。"
+    },
+    {
+      "id": "mkt:019f10f9-2186-7aab-8c05-7fda1fe78bbb",
+      "time": "2026-06-29 09:23:10",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "09637.HK",
+        "Impact bullish"
+      ],
+      "text": "New listing Libang Medical (09637.HK) opened up 85.84% at HK$42 on its first trading day; in the prior session's grey-market trade it rose 88.05%."
+    },
     {
       "id": "4959407",
       "time": "2026-06-29 09:22:30",
@@ -29,6 +121,15 @@
       "time": "2026-06-29 09:22:21",
       "tags": [],
       "text": "港股恒指高開漲0.69％，國企指數漲1.03％，科指開漲1.6%。"
+    },
+    {
+      "id": "em:qqyh_zgyh:202606293785700375",
+      "time": "2026-06-29 09:22:09",
+      "tags": [
+        "央行",
+        "中國央行"
+      ],
+      "text": "【央行今日開展1575億元7天逆回購操作】央行今日開展1575億元7天逆回購操作，操作利率為1.40%。同時，開展了3000億元隔夜逆回購操作。"
     },
     {
       "id": "mkt:019f10f8-1ecd-7aab-8c05-6c87149d5736",
@@ -63,12 +164,36 @@
       "text": "PBOC conducted CNY157.5 bln of 7-day reverse repos today, receiving CNY157.5 bln in bids and allotting CNY157.5 bln at a 1.40% rate. It also conducted CNY300.0 bln of overnight reverse repos."
     },
     {
+      "id": "4959404",
+      "time": "2026-06-29 09:20:28",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國國務卿魯比奧將於當地時間上午11點會見德國外交部長。"
+    },
+    {
+      "id": "4959403",
+      "time": "2026-06-29 09:19:30",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國國務卿將於當地時間上午10點會見利比亞國民軍副總司令。"
+    },
+    {
       "id": "4959402",
       "time": "2026-06-29 09:19:16",
       "tags": [
         "公司"
       ],
       "text": "【鋅業股份：公司有銦產品 今年預計產量5—8噸左右】鋅業股份(000751)在互動平臺表示，公司有銦產品，銦作為公司鋅冶煉過程中的綜合回收產品，產量取決於原料礦的帶入量，今年預計產量5—8噸左右。"
+    },
+    {
+      "id": "4959401",
+      "time": "2026-06-29 09:18:56",
+      "tags": [
+        "其他"
+      ],
+      "text": "【中國農業發展銀行總行專家委員會委員杜曉力接受紀律審查和監察調查】據中央紀委國家監委駐中國農業發展銀行紀檢監察組、貴州省紀委監委訊息：中國農業發展銀行總行專家委員會委員杜曉力涉嫌嚴重違紀違法，目前正接受中央紀委國家監委駐中國農業發展銀行紀檢監察組紀律審查和貴州省遵義市監察委員會監察調查。"
     },
     {
       "id": "4959400",
@@ -163725,102 +163850,6 @@
         "其他"
       ],
       "text": "【英國首相斯塔默被曝最早22日就是否辭職釋出宣告】據英國方面訊息，工黨有高層人士預計英國首相斯塔默最早或於當地時間6月22日就是否辭職釋出“宣告”。此前，工黨大曼徹斯特市長安迪·伯納姆透過補選贏得下院議員席位、為競選工黨黨首鋪好路後，英國首相斯塔預設為自己難以繼續留任，已著手製定離任時間表。"
-    },
-    {
-      "id": "4947010",
-      "time": "2026-06-22 09:27:08",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【有色·鋯概念繼續大幅高開 長裕集團5天4板】早盤有色·鋯概念繼續大幅高開，長裕集團5天4板，東方鋯業2連板，盛和資源、凱盛科技、國瓷材料等跟漲。"
-    },
-    {
-      "id": "4947009",
-      "time": "2026-06-22 09:27:04",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "甲醇連續主力合約日內跌2%，現報2539.00元。"
-    },
-    {
-      "id": "4947008",
-      "time": "2026-06-22 09:26:19",
-      "tags": [
-        "市場"
-      ],
-      "text": "【培育鑽石，超硬材料方向高開，黃河旋風、博雲新材漲停】培育鑽石，超硬材料方向高開，黃河旋風、博雲新材漲停，四方達、惠豐鑽石漲超15%，力量鑽石漲超10%，沃爾德、中兵紅箭、國機精工、恆盛能源、晶盛機電跟漲。"
-    },
-    {
-      "id": "mkt:019eecee-fcdb-7dd8-b0ac-975c2d75e37f",
-      "time": "2026-06-22 09:25:45",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Japan & APAC"
-      ],
-      "text": "South Korea's KOSPI index rose as much as 2.0% intraday."
-    },
-    {
-      "id": "mkt:019eecee-c217-7dd8-b0ac-891c79a09588",
-      "time": "2026-06-22 09:25:30",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Greater China",
-        "SSE Composite",
-        "Impact bullish",
-        "SZSE Component"
-      ],
-      "text": "At the A-share open, the Shanghai Composite rose 0.08%, the Shenzhen Composite rose 0.41% and ChiNext rose 0.48%. Leading gains were in lab-grown diamonds, memory chips, rare-earth permanent magnets and fiber-optic related stocks."
-    },
-    {
-      "id": "mkt:019eecee-c118-7dd8-b0ac-801e371cbb05",
-      "time": "2026-06-22 09:25:30",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "Iran's foreign minister said oil and petrochemical exports have been exempted, a blockade has been lifted and some frozen assets released, and Iran has launched a major reconstruction and development plan."
-    },
-    {
-      "id": "4947007",
-      "time": "2026-06-22 09:25:24",
-      "tags": [
-        "焦點"
-      ],
-      "text": "三大股指高開，滬指漲0.08％，深成指漲0.41％，創業板漲0.48％。"
-    },
-    {
-      "id": "4947006",
-      "time": "2026-06-22 09:25:11",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "韓國KOSPI指數上漲2.1%，至9,238.21點。"
-    },
-    {
-      "id": "mkt:019eeced-bda6-7dd8-b0ac-79d6dd9706da",
-      "time": "2026-06-22 09:24:23",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "WTI and Brent crude each fell more than 1% intraday, trading at $76.47/bbl and $79.32/bbl, respectively."
     }
   ]
 }
