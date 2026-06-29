@@ -1,7 +1,83 @@
 {
-  "updated": "2026-06-29 13:39:20",
-  "count": 17921,
+  "updated": "2026-06-29 13:43:26",
+  "count": 17926,
   "items": [
+    {
+      "id": "mkt:019f11e6-353b-7aab-8c09-dfe4c09973fa",
+      "time": "2026-06-29 13:42:07",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "AI Revolution",
+        "005930.KS",
+        "Impact bullish",
+        "000660.KS"
+      ],
+      "text": "【South Korea unveils major chip, AI and data‑centre project plans】South Korea on Monday announced large-scale projects in chips, physical AI and AI data centres. President Lee said Seoul must accelerate development of AI inputs and complete chip production capacity quickly, noting current plant siting is close to water and infrastructure limits. The government plans southwest investment of 5–20 tln won, with Gwangju and Jeolla projects potentially totaling 520 tln won. It expects to build four new fabs in the southwest at about 800 tln won; Samsung Electronics and SK Hynix will each build two new plants. Over the next 15 years the government projects at least 30 tln won of chip-sector investment in next‑generation memory, edge AI and defence, and forecasts a Chungcheong packaging cluster of about 81 tln won. AI data‑centre construction is estimated at roughly 550 tln won. Seoul aims to double DRAM production capacity within five years and expects the global memory market could expand fourfold over that period. The government said it will seek to share growth gains with the public."
+    },
+    {
+      "id": "te:markets:562436",
+      "time": "2026-06-29 13:41:32",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "New Zealand",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "NZX 50 Rebounds, Closes Up 0.4% — The NZX 50 climbed 50 points, or 0.4%, to close at 13,546 on Monday, reversing morning weakness after being flat in the previous session, mainly buoyed by gains in consumer non-durables, health technology, miscellaneous, and transportation. However, declines in utilities and communication services capped the gains. Traders also remained cautious ahead of the release of New Zealand's consumer and business confidence data for June, as both indicators remained subdued in May despite improving from a month earlier. Investors also anticipated the release of China's PMI data and US jobs data for June to help gauge the economic outlook in the world's largest and second-largest economies. Rising oil prices added to inflation concerns, further weighing on sentiment and raising expectations of an interest rate hike. Among the top gainers were A2 Milk (3.0%), Fisher & Paykel (2.0%), Mainfreight (1.8%), Gentrack Group (1.6%), Infratil (0.8%), and Auckland International Airport (0.8%)."
+    },
+    {
+      "id": "4959805",
+      "time": "2026-06-29 13:41:27",
+      "tags": [
+        "國際"
+      ],
+      "text": "韓國KOSPI指數跌幅收窄至0.5%，此前一度跌3%。"
+    },
+    {
+      "id": "mkt:019f11e5-61db-7aab-8c09-d0738cc3b474",
+      "time": "2026-06-29 13:41:13",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "South Korea's KOSPI index trimmed losses to 0.5% after earlier sliding as much as 3%."
+    },
+    {
+      "id": "4959804",
+      "time": "2026-06-29 13:41:07",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【三星電子、SK海力士擬投資81萬億韓元建設HBM封裝設施】6月29日，韓國政府官員表示，三星電子和SK海力士計劃在韓國忠清地區投資81萬億韓元建設HBM（高頻寬儲存）封裝設施，進一步提升韓國AI儲存晶片先進封裝能力。此前韓國政府已宣佈，將推動約800萬億韓元企業投資，在西南地區建設四座儲存晶片晶圓廠，並計劃未來15年投入30萬億韓元研發下一代儲存技術，加快打造覆蓋儲存製造、先進封裝及半導體材料裝置的完整產業鏈。"
+    },
+    {
+      "id": "4959803",
+      "time": "2026-06-29 13:39:40",
+      "tags": [
+        "公司"
+      ],
+      "text": "【玻璃基板概念股午後回升 彩虹股份漲超6%】玻璃基板概念股午後有所回升，彩虹股份漲超6%，凱盛科技、帝爾鐳射跟漲。"
+    },
+    {
+      "id": "4959802",
+      "time": "2026-06-29 13:39:27",
+      "tags": [
+        "國際"
+      ],
+      "text": "韓國政府：政府計劃加快西南地區的審批和建設，以迅速擴大儲存晶片產能。中部地區將重點發展先進封裝技術，而東南部地區將發展成為半導體材料、零部件、裝置以及下一代功率晶片的中心。"
+    },
+    {
+      "id": "4959801",
+      "time": "2026-06-29 13:38:44",
+      "tags": [
+        "公司"
+      ],
+      "text": "【雲深處科技正式更名】6月29日，原“杭州雲深處科技股份有限公司”正式更名為“雲深處科技股份有限公司”。作為杭州“六小龍”之一的雲深處，專注於四足機器人、輪足機器人等產品研發、製造與產業化。今年5月，雲深處迎來關鍵性節點，公司IPO遞表獲受理。（第一財經）"
+    },
     {
       "id": "4959800",
       "time": "2026-06-29 13:37:32",
@@ -164143,34 +164219,6 @@
         "AI Revolution"
       ],
       "text": "Malaysia's prime minister met Bangladesh's prime minister to discuss deepening cooperation in trade and investment, energy, artificial intelligence and the digital economy, education and human capital development, agriculture, the halal sector and labor management."
-    },
-    {
-      "id": "mkt:019eedd9-34b7-7dd8-b0b0-ebf4984386dd",
-      "time": "2026-06-22 13:41:35",
-      "tags": [
-        "MKT News",
-        "Brent",
-        "Impact bullish",
-        "XAUUSD"
-      ],
-      "text": "【Goldman Sachs: Southeast Asian food prices face upside risk over coming months】Goldman Sachs economists say Southeast Asian food prices face upside risk over the next several months. The oil-price shock from the Middle East conflict has already fed into fuel-sensitive CPI components, and rising fertilizer costs will raise agricultural input prices. An El Nifio event, possible by end-2026, could lift global temperatures and trigger further grain-supply shocks, though its impact is imprecisely estimated. Goldman Sachs estimates a 10% rise in local oil prices would lift Southeast Asia food CPI by about 0.3 percentage point after 12 months."
-    },
-    {
-      "id": "4947368",
-      "time": "2026-06-22 13:40:08",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "歐洲央行管委Escriva：西班牙需要簡化審批程式以建造更多住房。西班牙應該專注於減少債務。"
-    },
-    {
-      "id": "4947367",
-      "time": "2026-06-22 13:39:26",
-      "tags": [
-        "公司"
-      ],
-      "text": "【AI影片生成公司Sand.ai三個月連續完成兩輪融資】近日，Sand.ai宣佈完成新一輪融資，3個月內兩輪融資金額合計超1億美元。宿華、Lollapalooza Capital、九坤創投、經緯創投、和玉資本、創新工場、襄禾資本、原始碼資本、中科創星、洪泰基金、今日資本、華業天成、雲暉基金、IDG、百度風投等一線機構聯合投資。據悉，Sand.ai將於今年三季度開源新一代影片生成模型。該模型採用MoE架構，兼顧高效推理與目前開源領域最大的引數規模。Sand.ai創始人、CEO曹越表示，有信心做到頭部水準，並且要把它開源給所有人。"
     }
   ]
 }
