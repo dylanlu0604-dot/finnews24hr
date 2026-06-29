@@ -1,7 +1,52 @@
 {
-  "updated": "2026-06-29 10:49:52",
-  "count": 17908,
+  "updated": "2026-06-29 10:53:45",
+  "count": 17907,
   "items": [
+    {
+      "id": "te:markets:562391",
+      "time": "2026-06-29 10:52:58",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Indonesia",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Indonesia Shares Extend Decline to Kick off Week — Indonesian stocks fell 49 points or 0.8% to 5,848 in early Monday trade, marking the second straight session of losses as transport, property, and non-cyclicals weakened. Sentiment stayed cautious ahead of key data releases this week, including June CPI and May trade figures. Inflation in May edged toward the upper band of Bank Indonesia’s 1-1/2–3-1/2% target of around 3.08%, pressured by rising food and energy costs. Meanwhile, April’s surplus narrowed to its lowest since 2020, curbing export inflows. In China, Indonesia's main trading partner, industrial profits grew robustly in the first five months, buoyed by AI-driven investment and policy support for advanced industries. Still, declines were limited by firmer U.S. futures after Washington and Tehran appeared to step back from fresh escalation, easing concerns over the fragile ceasefire. Notable laggards included ESSA Industries (-5.6%), Perusahaan Gas Negara (-4.6%), Sumber Alfaria Trijaya (-4.1%), and AKR Corporindo (-2.4%)."
+    },
+    {
+      "id": "4959605",
+      "time": "2026-06-29 10:51:37",
+      "tags": [
+        "國際"
+      ],
+      "text": "【波蘭創該國高溫紀錄】據波蘭氣象與水資源管理研究所訊息，波蘭6月28日錄得有氣象觀測記錄以來最高氣溫，打破了一項保持100多年的全國高溫紀錄。該研究所發言人阿格涅什卡·普拉謝克表示，當日波蘭西部城鎮斯武比採氣溫達到創紀錄的40.5度。此前的波蘭全國高溫紀錄是1921年7月29日在波蘭南部普魯什庫夫檢測到的40.2度。（新華社）"
+    },
+    {
+      "id": "te:economy:562389",
+      "time": "2026-06-29 10:50:54",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "Government Bond 10Y",
+        "Importance 1"
+      ],
+      "text": "US 10-Year Yield Steady as Jobs Data Eyed — The yield on the US 10-year Treasury note held steady at around 4.38% on Monday after declining sharply last week, as investors awaited the latest US monthly jobs report for fresh signals on labor market conditions and the outlook for Federal Reserve policy. Fed Chair Kevin Warsh reiterated the central bank's commitment to bringing inflation under control, reinforcing the hawkish tone of his debut earlier this month that prompted markets to scale back expectations for US rate cuts this year. Markets are now pricing in three Fed rate hikes this year, with the probability of the first increase in September standing above 60%. Meanwhile, investors continued to monitor developments in the Middle East after oil prices climbed following renewed clashes between the US and Iran around the Strait of Hormuz, although both sides agreed to suspend further attacks ahead of peace talks set to resume this week in Doha, Qatar."
+    },
+    {
+      "id": "mkt:019f1149-551e-7aab-8c07-a60e9ab7574a",
+      "time": "2026-06-29 10:50:46",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Brent",
+        "Impact bearish",
+        "WTI"
+      ],
+      "text": "【Russia expands sanctioned LNG shipping as reflagged 2007 vessel Arctic Express loads Arctic LNG 2 cargo】The vessel Arctic Express docked at a US‑sanctioned floating storage unit in Russia’s Murmansk region and loaded gas from the Arctic LNG 2 project — the first time the ship has carried gas from a blacklisted source. Arctic Express entered service in 2007 and was reflagged to Russia in May. Tracking‑data analysis shows at least 21 vessels have been used to transport LNG from sanctioned Russian projects, indicating Moscow is enlarging its fleet to evade Western restrictions. The biggest remaining barrier to Arctic LNG 2 exports is a shortage of ships able to deliver cargoes to buyers."
+    },
     {
       "id": "te:markets:562387",
       "time": "2026-06-29 10:48:56",
@@ -163932,54 +163977,6 @@
         "市場"
       ],
       "text": "【創業板指翻綠 此前一度漲近1.7%】指數衝高回落，創業板指翻綠，此前一度漲近1.7%。醫藥生物、軍工、汽配、酒店旅遊等方向跌幅居前，滬深京三市下跌個股近4400只。"
-    },
-    {
-      "id": "te:economy:560620",
-      "time": "2026-06-22 10:52:32",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "United States",
-        "Government Bond 10Y",
-        "Importance 1"
-      ],
-      "text": "US 10-Year Treasury Yield Ticks Higher — The yield on the US 10-year Treasury note climbed to around 4.48% on Monday as investors assessed evolving developments in US-Iran peace negotiations while awaiting a key US inflation report. Reports suggested that Washington and Tehran had agreed on a roadmap toward a final agreement within 60 days, helping ease market concerns after both sides recently exchanged fresh threats related to the conflict in Lebanon. Attention now turns to this week's US PCE price index release, the Federal Reserve’s preferred measure of inflation. Last week, the Fed left interest rates unchanged but adopted a more hawkish tone. Nine of the 19 Fed policymakers now project at least one rate increase before year-end, with markets increasingly pricing in a potential hike as early as September. Higher rate expectations continued to provide support for Treasury yields."
-    },
-    {
-      "id": "4947180",
-      "time": "2026-06-22 10:52:19",
-      "tags": [
-        "其他"
-      ],
-      "text": "【寧德時代港股漲超5%】寧德時代港股漲5.36%，報746.50港元。"
-    },
-    {
-      "id": "mkt:019eed3c-bed5-7dd8-b0ae-ccbee8e534a7",
-      "time": "2026-06-22 10:50:41",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Ebola cases in DRC top 1,000】The Democratic Republic of Congo health ministry said on the 21st the current Ebola outbreak has reached 1,003 confirmed cases and 254 deaths. Official data show 100 recoveries and 365 patients currently isolated or hospitalized. Contact tracing covers 58% of contacts, below the ministry's 95% target."
-    },
-    {
-      "id": "te:markets:560618",
-      "time": "2026-06-22 10:50:08",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Japan",
-        "Currency",
-        "Importance 2"
-      ],
-      "text": "Yen Slides Toward 40-Year Low — The Japanese yen weakened to around 161.5 per dollar on Monday, hovering near its lowest level since 1986 as repeated verbal interventions from Tokyo failed to halt the currency’s decline. Finance Minister Satsuki Katayama said authorities stood ready to take appropriate action against excessive currency moves at any time, echoing earlier warnings. The yen has now surrendered all the gains made on April 30, when officials carried out a record-sized market intervention to support the currency. The latest drop came despite the Bank of Japan’s ongoing policy normalization, including a 25-basis-point interest rate increase to 1% last week. The currency also remained under pressure from heavy carry-trade activity, as investors continued to favor short yen positions amid the still-wide interest rate gap between Japan and the US."
-    },
-    {
-      "id": "4947179",
-      "time": "2026-06-22 10:49:58",
-      "tags": [
-        "市場"
-      ],
-      "text": "【算力硬體股多數衝高回落，華盛昌觸及跌停】算力硬體股多數衝高回落，華盛昌觸及跌停，羅博特科、鵬鼎控股、南亞新材、強瑞技術跌幅居前。"
     }
   ]
 }
