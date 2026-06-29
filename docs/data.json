@@ -1,7 +1,82 @@
 {
-  "updated": "2026-06-29 12:48:00",
-  "count": 17898,
+  "updated": "2026-06-29 12:52:08",
+  "count": 17905,
   "items": [
+    {
+      "id": "mkt:019f11b7-84d4-7aab-8c08-cad3d4256935",
+      "time": "2026-06-29 12:51:07",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Israel said its military destroyed an underground HEZBOLLAH tunnel more than 200 metres long in southern Lebanon."
+    },
+    {
+      "id": "4959738",
+      "time": "2026-06-29 12:51:05",
+      "tags": [
+        "其他"
+      ],
+      "text": "【佈局無人作戰 英國修改驅逐艦更換方案 】英國國防部28日說，將放棄更換老舊驅逐艦的原有方案，轉而採購至少六艘“通用作戰艦”，作為無人作戰系統的指揮中樞。英國媒體報道，英國海軍六艘45型驅逐艦計劃於2038年年底前退役，政府原本打算採購新一代83型驅逐艦進行替換。不過，根據新版國防投資計劃，替換艦艇改為混合動力通用作戰艦，預計本世紀30年代初開始交付。分析人士說，此舉反映了英軍向無人作戰、前沿作戰能力轉型的整體戰略調整。"
+    },
+    {
+      "id": "mkt:019f11b6-5814-7aab-8c08-c25447f0d77a",
+      "time": "2026-06-29 12:49:50",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【State Council earthquake relief office, Ministry of Emergency Management dispatch teams to Yibin after M5.5 quake】cenc recorded a M5.5 earthquake at 00:12 on June 29 in Gaoxian County, Yibin, Sichuan (28.50N, 104.69E); focal depth 6 km. The State Council earthquake relief command office and the Ministry of Emergency Management activated a national level-4 earthquake emergency response and dispatched working teams to the area to coordinate relief and handling."
+    },
+    {
+      "id": "4959737",
+      "time": "2026-06-29 12:49:39",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【國務院抗震救災指揮部辦公室、應急管理部派出工作組趕赴四川宜賓震區】中國地震臺網測定，6月29日0時12分，在四川宜賓市高縣（北緯28.50度、東經104.69度）發生5.5級地震，震源深度6公里。地震發生後，國務院抗震救災指揮部辦公室、應急管理部啟動國家地震災害四級應急響應，派出工作組趕赴當地指導處置。"
+    },
+    {
+      "id": "4959736",
+      "time": "2026-06-29 12:49:11",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【野村：受重組成本影響，LG Display第二季度虧損可能超出預期】野村的Eon Hwang和YJ Kim表示，由於業務重組的一次性成本，LG Display第二季度虧損可能超出市場預期。野村的分析師預計，這家韓國平板顯示器製造商4-6月期間的營業虧損約為960億韓圓，而市場平均預期為虧損550億韓圓。他們表示，剔除一次性成本後，該公司的主要業務可能有所改善。他們補充說，受世界盃足球賽的推動，其第二季度有機發光二極體(OLED)電視面板銷量可能較上年同期增長9.7%，同時其OLED顯示器出貨量可能激增了86%。"
+    },
+    {
+      "id": "mkt:019f11b5-0a1a-7aab-8c08-bb5bbf0d61bd",
+      "time": "2026-06-29 12:48:24",
+      "tags": [
+        "MKT News",
+        "S&P500",
+        "Impact bullish"
+      ],
+      "text": "RBC raised its 12-month S&P 500 target to 8,150 from 7,900."
+    },
+    {
+      "id": "4959735",
+      "time": "2026-06-29 12:48:22",
+      "tags": [
+        "公司"
+      ],
+      "text": "【正新集團回應上市傳聞：兩年內無明確上市計劃】針對近期“正新雞排將上市”的傳聞，6月29日，正新集團相關負責人表示，集團兩年內沒有明確IPO（首次公開募股）計劃。該負責人表示，集團賬面常年保有十幾億流動資金，一直依靠自有資金滾動發展，無需外部融資。集團兩年內沒有明確的IPO計劃。（新京報）"
+    },
+    {
+      "id": "mkt:019f11b4-9466-7aab-8c08-b48a9f1e6661",
+      "time": "2026-06-29 12:47:54",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Zhengxin Group says no clear IPO plan within two years】Zhengxin Group on June 29 denied listing rumors, saying it has no definitive IPO plan within the next two years. The group said it typically holds several billion yuan of liquid funds and has financed expansion from internal cash flow, so it does not need external financing. On store counts, the company said the widely-cited 25,000 figure mixes signed franchises with operating outlets; peak actual operating stores were about 16,000 in 2019 and, as of June 18, 2026, nationwide operating outlets stood at 12,455, a net decline of roughly 3,000 attributed to normal churn and active network optimization."
+    },
+    {
+      "id": "4959734",
+      "time": "2026-06-29 12:47:47",
+      "tags": [
+        "市場"
+      ],
+      "text": "加拿大皇家銀行將標普500指數12個月目標點位從7900點上調至8150點。"
+    },
     {
       "id": "4959733",
       "time": "2026-06-29 12:46:55",
@@ -163935,22 +164010,6 @@
         "國際"
       ],
       "text": "【卡達國內天然氣廠故障爆炸致18人失蹤】卡達表示，拉阿凡工業區啟動期間發生一起爆炸事故，造成數十人受傷，凸顯了中東能源設施在美伊停火後加快生產過程中所面臨的風險。 據運營商卡達能源公司稱，週日巴贊當地天然氣供應設施發生爆炸並引發火災。卡達內政部在一份網路宣告中表示，此次爆炸造成54人受傷，另有18人下落不明。 巴贊天然氣廠為國內工業和電力生產提供燃料，目前尚不清楚液化天然氣產量是否會受到影響。卡達是戰爭前第二大液化天然氣出口國，在美國與伊朗衝突初期，由於其大型設施遭受襲擊以及霍爾木茲海峽關閉，已暫停超低溫燃料的生產。卡達尋求重啟拉斯拉凡這一全球最大的LNG出口工廠。市場正密切關注該廠復產情況，若能迅速恢復，將有助於緩解全球能源價格壓力。受美伊緊張局勢影響，作為國際基準的荷蘭天然氣價格週一早盤上漲。卡達計劃在霍爾木茲海峽安全重新開放後，兩個月內將拉斯拉凡的生產恢復八成。"
-    },
-    {
-      "id": "4947310",
-      "time": "2026-06-22 12:49:39",
-      "tags": [
-        "國際"
-      ],
-      "text": "烏克蘭海軍：無人機襲擊導致乾貨船“VICTRESS”號起火。九名船員中有傷亡，這些船員為埃及、土耳其和印度國籍；目前已被救起。"
-    },
-    {
-      "id": "4947309",
-      "time": "2026-06-22 12:49:19",
-      "tags": [
-        "公司"
-      ],
-      "text": "【紐西蘭2025-26年度牛奶產量增長4.5%，創歷史新高】根據紐西蘭乳業公司協會網站上公佈的資料，截至5月31日的2025-26產奶季，紐西蘭牛奶產量創下歷史新高。截至5月31日的12個月總產量為20.27億公斤，同比增長約8760萬公斤，即4.5%。5月份收集用於加工的乳固體總量為1.09億公斤，同比增長5%。"
     }
   ]
 }
