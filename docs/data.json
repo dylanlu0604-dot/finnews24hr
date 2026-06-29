@@ -1,7 +1,121 @@
 {
-  "updated": "2026-06-29 10:34:11",
-  "count": 17918,
+  "updated": "2026-06-29 10:38:04",
+  "count": 17925,
   "items": [
+    {
+      "id": "mkt:019f113b-b9c2-7aab-8c07-7c56e52b0d67",
+      "time": "2026-06-29 10:35:54",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "000001.SS",
+        "Impact bearish",
+        "399006.SZ"
+      ],
+      "text": "China's ChiNext index widened losses to 2.00%; Shenzhen Composite down 1.71% and Shanghai Composite down 0.46%. PCB and CPO-related stocks led sector declines."
+    },
+    {
+      "id": "4959598",
+      "time": "2026-06-29 10:35:17",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "中證500指數期貨連續主力合約日內跌1%，現報8362.40點。"
+    },
+    {
+      "id": "4959597",
+      "time": "2026-06-29 10:35:10",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "創業板指跌2％，上證指數跌0.4％，深證成指跌1.65％，PCB、CPO等概念跌幅居前。"
+    },
+    {
+      "id": "4959596",
+      "time": "2026-06-29 10:34:57",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "滬深兩市成交額超2萬億元，較上日此時放量2222億元。"
+    },
+    {
+      "id": "4959595",
+      "time": "2026-06-29 10:34:45",
+      "tags": [
+        "市場"
+      ],
+      "text": "上海鋼聯釋出資料顯示，今日MMLC電池級碳酸鋰（早盤）中間價報150850元/噸，較上日16:30價格下跌200元/噸。"
+    },
+    {
+      "id": "mkt:019f113a-3c9a-7aab-8c07-73af730eee5a",
+      "time": "2026-06-29 10:34:16",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "cenc recorded a magnitude-3.1 earthquake at 10:20 on June 29 in Haixi Prefecture, Qinghai, China (37.81N, 95.55E); focal depth 10 km."
+    },
+    {
+      "id": "4959594",
+      "time": "2026-06-29 10:34:03",
+      "tags": [
+        "公司"
+      ],
+      "text": "【華電新能、明陽智慧在內蒙古成立新能源公司】企查查APP顯示，近日，內蒙古華電華明新能源有限公司成立，法定代表人為王新宇，註冊資本為1000萬元，經營範圍包含風力發電技術服務；太陽能發電技術服務；電氣裝置修理；節能管理服務；儲能技術服務等。企查查股權穿透顯示，該公司由華電新能、明陽智慧全資子公司明陽北方智慧能源（內蒙古）有限公司共同持股。"
+    },
+    {
+      "id": "mkt:019f113a-05e8-7aab-8c07-6df94df01e1d",
+      "time": "2026-06-29 10:34:02",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【State Council Information Office to hold briefing on advancing high-quality water transport in China】The State Council Information Office will hold a press briefing on Tuesday, June 30, 2026 at 3:00 p.m.; Ministry of Transport Vice Minister Li Xinghu will outline progress on advancing high-quality water transport development in China and take questions."
+    },
+    {
+      "id": "mkt:019f1139-febf-7aab-8c07-62bd31eadd97",
+      "time": "2026-06-29 10:34:01",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "SSE Composite",
+        "Impact bearish",
+        "CSI300"
+      ],
+      "text": "China's CSI 1000 index futures (IM) front-month contract breached 8,200, trading down 1.49% intraday."
+    },
+    {
+      "id": "4959593",
+      "time": "2026-06-29 10:34:00",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【A股超硬材料板塊短線走低】力量鑽石跌10.35%，沃爾德、恆鋒工具跟跌。"
+    },
+    {
+      "id": "4959592",
+      "time": "2026-06-29 10:34:00",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【A股磨具磨料板塊短線走低】魯信創投跌8.94%，沃爾德跟跌。"
+    },
+    {
+      "id": "4959591",
+      "time": "2026-06-29 10:33:38",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【國務院新聞辦公室將於2026年6月30日（星期二）下午3時舉行新聞釋出會】國務院新聞辦公室將於2026年6月30日（星期二）下午3時舉行新聞釋出會，請交通運輸部副部長李興湖介紹推進水運高質量發展有關情況，並答記者問。(藍鯨新聞)"
+    },
     {
       "id": "te:economy:562382",
       "time": "2026-06-29 10:33:28",
@@ -47,6 +161,15 @@
         "其他"
       ],
       "text": "據報道，蘋果正考慮最早於2028年在其旗艦智慧手機SoC中採用1.4nm工藝技術，這意味著採用2nm工藝製造的旗艦晶片的生命週期可能只有大約兩年。 (臺灣電子時報)"
+    },
+    {
+      "id": "4959589",
+      "time": "2026-06-29 10:31:12",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【三星電機MLCC或斬獲大單 並將加碼玻璃基板】綜合韓國經濟日報、韓國經濟論壇報，業內人士近日透露，三星電機正與一家美國大型科技公司就一份AI伺服器MLCC供應合同進行最後的談判，價值約5000億韓元（約合22億元人民幣）。另外，該公司還計劃於近期與住友化學簽署正式協議，成立玻璃基板合資公司（JV），兩家公司將投資5000億韓元，三星電機計劃持有超過半數的股份，並投資約3000億韓元（約合13.2億元人民幣）。"
     },
     {
       "id": "4959588",
@@ -1282,6 +1405,14 @@
       "text": "吉利汽車升2.6%，旗下蓮花品牌電動汽車將進入加拿大市場。"
     },
     {
+      "id": "4959481",
+      "time": "2026-06-29 10:03:48",
+      "tags": [
+        "其他"
+      ],
+      "text": "【破解程式碼遷移難題國產“異算方舟”全棧計算平臺正式釋出】據央視新聞，今天（29日），由中國科學院計算機網路資訊中心等單位聯合研發的“異算方舟”國產計算系統軟體生態全棧平臺上線。該平臺聚焦國產算力下軟體適配難、程式碼遷移難、科研操作煩瑣等痛點，為科學計算軟體生態建設提供一體化解決方案。據瞭解，目前我國國產算力硬體已實現快速突破，但軟體生態仍存在短板。例如，一些程式碼難以適配國產裝置、底層演算法執行效率低、工程模擬操作複雜等，大量優質科研成果無法在國產算力裝置上落地應用，制約了科研與工程研發效率。針對這些問題，我國科研團隊打造的“異算方舟”國產計算系統軟體生態全棧平臺構建了三層核心能力，形成完整的國產算力應用閉環。"
+    },
+    {
       "id": "4959480",
       "time": "2026-06-29 10:03:35",
       "tags": [
@@ -1411,6 +1542,14 @@
         "Hang Seng Index"
       ],
       "text": "SSE 50 index futures (IH) front-month contract breached 2,900 points, rising 1.31% intraday."
+    },
+    {
+      "id": "4959472",
+      "time": "2026-06-29 09:58:24",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中國中煤在西安成立化工研究院公司 含AI業務】企查查APP顯示，近日，中煤（西安）化工研究院有限公司成立，註冊資本10億元，經營範圍包含標準化服務；軟體開發；人工智慧應用軟體開發；資訊系統整合服務等。企查查股權穿透顯示，該公司由中國中煤能源集團有限公司全資持股。"
     },
     {
       "id": "4959471",
@@ -2048,6 +2187,14 @@
         "Impact bearish"
       ],
       "text": "Hong Kong-listed Lenovo Group (00992.HK) fell sharply in early trade, down more than 6%."
+    },
+    {
+      "id": "4959432",
+      "time": "2026-06-29 09:32:56",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中國郵政集團有限公司上海市分公司黨委書記、總經理李柏平被查】據中央紀委國家監委駐中國郵政集團有限公司紀檢監察組、上海市紀委監委訊息：中國郵政集團有限公司上海市分公司黨委書記、總經理李柏平涉嫌嚴重違紀違法，目前正接受中央紀委國家監委駐中國郵政集團有限公司紀檢監察組紀律審查和上海市虹口區監委監察調查。"
     },
     {
       "id": "4959431",
@@ -164012,91 +164159,6 @@
         "601318.SS"
       ],
       "text": "A-share insurers advanced: New China Life and China Life rose more than 4%, Ping An gained over 2%; PICC and CPIC also higher."
-    },
-    {
-      "id": "mkt:019eed30-9e3e-7dd8-b0ae-6b868211c5af",
-      "time": "2026-06-22 10:37:26",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "China EV Leaders",
-        "00175.HK",
-        "Impact bearish",
-        "01211.HK",
-        "09868.HK"
-      ],
-      "text": "Hong Kong auto stocks fell broadly: Geely Automobile (00175.HK) dropped >8%, Leapmotor (09863.HK), BYD Co. (01211.HK) and Great Wall Motor (02333.HK) were down >5%, and SERES (09927.HK), XPeng Inc. (09868.HK) and Li Auto (02015.HK) fell >4%."
-    },
-    {
-      "id": "4947162",
-      "time": "2026-06-22 10:37:20",
-      "tags": [
-        "其他"
-      ],
-      "text": "布倫特原油價格跌幅擴大至2%，此前美伊和平談判取得進展。"
-    },
-    {
-      "id": "mkt:019eed2f-182e-7dd8-b0ae-67eecb178185",
-      "time": "2026-06-22 10:35:46",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "【China draft Trademark Law to tighten rules on deceptive trademarks, NPC Legislative Affairs Commission says】The second-review draft amendment to China’s Trademark Law will be submitted to the 23rd session of the 14th NPC Standing Committee, the Legislative Affairs Commission said. Spokesperson Huang Haihua said on the 22nd the revision targets deceptive trademarks with three measures: tighten registration review; broaden complaint and reporting channels; and increase legal liability. Where a registered trademark is used in a way that misleads the public, trademark enforcement authorities may order rectification within a deadline. If illegal business turnover exceeds 50,000 yuan, fines may be imposed of up to five times that turnover; if there is no illegal turnover or turnover is under 50,000 yuan, fines may reach up to 250,000 yuan. Failure to rectify on time can lead the State Council’s trademark administration to cancel the registration."
-    },
-    {
-      "id": "4947161",
-      "time": "2026-06-22 10:35:39",
-      "tags": [
-        "宏觀",
-        "兩會"
-      ],
-      "text": "【商標法修改將對“心機商標”作何規定？ 法工委回應】商標法修訂草案二次審議稿將提請十四屆全國人大常委會第二十三次會議審議。本次商標法修改對“心機商標”問題作了哪些規定？全國人大常委會法工委發言人黃海華22日在記者會上予以回應。黃海華表示，為加大打擊力度，這次商標法修改擬作以下規定：一是要求嚴把審查註冊關。二是暢通投訴舉報渠道。三是加大違法行為的法律責任。以誤導公眾的方式使用註冊商標的，由負責商標執法的部門責令限期改正，違法經營額五萬元以上的，可以處違法經營額五倍以下的罰款；沒有違法經營額或者違法經營額不足五萬元的，可以處二十五萬元以下罰款。逾期不改正的，由國務院商標管理部門撤銷其註冊商標。（中新網）"
-    },
-    {
-      "id": "4947160",
-      "time": "2026-06-22 10:35:17",
-      "tags": [
-        "其他"
-      ],
-      "text": "中際旭創成交額達200億元，現漲0.52%。"
-    },
-    {
-      "id": "4947159",
-      "time": "2026-06-22 10:34:59",
-      "tags": [
-        "其他"
-      ],
-      "text": "【半導體板塊短線下挫，寒武紀等股跌超5%】半導體板塊短線下挫，寒武紀、國科微、盛科通訊、新相微、炬光科技等股跌超5%。"
-    },
-    {
-      "id": "4947158",
-      "time": "2026-06-22 10:34:47",
-      "tags": [
-        "市場"
-      ],
-      "text": "電池板塊震盪拉昇，湖南裕能漲超10%，此前龍蟠科技漲停，德方奈米、萬潤新能、億緯鋰能、寧德時代跟漲。"
-    },
-    {
-      "id": "4947157",
-      "time": "2026-06-22 10:34:31",
-      "tags": [
-        "其他"
-      ],
-      "text": "寒武紀跌超5%，成交額超105億元。"
-    },
-    {
-      "id": "mkt:019eed2d-dea3-7dd8-b0ae-5f4e7aa48203",
-      "time": "2026-06-22 10:34:26",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "688256.SS",
-        "Impact bearish"
-      ],
-      "text": "Cambricon shares fell more than 5%, with turnover exceeding 10.5 bln yuan."
     }
   ]
 }
