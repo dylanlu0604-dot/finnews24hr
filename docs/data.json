@@ -1,7 +1,64 @@
 {
-  "updated": "2026-06-29 13:18:46",
-  "count": 17911,
+  "updated": "2026-06-29 13:22:53",
+  "count": 17914,
   "items": [
+    {
+      "id": "4959774",
+      "time": "2026-06-29 13:22:05",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "韓國總統李在明與全球兩大記憶體晶片製造商——三星電子 和SK海力士的領導人一同出席了此次重大專案計劃的電視直播發布活動。"
+    },
+    {
+      "id": "mkt:019f11d3-4e3a-7aab-8c09-5aae608d8c05",
+      "time": "2026-06-29 13:21:28",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "005930.KS",
+        "Impact bullish",
+        "000660.KS",
+        "MU.O"
+      ],
+      "text": "South Korean minister expects the global memory market to quadruple within five years."
+    },
+    {
+      "id": "4959773",
+      "time": "2026-06-29 13:21:03",
+      "tags": [
+        "國際"
+      ],
+      "text": "韓國產業通商資源部長官：韓國計劃五年內將 DRAM 產能提升一倍。"
+    },
+    {
+      "id": "mkt:019f11d2-6b91-7aab-8c09-56bb780e2e85",
+      "time": "2026-06-29 13:20:30",
+      "tags": [
+        "MKT News",
+        "Nasdaq100"
+      ],
+      "text": "A South Korean minister says DRAM production capacity is expected to double within five years."
+    },
+    {
+      "id": "4959772",
+      "time": "2026-06-29 13:20:16",
+      "tags": [
+        "公司"
+      ],
+      "text": "【益普生將以最高17.5億美元收購Kartos Therapeutics】益普生(Ipsen)週一表示，已同意收購Kartos Therapeutics，交易價值最高17.5億美元，旨在加強這家法國製藥商的癌症藥物管線。益普生表示，根據協議，公司將預付4.5億美元收購Kartos，另有最高13億美元的額外付款取決於監管和銷售目標。益普生表示，收購未上市的Kartos將把navtemadlin納入其後期腫瘤管線。該候選藥物用於治療骨髓纖維化。這是一種罕見血癌，目前該藥正處於後期臨床試驗階段。 該公司補充說，這筆交易預計將在第三季度末前完成，前提是滿足慣常成交條件。"
+    },
+    {
+      "id": "4959771",
+      "time": "2026-06-29 13:18:47",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【途虎大漲12.6%，擬回購股份】中國汽車維修服務平臺途虎週一盤中一度勁升12.6%。該公司此前公告稱，董事會決議在公開市場購回公司A類普通股，並向公司第二期首次公開發售後股份計劃項下的受託人提供資金以購入A類股份，總金額不超過15億港元。途虎今年迄今大跌22.3%，同期恒生指數下滑9.9%。"
+    },
     {
       "id": "4959770",
       "time": "2026-06-29 13:17:34",
@@ -164045,30 +164102,6 @@
         "005930.KS"
       ],
       "text": "【Bernstein: Commodity DRAM may extend gains into 2027; HBM faces profit catch-up pressure】Bernstein says commodity DRAM prices, which rose roughly 4.5x between 2025 Q3 and 2026 Q2, could continue to climb into 2027. That trend has pushed commodity DRAM ASP per bit to parity with or above HBM. Bernstein estimates higher bit density and better yields mean commodity DRAM could generate about twice the revenue per wafer of HBM this year and enjoy materially higher margins. HBM prices would need to rise roughly threefold to match DRAM on revenue per wafer, but suppliers are unlikely to push HBM that high because excessive HBM pricing could harm the broader AI ecosystem and ultimately curb memory demand."
-    },
-    {
-      "id": "4947343",
-      "time": "2026-06-22 13:20:45",
-      "tags": [
-        "其他"
-      ],
-      "text": "【浙江省微短劇出海綜合服務平臺正式啟動】近日，浙江省微短劇出海綜合服務平臺啟動儀式暨工作宣貫會在杭州召開。會上正式啟動浙江省微短劇出海綜合服務平臺，著力補齊微短劇出海服務短板、完善產業生態佈局，全面助力浙產視聽精品加速“走出去”。會上釋出了“2026年浙江省微短劇出海首批推薦片單”，《盛夏芬德拉》《馬年限定之新春有約》《有山靈第一季》等11部優秀劇目入選。同時釋出平臺首批“三張清單”——合作單位清單、服務事項清單、年度任務清單，向參與企業作出服務承諾。"
-    },
-    {
-      "id": "4947342",
-      "time": "2026-06-22 13:19:41",
-      "tags": [
-        "其他"
-      ],
-      "text": "理想汽車：全新理想L8將於6月23日晚20:00正式釋出，並按照定單鎖定順序進行排產。"
-    },
-    {
-      "id": "4947341",
-      "time": "2026-06-22 13:19:23",
-      "tags": [
-        "公司"
-      ],
-      "text": "【安徽社科院林斐談長鑫科技上市：合肥“押中”的不是具體企業，而是產業趨勢】從IPO正式受理到註冊生效僅耗時165天，長鑫科技集團股份有限公司（以下簡稱“長鑫科技”）成為資本市場關注焦點。 日前，證監會同意長鑫科技首次公開發行股票並在科創板上市的註冊申請。這也意味著，有“中國海力士”之稱的DRAM（動態隨機存取儲存器)巨頭登陸資本市場已“箭在弦上”。 據瞭解，長鑫科技在持續攪動半導體行業與資本市場之時，也成為合肥市再度“押中”“賭對”明星企業的最新案例。經穿透股權計算後，合肥國資合計持有長鑫科技的股權比例超過35%。在長鑫科技之前，合肥市已成功“押中”京東方、蔚來等知名企業。 對於外界將合肥市接連成功“押注”明星企業的原因歸結為政府“豪賭”的說法，安徽省社會科學院研究員、安徽省發展戰略研究會副會長林斐日前在接受記者採訪時並不認可：“合肥市成功的原因不是簡單‘押注’，而是基於對國家戰略方向、產業演進規律和技術變革趨勢的戰略研判，‘押中’的也不是具體企業，而是產業發展趨勢。”（中國經營報）"
     }
   ]
 }
