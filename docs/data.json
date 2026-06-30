@@ -1,7 +1,23 @@
 {
-  "updated": "2026-07-01 04:12:14",
-  "count": 13983,
+  "updated": "2026-07-01 04:15:58",
+  "count": 13980,
   "items": [
+    {
+      "id": "4963665",
+      "time": "2026-07-01 04:15:23",
+      "tags": [
+        "其他"
+      ],
+      "text": "耐克第四季度營收 109.7 億美元，去年同期為 111 億美元。"
+    },
+    {
+      "id": "4963664",
+      "time": "2026-07-01 04:12:24",
+      "tags": [
+        "公司"
+      ],
+      "text": "“大空頭”Michael Burry： 首次做空卡特彼勒公司股票。"
+    },
     {
       "id": "4963663",
       "time": "2026-07-01 04:11:12",
@@ -128286,55 +128302,6 @@
         "其他"
       ],
       "text": "耐克：首席財務官馬修·弗倫德將卸任，留任至9月4日。"
-    },
-    {
-      "id": "te:markets:561269",
-      "time": "2026-06-24 04:15:13",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Canada",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "TSX Slips on Global Tech Selloff — The S&P/TSX Composite Index fell 0.2% to close at 34,927 on Tuesday, tracking global equities amid a broad selloff in technology stocks and persistent concerns over elevated interest rates. Worries that speculative AI spending by hyperscalers may be running ahead of fundamentals weighed on North American tech shares and hurt overall risk appetite. Celestica plunged 6.2%, leading losses in the tech sector. Gold prices also declined, extending pressure on mining stocks following the hawkish projections from the US Federal Reserve last week. Agnico Eagle shed 3.5%, Barrick lost 4.7%, and WPM dropped 4.1%. Meanwhile, oil prices fell for a second straight session as supply concerns eased amid progress in restoring shipments through the Strait of Hormuz, reducing fears of energy-driven inflation but weighing on energy shares."
-    },
-    {
-      "id": "4951124",
-      "time": "2026-06-24 04:14:53",
-      "tags": [
-        "公司"
-      ],
-      "text": "黑石集團預計2026年第二季度已實現業績收入及主體投資收益將超5億美元。"
-    },
-    {
-      "id": "4951123",
-      "time": "2026-06-24 04:14:37",
-      "tags": [
-        "市場"
-      ],
-      "text": "聯邦快遞股價盤後交易跌3.6%。"
-    },
-    {
-      "id": "4951122",
-      "time": "2026-06-24 04:12:56",
-      "tags": [
-        "國際"
-      ],
-      "text": "【特朗普稱美國正致力於與伊朗達成一項公平協議】當地時間6月23日，美國總統特朗普表示，美國“正致力於與伊朗達成一項公平的協議”，以結束霍爾木茲海峽的衝突。他稱，僅在前一天（6月22日），就有1900萬桶石油透過霍爾木茲海峽運輸。特朗普再次強調稱“伊朗不能擁有核武器”，並表示當前相關工作進展順利。（央視新聞）"
-    },
-    {
-      "id": "mkt:019ef61d-1697-7dd8-b0e3-04f314b3a62a",
-      "time": "2026-06-24 04:12:41",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "【Trump says U.S. seeking fair deal with Iran to end Strait of Hormuz conflict】On June 23, Trump said the U.S. is seeking a fair deal with Iran to end the conflict in the Strait of Hormuz, noting 19 million barrels of oil transited the strait on June 22. He reiterated that Iran must not possess nuclear weapons and said related efforts are progressing well."
     }
   ]
 }
