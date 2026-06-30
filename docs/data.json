@@ -1,7 +1,15 @@
 {
-  "updated": "2026-07-01 04:23:29",
-  "count": 13982,
+  "updated": "2026-07-01 04:27:15",
+  "count": 13978,
   "items": [
+    {
+      "id": "mkt:019f1a34-700b-7aab-8c42-d33c37119dc2",
+      "time": "2026-07-01 04:24:31",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【6.1-magnitude earthquake hits northern Mexico】Mexico's National Seismological Service said a magnitude-6.1 earthquake struck about 116 km southwest of Guasave in Sinaloa, northern Mexico, at 13:45 local time on June 30, with an estimated depth of roughly 5 km. No casualties have been reported."
+    },
     {
       "id": "4963667",
       "time": "2026-07-01 04:22:39",
@@ -128288,46 +128296,6 @@
         "MKT News"
       ],
       "text": "Market sources said Morgan Stanley's private credit fund has set a 5% redemption limit."
-    },
-    {
-      "id": "4951132",
-      "time": "2026-06-24 04:25:56",
-      "tags": [
-        "國際"
-      ],
-      "text": "【中國駐美國大使謝鋒在美洲國家組織成員國與觀察員國對話會上針對巴拿馬方面無端指責闡明中方立場】中國駐美國大使館微信公眾號發文稱，2026年6月23日，中國駐美國大使兼駐美洲國家組織（OAS）觀察員謝鋒在巴拿馬出席OAS成員國與觀察員國對話會時，針對巴方領導人在年會開幕式上無端指責中方對到港船舶開展港口國監督檢查等，發表不實言論，第一時間澄清事實，闡明中方嚴正立場。謝鋒強調，作為航運大國，中國始終高度重視海上運輸和生命安全。但2026年以來，巴拿馬旗船舶在中國水域連續發生多起商漁船碰撞事故，造成多人死亡失蹤，本著對航運安全，包括船隻特別是人員安全負責的態度，中國依照中國法律和國際公約，對到港船舶開展港口國監督檢查，不針對特定國家和船旗，無可指責。謝鋒表示，中國企業自1997年獲准並依法經營運河兩端港口，為促進巴經濟發展作出了積極貢獻。近30年來雙方合作順暢，不存在任何重大爭議，巴方也從未提出任何抱怨。今年1月，巴最高法院突然做出判決，強行沒收、接管，強制驅逐中國企業，明眼人都看得出這背後是政治操弄。如果契約想撕毀就撕毀，市場規則說不遵守就不遵守，資產想接管就接管，經營者說驅逐就驅逐，誰還來投資，誰還來合作？謝鋒再次敦促巴方糾正錯誤，保障中國企業的正當合法權益。"
-    },
-    {
-      "id": "4951131",
-      "time": "2026-06-24 04:25:33",
-      "tags": [
-        "觀點"
-      ],
-      "text": "摩根士丹利私募信貸基金將贖回比例上限設為5%。"
-    },
-    {
-      "id": "4951130",
-      "time": "2026-06-24 04:25:02",
-      "tags": [
-        "其他"
-      ],
-      "text": "【厄瓜多邊境省份發生槍擊事件 致至少4人死亡】當地時間6月22日，厄瓜多東北部、與哥倫比亞接壤的蘇崑比奧斯省發生一起槍擊事件，造成至少4人死亡、3人受傷。據悉，事件發生在新洛哈市一家娛樂場所內，數名武裝人員闖入後向現場人員連續開槍射擊。經警方確認，4名遇難者中包括2名哥倫比亞公民和2名厄瓜多公民。（央視新聞）"
-    },
-    {
-      "id": "mkt:019ef627-b546-7dd8-b0e3-11f7b2ee1268",
-      "time": "2026-06-24 04:24:17",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【China's U.S. ambassador Xie Feng rebuts Panama accusations over port-state inspections】On June 23, 2026, at an OAS dialogue in Panama, Chinese Ambassador to the U.S. and OAS observer Xie Feng rejected Panama's allegations that China improperly carried out port-state inspections on arriving ships. Xie said the charges were false, citing multiple collisions since 2026 involving Panama-flagged vessels in Chinese waters that caused deaths and missing persons. He said China, under Chinese law and relevant international conventions, has conducted port-state control inspections to protect maritime and crew safety and that inspections are not targeted at any specific country or flag. Xie urged Panama to correct the record and safeguard the lawful rights of Chinese firms."
-    },
-    {
-      "id": "4951129",
-      "time": "2026-06-24 04:23:49",
-      "tags": [
-        "公司"
-      ],
-      "text": "遊戲驛站董事會取消執行長瑞安・科恩的績效獎金，以便其全身心推進收購eBay的相關工作。"
     }
   ]
 }
