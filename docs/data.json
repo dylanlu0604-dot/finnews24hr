@@ -1,7 +1,23 @@
 {
-  "updated": "2026-07-01 05:41:24",
-  "count": 13980,
+  "updated": "2026-07-01 05:45:19",
+  "count": 13973,
   "items": [
+    {
+      "id": "mkt:019f1a7b-da3c-7aab-8c44-4526177442cf",
+      "time": "2026-07-01 05:42:32",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. President Trump said the midterm election convention is expected to take place Sept. 9-10."
+    },
+    {
+      "id": "4963715",
+      "time": "2026-07-01 05:42:28",
+      "tags": [
+        "其他"
+      ],
+      "text": "【無緣世界盃16強 荷蘭隊主教練科曼宣佈辭職】當地時間6月30日，荷蘭足球隊主教練科曼宣佈辭去職務。科曼表示，荷蘭隊未能在2026年世界盃實現既定目標，作為主教練，他對此承擔全部責任。此前在2026年美加墨世界盃淘汰賽十六分之一決賽中，荷蘭隊經點球大戰不敵摩洛哥隊，無緣16強。"
+    },
     {
       "id": "mkt:019f1a7a-2297-7aab-8c44-3c728663b5a8",
       "time": "2026-07-01 05:40:39",
@@ -128247,100 +128263,6 @@
         "META.O"
       ],
       "text": "Meta Platforms (META.O) said on the U.S. government AI review it hopes to sign an agreement as soon as possible while details are being worked out."
-    },
-    {
-      "id": "mkt:019ef671-cf96-7dd8-b0e4-70881e9d0ff2",
-      "time": "2026-06-24 05:45:14",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Meta Platforms",
-        "Market Themes",
-        "AI Revolution",
-        "Magnificent 7",
-        "META.O",
-        "Impact bullish"
-      ],
-      "text": "Meta Platforms (META.O) said it supports the government's goal of promoting US leadership in powerful, secure frontier AI."
-    },
-    {
-      "id": "mkt:019ef671-2e62-7dd8-b0e4-6a860c9d4170",
-      "time": "2026-06-24 05:44:32",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "Market Regions",
-        "Europe & UK"
-      ],
-      "text": "Britain's National Grid ESO said it has issued a power margin notice to the market, adding the notice does not indicate any risk to electricity supply."
-    },
-    {
-      "id": "4951186",
-      "time": "2026-06-24 05:44:18",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普計劃週三在國會大廈簽署住房法案。"
-    },
-    {
-      "id": "4951185",
-      "time": "2026-06-24 05:43:56",
-      "tags": [
-        "其他"
-      ],
-      "text": "市場資訊：阿里爾·伊曼紐爾正洽談以60億美元收購倫敦西區與百老匯演藝巨頭ATG。"
-    },
-    {
-      "id": "mkt:019ef670-8265-7dd8-b0e4-63090c7eb0b6",
-      "time": "2026-06-24 05:43:48",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy"
-      ],
-      "text": "National Grid ESO said extreme temperatures are expected to leave electricity system margins very tight on Wednesday evening and asked market participants to make any available additional generation capacity available."
-    },
-    {
-      "id": "4951184",
-      "time": "2026-06-24 05:43:31",
-      "tags": [
-        "國際"
-      ],
-      "text": "Meta就美國政府人工智慧審查表態：目前我們仍在梳理細節，希望能儘快簽署協議。"
-    },
-    {
-      "id": "4951183",
-      "time": "2026-06-24 05:43:05",
-      "tags": [
-        "國際"
-      ],
-      "text": "Meta：我們認同本屆政府的目標，即推動美國在穩健安全的前沿人工智慧領域保持領先地位。"
-    },
-    {
-      "id": "4951182",
-      "time": "2026-06-24 05:42:18",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【Alphabet股價盤後上漲 將取代Verizon納入道指】Alphabet股價盤後上漲1.2%，該公司將取代Verizon Communications成為道瓊斯工業平均指數成分股，調整將於6月29日開盤前生效。Verizon股價下跌0.5%。"
-    },
-    {
-      "id": "mkt:019ef66e-dd13-7dd8-b0e4-5edf972b5e49",
-      "time": "2026-06-24 05:42:01",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Alphabet",
-        "Market Themes",
-        "Magnificent 7",
-        "GOOGL.O",
-        "Impact bullish",
-        "VZ.N",
-        "Impact bearish"
-      ],
-      "text": "Alphabet's Class A shares (GOOGL.O) rose more than 1% in after-hours trading and will replace Verizon (VZ.N) in the Dow Jones Industrial Average; Verizon fell about 0.6% in after-hours trading."
     }
   ]
 }
