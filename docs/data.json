@@ -1,7 +1,18 @@
 {
-  "updated": "2026-07-01 05:45:19",
-  "count": 13973,
+  "updated": "2026-07-01 05:49:10",
+  "count": 13972,
   "items": [
+    {
+      "id": "mkt:019f1a80-7439-7aab-8c44-4b353888323a",
+      "time": "2026-07-01 05:47:33",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "Crypto Concepts"
+      ],
+      "text": "【Trump 2025 financial disclosure lists >$1.2 BLN from crypto, $80 MLN in media settlements】The US Office of Government Ethics published a 927-page financial disclosure for Trump’s 2025 filing. It shows more than $580 MLN from a family-linked crypto project, World Liberty Financial, and $635 MLN from meme-coin sales—about $1.215 BLN combined. The filing also reports over $80 MLN received from settlements with multiple media companies, several million dollars in name-licensing fees from foreign property developers, and gifts exceeding $370k including 10 World Cup tickets and Super Bowl seats. It lists a statue valued at $250k depicting his raised-fist image after the Pennsylvania shooting."
+    },
     {
       "id": "mkt:019f1a7b-da3c-7aab-8c44-4526177442cf",
       "time": "2026-07-01 05:42:32",
@@ -128239,30 +128250,6 @@
         "其他"
       ],
       "text": "剛果民主共和國表示，確診埃博拉病例已升至1094例，其中277例死亡。"
-    },
-    {
-      "id": "4951187",
-      "time": "2026-06-24 05:46:41",
-      "tags": [
-        "公司",
-        "市場",
-        "焦點",
-        "國際"
-      ],
-      "text": "【Alphabet納入道指，象徵意義遠大於實際影響】Alphabet入選道瓊斯工業平均指數，真正的深層意義在於這件事折射出美國企業格局的變遷。此次它取代威瑞森通訊納入該藍籌股指，意味著這一老牌指數終於跟上了市場大勢——多年來美股市場一直由大型科技龍頭主導。道瓊斯指數採用價格加權機制，而非標普500、納斯達克100那樣的市值加權，因此Alphabet在道指中無法擁有在後兩大指數里同等的權重影響力。2022年該科技巨頭完成1拆20股票拆分，掃清了長期阻礙其納入道指的門檻；拆分前其股價過高，一旦納入會嚴重扭曲指數走勢。跟蹤道指的基金雖需買入Alphabet股票、減持威瑞森，但對標該指數的資金體量相對有限，由此帶來的資金流動影響預計十分微弱。總而言之，此次調整更多隻是象徵層面的意義。"
-    },
-    {
-      "id": "mkt:019ef672-2f8f-7dd8-b0e4-7fb603409963",
-      "time": "2026-06-24 05:45:38",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Meta Platforms",
-        "Market Themes",
-        "Magnificent 7",
-        "META.O"
-      ],
-      "text": "Meta Platforms (META.O) said on the U.S. government AI review it hopes to sign an agreement as soon as possible while details are being worked out."
     }
   ]
 }
