@@ -1,7 +1,145 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-07-01 05:14:04_
-_本檔包含 2893 則快訊，約 519375 字_
+_更新時間：2026-07-01 06:05:15_
+_本檔包含 2895 則快訊，約 519073 字_
+
+---
+
+### 2026-06-29 05:33:05  #市場
+
+【下游需求大增 儲能企業密集簽單】儲能市場景氣度持續走高。高工產研鋰電研究所釋出的資料顯示，截至6月28日，今年上半年已有35家儲能企業對外披露訂單簽約資料，累計簽約規模約550GWh（吉瓦時）。從月度走勢看，1月份至3月份簽約體量相對平穩，4月份至6月份訂單規模直線拉昇，行業呈現供不應求的狀態。
+
+---
+
+### 2026-06-29 05:32:49  #MKT News
+
+Germany's foreign minister held productive talks with the UAE deputy prime minister on Gulf security arrangements and risks posed by neighboring Iran. They said freedom of navigation in the Strait of Hormuz must not be impaired and described recent attacks on Bahrain and Kuwait as unacceptable.
+
+---
+
+### 2026-06-29 05:31:58  #其他
+
+【四川高縣5.5級地震致13人受傷 均為輕微傷已送醫診療】“宜賓釋出”微信公眾號訊息，據中國地震臺網正式測定：2026年6月29日0時12分，宜賓市高縣沙河鎮附近（北緯28.50度，東經104.69度）發生5.5級地震，震源深度6千米。地震發生後，宜賓市抗震救災指揮部啟動地震三級應急響應。市級相關部門、縣（區）迅速行動，及時開展災情排查和救災工作。截至2026年6月29日3時30分，此次地震未造成重大人員傷亡，因災受傷13人均為輕微傷，已及時送醫診療，緊急避險轉移和安置196人。目前，抗震救災各項工作正在緊張有序進行，當地社會秩序穩定。
+
+---
+
+### 2026-06-29 05:31:53  #其他
+
+英國海軍取消護衛艦建造計劃，重心轉向無人作戰裝備研發。
+
+---
+
+### 2026-06-29 05:30:52  #MKT News #Market Regions #Europe & UK
+
+【China-made cooling appliances see surge in European orders amid rare heatwave】A rare European heatwave—record highs in Germany and the Czech Republic and national high-temperature warnings in Hungary and Poland—has lifted demand for air conditioners, fans and other cooling products, boosting China-origin orders via cross-border e-commerce. The international trade director of a Ningbo-based joint-stock firm, Zheng Li, said ice machine shipments to Europe from January–May rose more than 70% YoY and now account for about 15% of the company's sales.
+
+---
+
+### 2026-06-29 05:30:35  #公司
+
+挪威加斯科公司：阿斯加德油田6月29日至30日發生非計劃停機，日輸氣量減少600萬立方米。
+
+---
+
+### 2026-06-29 05:22:40  #其他
+
+【巴基斯坦軍方在邊境展開反恐行動 打死29名武裝分子】當地時間29日凌晨，巴基斯坦新聞與廣播部長阿陶拉·塔拉爾在社交媒體發文稱，針對近期在巴境內連續發生的多起恐怖襲擊事件，巴基斯坦安全部隊28日在巴基斯坦與阿富汗邊境地區展開了一系列針對極端武裝組織“自由人黨”的精準軍事打擊行動，共打死29名武裝分子，同時銷燬了大量武器和彈藥。據巴軍方釋出的訊息，“自由人黨”在27日晚對位於卡拉奇的巴基斯坦遊騎兵部隊營地進行了汽車炸彈襲擊，並與巴安全部隊交火，造成3名巴軍人死亡。
+
+---
+
+### 2026-06-29 05:16:48  #其他
+
+【三條全球最大碳纖維產線同日投產 補齊高階材料短板】我國碳纖維產業創新發展再添里程碑。6月28日，中國建材三條世界級高效能碳纖維生產線在中復神鷹連雲港基地集中投產，覆蓋通用、高強、高模三大主流碳纖維品類。此次三條全球頂級產線集中投產，補齊國內高階碳纖維規模化產能短板，推動行業擺脫同質化規模競爭，向高階化、技術化轉型。
+
+---
+
+### 2026-06-29 05:13:57  #市場 #國際
+
+【熱門賽道遭拋售！華爾街重大警告】美股“AI交易”出現裂痕。據美銀證券的最新報告，截至6月24日當週，美國股票基金流出85億美元（約合人民幣574億元），這是投資者三個月來首次從美國股市撤資。其中，科技基金錄得93億美元（約合人民幣629億元）創紀錄流出，顯示美股“AI交易”正在降溫。美銀證券警告稱，近期超大規模雲端計算商與晶片股走勢嚴重分化，若科技巨頭破位下跌將加速資金洗牌，今夏美股市場或將全面轉入避險模式。
+
+---
+
+### 2026-06-29 05:13:52  #MKT News #XAUUSD #Impact bullish #DXY #WTI
+
+【Netanyahu, Katz say IDF to remain in southern Lebanon "security zone" after destroying Hezbollah underground facility】On the evening of the 28th, Prime Minister Netanyahu and Defense Minister Katz said the IDF destroyed Hezbollah underground military infrastructure in Majdal Zun village in southern Lebanon. The tunnel system exceeded 200m in length and 25m in depth and contained hundreds of weapons and several launch shafts the statement said, citing intent to strike Israeli territory and civilians. Israel notified the United States in advance. The statement said IDF commanders and troops will remain in the southern Lebanon "security zone" and continue to destroy armed infrastructure and neutralize threats to northern Israeli communities.
+
+---
+
+### 2026-06-29 05:13:41  #國際
+
+【以總理與防長髮表聯合宣告：以軍將繼續駐留在黎南部“安全區”】當地時間28日晚，以色列總理內塔尼亞胡與國防部長卡茨發表聯合宣告稱，以色列國防軍剛剛摧毀了位於黎巴嫩南部馬吉達勒宗村區域的黎巴嫩真主黨地下武裝基礎設施。根據宣告披露的細節，被摧毀的地下隧道長度超過200米，深度超過25米。隧道內藏有數百件武器以及數個發射井，這些設施此前意圖用於打擊以色列領土及其公民。宣告稱，在摧毀該基礎設施之前，以色列已向美國進行了提前通報。宣告表示，以軍指揮官和士兵將繼續駐留在黎巴嫩南部的“安全區”內，並將繼續摧毀武裝基礎設施、消除對以色列北部社群的威脅。（央視新聞）
+
+---
+
+### 2026-06-29 05:11:32  #公司
+
+【19家A股上市公司釋出上半年業績預告 多家公司預計淨利同比增長超100%】隨著6月接近尾聲，A股2026年半年報業績預告大幕已拉開。資料顯示，截至6月28日《證券日報》記者發稿時，已有19家A股上市公司預告上半年業績，其中，恆逸石化股份有限公司（以下簡稱“恆逸石化”）、衛星化學股份有限公司（以下簡稱“衛星化學”）、杭州長川科技股份有限公司（以下簡稱“長川科技”）、惠州億緯鋰能股份有限公司（以下簡稱“億緯鋰能”）等上市公司預計上半年歸屬於上市公司股東的淨利潤同比增長上限超100%，廣東銀禧科技股份有限公司（以下簡稱“銀禧科技”）、聖元環保股份有限公司（以下簡稱“聖元環保”）等上市公司預計上半年歸屬於上市公司股東的淨利潤同比增長上限超50%。
+
+---
+
+### 2026-06-29 05:01:52  #其他
+
+【英國下任首相熱門人選伯納姆公佈權力下放方案，削弱倫敦集權】有望接替斯塔默出任英國首相的工黨議員伯納姆，將於週一完整闡述其治國藍圖，承諾改革英國治理模式，將權力從倫敦下放至各地方區域。伯納姆本月剛贏得議會席位、重返威斯敏斯特宮，也是目前唯一正式宣佈參選、接替斯塔默的候選人，有望在數週內入主唐寧街首相府。伯納姆因擔任大曼徹斯特市長聲名鵲起。他將在週一的演講中，把向地方社群下放權力作為核心綱領。其辦公室表示，他還將推出一項為期十年的發展規劃，透過重振工業、興建住房、完善基建、改革公用事業提升民眾生活水平；整套方案的核心不只是更換執政者，而是徹底改變英國的治理方式。他將在演講中說明如何“讓英國重回應有地位”，為國家經濟按下“止跌開關”，同時承諾改革公共採購體系，更好扶持本土就業與產業。一旦就任，伯納姆將成為十年內英國第七任首相。黨內多數人士認為，唯有他兼具個人號召力與長遠規劃，既能爭取選民認同，也能遏制奈傑爾·法拉奇主打反移民政策的英國改革黨不斷壯大。
+
+---
+
+### 2026-06-29 04:58:55  #其他
+
+加拿大1比0戰勝南非。
+
+---
+
+### 2026-06-29 04:52:47  #其他
+
+英國首相熱門人選伯納姆將推出一份經濟轉型十年規劃。
+
+---
+
+### 2026-06-29 04:49:15  #國際
+
+伊朗國家電視臺：船舶通行霍爾木茲海峽仍需與革命衛隊協調；駛入波斯灣船隻的最安全航道位於伊朗霍爾木茲島南側；駛出波斯灣船隻的最安全航道位於伊朗拉臘克島南側。
+
+---
+
+### 2026-06-29 04:49:05  #國際
+
+【美官員：美伊計劃於30日在卡達首都舉行會談】一位美國高階官員透露，美伊雙方已同意停止相互攻擊，並計劃於6月30日在卡達首都舉行會晤，以解決關於霍爾木茲海峽的爭端。另一位美國官員表示，美伊雙方將“暫時”停止敵對行動，在技術性會談繼續進行的同時，霍爾木茲海峽“船只可以自由通行”。美國官員和另外的知情人士均證實了美伊計劃於30日舉行會晤。但截至目前，美伊雙方以及當前美伊談判的調解方巴基斯坦和卡達均未作出正式說明。（央視新聞）
+
+---
+
+### 2026-06-29 04:48:53  #國際
+
+伊朗外交部長：以色列從黎巴嫩撤軍並停止襲擊，這是與美國臨時協議所規定的；德黑蘭歡迎與包括伊拉克在內的阿拉伯國家就海灣安全磋商框架，並承諾擴大與巴格達新政府的雙邊關係。
+
+---
+
+### 2026-06-29 04:43:55  #國際
+
+斯洛維尼亞總統娜塔莎·皮爾茨·穆薩爾稱美以對伊朗發動戰事是“一步錯棋”，並表示她認為特朗普也意識到了這一點。 她對卡達在美國與伊朗之間開展斡旋所發揮的作用表示讚許，同時警示歐盟在國際舞臺上的影響力正不斷式微。
+
+---
+
+### 2026-06-29 04:43:27  #MKT News
+
+【Pakistan conducts intelligence-led ground operation along Afghanistan border, kills 29 militants】AP: Pakistani security forces on Sunday carried out an intelligence-led ground operation along the Pakistan-Afghanistan border, striking militant hideouts and killing 29 fighters, officials said. Authorities said the action responded to a series of militant attacks nationwide. A day earlier, gunmen with explosives attacked the Pakistan Rangers' regional headquarters in Karachi, killing three soldiers; security forces killed three attackers and detained another, whom the military said was an injured Afghan national. A splinter faction of the Pakistan Taliban calling itself the Free Men Party claimed responsibility for the Karachi attack.
+
+---
+
+### 2026-06-29 04:39:30  #其他
+
+【基金“中考”即將收官 有望創出歷史最佳業績】還有兩個交易日，今年公募基金“中考”即將收官。目前來看，上半年基金的業績有望創出歷史最佳紀錄。
+
+---
+
+### 2026-06-29 04:39:16  #其他
+
+【大眾計劃終止與博世的自動駕駛合作】德國《圖片報》報道稱，大眾與博世名為“自動駕駛聯盟”的聯合專案即將終止。此前，這份自動駕駛合作協議總規模約15億歐元。
+
+---
+
+### 2026-06-29 04:37:37  #國際
+
+伊拉克總理與伊朗外長阿拉格齊討論了伊朗-美國諒解備忘錄。
 
 ---
 
@@ -17375,131 +17513,5 @@ South African Rand Hovers Around 16.5 per USD — The South African rand has tra
 ### 2026-06-26 16:53:14  #公司 #焦點
 
 【至純科技：收到上海證監局警示函 因會計差錯導致2021-2024年財務資料不準確】至純科技公告，公司因存在會計差錯導致2021-2024年定期報告披露的財務資料不準確，收到上海證監局警示函。違規情形包括未將投資款確認為金融負債、房產作為投資性房地產核算不符合規定、未單獨列示合同負債和應收賬款等。公司已對會計差錯進行更正，行政監管措施不會影響公司正常經營管理活動。
-
----
-
-### 2026-06-26 16:53:00  #公司
-
-【機構：AI波動是暫時性回撥】裕信的克里斯蒂安·施托克爾在給客戶的一份報告中寫道，近期與人工智慧(AI)相關股票的波動，相當於投資者的一些獲利了結，而不是基本面的破裂。近幾個月來，投資者對半導體公司青睞有加，在對驅動AI資料中心的晶片需求未來幾年將保持強勁的預期下，推動這些公司的股價創下歷史新高。然而，隨著一些投資者開始質疑高估值和資本支出是否合理，這波漲勢在近幾周失去了動力。施托克爾說：“我們認為這是在長期AI增長趨勢依然完好的情況下的暫時性回撥。”
-
----
-
-### 2026-06-26 16:52:30  #其他
-
-【格式塔科技超聲波腦機介面超級工廠一期竣工投運】6月26日，格式塔科技全球總部暨超級工廠一期竣工投運儀式於成都舉辦。即日起，格式塔科技全球總部正式落地成都高新區天府國際生物城，全球首個超聲波腦機介面超級工廠同步落成投運。據格式塔方面介紹，本次投運的超級工廠一期，包括三類有源醫療器械、二類醫療器械的研發、生產、測試GMP廠房、包括萬級潔淨室，ESD電子組裝車間；同時配備科研實驗室，包括超聲實驗室、NeuroAI實驗室、電子實驗室、生化實驗室、動物實驗室等，可滿足格式塔科技2-3年內科研裝置、醫療器械的批次交付需求。
-
----
-
-### 2026-06-26 16:52:17  #公司
-
-【本末科技港股IPO獲中國證監會備案】中國證監會國際合作司釋出關於本末動力（北京）科技股份有限公司境外發行上市及境內未上市股份“全流通”備案通知書，公司擬發行不超過122,475,000股境外上市普通股並在香港聯合交易所上市。公司34名股東擬將所持合計319,588,080股境內未上市股份轉為境外上市股份，並在香港聯合交易所上市流通。
-
----
-
-### 2026-06-26 16:52:08  #公司
-
-【威勝資訊：首次回購0.10%公司股份，已支付資金總額為人民幣1487.83萬元】威勝資訊公告，2026年6月26日，公司透過上海證券交易所交易系統以集中競價交易方式首次回購公司股份50萬股，佔公司總股本的比例為0.10%，回購成交的最高價為29.99元/股，最低價為29.39元/股，支付的資金總額為人民幣1487.83萬元（不含印花稅、交易佣金等交易費用）。
-
----
-
-### 2026-06-26 16:52:04  #MKT News #Commodities #Industrial Metals #Copper #Impact bullish
-
-【Tengyuan Cobalt chair Luo Jie: AI competition extends beyond compute to critical minerals and advanced materials】Tengyuan Cobalt chair Luo Jie said at a forum that AI industry competition goes beyond compute power to include competition for critical minerals and high-end materials, citing cobalt, nickel, lithium and copper as foundational to AI deployment. She urged energy metals firms to increase R&D in high‑purity metals, green low‑carbon smelting and recycling technologies to strengthen a domestically controllable materials supply base for China’s AI industry.
-
----
-
-### 2026-06-26 16:51:58  #市場 #觀點
-
-【天娛數科6天4板 國泰海通證券武漢紫陽東路營業部淨買入1.07億元】6月26日，天娛數科漲停，走出6天4板，今日成交金額42.09億元。盤後龍虎榜資料顯示，活躍遊資國泰海通證券武漢紫陽東路營業部淨買入1.07億元，開源證券西安太華路營業部淨買入1.06億元，國泰海通證券上海松江區中山東路營業部淨買入9189.7萬元。
-
----
-
-### 2026-06-26 16:51:25  #公司 #焦點
-
-【上海物貿：因收入確認違規收到上海證監局行政監管措施決定書】上海物貿公告稱，近日收到上海證監局下發的決定書，公司存在違規情形。2022 - 2024年子公司百聯滬通整車批售業務不滿足總額法確認條件卻按總額法確認收入成本；2025年4月披露2024年度會計差錯更正時未對2022、2023年類似業務一併更正。上海證監局對公司責令改正，要求30日內提交書面整改報告；對時任董事長秦青林、寧斌，時任財務總監等許偉、趙洪出具警示函。公司將積極整改，本次決定書不影響正常經營。
-
----
-
-### 2026-06-26 16:51:09  #公司 #國際
-
-【調查：僅9%的日企運用AI取得超預期效果】在許多日本企業中，生成式人工智慧（AI）是否並未取得超出預期的成果？在由諮詢公司等構成的PwC日本集團釋出的針對6國企業的調查中，對於“AI效果大大超出預期”的回答比例，日本僅為9%，是所有國家中最低的。日本企業傾向於利用AI提升部分業務的效率，未來的課題似乎在於能否將其用於推動整體業務變革。
-
----
-
-### 2026-06-26 16:50:43  #公司
-
-【騰遠鈷業董事長羅潔：AI產業的競爭不止於算力 更是關鍵礦產與高階新材料的競爭】6月26日，由證券時報社主辦的第十七屆上市公司投資者關係管理論壇在深圳舉辦。騰遠鈷業董事長羅潔在會上表示，AI產業競爭的本質，除了算力競爭外，更是關鍵礦產與高階新材料的競爭，鈷、鎳、鋰、銅等能源金屬是整套AI產業落地的底層根基。她建議，能源金屬行業企業應加大高純金屬、綠色低碳冶煉、再生回收技術研發力度，夯實國內AI產業鏈材料自主可控供給底座。
-
----
-
-### 2026-06-26 16:50:04  #MKT News #Market Regions #Europe & UK #DAX #Impact bearish
-
-Germany's DAX fell as much as 1.00% intraday.
-
----
-
-### 2026-06-26 16:50:00  #國際
-
-【韓國財長：將下調第七輪成品油最高限價】韓國副總理兼財政經濟部長官具潤哲26日表示，將下調定於當天下午7時發表的第七輪成品油最高限價，但仍將維持最高限價制度，直至油價完全趨穩。
-
----
-
-### 2026-06-26 16:49:08  #公司 #國際
-
-【李在明：三艘滯留霍爾木茲韓船本週內將駛離】韓國總統李在明26日表示，在滯留霍爾木茲海峽的5艘韓國船隻中，除正在維修的海運公司HMM貨船“NAMU”號和1艘因貨物問題決定暫不離開的船隻外，其餘3艘預計將在本週末前駛離。
-
----
-
-### 2026-06-26 16:48:00  #公司
-
-【中國人保：非執行董事宋洪軍因年齡原因辭職】中國人保6月26日公告，公司董事會當天收到非執行董事宋洪軍的辭呈。因年齡原因，宋洪軍辭去本公司非執行董事、董事會戰略與投資/可持續發展委員會委員及風險管理與消費者權益保護委員會委員職務。本公司已按規定就選舉新任董事事項履行公司治理程式。新任董事任職資格尚待國家金融監督管理總局核准，在新任董事正式履職前，宋洪軍將繼續履職。宋洪軍已確認，其與本公司董事會、管理層無不同意見，亦沒有任何其他事項需要通知本公司股東。
-
----
-
-### 2026-06-26 16:47:36  #行業 #市場
-
-【乘聯分會：皮卡產銷呈現二季度的產銷拉昇特徵，5月出口走勢超強】乘聯分會發文稱，皮卡產銷呈現二季度的產銷拉昇特徵，5月出口走勢超強。2026年5月份皮卡市場銷售6.1萬輛，同比增16.3%，環比增長2.4%，處於近5年的當月次高位水平。26年1-5月銷量28.1萬輛，增長8.6%。2026年5月份皮卡生產為5.9萬輛，同比增長14.5%；26年1-5月皮卡生產28.0萬輛，增長10.1%。
-
----
-
-### 2026-06-26 16:46:53  #MKT News #Market Regions #Greater China #CNH #Impact bullish
-
-【SAFE: China May 2026 goods and services trade totaled 4.732 tln yuan】The State Administration of Foreign Exchange (SAFE) said May 2026 goods and services trade flows totaled 4.732 tln yuan. Exports were 2.598 tln yuan, imports 2.134 tln yuan, leaving a 464.4 bln yuan surplus. Services breakdown: travel 170.2 bln yuan, transport 141.3 bln, other business services 140.4 bln, telecom/computer/information services 63.8 bln. Measured in dollars, May exports were $379.9 bln, imports $312.0 bln, surplus $67.9 bln.
-
----
-
-### 2026-06-26 16:46:52  #其他
-
-【船舶資料顯示：卡達空載液化天然氣運輸船在霍爾木茲海峽掉頭折返】船舶追蹤資料顯示，卡達國有航運企業旗下空載液化天然氣運輸船 “烏姆斯拉勒” 號在霍爾木茲海峽掉頭，暫停駛入波斯灣的航程。另一艘空載液化天然氣船 “阿爾哈爾薩” 號，則在阿聯酋東部豪爾費坎錨地、霍爾木茲海峽入口附近停航。此前一艘貨輪遭遇襲擊，再度引發市場對海峽航運安全的擔憂，週四另有一艘液化天然氣運輸船在駛入海峽前掉頭返航。
-
----
-
-### 2026-06-26 16:46:34  #MKT News #Macro & Rates #DXY #Impact bullish
-
-【Crédit Agricole CIB: month-end dollar buying expected to be moderate】Crédit Agricole CIB said its month‑end pricing model points to moderate dollar buying ahead of the June 30 fix. The bank noted global equities were broadly strong in June and the dollar has risen across major currencies this month. After accounting for equity moves, market‑cap weights and FX performance, month‑end portfolio rebalancing flows are expected to be modestly USD‑buying overall, with the strongest buy signal against SEK. It warned qtr‑end and half‑year flows may also be active, so overlapping flows could raise volatility and complicate signals, particularly in the last one to two days around the London fix. Market participants should be cautious of sharp moves lacking fundamental support.
-
----
-
-### 2026-06-26 16:45:59  #公司
-
-【易明醫藥：獲得政府補助2728.79萬元】易明醫藥6月26日公告，公司近日收到政府補助2728.79萬元，佔公司2025年度經審計歸屬於上市公司股東淨利潤的29.47%。該補助與收益相關，計入2026年度其他收益，預計增加公司2026年度利潤總額2728.79萬元。
-
----
-
-### 2026-06-26 16:45:30  #其他
-
-【國家外匯管理局公佈2026年5月我國國際收支貨物和服務貿易資料】2026年5月，我國國際收支貨物和服務貿易進出口規模47320億元。其中，貨物和服務貿易出口25982億元，進口21338億元，順差4644億元。服務貿易主要專案為：旅行服務進出口規模1702億元，運輸服務進出口規模1413億元，其他商業服務進出口規模1404億元，電信、計算機和資訊服務進出口規模638億元。按美元計值，2026年5月，我國國際收支貨物和服務貿易出口3799億美元，進口3120億美元，順差679億美元。
-
----
-
-### 2026-06-26 16:45:17  #MKT News #Market Themes #AI Revolution #CNH #Impact bullish #CSI300 #Hang Seng Index
-
-【Former State Council Development Research Center deputy Wang Yiming says China to see revaluation, asset-allocation opportunities in 15th Five-Year Plan period】Wang Yiming said that despite current complex, intertwining factors and short-term market volatility, medium-to-long-term certainties remain. He flagged two drivers: productivity gains from a new technological revolution, with China positioned at the forefront of AI, and asset-allocation opportunities arising from adjustments in the international economic order.
-
----
-
-### 2026-06-26 16:45:09  #公司
-
-【ST金頂：披露股票被實施其他風險警示事項進展】ST金頂公告稱，因2025年度內部控制被審計機構出具否定意見報告，公司股票自2026年4月30日起被實施其他風險警示。公司採取多種措施積極解決問題，下屬子公司中輝金屬與中冶中礦買賣合同糾紛二審已審結，雙方達成調解協議，中冶中礦將分四期歸還1870萬元貨款及相應利息。公司還將進一步完善治理結構、強化內控管理等。若下一年度財務報告內部控制仍被出具否定意見，公司股票將被實施退市風險警示。
 
 ---

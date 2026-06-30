@@ -1,7 +1,175 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-07-01 05:14:04_
-_本檔包含 2850 則快訊，約 519182 字_
+_更新時間：2026-07-01 06:05:15_
+_本檔包含 2815 則快訊，約 519057 字_
+
+---
+
+### 2026-06-24 23:01:27  #MKT News #Important
+
+As of the 23:00 close, China's most-active futures contracts were mostly lower: 20# rubber fell over 5%; PET chips and PTA declined about 5%; synthetic rubber, p-xylene, rubber and propylene dropped more than 4%; LPG, polypropylene, short fiber and ethylene glycol fell over 3%. On the upside, coke rose just over 1%.
+
+---
+
+### 2026-06-24 23:01:24  #MKT News
+
+HKEX filings show Xiamen Ruiwei Information Technology Co., Ltd. has passed its listing hearing.
+
+---
+
+### 2026-06-24 23:01:18  #公司
+
+【華恒生物：實際控制人郭恆華因涉嫌非法吸收公眾存款罪被刑事拘留】華恒生物公告，公司於2026年6月24日收到實際控制人、董事長兼總經理郭恆華女士家屬告知，郭恆華因涉嫌非法吸收公眾存款罪被合肥市公安局蜀山分局刑事拘留，調查事項與公司經營無關。同日，郭恆華辭去公司董事長、總經理、董事及董事會下屬各專門委員會全部職務，辭職後不再擔任公司任何職務。公司緊急召開董事會，選舉並聘任樊義先生為公司董事長、總經理。公司主要業務為生物製造，不涉及非法吸收公眾存款，目前生產經營正常，該事項不會對日常經營活動產生重大不利影響。
+
+---
+
+### 2026-06-24 23:00:51  #MKT News #WTI #Impact bullish #Brent
+
+【Data show nearly 20% of vessels transiting Strait of Hormuz on Monday linked to Iran sanctions】Kpler shipping-tracking data show nine of 48 commercial vessels confirmed transiting the Strait of Hormuz on Monday — roughly 20% — had previously been sanctioned for energy shipments linked to Iran, Russia or Venezuela. An Iran-flagged bulk carrier, Warta, was tracked entering the Persian Gulf. Two Curaçao-flagged crude tankers, Asha and Lumina Ocean, were sailing along the strait's northern "Iran route." Curaçao-flagged tanker Titan and Botswana-flagged tanker Vigor also exited the strait on Monday.
+
+---
+
+### 2026-06-24 23:00:21  #公司 #市場
+
+【多隻場內LOF溢價率持續飆升，基金公司緊急實施“一日兩停”提示風險】6月24日，多隻場內LOF產品因溢價率持續飆升，引發市場高度關注。例如，全球晶片LOF溢價率超28%，財通福鑫定開混合的盤中溢價率更是一度逼近50%。面對極端行情，多家基金公司緊急啟動“一日兩停”管控措施，並密集釋出溢價風險提示公告，年內相關提示已超百份。與此同時，在微信、小紅書、抖音等平臺，有不少網友分享LOF套利“薅羊毛”攻略，“看完就懂，一天賺幾百，普通人也能複製，無痛套利……”等字眼看得人蠢蠢欲動。業內人士表示，高溢價本質上是非理性追漲情緒的反映，疊加部分產品流動性不足、個人投資者佔比過高，溢價回撥可能帶來淨值下跌與溢價收縮的雙重衝擊。對於普通投資者而言，盲目參與高溢價場內博弈風險極大，理性評估持倉、分批退出或選擇場外基金按淨值申購，或許是更為穩妥的選擇。（中國基金報）
+
+---
+
+### 2026-06-24 23:00:21  #國際
+
+【中國式現代化成就圖片展在莫斯科舉行】“命運與共 大道致遠”中國式現代化成就圖片展23日在中國駐俄羅斯大使館舉行。圖片展共展出40幅精選的新華社照片，呈現中國在經濟、社會、科技、文化等領域取得的歷史性、開創性成就。（新華社）
+
+---
+
+### 2026-06-24 23:00:17  #Trading Economics #Markets #Currency #Importance 1
+
+FX Updates: Norwegian Krone Depreciates by 0.79% — Top currency losers are Norwegian Krone (-0.79%), South Korean Won (-0.67%), Mexican Peso (-0.57%), British Pound (-0.43%), Euro (-0.36%) and Japanese Yen (-0.15%). Gains are led by Indian Rupee (0.45%) and Dollar Index (0.30%).
+
+---
+
+### 2026-06-24 23:00:02  #市場
+
+【夜盤期貨收盤】20號膠連續跌5.72%，PTA連續跌4.84%，天然橡膠連續跌4.09%，液化石油氣連續跌3.53%，聚丙烯連續跌3.43%。
+
+---
+
+### 2026-06-24 22:59:11  #公司
+
+【馮飛會見西門子能源總裁兼執行長克里斯蒂安·布魯赫】6月24日，省委書記馮飛在海口會見前來參加海南自由貿易港國際諮詢委員會委員聘任儀式暨第一次諮詢活動的西門子能源股份公司總裁兼執行長克里斯蒂安·布魯赫一行。馮飛歡迎克里斯蒂安·布魯赫一行。他表示，西門子能源是全球領先的能源技術公司，三十年來與海南“雙向奔赴”，特別是2025年12月18日海南自由貿易港全島封關運作當天，西門子能源在洋浦經濟開發區開建公司在華首個燃機總裝基地及服務中心，這也是海南自由貿易港全島封關運作後落地的首個製造業標誌性外資專案，充分彰顯了西門子能源長期關注海南、堅定投資海南的信心和決心。海南願與西門子能源聚焦建設綠色智慧產業叢集目標，在燃機制造、運維服務等綠色能源發展及相關產業生態建設等領域打造更多中歐、中德合作示範性引領專案，推動雙方合作向更深層次、更寬領域邁進，更好實現互利共贏。（海南釋出）
+
+---
+
+### 2026-06-24 22:58:30  #其他
+
+【蘇丹中部霍亂疫情嚴峻 一個多月來逾百人死亡】當地時間6月24日，世界衛生組織總幹事譚德塞表示，蘇丹中部西科爾多凡州霍亂疫情持續蔓延。自5月15日以來，當地累計報告734例疑似霍亂病例，其中105人死亡。譚德塞對科爾多凡地區不斷惡化的人道局勢表示擔憂。他指出，持續武裝衝突導致蘇丹衛生系統瀕臨癱瘓，是疫情快速傳播的重要原因。他還表示，世界衛生組織正與合作伙伴加強安全飲用水和衛生設施供應，設立霍亂治療中心，提前部署快速診斷試劑和藥品，以遏制疫情擴散。2023年4月15日，蘇丹武裝部隊與快速支援部隊在首都喀土穆爆發武裝衝突，戰火隨後蔓延至其他地區。持續三年多的武裝衝突造成至少5.9萬人死亡。（央視新聞）
+
+---
+
+### 2026-06-24 22:58:25  #公司
+
+【廈門瑞為資訊科技股份有限公司透過港交所上市聆訊】利弗莫爾證券顯示，廈門瑞為資訊科技股份有限公司更新聆訊後資料集，意味著該公司港交所IPO透過聆訊。
+
+---
+
+### 2026-06-24 22:57:38  #國際
+
+以色列國防軍：南部指揮部所屬以色列國防軍部隊根據停火協議繼續部署在加沙地帶南部，並將持續行動以消除任何威脅。
+
+---
+
+### 2026-06-24 22:56:42  #MKT News
+
+Israel Defense Forces said it killed Akram Muhammad Mahmoud Abu Mazi, a member of Hamas’s military wing it said was working to restore Hamas’s operational capabilities and planning attacks on IDF personnel and Israeli civilians.
+
+---
+
+### 2026-06-24 22:55:49  #國際
+
+市場訊息：航運追蹤資料顯示，週一穿越霍爾木茲海峽的商船中，近五分之一是因參與運輸伊朗石油而受到制裁的船隻。
+
+---
+
+### 2026-06-24 22:55:12  #其他
+
+英國6月氣溫打破紀錄，英格蘭南部錄得35.7攝氏度。
+
+---
+
+### 2026-06-24 22:54:51  #MKT News #Commodities #Energy #WTI #Impact bullish #Brent
+
+New York Post cited ship-tracking data showing that on Monday nearly one-fifth of merchant vessels transiting the Strait of Hormuz were sanctioned for carrying Iranian oil.
+
+---
+
+### 2026-06-24 22:54:24  #國際
+
+【日本擬未來14年投資2.3萬億美元 大舉押注AI與半導體】日本首相高市早苗公佈了日本經濟長期發展願景，計劃大規模投資人工智慧和半導體，以及國防、太空和造船等其他關鍵領域。根據週三在政策顧問小組會議後公佈的檔案，該計劃提出在截至2041年3月的14年間投資超過370萬億日元（2.3萬億美元），其中對人工智慧和晶片領域的支出將達到101.6萬億日元。高市早苗在介紹該計劃時表示，她希望打造一個“強大且繁榮的投資框架”。這份藍圖提出透過公共和私人投資相結合的方式實現目標，如果通脹走勢符合預期，政府預計將承擔略低於一半。這項投資路線圖示誌著高市早苗推動形成其增長戰略特色的重要一步。隨著技術變革和地緣政治緊張局勢重塑經濟優先事項，她正尋求引導資金流向有助於增強經濟安全的領域——從供應鏈韌性到關鍵技術，同時透過扶持新興產業提升日本的長期增長潛力。該計劃預計，到2040財年，半導體投資將帶來443萬億日元的經濟帶動效應，而物理人工智慧和垂直人工智慧投資預計將分別產生144萬億日元和222萬億日元的經濟溢位效應。
+
+---
+
+### 2026-06-24 22:54:07  #MKT News
+
+According to HKEX filings, Yikong Intelligent Driving Technology Co., Ltd. has passed its listing hearing.
+
+---
+
+### 2026-06-24 22:54:03  #公司
+
+【寧泉楊東警示AI泡沫】多份私募月報和致投資人信在市場引起熱議。特別是寧泉資產創始人楊東對AI熱門股估值和交易擁擠表達了強烈擔憂，持有擔憂心態的，也包括澤元投資實控人任文啟等價值派管理人；與此同時，復勝資產、源樂晟、東方港灣等機構仍認為AI產業趨勢沒有結束，只是行情內部需要重新篩選和動態跟蹤。這輪分歧中，楊東的公開信成為近期市場關注的焦點。他在信中坦言，今年公司業績沒有做好，要向持有人說一聲抱歉，並直言團隊“嚴重低估了AI基建主題能形成這麼大的泡沫”。但也提到，“我們不敢再參與了。因為我們沒有能力火中取栗、還有把握毫髮無傷地出來，冒這種風險是對持有人的不負責任。”
+
+---
+
+### 2026-06-24 22:52:16  #市場 #央行 #國際
+
+【機構：美元與收益率分化或反映美聯儲前景變化】隨著市場對美聯儲政策和地緣政治緊張局勢緩解作出反應，美元走強，而美債收益率下降。美聯儲上週釋放出令人驚訝的偏緊縮訊號，推動了對今年至少加息一次、甚至可能加息兩次的預期，這將對美元構成支撐。Naga.com的Frank Walbaum表示：“美元現貨價格可能會繼續對近期的加息風險作出反應。“與此同時，油價下跌緩解了對通貨膨脹的擔憂，令收益率承壓。Walbaum表示，美聯儲關於繼續抗擊通貨膨脹的承諾讓市場感到安心，即在潛在的緊縮政策之後，利率將會下降。華爾街日報美元指數上漲0.3%。10年期美債收益率報4.416%，隔夜曾觸及4.5%。
+
+---
+
+### 2026-06-24 22:52:10  #MKT News #Commodities #Energy #WTI #Impact bearish
+
+EIA: U.S. East Coast refinery utilization fell last week to its lowest level since April 2025.
+
+---
+
+### 2026-06-24 22:51:47  #國際
+
+以色列總理內塔尼亞胡：我們在黎巴嫩仍有工作要做。
+
+---
+
+### 2026-06-24 22:51:43  #公司
+
+【中企承建大型風電專案在塞爾維亞開工】由中企承建的一個大型風電專案24日在塞爾維亞北部城市阿利布納爾舉行開工儀式。當地政府、企業和金融機構代表，合作伙伴及媒體人士等百餘人出席活動。 阿利布納爾市長佐拉娜·布拉蒂奇在致辭中表示，這一風電專案對阿利布納爾市具有重要意義。專案建成將直接促進當地經濟發展，進一步提升電力系統穩定性。阿利布納爾市政府將繼續作為投資者值得信賴的合作伙伴，為專案順利實施提供必要支援。 承建該專案的三一重能股份有限公司（三一重能）方面表示，公司將以此專案為契機，持續深耕塞爾維亞市場，為當地能源綠色轉型和經濟社會可持續發展貢獻力量。 據悉，阿利布納爾風電專案包括40臺由三一重能自主研發、自主製造的風電機組，總裝機容量168兆瓦。專案建成投運後，將直接接入塞爾維亞國家電網，預計年均發電量約4.3億千瓦時，可滿足超過10萬戶城鎮家庭的全年用電需求。（新華社）
+
+---
+
+### 2026-06-24 22:51:43  #MKT News
+
+Israeli Prime Minister Netanyahu said Israel still has work to do in Lebanon.
+
+---
+
+### 2026-06-24 22:51:23  #市場
+
+美股部分光通訊概念股走強，康寧漲逾9%，Technologies漲逾6%。
+
+---
+
+### 2026-06-24 22:51:16  #MKT News #US10Y #Impact bearish #S&P500 #Impact bullish
+
+U.S. House Speaker Johnson said he expects President Trump to sign a housing bill within 10 days.
+
+---
+
+### 2026-06-24 22:51:13  #MKT News #DXY #Impact bullish #XAUUSD #WTI
+
+Israeli Prime Minister Netanyahu said Israel will not withdraw forces from Lebanese territory and will establish a security buffer zone in southern Lebanon to prevent Hezbollah from launching attacks on Israel.
+
+---
+
+### 2026-06-24 22:51:10  #國際
+
+美國眾議院院長約翰遜：預計特朗普將在10天內簽署住房法案。
 
 ---
 
@@ -16836,383 +17004,5 @@ FX Updates: Swedish Krona Drops by 1.25% — Top currency losers are Swedish Kro
 ### 2026-06-24 06:05:19  #其他
 
 馬斯克須在得州選民資金相關訴訟中出庭接受質詢。
-
----
-
-### 2026-06-24 06:01:50  #央行 #國際
-
-【美聯儲7月維持利率不變的機率為62.6%】據CME“美聯儲觀察”：美聯儲7月維持利率不變的機率為62.6%，累計加息25個基點的機率為37.4%。 美聯儲到9月維持利率不變的機率為29.8%，累計加息25個基點的機率為50.6%，累計加息50個基點的機率為19.6%。
-
----
-
-### 2026-06-24 06:01:45  #國際
-
-故障監測網站DownDetector：超1.8萬名使用者報告臉書服務出現異常，其中美國地區針對臉書的故障報告超2萬份。
-
----
-
-### 2026-06-24 06:01:18  #市場 #焦點
-
-標普500指數期貨上漲0.2%，納斯達克指數期貨上漲0.4%。
-
----
-
-### 2026-06-24 06:00:22  #國際
-
-【古巴外長批評美國收緊對古制裁】古巴外長羅德里格斯23日批評美國國務卿魯比奧進一步收緊對古巴制裁，稱驅使其採取相關行動的“是一種犯罪行為”。羅德里格斯當天在社交媒體上表示，在“一個不誠實、滿口謊言的國務卿”主導下，美國政府繼續加強對古巴經濟圍困。儘管面臨美國“無情打壓”以及針對古巴人民的“集體懲罰”，古巴經濟展現出的韌性、能力和效率都超出美方預期。（新華社）
-
----
-
-### 2026-06-24 06:00:19  #市場 #焦點
-
-紐約期金突破4130美元/盎司，日內跌0.47%。
-
----
-
-### 2026-06-24 05:59:24  #其他
-
-故障監測網站DownDetector：使用者報告反映英國境內Instagram與Facebook服務出現故障。
-
----
-
-### 2026-06-24 05:59:02  #公司 #市場 #觀點
-
-高盛公司將浪潮公司評級下調至賣出，目標價62.50元人民幣，即下跌2.3%。
-
----
-
-### 2026-06-24 05:58:06  #公司
-
-谷歌YouTube在加州第二次庭審前就社交媒體傷害兒童案與原告和解。
-
----
-
-### 2026-06-24 05:57:35  #國際
-
-故障監測網站DownDetector：使用者報告顯示美國境內Instagram與Facebook出現服務故障。
-
----
-
-### 2026-06-24 05:55:55  #市場
-
-Cerebras Systems的股價盤後延續跌勢，最新下跌10%，報203.66美元。
-
----
-
-### 2026-06-24 05:55:47  #公司 #國際
-
-【安全風險擔憂加劇，美國施壓Meta接受人工智慧審查】知情人士稱，特朗普政府正施壓Meta，要求其自願提交人工智慧模型接受審查，方便政府評估模型效能與安全漏洞。美方透過郵件向這家社交媒體巨頭提出該要求，當前政府正加大對人工智慧行業的監管力度。本月早些時候，美國政府以國家安全為由，強制Anthropic公司暫停境外人員呼叫其最先進人工智慧模型的許可權。Meta表示：“我們認同政府推動美國在安全可靠的前沿人工智慧領域保持領先地位的目標。相關細則仍在協商，我們希望儘快簽署相關協議。”在美國主流人工智慧技術開發商中，僅有Meta尚未與聯邦政府達成協議、自願上交模型供官方審查。
-
----
-
-### 2026-06-24 05:52:18  #其他
-
-剛果民主共和國表示，確診埃博拉病例已升至1094例，其中277例死亡。
-
----
-
-### 2026-06-24 05:46:41  #公司 #市場 #焦點 #國際
-
-【Alphabet納入道指，象徵意義遠大於實際影響】Alphabet入選道瓊斯工業平均指數，真正的深層意義在於這件事折射出美國企業格局的變遷。此次它取代威瑞森通訊納入該藍籌股指，意味著這一老牌指數終於跟上了市場大勢——多年來美股市場一直由大型科技龍頭主導。道瓊斯指數採用價格加權機制，而非標普500、納斯達克100那樣的市值加權，因此Alphabet在道指中無法擁有在後兩大指數里同等的權重影響力。2022年該科技巨頭完成1拆20股票拆分，掃清了長期阻礙其納入道指的門檻；拆分前其股價過高，一旦納入會嚴重扭曲指數走勢。跟蹤道指的基金雖需買入Alphabet股票、減持威瑞森，但對標該指數的資金體量相對有限，由此帶來的資金流動影響預計十分微弱。總而言之，此次調整更多隻是象徵層面的意義。
-
----
-
-### 2026-06-24 05:45:38  #MKT News #Star Stocks #Meta Platforms #Market Themes #Magnificent 7 #META.O
-
-Meta Platforms (META.O) said on the U.S. government AI review it hopes to sign an agreement as soon as possible while details are being worked out.
-
----
-
-### 2026-06-24 05:45:14  #MKT News #Star Stocks #Meta Platforms #Market Themes #AI Revolution #Magnificent 7 #META.O #Impact bullish
-
-Meta Platforms (META.O) said it supports the government's goal of promoting US leadership in powerful, secure frontier AI.
-
----
-
-### 2026-06-24 05:44:32  #MKT News #Commodities #Energy #Market Regions #Europe & UK
-
-Britain's National Grid ESO said it has issued a power margin notice to the market, adding the notice does not indicate any risk to electricity supply.
-
----
-
-### 2026-06-24 05:44:18  #國際
-
-特朗普計劃週三在國會大廈簽署住房法案。
-
----
-
-### 2026-06-24 05:43:56  #其他
-
-市場資訊：阿里爾·伊曼紐爾正洽談以60億美元收購倫敦西區與百老匯演藝巨頭ATG。
-
----
-
-### 2026-06-24 05:43:48  #MKT News #Commodities #Energy
-
-National Grid ESO said extreme temperatures are expected to leave electricity system margins very tight on Wednesday evening and asked market participants to make any available additional generation capacity available.
-
----
-
-### 2026-06-24 05:43:31  #國際
-
-Meta就美國政府人工智慧審查表態：目前我們仍在梳理細節，希望能儘快簽署協議。
-
----
-
-### 2026-06-24 05:43:05  #國際
-
-Meta：我們認同本屆政府的目標，即推動美國在穩健安全的前沿人工智慧領域保持領先地位。
-
----
-
-### 2026-06-24 05:42:18  #公司 #市場
-
-【Alphabet股價盤後上漲 將取代Verizon納入道指】Alphabet股價盤後上漲1.2%，該公司將取代Verizon Communications成為道瓊斯工業平均指數成分股，調整將於6月29日開盤前生效。Verizon股價下跌0.5%。
-
----
-
-### 2026-06-24 05:42:01  #MKT News #Star Stocks #Alphabet #Market Themes #Magnificent 7 #GOOGL.O #Impact bullish #VZ.N #Impact bearish
-
-Alphabet's Class A shares (GOOGL.O) rose more than 1% in after-hours trading and will replace Verizon (VZ.N) in the Dow Jones Industrial Average; Verizon fell about 0.6% in after-hours trading.
-
----
-
-### 2026-06-24 05:40:51  #公司
-
-Cerebras執行長：預計亞馬遜雲科技的影響將在2027年顯現。
-
----
-
-### 2026-06-24 05:40:45  #其他
-
-英國國家電網系統運營商：預報顯示，受極端高溫影響，週三晚間電力系統備用裕度將處於緊張狀態。
-
----
-
-### 2026-06-24 05:40:39  #公司
-
-英國國家能源系統運營商（NESO）：電價裕度公告並不意味著電力供應面臨風險。
-
----
-
-### 2026-06-24 05:40:29  #其他
-
-英國國家能源系統運營商（NESO）：正向市場參與者呼籲，將其可調配的額外發電容量全部投入運營。
-
----
-
-### 2026-06-24 05:37:17  #國際
-
-【黎真主黨：以色列必須從黎巴嫩領土完全撤出】黎巴嫩真主黨領導人卡西姆23日表示，以色列“別無選擇”，必須從黎巴嫩領土上完全撤出並全面落實停火協議。卡西姆當天在黎巴嫩首都貝魯特南郊舉行的一場活動上說，“任何理由都不能允許以色列繼續駐紮在黎巴嫩哪怕一寸土地上”。他還表示，以色列企圖消滅真主黨的計劃已經破滅。卡西姆強調，“抵抗力量”仍然是黎巴嫩實現解放、獨立和主權的唯一保障。他對伊朗在黎以衝突期間予以黎巴嫩和真主黨支援表示讚賞。（新華社）
-
----
-
-### 2026-06-24 05:33:42  #市場 #焦點
-
-【芝加哥期權交易所推出預測市場系列首批產品】芝加哥期權交易所全球市場上線其全新預測市場產品線的首批產品，其中包含基於小型標普500指數的二元期權合約。芝交所在宣告中稱，相關合約現已可在盈透證券交易，預計未來數月登陸嘉信理財平臺，後續也將陸續接入更多零售券商渠道。
-
----
-
-### 2026-06-24 05:32:40  #MKT News #Star Stocks #Meta Platforms #Market Themes #Magnificent 7 #META.O #Impact bearish
-
-NYT reports the US is pressuring Meta Platforms (META.O) to conduct an AI safety review amid rising security concerns.
-
----
-
-### 2026-06-24 05:32:27  #公司
-
-Cerebras首席財務官：公司利潤率將下滑10至15個百分點。
-
----
-
-### 2026-06-24 05:31:51  #國際
-
-美國監管機構向Meta施壓，要求其同意接受人工智慧安全審查。
-
----
-
-### 2026-06-24 05:31:22  #MKT News #Important
-
-Chicago Board Options Exchange (CBOE) has launched CBOE Predicts, a prediction-market platform, and will roll out initial products in a new series of prediction markets.
-
----
-
-### 2026-06-24 05:30:33  #其他
-
-聯邦快遞首席財務官：2026日曆年收入增長預測為11%，其中包含燃油附加費假設帶來3個百分點的收益。
-
----
-
-### 2026-06-24 05:30:25  #其他
-
-芝加哥期權交易所全球市場：將透過報價價差簿機制開放XSP垂直價差交易。
-
----
-
-### 2026-06-24 05:30:09  #公司 #焦點
-
-德國鐵路公司：受全國性鐵路數字無線系統中斷影響，目前所有列車均已停靠在車站待命。
-
----
-
-### 2026-06-24 05:29:55  #市場
-
-芝加哥期權交易所全球市場：盈透證券將上線該批二元期權合約，嘉信理財預計後續落地。
-
----
-
-### 2026-06-24 05:29:41  #市場
-
-芝加哥期權交易所全球市場推出小型標普500指數二元期權產品XSPBW與XSPBX。
-
----
-
-### 2026-06-24 05:28:39  #公司 #國際
-
-日本樂天執行長表示，合作方在該合資企業中的持股比例大致均等，但樂天集團將牽頭負責管理。
-
----
-
-### 2026-06-24 05:28:25  #公司
-
-樂天集團執行長日經表示，衛星直連智慧手機服務將自2026年底起分階段推出。
-
----
-
-### 2026-06-24 05:28:20  #其他
-
-Cerebras首席財務官表示：隨著雲容量部署擴容加速，全年下半年將帶來更多收入，預計2026年每個季度的同比增長率都將逐季提升。
-
----
-
-### 2026-06-24 05:28:08  #其他
-
-芝加哥期權交易所推出CBOE PREDICTS預測平臺，全新預測市場產品線首批產品正式上線。
-
----
-
-### 2026-06-24 05:27:48  #公司 #國際
-
-日本樂天集團將攜手美國初創企業AST SpaceMobile，在日本推出衛星直連手機通訊服務。
-
----
-
-### 2026-06-24 05:26:30  #國際
-
-美國最高法院裁定，石油巨頭埃克森美孚可就逾10億美元被沒收資產起訴古巴政府。
-
----
-
-### 2026-06-24 05:25:26  #觀點
-
-【摩根士丹利旗下70億美元私募信貸基金限制贖回 回購上限設為5%】摩根士丹利管理的一隻規模70億美元的私募信貸基金將贖回比例上限定為5%，意味著不到第二季度申請贖回比例的一半。據週二釋出的信函，North Haven Private Income Fund表示投資者申請贖回比例為11.6%，高於第一季度的10.9%。在規模達1.8萬億美元的私募信貸市場中，由於許多基金在上一季度限制投資者全額退出，本季度主要基金面臨的贖回申請普遍增加。摩根士丹利在信中表示，該基金第二季度超過一半的贖回申請來自上一季度未能全額贖回資金的投資者。
-
----
-
-### 2026-06-24 05:25:13  #公司
-
-聯邦快遞首席客戶官表示，該公司預計從8月開始將關稅退還款項全額轉遞給客戶。
-
----
-
-### 2026-06-24 05:24:59  #MKT News #HON.O #Impact bullish
-
-S&P Dow Jones Indices said Honeywell (HON.O) will remain in the Dow Jones Industrial Average.
-
----
-
-### 2026-06-24 05:24:17  #MKT News #Important #Star Stocks #Alphabet #Market Themes #Magnificent 7 #GOOGL.O #Impact bullish
-
-S&P Dow Jones Indices said the Dow Jones Industrial Average will add Alphabet Class A (GOOGL.O).
-
----
-
-### 2026-06-24 05:23:24  #市場
-
-標普道瓊斯指數： Alphabet Inc將於6月29日開盤前正式取代威瑞森通訊，成為道瓊斯工業平均指數成分股。
-
----
-
-### 2026-06-24 05:21:50  #公司 #國際
-
-Cerebras執行長：正就在以色列、阿聯酋、澳大利亞、新加坡、印度及印度尼西亞建設資料中心開展早期洽談。
-
----
-
-### 2026-06-24 05:21:31  #公司 #市場
-
-谷歌母公司Alphabet盤後漲超1%。
-
----
-
-### 2026-06-24 05:20:50  #公司 #市場
-
-谷歌母公司Alphabet（谷歌A）將被納入道瓊斯工業平均指數（道指）。
-
----
-
-### 2026-06-24 05:20:08  #公司
-
-聯邦快遞執行長：公司正有意向市場中收益率更高的業務板塊拓展。
-
----
-
-### 2026-06-24 05:19:45  #公司
-
-聯邦快遞執行長：在上一財年，聯邦快遞成功應對了包括貿易政策變動、MD-11貨機編隊停飛在內的“重大不利因素”。
-
----
-
-### 2026-06-24 05:19:27  #公司
-
-聯邦快遞執行長：預計在旺季來臨前讓全部MD-11機隊恢復運營。
-
----
-
-### 2026-06-24 05:19:13  #公司
-
-Cerebras執行長：截至本週，公司已與亞馬遜雲科技（AWS）達成最終協議，雙方將啟動技術協作，併為在亞馬遜雲科技的資料中心部署相關專案做準備。
-
----
-
-### 2026-06-24 05:18:47  #其他
-
-【法國高溫持續 埃菲爾鐵塔提前關閉】由於法國高溫天氣持續，埃菲爾鐵塔運營方宣佈，為保障遊客和工作人員安全，埃菲爾鐵塔於23日下午提前關閉。法國氣象局目前將54個省級行政區劃列為高溫紅色預警區域，約佔該國面積的一半。
-
----
-
-### 2026-06-24 05:18:28  #公司
-
-Cerebras執行長在電話會議上表示，OpenAI GPT 5.4目前已部署執行在Cerebras的AI系統上；作為下一階段部署計劃的一部分，公司正推動將GPT 5.5部署到Cerebras系統上。
-
----
-
-### 2026-06-24 05:17:42  #市場
-
-聯邦快遞高管：收益率提升得益於基準運價上漲與燃油附加費。
-
----
-
-### 2026-06-24 05:17:33  #市場
-
-標普道瓊斯指數：霍尼韋爾航空航天將納入標普500與標普100，其餘個股分別納入標普中型股400與標普小型股600。
-
----
-
-### 2026-06-24 05:17:13  #公司 #市場
-
-霍尼韋爾航空航天公司將納入標普500指數成分股。
-
----
-
-### 2026-06-24 05:15:15  #市場
-
-富時A50期指連續夜盤收漲0.45%，報15531點。
-
----
-
-### 2026-06-24 05:15:13  #MKT News #WTI #Impact bearish #Brent
-
-【Oman, IMO coordinate temporary sea lane through Strait of Hormuz】Oman announced early on the 24th it has coordinated with the International Maritime Organization to open a temporary sea lane through the Strait of Hormuz for all vessels, citing its responsibility for the strait and its importance to the global economy. The lane will operate under international law, including the United Nations Convention on the Law of the Sea, will not charge passage fees, and will follow navigational coordinates published by the IMO and Omani authorities; vessels must coordinate with the IMO in advance. Oman said the step reflects outcomes from US‑Iran negotiations and mediation efforts.
 
 ---

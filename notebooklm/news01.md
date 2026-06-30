@@ -1,7 +1,205 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-07-01 05:14:04_
-_本檔包含 2550 則快訊，約 519222 字_
+_更新時間：2026-07-01 06:05:15_
+_本檔包含 2561 則快訊，約 519292 字_
+
+---
+
+### 2026-07-01 06:04:03  #公司 #國際
+
+【財務披露顯示特朗普2025年加密貨幣收入至少14億美元】美國總統唐納德·特朗普的最新年度財務披露顯示，他在2025年透過加密貨幣及迷因幣相關業務獲得至少14億美元收入。特朗普報告稱從加密貨幣公司World Liberty Financial的銷售中獲得逾5.88億美元收入。該公司聯合創始人包括特朗普、他的兒子們以及政府高階外交官史蒂夫·威特科夫。威特科夫之子扎克·威特科夫擔任該公司執行長。特朗普的迷因幣業務CIC Digital LLC創造了6.36億美元的收入，其中絕大部分來自與Celebration Coins簽訂許可協議所獲得的版稅收入。CIC Digital還持有存在數字錢包中的價值至少6000萬美元的多種加密貨幣。特朗普還透過出售Stablecoin Holdco股權獲得近1.97億美元。美國政府道德辦公室週二公佈的這份長達927頁的檔案展示了特朗普龐大的商業版圖，包括他的酒店、高爾夫度假村和加密貨幣業務收入。
+
+---
+
+### 2026-07-01 06:03:09  #MKT News
+
+Mexico's economy minister said the government does not expect the US-Mexico-Canada Agreement (USMCA) to be repealed.
+
+---
+
+### 2026-07-01 06:02:23  #其他
+
+墨西哥經濟部長：我方認為《美墨加協定》不會被廢除。
+
+---
+
+### 2026-07-01 06:02:06  #市場 #央行 #國際
+
+【交易員加碼聯邦基金利率期貨空頭頭寸 冒險押注7月加息】聯邦基金利率市場交易員正在加大押注，認為美聯儲最早可能7月開始加息。這一此前難以想象的舉措可能會被一系列經濟資料打亂。下個月政策會議加息的機率仍然較低，利率互換目前定價反映約9個基點的加息幅度，相當於加息25個基點的機率約為36%。儘管如此，這一機率已明顯上升；在新任美聯儲主席凱文·沃什將重點轉向物價穩定之前，機率幾乎為零。自6月17日政策會議以來，8月聯邦基金利率期貨的未平倉合約 —— 即投資者持有的新交易頭寸規模 —— 迅速上升。新頭寸的快速累積總體偏向賣方，表明交易員正在做空該合約；如果加息機率繼續上升，此類持倉將受益。即使期權交易員此前還在尋求對沖市場已消化的加息次數，上述押注仍在升溫。這些押注最早可能在週四面臨考驗，屆時將公佈勞動力市場資料。任何就業增長減弱的跡象都可能削弱7月加息機率，從而令新建空頭頭寸面臨風險。
+
+---
+
+### 2026-07-01 06:00:40  #市場 #焦點
+
+現貨白銀突破59美元/盎司，日內漲0.22%。
+
+---
+
+### 2026-07-01 06:00:12  #央行 #國際
+
+【美聯儲7月維持利率不變的機率為66.3%】據CME“美聯儲觀察”：美聯儲7月維持利率不變的機率為66.3%，累計加息25個基點的機率為33.7%。 美聯儲到9月維持利率不變的機率為33.1%，累計加息25個基點的機率為50%，累計加息50個基點的機率為16.9%。
+
+---
+
+### 2026-07-01 06:00:07  #國際
+
+【卡達首相與美特使舉行會談，討論黎巴嫩問題】當地時間7月1日，卡達外交部宣佈，卡達首相兼外交大臣穆罕默德與美國特使史蒂夫·威特科夫和賈裡德·庫什納討論了地區局勢和黎巴嫩停火問題。（央視新聞）
+
+---
+
+### 2026-07-01 06:00:02  #市場
+
+紐約期銀日內跌1%，現報59.09美元/盎司。
+
+---
+
+### 2026-07-01 05:47:33  #MKT News #Important #Market Themes #Crypto Concepts
+
+【Trump 2025 financial disclosure lists >$1.2 BLN from crypto, $80 MLN in media settlements】The US Office of Government Ethics published a 927-page financial disclosure for Trump’s 2025 filing. It shows more than $580 MLN from a family-linked crypto project, World Liberty Financial, and $635 MLN from meme-coin sales—about $1.215 BLN combined. The filing also reports over $80 MLN received from settlements with multiple media companies, several million dollars in name-licensing fees from foreign property developers, and gifts exceeding $370k including 10 World Cup tickets and Super Bowl seats. It lists a statue valued at $250k depicting his raised-fist image after the Pennsylvania shooting.
+
+---
+
+### 2026-07-01 05:42:32  #MKT News
+
+U.S. President Trump said the midterm election convention is expected to take place Sept. 9-10.
+
+---
+
+### 2026-07-01 05:42:28  #其他
+
+【無緣世界盃16強 荷蘭隊主教練科曼宣佈辭職】當地時間6月30日，荷蘭足球隊主教練科曼宣佈辭去職務。科曼表示，荷蘭隊未能在2026年世界盃實現既定目標，作為主教練，他對此承擔全部責任。此前在2026年美加墨世界盃淘汰賽十六分之一決賽中，荷蘭隊經點球大戰不敵摩洛哥隊，無緣16強。
+
+---
+
+### 2026-07-01 05:40:39  #MKT News #AA.O #Impact bullish #S32.AX #Impact bearish
+
+Alcoa announced a $4.1 billion acquisition of South32’s bauxite, alumina and aluminum assets.
+
+---
+
+### 2026-07-01 05:40:35  #MKT News
+
+President Trump said the Republican Party will hold its midterm convention in Dallas, Texas.
+
+---
+
+### 2026-07-01 05:40:18  #公司
+
+亞馬遜：Kindle 翻譯功能現已支援英語與西班牙語、德語、法語、義大利語、葡萄牙語互譯。
+
+---
+
+### 2026-07-01 05:40:01  #焦點 #國際
+
+特朗普：共和黨中期選舉大會將在德克薩斯州達拉斯舉行。
+
+---
+
+### 2026-07-01 05:37:25  #公司 #國際
+
+美國鋁業公司：擬斥資 41 億美元收購南非 32 集團鋁土礦、氧化鋁及原鋁相關資產。
+
+---
+
+### 2026-07-01 05:37:08  #國際
+
+【兩名美國宇航員完成太空行走 更換機械臂故障部件】美國航空航天局6月30日表示，國際空間站兩名美國宇航員當天完成太空行走任務，更換空間站機械臂“加拿大臂2號”出現故障的關鍵部件，任務總共持續約7小時20分鐘。（新華社）
+
+---
+
+### 2026-07-01 05:36:50  #公司
+
+南非 32 集團向美鋁出售旗下全產業鏈鋁資產，交易總對價最高可達 56 億美元。
+
+---
+
+### 2026-07-01 05:35:27  #宏觀
+
+市場訊息：米格爾・戈麥斯將出任哥倫比亞新任財政部長。
+
+---
+
+### 2026-07-01 05:33:23  #公司
+
+耐克首席財務官：剔除關稅返還帶來的收益利好後，公司 26 財年第四季度至 27 財年前兩個季度盈利將大致持平。
+
+---
+
+### 2026-07-01 05:32:27  #其他
+
+耐克：預計 2027 財年營收將出現低至中個位數降幅，而此前市場預期為增長 0.4%。預計未來六個月市場環境難以出現實質性好轉。
+
+---
+
+### 2026-07-01 05:31:57  #公司 #市場
+
+【耐克盤後下跌 公司高管就需求發表謹慎言論】耐克公司股價週二盤後下跌，雖然最新季度業績超出預期，但其提振作用被公司高管謹慎的言論所抵消。該公司即將離任的首席財務官Matt Friend表示，耐克對產品去庫存的舉措“仍然面臨挑戰”，而執行長Elliott Hill指出營收增長面臨“不利因素”。截至5月31日的第四財季，該公司銷售額達110億美元。由於預期中的關稅相關退款，每股收益也超出預期，但匡威品牌的疲軟態勢依然持續。截至紐約時間下午4點55分，該股盤後下跌4%。截至週二收盤，該股今年已累計下跌36%。
+
+---
+
+### 2026-07-01 05:28:42  #市場
+
+穆迪針對聖文森及格瑞那丁主權評級：本次下調評級同時反映該國債務負擔持續攀升，管控難度日益加大。財政整頓進度不及預期，或進一步削弱其信用資質。 該國融資需求居高不下，而國內資金供給渠道卻日益收窄、資金來源高度集中。
+
+---
+
+### 2026-07-01 05:27:32  #MKT News #Important #DXY #Impact bullish #AUDUSD #USDJPY
+
+【FX 1H wrap: dollar weak then strong; Australian dollar outperforms】The dollar index (DXY) slid to 95.5 at the start of the year before rising above 101 by mid-year, up nearly 3% in 1H. Major pair moves in 1H: EUR/USD -2.7%; GBP/USD -1.4%; USD/CAD +3.4%; USD/CHF +2.0%; USD/JPY +3.8% (yen at a 40‑year low); NZD/USD -1.4%; AUD/USD +3.7% (notable outperformance). Offshore yuan (CNH) gained 2.7% vs USD. USD/RUB fell 0.5%. USD/MXN dropped nearly 3%, supported by elevated Mexican domestic interest rates.
+
+---
+
+### 2026-07-01 05:21:07  #MKT News #Important
+
+【Commodities 1H close: precious metals slump; oil still up >20%】Spot gold fell more than 7% in 1H, trading over $1,500 below its intra-year record high. Spot silver dropped about 18%, more than halving from its peak. Spot platinum declined over 24% and spot palladium nearly 25%. LME copper hit an intra-year high and gained 7% in the half; LME aluminium rose 3.7%. Despite retreating from geopolitically driven peaks, oil remains higher YTD—WTI +21.6%, Brent +20%.
+
+---
+
+### 2026-07-01 05:21:06  #MKT News
+
+U.S. Interior Secretary said President Trump effectively prevented World War III.
+
+---
+
+### 2026-07-01 05:21:04  #Trading Economics #Economy #Jamaica #GDP Annual Growth Rate #Importance 1
+
+Jamaica GDP Falls For Second Straight Quarter — Jamaica’s economy contracted 4.1% year-on-year in the first quarter of 2026, following a sharper 7.1% decline in the previous quarter, pointing to a slower pace of economic contraction. Nearly all sectors recorded declines, with only financial and insurance activities (2.9%) and manufacturing (0.6%) posting growth. The steepest drop came from mining and quarrying, which fell 23.5%, followed by agriculture, forestry and fishing (-18.3%), accommodation and food services (-16.6%), and utilities (-10.2%). On a quarter-on-quarter basis, the economy rebounded 3.3%, recovering part of the 7.3% contraction recorded in the previous quarter.
+
+---
+
+### 2026-07-01 05:20:03  #焦點 #國際
+
+特朗普披露超過10億美元加密貨幣相關收入。
+
+---
+
+### 2026-07-01 05:19:44  #公司
+
+耐克執行長：本財年運動服飾、喬丹潮流系列業績將持續承壓下滑，但下半年有望好轉。公司業務增長將不再侷限於跑步品類，訓練、籃球以及 ACG 系列板塊均會實現增長。
+
+---
+
+### 2026-07-01 05:19:07  #其他
+
+艾裡遜變速箱控股（ALSN）將納入標普中型股 400 指數，固特異輪胎橡膠（GT）將納入標普小型股 600 指數。
+
+---
+
+### 2026-07-01 05:16:13  #國際
+
+美國總統特朗普2025年度的財務報告稱，其在嘉信理財擁有超過 5000 萬美元的資產質押授信額度。
+
+---
+
+### 2026-07-01 05:15:38  #市場
+
+富時A50期指連續夜盤收漲0.18%，報15542點。
+
+---
+
+### 2026-07-01 05:14:25  #公司
+
+耐克執行長：公司正最佳化調整分銷網路規模，使其與市場需求匹配，並降低供應鏈成本。
 
 ---
 
@@ -622,6 +820,12 @@ Circle Internet收跌18%，創3月份以來最差單日表現。
 ### 2026-07-01 03:58:06  #MKT News #Commodities #Energy
 
 Iran parliament speaker Ghalibaf said Iranian oil is being sold at Brent and other international market prices.
+
+---
+
+### 2026-07-01 03:56:12  #其他
+
+【委內瑞拉地震死亡人數升至1943人】委內瑞拉全國代表大會主席豪爾赫·羅德里格斯30日表示，該國日前發生的兩次強震已造成1943人死亡、10571人受傷，28380人在醫療機構和野戰醫院接受救治。
 
 ---
 
@@ -15197,143 +15401,5 @@ WTI原油日內漲2%，現報70.77美元/桶。
 ### 2026-06-29 05:34:02  #MKT News #WTI #Impact bearish #XAUUSD #S&P500 #Impact bullish
 
 Germany's foreign minister said they held constructive talks with Israel's foreign minister on a framework agreement between Israel and Lebanon. The minister called the agreement a key step toward stability, said it must now be fully implemented, and described it as a genuine opportunity for durable de-escalation in the decades-long conflict.
-
----
-
-### 2026-06-29 05:33:05  #市場
-
-【下游需求大增 儲能企業密集簽單】儲能市場景氣度持續走高。高工產研鋰電研究所釋出的資料顯示，截至6月28日，今年上半年已有35家儲能企業對外披露訂單簽約資料，累計簽約規模約550GWh（吉瓦時）。從月度走勢看，1月份至3月份簽約體量相對平穩，4月份至6月份訂單規模直線拉昇，行業呈現供不應求的狀態。
-
----
-
-### 2026-06-29 05:32:49  #MKT News
-
-Germany's foreign minister held productive talks with the UAE deputy prime minister on Gulf security arrangements and risks posed by neighboring Iran. They said freedom of navigation in the Strait of Hormuz must not be impaired and described recent attacks on Bahrain and Kuwait as unacceptable.
-
----
-
-### 2026-06-29 05:31:58  #其他
-
-【四川高縣5.5級地震致13人受傷 均為輕微傷已送醫診療】“宜賓釋出”微信公眾號訊息，據中國地震臺網正式測定：2026年6月29日0時12分，宜賓市高縣沙河鎮附近（北緯28.50度，東經104.69度）發生5.5級地震，震源深度6千米。地震發生後，宜賓市抗震救災指揮部啟動地震三級應急響應。市級相關部門、縣（區）迅速行動，及時開展災情排查和救災工作。截至2026年6月29日3時30分，此次地震未造成重大人員傷亡，因災受傷13人均為輕微傷，已及時送醫診療，緊急避險轉移和安置196人。目前，抗震救災各項工作正在緊張有序進行，當地社會秩序穩定。
-
----
-
-### 2026-06-29 05:31:53  #其他
-
-英國海軍取消護衛艦建造計劃，重心轉向無人作戰裝備研發。
-
----
-
-### 2026-06-29 05:30:52  #MKT News #Market Regions #Europe & UK
-
-【China-made cooling appliances see surge in European orders amid rare heatwave】A rare European heatwave—record highs in Germany and the Czech Republic and national high-temperature warnings in Hungary and Poland—has lifted demand for air conditioners, fans and other cooling products, boosting China-origin orders via cross-border e-commerce. The international trade director of a Ningbo-based joint-stock firm, Zheng Li, said ice machine shipments to Europe from January–May rose more than 70% YoY and now account for about 15% of the company's sales.
-
----
-
-### 2026-06-29 05:30:35  #公司
-
-挪威加斯科公司：阿斯加德油田6月29日至30日發生非計劃停機，日輸氣量減少600萬立方米。
-
----
-
-### 2026-06-29 05:22:40  #其他
-
-【巴基斯坦軍方在邊境展開反恐行動 打死29名武裝分子】當地時間29日凌晨，巴基斯坦新聞與廣播部長阿陶拉·塔拉爾在社交媒體發文稱，針對近期在巴境內連續發生的多起恐怖襲擊事件，巴基斯坦安全部隊28日在巴基斯坦與阿富汗邊境地區展開了一系列針對極端武裝組織“自由人黨”的精準軍事打擊行動，共打死29名武裝分子，同時銷燬了大量武器和彈藥。據巴軍方釋出的訊息，“自由人黨”在27日晚對位於卡拉奇的巴基斯坦遊騎兵部隊營地進行了汽車炸彈襲擊，並與巴安全部隊交火，造成3名巴軍人死亡。
-
----
-
-### 2026-06-29 05:16:48  #其他
-
-【三條全球最大碳纖維產線同日投產 補齊高階材料短板】我國碳纖維產業創新發展再添里程碑。6月28日，中國建材三條世界級高效能碳纖維生產線在中復神鷹連雲港基地集中投產，覆蓋通用、高強、高模三大主流碳纖維品類。此次三條全球頂級產線集中投產，補齊國內高階碳纖維規模化產能短板，推動行業擺脫同質化規模競爭，向高階化、技術化轉型。
-
----
-
-### 2026-06-29 05:13:57  #市場 #國際
-
-【熱門賽道遭拋售！華爾街重大警告】美股“AI交易”出現裂痕。據美銀證券的最新報告，截至6月24日當週，美國股票基金流出85億美元（約合人民幣574億元），這是投資者三個月來首次從美國股市撤資。其中，科技基金錄得93億美元（約合人民幣629億元）創紀錄流出，顯示美股“AI交易”正在降溫。美銀證券警告稱，近期超大規模雲端計算商與晶片股走勢嚴重分化，若科技巨頭破位下跌將加速資金洗牌，今夏美股市場或將全面轉入避險模式。
-
----
-
-### 2026-06-29 05:13:52  #MKT News #XAUUSD #Impact bullish #DXY #WTI
-
-【Netanyahu, Katz say IDF to remain in southern Lebanon "security zone" after destroying Hezbollah underground facility】On the evening of the 28th, Prime Minister Netanyahu and Defense Minister Katz said the IDF destroyed Hezbollah underground military infrastructure in Majdal Zun village in southern Lebanon. The tunnel system exceeded 200m in length and 25m in depth and contained hundreds of weapons and several launch shafts the statement said, citing intent to strike Israeli territory and civilians. Israel notified the United States in advance. The statement said IDF commanders and troops will remain in the southern Lebanon "security zone" and continue to destroy armed infrastructure and neutralize threats to northern Israeli communities.
-
----
-
-### 2026-06-29 05:13:41  #國際
-
-【以總理與防長髮表聯合宣告：以軍將繼續駐留在黎南部“安全區”】當地時間28日晚，以色列總理內塔尼亞胡與國防部長卡茨發表聯合宣告稱，以色列國防軍剛剛摧毀了位於黎巴嫩南部馬吉達勒宗村區域的黎巴嫩真主黨地下武裝基礎設施。根據宣告披露的細節，被摧毀的地下隧道長度超過200米，深度超過25米。隧道內藏有數百件武器以及數個發射井，這些設施此前意圖用於打擊以色列領土及其公民。宣告稱，在摧毀該基礎設施之前，以色列已向美國進行了提前通報。宣告表示，以軍指揮官和士兵將繼續駐留在黎巴嫩南部的“安全區”內，並將繼續摧毀武裝基礎設施、消除對以色列北部社群的威脅。（央視新聞）
-
----
-
-### 2026-06-29 05:11:32  #公司
-
-【19家A股上市公司釋出上半年業績預告 多家公司預計淨利同比增長超100%】隨著6月接近尾聲，A股2026年半年報業績預告大幕已拉開。資料顯示，截至6月28日《證券日報》記者發稿時，已有19家A股上市公司預告上半年業績，其中，恆逸石化股份有限公司（以下簡稱“恆逸石化”）、衛星化學股份有限公司（以下簡稱“衛星化學”）、杭州長川科技股份有限公司（以下簡稱“長川科技”）、惠州億緯鋰能股份有限公司（以下簡稱“億緯鋰能”）等上市公司預計上半年歸屬於上市公司股東的淨利潤同比增長上限超100%，廣東銀禧科技股份有限公司（以下簡稱“銀禧科技”）、聖元環保股份有限公司（以下簡稱“聖元環保”）等上市公司預計上半年歸屬於上市公司股東的淨利潤同比增長上限超50%。
-
----
-
-### 2026-06-29 05:01:52  #其他
-
-【英國下任首相熱門人選伯納姆公佈權力下放方案，削弱倫敦集權】有望接替斯塔默出任英國首相的工黨議員伯納姆，將於週一完整闡述其治國藍圖，承諾改革英國治理模式，將權力從倫敦下放至各地方區域。伯納姆本月剛贏得議會席位、重返威斯敏斯特宮，也是目前唯一正式宣佈參選、接替斯塔默的候選人，有望在數週內入主唐寧街首相府。伯納姆因擔任大曼徹斯特市長聲名鵲起。他將在週一的演講中，把向地方社群下放權力作為核心綱領。其辦公室表示，他還將推出一項為期十年的發展規劃，透過重振工業、興建住房、完善基建、改革公用事業提升民眾生活水平；整套方案的核心不只是更換執政者，而是徹底改變英國的治理方式。他將在演講中說明如何“讓英國重回應有地位”，為國家經濟按下“止跌開關”，同時承諾改革公共採購體系，更好扶持本土就業與產業。一旦就任，伯納姆將成為十年內英國第七任首相。黨內多數人士認為，唯有他兼具個人號召力與長遠規劃，既能爭取選民認同，也能遏制奈傑爾·法拉奇主打反移民政策的英國改革黨不斷壯大。
-
----
-
-### 2026-06-29 04:58:55  #其他
-
-加拿大1比0戰勝南非。
-
----
-
-### 2026-06-29 04:52:47  #其他
-
-英國首相熱門人選伯納姆將推出一份經濟轉型十年規劃。
-
----
-
-### 2026-06-29 04:49:15  #國際
-
-伊朗國家電視臺：船舶通行霍爾木茲海峽仍需與革命衛隊協調；駛入波斯灣船隻的最安全航道位於伊朗霍爾木茲島南側；駛出波斯灣船隻的最安全航道位於伊朗拉臘克島南側。
-
----
-
-### 2026-06-29 04:49:05  #國際
-
-【美官員：美伊計劃於30日在卡達首都舉行會談】一位美國高階官員透露，美伊雙方已同意停止相互攻擊，並計劃於6月30日在卡達首都舉行會晤，以解決關於霍爾木茲海峽的爭端。另一位美國官員表示，美伊雙方將“暫時”停止敵對行動，在技術性會談繼續進行的同時，霍爾木茲海峽“船只可以自由通行”。美國官員和另外的知情人士均證實了美伊計劃於30日舉行會晤。但截至目前，美伊雙方以及當前美伊談判的調解方巴基斯坦和卡達均未作出正式說明。（央視新聞）
-
----
-
-### 2026-06-29 04:48:53  #國際
-
-伊朗外交部長：以色列從黎巴嫩撤軍並停止襲擊，這是與美國臨時協議所規定的；德黑蘭歡迎與包括伊拉克在內的阿拉伯國家就海灣安全磋商框架，並承諾擴大與巴格達新政府的雙邊關係。
-
----
-
-### 2026-06-29 04:43:55  #國際
-
-斯洛維尼亞總統娜塔莎·皮爾茨·穆薩爾稱美以對伊朗發動戰事是“一步錯棋”，並表示她認為特朗普也意識到了這一點。 她對卡達在美國與伊朗之間開展斡旋所發揮的作用表示讚許，同時警示歐盟在國際舞臺上的影響力正不斷式微。
-
----
-
-### 2026-06-29 04:43:27  #MKT News
-
-【Pakistan conducts intelligence-led ground operation along Afghanistan border, kills 29 militants】AP: Pakistani security forces on Sunday carried out an intelligence-led ground operation along the Pakistan-Afghanistan border, striking militant hideouts and killing 29 fighters, officials said. Authorities said the action responded to a series of militant attacks nationwide. A day earlier, gunmen with explosives attacked the Pakistan Rangers' regional headquarters in Karachi, killing three soldiers; security forces killed three attackers and detained another, whom the military said was an injured Afghan national. A splinter faction of the Pakistan Taliban calling itself the Free Men Party claimed responsibility for the Karachi attack.
-
----
-
-### 2026-06-29 04:39:30  #其他
-
-【基金“中考”即將收官 有望創出歷史最佳業績】還有兩個交易日，今年公募基金“中考”即將收官。目前來看，上半年基金的業績有望創出歷史最佳紀錄。
-
----
-
-### 2026-06-29 04:39:16  #其他
-
-【大眾計劃終止與博世的自動駕駛合作】德國《圖片報》報道稱，大眾與博世名為“自動駕駛聯盟”的聯合專案即將終止。此前，這份自動駕駛合作協議總規模約15億歐元。
-
----
-
-### 2026-06-29 04:37:37  #國際
-
-伊拉克總理與伊朗外長阿拉格齊討論了伊朗-美國諒解備忘錄。
 
 ---
