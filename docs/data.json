@@ -1,7 +1,23 @@
 {
-  "updated": "2026-07-01 00:30:07",
-  "count": 13924,
+  "updated": "2026-07-01 00:34:07",
+  "count": 13923,
   "items": [
+    {
+      "id": "4963508",
+      "time": "2026-07-01 00:31:15",
+      "tags": [
+        "其他"
+      ],
+      "text": "墨西哥總統辛鮑姆呼籲將《美墨加協定》延長16年。"
+    },
+    {
+      "id": "mkt:019f195e-50c7-7aab-8c3e-9d2a9f24a5bb",
+      "time": "2026-07-01 00:30:39",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Israel detains U.S. citizen 'suspected of espionage'】On the 30th (local time), Israeli security services said a U.S. citizen was detained in Jerusalem on suspicion of working for Iranian intelligence, including recording and photographing 'sensitive locations'. Israeli authorities are expected to file charges in the coming days."
+    },
     {
       "id": "4963507",
       "time": "2026-07-01 00:28:57",
@@ -127768,36 +127784,6 @@
         "其他"
       ],
       "text": "白宮釋出關於武器轉讓戰略的行政令。"
-    },
-    {
-      "id": "em:qqyh_ozyh:202606243780120724",
-      "time": "2026-06-24 00:32:23",
-      "tags": [
-        "央行",
-        "歐洲央行"
-      ],
-      "text": "【德意志銀行上調對短期美債收益率的預測】德意志銀行經濟學家MatthewRaskin、StevenZang和AndrewFu在週二的研報中寫道，經過上週的聯邦公開市場委員會會議後，該行如今預計美聯儲今年將分別在9月和12月加息，每次加息25個基點，使聯邦基金利率達到4.1%。報告指出，此次修正上調了該行對短期美債收益率的預測——預計年底2年期美債收益率將達到4.3%（較此前的預測上調35個基點）。鑑於該行假設到2028年年中加息將逐步撤回，因此對長債收益率的影響較為有限。德意志銀行目前預計年底10年期美債收益率為4.8%（較此前的預測上調10個基點）。與市場遠期相比，該行對短端收益率的預測大體一致，但對收益率曲線的預測更為陡峭。"
-    },
-    {
-      "id": "4950998",
-      "time": "2026-06-24 00:31:57",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "【德意志銀行上調對短期美債收益率的預測】德意志銀行經濟學家Matthew Raskin、Steven Zang和Andrew Fu在週二的研報中寫道，經過上週的聯邦公開市場委員會會議後，該行如今預計美聯儲今年將分別在9月和12月加息，每次加息25個基點，使聯邦基金利率達到4.1%。報告指出，此次修正上調了該行對短期美債收益率的預測 —— 預計年底2年期美債收益率將達到4.3%（較此前的預測上調35個基點）。鑑於該行假設到2028年年中加息將逐步撤回，因此對長債收益率的影響較為有限。德意志銀行目前預計年底10年期美債收益率為4.8%（較此前的預測上調10個基點）。與市場遠期相比，該行對短端收益率的預測大體一致，但對收益率曲線的預測更為陡峭。"
-    },
-    {
-      "id": "mkt:019ef552-829d-7dd8-b0df-999c8f1d9dcc",
-      "time": "2026-06-24 00:31:25",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "【Pakistan PM says 'spoilers' trying to derail US-Iran talks】Pakistan Prime Minister Shehbaz Sharif told Al Jazeera that unspecified \"spoilers\" are trying to sabotage a US‑Iran agreement and the progress achieved. \"There are spoilers across the world who want to destroy this peace agreement,\" he said without naming countries or parties, adding they \"do not want Iran to rise from the ruins of war to a glorious peak.\""
     }
   ]
 }
