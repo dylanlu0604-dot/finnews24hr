@@ -1,6 +1,392 @@
 {
-  "updated": "2026-06-29 07:04:40",
+  "updated": "2026-07-01 00:05:58",
   "items": [
+    {
+      "id": "20260630",
+      "date": "2026-06-30",
+      "range_start": "2026-06-29 07:00:00",
+      "range_end": "2026-06-30 07:00:00",
+      "generated_at": "2026-07-01 00:05:58",
+      "schema_version": 7,
+      "count": 96,
+      "headline": "主要央行施政策略分歧，美聯儲準備改革，歐央行維持觀望",
+      "central_banks": [
+        {
+          "id": "fed",
+          "name": "美國聯準會 Fed",
+          "status": "追蹤中",
+          "officials": [
+            {
+              "official": "沃許",
+              "venue": "來源未提供具體場合",
+              "analysis": "沃許主席近期多次透露將推動多維度的美聯儲內部改革，特別是設立五個專門工作組來檢視政策執行與策略，反映其上任後積極改革的立場。其發言透露出將重視溝通策略、資產負債表管理、資料優先排序、生產力與就業分析，以及通膨模型的全面刷新，預計年底前完成審議。本次沒有決議發布，市場仍聚焦於未來潛在政策路徑與央行結構調整。",
+              "details": [
+                {
+                  "title": "發言時間與場合",
+                  "text": "2026年6月初致信美聯儲員工，未明示公開演講場合，公開媒體報導中多次提及。"
+                },
+                {
+                  "title": "可驗證原文重點",
+                  "text": "沃許主席承諾推動公開且清醒的討論，設立五個重點工作組，針對溝通方式、6.7萬億美元資產組合、資料來源、就業與生產力趨勢、通膨判斷模型。"
+                },
+                {
+                  "title": "政策背景",
+                  "text": "美聯儲面臨高通膨壓力與市場質疑，沃許上任後強調組織及策略改革以提升透明度與政策效率。"
+                },
+                {
+                  "title": "利率立場",
+                  "text": "未於發言中明確提及調整利率，但強化貨幣政策策略體系暗示鷹派持續。"
+                },
+                {
+                  "title": "通膨/就業提及",
+                  "text": "特別工作組涵蓋勞動市場與生產力趨勢，顯示對就業市場與通膨根源的重視。"
+                },
+                {
+                  "title": "反應函數含意",
+                  "text": "改革工作指向加強政策執行與資料驅動決策，可能影響未來政策決定透明度與市場預期調整。"
+                },
+                {
+                  "title": "政策含義",
+                  "text": "中長期看，該措施有助提升美聯儲策略彈性與溝通效率，短期無立即利率變動。"
+                },
+                {
+                  "title": "市場解讀",
+                  "text": "市場對美聯儲繼續鷹派立場有所警惕，加息可能持續，年底加息概率逾七成。"
+                },
+                {
+                  "title": "資料限制",
+                  "text": "無具體會議紀錄或政策聲明細則，僅依公開媒體與官方信函整理。"
+                }
+              ]
+            }
+          ],
+          "expectations": [],
+          "reports": [],
+          "policy_release": {
+            "has_release": false,
+            "summary": "",
+            "decision": [],
+            "statement": [],
+            "economic_view": [],
+            "forward_guidance": [],
+            "press_conference": [],
+            "market_reaction": []
+          }
+        },
+        {
+          "id": "ecb",
+          "name": "歐洲央行 ECB",
+          "status": "追蹤中",
+          "officials": [
+            {
+              "official": "卡扎克斯",
+              "venue": "來源未提供具體場合",
+              "analysis": "歐洲央行管委卡扎克斯近期表態觀點穩健，指出目前歐洲央行無須急於多次升息，認為負面經濟衝擊概率已明顯降低，且衝擊規模縮小減少二次效應風險，顯示ECB對經濟穩定性持審慎樂觀態度。此次並無政策決議發布，市場因而觀察ECB後續的加息節奏及通膨走向。",
+              "details": [
+                {
+                  "title": "發言時間與場合",
+                  "text": "2026年6月底，場景未明，公開媒體報導摘錄其談話重點。"
+                },
+                {
+                  "title": "可驗證原文重點",
+                  "text": "卡扎克斯表示歐洲央行目前無需倉促進行多輪加息，負面經濟風險機率大幅下降，較小衝擊減少二次影響。"
+                },
+                {
+                  "title": "政策背景",
+                  "text": "ECB面臨能源價格回落與通膨放緩壓力，貨幣政策仍需兼顧通膨目標與經濟成長承受度。"
+                },
+                {
+                  "title": "利率立場",
+                  "text": "傾向觀望節奏，避免過快加息，政策立場較為中性偏鴿。"
+                },
+                {
+                  "title": "通膨/就業提及",
+                  "text": "談話隱含對通膨趨勢審慎評估，未直接提及就業。"
+                },
+                {
+                  "title": "反應函數含意",
+                  "text": "降低政策急轉風險，平穩市場預期，有利維持金融穩定。"
+                },
+                {
+                  "title": "政策含義",
+                  "text": "ECB可能將採漸進式政策調整，避免過度緊縮損及經濟成長。"
+                },
+                {
+                  "title": "市場解讀",
+                  "text": "歐元區債券收益率及信貸增長回升，反映市場對ECB政策延續保持信心。"
+                },
+                {
+                  "title": "資料限制",
+                  "text": "缺乏完整會議記錄和正式政策聲明，解讀依據公開報導與媒體摘錄。"
+                }
+              ]
+            }
+          ],
+          "expectations": [],
+          "reports": [],
+          "policy_release": {
+            "has_release": false,
+            "summary": "",
+            "decision": [],
+            "statement": [],
+            "economic_view": [],
+            "forward_guidance": [],
+            "press_conference": [],
+            "market_reaction": []
+          }
+        },
+        {
+          "id": "boe",
+          "name": "英國央行 BoE",
+          "status": "追蹤中",
+          "officials": [
+            {
+              "official": "皮爾",
+              "venue": "來源未提供具體場合",
+              "analysis": "英國央行首席經濟學家皮爾就近期通膨及利率政策發表見解，指出貨幣政策過往幾年未達到足夠緊縮，且脫歐使英國更容易陷入持續通膨循環，強調短、中期通膨預期在壓力環境中作用加大。其投票支持加息至4%以抑制通膨，但警告能源價格等因素仍有可能助長更高通膨。整體觀點看來偏向鷹派，未見貨幣政策決議發布。",
+              "details": [
+                {
+                  "title": "發言時間與場合",
+                  "text": "2026年6月底，媒體報導與官方評論摘錄，無具體公開演講場合。"
+                },
+                {
+                  "title": "可驗證原文重點",
+                  "text": "皮爾表示他在最近兩次決策會議中投票支持將英國基準利率提高至4%。"
+                },
+                {
+                  "title": "政策背景",
+                  "text": "英國面臨高通膨壓力，且脫歐可能令通膨形成自我強化循環。"
+                },
+                {
+                  "title": "利率立場",
+                  "text": "其立場偏鷹派，支持加息以控制通膨，反對過度依賴通膨下降的寬鬆政策。"
+                },
+                {
+                  "title": "通膨/就業提及",
+                  "text": "強調通膨高於2%目標的風險，未明確提及就業。"
+                },
+                {
+                  "title": "反應函數含意",
+                  "text": "若能源價格持續居高，通膨壓力可能難以緩解，需嚴肅對待。"
+                },
+                {
+                  "title": "政策含義",
+                  "text": "英國央行短期內保持鷹派態度，警惕通膨回升風險。"
+                },
+                {
+                  "title": "市場解讀",
+                  "text": "通膨預期短期可能難以大幅下降，市場對英國央行加息路徑持續觀望。"
+                },
+                {
+                  "title": "資料限制",
+                  "text": "缺少完整記錄與公開會議資料，內容來自媒體採訪與報導。"
+                }
+              ]
+            }
+          ],
+          "expectations": [],
+          "reports": [],
+          "policy_release": {
+            "has_release": false,
+            "summary": "",
+            "decision": [],
+            "statement": [],
+            "economic_view": [],
+            "forward_guidance": [],
+            "press_conference": [],
+            "market_reaction": []
+          }
+        },
+        {
+          "id": "boj",
+          "name": "日本央行 BoJ",
+          "status": "追蹤中",
+          "officials": [],
+          "expectations": [],
+          "reports": [],
+          "policy_release": {
+            "has_release": false,
+            "summary": "",
+            "decision": [],
+            "statement": [],
+            "economic_view": [],
+            "forward_guidance": [],
+            "press_conference": [],
+            "market_reaction": []
+          }
+        },
+        {
+          "id": "rba",
+          "name": "澳洲聯儲 RBA",
+          "status": "追蹤中",
+          "officials": [
+            {
+              "official": "肯特",
+              "venue": "來源未提供具體場合",
+              "analysis": "肯特副總裁表達澳洲聯儲已通過評估替代貨幣政策工具增強應對未來危機能力，現階段現金利率依舊是首要政策工具。強調其他工具雖能提供額外支持，但使用複雜且風險較高。MPC更新輔助工具框架，面對低利率環境時，聯儲容忍通膨低於2-3%目標的意願可能下降。提及如有通縮衝擊，聯儲可能更快速且幹練地下調利率以回應，顯示政策策略具備靈活性與前瞻意識，無當日政策決議。",
+              "details": [
+                {
+                  "title": "發言時間與場合",
+                  "text": "2026年6月底，媒體報導與評論摘錄，未指明公開場合。"
+                },
+                {
+                  "title": "可驗證原文重點",
+                  "text": "肯特說現金利率仍是主要工具，替代措施支持有限且風險較大。"
+                },
+                {
+                  "title": "政策背景",
+                  "text": "澳洲聯儲面對通膨不確定和低利率風險，需準備多元框架應對未來波動。"
+                },
+                {
+                  "title": "利率立場",
+                  "text": "強調現金利率為政策核心，具備提前與果斷調整利率的空間。"
+                },
+                {
+                  "title": "通膨/就業提及",
+                  "text": "明確提到通膨目標區間為2%-3%，可能降低容忍通膨低於此範圍的態度。"
+                },
+                {
+                  "title": "反應函數含意",
+                  "text": "預期如遭遇通縮，將快速下調利率以穩定經濟，貨幣政策工具具彈性。"
+                },
+                {
+                  "title": "政策含義",
+                  "text": "澳洲聯儲重視政策工具多元化與靈活運用，不急於用非常態措施。"
+                },
+                {
+                  "title": "市場解讀",
+                  "text": "此種政策框架增強市場對澳洲貨幣政策反應能力的信心。"
+                }
+              ]
+            }
+          ],
+          "expectations": [],
+          "reports": [],
+          "policy_release": {
+            "has_release": false,
+            "summary": "",
+            "decision": [],
+            "statement": [],
+            "economic_view": [],
+            "forward_guidance": [],
+            "press_conference": [],
+            "market_reaction": []
+          }
+        },
+        {
+          "id": "boc",
+          "name": "加拿大央行 BoC",
+          "status": "追蹤中",
+          "officials": [],
+          "expectations": [],
+          "reports": [],
+          "policy_release": {
+            "has_release": false,
+            "summary": "",
+            "decision": [],
+            "statement": [],
+            "economic_view": [],
+            "forward_guidance": [],
+            "press_conference": [],
+            "market_reaction": []
+          }
+        },
+        {
+          "id": "rbi",
+          "name": "印度央行 RBI",
+          "status": "追蹤中",
+          "officials": [],
+          "expectations": [],
+          "reports": [],
+          "policy_release": {
+            "has_release": false,
+            "summary": "",
+            "decision": [],
+            "statement": [],
+            "economic_view": [],
+            "forward_guidance": [],
+            "press_conference": [],
+            "market_reaction": []
+          }
+        },
+        {
+          "id": "bcb",
+          "name": "巴西央行 BCB",
+          "status": "追蹤中",
+          "officials": [],
+          "expectations": [],
+          "reports": [],
+          "policy_release": {
+            "has_release": false,
+            "summary": "",
+            "decision": [],
+            "statement": [],
+            "economic_view": [],
+            "forward_guidance": [],
+            "press_conference": [],
+            "market_reaction": []
+          }
+        },
+        {
+          "id": "snb",
+          "name": "瑞士央行 SNB",
+          "status": "追蹤中",
+          "officials": [
+            {
+              "official": "喬丹",
+              "venue": "來源未提供具體場合",
+              "analysis": "瑞士央行主席喬丹於近日發言中，未具體發布政策決議，詳述內容有限，但其立場傾向維持現有政策，密切關注金融脆弱性與通膨壓力對經濟的影響。強調中央銀行需警惕金融市場風險，尤其是AI泡沫破裂與通膨壓力可能引發的金融波動，並指出全球經濟韌性正在受到挑戰。此觀點反映瑞士央行在複雜多變的國際環境中持續謹慎，無推進迅速緊縮，暗示政策暫穩。",
+              "details": [
+                {
+                  "title": "發言時間與場合",
+                  "text": "2026年6月底，媒體公開摘錄報導，無具體演講或會議場合。"
+                },
+                {
+                  "title": "可驗證原文重點",
+                  "text": "喬丹表達對人工智慧泡沫破裂、通膨和財政壓力帶來金融風險的高度關注。"
+                },
+                {
+                  "title": "政策背景",
+                  "text": "全球多重風險因素交叉，包括AI科技投資泡沫及外部通膨衝擊。"
+                },
+                {
+                  "title": "利率立場",
+                  "text": "無明確利率調整訊號，政策偏向持續觀察與謹慎。"
+                },
+                {
+                  "title": "通膨/就業提及",
+                  "text": "重點放在通膨壓力對金融穩定的潛在影響，未直接深入就業。"
+                },
+                {
+                  "title": "反應函數含意",
+                  "text": "強調央行在面對金融泡沫風險時將維持警覺態度。"
+                },
+                {
+                  "title": "政策含義",
+                  "text": "瑞士央行暫不急於調整政策利率，更注重風險監控。"
+                },
+                {
+                  "title": "市場解讀",
+                  "text": "市場對瑞士利率政策走向維持觀望，無顯著短期變動預期。"
+                }
+              ]
+            }
+          ],
+          "expectations": [],
+          "reports": [],
+          "policy_release": {
+            "has_release": false,
+            "summary": "",
+            "decision": [],
+            "statement": [],
+            "economic_view": [],
+            "forward_guidance": [],
+            "press_conference": [],
+            "market_reaction": []
+          }
+        }
+      ]
+    },
     {
       "id": "20260629",
       "date": "2026-06-29",
@@ -9061,356 +9447,6 @@
                 {
                   "title": "資料限制",
                   "text": "喬丹無具體演講或發言稿，分析建基於市場報告和觀察。"
-                }
-              ]
-            }
-          ],
-          "expectations": [],
-          "reports": [],
-          "policy_release": {
-            "has_release": false,
-            "summary": "",
-            "decision": [],
-            "statement": [],
-            "economic_view": [],
-            "forward_guidance": [],
-            "press_conference": [],
-            "market_reaction": []
-          }
-        }
-      ]
-    },
-    {
-      "id": "20260609",
-      "date": "2026-06-09",
-      "range_start": "2026-06-08 07:00:00",
-      "range_end": "2026-06-09 07:00:00",
-      "generated_at": "2026-06-09 07:05:03",
-      "schema_version": 7,
-      "count": 188,
-      "headline": "美聯儲穩利率，歐洲央行預期六月加息25基點",
-      "central_banks": [
-        {
-          "id": "Fed",
-          "name": "美國聯準會 Fed",
-          "status": "追蹤中",
-          "officials": [
-            {
-              "official": "沃許",
-              "venue": "來源未提供具體場合",
-              "analysis": "沃許作為美聯儲主席在即將主持其首次FOMC會議前，外界高度關注其政策立場。儘管目前市場普遍認為6月維持利率不變，但強勁的美國就業數據增強了年底前加息的可能性，沃許的觀點將是政策路徑的重要參考。特朗普公開反對加息，增加政治壓力，但沃許準備以經濟數據為依據審慎判斷。",
-              "details": [
-                {
-                  "title": "發言時間與場合",
-                  "text": "原文未透露沃許具體公開發言場合，但明確指出他將首次主持6月17日的FOMC會議。"
-                },
-                {
-                  "title": "美國非農數據影響",
-                  "text": "5月非農新增17.2萬，遠超預期，顯示勞動力市場強韌，增强美聯儲年底加息預期。"
-                },
-                {
-                  "title": "利率政策展望",
-                  "text": "市場加息概率迅速增加，6月可能維持利率不變，但年底前加息機率明顯提升。"
-                },
-                {
-                  "title": "政治因素挑戰",
-                  "text": "特朗普公開批評加息，稱加息為錯誤，但沃許需平衡政治及經濟因素，強調數據依賴。"
-                },
-                {
-                  "title": "通膨壓力認知",
-                  "text": "能源價格上升帶來通膨上行風險，政策需關注抑制通膨持久性。"
-                },
-                {
-                  "title": "市場反應",
-                  "text": "美元指數因加息預期接近兩個月高點，債券收益率上升、非農強勁推動交易員重新預期加息。"
-                },
-                {
-                  "title": "資產負債表操作",
-                  "text": "已執行約18.32億美元逆回購，反映維持流動性工具操作。"
-                },
-                {
-                  "title": "市場定價與風險",
-                  "text": "CME FedWatch顯示6月保持利率不變概率約98%，但年底前加息機率已提升至約五成。"
-                }
-              ]
-            }
-          ],
-          "expectations": [
-            "市場普遍認為6月FOMC將維持利率不變，年底前加息25個基點的概率提升至約50%，反映強勁就業數據及通膨壓力加大。",
-            "交易員押注美聯儲年底前加息，10年期美債收益率上漲至約4.56%，美元指數升至100附近。"
-          ],
-          "reports": [],
-          "policy_release": {
-            "has_release": false,
-            "summary": "",
-            "decision": [],
-            "statement": [],
-            "economic_view": [],
-            "forward_guidance": [],
-            "press_conference": [],
-            "market_reaction": []
-          }
-        },
-        {
-          "id": "ECB",
-          "name": "歐洲央行 ECB",
-          "status": "追蹤中",
-          "officials": [
-            {
-              "official": "拉加德",
-              "venue": "來源未提供具體場合",
-              "analysis": "行長拉加德在本週四即將舉行的貨幣政策會議備受市場關注。市場普遍預期ECB將進行25個基點的預防性加息，旨在應對因高能源價格引發的通膨風險。拉加德可能在會後記者會詳細解讀更新人員預測和風險評估，對後續政策路徑給出指引。該操作不被視為新緊縮周期開始，而是對已現能源衝擊的調整。",
-              "details": [
-                {
-                  "title": "發言時間與場合",
-                  "text": "原文未提供拉加德具體當日公開發言場地，判斷其為備受關注的政策會議及新聞發布。"
-                },
-                {
-                  "title": "加息預期",
-                  "text": "多數分析師及市場預期ECB將於週四加息25個基點，將存款便利利率提升至2.25%。"
-                },
-                {
-                  "title": "能源價格影響",
-                  "text": "當前高能源價格帶來持續通膨風險，拉加德將強調採取先發制人措施以抑制間接與第二輪通膨效應。"
-                },
-                {
-                  "title": "政策定位",
-                  "text": "此次加息被界定為政策調整而非新緊縮周期開始，行長將重點放在風險評估與資料依賴。"
-                },
-                {
-                  "title": "經濟前景",
-                  "text": "歐元區經濟疲軟，Q1 GDP修正為負成長，政策需平衡通膨與成長兩難。"
-                },
-                {
-                  "title": "通膨展望",
-                  "text": "通膨最近升至3.2%，為兩年半來最高水平，強化了政策調整必要性。"
-                },
-                {
-                  "title": "未來預期",
-                  "text": "預期2026年將加息50個基點，分別在6月與9月；2027年可能降息50個基點。"
-                },
-                {
-                  "title": "市場波動及匯率影響",
-                  "text": "歐元近期走弱增加ECB加息壓力，市場對加息預期已充分反映。"
-                }
-              ]
-            }
-          ],
-          "expectations": [
-            "市場完全反映6月25個基點加息預期，並預期9月將有第二次加息，年底存款利率將提升至約2.7%。",
-            "部分分析師提醒加息風險或引發歐元區經濟停滯，警惕政策過頭可能帶來的副作用。"
-          ],
-          "reports": [],
-          "policy_release": {
-            "has_release": false,
-            "summary": "",
-            "decision": [],
-            "statement": [],
-            "economic_view": [],
-            "forward_guidance": [],
-            "press_conference": [],
-            "market_reaction": []
-          }
-        },
-        {
-          "id": "BoE",
-          "name": "英國央行 BoE",
-          "status": "追蹤中",
-          "officials": [],
-          "expectations": [
-            "多數分析表明英國央行將維持利率不變，因政治不確定性與經濟活動疲軟導致加息態度謹慎。",
-            "市場押注英鎊可能因政策等待而走弱，加上中東局勢和能源價格變動增加外部風險。"
-          ],
-          "reports": [],
-          "policy_release": {
-            "has_release": false,
-            "summary": "",
-            "decision": [],
-            "statement": [],
-            "economic_view": [],
-            "forward_guidance": [],
-            "press_conference": [],
-            "market_reaction": []
-          }
-        },
-        {
-          "id": "BoJ",
-          "name": "日本央行 BoJ",
-          "status": "追蹤中",
-          "officials": [],
-          "expectations": [
-            "市場普遍消化6月加息25個基點預期，將政策利率從0.75%提升至1.00%。",
-            "升息被視為回應全球通膨動力及對美聯儲未來加息的市場反應，但中東局勢不確定性使部分機構保持謹慎。"
-          ],
-          "reports": [],
-          "policy_release": {
-            "has_release": false,
-            "summary": "",
-            "decision": [],
-            "statement": [],
-            "economic_view": [],
-            "forward_guidance": [],
-            "press_conference": [],
-            "market_reaction": []
-          }
-        },
-        {
-          "id": "RBA",
-          "name": "澳洲聯儲 RBA",
-          "status": "追蹤中",
-          "officials": [],
-          "expectations": [
-            "持續關注中東局勢及其對能源價格與通膨的推升作用。",
-            "預計貨幣政策將以維持現有現金利率為主，並視通膨數據調整。"
-          ],
-          "reports": [],
-          "policy_release": {
-            "has_release": false,
-            "summary": "",
-            "decision": [],
-            "statement": [],
-            "economic_view": [],
-            "forward_guidance": [],
-            "press_conference": [],
-            "market_reaction": []
-          }
-        },
-        {
-          "id": "BoC",
-          "name": "加拿大央行 BoC",
-          "status": "追蹤中",
-          "officials": [],
-          "expectations": [
-            "市場預期加拿大央行將維持利率不變，並在平衡通膨風險與經濟成長放緩下謹慎行事。",
-            "專家關注央行對通膨壓力與成長前景的調整。"
-          ],
-          "reports": [],
-          "policy_release": {
-            "has_release": false,
-            "summary": "",
-            "decision": [],
-            "statement": [],
-            "economic_view": [],
-            "forward_guidance": [],
-            "press_conference": [],
-            "market_reaction": []
-          }
-        },
-        {
-          "id": "RBI",
-          "name": "印度央行 RBI",
-          "status": "追蹤中",
-          "officials": [
-            {
-              "official": "達斯",
-              "venue": "來源未提供具體場合",
-              "analysis": "印度央行行長達斯近日發表言論，暗示在預期通膨壓力若持續擴大時不排除7月或8月恢復升息的可能性。RBI留存利率不變的同時，上修2026/27財年通膨預期，表明政策可能趨於收緊。其言論反映區域貨幣政策同業壓力及廣泛的通膨擔憂。市場普遍關注其下一步行動時點與幅度。",
-              "details": [
-                {
-                  "title": "發言時間與場合",
-                  "text": "原文未明確提及具體場合，但為RBI最新公開表態。"
-                },
-                {
-                  "title": "貨幣政策立場",
-                  "text": "目前維持政策利率5.25%不變，但態度偏鷹，表明升息窗口開啟可能。"
-                },
-                {
-                  "title": "通膨預期變動",
-                  "text": "將通膨預測由4.6%上調至5.1%，顯示成本壓力與需求側因素加劇。"
-                },
-                {
-                  "title": "地區同行影響",
-                  "text": "印度考慮同步區域其他央行收緊政策，包括中東緊張局勢帶來的外部壓力。"
-                },
-                {
-                  "title": "市場解讀",
-                  "text": "市場預期初次加息可能在8月，部分分析師提前至7月。"
-                },
-                {
-                  "title": "政策含義",
-                  "text": "強調通膨壓力加大，政策轉向緊縮將維護物價穩定。"
-                },
-                {
-                  "title": "外匯與債市反應",
-                  "text": "盡管中東局勢令資金流動增加，印度債券收益率呈現穩健，盧比略受壓。"
-                }
-              ]
-            }
-          ],
-          "expectations": [
-            "市場預計RBI將於8月或10月加息，首次加息時點相較以往預期提前。",
-            "RBI上修通膨預期加強政策收緊可能性，收益率曲線呈現相應反映。"
-          ],
-          "reports": [],
-          "policy_release": {
-            "has_release": false,
-            "summary": "",
-            "decision": [],
-            "statement": [],
-            "economic_view": [],
-            "forward_guidance": [],
-            "press_conference": [],
-            "market_reaction": []
-          }
-        },
-        {
-          "id": "BCB",
-          "name": "巴西央行 BCB",
-          "status": "追蹤中",
-          "officials": [],
-          "expectations": [
-            "經濟學家預計巴西央行在2026年底將繼續維持利率水平無大幅調整。",
-            "預期雷亞爾匯率小幅波動，市場關注政策對匯率穩定的影響。"
-          ],
-          "reports": [],
-          "policy_release": {
-            "has_release": false,
-            "summary": "",
-            "decision": [],
-            "statement": [],
-            "economic_view": [],
-            "forward_guidance": [],
-            "press_conference": [],
-            "market_reaction": []
-          }
-        },
-        {
-          "id": "SNB",
-          "name": "瑞士央行 SNB",
-          "status": "追蹤中",
-          "officials": [
-            {
-              "official": "喬丹",
-              "venue": "來源未提供具體場合",
-              "analysis": "瑞士央行行長喬丹在近期未有公開貨幣政策決議上發言，致力從宏觀角度評估全球通膨風險及利率前景。目前政治與經濟局勢複雜，喬丹著重金融穩定與貨幣政策溝通的透明度。儘管未見利率變動，但其言論暗示監控通膨與匯率動向。市場關注其未來政策調整的時點。其發言體現了穩健審慎的政策基調。",
-              "details": [
-                {
-                  "title": "發言時間與場合",
-                  "text": "原文無具體發言場合或時間，判斷為近期銀行公開討論及訪談。"
-                },
-                {
-                  "title": "政策立場",
-                  "text": "強調觀察通膨與金融穩定風險，維持審慎態度。"
-                },
-                {
-                  "title": "全球經濟狀況",
-                  "text": "指出全球不確定性，包括能源價格及地緣政治風險。"
-                },
-                {
-                  "title": "貨幣政策操作",
-                  "text": "當前未調整政策利率，持續評估市場狀況。},{"
-                },
-                {
-                  "title": "市場解讀",
-                  "text": "市場認為瑞士央行將保持現行利率直至通膨與匯率穩定。"
-                },
-                {
-                  "title": "金融穩定",
-                  "text": "關注金融體系抗壓性，尤其在全球金融環境多變之際。"
-                },
-                {
-                  "title": "資料限制",
-                  "text": "缺乏精確發言明細，相關解讀受限。    "
                 }
               ]
             }
