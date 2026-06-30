@@ -1,6 +1,155 @@
 {
-  "updated": "2026-06-30 09:39:24",
+  "updated": "2026-07-01 07:30:42",
   "items": [
+    {
+      "id": "2026070107",
+      "date": "2026-07-01",
+      "run_hour": 7,
+      "started_at": "2026-07-01 07:30:29",
+      "finished_at": "2026-07-01 07:30:42",
+      "status": "PARTIAL",
+      "total_sources": 12,
+      "success_count": 4,
+      "failure_count": 8,
+      "success_sources": [
+        "edwardjones",
+        "jin10",
+        "investrade",
+        "westpac"
+      ],
+      "failed_sources": [
+        "cnyes",
+        "taishin",
+        "cathay",
+        "nomura",
+        "factset",
+        "fx678",
+        "uob",
+        "mizuho"
+      ],
+      "sources": [
+        {
+          "source": "cnyes",
+          "ok": false,
+          "status": "DATE_MISMATCH",
+          "reason": "cnyes 日期不符：頁面最新日期是 2026-06-30，預期日期是 2026-07-01",
+          "title": "",
+          "url": "",
+          "expected_date": "2026-07-01",
+          "actual_date": "2026-06-30"
+        },
+        {
+          "source": "taishin",
+          "ok": false,
+          "status": "DATE_MISMATCH",
+          "reason": "taishin 日期不符：頁面最新日期是 2026-06-30，預期日期是 2026-07-01",
+          "title": "",
+          "url": "",
+          "expected_date": "2026-07-01",
+          "actual_date": "2026-06-30"
+        },
+        {
+          "source": "cathay",
+          "ok": false,
+          "status": "DATE_MISMATCH",
+          "reason": "cathay 日期不符：頁面最新日期是 2026-06-29，預期日期是 2026-07-01",
+          "title": "",
+          "url": "",
+          "expected_date": "2026-07-01",
+          "actual_date": "2026-06-29"
+        },
+        {
+          "source": "edwardjones",
+          "ok": true,
+          "status": "SUCCESS",
+          "reason": "",
+          "title": "",
+          "url": "https://www.edwardjones.com/us-en/market-news-insights/stock-market-news/daily-market-recap",
+          "expected_date": "2026-06-30",
+          "actual_date": "2026-06-30"
+        },
+        {
+          "source": "nomura",
+          "ok": false,
+          "status": "DATE_MISMATCH",
+          "reason": "nomura 日期不符：頁面最新日期是 2026-06-29，預期日期是 2026-07-01",
+          "title": "",
+          "url": "",
+          "expected_date": "2026-07-01",
+          "actual_date": "2026-06-29"
+        },
+        {
+          "source": "factset",
+          "ok": false,
+          "status": "DATE_MISMATCH",
+          "reason": "factset 日期不符：頁面最新日期是 2026-06-29，預期日期是 2026-06-30",
+          "title": "",
+          "url": "",
+          "expected_date": "2026-06-30",
+          "actual_date": "2026-06-29"
+        },
+        {
+          "source": "jin10",
+          "ok": true,
+          "status": "SUCCESS",
+          "reason": "",
+          "title": "",
+          "url": "https://xnews.jin10.com/details/223125",
+          "expected_date": "2026-07-01",
+          "actual_date": "2026-07-01"
+        },
+        {
+          "source": "fx678",
+          "ok": false,
+          "status": "DATE_MISMATCH",
+          "reason": "fx678 日期不符：頁面最新日期是 2026-06-30，預期日期是 2026-07-01",
+          "title": "",
+          "url": "",
+          "expected_date": "2026-07-01",
+          "actual_date": "2026-06-30"
+        },
+        {
+          "source": "investrade",
+          "ok": true,
+          "status": "SUCCESS",
+          "reason": "",
+          "title": "",
+          "url": "https://investrade.com/market-review-june-30-2026/",
+          "expected_date": "2026-06-30",
+          "actual_date": "2026-06-30"
+        },
+        {
+          "source": "westpac",
+          "ok": true,
+          "status": "SUCCESS",
+          "reason": "",
+          "title": "",
+          "url": "https://library.westpaciq.com.au/content/dam/public/westpaciq/secure/economics/documents/aus/2026/07/WBC_MorningReport01Jul2026.pdf",
+          "expected_date": "2026-07-01",
+          "actual_date": "2026-07-01"
+        },
+        {
+          "source": "uob",
+          "ok": false,
+          "status": "NETWORK_ERROR",
+          "reason": "網路或 HTTP 請求失敗：404 Client Error: Not Found for url: https://www.uobgroup.com/assets/web-resources/research/pdf/MO_260701.pdf",
+          "title": "",
+          "url": "",
+          "expected_date": "2026-07-01",
+          "actual_date": ""
+        },
+        {
+          "source": "mizuho",
+          "ok": false,
+          "status": "DATE_MISMATCH",
+          "reason": "mizuho 日期不符：頁面最新日期是 2026-06-30，預期日期是 2026-07-01",
+          "title": "",
+          "url": "",
+          "expected_date": "2026-07-01",
+          "actual_date": "2026-06-30"
+        }
+      ]
+    },
     {
       "id": "2026063009",
       "date": "2026-06-30",
