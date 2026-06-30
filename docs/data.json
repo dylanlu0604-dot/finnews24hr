@@ -1,7 +1,86 @@
 {
-  "updated": "2026-07-01 04:00:56",
-  "count": 13977,
+  "updated": "2026-07-01 04:04:42",
+  "count": 13981,
   "items": [
+    {
+      "id": "mkt:019f1a21-aec6-7aab-8c42-7975567a219e",
+      "time": "2026-07-01 04:04:02",
+      "tags": [
+        "MKT News",
+        "S&P500",
+        "Impact bullish",
+        "Dow",
+        "Nasdaq100"
+      ],
+      "text": "In Q2, the S&P 500 rose 14.9%, the Dow gained 12.9% and the Nasdaq climbed 21.4%."
+    },
+    {
+      "id": "4963660",
+      "time": "2026-07-01 04:03:43",
+      "tags": [
+        "其他"
+      ],
+      "text": "Circle Internet收跌18%，創3月份以來最差單日表現。"
+    },
+    {
+      "id": "4963659",
+      "time": "2026-07-01 04:03:40",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國地質調查局：墨西哥埃爾普羅格雷索西南偏南75公里處發生6級地震。"
+    },
+    {
+      "id": "4963658",
+      "time": "2026-07-01 04:03:30",
+      "tags": [
+        "市場"
+      ],
+      "text": "標普 500 指數與納斯達克指數創下 2020 年二季度以來最大季度漲幅。\n本季度，標普 500 指數上漲 14.9%，道瓊斯工業平均指數上漲 12.9%，納斯達克指數上漲 21.4%。\n本月，標普 500 指數下跌 1.1%，道瓊斯指數上漲 2.5%，納斯達克指數下跌 2.8%。"
+    },
+    {
+      "id": "4963657",
+      "time": "2026-07-01 04:02:43",
+      "tags": [
+        "市場"
+      ],
+      "text": "【美元指數30日上漲】衡量美元對六種主要貨幣的美元指數當天上漲0.08%，在匯市尾市收於101.187。截至紐約匯市尾市，1歐元兌換1.1420美元，低於前一交易日的1.1425美元；1英鎊兌換1.3255美元，低於前一交易日的1.3257美元。1美元兌換162.62日元，高於前一交易日的161.97日元；1美元兌換0.8083瑞士法郎，高於前一交易日的0.8075瑞士法郎；1美元兌換1.4204加元，高於前一交易日的1.4203加元；1美元兌換9.7005瑞典克朗，低於前一交易日的9.7084瑞典克朗。"
+    },
+    {
+      "id": "4963656",
+      "time": "2026-07-01 04:01:17",
+      "tags": [
+        "公司"
+      ],
+      "text": "谷歌推出面向表格資料的 TabFM 基礎大模型。"
+    },
+    {
+      "id": "mkt:019f1a1e-cfc2-7aab-8c42-750028000501",
+      "time": "2026-07-01 04:00:54",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Star Stocks",
+        "Apple",
+        "NVIDIA",
+        "Market Themes",
+        "Magnificent 7",
+        "SNDK.O",
+        "Impact bullish",
+        "S&P500",
+        "Nasdaq100"
+      ],
+      "text": "【US close: major indexes up; SanDisk jumps >10%】U.S. equities closed higher Tuesday: Dow Jones +0.26%, S&P 500 +0.78%, Nasdaq +1.52%. Apple (AAPL.O) and NVIDIA (NVDA.O) rose around 2%; Micron (MU.O) nearly +1%. SpaceX (SPCX.O) +4%; SanDisk (SNDK.O) surged more than 10%. Nasdaq Golden Dragon China Index +0.63%; XPeng (XPEV.N) +3.4%."
+    },
+    {
+      "id": "4963655",
+      "time": "2026-07-01 04:00:48",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【美股收盤：三大股指集體收漲】道指漲0.26%，標普500指數漲0.78%，納指漲1.50%。閃迪漲10.72%，Axon Enterprise漲9.84%，VRT漲8.99%，科磊漲8.54%。“七姐妹”方面：蘋果漲2.59%，英偉達漲2.56%，特斯拉漲2.16%，微軟漲1.22%，谷歌漲0.61%，Meta Platforms漲0.14%，亞馬遜跌0.76%。"
+    },
     {
       "id": "4963654",
       "time": "2026-07-01 04:00:03",
@@ -128223,48 +128302,6 @@
         "Importance 0"
       ],
       "text": "FedEx earnings above expectations at 6.31 USD — FedEx (FDX) released earnings per share at 6.31 USD, compared to market expectations of 5.96 USD."
-    },
-    {
-      "id": "4951118",
-      "time": "2026-06-24 04:02:27",
-      "tags": [
-        "其他"
-      ],
-      "text": "聯邦快遞預計2026全年持續經營業務調整後每股收益區間為16.90至18.10美元。"
-    },
-    {
-      "id": "4951117",
-      "time": "2026-06-24 04:02:17",
-      "tags": [
-        "其他",
-        "焦點"
-      ],
-      "text": "費城半導體指數收跌7.9%，創6月5日以來最大跌幅。"
-    },
-    {
-      "id": "mkt:019ef613-51c8-7dd8-b0e2-ee5e3ecb2017",
-      "time": "2026-06-24 04:02:01",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Star Stocks",
-        "NVIDIA",
-        "Market Themes",
-        "Magnificent 7",
-        "Nasdaq100",
-        "Impact bearish",
-        "MU.O",
-        "NVDA.O"
-      ],
-      "text": "【U.S. close: Nasdaq down 2.2%, chip stocks plunge】U.S. stocks closed Tuesday: Dow fell 0.09%, S&P 500 fell 1.4%, Nasdaq fell 2.2%. Philadelphia Semiconductor Index plunged 7.8%; Marvell (MRVL.O) down 9%, Micron (MU.O) down 13%, NVIDIA (NVDA.O) down 4%. SpaceX (SPCX.O) rose 1%. Nasdaq Golden Dragon China Index fell 0.55%; XPeng (XPEV.N) down more than 4%."
-    },
-    {
-      "id": "4951116",
-      "time": "2026-06-24 04:01:44",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普表示，委內瑞拉應被納入美國石油產量統計資料之中。"
     }
   ]
 }
