@@ -1,7 +1,48 @@
 {
-  "updated": "2026-07-01 03:53:27",
-  "count": 13975,
+  "updated": "2026-07-01 03:57:13",
+  "count": 13976,
   "items": [
+    {
+      "id": "te:economy:563102",
+      "time": "2026-07-01 03:55:55",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Colombia",
+        "Interest Rate",
+        "Importance 1"
+      ],
+      "text": "Colombia Central Bank Rises Interest Rates in June — The Central Bank of Colombia raised its benchmark interest rate by 75 basis points to 12% at its June 30 meeting, tightening policy as inflationary pressures intensified. Policymakers noted that inflation continued to accelerate, with headline inflation reaching 5.8% in May and core inflation rising to 6.0%, moving further away from the bank’s 3% target. Inflation expectations also remained elevated across all horizons despite some easing in June. Economic activity showed resilience, with GDP growth accelerating to 2.2% year-on-year in the first quarter, above the 2.0% expansion in the previous quarter, while domestic demand continued to outpace output. The labor market also remained strong, with unemployment at a historically low 8.0% in May and wages rising significantly. The board said the rate hike aims to steer inflation back onto a downward path, while future policy decisions will depend on incoming data and evolving external risks."
+    },
+    {
+      "id": "mkt:019f1a1a-0d2c-7aab-8c42-60a2f8aaa22d",
+      "time": "2026-07-01 03:55:42",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "GFZ (German Research Centre for Geosciences): M5.65 earthquake in the Gulf of California."
+    },
+    {
+      "id": "mkt:019f1a19-30ec-7aab-8c42-59c13abe18ec",
+      "time": "2026-07-01 03:54:46",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "Spot gold turned lower, last $4,016/oz."
+    },
+    {
+      "id": "4963650",
+      "time": "2026-07-01 03:53:47",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【6月份兩年期美債實際收益率漲超77個基點，二季度兩年期收益率漲超35個基點】週二（6月30日）紐約尾盤，美國10年期國債收益率漲5.72個基點，重新整理日高至4.4316%，6月份持平，二季度累漲11.70個基點。兩年期美債收益率漲4.11個基點，重新整理日高至4.1455%，6月份累計上漲14.35個基點，二季度累漲35.25個基點；30年期美債收益率漲5.63個基點，重新整理日高至4.9193%，6月份累跌5.03個基點。2/10年期美債收益率利差漲1.814個基點，報+28.401個基點，6月份累跌14.132個基點。10年期通脹保值國債（TIPS）收益率漲4.72個基點，重新整理日高至2.1924%，6月份累漲16.40個基點；兩年期TIPS收益率漲5.10個基點，至重新整理日高至2.1487%，6月份累漲77.59個基點，二季度累漲160.12個基點；30年期TIPS收益率漲5.74個基點，重新整理日高至2.7482%。"
+    },
     {
       "id": "4963649",
       "time": "2026-07-01 03:47:52",
@@ -128215,30 +128256,6 @@
         "MKT News"
       ],
       "text": "AP reports Republican senators who have clashed with TRUMP in recent weeks will have a chance to question him face-to-face at a Capitol luncheon on Wednesday."
-    },
-    {
-      "id": "mkt:019ef60d-6587-7dd8-b0e2-d89cc904be2a",
-      "time": "2026-06-24 03:55:33",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Congress passes symbolic war powers resolution on Iran】The Senate voted 50-48 Tuesday to approve a House-passed war powers concurrent resolution that calls on the president to \"withdraw US forces from hostilities against Iran\" unless Congress declares war or authorizes use of military force. The measure, marking a rare congressional rebuke of President Trump’s handling of the US-Iran conflict, is the first such resolution to clear both chambers. As a concurrent resolution it carries no legal force, requires no presidential signature and is largely symbolic."
-    },
-    {
-      "id": "4951113",
-      "time": "2026-06-24 03:54:39",
-      "tags": [
-        "國際"
-      ],
-      "text": "【特朗普政府擬提名白宮助理執掌美國食品藥品監督管理局】美國白宮國內政策助理海蒂·奧弗頓是特朗普政府考慮出任美國食品藥品監督管理局局長的最終候選人之一。相關人選尚未敲定，目前尚不清楚奧弗頓能否獲得衛生部長小羅伯特·F·肯尼迪的支援。FDA局長提名人選需經參議院投票確認。"
-    },
-    {
-      "id": "4951112",
-      "time": "2026-06-24 03:53:46",
-      "tags": [
-        "公司"
-      ],
-      "text": "穆迪評級確認強生公司B2級企業家族評級，展望調整為穩定。"
     }
   ]
 }
