@@ -1,7 +1,62 @@
 {
-  "updated": "2026-07-01 02:48:42",
-  "count": 13946,
+  "updated": "2026-07-01 02:52:33",
+  "count": 13951,
   "items": [
+    {
+      "id": "mkt:019f19df-bd92-7aab-8c40-aedcdb453623",
+      "time": "2026-07-01 02:52:01",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iran's parliament speaker Ghalibaf said negotiations are ongoing, but if the other side fails to honour the agreement, Iran is prepared to respond and to confront war."
+    },
+    {
+      "id": "4963605",
+      "time": "2026-07-01 02:51:51",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗首席談判代表卡利巴夫表示，伊朗致力於保障霍爾木茲海峽航運通行依照伊朗方面的相關安排開展。"
+    },
+    {
+      "id": "mkt:019f19de-ae7f-7aab-8c40-a30a206e2c13",
+      "time": "2026-07-01 02:50:51",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact mixed",
+        "Brent"
+      ],
+      "text": "Iran parliament speaker Ghalibaf said current negotiations aim to secure five conditions that must be implemented immediately or have their implementation processes initiated."
+    },
+    {
+      "id": "4963604",
+      "time": "2026-07-01 02:50:34",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "巴西財政部長：我們將宣佈取消柴油補貼。"
+    },
+    {
+      "id": "mkt:019f19de-2562-7aab-8c40-9d92b773043b",
+      "time": "2026-07-01 02:50:16",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Iranian parliament speaker Ghalibaf said Iran is committed to ensuring passage through the Strait of Hormuz occurs under arrangements set by Iran."
+    },
+    {
+      "id": "4963603",
+      "time": "2026-07-01 02:48:15",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【瑞穗銀行：若當局不出手干預 日元兌美元料跌至170區間】瑞穗銀行策略師表示，除非當局出手支撐日元，否則日元兌美元的匯率可能會跌向170區間。“我們必須回顧1986年，尋找需要考慮的潛在障礙，”瑞穗的Jordan Rochester和Masayuki Nakajima週二在一份研究報告中寫道，並提及1986年11月5日164.50的水平。“在觸及這一水平之前，幾乎沒有重要阻力。若超出這一水平，如果當局不出手干預，之後匯率可能進一步跌向170區間”。日元週一跌至40年低點，促使交易員揣測日本出手干預的下一道紅線在哪裡。"
+    },
     {
       "id": "4963602",
       "time": "2026-07-01 02:47:17",
@@ -127976,14 +128031,6 @@
         "The Trump Trade"
       ],
       "text": "President Trump said he may run again, asked whether he should, and said he would like to."
-    },
-    {
-      "id": "4951064",
-      "time": "2026-06-24 02:49:04",
-      "tags": [
-        "市場"
-      ],
-      "text": "納斯達克100指數跌幅擴大至3.5%，觸及盤中低點。"
     }
   ]
 }
