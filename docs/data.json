@@ -1,7 +1,67 @@
 {
-  "updated": "2026-07-01 03:42:09",
-  "count": 13976,
+  "updated": "2026-07-01 03:45:55",
+  "count": 13979,
   "items": [
+    {
+      "id": "mkt:019f1a0f-f029-7aab-8c42-52374797635d",
+      "time": "2026-07-01 03:44:39",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "According to Axios, Iran's parliament speaker Ghalibaf said the US is internally divided, with Rubio taking one route and Vance another."
+    },
+    {
+      "id": "te:economy:563101",
+      "time": "2026-07-01 03:44:24",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Brazil",
+        "Non Farm Payrolls",
+        "Importance 1"
+      ],
+      "text": "Brazil Job Creation Slows in May — Brazil created 72,960 formal jobs in May 2026, below April’s 85,888, marking the lowest level of job creation in 2026 so far. The result reflected 2.21 million hires and 2.13 million layoffs during the month. In the first five months of the year, Brazil generated 767,326 formal jobs, lifting the total stock of formal employment to 47.88 million. Services led job creation with 45,655 new positions, followed by construction (+12,096), agriculture (+10,205), and industry (+4,974), while commerce was broadly flat with just 40 net jobs. Regionally, 22 of Brazil’s 27 states posted positive job balances, led by São Paulo (+18,224), Espírito Santo (+9,532), and Rio de Janeiro (+9,195). Meanwhile, the average starting salary fell to R$2,384.10 in May from R$2,402.07 in April."
+    },
+    {
+      "id": "mkt:019f1a0e-3489-7aab-8c42-4b0e8a563737",
+      "time": "2026-07-01 03:42:46",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact mixed",
+        "Brent"
+      ],
+      "text": "wright said Iran has shown no sign of cooperation to date. He said continued oil transit through the Strait of Hormuz is enabled by protection from the U.S. MILITARY."
+    },
+    {
+      "id": "4963648",
+      "time": "2026-07-01 03:42:20",
+      "tags": [
+        "國際"
+      ],
+      "text": "據Kann News：以色列安全官員表示，目前沒有明確的時間表。撤軍將會發生，但必須以“適當方式”進行。以軍撤軍只有在明確標準確立後才會進行。這些標準包括黎巴嫩軍隊承諾立即對真主黨武裝人員及其基礎設施採取行動。"
+    },
+    {
+      "id": "mkt:019f1a0d-744c-7aab-8c42-448fbf6518b3",
+      "time": "2026-07-01 03:41:57",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bearish",
+        "S&P500",
+        "Impact bullish",
+        "XAUUSD"
+      ],
+      "text": "Kann News: Israeli security officials said the IDF will withdraw only after clear criteria are established; those criteria include a Lebanese army commitment to immediately act against Hezbollah fighters and their infrastructure."
+    },
+    {
+      "id": "4963647",
+      "time": "2026-07-01 03:41:44",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "巴西財政部預測， 債務佔比將自 2030 年起逐步回落，至 2036 年降至國內生產總值的 83.1%"
+    },
     {
       "id": "mkt:019f1a0c-fc94-7aab-8c42-3d8b783e4483",
       "time": "2026-07-01 03:41:26",
@@ -128214,36 +128274,6 @@
         "國際"
       ],
       "text": "美國國務卿魯比奧表示，霍爾木茲海峽屬於國際航道，任何國家都無權在此收取通行費，地區各國均認同這一觀點；相關合作框架已搭建完成，不過仍有大量實質性工作有待推進。"
-    },
-    {
-      "id": "mkt:019ef602-eeaa-7dd8-b0e2-d270d99e3789",
-      "time": "2026-06-24 03:44:07",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bearish",
-        "WTI",
-        "S&P500",
-        "Impact bullish"
-      ],
-      "text": "The U.S. Senate voted to block military action against Iran unless President Trump secures congressional authorization."
-    },
-    {
-      "id": "4951106",
-      "time": "2026-06-24 03:43:10",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "美國參議院投票決定，除非特朗普獲得國會批准，否則不得對伊朗發動戰爭。"
-    },
-    {
-      "id": "4951105",
-      "time": "2026-06-24 03:42:54",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國法院裁定拜登紀念園區擴建專案需接受審查。"
     }
   ]
 }
