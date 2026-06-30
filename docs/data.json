@@ -1,7 +1,122 @@
 {
-  "updated": "2026-07-01 07:52:19",
-  "count": 13987,
+  "updated": "2026-07-01 07:56:08",
+  "count": 13980,
   "items": [
+    {
+      "id": "4963814",
+      "time": "2026-07-01 07:55:28",
+      "tags": [
+        "其他"
+      ],
+      "text": "Anthropic：明天開始恢復訪問。"
+    },
+    {
+      "id": "mkt:019f1af5-732a-7aab-8c45-a2d08e397512",
+      "time": "2026-07-01 07:55:21",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "【US media: Trump weighed resuming military option against Iran but favors diplomacy】The Wall Street Journal, citing US officials, reports President Trump weighed whether to return to a full-scale military campaign against Iran and held multiple discussions with Defense Secretary Hegseth and Joint Chiefs Chairman Dan Kain on further strikes. Officials say he has for now decided against military action and will continue diplomatic talks, telling aides a new full-scale strike could undermine diplomacy and hurt prospects to dismantle Iran’s nuclear program. Trump signalled he could accept negotiations running past the Aug. 18 nuclear-deal deadline and said he was satisfied retaining a one-off strike option if Tehran violates a memorandum of understanding."
+    },
+    {
+      "id": "mkt:019f1af4-ec99-7aab-8c45-9d18b43daee6",
+      "time": "2026-07-01 07:54:46",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "ANTHROPIC said it had been notified that the U.S. Commerce Department has lifted export controls on Claude Fable 5 and MYTHOS 5; the company will restore access tomorrow."
+    },
+    {
+      "id": "4963813",
+      "time": "2026-07-01 07:54:34",
+      "tags": [
+        "公司",
+        "焦點",
+        "國際"
+      ],
+      "text": "人工智慧公司Anthropic：我們已接到通知，美國商務部已解除對Claude Fable 5和 Mythos 5的出口管制。"
+    },
+    {
+      "id": "4963812",
+      "time": "2026-07-01 07:54:16",
+      "tags": [
+        "資料",
+        "央行",
+        "國際"
+      ],
+      "text": "【日本製造業景氣信心升至2018年以來新高】日本大型製造企業信心指數創下2018年以來最高水平，為日本央行持續加息的政策立場提供支撐。日本央行週三公佈季度短觀經濟調查（Tankan）資料顯示，4-6月大型製造業景氣判斷指數從17升至22；而媒體調研的經濟學家此前預期該指數小幅回落至16。大型非製造業景氣指數升至37，依舊維持1991年以來最強表現。指數數值為正，代表認為經營環境向好的企業數量多於持悲觀看法的企業。"
+    },
+    {
+      "id": "mkt:019f1af4-34b1-7aab-8c45-90b2c2c5325e",
+      "time": "2026-07-01 07:53:59",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【5.1-magnitude earthquake hits northern Miyazaki Prefecture, Japan】Japan Meteorological Agency said a 5.1-magnitude earthquake struck northern Miyazaki Prefecture at about 08:40 local time on July 1. Maximum seismic intensity was 4 on the JMA scale. No tsunami risk was indicated."
+    },
+    {
+      "id": "mkt:019f1af3-c80d-7aab-8c45-8bcc9d90ef8d",
+      "time": "2026-07-01 07:53:31",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bearish",
+        "Nikkei 225",
+        "Impact bullish",
+        "DXY"
+      ],
+      "text": "Bank of Japan said the large manufacturers' confidence index has improved for five consecutive quarters, reaching its highest level since March 2018."
+    },
+    {
+      "id": "4963811",
+      "time": "2026-07-01 07:52:53",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "日本央行：大型製造商景氣指數已連續五個季度改善，創下2018年3月以來最高水平。"
+    },
+    {
+      "id": "4963810",
+      "time": "2026-07-01 07:52:25",
+      "tags": [
+        "公司"
+      ],
+      "text": "【A股分紅派息轉增一覽：25股今日股權登記】Wind資料顯示，根據上市公司權益分配方案梳理統計，25只A股今日股權登記。其中，23股擬派息，2股派息、轉增或送股同時實施。分紅派息方面，23只個股分紅派息的股權登記日為7月1日。仙鶴股份、海螺水泥、星球石墨分紅力度最大，每10股分別派息7.00元、6.10元、6.00元。2股派息、轉增或送股同時實施，股權登記日為7月1日。敏芯股份、司南導航分紅力度最大，每10股分別派息2.70元、0.80元。"
+    },
+    {
+      "id": "4963809",
+      "time": "2026-07-01 07:52:15",
+      "tags": [
+        "觀點",
+        "國際"
+      ],
+      "text": "【華泰證券：看好氣源多元化龍頭分享轉移需求紅利、LNG物流倉儲從波動率中獲利】華泰證券指出，2026年2月底中東衝突爆發，霍爾木茲海峽事實封鎖、卡達拉斯拉凡工業城LNG設施遭襲，中國LNG進口面臨2017年以來最嚴峻的衝擊。市場普遍預期此次中斷對燃氣、電力板塊為均勻的衝擊，華泰證券則認為衝擊呈“北重南輕、國企重民企輕”的錯配格局，並將在未來3—5年內催化中國天然氣進口格局的結構性重構。不同省份因卡達LNG佔比差異導致影響分化；從產業鏈看，持有低成本HH掛鉤長協的城燃貿易商或是最大受益者，轉售毛利超10美元/MMBtu；而氣電企業面臨燃料成本突破盈虧平衡點的“量價”雙重壓力。看好氣源多元化龍頭分享轉移需求紅利、LNG物流倉儲從波動率中獲利。"
+    },
+    {
+      "id": "mkt:019f1af2-4b3e-7aab-8c45-86ad7225412e",
+      "time": "2026-07-01 07:51:54",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "EURUSD",
+        "Impact bullish",
+        "Copper",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "French auto industry group PFA: June new car registrations in France rose 11.37% YoY to 188,787 units."
+    },
     {
       "id": "4963808",
       "time": "2026-07-01 07:51:23",
@@ -17,6 +132,15 @@
         "國際"
       ],
       "text": "日本二季度短觀大型非製造業景氣判斷指數 37，預期 36，前值 36。日本二季度短觀大型製造業前景指數 17，預期 13，前值 14。日本二季度短觀大型非製造業前景指數 28，預期 29，前值 29。日本二季度短觀大型製造業景氣判斷指數 22，預期 16，前值 17。"
+    },
+    {
+      "id": "em:jjsj_rbsj:202607013788976668",
+      "time": "2026-07-01 07:50:42",
+      "tags": [
+        "經濟數據",
+        "日本"
+      ],
+      "text": "日本第二季度短觀大型製造業前景指數為17，預期13，前值14。"
     },
     {
       "id": "mkt:019f1af0-c938-7aab-8c45-7d9c8bca9630",
@@ -128325,179 +128449,6 @@
         "DXY"
       ],
       "text": "Bank of Japan June policy meeting summary: the Cabinet Office said the Bank of Japan must take responsibility for rate hikes and act proactively and appropriately if economic activity becomes excessively volatile."
-    },
-    {
-      "id": "4951304",
-      "time": "2026-06-24 07:56:00",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國財長貝森特：我們給伊朗提供胡蘿蔔，也有大棒。"
-    },
-    {
-      "id": "4951303",
-      "time": "2026-06-24 07:55:42",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "日本央行會議紀要：內閣府代表表示，央行必須就加息履行說明責任，同時在經濟活動出現過度波動時採取積極、適當的行動。"
-    },
-    {
-      "id": "4951302",
-      "time": "2026-06-24 07:55:27",
-      "tags": [
-        "觀點"
-      ],
-      "text": "萬聯證券高階裝備行業分析師馮永棋表示，在下游需求高增長驅動下，鋰電行業整體景氣回升。當前鋰電行業排產活躍，部分材料價格呈現出企穩回升趨勢，行業週期進入上升區間，建議積極關注鋰電材料環節龍頭個股的盈利修復機會。國金證券新能源與電力裝置首席分析師姚遙稱，當前鋰電全產業鏈邁入新一輪週期觸底反轉視窗，隨著年內動力電池與儲能電池需求旺季臨近，板塊有望迎來量價共振的主升行情，產業鏈上中下游各環節均能充分分享行業上行紅利。"
-    },
-    {
-      "id": "te:markets:561285",
-      "time": "2026-06-24 07:55:09",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "commodity",
-        "Importance 0"
-      ],
-      "text": "Oat Hits 19-week Low — Oat decreased to 295.25 USd/Bu, the lowest since February 2026. Over the past 4 weeks, Oat lost 17.59%, and in the last 12 months, it decreased 16.51%."
-    },
-    {
-      "id": "4951301",
-      "time": "2026-06-24 07:54:39",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國財長貝森特：如果伊朗降低其石油價格，對世界更好。"
-    },
-    {
-      "id": "mkt:019ef6e8-16c2-7dd8-b0e5-2c9b19304315",
-      "time": "2026-06-24 07:54:25",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC",
-        "USDJPY",
-        "Impact bearish",
-        "DXY"
-      ],
-      "text": "Bank of Japan June policy meeting minutes: one member said Japan's neutral rate is likely around 2% and that the BOJ would need to raise policy rates roughly every few months."
-    },
-    {
-      "id": "4951300",
-      "time": "2026-06-24 07:54:23",
-      "tags": [
-        "國際"
-      ],
-      "text": "印尼金融監管機構：MSCI的宣告為推動市場改革議程增添動力。"
-    },
-    {
-      "id": "em:qqyh_rbyh:202606243780347133",
-      "time": "2026-06-24 07:54:05",
-      "tags": [
-        "央行",
-        "日本央行"
-      ],
-      "text": "日本央行6月政策會議摘要顯示，即便在6月加息後，日本央行仍需保持進一步加息的立場，前提是經濟和價格走勢符合預期。"
-    },
-    {
-      "id": "mkt:019ef6e7-be26-7dd8-b0e5-2535c183c6a2",
-      "time": "2026-06-24 07:54:03",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "USDJPY",
-        "Impact bearish"
-      ],
-      "text": "Bank of Japan June policy meeting minutes: one member said the central bank must raise policy rates soon toward near-neutral levels to avoid large, abrupt rate hikes later."
-    },
-    {
-      "id": "4951299",
-      "time": "2026-06-24 07:53:54",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "日本央行意見摘要：一位委員表示，央行必須儘早將政策利率推升至接近中性水平，以避免未來需要大幅、急劇加息。"
-    },
-    {
-      "id": "4951298",
-      "time": "2026-06-24 07:53:49",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "日本央行意見摘要：一位委員表示日本中性利率預計在2%左右，央行必須每隔幾個月加息一次。"
-    },
-    {
-      "id": "4951297",
-      "time": "2026-06-24 07:53:40",
-      "tags": [
-        "國際"
-      ],
-      "text": "貝森特：伊朗談判將是一個過程。"
-    },
-    {
-      "id": "mkt:019ef6e7-5a6c-7dd8-b0e5-1cd2e045cfbe",
-      "time": "2026-06-24 07:53:37",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "Bank of Japan June policy meeting summary: Even if the BOJ raises rates in June, it should remain positioned for further rate hikes, provided economic and price developments align with expectations."
-    },
-    {
-      "id": "4951295",
-      "time": "2026-06-24 07:53:15",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "日本央行意見摘要：一位委員表示，必須儘快將日本央行的政策利率上調至更接近中性利率的水平。"
-    },
-    {
-      "id": "mkt:019ef6e6-fdf5-7dd8-b0e5-12666887095a",
-      "time": "2026-06-24 07:53:13",
-      "tags": [
-        "MKT News",
-        "USDJPY",
-        "Impact bearish"
-      ],
-      "text": "Bank of Japan June policy meeting minutes: one member said that as exchange-rate volatility pushes up import prices, adjusting the degree of monetary support has become a more appropriate option."
-    },
-    {
-      "id": "4951294",
-      "time": "2026-06-24 07:53:07",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國財長貝森特：我們已告訴伊朗人我們想要一個“大協議”。"
-    },
-    {
-      "id": "mkt:019ef6e6-a528-7dd8-b0e5-0c86a1bed9c7",
-      "time": "2026-06-24 07:52:51",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Bank of Japan June policy meeting summary: Japan's economy has shown a moderate recovery, though some sectors remain weak, partly affected by the Middle East situation."
-    },
-    {
-      "id": "4951293",
-      "time": "2026-06-24 07:52:42",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "日本央行會議紀要：即便在6月加息後，若經濟與物價走勢符合預期，央行仍須維持進一步加息的立場。"
-    },
-    {
-      "id": "4951292",
-      "time": "2026-06-24 07:52:33",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "日本央行會議紀要：一名委員認為，由於當前金融環境仍處於寬鬆狀態，適宜繼續加息。"
     }
   ]
 }
