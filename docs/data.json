@@ -1,7 +1,68 @@
 {
-  "updated": "2026-07-01 07:18:03",
-  "count": 13973,
+  "updated": "2026-07-01 07:21:51",
+  "count": 13975,
   "items": [
+    {
+      "id": "4963766",
+      "time": "2026-07-01 07:20:07",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國副總統萬斯：出生公民權裁決令人失望。"
+    },
+    {
+      "id": "mkt:019f1ad4-d2ac-7aab-8c44-f8b10850df2a",
+      "time": "2026-07-01 07:19:42",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Microsoft",
+        "Market Themes",
+        "Magnificent 7",
+        "MSFT.O",
+        "Impact mixed"
+      ],
+      "text": "【Microsoft plans new round of layoffs affecting thousands of roles】Business Insider reported Microsoft (MSFT.O) plans to announce another round of layoffs to control costs, affecting thousands of positions across sales, consulting and the Xbox gaming unit. The cut is expected to be smaller than last year and below 2.5% of its roughly 220,000 workforce. The company may announce the move next week, though timing could change; some affected employees will be immediately offered new roles. Last year Microsoft cut about 6,000 jobs in May and a further 9,000 in July. The decisions come as Microsoft steps up AI investment while trimming expenses."
+    },
+    {
+      "id": "4963765",
+      "time": "2026-07-01 07:19:21",
+      "tags": [
+        "公司"
+      ],
+      "text": "【上半年消金公司不良轉讓規模同比增逾七成】2026年上半年，消費金融公司對不良貸款資產包的處置力度空前。證券時報記者根據銀行業信貸資產登記流轉中心（簡稱“銀登中心”）資料梳理，今年上半年已有24家持牌消金公司掛牌轉讓不良貸款，合計未償本息金額達532.02億元，同比增長74.5%。在資產質量管控趨嚴與監管政策密集落地的雙重背景下，消金行業正加速告別粗放模式，貸後管理與風險處置也隨之迎來變革。"
+    },
+    {
+      "id": "4963764",
+      "time": "2026-07-01 07:19:13",
+      "tags": [
+        "公司",
+        "觀點",
+        "國際"
+      ],
+      "text": "【數字基礎設施公司ITG美國IPO定價低於區間，籌資3.122億美元】由橡樹資本（Oaktree）支援的ITG週二表示，其美國首次公開募股（IPO）定價為每股16美元，低於目標區間，共籌集3.122億美元。這家數字基礎設施公司此次共售出1950萬股，最初的發行定價區間為每股19至22美元。ITG在美國各地提供端到端的數字基礎設施服務，支援寬頻、無線、資料中心、公用事業及民用基礎設施的規劃、建設、運營和維護。隨著高速寬頻已成為一項基本公共設施，且人工智慧公司斥資數十億美元建設其技術所需的資料中心，對該公司服務的需求隨之增長。2021年，投資公司橡樹資本管理與ITG管理層合作，收購了該公司。摩根士丹利、花旗集團、瑞銀投資銀行和斯蒂費爾是此次發行的聯合簿記管理人。該公司將於週三在納斯達克交易所開始交易，股票程式碼為“ITG”。"
+    },
+    {
+      "id": "te:economy:563125",
+      "time": "2026-07-01 07:18:22",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Ireland",
+        "Consumer Confidence",
+        "Importance 1"
+      ],
+      "text": "Irish Consumer Sentiment Hits 4-Month High — Ireland’s Credit Union Consumer Sentiment Index rose to a four-month high of 62.2 in June 2026 from 59.4 in May, extending its recovery for a second consecutive month as concerns over household finances, the economic outlook, and future conditions eased. The index has rebounded by nine points over the past two months but remained below February’s 65.2 reading and well under its long-term average of 83.2, reflecting lingering uncertainty over a lasting peace in the Middle East and still-elevated retail fuel prices. Four of the five survey components improved, while confidence in the jobs market weakened amid Meta’s planned workforce reductions and growing concerns over AI-related employment risks. Although easing global oil prices and government energy support helped soften inflation concerns, households remained broadly pessimistic about their financial situation, signaling consumers are still cautious despite improving sentiment."
+    },
+    {
+      "id": "4963763",
+      "time": "2026-07-01 07:18:17",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【South32以56億美元向美國鋁業出售資產】悉尼上市的South32公司同意將其在澳大利亞、巴西和南非的鋁土礦、氧化鋁和鋁資產出售給美國鋁業公司（Alcoa），交易價值為56億美元。"
+    },
     {
       "id": "4963762",
       "time": "2026-07-01 07:16:48",
@@ -128296,38 +128357,6 @@
         "宏觀"
       ],
       "text": "【電容炭國產化率提升至約60%】23日從市場監管總局獲悉，針對電化學電容器用奈米多孔活性炭研發、生產及貿易中因缺乏核心指標體系與統一可比測試方法，導致材料研發與器件應用脫節、產品質量參差不齊這一全球性難題，我國已成功構建覆蓋材料、電極片及電化學效能核心引數的完整測量規範體系，推動電容炭國產化率提升至約60%，實現從“進口依賴”向“技術輸出”的關鍵轉型。（科技日報）"
-    },
-    {
-      "id": "4951253",
-      "time": "2026-06-24 07:20:38",
-      "tags": [
-        "國際"
-      ],
-      "text": "【美放寬對伊朗隊停留限制】當地時間6月23日，美國國土安全部發言人稱，美國放寬對伊朗國家足球隊在美國境內停留的限制：伊朗隊將被允許在當地時間6月26日對陣埃及隊的小組賽最後一場比賽前兩天入境美國，但仍然要在比賽結束當晚離境。發言人表示，整體安全措施和流程保持不變。 由於在美國停留的限制，伊朗隊在整個世界盃賽事期間駐紮在墨西哥蒂華納，往返美國參加比賽，同時多名伊朗隊工作人員和足協官員被禁止入境。"
-    },
-    {
-      "id": "4951252",
-      "time": "2026-06-24 07:20:15",
-      "tags": [
-        "其他"
-      ],
-      "text": "【告別3%以上利率“躺賺”時代 一批儲戶正經歷收益落差】2026年海量中長期定期存款將集中到期，多年前鎖定3%以上利率的儲戶們需直面利率接近腰斬的現實落差。隨著存款利率持續走低，當前多數銀行各期限存款利率進入“1字頭”區間，大額存單額度收緊、長期限存款產品不斷縮減，儲戶不得不向高息存款“躺賺”時代說再見。業內人士表示，規模龐大的存款集中到期，既推動居民調整資金配置、切換風險偏好，配置重心由單一追逐保本高息轉向統籌平衡安全、收益與流動性，也倒逼銀行加速財富管理業務轉型。（中國證券報）"
-    },
-    {
-      "id": "4951251",
-      "time": "2026-06-24 07:19:20",
-      "tags": [
-        "國際"
-      ],
-      "text": "【美伊就伊核設施核查各執一詞 黎巴嫩問題擴大美以分歧】美國和伊朗在瑞士比爾根山舉行談判後，當地時間23日，伊朗方面稱，霍爾木茲海峽已對商船免費開放。然而，圍繞伊朗是否接受國際原子能機構核查問題，美伊雙方給出了不同說法。與此同時，黎以新一輪談判在美國華盛頓啟動。隨著美伊談判的推進，在黎巴嫩問題上，美國和以色列之間的分歧愈加凸顯。（央視）"
-    },
-    {
-      "id": "4951250",
-      "time": "2026-06-24 07:18:44",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國財長貝森特：美國必須避免在任何海外關鍵咽喉節點陷入受制於人局面。"
     }
   ]
 }
