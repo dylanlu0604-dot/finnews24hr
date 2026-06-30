@@ -1,7 +1,361 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-07-01 02:17:08_
-_本檔包含 2810 則快訊，約 517714 字_
+_更新時間：2026-07-01 03:20:27_
+_本檔包含 2785 則快訊，約 517885 字_
+
+---
+
+### 2026-06-24 21:56:51  #Trading Economics #Markets #Commodity #Importance 1
+
+Silver Falls to December-Lows — Silver prices fell about 5% to $59 per ounce on Wednesday, their lowest level since December, tracking broader weakness across the precious metals complex. The decline was driven by a stronger US dollar and growing expectations that the Fed will maintain a hawkish policy stance, prompting traders to increase bets on an interest-rate hike later this year. Markets currently assign a roughly 68% probability of a Fed rate increase in September, up from 29% a week ago. Silver and other precious metals also came under additional selling pressure as a sharp decline in US technology stocks led some investors to reduce bullion holdings to help offset losses elsewhere in their portfolios. Silver is now down about 13% year-to-date and nearly 47% below its record high reached in January, before the outbreak of the conflict with Iran.
+
+---
+
+### 2026-06-24 21:56:29  #其他
+
+英國電網運營機構撤銷週三電力供應餘量預警。
+
+---
+
+### 2026-06-24 21:56:21  #MKT News #Commodities #Precious Metals #Macro & Rates #The Fed (FOMC) #XAUUSD #Impact bearish #HOC.L #FRES.L
+
+【Gold falls below $4,000/oz; precious‑metals miners slump】Gold slipped below $4,000/oz for the first time since November 2025 as market expectations of further Federal Reserve rate hikes and a firmer dollar pressured bullion. Silver also tumbled, weighing on miners. London‑listed precious‑metals stocks moved sharply lower: Hochschild fell more than 9% in after‑hours trade to a six‑month low, Fresnillo dropped 5.1% and Endeavour Mining slid 5.25%.
+
+---
+
+### 2026-06-24 21:54:52  #央行 #國際
+
+歐洲央行執委奇波洛內：數字歐元不會對金融穩定構成風險。數字歐元對銀行的影響“微乎其微”。
+
+---
+
+### 2026-06-24 21:54:31  #其他
+
+葛蘭素史克宣佈要約收購Nuvalent。
+
+---
+
+### 2026-06-24 21:54:17  #MKT News
+
+【Guanzhong Customs: Xi'an Jan-May 2026 total trade up 85.1% YoY】Guanzhong Customs said Xi'an's Jan-May 2026 imports and exports totaled 352.5 bln yuan, up 85.1% YoY — 69.8 percentage points above national trade growth and the fastest pace among 15 sub-provincial cities. Exports were 277.3 bln yuan (+107.8% YoY); imports 75.2 bln yuan (+31.9% YoY). Trade surplus totaled 202.1 bln yuan.
+
+---
+
+### 2026-06-24 21:54:15  #MKT News #Commodities #Energy #Brent #Impact bearish
+
+【Brent near-month spread flips to contango for first time since Feb; oversupply expectations rise】A US-Iran agreement reopening the Strait of Hormuz has increased Middle East supply, and Brent's near-month spread has flipped into contango for the first time since February — the front-month now trades below the next-month contract. Contango typically signals expected supply surplus; the move coincides with falling physical crude premia and similar weakness in the Dubai market. Earlier today Brent dipped below $75/bbl for the first time since the outbreak of the Iran war.
+
+---
+
+### 2026-06-24 21:54:08  #MKT News #S&P500 #Impact bullish
+
+S&P 500 extended gains to 0.5%.
+
+---
+
+### 2026-06-24 21:54:07  #市場
+
+標普500指數漲幅擴大至0.5%。
+
+---
+
+### 2026-06-24 21:54:00  #MKT News #EURUSD
+
+ECB executive board member Cipellone said the digital euro will not pose a risk to financial stability.
+
+---
+
+### 2026-06-24 21:53:50  #其他
+
+墨西哥能源部長：到 2030 年將新增 22376 兆瓦清潔能源裝機，墨西哥 2030 年清潔能源佔比將達 38%。
+
+---
+
+### 2026-06-24 21:53:48  #MKT News #Market Regions #Europe & UK
+
+ECB executive board member Cipellone said the impact of a digital euro on banks is 'negligible'.
+
+---
+
+### 2026-06-24 21:53:10  #國際
+
+歐盟能源事務負責人表示不會重新修訂甲烷法規。
+
+---
+
+### 2026-06-24 21:52:17  #公司 #國際
+
+【霍爾木茲海峽受阻影響1250億美元船舶及貨物】全球保險和風險管理機構安聯商業公司24日釋出報告指出，地緣政治緊張局勢成為全球航運業面臨的首要挑戰，霍爾木茲海峽“梗阻”已影響總價值約1250億美元的船舶及貨物。安聯商業公司當天釋出的《2026年航運安全與運輸回顧報告》顯示，近期中東戰事造成霍爾木茲海峽“梗阻”。截至6月15日，受到影響的船舶及貨物總價值約1250億美元，總噸位約2900萬總噸。（新華社）
+
+---
+
+### 2026-06-24 21:51:14  #公司
+
+全球保險和風險管理機構安聯商業公司24日釋出報告指出，霍爾木茲海峽“梗阻”已影響總價值約1250億美元的船舶及貨物。
+
+---
+
+### 2026-06-24 21:51:05  #其他
+
+【2026年1—5月西安市進出口總值較上年同期增長85.1%】據關中海關統計，2026年1—5月西安市進出口總值3525億元，較上年同期（下同）增長85.1%，高出全國進出口增速69.8個百分點，增速在15個副省級城市中排名第一。其中，出口2773.1億元，增長107.8%；進口751.9億元，增長31.9%；同期貿易順差2021.2億元。
+
+---
+
+### 2026-06-24 21:50:46  #其他
+
+德國總理默茨：昨日接待了塞內加爾總統。目睹該國及所在地區民眾的處境，就能明白德國這樣的富裕國家助力這些地區穩定發展有多重要。未來我們也會持續為此付出努力。
+
+---
+
+### 2026-06-24 21:50:26  #公司 #市場
+
+聯邦快遞股價下跌1.8%，此前該公司公佈核心快遞業務第四季度利潤率下滑。
+
+---
+
+### 2026-06-24 21:50:15  #其他
+
+新加坡電信與塔塔通訊合資企業：針對德里資料中心火災事故的獨立技術根本原因分析正在進行中。
+
+---
+
+### 2026-06-24 21:50:06  #MKT News #Important #Macro & Rates #US Economy #DXY #Impact mixed #US10Y
+
+US May new-home sales (annualized) due in 10 minutes.
+
+---
+
+### 2026-06-24 21:50:01  #其他
+
+新加坡電信與塔塔通訊合資企業：為受德里資料中心火災影響的客戶提供恢復及業務連續性支援。
+
+---
+
+### 2026-06-24 21:49:57  #其他
+
+新加坡科技電信媒體與塔塔通訊合資企業：單個資料機房之外的其餘設施“繼續運營”。
+
+---
+
+### 2026-06-24 21:49:53  #公司 #國際
+
+新加坡星展電信集團與印度塔塔通訊合資企業表示：對6月5日新德里資料中心火災的初步評估顯示，火勢僅波及單個資料機房及其基礎設施。
+
+---
+
+### 2026-06-24 21:49:13  #國際 #兩會
+
+【巴特爾同古巴對華友好組織負責人舉行影片會晤】全國政協副主席、中國古巴友好協會會長巴特爾24日在京同古巴與各國人民友好協會主席岡薩雷斯、古中友好協會主席迭戈舉行影片會晤。雙方就落實兩國元首重要共識、助力推動新時代中古特殊友好關係發展等交換意見。（新華社）
+
+---
+
+### 2026-06-24 21:49:05  #Trading Economics #Markets #Brazil #Stock Market #Importance 1
+
+Ibovespa Slips as Petrobras And Vale Weigh — The Ibovespa edged lower to trade near the 170,500 mark on Wednesday, as markets adjusted after the global tech-led selloff in the previous session. Shares of Petrobras fell more than 1.5% as oil prices extended this week’s losses on signs that more tankers are set to leave the Strait of Hormuz. Vale lost nearly 1% amid an internal dispute over its chairman position. Meanwhile, major banks traded higher as interest-rate futures moved lower, with Itaú, Bradesco, and Banco do Brasil gaining more than 0.5%. Geopolitical uncertainty remained elevated as the US and Iran gave conflicting accounts of the terms agreed under their peace deal, including nuclear inspections and control over the Strait of Hormuz.
+
+---
+
+### 2026-06-24 21:47:45  #Trading Economics #Markets #United States #stocks #Importance 1
+
+Walt Disney Stock Price Hits 4-week High — Walt Disney shares increased to 104.43 USD, the highest since May 2026. Over the past 4 weeks, Walt Disney gained 0.34%, and in the last 12 months, it decreased 12.66%.
+
+---
+
+### 2026-06-24 21:47:22  #國際
+
+【國際原子能機構要求核查 伊朗稱須在最終協議內】據日本共同社報道，國際原子能機構總幹事格羅西24日在訪日期間表示，對於伊朗核相關設施的核查“必須進行”，具體地點和時間仍在研究之中，希望能儘快實施核查。伊朗外交部副部長加里巴巴迪24日在社交媒體發文表示，有關伊朗遭襲核設施及核材料核查的議題，只有在最終協議框架內、且對方切實終止所有制裁的前提下，方可進行討論和定奪。加里巴巴迪說，伊朗未在瑞士與格羅西舉行任何會晤，儘管格羅西曾提出相關請求。伊朗目前沒有允許國際原子能機構進入遭襲核設施和核材料區域的計劃。伊朗核問題是美國與伊朗就最終協議展開談判的關鍵議題之一。美國方面認為有必要對伊朗進行核查，並稱伊朗已同意接受核查。美國總統特朗普23日表示，核查人員將在適當時機進入現場。美國副總統萬斯22日表示，美國和伊朗的談判取得了很多進展，為達成最終協議奠定了非常好的基礎，伊朗已同意邀請國際原子能機構核查人員重返伊朗。（新華社）
+
+---
+
+### 2026-06-24 21:44:43  #市場 #焦點
+
+20號膠連續主力合約日內跌4%，現報15015.00元。
+
+---
+
+### 2026-06-24 21:44:40  #公司
+
+菲利普斯66執行長表示，公司已將煉油業務每桶成本削減約1美元；目標是將加州地區成本降至每桶5.50美元，其他地區降至每桶15美元。
+
+---
+
+### 2026-06-24 21:44:26  #市場
+
+SpaceX股價下跌2.7%。
+
+---
+
+### 2026-06-24 21:44:15  #Trading Economics #Markets #United States #stocks #Importance 1
+
+BlackRock Stock Price Hits 10-week Low — BlackRock shares decreased to 982.40 USD, the lowest since April 2026. Over the past 4 weeks, BlackRock lost 8.51%, and in the last 12 months, it decreased 3.18%.
+
+---
+
+### 2026-06-24 21:43:57  #其他
+
+市場訊息：幣安已與愛爾蘭、拉脫維亞、希臘三方溝通，但遭遇阻力。
+
+---
+
+### 2026-06-24 21:43:28  #市場 #焦點
+
+納斯達克中國金龍指數跌超1%，金生遊樂跌14.84%，海天網路跌5.75%，金山雲跌3.69%，新氧跌2.72%，京東跌1.93%。
+
+---
+
+### 2026-06-24 21:43:10  #MKT News #Market Regions #Europe & UK #DAX #Impact bearish #DXY #Impact bullish #EURUSD
+
+Italy's FTSE MIB index fell as much as 1.00% intraday.
+
+---
+
+### 2026-06-24 21:43:08  #其他
+
+義大利富時MIB指數日內跌幅達1.00%。
+
+---
+
+### 2026-06-24 21:43:01  #央行 #國際
+
+據美國紐約聯儲資料，上個交易日（6月23日）擔保隔夜融資利率（SOFR）報3.62%，之前一天報3.61%。上個交易日有效的聯邦基金利率報3.63%，之前一天報3.63%。
+
+---
+
+### 2026-06-24 21:42:53  #Trading Economics #Markets #United States #stocks #Importance 1
+
+Abbott Stock Price Hits 8-week High — Abbott shares increased to 92.74 USD, the highest since April 2026. Over the past 4 weeks, Abbott gained 6.87%, and in the last 12 months, it decreased 32.59%.
+
+---
+
+### 2026-06-24 21:42:44  #市場 #焦點 #國際
+
+紐約原油期貨主力合約價格24日盤中跌破每桶70美元，為伊朗戰事爆發以來首次。（新華社）
+
+---
+
+### 2026-06-24 21:42:42  #MKT News #Commodities #Energy #XOM.N #Impact bearish #CVX.N #OXY.N
+
+US energy stocks fell: Chevron (CVX.N) down 2.3%, ExxonMobil (XOM.N) down 2.5%, ConocoPhillips (COP.N) down 2.7%, Occidental Petroleum (OXY.N) down 3.0%.
+
+---
+
+### 2026-06-24 21:42:35  #國際
+
+市場訊息：幣安承諾留守歐盟，將重新遞交當地運營牌照申請。
+
+---
+
+### 2026-06-24 21:41:44  #Trading Economics #Markets #United States #stocks #Importance 1
+
+J&J Stock Price Hits 10-week High — J&J shares increased to 241.72 USD, the highest since April 2026. Over the past 4 weeks, Johnson & Johnson gained 4.9%, and in the last 12 months, it increased 58.65%.
+
+---
+
+### 2026-06-24 21:41:40  #公司 #市場 #國際
+
+美國能源企業股價下跌，因油價跌至伊朗戰爭爆發以來最低點，跌幅近4%。雪佛龍下跌2.3%，埃克森美孚下跌2.5%，康菲石油下跌2.7%。西方石油公司股價下跌3%，APA公司股價下跌3.5%。瓦萊羅能源股價下跌2.3%，德文能源股價下跌2.7%。
+
+---
+
+### 2026-06-24 21:40:51  #國際
+
+傑富瑞將美國航空目標股價從15美元上調至16美元。
+
+---
+
+### 2026-06-24 21:40:09  #Trading Economics #Markets #United States #Stock Market #Importance 1
+
+The Dow Jones Index Opens 0.02% Higher — The Dow Jones Index is gaining 11 points or 0.02 percent on Wednesday. Leading the gains are Home Depot (2.63%), Sherwin-Williams (2.04%) and Amazon (1.64%). Top losers are Chevron (-2.30%), IBM (-2.17%) and Goldman Sachs (-1.59%).
+
+---
+
+### 2026-06-24 21:40:07  #MKT News
+
+【Baltic dry-bulk index slips as Capesize, Ultramax freight weaken】The Baltic Dry Index (BDI) fell 33 points, or 1.2%, to 2,634 on Wednesday, dragged by weaker Capesize and Ultramax freight. The Capesize Index (BCI) dropped 96 points, or 2.4%, to 3,950, its lowest since June 18; Capesize daily earnings fell $870 to $32,322. The Panamax Index (BPI) rose 26 points, or 1.3%, to 2,071, with Panamax daily earnings up $235 to $18,641. The Baltic Supramax/Ultramax Index (BSI) declined 12 points, or 0.7%, to 1,693.
+
+---
+
+### 2026-06-24 21:40:04  #觀點
+
+【摩根大通上調標普 500 指數目標點位】摩根大通將標普 500 指數年末目標點位上調至 7800 點，理由是人工智慧投資熱潮疊加地緣政治風險緩和，催生了一輪 “前所未有的” 企業盈利上調週期。該行將 2026 年標普 500 成分股每股收益（EPS）預期上調至 350 美元，並預計企業盈利強勁增長態勢將延續至 2027 年。摩根大通持續看好科技、人工智慧、國防及銀行板塊，但警示投機性成長股面臨較大回撥風險。
+
+---
+
+### 2026-06-24 21:39:09  #公司
+
+工會訊息：受高溫天氣影響，道達爾集團縮減諾曼底煉油廠運營產能。
+
+---
+
+### 2026-06-24 21:39:03  #Trading Economics #Markets #commodity #Importance 0
+
+Palladium is down by 5.23% — Palladium decreased 5.23% to 1179 USD/t.oz
+
+---
+
+### 2026-06-24 21:39:02  #市場
+
+西德克薩斯輕質原油（WTI）油價跌破每桶 70 美元，為 3 月 4 日以來首次。
+
+---
+
+### 2026-06-24 21:38:33  #宏觀
+
+【將11只私募基金包裝成公募基金、逃避稅23.67億元，中行回應】6月23日，審計署網站釋出《國務院關於2025年度中央預算執行和其他財政收支的審計工作報告》。報告在“重大風險審計情況”的“金融風險”中指出的一類問題為“利用金融優惠政策不當牟利”，其中提及，中國銀行2023年4月至2025年8月，安排2家下屬金融機構作為通道，透過裝入大量出資1元至100元的本行員工等 “湊人頭”，將11只私募基金包裝成公募基金，利用公募基金免收所得稅的政策優惠逃避稅23.67億元。對此，中國銀行回應稱，誠懇接受審計監督，高度重視審計指出問題，深刻剖析原因，堅持立行立改，細化明確措施，紮實推進整改。
+
+---
+
+### 2026-06-24 21:37:53  #MKT News
+
+An Israeli drone struck a car in southern Lebanon, killing two people, medical and security sources said.
+
+---
+
+### 2026-06-24 21:37:40  #其他
+
+傑富瑞將達美航空目標股價從81美元上調至100美元。
+
+---
+
+### 2026-06-24 21:37:36  #MKT News #GOOG.O #Impact bullish
+
+Google (GOOG.O) shares rose 1.3% after the company was named to replace Verizon Communications as a component of the Dow Jones Industrial Average.
+
+---
+
+### 2026-06-24 21:37:15  #Trading Economics #Markets #United States #Stock Market #Importance 2
+
+US Stocks Edge Higher After Chip Selloff — US equity indices inched higher on Wednesday following the selloff in the heavyweight chip sector yesterday The Nasdaq 100 and the S&P 500 gained around 0.5%. Micron added 2% head of its earnings after the bell. It followed the 13% plunge last session on fresh doubts that capital expenditures from AI companies were overdone and are due to slow. Other semiconductor and memory producers rebounded from the selloff, with Nvidia, Lam Research, and Sandisk were in the green. AI fundraising remained at soaring levels as SK Hynix was looking to raise $29 billion with a US listing shortly after the record SpaceX IPO. In turn, yields remained elevated along the curve despite the return of oil prices to pre-Iran war levels on the outlook of a hawkish Fed. Financial stocks traded muted ahead of the open. The Dow was flat as it avoided the volatility from other indices due to lower exposure to tech, set to change on Monday when Alphabet takes the place of Verizon.
+
+---
+
+### 2026-06-24 21:36:57  #國際
+
+醫療及安全訊息來源稱，以色列無人機空襲黎巴嫩南部一輛車輛，造成兩人死亡。
+
+---
+
+### 2026-06-24 21:36:53  #國際
+
+【2026青海產業“四地”推介洽談會在京成功舉辦】6月23日上午，第四屆鏈博會期間，2026青海產業“四地”推介洽談會在京成功舉辦。本次活動由青海省人民政府主辦，青海省商務廳、青海省貿促會、中國貿促會貿易推廣交流中心共同承辦。俄羅斯聯邦工商會、中國美國商會、英中貿易協會、日本貿易振興機構等外國商協會代表，飛利浦、英特爾、瑞穗銀行等外資企業代表，部分中資企業和商協會代表等120餘人出席推介洽談會。
+
+---
+
+### 2026-06-24 21:36:40  #公司 #市場
+
+谷歌母公司Alphabet股價上漲1.3%；該公司將取代威瑞森通訊，納入道瓊斯工業平均指數成份股。
+
+---
+
+### 2026-06-24 21:36:22  #Trading Economics #Markets #United States #stocks #Importance 1
+
+Stryker Stock Price Hits 4-week High — Stryker shares increased to 315.68 USD, the highest since May 2026. Over the past 4 weeks, Stryker gained 0.74%, and in the last 12 months, it decreased 18.41%.
+
+---
+
+### 2026-06-24 21:36:05  #Trading Economics #Markets #Switzerland #Stock Market #Importance 0
+
+Stocks in Switzerland Hit All-time High — CH20 increased to an all-time high of 14104.00 Index Points. Over the past 4 weeks, Switzerland Stock Market Index (CH20) gained 4.24%, and in the last 12 months, it increased 18.68%.
 
 ---
 
@@ -16469,509 +16823,5 @@ The New York Times reports several major Iranian banks experienced disruption to
 ### 2026-06-24 03:20:44  #MKT News #LLY.N #Impact bullish
 
 U.S. President Trump, while discussing the jobs market, called Eli Lilly (LLY.N) "a great pharmaceutical company" and referenced the company's investment.
-
----
-
-### 2026-06-24 03:17:32  #國際
-
-特朗普：賓夕法尼亞州就業崗位大幅增長。僅過去數月，該州就新增3.2萬個就業崗位，其中製造業崗位2600個。
-
----
-
-### 2026-06-24 03:16:25  #其他 #焦點
-
-美光科技跌幅超13%，或創下2025年4月以來最大單日跌幅。
-
----
-
-### 2026-06-24 03:13:58  #市場 #國際
-
-特朗普：全美汽油均價相較不久前每加侖下跌了60美分。美國經濟即將騰飛，達到前所未有的高度。
-
----
-
-### 2026-06-24 03:13:17  #MKT News #Market Themes #The Trump Trade
-
-Trump claimed he cut the US trade deficit by 67%, the largest reduction in US history.
-
----
-
-### 2026-06-24 03:12:33  #MKT News
-
-President Trump accused former President Obama of attempting to bribe Iran with tens of billions of dollars and said Iran's leadership only understands "iron-fist measures".
-
----
-
-### 2026-06-24 03:12:17  #觀點
-
-摩根大通已獲批推出一隻全新間隔基金，投資於公募及私募信貸資產，並允許投資者按月贖回份額；當前直接信貸行業正遭遇新一輪大規模撤資申請的衝擊。
-
----
-
-### 2026-06-24 03:11:43  #國際
-
-特朗普：我們與伊朗達成了一份具有歷史意義的和平協議，以此終結衝突。而最重要的是，我們明確落實了一項關鍵訴求——這也是我促成這份協議的初衷——伊朗永遠不得擁有核武器，伊朗方面已對此表示認同。
-
----
-
-### 2026-06-24 03:11:13  #MKT News #Market Regions #Emerging Markets
-
-Argentina's statistics agency said Q1 2026 GDP rose 2.3% YoY, above market consensus of 1.7%.
-
----
-
-### 2026-06-24 03:09:50  #公司 #國際
-
-特朗普稱讚禮來公司。
-
----
-
-### 2026-06-24 03:07:03  #MKT News #Brent #Impact bearish #XAUUSD #S&P500 #Impact bullish
-
-US President Trump said the US will strip Iran of its nuclear capability and that Iran has agreed to this.
-
----
-
-### 2026-06-24 03:06:59  #國際
-
-特朗普談及伊朗： 我們會讓伊朗徹底喪失導彈作戰能力。
-
----
-
-### 2026-06-24 03:06:43  #MKT News #Commodities #Energy #Market Themes #The Trump Trade #WTI #Impact bearish #Brent
-
-U.S. President Trump said energy prices have fallen sharply.
-
----
-
-### 2026-06-24 03:06:38  #國際
-
-特朗普：沙特國王曾對我說“閣下，您要知道，兩年前貴國當時處境岌岌可危”。
-
----
-
-### 2026-06-24 03:06:15  #MKT News #WTI #Impact bullish #XAUUSD #DXY
-
-U.S. President Trump said "We can fly over Tehran whenever we want; no one would dare do anything to us," and said he had seen "fake news" reports claiming they (Iran) are doing quite well.
-
----
-
-### 2026-06-24 03:05:55  #MKT News #Commodities #Energy #Market Themes #The Trump Trade #WTI #Impact bearish #Brent
-
-President Trump said the US is working to reach a fair deal with Iran. Yesterday 19 mln barrels of oil transited the Strait of Hormuz.
-
----
-
-### 2026-06-24 03:05:22  #國際
-
-特朗普談及伊朗： 我們可以隨意飛越德黑蘭上空，沒人能拿我們怎麼樣。
-
----
-
-### 2026-06-24 03:05:18  #國際
-
-特朗普談及伊朗： 我們會徹底剝奪其所有核能力，伊朗方面已對此表示同意。 目前雙方溝通進展十分順利。
-
----
-
-### 2026-06-24 03:04:49  #國際
-
-特朗普：美國正致力於與伊朗達成公平協議，昨日有1900萬桶石油經由霍爾木茲海峽運輸。
-
----
-
-### 2026-06-24 03:04:42  #MKT News #Market Themes #The Trump Trade #Nasdaq100 #Impact bearish
-
-At a Pennsylvania rally, Trump claimed US stocks hit a new high today. The Nasdaq Composite is currently down about 2%.
-
----
-
-### 2026-06-24 03:04:16  #國際
-
-特朗普稱讚汽油價格下降。
-
----
-
-### 2026-06-24 03:03:56  #MKT News
-
-US President Trump said Iran is in poor shape and lacks both an army and air-defence systems.
-
----
-
-### 2026-06-24 03:03:29  #MKT News #WTI #Impact bullish #Brent #XAUUSD
-
-U.S. President Trump said Iran's economy has been severely damaged and will take years to recover.
-
----
-
-### 2026-06-24 03:03:13  #MKT News #Macro & Rates #Treasury Yields #US10Y #Impact bearish
-
-U.S. Treasury Department data show foreign investors bought $5.2bn of 10-year Treasuries maturing May 2036 in the latest two-week reporting period, down from $6.23bn the prior month.
-
----
-
-### 2026-06-24 03:03:01  #MKT News #Market Regions #Greater China #Hang Seng Index #Impact bullish
-
-Hang Seng index futures night session closed up 0.78% at 23,498, trading at a 162-point premium to the cash index.
-
----
-
-### 2026-06-24 03:02:53  #其他
-
-【C羅梅開二度 葡萄牙5-0戰勝烏茲別克】北京時間6月24日，2026美加墨世界盃小組賽K組第二輪中，葡萄牙5-0戰勝烏茲別克，小組賽一勝一平積4分。
-
----
-
-### 2026-06-24 03:02:39  #MKT News
-
-US President Trump said the US is getting along fairly well with Iran.
-
----
-
-### 2026-06-24 03:02:24  #MKT News #WTI #Impact bearish #Brent
-
-TRUMP on Iran said the US is working to reach a fair deal.
-
----
-
-### 2026-06-24 03:02:20  #MKT News #S&P500 #Impact bullish #WTI #Impact bearish #DXY
-
-US President Trump says Iran has agreed never to possess nuclear weapons.
-
----
-
-### 2026-06-24 03:02:16  #國際
-
-特朗普談伊朗問題：我們正致力於達成一份公平的協議。
-
----
-
-### 2026-06-24 03:01:39  #焦點 #國際
-
-特朗普：伊朗已同意永遠不擁有核武器。
-
----
-
-### 2026-06-24 03:01:29  #國際
-
-特朗普：我們和伊朗相處得很好。
-
----
-
-### 2026-06-24 03:01:19  #其他
-
-阿根廷國家統計局公佈，2026年第一季度國內生產總值同比增長2.3%。此前路透調查的預期增速為1.70%。
-
----
-
-### 2026-06-24 03:01:13  #宏觀 #市場 #國際
-
-美國財政部公佈，在最近半個報告期內，外國投資者買入了22.71億美元將於2056年5月15日到期的30年期國債，上月該資料為27.67億美元。
-
----
-
-### 2026-06-24 03:01:10  #宏觀 #市場 #國際
-
-美國財政部：在最新雙週報報告期內，投資基金買入289.62億美元2036年5月15日到期的10年期國債，上月買入規模為293.32億美元。
-
----
-
-### 2026-06-24 03:01:07  #宏觀 #市場 #國際
-
-美國財政部：在最近的雙週報告期內，投資基金買入157.23億美元將於2056年5月15日到期的30年期國債，前一個月的買入規模為183.40億美元。
-
----
-
-### 2026-06-24 03:01:04  #宏觀 #市場 #國際
-
-美國財政部公佈，在最新雙週報報告期內，投資基金買入421.81億美元將於2029年6月15日到期的3年期國債，上月買入規模為416.36億美元。
-
----
-
-### 2026-06-24 03:01:00  #宏觀 #市場 #國際
-
-美國財政部：在最近兩週報告期內，外國投資者買入52億美元將於2036年5月15日到期的10年期國債，上月買入規模為62.3億美元。
-
----
-
-### 2026-06-24 03:00:03  #市場
-
-恒指期貨夜盤收漲0.86%，報23487.10點，高水150.82點。
-
----
-
-### 2026-06-24 02:59:41  #其他
-
-【烏干達和剛果（金）啟動埃博拉疫情監控跨境合作】當地時間23日，烏干達衛生部表示，該國與剛果（金）啟動埃博拉疫情監控跨境合作，以加強對兩國邊境地區的監控，阻止疫情擴散。（央視新聞）
-
----
-
-### 2026-06-24 02:57:48  #MKT News
-
-Trump says Iran cannot have nuclear weapons.
-
----
-
-### 2026-06-24 02:57:45  #國際
-
-特朗普談及伊朗問題： 伊朗絕不能擁有核武器，這點沒得商量。
-
----
-
-### 2026-06-24 02:57:16  #國際
-
-特朗普：已會見工會領袖。
-
----
-
-### 2026-06-24 02:56:40  #MKT News
-
-【US allows Iran team to enter US two days before next match】On June 23 the U.S. Department of Homeland Security said it has relaxed travel restrictions to allow Iran’s national football team to enter the United States two days before its June 26 group match against Egypt in Seattle; the team must depart the same night. DHS said overall security measures and procedures remain unchanged. Iran will remain based in Tijuana, Mexico, for the tournament and several team staff and federation officials continue to be barred from entry.
-
----
-
-### 2026-06-24 02:56:13  #國際
-
-【美國允許伊朗隊下一場比賽前2天入境】當地時間6月23日，美國國土安全部發言人表示，美國放寬對參加世界盃比賽的伊朗國家足球隊的旅行限制，伊朗隊將被允許在26日對陣埃及隊的比賽前兩天入境美國，但仍須在比賽結束當晚離境。發言人表示，整體安全措施和流程保持不變。由於在美國停留的限制，伊朗隊在整個世界盃賽事期間駐紮在墨西哥蒂華納，往返美國參加比賽，同時多名伊朗隊工作人員和足協官員被禁止入境。當地時間6月26日，伊朗隊將在美國西雅圖迎戰小組賽的最後一個對手埃及隊。（央視新聞）
-
----
-
-### 2026-06-24 02:55:35  #MKT News
-
-Trump on Iran: we are doing pretty well.
-
----
-
-### 2026-06-24 02:55:30  #國際
-
-特朗普談伊朗局勢：我們目前進展相當順利。
-
----
-
-### 2026-06-24 02:55:17  #MKT News #6758.T #Impact bullish
-
-Nikkei reports Sony's new image sensor increases resolution by 20% by rearranging the color filter array.
-
----
-
-### 2026-06-24 02:53:54  #MKT News #Market Themes #The Trump Trade
-
-President Trump said he may run again, asked whether he should, and said he would like to.
-
----
-
-### 2026-06-24 02:49:04  #市場
-
-納斯達克100指數跌幅擴大至3.5%，觸及盤中低點。
-
----
-
-### 2026-06-24 02:47:52  #MKT News #Nasdaq100 #Impact bearish #S&P500 #US10Y #Impact bullish
-
-【SpaceX prepares first bond sale, plans $25 billion offering】SpaceX is preparing its first bond issuance to raise $25 billion to test fixed-income investor appetite for Elon Musk’s vision for the company. Bonds would span 5- to 30-year maturities. Banks view the deal as a bellwether for further fundraising; a buy-side source said SpaceX could return in the next few years seeking roughly $10 billion more in refinancing. The planned sale comes amid a renewed large-cap tech selloff and market concern over high valuations and a rising-rate outlook.
-
----
-
-### 2026-06-24 02:43:13  #市場 #焦點
-
-紐約期銀失守62美元/盎司，日內跌6.15%。
-
----
-
-### 2026-06-24 02:42:59  #MKT News #WTI #Impact bullish #Brent
-
-Italian Prime Minister Meloni said allowing Iran to impose transit fees in the Strait of Hormuz would turn a strategic trade waterway into a geopolitical weapon and is unacceptable.
-
----
-
-### 2026-06-24 02:42:42  #Trading Economics #Markets #United States #stocks #Importance 1
-
-Tesla Stock Price Hits 7-week Low — Tesla shares decreased to 380.12 USD, the lowest since May 2026. Over the past 4 weeks, Tesla lost 12.18%, and in the last 12 months, it increased 11.84%.
-
----
-
-### 2026-06-24 02:42:14  #MKT News #Commodities #Energy #WTI #Impact mixed #Brent
-
-【Several gas exporters warn EU methane rules could threaten energy security】The US, Qatar and other natural gas exporters have urged the EU to relax parts of proposed methane-emissions rules, warning the measures could threaten EU energy security. In a letter to European leaders co-signed by Nigeria and Algeria they called for a "pragmatic approach" to clarify and amend rule details so importers can continue supplying required oil and gas. The appeal comes as the EU faces pressure to lower high energy prices and plans to boost US gas imports amid the Middle East conflict; several member states want the methane rules' impact on energy security discussed at this week's EU energy ministers meeting.
-
----
-
-### 2026-06-24 02:39:21  #MKT News #AIR.PA #Impact bearish
-
-Fuselage cracks detected on Airbus A380s operated by Emirates and Qantas; Airbus to inspect 16 A380 aircraft.
-
----
-
-### 2026-06-24 02:36:43  #其他
-
-市場訊息：阿聯酋航空、澳洲航空旗下空客 A380 客機被檢出機身裂紋。
-
----
-
-### 2026-06-24 02:36:19  #其他
-
-市場訊息：空客在發現機身裂紋後，將對 16 架 A380 客機開展檢查。
-
----
-
-### 2026-06-24 02:32:29  #MKT News
-
-The US Federal Communications Commission said wireless spectrum auctions raised more than $3.5 billion.
-
----
-
-### 2026-06-24 02:31:34  #MKT News #Commodities #Energy #WTI #Impact bearish
-
-U.S. crude futures settled at $73.21/barrel, down $0.65, or 0.88%.
-
----
-
-### 2026-06-24 02:31:29  #MKT News #Commodities #Precious Metals #Energy #XAUUSD #Impact bearish #WTI
-
-【Night session main contracts close】As of the 02:30 close, SHFE gold main contract fell 0.82% to 902 yuan/gram; SHFE silver main contract fell 4.36% to 14,868 yuan/kg; SC crude oil main contract fell 1.52% to 492 yuan/barrel.
-
----
-
-### 2026-06-24 02:31:20  #MKT News #Commodities #Precious Metals #XAUUSD #Impact bearish
-
-Shanghai Gold Exchange June 23 evening session: gold T+D closed down 0.35% at 900.43 yuan/gram; silver T+D closed down 2.75% at 14,827.0 yuan/kg.
-
----
-
-### 2026-06-24 02:31:19  #市場
-
-WTI 7月原油期貨收報73.21美元/桶。NYMEX 7月天然氣期貨收報3.1470美元/百萬英熱單位。NYMEX 7月汽油期貨收報2.9590美元/加侖，NYMEX 7月取暖油期貨收報3.1546美元/加侖。
-
----
-
-### 2026-06-24 02:31:15  #MKT News
-
-AP: A US Department of Homeland Security spokesman said the US has eased restrictions on the Iranian World Cup team, allowing the team to depart for the match venue two days before its next game.
-
----
-
-### 2026-06-24 02:30:58  #國際
-
-美國聯邦通訊委員會表示，無線頻譜拍賣募款總額超 35 億美元。
-
----
-
-### 2026-06-24 02:30:02  #市場
-
-上期所原油期貨夜盤收跌1.52%，報492.00元人民幣/桶。滬金夜盤收跌0.82%，滬銀收跌4.36%。
-
----
-
-### 2026-06-24 02:30:00  #Trading Economics #Markets #Crypto #Importance 1
-
-Crypto Updates: Ether Drops by 4.09% — Top crypto losers are Ether (-4.09%), Bitcoin (-2.60%) and Binance (-2.58%).
-
----
-
-### 2026-06-24 02:28:45  #MKT News #Market Themes #AI Revolution
-
-OpenAI opens applications for its 2026 DevDay developer conference.
-
----
-
-### 2026-06-24 02:27:34  #其他
-
-【CFA一級考試透過率降至39%】CFA協會週二公佈，5月份39%的考生透過了一級考試，低於2月的45%，也低於去年11月和8月考試的43%。雖然這一透過率低於過去十年40%的平均水平，但仍高於2021年創下的低點。據CFA的資料，5月有超過3.1萬名考生參加一級考試，為2019年以來同級考試規模最大的一次。
-
----
-
-### 2026-06-24 02:26:24  #MKT News #Market Themes #The Trump Trade
-
-FIFA president says Trump will personally present the World Cup trophy.
-
----
-
-### 2026-06-24 02:26:04  #MKT News
-
-【Rubio: Iran denies agreeing to IAEA inspections for 'internal reasons'】The New York Times reports U.S. Secretary of State Rubio said Iran, citing domestic political reasons, has denied the Switzerland agreement to allow IAEA inspections. Rubio said Iran committed to inspections and must either honor that commitment—if it does the process will move forward; if it does not, President Trump will have to decide next steps.
-
----
-
-### 2026-06-24 02:25:00  #Trading Economics #Markets #Commodity #Importance 1
-
-Agricultural Commodities Updates: Coffee Gains by 3.28% — Top commodity gainers are Coffee (3.28%), Rice (3.26%) and Rapeseed (1.12%). Biggest losers are Lumber (-2.19%) and Wheat (-1.64%).
-
----
-
-### 2026-06-24 02:23:55  #國際
-
-國際足聯主席：特朗普將親自頒發世界盃獎盃。
-
----
-
-### 2026-06-24 02:22:13  #MKT News
-
-The U.S. State Department and other regional governments issued a joint statement saying a "violent minority" is attempting to disregard the will of the majority of the Bolivian people.
-
----
-
-### 2026-06-24 02:22:01  #MKT News
-
-U.S. State Department and other regional governments said in a joint statement that attempts to overthrow Bolivia's government constitute a "serious threat" to order and stability.
-
----
-
-### 2026-06-24 02:21:53  #宏觀 #國際
-
-美國國務院聯合西半球多國發布聯合宣告：玻利維亞境內顛覆政府的各類行徑對當地秩序與穩定構成 “嚴重威脅”。
-
----
-
-### 2026-06-24 02:20:50  #MKT News
-
-【Trump approval falls to second‑term low; half of Americans say Iran war not worth it】A five‑day Refinitiv/Ipsos poll ending Monday found Trump’s approval at 34%, returning to the lowest level of his second term, last seen in April. Only 24% said a war with Iran would be worth the cost; 50% said the conflict was not worth it and the remainder were unsure. About 63% said an agreement signed by Trump was unlikely to produce lasting peace between the US and Iran.
-
----
-
-### 2026-06-24 02:19:59  #Trading Economics #Markets #Commodity #Importance 1
-
-Metals Commodities Updates: Silver Tumbles by 5.14% — Top commodity losers are Silver (-5.14%), Copper (-3.56%) and Gold (-1.61%). Gains are led by Lithium Carbonate (0.96%).
-
----
-
-### 2026-06-24 02:18:47  #公司 #國際
-
-IBM：特朗普政府將持有Anderon的股權，但不參與治理。Anderon量子晶圓代工業務將從擴建位於紐約州奧爾巴尼的設施起步。量子技術對於實現規模化製造至關重要。許多量子計算公司已表達了向Anderon採購的意向。 量子計算賽道最終只會誕生一兩家絕對頭部贏家。
-
----
-
-### 2026-06-24 02:18:37  #MKT News #IBM.O #Impact bullish
-
-IBM Research head expects one or two clear winners to emerge in the quantum computing race.
-
----
-
-### 2026-06-24 02:18:23  #MKT News
-
-IBM's head of research said many quantum computing firms have expressed interest in purchasing from Anderon.
-
----
-
-### 2026-06-24 02:18:07  #MKT News #IBM.O
-
-IBM's vice president of quantum applications said quantum technology is critical to achieving scalable manufacturing.
-
----
-
-### 2026-06-24 02:17:53  #MKT News #Market Themes #Chip Wars #IBM.N #Impact bullish
-
-IBM (IBM.N): Anderon's quantum wafer foundry will launch by expanding its facility in Albany, New York.
-
----
-
-### 2026-06-24 02:17:30  #MKT News #Market Themes #The Trump Trade
-
-IBM (IBM.N) said the Trump administration will hold an equity stake in Anderon but will not participate in governance.
-
----
-
-### 2026-06-24 02:17:16  #其他
-
-【報道：英國首相熱門人選伯納姆擬解除裡夫斯財政大臣職務】據知情人士透露，安迪·伯納姆準備解除蕾切爾·裡夫斯的財政大臣職務，但會為她提供一個內閣中的其他職位。 裡夫斯試圖在伯納姆掌權的情況下保住財政大臣職位，但並未成功。
 
 ---
