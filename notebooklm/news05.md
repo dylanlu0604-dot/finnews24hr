@@ -1,7 +1,590 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-07-01 04:23:29_
-_本檔包含 2811 則快訊，約 519176 字_
+_更新時間：2026-07-01 05:14:04_
+_本檔包含 2850 則快訊，約 519182 字_
+
+---
+
+### 2026-06-24 22:50:35  #國際
+
+美國眾議院院長約翰遜：據我瞭解，特朗普遲早會簽署住房法案。
+
+---
+
+### 2026-06-24 22:50:30  #MKT News
+
+U.S. House Speaker Johnson said House Republicans will draft a reconciliation bill that includes a voter ID provision.
+
+---
+
+### 2026-06-24 22:50:25  #國際
+
+美國能源資訊署（EIA）資料顯示，上週美國東海岸煉油廠開工率降至2025年4月以來的最低水平。
+
+---
+
+### 2026-06-24 22:50:18  #市場
+
+【油價下滑之際，海灣地區股市大多收跌】總部位於沙特的BSF Capital研究主管Aqib E. Mehboob表示，隨著疲軟的油價拖累地區市場情緒，海灣地區股市大多下跌。他說，美元走強也透過全球風險偏好、外資流動和融資條件影響著市場。有跡象表明透過霍爾木茲海峽的交通正在恢復，油價隨之暴跌。卡達QE指數下跌0.8%，而沙烏地阿拉伯Tadawul全股指數和阿布扎比基準指數均下跌0.3%。迪拜金融市場綜合指數上漲0.1%。
+
+---
+
+### 2026-06-24 22:49:52  #市場 #焦點
+
+天然橡膠連續主力合約日內跌4%，現報16920.00元。
+
+---
+
+### 2026-06-24 22:49:47  #市場
+
+西德克薩斯中質原油期貨跌破每桶70美元，隨著更多油輪駛出霍爾木茲海峽，供應擔憂有所緩解。
+
+---
+
+### 2026-06-24 22:49:22  #國際
+
+美國眾議院議長約翰遜：已告知特朗普，《拯救美國法案》將納入預算調和程式。
+
+---
+
+### 2026-06-24 22:49:19  #公司
+
+【人形機器人供應鏈衝刺量產】，在第四屆鏈博會上，人形機器人Walker C1作為鏈博會官方首個“矽基代言人”亮相。譚旻所在的企業在本屆鏈博會上推出了全新一代商用服務人形機器人，這位機器人不僅與主持人共舞華爾茲，還為全球來賓提供多語種導覽服務，它標誌著人形機器人正從“秀肌肉”的科技展品，轉變為檢驗中國供應鏈協同能力的整合載體。人形機器人從能跳舞到能“上崗”，背後是一條跨越材料、零部件、晶片的龐大供應鏈。譚旻告訴記者，目前他們的人形機器人90%以上的核心零部件已來自國內，在人形機器人的“大腦”晶片環節，國產GPU廠商已深度參與協作，相關自研晶片也在加速推進中。譚旻表示，中國人形機器人產業鏈正在為大規模量產積蓄力量。鏈博會這一平臺，成為連結全球生態、推動人形機器人產業鏈走向世界的重要視窗。資料顯示，2025年深圳市機器人產業總產值達2426億元，同比增長20.56%，創下歷史新高。目前深圳市具身智慧產業鏈上市公司達102家，總市值5.5萬億元。（央視財經）
+
+---
+
+### 2026-06-24 22:48:53  #國際
+
+美國眾議院議長約翰遜就選民身份認證法案表態：眾議院共和黨人將整合出一份包含該條款的和解法案。
+
+---
+
+### 2026-06-24 22:48:20  #國際
+
+【EIA：美國原油庫存上週減少608.8萬桶 預估中值為減少360萬桶】美國能源資訊管理局(EIA)庫存報告還顯示上週有如下變動：汽油庫存增加206.4萬桶，預估為減少109.7萬桶。餾分油庫存增加306.4萬桶，預估為減少105萬桶。庫欣原油庫存減少107.7萬桶。煉廠開工率下降0.6個百分點，預估為減少0.3個百分點。煉廠原油日加工量減少8.1萬桶。原油日進口增加43.6萬桶。原油日產量增加1.3萬桶。
+
+---
+
+### 2026-06-24 22:48:13  #MKT News
+
+U.S. House Speaker Johnson says the Save America Act is the chamber's top priority.
+
+---
+
+### 2026-06-24 22:47:54  #MKT News
+
+U.S. House Speaker Johnson said he spoke with President Trump earlier today about the Save America Act.
+
+---
+
+### 2026-06-24 22:47:02  #國際
+
+美國眾議院議長約翰遜：《拯救美國法案》是首要任務。
+
+---
+
+### 2026-06-24 22:46:45  #公司 #國際
+
+【又有四艘韓國船舶駛離霍爾木茲海峽】繼2艘韓國船舶在美伊停火後駛出霍爾木茲海峽後，又有4艘韓國船舶正在駛離。韓國海洋水產部24日表示，滯留在霍爾木茲海峽內的4艘韓國船舶已安全駛離，正在正常航行。船上共有26名韓國籍船員，其中1艘船舶的最終目的地為韓國。據悉，與美伊達成停火協議後駛離的前2艘韓船不同，上述4艘船舶獲得伊朗的波斯灣海峽管理局（PGSA）批准。其中2艘分別是韓國海運公司HMM旗下1.6萬標箱級集裝箱船“Daon”號和超大型原油運輸船“環球榮耀”號（Universal Glory）。“環球榮耀”號裝載200萬桶原油，預計將於下月中旬駛抵麗水港。
+
+---
+
+### 2026-06-24 22:46:44  #國際
+
+美國眾議院議長約翰遜：今天早些時候與特朗普談到了《拯救美國法案》。
+
+---
+
+### 2026-06-24 22:46:24  #MKT News #Commodities #Energy #WTI #Impact bullish #Brent
+
+EIA: US East Coast distillate fuel oil inventories fell last week to their lowest level since May 2022.
+
+---
+
+### 2026-06-24 22:46:17  #國際
+
+美國眾議院議長約翰遜：今天已經與總統特朗普對話。
+
+---
+
+### 2026-06-24 22:46:17  #市場 #焦點
+
+丁二烯橡膠連續主力合約日內跌5%，現報12085.00元。
+
+---
+
+### 2026-06-24 22:46:01  #市場 #國際
+
+美國能源資訊署（EIA）資料顯示，美國東海岸餾分燃料油庫存上週下跌，降至2022年5月以來的最低水平。
+
+---
+
+### 2026-06-24 22:44:47  #MKT News #Important #Commodities #Energy #WTI #Impact bullish
+
+EIA: Cushing crude inventories fell last week to their lowest level since October 2014.
+
+---
+
+### 2026-06-24 22:44:40  #國際
+
+普京表示，俄羅斯雖迫於形勢，但現已實現全部航空裝置國產化替代。
+
+---
+
+### 2026-06-24 22:44:11  #MKT News #Important #Commodities #Energy #WTI #Impact bullish #Brent
+
+EIA: US crude inventories, including SPR, fell last week to their lowest level since October 1984.
+
+---
+
+### 2026-06-24 22:43:49  #公司
+
+【華恒生物透過港交所上市聆訊】港交所檔案顯示，安徽華恒生物科技股份有限公司透過港交所上市聆訊。
+
+---
+
+### 2026-06-24 22:43:49  #Trading Economics #Economy #Canada #Government Bond 10Y #Importance 1
+
+Canada 10-Year Yield Eases on Soft Core Inflation — Canada’s 10-year government bond yield fell below 3.40% in late June, the lowest in over three months, as evidence of low underlying inflation backed expectations that the Bank of Canada will refrain from raising rates this year. Core inflation measures tracked by the Bank of Canada remained close to the central bank’s 2% target in May, despite a surge in energy prices during the period. The reading aligned with the BoC’s earlier view that the conflict in Iran may have only transitory effects on headline inflation. The BoC kept its key interest rate unchanged at 2.25% at its latest meeting and signaled that risks remain balanced across its inflation and employment mandate amid an uncertain economic backdrop. Meanwhile, the US Federal Reserve adopted a more hawkish tone at its latest meeting by projecting rate hikes by December. The shift prompted investors to scale back expectations for monetary easing, limiting declines in North American bond yields.
+
+---
+
+### 2026-06-24 22:43:21  #公司 #市場
+
+標普500航空公司指數創下歷史新高，最新上漲4.1%。
+
+---
+
+### 2026-06-24 22:43:16  #國際
+
+以色列總理內塔尼亞胡：只要我還擔任總理，以色列就將繼續駐守在安全區內。
+
+---
+
+### 2026-06-24 22:42:59  #焦點 #國際
+
+美國能源資訊署（EIA）資料顯示，包括戰略石油儲備（SPR）在內，美國原油總庫存上週降至1984年10月以來最低水平。
+
+---
+
+### 2026-06-24 22:42:41  #MKT News
+
+Prime Minister Netanyahu said Israel will continue to maintain forces in the security zone for as long as he remains prime minister.
+
+---
+
+### 2026-06-24 22:42:28  #焦點 #國際
+
+以色列總理內塔尼亞胡：我沒有向特朗普請求攻擊伊朗的許可，我只是向他通報了此事。
+
+---
+
+### 2026-06-24 22:42:17  #MKT News #Important #XAUUSD #Impact bullish #WTI #DXY
+
+Israel's Prime Minister Netanyahu said he did not ask Trump for permission to attack Iran; he only informed him of the matter.
+
+---
+
+### 2026-06-24 22:42:01  #市場 #焦點
+
+20號膠連續主力合約日內跌5%，現報14860.00元。
+
+---
+
+### 2026-06-24 22:40:43  #其他
+
+EIA：俄克拉荷馬州庫欣樞紐的原油庫存上週降至2014年10月以來最低水平。
+
+---
+
+### 2026-06-24 22:40:17  #資料 #國際
+
+【美國5月新屋銷售意外下滑 抵押貸款利率高企抑制需求】美國5月新屋銷售再次下滑，降至年初以來的最低水平，建築商的大幅折扣未能抵消抵押貸款利率高企的影響。政府週三公佈的資料顯示，5月新建單戶型住宅銷售下降7.3%，摺合年率為58萬套。彭博調查經濟學家的預估中值為64萬套。新屋售價中值微升至42.49萬美元，與上年同期基本持平。自2023年以來，隨著開發商轉向建設面積更小的住宅並降價以提高可負擔性，房價整體趨於走軟。5月銷售下滑再次打擊了建築商，他們之前透過降價和向購房者提供補貼等方式勉強維持銷售水平。目前抵押貸款利率徘徊在約6.6%，接近九個月高位，而通脹再度升溫也給潛在購房者帶來新的壓力。
+
+---
+
+### 2026-06-24 22:40:01  #MKT News #Commodities #Energy
+
+US gasoline futures extended losses, down 2.74%.
+
+---
+
+### 2026-06-24 22:39:30  #MKT News #WTI #Impact bullish #Brent
+
+EIA: U.S. Midwest crude inventories fell last week to their lowest level since November 2014.
+
+---
+
+### 2026-06-24 22:39:28  #國際
+
+埃及總理：受伊朗相關戰事影響，該國旅遊業二季度至三季度或將遭受衝擊。
+
+---
+
+### 2026-06-24 22:38:58  #MKT News
+
+Egypt's prime minister said the Iran war is expected to impact tourism in Q2–Q3.
+
+---
+
+### 2026-06-24 22:38:53  #國際
+
+美國能源資訊署（EIA）資料顯示，美國中西部原油庫存上週降至2014年11月以來最低水平。
+
+---
+
+### 2026-06-24 22:38:43  #MKT News
+
+Sen. Elizabeth Warren (D-Mass.), responding to Trump's cancellation of a housing bill signing ceremony, said Trump has made clear he is not concerned about higher spending.
+
+---
+
+### 2026-06-24 22:38:37  #市場 #國際
+
+美國能源資訊署（EIA）資料顯示汽油庫存意外增加後，美國汽油期貨延續跌勢，跌幅小幅擴大，當前跌幅為2.74%。
+
+---
+
+### 2026-06-24 22:37:55  #國際
+
+幣安：部分美國使用者可能會受到影響，我們將直接與受影響使用者溝通，就後續步驟提供明確說明。
+
+---
+
+### 2026-06-24 22:37:49  #其他
+
+哥倫比亞總統候選人塞佩達承認大選失利後，哥倫比亞債券小幅走高。
+
+---
+
+### 2026-06-24 22:37:25  #公司
+
+【易控智駕科技股份有限公司透過港交所上市聆訊】易控智駕科技股份有限公司更新聆訊後資料集，意味著該公司港交所IPO透過聆訊。
+
+---
+
+### 2026-06-24 22:37:23  #Trading Economics #Markets #United States #stocks #Importance 1
+
+General Electric Aerospace Stock Price Hits Near 25-year High — General Electric Aerospace shares increased to 364.75 USD, the highest since July 2001. Over the past 4 weeks, General Electric Aerospace gained 15.87%, and in the last 12 months, it increased 46.49%.
+
+---
+
+### 2026-06-24 22:37:16  #市場 #國際
+
+美國參議員沃倫：特朗普明確表示他不擔心開支上漲。
+
+---
+
+### 2026-06-24 22:37:05  #其他
+
+幣安：在仔細考量當前狀況及希臘流程的時間安排後，做出提款決定。我們有信心在未來數月內拿到牌照。
+
+---
+
+### 2026-06-24 22:36:55  #Trading Economics #Economy #United States #Crude Oil Stocks Change #Importance 1
+
+US Crude Oil Inventories Fall More than Expected — US crude oil inventories fell by 6.088 million barrels to 412.1 million barrels in the week ended June 19, more than market expectations for a 4.5 million-barrel draw. Crude stocks at the Cushing, Oklahoma, delivery hub dropped by 1.077 million barrels. Refinery crude runs decreased by 81,000 barrels per day. On the other hand, gasoline stocks rose by 2.064 million barrels to 216.3 million barrels, versus forecasts for a 0.6 million-barrel draw. Distillate stockpiles, which include diesel and heating oil, increased by 3.064 million barrels to 106.2 million barrels, compared with expectations for a 0.5 million-barrel drop. Net crude imports went up by 94,000 barrels per day.
+
+---
+
+### 2026-06-24 22:36:42  #MKT News #Commodities #Energy #WTI #Impact bullish #Brent
+
+U.S. West Coast crude inventories fell to their lowest level since 2004.
+
+---
+
+### 2026-06-24 22:35:53  #其他
+
+幣安：將撤回其在希臘提交的《加密資產市場法規》（MiCA）牌照申請。並將轉而在另一個歐盟成員國申請授權。
+
+---
+
+### 2026-06-24 22:35:44  #國際
+
+美國西海岸原油庫存降至2004年以來最低水平。
+
+---
+
+### 2026-06-24 22:35:35  #Trading Economics #Markets #United States #stocks #Importance 1
+
+Corning Stock Price Hits All-time High — Corning shares increased to an all-time high of 212.53 USD. Over the past 4 weeks, Corning gained 7.63%, and in the last 12 months, it increased 310.62%.
+
+---
+
+### 2026-06-24 22:35:30  #其他
+
+北約秘書長呂特接受採訪時表示： 有 500 架美軍戰機從義大利境內美軍基地起飛，為 “史詩怒火行動” 提供支援。 此次行動規模空前。
+
+---
+
+### 2026-06-24 22:34:31  #國際
+
+市場訊息：俄羅斯自由派政治人物馬克西姆·克魯格洛夫因散佈關於軍隊的"虛假新聞"被判入獄。
+
+---
+
+### 2026-06-24 22:34:20  #央行 #國際
+
+達拉斯聯儲調查：美國頁岩油氣高管表示，2026年第二季度石油產量將溫和增長。
+
+---
+
+### 2026-06-24 22:34:15  #央行 #其他
+
+達拉斯聯儲調查顯示，企業預計2026年底西德克薩斯中質原油價格將為每桶81美元。
+
+---
+
+### 2026-06-24 22:34:11  #央行 #其他
+
+達拉斯聯儲調查顯示，石油企業預計2026年末亨利港天然氣價格為每百萬英熱單位3.36美元。
+
+---
+
+### 2026-06-24 22:34:06  #央行 #其他
+
+達拉斯聯儲調查顯示，2026年第二季度得克薩斯州、路易斯安那州與新墨西哥州油氣活躍度大幅攀升。
+
+---
+
+### 2026-06-24 22:34:04  #MKT News
+
+Germany's defense minister said continuing the frigate project would only be possible at disproportionately high costs and with delays.
+
+---
+
+### 2026-06-24 22:33:49  #Trading Economics #Economy #Mongolia #Interest Rate #Importance 0
+
+Central Bank of Mongolia Leaves Monetary Policy Unchanged — The central bank of Mongolia kept its key policy rate unchanged at 12% in June 2026, citing the current state of the economy, banking system, and financial markets, as well as domestic and external conditions and associated risks. Annual inflation has picked up in recent months, driven by rising fuel and food prices, reaching 11.2% in May. Looking ahead, increases in meat and fuel prices are expected to moderate gradually, with inflation projected to stabilise within the central bank’s 5% target range (±2 percentage points) over the medium term. However, upside risks to prices remain if supply-side pressures persist, including adverse seasonal conditions, animal diseases, and geopolitical uncertainties linked to the Middle East and the Russia-Ukraine conflict, particularly if spillovers prove stronger than expected. Policymakers said future policy decisions will depend on developments in inflation, supply-side factors, and both domestic and external economic conditions.
+
+---
+
+### 2026-06-24 22:33:43  #MKT News
+
+Germany's defense minister said the F126 frigate project has cost €2.3 billion to date.
+
+---
+
+### 2026-06-24 22:33:35  #國際
+
+美國司法部：CHEMOURS就全氟和多氟烷基物質排放問題達成 4.5 億美元和解協議。
+
+---
+
+### 2026-06-24 22:33:10  #公司
+
+【海科新源：電解液溶劑及新增劑量價齊升 公司整體處於滿產滿銷狀態】海科新源(301292.SZ)在投資者關係活動記錄表中披露，在“緊平衡”供需格局下，電解液溶劑及核心新增劑價格體系具備極強支撐力，行業已步入量價齊升的良性週期。隨著傳統排產旺季的到來，溶劑與新增劑的供需關係有望進一步趨緊，價格大機率將維持高位執行。公司目前整體處於滿產滿銷狀態，並且已經儲備了充足的“彈藥”來精準匹配下游核心客戶的訂單增長。公司與比亞迪、崑崙新材、法恩萊特、合肥乾銳等頭部客戶簽署的覆蓋2026-2028年的長單正在穩步地執行與交付中。雖然這部分長協鎖定了公司年均45萬噸以上的銷量，但這僅佔公司總產能的一部分。2026年一季度的強勢扭虧為盈，宣告了公司業績拐點的正式到來，公司有信心延續貫穿全年的交付週期。
+
+---
+
+### 2026-06-24 22:32:04  #其他
+
+德國國防部長就護衛艦專案表態：若繼續推進該專案，將產生過高成本並伴隨工期延誤，代價難以承受。
+
+---
+
+### 2026-06-24 22:31:41  #MKT News #Important #Commodities #Energy #WTI #Impact bullish #Brent
+
+U.S. EIA: Strategic Petroleum Reserve stocks for the week ending June 19 were at their lowest since the week of June 24, 1983.
+
+---
+
+### 2026-06-24 22:31:40  #焦點 #國際
+
+美國至6月19日當週EIA戰略石油儲備庫存為1983年6月24日當週以來最低。
+
+---
+
+### 2026-06-24 22:31:24  #國際
+
+美國衛生與公眾服務部漢坦病毒應對工作順利完成；監測已結束，美國未出現陽性病例。
+
+---
+
+### 2026-06-24 22:31:10  #MKT News #Commodities #Energy #WTI #Impact bearish #Brent
+
+U.S. EIA implied distillate demand for the week ended June 19 was 4.9273 mln b/d, down from 5.1661 mln b/d the prior week.
+
+---
+
+### 2026-06-24 22:31:04  #其他
+
+德國國防部長就F126護衛艦專案表態：迄今為止，F126專案已投入整整23億歐元。
+
+---
+
+### 2026-06-24 22:31:00  #MKT News #Economic Calendar #Important
+
+United States | EIA Weekly Distillate Fuel Implied Demand (Jun.19) | actual 4927300M | previous 5166100M
+
+---
+
+### 2026-06-24 22:30:59  #MKT News #Commodities #Energy #WTI #Impact bearish #Brent
+
+US EIA implied motor gasoline demand for week to June 19: 9.537 mln b/d, prior 10.201 mln b/d.
+
+---
+
+### 2026-06-24 22:30:54  #焦點 #國際
+
+美國至6月19日當週EIA戰略石油儲備庫存 -906萬桶，前值-894.1萬桶。
+
+---
+
+### 2026-06-24 22:30:49  #MKT News #Economic Calendar #Important
+
+United States | EIA Weekly Motor Gasoline Implied Demand (Jun.19) | actual 9536600M | previous 10200900M
+
+---
+
+### 2026-06-24 22:30:46  #MKT News #Commodities #Energy #WTI #Brent
+
+US EIA implied crude oil demand for the week ended June 19: 20.259 mln bpd, prior 20.12 mln bpd.
+
+---
+
+### 2026-06-24 22:30:39  #MKT News #Commodities #Energy #WTI #Impact bearish #Brent
+
+US EIA refinery utilization rate for week to June 19 96.1% (expected 96.7%, prior 96.7%).
+
+---
+
+### 2026-06-24 22:30:35  #焦點 #國際
+
+美國至6月19日當週EIA俄克拉荷馬州庫欣原油庫存 -107.7萬桶，前值-160.6萬桶。
+美國至6月19日當週EIA原油庫存 -608.8萬桶，預期-446.1萬桶，前值-826.3萬桶。
+
+---
+
+### 2026-06-24 22:30:35  #MKT News #Commodities #Energy #WTI #Impact bullish
+
+U.S. EIA refined‑product output rose 55,000 b/d in the week to June 19; prior -29,000 b/d.
+
+---
+
+### 2026-06-24 22:30:34  #MKT News #Important #Commodities #Energy #WTI #Impact bullish #Brent
+
+U.S. Strategic Petroleum Reserve drew 9.06 million barrels in the week to June 19, EIA data showed; prior week’s draw was 8.941 million barrels.
+
+---
+
+### 2026-06-24 22:30:34  #MKT News #Commodities #Energy #WTI #Impact bullish
+
+EIA: US crude oil volumes brought online in week to June 19 -81,000 b/d; prior 230,000 b/d.
+
+---
+
+### 2026-06-24 22:30:34  #MKT News #Commodities #Energy #WTI #Impact bullish #Brent
+
+U.S. EIA gasoline production, week to June 19: -588,000 b/d; prior +356,000 b/d.
+
+---
+
+### 2026-06-24 22:30:34  #MKT News #Commodities #Energy #WTI #Impact bearish #Brent
+
+US EIA: petroleum products imports in the week to June 19 were 91,000 b/d; prior -204,000 b/d.
+
+---
+
+### 2026-06-24 22:30:32  #MKT News #Commodities #Energy #WTI #Impact bearish #Brent
+
+US EIA heating oil stocks rose 722,000 barrels in the week to June 19, versus a prior-week draw of 204,000 barrels.
+
+---
+
+### 2026-06-24 22:30:31  #MKT News #Economic Calendar #Important
+
+United States | EIA Weekly Crude Oil Implied Demand (Jun.19) | actual 20259000M | previous 20120000M
+
+---
+
+### 2026-06-24 22:30:26  #MKT News
+
+US EIA crude oil imports for week to June 19: 94,000 barrels; prior -241,000 barrels.
+
+---
+
+### 2026-06-24 22:30:26  #MKT News #Commodities #Energy #WTI #Impact bearish #Brent
+
+U.S. EIA gasoline inventories rose 2.064 mln barrels in the week to June 19, versus an expected draw of 0.578 mln barrels and a prior draw of 0.906 mln barrels.
+
+---
+
+### 2026-06-24 22:30:19  #MKT News
+
+U.S. EIA weekly reformulated gasoline stocks for week to June 19: +12,000 bbl vs -13,000 bbl prior.
+
+---
+
+### 2026-06-24 22:30:18  #MKT News #Important #WTI #Impact bullish
+
+U.S. EIA Cushing, Oklahoma crude inventories fell 1.077 mln bbl in the week to June 19, versus a 1.606 mln bbl draw in the prior week.
+
+---
+
+### 2026-06-24 22:30:18  #MKT News #Important #Commodities #Energy #WTI #Impact bullish #Brent
+
+US EIA weekly crude inventories fell 6.088 mln barrels in the week to June 19, versus a consensus draw of 4.461 mln barrels and a prior draw of 8.263 mln barrels.
+
+---
+
+### 2026-06-24 22:30:16  #MKT News #WTI #Impact bearish #Brent
+
+U.S. EIA refined products inventories for week to June 19 rose 3.064 mln bbl vs -0.505 mln expected; prior +0.951 mln.
+
+---
+
+### 2026-06-24 22:30:13  #焦點 #國際
+
+美國能源資訊署稱，原油庫存下降了609萬桶。
+
+---
+
+### 2026-06-24 22:30:09  #MKT News #Economic Calendar #Important
+
+United States | EIA Strategic Petroleum Reserve Stocks Change (Jun.19) | actual -9060000M | previous -8941000M
+
+---
+
+### 2026-06-24 22:30:08  #MKT News #Economic Calendar #Important
+
+United States | EIA Weekly Refinery Utilization Rates (Jun.19) | actual 96.1% | consensus 96.7% | previous 96.7%
+
+---
+
+### 2026-06-24 22:30:01  #MKT News #Economic Calendar
+
+United States | EIA Weekly Distillate Production Change (Jun.19) | actual 55000M | previous -29000M
+
+---
+
+### 2026-06-24 22:30:01  #MKT News #Economic Calendar
+
+United States | EIA Weekly Gasoline Production (Jun.19) | actual -588000M | previous 356000M
+
+---
+
+### 2026-06-24 22:30:01  #MKT News #Economic Calendar
+
+United States | EIA Weekly Crude Oil Input Into Refineries Change (Jun.19) | actual -81000M | previous 230000M
+
+---
+
+### 2026-06-24 22:30:01  #MKT News #Economic Calendar
+
+United States | EIA Weekly Petroleum Products Imports Change (Jun.19) | actual 91000M | previous -204000M
+
+---
+
+### 2026-06-24 22:30:01  #MKT News #Economic Calendar
+
+United States | EIA Weekly Crude Oil Imports Change (Jun.19) | actual 94000M | previous -241000M
+
+---
+
+### 2026-06-24 22:30:01  #MKT News #Economic Calendar
+
+United States | EIA Weekly Heating Oil Stocks Change (Jun.19) | actual 722000M | previous -204000M
 
 ---
 
@@ -16631,353 +17214,5 @@ Cerebras執行長在電話會議上表示，OpenAI GPT 5.4目前已部署執行�
 ### 2026-06-24 05:15:13  #MKT News #WTI #Impact bearish #Brent
 
 【Oman, IMO coordinate temporary sea lane through Strait of Hormuz】Oman announced early on the 24th it has coordinated with the International Maritime Organization to open a temporary sea lane through the Strait of Hormuz for all vessels, citing its responsibility for the strait and its importance to the global economy. The lane will operate under international law, including the United Nations Convention on the Law of the Sea, will not charge passage fees, and will follow navigational coordinates published by the IMO and Omani authorities; vessels must coordinate with the IMO in advance. Oman said the step reflects outcomes from US‑Iran negotiations and mediation efforts.
-
----
-
-### 2026-06-24 05:12:38  #國際
-
-【阿曼與國際海事組織協調開闢霍爾木茲海峽臨時航道】當地時間24日凌晨，阿曼方面釋出宣告表示，鑑於該國對霍爾木茲海峽的責任以及該海峽對全球經濟的重要作用，在遵守國際法和《聯合國海洋法公約》、保障海峽自由通行且不收取通行費用的基礎上，並結合美國與伊朗相關談判和斡旋努力所取得的成果，阿曼已與國際海事組織協調，為所有船舶開闢一條臨時海上航道。根據安排，相關航道將按照國際海事組織及阿曼主管部門公佈的航行座標執行，計劃使用該航道的船舶需提前與國際海事組織進行協調。
-
----
-
-### 2026-06-24 05:08:34  #MKT News
-
-【Morgan Stanley private credit fund sets redemption cap at 5%】Morgan Stanley’s North Haven Private Income Fund, a $7bn private credit vehicle, has set a 5% redemption cap and said it will pay out less than half of investors’ Q2 redemption requests. The fund said investors applied to redeem 11.6% of shares in Q2, up from 10.9% in Q1. It noted that across the roughly $1.8trn private credit market many funds had already restricted full exits in the prior quarter, and that over half of Q2 repurchase requests came from investors who had been unable to redeem fully in the previous three months.
-
----
-
-### 2026-06-24 05:03:42  #其他
-
-【德國全境鐵路暫停運營】據德國媒體《每日鏡報》報道，德國23日晚出現大規模列車無線通訊系統故障，導致全境鐵路暫停運營。（新華社）
-
----
-
-### 2026-06-24 05:03:40  #MKT News
-
-【Nationwide rail services suspended in Germany after large-scale train radio failure】German outlet Daily Mirror reported that on the evening of the 23rd a large-scale failure of the train radio communications system forced suspension of rail services nationwide.
-
----
-
-### 2026-06-24 05:02:24  #MKT News
-
-SEC filing: SpaceX (SPCX.O) plans a multi-tranche bond offering totaling $25.0bn — $7.0bn 5.35% senior notes due 2031, $6.0bn 5.65% due 2033, $6.0bn 5.875% due 2036, $2.5bn 6.6% due 2046 and $3.5bn 6.65% due 2056.
-
----
-
-### 2026-06-24 04:58:29  #市場
-
-週二（6月23日）紐約尾盤，現貨黃金跌1.89%，報4111.48美元/盎司，北京時間09:00微幅上揚至4198.46美元重新整理日高，隨後持續走低，12:00以來持續交投於4120美元附近、16:07重新整理日低至4091.05美元。COMEX黃金期貨跌1.92%，報4129.10美元/盎司。現貨白銀跌5.50%，報61.5025美元/盎司，06:00微幅高開至65.7325美元重新整理日高，隨後持續走低。COMEX白銀期貨跌6.15%，報62.005美元/盎司。COMEX銅期貨跌3.64%，報6.1950美元/磅。現貨鉑金跌1.85%，現貨鈀金跌2.90%。
-
----
-
-### 2026-06-24 04:57:54  #MKT News #SPCX.O
-
-SEC filing: SpaceX (SPCX.O) will use bond proceeds to repay transition loans and for general corporate purposes; issuance expected to complete on June 26, 2026.
-
----
-
-### 2026-06-24 04:57:26  #MKT News
-
-SEC filing: SpaceX (SPCX.O) priced a $25 billion inaugural bond offering, selling senior notes in five tranches maturing 2031–2056.
-
----
-
-### 2026-06-24 04:54:30  #MKT News #Market Regions #Wall Street (US) #FDX.N #Impact bearish
-
-FedEx (FDX.N) U.S. shares extended overnight losses in after-hours trading, down about 6%.
-
----
-
-### 2026-06-24 04:51:50  #Trading Economics #Economy #Argentina #GDP Annual Growth Rate #Importance 0
-
-Argentina GDP Expands More Than Expected — Argentina’s economy grew 2.3% year-on-year in the first quarter of 2026, above forecasts of 1.7% and accelerating from a 2.1% increase in the previous quarter. The strongest sector gains came from fishing (27.5%), agriculture, livestock, hunting and forestry (18.1%), and mining and quarrying (12.3%). Other notable expansions were recorded in financial intermediation (7.5%), private households with domestic service (6.3%), and hotels and restaurants (2.8%), with the latter mainly supported by informal employment. In contrast, manufacturing contracted 1.7% and public administration declined 1.4%, marking the weakest performances. On the demand side, exports rose 9.8%, leading growth, while private consumption increased 2.7%, supported by stronger imports of final consumer goods and automobiles. On a quarter-on-quarter basis, the economy expanded 0.7%.
-
----
-
-### 2026-06-24 04:51:00  #MKT News
-
-Brazil's Foreign Trade Committee Executive Management Committee said it will proceed with planned tariff hikes on imported electric and hybrid vehicles, imposing a 35% import duty on fully built and semi-knocked-down EVs from July 2026; completely knocked-down (CKD) vehicle imports will face the same rate from Jan. 1, 2027.
-
----
-
-### 2026-06-24 04:46:45  #MKT News
-
-Brazil's Foreign Trade Committee Executive Management Committee decided to implement additional zero-tariff import quotas from July 1 for completely and semi-knocked-down (CKD and SKD) electric vehicles.
-
----
-
-### 2026-06-24 04:43:40  #MKT News #Commodities #Energy #WTI #Impact bearish #Brent
-
-API: U.S. refinery crude runs fell 205,000 b/d in the week to June 19; prior week -17,000 b/d.
-
----
-
-### 2026-06-24 04:43:30  #MKT News #Economic Calendar
-
-United States | API Weekly Crude Oil Runs (Jun.19) | actual -205000M | previous -17000M
-
----
-
-### 2026-06-24 04:43:28  #MKT News #Commodities #Energy #WTI #Impact bullish #Brent
-
-US week to Jun 19 API refined product imports -152,000 b/d; prior -121,000 b/d.
-
----
-
-### 2026-06-24 04:43:22  #MKT News #Commodities #Energy #WTI #Brent
-
-API: US crude imports for week to June 19 226,000 bbl; prior -276,000 bbl.
-
----
-
-### 2026-06-24 04:43:21  #MKT News #Economic Calendar
-
-United States | API Weekly Petroleum Products Imports Change (Jun.19) | actual -152000M | previous -121000M
-
----
-
-### 2026-06-24 04:43:16  #MKT News #Commodities #Energy #WTI #Impact bearish #Brent
-
-U.S. API heating oil inventories for the week to June 19 rose 405,000 barrels; prior week showed a draw of 125,000 barrels.
-
----
-
-### 2026-06-24 04:43:13  #MKT News #Economic Calendar
-
-United States | API Weekly Crude Oil Imports Change (Jun.19) | actual 226000M | previous -276000M
-
----
-
-### 2026-06-24 04:43:10  #Trading Economics #Economy #Paraguay #Interest Rate #Importance 1
-
-Paraguay Keeps Interest Rates Unchanged in June — The Central Bank of Paraguay kept its benchmark interest rate unchanged at 5.50% during its June 2026 meeting. Policymakers said the economy remained resilient, with the IMAEP rising 3.4% year-on-year in April and the ECN increasing 3.0%. Annual inflation stood at 2.4%, while core inflation was 1.1%, both below the central bank’s 3.5% target. Abroad, policymakers noted stronger-than-expected US labor market data and rising inflation, with headline inflation reaching 4.2% in May. The US Federal Reserve kept rates steady at 3.50%-3.75%, though markets continue to price in further tightening. Meanwhile, Brent crude fell below $80 per barrel as geopolitical tensions eased after a provisional US-Iran agreement and the reopening of the Strait of Hormuz. Soybean, corn, and wheat prices also moved lower. The decision to hold rates signals that policymakers continue to view the current stance as neutral, balancing strong growth with moderate inflation.
-
----
-
-### 2026-06-24 04:43:08  #MKT News #Commodities #Energy #WTI #Impact bullish #Brent
-
-U.S. API Cushing crude stocks -982,000 barrels in week to June 19; prior -1.523 mln barrels.
-
----
-
-### 2026-06-24 04:43:06  #MKT News #Economic Calendar
-
-United States | API Weekly Heating Oil Stocks Change (Jun.19) | actual 405000M | previous -125000M
-
----
-
-### 2026-06-24 04:42:57  #MKT News #Economic Calendar #Important
-
-United States | API Weekly Cushing Crude Oil Stocks Change (Jun.19) | actual -982000M | previous -1523000M
-
----
-
-### 2026-06-24 04:42:52  #國際
-
-美國石油協會（API）資料顯示，上週，美國API原油庫存 -76.5萬桶，之前一週 -833萬桶。
-
----
-
-### 2026-06-24 04:42:52  #MKT News #Commodities #Energy #WTI #Impact bearish #Brent
-
-U.S. API refined products inventories for the week to June 19 rose 1.447 mln barrels, versus -0.38 mln expected and -0.461 mln prior.
-
----
-
-### 2026-06-24 04:42:40  #MKT News #Commodities #Energy #WTI #Impact bearish #Brent
-
-API: US gasoline stocks rose 1.238 mln barrels in the week to June 19, versus market expectations for a 350,000-barrel draw; prior week's build was 2.479 mln barrels.
-
----
-
-### 2026-06-24 04:42:40  #MKT News #Economic Calendar #Important
-
-United States | API Weekly Distillate Stocks Change (Jun.19) | actual 1447000M | consensus -380000M | previous -461000M
-
----
-
-### 2026-06-24 04:42:34  #MKT News #Important #Commodities #Energy #WTI #Impact bearish #Brent
-
-API weekly U.S. crude inventories for week to June 19: down 765,000 barrels; market expected a 4.995 mln-barrel draw; prior week down 8.33 mln barrels.
-
----
-
-### 2026-06-24 04:42:31  #MKT News #Economic Calendar #Important
-
-United States | API Weekly Gasoline Stocks Change (Jun.19) | actual 1238000M | consensus -350000M | previous 2479000M
-
----
-
-### 2026-06-24 04:42:22  #MKT News #Economic Calendar #Important
-
-United States | API Weekly Crude Oil Stocks Change (Jun.19) | actual -765000M | consensus -4995000M | previous -8330000M
-
----
-
-### 2026-06-24 04:42:10  #MKT News #Commodities #Energy
-
-Colombia's oil reserves are estimated to decline 0.74% in 2025 to 2.02 bln barrels; natural gas reserves are estimated to fall 16.8% to 1.72 bln cubic feet (bcf).
-
----
-
-### 2026-06-24 04:41:13  #MKT News
-
-MSCI said liquidity in South Korea’s onshore FX market remains broadly insufficient during extended FX trading hours to support execution as tight as in developed markets.
-
----
-
-### 2026-06-24 04:40:14  #MKT News
-
-Cloud security company Zscaler reached an agreement with Amazon Web Services (AWS) to cooperate on integration, reference architectures and joint go-to-market activities; the partners will jointly secure generative AI deployments in government, healthcare and education sectors.
-
----
-
-### 2026-06-24 04:39:30  #其他
-
-哥倫比亞國家管理局：2025年哥倫比亞天然氣儲量下降16.8%，至17.2億立方英尺。
-
----
-
-### 2026-06-24 04:39:14  #MKT News
-
-MSCI said South Korean investors view related issues as still unresolved; South Korean market participants continue to face significant operational burdens under the reinstated compliance regime.
-
----
-
-### 2026-06-24 04:38:16  #MKT News
-
-MSCI said South Korean market participants still face the burden of early pre-settlement funding requirements.
-
----
-
-### 2026-06-24 04:36:12  #Trading Economics #Markets #Brazil #Stock Market #Importance 1
-
-Ibovespa Rises on Copom Outlook — The Ibovespa rose 0.5% to close at 171,259 on Tuesday after opening lower, diverging from the sharp selloff on Wall Street as markets digested the latest Copom minutes. According to Banco Central do Brasil, policymakers are considering both a pause and a resumption of Selic cuts as possible paths to bring inflation back to target. In the document, the central bank acknowledged that upside risks to inflation currently outweigh downside risks while leaving the next policy steps open and data-dependent. Banking stocks posted gains, with Bradesco up 0.9% and Banco do Brasil rising 1.4%. Utilities also moved higher, with Axia gaining 2.6% after news it is preparing a debenture issuance of up to R$1 billion, maturing in 2036. Other notable gainers included Ambev (+1.2%) and WEG (+1%). In contrast, Vale fell 1.9% after its board unanimously approved a shareholders’ meeting on July 22 to vote on the removal of chairman Daniel Stieler, following a request from its largest shareholder, Previ.
-
----
-
-### 2026-06-24 04:36:06  #公司 #國際
-
-明晟公司（MSCI Inc.）：提前預先結算資金要求仍對韓國市場參與者構成負擔。
-
----
-
-### 2026-06-24 04:35:56  #其他
-
-巴西外貿委員會管理與執行委員會：散件整車的35%關稅稅率將於2027年1月1日起生效。
-
----
-
-### 2026-06-24 04:35:43  #公司
-
-明晟公司（MSCI Inc）：若截至11月指數審議時，土耳其市場未顯現足夠切實可信的進展，或啟動針對土耳其市場的徵求意見程式。
-
----
-
-### 2026-06-24 04:35:39  #MKT News
-
-MSCI said if significant progress is not achieved by November 2026 it may consult on reclassifying Indonesia from emerging-market status to frontier-market status.
-
----
-
-### 2026-06-24 04:35:03  #Trading Economics #Markets #United States #Stock Market #Importance 1
-
-The Dow Jones Index Closes 0.09% Lower — The Dow Jones Index dropped 47 points or 0.09 percent on Tuesday to close at 51665 points. Losses were led by Nvidia (-3.99%), Caterpillar (-3.55%) and Honeywell International (-2.37%). Offsetting the fall, top gainers were IBM (4.92%), Merck (3.54%) and J&J (3.36%).
-
----
-
-### 2026-06-24 04:34:43  #MKT News
-
-State media reported Oman has coordinated with the International Maritime Organization to provide a temporary maritime corridor in the Strait of Hormuz.
-
----
-
-### 2026-06-24 04:34:09  #公司 #國際
-
-明晟公司（MSCI INC）：認可印尼及土耳其股市為解決上述問題所採取並已公佈的各項措施。
-
----
-
-### 2026-06-24 04:34:03  #公司 #國際
-
-明晟公司（MSCI Inc）就印尼市場發表觀點：對於印尼而言，市場參與者對其可投資性提出了重大擔憂，這些擔憂源於相關問題。
-
----
-
-### 2026-06-24 04:33:53  #公司 #國際
-
-明晟公司（MSCI Inc）就印尼市場發表觀點：對於印尼而言，市場參與者對其可投資性提出了重大擔憂，這些擔憂源於相關問題。
-
----
-
-### 2026-06-24 04:33:46  #國際
-
-明晟就印尼問題表態：明晟將在自由流通量確定與更廣泛可投資性評估的框架下，持續評估相關規則的覆蓋範圍、一致性和長期有效性。
-
----
-
-### 2026-06-24 04:33:41  #國際
-
-明晟：持續監測針對提升韓國股市對國際機構投資者可及性的相關措施的落實情況。
-
----
-
-### 2026-06-24 04:33:34  #公司
-
-Grindr宣佈任命執行長喬治·阿里森為董事會主席，並授予股權，以延續阿里森截至2030年秋季的薪酬安排。
-
----
-
-### 2026-06-24 04:33:21  #MKT News #Market Regions #Emerging Markets
-
-MSCI is assessing shareholder transparency and coordinated trading issues in Indonesian and Turkish equity markets.
-
----
-
-### 2026-06-24 04:33:01  #MKT News
-
-MSCI said if by its November 2026 index review the Indonesian market has not shown significant progress, it will consider a range of options to determine its treatment in MSCI indices.
-
----
-
-### 2026-06-24 04:32:17  #MKT News
-
-MSCI released the results of its 2026 market classification review.
-
----
-
-### 2026-06-24 04:28:12  #MKT News
-
-Market sources said Morgan Stanley's private credit fund has set a 5% redemption limit.
-
----
-
-### 2026-06-24 04:25:56  #國際
-
-【中國駐美國大使謝鋒在美洲國家組織成員國與觀察員國對話會上針對巴拿馬方面無端指責闡明中方立場】中國駐美國大使館微信公眾號發文稱，2026年6月23日，中國駐美國大使兼駐美洲國家組織（OAS）觀察員謝鋒在巴拿馬出席OAS成員國與觀察員國對話會時，針對巴方領導人在年會開幕式上無端指責中方對到港船舶開展港口國監督檢查等，發表不實言論，第一時間澄清事實，闡明中方嚴正立場。謝鋒強調，作為航運大國，中國始終高度重視海上運輸和生命安全。但2026年以來，巴拿馬旗船舶在中國水域連續發生多起商漁船碰撞事故，造成多人死亡失蹤，本著對航運安全，包括船隻特別是人員安全負責的態度，中國依照中國法律和國際公約，對到港船舶開展港口國監督檢查，不針對特定國家和船旗，無可指責。謝鋒表示，中國企業自1997年獲准並依法經營運河兩端港口，為促進巴經濟發展作出了積極貢獻。近30年來雙方合作順暢，不存在任何重大爭議，巴方也從未提出任何抱怨。今年1月，巴最高法院突然做出判決，強行沒收、接管，強制驅逐中國企業，明眼人都看得出這背後是政治操弄。如果契約想撕毀就撕毀，市場規則說不遵守就不遵守，資產想接管就接管，經營者說驅逐就驅逐，誰還來投資，誰還來合作？謝鋒再次敦促巴方糾正錯誤，保障中國企業的正當合法權益。
-
----
-
-### 2026-06-24 04:25:33  #觀點
-
-摩根士丹利私募信貸基金將贖回比例上限設為5%。
-
----
-
-### 2026-06-24 04:25:02  #其他
-
-【厄瓜多邊境省份發生槍擊事件 致至少4人死亡】當地時間6月22日，厄瓜多東北部、與哥倫比亞接壤的蘇崑比奧斯省發生一起槍擊事件，造成至少4人死亡、3人受傷。據悉，事件發生在新洛哈市一家娛樂場所內，數名武裝人員闖入後向現場人員連續開槍射擊。經警方確認，4名遇難者中包括2名哥倫比亞公民和2名厄瓜多公民。（央視新聞）
-
----
-
-### 2026-06-24 04:24:17  #MKT News
-
-【China's U.S. ambassador Xie Feng rebuts Panama accusations over port-state inspections】On June 23, 2026, at an OAS dialogue in Panama, Chinese Ambassador to the U.S. and OAS observer Xie Feng rejected Panama's allegations that China improperly carried out port-state inspections on arriving ships. Xie said the charges were false, citing multiple collisions since 2026 involving Panama-flagged vessels in Chinese waters that caused deaths and missing persons. He said China, under Chinese law and relevant international conventions, has conducted port-state control inspections to protect maritime and crew safety and that inspections are not targeted at any specific country or flag. Xie urged Panama to correct the record and safeguard the lawful rights of Chinese firms.
-
----
-
-### 2026-06-24 04:23:49  #公司
-
-遊戲驛站董事會取消執行長瑞安・科恩的績效獎金，以便其全身心推進收購eBay的相關工作。
 
 ---
