@@ -1,7 +1,24 @@
 {
-  "updated": "2026-07-01 02:36:53",
-  "count": 13935,
+  "updated": "2026-07-01 02:40:45",
+  "count": 13936,
   "items": [
+    {
+      "id": "mkt:019f19d4-b8d0-7aab-8c40-6e4bdec50561",
+      "time": "2026-07-01 02:39:59",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iraq's prime minister: We will not accept directives from abroad, whether from the East or the West."
+    },
+    {
+      "id": "mkt:019f19d4-82b6-7aab-8c40-60a9a5312e44",
+      "time": "2026-07-01 02:39:45",
+      "tags": [
+        "MKT News",
+        "Brent"
+      ],
+      "text": "Iraq's prime minister said there is no evidence that recent attacks on Gulf states originated in Iraq."
+    },
     {
       "id": "mkt:019f19cf-f7b0-7aab-8c40-5ea0b4086263",
       "time": "2026-07-01 02:34:47",
@@ -127886,16 +127903,6 @@
         "Brent"
       ],
       "text": "【Several gas exporters warn EU methane rules could threaten energy security】The US, Qatar and other natural gas exporters have urged the EU to relax parts of proposed methane-emissions rules, warning the measures could threaten EU energy security. In a letter to European leaders co-signed by Nigeria and Algeria they called for a \"pragmatic approach\" to clarify and amend rule details so importers can continue supplying required oil and gas. The appeal comes as the EU faces pressure to lower high energy prices and plans to boost US gas imports amid the Middle East conflict; several member states want the methane rules' impact on energy security discussed at this week's EU energy ministers meeting."
-    },
-    {
-      "id": "mkt:019ef5c7-a0ba-7dd8-b0e1-e23d5e23ac86",
-      "time": "2026-06-24 02:39:21",
-      "tags": [
-        "MKT News",
-        "AIR.PA",
-        "Impact bearish"
-      ],
-      "text": "Fuselage cracks detected on Airbus A380s operated by Emirates and Qantas; Airbus to inspect 16 A380 aircraft."
     }
   ]
 }
