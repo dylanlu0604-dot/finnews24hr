@@ -1,7 +1,51 @@
 {
-  "updated": "2026-07-01 07:14:14",
+  "updated": "2026-07-01 07:18:03",
   "count": 13973,
   "items": [
+    {
+      "id": "4963762",
+      "time": "2026-07-01 07:16:48",
+      "tags": [
+        "其他"
+      ],
+      "text": "澳大利亞證券交易所：修訂後的方案將推行全企業統一方案，內容包括重構工作流、交付方式與目標成果。"
+    },
+    {
+      "id": "te:economy:563124",
+      "time": "2026-07-01 07:16:23",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Australia",
+        "Industry Index",
+        "Importance 2"
+      ],
+      "text": "Australian Industry Conditions Inch Higher — Australia’s Industry Index edged up 0.5 points to -30.0 in June 2026, signaling modest relief as lower fuel prices eased energy-related pressures. Yet higher costs and lingering uncertainty kept conditions weak. New orders fell 5.1 points to -41.0, among the lowest since the pandemic, underscoring thin pipelines, delayed decisions, and weak enquiries. Input volumes rose 3.3 points but stayed flat on trend, while activity and sales eased 8.7 points to -42.4. Employment remained in contraction at -15.5, constrained by skilled labor shortages, rising wages, and hiring difficulties. Cost pressures intensified: input prices surged 15.8 points to 80.5, while sales prices added 1.0 point to 19.2, leaving a record 61.3-point margin gap. Capacity utilisation eased to 72.8%, weighed by high energy and input costs, freight disruptions, labor shortages, and regulatory hurdles. Looking ahead, subdued investment, tax burdens, and persistent uncertainty are expected to keep utilisation under strain."
+    },
+    {
+      "id": "4963761",
+      "time": "2026-07-01 07:16:10",
+      "tags": [
+        "其他"
+      ],
+      "text": "澳交所與澳大利亞證券與投資委員會及澳大利亞儲備銀行達成修訂後的轉型計劃。"
+    },
+    {
+      "id": "4963760",
+      "time": "2026-07-01 07:14:49",
+      "tags": [
+        "其他"
+      ],
+      "text": "【5月末銀行理財規模超35萬億元，創歷史新高】繼一季度出現階段性規模縮水後，銀行理財市場二季度以來迎來強勢回暖，4月末、5月末存續規模持續攀升。華源證券固收廖志明團隊研報統計資料（全文資料來源）顯示，截至2026年5月末，全市場銀行理財存續規模達35.1萬億元，創下歷史新高。（證券日報）"
+    },
+    {
+      "id": "4963759",
+      "time": "2026-07-01 07:14:23",
+      "tags": [
+        "公司"
+      ],
+      "text": "【波音公司：此次IT系統故障影響了計算機系統和應用程式】波音公司週二表示，一次計劃外的IT系統故障影響了其部分計算機系統和應用程式。據《Air Current》援引知情人士的話報道，此次故障“嚴重擾亂”了這家航空航天公司的商用和軍用生產。波音公司未對該報道置評，但表示：“我們已查明故障原因——沒有理由認為這是網路攻擊所致——我們的IT團隊正在努力讓所有系統恢復執行。”據報道，該公司雖在季度最後一天完成了部分交付，但受此次故障影響，商用客機的最終檢查和文書工作基本陷入停滯。"
+    },
     {
       "id": "mkt:019f1ace-ca7c-7aab-8c44-f05204c20ca7",
       "time": "2026-07-01 07:13:07",
@@ -128284,47 +128328,6 @@
         "國際"
       ],
       "text": "美國財長貝森特：美國必須避免在任何海外關鍵咽喉節點陷入受制於人局面。"
-    },
-    {
-      "id": "4951249",
-      "time": "2026-06-24 07:17:50",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "美國財政部長貝森特呼籲保障美國供應鏈安全。"
-    },
-    {
-      "id": "4951248",
-      "time": "2026-06-24 07:17:31",
-      "tags": [
-        "公司"
-      ],
-      "text": "【德國鐵路公司：列車無線電故障已排除 運營正在恢復中】德國鐵路運營商德國鐵路公司稱，列車無線電故障已排除，運營正在恢復中。此前該公司釋出宣告稱，由於全國鐵路數字無線電通訊系統出現大範圍故障，德國全境列車於週二晚間停運。德國鐵路表示：“目前所有列車均停靠在車站，無法執行。” 此次故障波及鐵路專用全球行動通訊系統（GSM-R）。GSM-R 系統是列車司機與排程中心之間的核心通訊裝置。德國聯邦鐵路稱：“我方技術人員正全力搶修故障。” 公司補充，已查明故障原因，但未透露具體細節。"
-    },
-    {
-      "id": "4951247",
-      "time": "2026-06-24 07:16:58",
-      "tags": [
-        "公司"
-      ],
-      "text": "【北交所公司迎來密集調研 機構掘金“專精特新”標的】近期，北交所上市公司迎來一波機構“叩門潮”。據不完全統計，近一個月內，有近40家北交所公司密集接待機構調研，其中新能源、半導體裝置、生物醫藥、高階製造領域的“隱形冠軍”成為機構扎堆目的地。機構調研過程中，公募、保險等長線資金頻繁現身。當前機構調研的關注重心已不再侷限於單純的財務資料核驗，進一步延伸至產能週期拐點、技術商業化落地節點及全球供應鏈格局變動等深層維度，各方借實地調研研判企業真實發展前景，重點挖掘存在估值窪地的專精特新企業標的。（上海證券報）"
-    },
-    {
-      "id": "4951246",
-      "time": "2026-06-24 07:14:38",
-      "tags": [
-        "公司"
-      ],
-      "text": "據報道，亞洲航空長途公司（AirAsia X Bhd.）已拖欠供應商款項，並已要求至少12架飛機的款項延期支付。"
-    },
-    {
-      "id": "4951245",
-      "time": "2026-06-24 07:14:24",
-      "tags": [
-        "國際"
-      ],
-      "text": "【澤連斯基：烏克蘭提交新版經合組織入盟申請】烏克蘭總統弗拉基米爾・澤連斯基週二表示，烏克蘭已向經濟合作與發展組織（OECD，成員以發達經濟體為主）提交修訂後的入盟申請，基輔方面正謀求深度融入西方各類機構。數年來，烏克蘭一直配合經合組織推進改革、對標其治理標準，現階段目標是先獲得候選國地位，以此作為正式加入該組織的過渡環節。經合組織秘書長馬蒂亞斯・科爾曼到訪基輔並與澤連斯基會面後，澤連斯基在電報平臺發文稱，總理尤利婭・斯維裡登科已遞交更新版入盟申請。澤連斯基寫道：“我們希望最快今年秋季取得候選國資格。下一階段將敲定通往經合組織正式成員身份的路線圖，我們已在會面中就此展開磋商。”"
     }
   ]
 }
