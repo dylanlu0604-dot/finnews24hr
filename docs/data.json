@@ -1,7 +1,65 @@
 {
-  "updated": "2026-07-01 04:04:42",
-  "count": 13981,
+  "updated": "2026-07-01 04:08:29",
+  "count": 13983,
   "items": [
+    {
+      "id": "mkt:019f1a24-828d-7aab-8c42-99acfcee36bb",
+      "time": "2026-07-01 04:07:08",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "The U.S. added an average of 1,200 new millionaires per day last year, the Wall Street Journal reports."
+    },
+    {
+      "id": "mkt:019f1a23-96b6-7aab-8c42-9110a59f6ea8",
+      "time": "2026-07-01 04:06:07",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "NYT reports U.S. officials say Washington has not released USD 6 bln in frozen Iranian funds for humanitarian supplies under the memorandum of understanding and will not unfreeze the funds until Tehran fulfils its commitments under the MOU."
+    },
+    {
+      "id": "mkt:019f1a23-897b-7aab-8c42-8f021bab9c70",
+      "time": "2026-07-01 04:06:04",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "Magnificent 7",
+        "Star Stocks",
+        "NVIDIA",
+        "Microsoft",
+        "Meta Platforms",
+        "Alphabet",
+        "Apple",
+        "Nasdaq100",
+        "Impact bullish",
+        "S&P500",
+        "NVDA.O"
+      ],
+      "text": "【US equities 1H close: Nasdaq +12.8%; Big Seven divergence】US equities closed 1H 2026 with the Nasdaq up 12.79%, the S&P 500 up 9.5% and the Dow up 8.8%. Memory and semiconductor stocks outperformed: SanDisk (SNDK) +857% — the top S&P 500 gainer; Micron (MU) +304%, with market value surpassing $1 trillion for the first time; Intel (INTC) +278%; Western Digital (WDC) +270%. Among the seven largest tech names, Microsoft (MSFT) led declines, down more than 22%; Meta (META) -14%; Tesla (TSLA) -6%. Gains included Alphabet A (GOOGL) +14%, Apple (AAPL) +6%, Amazon (AMZN) +3% and NVIDIA (NVDA) +7%."
+    },
+    {
+      "id": "mkt:019f1a22-2139-7aab-8c42-84db986b0c5b",
+      "time": "2026-07-01 04:04:32",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish",
+        "EURUSD",
+        "Impact bearish",
+        "USDJPY"
+      ],
+      "text": "【US dollar index up on 30th】The US dollar index rose 0.08% to 101.187 at the FX close. EUR/USD 1.1420, down from 1.1425; GBP/USD 1.3255, down from 1.3257. USD/JPY 162.62, up from 161.97; USD/CHF 0.8083, up from 0.8075; USD/CAD 1.4204, up from 1.4203; USD/SEK 9.7005, down from 9.7084."
+    },
+    {
+      "id": "4963661",
+      "time": "2026-07-01 04:04:16",
+      "tags": [
+        "國際"
+      ],
+      "text": "《紐約郵報》援引美國政府官員訊息：美方尚未釋放諒解備忘錄中規定的 60 億美元伊朗凍結資產用於人道主義物資採購，在德黑蘭兌現相關條件前不會解凍這筆資金。"
+    },
     {
       "id": "mkt:019f1a21-aec6-7aab-8c42-7975567a219e",
       "time": "2026-07-01 04:04:02",
@@ -128268,40 +128326,6 @@
         "Importance 2"
       ],
       "text": "US Stocks Close Lower on Tech Selloff — US stock indices closed negative on Tuesday amid a selloff in heavyweight chip producers. The S&P 500 fell 1.4%, and the Nasdaq 100 lost 3.3% as AI infrastructure companies, including semiconductor and memory chip producers, tanked on increasing skepticism that AI spending by hyperscalers will not meet returns. Also, SK Hynix slowed production of advanced AI chips to boost commodity DRAM capacity, a sign that demand for compute could slow. Nvidia (-3.1%), Micron (-13.2%), AMD(-5.8%), Broadcom (-3.1%), Sandisk (-11.2%), and Qualcomm (-8%) posted losses. Tesla lost 4.7% and Oracle slipped 5.7%. Meanwhile, SpaceX added 1%, rebounding as it issued bonds only one week after its IPO, adding to caution on colossal capital expenditure. Treasury yields remained elevated despite the decline in energy prices following the hawkish dot plot last week, limiting any respite for traditional sectors of the economy. Gains for healthcare and consumer defensive companies aided the Dow to close near flat."
-    },
-    {
-      "id": "4951119",
-      "time": "2026-06-24 04:06:05",
-      "tags": [
-        "公司"
-      ],
-      "text": "【聯邦快遞財報超市場預期，預計本年度利潤將實現增長】多位訊息人士稱，聯邦快遞集團最新季度盈利資料好於華爾街一致預期，公司預計全年利潤增長，為其精簡業務的戰略提供利好支撐。聯邦快遞週二釋出公告稱，第四財季調整後每股收益6.31美元。市場一致預期均值為5.97美元。公司表示，2026自然年調整後每股收益區間為16.90–18.10美元，高於2025年預估的15美元。"
-    },
-    {
-      "id": "mkt:019ef616-f1bf-7dd8-b0e2-f7acc18c313f",
-      "time": "2026-06-24 04:05:59",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Wall Street (US)",
-        "S&P500",
-        "Impact bearish",
-        "Dow",
-        "Nasdaq100"
-      ],
-      "text": "U.S. equities closed lower on Tuesday, June 23: the Dow Jones Industrial Average fell 45.87 points, or 0.09%, to 51,666.84; the S&P 500 fell 107.29 points, or 1.44%, to 7,365.50; the Nasdaq Composite fell 579.56 points, or 2.21%, to 25,587.04."
-    },
-    {
-      "id": "te:markets:561266",
-      "time": "2026-06-24 04:05:52",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Earnings",
-        "Importance 0"
-      ],
-      "text": "FedEx earnings above expectations at 6.31 USD — FedEx (FDX) released earnings per share at 6.31 USD, compared to market expectations of 5.96 USD."
     }
   ]
 }
