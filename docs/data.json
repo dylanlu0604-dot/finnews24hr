@@ -1,7 +1,52 @@
 {
-  "updated": "2026-07-01 04:08:29",
+  "updated": "2026-07-01 04:12:14",
   "count": 13983,
   "items": [
+    {
+      "id": "4963663",
+      "time": "2026-07-01 04:11:12",
+      "tags": [
+        "國際"
+      ],
+      "text": "【埃及、土耳其同哈馬斯討論落實加沙停火事宜】埃及與土耳其情報官員30日在埃及首都開羅同巴勒斯坦伊斯蘭抵抗運動（哈馬斯）多名高階官員舉行會晤，就落實加沙停火事宜展開討論。據埃及方面訊息，由哈利勒·哈亞、哈立德·邁沙阿勒等哈馬斯高階官員組成的代表團當日早些時候抵達開羅，恢復關於加沙停火第二階段的談判。埃及情報總局局長哈桑·拉沙德與土耳其國家情報局局長卡林同哈馬斯代表團舉行會談。據悉，三方當天的會談取得“積極進展”。各方對美國提出的結束加沙衝突計劃持樂觀看法。哈馬斯官員確認將全力支援和落實該計劃。（央視新聞）"
+    },
+    {
+      "id": "mkt:019f1a27-f89c-7aab-8c42-b2c272418dd6",
+      "time": "2026-07-01 04:10:54",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "【Netanyahu: Israel's war 'never-ending', confrontation with Iran 'far from over'】On June 30, Israeli Prime Minister Netanyahu told Channel 14 TV that Israel has achieved \"significant military successes\" in recent years and is \"stronger than ever,\" but that its fighting is \"never-ending\" and confronting Iran and its allies remains \"a long way off.\" He said Israel has \"successfully repelled and greatly weakened\" related security threats but still must carry out follow-up military operations. Asked about possible future peace agreements, he declined to name countries, saying Israel is in contact with multiple states and that only by remaining strong will others ally and make peace."
+    },
+    {
+      "id": "mkt:019f1a27-e6a4-7aab-8c42-af639245d647",
+      "time": "2026-07-01 04:10:50",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Magnificent 7",
+        "Nasdaq100",
+        "Impact bearish",
+        "S&P500"
+      ],
+      "text": "The US Magnificent Seven index fell 8.9% in June, its worst monthly performance since March 2025."
+    },
+    {
+      "id": "mkt:019f1a26-8053-7aab-8c42-a0e230d0ec1f",
+      "time": "2026-07-01 04:09:18",
+      "tags": [
+        "MKT News",
+        "Dow",
+        "Impact bullish",
+        "S&P500",
+        "Nasdaq100"
+      ],
+      "text": "Dow Jones Industrial Average closed up 135.07 points (+0.26%) at 52,317.81 on Tuesday, June 30; S&P 500 closed up 58.57 points (+0.79%) at 7,499.00; Nasdaq Composite closed up 393.58 points (+1.52%) at 26,213.72."
+    },
     {
       "id": "mkt:019f1a24-828d-7aab-8c42-99acfcee36bb",
       "time": "2026-07-01 04:07:08",
@@ -128290,42 +128335,6 @@
         "Brent"
       ],
       "text": "【Trump says U.S. seeking fair deal with Iran to end Strait of Hormuz conflict】On June 23, Trump said the U.S. is seeking a fair deal with Iran to end the conflict in the Strait of Hormuz, noting 19 million barrels of oil transited the strait on June 22. He reiterated that Iran must not possess nuclear weapons and said related efforts are progressing well."
-    },
-    {
-      "id": "4951121",
-      "time": "2026-06-24 04:11:04",
-      "tags": [
-        "國際"
-      ],
-      "text": "【美參議院透過決議 旨在限制特朗普對伊戰爭權力】當地時間6月23日，美國國會參議院以50票贊成、48票反對透過眾議院此前已透過的關於伊朗的戰爭權力決議。這是相關決議首次獲得國會兩院透過。該決議要求總統在未經國會宣戰或授權使用武力的情況下，結束美國對伊朗的軍事行動。不過，由於該決議屬於國會共同決議，不具有法律約束力，也無需總統簽署，因此主要具有象徵意義。"
-    },
-    {
-      "id": "mkt:019ef61a-3920-7dd8-b0e2-fff6de985dd1",
-      "time": "2026-06-24 04:09:34",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Trump administration mulls White House aide Heidi Overton for FDA commissioner】White House domestic policy aide Heidi Overton is among the final candidates the Trump administration is considering to lead the FDA. No selection has been made and it is unclear whether Overton has the backing of Health Secretary Robert F. Kennedy Jr. Any nominee for FDA commissioner would require Senate confirmation."
-    },
-    {
-      "id": "4951120",
-      "time": "2026-06-24 04:09:19",
-      "tags": [
-        "公司"
-      ],
-      "text": "聯邦快遞：將擇機回購至多10億美元公司股票。"
-    },
-    {
-      "id": "te:markets:561267",
-      "time": "2026-06-24 04:09:06",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Stock Market",
-        "Importance 2"
-      ],
-      "text": "US Stocks Close Lower on Tech Selloff — US stock indices closed negative on Tuesday amid a selloff in heavyweight chip producers. The S&P 500 fell 1.4%, and the Nasdaq 100 lost 3.3% as AI infrastructure companies, including semiconductor and memory chip producers, tanked on increasing skepticism that AI spending by hyperscalers will not meet returns. Also, SK Hynix slowed production of advanced AI chips to boost commodity DRAM capacity, a sign that demand for compute could slow. Nvidia (-3.1%), Micron (-13.2%), AMD(-5.8%), Broadcom (-3.1%), Sandisk (-11.2%), and Qualcomm (-8%) posted losses. Tesla lost 4.7% and Oracle slipped 5.7%. Meanwhile, SpaceX added 1%, rebounding as it issued bonds only one week after its IPO, adding to caution on colossal capital expenditure. Treasury yields remained elevated despite the decline in energy prices following the hawkish dot plot last week, limiting any respite for traditional sectors of the economy. Gains for healthcare and consumer defensive companies aided the Dow to close near flat."
     }
   ]
 }
