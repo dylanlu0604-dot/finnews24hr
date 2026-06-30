@@ -1,7 +1,47 @@
 {
-  "updated": "2026-07-01 02:40:45",
-  "count": 13936,
+  "updated": "2026-07-01 02:44:49",
+  "count": 13937,
   "items": [
+    {
+      "id": "4963596",
+      "time": "2026-07-01 02:43:43",
+      "tags": [
+        "其他"
+      ],
+      "text": "多明尼加共和國維持基準利率5.25%。"
+    },
+    {
+      "id": "4963595",
+      "time": "2026-07-01 02:42:55",
+      "tags": [
+        "其他"
+      ],
+      "text": "千禧管理最新一輪募資目標至少100億美元。"
+    },
+    {
+      "id": "4963594",
+      "time": "2026-07-01 02:42:33",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國法官駁回愛彼迎要求撤銷洛杉磯訴訟的申請，該訴訟指控愛彼迎在2025年山火後哄抬物價。"
+    },
+    {
+      "id": "4963593",
+      "time": "2026-07-01 02:42:23",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗塔斯尼姆通訊社：以色列軍方在黎巴嫩南部實施爆破行動。"
+    },
+    {
+      "id": "mkt:019f19d6-95a8-7aab-8c40-752767175a02",
+      "time": "2026-07-01 02:42:01",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "TASNIM News cites sources saying Israeli forces carried out an explosive attack in southern Lebanon."
+    },
     {
       "id": "mkt:019f19d4-b8d0-7aab-8c40-6e4bdec50561",
       "time": "2026-07-01 02:39:59",
@@ -127858,51 +127898,6 @@
         "Impact bullish"
       ],
       "text": "【SpaceX prepares first bond sale, plans $25 billion offering】SpaceX is preparing its first bond issuance to raise $25 billion to test fixed-income investor appetite for Elon Musk’s vision for the company. Bonds would span 5- to 30-year maturities. Banks view the deal as a bellwether for further fundraising; a buy-side source said SpaceX could return in the next few years seeking roughly $10 billion more in refinancing. The planned sale comes amid a renewed large-cap tech selloff and market concern over high valuations and a rising-rate outlook."
-    },
-    {
-      "id": "4951063",
-      "time": "2026-06-24 02:43:13",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "紐約期銀失守62美元/盎司，日內跌6.15%。"
-    },
-    {
-      "id": "mkt:019ef5ca-f7af-7dd8-b0e1-f490e135506d",
-      "time": "2026-06-24 02:42:59",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "Italian Prime Minister Meloni said allowing Iran to impose transit fees in the Strait of Hormuz would turn a strategic trade waterway into a geopolitical weapon and is unacceptable."
-    },
-    {
-      "id": "te:markets:561265",
-      "time": "2026-06-24 02:42:42",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "stocks",
-        "Importance 1"
-      ],
-      "text": "Tesla Stock Price Hits 7-week Low — Tesla shares decreased to 380.12 USD, the lowest since May 2026. Over the past 4 weeks, Tesla lost 12.18%, and in the last 12 months, it increased 11.84%."
-    },
-    {
-      "id": "mkt:019ef5ca-4753-7dd8-b0e1-ecb1678a4212",
-      "time": "2026-06-24 02:42:14",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact mixed",
-        "Brent"
-      ],
-      "text": "【Several gas exporters warn EU methane rules could threaten energy security】The US, Qatar and other natural gas exporters have urged the EU to relax parts of proposed methane-emissions rules, warning the measures could threaten EU energy security. In a letter to European leaders co-signed by Nigeria and Algeria they called for a \"pragmatic approach\" to clarify and amend rule details so importers can continue supplying required oil and gas. The appeal comes as the EU faces pressure to lower high energy prices and plans to boost US gas imports amid the Middle East conflict; several member states want the methane rules' impact on energy security discussed at this week's EU energy ministers meeting."
     }
   ]
 }
