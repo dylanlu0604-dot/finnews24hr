@@ -1,7 +1,66 @@
 {
-  "updated": "2026-07-01 04:31:01",
-  "count": 13981,
+  "updated": "2026-07-01 04:34:46",
+  "count": 13977,
   "items": [
+    {
+      "id": "4963671",
+      "time": "2026-07-01 04:34:15",
+      "tags": [
+        "其他"
+      ],
+      "text": "新興市場二季度漲23%，創2009年以來最佳單季表現。"
+    },
+    {
+      "id": "4963670",
+      "time": "2026-07-01 04:33:52",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列總理內塔尼亞胡談及加沙問題：至於在加沙重建定居點一事，必須先採取行動，再進行談判。有些時候，行動與談判應當分開推進，這也是我不再就此話題多做闡述的原因。大家要明白，治國之道不只是處理國內政治事務。我無需每時每刻向全世界公開所有計劃。"
+    },
+    {
+      "id": "4963669",
+      "time": "2026-07-01 04:31:16",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "根據美國證交會（SEC）檔案，英偉達公司股東批准一項提案，將“超級多數投票規則”改為“簡單多數投票標準”。英偉達公司股東批准關於高管薪酬的“諮詢性投票”議案。公司股東批准選舉全部10名董事候選人，任期延續至2027年年度股東大會。"
+    },
+    {
+      "id": "mkt:019f1a3a-41dd-7aab-8c43-01f87b4c182e",
+      "time": "2026-07-01 04:30:53",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "Magnificent 7"
+      ],
+      "text": "SEC filing shows NVIDIA (NVDA.O) shareholders approved the election of all 10 director nominees; terms run through the company’s 2027 annual meeting."
+    },
+    {
+      "id": "mkt:019f1a3a-1f18-7aab-8c42-fa7b9493cb3d",
+      "time": "2026-07-01 04:30:44",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "Magnificent 7",
+        "NVDA.O"
+      ],
+      "text": "NVIDIA (NVDA.O) shareholders approved an advisory vote on executive compensation, according to an SEC filing."
+    },
+    {
+      "id": "4963668",
+      "time": "2026-07-01 04:30:38",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "塞爾維亞能源部長表示，塞爾維亞境內由俄羅斯控股的尼什石油公司（NIS）獲得美國製裁豁免，豁免有效期至 7 月 31 日。"
+    },
     {
       "id": "mkt:019f1a39-fd7e-7aab-8c42-f12ccac364b3",
       "time": "2026-07-01 04:30:35",
@@ -128241,91 +128300,6 @@
         "Importance 1"
       ],
       "text": "The Dow Jones Index Closes 0.09% Lower — The Dow Jones Index dropped 47 points or 0.09 percent on Tuesday to close at 51665 points. Losses were led by Nvidia (-3.99%), Caterpillar (-3.55%) and Honeywell International (-2.37%). Offsetting the fall, top gainers were IBM (4.92%), Merck (3.54%) and J&J (3.36%)."
-    },
-    {
-      "id": "mkt:019ef631-3f73-7dd8-b0e3-3ff86837c2e5",
-      "time": "2026-06-24 04:34:43",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "State media reported Oman has coordinated with the International Maritime Organization to provide a temporary maritime corridor in the Strait of Hormuz."
-    },
-    {
-      "id": "4951138",
-      "time": "2026-06-24 04:34:09",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "明晟公司（MSCI INC）：認可印尼及土耳其股市為解決上述問題所採取並已公佈的各項措施。"
-    },
-    {
-      "id": "4951137",
-      "time": "2026-06-24 04:34:03",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "明晟公司（MSCI Inc）就印尼市場發表觀點：對於印尼而言，市場參與者對其可投資性提出了重大擔憂，這些擔憂源於相關問題。"
-    },
-    {
-      "id": "4951136",
-      "time": "2026-06-24 04:33:53",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "明晟公司（MSCI Inc）就印尼市場發表觀點：對於印尼而言，市場參與者對其可投資性提出了重大擔憂，這些擔憂源於相關問題。"
-    },
-    {
-      "id": "4951135",
-      "time": "2026-06-24 04:33:46",
-      "tags": [
-        "國際"
-      ],
-      "text": "明晟就印尼問題表態：明晟將在自由流通量確定與更廣泛可投資性評估的框架下，持續評估相關規則的覆蓋範圍、一致性和長期有效性。"
-    },
-    {
-      "id": "4951134",
-      "time": "2026-06-24 04:33:41",
-      "tags": [
-        "國際"
-      ],
-      "text": "明晟：持續監測針對提升韓國股市對國際機構投資者可及性的相關措施的落實情況。"
-    },
-    {
-      "id": "4951133",
-      "time": "2026-06-24 04:33:34",
-      "tags": [
-        "公司"
-      ],
-      "text": "Grindr宣佈任命執行長喬治·阿里森為董事會主席，並授予股權，以延續阿里森截至2030年秋季的薪酬安排。"
-    },
-    {
-      "id": "mkt:019ef62f-ffc0-7dd8-b0e3-3275af83c7ca",
-      "time": "2026-06-24 04:33:21",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Emerging Markets"
-      ],
-      "text": "MSCI is assessing shareholder transparency and coordinated trading issues in Indonesian and Turkish equity markets."
-    },
-    {
-      "id": "mkt:019ef62f-b321-7dd8-b0e3-2f141af5ceed",
-      "time": "2026-06-24 04:33:01",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "MSCI said if by its November 2026 index review the Indonesian market has not shown significant progress, it will consider a range of options to determine its treatment in MSCI indices."
-    },
-    {
-      "id": "mkt:019ef62f-05ac-7dd8-b0e3-20df30075c78",
-      "time": "2026-06-24 04:32:17",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "MSCI released the results of its 2026 market classification review."
     }
   ]
 }
