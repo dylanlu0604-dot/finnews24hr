@@ -1,7 +1,29 @@
 {
-  "updated": "2026-07-01 01:22:18",
-  "count": 13908,
+  "updated": "2026-07-01 01:26:21",
+  "count": 13904,
   "items": [
+    {
+      "id": "4963546",
+      "time": "2026-07-01 01:24:07",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "據交易商透露，中糧集團是洲際交易所（ICE）7月原糖期貨合約的唯一交割方；而蘇克敦（Sucden）被認為是最大的接受交割方。"
+    },
+    {
+      "id": "mkt:019f198d-7868-7aab-8c3f-408a1ad8e1b5",
+      "time": "2026-07-01 01:22:09",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish"
+      ],
+      "text": "WTI crude trades at $69.55/bbl, down more than 1.00% intraday."
+    },
     {
       "id": "4963545",
       "time": "2026-07-01 01:18:50",
@@ -127546,62 +127568,6 @@
         "The Fed (FOMC)"
       ],
       "text": "CNBC reports the selection process for the Atlanta Fed presidency has restarted after Wosh was named Federal Reserve chair."
-    },
-    {
-      "id": "4951034",
-      "time": "2026-06-24 01:26:14",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "市場訊息：沃什出任美聯儲主席後，亞特蘭大聯儲行長遴選流程已重新啟動。"
-    },
-    {
-      "id": "mkt:019ef583-8c5e-7dd8-b0e0-dedff855dccc",
-      "time": "2026-06-24 01:24:59",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Asked when IAEA inspectors would be on site in Iran, U.S. President Trump said at the right time and that he was not in a hurry."
-    },
-    {
-      "id": "mkt:019ef582-6df0-7dd8-b0e0-d75ef4a2078b",
-      "time": "2026-06-24 01:23:46",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "SpaceX plans to raise $25 billion through issuance of senior high-grade bonds."
-    },
-    {
-      "id": "mkt:019ef582-0a7e-7dd8-b0e0-c8db122240e1",
-      "time": "2026-06-24 01:23:20",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "XAUUSD",
-        "DXY"
-      ],
-      "text": "Iran said it had not arranged visits by IAEA inspectors; U.S. President Trump responded: \"If that's true, I'll cancel all meetings now.\""
-    },
-    {
-      "id": "4951033",
-      "time": "2026-06-24 01:23:10",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：如果伊朗想找麻煩，那就去尋求核武器。在軍事力量和能力遭受重創之後，伊朗已不具備有利的談判地位。伊朗的軍事基礎設施已徹底摧毀，通脹率已達300%。"
-    },
-    {
-      "id": "4951032",
-      "time": "2026-06-24 01:22:47",
-      "tags": [
-        "公司",
-        "焦點",
-        "國際"
-      ],
-      "text": "SpaceX 擬透過首次美國高等級債券發行募資 250 億美元。"
     }
   ]
 }
