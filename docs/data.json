@@ -1,7 +1,42 @@
 {
-  "updated": "2026-07-01 03:57:13",
-  "count": 13976,
+  "updated": "2026-07-01 04:00:56",
+  "count": 13977,
   "items": [
+    {
+      "id": "4963654",
+      "time": "2026-07-01 04:00:03",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【納斯達克中國金龍指數收漲0.71%】Tims中國漲18.85%，禾賽科技漲15.64%，阿特斯漲8.50%，世紀互聯漲7.12%，億咖通科技漲7.50%。"
+    },
+    {
+      "id": "4963653",
+      "time": "2026-07-01 03:59:47",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗議會議長卡利巴夫：美國國內本身也存在分歧。 能明顯看到，美國國務卿魯比奧持一套立場，而副總統萬斯則持另一套截然不同的主張。"
+    },
+    {
+      "id": "4963652",
+      "time": "2026-07-01 03:58:19",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗議會議長卡利巴夫： 伊朗石油均按照布倫特原油價格及國際市場行情定價出售。"
+    },
+    {
+      "id": "mkt:019f1a1c-3dd6-7aab-8c42-682be8d60fef",
+      "time": "2026-07-01 03:58:06",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "Iran parliament speaker Ghalibaf said Iranian oil is being sold at Brent and other international market prices."
+    },
     {
       "id": "te:economy:563102",
       "time": "2026-07-01 03:55:55",
@@ -128230,32 +128265,6 @@
         "國際"
       ],
       "text": "特朗普表示，委內瑞拉應被納入美國石油產量統計資料之中。"
-    },
-    {
-      "id": "4951115",
-      "time": "2026-06-24 04:00:48",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "【美股收盤：三大股指集體收跌】道指跌0.09%，標普500指數跌1.43%，納指跌2.18%。閃迪跌13.75%，美光跌13.23%，VRT跌11.08%，ON SEMICONDUCTOR跌11.06%，Coherent Corp跌10.38%。“七姐妹”方面：微軟漲1.89%，亞馬遜漲0.63%，Meta Platforms跌0.18%，谷歌跌0.67%，蘋果跌0.80%，英偉達跌4.03%，特斯拉跌5.81%。"
-    },
-    {
-      "id": "4951114",
-      "time": "2026-06-24 04:00:02",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "【納斯達克中國金龍指數收跌0.60%】海天網路跌8.95%，阿特斯跌7.99%，復朗集團跌6.51%，新氧跌6.39%，嗶哩嗶哩跌4.68%。"
-    },
-    {
-      "id": "mkt:019ef60f-65ce-7dd8-b0e2-e6e40aa29c2a",
-      "time": "2026-06-24 03:57:44",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "AP reports Republican senators who have clashed with TRUMP in recent weeks will have a chance to question him face-to-face at a Capitol luncheon on Wednesday."
     }
   ]
 }
