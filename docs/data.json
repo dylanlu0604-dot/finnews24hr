@@ -1,7 +1,49 @@
 {
-  "updated": "2026-07-01 01:30:12",
-  "count": 13900,
+  "updated": "2026-07-01 01:34:06",
+  "count": 13903,
   "items": [
+    {
+      "id": "4963549",
+      "time": "2026-07-01 01:32:09",
+      "tags": [
+        "公司"
+      ],
+      "text": "諾基亞：FMR LLC在諾基亞公司的投票權已降至5%以下。"
+    },
+    {
+      "id": "mkt:019f1996-7329-7aab-8c3f-5fd9ae4532d1",
+      "time": "2026-07-01 01:31:57",
+      "tags": [
+        "MKT News",
+        "BA.O",
+        "Impact mixed"
+      ],
+      "text": "SPEEA said it plans to negotiate with Boeing on two collective bargaining agreements: one covering about 13,000 engineers and another covering about 4,000 technical workers."
+    },
+    {
+      "id": "mkt:019f1995-927d-7aab-8c3f-57706a7af22e",
+      "time": "2026-07-01 01:31:00",
+      "tags": [
+        "MKT News",
+        "PBR.N",
+        "Impact mixed"
+      ],
+      "text": "Brazilian government to gradually reduce emergency fuel subsidies."
+    },
+    {
+      "id": "mkt:019f1995-289f-7aab-8c3f-4c581908fab1",
+      "time": "2026-07-01 01:30:33",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bullish",
+        "EURUSD",
+        "CNH"
+      ],
+      "text": "【OMFIF survey: central banks plan net dollar cuts for first time, pivot to gold】An OMFIF survey of 74 central banks shows for the first time more institutions plan to reduce dollar allocations than increase them over the next decade, reflecting diminished dollar appeal amid rising U.S. political and geopolitical risk and greater U.S. trade-policy uncertainty. The dollar still represents about 58% of global foreign-exchange reserves and remains dominant in the near term. A record share of respondents intend to increase gold holdings to hedge geopolitical and financial-system risk. The euro and the renminbi are gaining traction for international trade and reserve diversification, and some emerging-market currencies are drawing interest, signaling gradual reserve diversification while the dollar’s marginal advantage declines."
+    },
     {
       "id": "4963548",
       "time": "2026-07-01 01:28:56",
@@ -127513,14 +127555,6 @@
         "MKT News"
       ],
       "text": "【Atlanta Fed president search seen as test of how Waller will reshape Fed】CNBC reports the search for a new president of the Federal Reserve Bank of Atlanta has entered its seventh month and is being closely watched as a gauge of how new Fed chair Waller may reshape the FOMC. Two people familiar with the process said a search begun under former chair Powell was paused to allow Waller to lead the appointment. Michael Faulkender, a former senior Treasury official in the Trump administration, was later added to the candidate list; his current status is unclear."
-    },
-    {
-      "id": "4951038",
-      "time": "2026-06-24 01:31:20",
-      "tags": [
-        "公司"
-      ],
-      "text": "聯合航空：公司將聯合 DirecTV，在搭載星鏈網路的座椅靠背顯示屏上提供電視直播服務，活動持續至 7 月 20 日。"
     }
   ]
 }
