@@ -1,7 +1,15 @@
 {
-  "updated": "2026-07-01 03:34:34",
-  "count": 13976,
+  "updated": "2026-07-01 03:38:23",
+  "count": 13974,
   "items": [
+    {
+      "id": "mkt:019f1a09-9196-7aab-8c42-3692fde887d3",
+      "time": "2026-07-01 03:37:42",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Former Israeli prime minister Bennett said Turkey itself is important, but President Erdogan \"is a disaster\"."
+    },
     {
       "id": "4963645",
       "time": "2026-07-01 03:33:49",
@@ -128220,35 +128228,6 @@
         "國際"
       ],
       "text": "美國法院裁定拜登紀念園區擴建專案需接受審查。"
-    },
-    {
-      "id": "mkt:019ef5fc-b9fb-7dd8-b0e2-ca26c118ca8e",
-      "time": "2026-06-24 03:37:21",
-      "tags": [
-        "MKT News",
-        "DXY",
-        "Impact bullish",
-        "EURUSD",
-        "Impact bearish",
-        "USDJPY"
-      ],
-      "text": "【US dollar index rises 0.38% to 101.408 at New York close】US dollar index (DXY) rose 0.38% to 101.408 at the New York FX close. EUR/USD 1.1379 (prev. 1.1424); GBP/USD 1.3188 (prev. 1.3244). USD/JPY 161.57 (prev. 161.42); USD/CHF 0.8100 (prev. 0.8091); USD/CAD 1.4214 (prev. 1.4157); USD/SEK 9.7466 (prev. 9.6212)."
-    },
-    {
-      "id": "4951104",
-      "time": "2026-06-24 03:36:53",
-      "tags": [
-        "市場"
-      ],
-      "text": "【美元指數23日上漲】美元指數23日上漲。衡量美元對六種主要貨幣的美元指數當天上漲0.38%，在匯市尾市收於101.408。截至紐約匯市尾市，1歐元兌換1.1379美元，低於前一交易日的1.1424美元；1英鎊兌換1.3188美元，低於前一交易日的1.3244美元。1美元兌換161.57日元，高於前一交易日的161.42日元；1美元兌換0.8100瑞士法郎，高於前一交易日的0.8091瑞士法郎；1美元兌換1.4214加元，高於前一交易日的1.4157加元；1美元兌換9.7466瑞典克朗，高於前一交易日的9.6212瑞典克朗。"
-    },
-    {
-      "id": "4951103",
-      "time": "2026-06-24 03:35:52",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國聯邦航空管理局暫停部分飛往拉瓜迪亞機場的航班。"
     }
   ]
 }
