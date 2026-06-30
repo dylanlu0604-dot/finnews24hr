@@ -1,7 +1,215 @@
 {
-  "updated": "2026-07-01 04:45:59",
-  "count": 13975,
+  "updated": "2026-07-01 05:06:12",
+  "count": 13987,
   "items": [
+    {
+      "id": "4963689",
+      "time": "2026-07-01 05:01:50",
+      "tags": [
+        "市場"
+      ],
+      "text": "週二（6月30日）紐約尾盤，現貨黃金跌0.18%，報4008.98美元/盎司，6月份累跌10.65%，二季度累跌14.31%，上半年衝高回落，1月29日漲至5595.47美元創歷史最高，隨後逐步回撤，6月30日一度跌至3943.29美元。現貨白銀漲0.62%，報58.6190美元/盎司，6月份累跌21.71%，二季度累跌19.74%，1月29日達到121.6540美元，之後逐步回撤，6月24日曾跌至55.6125美元。"
+    },
+    {
+      "id": "4963688",
+      "time": "2026-07-01 05:01:34",
+      "tags": [
+        "市場"
+      ],
+      "text": "【離岸人民幣兌美元升破6.8】離岸人民幣兌美元升破6.8，日內漲0.1384%。"
+    },
+    {
+      "id": "mkt:019f1a56-35a5-7aab-8c43-f15b82ebe8fa",
+      "time": "2026-07-01 05:01:25",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Qatar's foreign ministry said the prime minister also discussed the latest developments in ongoing US-Iran talks with two individuals."
+    },
+    {
+      "id": "te:markets:563109",
+      "time": "2026-07-01 05:01:01",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Brazil",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Ibovespa Closes Lower on Fiscal Concerns — The Ibovespa fell 0.7% to close at 172,024 on Tuesday as investors reduced risk at the end of the first half and assessed weaker fiscal and labor market data. Gross public debt rose above forecasts in May, while primary deficit was wider-than-expected. Gross debt reached 81.1% of GDP, above market expectations of 80.7%, the primary deficit totaled R$56.1 billion, exceeding forecasts of a R$53.5 billion shortfall. The deterioration in fiscal accounts reinforced concerns over higher borrowing costs and persistent pressure on interest rates. Meanwhile, formal job creation also missed expectations, with around 73,000 new positions created in May, below forecasts of 115,000. Losses were broad-based across the index. In the banking sector, Banco do Brasil fell 1.7% and Itaú lost 0.5%. Utilities also traded mostly lower, with Axia down 1.3%. Petrobras dropped 0.9% as oil prices tumbled to their lowest levels since 2020, while Braskem shed 4.3% after being downgraded by JPMorgan and Citi."
+    },
+    {
+      "id": "mkt:019f1a55-be2f-7aab-8c43-ec253ccc7328",
+      "time": "2026-07-01 05:00:54",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Qatar's foreign ministry said the Qatari PM told US envoys Witkoff and Kushner he will continue to advance mediation efforts and support all negotiation tracks under the memorandum of understanding."
+    },
+    {
+      "id": "4963687",
+      "time": "2026-07-01 05:00:10",
+      "tags": [
+        "國際"
+      ],
+      "text": "卡達外交部：卡達首相在會晤維特科夫、庫什納期間，商討了美伊正在進行的談判最新進展。"
+    },
+    {
+      "id": "mkt:019f1a55-118d-7aab-8c43-e3ab17b12f4a",
+      "time": "2026-07-01 05:00:10",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Palantir",
+        "Market Themes",
+        "The Trump Trade",
+        "PLTR.N"
+      ],
+      "text": "U.S. President Trump’s 2025 financial disclosure shows he bought at least $100,001 of Palantir (PLTR.N) shares."
+    },
+    {
+      "id": "4963686",
+      "time": "2026-07-01 04:59:46",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國總統特朗普2025年度的財務報告稱，特朗普持有至少500萬美元英偉達股票，持有至少100萬美元PALANTIR股票。"
+    },
+    {
+      "id": "mkt:019f1a54-402e-7aab-8c43-d8908663549c",
+      "time": "2026-07-01 04:59:16",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Apple",
+        "Market Themes",
+        "Magnificent 7",
+        "AAPL.O"
+      ],
+      "text": "U.S. President Trump’s 2025 financial disclosure shows he holds at least $5 mln in Apple (AAPL.O) stock."
+    },
+    {
+      "id": "4963685",
+      "time": "2026-07-01 04:59:14",
+      "tags": [
+        "國際"
+      ],
+      "text": "卡達外交部：卡達首相會見維特科夫與庫什納，重申卡達將持續開展調解工作，並支援基於諒解備忘錄推進的全部談判路線。"
+    },
+    {
+      "id": "mkt:019f1a53-188c-7aab-8c43-d3fb1f3aad26",
+      "time": "2026-07-01 04:58:01",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Trump's 2025 financial disclosure shows he received more than $80 million from settlement agreements with multiple media companies."
+    },
+    {
+      "id": "4963684",
+      "time": "2026-07-01 04:57:31",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "披露資訊顯示， 特朗普從與多家媒體公司達成的和解協議中獲得逾 8000 萬美元收入。"
+    },
+    {
+      "id": "mkt:019f1a51-f043-7aab-8c43-cc56c16ea86f",
+      "time": "2026-07-01 04:56:45",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【U.S. unveils near-$600m lunar plan to advance moon base construction】NASA announced contracts totaling nearly $600m with three U.S. firms to execute four lunar lander missions by end-2028 as part of efforts to advance moon base construction."
+    },
+    {
+      "id": "4963683",
+      "time": "2026-07-01 04:56:34",
+      "tags": [
+        "國際"
+      ],
+      "text": "披露資訊顯示，特朗普至少持有價值500萬美元的蘋果股票。"
+    },
+    {
+      "id": "4963682",
+      "time": "2026-07-01 04:55:43",
+      "tags": [
+        "國際"
+      ],
+      "text": "披露檔案顯示：勞力士向特朗普贈送價值 2.5 萬美元的美國網球公開賽門票，特朗普購入至少價值 100,001 美元的 Palantir（PLTR）股票。"
+    },
+    {
+      "id": "4963681",
+      "time": "2026-07-01 04:52:46",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美公佈6億美元月球任務計劃 推進月球基地建設】美國航空航天局30日公佈月球基地建設專案最新安排，表示已與三家美國企業簽訂總額近6億美元合同，將於2028年底執行4項新的月球登陸任務。（新華社）"
+    },
+    {
+      "id": "mkt:019f1a4d-bdee-7aab-8c43-c7c8a04465aa",
+      "time": "2026-07-01 04:52:10",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "Crypto Concepts",
+        "Bitcoin",
+        "Ethereum"
+      ],
+      "text": "Trump's 2025 financial disclosure shows $635 million in income from licensing or revenue-sharing related to \"meme coins\"."
+    },
+    {
+      "id": "mkt:019f1a4b-3344-7aab-8c43-ba5f78d5087f",
+      "time": "2026-07-01 04:49:23",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "US Secretary of State Rubio congratulated Peru president-elect Keiko Fujimori on her election victory."
+    },
+    {
+      "id": "mkt:019f1a4a-c66a-7aab-8c43-b6ab415ac408",
+      "time": "2026-07-01 04:48:55",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "Crypto Concepts",
+        "Bitcoin",
+        "Impact bullish",
+        "Ethereum"
+      ],
+      "text": "President Trump filed his 2025 financial disclosure, reporting he received several hundred million dollars in income from cryptocurrency."
+    },
+    {
+      "id": "4963680",
+      "time": "2026-07-01 04:48:14",
+      "tags": [
+        "公司",
+        "資料",
+        "市場",
+        "觀點"
+      ],
+      "text": "【7月1日美股成交額前20：閃迪上半年上漲逾850%】週二美股成交額第3名閃迪收高10.89%，成交248.1億美元。今年上半年，閃迪股價累計上漲逾850%。有分析認為，閃迪股價上漲並非源於人工智慧需求，根本原因是該行業無法破解的NAND快閃記憶體短缺問題。分析師稱，市場普遍將閃迪2026年上半年股價大漲歸因於AI資料中心帶動企業級SSD需求激增，實際該行情本質是NAND快閃記憶體行業供應端收縮驅動的結構性行情，並非需求拉動。NAND快閃記憶體當前的漲價由行業主動供應自律驅動，並非需求過熱，該結構性產能缺口需數年時間才能透過新建晶圓廠填補。閃迪的核心優勢是在頭部同行同步減產的背景下仍能穩定供貨，當前股價已計入長期維持高利潤率的預期。"
+    },
+    {
+      "id": "mkt:019f1a49-d812-7aab-8c43-a8fb756d402d",
+      "time": "2026-07-01 04:47:54",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "CME Group will launch single-stock futures covering more than 50 U.S. equities on July 27."
+    },
+    {
+      "id": "mkt:019f1a48-faca-7aab-8c43-a34285f4949d",
+      "time": "2026-07-01 04:46:58",
+      "tags": [
+        "MKT News",
+        "BA.N",
+        "Impact bearish",
+        "Dow"
+      ],
+      "text": "Market sources: Boeing (BA.N) commercial aircraft deliveries and production disrupted by a widespread IT systems outage."
+    },
     {
       "id": "mkt:019f1a47-23d9-7aab-8c43-9bd06b564da1",
       "time": "2026-07-01 04:44:57",
@@ -128179,95 +128387,6 @@
         "MKT News"
       ],
       "text": "【Morgan Stanley private credit fund sets redemption cap at 5%】Morgan Stanley’s North Haven Private Income Fund, a $7bn private credit vehicle, has set a 5% redemption cap and said it will pay out less than half of investors’ Q2 redemption requests. The fund said investors applied to redeem 11.6% of shares in Q2, up from 10.9% in Q1. It noted that across the roughly $1.8trn private credit market many funds had already restricted full exits in the prior quarter, and that over half of Q2 repurchase requests came from investors who had been unable to redeem fully in the previous three months."
-    },
-    {
-      "id": "4951145",
-      "time": "2026-06-24 05:03:42",
-      "tags": [
-        "其他"
-      ],
-      "text": "【德國全境鐵路暫停運營】據德國媒體《每日鏡報》報道，德國23日晚出現大規模列車無線通訊系統故障，導致全境鐵路暫停運營。（新華社）"
-    },
-    {
-      "id": "mkt:019ef64b-c0cf-7dd8-b0e4-23b889134ac2",
-      "time": "2026-06-24 05:03:40",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Nationwide rail services suspended in Germany after large-scale train radio failure】German outlet Daily Mirror reported that on the evening of the 23rd a large-scale failure of the train radio communications system forced suspension of rail services nationwide."
-    },
-    {
-      "id": "mkt:019ef64a-978e-7dd8-b0e4-1b5793d3fc25",
-      "time": "2026-06-24 05:02:24",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "SEC filing: SpaceX (SPCX.O) plans a multi-tranche bond offering totaling $25.0bn — $7.0bn 5.35% senior notes due 2031, $6.0bn 5.65% due 2033, $6.0bn 5.875% due 2036, $2.5bn 6.6% due 2046 and $3.5bn 6.65% due 2056."
-    },
-    {
-      "id": "4951144",
-      "time": "2026-06-24 04:58:29",
-      "tags": [
-        "市場"
-      ],
-      "text": "週二（6月23日）紐約尾盤，現貨黃金跌1.89%，報4111.48美元/盎司，北京時間09:00微幅上揚至4198.46美元重新整理日高，隨後持續走低，12:00以來持續交投於4120美元附近、16:07重新整理日低至4091.05美元。COMEX黃金期貨跌1.92%，報4129.10美元/盎司。現貨白銀跌5.50%，報61.5025美元/盎司，06:00微幅高開至65.7325美元重新整理日高，隨後持續走低。COMEX白銀期貨跌6.15%，報62.005美元/盎司。COMEX銅期貨跌3.64%，報6.1950美元/磅。現貨鉑金跌1.85%，現貨鈀金跌2.90%。"
-    },
-    {
-      "id": "mkt:019ef646-79a4-7dd8-b0e4-170df3074663",
-      "time": "2026-06-24 04:57:54",
-      "tags": [
-        "MKT News",
-        "SPCX.O"
-      ],
-      "text": "SEC filing: SpaceX (SPCX.O) will use bond proceeds to repay transition loans and for general corporate purposes; issuance expected to complete on June 26, 2026."
-    },
-    {
-      "id": "mkt:019ef646-0c20-7dd8-b0e4-0bcd1093ec60",
-      "time": "2026-06-24 04:57:26",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "SEC filing: SpaceX (SPCX.O) priced a $25 billion inaugural bond offering, selling senior notes in five tranches maturing 2031–2056."
-    },
-    {
-      "id": "mkt:019ef643-5f52-7dd8-b0e4-01d08741b9fe",
-      "time": "2026-06-24 04:54:30",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Wall Street (US)",
-        "FDX.N",
-        "Impact bearish"
-      ],
-      "text": "FedEx (FDX.N) U.S. shares extended overnight losses in after-hours trading, down about 6%."
-    },
-    {
-      "id": "te:economy:561274",
-      "time": "2026-06-24 04:51:50",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Argentina",
-        "GDP Annual Growth Rate",
-        "Importance 0"
-      ],
-      "text": "Argentina GDP Expands More Than Expected — Argentina’s economy grew 2.3% year-on-year in the first quarter of 2026, above forecasts of 1.7% and accelerating from a 2.1% increase in the previous quarter. The strongest sector gains came from fishing (27.5%), agriculture, livestock, hunting and forestry (18.1%), and mining and quarrying (12.3%). Other notable expansions were recorded in financial intermediation (7.5%), private households with domestic service (6.3%), and hotels and restaurants (2.8%), with the latter mainly supported by informal employment. In contrast, manufacturing contracted 1.7% and public administration declined 1.4%, marking the weakest performances. On the demand side, exports rose 9.8%, leading growth, while private consumption increased 2.7%, supported by stronger imports of final consumer goods and automobiles. On a quarter-on-quarter basis, the economy expanded 0.7%."
-    },
-    {
-      "id": "mkt:019ef640-2833-7dd8-b0e3-f8d8ed8fc1d0",
-      "time": "2026-06-24 04:51:00",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Brazil's Foreign Trade Committee Executive Management Committee said it will proceed with planned tariff hikes on imported electric and hybrid vehicles, imposing a 35% import duty on fully built and semi-knocked-down EVs from July 2026; completely knocked-down (CKD) vehicle imports will face the same rate from Jan. 1, 2027."
-    },
-    {
-      "id": "mkt:019ef63c-4715-7dd8-b0e3-f52a8a2c3f6f",
-      "time": "2026-06-24 04:46:45",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Brazil's Foreign Trade Committee Executive Management Committee decided to implement additional zero-tariff import quotas from July 1 for completely and semi-knocked-down (CKD and SKD) electric vehicles."
     }
   ]
 }
