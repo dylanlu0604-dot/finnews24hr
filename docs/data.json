@@ -1,7 +1,89 @@
 {
-  "updated": "2026-07-01 05:06:12",
-  "count": 13987,
+  "updated": "2026-07-01 05:10:07",
+  "count": 13994,
   "items": [
+    {
+      "id": "4963694",
+      "time": "2026-07-01 05:08:45",
+      "tags": [
+        "市場"
+      ],
+      "text": "耐克美股盤後跌幅擴大至6.6%。"
+    },
+    {
+      "id": "4963693",
+      "time": "2026-07-01 05:08:41",
+      "tags": [
+        "公司"
+      ],
+      "text": "耐克執行長：運動服飾及喬丹潮流系列終端動銷依舊承壓， 公司已採取舉措精簡供應鏈與技術體系。"
+    },
+    {
+      "id": "mkt:019f1a5c-9b39-7aab-8c44-0845ec645ac9",
+      "time": "2026-07-01 05:08:24",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "Central Bank of the Republic of Turkey cancels the additional lira reserve requirement on foreign-currency deposits and participation funds."
+    },
+    {
+      "id": "4963692",
+      "time": "2026-07-01 05:07:42",
+      "tags": [
+        "公司"
+      ],
+      "text": "耐克執行長： 公司正身處更為複雜的宏觀經營環境。"
+    },
+    {
+      "id": "mkt:019f1a5b-a487-7aab-8c44-03ada12a5bae",
+      "time": "2026-07-01 05:07:21",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Alphabet",
+        "Market Themes",
+        "AI Revolution",
+        "Magnificent 7",
+        "GOOG.O"
+      ],
+      "text": "Google (GOOG.O) launched GEMINI Spark for macOS and expanded app integrations."
+    },
+    {
+      "id": "4963691",
+      "time": "2026-07-01 05:07:17",
+      "tags": [
+        "公司"
+      ],
+      "text": "耐克執行長：終端動銷疲軟，影響當下折扣策略與未來訂單儲備。"
+    },
+    {
+      "id": "4963690",
+      "time": "2026-07-01 05:07:00",
+      "tags": [
+        "公司"
+      ],
+      "text": "谷歌：推出適用於 macOS 系統的 Gemini Spark，拓展多款應用互聯能力。"
+    },
+    {
+      "id": "mkt:019f1a5b-0bed-7aab-8c43-fc5c118545d3",
+      "time": "2026-07-01 05:06:42",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Tesla",
+        "Market Themes",
+        "AI Revolution",
+        "Magnificent 7",
+        "NVDA.O",
+        "Impact bearish",
+        "AMAT.O",
+        "SMH.O"
+      ],
+      "text": "【Michael Burry shorts AI and semiconductors】Michael Burry, the \"Big Short\" investor, disclosed new short bets against AI and semiconductor sectors, saying he has shorted Tesla at about $416.22 and holds short positions in NVIDIA (NVDA.O), Caterpillar, Applied Materials and a semiconductor ETF. He said the trades form part of an overall hedge against overheating valuations in AI and semiconductors, but did not disclose position sizes and said he entered the Tesla short after a rebound. Related technology stocks largely traded higher intraday."
+    },
     {
       "id": "4963689",
       "time": "2026-07-01 05:01:50",
@@ -128379,14 +128461,6 @@
         "國際"
       ],
       "text": "【阿曼與國際海事組織協調開闢霍爾木茲海峽臨時航道】當地時間24日凌晨，阿曼方面釋出宣告表示，鑑於該國對霍爾木茲海峽的責任以及該海峽對全球經濟的重要作用，在遵守國際法和《聯合國海洋法公約》、保障海峽自由通行且不收取通行費用的基礎上，並結合美國與伊朗相關談判和斡旋努力所取得的成果，阿曼已與國際海事組織協調，為所有船舶開闢一條臨時海上航道。根據安排，相關航道將按照國際海事組織及阿曼主管部門公佈的航行座標執行，計劃使用該航道的船舶需提前與國際海事組織進行協調。"
-    },
-    {
-      "id": "mkt:019ef650-4043-7dd8-b0e4-2dcd44b3bd89",
-      "time": "2026-06-24 05:08:34",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Morgan Stanley private credit fund sets redemption cap at 5%】Morgan Stanley’s North Haven Private Income Fund, a $7bn private credit vehicle, has set a 5% redemption cap and said it will pay out less than half of investors’ Q2 redemption requests. The fund said investors applied to redeem 11.6% of shares in Q2, up from 10.9% in Q1. It noted that across the roughly $1.8trn private credit market many funds had already restricted full exits in the prior quarter, and that over half of Q2 repurchase requests came from investors who had been unable to redeem fully in the previous three months."
     }
   ]
 }
