@@ -1,7 +1,57 @@
 {
-  "updated": "2026-07-01 07:10:27",
-  "count": 13972,
+  "updated": "2026-07-01 07:14:14",
+  "count": 13973,
   "items": [
+    {
+      "id": "mkt:019f1ace-ca7c-7aab-8c44-f05204c20ca7",
+      "time": "2026-07-01 07:13:07",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Microsoft",
+        "Market Themes",
+        "Magnificent 7",
+        "MSFT.O"
+      ],
+      "text": "Business Insider reported Microsoft (MSFT.O) will cut under 2.5% of its workforce."
+    },
+    {
+      "id": "mkt:019f1ace-a449-7aab-8c44-ee9fdb5abbc2",
+      "time": "2026-07-01 07:12:57",
+      "tags": [
+        "MKT News",
+        "MSFT.O",
+        "Impact bearish"
+      ],
+      "text": "According to Business Insider, Microsoft (MSFT.O) plans to announce layoffs next week."
+    },
+    {
+      "id": "4963758",
+      "time": "2026-07-01 07:12:15",
+      "tags": [
+        "公司"
+      ],
+      "text": "【微軟計劃新一輪裁員，數千崗位受波及】據知情人士透露，微軟持續推進成本管控工作，這家科技巨頭即將宣佈新一輪裁員計劃。知情人士稱，本次裁員將波及數千個崗位，涵蓋銷售、諮詢部門，Xbox 遊戲業務板塊也在裁員範圍內。知情人士補充道，本輪裁員規模大機率小於去年同類裁員動作，本次裁減人數不足公司 22 萬名員工總規模的 2.5%。因涉及敏感資訊，相關訊息源要求匿名。微軟計劃於下週公佈裁員訊息，不過確切釋出時間仍存在變動可能。其中一名知情人士表示，部分受影響員工會直接獲得內部轉崗機會。"
+    },
+    {
+      "id": "mkt:019f1acc-759d-7aab-8c44-e72818aa3fe6",
+      "time": "2026-07-01 07:10:34",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "MSFT.O",
+        "Impact bearish"
+      ],
+      "text": "Market sources: Microsoft (MSFT.O) plans a new round of layoffs, affecting thousands of jobs."
+    },
+    {
+      "id": "4963757",
+      "time": "2026-07-01 07:10:00",
+      "tags": [
+        "其他"
+      ],
+      "text": "微軟計劃新一輪裁員，數千崗位受影響。"
+    },
     {
       "id": "4963756",
       "time": "2026-07-01 07:09:49",
@@ -128275,41 +128325,6 @@
         "國際"
       ],
       "text": "【澤連斯基：烏克蘭提交新版經合組織入盟申請】烏克蘭總統弗拉基米爾・澤連斯基週二表示，烏克蘭已向經濟合作與發展組織（OECD，成員以發達經濟體為主）提交修訂後的入盟申請，基輔方面正謀求深度融入西方各類機構。數年來，烏克蘭一直配合經合組織推進改革、對標其治理標準，現階段目標是先獲得候選國地位，以此作為正式加入該組織的過渡環節。經合組織秘書長馬蒂亞斯・科爾曼到訪基輔並與澤連斯基會面後，澤連斯基在電報平臺發文稱，總理尤利婭・斯維裡登科已遞交更新版入盟申請。澤連斯基寫道：“我們希望最快今年秋季取得候選國資格。下一階段將敲定通往經合組織正式成員身份的路線圖，我們已在會面中就此展開磋商。”"
-    },
-    {
-      "id": "mkt:019ef6c1-b638-7dd8-b0e4-b30432653cfb",
-      "time": "2026-06-24 07:12:30",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "A majority of U.S. House members voted for a bipartisan bill aimed at easing the severe housing shortage and boosting affordable housing construction; voting remains underway."
-    },
-    {
-      "id": "4951242",
-      "time": "2026-06-24 07:11:53",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "美國股指期貨下跌，標普500指數期貨下跌0.2%。"
-    },
-    {
-      "id": "mkt:019ef6c0-d835-7dd8-b0e4-aa9b5bcdac8e",
-      "time": "2026-06-24 07:11:33",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK"
-      ],
-      "text": "Germany's rail operator Deutsche Bahn said a train radio fault has been resolved and services are resuming."
-    },
-    {
-      "id": "4951241",
-      "time": "2026-06-24 07:11:08",
-      "tags": [
-        "國際"
-      ],
-      "text": "【鏈博會第二天 40場工商交流活動密集展開】23日是第四屆鏈博會的第二天，包括首發活動、主題活動和主題省活動等在內，共有40場工商交流活動密集展開。主賓省海南舉行了大規模的推介活動，吸引了來自國內外的許多商協會和企業代表前來參加。推介活動上，海南省就自由貿易港核心政策、財稅優惠、產業佈局及重點園區進行專題推介，外資企業和商業協會代表分別作投資經驗分享和產業合作展望，並開展洽談對接活動。在推介活動中，就有義大利物流與港口協會、國際綠色經濟聯盟、美國老齡護理協會等與海南簽訂了合作協議。（央視）"
     }
   ]
 }
