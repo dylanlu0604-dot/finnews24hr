@@ -1,7 +1,355 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-07-01 06:20:48_
-_本檔包含 2895 則快訊，約 518869 字_
+_更新時間：2026-07-01 07:10:27_
+_本檔包含 2899 則快訊，約 519437 字_
+
+---
+
+### 2026-06-25 19:40:48  #MKT News #Market Regions #Europe & UK
+
+US Secretary of State Rubio said his support for NATO partly derives from access to European bases.
+
+---
+
+### 2026-06-25 19:40:44  #宏觀
+
+工業和資訊化部辦公廳、市場監管總局辦公廳印發《2023年度智慧製造系統解決方案“揭榜掛帥”驗收透過專案名單的通知》。
+
+---
+
+### 2026-06-25 19:40:40  #公司
+
+【宋城演藝：完成回購1580.5萬股】宋城演藝公告，截至2026年6月24日，公司透過股份回購專用證券賬戶以集中競價交易方式累計回購公司股份1580.5萬股，佔公司當前總股本的0.6022%。本次回購股份的最高成交價為9.03元/股，最低成交價為6.07元/股，成交總金額為人民幣1.21億元（不含交易費用）。公司實際回購時間區間為2026年1月5日起至2026年6月22日。本次回購方案已實施完畢，本次回購股份實施符合公司既定的回購股份方案及相關法律法規的要求。
+
+---
+
+### 2026-06-25 19:40:37  #公司
+
+【新特電氣：控股股東及其一致行動人擬減持不超3%股份】新特電氣公告稱，控股股東、實際控制人及其一致行動人譚勇、宗麗麗、李淑芹和宗寶峰合計持股2.02億股，佔總股本54.19%，計劃自公告披露之日起十五個交易日後的三個月內，以集中競價或大宗交易方式減持不超1119.37萬股，佔總股本3%，其中集中競價不超373.12萬股，大宗交易不超746.25萬股。減持原因為股東自身資金需求，本次減持不會導致公司控制權變更。
+
+---
+
+### 2026-06-25 19:40:11  #國際
+
+魯比奧：我對北約的支援部分原因在於它支援使用歐洲基地。
+
+---
+
+### 2026-06-25 19:39:12  #MKT News #WTI #Impact bullish #XAUUSD #DXY
+
+US Secretary of State Rubio said the deal would be void if Iran directs the funds to proxies.
+
+---
+
+### 2026-06-25 19:39:05  #國際
+
+魯比奧：若伊朗將資金用於扶持代理人，相關協議將無法落地。
+
+---
+
+### 2026-06-25 19:38:26  #公司 #市場
+
+【太極實業：公司半導體業務目前不涉及HBM產品】太極實業(600667)6月25日釋出股票交易異常波動公告，公司股票於6月24日、6月25日連續兩個交易日收盤價格漲幅偏離值累計超過20%。公司主營業務包括工程技術服務業務、半導體業務和光伏電站投資運營業務，其中工程技術服務業務2025年度營業收入佔比超過80%，佔比較高；公司半導體業務目前不涉及HBM產品。其中，控股子公司海太半導體（無錫）有限公司採用“全部成本+約定收益（總投資額的10%+超額收益）”的盈利模式，受行業上行週期影響較小。
+
+---
+
+### 2026-06-25 19:38:06  #市場
+
+歐元/美元下跌0.2%至1.1335，連續第四天走低。
+
+---
+
+### 2026-06-25 19:38:02  #MKT News
+
+Rubio said Vice President Vance leading negotiations with Iran demonstrates the administration's seriousness.
+
+---
+
+### 2026-06-25 19:37:41  #國際
+
+魯比奧：萬斯主導伊朗問題談判表明了其嚴肅性。
+
+---
+
+### 2026-06-25 19:37:32  #公司 #市場
+
+【傑富瑞：世界盃結束後阿迪達斯料將繼續從中受益】Jefferies分析師寫道，阿迪達斯料將繼續從世界盃中受益，第二季度的收入預定額與第一季度相似，且下半年會更多。該德國運動服飾集團在第一季度錄得2.5億歐元與世界盃相關的收入。他們表示：“隨著受世界盃啟發的生活方式系列似乎引起了女性消費者的強烈共鳴，光環效應應該會延伸到足球迷之外。”Jefferies對該股的評級為買入，目標價為190歐元。該股上漲2.8%，報181歐元。
+
+---
+
+### 2026-06-25 19:37:00  #MKT News #Important #S&P500 #Impact bullish #Brent #Impact bearish #DXY
+
+U.S. Secretary of State Rubio says Israel and Lebanon are close to reaching a preliminary agreement.
+
+---
+
+### 2026-06-25 19:36:21  #焦點 #國際
+
+魯比奧：以色列和黎巴嫩即將達成初步協議。
+
+---
+
+### 2026-06-25 19:35:52  #MKT News #Hang Seng Index #Impact bullish
+
+【Invest Hong Kong: assisted 413 overseas and mainland firms since Jan; expected HKD53 bln inbound investment, >8,600 jobs】Invest Hong Kong said at a June 25 welcome event that since January it has assisted 413 overseas and mainland China firms to set up or expand operations in Hong Kong. Those projects are expected to bring more than HKD53 bln of inbound direct investment, up 36% YoY, and create over 8,600 new jobs. Invest Hong Kong said it will continue flexible, proactive incentive measures and leverage the Northern Metropolis development to attract supply chains and industries that support Hong Kong’s high-quality economic growth.
+
+---
+
+### 2026-06-25 19:35:22  #公司
+
+【地鐵設計：260.83萬股限制性股票7月1日上市流通】地鐵設計公告稱，公司2023年限制性股票與股票期權激勵計劃限制性股票第一個解除限售期解除限售條件已滿足。本次符合解除限售條件的激勵物件共342人，解除限售的限制性股票數量為260.8320萬股，佔公司現有總股本的0.5661%，上市流通日期為2026年7月1日。
+
+---
+
+### 2026-06-25 19:35:18  #宏觀 #國際
+
+印度市場監管機構要求信實工業平臺就其IPO申報檔案作出澄清。
+
+---
+
+### 2026-06-25 19:35:09  #MKT News #Important
+
+US Secretary of State Rubio said the US is closely monitoring Israel-Lebanon developments.
+
+---
+
+### 2026-06-25 19:34:37  #焦點 #國際
+
+魯比奧：美國目前正在密切關注以色列和黎巴嫩之間的衝突事件。
+
+---
+
+### 2026-06-25 19:34:29  #公司
+
+【冠中生態：控股股東擬受讓5.02%股份 涉1.82億元】冠中生態公告稱，2026年6月23日，公司控股股東深藍財鯨與股東冠中投資等簽署協議，冠中投資擬向深藍財鯨轉讓825萬股公司股份，佔總股本5.02%，轉讓價22元/股，價款1.82億元。本次權益變動前，因“冠中轉債”轉股，深藍財鯨及冠中投資等持股比例已被動稀釋。股份轉讓完成後，深藍財鯨持股增至13.97%，冠中投資等合計持股23.73%，且無表決權。本次變動不影響控股權，尚需多項手續，能否實施及完成時間不確定。
+
+---
+
+### 2026-06-25 19:34:26  #其他
+
+政府宣告：墨西哥隊贏下世界盃比賽後，一輛汽車在卡波聖盧卡斯的人群聚集區衝撞行人。
+
+---
+
+### 2026-06-25 19:34:19  #公司
+
+【驕成超聲：向特定物件發行A股股票申請獲上交所受理】驕成超聲公告，公司於2026年6月25日收到上海證券交易所出具的《關於受理上海驕成超聲波技術股份有限公司科創板上市公司發行證券申請的通知》。上海證券交易所對公司報送的科創板上市公司發行證券的募集說明書及相關申請檔案進行了核對，認為申請檔案齊備，符合法定形式，決定予以受理並依法進行稽核。
+
+---
+
+### 2026-06-25 19:34:16  #公司
+
+【驕成超聲：擬2076.38萬元收購驕成半導體40%股權】驕成超聲公告，公司擬以合計人民幣2076.38萬元收購控股子公司上海驕成半導體裝置技術有限公司股東上海驕璞企業管理合夥企業（有限合夥）和周宏建先生所持合計40%的股權。本次交易完成後，公司將持有驕成半導體100%股權。本次交易構成關聯交易，但不構成《上市公司重大資產重組管理辦法》規定的重大資產重組。本次交易已經公司第二屆董事會獨立董事專門會議第五次會議審議透過，公司第二屆董事會第十六次會議審議了《關於收購控股子公司少數股東股權暨關聯交易的議案》，因關聯董事迴避表決，出席會議的非關聯董事不足三人，該事項尚需提交公司股東會審議。
+
+---
+
+### 2026-06-25 19:34:14  #其他
+
+【今年1月以來香港投資推廣署共協助413家海外及內地企業在港開設或拓展業務】香港特區政府投資推廣署今日（25日）舉辦年度國際及內地企業來港發展歡迎會，感謝他們對香港營商環境的信任和支援。歡迎會獲香港特區行政長官李家超親臨主禮，超過380位全球企業代表出席。 李家超在致辭時表示，香港在“一國兩制”下，擁有背靠祖國、聯通世界的獨特優勢，營商環境開放便利，擁有簡單低稅制，普通法制度與全球金融中心接軌，人才精通兩文三語，專業服務世界前列。香港的實力和機遇，既反映在各項國際排名節節上升，也反映在招商引資的成績上。 投資推廣署在歡迎會上公佈了今年上半年的招商成果。今年1月至今，該署共協助413家海外及內地企業在港開設或拓展業務，預計可為香港帶來超過530億港元的外來直接投資，同比增長36%，並創造超過8600個新職位。 投資推廣署在會上表示，將繼續保持靈活主動，透過各項優惠政策加強招商引資工作，並利用北部都會區帶來的機遇以吸引更多有助香港發展高質量經濟的產業鏈落戶。（大灣區之聲）
+
+---
+
+### 2026-06-25 19:34:00  #其他
+
+【中國足協：7月1日起將啟用新規】據中國足球協會官網訊息，6月25日，中國足協釋出關於執行《足球競賽規則2026/2027》（十一人制）的通知，中國足協及其會員協會舉辦的各級各類十一人制足球賽事自2026年7月1日起執行新規則。新規則中，變更部分包括隊員、隊員裝備、裁判員、其他比賽官員、比賽開始與恢復、確定比賽結果、犯規與不正當行為、罰球點球、擲界外球、球門球、影片助理裁判操作規範等方面。（央視新聞）
+
+---
+
+### 2026-06-25 19:33:19  #MKT News
+
+U.S. Secretary of State Rubio said the U.S. will work with Italy to resolve the issue.
+
+---
+
+### 2026-06-25 19:33:09  #MKT News #WTI #Impact bullish #Brent #DXY
+
+U.S. Secretary of State Rubio said Trump is very unhappy with Italy and other countries' approach to Iran.
+
+---
+
+### 2026-06-25 19:32:55  #國際
+
+魯比奧：特朗普對義大利及其他國家在伊朗問題上的做法非常不滿。
+
+---
+
+### 2026-06-25 19:32:51  #MKT News
+
+U.S. Secretary of State Rubio said he spoke with his Italian counterpart last Friday and that the U.S. will still sign an agreement with Italy.
+
+---
+
+### 2026-06-25 19:32:38  #其他
+
+魯比奧：仍將與義大利簽署協議。
+
+---
+
+### 2026-06-25 19:32:31  #其他
+
+【北京釋出第七輪3宗擬供宅地清單】6月25日，北京市規劃和自然資源委員會網站釋出了2026年第七輪擬供應商品住宅用地清單，共涉及3宗地，土地面積約14公頃，建築規模約24萬平方米，上述用地擬於近期供應。據介紹，本輪清單向平原多點地區傾斜，強化多點支撐，重點圍繞軌道交通站點及高速路周邊區域供應。其中，昌平區2宗、順義區1宗。
+
+---
+
+### 2026-06-25 19:32:13  #其他
+
+魯比奧：上週五與義大利同行進行了交談。
+
+---
+
+### 2026-06-25 19:31:03  #央行 #市場
+
+土耳其央行資料顯示，截至6月19日當週，外國投資者淨買入土耳其國債3.3972億美元。
+
+---
+
+### 2026-06-25 19:30:48  #公司
+
+【天橋起重：2025年度權益分派每10股派0.2元（含稅）】天橋起重公告稱，2025年度權益分派方案已獲2026年5月15日股東會審議透過。公司以總股本14.17億股為基數，向全體股東每10股派0.2元（含稅），合計派發2833.28萬元（含稅），不送紅股、不以資本公積轉增股本。股權登記日為2026年7月2日，除權除息日為7月3日。部分A股股東現金紅利由公司自行派發。
+
+---
+
+### 2026-06-25 19:30:12  #公司
+
+【從MWC看國產算力鏈：CPU、光纖都喊“緊缺” 伺服器訂單積壓排隊】MWC 26上海（世界行動通訊大會）6月24日正式開幕。在人工智慧賦能千行百業，運營商Token化的當下，諸多算力供應鏈廠商也參加了本次展會。聯想集團一位工作人員稱，聯想伺服器跟國內GPU廠商和CPU廠商都有合作，目前信創市場對伺服器需求量很大，但晶片供應緊張，導致大量的訂單積壓排隊。“我聽到的是我們現在伺服器需要交付的訂單量差不多有1500億人民幣，我剛剛還接到一個客戶電話催貨，現在產品供不應求。”聯想這位工作人員表示，預計AI伺服器的景氣度還會持續一段時間。長飛展臺上工作人員介紹，目前用於AI場景的光纖產能緊缺，即便擴產也需要18個月左右，因此，產能緊張還會持續一段時間。其他非AI用的光纖並不缺貨，處於正常供應狀態。 (澎湃新聞)
+
+---
+
+### 2026-06-25 19:30:05  #公司 #國際
+
+【雲路股份：印度對中國相關產品反傾銷調查或影響營收】雲路股份公告稱，印度商務和工業部近日針對原產或出口自中國、日本、韓國、俄羅斯的冷軋取向電工鋼及非晶金屬發起反傾銷調查，調查期為2025年4月1日至2026年3月31日，損害調查期為2022年4月1日至2025年3月31日。涉案產品涉及公司向印度銷售的非晶合金薄帶，2025年度、2026年1 - 3月出口金額分別約佔公司營收的18%、12%。因尚處調查階段，難預計對公司具體影響。公司已成立專項工作組應對。
+
+---
+
+### 2026-06-25 19:29:47  #MKT News
+
+【Bairun Co.: 1H 2026 net profit attributable to shareholders forecast +19.51%–25.94% YoY】Bairun Co. said on June 25 it expects 1H 2026 net profit attributable to shareholders of 465 mln–490 mln yuan, up 19.51%–25.94% YoY, driven by higher sales in its alcoholic beverage and flavors & fragrances businesses.
+
+---
+
+### 2026-06-25 19:29:09  #其他
+
+【海南開設自然資源超市】在海南，如今土地等自然資源交易就像網路購物一樣，不僅能夠在網上買，而且能夠搭配著組合起來購買。今年1月，海南省自然資源網上交易系統上線試執行，實現全域自然資源交易一體化歸集。交易專案登記、資訊釋出等所有環節均可線上辦理。同步配套上線的還有海南省“自然資源超市”。企業可以像逛超市一樣，線上上檢視地塊資訊、比對資源條件、完成智慧選址。截至6月23日，海南省“自然資源超市”已上架建設用地1687宗、成交1278宗。（央視財經）
+
+---
+
+### 2026-06-25 19:29:07  #公司
+
+【愛舍倫：擬變更證券簡稱為“愛倫醫療”】愛舍倫6月25日公告，公司擬對公司證券簡稱進行變更，變更後的證券簡稱為：愛倫醫療，證券程式碼“920050”保持不變。公司本次變更公司證券簡稱是基於公司戰略規劃及經營業務開展需要，有利於公司未來的發展，不會對公司生產經營造成不利影響。
+
+---
+
+### 2026-06-25 19:28:51  #公司
+
+【中青寶：完成董事會換屆選舉並聘任高階管理人員及證券事務代表】中青寶公告稱，2026年6月25日，公司完成董事會換屆選舉，第七屆董事會由7名董事組成，任期三年，董事長為張雲霞。同日，公司聘任高階管理人員及證券事務代表，李逸倫任總經理，張雲欽任副總經理、董事會秘書、財務總監，王青任證券事務代表，任期均為三年。此外，第六屆獨立董事鄭飛、非獨立董事梁海棟和副總經理張繼文因任期屆滿離任，鄭飛不再擔任公司任何職務，梁海棟繼續任副總經理，張繼文繼續擔任公司其他職務。
+
+---
+
+### 2026-06-25 19:28:47  #公司
+
+【奧飛資料：2025年度權益分派方案每10股派0.14元】奧飛資料公告稱，2025年度權益分派方案已獲2026年5月11日股東會審議透過。以股權登記日總股本為基數，向全體股東每10股派0.14元現金（含稅），不送紅股、不轉增。股權登記日為2026年7月1日，除權除息日為7月2日。此外，“奧飛轉債”轉股價格由10.06元/股調整為10.05元/股，自7月2日起生效。
+
+---
+
+### 2026-06-25 19:28:43  #MKT News
+
+【Hainan opens natural-resources supermarket】Hainan has launched an online natural-resources trading system and a parallel "natural-resources supermarket" to digitize and consolidate land and other resource transactions. The provincial online trading system began trial operation in January, achieving province-wide integration of natural-resources transactions; registration, information release and other transaction steps can be completed fully online. The supermarket allows firms to view parcel details, compare resource conditions and complete intelligent site selection online. As of June 23, the platform had listed 1,687 construction land parcels and completed transactions on 1,278.
+
+---
+
+### 2026-06-25 19:28:28  #公司
+
+【*ST未名：控股股東深圳易聯完成股權結構工商變更登記】*ST未名公告稱，近日公司控股股東深圳易聯股權結構變更，變更前劉祥、岳家霖持股比例分別為66.90%、33.10%，變更後變為99.90%、0.10%。此次工商變更不涉及公司控股股東及實際控制人變更，控股股東仍為深圳易聯，實際控制人仍為劉祥，不會影響公司主要業務結構、股權分佈、治理結構及持續經營。
+
+---
+
+### 2026-06-25 19:28:27  #MKT News #Important #WTI #Impact bearish #Brent
+
+US Secretary of State Rubio said Oman has indicated it does not support a fee system for the Strait of Hormuz.
+
+---
+
+### 2026-06-25 19:28:20  #公司
+
+【德福科技：持股5%以上股東及其一致行動人合計減持1.03%股份】德福科技公告稱，公司持股5%以上股東拓陣基金及其一致行動人瑞瀟芃泰，於2026年6月5日至6月24日透過大宗交易方式累計減持公司股份650萬股，合計持股比例由6.97%降至5.94%，變動達到1%的整數倍。本次減持與此前披露計劃一致，未違反相關承諾，減持計劃尚未實施完畢，且不會導致公司控制權變化。
+
+---
+
+### 2026-06-25 19:28:16  #其他
+
+魯比奧：阿曼在今天的會議上表示不贊成霍爾木茲海峽收費系統。
+
+---
+
+### 2026-06-25 19:28:00  #MKT News
+
+U.S. Secretary of State Rubio said relations with Oman are good.
+
+---
+
+### 2026-06-25 19:27:54  #Trading Economics #Markets #United States #Stock Market #Importance 2
+
+US Stocks Rebound After Micron Earnings — US equity futures gained on Thursday after the earnings report by Micron Technology restored support for the artificial intelligence trade. Contracts for the Nasdaq 100 gained over 2% and those for the S&P 500 added nearly 1%. Micron surged nearly 20% premarket after beating earnings and sales forecasts expectations and estimating approximately a revenue of $50 billion in the quarter to August, above the average expectations of $43.2 billion. Stability for the AI infrastructure sector was also supported by Micron unveiling 16 longer-term contracts. Also, Qualcomm jumped 15% after the chipmaker doubled its projection for non-handset revenue in the next thee years and announced a partnership with Meta. Softer inflationary risks also supported broader sectors as energy prices also continued fall, lifting the Dow to a record high of over 52,000. Banking shares gained as lenders will raise their dividends after passing the Federal Reserve's stress test.
+
+---
+
+### 2026-06-25 19:27:37  #其他
+
+魯比奧：與阿曼的關係很好。
+
+---
+
+### 2026-06-25 19:27:27  #MKT News #Market Regions #Greater China #CSI300 #Impact bearish #Hang Seng Index #CNH
+
+【Regulators cap assisted-loan growth at own-book lending growth for small banks, consumer finance firms】Since May, multiple local financial regulators have issued window guidance to some small banks and consumer finance companies requiring assisted-loan channel growth not to exceed self-operated loan growth, month-on-month reductions in outstanding assisted-loan balances, and a limit of 25% on financing/guarantee-type business share. Analysts say the guidance targets both new assisted lending and orderly contraction of existing stock; several targeted institutions are reportedly lagging regulators' expectations. Regulators’ stated aim is to force licensed institutions back to core business, strengthen on‑book risk controls, reduce reliance on external channels and limit risks from excessive scale expansion.
+
+---
+
+### 2026-06-25 19:27:02  #MKT News
+
+U.S. Secretary of State Rubio said the Iranian regime remains dominated by hardline clerics.
+
+---
+
+### 2026-06-25 19:26:39  #MKT News #Important #WTI #Impact bullish #Brent #XAUUSD
+
+U.S. Secretary of State Rubio said if negotiations with Iran fail to produce results, Trump would have several options.
+
+---
+
+### 2026-06-25 19:26:24  #MKT News
+
+U.S. Secretary of State Rubio said he did not discuss an Iran reconstruction fund with Gulf states.
+
+---
+
+### 2026-06-25 19:26:15  #公司
+
+【雲翔無人機完成近億元A輪融資】近日，天津雲翔無人機科技有限公司完成近億元A輪融資，本輪投資方為玖兆投資。
+
+---
+
+### 2026-06-25 19:26:09  #焦點 #國際
+
+魯比奧：如果與伊朗的談判失敗，特朗普還有其他選擇。
+
+---
+
+### 2026-06-25 19:25:53  #MKT News
+
+U.S. Secretary of State Rubio said the Gulf Cooperation Council meeting did not discuss a $300 billion fund.
+
+---
+
+### 2026-06-25 19:25:39  #其他
+
+魯比奧：海灣合作委員會會議上沒有討論3000億美元基金。
+
+---
+
+### 2026-06-25 19:25:23  #MKT News #Important
+
+U.S. Secretary of State Rubio said he is unclear whether funds held by Qatar for Iran have been transferred.
 
 ---
 
@@ -17125,329 +17473,5 @@ Germany's DAX fell 197.03 pts (-0.79%) to 24,740.00 at the close on June 24; Bri
 ### 2026-06-24 23:37:34  #Trading Economics #Markets #Commodity #Importance 0
 
 Brent Crude Oil Hits Pre-War Levels — Brent Crude oil fell below $74 a barrel on Wednesday, reaching its lowest level since late February, as increasing tanker traffic through the Strait of Hormuz and progress in US-Iran peace talks eased supply fears. Shipowners are confidently transiting the chokepoint with active satellite signals following safety guarantees from the International Maritime Organization. The International Energy Agency estimates the United Arab Emirates is exporting oil at nearly 85% of pre-war levels, selling roughly 60 million barrels from the Persian Gulf recently. Consequently, oil prices have dropped about 40% from their wartime peak. This resumed global flow overshadowed US data from the Energy Information Administration showing US crude inventories plunged to their lowest since 1984, with Cushing stockpiles dipping below operational minimums.
-
----
-
-### 2026-06-24 23:36:57  #國際
-
-以色列總理內塔尼亞胡：安全無法靠空談換取。安全源於實力與堅定的決心。遵循一條簡單的準則，我們的先祖早已深諳此理“若有人前來取你性命，當先起身將其斬殺”。
-
----
-
-### 2026-06-24 23:35:32  #Trading Economics #Markets #Commodity #Importance 1
-
-Heating Oil Falls to Over 3-Month Low — Heating oil futures for delivery in the New York Harbor fell to below $3.15 per gallon in late June, hovering near their lowest level since early March, on evidence that oil exports from the Middle East are gradually returning. Satellite data showed that loaded tankers are crossing the Strait of Hormuz as the memorandum of understanding and improved talks between the US and Iran drove both countries to lift their blockade. On top of that, the US remained on track to lift sanction on Iran to unlock fresh sources of energy supply from Western refiners and dollar buyers. Unlike crude oil prices, heating oil futures remained above pre-Iran war levels from late February. Distilling capacity in refiners was hit the hardest from depleted feedstock inventories in Europe and Asia, exemplified by shortages of jet fuel. On top of that, denser crude oil grades from the Persian Gulf, which commonly yield more diesel, were still not at full capacity due to attacks on local refineries.
-
----
-
-### 2026-06-24 23:35:30  #Trading Economics #Markets #Commodity #Importance 2
-
-Crude Oil Falls Below $70 — Crude oil fell below $70 a barrel on Wednesday, reaching its lowest level since late February, as increasing tanker traffic through the Strait of Hormuz and progress in US-Iran peace talks eased supply fears. Shipowners are confidently transiting the chokepoint with active satellite signals following safety guarantees from the International Maritime Organization. The International Energy Agency estimates the United Arab Emirates is exporting oil at nearly 85% of pre-war levels, selling roughly 60 million barrels from the Persian Gulf recently. Consequently, oil prices have dropped about 40% from their wartime peak. This resumed global flow overshadowed US data from the Energy Information Administration showing US crude inventories plunged to their lowest since 1984, with Cushing stockpiles dipping below operational minimums.
-
----
-
-### 2026-06-24 23:35:19  #MKT News #Important #WTI #Impact bearish
-
-【China's foreign minister held phone call with Pakistan deputy prime minister and foreign minister Durr】China's foreign minister Wang Yi spoke by phone with Pakistan's deputy prime minister and foreign minister Durr on the evening of the 24th; Durr said Iran and the United States have entered a new phase of negotiations. Wang said China will work with parties to support the talks and set three priorities: consolidate a comprehensive ceasefire and prevent fighting from restarting; restore normal navigation through the Strait of Hormuz as soon as possible to protect global supply chains, with arrangements that respect littoral sovereignty and international practice; and support Middle Eastern states in improving ties and exploring a new regional security architecture to reduce major‑power rivalry and strengthen regional strategic autonomy.
-
----
-
-### 2026-06-24 23:34:39  #市場 #焦點 #國際
-
-【歐洲主要股指收盤漲跌不一】歐洲斯托克600指數上漲0.05%，歐元斯托克指數下跌0.27%，歐元區藍籌股指數下跌0.26%。法國CAC 40指數上漲0.55%，西班牙IBEX指數下跌0.44%，英國富時100指數上漲0.25%，德國DAX指數下跌0.71%。
-
----
-
-### 2026-06-24 23:33:23  #MKT News #Macro & Rates #Treasury Yields #DXY #Impact bearish #S&P500 #Impact bullish
-
-U.S. 4-month Treasury bill auction as of June 24: percentage allocated at the stop-out rate 11.15%, prior 11.86%.
-
----
-
-### 2026-06-24 23:33:07  #國際
-
-美國拍賣17週期國庫券，中標最高利率為3.770%，最高價位配售量佔投標總量的11.15%。
-
----
-
-### 2026-06-24 23:33:01  #MKT News #Macro & Rates #Treasury Yields #US10Y #Impact bullish #DXY
-
-US 4-month Treasury auction on June 24: bid-cover ratio 2.55, prior 2.87.
-
----
-
-### 2026-06-24 23:32:55  #MKT News #Macro & Rates #Treasury Yields #DXY #Impact bullish #S&P500 #Impact bearish
-
-US 4-month Treasury auction on June 24: stop-out yield 3.77%, up 10 bps from 3.67% previously.
-
----
-
-### 2026-06-24 23:32:51  #MKT News #Economic Calendar
-
-United States | 4-Month Bill Auction Bid/Cover Ratio (Jun.24) | actual 2.55 | previous 2.87
-
----
-
-### 2026-06-24 23:32:46  #國際
-
-【烏軍打擊俄羅斯天然氣精煉廠和氦氣廠】烏克蘭武裝部隊總參謀部24日在社交媒體上發文稱，當天凌晨，烏國防軍對俄羅斯奧倫堡州一座天然氣精煉廠和一座氦氣廠實施打擊。烏武裝部隊總參謀部表示，此次行動地點距烏方前線超過1200公里，兩座工廠已起火，受損情況正在核實中。此外，烏軍還打擊了俄羅斯別爾哥羅德州一處無人機倉庫。（新華社）
-
----
-
-### 2026-06-24 23:32:42  #MKT News #Economic Calendar
-
-United States | 4-Month Bill Auction High Yield Rate (Jun.24) | actual 3.77% | previous 3.67%
-
----
-
-### 2026-06-24 23:32:26  #國際
-
-美國1年10個月遠期利率協議貼現利差為0.079%。
-
----
-
-### 2026-06-24 23:31:22  #國際
-
-以色列總理內塔尼亞胡：我面見特朗普總統時對他說“我們要進軍伊朗”。我並未尋求許可，只是告知他我方計劃。
-
----
-
-### 2026-06-24 23:30:32  #國際
-
-美國國家運輸安全委員會主席：正考慮調查得州特斯拉車禍。
-
----
-
-### 2026-06-24 23:30:18  #Trading Economics #Economy #Bonds #Importance 1
-
-Bonds Update: Brazil 10Y Bond Yield Drops by 26 bps — Government bonds yields are lower on Wednesday. Top losers are Brazil 10Y (-26bps), US 10Y (-9.40bps), Germany 10Y (-4.71bps) and Japan 10Y (-0.94bps).
-
----
-
-### 2026-06-24 23:29:36  #MKT News #WBD.O #Impact bullish #PARA.O #Impact bearish
-
-Sources: Paramount preparing to sell its joint venture with Universal Pictures to complete a deal with Warner Bros. Discovery (WBD.O).
-
----
-
-### 2026-06-24 23:29:25  #其他
-
-國際奧委會將投入超1億美元設立運動員專項基金，運動員只要參加過夏季或冬季奧運會，均可申請1萬美元補助。
-
----
-
-### 2026-06-24 23:28:26  #國際
-
-美國法院聽證會訊息：法官稱將阻止美國司法部獲取紐約市醫院中未成年時接受跨性別醫療服務的患者相關記錄。
-
----
-
-### 2026-06-24 23:27:48  #公司 #市場 #國際
-
-印度執法局（ED）突擊搜查拉傑什出口公司（印度大型黃金珠寶上市企業）關聯9處經營及辦公場所。
-
----
-
-### 2026-06-24 23:25:46  #MKT News #Commodities #Energy
-
-【Canada Q1 gasoline consumption hits record】Desrosiers Automotive Consultants said Canadian gasoline consumption reached a record 10.33 mln cubic meters in Q1, up 4.2% YoY. Executive partner Andrew King said consumption was strong early in the year but March prices spiked after the US–Iran conflict; the firm will monitor whether that curbs Q2 demand.
-
----
-
-### 2026-06-24 23:25:39  #宏觀 #國際
-
-【王毅同巴基斯坦副總理兼外長達爾通電話】2026年6月24日晚，中共中央政治局委員、外交部長王毅應約同巴基斯坦副總理兼外長達爾通電話。 達爾對中國共產黨即將迎來建黨105週年表示熱烈祝賀，表示巴方欽佩中國共產黨領導中國取得非凡成就，希望同中方加強治黨治國經驗交流。王毅表示，習近平總書記強調，中國共產黨致力於中華民族的偉大復興，百年恰是風華正茂。在習近平黨建思想指引下，中國共產黨帶領中國人民成功走出一條符合自身國情的發展道路。中方願同巴方加強黨際交流，分享治國理政經驗。達爾通報了伊朗與美國開啟新階段談判有關情況，感謝中方始終堅定支援巴方和平斡旋努力。達爾表示，習近平主席就維護和促進中東和平穩定提出的四點主張和巴中兩國就中東海灣地區和平穩定提出的五點倡議為引導局勢降溫發揮了重要作用。巴方期待同中方繼續密切協調配合，共同為實現地區持久和平穩定發揮建設性作用。（外交部）
-
----
-
-### 2026-06-24 23:25:07  #MKT News #EURUSD #Impact bullish #DXY #Impact bearish
-
-ECB Executive Board member Schnabel said the economy shows relative resilience.
-
----
-
-### 2026-06-24 23:24:54  #MKT News #Market Regions #Europe & UK #EURUSD #Impact bullish #DXY #Impact bearish
-
-ECB executive board member Schnabel said the risk of second-round effects is increasing.
-
----
-
-### 2026-06-24 23:24:41  #MKT News #Important #EURUSD #Impact bullish #DXY #Impact bearish #DAX
-
-ECB executive board member SCHNABEL said ECB interest rates are not yet restrictive.
-
----
-
-### 2026-06-24 23:24:15  #其他
-
-【土耳其警方打死一名“伊斯蘭國”相關嫌疑人】據土耳其德米羅倫通訊社24日報道，土耳其首都安卡拉發生一起警匪交火事件，一名與極端組織“伊斯蘭國”有關的嫌疑人在交火中被打死，其妻受傷。（新華社）
-
----
-
-### 2026-06-24 23:24:13  #MKT News #EURUSD #Impact bullish #DXY #Impact bearish
-
-ECB executive board member Schnabel said a ceasefire does not mean the ECB can relax its vigilance.
-
----
-
-### 2026-06-24 23:24:01  #MKT News #Macro & Rates
-
-ECB executive board member Schnabel said war, inf and growth will determine the timing and magnitude of rate hikes.
-
----
-
-### 2026-06-24 23:23:53  #市場 #央行 #國際
-
-【歐央行施納貝爾：仍需進一步加息以達成2%通脹目標】歐洲央行執行理事會成員施納貝爾表示，歐洲央行或需繼續上調借貸成本，以抑制物價上漲壓力。施納貝爾稱，“後續加息措施的幅度與落地時點，將取決於衝突局勢、經濟走勢以及通脹的演變情況。”施納貝爾表示，儘管遭遇劇烈能源價格衝擊，歐元區經濟仍展現出較強韌性，但能源價格依舊處於高位，央行正密切跟蹤相關走勢。
-
----
-
-### 2026-06-24 23:23:44  #MKT News
-
-ECB Executive Board member Schnabel said that, given current conditions, further rate hikes are needed to reach the ECB's 2% inflation target.
-
----
-
-### 2026-06-24 23:23:11  #央行 #焦點 #國際
-
-歐洲央行管委施納貝爾：歐洲央行當前利率尚未達到緊縮水平。
-
----
-
-### 2026-06-24 23:23:11  #MKT News
-
-Meteo-France: Paris recorded its highest June temperature on record; Paris-Longchamp station measured 40.9°C.
-
----
-
-### 2026-06-24 23:23:04  #央行 #國際
-
-歐洲央行管委施納貝爾：通脹第二輪傳導效應風險持續攀升。
-
----
-
-### 2026-06-24 23:22:52  #央行 #國際
-
-歐洲央行管委施納貝爾：即便達成停火，歐洲央行也不能放鬆警惕。
-
----
-
-### 2026-06-24 23:22:50  #市場 #焦點
-
-道指漲1.01%，現報52188.051點；納指漲0.77%，現報25783.791點；標普500指數漲0.75%，現報7420.490點。
-
----
-
-### 2026-06-24 23:22:49  #Trading Economics #Markets #United States #stocks #Importance 1
-
-Home Depot Stock Price Hits 9-week High — Home Depot shares increased to 341.20 USD, the highest since April 2026. Over the past 4 weeks, Home Depot gained 9.73%, and in the last 12 months, it decreased 5.83%.
-
----
-
-### 2026-06-24 23:22:45  #央行 #國際
-
-歐洲央行管委施納貝爾：戰爭、通脹與經濟增長情況將決定加息的時點與幅度。
-
----
-
-### 2026-06-24 23:22:36  #央行 #國際
-
-歐洲央行管委施納貝爾：當前形勢下，仍需進一步加息以實現2%通脹目標。
-
----
-
-### 2026-06-24 23:21:56  #MKT News #Market Regions #Wall Street (US) #Dow #Impact bullish
-
-US equities extended gains; the Dow Jones Industrial Average rose 1%.
-
----
-
-### 2026-06-24 23:21:52  #其他
-
-法國氣象局：巴黎創六月史上最高溫，巴黎隆尚賽馬場測得40.9攝氏度。
-
----
-
-### 2026-06-24 23:20:24  #國際
-
-以色列國防部長卡茨表示，美國並未要求以色列從黎巴嫩南部撤軍，這是伊朗在停火談判中提出的條件。
-
----
-
-### 2026-06-24 23:20:09  #MKT News #XAUUSD #Impact bullish #Brent #S&P500 #Impact bearish
-
-Saudi news outlet Hadas reports Israeli drones flying at low altitude over Beirut.
-
----
-
-### 2026-06-24 23:19:55  #MKT News #Important
-
-LME aluminium down 4.00% intraday, trading at $3,124.92/ton.
-
----
-
-### 2026-06-24 23:19:54  #市場
-
-倫鋁日內大跌4.00%，現報3124.92美元/噸。
-
----
-
-### 2026-06-24 23:18:13  #國際
-
-市場資訊：以色列無人機低空飛越貝魯特上空。
-
----
-
-### 2026-06-24 23:15:52  #MKT News
-
-EMSC reported a magnitude-5.5 earthquake in northern California, United States.
-
----
-
-### 2026-06-24 23:15:18  #公司
-
-派拉蒙為推進收購華納交易，準備出售其與環球影業的合資公司資產。
-
----
-
-### 2026-06-24 23:12:59  #MKT News
-
-Iran’s foreign ministry said Iran and Saudi Arabia reviewed recent regional and international developments and emphasized continuing consultations, maintaining diplomatic channels and bolstering joint cooperation to support regional stability, advance negotiations and secure positive, sustainable outcomes.
-
----
-
-### 2026-06-24 23:12:47  #國際
-
-伊朗、沙特外長通電話，商討美伊談判最新進展。
-
----
-
-### 2026-06-24 23:12:36  #MKT News
-
-Iran's foreign minister Araghchi held a phone call with his Saudi counterpart on Wednesday evening, briefing him on the latest negotiation progress, implementation of agreed measures and consultations carried out under that framework.
-
----
-
-### 2026-06-24 23:10:52  #MKT News
-
-【Trump cancels today's housing bill signing and press conference】President Trump said on social media he will not sign a bipartisan housing bill on Wednesday at Capitol Hill as planned, and has canceled today’s signing and press conference, saying he wants Congress to first pass the Save America Act. Trump called the measure a national emergency and is pushing the Senate to repeal the filibuster to pass the Save America Act, which would introduce new voter ID requirements; Democrats say the current text would amount to voter suppression.
-
----
-
-### 2026-06-24 23:10:19  #國際
-
-【特朗普突然取消兩黨住房法案的簽署儀式】美國總統特朗普突然取消了簽署一項跨黨派住房法案的計劃，並表示，在議員們透過一項在國會擱置已久的選民資格法案之前，他將拒絕就該住房法案採取任何行動。週三上午，特朗普在社交媒體上連發數帖，令國會山的議員們感到措手不及。特朗普在帖子中稱，儘管該住房法案以壓倒性多數透過了參眾兩院，但與他的其他優先事項相比“微不足道”。他還嘲諷該法案居然得到了馬薩諸塞州民主黨參議員伊麗莎白.沃倫(Elizabeth Warren)的支援。他寫道，取消簽署儀式是必要的，因為他認為透過旨在收緊全國的投票規則的《拯救美國法案》(SAVE America Act)屬於“國家緊急事務”。特朗普原定於週三中午出席在國會大廈舉行的簽署儀式。就在幾個小時前，白宮還在高調宣揚這項立法，稱其為總統解決生活成本問題議程的一大支柱。週二晚間，白宮新聞秘書萊維特更是稱讚該法案是“美國歷史上減輕住房負擔最重大的立法之一”。根據美國憲法，國會透過的法案如果總統既不簽署也不否決，將在大約兩週後自動成為法律。
-
----
-
-### 2026-06-24 23:09:46  #國際
-
-埃及總統塞西：自7月1日起上調養老金。
-
----
-
-### 2026-06-24 23:09:37  #Trading Economics #Markets #United States #Stock Market #Importance 2
-
-US Stocks Gain Ground, Dow Rises to Record — US equities gained ground on Wednesday, rebounding from the selloff in the chip sector on signs of improvement to broader credit conditions. The Nasdaq 100 and the S&P 500 gained nearly 1%, while the Dow added 400 points for a new record. Micron was flat ahead of its earnings after the bell. It followed the 13% plunge last session on fresh doubts that capital expenditures from AI companies were overdone and are due to slow. Other semiconductor and memory producers halted the selloff, with Nvidia, Intel, and Broadcom adding up to 2%. AI fundraising remained at soaring levels as SK Hynix was looking to raise $29 billion with a US listing shortly after the record SpaceX IPO. Broader sectors were supported by a pullback in yields across the curve as the outlook of restored energy exports from the Middle East tempered inflationary risks. The Dow Jones outperformed due to its exposure to traditional sectors of the economy, set to change on Monday when Alphabet replaces Verizon.
 
 ---
