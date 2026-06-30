@@ -1,7 +1,101 @@
 {
-  "updated": "2026-07-01 03:20:27",
-  "count": 13966,
+  "updated": "2026-07-01 03:24:18",
+  "count": 13974,
   "items": [
+    {
+      "id": "mkt:019f19fc-c59b-7aab-8c41-e9b60ecd4ae9",
+      "time": "2026-07-01 03:23:43",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Iranian parliament speaker Ghalibaf said if the U.S. attempts to deprive Iran of the right to sell oil, 'no one will benefit from oil'."
+    },
+    {
+      "id": "mkt:019f19fc-7399-7aab-8c41-e40075718141",
+      "time": "2026-07-01 03:23:22",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "Iranian parliament speaker Ghalibaf said the Strait of Hormuz's value lies in rising transit volumes, not declines, and it must not be \"used in reverse\" or become a tool that harms Iran."
+    },
+    {
+      "id": "4963638",
+      "time": "2026-07-01 03:22:39",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗議會議長卡利巴夫： 倘若美國企圖剝奪伊朗的石油出口權，各方都無法從石油貿易中獲益。"
+    },
+    {
+      "id": "mkt:019f19fb-a5c4-7aab-8c41-dc083d780b56",
+      "time": "2026-07-01 03:22:30",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "Iranian parliament speaker Ghalibaf said oil sanctions on Iran have been lifted and that Iran is currently selling crude at roughly a 20% premium."
+    },
+    {
+      "id": "4963637",
+      "time": "2026-07-01 03:22:03",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "伊朗議會議長卡利巴夫： 石油制裁已解除，我們的石油售價上漲了兩成。"
+    },
+    {
+      "id": "4963636",
+      "time": "2026-07-01 03:21:40",
+      "tags": [
+        "其他"
+      ],
+      "text": "NASA ：Astrobotic 獲 2.979 億美元合同，螢火蟲航天（Firefly Aerospace）獲 1.442 億美元合同 ，Intuitive Machines 獲 1.483 億美元合同。"
+    },
+    {
+      "id": "mkt:019f19fa-4b47-7aab-8c41-d048a8f5d863",
+      "time": "2026-07-01 03:21:01",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Brazil's finance minister said the government is reassessing liquefied natural gas (LNG) subsidy policy and that any adjustment would have relatively limited impact."
+    },
+    {
+      "id": "mkt:019f19fa-1f83-7aab-8c41-c8785aee2ae6",
+      "time": "2026-07-01 03:20:50",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Iran's parliament speaker Ghalibaf said Iran must gradually expand commercial activity and transit capacity in the Strait of Hormuz. He said Iran should impose restrictions on the United States and Israel, while overall transit volumes through the strait still need to increase."
+    },
+    {
+      "id": "mkt:019f19f9-73b1-7aab-8c41-c5afa1faa271",
+      "time": "2026-07-01 03:20:06",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Brazil's finance minister said the government is willing to renegotiate agricultural debt but will not accept a blanket, one-size-fits-all restructuring that covers all groups, particularly programs that include recipients without genuine need. He stressed agricultural debt restructuring is not linked to oil export taxes."
+    },
+    {
+      "id": "4963635",
+      "time": "2026-07-01 03:19:55",
+      "tags": [
+        "其他"
+      ],
+      "text": "Meta：Discord 今日登陸 Meta Quest。"
+    },
     {
       "id": "4963634",
       "time": "2026-07-01 03:19:30",
@@ -128145,25 +128239,6 @@
         "國際"
       ],
       "text": "【香港對沖基金Ovata將關閉 創始人及大部分員工加入ExodusPoint】知情人士透露，資產管理規模為15億美元的香港對沖基金Ovata Capital Management Ltd.將關閉業務，其創始人及大部分員工準備加入美國多策略對沖基金巨頭ExodusPoint Capital Management。"
-    },
-    {
-      "id": "4951094",
-      "time": "2026-06-24 03:22:32",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "【沃什上任後亞特蘭大聯儲總裁遴選程式已重啟】知情人士稱，在沃什出任美聯儲主席後，亞特蘭大聯邦儲備銀行下一任總裁的遴選程式已被重新啟動。美聯儲曾考慮讓前美國副財長福爾肯德出任該職，但其目前的任命進展尚不得而知。"
-    },
-    {
-      "id": "mkt:019ef5ed-8436-7dd8-b0e2-a0c5950f5ea3",
-      "time": "2026-06-24 03:20:44",
-      "tags": [
-        "MKT News",
-        "LLY.N",
-        "Impact bullish"
-      ],
-      "text": "U.S. President Trump, while discussing the jobs market, called Eli Lilly (LLY.N) \"a great pharmaceutical company\" and referenced the company's investment."
     }
   ]
 }
