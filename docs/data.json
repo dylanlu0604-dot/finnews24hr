@@ -1,7 +1,47 @@
 {
-  "updated": "2026-07-01 01:10:22",
-  "count": 13912,
+  "updated": "2026-07-01 01:14:18",
+  "count": 13914,
   "items": [
+    {
+      "id": "4963539",
+      "time": "2026-07-01 01:13:27",
+      "tags": [
+        "其他"
+      ],
+      "text": "巴西勞工部公佈，5月新增正式就業崗位淨增7.296萬個，此前路透調查的預期為新增11.5萬個。"
+    },
+    {
+      "id": "4963538",
+      "time": "2026-07-01 01:13:14",
+      "tags": [
+        "其他"
+      ],
+      "text": "Meta：6月30日至9月30日期間，Quest裝置使用者完成Discord下載即可獲贈一個月Discord Nitro會員。"
+    },
+    {
+      "id": "4963537",
+      "time": "2026-07-01 01:12:07",
+      "tags": [
+        "其他"
+      ],
+      "text": "Meta：Meta Horzion商店免費提供Discord應用。"
+    },
+    {
+      "id": "4963536",
+      "time": "2026-07-01 01:11:54",
+      "tags": [
+        "其他"
+      ],
+      "text": "Meta：Discord上線Meta Quest頭裝置。"
+    },
+    {
+      "id": "4963535",
+      "time": "2026-07-01 01:11:38",
+      "tags": [
+        "其他"
+      ],
+      "text": "訊息人士透露，西班牙政府計劃為逾100萬名無合法居留證件移民發放居留許可，這一數字是該國4月推出大規模身份合法化計劃時預估人數的兩倍。"
+    },
     {
       "id": "mkt:019f197f-54e5-7aab-8c3f-1227da31d3ca",
       "time": "2026-07-01 01:06:42",
@@ -127618,39 +127658,6 @@
         "國際"
       ],
       "text": "特朗普：是否與伊朗達成協議，我們拭目以待。"
-    },
-    {
-      "id": "te:markets:561258",
-      "time": "2026-06-24 01:14:12",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "Chip Stocks Hold Selloff — A selloff for heavyweight chip producers pressured US equity indices on Tuesday. The Nasdaq 100 slid 3% and the S&P 500 dropped 1%. AI infrastructure companies, including semiconductor and memory chip producers, tanked on increasing skepticism that AI spending by hyperscalers will not meet returns. On top of that, SK Hynix slowed production of advanced AI chips to boost commodity DRAM capacity, a sign that demand for compute could slow. Micron, Lam Research, Sandisk, and Qualcomm plunged close to 10%, Tesla lost 5%, and Nvidia and Oracle slipped 3.5%. On the same note, SpaceX plunged 16% before rebounding as it issued bonds only one week after its IPO, adding to caution on colossal capital expenditure. Treasury yields remained elevated despite the decline in energy prices following the hawkish dot plot last week, limiting any respite for traditional sectors of the economy. Still, gains for healthcare and consumer defensive companies aided the Dow to hover around the flatline."
-    },
-    {
-      "id": "4951023",
-      "time": "2026-06-24 01:12:32",
-      "tags": [
-        "其他"
-      ],
-      "text": "【C羅連續六屆世界盃進球】美加墨世界盃K組，葡萄牙對陣烏茲別克，C羅搶點破門，攻入個人本屆世界盃首球，連續六屆世界盃進球。"
-    },
-    {
-      "id": "mkt:019ef576-72f2-7dd8-b0e0-850d31d70965",
-      "time": "2026-06-24 01:10:40",
-      "tags": [
-        "MKT News",
-        "Important",
-        "XAUUSD",
-        "Impact bullish",
-        "WTI",
-        "DXY"
-      ],
-      "text": "【Pezeshkian: Iran–US memorandum does not cover missiles】On the 23rd, while visiting Pakistan, President Pezeshkian said the Iran–US memorandum does not cover missile issues and will not be expanded to do so. He said Iran will never negotiate its defensive capabilities with any party."
     }
   ]
 }
