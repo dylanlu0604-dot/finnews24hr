@@ -1,7 +1,23 @@
 {
-  "updated": "2026-07-01 01:18:18",
-  "count": 13913,
+  "updated": "2026-07-01 01:22:18",
+  "count": 13908,
   "items": [
+    {
+      "id": "4963545",
+      "time": "2026-07-01 01:18:50",
+      "tags": [
+        "公司"
+      ],
+      "text": "蘋果公司表示“很高興最高法院將審理我方案件”。此前，美最高法院將審理蘋果公司上訴，涉其與Epic Games應用商店收費糾紛。"
+    },
+    {
+      "id": "4963544",
+      "time": "2026-07-01 01:17:57",
+      "tags": [
+        "公司"
+      ],
+      "text": "【對沖基金Millennium高層調整繼續 聯席首席投資官Russo年底退休】Millennium Management聯席首席投資官Paul Russo將於今年年底退休，標誌著這家多策略對沖基金巨頭高層領導的最新變動。知情人士表示，Russo在退休後將與公司保持聯絡，並根據需要提供協助。Russo負責公司股票業務的風險管理，同時也是首席投資官辦公室的成員。該公司目前管理著約890億美元的資產。"
+    },
     {
       "id": "4963543",
       "time": "2026-07-01 01:17:21",
@@ -127586,76 +127602,6 @@
         "國際"
       ],
       "text": "SpaceX 擬透過首次美國高等級債券發行募資 250 億美元。"
-    },
-    {
-      "id": "mkt:019ef580-e37f-7dd8-b0e0-c472adae4f48",
-      "time": "2026-06-24 01:22:05",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "President Trump said Iran faces hunger, shortages of food and medicine, and high inflation."
-    },
-    {
-      "id": "mkt:019ef57f-ddf3-7dd8-b0e0-bee580c87faa",
-      "time": "2026-06-24 01:20:58",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "XAUUSD",
-        "DXY"
-      ],
-      "text": "TRUMP said Iran's military infrastructure has been completely destroyed and the inf rate has reached 300%."
-    },
-    {
-      "id": "mkt:019ef57f-8dcf-7dd8-b0e0-b1352daef3c7",
-      "time": "2026-06-24 01:20:37",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bearish",
-        "WTI",
-        "DXY"
-      ],
-      "text": "Trump said Iran no longer holds a favorable negotiating position after its military forces and capabilities were severely degraded."
-    },
-    {
-      "id": "mkt:019ef57e-f76a-7dd8-b0e0-ac29fea0b151",
-      "time": "2026-06-24 01:19:59",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "WTI"
-      ],
-      "text": "U.S. President Trump: If Iran wants to cause trouble, then go seek nuclear weapons."
-    },
-    {
-      "id": "4951031",
-      "time": "2026-06-24 01:19:40",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：伊朗面臨糧食短缺、藥品匱乏以及通脹高企等難題。"
-    },
-    {
-      "id": "4951030",
-      "time": "2026-06-24 01:19:19",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國總統特朗普被問及AI對卡車司機們構成的風險，兜售就業資料。"
-    },
-    {
-      "id": "mkt:019ef57d-d9c8-7dd8-b0e0-a51a8c5983fa",
-      "time": "2026-06-24 01:18:46",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "President Trump said he is reaching an agreement with Iran and expects further progress."
     }
   ]
 }
