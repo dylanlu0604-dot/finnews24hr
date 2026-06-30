@@ -1,7 +1,54 @@
 {
-  "updated": "2026-07-01 01:34:06",
-  "count": 13903,
+  "updated": "2026-07-01 01:37:58",
+  "count": 13907,
   "items": [
+    {
+      "id": "4963553",
+      "time": "2026-07-01 01:36:57",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "美國南方司令部：遵照南方司令部指令，美軍持續配合由美國國務院牽頭的美國政府委內瑞拉地震救災行動。"
+    },
+    {
+      "id": "4963552",
+      "time": "2026-07-01 01:36:47",
+      "tags": [
+        "國際"
+      ],
+      "text": "德國聯邦憲法保衛局於週二釋出一份安全報告稱，伊朗是2025年在德國境內開展情報活動的主要外國勢力之一，其監控目標包括伊朗反對派團體、親以色列和親猶太相關人員，以及旅居海外的伊朗僑民群體。"
+    },
+    {
+      "id": "4963551",
+      "time": "2026-07-01 01:36:05",
+      "tags": [
+        "其他"
+      ],
+      "text": "惠譽維持愛立信“BBB-”評級，展望穩定。"
+    },
+    {
+      "id": "mkt:019f199a-29d9-7aab-8c3f-64b1dc535c69",
+      "time": "2026-07-01 01:36:01",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "EURUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "【ECB mulls doubling banks' minimum reserve ratio to 2% to cut its interest bill】Six people said the European Central Bank is considering raising the minimum reserve banks must hold in non-interest-bearing accounts from 1% to 2% of customer deposits and other funding sources. The move is aimed at cutting the ECB’s interest expenses from paying interest on excess deposits, absorbing surplus liquidity and easing side-effects of its anti-inflation policy. Officials said it would help cash-rich national central banks such as Germany’s Bundesbank reduce losses tied to interest paid on deposits that exceed legal requirements. Excess deposits have swelled to trillions of euros since the ECB’s bond-buying programmes. The proposal is under early internal discussion and will be revisited in this year’s framework review; a decision is expected before autumn and the Governing Council has not formally debated it."
+    },
+    {
+      "id": "4963550",
+      "time": "2026-07-01 01:33:46",
+      "tags": [
+        "國際"
+      ],
+      "text": "烏克蘭地方州長稱，俄羅斯滑翔炸彈襲擊造成兩人死亡。"
+    },
     {
       "id": "4963549",
       "time": "2026-07-01 01:32:09",
@@ -127547,14 +127594,6 @@
         "其他"
       ],
       "text": "沃爾瑪據悉將以14億美元收購VIBE.CO。"
-    },
-    {
-      "id": "mkt:019ef58e-0a09-7dd8-b0e0-ff08f48c2885",
-      "time": "2026-06-24 01:36:27",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Atlanta Fed president search seen as test of how Waller will reshape Fed】CNBC reports the search for a new president of the Federal Reserve Bank of Atlanta has entered its seventh month and is being closely watched as a gauge of how new Fed chair Waller may reshape the FOMC. Two people familiar with the process said a search begun under former chair Powell was paused to allow Waller to lead the appointment. Michael Faulkender, a former senior Treasury official in the Trump administration, was later added to the candidate list; his current status is unclear."
     }
   ]
 }
