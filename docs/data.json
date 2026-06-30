@@ -1,7 +1,90 @@
 {
-  "updated": "2026-07-01 03:12:41",
-  "count": 13951,
+  "updated": "2026-07-01 03:16:34",
+  "count": 13956,
   "items": [
+    {
+      "id": "mkt:019f19f5-18e0-7aab-8c41-88a5d3c6c2ea",
+      "time": "2026-07-01 03:15:20",
+      "tags": [
+        "MKT News",
+        "EURUSD",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish",
+        "XAUUSD"
+      ],
+      "text": "ECB Governing Council member Kazaks said there is currently no need to take forceful measures to address inflation and it is difficult to predict developments in July and September."
+    },
+    {
+      "id": "mkt:019f19f4-f86e-7aab-8c41-81a0d13f0771",
+      "time": "2026-07-01 03:15:12",
+      "tags": [
+        "MKT News",
+        "EURUSD",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "ECB governing council member KAZAKS said if conditions improve the bank may not raise rates further, and the urgency for consecutive rate hikes has eased significantly."
+    },
+    {
+      "id": "4963629",
+      "time": "2026-07-01 03:14:35",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行卡扎克斯： 很難預判 7 月、9 月政策走向。"
+    },
+    {
+      "id": "4963628",
+      "time": "2026-07-01 03:14:18",
+      "tags": [
+        "宏觀",
+        "央行",
+        "焦點",
+        "國際"
+      ],
+      "text": "歐洲央行卡扎克斯：若形勢好轉，或將不再進一步加息。 當前無需出臺強力抗通脹舉措。"
+    },
+    {
+      "id": "mkt:019f19f3-f738-7aab-8c41-7c9d5d68694a",
+      "time": "2026-07-01 03:14:06",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Ghalibaf, speaker of Iran's parliament, said uranium enrichment is Iran's right and that Iran is complying with relevant provisions of the Nuclear Non‑Proliferation Treaty."
+    },
+    {
+      "id": "4963627",
+      "time": "2026-07-01 03:13:47",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行卡扎克斯： 連續加息的緊迫性已大幅下降。"
+    },
+    {
+      "id": "4963626",
+      "time": "2026-07-01 03:12:45",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗議會議長卡利巴夫： 我方正與海灣沿岸各國交換意見。"
+    },
+    {
+      "id": "mkt:019f19f2-6c8b-7aab-8c41-734a77758e0d",
+      "time": "2026-07-01 03:12:25",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "DXY",
+        "Impact mixed"
+      ],
+      "text": "Ghalibaf, speaker of Iran's parliament, said sovereignty over the Strait of Hormuz belongs to Iran and Oman, that Iran will determine arrangements for passage, and that Tehran will consult Persian Gulf littoral states on transit procedures."
+    },
     {
       "id": "4963625",
       "time": "2026-07-01 03:12:03",
@@ -127987,34 +128070,6 @@
         "國際"
       ],
       "text": "特朗普：賓夕法尼亞州就業崗位大幅增長。僅過去數月，該州就新增3.2萬個就業崗位，其中製造業崗位2600個。"
-    },
-    {
-      "id": "4951091",
-      "time": "2026-06-24 03:16:25",
-      "tags": [
-        "其他",
-        "焦點"
-      ],
-      "text": "美光科技跌幅超13%，或創下2025年4月以來最大單日跌幅。"
-    },
-    {
-      "id": "4951090",
-      "time": "2026-06-24 03:13:58",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "特朗普：全美汽油均價相較不久前每加侖下跌了60美分。美國經濟即將騰飛，達到前所未有的高度。"
-    },
-    {
-      "id": "mkt:019ef5e6-b4b3-7dd8-b0e2-9dad42d7c9ff",
-      "time": "2026-06-24 03:13:17",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "The Trump Trade"
-      ],
-      "text": "Trump claimed he cut the US trade deficit by 67%, the largest reduction in US history."
     }
   ]
 }
