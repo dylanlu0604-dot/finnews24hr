@@ -1,7 +1,289 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-07-01 07:10:27_
-_本檔包含 2545 則快訊，約 519503 字_
+_更新時間：2026-07-01 07:40:52_
+_本檔包含 2535 則快訊，約 520815 字_
+
+---
+
+### 2026-07-01 07:39:57  #國際
+
+【特朗普聽取全面對伊開戰方案彙報，但選擇繼續推進談判】據熟悉相關磋商的美國官員透露，特朗普總統近期考量過重啟對伊朗全面戰爭的選項，連日來多次同國防部長皮特・赫格塞思、參謀長聯席會議主席丹・凱恩上將商討加大打擊力度的相關方案，但最終決定現階段仍以外交談判為主。相關官員表示，幾次談話的核心議題是美國是否應當放棄談判、恢復對伊朗的全面打擊，部分官員將該行動稱作 “一勞永逸解決問題”。特朗普尚未作出最終定論，但他向幕僚表示，新一輪大規模打擊會破壞外交程序，降低美方最終拆解伊朗核計劃的可能性。官員稱，特朗普還告知幕僚，即便伊朗核協議 8 月 18 日的談判最後期限被迫延後，他也能夠接受，這一態度為談判留出了更多斡旋空間。與此同時，總統表示，當前他認可一種應對方式：若伊朗違反諒解備忘錄，美方就實施單次定點打擊。上週末雙方因此爆發多輪交火，此前兩週好不容易達成的脆弱停火協議也遭到破壞。
+
+---
+
+### 2026-07-01 07:38:30  #MKT News #XAUUSD #Impact mixed #WTI #DXY
+
+Wall Street Journal reports Trump was briefed on plans for a full-scale war against Iran but chose to continue pursuing negotiations.
+
+---
+
+### 2026-07-01 07:38:23  #市場 #國際
+
+【原油期貨上漲，因可能出現技術性反彈】原油期貨在亞洲早盤交易中上漲，因可能出現技術性反彈，此前該期貨在週二創下自2020年以來的最大季度跌幅。原油期貨可能還受到對霍爾木茲海峽控制權的不確定性的支撐，這是一條關鍵水道，全球五分之一的石油通常透過該水道運輸。澳新銀行研究部分析師在一份研究報告中表示，這種控制權仍然是一個“有爭議的“問題。澳新銀行研究部的分析師補充說：“伊朗重申了其控制海上交通的決心，增加了在多哈舉行的美伊會談的賭注。“近月西得州中質油期貨上漲0.8%，報每桶70.06美元。
+
+---
+
+### 2026-07-01 07:38:04  #國際
+
+市場訊息：特朗普聽取了有關伊朗戰爭選項的簡報，特朗普目前仍將堅持就伊朗問題進行外交談判。
+
+---
+
+### 2026-07-01 07:37:14  #其他
+
+【上半年百城新房銷售面積同比下降約12%】中指研究院資料顯示，2026年上半年，100城新建商品住宅銷售面積同比下降約12%。二季度以來成交量整體趨於平穩，4月份100城新建商品住宅銷售面積與去年同期基本持平，5月份、6月份同比分別小幅下降5%、4%。在二手房市場，中指研究院資料顯示，上半年重點城市二手住宅成交約76萬套，同比增長約6%。
+
+---
+
+### 2026-07-01 07:37:10  #國際
+
+【寶通泰國製造基地首條量產ST7100超高強度鋼絲繩芯輸送帶下線】據寶通科技訊息，6月29日，寶通泰國智慧製造基地，ST7100超高強度鋼絲繩芯輸送帶成功生產下線。這是寶通泰國製造基地迄今為止首條正式量產、規格級別最高的鋼絲繩芯輸送帶，也是該等級產品首次在寶通海外工廠實現量產。
+
+---
+
+### 2026-07-01 07:37:01  #國際
+
+烏克蘭高階指揮官稱正為俄羅斯可能從北部發動的新攻勢做準備。
+
+---
+
+### 2026-07-01 07:36:39  #市場 #觀點 #國際
+
+【華泰證券：建議關注國產G5級氫氟酸量價齊升下的盈利增長機遇】華泰證券指出，據百川盈孚，6月29日國內UP/UPS級電子級氫氟酸價格7885/8750元/噸，較年初上漲19%/17%，漲價原因除成本端硫酸、螢石價格有所上漲，華泰證券認為需求端AI算力擴張和半導體制造升級等因素亦有利好支撐。供給方面，全球G5級產品有效產能緊缺且由日本企業主導，同時國內多家企業產能與下游認證優勢逐步擴大，國產化率提升空間較大。國產電子級氫氟酸在高階晶圓製造領域的規模化替代有望開啟，建議關注國產G5級氫氟酸量價齊升下的盈利增長機遇。
+
+---
+
+### 2026-07-01 07:35:24  #MKT News #Important #Market Themes #AI Revolution
+
+U.S. Commerce Secretary Lutnick said his office worked closely with ANTHROPIC to analyze and review the AI model Fable 5, and that approving the removal of Fable 5's export restrictions is intended to align policy across U.S. government departments and strengthen U.S. leadership in AI.
+
+---
+
+### 2026-07-01 07:35:17  #公司
+
+【麥格理：紐西蘭航空料將再迎艱難的一年】在正常的飛機可用性和規模效益顯現之前，2027財年對紐西蘭航空來說可能又是一個艱難的一年。這是麥格理的觀點，該機構維持對紐西蘭航空股票“弱於大盤“的評級。該航空公司已提高票價，試圖緩解燃料成本壓力。儘管如此，麥格理指出，最新運營資料顯示，作為關鍵行業指標的每可用座位公里收入的軌跡整體改善有限。麥格理表示：“我們認為，考慮到經濟環境，國內和出境遊的彈性將面臨挑戰，而考慮到匯率和海外經濟體的情況，入境遊可能會帶來更好的成本回收。“其對2027財年的盈利預期下調了21%。
+
+---
+
+### 2026-07-01 07:34:12  #國際
+
+美國商務部長盧特尼克： 已批准FABLE 5，以確保美國政府各部門協調一致，並鞏固美國在人工智慧領域的領導地位。
+
+---
+
+### 2026-07-01 07:33:41  #國際
+
+美國商務部長盧特尼克：我們已與Anthropic密切合作，對Fable 5進行分析與審批。
+
+---
+
+### 2026-07-01 07:33:30  #宏觀
+
+【7月起，這些新規將施行】7月起，一批涉及民生、就業、維權、投資等領域的新規正式施行，涵蓋民族團結、社會救助、民航出行、超齡勞動者權益、行政複議、信訪登記等多個方面內容。其中，社會救助法首次將六類困難群眾納入法治保障；超齡勞動者權益保障新規填補了老年務工群體的制度空白；民用航空法修訂聚焦低空經濟與旅客權益。此外，對外投資領域首部行政法規正式出臺，行政複議制度進一步健全……一系列新規從不同維度織密法治之網。（澎湃）
+
+---
+
+### 2026-07-01 07:33:15  #其他
+
+【穆迪上調中國銀行體系展望至“穩定”：盈利趨穩 流動性保持充裕】近日，穆迪評級釋出最新中國銀行體系展望——《中國銀行體系展望：穩定的運營環境和盈利能力支撐展望上調至穩定》指出，將中國銀行體系的展望從負面調整為穩定。持續的政策支援和穩健的經濟增長將支撐銀行業穩定的運營環境。資產風險仍將較高，原因是為迅速變化的行業提供融資存在未經週期檢驗的風險，以及銀行零售板塊的資產風險上升。隨著銀行業在降低存款成本方面更加自律，淨息差的收縮幅度將被控制在較小範圍內，盈利能力也將趨於穩定。由於存在新增不良貸款的風險，信貸成本可能會持續高企；同時，若市場利率上行，投資收益仍將面臨波動。隨著貸款增速放緩，資本狀況將保持基本穩定。在支援性的貨幣和財政政策環境下，銀行業的資金來源和流動性仍將保持充裕。
+
+---
+
+### 2026-07-01 07:32:21  #其他
+
+【廣州佛山最快18分鐘通達 廣湛高鐵佛山站正式開通運營】7月1日，隨著C7122次首發列車鳴笛駛出，廣湛高鐵佛山站正式開通運營。這座位於佛山市中心城區的高鐵樞紐自此開門迎客，為粵港澳大灣區高鐵網再添重要節點。佛山站總建築規模29.4萬平方米，是廣湛高鐵已執行站點中建築規模最大的高鐵站，初期年傳送旅客約460萬人次，遠期可達600萬人次。佛山站的開通大幅最佳化了粵港澳大灣區的路網格局，為旅客帶來實實在在的出行便利。車站位於佛山中心城區，可實現廣州、佛山兩座萬億級城市的中心最快18分鐘直達，實現深度融合、一體化發展。
+
+---
+
+### 2026-07-01 07:31:36  #市場
+
+日經指數期貨在新加坡交易所開盤上漲755點，報71040點。
+
+---
+
+### 2026-07-01 07:29:51  #公司 #市場 #觀點
+
+【上半年85家公司登陸港股 中資券商發力港股IPO業務】資料顯示，在2026年上半年登陸港股市場的85家公司中，18A生物科技公司有11家，18C特專科技公司有13家。“A+H”上市也成為2026年上半年港股IPO市場的一大趨勢。在上半年登陸港股市場的85家公司中，有24家為“A+H”上市，已超過2025年全年的19家。2026年上半年，港股新股市場募資總額超過2000億港元，中資券商已成為護航港股IPO的“主力軍”。從港股IPO保薦數量來看：Wind資料顯示，按上市日統計，2026年上半年中金公司佔據榜首，為28家，市場份額達14.43%；中信證券（合併中信證券香港有限公司及中信里昂證券有限公司）緊隨其後，為20家，佔據10.31%的市場份額。從承銷規模來看：中金公司依然位居榜首，達460.5億港元，市場份額達21.82%；華泰金控達206.37億港元，佔據9.78%的市場份額。（上證報）
+
+---
+
+### 2026-07-01 07:28:22  #公司
+
+【頭部房企角逐核心城市優質地塊】6月30日，廣州2026年上半年土拍市場迎來收官。當日，番禺洛浦街、海珠琶洲中二區兩宗涉宅用地成功出讓，分別由廈門國貿地產集團有限公司、越秀地產股份有限公司競得，成交總金額約24億元，兩宗地塊溢價率分別達到55%和46.3%，再次體現出房企對核心城市優質地塊的爭奪熱度。
+
+---
+
+### 2026-07-01 07:28:09  #公司
+
+【6月份私募調研近1800次 電子行業熱度居前】Wind資料顯示，6月份共有842傢俬募機構參與到A股公司調研活動中，合計調研次數達1797次，涉及373家A股公司。其中，電子等行業A股公司被調研頻次居於前列。今年1月份至6月份，私募機構調研次數分別為3619次、1485次、4740次、10117次、3554次、1797次。剔除春節假期所在的2月份，6月份私募機構整體調研節奏明顯放緩。北京沃虎私募基金管理有限公司總經理徐鵬向記者表示，6月份機構調研頻次回落，是半年末季節性操作、業績驗證空窗期、前期賽道獲利了結等多重因素共振的結果。（證券日報）
+
+---
+
+### 2026-07-01 07:27:12  #公司 #國際
+
+【美國最大電網PJM著手管理資料中心電力需求】週二，PJM互聯公司（PJM Interconnection）的成員投票透過了一項計劃，旨在獲取更多電力以滿足日益增長的資料中心需求。這股需求浪潮正威脅到美國最大電網的電力供應。PJM的投票成員對十多項關於如何透過所謂的“後備採購”（backstop procurement）流程為資料中心供電的提案進行了非約束性投票。其中一項由資料中心倡導者和主要受監管的公用事業公司提出的計劃獲得了推進。
+
+---
+
+### 2026-07-01 07:27:03  #其他
+
+【上交所多維規範機構債券交易申報 要求機構9月底前完成業務和技術準備】6月30日記者從業內獲悉，為了維護債券市場正常交易秩序，保護投資者利益，上海證券交易所從投資者教育、適當性管理、交易介面最佳化、異常行為監測等多個維度，推動機構壓實債券交易申報環節的主體責任。 上交所還對過渡期作出安排，各機構應當切實做好客戶交易申報管理相關工作，於2026年9月底前完成業務和技術準備，並就最佳化債券交易委託申報介面等相關功能開展充分的技術測試，不得影響系統安全和正常交易秩序。  （證券日報）
+
+---
+
+### 2026-07-01 07:26:03  #公司
+
+【機構密集調研A股上市公司 人形機器人、半導體材料受追捧】據Wind資料統計，6月份，共有989家A股上市公司迎來機構調研。從調研邏輯看，硬科技賽道憑藉清晰的產業升級路徑、持續推進的國產替代程序以及充足的中長期成長空間，成為當前機構調研和中長期資金佈局的主線。受訪專家表示，當前公募、私募、外資、券商等各類機構佈局風格差異化凸顯，但對科技成長賽道的看多共識高度一致。其中，人形機器人、AI硬體、高階半導體材料等前沿細分領域，受益於產業迭代提速、上市公司業績集中兌現、市場流動性持續改善三重利好共振，成為市場資金重點關注領域。（證券日報）
+
+---
+
+### 2026-07-01 07:25:25  #公司 #市場
+
+【鉬價高位執行達近三年高點 “以鉬代鎢”實現“高階半導體戰略材料”屬性切換】近期，頭部儲存晶片廠商以鉬替代傳統鎢製作儲存字線的訊息，帶動國內鉬相關產業板塊走強。年內鉬鐵價格高位執行，於近日噸價達到30萬元上方，為近三年首次。證券時報記者從行業瞭解到，當前“鉬代鎢”技術落地，雖已形成一定市場需求，但供給體量極小且高度集中，對多數相關上市公司業績拉動有限。不過從長遠看，鉬金屬已從傳統“鋼鐵週期附屬品”蛻變為“半導體+高階製造的戰略核心材料”，實現從“傳統週期工業金屬”向“高階半導體戰略材料”的屬性切換，價格有望維持“中樞上移+高位震盪”格局。
+
+---
+
+### 2026-07-01 07:25:21  #Trading Economics #Markets #Commodity #Importance 0
+
+Brent Steadies as Traders Watch Peace Talks — Brent steadied above $73 per barrel on Wednesday after posting its steepest quarterly decline since 2020, as investors awaited updates on ongoing peace talks between the US and Iran in Doha, with both sides seeking to ease tensions over the Strait of Hormuz following recent clashes. Washington and Tehran are working toward a lasting resolution to the conflict, although Iran has maintained its position on controlling maritime traffic through the strategic waterway. Meanwhile, oil tanker traffic continues to recover, with shipments increasing after the US and Iran halted their recent exchange of fire over Hormuz. Analysts have also warned of a looming supply glut as exports rebound faster than expected, with Iran saying it has shipped more than 40 million barrels of oil since the US lifted its naval blockade, while Russian exports have surged to record levels, leading to a sharp buildup of barrels at sea.
+
+---
+
+### 2026-07-01 07:25:11  #公司 #市場
+
+【A股上半年行情收官：成交額重新整理紀錄 半導體板塊市值超越國有大行】A股2026年上半年行情收官，市場主要指數多數上漲，其中上證指數上漲3.16%，深證成指上漲19.82%；創業板指數和科創50指數表現最為亮眼，指數雙雙創出歷史新高，上半年漲幅分別達35.58%、64.25%。A股最新總市值也升至118.95萬億元，較去年末增長9.41%。市場交易熱度同步創下階段新高，上半年全市場成交額超317萬億元，金額重新整理半年度紀錄。半導體板塊A股市值歷史性超越國有大行，登頂申萬二級行業榜首。與此同時，全市場千億市值公司陣營跨越式擴容至206家，硬科技公司為新增主力。（證券時報）
+
+---
+
+### 2026-07-01 07:24:55  #MKT News #AA.O #Impact bullish #S32.AX
+
+【South32 to sell most aluminum assets to Alcoa for up to $5.6 bln】South32 has agreed to sell most of its aluminum assets to Alcoa in a cash-and-stock deal implying enterprise value up to $5.6 bln. The package includes Worsley alumina (Australia), Hillside aluminium (South Africa), MRN bauxite mines (Brazil) and equity in a Brazilian alumina refinery and aluminium smelter. Alcoa will assume about $1.2 bln of remediation and closure liabilities. The transaction is expected to close in H2 2027; South32 plans an approximately $500 mln tax-free special dividend thereafter. Alcoa says the deal should deliver roughly $900 mln NPV of synergies from optimizing complementary assets.
+
+---
+
+### 2026-07-01 07:24:52  #公司 #國際
+
+【韓媒：TPG洽談超萬億韓元收購樂天租賃】據《韓國經濟日報》援引業內匿名人士訊息，私募機構TPG正開展獨家盡職調查，擬從樂天集團手中收購樂天租賃控股權；若未出現重大障礙，雙方或於7月末簽署股份收購協議。樂天酒店與釜山樂天酒店合計持有樂天租賃61.18%股權，該部分股權整體掛牌出售；本次交易估值約1.5萬億韓元區間。
+
+---
+
+### 2026-07-01 07:24:24  #Trading Economics #Markets #Commodity #Importance 2
+
+Oil Steadies as Traders Watch Peace Talks — Crude oil steadied near $70 per barrel on Wednesday after posting its steepest quarterly decline since 2020, as investors awaited updates on ongoing peace talks between the US and Iran in Doha, with both sides seeking to ease tensions over the Strait of Hormuz following recent clashes. Washington and Tehran are working toward a lasting resolution to the conflict, although Iran has maintained its position on controlling maritime traffic through the strategic waterway. Meanwhile, oil tanker traffic continues to recover, with shipments increasing after the US and Iran halted their recent exchange of fire over Hormuz. Analysts have also warned of a looming supply glut as exports rebound faster than expected, with Iran saying it has shipped more than 40 million barrels of oil since the US lifted its naval blockade, while Russian exports have surged to record levels, leading to a sharp buildup of barrels at sea.
+
+---
+
+### 2026-07-01 07:23:17  #公司
+
+【蓋蒂圖片社因英國監管部門審查 取消了與Shutterstock的37億美元合併計劃】蓋蒂圖片社週二表示，由於英國競爭監管機構將出售Shutterstock的編輯業務作為批准合併的條件，該公司已取消與Shutterstock的合併計劃。作為授權視覺內容行業中的兩大巨頭，兩家公司於去年1月宣佈達成合並協議，旨在打造一家面向AI時代的、市值37億美元的相簿巨頭。此次合併告吹之際，兩家公司正面臨來自AI影象生成工具的日益激烈競爭，這些工具提供了更廉價、更便捷的視覺內容創作方式。英國競爭與市場管理局（CMA）於5月有條件批准合併案，要求Shutterstock出售其編輯業務部門，以消除外界對其在英國新聞內容供應方面的擔憂。
+
+---
+
+### 2026-07-01 07:21:53  #Trading Economics #Economy #Australia #Industry Index Construction #Importance 1
+
+Australia Construction Sector Weakens Sharply — The Ai Group Industry Index for Australia’s construction sector plunged 26.9 points to -38.1 in June 2026, marking its lowest reading since March and signaling a sharp deterioration in business conditions. New orders contracted steeply as tax changes weighed on customer demand, prompting many clients to delay projects and causing some firms to reassess staffing needs. Businesses also turned more cautious on investment, with capital expenditure deferred amid heightened economic uncertainty and a weaker pipeline of work. The survey suggests the sector continued to face subdued activity as rising costs, policy uncertainty, and soft demand undermined confidence.
+
+---
+
+### 2026-07-01 07:21:34  #公司 #國際
+
+【特朗普靠加密貨幣交易進賬逾10億美元 成為2025年“意外收益”一部分】根據最新的財務披露報告，美國總統唐納德.特朗普涉足加密貨幣領域，在去年為他帶來了超過10億美元的“意外收益”；這一史無前例的收入激增，伴隨著他從特許權使用費協議、房地產和法律和解中獲得的收益一同到來。在第二任期的第一年，特朗普及其家人在加密貨幣業務上投入了大量資金。這種投資不僅產生了賬面財富，還帶來了實實在在的利潤。根據美國政府道德辦公室(Office of Government Ethics)的這份檔案，去年的收益包括透過一家與特朗普模因幣相關的實體獲得的6.35億美元特許權使用費。該模因幣就在他宣誓就職前幾天推出。此外，特朗普家族旗艦加密貨幣專案World Liberty Financial透過代幣銷售獲得的超過5億美元所得。特朗普曾與多家大公司發生糾紛，最終獲得了至少8,650萬美元的法律和解金，這些款項在披露報告中都有詳細說明。其中包括從Meta獲得的2,450萬美元，以及從派拉蒙和迪士尼各獲得的1,600萬美元。特朗普在股市中也十分活躍，他當年持有的最大重倉股包括亞馬遜、Meta、英偉達和特斯拉等大盤藍籌股。
+
+---
+
+### 2026-07-01 07:20:07  #國際
+
+美國副總統萬斯：出生公民權裁決令人失望。
+
+---
+
+### 2026-07-01 07:19:42  #MKT News #Star Stocks #Microsoft #Market Themes #Magnificent 7 #MSFT.O #Impact mixed
+
+【Microsoft plans new round of layoffs affecting thousands of roles】Business Insider reported Microsoft (MSFT.O) plans to announce another round of layoffs to control costs, affecting thousands of positions across sales, consulting and the Xbox gaming unit. The cut is expected to be smaller than last year and below 2.5% of its roughly 220,000 workforce. The company may announce the move next week, though timing could change; some affected employees will be immediately offered new roles. Last year Microsoft cut about 6,000 jobs in May and a further 9,000 in July. The decisions come as Microsoft steps up AI investment while trimming expenses.
+
+---
+
+### 2026-07-01 07:19:21  #公司
+
+【上半年消金公司不良轉讓規模同比增逾七成】2026年上半年，消費金融公司對不良貸款資產包的處置力度空前。證券時報記者根據銀行業信貸資產登記流轉中心（簡稱“銀登中心”）資料梳理，今年上半年已有24家持牌消金公司掛牌轉讓不良貸款，合計未償本息金額達532.02億元，同比增長74.5%。在資產質量管控趨嚴與監管政策密集落地的雙重背景下，消金行業正加速告別粗放模式，貸後管理與風險處置也隨之迎來變革。
+
+---
+
+### 2026-07-01 07:19:13  #公司 #觀點 #國際
+
+【數字基礎設施公司ITG美國IPO定價低於區間，籌資3.122億美元】由橡樹資本（Oaktree）支援的ITG週二表示，其美國首次公開募股（IPO）定價為每股16美元，低於目標區間，共籌集3.122億美元。這家數字基礎設施公司此次共售出1950萬股，最初的發行定價區間為每股19至22美元。ITG在美國各地提供端到端的數字基礎設施服務，支援寬頻、無線、資料中心、公用事業及民用基礎設施的規劃、建設、運營和維護。隨著高速寬頻已成為一項基本公共設施，且人工智慧公司斥資數十億美元建設其技術所需的資料中心，對該公司服務的需求隨之增長。2021年，投資公司橡樹資本管理與ITG管理層合作，收購了該公司。摩根士丹利、花旗集團、瑞銀投資銀行和斯蒂費爾是此次發行的聯合簿記管理人。該公司將於週三在納斯達克交易所開始交易，股票程式碼為“ITG”。
+
+---
+
+### 2026-07-01 07:18:22  #Trading Economics #Economy #Ireland #Consumer Confidence #Importance 1
+
+Irish Consumer Sentiment Hits 4-Month High — Ireland’s Credit Union Consumer Sentiment Index rose to a four-month high of 62.2 in June 2026 from 59.4 in May, extending its recovery for a second consecutive month as concerns over household finances, the economic outlook, and future conditions eased. The index has rebounded by nine points over the past two months but remained below February’s 65.2 reading and well under its long-term average of 83.2, reflecting lingering uncertainty over a lasting peace in the Middle East and still-elevated retail fuel prices. Four of the five survey components improved, while confidence in the jobs market weakened amid Meta’s planned workforce reductions and growing concerns over AI-related employment risks. Although easing global oil prices and government energy support helped soften inflation concerns, households remained broadly pessimistic about their financial situation, signaling consumers are still cautious despite improving sentiment.
+
+---
+
+### 2026-07-01 07:18:17  #公司 #國際
+
+【South32以56億美元向美國鋁業出售資產】悉尼上市的South32公司同意將其在澳大利亞、巴西和南非的鋁土礦、氧化鋁和鋁資產出售給美國鋁業公司（Alcoa），交易價值為56億美元。
+
+---
+
+### 2026-07-01 07:16:48  #其他
+
+澳大利亞證券交易所：修訂後的方案將推行全企業統一方案，內容包括重構工作流、交付方式與目標成果。
+
+---
+
+### 2026-07-01 07:16:23  #Trading Economics #Economy #Australia #Industry Index #Importance 2
+
+Australian Industry Conditions Inch Higher — Australia’s Industry Index edged up 0.5 points to -30.0 in June 2026, signaling modest relief as lower fuel prices eased energy-related pressures. Yet higher costs and lingering uncertainty kept conditions weak. New orders fell 5.1 points to -41.0, among the lowest since the pandemic, underscoring thin pipelines, delayed decisions, and weak enquiries. Input volumes rose 3.3 points but stayed flat on trend, while activity and sales eased 8.7 points to -42.4. Employment remained in contraction at -15.5, constrained by skilled labor shortages, rising wages, and hiring difficulties. Cost pressures intensified: input prices surged 15.8 points to 80.5, while sales prices added 1.0 point to 19.2, leaving a record 61.3-point margin gap. Capacity utilisation eased to 72.8%, weighed by high energy and input costs, freight disruptions, labor shortages, and regulatory hurdles. Looking ahead, subdued investment, tax burdens, and persistent uncertainty are expected to keep utilisation under strain.
+
+---
+
+### 2026-07-01 07:16:10  #其他
+
+澳交所與澳大利亞證券與投資委員會及澳大利亞儲備銀行達成修訂後的轉型計劃。
+
+---
+
+### 2026-07-01 07:14:49  #其他
+
+【5月末銀行理財規模超35萬億元，創歷史新高】繼一季度出現階段性規模縮水後，銀行理財市場二季度以來迎來強勢回暖，4月末、5月末存續規模持續攀升。華源證券固收廖志明團隊研報統計資料（全文資料來源）顯示，截至2026年5月末，全市場銀行理財存續規模達35.1萬億元，創下歷史新高。（證券日報）
+
+---
+
+### 2026-07-01 07:14:23  #公司
+
+【波音公司：此次IT系統故障影響了計算機系統和應用程式】波音公司週二表示，一次計劃外的IT系統故障影響了其部分計算機系統和應用程式。據《Air Current》援引知情人士的話報道，此次故障“嚴重擾亂”了這家航空航天公司的商用和軍用生產。波音公司未對該報道置評，但表示：“我們已查明故障原因——沒有理由認為這是網路攻擊所致——我們的IT團隊正在努力讓所有系統恢復執行。”據報道，該公司雖在季度最後一天完成了部分交付，但受此次故障影響，商用客機的最終檢查和文書工作基本陷入停滯。
+
+---
+
+### 2026-07-01 07:13:07  #MKT News #Star Stocks #Microsoft #Market Themes #Magnificent 7 #MSFT.O
+
+Business Insider reported Microsoft (MSFT.O) will cut under 2.5% of its workforce.
+
+---
+
+### 2026-07-01 07:12:57  #MKT News #MSFT.O #Impact bearish
+
+According to Business Insider, Microsoft (MSFT.O) plans to announce layoffs next week.
+
+---
+
+### 2026-07-01 07:12:15  #公司
+
+【微軟計劃新一輪裁員，數千崗位受波及】據知情人士透露，微軟持續推進成本管控工作，這家科技巨頭即將宣佈新一輪裁員計劃。知情人士稱，本次裁員將波及數千個崗位，涵蓋銷售、諮詢部門，Xbox 遊戲業務板塊也在裁員範圍內。知情人士補充道，本輪裁員規模大機率小於去年同類裁員動作，本次裁減人數不足公司 22 萬名員工總規模的 2.5%。因涉及敏感資訊，相關訊息源要求匿名。微軟計劃於下週公佈裁員訊息，不過確切釋出時間仍存在變動可能。其中一名知情人士表示，部分受影響員工會直接獲得內部轉崗機會。
+
+---
+
+### 2026-07-01 07:10:34  #MKT News #Star Stocks #MSFT.O #Impact bearish
+
+Market sources: Microsoft (MSFT.O) plans a new round of layoffs, affecting thousands of jobs.
+
+---
+
+### 2026-07-01 07:10:00  #其他
+
+微軟計劃新一輪裁員，數千崗位受影響。
 
 ---
 
@@ -15001,347 +15283,5 @@ Japan | Retail sales (YoY) (May) | actual 5.3% | consensus 3.2% | previous 2.10%
 ### 2026-06-29 07:47:11  #Trading Economics #Markets #United States #Stock Market #Importance 2
 
 US Futures Climb Ahead of Peace Talks — US stock futures rose on Monday following reports that Washington and Tehran have agreed to halt attacks against each other before peace talks resume in Doha this week. The conflict had escalated since Thursday, with Iran targeting a container ship, a vessel carrying Qatari oil, and military bases in Kuwait and Bahrain, triggering multiple retaliatory US strikes. Meanwhile, Wall Street is coming off a mixed week as investors rotated out of technology stocks and into other sectors. The S&P 500 and Nasdaq Composite fell 1.95% and 4.6%, respectively, last week, while the Dow gained 0.6%. Megacap technology stocks led the declines, with Nvidia and Alphabet each dropping more than 8%, while Apple, Amazon, and Meta lost over 4% apiece. SpaceX also plunged 17%, erasing nearly all of its gains since its market debut on June 12.
-
----
-
-### 2026-06-29 07:46:53  #其他
-
-本週公開市場7天期逆回購到期量22655億元，較上週進一步增逾17%。
-
----
-
-### 2026-06-29 07:46:34  #市場 #國際
-
-基準10年期日本國債期貨早盤下跌0.24點。
-
----
-
-### 2026-06-29 07:46:25  #其他
-
-【國際清算銀行：全球經濟面臨多重壓力，包括債務高企和AI熱潮等】國際清算銀行(BIS)稱，從公共債務上升到金融脆弱性，再到人工智慧(AI)熱潮的可持續性，這些全球性壓力正在加劇風險，凸顯出審慎制定政策的必要性。國際清算銀行週日釋出的《年度經濟報告》警告稱，當前存在一系列複雜的脆弱性因素，包括財政狀況緊張、供應衝擊持續以及通脹再次居高不下的風險。該銀行表示，儘管近幾個月來經濟活動保持韌性，但決策者必須果斷採取行動，以維護穩定。“政策舉措必須相互配合，以避免對全球經濟形成掣肘。歸根結底，成功取決於穩健的財政和金融基礎，”國際清算銀行(BIS)總經理德科斯(Pablo Hernandez de Cos)表示。
-
----
-
-### 2026-06-29 07:45:44  #市場 #國際
-
-日本日經平均指數期貨早盤上漲0.63%。
-
----
-
-### 2026-06-29 07:44:57  #宏觀
-
-【經濟日報金觀平：為靈活就業者消除後顧之憂】近日，國務院印發《實施就業優先戰略“十五五”規劃》，明確提出“拓寬靈活就業、新就業形態發展渠道”，強調“維護靈活就業、新就業形態勞動者合法權益”，以消除從業者後顧之憂，為靈活就業、新就業形態注入更多確定性，進一步推動靈活就業、新就業形態健康發展。靈活就業、新就業形態進出門檻低、活力強，已成為吸納就業的重要“蓄水池”。中華全國總工會資料顯示，新就業形態勞動者約8400萬人；根據人社部資料，去年中國靈活就業人員規模已超過2億人。平臺企業要真正壓實責任、強化治理，這是靈活就業、新就業形態健康發展的重要前提。平臺要把派單邏輯、收入計算、配送路線納入協商議題，更好保障勞動者的知情權、參與權和選擇權；不得透過加盟、代理承攬等方式刻意拉長用工鏈條，或讓勞動者註冊為個體工商戶成為商事主體來規避勞動關係、轉嫁用工風險。
-
----
-
-### 2026-06-29 07:44:13  #其他
-
-【約三分之一主權財富基金擬增加對私募資產的配置 傳統股債風險升高】一項行業調查顯示，在傳統債股投資組合面臨的風險不斷上升之際，全球規模最大的公共投資機構計劃提高對私募和流動性較低資產的配置。接受景順調查的機構中，約三分之一的主權財富基金計劃在2026年增加對私募信貸、私募股權和基礎設施資產的配置，近五分之一打算降低對股票的敞口。
-
----
-
-### 2026-06-29 07:43:17  #其他
-
-澳大利亞儲備銀行助理行長肯特：澳大利亞儲備銀行將更好地應對下一次危機。
-
----
-
-### 2026-06-29 07:42:13  #市場 #國際
-
-【日經指數可能因潛在的逢低吸納買盤而上漲】在基準指數上週五大幅下跌之後，日本股市可能因潛在的逢低吸納買盤而上漲。然而，在週末美國和伊朗之間發生拉鋸式攻擊的情況下，漲幅可能會受到限制，這給兩國之間脆弱的和平協議帶來了壓力。在新加坡交易所，日經指數期貨上漲355點，報70130點。日經指數上週五收盤下跌4.15%，報69360.88點。
-
----
-
-### 2026-06-29 07:41:40  #其他
-
-澳大利亞儲備銀行助理行長肯特：負利率原則上可以提供額外的刺激。長期負利率會損害市場功能。
-
----
-
-### 2026-06-29 07:40:57  #公司 #國際
-
-【日本京都站發生列車脫軌事故 暫無人員傷亡】據日本廣播協會報道，當地時間29日5時13分左右，近畿日本鐵道公司一列4節編組列車在京都站發生脫軌事故。 該列車為從京都站開往橿原神宮前站的始發列車，車上約有10名乘客。目前尚未收到人員傷亡報告。 現場畫面顯示，該列車駛離站臺不久後在一處左轉彎處發生脫軌，脫軌的列車部位是第2節和第3節車廂的連線處。近畿日本鐵道公司說，車上乘客已被引導下車。
-
----
-
-### 2026-06-29 07:40:41  #MKT News #Market Themes #AI Revolution #Chip Wars #WTI #Impact bearish #Nasdaq100 #Impact bullish
-
-【Huatai Securities: Bulk-chemical cyclical recovery likely; electronic chemicals to benefit from AI, domestic substitution】Huatai Securities research note: Escalating Middle East tensions are disrupting global oil and gas supply-demand, temporarily lifting oil prices and driving inventory draws; but high prices are already causing demand destruction, and as supply constraints ease marginally the oil-price midpoint could gradually return toward equilibrium. In bulk chemicals, capex growth has clearly turned since H2 2025; measures to curb redundant competition, dual-carbon control and the exit of backward overseas capacity are promoting optimization of existing capacity and point to a capacity-cycle inflection. In electronic chemicals, AI compute growth, advanced process nodes, advanced packaging and domestic substitution are lifting semiconductor-material demand, and overseas supply disruptions could boost spot conditions for electronic specialty gases and other critical materials.
-
----
-
-### 2026-06-29 07:40:22  #公司 #市場
-
-【磷化銦板塊自二季度以來持續走強 基金經理表示中長期配置價值突出】作為AI算力光互連最底層且不可替代的半導體基石，磷化銦（InP）板塊自二季度以來持續走強，成為機構與遊資同步加碼的核心賽道，呈現出量價齊升的趨勢性行情。6月22日，興業科技公告以5500萬元收購磷化銦相關業務資產後，連續斬獲五個一字板；宿遷聯盛6月初宣佈設立合資公司，佈局磷化銦襯底的研發、生產與銷售，股價隨之走出17連陽的強勢行情。二級市場整體熱度同步攀升，Wind磷化銦指數6月以來累計大漲25.31%，6月25日站上4211.71點，創下階段新高。板塊成交活躍度顯著提升，近一個月日均成交額突破320億元。“本輪行情並非短期題材炒作，其背後是全球AI算力建設浪潮持續向上遊傳導的產業邏輯。”多位公募基金經理在接受證券時報記者採訪時指出，磷化銦產業鏈具有極高的進入壁壘，且面臨嚴重的供需錯配，疊加國產替代加速等因素共振，行業具備持續多年的業績兌現基礎，中長期配置價值突出。
-
----
-
-### 2026-06-29 07:39:47  #其他
-
-澳大利亞儲備銀行助理行長肯特：澳大利亞或將考慮更早使用政策工具，並前置提供支援措施。
-
----
-
-### 2026-06-29 07:39:07  #其他
-
-澳大利亞儲備銀行助理行長肯特：澳大利亞的量化寬鬆效應可能弱於其他地區。
-
----
-
-### 2026-06-29 07:37:56  #其他
-
-【馬斯克宣佈Grok 4.5開啟SpaceX與特斯拉內部私測，效能或超越Opus】馬斯克當地時間6月28日發文稱，旗下最新一代大語言模型Grok 4.5已正式在SpaceX和特斯拉內部開啟私測。據馬斯克透露，Grok 4.5基於1.5萬億引數的V9基礎模型打造，並在補充訓練中特別加入了熱門AI程式設計工具Cursor的資料。早期的評測結果顯示，該模型的效能已經接近、甚至可能超越了Anthropic的旗艦模型Claude Opus。目前，強化學習（RL）仍在持續顯著地最佳化該模型，其配套的“Grok Build”測試基準也在日趨完善。此外，馬斯克還表示，SpaceX在今年接下來的時間裡，每月都將釋出完全從頭開始訓練的新模型。
-
----
-
-### 2026-06-29 07:37:46  #市場 #國際
-
-【油價漲幅收窄 美伊據報同意停止互襲】油價漲幅收窄，美伊據報同意停止互相攻擊。之前一艘載有卡達原油的超級油輪在霍爾木茲海峽附近遇襲，導致局勢一度緊張。布倫特原油期貨一度漲1.9%，至每桶73.39美元，之後部分回吐漲幅；WTI原油期貨位於每桶70美元附近。在週末針鋒相對的衝突中，德黑蘭襲擊了霍爾木茲海峽附近的這艘油輪，美國隨後對伊朗軍事目標發動打擊。據Axios援引未具名美國官員的訊息報道，雙方已同意週二在多哈舉行會談。
-
----
-
-### 2026-06-29 07:37:37  #其他
-
-【公募基金“中考”即將收官 業績有望創出歷史最佳紀錄】還有兩個交易日，今年公募基金“中考”即將收官。目前來看，上半年基金的業績有望創出歷史最佳紀錄。今年以來，A股走出極致結構性行情，AI算力等高景氣賽道持續走出獨立行情，主動權益基金收益格局顯著分化，呈現出“近科技則強、遠科技則弱”的特徵。重倉科技賽道的基金淨值大幅飆升，翻倍基金數量超過百隻、最高收益率約175%均有望創出基金“中考”最高紀錄。值得注意的是，參考歷史案例，基金上半年若有超高收益，下半年想要延續上半年的優秀業績，將面臨波動壓力，且收益增厚空間有限。
-
----
-
-### 2026-06-29 07:37:13  #其他
-
-澳大利亞儲備銀行助理行長肯特：會考慮對通貨緊縮採取更果斷的應對措施。
-
----
-
-### 2026-06-29 07:37:06  #觀點 #國際
-
-【華泰證券：大宗化工景氣修復可期 電子化學品受益AI與國產替代】華泰證券研報認為，中東地緣衝突加劇全球油氣供需擾動，階段性推升油價並帶動庫存去化，但高油價下需求破壞亦逐步顯現，後續伴隨供應約束邊際緩解，油價中樞或逐步迴歸均衡。大宗化工方面，2025年下半年以來化工行業資本開支增速已出現明顯轉向，疊加“反內卷”“碳雙控”等政策推動存量最佳化，以及海外落後產能退出，行業產能週期拐點逐步明確。電子化學品方面，AI算力、先進製程、先進封裝及國產替代共同拉動半導體材料需求，海外供給擾動亦有望帶動部分電子特氣及關鍵材料景氣上行。
-
----
-
-### 2026-06-29 07:36:56  #其他
-
-澳大利亞儲備銀行助理行長肯特：委員會會可能對低於目標的通脹容忍度較低。
-
----
-
-### 2026-06-29 07:34:54  #MKT News #Important #Commodities #Energy
-
-Sources said Venezuela's Amuay refinery was shut by a power outage; its daily throughput was 64.5 bpd.
-
----
-
-### 2026-06-29 07:34:30  #其他
-
-瑞銀將紐西蘭航空目標股價下調4.8%，至每股0.40紐西蘭元。
-
----
-
-### 2026-06-29 07:34:00  #其他
-
-訊息人士稱，委內瑞拉日產能64.5萬桶的阿穆艾煉油廠因斷電停產。
-
----
-
-### 2026-06-29 07:33:40  #公司 #市場
-
-【AI短劇成為行業主流 流量成本持續走高】依託飛速進步的影片生成模型和高效的智慧製作工具，國內短劇產業正迅速“AI化”。一個顯著標志是，AI短劇如今已成為行業絕對主流。行業權威研究機構DataEye劇查查向證券時報記者提供的資料顯示，今年一季度國內全行業上線短劇約12.8萬部，其中AI短劇佔比超95%。AI短劇產能大爆發的另一面是行業流量競爭日益加劇，流量成本持續走高。“AI短劇製作端成本大概下降了90%，但流量成本同比上漲了超過100%，與此同時，收益端下滑了50%以上。”DataEye劇查查副總裁林啟文向證券時報記者表示。
-
----
-
-### 2026-06-29 07:33:07  #其他
-
-【澳大利亞工黨在民調中領先】鑑於自今年年初以來右翼政黨一國黨的崛起，澳大利亞的政治民調正變得引人注目。上週進行並於週一發表在《澳大利亞人報》上的一項Newspoll民調顯示，執政的工黨政府在5月份宣佈對其不受歡迎的稅收改革方案進行修改後，再次領先於一國黨。對工黨的核心支援率從30%增至33%，領先於一國黨，後者的支援率從31%降至29%。與此同時，保守的自由黨-國家黨聯盟的支援率創下17%的歷史新低，綠黨的支援率為13%。
-
----
-
-### 2026-06-29 07:31:47  #市場
-
-新加坡交易所日經股指期貨開盤上漲350點，報70125點。
-
----
-
-### 2026-06-29 07:31:36  #公司
-
-蘋果公司：注意到地圖搜尋、路線規劃及導航服務出現中斷。
-
----
-
-### 2026-06-29 07:31:16  #公司 #觀點
-
-【中信建投：第二批存量基金集中調整業績基準】中信建投研報指出，6月26日，易方達、華夏、廣發、國泰基金等超90家基金管理人密集釋出旗下部分存量產品業績比較基準調整的公告，這也是繼4月30日首批195只公募基金之後，第二批落實基準調整的產品。本次調整涉及權益類、債券類、FOF類、QDII類等多種型別的產品，推動基金產品風格進一步清晰。從近一個月的市場表現看，首批基準調整平穩落地，“依法合規、貼合實際運作、優先調整基準而非調倉”的原則貫穿始終，市場執行平穩有序。
-
----
-
-### 2026-06-29 07:29:52  #公司
-
-【A股股票回購一覽：3家公司披露回購進展】Wind資料顯示，6月29日，3家公司共釋出3個股票回購相關進展。其中，1家公司首次披露股票回購預案，2家公司回購方案已實施完畢。從首次披露回購預案來看，當日共1家公司股票回購預案金額超千萬。金山辦公回購預案金額最高，擬回購不超5.0億元。從已完成回購來看，當日共2家公司回購金額超千萬。國脈文化、奧特維已完成回購金額最高，分別回購5000.11萬元、2511.16萬元。截至6月29日，今年以來已有661個回購方案已實施完畢，涉及545家公司，其中168家公司已完成回購金額超億元。其中京東方A、寧德時代、徐工機械回購金額居前，分別已完成回購57.03億元、43.86億元、30.71億元。
-
----
-
-### 2026-06-29 07:29:49  #公司 #市場 #觀點
-
-【中信建投：光棒擴產潮無需過度擔憂，GPT-5.6釋出，持續推薦AI產業鏈】中信建投研報指出，光棒及光纖擴產潮來襲。今年以來，光纖價格大幅上漲，投資回報率顯著提升，推動亨通光電、遠東股份、通鼎互聯、合盛矽業、大族鐳射等啟動光棒擴產計劃。我們認為，AI的發展對光纖的需求拉動明顯，目前行業依然供不應求。雖然多家公司計劃擴產，但一是多數公司過往光棒製造經驗較少，是否可以如期擴產仍需觀察，二是即使如期擴產，但大部分產能釋放要在明年下半年或者更晚，因此對於今年、甚至明年的行業供需格局影響不大，而且AI的需求也可能更為強勁，因此短期內無需過度擔憂。OpenAI釋出新一代AI模型GPT-5.6系列，包含Sol、Terra、Luna三個版本。我們繼續對AI大模型保持樂觀。我們持續推薦AI產業鏈，建議持續重點配置AI算力產業鏈。
-
----
-
-### 2026-06-29 07:29:25  #市場 #央行
-
-【澳大利亞股市開盤料將小幅走高】澳大利亞股市在本交易周伊始料將小幅走高。在週一開盤前，ASX期貨上漲0.2%，表明S&P/ASX 200指數將收復上週累計0.7%的跌幅。該基準指數仍有望實現連續第三個月度上漲，但澳大利亞財政年度將於6月30日結束，這可能會促使一些投資者拋售表現不佳的股票。交易員還將關注週二釋出的澳大利亞央行最新一次利率制定會議的紀要。開盤前，Karoon Energy表示將於下個月開始新的股票回購。Ramelius Resources同意以2.07億美元出售其Edna May黃金中心。
-
----
-
-### 2026-06-29 07:29:18  #公司
-
-【信用卡APP退場 行業迎來經營模式重構】6月30日，中國銀行信用卡APP“繽紛生活”將全面停止服務，相關功能遷移至“中國銀行”APP。過去幾年間，在最佳化成本的考量下，中小銀行紛紛放棄開發信用卡獨立APP，將其功能合併至手機銀行APP中，國有大行、股份行、中小銀行亦陸續關停線下異地分中心。線上整合、線下關停，國內信用卡行業正告別粗放擴張週期，迎來經營模式重構。
-
----
-
-### 2026-06-29 07:27:31  #其他
-
-【世界海拔最低超深特稠油油田累計產量突破千萬噸】記者今天（29日）從中國石油瞭解到，位於新疆吐魯番火焰山下，世界海拔最低超深特稠油油田——魯克沁油田累計產油量突破1000萬噸。超深特稠油，是指埋藏在地下數千米、黏度高達常規原油百倍以上、常溫下狀如黑泥幾乎無流動性的極端難採石油資源。
-
----
-
-### 2026-06-29 07:26:47  #國際
-
-【真主黨：以色列發動襲擊，公然違反停火協議】據一則社交媒體平臺釋出的訊息，真主黨表示以色列軍方週日在黎巴嫩境內實施襲擊，此舉公然違背停火協議。真主黨稱己方至今始終遵守停火約定。其表示已留意到以色列多項違反停火的行為，並保留保衛本國及民眾的權利。
-
----
-
-### 2026-06-29 07:25:25  #市場
-
-【上漲支撐因素鬆動 黃金下半年面臨“壓力測試”】站在2026年年中，國際、國內金價較1月曆史高點已累計回撤近30%，呈現極罕見的高位劇烈調整。展望後市，業內人士表示，黃金的價格走勢是該資產與股市、利率、油價之間多重關係博弈的結果，金價的短期預測變得愈發困難。分析人士認為，投資者應謹防黃金的“去美元化”敘事在當前市場環境下被濫用，警惕以“長期慢變數”的敘事為依據，指導“短期快變數”的交易。這次下跌猶如一場“壓力測試”，讓市場關注點重新回到企業基本面。（上海證券報）
-
----
-
-### 2026-06-29 07:24:46  #MKT News #Important #Brent #Impact bearish #WTI
-
-U.S. officials said technical talks with Iran are expected to continue across areas of a memorandum of understanding. Both sides will, for now, exercise restraint and vessels may transit freely.
-
----
-
-### 2026-06-29 07:24:27  #焦點 #國際
-
-一名美國官員表示：與伊朗的技術性會談將按計劃繼續就諒解備忘錄的所有領域進行，雙方將暫時擱置爭議，船隻可自由通行。
-
----
-
-### 2026-06-29 07:23:21  #MKT News #Commodities #Energy #WTI #Impact bullish #Brent #DXY #Impact bearish
-
-【INVESCO: Sovereign investors shift toward energy assets, flag dollar concerns】INVESCO said in a Monday survey that sovereign wealth funds and central banks managing $29 tln are reallocating toward energy assets and expressing concern about the dollar, reflecting portfolio reassessments driven by unprecedented geopolitical shifts. The survey of 90 sovereign wealth funds and 54 central banks found that amid trade tariffs, waterway closures and conflicts in Ukraine and the Middle East, investors are prioritizing diversification and portfolios able to withstand shocks and remain broadly stable. About 80% of respondents said energy security and energy-transition infrastructure are the most reliable ways to boost portfolio resilience; INVESCO said infrastructure will account for 9% of sovereign wealth fund assets by 2026. INVESCO noted that demand for energy-intensive AI infrastructure is increasing the appeal of such assets. INVESCO research head Benjamin Jones said resilience is becoming a requirement rather than a luxury.
-
----
-
-### 2026-06-29 07:23:01  #公司 #國際
-
-【瑞為技術尋求透過香港IPO募資6.08億港元】根據呈交香港交易所的檔案，廈門瑞為資訊科技股份有限公司香港上市擬發行2810萬股股份，發行價為每股21.66港元。該公司勢將募資6.08億港元（7750萬美元）。預計將於7月8日掛牌上市。華泰國際、建銀國際和農銀國際為聯席保薦人。
-
----
-
-### 2026-06-29 07:22:57  #Trading Economics #Markets #Commodity #Importance 0
-
-Brent Rises to Start the Week — Brent climbed above $72 per barrel on Monday, recovering modestly from four-month lows after a series of tit-for-tat attacks between the US and Iran over the Strait of Hormuz. The two sides, however, agreed to halt further strikes ahead of peace talks set to resume later this week. The exchange of attacks began on Thursday when Iran targeted a container ship, prompting US strikes the following day. Washington launched another round of attacks overnight on Saturday after Tehran struck a vessel carrying Qatari oil. Meanwhile, Axios reported that US and Iranian officials are scheduled to meet in Doha on Tuesday to discuss the Strait of Hormuz and other issues aimed at ending the conflict. Despite the renewed tensions, shipping activity through the vital waterway has picked up since the US and Iran reached an interim peace agreement, although shipowners remain cautious as hundreds of vessels are still stranded in the Persian Gulf.
-
----
-
-### 2026-06-29 07:21:27  #Trading Economics #Markets #Commodity #Importance 2
-
-Oil Rises to Start the Week — Crude oil climbed to around $70 per barrel on Monday, recovering modestly from four-month lows after a series of tit-for-tat attacks between the US and Iran over the Strait of Hormuz. The two sides, however, agreed to halt further strikes ahead of peace talks set to resume later this week. The exchange of attacks began on Thursday when Iran targeted a container ship, prompting US strikes the following day. Washington launched another round of attacks overnight on Saturday after Tehran struck a vessel carrying Qatari oil. Meanwhile, Axios reported that US and Iranian officials are scheduled to meet in Doha on Tuesday to discuss the Strait of Hormuz and other issues aimed at ending the conflict. Despite the renewed tensions, shipping activity through the vital waterway has picked up since the US and Iran reached an interim peace agreement, although shipowners remain cautious as hundreds of vessels are still stranded in the Persian Gulf.
-
----
-
-### 2026-06-29 07:19:47  #觀點 #央行 #國際
-
-【全球科技股同步回撥 AI主線地位不改但再平衡需求上升】上週全球市場科技產業鏈同步震盪，海外相關賽道估值下行對A股構成傳導壓力，A股呈現“衝高回落，極致分化”格局。綜合本週券商策略研報來看，美聯儲加息預期反覆、科技板塊交易擁擠度抬升，以及AI產業面訊息擾動共同壓制了科技板塊風險偏好。在中期維度上，AI產業上行趨勢尚未出現實質性拐點，各細分賽道景氣度持續兌現，行情延續的基礎仍存。東吳證券表示，近期全球市場波動較大，除了美聯儲加息預期反覆、海內外資本市場季度末資金面再平衡帶來的流動性層面波動之外，AI產業本身也產生了一些新的爭議。例如，市場擔憂海外大型AI企業激進的資本支出可能導致現金流惡化，以及上游部分環節高價可能反噬下游需求或毛利等。但該機構認為，不論是從流動性還是從產業趨勢來看，當前“AI算力行情見頂”的判斷尚不成立。（上海證券報）
-
----
-
-### 2026-06-29 07:19:39  #公司
-
-【6月份A股公司密集分紅 派現總額近5700億元】據中證報，截至6月28日，Wind資料顯示，以除權除息日為基準，6月份已實施和即將實施2025年度分紅方案的上市公司超過1700家，累計派發現金紅利總額達5690億元。業內人士認為，A股公司近期集中兌現對股東的回報，分紅節奏之密集、規模之可觀，折射出上市公司整體經營回穩、現金流充裕的積極態勢。資料顯示，6月29日至7月3日，超200家公司即將實施2025年度分紅方案，預計合計派現金額超800億元，投資者有望在二季度收官之際收穫一份實實在在的“現金禮包”。
-
----
-
-### 2026-06-29 07:19:17  #其他
-
-【萬億發債潮疊加評級上調 券商大力融資謀轉型】Choice資料顯示，截至6月26日，年內已有61家券商累計發行521只債券，總髮行規模超過1.22萬億元，較去年同期的5274.98億元同比增長超過131%。券商融資迎來集中視窗期，年內發債規模已突破萬億元大關，頭部機構優勢持續放大。與此同時，多家券商次級債信用評級獲得上調，行業資本實力、經營質量獲得市場認可。在業務升級和併購整合的多重驅動下，拓寬資本補充渠道已成為券商穩健經營、擴張發展的核心抓手。（上海證券報）
-
----
-
-### 2026-06-29 07:19:10  #MKT News #Important #Nasdaq100 #Impact bullish #S&P500 #Dow
-
-In early trade, Nasdaq futures rose 1.0%, S&P 500 futures gained 0.6% and Dow futures were up 0.38%.
-
----
-
-### 2026-06-29 07:19:01  #市場
-
-【美股納斯達克100指數期貨漲超1%】美股納斯達克100指數期貨漲超1%，標普500指數期貨漲0.64%，道瓊斯指數期貨漲0.38%。
-
----
-
-### 2026-06-29 07:18:27  #其他
-
-Downdetector：使用者報告顯示DoorDash出現問題。
-
----
-
-### 2026-06-29 07:18:10  #其他
-
-【香港迴歸29年來 內地與香港貿易值年均增長6.7%】據深圳海關統計，香港迴歸29年來，內地與香港貿易值從1997年的4208.7億元增長至2025年的2.6萬億元，年均增長6.7%，彰顯強勁發展勢頭。今年前5個月，內地與香港貿易往來更加緊密，進出口總值達1.4萬億元，同比增長48.6%，實現兩位數增長。經深圳口岸進出口值佔比超七成，同比增長58.7%。
-
----
-
-### 2026-06-29 07:16:30  #公司 #觀點 #國際
-
-【華泰證券A股策略：波動期均衡佈局】華泰證券釋出A股策略研報稱，上週A股科技波動率明顯放大，三條線索交叉驗證目前或位於階段性整固。其一，外部座標上，韓股目前或進入“加倉彈藥收斂、強平抬頭”階段，尾部風險有所累積；其二，產業趨勢上，蘋果漲價引發利潤分配的擔憂，但Anthropic的ARR等高頻指標顯示AI需求仍在高位，且考慮到蘋果漲價衝擊的是儲存下游偏邊緣的消費電子需求，不必過度擔憂；其三，短期美國PCE走高與季末基金風格迴歸或帶來擾動，但油價回落已使外部壓制邊際鬆動，關注Q2財報季方向。配置上，短期關注再平衡，以紅利為安全墊，科技中關注半導體裝置、儲存、MLCC，關注財報存在修復動力的券商等。
-
----
-
-### 2026-06-29 07:16:02  #公司 #國際
-
-【AR遊戲資料被用於軍事目的，國家安全部發布安全提示】國家安全部發布安全提示，近期有外媒披露某知名AR手遊旗下人工智慧公司獲取了遊戲使用者上傳的近300億份環境掃描資料，可能將這些資料用於訓練能識別和理解物理空間的人工智慧模型。由於該人工智慧公司與某國軍工有合作關係，相關模型可能被用於軍事目的。該報道引起了全世界對“民用資料軍事化應用”的擔憂，也為數智時代的資料安全問題再次敲響了警鐘。（央視新聞）
-
----
-
-### 2026-06-29 07:15:56  #市場
-
-【全球最大的黃金ETF SPDR Gold Trust持倉較前日減少2.00噸】截至2026年06月26日，全球最大的黃金ETF SPDR Gold Trust持倉量為1005.08噸，較前一個交易日減少2.00噸。
-
----
-
-### 2026-06-29 07:15:14  #其他
-
-【新股提示：託倫斯、北交所康美特今日申購】今日可申購託倫斯和北交所新股康美特。託倫斯發行市盈率44.82倍，申購程式碼為：301583，申購價格：22.60元，單一賬戶申購上限0.95萬股；康美特發行市盈率14.98倍，申購程式碼為：920189，申購價格：8.14元。
-
----
-
-### 2026-06-29 07:14:22  #其他
-
-真主黨表示，它保留保衛其國家和人民的權利。
-
----
-
-### 2026-06-29 07:13:50
-
-【美伊同意停止互襲 30日在多哈繼續談判】據美國阿克西奧斯新聞網站28日報道，一名美國高階官員說，美國和伊朗已同意停止互相襲擊，雙方將於30日在卡達首都多哈繼續談判，聚焦霍爾木茲海峽問題。 (新華社)
-
----
-
-### 2026-06-29 07:13:44  #其他
-
-真主黨稱，迄今為止，其一直遵守停火協議。
-
----
-
-### 2026-06-29 07:13:34  #國際
-
-真主黨：以色列的襲擊公然違反了停火協議。
-
----
-
-### 2026-06-29 07:13:06  #公司 #國際
-
-【三星與SK今日將宣佈2000萬億韓元超大規模投資，佈局AI生態】韓國總統李在明將於今日（6月29日）在青瓦臺主持召開會議。屆時，三星電子會長李在鎔和SK集團會長崔泰源將共同出席，正式宣佈一項在未來10年內總額逼近2000萬億韓元（約合1.3萬億美元）的跨時代本土投資計劃。該計劃的核心是打破傳統的首都圈集中模式，向以全羅道為中心的西南地區進行大舉投資。其中，三星電子計劃將光州原空軍基地選為半導體前道工序晶圓廠（Fab）的核心選址，預計建設4-5座晶圓廠；SK海力士也將在光州打造4-5座前道晶圓廠。僅在半導體新設專案上，兩家巨頭的投資額預計將各達600萬億韓元，遠超此前京畿道龍仁叢集的規模。
 
 ---
