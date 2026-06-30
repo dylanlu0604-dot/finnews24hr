@@ -1,7 +1,39 @@
 {
-  "updated": "2026-07-01 00:50:28",
-  "count": 13917,
+  "updated": "2026-07-01 00:54:25",
+  "count": 13918,
   "items": [
+    {
+      "id": "4963518",
+      "time": "2026-07-01 00:52:13",
+      "tags": [
+        "國際"
+      ],
+      "text": "福特汽車正在美國召回超74.1萬輛汽車，原因是變速箱故障可能損壞駐車系統，進而提升車輛發生碰撞或人員受傷的風險。"
+    },
+    {
+      "id": "mkt:019f1971-9935-7aab-8c3e-dcb38abb58d1",
+      "time": "2026-07-01 00:51:42",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Israeli military said it scrambled two fighter jets to intercept a civilian airliner over the Mediterranean; European officials said the plane's pilot accidentally transmitted a hijack code."
+    },
+    {
+      "id": "mkt:019f1970-d30e-7aab-8c3e-d1b37ea2264b",
+      "time": "2026-07-01 00:50:52",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "President Trump said Republicans have been treated very fairly by the US Supreme Court."
+    },
+    {
+      "id": "mkt:019f1970-893b-7aab-8c3e-cf4abce0ff47",
+      "time": "2026-07-01 00:50:33",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "President Trump said the Supreme Court's ruling expands presidential control over federal agencies and restores more executive authority to the White House; after losing a birthright citizenship case, he said he will push Congress to pass legislation to correct the decision."
+    },
     {
       "id": "4963517",
       "time": "2026-07-01 00:49:31",
@@ -127686,38 +127718,6 @@
         "其他"
       ],
       "text": "市場訊息：SpaceX 提交發行申請，擬推出期限 5 年、7 年、10 年、20 年及 30 年期高階無擔保債券。"
-    },
-    {
-      "id": "mkt:019ef567-811e-7dd8-b0df-fba8f5172cbc",
-      "time": "2026-06-24 00:54:21",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy"
-      ],
-      "text": "【Mexico and Brazil to cooperate on oil exploration and refining projects】Mexico's Pemex and Brazil's Petrobras said their CEOs signed a non-binding memorandum of understanding in Rio de Janeiro to cooperate on exploration, production and refining to help expand oil reserves. The agreement covers Gulf of Mexico shallow- and deep-water exploration and cooperation on refining, natural gas, petrochemicals and related areas."
-    },
-    {
-      "id": "mkt:019ef565-e5f3-7dd8-b0df-f04582991a45",
-      "time": "2026-06-24 00:52:36",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Tesla",
-        "Market Themes",
-        "Magnificent 7",
-        "TSLA.O",
-        "Impact bullish"
-      ],
-      "text": "【Baird: Tesla–SpaceX merger likely within 12–18 months; Tesla Q2 deliveries 392,900, 2026 deliveries 1.68m, PT $522】Baird analyst Ben Kallo forecasts Tesla will deliver 392,900 vehicles in Q2 and 1.68m vehicles in 2026. He says a Tesla–SpaceX merger is \"very likely\" and could occur within 12–18 months, describing the combination as the \"ultimate direction\" and \"clear and compelling\" with scale benefits for both companies. Kallo reiterates an Outperform rating on Tesla and a $522 price target."
-    },
-    {
-      "id": "4951008",
-      "time": "2026-06-24 00:52:22",
-      "tags": [
-        "其他"
-      ],
-      "text": "LME期銅收跌278美元，報13371美元/噸。LME期鋁收跌132美元，報3232美元/噸。LME期鋅收跌116美元，報3492美元/噸。LME期鉛收跌30美元，報1934美元/噸。LME期鎳收跌582美元，報17172美元/噸。LME期錫收跌3031美元，報51154美元/噸。LME期鈷收平，報56290美元/噸。"
     }
   ]
 }
