@@ -1,7 +1,475 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-07-01 03:20:27_
-_本檔包含 2785 則快訊，約 517885 字_
+_更新時間：2026-07-01 04:23:29_
+_本檔包含 2811 則快訊，約 519176 字_
+
+---
+
+### 2026-06-24 22:29:55  #其他
+
+德國國防部長談F126護衛艦專案：正核查損害索賠，索賠成功可能性很低。
+
+---
+
+### 2026-06-24 22:28:53  #其他
+
+國際銅研究小組：2026年4月全球精煉銅市場出現14.5萬噸缺口。
+
+---
+
+### 2026-06-24 22:28:01  #市場
+
+意法半導體（SOITEC）股價下跌10%。
+
+---
+
+### 2026-06-24 22:27:43  #Trading Economics #Markets #United States #stocks #Importance 1
+
+Realty Income Stock Price Hits 21-week Low — Realty Income shares decreased to 290.50 USD, the lowest since January 2026. Over the past 4 weeks, Realty Income lost 12.64%, and in the last 12 months, it decreased 11.5%.
+
+---
+
+### 2026-06-24 22:27:32  #其他
+
+市場訊息：英國航空與波特航空宣佈達成全新程式碼共享協議。
+
+---
+
+### 2026-06-24 22:27:28  #MKT News
+
+President Trump said he canceled today’s housing press conference and bill-signing ceremony, citing the urgent need to pass the Save America Act. Both events will remain canceled until the bill is passed.
+
+---
+
+### 2026-06-24 22:27:22  #國際
+
+彭博使用者預計美國原油庫存將減少380萬桶。
+
+---
+
+### 2026-06-24 22:27:09  #國際
+
+特朗普：今日的住房新聞釋出會與簽署儀式就此取消，直至我們透過亟需的《拯救美國法案》為止。
+
+---
+
+### 2026-06-24 22:27:03  #MKT News
+
+Leftist candidate Cepeda conceded defeat in Colombia's presidential election.
+
+---
+
+### 2026-06-24 22:27:01  #其他
+
+土耳其外長將於 6 月 25 日至 26 日訪問加拿大。
+
+---
+
+### 2026-06-24 22:26:43  #國際
+
+特朗普：住房新聞釋出會和簽約儀式取消。
+
+---
+
+### 2026-06-24 22:26:36  #公司
+
+【中國貿促會副會長林紅：技術變革、市場格局與合作模式正深刻重塑健康產業】6月24日上午，第四屆鏈博會期間，健康生活主題活動在京成功舉辦。中國貿促會副會長林紅紅出席活動並致辭。國家智慧財產權局專利局醫藥生物發明審查部部長馬文霞、華大集團執行長尹燁作主題發言。林紅紅表示，人人享有健康是全人類的共同願景，技術變革、市場格局與合作模式正深刻重塑健康產業。第四屆鏈博會健康生活鏈展區集中展示了大健康領域的關鍵環節、前沿產品、核心技術與優質服務。期待各方充分利用鏈博會平臺深化交流合作，凝聚全球健康生活產業創新發展和開放合作共識，助力全球健康產業可持續發展，為推動共建人類衛生健康共同體貢獻力量。（中國貿促）
+
+---
+
+### 2026-06-24 22:26:16  #其他
+
+【今年以來廣州白雲機場口岸進出境超1000萬人次】廣州海關24日釋出，今年以來截至6月24日，廣州海關監管經廣州白雲機場口岸進出境人員突破1000萬人次，同比增幅超21%，創口岸歷史同期新高。據瞭解，今年以來，廣州白雲機場口岸新增、加密國際客貨運航線14條，其中13條航線通達共建“一帶一路”國家。目前，廣州白雲機場口岸國際及地區通航點突破100個，國際航空樞紐聯通輻射能力持續增強。“我們持續推進智慧海關建設，綜合應用先期機檢、智慧審圖等技術，保障進境旅客‘無感通關’。密切與多部門合作，實現出境通關‘一次過檢’。”廣州白雲機場海關旅檢一處旅檢四科科長陸放說。今年以來，廣州白雲機場海關累計監管口岸進出境航空器約6.2萬架次，日均進出境人員5.8萬人次，單日客流峰值達6.8萬人次。（新華社）
+
+---
+
+### 2026-06-24 22:25:30  #公司 #國際
+
+【全球40%製藥研發供應鏈在中國 全球CEO扎堆來華】2026夏季達沃斯論壇上，麥肯錫中國區主席倪以理表示，今年是他見全球CEO來華最多的一年，中國市場吸引力持續上升。他指出，目前全球約40%的製藥研發供應鏈在中國，研發人員的速度遠超其他國家。在機器人領域，中國產品正成為歐洲、拉美等地區再工業化的重要支撐。從醫藥到智慧製造，每一個產業鏈環節，中國都能帶來獨特的加速價值。（央視財經）
+
+---
+
+### 2026-06-24 22:24:43  #其他
+
+腦洞科技於2026年6月24日處置4210股美滿電子股票，套現120萬美元。
+
+---
+
+### 2026-06-24 22:24:11  #其他
+
+市場訊息：哥倫比亞左翼候選人塞佩達承認在哥倫比亞總統大選落敗。
+
+---
+
+### 2026-06-24 22:23:31  #其他
+
+德意志銀行表示，加元可能進一步走弱。
+
+---
+
+### 2026-06-24 22:22:37  #公司 #市場 #國際
+
+美國資產管理公司股價下跌。KKR下跌1.5%，黑石下跌3.1%，Blue Owl下跌2.5%，Ares Management下跌2.4%，凱雷集團下跌2.7%。
+
+---
+
+### 2026-06-24 22:20:23  #國際
+
+市場訊息：伊朗議會議長卡利巴夫在巴庫舉辦的伊斯蘭合作組織成員國議會聯盟會議間隙，會見了亞塞拜然總統伊利哈姆・阿利耶夫。
+
+---
+
+### 2026-06-24 22:20:07  #MKT News #Important #Commodities #Energy #WTI #Impact mixed #Brent
+
+U.S. EIA weekly crude oil inventories for the week to June 19 — including U.S. crude, Cushing stocks and the Strategic Petroleum Reserve — due in 10 minutes.
+
+---
+
+### 2026-06-24 22:19:35  #國際
+
+特朗普： 我真實的民調支援率創下歷史新高，感謝大家！！！
+
+---
+
+### 2026-06-24 22:19:31  #市場 #焦點
+
+比特幣跌破61000美元，日內跌2.80%。
+
+---
+
+### 2026-06-24 22:19:21  #MKT News #Market Themes #The Trump Trade
+
+U.S. President Trump said his approval rating has reached an all-time high.
+
+---
+
+### 2026-06-24 22:18:31  #其他
+
+【長城魏牌推出跨界車型高山7 SUV版】長城汽車旗下魏牌高山7 SUV版正式上市，指導價28.58萬元，限時權益價27.08萬元。該車定位於打通MPV舒適度與SUV透過性邊界的跨界車型，基於長城全球首個新能源高階MPV專屬平臺打造。
+
+---
+
+### 2026-06-24 22:18:01  #Trading Economics #Markets #United States #stocks #Importance 1
+
+P&G Stock Price Hits 14-week High — P&G shares increased to 153.07 USD, the highest since March 2026. Over the past 4 weeks, Procter & Gamble gained 6.95%, and in the last 12 months, it decreased 4.65%.
+
+---
+
+### 2026-06-24 22:17:58  #國際
+
+俄聯邦安全會議副主席梅德韋傑夫：澤連斯基的職權早已到期，這一事實意味著他不再享有任何豁免權。
+
+---
+
+### 2026-06-24 22:17:04  #其他
+
+世界衛生組織總幹事譚德塞：法國發現埃博拉病例後無需恐慌，全球感染風險較低。
+
+---
+
+### 2026-06-24 22:16:26  #公司 #國際
+
+【懷進鵬會見法國中央理工集團主席羅曼·索貝朗】6月23日，教育部部長懷進鵬在京會見法國中央理工集團主席羅曼·索貝朗一行，就中法高等教育合作交換意見。 懷進鵬介紹了中國卓越工程師培養改革與實踐情況，充分肯定中央理工集團與中方高校在人才培養、科研合作及推進國際化辦學等方面取得的積極成效，希望雙方高校順應人工智慧、綠色低碳等時代變革要求，豐富合作內涵，拓展合作領域，探索工程人才培養新機制、新模式。 索貝朗介紹了中央理工集團與中方高校的最新合作進展，讚賞中方在人才培養和科技創新等方面取得的成就，表示願進一步深化校際合作，推動更多中央理工集團所屬院校學生來華學習實踐。（教育部）
+
+---
+
+### 2026-06-24 22:15:10  #市場 #國際
+
+【油價盤中跌超4% 美油跌破每桶70美元關口】24日，國際油價盤中顯著下跌。截至北京時間24日21:40，紐約商品交易所8月交貨的輕質原油期貨價格報每桶69.97美元，跌幅為4.43%；8月交貨的倫敦布倫特原油期貨價格報每桶73.59美元，跌至2月底新一輪中東衝突爆發以來的最低水平，較前一個交易日下跌4.53%。分析認為，油價下跌與霍爾木茲海峽運輸恢復預期有關。交易員表示，市場正逐步計入伊朗原油重新進入全球市場以及海峽通航恢復正常的可能性。有分析人士指出，如果相關制裁放鬆，伊朗原油產量和出口可能在數週內恢復增長，因為大量原油已儲存在油輪中。（央視財經）
+
+---
+
+### 2026-06-24 22:14:46  #國際
+
+【魯比奧訪問阿聯酋討論伊朗局勢等】據阿聯酋《海灣時報》24日報道，阿聯酋總統穆罕默德當天與到訪的美國國務卿魯比奧舉行會談。 報道稱，雙方討論了美國與伊朗簽署的諒解備忘錄、確保霍爾木茲海峽全面安全通航的努力，以及維護地區和平與穩定的重要性。魯比奧在會談中重申美國致力於維護阿聯酋安全的承諾。 魯比奧23日抵達阿聯酋開始訪問。訪問期間，魯比奧還與阿聯酋國家安全顧問塔農·本·扎耶德·阿勒納哈揚、副總理兼外交部長阿卜杜拉等高階官員就雙邊關係及地區事務交換意見。 報道稱，阿聯酋是魯比奧此次海灣之行的首站，其後他將訪問科威特和巴林。三國均設有美軍基地。(新華社)
+
+---
+
+### 2026-06-24 22:14:33  #公司 #市場 #焦點
+
+【6月24日增減持彙總】據不完全統計，6月24日盤後，洽洽食品、供銷大集、ST海龍披露增持情況，德爾瑪、深科達、麥克奧迪、諾誠健華、思源電氣、泰晶科技、財富趨勢、方正電機8家A股上市公司披露擬減持情況。
+
+---
+
+### 2026-06-24 22:14:20  #央行 #美聯儲
+
+【貝森特稱沃什對通脹態度強硬 特朗普允許美聯儲自主決策】美國財政部長斯科特·貝森特表達了對新任美聯儲主席凱文·沃什的信心，並稱總統特朗普給予了沃什自主決策的空間。“他談論通脹問題時態度強硬，”貝森特週三在節目中說。他表示，相信沃什“將找到一條能兼顧通脹和經濟的最佳途徑”。
+
+---
+
+### 2026-06-24 22:14:02  #公司
+
+【華為申請“世界”商標引熱議】近日，華為註冊“世界”商標引發熱議。國家智慧財產權局商標局官網披露，華為技術有限公司申請的“世界”商標使用在第12類商品上的註冊申請已獲初步審定，於2026年5月13日進入初審公告階段。
+
+---
+
+### 2026-06-24 22:13:53  #Trading Economics #Markets #United States #stocks #Importance 1
+
+Parker-Hannifin Stock Price Hits 8-week High — Parker-Hannifin shares increased to 965.20 USD, the highest since April 2026. Over the past 4 weeks, Parker -Hannifin gained 11.12%, and in the last 12 months, it increased 42.84%.
+
+---
+
+### 2026-06-24 22:13:42  #其他
+
+【華為釋出5G-A大上行、Token經營等相關成果】2026 MWC 上海期間，華為與國內三大運營商釋出了5G-A大上行和體驗經營、AI煥新主營業務、Token經營等領域的相關成果。（科創板日報）
+
+---
+
+### 2026-06-24 22:13:09  #市場
+
+意法半導體（SOITEC）股票暫停交易，暫停前最新下跌8.6%。
+
+---
+
+### 2026-06-24 22:12:28  #宏觀 #央行 #國際
+
+【貝森特稱沃什對通脹態度強硬 特朗普允許美聯儲自主決策】美國財政部長斯科特·貝森特表達了對新任美聯儲主席凱文·沃什的信心，並稱總統特朗普給予了沃什自主決策的空間。“他談論通脹問題時態度強硬，”貝森特週三在CNBC節目中說。他表示，相信沃什“將找到一條能兼顧通脹和經濟的最佳途徑”。當被問及是否與特朗普討論過當前並非合適降息時機（特朗普長期以來一直呼籲降息）時，貝森特表示，特朗普“無論在公開場合還是私下裡，都表示對凱文·沃什充滿信心”。貝森特預測，在今年餘下時間裡，美國經濟將在不引發通脹的情況下加速增長。在週二晚些時候的另一次講話中，他還預測，隨著伊朗衝突的緩和，物價漲幅將會回落。沃什上週主持了他任內的首次美聯儲政策會議，儘管特朗普極力呼籲降息，但他仍與聯邦公開市場委員會的其他成員一道投票維持利率不變。由於通脹捲土重來，美聯儲決策者逐漸改變了降息傾向，許多人現在認為有理由在2026年提高借貸成本。貝森特週二在紐約經濟俱樂部發表演講後的問答環節中表示，特朗普明白“債券市場搞垮的政府比榴彈炮摧毀的政府還要多”。這番言論顯然是指通脹推高長期借貸成本所帶來的政治後果。他說：“因此，我相信他對美聯儲主席採取正確行動充滿信心。”“關於美聯儲，我聽到了加息的綠燈，”Renaissance Macro Research經濟研究主管Neil Dutta在總結貝森特週二言論的報告中寫道。
+
+---
+
+### 2026-06-24 22:11:59  #Trading Economics #Markets #United States #stocks #Importance 1
+
+Chubb Stock Price Hits 5-week High — Chubb shares increased to 333.99 USD, the highest since May 2026. Over the past 4 weeks, Chubb gained 1.92%, and in the last 12 months, it increased 17.28%.
+
+---
+
+### 2026-06-24 22:11:44  #MKT News #S&P500 #Impact bullish #DXY #Impact bearish #WTI #Impact mixed
+
+US removes sanctions on some individuals linked to Russian banks.
+
+---
+
+### 2026-06-24 22:11:39  #MKT News
+
+White House press secretary Leavitt said President Trump will host a dinner for farmers at the White House on Thursday.
+
+---
+
+### 2026-06-24 22:11:16  #國際
+
+市場訊息：美國解除對部分關聯俄羅斯銀行人員的制裁。
+
+---
+
+### 2026-06-24 22:10:34  #國際
+
+特朗普將於週四在白宮晚宴上款待農民。
+
+---
+
+### 2026-06-24 22:09:32  #MKT News #Macro & Rates #Treasury Yields #US10Y #Impact mixed #S&P500 #Impact bullish
+
+U.S. 30-year Treasury yield fell to 4.8572%, the lowest level since April 15.
+
+---
+
+### 2026-06-24 22:08:47  #Trading Economics #Markets #United States #stocks #Importance 1
+
+Nvidia Stock Price Hits 7-week Low — Nvidia shares decreased to 199.32 USD, the lowest since May 2026. Over the past 4 weeks, Nvidia Corporation lost 7.09%, and in the last 12 months, it increased 29.36%.
+
+---
+
+### 2026-06-24 22:08:21  #國際
+
+美國 30 年期美債收益率跌至 4.8572%，創 4 月 15 日以來新低。
+
+---
+
+### 2026-06-24 22:07:55  #國際
+
+美國郵政署告知國會，根據一項提案，該機構將不為不披露選民登記名單的各州遞送選票。
+
+---
+
+### 2026-06-24 22:07:54  #MKT News
+
+Market sources say the US will remove some individuals from a Russia-related sanctions list.
+
+---
+
+### 2026-06-24 22:07:30  #國際
+
+市場訊息：美國將部分個人從與俄羅斯相關的制裁名單中移除。
+
+---
+
+### 2026-06-24 22:07:01  #Trading Economics #Economy #United States #New Home Sales #Importance 3
+
+US New Home Sales Fall for 2nd Month — Sales of new single-family homes in the US tumbled 7.3% month-over-month to a seasonally adjusted annualized rate of 580 thousand in May 2026, the lowest in four months, following an upwardly revised 626 thousand in April and well below forecasts of 640 thousand. New home sales fell for a second straight month, mainly due to a 26.9% plunge in the West (to 117 thousand) and a 4.1% fall in the South (to 350 thousand). In contrast, sales rose 3% in the Northeast (to 34 thousand) and soared 16.2% in the Midwest (to 79 thousand).
+
+---
+
+### 2026-06-24 22:06:19  #公司 #市場 #國際
+
+【機構：在AI相關擔憂之際，歐元信用違約保護成本微升】隨著對科技股估值的擔憂降低了對風險資產的偏好，為歐元計價信用債提供違約保險的成本上升。瑞訊銀行的Ipek Ozkardeskaya在一份報告中表示，投資者擔心科技公司的高估值，其中一些公司缺乏清晰的盈利途徑。市場等待美國科技公司美光科技的業績，該業績料將於週三美國股市收盤後釋出。該業績可能為AI相關的投資是否值得提供線索。標普全球市場財智資料顯示，歐元高收益信用違約掉期的iTraxx Europe Crossover指數上漲1個基點，報249個基點。
+
+---
+
+### 2026-06-24 22:06:09  #其他
+
+【迪拜連續五年成為全球綠地FDI首選地 一年吸金88.3億美元】fDi Markets資料庫釋出的資料顯示，迪拜連續第五年穩居全球綠地外商直接投資（FDI）專案首選目的地排名首位，在引入FDI的表現上創下其自2015年以來同期最佳水平之一。2025年迪拜吸引了88.3億美元（約324.3億迪拉姆）的綠地FDI資本，已公佈的綠地FDI專案總數增至1253個，較2024年增長10.5%。 (21財經)
+
+---
+
+### 2026-06-24 22:05:22  #市場 #國際
+
+美國10年期國債收益率跌至4.4138%，為5月11日以來的最低水平。
+
+---
+
+### 2026-06-24 22:05:15  #MKT News #Macro & Rates #Treasury Yields #US10Y #Impact bearish #S&P500 #Impact bullish #DXY
+
+U.S. 10-year Treasury yield fell to 4.4138%, the lowest since May 11.
+
+---
+
+### 2026-06-24 22:04:36  #其他
+
+訊息人士透露，雲初創企業 RunPod 融資 1 億美元，投後估值達 10 億美元。
+
+---
+
+### 2026-06-24 22:03:15  #MKT News #Nasdaq100 #Impact bearish
+
+Nasdaq-100 turned negative.
+
+---
+
+### 2026-06-24 22:02:56  #公司 #市場
+
+赫茲全球控股提交最高1億美元的增發申請後，安飛士預算集團股價下跌7.2%。
+
+---
+
+### 2026-06-24 22:02:38  #市場
+
+納斯達克100指數轉跌。
+
+---
+
+### 2026-06-24 22:02:22  #公司 #市場
+
+【光伏太陽能股Sunrun大漲逾26%】光伏太陽能股Sunrun大漲逾26%，該公司宣佈與Renew Home、特斯拉達成合作協議，將為超大規模雲服務商與公用事業企業提供超16吉瓦可調儲能容量。
+
+---
+
+### 2026-06-24 22:02:21  #Trading Economics #Markets #Canada #Stock Market #Importance 1
+
+TSX Slips on High Borrowing Costs and Commodity Weakness — The S&P/TSX Composite Index lost more than 0.5% to trade below 35,000 on Wednesday amid persistently high borrowing costs and weakness in commodity-linked sectors. Gold prices declined as the dollar strengthened on rising bets for further US rate hikes, pressuring mining stocks. Agnico Eagle and WPM shed nearly 3%, while Barrick fell more than 4%. Oil prices also extended this week’s losses on signs that more tankers are set to leave the Strait of Hormuz, easing concerns over energy-driven inflation but weighing on energy shares. Canadian Natural and Imperial Oil lost more than 2%, while Suncor retreated 2.5% and Cenovus shed about 3%. Major banks traded near the flatline, with RBC, BMO, and TD Bank edging lower. In contrast, Canadian tech stocks rebounded from the prior session’s global selloff, with Shopify gaining nearly 3%, while Celestica and Constellation Software rose around 1%.
+
+---
+
+### 2026-06-24 22:02:05  #其他
+
+萊哈里斯科技（L3Harris Technologies）預計今年將向德國軍隊交付新訂單。
+
+---
+
+### 2026-06-24 22:01:57  #其他
+
+高管表示，道達爾能源及其合作伙伴可能“在數週內”就奈米比亞深水金星石油專案做出最終投資決定。
+
+---
+
+### 2026-06-24 22:01:44  #MKT News
+
+U.S. airline shares rose: Delta Air Lines (DAL.N) up 2.6%, Southwest Airlines (LUV.N) up 3.0%, American Airlines Group (AAL.O) up 4.3%, United Airlines (UAL.O) up 4.6%, Alaska Air up 4.7%, JetBlue up 5.2%.
+
+---
+
+### 2026-06-24 22:01:31  #經濟數據 #美國
+
+美國5月新建住宅銷量摺合年率580,000套，預估為639,890套。
+
+---
+
+### 2026-06-24 22:01:16  #國際
+
+【烽火通訊助力PEACE專案完成萬公里級400G超高速跨洋傳輸】近日，由烽火通訊提供Turnkey服務的PEACE國際海纜系統擴容專案（新加坡-埃及段及埃及-法國段）正式投入服務，在跨越亞非歐三大洲的萬公里級海纜鏈路上，成功實現400G超高速業務的部署。未來，烽火通訊將持續深耕海洋通訊前沿技術，加快推動800G跨洋超大容量傳輸系統、多芯光纖、空芯光纖等創新技術的產業化應用。
+
+---
+
+### 2026-06-24 22:01:02  #國際
+
+Mercantile與美國運通及美國律師協會合作，為法律專業人士推出小型企業信用卡。
+
+---
+
+### 2026-06-24 22:00:45  #公司 #市場 #國際
+
+美國航空股上漲，因油價跌至伊朗戰爭爆發以來的最低水平。達美航空股價上漲2.6%，西南航空股價上漲3%，美國航空股價上漲4.3%。聯合航空股價上漲4.6%，阿拉斯加航空集團股價上漲4.7%，捷藍航空股價攀升5.2%。
+
+---
+
+### 2026-06-24 22:00:31  #公司 #市場
+
+標普綜合1500客運航空公司指數觸及八年多新高，最新上漲3.5%。
+
+---
+
+### 2026-06-24 22:00:17  #MKT News #Macro & Rates #US Economy #DXY #Impact bearish #S&P500 #US10Y #Impact bullish
+
+US May new-home sales annualized month-on-month -7.3%; April revised from -6.20% to -5.7%.
+
+---
+
+### 2026-06-24 22:00:10  #MKT News #Important #Macro & Rates #US Economy #US10Y #Impact bullish #DXY #Impact bearish #S&P500 #Impact mixed
+
+US new home sales (annualized) 580,000 in May vs. consensus 639,000; April revised to 626,000 from 622,000.
+
+---
+
+### 2026-06-24 22:00:09  #資料 #國際
+
+美國5月新建住宅銷量摺合年率580,000套 預估為639,890套。
+
+---
+
+### 2026-06-24 22:00:00  #MKT News #Economic Calendar #Important
+
+United States | New Home Sales (SAAR) (May) | actual 580000K | consensus 639000K | previous 622000K
+
+---
+
+### 2026-06-24 22:00:00  #MKT News #Economic Calendar #Important
+
+United States | New Home Sales (MoM) (May) | actual -7.3% | previous -6.20%
+
+---
+
+### 2026-06-24 21:59:22  #國際
+
+據俄羅斯方面報道，俄空中防禦系統擊落了三架飛向莫斯科的無人機。
+
+---
+
+### 2026-06-24 21:59:13  #MKT News #Brent #Impact bullish #XAUUSD #DXY
+
+Russia reported its air defenses shot down three drones en route to Moscow.
+
+---
+
+### 2026-06-24 21:58:48  #Trading Economics #Markets #United States #stocks #Importance 1
+
+Deere & Company Stock Price Hits 10-week High — Deere & Company shares increased to 604.52 USD, the highest since April 2026. Over the past 4 weeks, Deere & Company gained 14.02%, and in the last 12 months, it increased 19.05%.
+
+---
+
+### 2026-06-24 21:58:44  #市場 #央行 #國際
+
+【德商銀行：歐元區通脹率或很快降至目標水平】德國商業銀行的Vincent Stamer在一份報告中表示，伊朗與美國之間的一項初步和平協議正推動人們的希望，即歐元區通脹率可能很快回落至歐洲央行2%的目標水平。他說，如果企業認為能源價格上漲是暫時的，它們可能會避擴音高銷售價格。德國商業銀行預計，未來幾個月通脹率將維持在3%左右，然後在明年下半年降至2%。“如果波斯灣衝突得到永久解決，這可能標誌著這段通脹時期結束的開始。”Stamer說，儘管如此，由於通脹率持續高於3%，且高能源價格的間接影響即將來臨，歐洲央行仍可能進行第二次加息。
+
+---
+
+### 2026-06-24 21:58:23  #市場 #國際
+
+【報告：美國天然氣期貨在區間交易中持穩】隨著美國天然氣期貨繼續在相當偏窄的區間內交易，其價格小幅走高。EBW Analytics的Eli Rubin在一份報告中表示，6月份迄今為止，亨利港的現貨價格平均為每百萬英熱單位3.11美元，為處於近期區間底部的紐約商交所近月合約提供了支撐。他說，進入7月份氣溫升高以及液化天然氣出口預期增加，可能會提供需求側的支撐。他補充說，對“看漲敘事“的挑戰包括產量恢復以及管道維護結束使得亨利港有更多供應。紐約商交所天然氣期貨上漲0.5%，報每百萬英熱單位3.162美元。
+
+---
+
+### 2026-06-24 21:57:52  #Trading Economics #Markets #Canada #Currency #Importance 1
+
+Canadian Dollar Weakens to 1-Year Low — The Canadian dollar sank to a one-year low of 1.42 per USD in late June amid, tracking other G10 currencies as the outlook of a hawkish Fed supported the US dollar. Multiple FOMC members projected more than one rate hike this year as US inflation picks up. Meanwhile, core inflation rates tracked by the Bank of Canada remained near their 2% target in May despite the surge in energy prices during the period, aligning with the central bank's earlier signal that the war in Iran may only have transitionary effects on headline price growth. The Bank of Canada kept its key interest rate unchanged at 2.25% at its latest meeting, and signaled that it sees risks on both sides of its inflation and employment mandate amid the uncertain economic backdrop.
 
 ---
 
@@ -16511,317 +16979,5 @@ Market sources said Morgan Stanley's private credit fund has set a 5% redemption
 ### 2026-06-24 04:23:49  #公司
 
 遊戲驛站董事會取消執行長瑞安・科恩的績效獎金，以便其全身心推進收購eBay的相關工作。
-
----
-
-### 2026-06-24 04:22:22  #其他
-
-遊戲驛站：擬於本週釋出對eBay發起收購的戰略依據與計劃。
-
----
-
-### 2026-06-24 04:21:52  #公司 #市場
-
-耐克公司公佈首席財務官繼任計劃及第四財季業績指引後，盤後股價上漲1%。
-
----
-
-### 2026-06-24 04:20:05  #MKT News #Important #Commodities #Energy #WTI #Impact mixed #Brent
-
-API weekly U.S. crude inventory for week to June 19 due in 10 minutes.
-
----
-
-### 2026-06-24 04:17:48  #其他
-
-耐克：任命戴維·M·登頓為首席財務官，8月17日起生效。
-
----
-
-### 2026-06-24 04:17:38  #其他
-
-耐克：首席財務官馬修·弗倫德將卸任，留任至9月4日。
-
----
-
-### 2026-06-24 04:15:13  #Trading Economics #Markets #Canada #Stock Market #Importance 1
-
-TSX Slips on Global Tech Selloff — The S&P/TSX Composite Index fell 0.2% to close at 34,927 on Tuesday, tracking global equities amid a broad selloff in technology stocks and persistent concerns over elevated interest rates. Worries that speculative AI spending by hyperscalers may be running ahead of fundamentals weighed on North American tech shares and hurt overall risk appetite. Celestica plunged 6.2%, leading losses in the tech sector. Gold prices also declined, extending pressure on mining stocks following the hawkish projections from the US Federal Reserve last week. Agnico Eagle shed 3.5%, Barrick lost 4.7%, and WPM dropped 4.1%. Meanwhile, oil prices fell for a second straight session as supply concerns eased amid progress in restoring shipments through the Strait of Hormuz, reducing fears of energy-driven inflation but weighing on energy shares.
-
----
-
-### 2026-06-24 04:14:53  #公司
-
-黑石集團預計2026年第二季度已實現業績收入及主體投資收益將超5億美元。
-
----
-
-### 2026-06-24 04:14:37  #市場
-
-聯邦快遞股價盤後交易跌3.6%。
-
----
-
-### 2026-06-24 04:12:56  #國際
-
-【特朗普稱美國正致力於與伊朗達成一項公平協議】當地時間6月23日，美國總統特朗普表示，美國“正致力於與伊朗達成一項公平的協議”，以結束霍爾木茲海峽的衝突。他稱，僅在前一天（6月22日），就有1900萬桶石油透過霍爾木茲海峽運輸。特朗普再次強調稱“伊朗不能擁有核武器”，並表示當前相關工作進展順利。（央視新聞）
-
----
-
-### 2026-06-24 04:12:41  #MKT News #Commodities #Energy #WTI #Impact bearish #Brent
-
-【Trump says U.S. seeking fair deal with Iran to end Strait of Hormuz conflict】On June 23, Trump said the U.S. is seeking a fair deal with Iran to end the conflict in the Strait of Hormuz, noting 19 million barrels of oil transited the strait on June 22. He reiterated that Iran must not possess nuclear weapons and said related efforts are progressing well.
-
----
-
-### 2026-06-24 04:11:04  #國際
-
-【美參議院透過決議 旨在限制特朗普對伊戰爭權力】當地時間6月23日，美國國會參議院以50票贊成、48票反對透過眾議院此前已透過的關於伊朗的戰爭權力決議。這是相關決議首次獲得國會兩院透過。該決議要求總統在未經國會宣戰或授權使用武力的情況下，結束美國對伊朗的軍事行動。不過，由於該決議屬於國會共同決議，不具有法律約束力，也無需總統簽署，因此主要具有象徵意義。
-
----
-
-### 2026-06-24 04:09:34  #MKT News
-
-【Trump administration mulls White House aide Heidi Overton for FDA commissioner】White House domestic policy aide Heidi Overton is among the final candidates the Trump administration is considering to lead the FDA. No selection has been made and it is unclear whether Overton has the backing of Health Secretary Robert F. Kennedy Jr. Any nominee for FDA commissioner would require Senate confirmation.
-
----
-
-### 2026-06-24 04:09:19  #公司
-
-聯邦快遞：將擇機回購至多10億美元公司股票。
-
----
-
-### 2026-06-24 04:09:06  #Trading Economics #Markets #United States #Stock Market #Importance 2
-
-US Stocks Close Lower on Tech Selloff — US stock indices closed negative on Tuesday amid a selloff in heavyweight chip producers. The S&P 500 fell 1.4%, and the Nasdaq 100 lost 3.3% as AI infrastructure companies, including semiconductor and memory chip producers, tanked on increasing skepticism that AI spending by hyperscalers will not meet returns. Also, SK Hynix slowed production of advanced AI chips to boost commodity DRAM capacity, a sign that demand for compute could slow. Nvidia (-3.1%), Micron (-13.2%), AMD(-5.8%), Broadcom (-3.1%), Sandisk (-11.2%), and Qualcomm (-8%) posted losses. Tesla lost 4.7% and Oracle slipped 5.7%. Meanwhile, SpaceX added 1%, rebounding as it issued bonds only one week after its IPO, adding to caution on colossal capital expenditure. Treasury yields remained elevated despite the decline in energy prices following the hawkish dot plot last week, limiting any respite for traditional sectors of the economy. Gains for healthcare and consumer defensive companies aided the Dow to close near flat.
-
----
-
-### 2026-06-24 04:06:05  #公司
-
-【聯邦快遞財報超市場預期，預計本年度利潤將實現增長】多位訊息人士稱，聯邦快遞集團最新季度盈利資料好於華爾街一致預期，公司預計全年利潤增長，為其精簡業務的戰略提供利好支撐。聯邦快遞週二釋出公告稱，第四財季調整後每股收益6.31美元。市場一致預期均值為5.97美元。公司表示，2026自然年調整後每股收益區間為16.90–18.10美元，高於2025年預估的15美元。
-
----
-
-### 2026-06-24 04:05:59  #MKT News #Market Regions #Wall Street (US) #S&P500 #Impact bearish #Dow #Nasdaq100
-
-U.S. equities closed lower on Tuesday, June 23: the Dow Jones Industrial Average fell 45.87 points, or 0.09%, to 51,666.84; the S&P 500 fell 107.29 points, or 1.44%, to 7,365.50; the Nasdaq Composite fell 579.56 points, or 2.21%, to 25,587.04.
-
----
-
-### 2026-06-24 04:05:52  #Trading Economics #Markets #United States #Earnings #Importance 0
-
-FedEx earnings above expectations at 6.31 USD — FedEx (FDX) released earnings per share at 6.31 USD, compared to market expectations of 5.96 USD.
-
----
-
-### 2026-06-24 04:02:27  #其他
-
-聯邦快遞預計2026全年持續經營業務調整後每股收益區間為16.90至18.10美元。
-
----
-
-### 2026-06-24 04:02:17  #其他 #焦點
-
-費城半導體指數收跌7.9%，創6月5日以來最大跌幅。
-
----
-
-### 2026-06-24 04:02:01  #MKT News #Important #Star Stocks #NVIDIA #Market Themes #Magnificent 7 #Nasdaq100 #Impact bearish #MU.O #NVDA.O
-
-【U.S. close: Nasdaq down 2.2%, chip stocks plunge】U.S. stocks closed Tuesday: Dow fell 0.09%, S&P 500 fell 1.4%, Nasdaq fell 2.2%. Philadelphia Semiconductor Index plunged 7.8%; Marvell (MRVL.O) down 9%, Micron (MU.O) down 13%, NVIDIA (NVDA.O) down 4%. SpaceX (SPCX.O) rose 1%. Nasdaq Golden Dragon China Index fell 0.55%; XPeng (XPEV.N) down more than 4%.
-
----
-
-### 2026-06-24 04:01:44  #國際
-
-特朗普表示，委內瑞拉應被納入美國石油產量統計資料之中。
-
----
-
-### 2026-06-24 04:00:48  #市場 #焦點
-
-【美股收盤：三大股指集體收跌】道指跌0.09%，標普500指數跌1.43%，納指跌2.18%。閃迪跌13.75%，美光跌13.23%，VRT跌11.08%，ON SEMICONDUCTOR跌11.06%，Coherent Corp跌10.38%。“七姐妹”方面：微軟漲1.89%，亞馬遜漲0.63%，Meta Platforms跌0.18%，谷歌跌0.67%，蘋果跌0.80%，英偉達跌4.03%，特斯拉跌5.81%。
-
----
-
-### 2026-06-24 04:00:02  #市場 #焦點
-
-【納斯達克中國金龍指數收跌0.60%】海天網路跌8.95%，阿特斯跌7.99%，復朗集團跌6.51%，新氧跌6.39%，嗶哩嗶哩跌4.68%。
-
----
-
-### 2026-06-24 03:57:44  #MKT News
-
-AP reports Republican senators who have clashed with TRUMP in recent weeks will have a chance to question him face-to-face at a Capitol luncheon on Wednesday.
-
----
-
-### 2026-06-24 03:55:33  #MKT News
-
-【Congress passes symbolic war powers resolution on Iran】The Senate voted 50-48 Tuesday to approve a House-passed war powers concurrent resolution that calls on the president to "withdraw US forces from hostilities against Iran" unless Congress declares war or authorizes use of military force. The measure, marking a rare congressional rebuke of President Trump’s handling of the US-Iran conflict, is the first such resolution to clear both chambers. As a concurrent resolution it carries no legal force, requires no presidential signature and is largely symbolic.
-
----
-
-### 2026-06-24 03:54:39  #國際
-
-【特朗普政府擬提名白宮助理執掌美國食品藥品監督管理局】美國白宮國內政策助理海蒂·奧弗頓是特朗普政府考慮出任美國食品藥品監督管理局局長的最終候選人之一。相關人選尚未敲定，目前尚不清楚奧弗頓能否獲得衛生部長小羅伯特·F·肯尼迪的支援。FDA局長提名人選需經參議院投票確認。
-
----
-
-### 2026-06-24 03:53:46  #公司
-
-穆迪評級確認強生公司B2級企業家族評級，展望調整為穩定。
-
----
-
-### 2026-06-24 03:51:59  #國際
-
-特朗普擬提名一名白宮助理出任美國食品藥品監督管理局局長一職。
-
----
-
-### 2026-06-24 03:49:29  #焦點 #國際
-
-特朗普：正在努力爭取全國範圍內的持槍權。
-
----
-
-### 2026-06-24 03:48:13  #其他 #焦點
-
-Meta正在開發預測市場應用，對標Polymarket與Kalshi兩款競品。
-
----
-
-### 2026-06-24 03:47:24  #焦點 #國際
-
-伊朗外交部發言人：只有美伊雙方開始落實《伊斯蘭堡諒解備忘錄》五項核心條款後，伊朗才會啟動與美國締結最終協議的談判。該備忘錄包含五項核心內容：全線停止一切軍事行動、解除美國海上封鎖、恢復霍爾木茲海峽商業船隻安全通行、豁免伊朗石油出口及相關交易限制、全額解凍伊朗遭凍結與受限海外資產。待上述條款落地執行，雙方才會開啟最終和約磋商。
-
----
-
-### 2026-06-24 03:47:01  #國際
-
-美國國務卿魯比奧表示，霍爾木茲海峽屬於國際航道，任何國家都無權在此收取通行費，地區各國均認同這一觀點；相關合作框架已搭建完成，不過仍有大量實質性工作有待推進。
-
----
-
-### 2026-06-24 03:44:07  #MKT News #XAUUSD #Impact bearish #WTI #S&P500 #Impact bullish
-
-The U.S. Senate voted to block military action against Iran unless President Trump secures congressional authorization.
-
----
-
-### 2026-06-24 03:43:10  #焦點 #國際
-
-美國參議院投票決定，除非特朗普獲得國會批准，否則不得對伊朗發動戰爭。
-
----
-
-### 2026-06-24 03:42:54  #國際
-
-美國法院裁定拜登紀念園區擴建專案需接受審查。
-
----
-
-### 2026-06-24 03:37:21  #MKT News #DXY #Impact bullish #EURUSD #Impact bearish #USDJPY
-
-【US dollar index rises 0.38% to 101.408 at New York close】US dollar index (DXY) rose 0.38% to 101.408 at the New York FX close. EUR/USD 1.1379 (prev. 1.1424); GBP/USD 1.3188 (prev. 1.3244). USD/JPY 161.57 (prev. 161.42); USD/CHF 0.8100 (prev. 0.8091); USD/CAD 1.4214 (prev. 1.4157); USD/SEK 9.7466 (prev. 9.6212).
-
----
-
-### 2026-06-24 03:36:53  #市場
-
-【美元指數23日上漲】美元指數23日上漲。衡量美元對六種主要貨幣的美元指數當天上漲0.38%，在匯市尾市收於101.408。截至紐約匯市尾市，1歐元兌換1.1379美元，低於前一交易日的1.1424美元；1英鎊兌換1.3188美元，低於前一交易日的1.3244美元。1美元兌換161.57日元，高於前一交易日的161.42日元；1美元兌換0.8100瑞士法郎，高於前一交易日的0.8091瑞士法郎；1美元兌換1.4214加元，高於前一交易日的1.4157加元；1美元兌換9.7466瑞典克朗，高於前一交易日的9.6212瑞典克朗。
-
----
-
-### 2026-06-24 03:35:52  #國際
-
-美國聯邦航空管理局暫停部分飛往拉瓜迪亞機場的航班。
-
----
-
-### 2026-06-24 03:34:13  #焦點 #國際
-
-特朗普稱，他能在一週之內“徹底解決伊朗問題”。
-
----
-
-### 2026-06-24 03:33:50  #國際
-
-特朗普：我有個朋友，是超大型地產開發商，但他特別怕當眾演講，一上臺就緊張得說不出話，慌得不行。他問我怎麼做到從容演講的？我告訴他，這很簡單，因為臺下全是喜愛我的人。
-
----
-
-### 2026-06-24 03:33:19  #國際
-
-路透社與益普索聯合民調顯示：僅有四分之一的美國人認為，這場對伊朗戰爭付出的各類代價是值得的；多數受訪者則擔憂，當前達成的停火協議難以長久維繫。
-
----
-
-### 2026-06-24 03:32:38  #MKT News #WTI #Impact bearish #Brent
-
-【International oil prices fall on 23rd】By the close, NYMEX August WTI fell $0.65 to $73.21 a barrel, down 0.88%; ICE August Brent fell $0.82 to $77.08 a barrel, down 1.05%.
-
----
-
-### 2026-06-24 03:31:51  #國際
-
-【伊朗稱三家銀行銀行卡業務遭網路攻擊】伊朗國有銀行技術服務商表示，網路攻擊導致國民銀行、出口銀行與德賈拉特銀行的銀行卡相關業務癱瘓。該企業透露，為阻止非法入侵持續擴散，上述三家銀行臨時關停全部銀行卡業務，網路安全團隊正在搶修，力爭恢復正常服務。企業公關負責人稱，此次受波及的業務涵蓋自動取款機、線下收銀終端以及繫結銀行卡系統的手機銀行應用。
-
----
-
-### 2026-06-24 03:31:11  #市場
-
-【國際油價23日下跌】國際油價23日下跌。截至當天收盤，紐約商品交易所8月交貨的輕質原油期貨價格下跌65美分，收於每桶73.21美元，跌幅為0.88%；8月交貨的倫敦布倫特原油期貨價格下跌82美分，收於每桶77.08美元，跌幅為1.05%。
-
----
-
-### 2026-06-24 03:29:30  #國際
-
-特朗普： 民主黨人當初投票支援伊朗擁有核武器。
-
----
-
-### 2026-06-24 03:28:55  #MKT News
-
-The New York Times reports several major Iranian banks experienced disruption to bank-card services on Tuesday; Iranian state media reported some of those banks suffered cyberattacks less than two weeks earlier.
-
----
-
-### 2026-06-24 03:28:53  #MKT News #XAUUSD #Impact bullish #DXY #WTI
-
-【Wall Street Journal: Moscow pressing Belarus to open new front in Ukraine conflict】The Wall Street Journal reports former and current Russian and European officials say Moscow launched a pressure campaign earlier this year to turn Belarus into a springboard for expanded operations in Ukraine or to enable unconventional actions against NATO. Ukraine has threatened strikes on targets inside Belarus. Officials say Russia has deployed tactical nuclear weapons to Belarus, a development that suggests Moscow may be weighing a high-risk escalation.
-
----
-
-### 2026-06-24 03:27:39  #MKT News #XAUUSD #Impact bullish #WTI #DXY
-
-【Israel's US ambassador: including Iran in Lebanon talks would be a 'disaster'】The Times of Israel reported Israel's ambassador to the US sharply criticized the Trump administration for agreeing to fold Iran into a Washington memorandum on Lebanon ceasefire talks signed last week, calling it a "disaster." He is leading the fifth round of direct Israel-Lebanon negotiations at the State Department. He said when Israel and Lebanon began direct talks "we all boarded the same train," with the US as the locomotive aiming for comprehensive peace, the removal of Iranian influence from Lebanon, the disarmament of Hezbollah and security between the two countries. He warned the train now risks derailing and said he hopes to get it back on track.
-
----
-
-### 2026-06-24 03:25:12  #國際
-
-【特朗普在賓夕法尼亞州的活動上大力宣傳其減稅政策】特朗普在賓夕法尼亞州的活動上大力宣傳其減稅政策，以此作為中期競選宣傳的核心內容。特朗普重點提出兩項政策：加班收入免稅、老年人社保福利免稅，並預估這兩項政策每年能讓家庭增收超1萬美元。他說：“國會里所有民主黨人全都投票反對我們的減稅方案。”
-
----
-
-### 2026-06-24 03:24:24  #國際
-
-【香港對沖基金Ovata將關閉 創始人及大部分員工加入ExodusPoint】知情人士透露，資產管理規模為15億美元的香港對沖基金Ovata Capital Management Ltd.將關閉業務，其創始人及大部分員工準備加入美國多策略對沖基金巨頭ExodusPoint Capital Management。
-
----
-
-### 2026-06-24 03:22:32  #央行 #國際
-
-【沃什上任後亞特蘭大聯儲總裁遴選程式已重啟】知情人士稱，在沃什出任美聯儲主席後，亞特蘭大聯邦儲備銀行下一任總裁的遴選程式已被重新啟動。美聯儲曾考慮讓前美國副財長福爾肯德出任該職，但其目前的任命進展尚不得而知。
-
----
-
-### 2026-06-24 03:20:44  #MKT News #LLY.N #Impact bullish
-
-U.S. President Trump, while discussing the jobs market, called Eli Lilly (LLY.N) "a great pharmaceutical company" and referenced the company's investment.
 
 ---
