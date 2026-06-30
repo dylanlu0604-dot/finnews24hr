@@ -1,7 +1,40 @@
 {
-  "updated": "2026-07-01 05:10:07",
-  "count": 13994,
+  "updated": "2026-07-01 05:14:04",
+  "count": 13997,
   "items": [
+    {
+      "id": "4963697",
+      "time": "2026-07-01 05:13:16",
+      "tags": [
+        "市場"
+      ],
+      "text": "週二（6月30日）紐約尾盤（週三北京時間04:59），離岸人民幣（CNH）兌美元報6.7918元，較週一紐約尾盤漲88點，日內整體交投於6.8026-6.7864元區間。6月份，離岸人民幣累計下跌大約0.4%，二季度累漲超1.4%，上半年持續走高、從6.9959元漲至6.7539元。"
+    },
+    {
+      "id": "4963696",
+      "time": "2026-07-01 05:10:20",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "土耳其央行：取消外匯存款/參與基金的里拉額外準備金要求。外幣存款及參與基金適用的存款準備金率作出調整，活期存款與期限 1 個月及以記憶體款準備金率由 30% 上調至 32%。"
+    },
+    {
+      "id": "mkt:019f1a5e-4d97-7aab-8c44-153ecc6031b7",
+      "time": "2026-07-01 05:10:15",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Central Bank of the Republic of Turkey increased the reserve requirement ratio on FX deposits and participation funds to 32% from 30%, applicable to demand deposits and deposits with maturities of up to one month."
+    },
+    {
+      "id": "4963695",
+      "time": "2026-07-01 05:09:51",
+      "tags": [
+        "國際"
+      ],
+      "text": "【俄下令臨時關閉連通芬蘭等三國的多個鐵路口岸】俄羅斯政府30日下令，從7月1日起臨時關閉俄羅斯同拉脫維亞、芬蘭和愛沙尼亞三國的多個邊境鐵路口岸。相關檔案當天已登載在俄官方的法律文書網上。據俄羅斯媒體報道，根據俄政府決定，從7月1日起俄方將臨時關閉俄羅斯芬蘭邊境的聖彼得堡-芬蘭鐵路口岸、維堡鐵路口岸以及俄芬邊境的另外三個鐵路口岸。被臨時關閉的還有俄羅斯和愛沙尼亞邊境的一個鐵路口岸以及俄羅斯和拉脫維亞邊境的一個鐵路口岸。根據俄方決定，從7月1日起，上述邊境口岸將暫停任何人員、車輛、商品和貨物通行。但俄政府未說明關閉這些口岸的具體原因。（新華社）"
+    },
     {
       "id": "4963694",
       "time": "2026-07-01 05:08:45",
@@ -128453,14 +128486,6 @@
         "Brent"
       ],
       "text": "【Oman, IMO coordinate temporary sea lane through Strait of Hormuz】Oman announced early on the 24th it has coordinated with the International Maritime Organization to open a temporary sea lane through the Strait of Hormuz for all vessels, citing its responsibility for the strait and its importance to the global economy. The lane will operate under international law, including the United Nations Convention on the Law of the Sea, will not charge passage fees, and will follow navigational coordinates published by the IMO and Omani authorities; vessels must coordinate with the IMO in advance. Oman said the step reflects outcomes from US‑Iran negotiations and mediation efforts."
-    },
-    {
-      "id": "4951146",
-      "time": "2026-06-24 05:12:38",
-      "tags": [
-        "國際"
-      ],
-      "text": "【阿曼與國際海事組織協調開闢霍爾木茲海峽臨時航道】當地時間24日凌晨，阿曼方面釋出宣告表示，鑑於該國對霍爾木茲海峽的責任以及該海峽對全球經濟的重要作用，在遵守國際法和《聯合國海洋法公約》、保障海峽自由通行且不收取通行費用的基礎上，並結合美國與伊朗相關談判和斡旋努力所取得的成果，阿曼已與國際海事組織協調，為所有船舶開闢一條臨時海上航道。根據安排，相關航道將按照國際海事組織及阿曼主管部門公佈的航行座標執行，計劃使用該航道的船舶需提前與國際海事組織進行協調。"
     }
   ]
 }
