@@ -1,7 +1,61 @@
 {
-  "updated": "2026-07-01 05:37:31",
-  "count": 13977,
+  "updated": "2026-07-01 05:41:24",
+  "count": 13980,
   "items": [
+    {
+      "id": "mkt:019f1a7a-2297-7aab-8c44-3c728663b5a8",
+      "time": "2026-07-01 05:40:39",
+      "tags": [
+        "MKT News",
+        "AA.O",
+        "Impact bullish",
+        "S32.AX",
+        "Impact bearish"
+      ],
+      "text": "Alcoa announced a $4.1 billion acquisition of South32’s bauxite, alumina and aluminum assets."
+    },
+    {
+      "id": "mkt:019f1a7a-12fc-7aab-8c44-30595a30cc94",
+      "time": "2026-07-01 05:40:35",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "President Trump said the Republican Party will hold its midterm convention in Dallas, Texas."
+    },
+    {
+      "id": "4963714",
+      "time": "2026-07-01 05:40:18",
+      "tags": [
+        "公司"
+      ],
+      "text": "亞馬遜：Kindle 翻譯功能現已支援英語與西班牙語、德語、法語、義大利語、葡萄牙語互譯。"
+    },
+    {
+      "id": "4963713",
+      "time": "2026-07-01 05:40:01",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "特朗普：共和黨中期選舉大會將在德克薩斯州達拉斯舉行。"
+    },
+    {
+      "id": "4963712",
+      "time": "2026-07-01 05:37:25",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "美國鋁業公司：擬斥資 41 億美元收購南非 32 集團鋁土礦、氧化鋁及原鋁相關資產。"
+    },
+    {
+      "id": "4963711",
+      "time": "2026-07-01 05:37:08",
+      "tags": [
+        "國際"
+      ],
+      "text": "【兩名美國宇航員完成太空行走 更換機械臂故障部件】美國航空航天局6月30日表示，國際空間站兩名美國宇航員當天完成太空行走任務，更換空間站機械臂“加拿大臂2號”出現故障的關鍵部件，任務總共持續約7小時20分鐘。（新華社）"
+    },
     {
       "id": "4963710",
       "time": "2026-07-01 05:36:50",
@@ -1150,6 +1204,14 @@
         "Energy"
       ],
       "text": "Iran parliament speaker Ghalibaf said Iranian oil is being sold at Brent and other international market prices."
+    },
+    {
+      "id": "4963651",
+      "time": "2026-07-01 03:56:12",
+      "tags": [
+        "其他"
+      ],
+      "text": "【委內瑞拉地震死亡人數升至1943人】委內瑞拉全國代表大會主席豪爾赫·羅德里格斯30日表示，該國日前發生的兩次強震已造成1943人死亡、10571人受傷，28380人在醫療機構和野戰醫院接受救治。"
     },
     {
       "id": "te:economy:563102",
@@ -128279,38 +128341,6 @@
         "Impact bearish"
       ],
       "text": "Alphabet's Class A shares (GOOGL.O) rose more than 1% in after-hours trading and will replace Verizon (VZ.N) in the Dow Jones Industrial Average; Verizon fell about 0.6% in after-hours trading."
-    },
-    {
-      "id": "4951181",
-      "time": "2026-06-24 05:40:51",
-      "tags": [
-        "公司"
-      ],
-      "text": "Cerebras執行長：預計亞馬遜雲科技的影響將在2027年顯現。"
-    },
-    {
-      "id": "4951180",
-      "time": "2026-06-24 05:40:45",
-      "tags": [
-        "其他"
-      ],
-      "text": "英國國家電網系統運營商：預報顯示，受極端高溫影響，週三晚間電力系統備用裕度將處於緊張狀態。"
-    },
-    {
-      "id": "4951179",
-      "time": "2026-06-24 05:40:39",
-      "tags": [
-        "公司"
-      ],
-      "text": "英國國家能源系統運營商（NESO）：電價裕度公告並不意味著電力供應面臨風險。"
-    },
-    {
-      "id": "4951178",
-      "time": "2026-06-24 05:40:29",
-      "tags": [
-        "其他"
-      ],
-      "text": "英國國家能源系統運營商（NESO）：正向市場參與者呼籲，將其可調配的額外發電容量全部投入運營。"
     }
   ]
 }
