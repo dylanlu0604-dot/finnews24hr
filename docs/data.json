@@ -1,7 +1,373 @@
 {
-  "updated": "2026-07-01 01:37:58",
-  "count": 13907,
+  "updated": "2026-07-01 02:09:20",
+  "count": 13934,
   "items": [
+    {
+      "id": "te:markets:563096",
+      "time": "2026-07-01 02:08:35",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "commodity",
+        "Importance 0"
+      ],
+      "text": "Oat Hits 6-year Low — Oat decreased to 256.50 USd/Bu, the lowest since March 2020. Over the past 4 weeks, Oat lost 24.69%, and in the last 12 months, it decreased 32.6%."
+    },
+    {
+      "id": "mkt:019f19b7-38b1-7aab-8c3f-da0489645c69",
+      "time": "2026-07-01 02:07:45",
+      "tags": [
+        "MKT News",
+        "EURUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "ECB governing council member Dolenc said that based on current data, an ECB pause in rate hikes in July could be appropriate."
+    },
+    {
+      "id": "mkt:019f19b6-ff43-7aab-8c3f-d04170973900",
+      "time": "2026-07-01 02:07:31",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "EURUSD",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "ECB executive board member dolenc said if energy prices remain subdued there is no urgency to raise interest rates."
+    },
+    {
+      "id": "mkt:019f19b6-b9a9-7aab-8c3f-cbd062acb231",
+      "time": "2026-07-01 02:07:13",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "ECB Governing Council member Dolenc said uncertainty in the Middle East remains elevated."
+    },
+    {
+      "id": "mkt:019f19b6-9704-7aab-8c3f-c4c1c06bc48e",
+      "time": "2026-07-01 02:07:04",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "ECB Governing Council member Dolenc said the situation could change rapidly before the next meeting."
+    },
+    {
+      "id": "4963577",
+      "time": "2026-07-01 02:06:59",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行管委多倫茨：從當前資料來看，歐洲央行7月暫停加息或許是合適之舉。"
+    },
+    {
+      "id": "4963576",
+      "time": "2026-07-01 02:06:52",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行管委多倫茨：下次會議前形勢可能快速發生變化。"
+    },
+    {
+      "id": "4963575",
+      "time": "2026-07-01 02:06:45",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行管委多倫茨：中東局勢相關不確定性仍處於高位。"
+    },
+    {
+      "id": "4963574",
+      "time": "2026-07-01 02:06:37",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行管委多倫茨：若能源價格維持低位，不存在加息緊迫性。"
+    },
+    {
+      "id": "mkt:019f19b5-eb74-7aab-8c3f-bb7023529dfd",
+      "time": "2026-07-01 02:06:20",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "Anthropic said the model's promotional pricing through Aug 31 is dlr2 per mln input tokens and dlr10 per mln output tokens; thereafter prices will rise to dlr3 per mln input tokens and dlr15 per mln output tokens."
+    },
+    {
+      "id": "4963573",
+      "time": "2026-07-01 02:05:55",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國貨幣監理署：美國銀行業一季度交易收入增長5.6%。"
+    },
+    {
+      "id": "mkt:019f19b5-46f5-7aab-8c3f-b1cfb0e4b209",
+      "time": "2026-07-01 02:05:38",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "ANTHROPIC: safety tests show Claude Sonnet 5 improves on Sonnet 4.6. The model is now live across all Claude tiers and accessible via Claude Code and the Claude platform."
+    },
+    {
+      "id": "mkt:019f19b3-84a0-7aab-8c3f-adc952507ee9",
+      "time": "2026-07-01 02:03:43",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "ANTHROPIC launches Claude Sonnet 5."
+    },
+    {
+      "id": "4963572",
+      "time": "2026-07-01 02:02:17",
+      "tags": [
+        "其他"
+      ],
+      "text": "Anthropic：8月31日之後，Claude Sonnet 5大模型定價將調整為每百萬輸入token 3美元，每百萬輸出token 15美元。"
+    },
+    {
+      "id": "4963571",
+      "time": "2026-07-01 02:01:16",
+      "tags": [
+        "公司"
+      ],
+      "text": "義大利鐵路公司執行長多納魯馬宣佈辭職。"
+    },
+    {
+      "id": "4963570",
+      "time": "2026-07-01 02:01:10",
+      "tags": [
+        "國際"
+      ],
+      "text": "薩博：簽署向烏克蘭交付16架“鷹獅”E戰鬥機的合同。"
+    },
+    {
+      "id": "4963569",
+      "time": "2026-07-01 02:01:00",
+      "tags": [
+        "國際"
+      ],
+      "text": "薩博已簽署為烏克蘭供應鷹獅E戰鬥機的合同。"
+    },
+    {
+      "id": "4963568",
+      "time": "2026-07-01 02:00:38",
+      "tags": [
+        "其他"
+      ],
+      "text": "Anthropic：模型現已上線Claude程式碼工具與Claude平臺；優惠定價持續至8月31日，輸入token每百萬2美元，輸出token每百萬10美元。"
+    },
+    {
+      "id": "mkt:019f19b0-8fdb-7aab-8c3f-a688279750d9",
+      "time": "2026-07-01 02:00:29",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "AI Revolution",
+        "Magnificent 7",
+        "NVDA.O",
+        "Impact bullish",
+        "Nasdaq100"
+      ],
+      "text": "【SemiAnalysis raises forecast: NVIDIA FY2027 H2 data-center revenue may be ~20% above Street】NVIDIA shares rose about 1.8% on the quarter’s final trading day after an >11% monthly pullback, driven by an upbeat forecast from independent semiconductor researcher SemiAnalysis. SemiAnalysis expects NVIDIA’s FY2027 H2 data‑center compute revenue to be roughly 20% above Wall Street consensus, citing easing supply bottlenecks and an accelerated Vera Rubin ramp. The report says HBM4 memory supply constraints are largely resolved and front‑end wafer capacity was pre‑allocated, supporting stronger H2 shipments; supply‑chain checks signal the Blackwell→Rubin transition should complete in Q2 2026 and accelerate demand from Q3. Vera Rubin entered volume production in June and is slated for autumn deliveries to cloud customers including AWS, Microsoft Azure, Google Cloud and Oracle; higher HBM4 bandwidth should bolster AI compute performance. SemiAnalysis notes Rubin Ultra was scaled back from original specs—reducing expected scale and performance—and says longer‑term revenue impact remains uncertain, while the AI compute cycle continues to be the market focus."
+    },
+    {
+      "id": "4963567",
+      "time": "2026-07-01 01:59:53",
+      "tags": [
+        "其他"
+      ],
+      "text": "Anthropic：並未針對網路安全相關任務專門訓練Sonnet 5模型。"
+    },
+    {
+      "id": "4963566",
+      "time": "2026-07-01 01:59:43",
+      "tags": [
+        "其他"
+      ],
+      "text": "Anthropic：部署前安全評估顯示，Sonnet 5整體效能相較Sonnet 4.6有所提升。"
+    },
+    {
+      "id": "4963565",
+      "time": "2026-07-01 01:59:11",
+      "tags": [
+        "其他"
+      ],
+      "text": "馬斯克：孟菲斯地區居民可享星鏈半價優惠。"
+    },
+    {
+      "id": "mkt:019f19af-4e94-7aab-8c3f-9a79c7d12bc7",
+      "time": "2026-07-01 01:59:07",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Venezuela National Assembly President Jorge Rodríguez said on the 30th that two recent strong earthquakes in the country have killed 1,943 people."
+    },
+    {
+      "id": "4963564",
+      "time": "2026-07-01 01:58:47",
+      "tags": [
+        "其他"
+      ],
+      "text": "Anthropic：Claude Sonnet 5自今日起面向所有套餐開放使用。"
+    },
+    {
+      "id": "4963563",
+      "time": "2026-07-01 01:58:28",
+      "tags": [
+        "其他"
+      ],
+      "text": "Anthropic：推出Claude Sonnet 5。"
+    },
+    {
+      "id": "mkt:019f19ad-34fa-7aab-8c3f-96b62769ed0c",
+      "time": "2026-07-01 01:56:49",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "Tanker-tracking agency data show Iran's June exports at about 1.66 mln b/d; cumulative exports since sanctions easing total roughly 50 mln barrels. The agency says most regional exporters' shipments remain below pre-war levels."
+    },
+    {
+      "id": "mkt:019f19ac-25f8-7aab-8c3f-8e5824b7b4c7",
+      "time": "2026-07-01 01:55:40",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "Tanker-tracking firms say Iran has exported about 50 mln barrels of oil since U.S. sanctions were eased."
+    },
+    {
+      "id": "4963562",
+      "time": "2026-07-01 01:54:25",
+      "tags": [
+        "國際"
+      ],
+      "text": "油輪追蹤機構資料：折算下來，伊朗2026年6月日均原油出口量達166萬桶。該地區其他多數國家的出口量仍遠未恢復至戰前水平。"
+    },
+    {
+      "id": "4963561",
+      "time": "2026-07-01 01:53:57",
+      "tags": [
+        "國際"
+      ],
+      "text": "油輪追蹤機構資料顯示：自兩週前美國實施的封鎖解除以來，伊朗已出口5000萬桶原油。"
+    },
+    {
+      "id": "4963560",
+      "time": "2026-07-01 01:52:02",
+      "tags": [
+        "其他"
+      ],
+      "text": "委內瑞拉國民議會議長：委內瑞拉地震遇難人數升至1943人。"
+    },
+    {
+      "id": "mkt:019f19a8-34f1-7aab-8c3f-87350309fcc5",
+      "time": "2026-07-01 01:51:21",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "US State Department estimates total cost of a foreign military sale at $22.3 mln."
+    },
+    {
+      "id": "4963559",
+      "time": "2026-07-01 01:50:41",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "美國國務院：預計總費用為2230萬美元。"
+    },
+    {
+      "id": "mkt:019f19a6-a457-7aab-8c3f-781eb21312b4",
+      "time": "2026-07-01 01:49:39",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "ANEC forecasts Brazil's June soybean meal exports at 2.4 mln t, down from last week's estimate of 2.5 mln t."
+    },
+    {
+      "id": "mkt:019f19a6-4de4-7aab-8c3f-72d87d4e6bf3",
+      "time": "2026-07-01 01:49:17",
+      "tags": [
+        "MKT News",
+        "LMT.O",
+        "Impact bullish"
+      ],
+      "text": "US State Department approved a potential foreign military sale of AGM-114R Hellfire missiles to the Government of Singapore."
+    },
+    {
+      "id": "4963558",
+      "time": "2026-07-01 01:48:59",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "美國國務院批准擬向新加坡政府對外軍售AGM-114R型地獄火導彈。"
+    },
+    {
+      "id": "4963557",
+      "time": "2026-07-01 01:48:47",
+      "tags": [
+        "其他"
+      ],
+      "text": "巴西全國穀物出口商協會（ANEC）預測，6月巴西豆粕出口量將達到240萬噸，低於上週預估的250萬噸。"
+    },
+    {
+      "id": "4963556",
+      "time": "2026-07-01 01:48:27",
+      "tags": [
+        "其他"
+      ],
+      "text": "巴西全國穀物出口商協會（ANEC）預測，巴西6月大豆出口量將達1405萬噸，低於上週預估的1521萬噸。"
+    },
+    {
+      "id": "mkt:019f19a5-49a3-7aab-8c3f-6c1c2ef81bea",
+      "time": "2026-07-01 01:48:10",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "ANEC projects Brazil's June soybean exports at 14.05 mln t, down from last week's 15.21 mln t estimate."
+    },
+    {
+      "id": "4963555",
+      "time": "2026-07-01 01:45:38",
+      "tags": [
+        "其他"
+      ],
+      "text": "國際專業航空電子工程師協會：談判代表將於7月1日與波音開啟正式合同磋商，計劃敲定兩份集體談判協議，覆蓋約1.3萬名工程師及約4000名技術工人。"
+    },
+    {
+      "id": "4963554",
+      "time": "2026-07-01 01:42:04",
+      "tags": [
+        "公司"
+      ],
+      "text": "谷歌：雲端硬碟現已支援移動端呼叫Gemini智慧助手。"
+    },
     {
       "id": "4963553",
       "time": "2026-07-01 01:36:57",
@@ -249,6 +615,17 @@
       "text": "Meta：6月30日至9月30日期間，Quest裝置使用者完成Discord下載即可獲贈一個月Discord Nitro會員。"
     },
     {
+      "id": "te:markets:563095",
+      "time": "2026-07-01 01:12:23",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Silver Rebounds from 7-Month Low — Silver prices rose toward $60 per ounce, halting the plunge that bottomed at a seven-month low of $57 on June 24th, and outperforming gold in the last sessions as the outlook of strong industrial demand weighed against pressure from a restrictive Fed. Equities for chip producers and datacenter developers rallied for a second session to reflect long bets on the construction of compute capacity. The activity boosted the outlook of silver demand due to its use usage in AI infrastructure for its conductive nature. Still, the hawkish outlook for the Fed maintained pressure in assets that do not bear coupons. Strong labor market data and surveys pointing to higher inflation drove a large portion of the FOMC to project more restrictive rates this year. On top of that, fixed-income supply risked a decline as Fed Chairman Warsh campaigned for a lower Fed balance sheet, reversing the debasement trade from late 2025."
+    },
+    {
       "id": "4963537",
       "time": "2026-07-01 01:12:07",
       "tags": [
@@ -394,6 +771,17 @@
         "公司"
       ],
       "text": "蘋果公司：推出Apple Creator Studio更新版本。"
+    },
+    {
+      "id": "te:markets:563093",
+      "time": "2026-07-01 01:00:18",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 2"
+      ],
+      "text": "Gold Hovers Near 8-Month Low — Gold was at $4,030 per ounce on Tuesday, holding near their lowest in nearly eight months as restrictive monetary policy by the Fed was combined with a reversal of the dollar debasement trade. Gold was set to drop 11% in Q2, its worst quarter in decades. Strength in recent economic data consolidated a backdrop that supports the hawkish view of a large portion of FOMC members. The JOLTS pointed to the highest number of job openings in two years and analysts have penciled another sharp month of non-farm payroll gains in June. On top of that, the latest core inflation prints remained departed further from the Fed's 2% target. The aggressive pullback for gold was aligned with the elevated yields for Treasury notes and bonds, favoring coupon-bearing assets instead of bullion. Fed Chairman Warsh announced the pending creation of task forces to evaluate the need for the central bank's large balance sheet, setting the stage for the bond-selling that he has campaigned for previously."
     },
     {
       "id": "4963524",
@@ -644,12 +1032,36 @@
       "text": "雀巢執行長表示，人工智慧提升效率既能節約成本，也能保住就業崗位。"
     },
     {
+      "id": "te:markets:563092",
+      "time": "2026-07-01 00:33:16",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Italy",
+        "Stock Market",
+        "Importance 0"
+      ],
+      "text": "FTSE MIB Ends First Half Up 15% — The FTSE MIB rose 1% to close at 51,682 on Tuesday, making it Europe's best-performing major index in the first half of the year with gains of around 15%. Avio led gains at 6.7%, followed by Leonardo (1.9%). Buzzi (3%) and Nexi (2.4%) also posted considerable gains. Banking stocks rebounded after softer-than-expected inflation data from the Eurozone's largest economies annuled bets on larger ECB rate hikes this year. The domestic rate softened to 3%, undershooting expectations of 3.1%. BPER Banca climbed 3.1%, followed by UniCredit (2.0%), FinecoBank (1.9%), Mediobanca (1.7%), Banco Mediolanum (1.6%), Intesa Sanpaolo (1.5%), Banca Monte dei Paschi di Siena (1.2%), and Banco BPM (1.1%). Insurers Unipol (3.0%) and Generali (1.7%) also advanced. Semiconductor and AI stocks benefited from a global rally, lifting STMicroelectronics (1.5%) and Prysmian (0.9%). Oil linked firms, Saipem (3.8%) and Eni (0.6%), continue to gain while oil traffic regains."
+    },
+    {
       "id": "4963508",
       "time": "2026-07-01 00:31:15",
       "tags": [
         "其他"
       ],
       "text": "墨西哥總統辛鮑姆呼籲將《美墨加協定》延長16年。"
+    },
+    {
+      "id": "te:markets:563090",
+      "time": "2026-07-01 00:30:53",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United Kingdom",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "FTSE 100 Rises More than 3% in Q2 — The FTSE 100 rose slightly on Tuesday, securing its sixth consecutive quarterly gain with an over 3% rise in Q2 following a 2.5% climb in Q1, marking the index's strongest performance streak since 2022. Market momentum was led by a rally in aerospace and defense shares, with Rolls-Royce climbing 2.1% and BAE Systems adding 2%. Heightened geopolitical optimism and improving base metal values similarly lifted mining stocks like Rio Tinto and Glencore. Financial institutions provided solid support as Lloyds Banking jumped 2.1% alongside steady gains for HSBC, Barclays, and NatWest, while J Sainsbury rose 1.3% on heatwave driven food sales. Conversely, heavyweights AstraZeneca, Unilever, and BP all dropped over 1%, and British American Tobacco fell 0.9%. On the macroeconomic front, the UK’s annualized first quarter GDP growth was scaled back to 0.9%, while quarterly growth matched projections at 0.6% and shop inflation held flat at 1.2%."
     },
     {
       "id": "mkt:019f195e-50c7-7aab-8c3e-9d2a9f24a5bb",
@@ -969,6 +1381,18 @@
       "text": "美國能源資訊署（EIA）資料顯示：美國4月餾分油需求量為388.7萬桶/日，較去年同期增長0.1%，即增加4000桶/日，3月該同比增幅為0.3%。"
     },
     {
+      "id": "te:markets:563088",
+      "time": "2026-07-01 00:12:06",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Italy",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The FTSE MIB Index Closes 1.01% Higher — The FTSE MIB Index gained 519 points or 1.01 percent on Tuesday to close at 51682 points. Gains were led by Avio (6.68%), Saipem (3.66%) and Unipol Gruppo (3.50%)."
+    },
+    {
       "id": "mkt:019f194d-4f0d-7aab-8c3e-2ccafe6596f5",
       "time": "2026-07-01 00:12:04",
       "tags": [
@@ -981,6 +1405,30 @@
         "FTSE100"
       ],
       "text": "【European equities close 1H: STOXX 50 up >9%; DAX, FTSE, CAC post single-digit gains】At Tuesday's close, STOXX Europe 50 was up just over 9% for 1H and STOXX Europe 600 rose more than 8%. Italy's FTSE MIB gained nearly 15% and Spain's IBEX 35 climbed over 12%. Germany's DAX was up 2%, the UK's FTSE 100 rose 5.7% and France's CAC 40 gained 3%."
+    },
+    {
+      "id": "te:markets:563087",
+      "time": "2026-07-01 00:11:06",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Germany",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The DAX Index Closes 1.50% Higher — The DAX Index went up by 369 points or 1.50 percent on Tuesday to close at 24996 points. The rise was led by Siemens Energy (5.56%), Bayer (5.17%) and Siemens (4.50%)."
+    },
+    {
+      "id": "te:markets:563086",
+      "time": "2026-07-01 00:10:06",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "France",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The CAC 40 Index Closes 0.44% Higher — The CAC 40 Index rose 37 points or 0.44 percent on Tuesday to close at 8404 points. Leading the gains are Schneider Electric (2.88%), Safran (2.47%) and ArcelorMittal (2.33%). Top losers were TP (-11.12%), Kering (-6.44%) and Capgemini (-2.85%)."
     },
     {
       "id": "4963485",
@@ -1067,6 +1515,18 @@
       "text": "宣告顯示：南方共同市場與日本宣佈啟動經濟夥伴關係協定談判。"
     },
     {
+      "id": "te:markets:563085",
+      "time": "2026-07-01 00:07:06",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United Kingdom",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The FTSE 100 Index Closes 0.33% Higher — The FTSE 100 Index gained 34 points or 0.33 percent on Tuesday to close at 10519 points. Gains were led by Melrose (3.68%), Scottish Mortgage (3.20%) and Babcock International (2.93%). Biggest losers were Smith & Nephew (-4.72%), Entain (-4.09%) and Easyjet Plc (-4.05%)."
+    },
+    {
       "id": "4963479",
       "time": "2026-07-01 00:06:56",
       "tags": [
@@ -1117,6 +1577,17 @@
         "國際"
       ],
       "text": "伊朗方面表示，將在卡達的斡旋下舉行美伊協議間接談判，磋商落實伊美諒解備忘錄以及解凍伊朗被凍結資產相關事宜。"
+    },
+    {
+      "id": "te:markets:563084",
+      "time": "2026-07-01 00:05:36",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "commodity",
+        "Importance 0"
+      ],
+      "text": "Lead Hits 14-month Low — Lead decreased to 1875.00 USD/T, the lowest since April 2025. Over the past 4 weeks, Lead lost 6.75%, and in the last 12 months, it decreased 8.26%."
     },
     {
       "id": "4963476",
@@ -127404,196 +127875,6 @@
         "公司"
       ],
       "text": "軍工初創公司Stark Defence按32億歐元估值融資5億歐元（摺合5.70億美元），紅杉資本、Peter Thiel旗下Founders Fund領投。"
-    },
-    {
-      "id": "mkt:019ef5aa-20b1-7dd8-b0e1-4f408f888af7",
-      "time": "2026-06-24 02:07:07",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Argentina's interbank peso closed 0.61% weaker at 1,471.5 per USD, its weakest level in eight months."
-    },
-    {
-      "id": "4951048",
-      "time": "2026-06-24 02:06:34",
-      "tags": [
-        "市場"
-      ],
-      "text": "交易商訊息：阿根廷比索銀行間匯率收盤下跌 0.61%，報 1 美元兌 1471.5 比索，創八個月新低。"
-    },
-    {
-      "id": "mkt:019ef5a7-d69b-7dd8-b0e1-43e153082e9a",
-      "time": "2026-06-24 02:04:37",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "【Dallas Fed: U.S. far more resilient to oil-price shocks than in 1980s】The Federal Reserve Bank of Dallas estimates in a new study that a recent spring oil surge above $120/bbl reduced U.S. output by roughly 0.3 percentage point, far less than similar shocks in the 1980s when U.S. oil import dependence was higher. A U.S.-backed war on Iran cut about 15% of global oil supply, disrupted Strait of Hormuz shipping, roiled commodity markets, pushed prices higher, caused regional shortages and weighed on overall demand."
-    },
-    {
-      "id": "4951047",
-      "time": "2026-06-24 02:03:28",
-      "tags": [
-        "市場"
-      ],
-      "text": "甲骨文股價創逾一個月新低，最新下跌 5.1%。"
-    },
-    {
-      "id": "4951046",
-      "time": "2026-06-24 02:01:51",
-      "tags": [
-        "央行",
-        "市場",
-        "國際"
-      ],
-      "text": "【達拉斯聯儲：美國經濟對油價衝擊的抵抗力遠強於1980年代】美國達拉斯聯儲一項最新研究估計，去年春季油價飆升至每桶120美元以上，使美國經濟產出減少約0.3個百分點，但這一衝擊遠低於20世紀80年代類似石油衝擊造成的影響，當時美國對石油進口依賴程度更高。在美國支援下對伊朗發動的戰爭導致全球石油供應減少約15%，霍爾木茲海峽航運受阻，全球大宗商品市場陷入動盪，價格上漲、部分地區供應短缺且整體需求下降。"
-    },
-    {
-      "id": "mkt:019ef5a1-1616-7dd8-b0e1-38441b0aa83a",
-      "time": "2026-06-24 01:57:15",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Israel confirms smuggling of tens of thousands of Starlink terminals into Iran】Israel’s opposition leader and former prime minister Naftali Bennett said at a June 23 public event in Jerusalem that while serving as PM in 2021–2022 he purchased and smuggled tens of thousands of Starlink user terminals into Iran to help anti-government protesters attempting to topple the regime. He said the current Netanyahu government did not continue the program."
-    },
-    {
-      "id": "4951045",
-      "time": "2026-06-24 01:57:13",
-      "tags": [
-        "國際"
-      ],
-      "text": "【以色列證實向伊朗偷運數萬星鏈】以色列反對黨領導人、前總理貝內特6月23日在耶路撒冷的一場公開活動上承認，他2021年至2022年擔任以色列總理期間，曾採購數萬臺“星鏈”接收器並偷運入伊朗，以幫助反政府抗議者試圖推翻伊朗政權。但據他稱，內塔尼亞胡領導的現任以色列政府未能持續推進該計劃。（CCTV國際時訊）"
-    },
-    {
-      "id": "4951044",
-      "time": "2026-06-24 01:55:36",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "蘇利南總理：馬來西亞國家石油公司（馬石油）在 52 號海上區塊再獲油氣新發現。"
-    },
-    {
-      "id": "te:markets:561260",
-      "time": "2026-06-24 01:54:48",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "commodity",
-        "Importance 0"
-      ],
-      "text": "Silver is down by 5% — Silver decreased 5% to 61.8 USD/t.oz"
-    },
-    {
-      "id": "mkt:019ef59c-de7e-7dd8-b0e1-30a0eab389fd",
-      "time": "2026-06-24 01:52:38",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Financial Times reported SpaceX (SPCX.O) drew roughly $90 bln of orders for a $25 bln bond offering by midday local time."
-    },
-    {
-      "id": "4951043",
-      "time": "2026-06-24 01:52:31",
-      "tags": [
-        "其他"
-      ],
-      "text": "市場訊息：SpaceX 此次 250 億美元債券發行，午間時段認購訂單規模接近 900 億美元。"
-    },
-    {
-      "id": "te:markets:561259",
-      "time": "2026-06-24 01:51:04",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "stocks",
-        "Importance 1"
-      ],
-      "text": "CME Stock Price Hits 16-month Low — CME shares decreased to 244.52 USD, the lowest since February 2025. Over the past 4 weeks, CME lost 13.42%, and in the last 12 months, it decreased 9.86%."
-    },
-    {
-      "id": "mkt:019ef595-65d2-7dd8-b0e1-28e159d1fde6",
-      "time": "2026-06-24 01:44:29",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Paris's Louvre to close early for four days amid heat wave】On June 23 (local time) Paris's Louvre Museum said it will shorten daily hours from June 24–27, closing at 16:00 instead of 18:00, citing sustained high temperatures. The museum said heat is accumulating inside the historic building and, despite some heat resistance, it cannot fully cope with current conditions; combined with high visitor numbers, overheating is most pronounced in the afternoon."
-    },
-    {
-      "id": "4951042",
-      "time": "2026-06-24 01:44:16",
-      "tags": [
-        "其他"
-      ],
-      "text": "【受高溫天氣影響，巴黎盧浮宮將連續4天提前閉館】當地時間6月23日，法國巴黎盧浮宮博物館宣佈，受持續高溫天氣影響，自6月24日至27日，該館每日閉館時間由原定的18時提前至16時。盧浮宮方面表示，近期巴黎遭遇強烈高溫，這座歷史建築雖然具備一定耐熱能力，但整體上並不能充分適應當前氣候變化。隨著熱量在建築內持續積聚，加之遊客數量較多，館內高溫問題在下午時段尤為明顯。此前，巴黎埃菲爾鐵塔也已宣佈因高溫天氣調整開放時間。法國目前正遭受今年以來第二輪大範圍熱浪影響，多地持續釋出高溫預警。（央視新聞）"
-    },
-    {
-      "id": "mkt:019ef595-129c-7dd8-b0e1-26467c1085c2",
-      "time": "2026-06-24 01:44:07",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Refinitiv/Ipsos poll: only 23% of Americans say U.S.-Iran ties are stronger post-war, while 35% say ties are weaker."
-    },
-    {
-      "id": "mkt:019ef594-e9d0-7dd8-b0e1-1f560e26779f",
-      "time": "2026-06-24 01:43:57",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Refinitiv/Ipsos poll: 52% of Americans say the Iran issue is not worth paying a price; 24% say it is."
-    },
-    {
-      "id": "4951041",
-      "time": "2026-06-24 01:43:54",
-      "tags": [
-        "國際"
-      ],
-      "text": "路透社與益普索聯合民調顯示，僅 23% 的美國人認為戰爭過後美國對伊朗佔據更有利地位，35% 受訪者則認為美國處境更為被動。特朗普支援率跌至 34%，平其二任期以來最低水平。 52% 的美國人認為對伊朗開戰得不償失，僅有 24% 持相反觀點。"
-    },
-    {
-      "id": "mkt:019ef594-b26f-7dd8-b0e1-150ada43f4c2",
-      "time": "2026-06-24 01:43:43",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Refinitiv/Ipsos poll shows US President Trump’s approval rating fell to 34%, matching his second-term low."
-    },
-    {
-      "id": "mkt:019ef593-ff7c-7dd8-b0e1-09249741ff1d",
-      "time": "2026-06-24 01:42:57",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "【Trump says IAEA inspectors will enter Iran at an appropriate time】On June 23, US President Trump said Iran's claims about IAEA verification are incorrect and that IAEA inspectors will enter Iran at an appropriate time. Earlier the same day Iranian foreign ministry spokesman BAGHAEI said there are currently no plans for IAEA inspectors to visit Iran's damaged nuclear facilities."
-    },
-    {
-      "id": "4951040",
-      "time": "2026-06-24 01:42:47",
-      "tags": [
-        "國際"
-      ],
-      "text": "【特朗普稱國際原子能機構核查人員將適時訪問伊朗】當地時間6月23日，美國總統特朗普表示，伊朗在國際原子能機構核查問題上的說法是錯誤的。他同時表示，核查人員將在適當時候進入當地開展工作。伊朗外交部發言人巴加埃23日早些時候表示，暫無國際原子能機構核查人員訪問伊朗受損核設施的計劃。（央視新聞）"
-    },
-    {
-      "id": "mkt:019ef592-e80b-7dd8-b0e1-05156cbcc08a",
-      "time": "2026-06-24 01:41:45",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Andy Burnham, a frontrunner to be the next Labour leader, is preparing to replace Chancellor of the Exchequer Rachel Reeves but would offer her another cabinet post."
-    },
-    {
-      "id": "4951039",
-      "time": "2026-06-24 01:40:57",
-      "tags": [
-        "其他"
-      ],
-      "text": "沃爾瑪據悉將以14億美元收購VIBE.CO。"
     }
   ]
 }
