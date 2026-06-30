@@ -1,7 +1,57 @@
 {
-  "updated": "2026-07-01 02:09:20",
-  "count": 13934,
+  "updated": "2026-07-01 02:13:16",
+  "count": 13936,
   "items": [
+    {
+      "id": "mkt:019f19bb-8999-7aab-8c3f-f62221e117a3",
+      "time": "2026-07-01 02:12:28",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "The US Federal Communications Commission plans to vote next month to close a loophole and ban sales in the US of devices containing components from companies on its sanctions blacklist."
+    },
+    {
+      "id": "4963579",
+      "time": "2026-07-01 02:11:26",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國電信監管機構聯邦通訊委員會（FCC）計劃下月就一項法案進行投票，該法案旨在封堵一項漏洞，此前該漏洞允許含有被列入黑名單企業所生產元件的裝置在美國銷售。"
+    },
+    {
+      "id": "mkt:019f19ba-6712-7aab-8c3f-ee554c414d58",
+      "time": "2026-07-01 02:11:14",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "【ANTHROPIC launches Claude Sonnet 5; agent capability substantially improved】ANTHROPIC launched the Claude Sonnet 5 model, calling it the most capable Sonnet for agent tasks to date. The firm says Sonnet 5 can plan and invoke tools such as browsers and terminals with autonomous performance that previously required larger, costlier models. Performance approaches Opus 4.8 while offering a lower price; Sonnet 5 is materially stronger than Sonnet 4.6 on inference, tool use, programming and knowledge-work tasks. Internal safety tests show a lower incidence of undesirable behavior versus Sonnet 4.6, and Sonnet 5 is significantly weaker than current Opus models on cybersecurity tasks. The model is live across all plans — default on Free and Pro, opt-in for Max, Team and Enterprise — and is available on Claude Code and the Claude platform. Launch pricing is $2 per MLN input tokens and $10 per MLN output tokens through Aug. 31, 2026, rising to $3/$15 thereafter."
+    },
+    {
+      "id": "mkt:019f19b9-d54c-7aab-8c3f-e39a23ba98be",
+      "time": "2026-07-01 02:10:36",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "DXY",
+        "Impact bullish",
+        "Brent",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "The Russian government has, by decree, closed multiple border crossings with Latvia, Finland and Estonia."
+    },
+    {
+      "id": "4963578",
+      "time": "2026-07-01 02:09:26",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "【歐洲央行管委多倫茨：若能源市場保持平穩，暫無加息必要】歐洲央行管理委員會委員普里莫茲·多倫茨表示，若在此期間中東衝突不進一步惡化，歐洲央行或將在下一輪會議維持基準利率不變。多倫茨週二在葡萄牙辛特拉舉辦的歐洲央行年度論壇上稱，若能源成本維持現有水平、大宗商品市場波動不再擴散、且未產生通脹二次傳導效應，7月暫停加息是合理的。“如果油氣價格持續走低，我認為沒有任何進一步收緊貨幣政策的迫切性，”他表示，“結合當前現有資料，觀望至9月再採取行動或許更為妥當。”"
+    },
     {
       "id": "te:markets:563096",
       "time": "2026-07-01 02:08:35",
@@ -127846,35 +127896,6 @@
         "Importance 1"
       ],
       "text": "Energy Commodities Updates: Natural gas Falls by 3.36% — Top commodity losers are Natural gas (-3.36%), Methanol (-2.77%), Gasoline (-1.17%), Brent Crude Oil (-0.94%) and Crude Oil WTI (-0.92%). Gains are led by Heating Oil (2.07%), Natural Gas UK (0.83%) and Natural Gas EU (0.64%)."
-    },
-    {
-      "id": "4951050",
-      "time": "2026-06-24 02:11:52",
-      "tags": [
-        "國際"
-      ],
-      "text": "據美聯社：美國放寬對伊朗世界盃球隊的限制。"
-    },
-    {
-      "id": "mkt:019ef5ae-0ad3-7dd8-b0e1-5401ccc157f4",
-      "time": "2026-06-24 02:11:24",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "Kpler analyst Amena Bakr said Strait of Hormuz transit volumes rebounded to 4.8 mln b/d after detained vessels and a previously sanctioned fleet were unblocked."
-    },
-    {
-      "id": "4951049",
-      "time": "2026-06-24 02:11:04",
-      "tags": [
-        "公司"
-      ],
-      "text": "軍工初創公司Stark Defence按32億歐元估值融資5億歐元（摺合5.70億美元），紅杉資本、Peter Thiel旗下Founders Fund領投。"
     }
   ]
 }
