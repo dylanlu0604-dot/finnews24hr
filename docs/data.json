@@ -1,7 +1,116 @@
 {
-  "updated": "2026-07-01 03:00:50",
-  "count": 13956,
+  "updated": "2026-07-01 03:04:43",
+  "count": 13949,
   "items": [
+    {
+      "id": "mkt:019f19ea-26cc-7aab-8c41-23af4aadcce5",
+      "time": "2026-07-01 03:03:23",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Ghalibaf said uranium enrichment rights are a core, non-negotiable component of Iran's national strength."
+    },
+    {
+      "id": "mkt:019f19e9-ff3f-7aab-8c41-1f5d08050dc3",
+      "time": "2026-07-01 03:03:13",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iran's parliament speaker Ghalibaf said the Islamabad memorandum of understanding explicitly reaffirms Lebanon's independence and territorial integrity."
+    },
+    {
+      "id": "mkt:019f19e9-d3a0-7aab-8c41-157d9faa0934",
+      "time": "2026-07-01 03:03:02",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iranian parliament speaker Ghalibaf said even when negotiating with the U.S. Iran is not negotiating with a \"friend\" but with an \"untrustworthy opponent\" that will act against Iran at the first opportunity."
+    },
+    {
+      "id": "4963618",
+      "time": "2026-07-01 03:02:58",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "伊朗議會議長卡利巴夫：各方已商定由伊朗、美國、黎巴嫩成立委員會，監督黎巴嫩戰事收尾工作。"
+    },
+    {
+      "id": "4963617",
+      "time": "2026-07-01 03:02:07",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "巴西財政部長：巴西將遵守財政目標。政府正在討論逐步退出相關政策，並將在適當時機採取相應措施。關於汽油補貼的討論已接近結束，未來將在價格壓力緩解後逐步取消補貼。"
+    },
+    {
+      "id": "mkt:019f19e8-ab55-7aab-8c41-09a79018e0e5",
+      "time": "2026-07-01 03:01:46",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Emerging Markets"
+      ],
+      "text": "Brazil's finance minister said the government will adhere to fiscal targets and is discussing a gradual withdrawal of related policies, with measures to be implemented at an appropriate time. Talks on gasoline subsidies are nearly complete; subsidies will be phased out once price pressures ease."
+    },
+    {
+      "id": "mkt:019f19e7-faaa-7aab-8c41-04fdd6be2258",
+      "time": "2026-07-01 03:01:01",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "Hang Seng Index",
+        "Impact bullish"
+      ],
+      "text": "Hang Seng Index futures night session closed up 0.63% at 22,990, a 109-point premium to the spot index."
+    },
+    {
+      "id": "4963616",
+      "time": "2026-07-01 03:00:56",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "巴西央行官員莫雷蒂：我們正在討論逐步退出（刺激措施），將在適當時機採取這些步驟。"
+    },
+    {
+      "id": "4963615",
+      "time": "2026-07-01 03:00:46",
+      "tags": [
+        "其他"
+      ],
+      "text": "內塔尼亞胡：多項和平協議已提上議事日程。"
+    },
+    {
+      "id": "mkt:019f19e7-5249-7aab-8c40-ff746d6138d0",
+      "time": "2026-07-01 03:00:17",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Israeli Prime Minister NETANYAHU said additional peace agreements are on the agenda and are progressing."
+    },
+    {
+      "id": "mkt:019f19e7-21dc-7aab-8c40-f3e1b9c0bdc8",
+      "time": "2026-07-01 03:00:05",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "S&P500",
+        "Impact bullish",
+        "DXY"
+      ],
+      "text": "Ghalibaf said Iran, the US and Lebanon will form a joint committee to advance Lebanese sovereignty and implement a ceasefire; Iran's foreign envoys will participate in the mechanism."
+    },
+    {
+      "id": "4963614",
+      "time": "2026-07-01 03:00:01",
+      "tags": [
+        "市場"
+      ],
+      "text": "恒指期貨夜盤收漲0.65%，報22994.73點，高水113.71點。"
+    },
     {
       "id": "4963613",
       "time": "2026-07-01 02:59:39",
@@ -127897,193 +128006,6 @@
         "國際"
       ],
       "text": "特朗普：美國正致力於與伊朗達成公平協議，昨日有1900萬桶石油經由霍爾木茲海峽運輸。"
-    },
-    {
-      "id": "mkt:019ef5de-d779-7dd8-b0e2-64cabe1411a4",
-      "time": "2026-06-24 03:04:42",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "The Trump Trade",
-        "Nasdaq100",
-        "Impact bearish"
-      ],
-      "text": "At a Pennsylvania rally, Trump claimed US stocks hit a new high today. The Nasdaq Composite is currently down about 2%."
-    },
-    {
-      "id": "4951081",
-      "time": "2026-06-24 03:04:16",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普稱讚汽油價格下降。"
-    },
-    {
-      "id": "mkt:019ef5de-2486-7dd8-b0e2-5e067218ec02",
-      "time": "2026-06-24 03:03:56",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "US President Trump said Iran is in poor shape and lacks both an army and air-defence systems."
-    },
-    {
-      "id": "mkt:019ef5dd-b874-7dd8-b0e2-56fa8d64d23f",
-      "time": "2026-06-24 03:03:29",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "U.S. President Trump said Iran's economy has been severely damaged and will take years to recover."
-    },
-    {
-      "id": "mkt:019ef5dd-7d15-7dd8-b0e2-4cbbee3e6c3b",
-      "time": "2026-06-24 03:03:13",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "Treasury Yields",
-        "US10Y",
-        "Impact bearish"
-      ],
-      "text": "U.S. Treasury Department data show foreign investors bought $5.2bn of 10-year Treasuries maturing May 2036 in the latest two-week reporting period, down from $6.23bn the prior month."
-    },
-    {
-      "id": "mkt:019ef5dd-4eac-7dd8-b0e2-452e9b0a0e7f",
-      "time": "2026-06-24 03:03:01",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "Hang Seng Index",
-        "Impact bullish"
-      ],
-      "text": "Hang Seng index futures night session closed up 0.78% at 23,498, trading at a 162-point premium to the cash index."
-    },
-    {
-      "id": "4951080",
-      "time": "2026-06-24 03:02:53",
-      "tags": [
-        "其他"
-      ],
-      "text": "【C羅梅開二度 葡萄牙5-0戰勝烏茲別克】北京時間6月24日，2026美加墨世界盃小組賽K組第二輪中，葡萄牙5-0戰勝烏茲別克，小組賽一勝一平積4分。"
-    },
-    {
-      "id": "mkt:019ef5dc-f55d-7dd8-b0e2-3e95e5221e90",
-      "time": "2026-06-24 03:02:39",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "US President Trump said the US is getting along fairly well with Iran."
-    },
-    {
-      "id": "mkt:019ef5dc-bd60-7dd8-b0e2-351b4565465e",
-      "time": "2026-06-24 03:02:24",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "TRUMP on Iran said the US is working to reach a fair deal."
-    },
-    {
-      "id": "mkt:019ef5dc-ae53-7dd8-b0e2-2e6cafad0a5c",
-      "time": "2026-06-24 03:02:20",
-      "tags": [
-        "MKT News",
-        "S&P500",
-        "Impact bullish",
-        "WTI",
-        "Impact bearish",
-        "DXY"
-      ],
-      "text": "US President Trump says Iran has agreed never to possess nuclear weapons."
-    },
-    {
-      "id": "4951079",
-      "time": "2026-06-24 03:02:16",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普談伊朗問題：我們正致力於達成一份公平的協議。"
-    },
-    {
-      "id": "4951078",
-      "time": "2026-06-24 03:01:39",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "特朗普：伊朗已同意永遠不擁有核武器。"
-    },
-    {
-      "id": "4951077",
-      "time": "2026-06-24 03:01:29",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：我們和伊朗相處得很好。"
-    },
-    {
-      "id": "4951076",
-      "time": "2026-06-24 03:01:19",
-      "tags": [
-        "其他"
-      ],
-      "text": "阿根廷國家統計局公佈，2026年第一季度國內生產總值同比增長2.3%。此前路透調查的預期增速為1.70%。"
-    },
-    {
-      "id": "4951075",
-      "time": "2026-06-24 03:01:13",
-      "tags": [
-        "宏觀",
-        "市場",
-        "國際"
-      ],
-      "text": "美國財政部公佈，在最近半個報告期內，外國投資者買入了22.71億美元將於2056年5月15日到期的30年期國債，上月該資料為27.67億美元。"
-    },
-    {
-      "id": "4951074",
-      "time": "2026-06-24 03:01:10",
-      "tags": [
-        "宏觀",
-        "市場",
-        "國際"
-      ],
-      "text": "美國財政部：在最新雙週報報告期內，投資基金買入289.62億美元2036年5月15日到期的10年期國債，上月買入規模為293.32億美元。"
-    },
-    {
-      "id": "4951073",
-      "time": "2026-06-24 03:01:07",
-      "tags": [
-        "宏觀",
-        "市場",
-        "國際"
-      ],
-      "text": "美國財政部：在最近的雙週報告期內，投資基金買入157.23億美元將於2056年5月15日到期的30年期國債，前一個月的買入規模為183.40億美元。"
-    },
-    {
-      "id": "4951072",
-      "time": "2026-06-24 03:01:04",
-      "tags": [
-        "宏觀",
-        "市場",
-        "國際"
-      ],
-      "text": "美國財政部公佈，在最新雙週報報告期內，投資基金買入421.81億美元將於2029年6月15日到期的3年期國債，上月買入規模為416.36億美元。"
-    },
-    {
-      "id": "4951071",
-      "time": "2026-06-24 03:01:00",
-      "tags": [
-        "宏觀",
-        "市場",
-        "國際"
-      ],
-      "text": "美國財政部：在最近兩週報告期內，外國投資者買入52億美元將於2036年5月15日到期的10年期國債，上月買入規模為62.3億美元。"
     }
   ]
 }
