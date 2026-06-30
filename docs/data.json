@@ -1,7 +1,197 @@
 {
-  "updated": "2026-07-01 07:48:31",
-  "count": 13979,
+  "updated": "2026-07-01 07:52:19",
+  "count": 13987,
   "items": [
+    {
+      "id": "4963808",
+      "time": "2026-07-01 07:51:23",
+      "tags": [
+        "其他"
+      ],
+      "text": "【中指研究院：上半年重點房企拿地總額同比下降33.7%】中指研究院指出，2026年上半年，100家房企拿地總額3360.0億元，同比下降33.7%，降幅較上月收窄6.8個百分點。京滬等核心城市市場熱度持續，5月以來深圳新政效應帶動明顯，而房企銷售端亦有邊際改善，銷售表現和市場熱度帶動下拿地金額同比降幅連續四月收窄。2026年上半年，100家房企全口徑新增貨值同比下降33.4%，降幅較1—5月收窄，主要是6月核心城市土拍熱度較高，越秀地產、華潤置地、保利發展位列前三。"
+    },
+    {
+      "id": "4963807",
+      "time": "2026-07-01 07:50:51",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本二季度短觀大型非製造業景氣判斷指數 37，預期 36，前值 36。日本二季度短觀大型製造業前景指數 17，預期 13，前值 14。日本二季度短觀大型非製造業前景指數 28，預期 29，前值 29。日本二季度短觀大型製造業景氣判斷指數 22，預期 16，前值 17。"
+    },
+    {
+      "id": "mkt:019f1af0-c938-7aab-8c45-7d9c8bca9630",
+      "time": "2026-07-01 07:50:15",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "Nikkei 225",
+        "Impact bullish",
+        "USDJPY",
+        "Impact bearish"
+      ],
+      "text": "Japan Q2 Tankan — large enterprises, all-industry capital expenditure index 11.5; consensus 10.50; prior 3.30."
+    },
+    {
+      "id": "4963806",
+      "time": "2026-07-01 07:50:14",
+      "tags": [
+        "其他"
+      ],
+      "text": "【青海海西州直轄區附近發生5.2級左右地震】中國地震臺網自動測定：07月01日07時44分在青海海西州直轄區附近（北緯37.85度，東經95.37度）發生5.2級左右地震，最終結果以正式速報為準。"
+    },
+    {
+      "id": "mkt:019f1af0-c28f-7aab-8c45-7356b1986830",
+      "time": "2026-07-01 07:50:13",
+      "tags": [
+        "MKT News",
+        "USDJPY",
+        "Impact mixed",
+        "Nikkei 225",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "Japan Q2 Tankan small non-manufacturing business conditions diffusion index 15, vs expected 14 and prior 16."
+    },
+    {
+      "id": "mkt:019f1af0-c167-7aab-8c45-6d7bbc829f48",
+      "time": "2026-07-01 07:50:13",
+      "tags": [
+        "MKT News",
+        "USDJPY",
+        "Impact bearish",
+        "Nikkei 225",
+        "Impact bullish"
+      ],
+      "text": "Japan Q2 Tankan small manufacturers business conditions DI 9, est. 4, prior 7."
+    },
+    {
+      "id": "mkt:019f1af0-c101-7aab-8c45-66033404e48e",
+      "time": "2026-07-01 07:50:13",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "Nikkei 225",
+        "Impact bullish",
+        "USDJPY",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "Japan Q2 Tankan large manufacturers outlook index rose to 17, vs expected 13 and prior 14."
+    },
+    {
+      "id": "mkt:019f1af0-b28c-7aab-8c45-5c80f450850b",
+      "time": "2026-07-01 07:50:09",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "Nikkei 225",
+        "Impact bullish",
+        "USDJPY",
+        "Impact bearish"
+      ],
+      "text": "Japan Q2 Tankan large manufacturers business conditions index 22; consensus 16; prior 17."
+    },
+    {
+      "id": "mkt:019f1af0-b228-7aab-8c45-54583d8da209",
+      "time": "2026-07-01 07:50:09",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bearish",
+        "Nikkei 225",
+        "Impact bullish",
+        "DXY"
+      ],
+      "text": "Japan Q2 Tankan large non-manufacturing business conditions DI 37, vs 35 expected and 36 prior."
+    },
+    {
+      "id": "mkt:019f1af0-9629-7aab-8c45-4aa7769b76ae",
+      "time": "2026-07-01 07:50:02",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Japan | Tankan Large Manufacturing Capital Spending (YoY) (Q2) | actual 11.5 | consensus 10.50 | previous 3.30"
+    },
+    {
+      "id": "mkt:019f1af0-9446-7aab-8c45-45deeaf05891",
+      "time": "2026-07-01 07:50:01",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Japan | Tankan Small Non-manufacturing Sentiment Index (Q2) | actual 15 | consensus 14 | previous 16"
+    },
+    {
+      "id": "mkt:019f1af0-941c-7aab-8c45-39cbbf72c577",
+      "time": "2026-07-01 07:50:01",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Japan | Tankan Small Manufacturing Sentiment Index (Q2) | actual 9 | consensus 4 | previous 7"
+    },
+    {
+      "id": "mkt:019f1af0-93ef-7aab-8c45-302c6494d680",
+      "time": "2026-07-01 07:50:01",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Japan | Tankan Large Non-manufacturing Sentiment Index (Q2) | actual 37 | consensus 35 | previous 36"
+    },
+    {
+      "id": "mkt:019f1af0-93cc-7aab-8c45-2ae37cb55d9a",
+      "time": "2026-07-01 07:50:01",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Japan | Tankan Large Manufacturing Outlook Index (Q2) | actual 17 | consensus 13 | previous 14"
+    },
+    {
+      "id": "mkt:019f1af0-9384-7aab-8c45-20694493d432",
+      "time": "2026-07-01 07:50:01",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Japan | Tankan Large Manufacturing Sentiment Index (Q2) | actual 22 | consensus 16 | previous 17"
+    },
+    {
+      "id": "mkt:019f1af0-81d5-7aab-8c45-1eaf398b3b92",
+      "time": "2026-07-01 07:49:57",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Tesla",
+        "Market Themes",
+        "Magnificent 7",
+        "TSLA.O",
+        "Impact bullish"
+      ],
+      "text": "June vehicle registrations for Tesla (TSLA.O) in France rose 104.99%, the French auto industry group PFA said."
+    },
+    {
+      "id": "4963805",
+      "time": "2026-07-01 07:49:27",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【受美國科技股上漲提振，日經指數或將走高】繼隔夜美國科技股上漲之後，日本股市可能走高。對人工智慧相關需求的預期可能會繼續支撐市場。新加坡交易所的日經指數期貨上漲1.1%，至71040點。投資者正關注中東局勢的發展，以及日本政府官員對日元走弱的任何評論。日經指數週二上漲0.9%，至70062.32點。"
+    },
     {
       "id": "4963804",
       "time": "2026-07-01 07:47:22",
@@ -128308,92 +128498,6 @@
         "國際"
       ],
       "text": "日本央行會議紀要：一名委員認為，由於當前金融環境仍處於寬鬆狀態，適宜繼續加息。"
-    },
-    {
-      "id": "4951291",
-      "time": "2026-06-24 07:52:00",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "日本央行6月會議意見摘要：一位委員表示，由於匯率波動推高進口價格，調整貨幣支援力度已變得更加合適。"
-    },
-    {
-      "id": "4951290",
-      "time": "2026-06-24 07:51:20",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【油價下跌，受中東供應干擾進一步緩解跡象影響】亞洲早盤油價下跌，受中東供應干擾進一步緩解的跡象影響。澳新銀行研究部分析師在一份研究報告中說：“油輪在透過霍爾木茲海峽時變得更加公開。“這些分析師說：“國際海事組織表示，已獲得安全保證，允許數百艘船隻駛出波斯灣。“這些分析師補充說：“該計劃將與伊朗、阿曼和美國合作執行。“霍爾木茲海峽是一條關鍵水道，全球五分之一的石油通常透過該水道運輸。近月西得州中質油期貨下跌0.4%，報每桶72.89美元。"
-    },
-    {
-      "id": "mkt:019ef6e4-88ea-7dd8-b0e5-023cc08f48be",
-      "time": "2026-06-24 07:50:32",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC",
-        "USDJPY",
-        "Impact bearish",
-        "DXY",
-        "EURUSD",
-        "Impact bullish"
-      ],
-      "text": "Japan May corporate services price index YoY 3.3% (prior 3.0%)."
-    },
-    {
-      "id": "mkt:019ef6e4-7dfd-7dd8-b0e4-ff828519b983",
-      "time": "2026-06-24 07:50:30",
-      "tags": [
-        "MKT News",
-        "USDJPY"
-      ],
-      "text": "Japan corporate services price index MoM 0.0% in May, down from 0.5% in April."
-    },
-    {
-      "id": "mkt:019ef6e4-6a73-7dd8-b0e4-f29619900378",
-      "time": "2026-06-24 07:50:24",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "Japan | Services Producer Price Index (All items) (YoY) (May) | actual 3.3% | previous 3.00%"
-    },
-    {
-      "id": "mkt:019ef6e4-5b37-7dd8-b0e4-ed64f435bd75",
-      "time": "2026-06-24 07:50:21",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "Japan | Services Producer Price Index (All items) (MoM) (May) | actual 0% | previous 0.5%"
-    },
-    {
-      "id": "4951289",
-      "time": "2026-06-24 07:50:17",
-      "tags": [
-        "其他"
-      ],
-      "text": "古茗控股：擬將發債所得款項淨額用於採購鮮果等原材料及其他用途。"
-    },
-    {
-      "id": "4951288",
-      "time": "2026-06-24 07:50:00",
-      "tags": [
-        "公司"
-      ],
-      "text": "古茗控股有限公司：擬發行19.6億港元零息有擔保可轉換債券並同步進行股份回購。"
-    },
-    {
-      "id": "4951287",
-      "time": "2026-06-24 07:49:24",
-      "tags": [
-        "市場"
-      ],
-      "text": "【日經指數期貨轉漲，此前一度跌0.5%】6月24日，日經指數期貨轉漲，此前一度跌0.5%。"
     }
   ]
 }
