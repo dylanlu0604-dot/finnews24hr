@@ -1,7 +1,44 @@
 {
-  "updated": "2026-07-01 00:46:12",
-  "count": 13918,
+  "updated": "2026-07-01 00:50:28",
+  "count": 13917,
   "items": [
+    {
+      "id": "4963517",
+      "time": "2026-07-01 00:49:31",
+      "tags": [
+        "國際"
+      ],
+      "text": "分析師預計美國原油庫存將錄得周度下降。"
+    },
+    {
+      "id": "mkt:019f196d-aacb-7aab-8c3e-c1aa4f98d13f",
+      "time": "2026-07-01 00:47:25",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "PETR4.SA",
+        "Impact bearish"
+      ],
+      "text": "Brazil's state-controlled oil company Petrobras said a mechanism will limit August increases in natural gas prices supplied to state distributors to 6%, down from a previously expected 22%."
+    },
+    {
+      "id": "4963516",
+      "time": "2026-07-01 00:47:16",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "以色列軍方表示，其緊急出動兩架戰鬥機，前往地中海上空攔截一架民航客機；歐洲官員稱，該機飛行員誤發出了劫機求救程式碼。"
+    },
+    {
+      "id": "4963515",
+      "time": "2026-07-01 00:45:44",
+      "tags": [
+        "公司"
+      ],
+      "text": "巴西國家石油公司表示，該機制將把面向國有分銷商的天然氣價格漲幅在8月限制在6%，低於此前預估的22%漲幅。"
+    },
     {
       "id": "mkt:019f1969-e6de-7aab-8c3e-b89871585a0b",
       "time": "2026-07-01 00:43:18",
@@ -127681,54 +127718,6 @@
         "其他"
       ],
       "text": "LME期銅收跌278美元，報13371美元/噸。LME期鋁收跌132美元，報3232美元/噸。LME期鋅收跌116美元，報3492美元/噸。LME期鉛收跌30美元，報1934美元/噸。LME期鎳收跌582美元，報17172美元/噸。LME期錫收跌3031美元，報51154美元/噸。LME期鈷收平，報56290美元/噸。"
-    },
-    {
-      "id": "4951007",
-      "time": "2026-06-24 00:49:39",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【機構：特斯拉第二季度交付量料達39.29萬 該公司與SpaceX有可能合併】Baird分析師Ben Kallo預測，特斯拉第二季度料將交付392,900輛汽車。他補充說，這家電動汽車公司2026年的總交付量將達到168萬輛。這位分析師寫道：“我們認為SpaceX與特斯拉的合併很有可能發生，預計需要12到18個月的時間。”他還補充說，兩家公司的合併是“最終方向”，而且“清晰並令人信服，兩家公司都將受益於更大的規模”。除了可能與SpaceX合併之外，特斯拉的潛在催化劑還包括Optimus機器人升級、歐盟監管機構進一步採納全自動駕駛技術、無人駕駛計程車業務在美國拓展、Tesla Semi卡車推出，以及能源業務新產品。Kallo重申對特斯拉的“跑贏大盤”評級和目標價522美元。"
-    },
-    {
-      "id": "mkt:019ef562-e0cc-7dd8-b0df-e814c0195190",
-      "time": "2026-06-24 00:49:18",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "EG Group, a fuel-station and convenience-store operator, has confidentially applied for a U.S. IPO seeking about $1 bln."
-    },
-    {
-      "id": "4951006",
-      "time": "2026-06-24 00:48:19",
-      "tags": [
-        "公司"
-      ],
-      "text": "埃尼集團、阿爾巴尼亞能源與基礎設施部、阿爾巴尼亞經濟與創新部簽署意向備忘錄，計劃開展可行性研究，在阿爾巴尼亞境內建設並運營國家戰略油氣儲備基地與能源樞紐。"
-    },
-    {
-      "id": "mkt:019ef561-a881-7dd8-b0df-e4fe8670014d",
-      "time": "2026-06-24 00:47:58",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Meta Platforms",
-        "Market Themes",
-        "AI Revolution",
-        "Magnificent 7",
-        "META.O",
-        "Impact bullish"
-      ],
-      "text": "The New York Times reports Meta Platforms (META.O) is working on an app called Meta Photos that would use AI to generate new forms of media."
-    },
-    {
-      "id": "4951005",
-      "time": "2026-06-24 00:47:45",
-      "tags": [
-        "其他"
-      ],
-      "text": "市場訊息：Meta 還在測試一款名為 Meta Photos 的獨立付費產品，該產品將藉助人工智慧生成全新形式的媒體內容。"
     }
   ]
 }
