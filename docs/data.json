@@ -1,7 +1,31 @@
 {
-  "updated": "2026-07-01 00:58:27",
-  "count": 13918,
+  "updated": "2026-07-01 01:02:25",
+  "count": 13909,
   "items": [
+    {
+      "id": "4963525",
+      "time": "2026-07-01 01:01:21",
+      "tags": [
+        "公司"
+      ],
+      "text": "蘋果公司：推出Apple Creator Studio更新版本。"
+    },
+    {
+      "id": "4963524",
+      "time": "2026-07-01 01:00:01",
+      "tags": [
+        "市場"
+      ],
+      "text": "【夜盤期貨收盤】國際銅夜盤收漲0.56%，滬銅收漲0.38%，滬鋁收漲0.11%，滬鋅收漲1.40%，滬鉛收跌0.47%，滬鎳收漲0.32%，滬錫收漲2.25%。氧化鋁夜盤收跌0.25%，鋁合金收漲0.42%。不鏽鋼夜盤收漲0.92%。"
+    },
+    {
+      "id": "4963523",
+      "time": "2026-07-01 00:59:29",
+      "tags": [
+        "國際"
+      ],
+      "text": "Meta未能駁回美國各州關於Facebook和Instagram使兒童上癮的指控。"
+    },
     {
       "id": "mkt:019f1975-bcc0-7aab-8c3e-f392bc207ca5",
       "time": "2026-07-01 00:56:14",
@@ -127604,128 +127628,6 @@
         "其他"
       ],
       "text": "Anthropic：計劃將 @Claude 呼叫功能拓展至其他產品介面 。輸入 @Claude 進行標記後，系統會將任務拆解為多個步驟，依次分步執行，並呼叫所有可用工具完成處理。可對 @Claude 可訪問的敏感資料及專項任務工具設定極嚴格的許可權範圍。"
-    },
-    {
-      "id": "mkt:019ef56e-de61-7dd8-b0e0-6a0501f34d68",
-      "time": "2026-06-24 01:02:24",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "Treasury Yields",
-        "US10Y",
-        "Impact bearish",
-        "DXY",
-        "Impact bullish",
-        "EURUSD"
-      ],
-      "text": "U.S. 2-year Treasury auction to June 23: share of allotment at the stop-out yield 5.66%, prior 42.14%."
-    },
-    {
-      "id": "mkt:019ef56e-c23f-7dd8-b0e0-66d8a1848be5",
-      "time": "2026-06-24 01:02:17",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "Treasury Yields",
-        "DXY",
-        "Impact bullish",
-        "S&P500",
-        "Impact bearish",
-        "US10Y"
-      ],
-      "text": "U.S. 2-year Treasury auction on June 23 — stop-out yield 4.189%, prior 4.07%."
-    },
-    {
-      "id": "mkt:019ef56e-c1b9-7dd8-b0e0-5ba3fa14a0da",
-      "time": "2026-06-24 01:02:16",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "Treasury Yields",
-        "US10Y"
-      ],
-      "text": "US 2-year Treasury auction on June 23: bid-cover ratio 2.64; prior 2.64."
-    },
-    {
-      "id": "mkt:019ef56e-984d-7dd8-b0e0-4c56aeaa5e2c",
-      "time": "2026-06-24 01:02:06",
-      "tags": [
-        "MKT News",
-        "Economic Calendar"
-      ],
-      "text": "United States | 2-Year Note Auction Bid/Cover Ratio (Jun.23) | actual 2.64 | previous 2.64"
-    },
-    {
-      "id": "mkt:019ef56e-9856-7dd8-b0e0-55f5031c534d",
-      "time": "2026-06-24 01:02:06",
-      "tags": [
-        "MKT News",
-        "Economic Calendar"
-      ],
-      "text": "United States | 2-Year Note Auction Accepted at High (Jun.23) | actual 5.66% | previous 42.14%"
-    },
-    {
-      "id": "mkt:019ef56e-9833-7dd8-b0e0-44b211fd7cd1",
-      "time": "2026-06-24 01:02:06",
-      "tags": [
-        "MKT News",
-        "Economic Calendar"
-      ],
-      "text": "United States | 2-Year Note Auction High Yield Rate (Jun.23) | actual 4.189% | previous 4.07%"
-    },
-    {
-      "id": "mkt:019ef56e-70a7-7dd8-b0e0-3d2846488055",
-      "time": "2026-06-24 01:01:56",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Industrial Metals",
-        "Copper",
-        "Impact bearish"
-      ],
-      "text": "【Night session main contracts close】As of 01:00 Beijing time, SHFE copper main contract -1.13%, SHFE aluminum -1.47%, SHFE zinc -1.59%, SHFE nickel -2.21%, SHFE tin -4.59%, SHFE lead +0.06%, SHFE stainless steel main contract -1.41%, SHFE alumina +0.17%, international copper main contract -1.30%."
-    },
-    {
-      "id": "4951013",
-      "time": "2026-06-24 01:00:02",
-      "tags": [
-        "市場"
-      ],
-      "text": "【夜盤期貨收盤】國際銅夜盤收跌1.30%，滬銅收跌1.13%，滬鋁收跌1.47%，滬鋅收跌1.59%，滬鉛收漲0.06%，滬鎳收跌2.10%，滬錫收跌4.44%。氧化鋁夜盤收漲0.17%，鋁合金收跌1.07%。不鏽鋼夜盤收跌1.41%。"
-    },
-    {
-      "id": "mkt:019ef56c-3226-7dd8-b0e0-32c459a59a81",
-      "time": "2026-06-24 00:59:29",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "S3 Partners estimates SpaceX short interest at roughly 5–7% of float."
-    },
-    {
-      "id": "4951012",
-      "time": "2026-06-24 00:59:22",
-      "tags": [
-        "其他"
-      ],
-      "text": "S3 Partners 資料：SpaceX 空頭倉位約佔流通股的 5% 至 7%。"
-    },
-    {
-      "id": "mkt:019ef56b-ee74-7dd8-b0e0-2e52904fd972",
-      "time": "2026-06-24 00:59:11",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【US to engage directly with Lebanese government, Rubio says】On June 23, US Secretary of State Rubio said the United States will engage directly with the Lebanese government. Asked about arrangements for the Strait of Hormuz, Rubio said under current international law no country is permitted to levy transit fees or other charges in international waterways, and that specifics will be raised and discussed at an appropriate time."
-    },
-    {
-      "id": "mkt:019ef56b-88fe-7dd8-b0e0-20c90b00bb14",
-      "time": "2026-06-24 00:58:45",
-      "tags": [
-        "MKT News",
-        "SPSC.O",
-        "Impact bullish"
-      ],
-      "text": "Sources say supply-chain software maker SPS Commerce is exploring a sale and has hired Morgan Stanley to advise. SPS Commerce shares were up more than 7%."
     }
   ]
 }
