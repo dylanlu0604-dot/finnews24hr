@@ -1,7 +1,32 @@
 {
-  "updated": "2026-07-01 01:06:22",
-  "count": 13913,
+  "updated": "2026-07-01 01:10:22",
+  "count": 13912,
   "items": [
+    {
+      "id": "mkt:019f197f-54e5-7aab-8c3f-1227da31d3ca",
+      "time": "2026-07-01 01:06:42",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "The U.S. International Trade Commission ruled in a changed‑circumstances review of fresh tomatoes from Mexico that it did not find in favor of modifying existing trade restrictions."
+    },
+    {
+      "id": "4963534",
+      "time": "2026-07-01 01:06:38",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "美國以涉嫌與販毒集團存在關聯為由，制裁墨西哥多家實體企業。"
+    },
+    {
+      "id": "4963533",
+      "time": "2026-07-01 01:06:30",
+      "tags": [
+        "其他"
+      ],
+      "text": "沙烏地阿拉伯M3貨幣供應量或將同比增長8.9%。"
+    },
     {
       "id": "mkt:019f197e-4dca-7aab-8c3f-0b6dbeb23ac9",
       "time": "2026-07-01 01:05:35",
@@ -127626,46 +127651,6 @@
         "DXY"
       ],
       "text": "【Pezeshkian: Iran–US memorandum does not cover missiles】On the 23rd, while visiting Pakistan, President Pezeshkian said the Iran–US memorandum does not cover missile issues and will not be expanded to do so. He said Iran will never negotiate its defensive capabilities with any party."
-    },
-    {
-      "id": "4951022",
-      "time": "2026-06-24 01:10:16",
-      "tags": [
-        "國際"
-      ],
-      "text": "【伊朗總統：伊美諒解備忘錄不涉及導彈問題】當地時間23日，正在巴基斯坦訪問的伊朗總統佩澤希齊揚在接受採訪時表示，伊美諒解備忘錄中並不包含導彈問題，未來也不會將其納入議題。佩澤希齊揚稱，伊朗永遠不會與任何人協商伊朗方面的防禦能力。巴基斯坦總理夏巴茲·謝里夫表示，某些國家擁有彈道導彈，而伊朗卻被禁止擁有，這種“雙重標準”是不可接受且不合邏輯的。（央視新聞）"
-    },
-    {
-      "id": "mkt:019ef573-d13b-7dd8-b0e0-7f96617f31a3",
-      "time": "2026-06-24 01:07:48",
-      "tags": [
-        "MKT News",
-        "Important",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "【Iran president says without missiles Iran would have been flattened like Gaza】On June 23, during a visit to Pakistan, President PEZESHKIAN said the Iran‑US memorandum of understanding does not cover Iran’s missiles and that Iran will never negotiate its defensive capabilities; he added that without its missiles Iran would have been flattened by the US and Israel like Gaza. Pakistan Prime Minister Shehbaz Sharif said banning Iran from possessing ballistic missiles while other countries have them would be a double standard, calling that unacceptable and illogical."
-    },
-    {
-      "id": "mkt:019ef573-3ee1-7dd8-b0e0-70b32c4fb955",
-      "time": "2026-06-24 01:07:11",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "Market news: ANTHROPIC seeks deeper integration of Claude into Slack chat."
-    },
-    {
-      "id": "4951021",
-      "time": "2026-06-24 01:06:59",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "【伊朗總統稱若無導彈伊朗已成加沙】當地時間6月23日，正在巴基斯坦訪問的伊朗總統佩澤希齊揚在接受採訪時表示，伊美諒解備忘錄中不包含伊朗導彈問題，而且未來也絕不會將此納入談判中。佩澤希齊揚說，“如果不是因為我們的導彈，伊朗早就被美國和以色列夷為平地了，就像巴勒斯坦加沙地帶一樣。伊朗永遠不會與任何人談判我們的防禦能力。”巴基斯坦總理夏巴茲·謝里夫表示，其他國家擁有彈道導彈，伊朗被禁止擁有的話那就是“雙重標準”，這是不可接受且不合邏輯的。（CCTV國際時訊）"
     }
   ]
 }
