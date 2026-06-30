@@ -1,7 +1,53 @@
 {
-  "updated": "2026-07-01 02:32:58",
-  "count": 13932,
+  "updated": "2026-07-01 02:36:53",
+  "count": 13935,
   "items": [
+    {
+      "id": "mkt:019f19cf-f7b0-7aab-8c40-5ea0b4086263",
+      "time": "2026-07-01 02:34:47",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Colombia's central bank governor said the technical team's forecast shows inflation may reach about 4% by end-2027, with a return to the 3% target expected in 2028."
+    },
+    {
+      "id": "4963592",
+      "time": "2026-07-01 02:34:21",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列中部傳來巨大爆炸聲。"
+    },
+    {
+      "id": "mkt:019f19cf-593e-7aab-8c40-506db766628d",
+      "time": "2026-07-01 02:34:06",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "Brent",
+        "DXY"
+      ],
+      "text": "Market sources report a large explosion heard in central Israel."
+    },
+    {
+      "id": "4963591",
+      "time": "2026-07-01 02:33:28",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "哥倫比亞央行行長比利亞爾表示，通脹率將在2028年回落至3%的目標水平。"
+    },
+    {
+      "id": "4963590",
+      "time": "2026-07-01 02:33:26",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "哥倫比亞央行行長比利亞爾表示，技術團隊的預測顯示，到2027年底通脹率有望達到約4%。"
+    },
     {
       "id": "mkt:019f19cd-760c-7aab-8c40-4d93c66d8f67",
       "time": "2026-07-01 02:32:03",
@@ -127850,22 +127896,6 @@
         "Impact bearish"
       ],
       "text": "Fuselage cracks detected on Airbus A380s operated by Emirates and Qantas; Airbus to inspect 16 A380 aircraft."
-    },
-    {
-      "id": "4951061",
-      "time": "2026-06-24 02:36:43",
-      "tags": [
-        "其他"
-      ],
-      "text": "市場訊息：阿聯酋航空、澳洲航空旗下空客 A380 客機被檢出機身裂紋。"
-    },
-    {
-      "id": "4951060",
-      "time": "2026-06-24 02:36:19",
-      "tags": [
-        "其他"
-      ],
-      "text": "市場訊息：空客在發現機身裂紋後，將對 16 架 A380 客機開展檢查。"
     }
   ]
 }
