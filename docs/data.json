@@ -1,7 +1,57 @@
 {
-  "updated": "2026-07-01 03:04:43",
-  "count": 13949,
+  "updated": "2026-07-01 03:08:48",
+  "count": 13946,
   "items": [
+    {
+      "id": "4963621",
+      "time": "2026-07-01 03:07:50",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗議會議長卡利巴夫： 自我方解除封鎖之日至今，伊朗原油出口量已超 4000 萬桶。"
+    },
+    {
+      "id": "4963620",
+      "time": "2026-07-01 03:07:29",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗議會議長卡利巴夫：將成立由伊朗、美國及黎巴嫩參與的聯合委員會，推動黎巴嫩主權與停火落實，伊朗駐外代表將參與該機制。自瑞士之行後，黎巴嫩的火力衝突與傷亡規模呈下降趨勢，但仍存在問題。前往瑞士的訪問也是圍繞五項條款執行情況進行溝通。對話的目的只是推動既有談判成果落地。"
+    },
+    {
+      "id": "mkt:019f19ed-364f-7aab-8c41-3f2b1b3f1a63",
+      "time": "2026-07-01 03:06:44",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iranian parliament speaker Ghalibaf said his visit to Switzerland also focused on discussions over implementation of five terms, and that the talks' sole purpose was to press for implementation of existing negotiation outcomes."
+    },
+    {
+      "id": "mkt:019f19ec-5bd1-7aab-8c41-33002f1049f2",
+      "time": "2026-07-01 03:05:48",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iran's parliament speaker Ghalibaf said that since his trip to Switzerland the intensity of armed exchanges and the scale of casualties in Lebanon have trended down, but problems remain."
+    },
+    {
+      "id": "4963619",
+      "time": "2026-07-01 03:05:16",
+      "tags": [
+        "市場"
+      ],
+      "text": "在岸人民幣兌美元（CNY）北京時間03:00收報6.7880元，較週一夜盤收盤漲80點。成交量551.49億美元。"
+    },
+    {
+      "id": "mkt:019f19eb-6e02-7aab-8c41-2d768cb74617",
+      "time": "2026-07-01 03:04:47",
+      "tags": [
+        "MKT News",
+        "PBR.O",
+        "Impact bearish"
+      ],
+      "text": "Brazil's finance minister said fuel prices remain slightly above pre-war levels, which partly supports retaining some subsidy measures."
+    },
     {
       "id": "mkt:019f19ea-26cc-7aab-8c41-23af4aadcce5",
       "time": "2026-07-01 03:03:23",
@@ -127911,101 +127961,6 @@
         "國際"
       ],
       "text": "特朗普稱讚禮來公司。"
-    },
-    {
-      "id": "mkt:019ef5e0-fee0-7dd8-b0e2-840bb5d4d12d",
-      "time": "2026-06-24 03:07:03",
-      "tags": [
-        "MKT News",
-        "Brent",
-        "Impact bearish",
-        "XAUUSD",
-        "S&P500",
-        "Impact bullish"
-      ],
-      "text": "US President Trump said the US will strip Iran of its nuclear capability and that Iran has agreed to this."
-    },
-    {
-      "id": "4951086",
-      "time": "2026-06-24 03:06:59",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普談及伊朗： 我們會讓伊朗徹底喪失導彈作戰能力。"
-    },
-    {
-      "id": "mkt:019ef5e0-ae86-7dd8-b0e2-7fb37495d0af",
-      "time": "2026-06-24 03:06:43",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "Market Themes",
-        "The Trump Trade",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "U.S. President Trump said energy prices have fallen sharply."
-    },
-    {
-      "id": "4951085",
-      "time": "2026-06-24 03:06:38",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：沙特國王曾對我說“閣下，您要知道，兩年前貴國當時處境岌岌可危”。"
-    },
-    {
-      "id": "mkt:019ef5e0-42a8-7dd8-b0e2-7606bcbe1869",
-      "time": "2026-06-24 03:06:15",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "XAUUSD",
-        "DXY"
-      ],
-      "text": "U.S. President Trump said \"We can fly over Tehran whenever we want; no one would dare do anything to us,\" and said he had seen \"fake news\" reports claiming they (Iran) are doing quite well."
-    },
-    {
-      "id": "mkt:019ef5df-f4b5-7dd8-b0e2-6a3bb6ee03ed",
-      "time": "2026-06-24 03:05:55",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "Market Themes",
-        "The Trump Trade",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "President Trump said the US is working to reach a fair deal with Iran. Yesterday 19 mln barrels of oil transited the Strait of Hormuz."
-    },
-    {
-      "id": "4951084",
-      "time": "2026-06-24 03:05:22",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普談及伊朗： 我們可以隨意飛越德黑蘭上空，沒人能拿我們怎麼樣。"
-    },
-    {
-      "id": "4951083",
-      "time": "2026-06-24 03:05:18",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普談及伊朗： 我們會徹底剝奪其所有核能力，伊朗方面已對此表示同意。 目前雙方溝通進展十分順利。"
-    },
-    {
-      "id": "4951082",
-      "time": "2026-06-24 03:04:49",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：美國正致力於與伊朗達成公平協議，昨日有1900萬桶石油經由霍爾木茲海峽運輸。"
     }
   ]
 }
