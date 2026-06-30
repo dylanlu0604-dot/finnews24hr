@@ -1,7 +1,23 @@
 {
-  "updated": "2026-07-01 01:26:21",
-  "count": 13904,
+  "updated": "2026-07-01 01:30:12",
+  "count": 13900,
   "items": [
+    {
+      "id": "4963548",
+      "time": "2026-07-01 01:28:56",
+      "tags": [
+        "其他"
+      ],
+      "text": "巴西政府將開始削減緊急燃油補貼。"
+    },
+    {
+      "id": "4963547",
+      "time": "2026-07-01 01:26:32",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國投資者在倫敦起訴幣安，索賠1.5億英鎊。"
+    },
     {
       "id": "4963546",
       "time": "2026-07-01 01:24:07",
@@ -127505,69 +127521,6 @@
         "公司"
       ],
       "text": "聯合航空：公司將聯合 DirecTV，在搭載星鏈網路的座椅靠背顯示屏上提供電視直播服務，活動持續至 7 月 20 日。"
-    },
-    {
-      "id": "4951037",
-      "time": "2026-06-24 01:29:34",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "美國國務院：持續實施破壞、顛覆政權的行徑，對該國及整個西半球的憲政秩序與民主穩定構成嚴重威脅。"
-    },
-    {
-      "id": "mkt:019ef587-58c6-7dd8-b0e0-f4d2e15a055f",
-      "time": "2026-06-24 01:29:08",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "The Trump Trade",
-        "Macro & Rates",
-        "US Economy",
-        "DXY",
-        "Impact bullish",
-        "S&P500",
-        "US10Y",
-        "Impact bearish"
-      ],
-      "text": "Asked whether truck drivers face a high risk of job losses from AI, US President Trump said they will not lose their jobs, that finding work is not difficult now, and that US employment data is at historic highs."
-    },
-    {
-      "id": "4951036",
-      "time": "2026-06-24 01:29:04",
-      "tags": [
-        "市場",
-        "央行",
-        "國際"
-      ],
-      "text": "【彭博美元指數創11月以來最高水平 交易員上調美聯儲升息押注】彭博美元即期指數週二升至去年11月以來最高水平，交易員進一步強化了對美聯儲今年加息的預期。彭博美元即期指數上漲0.4%。隨著美聯儲政策前景與全球其他主要央行日益背離，美元獲得支撐。交易員目前預計，到2027年初，美國將累計加息近50個基點，相當於接近兩次25個基點的加息。瑞穗國際策略師Jordan Rochester表示：“美元還有進一步上漲空間。美元通常會在美聯儲加息前走強，而市場目前正在考慮9月啟動加息週期的可能性。”"
-    },
-    {
-      "id": "4951035",
-      "time": "2026-06-24 01:28:45",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "美國國務院：對玻利維亞暴力封路行為損害當地民主與法治深表關切。"
-    },
-    {
-      "id": "mkt:019ef586-7597-7dd8-b0e0-ee7cd6ce044c",
-      "time": "2026-06-24 01:28:10",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Trump on the Iran deal: anyone who criticizes the agreement must be educated, even my friends."
-    },
-    {
-      "id": "mkt:019ef585-1075-7dd8-b0e0-e7538989c743",
-      "time": "2026-06-24 01:26:38",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)"
-      ],
-      "text": "CNBC reports the selection process for the Atlanta Fed presidency has restarted after Wosh was named Federal Reserve chair."
     }
   ]
 }
