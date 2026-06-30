@@ -1,7 +1,212 @@
 {
-  "updated": "2026-07-01 06:20:48",
-  "count": 13964,
+  "updated": "2026-07-01 06:52:00",
+  "count": 13967,
   "items": [
+    {
+      "id": "te:markets:563115",
+      "time": "2026-07-01 06:45:09",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Crypto",
+        "Importance 1"
+      ],
+      "text": "Crypto Updates: Ether Drops by 2.73% — Top crypto losers are Ether (-2.73%), Bitcoin (-2.72%) and Binance (-2.62%)."
+    },
+    {
+      "id": "te:markets:563114",
+      "time": "2026-07-01 06:40:09",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Agricultural Commodities Updates: Coffee Soars by 8.77% — Top commodity gainers are Coffee (8.77%) and Corn (2.67%). Biggest losers are Rice (-2.99%), Canola (-1.47%) and Rapeseed (-1.46%)."
+    },
+    {
+      "id": "4963738",
+      "time": "2026-07-01 06:38:57",
+      "tags": [
+        "公司"
+      ],
+      "text": "【國產儲存主控晶片商“競速”資本市場】據上海證券交易所網站披露，英韌科技股份有限公司科創板IPO申請已於6月29日獲受理，保薦機構為國泰海通證券。歷經多年積累，國產儲存主控晶片龍頭公司在技術和市場端實現快速突破，正加速走進資本市場。記者注意到，除了英韌科技IPO獲受理外，聯芸科技、大普微已經率先登陸A股，得一微正在二度衝刺IPO，憶芯科技高管則在年初表示即將開啟IPO征途。（上證報）"
+    },
+    {
+      "id": "mkt:019f1aaf-2c18-7aab-8c44-ac32717ddcff",
+      "time": "2026-07-01 06:38:35",
+      "tags": [
+        "MKT News",
+        "BA.N"
+      ],
+      "text": "Boeing (BA.N) said its IT team is working to restore normal operations across all systems."
+    },
+    {
+      "id": "mkt:019f1aaf-0750-7aab-8c44-a51d1add4878",
+      "time": "2026-07-01 06:38:25",
+      "tags": [
+        "MKT News",
+        "BA.N",
+        "Impact bullish"
+      ],
+      "text": "Boeing (BA.N): Cause of the malfunction has been identified; no reason to believe it was caused by a cyberattack."
+    },
+    {
+      "id": "mkt:019f1aae-7e0e-7aab-8c44-9ec5f1950e77",
+      "time": "2026-07-01 06:37:50",
+      "tags": [
+        "MKT News",
+        "BA.N"
+      ],
+      "text": "Boeing (BA.N) said it experienced an unplanned IT outage affecting some computer systems and applications."
+    },
+    {
+      "id": "4963737",
+      "time": "2026-07-01 06:37:22",
+      "tags": [
+        "公司"
+      ],
+      "text": "波音公司：現已查明此次系統中斷故障的成因，目前沒有證據表明該故障源於網路攻擊。"
+    },
+    {
+      "id": "4963736",
+      "time": "2026-07-01 06:36:53",
+      "tags": [
+        "公司"
+      ],
+      "text": "波音公司：我們遭遇非計劃內資訊科技系統中斷故障，部分計算機系統及應用程式受到影響。"
+    },
+    {
+      "id": "te:markets:563113",
+      "time": "2026-07-01 06:35:08",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Metals Commodities Updates: Lithium Carbonate Gains by 3.13% — Top commodity gainers are Lithium Carbonate (3.13%), Copper (1.59%) and Silver (0.93%). Biggest losers are Titanium (-2.06%) and Platinum (-1.90%). Meanwhile Gold was little changed."
+    },
+    {
+      "id": "mkt:019f1aa9-7f47-7aab-8c44-93870dc608c8",
+      "time": "2026-07-01 06:32:23",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "Petrobras said diesel prices to distributors will remain unchanged after the adjustment, averaging 3.30 reais per litre."
+    },
+    {
+      "id": "4963734",
+      "time": "2026-07-01 06:32:06",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國高階官員： 途經霍爾木茲海峽的船舶通行量有所回升。"
+    },
+    {
+      "id": "4963733",
+      "time": "2026-07-01 06:31:06",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "美國高階官員透露多哈會談相關情況： 維特科夫、庫什納與地區領導人舉行了積極會談。技術性談判仍在進行，已取得良好進展。"
+    },
+    {
+      "id": "mkt:019f1aa7-7821-7aab-8c44-8d80ea15c656",
+      "time": "2026-07-01 06:30:10",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Apple",
+        "Market Themes",
+        "Magnificent 7",
+        "AAPL.O"
+      ],
+      "text": "Financial Times: Apple (AAPL.O) CEO Cook held constructive talks with the EU technology chief on \"Siri AI\"."
+    },
+    {
+      "id": "te:markets:563112",
+      "time": "2026-07-01 06:30:08",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Energy Commodities Updates: Methanol Drops by 4.78% — Top commodity losers are Methanol (-4.78%), Crude Oil WTI (-1.14%) and Brent Crude Oil (-0.81%). Gains are led by Natural Gas EU (2.34%), Natural Gas UK (2.26%) and Germany Natural Gas THE (2.25%)."
+    },
+    {
+      "id": "4963732",
+      "time": "2026-07-01 06:29:23",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "市場訊息：蘋果 CEO 蒂姆・庫克與歐盟數字事務專員就 Siri 人工智慧展開 “富有建設性” 的會談。"
+    },
+    {
+      "id": "mkt:019f1aa6-65e4-7aab-8c44-838adc3520ae",
+      "time": "2026-07-01 06:29:00",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "PETR4.SA",
+        "Impact bearish"
+      ],
+      "text": "Petrobras said it will cut diesel prices by 0.35 reais a litre from July 1."
+    },
+    {
+      "id": "4963731",
+      "time": "2026-07-01 06:28:23",
+      "tags": [
+        "公司"
+      ],
+      "text": "巴西國家石油公司釋出宣告：自 7 月 1 日起，柴油零售價每升下調 0.35 雷亞爾。"
+    },
+    {
+      "id": "4963730",
+      "time": "2026-07-01 06:28:01",
+      "tags": [
+        "資料",
+        "央行",
+        "國際"
+      ],
+      "text": "【週三重要財經資訊提醒（以下均為北京時間）】\n① 07:50 日本二季度短觀大型製造業前景指數；\n② 08:00 韓國6月出口；\n③ 08:30 越南6月製造業PMI；\n④ 08:30 韓國6月製造業PMI，日本6月製造業PMI終值；\n⑤ 時間待定 達沃斯科技峰會（Davos Tech Summit 2026）在遼寧開幕；\n⑥ 09:45 中國6月RatingDog製造業PMI；\n⑦ 13:00 印度6月製造業PMI終值；\n⑧ 15:45 義大利6月製造業PMI，15:45 歐洲央行副行長Vujcic在葡萄牙Sintra主持一場會議；\n⑨ 15:50 法國6月製造業PMI終值；\n⑩ 15:55 德國6月製造業PMI終值；16:00 歐元區6月製造業PMI終值；\n16:30 英國6月製造業PMI終值；16:45 歐洲央行執委Cipollone在葡萄牙Sintra主持一場會議；\n17:00 歐元區6月調和CPI初值；18:15 歐洲央行首席經濟學家Lane在葡萄牙Sintra主持一場會議；\n20:15 美國6月ADP就業人數；\n21:00 歐洲央行行長拉加德、美聯儲主席沃什、英國央行行長貝利、加拿大央行行長Macklem講話，沃什出席歐洲央行論壇的一個會議；\n22:00 美國6月ISM製造業就業指數，歐洲央行行長拉加德在葡萄牙Sintra致閉幕詞；\n22:30 美國能源資訊署（EIA）釋出政府版原油庫存週報。"
+    },
+    {
+      "id": "mkt:019f1aa0-560c-7aab-8c44-7dc60bc904c6",
+      "time": "2026-07-01 06:22:23",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "Politico reports a senior White House official said the U.S. Commerce Department is expected to lift export controls on Anthropic's AI model Fable tonight (U.S. local time)."
+    },
+    {
+      "id": "4963729",
+      "time": "2026-07-01 06:22:15",
+      "tags": [
+        "其他",
+        "焦點",
+        "國際"
+      ],
+      "text": "據Politico：一位白宮高階官員透露，美國商務部預計將於當地時間今晚解除對Anthropic AI模型Fable的出口管制。"
+    },
+    {
+      "id": "4963728",
+      "time": "2026-07-01 06:20:24",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "【港股上半年IPO火熱，券商加碼在港業務】6月30日，真健康醫療-B、來福諧波、鱘龍科技、江西生物4家公司敲鑼上市，至此2026年上半年港股IPO正式收官。今年上半年，港股市場“鑼聲不斷”，共迎來85家公司上市。Wind資料顯示，中金公司共保薦28家、承銷36家港股新股，領跑港股IPO市場。此外，港股IPO火熱之下，中資券商的國際化業務也不斷拓展，國泰海通、中信證券、華泰證券、廣發證券等機構紛紛加碼國際化業務。（上證報）"
+    },
     {
       "id": "mkt:019f1a9c-3f31-7aab-8c44-722f9ff76b85",
       "time": "2026-07-01 06:17:55",
@@ -128036,178 +128241,6 @@
         "國際"
       ],
       "text": "【美伊在解凍伊朗資產和核檢查問題上說法不一】特朗普為解凍伊朗資產一事進行辯解，稱這筆資金將交由第三方託管，僅可用於採購美國食品與醫療物資；伊朗則否認該說法，表示會根據自身需求自由支配這筆資金。美伊兩國還在核檢查問題上產生分歧：特朗普堅稱德黑蘭方面已同意接受“最高階別”核查，伊朗卻否認作出過相關承諾；與此同時，和平談判仍在推進，美國參議院透過一項僅具象徵意義的投票，擬終止與伊朗的戰爭狀態。"
-    },
-    {
-      "id": "4951222",
-      "time": "2026-06-24 06:51:13",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "除了頭版內容，今天《人民日報》涉及財經的主要內容還包括：\n1、劉國中在江蘇調研時強調 打造生物醫藥新興支柱產業 培育發展腦機介面未來產業\n2、何立峰在河南調研時指出 加快完善產業創新體系 持續推動外貿穩規模優結構\n3、張國清在全國進一步深化國資國企改革動員部署視訊會議上強調 突出戰略使命 聚焦主責主業 堅定不移深化國資國企改革\n4、前5月快遞業務量累計完成828.7億件\n5、廣告產業年收入首次突破2萬億元 六部門聯合出臺意見促進廣告產業高質量發展\n6、端午假期鐵路傳送旅客8258.8萬人次\n7、安徽出臺方案拓展“低空+”應用場景\n8、中國汽車市場長期向好的基本面沒有改變（權威釋出）\n9、產業鏈上下游緊密協同，精準對接多元需求 國產影像品牌獲國際市場青睞（中國品牌圈粉海外）\n10、國產商用飛機開通第二條高高原航線 首架C909公務機投入商業運營\n11、夏糧旺季收購開局良好 小麥收購量超3000萬噸\n12、一季度末 金融業機構總資產達556.34萬億元\n13、零跑汽車建成17個零部件工廠 完善自研體系 提升供應能力\n14、通訊技術試驗衛星二十六號A星成功發射\n15、推廣回收妙招 助力綠色發展（國際視點）——波蘭、韓國、德國探索創新垃圾回收機制\n16、31個省份將差異化推進人工智慧發展（延伸閱讀）。"
-    },
-    {
-      "id": "4951221",
-      "time": "2026-06-24 06:51:04",
-      "tags": [
-        "宏觀",
-        "焦點"
-      ],
-      "text": "今天《人民日報》頭版的主要內容有：\n1、《習近平黨建文選》第一卷、第二卷出版發行\n2、福建龍巖紮實推進老區全面振興——守好綠水青山 做實富民產業（牢記初心使命 奮進復興征程）\n3、李強分別會見幾內亞總理烏里·巴、哈薩克總理別克捷諾夫、韓國總理金民錫、蒙古國總理烏其爾勒、黑山總理斯帕伊奇\n4、十四屆全國人大常委會第二十三次會議在京舉行 審議商標法修訂草案等 趙樂際主持\n5、全國政協十四屆常委會第十七次會議開幕 王滬寧主持 丁薛祥作報告\n6、韓正會見南非副總統馬沙蒂萊\n7、浙江青龍門特大橋主橋合龍。"
-    },
-    {
-      "id": "4951220",
-      "time": "2026-06-24 06:49:18",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【民調顯示：美國超半數民眾不認可對伊動武】路透社和益普索集團23日公佈的一項民意調查顯示，超過半數美國民眾認為美國2月底發動的對伊朗軍事行動“不值得”，美國總統特朗普的支援率再次跌至34%，為其第二個總統任期以來的最低水平。根據民調結果，52%的受訪者認為這場軍事衝突“不值得”。此外，約35%的受訪者認為，與戰前相比，美國在應對伊朗問題上的地位受到削弱。（新華社）"
-    },
-    {
-      "id": "4951219",
-      "time": "2026-06-24 06:45:18",
-      "tags": [
-        "國際"
-      ],
-      "text": "洛克希德·馬丁獲美國陸軍價值84億美元合同修訂訂單。"
-    },
-    {
-      "id": "te:markets:561279",
-      "time": "2026-06-24 06:45:11",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Crypto",
-        "Importance 1"
-      ],
-      "text": "Crypto Updates: Ether Depreciates by 3.77% — Top crypto losers are Ether (-3.77%), Bitcoin (-2.30%) and Binance (-2.18%)."
-    },
-    {
-      "id": "4951218",
-      "time": "2026-06-24 06:42:32",
-      "tags": [
-        "公司",
-        "資料"
-      ],
-      "text": "谷歌DeepMind接連多名人工智慧核心高管離職後，其執行長德米斯·哈薩比斯表示，谷歌在人工智慧人才爭奪戰中仍佔據上風。"
-    },
-    {
-      "id": "te:markets:561278",
-      "time": "2026-06-24 06:40:11",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Agricultural Commodities Updates: Rice Rises by 3.37% — Top commodity gainers are Rice (3.37%), Coffee (3.26%) and Rapeseed (1.17%). Biggest losers are Lumber (-1.81%) and Wheat (-1.80%)."
-    },
-    {
-      "id": "mkt:019ef6a3-f73d-7dd8-b0e4-9ed984708b44",
-      "time": "2026-06-24 06:40:01",
-      "tags": [
-        "MKT News",
-        "RHM.DE",
-        "Impact bearish"
-      ],
-      "text": "【FT: Germany to abandon F126 frigate programme, shift to smaller Meko A-200 ships】Financial Times reports Germany will abandon plans to build six F126 frigates — a programme meant to produce the country's largest warship since WWII — and instead procure eight smaller Meko A-200 frigates, two people familiar with the matter said. Defence minister Pistorius and senior officials notified industry representatives and senior MPs on Tuesday. The move strips Rheinmetall of an expected prime-contractor role on the EUR 12.8 bln F126 programme and marks one of Berlin's most serious recent defence procurement failures."
-    },
-    {
-      "id": "te:markets:561277",
-      "time": "2026-06-24 06:35:11",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Metals Commodities Updates: Silver Tumbles by 5.39% — Top commodity losers are Silver (-5.39%), Copper (-3.79%) and Gold (-2.16%). Gains are led by Lithium Carbonate (0.96%)."
-    },
-    {
-      "id": "mkt:019ef69f-07ee-7dd8-b0e4-956a001b0753",
-      "time": "2026-06-24 06:34:37",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Precious Metals",
-        "XAUUSD",
-        "Impact bearish"
-      ],
-      "text": "Spot gold slipped below $4,100/oz, down 0.24% intraday."
-    },
-    {
-      "id": "4951217",
-      "time": "2026-06-24 06:34:05",
-      "tags": [
-        "其他"
-      ],
-      "text": "德國擬取消建造二戰以來最大軍艦的計劃。"
-    },
-    {
-      "id": "mkt:019ef69e-70ca-7dd8-b0e4-8e31262f2e1b",
-      "time": "2026-06-24 06:33:59",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "PETR4.SA",
-        "Impact bullish"
-      ],
-      "text": "Petrobras CEO said production from January through May rose 10% year-on-year."
-    },
-    {
-      "id": "mkt:019ef69e-0854-7dd8-b0e4-81da1c8e0825",
-      "time": "2026-06-24 06:33:32",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "According to the Financial Times, Germany plans to cancel construction of its largest warship since World War II."
-    },
-    {
-      "id": "4951216",
-      "time": "2026-06-24 06:31:08",
-      "tags": [
-        "資料",
-        "市場",
-        "央行",
-        "國際"
-      ],
-      "text": "【週三重要財經資訊提醒（以下均為北京時間）】 \n① 時間待定 日本央行副行長冰見野良三發表講話；\n② 07:50 日本央行公佈6月貨幣政策會議審議委員意見摘要；\n③ 時間待定 2026上海世界行動通訊大會開幕；\n④ 09:30 澳大利亞5月CPI；\n⑤ 14:30 澳洲聯儲助理主席Hauser講話；\n⑥ 15:00 泰國央行公佈利率決議，瑞士央行理事Martin講話；\n⑦ 16:00 德國6月IFO商業景氣指數；\n⑧ 17:00 歐洲央行管委兼德國央行行長Nagel討論數字歐元；\n⑨ 19:15 加拿大央行高階副行長Rogers在蘇黎世講話；\n⑩ 19:20 英國央行副行長Breeden在蘇黎世講話；\n⑪ 20:30 美國一季度經常帳；\n⑫ 21:35 歐洲央行執行委員會成員Piero Cipollone透過線上方式參與一場爐邊閒聊；\n⑬ 22:00 美國5月新屋銷售；\n⑭ 22:30 美國能源資訊署（EIA）釋出政府版原油庫存週報；\n⑮ 23:00 英國央行貨幣政策委員會（MPC）成員Swati Dhingra講話；\n⑯ 23:30 法國央行行長Emmanuel Moulin講話；\n⑰ 次日01:30 加拿大央行公佈兩週前貨幣政策會議的摘要；\n⑱ 次日02:00 美聯儲理事庫克講話（為開場白預先錄製）；\n⑲ 次日04:00 美聯儲公佈年度銀行壓力測試結果，日本央行行長植田和男出席IMF舉辦的央行講座活動；\n⑳ 美股盤後 美光科技釋出業績報告。"
-    },
-    {
-      "id": "te:markets:561276",
-      "time": "2026-06-24 06:30:11",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Energy Commodities Updates: Natural gas Drops by 3.01% — Top commodity losers are Natural gas (-3.01%), Methanol (-2.81%), Gasoline (-1.54%), Brent Crude Oil (-1.21%) and Crude Oil WTI (-1%). Gains are led by Heating Oil (2.11%), Natural Gas UK (0.83%) and Natural Gas EU (0.51%)."
-    },
-    {
-      "id": "4951215",
-      "time": "2026-06-24 06:23:54",
-      "tags": [
-        "其他"
-      ],
-      "text": "國泰航空：5月客運載客率為86.8%，同比上升2.0個百分點。"
-    },
-    {
-      "id": "4951214",
-      "time": "2026-06-24 06:22:50",
-      "tags": [
-        "公司"
-      ],
-      "text": "巴西國家石油公司執行長表示，今年1月至5月，該公司產量較去年同期增長10%。"
-    },
-    {
-      "id": "4951213",
-      "time": "2026-06-24 06:22:22",
-      "tags": [
-        "市場"
-      ],
-      "text": "日經股指期貨當前報價為69430點，而現貨收盤報69788點。"
     }
   ]
 }
