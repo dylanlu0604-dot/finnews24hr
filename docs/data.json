@@ -1,7 +1,28 @@
 {
-  "updated": "2026-07-01 05:25:37",
-  "count": 13987,
+  "updated": "2026-07-01 05:29:36",
+  "count": 13983,
   "items": [
+    {
+      "id": "4963705",
+      "time": "2026-07-01 05:28:42",
+      "tags": [
+        "市場"
+      ],
+      "text": "穆迪針對聖文森及格瑞那丁主權評級：本次下調評級同時反映該國債務負擔持續攀升，管控難度日益加大。財政整頓進度不及預期，或進一步削弱其信用資質。 該國融資需求居高不下，而國內資金供給渠道卻日益收窄、資金來源高度集中。"
+    },
+    {
+      "id": "mkt:019f1a6e-2056-7aab-8c44-295887e4ba85",
+      "time": "2026-07-01 05:27:32",
+      "tags": [
+        "MKT News",
+        "Important",
+        "DXY",
+        "Impact bullish",
+        "AUDUSD",
+        "USDJPY"
+      ],
+      "text": "【FX 1H wrap: dollar weak then strong; Australian dollar outperforms】The dollar index (DXY) slid to 95.5 at the start of the year before rising above 101 by mid-year, up nearly 3% in 1H. Major pair moves in 1H: EUR/USD -2.7%; GBP/USD -1.4%; USD/CAD +3.4%; USD/CHF +2.0%; USD/JPY +3.8% (yen at a 40‑year low); NZD/USD -1.4%; AUD/USD +3.7% (notable outperformance). Offshore yuan (CNH) gained 2.7% vs USD. USD/RUB fell 0.5%. USD/MXN dropped nearly 3%, supported by elevated Mexican domestic interest rates."
+    },
     {
       "id": "mkt:019f1a68-3f4c-7aab-8c44-24508b1e3784",
       "time": "2026-07-01 05:21:07",
@@ -128346,56 +128367,6 @@
         "市場"
       ],
       "text": "芝加哥期權交易所全球市場推出小型標普500指數二元期權產品XSPBW與XSPBX。"
-    },
-    {
-      "id": "4951168",
-      "time": "2026-06-24 05:28:39",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "日本樂天執行長表示，合作方在該合資企業中的持股比例大致均等，但樂天集團將牽頭負責管理。"
-    },
-    {
-      "id": "4951167",
-      "time": "2026-06-24 05:28:25",
-      "tags": [
-        "公司"
-      ],
-      "text": "樂天集團執行長日經表示，衛星直連智慧手機服務將自2026年底起分階段推出。"
-    },
-    {
-      "id": "4951166",
-      "time": "2026-06-24 05:28:20",
-      "tags": [
-        "其他"
-      ],
-      "text": "Cerebras首席財務官表示：隨著雲容量部署擴容加速，全年下半年將帶來更多收入，預計2026年每個季度的同比增長率都將逐季提升。"
-    },
-    {
-      "id": "4951165",
-      "time": "2026-06-24 05:28:08",
-      "tags": [
-        "其他"
-      ],
-      "text": "芝加哥期權交易所推出CBOE PREDICTS預測平臺，全新預測市場產品線首批產品正式上線。"
-    },
-    {
-      "id": "4951164",
-      "time": "2026-06-24 05:27:48",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "日本樂天集團將攜手美國初創企業AST SpaceMobile，在日本推出衛星直連手機通訊服務。"
-    },
-    {
-      "id": "4951163",
-      "time": "2026-06-24 05:26:30",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國最高法院裁定，石油巨頭埃克森美孚可就逾10億美元被沒收資產起訴古巴政府。"
     }
   ]
 }
