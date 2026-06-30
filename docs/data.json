@@ -1,7 +1,422 @@
 {
-  "updated": "2026-07-01 00:05:58",
-  "count": 13911,
+  "updated": "2026-07-01 00:22:01",
+  "count": 13914,
   "items": [
+    {
+      "id": "4963496",
+      "time": "2026-07-01 00:21:12",
+      "tags": [
+        "其他",
+        "焦點"
+      ],
+      "text": "納斯達克100指數漲幅擴大至1.5%。"
+    },
+    {
+      "id": "mkt:019f1955-a56a-7aab-8c3e-665551977b82",
+      "time": "2026-07-01 00:21:11",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "An informed source at Iran's Oil Ministry denied online reports that Oil Minister Mohsen Paknejad had resigned, saying the reports were false."
+    },
+    {
+      "id": "4963495",
+      "time": "2026-07-01 00:20:31",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "【晶片裝置類股走強 受三星和SK海力士宣佈投資計劃提振】三星和SK海力士宣佈計劃建設兩座晶片製造廠後，晶片裝置類股連續第二天跑贏更廣泛的半導體板塊。阿斯麥在阿姆斯特丹上漲6.8%，早前一度上漲8%，創4月8日以來最大漲幅；美國晶片裝置類股中，應用材料上漲5.3%，泛林集團漲4.0%，科磊公司漲5.9%。就兩日累計漲幅來看，這四隻股票在費城半導體指數成份股中漲幅居前：科磊兩日累計漲幅為18%，應用材料為17%，泛林集團為13%，阿斯麥為10%，而費城半導體指數同期漲幅為7%。"
+    },
+    {
+      "id": "4963494",
+      "time": "2026-07-01 00:19:51",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【呼叫中心股票遭遇拋售 投資者擔憂AI使該板塊不具備投資價值】由於有跡象顯示，企業正日益轉向利用人工智慧處理客戶服務工作，兩家呼叫中心公司的股票遭遇一輪拋售。Concentrix Corp.和Teleperformance SE週二股價大幅下跌。此前，Concentrix下調營收預期，並警告稱部分客戶正在削減支出，令分析師對該行業面臨新型人工智慧工具嚴重威脅的擔憂進一步加劇。加皇資本市場分析師Karl Green寫道：“太多投資者認為這一子板塊已不具備投資價值。我們認為，最大的利空是，公司提到一些客戶在某些領域已乾脆取消了客戶支援服務。”Concentrix在紐約早盤一度大跌24%。法國公司Teleperformance一度重挫16%，至逾十年來最低水平。"
+    },
+    {
+      "id": "mkt:019f1953-fb88-7aab-8c3e-5eeed84c28e9",
+      "time": "2026-07-01 00:19:21",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Fitch: Post-election coalition talks in Kosovo have again heightened uncertainty over the country’s political trajectory and reform outlook."
+    },
+    {
+      "id": "4963493",
+      "time": "2026-07-01 00:18:38",
+      "tags": [
+        "其他"
+      ],
+      "text": "惠譽評級：科索沃選舉後聯合組閣談判重新引發政治與改革不確定性風險。"
+    },
+    {
+      "id": "mkt:019f1953-1cdf-7aab-8c3e-5024978e6260",
+      "time": "2026-07-01 00:18:24",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Sources said CPC blended oil exports are expected to fall to 1.6 mln b/d in July from 1.7 mln b/d in June."
+    },
+    {
+      "id": "4963492",
+      "time": "2026-07-01 00:17:40",
+      "tags": [
+        "其他"
+      ],
+      "text": "訊息人士稱，7月 CPC混合原油出口量將從6月的每日170萬桶降至每日160萬桶。\n注：CPC為裡海石油管道。"
+    },
+    {
+      "id": "4963491",
+      "time": "2026-07-01 00:16:15",
+      "tags": [
+        "國際"
+      ],
+      "text": "一群美國民主黨議員週二表示，美國應牽頭髮起一項倡議，將國際貨幣基金組織的資金規模擴充至少6500億美元，以緩解伊朗衝突對全球經濟造成的衝擊。"
+    },
+    {
+      "id": "4963490",
+      "time": "2026-07-01 00:15:24",
+      "tags": [
+        "其他"
+      ],
+      "text": "千禧資管聯合首席投資官保羅·魯索將於今年年底退休。"
+    },
+    {
+      "id": "mkt:019f1950-5942-7aab-8c3e-4808516e6102",
+      "time": "2026-07-01 00:15:23",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "EIA: U.S. April distillate fuel demand 3.887 mln b/d, up 0.1% YoY (+4,000 b/d); March rise was 0.3%."
+    },
+    {
+      "id": "mkt:019f1950-2da0-7aab-8c3e-416b6f56bc04",
+      "time": "2026-07-01 00:15:12",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "EIA: U.S. April gasoline demand 9.123 mln b/d, up 2.4% YoY (≈213k b/d); March increase was 1.0%."
+    },
+    {
+      "id": "mkt:019f1950-1c68-7aab-8c3e-3e2a5a107c1a",
+      "time": "2026-07-01 00:15:08",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "EIA: U.S. April total oil demand 20.808 mln bpd, up 2.9% YoY (+595,000 bpd); March increase was 2.2%."
+    },
+    {
+      "id": "4963489",
+      "time": "2026-07-01 00:14:55",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列總理內塔尼亞胡：真主黨火箭彈與導彈儲備量已降至原有15萬枚總量的8%。"
+    },
+    {
+      "id": "mkt:019f194f-d1e4-7aab-8c3e-3744b2c4e0c1",
+      "time": "2026-07-01 00:14:49",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "【USDA forecasts US 2026 soybean planted area at 85.365 mln acres】The USDA planting report forecasts US soybean planted area for 2026 at 85.365 mln acres, up 5% YoY (+4.15 mln acres). Projected harvested area is 84.401 mln acres, versus 80.437 mln last year, a 4.9% increase. During the survey 8.045 mln acres remained unplanted, compared with 11.545 mln acres a year earlier."
+    },
+    {
+      "id": "4963488",
+      "time": "2026-07-01 00:13:55",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國能源資訊署（EIA）資料顯示：美國4月汽油需求量較去年同比增長2.4%，增幅為每日21.3萬桶，達到每日912.3萬桶；3月汽油需求同比增幅為1.0%。"
+    },
+    {
+      "id": "4963487",
+      "time": "2026-07-01 00:13:52",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國能源資訊署（EIA）《石油供應月度報告》顯示：4月美國石油總需求同比增長2.9%，增幅為每日59.5萬桶，達到每日2080.8萬桶；3月的同比增幅為2.2%。"
+    },
+    {
+      "id": "4963486",
+      "time": "2026-07-01 00:13:49",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國能源資訊署（EIA）資料顯示：美國4月餾分油需求量為388.7萬桶/日，較去年同期增長0.1%，即增加4000桶/日，3月該同比增幅為0.3%。"
+    },
+    {
+      "id": "mkt:019f194d-4f0d-7aab-8c3e-2ccafe6596f5",
+      "time": "2026-07-01 00:12:04",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Europe & UK",
+        "DAX",
+        "Impact bullish",
+        "FTSE100"
+      ],
+      "text": "【European equities close 1H: STOXX 50 up >9%; DAX, FTSE, CAC post single-digit gains】At Tuesday's close, STOXX Europe 50 was up just over 9% for 1H and STOXX Europe 600 rose more than 8%. Italy's FTSE MIB gained nearly 15% and Spain's IBEX 35 climbed over 12%. Germany's DAX was up 2%, the UK's FTSE 100 rose 5.7% and France's CAC 40 gained 3%."
+    },
+    {
+      "id": "4963485",
+      "time": "2026-07-01 00:09:47",
+      "tags": [
+        "公司",
+        "焦點"
+      ],
+      "text": "Klutch體育經紀公司執行長：勒布朗·詹姆斯將征戰2026至2027賽季NBA，他已告知洛杉磯湖人隊，球隊無需再以他為建隊核心，下賽季他將加盟其他球隊。"
+    },
+    {
+      "id": "mkt:019f194b-2bfa-7aab-8c3e-22cd65c4b11b",
+      "time": "2026-07-01 00:09:44",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC"
+      ],
+      "text": "Mercosur and Japan have formally launched negotiations on an Economic Partnership Agreement, seeking to expand market access for agricultural and non-agricultural goods, deepen cooperation and promote two-way investment."
+    },
+    {
+      "id": "mkt:019f194a-0ed7-7aab-8c3e-1bd594de9b48",
+      "time": "2026-07-01 00:08:31",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "CBOE VIX fell 0.89 points to 16.76, a one-week low."
+    },
+    {
+      "id": "4963484",
+      "time": "2026-07-01 00:08:12",
+      "tags": [
+        "公司"
+      ],
+      "text": "谷歌推出Nano Banana 2輕量版（Gemini 3.1輕量極速影象模型），正式對外開放使用。"
+    },
+    {
+      "id": "4963483",
+      "time": "2026-07-01 00:07:54",
+      "tags": [
+        "國際"
+      ],
+      "text": "宣告顯示：南方共同市場與日本將尋求擴大農產品及非農產品市場準入、深化合作並促進雙向投資。"
+    },
+    {
+      "id": "mkt:019f1949-53dc-7aab-8c3e-11e2d3bef02d",
+      "time": "2026-07-01 00:07:43",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Indian government said Modi welcomed the consensus and reiterated India's long-standing position that all issues should be resolved through dialogue and diplomacy."
+    },
+    {
+      "id": "4963482",
+      "time": "2026-07-01 00:07:34",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "芝加哥期權交易所波動率指數跌至一週低點，下跌0.89點，報16.76。"
+    },
+    {
+      "id": "4963481",
+      "time": "2026-07-01 00:07:22",
+      "tags": [
+        "國際"
+      ],
+      "text": "印度政府：莫迪對達成的共識表示歡迎，並重申印度立場，即所有問題都必須透過對話與外交途徑解決。"
+    },
+    {
+      "id": "mkt:019f1948-e628-7aab-8c3e-0f949515d017",
+      "time": "2026-07-01 00:07:15",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "India's government said Prime Minister Modi spoke by phone today with Iranian President Masoud Pezeshkian."
+    },
+    {
+      "id": "4963480",
+      "time": "2026-07-01 00:07:07",
+      "tags": [
+        "國際"
+      ],
+      "text": "宣告顯示：南方共同市場與日本宣佈啟動經濟夥伴關係協定談判。"
+    },
+    {
+      "id": "4963479",
+      "time": "2026-07-01 00:06:56",
+      "tags": [
+        "國際"
+      ],
+      "text": "印度政府：伊朗總統已向莫迪總理通報西亞近期局勢進展及後續應對方案。"
+    },
+    {
+      "id": "4963478",
+      "time": "2026-07-01 00:06:28",
+      "tags": [
+        "國際"
+      ],
+      "text": "印度政府：莫迪總理今日與伊朗總統通話。"
+    },
+    {
+      "id": "mkt:019f1948-1985-7aab-8c3e-04862e6bbb8a",
+      "time": "2026-07-01 00:06:23",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Alphabet",
+        "Market Themes",
+        "AI Revolution",
+        "Magnificent 7"
+      ],
+      "text": "Google (GOOG.O): GEMINI Omni Flash enters public preview."
+    },
+    {
+      "id": "mkt:019f1947-a6ac-7aab-8c3d-fdf347c7034c",
+      "time": "2026-07-01 00:05:53",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "Magnificent 7",
+        "Star Stocks",
+        "Alphabet",
+        "GOOG.O"
+      ],
+      "text": "Google (GOOG.O): Nano Banana 2 Lite, the Gemini 3.1 Flash-Lite image model, is now available."
+    },
+    {
+      "id": "4963477",
+      "time": "2026-07-01 00:05:44",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "伊朗方面表示，將在卡達的斡旋下舉行美伊協議間接談判，磋商落實伊美諒解備忘錄以及解凍伊朗被凍結資產相關事宜。"
+    },
+    {
+      "id": "4963476",
+      "time": "2026-07-01 00:05:17",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "美國政府高階官員：特使威特科夫、庫什納將於週二會見卡達首相；美伊技術性談判定於週三舉行，巴基斯坦與卡達擔任調解方。"
+    },
+    {
+      "id": "4963475",
+      "time": "2026-07-01 00:05:00",
+      "tags": [
+        "公司"
+      ],
+      "text": "谷歌：將在公開預覽版推出 Gemini Omni Flash。"
+    },
+    {
+      "id": "4963474",
+      "time": "2026-07-01 00:04:50",
+      "tags": [
+        "公司"
+      ],
+      "text": "標普將空客公司評級上調至“A+”，展望穩定。"
+    },
+    {
+      "id": "4963473",
+      "time": "2026-07-01 00:04:37",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "【阿曼提議：由德黑蘭與馬斯喀特向途經霍爾木茲海峽的船隻收取通行費用】阿曼已向美國及其他西方盟國遞交正式提案，要求航運企業繳納服務費以獲得海峽通行權。一名瞭解美方立場的人士透露，華盛頓已收到這份提案，並計劃與阿曼官員溝通美方的顧慮。這份提案部分借鑑了馬六甲-新加坡海峽的管理模式，當地依靠船隻自願捐助資金保障航行安全。一名地區外交官稱霍爾木茲海峽相關繳費將採取自願形式，但一名伊朗官員則表示此項費用具有強制性。"
+    },
+    {
+      "id": "4963472",
+      "time": "2026-07-01 00:03:53",
+      "tags": [
+        "其他",
+        "焦點"
+      ],
+      "text": "知情官員與外交官稱，阿曼提出一項方案，由德黑蘭與馬斯喀特向途經霍爾木茲海峽的船隻收取通行費用。"
+    },
+    {
+      "id": "4963471",
+      "time": "2026-07-01 00:03:28",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國能源資訊署（EIA）資料顯示，4月美國液化天然氣產量增加3.9萬桶/日，至790.3萬桶/日，3月產量為786.4萬桶/日。"
+    },
+    {
+      "id": "mkt:019f1945-abd8-7aab-8c3d-f4aac32f8d2f",
+      "time": "2026-07-01 00:03:27",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "EIA: U.S. natural gas liquids (NGL) production rose 39,000 b/d in April to 7.903 mln b/d from 7.864 mln b/d in March."
+    },
+    {
+      "id": "mkt:019f1945-4395-7aab-8c3d-ee8d3598ebd9",
+      "time": "2026-07-01 00:03:12",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish"
+      ],
+      "text": "Oil futures extended declines; WTI fell $1 intraday as markets focus on reports of potential US‑Iran talks in Doha."
+    },
+    {
+      "id": "4963470",
+      "time": "2026-07-01 00:02:39",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國最高法院拒絕受理有關限制18至20歲人群持槍法規合法性的相關案件。"
+    },
+    {
+      "id": "mkt:019f1944-2eec-7aab-8c3d-e79ed50e744e",
+      "time": "2026-07-01 00:02:02",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Market news: The US Supreme Court declined to hear a challenge to the legality of gun restrictions on 18- to 20-year-olds."
+    },
+    {
+      "id": "4963469",
+      "time": "2026-07-01 00:01:57",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國最高法院同意受理針對突擊步槍禁令相關法律的訴訟挑戰。"
+    },
     {
       "id": "mkt:019f1943-ae0f-7aab-8c3d-dacf02a60243",
       "time": "2026-07-01 00:01:33",
@@ -127309,384 +127724,6 @@
         "國際"
       ],
       "text": "據伊朗伊斯蘭共和國通訊社（IRNA）： 真主黨表示，停火之後，下一階段的目標是以色列軍隊全部撤出黎巴嫩領土。"
-    },
-    {
-      "id": "4950994",
-      "time": "2026-06-24 00:21:26",
-      "tags": [
-        "國際"
-      ],
-      "text": "據Axios：特朗普將出席麥考密克防務峰會。"
-    },
-    {
-      "id": "4950993",
-      "time": "2026-06-24 00:19:44",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗總統：我們堅信唯有透過坦誠對話與區域內合作，才能實現地區和平與穩定。"
-    },
-    {
-      "id": "4950992",
-      "time": "2026-06-24 00:19:10",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗總統：我們伸出友誼之手，同地區各國一道構建全新地區安全架構。"
-    },
-    {
-      "id": "mkt:019ef546-5631-7dd8-b0df-74122552b3ec",
-      "time": "2026-06-24 00:18:07",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Iranian President Pezeshkian said regional issues should be discussed only on the basis of mutual respect."
-    },
-    {
-      "id": "4950991",
-      "time": "2026-06-24 00:17:56",
-      "tags": [
-        "國際"
-      ],
-      "text": "據伊朗伊斯蘭共和國通訊社（IRNA）：伊朗和阿曼同意成立霍爾木茲海峽委員會。"
-    },
-    {
-      "id": "mkt:019ef546-26e7-7dd8-b0df-6c55409df448",
-      "time": "2026-06-24 00:17:55",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "IRNA reports Iran and Oman have agreed to form a Strait of Hormuz committee."
-    },
-    {
-      "id": "mkt:019ef545-a1bb-7dd8-b0df-60c09a81d438",
-      "time": "2026-06-24 00:17:21",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Iranian President Pezeshkian said he hopes to open a new chapter in relations with Pakistan."
-    },
-    {
-      "id": "mkt:019ef545-6372-7dd8-b0df-5d6e37a3f49f",
-      "time": "2026-06-24 00:17:05",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Iranian President Pezeshkian said he held constructive talks with Pakistani officials."
-    },
-    {
-      "id": "4950990",
-      "time": "2026-06-24 00:16:49",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗總統：雙方就最新局勢、雙邊關係展開磋商。"
-    },
-    {
-      "id": "mkt:019ef545-0800-7dd8-b0df-55f6c0474b11",
-      "time": "2026-06-24 00:16:42",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Iranian President Pezeshkian said he discussed several important perspectives on recent developments in the region."
-    },
-    {
-      "id": "mkt:019ef544-448a-7dd8-b0df-4919a68079f5",
-      "time": "2026-06-24 00:15:52",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "The Trump Trade",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "Financial Times, citing people familiar with the matter, reports that at last week's G7 summit Trump said he was \"impressed and very appreciative\" of Ukraine's long-range strikes inside Russia and agreed to step up sanctions on Russian energy."
-    },
-    {
-      "id": "4950989",
-      "time": "2026-06-24 00:15:39",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗總統：在巴基斯坦舉行了富有建設性的會談。"
-    },
-    {
-      "id": "mkt:019ef543-642e-7dd8-b0df-454627429ff8",
-      "time": "2026-06-24 00:14:54",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Iran's president said recent events have underscored an improvement in relations with Pakistan."
-    },
-    {
-      "id": "te:markets:561257",
-      "time": "2026-06-24 00:14:53",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "commodity",
-        "Importance 0"
-      ],
-      "text": "Coffee Hits 5-week High — Coffee increased to 278.40 USd/Lbs, the highest since May 2026. Over the past 4 weeks, Coffee gained 1.3%, and in the last 12 months, it decreased 12.43%."
-    },
-    {
-      "id": "mkt:019ef543-3edf-7dd8-b0df-3b067c0365d7",
-      "time": "2026-06-24 00:14:45",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Iran's president says relations with Pakistan are founded on mutual respect."
-    },
-    {
-      "id": "mkt:019ef542-f908-7dd8-b0df-36dedd610eec",
-      "time": "2026-06-24 00:14:27",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Market sources: SpaceX (SPCX.O) high-grade bond offering drew $89 bln in subscriptions."
-    },
-    {
-      "id": "4950988",
-      "time": "2026-06-24 00:14:03",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗總統：感謝巴基斯坦所做的努力與提供的支援。"
-    },
-    {
-      "id": "4950987",
-      "time": "2026-06-24 00:13:23",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗總統：近期一系列事態彰顯了伊巴兩國的雙邊關係。"
-    },
-    {
-      "id": "mkt:019ef541-e5bd-7dd8-b0df-28bee5ac5dcc",
-      "time": "2026-06-24 00:13:16",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Emerging Markets"
-      ],
-      "text": "Fitch says Chile's medium-term fiscal targets face growth and implementation challenges."
-    },
-    {
-      "id": "mkt:019ef541-bb76-7dd8-b0df-20bf93d67f6a",
-      "time": "2026-06-24 00:13:06",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "S&P/TSX Composite Index turned higher, rebounding from an earlier 12-day low."
-    },
-    {
-      "id": "4950985",
-      "time": "2026-06-24 00:13:00",
-      "tags": [
-        "其他"
-      ],
-      "text": "SpaceX 首筆高等級債券認購峰值需求達 890 億美元。"
-    },
-    {
-      "id": "te:markets:561255",
-      "time": "2026-06-24 00:12:32",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Italy",
-        "Stock Market",
-        "Importance 0"
-      ],
-      "text": "FTSE MIB Closes Sharply Lower — The FTSE MIB declined 1.5% to close at 52,024 on Tuesday, as a global sell-off in technology stocks weighed on investor sentiment. Semiconductor firm STMicroelectronics led the decline, plunging near 8% amid concerns over elevated valuations in artificial intelligence-related companies and renewed market volatility. The automotive sector also weakened, with losses in Ferrari (-1.5%) and Stellantis (-6.8%). Banking and insurance stocks contributed to the market's decline, led by losses in Intesa Sanpaolo (-1.5%), UniCredit (-1.5%), Assicurazioni Generali (-0.8%), BPER Banca (-0.7%) and BMPS (-0.6%). Elsewhere, Prysmian declined 4.1%. Utilities were relatively resilient, with Enel and Terna advancing on the back of lower oil prices, although Snam ended the session in negative territory."
-    },
-    {
-      "id": "4950984",
-      "time": "2026-06-24 00:12:16",
-      "tags": [
-        "公司"
-      ],
-      "text": "市場訊息：EG 集團已秘密遞交申請，計劃赴美進行規模 10 億美元的首次公開募股。"
-    },
-    {
-      "id": "te:markets:561254",
-      "time": "2026-06-24 00:12:10",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Italy",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The FTSE MIB Index Closes 1.46% Lower — The FTSE MIB Index dropped 772 points or 1.46 percent on Tuesday to close at 52024 points. Losses were led by STMicroelectronics (-8.12%), Stellantis N.V. (-6.95%) and Prysmian (-4.28%)."
-    },
-    {
-      "id": "te:markets:561253",
-      "time": "2026-06-24 00:11:10",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Germany",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The DAX Index Closes 0.98% Lower — The DAX Index decreased 246 points or 0.98 percent on Tuesday to close at 24894 points. The decline was led by Infineon (-5.86%), Siemens Energy (-3.93%) and Vonovia (-3.21%). On the upside, the strongest performers were SAP (2.13%), Airbus (1.97%) and Qiagen NV (1.51%)."
-    },
-    {
-      "id": "te:markets:561251",
-      "time": "2026-06-24 00:10:10",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "France",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The CAC 40 Index Closes 0.71% Lower — The CAC 40 Index fell 59 points or 0.71 percent on Tuesday to close at 8341 points. Leading the losses are STMicroelectronics (-9.11%), Stellantis NV (-6.43%) and Legrand (-4.15%). Top gainers were Eurofins Scientific SE (2.77%), Dassault Systemes (2.35%) and Airbus (1.97%)."
-    },
-    {
-      "id": "4950983",
-      "time": "2026-06-24 00:09:58",
-      "tags": [
-        "兩會"
-      ],
-      "text": "【律師法修正草案提請全國人大常委會會議審議】6月23日，律師法修正草案提請十四屆全國人大常委會第二十三次會議審議。草案將實踐證明可行的改革試點成果上升為法律規定，統籌推進國內法治和涉外法治，堅持保障和規範律師執業權利並重，完善現行律師制度。（央視新聞）"
-    },
-    {
-      "id": "4950982",
-      "time": "2026-06-24 00:09:32",
-      "tags": [
-        "公司"
-      ],
-      "text": "【英國擬堵線上銷售增值稅漏洞，目標直指本土賣家】英國提議允許線上平臺向本土企業代收增值稅，以堵住一個每年給政府造成數億英鎊損失的漏洞。該提案旨在改革增值稅規則。亞馬遜及其他零售商聲稱，現行規則存在一個“結構性漏洞”，對本土企業和在海外運營的企業區別對待，導致系統存在被濫用的風險。該提案旨在改革現行增值稅規則，該規則對本土企業和在海外運營的企業區別對待，導致系統存在被濫用的風險。政府正考慮兩種方案，將“視同轉售商”制度擴充套件至本土賣家，其中一種方案是針對在單個線上平臺銷售額超過特定門檻的本土企業。"
-    },
-    {
-      "id": "4950981",
-      "time": "2026-06-24 00:08:43",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "谷歌：自 7 月 23 日起，歐洲經濟區 24 個市場的金融服務廣告主需完成全新資質核驗。"
-    },
-    {
-      "id": "mkt:019ef53d-a2a6-7dd8-b0df-1a6fd8242b1b",
-      "time": "2026-06-24 00:08:37",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "SpaceX (SPCX.O) extended intraday gains to 5.3%."
-    },
-    {
-      "id": "mkt:019ef53d-2ff0-7dd8-b0df-133561515e12",
-      "time": "2026-06-24 00:08:08",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Pakistan's prime minister said Pakistan hopes to continue serving as a mediator \"until durable peace is achieved\"."
-    },
-    {
-      "id": "mkt:019ef53c-d9aa-7dd8-b0df-0ef0a6840b3c",
-      "time": "2026-06-24 00:07:46",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Alphabet",
-        "Market Themes",
-        "Magnificent 7"
-      ],
-      "text": "Google introduces new verification requirements for certain financial-services advertisers."
-    },
-    {
-      "id": "4950980",
-      "time": "2026-06-24 00:07:39",
-      "tags": [
-        "公司"
-      ],
-      "text": "谷歌：針對部分金融服務廣告主推出全新資質核驗要求。"
-    },
-    {
-      "id": "4950979",
-      "time": "2026-06-24 00:07:27",
-      "tags": [
-        "其他"
-      ],
-      "text": "巴基斯坦總理謝里夫稱其將於下週訪問德黑蘭。"
-    },
-    {
-      "id": "mkt:019ef53c-64ae-7dd8-b0df-071f5ae367fa",
-      "time": "2026-06-24 00:07:16",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Pakistan's prime minister said he will visit Tehran next week."
-    },
-    {
-      "id": "te:markets:561250",
-      "time": "2026-06-24 00:07:11",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United Kingdom",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The FTSE 100 Index Closes 0.15% Higher — The FTSE 100 Index gained 16 points or 0.15 percent on Tuesday to close at 10454 points. Gains were led by Bunzl (5.32%), British American Tobacco (3.35%) and Diageo (2.77%). Biggest losers were Antofagasta (-5.46%), Anglo American (-4.99%) and Glencore (-4.53%)."
-    },
-    {
-      "id": "4950978",
-      "time": "2026-06-24 00:06:53",
-      "tags": [
-        "其他"
-      ],
-      "text": "SPACEX股價漲幅擴大至5.6%。"
-    },
-    {
-      "id": "mkt:019ef53b-c132-7dd8-b0de-faaddd28b31a",
-      "time": "2026-06-24 00:06:34",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "U.S. Secretary of State Rubio said no country may charge tolls or transit fees for passage through international waterways, saying that is consistent with existing international law."
-    },
-    {
-      "id": "mkt:019ef53b-8786-7dd8-b0de-f06c1f8e2ba8",
-      "time": "2026-06-24 00:06:19",
-      "tags": [
-        "MKT News",
-        "DXY",
-        "Impact bullish",
-        "XAUUSD",
-        "Brent"
-      ],
-      "text": "US Secretary of State Rubio said if Iranian proxies launch missiles, hostilities in the region cannot be ended."
-    },
-    {
-      "id": "mkt:019ef53b-8677-7dd8-b0de-ecef7fffe227",
-      "time": "2026-06-24 00:06:19",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "US Secretary of State Rubio said the matter will be raised at an appropriate time."
-    },
-    {
-      "id": "4950977",
-      "time": "2026-06-24 00:06:18",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國國務卿魯比奧： 依據現行國際法，任何國家不得在國際水道收取通行費或相關費用。"
-    },
-    {
-      "id": "mkt:019ef53b-6bba-7dd8-b0de-e7896715a1f6",
-      "time": "2026-06-24 00:06:12",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "CENC recorded a magnitude-4.2 earthquake at 23:56 on June 23 (local time) in Haixi prefecture, Qinghai (37.85°N, 95.54°E); depth 10 km."
     }
   ]
 }
