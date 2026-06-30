@@ -1,7 +1,61 @@
 {
-  "updated": "2026-07-01 05:17:54",
-  "count": 13995,
+  "updated": "2026-07-01 05:21:46",
+  "count": 13993,
   "items": [
+    {
+      "id": "mkt:019f1a68-3f4c-7aab-8c44-24508b1e3784",
+      "time": "2026-07-01 05:21:07",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "【Commodities 1H close: precious metals slump; oil still up >20%】Spot gold fell more than 7% in 1H, trading over $1,500 below its intra-year record high. Spot silver dropped about 18%, more than halving from its peak. Spot platinum declined over 24% and spot palladium nearly 25%. LME copper hit an intra-year high and gained 7% in the half; LME aluminium rose 3.7%. Despite retreating from geopolitically driven peaks, oil remains higher YTD—WTI +21.6%, Brent +20%."
+    },
+    {
+      "id": "mkt:019f1a68-3c84-7aab-8c44-1e7940d535f5",
+      "time": "2026-07-01 05:21:06",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. Interior Secretary said President Trump effectively prevented World War III."
+    },
+    {
+      "id": "te:economy:563110",
+      "time": "2026-07-01 05:21:04",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Jamaica",
+        "GDP Annual Growth Rate",
+        "Importance 1"
+      ],
+      "text": "Jamaica GDP Falls For Second Straight Quarter — Jamaica’s economy contracted 4.1% year-on-year in the first quarter of 2026, following a sharper 7.1% decline in the previous quarter, pointing to a slower pace of economic contraction. Nearly all sectors recorded declines, with only financial and insurance activities (2.9%) and manufacturing (0.6%) posting growth. The steepest drop came from mining and quarrying, which fell 23.5%, followed by agriculture, forestry and fishing (-18.3%), accommodation and food services (-16.6%), and utilities (-10.2%). On a quarter-on-quarter basis, the economy rebounded 3.3%, recovering part of the 7.3% contraction recorded in the previous quarter."
+    },
+    {
+      "id": "4963703",
+      "time": "2026-07-01 05:20:03",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "特朗普披露超過10億美元加密貨幣相關收入。"
+    },
+    {
+      "id": "4963702",
+      "time": "2026-07-01 05:19:44",
+      "tags": [
+        "公司"
+      ],
+      "text": "耐克執行長：本財年運動服飾、喬丹潮流系列業績將持續承壓下滑，但下半年有望好轉。公司業務增長將不再侷限於跑步品類，訓練、籃球以及 ACG 系列板塊均會實現增長。"
+    },
+    {
+      "id": "4963701",
+      "time": "2026-07-01 05:19:07",
+      "tags": [
+        "其他"
+      ],
+      "text": "艾裡遜變速箱控股（ALSN）將納入標普中型股 400 指數，固特異輪胎橡膠（GT）將納入標普小型股 600 指數。"
+    },
     {
       "id": "4963700",
       "time": "2026-07-01 05:16:13",
@@ -128400,72 +128454,6 @@
         "國際"
       ],
       "text": "Cerebras執行長：正就在以色列、阿聯酋、澳大利亞、新加坡、印度及印度尼西亞建設資料中心開展早期洽談。"
-    },
-    {
-      "id": "4951158",
-      "time": "2026-06-24 05:21:31",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "谷歌母公司Alphabet盤後漲超1%。"
-    },
-    {
-      "id": "4951157",
-      "time": "2026-06-24 05:20:50",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "谷歌母公司Alphabet（谷歌A）將被納入道瓊斯工業平均指數（道指）。"
-    },
-    {
-      "id": "4951156",
-      "time": "2026-06-24 05:20:08",
-      "tags": [
-        "公司"
-      ],
-      "text": "聯邦快遞執行長：公司正有意向市場中收益率更高的業務板塊拓展。"
-    },
-    {
-      "id": "4951155",
-      "time": "2026-06-24 05:19:45",
-      "tags": [
-        "公司"
-      ],
-      "text": "聯邦快遞執行長：在上一財年，聯邦快遞成功應對了包括貿易政策變動、MD-11貨機編隊停飛在內的“重大不利因素”。"
-    },
-    {
-      "id": "4951154",
-      "time": "2026-06-24 05:19:27",
-      "tags": [
-        "公司"
-      ],
-      "text": "聯邦快遞執行長：預計在旺季來臨前讓全部MD-11機隊恢復運營。"
-    },
-    {
-      "id": "4951153",
-      "time": "2026-06-24 05:19:13",
-      "tags": [
-        "公司"
-      ],
-      "text": "Cerebras執行長：截至本週，公司已與亞馬遜雲科技（AWS）達成最終協議，雙方將啟動技術協作，併為在亞馬遜雲科技的資料中心部署相關專案做準備。"
-    },
-    {
-      "id": "4951152",
-      "time": "2026-06-24 05:18:47",
-      "tags": [
-        "其他"
-      ],
-      "text": "【法國高溫持續 埃菲爾鐵塔提前關閉】由於法國高溫天氣持續，埃菲爾鐵塔運營方宣佈，為保障遊客和工作人員安全，埃菲爾鐵塔於23日下午提前關閉。法國氣象局目前將54個省級行政區劃列為高溫紅色預警區域，約佔該國面積的一半。"
-    },
-    {
-      "id": "4951151",
-      "time": "2026-06-24 05:18:28",
-      "tags": [
-        "公司"
-      ],
-      "text": "Cerebras執行長在電話會議上表示，OpenAI GPT 5.4目前已部署執行在Cerebras的AI系統上；作為下一階段部署計劃的一部分，公司正推動將GPT 5.5部署到Cerebras系統上。"
     }
   ]
 }
