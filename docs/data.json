@@ -1,7 +1,31 @@
 {
-  "updated": "2026-07-01 05:14:04",
-  "count": 13997,
+  "updated": "2026-07-01 05:17:54",
+  "count": 13995,
   "items": [
+    {
+      "id": "4963700",
+      "time": "2026-07-01 05:16:13",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國總統特朗普2025年度的財務報告稱，其在嘉信理財擁有超過 5000 萬美元的資產質押授信額度。"
+    },
+    {
+      "id": "4963699",
+      "time": "2026-07-01 05:15:38",
+      "tags": [
+        "市場"
+      ],
+      "text": "富時A50期指連續夜盤收漲0.18%，報15542點。"
+    },
+    {
+      "id": "4963698",
+      "time": "2026-07-01 05:14:25",
+      "tags": [
+        "公司"
+      ],
+      "text": "耐克執行長：公司正最佳化調整分銷網路規模，使其與市場需求匹配，並降低供應鏈成本。"
+    },
     {
       "id": "4963697",
       "time": "2026-07-01 05:13:16",
@@ -128442,50 +128466,6 @@
         "公司"
       ],
       "text": "Cerebras執行長在電話會議上表示，OpenAI GPT 5.4目前已部署執行在Cerebras的AI系統上；作為下一階段部署計劃的一部分，公司正推動將GPT 5.5部署到Cerebras系統上。"
-    },
-    {
-      "id": "4951150",
-      "time": "2026-06-24 05:17:42",
-      "tags": [
-        "市場"
-      ],
-      "text": "聯邦快遞高管：收益率提升得益於基準運價上漲與燃油附加費。"
-    },
-    {
-      "id": "4951149",
-      "time": "2026-06-24 05:17:33",
-      "tags": [
-        "市場"
-      ],
-      "text": "標普道瓊斯指數：霍尼韋爾航空航天將納入標普500與標普100，其餘個股分別納入標普中型股400與標普小型股600。"
-    },
-    {
-      "id": "4951148",
-      "time": "2026-06-24 05:17:13",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "霍尼韋爾航空航天公司將納入標普500指數成分股。"
-    },
-    {
-      "id": "4951147",
-      "time": "2026-06-24 05:15:15",
-      "tags": [
-        "市場"
-      ],
-      "text": "富時A50期指連續夜盤收漲0.45%，報15531點。"
-    },
-    {
-      "id": "mkt:019ef656-54df-7dd8-b0e4-313e5b051013",
-      "time": "2026-06-24 05:15:13",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "【Oman, IMO coordinate temporary sea lane through Strait of Hormuz】Oman announced early on the 24th it has coordinated with the International Maritime Organization to open a temporary sea lane through the Strait of Hormuz for all vessels, citing its responsibility for the strait and its importance to the global economy. The lane will operate under international law, including the United Nations Convention on the Law of the Sea, will not charge passage fees, and will follow navigational coordinates published by the IMO and Omani authorities; vessels must coordinate with the IMO in advance. Oman said the step reflects outcomes from US‑Iran negotiations and mediation efforts."
     }
   ]
 }
