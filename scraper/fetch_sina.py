@@ -45,6 +45,14 @@ DB_PATH  = os.path.join(BASE_DIR, "news.db")
 NEW_DB_PATH = os.path.join(BASE_DIR, "new.db")
 DOCS_DIR = os.path.join(BASE_DIR, "..", "docs")
 EXPORT_DAYS = 7
+try:
+    NEWS_DB_RETENTION_DAYS = max(EXPORT_DAYS, int(float(os.getenv("NEWS_DB_RETENTION_DAYS", "14"))))
+except ValueError:
+    NEWS_DB_RETENTION_DAYS = 14
+try:
+    NEWS_DB_MAX_MB = max(1, int(float(os.getenv("NEWS_DB_MAX_MB", "90"))))
+except ValueError:
+    NEWS_DB_MAX_MB = 90
 TE_STREAM_URL = "https://tradingeconomics.com/ws/stream.ashx"
 TE_STREAM_TYPES = ("markets", "economy")
 MKTNEWS_FLASH_URL = "https://api.mktnews.net/api/flash"
@@ -666,6 +674,37 @@ def upsert_items(conn, items: list[dict]) -> int:
     return new_count
 
 
+def seed_news_db_from_export(conn) -> int:
+    data_path = os.path.join(DOCS_DIR, "data.json")
+    if not os.path.exists(data_path):
+        return 0
+    try:
+        with open(data_path, "r", encoding="utf-8") as f:
+            payload = json.load(f)
+    except Exception as e:
+        print(f"[WARN] docs/data.json 讀取失敗，略過補入 DB：{e}")
+        return 0
+
+    items = []
+    for item in payload.get("items", []):
+        if not isinstance(item, dict):
+            continue
+        item_id = str(item.get("id", "")).strip()
+        item_time = str(item.get("time", "")).strip()
+        text = str(item.get("text", "")).strip()
+        tags = item.get("tags", [])
+        if isinstance(tags, str):
+            tags = [tags]
+        if not item_id or not item_time or not text or not isinstance(tags, list):
+            continue
+        items.append({"id": item_id, "time": item_time, "tags": tags, "text": text})
+
+    imported = upsert_items(conn, items)
+    if imported:
+        print(f"[DB] 從 docs/data.json 補入 {imported} 筆既有快訊")
+    return imported
+
+
 def export_news_json(conn) -> tuple[str, int]:
     cutoff = (datetime.now(TW) - timedelta(days=EXPORT_DAYS)).strftime("%Y-%m-%d %H:%M:%S")
     rows = conn.execute(
@@ -679,6 +718,59 @@ def export_news_json(conn) -> tuple[str, int]:
         json.dump({"updated": now_str, "count": len(items), "items": items},
                   f, ensure_ascii=False, indent=2)
     return now_str, len(items)
+
+
+def requested_news_retention_days() -> int:
+    days = NEWS_DB_RETENTION_DAYS
+    for env_name in ("AI_SCORE_BACKFILL_DAYS", "CENTRAL_BANK_BACKFILL_DAYS"):
+        raw = os.getenv(env_name, "").strip()
+        if not raw:
+            continue
+        try:
+            days = max(days, int(float(raw)))
+        except ValueError:
+            pass
+    return max(EXPORT_DAYS, days)
+
+
+def database_path(conn) -> str:
+    rows = conn.execute("PRAGMA database_list").fetchall()
+    for _, name, path in rows:
+        if name == "main" and path:
+            return path
+    return DB_PATH
+
+
+def compact_news_db(conn, retention_days: int) -> tuple[int, int, int]:
+    cutoff = (datetime.now(TW) - timedelta(days=retention_days)).strftime("%Y-%m-%d %H:%M:%S")
+    cur = conn.execute("DELETE FROM news WHERE time < ?", (cutoff,))
+    removed = max(0, cur.rowcount)
+    conn.commit()
+    path = database_path(conn)
+    before_size = os.path.getsize(path) if os.path.exists(path) else 0
+    conn.execute("VACUUM")
+    conn.commit()
+    after_size = os.path.getsize(path) if os.path.exists(path) else 0
+    return removed, before_size, after_size
+
+
+def maintain_news_db(conn) -> None:
+    retention_days = requested_news_retention_days()
+    removed, before_size, after_size = compact_news_db(conn, retention_days)
+    print(
+        f"[DB] news.db 保留 {retention_days} 天；刪除 {removed} 筆；"
+        f"VACUUM {before_size / 1024 / 1024:.1f}MB -> {after_size / 1024 / 1024:.1f}MB"
+    )
+
+    max_bytes = NEWS_DB_MAX_MB * 1024 * 1024
+    if after_size <= max_bytes or retention_days <= EXPORT_DAYS:
+        return
+
+    removed, before_size, after_size = compact_news_db(conn, EXPORT_DAYS)
+    print(
+        f"[DB] news.db 仍超過 {NEWS_DB_MAX_MB}MB，改保留 {EXPORT_DAYS} 天；"
+        f"刪除 {removed} 筆；VACUUM {before_size / 1024 / 1024:.1f}MB -> {after_size / 1024 / 1024:.1f}MB"
+    )
 
 
 # ════════════════════════════
@@ -2129,6 +2221,7 @@ def main():
     db_path = NEW_DB_PATH if os.path.exists(NEW_DB_PATH) else DB_PATH
     conn = sqlite3.connect(db_path)
     init_db(conn)
+    seed_news_db_from_export(conn)
     raw_items = fetch_pages(pages=5, page_size=50)
     processed = [process_item(r) for r in raw_items]
     sina_new_count = upsert_items(conn, processed)
@@ -2159,6 +2252,7 @@ def main():
     clear_recent_ai_summaries_if_requested()
     update_ai_summaries(conn)
     update_central_bank_summaries(conn)
+    maintain_news_db(conn)
     updated, total = export_news_json(conn)
     conn.close()
     te_summary = "｜".join(f"TE {name} 新增 {count} 筆" for name, count in te_new_counts.items())
