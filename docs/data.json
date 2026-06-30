@@ -1,7 +1,44 @@
 {
-  "updated": "2026-07-01 02:21:02",
-  "count": 13938,
+  "updated": "2026-07-01 02:25:01",
+  "count": 13937,
   "items": [
+    {
+      "id": "mkt:019f19c6-33db-7aab-8c40-36cc99bd5da1",
+      "time": "2026-07-01 02:24:07",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Qatar's Foreign Ministry said technical-level contacts between the US and Iran continue, but high-level talks have not resumed."
+    },
+    {
+      "id": "4963586",
+      "time": "2026-07-01 02:24:04",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國副總統萬斯談及伊朗談判：後續還有諸多博弈。值得慶幸的是，本屆政府、總統始終在想方設法為美國民眾爭取優勢。"
+    },
+    {
+      "id": "mkt:019f19c4-01e4-7aab-8c40-2dea8ce8de71",
+      "time": "2026-07-01 02:21:43",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish"
+      ],
+      "text": "WTI crude futures fell 2.0% intraday to $69.33/bbl."
+    },
+    {
+      "id": "4963585",
+      "time": "2026-07-01 02:21:32",
+      "tags": [
+        "市場"
+      ],
+      "text": "WTI原油日內跌2%，現報69.33美元/桶。"
+    },
     {
       "id": "te:markets:563098",
       "time": "2026-07-01 02:20:18",
@@ -127872,50 +127909,6 @@
         "MKT News"
       ],
       "text": "【Rubio: Iran denies agreeing to IAEA inspections for 'internal reasons'】The New York Times reports U.S. Secretary of State Rubio said Iran, citing domestic political reasons, has denied the Switzerland agreement to allow IAEA inspections. Rubio said Iran committed to inspections and must either honor that commitment—if it does the process will move forward; if it does not, President Trump will have to decide next steps."
-    },
-    {
-      "id": "te:markets:561263",
-      "time": "2026-06-24 02:25:00",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Agricultural Commodities Updates: Coffee Gains by 3.28% — Top commodity gainers are Coffee (3.28%), Rice (3.26%) and Rapeseed (1.12%). Biggest losers are Lumber (-2.19%) and Wheat (-1.64%)."
-    },
-    {
-      "id": "4951054",
-      "time": "2026-06-24 02:23:55",
-      "tags": [
-        "國際"
-      ],
-      "text": "國際足聯主席：特朗普將親自頒發世界盃獎盃。"
-    },
-    {
-      "id": "mkt:019ef5b7-f35e-7dd8-b0e1-9b51296af2f9",
-      "time": "2026-06-24 02:22:13",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "The U.S. State Department and other regional governments issued a joint statement saying a \"violent minority\" is attempting to disregard the will of the majority of the Bolivian people."
-    },
-    {
-      "id": "mkt:019ef5b7-c585-7dd8-b0e1-9282a4568116",
-      "time": "2026-06-24 02:22:01",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "U.S. State Department and other regional governments said in a joint statement that attempts to overthrow Bolivia's government constitute a \"serious threat\" to order and stability."
-    },
-    {
-      "id": "4951053",
-      "time": "2026-06-24 02:21:53",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "美國國務院聯合西半球多國發布聯合宣告：玻利維亞境內顛覆政府的各類行徑對當地秩序與穩定構成 “嚴重威脅”。"
     }
   ]
 }
