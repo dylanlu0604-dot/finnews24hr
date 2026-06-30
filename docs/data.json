@@ -1,7 +1,35 @@
 {
-  "updated": "2026-07-01 04:38:32",
-  "count": 13992,
+  "updated": "2026-07-01 04:42:17",
+  "count": 13990,
   "items": [
+    {
+      "id": "mkt:019f1a42-d476-7aab-8c43-944255bc9cd8",
+      "time": "2026-07-01 04:40:15",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "The U.S. Department of Justice in a memorandum instructed prosecutors to prioritize investigations into \"birth tourism\" cases following the U.S. Supreme Court's ruling on birthright citizenship."
+    },
+    {
+      "id": "te:markets:563108",
+      "time": "2026-07-01 04:40:14",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Canada",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "TSX Near Flat as Canada's GDP Rebounds — The S&P/TSX Composite Index inched up 0.1% to close at 34,857 on Tuesday as investors assessed GDP data and developments in the Middle East. Canada’s economy rebounded more than expected in April after a mild contraction in March, while an advance estimate pointed to a further 0.1% monthly expansion in May, signaling that growth may be stabilizing. The data improved the outlook for corporate earnings and eased concerns over a deeper tariff-driven slowdown. Meanwhile, US envoys in Doha said they would not meet with Iran, raising doubts over efforts to resolve the conflict and reopen the Strait of Hormuz, though technical talks on regional security are expected this week. Oil prices remained below recent highs, helping ease inflation concerns. Financial stocks advanced, with RBC up 1% and TD Bank gaining 0.8%. Mining stocks were mixed as gold prices fluctuated, with Agnico Eagle Mines rising 0.9% and Barrick slipping 0.6%. In tech, Celestica jumped 6.1%, tracking Wall Street’s rally."
+    },
+    {
+      "id": "4963677",
+      "time": "2026-07-01 04:38:17",
+      "tags": [
+        "公司"
+      ],
+      "text": "銀湖集團披露，於 6 月 26 日出售戴爾科技 16679 股 C 類普通股，成交單價區間為 392.3 美元至 401 美元。"
+    },
     {
       "id": "mkt:019f1a40-bfdc-7aab-8c43-8d129507ce36",
       "time": "2026-07-01 04:37:58",
@@ -128416,48 +128444,6 @@
         "Important"
       ],
       "text": "United States | API Weekly Crude Oil Stocks Change (Jun.19) | actual -765000M | consensus -4995000M | previous -8330000M"
-    },
-    {
-      "id": "mkt:019ef638-11ef-7dd8-b0e3-6844ce2a0f0e",
-      "time": "2026-06-24 04:42:10",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy"
-      ],
-      "text": "Colombia's oil reserves are estimated to decline 0.74% in 2025 to 2.02 bln barrels; natural gas reserves are estimated to fall 16.8% to 1.72 bln cubic feet (bcf)."
-    },
-    {
-      "id": "mkt:019ef637-33df-7dd8-b0e3-61e425239c7d",
-      "time": "2026-06-24 04:41:13",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "MSCI said liquidity in South Korea’s onshore FX market remains broadly insufficient during extended FX trading hours to support execution as tight as in developed markets."
-    },
-    {
-      "id": "mkt:019ef636-501f-7dd8-b0e3-59812aa71bae",
-      "time": "2026-06-24 04:40:14",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Cloud security company Zscaler reached an agreement with Amazon Web Services (AWS) to cooperate on integration, reference architectures and joint go-to-market activities; the partners will jointly secure generative AI deployments in government, healthcare and education sectors."
-    },
-    {
-      "id": "4951142",
-      "time": "2026-06-24 04:39:30",
-      "tags": [
-        "其他"
-      ],
-      "text": "哥倫比亞國家管理局：2025年哥倫比亞天然氣儲量下降16.8%，至17.2億立方英尺。"
-    },
-    {
-      "id": "mkt:019ef635-64fb-7dd8-b0e3-5037c03ac992",
-      "time": "2026-06-24 04:39:14",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "MSCI said South Korean investors view related issues as still unresolved; South Korean market participants continue to face significant operational burdens under the reinstated compliance regime."
     }
   ]
 }
