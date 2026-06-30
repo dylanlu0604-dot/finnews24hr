@@ -1,7 +1,28 @@
 {
-  "updated": "2026-07-01 04:19:44",
-  "count": 13983,
+  "updated": "2026-07-01 04:23:29",
+  "count": 13982,
   "items": [
+    {
+      "id": "4963667",
+      "time": "2026-07-01 04:22:39",
+      "tags": [
+        "其他"
+      ],
+      "text": "【墨西哥北部發生6.1級地震】據墨西哥國家地震監測局釋出的訊息，當地時間6月30日13時45分，墨西哥北部錫那羅亞州瓜薩沃市西南方向約116公里處發生6.1級地震，震源深度約5公里。目前沒有人員傷亡的報告。（央視新聞）"
+    },
+    {
+      "id": "mkt:019f1a30-5d84-7aab-8c42-c8d2e165667e",
+      "time": "2026-07-01 04:20:04",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Brent"
+      ],
+      "text": "API U.S. weekly crude inventories for the week to June 26 due in 10 minutes."
+    },
     {
       "id": "mkt:019f1a2f-0ccf-7aab-8c42-c6cff021516a",
       "time": "2026-07-01 04:18:38",
@@ -128307,37 +128328,6 @@
         "公司"
       ],
       "text": "遊戲驛站董事會取消執行長瑞安・科恩的績效獎金，以便其全身心推進收購eBay的相關工作。"
-    },
-    {
-      "id": "4951128",
-      "time": "2026-06-24 04:22:22",
-      "tags": [
-        "其他"
-      ],
-      "text": "遊戲驛站：擬於本週釋出對eBay發起收購的戰略依據與計劃。"
-    },
-    {
-      "id": "4951127",
-      "time": "2026-06-24 04:21:52",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "耐克公司公佈首席財務官繼任計劃及第四財季業績指引後，盤後股價上漲1%。"
-    },
-    {
-      "id": "mkt:019ef623-d9fe-7dd8-b0e3-0f588dfe2ee4",
-      "time": "2026-06-24 04:20:05",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact mixed",
-        "Brent"
-      ],
-      "text": "API weekly U.S. crude inventory for week to June 19 due in 10 minutes."
     }
   ]
 }
