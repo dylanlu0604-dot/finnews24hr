@@ -1,7 +1,119 @@
 {
-  "updated": "2026-07-01 02:17:08",
-  "count": 13936,
+  "updated": "2026-07-01 02:21:02",
+  "count": 13938,
   "items": [
+    {
+      "id": "te:markets:563098",
+      "time": "2026-07-01 02:20:18",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Metals Commodities Updates: Lithium Carbonate Gains by 3.13% — Top commodity gainers are Lithium Carbonate (3.13%), Silver (2.38%), Copper (1.59%) and Gold (0.39%). Biggest losers are Titanium (-2.06%) and Platinum (-1.70%)."
+    },
+    {
+      "id": "mkt:019f19c1-f742-7aab-8c40-275449c76047",
+      "time": "2026-07-01 02:19:29",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "Commodities",
+        "Energy",
+        "EURUSD",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "【ECB policymaker Dolenc: no rush to hike if energy markets stay calm】ECB policymaker Dolenc said if Middle East tensions do not escalate before the next policy decision and energy prices remain stable, the ECB could keep rates unchanged at the next meeting. Speaking at the Sintra Forum, he said a pause in tightening is reasonable if energy prices hold, commodity volatility does not spread and second‑round inflation effects do not materialize. Oil and gas remaining subdued would remove the need to rush further tightening, he added, and based on current data it may be appropriate to wait until before September. He cautioned there are still weeks to the next decision and geopolitical risk remains elevated after a recent uptick in hostilities."
+    },
+    {
+      "id": "4963584",
+      "time": "2026-07-01 02:19:10",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "哥倫比亞央行利率決議獲七名董事會成員中多數成員支援。"
+    },
+    {
+      "id": "mkt:019f19c1-97f9-7aab-8c40-1d4dc3d0c52d",
+      "time": "2026-07-01 02:19:05",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Colombia's central bank rate decision was supported by a majority of its seven board members."
+    },
+    {
+      "id": "4963583",
+      "time": "2026-07-01 02:19:00",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "哥倫比亞央行將利率上調75個基點至12%。"
+    },
+    {
+      "id": "mkt:019f19c1-83ee-7aab-8c40-1135f369e9aa",
+      "time": "2026-07-01 02:19:00",
+      "tags": [
+        "MKT News",
+        "Macro & Rates"
+      ],
+      "text": "Colombia's central bank raised its policy rate by 75 bps to 12%."
+    },
+    {
+      "id": "4963582",
+      "time": "2026-07-01 02:18:50",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "哥倫比亞央行將貸款利率上調至12.00%，此前為11.25%。"
+    },
+    {
+      "id": "mkt:019f19c1-41d0-7aab-8c40-0ed6861ba442",
+      "time": "2026-07-01 02:18:43",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Hardline Republicans in the U.S. House are blocking advancement of the defense policy bill to protest Trump's voter ID proposals."
+    },
+    {
+      "id": "mkt:019f19c0-9d31-7aab-8c40-06214b23663c",
+      "time": "2026-07-01 02:18:01",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "WTI"
+      ],
+      "text": "【Iran says no timetable to restart nuclear talks; contingent on Israeli withdrawal from Lebanon】Iran foreign ministry spokesman Baghaei told state TV Tehran will not set a timetable to restart nuclear talks with the US until Israel’s withdrawal from Lebanon is scheduled. Iran said it needs assurance Israeli forces will withdraw and that the Lebanon fighting will not escalate, and will decide next steps based on developments over the coming days."
+    },
+    {
+      "id": "4963581",
+      "time": "2026-07-01 02:17:38",
+      "tags": [
+        "國際"
+      ],
+      "text": "共和黨強硬派阻止美國眾議院推進國防政策法案的程式性投票，以抗議特朗普提出的選民身份認證立法。"
+    },
+    {
+      "id": "mkt:019f19bf-707c-7aab-8c3f-f98d1b0bf34e",
+      "time": "2026-07-01 02:16:44",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "Brent",
+        "Impact bearish"
+      ],
+      "text": "Brent crude down 1.00% intraday at $72.92/bbl."
+    },
     {
       "id": "te:markets:563097",
       "time": "2026-07-01 02:15:18",
@@ -127804,91 +127916,6 @@
         "國際"
       ],
       "text": "美國國務院聯合西半球多國發布聯合宣告：玻利維亞境內顛覆政府的各類行徑對當地秩序與穩定構成 “嚴重威脅”。"
-    },
-    {
-      "id": "mkt:019ef5b6-aee5-7dd8-b0e1-88fc65d90c6a",
-      "time": "2026-06-24 02:20:50",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Trump approval falls to second‑term low; half of Americans say Iran war not worth it】A five‑day Refinitiv/Ipsos poll ending Monday found Trump’s approval at 34%, returning to the lowest level of his second term, last seen in April. Only 24% said a war with Iran would be worth the cost; 50% said the conflict was not worth it and the remainder were unsure. About 63% said an agreement signed by Trump was unlikely to produce lasting peace between the US and Iran."
-    },
-    {
-      "id": "te:markets:561262",
-      "time": "2026-06-24 02:19:59",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Metals Commodities Updates: Silver Tumbles by 5.14% — Top commodity losers are Silver (-5.14%), Copper (-3.56%) and Gold (-1.61%). Gains are led by Lithium Carbonate (0.96%)."
-    },
-    {
-      "id": "4951052",
-      "time": "2026-06-24 02:18:47",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "IBM：特朗普政府將持有Anderon的股權，但不參與治理。Anderon量子晶圓代工業務將從擴建位於紐約州奧爾巴尼的設施起步。量子技術對於實現規模化製造至關重要。許多量子計算公司已表達了向Anderon採購的意向。 量子計算賽道最終只會誕生一兩家絕對頭部贏家。"
-    },
-    {
-      "id": "mkt:019ef5b4-a4fa-7dd8-b0e1-8730e8529824",
-      "time": "2026-06-24 02:18:37",
-      "tags": [
-        "MKT News",
-        "IBM.O",
-        "Impact bullish"
-      ],
-      "text": "IBM Research head expects one or two clear winners to emerge in the quantum computing race."
-    },
-    {
-      "id": "mkt:019ef5b4-6f1d-7dd8-b0e1-7e79ddd6ad4a",
-      "time": "2026-06-24 02:18:23",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "IBM's head of research said many quantum computing firms have expressed interest in purchasing from Anderon."
-    },
-    {
-      "id": "mkt:019ef5b4-3271-7dd8-b0e1-72b940686d5c",
-      "time": "2026-06-24 02:18:07",
-      "tags": [
-        "MKT News",
-        "IBM.O"
-      ],
-      "text": "IBM's vice president of quantum applications said quantum technology is critical to achieving scalable manufacturing."
-    },
-    {
-      "id": "mkt:019ef5b3-fb16-7dd8-b0e1-688c29a05122",
-      "time": "2026-06-24 02:17:53",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "Chip Wars",
-        "IBM.N",
-        "Impact bullish"
-      ],
-      "text": "IBM (IBM.N): Anderon's quantum wafer foundry will launch by expanding its facility in Albany, New York."
-    },
-    {
-      "id": "mkt:019ef5b3-a10e-7dd8-b0e1-6353c9b78711",
-      "time": "2026-06-24 02:17:30",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "The Trump Trade"
-      ],
-      "text": "IBM (IBM.N) said the Trump administration will hold an equity stake in Anderon but will not participate in governance."
-    },
-    {
-      "id": "4951051",
-      "time": "2026-06-24 02:17:16",
-      "tags": [
-        "其他"
-      ],
-      "text": "【報道：英國首相熱門人選伯納姆擬解除裡夫斯財政大臣職務】據知情人士透露，安迪·伯納姆準備解除蕾切爾·裡夫斯的財政大臣職務，但會為她提供一個內閣中的其他職位。 裡夫斯試圖在伯納姆掌權的情況下保住財政大臣職位，但並未成功。"
     }
   ]
 }
