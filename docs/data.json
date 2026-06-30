@@ -1,7 +1,26 @@
 {
-  "updated": "2026-07-01 02:25:01",
-  "count": 13937,
+  "updated": "2026-07-01 02:28:53",
+  "count": 13935,
   "items": [
+    {
+      "id": "te:markets:563099",
+      "time": "2026-07-01 02:25:19",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Agricultural Commodities Updates: Coffee Soars by 8.77% — Top commodity gainers are Coffee (8.77%) and Corn (2.58%). Biggest losers are Rice (-2.89%), Rapeseed (-1.42%) and Canola (-1.17%)."
+    },
+    {
+      "id": "4963587",
+      "time": "2026-07-01 02:24:51",
+      "tags": [
+        "國際"
+      ],
+      "text": "在美國態度猶豫且北約成員國防務開支普遍不足的情況下，北約下屆峰會能否在阿爾巴尼亞舉行存疑。"
+    },
     {
       "id": "mkt:019f19c6-33db-7aab-8c40-36cc99bd5da1",
       "time": "2026-07-01 02:24:07",
@@ -127873,42 +127892,6 @@
         "Importance 1"
       ],
       "text": "Crypto Updates: Ether Drops by 4.09% — Top crypto losers are Ether (-4.09%), Bitcoin (-2.60%) and Binance (-2.58%)."
-    },
-    {
-      "id": "mkt:019ef5bd-edd4-7dd8-b0e1-b33b588dad91",
-      "time": "2026-06-24 02:28:45",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "OpenAI opens applications for its 2026 DevDay developer conference."
-    },
-    {
-      "id": "4951055",
-      "time": "2026-06-24 02:27:34",
-      "tags": [
-        "其他"
-      ],
-      "text": "【CFA一級考試透過率降至39%】CFA協會週二公佈，5月份39%的考生透過了一級考試，低於2月的45%，也低於去年11月和8月考試的43%。雖然這一透過率低於過去十年40%的平均水平，但仍高於2021年創下的低點。據CFA的資料，5月有超過3.1萬名考生參加一級考試，為2019年以來同級考試規模最大的一次。"
-    },
-    {
-      "id": "mkt:019ef5bb-c8da-7dd8-b0e1-ae532793fe41",
-      "time": "2026-06-24 02:26:24",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "The Trump Trade"
-      ],
-      "text": "FIFA president says Trump will personally present the World Cup trophy."
-    },
-    {
-      "id": "mkt:019ef5bb-7a59-7dd8-b0e1-a5d6d479d913",
-      "time": "2026-06-24 02:26:04",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Rubio: Iran denies agreeing to IAEA inspections for 'internal reasons'】The New York Times reports U.S. Secretary of State Rubio said Iran, citing domestic political reasons, has denied the Switzerland agreement to allow IAEA inspections. Rubio said Iran committed to inspections and must either honor that commitment—if it does the process will move forward; if it does not, President Trump will have to decide next steps."
     }
   ]
 }
