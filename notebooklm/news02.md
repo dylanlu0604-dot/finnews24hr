@@ -1,7 +1,55 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-07-01 06:05:15_
-_本檔包含 2895 則快訊，約 519073 字_
+_更新時間：2026-07-01 06:20:48_
+_本檔包含 2894 則快訊，約 519165 字_
+
+---
+
+### 2026-06-29 05:40:26  #市場
+
+【上漲支撐因素鬆動 黃金下半年面臨“壓力測試”】站在2026年年中，國際、國內金價較1月曆史高點已累計回撤近30%，呈現極罕見的高位劇烈調整。展望後市，業內人士表示，黃金的價格走勢是該資產與股市、利率、油價之間多重關係博弈的結果，金價的短期預測變得愈發困難。（上證報）
+
+---
+
+### 2026-06-29 05:40:11  #其他
+
+【告別“重首發，輕持營” 公募基金加碼“二次首發”】今年以來，多家公募加碼優勢產品的“二次首發”，部分產品管理規模近乎翻倍。在政策導向與費率改革的推動下，行業過往“重首發，輕持營”的利益邏輯正在改變，深耕存量的良性行業生態加速形成。（上證報）
+
+---
+
+### 2026-06-29 05:39:51  #市場
+
+【“買券商等於買一籃子打折科技股”交易邏輯發酵 券商股上演價值重估行情】近期，A股券商板塊告別前期沉寂，盤面異動頻發，資金關注度持續攀升。6月22日券商板塊迎來異動，行業指數單日大漲超過7%，場內掀起個股漲停潮。隨後多個交易日資金持續加碼，長江證券、華安證券等標的更是走出連板行情。盤面最關鍵的變化在於，打破了過往“券商拉昇，科技回撥”的存量資金蹺蹺板效應，證券與硬科技雙線共振走強。“買券商等於買一籃子打折科技股”的交易邏輯在市場上快速發酵。長久以來，券商僅以“牛市旗手”的行情彈性被資金關注，如今卻憑藉投行跟投、股權直投手握大量硬科技企業股權，疊加自身板塊估值處於歷史低位，科創底色逐步被資金挖掘，一場全新的價值重估行情正在上演。（上證報）
+
+---
+
+### 2026-06-29 05:39:24  #央行 #國際
+
+【全球科技股同步回撥 AI主線地位不改但再平衡需求上升】上週全球市場科技產業鏈同步震盪，海外相關賽道估值下行對A股構成傳導壓力，A股呈現“衝高回落，極致分化”格局。綜合本週券商策略研報來看，美聯儲加息預期反覆、科技板塊交易擁擠度抬升，以及AI產業面訊息擾動共同壓制了科技板塊風險偏好。在中期維度上，AI產業上行趨勢尚未出現實質性拐點，各細分賽道景氣度持續兌現，行情延續的基礎仍存。（上證報）
+
+---
+
+### 2026-06-29 05:38:00  #公司
+
+【專屬APP退場+髮卡放緩 銀行信用卡重構增長邏輯】6月30日，中國銀行信用卡APP“繽紛生活”將全面停止服務，相關功能遷移至“中國銀行”APP。 過去幾年間，在最佳化成本的考量下，中小銀行紛紛放棄開發信用卡獨立APP，將其功能合併至手機銀行APP中，國有大行、股份行、中小銀行亦陸續關停線下異地分中心。 線上整合、線下關停，國內信用卡行業正告別粗放擴張週期，迎來經營模式重構。（證券時報）
+
+---
+
+### 2026-06-29 05:36:34  #其他
+
+【香港特區政府財政司司長陳茂波：香港擔綱內地企業出海“超級轉換器”】香港特區政府財政司司長陳茂波昨日（6月28日）發表網誌表示，近期參與2026年夏季達沃斯論壇、首屆西部商業航天大會，此行實地見證東北重工業、西部硬科技雄厚產業實力，而依託“一國兩制”獨特優勢，香港正以超級聯絡人、超級增值人、超級轉換器三重功能，打通內地科創成果通往全球市場的完整通道，助力內地企業穩健出海、規模化佈局全球。（證券時報）
+
+---
+
+### 2026-06-29 05:35:46  #公司 #市場
+
+【每天1300部AI短劇上線 投流成本持續攀升“堆量”難以為繼】依託飛速進步的影片生成模型和高效的智慧製作工具，國內短劇產業正迅速“AI化”。一個顯著標志是，AI短劇如今已成為行業絕對主流。 行業權威研究機構DataEye劇查查向證券時報記者提供的資料顯示，今年一季度國內全行業上線短劇約12.8萬部，其中AI短劇佔比超95%。 AI短劇產能大爆發的另一面是行業流量競爭日益加劇，流量成本持續走高。“AI短劇製作端成本大概下降了90%，但流量成本同比上漲了超過100%，與此同時，收益端下滑了50%以上。”DataEye劇查查副總裁林啟文向證券時報記者表示。 “按照一季度資料換算下來，平均每天上線超過1300部新劇。目前市場上每10部新短劇中，就有超過9部由AI參與或主導製作，行業供給結構已發生深刻轉變。”林啟文說。（證券時報）
+
+---
+
+### 2026-06-29 05:34:02  #MKT News #WTI #Impact bearish #XAUUSD #S&P500 #Impact bullish
+
+Germany's foreign minister said they held constructive talks with Israel's foreign minister on a framework agreement between Israel and Lebanon. The minister called the agreement a key step toward stability, said it must now be fully implemented, and described it as a genuine opportunity for durable de-escalation in the decades-long conflict.
 
 ---
 
@@ -17459,59 +17507,5 @@ South African Rand Hovers Around 16.5 per USD — The South African rand has tra
 ### 2026-06-26 16:56:22  #MKT News #Star Stocks #Apple #Market Regions #Wall Street (US) #Europe & UK #Market Themes #Magnificent 7 #S&P500 #Impact bearish #Nasdaq100 #US10Y #Impact bullish
 
 【U.S. equity funds post first outflow in three months as tech trading cools】BofA, citing EPFR Global, says U.S. equity funds saw $8.5bln of net outflows in the week to June 24, the first weekly withdrawal in three months. Technology funds led the move with a record $9.3bln outflow; the prior week tech funds had posted a record $19.2bln inflow, BofA’s Michael Hartnett team noted. Large-cap tech selling, including a sharp drop in Apple, knocked markets and pulled the S&P 500 off its record high, though Micron’s strong sales outlook eased some sector concerns. Overall equity funds recorded $5.0bln of redemptions, money-market funds had $25.5bln of outflows, European funds posted an 11th consecutive week of withdrawals, and investors rotated into fixed-income funds, which attracted $16.6bln.
-
----
-
-### 2026-06-26 16:55:19  #市場
-
-【富創精密今日20cm漲停，2家機構專用席位淨買入4.02億元】富創精密今日20cm漲停，成交額30.11億元，換手率3.90%，盤後龍虎榜資料顯示，滬股通專用席位賣出9421.42萬元，2家機構專用席位淨買入4.02億元，有2家機構專用席位淨賣出3.41億元。
-
----
-
-### 2026-06-26 16:55:16  #市場
-
-歐元/美元延續漲勢，上漲0.3%至日內新高1.1408。
-
----
-
-### 2026-06-26 16:54:42  #MKT News #Market Regions #Japan & APAC #9202.T #Impact bearish #9201.T
-
-【Two typhoons approach Japan; airlines cancel flights】Two typhoons — No.7 Mikla and No.8 Haigos — are impacting Japan. As of June 26, Typhoon No.7 is over waters west of Amami in Kagoshima Prefecture, placing Okinawa and Amami in its strong-wind zone and is expected to continue affecting Japan on June 27. Typhoon No.8 is forecast to approach eastern Japan on June 27 and may make landfall. Authorities issued a landslide alert for northern Kyushu. Multiple Japanese carriers cancelled June 26 services to and from Okinawa and Kagoshima; about 15,000 travelers were disrupted.
-
----
-
-### 2026-06-26 16:54:34  #MKT News
-
-【CSRC approves Green Biotech Technology Co.'s ChiNext IPO registration】The CSRC has approved the initial public offering registration for Green Biotech Technology Co., Ltd., allowing the company to list on the ChiNext board.
-
----
-
-### 2026-06-26 16:54:27  #其他
-
-【上海消保委618網購體驗報告：AI匹配精準度僅16% “演算法向善”待破局】對於AI輔助消費決策這一新趨勢，調查發現，消費者使用意願高，但工具精準度嚴重不達預期。雖然消費者願將標準化篩選、比價工作交給AI，但AI購物工具必須解決精準度、透明度兩大核心體驗短板。
-
----
-
-### 2026-06-26 16:54:02  #公司
-
-【證監會同意格林生物創業板IPO註冊】6月26日訊息，證監會日前下發關於同意格林生物科技股份有限公司首次公開發行股票註冊的批覆，同意該公司首次公開發行股票並在創業板上市的註冊申請。
-
----
-
-### 2026-06-26 16:53:59  #公司
-
-【恒大地產旗下投資公司經營異常】天眼查經營風險資訊顯示，近日，深圳金御成達實業投資有限公司因透過登記的住所或者經營場所無法聯絡，被深圳市市場監督管理局羅湖監管局列入經營異常名錄。該公司成立於2018年7月，法定代表人為朱禮仁，註冊資本約24.9億人民幣，經營範圍包括投資興辦實業、資訊諮詢、物業管理、國內貿易等，由恒大地產集團（深圳）有限公司全資持股。
-
----
-
-### 2026-06-26 16:53:50  #公司 #國際
-
-【雙颱風逼近日本 多家航空公司取消航班】受今年第7號颱風“米克拉”和第8號颱風“海高斯”的雙重影響，當地時間6月26日，日本東部和西部地區大範圍迎來強風暴雨天氣。據日本方面訊息，第7號颱風“米克拉”目前位於鹿兒島縣奄美市以西海面，沖繩、奄美地區進入強風域。預計27日將進一步影響日本。此外，第8號颱風“海高斯”也將在27日接近日本東部，並可能登陸。受雙颱風影響，九州北部地區釋出山體滑坡災害警報。日本多家航空公司26日決定取消往返沖繩、鹿兒島等地的航班，預計約1.5萬人出行受阻。（央視新聞）
-
----
-
-### 2026-06-26 16:53:14  #公司 #焦點
-
-【至純科技：收到上海證監局警示函 因會計差錯導致2021-2024年財務資料不準確】至純科技公告，公司因存在會計差錯導致2021-2024年定期報告披露的財務資料不準確，收到上海證監局警示函。違規情形包括未將投資款確認為金融負債、房產作為投資性房地產核算不符合規定、未單獨列示合同負債和應收賬款等。公司已對會計差錯進行更正，行政監管措施不會影響公司正常經營管理活動。
 
 ---

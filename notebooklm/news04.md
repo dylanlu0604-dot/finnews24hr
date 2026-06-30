@@ -1,7 +1,97 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-07-01 06:05:15_
-_本檔包含 2891 則快訊，約 519077 字_
+_更新時間：2026-07-01 06:20:48_
+_本檔包含 2895 則快訊，約 518869 字_
+
+---
+
+### 2026-06-25 19:24:48  #MKT News
+
+U.S. Secretary of State Rubio said Venezuela needs search-and-rescue assistance first.
+
+---
+
+### 2026-06-25 19:24:39  #焦點 #國際
+
+魯比奧：不知曉卡達持有的伊朗資金是否已被轉移。
+
+---
+
+### 2026-06-25 19:24:26  #公司
+
+【聯訊儀器：股價漲幅大、估值高 提示多項投資風險】聯訊儀器公告稱，2026年5月6日至6月25日，公司股票累計漲幅165.23%，日均換手率12.54%，且滾動市盈率1014.54倍，顯著高於行業平均的74.87倍。截至6月25日，無限售流通股佔總股本18.79%，流動性不足。2026年一季度，公司營業利潤11941.04萬元，淨利潤11890.32萬元。公司尚處發展階段，面臨經營業績波動、技術迭代等風險，提醒投資者注意風險，理性投資。
+
+---
+
+### 2026-06-25 19:23:35  #MKT News #WTI #Impact bearish #Brent
+
+U.S. Secretary of State Rubio said establishing a toll system in the Strait of Hormuz is not feasible.
+
+---
+
+### 2026-06-25 19:23:32  #MKT News
+
+US Secretary of State Rubio, on Iran's support for proxies, said the Iran memorandum concerns "interference in other countries".
+
+---
+
+### 2026-06-25 19:23:20  #其他
+
+魯比奧：霍爾木茲海峽的收費系統根本行不通。
+
+---
+
+### 2026-06-25 19:23:12  #MKT News
+
+U.S. Secretary of State Rubio said 'fees' and 'tolls' are the same thing.
+
+---
+
+### 2026-06-25 19:23:06  #公司
+
+【銀行、消金公司助貸餘額增速不得高於自營貸款增速】記者從多位業內人士處獲悉，5月以來，多地金融監管部門對部分中小銀行、消金公司下達視窗指導，要求助貸渠道貸款規模增速不得高於自營渠道貸款增速，存量助貸業務貸款餘額應環比壓降，融擔類業務佔比不得超過25%。 (中證金牛座)
+
+---
+
+### 2026-06-25 19:23:02  #國際
+
+【國防部：美日應切實尊重地區國家安全關切，不得引入“堤豐”中導系統】國防部新聞發言人張曉剛表示，“堤豐”中導系統是進攻性武器，美國在亞洲國家部署該系統，損害他國正當安全利益，威脅地區戰略安全，加劇軍備競賽和軍事對抗風險。特別是當前日本“新型軍國主義”成勢為患，任何助長日本右翼勢力囂張氣焰的舉動，對地區和平穩定有百害而無一利，也會禍延自身。美日應切實尊重地區國家安全關切，不得引入“堤豐”中導系統，以實際行動為地區和平穩定發揮正面作用。
+
+---
+
+### 2026-06-25 19:22:42  #其他
+
+魯比奧：“費用”和“通行費”是一回事。
+
+---
+
+### 2026-06-25 19:22:33  #公司
+
+【誠達藥業：原持股5%以上股東減持736.87萬股】誠達藥業公告稱，原持股5%以上股東前海晟泰在2026年6月3日至6月24日期間，累計減持公司股份736.87萬股，佔公司總股本比例4.76%（佔剔除回購專戶股份數後總股本比例4.86%）。減持後，前海晟泰持股降至74.81萬股，佔總股本0.48%。本次減持未違反相關規定和承諾，不會導致公司控制權變更，不觸及要約收購，也不會對公司經營產生不利影響。
+
+---
+
+### 2026-06-25 19:22:30  #公司
+
+【西部建設：子公司擬1000萬元設合資公司開展新能源業務】西部建設公告稱，2026年6月25日，公司第八屆三十五次董事會會議審議透過對外投資議案。全資子公司研究院擬與聯京控股共同出資1000萬元設立中建聯京新能源科技有限公司，開展新能源領域高效能材料等混凝土相關業務。其中，研究院出資650萬元，持股65%；聯京控股出資350萬元，持股35%。本次投資無需提交股東會審議，不構成關聯交易和重大資產重組。
+
+---
+
+### 2026-06-25 19:22:28  #MKT News
+
+Iran’s foreign minister said Iran and Oman’s foreign minister discussed the latest developments.
+
+---
+
+### 2026-06-25 19:22:28  #MKT News #Market Regions #Greater China #MDT.O #Impact bullish
+
+【Medtronic executive says China becoming key source of medical innovation】Medtronic's global senior vice president and Greater China president Gu Yushao said China is becoming a major source of medical innovation and is on track to become the world’s largest medical device market. He said medtech innovation increasingly requires AI across brain‑machine interfaces, robotics and imaging, and Medtronic is partnering with Chinese AI firms. Medtronic plans to open its first digital medical innovation hub in Beijing by end‑2025 to connect industry, research and clinical partners and advance digital‑intelligence medical solutions.
+
+---
+
+### 2026-06-25 19:22:19  #公司
+
+【天虹股份：回購2759.12萬股登出 大股東持股比例增至45.64%】天虹股份公告稱，公司於2026年6月24日完成回購股份登出，登出數量27,591,178股，佔登出前總股本2.3605%，總股本由1,168,847,750股變更為1,141,256,572股。持股5%以上股東中航科創有限公司持股數量未變，但比例由44.5640%被動增至45.6414%，觸及5%整數倍。本次登出不會對公司財務等方面產生重大影響，後續將修改《公司章程》並辦理工商變更登記。
 
 ---
 
@@ -17359,71 +17449,5 @@ Iran's foreign minister Araghchi held a phone call with his Saudi counterpart on
 ### 2026-06-24 23:09:37  #Trading Economics #Markets #United States #Stock Market #Importance 2
 
 US Stocks Gain Ground, Dow Rises to Record — US equities gained ground on Wednesday, rebounding from the selloff in the chip sector on signs of improvement to broader credit conditions. The Nasdaq 100 and the S&P 500 gained nearly 1%, while the Dow added 400 points for a new record. Micron was flat ahead of its earnings after the bell. It followed the 13% plunge last session on fresh doubts that capital expenditures from AI companies were overdone and are due to slow. Other semiconductor and memory producers halted the selloff, with Nvidia, Intel, and Broadcom adding up to 2%. AI fundraising remained at soaring levels as SK Hynix was looking to raise $29 billion with a US listing shortly after the record SpaceX IPO. Broader sectors were supported by a pullback in yields across the curve as the outlook of restored energy exports from the Middle East tempered inflationary risks. The Dow Jones outperformed due to its exposure to traditional sectors of the economy, set to change on Monday when Alphabet replaces Verizon.
-
----
-
-### 2026-06-24 23:09:21  #國際
-
-【國際海事組織公佈霍爾木茲海峽撤離計劃操作細則】當地時間24日，國際海事組織（IMO）公佈霍爾木茲海峽撤離計劃操作細則，稱超過1.1萬名滯留在海灣地區船舶上的船員將按照統一協調機制分階段撤離。根據國際海事組織釋出的檔案，目前所有等待撤離的船舶應保持當前位置，不得自行駛向霍爾木茲海峽或指定等待區，而應等待進一步通知。國際海事組織強調，此舉旨在避免航道擁堵，並降低水雷和複雜航行環境帶來的風險。檔案顯示，英國海上貿易行動辦公室（UKMTO）和法國主導的印度洋海事資訊中心（MICACentre）將負責聯絡相關船舶，並通知其前往指定等待區域。船舶隨後可根據自身風險評估，自主選擇經伊朗水域的北部航線或經阿曼及美國協調水域的南部航線離開霍爾木茲海峽。（央視新聞）
-
----
-
-### 2026-06-24 23:09:15  #MKT News
-
-【IMO issues operational rules for Strait of Hormuz evacuation plan】On the 24th the International Maritime Organization issued operational rules for a staged evacuation of more than 11,000 seafarers aboard vessels stranded in the Gulf under a unified coordination mechanism. The IMO said all vessels awaiting evacuation must remain in place and must not transit into the Strait of Hormuz or designated holding areas until further notice. The move is intended to prevent channel congestion and reduce risks from sea mines and complex navigation. UK Maritime Trade Operations (UKMTO) and the French‑led Indian Ocean Maritime Information Centre (MICACentre) will contact affected ships and direct them to designated holding areas; vessels may then, based on their own risk assessments, choose a northern route via Iranian waters or a southern route via Omani waters under US coordination to exit the Strait.
-
----
-
-### 2026-06-24 23:09:11  #公司 #市場
-
-【理想蔚來隔空口水戰：理想高管稱“增程的盡頭是5C增程”，蔚來馬麟以兩個字疑似回應】6月24日晚間訊息，近日，圍繞增程與純電兩個路線，理想與蔚來兩家企業高管出現隔空口水戰。此前，蔚來對外打出了“增程的盡頭是純電，純電的盡頭是換電”的口號。蔚來創始人、董事長、CEO李斌也多次在公開場合稱，純電拐點已經到來。6月17日，理想汽車創始人、董事長兼CEO李想在微博上發文稱，最近一段時間，有人認為增程車份額下降了，開始唱衰整個市場。“我認為純電和增程車，是滿足不同使用者需求，不要踩一捧一，不要搞能源鄙視鏈，要尊重使用者對長途和野外使用汽油完全沒有焦慮的偏好。”隨即，6月18日，樂道汽車總裁沈斐也在微博發文，稱5月國內新能源汽車滲透率已達62.9%，其中純電車型份額攀升至67%，成為新能源市場絕對主力，發展勢頭勢不可擋；而增程車型份額進一步下滑，僅剩餘7%。在6月23日晚間的全新理想L8上市釋出會上，理想汽車產品線總裁劉傑再次提及該話題。他表示不認同行業內“增程的盡頭是純電”的話術，並提出全新觀點，劉傑稱“增程的盡頭，是5C增程。”今日，蔚來副總裁馬麟則在微博上僅釋出“謝謝”兩個字，被外界視為是針對理想汽車產品線總裁劉傑言論的隔空回應。（新浪科技）
-
----
-
-### 2026-06-24 23:07:39  #Trading Economics #Markets #commodity #Importance 0
-
-Gold traded below 4000 USD/t.oz — Gold decreased below 4000, according to trading on a contract for difference (CFD).
-
----
-
-### 2026-06-24 23:07:36  #公司
-
-【華恒生物：終止發行H股股票】華恒生物(688639.SH)公告稱，公司決定終止發行H股股票並在香港聯交所主機板上市的申請。
-
----
-
-### 2026-06-24 23:06:59  #其他
-
-加拿大政府正計劃加急推進一批北部基建專案，這是該國首次啟用新授權以簡化審批流程、縮短監管週期。
-
----
-
-### 2026-06-24 23:06:34  #國際
-
-特朗普宣佈取消原定在國會大廈簽署住房法案的計劃，稱應當先由國會透過一項投票相關法案。
-
----
-
-### 2026-06-24 23:04:39  #其他
-
-CoreWeave與Conapto達成合作，依託可再生能源在瑞典擴容人工智慧雲算力。
-
----
-
-### 2026-06-24 23:04:34  #MKT News #Market Regions #Europe & UK #CRWV.O #Impact bullish
-
-CoreWeave (CRWV.O) has partnered with Conapto to deploy data-center capacity in Stockholm.
-
----
-
-### 2026-06-24 23:02:25  #其他 #焦點
-
-【我國科研團隊透過體外建模重現人類器官形成過程】從一顆受精卵到發育出軀幹結構、各類器官前體細胞，這個過程被稱為原腸運動。因發生在母體內，人類胚胎原腸運動的誘發機制、發生過程等仍是發育生物學古老的謎題之一。6月24日，中國農業大學生物學院教授魏育蕾與中國科學院動物研究所研究員於樂謙聯合團隊在國際學術期刊《細胞》上釋出研究成果：透過成功構建世界首個人類胚盤樣原腸模型，在體外精準重現了人類原腸運動的發生以及器官有序形成的動態過程。專家認為，這項研究為了解人類早期發育與器官形成過程，實現體外大規模製備器官種子用於再生醫學提供了全新技術路徑。（新華社）
-
----
-
-### 2026-06-24 23:01:50  #國際
-
-【特朗普稱伊朗霍爾木茲收費談判終止】阿曼通訊社6月23日報道，阿曼已經在霍爾木茲海峽開闢一條臨時航道供船隻通行，阿曼致力於確保船隻“在這一戰略水道自由航行且不徵收通行費”。美國總統特朗普今天（6月24日）在社交媒體發文威脅稱，如果伊朗開始向透過霍爾木茲海峽的船隻收取費用，他將終止與伊朗的和平談判。 （CCTV國際時訊）
 
 ---

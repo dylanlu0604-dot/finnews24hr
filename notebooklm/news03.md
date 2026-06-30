@@ -1,7 +1,61 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-07-01 06:05:15_
-_本檔包含 2806 則快訊，約 519106 字_
+_更新時間：2026-07-01 06:20:48_
+_本檔包含 2800 則快訊，約 518509 字_
+
+---
+
+### 2026-06-26 16:55:19  #市場
+
+【富創精密今日20cm漲停，2家機構專用席位淨買入4.02億元】富創精密今日20cm漲停，成交額30.11億元，換手率3.90%，盤後龍虎榜資料顯示，滬股通專用席位賣出9421.42萬元，2家機構專用席位淨買入4.02億元，有2家機構專用席位淨賣出3.41億元。
+
+---
+
+### 2026-06-26 16:55:16  #市場
+
+歐元/美元延續漲勢，上漲0.3%至日內新高1.1408。
+
+---
+
+### 2026-06-26 16:54:42  #MKT News #Market Regions #Japan & APAC #9202.T #Impact bearish #9201.T
+
+【Two typhoons approach Japan; airlines cancel flights】Two typhoons — No.7 Mikla and No.8 Haigos — are impacting Japan. As of June 26, Typhoon No.7 is over waters west of Amami in Kagoshima Prefecture, placing Okinawa and Amami in its strong-wind zone and is expected to continue affecting Japan on June 27. Typhoon No.8 is forecast to approach eastern Japan on June 27 and may make landfall. Authorities issued a landslide alert for northern Kyushu. Multiple Japanese carriers cancelled June 26 services to and from Okinawa and Kagoshima; about 15,000 travelers were disrupted.
+
+---
+
+### 2026-06-26 16:54:34  #MKT News
+
+【CSRC approves Green Biotech Technology Co.'s ChiNext IPO registration】The CSRC has approved the initial public offering registration for Green Biotech Technology Co., Ltd., allowing the company to list on the ChiNext board.
+
+---
+
+### 2026-06-26 16:54:27  #其他
+
+【上海消保委618網購體驗報告：AI匹配精準度僅16% “演算法向善”待破局】對於AI輔助消費決策這一新趨勢，調查發現，消費者使用意願高，但工具精準度嚴重不達預期。雖然消費者願將標準化篩選、比價工作交給AI，但AI購物工具必須解決精準度、透明度兩大核心體驗短板。
+
+---
+
+### 2026-06-26 16:54:02  #公司
+
+【證監會同意格林生物創業板IPO註冊】6月26日訊息，證監會日前下發關於同意格林生物科技股份有限公司首次公開發行股票註冊的批覆，同意該公司首次公開發行股票並在創業板上市的註冊申請。
+
+---
+
+### 2026-06-26 16:53:59  #公司
+
+【恒大地產旗下投資公司經營異常】天眼查經營風險資訊顯示，近日，深圳金御成達實業投資有限公司因透過登記的住所或者經營場所無法聯絡，被深圳市市場監督管理局羅湖監管局列入經營異常名錄。該公司成立於2018年7月，法定代表人為朱禮仁，註冊資本約24.9億人民幣，經營範圍包括投資興辦實業、資訊諮詢、物業管理、國內貿易等，由恒大地產集團（深圳）有限公司全資持股。
+
+---
+
+### 2026-06-26 16:53:50  #公司 #國際
+
+【雙颱風逼近日本 多家航空公司取消航班】受今年第7號颱風“米克拉”和第8號颱風“海高斯”的雙重影響，當地時間6月26日，日本東部和西部地區大範圍迎來強風暴雨天氣。據日本方面訊息，第7號颱風“米克拉”目前位於鹿兒島縣奄美市以西海面，沖繩、奄美地區進入強風域。預計27日將進一步影響日本。此外，第8號颱風“海高斯”也將在27日接近日本東部，並可能登陸。受雙颱風影響，九州北部地區釋出山體滑坡災害警報。日本多家航空公司26日決定取消往返沖繩、鹿兒島等地的航班，預計約1.5萬人出行受阻。（央視新聞）
+
+---
+
+### 2026-06-26 16:53:14  #公司 #焦點
+
+【至純科技：收到上海證監局警示函 因會計差錯導致2021-2024年財務資料不準確】至純科技公告，公司因存在會計差錯導致2021-2024年定期報告披露的財務資料不準確，收到上海證監局警示函。違規情形包括未將投資款確認為金融負債、房產作為投資性房地產核算不符合規定、未單獨列示合同負債和應收賬款等。公司已對會計差錯進行更正，行政監管措施不會影響公司正常經營管理活動。
 
 ---
 
@@ -16847,95 +16901,5 @@ U.S. Secretary of State Rubio said the Gulf Cooperation Council meeting did not 
 ### 2026-06-25 19:25:23  #MKT News #Important
 
 U.S. Secretary of State Rubio said he is unclear whether funds held by Qatar for Iran have been transferred.
-
----
-
-### 2026-06-25 19:24:48  #MKT News
-
-U.S. Secretary of State Rubio said Venezuela needs search-and-rescue assistance first.
-
----
-
-### 2026-06-25 19:24:39  #焦點 #國際
-
-魯比奧：不知曉卡達持有的伊朗資金是否已被轉移。
-
----
-
-### 2026-06-25 19:24:26  #公司
-
-【聯訊儀器：股價漲幅大、估值高 提示多項投資風險】聯訊儀器公告稱，2026年5月6日至6月25日，公司股票累計漲幅165.23%，日均換手率12.54%，且滾動市盈率1014.54倍，顯著高於行業平均的74.87倍。截至6月25日，無限售流通股佔總股本18.79%，流動性不足。2026年一季度，公司營業利潤11941.04萬元，淨利潤11890.32萬元。公司尚處發展階段，面臨經營業績波動、技術迭代等風險，提醒投資者注意風險，理性投資。
-
----
-
-### 2026-06-25 19:23:35  #MKT News #WTI #Impact bearish #Brent
-
-U.S. Secretary of State Rubio said establishing a toll system in the Strait of Hormuz is not feasible.
-
----
-
-### 2026-06-25 19:23:32  #MKT News
-
-US Secretary of State Rubio, on Iran's support for proxies, said the Iran memorandum concerns "interference in other countries".
-
----
-
-### 2026-06-25 19:23:20  #其他
-
-魯比奧：霍爾木茲海峽的收費系統根本行不通。
-
----
-
-### 2026-06-25 19:23:12  #MKT News
-
-U.S. Secretary of State Rubio said 'fees' and 'tolls' are the same thing.
-
----
-
-### 2026-06-25 19:23:06  #公司
-
-【銀行、消金公司助貸餘額增速不得高於自營貸款增速】記者從多位業內人士處獲悉，5月以來，多地金融監管部門對部分中小銀行、消金公司下達視窗指導，要求助貸渠道貸款規模增速不得高於自營渠道貸款增速，存量助貸業務貸款餘額應環比壓降，融擔類業務佔比不得超過25%。 (中證金牛座)
-
----
-
-### 2026-06-25 19:23:02  #國際
-
-【國防部：美日應切實尊重地區國家安全關切，不得引入“堤豐”中導系統】國防部新聞發言人張曉剛表示，“堤豐”中導系統是進攻性武器，美國在亞洲國家部署該系統，損害他國正當安全利益，威脅地區戰略安全，加劇軍備競賽和軍事對抗風險。特別是當前日本“新型軍國主義”成勢為患，任何助長日本右翼勢力囂張氣焰的舉動，對地區和平穩定有百害而無一利，也會禍延自身。美日應切實尊重地區國家安全關切，不得引入“堤豐”中導系統，以實際行動為地區和平穩定發揮正面作用。
-
----
-
-### 2026-06-25 19:22:42  #其他
-
-魯比奧：“費用”和“通行費”是一回事。
-
----
-
-### 2026-06-25 19:22:33  #公司
-
-【誠達藥業：原持股5%以上股東減持736.87萬股】誠達藥業公告稱，原持股5%以上股東前海晟泰在2026年6月3日至6月24日期間，累計減持公司股份736.87萬股，佔公司總股本比例4.76%（佔剔除回購專戶股份數後總股本比例4.86%）。減持後，前海晟泰持股降至74.81萬股，佔總股本0.48%。本次減持未違反相關規定和承諾，不會導致公司控制權變更，不觸及要約收購，也不會對公司經營產生不利影響。
-
----
-
-### 2026-06-25 19:22:30  #公司
-
-【西部建設：子公司擬1000萬元設合資公司開展新能源業務】西部建設公告稱，2026年6月25日，公司第八屆三十五次董事會會議審議透過對外投資議案。全資子公司研究院擬與聯京控股共同出資1000萬元設立中建聯京新能源科技有限公司，開展新能源領域高效能材料等混凝土相關業務。其中，研究院出資650萬元，持股65%；聯京控股出資350萬元，持股35%。本次投資無需提交股東會審議，不構成關聯交易和重大資產重組。
-
----
-
-### 2026-06-25 19:22:28  #MKT News
-
-Iran’s foreign minister said Iran and Oman’s foreign minister discussed the latest developments.
-
----
-
-### 2026-06-25 19:22:28  #MKT News #Market Regions #Greater China #MDT.O #Impact bullish
-
-【Medtronic executive says China becoming key source of medical innovation】Medtronic's global senior vice president and Greater China president Gu Yushao said China is becoming a major source of medical innovation and is on track to become the world’s largest medical device market. He said medtech innovation increasingly requires AI across brain‑machine interfaces, robotics and imaging, and Medtronic is partnering with Chinese AI firms. Medtronic plans to open its first digital medical innovation hub in Beijing by end‑2025 to connect industry, research and clinical partners and advance digital‑intelligence medical solutions.
-
----
-
-### 2026-06-25 19:22:19  #公司
-
-【天虹股份：回購2759.12萬股登出 大股東持股比例增至45.64%】天虹股份公告稱，公司於2026年6月24日完成回購股份登出，登出數量27,591,178股，佔登出前總股本2.3605%，總股本由1,168,847,750股變更為1,141,256,572股。持股5%以上股東中航科創有限公司持股數量未變，但比例由44.5640%被動增至45.6414%，觸及5%整數倍。本次登出不會對公司財務等方面產生重大影響，後續將修改《公司章程》並辦理工商變更登記。
 
 ---
