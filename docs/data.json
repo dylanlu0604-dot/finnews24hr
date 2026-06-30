@@ -1,7 +1,41 @@
 {
-  "updated": "2026-07-01 00:42:10",
-  "count": 13916,
+  "updated": "2026-07-01 00:46:12",
+  "count": 13918,
   "items": [
+    {
+      "id": "mkt:019f1969-e6de-7aab-8c3e-b89871585a0b",
+      "time": "2026-07-01 00:43:18",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "Petrobras approved revisions to contracts for supplying natural gas to prospective buyers, aimed at curbing price volatility."
+    },
+    {
+      "id": "4963514",
+      "time": "2026-07-01 00:43:09",
+      "tags": [
+        "公司"
+      ],
+      "text": "巴西國家石油公司批准對意向客戶的天然氣供應合同進行修訂，以抑制價格波動。"
+    },
+    {
+      "id": "mkt:019f1968-d51a-7aab-8c3e-b453d55f694c",
+      "time": "2026-07-01 00:42:08",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iran’s foreign ministry spokesman said tomorrow’s meeting will focus on unfreezing frozen funds and on a ceasefire in Lebanon."
+    },
+    {
+      "id": "4963513",
+      "time": "2026-07-01 00:41:20",
+      "tags": [
+        "國際"
+      ],
+      "text": "【特朗普欲編制外國情報目標總清單，遭聯FBI和CIA抵制】據知情人士透露，特朗普政府計劃編制一份外國情報目標總清單，名單涵蓋外國間諜嫌疑人、潛在策反物件。此舉遭到聯邦調查局（FBI）與中央情報局（CIA）高層官員反對，他們擔憂該清單會危及涉密調查與情報行動。由國家情報總監辦公室（ODNI）主導的這項計劃近幾個月推進力度加大，該辦公室正向美國各大情報機構索要外國間諜目標人員身份資訊。聯邦調查局與中情局官員對建立該資料庫的必要性提出質疑，並警告，將高度敏感情報集中儲存會產生重大安全隱患。參與相關磋商的知情人士表示，該計劃推進收效甚微，各方在資料庫的搭建、運維與安全管控方案上分歧嚴重。"
+    },
     {
       "id": "mkt:019f1966-dad6-7aab-8c3e-a85c4b10f3f9",
       "time": "2026-07-01 00:39:58",
@@ -127695,26 +127729,6 @@
         "其他"
       ],
       "text": "市場訊息：Meta 還在測試一款名為 Meta Photos 的獨立付費產品，該產品將藉助人工智慧生成全新形式的媒體內容。"
-    },
-    {
-      "id": "mkt:019ef55f-64cb-7dd8-b0df-df43899e09c1",
-      "time": "2026-06-24 00:45:29",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Meta Platforms",
-        "Market Themes",
-        "Magnificent 7"
-      ],
-      "text": "The New York Times reports Zuckerberg has instructed Meta Platforms (META.O) to develop a prediction-market app, internally called \"Arena\", similar to Polymarket and Kalshi."
-    },
-    {
-      "id": "4951004",
-      "time": "2026-06-24 00:43:55",
-      "tags": [
-        "其他"
-      ],
-      "text": "市場訊息：扎克伯格授意Meta開發預測市場類應用， 這款應用將獨立於臉書和照片牆運營， 該應用使用者不涉及現金投注，僅採用積分機制。"
     }
   ]
 }
