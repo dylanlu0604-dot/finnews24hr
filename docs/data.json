@@ -1,7 +1,94 @@
 {
-  "updated": "2026-07-01 01:14:18",
-  "count": 13914,
+  "updated": "2026-07-01 01:18:18",
+  "count": 13913,
   "items": [
+    {
+      "id": "4963543",
+      "time": "2026-07-01 01:17:21",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【美最高法院將審理蘋果公司上訴 涉其與Epic Games應用商店收費糾紛】美國最高法院同意受理蘋果公司有關一項藐視法庭裁決的上訴。該案件涉及蘋果與《堡壘之夜》開發商Epic Games Inc.之間曠日持久的反壟斷糾紛。最高法院大法官週二在一份簡短的命令中表示，他們將審議下級法院的裁決。相關裁決稱蘋果公司故意違反2021年一項涉及蘋果應用商店開發者費用的裁決。法院的決定為蘋果與Epic Games之間始於2020年的反壟斷之爭增添了新的篇章。在最初的訴訟中，美國地區法官Yvonne Gonzalez Rogers認定蘋果應用商店並沒有違反聯邦反壟斷法。應用商店每年透過對開發者收取數字銷售佣金而為蘋果帶來數十億美元的收入。"
+    },
+    {
+      "id": "mkt:019f1988-65b3-7aab-8c3f-3be31d519d5a",
+      "time": "2026-07-01 01:16:37",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "【ANTHROPIC launches Claude Science for research automation】ANTHROPIC said on Tuesday it is launching Claude Science, software designed to help scientists automate research and reduce repetitive tasks. The tool can automate a range of biology and chemistry workflows, including protein-structure prediction, and aggregates commonly used scientific tools and more than 60 scientific databases. ANTHROPIC said the product lets users execute multi-step tasks and query in natural language without consulting multiple separate sources. Claude Science will be offered as a beta to ANTHROPIC’s paying customers."
+    },
+    {
+      "id": "mkt:019f1988-42af-7aab-8c3f-377414a4e060",
+      "time": "2026-07-01 01:16:28",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "The Federal Reserve accepted $26.9 billion from 10 counterparties in fixed-rate reverse repo operations."
+    },
+    {
+      "id": "4963542",
+      "time": "2026-07-01 01:16:01",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "10 家交易對手在美聯儲逆回購操作中獲得 269 億美元。"
+    },
+    {
+      "id": "mkt:019f1987-5b90-7aab-8c3f-2cf4bdd7b736",
+      "time": "2026-07-01 01:15:28",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Europe & UK",
+        "EURUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "ECB sources say policymakers are discussing raising banks' minimum reserve ratio from 1% to 2%."
+    },
+    {
+      "id": "mkt:019f1986-dda5-7aab-8c3f-22d6e4487043",
+      "time": "2026-07-01 01:14:56",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "ECB sources say a decision on minimum reserve requirements is expected in autumn."
+    },
+    {
+      "id": "mkt:019f1986-aa22-7aab-8c3f-1c0ebe02067f",
+      "time": "2026-07-01 01:14:43",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Brazilian Ministry of Labor reported a net increase of 72,960 formal (registered) jobs in May, below the market consensus of +115,000."
+    },
+    {
+      "id": "4963541",
+      "time": "2026-07-01 01:14:37",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行訊息人士稱，政策制定者正就是否將銀行最低存款準備金率從1%上調一倍至2%展開討論。"
+    },
+    {
+      "id": "4963540",
+      "time": "2026-07-01 01:14:30",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行訊息人士：最低存款準備金率預計將於秋季作出決定。"
+    },
     {
       "id": "4963539",
       "time": "2026-07-01 01:13:27",
@@ -127569,95 +127656,6 @@
         "Brent"
       ],
       "text": "President Trump said he is reaching an agreement with Iran and expects further progress."
-    },
-    {
-      "id": "mkt:019ef57d-60c9-7dd8-b0e0-9e8f6f740381",
-      "time": "2026-06-24 01:18:15",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "Brent",
-        "DXY"
-      ],
-      "text": "President Trump said the immediate priority is ensuring Iran never acquires nuclear weapons."
-    },
-    {
-      "id": "mkt:019ef57c-dace-7dd8-b0e0-9064dfd5f196",
-      "time": "2026-06-24 01:17:40",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "Trump on Iran: Iran's claim about IAEA inspections is incorrect. IAEA inspectors will arrive on site at an appropriate time."
-    },
-    {
-      "id": "4951029",
-      "time": "2026-06-24 01:16:48",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普談及伊朗：核查人員將在合適時機赴當地開展核查工作。"
-    },
-    {
-      "id": "mkt:019ef57b-ff4a-7dd8-b0e0-8f0e1484f839",
-      "time": "2026-06-24 01:16:44",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)"
-      ],
-      "text": "The Fed accepted $6.484 bln from 10 counterparties in its fixed-rate reverse repo operation."
-    },
-    {
-      "id": "4951028",
-      "time": "2026-06-24 01:16:32",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：伊朗對國際原子能機構核查人員的相關說法是錯誤的。"
-    },
-    {
-      "id": "em:qqyh_mlc:202606243780127028",
-      "time": "2026-06-24 01:16:07",
-      "tags": [
-        "央行",
-        "美聯儲"
-      ],
-      "text": "美聯儲隔夜逆回購協議（RRP）週二使用規模為64.84億美元（交易對手10家），上個交易日報39.25億美元。"
-    },
-    {
-      "id": "4951027",
-      "time": "2026-06-24 01:16:00",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "週二（6月23日），美聯儲隔夜逆回購協議（RRP）使用規模為64.84億美元（交易對手10家），上個交易日報39.25億美元。"
-    },
-    {
-      "id": "4951026",
-      "time": "2026-06-24 01:15:58",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：明日將與共和黨議員商討選民身份核驗法案。"
-    },
-    {
-      "id": "4951025",
-      "time": "2026-06-24 01:15:34",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國總統特朗普抵達雷丁。"
-    },
-    {
-      "id": "4951024",
-      "time": "2026-06-24 01:15:09",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：是否與伊朗達成協議，我們拭目以待。"
     }
   ]
 }
