@@ -1,7 +1,72 @@
 {
-  "updated": "2026-07-01 00:22:01",
-  "count": 13914,
+  "updated": "2026-07-01 00:26:08",
+  "count": 13917,
   "items": [
+    {
+      "id": "4963502",
+      "time": "2026-07-01 00:25:11",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：國會應即日起著手推進廢除出生公民權。"
+    },
+    {
+      "id": "4963501",
+      "time": "2026-07-01 00:25:07",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國最高法院暫未批准特朗普解除美國最高版權事務官員職務的請求。"
+    },
+    {
+      "id": "4963500",
+      "time": "2026-07-01 00:24:52",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普談及最高法院出生公民權裁決：我們可以輕鬆透過國會立法推翻該裁決。"
+    },
+    {
+      "id": "mkt:019f1958-da73-7aab-8c3e-71c0224d49fd",
+      "time": "2026-07-01 00:24:41",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. President TRUMP said the U.S. Supreme Court upheld birthright citizenship and called the decision very regrettable for the country."
+    },
+    {
+      "id": "4963499",
+      "time": "2026-07-01 00:24:31",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：最高法院確認了出生公民權，這對我國來說是件壞事。"
+    },
+    {
+      "id": "mkt:019f1957-2d0c-7aab-8c3e-6d9a8bb4d240",
+      "time": "2026-07-01 00:22:51",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Market sources: Paul Russo, co-chief investment officer at Millennium Management, will retire at year-end."
+    },
+    {
+      "id": "4963498",
+      "time": "2026-07-01 00:22:04",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "特朗普政府擬出臺新規，將利好超音速客機製造商。新規計劃允許飛機在陸地上空進行超音速飛行，此舉將廢除一項實施超過50年的禁令。"
+    },
+    {
+      "id": "4963497",
+      "time": "2026-07-01 00:21:43",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國食品藥品監督管理局（FDA）針對20款ZYN尼古丁口含煙產品釋出改良型風險菸草產品許可令。"
+    },
     {
       "id": "4963496",
       "time": "2026-07-01 00:21:12",
@@ -127681,49 +127746,6 @@
         "Impact bearish"
       ],
       "text": "【Blackstone to invest $30 billion in Japanese AI data centers】Blackstone plans to invest $30 billion in AI data centers in Japan over the next three to five years, president and COO Jonathan Gray told Nikkei. The firm is negotiating to develop facilities exceeding 1 GW in Japan."
-    },
-    {
-      "id": "mkt:019ef54d-297e-7dd8-b0df-82a5be6a6a5e",
-      "time": "2026-06-24 00:25:35",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "The Trump Trade"
-      ],
-      "text": "Axios reports President Trump is expected to announce on Tuesday that he will deliver the keynote at the Pennsylvania Defense and Innovation Summit on July 15 at the U.S. Army War College, hosted by Pennsylvania Sen. Dave McCormick."
-    },
-    {
-      "id": "4950997",
-      "time": "2026-06-24 00:25:05",
-      "tags": [
-        "其他"
-      ],
-      "text": "沙特房地產管理局釋出宣告，現已開始受理外國人不動產所有權申請。"
-    },
-    {
-      "id": "4950996",
-      "time": "2026-06-24 00:23:00",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗總統：伊朗與巴基斯坦均決心深化雙邊經貿往來。"
-    },
-    {
-      "id": "mkt:019ef54a-5295-7dd8-b0df-7c9b4b180da7",
-      "time": "2026-06-24 00:22:29",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "【Pakistan PM: MoU did not mention Iran's ballistic missile capability】Al Jazeera reports Pakistan PM Shehbaz Sharif said the U.S.-Iran memorandum of understanding did not mention ballistic missiles because the issue was never on the table. He warned against double standards, saying Tehran should not be restricted while other countries are free to possess ballistic missiles."
-    },
-    {
-      "id": "4950995",
-      "time": "2026-06-24 00:22:14",
-      "tags": [
-        "國際"
-      ],
-      "text": "據伊朗伊斯蘭共和國通訊社（IRNA）： 真主黨表示，停火之後，下一階段的目標是以色列軍隊全部撤出黎巴嫩領土。"
     }
   ]
 }
