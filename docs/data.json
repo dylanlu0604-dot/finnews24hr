@@ -1,7 +1,45 @@
 {
-  "updated": "2026-07-01 04:27:15",
-  "count": 13978,
+  "updated": "2026-07-01 04:31:01",
+  "count": 13981,
   "items": [
+    {
+      "id": "mkt:019f1a39-fd7e-7aab-8c42-f12ccac364b3",
+      "time": "2026-07-01 04:30:35",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Per a U.S. SEC filing, NVIDIA (NVDA.O) shareholders approved a proposal to replace the company's supermajority voting requirement with a simple majority voting standard."
+    },
+    {
+      "id": "mkt:019f1a39-b4d7-7aab-8c42-e8ba53844310",
+      "time": "2026-07-01 04:30:17",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【US official: Iran has not received $6 bln in frozen assets; release conditional on MOU compliance】A US government official said on Tuesday that Iran has not received any of about $6 billion in frozen US assets that Washington pledged to unlock under a memorandum of understanding aimed at bringing Tehran back to talks in Qatar. The official said no funds have been unfrozen and none will be released unless Iran meets the specific benchmarks in the MOU. While Iran seeks a lump-sum payment, the US plans small, phased direct payments to vendors as Tehran advances key negotiation areas."
+    },
+    {
+      "id": "mkt:019f1a38-a326-7aab-8c42-e231ec519d08",
+      "time": "2026-07-01 04:29:07",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Israeli Prime Minister Netanyahu said he will do everything possible to win the upcoming election."
+    },
+    {
+      "id": "mkt:019f1a38-1d9e-7aab-8c42-d87adc7e2bcd",
+      "time": "2026-07-01 04:28:32",
+      "tags": [
+        "MKT News",
+        "S&P500",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish",
+        "XAUUSD"
+      ],
+      "text": "A US judge ruled to block a Trump administration rule that would have restricted federal student-loan forgiveness from taking effect."
+    },
     {
       "id": "mkt:019f1a34-700b-7aab-8c42-d33c37119dc2",
       "time": "2026-07-01 04:24:31",
@@ -128288,14 +128326,6 @@
         "MKT News"
       ],
       "text": "MSCI released the results of its 2026 market classification review."
-    },
-    {
-      "id": "mkt:019ef62b-4bc2-7dd8-b0e3-1a364ee7af95",
-      "time": "2026-06-24 04:28:12",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Market sources said Morgan Stanley's private credit fund has set a 5% redemption limit."
     }
   ]
 }
