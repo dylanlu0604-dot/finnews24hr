@@ -1,7 +1,109 @@
 {
-  "updated": "2026-07-01 03:16:34",
-  "count": 13956,
+  "updated": "2026-07-01 03:20:27",
+  "count": 13966,
   "items": [
+    {
+      "id": "4963634",
+      "time": "2026-07-01 03:19:30",
+      "tags": [
+        "其他"
+      ],
+      "text": "NASA 公佈入選企業：Astrobotic、螢火蟲航天（Firefly Aerospace）、Intuitive Machines。"
+    },
+    {
+      "id": "4963633",
+      "time": "2026-07-01 03:18:45",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國國家航空航天局選定三家企業，承接四項全新航天任務。"
+    },
+    {
+      "id": "mkt:019f19f7-fe11-7aab-8c41-bdec6dfb8fff",
+      "time": "2026-07-01 03:18:30",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Brazil's finance minister said the government is carefully assessing a tax on oil exports."
+    },
+    {
+      "id": "4963632",
+      "time": "2026-07-01 03:18:28",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國副總統萬斯談及伊朗： 我們要求伊朗作出可核查、有核查機制支撐的持久承諾，徹底實現全境無核化。"
+    },
+    {
+      "id": "mkt:019f19f7-cbba-7aab-8c41-b2f1bc909925",
+      "time": "2026-07-01 03:18:17",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Wall Street (US)",
+        "S&P500",
+        "Impact bullish",
+        "Nasdaq100",
+        "Dow"
+      ],
+      "text": "【Investors shrug off Middle East fighting; U.S. stocks poised for largest Q2 gain in years】U.S. major indices rose Tuesday, with the S&P 500 and Nasdaq poised for their largest quarterly gains since 2020 and the Dow for its best quarter since 2022. Investors remain upbeat on U.S. growth and corporate earnings despite ongoing Middle East hostilities. Signs of progress in Iran ceasefire talks briefly lifted risk appetite, though renewed weekend fighting left the deal outlook uncertain. After a strong Q1 earnings season, market attention shifts to Q2 results due over the coming weeks."
+    },
+    {
+      "id": "4963631",
+      "time": "2026-07-01 03:17:36",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國副總統萬斯談及黎巴嫩局勢 ：如今黎巴嫩與以色列已開啟直接對話，這與數月前的局面截然不同，雙方大方向立場趨於一致。甚至可以這樣理解：若將黎以和平協議與美伊簽署的諒解備忘錄統籌對照，兩份檔案的核心要義均是承諾尊重黎巴嫩領土完整。局勢確實發生了顯著轉變，但關鍵在於這一轉變能否長久維持。"
+    },
+    {
+      "id": "mkt:019f19f6-f076-7aab-8c41-a97b7ebd5713",
+      "time": "2026-07-01 03:17:21",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent",
+        "S&P500",
+        "Impact bullish"
+      ],
+      "text": "U.S. Vice President Vance said coordinating a Lebanon-Israel peace arrangement with a U.S.-Iran agreement would see both center on respect for Lebanon's territorial integrity."
+    },
+    {
+      "id": "mkt:019f19f6-e1e2-7aab-8c41-a464e8d411fc",
+      "time": "2026-07-01 03:17:17",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. Vice President Vance said Lebanon and Israel are holding direct talks in ways that did not exist months ago and have reached some degree of alignment."
+    },
+    {
+      "id": "mkt:019f19f6-e11a-7aab-8c41-9fc5585ebced",
+      "time": "2026-07-01 03:17:17",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. Vice President Vance said the current situation has \"indeed changed\", but the key question is whether the change can be sustained."
+    },
+    {
+      "id": "mkt:019f19f6-28cf-7aab-8c41-961c359ee74b",
+      "time": "2026-07-01 03:16:30",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. Vice President Vance said the United States seeks sustainable, verifiable commitments, secured by on-site inspections, aimed at ensuring Iran's complete denuclearization."
+    },
+    {
+      "id": "4963630",
+      "time": "2026-07-01 03:16:00",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗議會議長卡利巴夫： 鈾濃縮是我們的合法權利，同時我們遵守《不擴散核武器條約》相關規定。"
+    },
     {
       "id": "mkt:019f19f5-18e0-7aab-8c41-88a5d3c6c2ea",
       "time": "2026-07-01 03:15:20",
@@ -128062,14 +128164,6 @@
         "Impact bullish"
       ],
       "text": "U.S. President Trump, while discussing the jobs market, called Eli Lilly (LLY.N) \"a great pharmaceutical company\" and referenced the company's investment."
-    },
-    {
-      "id": "4951092",
-      "time": "2026-06-24 03:17:32",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：賓夕法尼亞州就業崗位大幅增長。僅過去數月，該州就新增3.2萬個就業崗位，其中製造業崗位2600個。"
     }
   ]
 }
