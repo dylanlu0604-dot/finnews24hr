@@ -1,7 +1,76 @@
 {
-  "updated": "2026-07-01 06:59:44",
+  "updated": "2026-07-01 07:06:35",
   "count": 13967,
   "items": [
+    {
+      "id": "4963746",
+      "time": "2026-07-01 07:00:22",
+      "tags": [
+        "資料"
+      ],
+      "text": "澳大利亞6月標普全球製造業PMI終值 51.5，前值51.2。\n澳大利亞6月AIG建築業表現指數 -38.1，前值-9.9。\n澳大利亞6月AIG/PWC製造業表現指數 -16.8，前值-22.4。"
+    },
+    {
+      "id": "mkt:019f1ac2-e60a-7aab-8c44-d91d26496093",
+      "time": "2026-07-01 07:00:08",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bearish",
+        "EURUSD",
+        "Impact bullish",
+        "XAUUSD"
+      ],
+      "text": "Australia S&P Global Manufacturing PMI (final) for June 51.5, prior 51.2."
+    },
+    {
+      "id": "mkt:019f1ac2-e59b-7aab-8c44-d39a42f71710",
+      "time": "2026-07-01 07:00:08",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC"
+      ],
+      "text": "Australia June AIG/PwC Manufacturing Performance Index -16.8, prior -22.4."
+    },
+    {
+      "id": "mkt:019f1ac2-e078-7aab-8c44-c8d95e343827",
+      "time": "2026-07-01 07:00:06",
+      "tags": [
+        "MKT News",
+        "AUDUSD",
+        "Impact bearish"
+      ],
+      "text": "Australia June AIG Performance of Construction Index -38.1 (prior -9.9)."
+    },
+    {
+      "id": "mkt:019f1ac2-c767-7aab-8c44-c0efe5c4eb36",
+      "time": "2026-07-01 07:00:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Australia | Ai Group Australian PMI (manufacturing) (Jun) | actual -16.8 | previous -22.4"
+    },
+    {
+      "id": "mkt:019f1ac2-c75e-7aab-8c44-b8c7a1866c99",
+      "time": "2026-07-01 07:00:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Australia | Ai Group Australian PCI (construction) (Jun) | actual -38.1 | previous -9.9"
+    },
+    {
+      "id": "4963745",
+      "time": "2026-07-01 06:59:36",
+      "tags": [
+        "公司"
+      ],
+      "text": "【6月份私募調研近1800次，電子行業熱度居前】Wind資料顯示，6月份共有842傢俬募機構參與到A股公司調研活動中，合計調研次數達1797次，涉及373家A股公司。其中，電子等行業A股公司被調研頻次居於前列。今年1月份至6月份，私募機構調研次數分別為3619次、1485次、4740次、10117次、3554次、1797次。剔除春節假期所在的2月份，6月份私募機構整體調研節奏明顯放緩。（證券日報）"
+    },
     {
       "id": "4963744",
       "time": "2026-07-01 06:57:39",
@@ -128190,67 +128259,6 @@
         "國際"
       ],
       "text": "美國聯邦執法官員協會代表來自65多個不同聯邦機構的34,000多名執法官員，支援託德·布蘭奇（Todd Blanche）被提名為美國司法部長，並敦促參議院“迅速確認他的提名”。"
-    },
-    {
-      "id": "4951235",
-      "time": "2026-06-24 07:05:58",
-      "tags": [
-        "公司"
-      ],
-      "text": "市場訊息：谷歌正在投資獨立電影製片公司 A24，這是兩家公司之間一項新的 AI 研究合作伙伴關係的一部分。"
-    },
-    {
-      "id": "4951234",
-      "time": "2026-06-24 07:05:03",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【康索利迪德·愛迪生公司執行長：為應對更持久的熱浪，必須擴建電網裝置】康索利迪德·愛迪生公司執行長考利（Tim Cawley）週二在紐約某論壇上表示，該公司必須對部分電網裝置進行擴容，以抵禦持續時間更長、溫度更高的熱浪，同時避免對系統進行根本性改造。面對極端天氣以及耗電量巨大的資料中心日益增長的需求，美國公用事業公司已投入巨資升級電網。“持續時間長、強度大的熱浪會磨損我們的裝置，”考利說道。“因此，我們必須提升裝置規格，以應對這種狀況，”他補充道。考利補充道，紐約無需對電網進行根本性改造，但應更好地利用屋頂太陽能、電池、需求響應和電網資料來提高效率並控制成本。考利表示，人工智慧以及對電網實時狀況的更深入瞭解，可進一步最佳化運營。藉助智慧電錶和系統遙測技術提供的更多資料，公司在保持供電可靠性的同時，能夠最佳化電壓、降低能耗、減少排放並降低客戶電費。"
-    },
-    {
-      "id": "4951233",
-      "time": "2026-06-24 07:04:20",
-      "tags": [
-        "市場"
-      ],
-      "text": "紐約期銀日內跌1%，現報61.85美元/盎司。"
-    },
-    {
-      "id": "mkt:019ef6b9-83d7-7dd8-b0e4-a6ddcce87ea3",
-      "time": "2026-06-24 07:03:33",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Poll: Majority of Americans say late‑February US military action against Iran was not worth it】A Reuters/Ipsos poll released on the 23rd found 52% of Americans say the US military action against Iran launched at the end of February was not worth it; President Trump’s approval fell to 34%, his lowest in his second term. About 35% said the US is weaker on Iran than before the conflict; the US and Iranian presidents on the 17th signed a memorandum of understanding to begin 60 days of talks toward a final agreement, but 63% said the MoU is unlikely to produce lasting peace while 18% said it is likely."
-    },
-    {
-      "id": "4951232",
-      "time": "2026-06-24 07:03:13",
-      "tags": [
-        "公司"
-      ],
-      "text": "【扎克伯格談MetaAI智慧眼鏡：必須在時尚與功能之間取得平衡】馬克 · 扎克伯格希望 Meta 最新款人工智慧眼鏡不只是一件電子裝置。對這位 Meta 執行長而言，難點不在於往鏡框裡堆砌更多人工智慧功能，而是做出人們真正願意日常佩戴的眼鏡。 在與資訊欄目《Feed Me》主創艾米麗 · 桑德伯格的訪談中，扎克伯格的談吐不像是矽谷企業高管，反倒更像一名時裝設計師。 “我認為未來眼鏡會形成豐富產品線，款式多樣、功能配置各有區分，價格檔位也層次分明，”扎克伯格表示，“但核心難題在於，每一款產品都要找到平衡點：外觀好看、佩戴舒適，同時功能體驗不拉胯。” “公司所有自研產品，我都會深度參與打磨，”扎克伯格補充道。 當地時間本週二，Meta 推出全新系列智慧眼鏡，起售價 299 美元（現匯率約合 2029 元人民幣），低於該品牌入門款雷朋智慧眼鏡，以此加碼可穿戴裝置賽道。這款新品由眼鏡巨頭依視路陸遜梯卡聯合開發，但不會搭載雷朋或歐克利的品牌標識。"
-    },
-    {
-      "id": "4951231",
-      "time": "2026-06-24 07:02:05",
-      "tags": [
-        "公司"
-      ],
-      "text": "巴西國家石油公司(Petrobras)執行長表示，與去年同期相比，該公司今年5月產量增長了14%。"
-    },
-    {
-      "id": "te:economy:561281",
-      "time": "2026-06-24 07:01:18",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "United States",
-        "API Crude Oil Stock Change",
-        "Importance 1"
-      ],
-      "text": "US Crude Stocks Extend Decline — US crude oil inventories fell by 765,000 barrels in the week ending June 19, following a sharp 8.33 million-barrel decline in the previous week. According to American Petroleum Institute data, commercial crude inventories excluding the SPR have dropped by 53 million barrels over the past ten weeks. Still, total US crude inventories are down by only 2.1 million barrels so far this year, as ongoing transfers from the SPR have helped offset steeper commercial draws. Commercial stockpiles have been supported by a steady release of barrels from the SPR into the market, pushing reserve holdings to their lowest level in more than four decades. In the latest week, another 9.1 million barrels were withdrawn from the SPR, bringing total reserves to 331.2 million barrels, or 394 million barrels below maximum capacity. Meanwhile, US crude production rose to 13.806 million barrels per day in the week ending June 12, up slightly from 13.799 million barrels per day in the prior week."
     }
   ]
 }
