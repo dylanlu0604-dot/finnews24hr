@@ -1,7 +1,59 @@
 {
-  "updated": "2026-07-01 04:15:58",
-  "count": 13980,
+  "updated": "2026-07-01 04:19:44",
+  "count": 13983,
   "items": [
+    {
+      "id": "mkt:019f1a2f-0ccf-7aab-8c42-c6cff021516a",
+      "time": "2026-07-01 04:18:38",
+      "tags": [
+        "MKT News",
+        "NKE.O",
+        "Impact bullish"
+      ],
+      "text": "Nike (NKE.N) reported Q4 revenue $10.972 bln, above market consensus $10.859 bln."
+    },
+    {
+      "id": "te:markets:563105",
+      "time": "2026-07-01 04:17:32",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "Nike earnings below expectations at 0.20 USD — Nike (NKE) released earnings per share at 0.20 USD, compared to market expectations of 0.22 USD."
+    },
+    {
+      "id": "te:markets:563104",
+      "time": "2026-07-01 04:17:11",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "US Stocks Rise on Tech Rally — US stock indexes closed higher on Tuesday, supported by strength in the technology sector and easing inflation risks. The S&P 500 gained 0.8%, while the Nasdaq-100 rose 1.7%, and the Dow Jones added 137 points to close at a record high of 52,319. Chipmakers extended their rebound from last week as investors looked past recent concerns over stretched AI-related valuations, encouraged by strong guidance from semiconductor producers despite elevated hyperscaler spending. Nvidia gained 2.6%, AMD rose 7.7%, and Intel advanced 6%. Meanwhile, oil prices remained near pre-conflict levels, easing concerns that the Federal Reserve could be forced to tighten policy further. The softer inflation backdrop also supported traditional sectors, helping the Dow outperform broader benchmarks in June."
+    },
+    {
+      "id": "mkt:019f1a2d-622c-7aab-8c42-be3dadd2b4eb",
+      "time": "2026-07-01 04:16:49",
+      "tags": [
+        "MKT News",
+        "DISH.O",
+        "Impact bearish"
+      ],
+      "text": "Market sources: DISH DBS has filed for Chapter 11 bankruptcy protection and entered debt-restructuring proceedings."
+    },
+    {
+      "id": "4963666",
+      "time": "2026-07-01 04:16:23",
+      "tags": [
+        "其他"
+      ],
+      "text": "“大空頭”Michael Burry： 做空特斯拉、英偉達和應用材料。"
+    },
     {
       "id": "4963665",
       "time": "2026-07-01 04:15:23",
@@ -128286,22 +128338,6 @@
         "Brent"
       ],
       "text": "API weekly U.S. crude inventory for week to June 19 due in 10 minutes."
-    },
-    {
-      "id": "4951126",
-      "time": "2026-06-24 04:17:48",
-      "tags": [
-        "其他"
-      ],
-      "text": "耐克：任命戴維·M·登頓為首席財務官，8月17日起生效。"
-    },
-    {
-      "id": "4951125",
-      "time": "2026-06-24 04:17:38",
-      "tags": [
-        "其他"
-      ],
-      "text": "耐克：首席財務官馬修·弗倫德將卸任，留任至9月4日。"
     }
   ]
 }
