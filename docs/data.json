@@ -1,7 +1,121 @@
 {
-  "updated": "2026-07-01 09:02:19",
-  "count": 13997,
+  "updated": "2026-07-01 09:06:47",
+  "count": 13995,
   "items": [
+    {
+      "id": "4963903",
+      "time": "2026-07-01 09:05:30",
+      "tags": [
+        "市場"
+      ],
+      "text": "紐約期金日內跌1%，現報3998.08美元/盎司。"
+    },
+    {
+      "id": "4963902",
+      "time": "2026-07-01 09:05:24",
+      "tags": [
+        "公司"
+      ],
+      "text": "【華軟科技：公司子公司目前並無VC相關產能】華軟科技7月1日在互動平臺表示，公司子公司目前並無VC相關產能。2024年4月，基於市場情況與公司戰略等考量，公司決定終止建設鋰電池電解液新增劑專案。"
+    },
+    {
+      "id": "4963901",
+      "time": "2026-07-01 09:05:18",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金失守3990美元/盎司，日內跌0.52%。"
+    },
+    {
+      "id": "4963900",
+      "time": "2026-07-01 09:05:06",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金失守4000美元/盎司，日內跌0.95%。"
+    },
+    {
+      "id": "mkt:019f1b34-0f40-7aab-8c47-50084ca84538",
+      "time": "2026-07-01 09:03:44",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars"
+      ],
+      "text": "【AMD debuts Versal Premium Gen2 MoP with package‑integrated LPDDR5X】AMD announced the Versal Premium Gen2 MoP adaptive SoC, its first Versal product to use a package‑integrated memory architecture. The device integrates up to 32GB of LPDDR5X across up to four die, rated to 9,000 MT/s and delivering up to 288GB/s bandwidth. AMD says the MoP design reduces board area versus discrete LPDDR5X by more than 60%, provides up to 10x compute improvement and supports a product lifecycle exceeding 15 years."
+    },
+    {
+      "id": "te:markets:563167",
+      "time": "2026-07-01 09:03:17",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Silver Steadies Near 7-Month Low — Silver steadied above $58 an ounce on Wednesday but remained near its lowest level in seven months as strong US economic data underscored the economy’s resilience and reinforced expectations that the Federal Reserve will raise interest rates this year. The latest JOLTS report showed job openings climbed to a two-year high, while analysts expect another solid increase in June non-farm payrolls. Meanwhile, recent core inflation readings remained well above the Fed’s 2% target. Markets are now pricing in at least one Fed rate hike this year, with the first potentially coming as early as September. Investors also awaited updates from the ongoing US-Iran peace talks in Qatar amid hopes for a lasting ceasefire agreement, although the two sides were not expected to hold direct talks."
+    },
+    {
+      "id": "4963899",
+      "time": "2026-07-01 09:03:14",
+      "tags": [
+        "公司"
+      ],
+      "text": "【AMD自適應SoC首次整合封裝上記憶體】AMD宣佈推出Versal Premium Gen2 MoP自適應系統級晶片（SoC），這是公司首款採用封裝記憶體架構的Versal產品，在單一封裝內整合最高32GB LPDDR5X記憶體，最高頻寬可達288GB/s，相比傳統板載或分立LPDDR5X方案，在尺寸與效能之間取得新的平衡。根據AMD介紹，Versal Gen2 MoP透過在封裝中整合多達四顆LPDDR5X晶片，實現最高32GB容量、最高9000MT/s速率與最高288GB/s頻寬，相比分立LPDDR5X設計可縮減超過60%的板卡面積，同時帶來高達10倍的算力提升，並支援超過15年的產品生命週期。"
+    },
+    {
+      "id": "mkt:019f1b33-36a7-7aab-8c47-4fa718725504",
+      "time": "2026-07-01 09:02:48",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY"
+      ],
+      "text": "Japan's 5-year government bond yield rose 1.5 bps to 1.905%."
+    },
+    {
+      "id": "4963898",
+      "time": "2026-07-01 09:02:24",
+      "tags": [
+        "其他"
+      ],
+      "text": "蔚來汽車： 截至今日，蔚來全國建成9,056座充換電站，其中換電站3,958座，充電站5,098座、充電樁29,357根，累計提供超1.1億次換電。"
+    },
+    {
+      "id": "te:markets:563166",
+      "time": "2026-07-01 09:01:43",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 2"
+      ],
+      "text": "Gold Stays Close to 8-Month Low — Gold steadied around $4,000 an ounce on Wednesday but remained near its lowest level in almost eight months as strong US economic data underscored the economy’s resilience and reinforced expectations that the Federal Reserve will raise interest rates this year. The latest JOLTS report showed job openings climbed to a two-year high, while analysts expect another solid increase in June non-farm payrolls. Meanwhile, recent core inflation readings remained well above the Fed’s 2% target. Markets are now pricing in at least one Fed rate hike this year, with the first potentially coming as early as September. Investors also awaited updates from the ongoing US-Iran peace talks in Qatar amid hopes for a lasting ceasefire agreement, although the two sides were not expected to hold direct talks."
+    },
+    {
+      "id": "mkt:019f1b32-0192-7aab-8c47-41cbdc62e2cb",
+      "time": "2026-07-01 09:01:29",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "Shanghai Gold Exchange Gold T+D rose 0.28% to 873.31 yuan/gram in early trade on July 1; Silver T+D rose 2.1% to 14,318.0 yuan/kg."
+    },
+    {
+      "id": "mkt:019f1b31-d0f9-7aab-8c47-3ddff4a2e58b",
+      "time": "2026-07-01 09:01:17",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Taiwan Stock Exchange Weighted Index (TAIEX) opened up 1,059.85 points, or 2.3%, at 47,185.76 on Wednesday, July 1."
+    },
     {
       "id": "4963897",
       "time": "2026-07-01 09:00:40",
@@ -128513,136 +128627,6 @@
         "其他"
       ],
       "text": "【豆包專業版採用三級階梯定價方案，最高一年6000元】6月24日，豆包釋出基於最新豆包2.1系列大模型的豆包專業版，提供接入豆包2.1 Pro模型的辦公任務模式，可執行Agent任務，包括操作本地電腦、使用瀏覽器、呼叫Skills技能和定時任務等能力，內建Office辦公套件，支援專業圖片影片設計和生成分享應用網站。專業版採用三級階梯定價方案：標準套餐連續包月68元，專家模式、辦公任務模式等功能的額度為免費版的5倍以上；加強套餐連續包月200元，額度為標準套餐的4倍；高階套餐連續包月500元，額度為標準套餐的10倍。同時豆包也將持續為免費版使用者提供新模型。"
-    },
-    {
-      "id": "4951404",
-      "time": "2026-06-24 09:06:23",
-      "tags": [
-        "市場"
-      ],
-      "text": "紐約期銀日內跌2%，現報61.26美元/盎司。"
-    },
-    {
-      "id": "4951403",
-      "time": "2026-06-24 09:06:10",
-      "tags": [
-        "市場"
-      ],
-      "text": "現貨黃金日內跌1%，現報4068.71美元/盎司。"
-    },
-    {
-      "id": "4951402",
-      "time": "2026-06-24 09:05:35",
-      "tags": [
-        "其他"
-      ],
-      "text": "【福州長樂國際機場成為福建省首座4F級機場 】6月23日上午，福州長樂國際機場二跑道投運，標誌著該機場由此邁入“雙跑道時代”。同日，該機場獲頒新版《運輸機場使用許可證》，飛行區等級由4E提升至4F，成為福建省首座4F級機場。當天上午，福州往返荷蘭阿姆斯特丹直飛航線也迎來首航。（新華社）"
-    },
-    {
-      "id": "mkt:019ef729-137b-7dd8-b0e6-68edfa2e6025",
-      "time": "2026-06-24 09:05:24",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Precious Metals",
-        "XAUUSD",
-        "Impact bearish"
-      ],
-      "text": "Spot gold fell nearly $30 intraday, slipping below $4,070/oz and down about 1% on the day."
-    },
-    {
-      "id": "4951401",
-      "time": "2026-06-24 09:05:05",
-      "tags": [
-        "市場"
-      ],
-      "text": "臺灣證交所加權股價指數下跌2%至46,144.58點。"
-    },
-    {
-      "id": "4951400",
-      "time": "2026-06-24 09:04:53",
-      "tags": [
-        "其他"
-      ],
-      "text": "【加強資料期刊建設 中國科學院釋出新刊】6月23日，由中國科學院主管的英文資料期刊《資料快報（英文）》（Data Express）正式創刊。期刊旨在發表具有高質量、可重複、長效價值的科學資料，推動各領域科學資料的規範出版、廣泛共享與高效複用，促進全球科研資料的流通與協作。據介紹，除《資料快報（英文）》外，中國科學院2026年還將在數理、生態環境、海洋大氣等領域啟動建設系列領域資料期刊，組成“1種綜合旗艦刊+N種領域專業刊”的資料期刊叢集，構建立體化資料期刊體系，為廣大科研人員提供科學資料成果快速釋出渠道。（新華社）"
-    },
-    {
-      "id": "4951399",
-      "time": "2026-06-24 09:04:52",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "現貨黃金失守4070美元/盎司，日內跌0.98%。"
-    },
-    {
-      "id": "te:markets:561298",
-      "time": "2026-06-24 09:04:41",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "commodity",
-        "Importance 0"
-      ],
-      "text": "Brent Hits 16-week Low — Brent decreased to 76.47 USD/Bbl, the lowest since February 2026. Over the past 4 weeks, Brent Crude Oil lost 20.82%, and in the last 12 months, it increased 15.23%."
-    },
-    {
-      "id": "te:markets:561297",
-      "time": "2026-06-24 09:04:00",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Japan",
-        "Stock Market",
-        "Importance 2"
-      ],
-      "text": "Japan’s Nikkei Declines for Second Day — The Nikkei 225 Index fell 0.6% to below 69,500 on Wednesday, extending the previous session’s losses as a technology-driven selloff on Wall Street weighed on sentiment amid growing concerns over heavy AI spending by hyperscalers. In Japan, the Summary of Opinions from the Bank of Japan’s June meeting showed that policymakers generally favored continuing interest rate hikes, citing underlying inflation moving closer to the central bank’s 2% target while financial conditions remain supportive. On the geopolitical front, progress in US-Iran peace negotiations helped increase traffic through the Strait of Hormuz, easing pressure on global energy supplies and reducing inflation concerns. Among notable decliners, Fujikura dropped 2.7%, Tokyo Electron lost 2.2%, Furukawa Electric fell 1.7%, Disco Corp slipped 2.2%, and Sumitomo Electric declined 1.6%."
-    },
-    {
-      "id": "4951398",
-      "time": "2026-06-24 09:03:56",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "紐約期金失守4090美元/盎司，日內跌1.44%。"
-    },
-    {
-      "id": "mkt:019ef727-87ab-7dd8-b0e6-64413354ca29",
-      "time": "2026-06-24 09:03:43",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Precious Metals"
-      ],
-      "text": "Shanghai (SHFE) silver 2608 contract weakened sharply intraday, widening losses to 5.05% at 14,761 yuan/kg; turnover topped 83.0 bln yuan. Open interest rose by more than 5,000 lots, and intraday volatility increased."
-    },
-    {
-      "id": "4951397",
-      "time": "2026-06-24 09:03:41",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "現貨黃金失守4080美元/盎司，日內跌0.79%。"
-    },
-    {
-      "id": "4951396",
-      "time": "2026-06-24 09:03:08",
-      "tags": [
-        "市場"
-      ],
-      "text": "日經225指數現跌0.4%，盤初一度上漲0.6%。"
-    },
-    {
-      "id": "4951395",
-      "time": "2026-06-24 09:02:34",
-      "tags": [
-        "公司"
-      ],
-      "text": "【怡達股份：公司溼電子化學品正常銷售及推進客戶認證】怡達股份(300721)6月24日在互動平臺表示，公司溼電子化學品正常銷售及推進客戶認證，目前銷量及收入佔比影響較小。"
     }
   ]
 }
