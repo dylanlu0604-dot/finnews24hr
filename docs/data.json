@@ -1,7 +1,102 @@
 {
-  "updated": "2026-07-01 12:02:41",
-  "count": 13945,
+  "updated": "2026-07-01 12:06:41",
+  "count": 13936,
   "items": [
+    {
+      "id": "4964179",
+      "time": "2026-07-01 12:05:58",
+      "tags": [
+        "資料",
+        "市場",
+        "國際"
+      ],
+      "text": "印度尼西亞國家統計局公佈，該國6月消費者物價指數（CPI）同比上漲3.34%，調查預期為上漲3.20%。。"
+    },
+    {
+      "id": "4964178",
+      "time": "2026-07-01 12:05:29",
+      "tags": [
+        "國際"
+      ],
+      "text": "國際能源署(IEA)預測，今年美國在燃煤和燃氣發電廠上的支出將達到500億美元。"
+    },
+    {
+      "id": "4964177",
+      "time": "2026-07-01 12:05:22",
+      "tags": [
+        "宏觀",
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "【歐洲央行德馬爾科：歐洲央行不應急於再度加息】歐洲央行管委、馬耳他央行行長亞歷山大・德馬爾科表示，鑑於油價回落速度超出預期，歐洲央行不宜倉促推出新一輪加息舉措，越來越多政策制定者也呼籲貨幣政策保持審慎，他對此觀點表示認同。歐洲央行已於 6 月完成加息，此前該行自身經濟預測模型的前提是將進一步收緊貨幣政策。但近幾周能源價格快速下行，為暫緩二次加息提供了更充分的依據。德馬爾科在歐洲央行央行論壇間隙接受採訪時稱：“在物價上漲壓力逐步緩和的大環境下，審慎之舉是不宜倉促出臺政策調控。”他表示，能源成本走低將快速緩解市場通脹預期，抑制薪資上漲訴求。儘管通脹率一度攀升至 3% 以上，大幅高於歐洲央行 2% 的通脹目標，但實際薪資增速仍維持正向增長。德馬爾科稱，當下唯一適合提前加大加息力度的情形僅包括：間接通脹或第二輪通脹效應超預期上行、通脹預期出現脫錨、薪資上漲訴求持續走高。"
+    },
+    {
+      "id": "mkt:019f1bd9-ff23-7aab-8c4a-bd4aea6de5e6",
+      "time": "2026-07-01 12:04:59",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "IEA expects US spending on coal- and gas-fired power plants to reach USD 50 billion this year."
+    },
+    {
+      "id": "4964176",
+      "time": "2026-07-01 12:03:14",
+      "tags": [
+        "公司"
+      ],
+      "text": "【震裕科技在廈門成立汽車部件公司，註冊資本5000萬】天眼查App顯示，近日，廈門震裕汽車部件有限公司成立，法定代表人為陳達華，註冊資本5000萬人民幣，經營範圍包括汽車零部件及配件製造、有色金屬壓延加工、電池零配件生產、模具製造、汽車零部件研發等，由震裕科技全資持股。"
+    },
+    {
+      "id": "4964175",
+      "time": "2026-07-01 12:02:41",
+      "tags": [
+        "公司"
+      ],
+      "text": "【復星集團、興業證券在泉州成立新合夥企業，出資額1.5億】天眼查App顯示，近日，星證（泉州）股權投資合夥企業（有限合夥）成立，執行事務合夥人為亞東星尚長歌創業投資有限公司，出資額1.5億人民幣，經營範圍為以私募基金從事股權投資、投資管理、資產管理等活動。合夥人資訊顯示，該合夥企業由上海復星高科技（集團）有限公司、興證投資管理有限公司、亞東星尚長歌創業投資有限公司共同出資。"
+    },
+    {
+      "id": "4964174",
+      "time": "2026-07-01 12:02:27",
+      "tags": [
+        "公司"
+      ],
+      "text": "法國達飛海運集團接近以14億美元收購聯邦快遞物流部門。（英國金融時報）"
+    },
+    {
+      "id": "mkt:019f1bd7-5718-7aab-8c4a-b2370813e44f",
+      "time": "2026-07-01 12:02:05",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "EURUSD"
+      ],
+      "text": "ECB Governing Council member De Marco said he has not seen second-round effects, excessive wage pressures or a de-anchoring of inflation expectations."
+    },
+    {
+      "id": "mkt:019f1bd7-33d5-7aab-8c4a-aa0e4402a51a",
+      "time": "2026-07-01 12:01:56",
+      "tags": [
+        "MKT News",
+        "Important",
+        "EURUSD",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "ECB Governing Council member De Marco said the bank can wait for the next round of economic projections before deciding on further tightening, and that the ECB should not rush into another rate hike after the recent fall in oil prices."
+    },
+    {
+      "id": "4964173",
+      "time": "2026-07-01 12:01:45",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中科問天量子湖北研發運營中心落戶光谷】據中國光谷公眾號，日前，中科問天量子科技（武漢）有限公司（簡稱“中科問天量子”）與東湖高新區簽約，將在光谷中心城設立湖北研發運營中心，重點佈局量子及密碼產品的一體化解決方案，並輸出定製化的密碼改造服務。"
+    },
     {
       "id": "4964172",
       "time": "2026-07-01 12:01:21",
@@ -128033,187 +128128,6 @@
         "國際"
       ],
       "text": "加拿大國防部長：正與日本洽談國防工業交易。"
-    },
-    {
-      "id": "4951705",
-      "time": "2026-06-24 12:06:38",
-      "tags": [
-        "公司"
-      ],
-      "text": "傑富瑞將波士頓科學公司目標價從100美元下調至67美元。"
-    },
-    {
-      "id": "te:markets:561358",
-      "time": "2026-06-24 12:06:22",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "China",
-        "Currency",
-        "Importance 1"
-      ],
-      "text": "Offshore Yuan Hits 1-Month Low — The offshore yuan depreciated to around 6.80 per dollar on Wednesday, hitting its lowest level in a month, as a stronger US dollar continued to weigh on the currency. The greenback remained supported by mounting expectations that the Federal Reserve could raise interest rates in September, with markets now assigning roughly a 70% chance of a rate hike. Further pressure came from the People's Bank of China, which continued to set the yuan's daily reference rate at weaker-than-expected levels. The central bank fixed the currency at 6.8195 per dollar on Wednesday, extending its longest streak of weaker fixings since April 2025. Meanwhile, China has effectively halted certain tungsten exports to Japan, while rare-earth magnet shipments fell to a one-year low in May, when Beijing first rolled out its global export-control regime. Such restrictions have remained in place amid tensions over Taiwan-related remarks by Japanese Prime Minister Sanae Takaichi."
-    },
-    {
-      "id": "4951704",
-      "time": "2026-06-24 12:06:19",
-      "tags": [
-        "公司"
-      ],
-      "text": "【麗臣實業：工業清洗劑系列產品目前仍處於市場開拓初期】麗臣實業(001218)在互動平臺表示，公司的工業清洗劑系列產品目前仍處於市場開拓初期，營業收入佔比極低。依託表面活性劑原料和技術優勢，工業清洗是公司近幾年重點培育和發展的業務板塊。當前高精製造領域快速發展，其對清洗效率、材料相容性與環保效能的要求日益嚴苛，給工業清洗市場帶來新一輪發展機遇。結合工業清洗業務板塊目前所處階段及在公司營收中的佔比、相關行業發展情況，其發展可期。"
-    },
-    {
-      "id": "mkt:019ef7ce-5452-7dd8-b0eb-169c15d63c45",
-      "time": "2026-06-24 12:05:54",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "According to the Financial Times, Qatari PM Sheikh Mohammed said the US‑Iran hotline is crucial to reopening the Strait of Hormuz."
-    },
-    {
-      "id": "4951703",
-      "time": "2026-06-24 12:05:52",
-      "tags": [
-        "公司"
-      ],
-      "text": "【邁為股份疊層電池整線裝置進駐客戶生產基地】據邁為股份訊息，6月23日，邁為股份自主研發的鈣鈦礦/矽異質結疊層電池整線裝置，正式入駐國內新能源企業生產基地。此舉標誌著該疊層技術領域首個整線商業化訂單圓滿交付，將助力客戶打造行業領先的210半片全面積鈣鈦礦/矽異質結疊層電池量產線。"
-    },
-    {
-      "id": "mkt:019ef7ce-165d-7dd8-b0eb-0f21a0a8be67",
-      "time": "2026-06-24 12:05:38",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Reserve Bank of India governor said monetary and external uncertainties are concerns for all of us."
-    },
-    {
-      "id": "4951702",
-      "time": "2026-06-24 12:05:34",
-      "tags": [
-        "市場"
-      ],
-      "text": "塔塔汽車股價延續漲勢，最新上漲3.1%。"
-    },
-    {
-      "id": "mkt:019ef7cd-e7fd-7dd8-b0eb-07dc6f852bf5",
-      "time": "2026-06-24 12:05:27",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "Brent",
-        "Impact bearish",
-        "WTI"
-      ],
-      "text": "Financial Times reports Qatari PM Sheikh Mohammed said QatarEnergy is preparing to resume normal operations as the situation in the strait normalizes."
-    },
-    {
-      "id": "4951701",
-      "time": "2026-06-24 12:05:25",
-      "tags": [
-        "其他"
-      ],
-      "text": "卡達首相：美伊熱線對重啟霍爾木茲海峽至關重要。"
-    },
-    {
-      "id": "mkt:019ef7cd-9dff-7dd8-b0ea-f8ea034ca6f9",
-      "time": "2026-06-24 12:05:08",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy"
-      ],
-      "text": "Qatari prime minister Sheikh Mohammed expects the country to resume normal LNG production within weeks, the Financial Times reports."
-    },
-    {
-      "id": "4951700",
-      "time": "2026-06-24 12:04:54",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "印度央行行長：不確定通脹是否會產生第二輪效應。"
-    },
-    {
-      "id": "4951698",
-      "time": "2026-06-24 12:04:31",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "印度央行行長：匯率波動與外部不確定性是我們共同關切的問題。"
-    },
-    {
-      "id": "4951697",
-      "time": "2026-06-24 12:04:16",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "【居民消費貸今年前五月減少超1.1萬億元】居民負債卸槓桿的力度，可能比預想的還要大。記者查閱央行金融機構信貸收支表資料，發現今年前五個月居民消費貸餘額減少超1.1萬億元。分結構來看，其中短期消費貸從2025年末的94900.77億元，降至2026年5月末的87869.54億元，今年前五個月減少約7031.23億元，降幅約7.41%；截至今年5月末，中長期消費貸餘額為482620.85億元，較去年末的486820.09億元減少了超4200億元。兩者合計，我國居民的消費貸餘額在今年前五月減少約11230.47億元——從去年末的581720.86億元，跌至570490.39億元。（證券時報）"
-    },
-    {
-      "id": "mkt:019ef7cc-5759-7dd8-b0ea-f008186798c0",
-      "time": "2026-06-24 12:03:44",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "HSI",
-        "Impact bullish",
-        "02359.HK",
-        "00981.HK"
-      ],
-      "text": "【Hong Kong midday: HSI up 0.04%, Hang Seng Tech up 1.34%】By midday in Hong Kong the Hang Seng Index was up 0.04% and the Hang Seng Tech Index gained 1.34%. Morning turnover reached HK$175.56 billion. Sector gains were led by pharma outsourcing (CDMO), storage, optical communications and chip stocks; declines were concentrated in rare earths, power equipment, Chinese brokers and commercial space. Notable stock moves: Huahong Hongli (01347.HK) +16%, WuXi AppTec (02359.HK) +9%, SMIC (00981.HK) +8%, Zhipu (02513.HK) +5%, BeiGene (06160.HK) +4%; MINIMAX-W (00100.HK) -5%, China Life (02628.HK) -4%, Midea Group (00300.HK) -3%."
-    },
-    {
-      "id": "4951696",
-      "time": "2026-06-24 12:03:42",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【美企發射“星落”返回艙 演示再入返回技術】美國太空探索技術公司23日利用“獵鷹9”號火箭首次發射“星落”返回艙，旨在對這種新型無人再入返回飛行器進行演示與驗證。太空探索技術公司表示，完成受控飛行演示後，飛行器將在太平洋海域濺落。（新華社）"
-    },
-    {
-      "id": "4951695",
-      "time": "2026-06-24 12:03:03",
-      "tags": [
-        "其他"
-      ],
-      "text": "卡達首相謝赫·穆罕默德表示，該國將在數週內恢復液化天然氣正常生產。"
-    },
-    {
-      "id": "4951694",
-      "time": "2026-06-24 12:02:53",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【港股午評：恒生指數漲0.04%，恒生科技指數漲1.34%】港股午間收盤，恒生指數漲0.04%，恒生科技指數漲1.34%。恒指港股通ETF銀華（159318）漲0.17%，港股通科技ETF鵬華（159751）漲1.69%。板塊方面，生命科學工具、客運航空公司板塊漲幅靠前；金屬與採礦、林業與紙製品板塊跌幅靠前。個股方面，麥科醫藥-B漲89.56%，凱萊英漲16.22%，華虹宏力漲16.0%，海西新藥漲14.56%，仙工智慧漲13.48%；海清智元跌27.89%，星源材質跌12.82%，博泰車聯跌11.46%，曦智科技-P跌10.52%，威勝控股跌8.99%。"
-    },
-    {
-      "id": "te:markets:561357",
-      "time": "2026-06-24 12:02:51",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Australia",
-        "stocks",
-        "Importance 1"
-      ],
-      "text": "BHP Group Stock Price Hits 4-week Low — BHP Group shares decreased to 59.03 AUD, the lowest since May 2026. Over the past 4 weeks, BHP Group lost 1.77%, and in the last 12 months, it increased 63.54%."
-    },
-    {
-      "id": "4951693",
-      "time": "2026-06-24 12:02:50",
-      "tags": [
-        "公司"
-      ],
-      "text": "【智譜據悉考慮在香港發售數十億美元的股票】媒體援引知情人士透露，中國人工智慧模型公司智譜考慮在香港發售股份，融資規模可能達數十億美元。該公司自1月上市以來，股價已飆升2000%。因涉及非公開資訊，要求匿名的知情人士稱，智譜在與顧問商討潛在股份配售事宜，最早可能下個月進行。智譜IPO後為期六個月的鎖定期將於7月8日到期。知情人士稱，智譜股份發售事宜仍在商討中，也可能無法達成交易。"
     }
   ]
 }
