@@ -1,7 +1,51 @@
 {
-  "updated": "2026-07-01 18:21:29",
-  "count": 13949,
+  "updated": "2026-07-01 18:25:32",
+  "count": 13935,
   "items": [
+    {
+      "id": "mkt:019f1d35-8dd4-7aab-8c53-a9a485063c00",
+      "time": "2026-07-01 18:24:36",
+      "tags": [
+        "MKT News",
+        "NKE.N",
+        "Impact bearish"
+      ],
+      "text": "Citigroup cuts Nike (NKE.N) PT to $45 from $47."
+    },
+    {
+      "id": "4964960",
+      "time": "2026-07-01 18:24:20",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "花旗集團將耐克公司目標股價從47美元下調至45美元。"
+    },
+    {
+      "id": "4964959",
+      "time": "2026-07-01 18:22:39",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "歐盟航空安全域性（EASA）表示：鑑於停火能否持續尚存變數，且局勢存在迅速升級的風險，各航空公司應持續避開伊朗、伊拉克及黎巴嫩上空空域，並在整個中東地區保持飛行謹慎。"
+    },
+    {
+      "id": "4964958",
+      "time": "2026-07-01 18:21:56",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國銀行將液化空氣目標股價從159歐元上調至200歐元。"
+    },
+    {
+      "id": "4964957",
+      "time": "2026-07-01 18:21:34",
+      "tags": [
+        "公司"
+      ],
+      "text": "【私募股權公司Ardian旗下企業投資無晶圓廠半導體公司VSORA】法國私募股權投資公司Ardian當地時間7月1日宣佈，旗下Ardian Semiconductor已完成對VSORA的少數股權投資。VSORA是一家總部位於法國的無晶圓廠半導體公司，致力於為資料中心應用設計下一代AI推理加速器。此次交易是Ardian Semiconductor的第四筆投資。"
+    },
     {
       "id": "4964956",
       "time": "2026-07-01 18:20:40",
@@ -128293,185 +128337,6 @@
         "MKT News"
       ],
       "text": "Russian Foreign Minister Lavrov said Russia is willing to continue dialogue with the United States but wants clarification on what took place at the G7 summit."
-    },
-    {
-      "id": "mkt:019ef929-cb81-7dd8-b0f5-8536e82a13c8",
-      "time": "2026-06-24 18:25:26",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Russia's Foreign Minister Lavrov said contacts with the United States have not even secured the return of seized Russian diplomatic property and have not restored direct flights between the two countries."
-    },
-    {
-      "id": "4952510",
-      "time": "2026-06-24 18:25:05",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "俄羅斯外交部長拉夫羅夫表示，俄羅斯願意繼續與美國對話，但希望瞭解七國集團峰會的討論結果。"
-    },
-    {
-      "id": "mkt:019ef929-74c4-7dd8-b0f5-7bccd8747e3d",
-      "time": "2026-06-24 18:25:04",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK",
-        "XAUUSD",
-        "Impact bullish",
-        "DXY",
-        "WTI"
-      ],
-      "text": "Russian Foreign Minister Lavrov said sanctions from the Biden era have been extended, new sanctions have been introduced, and the United States is selling weapons to Europe for use by Ukraine."
-    },
-    {
-      "id": "4952509",
-      "time": "2026-06-24 18:24:50",
-      "tags": [
-        "資料",
-        "市場"
-      ],
-      "text": "【中國銀河證券許冬石：預計下半年出口高增長，政策託底，經濟轉型持續】6月24日，中國銀河證券在上海舉辦年度中期策略報告會。中國銀河證券宏觀聯席首席分析師許冬石發表下半年宏觀展望。許冬石表示，預計2026年國內GDP增速4.7%，貼合年度目標；出口高增長，製造和基建投資託底經濟；基準情形下，預計CPI同比增長1.3%、PPI同比增長3.1%。大類資產方面，許冬石認為，通脹將分化盈利，8月為全年配置分水嶺。權益市場利潤向中上游集中，漲價主線中AI好於非AI、外需好於內需、剛需好於可選。債券市場方面，預計10年期國債收益率在1.65%—1.9%區間震盪執行。（證券時報）"
-    },
-    {
-      "id": "mkt:019ef928-f8e2-7dd8-b0f5-74d81723b01f",
-      "time": "2026-06-24 18:24:32",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "Brent",
-        "DXY"
-      ],
-      "text": "Russian Foreign Minister Lavrov said Russia is being told talks are not concluded and should make further concessions."
-    },
-    {
-      "id": "4952508",
-      "time": "2026-06-24 18:24:04",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【劍橋科技：公司目前生產經營活動正常】劍橋科技股票交易異常波動公告，公司目前生產經營活動正常，不存在影響公司股票交易價格異常波動的重大事宜。公司主營業務涉及電信、數通、企業網路與家庭網路領域通訊連線的終端裝置（包括電信寬頻、無線網路與邊緣計算）以及高速光模組產品的研發、生產與銷售，行業發展與全球通訊技術迭代、下游客戶資本開支計劃密切相關。若未來行業政策調整、市場需求不及預期、核心原材料供應短缺或價格大幅上漲，可能對公司生產經營、產品成本及盈利能力產生不利影響。"
-    },
-    {
-      "id": "mkt:019ef928-8ab0-7dd8-b0f5-685af263ef4f",
-      "time": "2026-06-24 18:24:04",
-      "tags": [
-        "MKT News",
-        "Brent",
-        "Impact bullish",
-        "WTI",
-        "XAUUSD"
-      ],
-      "text": "Market sources: US Secretary of State Rubio discussed a memorandum of understanding on Iran, defense and trade with the UAE president."
-    },
-    {
-      "id": "4952507",
-      "time": "2026-06-24 18:23:59",
-      "tags": [
-        "國際"
-      ],
-      "text": "俄羅斯外交部長拉夫羅夫表示，俄美接觸迄今甚至連沒收的俄羅斯外交財產歸還、或是恢復直飛航班這些目標都未能達成。"
-    },
-    {
-      "id": "4952506",
-      "time": "2026-06-24 18:23:44",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "市場訊息：魯比奧與阿聯酋總統商討伊朗諒解備忘錄、防務及經貿事宜。"
-    },
-    {
-      "id": "4952505",
-      "time": "2026-06-24 18:23:20",
-      "tags": [
-        "國際"
-      ],
-      "text": "土耳其總統埃爾多安：以色列竭盡全力破壞伊朗與美國之間達成的共識。"
-    },
-    {
-      "id": "mkt:019ef927-df81-7dd8-b0f5-6094b603ba02",
-      "time": "2026-06-24 18:23:20",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "The Indian government said both sides reiterated their commitment to a balanced, commercially meaningful agreement."
-    },
-    {
-      "id": "mkt:019ef927-acda-7dd8-b0f5-5c494b23166f",
-      "time": "2026-06-24 18:23:07",
-      "tags": [
-        "MKT News",
-        "S&P500",
-        "Impact bullish",
-        "DXY",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "LAVROV said Russia and the United States have agreed on how to end the conflict and on procedures for discussing other issues."
-    },
-    {
-      "id": "4952504",
-      "time": "2026-06-24 18:23:02",
-      "tags": [
-        "國際"
-      ],
-      "text": "俄羅斯外交部長拉夫羅夫表示，拜登政府已延長對俄製裁併推出了新制裁，同時美國正透過歐洲向烏克蘭輸送武器。"
-    },
-    {
-      "id": "mkt:019ef927-7dfc-7dd8-b0f5-54368f2b93a5",
-      "time": "2026-06-24 18:22:55",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "Iran's deputy foreign minister said access to attacked nuclear sites and nuclear material will be reviewed and resolved entirely within the framework of any final agreement with the United States."
-    },
-    {
-      "id": "4952503",
-      "time": "2026-06-24 18:22:54",
-      "tags": [
-        "其他"
-      ],
-      "text": "【周鴻禕：360安全衛士等傳統軟體，未來會降級為智慧體可呼叫的工具】周鴻褘表示，對外明確整體戰略為AI+安全，傳統純安全業務已無獨立發展空間。全部傳統安全業務依託AI重構，核心兩大業務方向：自動化漏洞挖掘、自動化網路防禦。另外，他也表示，AI板塊同步分為兩大主線：解決智慧體全鏈路安全、搭建企業級智慧體工作平臺。360安全衛士等傳統客戶端軟體，未來會降級為智慧體可呼叫的工具、內建技能。（新浪科技）"
-    },
-    {
-      "id": "te:markets:561502",
-      "time": "2026-06-24 18:22:50",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "commodity",
-        "Importance 0"
-      ],
-      "text": "Zinc Hits 6-week Low — Zinc decreased to 3433.00 USD/T, the lowest since May 2026. Over the past 4 weeks, Zinc lost 2.84%, and in the last 12 months, it increased 26.78%."
-    },
-    {
-      "id": "4952502",
-      "time": "2026-06-24 18:22:24",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：歐盟各國就 ESG 金融產品新規修訂達成統一立場。"
-    },
-    {
-      "id": "mkt:019ef926-ae03-7dd8-b0f5-4b8019a641b3",
-      "time": "2026-06-24 18:22:02",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "India's government said talks with the US are focused on exploring ways to reach an interim agreement, which it will treat as an important milestone toward a comprehensive bilateral trade agreement."
-    },
-    {
-      "id": "4952501",
-      "time": "2026-06-24 18:21:53",
-      "tags": [
-        "市場"
-      ],
-      "text": "英鎊兌美元下跌0.4%至1.3156，觸及11月26日以來的最低水平。"
     }
   ]
 }
