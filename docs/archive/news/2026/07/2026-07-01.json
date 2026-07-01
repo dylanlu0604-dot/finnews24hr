@@ -1,7 +1,112 @@
 {
   "date": "2026-07-01",
-  "count": 1366,
+  "count": 1376,
   "items": [
+    {
+      "id": "4964283",
+      "time": "2026-07-01 13:45:10",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "現代汽車印度公司：自6月22日起，各工廠的生產運營已恢復正常。"
+    },
+    {
+      "id": "4964282",
+      "time": "2026-07-01 13:44:45",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【上海：攻關端側AI晶片、輕量模型、AR空間計算、柔性顯示技術 發展輕量時尚的AI手機、AIPC、智慧音箱等終端和智慧眼鏡、智慧耳機等可穿戴產品】上海市經濟資訊化委、市委宣傳部、市商務委 市文化旅遊局、市市場監管局印發《上海市促進時尚消費品產業高質量發展行動方案（2026-2028年）》。方案指出，聚焦主動智慧、無感互動、統一協議、端雲協同技術趨勢，推動“居家、辦公、出行”全場景智慧聯動。攻關端側AI晶片、輕量模型、AR空間計算、柔性顯示技術，發展輕量時尚的AI手機、AIPC、智慧音箱等終端和智慧眼鏡、智慧耳機等可穿戴產品，佈局家庭服務和陪伴機器人。研發高效電機、多維清潔、綠色低碳技術，推動智慧空調、洗滌、廚衛、個護家電更具設計感和功能性，打造智慧光環境。最佳化汽車智慧座艙和輔助駕駛體驗。"
+    },
+    {
+      "id": "4964281",
+      "time": "2026-07-01 13:44:39",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "現代汽車印度公司：2026年6月銷量51,335輛。"
+    },
+    {
+      "id": "mkt:019f1c35-3347-7aab-8c4c-58b585ea7dc2",
+      "time": "2026-07-01 13:44:36",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bearish",
+        "SZSE Component",
+        "SSE Composite"
+      ],
+      "text": "A-share fiber-optic names slid in the afternoon session: Yunzhong Technology fell over 12%, Zhejiang Zhongcheng hit the daily down limit, Changxin Bochuang and Zhaolong Hulian dropped more than 8%, while Dazu Laser and Yongding Co. also retreated."
+    },
+    {
+      "id": "mkt:019f1c34-a2f3-7aab-8c4c-551fcd19ebbc",
+      "time": "2026-07-01 13:43:59",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "Market Regions",
+        "Europe & UK",
+        "DXY",
+        "Impact mixed",
+        "US10Y",
+        "S&P500"
+      ],
+      "text": "【21:00 Beijing — Fed chair Kevin Warsh to speak at ECB global central bank forum】According to Fed and ECB schedules, at 21:00 Beijing time Fed chair Kevin Warsh will speak on a policy panel at the ECB-hosted Global Central Bank Forum alongside ECB president Lagarde, Bank of England governor Bailey and Bank of Canada governor Macklem. Market participants should watch for policy cues that could affect interest rates, liquidity and H2 asset pricing."
+    },
+    {
+      "id": "4964280",
+      "time": "2026-07-01 13:43:13",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【上海：到2028年全市消費品工業規模超過7500億元 時尚消費品產業規模突破5000億元】上海市經濟資訊化委、市委宣傳部、市商務委 市文化旅遊局、市市場監管局印發《上海市促進時尚消費品產業高質量發展行動方案（2026-2028年）》。到2028年，全市消費品工業規模超過7500億元，時尚消費品產業規模突破5000億元，打造“上海時尚出品”100強品牌企業，成為具有全球影響力的時尚產業集聚地、時尚創新策源地和時尚消費目的地。"
+    },
+    {
+      "id": "4964279",
+      "time": "2026-07-01 13:42:26",
+      "tags": [
+        "其他"
+      ],
+      "text": "加拿大皇家銀行將力拓目標價從6400便士下調至6300便士。"
+    },
+    {
+      "id": "mkt:019f1c33-3304-7aab-8c4c-4926303e45bd",
+      "time": "2026-07-01 13:42:25",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "A letter shows Ukraine's defense minister requested EU allies disburse €6.6 bln to an EU-backed military assistance fund and said Ukraine has a 6-9 month window to exploit battlefield advantages against Russia."
+    },
+    {
+      "id": "mkt:019f1c32-e57b-7aab-8c4c-46e9406a754d",
+      "time": "2026-07-01 13:42:05",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "US Economy",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "【Russell: US June jobs likely to keep inflation the main driver of Fed policy】Bei Chen Lin, senior investment strategist at Russell Investments, said in a note that June employment growth is expected to remain strong, meaning inflation is likely to stay the primary determinant of Fed policy. He added that, given recent rises in M&A, IPOs and debt issuance, markets should watch for an acceleration in financial‑services employment. The June jobs report is due Thursday."
+    },
+    {
+      "id": "4964278",
+      "time": "2026-07-01 13:41:58",
+      "tags": [
+        "國際"
+      ],
+      "text": "烏克蘭國防部長致函歐盟盟友，要求劃撥歐盟支援的軍事援助基金項下的66億歐元資金。"
+    },
     {
       "id": "4964277",
       "time": "2026-07-01 13:41:28",
