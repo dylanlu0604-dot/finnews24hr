@@ -1,7 +1,55 @@
 {
-  "updated": "2026-07-01 12:30:12",
-  "count": 13923,
+  "updated": "2026-07-01 12:34:08",
+  "count": 13925,
   "items": [
+    {
+      "id": "4964208",
+      "time": "2026-07-01 12:32:50",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本首相高市早苗：與印度的合作日益重要。"
+    },
+    {
+      "id": "4964207",
+      "time": "2026-07-01 12:32:24",
+      "tags": [
+        "國際"
+      ],
+      "text": "日元對美元跌幅略有收窄，穩定在162.60日元左右，此前日本財務官員就外匯市場發表評論。"
+    },
+    {
+      "id": "4964206",
+      "time": "2026-07-01 12:31:48",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本最高外匯官員三村淳：日美之間的合作“比以往任何時候都更加緊密”，貨幣干預是有效的。"
+    },
+    {
+      "id": "4964205",
+      "time": "2026-07-01 12:31:30",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本最高外匯官員三村淳：自外匯干預以來，美方從未提出過任何異議。"
+    },
+    {
+      "id": "4964204",
+      "time": "2026-07-01 12:31:20",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本最高外匯官員三村淳：近期的干預“意義重大”。"
+    },
+    {
+      "id": "4964202",
+      "time": "2026-07-01 12:29:40",
+      "tags": [
+        "公司"
+      ],
+      "text": "【橫琴深合口岸管理公司註冊成立】企查查APP顯示，近日，橫琴深合口岸管理有限公司成立，法定代表人為曾毅，經營範圍包含物業管理；非居住房地產租賃；工程管理服務；道路貨物運輸站經營；航空運輸貨物打包服務等。企查查股權穿透顯示，該公司由橫琴深合投資有限公司全資持股。"
+    },
     {
       "id": "mkt:019f1bf0-765e-7aab-8c4b-4b2eaca72edd",
       "time": "2026-07-01 12:29:31",
@@ -127987,56 +128035,6 @@
         "其他"
       ],
       "text": "訊息人士稱，高通正與位元組跳動就提供定製晶片設計服務進行洽談。"
-    },
-    {
-      "id": "te:markets:561368",
-      "time": "2026-06-24 12:31:00",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "South Korea",
-        "Currency",
-        "Importance 1"
-      ],
-      "text": "South Korean Won at Over 2-Week Low — The South Korean won traded around 1,539 per dollar, extending losses to its lowest level in over two weeks after MSCI kept South Korea in its emerging-market category. MSCI cited persistent foreign-exchange market accessibility issues, including limited offshore won convertibility and insufficient liquidity during extended trading hours, delaying South Korea's progress toward developed-market status. Additionally, the US dollar remained relatively firm as investors continued to assess the outlook for US monetary policy. Meanwhile, the Bank of Korea reinforced its hawkish stance, signaling that higher interest rates may be needed at an appropriate time as rising housing prices, household debt, and leveraged investments threaten to fuel financial imbalances. Limiting further losses, oil prices eased as concerns over potential disruptions to energy supplies through the Strait of Hormuz softened, providing some relief for the energy-importing economy."
-    },
-    {
-      "id": "mkt:019ef7e5-11f5-7dd8-b0eb-c68f00181f24",
-      "time": "2026-06-24 12:30:45",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "China Tech Giants",
-        "DXY",
-        "Impact bullish",
-        "CNH",
-        "Impact bearish"
-      ],
-      "text": "Market sources say ByteDance is seeking a roughly $20 billion offshore loan, which would be the largest overseas loan on record."
-    },
-    {
-      "id": "te:markets:561366",
-      "time": "2026-06-24 12:30:32",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "India",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "Sensex Starts Session Higher — India’s BSE Sensex rose about 0.3% to 76,456 at the open on Wednesday, recouping earlier losses as investors weighed the benefits of lower crude oil prices against growing expectations of further US interest-rate hikes. Market sentiment remained cautious after the benchmark fell roughly 1.2% in the previous session, pressured by weakness in information technology and metal stocks. Concerns over domestic business activity and monsoon developments also weighed on investor confidence. Among individual stocks, Indian Railway Finance Corporation shares dropped 5.4% following reports of a planned government stake sale, while Wipro drew attention after expanding its cybersecurity partnership initiatives. JPMorgan downgraded HCL Tech, Wipro, and Tata Tech, warning that AI-driven disruption, cautious enterprise spending, and geopolitical uncertainty could keep growth across India's IT sector subdued. Notable gainers were KPR Mill (12.6%), Roto (8.5%), and JSW Infrastructure (4.4%)."
-    },
-    {
-      "id": "mkt:019ef7e4-b135-7dd8-b0eb-bd1471a82889",
-      "time": "2026-06-24 12:30:20",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bearish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "【Trump says Senate resolution restricting presidential war powers 'untimely'】On the 23rd, President Trump said on social media the Senate resolution limiting presidential war powers was \"untimely,\" adding he has \"driven Iran to the brink\" and that Iran is \"willing to make substantive concessions.\" He called the vote \"aid and comfort to the enemy\" and said senators had made his job harder but he would \"get it done.\" The U.S. Senate on the 23rd passed a resolution requiring Trump to end U.S. military action against Iran and to obtain congressional authorization before undertaking future military action; the measure had previously cleared the House."
     }
   ]
 }
