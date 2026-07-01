@@ -1,7 +1,70 @@
 {
   "date": "2026-07-02",
-  "count": 97,
+  "count": 104,
   "items": [
+    {
+      "id": "mkt:019f1ea4-fb8b-7aab-8c64-11626740db5c",
+      "time": "2026-07-02 01:05:56",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. Trade Representative said the administration may sign separate trade agreements with Canada and Mexico during the remainder of Trump’s term."
+    },
+    {
+      "id": "mkt:019f1ea4-5115-7aab-8c64-0a62a7150bf9",
+      "time": "2026-07-02 01:05:12",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. Trade Representative said they do not intend to allow issues related to the United States-Mexico-Canada Agreement (USMCA) to be delayed for as long as 10 years."
+    },
+    {
+      "id": "mkt:019f1ea3-c5e7-7aab-8c64-0284abd4b256",
+      "time": "2026-07-02 01:04:37",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "US Trade Representative said the USMCA has failed to deliver on reducing the US trade deficit and on expanding market access for US firms to Canada and Mexico."
+    },
+    {
+      "id": "4965815",
+      "time": "2026-07-02 01:04:34",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國貿易代表： 我們無意把美墨加協定相關問題拖上十年之久。"
+    },
+    {
+      "id": "4965814",
+      "time": "2026-07-02 01:04:17",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "【訊息人士：伊朗要求分階段執行美伊諒解備忘錄 重點推動資產解凍】當地時間1日，訊息人士稱，伊朗代表團在當天於卡達首都多哈舉行的美伊間接會談中要求分階段執行此前達成的諒解備忘錄，重點執行伊朗被凍結資產相關條款。伊朗方面要求解凍其被凍結資產並將其提供給伊朗央行，被解凍資金將用於食品供應。據悉，伊朗代表堅持霍爾木茲海峽應受伊朗和阿曼管轄，拒絕任何船隻在霍爾木茲海峽選取未經其許可的航運路線；伊朗堅持其對《不擴散核武器條約》的承諾，並表示將致力於與國際原子能機構合作。此外，伊朗代表在會談中譴責以色列保留在黎巴嫩駐軍的行為，稱其破壞美伊諒解備忘錄的執行。（央視新聞）"
+    },
+    {
+      "id": "mkt:019f1ea2-ddc5-7aab-8c63-f83a3be30329",
+      "time": "2026-07-02 01:03:37",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "【US urges Iran to drop Strait of Hormuz transit‑fee demand, says post‑sanctions oil revenue could be 100x higher】US and Iranian negotiators held talks in Doha focused on the Strait of Hormuz, where the US urged Iran to abandon demands to levy transit fees, saying such a move could scupper a more favorable US‑Iran deal. A US Middle East envoy and senior adviser Jared Kushner met Qatar’s prime minister and other Qatari mediators Tuesday and met the emir Wednesday. A US official said Washington told Iran that full sanctions relief would allow Iran to earn roughly 100 times more from unfettered oil and resource sales than it could by charging transit fees."
+    },
+    {
+      "id": "mkt:019f1ea1-b2f6-7aab-8c63-f39e06e5f081",
+      "time": "2026-07-02 01:02:21",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "IRNA reported Iran's deputy foreign minister said in talks with Qatar Tehran has decided to use part of $6bln in frozen funds to purchase goods to meet Iran's needs."
+    },
     {
       "id": "4965813",
       "time": "2026-07-02 01:01:40",
