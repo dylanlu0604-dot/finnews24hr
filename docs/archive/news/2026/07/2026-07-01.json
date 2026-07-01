@@ -1,7 +1,52 @@
 {
   "date": "2026-07-01",
-  "count": 1340,
+  "count": 1344,
   "items": [
+    {
+      "id": "mkt:019f1c26-f9f7-7aab-8c4c-05204ba0b846",
+      "time": "2026-07-01 13:29:04",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "000660.KS",
+        "Impact bullish"
+      ],
+      "text": "【Sources: SK Hynix long-term supply contracts lack price caps】Sources say SK Hynix's recent long-term supply agreements (LTAs) with customers use a no-price-cap structure, differing from rivals. The approach breaks the traditional pricing model for semiconductor memory LTAs and could allow SK Hynix to capture upside during supply tightness that capped contracts would miss."
+    },
+    {
+      "id": "mkt:019f1c26-571f-7aab-8c4b-fd5d17a196e0",
+      "time": "2026-07-01 13:28:22",
+      "tags": [
+        "MKT News",
+        "Important",
+        "601336.SS",
+        "Impact bullish",
+        "601628.SS",
+        "601318.SS"
+      ],
+      "text": "A-share insurance sector jumped in afternoon trade; New China Life Insurance hit the daily price limit, while China Life, PICC, CPIC and Ping An also advanced."
+    },
+    {
+      "id": "4964263",
+      "time": "2026-07-01 13:28:13",
+      "tags": [
+        "市場"
+      ],
+      "text": "【保險板塊午後持續暴力拉昇 新華保險漲停】保險板塊午後持續暴力拉昇，新華保險漲停，中國人壽、中國人保、中國太保、中國平安跟漲。"
+    },
+    {
+      "id": "te:markets:563273",
+      "time": "2026-07-01 13:27:03",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Indonesia",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "Rupiah Under Strain Following May Trade Gap — The Indonesian rupiah slipped toward IDR 17,940 per dollar on Wednesday, extending a three-day decline as the U.S. dollar firmed on growing expectations the Fed could raise rates later this year. Locally, sentiment was weighed down after Indonesia posted a trade deficit in May, the first since April 2020, as exports unexpectedly fell while imports maintained double-digit growth, reducing support from external balance. Further pressure came from data showing factory activity shrank the most in a year in June, reflecting weaker purchasing power and cost pressures. Still, the rupiah's losses were capped by resilient foreign inflows into government bonds and Bank Indonesia securities during June, lower oil prices that eased fiscal pressures, and efforts to trim budget allocations for President Prabowo's main programs. Meanwhile, annual inflation hit a three-month peak in June, due to elevated food prices, though it remained within the upper end of Bank Indonesia's 1-1/2%-3-1/2%."
+    },
     {
       "id": "4964262",
       "time": "2026-07-01 13:23:14",

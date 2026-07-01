@@ -1,7 +1,52 @@
 {
-  "updated": "2026-07-01 13:26:31",
-  "count": 13911,
+  "updated": "2026-07-01 13:30:31",
+  "count": 13905,
   "items": [
+    {
+      "id": "mkt:019f1c26-f9f7-7aab-8c4c-05204ba0b846",
+      "time": "2026-07-01 13:29:04",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "000660.KS",
+        "Impact bullish"
+      ],
+      "text": "【Sources: SK Hynix long-term supply contracts lack price caps】Sources say SK Hynix's recent long-term supply agreements (LTAs) with customers use a no-price-cap structure, differing from rivals. The approach breaks the traditional pricing model for semiconductor memory LTAs and could allow SK Hynix to capture upside during supply tightness that capped contracts would miss."
+    },
+    {
+      "id": "mkt:019f1c26-571f-7aab-8c4b-fd5d17a196e0",
+      "time": "2026-07-01 13:28:22",
+      "tags": [
+        "MKT News",
+        "Important",
+        "601336.SS",
+        "Impact bullish",
+        "601628.SS",
+        "601318.SS"
+      ],
+      "text": "A-share insurance sector jumped in afternoon trade; New China Life Insurance hit the daily price limit, while China Life, PICC, CPIC and Ping An also advanced."
+    },
+    {
+      "id": "4964263",
+      "time": "2026-07-01 13:28:13",
+      "tags": [
+        "市場"
+      ],
+      "text": "【保險板塊午後持續暴力拉昇 新華保險漲停】保險板塊午後持續暴力拉昇，新華保險漲停，中國人壽、中國人保、中國太保、中國平安跟漲。"
+    },
+    {
+      "id": "te:markets:563273",
+      "time": "2026-07-01 13:27:03",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Indonesia",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "Rupiah Under Strain Following May Trade Gap — The Indonesian rupiah slipped toward IDR 17,940 per dollar on Wednesday, extending a three-day decline as the U.S. dollar firmed on growing expectations the Fed could raise rates later this year. Locally, sentiment was weighed down after Indonesia posted a trade deficit in May, the first since April 2020, as exports unexpectedly fell while imports maintained double-digit growth, reducing support from external balance. Further pressure came from data showing factory activity shrank the most in a year in June, reflecting weaker purchasing power and cost pressures. Still, the rupiah's losses were capped by resilient foreign inflows into government bonds and Bank Indonesia securities during June, lower oil prices that eased fiscal pressures, and efforts to trim budget allocations for President Prabowo's main programs. Meanwhile, annual inflation hit a three-month peak in June, due to elevated food prices, though it remained within the upper end of Bank Indonesia's 1-1/2%-3-1/2%."
+    },
     {
       "id": "4964262",
       "time": "2026-07-01 13:23:14",
@@ -127809,106 +127854,6 @@
         "市場"
       ],
       "text": "美元/盧比遠期溢價下跌；1年期下滑10個基點至2.82%。"
-    },
-    {
-      "id": "mkt:019ef81b-ad44-7dd8-b0ec-caeef6f27bbc",
-      "time": "2026-06-24 13:30:23",
-      "tags": [
-        "MKT News",
-        "DXY",
-        "Impact bearish",
-        "USDJPY",
-        "EURUSD",
-        "Impact bullish"
-      ],
-      "text": "Traders say the Reserve Bank of India may sell dollars via state-owned banks to support the rupee."
-    },
-    {
-      "id": "4951812",
-      "time": "2026-06-24 13:30:04",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "中證1000指數期貨連續主力合約日內漲1%，現報8501.20點。"
-    },
-    {
-      "id": "4951811",
-      "time": "2026-06-24 13:30:04",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "中證500指數期貨連續主力合約日內漲2%，現報8624.40點。"
-    },
-    {
-      "id": "4951810",
-      "time": "2026-06-24 13:29:24",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "南向資金淨買入額達50億港元。"
-    },
-    {
-      "id": "mkt:019ef81a-2c5c-7dd8-b0ec-c6a317125f47",
-      "time": "2026-06-24 13:28:45",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Greater China",
-        "688981.SS",
-        "Impact bullish"
-      ],
-      "text": "STAR Market 50 Index rose over 4%; constituents Zhongke Feice, Hua Hong Hongli, Geke Micro and SMIC each gained over 10%."
-    },
-    {
-      "id": "4951809",
-      "time": "2026-06-24 13:28:38",
-      "tags": [
-        "其他"
-      ],
-      "text": "【藥明生物第25個原液生產廠完成首批GMP生產】6月24日，藥明生物宣佈， 其位於上海奉賢基地的生物藥原液十七廠（MFG17）已成功完成首批GMP生產。據藥明生物介紹，MFG17配備多組一次性生物反應器（Single-Use Bioreactor, SUB），具備9000升產能和每年80-100批次的原液生產能力。"
-    },
-    {
-      "id": "te:economy:561374",
-      "time": "2026-06-24 13:27:42",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Finland",
-        "Producer Prices Change",
-        "Importance 1"
-      ],
-      "text": "Finland Producer Prices Rise in May — Producer prices in Finland advanced by 7.4% year-on-year in May 2026 from 4.6% in the previous month. Costs increased in manufactured products (6.4% vs 4.7% in April), particularly in beverages (4.9% vs 0.4%), wearing apparel (4% vs 2.6%), chemical and chemical products (4.9% vs 0.9%), and rubber and plastic products (5.3% vs 1.1%), while prices rebounded in textiles (1.0% vs. -0.6%) and basic pharmaceutical products (3.4% vs. -4.2%). In addition, inflation accelerated in mining and quarrying (11.9% vs. 9.3%), electricity, gas, steam and air-conditioning supply (17.9% vs. 1.0%), and water supply, sewerage, waste management, and remediation services (10.1% vs. 6.6%). On a monthly basis, producer prices increased 1.3% in May, following a 1.2% rise in the previous month."
-    },
-    {
-      "id": "mkt:019ef819-13f9-7dd8-b0ec-b8c9a1470366",
-      "time": "2026-06-24 13:27:33",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "China A-share OLED-themed names spiked intraday; Xinxiangwei, Pengcheng New Materials and Yake Technology were among several stocks that hit the daily limit. Jingce Electronics jumped more than 18% and Toread gained over 13%."
-    },
-    {
-      "id": "4951808",
-      "time": "2026-06-24 13:27:31",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "科創50日內漲幅達4.03%，成分股中，中科飛測漲10.80%，格科微漲10.14%，中芯國際漲10.01%，華虹宏力漲9.90%。"
-    },
-    {
-      "id": "4951807",
-      "time": "2026-06-24 13:26:42",
-      "tags": [
-        "國際"
-      ],
-      "text": "阿斯麥與TNO合作擴大歐洲光子晶片製造規模。"
     }
   ]
 }
