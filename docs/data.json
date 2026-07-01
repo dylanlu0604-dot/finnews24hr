@@ -1,7 +1,51 @@
 {
-  "updated": "2026-07-02 00:45:54",
+  "updated": "2026-07-02 00:49:54",
   "count": 14235,
   "items": [
+    {
+      "id": "4965798",
+      "time": "2026-07-02 00:48:59",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "亞特蘭大聯儲GDPNow模型對第二季度實際GDP增速的預期從2.5%下調至1.2%。"
+    },
+    {
+      "id": "4965797",
+      "time": "2026-07-02 00:48:54",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "斯泰蘭蒂斯集團（StellantisNV）6月總銷量同比增長10%‌，公司上半年在美國售出634,187輛汽車。"
+    },
+    {
+      "id": "mkt:019f1e95-1214-7aab-8c63-9cf249161f2a",
+      "time": "2026-07-02 00:48:33",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy",
+        "DXY",
+        "Impact bearish",
+        "US10Y",
+        "S&P500"
+      ],
+      "text": "Atlanta Fed GDPNow trimmed its estimate for second-quarter real GDP growth to 1.2% from 2.5%."
+    },
+    {
+      "id": "te:markets:563529",
+      "time": "2026-07-02 00:48:31",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Euro Area",
+        "Stock Market",
+        "Importance 0"
+      ],
+      "text": "European Stocks Drop from Records — European stocks eased from records on Wednesday as a fresh pullback for chip producers offset support from an improving macroeconomic backdrop. The Euro STOXX 50 dropped 0.6% to 5, and the STOXX Europe 600 fell 0.4% to 640. ASML and Infineon fell 4.6% each, tracking the AI infrastructure sector globally amid fresh uncertainty on whether the historical rally for chip producers has been overdone. Other companies with exposure to data centers and their power declined, with Siemens, Schneider, and Siemens Energy dropping between 3.1% and 1.5%. In turn, the software side rallied on respite from US hyperscaler giants. Also, banks were mostly higher as softer-than-expected inflation in the Eurozone limited expectations of another rate hike by the ECB this year. UniCredit added 0.6% and Deutsche Bank jumped 0.4%. The bloc's inflation rate fell to 2.8%, below expectations of 3%, and the core gauged fell to 2.4%."
+    },
     {
       "id": "mkt:019f1e8e-168e-7aab-8c63-93a6e388bd6e",
       "time": "2026-07-02 00:40:56",
@@ -131242,41 +131286,6 @@
         "NVDA.O"
       ],
       "text": "NVIDIA will hold its annual shareholder meeting in 10 minutes."
-    },
-    {
-      "id": "4953214",
-      "time": "2026-06-25 00:49:42",
-      "tags": [
-        "國際"
-      ],
-      "text": "昨日於華盛頓舉行的以黎首輪談判首日結束，未取得任何進展，某種程度上雙方立場甚至出現倒退。一名訊息人士透露，雙方談判過程中部分階段氣氛十分“糟糕”。以色列方面承認雙方存在分歧，但聲稱會談整體氛圍“融洽”。"
-    },
-    {
-      "id": "mkt:019efa89-50d8-7dd8-b100-342d8c656ccb",
-      "time": "2026-06-25 00:49:23",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "U.S. Energy Secretary wright said the Strait of Hormuz will take several weeks to return to normal."
-    },
-    {
-      "id": "mkt:019efa89-317d-7dd8-b100-2b7604e97ff0",
-      "time": "2026-06-25 00:49:15",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "According to the AP, a federal judge barred President Trump from enforcing a requirement that voters present proof of citizenship when voting."
-    },
-    {
-      "id": "4953213",
-      "time": "2026-06-25 00:48:50",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國國務卿魯比奧：我們希望黎巴嫩武裝部隊以及擁有合法主權的黎巴嫩政府能夠持續掌控並保衛該國越來越多的領土。"
     }
   ]
 }

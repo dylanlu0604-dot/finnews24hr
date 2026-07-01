@@ -1,7 +1,51 @@
 {
   "date": "2026-07-02",
-  "count": 68,
+  "count": 72,
   "items": [
+    {
+      "id": "4965798",
+      "time": "2026-07-02 00:48:59",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "亞特蘭大聯儲GDPNow模型對第二季度實際GDP增速的預期從2.5%下調至1.2%。"
+    },
+    {
+      "id": "4965797",
+      "time": "2026-07-02 00:48:54",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "斯泰蘭蒂斯集團（StellantisNV）6月總銷量同比增長10%‌，公司上半年在美國售出634,187輛汽車。"
+    },
+    {
+      "id": "mkt:019f1e95-1214-7aab-8c63-9cf249161f2a",
+      "time": "2026-07-02 00:48:33",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy",
+        "DXY",
+        "Impact bearish",
+        "US10Y",
+        "S&P500"
+      ],
+      "text": "Atlanta Fed GDPNow trimmed its estimate for second-quarter real GDP growth to 1.2% from 2.5%."
+    },
+    {
+      "id": "te:markets:563529",
+      "time": "2026-07-02 00:48:31",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Euro Area",
+        "Stock Market",
+        "Importance 0"
+      ],
+      "text": "European Stocks Drop from Records — European stocks eased from records on Wednesday as a fresh pullback for chip producers offset support from an improving macroeconomic backdrop. The Euro STOXX 50 dropped 0.6% to 5, and the STOXX Europe 600 fell 0.4% to 640. ASML and Infineon fell 4.6% each, tracking the AI infrastructure sector globally amid fresh uncertainty on whether the historical rally for chip producers has been overdone. Other companies with exposure to data centers and their power declined, with Siemens, Schneider, and Siemens Energy dropping between 3.1% and 1.5%. In turn, the software side rallied on respite from US hyperscaler giants. Also, banks were mostly higher as softer-than-expected inflation in the Eurozone limited expectations of another rate hike by the ECB this year. UniCredit added 0.6% and Deutsche Bank jumped 0.4%. The bloc's inflation rate fell to 2.8%, below expectations of 3%, and the core gauged fell to 2.4%."
+    },
     {
       "id": "mkt:019f1e8e-168e-7aab-8c63-93a6e388bd6e",
       "time": "2026-07-02 00:40:56",
