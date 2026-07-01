@@ -1,7 +1,160 @@
 {
   "date": "2026-07-01",
-  "count": 2751,
+  "count": 2766,
   "items": [
+    {
+      "id": "mkt:019f1da0-16d0-7aab-8c57-867b82e01fe6",
+      "time": "2026-07-01 20:20:58",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC"
+      ],
+      "text": "【6.0 magnitude earthquake offshore Iwate, Japan】Japan Meteorological Agency said a magnitude-6.0 earthquake struck offshore Iwate Prefecture at about 21:08 JST on July 1 (20:08 Beijing time). Maximum seismic intensity was shindo 4 and focal depth 40 km. JMA reported no tsunami risk."
+    },
+    {
+      "id": "mkt:019f1d9f-fbf5-7aab-8c57-795830fdc15a",
+      "time": "2026-07-01 20:20:51",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy",
+        "DXY",
+        "Impact mixed",
+        "US10Y",
+        "EURUSD"
+      ],
+      "text": "【US private sector payrolls +98,000 in June; growth uneven】ADP reported US private payrolls rose 98,000 in June; private-sector wages were up 4.4% YoY. Employment gains were uneven: financial activities and information led growth, while leisure and hospitality hiring was weak for a sixth consecutive month. ADP chief economist Nela Richardson said, \"The pace of hiring reflects both supply and demand. We know it is taking longer for people to find jobs, but some sectors show signs of labor supply tightness. For now, the net effect is slower employment growth.\""
+    },
+    {
+      "id": "4965236",
+      "time": "2026-07-01 20:20:31",
+      "tags": [
+        "國際"
+      ],
+      "text": "【ADP：美國6月份的就業增長呈現不均衡態勢】ADP首席經濟學家Nela Richardson：招聘步伐正在呈現一個關於供給與需求的雙重敘事。人們找到工作的時間正在變長，但在某些行業也出現了勞動力供給受限的跡象。目前總體影響是就業創造正在放緩。ADP報告顯示：私營僱主在6月份新增了9.8萬個就業崗位。6月份的就業增長呈現不均衡態勢，金融和資訊行業是新增崗位的主要來源，而休閒和酒店業則連續第六個月出現招聘疲軟。6月份，留職員工的薪資增長保持穩定，中位薪資增幅為4.4%；而換工作員工的同比增長率則加速至6.6%。"
+    },
+    {
+      "id": "mkt:019f1d9f-43f5-7aab-8c57-7652613045fd",
+      "time": "2026-07-01 20:20:04",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "European Council President COSTA said negotiations on Montenegro's EU accession could be completed before 2026."
+    },
+    {
+      "id": "4965235",
+      "time": "2026-07-01 20:19:48",
+      "tags": [
+        "國際"
+      ],
+      "text": "歐盟科斯塔：或於2026年完成黑山入盟談判。"
+    },
+    {
+      "id": "4965234",
+      "time": "2026-07-01 20:19:33",
+      "tags": [
+        "資料"
+      ],
+      "text": "【ADP報告重要行業就業人數、薪資變化一覽】\n6月建築業就業人數增加0.2萬人，5月增加0.8萬人。\n6月製造業就業人數增加0.5萬人，5月增加0.3萬人。\n6月貿易/運輸/公用事業就業人數增加1.5萬人，5月增加3.6萬人。\n6月金融服務業就業人數增加1.4萬人，5月增加0.7萬人。\n6月專業/商業服務就業人數增加0.2萬人，5月增加1.1萬人。\n\n6月建築業就業人員薪資增速年率中值為4.6%，5月為4.5%。\n6月製造業就業人員薪資增速年率中值為4.9%，5月為4.8%。\n6月貿易/運輸/公用事業就業人員薪資增速年率中值為4.4%，5月為4.4%。\n6月金融服務業就業人員薪資增速年率中值為5.1%，5月為5.1%。\n6月專業/商業服務就業人員薪資增速年率中值為4.1%，5月為4.1%。"
+    },
+    {
+      "id": "mkt:019f1d9e-642e-7aab-8c57-6b27259995b9",
+      "time": "2026-07-01 20:19:07",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "EURUSD",
+        "Impact bearish"
+      ],
+      "text": "ADP report: In June, pay growth for job stayers remained steady with median wage growth of 4.4% YoY; pay growth for workers who changed jobs accelerated to 6.6% YoY."
+    },
+    {
+      "id": "te:economy:563432",
+      "time": "2026-07-01 20:18:56",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "ADP Employment Change",
+        "Importance 3"
+      ],
+      "text": "US Private Sector Adds Less Jobs Than Expected — Private businesses in the US added 98K jobs in June 2026, below 122K in the previous month and forecasts of 113K. Financial activities and information were among the gainers, while leisure and hospitality delivered a sixth month of weak hiring. \"The pace of hiring is telling a story of both supply and demand. We know it's taking people longer to find work, but there also are signs of labor supply constraints in certain industries. For now, the overall effect is a slowdown in job creation\", Dr. Nela Richardson Chief Economist, ADP said"
+    },
+    {
+      "id": "te:economy:563431",
+      "time": "2026-07-01 20:18:37",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Mexico",
+        "Business Confidence",
+        "Importance 1"
+      ],
+      "text": "Mexico Manufacturing Confidence Improves in June — Business confidence in Mexico’s manufacturing sector rose by 0.5 points to 48.0 in June 2026 from May, improving modestly but remaining below the 50-point threshold for the 16th consecutive month. The assessment of the country’s current economic situation increased 0.5 points to 48.1, while expectations for the country’s future economic outlook rose 0.4 points to 51.8. The “right time to invest” component posted the strongest gain, climbing 2.3 points to 34.5. Meanwhile, firms’ assessment of their current economic situation slipped 0.6 points to 50.3, while expectations for their future business conditions edged down slightly by 0.1 point to 55.6."
+    },
+    {
+      "id": "4965233",
+      "time": "2026-07-01 20:18:36",
+      "tags": [
+        "公司"
+      ],
+      "text": "【昂利康：向特定物件發行股票申請獲深交所稽核透過】昂利康公告稱，公司於2026年7月1日收到深交所上市稽核中心出具的告知函，其向特定物件發行股票申請獲稽核透過，認為公司符合發行、上市條件和資訊披露要求，後續深交所將報中國證監會履行相關注冊程式。該事項尚需獲中國證監會同意註冊方可實施，最終能否獲批及時間存在不確定性，公司將及時披露進展。"
+    },
+    {
+      "id": "mkt:019f1d9d-ba2d-7aab-8c57-64ce40e08755",
+      "time": "2026-07-01 20:18:23",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish",
+        "S&P500"
+      ],
+      "text": "U.S. Treasury yields slightly pulled back after the ADP employment report; the 10-year Treasury yield was last up 6.31 bps at 4.485%."
+    },
+    {
+      "id": "4965232",
+      "time": "2026-07-01 20:18:17",
+      "tags": [
+        "其他"
+      ],
+      "text": "ADP報告：5月新增就業總數持平於12.2萬。"
+    },
+    {
+      "id": "4965231",
+      "time": "2026-07-01 20:18:04",
+      "tags": [
+        "國際"
+      ],
+      "text": "【Challenger報告：美國僱主6月宣佈的裁員人數同比下降4.5%】Challenger, Gray & Christmas報告稱，美國僱主6月宣佈的裁員人數為45,849人，今年迄今累計443,604人。這是12月以來最低的月度數字。美國東部地區宣佈的裁員人數為18831人；中西部地區7520人；西部地區11678人；南部地區7820人。"
+    },
+    {
+      "id": "4965230",
+      "time": "2026-07-01 20:17:53",
+      "tags": [
+        "市場"
+      ],
+      "text": "現貨黃金在ADP資料公佈後小幅擴大漲幅，最新上漲0.5%，報每盎司4025美元。"
+    },
+    {
+      "id": "mkt:019f1d9d-1bb9-7aab-8c57-5d34d7fcd8da",
+      "time": "2026-07-01 20:17:43",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "US Economy"
+      ],
+      "text": "ADP report: U.S. private employers added 98k jobs in June. Gains were uneven—financials and information led hiring, while leisure and hospitality recorded weak hiring for a sixth consecutive month."
+    },
     {
       "id": "4965229",
       "time": "2026-07-01 20:16:47",

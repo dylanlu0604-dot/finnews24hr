@@ -1,7 +1,160 @@
 {
-  "updated": "2026-07-01 20:18:07",
-  "count": 13941,
+  "updated": "2026-07-01 20:22:13",
+  "count": 13940,
   "items": [
+    {
+      "id": "mkt:019f1da0-16d0-7aab-8c57-867b82e01fe6",
+      "time": "2026-07-01 20:20:58",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC"
+      ],
+      "text": "【6.0 magnitude earthquake offshore Iwate, Japan】Japan Meteorological Agency said a magnitude-6.0 earthquake struck offshore Iwate Prefecture at about 21:08 JST on July 1 (20:08 Beijing time). Maximum seismic intensity was shindo 4 and focal depth 40 km. JMA reported no tsunami risk."
+    },
+    {
+      "id": "mkt:019f1d9f-fbf5-7aab-8c57-795830fdc15a",
+      "time": "2026-07-01 20:20:51",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy",
+        "DXY",
+        "Impact mixed",
+        "US10Y",
+        "EURUSD"
+      ],
+      "text": "【US private sector payrolls +98,000 in June; growth uneven】ADP reported US private payrolls rose 98,000 in June; private-sector wages were up 4.4% YoY. Employment gains were uneven: financial activities and information led growth, while leisure and hospitality hiring was weak for a sixth consecutive month. ADP chief economist Nela Richardson said, \"The pace of hiring reflects both supply and demand. We know it is taking longer for people to find jobs, but some sectors show signs of labor supply tightness. For now, the net effect is slower employment growth.\""
+    },
+    {
+      "id": "4965236",
+      "time": "2026-07-01 20:20:31",
+      "tags": [
+        "國際"
+      ],
+      "text": "【ADP：美國6月份的就業增長呈現不均衡態勢】ADP首席經濟學家Nela Richardson：招聘步伐正在呈現一個關於供給與需求的雙重敘事。人們找到工作的時間正在變長，但在某些行業也出現了勞動力供給受限的跡象。目前總體影響是就業創造正在放緩。ADP報告顯示：私營僱主在6月份新增了9.8萬個就業崗位。6月份的就業增長呈現不均衡態勢，金融和資訊行業是新增崗位的主要來源，而休閒和酒店業則連續第六個月出現招聘疲軟。6月份，留職員工的薪資增長保持穩定，中位薪資增幅為4.4%；而換工作員工的同比增長率則加速至6.6%。"
+    },
+    {
+      "id": "mkt:019f1d9f-43f5-7aab-8c57-7652613045fd",
+      "time": "2026-07-01 20:20:04",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "European Council President COSTA said negotiations on Montenegro's EU accession could be completed before 2026."
+    },
+    {
+      "id": "4965235",
+      "time": "2026-07-01 20:19:48",
+      "tags": [
+        "國際"
+      ],
+      "text": "歐盟科斯塔：或於2026年完成黑山入盟談判。"
+    },
+    {
+      "id": "4965234",
+      "time": "2026-07-01 20:19:33",
+      "tags": [
+        "資料"
+      ],
+      "text": "【ADP報告重要行業就業人數、薪資變化一覽】\n6月建築業就業人數增加0.2萬人，5月增加0.8萬人。\n6月製造業就業人數增加0.5萬人，5月增加0.3萬人。\n6月貿易/運輸/公用事業就業人數增加1.5萬人，5月增加3.6萬人。\n6月金融服務業就業人數增加1.4萬人，5月增加0.7萬人。\n6月專業/商業服務就業人數增加0.2萬人，5月增加1.1萬人。\n\n6月建築業就業人員薪資增速年率中值為4.6%，5月為4.5%。\n6月製造業就業人員薪資增速年率中值為4.9%，5月為4.8%。\n6月貿易/運輸/公用事業就業人員薪資增速年率中值為4.4%，5月為4.4%。\n6月金融服務業就業人員薪資增速年率中值為5.1%，5月為5.1%。\n6月專業/商業服務就業人員薪資增速年率中值為4.1%，5月為4.1%。"
+    },
+    {
+      "id": "mkt:019f1d9e-642e-7aab-8c57-6b27259995b9",
+      "time": "2026-07-01 20:19:07",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "EURUSD",
+        "Impact bearish"
+      ],
+      "text": "ADP report: In June, pay growth for job stayers remained steady with median wage growth of 4.4% YoY; pay growth for workers who changed jobs accelerated to 6.6% YoY."
+    },
+    {
+      "id": "te:economy:563432",
+      "time": "2026-07-01 20:18:56",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "ADP Employment Change",
+        "Importance 3"
+      ],
+      "text": "US Private Sector Adds Less Jobs Than Expected — Private businesses in the US added 98K jobs in June 2026, below 122K in the previous month and forecasts of 113K. Financial activities and information were among the gainers, while leisure and hospitality delivered a sixth month of weak hiring. \"The pace of hiring is telling a story of both supply and demand. We know it's taking people longer to find work, but there also are signs of labor supply constraints in certain industries. For now, the overall effect is a slowdown in job creation\", Dr. Nela Richardson Chief Economist, ADP said"
+    },
+    {
+      "id": "te:economy:563431",
+      "time": "2026-07-01 20:18:37",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Mexico",
+        "Business Confidence",
+        "Importance 1"
+      ],
+      "text": "Mexico Manufacturing Confidence Improves in June — Business confidence in Mexico’s manufacturing sector rose by 0.5 points to 48.0 in June 2026 from May, improving modestly but remaining below the 50-point threshold for the 16th consecutive month. The assessment of the country’s current economic situation increased 0.5 points to 48.1, while expectations for the country’s future economic outlook rose 0.4 points to 51.8. The “right time to invest” component posted the strongest gain, climbing 2.3 points to 34.5. Meanwhile, firms’ assessment of their current economic situation slipped 0.6 points to 50.3, while expectations for their future business conditions edged down slightly by 0.1 point to 55.6."
+    },
+    {
+      "id": "4965233",
+      "time": "2026-07-01 20:18:36",
+      "tags": [
+        "公司"
+      ],
+      "text": "【昂利康：向特定物件發行股票申請獲深交所稽核透過】昂利康公告稱，公司於2026年7月1日收到深交所上市稽核中心出具的告知函，其向特定物件發行股票申請獲稽核透過，認為公司符合發行、上市條件和資訊披露要求，後續深交所將報中國證監會履行相關注冊程式。該事項尚需獲中國證監會同意註冊方可實施，最終能否獲批及時間存在不確定性，公司將及時披露進展。"
+    },
+    {
+      "id": "mkt:019f1d9d-ba2d-7aab-8c57-64ce40e08755",
+      "time": "2026-07-01 20:18:23",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish",
+        "S&P500"
+      ],
+      "text": "U.S. Treasury yields slightly pulled back after the ADP employment report; the 10-year Treasury yield was last up 6.31 bps at 4.485%."
+    },
+    {
+      "id": "4965232",
+      "time": "2026-07-01 20:18:17",
+      "tags": [
+        "其他"
+      ],
+      "text": "ADP報告：5月新增就業總數持平於12.2萬。"
+    },
+    {
+      "id": "4965231",
+      "time": "2026-07-01 20:18:04",
+      "tags": [
+        "國際"
+      ],
+      "text": "【Challenger報告：美國僱主6月宣佈的裁員人數同比下降4.5%】Challenger, Gray & Christmas報告稱，美國僱主6月宣佈的裁員人數為45,849人，今年迄今累計443,604人。這是12月以來最低的月度數字。美國東部地區宣佈的裁員人數為18831人；中西部地區7520人；西部地區11678人；南部地區7820人。"
+    },
+    {
+      "id": "4965230",
+      "time": "2026-07-01 20:17:53",
+      "tags": [
+        "市場"
+      ],
+      "text": "現貨黃金在ADP資料公佈後小幅擴大漲幅，最新上漲0.5%，報每盎司4025美元。"
+    },
+    {
+      "id": "mkt:019f1d9d-1bb9-7aab-8c57-5d34d7fcd8da",
+      "time": "2026-07-01 20:17:43",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "US Economy"
+      ],
+      "text": "ADP report: U.S. private employers added 98k jobs in June. Gains were uneven—financials and information led hiring, while leisure and hospitality recorded weak hiring for a sixth consecutive month."
+    },
     {
       "id": "4965229",
       "time": "2026-07-01 20:16:47",
@@ -128252,153 +128405,6 @@
         "MKT News"
       ],
       "text": "AFP reports Qatari PM held talks in Oman with Iran and Gulf states on the Strait of Hormuz."
-    },
-    {
-      "id": "4952784",
-      "time": "2026-06-24 20:22:00",
-      "tags": [
-        "國際"
-      ],
-      "text": "【皮尤民調：全球對特朗普及美國的信任度下降】皮尤研究中心週二釋出的一項最新調查顯示，全球對美國總統特朗普領導能力的信心依然低迷，而對美國作為可靠夥伴的看法也持續下降。這項調查於2026年2月至5月期間進行，涵蓋36個國家的42151名成年人。平均而言，只有23%的成年人表示他們相信特朗普會在國際事務中做出正確的決定，而約三分之二的人表示幾乎沒有信心或完全沒有信心。在24個有相關趨勢資料的國家中，有16個國家的信心下降，沒有一個國家的信心有所改善。與此同時，人們對美國本身的看法仍然普遍負面。在36個國家中，只有37%的人對美國持好感，而57%的人持負面看法。"
-    },
-    {
-      "id": "4952783",
-      "time": "2026-06-24 20:21:46",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "卡達首相到訪阿曼，就霍爾木茲海峽局勢斡旋伊朗與海灣國家開展會談。"
-    },
-    {
-      "id": "4952782",
-      "time": "2026-06-24 20:21:36",
-      "tags": [
-        "市場"
-      ],
-      "text": "【機構：未來英國財政大臣人選料將驅動英國國債和英鎊走勢】MillTech的Nick Wood在一份報告中表示，英國投資者急切想知道誰將被任命為財政大臣，因為在本週基爾·斯塔默辭去首相職務後，現任財政大臣蕾切爾·裡夫斯很可能被替換。“對於市場信心而言，財政大臣的人選可能與新首相一樣重要，”他說。投資者急切想了解新領導團隊的經濟政策。鑑於尚未出現其他競爭者，首相職位的熱門人選安迪·伯納姆似乎越來越有可能在沒有競爭對手的情況下被任命為該領導職位。"
-    },
-    {
-      "id": "mkt:019ef993-f315-7dd8-b0f9-38c78843649b",
-      "time": "2026-06-24 20:21:23",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Pew poll: Global confidence in Trump, US falls】A Pew Research Center poll conducted Feb–May 2026 across 36 countries and 42,151 adults found average global confidence in President Trump’s international decision-making at 23%. Roughly two-thirds of respondents said they had little or no confidence. Of 24 countries with trend data, confidence declined in 16 and rose in none. Overall favorability toward the United States averaged 37% positive versus 57% negative."
-    },
-    {
-      "id": "mkt:019ef993-d9db-7dd8-b0f9-362de0b134bf",
-      "time": "2026-06-24 20:21:16",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Energy",
-        "Brent",
-        "Impact bearish"
-      ],
-      "text": "Brent crude fell 3.00% intraday to $74.43/bbl."
-    },
-    {
-      "id": "mkt:019ef993-b03e-7dd8-b0f9-2c34ba442974",
-      "time": "2026-06-24 20:21:06",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Iranian parliament speaker Ghalibaf said he held a meeting with the president of Azerbaijan in Baku."
-    },
-    {
-      "id": "te:markets:561525",
-      "time": "2026-06-24 20:21:02",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "commodity",
-        "Importance 0"
-      ],
-      "text": "Platinum Hits 30-week Low — Platinum decreased to 1593.00 USD/t.oz, the lowest since November 2025. Over the past 4 weeks, Platinum lost 18.28%, and in the last 12 months, it increased 17.9%."
-    },
-    {
-      "id": "4952781",
-      "time": "2026-06-24 20:20:45",
-      "tags": [
-        "宏觀",
-        "焦點",
-        "國際"
-      ],
-      "text": "【李強出席2026年夏季達沃斯論壇工商界代表座談會】6月24日下午，國務院總理李強在大連出席2026年夏季達沃斯論壇工商界代表座談會。\n在聽取與會工商界代表發言後，李強指出，近些年，國際社會日益認識到貿易戰、關稅戰沒有贏家，越來越多國家更加積極推進經貿往來，向著互利共贏的正道迴歸。這充分反映，開放合作是不可逆轉的時代潮流，也是各國擴大發展空間的內在需要。無論外部環境如何變化，中國始終遵循開放合作的歷史大勢，將繼續深度參與國際貿易、投資等合作，推動中國市場與世界市場聯通融合。中國出口的優質產品對世界經濟是重要貢獻，有利於提升進口國的經濟效益和居民福利。我們從不刻意追求貿易順差，一直在與世界分享國內市場，願進口各國更多優質產品，同各方透過做大貿易蛋糕的方式，推動貿易最佳化平衡發展。中國的產業競爭力不是靠補貼補出來的，而是來自於自身完備產業體系、超大規模市場、良好創新生態形成的綜合優勢，來自於企業長期不懈的拼搏、投入。中國的產業補貼嚴格遵守世貿組織規則，是公平、普惠的，堅持對內外資企業一視同仁。希望在座企業家向國際社會傳遞更多理性聲音，為世界經貿合作注入更多正能量。\n李強表示，這些年，中國經濟向新向優發展，將為各國企業帶來更多新機遇。中國市場的煥新升級將創造更為豐富的增量空間，特別是在龐大體量上需求層次的多元拓展，是各國企業不容錯過的寶貴機會。中國製造的煥新升級將形成更為高效的產業生態，為各國企業新產品提供定製化落地的解決方案，幫助企業快速提高發展能級。中國基建的煥新升級將提供更為優越的綜合條件，透過傳統基建的數智化提升、新基建的網路化佈局，助力各國企業在創新發展中領先一步，同時也提供大量投資機會。\n李強表示，中國政府將竭盡所能為各國企業做好服務，營造更加開放、公平、友好的環境。我們將持續擴大服務業開放範圍與程度，拿出更多務實行動，全面落實外資企業國民待遇，更好了解和回應各國企業訴求，幫助解決實際困難，讓大家在中國安心經營、舒心工作，創造良好業績。（新華社）"
-    },
-    {
-      "id": "4952780",
-      "time": "2026-06-24 20:20:32",
-      "tags": [
-        "公司"
-      ],
-      "text": "【世航智慧創始人陳曉博：中國是世界第一航運大國，50米下海洋作業卻近乎“空白”】在哈爾濱工程大學2026屆畢業典禮暨學位授予儀式上，世航智慧創始人、董事長陳曉博作為傑出校友代表登臺致辭，分享了自己從哈工程實驗室走向萬米深海的19年曆程。致辭中，陳曉博提及自己從電子設計起步，打造了真正能上天入海的機器人。據他介紹，大二期間，自己獨立研發的第一臺水下清潔機器人，成功下水。大三那年，他同時拿下中國機器人大賽空中和水下賽道雙冠軍。碩博時期，他參與了諸多國家科研專案，並於28歲獲得國防科技進步一等獎。從地下室裡的第一臺機器人，到國家級獎項最年輕獲得者，陳曉博在哈工程完成了從興趣到專業的蛻變。但在科研體系裡待得越久，他心裡的感觸越強烈：中國是世界第一航運大國，淺水作業卻常靠潛水員冒生命危險完成，50米以下的海洋作業更是幾乎空白。從資源探索的角度，海洋佔地球70%以上，人類的開發卻不足5%，從0米到海下10000米，都需去探索。“實驗室裡那麼多頂尖技術，不能止步於論文和報告，要真正走進大海、服務產業。”2023年，陳曉博創立了世航智慧，專注海洋通用機器人研發。很多人不理解：放著安穩科研坦途不走，為什麼要去吃創業的苦？陳曉博的回答是：“要把技術轉化成真正的海洋超級生產力。”如今，世航智慧已成為全球首個海洋機器人百億獨角獸，產品具備0-10000米全海深作業能力，擁有超400項智慧財產權。其“虎鯨”機器人作業效率達人工70倍，已應用於全球成千上萬艘船舶；2026年上半年，公司訂單突破10億元，並於6月完成超10億元A輪融資。“國之所需，就是心之所向，更是業之所往。”陳曉博勉勵臺下學子們，不要怕領域小眾，不要怕路途艱苦。“哈工程人最幸運的地方，就是專業方向天然和國家戰略同頻——船舶、海洋、半導體、核能、人工智慧，每一個都是國運所繫的賽道。”他說。（新浪科技）"
-    },
-    {
-      "id": "4952779",
-      "time": "2026-06-24 20:20:07",
-      "tags": [
-        "其他"
-      ],
-      "text": "伊斯蘭議會議長在巴庫會見亞塞拜然總統。"
-    },
-    {
-      "id": "mkt:019ef992-c226-7dd8-b0f9-201892ae99b1",
-      "time": "2026-06-24 20:20:05",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Macro & Rates",
-        "DXY"
-      ],
-      "text": "U.S. Q1 current account balance due for release in 10 minutes."
-    },
-    {
-      "id": "mkt:019ef992-9aae-7dd8-b0f9-18b16c96952d",
-      "time": "2026-06-24 20:19:55",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bearish"
-      ],
-      "text": "WTI crude oil fell 3.0% intraday to $71.45/bbl."
-    },
-    {
-      "id": "4952778",
-      "time": "2026-06-24 20:19:34",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國財長貝森特稱自己曾經專門做“反向交易”。"
-    },
-    {
-      "id": "4952777",
-      "time": "2026-06-24 20:19:31",
-      "tags": [
-        "市場"
-      ],
-      "text": "布倫特原油日內跌3%，現報74.47美元/桶。"
-    },
-    {
-      "id": "mkt:019ef991-718d-7dd8-b0f9-150f1f46954b",
-      "time": "2026-06-24 20:18:38",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Morocco and Chile have opened free-trade negotiations."
-    },
-    {
-      "id": "4952776",
-      "time": "2026-06-24 20:18:21",
-      "tags": [
-        "其他"
-      ],
-      "text": "摩洛哥與智利啟動自由貿易談判。"
     }
   ]
 }
