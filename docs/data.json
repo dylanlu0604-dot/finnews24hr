@@ -1,7 +1,95 @@
 {
-  "updated": "2026-07-01 13:30:31",
-  "count": 13905,
+  "updated": "2026-07-01 13:34:31",
+  "count": 13903,
   "items": [
+    {
+      "id": "4964268",
+      "time": "2026-07-01 13:33:40",
+      "tags": [
+        "公司"
+      ],
+      "text": "【算力晶片概念震盪調整 寒武紀等多股跌超5%】午後算力晶片概念震盪調整，寒武紀、芯原股份、摩爾執行緒、沐曦股份均跌超5%，海光資訊、翱捷科技、東芯股份、中國長城等跟跌。"
+    },
+    {
+      "id": "4964267",
+      "time": "2026-07-01 13:33:38",
+      "tags": [
+        "其他"
+      ],
+      "text": "【報告顯示2026年5月全球大尺寸液晶電視面板的出貨量同比增長2.2%】根據洛圖科技報告顯示，2026年5月，全球大尺寸液晶電視面板的出貨量為19.8M片，同比增長2.2%，環比4月微降0.3%；出貨面積為15.0M平方米，同比增長4.7%，環比微降0.7%。"
+    },
+    {
+      "id": "mkt:019f1c29-7c89-7aab-8c4c-1c5c779c7b5e",
+      "time": "2026-07-01 13:31:48",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "Container shipping index (Europe route) 2608 saw heightened volatility after the midday open; last 2,552.5 points, down 10.08% intraday."
+    },
+    {
+      "id": "4964266",
+      "time": "2026-07-01 13:31:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "富時中國A50指數期貨下跌1%。"
+    },
+    {
+      "id": "mkt:019f1c28-b0da-7aab-8c4c-17f6fc324451",
+      "time": "2026-07-01 13:30:56",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities"
+      ],
+      "text": "Polysilicon most-active contract rose 4.00% intraday to 36,600 yuan/ton."
+    },
+    {
+      "id": "mkt:019f1c28-646a-7aab-8c4c-0eff27575573",
+      "time": "2026-07-01 13:30:36",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish",
+        "SSE Composite"
+      ],
+      "text": "Mainland A-share brokerage sector extended gains in the afternoon; Changjiang Securities and China Merchants Securities hit the daily limit, Tianfeng Securities and Guosheng Securities were earlier at limit-up, and GF Securities and Caitong Securities rose."
+    },
+    {
+      "id": "4964265",
+      "time": "2026-07-01 13:30:25",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "多晶矽連續主力合約日內漲4%，現報36600.00元。"
+    },
+    {
+      "id": "4964264",
+      "time": "2026-07-01 13:30:15",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "集運指數歐線期貨連續主力合約日內跌10%，現報2553.00點。"
+    },
+    {
+      "id": "te:markets:563275",
+      "time": "2026-07-01 13:30:06",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Crypto",
+        "Importance 1"
+      ],
+      "text": "Crypto Updates: Ether Appreciates by 1.44% — Today's cryptos market is characterized by modest daily movements, with Ether standing out as the frontrunner with a 1.44% increase."
+    },
     {
       "id": "mkt:019f1c26-f9f7-7aab-8c4c-05204ba0b846",
       "time": "2026-07-01 13:29:04",
@@ -127751,109 +127839,6 @@
         "市場"
       ],
       "text": "港股騰訊控股快速拉昇漲超4.5%，報434港元。"
-    },
-    {
-      "id": "mkt:019ef81f-28e7-7dd8-b0ec-ef1ed616cd5b",
-      "time": "2026-06-24 13:34:12",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【GCL Group to start dynamic operational testing of perovskite cells; says efficiency rivals triple‑junction GaAs】GCL Group said on its official Weibo its perovskite solar cells will undergo dynamic operational testing at the upcoming Wuxi commercial aerospace industry conference. The company claims efficiencies comparable with triple‑junction gallium arsenide (GaAs) and says the work could provide a viable path for space power applications, addressing aerospace energy challenges."
-    },
-    {
-      "id": "mkt:019ef81e-e110-7dd8-b0ec-e6567254fdb4",
-      "time": "2026-06-24 13:33:53",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "Chip Wars",
-        "005930.KS",
-        "Impact bearish",
-        "000660.KS"
-      ],
-      "text": "【Analyst: Leveraged ETFs forced to sell $6bn of Korean chip stocks Tuesday, amplifying losses】Analysts say single-stock leveraged ETFs tracking Samsung Electronics and SK Hynix were forced on Tuesday to sell about $6bn of shares to restore target leverage, with those sales amounting to roughly 14% of each stock’s daily turnover. Both names tumbled about 13%, driving the KOSPI to its largest one-day drop since the Iran war outbreak; the two firms together account for more than 55% of the index’s weight. Bloomberg ETF analyst Rebecca Sin said: \"Yesterday's decline was not a market rebound. The selling pressure stemmed from mechanical rebalancing by these products to reset their daily 2x weights, which amplified falls in stocks that already make up half the index.\""
-    },
-    {
-      "id": "mkt:019ef81e-d912-7dd8-b0ec-dfa4313d5a6a",
-      "time": "2026-06-24 13:33:51",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "CSI300",
-        "Impact bullish"
-      ],
-      "text": "A-share copper cable and high-speed connector names continued to rebound; Hangjin Technology hit the daily limit, Zhongfu Circuit rose over 11%, Shenglan Co. climbed over 10%, Yihua Co. gained over 8% and Yidong Electronics gained over 7%."
-    },
-    {
-      "id": "4951819",
-      "time": "2026-06-24 13:33:12",
-      "tags": [
-        "公司"
-      ],
-      "text": "【協鑫集團：即將開展鈣鈦礦電池動態服役實驗 破解空天能源難題】協鑫集團今日官微訊息，無錫商業航天產業大會即將舉行，即將開展鈣鈦礦電池動態服役實驗，效率比肩三結砷化鎵，為空間能源場景提供可行路徑，破解空天能源難題。"
-    },
-    {
-      "id": "4951818",
-      "time": "2026-06-24 13:32:57",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗石油部長帕克內賈德赴印度出席金磚國家能源部長會議。"
-    },
-    {
-      "id": "4951817",
-      "time": "2026-06-24 13:32:45",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【算力晶片概念持續走強 航錦科技等多股漲停】午後算力晶片概念持續走強，航錦科技封漲停，此前萬通發展、盛視科技漲停，中科藍訊、中國長城、艾布魯、芯原股份、雲天勵飛漲幅靠前。"
-    },
-    {
-      "id": "4951816",
-      "time": "2026-06-24 13:32:38",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【港股科網股午後走強 騰訊控股漲3%】截至發稿，騰訊控股(00700.HK)漲超3%，百度集團-SW(09888.HK)漲2%，阿里巴巴-W(09988.HK)漲1%。訊息面上，微信AI助手“小微”近日已啟動灰度測試。"
-    },
-    {
-      "id": "4951815",
-      "time": "2026-06-24 13:30:47",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "印度盧比在跌破94.90後回升，兌美元報94.64。"
-    },
-    {
-      "id": "4951814",
-      "time": "2026-06-24 13:30:36",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "交易員稱，印度央行可能透過國有銀行賣出美元以支撐盧比。"
-    },
-    {
-      "id": "mkt:019ef81b-daf6-7dd8-b0ec-d550dac57db0",
-      "time": "2026-06-24 13:30:35",
-      "tags": [
-        "MKT News",
-        "DXY",
-        "Impact bearish"
-      ],
-      "text": "Traders say the Reserve Bank of India may be conducting USD/INR buy-and-sell swap trades alongside spot-market intervention."
-    },
-    {
-      "id": "4951813",
-      "time": "2026-06-24 13:30:31",
-      "tags": [
-        "市場"
-      ],
-      "text": "美元/盧比遠期溢價下跌；1年期下滑10個基點至2.82%。"
     }
   ]
 }

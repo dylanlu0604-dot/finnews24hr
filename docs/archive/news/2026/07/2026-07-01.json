@@ -1,7 +1,95 @@
 {
   "date": "2026-07-01",
-  "count": 1344,
+  "count": 1353,
   "items": [
+    {
+      "id": "4964268",
+      "time": "2026-07-01 13:33:40",
+      "tags": [
+        "公司"
+      ],
+      "text": "【算力晶片概念震盪調整 寒武紀等多股跌超5%】午後算力晶片概念震盪調整，寒武紀、芯原股份、摩爾執行緒、沐曦股份均跌超5%，海光資訊、翱捷科技、東芯股份、中國長城等跟跌。"
+    },
+    {
+      "id": "4964267",
+      "time": "2026-07-01 13:33:38",
+      "tags": [
+        "其他"
+      ],
+      "text": "【報告顯示2026年5月全球大尺寸液晶電視面板的出貨量同比增長2.2%】根據洛圖科技報告顯示，2026年5月，全球大尺寸液晶電視面板的出貨量為19.8M片，同比增長2.2%，環比4月微降0.3%；出貨面積為15.0M平方米，同比增長4.7%，環比微降0.7%。"
+    },
+    {
+      "id": "mkt:019f1c29-7c89-7aab-8c4c-1c5c779c7b5e",
+      "time": "2026-07-01 13:31:48",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "Container shipping index (Europe route) 2608 saw heightened volatility after the midday open; last 2,552.5 points, down 10.08% intraday."
+    },
+    {
+      "id": "4964266",
+      "time": "2026-07-01 13:31:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "富時中國A50指數期貨下跌1%。"
+    },
+    {
+      "id": "mkt:019f1c28-b0da-7aab-8c4c-17f6fc324451",
+      "time": "2026-07-01 13:30:56",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities"
+      ],
+      "text": "Polysilicon most-active contract rose 4.00% intraday to 36,600 yuan/ton."
+    },
+    {
+      "id": "mkt:019f1c28-646a-7aab-8c4c-0eff27575573",
+      "time": "2026-07-01 13:30:36",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish",
+        "SSE Composite"
+      ],
+      "text": "Mainland A-share brokerage sector extended gains in the afternoon; Changjiang Securities and China Merchants Securities hit the daily limit, Tianfeng Securities and Guosheng Securities were earlier at limit-up, and GF Securities and Caitong Securities rose."
+    },
+    {
+      "id": "4964265",
+      "time": "2026-07-01 13:30:25",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "多晶矽連續主力合約日內漲4%，現報36600.00元。"
+    },
+    {
+      "id": "4964264",
+      "time": "2026-07-01 13:30:15",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "集運指數歐線期貨連續主力合約日內跌10%，現報2553.00點。"
+    },
+    {
+      "id": "te:markets:563275",
+      "time": "2026-07-01 13:30:06",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Crypto",
+        "Importance 1"
+      ],
+      "text": "Crypto Updates: Ether Appreciates by 1.44% — Today's cryptos market is characterized by modest daily movements, with Ether standing out as the frontrunner with a 1.44% increase."
+    },
     {
       "id": "mkt:019f1c26-f9f7-7aab-8c4c-05204ba0b846",
       "time": "2026-07-01 13:29:04",
