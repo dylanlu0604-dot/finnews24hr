@@ -1,7 +1,99 @@
 {
-  "updated": "2026-07-02 06:38:35",
-  "count": 14026,
+  "updated": "2026-07-02 06:47:05",
+  "count": 14028,
   "items": [
+    {
+      "id": "4965988",
+      "time": "2026-07-02 06:45:33",
+      "tags": [
+        "其他"
+      ],
+      "text": "紐西蘭房屋建造審批數量或將環比下降4%。"
+    },
+    {
+      "id": "mkt:019f1fdb-dab9-7aab-8c66-dc4c166bd105",
+      "time": "2026-07-02 06:45:29",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "New Zealand May building consents YoY 20.6%; prior 52.7%."
+    },
+    {
+      "id": "mkt:019f1fdb-bc49-7aab-8c66-d7fc7ceaf397",
+      "time": "2026-07-02 06:45:22",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "New Zealand | Building Permits (YoY) (May) | actual 20.6% | previous 52.7%"
+    },
+    {
+      "id": "te:markets:563546",
+      "time": "2026-07-02 06:45:11",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Crypto",
+        "Importance 1"
+      ],
+      "text": "Crypto Updates: Ether Appreciates by 3.42% — Top crypto gainers are Ether (3.42%), Bitcoin (3.19%) and Binance (1.50%)."
+    },
+    {
+      "id": "mkt:019f1fdb-8ee6-7aab-8c66-cb96e18caeb6",
+      "time": "2026-07-02 06:45:09",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "New Zealand building consents May MoM -4.0%; prior revised from 10.90% to 11.1%."
+    },
+    {
+      "id": "mkt:019f1fdb-69be-7aab-8c66-c0416c206a79",
+      "time": "2026-07-02 06:45:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "New Zealand | Building Permits (MoM) (May) | actual -4% | previous 10.90%"
+    },
+    {
+      "id": "4965987",
+      "time": "2026-07-02 06:43:12",
+      "tags": [
+        "兩會"
+      ],
+      "text": "【港澳舉行活動慶祝中國共產黨成立105週年】香港特別行政區政府和中央人民政府駐香港特別行政區聯絡辦公室，聯合舉辦慶祝中國共產黨成立105週年活動啟動儀式7月1日在香港會議展覽中心舉行。全國政協副主席梁振英、香港特別行政區行政長官李家超、中央駐港機構負責人、港區全國人大代表、全國政協委員等各界嘉賓共同出席當天活動。（央視新聞）"
+    },
+    {
+      "id": "4965986",
+      "time": "2026-07-02 06:42:49",
+      "tags": [
+        "國際"
+      ],
+      "text": "土耳其與吉爾吉斯斯坦在安卡拉簽署2027至2028年度兩國外交部合作綱要。"
+    },
+    {
+      "id": "4965985",
+      "time": "2026-07-02 06:40:51",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場資訊：德國執政聯盟就全面改革議程達成共識。"
+    },
+    {
+      "id": "te:markets:563545",
+      "time": "2026-07-02 06:40:11",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Agricultural Commodities Updates: Coffee Surges by 6.08% — Top commodity gainers are Coffee (6.08%) and Oat (2.37%)."
+    },
     {
       "id": "4965984",
       "time": "2026-07-02 06:36:01",
@@ -129105,87 +129197,6 @@
         "國際"
       ],
       "text": "【阿里巴巴證實：已起訴美國防部】多家外媒23日報道稱，阿里巴巴起訴美國國防部，要求將其從“中國軍事企業名單”中移除。24日，阿里巴巴向《環球時報》記者證實了上述訊息。阿里巴巴在宣告中表示：“我們已正式對美國國防部提起訴訟，要求將公司從‘中國軍事企業名單’中移除。”阿里巴巴強調，公司並非中國軍工企業，亦未參與任何“軍民融合”戰略。將阿里巴巴列入名單的決定毫無事實依據，武斷且反覆無常。"
-    },
-    {
-      "id": "mkt:019efbd0-a8d0-7dd8-b106-4db2ecd51e0e",
-      "time": "2026-06-25 06:46:56",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Alibaba",
-        "BABA.N",
-        "Impact bullish"
-      ],
-      "text": "【Alibaba confirms lawsuit against Pentagon over US 'Chinese military companies' list】Alibaba confirmed it has filed suit against the Pentagon seeking removal from the US list of Chinese military companies. The company said it is not a Chinese defense contractor, has not participated in military-civil fusion, and called the designation baseless, arbitrary and inconsistent."
-    },
-    {
-      "id": "4953576",
-      "time": "2026-06-25 06:45:37",
-      "tags": [
-        "市場",
-        "央行",
-        "國際"
-      ],
-      "text": "【對沖基金持續加大美國國債敞口 美聯儲稱基差交易是主要推手】美聯儲表示，對沖基金對美國國債敞口不斷增加，主要是由於現貨-期貨基差交易的復甦。由首席經濟學家Phillip Monin撰寫的報告表示，截至去年9月，這種高槓杆交易已在對沖基金所持美國國債多頭頭寸中佔8300億美元，約為2020年初上一峰值的兩倍。其在對沖基金國債多頭總敞口中佔比35%。在對沖基金的美債多頭頭寸中，互換利差和期限匹配交易等套利策略佔據主導地位。報告稱，基差交易涉及做空國債期貨合約，同時做多以回購融資方式購買的、可交割到期貨的國債。"
-    },
-    {
-      "id": "te:markets:561651",
-      "time": "2026-06-25 06:45:17",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Crypto",
-        "Importance 1"
-      ],
-      "text": "Crypto Updates: Ether Depreciates by 3.05% — Top crypto losers are Ether (-3.05%), Bitcoin (-2.93%) and Binance (-2.38%)."
-    },
-    {
-      "id": "mkt:019efbcb-a29e-7dd8-b106-443b182eab4a",
-      "time": "2026-06-25 06:41:27",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "NHK reported that no tsunami warning was issued after an earthquake in Japan."
-    },
-    {
-      "id": "te:markets:561650",
-      "time": "2026-06-25 06:40:17",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Agricultural Commodities Updates: Cocoa Rallies by 7.21% — Top commodity gainers are Cocoa (7.21%) and Coffee (0.62%). Biggest losers are Oat (-6.37%) and Cotton (-3.23%)."
-    },
-    {
-      "id": "mkt:019efbc9-ea81-7dd8-b106-3e2eb1d41df1",
-      "time": "2026-06-25 06:39:34",
-      "tags": [
-        "MKT News",
-        "USDJPY",
-        "Impact bearish",
-        "XAUUSD",
-        "Impact bullish",
-        "Nikkei 225"
-      ],
-      "text": "【6.9-magnitude quake offshore Iwate Prefecture】Around 07:30 Tokyo time on the 25th, a magnitude-6.9 earthquake struck offshore Iwate Prefecture; the Japan Meteorological Agency reported a maximum seismic intensity of JMA 6-upper. Strong shaking was felt in Tokyo."
-    },
-    {
-      "id": "4953575",
-      "time": "2026-06-25 06:39:33",
-      "tags": [
-        "公司"
-      ],
-      "text": "【A股公司年度“紅包”派發進行時，“雙創”板塊成現金分紅硬核力量】截至6月23日（按派息日計），今年已有2379家上市公司實施了2025年年度現金分紅，合計派發現金紅利7087.55億元。其中，工商銀行以601.97億元的分紅金額居首，中國移動、農業銀行、中國平安緊隨其後，分紅金額均超過300億元。從行業分佈來看，除銀行、證券等金融板塊外，通訊、電力裝置、醫藥生物、電子等行業已發放的分紅金額位居前列。值得注意的是，一批來自創業板、科創板的硬核科技企業正步入業績收穫期，並以持續高分紅回饋耐心陪跑的投資者。（上證報）"
-    },
-    {
-      "id": "4953574",
-      "time": "2026-06-25 06:39:20",
-      "tags": [
-        "國際"
-      ],
-      "text": "【日本巖手縣近海發生6.9級地震】東京時間25日早上7時30分左右，巖手縣近海發生里氏6.9級地震，最大震感為震度6強。日本首都東京有明顯震感。（央視新聞）"
     }
   ]
 }

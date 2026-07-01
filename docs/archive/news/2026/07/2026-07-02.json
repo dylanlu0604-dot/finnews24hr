@@ -1,7 +1,99 @@
 {
   "date": "2026-07-02",
-  "count": 366,
+  "count": 376,
   "items": [
+    {
+      "id": "4965988",
+      "time": "2026-07-02 06:45:33",
+      "tags": [
+        "其他"
+      ],
+      "text": "紐西蘭房屋建造審批數量或將環比下降4%。"
+    },
+    {
+      "id": "mkt:019f1fdb-dab9-7aab-8c66-dc4c166bd105",
+      "time": "2026-07-02 06:45:29",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "New Zealand May building consents YoY 20.6%; prior 52.7%."
+    },
+    {
+      "id": "mkt:019f1fdb-bc49-7aab-8c66-d7fc7ceaf397",
+      "time": "2026-07-02 06:45:22",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "New Zealand | Building Permits (YoY) (May) | actual 20.6% | previous 52.7%"
+    },
+    {
+      "id": "te:markets:563546",
+      "time": "2026-07-02 06:45:11",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Crypto",
+        "Importance 1"
+      ],
+      "text": "Crypto Updates: Ether Appreciates by 3.42% — Top crypto gainers are Ether (3.42%), Bitcoin (3.19%) and Binance (1.50%)."
+    },
+    {
+      "id": "mkt:019f1fdb-8ee6-7aab-8c66-cb96e18caeb6",
+      "time": "2026-07-02 06:45:09",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "New Zealand building consents May MoM -4.0%; prior revised from 10.90% to 11.1%."
+    },
+    {
+      "id": "mkt:019f1fdb-69be-7aab-8c66-c0416c206a79",
+      "time": "2026-07-02 06:45:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "New Zealand | Building Permits (MoM) (May) | actual -4% | previous 10.90%"
+    },
+    {
+      "id": "4965987",
+      "time": "2026-07-02 06:43:12",
+      "tags": [
+        "兩會"
+      ],
+      "text": "【港澳舉行活動慶祝中國共產黨成立105週年】香港特別行政區政府和中央人民政府駐香港特別行政區聯絡辦公室，聯合舉辦慶祝中國共產黨成立105週年活動啟動儀式7月1日在香港會議展覽中心舉行。全國政協副主席梁振英、香港特別行政區行政長官李家超、中央駐港機構負責人、港區全國人大代表、全國政協委員等各界嘉賓共同出席當天活動。（央視新聞）"
+    },
+    {
+      "id": "4965986",
+      "time": "2026-07-02 06:42:49",
+      "tags": [
+        "國際"
+      ],
+      "text": "土耳其與吉爾吉斯斯坦在安卡拉簽署2027至2028年度兩國外交部合作綱要。"
+    },
+    {
+      "id": "4965985",
+      "time": "2026-07-02 06:40:51",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場資訊：德國執政聯盟就全面改革議程達成共識。"
+    },
+    {
+      "id": "te:markets:563545",
+      "time": "2026-07-02 06:40:11",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Agricultural Commodities Updates: Coffee Surges by 6.08% — Top commodity gainers are Coffee (6.08%) and Oat (2.37%)."
+    },
     {
       "id": "4965984",
       "time": "2026-07-02 06:36:01",
