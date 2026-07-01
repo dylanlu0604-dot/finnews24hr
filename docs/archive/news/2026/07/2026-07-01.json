@@ -1,7 +1,84 @@
 {
   "date": "2026-07-01",
-  "count": 1417,
+  "count": 1425,
   "items": [
+    {
+      "id": "4964314",
+      "time": "2026-07-01 14:09:14",
+      "tags": [
+        "國際"
+      ],
+      "text": "【烏克蘭致信歐盟要求66億歐元軍援】據路透社今天（7月1日）報道，烏克蘭國防部長米哈伊洛·費多羅夫在一封致歐盟盟友的信中，呼籲將歐盟“歐洲和平基金”項下可用的66億歐元（約合511.5億元人民幣）全額定向用於軍事援助。他在信中稱，烏方認為當前戰場上存在一個為期6至9個月的“機遇視窗”，需藉此視窗期“對俄羅斯取得優勢”。（CCTV國際時訊）"
+    },
+    {
+      "id": "mkt:019f1c4b-8022-7aab-8c4c-d2b940505ca1",
+      "time": "2026-07-01 14:08:57",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "【Spot gold, silver extend losses; gold down 1% intraday】Spot gold fell 1.00% intraday to US$3,966.89/oz; spot silver dropped 2.00% to US$57.37/oz."
+    },
+    {
+      "id": "4964312",
+      "time": "2026-07-01 14:07:26",
+      "tags": [
+        "市場"
+      ],
+      "text": "現貨黃金日內跌1%，現報3965.33美元/盎司。"
+    },
+    {
+      "id": "te:markets:563285",
+      "time": "2026-07-01 14:07:24",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "commodity",
+        "Importance 0"
+      ],
+      "text": "Copper is down by 2% — Copper decreased 2% to 6.0686 USD/Lbs"
+    },
+    {
+      "id": "4964311",
+      "time": "2026-07-01 14:07:16",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金失守3980美元/盎司，日內跌1.46%。"
+    },
+    {
+      "id": "te:markets:563284",
+      "time": "2026-07-01 14:06:45",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "New Zealand",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "New Zealand Shares End 0.1% Lower — The NZX 50 fell 11 points, or 0.1%, to 13,611 on Wednesday, erasing gains from the previous session, mainly weighed down by losses in consumer staples, materials, utilities, and healthcare. The broader index retreated from its highest level since February 27, reached a day earlier, tracking a decline in US stock futures. Traders awaited the release of New Zealand's consumer data for May, due later this week. However, gains in consumer discretionary, industrial, and technology stocks helped limit the decline. Easing oil prices also capped the losses as inflation concerns subsided, reducing expectations of an interest rate hike. Tuesday's data also helped limit the losses, as New Zealand's business confidence surged to its highest level since February. Among the biggest laggards were ANZ Group (-3.3%), Meridian Energy (-2.1%), Westpac Banking Corp. (-2.4%), Fletcher Building (-3.2%), A2 Milk (-1.9%), Chorus (-1.3%), and Fisher & Paykel Healthcare (-1.2%)."
+    },
+    {
+      "id": "4964310",
+      "time": "2026-07-01 14:06:09",
+      "tags": [
+        "市場"
+      ],
+      "text": "現貨白銀日內跌2%，現報57.37美元/盎司。"
+    },
+    {
+      "id": "4964309",
+      "time": "2026-07-01 14:06:05",
+      "tags": [
+        "其他"
+      ],
+      "text": "【極氪9X即將正式出海，供應鏈挑戰加劇或拖累國內交付量】據市場訊息，極氪9X將於下半年正式出海，未來仍將以整車出口的形式對外銷售，與國內市場共享產能。據悉，海外市場的需求將分走約50%的產能，這可能加劇極氪9X在國內供應鏈的緊張局面。截至目前，Hyper版仍需數週。（新浪科技）"
+    },
     {
       "id": "mkt:019f1c47-0033-7aab-8c4c-cfa43c540d7c",
       "time": "2026-07-01 14:04:02",

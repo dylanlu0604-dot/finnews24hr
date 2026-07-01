@@ -1,7 +1,84 @@
 {
-  "updated": "2026-07-01 14:06:22",
-  "count": 13911,
+  "updated": "2026-07-01 14:10:21",
+  "count": 13910,
   "items": [
+    {
+      "id": "4964314",
+      "time": "2026-07-01 14:09:14",
+      "tags": [
+        "國際"
+      ],
+      "text": "【烏克蘭致信歐盟要求66億歐元軍援】據路透社今天（7月1日）報道，烏克蘭國防部長米哈伊洛·費多羅夫在一封致歐盟盟友的信中，呼籲將歐盟“歐洲和平基金”項下可用的66億歐元（約合511.5億元人民幣）全額定向用於軍事援助。他在信中稱，烏方認為當前戰場上存在一個為期6至9個月的“機遇視窗”，需藉此視窗期“對俄羅斯取得優勢”。（CCTV國際時訊）"
+    },
+    {
+      "id": "mkt:019f1c4b-8022-7aab-8c4c-d2b940505ca1",
+      "time": "2026-07-01 14:08:57",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "【Spot gold, silver extend losses; gold down 1% intraday】Spot gold fell 1.00% intraday to US$3,966.89/oz; spot silver dropped 2.00% to US$57.37/oz."
+    },
+    {
+      "id": "4964312",
+      "time": "2026-07-01 14:07:26",
+      "tags": [
+        "市場"
+      ],
+      "text": "現貨黃金日內跌1%，現報3965.33美元/盎司。"
+    },
+    {
+      "id": "te:markets:563285",
+      "time": "2026-07-01 14:07:24",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "commodity",
+        "Importance 0"
+      ],
+      "text": "Copper is down by 2% — Copper decreased 2% to 6.0686 USD/Lbs"
+    },
+    {
+      "id": "4964311",
+      "time": "2026-07-01 14:07:16",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金失守3980美元/盎司，日內跌1.46%。"
+    },
+    {
+      "id": "te:markets:563284",
+      "time": "2026-07-01 14:06:45",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "New Zealand",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "New Zealand Shares End 0.1% Lower — The NZX 50 fell 11 points, or 0.1%, to 13,611 on Wednesday, erasing gains from the previous session, mainly weighed down by losses in consumer staples, materials, utilities, and healthcare. The broader index retreated from its highest level since February 27, reached a day earlier, tracking a decline in US stock futures. Traders awaited the release of New Zealand's consumer data for May, due later this week. However, gains in consumer discretionary, industrial, and technology stocks helped limit the decline. Easing oil prices also capped the losses as inflation concerns subsided, reducing expectations of an interest rate hike. Tuesday's data also helped limit the losses, as New Zealand's business confidence surged to its highest level since February. Among the biggest laggards were ANZ Group (-3.3%), Meridian Energy (-2.1%), Westpac Banking Corp. (-2.4%), Fletcher Building (-3.2%), A2 Milk (-1.9%), Chorus (-1.3%), and Fisher & Paykel Healthcare (-1.2%)."
+    },
+    {
+      "id": "4964310",
+      "time": "2026-07-01 14:06:09",
+      "tags": [
+        "市場"
+      ],
+      "text": "現貨白銀日內跌2%，現報57.37美元/盎司。"
+    },
+    {
+      "id": "4964309",
+      "time": "2026-07-01 14:06:05",
+      "tags": [
+        "其他"
+      ],
+      "text": "【極氪9X即將正式出海，供應鏈挑戰加劇或拖累國內交付量】據市場訊息，極氪9X將於下半年正式出海，未來仍將以整車出口的形式對外銷售，與國內市場共享產能。據悉，海外市場的需求將分走約50%的產能，這可能加劇極氪9X在國內供應鏈的緊張局面。截至目前，Hyper版仍需數週。（新浪科技）"
+    },
     {
       "id": "mkt:019f1c47-0033-7aab-8c4c-cfa43c540d7c",
       "time": "2026-07-01 14:04:02",
@@ -127866,81 +127943,6 @@
         "AI Revolution"
       ],
       "text": "【Foxconn, Sharp sign memorandum to pursue AI infrastructure and robotics】Foxconn Technology Group and Sharp signed a strategic cooperation memorandum to establish a joint R&D and commercialization framework targeting new businesses in AI infrastructure, energy and ESG, robotics and intelligent automation, next‑generation communications and smart cities."
-    },
-    {
-      "id": "4951865",
-      "time": "2026-06-24 14:09:53",
-      "tags": [
-        "國際"
-      ],
-      "text": "日本能源電商JERA董事長表示：鑑於如果霍爾木茲海峽以外的地緣政治風險升級，卡達有能力額外供應液化天然氣，JERA將維持從卡達採購一定規模的液化天然氣。"
-    },
-    {
-      "id": "4951864",
-      "time": "2026-06-24 14:09:42",
-      "tags": [
-        "國際"
-      ],
-      "text": "【機構：日本加速佈局全固態電池產業鏈，下一代電池技術全球競爭加劇】根據TrendForce集邦諮詢最新《全球固態電池產業發展動態季報_2Q26》，日本近年擴大支援下一代蓄電池技術，其經濟產業省（METI）2023年起實施《電池供應保障計劃》，重點扶持全固態電池（ASSB）、雙極型低成本磷酸鐵鋰（LFP）電池等研發與早期量產。截至2026年第一季，該計劃已核准與全固態電池供應鏈相關的五大專案，合計補助金額達6.6億美元（約1,057億日元）。"
-    },
-    {
-      "id": "4951863",
-      "time": "2026-06-24 14:08:19",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "【廣電總局：微短劇按照投資額度、題材等分類實行備案公示和發行許可制度】國家廣播電視總局就《微短劇發展管理辦法（徵求意見稿）》公開徵求意見。其中提到，微短劇按照投資額度、題材等分為一類微短劇、二類微短劇和三類微短劇，分類實行備案公示和發行許可制度。一類微短劇是指投資額度較大或者主要劇情涉及政治、軍事、外交、國家安全、統戰、民族、宗教、司法、公安等內容的特殊題材的微短劇。二類微短劇是指投資額度相對不大且為一般題材的微短劇。三類微短劇是指投資額度較低且為一般題材的微短劇。分類標準由國務院廣播電視主管部門制定，並結合行業發展實際情況適時調整。"
-    },
-    {
-      "id": "mkt:019ef83e-3f9b-7dd8-b0ed-8010cbfc37f1",
-      "time": "2026-06-24 14:08:09",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Precious Metals"
-      ],
-      "text": "Spot silver up 1.00% intraday at $62.15/oz."
-    },
-    {
-      "id": "4951862",
-      "time": "2026-06-24 14:07:57",
-      "tags": [
-        "公司"
-      ],
-      "text": "【鋰凰科技完成A+輪數千萬元戰略投資】近日，鋰凰科技宣佈，元禾厚望創新成長基金正式完成對其A+輪數千萬元戰略投資。據鋰凰科技介紹，這是繼納爾股份（002825）A輪億元級戰略投資後，公司在短期內完成的又一輪融資。本輪資金將集中投入產線升級、研發深化與產能擴充，支撐公司千噸級量產交付提速。"
-    },
-    {
-      "id": "4951861",
-      "time": "2026-06-24 14:07:55",
-      "tags": [
-        "市場"
-      ],
-      "text": "現貨白銀日內漲1%，現報62.20美元/盎司。"
-    },
-    {
-      "id": "4951860",
-      "time": "2026-06-24 14:07:49",
-      "tags": [
-        "其他"
-      ],
-      "text": "【廣電總局：與微短劇有關的智慧財產權受法律保護】國家廣播電視總局釋出關於《微短劇發展管理辦法（徵求意見稿）》公開徵求意見的通知。其中指出，與微短劇有關的智慧財產權受法律保護，任何組織和個人不得侵犯。從事微短劇活動的組織和個人應當增強智慧財產權意識，提高智慧財產權創造、運用、保護、管理和服務的能力。鼓勵行業創新版權服務模式。會同有關部門健全微短劇有關版權保護體系。"
-    },
-    {
-      "id": "4951859",
-      "time": "2026-06-24 14:07:26",
-      "tags": [
-        "其他"
-      ],
-      "text": "【廣電總局：鼓勵、支援優秀微短劇創作播出】國家廣播電視總局釋出關於《微短劇發展管理辦法（徵求意見稿）》公開徵求意見的通知。其中指出，鼓勵微短劇藝術表達、傳播方式、新技術應用、商業模式等創新。鼓勵、支援廣大群眾參與微短劇創作，激發微短劇作為網際網路條件下新大眾文藝的創新創造活力。鼓勵、支援優秀微短劇創作播出。縣級以上人民政府廣播電視主管部門根據微短劇創作的需要，為微短劇創作人員深入基層、深入群眾、體驗生活提供必要的便利和幫助。省、自治區、直轄市以上人民政府廣播電視主管部門為納入重點扶持的微短劇的上線播出提供必要支援。"
-    },
-    {
-      "id": "4951858",
-      "time": "2026-06-24 14:06:33",
-      "tags": [
-        "其他"
-      ],
-      "text": "【廣電總局：支援優秀微短劇境內外同步播出】國家廣播電視總局釋出關於《微短劇發展管理辦法（徵求意見稿）》公開徵求意見的通知。其中指出，支援外向型微短劇創作生產和傳播，為境外主創人員參與微短劇創作提供便利，支援優秀微短劇境內外同步播出。鼓勵和支援微短劇行業開展平等互利的國際交流與合作，促進中外文明交流互鑑。"
     }
   ]
 }
