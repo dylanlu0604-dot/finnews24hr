@@ -1,7 +1,50 @@
 {
-  "updated": "2026-07-01 19:50:38",
-  "count": 13955,
+  "updated": "2026-07-01 19:54:31",
+  "count": 13941,
   "items": [
+    {
+      "id": "4965174",
+      "time": "2026-07-01 19:52:31",
+      "tags": [
+        "公司"
+      ],
+      "text": "【常熟銀行：江南商貿集團6月增持1712.86萬股 持股比例升至3.84%】常熟銀行公告稱，為提升持股比例，支援地方法人金融機構做強做大，江南商貿集團於2026年6月9日至6月30日，透過集中競價交易方式增持公司1712.86萬股，佔總股本比例0.47%。截至6月30日，江南商貿集團持有公司1.40億股，持股比例3.84%，較2026年3月末提升0.47個百分點。本次增持不觸及權益變動，未導致股東身份變化，資金來源為自有資金，不存在違規情形。"
+    },
+    {
+      "id": "4965173",
+      "time": "2026-07-01 19:52:23",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【世界黃金協會：亞洲投資者（及消費者）在價格發現和金價走向中日益重要】7月1日，世界黃金協會發布《2026年全球黃金市場年中展望》報告。報告指出，日內分析表明，金價的大部分走勢變化與亞洲和美國交易時段內的市場活動有關。其中，多數金價回撥發生在美國交易時段，而金價反彈則普遍出現在亞洲交易時段。這進一步凸顯了亞洲投資者（及消費者）在價格發現和金價走向中日益重要的作用。"
+    },
+    {
+      "id": "4965172",
+      "time": "2026-07-01 19:52:04",
+      "tags": [
+        "公司"
+      ],
+      "text": "【洋河股份：董事長顧宇不再兼任總裁，陳軍當選副董事長並接任總裁】洋河股份公告，公司近日召開第八屆董事會第二十一次會議，選舉陳軍為公司副董事長。同時因工作需要，董事長顧宇不再兼任公司總裁職務，將繼續擔任黨委書記和董事長等職務。陳軍被聘任為公司總裁，並卸任副總裁職務。"
+    },
+    {
+      "id": "4965171",
+      "time": "2026-07-01 19:51:19",
+      "tags": [
+        "其他"
+      ],
+      "text": "7月1日，中國證券業協會公佈2026年第四批首發企業現場檢查抽查名單，共有21家擬上市企業被隨機抽中。"
+    },
+    {
+      "id": "mkt:019f1d83-f490-7aab-8c56-aaa5411ba158",
+      "time": "2026-07-01 19:50:14",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "【Aramco, Sonatrach cut July LPG prices】Traders said on Wednesday that rising global supply prompted Aramco to cut July liquefied petroleum gas (LPG) official selling prices (OSPs) by about 24–27%. Aramco lowered propane OSP by $180/ton to $580/ton and butane OSP by $220/ton to $600/ton. Algeria’s Sonatrach trimmed July LPG OSPs about 2–10%, with propane down $57/ton to $518/ton and butane down $10/ton to $600/ton."
+    },
     {
       "id": "4965170",
       "time": "2026-07-01 19:50:01",
@@ -128341,198 +128384,6 @@
         "美聯儲"
       ],
       "text": "美財長貝森特表示，他讚賞新任美聯儲主席沃什取消“前瞻指引”的做法。"
-    },
-    {
-      "id": "mkt:019ef97b-4719-7dd8-b0f8-4f128ef07c85",
-      "time": "2026-06-24 19:54:26",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "XAUUSD",
-        "US10Y",
-        "Impact bearish"
-      ],
-      "text": "U.S. Treasury Secretary Bessent said policymakers should remain open to the Iran conflict’s potential impact on inflation when assessing Fed policy."
-    },
-    {
-      "id": "4952722",
-      "time": "2026-06-24 19:54:18",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國財長貝森特：有很大可能重演1990年代的經濟擴張。"
-    },
-    {
-      "id": "4952721",
-      "time": "2026-06-24 19:54:11",
-      "tags": [
-        "宏觀",
-        "央行",
-        "國際"
-      ],
-      "text": "美國財政部長貝森特談及美聯儲時表示：對人工智慧對生產率的影響也需要保持開放態度。"
-    },
-    {
-      "id": "mkt:019ef97a-d757-7dd8-b0f8-463f435adfd1",
-      "time": "2026-06-24 19:53:57",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "US Economy",
-        "S&P500",
-        "Impact bullish",
-        "Nasdaq100",
-        "US10Y",
-        "Impact bearish"
-      ],
-      "text": "US Treasury Secretary Bessent said there is a high probability of a repeat of the 1990s-style economic expansion."
-    },
-    {
-      "id": "4952720",
-      "time": "2026-06-24 19:53:56",
-      "tags": [
-        "宏觀",
-        "央行",
-        "國際"
-      ],
-      "text": "美國財政部長貝森特談及美聯儲：需以開放態度看待伊朗衝突對通脹的影響。"
-    },
-    {
-      "id": "mkt:019ef97a-82c2-7dd8-b0f8-3f0c1506474f",
-      "time": "2026-06-24 19:53:36",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "US Economy",
-        "S&P500",
-        "Impact bullish",
-        "Copper",
-        "US10Y"
-      ],
-      "text": "U.S. Treasury Secretary Bessent said high GDP growth can be achieved without causing traditional inf."
-    },
-    {
-      "id": "4952719",
-      "time": "2026-06-24 19:53:08",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國財長貝森特：美國可以實現高 GDP 增長，同時不出現傳統意義上的通脹。"
-    },
-    {
-      "id": "4952718",
-      "time": "2026-06-24 19:52:57",
-      "tags": [
-        "公司"
-      ],
-      "text": "【江蘇高凱精密流體技術股份有限公司IPO稽核狀態變更為提交註冊】據上交所官網，江蘇高凱精密流體技術股份有限公司IPO稽核狀態變更為提交註冊。"
-    },
-    {
-      "id": "mkt:019ef979-cb66-7dd8-b0f8-36711b33a618",
-      "time": "2026-06-24 19:52:49",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "US Treasury Secretary Bessent said in February he expected inflation to be near 2% by mid-summer."
-    },
-    {
-      "id": "mkt:019ef979-2e9f-7dd8-b0f8-2c5bbb1635ec",
-      "time": "2026-06-24 19:52:08",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "DXY",
-        "Impact bullish",
-        "US10Y",
-        "XAUUSD",
-        "Impact bearish"
-      ],
-      "text": "US Treasury Secretary Bessent praised Fed Chair Kevin Warsh for removing forward guidance."
-    },
-    {
-      "id": "4952717",
-      "time": "2026-06-24 19:51:57",
-      "tags": [
-        "公司"
-      ],
-      "text": "【方正電機：董事長翁偉文及財務總監盧美玲擬減持不超過0.2786%股份】方正電機公告，公司董事長翁偉文持有公司股份540.2萬股（佔總股本1.089%），財務總監盧美玲持有公司股份13.88萬股（佔總股本0.028%）。二人計劃自2026年7月16日至2026年10月15日，透過集中競價方式合計減持不超過138.19萬股（佔總股本0.2786%），其中翁偉文擬減持不超過134.8萬股（佔總股本0.2718%），盧美玲擬減持不超過3.39萬股（佔總股本0.0068%）。減持原因為股東自身資金需求。"
-    },
-    {
-      "id": "mkt:019ef978-ff0b-7dd8-b0f8-234cb43501df",
-      "time": "2026-06-24 19:51:56",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)"
-      ],
-      "text": "U.S. Treasury Secretary Bessent said no one should be making predictions about the Fed's dot plot."
-    },
-    {
-      "id": "4952716",
-      "time": "2026-06-24 19:51:48",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "美國總統特朗普24日在社交媒體發文威脅稱，如果伊朗開始向透過霍爾木茲海峽的船隻收取費用，他將終止與伊朗的和平談判。（新華社）"
-    },
-    {
-      "id": "4952715",
-      "time": "2026-06-24 19:51:41",
-      "tags": [
-        "宏觀",
-        "央行",
-        "國際"
-      ],
-      "text": "美國財政部長貝森特談及美聯儲：讚賞沃什取消前瞻性指引。"
-    },
-    {
-      "id": "mkt:019ef978-6c9e-7dd8-b0f8-1c7fdb37cd7b",
-      "time": "2026-06-24 19:51:19",
-      "tags": [
-        "MKT News",
-        "S&P500",
-        "Impact bullish"
-      ],
-      "text": "S&P 500 index futures extended gains, up 0.4% and trading at intraday highs."
-    },
-    {
-      "id": "4952714",
-      "time": "2026-06-24 19:51:10",
-      "tags": [
-        "市場"
-      ],
-      "text": "標普500指數期貨擴大漲幅，觸及盤中高點，漲0.4%。"
-    },
-    {
-      "id": "4952713",
-      "time": "2026-06-24 19:51:00",
-      "tags": [
-        "宏觀",
-        "央行",
-        "國際"
-      ],
-      "text": "美國財政部長貝森特談及美聯儲：認為沒人應當釋出點陣預測。"
-    },
-    {
-      "id": "4952712",
-      "time": "2026-06-24 19:50:54",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國財長貝森特：今年 2 月時，我曾預計通脹到仲夏就能接近 2%。"
-    },
-    {
-      "id": "mkt:019ef977-d822-7dd8-b0f8-11b0482cc363",
-      "time": "2026-06-24 19:50:41",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "US Economy"
-      ],
-      "text": "U.S. Treasury Secretary Bessent expects real wage growth to return to its pre-April pace."
     }
   ]
 }
