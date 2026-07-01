@@ -1,7 +1,55 @@
 {
-  "updated": "2026-07-01 08:38:00",
-  "count": 13979,
+  "updated": "2026-07-01 08:41:52",
+  "count": 13981,
   "items": [
+    {
+      "id": "te:economy:563156",
+      "time": "2026-07-01 08:41:20",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Malaysia",
+        "Manufacturing PMI",
+        "Importance 1"
+      ],
+      "text": "Malaysia Manufacturing Sector Returns to Growth — Malaysia’s S&P Global Manufacturing PMI rose to 50.7 in June 2026 from 49.0 in May, indicating modest improvement in the manufacturing sector. New orders and output registered fresh expansions in June after recording slight contractions in May. Meanwhile, following marginal increases in purchasing activity in both April and May, manufacturers kept input buying unchanged during the month. While renewed growth in new orders prompted some firms to raise their purchases of inputs and raw materials, others noted that demand was insufficient to trigger an increase in buying activity. Employment levels were also broadly unchanged. Supplier delivery performance deteriorated further in June, attributed to material shortages and the current geopolitical situation. On the price front, input cost inflation eased to a three-month low, although selling prices were raised to a greater extent than in May. Lastly, manufacturers remained optimistic that output will increase over the next 12 months."
+    },
+    {
+      "id": "te:economy:563154",
+      "time": "2026-07-01 08:38:45",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "South Korea",
+        "Manufacturing PMI",
+        "Importance 1"
+      ],
+      "text": "South Korea Manufacturing Growth Slows in June — The S&P Global South Korea Manufacturing PMI eased to 52.1 in June 2026 from 54.8 in May, marking the softest expansion in four months. Output and new orders continued to grow, though at their weakest pace of 2026, as higher raw material costs, supply shortages, and the impact of the Middle East conflict weighed on demand and production. Export orders declined for a second consecutive month, while backlogs of work rose at the fastest pace in just over four years amid delivery delays and a renewed decline in employment. Purchasing activity also moderated, although firms increased pre-production inventories at the fastest pace since November 2024 to mitigate supply disruptions. On the price front, input cost inflation remained elevated, driven by higher raw material prices and a weaker won, prompting manufacturers to continue raising selling prices. Meanwhile, business confidence fell to a seven-month low amid concerns over the domestic economy and persistently high prices."
+    },
+    {
+      "id": "te:economy:563153",
+      "time": "2026-07-01 08:38:20",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Indonesia",
+        "Manufacturing PMI",
+        "Importance 1"
+      ],
+      "text": "Indonesia Manufacturing PMI Lowest in A Year — Indonesia’s S&P Global Manufacturing PMI dropped sharply to 46.9 in June 2026 from 50.0 in the previous month, pointing to the lowest reading since June 2025. It was also the second time of contraction this year."
+    },
+    {
+      "id": "te:economy:563152",
+      "time": "2026-07-01 08:38:01",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Vietnam",
+        "Manufacturing PMI",
+        "Importance 1"
+      ],
+      "text": "Vietnam Manufacturing Growth Remains Solid in June — The S&P Global Vietnam Manufacturing PMI eased to 51.8 in June 2026 from a three-month high of 52.8 in May but remained above the 50 threshold, marking a twelfth consecutive month of improving business conditions. New orders rose for a second straight month, while export sales also expanded despite a slower pace of growth. Manufacturing output rose for a fourteenth consecutive month and accelerated to its fastest pace since February, prompting firms to increase purchasing activity for a second month. However, input inventories fell at the sharpest rate in a year as supply-chain disruptions and import challenges persisted, although supplier delivery delays eased to a four-month low. Input cost inflation slowed to its weakest since the start of the year, with output price inflation also easing to a six-month low. Employment declined for a fourth straight month, while business confidence strengthened to a four-month high, though optimism remained below pre-Middle East conflict levels."
+    },
     {
       "id": "4963864",
       "time": "2026-07-01 08:36:22",
@@ -128442,24 +128490,6 @@
         "公司"
       ],
       "text": "【三星或將宣佈回購90萬億韓元股票】據韓聯社援引未具名的行業訊息人士報道，三星電子正準備回購價值約90萬億韓元的股票，用以支付員工獎金，相關細節可能很快公佈。 由於與工會達成協議，三星需透過公司股票支付特殊績效獎金，因此需要回購股份。 預計三星稅後將向員工發放約93萬億韓元的公司股票獎金。"
-    },
-    {
-      "id": "4951371",
-      "time": "2026-06-24 08:40:06",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "10年期日本國債收益率下跌0.5個基點，至2.670%。"
-    },
-    {
-      "id": "4951370",
-      "time": "2026-06-24 08:39:42",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "比特幣升破63000美元，日內漲0.44%。"
     }
   ]
 }
