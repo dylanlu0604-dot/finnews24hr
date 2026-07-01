@@ -1,7 +1,57 @@
 {
-  "updated": "2026-07-02 01:06:30",
+  "updated": "2026-07-02 01:10:23",
   "count": 14236,
   "items": [
+    {
+      "id": "4965818",
+      "time": "2026-07-02 01:08:20",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國貿易代表：特朗普剩餘任期內，美方或分別與加拿大、墨西哥單獨簽訂貿易議定書。7 月 20 日那周將繼續與墨西哥開展談判，重點磋商原產地規則、經濟安全相關議題。需收緊與墨西哥之間非汽車類產品的原產地規則。"
+    },
+    {
+      "id": "mkt:019f1ea7-291e-7aab-8c64-2a0bff5ebd63",
+      "time": "2026-07-02 01:08:19",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. Trade Representative says stricter North American rules of origin are needed for automobiles and other industrial products."
+    },
+    {
+      "id": "4965817",
+      "time": "2026-07-02 01:07:36",
+      "tags": [
+        "公司"
+      ],
+      "text": "谷歌：谷歌地圖上線紐西蘭本地語音，自帶紐西蘭本土口音，毛利語發音精準標準。"
+    },
+    {
+      "id": "mkt:019f1ea6-2910-7aab-8c64-26c1a93dc787",
+      "time": "2026-07-02 01:07:13",
+      "tags": [
+        "MKT News",
+        "S&P500",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish",
+        "Copper"
+      ],
+      "text": "U.S. Trade Representative said talks with Mexico in the week of July 20 will continue, focusing on rules of origin and economic-security issues."
+    },
+    {
+      "id": "mkt:019f1ea5-8b45-7aab-8c64-1ad5ae535faf",
+      "time": "2026-07-02 01:06:33",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact mixed",
+        "Brent",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "【Sources: Iran seeks phased execution of US-Iran memorandum, presses for frozen asset release】Sources said on the 1st that Iran’s delegation in indirect US-Iran talks in Doha requested phased implementation of a prior memorandum of understanding, prioritizing the unfreezing of Iranian assets. Iran asked that frozen funds be transferred to the Central Bank of Iran and used for food supplies. The delegation insisted the Strait of Hormuz should be jointly governed by Iran and Oman and rejected any vessels selecting shipping routes there without Iranian permission. Iran reaffirmed its commitment to the NPT and said it would cooperate with the IAEA. Delegates also condemned Israeli troop presence in Lebanon, saying it undermines the memorandum’s implementation."
+    },
     {
       "id": "mkt:019f1ea4-fb8b-7aab-8c64-11626740db5c",
       "time": "2026-07-02 01:05:56",
@@ -131215,51 +131265,6 @@
         "Impact bullish"
       ],
       "text": "【Broadcom CEO: OpenAI's Jalapeño chip signals shift to proprietary AI hardware】Broadcom CEO Hock Tan said the debut of the Jalapeño AI chip, co-developed with OpenAI, marks a shift toward AI labs building their own hardware and infrastructure. He said the move validates Broadcom’s business model and predicted frontier LLM developers will ultimately design and build their own chips and compute because they can do it better. He added OpenAI’s full‑stack strategy produced a chip that is \"excellent\" for its intended use."
-    },
-    {
-      "id": "mkt:019efa9c-8586-7dd8-b100-b1ca3bd38960",
-      "time": "2026-06-25 01:10:21",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Trump said Iran is making very large concessions."
-    },
-    {
-      "id": "4953233",
-      "time": "2026-06-25 01:10:21",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "特朗普：伊朗作出極大讓步。"
-    },
-    {
-      "id": "mkt:019efa9c-19fa-7dd8-b100-a874c92b0760",
-      "time": "2026-06-25 01:09:54",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK",
-        "RNO.PA"
-      ],
-      "text": "Renault's head of HR in France said the company plans to cut 800 positions in its French engineering division through voluntary departures; the division currently employs 5,500 staff."
-    },
-    {
-      "id": "4953232",
-      "time": "2026-06-25 01:08:59",
-      "tags": [
-        "其他",
-        "焦點"
-      ],
-      "text": "法國人力資源主管稱，雷諾計劃在法國工程部門的5500名員工中，開展800例自願裁員。"
-    },
-    {
-      "id": "4953231",
-      "time": "2026-06-25 01:07:36",
-      "tags": [
-        "國際"
-      ],
-      "text": "據白宮隨行記者團訊息，特朗普車隊已啟程前往國會大廈。"
     }
   ]
 }

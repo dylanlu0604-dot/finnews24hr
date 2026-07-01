@@ -1,7 +1,57 @@
 {
   "date": "2026-07-02",
-  "count": 104,
+  "count": 109,
   "items": [
+    {
+      "id": "4965818",
+      "time": "2026-07-02 01:08:20",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國貿易代表：特朗普剩餘任期內，美方或分別與加拿大、墨西哥單獨簽訂貿易議定書。7 月 20 日那周將繼續與墨西哥開展談判，重點磋商原產地規則、經濟安全相關議題。需收緊與墨西哥之間非汽車類產品的原產地規則。"
+    },
+    {
+      "id": "mkt:019f1ea7-291e-7aab-8c64-2a0bff5ebd63",
+      "time": "2026-07-02 01:08:19",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. Trade Representative says stricter North American rules of origin are needed for automobiles and other industrial products."
+    },
+    {
+      "id": "4965817",
+      "time": "2026-07-02 01:07:36",
+      "tags": [
+        "公司"
+      ],
+      "text": "谷歌：谷歌地圖上線紐西蘭本地語音，自帶紐西蘭本土口音，毛利語發音精準標準。"
+    },
+    {
+      "id": "mkt:019f1ea6-2910-7aab-8c64-26c1a93dc787",
+      "time": "2026-07-02 01:07:13",
+      "tags": [
+        "MKT News",
+        "S&P500",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish",
+        "Copper"
+      ],
+      "text": "U.S. Trade Representative said talks with Mexico in the week of July 20 will continue, focusing on rules of origin and economic-security issues."
+    },
+    {
+      "id": "mkt:019f1ea5-8b45-7aab-8c64-1ad5ae535faf",
+      "time": "2026-07-02 01:06:33",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact mixed",
+        "Brent",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "【Sources: Iran seeks phased execution of US-Iran memorandum, presses for frozen asset release】Sources said on the 1st that Iran’s delegation in indirect US-Iran talks in Doha requested phased implementation of a prior memorandum of understanding, prioritizing the unfreezing of Iranian assets. Iran asked that frozen funds be transferred to the Central Bank of Iran and used for food supplies. The delegation insisted the Strait of Hormuz should be jointly governed by Iran and Oman and rejected any vessels selecting shipping routes there without Iranian permission. Iran reaffirmed its commitment to the NPT and said it would cooperate with the IAEA. Delegates also condemned Israeli troop presence in Lebanon, saying it undermines the memorandum’s implementation."
+    },
     {
       "id": "mkt:019f1ea4-fb8b-7aab-8c64-11626740db5c",
       "time": "2026-07-02 01:05:56",
