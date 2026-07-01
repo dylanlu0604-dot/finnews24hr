@@ -1,7 +1,15 @@
 {
-  "updated": "2026-07-02 05:28:23",
-  "count": 14031,
+  "updated": "2026-07-02 05:32:15",
+  "count": 14029,
   "items": [
+    {
+      "id": "4965950",
+      "time": "2026-07-02 05:31:05",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯沙赫德無人機襲擊後，基輔市中心的首相宮殿酒店起火。"
+    },
     {
       "id": "4965949",
       "time": "2026-07-02 05:25:14",
@@ -129204,30 +129212,6 @@
         "其他"
       ],
       "text": "【哥倫比亞官方確認德拉埃斯普列亞當選新任總統】哥倫比亞全國選舉委員會24日確認，極右翼候選人德拉埃斯普列亞當選該國新任總統。(新華社)"
-    },
-    {
-      "id": "mkt:019efb8b-db5a-7dd8-b105-d57966d80c09",
-      "time": "2026-06-25 05:31:47",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【DRC Ebola outbreak still spreading; WHO says response lagging, vaccine R&D must accelerate】WHO said the Ebola outbreak in the Democratic Republic of Congo is still spreading rapidly and response efforts are lagging, with frontline health workers facing severe safety risks and containment confronting multiple major challenges. UNICEF and Gavi urged acceleration of vaccine development and supply for the Bundibugyo ebolavirus. Gavi plans to transfer R&D materials to manufacturers shortly and expects to have doses prepared and to begin trials by end-2026."
-    },
-    {
-      "id": "4953542",
-      "time": "2026-06-25 05:29:48",
-      "tags": [
-        "國際"
-      ],
-      "text": "北約秘書長呂特：特朗普還希望北約盟友增加開支。"
-    },
-    {
-      "id": "4953541",
-      "time": "2026-06-25 05:28:37",
-      "tags": [
-        "國際"
-      ],
-      "text": "北約秘書長呂特：特朗普堅定支援北約同盟。"
     }
   ]
 }
