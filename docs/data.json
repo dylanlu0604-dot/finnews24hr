@@ -1,7 +1,29 @@
 {
-  "updated": "2026-07-02 01:41:29",
+  "updated": "2026-07-02 01:45:28",
   "count": 14188,
   "items": [
+    {
+      "id": "mkt:019f1ec6-f45c-7aab-8c64-a0b8cb69574d",
+      "time": "2026-07-02 01:43:02",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "Brent"
+      ],
+      "text": "【German media: suspect in Nord Stream blasts charged in Germany】German media on the 1st reported Germany’s Federal Public Prosecutor’s Office has indicted a Ukrainian suspect, identified as Sergey K., for alleged involvement in sabotage of the Nord Stream gas pipelines. Prosecutors charge him with attacking civilian energy infrastructure, causing explosions and damaging buildings."
+    },
+    {
+      "id": "4965833",
+      "time": "2026-07-02 01:42:51",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗稱美方違反諒解備忘錄承諾 將建立監督機制審查違規行為】總檯記者當地時間7月1日獲悉，伊朗外交部副部長、伊方技術談判代表團團長加里巴巴迪表示，在當天於多哈舉行的伊朗、卡達、巴基斯坦三方會談中，伊朗代表團提出並審查了美國違反美伊諒解備忘錄第一條關於結束黎巴嫩戰事的承諾，並討論了有關美國加強地區軍事裝備和兵力部署的報道和美國官員發表的一些具有威脅性及干涉主義的言論。伊朗代表團在會談中強調，美伊諒解備忘錄中的各項承諾是一個整體，不能單獨割裂看待。加里巴巴迪宣佈，將組建監督小組並透過直接溝通渠道通報和審查涉及美伊諒解備忘錄的違規行為。（央視新聞）"
+    },
     {
       "id": "4965832",
       "time": "2026-07-02 01:40:21",
@@ -130779,23 +130801,6 @@
         "國際"
       ],
       "text": "【賴特稱依託“創新方案”，美國戰略石油儲備儲量有望突破5億桶】美國能源部長克里斯·賴特週三在路透社舉辦的論壇上表示，無需動用納稅人資金，依靠各類“創新方案”，就能將儲量已大幅消耗的美國戰略石油儲備（SPR）提升至5億桶以上。賴特拒絕詳細說明正在考量的具體辦法，不過一名知情人士此前透露，美國正考慮開採軍方所屬土地下的石油資源。賴特表示，作為1.72億桶原油置換計劃的一部分，此前借給石油企業的原油將連本帶息歸還，這會讓戰略石油儲備總量提升至遠超4億桶的規模。他補充，這批原油預計從今年年末至明年初開始歸還，歸還總量將比當初儲備借出的原油多出3500萬至4000萬桶。"
-    },
-    {
-      "id": "4953281",
-      "time": "2026-06-25 01:45:19",
-      "tags": [
-        "公司",
-        "焦點"
-      ],
-      "text": "伊拉克庫爾德斯坦自治區政府表示，已有多家外國石油公司恢復在該地區的運營。"
-    },
-    {
-      "id": "4953280",
-      "time": "2026-06-25 01:41:40",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國南方司令部：協助完成抓捕行動518起，查獲攔截可卡因305.5公噸，阻斷毒品恐怖分子非法收入77億美元。"
     }
   ]
 }
