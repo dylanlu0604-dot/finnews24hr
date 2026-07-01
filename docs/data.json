@@ -1,7 +1,53 @@
 {
-  "updated": "2026-07-01 11:42:44",
+  "updated": "2026-07-01 11:46:36",
   "count": 13953,
   "items": [
+    {
+      "id": "4964154",
+      "time": "2026-07-01 11:45:46",
+      "tags": [
+        "公司"
+      ],
+      "text": "【拼多多雄安公司員工數量超600人，成為新區最大網際網路民營企業】6月30日訊息，拼多多雄安公司員工數量已超過600人，成為新區最大的網際網路民營企業。在人員招聘上，拼多多雄安公司新增了多個級別的管理崗位，以及中臺運營、資料分析、質檢專家、培訓主管等一系列新崗位，員工數量還將持續攀升。此前，拼多多已在雄安整棟購置辦公樓，雄安公司全員預計將於7月底搬至新辦公樓。"
+    },
+    {
+      "id": "4964153",
+      "time": "2026-07-01 11:45:19",
+      "tags": [
+        "國際"
+      ],
+      "text": "特斯拉：已在馬來西亞交付超過15,000輛特斯拉，由上海超級工廠生產製造 。"
+    },
+    {
+      "id": "4964152",
+      "time": "2026-07-01 11:43:45",
+      "tags": [
+        "公司"
+      ],
+      "text": "【新強聯：向特定物件發行股票申請獲稽核透過】新強聯公告，公司於2026年6月30日收到深圳證券交易所上市稽核中心出具的《關於洛陽新強聯迴轉支承股份有限公司申請向特定物件發行股票的稽核中心意見告知函》。深交所發行上市稽核機構對公司向特定物件發行股票的申請檔案進行了稽核，認為公司符合發行條件、上市條件和資訊披露要求。公司本次向特定物件發行股票事項尚需獲得中國證監會同意註冊的決定後方可實施。"
+    },
+    {
+      "id": "te:markets:563231",
+      "time": "2026-07-01 11:42:46",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Copper Falls Ahead of US Market Report — Copper futures fell below $6.1 per pound on Wednesday, reversing the previous session’s gains as investors awaited a US Commerce Department report on the copper market that could pave the way for import tariffs on refined copper. The metal also came under pressure from strong US economic data, which reinforced expectations of tighter Federal Reserve policy and weighed on the demand outlook for industrial metals. Markets are now pricing in at least one Fed rate hike this year, with the first potentially coming as early as September. Meanwhile, Goldman Sachs said the conflict involving Iran could ultimately support metals demand, citing stronger electric vehicle adoption, increased investment in renewable energy, higher defense spending and intensifying competition in artificial intelligence as key drivers of long-term copper consumption."
+    },
+    {
+      "id": "te:markets:563230",
+      "time": "2026-07-01 11:42:32",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "commodity",
+        "Importance 0"
+      ],
+      "text": "Milk Hits 13-week Low — Milk decreased to 15.62 USD/CWT, the lowest since March 2026. Over the past 4 weeks, Milk lost 5.38%, and in the last 12 months, it decreased 14.72%."
+    },
     {
       "id": "mkt:019f1bc4-47b9-7aab-8c4a-8a4090b8088f",
       "time": "2026-07-01 11:41:15",
@@ -128235,49 +128281,6 @@
         "焦點"
       ],
       "text": "南向資金淨買入額達30億港元。"
-    },
-    {
-      "id": "mkt:019ef7bc-54f3-7dd8-b0ea-a6eec2c2cf4e",
-      "time": "2026-06-24 11:46:15",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "cenc automatically measured a magnitude ~3.0 earthquake near Zhenning, Anshun, Guizhou at 11:44 on June 24 (25.47°N, 105.82°E). This is a preliminary automatic estimate; final parameters await the official rapid report."
-    },
-    {
-      "id": "te:markets:561353",
-      "time": "2026-06-24 11:45:50",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Corn Extends Decline to 9-Month Low — Corn futures fell further below $4.1 per bushel, hitting their lowest level since early September 2025, as weaker crude oil prices and favourable US crop weather weighed on prices. Ample rainfall and moderate temperatures across the US Midwest continued to pressure the market by supporting strong crop conditions. However, traders warned that excessive moisture could start to hinder crop development. Meanwhile, progress in ongoing US-Iran peace talks has improved shipping activity through the Strait of Hormuz, fueling expectations of a faster recovery in global supply and pushing crude oil prices lower. Corn prices often track crude oil due to its use as feedstock for biofuel. The US dollar also remained firm, making US commodities more expensive for foreign buyers. Strong export demand lent some support, with the USDA confirming private sales of 100,000 metric tons to Mexico, including 30,000 tons for delivery in the 2025/26 marketing year and 70,000 tons for 2026/27 delivery."
-    },
-    {
-      "id": "4951669",
-      "time": "2026-06-24 11:44:22",
-      "tags": [
-        "其他"
-      ],
-      "text": "智譜香港股票發售最早可能下月進行。"
-    },
-    {
-      "id": "4951668",
-      "time": "2026-06-24 11:43:34",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "【國家藥監局副局長楊勝赴福建調研兩岸醫藥融合發展政策】近日，國家藥監局黨組成員、副局長楊勝帶隊赴福建調研，實地走訪平潭對臺小額商品交易市場、復旦大學附屬華山醫院福建醫院等，並召開座談會聽取醫療機構、臺資企業、省級及相關地市藥品監管部門對於兩岸醫藥融合發展的政策訴求和意見建議。楊勝強調，要繼續支援兩岸融合發展示範區建設，研究出臺推動兩岸醫藥融合發展的政策措施，更好保障公眾用藥用械需求。"
-    },
-    {
-      "id": "4951667",
-      "time": "2026-06-24 11:43:06",
-      "tags": [
-        "其他"
-      ],
-      "text": "智浦據悉正考慮在香港進行數十億美元的股票發售。"
     }
   ]
 }

@@ -1,7 +1,53 @@
 {
   "date": "2026-07-01",
-  "count": 1168,
+  "count": 1173,
   "items": [
+    {
+      "id": "4964154",
+      "time": "2026-07-01 11:45:46",
+      "tags": [
+        "公司"
+      ],
+      "text": "【拼多多雄安公司員工數量超600人，成為新區最大網際網路民營企業】6月30日訊息，拼多多雄安公司員工數量已超過600人，成為新區最大的網際網路民營企業。在人員招聘上，拼多多雄安公司新增了多個級別的管理崗位，以及中臺運營、資料分析、質檢專家、培訓主管等一系列新崗位，員工數量還將持續攀升。此前，拼多多已在雄安整棟購置辦公樓，雄安公司全員預計將於7月底搬至新辦公樓。"
+    },
+    {
+      "id": "4964153",
+      "time": "2026-07-01 11:45:19",
+      "tags": [
+        "國際"
+      ],
+      "text": "特斯拉：已在馬來西亞交付超過15,000輛特斯拉，由上海超級工廠生產製造 。"
+    },
+    {
+      "id": "4964152",
+      "time": "2026-07-01 11:43:45",
+      "tags": [
+        "公司"
+      ],
+      "text": "【新強聯：向特定物件發行股票申請獲稽核透過】新強聯公告，公司於2026年6月30日收到深圳證券交易所上市稽核中心出具的《關於洛陽新強聯迴轉支承股份有限公司申請向特定物件發行股票的稽核中心意見告知函》。深交所發行上市稽核機構對公司向特定物件發行股票的申請檔案進行了稽核，認為公司符合發行條件、上市條件和資訊披露要求。公司本次向特定物件發行股票事項尚需獲得中國證監會同意註冊的決定後方可實施。"
+    },
+    {
+      "id": "te:markets:563231",
+      "time": "2026-07-01 11:42:46",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Copper Falls Ahead of US Market Report — Copper futures fell below $6.1 per pound on Wednesday, reversing the previous session’s gains as investors awaited a US Commerce Department report on the copper market that could pave the way for import tariffs on refined copper. The metal also came under pressure from strong US economic data, which reinforced expectations of tighter Federal Reserve policy and weighed on the demand outlook for industrial metals. Markets are now pricing in at least one Fed rate hike this year, with the first potentially coming as early as September. Meanwhile, Goldman Sachs said the conflict involving Iran could ultimately support metals demand, citing stronger electric vehicle adoption, increased investment in renewable energy, higher defense spending and intensifying competition in artificial intelligence as key drivers of long-term copper consumption."
+    },
+    {
+      "id": "te:markets:563230",
+      "time": "2026-07-01 11:42:32",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "commodity",
+        "Importance 0"
+      ],
+      "text": "Milk Hits 13-week Low — Milk decreased to 15.62 USD/CWT, the lowest since March 2026. Over the past 4 weeks, Milk lost 5.38%, and in the last 12 months, it decreased 14.72%."
+    },
     {
       "id": "mkt:019f1bc4-47b9-7aab-8c4a-8a4090b8088f",
       "time": "2026-07-01 11:41:15",
