@@ -1,7 +1,68 @@
 {
   "date": "2026-07-02",
-  "count": 42,
+  "count": 49,
   "items": [
+    {
+      "id": "4965788",
+      "time": "2026-07-02 00:25:08",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國官員闡述政府對霍爾木茲海峽的立場：美方認為，每日 1000 萬桶原油經霍爾木茲海峽運輸，削弱了伊朗的石油籌碼。"
+    },
+    {
+      "id": "mkt:019f1e7e-c327-7aab-8c63-4449b65234a6",
+      "time": "2026-07-02 00:24:11",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Ukrainian President Zelenskiy said Ukraine has supplied drones to Ireland."
+    },
+    {
+      "id": "te:markets:563524",
+      "time": "2026-07-02 00:23:49",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Germany",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "DAX Outperforms in Europe — The DAX 40 closed about 0.2% up at 25,069 after a choppy session on Wednesday, extending the prior session's gains and outperforming regional peers. Defense stocks led gains, with Rheinmetall up 5% after reports that Germany plans to partner with the U.S. to boost domestic weapons production. Other German defense companies also rose, including Hensoldt (+4.8%) and Renk (+4.7%). Other top performers included SAP (+5%), Scout24 (+3.6%), Fresenius SE & Co (+2.7%), while Infineon Technologies (-4.1%), Siemens (-2.6%) and Hochtief (-2.4%) lagged. At the ECB’s Sintra Forum, ECB President Christine Lagarde noted that risks to inflation and growth in the euro area have become less pronounced, while Fed Chair Kevin Warsh highlighted lower inflation risks."
+    },
+    {
+      "id": "4965787",
+      "time": "2026-07-02 00:23:14",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【Pimco稱私募信貸市場存在“信任差距” 貸款質量成為評判標準】品浩(Pimco)指出，私募信貸投資者對估值差異問題日益敏感，從而在資產管理機構之間製造了一種“信任差距”。Pimco策略師Lotfi Karoui在本週公司官網釋出的一份報告中寫道，鑑於資產淨值越來越受各家機構自身假設的影響，那些貸款質量更高的管理機構日益獲得市場認可。他表示，市場不再對整個行業一概給予折價，而是在“管理機構、資產質量以及對報告估值的信任度方面，做出了更明確的區分”。監管機構當前正在加強對規模1.8萬億美元的私募信貸市場中估值差異問題的審查。紐約南區聯邦檢察官Jay Clayton曾對華爾街機構評估私募信貸資產價值的方式表達擔憂，這類資產通常不會頻繁交易。與此同時，包括阿波羅全球管理、阿瑞斯管理公司、貝萊德和黑石在內的一些大型私募信貸機構第二季度繼續面臨沉重的贖回壓力。"
+    },
+    {
+      "id": "mkt:019f1e7d-ab57-7aab-8c63-3ff7b3a76b37",
+      "time": "2026-07-02 00:23:00",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "IRNA reported Iran Air has resumed Tehran-Mumbai-Tehran service after a five-month suspension."
+    },
+    {
+      "id": "4965786",
+      "time": "2026-07-02 00:22:36",
+      "tags": [
+        "國際"
+      ],
+      "text": "烏克蘭總統澤連斯基： 烏克蘭向愛爾蘭提議開展無人機合作專案。"
+    },
+    {
+      "id": "4965785",
+      "time": "2026-07-02 00:22:14",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國環境保護署（EPA）表示，將就一份減少生物固體中全氟辛酸（PFOA）與全氟辛烷磺酸（PFOS）風險的指導草案徵求公眾意見，旨在重塑國民健康環境。"
+    },
     {
       "id": "mkt:019f1e7c-3170-7aab-8c63-313e36e4ac23",
       "time": "2026-07-02 00:21:23",
