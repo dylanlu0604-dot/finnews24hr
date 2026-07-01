@@ -1,7 +1,67 @@
 {
   "date": "2026-07-02",
-  "count": 246,
+  "count": 251,
   "items": [
+    {
+      "id": "mkt:019f1f49-8fd8-7aab-8c66-04bfdd0b9bfb",
+      "time": "2026-07-02 04:05:42",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Wall Street (US)",
+        "S&P500",
+        "Impact bearish",
+        "Dow",
+        "Nasdaq100"
+      ],
+      "text": "US equities on Wednesday, July 1: Dow Jones Industrial Average closed down 12.98 points, or 0.02%, at 52,306.22; S&P 500 closed down 15.97 points, or 0.21%, at 7,483.39; Nasdaq Composite closed down 173.69 points, or 0.66%, at 26,040.03."
+    },
+    {
+      "id": "mkt:019f1f49-4863-7aab-8c65-fda24848e89c",
+      "time": "2026-07-02 04:05:24",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Central Bank of Uruguay kept its benchmark interest rate at 5.75%, unchanged."
+    },
+    {
+      "id": "4965898",
+      "time": "2026-07-02 04:05:06",
+      "tags": [
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "【沃什希望美聯儲減少發聲 華爾街擔憂市場波動恐加劇】凱文·沃什執掌美聯儲僅數週時間，但分析師已開始擔心，他希望央行減少發聲的關鍵承諾可能會加劇市場波動。對華爾街許多人而言，美聯儲的指引有助於他們為央行可能採取的行動做準備。美聯儲減少發聲可能增加市場對利率政策路徑的不確定性，隨著新資料促使交易員重新評估前景，這不僅可能加劇國債市場的波動，還會推高美債的溢價，因為投資者在購買這些債券時會要求更高的回報補償。道明證券策略師Gennadiy Goldberg和Molly Brooks週三在研報中寫道：“市場對前瞻性指引的依賴總體上降低了不確定性，並導致交易倉位更加集中。取消前瞻性指引應該會導致市場波動加劇，同時推高期限溢價。”"
+    },
+    {
+      "id": "4965897",
+      "time": "2026-07-02 04:03:10",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗議會議長卡利巴夫：蘇黎世會談期間，凍結資產解凍流程加快，相關制裁予以暫停。敵人只看得懂實力的語言，我們必須以實力與之抗衡。當下團結是我們的第一要務，高於一切。"
+    },
+    {
+      "id": "mkt:019f1f47-0b75-7aab-8c65-f51bba5ed92e",
+      "time": "2026-07-02 04:02:57",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Star Stocks",
+        "NVIDIA",
+        "Meta Platforms",
+        "Alibaba",
+        "Market Themes",
+        "Magnificent 7",
+        "BABA.N",
+        "Impact bullish",
+        "MU.O",
+        "Impact bearish",
+        "SNDK.O"
+      ],
+      "text": "【US close: Nasdaq Golden Dragon index up ~3%; Micron, SanDisk down ~10%】US stocks closed Wednesday: Dow -0.02%, S&P 500 -0.2%, Nasdaq -0.66%. NVIDIA (NVDA.O) -1.0%, Micron Technology (MU.O) -10.5%, SanDisk (SNDK.O) -10.6%, AMD (AMD.O) -6.8%, Meta (META.O) +8.8%. The Nasdaq Golden Dragon Index rallied 2.9%; Alibaba (BABA.N) +2.0%."
+    },
     {
       "id": "4965896",
       "time": "2026-07-02 04:01:14",
