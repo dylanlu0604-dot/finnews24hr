@@ -1,7 +1,65 @@
 {
-  "updated": "2026-07-01 23:15:48",
-  "count": 14266,
+  "updated": "2026-07-01 23:19:43",
+  "count": 14271,
   "items": [
+    {
+      "id": "4965724",
+      "time": "2026-07-01 23:17:25",
+      "tags": [
+        "國際"
+      ],
+      "text": "通用汽車二季度美國銷售下滑4.2%，受累於電動汽車需求下滑。"
+    },
+    {
+      "id": "mkt:019f1e41-81e2-7aab-8c61-baab3c33d917",
+      "time": "2026-07-01 23:17:17",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Fed chair Kevin Warsh appointed former Bank of England governor Mervyn King to co-lead a new Federal Reserve communications working group."
+    },
+    {
+      "id": "4965723",
+      "time": "2026-07-01 23:16:21",
+      "tags": [
+        "央行",
+        "焦點",
+        "國際"
+      ],
+      "text": "美聯儲主席接觸原英國央行行長金恩（King），負責新聯絡工作組。"
+    },
+    {
+      "id": "4965722",
+      "time": "2026-07-01 23:15:55",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【軟體股上漲 Guggenheim稱AI不會成為軟體行業“喪鐘”】Guggenheim上調三家軟體公司的評級，認為市場對AI將給軟體行業帶來“致命威脅”的擔憂被誇大，帶動軟體股週三普遍上漲。“目前的軟體公司估值反映出一種預期，即許多軟體企業將在AI衝擊下長期持續衰退，”分析師John DiFucci在週三釋出的研究報告中寫道，“我們並不認同這一判斷。”他補充稱，來自AI公司的競爭確實會對傳統軟體企業造成影響，但認為整個軟體行業將因此遭受致命打擊的悲觀論調，不過是一種“幻覺”。今年以來軟體股整體承壓。投資者擔心，Anthropic PBC、OpenAI等原生AI公司推出的產品，將嚴重削弱傳統軟體行業的長期發展前景。"
+    },
+    {
+      "id": "mkt:019f1e3f-f5c8-7aab-8c61-b0dd45947f4e",
+      "time": "2026-07-01 23:15:35",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Tesla",
+        "Market Themes",
+        "Magnificent 7",
+        "TSLA.O",
+        "Impact bullish"
+      ],
+      "text": "Portuguese Automobile Association (ACAP) said Tesla (TSLA.O) new registrations in Portugal rose 43.2% YoY in June; cumulative Jan–Jun registrations up 53.5%."
+    },
+    {
+      "id": "4965721",
+      "time": "2026-07-01 23:15:13",
+      "tags": [
+        "市場"
+      ],
+      "text": "葡萄牙汽車協會（ACAP）資料：6 月葡萄牙特斯拉新車上牌量同比增長 43.2%，1 至 6 月累計同比上漲 53.5%。"
+    },
     {
       "id": "mkt:019f1e3f-827d-7aab-8c61-afe9a4ad88bb",
       "time": "2026-07-01 23:15:06",
@@ -70,6 +128,15 @@
         "MKT News"
       ],
       "text": "Ivory Coast government spokesman said recent floods have killed 59 people."
+    },
+    {
+      "id": "em:qqyh_ozyh:202607013790619834",
+      "time": "2026-07-01 23:07:25",
+      "tags": [
+        "央行",
+        "歐洲央行"
+      ],
+      "text": "【歐洲央行管委Kaasik稱再加息一次是合理預期】歐洲央行管委UloKaasik表示，在伊朗戰爭之後可能需要進一步加息以確保通脹回到目標水平。“市場預計將再次加息，”這位愛沙尼亞央行行長在葡萄牙辛特拉表示。“目前看來，我認為至少再加息一次似乎是合理的。而且普遍認為，考慮到我們經歷的那種油價衝擊，需要這樣做來確保通脹降至2%。”在美國與伊朗和平談判推動能源價格下跌後，歐元區上月通脹放緩幅度超過預期。儘管如此，局勢仍然充滿波動，歐洲央行決策者正密切關注持續數月的大宗商品市場波動將如何傳導至整體經濟。部分出席歐洲央行年度論壇的歐洲央行官員表示，只要整體環境保持平穩，7月的會議可能維持借貸成本不變。“一個問題是地緣政治局勢將如何演變，以及石油市場會是什麼樣子，”Kaasik在談及7月22日至23日的會議時表示。“另一方面是持續三個月的油價衝擊將對其他價格產生什麼影響。”"
     },
     {
       "id": "mkt:019f1e38-4196-7aab-8c61-923e6e33ec52",
@@ -131563,22 +131630,6 @@
         "市場"
       ],
       "text": "倫鋁日內大跌4.00%，現報3124.92美元/噸。"
-    },
-    {
-      "id": "4953118",
-      "time": "2026-06-24 23:18:13",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場資訊：以色列無人機低空飛越貝魯特上空。"
-    },
-    {
-      "id": "mkt:019efa33-b248-7dd8-b0fe-1302e90e2174",
-      "time": "2026-06-24 23:15:52",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "EMSC reported a magnitude-5.5 earthquake in northern California, United States."
     }
   ]
 }
