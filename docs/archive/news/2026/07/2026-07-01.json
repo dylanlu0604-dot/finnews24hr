@@ -1,7 +1,98 @@
 {
   "date": "2026-07-01",
-  "count": 1526,
+  "count": 1534,
   "items": [
+    {
+      "id": "4964386",
+      "time": "2026-07-01 14:57:02",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "北證50日內漲幅達1.04%，成分股中，艾融軟體漲10.76%，矽烷科技漲7.79%，德源藥業漲7.75%，穎泰生物漲6.20%。"
+    },
+    {
+      "id": "te:economy:563303",
+      "time": "2026-07-01 14:56:29",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Sweden",
+        "Manufacturing PMI",
+        "Importance 1"
+      ],
+      "text": "Sweden Manufacturing Activity Climbs to Over Four-Year High — Sweden's Swedbank Manufacturing PMI rose to 58.3 in June 2026 from an upwardly revised 57.4 in May, marking its highest level since January 2022 and extending its run above the long-term average to 12 consecutive months. The improvement was driven by stronger production (59.9 vs 58.4 in May) and order intake (58.9 vs 56.2). Meanwhile, employment softened to 57.5 from 58.9, while suppliers' delivery times shortened slightly to 63.5 from 63.8. Export and domestic orders rose to 55.4 and 57.6, respectively. On the pricing front, the index measuring suppliers' raw material and input prices rose slightly by 0.1 point to 81.3. Manufacturers became less optimistic, with the production plans index edging down to 68.8 from 70.2, below the 70 threshold, as persistent input cost pressures raised concerns that they could become inflationary and pose a challenge for manufacturers over time."
+    },
+    {
+      "id": "mkt:019f1c76-bf02-7aab-8c4d-be2867028e99",
+      "time": "2026-07-01 14:56:11",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【June refiner silver bullion inventories down 17% as exports pick up】SMM data show China’s refiner inventories of silver ingots fell 17% MoM in June, primarily due to tighter domestic supply and an opened export window. Refiners stepped up exports during the month, driving notable end‑month stock draws."
+    },
+    {
+      "id": "te:economy:563302",
+      "time": "2026-07-01 14:55:35",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Switzerland",
+        "Retail Sales YoY",
+        "Importance 1"
+      ],
+      "text": "Swiss Retail Sales Growth Hits 11-Month High — Retail sales in Switzerland climbed by 3.5% year-on-year in May 2026, far exceeding market expectations for a 0.8% gain and accelerating from a slightly upwardly revised 1.7% rise in the previous month. The latest reading also marked the fastest growth in retail activity since June last year, driven largely by higher sales for non-food products excluding service stations, rising 4% from 2.3% in April. In the non-food sector, revenues mainly increased for information and communication equipment (9% vs 0.3%), other goods (6.5% vs 0.8%), and via stalls and markets; mail order and internet (4.2% vs 1.8%). Turnover also rose faster for food, beverages and tobacco, up 2.6% from 0.5%. In contrast, activity declined further in service stations (-6.1% vs -2.7%). Meanwhile, overall retail trade excluding service stations advanced 3.4% after rising 1.3% in the prior month. On a seasonally adjusted monthly basis, retail sales grew by 0.5% in May, following an upwardly revised 0.2% gain in April."
+    },
+    {
+      "id": "4964385",
+      "time": "2026-07-01 14:55:28",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "滬深兩市成交額超3.6萬億元，較上日此時放量3828億元。"
+    },
+    {
+      "id": "4964384",
+      "time": "2026-07-01 14:55:04",
+      "tags": [
+        "國際"
+      ],
+      "text": "【古外長：古巴對美國不構成威脅】古巴外長羅德里格斯6月30日表示，古巴不會對美國國家安全構成威脅。他表示，如果古巴遭到軍事侵略，古巴將“舉全國之力進行反抗”。美國長期對古巴實施經濟、金融封鎖和貿易禁運。今年相繼對委內瑞拉、伊朗發起軍事行動後，美國總統特朗普又對古巴發出威脅，稱“下一個是古巴”，並進一步對古施壓，實行石油封鎖。（新華社）"
+    },
+    {
+      "id": "mkt:019f1c75-11e5-7aab-8c4d-b016e274e166",
+      "time": "2026-07-01 14:54:22",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "AUDUSD",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish",
+        "WTI"
+      ],
+      "text": "【Analyst: RBA hike odds at 15% as AUD longs capitulate】Sagar Dua said on Wednesday in European trade the Australian dollar weakened across major currencies as US Treasury yields surged and risk-off drove heavy AUD selling. Market pricing assigns a 15% chance the Reserve Bank of Australia will raise the cash rate from 4.35% at its August meeting and a 50% probability that the current tightening cycle has ended. Oil's rebound toward pre–Middle East-war levels has helped stabilize global inflation expectations and cooled the outlook for further RBA hawkishness."
+    },
+    {
+      "id": "mkt:019f1c75-0d9a-7aab-8c4d-aba40f486d72",
+      "time": "2026-07-01 14:54:20",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "AI Revolution",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish",
+        "USDJPY"
+      ],
+      "text": "【H1 2026 winners and losers: AI-driven KOSPI surge versus gold and silver collapse】Winners: South Korea’s KOSPI doubled in 1H (+100%), driven by AI flows and historic rallies in Samsung Electronics and SK Hynix. Taiwan’s weighted index rose ~60%, led by TSMC (+>55% over six months). Japan’s Nikkei climbed ~40%, powered by tech gains and a sharp yen depreciation that boosted exporter appeal to foreign buyers. Spot crude remained a top performer despite a pullback: WTI +~20% YTD, Brent +~20% YTD. US major indices posted solid gains: Nasdaq ~+13%, S&P 500 +9.5% 1H. The dollar index recovered from a low of 95.5 to close H1 above 101, up ~3% YTD. AUD/USD gained ~3.7% on Reserve Bank of Australia hikes and higher energy prices. Copper benefited from “compute metal” demand: LME 3M copper +7%, hitting a record ~$14,527/ton. Losers: Precious metals underperformed—spot gold -~7% YTD and more than $1,500 below its intra-year peak; spot silver -~18%; platinum -~24%; palladium -~25%. Yen weakness: USD/JPY +3.8% 1H, yen at a 40-year low and USD/JPY roughly +10% since last October’s change in Japanese leadership. Indonesia: Jakarta Composite Index down ~34% 1H amid severe political turmoil; rupiah was the weakest Asian currency YTD."
+    },
     {
       "id": "4964383",
       "time": "2026-07-01 14:52:54",

@@ -1,7 +1,98 @@
 {
-  "updated": "2026-07-01 14:53:53",
-  "count": 13852,
+  "updated": "2026-07-01 14:57:44",
+  "count": 13850,
   "items": [
+    {
+      "id": "4964386",
+      "time": "2026-07-01 14:57:02",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "北證50日內漲幅達1.04%，成分股中，艾融軟體漲10.76%，矽烷科技漲7.79%，德源藥業漲7.75%，穎泰生物漲6.20%。"
+    },
+    {
+      "id": "te:economy:563303",
+      "time": "2026-07-01 14:56:29",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Sweden",
+        "Manufacturing PMI",
+        "Importance 1"
+      ],
+      "text": "Sweden Manufacturing Activity Climbs to Over Four-Year High — Sweden's Swedbank Manufacturing PMI rose to 58.3 in June 2026 from an upwardly revised 57.4 in May, marking its highest level since January 2022 and extending its run above the long-term average to 12 consecutive months. The improvement was driven by stronger production (59.9 vs 58.4 in May) and order intake (58.9 vs 56.2). Meanwhile, employment softened to 57.5 from 58.9, while suppliers' delivery times shortened slightly to 63.5 from 63.8. Export and domestic orders rose to 55.4 and 57.6, respectively. On the pricing front, the index measuring suppliers' raw material and input prices rose slightly by 0.1 point to 81.3. Manufacturers became less optimistic, with the production plans index edging down to 68.8 from 70.2, below the 70 threshold, as persistent input cost pressures raised concerns that they could become inflationary and pose a challenge for manufacturers over time."
+    },
+    {
+      "id": "mkt:019f1c76-bf02-7aab-8c4d-be2867028e99",
+      "time": "2026-07-01 14:56:11",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【June refiner silver bullion inventories down 17% as exports pick up】SMM data show China’s refiner inventories of silver ingots fell 17% MoM in June, primarily due to tighter domestic supply and an opened export window. Refiners stepped up exports during the month, driving notable end‑month stock draws."
+    },
+    {
+      "id": "te:economy:563302",
+      "time": "2026-07-01 14:55:35",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Switzerland",
+        "Retail Sales YoY",
+        "Importance 1"
+      ],
+      "text": "Swiss Retail Sales Growth Hits 11-Month High — Retail sales in Switzerland climbed by 3.5% year-on-year in May 2026, far exceeding market expectations for a 0.8% gain and accelerating from a slightly upwardly revised 1.7% rise in the previous month. The latest reading also marked the fastest growth in retail activity since June last year, driven largely by higher sales for non-food products excluding service stations, rising 4% from 2.3% in April. In the non-food sector, revenues mainly increased for information and communication equipment (9% vs 0.3%), other goods (6.5% vs 0.8%), and via stalls and markets; mail order and internet (4.2% vs 1.8%). Turnover also rose faster for food, beverages and tobacco, up 2.6% from 0.5%. In contrast, activity declined further in service stations (-6.1% vs -2.7%). Meanwhile, overall retail trade excluding service stations advanced 3.4% after rising 1.3% in the prior month. On a seasonally adjusted monthly basis, retail sales grew by 0.5% in May, following an upwardly revised 0.2% gain in April."
+    },
+    {
+      "id": "4964385",
+      "time": "2026-07-01 14:55:28",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "滬深兩市成交額超3.6萬億元，較上日此時放量3828億元。"
+    },
+    {
+      "id": "4964384",
+      "time": "2026-07-01 14:55:04",
+      "tags": [
+        "國際"
+      ],
+      "text": "【古外長：古巴對美國不構成威脅】古巴外長羅德里格斯6月30日表示，古巴不會對美國國家安全構成威脅。他表示，如果古巴遭到軍事侵略，古巴將“舉全國之力進行反抗”。美國長期對古巴實施經濟、金融封鎖和貿易禁運。今年相繼對委內瑞拉、伊朗發起軍事行動後，美國總統特朗普又對古巴發出威脅，稱“下一個是古巴”，並進一步對古施壓，實行石油封鎖。（新華社）"
+    },
+    {
+      "id": "mkt:019f1c75-11e5-7aab-8c4d-b016e274e166",
+      "time": "2026-07-01 14:54:22",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "AUDUSD",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish",
+        "WTI"
+      ],
+      "text": "【Analyst: RBA hike odds at 15% as AUD longs capitulate】Sagar Dua said on Wednesday in European trade the Australian dollar weakened across major currencies as US Treasury yields surged and risk-off drove heavy AUD selling. Market pricing assigns a 15% chance the Reserve Bank of Australia will raise the cash rate from 4.35% at its August meeting and a 50% probability that the current tightening cycle has ended. Oil's rebound toward pre–Middle East-war levels has helped stabilize global inflation expectations and cooled the outlook for further RBA hawkishness."
+    },
+    {
+      "id": "mkt:019f1c75-0d9a-7aab-8c4d-aba40f486d72",
+      "time": "2026-07-01 14:54:20",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "AI Revolution",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish",
+        "USDJPY"
+      ],
+      "text": "【H1 2026 winners and losers: AI-driven KOSPI surge versus gold and silver collapse】Winners: South Korea’s KOSPI doubled in 1H (+100%), driven by AI flows and historic rallies in Samsung Electronics and SK Hynix. Taiwan’s weighted index rose ~60%, led by TSMC (+>55% over six months). Japan’s Nikkei climbed ~40%, powered by tech gains and a sharp yen depreciation that boosted exporter appeal to foreign buyers. Spot crude remained a top performer despite a pullback: WTI +~20% YTD, Brent +~20% YTD. US major indices posted solid gains: Nasdaq ~+13%, S&P 500 +9.5% 1H. The dollar index recovered from a low of 95.5 to close H1 above 101, up ~3% YTD. AUD/USD gained ~3.7% on Reserve Bank of Australia hikes and higher energy prices. Copper benefited from “compute metal” demand: LME 3M copper +7%, hitting a record ~$14,527/ton. Losers: Precious metals underperformed—spot gold -~7% YTD and more than $1,500 below its intra-year peak; spot silver -~18%; platinum -~24%; palladium -~25%. Yen weakness: USD/JPY +3.8% 1H, yen at a 40-year low and USD/JPY roughly +10% since last October’s change in Japanese leadership. Indonesia: Jakarta Composite Index down ~34% 1H amid severe political turmoil; rupiah was the weakest Asian currency YTD."
+    },
     {
       "id": "4964383",
       "time": "2026-07-01 14:52:54",
@@ -127337,89 +127428,6 @@
         "MKT News"
       ],
       "text": "Kremlin spokesman Peskov did not announce whether President Putin will congratulate Trump on US Independence Day."
-    },
-    {
-      "id": "4951976",
-      "time": "2026-06-24 14:57:25",
-      "tags": [
-        "公司"
-      ],
-      "text": "【上海本地10萬噸級綠色甲醇專案實現單次交付超6000噸】6月24日，介面新聞從申能集團獲悉，申能集團牽頭建設的上海本地10萬噸級綠色甲醇專案在上海化工區孚寶碼頭完成批次交付。本次交付物件為中國船燃旗下綠色甲醇加註船“中燃綠能85”輪，交付量超過6000噸，重新整理國內單次綠色甲醇交付紀錄。"
-    },
-    {
-      "id": "4951975",
-      "time": "2026-06-24 14:57:15",
-      "tags": [
-        "其他",
-        "焦點",
-        "國際"
-      ],
-      "text": "巴基斯坦表示，美伊將於下週恢復技術級別會談。"
-    },
-    {
-      "id": "mkt:019ef86b-21ba-7dd8-b0ef-013f1851e1fe",
-      "time": "2026-06-24 14:57:10",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Ministry of Finance: May national lottery sales 52.863 billion yuan, down 7.3% YoY】Ministry of Finance data showed May national lottery sales totaled 52.863 billion yuan, down 4.172 billion yuan or 7.3% YoY, citing fewer football events ahead of the World Cup and a pullback in instant‑win ticket sales. Welfare lottery sales were 16.971 billion yuan, down 1.557 billion (8.4% YoY); sports lottery sales were 35.892 billion yuan, down 2.615 billion (6.8% YoY). Cumulative Jan–May sales were 250.896 billion yuan, down 12.476 billion (4.7% YoY)."
-    },
-    {
-      "id": "4951974",
-      "time": "2026-06-24 14:56:57",
-      "tags": [
-        "市場"
-      ],
-      "text": "大盤主力淨流入超100億。"
-    },
-    {
-      "id": "4951973",
-      "time": "2026-06-24 14:56:42",
-      "tags": [
-        "其他"
-      ],
-      "text": "【安永：上半年A股和港股IPO數量佔全球總量約三分之一】安永6月24日舉行中國內地和香港IPO市場報告釋出會。記者從釋出會上獲悉，據統計，2026年上半年，A股和香港市場的IPO數量合計佔全球總量的33%，而籌資額合計佔全球總量的22%。上半年，預計A股市場合計81家企業首發上市，籌資額1057億元。"
-    },
-    {
-      "id": "4951972",
-      "time": "2026-06-24 14:56:38",
-      "tags": [
-        "公司"
-      ],
-      "text": "【“開屏廣告沒了”上熱搜，23款App實測】6月23日晚，“開屏廣告沒了”登上微博熱搜，不少網友反映部分App啟動時那幾秒的開屏廣告不見了。記者實測23款生活、社交、購物、導航等App發現，17款沒看見開屏廣告，僅有6款依舊有開屏廣告。開屏廣告真的消失了嗎？記者首先測試導航類App，記者開啟百度地圖、高德地圖和騰訊地圖，三款軟體均無開屏廣告，一點即入，頁面直接顯示當前位置。記者又對20款常用的購物、社交類App進行了逐一測試。結果發現，貼吧、微博、知乎、大麥、芒果TV等6款App仍保留開屏廣告，而淘寶、京東、小紅書、拼多多、閒魚、抖音、大眾點評等14款App則清爽了不少，點開即達主頁，已看不到開屏廣告的蹤影。測試中記者還注意到，即便是同一款App，在不同裝置上也可能情況不同。以嗶哩嗶哩為例，記者用兩部手機同時點開，一部彈出的是帶有5秒倒計時的開屏廣告，另一部卻直接進入了主介面。（北京日報）"
-    },
-    {
-      "id": "4951971",
-      "time": "2026-06-24 14:56:29",
-      "tags": [
-        "其他"
-      ],
-      "text": "【曾毓群：固態電池技術路線現在只到了level 4 level 9是可以量產】在2026大連夏季達沃斯論壇上，寧德時代董事長曾毓群在“無電力，不智慧”論壇表示，固態電池的技術路線，如果是level 1-9的話，現在只到了level 4，level 9是可以量產。他表示，這是技術路線，還有產品路線，就是有沒有這麼多供應，產品做出來的可靠性安全性是不是能達到需求，第三個是商品路線，是做出來的東西到底市場上接受度怎麼樣，能不能賣的很多。 (半島晨報)"
-    },
-    {
-      "id": "4951970",
-      "time": "2026-06-24 14:55:57",
-      "tags": [
-        "市場"
-      ],
-      "text": "港股大模型走低，智譜一度跌超3%，早盤一度漲超16%；MINIMAX跌超6%，早盤一度漲近3%。"
-    },
-    {
-      "id": "4951969",
-      "time": "2026-06-24 14:55:31",
-      "tags": [
-        "公司"
-      ],
-      "text": "【星網銳捷增資至7.6億 增幅約30%】天眼查 App 顯示，近日，星網銳捷（002396）發生工商變更，註冊資本由約5.9億人民幣增至約7.6億人民幣，增幅約30%。該公司成立於1996年11月，法定代表人為阮加勇，經營範圍包括網際網路接入裝置、網路及通訊裝置、計算機、通訊和其他電子裝置的開發、生產、銷售等，由福建省電子資訊（集團）有限責任公司、香港中央結算有限公司、中央匯金資產管理有限責任公司等共同持股。"
-    },
-    {
-      "id": "4951968",
-      "time": "2026-06-24 14:54:27",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "滬深兩市成交額超3.2萬億元，較上日此時縮量1731億元。"
     }
   ]
 }
