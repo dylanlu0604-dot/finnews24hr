@@ -1,7 +1,15 @@
 {
-  "updated": "2026-07-02 05:12:45",
-  "count": 14036,
+  "updated": "2026-07-02 05:16:40",
+  "count": 14032,
   "items": [
+    {
+      "id": "4965946",
+      "time": "2026-07-02 05:15:20",
+      "tags": [
+        "市場"
+      ],
+      "text": "富時A50期指連續夜盤收漲0.35%，報15300點。"
+    },
     {
       "id": "mkt:019f1f84-b112-7aab-8c66-70e691502ed8",
       "time": "2026-07-02 05:10:17",
@@ -129231,58 +129239,6 @@
         "MKT News"
       ],
       "text": "【Pakistan counterterrorism unit says it killed six terrorists】Pakistan's Khyber Pakhtunkhwa counterterrorism department said on the 24th that a joint operation with police killed six terrorists. The department said the group had earlier attacked a local police post, killing one officer."
-    },
-    {
-      "id": "4953537",
-      "time": "2026-06-25 05:16:15",
-      "tags": [
-        "其他"
-      ],
-      "text": "【巴基斯坦反恐部門稱擊斃6名恐怖分子】巴基斯坦西北部開伯爾－普什圖省反恐部門24日釋出宣告說，該部門在和警方的聯合行動中擊斃6名恐怖分子。宣告說，這夥恐怖分子此前襲擊該地區一警察哨所，導致一名警員殉職。"
-    },
-    {
-      "id": "4953536",
-      "time": "2026-06-25 05:15:20",
-      "tags": [
-        "市場"
-      ],
-      "text": "富時A50期指連續夜盤收跌0.02%，報15537點。"
-    },
-    {
-      "id": "4953535",
-      "time": "2026-06-25 05:13:46",
-      "tags": [
-        "國際"
-      ],
-      "text": "【特朗普回應拒籤住房法案：比任何人都懂房地產 降息才是關鍵】當地時間6月24日，被問及臨時取消旨在降低住房成本和增加住房供應法案的簽署計劃時，美國總統特朗普表示，“我說過我不會簽署那個法案。我在房地產行業賺了幾十億美元，我比任何人都更瞭解房地產。這完全是利率的事情，我們要降低利率。我也不想傷害那些擁有房產的人。對這些人來說，他們人生中第一次擁有了有價值的房子，他們變得富有了。我也不想傷害他們。”"
-    },
-    {
-      "id": "te:economy:561645",
-      "time": "2026-06-25 05:13:43",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "South Korea",
-        "Business Confidence",
-        "Importance 1"
-      ],
-      "text": "South Korea Manufacturing Confidence Eases in June — South Korea’s Business Survey Index for the manufacturing sector edged down to 79 in June 2026 from 80 in the previous month. The production index was unchanged at 90, while the new orders index rose to 88 from 87. Meanwhile, the inventories index held steady at 100, and the financial conditions index improved slightly to 80 from 79. The Composite Business Sentiment Index for manufacturing rose 0.4 points to 101.2, signaling a modest improvement in current conditions. However, the outlook for the following month weakened, with the forward-looking sentiment index falling 2.1 points to 98.2."
-    },
-    {
-      "id": "mkt:019efb7b-319a-7dd8-b105-b3182f458e57",
-      "time": "2026-06-25 05:13:35",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Macro & Rates",
-        "US Economy",
-        "US10Y",
-        "Impact bullish",
-        "DXY",
-        "Impact bearish",
-        "S&P500"
-      ],
-      "text": "【Trump says he will not sign housing bill, frames issue as interest-rate driven and backs rate cuts】On June 24, asked about his decision not to sign a bill intended to lower housing costs and boost supply, President Trump said he will not sign the measure. He said he has made billions in real estate and \"understands real estate better than anyone,\" called the problem \"entirely about rates,\" and said \"we need to lower rates.\" He added he does not want to hurt homeowners who have gained wealth from rising house values."
     }
   ]
 }
