@@ -1,7 +1,85 @@
 {
-  "updated": "2026-07-02 00:10:01",
-  "count": 14256,
+  "updated": "2026-07-02 00:14:03",
+  "count": 14249,
   "items": [
+    {
+      "id": "mkt:019f1e74-243d-7aab-8c63-12ac360937d7",
+      "time": "2026-07-02 00:12:35",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "WhatsApp said users will still need to provide a phone number to use the app. The company has layered protections for usernames to prevent scams and will deploy systems to detect and remove activity exhibiting common impersonation and abuse."
+    },
+    {
+      "id": "te:markets:563521",
+      "time": "2026-07-02 00:12:10",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Italy",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The FTSE MIB Index Closes 0.15% Lower — The FTSE MIB Index fell 78 points or 0.15 percent on Wednesday to close at 51605 points. Leading the losses are Saipem (-3.06%), STMicroelectronics (-3.04%) and Eni (-2.62%). Top gainers were Nexi (6.25%), Leonardo SpA (4.22%) and Amplifon (4.09%)."
+    },
+    {
+      "id": "mkt:019f1e73-586b-7aab-8c63-09a4a1fbaa86",
+      "time": "2026-07-02 00:11:43",
+      "tags": [
+        "MKT News",
+        "META.O"
+      ],
+      "text": "WhatsApp said it has assigned highest-priority usernames to prevent impersonation and ensure only legitimate owners can register. It said it will limit how many new users a single account can contact and will block repeated attempts to guess other users' username keys."
+    },
+    {
+      "id": "te:markets:563520",
+      "time": "2026-07-02 00:11:10",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Germany",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The DAX Index Closes 0.18% Higher — The DAX Index gained 44 points or 0.18 percent on Wednesday to close at 25040 points. Gains were led by Rheinmetall (6.06%), SAP (5.25%) and Fresenius (2.65%). Biggest losers were Infineon (-4.21%), Siemens (-2.39%) and E.ON (-2.02%)."
+    },
+    {
+      "id": "4965776",
+      "time": "2026-07-02 00:10:26",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "【美聯儲主席：當前美國通脹水平仍然過高】美國聯邦儲備委員會主席凱文·沃什7月1日在葡萄牙舉行的歐洲央行中央銀行論壇上表示，當前美國通脹水平仍然過高，同時重申美聯儲工作的優先事項是確保物價穩定。沃什說，美聯儲將“開闢一條新的政策路徑”，但並未進一步加以說明，同時迴避了有關7月貨幣政策會議是否加息的問題，強調不會對未來利率政策給出前瞻性指引。沃什表示，美聯儲正設立獨立工作組，圍繞貨幣政策溝通、經濟資料體系、生產率、通脹框架以及資產負債表政策等課題展開研究。他認為，如果現有政策框架影響決策效率，就應當實施改革。（新華社）"
+    },
+    {
+      "id": "te:markets:563519",
+      "time": "2026-07-02 00:10:10",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "France",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The CAC 40 Index Closes 0.79% Lower — The CAC 40 Index decreased 67 points or 0.79 percent on Wednesday to close at 8337 points. The decline was led by Orange (-4.39%), STMicroelectronics (-4.37%) and ENGIE (-3.77%). On the upside, the strongest performers were TP (8.48%), Renault (5.26%) and Essilor (4.88%)."
+    },
+    {
+      "id": "4965775",
+      "time": "2026-07-02 00:09:40",
+      "tags": [
+        "其他"
+      ],
+      "text": "WhatsApp 發言人針對使用者名稱功能說明：平臺將限制單個賬號可新增聯絡的陌生使用者數量，並攔截多次嘗試破解他人使用者名稱金鑰的操作。"
+    },
+    {
+      "id": "mkt:019f1e71-6425-7aab-8c63-07a0c2c245b9",
+      "time": "2026-07-02 00:09:35",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. Vice President Vance said technical negotiators are in talks on Iran."
+    },
     {
       "id": "4965774",
       "time": "2026-07-02 00:08:43",
@@ -131334,157 +131412,6 @@
         "Importance 0"
       ],
       "text": "FTSE MIB Edges Lower — The FTSE MIB declined 0.8% to close at 51,639 on Wednesday, with sentiment weighed down by a combination of defensive sector weakness and ongoing tech pressure. Defense contractor Leonardo extended losses to 5% after reports that Germany is considering cancelling plans for its largest post–World War II warship in favor of purchasing eight smaller frigates from TKMS. Avio followed losing 4.2%. Semiconductor company STMicroelectronics edged lower by 0.5% while Prysmian declined 1.1%, as investors stayed cautious ahead of Micron earnings results for further conclusions on the sector. Contributing to the market decline, Unipol led losses in the banking sector with a 2.6% drop, followed by Banco BPM (-2.1%), UniCredit(-1.4%) and BPER Banca (-1.4%). Elsewhere, Ferrari recorded strong gains of 1.9%. Energy stocks were mixed, with Italgas down 1.2% and Enel 0.3%, and Snam up 1.6%."
-    },
-    {
-      "id": "4953182",
-      "time": "2026-06-25 00:13:46",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國國務卿魯比奧：相關技術性磋商目前僅在工作人員層級開展。"
-    },
-    {
-      "id": "mkt:019efa68-8b3e-7dd8-b0ff-78e6f99cc521",
-      "time": "2026-06-25 00:13:35",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "U.S. Secretary of State Rubio said technical teams are finalizing details of an agreement with Iran."
-    },
-    {
-      "id": "mkt:019efa68-4359-7dd8-b0ff-7093354c2ecb",
-      "time": "2026-06-25 00:13:17",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "U.S. Secretary of State Rubio said the United States will help the Lebanese government achieve full control of its territory."
-    },
-    {
-      "id": "mkt:019efa67-ea5c-7dd8-b0ff-6b84c3c1da4a",
-      "time": "2026-06-25 00:12:54",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bearish",
-        "Brent",
-        "S&P500",
-        "Impact bullish"
-      ],
-      "text": "US Secretary of State Rubio said when the US says it will open the Strait of Hormuz it means unobstructed free passage; the strait is an international waterway."
-    },
-    {
-      "id": "4953181",
-      "time": "2026-06-25 00:12:43",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國國務卿魯比奧：伊朗問題技術小組將於本月晚些時候重啟運作。"
-    },
-    {
-      "id": "mkt:019efa67-9775-7dd8-b0ff-67f4cf823328",
-      "time": "2026-06-25 00:12:33",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Rubio says the technical working group on Iran will return later this month."
-    },
-    {
-      "id": "4953180",
-      "time": "2026-06-25 00:12:25",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國國務卿魯比奧開啟為期三天的中東地區訪問。"
-    },
-    {
-      "id": "te:markets:561621",
-      "time": "2026-06-25 00:12:17",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Italy",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The FTSE MIB Index Closes 0.74% Lower — The FTSE MIB Index fell 385 points or 0.74 percent on Wednesday to close at 51639 points. Leading the losses are Leonardo SpA (-5.05%), Avio (-3.69%) and Eni (-3.28%). Top gainers were Diasorin (3.13%), Ferrari NV (2.06%) and Telecom Italia (1.62%)."
-    },
-    {
-      "id": "mkt:019efa66-f812-7dd8-b0ff-5bee0bad046a",
-      "time": "2026-06-25 00:11:52",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "U.S. Secretary of State Rubio said he hopes negotiations between Lebanon and Israel succeed."
-    },
-    {
-      "id": "mkt:019efa66-dcb5-7dd8-b0ff-564f3d416b41",
-      "time": "2026-06-25 00:11:45",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "Brent",
-        "DXY"
-      ],
-      "text": "US Secretary of State Rubio said Israel is in Lebanon because Hezbollah is launching attacks against Israel from there."
-    },
-    {
-      "id": "te:markets:561619",
-      "time": "2026-06-25 00:11:17",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Germany",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The DAX Index Closes 0.62% Lower — The DAX Index dropped 153 points or 0.62 percent on Wednesday to close at 24740 points. Losses were led by Rheinmetall (-19.06%), Deutsche Bank (-2.58%) and RWE (-2.50%). Offsetting the fall, top gainers were MTU Aero Engines AG (6.36%), Qiagen NV (4.60%) and Beiersdorf (3.79%)."
-    },
-    {
-      "id": "mkt:019efa66-602e-7dd8-b0ff-4a43d21ca47d",
-      "time": "2026-06-25 00:11:13",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Tesla",
-        "Market Themes",
-        "Magnificent 7",
-        "TSLA.O",
-        "Impact bearish"
-      ],
-      "text": "U.S. National Transportation Safety Board opens safety investigation into Tesla (TSLA.O) Model 3 crash on June 19."
-    },
-    {
-      "id": "4953179",
-      "time": "2026-06-25 00:10:36",
-      "tags": [
-        "國際"
-      ],
-      "text": "澤連斯基：俄羅斯部署在白俄羅斯境內的無人機訊號發射中繼站現已全部失效。"
-    },
-    {
-      "id": "4953178",
-      "time": "2026-06-25 00:10:22",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "美國國務卿魯比奧：霍爾木茲海峽不會收取通行費。"
-    },
-    {
-      "id": "te:markets:561617",
-      "time": "2026-06-25 00:10:17",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "France",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The CAC 40 Index Closes 0.54% Higher — The CAC 40 Index went up by 45 points or 0.54 percent on Wednesday to close at 8385 points. The rise was led by Saint-Gobain (3.31%), L'Oréal (3.05%) and Danone (2.84%). On the downside, the weakerst performers were TP (-4.85%), ArcelorMittal (-2.90%) and TotalEnergies SE (-1.96%)."
     }
   ]
 }
