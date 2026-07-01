@@ -1,7 +1,26 @@
 {
-  "updated": "2026-07-01 10:31:34",
-  "count": 13983,
+  "updated": "2026-07-01 10:35:37",
+  "count": 13975,
   "items": [
+    {
+      "id": "mkt:019f1b87-65d4-7aab-8c49-698ab1c3f3db",
+      "time": "2026-07-01 10:34:45",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Decision Desk HQ projects Melat Kiros has defeated incumbent Representative Diana DeGette to win the Democratic primary in Colorado's 1st Congressional District."
+    },
+    {
+      "id": "mkt:019f1b85-1642-7aab-8c49-61f411faa754",
+      "time": "2026-07-01 10:32:14",
+      "tags": [
+        "MKT News",
+        "CSI300",
+        "Impact bullish",
+        "SSE Composite"
+      ],
+      "text": "China A-share AI training-data sector rebounded after choppy trading; Xinhua Media hit the daily limit, while Desheng Technology, Dook Culture, CITIC Publishing, Guomai Culture, People’s Daily Online, Tongfang Co. and China Publishing also rose."
+    },
     {
       "id": "4964070",
       "time": "2026-07-01 10:30:57",
@@ -128413,105 +128432,6 @@
         "其他"
       ],
       "text": "【深圳經營主體總量超450萬家】在24日上午舉行的2026年APEC中小企業工商論壇主論壇上，深圳市市長覃偉中介紹，截至今年5月，深圳經營主體總量超450萬家，其中中小企業超280萬家，經營主體數量和創業密度均居中國城市首位。"
-    },
-    {
-      "id": "mkt:019ef77b-0110-7dd8-b0e9-4ce2ba6355e2",
-      "time": "2026-06-24 10:34:53",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "Chip Wars",
-        "INTC.O",
-        "Impact bullish",
-        "TSM.N",
-        "Impact bearish"
-      ],
-      "text": "SoftBank CEO Masayoshi Son said Intel (INTC.O)'s manufacturing role is critical, and tech giants are seeking to surpass TSMC (TSM.N)."
-    },
-    {
-      "id": "4951565",
-      "time": "2026-06-24 10:34:17",
-      "tags": [
-        "其他"
-      ],
-      "text": "孫正義：隨著科技巨頭將目光投向臺積電以外的領域，英特爾的製造作用至關重要。"
-    },
-    {
-      "id": "mkt:019ef77a-618d-7dd8-b0e9-41f9a0165c6c",
-      "time": "2026-06-24 10:34:13",
-      "tags": [
-        "MKT News",
-        "INTC.O",
-        "Impact bullish"
-      ],
-      "text": "SoftBank CEO Masayoshi Son said imminent deals involving NVIDIA (NVDA.O) and Apple (AAPL.O) are driving a sharp rise in Intel's (INTC.O) market value."
-    },
-    {
-      "id": "mkt:019ef77a-458e-7dd8-b0e9-3e2b3b780b79",
-      "time": "2026-06-24 10:34:05",
-      "tags": [
-        "MKT News",
-        "CSI300",
-        "Impact bullish",
-        "Hang Seng Index"
-      ],
-      "text": "【Ultra-long special sovereign bonds support upgrade of over 360,000 residential elevators】The Ministry of Housing and Urban-Rural Development said that since the central government included renovation of old residential elevators in the funding scope of ultra-long special sovereign bonds, localities have used the policy support to accelerate upgrades, with more than 360,000 old residential elevators cumulatively replaced."
-    },
-    {
-      "id": "4951564",
-      "time": "2026-06-24 10:33:43",
-      "tags": [
-        "市場"
-      ],
-      "text": "軟銀孫正義：即將達成的與英偉達、蘋果的交易推動英特爾股價大漲。"
-    },
-    {
-      "id": "mkt:019ef779-e669-7dd8-b0e9-36e4179c04d4",
-      "time": "2026-06-24 10:33:41",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "Chip Wars",
-        "INTC.O",
-        "Impact bullish"
-      ],
-      "text": "SoftBank CEO Masayoshi Son said Intel (INTC.O) plays an indispensable role in U.S. national security."
-    },
-    {
-      "id": "4951563",
-      "time": "2026-06-24 10:33:25",
-      "tags": [
-        "市場"
-      ],
-      "text": "【超長期特別國債已助力超36萬臺電梯更新】記者今天（24日）從住房城鄉建設部獲悉，自國家將住宅老舊電梯更新改造納入超長期特別國債資金支援範圍以來，各地積極依託政策支援，大力推進住宅老舊電梯更新改造，助力居民便捷出行，目前已累計更新住宅老舊電梯超36萬臺。(央視新聞)"
-    },
-    {
-      "id": "4951562",
-      "time": "2026-06-24 10:32:47",
-      "tags": [
-        "國際"
-      ],
-      "text": "軟銀孫正義：英特爾對美國而言是不可或缺的國家安全資產。"
-    },
-    {
-      "id": "te:markets:561325",
-      "time": "2026-06-24 10:32:37",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Australia",
-        "Currency",
-        "Importance 1"
-      ],
-      "text": "Australian Dollar Muted After Mixed CPI Data — The Australian dollar was largely unchanged around $0.691, staying near an eleven-week low after a mixed inflation report reinforced a further rise in interest rates. Headline consumer prices fell 0.7% in May from the previous month, pulling annual inflation down to 4.0% from 4.2% and marking the slowest pace in three months. However, underlying price pressures remained firm, with trimmed mean inflation rising 0.4% on the month, above forecasts and lifting the annual core rate to 3.6%. After raising interest rates three times this year, the Reserve Bank left the cash rate unchanged at 4.35% this month but reiterated that it would not hesitate to tighten further if inflation remains above its 2.5% target. The mixed inflation figures are likely to keep the policy outlook tilted hawkish, with markets still pricing in around a 22% probability of an August rate move and expectations of roughly 15 basis points of additional tightening over the remainder of the year."
-    },
-    {
-      "id": "4951561",
-      "time": "2026-06-24 10:32:10",
-      "tags": [
-        "市場"
-      ],
-      "text": "泰銖兌美元走軟至33.425，為2025年5月15日以來最低。"
     }
   ]
 }
