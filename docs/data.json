@@ -1,7 +1,46 @@
 {
-  "updated": "2026-07-02 02:32:48",
-  "count": 14133,
+  "updated": "2026-07-02 02:36:36",
+  "count": 14131,
   "items": [
+    {
+      "id": "mkt:019f1ef6-d53b-7aab-8c65-24246bcdf885",
+      "time": "2026-07-02 02:35:20",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Elon Musk denied a Wall Street Journal report that SpaceX (SPCX.O) had shown investors a prototype of a new AI device."
+    },
+    {
+      "id": "mkt:019f1ef5-b303-7aab-8c65-1ad1e7e2487a",
+      "time": "2026-07-02 02:34:06",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Mexico's economy minister said the country seeks to address U.S. concerns about Mexico's external dependence."
+    },
+    {
+      "id": "mkt:019f1ef4-c3ce-7aab-8c65-137790dea5c0",
+      "time": "2026-07-02 02:33:05",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish"
+      ],
+      "text": "U.S. crude futures settled at $68.58 a barrel, down $0.92, or 1.32%."
+    },
+    {
+      "id": "4965850",
+      "time": "2026-07-02 02:32:58",
+      "tags": [
+        "公司",
+        "焦點",
+        "國際"
+      ],
+      "text": "馬斯克回應華爾街日報關於原型裝置的報道，稱其“完全錯誤”。"
+    },
     {
       "id": "mkt:019f1ef3-3035-7aab-8c65-0c87cb2791fc",
       "time": "2026-07-02 02:31:21",
@@ -130213,69 +130252,6 @@
         "其他"
       ],
       "text": "高通資料中心部門主管：高通將於2028年年中推出資料中心CPU。"
-    },
-    {
-      "id": "4953339",
-      "time": "2026-06-25 02:36:31",
-      "tags": [
-        "公司"
-      ],
-      "text": "市場資訊：資料中心行業迎來擴張熱潮，特殊目的收購公司（SPAC）被視作企業登陸公開市場的核心渠道。"
-    },
-    {
-      "id": "mkt:019efaeb-1231-7dd8-b102-85dc29613e63",
-      "time": "2026-06-25 02:36:10",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "The Trump Trade"
-      ],
-      "text": "【Sources: U.S. to press ahead with sale of jet engines to Turkey before NATO summit】Four people said on Wednesday that despite opposition from some U.S. lawmakers the Trump administration plans to move forward with a sale of dozens of jet engines to Turkey worth several hundred million dollars. The deal, seen as a goodwill gesture ahead of next month’s NATO summit in Turkey, involves GE-made engines intended for Turkey’s first indigenous fighter, KAAN, a program launched in 2016 as part of Ankara’s drive for defense autonomy. One source said the transaction would exceed $700m."
-    },
-    {
-      "id": "mkt:019efaea-9f36-7dd8-b102-7ed9201b9190",
-      "time": "2026-06-25 02:35:40",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "【Netanyahu says IDF will not withdraw from south Lebanon 'security zone' while he remains prime minister】On the 24th local time, speaking at a meeting of Israel's Union of Local Authorities, Prime Minister Netanyahu said the IDF will not withdraw from the 'security zone' in southern Lebanon while he remains in office and will maintain it indefinitely. He said he will never allow Iran to acquire nuclear weapons. Netanyahu added that Hezbollah remains active, but the IDF has established the 'security zone' in south Lebanon, is systematically destroying its underground infrastructure and is cutting its ability to cross into the Galilee."
-    },
-    {
-      "id": "4953338",
-      "time": "2026-06-25 02:35:12",
-      "tags": [
-        "國際"
-      ],
-      "text": "【內塔尼亞胡稱只要其在任以軍就不會撤出黎南部“安全區”】當地時間24日，以色列總理內塔尼亞胡在以色列地方政府聯合會上發表講話，談及以軍在多個方向的軍事行動與安全政策。他強調，只要其擔任總理，以軍就不會撤出黎巴嫩南部“安全區”，且決不容許伊朗擁有核武器。內塔尼亞胡表示，雖然黎真主黨依然存在，但以軍已在黎南部建立起“安全區”，正在全面摧毀其地下基礎設施，切斷其越境進入加利利地區的可能。他強調，只要他在任，以軍就將無限期維持該“安全區”。（央視新聞）"
-    },
-    {
-      "id": "4953337",
-      "time": "2026-06-25 02:34:18",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國證券交易委員會任命凱瑟琳・哈欽森為國際事務辦公室主任。"
-    },
-    {
-      "id": "mkt:019efae9-4d40-7dd8-b102-71a4d3831239",
-      "time": "2026-06-25 02:34:14",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "Commodities",
-        "Precious Metals",
-        "XAUUSD",
-        "Impact bearish",
-        "DXY",
-        "Impact bullish"
-      ],
-      "text": "【Gold falls below $4,000 as dollar strength and Fed rate-hike expectations weigh】Gold extended the previous session’s decline as the dollar strengthened and markets increasingly priced in a Fed rate hike later this year. New York gold futures fell 3.4% to $3,990.30/oz, the weakest close since November. Other precious metals also slipped. The dollar rose against a basket of currencies, making dollar-priced commodities more expensive for overseas buyers."
     }
   ]
 }
