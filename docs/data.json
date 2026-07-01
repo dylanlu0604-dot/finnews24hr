@@ -1,7 +1,165 @@
 {
-  "updated": "2026-07-01 15:55:08",
-  "count": 13813,
+  "updated": "2026-07-01 15:59:18",
+  "count": 13819,
   "items": [
+    {
+      "id": "4964521",
+      "time": "2026-07-01 15:58:17",
+      "tags": [
+        "公司"
+      ],
+      "text": "【紐威數控：多名董事辭職，補選及選舉新董事、董事長】紐威數控公告稱，近日，非獨立董事郭國新、管強及職工代表董事衛繼健辭職，郭國新任戰略顧問，管強任總工程師，衛繼健任副總經理。7月1日，公司第三屆董事會第七次會議補選董松濤、朱家龍為非獨立董事，選舉胡春有任董事長兼法定代表人；第五屆第四次職工代表大會選舉許冬華任職工代表董事。此外，會議還調整了董事會專門委員會成員。補選非獨立董事事項尚需股東會審議。"
+    },
+    {
+      "id": "te:economy:563335",
+      "time": "2026-07-01 15:58:11",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Costa Rica",
+        "Current Account",
+        "Importance 0"
+      ],
+      "text": "Costa Rica Current Account Gap Widens in Q1 — Costa Rica’s current account deficit widened to USD 92.6 million in the first quarter of 2026 from USD 55.2 million in the corresponding period of the previous year. The primary income account deficit increased to USD 2,700.1 million from USD 2,304.4 million, while the surplus in the secondary income account narrowed to USD 179.8 million from USD 188.0 million. In contrast, the goods account deficit narrowed to USD 339.4 million from USD 550.1 million, whereas the services account surplus widened to USD 2,767.0 million from USD 2,611.3 million."
+    },
+    {
+      "id": "te:economy:563334",
+      "time": "2026-07-01 15:58:06",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "France",
+        "Manufacturing PMI",
+        "Importance 1"
+      ],
+      "text": "France Manufacturing Sector Rebounds More than Thought — The S&P Global France Manufacturing PMI was revised higher to 51.2 in June 2026 from 50.7 in the preliminary estimate and 49.7 in May, despite contractions in production and new orders. Muted market conditions and overstocked clients caused domestic sales and output to fall, though their rates of decline slowed. Crucially, the headline expansion was heavily influenced by severe supply side friction, as thin transit availability and material shortages triggered the most intense delivery delays in nearly four years. To manage these delays, manufacturers aggressively depleted existing preproduction inventories at the fastest pace in seven months. Meanwhile, factories marginally expanded employment, though backlogs continued to build. Input costs for chemical, transport, and oil based items remained elevated, forcing factories to increase selling fees, even as overall cost pressures cooled for the first time since December."
+    },
+    {
+      "id": "4964520",
+      "time": "2026-07-01 15:57:55",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗國家媒體稱，一艘外國集裝箱船在霍爾木茲海峽使用未經伊朗指定的航線後擱淺。"
+    },
+    {
+      "id": "4964519",
+      "time": "2026-07-01 15:57:49",
+      "tags": [
+        "其他"
+      ],
+      "text": "【上海半年土拍攬金436億元，楊浦濱江超百億元地塊即將開拍】隨著第五批次集中供地完成，上海今年上半年土地市場正式收官。 前6個月，上海累計出讓17宗涉宅用地，攬金436億元。從成交表現來看，上海土拍熱度呈現明顯回升態勢：年初部分地塊仍以底價成交，而近期高溢價地塊不斷湧現，開發商投資信心持續修復。 與此同時，上海第六批次集中供地已經掛牌，一宗起始價超過百億元的楊浦濱江地塊即將登場，部分房企已提前啟動佈局，新一輪土地競爭或將繼續升溫。（第一財經）"
+    },
+    {
+      "id": "mkt:019f1caf-2b2e-7aab-8c4f-98972b48d6cd",
+      "time": "2026-07-01 15:57:49",
+      "tags": [
+        "MKT News",
+        "EURUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "【France June manufacturing PMI rises to 51.2, back in expansion】S&P Global's France manufacturing PMI rose to 51.2 in June from 49.7 in May and above the preliminary 50.7, returning the sector to expansion after a dip below 50 in April–May. S&P Global reported higher unfinished orders and increased work backlogs in June. The PMI prices index fell from May, which could signal easing inflationary pressure in manufacturing and the wider economy. S&P Global Market Intelligence economist Joe Hayes said transport disruptions linked to the Iran war continue to weigh on supply chains, prompting firms to cut purchases and run down inventories; the length of those disruptions could determine the pace of the manufacturing recovery."
+    },
+    {
+      "id": "4964518",
+      "time": "2026-07-01 15:57:03",
+      "tags": [
+        "國際"
+      ],
+      "text": "歐洲航空安全域性（EASA）：針對中東波斯灣空域的衝突區有效期延長至7月8日。"
+    },
+    {
+      "id": "4964517",
+      "time": "2026-07-01 15:56:56",
+      "tags": [
+        "其他"
+      ],
+      "text": "美銀全球研究將耐克目標價從55美元下調至47美元。"
+    },
+    {
+      "id": "4964516",
+      "time": "2026-07-01 15:56:49",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美國司法部要求嚴查“赴美產子游”】美國聯邦最高法院6月30日推翻總統特朗普限制“出生公民權”的行政令後，美國司法部官員要求聯邦檢察官把所謂“赴美產子游”作為優先調查事項。據路透社報道，美國司法部高階官員科林·麥克唐納在致司法部所有人員的一份備忘錄中說，將“調查並起訴以欺詐方式利用美國移民制度的人”。打著各種“幌子”赴美生子、為子女謀取美國公民身份的人，將面臨簽證欺詐、洗錢、身份盜竊及電信欺詐等相關罪名指控。（新華社）"
+    },
+    {
+      "id": "mkt:019f1cae-1d0b-7aab-8c4f-914402504466",
+      "time": "2026-07-01 15:56:40",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "EASA extended the validity of its conflict-zone designation for Middle East/Persian Gulf airspace to July 8."
+    },
+    {
+      "id": "4964515",
+      "time": "2026-07-01 15:56:32",
+      "tags": [
+        "國際"
+      ],
+      "text": "【南美關稅同盟宣佈擬與日本啟動EPA談判】巴西等南美各國加入的關稅同盟“南方共同市場”（MERCOSUR）6月30日在巴拉圭首都亞松森召開首腦會議，宣佈已決定與日本啟動旨在締結經濟夥伴關係協定（EPA）的談判。"
+    },
+    {
+      "id": "4964514",
+      "time": "2026-07-01 15:56:06",
+      "tags": [
+        "其他"
+      ],
+      "text": "伯恩斯坦：將耐克目標價從80美元下調至72美元。"
+    },
+    {
+      "id": "4964513",
+      "time": "2026-07-01 15:55:44",
+      "tags": [
+        "公司"
+      ],
+      "text": "【海南橡膠：收到徵地社會保險費補貼1.09億元】海南橡膠(601118)7月1日公告，根據《海南省收回農墾國有土地使用權社會保險費補貼辦法》的相關規定，公司近日收到五指山熱帶雨林飛禽動物園專案等徵地專案的社會保險費補貼1.09億元，會計核算確認為營業外收入。"
+    },
+    {
+      "id": "4964512",
+      "time": "2026-07-01 15:55:28",
+      "tags": [
+        "公司"
+      ],
+      "text": "【精華製藥：董事陸健因工作安排辭職】精華製藥公告稱，公司近日收到第六屆董事會成員陸健的書面辭職報告，其因工作安排，申請辭去非獨立董事職務，原定任期至第六屆董事會屆滿。辭職後不再擔任公司及子公司任何職務。截至公告披露日，陸健未持股，無未履行承諾事項。其辭職不會影響董事會正常運作，辭職報告自送達公司之日起生效，公司將盡快完成董事補選工作。"
+    },
+    {
+      "id": "mkt:019f1cac-cbdf-7aab-8c4f-8fce5973e668",
+      "time": "2026-07-01 15:55:14",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Europe & UK",
+        "EURUSD",
+        "Impact bullish",
+        "DAX",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "Germany June manufacturing PMI (final) 50.3, expected 50.0, prior 50.0."
+    },
+    {
+      "id": "4964511",
+      "time": "2026-07-01 15:55:05",
+      "tags": [
+        "資料"
+      ],
+      "text": "德國6月製造業PMI終值 50.3，預期50，前值50。"
+    },
+    {
+      "id": "mkt:019f1cac-94fd-7aab-8c4f-8360a40f4aea",
+      "time": "2026-07-01 15:55:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Germany | Manufacturing PMI Final (Jun) | actual 50.3 | consensus 50 | previous 50"
+    },
     {
       "id": "4964510",
       "time": "2026-07-01 15:53:54",
@@ -41,6 +199,15 @@
         "公司"
       ],
       "text": "【花園生物：子公司獲“烏帕替尼緩釋片”藥品註冊證書】花園生物公告稱，公司全資子公司花園藥業近日收到國家藥監局核准簽發的“烏帕替尼緩釋片”《藥品註冊證書》，規格為15mg，批准文號有效期至2031年6月29日。該藥品主要用於多種炎症，2025年公立醫療機構市場規模約10.3億元，視同透過仿製藥一致性評價。此次獲證將豐富公司產品線，推動產品力升級，但藥品生產和銷售受政策、市場等因素影響，存在不確定性。"
+    },
+    {
+      "id": "4964505",
+      "time": "2026-07-01 15:51:30",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【特朗普加密產業超越地產年入12億美元 海湖莊園創收千萬暴漲50%】美國政府道德辦公室於週二公佈的一份聯邦財務申報檔案顯示，總統唐納德・特朗普去年透過旗下加密貨幣相關業務斬獲近12億美元收入，在他落袋豐厚利潤的同時，眾多投資者卻蒙受鉅額虧損。除此之外，特朗普去年還透過售賣特朗普品牌聖經、運動鞋等周邊商品賺取數百萬美元，對於在任美國總統而言，如此大規模的個人商業售賣行為前所未有。僅特朗普品牌腕錶一項，銷售額就達到470萬美元。 去年，阿聯酋一處地產專案為特朗普帶來1040萬美元收入；沙特一處由王室親信開發商承建的地產專案，向特朗普公司支付900萬美元；羅馬尼亞布加勒斯特、卡達的兩處地產專案，分別入賬500萬美元。 美國佛羅里達州海湖莊園作為特朗普核心本土資產，去年營收同樣大幅增長。 憑藉各國政要、商界人士在其任期內爭相到訪，海湖莊園全年創收7700萬美元，較特朗普上一任期卸任後平民身份時期的營收暴漲50%。 該份披露檔案僅公示營收資料，並未列明各項業務的淨利潤，因此無法精準核算特朗普的實際盈利規模。"
     },
     {
       "id": "mkt:019f1ca9-1368-7aab-8c4f-78def51fafeb",
@@ -127030,106 +127197,6 @@
         "公司"
       ],
       "text": "【長江電力：第七屆董事會選舉董事長、副董事長並聘任高管】長江電力公告稱，2026年6月24日公司第七屆董事會第一次會議選舉劉偉平為董事長、何紅心為副董事長，確定了各委員會組成人員。同時，聘任劉海波為總經理，張傳紅為財務總監，段開林、林峰、姜德政為副總經理，薛寧為董事會秘書，潘靜為總法律顧問。"
-    },
-    {
-      "id": "4952132",
-      "time": "2026-06-24 15:59:12",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "泰國央行：目前無需加息。"
-    },
-    {
-      "id": "4952131",
-      "time": "2026-06-24 15:59:00",
-      "tags": [
-        "國際"
-      ],
-      "text": "【塔利班再掌權來首次 阿代表團訪布魯塞爾會歐盟官員】歐盟官員與阿富汗政府代表團23日首次在歐盟總部所在地比利時布魯塞爾會談，討論遣返有刑事犯罪記錄或被視為危險人員的阿富汗移民事宜。阿富汗塔利班2021年再次執掌政權，至今未獲歐盟正式承認。今年1月，阿富汗政府官員與歐盟官員在阿首都喀布林舉行會談。路透社等多家外媒報道，歐盟方面否認舉行這些會談等同於承認塔利班政權，但認為與阿富汗“事實當局”展開“有限磋商”有助於推動解決阿富汗移民問題。歐盟委員會發言人23日說，歐委會和15個歐盟成員國的官員參加當天的會談，與阿方官員就遣返“犯重罪”和“具有安全威脅”的阿富汗移民展開磋商。（新華社）"
-    },
-    {
-      "id": "4952130",
-      "time": "2026-06-24 15:58:48",
-      "tags": [
-        "其他"
-      ],
-      "text": "【轉行買方 招商證券首席策略分析師張夏內部調動至招商資管】市場傳聞招商證券首席策略分析師張夏離職，記者獨家獲悉，張夏並非行業跳槽，而是內部調動至招商資管，任職為投資崗。目前，中證協官網已無法查詢到張夏的執業註冊資訊。公開資料顯示，張夏於2011年加入招商證券，擁有超過15年的賣方研究經驗。"
-    },
-    {
-      "id": "4952129",
-      "time": "2026-06-24 15:58:36",
-      "tags": [
-        "公司"
-      ],
-      "text": "【現代投資：2025年營收59.34億元 淨利潤同比增長48.21%】現代投資公告稱，2025年營收59.34億元，同比增長6.41%；淨利潤5.08億元，同比增長48.21%。分行業看，道路運輸業營收26.99億元，同比降5.96%；商品貿易營收26.65億元，同比增27.89%。“25現代01”債券發行規模10億元，募集資金已按約定用途使用完畢，2025年3月4日已完成付息。發行人經營穩定，償債意願和能力未發生重大不利變化。"
-    },
-    {
-      "id": "4952128",
-      "time": "2026-06-24 15:58:31",
-      "tags": [
-        "公司"
-      ],
-      "text": "【綜藝股份：變更董事會秘書 顧政巍離任吳涵接任】綜藝股份公告稱，近日，公司董事會收到董事、副總經理、董事會秘書顧政巍辭任報告，因工作調整，她於2026年6月24日不再擔任該職務，繼續任董事、副總經理，其持有公司10萬股。同日，公司第十二屆董事會第九次會議同意聘任吳涵為董事會秘書，任期至第十二屆董事會任期屆滿。吳涵具備相關資質和經驗，曾擔任公司董事長助理。"
-    },
-    {
-      "id": "4952126",
-      "time": "2026-06-24 15:58:21",
-      "tags": [
-        "觀點"
-      ],
-      "text": "【大摩：人形機器人行業可能將更加註重商業化】摩根士丹利在一份研究報告中表示，人形機器人行業可能會更加註重商業化。摩根士丹利觀察到，上半年該行業發展迅速，初步應用場景已擴大到生產線、分揀線和商業服務等領域。報告稱，近期案例包括人形機器人在工廠和物流環境中工作的持續直播，以及在無人零售店和互動式商業服務中的進一步推廣。摩根士丹利補充，隨著商業驗證的推進，上半年開始測試的專案有望在下半年開始轉化為實際應用。"
-    },
-    {
-      "id": "4952125",
-      "time": "2026-06-24 15:57:20",
-      "tags": [
-        "其他"
-      ],
-      "text": "【一位潛在對手排除參選 伯納姆入主唐寧街之路更加通暢】安迪·伯納姆幾乎可以肯定將成為英國下一任首相。曾被視為潛在競爭對手的達倫·瓊斯已表示，不會發起對領導權的爭奪。大臣瓊斯也是即將卸任首相基爾·斯塔默的盟友，他週三接受天空新聞採訪時排除了參與競選的可能性，並表示他相信伯納姆將成為下一任首相。前曼徹斯特市長伯納姆現在越來越有可能成為唯一一位被提名接替斯塔默擔任工黨領袖的候選人，如果沒有競爭對手，他可能在7月中旬就任首相。"
-    },
-    {
-      "id": "4952124",
-      "time": "2026-06-24 15:57:03",
-      "tags": [
-        "資料",
-        "市場",
-        "央行",
-        "國際"
-      ],
-      "text": "【三菱日聯：美聯儲與歐洲央行分化拖累歐元兌美元】三菱日聯銀行的Lee Hardman在一份報告中表示，近期市場對美聯儲和歐洲央行政策預期的分化，正推動歐元兌美元跌至一年低點。“雖然美國利率市場已開始反映美聯儲多次加息的預期，但歐元區利率市場對歐洲央行進一步加息必要性的信心有所減弱。“他表示，週二公佈的歐元區採購經理人調查進一步推動了歐洲央行加息預期的降溫，該調查凸顯出該地經濟因能源價格衝擊而放緩。相比之下，美國經濟受到的影響似乎較小，週二公佈的美國PMI資料更為強勁。歐元最低跌至1.1351美元。"
-    },
-    {
-      "id": "4952123",
-      "time": "2026-06-24 15:56:21",
-      "tags": [
-        "公司"
-      ],
-      "text": "【國泰海通：予長江證券“增持”評級，經紀業務持續受益、ROE突出】國泰海通證券研報指出，長江證券作為零售票賦深厚、投研特色鮮明的中型券商，湖北國資入主以來科創資源票賦支撐公司科創投資業務加速成長，疊加市場提振下二級自營、經紀業務持續受益、ROE突出，給予2026年1.4x目標PB，對應目標價9.82元/股，給予“增持”評級。長江證券綜合實力位列行業中游，零售票賦深厚、投研特色鮮明、ROE行業領先。26年部分儲備專案進入IPO通道，疊加早期投資專案廣合科技2Q估值修復、有望於二季度為長江貢獻較多投資收益。"
-    },
-    {
-      "id": "4952122",
-      "time": "2026-06-24 15:55:54",
-      "tags": [
-        "國際"
-      ],
-      "text": "【機構：6月迄今霍爾木茲海峽原油運輸量恢復至正常水平的三分之一左右】Kpler的Yui Torikata表示，6月迄今，透過霍爾木茲海峽的原油運輸量已恢復至正常水平的三分之一左右，在美國和伊朗簽署諒解備忘錄之後，已確認的供應量達到約480萬桶/日。該分析師稱，這一復甦是由伊朗恢復出口、滯留在海灣地區三個多月的非伊朗貨物獲釋，以及在沒有主動跟蹤訊號的情況下執行的船隻繼續活動共同推動的。伊朗油輪在航行期間越來越多地恢復廣播其位置，這標誌著正逐漸迴歸更透明的交易活動。與此同時，自6月18日以來，滯留在霍爾木茲海峽內的非伊朗船隻上約3,500萬桶石油已駛離該水道。然而，Torikata表示，航運狀況尚未完全恢復正常，儘管緊張局勢有所緩解，但仍有大量非伊朗貨物在暗中透過該水道。"
-    },
-    {
-      "id": "4952121",
-      "time": "2026-06-24 15:55:29",
-      "tags": [
-        "公司"
-      ],
-      "text": "【退市創興：釋出股票進入退市整理期交易第五次風險提示】退市創興公告稱，公司股票於2026年6月8日進入退市整理期，預計最後交易日期為6月29日，交易15個交易日，期滿後5個交易日內上交所將對公司股票摘牌。退市整理期首個交易日無漲跌幅限制，此後每日漲跌幅限制為10%。期間公司不籌劃或實施重大資產重組。公司提醒投資者及時了結相關業務，司法凍結業務提前辦續凍，注意投資風險。"
-    },
-    {
-      "id": "4952120",
-      "time": "2026-06-24 15:55:14",
-      "tags": [
-        "公司"
-      ],
-      "text": "【同益股份：尼龍加纖板材已在機器人外殼產品中應用】同益股份6月24日在互動平臺稱，公司在機器人領域可以提供高效能的高分子複合材料板棒材。目前，公司自主研發的高強度、高韌性尼龍加纖板材已實現在機器人外殼產品中應用。"
     }
   ]
 }

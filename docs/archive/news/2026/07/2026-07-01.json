@@ -1,7 +1,165 @@
 {
   "date": "2026-07-01",
-  "count": 1729,
+  "count": 1747,
   "items": [
+    {
+      "id": "4964521",
+      "time": "2026-07-01 15:58:17",
+      "tags": [
+        "公司"
+      ],
+      "text": "【紐威數控：多名董事辭職，補選及選舉新董事、董事長】紐威數控公告稱，近日，非獨立董事郭國新、管強及職工代表董事衛繼健辭職，郭國新任戰略顧問，管強任總工程師，衛繼健任副總經理。7月1日，公司第三屆董事會第七次會議補選董松濤、朱家龍為非獨立董事，選舉胡春有任董事長兼法定代表人；第五屆第四次職工代表大會選舉許冬華任職工代表董事。此外，會議還調整了董事會專門委員會成員。補選非獨立董事事項尚需股東會審議。"
+    },
+    {
+      "id": "te:economy:563335",
+      "time": "2026-07-01 15:58:11",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Costa Rica",
+        "Current Account",
+        "Importance 0"
+      ],
+      "text": "Costa Rica Current Account Gap Widens in Q1 — Costa Rica’s current account deficit widened to USD 92.6 million in the first quarter of 2026 from USD 55.2 million in the corresponding period of the previous year. The primary income account deficit increased to USD 2,700.1 million from USD 2,304.4 million, while the surplus in the secondary income account narrowed to USD 179.8 million from USD 188.0 million. In contrast, the goods account deficit narrowed to USD 339.4 million from USD 550.1 million, whereas the services account surplus widened to USD 2,767.0 million from USD 2,611.3 million."
+    },
+    {
+      "id": "te:economy:563334",
+      "time": "2026-07-01 15:58:06",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "France",
+        "Manufacturing PMI",
+        "Importance 1"
+      ],
+      "text": "France Manufacturing Sector Rebounds More than Thought — The S&P Global France Manufacturing PMI was revised higher to 51.2 in June 2026 from 50.7 in the preliminary estimate and 49.7 in May, despite contractions in production and new orders. Muted market conditions and overstocked clients caused domestic sales and output to fall, though their rates of decline slowed. Crucially, the headline expansion was heavily influenced by severe supply side friction, as thin transit availability and material shortages triggered the most intense delivery delays in nearly four years. To manage these delays, manufacturers aggressively depleted existing preproduction inventories at the fastest pace in seven months. Meanwhile, factories marginally expanded employment, though backlogs continued to build. Input costs for chemical, transport, and oil based items remained elevated, forcing factories to increase selling fees, even as overall cost pressures cooled for the first time since December."
+    },
+    {
+      "id": "4964520",
+      "time": "2026-07-01 15:57:55",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗國家媒體稱，一艘外國集裝箱船在霍爾木茲海峽使用未經伊朗指定的航線後擱淺。"
+    },
+    {
+      "id": "mkt:019f1caf-2b2e-7aab-8c4f-98972b48d6cd",
+      "time": "2026-07-01 15:57:49",
+      "tags": [
+        "MKT News",
+        "EURUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "【France June manufacturing PMI rises to 51.2, back in expansion】S&P Global's France manufacturing PMI rose to 51.2 in June from 49.7 in May and above the preliminary 50.7, returning the sector to expansion after a dip below 50 in April–May. S&P Global reported higher unfinished orders and increased work backlogs in June. The PMI prices index fell from May, which could signal easing inflationary pressure in manufacturing and the wider economy. S&P Global Market Intelligence economist Joe Hayes said transport disruptions linked to the Iran war continue to weigh on supply chains, prompting firms to cut purchases and run down inventories; the length of those disruptions could determine the pace of the manufacturing recovery."
+    },
+    {
+      "id": "4964519",
+      "time": "2026-07-01 15:57:49",
+      "tags": [
+        "其他"
+      ],
+      "text": "【上海半年土拍攬金436億元，楊浦濱江超百億元地塊即將開拍】隨著第五批次集中供地完成，上海今年上半年土地市場正式收官。 前6個月，上海累計出讓17宗涉宅用地，攬金436億元。從成交表現來看，上海土拍熱度呈現明顯回升態勢：年初部分地塊仍以底價成交，而近期高溢價地塊不斷湧現，開發商投資信心持續修復。 與此同時，上海第六批次集中供地已經掛牌，一宗起始價超過百億元的楊浦濱江地塊即將登場，部分房企已提前啟動佈局，新一輪土地競爭或將繼續升溫。（第一財經）"
+    },
+    {
+      "id": "4964518",
+      "time": "2026-07-01 15:57:03",
+      "tags": [
+        "國際"
+      ],
+      "text": "歐洲航空安全域性（EASA）：針對中東波斯灣空域的衝突區有效期延長至7月8日。"
+    },
+    {
+      "id": "4964517",
+      "time": "2026-07-01 15:56:56",
+      "tags": [
+        "其他"
+      ],
+      "text": "美銀全球研究將耐克目標價從55美元下調至47美元。"
+    },
+    {
+      "id": "4964516",
+      "time": "2026-07-01 15:56:49",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美國司法部要求嚴查“赴美產子游”】美國聯邦最高法院6月30日推翻總統特朗普限制“出生公民權”的行政令後，美國司法部官員要求聯邦檢察官把所謂“赴美產子游”作為優先調查事項。據路透社報道，美國司法部高階官員科林·麥克唐納在致司法部所有人員的一份備忘錄中說，將“調查並起訴以欺詐方式利用美國移民制度的人”。打著各種“幌子”赴美生子、為子女謀取美國公民身份的人，將面臨簽證欺詐、洗錢、身份盜竊及電信欺詐等相關罪名指控。（新華社）"
+    },
+    {
+      "id": "mkt:019f1cae-1d0b-7aab-8c4f-914402504466",
+      "time": "2026-07-01 15:56:40",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "EASA extended the validity of its conflict-zone designation for Middle East/Persian Gulf airspace to July 8."
+    },
+    {
+      "id": "4964515",
+      "time": "2026-07-01 15:56:32",
+      "tags": [
+        "國際"
+      ],
+      "text": "【南美關稅同盟宣佈擬與日本啟動EPA談判】巴西等南美各國加入的關稅同盟“南方共同市場”（MERCOSUR）6月30日在巴拉圭首都亞松森召開首腦會議，宣佈已決定與日本啟動旨在締結經濟夥伴關係協定（EPA）的談判。"
+    },
+    {
+      "id": "4964514",
+      "time": "2026-07-01 15:56:06",
+      "tags": [
+        "其他"
+      ],
+      "text": "伯恩斯坦：將耐克目標價從80美元下調至72美元。"
+    },
+    {
+      "id": "4964513",
+      "time": "2026-07-01 15:55:44",
+      "tags": [
+        "公司"
+      ],
+      "text": "【海南橡膠：收到徵地社會保險費補貼1.09億元】海南橡膠(601118)7月1日公告，根據《海南省收回農墾國有土地使用權社會保險費補貼辦法》的相關規定，公司近日收到五指山熱帶雨林飛禽動物園專案等徵地專案的社會保險費補貼1.09億元，會計核算確認為營業外收入。"
+    },
+    {
+      "id": "4964512",
+      "time": "2026-07-01 15:55:28",
+      "tags": [
+        "公司"
+      ],
+      "text": "【精華製藥：董事陸健因工作安排辭職】精華製藥公告稱，公司近日收到第六屆董事會成員陸健的書面辭職報告，其因工作安排，申請辭去非獨立董事職務，原定任期至第六屆董事會屆滿。辭職後不再擔任公司及子公司任何職務。截至公告披露日，陸健未持股，無未履行承諾事項。其辭職不會影響董事會正常運作，辭職報告自送達公司之日起生效，公司將盡快完成董事補選工作。"
+    },
+    {
+      "id": "mkt:019f1cac-cbdf-7aab-8c4f-8fce5973e668",
+      "time": "2026-07-01 15:55:14",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Europe & UK",
+        "EURUSD",
+        "Impact bullish",
+        "DAX",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "Germany June manufacturing PMI (final) 50.3, expected 50.0, prior 50.0."
+    },
+    {
+      "id": "4964511",
+      "time": "2026-07-01 15:55:05",
+      "tags": [
+        "資料"
+      ],
+      "text": "德國6月製造業PMI終值 50.3，預期50，前值50。"
+    },
+    {
+      "id": "mkt:019f1cac-94fd-7aab-8c4f-8360a40f4aea",
+      "time": "2026-07-01 15:55:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Germany | Manufacturing PMI Final (Jun) | actual 50.3 | consensus 50 | previous 50"
+    },
     {
       "id": "4964510",
       "time": "2026-07-01 15:53:54",
@@ -41,6 +199,15 @@
         "公司"
       ],
       "text": "【花園生物：子公司獲“烏帕替尼緩釋片”藥品註冊證書】花園生物公告稱，公司全資子公司花園藥業近日收到國家藥監局核准簽發的“烏帕替尼緩釋片”《藥品註冊證書》，規格為15mg，批准文號有效期至2031年6月29日。該藥品主要用於多種炎症，2025年公立醫療機構市場規模約10.3億元，視同透過仿製藥一致性評價。此次獲證將豐富公司產品線，推動產品力升級，但藥品生產和銷售受政策、市場等因素影響，存在不確定性。"
+    },
+    {
+      "id": "4964505",
+      "time": "2026-07-01 15:51:30",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【特朗普加密產業超越地產年入12億美元 海湖莊園創收千萬暴漲50%】美國政府道德辦公室於週二公佈的一份聯邦財務申報檔案顯示，總統唐納德・特朗普去年透過旗下加密貨幣相關業務斬獲近12億美元收入，在他落袋豐厚利潤的同時，眾多投資者卻蒙受鉅額虧損。除此之外，特朗普去年還透過售賣特朗普品牌聖經、運動鞋等周邊商品賺取數百萬美元，對於在任美國總統而言，如此大規模的個人商業售賣行為前所未有。僅特朗普品牌腕錶一項，銷售額就達到470萬美元。 去年，阿聯酋一處地產專案為特朗普帶來1040萬美元收入；沙特一處由王室親信開發商承建的地產專案，向特朗普公司支付900萬美元；羅馬尼亞布加勒斯特、卡達的兩處地產專案，分別入賬500萬美元。 美國佛羅里達州海湖莊園作為特朗普核心本土資產，去年營收同樣大幅增長。 憑藉各國政要、商界人士在其任期內爭相到訪，海湖莊園全年創收7700萬美元，較特朗普上一任期卸任後平民身份時期的營收暴漲50%。 該份披露檔案僅公示營收資料，並未列明各項業務的淨利潤，因此無法精準核算特朗普的實際盈利規模。"
     },
     {
       "id": "mkt:019f1ca9-1368-7aab-8c4f-78def51fafeb",
