@@ -1,7 +1,57 @@
 {
   "date": "2026-07-02",
-  "count": 51,
+  "count": 57,
   "items": [
+    {
+      "id": "mkt:019f1e86-636a-7aab-8c63-74e931369990",
+      "time": "2026-07-02 00:32:31",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Al Arabiya reported Iran proposed at Doha talks that the memorandum of understanding be implemented on a phased timetable."
+    },
+    {
+      "id": "4965790",
+      "time": "2026-07-02 00:32:21",
+      "tags": [
+        "國際"
+      ],
+      "text": "愛爾蘭總理： 已就愛爾蘭向俄羅斯出口氧化鋁的相關報道展開討論。"
+    },
+    {
+      "id": "4965789",
+      "time": "2026-07-02 00:30:53",
+      "tags": [
+        "國際"
+      ],
+      "text": "據沙烏地阿拉伯阿拉比亞電視臺：伊朗要求在處理其他事項之前，先實施諒解備忘錄中的5項內容。"
+    },
+    {
+      "id": "mkt:019f1e84-201f-7aab-8c63-68a822d27a20",
+      "time": "2026-07-02 00:30:03",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Saudi broadcaster Al Arabiya reported that Iran is demanding implementation of five items in the memorandum of understanding before other matters are addressed."
+    },
+    {
+      "id": "mkt:019f1e83-dcc0-7aab-8c63-62a2ac12205f",
+      "time": "2026-07-02 00:29:45",
+      "tags": [
+        "MKT News",
+        "MU.O"
+      ],
+      "text": "President Trump said Micron Technology (MU.O) is directly investing in U.S. workers and families."
+    },
+    {
+      "id": "mkt:019f1e83-b450-7aab-8c63-5b13c5420f91",
+      "time": "2026-07-02 00:29:35",
+      "tags": [
+        "MKT News",
+        "MU.O"
+      ],
+      "text": "US President Trump said Micron Technology (MU.O)'s $250 mln investment in the 'Trump account' is the largest corporate investment among comparable investments."
+    },
     {
       "id": "mkt:019f1e82-e97c-7aab-8c63-51f61ab99c34",
       "time": "2026-07-02 00:28:43",

@@ -1,7 +1,57 @@
 {
-  "updated": "2026-07-02 00:30:06",
-  "count": 14246,
+  "updated": "2026-07-02 00:34:04",
+  "count": 14247,
   "items": [
+    {
+      "id": "mkt:019f1e86-636a-7aab-8c63-74e931369990",
+      "time": "2026-07-02 00:32:31",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Al Arabiya reported Iran proposed at Doha talks that the memorandum of understanding be implemented on a phased timetable."
+    },
+    {
+      "id": "4965790",
+      "time": "2026-07-02 00:32:21",
+      "tags": [
+        "國際"
+      ],
+      "text": "愛爾蘭總理： 已就愛爾蘭向俄羅斯出口氧化鋁的相關報道展開討論。"
+    },
+    {
+      "id": "4965789",
+      "time": "2026-07-02 00:30:53",
+      "tags": [
+        "國際"
+      ],
+      "text": "據沙烏地阿拉伯阿拉比亞電視臺：伊朗要求在處理其他事項之前，先實施諒解備忘錄中的5項內容。"
+    },
+    {
+      "id": "mkt:019f1e84-201f-7aab-8c63-68a822d27a20",
+      "time": "2026-07-02 00:30:03",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Saudi broadcaster Al Arabiya reported that Iran is demanding implementation of five items in the memorandum of understanding before other matters are addressed."
+    },
+    {
+      "id": "mkt:019f1e83-dcc0-7aab-8c63-62a2ac12205f",
+      "time": "2026-07-02 00:29:45",
+      "tags": [
+        "MKT News",
+        "MU.O"
+      ],
+      "text": "President Trump said Micron Technology (MU.O) is directly investing in U.S. workers and families."
+    },
+    {
+      "id": "mkt:019f1e83-b450-7aab-8c63-5b13c5420f91",
+      "time": "2026-07-02 00:29:35",
+      "tags": [
+        "MKT News",
+        "MU.O"
+      ],
+      "text": "US President Trump said Micron Technology (MU.O)'s $250 mln investment in the 'Trump account' is the largest corporate investment among comparable investments."
+    },
     {
       "id": "mkt:019f1e82-e97c-7aab-8c63-51f61ab99c34",
       "time": "2026-07-02 00:28:43",
@@ -131342,52 +131392,6 @@
         "Brent"
       ],
       "text": "【Rubio: Iran must honor commitments or Trump will act】U.S. Secretary of State Rubio called Washington’s 60-day sanctions waiver for Iran a temporary measure and said the U.S. expects Tehran to honor commitments made under the agreement. He warned that if Iran does not comply, President Trump has multiple options, including — Rubio said he was not asserting Trump would necessarily use them — reimposing sanctions. Rubio noted the commitments were made clearly in Switzerland and said compliance would allow the U.S. to proceed, while non‑compliance would prompt presidential responses."
-    },
-    {
-      "id": "4953200",
-      "time": "2026-06-25 00:33:47",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國駐義大利大使正進一步緩和兩國的緊張關係，他表示，儘管義大利總理梅洛尼與特朗普發生過公開爭執，但兩國關係“一切良好”。"
-    },
-    {
-      "id": "4953199",
-      "time": "2026-06-25 00:31:19",
-      "tags": [
-        "其他"
-      ],
-      "text": "如果方案獲批，搭載（本田、日產、三菱）標準化電子控制單元的車輛最早可於2029年或2030年上市。"
-    },
-    {
-      "id": "4953198",
-      "time": "2026-06-25 00:30:50",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場資訊：以色列與黎巴嫩討論移交領土的試點方案。"
-    },
-    {
-      "id": "mkt:019efa78-0aa7-7dd8-b0ff-df21a2c14c66",
-      "time": "2026-06-25 00:30:31",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "Abu Dhabi National Oil Co (ADNOC) set July Murban crude official selling price (OSP) at $101.48 per barrel."
-    },
-    {
-      "id": "4953197",
-      "time": "2026-06-25 00:30:29",
-      "tags": [
-        "公司"
-      ],
-      "text": "阿聯酋阿布扎比國家石油公司（ADNOC）將7月穆爾班原油官方售價定在每桶101.48美元。"
     }
   ]
 }
