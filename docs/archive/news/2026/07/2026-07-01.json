@@ -1,7 +1,150 @@
 {
   "date": "2026-07-01",
-  "count": 1790,
+  "count": 1805,
   "items": [
+    {
+      "id": "te:markets:563350",
+      "time": "2026-07-01 16:10:13",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Agricultural Commodities Updates: Rice Drops by 2.99% — Top commodity loser is Rice (-2.99%). Gains are led by Sugar (1.97%), Rubber (1.84%) and Oat (1.22%)."
+    },
+    {
+      "id": "4964559",
+      "time": "2026-07-01 16:10:13",
+      "tags": [
+        "公司"
+      ],
+      "text": "【新寶股份：目前移動空調銷售收入佔公司總體收入比例還很小】新寶股份7月1日在互動平臺表示，公司已有部分移動空調推出市場，出口ODM/OEM訂單及國內自主品牌Donlim（東菱）均有銷售，但公司產品品類眾多，目前移動空調銷售收入佔公司總體收入比例還很小。"
+    },
+    {
+      "id": "4964558",
+      "time": "2026-07-01 16:09:50",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行管委內格爾：養老金改革對德國來說是好訊息。"
+    },
+    {
+      "id": "4964557",
+      "time": "2026-07-01 16:09:21",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行管委內格爾：德國的經濟預測還可以，但我們還可以做得更好。"
+    },
+    {
+      "id": "4964556",
+      "time": "2026-07-01 16:09:07",
+      "tags": [
+        "公司"
+      ],
+      "text": "【上汽集團：2026年6月整車產量38.36萬輛 同比增長12.57%】上汽集團公告稱，2026年6月，公司整車產量383,596輛，同比增長12.57%，本年累計2,004,359輛，同比下降6.09%；銷量394,798輛，同比增長8.07%，本年累計2,045,375輛，同比下降0.35%。其中，新能源汽車本月產量191,352輛、銷量201,049輛，分別同比增長74.63%、66.61%；出口及海外基地本月產量146,057輛、銷量145,935輛，分別同比增長60.30%、61.18%。"
+    },
+    {
+      "id": "mkt:019f1cb9-75bf-7aab-8c4f-ff4fe4beb942",
+      "time": "2026-07-01 16:09:04",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Indian rupee slipped below 95 per US dollar, down 0.4% intraday."
+    },
+    {
+      "id": "4964555",
+      "time": "2026-07-01 16:08:26",
+      "tags": [
+        "其他"
+      ],
+      "text": "【機構：預計2026年Q3伺服器DDR5、eSSD價格環比漲幅將分別落在10%~20%、25%~30%區間】CFM快閃記憶體市場近日釋出2026年第三季度儲存市場展望報告。報告指出，預計2026三季度，伺服器DDR5、eSSD價格環比漲幅將分別落在10%~20%、25%~30%區間；Mobile LPDDR4X/5X、eMMC/UFS價格漲幅分別約5%~15%、15%-25%；PC DDR5/LPDDR5X漲幅預計約13%-18%，cSSD漲幅約15%~25%。"
+    },
+    {
+      "id": "4964554",
+      "time": "2026-07-01 16:08:14",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行管委內格爾：目前沒有看到工資的直接影響。"
+    },
+    {
+      "id": "4964553",
+      "time": "2026-07-01 16:08:05",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "印度盧比<INR=IN>跌破1美元兌95盧比關口，日內下跌0.4%。"
+    },
+    {
+      "id": "te:economy:563345",
+      "time": "2026-07-01 16:08:04",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Italy",
+        "Manufacturing PMI",
+        "Importance 2"
+      ],
+      "text": "Italian Manufacturing Sector Growth Eases in June — The S&P Global Italy Manufacturing PMI fell to 52.2 in June 2026, down from 52.9 in May, missing market forecasts of 52.6. While the reading still indicates expansion, marking one of the strongest performances in over four years, the pace of growth in output, new orders, and employment has softened. Though the sector continues to benefit from earlier stockpiling efforts, June’s data suggests this temporary support is fading. Manufacturers responded to the slowdown by reducing their purchasing activity, even as input stocks rose. Ongoing supply chain disruptions, exacerbated by the conflict in the Middle East, further strained vendor performance. On a positive note, both input and output price inflation eased from multi-year highs, and business confidence improved, fueled by hopes for a resolution to the Middle East conflict."
+    },
+    {
+      "id": "4964552",
+      "time": "2026-07-01 16:07:54",
+      "tags": [
+        "公司"
+      ],
+      "text": "【橫店東磁：目前沒有太空光伏產品】橫店東磁7月1日在互動平臺表示，公司現有光伏產品面向地面應用，目前沒有太空光伏產品。"
+    },
+    {
+      "id": "4964551",
+      "time": "2026-07-01 16:07:49",
+      "tags": [
+        "公司"
+      ],
+      "text": "【神州數碼：子公司預中標國產智算Token工廠專案 投標報價7.17億元】神州數碼公告，公司下屬全資子公司上海神州數碼有限公司為“國產智算Token工廠專案”第一中標候選人，投標報價7.17億元。預中標專案的供貨產品為神州鯤泰超節點產品，本次預中標是公司在國產AI智算領域的業務突破，深化公司在國產智算賽道的戰略佈局。如專案能順利中標並實施，預計將對公司未來經營業績產生積極影響。"
+    },
+    {
+      "id": "mkt:019f1cb8-1891-7aab-8c4f-f1617dd30b8d",
+      "time": "2026-07-01 16:07:34",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "EURUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "ECB Governing Council member Nagel said inflation will remain above target in 2027."
+    },
+    {
+      "id": "4964550",
+      "time": "2026-07-01 16:07:23",
+      "tags": [
+        "公司"
+      ],
+      "text": "【美諾華投資成立醫藥公司】企查查APP顯示，近日，寧波美諾華醫藥有限公司成立，法定代表人為許健，註冊資本為5000萬元，經營範圍包含：藥品生產；藥品批發；藥品委託生產；藥品進出口；保健食品生產；醫學研究和試驗發展等。企查查股權穿透顯示，該公司由美諾華全資持股。"
+    },
+    {
+      "id": "mkt:019f1cb7-e77c-7aab-8c4f-eaf217281773",
+      "time": "2026-07-01 16:07:22",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "EURUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "ECB Governing Council member Nagel said he will keep all options open for interest-rate decisions in July and September."
+    },
     {
       "id": "4964549",
       "time": "2026-07-01 16:06:19",
