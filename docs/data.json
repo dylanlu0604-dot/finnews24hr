@@ -1,7 +1,18 @@
 {
-  "updated": "2026-07-02 02:12:38",
-  "count": 14158,
+  "updated": "2026-07-02 02:16:32",
+  "count": 14154,
   "items": [
+    {
+      "id": "te:markets:563531",
+      "time": "2026-07-02 02:15:02",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Energy Commodities Updates: Natural Gas UK Drops by 2.58% — Top commodity losers are Natural Gas UK (-2.58%), Methanol (-2.34%), Brent Crude Oil (-2.18%) and Crude Oil WTI (-1.77%). Gains are led by Gasoline (1.97%)."
+    },
     {
       "id": "mkt:019f1ede-60d3-7aab-8c64-ed466394b15a",
       "time": "2026-07-02 02:08:37",
@@ -130474,54 +130485,6 @@
         "Impact mixed"
       ],
       "text": "【ECB's Zigman: price stability is priority; oil decline eases task】ECB official Zigman said price stability is the ECB’s primary task and that falling oil prices are making that task relatively easier. Speaking in his first public appearance since becoming governor of the Croatian central bank this month, he said ECB rate hikes have signalled determination despite the risk of further slowing an already fragile regional economy. He added that geopolitical developments around the Strait of Hormuz have pushed oil prices down, which he said will have a positive effect on inflation."
-    },
-    {
-      "id": "4953317",
-      "time": "2026-06-25 02:16:26",
-      "tags": [
-        "國際"
-      ],
-      "text": "俄羅斯總統普京視察最新國產飛機，並確認莫斯科已完全成功替代了西方制裁所涉及的外國飛機部件。"
-    },
-    {
-      "id": "te:markets:561632",
-      "time": "2026-06-25 02:15:06",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Energy Commodities Updates: Brent Crude Oil Falls by 4.24% — Top commodity losers are Brent Crude Oil (-4.24%), Crude Oil WTI (-3.88%) and Methanol (-3.30%). Gains are led by Natural gas (1.90%)."
-    },
-    {
-      "id": "mkt:019efad7-8485-7dd8-b102-09bfcff34d45",
-      "time": "2026-06-25 02:14:48",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "【Andreessen investor: Starship's rapid reusability could enable orbital AI data centers; SpaceX has shown capability】David George, partner at Andreessen Horowitz and a SpaceX investor, said Starship's rapid reusability is critical to Elon Musk's vision of expanding AI compute via orbital data centers. He said once Starship is operational, extending AI capacity to space would be inevitable as terrestrial data-center capacity becomes constrained, describing future satellites as \"aircraft-sized GPU racks.\" George added orbital data centers would at minimum supplement ground facilities and could ultimately be economically superior, and that SpaceX has demonstrated the technical ability to deploy such systems."
-    },
-    {
-      "id": "4953316",
-      "time": "2026-06-25 02:12:58",
-      "tags": [
-        "其他",
-        "焦點"
-      ],
-      "text": "特斯拉跌幅擴大至2%。"
-    },
-    {
-      "id": "mkt:019efad5-af50-7dd8-b102-039ed33a9695",
-      "time": "2026-06-25 02:12:48",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)"
-      ],
-      "text": "【Fed finalizes reorganization of bank supervision unit】Federal Reserve Vice Chair for Supervision Michelle Bowman has completed a reorganization of the Fed’s bank supervision function to concentrate resources on what she describes as key financial risks, Bowman said in a memo to staff. The restructuring, effective July 12, reallocates personnel and resources into four functional groups—Supervision; Financial Research, Risk & Applications; Regulation & Policy; and Business Enablement—and the division will begin recruiting leaders and staff."
     }
   ]
 }
