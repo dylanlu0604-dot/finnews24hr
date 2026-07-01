@@ -1,7 +1,35 @@
 {
-  "updated": "2026-07-02 06:51:02",
-  "count": 14028,
+  "updated": "2026-07-02 06:54:56",
+  "count": 14027,
   "items": [
+    {
+      "id": "4965993",
+      "time": "2026-07-02 06:53:20",
+      "tags": [
+        "其他"
+      ],
+      "text": "白宮加速推進人工智慧模型標準制定計劃。"
+    },
+    {
+      "id": "4965992",
+      "time": "2026-07-02 06:51:20",
+      "tags": [
+        "其他"
+      ],
+      "text": "【比利時成功晉級世界盃16強】北京時間7月2日，2026美加墨世界盃1/16決賽，比利時隊3比2戰勝塞內加爾隊，成功晉級16強。"
+    },
+    {
+      "id": "te:economy:563547",
+      "time": "2026-07-02 06:50:29",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "New Zealand",
+        "Building Permits MoM",
+        "Importance 1"
+      ],
+      "text": "New Zealand Building Permits Fall 4% in May — Building consents for new dwellings in New Zealand fell 4.0% month-on-month in May 2026, reversing from an upwardly revised 11.1% jump in April. A total of 3.801 new dwellings were consented, including 1,835 stand-alone houses, 1,718 townhouses, flats, and units, 194 retirement village units, and 54 apartments."
+    },
     {
       "id": "4965991",
       "time": "2026-07-02 06:49:14",
@@ -129159,43 +129187,6 @@
         "公司"
       ],
       "text": "【黃仁勳股東大會放言：本輪AI基建週期長達數十年】在當地時間6月24日的英偉達2026年度股東大會上，股東批准了該公司全部10名董事會成員提名。英偉達CEO黃仁勳在股東大會上還進行了發言，強調“有用的AI時代”已經到來，並釋放了對AI基礎設施建設將繼續的信心。就AI基礎設施建設的可持續性，黃仁勳則表示，算力越多，token越多，收入也就越多。這輪建設將以數十年為單位來衡量，涉及電網、網際網路等關鍵基礎設施建設。相信這將成為人類歷史上規模最大的基礎設施建設。"
-    },
-    {
-      "id": "te:markets:561652",
-      "time": "2026-06-25 06:54:12",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "New Zealand",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "NZX 50 Edges Higher in Morning Trade — The NZX 50 climbed 25 points, or 0.2%, to 13,426 in Thursday morning trade, erasing losses from the previous three sessions, tracking a rise in US futures after Micron posted a sizeable earnings beat and a better-than-expected outlook. Easing oil prices also lifted sentiment as inflation concerns moderated, reducing expectations of an interest rate hike. However, traders remained cautious ahead of the release of the final US Q1 GDP data and the May PCE Price Index later today, which could provide clues about the Federal Reserve's monetary policy decision at its upcoming meeting, after it left interest rates unchanged last week. Consumer staples, energy, communication services, and utilities primarily drove the index, with notable gains from A2 Milk (4.2%), Scott Technology (2.4%), Channel Infrastructure (0.9%), Ebos Group (0.8%), and ANZ Group (0.4%)."
-    },
-    {
-      "id": "4953584",
-      "time": "2026-06-25 06:53:59",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "紐約期金失守4010美元/盎司，日內漲0.05%。"
-    },
-    {
-      "id": "4953583",
-      "time": "2026-06-25 06:52:45",
-      "tags": [
-        "其他"
-      ],
-      "text": "海嘯預警中心稱巨浪可能襲擊委內瑞拉海岸。"
-    },
-    {
-      "id": "4953581",
-      "time": "2026-06-25 06:52:21",
-      "tags": [
-        "國際"
-      ],
-      "text": "【俄稱控制一定居點 烏稱打擊俄能源設施】24日，俄羅斯國防部發布戰報稱，俄軍控制了蘇梅地區伊沃爾詹斯科耶居民點。俄軍各部隊叢集在蘇梅、哈爾科夫、頓涅茨克、第聶伯羅彼得羅夫斯克、扎波羅熱方向多地打擊烏軍。俄軍還對烏軍特種作戰部隊無人系統中心、烏燃料能源和交通基礎設施等目標實施打擊。烏克蘭武裝部隊總參謀部24日稱，當天凌晨，烏國防軍對俄羅斯奧倫堡州一座天然氣精煉廠和一座氦氣廠實施打擊。烏方稱，此次行動地點距烏方前線超過1200公里，兩座工廠已起火，受損情況正在核實中。此外，烏軍還打擊了俄羅斯別爾哥羅德州一處無人機倉庫。（央視新聞）"
     }
   ]
 }

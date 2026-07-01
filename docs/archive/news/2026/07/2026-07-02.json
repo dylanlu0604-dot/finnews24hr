@@ -1,7 +1,35 @@
 {
   "date": "2026-07-02",
-  "count": 379,
+  "count": 382,
   "items": [
+    {
+      "id": "4965993",
+      "time": "2026-07-02 06:53:20",
+      "tags": [
+        "其他"
+      ],
+      "text": "白宮加速推進人工智慧模型標準制定計劃。"
+    },
+    {
+      "id": "4965992",
+      "time": "2026-07-02 06:51:20",
+      "tags": [
+        "其他"
+      ],
+      "text": "【比利時成功晉級世界盃16強】北京時間7月2日，2026美加墨世界盃1/16決賽，比利時隊3比2戰勝塞內加爾隊，成功晉級16強。"
+    },
+    {
+      "id": "te:economy:563547",
+      "time": "2026-07-02 06:50:29",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "New Zealand",
+        "Building Permits MoM",
+        "Importance 1"
+      ],
+      "text": "New Zealand Building Permits Fall 4% in May — Building consents for new dwellings in New Zealand fell 4.0% month-on-month in May 2026, reversing from an upwardly revised 11.1% jump in April. A total of 3.801 new dwellings were consented, including 1,835 stand-alone houses, 1,718 townhouses, flats, and units, 194 retirement village units, and 54 apartments."
+    },
     {
       "id": "4965991",
       "time": "2026-07-02 06:49:14",
