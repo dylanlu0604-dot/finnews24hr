@@ -1,7 +1,272 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-07-02 04:21:40_
-_本檔包含 2890 則快訊，約 531357 字_
+_更新時間：2026-07-02 05:08:51_
+_本檔包含 2910 則快訊，約 530494 字_
+
+---
+
+### 2026-07-02 04:54:37  #Trading Economics #Economy #Uruguay #Interest Rate #Importance 1
+
+Uruguay Holds Key Interest Rate — The Central Bank of Uruguay kept its policy rate unchanged at 5.75% at its June 2026 meeting, as its projections continue to place inflation on a path toward convergence with the 4.5% target over the monetary policy horizon. Inflation expectations also remained aligned with the central bank’s objective. Annual inflation rose to 3.77% in May, driven by higher administered prices, particularly energy, reflecting the impact of global supply shocks. Core inflation edged up to 3.6%, though policymakers noted no significant second-round effects. Easing geopolitical tensions in the Middle East reduced global financial volatility and pressure on energy prices. Labor market and income indicators remained resilient, while economic activity continued to expand. The central bank said inflation is likely to rise in the short term, but the balance of risks remains broadly balanced over the policy horizon. Future policy decisions will depend on incoming inflation data and its underlying dynamics.
+
+---
+
+### 2026-07-02 04:53:49  #公司
+
+【全新iPad Pro、重新設計入門款MacBook Pro正在籌備中】蘋果公司正計劃於明年推出升級款iPad Pro系列與全新改款入門MacBook Pro，恰逢iPhone問世20週年，該公司同期還規劃了多款重磅新品。蘋果正在測試四款內部硬體升級的全新iPad Pro機型，搭載效能更強的晶片；同時打造外觀重新設計的入門MacBook Pro。蘋果計劃2027年密集釋出多款硬體新品，首發首款M7處理器，同步推出第二代iPhone Air以及入門款iPhone。
+
+---
+
+### 2026-07-02 04:53:24  #宏觀 #公司 #市場 #國際
+
+道富集團：道富SPDR標普500ETF被美國財政部選定為特朗普相關賬戶的獨家預設ETF。
+
+---
+
+### 2026-07-02 04:52:54  #國際
+
+美國6月份輕型汽車總銷量增至1652萬輛，高於此前預期的1610萬輛。
+
+---
+
+### 2026-07-02 04:52:16  #國際
+
+美國醫療保險和醫療補助服務中心（CMS）預估：2027自然年度聯邦醫保居家護理總支付金額將上調2.4%，新增支出4.2億美元。
+
+---
+
+### 2026-07-02 04:52:06  #國際
+
+美國醫療保險和醫療補助服務中心（CMS）提出新增醫保參保資格撤銷依據，將高風險經營場所納入其中。
+
+---
+
+### 2026-07-02 04:51:46  #國際
+
+美國醫療保險和醫療補助服務中心（CMS）釋出2027財年家庭健康預付費支付體系擬議規則，每年可節省8200萬美元支出並打擊欺詐行為。
+
+---
+
+### 2026-07-02 04:51:35  #其他
+
+【象牙海岸阿比讓強降雨已致59人死亡】象牙海岸新聞部長、政府發言人阿馬杜·庫利巴利1日表示，今年雨季以來，科經濟首都阿比讓的連續強降雨引發山體滑坡、塌方和內澇等自然災害，已造成59人死亡。
+
+---
+
+### 2026-07-02 04:50:45  #公司 #市場
+
+【7月2日美股成交額前20：Meta籌劃進軍雲端計算，股價應聲大漲】週三美股成交額第3名Meta Platforms收高8.81%，成交276.61億美元。據報道，Meta正籌劃推出一項全新的雲基礎設施業務，計劃對外出售其過剩的AI計算能力和模型訪問許可權，此舉將直接挑戰亞馬遜AWS、微軟Azure和谷歌雲在雲端計算領域的主導地位。據Meta執行長扎克伯格在年度股東大會上透露，進軍雲端計算市場“絕對在考慮範圍內”。他表示幾乎每週都有外部公司前來詢問能否以溢價購買Meta的算力，若未來出現算力過剩，對外出租將是自然的選擇。分析認為，Meta此舉有望開闢新的收入來源，緩解市場對公司鉅額AI投資回報的擔憂。
+
+---
+
+### 2026-07-02 04:49:18  #其他
+
+蘋果規劃2027上半年推出新款iPad Pro與MacBook Pro機型。
+
+---
+
+### 2026-07-02 04:49:11  #其他
+
+蘋果籌備全新iPad Pro、全新改款入門款MacBook Pro。
+
+---
+
+### 2026-07-02 04:49:02  #其他 #焦點
+
+蘋果計劃於明年上半年推出基礎版M7晶片。
+
+---
+
+### 2026-07-02 04:48:52  #公司 #國際
+
+亞馬遜雲科技：美國海關與邊境保護局（CBP）認定亞馬遜海關貿易業務為合規合作主體。
+
+---
+
+### 2026-07-02 04:48:21  #MKT News
+
+Qatar's foreign minister said Qatar and Pakistan, acting as mediators, met separately in Doha today with U.S. and Iranian negotiators.
+
+---
+
+### 2026-07-02 04:48:10  #國際
+
+卡達外交部發言人：各方同意在後續階段繼續磋商，待伊朗前最高領袖葬禮相關事宜結束後，將盡快安排下一輪會談。
+
+---
+
+### 2026-07-02 04:47:51  #MKT News
+
+Qatar's foreign minister said positive progress is being made on issues related to the Islamabad memorandum of understanding. Parties have agreed to continue talks over the near term and to hold the next round of discussions as soon as possible after the funeral of the former Iranian supreme leader.
+
+---
+
+### 2026-07-02 04:47:09  #焦點 #國際
+
+卡達外交部發言人：卡達與巴基斯坦調停方今日在多哈分別與美國、伊朗談判代表舉行了會晤，雙方在與《伊斯蘭堡諒解備忘錄》相關議題上已取得積極進展。
+
+---
+
+### 2026-07-02 04:46:39  #焦點 #國際
+
+卡達外交大臣安薩里：卡達與巴基斯坦調解人員已在多哈分別同美國、伊朗談判代表舉行會談。
+
+---
+
+### 2026-07-02 04:45:11  #宏觀 #公司 #國際
+
+先鋒集團將擔任特朗普賬戶備選基金合作機構；公司表示，待收到美國財政部相關指引後，將支援資金轉入操作。
+
+---
+
+### 2026-07-02 04:44:35  #Trading Economics #Markets #Brazil #Stock Market #Importance 1
+
+Ibovespa Edges Lower Following Election Poll — The Ibovespa fell 0.2% to close at 171,689 on Wednesday as investors reacted to a new presidential election poll and fresh manufacturing data. An AtlasIntel/Bloomberg survey showed President Lula holding a 6.5-point lead over Flávio Bolsonaro in a hypothetical runoff, reinforcing expectations of a fiscally looser policy stance. Financial stocks were among the main drags, with Bradesco down 0.2% and Banco do Brasil losing 0.9%. WEG fell 1.4% and Ambev retreated 0.5% after the latest S&P Global manufacturing PMI showed a return to expansion, though the improvement was mainly driven by hiring and stockpiling while output and new orders remained in contraction. Utilities also traded lower, with Axia down 0.7%, while Engie plunged 6.1% after announcing the resignation of Pierre Jean Bernard Guiollot from its board of directors.
+
+---
+
+### 2026-07-02 04:41:28  #觀點 #國際
+
+【高盛預估：世界盃或將為6月就業報告新增4萬個崗位】高盛表示，受世界盃拉動，週四即將公佈的6月非農就業資料或將好於市場預期。高盛稱，小企業薪資服務商Homebase的資料顯示，足球賽事對招聘產生了一定提振作用，當月新增約4萬個工作崗位。
+
+---
+
+### 2026-07-02 04:38:18  #宏觀 #公司 #國際
+
+先鋒集團：美國財政部選定先鋒整體股市ETF（VTI）作為特朗普賬戶的替代投資選項。
+
+---
+
+### 2026-07-02 04:38:02  #宏觀 #國際
+
+美國財政部為特朗普專屬賬戶計劃選定貝萊德旗下安碩ETF產品IVV與ITOT；相關獲批基金預計在專案正式落地後的數月內開放投資渠道。
+
+---
+
+### 2026-07-02 04:37:07  #MKT News #Macro & Rates #US Economy #DXY #Impact bullish
+
+Goldman Sachs estimates the World Cup could add about 40,000 jobs to the U.S. June payrolls report, CNBC reports.
+
+---
+
+### 2026-07-02 04:37:04  #國際
+
+美國國家颶風中心：低氣壓增強為熱帶風暴道格拉斯。
+
+---
+
+### 2026-07-02 04:36:43  #宏觀 #公司 #國際
+
+領航集團：在收到美國財政部的指導意見後，領航集團打算支援特朗普相關賬戶的資金滾轉操作。
+
+---
+
+### 2026-07-02 04:35:15  #國際
+
+烏克蘭：防空系統攔截了針對基輔的俄羅斯無人機襲擊，無人機殘骸墜落在至少兩個行政區境內。
+
+---
+
+### 2026-07-02 04:35:02  #Trading Economics #Markets #United States #Stock Market #Importance 1
+
+The Dow Jones Index Closes 0.06% Higher — The Dow Jones Index rose 31 points or 0.06 percent on Wednesday to close at 52350 points. Leading the gains are Nike (5.07%), Salesforce (4.56%) and Microsoft (3.05%). Top losers were Caterpillar (-6.77%), Walmart (-3.88%) and Merck (-2.44%).
+
+---
+
+### 2026-07-02 04:32:46  #國際
+
+特朗普：歷經數十年，古巴如今正向我方靠攏；西班牙也該認清現實，西班牙算不上北約合格成員國。
+
+---
+
+### 2026-07-02 04:32:31  #MKT News #XAUUSD #Impact bullish #DXY
+
+Ukrainian officials say air-defence systems are intercepting Russian drone attacks on Kyiv; drone debris reported in at least two locations.
+
+---
+
+### 2026-07-02 04:31:42  #國際
+
+先鋒領航股票市場ETF被選為特朗普賬戶投資標的。
+
+---
+
+### 2026-07-02 04:31:23  #公司 #國際
+
+先鋒集團將擔任特朗普賬戶的備選基金合作方。
+
+---
+
+### 2026-07-02 04:30:45  #MKT News #WTI #Impact bullish #XAUUSD #DXY
+
+The New York Times reported U.S. Vice President Vance defended Trump’s approach to war and negotiations with Iran, saying the U.S. is using military force as a key bargaining chip in peace talks and that Trump’s demands on the military are markedly higher than those of prior presidents.
+
+---
+
+### 2026-07-02 04:30:07  #公司 #觀點
+
+【軟銀集團擬以OpenAI股權擔保籌集100億美元貸款】知情人士透露，軟銀集團正與多家貸款機構談判，擬以OpenAI股權擔保籌集100億美元貸款。為了打消貸款方的顧慮，軟銀提議為貸款償還提供擔保，如果作為抵押品的OpenAI股份貶值，銀行可向軟銀追索。該貸款財團預計將包括高盛 、摩根大通和瑞穗集團。
+
+---
+
+### 2026-07-02 04:29:06  #MKT News #Commodities #Energy #WTI #Impact bearish #Brent
+
+U.S. President Trump said oil prices are falling.
+
+---
+
+### 2026-07-02 04:28:57  #MKT News #WTI #Impact bearish #Brent
+
+US President Trump said vessels are leaving the Strait of Hormuz.
+
+---
+
+### 2026-07-02 04:28:21  #國際
+
+美國副總統萬斯為特朗普有關伊朗戰事的談判舉措辯護，稱美方正藉助軍事力量推進和平談判；他同時承認，相較於歷任總統，特朗普對軍方提出了更高要求。
+
+---
+
+### 2026-07-02 04:27:20  #市場 #國際
+
+特朗普：油價正在下跌。
+
+---
+
+### 2026-07-02 04:27:09  #國際
+
+特朗普：大量船隻正駛出霍爾木茲海峽。
+
+---
+
+### 2026-07-02 04:26:41  #國際
+
+烏克蘭：基輔市中心發生爆炸並引發火災。
+
+---
+
+### 2026-07-02 04:26:06  #宏觀 #國際
+
+美國財政部：特朗普賬戶的繳存資金將全部投向SPYM交易所交易基金（ETF），SPYM將設為所有賬戶的預設投資標的，特朗普專屬賬戶配置清單還包含IVV、VTI、SPTM、ITOT產品。
+
+---
+
+### 2026-07-02 04:25:40  #MKT News
+
+President Trump said the US has built the most advanced submarines ever and is 15 years ahead of rivals in submarines and several other areas.
+
+---
+
+### 2026-07-02 04:24:53  #國際
+
+特朗普：股市頻頻創下歷史新高。
+
+---
+
+### 2026-07-02 04:22:03  #國際
+
+特朗普： 2024年我們擊敗了一位名叫卡瑪拉的年輕女性，她看似精明，實則毫無頭緒。
+注：擊敗民主黨總統候選人哈里斯。
 
 ---
 
@@ -17271,149 +17536,5 @@ China A-share liquor sector rebounded, led by Jinzhongzi Wine which hit the dail
 ### 2026-07-01 11:04:27  #市場 #焦點
 
 焦煤連續主力合約日內跌2%，現報1249.50元。
-
----
-
-### 2026-07-01 11:03:22  #MKT News
-
-【GigaDevice launches GD24CL I2C EEPROM】July 1 — GigaDevice launched the GD24CL series I2C EEPROM, with initial density 256Kb. The device targets industrial, metering, energy and digital infrastructure applications that require long-term, stable retention of critical configuration data. It is GigaDevice’s first EEPROM product and broadens the company’s non-volatile memory lineup.
-
----
-
-### 2026-07-01 11:03:02  #市場
-
-【白酒板塊震盪反彈 金種子酒漲停】白酒板塊震盪反彈，金種子酒漲停，皇臺酒業、順鑫農業、天佑德酒、金徽酒、捨得酒業跟漲。
-
----
-
-### 2026-07-01 11:02:39  #公司
-
-【兆易創新推出首款GD24CL系列I²C EEPROM】7月1日，兆易創新（GigaDevice）推出全新GD24CL系列I²C通訊介面的EEPROM，首發容量為256Kb。該產品能夠切實滿足工業、電錶、能源、數字基礎設施等領域對關鍵配置資訊長期、穩定儲存的嚴苛需求。作為兆易創新推出的首款EEPROM產品，該系列的釋出進一步完善了公司的非易失性儲存產品線。
-
----
-
-### 2026-07-01 10:59:25  #公司
-
-【立訊精密在上海成立精工科技公司】企查查APP顯示，近日，上海立訊精工科技有限公司成立，法定代表人為熊靖，註冊資本為3000萬元，經營範圍包含汽車零部件研發；摩托車及零部件研發；人工智慧應用軟體開發；人工智慧理論與演算法軟體開發等。企查查股權穿透顯示，該公司由立訊精密(002475)間接全資持股。
-
----
-
-### 2026-07-01 10:58:46  #MKT News #000725.SZ #Impact bearish
-
-BOE Technology A-shares turnover exceeded CNY25 bln; shares trade down over 1%.
-
----
-
-### 2026-07-01 10:58:20  #其他
-
-京東方A成交額超250億元，現跌超1%。
-
----
-
-### 2026-07-01 10:57:37  #行業 #國際 #原創
-
-【澳大利亞考慮拆分四大會計師事務所】澳大利亞政府週三表示，鑑於該行業近期爆出一些備受矚目的醜聞，政府正在考慮拆分四大會計師事務所，並將其納入企業監管機構的監管範圍。澳大利亞財政部的一份檔案概述了這些提議，其中包括將合夥制事務所的規模上限從1000人降至400人。該檔案指出，四大會計師事務所——德勤、安永、畢馬威和普華永道——近期的行為暴露了澳大利亞監管框架的漏洞。檔案還對比了英國和美國的監管方式。
-
----
-
-### 2026-07-01 10:56:49  #MKT News
-
-【Australia's largest green hydrogen project approved】Orica, the mining‑explosives company, has taken a final investment decision to build a renewable hydrogen hub in the Hunter Valley, New South Wales, the company said in a regulatory filing. The project will use recycled water and renewable power to produce about 4,700 tonnes of hydrogen a year, the largest project of its scale in Australia. Hydrogen will be converted to roughly 26,600 tonnes a year of low‑carbon ammonia, cutting Orica’s natural‑gas feedstock use by about 7.5%. The project is one of two awarded funding in the first round of the Australian government’s AU$2.25bn renewable hydrogen support program. Construction is expected to start this year with commissioning targeted for early 2029. The decision bolsters Australia’s hydrogen ambitions after BP exited a AU$36bn project last year (about US$25bn).
-
----
-
-### 2026-07-01 10:55:56  #MKT News #Market Regions #Greater China #CSI300 #Impact bullish #SSE Composite
-
-China's CSI 500 index futures main contract (IC) rose more than 1.0% intraday, trading at 8,849.2 points.
-
----
-
-### 2026-07-01 10:54:26  #公司
-
-神龍汽車公佈資料顯示，公司1-6月經營規模同比增長15.3%。
-
----
-
-### 2026-07-01 10:53:41  #其他
-
-【深圳樓市6月成交量創近六年以來同期新高】據深圳中原研究中心今日披露的資料，6月深圳一二手住宅成交8878套，環比下滑11.9%，同比上升14.2%；一二手住宅成交量為2021年以來同期新高。其中，一手住宅（預售+現售）網籤3785套，環比下滑16.7%，同比上升15.6%；二手住宅過戶5093套，環比下降8%，同比上升13.1%。監測資料顯示，深圳當月新房預售及二手成交量，均重新整理近六年同期成交紀錄，為近六年以來樓市表現最好的6月。
-
----
-
-### 2026-07-01 10:53:29  #公司
-
-【蔚能電池等在安徽成立科技公司 註冊資本1億元】企查查APP顯示，近日，安徽巡鷹蔚能電池科技有限公司成立，法定代表人為何歡，註冊資本為1億元，經營範圍包含蓄電池租賃；電動汽車充電基礎設施運營；充電控制裝置租賃；儲能技術服務；電池銷售等。企查查股權穿透顯示，該公司由安徽巡鷹綠色能源發展有限公司、武漢蔚能電池資產有限公司共同持股。
-
----
-
-### 2026-07-01 10:53:26  #宏觀
-
-【習近平：中國共產黨具有無可比擬的優秀特質】今天上午，慶祝中國共產黨成立105週年大會在人民大會堂隆重舉行。中共中央總書記、國家主席、中央軍委主席習近平向“七一勳章”獲得者頒授勳章並發表重要講話。習近平：中國共產黨之所以能夠在105年奮鬥中不斷鑄就輝煌，歷史和人民之所以選擇中國共產黨，根本在於我們黨具有其他政黨和政治力量無可比擬的優秀特質。（央視新聞）
-
----
-
-### 2026-07-01 10:52:49  #MKT News #Market Themes #Chip Wars #603986.SS #Impact bullish
-
-A-share GigaDevice Semiconductor trading value hit 20.0 bln yuan; shares up 0.37%.
-
----
-
-### 2026-07-01 10:52:39  #其他
-
-兆易創新成交額達200億元，現漲0.37%。
-
----
-
-### 2026-07-01 10:52:19  #市場
-
-【猴痘概念震盪反彈，濟高發展漲停】猴痘概念震盪反彈，濟高發展漲停，迪安診斷、英諾特、普門科技、華大基因、海辰藥業、亞太藥業等跟漲。
-
----
-
-### 2026-07-01 10:51:27  #其他
-
-【習近平：人民是歷史的創造者 是真正的英雄】今天上午，慶祝中國共產黨成立105週年大會在人民大會堂隆重舉行。中共中央總書記、國家主席、中央軍委主席習近平向“七一勳章”獲得者頒授勳章並發表重要講話。習近平：人民是歷史的創造者，是真正的英雄。在這裡，我代表黨中央，向奮鬥在各條戰線的全國人民和各界人士，致以崇高的敬意！向香港特別行政區同胞、澳門特別行政區同胞、臺灣同胞和海外僑胞，致以誠摯的問候！向一切同中國人民友好相處，關心支援中國革命、建設、改革事業的各國人民和朋友，致以衷心的謝意！（央視新聞）
-
----
-
-### 2026-07-01 10:50:35  #Trading Economics #Markets #Commodity #Importance 1
-
-Soybeans Remain Near 4-Month Lows — Soybean futures remained below $11.2 per bushel, trading close to their lowest level since early February after the USDA projected larger stockpiles and a sharp increase in US plantings. In its quarterly report, the USDA estimated June 1 soybean stocks at 1.061 billion bushels, exceeding market expectations, while forecasting annual planted acreage at 85.365 million acres, in line with estimates, reinforcing expectations of ample supplies. Additional pressure came from a stronger dollar amid mounting expectations on US interest rate hikes this year, making US commodities more expensive for foreign buyers. Meanwhile, markets continued to monitor hot weather across the US Midwest, which is expected to stress soybean crops in the near term before cooler conditions later this week. Investors also remained focused on Chinese demand, watching for signs of additional purchases following the May summit between Presidents Donald Trump and Xi Jinping.
-
----
-
-### 2026-07-01 10:50:27  #MKT News #Important
-
-Shanghai Composite rose over 1%, led by livestock and large financials, as more than 4,000 stocks advanced across the Shanghai and Shenzhen exchanges.
-
----
-
-### 2026-07-01 10:50:06  #市場 #焦點
-
-上證指數漲1.00%，現報4135.473點；深證成指漲0.59%，現報16301.553點；創業板指漲0.13%，現報4348.230點。
-
----
-
-### 2026-07-01 10:49:35  #其他
-
-Piper Sandler將耐克目標價從 50 美元下調至 45 美元。
-
----
-
-### 2026-07-01 10:49:09  #Trading Economics #Economy #Japan #Government Bond 10Y #Importance 1
-
-Japan 10-Year Yield Hits 3-Week High — Japan's 10-year government bond yield climbed above 2.7% on Wednesday, reaching its highest level in three weeks as the sharp depreciation of the yen strengthened expectations of further monetary policy tightening by the Bank of Japan. The yen slid to a four-decade low amid wide interest rate differentials, persistent carry trades and broad US dollar strength. Last week, BOJ Governor Kazuo Ueda reiterated that the central bank stands ready to raise rates further if economic activity, inflation and financial conditions evolve in line with its projections. Meanwhile, Prime Minister Sane Takaichi appointed Ayano Sato to the BOJ board, with Sato saying the country’s inflation expectations remain relatively weak, signaling a more accommodative policy stance. On the economic front, business confidence among Japan’s large manufacturers rose to its highest level since 2018, underscoring the economy’s resilience despite the energy shock caused by the Middle East conflict.
-
----
-
-### 2026-07-01 10:48:29  #其他
-
-PCB概念衝高回落，金安國紀、中富電路、賢豐控股跌超7%，廣合科技、滿坤科技跟跌。
-
----
-
-### 2026-07-01 10:47:46  #Trading Economics #Markets #Indonesia #Stock Market #Importance 1
-
-Indonesia Stocks Subdued as July Begins — Indonesian shares edged lower on the first trading day of July, hovering around 5,613 in morning trade and lingering at a three-week low. A sharp drop in U.S. futures weighed on sentiment after Wall Street capped its strongest quarter in six years overnight, while fallout from the Iran war and swings in chip stocks kept volatility high. Locally, caution built ahead of June inflation and May trade data due later today. Inflation in May had accelerated toward the upper end of Bank Indonesia’s target, while April’s surplus narrowed to its smallest since 2020 as imports outpaced exports. Still, losses were partly cushioned by measures to cut industrial LNG prices, supporting energy affordability. Meanwhile, foreign inflows into government bonds and BI securities strengthened, reaching about USD 9 billion through end-June. Notable laggards included Charoen Pokphand (-7.1%), United Tractors (-3.9%), Pertamina Geothermal Energy (-3.3%), and Bank Tabungan Negara (-2.3%).
 
 ---

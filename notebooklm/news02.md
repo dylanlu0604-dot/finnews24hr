@@ -1,7 +1,151 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-07-02 04:21:40_
-_本檔包含 2549 則快訊，約 531723 字_
+_更新時間：2026-07-02 05:08:51_
+_本檔包含 2549 則快訊，約 530480 字_
+
+---
+
+### 2026-07-01 11:03:22  #MKT News
+
+【GigaDevice launches GD24CL I2C EEPROM】July 1 — GigaDevice launched the GD24CL series I2C EEPROM, with initial density 256Kb. The device targets industrial, metering, energy and digital infrastructure applications that require long-term, stable retention of critical configuration data. It is GigaDevice’s first EEPROM product and broadens the company’s non-volatile memory lineup.
+
+---
+
+### 2026-07-01 11:03:02  #市場
+
+【白酒板塊震盪反彈 金種子酒漲停】白酒板塊震盪反彈，金種子酒漲停，皇臺酒業、順鑫農業、天佑德酒、金徽酒、捨得酒業跟漲。
+
+---
+
+### 2026-07-01 11:02:39  #公司
+
+【兆易創新推出首款GD24CL系列I²C EEPROM】7月1日，兆易創新（GigaDevice）推出全新GD24CL系列I²C通訊介面的EEPROM，首發容量為256Kb。該產品能夠切實滿足工業、電錶、能源、數字基礎設施等領域對關鍵配置資訊長期、穩定儲存的嚴苛需求。作為兆易創新推出的首款EEPROM產品，該系列的釋出進一步完善了公司的非易失性儲存產品線。
+
+---
+
+### 2026-07-01 10:59:25  #公司
+
+【立訊精密在上海成立精工科技公司】企查查APP顯示，近日，上海立訊精工科技有限公司成立，法定代表人為熊靖，註冊資本為3000萬元，經營範圍包含汽車零部件研發；摩托車及零部件研發；人工智慧應用軟體開發；人工智慧理論與演算法軟體開發等。企查查股權穿透顯示，該公司由立訊精密(002475)間接全資持股。
+
+---
+
+### 2026-07-01 10:58:46  #MKT News #000725.SZ #Impact bearish
+
+BOE Technology A-shares turnover exceeded CNY25 bln; shares trade down over 1%.
+
+---
+
+### 2026-07-01 10:58:20  #其他
+
+京東方A成交額超250億元，現跌超1%。
+
+---
+
+### 2026-07-01 10:57:37  #行業 #國際 #原創
+
+【澳大利亞考慮拆分四大會計師事務所】澳大利亞政府週三表示，鑑於該行業近期爆出一些備受矚目的醜聞，政府正在考慮拆分四大會計師事務所，並將其納入企業監管機構的監管範圍。澳大利亞財政部的一份檔案概述了這些提議，其中包括將合夥制事務所的規模上限從1000人降至400人。該檔案指出，四大會計師事務所——德勤、安永、畢馬威和普華永道——近期的行為暴露了澳大利亞監管框架的漏洞。檔案還對比了英國和美國的監管方式。
+
+---
+
+### 2026-07-01 10:56:49  #MKT News
+
+【Australia's largest green hydrogen project approved】Orica, the mining‑explosives company, has taken a final investment decision to build a renewable hydrogen hub in the Hunter Valley, New South Wales, the company said in a regulatory filing. The project will use recycled water and renewable power to produce about 4,700 tonnes of hydrogen a year, the largest project of its scale in Australia. Hydrogen will be converted to roughly 26,600 tonnes a year of low‑carbon ammonia, cutting Orica’s natural‑gas feedstock use by about 7.5%. The project is one of two awarded funding in the first round of the Australian government’s AU$2.25bn renewable hydrogen support program. Construction is expected to start this year with commissioning targeted for early 2029. The decision bolsters Australia’s hydrogen ambitions after BP exited a AU$36bn project last year (about US$25bn).
+
+---
+
+### 2026-07-01 10:55:56  #MKT News #Market Regions #Greater China #CSI300 #Impact bullish #SSE Composite
+
+China's CSI 500 index futures main contract (IC) rose more than 1.0% intraday, trading at 8,849.2 points.
+
+---
+
+### 2026-07-01 10:54:26  #公司
+
+神龍汽車公佈資料顯示，公司1-6月經營規模同比增長15.3%。
+
+---
+
+### 2026-07-01 10:53:41  #其他
+
+【深圳樓市6月成交量創近六年以來同期新高】據深圳中原研究中心今日披露的資料，6月深圳一二手住宅成交8878套，環比下滑11.9%，同比上升14.2%；一二手住宅成交量為2021年以來同期新高。其中，一手住宅（預售+現售）網籤3785套，環比下滑16.7%，同比上升15.6%；二手住宅過戶5093套，環比下降8%，同比上升13.1%。監測資料顯示，深圳當月新房預售及二手成交量，均重新整理近六年同期成交紀錄，為近六年以來樓市表現最好的6月。
+
+---
+
+### 2026-07-01 10:53:29  #公司
+
+【蔚能電池等在安徽成立科技公司 註冊資本1億元】企查查APP顯示，近日，安徽巡鷹蔚能電池科技有限公司成立，法定代表人為何歡，註冊資本為1億元，經營範圍包含蓄電池租賃；電動汽車充電基礎設施運營；充電控制裝置租賃；儲能技術服務；電池銷售等。企查查股權穿透顯示，該公司由安徽巡鷹綠色能源發展有限公司、武漢蔚能電池資產有限公司共同持股。
+
+---
+
+### 2026-07-01 10:53:26  #宏觀
+
+【習近平：中國共產黨具有無可比擬的優秀特質】今天上午，慶祝中國共產黨成立105週年大會在人民大會堂隆重舉行。中共中央總書記、國家主席、中央軍委主席習近平向“七一勳章”獲得者頒授勳章並發表重要講話。習近平：中國共產黨之所以能夠在105年奮鬥中不斷鑄就輝煌，歷史和人民之所以選擇中國共產黨，根本在於我們黨具有其他政黨和政治力量無可比擬的優秀特質。（央視新聞）
+
+---
+
+### 2026-07-01 10:52:49  #MKT News #Market Themes #Chip Wars #603986.SS #Impact bullish
+
+A-share GigaDevice Semiconductor trading value hit 20.0 bln yuan; shares up 0.37%.
+
+---
+
+### 2026-07-01 10:52:39  #其他
+
+兆易創新成交額達200億元，現漲0.37%。
+
+---
+
+### 2026-07-01 10:52:19  #市場
+
+【猴痘概念震盪反彈，濟高發展漲停】猴痘概念震盪反彈，濟高發展漲停，迪安診斷、英諾特、普門科技、華大基因、海辰藥業、亞太藥業等跟漲。
+
+---
+
+### 2026-07-01 10:51:27  #其他
+
+【習近平：人民是歷史的創造者 是真正的英雄】今天上午，慶祝中國共產黨成立105週年大會在人民大會堂隆重舉行。中共中央總書記、國家主席、中央軍委主席習近平向“七一勳章”獲得者頒授勳章並發表重要講話。習近平：人民是歷史的創造者，是真正的英雄。在這裡，我代表黨中央，向奮鬥在各條戰線的全國人民和各界人士，致以崇高的敬意！向香港特別行政區同胞、澳門特別行政區同胞、臺灣同胞和海外僑胞，致以誠摯的問候！向一切同中國人民友好相處，關心支援中國革命、建設、改革事業的各國人民和朋友，致以衷心的謝意！（央視新聞）
+
+---
+
+### 2026-07-01 10:50:35  #Trading Economics #Markets #Commodity #Importance 1
+
+Soybeans Remain Near 4-Month Lows — Soybean futures remained below $11.2 per bushel, trading close to their lowest level since early February after the USDA projected larger stockpiles and a sharp increase in US plantings. In its quarterly report, the USDA estimated June 1 soybean stocks at 1.061 billion bushels, exceeding market expectations, while forecasting annual planted acreage at 85.365 million acres, in line with estimates, reinforcing expectations of ample supplies. Additional pressure came from a stronger dollar amid mounting expectations on US interest rate hikes this year, making US commodities more expensive for foreign buyers. Meanwhile, markets continued to monitor hot weather across the US Midwest, which is expected to stress soybean crops in the near term before cooler conditions later this week. Investors also remained focused on Chinese demand, watching for signs of additional purchases following the May summit between Presidents Donald Trump and Xi Jinping.
+
+---
+
+### 2026-07-01 10:50:27  #MKT News #Important
+
+Shanghai Composite rose over 1%, led by livestock and large financials, as more than 4,000 stocks advanced across the Shanghai and Shenzhen exchanges.
+
+---
+
+### 2026-07-01 10:50:06  #市場 #焦點
+
+上證指數漲1.00%，現報4135.473點；深證成指漲0.59%，現報16301.553點；創業板指漲0.13%，現報4348.230點。
+
+---
+
+### 2026-07-01 10:49:35  #其他
+
+Piper Sandler將耐克目標價從 50 美元下調至 45 美元。
+
+---
+
+### 2026-07-01 10:49:09  #Trading Economics #Economy #Japan #Government Bond 10Y #Importance 1
+
+Japan 10-Year Yield Hits 3-Week High — Japan's 10-year government bond yield climbed above 2.7% on Wednesday, reaching its highest level in three weeks as the sharp depreciation of the yen strengthened expectations of further monetary policy tightening by the Bank of Japan. The yen slid to a four-decade low amid wide interest rate differentials, persistent carry trades and broad US dollar strength. Last week, BOJ Governor Kazuo Ueda reiterated that the central bank stands ready to raise rates further if economic activity, inflation and financial conditions evolve in line with its projections. Meanwhile, Prime Minister Sane Takaichi appointed Ayano Sato to the BOJ board, with Sato saying the country’s inflation expectations remain relatively weak, signaling a more accommodative policy stance. On the economic front, business confidence among Japan’s large manufacturers rose to its highest level since 2018, underscoring the economy’s resilience despite the energy shock caused by the Middle East conflict.
+
+---
+
+### 2026-07-01 10:48:29  #其他
+
+PCB概念衝高回落，金安國紀、中富電路、賢豐控股跌超7%，廣合科技、滿坤科技跟跌。
+
+---
+
+### 2026-07-01 10:47:46  #Trading Economics #Markets #Indonesia #Stock Market #Importance 1
+
+Indonesia Stocks Subdued as July Begins — Indonesian shares edged lower on the first trading day of July, hovering around 5,613 in morning trade and lingering at a three-week low. A sharp drop in U.S. futures weighed on sentiment after Wall Street capped its strongest quarter in six years overnight, while fallout from the Iran war and swings in chip stocks kept volatility high. Locally, caution built ahead of June inflation and May trade data due later today. Inflation in May had accelerated toward the upper end of Bank Indonesia’s target, while April’s surplus narrowed to its smallest since 2020 as imports outpaced exports. Still, losses were partly cushioned by measures to cut industrial LNG prices, supporting energy affordability. Meanwhile, foreign inflows into government bonds and BI securities strengthened, reaching about USD 9 billion through end-June. Notable laggards included Charoen Pokphand (-7.1%), United Tractors (-3.9%), Pertamina Geothermal Energy (-3.3%), and Bank Tabungan Negara (-2.3%).
 
 ---
 
@@ -15226,149 +15370,5 @@ Sources say Venezuela's 645,000 bpd Amuay refinery has had power restored.
 ### 2026-06-29 11:18:37  #公司 #市場 #觀點 #央行 #國際
 
 【美聯儲鷹派立場和美元走強令金屬價格承壓，銅價下跌】由於美聯儲的鷹派立場和美元走強繼續打壓市場對工業金屬的信心，銅價下跌。倫敦三個月銅期貨價格跌至每噸13300美元附近，此前已連續兩週下跌。此前，美聯儲決策者已發出訊號，表示未來幾個月將加大加息力度，以應對美國持續高企的通脹。上週，美元觸及去年11月以來的最高水平。此外，由於市場預期特朗普政府可能對精煉金屬的流通徵收關稅，美國貿易政策也備受關注。另一方面，高盛集團表示，伊朗衝突最終將提振金屬需求。分析師薩曼莎·達特等人在一份報告中指出，電動汽車需求增加、可再生能源投資進一步增長、國防開支上升以及人工智慧競賽競爭加劇等因素都將支撐銅需求。該行最近將2026年底和2027年平均銅價預測分別上調至每噸13,735美元和每噸13,800美元。
-
----
-
-### 2026-06-29 11:18:20  #其他
-
-【公共航空運輸旅客服務質量國家標準7月1日起實施】記者今天瞭解到，新修訂的《公共航空運輸旅客服務質量》推薦性國家標準7月1日起實施，有利於以標準引領提升公共航空運輸旅客服務的規範化水平。該標準主要包括三方面內容：一是確立公共航空運輸旅客服務總則。對服務人員基本要求作出規定，涵蓋儀容儀表、服務語言、服務態度、業務技能等方面，為全行業旅客服務管理提供了統一遵循。二是明確全鏈條服務質量要求。圍繞旅客出行全流程，劃分多個核心服務模組並明確質量要求，包括票務服務、進出機場交通、地面服務、客艙服務四大基礎服務。三是規範專項服務內容。專門針對特殊旅客群體及不正常航班場景制定服務要求，將旅客訴求管理列為獨立章節，對相關服務重點和質量標準作出規定。該標準實施後，將有助於提升全行業的服務質量，引導民航業不斷最佳化服務流程、提升服務品質，推動行業高質量發展，用心提升民航服務水平，持續增進人民群眾出行滿意度與獲得感。（央視新聞）
-
----
-
-### 2026-06-29 11:17:58  #其他
-
-【野村：光纖行業產能擴張有加快跡象 長飛光纖光纜或面臨競爭加劇】野村證券表示，大族鐳射和合盛矽業均為光纖市場的相對新進入者，該行認為其近期投資專案反映光纖需求強勁，主要受AI資料中心基礎設施建設推動。與此同時，該行認為光纖預製棒行業技術壁壘較高，目前由康寧(GLW.N)、藤倉和長飛光纖光纜(06869.HK)等現有參與者主導。短期內，該行認為供應限制將持續，長飛可繼續受惠於較高的現貨價格，以及因更多涉足AI資料中心市場而帶來的利潤率擴張。然而，若新進入者能成功開發高階產品（即空芯光纖和多芯光纖），並順利執行其產能擴張計劃，該行認為市場競爭將加劇，長飛光纖等現有參與者可能面臨利潤率擴張的壓力。該行維持對長飛光纖光纜(06869.HK)買入評級，基於2027財年預測每股盈利9.75元人民幣的23.7倍遠期市盈率，目標價266港元。
-
----
-
-### 2026-06-29 11:17:37  #MKT News #Market Regions #Greater China #06869.HK #Impact bullish
-
-【Nomura: optical-fiber capacity expansion accelerating; Yangtze Optical Fibre faces intensifying competition】Nomura says recent capex by Han's Laser and Hoshine Silicon indicates accelerating optical-fiber capacity expansion driven by AI data-center buildout. The preform market retains high technical barriers and is currently led by Corning, Fujikura and Yangtze Optical Fibre and Cable, so Nomura expects supply constraints to persist short term, supporting elevated spot prices and helping Yangtze expand margins via greater AI data-center exposure. However, if new entrants successfully develop high-end products (hollow-core and multi-core fiber) and execute planned capacity additions, competition could intensify and pressure margin expansion for incumbent producers. Nomura keeps a BUY on Yangtze Optical Fibre and Cable (06869.HK) with a HK$266 target, based on FY2027 EPS of RMB9.75 and a 23.7x forward P/E.
-
----
-
-### 2026-06-29 11:16:05  #其他
-
-【上海電氣成功落地上海票據交易所供應鏈商票首單業務】上海電氣6月29日訊息，近日，上海電氣正式獲批接入上海票據交易所供應鏈票據平臺，成為上海國企中首批獲得該業務接入資格的企業。據介紹，該平臺直連交通銀行、招商銀行、上海農商銀行等多家金融機構，已順利完成首筆供應鏈商票的簽發與貼現業務，可為供應商提供線上比價和票據“秒貼”等服務，有效拓寬融資渠道、降低融資成本。同時，這也是上海電氣司庫體系建設的重要創新舉措之一，大幅提升了票據的集中管理與統籌運用能力。據瞭解，此次首單業務的成功落地，為產業鏈上下游企業帶來了實質性降本增效。透過供應鏈票據平臺，供應商的貼現成本較傳統方式大幅下降20%至40%，有效緩解了企業資金週轉壓力。（中證金牛座）
-
----
-
-### 2026-06-29 11:15:55  #MKT News #Commodities #Industrial Metals #Macro & Rates #The Fed (FOMC) #Copper #Impact bearish #DXY #Impact bullish #EURUSD
-
-【Fed hawkishness, stronger dollar weigh on metals; copper falls】Fed hawkish signals and a firmer dollar are denting industrial-metals sentiment, pushing copper lower. LME three-month copper slid toward $13,300/tonne after a two-week decline. Fed officials have signaled further rate hikes in coming months to tackle persistently high inflation; the dollar last week hit its strongest level since November. Markets are also monitoring the prospect of Trump administration tariffs on refined metals. Separately, Goldman Sachs said the Iran conflict should ultimately boost metals demand, citing rising EV uptake, expanded renewables investment, higher defense spending and intensified AI-related industrial activity. Goldman raised its year-end 2026 and 2027 average copper forecasts to $13,735/tonne and $13,800/tonne, respectively.
-
----
-
-### 2026-06-29 11:13:05  #公司
-
-【華勤技術成立兩家技術新公司】企查查APP顯示，近日，上海遠圖智投技術有限公司、上海遠圖弘聯技術有限公司成立，法定代表人均為鄧治國，註冊資本均為1000萬元，企查查股權穿透顯示，兩公司均由華勤技術(603296)旗下廣東遠圖未來科技有限公司全資持股。
-
----
-
-### 2026-06-29 11:12:41  #公司
-
-【招商銀行：AI貢獻比已經提升到接近1:9】招商銀行最新披露的股東溝通實錄顯示，招商銀行資訊長周天虹表示，招行對大模型技術一直高度重視，從未動搖。公司在人工智慧領域耕耘了一段時間，也看到了一些效果。公司有一個重要的指標——AI貢獻比，也即AI處理業務的對應工時和人類員工實際投入工時之比。去年底，這一指標數值是1:13.5；今年5月底，已經提升到接近1:9，提升幅度不小。
-
----
-
-### 2026-06-29 11:10:33  #MKT News #Important #Market Regions #Greater China #01093.HK #Impact bullish #01801.HK #09888.HK
-
-Hang Seng up more than 2% intraday, led by CSPC PHARMA (01093.HK), Innovent Biologics (01801.HK) and Baidu (09888.HK). Hang Seng Tech index extends gains, up about 3.5%.
-
----
-
-### 2026-06-29 11:10:02  #MKT News #Important #CSI300 #Impact bullish #Hang Seng Index
-
-FTSE China A50 index futures rose over 1% ahead of midday trade.
-
----
-
-### 2026-06-29 11:09:52  #市場 #焦點
-
-恒生指數漲超2%，現報23125.299點；恒生科技指數現漲3.466%。
-
----
-
-### 2026-06-29 11:09:32  #Trading Economics #Economy #China #Reverse Repo Rate #Importance 1
-
-PBoC Holds 7-Day Repo Rate, Launches Overnight Reverse Repos — The People's Bank of China (PBoC) injected CNY 157.5 billion through seven-day reverse repos on Monday, while keeping the borrowing cost unchanged at a record low of 1.4%, signaling its commitment to an accommodative monetary stance to support the economy. In a new move, the central bank also launched overnight reverse repo operations, offering CNY 300 billion to financial institutions to provide greater flexibility in managing short-term liquidity and smoothing funding conditions in the interbank market. However, the PBoC did not disclose the borrowing cost for the new overnight facility. The introduction of the tool comes as authorities seek to refine their liquidity management framework, ensuring ample cash in the banking system while maintaining stable money market rates.
-
----
-
-### 2026-06-29 11:09:08  #公司
-
-【美銀：上調美光目標價至1550美元，重申“買入”評級】美銀證券發表報告指，美光再次交出強勁季度業績，鞏固了該行對記憶體在人工智慧中角色的建設性看法，以及供應端日益增強的自律性支援更持久的週期。雖然戰略客戶協議(SCA)現已達16份，或適度限制短期定價上行空間，但它們透過與面臨不斷上升的記憶體稅(約佔AI資本開支35%)的客戶保持一致，顯著增強了可見性並降低了波動性。估值仍具吸引力，股份隱含約10%的自由現金流收益率，而該行預期在2026年12月《晶片法案》週年後，資本回報將顯著提升。該行重申美光“買入”評級，上調未來年度每股盈利預測4%至7%，並基於分類加總估值法(SOTP)，將目標價從1500美元上調至1550美元，對核心記憶體業務估值為賬面值的約3倍(此前為2.5倍)，資料中心/人工智慧業務為31倍市盈率(保持不變)。
-
----
-
-### 2026-06-29 11:08:59  #觀點 #國際
-
-【大摩：下調申洲國際目標價至50港元，下調2026至28年盈利預測】摩根士丹利發表研報指，申洲國際2026年上半年的訂單波動將影響其收入和利潤率，但今年以來股價跑輸大市，已充分反映了上述疲弱因素。不過，該行預期隨著中東衝突影響消退及客戶情緒改善，加上低基數效應，下半年出貨量及收入均將按年增長9%，淨利潤預期按年增長19%。因應宏觀不確定性，該行將2026至2028年的盈利預測分別下調3%、5%及8%，並將目標市盈率由14倍下調至12倍，目標價由58港元下調至50港元，重申“增持”評級，並認為該股目前提供超過6%的預期現金股息率，具備吸引力。
-
----
-
-### 2026-06-29 11:08:37  #其他
-
-【奧尼龍蝦AI工作站亮相鏈博會】據奧尼電子訊息，6月22日—26日，第四屆中國國際供應鏈促進博覽會（簡稱“鏈博會”）在北京中國國際展覽中心（順義館）舉辦。作為NVIDIA的合作伙伴，奧尼攜龍蝦AI工作站aoniclaw A2000亮相NVIDIA展位，展示面向Agent時代的端側算力方案。該產品基於NVIDIA Jetson Thor T5000晶片模組打造，以“端側強算力+ Agent系統化管理+端雲協同能力”為核心。
-
----
-
-### 2026-06-29 11:08:32  #公司
-
-【中信科海洋資訊總部專案落戶光谷】據中國光谷公眾號，近日，武漢光谷光電子資訊產業園建設服務中心（簡稱“光電園”）與武漢信科海洋技術有限公司（簡稱“信科海洋”）簽約，中信科海洋資訊總部專案落戶光谷。
-
----
-
-### 2026-06-29 11:08:06  #公司
-
-【大眾汽車計劃終止與博世的自動駕駛合作】據德國畫報援引多名訊息人士報導，德國汽車製造商大眾汽車計劃終止與汽車供應商博世在自動駕駛領域的合作，此舉是該公司為削減成本、提升競爭力而採取的更廣泛舉措的一部分。與博世的合作始於2022年，當時大眾汽車的軟體部門Cariad與博世攜手，旨在為大眾旗下各品牌開發駕駛輔助和自動駕駛軟體。博世和Cariad發表聯合宣告稱，他們不就市場傳聞置評。宣告指出，雙方多年來一直密切合作，並希望將自動駕駛系統推向全球大眾市場。“基於原則，我們會定期檢視我們的研發合作伙伴關係，並持續評估其是否符合我們的戰略和技術目標以及當前的市場發展趨勢，”宣告稱，同時指出他們不會對與合作伙伴之間的保密討論發表評論。據報道援引內部訊息人士的話稱，該專案在投入約15億歐元（17.1億美元）後，未能達到預期。該報補充稱，內部評估發現該技術目前尚不具備競爭力。報道稱，與博世的合作將按照合同條款終止。大眾計劃從新合作伙伴處採購此類系統的軟硬體。目前正在物色替代合作伙伴，計劃於9月前簽訂合同。
-
----
-
-### 2026-06-29 11:05:37  #MKT News #Market Regions #Greater China
-
-【CHINA meets Belarusian President LUKASHENKO in Beijing】On the morning of June 29, CHINA met Belarusian President LUKASHENKO at the Diaoyutai State Guesthouse in Beijing.
-
----
-
-### 2026-06-29 11:05:36  #市場 #焦點
-
-比特幣升破60000美元，日內漲0.72%。
-
----
-
-### 2026-06-29 11:05:24  #其他
-
-【自然資源部對四川啟動地質災害防禦Ⅲ級響應 派專家赴宜賓地震影響區】據中國地震臺網測定，6月29日0時12分，四川省宜賓市高縣（北緯28.5度，東經104.69度）發生5.5級地震，震源深度6公里。為做好地震可能引發次生地質災害防範處置等工作，自然資源部於6月29日5時對四川啟動地質災害防禦Ⅲ級響應，派出專家前往地震影響區，協助指導地方做好搶險救援技術支撐、次生地質災害排查、應急處置等工作。自然資源部要求，四川省自然資源廳及時組織開展巡查排查，切實做好監測預警、會商研判、災情險情處置和值班值守、資訊報送等工作；中國地質調查局、自然資源部地質災害技術指導中心加強會商研判和駐守專家排程，全力協助地方做好地質災害防禦工作。
-
----
-
-### 2026-06-29 11:05:11  #市場 #焦點
-
-聚丙烯連續主力合約日內漲1%，現報7281.00元。
-
----
-
-### 2026-06-29 11:04:03  #MKT News
-
-【Omdia projects RGB LED TVs to account for 13% of global TV market revenue by 2030】Omdia projects TVs using discrete red, green, blue (RGB) LED chip backlights will account for 13% of global TV market revenue by 2030, up from 3% in 2026. RGB LED backlight technology entered retail in Q1 2026 as the latest-generation display innovation. Omdia says the rollout reflects TV brands leaning on high-end display tech to lift product value and revenues amid hardware commoditization.
-
----
-
-### 2026-06-29 11:03:48  #公司
-
-【恆潤股份新設科技公司 含大資料服務業務】企查查APP顯示，近日，啟東潤六尺科技有限公司成立，法定代表人為張天超，註冊資本為1000萬元，經營範圍包含資料處理和儲存支援服務；人工智慧應用軟體開發；5G通訊技術服務；大資料服務等。企查查股權穿透顯示，該公司由恆潤股份(603985)旗下上海潤六尺科技有限公司全資持股。
-
----
-
-### 2026-06-29 11:03:41  #國際
-
-【習近平會見白俄羅斯總統盧卡申科】6月29日上午，國家主席習近平在北京釣魚臺國賓館會見白俄羅斯總統盧卡申科。（央視新聞）
-
----
-
-### 2026-06-29 11:03:03  #MKT News #Commodities #Energy #WTI #Impact bullish #Brent #DXY
-
-【BIS says Middle East hostilities could have persistent effects on global economy】The Bank for International Settlements said in a report on June 28 that a "historic closure" of the Strait of Hormuz triggered an energy and broader commodity supply crisis, posing a fresh threat to the global outlook. While geopolitical tensions have eased and oil prices have fallen sharply, the BIS warned the shock's effects may persist. The report said early-year resilience was supported by AI-driven optimism and stronger-than-expected global trade, but cautioned that AI-related optimism may not be durable. If supply bottlenecks continue to constrain production, the recent surge in capital expenditure may be difficult to sustain.
 
 ---
