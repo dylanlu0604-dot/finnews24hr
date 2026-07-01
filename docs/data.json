@@ -1,7 +1,60 @@
 {
-  "updated": "2026-07-01 11:02:41",
-  "count": 13959,
+  "updated": "2026-07-01 11:06:25",
+  "count": 13952,
   "items": [
+    {
+      "id": "4964114",
+      "time": "2026-07-01 11:05:31",
+      "tags": [
+        "國際"
+      ],
+      "text": "截至6月27日當週，日本煉油廠開工率為81%。"
+    },
+    {
+      "id": "mkt:019f1ba2-f010-7aab-8c49-db8e805e73dc",
+      "time": "2026-07-01 11:04:50",
+      "tags": [
+        "MKT News",
+        "Important",
+        "000860.SZ",
+        "Impact bullish",
+        "600702.SS"
+      ],
+      "text": "China A-share liquor sector rebounded, led by Jinzhongzi Wine which hit the daily trading limit; Huangtai Wine, Shunxin Agriculture, Tianyoude Wine, Jinhui Wine and Shede Spirits also rose."
+    },
+    {
+      "id": "4964113",
+      "time": "2026-07-01 11:04:27",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "焦煤連續主力合約日內跌2%，現報1249.50元。"
+    },
+    {
+      "id": "mkt:019f1ba1-97ba-7aab-8c49-d7c850e50139",
+      "time": "2026-07-01 11:03:22",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【GigaDevice launches GD24CL I2C EEPROM】July 1 — GigaDevice launched the GD24CL series I2C EEPROM, with initial density 256Kb. The device targets industrial, metering, energy and digital infrastructure applications that require long-term, stable retention of critical configuration data. It is GigaDevice’s first EEPROM product and broadens the company’s non-volatile memory lineup."
+    },
+    {
+      "id": "4964112",
+      "time": "2026-07-01 11:03:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "【白酒板塊震盪反彈 金種子酒漲停】白酒板塊震盪反彈，金種子酒漲停，皇臺酒業、順鑫農業、天佑德酒、金徽酒、捨得酒業跟漲。"
+    },
+    {
+      "id": "4964111",
+      "time": "2026-07-01 11:02:39",
+      "tags": [
+        "公司"
+      ],
+      "text": "【兆易創新推出首款GD24CL系列I²C EEPROM】7月1日，兆易創新（GigaDevice）推出全新GD24CL系列I²C通訊介面的EEPROM，首發容量為256Kb。該產品能夠切實滿足工業、電錶、能源、數字基礎設施等領域對關鍵配置資訊長期、穩定儲存的嚴苛需求。作為兆易創新推出的首款EEPROM產品，該系列的釋出進一步完善了公司的非易失性儲存產品線。"
+    },
     {
       "id": "4964110",
       "time": "2026-07-01 10:59:25",
@@ -128197,129 +128250,6 @@
         "Impact bullish"
       ],
       "text": "【Son says SoftBank-owned Arm to enter chip manufacturing, sees >10x growth】SoftBank chairman Masayoshi Son told shareholders UK chip design firm Arm (ARM.O) will evolve from a designer into a chip provider and that he will personally take part in its manufacturing. He predicted the AI era will be CPU-centric and said Arm still has more than 10x growth potential. Son added SoftBank’s roughly JPY300 billion investment in Intel, once controversial, has generated market-value gains amounting to tens of trillions of yen."
-    },
-    {
-      "id": "4951624",
-      "time": "2026-06-24 11:06:14",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【孫正義：軟銀旗下Arm將進軍晶片製造，“還有10倍以上成長空間”】6月24日，軟銀集團董事長孫正義在股東大會上表示，旗下英國晶片設計公司Arm將從晶片設計者進化為晶片提供者，並親自參與制造。他預判“今後AI時代將以CPU為中心”，並強調Arm“還有10倍以上的成長空間”。他同時提及軟銀對英特爾約3000億日元的投資，稱“當初遭到非議”，但目前“按市值計算的利潤已達數萬億日元”。"
-    },
-    {
-      "id": "te:economy:561343",
-      "time": "2026-06-24 11:06:08",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Australia",
-        "Government Bond 10Y",
-        "Importance 1"
-      ],
-      "text": "Australia 10Y Yield Trades Near Multi-Month Lows — Australia’s 10-year government bond yield fell below 4.8%, near four-month lows after a mixed inflation report did little to shift expectations for further interest rate hikes. Headline consumer prices fell 0.7% in May from the previous month, pulling annual inflation down to 4.0% from 4.2% and marking the slowest pace in three months. However, underlying price pressures remained firm, with the trimmed mean inflation rising 0.4% on the month, above forecasts, lifting the annual core rate to 3.6%. The mixed inflation data has left markets divided, pricing roughly 50% odds of another rate hike, with any move seen more likely later in the year rather than at the August meeting. Meanwhile, progress in ongoing US-Iran peace talks and increased shipping activity through the Strait of Hormuz helped ease inflation concerns. The hawkish outlook for US interest rates has also helped Australian bonds outperform Treasuries, adding downside on Aussie's yield premium."
-    },
-    {
-      "id": "4951623",
-      "time": "2026-06-24 11:05:49",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【上海機場集團與韓國機場公社簽署合作諒解備忘錄】據上海機場集團訊息，6月23日，上海機場集團與韓國機場公社（Korea Airports Corporation）在滬簽署合作諒解備忘錄。上海機場集團總裁周浩與韓國機場公社代理執行執行長兼總裁樸財喜（PARK Jaehee）代表雙方簽約。目前上海已通航韓國機場公社旗下金浦、濟州、釜山、大邱、清州5個機場，航線由東方航空、上海航空、吉祥航空、春秋航空等9家航司執飛。2026年夏秋航季航線將進一步加密，東方航空將於7月新開上海—清州航線。"
-    },
-    {
-      "id": "4951622",
-      "time": "2026-06-24 11:04:51",
-      "tags": [
-        "其他"
-      ],
-      "text": "【斯里蘭卡登革熱毒株變異致病例激增】據斯里蘭卡媒體6月23日報道，截至當日，該國今年登革熱病例已達47530例，另有29例死亡。其中，21日單日新增病例超千例，達1069例。斯里蘭卡國家登革熱防控中心22日警告稱，近期的登革熱感染高發導致該國醫院就診人數大幅增長，醫療系統承受巨大壓力。斯里蘭卡衛生部副部長此前表示，近期登革熱病例數快速上升的原因之一是病毒毒株發生了變異，毒株傳播力增強。"
-    },
-    {
-      "id": "mkt:019ef796-08f8-7dd8-b0ea-123b470af20c",
-      "time": "2026-06-24 11:04:25",
-      "tags": [
-        "MKT News",
-        "Important",
-        "603259.SS",
-        "Impact bullish",
-        "300347.SZ",
-        "300759.SZ"
-      ],
-      "text": "China A-share CRO sector rallied; WuXi AppTec hit the daily limit, Asymchem had earlier been locked at the limit, and Tigermed, Pharmaron and Joinn Laboratories were among the top gainers."
-    },
-    {
-      "id": "mkt:019ef796-0871-7dd8-b0ea-0d6706af46d8",
-      "time": "2026-06-24 11:04:25",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "SoftBank CEO Masayoshi Son said he hopes U.S. President Trump can bring peace to the Middle East."
-    },
-    {
-      "id": "4951621",
-      "time": "2026-06-24 11:04:18",
-      "tags": [
-        "市場"
-      ],
-      "text": "CRO概念股震盪走高，藥明康德觸及漲停，凱萊英此前封板，泰格醫藥、康龍化成、昭衍新藥漲幅居前。"
-    },
-    {
-      "id": "mkt:019ef795-5372-7dd8-b0ea-071262e9cc7f",
-      "time": "2026-06-24 11:03:38",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy"
-      ],
-      "text": "Sources say domestic coal now accounts for about 50% of fuel use at Indian power plants that typically burn imported coal."
-    },
-    {
-      "id": "4951620",
-      "time": "2026-06-24 11:03:26",
-      "tags": [
-        "其他"
-      ],
-      "text": "日月光：正擴大產能以滿足人工智慧需求。"
-    },
-    {
-      "id": "mkt:019ef795-1b2d-7dd8-b0e9-ff6dc2ee0169",
-      "time": "2026-06-24 11:03:24",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "SoftBank CEO Masayoshi Son said US President Trump strongly wants to bring prosperity to Americans."
-    },
-    {
-      "id": "mkt:019ef795-04df-7dd8-b0e9-f2adbd76e7b2",
-      "time": "2026-06-24 11:03:18",
-      "tags": [
-        "MKT News",
-        "Important",
-        "06821.HK",
-        "Impact bullish",
-        "02359.HK",
-        "03347.HK"
-      ],
-      "text": "Hong Kong pharma‑outsourcing stocks rallied: 06821.HK rose over 16%, 02359.HK gained more than 10%, 03347.HK climbed over 7% and 02269.HK added over 6%."
-    },
-    {
-      "id": "4951619",
-      "time": "2026-06-24 11:03:06",
-      "tags": [
-        "國際"
-      ],
-      "text": "訊息人士稱，印度以進口煤為主的電廠國內煤使用量接近50%。"
-    },
-    {
-      "id": "4951618",
-      "time": "2026-06-24 11:02:54",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【士蘭微：功率半導體行業漲價核心驅動仍來自成本壓力】士蘭微證券部人士今日接受採訪表示，今年多數功率半導體企業上調價格產品，核心驅動仍來自成本端壓力。需求端除AI外，工業、汽車領域暫時沒有看到大的需求變化。“公司運營模式為IDM，產品品類較多，且定價邏輯與代工模式有差異，不同產品、不同客戶產品定價及變動不同。公司從設計、製造到封裝全鏈條自主可控，應對成本上漲能力較代工企業更強。” (科創板日報)"
     }
   ]
 }
