@@ -1,7 +1,44 @@
 {
   "date": "2026-07-02",
-  "count": 322,
+  "count": 326,
   "items": [
+    {
+      "id": "4965952",
+      "time": "2026-07-02 05:41:22",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場資訊：韓國主要銀行正在擴充外匯交易團隊，並在首爾與倫敦加強佈局，以應對即將啟動的韓元24小時外匯市場。"
+    },
+    {
+      "id": "4965951",
+      "time": "2026-07-02 05:40:14",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊拉克安全部門訊息人士透露，週三凌晨，一架裝載爆炸物的無人機襲擊了伊拉克庫爾德地區一處伊朗庫爾德反對派武裝營地，現場引發火情。目前暫無人員傷亡訊息，襲擊實施方也尚未查明。"
+    },
+    {
+      "id": "mkt:019f1fa0-0581-7aab-8c66-940e3764c58d",
+      "time": "2026-07-02 05:40:08",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Korean banks expand trading teams ahead of near-24-hour KRW trading】Major Korean banks are expanding FX trading staff and bolstering Seoul–London coverage ahead of a near-24-hour KRW FX trading regime launching July 6. Woori Bank has seconded eight staff to its London office covering FX, derivatives and bond trading. Hana Bank added traders in Seoul and implemented three-shift rotations for round-the-clock coverage. Shinhan Bank and KB Kookmin Bank have also increased headcount and upgraded trading systems. The moves are aimed at improving KRW liquidity and supporting internationalization of Korea’s financial markets."
+    },
+    {
+      "id": "mkt:019f1f9f-9ad3-7aab-8c66-88ff42b43a98",
+      "time": "2026-07-02 05:39:41",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "A fire broke out at Kyiv's Premier Palace Hotel after a Russian drone strike."
+    },
     {
       "id": "4965950",
       "time": "2026-07-02 05:31:05",
