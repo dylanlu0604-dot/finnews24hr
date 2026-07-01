@@ -1,7 +1,85 @@
 {
-  "updated": "2026-07-01 17:52:53",
-  "count": 13905,
+  "updated": "2026-07-01 17:56:43",
+  "count": 13904,
   "items": [
+    {
+      "id": "4964867",
+      "time": "2026-07-01 17:55:42",
+      "tags": [
+        "其他"
+      ],
+      "text": "【阿波羅：AI算力短缺加劇 晶片、電力與資料中心成新“戰略資源”】阿波羅資管在最新報告中指出，AI產業正從“模型競賽”轉向“算力爭奪”。隨著推理模型和智慧體應用擴張，單次任務的計算需求顯著上升：智慧體會反覆進行規劃、檢索、呼叫工具、驗證結果，其Token消耗可達傳統聊天機器人請求的100至1000倍以上。報告認為，本輪短缺並非單一環節受限，而是GPU、先進製程、儲存、電力和電網接入同時承壓。阿波羅稱，算力稀缺正在重估資產價值，真正的競爭壁壘將是企業能否提前鎖定晶片、儲存、電力和資料中心資源。"
+    },
+    {
+      "id": "4964866",
+      "time": "2026-07-01 17:55:22",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【ST榮科：股票連續三日跌幅偏離值累計達30% 不存在未披露重大事項】ST榮科公告稱，公司股票連續三個交易日（2026年6月26日、6月30日、7月1日）收盤價格跌幅偏離值累計達到30%，屬於異常波動。經自查，公司前期披露資訊無需更正補充，目前生產經營正常，內外部環境未變。公司及控股股東、實控人不存在應披露未披露重大事項，控股股東在異常波動期間未買賣公司股票。此外，違規擔保系前任控股股東越權操作，公司將維護自身權益。"
+    },
+    {
+      "id": "4964865",
+      "time": "2026-07-01 17:55:12",
+      "tags": [
+        "公司"
+      ],
+      "text": "【移為通訊：持股5%以上股東減持235.36萬股 權益變動觸及1%整數倍】移為通訊公告稱，持股5%以上股東精速國際於2026年6月25日-7月1日透過集中競價方式減持公司股份235.36萬股，佔總股本的0.5092%，權益變動觸及1%整數倍。2026年5月8日，公司總股本增加使精速國際持股比例由9.3832%被動稀釋至9.3362%，此次減持後其持股比例降至8.8270%。本次減持在已披露計劃範圍內，不會對公司治理及經營產生重大影響，也不會導致控制權變更。"
+    },
+    {
+      "id": "4964864",
+      "time": "2026-07-01 17:55:04",
+      "tags": [
+        "公司"
+      ],
+      "text": "【ST萃華：副總經理熊躍東因個人原因辭職】ST萃華公告，公司董事會收到副總經理熊躍東先生的書面辭職申請，因個人原因辭去副總經理職務，辭職後不再擔任公司任何職務。"
+    },
+    {
+      "id": "4964863",
+      "time": "2026-07-01 17:54:38",
+      "tags": [
+        "公司",
+        "央行",
+        "國際"
+      ],
+      "text": "【標準銀行建議做空歐元兌紐西蘭元】十國集團外匯策略主管史蒂文・巴羅在研報中寫道：紐西蘭儲備銀行仍存在持續加息動力，而歐洲央行的緊縮週期或將放緩，標準銀行建議投資者佈局歐元兌紐西蘭元走空。巴羅建議在 2.0080 點位建立歐元兌紐西蘭元空頭頭寸，止損位設定在 2.07。該行同時認為澳大利亞儲備銀行與紐西蘭儲備銀行的利率走勢將出現分化，建議在 1.2140 點位做空澳元兌紐西蘭元，止損位 1.24。本週，隨著各國通脹資料陸續公佈、中東和平談判取得進展，歐洲央行官員一改此前強硬加息論調，措辭趨於緩和。歐洲央行官員在辛特拉年度研討會上對歐洲經濟前景表達了相對樂觀的看法，令市場交易員難以判斷央行下一步政策動向。利率互換市場定價顯示，市場預期至 12 月央行累計加息 23 個基點，較週一高點 27 個基點有所回落。部分銀行預測歐元明年可能跌至 1.10 美元。數月前形勢恰好相反，當時歐元一度突破 1.20 美元，創近五年新高，歐洲政策制定者還在擔憂本幣過強。"
+    },
+    {
+      "id": "4964862",
+      "time": "2026-07-01 17:54:30",
+      "tags": [
+        "其他"
+      ],
+      "text": "【中國駐克賴斯特徹奇總領館再次提醒旅新中國公民：請自駕遊客務必注意行車安全】7月1日上午，南島SH94公路距米爾福德峽灣30公里處附近發生一起交通事故，造成二名中國公民受傷。（環球網）"
+    },
+    {
+      "id": "mkt:019f1d19-2c2b-7aab-8c53-1e38f1df5ac4",
+      "time": "2026-07-01 17:53:36",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Emerging Markets"
+      ],
+      "text": "Pakistan's KSE-100 index rose 2%."
+    },
+    {
+      "id": "4964861",
+      "time": "2026-07-01 17:53:07",
+      "tags": [
+        "其他"
+      ],
+      "text": "巴基斯坦KSE-100指數上升2%，至183,684點。"
+    },
+    {
+      "id": "4964860",
+      "time": "2026-07-01 17:52:53",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【以軍前總參謀長宣佈參選 挑戰內塔尼亞胡】以色列正直黨領導人、前國防軍總參謀長加迪·埃森科特6月30日正式宣佈啟動議會競選活動。民調顯示，正直黨支援率直逼總理本雅明·內塔尼亞胡領導的利庫德集團。（新華社）"
+    },
     {
       "id": "4964859",
       "time": "2026-07-01 17:52:17",
@@ -109,6 +187,17 @@
         "公司"
       ],
       "text": "【宇新股份：股東倪毓蓓減持計劃期限屆滿 減持14.84萬股】宇新股份公告稱，公司股東倪毓蓓計劃於2026年4月1日至6月30日，透過集中競價交易減持不超374.7987萬股（不超剔除回購專用賬戶股份後總股本的1%）。截至6月30日，減持計劃期限屆滿，倪毓蓓累計減持14.84萬股，佔公司總股本的0.04%。減持後，倪毓蓓持股1348.585萬股，佔總股本3.55%。本次減持不會導致公司控制權變更，不影響公司治理結構及未來持續經營。"
+    },
+    {
+      "id": "4964850",
+      "time": "2026-07-01 17:47:38",
+      "tags": [
+        "資料",
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "【油價回落 歐元區通脹放緩幅度超預期】隨著中東和平程序取得進展，推動全球油價下跌，歐元區通脹降溫程度超過預期。歐盟統計局週三公佈的資料顯示，歐元區6月份消費者價格指數(CPI)同比上升2.8%，升幅低於前月的3.2%。這一增幅也低於彭博調查中經濟學家的預期中值3.0%。剔除食品和能源等波動較大專案的核心通脹降溫幅度也超過預期，而備受關注的服務業通脹率則降至3.2%。儘管通脹資料有所回落，貨幣市場仍認為歐洲央行最早到9月加息25個基點的機率超過50%，並且市場幾乎已完全消化了年底前加息的預期。德國國債跌幅有所收窄。10年期收益率上漲2個基點至2.88%，低於此前盤中觸及的2.90%高點。歐洲央行正在權衡，上個月實施的加息（自2023年以來的首次加息）是否足以遏制美伊戰爭所引發的通脹壓力。6月份通脹資料已經顯示，歐元區三大經濟體的消費者價格漲幅均低於預期，其中法國通脹率甚至大幅回落至歐洲央行2%的目標水平。不過，歐洲央行決策者敦促保持謹慎，他們警告稱，衝突爆發後油價和天然氣價格上漲所帶來的連鎖影響還需要一段時間才能充分顯現。歐洲央行首席經濟學家Philip Lane週二表示，歐洲央行必須觀察近幾個月能源成本上漲將如何逐步傳導至食品通脹和服務業通脹。"
     },
     {
       "id": "te:economy:563393",
@@ -287,6 +376,14 @@
         "國際"
       ],
       "text": "【伊朗訊息人士稱，伊朗堅持保留對霍爾木茲海峽的控制權】據兩名伊朗高層訊息人士透露，伊朗決心爭取國際社會承認其對霍爾木茲海峽的控制權，以及向進出海灣的船隻收取費用的權利，即便必須動用武力也在所不惜。根據本月與美國達成的旨在結束雙方三個月衝突的臨時協議，伊朗同意在60天內允許船隻免費透過該海峽。但伊朗認為，協議的措辭允許其繼續掌控哪些船只可以透過，以及這些船隻在這一狹窄水道內的航行路線。訊息人士稱，伊朗還決心在臨時協議期滿後，確保這種控制權獲得長期的正式認可；在這一問題達成共識之前，其談判代表不會在與華盛頓進行的和平談判中轉向其他爭議議題。"
+    },
+    {
+      "id": "4964829",
+      "time": "2026-07-01 17:39:55",
+      "tags": [
+        "公司"
+      ],
+      "text": "【京新藥業：獲得鹽酸卡立哌嗪膠囊藥品註冊證書】京新藥業公告，近日收到國家藥品監督管理局核准簽發的“鹽酸卡立哌嗪膠囊”的《藥品註冊證書》。鹽酸卡立哌嗪（Cariprazine hydrochloride）是一種非典型抗精神病藥物，屬於多巴胺D₂、D₃受體部分激動劑。它透過優先與多巴胺D₃受體結合，部分激動D₂和D₃受體，同時對5-HT₁A受體具有部分激動作用、對5-HT₂A受體具有拮抗作用，從而調節多巴胺與血清素系統平衡。此次獲批的鹽酸卡立哌嗪膠囊，用於治療成人精神分裂症，是該藥品國內首家上市。"
     },
     {
       "id": "4964828",
@@ -127979,117 +128076,6 @@
         "國際"
       ],
       "text": "【商務部部長助理張力會見沙特國際電力和水務公司董事長阿布納揚】6月23日，商務部部長助理張力在京會見沙特國際電力和水務公司董事長阿布納揚。雙方重點就加強承包工程、雙向投資合作進行交流。張力表示，近年來兩國全面戰略伙伴關係深入發展，中沙經貿合作取得豐碩成果。中方歡迎沙特國際電力和水務公司等沙方企業充分利用中國“十五五”時期的廣闊機遇，持續擴大對華投資。中方讚賞沙特國際電力和水務公司與中國企業間的良好夥伴關係，希望雙方繼續深化新能源、電力、海水淡化等領域合作。阿布納揚讚賞中國經濟取得的巨大成就和為全球發展作出的積極貢獻，表示沙特國際電力和水務公司將持續加強與中國企業合作，共同實施更多工程、雙向投資領域專案，促進雙邊經貿關係發展。（商務部）"
-    },
-    {
-      "id": "mkt:019ef90f-706d-7dd8-b0f4-95aee302428b",
-      "time": "2026-06-24 17:56:39",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【South Korea delays single-stock weekly options plan】South Korea has delayed a planned June 29 launch of single-stock weekly options that would have covered names including SK Hynix and Samsung Electronics. The move signals regulatory caution after recent market volatility. A Korea Exchange spokesperson said \"no decision has been made yet.\" Earlier, South Korea’s financial regulator voiced regret over last month’s introduction of single-stock leveraged ETFs and warned their negative side-effects have intensified."
-    },
-    {
-      "id": "4952443",
-      "time": "2026-06-24 17:56:27",
-      "tags": [
-        "市場"
-      ],
-      "text": "鈀金期貨日內跌2%，現報1219.00美元/盎司。"
-    },
-    {
-      "id": "4952442",
-      "time": "2026-06-24 17:55:39",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【園林股份：股票交易異常波動 不存在應披露未披露重大事項】園林股份公告稱，公司股票於2026年6月22日、6月23日、6月24日連續三個交易日內收盤價格跌幅偏離值累計超20%，屬異常波動。經自查並向控股股東、實控人核實，截至公告披露日，公司生產經營正常，不存在應披露而未披露的重大資訊，未發現對股價有重大影響的媒體報道或市場傳聞，相關人員在此期間無買賣公司股票情況。提醒投資者理性投資，注意風險。"
-    },
-    {
-      "id": "mkt:019ef90e-10a6-7dd8-b0f4-8e3d280335ab",
-      "time": "2026-06-24 17:55:08",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Netanyahu ends testimony in corruption trial; case moves to defense‑witness phase】On the 24th Israeli Prime Minister Benjamin Netanyahu completed his testimony at the Tel Aviv District Court, ending a roughly 18‑month testimony phase that comprised 98 hearings. Prosecutors had cross‑examined him on cases known as 1000, 2000 and 4000; Netanyahu denied all charges. The presiding judge said the trial will transfer back to the Jerusalem District Court and proceed to the defense‑witness stage; Netanyahu’s team plans to call 100 defense witnesses and other co‑defendants are expected to testify."
-    },
-    {
-      "id": "te:economy:561485",
-      "time": "2026-06-24 17:54:46",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "South Africa",
-        "Government Bond 10Y",
-        "Importance 0"
-      ],
-      "text": "South Africa 10-Year Bond Yield at Near 2-Week High — South Africa’s 10-year government bond yield was around 8.51%, a near two-week high, supported by expectations of policy tightening. SARB Governor Lesetja Kganyago signalled that additional interest rate hikes may be on the horizon, as the global energy shock linked to the Middle East conflict shows signs of spreading across the broader economy. Core inflation, which excludes food and fuel, rose to 3.8% in May from 3.6%, while headline inflation accelerated to 4.5% from 4%. While the signing of the interim US-Iran agreement helped ease energy-driven inflation concerns, uncertainty persisted, with risks extending beyond fuel to food prices due to higher fertiliser costs. Kganyago noted that fertiliser price effects would be more visible in the second half of the year during the planting season, as they feed directly into food prices and may have a longer-lasting impact. Against this backdrop, traders are pricing in a higher chance of a 25bps rate hike in July."
-    },
-    {
-      "id": "4952441",
-      "time": "2026-06-24 17:54:40",
-      "tags": [
-        "公司"
-      ],
-      "text": "【古鰲科技：擬對控股子公司昊元古減資3.71億元】古鰲科技公告稱，2026年6月24日公司召開董事會，審議透過對控股子公司昊元古減資的議案。鑑於昊元古出售新存科技股權事項完成且收到全部轉讓款4.19億元，公司根據經營及戰略需求，同意昊元古註冊資本從3.98億元減至2688萬元，減資3.71億元。本次減資尚需股東會審議，減資後昊元古仍為控股子公司，出資比例不變，不影響公司財務和經營狀況。"
-    },
-    {
-      "id": "4952440",
-      "time": "2026-06-24 17:54:15",
-      "tags": [
-        "公司",
-        "市場",
-        "焦點"
-      ],
-      "text": "中央國債登記結算有限責任公司關於釋出民營企業再貸款業務操作指引的通知。"
-    },
-    {
-      "id": "mkt:019ef90d-3267-7dd8-b0f4-842b5625cdf8",
-      "time": "2026-06-24 17:54:12",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "China Central Depository & Clearing Co., Ltd. issued a notice releasing operational guidelines for re-lending operations to private enterprises."
-    },
-    {
-      "id": "4952439",
-      "time": "2026-06-24 17:53:38",
-      "tags": [
-        "公司"
-      ],
-      "text": "【商務部新聞發言人就進一步完善戰略礦產兩用物項出口管制違法違規行為舉報處理工作答記者問】有記者問：我們注意到商務部發布公告，進一步完善戰略礦產兩用物項出口管制違法違規行為舉報處理工作，請問有什麼考慮？ 答：《中華人民共和國出口管制法》第三十一條規定，對涉嫌違法違規行為，任何組織和個人有權向國家出口管制管理部門舉報。進一步做好戰略礦產兩用物項舉報處理工作，提升執法能力，是完善出口管制體系的基本要求，也是維護國家安全和利益的正常舉措。同時，發揮舉報對出口管制違法違規行為的監督作用是國際通行做法，世界許多國家都有相關規定，借鑑各國經驗完善我國戰略礦產兩用物項出口管制舉報制度，可以有效避免相關物項被用於非法用途，更好維護世界和平，展現中國作為負責任大國擔當。此前，我們已就舉報處理工作開展了相關實踐，有必要進一步明確舉報方式和內容等，更好進行線索處置。後續，相關部門將依法依規開展舉報處理工作，保障合規貿易企業的合法權益。（商務部）"
-    },
-    {
-      "id": "mkt:019ef90c-6954-7dd8-b0f4-7a9c77eb7c9a",
-      "time": "2026-06-24 17:53:20",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "Chip Wars",
-        "005930.KS",
-        "000660.KS"
-      ],
-      "text": "South Korea has postponed a plan to launch weekly single-stock options on SK Hynix and Samsung Electronics that had been scheduled for June 29, people familiar with the matter said."
-    },
-    {
-      "id": "4952438",
-      "time": "2026-06-24 17:53:14",
-      "tags": [
-        "其他"
-      ],
-      "text": "大華銀行將於 7 月 1 日成立科技委員會，統籌數字化戰略。"
-    },
-    {
-      "id": "te:markets:561484",
-      "time": "2026-06-24 17:52:57",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Heating Oil Falls to 3-1/2-Month Low as Supply Fears Ease — US heating oil prices fell below $3.20 a gallon, marking their lowest level since early March and a decline of more than 30% from the record high of $4.608 reached on March 20. This downward trend mirrors a sharp retreat in crude prices, driven by increased tanker traffic through the Strait of Hormuz, temporary relief from Iranian sanctions, and the progress of US-Iran peace talks. To contain energy costs, the White House waived the Jones Act and tapped the Strategic Petroleum Reserve. However, the market remains tight because the US operates as a global supplier of last resort, pushing domestic diesel inventories to seasonal lows. Prices are still above the pre-war level of $2.596, and prospective Russian export bans could spark renewed upward pressure. Meanwhile, President Donald Trump ordered a Department of Justice investigation into gasoline prices, which he claims are not falling quickly enough."
     }
   ]
 }
