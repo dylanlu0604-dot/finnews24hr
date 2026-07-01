@@ -1,7 +1,232 @@
 {
-  "updated": "2026-07-01 20:34:10",
-  "count": 13964,
+  "updated": "2026-07-01 20:38:06",
+  "count": 13981,
   "items": [
+    {
+      "id": "4965296",
+      "time": "2026-07-01 20:37:14",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：我們正在美國建設很多汽車工廠和人工智慧基地。"
+    },
+    {
+      "id": "mkt:019f1dae-f592-7aab-8c58-60e42df29223",
+      "time": "2026-07-01 20:37:13",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【BYD Energy Storage to build Poland's largest battery project — 600MW/2.4GWh】BYD Energy Storage signed an agreement with Greenvolt Power to develop the Siedlce battery storage project in Poland totaling 600MW/2.4GWh, which would be the country's largest. The partners have already delivered 1.6GWh across two local projects. Construction is scheduled to begin in Q3 2026, with commercial operation expected before end-2027."
+    },
+    {
+      "id": "4965295",
+      "time": "2026-07-01 20:37:11",
+      "tags": [
+        "國際"
+      ],
+      "text": "【霍爾木茲海峽一艘集裝箱船擱淺】據伊朗伊斯蘭共和國廣播電視臺7月1日報道，一艘集裝箱船近日未按伊方指定航線航行，在霍爾木茲海峽擱淺。 報道稱，該船選擇其他航線通行，因相關海域水深較淺而擱淺，無法繼續航行。報道未公佈該船的名稱、船籍、具體位置以及人員和貨物受損情況。 報道還稱，伊朗已將船隻進出霍爾木茲海峽的指定路線限定為拉臘克島以南航線。船隻如與伊朗伊斯蘭革命衛隊海軍協調並獲得通行時間安排，伊方將從其進入波斯灣至駛出波斯灣期間提供安全保障。船隻如選擇指定航線以外路線進出波斯灣，可能“導致不可挽回的事件發生”。(新華社)"
+    },
+    {
+      "id": "mkt:019f1dae-b61c-7aab-8c58-5a75a4eb9f1f",
+      "time": "2026-07-01 20:36:56",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "US President Trump said the stock market is rising and everyone is profiting, and that he is profiting as well."
+    },
+    {
+      "id": "mkt:019f1dae-9d52-7aab-8c58-513c40610326",
+      "time": "2026-07-01 20:36:50",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "Trump, on financial disclosure: My funds are managed by a fund; do not speak with the people who manage my funds."
+    },
+    {
+      "id": "4965294",
+      "time": "2026-07-01 20:36:28",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：伊朗已經取得了長足的進步。"
+    },
+    {
+      "id": "4965293",
+      "time": "2026-07-01 20:36:24",
+      "tags": [
+        "國際"
+      ],
+      "text": "【比亞迪儲能簽約波蘭規模最大儲能專案】近日，比亞迪儲能與Greenvolt Power簽署合作協議，共同在波蘭開發Siedlce儲能專案。該專案總容量達600MW/2.4GWh，建成後將成為波蘭規模最大的電池儲能專案。此前，雙方在當地的兩個專案累計合作容量已達1.6GWh。Siedlce專案計劃於2026年第三季度開工建設，預計在2027年底前投入商業運營。"
+    },
+    {
+      "id": "mkt:019f1dae-02a0-7aab-8c58-4b833a47ec29",
+      "time": "2026-07-01 20:36:10",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Emerging Markets",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "【Iran's Pezeshkian says partial financial restrictions eased as talks continue】Iranian president Pezeshkian told Fars News that some financial and foreign-exchange restrictions on Iran have been relaxed. He said sustained oil exports, the partial easing of financial and FX controls, and new economic cooperation opportunities are outcomes of recent agreements reached during ongoing negotiations."
+    },
+    {
+      "id": "4965292",
+      "time": "2026-07-01 20:36:09",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "特朗普：股市上漲，所以我獲利了。我也從中獲利了。"
+    },
+    {
+      "id": "4965291",
+      "time": "2026-07-01 20:36:00",
+      "tags": [
+        "其他"
+      ],
+      "text": "Meta漲超5%。"
+    },
+    {
+      "id": "mkt:019f1dad-d802-7aab-8c58-43571ad33214",
+      "time": "2026-07-01 20:35:59",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "US President Trump praised the stock market."
+    },
+    {
+      "id": "mkt:019f1dad-7fa6-7aab-8c58-39b0e8fbbc50",
+      "time": "2026-07-01 20:35:37",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Star Stocks",
+        "Meta Platforms",
+        "Market Themes",
+        "Magnificent 7",
+        "META.O",
+        "Impact bullish"
+      ],
+      "text": "Meta Platforms (META.O) rose sharply in pre-market trade, up more than 5% after reports the company is selling surplus AI compute capacity."
+    },
+    {
+      "id": "4965290",
+      "time": "2026-07-01 20:35:33",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：我不與管理我資產的人員溝通。"
+    },
+    {
+      "id": "4965289",
+      "time": "2026-07-01 20:35:19",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普談及財務申報檔案：由信託基金管理我的資產。"
+    },
+    {
+      "id": "mkt:019f1dac-b5e1-7aab-8c58-31dcf2ebe464",
+      "time": "2026-07-01 20:34:45",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent",
+        "S&P500",
+        "Impact bullish"
+      ],
+      "text": "【Maritime transit, Lebanon ceasefire are key issues in US-Iran talks】A source familiar with the Doha talks said maritime transit and a Lebanon ceasefire are central to US-Iran negotiations. Qatar and Pakistan mediators are providing technical support to draft preliminary agreements for approval by both sides' decision-makers. Iran insists five key MOU terms must be implemented before it will negotiate other issues. The interim package reportedly includes commitments to end Israel’s campaign in Lebanon, enable return of displaced persons and restore Lebanese sovereignty; Iran says Israeli strikes and attempts to seize strategic sites in southern Lebanon are undermining the deal. Tehran is seeking release of its frozen assets and says funds must be transferred to Iran’s central bank for international purchases. On maritime issues Iran pledges safe passage through the Strait of Hormuz while reiterating that the waterway remains under Iranian and Omani sovereignty. Tehran also reaffirmed continued adherence to the NPT and cooperation with the IAEA."
+    },
+    {
+      "id": "4965288",
+      "time": "2026-07-01 20:34:44",
+      "tags": [
+        "國際"
+      ],
+      "text": "根據資料及路透社計算，俄羅斯6月海運柴油和瓦斯油出口環比下降39%。"
+    },
+    {
+      "id": "mkt:019f1dac-929c-7aab-8c58-2a71e24ec155",
+      "time": "2026-07-01 20:34:36",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish",
+        "SSE Composite"
+      ],
+      "text": "【Beijing's 'Specialized, Refined, Distinctive and Innovative' board hits 1,519 firms; equity financing tops 70 billion yuan】As of June 30, Beijing's 'Specialized, Refined, Distinctive and Innovative' board counted 1,519 firms, surpassing the plan's phase target of 1,500. Cumulative equity financing for these board companies has exceeded 70 billion yuan, with Beijing leading the country in enterprise financing scale and policy support. The cohort comprises 418 innovation-oriented SMEs, 727 specialized-and-new SMEs and 218 'Little Giant' firms. Roughly 90% of firms are clustered in frontier sectors: new-generation IT, software and IT services, artificial intelligence, biopharma, smart manufacturing, new energy and advanced materials."
+    },
+    {
+      "id": "4965287",
+      "time": "2026-07-01 20:34:30",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普稱讚股市。"
+    },
+    {
+      "id": "mkt:019f1dac-5e95-7aab-8c58-231ecf7d8b54",
+      "time": "2026-07-01 20:34:23",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Star Stocks",
+        "Meta Platforms",
+        "Market Themes",
+        "AI Revolution",
+        "Magnificent 7",
+        "META.O",
+        "Impact bullish"
+      ],
+      "text": "Market sources say Meta Platforms (META.O) is building a cloud business to sell surplus AI compute capacity."
+    },
+    {
+      "id": "4965286",
+      "time": "2026-07-01 20:34:11",
+      "tags": [
+        "其他"
+      ],
+      "text": "Meta正在佈局雲業務，對外出售閒置AI算力資源。"
+    },
+    {
+      "id": "mkt:019f1dac-1e9d-7aab-8c58-1cd6e61c7842",
+      "time": "2026-07-01 20:34:06",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "US President Trump said he is getting along very well with Iran."
+    },
+    {
+      "id": "4965285",
+      "time": "2026-07-01 20:34:04",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普讚揚卡達贈送新空軍一號。"
+    },
+    {
+      "id": "4965283",
+      "time": "2026-07-01 20:33:43",
+      "tags": [
+        "國際"
+      ],
+      "text": "資料顯示，6月份俄羅斯波羅的海Primorsk港柴油出貨量較5月下降53%。"
+    },
     {
       "id": "mkt:019f1dab-bf9c-7aab-8c58-1429557ef0d5",
       "time": "2026-07-01 20:33:42",
@@ -18,6 +243,14 @@
         "Important"
       ],
       "text": "US President Trump said talks with Iran are progressing smoothly and that Iran's denuclearization is proceeding well."
+    },
+    {
+      "id": "4965282",
+      "time": "2026-07-01 20:33:38",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普談伊朗：目前雙方關係相處得非常好。"
     },
     {
       "id": "4965281",
@@ -128537,71 +128770,6 @@
         "市場"
       ],
       "text": "【高通確認將收購AI初創公司Modular】6月24日，高通發表宣告稱，已達成協議收購AI初創公司Modular，該交易預計將於2026年下半年完成。據報道，作為交易的一部分，高通預計將向Modular的股東發行最多1920萬股本公司普通股。以高通上次收盤股價為基準計算，該交易價值約為39.2億美元。"
-    },
-    {
-      "id": "4952816",
-      "time": "2026-06-24 20:37:36",
-      "tags": [
-        "公司"
-      ],
-      "text": "【全新理想L8釋出：全系標配72.7度5C增程專用超充電池，售價36.98萬元-42.98萬元】理想汽車正式釋出五座旗艦SUV——全新理想L8。新車提供Ultra版和Livis版兩個版本，Ultra版全國統一零售價36.98萬元，Livis版全國統一零售價42.98萬元。理想汽車董事長兼CEO李想表示：“過去四年，我們自研800V主動懸架、全線控底盤、馬赫M100晶片、5C增程系統，今年這四項自研技術全部上車。這不只是為了提車那一天的快樂，更是為了三年、五年之後，當別人的車開始過時，我們的車還在進化。這就是底層全棧自研給使用者帶來的真正不可替代的價值。”（新浪科技）"
-    },
-    {
-      "id": "4952815",
-      "time": "2026-06-24 20:37:23",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "智利央行董事會會議紀要顯示，宏觀經濟不確定性仍持續存在；通脹前景未出現值得關注的變化，兩年期通脹預期仍維持在3%的目標附近。"
-    },
-    {
-      "id": "te:economy:561529",
-      "time": "2026-06-24 20:37:17",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "France",
-        "Government Bond 10Y",
-        "Importance 1"
-      ],
-      "text": "France 10Y Bond Yield Hits 11-week Low — France 10 Year Government Bond Yield decreased to 3.53%, the lowest since April 2026. Over the past 4 weeks, France 10Y Bond Yield lost 3.18 basis points, and in the last 12 months, it increased 28.05 basis points."
-    },
-    {
-      "id": "4952814",
-      "time": "2026-06-24 20:36:56",
-      "tags": [
-        "其他"
-      ],
-      "text": "【2026大眾點評“必吃榜”揭曉 全球264城4279家餐廳上榜】6月24日，大眾點評“必吃榜” 在上海揭曉十週年成績單。截至目前，全球共264座城市及地區4279家餐廳上榜，上海、北京、成都、重慶、深圳、廣州、西安、武漢、蘇州、南京為上榜餐廳數TOP10城市。"
-    },
-    {
-      "id": "te:economy:561527",
-      "time": "2026-06-24 20:35:19",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "United States",
-        "Building Permits",
-        "Importance 1"
-      ],
-      "text": "US Building Permits Revised Lower — US building permits decreased 0.9% month-over-month to a seasonally adjusted annual rate of 1.410 million in June 2026, below the preliminary estimates of 1.413 million, final figures showed. Permits for buildings with five or more units fell 4.7% to 468,000, while single-family permits increased 1.2% to 892,000. Regionally, permits dropped in the Midwest (-18.9% to 193,000), but rose in the Northeast (2.3% to 133,000), the South (1.9% to 762,000) and in the West (4.9% to 322,000)."
-    },
-    {
-      "id": "4952813",
-      "time": "2026-06-24 20:34:52",
-      "tags": [
-        "公司"
-      ],
-      "text": "據港交所檔案：極豪科技（天津）股份有限公司向港交所提交上市申請書。"
-    },
-    {
-      "id": "4952812",
-      "time": "2026-06-24 20:34:44",
-      "tags": [
-        "兩會"
-      ],
-      "text": "【赤道幾內亞總統任命新政府成員】赤道幾內亞總統奧比昂23日簽署總統令，任命副總理及其他政府成員。 據赤道幾內亞政府官網釋出的訊息，此次共任命58名政府成員，包括1名副總理、10名國務部長以及多名部長、部長級代表和副部長。其中，坎迪多·馬圖阿特馬·巴希塔被任命為主管公共服務、行政改革與社會保障的副總理。多數部長獲得留任，如尼古拉斯·奧巴馬·恩查馬留任國家安全國務部長，西蒙·奧約諾·埃索諾·安格留任外交、國際合作與僑民事務國務部長。 本月16日，赤道幾內亞總理曼努埃爾·奧薩·恩蘇埃·恩蘇阿向總統提交內閣成員集體辭呈。副總統曼格同日在社交媒體上發文說，經評估，上屆政府既定目標完成率與預期嚴重不符。赤道幾內亞需要一個更具活力、更高效、更貼近民眾需求的行政機構。總統奧比昂於19日簽署法令，重新任命恩蘇埃為政府總理，負責行政協調。(新華社)"
     }
   ]
 }
