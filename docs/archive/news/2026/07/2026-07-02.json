@@ -1,7 +1,31 @@
 {
   "date": "2026-07-02",
-  "count": 238,
+  "count": 241,
   "items": [
+    {
+      "id": "mkt:019f1f3e-8e4f-7aab-8c65-e5e0437eb980",
+      "time": "2026-07-02 03:53:41",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. President TRUMP said July 4 could see highs around 107°F but he will still deliver a very long speech to demonstrate he can do anything."
+    },
+    {
+      "id": "mkt:019f1f3c-e345-7aab-8c65-daf8a6a0b3e7",
+      "time": "2026-07-02 03:51:51",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. judge blocks USPS from implementing restrictions on mail-in ballots."
+    },
+    {
+      "id": "4965892",
+      "time": "2026-07-02 03:50:26",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：7月4日當天室外氣溫大概會達到107華氏度（約41.7度）。但我還是會到場，發表一篇很長的演講，就是要證明我什麼都扛得住。"
+    },
     {
       "id": "4965891",
       "time": "2026-07-02 03:49:42",
