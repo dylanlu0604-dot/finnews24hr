@@ -1,7 +1,23 @@
 {
   "date": "2026-07-02",
-  "count": 129,
+  "count": 131,
   "items": [
+    {
+      "id": "4965829",
+      "time": "2026-07-02 01:35:07",
+      "tags": [
+        "公司"
+      ],
+      "text": "市場訊息： 司法部相關訴訟落幕，Yelp 在針對谷歌的反壟斷案中勝訴， 聯邦法院裁定谷歌網際網路搜尋構成壟斷。"
+    },
+    {
+      "id": "mkt:019f1ebe-31d7-7aab-8c64-860a90ab1e00",
+      "time": "2026-07-02 01:33:28",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Brazil's central bank data show net outflows of $1.027 bln last week. For the month to June 26, net inflows totaled $7.168 bln."
+    },
     {
       "id": "4965828",
       "time": "2026-07-02 01:31:35",

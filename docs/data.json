@@ -1,7 +1,23 @@
 {
-  "updated": "2026-07-02 01:33:40",
-  "count": 14193,
+  "updated": "2026-07-02 01:37:38",
+  "count": 14187,
   "items": [
+    {
+      "id": "4965829",
+      "time": "2026-07-02 01:35:07",
+      "tags": [
+        "公司"
+      ],
+      "text": "市場訊息： 司法部相關訴訟落幕，Yelp 在針對谷歌的反壟斷案中勝訴， 聯邦法院裁定谷歌網際網路搜尋構成壟斷。"
+    },
+    {
+      "id": "mkt:019f1ebe-31d7-7aab-8c64-860a90ab1e00",
+      "time": "2026-07-02 01:33:28",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Brazil's central bank data show net outflows of $1.027 bln last week. For the month to June 26, net inflows totaled $7.168 bln."
+    },
     {
       "id": "4965828",
       "time": "2026-07-02 01:31:35",
@@ -130777,81 +130793,6 @@
         "焦點"
       ],
       "text": "紐約期銀失守58美元/盎司，日內跌7.22%。"
-    },
-    {
-      "id": "mkt:019efab5-291f-7dd8-b101-8fc586da8085",
-      "time": "2026-06-25 01:37:16",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Trump administration officials told key House Republican leaders they expect to submit a supplemental funding request to Congress for Iran war-related costs before the end of this week."
-    },
-    {
-      "id": "4953276",
-      "time": "2026-06-25 01:36:11",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "加拿大央行會議紀要：在加拿大銀行6月10日利率決定之前，理事會成員一致認為貨幣政策需要保持靈活。"
-    },
-    {
-      "id": "4953275",
-      "time": "2026-06-25 01:36:06",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "加拿大央行會議紀要：成員們指出，美墨加協定談判取得有利結果可能恢復一些確定性，並潛在地提振投資。"
-    },
-    {
-      "id": "mkt:019efab3-ca8f-7dd8-b101-83c1b62b783b",
-      "time": "2026-06-25 01:35:47",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact mixed",
-        "Brent"
-      ],
-      "text": "【BOC minutes: weak economy, limited oil pass‑through cited as rationale for 2.25% hold】Bank of Canada minutes released Wednesday said policymakers left the policy rate at 2.25% on June 10 — the fifth straight pause — citing a weak economy and little evidence that recent oil-price increases have passed through to other goods and services. Six senior decision-makers led by Governor Macklem agreed the hold balanced upside inflation pressure against economic weakness; the minutes noted Canada has unexpectedly recorded two consecutive quarters of contraction. The minutes said: In responding to rising inflation, the Governing Council neither wants to overreact nor underreact."
-    },
-    {
-      "id": "4953274",
-      "time": "2026-06-25 01:34:41",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "美國7年期國債收益率日內下跌10個基點至4.27%。"
-    },
-    {
-      "id": "4953273",
-      "time": "2026-06-25 01:34:28",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "加拿大央行：利率走勢高度取決於能源價格走向。"
-    },
-    {
-      "id": "4953272",
-      "time": "2026-06-25 01:34:15",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "加拿大央行：若央行加息對抗通脹，而油價隨後快速回落，待到加息政策對實體經濟產生影響時，緊縮舉措已然多餘。"
-    },
-    {
-      "id": "4953271",
-      "time": "2026-06-25 01:34:00",
-      "tags": [
-        "央行",
-        "宏觀"
-      ],
-      "text": "加拿大央行：如果高油價長期持續並擴散至全產業鏈，而央行長期按兵不動，後續出臺的貨幣政策收緊力度，將遠大於提前行動所需的幅度。"
     }
   ]
 }
