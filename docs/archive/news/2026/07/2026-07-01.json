@@ -1,7 +1,79 @@
 {
   "date": "2026-07-01",
-  "count": 1390,
+  "count": 1397,
   "items": [
+    {
+      "id": "4964296",
+      "time": "2026-07-01 13:57:19",
+      "tags": [
+        "公司"
+      ],
+      "text": "【浙江通服與阿里雲達成戰略合作】近日，浙江省通訊服務控股集團有限公司與阿里雲簽署AI戰略合作協議，雙方將圍繞大模型Token運營、智算中心建設、算電協同、行業應用、海外市場拓展等方向開展合作。"
+    },
+    {
+      "id": "4964295",
+      "time": "2026-07-01 13:56:14",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "富時中國A50指數期貨跌幅擴大至2%。"
+    },
+    {
+      "id": "mkt:019f1c3f-8b11-7aab-8c4c-92b0562703c4",
+      "time": "2026-07-01 13:55:54",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bearish"
+      ],
+      "text": "FTSE China A50 futures extended afternoon losses to 2%."
+    },
+    {
+      "id": "4964294",
+      "time": "2026-07-01 13:55:35",
+      "tags": [
+        "市場"
+      ],
+      "text": "零跑汽車釋出6月全球交付資料，全球交付93376臺，同比增長95%，再創品牌單月交付新高，持續領跑新勢力。\n\n旗下產品矩陣全線走強，旗艦MPV D99於6月25日正式提檔上市；煥新C系列單月全球銷量破3萬臺，A10 單月交付再超2萬臺，D19累計交付近2萬臺，全新 B 系列將於7月全面煥新上市\n\n零跑全域自研築牢增長根基，品牌下半年多項前沿創新技術即將釋出；7月全系暑促同步開啟，下定D99至高享61279元綜合權益與終身質保，以高價值產品夯實“好而不貴”標籤，加速全球化與品牌向上程序。"
+    },
+    {
+      "id": "4964293",
+      "time": "2026-07-01 13:54:59",
+      "tags": [
+        "市場"
+      ],
+      "text": "滬指午後轉跌，早盤一度漲逾1%，深證成指跌幅擴大至1%。"
+    },
+    {
+      "id": "mkt:019f1c3e-afdc-7aab-8c4c-8a45cec37a1d",
+      "time": "2026-07-01 13:54:57",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "SSE Composite",
+        "Impact bearish",
+        "SZSE Component"
+      ],
+      "text": "Shanghai Composite turned negative in afternoon trading after rising over 1% in the morning; Shenzhen Composite Index's losses widened to about 1%."
+    },
+    {
+      "id": "mkt:019f1c3e-3748-7aab-8c4c-81d840c5a4e0",
+      "time": "2026-07-01 13:54:27",
+      "tags": [
+        "MKT News",
+        "Important",
+        "S&P500",
+        "Impact bearish",
+        "Nasdaq100"
+      ],
+      "text": "【Distributors confirm Yageo broad capacitor price hikes】Several distributors confirmed Yageo has notified clients of immediate price increases across its full capacitor range — including tantalum, MLCC, aluminum electrolytic, solid aluminum, film capacitors and supercapacitors — covering roughly 50% of Yageo’s revenue and, for the first time, extending price adjustments to direct customers (EMS/OEM), signalling concurrent spot and contract price moves. Distributor sources said factory list prices rose about 50%, with spot-market increases larger; one source reported high-end capacitor prices have surged up to tenfold within a month. Distributors also reported frequent delivery delays since May across MLCC brands, not limited to Yageo."
+    },
     {
       "id": "mkt:019f1c3c-645d-7aab-8c4c-7b1a02ea647c",
       "time": "2026-07-01 13:52:27",
