@@ -1,7 +1,276 @@
 {
-  "updated": "2026-07-01 09:30:14",
+  "updated": "2026-07-01 09:34:15",
   "count": 13967,
   "items": [
+    {
+      "id": "4963953",
+      "time": "2026-07-01 09:33:21",
+      "tags": [
+        "其他"
+      ],
+      "text": "【工業網際網路概念表現活躍 東土科技漲超10%】工業網際網路概念表現活躍，東土科技漲超10%，寶信軟體、中控技術、東方國信、用友網路跟漲。"
+    },
+    {
+      "id": "4963952",
+      "time": "2026-07-01 09:33:12",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【林業概念盤初走強，康欣新材漲停】林業概念盤初走強，康欣新材漲停，平潭發展、福建金森、永安林業、青山紙業、豐林集團等跟漲。"
+    },
+    {
+      "id": "4963951",
+      "time": "2026-07-01 09:33:00",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【A股通訊板塊異動拉昇】日海智慧觸及漲停，銳捷網路、東土科技、星網銳捷、聯特科技、神宇股份、銘普光磁跟漲。"
+    },
+    {
+      "id": "4963950",
+      "time": "2026-07-01 09:33:00",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【A股電子後視鏡板塊異動拉昇】水晶光電觸及漲停，四會富仕、兆威機電、豪恩汽電、奧尼電子、海康威視、中科創達跟漲。"
+    },
+    {
+      "id": "4963949",
+      "time": "2026-07-01 09:33:00",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【A股昨日首闆闆塊異動拉昇】新迅達、水晶光電、中礦資源、埃斯頓、ST同德、ST如意、ST京藍觸及漲停"
+    },
+    {
+      "id": "4963948",
+      "time": "2026-07-01 09:33:00",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【A股AI眼鏡板塊異動拉昇】波長光電漲8.49%，智立方、長盈精密、兆威機電、斯迪克、中興通訊、中富通跟漲。"
+    },
+    {
+      "id": "4963947",
+      "time": "2026-07-01 09:32:52",
+      "tags": [
+        "市場"
+      ],
+      "text": "【MLCC概念震盪反彈 振華科技漲停】早盤MLCC概念震盪反彈，振華科技漲停，斯迪克、達利凱普、宏達電子、潔美科技、風華高科跟漲。"
+    },
+    {
+      "id": "mkt:019f1b4e-97c4-7aab-8c48-0489b738169d",
+      "time": "2026-07-01 09:32:43",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "China A-share fluorochemical sector jumped in early trade; Sanmei Co. hit the daily limit. Haohua Technology, Lianchuang, Jinshi Resources, Yonghe and Weihua New Materials also advanced."
+    },
+    {
+      "id": "mkt:019f1b4e-34b8-7aab-8c47-f82699344744",
+      "time": "2026-07-01 09:32:17",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【China government bond futures open】China government bond futures opened lower in the morning session: 2-year (TS) main contract -0.01%, 5-year (TF) main contract -0.04%, 10-year (T) main contract -0.07%, 30-year (TL) main contract -0.25%."
+    },
+    {
+      "id": "mkt:019f1b4e-248c-7aab-8c47-f063435c2eba",
+      "time": "2026-07-01 09:32:13",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish",
+        "CSI500",
+        "CSI1000"
+      ],
+      "text": "【Index futures open】CSI 300 index futures (IF) front contract +0.35%; SSE 50 index futures (IH) +0.22%; CSI 500 index futures (IC) +0.53%; CSI 1000 index futures (IM) +0.45%."
+    },
+    {
+      "id": "4963946",
+      "time": "2026-07-01 09:31:55",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "氟化工板塊走高，三美股份漲停，昊華科技、聯創股份、金石資源、永和股份、巍華新材等跟漲。"
+    },
+    {
+      "id": "4963945",
+      "time": "2026-07-01 09:31:34",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "北證50日內跌幅達1.26%，成分股中，戈碧迦跌6.02%，諾思蘭德跌5.55%，天力複合跌3.41%，民士達跌2.90%。"
+    },
+    {
+      "id": "mkt:019f1b4d-4c71-7aab-8c47-e80d25123aed",
+      "time": "2026-07-01 09:31:18",
+      "tags": [
+        "MKT News",
+        "AUDUSD",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "Australia May seasonally adjusted building approvals YoY 5.3%, prior 10.2%."
+    },
+    {
+      "id": "4963944",
+      "time": "2026-07-01 09:31:16",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "菲律賓股市開盤上漲0.7%，至6081點。"
+    },
+    {
+      "id": "mkt:019f1b4d-27e7-7aab-8c47-e28edf90a036",
+      "time": "2026-07-01 09:31:09",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "Australia May seasonally adjusted private-sector building approvals YoY 13.2%, prior 7.0%."
+    },
+    {
+      "id": "mkt:019f1b4d-26c4-7aab-8c47-d9951594c914",
+      "time": "2026-07-01 09:31:08",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Australia | Building Approvals SA (YoY) (May) | actual 5.3% | previous 10.2%"
+    },
+    {
+      "id": "mkt:019f1b4d-048a-7aab-8c47-d1cba98602de",
+      "time": "2026-07-01 09:30:59",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Australia | Private Sector Building Approvals SA (YoY) (May) | actual 13.2% | previous 7%"
+    },
+    {
+      "id": "4963943",
+      "time": "2026-07-01 09:30:18",
+      "tags": [
+        "資料"
+      ],
+      "text": "澳大利亞5月季調私營營建許可月率 2.8%，前值-1%。"
+    },
+    {
+      "id": "4963942",
+      "time": "2026-07-01 09:30:08",
+      "tags": [
+        "其他"
+      ],
+      "text": "澳大利亞5月季調後營建許可環比 -1.1%，預期 0%，前值 -3.4%。"
+    },
+    {
+      "id": "mkt:019f1b4c-3864-7aab-8c47-cd269b919ea5",
+      "time": "2026-07-01 09:30:07",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish",
+        "XAUUSD",
+        "Impact bearish",
+        "Copper"
+      ],
+      "text": "Australia May seasonally adjusted building approvals MoM -1.1% vs. 2.0% expected; prior -3.4%."
+    },
+    {
+      "id": "mkt:019f1b4c-3647-7aab-8c47-c1a4fe475ad6",
+      "time": "2026-07-01 09:30:07",
+      "tags": [
+        "MKT News",
+        "AUDUSD",
+        "Impact bullish"
+      ],
+      "text": "Australia May seasonally adjusted private‑sector building approvals MoM +2.8%, prior -1.0%."
+    },
+    {
+      "id": "4963941",
+      "time": "2026-07-01 09:30:04",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "南向資金淨買入額達50億港元。"
+    },
+    {
+      "id": "4963940",
+      "time": "2026-07-01 09:30:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "【股指期貨早盤開盤】 中證1000指數期貨連續漲0.22%， 滬深300指數期貨連續漲0.07%， 中證500指數期貨連續漲0.22%， 上證50指數期貨連續漲0.07%。"
+    },
+    {
+      "id": "4963939",
+      "time": "2026-07-01 09:30:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "【國債期貨開盤】 30年期主力合約跌0.24%， 10年期主力合約跌0.05%， 5年期主力合約跌0.03%， 2年期主力合約跌0.01%。"
+    },
+    {
+      "id": "mkt:019f1b4c-1e11-7aab-8c47-be83fd3176e8",
+      "time": "2026-07-01 09:30:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Australia | Building Approvals SA (MoM) (May) | actual -1.1% | consensus 2% | previous -3.40%"
+    },
+    {
+      "id": "mkt:019f1b4c-1dcf-7aab-8c47-b37d1d33281b",
+      "time": "2026-07-01 09:30:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Australia | Private Sector Building Approvals SA (MoM) (May) | actual 2.8% | previous -1%"
+    },
+    {
+      "id": "4963938",
+      "time": "2026-07-01 09:29:55",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【快遞概念集體高開 圓通速遞一字漲停】快遞概念集體高開，圓通速遞一字漲停，韻達股份、申通快遞逼近漲停，順豐控股高開3%。"
+    },
+    {
+      "id": "mkt:019f1b4b-caa7-7aab-8c47-ac1ec4c114aa",
+      "time": "2026-07-01 09:29:39",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "600233.SS",
+        "Impact bullish"
+      ],
+      "text": "YTO Express expects 1H 2026 net profit to increase 69.34%–85.73% YoY; A-share trade hit the daily price limit in the opening auction."
+    },
     {
       "id": "mkt:019f1b4b-7bed-7aab-8c47-a010f7285db3",
       "time": "2026-07-01 09:29:19",
@@ -128085,280 +128354,6 @@
         "AI Revolution"
       ],
       "text": "China A-share brain–computer interface sector rallied after choppy trading: Aipeng Medical up over 15%; Hainan Haiyao and Chuangxin Medical each hit daily limit; Sanbo Neurology rose over 8%; Nanjing Panda up over 7%; Xiangyu Medical also advanced."
-    },
-    {
-      "id": "4951464",
-      "time": "2026-06-24 09:34:05",
-      "tags": [
-        "市場"
-      ],
-      "text": "【光纖概念股再度活躍，通鼎互聯盤中創新高】光纖概念股再度活躍，通鼎互聯盤中創新高，泰和新材漲停，光庫科技、長芯博創、長飛光纖跟漲。"
-    },
-    {
-      "id": "4951463",
-      "time": "2026-06-24 09:33:53",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【創新藥概念延續強勢 海欣股份4連板】早盤創新藥概念延續強勢，海欣股份4連板，海南海藥走出2連板，迦南科技漲超10%，景峰醫藥、新華製藥、樂普醫療等漲幅靠前。"
-    },
-    {
-      "id": "4951462",
-      "time": "2026-06-24 09:33:12",
-      "tags": [
-        "國際"
-      ],
-      "text": "【英法西意熱浪持續 或打破更多高溫紀錄】歐洲多地高溫天氣持續，上週末以來法國已有至少40人死於高溫導致的溺水等事故，英國在打破5月最高氣溫紀錄後或將重新整理6月的紀錄，義大利十餘座城市23日處於高溫紅色預警狀態，西班牙多地也將持續高溫。法國多地上週末迎來高溫天氣。法國總理勒科爾尼23日再次就高溫天氣召開應急會議。他在會前披露，6月18日以來，全法範圍共有40人死於溺水。法國體育部長瑪麗娜·費拉里當天接受法國媒體採訪時警告，民眾下水游泳、躲避熱浪的同時一定要注意安全。(新華社)"
-    },
-    {
-      "id": "4951461",
-      "time": "2026-06-24 09:33:00",
-      "tags": [
-        "其他"
-      ],
-      "text": "【2026年APEC中小企業工商論壇在深圳開幕】據“深視新聞”，6月24日，2026年APEC中小企業工商論壇（簡稱“工商論壇”）在深圳羅湖舉辦。本屆論壇由工業和資訊化部中小企業發展促進中心、中國中小企業國際合作協會、深圳市人民政府共同主辦，以“數智賦能，開放創新，合作共贏”為主題，舉辦主論壇、3場平行論壇及3場特色產業調研，同期設定優質中小企業產品展示區，匯聚APEC成員經濟體政府代表、院士專家、領軍企業，共探亞太中小企業數智轉型新路徑，共築區域產業開放合作新生態，共享全球價值鏈融通發展新機遇。"
-    },
-    {
-      "id": "mkt:019ef742-3a60-7dd8-b0e7-a6d880e00d7f",
-      "time": "2026-06-24 09:32:53",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "CSI300",
-        "Impact bullish",
-        "SSE Composite"
-      ],
-      "text": "PCB-related stocks on China’s A-share market rallied in early trade; Xilong Science recorded a second consecutive daily limit-up. Mankun Technology, Ruihuatai, Shiming Technology, Bomin Electronics and Xingsen Technology also gained."
-    },
-    {
-      "id": "4951460",
-      "time": "2026-06-24 09:32:50",
-      "tags": [
-        "其他"
-      ],
-      "text": "【市場融資融券餘額首次突破3萬億元】截至6月23日，滬深北兩融餘額為30009.71億元，首次突破3萬億元，較上一交易日增加59.40億元，其中融資餘額29789.93億元，較上一日增加61.37億元。"
-    },
-    {
-      "id": "mkt:019ef742-1707-7dd8-b0e7-9b7722d71640",
-      "time": "2026-06-24 09:32:44",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution",
-        "02513.HK",
-        "Impact bullish",
-        "00268.HK",
-        "00992.HK"
-      ],
-      "text": "Some Hong Kong AI stocks rose: Zhipu AI (02513.HK) up over 6%; Kingdee International (00268.HK) and Lenovo Group (00992.HK) up over 5%; Cambridge Technology (06166.HK) and GigaDevice (03986.HK) up over 3%."
-    },
-    {
-      "id": "mkt:019ef742-026e-7dd8-b0e7-9722f9488256",
-      "time": "2026-06-24 09:32:38",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Greater China",
-        "CSI300",
-        "Impact bullish",
-        "SSE Composite"
-      ],
-      "text": "【Total margin financing and securities‑lending balance tops 3.0 tln yuan for first time】As of June 23, total margin financing and securities‑lending balance across Shanghai, Shenzhen and Beijing stood at 3.000971 tln yuan, the first time above 3.0 tln, up 5.94 bln yuan versus the prior trading day. Financing balance was 2.978993 tln yuan, up 6.137 bln yuan."
-    },
-    {
-      "id": "4951459",
-      "time": "2026-06-24 09:32:33",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "北證50日內跌幅達1.04%，成分股中，艾融軟體跌7.34%，諾思蘭德跌5.22%，德源藥業跌4.11%，聚星科技跌4.10%。"
-    },
-    {
-      "id": "4951458",
-      "time": "2026-06-24 09:32:30",
-      "tags": [
-        "市場"
-      ],
-      "text": "【PCB概念股盤初拉昇，西隴科學2連板】PCB概念股盤初拉昇，西隴科學2連板，滿坤科技、瑞華泰、世名科技、博敏電子、興森科技跟漲。"
-    },
-    {
-      "id": "4951457",
-      "time": "2026-06-24 09:32:21",
-      "tags": [
-        "公司"
-      ],
-      "text": "新年68歲的軟銀集團CEO孫正義表示，他準備到70多歲時仍繼續領導公司。"
-    },
-    {
-      "id": "em:jjsj_ozsj:202606243780626743",
-      "time": "2026-06-24 09:31:56",
-      "tags": [
-        "經濟數據",
-        "澳洲"
-      ],
-      "text": "澳大利亞5月季調後CPI同比增長4%，前值4.2%。"
-    },
-    {
-      "id": "mkt:019ef741-25f3-7dd8-b0e7-888b1f83a240",
-      "time": "2026-06-24 09:31:42",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "Hang Seng Index",
-        "Impact bullish"
-      ],
-      "text": "Hong Kong stocks widened gains; Hang Seng Tech Index up 1%, HSI up 0.5%."
-    },
-    {
-      "id": "mkt:019ef741-13b4-7dd8-b0e7-87ef14012712",
-      "time": "2026-06-24 09:31:37",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Australia May seasonally adjusted CPI MoM -0.1%; prior -0.1%."
-    },
-    {
-      "id": "mkt:019ef740-e9f2-7dd8-b0e7-7ef14e6b6bad",
-      "time": "2026-06-24 09:31:26",
-      "tags": [
-        "MKT News",
-        "AUDUSD",
-        "Impact bearish"
-      ],
-      "text": "Australia May seasonally adjusted CPI YoY 4.0%, down from 4.2% in April."
-    },
-    {
-      "id": "mkt:019ef740-e416-7dd8-b0e7-7726794e9574",
-      "time": "2026-06-24 09:31:25",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "CSI300",
-        "Impact bullish",
-        "SSE Composite",
-        "SZSE Component"
-      ],
-      "text": "【China equity index futures open】China equity index futures opened higher: CSI 300 futures (IF) main contract +0.24%, SSE 50 futures (IH) +0.18%, CSI 500 futures (IC) +0.72%, CSI 1000 futures (IM) +0.47%."
-    },
-    {
-      "id": "mkt:019ef740-d817-7dd8-b0e7-6f5f88e2a721",
-      "time": "2026-06-24 09:31:22",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【China government bond futures open morning session】China government bond futures opened higher in the morning session: 2-year (TS) main contract +0.01%, 5-year (TF) +0.02%, 10-year (T) +0.02%, 30-year (TL) +0.04%."
-    },
-    {
-      "id": "4951456",
-      "time": "2026-06-24 09:31:12",
-      "tags": [
-        "市場"
-      ],
-      "text": "創業板指率先翻紅，滬指跌幅收窄至0.11%。"
-    },
-    {
-      "id": "mkt:019ef740-a9ae-7dd8-b0e7-6119e2331079",
-      "time": "2026-06-24 09:31:10",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "China's ChiNext Index led gains, turning positive; Shanghai Composite's decline narrowed to 0.11%."
-    },
-    {
-      "id": "4951455",
-      "time": "2026-06-24 09:31:04",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "40年期日本國債收益率上升1個基點，至3.770%。"
-    },
-    {
-      "id": "mkt:019ef740-8f61-7dd8-b0e7-5ea9083a7da7",
-      "time": "2026-06-24 09:31:03",
-      "tags": [
-        "MKT News",
-        "AUDUSD",
-        "Impact bearish",
-        "DXY",
-        "Impact bullish"
-      ],
-      "text": "Australia May non-seasonally adjusted CPI MoM -0.7% (est. -0.4%), prior +0.4%."
-    },
-    {
-      "id": "mkt:019ef740-73d0-7dd8-b0e7-53a4ecdd660a",
-      "time": "2026-06-24 09:30:56",
-      "tags": [
-        "MKT News",
-        "Important",
-        "DXY",
-        "Impact bullish",
-        "WTI",
-        "Impact bearish",
-        "Copper"
-      ],
-      "text": "Australia May unadjusted CPI YoY 4.0%, versus 4.3% consensus and prior 4.2%."
-    },
-    {
-      "id": "4951454",
-      "time": "2026-06-24 09:30:55",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【鋰電池電解液概念盤初活躍 孚日股份一字漲停】早盤鋰電池電解液概念活躍，孚日股份一字漲停，海科新源、華盛鋰電、海辰藥業、永太科技、奧克股份漲幅靠前。"
-    },
-    {
-      "id": "mkt:019ef740-635e-7dd8-b0e7-4b101e748671",
-      "time": "2026-06-24 09:30:52",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "Chip Wars",
-        "CSI300",
-        "Impact bearish"
-      ],
-      "text": "A-share storage-chip sector pulled back in early trade; Yuanlin Co. hit the daily down limit, Huate Gas fell over 6%, and Jinhong Gas, Guanggang Gas and Shengmei Shanghai also declined."
-    },
-    {
-      "id": "4951453",
-      "time": "2026-06-24 09:30:36",
-      "tags": [
-        "資料"
-      ],
-      "text": "澳大利亞5月消費者價格指數(CPI)環比下降0.7%。"
-    },
-    {
-      "id": "4951452",
-      "time": "2026-06-24 09:30:32",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "恒生科技指數漲超1%，現報4445.790點；恒生指數現漲0.574%。"
-    },
-    {
-      "id": "4951451",
-      "time": "2026-06-24 09:30:29",
-      "tags": [
-        "資料",
-        "市場"
-      ],
-      "text": "澳大利亞5月整體消費者價格指數(CPI)同比上漲4%。"
-    },
-    {
-      "id": "4951450",
-      "time": "2026-06-24 09:30:24",
-      "tags": [
-        "資料"
-      ],
-      "text": "澳大利亞5月澳洲儲備銀行加權中位數CPI同比上升3.6%。"
     }
   ]
 }
