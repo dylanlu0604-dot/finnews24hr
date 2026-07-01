@@ -1,7 +1,216 @@
 {
   "date": "2026-07-01",
-  "count": 1617,
+  "count": 1640,
   "items": [
+    {
+      "id": "mkt:019f1c95-b1f2-7aab-8c4e-bb8e7a6d89e7",
+      "time": "2026-07-01 15:30:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Switzerland | SVME Purchasing Managers' Index (Jun) | actual 54.3 | consensus 56.5 | previous 57.3"
+    },
+    {
+      "id": "te:economy:563318",
+      "time": "2026-07-01 15:29:14",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "India",
+        "Government Bond 10Y",
+        "Importance 1"
+      ],
+      "text": "India 10Y Yield Falls as Tax Break Spurs Inflows — The yield on India’s 10-year G-Sec fell to around 6.74%, reaching a fifteen-week low as record foreign inflows into government bonds boosted demand after recent tax incentives for overseas investors. Investor demand strengthened after the government scrapped taxes on capital gains and interest income for foreign investors in sovereign bonds under the Fully Accessible Route and added new FAR-eligible securities. The measures drove record monthly foreign purchases of INR 418 billion in June, nearly double the previous record of INR 239 billion set in August 2024. Further weighing on yields, the central bank reportedly intervened in the foreign exchange market through state-run banks to support the rupee. Analysts cautioned inflows could slow if global financial conditions tighten and US rates remain elevated. Still, stronger overseas participation could support India's inclusion in the Bloomberg Global Aggregate Index, with Goldman Sachs estimating about $15 billion in passive inflows."
+    },
+    {
+      "id": "4964452",
+      "time": "2026-07-01 15:29:03",
+      "tags": [
+        "其他"
+      ],
+      "text": "【“攜寵出行”更便捷 鐵路“愛寵行”服務進一步擴大範圍】記者從中鐵快運瞭解到，為更好地向攜帶寵物出行的旅客提供便利，今天（7月1日）起，鐵路“愛寵行”服務進一步擴大範圍，並同步對這項服務進行了最佳化。本次“愛寵行”服務範圍進行了拓展，新增長白山、天津、濟南、無錫、廈門、深圳、北海、南寧、遵義等32座辦理車站，新增G7、G44等92趟動車組列車承接寵物託運業務。目前，“愛寵行”服務累計覆蓋163座高鐵車站、364趟動車組列車。（央視新聞）"
+    },
+    {
+      "id": "te:economy:563317",
+      "time": "2026-07-01 15:29:01",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Turkey",
+        "Manufacturing PMI",
+        "Importance 1"
+      ],
+      "text": "Turkey Manufacturing Contraction Deepens — The Istanbul Chamber of Industry Türkiye Manufacturing PMI fell to 47.1 in June from 49.8 in May, signaling a sharper deterioration in manufacturing conditions and extending the sector's downturn to 27 consecutive months. Output contracted again after returning to growth in May, amid weaker demand and market uncertainty stemming from the war in the Middle East. New orders declined further, while new export orders returned to contraction after expanding in May. Employment and purchasing activity also declined in response to softer demand. Meanwhile, suppliers' delivery times lengthened again as the conflict disrupted raw material supplies, although the deterioration was the least marked since February. On prices, both input cost and output price inflation eased for a second straight month, with input cost inflation slowing to the weakest since November despite higher oil and raw material costs. Lastly, inventories of purchases and finished goods declined amid muted demand."
+    },
+    {
+      "id": "mkt:019f1c94-8c27-7aab-8c4e-b6f94e486efc",
+      "time": "2026-07-01 15:28:44",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Foreign media reported on July 1, citing sources, that U.S. and Iranian officials will hold indirect talks in Doha, Qatar."
+    },
+    {
+      "id": "4964451",
+      "time": "2026-07-01 15:28:35",
+      "tags": [
+        "公司"
+      ],
+      "text": "【三星員工喊出“2026大逃亡”：獎金差最高100倍，有人應聘SK海力士】近日，三星電子內部因績效獎金分配差距引發員工不滿，家電與移動部門正出現“離職潮”苗頭。隨著競爭對手SK海力士啟動招聘，不少三星員工在內部聊天室轉發招聘連結，並留言稱“好訊息來了”“2026大逃亡開始了”。引發不滿的導火索，是家電與移動部門和半導體部門之間懸殊的績效獎金差距。三星電子家電與移動部門主要負責電視、家電和智慧手機業務；半導體部門則受益於近期半導體行業繁榮，今年獲得了價值數億韓元的績效獎金。相比之下，家電與移動部門員工僅以“結算金”名義獲得價值600萬韓元的公司股票，由此引發強烈不滿。在家電與移動部門工作第五年的員工A某，正準備應聘SK海力士截至7月6日開放的有經驗員工招聘崗位。他表示，自己求職時甚至沒有投遞過SK海力士，但如今決定“逃離三星電子”。（紅星新聞）"
+    },
+    {
+      "id": "4964450",
+      "time": "2026-07-01 15:28:32",
+      "tags": [
+        "國際"
+      ],
+      "text": "【外交部：巴拉圭政府和領導人應早日站到歷史正確的一邊】7月1日，外交部發言人郭嘉昆主持例行記者會。法新社記者提問，巴拉圭外交部長昨日表示，只要不必中斷與臺灣地區的聯絡，巴拉圭對與中國大陸開展貿易持開放態度。外交部對此有何評論？“中方已經多次就有關問題闡明立場。”郭嘉昆表示，巴拉圭政府和領導人應該順應歷史潮流和人民願望，早日站到歷史正確的一邊，站到國際社會絕大多數國家的一邊，做出符合本國根本和長遠利益的正確的決斷，不要再自陷孤立。（北京日報）"
+    },
+    {
+      "id": "mkt:019f1c94-4add-7aab-8c4e-ae2b0af83c6f",
+      "time": "2026-07-01 15:28:28",
+      "tags": [
+        "MKT News",
+        "Market Regions"
+      ],
+      "text": "【China says Lai administration's 'diplomacy of lies' exposed after Honduras clarification】On July 1 foreign ministry spokesman Guo Jiakun said Honduras' foreign ministry had clarified it did not discuss restoring diplomatic ties with Taiwan, a move he said exposed the Lai Ching-te administration's 'diplomacy of lies.' Guo reiterated that Taiwan independence lacks popular support and is destined to fail, and said China, on the one‑China principle, is willing to advance China‑Honduras relations for the benefit of both peoples."
+    },
+    {
+      "id": "mkt:019f1c94-094e-7aab-8c4e-a7d06da7a13b",
+      "time": "2026-07-01 15:28:11",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "【China urges early lifting of unilateral sanctions on Iran】At a July 1 regular press briefing, Foreign Ministry spokesman Guo Jiakun said China consistently advocates early removal of unilateral sanctions on Iran. Asked about US steps to lift sanctions and how Chinese firms should adapt as 60‑day oil waivers progress, Guo urged the United States and Iran to implement the signed memorandum of understanding and continue negotiations toward a comprehensive political settlement."
+    },
+    {
+      "id": "4964449",
+      "time": "2026-07-01 15:28:00",
+      "tags": [
+        "國際"
+      ],
+      "text": "比亞迪歐洲市場特別顧問：我們正積極在西歐尋找生產基地。"
+    },
+    {
+      "id": "mkt:019f1c93-6d33-7aab-8c4e-99d55c1fa16b",
+      "time": "2026-07-01 15:27:31",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "【Foreign Ministry: China-Japan ties face serious difficulties; responsibility entirely on Japan】On July 1 at a routine press briefing, Foreign Ministry spokesman Guo Jiakun said China-Japan relations are facing serious difficulties and attributed the root cause to a series of \"wrong words and deeds\" by Japan's ruling authorities on Taiwan and military security, saying responsibility lies entirely with Japan. He urged Japanese leaders to respect China's core interests, cease interfering in China's internal affairs, adhere to the spirit of the four China-Japan political documents to preserve the political basis and environment for economic and trade cooperation, and to reflect, correct mistakes and show sincerity through concrete actions to get ties back on track."
+    },
+    {
+      "id": "4964448",
+      "time": "2026-07-01 15:27:30",
+      "tags": [
+        "國際"
+      ],
+      "text": "【外交部：賴清德當局謊言外交暴露無遺】7月1日，外交部發言人郭嘉昆主持例行記者會。 有記者提問，據報道，針對宏都拉斯外交部近日稱未同臺討論“復交”及中方回應，臺灣外事部門發言人稱，臺對“重啟”同洪關係持開放態度，不預設前提。中方對此有何評論？ “我們注意到宏都拉斯政府此前已就相關問題作出澄清，讓賴清德當局的‘謊言外交’暴露無遺。”郭嘉昆強調，“臺獨”分裂逆流而動，不得人心，註定失敗。中方願在一箇中國原則基礎上，推動中國與宏都拉斯的關係不斷向前發展，更好惠及兩國人民。（北京日報）"
+    },
+    {
+      "id": "4964447",
+      "time": "2026-07-01 15:27:18",
+      "tags": [
+        "其他"
+      ],
+      "text": "【問界汽車6月交付新車30199臺】7月1日，問界汽車公佈，2026年6月交付新車30199臺，上半年累計交付同比增長10.2%。新一代問界M9系列上市一個月大定超42000臺；問界M6上市54天，累計交付超30000臺。"
+    },
+    {
+      "id": "4964446",
+      "time": "2026-07-01 15:27:16",
+      "tags": [
+        "公司"
+      ],
+      "text": "【弘景光電：工業富聯為公司合作客戶，雙方現階段合作專案尚未涉及機器視覺相關產品】弘景光電7月1日在互動平臺表示，工業富聯為公司合作客戶，雙方現階段合作專案尚未涉及機器視覺相關產品。"
+    },
+    {
+      "id": "4964445",
+      "time": "2026-07-01 15:27:14",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "【中方主張對伊朗單邊制裁應早日解除】7月1日，外交部發言人郭嘉昆主持例行記者會。 有外媒記者提問，第一個問題：中國如何看待美國解除對伊朗的制裁，中方是否正提供積極支援以結束對伊朗的限制措施？第二個問題：隨著為期60天的石油制裁豁免期逐步推進，中國政府以及國有、私營企業正採取哪些措施來適應當前變化的局勢？ 郭嘉昆表示，關於你的兩個問題，我們想強調的是，中方一貫主張對伊朗的單邊制裁應該早日解除。希望美伊雙方共同落實好已經簽署的諒解備忘錄，繼續推進談判，推動伊朗問題早日實現全面政治解決。（北京日報）"
+    },
+    {
+      "id": "mkt:019f1c93-0b32-7aab-8c4e-9601b821b7fc",
+      "time": "2026-07-01 15:27:06",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "China EV Leaders",
+        "Market Regions",
+        "Europe & UK",
+        "1211.HK",
+        "Impact bullish"
+      ],
+      "text": "BYD's special adviser for the European market says the company is actively seeking a production base in Western Europe."
+    },
+    {
+      "id": "4964444",
+      "time": "2026-07-01 15:27:03",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "【外交部：中日關係面臨嚴重困難 責任完全在日方】7月1日，外交部發言人郭嘉昆主持例行記者會。有記者就近期中日經貿關係提問。郭嘉昆表示，中方多次指出，當前中日關係面臨嚴重困難，根源在於日本執政當局在涉及中國臺灣和軍事安全領域的一系列錯誤言行，責任完全在日方。我們也想請你問問日本為政者，能否尊重中國核心利益，停止干涉中國內政？能否恪守中日四個政治檔案精神，維護中日關係的政治基礎和經貿合作的必要環境？能否反思糾錯，以實際行動展現推動中日關係重回正軌的誠意？（央視新聞）"
+    },
+    {
+      "id": "4964443",
+      "time": "2026-07-01 15:26:51",
+      "tags": [
+        "其他"
+      ],
+      "text": "埃安：埃安i60 6月銷量10532臺。"
+    },
+    {
+      "id": "4964442",
+      "time": "2026-07-01 15:26:48",
+      "tags": [
+        "市場",
+        "焦點",
+        "原創"
+      ],
+      "text": "【7月1日滬深兩市漲停分析】逾200只個股漲停！滬指放量上漲0.44%，大金融等老登板塊全線爆發，全市上漲個股超4300只。國華退、浙江東日、多氟多等3連板，一圖看懂>>"
+    },
+    {
+      "id": "4964441",
+      "time": "2026-07-01 15:26:38",
+      "tags": [
+        "國際"
+      ],
+      "text": "據外媒7月1日援引訊息人士的話報道，美國和伊朗官員當天將在卡達首都多哈舉行間接會談。（新華社）"
+    },
+    {
+      "id": "4964440",
+      "time": "2026-07-01 15:26:33",
+      "tags": [
+        "其他"
+      ],
+      "text": "【今年上半年西部陸海新通道班列運輸貨物66萬標箱】記者7月1日從國鐵南寧局獲悉，今年上半年，西部陸海新通道班列累計運輸貨物66萬標箱，月均運量達11萬標箱，運輸市場需求維持高位，其中二季度較一季度環比增長3.6%，為促進我國與沿線國家經貿合作、維護全球供應鏈穩定提供強有力的運輸保障。（央視新聞）"
+    },
+    {
+      "id": "4964439",
+      "time": "2026-07-01 15:26:21",
+      "tags": [
+        "國際"
+      ],
+      "text": "【外交部：多國政黨政要和各界人士以各種方式祝賀中國共產黨成立105週年】7月1日，外交部發言人郭嘉昆主持例行記者會。總檯央視記者提問：連日來，多國政黨政要祝賀中國共產黨成立105週年，高度評價中國共產黨執政成就，表示中國的發展為世界特別是全球南方提供了機遇和借鑑，中方的理念倡議為應對全球性挑戰提供了務實方案。發言人對此有何評論？郭嘉昆表示，多國政黨政要和各界人士以各種方式祝賀中國共產黨成立105週年，高度評價中國共產黨成立以來，始終以人民為中心，堅持實幹興邦，不斷自我完善，領導中國人民取得經濟社會發展偉大成就，為世界和平與發展作出重要貢獻。事實證明，中國共產黨領導的社會主義中國，被公認為世界和平的建設者、全球發展的貢獻者、國際秩序的維護者。（央視新聞）"
+    },
+    {
+      "id": "4964438",
+      "time": "2026-07-01 15:26:12",
+      "tags": [
+        "國際"
+      ],
+      "text": "【中國空調在歐洲賣爆，京東物流、菜鳥也悶聲賺大發了】近日，歐洲持續遭遇高溫衝擊，西班牙、法國、德國多地氣溫突破35°C，大量歐洲人在社媒分享空調搶購盛況。其中，美的PortaSplit便攜空調在數個線下商場、電商渠道售罄後，價格一度被當地黃牛炒至1999歐元，較官方售價翻1.5倍。中國家電此番在歐洲爆火，在歐早有佈局的京東物流、以及阿里系菜鳥網路也成為“第一批吃螃蟹的人”。今年3月，京東的歐洲電商平臺Joybuy在歐洲六國正式上線，而這一波中國家電爆火，也帶動該平臺在歐快速出圈。有國際貨代人士告訴介面新聞，Joybuy在歐洲業內的使用頻率較高，主要帶動了履約模式本地化，中國商家不再依賴從國內直郵，而是更多將貨物前置至海外倉進行備貨與分銷。根據京東方面介紹，Joybuy平臺上的空調產品銷售環比六月第一週激增近40倍。（介面）"
+    },
     {
       "id": "4964437",
       "time": "2026-07-01 15:24:33",
