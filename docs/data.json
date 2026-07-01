@@ -1,7 +1,80 @@
 {
-  "updated": "2026-07-02 07:10:35",
-  "count": 14035,
+  "updated": "2026-07-02 07:14:21",
+  "count": 14036,
   "items": [
+    {
+      "id": "4966017",
+      "time": "2026-07-02 07:13:32",
+      "tags": [
+        "其他"
+      ],
+      "text": "晨星（中國）基金研究中心總監孫珩注意到，目前公募行業在產品佈局上已明顯分層：頭部機構搭建全產業鏈科技投研團隊，寬基、細分ETF、均衡成長全覆蓋；中型機構選擇性深耕AI、半導體單一細分賽道，打造特色產品線；小型機構集中資源押注高景氣小盤科技品種，以極致彈性博取短期超額收益，三者在研究深度、產品豐富度、持倉集中度、收益波動上已形成了清晰分化的局面。（中證報）"
+    },
+    {
+      "id": "te:economy:563551",
+      "time": "2026-07-02 07:12:29",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "South Korea",
+        "Inflation Rate",
+        "Importance 1"
+      ],
+      "text": "South Korea Inflation at 2 ½-Year High — South Korea’s annual inflation rate increased to 3.2% in June 2026 from 3.1% in the previous month, matching market expectations and marking the fastest rise since December 2023. Prices accelerated mainly for food and non-alcoholic beverages (2% vs 1.6% in May), alcoholic beverages and tobacco (0.5% vs 0.3%), and recreation and culture (5.4% vs 5%). Inflation also remained elevated for transport (11.1% vs 11.6%)."
+    },
+    {
+      "id": "4966016",
+      "time": "2026-07-02 07:12:25",
+      "tags": [
+        "其他"
+      ],
+      "text": "【委內瑞拉地震9名中國公民遇難】據中國駐委內瑞拉大使館當地時間7月1日確認，截至當天18時（北京時間7月2日6時），共有9名中國公民在委內瑞拉6月24日發生的地震中遇難。"
+    },
+    {
+      "id": "4966015",
+      "time": "2026-07-02 07:12:14",
+      "tags": [
+        "其他"
+      ],
+      "text": "【國泰海通：中國股市新一輪上升視窗期開啟 重點看好主線科技、製造】國泰海通釋出研報稱，不確定下降，增長預期上修與增量入市共振，中國股市在未來將開啟新一輪上升視窗期。該行認為，短暫“陣雨”後中國市場三季度會有不錯的表現，有望走出新高。科技板塊從流動性、景氣與估值維度看邏輯依舊堅實，仍是市場主線。重點看好科技、製造以及券商/銀行，部分傳統板塊也有修復。"
+    },
+    {
+      "id": "4966014",
+      "time": "2026-07-02 07:11:51",
+      "tags": [
+        "公司"
+      ],
+      "text": "【國泰海通：重點關注機器人整機廠及機器人核心零部件供應商】國泰海通釋出研報稱，重點關注機器人整機廠及機器人核心零部件供應商。軟銀宣佈啟動自主品牌機器人規模化量產，並計劃推動旗下機器人公司Roze赴美上市，並擬斥資約54億美元收購ABB機器人業務，加快完善機器人產業佈局。此外，銀河通用釋出全球首個人形機器人通用小腦GPT基礎模型AstraBrain-WBC 0.5並開源相關成果；智元機器人釋出具身智慧數採2.0技術體系，推動具身智慧訓練與場景驗證體系進一步完善。"
+    },
+    {
+      "id": "4966013",
+      "time": "2026-07-02 07:11:18",
+      "tags": [
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "【大金融引領 A股全市場4300多隻個股上漲 機構：建議聚焦有業績支撐的“真成長”】7月首個交易日，全市場超過4300只個股上漲。大金融板塊全天強勢，證券、保險漲幅居前；養殖板塊集體上漲，新希望、傲農生物漲停；醫藥板塊午後拉昇，海南海藥走出7天5板；兆易創新、新易盛等科技權重股則陷入調整。大同證券研報分析稱，短期市場或面臨三重因素博弈：一是外部流動性擾動，美聯儲加息預期仍在高位，美股科技股波動對A股情緒形成傳導；二是半年報視窗臨近，市場定價邏輯將從“景氣預期”轉向“景氣確認”，有真實訂單和盈利高增的硬科技方向有望持續獲得溢價；三是兩融餘額站上3萬億元后，市場對槓桿資金穩定性的關注度上升。總體來看：短期科技結構性行情有望延續但波動加大，內部分化成常態；中長期科技仍是主線，應聚焦有業績支撐的“真成長”。（上海證券報）"
+    },
+    {
+      "id": "4966012",
+      "time": "2026-07-02 07:11:01",
+      "tags": [
+        "公司",
+        "觀點",
+        "國際"
+      ],
+      "text": "【高盛預估：世界盃或將為美國6月就業報告新增4萬個崗位】高盛表示，受世界盃拉動，週四即將公佈的6月非農就業資料或將好於市場預期。根據道瓊斯對受訪經濟學家的調查共識，非農就業人數預計將增加11.5萬人，較5月份17.2萬人的強勁增速有所放緩。但高盛表示，來自小企業薪資服務公司Homebase的私人資料顯示，“美麗足球”至少對招聘產生了一定的溫和影響，上個月貢獻了約4萬個就業崗位。"
+    },
+    {
+      "id": "4966011",
+      "time": "2026-07-02 07:10:55",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【資料顯示：俄羅斯6月柴油和輕柴油海運出口較前月減少39%】市場訊息人士和倫敦證券交易所集團（LSEG）的資料顯示，俄羅斯6月柴油和輕柴油海運出口量驟降，較前月大減39%至180萬噸左右，較上年同期的335萬噸下降46%，原因是一波波無人機攻擊導致國內主要煉油廠被迫停產。根據貿易商估計和路透計算，俄羅斯最大柴油出口港普里莫爾斯克的超低硫柴油出貨量較5月減少一半以上，僅62.3萬噸。俄羅斯當局尚未就禁止柴油出口作出決定，但貿易商表示，鑑於部分主要煉油廠的計劃外檢修持續時間較長，且國內需求強勁，7月超低硫柴油（ULSD）出口可能降至最低水平甚至“近零”。"
+    },
     {
       "id": "mkt:019f1ff0-8f70-7aab-8c67-151eeb8688f9",
       "time": "2026-07-02 07:08:06",
@@ -129205,72 +129278,6 @@
         "國際"
       ],
       "text": "西聯匯款與Intermex就待定收購Intermex事宜提供最新進展：美國51個州及所有國際轄區的監管機構已批准該交易，或對該交易不持反對意見。"
-    },
-    {
-      "id": "4953608",
-      "time": "2026-06-25 07:13:50",
-      "tags": [
-        "公司"
-      ],
-      "text": "【多家A股公司主動補稅 折射企業稅務合規新常態】近期，多家A股上市公司釋出補稅公告，涉及電子、化工、醫藥、環保等行業，引發市場關注。記者採訪財稅專家及上市公司後瞭解到，補稅主要緣於上市公司開展的稅務合規自查，屬於常態化經營和法律合規行為。中山大學法學院教授楊小強表示，上市公司補稅公告多集中在5月下旬至6月上旬，主要原因是年報披露、彙算清繳與資訊披露三個時限節點交匯，形成釋出公告的視窗期。（上海證券報）"
-    },
-    {
-      "id": "4953607",
-      "time": "2026-06-25 07:13:33",
-      "tags": [
-        "其他"
-      ],
-      "text": "在倫敦市市長薩迪克·汗阻止交易後，大都會警察局獲准延長參與Palantir人工智慧專案。（衛報）"
-    },
-    {
-      "id": "mkt:019efbe7-f340-7dd8-b106-552d04342ed9",
-      "time": "2026-06-25 07:12:22",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "NVIDIA",
-        "Market Themes",
-        "AI Revolution",
-        "Magnificent 7",
-        "NVDA.O",
-        "Impact bullish"
-      ],
-      "text": "【Jensen Huang: AI infrastructure cycle will last decades】At NVIDIA's annual shareholder meeting, Jensen Huang told CNBC that questions about AI investment returns \"already have answers.\" He described AI data centers as \"token factories,\" saying tokens can become code, answers, designs, actions and services and that \"each token is a unit of profit.\" Huang said NVIDIA's systems \"may not be the cheapest, but produce tokens at the lowest cost, with the highest throughput and the most revenue.\" He flagged \"physical AI\"—robots, cars and factories that can sense, reason, plan and act—as the next growth wave, expressed optimism on long-term growth and ASIC competition, and said \"this build-out will be measured in decades\" with NVIDIA's infrastructure offering the \"best inference economics.\""
-    },
-    {
-      "id": "4953606",
-      "time": "2026-06-25 07:12:05",
-      "tags": [
-        "公司",
-        "資料",
-        "市場"
-      ],
-      "text": "【谷歌再傳兩名關鍵AI員工將離職】谷歌母公司Alphabet股價週三盤中跳水，知情人士稱，谷歌的兩名頂尖人工智慧（AI）研究人員Jonas Adler和Alexander Pritzel正計劃離職，轉投競爭對手Anthropic。這一訊息進一步加劇了外界對這家搜尋巨頭在AI領域領先地位可能被削弱的擔憂。就在上週，Google Gemini聯合負責人Noam Shazeer宣佈離開Google，加入已向SEC秘密提交IPO申請的OpenAI。2024年諾貝爾化學獎得主、AlphaFold核心領導者John Jumper隨後也宣佈將離開Google DeepMind加入Anthropic。"
-    },
-    {
-      "id": "4953605",
-      "time": "2026-06-25 07:11:38",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【美股晶片股盤後全線上漲】美光科技釋出財報後，美股晶片股盤後全線上漲，截至發稿，美光科技漲超14%，高通漲超13%，西部資料、閃迪、希捷科技漲超10%，ARM、應用材料漲超6%，阿斯麥漲超5%。美光科技最新財報顯示，公司預計第四財季經調整營收490億美元至510億美元，市場預期432.4億美元。"
-    },
-    {
-      "id": "4953604",
-      "time": "2026-06-25 07:11:19",
-      "tags": [
-        "公司"
-      ],
-      "text": "【德琪醫藥：擬按最高總代價5000萬港元購回股份】6月25日早間，德琪醫藥在港交所公告，於2026年6月24日，董事會已決議動用股份購回授權，並根據市況不時於公開市場按最高總代價5000萬港元購回股份。董事會可根據購回當時的市況及集團的資本管理需要，後續將購回的股份登出或由公司持作庫存股份。公司將以其內部資源為建議股份購回提供資金。"
-    },
-    {
-      "id": "4953603",
-      "time": "2026-06-25 07:10:53",
-      "tags": [
-        "其他"
-      ],
-      "text": "國際貨幣基金組織批准向茅利塔尼亞提供9580萬美元融資安排。"
     }
   ]
 }
