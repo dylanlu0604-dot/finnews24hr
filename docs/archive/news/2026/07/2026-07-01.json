@@ -1,7 +1,110 @@
 {
   "date": "2026-07-01",
-  "count": 1380,
+  "count": 1390,
   "items": [
+    {
+      "id": "mkt:019f1c3c-645d-7aab-8c4c-7b1a02ea647c",
+      "time": "2026-07-01 13:52:27",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "300274.SZ",
+        "Impact bearish"
+      ],
+      "text": "A-share-listed Sungrow Power saw turnover hit CNY20 bln and is down more than 12%."
+    },
+    {
+      "id": "4964292",
+      "time": "2026-07-01 13:52:26",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "深證成指跌1.00%，現報16043.019點；上證指數漲0.14%，現報4100.229點；創業板指跌2.18%，現報4248.088點。"
+    },
+    {
+      "id": "4964291",
+      "time": "2026-07-01 13:52:20",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "滬深兩市成交額超3萬億元，較上日此時放量3645億元。"
+    },
+    {
+      "id": "te:markets:563281",
+      "time": "2026-07-01 13:51:25",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "other",
+        "currency",
+        "Importance 1"
+      ],
+      "text": "Bitcoin Slides to Nearly 2-Year Low — Bitcoin dropped to as low as $57,700 in early July, hitting its lowest level since September 2024, leaving it down more than 50% from the record high reached last October. The cryptocurrency remained under pressure as hawkish signals from Federal Reserve officials reinforced expectations of higher US interest rates, boosting the dollar and reducing the appeal of non-yielding assets such as Bitcoin. Investor sentiment also weakened after US-listed spot Bitcoin ETFs recorded more than $4 billion in net outflows in June, the largest monthly withdrawal since their launch. Additional pressure came from renewed concerns over Strategy Inc.'s financing overhaul, which raised the possibility that one of Bitcoin's biggest corporate holders could prioritize balance-sheet management over continued accumulation. Bitcoin also slipped below its 200-week moving average for the first time in three years, a technical signal often associated with prolonged bear markets."
+    },
+    {
+      "id": "mkt:019f1c3b-4ed8-7aab-8c4c-76ed78cb0eaa",
+      "time": "2026-07-01 13:51:16",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "SZSE Component",
+        "Impact bearish"
+      ],
+      "text": "ChiNext index extended afternoon losses, down about 2%; STAR 50 Index fell over 3%. CPO, advanced packaging and MicroLED concept sectors led declines."
+    },
+    {
+      "id": "4964290",
+      "time": "2026-07-01 13:50:59",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "創業板指跌2.01%，現報4255.309點；上證指數漲0.24%，現報4104.043點；深證成指跌0.83%，現報16071.644點。"
+    },
+    {
+      "id": "4964289",
+      "time": "2026-07-01 13:50:42",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【國巨全系列電容產品價格調漲 現貨市場漲幅或更大】7月1日，市場傳聞被動元件大廠國巨向客戶端通知價格調整，自當日開始調漲全系列電容產品價格，包括鉭電、MLCC、鋁電、固態鋁電、薄膜電容、超級電容等，涉及的產品覆蓋國巨約50%營收，且漲價物件首次納入直接客戶（EMS/OEM）。對此，記者致電東莞市超翔電子有限公司、深圳市河鋒鑫科技有限公司等多家國巨代理商進行求證，相關代理商均表示國巨全系列電容產品漲價屬實，且本次調漲的物件從代理商擴充套件至直接客戶，等同現貨價、合約價同步調漲。深圳市河鋒鑫科技有限公司工作人員告訴記者，國巨電容產品本次原廠價格漲幅大約為50%，現貨市場的價格漲幅相應會更大。“這次是原廠通知漲價，實際上，現貨市場從今年5月到現在一直漲價，高階電容產品的價格一個月時間內最高漲幅接近10倍。最近經常出現延遲供貨的情況，除了國巨，MLCC各大品牌都有延遲供貨。”（上證報）"
+    },
+    {
+      "id": "4964288",
+      "time": "2026-07-01 13:50:34",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "科創50日內跌幅達3.03%，成分股中，源傑科技跌7.48%，芯原股份跌7.37%，生益電子跌7.36%，時代電氣跌7.31%。"
+    },
+    {
+      "id": "4964287",
+      "time": "2026-07-01 13:50:28",
+      "tags": [
+        "市場"
+      ],
+      "text": "【銀行間主要利率債收益率午後繼續上行】銀行間主要利率債收益率午後繼續上行，10年期國債活躍券260010收益率上行1.5bp報1.74%，10年期國開債活躍券260205收益率上行1.8bp至1.7975%，30年期國債活躍券2600002收益率上行1.25bp至2.236%。"
+    },
+    {
+      "id": "mkt:019f1c3a-37c2-7aab-8c4c-6ad4b9f2efd8",
+      "time": "2026-07-01 13:50:05",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Europe & UK",
+        "GBPUSD",
+        "Impact mixed"
+      ],
+      "text": "UK June Nationwide house price index MoM due in 10 minutes."
+    },
     {
       "id": "4964286",
       "time": "2026-07-01 13:49:43",
