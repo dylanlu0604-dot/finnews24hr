@@ -1,7 +1,191 @@
 {
-  "updated": "2026-07-01 09:34:15",
-  "count": 13967,
+  "updated": "2026-07-01 09:38:10",
+  "count": 13972,
   "items": [
+    {
+      "id": "4963963",
+      "time": "2026-07-01 09:37:11",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【特朗普因加密貨幣獲利超10億美元】據美聯社等媒體當地時間6月30日報告，美國總統特朗普提交給美國政府道德辦公室的2025年度財務報告顯示，去年特朗普家族的加密貨幣業務為其帶來了超過10億美元的收入。據披露的財務檔案顯示，特朗普家族的加密企業“世界自由金融公司”透過銷售新型加密產品獲得了逾5億美元收入；另有約6.35億美元來自其個人迷因幣（Meme幣）$TRUMP的銷售。 （CCTV國際時訊）"
+    },
+    {
+      "id": "4963962",
+      "time": "2026-07-01 09:36:50",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【儲存晶片板塊盤初再度走強】儲存晶片板塊盤初再度走強，多氟多三連板，亞威股份漲停，金宏氣體漲超15%，藍曉科技、金太陽、富滿微、時空科技、夏農芯創跟漲。"
+    },
+    {
+      "id": "4963961",
+      "time": "2026-07-01 09:36:44",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【人形機器人概念持續走強，埃斯頓等多股漲停】人形機器人概念持續走強，長源東谷、埃斯頓、泰晶科技漲停，拓斯達漲超17%，東土科技、昊志機電、勝藍股份、兆威機電、金田股份等跟漲。"
+    },
+    {
+      "id": "mkt:019f1b52-45ce-7aab-8c48-3abff4140983",
+      "time": "2026-07-01 09:36:44",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "China EV Leaders"
+      ],
+      "text": "【Hongmeng Zhixing: June deliveries 50,624 units, MoM +9.7%】Hongmeng Zhixing delivered 50,624 units in June, up 9.7% MoM. 1H deliveries totaled 240,000 units, up 18.6% YoY. Cumulative deliveries now exceed 1.43 mln units, the fastest million-unit milestone among China’s new-force automakers, approaching a second million. Delivery momentum was led by multiple models: Wenjie M6 reached 30,000 units in 54 days; Shangjie Z7 series exceeded 10,000 units in a single month; new-generation Wenjie M9 began scaled deliveries on June 16 and shipped over 8,000 units in two weeks."
+    },
+    {
+      "id": "mkt:019f1b52-45c2-7aab-8c48-36153e114355",
+      "time": "2026-07-01 09:36:44",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish",
+        "SSE Composite"
+      ],
+      "text": "A-share PVC sector jumped; Jianbang hit the daily limit, while Xinjinlu, Hubei Yihua, Ordos, Zhongtai Chemical and Ruifeng Gaocai also advanced."
+    },
+    {
+      "id": "te:markets:563184",
+      "time": "2026-07-01 09:36:33",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "South Korea",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "South Korean Shares Fall on Foreign Selling — The benchmark KOSPI slipped more than 1% to around 8,330 on Wednesday, reversing gains from the previous session, as persistent foreign selling continued to weigh on sentiment. The sell-off came as the Korean won remained near a 17-year low against the US dollar and overseas investors continued to reduce exposure to local equities. Chipmakers and other large-cap technology names came under pressure after an extended AI-driven rally, with investors locking in gains following another strong quarter for global semiconductor stocks. Losses were also recorded in Samsung Electronics (-4.0%), SK Hynix (-3.3%), SK Square (-4.3%), LG Energy Solution (-2.4%), Hyundai Motor (-1.4%), and SK Inc. (-9.4%). Meanwhile, South Korea’s exports surpassed $100 billion for the first time in June, driven by a near tripling in semiconductor shipments and strong AI-related demand for memory chips and server equipment, helping limit the market's losses."
+    },
+    {
+      "id": "mkt:019f1b52-160b-7aab-8c48-2add978b752d",
+      "time": "2026-07-01 09:36:32",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish",
+        "SZSE Component",
+        "SSE Composite"
+      ],
+      "text": "A-share optical and optoelectronics sector firmed in early trade; Crystal Optoelectronics locked at the daily up-limit on the open, Jizhi Technology jumped over 8%, and Wavelength Optoelectronics, Tianlu Technology and Lianjian Optoelectronics also advanced."
+    },
+    {
+      "id": "4963960",
+      "time": "2026-07-01 09:36:11",
+      "tags": [
+        "市場"
+      ],
+      "text": "川崎重工股價恢復漲勢，最新上漲4.3%。"
+    },
+    {
+      "id": "mkt:019f1b51-5e78-7aab-8c48-26f89d22bd63",
+      "time": "2026-07-01 09:35:45",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Tencent"
+      ],
+      "text": "【E-wallet money-market yields: 7‑day annualized rates】Tencent Licaitong (current + 7‑day annualized) ranged 0.7830%–1.0730%; WeChat Lingqian Tong 7‑day annualized ranged 1.0010%–1.0160%; Alipay Yu’e‑bao 7‑day annualized ranged 1.0010%–1.0300%."
+    },
+    {
+      "id": "4963959",
+      "time": "2026-07-01 09:35:44",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【PVC概念異動拉昇，鍵邦股份觸及漲停】PVC概念異動拉昇，鍵邦股份觸及漲停，新金路、湖北宜化、鄂爾多斯、中泰化學、瑞豐高材等跟漲。"
+    },
+    {
+      "id": "4963958",
+      "time": "2026-07-01 09:35:11",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【水電概念盤初活躍，韶能股份漲停】水電概念盤初活躍，韶能股份漲停，金盤科技、廣西能源、電投水電、甘肅能源、豫能控股、西昌電力等漲幅居前。"
+    },
+    {
+      "id": "mkt:019f1b50-bcb8-7aab-8c48-1b1fd53dbaf9",
+      "time": "2026-07-01 09:35:03",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "CNH",
+        "Impact mixed",
+        "CSI300",
+        "Hang Seng Index"
+      ],
+      "text": "China June RatingDog manufacturing PMI due in 10 minutes."
+    },
+    {
+      "id": "mkt:019f1b50-962d-7aab-8c48-13603d293f08",
+      "time": "2026-07-01 09:34:53",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "300274.SZ",
+        "Impact bearish",
+        "300763.SZ",
+        "CSI300"
+      ],
+      "text": "China A-share PV equipment sector softened in early trade; Sungrow fell more than 15%, while Ginlong Technology, Chint Power, Dier Laser, GoodWe and Shangneng Electric also declined."
+    },
+    {
+      "id": "4963957",
+      "time": "2026-07-01 09:34:45",
+      "tags": [
+        "其他"
+      ],
+      "text": "鴻蒙智行：6月交付50,624臺，環比增長9.7%；2026年上半年累計交付24萬臺，同比增長18.6%， 截至目前，鴻蒙智行全繫累計交付突破143萬臺，重新整理中國新勢力品牌最快達成紀錄，向第二個百萬臺里程碑邁進。 本月，鴻蒙智行多款車型交付勢能持續釋放，上市即爆款，新款車型交付不斷提速： 問界M6，54天交付突破30,000臺； 尚界Z7系列，單月交付突破10,000臺； 全新一代問界M9，自6月16日開啟規模交付，兩週交付突破8000臺。"
+    },
+    {
+      "id": "mkt:019f1b50-54be-7aab-8c48-0ab8164a003a",
+      "time": "2026-07-01 09:34:37",
+      "tags": [
+        "MKT News",
+        "CSI300",
+        "Impact bullish",
+        "SZSE Component"
+      ],
+      "text": "China A-share telecom sector strengthened; Rihai Intelligent hit the daily trading limit, while Ruijie Networks, Dongtu Technology, Xingwang Ruijie, Liantek Technology, Shenyu Co. and Mingpu Opto-Magnetics also advanced."
+    },
+    {
+      "id": "4963956",
+      "time": "2026-07-01 09:34:11",
+      "tags": [
+        "市場"
+      ],
+      "text": "【電子特氣概念反覆走強 金宏氣體漲超15%】電子特氣概念反覆走強，金宏氣體漲超15%，蜀道裝備漲超10%，廣鋼氣體、昊華科技、正帆科技、中船特氣跟漲。"
+    },
+    {
+      "id": "4963955",
+      "time": "2026-07-01 09:33:55",
+      "tags": [
+        "市場"
+      ],
+      "text": "紐約期銀日內跌3%，現報58.09美元/盎司。"
+    },
+    {
+      "id": "4963954",
+      "time": "2026-07-01 09:33:48",
+      "tags": [
+        "其他"
+      ],
+      "text": "光伏裝置板塊盤初走弱，陽光電源跌超15%，錦浪科技、正泰電源、帝爾鐳射、固德威、上能電氣跟跌。"
+    },
     {
       "id": "4963953",
       "time": "2026-07-01 09:33:21",
@@ -128235,125 +128419,6 @@
         "US10Y"
       ],
       "text": "【ANZ: Weak market sentiment weighs on gold】Gold slid in Asian morning trade as market sentiment weakened. ANZ research analysts said that although gold is traditionally a safe-haven asset, it has failed to withstand a large cross-market sell-off and is down more than 22% since late February after the outbreak of the Middle East conflict. They flagged rising US rate-hike expectations as an additional drag on the metal."
-    },
-    {
-      "id": "4951472",
-      "time": "2026-06-24 09:38:08",
-      "tags": [
-        "其他"
-      ],
-      "text": "孫正義：軟銀的長期主要關注點將是人工智慧機器人。"
-    },
-    {
-      "id": "4951471",
-      "time": "2026-06-24 09:37:44",
-      "tags": [
-        "市場"
-      ],
-      "text": "【國家統計局：6月中旬生豬（外三元）價格環比持平】國家統計局釋出2026年6月中旬流通領域重要生產資料市場價格變動情況，對全國流通領域9大類50種重要生產資料市場價格的監測顯示，6月中旬與6月上旬相比，15種產品價格上漲，32種下降，3種持平。其中生豬（外三元）價格為9.5元/千克，環比持平。"
-    },
-    {
-      "id": "mkt:019ef746-1a18-7dd8-b0e7-c49a2d96a2c4",
-      "time": "2026-06-24 09:37:06",
-      "tags": [
-        "MKT News",
-        "Important",
-        "CSI300",
-        "Impact bullish",
-        "SSE Composite"
-      ],
-      "text": "A-share brokerage stocks jumped: Hua'an Securities up >7%, Huachuang Yunxin up >4%, Changjiang Securities up >3%; Guoyuan Securities, Caida Securities and China Merchants Securities also rose."
-    },
-    {
-      "id": "4951470",
-      "time": "2026-06-24 09:36:58",
-      "tags": [
-        "市場"
-      ],
-      "text": "【港股人工智慧股走強 智譜漲近9%】截至發稿，智譜(02513.HK)漲8.66%，深演智慧(02723.HK)漲3.96%，劍橋科技(06166.HK)漲3.20%，瀾起科技(06809.HK)漲1.91%。"
-    },
-    {
-      "id": "mkt:019ef745-d245-7dd8-b0e7-baccef7b5d49",
-      "time": "2026-06-24 09:36:48",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "【13th APEC Tourism Ministers' Meeting opens in Macau】The 13th APEC Tourism Ministers' Meeting runs June 24-28 in Macau as part of China’s APEC host year. Around 300 participants will discuss Asia‑Pacific tourism integration, industry convergence, smart tourism and low‑carbon development."
-    },
-    {
-      "id": "4951469",
-      "time": "2026-06-24 09:36:37",
-      "tags": [
-        "其他"
-      ],
-      "text": "【第十三屆APEC旅遊部長會議今起在澳門舉行】今天（24日）起到28日，第十三屆APEC旅遊部長會議在澳門舉行。今年是APEC“中國年”，這次會議活動也是今年中國擔任APEC東道主期間約300場會議活動的重要組成部分。會議期間，300多名嘉賓將圍繞亞太旅遊一體化、產業融合、智慧旅遊、低碳發展等議題展開交流研討。"
-    },
-    {
-      "id": "4951468",
-      "time": "2026-06-24 09:36:13",
-      "tags": [
-        "國際"
-      ],
-      "text": "韓國總統政策室長：人工智慧驅動的繁榮可能遠超預期。"
-    },
-    {
-      "id": "mkt:019ef745-1143-7dd8-b0e7-b4da202d17bb",
-      "time": "2026-06-24 09:35:59",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "A-share fiber-optic sector active in early trade: Taihe New Materials, Aerospace Electric and Tongding Interconnection hit daily limits; Hongbo New Materials rose over 6%, Guangku Technology and Yongding Co. gained more than 5%."
-    },
-    {
-      "id": "4951467",
-      "time": "2026-06-24 09:35:48",
-      "tags": [
-        "市場"
-      ],
-      "text": "澳大利亞S&P/ASX 200指數在5月份通脹資料公佈後基本保持不變，最新上漲0.2%，報8,802.0點。"
-    },
-    {
-      "id": "4951466",
-      "time": "2026-06-24 09:35:33",
-      "tags": [
-        "市場"
-      ],
-      "text": "【腦機介面板塊盤初拉昇，愛朋醫療漲超10%】腦機介面板塊盤初拉昇，海南海藥2連板，倍益康、愛朋醫療漲超10%，南京熊貓、三博腦科、翔宇醫療、樂普醫療、東方中科跟漲。"
-    },
-    {
-      "id": "te:economy:561305",
-      "time": "2026-06-24 09:35:30",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Australia",
-        "Inflation Rate",
-        "Importance 3"
-      ],
-      "text": "Australia Inflation Rate at 3-Month Low of 4% — The annual inflation rate in Australia unexpectedly slowed to 4.0% in May 2026 from 4.2% in April, coming in below expectations of 4.4% but remaining above the central bank’s 2–3% target range. It was the softest increase since February, as goods inflation moderated to 4.2% from 4.7%, with transport costs rising at a slower pace of 3.6% (vs 6.6% in April) as automotive fuel prices increased more slowly (7.7% vs 18.6%). On a monthly basis, consumer prices fell 0.7%, the first decline since August 2025, compared with market expectations of a 0.3% fall."
-    },
-    {
-      "id": "4951465",
-      "time": "2026-06-24 09:35:15",
-      "tags": [
-        "公司"
-      ],
-      "text": "【藍盾光電、安光環境中標多個環境監測專案】據藍盾光電訊息，近期，藍盾光電及子公司安徽安光環境科技有限公司中標多個環境監測專案，業務涵蓋大氣環境監測、常規空氣自動站、區域噪聲監測網路、地表水水質自動站、監測站房智慧化改造等多元場景，市場版圖輻射華南、華中、西南、西北等地。"
-    },
-    {
-      "id": "mkt:019ef743-a796-7dd8-b0e7-ae785f01ab2c",
-      "time": "2026-06-24 09:34:26",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "China A-share brain–computer interface sector rallied after choppy trading: Aipeng Medical up over 15%; Hainan Haiyao and Chuangxin Medical each hit daily limit; Sanbo Neurology rose over 8%; Nanjing Panda up over 7%; Xiangyu Medical also advanced."
     }
   ]
 }
