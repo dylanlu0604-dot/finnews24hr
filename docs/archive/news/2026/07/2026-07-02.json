@@ -1,7 +1,36 @@
 {
   "date": "2026-07-02",
-  "count": 382,
+  "count": 385,
   "items": [
+    {
+      "id": "4965995",
+      "time": "2026-07-02 06:57:08",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國自願性人工智慧監管規則最快將於下週公佈。"
+    },
+    {
+      "id": "4965994",
+      "time": "2026-07-02 06:54:51",
+      "tags": [
+        "國際"
+      ],
+      "text": "【韓國迎來史上第二位女總理】韓國總統李在明7月1日任命韓聖淑為新任國務總理。韓聯社稱，李在明當天在青瓦臺為她舉行了任命儀式，正式頒發任命狀。由此，韓聖淑成為韓國第50任總理，也是韓國史上第2位女總理。（環球網）"
+    },
+    {
+      "id": "mkt:019f1fe4-1aca-7aab-8c66-e0a6210963e0",
+      "time": "2026-07-02 06:54:30",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "Magnificent 7",
+        "NVDA.O"
+      ],
+      "text": "【US advanced reactor powers NVIDIA chip in first-of-its-kind demo】California-based nuclear startup Valar Atomics used its Ward 250 advanced reactor to power an NVIDIA Blackwell chip in a demonstration at its Utah site on Wednesday, briefly hosting a website. Output was very small, but this is the first time a next-generation reactor in the US has generated power for such equipment. The reactor reached criticality last month, marking the start of a self-sustaining fission reaction. Valar and NVIDIA said they have agreed to jointly explore developing nuclear-powered AI systems. The advanced reactor sector remains early-stage and no advanced reactors are yet commercialized in the US."
+    },
     {
       "id": "4965993",
       "time": "2026-07-02 06:53:20",
