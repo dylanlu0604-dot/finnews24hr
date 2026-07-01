@@ -1,7 +1,49 @@
 {
   "date": "2026-07-01",
-  "count": 3633,
+  "count": 3637,
   "items": [
+    {
+      "id": "mkt:019f1e49-ed3a-7aab-8c61-d84db66ecd62",
+      "time": "2026-07-01 23:26:29",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Wall Street (US)",
+        "Dow",
+        "Impact bullish",
+        "S&P500",
+        "Nasdaq100"
+      ],
+      "text": "U.S. stocks reversed an early dip; Dow rose 0.3%, S&P 500 gained 0.2%, Nasdaq reclaimed earlier losses."
+    },
+    {
+      "id": "4965728",
+      "time": "2026-07-01 23:26:24",
+      "tags": [
+        "市場"
+      ],
+      "text": "巴西雷亞爾兌美元即期匯率下跌 1%  。"
+    },
+    {
+      "id": "4965727",
+      "time": "2026-07-01 23:25:53",
+      "tags": [
+        "國際"
+      ],
+      "text": "Stellantis：上半年美國市場銷售額同比增長5%。"
+    },
+    {
+      "id": "mkt:019f1e47-4019-7aab-8c61-d4bfcd6b641c",
+      "time": "2026-07-01 23:23:33",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "【Kevin Warsh invites former Bank of England governor Mervyn King to co-chair Fed communications working group】Fed Chair Kevin Warsh has invited former Bank of England governor Mervyn King to co-chair a new Federal Reserve communications working group. Warsh, who has made reforming Fed communications a central priority, said he will reassess how officials convey the monetary policy outlook to the public and investors; he did not commit to holding press conferences after every rate decision and has previously encouraged policymakers to reduce the frequency of public speeches. King, who led the Bank of England from 2003–2013 and steered it through the 2008–09 financial crisis, confirmed via his office he will serve as co-chair."
+    },
     {
       "id": "mkt:019f1e45-30db-7aab-8c61-c9e60205b5c8",
       "time": "2026-07-01 23:21:18",

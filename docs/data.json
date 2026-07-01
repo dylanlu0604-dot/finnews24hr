@@ -1,7 +1,49 @@
 {
-  "updated": "2026-07-01 23:23:37",
-  "count": 14262,
+  "updated": "2026-07-01 23:27:29",
+  "count": 14256,
   "items": [
+    {
+      "id": "mkt:019f1e49-ed3a-7aab-8c61-d84db66ecd62",
+      "time": "2026-07-01 23:26:29",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Wall Street (US)",
+        "Dow",
+        "Impact bullish",
+        "S&P500",
+        "Nasdaq100"
+      ],
+      "text": "U.S. stocks reversed an early dip; Dow rose 0.3%, S&P 500 gained 0.2%, Nasdaq reclaimed earlier losses."
+    },
+    {
+      "id": "4965728",
+      "time": "2026-07-01 23:26:24",
+      "tags": [
+        "市場"
+      ],
+      "text": "巴西雷亞爾兌美元即期匯率下跌 1%  。"
+    },
+    {
+      "id": "4965727",
+      "time": "2026-07-01 23:25:53",
+      "tags": [
+        "國際"
+      ],
+      "text": "Stellantis：上半年美國市場銷售額同比增長5%。"
+    },
+    {
+      "id": "mkt:019f1e47-4019-7aab-8c61-d4bfcd6b641c",
+      "time": "2026-07-01 23:23:33",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "【Kevin Warsh invites former Bank of England governor Mervyn King to co-chair Fed communications working group】Fed Chair Kevin Warsh has invited former Bank of England governor Mervyn King to co-chair a new Federal Reserve communications working group. Warsh, who has made reforming Fed communications a central priority, said he will reassess how officials convey the monetary policy outlook to the public and investors; he did not commit to holding press conferences after every rate decision and has previously encouraged policymakers to reduce the frequency of public speeches. King, who led the Bank of England from 2003–2013 and steered it through the 2008–09 financial crisis, confirmed via his office he will serve as co-chair."
+    },
     {
       "id": "mkt:019f1e45-30db-7aab-8c61-c9e60205b5c8",
       "time": "2026-07-01 23:21:18",
@@ -131436,112 +131478,6 @@
         "國際"
       ],
       "text": "印度執法局（ED）突擊搜查拉傑什出口公司（印度大型黃金珠寶上市企業）關聯9處經營及辦公場所。"
-    },
-    {
-      "id": "mkt:019efa3c-c3b4-7dd8-b0fe-6e4c9ae92989",
-      "time": "2026-06-24 23:25:46",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy"
-      ],
-      "text": "【Canada Q1 gasoline consumption hits record】Desrosiers Automotive Consultants said Canadian gasoline consumption reached a record 10.33 mln cubic meters in Q1, up 4.2% YoY. Executive partner Andrew King said consumption was strong early in the year but March prices spiked after the US–Iran conflict; the firm will monitor whether that curbs Q2 demand."
-    },
-    {
-      "id": "4953130",
-      "time": "2026-06-24 23:25:39",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "【王毅同巴基斯坦副總理兼外長達爾通電話】2026年6月24日晚，中共中央政治局委員、外交部長王毅應約同巴基斯坦副總理兼外長達爾通電話。 達爾對中國共產黨即將迎來建黨105週年表示熱烈祝賀，表示巴方欽佩中國共產黨領導中國取得非凡成就，希望同中方加強治黨治國經驗交流。王毅表示，習近平總書記強調，中國共產黨致力於中華民族的偉大復興，百年恰是風華正茂。在習近平黨建思想指引下，中國共產黨帶領中國人民成功走出一條符合自身國情的發展道路。中方願同巴方加強黨際交流，分享治國理政經驗。達爾通報了伊朗與美國開啟新階段談判有關情況，感謝中方始終堅定支援巴方和平斡旋努力。達爾表示，習近平主席就維護和促進中東和平穩定提出的四點主張和巴中兩國就中東海灣地區和平穩定提出的五點倡議為引導局勢降溫發揮了重要作用。巴方期待同中方繼續密切協調配合，共同為實現地區持久和平穩定發揮建設性作用。（外交部）"
-    },
-    {
-      "id": "mkt:019efa3c-2b26-7dd8-b0fe-6404b5f4977d",
-      "time": "2026-06-24 23:25:07",
-      "tags": [
-        "MKT News",
-        "EURUSD",
-        "Impact bullish",
-        "DXY",
-        "Impact bearish"
-      ],
-      "text": "ECB Executive Board member Schnabel said the economy shows relative resilience."
-    },
-    {
-      "id": "mkt:019efa3b-f70e-7dd8-b0fe-5d2a6704d2ae",
-      "time": "2026-06-24 23:24:54",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK",
-        "EURUSD",
-        "Impact bullish",
-        "DXY",
-        "Impact bearish"
-      ],
-      "text": "ECB executive board member Schnabel said the risk of second-round effects is increasing."
-    },
-    {
-      "id": "mkt:019efa3b-c528-7dd8-b0fe-5568292ba739",
-      "time": "2026-06-24 23:24:41",
-      "tags": [
-        "MKT News",
-        "Important",
-        "EURUSD",
-        "Impact bullish",
-        "DXY",
-        "Impact bearish",
-        "DAX"
-      ],
-      "text": "ECB executive board member SCHNABEL said ECB interest rates are not yet restrictive."
-    },
-    {
-      "id": "4953129",
-      "time": "2026-06-24 23:24:15",
-      "tags": [
-        "其他"
-      ],
-      "text": "【土耳其警方打死一名“伊斯蘭國”相關嫌疑人】據土耳其德米羅倫通訊社24日報道，土耳其首都安卡拉發生一起警匪交火事件，一名與極端組織“伊斯蘭國”有關的嫌疑人在交火中被打死，其妻受傷。（新華社）"
-    },
-    {
-      "id": "mkt:019efa3b-56cf-7dd8-b0fe-49bec67c8272",
-      "time": "2026-06-24 23:24:13",
-      "tags": [
-        "MKT News",
-        "EURUSD",
-        "Impact bullish",
-        "DXY",
-        "Impact bearish"
-      ],
-      "text": "ECB executive board member Schnabel said a ceasefire does not mean the ECB can relax its vigilance."
-    },
-    {
-      "id": "mkt:019efa3b-28f9-7dd8-b0fe-45c29711a49f",
-      "time": "2026-06-24 23:24:01",
-      "tags": [
-        "MKT News",
-        "Macro & Rates"
-      ],
-      "text": "ECB executive board member Schnabel said war, inf and growth will determine the timing and magnitude of rate hikes."
-    },
-    {
-      "id": "4953128",
-      "time": "2026-06-24 23:23:53",
-      "tags": [
-        "市場",
-        "央行",
-        "國際"
-      ],
-      "text": "【歐央行施納貝爾：仍需進一步加息以達成2%通脹目標】歐洲央行執行理事會成員施納貝爾表示，歐洲央行或需繼續上調借貸成本，以抑制物價上漲壓力。施納貝爾稱，“後續加息措施的幅度與落地時點，將取決於衝突局勢、經濟走勢以及通脹的演變情況。”施納貝爾表示，儘管遭遇劇烈能源價格衝擊，歐元區經濟仍展現出較強韌性，但能源價格依舊處於高位，央行正密切跟蹤相關走勢。"
-    },
-    {
-      "id": "mkt:019efa3a-e79b-7dd8-b0fe-3fa6a37a42b9",
-      "time": "2026-06-24 23:23:44",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "ECB Executive Board member Schnabel said that, given current conditions, further rate hikes are needed to reach the ECB's 2% inflation target."
     }
   ]
 }
