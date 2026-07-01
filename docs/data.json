@@ -1,7 +1,72 @@
 {
-  "updated": "2026-07-01 23:31:23",
-  "count": 14262,
+  "updated": "2026-07-01 23:35:23",
+  "count": 14259,
   "items": [
+    {
+      "id": "mkt:019f1e51-8b1e-7aab-8c62-133e3c6bd6bc",
+      "time": "2026-07-01 23:34:48",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United States | 4-Month Bill Auction High Yield Rate (Jul.1) | actual 3.795% | previous 3.77%"
+    },
+    {
+      "id": "mkt:019f1e51-5df8-7aab-8c62-0a983f1ef529",
+      "time": "2026-07-01 23:34:36",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【HASSETT urges Fed not to raise rates】Two weeks after the new Fed chair took office, HASSETT, director of the White House National Economic Council, said the White House would oppose rate hikes. The Fed's preferred inflation gauge is above 4% and the chair has said returning it to 2% is non‑negotiable, but HASSETT told Fox Business that using rate increases to curb price pressures would be a mistake. He called the expansion supply‑driven, said the chair has expressed similar views during his campaign, and described hikes in this context as \"a macroeconomic mistake.\" TRUMP has repeatedly criticized former chair Powell for keeping rates higher than he wanted; although the president has said he would give the new chair latitude, HASSETT's remarks signal continued White House interest in Fed policy."
+    },
+    {
+      "id": "4965740",
+      "time": "2026-07-01 23:34:15",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【芝商所小麥價格創5月以來最大漲幅 美國供應或趨緊】芝商所小麥期貨創下5月中旬以來最大漲幅。美國農業部報告種植面積減少後，交易員評估供應趨緊的可能性。該機構週二估計，美國小麥總種植面積為4270萬英畝，較2025年下降6%。這一數字低於分析師預期，對近幾個月來一直受到乾旱和其他不利天氣困擾的這種作物來說，這是最新的產量負面跡象。芝商所小麥週三一度上漲3.2%，創5月18日以來最大漲幅，並觸及一週最高價。玉米和大豆也上漲。"
+    },
+    {
+      "id": "4965739",
+      "time": "2026-07-01 23:32:26",
+      "tags": [
+        "宏觀",
+        "市場",
+        "國際"
+      ],
+      "text": "美國財政部拍賣四個月期國債，得標利率3.795%，投標倍數2.66。"
+    },
+    {
+      "id": "mkt:019f1e4e-dd45-7aab-8c62-0790ef5e3f94",
+      "time": "2026-07-01 23:31:52",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Wall Street (US)",
+        "TM.N",
+        "Impact bullish"
+      ],
+      "text": "Toyota Motor (TM.N) sold 122,063 electric vehicles in the US in June, up 35% YoY."
+    },
+    {
+      "id": "mkt:019f1e4e-6040-7aab-8c61-fbff010c4547",
+      "time": "2026-07-01 23:31:20",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "U.S. Trade Representative Greer said the USMCA has shifted to \"rolling negotiations\" and is not currently being renewed; the agreement still has \"substantive\" issues to resolve, with talks focused on addressing the U.S. trade deficit."
+    },
+    {
+      "id": "4965738",
+      "time": "2026-07-01 23:31:01",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：麥肯錫設立獨立董事長職位，精簡董事會架構。"
+    },
     {
       "id": "4965737",
       "time": "2026-07-01 23:30:34",
@@ -131426,110 +131491,6 @@
         "Importance 2"
       ],
       "text": "Crude Oil Falls Below $70 — Crude oil fell below $70 a barrel on Wednesday, reaching its lowest level since late February, as increasing tanker traffic through the Strait of Hormuz and progress in US-Iran peace talks eased supply fears. Shipowners are confidently transiting the chokepoint with active satellite signals following safety guarantees from the International Maritime Organization. The International Energy Agency estimates the United Arab Emirates is exporting oil at nearly 85% of pre-war levels, selling roughly 60 million barrels from the Persian Gulf recently. Consequently, oil prices have dropped about 40% from their wartime peak. This resumed global flow overshadowed US data from the Energy Information Administration showing US crude inventories plunged to their lowest since 1984, with Cushing stockpiles dipping below operational minimums."
-    },
-    {
-      "id": "mkt:019efa45-7fb2-7dd8-b0fe-a6d154aa2df1",
-      "time": "2026-06-24 23:35:19",
-      "tags": [
-        "MKT News",
-        "Important",
-        "WTI",
-        "Impact bearish"
-      ],
-      "text": "【China's foreign minister held phone call with Pakistan deputy prime minister and foreign minister Durr】China's foreign minister Wang Yi spoke by phone with Pakistan's deputy prime minister and foreign minister Durr on the evening of the 24th; Durr said Iran and the United States have entered a new phase of negotiations. Wang said China will work with parties to support the talks and set three priorities: consolidate a comprehensive ceasefire and prevent fighting from restarting; restore normal navigation through the Strait of Hormuz as soon as possible to protect global supply chains, with arrangements that respect littoral sovereignty and international practice; and support Middle Eastern states in improving ties and exploring a new regional security architecture to reduce major‑power rivalry and strengthen regional strategic autonomy."
-    },
-    {
-      "id": "4953140",
-      "time": "2026-06-24 23:34:39",
-      "tags": [
-        "市場",
-        "焦點",
-        "國際"
-      ],
-      "text": "【歐洲主要股指收盤漲跌不一】歐洲斯托克600指數上漲0.05%，歐元斯托克指數下跌0.27%，歐元區藍籌股指數下跌0.26%。法國CAC 40指數上漲0.55%，西班牙IBEX指數下跌0.44%，英國富時100指數上漲0.25%，德國DAX指數下跌0.71%。"
-    },
-    {
-      "id": "mkt:019efa43-bc33-7dd8-b0fe-99f8a29a9298",
-      "time": "2026-06-24 23:33:23",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "Treasury Yields",
-        "DXY",
-        "Impact bearish",
-        "S&P500",
-        "Impact bullish"
-      ],
-      "text": "U.S. 4-month Treasury bill auction as of June 24: percentage allocated at the stop-out rate 11.15%, prior 11.86%."
-    },
-    {
-      "id": "4953139",
-      "time": "2026-06-24 23:33:07",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國拍賣17週期國庫券，中標最高利率為3.770%，最高價位配售量佔投標總量的11.15%。"
-    },
-    {
-      "id": "mkt:019efa43-67a4-7dd8-b0fe-97c10ca7e550",
-      "time": "2026-06-24 23:33:01",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "Treasury Yields",
-        "US10Y",
-        "Impact bullish",
-        "DXY"
-      ],
-      "text": "US 4-month Treasury auction on June 24: bid-cover ratio 2.55, prior 2.87."
-    },
-    {
-      "id": "mkt:019efa43-4d6d-7dd8-b0fe-8abdfd1a216a",
-      "time": "2026-06-24 23:32:55",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "Treasury Yields",
-        "DXY",
-        "Impact bullish",
-        "S&P500",
-        "Impact bearish"
-      ],
-      "text": "US 4-month Treasury auction on June 24: stop-out yield 3.77%, up 10 bps from 3.67% previously."
-    },
-    {
-      "id": "mkt:019efa43-3d72-7dd8-b0fe-821d0e2f9df3",
-      "time": "2026-06-24 23:32:51",
-      "tags": [
-        "MKT News",
-        "Economic Calendar"
-      ],
-      "text": "United States | 4-Month Bill Auction Bid/Cover Ratio (Jun.24) | actual 2.55 | previous 2.87"
-    },
-    {
-      "id": "4953137",
-      "time": "2026-06-24 23:32:46",
-      "tags": [
-        "國際"
-      ],
-      "text": "【烏軍打擊俄羅斯天然氣精煉廠和氦氣廠】烏克蘭武裝部隊總參謀部24日在社交媒體上發文稱，當天凌晨，烏國防軍對俄羅斯奧倫堡州一座天然氣精煉廠和一座氦氣廠實施打擊。烏武裝部隊總參謀部表示，此次行動地點距烏方前線超過1200公里，兩座工廠已起火，受損情況正在核實中。此外，烏軍還打擊了俄羅斯別爾哥羅德州一處無人機倉庫。（新華社）"
-    },
-    {
-      "id": "mkt:019efa43-1c42-7dd8-b0fe-7b4d8b550a28",
-      "time": "2026-06-24 23:32:42",
-      "tags": [
-        "MKT News",
-        "Economic Calendar"
-      ],
-      "text": "United States | 4-Month Bill Auction High Yield Rate (Jun.24) | actual 3.77% | previous 3.67%"
-    },
-    {
-      "id": "4953136",
-      "time": "2026-06-24 23:32:26",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國1年10個月遠期利率協議貼現利差為0.079%。"
     }
   ]
 }

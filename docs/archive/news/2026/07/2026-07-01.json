@@ -1,7 +1,72 @@
 {
   "date": "2026-07-01",
-  "count": 3650,
+  "count": 3657,
   "items": [
+    {
+      "id": "mkt:019f1e51-8b1e-7aab-8c62-133e3c6bd6bc",
+      "time": "2026-07-01 23:34:48",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United States | 4-Month Bill Auction High Yield Rate (Jul.1) | actual 3.795% | previous 3.77%"
+    },
+    {
+      "id": "mkt:019f1e51-5df8-7aab-8c62-0a983f1ef529",
+      "time": "2026-07-01 23:34:36",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【HASSETT urges Fed not to raise rates】Two weeks after the new Fed chair took office, HASSETT, director of the White House National Economic Council, said the White House would oppose rate hikes. The Fed's preferred inflation gauge is above 4% and the chair has said returning it to 2% is non‑negotiable, but HASSETT told Fox Business that using rate increases to curb price pressures would be a mistake. He called the expansion supply‑driven, said the chair has expressed similar views during his campaign, and described hikes in this context as \"a macroeconomic mistake.\" TRUMP has repeatedly criticized former chair Powell for keeping rates higher than he wanted; although the president has said he would give the new chair latitude, HASSETT's remarks signal continued White House interest in Fed policy."
+    },
+    {
+      "id": "4965740",
+      "time": "2026-07-01 23:34:15",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【芝商所小麥價格創5月以來最大漲幅 美國供應或趨緊】芝商所小麥期貨創下5月中旬以來最大漲幅。美國農業部報告種植面積減少後，交易員評估供應趨緊的可能性。該機構週二估計，美國小麥總種植面積為4270萬英畝，較2025年下降6%。這一數字低於分析師預期，對近幾個月來一直受到乾旱和其他不利天氣困擾的這種作物來說，這是最新的產量負面跡象。芝商所小麥週三一度上漲3.2%，創5月18日以來最大漲幅，並觸及一週最高價。玉米和大豆也上漲。"
+    },
+    {
+      "id": "4965739",
+      "time": "2026-07-01 23:32:26",
+      "tags": [
+        "宏觀",
+        "市場",
+        "國際"
+      ],
+      "text": "美國財政部拍賣四個月期國債，得標利率3.795%，投標倍數2.66。"
+    },
+    {
+      "id": "mkt:019f1e4e-dd45-7aab-8c62-0790ef5e3f94",
+      "time": "2026-07-01 23:31:52",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Wall Street (US)",
+        "TM.N",
+        "Impact bullish"
+      ],
+      "text": "Toyota Motor (TM.N) sold 122,063 electric vehicles in the US in June, up 35% YoY."
+    },
+    {
+      "id": "mkt:019f1e4e-6040-7aab-8c61-fbff010c4547",
+      "time": "2026-07-01 23:31:20",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "U.S. Trade Representative Greer said the USMCA has shifted to \"rolling negotiations\" and is not currently being renewed; the agreement still has \"substantive\" issues to resolve, with talks focused on addressing the U.S. trade deficit."
+    },
+    {
+      "id": "4965738",
+      "time": "2026-07-01 23:31:01",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：麥肯錫設立獨立董事長職位，精簡董事會架構。"
+    },
     {
       "id": "4965737",
       "time": "2026-07-01 23:30:34",
