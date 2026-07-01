@@ -1,7 +1,86 @@
 {
-  "updated": "2026-07-01 13:06:32",
-  "count": 13937,
+  "updated": "2026-07-01 13:10:40",
+  "count": 13940,
   "items": [
+    {
+      "id": "te:economy:563265",
+      "time": "2026-07-01 13:09:19",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "India",
+        "Manufacturing PMI",
+        "Importance 1"
+      ],
+      "text": "India Manufacturing Growth Revised Lower — India's HSBC Manufacturing PMI eased to 54.2 in June 2026 from 55.0 in May, revised lower from the preliminary reading of 54.5, signaling the second-weakest improvement in factory activity since mid-2022. Growth in output and new orders slowed to among the weakest rates in four years, while export orders rose at the softest pace since March 2023 amid subdued demand from some European markets. Softer demand also led to slower increases in purchasing activity, employment, and input inventories, while finished goods stocks fell at the fastest pace in six months as firms aligned production with current demand. Cost pressures eased, with input price inflation slowing to a four-month low and output charge inflation easing to a three-month low, reducing the need for aggressive price increases. Meanwhile, supplier delivery times improved only marginally, and business confidence slipped to a five-month low as concerns over demand and market conditions weighed on the outlook."
+    },
+    {
+      "id": "4964250",
+      "time": "2026-07-01 13:08:50",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【日元匯率重新整理近40年來最低水平】今天（7月1日）上午，在東京外匯市場上，日元對美元匯率進一步下跌，一度跌至162.70日元兌換1美元，創下1986年12月以來的新低。日本財務大臣片山皋月近日表示，針對日元貶值問題，政府將在必要時隨時採取適當措施。 有分析指出，由於美國經濟資料強化市場對高利率將長期持續的預期，市場拋售日元操作增多，加上市場擔憂日本高市政府的政策將加劇財政惡化，日元持續承壓。（CCTV國際時訊）"
+    },
+    {
+      "id": "4964249",
+      "time": "2026-07-01 13:08:30",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【染料塗料概念震盪反彈，閏土股份漲停】染料塗料概念震盪反彈，閏土股份漲停，雅運股份、亞邦股份、浙江龍盛、世龍實業、光華股份、保立佳等跟漲。"
+    },
+    {
+      "id": "mkt:019f1c13-b238-7aab-8c4b-dc53f005d7e5",
+      "time": "2026-07-01 13:08:00",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "SZSE Component",
+        "Impact bullish",
+        "CSI300",
+        "SSE Composite"
+      ],
+      "text": "China A-share computing-power leasing sector rallied again in the afternoon; Runjian Co. posted a second consecutive daily limit-up and Zhizhen Technology hit the daily limit. Earlier Langyuan and Feilixin each recorded 20% limit-ups. Guanghuan Xinwang, Zhongfutong and Runze Technology rose more than 10%."
+    },
+    {
+      "id": "mkt:019f1c13-906b-7aab-8c4b-d3a377d4e32e",
+      "time": "2026-07-01 13:07:51",
+      "tags": [
+        "MKT News",
+        "Copper",
+        "Impact bearish"
+      ],
+      "text": "【Economist says Australia’s 30-year housing supercycle may be nearing its end】AMP chief economist Shane Oliver said Australia’s 30-year housing supercycle may be nearing its end. He cited a reversal in mortgage rates after three decades of decline toward a sustained upward trend, housing affordability at historic lows, the removal of most property tax concessions and a political tilt toward tighter immigration as material headwinds for prices. He added that a persistent housing shortage remains: building approvals have risen but remain well below the government’s annual target of 240,000 new homes."
+    },
+    {
+      "id": "mkt:019f1c13-0189-7aab-8c4b-c9e7387f3eb3",
+      "time": "2026-07-01 13:07:15",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "MAERSK-B.CO",
+        "Impact bearish"
+      ],
+      "text": "Maersk said commercial operations at La Guaira port have not yet been authorized to resume."
+    },
+    {
+      "id": "te:economy:563262",
+      "time": "2026-07-01 13:06:29",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Japan",
+        "Consumer Confidence",
+        "Importance 1"
+      ],
+      "text": "Japan Consumer Mood Rises to 4-Month High — Japan's consumer confidence index climbed to 33.8 in June 2026 from 33.6 in May, but remained below market forecasts of 34.0. It was the highest reading since February, with sentiment improving across almost all major categories: overall livelihood (32.0 vs 30.2 in May), employment prospects (38.4 vs 38.3), and willingness to buy durable goods (24.6 vs 24.4), while the income growth indicator was unchanged at 40.3."
+    },
     {
       "id": "mkt:019f1c11-bbe0-7aab-8c4b-c6e36dce64f7",
       "time": "2026-07-01 13:05:51",
@@ -128112,46 +128191,6 @@
         "其他"
       ],
       "text": "【聯合國機構：黎巴嫩南部萬餘棟住宅樓被毀 】聯合國人道主義事務協調廳23日表示，根據一項最新評估報告，黎巴嫩南部超過1.3萬棟住宅樓完全被毀或部分受損，導致迫於戰火逃離的民眾無家可回，這一地區人道主義形勢依然嚴峻。該項評估由聯合國開發計劃署與黎巴嫩國家科學研究委員會共同完成。評估顯示，當地超過11000棟住宅樓完全被毀，另有約2200棟部分受損。"
-    },
-    {
-      "id": "4951775",
-      "time": "2026-06-24 13:09:31",
-      "tags": [
-        "國際"
-      ],
-      "text": "【中國駐泰國使館提醒：謹慎前往泰緬邊境地區】近期有中國公民反映，因曾前往泰國達府（Tak Province）等泰緬邊境地區，在入境泰國時被移民部門列為重點核查物件，甚至被拒絕入境。中國駐泰國使館提醒中國公民充分了解有關風險，謹慎前往達府、湄索等泰緬邊境地區。"
-    },
-    {
-      "id": "mkt:019ef807-4183-7dd8-b0ec-4170f15c6069",
-      "time": "2026-06-24 13:08:05",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "CSI300",
-        "Impact bullish",
-        "SSE Composite",
-        "SZSE Component"
-      ],
-      "text": "China A-share phosphorus chemicals sector rallied in afternoon trade. Xingfa Group hit the daily limit; Yake Technology rose >9%; Ruifeng Advanced Materials and Nanda Optoelectronics climbed >7%; Yuntianhua and Xingfu Electronics gained >5%."
-    },
-    {
-      "id": "mkt:019ef806-f802-7dd8-b0ec-387e40908581",
-      "time": "2026-06-24 13:07:46",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "【SoftBank's Masayoshi Son calls labeling AI a bubble 'desecration'】SoftBank CEO Masayoshi Son told shareholders on Wednesday he will work until 70 to pursue AI ambitions, abandoning an earlier plan to hand over the reins at 60 after saying he had become \"greedy\", and seeking another 10–15 years to chase artificial superintelligence (ASI). He rejected claims that AI is a bubble as \"desecration\", saying current skepticism echoes early doubts about the internet and that AI's potential is only beginning to be realized."
-    },
-    {
-      "id": "4951774",
-      "time": "2026-06-24 13:06:47",
-      "tags": [
-        "其他"
-      ],
-      "text": "北京大學國家發展研究院院長黃益平在接受媒體採訪時表示，2026年“仍有可能降息，但並不確定這一定會發生”。"
     }
   ]
 }

@@ -1,7 +1,86 @@
 {
   "date": "2026-07-01",
-  "count": 1316,
+  "count": 1323,
   "items": [
+    {
+      "id": "te:economy:563265",
+      "time": "2026-07-01 13:09:19",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "India",
+        "Manufacturing PMI",
+        "Importance 1"
+      ],
+      "text": "India Manufacturing Growth Revised Lower — India's HSBC Manufacturing PMI eased to 54.2 in June 2026 from 55.0 in May, revised lower from the preliminary reading of 54.5, signaling the second-weakest improvement in factory activity since mid-2022. Growth in output and new orders slowed to among the weakest rates in four years, while export orders rose at the softest pace since March 2023 amid subdued demand from some European markets. Softer demand also led to slower increases in purchasing activity, employment, and input inventories, while finished goods stocks fell at the fastest pace in six months as firms aligned production with current demand. Cost pressures eased, with input price inflation slowing to a four-month low and output charge inflation easing to a three-month low, reducing the need for aggressive price increases. Meanwhile, supplier delivery times improved only marginally, and business confidence slipped to a five-month low as concerns over demand and market conditions weighed on the outlook."
+    },
+    {
+      "id": "4964250",
+      "time": "2026-07-01 13:08:50",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【日元匯率重新整理近40年來最低水平】今天（7月1日）上午，在東京外匯市場上，日元對美元匯率進一步下跌，一度跌至162.70日元兌換1美元，創下1986年12月以來的新低。日本財務大臣片山皋月近日表示，針對日元貶值問題，政府將在必要時隨時採取適當措施。 有分析指出，由於美國經濟資料強化市場對高利率將長期持續的預期，市場拋售日元操作增多，加上市場擔憂日本高市政府的政策將加劇財政惡化，日元持續承壓。（CCTV國際時訊）"
+    },
+    {
+      "id": "4964249",
+      "time": "2026-07-01 13:08:30",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【染料塗料概念震盪反彈，閏土股份漲停】染料塗料概念震盪反彈，閏土股份漲停，雅運股份、亞邦股份、浙江龍盛、世龍實業、光華股份、保立佳等跟漲。"
+    },
+    {
+      "id": "mkt:019f1c13-b238-7aab-8c4b-dc53f005d7e5",
+      "time": "2026-07-01 13:08:00",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "SZSE Component",
+        "Impact bullish",
+        "CSI300",
+        "SSE Composite"
+      ],
+      "text": "China A-share computing-power leasing sector rallied again in the afternoon; Runjian Co. posted a second consecutive daily limit-up and Zhizhen Technology hit the daily limit. Earlier Langyuan and Feilixin each recorded 20% limit-ups. Guanghuan Xinwang, Zhongfutong and Runze Technology rose more than 10%."
+    },
+    {
+      "id": "mkt:019f1c13-906b-7aab-8c4b-d3a377d4e32e",
+      "time": "2026-07-01 13:07:51",
+      "tags": [
+        "MKT News",
+        "Copper",
+        "Impact bearish"
+      ],
+      "text": "【Economist says Australia’s 30-year housing supercycle may be nearing its end】AMP chief economist Shane Oliver said Australia’s 30-year housing supercycle may be nearing its end. He cited a reversal in mortgage rates after three decades of decline toward a sustained upward trend, housing affordability at historic lows, the removal of most property tax concessions and a political tilt toward tighter immigration as material headwinds for prices. He added that a persistent housing shortage remains: building approvals have risen but remain well below the government’s annual target of 240,000 new homes."
+    },
+    {
+      "id": "mkt:019f1c13-0189-7aab-8c4b-c9e7387f3eb3",
+      "time": "2026-07-01 13:07:15",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "MAERSK-B.CO",
+        "Impact bearish"
+      ],
+      "text": "Maersk said commercial operations at La Guaira port have not yet been authorized to resume."
+    },
+    {
+      "id": "te:economy:563262",
+      "time": "2026-07-01 13:06:29",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Japan",
+        "Consumer Confidence",
+        "Importance 1"
+      ],
+      "text": "Japan Consumer Mood Rises to 4-Month High — Japan's consumer confidence index climbed to 33.8 in June 2026 from 33.6 in May, but remained below market forecasts of 34.0. It was the highest reading since February, with sentiment improving across almost all major categories: overall livelihood (32.0 vs 30.2 in May), employment prospects (38.4 vs 38.3), and willingness to buy durable goods (24.6 vs 24.4), while the income growth indicator was unchanged at 40.3."
+    },
     {
       "id": "mkt:019f1c11-bbe0-7aab-8c4b-c6e36dce64f7",
       "time": "2026-07-01 13:05:51",
