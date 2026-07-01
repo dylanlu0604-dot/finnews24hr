@@ -1,7 +1,53 @@
 {
   "date": "2026-07-01",
-  "count": 1361,
+  "count": 1366,
   "items": [
+    {
+      "id": "4964277",
+      "time": "2026-07-01 13:41:28",
+      "tags": [
+        "國際"
+      ],
+      "text": "烏克蘭國防部長表示，烏克蘭在戰場上擁有6至9個月的\"機會視窗\"以取得對俄羅斯的優勢。"
+    },
+    {
+      "id": "4964275",
+      "time": "2026-07-01 13:41:04",
+      "tags": [
+        "國際"
+      ],
+      "text": "【韓國投資者上半年持續加倉A股】據中證報，2026年上半年，韓國投資者持續加碼配置中國市場。韓國證券存託結算院（KSD）資料顯示，在韓國投資者淨買入金額居前的中國市場標的中，多隻ETF強勢擠進榜單前列，科技、人工智慧、半導體、新能源等主題產品尤為受到追捧。A股市場中，韓國投資者淨買入前20名中，有8只ETF產品，包括通訊ETF華夏、晶片ETF華夏、人工智慧ETF易方達、上證指數ETF富國、雲端計算ETF易方達、科創50ETF華夏、電網裝置ETF華夏、機器人ETF華夏。個股方面，韓國資金重點投向人工智慧、先進製造等成長領域。A股市場中，上半年被韓國資金買入最多的三一重工，獲999.75萬美元淨買入；東山精密、寧德時代緊隨其後，分別獲558.20萬美元、555.24萬美元淨買入；此外，亨通光電、麥格米特、雲南鍺業、長飛光纖等也獲得韓國資金持續增持。"
+    },
+    {
+      "id": "mkt:019f1c30-0337-7aab-8c4c-3a1d5b51607a",
+      "time": "2026-07-01 13:38:56",
+      "tags": [
+        "MKT News",
+        "603986.SS",
+        "Impact bearish"
+      ],
+      "text": "GigaDevice's A‑share turnover reached 30 billion yuan; stock down 4.79%."
+    },
+    {
+      "id": "4964274",
+      "time": "2026-07-01 13:38:40",
+      "tags": [
+        "其他"
+      ],
+      "text": "兆易創新成交額達300億元，現跌4.79%。"
+    },
+    {
+      "id": "te:economy:563278",
+      "time": "2026-07-01 13:38:27",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Indonesia",
+        "Tourist Arrivals",
+        "Importance 1"
+      ],
+      "text": "Indonesia Tourist Arrivals Rise 5.83% YoY — Foreign tourist arrivals to Indonesia increased by 5.83% year-on-year to 1.38 million in April 2026, slowing from a 7.22% rise in the previous month as lingering global economic uncertainties and weaker travel demand from Europe tempered the pace of growth. Most visitors originated from Malaysia (25.04%), China (9.38%), Singapore (8.19%), Japan (19.0%), the Middle East (5.67%), Australia (5.0%), the U.S. (1.68%), and Japan (1.90%). In contrast, arrivals fell from India (-6.85%), and South Korea (-9.04%). Those from Europe declined 5.91%, with notable drops from the UK (-5.94%), France (-7.06%), and Germany (-4.17%). During the first five months of the year, foreign tourist arrivals rose 7.68% year-on-year to 6.07 million, the highest level for the January–May period since 2020."
+    },
     {
       "id": "4964273",
       "time": "2026-07-01 13:37:34",

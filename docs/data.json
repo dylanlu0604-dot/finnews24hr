@@ -1,7 +1,53 @@
 {
-  "updated": "2026-07-01 13:38:35",
-  "count": 13903,
+  "updated": "2026-07-01 13:42:35",
+  "count": 13898,
   "items": [
+    {
+      "id": "4964277",
+      "time": "2026-07-01 13:41:28",
+      "tags": [
+        "國際"
+      ],
+      "text": "烏克蘭國防部長表示，烏克蘭在戰場上擁有6至9個月的\"機會視窗\"以取得對俄羅斯的優勢。"
+    },
+    {
+      "id": "4964275",
+      "time": "2026-07-01 13:41:04",
+      "tags": [
+        "國際"
+      ],
+      "text": "【韓國投資者上半年持續加倉A股】據中證報，2026年上半年，韓國投資者持續加碼配置中國市場。韓國證券存託結算院（KSD）資料顯示，在韓國投資者淨買入金額居前的中國市場標的中，多隻ETF強勢擠進榜單前列，科技、人工智慧、半導體、新能源等主題產品尤為受到追捧。A股市場中，韓國投資者淨買入前20名中，有8只ETF產品，包括通訊ETF華夏、晶片ETF華夏、人工智慧ETF易方達、上證指數ETF富國、雲端計算ETF易方達、科創50ETF華夏、電網裝置ETF華夏、機器人ETF華夏。個股方面，韓國資金重點投向人工智慧、先進製造等成長領域。A股市場中，上半年被韓國資金買入最多的三一重工，獲999.75萬美元淨買入；東山精密、寧德時代緊隨其後，分別獲558.20萬美元、555.24萬美元淨買入；此外，亨通光電、麥格米特、雲南鍺業、長飛光纖等也獲得韓國資金持續增持。"
+    },
+    {
+      "id": "mkt:019f1c30-0337-7aab-8c4c-3a1d5b51607a",
+      "time": "2026-07-01 13:38:56",
+      "tags": [
+        "MKT News",
+        "603986.SS",
+        "Impact bearish"
+      ],
+      "text": "GigaDevice's A‑share turnover reached 30 billion yuan; stock down 4.79%."
+    },
+    {
+      "id": "4964274",
+      "time": "2026-07-01 13:38:40",
+      "tags": [
+        "其他"
+      ],
+      "text": "兆易創新成交額達300億元，現跌4.79%。"
+    },
+    {
+      "id": "te:economy:563278",
+      "time": "2026-07-01 13:38:27",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Indonesia",
+        "Tourist Arrivals",
+        "Importance 1"
+      ],
+      "text": "Indonesia Tourist Arrivals Rise 5.83% YoY — Foreign tourist arrivals to Indonesia increased by 5.83% year-on-year to 1.38 million in April 2026, slowing from a 7.22% rise in the previous month as lingering global economic uncertainties and weaker travel demand from Europe tempered the pace of growth. Most visitors originated from Malaysia (25.04%), China (9.38%), Singapore (8.19%), Japan (19.0%), the Middle East (5.67%), Australia (5.0%), the U.S. (1.68%), and Japan (1.90%). In contrast, arrivals fell from India (-6.85%), and South Korea (-9.04%). Those from Europe declined 5.91%, with notable drops from the UK (-5.94%), France (-7.06%), and Germany (-4.17%). During the first five months of the year, foreign tourist arrivals rose 7.68% year-on-year to 6.07 million, the highest level for the January–May period since 2020."
+    },
     {
       "id": "4964273",
       "time": "2026-07-01 13:37:34",
@@ -127741,104 +127787,6 @@
         "焦點"
       ],
       "text": "南向資金淨買入額達60億港元。"
-    },
-    {
-      "id": "mkt:019ef826-8894-7dd8-b0ed-2e07261b6765",
-      "time": "2026-06-24 13:42:15",
-      "tags": [
-        "MKT News",
-        "ASML.O",
-        "Impact bullish"
-      ],
-      "text": "【ASML and TNO to advance photonic chip mass production】ASML (ASML.O) and the Netherlands Organisation for Applied Scientific Research (TNO) have agreed to jointly develop and commercialize photonic chips. The collaboration centers on a pilot production line under construction at TNO’s High Tech Campus in Eindhoven. ASML will provide manufacturing support in phases, including DUV and i-line lithography equipment. On commissioning the facility will have 6-inch wafer-scale indium phosphide (InP) photonic chip mass-production capability."
-    },
-    {
-      "id": "4951829",
-      "time": "2026-06-24 13:41:43",
-      "tags": [
-        "其他"
-      ],
-      "text": "【阿斯麥與荷蘭應用科學研究組織TNO合作推進光子晶片量產】阿斯麥（ASML）與荷蘭應用科學研究組織（TNO）宣佈達成合作，共同開發並推動光子晶片產業化。雙方合作將圍繞TNO位於荷蘭埃因霍溫高科技園區正在建設的光子晶片試驗生產線展開。ASML將分階段提供包括DUV和I-Line光刻裝置在內的製造技術支援。專案投產後，該工廠將具備6英寸晶圓規模的磷化銦（InP）光子晶片量產能力。"
-    },
-    {
-      "id": "mkt:019ef825-dda7-7dd8-b0ed-27431d6507da",
-      "time": "2026-06-24 13:41:31",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution",
-        "Nikkei 225",
-        "Impact bullish"
-      ],
-      "text": "Japan's finance minister Katayama said Google (GOOG.O) is supplying its latest artificial intelligence technology to three major Japanese banks."
-    },
-    {
-      "id": "4951828",
-      "time": "2026-06-24 13:41:21",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "日本財務大臣片山：谷歌向三家日本大型銀行提供最新人工智慧技術。"
-    },
-    {
-      "id": "mkt:019ef825-6e86-7dd8-b0ed-1bebc9353547",
-      "time": "2026-06-24 13:41:03",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Alphabet",
-        "Market Themes",
-        "Magnificent 7",
-        "GOOG.O"
-      ],
-      "text": "Japan's finance minister KATAYAMA met with Alphabet (GOOG.O) executives to discuss frontier artificial intelligence."
-    },
-    {
-      "id": "4951827",
-      "time": "2026-06-24 13:41:02",
-      "tags": [
-        "公司"
-      ],
-      "text": "【馬雲名下雲鋒基金入股崢研軟體】天眼查App顯示，近日，北京崢研軟體有限責任公司發生工商變更，原股東李嚴峰、杭州金沙江初向量創業投資合夥企業（有限合夥）等退出，新增馬雲名下上海雲鋒新創投資管理有限公司為股東，李嚴峰卸任法定代表人、經理、董事長、財務負責人，陳睿接任法定代表人、經理、財務負責人，張偉接任董事長，同時，註冊資本由約1204.8萬人民幣增至約1626.5萬人民幣。該公司成立於2022年8月，經營範圍包括軟體開發、人工智慧應用軟體開發、資訊系統整合服務等，現由共青城智研投資合夥企業（有限合夥）、共青城效研投資合夥企業（有限合夥）及上述新增股東等共同持股。"
-    },
-    {
-      "id": "4951826",
-      "time": "2026-06-24 13:40:53",
-      "tags": [
-        "國際"
-      ],
-      "text": "日本財務大臣片山：與Alphabet高管就前沿人工智慧舉行會談。"
-    },
-    {
-      "id": "4951825",
-      "time": "2026-06-24 13:40:07",
-      "tags": [
-        "其他"
-      ],
-      "text": "市場訊息：一艘油輪在海灣地區被以基準運費的897%預訂。"
-    },
-    {
-      "id": "mkt:019ef824-5b0b-7dd8-b0ed-13db7f1da286",
-      "time": "2026-06-24 13:39:52",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Greater China",
-        "Hang Seng Index",
-        "Impact bullish"
-      ],
-      "text": "Hong Kong shares extended gains; Hang Seng Tech Index rose more than 3% and the HSI gained over 0.8%. Pharma outsourcing and semiconductor stocks were active throughout the session."
-    },
-    {
-      "id": "4951824",
-      "time": "2026-06-24 13:38:46",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "恒生科技指數漲超3%，現報4531.620點；恒生指數現漲0.845%。"
     }
   ]
 }
