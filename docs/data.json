@@ -1,7 +1,291 @@
 {
-  "updated": "2026-07-01 21:25:19",
-  "count": 14026,
+  "updated": "2026-07-01 21:29:25",
+  "count": 14043,
   "items": [
+    {
+      "id": "mkt:019f1ddd-e7d2-7aab-8c5b-4f3ece26d8ee",
+      "time": "2026-07-01 21:28:29",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "Bank of England Governor Bailey said stronger coordination is needed to address risks arising from AI models."
+    },
+    {
+      "id": "4965430",
+      "time": "2026-07-01 21:28:17",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行行長拉加德：當前經濟並未陷入滯脹。"
+    },
+    {
+      "id": "4965429",
+      "time": "2026-07-01 21:28:11",
+      "tags": [
+        "公司"
+      ],
+      "text": "【寶塔實業：控股股東寧夏電投擬增持1500萬元-3000萬元公司股份】寶塔實業7月2日公告，公司控股股東寧夏電力投資集團有限公司計劃自公告披露之日起6個月內，透過深圳證券交易所交易系統允許的方式（包括但不限於集中競價、大宗交易）增持公司股份，擬增持股份數量不超過公司總股本的0.42%（即不超過475.96萬股），增持金額不低於1500萬元，不超過3000萬元。本次增持不設價格區間。增持資金來源為寧夏電投自有資金或自籌資金。"
+    },
+    {
+      "id": "te:economy:563450",
+      "time": "2026-07-01 21:28:11",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Brazil",
+        "Manufacturing PMI",
+        "Importance 1"
+      ],
+      "text": "Brazil Manufacturing PMI Returns to Growth — The S&P Global Brazil Manufacturing PMI rose to 50.8 in June 2026 from 49.1 in May, signaling a renewed improvement in factory conditions. The rebound was driven by stronger hiring, stock accumulation, and longer supplier delivery times. However, output and new orders remained in contraction territory, indicating that underlying demand stayed weak. The Suppliers’ Delivery Times Index also contributed to the headline increase, although longer delivery times were linked to supply-chain disruptions stemming from the Middle East conflict rather than stronger demand. Contractions in production and total new orders softened from May, but all three broad manufacturing segments still reported declines in output, orders, and external sales. Meanwhile, input costs rose sharply at the end of the second quarter, while output price inflation eased to its weakest pace in three months. Business confidence remained positive but fell to a 14-month low."
+    },
+    {
+      "id": "mkt:019f1ddd-99a7-7aab-8c5b-450a7e17e217",
+      "time": "2026-07-01 21:28:09",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Federal Reserve Chairman Kevin Warsh said the Fed must achieve results on both employment and price stability."
+    },
+    {
+      "id": "4965428",
+      "time": "2026-07-01 21:28:06",
+      "tags": [
+        "其他"
+      ],
+      "text": "英格蘭銀行行長貝利：我們需要加強協調，以應對人工智慧模型帶來的風險。"
+    },
+    {
+      "id": "mkt:019f1ddd-7492-7aab-8c5b-3e4d854455a7",
+      "time": "2026-07-01 21:28:00",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "Fed chair Kevin Warsh said there are significant questions about the timing of artificial intelligence’s impact on employment."
+    },
+    {
+      "id": "4965427",
+      "time": "2026-07-01 21:27:59",
+      "tags": [
+        "其他"
+      ],
+      "text": "沃什：必須同時實現充分就業與物價穩定兩大目標。"
+    },
+    {
+      "id": "4965426",
+      "time": "2026-07-01 21:27:47",
+      "tags": [
+        "其他"
+      ],
+      "text": "沃什：人工智慧對就業產生影響的時點存在重大不確定性。"
+    },
+    {
+      "id": "mkt:019f1ddc-fbd6-7aab-8c5b-35e559442f9e",
+      "time": "2026-07-01 21:27:29",
+      "tags": [
+        "MKT News",
+        "EURUSD",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish",
+        "XAUUSD"
+      ],
+      "text": "【ECB chief LAGARDE says risks to eurozone growth and inflation now more balanced】ECB President LAGARDE said on Wednesday that recent declines in oil prices have made risks to eurozone inflation and economic growth more balanced than a few weeks ago. At its last policy meeting the ECB had flagged downside risks to growth and upside risks to inflation."
+    },
+    {
+      "id": "4965425",
+      "time": "2026-07-01 21:27:28",
+      "tags": [
+        "公司",
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲主席沃什：目前，人工智慧公司正在投資未來，他們的預期是供應端將會擴張。人工智慧模型改進速度的變化率是指數級的。"
+    },
+    {
+      "id": "mkt:019f1ddc-e9fb-7aab-8c5b-2b456eddc385",
+      "time": "2026-07-01 21:27:24",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Federal Reserve Chair Kevin Warsh said the Fed is still in the first or second phase of this transformation."
+    },
+    {
+      "id": "4965424",
+      "time": "2026-07-01 21:27:11",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲沃什：這場變革才剛進行到第一、二個回合。"
+    },
+    {
+      "id": "mkt:019f1ddc-ab67-7aab-8c5b-212f08b59579",
+      "time": "2026-07-01 21:27:08",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Federal Reserve Chair Kevin Warsh said the US is not afraid of productivity-driven economic growth."
+    },
+    {
+      "id": "mkt:019f1ddc-859d-7aab-8c5b-1bf0ad11974b",
+      "time": "2026-07-01 21:26:59",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Fed Chairman Kevin Warsh said AI firms are investing for the future and expect expansion on the supply side."
+    },
+    {
+      "id": "mkt:019f1ddc-570e-7aab-8c5b-175e88f75a99",
+      "time": "2026-07-01 21:26:47",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Fed Chair Kevin Warsh said this is not a zero-sum game."
+    },
+    {
+      "id": "mkt:019f1ddc-4b53-7aab-8c5b-0c90658d8d55",
+      "time": "2026-07-01 21:26:44",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "Nasdaq100",
+        "Impact bullish",
+        "S&P500",
+        "DXY"
+      ],
+      "text": "Fed Chair Kevin Warsh said the United States could be the biggest winner in artificial intelligence."
+    },
+    {
+      "id": "te:markets:563449",
+      "time": "2026-07-01 21:26:39",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "Dollar Index Approaches 15-Month High — The US dollar index rose toward 101.6 on Wednesday, testing its highest in 15 months as the outlook of a hawkish Federal Reserve was combined with weakness in major G10 currencies. A majority of the market continued to expect at least one rate hike by the Fed this year amid evidence of a robust labor market and increasing core inflation. Data aggregated by the ADP indicated that the US private sector added nearly 100,000 jobs in June, slightly under market expectations but firmly above the average this year to maintain leeway for the Fed to restrict monetary policy further. The dollar was also supported by Fed Chair Warsh's campaign to reduce the central bank's balance sheet, limiting the supply of dollars and playing a part in the unwinding of the dollar debasement trade from earlier in the year. Lastly, bets of multiple ECB hikes this year were tempered by soft Eurozone inflation, while a fiscally-dovish Japan pressured the yen."
+    },
+    {
+      "id": "mkt:019f1ddc-1303-7aab-8c5b-07de2861dbb6",
+      "time": "2026-07-01 21:26:29",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Federal Reserve chair Kevin Warsh said the rate of change in AI model improvement is exponential."
+    },
+    {
+      "id": "4965423",
+      "time": "2026-07-01 21:26:20",
+      "tags": [
+        "國際"
+      ],
+      "text": "【畫面公佈！俄國防部：在黑海摧毀烏軍5艘無人艇】據塔斯社等媒體報道，俄羅斯國防部7月1日在社交平臺上發帖稱，俄軍在黑海海域摧毀了烏克蘭軍隊5艘無人艇。俄國防部當天還公佈了上述行動相關畫面。（環球網）"
+    },
+    {
+      "id": "mkt:019f1ddb-bab4-7aab-8c5a-f96da568d2ee",
+      "time": "2026-07-01 21:26:07",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "Bank of England Governor Bailey said he has not yet seen any impact from AI in macroeconomic data."
+    },
+    {
+      "id": "4965422",
+      "time": "2026-07-01 21:25:58",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲沃什：美國並不懼怕由生產率驅動的經濟增長。"
+    },
+    {
+      "id": "4965421",
+      "time": "2026-07-01 21:25:50",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲沃什：這並非零和博弈。"
+    },
+    {
+      "id": "4965420",
+      "time": "2026-07-01 21:25:36",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "印度央行行長桑賈伊·馬爾霍特拉：我非常有信心，印度經濟在可預見的未來將保持高速增長。"
+    },
+    {
+      "id": "4965419",
+      "time": "2026-07-01 21:25:33",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲沃什：美國很可能成為人工智慧領域的大贏家。"
+    },
+    {
+      "id": "4965418",
+      "time": "2026-07-01 21:25:28",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "英國央行貝利談及人工智慧：尚未在整體經濟資料中看到相關影響。"
+    },
+    {
+      "id": "mkt:019f1ddb-0e14-7aab-8c5a-f1298716af9c",
+      "time": "2026-07-01 21:25:22",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Bank of England Governor Bailey said artificial intelligence remains at an experimental stage."
+    },
+    {
+      "id": "4965417",
+      "time": "2026-07-01 21:25:18",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "【沃什：不要指望從美聯儲獲得關於未來利率走向的暗示】美聯儲主席沃什表示，投資者應更多關注經濟資料，以此判斷央行是否會加息。沃什未就美聯儲是否會在7月加息給出任何暗示，並重申了他對“前瞻性指引”的不滿。沃什於今年早些時候獲特朗普提名，並於5月接任美聯儲主席一職。他此前曾在2008-2009年全球金融危機期間於美聯儲任職。在就經濟問題發表公開言論時，沃什不太可能像鮑威爾那樣直言不諱。他曾表示，自己認為美聯儲官員發言過多，反而會讓投資者感到困惑。"
+    },
+    {
+      "id": "mkt:019f1dda-c9da-7aab-8c5a-ed8efc108dd7",
+      "time": "2026-07-01 21:25:05",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Reserve Bank of India governor says inflation is rising but remains below our target."
+    },
+    {
+      "id": "mkt:019f1dda-7bd2-7aab-8c5a-e22f58ba0998",
+      "time": "2026-07-01 21:24:45",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Federal Reserve chair Kevin Warsh said there is not yet sufficient information to determine whether artificial intelligence is inflationary."
+    },
     {
       "id": "4965415",
       "time": "2026-07-01 21:24:31",
@@ -129093,121 +129377,6 @@
         "Brent"
       ],
       "text": "【WTI and Brent intraday losses widen to 4%】WTI crude down 4.00% intraday at $70.66/bbl; Brent crude down 4.00% intraday at $73.66/bbl."
-    },
-    {
-      "id": "4952931",
-      "time": "2026-06-24 21:29:23",
-      "tags": [
-        "其他"
-      ],
-      "text": "瑞士國防部長表示，第二套導彈防禦系統的訂單金額達數十億美元。"
-    },
-    {
-      "id": "4952930",
-      "time": "2026-06-24 21:29:12",
-      "tags": [
-        "公司",
-        "市場",
-        "觀點"
-      ],
-      "text": "【摩根大通策略師上調標普500指數年終目標至7800點】摩根大通策略師上調了標普500指數的年終目標價，指出該指數正逼近他們設定的理想情景。將標普500指數的年終目標從7600點上調至7800點，2026年每股收益(EPS)預期從330美元上調至350美元，“對於明年，我們仍持建設性看法，但預計每股收益為390美元（同比增長15%），這一數字低於當前的共識，反映了AI相關定價權減弱的風險”，以Dubravko Lakos-Bujas為首的策略師表示，他們本應對盈利增長前景持“更為樂觀”的態度，指出今年以來的市場共識盈利增長預期“已被上調至未來兩年平均約20%的水平，這與AI資本支出近乎翻倍的趨勢同步”。儘管Lakos-Bujas提高了他的年終目標價，但他強調，上漲之路“很可能是非線性的，因為市場需要克服各種障礙”，“連續強勁的盈利表現提高了市場在第二季度財報季前的預期門檻，使得企業在盈利和資本支出方面實現大幅超預期的難度增加”。"
-    },
-    {
-      "id": "te:markets:561552",
-      "time": "2026-06-24 21:28:41",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 2"
-      ],
-      "text": "Gold Below $4000 — Gold prices tumbled more than 3% to below $4,000 per ounce on Wednesday, hitting their lowest level since November 2025. The precious metal came under pressure from a stronger US dollar and growing expectations that the Fed will maintain a hawkish stance, with traders increasingly betting on an interest-rate increase later this year. Markets currently assign a roughly 68% probability of a Fed rate hike in September, up from 29% a week ago. Bullion is now down about 5% year-to-date and nearly 20% below its January record high, reached before the outbreak of the conflict involving Iran. Despite heightened geopolitical uncertainty, gold has struggled to retain its traditional safe-haven appeal during the war. A surge in oil prices has fueled inflation concerns, prompting major central banks to adopt a more restrictive monetary policy stance and increasing the opportunity cost of holding non-yielding assets such as gold."
-    },
-    {
-      "id": "4952929",
-      "time": "2026-06-24 21:28:36",
-      "tags": [
-        "其他"
-      ],
-      "text": "世衛組織總幹事譚德塞：埃博拉疫情擴散速度仍持續快於防控響應速度。"
-    },
-    {
-      "id": "4952928",
-      "time": "2026-06-24 21:28:28",
-      "tags": [
-        "國際"
-      ],
-      "text": "俄羅斯副總理下令優先向物流受季節性因素影響的地區供應燃料。"
-    },
-    {
-      "id": "mkt:019ef9d1-45c2-7dd8-b0fa-e945b6a4239a",
-      "time": "2026-06-24 21:28:22",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "PTA2609 futures weakened intraday, down 4.91% to 5,460 yuan; turnover exceeded 12.4 bln yuan. Traders cut positions by about 8,400 lots during the session, leaving open interest slightly lower."
-    },
-    {
-      "id": "4952927",
-      "time": "2026-06-24 21:28:14",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【多家銀行停辦代理貴金屬業務 金價保證金比例高至140%】又一家國有大行宣佈停辦代理貴金屬業務。工商銀行6月24日釋出公告稱，將於一個月後停辦代理上海黃金交易所（下稱“上金所”）個人貴金屬競價交易業務。此前，已有郵儲銀行、平安銀行等宣佈停辦相關業務。 去年以來，銀行在金價劇烈波動背景下頻頻強化風控，代理貴金屬業務“去槓桿”加速，近期已有銀行將保證金比例提升至140%。據第一財經記者瞭解，近年來，各銀行代理上金所貴金屬業務在監管引導下已大幅削減，各行規則調整主要影響的是存量業務客戶。在受訪業內人士看來，未來個人投資者參與貴金屬市場的渠道將更多轉向標準化低槓桿產品。（第一財經）"
-    },
-    {
-      "id": "4952926",
-      "time": "2026-06-24 21:27:54",
-      "tags": [
-        "公司"
-      ],
-      "text": "菲利普斯66執行長表示，煉油與石化業務盈利正面臨更大波動。"
-    },
-    {
-      "id": "te:economy:561551",
-      "time": "2026-06-24 21:27:09",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Belgium",
-        "Business Confidence",
-        "Importance 1"
-      ],
-      "text": "Belgium Business Sentiment Hits 5-Month High — Belgium's business confidence indicator rose by another 0.9 points to -12.4 in June 2026, up from -13.4 in the prior month and compared with analysts' forecasts of -12. It was the best reading since January, with confidence improving particularly in the construction (-4.2 vs -11.1 in May) and trade (-9.3 vs -14.8) sectors. It also increased in business-related services (-7.4 vs -8.8), but continued to deteriorate for manufacturing (-15.7 vs -14.8)."
-    },
-    {
-      "id": "4952925",
-      "time": "2026-06-24 21:27:08",
-      "tags": [
-        "市場"
-      ],
-      "text": "布倫特原油期貨與西德克薩斯中質原油期貨延續跌勢，跌幅超3美元。"
-    },
-    {
-      "id": "4952924",
-      "time": "2026-06-24 21:27:00",
-      "tags": [
-        "市場"
-      ],
-      "text": "布倫特原油日內跌4%，現報73.72美元/桶。"
-    },
-    {
-      "id": "4952923",
-      "time": "2026-06-24 21:26:56",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "PTA連續主力合約日內跌5%，現報5454.00元。"
-    },
-    {
-      "id": "4952922",
-      "time": "2026-06-24 21:26:52",
-      "tags": [
-        "公司"
-      ],
-      "text": "珞石（山東）機器人集團股份有限公司更新聆訊後資料集，意味著該公司港交所IPO透過聆訊。"
     }
   ]
 }
