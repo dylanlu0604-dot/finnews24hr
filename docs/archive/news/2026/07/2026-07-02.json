@@ -1,7 +1,44 @@
 {
   "date": "2026-07-02",
-  "count": 195,
+  "count": 199,
   "items": [
+    {
+      "id": "4965863",
+      "time": "2026-07-02 02:54:43",
+      "tags": [
+        "公司"
+      ],
+      "text": "KNDS 集團表示，待市場行情好轉後將重啟 IPO 流程。"
+    },
+    {
+      "id": "mkt:019f1f07-4d21-7aab-8c65-706dee0b47ec",
+      "time": "2026-07-02 02:53:19",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Mexico's economy minister said reducing reliance on Asian suppliers for computers and electronics is key to the country's economic growth outlook."
+    },
+    {
+      "id": "mkt:019f1f07-4b68-7aab-8c65-6fe73f50af93",
+      "time": "2026-07-02 02:53:19",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Brent",
+        "Impact bearish"
+      ],
+      "text": "Brent crude futures settled at $71.57 a barrel, down $1.38 or 1.89%."
+    },
+    {
+      "id": "4965862",
+      "time": "2026-07-02 02:51:41",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲主席沃什：將選擇美國財長貝森特的幕僚薩曼莎·施瓦布(Samantha Schwab)擔任顧問。"
+    },
     {
       "id": "4965861",
       "time": "2026-07-02 02:50:12",

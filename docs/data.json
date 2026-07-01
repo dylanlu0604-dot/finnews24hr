@@ -1,7 +1,44 @@
 {
-  "updated": "2026-07-02 02:51:38",
-  "count": 14133,
+  "updated": "2026-07-02 02:55:24",
+  "count": 14131,
   "items": [
+    {
+      "id": "4965863",
+      "time": "2026-07-02 02:54:43",
+      "tags": [
+        "公司"
+      ],
+      "text": "KNDS 集團表示，待市場行情好轉後將重啟 IPO 流程。"
+    },
+    {
+      "id": "mkt:019f1f07-4d21-7aab-8c65-706dee0b47ec",
+      "time": "2026-07-02 02:53:19",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Mexico's economy minister said reducing reliance on Asian suppliers for computers and electronics is key to the country's economic growth outlook."
+    },
+    {
+      "id": "mkt:019f1f07-4b68-7aab-8c65-6fe73f50af93",
+      "time": "2026-07-02 02:53:19",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Brent",
+        "Impact bearish"
+      ],
+      "text": "Brent crude futures settled at $71.57 a barrel, down $1.38 or 1.89%."
+    },
+    {
+      "id": "4965862",
+      "time": "2026-07-02 02:51:41",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲主席沃什：將選擇美國財長貝森特的幕僚薩曼莎·施瓦布(Samantha Schwab)擔任顧問。"
+    },
     {
       "id": "4965861",
       "time": "2026-07-02 02:50:12",
@@ -130199,61 +130236,6 @@
         "公司"
       ],
       "text": "瑞典法院再次推遲作出Pricerunner訴谷歌反壟斷案的判決。"
-    },
-    {
-      "id": "te:markets:561637",
-      "time": "2026-06-25 02:54:57",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "commodity",
-        "Importance 0"
-      ],
-      "text": "Brent Crude Oil is down by 5% — Brent Crude Oil decreased 5% to 73.228 USD/Bbl"
-    },
-    {
-      "id": "4953354",
-      "time": "2026-06-25 02:54:55",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國眾議院議長邁克·約翰遜將於明日與特朗普會面。"
-    },
-    {
-      "id": "4953353",
-      "time": "2026-06-25 02:54:33",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "Alphabet股價觸及盤中低點，最新跌幅接近1%，該公司宣佈將Gemini 3.5 Pro的釋出推遲至7月。"
-    },
-    {
-      "id": "4953352",
-      "time": "2026-06-25 02:53:58",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "美國10年期國債收益率下跌10個基點至4.396%。"
-    },
-    {
-      "id": "mkt:019efafb-57c6-7dd8-b102-be9edd81a422",
-      "time": "2026-06-25 02:53:56",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy"
-      ],
-      "text": "Philip, secretary-general of the Gas Exporting Countries Forum (GECF), said that as the Iran war ends, natural gas demand would begin to recover in Q3."
-    },
-    {
-      "id": "4953351",
-      "time": "2026-06-25 02:53:19",
-      "tags": [
-        "國際"
-      ],
-      "text": "天然氣出口國論壇秘書長菲利普·姆謝爾比拉表示，隨著伊朗戰爭結束，天然氣需求將在第三季度開始回升。"
     }
   ]
 }
