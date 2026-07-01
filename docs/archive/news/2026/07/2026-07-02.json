@@ -1,7 +1,97 @@
 {
   "date": "2026-07-02",
-  "count": 10,
+  "count": 20,
   "items": [
+    {
+      "id": "4965774",
+      "time": "2026-07-02 00:08:43",
+      "tags": [
+        "其他"
+      ],
+      "text": "WhatsApp 發言人就使用者名稱機制表態：使用者使用該應用仍需繫結手機號，我們還針對使用者名稱功能搭建了多層反詐防護體系。"
+    },
+    {
+      "id": "4965772",
+      "time": "2026-07-02 00:07:54",
+      "tags": [
+        "其他"
+      ],
+      "text": "WhatsApp 發言人就使用者名稱機制表示：為防範他人仿冒賬號，平臺已鎖定各類知名專屬使用者名稱，僅允許合法持有者認領使用。"
+    },
+    {
+      "id": "mkt:019f1e6f-84f2-7aab-8c62-fdc6c76013a7",
+      "time": "2026-07-02 00:07:32",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish"
+      ],
+      "text": "WTI crude fell below $68/bbl, down 2.72% on the day."
+    },
+    {
+      "id": "mkt:019f1e6f-7349-7aab-8c62-f46ccdcd3ec2",
+      "time": "2026-07-02 00:07:28",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Portuguese Automobile Association (ACAP) said Portugal's June new registrations of battery-electric vehicles rose 63.1% YoY."
+    },
+    {
+      "id": "te:markets:563518",
+      "time": "2026-07-02 00:07:09",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United Kingdom",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The FTSE 100 Index Closes 0.16% Lower — The FTSE 100 Index fell 17 points or 0.16 percent on Wednesday to close at 10480 points. Leading the losses are Associated British Foods (-3.15%), British American Tobacco (-2.91%) and National Grid (-2.89%). Top gainers were Rightmove (5.27%), Babcock International (5.17%) and Frasers Group (4.87%)."
+    },
+    {
+      "id": "mkt:019f1e6e-6dea-7aab-8c62-ee1ce28f0c2f",
+      "time": "2026-07-02 00:06:21",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Russian Ministry of Economic Development: May GDP rose 0.3% YoY."
+    },
+    {
+      "id": "4965771",
+      "time": "2026-07-02 00:06:17",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗伊斯蘭共和國通訊社（ISNA）： 伊朗時隔五個月恢復飛往孟買的航班。"
+    },
+    {
+      "id": "4965770",
+      "time": "2026-07-02 00:05:43",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國副總統萬斯談伊朗：技術談判代表正在交談。"
+    },
+    {
+      "id": "mkt:019f1e6d-d78b-7aab-8c62-e1ad63335210",
+      "time": "2026-07-02 00:05:42",
+      "tags": [
+        "MKT News",
+        "Macro & Rates"
+      ],
+      "text": "Russia Q1 GDP YoY -0.2%, unchanged from prior -0.2%."
+    },
+    {
+      "id": "mkt:019f1e6d-d66a-7aab-8c62-dec3c0e2dc3a",
+      "time": "2026-07-02 00:05:42",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Russian consumer prices rose 0.22% week-on-week and 4.17% year-on-year in the week ending June 29."
+    },
     {
       "id": "te:markets:563516",
       "time": "2026-07-02 00:05:01",
