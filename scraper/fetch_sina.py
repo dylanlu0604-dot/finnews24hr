@@ -44,6 +44,7 @@ BASE_DIR = os.path.dirname(__file__)
 DB_PATH  = os.path.join(BASE_DIR, "news.db")
 NEW_DB_PATH = os.path.join(BASE_DIR, "new.db")
 DOCS_DIR = os.path.join(BASE_DIR, "..", "docs")
+ARCHIVE_DIR = os.path.join(DOCS_DIR, "archive", "news")
 EXPORT_DAYS = 7
 try:
     NEWS_DB_RETENTION_DAYS = max(EXPORT_DAYS, int(float(os.getenv("NEWS_DB_RETENTION_DAYS", "14"))))
@@ -674,34 +675,56 @@ def upsert_items(conn, items: list[dict]) -> int:
     return new_count
 
 
-def seed_news_db_from_export(conn) -> int:
-    data_path = os.path.join(DOCS_DIR, "data.json")
-    if not os.path.exists(data_path):
-        return 0
+def normalize_export_item(item: dict) -> dict | None:
+    if not isinstance(item, dict):
+        return None
+    item_id = str(item.get("id", "")).strip()
+    item_time = str(item.get("time", "")).strip()
+    text = str(item.get("text", "")).strip()
+    tags = item.get("tags", [])
+    if isinstance(tags, str):
+        tags = [tags]
+    if not item_id or not item_time or not text or not isinstance(tags, list):
+        return None
+    return {"id": item_id, "time": item_time, "tags": tags, "text": text}
+
+
+def load_export_items(path: str) -> list[dict]:
+    if not os.path.exists(path):
+        return []
     try:
-        with open(data_path, "r", encoding="utf-8") as f:
+        with open(path, "r", encoding="utf-8") as f:
             payload = json.load(f)
     except Exception as e:
-        print(f"[WARN] docs/data.json 讀取失敗，略過補入 DB：{e}")
-        return 0
+        print(f"[WARN] {os.path.relpath(path, os.path.dirname(DOCS_DIR))} 讀取失敗，略過：{e}")
+        return []
 
     items = []
     for item in payload.get("items", []):
-        if not isinstance(item, dict):
-            continue
-        item_id = str(item.get("id", "")).strip()
-        item_time = str(item.get("time", "")).strip()
-        text = str(item.get("text", "")).strip()
-        tags = item.get("tags", [])
-        if isinstance(tags, str):
-            tags = [tags]
-        if not item_id or not item_time or not text or not isinstance(tags, list):
-            continue
-        items.append({"id": item_id, "time": item_time, "tags": tags, "text": text})
+        normalized = normalize_export_item(item)
+        if normalized:
+            items.append(normalized)
+    return items
+
+
+def archive_path_for_date(date_text: str) -> str:
+    year, month = date_text[:4], date_text[5:7]
+    return os.path.join(ARCHIVE_DIR, year, month, f"{date_text}.json")
+
+
+def archive_dates_to_seed(days: int) -> list[str]:
+    today = datetime.now(TW).date()
+    return [(today - timedelta(days=i)).isoformat() for i in range(max(0, days))]
+
+
+def seed_news_db_from_export(conn) -> int:
+    items = load_export_items(os.path.join(DOCS_DIR, "data.json"))
+    for date_text in archive_dates_to_seed(requested_news_retention_days()):
+        items.extend(load_export_items(archive_path_for_date(date_text)))
 
     imported = upsert_items(conn, items)
     if imported:
-        print(f"[DB] 從 docs/data.json 補入 {imported} 筆既有快訊")
+        print(f"[DB] 從 docs/data.json / archive 補入 {imported} 筆既有快訊")
     return imported
 
 
@@ -718,6 +741,63 @@ def export_news_json(conn) -> tuple[str, int]:
         json.dump({"updated": now_str, "count": len(items), "items": items},
                   f, ensure_ascii=False, indent=2)
     return now_str, len(items)
+
+
+def news_item_date(item: dict) -> str | None:
+    time_text = str(item.get("time", "")).strip()
+    if re.match(r"^\d{4}-\d{2}-\d{2}", time_text):
+        return time_text[:10]
+    return None
+
+
+def sorted_news_items(items: list[dict]) -> list[dict]:
+    return sorted(
+        items,
+        key=lambda item: (str(item.get("time", "")), str(item.get("id", ""))),
+        reverse=True,
+    )
+
+
+def save_json_if_changed(path: str, payload: dict) -> bool:
+    text = json.dumps(payload, ensure_ascii=False, indent=2) + "\n"
+    if os.path.exists(path):
+        try:
+            with open(path, "r", encoding="utf-8") as f:
+                if f.read() == text:
+                    return False
+        except Exception:
+            pass
+    os.makedirs(os.path.dirname(path), exist_ok=True)
+    with open(path, "w", encoding="utf-8") as f:
+        f.write(text)
+    return True
+
+
+def export_daily_news_archives(conn) -> tuple[int, int]:
+    rows = conn.execute(
+        "SELECT id, time, tags, text FROM news ORDER BY time DESC",
+    ).fetchall()
+    grouped: dict[str, dict[str, dict]] = {}
+    for row in rows:
+        item = {"id": row[0], "time": row[1], "tags": json.loads(row[2]), "text": row[3]}
+        date_text = news_item_date(item)
+        if not date_text:
+            continue
+        grouped.setdefault(date_text, {})[item["id"]] = item
+
+    written = 0
+    for date_text, by_id in grouped.items():
+        path = archive_path_for_date(date_text)
+        for item in load_export_items(path):
+            by_id.setdefault(item["id"], item)
+        items = sorted_news_items(list(by_id.values()))
+        payload = {"date": date_text, "count": len(items), "items": items}
+        if save_json_if_changed(path, payload):
+            written += 1
+
+    if grouped:
+        print(f"[ARCHIVE] 每日快訊封存 {len(grouped)} 天，更新 {written} 個檔案")
+    return len(grouped), written
 
 
 def requested_news_retention_days() -> int:
@@ -2253,6 +2333,7 @@ def main():
     update_ai_summaries(conn)
     update_central_bank_summaries(conn)
     maintain_news_db(conn)
+    export_daily_news_archives(conn)
     updated, total = export_news_json(conn)
     conn.close()
     te_summary = "｜".join(f"TE {name} 新增 {count} 筆" for name, count in te_new_counts.items())

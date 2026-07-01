@@ -91,7 +91,7 @@ jobs:
             git pull --ff-only origin main
             python scraper/fetch_sina.py || echo "[WARN] scraper failed"
 
-            git add docs/data.json docs/ai_summaries.json docs/central_bank_summaries.json docs/economic_calendar.json docs/market.json
+            git add docs/data.json docs/ai_summaries.json docs/central_bank_summaries.json docs/economic_calendar.json docs/market.json docs/archive/news
             if git diff --cached --quiet; then
               echo "No changes."
             else
@@ -101,6 +101,7 @@ jobs:
 
               # 同步 docs/ 到公開 repo
               cp docs/index.html docs/data.json docs/ai_summaries.json docs/central_bank_summaries.json docs/economic_calendar.json docs/market.json /tmp/page-repo/
+              cp -R docs/archive /tmp/page-repo/
               git -C /tmp/page-repo add .
               if ! git -C /tmp/page-repo diff --cached --quiet; then
                 git -C /tmp/page-repo commit -m "page: round $i [$(date -u '+%H:%M:%S UTC')]"
