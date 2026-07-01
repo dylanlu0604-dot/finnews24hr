@@ -1,7 +1,124 @@
 {
-  "updated": "2026-07-01 23:27:29",
-  "count": 14256,
+  "updated": "2026-07-01 23:31:23",
+  "count": 14262,
   "items": [
+    {
+      "id": "4965737",
+      "time": "2026-07-01 23:30:34",
+      "tags": [
+        "國際"
+      ],
+      "text": "惠譽評級：預計2026年歐洲結構性融資發行量將進一步增長。"
+    },
+    {
+      "id": "4965736",
+      "time": "2026-07-01 23:30:25",
+      "tags": [
+        "其他"
+      ],
+      "text": "德國DAX 30指數初步收漲0.04%，報25006.30點。法國股指初步收跌0.94%，義大利股指初步收跌0.34%、銀行指數漲0.03%，英國股指初步收跌0.31%。"
+    },
+    {
+      "id": "4965735",
+      "time": "2026-07-01 23:30:23",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國貿易代表格里爾表示，《美墨加協定》將轉為持續性磋商模式，不啟動整體續約談判"
+    },
+    {
+      "id": "4965734",
+      "time": "2026-07-01 23:30:21",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國貿易代表格里爾：《美墨加協定》將轉為持續性磋商模式，不啟動整體續約談判。"
+    },
+    {
+      "id": "mkt:019f1e4d-5876-7aab-8c61-f6191260334f",
+      "time": "2026-07-01 23:30:13",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "【U.S. envoy: Some European allies falling short on NATO defense-spending pledge】U.S. special envoy Matthew Whitaker warned ahead of a summit with President Trump in Ankara that some European NATO members are not meeting defense-spending commitments. Under U.S. pressure, NATO leaders agreed at The Hague last year to raise defense-related spending to 5% of GDP by 2035. Whitaker said Poland, the Nordic countries, the Baltic states and Germany are leading, but several allies are lagging either because current spending is insufficient or because they have no credible path to meet the Hague pledge. He said Trump expects all allies to move immediately toward the 5% target and to act quickly."
+    },
+    {
+      "id": "4965733",
+      "time": "2026-07-01 23:29:38",
+      "tags": [
+        "其他"
+      ],
+      "text": "西班牙首相府強調公私合作伙伴關係的重要性，以及組成聯營體各企業的關鍵作用。"
+    },
+    {
+      "id": "4965732",
+      "time": "2026-07-01 23:29:34",
+      "tags": [
+        "公司"
+      ],
+      "text": "【喜達屋募資102億美元 押注資料中心和住房市場】喜達屋資本集團為一隻基金募集了102億美元，將投資於資料中心、租賃住房及其他商業地產。隨著人工智慧快速發展重塑房地產需求，該公司正加大對相關領域的佈局。該公司董事長Barry Sternlicht在接受採訪時表示，預計最多將把35%的資金投向資料中心。這幾乎是上一隻機會型基金配置比例的兩倍。"
+    },
+    {
+      "id": "4965731",
+      "time": "2026-07-01 23:29:25",
+      "tags": [
+        "其他"
+      ],
+      "text": "XAI：智慧代理按 API 費率計費（當前音訊通話 0.05 美元 / 分鐘），語音音色費用已包含在內，不單獨收取平臺使用費。"
+    },
+    {
+      "id": "4965730",
+      "time": "2026-07-01 23:29:08",
+      "tags": [
+        "其他"
+      ],
+      "text": "XAI：免費分配號碼的語音通話額外收取 0.01 美元 / 分鐘費用。"
+    },
+    {
+      "id": "4965729",
+      "time": "2026-07-01 23:28:43",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗伊斯蘭共和國通訊社（ISNA）： 伊朗代表加里巴巴迪表示，伊朗代表團分別同卡達、巴基斯坦代表團舉行會談，跟進《伊斯蘭堡諒解備忘錄》的落實推進工作。"
+    },
+    {
+      "id": "mkt:019f1e4b-8771-7aab-8c61-ec8fa455084b",
+      "time": "2026-07-01 23:28:14",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Fitch Ratings expects European structured-finance issuance to rise further."
+    },
+    {
+      "id": "mkt:019f1e4a-81d9-7aab-8c61-e7705224de9b",
+      "time": "2026-07-01 23:27:07",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "Impact bearish",
+        "S&P500"
+      ],
+      "text": "【Kevin Warsh: Fed balance-sheet reduction necessary but will not be rushed】Kevin Warsh said the Fed still needs to shrink its large balance sheet, but any major policy move will take time and be fully communicated. Decisions will undergo extensive public discussion and will not be implemented until financial markets fully understand the measures. He noted it took roughly 18 years to build the current balance sheet and that it now has fiscal-like attributes. Warsh said more time is needed to determine the balance-sheet policy path, he remains open-minded and will not pre-judge, and he expects interest-rate policy to remain the Fed’s primary tool."
+    },
+    {
+      "id": "te:economy:563510",
+      "time": "2026-07-01 23:26:55",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Colombia",
+        "Manufacturing PMI",
+        "Importance 1"
+      ],
+      "text": "Colombia Factory Activity Strengthens In June — Colombia’s Davivienda Manufacturing PMI rose to 53.7 in June 2026 from 51.8 in May, signaling the strongest improvement in factory conditions since November 2025. Stronger demand was the main driver, with new orders and total sales expanding at the fastest pace since last November. In response, manufacturers increased output and stepped up input purchases to meet rising production needs. Employment also rose for the third consecutive month, with the pace of hiring reaching a 17-month high. Firms reported growing order books despite passing on higher costs to customers, with output prices rising sharply and at a faster pace than in May. Input cost inflation eased to a three-month low but remained elevated, driven by higher labor, material, oil, and transportation costs. Looking ahead, business optimism improved on expectations of stronger marketing efforts, new product launches, better market conditions after the elections, and the signing of pending contracts."
+    },
     {
       "id": "mkt:019f1e49-ed3a-7aab-8c61-d84db66ecd62",
       "time": "2026-07-01 23:26:29",
@@ -131413,71 +131530,6 @@
         "國際"
       ],
       "text": "美國1年10個月遠期利率協議貼現利差為0.079%。"
-    },
-    {
-      "id": "4953135",
-      "time": "2026-06-24 23:31:22",
-      "tags": [
-        "國際"
-      ],
-      "text": "以色列總理內塔尼亞胡：我面見特朗普總統時對他說“我們要進軍伊朗”。我並未尋求許可，只是告知他我方計劃。"
-    },
-    {
-      "id": "4953134",
-      "time": "2026-06-24 23:30:32",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國國家運輸安全委員會主席：正考慮調查得州特斯拉車禍。"
-    },
-    {
-      "id": "te:economy:561603",
-      "time": "2026-06-24 23:30:18",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Bonds",
-        "Importance 1"
-      ],
-      "text": "Bonds Update: Brazil 10Y Bond Yield Drops by 26 bps — Government bonds yields are lower on Wednesday. Top losers are Brazil 10Y (-26bps), US 10Y (-9.40bps), Germany 10Y (-4.71bps) and Japan 10Y (-0.94bps)."
-    },
-    {
-      "id": "mkt:019efa40-467c-7dd8-b0fe-709c40f2e165",
-      "time": "2026-06-24 23:29:36",
-      "tags": [
-        "MKT News",
-        "WBD.O",
-        "Impact bullish",
-        "PARA.O",
-        "Impact bearish"
-      ],
-      "text": "Sources: Paramount preparing to sell its joint venture with Universal Pictures to complete a deal with Warner Bros. Discovery (WBD.O)."
-    },
-    {
-      "id": "4953133",
-      "time": "2026-06-24 23:29:25",
-      "tags": [
-        "其他"
-      ],
-      "text": "國際奧委會將投入超1億美元設立運動員專項基金，運動員只要參加過夏季或冬季奧運會，均可申請1萬美元補助。"
-    },
-    {
-      "id": "4953132",
-      "time": "2026-06-24 23:28:26",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國法院聽證會訊息：法官稱將阻止美國司法部獲取紐約市醫院中未成年時接受跨性別醫療服務的患者相關記錄。"
-    },
-    {
-      "id": "4953131",
-      "time": "2026-06-24 23:27:48",
-      "tags": [
-        "公司",
-        "市場",
-        "國際"
-      ],
-      "text": "印度執法局（ED）突擊搜查拉傑什出口公司（印度大型黃金珠寶上市企業）關聯9處經營及辦公場所。"
     }
   ]
 }
