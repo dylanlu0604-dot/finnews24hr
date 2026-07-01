@@ -1,7 +1,233 @@
 {
   "date": "2026-07-01",
-  "count": 2853,
+  "count": 2877,
   "items": [
+    {
+      "id": "mkt:019f1db2-d113-7aab-8c58-aa1b4afb45b7",
+      "time": "2026-07-01 20:41:25",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "German outlet Correctiv reports Volkswagen is considering selling its equity stake in a German football club."
+    },
+    {
+      "id": "te:economy:563440",
+      "time": "2026-07-01 20:41:17",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Chile",
+        "Leading Economic Index",
+        "Importance 1"
+      ],
+      "text": "Chile Economic Activity Contracts Again — Chile's IMACEC economic activity index fell 0.9% year-on-year in May 2026, marking the fifth consecutive month of contraction, though less sharply than the 1.2% decline recorded in April. Goods production contracted 4.7%, reflecting a sharp drop in mining output (-11.6%), particularly copper, alongside a 1.7% decline in manufacturing, while production of other goods was unchanged. Meanwhile, services activity grew 1.0%, supported by stronger personal services, especially health and education, which partly offset weaker business and transport services. Trade increased 0.8%, driven mainly by retail and automotive sales. On a seasonally adjusted monthly basis, economic activity edged down 0.2% in May, reserving a 0.1% increase in the previous month."
+    },
+    {
+      "id": "4965311",
+      "time": "2026-07-01 20:41:17",
+      "tags": [
+        "公司"
+      ],
+      "text": "【矩子科技：股東李俊減持致一致行動人合計持股比例降至40%】矩子科技公告稱，2026年6月26日至7月1日，李俊透過集中競價減持245.63萬股，佔總股本0.86%。本次減持後，其與一致行動人楊勇、矩子投資合計持股比例從40.86%降至40%。此前2026年1月12日至2月13日，李俊已減持60萬股，佔總股本0.21%。公司於6月1日披露，李俊計劃6月24日至9月23日合計減持不超400萬股，佔比不超1.41%。本次權益變動不會使公司控股股東及實控人變化，也不影響公司治理及經營。"
+    },
+    {
+      "id": "mkt:019f1db2-69ec-7aab-8c58-a7662848118e",
+      "time": "2026-07-01 20:40:59",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "US President Trump said Pruitt is talented and is only temporarily serving as Director of National Intelligence."
+    },
+    {
+      "id": "mkt:019f1db2-15f9-7aab-8c58-9faee9863c83",
+      "time": "2026-07-01 20:40:37",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "President Trump said Puerte will serve as Director of National Intelligence for one or two months."
+    },
+    {
+      "id": "mkt:019f1db1-d76b-7aab-8c58-93727ce1cae5",
+      "time": "2026-07-01 20:40:21",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "USDJPY",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "【ADP data indicate U.S. labor market has strengthened】ADP reported U.S. private-sector payrolls rose 98,000 in June, following a 122,000 gain in May; Bloomberg economists had expected a 120,000 increase. The print supports a view that, after months of uneven hiring, the labor market is firming — job openings are rising and layoffs remain low. If official government payrolls confirm the trend, it could lift market expectations for additional Fed rate hikes this year to curb inflation. Education and health services accounted for roughly half of the June gain, with trade, transportation and utilities and financial activities comprising much of the remainder; nearly all industries added staff and gains were broad across company sizes and regions."
+    },
+    {
+      "id": "4965309",
+      "time": "2026-07-01 20:40:21",
+      "tags": [
+        "市場"
+      ],
+      "text": "Metac盤前漲超6%。"
+    },
+    {
+      "id": "mkt:019f1db1-b70e-7aab-8c58-8d26699f9d54",
+      "time": "2026-07-01 20:40:13",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "US President Trump said he told Federal Housing Finance Agency Director Pulte he can declassify any material he wishes."
+    },
+    {
+      "id": "4965308",
+      "time": "2026-07-01 20:40:01",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：普爾特將擔任國家情報總監一兩個月。"
+    },
+    {
+      "id": "4965307",
+      "time": "2026-07-01 20:39:56",
+      "tags": [
+        "公司"
+      ],
+      "text": "大眾汽車考慮出售所持德國足球俱樂部股份。"
+    },
+    {
+      "id": "4965306",
+      "time": "2026-07-01 20:39:42",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：普爾特會在那裡待一個月，也許兩個月。"
+    },
+    {
+      "id": "mkt:019f1db1-18fe-7aab-8c58-823925f03399",
+      "time": "2026-07-01 20:39:33",
+      "tags": [
+        "MKT News",
+        "7201.T",
+        "Impact bullish"
+      ],
+      "text": "Nissan CEO says vehicle development cycle shortened by 40% to 30 months."
+    },
+    {
+      "id": "4965305",
+      "time": "2026-07-01 20:39:25",
+      "tags": [
+        "公司"
+      ],
+      "text": "日產CEO埃斯皮諾薩：新車研發週期縮短40%至30個月。"
+    },
+    {
+      "id": "mkt:019f1db0-eab8-7aab-8c58-7fb2173444c5",
+      "time": "2026-07-01 20:39:21",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Amazon",
+        "Microsoft",
+        "Market Themes",
+        "Magnificent 7",
+        "AMZN.O",
+        "Impact bearish",
+        "MSFT.O",
+        "Impact bullish"
+      ],
+      "text": "Amazon (AMZN.O) erased earlier gains and slipped into negative territory in premarket trade; Microsoft (MSFT.O) pulled back, its premarket gain narrowed to 1.3%."
+    },
+    {
+      "id": "4965304",
+      "time": "2026-07-01 20:39:12",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：普爾特很有才華，他只是暫時擔任國家情報總監。"
+    },
+    {
+      "id": "4965303",
+      "time": "2026-07-01 20:39:04",
+      "tags": [
+        "其他"
+      ],
+      "text": "【北京“專精特新”專板企業達1519家 提前完成階段目標且融資超700億元】7月1日，北京“專精特新”專板企業數量突破1500家，累計股權融資金額超700億元，企業融資規模及政策支援方面持續領跑全國。具體來看，截至6月30日，北京“專精特新”專板企業數量已達1519家，提前完成《北京“專精特新”專板建設方案》中專板培育企業1500家的階段目標。其中，創新型中小企業418家，專精特新中小企業727家，專精特新“小巨人”企業218家。據悉，專板企業持續向高精尖產業集聚，近九成屬於新一代資訊科技、軟體和資訊服務、人工智慧、生物醫藥、智慧製造、新能源、材料等前沿領域；在板企業累計股權融資超700億元。（新京報）"
+    },
+    {
+      "id": "4965302",
+      "time": "2026-07-01 20:38:55",
+      "tags": [
+        "其他"
+      ],
+      "text": "【美光與通用汽車簽署長期車載儲存戰略供貨協議】美光科技與通用汽車達成客戶戰略合作協議，為通用汽車整車生產提供記憶體及儲存平臺長期穩定供貨保障。通用汽車將採購低功耗記憶體（LPDRAM）、NOR 快閃記憶體以及 UFS NAND 快閃記憶體產品。美光斥資 20 億美元升級改造弗吉尼亞州馬納薩斯晶圓廠。馬納薩斯工廠已於 2026 年上半年投產。美光將與通用汽車聯合研發適配未來車型需求的新一代記憶體、儲存技術。"
+    },
+    {
+      "id": "mkt:019f1db0-3ed2-7aab-8c58-76154471b9e5",
+      "time": "2026-07-01 20:38:37",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "Nasdaq100",
+        "Impact bullish",
+        "S&P500"
+      ],
+      "text": "US President Trump said the US may hold about 50% of the semiconductor market by the time he leaves office."
+    },
+    {
+      "id": "4965301",
+      "time": "2026-07-01 20:38:24",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "亞馬遜股價回吐此前漲幅轉跌，微軟漲幅收窄。"
+    },
+    {
+      "id": "4965300",
+      "time": "2026-07-01 20:38:13",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "特朗普：到我卸任時，我們可能佔據晶片市場50%的份額。"
+    },
+    {
+      "id": "mkt:019f1daf-ceb1-7aab-8c58-6fa86a27b029",
+      "time": "2026-07-01 20:38:08",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "President Trump said the US is building numerous automotive plants and AI projects."
+    },
+    {
+      "id": "4965299",
+      "time": "2026-07-01 20:38:00",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "【海上通行和黎巴嫩停火是美伊談判的關鍵議題】據半島電視臺，海上通行和黎巴嫩停火是美伊談判的關鍵議題。一位直接瞭解多哈會談情況的訊息人士概述了伊朗目前在與美國的談判中的立場：\n①卡達和巴基斯坦的調解員正在提供技術支援，以達成初步協議，這些協議隨後可提交給兩國決策者。\n②伊朗堅持認為，在願意就其他關鍵問題進行談判之前，諒解備忘錄中的五項關鍵條款必須得到落實。\n③這項臨時協議包括與結束以色列對黎巴嫩的戰爭、促進流離失所者返回家園以及恢復黎巴嫩全境主權相關的承諾。\n④訊息人士稱，伊朗認為以色列透過持續襲擊和試圖佔領黎巴嫩南部戰略要地來破壞該協議。\n⑤德黑蘭正在爭取解凍其被凍結的資產，並表示這些資產必須提供給伊朗央行，以便其進行國際採購。\n⑥在海上問題上，伊朗承諾確保霍爾木茲海峽船隻安全通行，但堅持該海峽仍處於伊朗和阿曼的主權之下。\n⑦德黑蘭方面仍然致力於遵守《不擴散核武器條約》，並繼續與國際原子能機構開展合作。"
+    },
+    {
+      "id": "4965298",
+      "time": "2026-07-01 20:37:48",
+      "tags": [
+        "公司"
+      ],
+      "text": "【Meta 自研雲業務落地，對外售賣閒置 AI 算力與自研大模型】Meta Platforms正推進雲基礎設施業務規劃，計劃對外出售 AI 算力使用權與自研大模型服務，由此開闢全新競爭賽道，與亞馬遜雲科技（AWS）、微軟 Azure、谷歌雲等行業龍頭展開正面競爭。多位不願具名的知情人士透露，Meta 為支撐自身人工智慧戰略，正斥資大量資金擴建資料中心與配套基礎設施；如今公司計劃成立獨立業務板塊，將富餘算力對外出售、創造新增營收，相關細節尚未對外公開。知情人士稱，其中一項落地方案是開放多款搭載於 Meta 自有 AI 基礎設施的大模型，模式對標亞馬遜雲的 Bedrock 模型託管服務。Meta 將自主運營支撐模型執行的資料中心與算力晶片，其中包含自研 Muse Spark 多模態大模型，並向開發者收取呼叫使用費。"
+    },
+    {
+      "id": "4965297",
+      "time": "2026-07-01 20:37:33",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【阿曼被曝推出霍爾木茲海峽收費政策，仿效馬六甲海峽自願模式】多名知情外交官透露，阿曼最近向美國和其他西方盟友提交了一份正式提案。根據該提案，航運公司將需要支付服務費才能使用該海峽。服務費屬“自願付費”，而非“強制性通行費”。（澎湃）"
+    },
     {
       "id": "4965296",
       "time": "2026-07-01 20:37:14",
