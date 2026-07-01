@@ -1,7 +1,269 @@
 {
-  "updated": "2026-07-01 21:09:05",
-  "count": 13982,
+  "updated": "2026-07-01 21:13:08",
+  "count": 13994,
   "items": [
+    {
+      "id": "mkt:019f1dcf-2ac8-7aab-8c59-d96b1bdb8dd3",
+      "time": "2026-07-01 21:12:23",
+      "tags": [
+        "MKT News",
+        "GBPUSD"
+      ],
+      "text": "Bank of England Governor Bailey said the matter will be revisited in July."
+    },
+    {
+      "id": "4965379",
+      "time": "2026-07-01 21:12:20",
+      "tags": [
+        "其他"
+      ],
+      "text": "南非汽車協會：南非6月新車銷量同比增長15.3%，至54,482輛。"
+    },
+    {
+      "id": "mkt:019f1dce-fd0d-7aab-8c59-d71d149634e4",
+      "time": "2026-07-01 21:12:12",
+      "tags": [
+        "MKT News",
+        "Important",
+        "GBPUSD",
+        "Impact bullish"
+      ],
+      "text": "Bank of England governor Bailey said the BoE is not considering rate cuts at present."
+    },
+    {
+      "id": "mkt:019f1dce-d5fb-7aab-8c59-cc77fbd3f469",
+      "time": "2026-07-01 21:12:02",
+      "tags": [
+        "MKT News",
+        "GBPUSD",
+        "Impact bearish",
+        "FTSE100",
+        "Impact mixed"
+      ],
+      "text": "Bank of England Governor Bailey said economic activity and the labour market are slowing and the output gap has widened."
+    },
+    {
+      "id": "4965378",
+      "time": "2026-07-01 21:12:00",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "英國央行行長貝利：我們將在7月重新討論此事。"
+    },
+    {
+      "id": "mkt:019f1dce-9e85-7aab-8c59-c272527b43d9",
+      "time": "2026-07-01 21:11:47",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact mixed",
+        "US10Y",
+        "S&P500"
+      ],
+      "text": "Fed chair Kevin Warsh said there will be intense internal debate at the July FOMC meeting."
+    },
+    {
+      "id": "mkt:019f1dce-6a1e-7aab-8c59-bd9aff8ed9d7",
+      "time": "2026-07-01 21:11:34",
+      "tags": [
+        "MKT News",
+        "GBPUSD",
+        "Impact bearish"
+      ],
+      "text": "Bank of England Governor Bailey said the decision not to hike rates was based on an economic slowdown."
+    },
+    {
+      "id": "4965377",
+      "time": "2026-07-01 21:11:30",
+      "tags": [
+        "其他"
+      ],
+      "text": "英格蘭銀行行長安德魯·貝利：目前降息不在考慮範圍內。"
+    },
+    {
+      "id": "mkt:019f1dce-57db-7aab-8c59-b5a859aa56f2",
+      "time": "2026-07-01 21:11:29",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish",
+        "EURUSD",
+        "Impact bearish"
+      ],
+      "text": "Dollar index (DXY) briefly rose 7 points to 101.56. EUR/USD fell 0.50% intraday to 1.1363."
+    },
+    {
+      "id": "4965376",
+      "time": "2026-07-01 21:11:25",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "英國央行貝利：經濟活動、勞動力市場持續走弱，產出缺口正在擴大。"
+    },
+    {
+      "id": "mkt:019f1dce-38f0-7aab-8c59-a8ea602a16ca",
+      "time": "2026-07-01 21:11:21",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish",
+        "EURUSD",
+        "Impact bearish"
+      ],
+      "text": "DXY edged higher intraday to 101.57; EUR/USD fell 0.50% to 1.1363."
+    },
+    {
+      "id": "4965375",
+      "time": "2026-07-01 21:11:11",
+      "tags": [
+        "其他"
+      ],
+      "text": "英格蘭銀行行長安德魯·貝利：此次不加息的決定是基於經濟走弱作出的判斷。"
+    },
+    {
+      "id": "4965374",
+      "time": "2026-07-01 21:10:43",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "英國央行貝利：英國經濟正在走弱。"
+    },
+    {
+      "id": "mkt:019f1dcd-8c59-7aab-8c59-a54fcaff2208",
+      "time": "2026-07-01 21:10:37",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Europe & UK",
+        "GBPUSD",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "Bank of England Governor Bailey said the economy is slowing and the labour market is weakening."
+    },
+    {
+      "id": "4965373",
+      "time": "2026-07-01 21:10:25",
+      "tags": [
+        "其他"
+      ],
+      "text": "【極兔速遞與寧德時代達成戰略合作】6月30日，極兔速遞與寧德時代在福建寧德簽署戰略合作協議。雙方將秉承“資源互補、技術協同”原則，聚焦“新能源＋物流領域”場景，合力構建綠色供應鏈體系，推動新能源物流裝備的規模化、標準化、智慧化落地，共築物流行業綠色轉型與高質量發展的新正規化。"
+    },
+    {
+      "id": "te:markets:563444",
+      "time": "2026-07-01 21:10:23",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Baltic Dry Index at Near 1-Week High — The Baltic Exchange's dry bulk freight index, which monitors rates for ships carrying dry bulk commodities, advanced for the second session on Wednesday, rising about 2.4% to a near one-week high of 2,562 points. Gains were seen across all vessel segments. The capesize index, which typically transports 150,000-ton cargoes including iron ore and coal, surged 4.1% to 3,692 points, marking the second day of increases; and the panamax index, which tracks vessels carrying around 60,000 to 70,000 tons of coal or grain, rose 1.1% to 2,177 points. Among smaller vessels, the supramax index went up by 0.4% to 1,673 points."
+    },
+    {
+      "id": "em:qqyh_mlc:202607013790510763",
+      "time": "2026-07-01 21:10:21",
+      "tags": [
+        "央行",
+        "美聯儲"
+      ],
+      "text": "【美聯儲主席沃什：不會給出前瞻性指引】美聯儲主席沃什稱，不會給出前瞻性指引，將規劃一條新路線，以便做出更好的決策。"
+    },
+    {
+      "id": "mkt:019f1dcd-0973-7aab-8c59-9f240507e166",
+      "time": "2026-07-01 21:10:04",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact mixed",
+        "US10Y",
+        "S&P500"
+      ],
+      "text": "Fed Chair Kevin Warsh said the Federal Reserve will embark on a new course."
+    },
+    {
+      "id": "4965372",
+      "time": "2026-07-01 21:09:56",
+      "tags": [
+        "央行",
+        "其他",
+        "焦點",
+        "國際"
+      ],
+      "text": "美聯儲沃什：7月聯邦公開市場委員會（FOMC）會議上將出現激烈的內部政策分歧。"
+    },
+    {
+      "id": "4965371",
+      "time": "2026-07-01 21:09:45",
+      "tags": [
+        "市場"
+      ],
+      "text": "德國國債收益率延續跌勢；德國10年期國債收益率上漲5個基點至2.91%。"
+    },
+    {
+      "id": "mkt:019f1dcc-9dd6-7aab-8c59-924635dfe5f7",
+      "time": "2026-07-01 21:09:36",
+      "tags": [
+        "MKT News",
+        "Important",
+        "DXY",
+        "Impact mixed",
+        "US10Y",
+        "S&P500"
+      ],
+      "text": "Federal Reserve Chair Kevin Warsh said the Fed will not provide forward guidance and will set a new policy direction to enable better decision‑making."
+    },
+    {
+      "id": "4965370",
+      "time": "2026-07-01 21:09:26",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲沃什：不會給出前瞻性指引。"
+    },
+    {
+      "id": "4965369",
+      "time": "2026-07-01 21:09:14",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲沃什：我們將制定新路線，以做出更優決策。"
+    },
+    {
+      "id": "4965368",
+      "time": "2026-07-01 21:09:09",
+      "tags": [
+        "央行",
+        "焦點",
+        "國際"
+      ],
+      "text": "沃什：美聯儲將開啟全新政策路線。"
+    },
+    {
+      "id": "mkt:019f1dcb-48f6-7aab-8c59-8fd3ea68f669",
+      "time": "2026-07-01 21:08:09",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "CNBC reports a U.S. House committee says South Korea discriminates against U.S. companies."
+    },
     {
       "id": "4965367",
       "time": "2026-07-01 21:07:11",
@@ -18,6 +280,14 @@
         "公司"
       ],
       "text": "【天際股份：六氟化鎢與公司現有產品技術路線差異較大 暫無相關生產規劃】天際股份7月1日在互動平臺表示，公司核心主業聚焦鋰電材料六氟磷酸鋰的研發、生產，六氟化鎢屬於半導體電子特氣，與公司現有產品賽道、技術路線差異較大，現階段暫無相關生產規劃。"
+    },
+    {
+      "id": "4965365",
+      "time": "2026-07-01 21:06:50",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國眾議院小組委員會稱韓國Coupang存在歧視行為。"
     },
     {
       "id": "mkt:019f1dca-03fe-7aab-8c59-85c5415c7cbf",
@@ -128617,148 +128887,6 @@
         "公司"
       ],
       "text": "Top Ships公司公告：Legio X號油輪已安全駛出霍爾木茲海峽。"
-    },
-    {
-      "id": "4952899",
-      "time": "2026-06-24 21:12:38",
-      "tags": [
-        "其他"
-      ],
-      "text": "【OpenAI攜手博通推出首款定製晶片】OpenAI與博通於週三聯合釋出了雙方合作打造的首款定製晶片，代號“Jalapeño”，標誌著OpenAI正式進軍人工智慧晶片領域。該晶片將由博通製造，用於OpenAI的推理任務。這是OpenAI“構建模型及產品背後完整技術棧”計劃的重要一步。OpenAI總裁格雷格·布羅克曼在宣告中表示：“透過自行設計更多的技術棧，我們能夠以更高的效率提供更多的智慧服務，並持續推動先進AI向更廣泛人群普及。”雙方將這款晶片稱為Intelligence Processor，並稱其為正在構建的平臺上的首款“AI加速器”，旨在“使先進AI更快、更可靠，並讓更多人能夠使用”。該晶片的物理樣品將於週三交付OpenAI。雙方表示，目標是在2026年底前實現Jalapeño晶片的初步部署，並在未來數年逐步擴大規模。"
-    },
-    {
-      "id": "mkt:019ef9c2-d026-7dd8-b0fa-871d84250ae0",
-      "time": "2026-06-24 21:12:34",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "Chip Wars",
-        "AI Revolution",
-        "AVGO.O"
-      ],
-      "text": "【OpenAI and Broadcom unveil first custom chip】OpenAI and Broadcom on Wednesday unveiled a jointly developed custom inference chip codenamed \"Jalapeño\", marking OpenAI's formal entry into AI chip development. Broadcom will manufacture the Intelligence Processor, which both parties call the platform’s first \"AI accelerator\"; a physical sample was delivered Wednesday and initial deployment is targeted by end‑2026 with scale‑up planned over subsequent years. OpenAI president Greg Brockman said designing more of the technology stack will let the company deliver intelligent services more efficiently and broaden access to advanced AI."
-    },
-    {
-      "id": "4952898",
-      "time": "2026-06-24 21:12:17",
-      "tags": [
-        "其他"
-      ],
-      "text": "瑞銀將AMD目標股價從455美元上調至670美元。"
-    },
-    {
-      "id": "4952897",
-      "time": "2026-06-24 21:11:58",
-      "tags": [
-        "市場"
-      ],
-      "text": "紐約期金日內跌4%，現報3983.30美元/盎司。"
-    },
-    {
-      "id": "mkt:019ef9c2-3afe-7dd8-b0fa-7c350a257b6d",
-      "time": "2026-06-24 21:11:56",
-      "tags": [
-        "MKT News",
-        "GOOG.O",
-        "Impact bullish"
-      ],
-      "text": "Google (GOOG.O): Google Wallet extends access to the TSA's contactless identity verification for more travelers."
-    },
-    {
-      "id": "4952896",
-      "time": "2026-06-24 21:11:54",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "現貨黃金失守3970美元/盎司，日內跌3.41%。"
-    },
-    {
-      "id": "4952895",
-      "time": "2026-06-24 21:11:03",
-      "tags": [
-        "公司",
-        "觀點"
-      ],
-      "text": "岸邁生物科技有限公司-B向港交所提交上市申請書，聯席保薦人為中信證券、招銀國際。"
-    },
-    {
-      "id": "te:economy:561544",
-      "time": "2026-06-24 21:10:59",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Chile",
-        "Producer Prices Change",
-        "Importance 1"
-      ],
-      "text": "Chile Producer Prices at 2022-Highs — Chile's producer prices increased 20.5% year-on-year in May of 2026, marking the highest level since July 2022, accelerating from 17.7% in April. Mining prices showed the biggest increase, surging 35%, followed by utilities (5%) and manufacturing (4.8%). On a monthly basis, producer prices increased 2.8%, up from 1.6% in the prior month, and bringing the year-to-date increase to 8.2%."
-    },
-    {
-      "id": "4952894",
-      "time": "2026-06-24 21:10:42",
-      "tags": [
-        "其他"
-      ],
-      "text": "國際奧委會透過修改《奧林匹克憲章》，強化體育運動的政治中立性原則。"
-    },
-    {
-      "id": "mkt:019ef9c0-cf06-7dd8-b0fa-77c5f03147ca",
-      "time": "2026-06-24 21:10:23",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "Treasury Yields",
-        "EURUSD",
-        "Impact bullish",
-        "XAUUSD",
-        "DXY",
-        "Impact bearish"
-      ],
-      "text": "Italy's 10-year government bond yield fell to its lowest since March 12, down 5bps to 3.60%."
-    },
-    {
-      "id": "4952893",
-      "time": "2026-06-24 21:10:02",
-      "tags": [
-        "公司"
-      ],
-      "text": "【*ST宇順：6月26日起撤銷退市風險警示 股票簡稱變更為“宇順電子”】*ST宇順(002289.SZ)公告稱，公司撤銷退市風險警示的申請已獲得深圳證券交易所稽核同意。根據《深圳證券交易所股票上市規則》有關規定，公司股票將於2026年6月25日開市起停牌1天，並於2026年6月26日開市起撤銷退市風險警示並復牌，證券簡稱由“*ST宇順”變更為“宇順電子”，證券程式碼仍為“002289”，股票交易的日漲跌幅限制由“5%”變更為“10%”。"
-    },
-    {
-      "id": "mkt:019ef9c0-6615-7dd8-b0fa-687db4d2c88b",
-      "time": "2026-06-24 21:09:56",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Energy",
-        "Brent",
-        "Impact bearish"
-      ],
-      "text": "Brent near-month spread moved into a futures premium (contango) for the first time since February."
-    },
-    {
-      "id": "4952892",
-      "time": "2026-06-24 21:09:45",
-      "tags": [
-        "市場"
-      ],
-      "text": "義大利10年期國債收益率跌至3月12日以來新低，最新下跌5個基點，報3.60%。"
-    },
-    {
-      "id": "mkt:019ef9bf-be3f-7dd8-b0fa-60f3e954b22a",
-      "time": "2026-06-24 21:09:13",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Wall Street (US)",
-        "Nasdaq100",
-        "Impact mixed",
-        "MU.O",
-        "S&P500"
-      ],
-      "text": "【Analyst: Sharp swings in US equities signal instability】US technology stocks plunged on Tuesday then ticked higher in premarket trading ahead of Micron Technology’s earnings. Michael McCarthy, market analyst at Moomoo Securities Australia, said price action over the past seven trading days is worrying, with rapid moves in both directions signaling instability."
     }
   ]
 }
