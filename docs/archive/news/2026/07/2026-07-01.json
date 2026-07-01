@@ -1,7 +1,81 @@
 {
   "date": "2026-07-01",
-  "count": 3447,
+  "count": 3455,
   "items": [
+    {
+      "id": "4965637",
+      "time": "2026-07-01 22:22:48",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【廣譽遠普藥龜齡集價格上調至645元/盒】公司今日上調核心產品普藥龜齡集（30粒裝）零售價格，調價後單盒零售價為645元，較此前598元的定價上漲約8%。公司相關人士證實本次調價，稱系綜合原材料成本上漲等因素，調整產品建議零售價。"
+    },
+    {
+      "id": "4965636",
+      "time": "2026-07-01 22:21:56",
+      "tags": [
+        "其他"
+      ],
+      "text": "巴西官員：本年度國內生產總值增速預期維持 2.3%，通脹存在上行壓力。"
+    },
+    {
+      "id": "mkt:019f1e0e-4c5e-7aab-8c5f-5c20c32dda9c",
+      "time": "2026-07-01 22:21:21",
+      "tags": [
+        "MKT News",
+        "CNH"
+      ],
+      "text": "【China ministry approves guidance to diversify financing for environmental tech, adopts drinking‑water source standard】China’s Ministry of Ecology and Environment has approved guidance to diversify investment in environmental technology innovation and has adopted new drinking‑water source water quality standards. The guidance calls for accelerating a diversified financing framework—strengthening fiscal guidance, expanding financial product supply and mobilizing social capital—to boost innovation supply and industrialization in the environmental sector. It mandates a full‑chain regulatory framework covering project approval, fund use, process supervision and performance evaluation, and requires more penetrating oversight and dynamic monitoring of innovation funding."
+    },
+    {
+      "id": "te:markets:563482",
+      "time": "2026-07-01 22:20:57",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "Visa Stock Price Hits 24-week High — Visa shares increased to 345.83 USD, the highest since January 2026. Over the past 4 weeks, Visa gained 7.09%, and in the last 12 months, it decreased 2.76%."
+    },
+    {
+      "id": "4965635",
+      "time": "2026-07-01 22:20:19",
+      "tags": [
+        "其他"
+      ],
+      "text": "【生態環境部審議並原則透過《關於推動生態環境領域科技創新多元化投入的指導意見》】生態環境部部長黃潤秋主持召開部常務會議，審議並原則透過《關於推動生態環境領域科技創新多元化投入的指導意見》和《飲用水水源地水環境質量標準》。會議指出，構建生態環境領域科技創新多元化投入機制，是提升科技創新供給能力和產業化水平的有力舉措。要加快構建科技創新多元化投入格局，完善財政引導機制，豐富金融產品供給，帶動社會資源投入，推動創新資源高效配置。要健全覆蓋專案立項、資金使用、過程監管和績效評價的全鏈條監管體系，強化穿透式監管和動態監測，進一步提升科技創新對美麗中國建設的支撐引領作用。"
+    },
+    {
+      "id": "mkt:019f1e0d-2655-7aab-8c5f-5357930e1e4d",
+      "time": "2026-07-01 22:20:05",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI"
+      ],
+      "text": "U.S. EIA weekly crude inventories, Cushing stocks and Strategic Petroleum Reserve data for the week to June 26 are due in 10 minutes."
+    },
+    {
+      "id": "4965634",
+      "time": "2026-07-01 22:20:03",
+      "tags": [
+        "其他"
+      ],
+      "text": "巴西國家石油、天然氣和生物燃料管理局（ANP）資料顯示，巴西5月石油產量達到430萬桶/日，較去年同期增長16.9%。"
+    },
+    {
+      "id": "4965633",
+      "time": "2026-07-01 22:19:55",
+      "tags": [
+        "其他"
+      ],
+      "text": "巴西國家石油、天然氣和生物燃料管理局（ANP）資料顯示，巴西5月天然氣產量達到2.0606億立方米，同比增長19.6%。"
+    },
     {
       "id": "4965632",
       "time": "2026-07-01 22:18:54",
