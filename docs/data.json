@@ -1,7 +1,23 @@
 {
-  "updated": "2026-07-02 05:20:36",
-  "count": 14029,
+  "updated": "2026-07-02 05:24:31",
+  "count": 14031,
   "items": [
+    {
+      "id": "mkt:019f1f90-0610-7aab-8c66-857f1d5f2515",
+      "time": "2026-07-02 05:22:40",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iraqi security sources said a bomb-laden drone struck a camp belonging to an Iranian Kurdish opposition group east of Erbil, Iraq."
+    },
+    {
+      "id": "4965948",
+      "time": "2026-07-02 05:22:34",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊拉克安全訊息人士：載彈無人機襲擊伊拉克埃爾比勒以東的伊朗庫爾德反對派組織營地。"
+    },
     {
       "id": "mkt:019f1f8b-6299-7aab-8c66-7b74afb289dd",
       "time": "2026-07-02 05:17:36",
