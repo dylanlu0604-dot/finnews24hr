@@ -1,7 +1,67 @@
 {
   "date": "2026-07-01",
-  "count": 2907,
+  "count": 2913,
   "items": [
+    {
+      "id": "4965335",
+      "time": "2026-07-01 20:53:56",
+      "tags": [
+        "央行",
+        "市場"
+      ],
+      "text": "哈薩克央行表示，其6月出售了價值3540億堅戈的外匯，以對沖黃金購買；第三季度將出售價值1.1萬億堅戈的外匯。"
+    },
+    {
+      "id": "4965334",
+      "time": "2026-07-01 20:52:09",
+      "tags": [
+        "其他"
+      ],
+      "text": "【Authentic宣佈收購角色IP愛心小熊】7月1日，全球品牌與娛樂平臺Authentic Brands Group宣佈已簽署最終協議，將收購角色IP愛心小熊（Care Bears），旗下兩大業務部門Authentic Studios與Authentic Live將承擔核心職能，透過全新故事、受眾拓展及粉絲體驗，進一步延展Care Bears宇宙。此次收購仍需滿足慣常的交割條件，預計將於2026年第三季度正式完成。"
+    },
+    {
+      "id": "4965333",
+      "time": "2026-07-01 20:51:19",
+      "tags": [
+        "其他"
+      ],
+      "text": "哥倫比亞部長稱哥倫比亞無法依靠舉債為財政預算提供資金。"
+    },
+    {
+      "id": "4965332",
+      "time": "2026-07-01 20:50:49",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "【美聯儲官員集體“靜音”？美銀：溝通策略正經歷靜默轉變】美國銀行表示，美聯儲官員在6月政策會議後的兩週內公開露面次數顯著減少，這可能是主席沃什正在推行更低調溝通策略的早期訊號。美銀策略師指出，自6月FOMC會議以來，包括截至本週末已安排的活動在內，美聯儲官員僅進行了12場演講和採訪。相比之下，自2022年以來，美聯儲會議後同一兩週時間段內的平均露面次數約為23次。這可能表明FOMC參與者正在遵從沃什少發言的意願，但也可能是由於7月4日假期以及美聯儲官員對6月釋出的指引無更多補充。時間將證明這是一個新趨勢還是隻是噪音。"
+    },
+    {
+      "id": "mkt:019f1dbb-4d9b-7aab-8c59-0d705cb35fa6",
+      "time": "2026-07-01 20:50:42",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "S&P500",
+        "Impact mixed"
+      ],
+      "text": "【Kevin Warsh's two-faced strategy: hawkish rhetoric to placate rate-hike camp, delay tactics in practice】Analyst Andrew Sacher said Kevin Warsh's June FOMC debut left markets debating whether he is hawkish or dovish. With the FOMC split on hiking versus holding rates, Warsh's stance is pivotal; the Sintra meeting will be a fresh opportunity to reassess. Sacher views Warsh primarily as a politician who tailors comments to both wings—rhetoric may tilt hawkish, stressing price stability to reassure members favoring hikes as a signal of Fed independence from Trump. His actions, notably creating five working groups to review key Fed issues, have bought time and delayed near-term policy moves."
+    },
+    {
+      "id": "mkt:019f1dba-dc56-7aab-8c59-00f8cf68f6b0",
+      "time": "2026-07-01 20:50:13",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Fed chair Warsh, ECB president Lagarde, Bank of England governor Bailey and Bank of Canada governor Macklem will speak in ten minutes at the ECB's Global Central Banking Forum \"policy panel\"."
+    },
     {
       "id": "mkt:019f1db9-5d8f-7aab-8c58-f97e736af8be",
       "time": "2026-07-01 20:48:35",
