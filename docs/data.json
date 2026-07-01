@@ -1,7 +1,121 @@
 {
-  "updated": "2026-07-01 19:09:40",
-  "count": 13982,
+  "updated": "2026-07-01 19:13:52",
+  "count": 13971,
   "items": [
+    {
+      "id": "te:economy:563420",
+      "time": "2026-07-01 19:12:35",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "Mortgage Applications",
+        "Importance 1"
+      ],
+      "text": "US Mortgage Applications Remain Steady — The volume of mortgage applications in the US were unchanged from the previous week in the last full week of June, according to data compiled by the Mortgage Bankers Association. The stability was aligned with the lack of large changes in mortgage rates in the period, with that on the benchmark fixed 30-year contract easing 2bps to 6.57%. Mortgage rates held despite the pullback in long-term Treasury yields due to retreating energy prices, although hawkish projections from FOMC members tempered any influx into the credit market. Contracts to refinance a mortgage, which are sensitive to short-term changes in interest rates, eased by 0.6%. Meanwhile, applications for a mortgage to buy a home were 0.5% higher."
+    },
+    {
+      "id": "4965085",
+      "time": "2026-07-01 19:12:27",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "【惠康科技：股票交易異常波動 歐洲市場銷售對業績貢獻有限】惠康科技公告稱，公司股票於2026年6月29日、6月30日、7月1日連續三個交易日收盤價格漲幅偏離值累計超20%，屬異常波動。經核實，公司前期資訊無更正補充，經營正常，內外部環境未變，控股股東、實控人無買賣公司股票行為。公司提醒投資者理性看待歐洲高溫帶動清涼家電出口題材，目前歐洲市場銷售佔整體營收比例低，對業績貢獻有限。"
+    },
+    {
+      "id": "te:economy:563419",
+      "time": "2026-07-01 19:12:23",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "Mortgage Rate",
+        "Importance 2"
+      ],
+      "text": "US 30-Year Mortgage Rate Dips for a 2nd Week — The average US 30-year fixed mortgage rate for loans up to $806,500 fell to 6.57% in the week ended June 26, 2026, marking the lowest level in a month and the second straight weekly decline, per the Mortgage Bankers Association. Total mortgage applications held steady after a 1% gain the prior week, with purchase apps up 0.5% and refinance activity down 0.7%."
+    },
+    {
+      "id": "4965084",
+      "time": "2026-07-01 19:12:15",
+      "tags": [
+        "公司"
+      ],
+      "text": "【亞通精工：子公司籤8.60億元服務合同 約佔去年營收46.74%】亞通精工公告稱，2026年6月30日，其全資子公司亞通重灌與中國神華能源股份有限公司神東煤炭分公司簽署輔助運輸專業化服務合同，總金額8.5996957549億元（含稅），服務期限自2026年7月1日至2031年6月30日。合同金額約佔公司2025年度經審計營業收入的46.74%，若順利實施，預計對未來經營有積極影響。不過，各年度收入確認及對2026年業績影響均存在不確定性，且合同履行有無法全部履行或終止風險。"
+    },
+    {
+      "id": "4965083",
+      "time": "2026-07-01 19:11:54",
+      "tags": [
+        "公司"
+      ],
+      "text": "【美利信：向特定物件發行股票申請獲深交所受理】美利信(301307.SZ)公告稱，公司於2026年6月30日收到深交所出具的受理通知，深交所認為公司向特定物件發行股票的申請檔案齊備，決定予以受理。該事項尚需透過深交所稽核及證監會同意註冊後方可實施，存在不確定性。"
+    },
+    {
+      "id": "4965082",
+      "time": "2026-07-01 19:11:20",
+      "tags": [
+        "公司"
+      ],
+      "text": "【嘉友國際：擬1億-2億元回購股份用於維護公司價值及股東權益】嘉友國際公告稱，公司擬使用自有資金以集中競價交易方式回購股份，回購資金總額不低於1億元且不超過2億元，回購價格不超過19.27元/股。若按2億元、19.27元/股測算，預計可回購1037.88萬股，約佔總股本0.76%；若按1億元測算，預計可回購518.94萬股，約佔0.38%。回購期限自董事會審議透過方案之日起3個月內。本次回購用於維護公司價值及股東權益，將在披露回購結果暨股份變動公告12個月後出售，3年內完成出售或登出。"
+    },
+    {
+      "id": "4965081",
+      "time": "2026-07-01 19:11:13",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗副外長會見卡達首相，商討美伊臨時協議落實事宜】伊朗伊斯蘭共和國通訊社週三訊息，伊朗副外長卡齊姆・加里巴巴迪於多哈會見卡達首相兼外交大臣穆罕默德・本・阿卜杜勒拉赫曼・阿勒薩尼，商討美伊臨時協議落實事宜。加里巴巴迪表示，會談重點跟進協議各項條款，並探討加快協議落地的相關方案，其中涵蓋黎巴嫩相關事務。他稱各方已組建專項工作組跟進協議執行、磋商最終協議，但該框架下的談判尚未啟動。加里巴巴迪透露，各方正透過斡旋方持續溝通最終協議談判的時間與地點。"
+    },
+    {
+      "id": "te:markets:563418",
+      "time": "2026-07-01 19:10:51",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "India",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Sensex Finishes Higher — India’s BSE Sensex closed about 0.6% firmer at 76,923 on Wednesday, snapping a two-session losing streak, led by gains in autos following sales numbers from carmakers. Maruti and Mahindra & Mahindra were among the top performers, rising 2.1% and 1.9%, respectively, after reporting solid sales volumes. Financials and fast-moving consumer goods also advanced firmly, outweighing weakness in tech and metal stocks. Eternal, Asian Paints, Hindustan Unilever, Adani Ports, and State Bank of India saw gains between 2% and 5.7%. Conversely, HCL Tech, Tech Mahindra, Tata Consultancy Services, Tata Steel, and Infosys were among the laggards."
+    },
+    {
+      "id": "mkt:019f1d5f-9405-7aab-8c55-ddd3d14a6516",
+      "time": "2026-07-01 19:10:30",
+      "tags": [
+        "MKT News",
+        "UAL.O",
+        "Impact bullish"
+      ],
+      "text": "BOFA GLOBAL RESEARCH raises United Airlines (UAL.O) PT to $150 from $145."
+    },
+    {
+      "id": "4965080",
+      "time": "2026-07-01 19:10:00",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "【歐洲航空公司對增加運力持謹慎態度並非需求疲軟的跡象】美國銀行分析師在一份研究報告中表示，歐洲航空公司對增加運力正變得更加謹慎，包括德國漢莎航空和瑞安航空在內的幾家航空公司削減了夏季航班計劃。美國銀行的分析師補充說，雖然這略微降低了對歐洲整體運力增長的預期，但這些調整似乎是適度的，而不是需求疲軟的跡象。他們補充說，最近幾周短途預訂趨勢有所改善，隨著需求復甦，低成本航空公司有潛力表現得好於目前的預期。他們表示，此外，預訂模式在受到地緣政治不確定性干擾後正恢復正常，這表明在夏季旅遊高峰期到來之際，消費者信心正在逐步改善。漢莎航空和瑞安航空的股價最新分別下跌1.8%和0.8%。"
+    },
+    {
+      "id": "4965079",
+      "time": "2026-07-01 19:09:35",
+      "tags": [
+        "公司"
+      ],
+      "text": "【長城汽車：2026年6月銷量10.81萬臺，同比下降2.36%】長城汽車公告，2026年6月產量11.93萬臺，同比增長9.80%，銷量10.81萬臺，去年同期11.07萬臺，同比下降2.36%；本年累計產量62.59萬臺，同比增長9.57%，累計銷量58.39萬臺，同比增長2.48%。6月海外銷售60168臺，1-6月累計海外銷售29.14萬臺；6月新能源車銷售34659臺，1-6月累計新能源車銷售14.46萬臺。"
+    },
+    {
+      "id": "4965078",
+      "time": "2026-07-01 19:09:28",
+      "tags": [
+        "其他"
+      ],
+      "text": "萬豪：可口可樂成為多個業務板塊的全球飲品合作伙伴。"
+    },
     {
       "id": "mkt:019f1d5e-4381-7aab-8c55-d64136237235",
       "time": "2026-07-01 19:09:04",
@@ -9,6 +123,14 @@
         "MKT News"
       ],
       "text": "White House National Economic Council director Hassett said traffic through the Strait of Hormuz has risen again after some volatility."
+    },
+    {
+      "id": "4965077",
+      "time": "2026-07-01 19:08:58",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國白宮國家經濟委員會主任哈塞特：霍爾木茲海峽航運量在經歷數日短暫受阻後再度回升。"
     },
     {
       "id": "mkt:019f1d5d-ebfa-7aab-8c55-cd6d467b9ac6",
@@ -128561,218 +128683,6 @@
         "Precious Metals"
       ],
       "text": "Spot silver falls more than 2.0% intraday to $60.30/oz."
-    },
-    {
-      "id": "4952624",
-      "time": "2026-06-24 19:13:49",
-      "tags": [
-        "公司"
-      ],
-      "text": "【新城市：望遠科技、遠方實業累計減持公司2.12%股份】新城市公告，持股5%以上股東望遠科技、遠方實業減持計劃時間屆滿。截至2026年6月23日，望遠科技累計減持316.5萬股，佔公司總股本剔除回購專用賬戶後股本的比例為1.58%；遠方實業累計減持108萬股，佔比0.54%。減持方式包括集中競價和大宗交易。減持期間，望遠科技因誤操作構成短線交易，已上繳收益並收到深圳證監局警示函。減持後，望遠科技持股比例降至13.26%，遠方實業持股比例降至10.74%。"
-    },
-    {
-      "id": "4952623",
-      "time": "2026-06-24 19:13:38",
-      "tags": [
-        "公司"
-      ],
-      "text": "【退市太和：第五次提示公司股票退市整理期交易風險】退市太和公告稱，公司股票於2026年6月8日進入退市整理期，預計最後交易日為6月29日。退市整理期為15個交易日，期滿後5個交易日內將被上交所摘牌，終止上市。首個交易日無漲跌幅限制，此後每日10%。期間公司不籌劃或實施重大資產重組，投資者應提前了結相關業務，司法凍結建議提前續凍，提醒投資者審慎投資、注意風險。"
-    },
-    {
-      "id": "mkt:019ef955-dac9-7dd8-b0f6-dcb25a8930aa",
-      "time": "2026-06-24 19:13:33",
-      "tags": [
-        "MKT News",
-        "S&P500",
-        "Impact bullish"
-      ],
-      "text": "JP Morgan raises its S&P 500 year-end target to 7,800 points, saying the outlook is approaching a \"clear-sky\" scenario."
-    },
-    {
-      "id": "4952622",
-      "time": "2026-06-24 19:13:24",
-      "tags": [
-        "國際"
-      ],
-      "text": "【出人意料、原因不明！上任僅18個月，美軍又一名四星上將被爆將提前離職】據英國《金融時報》、美聯社報道，美國陸軍當地時間23日晚證實，美國駐歐洲與非洲陸軍司令、四星上將克里斯托弗·多納休在上任僅18個月後，將被美國防部長赫格塞思提前解除職務。 據報道介紹，多納休曾在伊拉克、敘利亞等地區服役，在美國前總統拜登2021年下令美軍撤離阿富汗後，多納休成為最後一名離開阿富汗的美軍人員。 報道稱，在赫格塞思解僱美國四星上將、陸軍參謀長蘭迪·喬治僅兩個月後，多納休就被迫離職，此舉在美軍軍官中引發不滿。《金融時報》在報道中直言，多納休是在赫格塞思的“迫使”下離職的，此次解職將在美軍內部引發又一次震動。 目前尚不清楚赫格塞思為何要將多納休解職，但赫格塞思一直公開批評拜登政府處理撤軍的方式，並已下令對撤軍背後的情況進行調查。 （環球網）"
-    },
-    {
-      "id": "4952621",
-      "time": "2026-06-24 19:13:03",
-      "tags": [
-        "公司"
-      ],
-      "text": "【金橋資訊：擬認繳出資人民幣1000萬元參與設立嘉興恆致創見創業投資合夥企業】金橋資訊公告，擬認繳出資人民幣1000萬元參與設立嘉興恆致創見創業投資合夥企業，基金募資規模為人民幣1.06億元，公司擔任有限合夥人。"
-    },
-    {
-      "id": "4952620",
-      "time": "2026-06-24 19:13:00",
-      "tags": [
-        "公司"
-      ],
-      "text": "【ST海龍：一致行動人玖融普信擬增持不低於2000萬元公司股份】ST海龍公告，公司第一大股東溫州康南科技有限公司的一致行動人玖融普信（北京）企業管理有限公司計劃自公告披露之日起6個月內，透過深圳證券交易所集中競價交易方式增持公司股份，增持金額不低於人民幣2000萬元，不超過人民幣4000萬元，不設定價格區間。玖融普信目前持有公司股份6200萬股，佔公司總股本7.18%，與康南科技合計持有2億股，佔23.15%。"
-    },
-    {
-      "id": "4952619",
-      "time": "2026-06-24 19:12:57",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【我國加快推進節能降碳 厚植高質量發展的綠色底色】記者日前在調研中瞭解到，各方正在以更大力度推進節能降碳工作，著力開展重點行業節能降碳改造，厚植高質量發展的綠色底色。在位於重慶江津區的重慶樞紐港產業園，華能珞璜電廠透過蒸汽管網將工業蒸汽精準輸送給園區內33家企業。電廠產生的脫硫石膏、粉煤灰等工業固廢，還可被下游企業全額消納，變身為石膏板、加氣磚等綠色建材。\"傳統使用鍋爐的企業依賴天然氣或生物質燃料，每生產1噸蒸汽僅燃氣成本就達240元，還需疊加裝置運維費，而使用電廠蒸汽成本更低、更安全、更環保。\"重慶珞川新型建材有限公司負責人說，園區具有豐富的綠色能源優勢，讓企業安心落戶紮根。節能降碳，產業園區和企業是主力軍。從加強資源要素保障，到完善梯度培育體系，各方創新政策舉措，加快提升產業發展含\"綠\"量。截至目前，我國已經累計培育國家綠色工廠、綠色工業園區、綠色供應鏈管理企業近萬家，規模以上工業單位增加值能耗、水耗不斷降低。（新華社）"
-    },
-    {
-      "id": "4952618",
-      "time": "2026-06-24 19:12:54",
-      "tags": [
-        "公司"
-      ],
-      "text": "【具身智慧公司臨界點完成近10億元融資】具身智慧公司臨界點完成近10億元融資，躋身10億美元獨角獸，本輪投資方包括未來資產、某網際網路大廠、京銘資本等戰略與產業資本聯合領投，東風資產、國信中數、上海電科基金等產業資源方，以及清新資本、凱聯資本、普華資本、天季資本、We Venture、箴言投資、明嘉資本等機構參與投資，高瓴創投、藍馳創投、C資本等老股東持續加註。本輪資金將集中投入三個方向：量產能力的持續擴大、靈巧運算元據飛輪的搭建，以及接觸智慧模型的下一階段研發。"
-    },
-    {
-      "id": "mkt:019ef954-f821-7dd8-b0f6-d4be43723028",
-      "time": "2026-06-24 19:12:35",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Ship-tracking data show at least 35 merchant vessels, mainly dry-bulk carriers, general cargo ships and container vessels, are preparing to transit the Strait of Hormuz."
-    },
-    {
-      "id": "mkt:019ef954-a9c3-7dd8-b0f6-cbaca2e60b2f",
-      "time": "2026-06-24 19:12:15",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Vessel-tracking data show that in the past 12 hours at least two dry-bulk carriers and one cargo ship transited the Strait of Hormuz under a UN mechanism."
-    },
-    {
-      "id": "4952617",
-      "time": "2026-06-24 19:11:55",
-      "tags": [
-        "國際"
-      ],
-      "text": "埃及政府將週日遠端辦公規定延長至7月底。"
-    },
-    {
-      "id": "4952616",
-      "time": "2026-06-24 19:11:50",
-      "tags": [
-        "市場",
-        "觀點"
-      ],
-      "text": "摩根大通將標普500指數年終點位目標上調至7800點，稱前景正逐步接近“晴空”情景。"
-    },
-    {
-      "id": "4952615",
-      "time": "2026-06-24 19:11:32",
-      "tags": [
-        "其他"
-      ],
-      "text": "【武漢啟動10億元AI科創基金】今日，武漢市首支市級人工智慧科創基金——武漢武創未來智慧創業投資基金正式啟動，總規模達10億元。該基金由武創投、武漢基金、湖北省人形機器人母基金共同出資，聚焦人工智慧、人形機器人、具身智慧等前沿領域，重點支援人形機器人整機、高精度感測器、智慧晶片等核心技術研發及產業化專案。"
-    },
-    {
-      "id": "mkt:019ef953-ef29-7dd8-b0f6-c29563608f35",
-      "time": "2026-06-24 19:11:27",
-      "tags": [
-        "MKT News",
-        "Important",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "A UN spokesperson said ships have transited the Strait of Hormuz under a UN shipping agency evacuation plan."
-    },
-    {
-      "id": "4952614",
-      "time": "2026-06-24 19:11:13",
-      "tags": [
-        "其他"
-      ],
-      "text": "聯合國發言人表示，已有船隻根據聯合國航運機構的撤離計劃透過霍爾木茲海峽。"
-    },
-    {
-      "id": "4952613",
-      "time": "2026-06-24 19:11:09",
-      "tags": [
-        "其他"
-      ],
-      "text": "船舶追蹤資料顯示，目前另有至少35艘商船準備霍爾木茲海峽航行，其中以幹散貨船、貨輪和集裝箱船為主。"
-    },
-    {
-      "id": "4952612",
-      "time": "2026-06-24 19:11:06",
-      "tags": [
-        "其他"
-      ],
-      "text": "船舶追蹤資料顯示，過去12小時內，至少兩艘幹散貨船和一艘貨船依照聯合國方案透過了霍爾木茲海峽。"
-    },
-    {
-      "id": "4952611",
-      "time": "2026-06-24 19:11:03",
-      "tags": [
-        "其他"
-      ],
-      "text": "黎巴嫩總理：我方獲悉一套設於瑞士的機制，旨在鞏固並維持停火狀態。"
-    },
-    {
-      "id": "mkt:019ef953-4f74-7dd8-b0f6-bfb34911bba4",
-      "time": "2026-06-24 19:10:47",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "Oman offered temporary shipping routes through the Strait of Hormuz, to be coordinated by the International Maritime Organization, and said, citing freedom of navigation, it will not impose transit fees."
-    },
-    {
-      "id": "4952610",
-      "time": "2026-06-24 19:10:45",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "印度央行：對於面向客戶或外部使用者的生成式人工智慧模型，應當實施額外的網路安全管控措施。"
-    },
-    {
-      "id": "mkt:019ef952-f404-7dd8-b0f6-b52eada8fd0f",
-      "time": "2026-06-24 19:10:23",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "WTI",
-        "DXY"
-      ],
-      "text": "【Israel will not withdraw from southern Lebanon even if US asks, defense minister says】Israeli Defense Minister Katz said Israel will not pull troops from southern Lebanon even if the United States requests it. He warned roughly 200,000 displaced Lebanese would be unable to return home. Katz cited past security-zone incidents — civilians present, roadside bombs and attacks on soldiers — saying Israel will not allow a repeat and will not withdraw."
-    },
-    {
-      "id": "4952609",
-      "time": "2026-06-24 19:10:10",
-      "tags": [
-        "其他"
-      ],
-      "text": "阿曼：已開放霍爾木茲海峽臨時航道通行備選方案。"
-    },
-    {
-      "id": "te:economy:561513",
-      "time": "2026-06-24 19:09:56",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "United States",
-        "Mortgage Rate",
-        "Importance 2"
-      ],
-      "text": "US Mortgage Rates Edge Down — The average interest rate on 30-year fixed-rate mortgages for conforming loan balances of $806,500 or less in the US edged down by 1 basis point to 6.59% in the week ended June 19, 2026, from 6.60% in the previous week, according to the Mortgage Bankers Association’s Weekly Mortgage Applications Survey. Despite the slight decline, borrowing costs remained close to their highest levels since August last year. Meanwhile, total mortgage applications increased 1%, rebounding from a 3.8% decline in the prior week. Refinancing activity rose 3%, while applications for home purchases slipped 0.6%."
-    },
-    {
-      "id": "4952608",
-      "time": "2026-06-24 19:09:48",
-      "tags": [
-        "其他"
-      ],
-      "text": "【重慶市南川區人大常委會原副巡視員鄧昭軍被開除黨籍】經查，鄧昭軍喪失理想信念，背棄初心使命，罔顧中央八項規定精神，違規收受禮品；無視組織原則，不按規定報告個人有關事項，在組織函詢時不如實說明問題；廉潔底線失守，違規從事營利活動，退休後違反從業禁止規定到任職轄區企業兼職取酬；私慾膨脹，將公權力作為謀取私利的工具，利用職務便利為他人在工程承攬、證照辦理、資金撥付等方面謀利，並非法收受鉅額財物。"
     }
   ]
 }

@@ -1,7 +1,121 @@
 {
   "date": "2026-07-01",
-  "count": 2542,
+  "count": 2555,
   "items": [
+    {
+      "id": "te:economy:563420",
+      "time": "2026-07-01 19:12:35",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "Mortgage Applications",
+        "Importance 1"
+      ],
+      "text": "US Mortgage Applications Remain Steady — The volume of mortgage applications in the US were unchanged from the previous week in the last full week of June, according to data compiled by the Mortgage Bankers Association. The stability was aligned with the lack of large changes in mortgage rates in the period, with that on the benchmark fixed 30-year contract easing 2bps to 6.57%. Mortgage rates held despite the pullback in long-term Treasury yields due to retreating energy prices, although hawkish projections from FOMC members tempered any influx into the credit market. Contracts to refinance a mortgage, which are sensitive to short-term changes in interest rates, eased by 0.6%. Meanwhile, applications for a mortgage to buy a home were 0.5% higher."
+    },
+    {
+      "id": "4965085",
+      "time": "2026-07-01 19:12:27",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "【惠康科技：股票交易異常波動 歐洲市場銷售對業績貢獻有限】惠康科技公告稱，公司股票於2026年6月29日、6月30日、7月1日連續三個交易日收盤價格漲幅偏離值累計超20%，屬異常波動。經核實，公司前期資訊無更正補充，經營正常，內外部環境未變，控股股東、實控人無買賣公司股票行為。公司提醒投資者理性看待歐洲高溫帶動清涼家電出口題材，目前歐洲市場銷售佔整體營收比例低，對業績貢獻有限。"
+    },
+    {
+      "id": "te:economy:563419",
+      "time": "2026-07-01 19:12:23",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "Mortgage Rate",
+        "Importance 2"
+      ],
+      "text": "US 30-Year Mortgage Rate Dips for a 2nd Week — The average US 30-year fixed mortgage rate for loans up to $806,500 fell to 6.57% in the week ended June 26, 2026, marking the lowest level in a month and the second straight weekly decline, per the Mortgage Bankers Association. Total mortgage applications held steady after a 1% gain the prior week, with purchase apps up 0.5% and refinance activity down 0.7%."
+    },
+    {
+      "id": "4965084",
+      "time": "2026-07-01 19:12:15",
+      "tags": [
+        "公司"
+      ],
+      "text": "【亞通精工：子公司籤8.60億元服務合同 約佔去年營收46.74%】亞通精工公告稱，2026年6月30日，其全資子公司亞通重灌與中國神華能源股份有限公司神東煤炭分公司簽署輔助運輸專業化服務合同，總金額8.5996957549億元（含稅），服務期限自2026年7月1日至2031年6月30日。合同金額約佔公司2025年度經審計營業收入的46.74%，若順利實施，預計對未來經營有積極影響。不過，各年度收入確認及對2026年業績影響均存在不確定性，且合同履行有無法全部履行或終止風險。"
+    },
+    {
+      "id": "4965083",
+      "time": "2026-07-01 19:11:54",
+      "tags": [
+        "公司"
+      ],
+      "text": "【美利信：向特定物件發行股票申請獲深交所受理】美利信(301307.SZ)公告稱，公司於2026年6月30日收到深交所出具的受理通知，深交所認為公司向特定物件發行股票的申請檔案齊備，決定予以受理。該事項尚需透過深交所稽核及證監會同意註冊後方可實施，存在不確定性。"
+    },
+    {
+      "id": "4965082",
+      "time": "2026-07-01 19:11:20",
+      "tags": [
+        "公司"
+      ],
+      "text": "【嘉友國際：擬1億-2億元回購股份用於維護公司價值及股東權益】嘉友國際公告稱，公司擬使用自有資金以集中競價交易方式回購股份，回購資金總額不低於1億元且不超過2億元，回購價格不超過19.27元/股。若按2億元、19.27元/股測算，預計可回購1037.88萬股，約佔總股本0.76%；若按1億元測算，預計可回購518.94萬股，約佔0.38%。回購期限自董事會審議透過方案之日起3個月內。本次回購用於維護公司價值及股東權益，將在披露回購結果暨股份變動公告12個月後出售，3年內完成出售或登出。"
+    },
+    {
+      "id": "4965081",
+      "time": "2026-07-01 19:11:13",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗副外長會見卡達首相，商討美伊臨時協議落實事宜】伊朗伊斯蘭共和國通訊社週三訊息，伊朗副外長卡齊姆・加里巴巴迪於多哈會見卡達首相兼外交大臣穆罕默德・本・阿卜杜勒拉赫曼・阿勒薩尼，商討美伊臨時協議落實事宜。加里巴巴迪表示，會談重點跟進協議各項條款，並探討加快協議落地的相關方案，其中涵蓋黎巴嫩相關事務。他稱各方已組建專項工作組跟進協議執行、磋商最終協議，但該框架下的談判尚未啟動。加里巴巴迪透露，各方正透過斡旋方持續溝通最終協議談判的時間與地點。"
+    },
+    {
+      "id": "te:markets:563418",
+      "time": "2026-07-01 19:10:51",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "India",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Sensex Finishes Higher — India’s BSE Sensex closed about 0.6% firmer at 76,923 on Wednesday, snapping a two-session losing streak, led by gains in autos following sales numbers from carmakers. Maruti and Mahindra & Mahindra were among the top performers, rising 2.1% and 1.9%, respectively, after reporting solid sales volumes. Financials and fast-moving consumer goods also advanced firmly, outweighing weakness in tech and metal stocks. Eternal, Asian Paints, Hindustan Unilever, Adani Ports, and State Bank of India saw gains between 2% and 5.7%. Conversely, HCL Tech, Tech Mahindra, Tata Consultancy Services, Tata Steel, and Infosys were among the laggards."
+    },
+    {
+      "id": "mkt:019f1d5f-9405-7aab-8c55-ddd3d14a6516",
+      "time": "2026-07-01 19:10:30",
+      "tags": [
+        "MKT News",
+        "UAL.O",
+        "Impact bullish"
+      ],
+      "text": "BOFA GLOBAL RESEARCH raises United Airlines (UAL.O) PT to $150 from $145."
+    },
+    {
+      "id": "4965080",
+      "time": "2026-07-01 19:10:00",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "【歐洲航空公司對增加運力持謹慎態度並非需求疲軟的跡象】美國銀行分析師在一份研究報告中表示，歐洲航空公司對增加運力正變得更加謹慎，包括德國漢莎航空和瑞安航空在內的幾家航空公司削減了夏季航班計劃。美國銀行的分析師補充說，雖然這略微降低了對歐洲整體運力增長的預期，但這些調整似乎是適度的，而不是需求疲軟的跡象。他們補充說，最近幾周短途預訂趨勢有所改善，隨著需求復甦，低成本航空公司有潛力表現得好於目前的預期。他們表示，此外，預訂模式在受到地緣政治不確定性干擾後正恢復正常，這表明在夏季旅遊高峰期到來之際，消費者信心正在逐步改善。漢莎航空和瑞安航空的股價最新分別下跌1.8%和0.8%。"
+    },
+    {
+      "id": "4965079",
+      "time": "2026-07-01 19:09:35",
+      "tags": [
+        "公司"
+      ],
+      "text": "【長城汽車：2026年6月銷量10.81萬臺，同比下降2.36%】長城汽車公告，2026年6月產量11.93萬臺，同比增長9.80%，銷量10.81萬臺，去年同期11.07萬臺，同比下降2.36%；本年累計產量62.59萬臺，同比增長9.57%，累計銷量58.39萬臺，同比增長2.48%。6月海外銷售60168臺，1-6月累計海外銷售29.14萬臺；6月新能源車銷售34659臺，1-6月累計新能源車銷售14.46萬臺。"
+    },
+    {
+      "id": "4965078",
+      "time": "2026-07-01 19:09:28",
+      "tags": [
+        "其他"
+      ],
+      "text": "萬豪：可口可樂成為多個業務板塊的全球飲品合作伙伴。"
+    },
     {
       "id": "mkt:019f1d5e-4381-7aab-8c55-d64136237235",
       "time": "2026-07-01 19:09:04",
@@ -9,6 +123,14 @@
         "MKT News"
       ],
       "text": "White House National Economic Council director Hassett said traffic through the Strait of Hormuz has risen again after some volatility."
+    },
+    {
+      "id": "4965077",
+      "time": "2026-07-01 19:08:58",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國白宮國家經濟委員會主任哈塞特：霍爾木茲海峽航運量在經歷數日短暫受阻後再度回升。"
     },
     {
       "id": "mkt:019f1d5d-ebfa-7aab-8c55-cd6d467b9ac6",
