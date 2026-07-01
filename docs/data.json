@@ -1,7 +1,34 @@
 {
-  "updated": "2026-07-01 12:42:10",
+  "updated": "2026-07-01 12:46:05",
   "count": 13929,
   "items": [
+    {
+      "id": "4964227",
+      "time": "2026-07-01 12:45:14",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "印度BSE SENSEX指數上漲0.52%。"
+    },
+    {
+      "id": "4964226",
+      "time": "2026-07-01 12:43:49",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【蓋洛普：2025年美國人因詐騙損失680億美元 】美國民調公司蓋洛普6月30日釋出的一項調查結果顯示，2025年約一成美國成年人本人或家人遭詐騙，據估算共損失約680億美元，相當於日均損失約1.86億美元。蓋洛普與美國非營利組織“反詐騙聯盟”於今年1月至2月聯合調查5173名美國成年人。6%受訪者說自己2025年曾被詐騙，另有4%說家人遭詐騙。平均每起詐騙案的涉案金額為5578美元。"
+    },
+    {
+      "id": "4964225",
+      "time": "2026-07-01 12:41:55",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "【大和：資本支出料將引領日本經濟增長】大和證券經濟學家Yutaro Suzuki表示，儘管中東地區的不確定性揮之不去，但日本央行短觀調查顯示的日本企業資本支出計劃仍符合典型的歷史趨勢而出現擴張。他說，在國內勞動力嚴重短缺的情況下，受企業維護老化設施和實現運營自動化的強勁需求推動，投資意願依然具有高度韌性。“雖然私人消費依然疲軟，但資本支出可能會成為日本經濟的主要引擎，”Suzuki補充道。該短觀調查顯示，大型企業計劃在本財年將資本支出增加11.5%。"
+    },
     {
       "id": "4964224",
       "time": "2026-07-01 12:41:17",
@@ -128036,31 +128063,6 @@
         "QCOM.O"
       ],
       "text": "【Qualcomm said to be in talks to provide custom chip designs to ByteDance】People familiar with the matter say Qualcomm (QCOM.O) is negotiating with ByteDance to provide custom chip design services; if successful, ByteDance would be an early customer for Qualcomm’s design business. Sources caution talks are ongoing and outcomes are uncertain; no chip design or manufacturing agreement has been confirmed and ByteDance may pursue other partners. Discussions reportedly cover a video processing unit (VPU) design, with a target to begin mass production by year‑end."
-    },
-    {
-      "id": "4951751",
-      "time": "2026-06-24 12:45:29",
-      "tags": [
-        "公司"
-      ],
-      "text": "NTT將發行100億美元的海外債券，這將是今年亞洲公司發行的最大規模的海外債券。"
-    },
-    {
-      "id": "4951750",
-      "time": "2026-06-24 12:45:09",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【連續三年股息率超3%+ROE超15%，36只優質股上榜】長期高股息率且盈利能力較強的公司值得考察。據資料寶統計，5家機構評級個股中，有36股2023年至2025年股息率（按照最新收盤價計算）均超3%且扣非淨資產收益率（ROE）均超15%。具體來看，國光股份以約10.88%的股息率和15.73%的ROE位居前列；周大生和格力電器的股息率分別約為7.69%和8.05%，ROE均保持在16%以上的高位水平。這表明此類公司不僅當期回報豐厚，且資產運營效率較高。從行業屬性看，符合條件的公司多集中在家用電器、食品飲料（白酒）、商貿零售及精細化工等成熟行業。例如，瀘州老窖、山西汾酒等白酒企業，以及海爾智家、美的集團等家電龍頭均在列。這些行業通常現金流充沛，資本開支相對穩定，具備長期維持高分紅的基礎。儘管基本面指標優異，但個股近期市場表現差異顯著。36只個股年內平均下跌超14%，表現遠遜於各主要指數，僅行動教育、華潤江中、陝西煤業等個股實現了股價正收益。（證券時報）"
-    },
-    {
-      "id": "4951749",
-      "time": "2026-06-24 12:43:45",
-      "tags": [
-        "其他"
-      ],
-      "text": "【Pragmatic半導體推出Pragmatic NFC Protect】6月24日，Pragmatic半導體釋出Pragmatic NFC Protect PR1311，一款整合即時篡改檢測、產品真偽驗證等功能的新型柔性低碳NFC晶片。該晶片柔性且觸感無痕，可無縫整合至產品及包裝中，消費者用手機輕觸即可確認產品開封狀態與真偽。該方案早期獲取計劃已開放，面向零售、醫藥與工業等市場。（介面）"
     }
   ]
 }
