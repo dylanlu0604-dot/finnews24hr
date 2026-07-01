@@ -1,7 +1,37 @@
 {
   "date": "2026-07-01",
-  "count": 3678,
+  "count": 3681,
   "items": [
+    {
+      "id": "mkt:019f1e5c-1595-7aab-8c62-76e9687d57b3",
+      "time": "2026-07-01 23:46:19",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "Iranian state news agency Shana reports Iran is prepared to sell oil to all countries except Israel."
+    },
+    {
+      "id": "4965753",
+      "time": "2026-07-01 23:45:19",
+      "tags": [
+        "國際"
+      ],
+      "text": "歐盟委員會主席馮德萊恩：歐盟計劃與亞塞拜然建立互聯互通夥伴關係。"
+    },
+    {
+      "id": "4965752",
+      "time": "2026-07-01 23:44:37",
+      "tags": [
+        "宏觀",
+        "焦點",
+        "國際"
+      ],
+      "text": "【Shana：伊朗準備向除以色列以外的所有國家出售石油】據伊朗官方通訊社Shana報道，伊朗石油部負責國際與金融事務的副部長Ali Mousavi表示，除以色列外，伊朗已準備向所有國家出口石油。Mousavi表示：“我們希望擴大與其他期待購買伊朗石油的國家的關係”。他表示，伊朗將“最大限度利用”美國財政部給予的60天制裁豁免。"
+    },
     {
       "id": "mkt:019f1e5a-5300-7aab-8c62-6cb352f50d79",
       "time": "2026-07-01 23:44:23",
