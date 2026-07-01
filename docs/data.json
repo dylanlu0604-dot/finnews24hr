@@ -1,7 +1,124 @@
 {
-  "updated": "2026-07-01 11:14:01",
-  "count": 13958,
+  "updated": "2026-07-01 11:19:50",
+  "count": 13961,
   "items": [
+    {
+      "id": "4964132",
+      "time": "2026-07-01 11:18:53",
+      "tags": [
+        "其他"
+      ],
+      "text": "AWS：從明天開始，Anthropic的Claude Fable 5模型將再次透過Bedrock平臺向我們的客戶提供。"
+    },
+    {
+      "id": "mkt:019f1baf-3669-7aab-8c4a-37ce92d05acf",
+      "time": "2026-07-01 11:18:15",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "【Foreign purchases of Indian bonds hit record after tax relief】After New Delhi removed taxes on foreign investors, Indian bonds accessible to unrestricted global investment drew record inflows. Data from India’s clearing house show foreigners bought 418 billion rupees (about $4.4bn) via the fully open channel last month, nearly double the prior record of 239 billion rupees in Aug 2024. Persistent inflows should lower government borrowing costs and help support the rupee amid a stronger dollar. ANZ economist Dhiraj Nim said a mix of the tax cut, currency stability, pushed-out rate-hike expectations and reduced fiscal risk have encouraged foreign buying, but warned inflows could fade if global financial conditions tighten and US rates remain high. The flows mark a rebound after months of weakness; Indian equities outperformed other emerging markets in June and the rupee was the second-best performing Asian currency that month."
+    },
+    {
+      "id": "mkt:019f1baf-2612-7aab-8c4a-2e50dba09fa5",
+      "time": "2026-07-01 11:18:11",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "ANTHROPIC: Pro, Max, Team and Select Enterprise users can access Fable 5, with weekly usage capped at 50%, effective through July 7."
+    },
+    {
+      "id": "mkt:019f1bae-3c8c-7aab-8c4a-23a869bbae96",
+      "time": "2026-07-01 11:17:11",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Amazon",
+        "Microsoft",
+        "Alphabet",
+        "Market Themes",
+        "AI Revolution",
+        "Magnificent 7",
+        "AMZN.O",
+        "MSFT.O",
+        "GOOGL.O"
+      ],
+      "text": "ANTHROPIC will work with Amazon, Microsoft, Google and other Glasswing partners to develop a framework for assessing the severity of AI jailbreaks."
+    },
+    {
+      "id": "4964131",
+      "time": "2026-07-01 11:16:41",
+      "tags": [
+        "公司"
+      ],
+      "text": "Anthropic：與亞馬遜、微軟、谷歌及其他 Glasswing 合作伙伴共同起草人工智慧越獄風險嚴重程度評估框架。"
+    },
+    {
+      "id": "4964130",
+      "time": "2026-07-01 11:15:34",
+      "tags": [
+        "公司"
+      ],
+      "text": "ANTHROPIC：我們將盡快在AWS、谷歌雲和微軟FOUNDRY上重新啟用FABLE 5的訪問許可權。"
+    },
+    {
+      "id": "mkt:019f1bac-6bae-7aab-8c4a-1f3518e0f0f3",
+      "time": "2026-07-01 11:15:12",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "AMZN.O",
+        "Impact bullish",
+        "GOOGL.O",
+        "MSFT.O"
+      ],
+      "text": "Anthropic said it will promptly restore access to Fable 5 on AWS, Google Cloud and Microsoft Foundry."
+    },
+    {
+      "id": "4964129",
+      "time": "2026-07-01 11:14:57",
+      "tags": [
+        "國際"
+      ],
+      "text": "泰國投資促進委員會：批准馬自達-福特汽車聯盟70億泰銖投資專案。"
+    },
+    {
+      "id": "mkt:019f1bac-1c61-7aab-8c4a-118f414eff5a",
+      "time": "2026-07-01 11:14:51",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "ANTHROPIC said it will continue coordinating with the U.S. government to broaden access under the “Glasswing” program for its MYTHOS 5 model, enabling more U.S. and international partners to obtain usage rights."
+    },
+    {
+      "id": "4964128",
+      "time": "2026-07-01 11:13:52",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【習近平：實現祖國完全統一 是我們黨矢志不渝的歷史任務】今天上午，慶祝中國共產黨成立105週年大會在人民大會堂隆重舉行。中共中央總書記、國家主席、中央軍委主席習近平向“七一勳章”獲得者頒授勳章並發表重要講話。習近平：解決臺灣問題、實現祖國完全統一，是我們黨矢志不渝的歷史任務，是全體中華兒女的共同願望。我們要深入貫徹新時代黨解決臺灣問題的總體方略，堅持一箇中國原則和“九二共識”，團結廣大臺灣同胞，深化兩岸交流合作和融合發展，堅決打擊“臺獨”分裂勢力，反對外部勢力干涉，堅定推進祖國統一大業。（央視新聞）"
+    },
+    {
+      "id": "mkt:019f1bab-18c7-7aab-8c4a-0a169337630b",
+      "time": "2026-07-01 11:13:45",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "ANTHROPIC to launch Fable 5 globally on the Claude platform tomorrow."
+    },
+    {
+      "id": "4964127",
+      "time": "2026-07-01 11:13:29",
+      "tags": [
+        "其他"
+      ],
+      "text": "Anthropic：對於 PRO、MAX、TEAM 和部分企業套餐，Fable 5 將包含在內，最高可享每週使用限額的 50%，有效期至 7 月 7 日。"
+    },
     {
       "id": "4964126",
       "time": "2026-07-01 11:12:10",
@@ -128218,87 +128335,6 @@
         "Importance 1"
       ],
       "text": "Palm Oil Strengthens on Export Optimism — Malaysian palm oil futures hovered above MYR 4,650 per tonne, trying to recover from earlier weakness amid a softer ringgit and firmer soyoil prices on the Dalian and Chicago markets. Strong exports also supported prices, with cargo surveyors noting June 1–20 shipments rose between 19.1% and 25% from the same period in May. Supply concerns persisted as the effects of El Niño continued to point to tighter output. In Indonesia, the world's largest supplier, the B50 biodiesel mandate is set to take effect on July 1, boosting expectations for stronger domestic consumption. Meanwhile, India's palm oil imports are projected to top 600,000 tonnes in June, up from 549,356 tonnes in May, highlighting resilient demand from the world's biggest buyer. However, gains were capped by weaker crude oil prices as easing concerns over disruptions in the Strait of Hormuz weighed on the energy market. Separately, Malaysia trimmed its July crude palm oil reference price while keeping its export duty at 10%."
-    },
-    {
-      "id": "4951638",
-      "time": "2026-06-24 11:18:12",
-      "tags": [
-        "其他"
-      ],
-      "text": "【中國移動董事長陳忠嶽：將構建一體化算力網 佈局超大規模智算中心】2026年MWC上海開幕式上，中國移動董事長陳忠嶽表示，未來的移動智慧將不再侷限於任何人或人和平臺，而是延伸到人類和智慧的深度協作。為此，中國移動將推進5G-A、萬兆光網、空天地一體網路部署，以AI需求牽引6G研發；打造自智網路；構建一體化算力網，佈局超大規模智算中心，打造\"中心-邊緣-端側\"三級協同算力體系。陳忠嶽還提出了智慧形態三階段演進：從手機\"離身智慧\"，到人形機器人\"具身智慧\"，再到人機共生的\"內身智慧\"，深度融入生產生活全場景。"
-    },
-    {
-      "id": "4951637",
-      "time": "2026-06-24 11:18:10",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "【臺陸委會稱“臺灣人幾乎不吃鳳梨釋迦”言論令島內譁然 國臺辦回應】國務院臺辦舉行例行新聞釋出會。有記者問：就在大陸積極為臺灣部分縣市的鳳梨釋迦等農漁產品拓展銷路之際，臺陸委會發言人梁文傑近日稱，“鳳梨釋迦臺灣人幾乎不吃，可以說是完全‘仰大陸鼻息’的農產品”，引起島內輿論譁然，認為這是一味政治操弄，根本不管臺灣農民生計。請問發言人對此有何評論？發言人張晗表示，民進黨當局一貫罔顧民生、損害民利，他們不僅不關心、不在意、不解決島內基層農漁民的生計問題，還挖苦、輕視、貶損農漁業者的勞動成果，攻擊、汙衊、抹黑大陸的好意善意。公道自在人心，其胡作非為已在島內激起民怨。民進黨當局如不停止政治操弄，停止阻限兩岸交流合作，必遭民意更大反噬。"
-    },
-    {
-      "id": "4951636",
-      "time": "2026-06-24 11:17:33",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "滬深兩市成交額超2萬億元，較上日此時縮量2173億元。"
-    },
-    {
-      "id": "4951635",
-      "time": "2026-06-24 11:17:14",
-      "tags": [
-        "公司"
-      ],
-      "text": "【山東省低空裝備產業鏈重點產品和典型應用場景名單公示】據“山東釋出”訊息，近日，山東省工業和資訊化廳釋出公示，擬確定低空裝備產業鏈重點產品30個、典型應用場景30個。入選的30個重點產品涵蓋低空航空器整機、低空網聯及系統裝置、核心零部件及新材料三大類別。在典型應用場景方面，國網智慧科技股份有限公司的基於無人機與系列化機器人的輸電線路壓接金具探傷與絕緣子檢零智慧檢測場景等30個場景入選，覆蓋設施巡檢、公共服務、物流快遞、農林植保、應急救援、低空安全、地理測繪、生態環境巡檢、設施維護、教育培訓等多個領域。"
-    },
-    {
-      "id": "mkt:019ef7a0-aa12-7dd8-b0ea-41869c2681c8",
-      "time": "2026-06-24 11:16:02",
-      "tags": [
-        "MKT News",
-        "ABBN.SW",
-        "Impact mixed",
-        "9984.T"
-      ],
-      "text": "【SoftBank's Son: robot mass production underway; aims to buy ABB robotics by 2026】SoftBank Group chairman Masayoshi Son told shareholders on June 24 that the company has begun mass-producing robots at a factory and will formally launch them soon. He said SoftBank will aggregate top robotics firms across verticals to become an \"overwhelming world leader\" in robotics and plans to complete the acquisition of Swiss industrial giant ABB's robotics business in 2026."
-    },
-    {
-      "id": "mkt:019ef79f-ddf3-7dd8-b0ea-39125e994812",
-      "time": "2026-06-24 11:15:09",
-      "tags": [
-        "MKT News",
-        "Macro & Rates"
-      ],
-      "text": "【BANK OF KOREA says rate hike needed at appropriate time to address housing and debt risks】BANK OF KOREA reiterated a hawkish stance in its semiannual Financial Stability Report, saying accelerating Seoul-area house prices, expanding household debt and greater leverage in asset purchases could amplify financial imbalances and justify a further rate increase at an appropriate time. The report said the financial system remains broadly stable thanks to strong growth, resilient financial institutions and a healthy external payments position, but warned credit risk is rising among vulnerable households and firms despite banks’ intact capital and liquidity buffers. It noted the benchmark rate has been held at 2.5% since H2 2025 and, given inf pressure, economic conditions and financial-stability risks, the bank considers it necessary to raise the policy rate at an appropriate time."
-    },
-    {
-      "id": "4951634",
-      "time": "2026-06-24 11:14:40",
-      "tags": [
-        "公司"
-      ],
-      "text": "【原東風本田發動機有限公司黨委委員、執行副總經理郭振甫接受紀律審查和監察調查】據中央紀委國家監委駐東風汽車集團有限公司紀檢監察組、河南省紀委監委訊息：原東風本田發動機有限公司黨委委員、執行副總經理郭振甫涉嫌嚴重違紀違法，目前正接受中央紀委國家監委駐東風汽車集團有限公司紀檢監察組和河南省平頂山市紀委監委紀律審查和監察調查。"
-    },
-    {
-      "id": "te:markets:561348",
-      "time": "2026-06-24 11:14:35",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Malaysia",
-        "Currency",
-        "Importance 1"
-      ],
-      "text": "Malaysian Ringgit Hovers Near 7-Month Low — The Malaysian ringgit traded around 4.10 per USD in late June, remaining close to its lowest level since November last year, as US rate-hike expectations continued to support the greenback and weigh on emerging-market currencies. Domestic political uncertainty also rose ahead of two state elections. The ringgit has now fallen about 4% so far this month. This prompted Bank Negara Malaysia to signal it would step up measures to stabilise the currency, including efforts to attract foreign inflows and encourage state-linked firms and corporates to repatriate overseas earnings. The central bank also noted that recent outflows primarily reflected portfolio rebalancing after earlier gains in the ringgit, rather than a deterioration in Malaysia’s underlying fundamentals. The country’s economic profile is assessed to remain strong, while the onshore foreign exchange market continues to function smoothly."
-    },
-    {
-      "id": "4951633",
-      "time": "2026-06-24 11:14:03",
-      "tags": [
-        "公司"
-      ],
-      "text": "【孫正義：軟銀已開始量產機器人，將收購ABB機器人業務成“世界第一”】6月24日，軟銀集團董事長孫正義在股東大會上透露，針對物理AI應用場景，“已在某工廠開始機器人量產，即將正式釋出，相信大家會感到驚訝”。他同時表示，軟銀將透過匯聚各垂直領域頂級機器人企業，成為“壓倒性世界第一的機器人公司”，並提及2026年計劃完成收購瑞士工業巨頭ABB旗下機器人業務。"
     }
   ]
 }
