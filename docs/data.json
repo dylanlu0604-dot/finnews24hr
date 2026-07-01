@@ -1,7 +1,42 @@
 {
-  "updated": "2026-07-02 02:40:21",
-  "count": 14134,
+  "updated": "2026-07-02 02:44:07",
+  "count": 14132,
   "items": [
+    {
+      "id": "4965857",
+      "time": "2026-07-02 02:43:23",
+      "tags": [
+        "其他"
+      ],
+      "text": "墨西哥經濟部長：雙方在鋼鐵鋁關稅、汽車零部件區域含量核算、農產品季節性相關議題上存在分歧。"
+    },
+    {
+      "id": "4965856",
+      "time": "2026-07-02 02:42:45",
+      "tags": [
+        "其他"
+      ],
+      "text": "墨西哥經濟部長：7 月 20 日會談結束後將公佈更多細節，已向美方提議削減鋼鐵、鋁產品 232 條款關稅，並在區域層面開展協調。"
+    },
+    {
+      "id": "mkt:019f1efc-ef72-7aab-8c65-2daba2242b35",
+      "time": "2026-07-02 02:42:00",
+      "tags": [
+        "MKT News",
+        "Copper",
+        "Impact bullish",
+        "S&P500"
+      ],
+      "text": "Mexico's economy minister said there are no substantive differences between Mexico, the US and Canada that cannot be resolved, and urged the US to reduce Section 232 tariffs on steel and aluminum and pursue regional coordination."
+    },
+    {
+      "id": "4965855",
+      "time": "2026-07-02 02:41:17",
+      "tags": [
+        "其他"
+      ],
+      "text": "墨西哥經濟部長：未來幾周加拿大將以何種方式參與其中仍有待觀察。"
+    },
     {
       "id": "4965854",
       "time": "2026-07-02 02:38:57",
@@ -130214,68 +130249,6 @@
         "焦點"
       ],
       "text": "高通資料中心主管：微軟將在Azure資料中心部署高通高頻寬計算晶片。"
-    },
-    {
-      "id": "mkt:019efaf1-f3d1-7dd8-b102-9854c4e01799",
-      "time": "2026-06-25 02:43:41",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Star Stocks",
-        "Alphabet",
-        "Market Themes",
-        "AI Revolution",
-        "Magnificent 7",
-        "GOOG.O",
-        "Impact bearish"
-      ],
-      "text": "Alphabet shares (GOOG.O) extended losses to 0.8% after reports Google pushed back the launch of its Gemini 3.5 Pro large AI model to July to gather more early-tester feedback and further tune the model."
-    },
-    {
-      "id": "4953343",
-      "time": "2026-06-25 02:42:21",
-      "tags": [
-        "其他"
-      ],
-      "text": "委內瑞拉代總統羅德里格斯：委內瑞拉謀求與哥倫比亞新一屆政府開展合作。"
-    },
-    {
-      "id": "mkt:019efaf0-a63e-7dd8-b102-97f7d10f4788",
-      "time": "2026-06-25 02:42:15",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "Chip Wars",
-        "QCOM.O",
-        "Impact bullish"
-      ],
-      "text": "Qualcomm's data-center business head said the company expects its custom-chip business to begin contributing meaningful revenue from Q1 2027 and to be materially revenue-generating by end-2027."
-    },
-    {
-      "id": "4953342",
-      "time": "2026-06-25 02:41:45",
-      "tags": [
-        "公司"
-      ],
-      "text": "谷歌將Gemini 3.5 Pro大模型釋出時間推遲至7月。"
-    },
-    {
-      "id": "4953341",
-      "time": "2026-06-25 02:40:53",
-      "tags": [
-        "其他"
-      ],
-      "text": "高通資料中心部門主管：從2027年第一財季開始，定製矽晶片業務將在年末為高通帶來可觀營收。"
-    },
-    {
-      "id": "mkt:019efaef-59db-7dd8-b102-8fb05b36e1f9",
-      "time": "2026-06-25 02:40:50",
-      "tags": [
-        "MKT News",
-        "Important",
-        "QCOM.O"
-      ],
-      "text": "Qualcomm's data-center chief said the company plans to launch a data-center CPU in mid-2028."
     }
   ]
 }

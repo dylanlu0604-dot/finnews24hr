@@ -1,7 +1,42 @@
 {
   "date": "2026-07-02",
-  "count": 180,
+  "count": 184,
   "items": [
+    {
+      "id": "4965857",
+      "time": "2026-07-02 02:43:23",
+      "tags": [
+        "其他"
+      ],
+      "text": "墨西哥經濟部長：雙方在鋼鐵鋁關稅、汽車零部件區域含量核算、農產品季節性相關議題上存在分歧。"
+    },
+    {
+      "id": "4965856",
+      "time": "2026-07-02 02:42:45",
+      "tags": [
+        "其他"
+      ],
+      "text": "墨西哥經濟部長：7 月 20 日會談結束後將公佈更多細節，已向美方提議削減鋼鐵、鋁產品 232 條款關稅，並在區域層面開展協調。"
+    },
+    {
+      "id": "mkt:019f1efc-ef72-7aab-8c65-2daba2242b35",
+      "time": "2026-07-02 02:42:00",
+      "tags": [
+        "MKT News",
+        "Copper",
+        "Impact bullish",
+        "S&P500"
+      ],
+      "text": "Mexico's economy minister said there are no substantive differences between Mexico, the US and Canada that cannot be resolved, and urged the US to reduce Section 232 tariffs on steel and aluminum and pursue regional coordination."
+    },
+    {
+      "id": "4965855",
+      "time": "2026-07-02 02:41:17",
+      "tags": [
+        "其他"
+      ],
+      "text": "墨西哥經濟部長：未來幾周加拿大將以何種方式參與其中仍有待觀察。"
+    },
     {
       "id": "4965854",
       "time": "2026-07-02 02:38:57",
