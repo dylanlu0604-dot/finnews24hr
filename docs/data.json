@@ -1,7 +1,66 @@
 {
-  "updated": "2026-07-02 02:29:00",
-  "count": 14137,
+  "updated": "2026-07-02 02:32:48",
+  "count": 14133,
   "items": [
+    {
+      "id": "mkt:019f1ef3-3035-7aab-8c65-0c87cb2791fc",
+      "time": "2026-07-02 02:31:21",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "Impact bearish"
+      ],
+      "text": "【Night session most-active contracts close】At the night session close at 02:30, SHFE most-active gold contract rose 1.23% to 888 yuan/gram; SHFE most-active silver contract rose 1.44% to 14,582 yuan/kg; SC crude (INE) most-active contract fell 3.43% to 445 yuan/barrel."
+    },
+    {
+      "id": "4965849",
+      "time": "2026-07-02 02:31:13",
+      "tags": [
+        "市場"
+      ],
+      "text": "WTI 8月原油期貨收報68.58美元/桶。NYMEX 8月天然氣期貨收報3.22美元/百萬英熱單位。NYMEX 8月汽油期貨收報2.9452美元/加侖，NYMEX 8月取暖油期貨收報3.2179美元/加侖。"
+    },
+    {
+      "id": "mkt:019f1ef2-7bb7-7aab-8c65-02b2245d231f",
+      "time": "2026-07-02 02:30:35",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "Shanghai Gold Exchange gold T+D closed up 1.76% at 886.5 yuan/gram in the July 1 evening session; silver T+D closed up 2.96% at 14,552 yuan/kg."
+    },
+    {
+      "id": "4965848",
+      "time": "2026-07-02 02:30:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "上期所原油期貨夜盤收跌3.43%，報444.60元人民幣/桶。滬金夜盤收漲1.23%，滬銀收漲1.44%。"
+    },
+    {
+      "id": "te:markets:563534",
+      "time": "2026-07-02 02:30:01",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Crypto",
+        "Importance 1"
+      ],
+      "text": "Crypto Updates: Ether Appreciates by 3.08% — Top crypto gainers are Ether (3.08%), Bitcoin (2.59%) and Binance (1.19%)."
+    },
+    {
+      "id": "4965847",
+      "time": "2026-07-02 02:29:06",
+      "tags": [
+        "市場"
+      ],
+      "text": "SPACEX股價下跌7.9%，至當日低點。"
+    },
     {
       "id": "mkt:019f1ef0-02b5-7aab-8c64-fe344c9a5ca2",
       "time": "2026-07-02 02:27:53",
@@ -130217,111 +130276,6 @@
         "Impact bullish"
       ],
       "text": "【Gold falls below $4,000 as dollar strength and Fed rate-hike expectations weigh】Gold extended the previous session’s decline as the dollar strengthened and markets increasingly priced in a Fed rate hike later this year. New York gold futures fell 3.4% to $3,990.30/oz, the weakest close since November. Other precious metals also slipped. The dollar rose against a basket of currencies, making dollar-priced commodities more expensive for overseas buyers."
-    },
-    {
-      "id": "mkt:019efae6-e2d0-7dd8-b102-6a61c23db094",
-      "time": "2026-06-25 02:31:35",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Precious Metals",
-        "Energy",
-        "XAUUSD",
-        "Impact bearish",
-        "WTI"
-      ],
-      "text": "【Night session main contracts close lower】At the 02:30 Beijing time close, Shanghai gold front-month contract fell 2.45% to 875 yuan/gram; Shanghai silver front-month contract fell 6.31% to 13,956 yuan/kg; SC crude oil front-month contract fell 3.78% to 471 yuan/barrel."
-    },
-    {
-      "id": "mkt:019efae6-9b22-7dd8-b102-6597c1a58617",
-      "time": "2026-06-25 02:31:17",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Precious Metals",
-        "XAUUSD",
-        "Impact bearish"
-      ],
-      "text": "Shanghai Gold Exchange gold T+D closed down 2.18% at 873.16 yuan/gram in the evening session on June 24 (Wednesday). Shanghai Gold Exchange silver T+D closed down 5.77% at 13,969.0 yuan/kg."
-    },
-    {
-      "id": "4953336",
-      "time": "2026-06-25 02:31:04",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "美國原油期貨收於每桶70.34美元，下跌2.87美元，跌幅3.92%。"
-    },
-    {
-      "id": "4953335",
-      "time": "2026-06-25 02:30:11",
-      "tags": [
-        "公司"
-      ],
-      "text": "伊維爾德羅拉公司：該專案計劃於2027年投產運營。"
-    },
-    {
-      "id": "4953334",
-      "time": "2026-06-25 02:30:07",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "伊維爾德羅拉公司：伊維爾德羅拉將在美國建設其首個大規模儲能電池專案。"
-    },
-    {
-      "id": "te:markets:561636",
-      "time": "2026-06-25 02:30:06",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Crypto",
-        "Importance 1"
-      ],
-      "text": "Crypto Updates: Ether Slumps by 5.30% — Top crypto losers are Ether (-5.30%), Bitcoin (-4.80%) and Binance (-3.97%)."
-    },
-    {
-      "id": "mkt:019efae5-811e-7dd8-b102-5c084e116a08",
-      "time": "2026-06-25 02:30:05",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution",
-        "Magnificent 7",
-        "Star Stocks",
-        "Alphabet",
-        "GOOGL.O",
-        "Impact bearish"
-      ],
-      "text": "【Two senior Google AI researchers expected to join Anthropic】Two leading AI researchers at Alphabet's Google plan to leave to join competitor Anthropic, people familiar with the matter said. Jonas Adler and Alexander Pritzel, both seen internally as key contributors to Google's GEMINI model, are expected to move to Anthropic. Adler worked on the company's AI programming projects; Pritzel worked on training AI systems. The moves add to a series of high-profile departures and could weaken Google's position in AI."
-    },
-    {
-      "id": "4953333",
-      "time": "2026-06-25 02:30:02",
-      "tags": [
-        "市場"
-      ],
-      "text": "上期所原油期貨夜盤收跌3.78%，報470.60元人民幣/桶。滬金夜盤收跌2.45%，滬銀收跌6.31%。"
-    },
-    {
-      "id": "4953332",
-      "time": "2026-06-25 02:29:48",
-      "tags": [
-        "央行",
-        "宏觀",
-        "市場",
-        "國際"
-      ],
-      "text": "【俄羅斯金融市場重挫 油價下跌與央行偏鷹立場打擊投資者信心】俄羅斯金融市場重挫，油價下跌以及烏克蘭襲擊、俄羅斯央行的偏鷹立場令投資者感到不安，早已因衝突承壓的俄羅斯經濟面臨更大困境。俄羅斯股市基準指數MOEX本週跌至三年多來的最低點。此前，俄羅斯央行將降息幅度縮減至僅僅25個基點，並暗示進一步放鬆貨幣政策的空間已經不大。聖彼得堡銀行的分析師在一份報告中寫道：“地緣政治局勢演變與俄羅斯央行鷹派立場形成的完美風暴，引發了全面的避險情緒，迫使投資者解除槓桿頭寸。”此前，在伊朗與美國同意停止敵對行動並重新開放霍爾木茲海峽後，原油價格下跌，這一情況已對俄羅斯股市構成壓力。而烏克蘭對俄羅斯腹地石油基礎設施的襲擊，也進一步打擊了投資者信心。"
-    },
-    {
-      "id": "4953331",
-      "time": "2026-06-25 02:29:02",
-      "tags": [
-        "國際"
-      ],
-      "text": "受燃油短缺加劇影響，俄羅斯已與哈薩克接洽，擬供應約5萬噸92號汽油。受煉油廠生產中斷影響，俄羅斯汽油產量較去年下降約四分之一。"
     }
   ]
 }

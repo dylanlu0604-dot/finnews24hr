@@ -1,7 +1,66 @@
 {
   "date": "2026-07-02",
-  "count": 166,
+  "count": 172,
   "items": [
+    {
+      "id": "mkt:019f1ef3-3035-7aab-8c65-0c87cb2791fc",
+      "time": "2026-07-02 02:31:21",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "Impact bearish"
+      ],
+      "text": "【Night session most-active contracts close】At the night session close at 02:30, SHFE most-active gold contract rose 1.23% to 888 yuan/gram; SHFE most-active silver contract rose 1.44% to 14,582 yuan/kg; SC crude (INE) most-active contract fell 3.43% to 445 yuan/barrel."
+    },
+    {
+      "id": "4965849",
+      "time": "2026-07-02 02:31:13",
+      "tags": [
+        "市場"
+      ],
+      "text": "WTI 8月原油期貨收報68.58美元/桶。NYMEX 8月天然氣期貨收報3.22美元/百萬英熱單位。NYMEX 8月汽油期貨收報2.9452美元/加侖，NYMEX 8月取暖油期貨收報3.2179美元/加侖。"
+    },
+    {
+      "id": "mkt:019f1ef2-7bb7-7aab-8c65-02b2245d231f",
+      "time": "2026-07-02 02:30:35",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "Shanghai Gold Exchange gold T+D closed up 1.76% at 886.5 yuan/gram in the July 1 evening session; silver T+D closed up 2.96% at 14,552 yuan/kg."
+    },
+    {
+      "id": "4965848",
+      "time": "2026-07-02 02:30:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "上期所原油期貨夜盤收跌3.43%，報444.60元人民幣/桶。滬金夜盤收漲1.23%，滬銀收漲1.44%。"
+    },
+    {
+      "id": "te:markets:563534",
+      "time": "2026-07-02 02:30:01",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Crypto",
+        "Importance 1"
+      ],
+      "text": "Crypto Updates: Ether Appreciates by 3.08% — Top crypto gainers are Ether (3.08%), Bitcoin (2.59%) and Binance (1.19%)."
+    },
+    {
+      "id": "4965847",
+      "time": "2026-07-02 02:29:06",
+      "tags": [
+        "市場"
+      ],
+      "text": "SPACEX股價下跌7.9%，至當日低點。"
+    },
     {
       "id": "mkt:019f1ef0-02b5-7aab-8c64-fe344c9a5ca2",
       "time": "2026-07-02 02:27:53",
