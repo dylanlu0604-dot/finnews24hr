@@ -1,7 +1,223 @@
 {
   "date": "2026-07-01",
-  "count": 2141,
+  "count": 2162,
   "items": [
+    {
+      "id": "4964803",
+      "time": "2026-07-01 17:33:05",
+      "tags": [
+        "公司"
+      ],
+      "text": "【邱寶華任中國聯通副總經理】7月1日訊息，邱寶華任中國聯合網路通訊集團有限公司副總經理、黨組成員。"
+    },
+    {
+      "id": "mkt:019f1d06-535a-7aab-8c52-d14605183d0b",
+      "time": "2026-07-01 17:33:01",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Singapore Exchange (SGX) said custody-structure optimization will take effect in July; reduced per-lot trading units will be implemented in October."
+    },
+    {
+      "id": "4964802",
+      "time": "2026-07-01 17:32:22",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "美國就業資料公司挑戰者：美國科技公司在六月宣佈裁員15,503人。人工智慧成為美國僱主裁員的主要原因，連續第四個月居首。"
+    },
+    {
+      "id": "4964801",
+      "time": "2026-07-01 17:32:11",
+      "tags": [
+        "公司"
+      ],
+      "text": "【曹立軍陳書平會見比亞迪公司董事長王傳福】據成都日報訊息，6月30日，四川省委常委、成都市委書記曹立軍，成都市委副書記、市長陳書平會見比亞迪股份有限公司董事長兼總裁王傳福一行。雙方圍繞搶抓“十五五”時期重大戰略機遇，進一步加大在蓉投資佈局力度，深化拓展積體電路、智慧終端等領域務實合作，加強新技術新場景深度應用推廣，更好助力企業高質量發展和成都建設全國先進製造業基地等交換了意見。"
+    },
+    {
+      "id": "mkt:019f1d05-6ad2-7aab-8c52-cc5da8bf0c8a",
+      "time": "2026-07-01 17:32:01",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "Market Themes",
+        "China EV Leaders",
+        "1211.HK",
+        "Impact bullish"
+      ],
+      "text": "【Cao Lijun and Chengdu mayor Chen Shuping meet BYD chairman Wang Chuanfu】June 30 — Sichuan provincial Party standing committee member and Chengdu party secretary Cao Lijun and Chengdu deputy party secretary and mayor Chen Shuping met BYD chairman and president Wang Chuanfu. They discussed seizing strategic opportunities during the 15th Five-Year Plan period and expanding BYD’s investment footprint in Chengdu, deepening pragmatic cooperation in integrated circuits and smart terminals, and accelerating deployment of new technologies and application scenarios to support BYD’s high-quality development and Chengdu’s push to become a national advanced manufacturing base."
+    },
+    {
+      "id": "mkt:019f1d05-2c6f-7aab-8c52-c47a921f177d",
+      "time": "2026-07-01 17:31:46",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy",
+        "S&P500",
+        "Impact bearish",
+        "Nasdaq100",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "Challenger, Gray & Christmas said U.S. tech companies announced 15,503 job cuts in June. Artificial intelligence was the top reason cited by U.S. employers for layoffs, the leading cause for a fourth consecutive month."
+    },
+    {
+      "id": "mkt:019f1d04-e992-7aab-8c52-bf1f2ffc3efa",
+      "time": "2026-07-01 17:31:28",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy",
+        "S&P500",
+        "Impact bullish",
+        "Nasdaq100",
+        "DXY",
+        "Impact mixed"
+      ],
+      "text": "U.S. June Challenger job cuts MoM -53%; prior +16%."
+    },
+    {
+      "id": "4964800",
+      "time": "2026-07-01 17:31:23",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：烏克蘭總統澤連斯基表示，烏克蘭方面第二次襲擊了位於烏法市的俄羅斯煉油廠，該地點距離前線超 1300 公里（800 英里），基輔當局正加大對俄羅斯腹地目標的打擊力度。"
+    },
+    {
+      "id": "mkt:019f1d04-c93e-7aab-8c52-b34098a7fad8",
+      "time": "2026-07-01 17:31:20",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | Challenger Job Cuts (MoM) (Jun) | actual -53% | previous 16%"
+    },
+    {
+      "id": "mkt:019f1d04-98a5-7aab-8c52-a844577eed94",
+      "time": "2026-07-01 17:31:08",
+      "tags": [
+        "MKT News",
+        "Important",
+        "S&P500",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "U.S. job cuts announced in June totaled 45,849, the lowest monthly reading since December 2025, according to Challenger data."
+    },
+    {
+      "id": "4964799",
+      "time": "2026-07-01 17:30:50",
+      "tags": [
+        "公司"
+      ],
+      "text": "【立昂微：8英寸重摻雜外延片訂單旺盛，12英寸28nm邏輯晶片用矽片已批次供貨】 立昂微釋出投資者關係活動記錄表公告，公司整體出貨規模保持高位，訂單需求旺盛。其中，8英寸重摻雜外延片訂單旺盛，公司6英寸襯底及拋光片月產能達75萬片，絕大部分進一步深加工為6英寸外延片出貨，外延片生產所需襯底全部由自身配套供給，實現完全自主可控。在先進製程領域，嘉興基地定位28nm及以下先進製程12英寸輕摻拋光片，並配套佈局輕摻外延片，重點供應模擬晶片和邏輯晶片客戶，目前已實現28nm邏輯晶片用矽片批次供貨。"
+    },
+    {
+      "id": "4964798",
+      "time": "2026-07-01 17:30:47",
+      "tags": [
+        "公司"
+      ],
+      "text": "【康恩貝：子公司己酮可可鹼緩釋片獲得藥品註冊證書】 康恩貝公告，全資子公司杭州康恩貝收到國家藥品監督管理局核准簽發的己酮可可鹼緩釋片《藥品註冊證書》。該藥品原研企業為Sanofi-aventis，適應症為周圍性血管疾病，包括間歇性跛行和靜息疼痛。杭州康恩貝於2024年12月遞交藥品註冊申請，目前已投入研發費用約1009萬元。根據國家藥監局藥品審評中心網站顯示，截至本公告日，己酮可可鹼緩釋片按化學藥品3類註冊申請獲得批准上市的企業包括杭州康恩貝在內有16家國內生產廠家。"
+    },
+    {
+      "id": "mkt:019f1d03-fa16-7aab-8c52-a40f1e44db27",
+      "time": "2026-07-01 17:30:27",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy",
+        "S&P500",
+        "Impact bullish",
+        "DXY",
+        "US10Y",
+        "Impact bearish"
+      ],
+      "text": "US Challenger job cuts YoY -4.5% in June, versus 3.40% previously."
+    },
+    {
+      "id": "4964797",
+      "time": "2026-07-01 17:30:25",
+      "tags": [
+        "資料",
+        "國際"
+      ],
+      "text": "美國6月挑戰者企業裁員人數 4.5849萬人，前值9.7006萬人。\n美國6月挑戰者企業裁員年率 -4.5%，前值3.40%。"
+    },
+    {
+      "id": "mkt:019f1d03-cf22-7aab-8c52-99624c2f318f",
+      "time": "2026-07-01 17:30:16",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | Challenger Job Cuts (YoY) (Jun) | actual -4.5% | previous 3.40%"
+    },
+    {
+      "id": "mkt:019f1d03-ae3b-7aab-8c52-9448f65be617",
+      "time": "2026-07-01 17:30:08",
+      "tags": [
+        "MKT News",
+        "Important",
+        "S&P500",
+        "Impact bullish",
+        "Nasdaq100",
+        "Dow"
+      ],
+      "text": "US June Challenger job-cut announcements 45,849, prior 97,006."
+    },
+    {
+      "id": "4964796",
+      "time": "2026-07-01 17:30:03",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【美媒：聯合國擬牽頭制定全球AI規則】一個由聯合國支援的新委員會將把各大科技公司的高管們與各國元首聚集在一起，共同制定關於人工智慧的全球性規則。據報道，聯合國及其國際電信聯盟正在組建“人工智慧促進公益全球委員會”。該委員會的首次會議將於7月8日在瑞士日內瓦舉行。"
+    },
+    {
+      "id": "mkt:019f1d03-8ea9-7aab-8c52-8c9b18eea917",
+      "time": "2026-07-01 17:30:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | Challenger Job Cuts (Jun) | actual 45849K | previous 97006K"
+    },
+    {
+      "id": "4964795",
+      "time": "2026-07-01 17:29:55",
+      "tags": [
+        "公司"
+      ],
+      "text": "【遠東股份：6月子公司中標訂單合計17.34億元】遠東股份公告，2026年6月份，公司收到子公司中標/簽約千萬元以上合同訂單合計為人民幣17.34億元，涉及智慧纜網/電能（含智慧電網線纜、綠色建築線纜、智慧製造線纜、清潔能源線纜）、智慧電池儲能/算力AI（含資料中心線纜、AIDC用光纖、儲能系統、鋰電池、鋰電銅箔）及智慧機場等業務。"
+    },
+    {
+      "id": "mkt:019f1d03-6e00-7aab-8c52-8501d6531fe3",
+      "time": "2026-07-01 17:29:51",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "【Axios: UN to lead effort to set global AI rules】Axios reports a UN‑backed committee will convene tech CEOs and heads of state to draft global AI rules. The United Nations and the International Telecommunication Union are forming the Global Committee on AI for Good; its first meeting is scheduled for July 8 in Geneva, Switzerland."
+    },
+    {
+      "id": "4964794",
+      "time": "2026-07-01 17:29:31",
+      "tags": [
+        "公司"
+      ],
+      "text": "【安集科技：股東詢價轉讓初步定價297.36元/股】安集科技公告稱，根據2026年7月1日詢價申購情況，初步確定本次詢價轉讓價格為297.36元/股。參與報價的機構投資者有31家，有效認購股份423.9萬股，對應轉讓底價的有效認購倍數為1.46倍。擬轉讓股份已獲全額認購，初步確定21家機構投資者為受讓方，擬受讓股份290萬股。本次受讓方及股數為初步結果，存在擬轉讓股份被司法凍結、扣劃等風險，最終結果以中登上海分公司辦理結果為準。"
+    },
     {
       "id": "4964793",
       "time": "2026-07-01 17:29:13",
