@@ -1,7 +1,50 @@
 {
-  "updated": "2026-07-01 23:57:12",
-  "count": 14261,
+  "updated": "2026-07-02 00:02:02",
+  "count": 14258,
   "items": [
+    {
+      "id": "4965764",
+      "time": "2026-07-01 23:59:55",
+      "tags": [
+        "公司"
+      ],
+      "text": "谷歌：自 2026 年 7 月 1 日起，谷歌將更新其法國地區加密貨幣及相關產品政策。"
+    },
+    {
+      "id": "4965763",
+      "time": "2026-07-01 23:58:55",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "據伊朗法爾斯通訊社： 伊朗解除化工與石化產品出口禁令。"
+    },
+    {
+      "id": "mkt:019f1e66-af29-7aab-8c62-b88ca03e24db",
+      "time": "2026-07-01 23:57:53",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "【USDA to invest $500m to speed US fertilizer-plant buildout】US agriculture secretary Rollins said Wednesday the USDA will invest $500m in new and existing fertilizer plants to accelerate U.S. fertilizer output. He cited geopolitical and trade disruptions — including tariffs on major suppliers, Trump-era tariff policies and the wars in Ukraine and Iran — as drivers of elevated fertilizer prices that, amid weak crop prices, have raised U.S. food-security concerns. Rollins said the department will prioritize domestic plant construction and that opening the market should lower farmers’ fertilizer costs."
+    },
+    {
+      "id": "4965762",
+      "time": "2026-07-01 23:57:51",
+      "tags": [
+        "其他"
+      ],
+      "text": "受卡納科爾能源限制天然氣供應影響，科雷克斯控股位於哥倫比亞的塞羅馬託索鎳鐵礦將減產 25%。"
+    },
+    {
+      "id": "4965761",
+      "time": "2026-07-01 23:57:06",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國副總統萬斯：我注意到，那些抨擊政府開展談判的人，恰恰就是當初慫恿我們在阿富汗等地加大轟炸力度的同一批人。而這些人當初卻絕口不提我們實施轟炸的目的。"
+    },
     {
       "id": "mkt:019f1e65-7ea5-7aab-8c62-b78ab5fe8e7c",
       "time": "2026-07-01 23:56:35",
@@ -131456,87 +131499,6 @@
         "Importance 1"
       ],
       "text": "FTSE 100 Rises on Wednesday — The FTSE 100 advanced on Wednesday, outperforming major European equities due to strong corporate earnings and a massive real estate rally. Commercial property landlord Segro saw its shares surge over 15% after its board unequivocally rejected an all-share takeover proposal from American rival Prologis. Discount retailer B&M jumped over 13% following the appointment of former Asda executive Atheeq Akbar as its new chief financial officer, while housebuilder Berkeley climbed over 7% after full-year operating profits beat expectations. Large-cap heavyweights also provided vital support, with AstraZeneca and Unilever rising more than 2%, Rolls-Royce adding 1.5%, and British American Tobacco gaining 1.9%. However, these gains were capped by a broader commodity sell-off. Declining oil prices dragged Shell and BP down as much as 3.6%, while falling metal and gold prices pulled miners like Glencore, Antofagasta, Anglo American, Rio Tinto, Endeavour, and Fresnillo down between 1.7% and 3.6%."
-    },
-    {
-      "id": "4953168",
-      "time": "2026-06-25 00:01:45",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗官員稱，以色列是“該地區所有問題”的始作俑者。"
-    },
-    {
-      "id": "mkt:019efa5d-7272-7dd8-b0fe-fbbdf6e5fbfb",
-      "time": "2026-06-25 00:01:28",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "Al Jazeera cited Iranian officials as saying Israel should be held responsible for \"the problems of the entire region.\""
-    },
-    {
-      "id": "4953167",
-      "time": "2026-06-25 00:01:25",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "俄羅斯消費者價格指數在6月第22周環比上漲0.25%。"
-    },
-    {
-      "id": "mkt:019efa5d-2b42-7dd8-b0fe-f7b8fb478577",
-      "time": "2026-06-25 00:01:10",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "Russia industrial output fell 0.7% YoY in May, versus market expectations for 1.6% growth."
-    },
-    {
-      "id": "mkt:019efa5b-ee80-7dd8-b0fe-e9a6a1f4fd7f",
-      "time": "2026-06-24 23:59:49",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bearish",
-        "XAUUSD",
-        "DXY"
-      ],
-      "text": "【Trump: U.S. to join IAEA inspections of Iran nuclear sites】Trump told Fox News on June 24 that U.S. personnel will participate in International Atomic Energy Agency inspections of Iranian nuclear facilities. He said Iran has agreed to allow inspectors in but has in the past agreed in writing and then reneged, and that he is not pushing for inspectors to enter Iran immediately."
-    },
-    {
-      "id": "4953166",
-      "time": "2026-06-24 23:59:15",
-      "tags": [
-        "國際"
-      ],
-      "text": "【特朗普：美方將參與國際原子能機構對伊朗核查行動】美國總統特朗普24日接受美國福克斯新聞頻道採訪時說，美方人員將參與國際原子能機構對伊朗核設施的核查行動。針對伊朗方面稱目前沒有允許國際原子能機構進入遭襲核設施的計劃，特朗普回應說，“他們會達成協議，將其寫成書面檔案，隨後又會出爾反爾，聲稱那並非事實”。特朗普表示：“他們已經同意了，同意核查人員進入。”他還說，並不急於讓核查人員立即進駐伊朗。（新華社）"
-    },
-    {
-      "id": "te:markets:561611",
-      "time": "2026-06-24 23:58:36",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Euro Area",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "European Stocks Close Mixed — European stock indices closed mixed on Wednesday as weakness for banks and the chip sector offset gains elsewhere. The Euro STOXX 50 dropped 0.2% to 6,215 while the STOXX Europe 600 inched higher to 635. US President Trump assured that Iran will not pressure vessels crossing the Strait of Hormuz for toll payments, solidifying the de-escalatory momentum and stretching the plunge in energy prices. Consequently, sovereign yields in the Eurozone retreated and lifted consumer discretionary companies, with Adidas, LVMH, Hermes, and Inditex rising up to 3%. Still, banks fell as markets took profits. In the meantime, Rheinmetall plunged 19% following reports that Germany plans to abandon proposals to build its largest warship since World War II and instead purchase eight smaller frigates from TKMS. Also, Argenx dropped over 7% on setbacks in its myositis drug trial update."
-    },
-    {
-      "id": "4953165",
-      "time": "2026-06-24 23:57:20",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "印度塔塔通訊表示，德里資料中心火災後，公司正盡最大努力推進後續恢復工作。"
     }
   ]
 }

@@ -1,7 +1,50 @@
 {
   "date": "2026-07-01",
-  "count": 3696,
+  "count": 3701,
   "items": [
+    {
+      "id": "4965764",
+      "time": "2026-07-01 23:59:55",
+      "tags": [
+        "公司"
+      ],
+      "text": "谷歌：自 2026 年 7 月 1 日起，谷歌將更新其法國地區加密貨幣及相關產品政策。"
+    },
+    {
+      "id": "4965763",
+      "time": "2026-07-01 23:58:55",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "據伊朗法爾斯通訊社： 伊朗解除化工與石化產品出口禁令。"
+    },
+    {
+      "id": "mkt:019f1e66-af29-7aab-8c62-b88ca03e24db",
+      "time": "2026-07-01 23:57:53",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "【USDA to invest $500m to speed US fertilizer-plant buildout】US agriculture secretary Rollins said Wednesday the USDA will invest $500m in new and existing fertilizer plants to accelerate U.S. fertilizer output. He cited geopolitical and trade disruptions — including tariffs on major suppliers, Trump-era tariff policies and the wars in Ukraine and Iran — as drivers of elevated fertilizer prices that, amid weak crop prices, have raised U.S. food-security concerns. Rollins said the department will prioritize domestic plant construction and that opening the market should lower farmers’ fertilizer costs."
+    },
+    {
+      "id": "4965762",
+      "time": "2026-07-01 23:57:51",
+      "tags": [
+        "其他"
+      ],
+      "text": "受卡納科爾能源限制天然氣供應影響，科雷克斯控股位於哥倫比亞的塞羅馬託索鎳鐵礦將減產 25%。"
+    },
+    {
+      "id": "4965761",
+      "time": "2026-07-01 23:57:06",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國副總統萬斯：我注意到，那些抨擊政府開展談判的人，恰恰就是當初慫恿我們在阿富汗等地加大轟炸力度的同一批人。而這些人當初卻絕口不提我們實施轟炸的目的。"
+    },
     {
       "id": "mkt:019f1e65-7ea5-7aab-8c62-b78ab5fe8e7c",
       "time": "2026-07-01 23:56:35",
