@@ -1,7 +1,15 @@
 {
-  "updated": "2026-07-02 02:21:24",
-  "count": 14150,
+  "updated": "2026-07-02 02:25:14",
+  "count": 14140,
   "items": [
+    {
+      "id": "4965846",
+      "time": "2026-07-02 02:22:47",
+      "tags": [
+        "公司"
+      ],
+      "text": "費城半導體指數跌幅擴大至6%，應用材料、泛林集團跌超11%，美光跌近10%，英特爾、邁威爾科技、阿斯麥跌約8%，臺積電跌近7%。"
+    },
     {
       "id": "te:markets:563532",
       "time": "2026-07-02 02:20:01",
@@ -130333,112 +130341,6 @@
         "Importance 1"
       ],
       "text": "Danaher Stock Price Hits 9-week High — Danaher shares increased to 189.23 USD, the highest since April 2026. Over the past 4 weeks, Danaher gained 9.31%, and in the last 12 months, it decreased 6.02%."
-    },
-    {
-      "id": "te:markets:561634",
-      "time": "2026-06-25 02:25:06",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Agricultural Commodities Updates: Cocoa Rallies by 7.26% — Top commodity gainers are Cocoa (7.26%) and Coffee (0.65%). Biggest losers are Oat (-6.34%) and Cotton (-2.90%)."
-    },
-    {
-      "id": "4953328",
-      "time": "2026-06-25 02:23:44",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普稱讚油價走勢與就業資料表現。"
-    },
-    {
-      "id": "mkt:019efadf-83ff-7dd8-b102-45bd117e30ca",
-      "time": "2026-06-25 02:23:32",
-      "tags": [
-        "MKT News",
-        "Important",
-        "WTI",
-        "Impact bearish",
-        "DXY",
-        "S&P500",
-        "Impact bullish"
-      ],
-      "text": "U.S. President Trump said Iran is agreeing to everything he wants and has no choice."
-    },
-    {
-      "id": "4953327",
-      "time": "2026-06-25 02:23:15",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "特朗普稱：伊朗正同意我提出的所有要求，而且他們必須同意。"
-    },
-    {
-      "id": "mkt:019efadf-38ea-7dd8-b102-3d0803ada364",
-      "time": "2026-06-25 02:23:13",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "President Trump said he does not like some members of Congress but believes people know who they are."
-    },
-    {
-      "id": "4953325",
-      "time": "2026-06-25 02:22:17",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "美國交通部：2026年第一季度美國國內機票價格上漲4.7%。"
-    },
-    {
-      "id": "mkt:019efade-5f2b-7dd8-b102-35fdb0ff6165",
-      "time": "2026-06-25 02:22:17",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "US Economy"
-      ],
-      "text": "U.S. Department of Transportation said U.S. domestic airfares rose 4.7% in the first three months of 2026."
-    },
-    {
-      "id": "4953324",
-      "time": "2026-06-25 02:22:00",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【谷歌再有兩名重磅AI核心研究員跳槽至Anthropic 股價下挫】谷歌的兩名頂尖人工智慧研究員喬納斯·阿德勒、亞歷山大·普里策爾計劃離職，轉投競品公司Anthropic。此次人才流失是谷歌接連多名核心技術人員出走事件的延續，或將削弱谷歌在人工智慧領域的行業地位；此前諾貝爾化學獎得主約翰·江珀、明星研究員諾阿姆·沙澤爾也已分別跳槽至Anthropic與OpenAI。這一系列人事變動凸顯出谷歌面臨的競爭壓力：Anthropic、OpenAI兩家初創企業即將啟動IPO，員工在上市前入職可獲得一筆罕見的高額股權收益，這對頭部科技大廠的資深研發人員吸引力極強。谷歌股價迅速轉跌，下跌0.6%。"
-    },
-    {
-      "id": "mkt:019efade-12b3-7dd8-b102-2e6d6040ad61",
-      "time": "2026-06-25 02:21:58",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "The Trump Trade"
-      ],
-      "text": "President Trump said he had a good meeting with lawmakers."
-    },
-    {
-      "id": "mkt:019efadd-fbaf-7dd8-b102-2120ff855e19",
-      "time": "2026-06-25 02:21:52",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "【Senator Warren to call for antitrust scrutiny of AI and reform of M&A review】U.S. Senator Warren will urge Congress to strengthen antitrust enforcement for emerging technologies such as AI and reform M&A review rules to increase information transparency, according to her prepared remarks. She is expected to say: \"Companies cannot escape antitrust scrutiny simply because they use algorithms. If a firm uses AI to illegally drive up rents during a national housing affordability crisis, we must push back.\""
-    },
-    {
-      "id": "4953323",
-      "time": "2026-06-25 02:21:49",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：與國會議員的會面非常愉快。"
     }
   ]
 }
