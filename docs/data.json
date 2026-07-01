@@ -1,7 +1,201 @@
 {
-  "updated": "2026-07-01 20:14:09",
-  "count": 13931,
+  "updated": "2026-07-01 20:18:07",
+  "count": 13941,
   "items": [
+    {
+      "id": "4965229",
+      "time": "2026-07-01 20:16:47",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美元指數在美國ADP就業資料公佈後小幅回吐漲幅，當前上漲0.18%，報101.41點。"
+    },
+    {
+      "id": "4965228",
+      "time": "2026-07-01 20:16:43",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國國債收益率在ADP就業資料公佈後小幅回落漲幅；10年期美國國債收益率目前上漲6.31個基點，報4.485%。"
+    },
+    {
+      "id": "4965227",
+      "time": "2026-07-01 20:16:41",
+      "tags": [
+        "市場"
+      ],
+      "text": "美元/日元上漲0.08%，報162.67。"
+    },
+    {
+      "id": "4965226",
+      "time": "2026-07-01 20:16:31",
+      "tags": [
+        "市場"
+      ],
+      "text": "英鎊兌美元下跌0.16%，報1.3243美元。"
+    },
+    {
+      "id": "4965225",
+      "time": "2026-07-01 20:16:28",
+      "tags": [
+        "市場"
+      ],
+      "text": "歐元兌美元下跌0.32%，報1.1385美元。"
+    },
+    {
+      "id": "mkt:019f1d9b-ea04-7aab-8c57-561ffed31890",
+      "time": "2026-07-01 20:16:24",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "US Economy",
+        "DXY",
+        "Impact bearish",
+        "S&P500",
+        "US10Y",
+        "Impact bullish"
+      ],
+      "text": "ADP chief economist Nela Richardson said the hiring picture shows a dual supply-demand narrative: time to find a job is lengthening while some sectors are facing labor-supply constraints. The net effect is a slowdown in job creation."
+    },
+    {
+      "id": "mkt:019f1d9b-a822-7aab-8c57-48c0742981c2",
+      "time": "2026-07-01 20:16:08",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "DXY",
+        "Impact bearish",
+        "XAUUSD"
+      ],
+      "text": "After ADP data, the dollar index (DXY) slipped briefly to 101.42; spot gold was little changed at $4,024.8/oz."
+    },
+    {
+      "id": "4965224",
+      "time": "2026-07-01 20:15:55",
+      "tags": [
+        "其他"
+      ],
+      "text": "PLAYSTATION：現有PLAYSTATION光碟遊戲不受2028年1月過渡影響。"
+    },
+    {
+      "id": "4965223",
+      "time": "2026-07-01 20:15:32",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國ADP 6月商品生產就業人數增加2000人。"
+    },
+    {
+      "id": "mkt:019f1d9b-046a-7aab-8c57-462e9bfcaa6e",
+      "time": "2026-07-01 20:15:26",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "US Economy",
+        "DXY",
+        "Impact bearish",
+        "S&P500",
+        "Impact bullish",
+        "US10Y"
+      ],
+      "text": "【US ADP private payrolls below expectations】US ADP private payrolls rose 98,000 in June, the smallest monthly gain since March and below the consensus of 118,000."
+    },
+    {
+      "id": "em:jjsj_mgsj:202607013790469242",
+      "time": "2026-07-01 20:15:26",
+      "tags": [
+        "經濟數據",
+        "美國"
+      ],
+      "text": "美國6月ADP就業人數增加9.8萬人，預期11.8萬人，前值12.2萬人。"
+    },
+    {
+      "id": "4965222",
+      "time": "2026-07-01 20:15:16",
+      "tags": [
+        "其他"
+      ],
+      "text": "PlayStation（索尼遊戲主機）：自2028年1月起停止新遊戲實體光碟的生產。"
+    },
+    {
+      "id": "4965221",
+      "time": "2026-07-01 20:15:08",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "【“小非農”人數低於預期】美國6月ADP就業人數 9.8萬人，預期11.8萬人，前值12.2萬人。"
+    },
+    {
+      "id": "mkt:019f1d9a-bdc0-7aab-8c57-3d7e3f1814e8",
+      "time": "2026-07-01 20:15:08",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "US Economy",
+        "DXY",
+        "Impact bearish",
+        "S&P500",
+        "Impact bullish",
+        "EURUSD"
+      ],
+      "text": "US ADP private payrolls +98k in June, below consensus +118k; prior +122k."
+    },
+    {
+      "id": "mkt:019f1d9a-a06d-7aab-8c57-31e4a8bfb8dc",
+      "time": "2026-07-01 20:15:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | ADP Employment Change (Jun) | actual 98000K | consensus 118000K | previous 122000K"
+    },
+    {
+      "id": "4965220",
+      "time": "2026-07-01 20:14:22",
+      "tags": [
+        "公司",
+        "市場",
+        "觀點",
+        "國際"
+      ],
+      "text": "【美股盤前要聞速遞】\n①美股三大股指期貨齊跌，道指期貨跌0.39%，標普500指數期貨跌0.37%，納指期貨漲跌0.66%。\n②德國DAX指數跌0.01%，英國富時100指數跌0.61%，法國CAC40指數跌1.00%，歐洲斯托克50指數跌0.61%。\n③WTI原油跌0.71%，報69.01美元/桶。布倫特原油跌1.06%，報72.18美元/桶。\n④傳伊朗決意對霍爾木茲海峽收“過路費” 或於8月中旬開徵。\n⑤伊朗稱將適時啟動伊美最終協議談判。\n⑥日本負責貨幣事務的最高官員暗示，外匯干預是一項有效策略，並指出東京與華盛頓方面就匯率問題保持著密切溝通。\n⑦微軟盤前漲1.5%，據報將進行新一輪裁員。\n⑧Oklo盤前漲4.3%，此前美國能源部批准了該公司Groves同位素測試反應堆的最終安全分析。\n⑨洛克希德馬丁盤前漲1.8%。此前花旗將其評級從中性提升至買入。"
+    },
+    {
+      "id": "4965219",
+      "time": "2026-07-01 20:14:15",
+      "tags": [
+        "其他"
+      ],
+      "text": "【最新文獻揭露AI時代華爾街同質化風險 同類模型氾濫令阿爾法加速衰減】從對沖基金到財富管理機構，華爾街正在擁抱人工智慧(AI)，期望藉此取得投資優勢。如今，研究人員開始追問，當越來越多投資者轉向類似的AI模型來尋找這種優勢時，會發生什麼：他們會買入相同的股票，對相同的頭條訊息作出反應，有時還會犯下相同的錯誤。新近研究顯示，這種情形可能對整個市場產生影響。人工智慧或許會讓投資者行動更快、掌握更多資訊，但也可能讓他們的交易更趨擁擠、系統更容易被欺騙，風險承擔也更難控制。近期多項研究表明，隨著投資者趨同於相同機會，人工智慧的廣泛採用可能會縮短盈利性交易訊號的壽命。還有研究發現，AI模型系統性地承擔了超出預期的風險，或者會因其攝取的資訊而受到操縱。"
+    },
+    {
+      "id": "te:markets:563430",
+      "time": "2026-07-01 20:13:59",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United Kingdom",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "Shell Stock Price Hits 19-week Low — Shell shares decreased to 2884.00 GBp, the lowest since February 2026. Over the past 4 weeks, Shell plc lost 10.27%, and in the last 12 months, it increased 10.29%."
+    },
+    {
+      "id": "4965218",
+      "time": "2026-07-01 20:13:53",
+      "tags": [
+        "其他"
+      ],
+      "text": "【比利時一公寓樓起火 已致6人死亡】比利時警方當地時間7月1日稱，位於安特衛普的一棟公寓樓當天上午發生火災，造成多人死亡和受傷。消防人員仍在現場搜尋受害者。（央視新聞）"
+    },
     {
       "id": "4965217",
       "time": "2026-07-01 20:13:05",
@@ -128205,83 +128399,6 @@
         "其他"
       ],
       "text": "摩洛哥與智利啟動自由貿易談判。"
-    },
-    {
-      "id": "4952775",
-      "time": "2026-06-24 20:18:00",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【康力電梯：股票交易異常波動 不存在應披露未披露事項】康力電梯公告稱，公司股票於2026年6月22日、6月23日、6月24日連續三個交易日內日收盤價格漲幅偏離值累計達20%，屬異常波動情形。經自查及核實，截至6月24日，公司確認不存在應披露而未披露的重大事項，目前經營正常，市場環境、行業政策未重大調整。2026年一季度公司淨利潤3681.19萬元，同比降46.75%，提醒投資者理性決策，注意風險。"
-    },
-    {
-      "id": "4952774",
-      "time": "2026-06-24 20:17:43",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【布倫特原油跌破每桶75美元 更多船隻恢復穿越霍爾木茲海峽】布倫特原油價格自伊朗戰爭爆發以來首次跌破每桶75美元，越來越多油輪公開穿越霍爾木茲海峽，同時美國和伊朗釋放出結束戰爭的積極訊號。這一全球原油基準價格一度下跌3.1%，觸及2月27日以來最低水平。越來越多船隻在穿越霍爾木茲海峽時保持衛星定位訊號開啟狀態，顯示船東對航運安全的信心正在增強。國際海事組織也表示，已收到相關安全保障，允許數百艘船得以駛離波斯灣。華盛頓和德黑蘭均表示，在旨在結束這場始於2月底的戰爭的談判中已取得初步進展。不過，談判預計仍將持續較長時間，且雙方對談判成果的表述仍存在明顯分歧。霍爾木茲海峽近期原油運輸恢復情況也顯示出供應正在改善。國際能源署估算，阿聯酋目前的原油出口量已恢復至戰前水平的近85%。"
-    },
-    {
-      "id": "4952773",
-      "time": "2026-06-24 20:16:46",
-      "tags": [
-        "其他"
-      ],
-      "text": "惠譽維持漢莎航空“BBB-”評級，展望穩定。"
-    },
-    {
-      "id": "mkt:019ef98f-2768-7dd8-b0f9-0d63a9fea90b",
-      "time": "2026-06-24 20:16:08",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Precious Metals"
-      ],
-      "text": "Spot platinum fell more than 3% to $1,601 an ounce."
-    },
-    {
-      "id": "4952772",
-      "time": "2026-06-24 20:16:05",
-      "tags": [
-        "國際"
-      ],
-      "text": "俄羅斯議會週三透過稅法修正案，旨在緩解因烏克蘭無人機持續襲擊煉油廠導致日益嚴峻的燃油短缺問題，同時推出燃油進口補貼機制，補貼額度參照印度供貨成本與油價設定。"
-    },
-    {
-      "id": "mkt:019ef98e-32f3-7dd8-b0f9-04e13c710389",
-      "time": "2026-06-24 20:15:06",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "Fox News reported U.S. President Trump said Iran will initially receive US$500 mln to buy U.S. goods."
-    },
-    {
-      "id": "mkt:019ef98d-f4ba-7dd8-b0f8-fdc1cdf4b464",
-      "time": "2026-06-24 20:14:50",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Keda Guodun rolls off first domestic ez‑QF1500 dilution refrigerator】Under guidance from the Chinese Academy of Sciences' Institute of Quantum Information and Quantum Technology Innovation, Keda Guodun Quantum Technology Co. completed engineering development of the domestically produced single‑core, high‑cold‑capacity dilution refrigerator ez‑QF1500; the first unit rolled off on June 24, laying groundwork for China's subsequent development of thousand‑qubit, error‑corrected superconducting quantum computers."
-    },
-    {
-      "id": "4952771",
-      "time": "2026-06-24 20:14:43",
-      "tags": [
-        "其他"
-      ],
-      "text": "【殼牌到訪中遠海能】6月24日，殼牌到訪中遠海能，雙方圍繞油氣運輸等領域業務協同開展交流。殼牌對雙方近期高效達成LNG運輸船期租合作表示高度肯定，並期待雙方未來在油氣運輸、船舶燃料供應等方面進一步拓展合作空間。此外，雙方還就全球LNG貿易與運輸市場發展、供應鏈多元化等話題進行了交流。雙方共同表示，將基於現有良好合作基礎，不斷深化戰略協同，持續挖掘油氣運輸、LNG加註等全產業鏈領域的合作機遇。"
-    },
-    {
-      "id": "4952770",
-      "time": "2026-06-24 20:14:28",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普對福克斯新聞表示：先期向伊朗提供5億美元用於購買美國商品。"
     }
   ]
 }
