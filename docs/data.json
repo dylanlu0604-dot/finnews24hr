@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-02 03:07:34",
-  "count": 14120,
+  "updated": "2026-07-02 03:11:20",
+  "count": 14117,
   "items": [
     {
       "id": "4965869",
@@ -130109,32 +130109,6 @@
         "其他"
       ],
       "text": "高通：2026 財年末汽車業務年化營收將達 60 億美元。"
-    },
-    {
-      "id": "mkt:019efb0a-667e-7dd8-b103-0ffcc4ff363c",
-      "time": "2026-06-25 03:10:23",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "U.S. appeals court upholds lower-court ruling that bars the Justice Department from obtaining Michigan voter rolls."
-    },
-    {
-      "id": "4953377",
-      "time": "2026-06-25 03:09:21",
-      "tags": [
-        "市場"
-      ],
-      "text": "在岸人民幣兌美元（CNY）北京時間03:00收報6.8092元，較週二夜盤收盤跌154點。成交量714.35億美元。"
-    },
-    {
-      "id": "mkt:019efb07-f317-7dd8-b103-054f7af03a8e",
-      "time": "2026-06-25 03:07:42",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "The Wall Street Journal reports a startup founded by former Anthropic employees plans to help scientists develop their own AI."
     }
   ]
 }
