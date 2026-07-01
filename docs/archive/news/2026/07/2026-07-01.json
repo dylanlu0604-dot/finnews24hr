@@ -1,7 +1,215 @@
 {
   "date": "2026-07-01",
-  "count": 3296,
+  "count": 3321,
   "items": [
+    {
+      "id": "mkt:019f1df8-6c7c-7aab-8c5d-fa0cad9be094",
+      "time": "2026-07-01 21:57:27",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Dow Jones Industrial Average pared losses, trading down 0.1%."
+    },
+    {
+      "id": "mkt:019f1df8-2586-7aab-8c5d-f7117ba552e4",
+      "time": "2026-07-01 21:57:09",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Bank of Canada Governor Macklem said the central bank's balance sheet has returned to a new stable state."
+    },
+    {
+      "id": "4965565",
+      "time": "2026-07-01 21:57:00",
+      "tags": [
+        "其他"
+      ],
+      "text": "道瓊斯指數跌幅收窄，最新報跌0.1%。"
+    },
+    {
+      "id": "4965564",
+      "time": "2026-07-01 21:56:46",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "加拿大央行行長麥克勒姆：加拿大央行資產負債表已迴歸新穩態水平。"
+    },
+    {
+      "id": "4965563",
+      "time": "2026-07-01 21:56:27",
+      "tags": [
+        "公司"
+      ],
+      "text": "【超20家A股公司集中補稅，7家過億元】又有A股上市公司釋出補繳稅款公告。7月首個交易日（7月1日），福建三鋼閩光股份有限公司釋出公告稱，全資子公司補繳稅款及滯納金2881.34萬元。中新經緯注意到，近段時間以來，A股上市公司密集補繳稅款。以剛剛過去的6月份為例，至少有25家公司披露補繳稅款相關公告。上述公司中有7家公司補稅及滯納金的金額過億元，分別為北大荒（14.1億元）、華菱鋼鐵（6.96億元）、百濟神州（4.46億元）、愛施德（3.08億元）、華致酒行（1.27億元）、五礦資本（1.22億元）、深桑達A（1.21億元）。其中，百濟神州、華致酒行、五礦資本、深桑達A等均為子公司補稅。（中新經緯）"
+    },
+    {
+      "id": "4965562",
+      "time": "2026-07-01 21:56:11",
+      "tags": [
+        "其他"
+      ],
+      "text": "【海南：探索組建康養產業聯盟 以科技賦能產業提質升級】海南日報訊息，7月1日，海南省委召開專題會議，研究部署推動人口高質量發展、發展康養產業等工作。會議指出，海南發展康養產業具有獨特優勢，要立足資源稟賦，深耕特色賽道，推動康養產業精細化、特色化、品牌化發展，擦亮健康島、長壽島品牌。要堅持市場化主導，聚焦中醫藥康養、森林康養、氣候康養、溫泉康養、運動康養等重點，努力打造一批標誌性康養專案。要完善標準體系，建立健全統一完善的康養產業標準，探索組建康養產業聯盟，以科技賦能產業提質升級。要提升國際化水平，推動與國際康養服務標準相通相容，暢通專業人才和團隊資質互認渠道，既立足“中華民族四季花園”定位，又全力打造國際康養勝地。"
+    },
+    {
+      "id": "4965561",
+      "time": "2026-07-01 21:55:58",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "現代汽車美國公司 6 月總銷量 77555 臺，同比增長 11%。"
+    },
+    {
+      "id": "mkt:019f1df6-f5c4-7aab-8c5d-ed50dcd4e15e",
+      "time": "2026-07-01 21:55:51",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy"
+      ],
+      "text": "Hyundai Motor America said June U.S. total sales were 77,555 units, up 11% year-on-year."
+    },
+    {
+      "id": "4965560",
+      "time": "2026-07-01 21:55:50",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國北約大使：預計在安卡拉峰會上將對烏克蘭支援作出長期持續的承諾。"
+    },
+    {
+      "id": "mkt:019f1df6-c110-7aab-8c5d-e3a675a58afb",
+      "time": "2026-07-01 21:55:38",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "DXY"
+      ],
+      "text": "U.S. ambassador to NATO says he expects the Ankara summit to yield a long-term, sustained commitment of support for Ukraine."
+    },
+    {
+      "id": "4965559",
+      "time": "2026-07-01 21:55:34",
+      "tags": [
+        "行業"
+      ],
+      "text": "【乘聯分會崔東樹：6月國際汽車整車企業市值變化相對較大，總體極其慘烈】7月1日，乘聯分會秘書長崔東樹透過其微信公眾號發文表示，6月國際汽車整車企業市值變化相對較大，總體極其慘烈。特斯拉市值同比增47%環比降4%，其他國際車企6月市值總體處於2025年以來最低位，市場較低迷。"
+    },
+    {
+      "id": "4965558",
+      "time": "2026-07-01 21:55:14",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲沃什：希望利率政策能夠為貨幣政策提供有效支援。"
+    },
+    {
+      "id": "mkt:019f1df6-39d9-7aab-8c5d-dfc94a3bd964",
+      "time": "2026-07-01 21:55:03",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "【Fed chair Kevin Warsh: partial roster of special working groups to be released next week】Fed chair Kevin Warsh said on Wednesday he will begin publishing next week the names of some external experts appointed to special working groups tasked with studying issues facing the central bank. He said the roster will include academics and experts from outside the United States."
+    },
+    {
+      "id": "mkt:019f1df6-1506-7aab-8c5d-d4f3794ec022",
+      "time": "2026-07-01 21:54:54",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Bank of England Governor Bailey said the central bank must set appropriate policies so its balance sheet reflects the needs of the financial system."
+    },
+    {
+      "id": "mkt:019f1df5-d922-7aab-8c5d-c9022ceed766",
+      "time": "2026-07-01 21:54:38",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Bank of England governor Bailey said the central bank's balance sheet should reflect demand for reserves."
+    },
+    {
+      "id": "4965557",
+      "time": "2026-07-01 21:54:34",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "英國央行貝利：資產負債表應反映準備金需求。"
+    },
+    {
+      "id": "mkt:019f1df5-b5d4-7aab-8c5d-c2f9b3cefc60",
+      "time": "2026-07-01 21:54:29",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Bank of England Governor Bailey said he hopes to remove interest-rate risk from the central bank's balance sheet."
+    },
+    {
+      "id": "4965556",
+      "time": "2026-07-01 21:54:10",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "【美聯儲沃什：即便面臨特朗普施壓也將堅守獨立性】美聯儲沃什反駁了美國總統唐納德・特朗普針對美聯儲發起的施壓攻勢，他表示，無論總統抱有何種訴求，美聯儲的獨立性都不會發生改變。 “我們作為獨立央行的歷史由來已久，”沃什稱，“當下我們仍會堅守獨立央行的定位，這一點絕不會有任何動搖。” 此番表態是沃什就任以來面臨的首次考驗。此前特朗普多年來頻頻抨擊傑羅姆・鮑威爾的利率政策，指責其降息節奏過於遲緩，隨後沃什接替鮑威爾出任美聯儲主席。 鮑威爾的美聯儲主席任期已於今年結束。任職期間，他多次捍衛美聯儲的獨立性，強調美聯儲官員只會依據經濟資料制定政策，絕不會屈從於政治壓力。"
+    },
+    {
+      "id": "mkt:019f1df5-486f-7aab-8c5d-bdde2bf5d53d",
+      "time": "2026-07-01 21:54:01",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "EUR/GBP fell to a one-year low of 0.8586."
+    },
+    {
+      "id": "4965555",
+      "time": "2026-07-01 21:53:53",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "英國央行行長貝利：我們希望將利率風險從央行的資產負債表中剝離出去。"
+    },
+    {
+      "id": "4965554",
+      "time": "2026-07-01 21:53:37",
+      "tags": [
+        "國際"
+      ],
+      "text": "菲律賓國家經濟發展署釋出宣告稱 ：菲律賓現已躋身世界銀行中高收入經濟體行列。"
+    },
+    {
+      "id": "em:qqyh_mlc:202607013790556255",
+      "time": "2026-07-01 21:53:30",
+      "tags": [
+        "央行",
+        "美聯儲"
+      ],
+      "text": "【美聯儲主席沃什：對資產負債表規模問題持開放態度】美聯儲主席沃什表示，任何有關資產負債表的決策都將公開討論，對資產負債表規模問題持開放態度。"
+    },
+    {
+      "id": "4965553",
+      "time": "2026-07-01 21:53:28",
+      "tags": [
+        "其他"
+      ],
+      "text": "沃什：資產負債表主要透過資產價格發揮作用。"
+    },
+    {
+      "id": "4965552",
+      "time": "2026-07-01 21:53:21",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國北約大使：歐洲防務產業整合不足。"
+    },
     {
       "id": "mkt:019f1df4-a419-7aab-8c5d-b145cb454546",
       "time": "2026-07-01 21:53:19",
@@ -91,6 +299,15 @@
         "國際"
       ],
       "text": "美聯儲沃什：任何有關資產負債表的決策都將公開討論。"
+    },
+    {
+      "id": "em:qqyh_mlc:202607013790555695",
+      "time": "2026-07-01 21:52:24",
+      "tags": [
+        "央行",
+        "美聯儲"
+      ],
+      "text": "【美聯儲主席沃什：希望美聯儲資產負債表規模縮小 主要透過資產價格運作】美聯儲主席沃什表示，他希望美聯儲的資產負債表規模縮小，這已不是什麼秘密。資產負債表主要透過資產價格運作。"
     },
     {
       "id": "4965547",

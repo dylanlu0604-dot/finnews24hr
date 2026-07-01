@@ -1,7 +1,215 @@
 {
-  "updated": "2026-07-01 21:53:57",
-  "count": 14173,
+  "updated": "2026-07-01 21:58:02",
+  "count": 14187,
   "items": [
+    {
+      "id": "mkt:019f1df8-6c7c-7aab-8c5d-fa0cad9be094",
+      "time": "2026-07-01 21:57:27",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Dow Jones Industrial Average pared losses, trading down 0.1%."
+    },
+    {
+      "id": "mkt:019f1df8-2586-7aab-8c5d-f7117ba552e4",
+      "time": "2026-07-01 21:57:09",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Bank of Canada Governor Macklem said the central bank's balance sheet has returned to a new stable state."
+    },
+    {
+      "id": "4965565",
+      "time": "2026-07-01 21:57:00",
+      "tags": [
+        "其他"
+      ],
+      "text": "道瓊斯指數跌幅收窄，最新報跌0.1%。"
+    },
+    {
+      "id": "4965564",
+      "time": "2026-07-01 21:56:46",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "加拿大央行行長麥克勒姆：加拿大央行資產負債表已迴歸新穩態水平。"
+    },
+    {
+      "id": "4965563",
+      "time": "2026-07-01 21:56:27",
+      "tags": [
+        "公司"
+      ],
+      "text": "【超20家A股公司集中補稅，7家過億元】又有A股上市公司釋出補繳稅款公告。7月首個交易日（7月1日），福建三鋼閩光股份有限公司釋出公告稱，全資子公司補繳稅款及滯納金2881.34萬元。中新經緯注意到，近段時間以來，A股上市公司密集補繳稅款。以剛剛過去的6月份為例，至少有25家公司披露補繳稅款相關公告。上述公司中有7家公司補稅及滯納金的金額過億元，分別為北大荒（14.1億元）、華菱鋼鐵（6.96億元）、百濟神州（4.46億元）、愛施德（3.08億元）、華致酒行（1.27億元）、五礦資本（1.22億元）、深桑達A（1.21億元）。其中，百濟神州、華致酒行、五礦資本、深桑達A等均為子公司補稅。（中新經緯）"
+    },
+    {
+      "id": "4965562",
+      "time": "2026-07-01 21:56:11",
+      "tags": [
+        "其他"
+      ],
+      "text": "【海南：探索組建康養產業聯盟 以科技賦能產業提質升級】海南日報訊息，7月1日，海南省委召開專題會議，研究部署推動人口高質量發展、發展康養產業等工作。會議指出，海南發展康養產業具有獨特優勢，要立足資源稟賦，深耕特色賽道，推動康養產業精細化、特色化、品牌化發展，擦亮健康島、長壽島品牌。要堅持市場化主導，聚焦中醫藥康養、森林康養、氣候康養、溫泉康養、運動康養等重點，努力打造一批標誌性康養專案。要完善標準體系，建立健全統一完善的康養產業標準，探索組建康養產業聯盟，以科技賦能產業提質升級。要提升國際化水平，推動與國際康養服務標準相通相容，暢通專業人才和團隊資質互認渠道，既立足“中華民族四季花園”定位，又全力打造國際康養勝地。"
+    },
+    {
+      "id": "4965561",
+      "time": "2026-07-01 21:55:58",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "現代汽車美國公司 6 月總銷量 77555 臺，同比增長 11%。"
+    },
+    {
+      "id": "mkt:019f1df6-f5c4-7aab-8c5d-ed50dcd4e15e",
+      "time": "2026-07-01 21:55:51",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy"
+      ],
+      "text": "Hyundai Motor America said June U.S. total sales were 77,555 units, up 11% year-on-year."
+    },
+    {
+      "id": "4965560",
+      "time": "2026-07-01 21:55:50",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國北約大使：預計在安卡拉峰會上將對烏克蘭支援作出長期持續的承諾。"
+    },
+    {
+      "id": "mkt:019f1df6-c110-7aab-8c5d-e3a675a58afb",
+      "time": "2026-07-01 21:55:38",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "DXY"
+      ],
+      "text": "U.S. ambassador to NATO says he expects the Ankara summit to yield a long-term, sustained commitment of support for Ukraine."
+    },
+    {
+      "id": "4965559",
+      "time": "2026-07-01 21:55:34",
+      "tags": [
+        "行業"
+      ],
+      "text": "【乘聯分會崔東樹：6月國際汽車整車企業市值變化相對較大，總體極其慘烈】7月1日，乘聯分會秘書長崔東樹透過其微信公眾號發文表示，6月國際汽車整車企業市值變化相對較大，總體極其慘烈。特斯拉市值同比增47%環比降4%，其他國際車企6月市值總體處於2025年以來最低位，市場較低迷。"
+    },
+    {
+      "id": "4965558",
+      "time": "2026-07-01 21:55:14",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲沃什：希望利率政策能夠為貨幣政策提供有效支援。"
+    },
+    {
+      "id": "mkt:019f1df6-39d9-7aab-8c5d-dfc94a3bd964",
+      "time": "2026-07-01 21:55:03",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "【Fed chair Kevin Warsh: partial roster of special working groups to be released next week】Fed chair Kevin Warsh said on Wednesday he will begin publishing next week the names of some external experts appointed to special working groups tasked with studying issues facing the central bank. He said the roster will include academics and experts from outside the United States."
+    },
+    {
+      "id": "mkt:019f1df6-1506-7aab-8c5d-d4f3794ec022",
+      "time": "2026-07-01 21:54:54",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Bank of England Governor Bailey said the central bank must set appropriate policies so its balance sheet reflects the needs of the financial system."
+    },
+    {
+      "id": "mkt:019f1df5-d922-7aab-8c5d-c9022ceed766",
+      "time": "2026-07-01 21:54:38",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Bank of England governor Bailey said the central bank's balance sheet should reflect demand for reserves."
+    },
+    {
+      "id": "4965557",
+      "time": "2026-07-01 21:54:34",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "英國央行貝利：資產負債表應反映準備金需求。"
+    },
+    {
+      "id": "mkt:019f1df5-b5d4-7aab-8c5d-c2f9b3cefc60",
+      "time": "2026-07-01 21:54:29",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Bank of England Governor Bailey said he hopes to remove interest-rate risk from the central bank's balance sheet."
+    },
+    {
+      "id": "4965556",
+      "time": "2026-07-01 21:54:10",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "【美聯儲沃什：即便面臨特朗普施壓也將堅守獨立性】美聯儲沃什反駁了美國總統唐納德・特朗普針對美聯儲發起的施壓攻勢，他表示，無論總統抱有何種訴求，美聯儲的獨立性都不會發生改變。 “我們作為獨立央行的歷史由來已久，”沃什稱，“當下我們仍會堅守獨立央行的定位，這一點絕不會有任何動搖。” 此番表態是沃什就任以來面臨的首次考驗。此前特朗普多年來頻頻抨擊傑羅姆・鮑威爾的利率政策，指責其降息節奏過於遲緩，隨後沃什接替鮑威爾出任美聯儲主席。 鮑威爾的美聯儲主席任期已於今年結束。任職期間，他多次捍衛美聯儲的獨立性，強調美聯儲官員只會依據經濟資料制定政策，絕不會屈從於政治壓力。"
+    },
+    {
+      "id": "mkt:019f1df5-486f-7aab-8c5d-bdde2bf5d53d",
+      "time": "2026-07-01 21:54:01",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "EUR/GBP fell to a one-year low of 0.8586."
+    },
+    {
+      "id": "4965555",
+      "time": "2026-07-01 21:53:53",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "英國央行行長貝利：我們希望將利率風險從央行的資產負債表中剝離出去。"
+    },
+    {
+      "id": "4965554",
+      "time": "2026-07-01 21:53:37",
+      "tags": [
+        "國際"
+      ],
+      "text": "菲律賓國家經濟發展署釋出宣告稱 ：菲律賓現已躋身世界銀行中高收入經濟體行列。"
+    },
+    {
+      "id": "em:qqyh_mlc:202607013790556255",
+      "time": "2026-07-01 21:53:30",
+      "tags": [
+        "央行",
+        "美聯儲"
+      ],
+      "text": "【美聯儲主席沃什：對資產負債表規模問題持開放態度】美聯儲主席沃什表示，任何有關資產負債表的決策都將公開討論，對資產負債表規模問題持開放態度。"
+    },
+    {
+      "id": "4965553",
+      "time": "2026-07-01 21:53:28",
+      "tags": [
+        "其他"
+      ],
+      "text": "沃什：資產負債表主要透過資產價格發揮作用。"
+    },
+    {
+      "id": "4965552",
+      "time": "2026-07-01 21:53:21",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國北約大使：歐洲防務產業整合不足。"
+    },
     {
       "id": "mkt:019f1df4-a419-7aab-8c5d-b145cb454546",
       "time": "2026-07-01 21:53:19",
@@ -91,6 +299,15 @@
         "國際"
       ],
       "text": "美聯儲沃什：任何有關資產負債表的決策都將公開討論。"
+    },
+    {
+      "id": "em:qqyh_mlc:202607013790555695",
+      "time": "2026-07-01 21:52:24",
+      "tags": [
+        "央行",
+        "美聯儲"
+      ],
+      "text": "【美聯儲主席沃什：希望美聯儲資產負債表規模縮小 主要透過資產價格運作】美聯儲主席沃什表示，他希望美聯儲的資產負債表規模縮小，這已不是什麼秘密。資產負債表主要透過資產價格運作。"
     },
     {
       "id": "4965547",
@@ -130547,117 +130764,6 @@
         "國際"
       ],
       "text": "【報告：美國天然氣期貨在區間交易中持穩】隨著美國天然氣期貨繼續在相當偏窄的區間內交易，其價格小幅走高。EBW Analytics的Eli Rubin在一份報告中表示，6月份迄今為止，亨利港的現貨價格平均為每百萬英熱單位3.11美元，為處於近期區間底部的紐約商交所近月合約提供了支撐。他說，進入7月份氣溫升高以及液化天然氣出口預期增加，可能會提供需求側的支撐。他補充說，對“看漲敘事“的挑戰包括產量恢復以及管道維護結束使得亨利港有更多供應。紐約商交所天然氣期貨上漲0.5%，報每百萬英熱單位3.162美元。"
-    },
-    {
-      "id": "te:markets:561573",
-      "time": "2026-06-24 21:57:52",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Canada",
-        "Currency",
-        "Importance 1"
-      ],
-      "text": "Canadian Dollar Weakens to 1-Year Low — The Canadian dollar sank to a one-year low of 1.42 per USD in late June amid, tracking other G10 currencies as the outlook of a hawkish Fed supported the US dollar. Multiple FOMC members projected more than one rate hike this year as US inflation picks up. Meanwhile, core inflation rates tracked by the Bank of Canada remained near their 2% target in May despite the surge in energy prices during the period, aligning with the central bank's earlier signal that the war in Iran may only have transitionary effects on headline price growth. The Bank of Canada kept its key interest rate unchanged at 2.25% at its latest meeting, and signaled that it sees risks on both sides of its inflation and employment mandate amid the uncertain economic backdrop."
-    },
-    {
-      "id": "te:markets:561571",
-      "time": "2026-06-24 21:56:51",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Silver Falls to December-Lows — Silver prices fell about 5% to $59 per ounce on Wednesday, their lowest level since December, tracking broader weakness across the precious metals complex. The decline was driven by a stronger US dollar and growing expectations that the Fed will maintain a hawkish policy stance, prompting traders to increase bets on an interest-rate hike later this year. Markets currently assign a roughly 68% probability of a Fed rate increase in September, up from 29% a week ago. Silver and other precious metals also came under additional selling pressure as a sharp decline in US technology stocks led some investors to reduce bullion holdings to help offset losses elsewhere in their portfolios. Silver is now down about 13% year-to-date and nearly 47% below its record high reached in January, before the outbreak of the conflict with Iran."
-    },
-    {
-      "id": "4952988",
-      "time": "2026-06-24 21:56:29",
-      "tags": [
-        "其他"
-      ],
-      "text": "英國電網運營機構撤銷週三電力供應餘量預警。"
-    },
-    {
-      "id": "mkt:019ef9ea-e7e9-7dd8-b0fb-8f472babeb77",
-      "time": "2026-06-24 21:56:21",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Precious Metals",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "XAUUSD",
-        "Impact bearish",
-        "HOC.L",
-        "FRES.L"
-      ],
-      "text": "【Gold falls below $4,000/oz; precious‑metals miners slump】Gold slipped below $4,000/oz for the first time since November 2025 as market expectations of further Federal Reserve rate hikes and a firmer dollar pressured bullion. Silver also tumbled, weighing on miners. London‑listed precious‑metals stocks moved sharply lower: Hochschild fell more than 9% in after‑hours trade to a six‑month low, Fresnillo dropped 5.1% and Endeavour Mining slid 5.25%."
-    },
-    {
-      "id": "4952987",
-      "time": "2026-06-24 21:54:52",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "歐洲央行執委奇波洛內：數字歐元不會對金融穩定構成風險。數字歐元對銀行的影響“微乎其微”。"
-    },
-    {
-      "id": "4952986",
-      "time": "2026-06-24 21:54:31",
-      "tags": [
-        "其他"
-      ],
-      "text": "葛蘭素史克宣佈要約收購Nuvalent。"
-    },
-    {
-      "id": "mkt:019ef9e9-02ce-7dd8-b0fb-83c6792656da",
-      "time": "2026-06-24 21:54:17",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Guanzhong Customs: Xi'an Jan-May 2026 total trade up 85.1% YoY】Guanzhong Customs said Xi'an's Jan-May 2026 imports and exports totaled 352.5 bln yuan, up 85.1% YoY — 69.8 percentage points above national trade growth and the fastest pace among 15 sub-provincial cities. Exports were 277.3 bln yuan (+107.8% YoY); imports 75.2 bln yuan (+31.9% YoY). Trade surplus totaled 202.1 bln yuan."
-    },
-    {
-      "id": "mkt:019ef9e8-fb9c-7dd8-b0fb-7a739b6dc243",
-      "time": "2026-06-24 21:54:15",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "Brent",
-        "Impact bearish"
-      ],
-      "text": "【Brent near-month spread flips to contango for first time since Feb; oversupply expectations rise】A US-Iran agreement reopening the Strait of Hormuz has increased Middle East supply, and Brent's near-month spread has flipped into contango for the first time since February — the front-month now trades below the next-month contract. Contango typically signals expected supply surplus; the move coincides with falling physical crude premia and similar weakness in the Dubai market. Earlier today Brent dipped below $75/bbl for the first time since the outbreak of the Iran war."
-    },
-    {
-      "id": "mkt:019ef9e8-dfec-7dd8-b0fb-72a113cb11be",
-      "time": "2026-06-24 21:54:08",
-      "tags": [
-        "MKT News",
-        "S&P500",
-        "Impact bullish"
-      ],
-      "text": "S&P 500 extended gains to 0.5%."
-    },
-    {
-      "id": "4952985",
-      "time": "2026-06-24 21:54:07",
-      "tags": [
-        "市場"
-      ],
-      "text": "標普500指數漲幅擴大至0.5%。"
-    },
-    {
-      "id": "mkt:019ef9e8-c00d-7dd8-b0fb-691388209fa4",
-      "time": "2026-06-24 21:54:00",
-      "tags": [
-        "MKT News",
-        "EURUSD"
-      ],
-      "text": "ECB executive board member Cipellone said the digital euro will not pose a risk to financial stability."
     }
   ]
 }
