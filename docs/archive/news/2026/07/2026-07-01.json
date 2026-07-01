@@ -1,7 +1,107 @@
 {
   "date": "2026-07-01",
-  "count": 3591,
+  "count": 3602,
   "items": [
+    {
+      "id": "mkt:019f1e34-e25e-7aab-8c61-633ba8c3d35e",
+      "time": "2026-07-01 23:03:30",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Bank of Mexico survey: private-sector analysts expect the Mexican peso at 17.88 per USD at end-2026 and 18.50 per USD at end-2027."
+    },
+    {
+      "id": "4965712",
+      "time": "2026-07-01 23:03:06",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "墨西哥央行調查：私營機構分析師預計 2027 年末基準利率將降至 6.50%。"
+    },
+    {
+      "id": "mkt:019f1e34-114f-7aab-8c61-5a7e1372d326",
+      "time": "2026-07-01 23:02:36",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Bank of Mexico survey: private-sector analysts expect Mexico GDP growth of 1.10% in 2026 and 1.80% in 2027."
+    },
+    {
+      "id": "4965711",
+      "time": "2026-07-01 23:02:18",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "墨西哥央行調查：私營部門分析師預計2026年底整體通脹為4.20%，預計2027年底整體通脹為3.84%。預計2026年底核心通脹為4.18%，預計2027年底核心通脹為3.80%。"
+    },
+    {
+      "id": "mkt:019f1e33-8d0e-7aab-8c61-512da7fcd0b5",
+      "time": "2026-07-01 23:02:02",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Banxico survey: private-sector analysts expect headline inflation of 4.20% at end-2026 and 3.84% at end-2027; core inflation projected at 4.18% and 3.80% at those dates."
+    },
+    {
+      "id": "mkt:019f1e32-fcca-7aab-8c61-4c9bc1b6e652",
+      "time": "2026-07-01 23:01:25",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "At the 23:00 close, China's commodity futures most-active contracts were mixed with losses predominating. Liquefied petroleum gas (LPG) fell more than 3%, methanol declined nearly 3%, and fuel oil dropped over 2%. Low-sulfur fuel oil (LU), synthetic rubber, bitumen, polypropylene and plastics lost more than 1%. Iron ore rose over 1%, while pulp and soybean meal gained about 1%."
+    },
+    {
+      "id": "mkt:019f1e32-dade-7aab-8c61-45c44ebdc6d4",
+      "time": "2026-07-01 23:01:17",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish"
+      ],
+      "text": "WTI crude oil futures down 2.00% intraday at $68.11/bbl."
+    },
+    {
+      "id": "mkt:019f1e32-a65f-7aab-8c61-3b04bb57f741",
+      "time": "2026-07-01 23:01:03",
+      "tags": [
+        "MKT News",
+        "GM.N",
+        "Impact bullish"
+      ],
+      "text": "GM : Cumulative electric-vehicle sales exceeded 100,000 units through end-April."
+    },
+    {
+      "id": "4965710",
+      "time": "2026-07-01 23:00:32",
+      "tags": [
+        "市場"
+      ],
+      "text": "WTI原油日內跌2%，現報68.11美元/桶。"
+    },
+    {
+      "id": "te:markets:563502",
+      "time": "2026-07-01 23:00:11",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "FX Updates: Indian Rupee Depreciates by 0.69% — Top currency losers are Indian Rupee (-0.69%), Brazilian Real (-0.48%), South Korean Won (-0.37%) and Euro (-0.25%). Gains are led by British Pound (0.12%), Dollar Index (0.11%) and Japanese Yen (0.11%)."
+    },
+    {
+      "id": "4965709",
+      "time": "2026-07-01 23:00:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "【夜盤期貨收盤】液化石油氣連續跌3.16%，甲醇連續跌2.96%，燃料油連續跌2.27%，鐵礦石連續漲1.70%，低硫燃料油連續跌1.67%。"
+    },
     {
       "id": "4965708",
       "time": "2026-07-01 22:59:13",

@@ -1,7 +1,107 @@
 {
-  "updated": "2026-07-01 23:00:03",
-  "count": 14262,
+  "updated": "2026-07-01 23:04:00",
+  "count": 14264,
   "items": [
+    {
+      "id": "mkt:019f1e34-e25e-7aab-8c61-633ba8c3d35e",
+      "time": "2026-07-01 23:03:30",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Bank of Mexico survey: private-sector analysts expect the Mexican peso at 17.88 per USD at end-2026 and 18.50 per USD at end-2027."
+    },
+    {
+      "id": "4965712",
+      "time": "2026-07-01 23:03:06",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "墨西哥央行調查：私營機構分析師預計 2027 年末基準利率將降至 6.50%。"
+    },
+    {
+      "id": "mkt:019f1e34-114f-7aab-8c61-5a7e1372d326",
+      "time": "2026-07-01 23:02:36",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Bank of Mexico survey: private-sector analysts expect Mexico GDP growth of 1.10% in 2026 and 1.80% in 2027."
+    },
+    {
+      "id": "4965711",
+      "time": "2026-07-01 23:02:18",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "墨西哥央行調查：私營部門分析師預計2026年底整體通脹為4.20%，預計2027年底整體通脹為3.84%。預計2026年底核心通脹為4.18%，預計2027年底核心通脹為3.80%。"
+    },
+    {
+      "id": "mkt:019f1e33-8d0e-7aab-8c61-512da7fcd0b5",
+      "time": "2026-07-01 23:02:02",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Banxico survey: private-sector analysts expect headline inflation of 4.20% at end-2026 and 3.84% at end-2027; core inflation projected at 4.18% and 3.80% at those dates."
+    },
+    {
+      "id": "mkt:019f1e32-fcca-7aab-8c61-4c9bc1b6e652",
+      "time": "2026-07-01 23:01:25",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "At the 23:00 close, China's commodity futures most-active contracts were mixed with losses predominating. Liquefied petroleum gas (LPG) fell more than 3%, methanol declined nearly 3%, and fuel oil dropped over 2%. Low-sulfur fuel oil (LU), synthetic rubber, bitumen, polypropylene and plastics lost more than 1%. Iron ore rose over 1%, while pulp and soybean meal gained about 1%."
+    },
+    {
+      "id": "mkt:019f1e32-dade-7aab-8c61-45c44ebdc6d4",
+      "time": "2026-07-01 23:01:17",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish"
+      ],
+      "text": "WTI crude oil futures down 2.00% intraday at $68.11/bbl."
+    },
+    {
+      "id": "mkt:019f1e32-a65f-7aab-8c61-3b04bb57f741",
+      "time": "2026-07-01 23:01:03",
+      "tags": [
+        "MKT News",
+        "GM.N",
+        "Impact bullish"
+      ],
+      "text": "GM : Cumulative electric-vehicle sales exceeded 100,000 units through end-April."
+    },
+    {
+      "id": "4965710",
+      "time": "2026-07-01 23:00:32",
+      "tags": [
+        "市場"
+      ],
+      "text": "WTI原油日內跌2%，現報68.11美元/桶。"
+    },
+    {
+      "id": "te:markets:563502",
+      "time": "2026-07-01 23:00:11",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "FX Updates: Indian Rupee Depreciates by 0.69% — Top currency losers are Indian Rupee (-0.69%), Brazilian Real (-0.48%), South Korean Won (-0.37%) and Euro (-0.25%). Gains are led by British Pound (0.12%), Dollar Index (0.11%) and Japanese Yen (0.11%)."
+    },
+    {
+      "id": "4965709",
+      "time": "2026-07-01 23:00:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "【夜盤期貨收盤】液化石油氣連續跌3.16%，甲醇連續跌2.96%，燃料油連續跌2.27%，鐵礦石連續漲1.70%，低硫燃料油連續跌1.67%。"
+    },
     {
       "id": "4965708",
       "time": "2026-07-01 22:59:13",
@@ -131461,87 +131561,6 @@
         "Impact bullish"
       ],
       "text": "CoreWeave (CRWV.O) has partnered with Conapto to deploy data-center capacity in Stockholm."
-    },
-    {
-      "id": "4953107",
-      "time": "2026-06-24 23:02:25",
-      "tags": [
-        "其他",
-        "焦點"
-      ],
-      "text": "【我國科研團隊透過體外建模重現人類器官形成過程】從一顆受精卵到發育出軀幹結構、各類器官前體細胞，這個過程被稱為原腸運動。因發生在母體內，人類胚胎原腸運動的誘發機制、發生過程等仍是發育生物學古老的謎題之一。6月24日，中國農業大學生物學院教授魏育蕾與中國科學院動物研究所研究員於樂謙聯合團隊在國際學術期刊《細胞》上釋出研究成果：透過成功構建世界首個人類胚盤樣原腸模型，在體外精準重現了人類原腸運動的發生以及器官有序形成的動態過程。專家認為，這項研究為了解人類早期發育與器官形成過程，實現體外大規模製備器官種子用於再生醫學提供了全新技術路徑。（新華社）"
-    },
-    {
-      "id": "4953106",
-      "time": "2026-06-24 23:01:50",
-      "tags": [
-        "國際"
-      ],
-      "text": "【特朗普稱伊朗霍爾木茲收費談判終止】阿曼通訊社6月23日報道，阿曼已經在霍爾木茲海峽開闢一條臨時航道供船隻通行，阿曼致力於確保船隻“在這一戰略水道自由航行且不徵收通行費”。美國總統特朗普今天（6月24日）在社交媒體發文威脅稱，如果伊朗開始向透過霍爾木茲海峽的船隻收取費用，他將終止與伊朗的和平談判。 （CCTV國際時訊）"
-    },
-    {
-      "id": "mkt:019efa26-7ebe-7dd8-b0fd-e63b52c14adf",
-      "time": "2026-06-24 23:01:27",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "As of the 23:00 close, China's most-active futures contracts were mostly lower: 20# rubber fell over 5%; PET chips and PTA declined about 5%; synthetic rubber, p-xylene, rubber and propylene dropped more than 4%; LPG, polypropylene, short fiber and ethylene glycol fell over 3%. On the upside, coke rose just over 1%."
-    },
-    {
-      "id": "mkt:019efa26-7332-7dd8-b0fd-d844c1fb4389",
-      "time": "2026-06-24 23:01:24",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "HKEX filings show Xiamen Ruiwei Information Technology Co., Ltd. has passed its listing hearing."
-    },
-    {
-      "id": "4953105",
-      "time": "2026-06-24 23:01:18",
-      "tags": [
-        "公司"
-      ],
-      "text": "【華恒生物：實際控制人郭恆華因涉嫌非法吸收公眾存款罪被刑事拘留】華恒生物公告，公司於2026年6月24日收到實際控制人、董事長兼總經理郭恆華女士家屬告知，郭恆華因涉嫌非法吸收公眾存款罪被合肥市公安局蜀山分局刑事拘留，調查事項與公司經營無關。同日，郭恆華辭去公司董事長、總經理、董事及董事會下屬各專門委員會全部職務，辭職後不再擔任公司任何職務。公司緊急召開董事會，選舉並聘任樊義先生為公司董事長、總經理。公司主要業務為生物製造，不涉及非法吸收公眾存款，目前生產經營正常，該事項不會對日常經營活動產生重大不利影響。"
-    },
-    {
-      "id": "mkt:019efa25-f4cc-7dd8-b0fd-d491cb7c3444",
-      "time": "2026-06-24 23:00:51",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "【Data show nearly 20% of vessels transiting Strait of Hormuz on Monday linked to Iran sanctions】Kpler shipping-tracking data show nine of 48 commercial vessels confirmed transiting the Strait of Hormuz on Monday — roughly 20% — had previously been sanctioned for energy shipments linked to Iran, Russia or Venezuela. An Iran-flagged bulk carrier, Warta, was tracked entering the Persian Gulf. Two Curaçao-flagged crude tankers, Asha and Lumina Ocean, were sailing along the strait's northern \"Iran route.\" Curaçao-flagged tanker Titan and Botswana-flagged tanker Vigor also exited the strait on Monday."
-    },
-    {
-      "id": "4953104",
-      "time": "2026-06-24 23:00:21",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【多隻場內LOF溢價率持續飆升，基金公司緊急實施“一日兩停”提示風險】6月24日，多隻場內LOF產品因溢價率持續飆升，引發市場高度關注。例如，全球晶片LOF溢價率超28%，財通福鑫定開混合的盤中溢價率更是一度逼近50%。面對極端行情，多家基金公司緊急啟動“一日兩停”管控措施，並密集釋出溢價風險提示公告，年內相關提示已超百份。與此同時，在微信、小紅書、抖音等平臺，有不少網友分享LOF套利“薅羊毛”攻略，“看完就懂，一天賺幾百，普通人也能複製，無痛套利……”等字眼看得人蠢蠢欲動。業內人士表示，高溢價本質上是非理性追漲情緒的反映，疊加部分產品流動性不足、個人投資者佔比過高，溢價回撥可能帶來淨值下跌與溢價收縮的雙重衝擊。對於普通投資者而言，盲目參與高溢價場內博弈風險極大，理性評估持倉、分批退出或選擇場外基金按淨值申購，或許是更為穩妥的選擇。（中國基金報）"
-    },
-    {
-      "id": "4953103",
-      "time": "2026-06-24 23:00:21",
-      "tags": [
-        "國際"
-      ],
-      "text": "【中國式現代化成就圖片展在莫斯科舉行】“命運與共 大道致遠”中國式現代化成就圖片展23日在中國駐俄羅斯大使館舉行。圖片展共展出40幅精選的新華社照片，呈現中國在經濟、社會、科技、文化等領域取得的歷史性、開創性成就。（新華社）"
-    },
-    {
-      "id": "te:markets:561599",
-      "time": "2026-06-24 23:00:17",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Currency",
-        "Importance 1"
-      ],
-      "text": "FX Updates: Norwegian Krone Depreciates by 0.79% — Top currency losers are Norwegian Krone (-0.79%), South Korean Won (-0.67%), Mexican Peso (-0.57%), British Pound (-0.43%), Euro (-0.36%) and Japanese Yen (-0.15%). Gains are led by Indian Rupee (0.45%) and Dollar Index (0.30%)."
     }
   ]
 }
