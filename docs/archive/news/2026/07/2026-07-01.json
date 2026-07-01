@@ -1,7 +1,370 @@
 {
   "date": "2026-07-01",
-  "count": 3224,
+  "count": 3264,
   "items": [
+    {
+      "id": "mkt:019f1df0-c4ee-7aab-8c5d-4ce372a06323",
+      "time": "2026-07-01 21:49:06",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "ECB President Lagarde said the Capital Markets Union will be the best way to boost growth in Europe."
+    },
+    {
+      "id": "4965533",
+      "time": "2026-07-01 21:49:06",
+      "tags": [
+        "其他"
+      ],
+      "text": "沃爾瑪股價迅速擴大跌幅至4.9%。"
+    },
+    {
+      "id": "mkt:019f1df0-b7cf-7aab-8c5d-43d1ea5a182d",
+      "time": "2026-07-01 21:49:02",
+      "tags": [
+        "MKT News",
+        "S&P500",
+        "Impact bullish"
+      ],
+      "text": "Fed Chair Kevin Warsh said if the Fed can meet its price-stability goals, his optimism about US growth potential is unprecedented."
+    },
+    {
+      "id": "4965532",
+      "time": "2026-07-01 21:49:01",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國北約大使：我們認為那些做得更多的國家應該從做得更多中獲益。"
+    },
+    {
+      "id": "4965531",
+      "time": "2026-07-01 21:48:58",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行行長拉加德：資本市場聯盟將是提振歐洲增長的最佳途徑。"
+    },
+    {
+      "id": "4965530",
+      "time": "2026-07-01 21:48:53",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "沃什：如果美聯儲能夠履行其控制物價的職責，對美國增長引擎所能產生的成果從未如此樂觀。"
+    },
+    {
+      "id": "mkt:019f1df0-41ea-7aab-8c5d-3a69daa3de5c",
+      "time": "2026-07-01 21:48:32",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact mixed",
+        "US10Y",
+        "S&P500"
+      ],
+      "text": "Fed Chair Kevin Warsh said he is uncertain whether productivity will affect near-term policy."
+    },
+    {
+      "id": "4965529",
+      "time": "2026-07-01 21:48:23",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲沃什：尚不清楚生產率短期內是否會對政策產生影響。"
+    },
+    {
+      "id": "mkt:019f1def-e058-7aab-8c5d-30dc9a8314b9",
+      "time": "2026-07-01 21:48:07",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Fed chair Kevin Warsh said there are reasons to be optimistic about productivity."
+    },
+    {
+      "id": "4965528",
+      "time": "2026-07-01 21:48:00",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲沃什：前瞻性指引並非當下適宜的政策工具。"
+    },
+    {
+      "id": "4965527",
+      "time": "2026-07-01 21:47:58",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "【美聯儲主席沃什：通脹水平依舊處於過高區間】美聯儲主席凱文・沃什表示，儘管美聯儲官員如今對人工智慧及其可能帶來的通縮影響愈發持開放態度，但通脹水平依舊處於過高區間。 沃什稱：“穩定物價是我們所有人的核心工作，這或許不是我們唯一的工作任務，但過去這幾天裡，我聽到最多的共識，就是大家在人工智慧、生產率相關議題上都保持開放態度。可我們環顧當下就能發現，各類商品物價仍然居高不下。” 儘管市場對人工智慧有望在經濟供給端拉動增長的樂觀情緒不斷升溫，沃什仍認為，抑制通脹是美聯儲的首要目標。"
+    },
+    {
+      "id": "4965526",
+      "time": "2026-07-01 21:47:50",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲官員沃什：將在下次會議決策者“關上門”時決定是否升息。"
+    },
+    {
+      "id": "mkt:019f1def-9aef-7aab-8c5d-2b0d29149814",
+      "time": "2026-07-01 21:47:49",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Fed chair Kevin Warsh said this is a major window of opportunity for the United States."
+    },
+    {
+      "id": "mkt:019f1def-6981-7aab-8c5d-25c9647100ec",
+      "time": "2026-07-01 21:47:37",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. ambassador to NATO said the alliance is ready for a successful summit, but some allies remain slow, are underspending or lack credible plans. President Trump expects all allies to act immediately to move toward a 5% defense spending target."
+    },
+    {
+      "id": "mkt:019f1def-4de3-7aab-8c5d-1c324cc9a600",
+      "time": "2026-07-01 21:47:30",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Federal Reserve chair KEVIN WARSH said if the past four quarters are any guide, we have reason to remain optimistic."
+    },
+    {
+      "id": "4965525",
+      "time": "2026-07-01 21:47:27",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國駐北約大使：目標很明確，就是將歐洲常規防禦的負擔逐步轉移給我們的盟友。"
+    },
+    {
+      "id": "4965524",
+      "time": "2026-07-01 21:47:14",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲沃什：如果過去四個季度能作為參考的話，我們有理由保持樂觀。"
+    },
+    {
+      "id": "4965523",
+      "time": "2026-07-01 21:46:47",
+      "tags": [
+        "其他"
+      ],
+      "text": "藍貓頭鷹資本旗下基金完成收購西拉地產。"
+    },
+    {
+      "id": "te:markets:563459",
+      "time": "2026-07-01 21:46:40",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Euro Area",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "Euro Slides as Inflation Eases and Dollar Strengthens — The euro weakened below $1.14, approaching a one-year low after a 2% decline against the US dollar in June. Investors digested softer-than-expected Eurozone inflation data, with the flash CPI report showing headline inflation falling to 2.8% in June and the core rate dropping to 2.4%, offering some relief to European Central Bank policymakers. At the ECB’s Sintra Forum, ECB President Christine Lagarde noted that risks to inflation and growth in the euro area have become less pronounced. This shift follows the ECB’s decision just three weeks earlier to become the first G7 central bank to raise interest rates after the outbreak of the Iran war, justified by concerns over inflation spreading through the economy. Since then, the US-Iran peace accord has significantly reduced oil prices, removing a key inflation driver. Elsewhere, the dollar remains supported by expectations that the US Federal Reserve will raise interest rates later this year."
+    },
+    {
+      "id": "mkt:019f1dee-7fdc-7aab-8c5d-1039be07784f",
+      "time": "2026-07-01 21:46:37",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Federal Reserve Chair Kevin Warsh said he has been focused on monetary policy over the past four weeks."
+    },
+    {
+      "id": "mkt:019f1dee-74b7-7aab-8c5d-08bfc815fd8e",
+      "time": "2026-07-01 21:46:34",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "S&P500",
+        "Impact bullish",
+        "DXY",
+        "US10Y",
+        "Impact bearish"
+      ],
+      "text": "Federal Reserve Chair Kevin Warsh said potential growth appears to be on an upward trend."
+    },
+    {
+      "id": "4965522",
+      "time": "2026-07-01 21:46:30",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國駐北約大使：特朗普完全期待所有盟友立即加大力度，走上國防開支佔GDP 5%的道路。"
+    },
+    {
+      "id": "4965521",
+      "time": "2026-07-01 21:46:26",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲沃什：潛在增長似乎已呈上升趨勢。"
+    },
+    {
+      "id": "4965520",
+      "time": "2026-07-01 21:46:16",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國駐北約大使：部分盟國表現滯後，軍費投入不足，也缺乏可靠的軍費達標路線。"
+    },
+    {
+      "id": "mkt:019f1dee-2ac2-7aab-8c5d-02da54ed2be7",
+      "time": "2026-07-01 21:46:15",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Fed Chair Kevin Warsh said the Fed remains shaped by the 2008 financial crisis and is highly attentive to risk."
+    },
+    {
+      "id": "mkt:019f1dee-0f0a-7aab-8c5c-f8f095f155db",
+      "time": "2026-07-01 21:46:08",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "【Spot gold and silver rally continues; spot gold tops $4,100/oz】Spot gold and silver rose during remarks by Fed Chair Kevin Warsh. Spot gold exceeded $4,100/oz, up 2.32% on the day, its highest since June 24. Spot silver jumped $2.00 to $60.56/oz, up 3.42%."
+    },
+    {
+      "id": "4965519",
+      "time": "2026-07-01 21:46:00",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "白銀連續主力合約日內漲3%，現報14808.00元。"
+    },
+    {
+      "id": "4965518",
+      "time": "2026-07-01 21:45:54",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲沃什：當下對美國而言是充滿重大機遇的時期。"
+    },
+    {
+      "id": "em:jjsj_mgsj:202607013790546886",
+      "time": "2026-07-01 21:45:46",
+      "tags": [
+        "經濟數據",
+        "美國"
+      ],
+      "text": "【美國6月標普全球製造業PMI終值53.9】美國6月標普全球製造業PMI終值53.9，前值55.7。"
+    },
+    {
+      "id": "4965517",
+      "time": "2026-07-01 21:45:41",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國駐北約大使向記者表示：我認為我們已經做好準備，本次峰會將取得圓滿成功。"
+    },
+    {
+      "id": "te:markets:563458",
+      "time": "2026-07-01 21:45:38",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Arabica Coffee Futures at Over 2-Month High — Arabica coffee futures traded around $2.96 per pound, a level not seen since April 23rd, supported by signs of tightening inventories as markets monitored the progress of Brazil's harvest. Arabica certified stocks at ICE fell by another 3,069 bags to 377,465, the lowest level since March 2024."
+    },
+    {
+      "id": "4965516",
+      "time": "2026-07-01 21:45:30",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金突破4120美元/盎司，日內漲2.03%。"
+    },
+    {
+      "id": "4965515",
+      "time": "2026-07-01 21:45:30",
+      "tags": [
+        "市場"
+      ],
+      "text": "紐約期銀日內漲2%，現報61.13美元/盎司。"
+    },
+    {
+      "id": "4965514",
+      "time": "2026-07-01 21:45:23",
+      "tags": [
+        "市場"
+      ],
+      "text": "鈀金期貨日內漲2%，現報1236.00美元/盎司。"
+    },
+    {
+      "id": "4965513",
+      "time": "2026-07-01 21:45:19",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金突破4100美元/盎司，日內漲2.34%。"
+    },
+    {
+      "id": "4965512",
+      "time": "2026-07-01 21:45:18",
+      "tags": [
+        "其他"
+      ],
+      "text": "沃什：過去四周一直聚焦貨幣政策相關工作。"
+    },
+    {
+      "id": "4965511",
+      "time": "2026-07-01 21:45:18",
+      "tags": [
+        "市場"
+      ],
+      "text": "紐約期金日內漲2%，現報4119.30美元/盎司。"
+    },
+    {
+      "id": "4965510",
+      "time": "2026-07-01 21:45:18",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期銀突破61美元/盎司，日內漲1.81%。"
+    },
+    {
+      "id": "4965509",
+      "time": "2026-07-01 21:45:12",
+      "tags": [
+        "資料",
+        "國際"
+      ],
+      "text": "美國6月標普全球製造業PMI終值 53.9，預期 55.7，初值 55.7。"
+    },
     {
       "id": "mkt:019f1ded-26fd-7aab-8c5c-f2f1921fac3b",
       "time": "2026-07-01 21:45:08",
@@ -10,6 +373,14 @@
         "Important"
       ],
       "text": "US June S&P Global Manufacturing PMI final 53.9; prior 55.7."
+    },
+    {
+      "id": "4965508",
+      "time": "2026-07-01 21:45:06",
+      "tags": [
+        "市場"
+      ],
+      "text": "現貨白銀日內漲3%，現報60.39美元/盎司。"
     },
     {
       "id": "mkt:019f1ded-044b-7aab-8c5c-ef03a0be869a",
