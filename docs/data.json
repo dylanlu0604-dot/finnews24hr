@@ -1,7 +1,304 @@
 {
-  "updated": "2026-07-01 08:07:36",
-  "count": 13974,
+  "updated": "2026-07-01 08:22:25",
+  "count": 13972,
   "items": [
+    {
+      "id": "4963850",
+      "time": "2026-07-01 08:21:13",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "日本國債下跌，追隨美國國債跌勢。10年期日本國債收益率上漲4.0個基點，至2.720%。30年期日本國債收益率上漲2.0個基點，至3.965%。"
+    },
+    {
+      "id": "mkt:019f1b0c-7aaa-7aab-8c46-657d69dc2d8a",
+      "time": "2026-07-01 08:20:30",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bearish",
+        "DXY"
+      ],
+      "text": "Japan 10-year government bond yield rose 4.0 bps to 2.720%."
+    },
+    {
+      "id": "4963849",
+      "time": "2026-07-01 08:20:24",
+      "tags": [
+        "其他"
+      ],
+      "text": "【聯合國財務規則迎75年來重大調整】當地時間6月30日，第80屆聯大透過一項有關聯合國財政問題的決議，決定對一項已有75年曆史的財務規則進行調整。根據新規則，在為期四年的試行期內，聯合國只有在相關資金實際到賬、有現金支援的情況下，才會將未使用資金返還或記入會員國貸項。該決議將於2026年7月1日起生效。"
+    },
+    {
+      "id": "4963848",
+      "time": "2026-07-01 08:20:04",
+      "tags": [
+        "央行",
+        "觀點",
+        "國際"
+      ],
+      "text": "【中信證券：美伊衝突降溫，亞太新興經濟體通脹風險仍在】中信證券指出，美伊雙方已簽署諒解備忘錄，原油價格逐漸下降，但價格傳導需要時間，亞太新興經濟體通脹正向非能源領域擴散。具體國家來看，菲律賓和印尼面臨較大的第二輪通脹效應，在6月加息基礎上，年內或再有兩到三次加息；印度聚焦穩定匯率，傾向於使用非利率工具；其餘經濟體央行認為通脹相對穩定，且強調全球能源價格壓力緩解，貨幣政策或將保持觀望。"
+    },
+    {
+      "id": "4963847",
+      "time": "2026-07-01 08:19:50",
+      "tags": [
+        "市場"
+      ],
+      "text": "紐約期銀日內跌2%，現報58.72美元/盎司。"
+    },
+    {
+      "id": "mkt:019f1b0a-556e-7aab-8c46-59f210ba99d1",
+      "time": "2026-07-01 08:18:09",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Market sources say the US military has deployed about 900 personnel inside Venezuela for rescue operations and about 800 personnel at Caribbean hubs in Puerto Rico and Curaçao."
+    },
+    {
+      "id": "4963846",
+      "time": "2026-07-01 08:17:50",
+      "tags": [
+        "資料",
+        "觀點"
+      ],
+      "text": "【中信證券：後續若7月中旬公佈的二季度經濟資料面臨壓力 則政策或繼續加大呵護力度】中信證券指出，6月製造業PMI有所回升，剔除季節性看製造業景氣較上月有小幅提升，製造業PMI持續位於榮枯線之上，反映全球通脹、出口高增對製造業企業體感有積極作用。從分項看，生產景氣基本持平，需求指標反彈明顯，價格指標顯著下降，或指向PPI拐點臨近，關注其對工業企業利潤增速的影響。從行業看，高技術製造業PMI繼續受益於AI景氣而提升，消費品製造業受益於油價下降、成本壓力緩和，景氣亦迴歸榮枯線之上。非製造業6月景氣度亦有所好轉，或受益於穩內需政策落地加速。近期，隨著部分經濟指標面臨壓力，存量政策落地節奏有所加快，後續若7月中旬公佈的二季度經濟資料面臨壓力，則政策或繼續加大呵護力度。"
+    },
+    {
+      "id": "mkt:019f1b09-3ab7-7aab-8c46-565e7192118e",
+      "time": "2026-07-01 08:16:57",
+      "tags": [
+        "MKT News",
+        "USDJPY",
+        "Impact bullish",
+        "DXY",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "USD/JPY rose to 162.68, a 40-year high."
+    },
+    {
+      "id": "4963844",
+      "time": "2026-07-01 08:15:32",
+      "tags": [
+        "其他"
+      ],
+      "text": "美元兌日元攀升至162.68，創40年新高。"
+    },
+    {
+      "id": "4963843",
+      "time": "2026-07-01 08:15:21",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "即將離任的South32執行長Kerr：未來幾年印尼供應增加將對氧化鋁價格構成挑戰。"
+    },
+    {
+      "id": "4963842",
+      "time": "2026-07-01 08:15:13",
+      "tags": [
+        "公司"
+      ],
+      "text": "即將離任的South32執行長：South32預計未來幾年氧化鋁價格將面臨挑戰。"
+    },
+    {
+      "id": "em:qqyh_zgyh:202607013789052636",
+      "time": "2026-07-01 08:14:30",
+      "tags": [
+        "央行",
+        "中國央行"
+      ],
+      "text": "【中信證券：隔夜逆回購工具落地 央行維護寬鬆態度明確】中信證券認為，央行首次開展隔夜逆回購操作，本次央行操作的態度高於實質，當前7天逆回購的政策利率地位並未改變，央行有意在半年末關鍵時點維護寬鬆的流動性環境和穩定預期。新工具旨在彌合7天政策利率與隔夜為主的市場交易之間的期限錯配，並藉助隔夜操作當日到期、不形成餘額的靈活性，在季末更精準地實現流動性削峰填谷。"
+    },
+    {
+      "id": "4963841",
+      "time": "2026-07-01 08:13:56",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國將軍稱，美軍已在委內瑞拉境內部署約900名人員開展救援工作，並在加勒比海樞紐波多黎各和庫拉索部署另外800人。"
+    },
+    {
+      "id": "4963840",
+      "time": "2026-07-01 08:13:44",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "【日經指數上漲2.3%，電子和科技股領漲】得益於對人工智慧相關需求增長的持續預期，以及追隨美國科技股的漲勢，日本股市走高。電子和科技股領漲。東京電子上漲4.9%，軟銀集團上漲3.8%。美元報162.65日元，週二東京股市收盤時為162.24日元。投資者正密切關注美伊和平談判的任何進展，以及日本政府官員對日元貶值的任何評論。日經指數上漲2.3%，報71701.04點。"
+    },
+    {
+      "id": "4963839",
+      "time": "2026-07-01 08:13:21",
+      "tags": [
+        "央行",
+        "觀點"
+      ],
+      "text": "【中信證券：隔夜逆回購工具落地 央行維護寬鬆態度明確】中信證券認為，央行首次開展隔夜逆回購操作，本次央行操作的態度高於實質，當前7天逆回購的政策利率地位並未改變，央行有意在半年末關鍵時點維護寬鬆的流動性環境和穩定預期。新工具旨在彌合7天政策利率與隔夜為主的市場交易之間的期限錯配，並藉助隔夜操作當日到期、不形成餘額的靈活性，在季末更精準地實現流動性削峰填谷。其究竟是階段性工具還是政策利率新錨，取決於後續的操作頻率和利率披露方式，本次只公佈數量、不公佈利率，表明央行當前仍將其定位為短期流動性管理工具。整體看，本次操作寬貨幣訊號清晰，但意義更多在於政策態度而非利率幅度。"
+    },
+    {
+      "id": "te:economy:563138",
+      "time": "2026-07-01 08:13:12",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "South Korea",
+        "Balance of Trade",
+        "Importance 1"
+      ],
+      "text": "South Korea Posts Record Trade Surplus — South Korea’s trade surplus soared to USD 36.15 billion in June 2026, up from USD 9.08 billion in the same month a year earlier, marking the 17th consecutive month in surplus and the largest trade surplus on record, flash data showed. Exports jumped 70.9% year-on-year to a record high of USD 102.25 billion, accelerating sharply from an upwardly revised 53.4% surge in May, mainly driven by a surge in semiconductor exports. Meanwhile, imports grew 30.1%, accelerating from a downwardly revised 20.7% increase in May and marking the fastest pace since May 2022, supported by resilient domestic demand."
+    },
+    {
+      "id": "4963838",
+      "time": "2026-07-01 08:13:08",
+      "tags": [
+        "宏觀",
+        "央行",
+        "國際"
+      ],
+      "text": "【銀河證券：市場對AI產業趨勢的強烈共識將從主題炒作轉向業績驗證】銀河證券7月市場展望指出，隨著美聯儲沃什首秀的“戰略模糊”落地、美伊協議達成後霍爾木茲海峽恢復通行的預期逐步消化，地緣政治對市場的擾動從衝擊型降級為跟蹤型，此前壓制市場的宏觀不確定性正在下降。進入7月，隨著不確定性下降，資金開始重新評估，市場對AI產業趨勢的強烈共識將主要聚焦業績預告，市場將從主題炒作轉向業績驗證。 同時，隨著中央政治局會議（通常於7月下旬召開）臨近，市場對政策定調關注度提升。一方面，市場可能經歷震盪調整，等待中報業績驗證。高股息資產階段性迴歸，科技板塊內部去偽存真。另一方面，“六網”作為新基建與傳統基建的交匯點，有望成為承接“AI產業趨勢”與“穩增長”預期的橋樑。"
+    },
+    {
+      "id": "mkt:019f1b04-f447-7aab-8c46-4a93bef3e548",
+      "time": "2026-07-01 08:12:17",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "South Korea's June trade surplus hit a record high."
+    },
+    {
+      "id": "4963836",
+      "time": "2026-07-01 08:11:58",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "【韓國出口保持強勁增長 人工智慧熱潮繼續提振晶片需求】韓國6月出口延續強勁表現，凸顯支撐經濟增長的晶片產業景氣仍具韌性。韓國政府週三公佈，經工作日差異調整後，6月出口同比增長59.5%。進口增長30.1%，貿易順差達到361億美元。未經調整的出口增長70.9%，相比之下，5月份出口增幅經修正後為53.4%。半導體再次引領出口增長，受到與AI和資料中心相關的強勁投資支援。最新資料表明，韓國經濟由出口驅動的擴張仍在持續，這將支援韓國央行日趨鷹派的立場。韓國央行行長申鉉松表示，半導體熱潮正外溢至更廣泛的消費、投資和加薪，增加了通脹壓力可能變得更加根深蒂固的風險。"
+    },
+    {
+      "id": "4963835",
+      "time": "2026-07-01 08:11:21",
+      "tags": [
+        "國際"
+      ],
+      "text": "【專家：美伊互不信任 “邊打邊談”模式難破局】美國此前宣佈的定於6月30日在卡達舉行的美伊談判最終未能實現。專家分析指出，伊朗正在掌握談判的節奏，藉機向美國施壓，試圖迫使美方做出更多讓步。專家指出，這次美伊關於談判各執一詞，這種情況並不罕見，相似情形已在今年4月美伊宣佈停火後多次發生。專家認為，自今年4月以來，伊朗一直在掌握美伊談判的節奏和程序，在談判的時間、地點和議題方面擁有主動權。（央視）"
+    },
+    {
+      "id": "mkt:019f1b04-09cd-7aab-8c46-4054259c2f44",
+      "time": "2026-07-01 08:11:17",
+      "tags": [
+        "MKT News",
+        "S&P500",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish",
+        "EURUSD"
+      ],
+      "text": "South Korea's June exports rose YoY at the fastest pace since October 1978."
+    },
+    {
+      "id": "te:economy:563137",
+      "time": "2026-07-01 08:11:15",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Japan",
+        "Business Confidence",
+        "Importance 2"
+      ],
+      "text": "Japan Q2 Business Confidence Highest Since 2018 — The Bank of Japan’s sentiment index for large manufacturers climbed to 22 in Q2 2026 from 17 in Q1, beating market expectations of 16 and reaching its highest level since Q1 2018. The stronger reading suggests the economy has, for now, remained resilient despite the energy shock triggered by the Middle East conflict. Meanwhile, large firms expect capital expenditure to increase by 11.5%, accelerating from 3.3% in Q1, which had marked the weakest rise since Q1 2023."
+    },
+    {
+      "id": "te:economy:563136",
+      "time": "2026-07-01 08:10:19",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Ireland",
+        "Manufacturing PMI",
+        "Importance 1"
+      ],
+      "text": "Irish Factory Growth Remains Strong in June — The AIB Ireland Manufacturing PMI eased to 54.9 in June 2026 from May’s four-year high of 55.9 but remained well above the 50 threshold, signaling another strong improvement in factory conditions. Output expanded for an eighth consecutive month, while new orders continued to rise at one of the strongest rates in the past four years. Employment increased again as firms expanded capacity, helping reduce backlogs of work for the first time in four months. Stocks of purchases rose at the fastest pace since January 2023 and finished goods inventories posted their strongest increase since July 2019 amid persistent supply chain disruptions linked to the Middle East conflict. Although input cost inflation eased from May’s 46-month high, it remained elevated due to higher fuel, freight, and raw material costs, while output price inflation accelerated to its fastest pace since December 2022. Business confidence remained broadly positive despite moderating slightly from May."
+    },
+    {
+      "id": "mkt:019f1b03-267f-7aab-8c46-3d34144f41af",
+      "time": "2026-07-01 08:10:18",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC"
+      ],
+      "text": "Australia's S&P/ASX 200 opened down 9.0 points (-0.10%) at 8,769.70 on Wednesday, July 1."
+    },
+    {
+      "id": "4963834",
+      "time": "2026-07-01 08:09:59",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【美國政府取消Anthropic的Fable 5模型的限制】美國政府已經取消外國人士存取Anthropic PBC的Fable 5 AI模型的限制。 自從美國政府下令Anthropic公司停用Mythos 5 AI模型和Fable 5(功能較弱、應用範圍更廣的模型)以來，這家AI公司和商務部官員一直在磋商。美國商務部6月12日透過一封非公開信件實施出口管制規定，要求Anthropic在允許任何外國人士(不論身處何地)存取上述兩款模型之前，必須先取得美國政府批准；此外，在將這兩款模型出口至全球任何目的地之前，也須取得美方許可。針對Mythos的部分限制已於6月26日解除。媒體先前已報道，涉及Fable 5的相關限制已經鬆綁。"
+    },
+    {
+      "id": "mkt:019f1b02-9868-7aab-8c46-33c40f6fff5b",
+      "time": "2026-07-01 08:09:42",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC"
+      ],
+      "text": "Bank of Japan said most firms submitted responses before the June 15 U.S.-Iran peace accord was reached, so the accord’s impact may not be fully reflected in the Tankan short-term economic survey results."
+    },
+    {
+      "id": "mkt:019f1b01-9ba9-7aab-8c46-2ba0b04f6134",
+      "time": "2026-07-01 08:08:37",
+      "tags": [
+        "MKT News",
+        "USDJPY",
+        "Impact bearish",
+        "Nikkei 225",
+        "Impact bullish",
+        "DXY"
+      ],
+      "text": "Bank of Japan: large non-manufacturing business conditions index reached highest level since August 1991."
+    },
+    {
+      "id": "mkt:019f1b01-56fb-7aab-8c46-25dd57aa1718",
+      "time": "2026-07-01 08:08:20",
+      "tags": [
+        "MKT News",
+        "CNH",
+        "Impact bearish",
+        "XAUUSD",
+        "Impact bullish",
+        "Copper"
+      ],
+      "text": "【CITIC Securities: PBOC launches overnight reverse repo; easing stance clear】CITIC Securities says the PBOC carried out an overnight reverse repo for the first time. The firm argues the move is more about policy stance than scale: the 7-day reverse repo retains its status as the policy rate, while the central bank appears intent on preserving loose liquidity and stable expectations around the half-year turn. The new overnight tool is intended to bridge a tenor mismatch between the 7-day policy rate and an overnight-dominated market, and its same-day maturity/no-balance feature gives the PBOC flexibility to smooth liquidity peaks and troughs at period-ends. Whether the tool is temporary or becomes a new policy-rate anchor will depend on future operation frequency and whether rates are disclosed; this operation announced size only, not a rate. Overall the action signals clear easing intent, but its market impact lies chiefly in policy stance rather than a change in benchmark rates."
+    },
+    {
+      "id": "4963833",
+      "time": "2026-07-01 08:07:49",
+      "tags": [
+        "市場"
+      ],
+      "text": "澳大利亞S&P/ASX 200指數早盤下跌0.2%，至8,764.80點。"
+    },
+    {
+      "id": "4963832",
+      "time": "2026-07-01 08:07:26",
+      "tags": [
+        "其他"
+      ],
+      "text": "【銀河證券：5月保費增速轉負 財產險展現修復態勢】銀河證券研報指出，2026年5月，保險行業實現原保險保費收入4578億元，同比下降1.49%，去年同期“炒停售”形成的高基數是增速轉負的重要因素。人身險方面，人身險業務共計實現保費收入3433億元，同比下降2.12%。其中，壽險業務實現保費收入2599億元，同比下降2.78%；健康險業務實現保費收入758億元，同比增長0.07%；意外險業務實現保費收入75億元，同比下降0.91%。財產險方面，財產險業務實現保費收入1146億元，同比增長0.46%。其中，車險業務實現保費753億元，同比持平；非車險業務實現保費393億元，同比增加1.34%。"
+    },
     {
       "id": "4963831",
       "time": "2026-07-01 08:06:44",
@@ -33,6 +330,14 @@
         "Importance 2"
       ],
       "text": "South Korea Exports Top $100 Billion for 1st Tim — South Korea’s exports surged 70.9% year-on-year to a record high of USD 102.25 billion in June 2026, accelerating sharply from a 53.2% jump in May and marking the strongest growth since June 1976. Exports exceeded USD 100 billion for the first time, mainly driven by a surge in semiconductor shipments. Shipments increased for the 13th consecutive month."
+    },
+    {
+      "id": "4963830",
+      "time": "2026-07-01 08:06:34",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美國稱威特科夫和庫什納在多哈就伊朗協議進行了積極會談】一位美國高階政府官員透露，美國談判代表賈裡德·庫什納和史蒂夫·威特科夫在卡達與地區領導人進行了積極的會談，與伊朗的技術性磋商也在推進之中。 庫什納和威特科夫正在多哈參加美伊旨在達成長期和平協議的間接談判。本月初簽署的一項臨時協議開啟了為期60天的談判視窗，但近日圍繞霍爾木茲海峽發生的一系列衝突使談判程序遭遇挫折。在美伊同意停止互相攻擊後，威特科夫和庫什納返回多哈進行會談。儘管如此，籠罩會談的不確定性凸顯了談判的敏感性，也表明華盛頓和德黑蘭在尋求達成更廣泛協議過程中所面臨的複雜局面。卡達官員淡化了外界對新一輪談判的預期，稱特朗普的高階特使們不會與伊朗方面直接會晤。這位不願透露姓名的高階官員在介紹會談最新進展時表示，由低階別代表進行的單獨技術性會談仍在繼續取得進展。"
     },
     {
       "id": "4963829",
@@ -128075,308 +128380,6 @@
         "國際"
       ],
       "text": "美國財長貝森特：美國住房問題需要降低利率、增加供應才能解決。"
-    },
-    {
-      "id": "4951352",
-      "time": "2026-06-24 08:21:18",
-      "tags": [
-        "市場",
-        "觀點"
-      ],
-      "text": "【中信證券港股策略：關注高解禁比例標的及行業龍頭解禁對股價的短期擾動】中信證券釋出港股策略稱，分析歷史資料發現，港股市場的融資活動與大盤走勢之間並無明確的負相關關係，整體更多呈現順週期特徵。融資行為本身並非行情終結的催化劑，特定宏觀環境下反而可能支撐股市上行，但對市場高位的融資高峰仍需保持警惕。相較IPO而言，上市6個月之後的解禁潮對港股市場的負面影響相對更大。不同行業間表現分化明顯，市值體量與解禁比例是影響解禁股票表現的關鍵因素。中信證券認為，港股解禁帶來的衝擊多集中於個股層面，一般不會對大盤形成系統性拖累。展望2026年下半年，遞表與排隊雙高將推動IPO延續火熱；同時下半年將迎來解禁高峰，其中9月壓力最為突出，且解禁高度集中於軟體服務、黃金及貴金屬等行業，建議關注高解禁比例標的，及行業龍頭解禁對股價的短期擾動。"
-    },
-    {
-      "id": "4951351",
-      "time": "2026-06-24 08:20:59",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "【日本央行6月會議記錄顯示：部分委員呼籲進一步加息】週三公佈的日本央行6月政策會議意見摘要顯示，部分日本央行政策委員會成員呼籲進一步加息，以將政策利率推至接近被視為對經濟中性的水平。一位委員被引述表示，“與美國和歐洲不同，日本的政策利率仍低於中性利率的估計區間。有必要儘快將政策利率推近至中性利率水平。”"
-    },
-    {
-      "id": "te:economy:561291",
-      "time": "2026-06-24 08:20:34",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Japan",
-        "Interest Rate",
-        "Importance 2"
-      ],
-      "text": "BoJ June Summary Signals Further Rate Hikes — The Bank of Japan's Summary of Opinions from its June meeting showed policymakers generally viewed it as appropriate to continue raising the policy interest rate, as underlying inflation has been moving toward the 2% target while financial conditions remain accommodative. Members said that if the economy and prices evolve in line with the Bank's outlook, further rate hikes would be warranted. Some argued Japan's policy rate remains below the estimated neutral interest rate, seen at around 2%, and should be brought closer to that level to provide greater flexibility to adjust policy in either direction. They also suggested that gradual increases every few months could help avoid the need for more rapid and aggressive tightening later. However, one member cautioned that higher interest rates could curb business investment, weaken aggregate demand, and trigger simultaneous declines in inflation, production, and employment, arguing the Bank should keep rates unchanged for now."
-    },
-    {
-      "id": "4951350",
-      "time": "2026-06-24 08:20:28",
-      "tags": [
-        "國際"
-      ],
-      "text": "【巴方披露伊美談判細節 彈道導彈議題“從未上桌”】巴基斯坦總理夏巴茲23日說，伊朗和美國此前圍繞諒解備忘錄的談判並未涉及彈道導彈議題。伊朗總統佩澤希齊揚當天到訪巴基斯坦。國際海事組織同日宣佈啟動霍爾木茲海峽地區滯留海員疏散計劃。黎巴嫩真主黨方面要求以色列必須從黎領土完全撤出。（新華社）"
-    },
-    {
-      "id": "4951349",
-      "time": "2026-06-24 08:19:33",
-      "tags": [
-        "其他"
-      ],
-      "text": "貝森特：強勢美元的概念與貨幣升值有所不同。"
-    },
-    {
-      "id": "4951348",
-      "time": "2026-06-24 08:19:01",
-      "tags": [
-        "公司",
-        "市場",
-        "觀點",
-        "國際"
-      ],
-      "text": "【韓國綜合股價指數在科技股帶動下上漲4%，此前一日曾暴跌10%】受晶片板塊上漲推動，韓國綜合股價指數週三最多上漲4%，此前該指數週二曾重挫10%。 三星、SK海力士和三星C&T是指數的主要推動力。 三星在韓國交易所漲幅最高達8.7%，SK海力士上漲5.2%。 摩根士丹利包括分析師Joon Seok 在內的團隊在一份報告中表示：“基本面看似完好，但技術面更為重要。我們認為這是一次喘息而非突破性下跌。” 小型股科斯達克指數上漲最多達1.7%。"
-    },
-    {
-      "id": "em:qqyh_rbyh:202606243780385893",
-      "time": "2026-06-24 08:18:30",
-      "tags": [
-        "央行",
-        "日本央行"
-      ],
-      "text": "日本央行6月政策會議摘要顯示，一位委員表示，日本央行完全沒有理由停止減少國債購買。"
-    },
-    {
-      "id": "4951347",
-      "time": "2026-06-24 08:16:59",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "韓國綜合股價指數上漲4%，至8534.03點。"
-    },
-    {
-      "id": "mkt:019ef6fc-ac5d-7dd8-b0e5-d64ef5e435ab",
-      "time": "2026-06-24 08:16:54",
-      "tags": [
-        "MKT News",
-        "Important",
-        "000660.KS",
-        "Impact bullish"
-      ],
-      "text": "South Korea's KOSPI extended gains to about 4%; SK Hynix rose over 5%."
-    },
-    {
-      "id": "mkt:019ef6fc-963e-7dd8-b0e5-c8bfdff7e0b6",
-      "time": "2026-06-24 08:16:49",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Wall Street (US)",
-        "Commodities",
-        "Precious Metals",
-        "XAUUSD",
-        "Impact bearish",
-        "DXY",
-        "Impact bullish",
-        "Nasdaq100"
-      ],
-      "text": "【Wall Street tech sell-off intensifies pressure on gold; Asian session briefly under $4,100/oz】A Wall Street tech sell-off prompted investors to trim gold positions to offset losses, extending spot gold’s decline and briefly pushing it below $4,100 per ounce in early Asian trading — the weakest close in two weeks. The tech rout, amid worries the AI-driven equity rally has overextended, is adding to existing pressure from persistent inflation risks and expectations of further Fed rate hikes."
-    },
-    {
-      "id": "4951346",
-      "time": "2026-06-24 08:16:32",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "歐洲斯托克50指數期貨與德國DAX指數期貨早盤持平，英國富時指數期貨下跌0.3%。"
-    },
-    {
-      "id": "4951345",
-      "time": "2026-06-24 08:16:09",
-      "tags": [
-        "公司",
-        "觀點"
-      ],
-      "text": "【中信證券：目前快遞龍頭估值極具吸引力 建議擇機佈局】中信證券研報稱，重視2026年第二季度電商快遞利潤高增催化，季度利潤增速有望進一步提升。期待“以更大力度提振消費”等政策端賦能，疊加商流挖掘增量更積極，下半年快遞量增或提速，預計全年件量增速維持8%。漲價之外重視降本能力的分化，“反內卷”不改快遞公司之間競爭力分化，價差收窄或推動更具競爭力快遞龍頭獲取規模效應。同時AI應用帶來件量及降本能力的分化，競爭優勢有望不斷擴大。外部政策環境或存不確定性背景下，優秀的快遞龍頭堅持夯實自身網路競爭力打造α的重要性邊際提升。目前快遞龍頭估值極具吸引力，建議擇機佈局。"
-    },
-    {
-      "id": "te:markets:561289",
-      "time": "2026-06-24 08:15:05",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Japan",
-        "stocks",
-        "Importance 1"
-      ],
-      "text": "Mitsui Stock Price Hits 25-week Low — Mitsui shares decreased to 4598.00 JPY, the lowest since December 2025. Over the past 4 weeks, Mitsui lost 14.51%, and in the last 12 months, it increased 60.66%."
-    },
-    {
-      "id": "mkt:019ef6fa-ec96-7dd8-b0e5-c1eb79acdf08",
-      "time": "2026-06-24 08:15:00",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【CITIC Securities: Compute and power-related supply chains offer medium- to long-term allocation value】CITIC Securities says weakening investment from property and traditional infrastructure contrasts with a long-term uplift in compute demand driven by massive AI workloads and rising capex by Chinese and US firms, leaving scope for higher domestic compute spending. China’s \"six networks\" rollout could unlock trillion-yuan compute investment, creating large-scale import-substitution opportunities for domestic chips, memory and optical communications. China’s power supply and lower green-power costs, together with accelerated direct renewable connections and source–grid–load–storage integration, bolster a compute–power competitive edge. Data center build-outs will materially lift demand for copper, tin and other industrial metals; semiconductor tightness will transmit to upstream raw materials and downstream electronics; broader funding channels for data-center REITs are supporting capacity expansion. CITIC expects sustained price gains in industrial metals, semiconductors and end-user electronics and views compute- and power-related supply chains as medium- to long-term allocation opportunities."
-    },
-    {
-      "id": "4951344",
-      "time": "2026-06-24 08:14:59",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "【印尼金融監管機構：MSCI延長評估期將有助於加快改革程序】印尼金融監管機構週三表示，全球指數提供商MSCI決定將對印尼市場地位的審查延長至11月，這將為當局正在推進的市場改革增添動力。該監管機構首席資本市場監管官法烏齊（Hasan Fawzi）還表示，該國資本市場對全球和國內投資者依然具有吸引力。此前，MSCI曾表示將延長對印尼市場地位的審查 ，以評估雅加達方面正在推行的各項措施。"
-    },
-    {
-      "id": "4951343",
-      "time": "2026-06-24 08:14:38",
-      "tags": [
-        "觀點",
-        "國際"
-      ],
-      "text": "【中信證券：算力、電力相關產業鏈具備中長期配置價值】中信證券研報稱，近年來，地產、傳統基建拉動投資的動能持續弱化，而海量AI Token需求開啟算力長期增長空間，中美企業同步加大資本開支，國內算力投入仍有較大提升潛力。政策層面，“六張網”落地帶來萬億算力投資，國產晶片、儲存、光通訊迎來大規模國產替代機遇，同時我國電力供給與綠電成本優勢突出，綠電直連、源網荷儲一體化加速推進，算電協同構築獨有產業優勢。產業鏈端，算力建設大幅提振銅、錫等AI金屬需求，晶片供需緊張向上遊原料、下游消費電子傳導，疊加算力重資產屬性下IDC REITs持續拓寬資金來源、支撐行業擴產，中信證券預期工業金屬、半導體及終端電子產品將迎來持續漲價行情，算力、電力相關產業鏈具備中長期配置價值。"
-    },
-    {
-      "id": "4951342",
-      "time": "2026-06-24 08:13:57",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國財長貝森特：已經看到了人工智慧帶來的經濟增長。"
-    },
-    {
-      "id": "4951341",
-      "time": "2026-06-24 08:13:38",
-      "tags": [
-        "公司"
-      ],
-      "text": "【谷歌旗下的YouTube就社交媒體對兒童造成傷害一案達成和解】谷歌旗下的YouTube已就一起由 未成年人提起的訴訟 達成和解，該未成年人聲稱該平臺 損害了其心理健康 。其律師週二表示，此訊息公佈之際，加利福尼亞州正準備就社交媒體在青少年心理健康危機中的作用展開第二場庭審。谷歌發言人卡斯塔內達（Jose Castaneda）在一份宣告中表示 ，該訴訟已達成友好和解。“我們的重點仍然是開發適合不同年齡段的產品和家長控制功能，以兌現這一承諾，”卡斯塔內達說道。原告（以其姓名首字母R.K.C.命名）的代理律師摩根（John Morgan）和傑夫科特（Emily Jeffcott）在一份宣告中表示：“YouTube在面臨陪審團審判前決定解決此案，這一決定本身就說明了一切。”“我們將繼續代表所有受社交媒體成癮影響的人士奮戰，將這些公司繩之以法，並迫使它們將年輕使用者的安全置於利潤之上。”根據法庭檔案顯示，R.K.C.是一名來自佛羅里達州的16歲男孩，他表示自己大約8歲時就開始使用社交媒體。檔案稱，他因此沉迷其中，導致睡眠不足，並患上了抑鬱症和焦慮症。"
-    },
-    {
-      "id": "4951340",
-      "time": "2026-06-24 08:13:23",
-      "tags": [
-        "市場"
-      ],
-      "text": "SK海力士股價上漲5%。"
-    },
-    {
-      "id": "mkt:019ef6f8-88c8-7dd8-b0e5-bc29b9080fe6",
-      "time": "2026-06-24 08:12:23",
-      "tags": [
-        "MKT News",
-        "Macro & Rates"
-      ],
-      "text": "Bank of Japan June policy meeting summary: a Cabinet Office representative said the central bank must assess the macroeconomic impact of reducing the size of its balance sheet and take appropriate measures to maintain market stability."
-    },
-    {
-      "id": "mkt:019ef6f8-1d60-7dd8-b0e5-b6c014334074",
-      "time": "2026-06-24 08:11:55",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Huatai Securities: Overseas high costs argue against pessimistic forward aluminium prices】Huatai Securities says market fears of 2027–28 overseas electrolytic aluminium capacity additions—focused on Indonesia, India, Angola and Saudi Arabia—are overstated. Accounting for China's domestic capacity ceiling, uncertainty over overseas power infrastructure and supply-demand modelling, Huatai judges current forward pricing too pessimistic and expects overseas forward supply-demand to remain at a tight balance. If global power constraints worsen and AI-related new demand scales up, the market could move into a material shortfall. On costs, Huatai expects the full-cost midpoint at high-cost smelters to continue rising and estimates a 2027–28 overseas spot aluminium floor (including spot premiums) above $3,000/t, roughly ¥22,000/t domestically. Current equity market pricing for the aluminium sector is materially below those support levels, implying valuations may be depressed."
-    },
-    {
-      "id": "4951339",
-      "time": "2026-06-24 08:11:15",
-      "tags": [
-        "觀點",
-        "國際"
-      ],
-      "text": "【華泰證券：海外高成本支撐 遠期鋁價不宜悲觀】華泰證券研報稱，近期市場對2027年—2028年海外電解鋁擴產的擔憂持續升溫，焦點集中於印尼、印度、安哥拉、沙特等地在建產能。但綜合國內產能天花板約束、海外專案電力配套不確定性及供需平衡測算，華泰證券認為當前市場對於鋁價遠期供需格局的定價過於悲觀，海外遠期供需仍能維持緊平衡，若全球電力緊張加劇以及AI相關新型需求放量，或進一步拉動鋁供需格局走向較大幅度短缺。而成本端來看，未來高成本冶煉廠完全成本中樞或持續上行，華泰證券測算2027年—2028年海外現貨鋁價(包含現貨升水)底部支撐仍在約3000美元/噸以上，對應國內約22000元/噸以上，根據測算，當前權益市場對鋁板塊計價已明顯低於上述價格支撐，估值或處於低估狀態。"
-    },
-    {
-      "id": "mkt:019ef6f7-06b4-7dd8-b0e5-adb121137bed",
-      "time": "2026-06-24 08:10:44",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Australia's S&P/ASX 200 opened up 13.4 points, or 0.15%, at 8,800.40 on Wednesday, June 24."
-    },
-    {
-      "id": "4951338",
-      "time": "2026-06-24 08:10:02",
-      "tags": [
-        "觀點"
-      ],
-      "text": "【中信建投：業績修復有望帶動保險板塊股價回暖 建議把握配置機會】中信建投研報稱，業績修復有望帶動保險板塊股價回暖，居民存款搬家開啟長期增長空間。存款搬家與“反內卷”政策有望驅動負債端保持較快增長，滬深300二季度漲超13%明顯提振資產端收益；頭部險企估值處歷史低分位；“報行合一”強化價值率、分紅險擴容與健康險政策催化，產業趨勢加速開啟中長期成長空間。建議沿高景氣彈性與低估值修復雙主線擇優佈局。"
-    },
-    {
-      "id": "4951337",
-      "time": "2026-06-24 08:09:39",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "韓國綜合股價指數上漲3%，至8452.64。"
-    },
-    {
-      "id": "mkt:019ef6f5-e5e2-7dd8-b0e5-a35a4fc92a44",
-      "time": "2026-06-24 08:09:30",
-      "tags": [
-        "MKT News",
-        "Important",
-        "005930.KS",
-        "Impact bullish"
-      ],
-      "text": "South Korea's KOSPI extended gains to about 3%; Samsung Electronics rose 6.6%."
-    },
-    {
-      "id": "4951336",
-      "time": "2026-06-24 08:09:24",
-      "tags": [
-        "公司"
-      ],
-      "text": "三星電子股價漲幅擴大至6%。"
-    },
-    {
-      "id": "4951335",
-      "time": "2026-06-24 08:09:17",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國財長貝森特：特朗普和我明白債券市場的力量。"
-    },
-    {
-      "id": "4951334",
-      "time": "2026-06-24 08:09:05",
-      "tags": [
-        "公司"
-      ],
-      "text": "【世界最大清潔能源走廊完成年度消落 騰出358億立方米防洪庫容】記者從三峽集團獲悉，為全力保障長江流域汛期安全，由烏東德、白鶴灘、溪洛渡、向家壩、三峽和葛洲壩六座梯級水電站構成的世界最大清潔能源走廊，日前全面完成年度消落工作，累計騰空防洪庫容358億立方米。"
-    },
-    {
-      "id": "4951333",
-      "time": "2026-06-24 08:08:38",
-      "tags": [
-        "其他"
-      ],
-      "text": "【《中國核能發展報告（2026）》：2030年前我國核電執行裝機規模有望登頂世界第一】在全球能源轉型與算力產業高速發展的背景下，核能憑藉零碳清潔、穩定高效的核心優勢，成為我國能源結構升級的核心力量，也是保障國家能源安全的重要支撐。據《中國核能發展報告（2026）》藍皮書披露，2030年前我國核電執行裝機規模有望登頂世界第一。（央視新聞）"
-    },
-    {
-      "id": "4951332",
-      "time": "2026-06-24 08:08:31",
-      "tags": [
-        "其他"
-      ],
-      "text": "【打破國外壟斷 “核”心突破啟用千億產業】在全球能源轉型與算力產業高速發展的背景下，核能憑藉零碳清潔、穩定高效的核心優勢，成為我國能源結構升級的核心力量，也是保障國家能源安全的重要支撐。據《中國核能發展報告（2026）》藍皮書披露，2030年前我國核電執行裝機規模有望登頂世界第一。長三角三澳核電基地的“華龍一號”機組已正式投產，規劃6臺機組全面投產後，年發電量超540億千瓦時。專案搭載國內自主研發的和睦核安全級數字化儀控平臺，打破國外壟斷，累計為國家節省超百億元成本。該平臺適配多種主流堆型，依託海量演算法實現廠區裝置智慧化管控。同時，電站引入智慧巡檢機器人，結合物聯網、AI技術實現安全穿透式管理，大幅提升巡檢效率。此外，專案創新引入民間資本，帶動近2000家民營企業參與核電建設。（央視）"
-    },
-    {
-      "id": "4951331",
-      "time": "2026-06-24 08:07:51",
-      "tags": [
-        "市場"
-      ],
-      "text": "澳大利亞S&P/ASX 200指數早盤持平，報8,789.30點。"
-    },
-    {
-      "id": "4951330",
-      "time": "2026-06-24 08:07:37",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美國財長貝森特：美聯儲主席沃什將最佳化增長和價格穩定的路徑。"
     }
   ]
 }
