@@ -1,7 +1,15 @@
 {
   "date": "2026-07-02",
-  "count": 350,
+  "count": 351,
   "items": [
+    {
+      "id": "mkt:019f1fc2-aeff-7aab-8c66-a4beb573fd3f",
+      "time": "2026-07-02 06:18:00",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Heat dome that drove record European heat to move over US Midwest, East this week】The NWS forecasts the heat dome that produced record heat in Europe will move over the US Midwest and Eastern states this week. Several World Cup host cities could see heat indices above 40°C. NWS advisories say sultry conditions in and around Kansas City and parts of Missouri will persist through the evening of July 3, with heat indices expected between 40.6°C and 43.3°C."
+    },
     {
       "id": "te:markets:563542",
       "time": "2026-07-02 06:15:11",

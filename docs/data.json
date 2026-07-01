@@ -1,7 +1,15 @@
 {
-  "updated": "2026-07-02 06:16:03",
-  "count": 14038,
+  "updated": "2026-07-02 06:19:46",
+  "count": 14035,
   "items": [
+    {
+      "id": "mkt:019f1fc2-aeff-7aab-8c66-a4beb573fd3f",
+      "time": "2026-07-02 06:18:00",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Heat dome that drove record European heat to move over US Midwest, East this week】The NWS forecasts the heat dome that produced record heat in Europe will move over the US Midwest and Eastern states this week. Several World Cup host cities could see heat indices above 40°C. NWS advisories say sultry conditions in and around Kansas City and parts of Missouri will persist through the evening of July 3, with heat indices expected between 40.6°C and 43.3°C."
+    },
     {
       "id": "te:markets:563542",
       "time": "2026-07-02 06:15:11",
@@ -129246,39 +129254,6 @@
         "國際"
       ],
       "text": "美國海嘯預警系統：委內瑞拉發生地震後，波多黎各、維爾京群島面臨海嘯威脅。"
-    },
-    {
-      "id": "mkt:019efbb6-ad83-7dd8-b106-04b677709c2a",
-      "time": "2026-06-25 06:18:33",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "USGS reported a magnitude-7.1 earthquake in Venezuela's Morón region."
-    },
-    {
-      "id": "4953557",
-      "time": "2026-06-25 06:18:09",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國國家氣象局太平洋海嘯預警中心：委內瑞拉沿岸或將出現危險海嘯巨浪。"
-    },
-    {
-      "id": "mkt:019efbb5-54fa-7dd8-b105-f8d2008aabd3",
-      "time": "2026-06-25 06:17:05",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "U.S. tsunami warning system issued a tsunami threat alert after an earthquake off the coast of Venezuela."
-    },
-    {
-      "id": "4953556",
-      "time": "2026-06-25 06:17:01",
-      "tags": [
-        "其他"
-      ],
-      "text": "中國地震臺網自動測定：06月25日06時04分在委內瑞拉附近（北緯10.71度，西經67.84度）發生6.7級左右地震，最終結果以正式速報為準。"
     }
   ]
 }
