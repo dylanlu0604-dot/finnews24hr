@@ -1,7 +1,48 @@
 {
-  "updated": "2026-07-01 08:34:07",
+  "updated": "2026-07-01 08:38:00",
   "count": 13979,
   "items": [
+    {
+      "id": "4963864",
+      "time": "2026-07-01 08:36:22",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "日本日經平均指數擴大漲幅，最新上漲2.5%，報71,843.03點。"
+    },
+    {
+      "id": "te:markets:563149",
+      "time": "2026-07-01 08:36:02",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Japan",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "Japanese Shares Climb on Tech Strength — The Nikkei 225 Index jumped 2.2% to above 71,600, while the broader Topix Index gained 1.2% to 4,042 on Wednesday, marking a third straight session of gains as Japanese equities tracked a technology-led rally on Wall Street overnight. Chipmakers and AI-related stocks paced the advance as the recent selloff in the technology sector continued to fade, with strong performances from Kioxia Holdings (2.4%), Tokyo Electron (4.9%), Taiyo Yuden (11.1%), SoftBank Group (4.6%) and Advantest (4.9%). On the economic front, business confidence among Japan’s large manufacturers rose to its highest level since 2018, reflecting the economy’s resilience despite the energy shock caused by the Middle East conflict. Meanwhile, investors continued to monitor the ongoing US-Iran peace talks in Qatar, hoping for progress toward a lasting ceasefire agreement."
+    },
+    {
+      "id": "4963863",
+      "time": "2026-07-01 08:35:54",
+      "tags": [
+        "國際"
+      ],
+      "text": "【全球電動汽車市場進入加速增長新階段】國際能源署最新發布的《全球電動汽車展望2026》報告預計，2026年全球電動汽車銷量將達到2300萬輛，佔全球新車銷量近30%，而五六年前這一比例僅為5%左右。其中，歐洲市場電動汽車預計銷量增幅為20%；除中國以外的亞太地區國家電動汽車銷量預計增長50%以上；拉美地區銷量將增長45%。國際能源署署長法提赫·比羅爾近日表示，全球電動汽車市場進入加速增長新階段。（人民日報）"
+    },
+    {
+      "id": "te:economy:563148",
+      "time": "2026-07-01 08:34:26",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Japan",
+        "Manufacturing PMI",
+        "Importance 1"
+      ],
+      "text": "Japan Manufacturing PMI Revised Slightly Lower — The S&P Global Japan Manufacturing PMI was revised slightly lower to 54.8 in June 2026 from 54.9 in the preliminary estimate, but remained above May's reading of 54.5 and close to April's 55.1, which marked the strongest expansion since January 2022. It was the sixth straight month of growth in factory activity, supported by faster increases in output and new orders."
+    },
     {
       "id": "mkt:019f1b17-7a8f-7aab-8c46-ce3fd2e135db",
       "time": "2026-07-01 08:32:31",
@@ -128419,43 +128460,6 @@
         "焦點"
       ],
       "text": "比特幣升破63000美元，日內漲0.44%。"
-    },
-    {
-      "id": "mkt:019ef70e-ca8e-7dd8-b0e5-f60455c9c80e",
-      "time": "2026-06-24 08:36:42",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "YONHAP reports two vessels, including a VLCC operated by South Korea's HMM, have left the Strait of Hormuz."
-    },
-    {
-      "id": "te:markets:561292",
-      "time": "2026-06-24 08:36:30",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 2"
-      ],
-      "text": "Gold Extends Losses on Hawkish Fed Bets — Gold fell below $4,100 an ounce on Wednesday, sliding toward seven-month lows as expectations of tighter Federal Reserve policy outweighed support from the interim US-Iran peace agreement, which helped ease inflation concerns. At its latest policy meeting, Fed officials left interest rates unchanged but indicated increasing support for future rate hikes, while new Fed Chair Kevin Warsh reaffirmed his commitment to restoring price stability. Meanwhile, progress in negotiations between Washington and Tehran encouraged a rise in traffic through the Strait of Hormuz, easing pressure on global energy supplies and reducing inflation risks. Gold also faced additional selling pressure as a sharp decline in US technology stocks prompted investors to trim bullion positions to offset losses elsewhere in their portfolios."
-    },
-    {
-      "id": "4951369",
-      "time": "2026-06-24 08:36:26",
-      "tags": [
-        "公司"
-      ],
-      "text": "【三星電子股價因股票回購計劃訊息飆升10%】有報道稱三星計劃斥資 90 萬億韓元回購股票，訊息傳出後，三星股價飆升 10%。韓聯社報道稱，三星或將宣佈90萬億韓元的股票回購計劃。"
-    },
-    {
-      "id": "4951368",
-      "time": "2026-06-24 08:35:39",
-      "tags": [
-        "公司",
-        "市場",
-        "國際"
-      ],
-      "text": "【野村、索尼齊力發債，日本企業本週債券發行開局火爆】野村控股與索尼集團發力發債，本週前兩個交易日日本企業在全球市場的債券發行規模突破80億美元，當前已是今年發債最密集的時段之一，後續還將有更多債券推出。野村於週二完成35億美元債券定價；索尼時隔近30年重返美國債市，發行10億美元債券。投資級企業的收益率溢價在今年1月觸及二十年來低位，目前仍維持在相近水平，兩家企業藉此視窗期登陸全球債券市場。據不願具名的知情人士透露，日本電信巨頭NTT旗下金融子公司也加入發債熱潮，已聘請多家投行籌備美元、歐元、英鎊多幣種債券發行。"
     }
   ]
 }
