@@ -1,7 +1,41 @@
 {
   "date": "2026-07-01",
-  "count": 1412,
+  "count": 1417,
   "items": [
+    {
+      "id": "mkt:019f1c47-0033-7aab-8c4c-cfa43c540d7c",
+      "time": "2026-07-01 14:04:02",
+      "tags": [
+        "MKT News",
+        "CSI300",
+        "Impact bullish"
+      ],
+      "text": "【Ping An Securities: Non-bank financials' fundamentals improving, valuations offer attractive allocation】Morning trade showed a sharp rotation from 1H: long-dormant blue chips staged a broad comeback—pork, chicken, baijiu and brokers led gains—while prior leaders such as AI compute and CPO diverged. Ping An Securities says funds are heavily concentrated in the tech runway and that extreme structural positioning could trigger an adjustment. Non-bank financials' fundamentals continue to improve and valuations sit in a trough, offering high allocation value; should sector rotation or market-structure adjustment occur, they would present an optimal buying window."
+    },
+    {
+      "id": "4964308",
+      "time": "2026-07-01 14:03:34",
+      "tags": [
+        "國際"
+      ],
+      "text": "【外媒：伊朗發生武裝襲擊事件，一名警察喪生】據卡達半島電視臺、伊朗邁赫爾通訊社7月1日最新訊息，伊朗警方報告稱，伊朗東南部錫斯坦-俾路支斯坦省發生一起武裝襲擊事件，導致一名警察喪生。（環球網）"
+    },
+    {
+      "id": "4964307",
+      "time": "2026-07-01 14:02:41",
+      "tags": [
+        "其他"
+      ],
+      "text": "【中國政府太平洋島國事務特使錢波會見湯加首相法卡法努阿】2026年6月30日，中國政府太平洋島國事務特使錢波在斐濟蘇瓦會見湯加首相法卡法努阿，雙方就中湯關係以及共同關心的地區和國際問題等深入交流。（外交部）"
+    },
+    {
+      "id": "4964306",
+      "time": "2026-07-01 14:02:13",
+      "tags": [
+        "市場"
+      ],
+      "text": "歐元斯托克50期貨<STXEc1>下跌0.02%，德國DAX期貨<FDXc1>上漲0.05%，富時期貨<FFIc1>下跌0.27%。"
+    },
     {
       "id": "4964305",
       "time": "2026-07-01 14:01:28",
@@ -10,6 +44,15 @@
         "焦點"
       ],
       "text": "滬深兩市成交額超3.1萬億元，較上日此時放量3973億元。"
+    },
+    {
+      "id": "em:jjsj_ygsj:202607013790082645",
+      "time": "2026-07-01 14:00:56",
+      "tags": [
+        "經濟數據",
+        "英國"
+      ],
+      "text": "英國6月Nationwide房價指數同比增長2.2%，預期2.4%，前值1.7%。"
     },
     {
       "id": "4964304",
