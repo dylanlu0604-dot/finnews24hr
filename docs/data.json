@@ -1,7 +1,198 @@
 {
-  "updated": "2026-07-01 21:13:08",
-  "count": 13994,
+  "updated": "2026-07-01 21:17:11",
+  "count": 13998,
   "items": [
+    {
+      "id": "mkt:019f1dd2-e2b7-7aab-8c5a-2466817323d4",
+      "time": "2026-07-01 21:16:27",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Fed chair Kevin Warsh said monetary policy can produce spillover effects across our economies."
+    },
+    {
+      "id": "4965390",
+      "time": "2026-07-01 21:16:17",
+      "tags": [
+        "國際"
+      ],
+      "text": "格雷媒體將以5000萬美元收購美國精神媒體旗下電視臺。"
+    },
+    {
+      "id": "4965389",
+      "time": "2026-07-01 21:16:04",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲沃什：各國貨幣政策會產生跨境溢位效應。"
+    },
+    {
+      "id": "4965388",
+      "time": "2026-07-01 21:15:52",
+      "tags": [
+        "國際"
+      ],
+      "text": "【敘利亞人民議會議員完整名單獲確認 將召開首次會議】敘利亞人民議會選舉高階委員會7月1日宣佈由敘過渡政府總統艾哈邁德·沙拉任命的70名人民議會議員名單。至此，敘人民議會全部210名議員名單獲該委員會確認。（新華社）"
+    },
+    {
+      "id": "mkt:019f1dd2-238a-7aab-8c5a-1e32d99991de",
+      "time": "2026-07-01 21:15:38",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bearish",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI"
+      ],
+      "text": "Bank of Canada Governor Macklem said the central bank stands ready to act if conditions change."
+    },
+    {
+      "id": "4965387",
+      "time": "2026-07-01 21:15:37",
+      "tags": [
+        "其他"
+      ],
+      "text": "沃什：希望專項工作組的研究成果能惠及公眾。"
+    },
+    {
+      "id": "mkt:019f1dd1-f78b-7aab-8c5a-169d778523cb",
+      "time": "2026-07-01 21:15:27",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "BOC Governor MACKLEM said the bank must remain humble amid uncertainty and is prepared to act should conditions change."
+    },
+    {
+      "id": "mkt:019f1dd1-cd2a-7aab-8c5a-0b9dc43cd4cd",
+      "time": "2026-07-01 21:15:16",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "BOC Governor Macklem said the policy rate is at the lower bound of the neutral range and is roughly at a level sufficient to curb inflation."
+    },
+    {
+      "id": "mkt:019f1dd1-9140-7aab-8c5a-011816351285",
+      "time": "2026-07-01 21:15:01",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Europe & UK",
+        "GBPUSD",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "After Bank of England Governor BAILEY's remarks, GBP/USD briefly dropped over 20 pips."
+    },
+    {
+      "id": "4965386",
+      "time": "2026-07-01 21:14:56",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "加拿大央行行長麥克勒姆：在不確定性面前我們必須保持謙遜，若形勢生變，我們已準備好採取行動。"
+    },
+    {
+      "id": "4965385",
+      "time": "2026-07-01 21:14:39",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "加拿大央行行長麥克勒姆：我們目前的政策利率處於中性區間的下限，這一水平恰好能抑制通脹。"
+    },
+    {
+      "id": "mkt:019f1dd0-ea94-7aab-8c59-ff0b74874bc5",
+      "time": "2026-07-01 21:14:18",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "BOC Governor MACKLEM said inflation remains significantly above target and the Canadian economy is weak."
+    },
+    {
+      "id": "4965384",
+      "time": "2026-07-01 21:14:08",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "英國央行貝利：有充分依據證明貨幣政策已處於緊縮狀態。"
+    },
+    {
+      "id": "mkt:019f1dd0-c1ab-7aab-8c59-f32b3c9561f7",
+      "time": "2026-07-01 21:14:08",
+      "tags": [
+        "MKT News",
+        "GBPUSD",
+        "Impact bullish"
+      ],
+      "text": "Bank of England Governor Bailey said the BoE has effectively tightened policy without raising interest rates."
+    },
+    {
+      "id": "4965383",
+      "time": "2026-07-01 21:13:55",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "加拿大央行行長麥克勒姆：通脹水平明顯高於目標區間。"
+    },
+    {
+      "id": "4965382",
+      "time": "2026-07-01 21:13:46",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "加拿大央行行長麥克勒姆表示：加拿大經濟當前表現疲軟。"
+    },
+    {
+      "id": "mkt:019f1dd0-0012-7aab-8c59-e81a0393db53",
+      "time": "2026-07-01 21:13:18",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Brent",
+        "Impact bearish",
+        "GBPUSD",
+        "Impact mixed"
+      ],
+      "text": "Bank of England Governor Bailey said energy prices have eased."
+    },
+    {
+      "id": "4965381",
+      "time": "2026-07-01 21:13:15",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "英國央行行長貝利：能源價格已回落，但英國經濟對此存在滯後反應。"
+    },
+    {
+      "id": "4965380",
+      "time": "2026-07-01 21:12:56",
+      "tags": [
+        "市場"
+      ],
+      "text": "美元指數DXY短線小幅走高，現報101.57。歐元兌美元EUR/USD日內跌幅達0.50%，現報1.1363。"
+    },
+    {
+      "id": "mkt:019f1dcf-649f-7aab-8c59-e3296e9b2cd3",
+      "time": "2026-07-01 21:12:38",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "Bank of England Governor Bailey said the Bank's response mechanism to energy-price moves is lagged."
+    },
     {
       "id": "mkt:019f1dcf-2ac8-7aab-8c59-d96b1bdb8dd3",
       "time": "2026-07-01 21:12:23",
@@ -128740,153 +128931,6 @@
         "市場"
       ],
       "text": "WTI原油日內跌4%，現報70.28美元/桶。"
-    },
-    {
-      "id": "4952910",
-      "time": "2026-06-24 21:17:09",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普將於週五在華盛頓特區主持新聞釋出會。"
-    },
-    {
-      "id": "mkt:019ef9c6-a9a0-7dd8-b0fa-a5e667a002fc",
-      "time": "2026-06-24 21:16:46",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Iran parliament speaker says Iran-US memorandum signals \"US defeat\"】Speaker of Iran's parliament Mohammad Bagher Ghalibaf said on June 24 in Baku that a memorandum of understanding between Iran and the United States signals a \"US defeat\" and reflects the outcome of Iranian resistance. He said efforts to coerce Iran through military pressure, blockade, psychological warfare and terrorism have failed, and that the conflict caused heavy losses but demonstrated Iranian resilience."
-    },
-    {
-      "id": "4952909",
-      "time": "2026-06-24 21:16:45",
-      "tags": [
-        "市場"
-      ],
-      "text": "LME倫鋁日內跌超3.00%，現報3133.595美元/噸。"
-    },
-    {
-      "id": "4952908",
-      "time": "2026-06-24 21:16:41",
-      "tags": [
-        "公司"
-      ],
-      "text": "【知情人士：xAI正加碼研發影片影象生成工具】知情專案人士透露，SpaceX旗下人工智慧企業 xAI 正加碼研發影片、影象生成工具，瞄準 OpenAI 與 Anthropic 留下的市場空白 —— 這兩家競品平臺的視覺生成功能相對薄弱。xAI 於上週推出升級款影片大模型，藉此彰顯自身在視覺生成賽道的推進力度；與此同時，該公司也引入外部技術支援，以求在程式碼生成等領域對標競爭對手。在重磅上市前夕，SpaceX 還大肆宣傳自家 AI 影片工具的高人氣。但 SpaceX 未曾提及，該工具大量使用者需求的根源在於 Grok 寬鬆的內容稽核規則，這也使其成為生成色情及各類露骨內容的主要平臺。兩名近期離職的 xAI 員工估算，Grok 超過半數的整體訪問流量，都來自色情圖文影片生成、成人角色扮演對話以及其他不適宜公開展示（NSFW）的內容。"
-    },
-    {
-      "id": "mkt:019ef9c6-965c-7dd8-b0fa-9af4f27ca9de",
-      "time": "2026-06-24 21:16:41",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "Treasury Yields",
-        "US10Y",
-        "Impact bullish",
-        "DXY",
-        "WTI",
-        "Impact bearish"
-      ],
-      "text": "【U.S. Treasury yields slip as Middle East tensions ease】U.S. Treasury yields fell as U.S.-Iran talks continued and crude futures slid about 3%. A Wall Street Journal survey projects May pending home sales up 1.6% (April -6.2%); the report is due at 10:00 a.m. ET (22:00 Beijing). Yields eased despite a firmer dollar. Bannockburn analyst Marc Chandler said currency moves reflect dollar-short covering, while yields are being driven by U.S. economic resilience."
-    },
-    {
-      "id": "4952907",
-      "time": "2026-06-24 21:16:12",
-      "tags": [
-        "市場"
-      ],
-      "text": "洲際交易所（ICE）紐約可可期貨上漲超7%，報每噸4,983美元。"
-    },
-    {
-      "id": "mkt:019ef9c6-00f4-7dd8-b0fa-92e699a73932",
-      "time": "2026-06-24 21:16:03",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "People familiar said Russia has requested 50,000 tonnes of gasoline from Kazakhstan to ease domestic fuel shortages."
-    },
-    {
-      "id": "te:markets:561546",
-      "time": "2026-06-24 21:15:52",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Canada",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "TSX Futures Edge Lower on Commodity Weakness — Fututres tracking the S&P/TSX Composite Index edged lower on Wednesday on persistently high borrowing costs and pressure from energy producers. Gold prices declined as the dollar strengthened on rising bets for further US rate hikes, weighing on mining stocks. Oil prices also fell, extending this week’s losses on signs that more tankers are set to leave the Strait of Hormuz, easing concerns over energy-driven inflation but pressuring energy shares. Adding to caution, a broader reassessment of AI valuations on Wall Street wiped roughly $1.3 trillion in market value in the previous session, weighing on global risk sentiment."
-    },
-    {
-      "id": "4952906",
-      "time": "2026-06-24 21:15:00",
-      "tags": [
-        "市場"
-      ],
-      "text": "倫敦洲際交易所（ICE）可可期貨上漲超7%，報每噸3757英鎊。"
-    },
-    {
-      "id": "4952905",
-      "time": "2026-06-24 21:14:35",
-      "tags": [
-        "國際"
-      ],
-      "text": "訊息人士稱，俄羅斯已向哈薩克請求提供5萬噸汽油，以緩解國內燃料短缺問題。"
-    },
-    {
-      "id": "4952904",
-      "time": "2026-06-24 21:14:31",
-      "tags": [
-        "公司"
-      ],
-      "text": "紫訊技術（福建）股份有限公司向港交所提交上市申請書，獨家保薦人為國泰海通。"
-    },
-    {
-      "id": "mkt:019ef9c4-1425-7dd8-b0fa-8a3be1426138",
-      "time": "2026-06-24 21:13:57",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Precious Metals",
-        "NEM.O",
-        "Impact bearish",
-        "KGC.O",
-        "GLD.O"
-      ],
-      "text": "US-listed gold mining stocks fell: Newmont (NEM.N) -4.4%, Sibanye -6.1%, AngloGold Ashanti -7.0%, SPDR Gold Shares (GLD) -3.0%, Gold Fields -6.5%, Harmony Gold -6.0%, Kinross Gold -3.9%."
-    },
-    {
-      "id": "4952903",
-      "time": "2026-06-24 21:13:55",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【*ST未名：股票連續3日收盤跌幅累計偏離13.82% 屬異常波動】*ST未名公告稱，公司股票2026年6月22日-6月24日連續3個交易日收盤價格跌幅累計偏離13.82%，屬於異常波動。經自查，公司未發現公共傳媒報道可能影響股價的未公開重大資訊，近期經營及內外部環境未變，公司及控股股東無應披露未披露事項，控股股東在此期間無買賣公司股票行為，公司不存在違反公平資訊披露規定情形。公司股票於4月30日起被實施“退市風險警示”，提醒投資者理性投資，注意風險。"
-    },
-    {
-      "id": "4952902",
-      "time": "2026-06-24 21:13:47",
-      "tags": [
-        "公司"
-      ],
-      "text": "【宏和科技：Q布已透過下游客戶認證並具備量產能力】有投資者問宏和科技，公司是否已經提供Q布在進行測試了？是否有量產計劃？今年訂購的豐田織布機五百臺是否都到位了？宏和科技在互動平臺表示，公司Q布已透過下游客戶認證，並已具備量產能力，將依客戶訂單需求量生產Q布。織布機後續會按進度到貨。"
-    },
-    {
-      "id": "4952901",
-      "time": "2026-06-24 21:13:43",
-      "tags": [
-        "其他"
-      ],
-      "text": "聯合國兒童基金會與全球疫苗免疫聯盟呼籲藥企合作，加快推廣邦迪布約埃博拉病毒疫苗的可及性。"
-    },
-    {
-      "id": "4952900",
-      "time": "2026-06-24 21:13:27",
-      "tags": [
-        "公司"
-      ],
-      "text": "Top Ships公司公告：Legio X號油輪已安全駛出霍爾木茲海峽。"
     }
   ]
 }

@@ -1,7 +1,198 @@
 {
   "date": "2026-07-01",
-  "count": 2987,
+  "count": 3007,
   "items": [
+    {
+      "id": "mkt:019f1dd2-e2b7-7aab-8c5a-2466817323d4",
+      "time": "2026-07-01 21:16:27",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Fed chair Kevin Warsh said monetary policy can produce spillover effects across our economies."
+    },
+    {
+      "id": "4965390",
+      "time": "2026-07-01 21:16:17",
+      "tags": [
+        "國際"
+      ],
+      "text": "格雷媒體將以5000萬美元收購美國精神媒體旗下電視臺。"
+    },
+    {
+      "id": "4965389",
+      "time": "2026-07-01 21:16:04",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲沃什：各國貨幣政策會產生跨境溢位效應。"
+    },
+    {
+      "id": "4965388",
+      "time": "2026-07-01 21:15:52",
+      "tags": [
+        "國際"
+      ],
+      "text": "【敘利亞人民議會議員完整名單獲確認 將召開首次會議】敘利亞人民議會選舉高階委員會7月1日宣佈由敘過渡政府總統艾哈邁德·沙拉任命的70名人民議會議員名單。至此，敘人民議會全部210名議員名單獲該委員會確認。（新華社）"
+    },
+    {
+      "id": "mkt:019f1dd2-238a-7aab-8c5a-1e32d99991de",
+      "time": "2026-07-01 21:15:38",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bearish",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI"
+      ],
+      "text": "Bank of Canada Governor Macklem said the central bank stands ready to act if conditions change."
+    },
+    {
+      "id": "4965387",
+      "time": "2026-07-01 21:15:37",
+      "tags": [
+        "其他"
+      ],
+      "text": "沃什：希望專項工作組的研究成果能惠及公眾。"
+    },
+    {
+      "id": "mkt:019f1dd1-f78b-7aab-8c5a-169d778523cb",
+      "time": "2026-07-01 21:15:27",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "BOC Governor MACKLEM said the bank must remain humble amid uncertainty and is prepared to act should conditions change."
+    },
+    {
+      "id": "mkt:019f1dd1-cd2a-7aab-8c5a-0b9dc43cd4cd",
+      "time": "2026-07-01 21:15:16",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "BOC Governor Macklem said the policy rate is at the lower bound of the neutral range and is roughly at a level sufficient to curb inflation."
+    },
+    {
+      "id": "mkt:019f1dd1-9140-7aab-8c5a-011816351285",
+      "time": "2026-07-01 21:15:01",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Europe & UK",
+        "GBPUSD",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "After Bank of England Governor BAILEY's remarks, GBP/USD briefly dropped over 20 pips."
+    },
+    {
+      "id": "4965386",
+      "time": "2026-07-01 21:14:56",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "加拿大央行行長麥克勒姆：在不確定性面前我們必須保持謙遜，若形勢生變，我們已準備好採取行動。"
+    },
+    {
+      "id": "4965385",
+      "time": "2026-07-01 21:14:39",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "加拿大央行行長麥克勒姆：我們目前的政策利率處於中性區間的下限，這一水平恰好能抑制通脹。"
+    },
+    {
+      "id": "mkt:019f1dd0-ea94-7aab-8c59-ff0b74874bc5",
+      "time": "2026-07-01 21:14:18",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "BOC Governor MACKLEM said inflation remains significantly above target and the Canadian economy is weak."
+    },
+    {
+      "id": "mkt:019f1dd0-c1ab-7aab-8c59-f32b3c9561f7",
+      "time": "2026-07-01 21:14:08",
+      "tags": [
+        "MKT News",
+        "GBPUSD",
+        "Impact bullish"
+      ],
+      "text": "Bank of England Governor Bailey said the BoE has effectively tightened policy without raising interest rates."
+    },
+    {
+      "id": "4965384",
+      "time": "2026-07-01 21:14:08",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "英國央行貝利：有充分依據證明貨幣政策已處於緊縮狀態。"
+    },
+    {
+      "id": "4965383",
+      "time": "2026-07-01 21:13:55",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "加拿大央行行長麥克勒姆：通脹水平明顯高於目標區間。"
+    },
+    {
+      "id": "4965382",
+      "time": "2026-07-01 21:13:46",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "加拿大央行行長麥克勒姆表示：加拿大經濟當前表現疲軟。"
+    },
+    {
+      "id": "mkt:019f1dd0-0012-7aab-8c59-e81a0393db53",
+      "time": "2026-07-01 21:13:18",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Brent",
+        "Impact bearish",
+        "GBPUSD",
+        "Impact mixed"
+      ],
+      "text": "Bank of England Governor Bailey said energy prices have eased."
+    },
+    {
+      "id": "4965381",
+      "time": "2026-07-01 21:13:15",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "英國央行行長貝利：能源價格已回落，但英國經濟對此存在滯後反應。"
+    },
+    {
+      "id": "4965380",
+      "time": "2026-07-01 21:12:56",
+      "tags": [
+        "市場"
+      ],
+      "text": "美元指數DXY短線小幅走高，現報101.57。歐元兌美元EUR/USD日內跌幅達0.50%，現報1.1363。"
+    },
+    {
+      "id": "mkt:019f1dcf-649f-7aab-8c59-e3296e9b2cd3",
+      "time": "2026-07-01 21:12:38",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "Bank of England Governor Bailey said the Bank's response mechanism to energy-price moves is lagged."
+    },
     {
       "id": "mkt:019f1dcf-2ac8-7aab-8c59-d96b1bdb8dd3",
       "time": "2026-07-01 21:12:23",
