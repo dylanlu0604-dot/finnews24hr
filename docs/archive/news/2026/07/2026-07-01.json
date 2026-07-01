@@ -1,7 +1,136 @@
 {
   "date": "2026-07-01",
-  "count": 1150,
+  "count": 1162,
   "items": [
+    {
+      "id": "mkt:019f1bbd-515d-7aab-8c4a-830a814ac36f",
+      "time": "2026-07-01 11:33:39",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "EURUSD",
+        "Impact bearish",
+        "US10Y"
+      ],
+      "text": "【Analysts expect US June unemployment to hold at 4.3%; labor market still resilient】Glenmede strategists Jason Pride and Michael Reynolds expect US June unemployment to remain at 4.3% and nonfarm payrolls to rise about 87k, down from May’s 172k. They say that, despite the slowdown, the labour market remains resilient amid low hiring and low layoffs. The pair note the Fed’s focus has shifted toward inflation, so the timing of any policy easing will depend more on inflationary pressure than on employment growth."
+    },
+    {
+      "id": "mkt:019f1bbd-1995-7aab-8c4a-782803062704",
+      "time": "2026-07-01 11:33:25",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "SSE Composite",
+        "Impact bullish",
+        "SZSE Component",
+        "Impact mixed"
+      ],
+      "text": "【A-shares midday: Shanghai Composite up ~1%; livestock, big financials lead】Mainland stocks opened mixed. ChiNext initially dipped more than 1% before stabilizing; Shanghai Composite climbed steadily and was up 1.08% at the mid-session close. Shenzhen Composite rose 0.41%, ChiNext fell 0.39%. Turnover on the two exchanges exceeded 2.4 tln yuan and over 4,200 stocks advanced. Sector movers: fluorochemicals and livestock led gains; internet finance and insurance within large financials and robotics were active. Innovative drug names recovered after early weakness. Memory chips and CPO briefly spiked then retreated. Energy storage fell, led by inverter suppliers."
+    },
+    {
+      "id": "4964146",
+      "time": "2026-07-01 11:33:06",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【午評：滬指半日漲1.08%，全市場超4500只個股上漲，製冷劑、家禽、證券IT等概念走強】A股三大指數早盤漲跌不一，截至午間收盤，上證指數漲1.08%，深證成指漲0.41%，創業板指跌0.39%；北證50漲0.35%。滬深兩市成交額約24199.64億元，較前一個交易日放量約3151.19億元。截至午盤，全市場4553只股票上漲、931只股票下跌，其中198只漲停、6只跌停。"
+    },
+    {
+      "id": "4964145",
+      "time": "2026-07-01 11:32:32",
+      "tags": [
+        "其他"
+      ],
+      "text": "川崎重工：正在考慮各種融資方案，包括髮行新股和債券。"
+    },
+    {
+      "id": "mkt:019f1bbb-4798-7aab-8c4a-722a1be90561",
+      "time": "2026-07-01 11:31:26",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【China government bond futures morning session close】China government bond futures at the morning session close: 2-year (TS) most-active contract fell 0.03%; 5-year (TF) down 0.09%; 10-year (T) down 0.15%; 30-year (TL) down 0.28%."
+    },
+    {
+      "id": "mkt:019f1bbb-46a3-7aab-8c4a-68a150f49e40",
+      "time": "2026-07-01 11:31:25",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish"
+      ],
+      "text": "【Index futures morning-session close】CSI 300 index futures (IF) main contract +0.63%; SSE 50 index futures (IH) main contract +1.00%; CSI 500 index futures (IC) main contract +0.97%; CSI 1000 index futures (IM) main contract +1.36%."
+    },
+    {
+      "id": "mkt:019f1bbb-368a-7aab-8c4a-665297046d77",
+      "time": "2026-07-01 11:31:21",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals",
+        "Industrial Metals",
+        "Energy",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "At the morning session close, China's main futures contracts were mostly lower. Container shipping rates on the Europe route fell over 9%. Lithium carbonate rose more than 5% and polysilicon gained over 3%. Coke, methanol and coking coal declined over 2%; platinum and iron ore fell about 2%; SC crude and ethylene glycol dropped more than 1%. LPG and Shanghai zinc gained over 1%; 20# rubber, Shanghai tin, cotton and soybean meal were up around 1%."
+    },
+    {
+      "id": "mkt:019f1bba-f128-7aab-8c4a-5ba357f57de5",
+      "time": "2026-07-01 11:31:03",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy"
+      ],
+      "text": "【Wells Fargo: US labor demand broadly steady; no clear sign of reacceleration】Wells Fargo economists say the US labor market has continued to stabilize after a trough in 2025. Initial jobless claims remain low and regional Fed employment PMIs show a slight pickup in June hiring, but other indicators have softened: job postings and ADP’s weekly hiring metric have fallen since spring and small‑business hiring plans slid to a cycle low in May. Overall, the data point to labor demand being broadly steady rather than reaccelerating."
+    },
+    {
+      "id": "4964144",
+      "time": "2026-07-01 11:30:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "【股指期貨早盤收盤】 中證1000指數期貨連續漲1.36%， 滬深300指數期貨連續漲0.63%， 中證500指數期貨連續漲0.97%， 上證50指數期貨連續漲1.00%。"
+    },
+    {
+      "id": "4964143",
+      "time": "2026-07-01 11:30:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "【國債期貨早盤收盤】 30年期主力合約跌0.28%， 10年期主力合約跌0.15%， 5年期主力合約跌0.09%， 2年期主力合約跌0.03%。"
+    },
+    {
+      "id": "4964142",
+      "time": "2026-07-01 11:30:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "【商品期貨早盤收盤】集運指數歐線期貨連續跌9.81%，碳酸鋰連續漲5.65%，多晶矽連續漲3.08%，焦炭連續跌2.33%，甲醇連續跌2.01%。"
+    },
+    {
+      "id": "te:markets:563227",
+      "time": "2026-07-01 11:29:57",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "New Zealand",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "New Zealand Dollar Languishes Near 7-Month Low — The New Zealand dollar slipped to $0.566 on the first trading day of July, hovering near its lowest level in seven months amid a firm US dollar, while investors assessed the Reserve Bank’s interest rate outlook. Markets continue to price in a rate hike from the RBNZ next week, although analysts have become more divided on whether such a move is necessary given the recent decline in oil prices. Meanwhile, latest data showed business confidence improved in June, suggesting the economy may be holding up better than earlier feared. Although local economists still expect a contraction in the second quarter, they anticipate a recovery thereafter as fuel and other costs ease. The kiwi dropped 5.2% in June, marking its largest monthly fall since December 2024, and declined 1.2% in the second quarter."
+    },
     {
       "id": "4964141",
       "time": "2026-07-01 11:28:31",

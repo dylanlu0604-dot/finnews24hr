@@ -1,7 +1,136 @@
 {
-  "updated": "2026-07-01 11:29:09",
-  "count": 13965,
+  "updated": "2026-07-01 11:34:50",
+  "count": 13961,
   "items": [
+    {
+      "id": "mkt:019f1bbd-515d-7aab-8c4a-830a814ac36f",
+      "time": "2026-07-01 11:33:39",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "EURUSD",
+        "Impact bearish",
+        "US10Y"
+      ],
+      "text": "【Analysts expect US June unemployment to hold at 4.3%; labor market still resilient】Glenmede strategists Jason Pride and Michael Reynolds expect US June unemployment to remain at 4.3% and nonfarm payrolls to rise about 87k, down from May’s 172k. They say that, despite the slowdown, the labour market remains resilient amid low hiring and low layoffs. The pair note the Fed’s focus has shifted toward inflation, so the timing of any policy easing will depend more on inflationary pressure than on employment growth."
+    },
+    {
+      "id": "mkt:019f1bbd-1995-7aab-8c4a-782803062704",
+      "time": "2026-07-01 11:33:25",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "SSE Composite",
+        "Impact bullish",
+        "SZSE Component",
+        "Impact mixed"
+      ],
+      "text": "【A-shares midday: Shanghai Composite up ~1%; livestock, big financials lead】Mainland stocks opened mixed. ChiNext initially dipped more than 1% before stabilizing; Shanghai Composite climbed steadily and was up 1.08% at the mid-session close. Shenzhen Composite rose 0.41%, ChiNext fell 0.39%. Turnover on the two exchanges exceeded 2.4 tln yuan and over 4,200 stocks advanced. Sector movers: fluorochemicals and livestock led gains; internet finance and insurance within large financials and robotics were active. Innovative drug names recovered after early weakness. Memory chips and CPO briefly spiked then retreated. Energy storage fell, led by inverter suppliers."
+    },
+    {
+      "id": "4964146",
+      "time": "2026-07-01 11:33:06",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【午評：滬指半日漲1.08%，全市場超4500只個股上漲，製冷劑、家禽、證券IT等概念走強】A股三大指數早盤漲跌不一，截至午間收盤，上證指數漲1.08%，深證成指漲0.41%，創業板指跌0.39%；北證50漲0.35%。滬深兩市成交額約24199.64億元，較前一個交易日放量約3151.19億元。截至午盤，全市場4553只股票上漲、931只股票下跌，其中198只漲停、6只跌停。"
+    },
+    {
+      "id": "4964145",
+      "time": "2026-07-01 11:32:32",
+      "tags": [
+        "其他"
+      ],
+      "text": "川崎重工：正在考慮各種融資方案，包括髮行新股和債券。"
+    },
+    {
+      "id": "mkt:019f1bbb-4798-7aab-8c4a-722a1be90561",
+      "time": "2026-07-01 11:31:26",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【China government bond futures morning session close】China government bond futures at the morning session close: 2-year (TS) most-active contract fell 0.03%; 5-year (TF) down 0.09%; 10-year (T) down 0.15%; 30-year (TL) down 0.28%."
+    },
+    {
+      "id": "mkt:019f1bbb-46a3-7aab-8c4a-68a150f49e40",
+      "time": "2026-07-01 11:31:25",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish"
+      ],
+      "text": "【Index futures morning-session close】CSI 300 index futures (IF) main contract +0.63%; SSE 50 index futures (IH) main contract +1.00%; CSI 500 index futures (IC) main contract +0.97%; CSI 1000 index futures (IM) main contract +1.36%."
+    },
+    {
+      "id": "mkt:019f1bbb-368a-7aab-8c4a-665297046d77",
+      "time": "2026-07-01 11:31:21",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals",
+        "Industrial Metals",
+        "Energy",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "At the morning session close, China's main futures contracts were mostly lower. Container shipping rates on the Europe route fell over 9%. Lithium carbonate rose more than 5% and polysilicon gained over 3%. Coke, methanol and coking coal declined over 2%; platinum and iron ore fell about 2%; SC crude and ethylene glycol dropped more than 1%. LPG and Shanghai zinc gained over 1%; 20# rubber, Shanghai tin, cotton and soybean meal were up around 1%."
+    },
+    {
+      "id": "mkt:019f1bba-f128-7aab-8c4a-5ba357f57de5",
+      "time": "2026-07-01 11:31:03",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy"
+      ],
+      "text": "【Wells Fargo: US labor demand broadly steady; no clear sign of reacceleration】Wells Fargo economists say the US labor market has continued to stabilize after a trough in 2025. Initial jobless claims remain low and regional Fed employment PMIs show a slight pickup in June hiring, but other indicators have softened: job postings and ADP’s weekly hiring metric have fallen since spring and small‑business hiring plans slid to a cycle low in May. Overall, the data point to labor demand being broadly steady rather than reaccelerating."
+    },
+    {
+      "id": "4964144",
+      "time": "2026-07-01 11:30:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "【股指期貨早盤收盤】 中證1000指數期貨連續漲1.36%， 滬深300指數期貨連續漲0.63%， 中證500指數期貨連續漲0.97%， 上證50指數期貨連續漲1.00%。"
+    },
+    {
+      "id": "4964143",
+      "time": "2026-07-01 11:30:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "【國債期貨早盤收盤】 30年期主力合約跌0.28%， 10年期主力合約跌0.15%， 5年期主力合約跌0.09%， 2年期主力合約跌0.03%。"
+    },
+    {
+      "id": "4964142",
+      "time": "2026-07-01 11:30:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "【商品期貨早盤收盤】集運指數歐線期貨連續跌9.81%，碳酸鋰連續漲5.65%，多晶矽連續漲3.08%，焦炭連續跌2.33%，甲醇連續跌2.01%。"
+    },
+    {
+      "id": "te:markets:563227",
+      "time": "2026-07-01 11:29:57",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "New Zealand",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "New Zealand Dollar Languishes Near 7-Month Low — The New Zealand dollar slipped to $0.566 on the first trading day of July, hovering near its lowest level in seven months amid a firm US dollar, while investors assessed the Reserve Bank’s interest rate outlook. Markets continue to price in a rate hike from the RBNZ next week, although analysts have become more divided on whether such a move is necessary given the recent decline in oil prices. Meanwhile, latest data showed business confidence improved in June, suggesting the economy may be holding up better than earlier feared. Although local economists still expect a contraction in the second quarter, they anticipate a recovery thereafter as fuel and other costs ease. The kiwi dropped 5.2% in June, marking its largest monthly fall since December 2024, and declined 1.2% in the second quarter."
+    },
     {
       "id": "4964141",
       "time": "2026-07-01 11:28:31",
@@ -128220,170 +128349,6 @@
         "國際"
       ],
       "text": "【日本對華冷軋不鏽鋼板卷作出反傾銷肯定性初裁】據中國貿易救濟資訊網，6月19日，日本財務省釋出公告，對原產於中國大陸和中國臺灣地區的冷軋不鏽鋼板卷作出反傾銷肯定性初裁，初步裁定中國大陸企業山西太鋼不鏽鋼股份有限公司、廣東甬金金屬科技有限公司及未被抽樣的生產商的傾銷幅度為33.29%，浦項（張家港）不鏽鋼股份有限公司及中國大陸其他生產商/出口商傾銷幅度為45.32%；中國臺灣地區涉案產品的傾銷幅度為3.86%—20.71%。本案傾銷調查期為2024年1月1日至2024年12月3日，損害調查期為2022年1月1日至2024年12月3日。"
-    },
-    {
-      "id": "4951655",
-      "time": "2026-06-24 11:34:36",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "【國臺辦：民進黨當局買再多武器都改變不了“臺獨”必亡結局】國務院臺辦舉行例行新聞釋出會。有記者就賴清德稱希望美國儘快批准一項價值140億美元的軍售言論提問。發言人張晗表示，我們堅決反對美國向中國臺灣地區出售武器的立場是一貫的、明確的，敦促美方恪守一箇中國原則和中美三個聯合公報，慎重處理臺灣問題。不管賴清德散佈什麼謬論、買多少武器，都改變不了臺灣是中國一部分的地位。此外，有記者就民進黨當局透過鉅額無人裝備採購條例一事提問。張晗表示，祖國統一的歷史車輪滾滾向前。民進黨當局買再多武器，都是螳臂當車，改變不了“臺獨”必然敗亡的結局。"
-    },
-    {
-      "id": "mkt:019ef7b1-a0aa-7dd8-b0ea-7ed31ffb7103",
-      "time": "2026-06-24 11:34:33",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "Chip Wars",
-        "Market Regions",
-        "Greater China",
-        "SZSE Component",
-        "Impact bullish",
-        "SSE Composite",
-        "Impact bearish"
-      ],
-      "text": "【A-share midday: ChiNext +0.42%; semiconductors, CXO, lithium lead gains】By midday, Shanghai Composite -0.25%, Shenzhen Composite +0.33%, ChiNext +0.42%. Semiconductors led gains, with JCET Group and other chips names hitting the daily limit; lithium miners were active, Yongshan Lithium among stocks capped at limit. CXO stocks advanced, WuXi AppTec hit the limit. Fluorochemicals, building materials and chemical fiber outperformed; grain, tourism, media & entertainment and daily-use chemicals underperformed. Market half-day turnover topped 2.0 trillion yuan."
-    },
-    {
-      "id": "4951653",
-      "time": "2026-06-24 11:34:17",
-      "tags": [
-        "公司"
-      ],
-      "text": "【順豐控股旗下豐翼科技等成立無人機公司 註冊資本1000萬】天眼查App顯示，近日，雲翼無人機（雲南）有限責任公司成立，法定代表人為趙之光，註冊資本1000萬人民幣，經營範圍包括智慧無人飛行器製造、智慧無人飛行器銷售、智慧輸配電及控制裝置銷售、軟體開發等。股東資訊顯示，該公司由雲南精誠健康管理有限公司、順豐控股（002352）旗下豐翼科技（深圳）有限公司共同持股。"
-    },
-    {
-      "id": "4951652",
-      "time": "2026-06-24 11:32:54",
-      "tags": [
-        "公司"
-      ],
-      "text": "【浙江瑞浦蘭鈞星途貿易有限公司成立，註冊資本2000萬】天眼查App顯示，近日，浙江瑞浦蘭鈞星途貿易有限公司成立，法定代表人為項錦強，註冊資本2000萬人民幣，經營範圍包括貨物進出口、技術進出口、電池銷售等，由瑞浦蘭鈞全資持股。"
-    },
-    {
-      "id": "4951651",
-      "time": "2026-06-24 11:32:13",
-      "tags": [
-        "公司",
-        "市場",
-        "焦點",
-        "A股"
-      ],
-      "text": "【午評：科創50指數半日漲2.48%，先進封裝、PCB上游環節漲幅居前】A股三大指數早盤漲跌不一，截至午盤，上證指數跌0.25%，深證成指漲0.33%，創業板指漲0.42%，北證50跌0.29%，科創50指數漲2.48%。全市場成交額20998億元，較上日縮量2360億元，全市場超4400只個股下跌。板塊題材上，能源金屬、元件、半導體、機場航運、CRO概念、氟化工概念股漲幅居前；影視院線、教育、旅遊及酒店、煤炭開採加工、房地產、多元金融、種植業與林業、短劇遊戲板塊跌幅居前。盤面上，臺積電推動先進製程漲價，半導體晶圓製造、先進封裝環節表現活躍，匯成股份20cm漲停，華虹宏力、中芯國際、長電科技漲幅居前。鋰礦板塊盤中拉昇，永杉鋰業漲停，融捷股份、盛新鋰能跟漲，伯恩斯坦預計，2027年鋰價可能達到每噸32500美元。此外，氟化工、CRO、PCB上游方向同樣表現出色。另一方面，影視院線板塊早盤大幅下挫，中國電影跌停，北京文化、幸福藍海跌幅居前。煤炭板塊同樣表現不佳，大有能源盤中跌停，鄭州煤電、雲煤能源亦跌幅較大。此外同花順微盤股指數表現較差，盤中跌超4%。"
-    },
-    {
-      "id": "4951650",
-      "time": "2026-06-24 11:32:09",
-      "tags": [
-        "國際"
-      ],
-      "text": "【獨家｜追覓俞浩回應618銷售情況】在世界經濟論壇第十七屆新領軍者年會（2026大連夏季達沃斯論壇）上，追覓科技創始人俞浩出席並參與分享。 問及追覓618整體銷量情況，俞浩獨家回應新浪科技表示：“很好。” 新浪科技在現場觀察到，俞浩較早就來到論壇會場，神色輕鬆，會前還與多位與會者愉快交流並合影留念。（新浪科技）"
-    },
-    {
-      "id": "mkt:019ef7af-0325-7dd8-b0ea-75edb37387de",
-      "time": "2026-06-24 11:31:42",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "【China government bond futures morning session close】2-year (TS) front-month government bond futures up 0.02%; 5-year (TF) up 0.06%; 10-year (T) up 0.06%; 30-year (TL) up 0.02%."
-    },
-    {
-      "id": "mkt:019ef7ae-e009-7dd8-b0ea-6ca29ef3ae65",
-      "time": "2026-06-24 11:31:33",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "CSI300",
-        "Impact bullish",
-        "SSE Composite",
-        "SZSE Component"
-      ],
-      "text": "【Equity index futures morning session close】CSI 300 futures (IF) front-month contract +0.36%; SSE 50 futures (IH) front-month +0.42%; CSI 500 futures (IC) front-month +1.31%; CSI 1000 futures (IM) front-month +0.58%."
-    },
-    {
-      "id": "mkt:019ef7ae-bb6a-7dd8-b0ea-623b204c15d0",
-      "time": "2026-06-24 11:31:23",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Precious Metals",
-        "Industrial Metals",
-        "Energy",
-        "WTI",
-        "Impact bearish",
-        "XAUUSD"
-      ],
-      "text": "At the morning close, China’s most-active commodity futures were mixed. SHFE silver fell more than 5% and SHFE tin nearly 5%; SC crude oil and propylene dropped over 3%; benzene, methanol, polypropylene and SHFE gold declined more than 2%. Rapeseed meal, lithium carbonate and live hogs rose over 1%; eggs, glass and DCE No.1 soybean gained about 1%."
-    },
-    {
-      "id": "4951649",
-      "time": "2026-06-24 11:30:54",
-      "tags": [
-        "公司",
-        "市場",
-        "焦點"
-      ],
-      "text": "【工商銀行：停辦代理上海黃金交易所個人貴金屬競價交易業務】工商銀行公告，自2026年7月24日（星期五）日終清算時起，我行停辦代理上海黃金交易所個人貴金屬競價交易業務，涉及的合約品種包括Au99.99、Au100g、Au99.95、PGC30g、Au（T+D）、mAu（T+D）、Ag（T+D）、Au（T+N1）、Au（T+N2）等。2026年7月24日（星期五）日終清算完成後，我行將擇時關閉手機銀行、網上銀行、網點櫃面等渠道的代理個人競價交易業務交易許可權。關閉後，持倉客戶的平倉、賣出和提貨操作許可權將受到限制。"
-    },
-    {
-      "id": "4951648",
-      "time": "2026-06-24 11:30:47",
-      "tags": [
-        "其他"
-      ],
-      "text": "【英媒爆料：斯塔默已授權官員與潛在繼任者接觸，並已與伯納姆舉行秘密會談】英國首相斯塔默22日宣佈辭職。據英國《每日電訊報》當地時間23日報道，在啟動權力交接程序之際，斯塔默已在一處未公開地點與英國工黨政治人物、前大曼徹斯特市長安迪·伯納姆舉行面對面秘密會談，時長約一小時。《每日電訊報》稱，這是自伯納姆贏得馬克菲爾德選區下院議員補選以來二人首次見面。報道稱，斯塔默已授權相關官員與其潛在繼任者舉行會談，其中包括伯納姆。後者最早可能在7月中旬就任英國首相。（環球網）"
-    },
-    {
-      "id": "mkt:019ef7ad-d235-7dd8-b0ea-5ec3ac0c34c1",
-      "time": "2026-06-24 11:30:24",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Malaysia's deputy finance minister said the carbon tax policy is in its final drafting stage and will be implemented in phases."
-    },
-    {
-      "id": "4951647",
-      "time": "2026-06-24 11:30:03",
-      "tags": [
-        "市場"
-      ],
-      "text": "【商品期貨早盤收盤】白銀連續跌5.17%，錫連續跌4.58%，丙烯連續跌3.22%，上海原油連續跌3.18%，純苯連續跌2.53%。"
-    },
-    {
-      "id": "4951646",
-      "time": "2026-06-24 11:30:03",
-      "tags": [
-        "市場"
-      ],
-      "text": "【國債期貨早盤收盤】 30年期主力合約漲0.02%， 10年期主力合約漲0.06%， 5年期主力合約漲0.06%， 2年期主力合約漲0.02%。"
-    },
-    {
-      "id": "4951645",
-      "time": "2026-06-24 11:30:02",
-      "tags": [
-        "市場"
-      ],
-      "text": "【股指期貨早盤收盤】 中證1000指數期貨連續漲0.57%， 滬深300指數期貨連續漲0.38%， 中證500指數期貨連續漲1.31%， 上證50指數期貨連續漲0.44%。"
-    },
-    {
-      "id": "mkt:019ef7b5-8f7f-7dd8-b0ea-8913f0bfb7af",
-      "time": "2026-06-24 11:29:53",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Themes",
-        "AI Revolution",
-        "Chip Wars",
-        "MU.O",
-        "Impact bullish"
-      ],
-      "text": "【Micron earnings ahead: 12 banks say storage price gains will lift margins and shares】Twelve investment banks raised Micron Technology (MU.O) price targets ahead of the company’s earnings, citing AI-driven data‑centre demand, tight DRAM/NAND supply and rapidly rising ASPs. Morgan Stanley raised its PT to $1,050 from $520, kept overweight and raised Q3 forecasts, expecting DRAM and NAND ASPs to rise roughly 20% QoQ. Wedbush lifted its PT to $1,300, raised FY guidance to $22.84 EPS (from $19.16) and revenue to $38.5bn (from $33.5bn), and also sees Q3 DRAM/NAND prices up ~20% QoQ. Deutsche Bank raised its PT to $1,500, maintained buy, and said DRAM shortages could persist into 2028 or beyond; it models Q3 revenue at $35.1bn (above Micron’s guide upper $34.25bn) and sees 2027 EPS near $160 with gross margins above 80%. Citi bumped its PT to $1,200, expects elevated storage pricing into 2027—especially HBM—and projects DRAM ASPs could rise ~200% this year. Stifel raised its PT to $1,500, saying current DRAM ASPs are roughly double Micron’s initial model; data‑centre contract pricing has exceeded $2.50/GB and consumer pricing remains above $1.50/GB, implying a ~20% QoQ revenue jump. Jefferies flagged severe HBM tightness (global monthly wafer capacity ~330k today, ~480k by 2027 while near‑term demand could rise ~70%) and projects Micron Q3 storage ASPs +40–50% QoQ, Q4 +30–40%, and 2027 ASPs up ~40–45% YoY. Bernstein, Needham, Hina International, Wells Fargo, Goldman and other houses also materially raised targets (PTs now spanning roughly $900–$1,750) and reiterated that sustained supply constraints and strong AI-related demand should keep pricing and margins elevated through 2027, with some firms extending shortages into 2028."
     }
   ]
 }
