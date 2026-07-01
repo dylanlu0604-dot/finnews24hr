@@ -1,7 +1,15 @@
 {
-  "updated": "2026-07-01 13:22:35",
-  "count": 13920,
+  "updated": "2026-07-01 13:26:31",
+  "count": 13911,
   "items": [
+    {
+      "id": "4964262",
+      "time": "2026-07-01 13:23:14",
+      "tags": [
+        "其他"
+      ],
+      "text": "阿富汗稱對巴基斯坦發動空襲；巴基斯坦方面稱擊落無人機。"
+    },
     {
       "id": "4964261",
       "time": "2026-07-01 13:21:03",
@@ -127901,105 +127909,6 @@
         "國際"
       ],
       "text": "阿斯麥與TNO合作擴大歐洲光子晶片製造規模。"
-    },
-    {
-      "id": "mkt:019ef816-b978-7dd8-b0ec-b3a3f1faa319",
-      "time": "2026-06-24 13:24:59",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Tencent",
-        "00700.HK",
-        "Impact bullish"
-      ],
-      "text": "Hong Kong-listed Tencent Holdings (00700.HK) is up more than 3% in intraday trade."
-    },
-    {
-      "id": "mkt:019ef816-7fc8-7dd8-b0ec-a90eb0e258c6",
-      "time": "2026-06-24 13:24:44",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Themes",
-        "Chip Wars",
-        "00981.HK",
-        "Impact bullish",
-        "01347.HK",
-        "03986.HK"
-      ],
-      "text": "Hong Kong semiconductor stocks extended gains: Huahong Hongli (01347.HK) rose over 18%, Semiconductor Manufacturing International Corp (SMIC) (00981.HK) climbed over 10%, GigaDevice (03986.HK) gained more than 6%, and Lanqi Technology (06809.HK) and Hongguang Semiconductor (06908.HK) each advanced over 5%."
-    },
-    {
-      "id": "4951806",
-      "time": "2026-06-24 13:24:36",
-      "tags": [
-        "市場"
-      ],
-      "text": "BCA RESEARCH將標普500指數2026年底目標位從7,700點上調至8,100點。"
-    },
-    {
-      "id": "mkt:019ef816-472f-7dd8-b0ec-a5da3689b83d",
-      "time": "2026-06-24 13:24:29",
-      "tags": [
-        "MKT News",
-        "S&P500",
-        "Impact bullish"
-      ],
-      "text": "BCA Research raised its year-end 2026 S&P 500 target to 8,100 from 7,700."
-    },
-    {
-      "id": "4951805",
-      "time": "2026-06-24 13:24:25",
-      "tags": [
-        "其他"
-      ],
-      "text": "港股晶片股持續活躍，華虹宏力(01347.HK)漲超18%，中芯國際(00981.HK)漲超10%，兆易創新(03986.HK)漲超6%，瀾起科技(06809.HK)、宏光半導體(06908.HK)漲超5%。"
-    },
-    {
-      "id": "4951804",
-      "time": "2026-06-24 13:24:00",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "北證50日內漲幅達1.00%，成分股中，戈碧迦漲15.55%，民士達漲3.97%，同惠電子漲3.83%，納科諾爾漲3.80%。"
-    },
-    {
-      "id": "4951803",
-      "time": "2026-06-24 13:23:52",
-      "tags": [
-        "其他"
-      ],
-      "text": "桑坦德銀行計劃向西班牙員工推出提前退休方案。"
-    },
-    {
-      "id": "4951802",
-      "time": "2026-06-24 13:23:30",
-      "tags": [
-        "國際"
-      ],
-      "text": "【普京強調俄烏和談的四個基礎】俄羅斯總統普京23日表示，俄方準備與烏克蘭進行和平談判，但談判應建立在四個基礎之上。根據克里姆林宮網站訊息，普京當天在與俄政府高官舉行的視訊會議上表示，俄烏談判必須基於2022年俄烏在土耳其伊斯坦布林達成的協議、俄美領導人2025年8月在美國阿拉斯加州安克雷奇會晤時討論的模式、現實情況以及他本人2024年在俄外交部發表講話時闡述的原則。普京說，烏方試圖透過襲擊俄民用基礎設施等方式為自身在談判中創造有利條件，“營造強大的假象”，但戰場上的實際情況完全不同，俄軍每天都在推進。(新華社)"
-    },
-    {
-      "id": "mkt:019ef815-4a9e-7dd8-b0ec-9afff998c07f",
-      "time": "2026-06-24 13:23:25",
-      "tags": [
-        "MKT News",
-        "005930.KS",
-        "Impact bullish"
-      ],
-      "text": "Samsung Electronics shares gained as much as 8% intraday."
-    },
-    {
-      "id": "mkt:019ef815-1249-7dd8-b0ec-92d065208388",
-      "time": "2026-06-24 13:23:10",
-      "tags": [
-        "MKT News",
-        "CSI300",
-        "Impact bullish",
-        "SZSE Component"
-      ],
-      "text": "China A-share robot-concept stocks rallied in the afternoon; Xin Hongye and Mankun Technology earlier hit a 20CM limit-up, while Yibo Technology gained >17%, Suochen Technology >16%, Jingzhida >14% and Hailanxin >13%."
     }
   ]
 }
