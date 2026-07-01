@@ -1,7 +1,73 @@
 {
-  "updated": "2026-07-01 10:43:20",
-  "count": 13981,
+  "updated": "2026-07-01 10:47:08",
+  "count": 13977,
   "items": [
+    {
+      "id": "4964093",
+      "time": "2026-07-01 10:46:28",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "滬深兩市成交額超2萬億元，較上日此時放量2730億元。"
+    },
+    {
+      "id": "4964092",
+      "time": "2026-07-01 10:46:16",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "養殖業板塊暴力反彈，天邦食品、益生股份、新五豐漲停，立華股份、曉鳴股份漲超10%，綠康生化、湘佳股份、牧原股份、天域生物、民和股份跟漲。"
+    },
+    {
+      "id": "mkt:019f1b90-eb56-7aab-8c49-a3b5358fcf50",
+      "time": "2026-07-01 10:45:09",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "Nikkei 225",
+        "Impact bullish"
+      ],
+      "text": "【Mizuho: Despite Middle East uncertainty, Japanese corporate profits show resilience】Mizuho Securities economist Ryosuke Katagi said despite global geopolitical risks Japanese corporate profit plans remain resilient. Wednesday’s BOJ Tankan showed firms across all industries and sizes expect recurring profit to decline 6.5% in the current fiscal year, versus a 2.4% decline forecast in the March survey. Katagi said the revision reflects normal seasonality and aligns with the June 2025 projection for the prior fiscal year, suggesting the Middle East conflict has not yet materially affected profit prospects. \"These revisions warrant close attention because this fiscal year's corporate profits will affect 2027 spring wage negotiations,\" he added."
+    },
+    {
+      "id": "mkt:019f1b90-9dc6-7aab-8c49-9fe5a0681a17",
+      "time": "2026-07-01 10:44:50",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "A-share CPO-concept stocks spiked intraday then quickly reversed; Zhaolong Internet fell more than 9%, Changyingtong dropped over 7%, with Yongding and Robotech among other decliners."
+    },
+    {
+      "id": "te:markets:563210",
+      "time": "2026-07-01 10:43:35",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "European Gas Hovers Near 2-Week Highs — European natural gas prices hovered around €43.5 per MWh on the first day of July, close to a more than two-week high, as traders awaited developments in US–Iran talks. President Donald Trump’s envoys arrived in Doha on Tuesday, although Qatari mediators tempered expectations for a major breakthrough, noting that US officials were not set to meet directly with their Iranian counterparts. EU gas prices fell 5.6% in June and declined 14.4% over the second quarter, following an interim deal between the two sides that reversed most of the sharp gains seen earlier during a period of heightened tensions. However, downside momentum has been partially offset by tight physical market conditions in Europe. Storage facilities are currently around 48% full, notably lower than the approximately 56% level at the same time last year and the five-year average of 61%. At the same time, an intense heatwave across Europe is boosting demand from electricity providers to meet increased cooling needs."
+    },
+    {
+      "id": "mkt:019f1b8e-e02b-7aab-8c49-92c1d17b85dc",
+      "time": "2026-07-01 10:42:56",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish",
+        "SSE Composite",
+        "SZSE Component"
+      ],
+      "text": "China A-share internet finance sector extended gains. Huijin Technology, DianKe Wang'an, Youa and Quzhou Development hit the daily price limit. Yinzhijie and Liandi Information jumped more than 15%. Airong Software, HITHINK ROYALFLUSH and Wealth Trend rose over 10%. Borui Data, DaZhiHui, YingShiSheng and Xiangcai also advanced."
+    },
     {
       "id": "4964091",
       "time": "2026-07-01 10:42:03",
@@ -128403,93 +128469,6 @@
         "市場"
       ],
       "text": "越南VN指數上漲1%至1888.30點。"
-    },
-    {
-      "id": "4951586",
-      "time": "2026-06-24 10:45:59",
-      "tags": [
-        "公司"
-      ],
-      "text": "【江西國資成立科技創新產業引導基金 出資額20億元】企查查APP顯示，近日，江西省創智未來科技創新產業引導基金（有限合夥）成立，出資額20億元，經營範圍包含：以私募基金從事股權投資、投資管理、資產管理等活動，創業投資。企查查股權穿透顯示，該企業由江西省現代產業引導基金（有限合夥）、江西國控私募基金管理有限公司共同持股。"
-    },
-    {
-      "id": "4951585",
-      "time": "2026-06-24 10:45:23",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "【國臺辦：第六屆海峽兩岸中山論壇將於6月底在廣東中山舉辦】國務院臺灣事務辦公室今天（6月24日）上午舉行例行新聞釋出會，國臺辦發言人張晗在會上介紹，6月27日至29日，第六屆海峽兩岸中山論壇將在廣東中山舉辦。論壇以“弘揚中山先生奮鬥精神，共謀中華民族偉大復興”為主題，活動內容包括開幕式、分論壇和臺灣高層次人才灣區行交流、“中山先生與臺灣”檔案史料展等9項活動。廣東是臺商投資聚集地，累計3萬餘家臺資企業在粵紮根、做大做強，惠臺利民政策持續落地，臺青創業、企業轉型擁有廣闊舞臺。我們熱忱歡迎臺灣同胞特別是臺灣青年朋友來廣東踏訪中山文脈，奔赴濱海之約，邂逅客家風情，感受地道煙火，把握髮展機遇，實現人生理想。"
-    },
-    {
-      "id": "4951584",
-      "time": "2026-06-24 10:45:11",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "【美媒稱臺灣忽略“沒有任何大國會永遠無條件支援另一方”的現實，國臺辦回應】國務院臺灣事務辦公室今天（6月24日）上午舉行例行新聞釋出會，國臺辦發言人張晗主持本次新聞釋出會。香港鳳凰衛視記者：美國《外交政策》刊文指出，臺灣近年將安全與戰略前途過度押注於美國支援，但卻忽略“沒有任何大國會永遠無條件支援另一方”的現實。島內輿論指出，當美國積極與中國大陸接觸之際，民進黨當局仍以“意識形態”主導兩岸政策，會讓臺灣失去“戰略主動權”。請問對此有何評論？張晗：解決臺灣問題，是兩岸中國人自己的事。我們希望國際社會認清檯灣民進黨當局“臺獨”本質及其嚴重危害，理解支援中國政府、中國人民反對“臺獨”分裂、完成國家統一的正義事業。"
-    },
-    {
-      "id": "4951583",
-      "time": "2026-06-24 10:44:56",
-      "tags": [
-        "公司"
-      ],
-      "text": "【寧波華翔成立汽車零部件公司】企查查APP顯示，近日，安致華翔汽車零部件（湖州）有限公司成立，法定代表人為高華，經營範圍包含：汽車零部件及配件製造；汽車零部件研發；汽車零配件批發；汽車零配件零售；軟體開發等。企查查股權穿透顯示，該公司由寧波華翔(002048)旗下華翔安致汽車懸架（上海）有限公司全資持股。"
-    },
-    {
-      "id": "4951582",
-      "time": "2026-06-24 10:44:24",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【氟化工板塊震盪走高，永和股份觸及漲停】氟化工板塊震盪走高，永和股份觸及漲停，巨化股份、多氟多、三美股份、昊華科技跟漲。"
-    },
-    {
-      "id": "4951581",
-      "time": "2026-06-24 10:44:11",
-      "tags": [
-        "國際"
-      ],
-      "text": "【特朗普炮轟參議院限制總統戰爭權力：給伊朗“送安慰”，讓談判更艱難】美國總統特朗普在社交平臺發文稱，“我把伊朗逼到了‘絕境’，準備讓他們徹底倒下，願意給我們幾乎一切，並且在幾十年來第一次，對美國及其總統——也就是我——表現出極大的尊重。然而，美國參議院卻在一個不恰當的時機，進行了一場毫無意義的《戰爭權力法》投票，告訴這個世界上最大的恐怖主義贊助者，美國不喜歡我對他們做的事情，我必須停下來。這麼做，等於向敵人提供了援助和安慰。四個共和黨失敗者與民主黨人投了同樣的票，伊朗還問我的團隊：‘那到底是什麼意思？’這些參議員讓我的工作變得更加困難，但我無論如何都會完成它，因為我總能做到！”"
-    },
-    {
-      "id": "mkt:019ef783-6171-7dd8-b0e9-8001f8bab338",
-      "time": "2026-06-24 10:44:02",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Trump says Senate War Powers vote gives comfort to Iran, complicates talks】President Trump wrote on social media that he has driven Iran to the brink and that Tehran was prepared to give the US “almost everything” and show unprecedented respect for the United States and its president. He said a Senate War Powers Act vote, held at an inopportune time, signaled US disapproval of his actions, effectively providing Iran with “aid and comfort.” Trump noted four Republicans joined Democrats on the measure and said Iran has asked his team what the vote means; he added the senators have made his job harder but that he will complete his objectives regardless."
-    },
-    {
-      "id": "te:economy:561333",
-      "time": "2026-06-24 10:43:52",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Japan",
-        "Government Bond 10Y",
-        "Importance 1"
-      ],
-      "text": "Japan 10-Year Yield Holds Steady — Japan’s 10-year government bond yield was little changed at around 2.67% on Wednesday, holding steady despite hawkish signals from the Bank of Japan as investors also monitored progress in US-Iran peace negotiations. The Summary of Opinions from the BOJ’s June meeting showed that policymakers generally believed further interest rate increases were appropriate, citing underlying inflation’s gradual move toward the 2% target and still-accommodative financial conditions. Last week, the central bank raised its policy rate by 25 basis points to 1% in an effort to curb inflationary pressures and support the weakened yen. Meanwhile, progress in talks between Washington and Tehran have increased traffic through the Strait of Hormuz, easing strains in global energy markets and helping to reduce inflation concerns."
-    },
-    {
-      "id": "4951580",
-      "time": "2026-06-24 10:43:37",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "紐約期金失守4070美元/盎司，日內跌1.92%。"
-    },
-    {
-      "id": "4951579",
-      "time": "2026-06-24 10:43:30",
-      "tags": [
-        "其他"
-      ],
-      "text": "立訊精密據悉計劃在香港上市，擬募資約30億美元。"
     }
   ]
 }
