@@ -1,7 +1,289 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-07-02 02:21:24_
-_本檔包含 2829 則快訊，約 534442 字_
+_更新時間：2026-07-02 03:18:52_
+_本檔包含 2824 則快訊，約 532775 字_
+
+---
+
+### 2026-06-26 18:47:45  #公司 #觀點
+
+【宇隆科技創業板IPO稽核狀態變更為'已問詢'】重慶宇隆光電科技股份有限公司創業板IPO稽核狀態變更為'已問詢'，保薦機構為中信證券。
+
+---
+
+### 2026-06-26 18:47:43  #宏觀
+
+【2025年至今我國已經研製釋出40餘項人工智慧國家標準】記者今天從國家標準委瞭解到，2025年至今我國已經研製釋出40餘項人工智慧國家標準。在基礎支撐領域，釋出《人工智慧 伺服器系統效能測試方法》，孵化人工智慧計算產品的效能測試基準，引導我國AI伺服器生態向規模化、協同化方向升級。在關鍵技術領域，釋出《人工智慧 大模型》系列標準，統一大模型研發、評估、部署全流程規範，築牢人工智慧核心技術創新底座。在產品應用領域，出臺《人工智慧 終端智慧化分級》標準，明確智慧終端分級判定依據，有效甄別“偽智慧”產品、規範市場秩序，同時為相關產業扶持政策落地提供支撐，帶動終端產業鏈整體智慧化升級。（央視新聞）
+
+---
+
+### 2026-06-26 18:47:02  #其他
+
+【艾為電子釋出全場景車載氛圍燈方案】6月26日，長安汽車舉辦車燈前瞻技術與生態鏈合作展，艾為電子出席並推出全場景車載氛圍燈方案。方案憑藉CoolPump™大電流低發熱驅動技術、端側音樂律動方案、AI情緒氛圍燈三大核心技術及3-216路系列車載氛圍燈驅動，適配高亮度氛圍燈、端側音樂律動+多通道動態流水光、情緒感知智慧互動等新一代車燈應用需求。
+
+---
+
+### 2026-06-26 18:47:02  #央行 #美聯儲
+
+【受調查的102位經濟學家中有78位預計美聯儲將在2026年將聯邦基金利率維持在3.50%至3.75%不變】據機構調查顯示，受調查的102位經濟學家中有78位預計，美聯儲將在2026年將聯邦基金利率維持在3.50%至3.75%不變，6月初調查為102位經濟學家中有72位經濟學家如此認為。
+
+---
+
+### 2026-06-26 18:46:31  #MKT News #USDJPY #Impact bearish #DXY
+
+【RBC BlueBay: long-dated Japanese government bonds attractive】RBC BlueBay Asset Management remains constructive on long-dated Japanese government bonds, noting Japan’s yield curve is unusually steep versus other globally very flat curves. Fixed-income CIO Mark Dowding said 30-year yields above 3.75% give longer-dated bonds ample protection.
+
+---
+
+### 2026-06-26 18:46:01  #MKT News #Macro & Rates #The Fed (FOMC) #DXY #Impact bullish #US10Y #EURUSD #Impact bearish
+
+REUTERS SURVEY: For the first time since 2023, more economists now expect the Federal Reserve to raise rates rather than cut them.
+
+---
+
+### 2026-06-26 18:45:53  #公司 #市場
+
+【招商銀行：將自7月27日後擇時停辦“招財金”業務】6月26日，招商銀行公告，根據貴金屬風險管理和業務需要，該行對代理上海黃金交易所個人貴金屬業務（即“招財金”業務）作出調整。該行將自2026年7月27日後擇時停辦“招財金”業務，並關閉手機銀行、網上銀行、網點櫃面等渠道的代理上海黃金交易所個人貴金屬業務交易許可權。關閉後，持倉客戶的平倉、賣出和提貨等操作許可權將受到限制。
+
+---
+
+### 2026-06-26 18:45:47  #MKT News #Macro & Rates #The Fed (FOMC) #S&P500 #Impact bullish #DXY #Impact bearish
+
+REUTERS SURVEY: 78 of 102 economists surveyed expect the Fed to leave the federal funds rate at 3.50%-3.75% in 2026, up from 72 in an early-June survey.
+
+---
+
+### 2026-06-26 18:45:39  #宏觀
+
+【我國加快智慧體等前沿技術領域標準制定速度】記者今天瞭解到，市場監管總局正會同相關部門，加快智慧體等前沿技術領域標準制定速度，動態完善適配產業發展的人工智慧國家標準矩陣。目前正在抓緊制定的國家標準，除智慧體外，還有具身智慧、世界模型、本體模型等前沿技術標準，算力基礎設施、高質量資料集、模擬測試平臺、深度學習編譯器、開源模型平臺等底座類標準。另外，將進一步聚焦產業管理與人工智慧落地評價，推動人工智慧企業智慧化成熟度評估、人工智慧高價值應用場景評價等重點標準出臺釋出。（央視新聞）
+
+---
+
+### 2026-06-26 18:45:03  #公司
+
+【泰豪科技：持股5%以上股東泰豪集團及其一致行動人黃代放持股比例由15.38%減少至15.00%】泰豪科技公告，2026年6月25日至2026年6月26日，股東泰豪集團透過集中競價交易方式減持其持有的公司無限售條件流通股326.45萬股，佔公司總股本的0.38%。本次減持後，泰豪集團及其一致行動人黃代放合計持有公司股份數量由1.31億股減少至1.28億股，持股比例由15.38%減少至15.00%，權益變動觸及5%的整數倍。
+
+---
+
+### 2026-06-26 18:44:51  #公司
+
+【華海藥業：授權經營層12個月內擇機出售金融資產】華海藥業公告稱，公司於2026年6月26日召開董事會，審議透過授權經營管理層擇機出售公司所持金融資產的議案。交易金額超最近一期經審計淨資產或淨利潤的10%，但不超董事會許可權仍可交易，達披露標準將及時披露。授權自透過之日起12個月內有效，不構成關聯及重大資產重組。出售利於最佳化投資結構，但受市場等因素影響，交易及收益有不確定性，公司將及時披露進展。
+
+---
+
+### 2026-06-26 18:44:43  #公司 #國際
+
+【安泰科技：印度對華多冷軋取向電工鋼及非晶金屬產品啟動反傾銷調查 涉及公司向印度市場銷售的非晶合金薄帶】安泰科技(000969.SZ)公告稱，公司從印度商務和工業部貿易救濟總局獲悉，調查機關對原產或出口自中國、日本、韓國、俄羅斯的冷軋取向電工鋼及非晶金屬發起反傾銷調查。涉案產品涉及公司向印度市場銷售的非晶合金薄帶，2025年度及2026年1-3月相關出口金額約佔公司營收的1.68%、1.46%。因案件尚處調查階段，最終裁決影響較難預計，公司將積極應對並持續披露進展。
+
+---
+
+### 2026-06-26 18:44:35  #MKT News #Important #Macro & Rates #The Fed (FOMC) #DXY #Impact bullish #S&P500 #Impact bearish #US10Y
+
+REUTERS SURVEY: Median shows the Federal Reserve will keep the federal funds rate at 3.50% to 3.75% through end-2027; an early-June survey had shown one cut.
+
+---
+
+### 2026-06-26 18:44:22  #公司
+
+【萬邦醫藥：擬以3.02億元收購安徽賽德盛醫藥科技有限公司75.52%股權】萬邦醫藥公告，公司擬以現金方式收購安徽賽德盛醫藥科技有限公司75.52%股權，確定整體轉讓價格為人民幣3.02億元。本次交易完成後賽德盛將成為公司控股子公司，納入公司合併報表範圍。
+
+---
+
+### 2026-06-26 18:44:21  #公司
+
+【阿科力：籌劃控制權變更事項 股票停牌】阿科力(603722.SH)公告稱，公司控股股東、實際控制人朱學軍、崔小麗正在籌劃公司股份轉讓及向特定物件發行股份事宜，該事項可能導致公司控制權變更。為保證公平資訊披露，避免股價異常波動，公司股票自2026年6月29日起停牌，預計停牌時間不超過2個交易日。上述事項尚存在不確定性，敬請投資者注意風險。
+
+---
+
+### 2026-06-26 18:43:58  #其他
+
+【濰柴動力牽頭的氫內燃機國家重點研發計劃取得重大進展】近日，濰柴動力牽頭承擔的國內首個氫內燃機領域國家重點研發計劃——“重型商用車混合動力專用氫內燃機關鍵技術”迎來里程碑式突破。經北京、濰坊兩地聯合測試驗證，該氫內燃機最高有效熱效率達當前國內外公開資料最高水平，整機綜合實力穩居全球氫內燃機第一梯隊。專案團隊在北京與濰坊兩地同步進行測試，發動機功率達到580馬力，扭矩達到2750N·m，有效熱效率達到46.8%，整機瞬態響應速度較傳統柴油機提升8%，使用簡化後處理系統即具備滿足國七階段排放要求的潛力，動力、經濟、環保三大核心效能指標已提前達到專案要求。
+
+---
+
+### 2026-06-26 18:43:54  #國際
+
+路透調查：調查中位數顯示，美國聯邦儲備委員會將在2027年底前維持聯邦基金利率穩定在3.50%-3.75%區間（6月初調查曾預測將降息一次）。
+
+---
+
+### 2026-06-26 18:43:47  #央行 #焦點 #國際
+
+路透調查：自2023年以來，首次有更多經濟學家預測美聯儲將加息而非降息。
+
+---
+
+### 2026-06-26 18:43:44  #MKT News #Important #Market Regions #Greater China #Europe & UK #XAUUSD #Impact bullish #DXY #CNH #Impact bearish
+
+【China, EU hold intensive trade talks; EU stance raises risk of rapid escalation in trade friction】Chinese and EU teams held intensive talks this week to prepare the inaugural China-EU trade and investment consultation meeting. EU negotiators reportedly showed little willingness to compromise and are preparing additional protectionist measures even as talks proceed, raising the risk of a sudden escalation in China-EU trade tensions. China says it remains committed to dialogue but is ready to launch firm, necessary countermeasures at any time. EU officials also signalled that bilateral consultations will not limit use of existing trade instruments or development of new ones, suggesting further deterioration in economic and trade ties may be likely.
+
+---
+
+### 2026-06-26 18:43:43  #國際
+
+路透調查：102位經濟學家中有78位認為，美國聯邦儲備委員會將在2026年維持聯邦基金利率穩定在3.50%-3.75%區間（6月初調查時為102位經濟學家中有72位持該觀點）。
+
+---
+
+### 2026-06-26 18:43:25  #公司
+
+復星醫藥：建議分拆復星安特金並於香港聯合交易所有限公司主機板獨立上市。
+
+---
+
+### 2026-06-26 18:43:00  #宏觀 #焦點 #國際
+
+【中歐正密集舉行貿易磋商，歐盟缺乏誠意或引發中歐經貿摩擦急劇上升】中歐團隊本週進行了密集磋商，就中歐經貿問題進行了討論，為中歐貿易投資磋商機制首次會議做準備。據瞭解，歐盟在談判中明顯缺乏誠意，甚至準備邊開談、邊開打，醞釀密集出臺更多保護主義措施。令人擔心中歐貿易戰恐一觸即發。據瞭解，歐盟一方面表示願意與中方對話，但另一方面卻缺乏解決問題的誠意，甚至準備同時出臺更多經貿限制措施。這難免讓人擔心中歐貿易投資磋商機制首次會議可能前景黯淡。據悉，中方一直致力於對歐磋商對話，但也做好了隨時開展堅決、必要反制的準備。在此背景下，中歐經貿關係形勢似乎更趨複雜，中歐經貿分歧可能進一步升級。歐盟在解決中方關切問題上缺乏誠意。例如，雙方就中國企業電動汽車價格承諾具體談判沒有取得新進展。在出口管制方面，歐方僅要求中方解決歐盟在稀土方面的關切，但在解決中國自歐盟進口遇阻個案方面沒有取得任何進展。（環球網）
+
+---
+
+### 2026-06-26 18:42:33  #公司
+
+【ST中路：股票被實施其他風險警示 或面臨退市風險】ST中路公告稱，因2025年度財務報告內部控制被出具否定意見審計報告，公司股票自2026年4月29日起被實施其他風險警示。若下一年度仍被出具此類報告，股票將被實施退市風險警示。公司採取多項措施整改，包括開展專項審計、發函督促控股股東歸還佔用資金、完善內控制度、組織專題培訓等。公司將按規定定期披露進展及風險提示，提醒投資者注意風險。
+
+---
+
+### 2026-06-26 18:42:26  #公司
+
+【東望時代：持股5%以上股東及其一致行動人權益比例增至8%】東望時代公告稱，2026年6月11 - 26日，持股5%以上股東東陽復創資訊科技有限公司及其一致行動人透過集中競價方式增持公司股份。野風集團等4家公司分別增持459.2萬股、220萬股、20萬股、145萬股，佔總股本的0.54%、0.26%、0.02%、0.17%。本次權益變動後，其合計持股比例由7.00%增至8.00%。該增持系履行協議約定，計劃尚未實施完畢，不會影響控股權和公司經營，未觸及要約收購。
+
+---
+
+### 2026-06-26 18:41:18  #公司 #市場
+
+【涉及近百家機構千餘隻產品，第二批公募業績比較基準調整啟動】業內稱基金調整非市場波動主因#時隔近兩月，首批公募基金業績基準調整收官後，第二批調整拉開帷幕。 6月26日，多家基金公司釋出業績基準調整公告。記者關注到，國壽安保、鵬華基金等公司旗下的多隻基金產品，已更新基金合同。 業績比較基準的調整是否將衝擊市場，即大規模的基金業績比較基準調整是否會驅動基金調倉，並進一步影響市場風格結構，也成為業內的重要關切。 對此，有市場人士告訴記者，首批業績比較基準調整發布後，市場上曾出現一些誤讀，有觀點將基準調整簡單理解為基金經理需要按照新基準立即調整倉位，甚至把部分板塊波動、市場下跌與基準調整直接掛鉤。 “這類理解偏離了業績比較基準調整的本意，也不符合基金投資運作的實際邏輯。”他認為。 “業績比較基準調整，調的是評價標尺，不是交易指令，校準的是產品座標，不是要求基金經理限期買賣資產。”他進一步解釋稱。 興業證券首席策略分析師張啟堯認為，業績比較基準調整並不會驅動基金大幅調倉。（第一財經）
+
+---
+
+### 2026-06-26 18:40:46  #公司
+
+【陝鼓動力：擬發行股份購買秦風氣體36.06%股權 股票自6月29日起停牌】陝鼓動力公告，公司正在籌劃透過發行股份的方式收購陝西秦風氣體股份有限公司全部少數股東持有的36.06%的股權。本次交易構成關聯交易，預計不構成重大資產重組，不構成重組上市，本次交易不會導致公司實際控制人發生變更。因本次交易尚存在不確定性，公司股票自2026年6月29日開市起開始停牌，預計停牌時間不超過10個交易日。
+
+---
+
+### 2026-06-26 18:39:59  #觀點 #國際
+
+花旗將達美航空目標價從79美元上調至106美元，將美國航空目標價從14美元上調至22美元。
+
+---
+
+### 2026-06-26 18:39:46  #其他
+
+【巴西對原產於中國的賴氨酸作出反傾銷終裁】據中國貿易救濟資訊網，6月25日，巴西外貿委員會管理執行委員會(GECEX)釋出2026年第923號決議，對原產於中國的用於動物飼料的賴氨酸作出反傾銷肯定性終裁，決定徵收為期5年的反傾銷稅，稅率為26.0%－132.6%。
+
+---
+
+### 2026-06-26 18:39:21  #國際
+
+伊朗：霍爾木茲海峽安全通行必須有伊朗的協調。
+
+---
+
+### 2026-06-26 18:39:07  #公司
+
+【陝鼓動力：擬發行股份購買秦風氣體36.06%股權 股票自6月29日起停牌】陝鼓動力公告，公司正在籌劃透過發行股份的方式收購陝西秦風氣體股份有限公司全部少數股東持有的36.06%的股權。本次交易構成關聯交易，預計不構成重大資產重組，不構成重組上市，本次交易不會導致公司實際控制人發生變更。因本次交易尚存在不確定性，公司股票自2026年6月29日開市起開始停牌，預計停牌時間不超過10個交易日。
+
+---
+
+### 2026-06-26 18:38:42  #MKT News
+
+Xi Jinping sent a condolence message to Venezuelan acting president Rodriguez after a strong earthquake in Venezuela.
+
+---
+
+### 2026-06-26 18:38:30  #市場
+
+【Arm Holdings美股盤前跌超5%】Arm Holdings美股盤前跌超5%，現報330.145美元。
+
+---
+
+### 2026-06-26 18:38:07  #其他
+
+【習近平就委內瑞拉發生強烈地震向委內瑞拉代總統羅德里格斯致慰問電】習近平就委內瑞拉發生強烈地震向委內瑞拉代總統羅德里格斯致慰問電。（央視新聞）
+
+---
+
+### 2026-06-26 18:37:46  #其他
+
+小米6月26日斥資2.031億港元回購950萬股B類股。
+
+---
+
+### 2026-06-26 18:37:30  #公司
+
+【星輝娛樂：擬5000萬至1億元回購股份】星輝娛樂公告稱，公司擬使用自有資金以集中競價交易方式回購部分A股，回購資金不低於5000萬元且不超過1億元，回購價格不超過7.10元/股。按資金總額上限及回購價格上限測算，預計回購1408.45萬股，約佔總股本1.13%；按下限測算，預計回購704.23萬股，約佔0.57%。回購期限為自董事會審議透過方案之日起3個月內。董事、高管等在回購及未來3個月無明確減持計劃。本次回購存在價格、實施、用途變更等風險。
+
+---
+
+### 2026-06-26 18:37:24  #公司 #市場
+
+【名家匯：股票連續3日異常波動 不存在應披露未披露事項】名家匯公告稱，公司股票2026年6月24日-26日連續3個交易日收盤價格漲幅偏離值累計達33.83%，屬異常波動。經核查，公司前期披露資訊無需更正補充，經營情況及內外部環境未變，無重大未公開資訊，無重大資產交易事項。異常波動期間，相關人員無買賣公司股票行為，不存在應披露而未披露事項。公司提醒投資者關注公告，理性投資。
+
+---
+
+### 2026-06-26 18:35:40  #公司 #國際
+
+【日本民眾舉行抗議集會 反對軍工企業武器出口】近年來，日本政府不斷提高防衛預算，解禁武器出口，推動日本國內軍工產業發展。當地時間26日，日本民眾在日本最大軍工企業三菱重工總部前舉行抗議集會，反對殺傷性武器出口。日本政府連續多年提高防衛預算，以擴軍備武帶動軍工企業增長。在2025財年的財務報告中，日本三大重工巨頭——三菱重工、川崎重工、IHI公司均實現歷史最高利潤。（央視新聞）
+
+---
+
+### 2026-06-26 18:35:39  #MKT News #Market Regions #Wall Street (US) #DAL.N #Impact bullish
+
+CITIGROUP raises Delta Air Lines (DAL.N) PT to $106 from $79.
+
+---
+
+### 2026-06-26 18:35:34  #MKT News #AAL.O #Impact bullish
+
+CITIGROUP raises PT for American Airlines (AAL.O) to $22 from $14.
+
+---
+
+### 2026-06-26 18:35:04  #MKT News #Market Regions #Greater China
+
+According to an HKEX filing, Shenzhen Megmeet Electric Co., Ltd. has filed a listing application with HKEX.
+
+---
+
+### 2026-06-26 18:34:48  #MKT News
+
+【State Council appoints Yue Xiuhu as NDRC deputy director】The State Council appointed Yue Xiuhu as deputy director of the National Development and Reform Commission; Zhang Guangjun as vice minister of the Ministry of Science and Technology; Luo Tianshu as deputy director of the State Taxation Administration; and Hu Jinyang as deputy director of the China International Development Cooperation Agency. It removed Guan Zhiou from the post of national chief inspector for natural resources and Bian Zhigang from the post of deputy director of the State Administration for Science, Technology and Industry for National Defense.
+
+---
+
+### 2026-06-26 18:34:48  #MKT News
+
+Sources said Tata has hired a global consulting firm to conduct a forensic audit after a cybersecurity incident.
+
+---
+
+### 2026-06-26 18:34:36  #公司
+
+儒意電影：擬1.5億元-3億元回購公司股份。
+
+---
+
+### 2026-06-26 18:34:31  #公司
+
+【新疆天業：公司目前滿負荷生產 產銷平衡】新疆天業6月26日在互動平臺表示，近期公司股價受大盤調整及氯鹼行業週期波動等宏觀與市場情緒因素共振影響，出現了一定幅度波動。公司目前生產經營一切正常，滿負荷生產，產銷平衡。進入二季度，公司將持續發揮一體化迴圈經濟產業鏈優勢，推行精細化管理與降本增效，努力推動二季度及後續經營業績的穩步改善。
+
+---
+
+### 2026-06-26 18:34:20  #MKT News
+
+Sources say Tata has reported the incident to the Indian government and to customers.
+
+---
+
+### 2026-06-26 18:34:16  #公司
+
+【麥格米特向港交所提交上市申請書】據港交所檔案：深圳麥格米特電氣股份有限公司向港交所提交上市申請書。
+
+---
+
+### 2026-06-26 18:34:12  #其他
+
+【浙江：深化人工智慧與基礎研究的雙向賦能 引導企業、社會力量加大投入】26日上午，浙江省委副書記、省長劉捷主持召開基礎研究專家企業家座談會，劉捷指出，要進一步明確總體思路，堅持目標導向、應用導向，充分發揮浙江比較優勢，進一步提高提出問題、解決問題的能力，深化人工智慧與基礎研究的雙向賦能，引導企業、社會力量加大投入，加快形成多元化投入格局。要深化“高校+平臺+企業+產業鏈”結對合作，建強高水平研究型大學，強化高能級科創平臺，充分發揮科技型企業生力軍作用，不斷夯實原始創新根基。要積極打造最具競爭力的創新生態，建立完善基礎研究管理制度，完善分類評價、長週期評價機制，培育壯大人才隊伍，暢通成果轉化通道，進一步營造重視基礎研究的濃厚氛圍。
 
 ---
 
@@ -16749,317 +17031,5 @@ Apple Stock Price Hits 7-week Low — Apple shares decreased to 287.25 USD, the 
 ### 2026-06-25 21:27:45  #MKT News
 
 【NRTA issues tiered classification standards for AI micro-dramas】China’s National Radio and Television Administration (NRTA) Network Audiovisual Department on June 25 issued a Management Notice establishing tiered classification standards for AI-produced micro-dramas. Works with investment of 800,000 yuan or more, or whose main plot involves political, military, diplomatic, national security, united front, ethnic, religious, judicial or public security themes, will be managed as key micro-dramas. Projects with investment between 300,000 yuan (inclusive) and 800,000 yuan and general themes will be classified as ordinary micro-dramas. Projects under 300,000 yuan with general themes will be classified as other micro-dramas. The standard takes effect July 1, 2026.
-
----
-
-### 2026-06-25 21:27:02  #公司 #觀點
-
-【花旗：上調閃迪目標價至2500美元，近期將迎來多項催化劑】花旗將閃迪的目標價從2025美元上調至2500美元，理由是NAND快閃記憶體價格前景持續改善，並開啟為期90天的短期上行觀察。該行點出多項近期催化劑，包括行業財報季、8月份的快閃記憶體峰會(Flash Memory Summit)以及閃迪當月舉行的投資者日活動。花旗預計，閃迪屆時將就需求前景、技術路線圖及資本回報計劃發表最新看法。
-
----
-
-### 2026-06-25 21:26:51  #MKT News #XAUUSD #Impact bullish #Brent #DXY
-
-【Russia says Ukrainian forces attacked Crimea; Ukraine reports strikes on multiple regions】Crimea regional governor Sergey Aksyonov said on social media that Ukrainian armed forces attacked the region overnight from the 24th to the 25th, killing two people, including a child, and wounding two. Ukrainian officials said overnight from the 24th to the 25th Russian forces used drones, artillery and aerial bombs to strike Sumy, Kherson and Dnipropetrovsk regions, injuring at least nine.
-
----
-
-### 2026-06-25 21:26:48  #其他
-
-Blue Owl收購騎士隊股權將納入Dyal HomeCourt Partners基金。
-
----
-
-### 2026-06-25 21:26:19  #其他
-
-訊息稱藍貓頭鷹資本（Blue Owl）正洽談收購NBA騎士隊部分股權。
-
----
-
-### 2026-06-25 21:26:06  #國際
-
-【俄稱烏軍襲擊克里米亞烏克蘭稱多州遭襲】克里米亞地區行政長官謝爾蓋·阿克肖諾夫25日在社交媒體釋出通報稱，烏克蘭武裝部隊24日晚至25日凌晨對該地區發動襲擊，造成2人死亡，其中包括一名兒童，另有2人受傷。 據烏克蘭官方25日釋出的訊息，24日晚至25日凌晨，俄軍使用無人機、火炮、航空炸彈對蘇梅州、赫爾松州、第聶伯羅彼得羅夫斯克州發動襲擊，造成至少9人受傷。(新華社)
-
----
-
-### 2026-06-25 21:26:06  #MKT News
-
-A US judge has blocked President Trump's executive order restricting mail-in voting.
-
----
-
-### 2026-06-25 21:25:53  #焦點 #國際
-
-美國法官叫停特朗普限制郵寄投票的行政令。
-
----
-
-### 2026-06-25 21:25:02  #其他
-
-非洲疾控中心官員：應對埃博拉疫情目前需14億美元資金。
-
----
-
-### 2026-06-25 21:24:57  #Trading Economics #Markets #United States #Currency #Importance 1
-
-Dollar Rally Pauses — The dollar index traded around 101.6 on Thursday, pausing its recent rally after climbing to its highest level since early 2025 in previous session. Investors assess a fresh batch of US economic data alongside the ongoing decline in oil prices, which have now returned to pre-conflict levels, and their implications for the Fed’s monetary policy outlook. The latest US PCE inflation report came in broadly in line with expectations. While inflation remains well above the Fed’s 2% target, the data helped ease concerns about a sharper-than-expected acceleration in price pressures. At the same time, first-quarter GDP growth was revised higher and personal spending accelerated in May, suggesting consumer demand remains resilient. Meanwhile, traders slightly scaled back expectations for Fed tightening, although markets continue to price in at least one rate hike this year. The probability of a Fed rate increase in September fell to 63%, down from 68% the previous day.
-
----
-
-### 2026-06-25 21:24:14  #資料 #市場 #央行 #國際
-
-【美國PCE通脹資料符合預期後，比特幣上漲】在一項關鍵的美國通脹指標符合預期後，比特幣上漲。核心個人消費支出價格指數(PCE)——美聯儲青睞的通脹指標——5月份同比上升3.4%，符合調查的經濟學家的預期。該資料釋出之際，油價跌至戰前水平，預計將減輕通脹壓力。另一項美國資料顯示，首次申請失業救濟人數為21.5萬人，低於預期，同時第一季度國內生產總值(GDP)的第三次估算資料從之前的1.6%上修至2.1%的年率。5月份耐用品下降4.5%，降幅超出預期。比特幣從資料釋出前的61,032美元升至61,598美元。
-
----
-
-### 2026-06-25 21:23:53  #其他
-
-【燧弘華創與杭州海蘿美科簽署戰略合作框架協議】近日，燧弘華創與杭州海蘿美科正式簽署戰略合作框架協議，雙方將以“算力+硬體+垂直場景”創新模式深度協同，落地全鏈路數智化美業解決方案，共建算力驅動的美業AI新生態。
-
----
-
-### 2026-06-25 21:23:09  #其他
-
-巴黎法院裁決補充道：道達爾能源必須在六個月內重新出庭，提交經修訂的產品使用環節溫室氣體排放整改方案。
-
----
-
-### 2026-06-25 21:22:59  #其他
-
-【廣電總局釋出AI微短劇分類分層標準】廣電總局網路視聽司6月25日釋出《管理提示（AI微短劇分類分層標準）》。管理提示稱，人工智慧技術在微短劇領域廣泛應用，提高了工作效率、拓展了創作邊界、賦能行業發展，同時較大地降低了製作成本。為進一步落實國家廣電總局關於微短劇分類分層管理有關要求，推動微短劇健康發展，現就AI微短劇分類分層標準提示如下：投資額度達到80萬元及以上，或者主要劇情涉及政治、軍事、外交、國家安全、統戰、民族、宗教、司法、公安等內容的特殊題材的AI微短劇，按照“重點微短劇”管理。投資額度為30萬元（含）至80萬元之間、且為一般題材的AI微短劇，按照“普通微短劇”管理。投資額度不足30萬元、且為一般題材的AI微短劇，按照“其他微短劇”管理。本標準自2026年7月1日起施行。（新華社）
-
----
-
-### 2026-06-25 21:22:30  #其他
-
-巴黎司法法院：法國的企業警惕責任法確實適用於氣候變化風險。
-
----
-
-### 2026-06-25 21:21:46  #MKT News
-
-Omani and Iranian foreign ministers held a phone call to discuss the Strait of Hormuz.
-
----
-
-### 2026-06-25 21:21:37  #其他
-
-巴黎司法法院裁定：道達爾能源必須修訂其企業警戒計劃，將範圍3排放納入管控。
-
----
-
-### 2026-06-25 21:21:17  #國際
-
-阿曼和伊朗外長通話討論霍爾木茲海峽問題。
-
----
-
-### 2026-06-25 21:20:12  #其他
-
-【委內瑞拉宣佈多項措施應對強震災情】委內瑞拉代總統羅德里格斯25日宣佈多項措施應對強震災情，包括協調國際救援、設立重建和援助基金等。 羅德里格斯當天凌晨接受當地電視臺採訪時表示，鑑於當前急需專業救援裝置和力量，她已與多國領導人以及聯合國駐委內瑞拉協調員溝通。已有經過聯合國體系認證的專業救援隊伍啟程來委支援。 羅德里格斯還宣佈設立一項初始規模2億美元的專項基金，用於重建醫院等基礎設施，併為失去住房的民眾建設新住宅。委政府還將設立另一項專項基金，用於儘快向受災民眾提供緊急援助。（新華社）
-
----
-
-### 2026-06-25 21:19:43  #MKT News
-
-【Canada payroll employment edges up in April; vacancies little changed】Payroll employment in Canada rose modestly in April, up 22,000 (0.1%) after little change in March, Statistics Canada said. Employed persons were 78,100 higher YoY (0.4%). Job vacancies were 490,500 in April, broadly unchanged for a fourth consecutive month and down 3.4% YoY. A more timely labour survey showed hiring rebounded in May with a gain of 87,800 jobs after an April decline of 17,700; employment over the first five months of 2026 is down 49,300.
-
----
-
-### 2026-06-25 21:19:24  #其他
-
-瑞銀將高通目標價由170美元上調至235美元。
-
----
-
-### 2026-06-25 21:18:59  #其他
-
-美元指數降至97.69，公佈資料前為97.83。10年期美債收益率從早些時候的4.414%降至4.371%。兩年期美債收益率從4.162%降至4.107%。
-
----
-
-### 2026-06-25 21:17:47  #公司 #市場
-
-【特斯拉德國工廠產能提升20%】特斯拉週四表示，旗下柏林工廠自今年 10 月起產能將提升 20%，達到每週 7500 臺整車。特斯拉稱，本次擴產計劃將新增招聘 1000 名員工。公司早在 4 月就已宣佈該工廠擴容計劃，以滿足 Model Y 車型上漲的市場需求；5 月又宣佈將加碼該廠動力電池生產線投資。特斯拉表示，上述三項規劃落地後，工廠整車製造與電池產線中短期合計新增 3500 個工作崗位。
-
----
-
-### 2026-06-25 21:16:10  #國際
-
-【歐洲35攝氏度以上高溫覆蓋人口超1億】隨著高溫天氣持續席捲歐洲，法國、英國等多國遭遇6月同期破紀錄高溫。據估算，25日氣溫超過35攝氏度的歐洲地區人口超過了1個億。法新社根據天氣預報和歐盟聯合研究中心的人口資料估算，歐洲當天至少有1.01億人身處35攝氏度以上高溫環境，其中法國受影響人口達5000萬、德國1800萬。另外，同一天，氣溫超過30攝氏度的歐洲地區人口超過3.8億，其中包括德國約7000萬人、法國6300萬人、義大利4800萬人、英國3800萬人。（新華社）
-
----
-
-### 2026-06-25 21:16:05  #MKT News #Macro & Rates #Treasury Yields #US10Y #Impact bearish #DXY #WTI
-
-【Treasury yields, dollar slip after mixed US data and oil drop】Treasury yields and the dollar eased after mixed US data and oil prices fell below pre-war levels. May PCE inflation (YoY) rose to 4.1% from 3.8%, in line with consensus; lower energy costs are expected to ease future inflationary pressure. May durable goods orders fell 4.5% vs -4.0% consensus. Q1 real GDP (annualized) was revised up to 2.1% from 1.6% (consensus 1.7%). Weekly initial jobless claims fell to 215,000 (consensus 223,000). The 10-year Treasury yield slid to 4.371% from an earlier 4.414%; the 2-year fell to 4.107% from 4.162%.
-
----
-
-### 2026-06-25 21:15:29  #MKT News #Commodities #Energy
-
-Indian government says LPG supply has recovered due to recent improvements in supply conditions.
-
----
-
-### 2026-06-25 21:15:16  #MKT News #Commodities #Energy
-
-The Indian government said it has lifted industry supply restrictions on liquefied petroleum gas (LPG).
-
----
-
-### 2026-06-25 21:15:02  #公司
-
-【AI智慧體基礎設施公司Sail Research獲8000萬美元融資，估值達4.5億美元】6月25日，專為長週期人工智慧智慧體（AI Agent）打造的基礎設施公司Sail Research宣佈，已在種子輪和A輪融資中成功籌集8000萬美元，估值達到4.5億美元。其中，A輪融資由凱鵬華盈（Kleiner Perkins）領投，種子輪由紅杉資本（Sequoia）領投。Alphabet董事長約翰·軒尼詩（John Hennessy）及Together AI首席科學家Tri Dao等作為天使投資人參與投資。
-
----
-
-### 2026-06-25 21:14:53  #公司 #國際
-
-【奧比中光與科德寶集團在多個關鍵業務方向上達成合作意向】據奧比中光訊息，近日，德國工業科技巨頭科德寶集團（Freudenberg Group）高層代表團到訪奧比中光科技集團股份有限公司（簡稱“奧比中光”）位於佛山順德的3D視覺感知產業智慧製造基地及深圳總部。雙方聚焦具身智慧、智慧製造及工業自動化領域的深度協同，展開務實交流，並在多個關鍵業務方向上初步達成合作意向。在技術賦能方面，擬開展雙向合作：一方面，探索由科德寶為奧比中光3D視覺系統、相關應用以及機器人制造服務提供密封、特種潤滑和NVH最佳化方案，以提升其在複雜工業環境下的可靠性、耐用性及場景適配能力；同時，結合科德寶在材料與製造領域的專長和奧比中光的新一代方案，進一步提升產品效能與效益。另一方面，探索將奧比中光3D視覺感知技術及定製化機器人方案應用於科德寶智慧製造產線，助力提升生產自動化水平和運營效率，挖掘先進製造領域的協同潛力。在全球市場拓展方面，雙方規劃聯合亮相國際頂級行業展會，並在歐洲、北美及中國協同開展客戶拜訪。此外，雙方還計劃藉助Tech Day等形式，共同展示奧比中光的3D視覺技術與科德寶在密封、特種潤滑、NVH領域的技術積累，並探索在人形機器人等新興領域的聯合共創機會。
-
----
-
-### 2026-06-25 21:14:47  #MKT News
-
-Indian government says it will restore supply of packaged liquefied petroleum gas (LPG) for non-household users to pre-crisis levels.
-
----
-
-### 2026-06-25 21:14:46  #公司
-
-【保時捷擬敲定新一輪成本削減計劃】據媒體報道，在6月23日舉行的股東大會上，不少投資者正向保時捷施壓，要求其採取緊急行動，扭轉利潤下滑的頹勢，並重振中國市場。 保時捷股份公司CEO邁克爾·萊特斯預估，保時捷將重點提高現有及未來車型的利潤率，即便整體銷量因此減少，經營方向也不會改變。他在接受媒體採訪時表示：“保時捷即使少賣車也必須賺錢。我們希望繼續為保時捷品牌吸引新客戶。” 為了達成這一目標，保時捷正敲定新一輪成本削減磋商，企業將迎來整車減產週期，告別擴產路線。據悉，該公司計劃在未來幾年裁減約3900個崗位。 對此，記者向保時捷中國方面進行求證，有工作人員透露，保時捷內部確實在進行一系列的改革和調整，會在近兩個月與海外員工進行談話，為推進相關工作進行前期準備。調整的目的是為了內部更有效率，以更好應對未來挑戰。（每經）
-
----
-
-### 2026-06-25 21:13:56  #國際
-
-印度政府：近期液化石油氣供應形勢好轉後，供應已逐步恢復。
-
----
-
-### 2026-06-25 21:13:43  #Trading Economics #Markets #Commodity #Importance 0
-
-Silver Approaches $59 — Silver rebounded to approach $59 per ounce on Thursday, recovering from earlier losses and tracking modest gains across the precious metals complex. The metal found support from a weaker US dollar and lower Treasury yields after the latest US PCE inflation report came in broadly in line with expectations, easing concerns about a sharper acceleration in price pressures. While inflation remains well above the Fed’s 2% target, the data eased concerns about a sharper-than-expected acceleration in price pressures. Meanwhile, oil prices continued to retreat and have now returned to levels seen before the outbreak of the Iran conflict, further alleviating inflation worries. As a result, traders pared back expectations for additional monetary tightening, with the probability of a Fed rate hike in September falling to 63% from 68% the previous day. Still, silver is down about 13% year-to-date and nearly 47% below its record high reached in January, before the outbreak of the conflict with Iran.
-
----
-
-### 2026-06-25 21:13:13  #MKT News #Important
-
-White House says Trump will attend an event at Mount Rushmore on July 3.
-
----
-
-### 2026-06-25 21:13:08  #國際
-
-印度政府：已取消對液化石油氣供應的行業性供應限制。
-
----
-
-### 2026-06-25 21:12:35  #國際
-
-印度政府：已將非國產包裝液化石油氣供應恢復至危機前水平。
-
----
-
-### 2026-06-25 21:12:32  #市場
-
-倫銅日內漲幅擴大至2.00%，現報13299.70美元/噸。
-
----
-
-### 2026-06-25 21:12:22  #其他
-
-【全球首個通訊智慧體協同開源專案OpenAN釋出】6月25日，在2026上海世界行動通訊大會期間，中國移動攜手GSMA及華為、中興等多家國際知名通訊與科技企業，正式釋出全球首個通訊智慧體協同的開源專案——OpenAN。
-
----
-
-### 2026-06-25 21:12:08  #國際
-
-特朗普將於7月3日在拉什莫爾山出席活動。
-
----
-
-### 2026-06-25 21:11:59  #國際
-
-【美國銀行策略師質疑AI熱潮 建議關注防禦性板塊】美國銀行歐洲股票策略主管Sebastian Raedler表示，如果AI交易開始退潮，投資者應該將注意力轉向防禦性板塊。對AI能否成為一項高利潤業務，並證明其鉅額資本支出的合理性，Raedler持懷疑態度。他建議投資者關注那些此前被市場冷落的板塊，從而規避下行風險，如必需消費品和製藥行業，這些行業的底層商業邏輯依然運轉良好。“一旦客戶告訴我們不願為AI支付那麼多錢，一旦客戶將流量轉移到更便宜的模型，一旦第一家超大規模雲服務商說‘實際上，我不確定我是否在這裡創造了價值，讓我削減那個資本支出數字’，那麼許多防禦性板塊將蓄勢待發，” Raedler在接受彭博電視採訪時表示。
-
----
-
-### 2026-06-25 21:11:57  #MKT News #Commodities #Industrial Metals #Copper #Impact bullish
-
-LME copper's intraday gain widened to 2.0%, trading at $13,299.70/tonne.
-
----
-
-### 2026-06-25 21:11:46  #其他
-
-國際貨幣基金組織：決議批准向象牙海岸撥付約8.328億美元資金。
-
----
-
-### 2026-06-25 21:10:54  #MKT News #Important #Commodities #Precious Metals
-
-Shanghai silver 2608 contract rallied intraday, up 2.03% at CNY 14,349 per kg. Turnover was about CNY 13.164 billion; open interest rose by nearly 4,400 lots intraday as volume and OI activity picked up.
-
----
-
-### 2026-06-25 21:10:50  #其他
-
-科技記者古爾曼補充蘋果更多漲價資訊：Mac Studio 漲價 500 美元，現售價 2499 美元；基礎款 iPad 449 美元，iPad mini 599 美元。
-
----
-
-### 2026-06-25 21:08:53  #市場 #焦點
-
-甲醇連續主力合約日內漲1%，現報2451.00元。
-
----
-
-### 2026-06-25 21:08:15  #MKT News #Important #Commodities #Precious Metals #XAUUSD #Impact bullish
-
-Spot silver traded above $59/oz, rising 2.68% on the day.
-
----
-
-### 2026-06-25 21:07:44  #市場 #焦點
-
-白銀連續主力合約日內漲2%，現報14349.00元。
-
----
-
-### 2026-06-25 21:07:24  #公司 #觀點
-
-【信聯科技創業板IPO稽核狀態變更為'已受理'】山東高速信聯科技股份有限公司創業板IPO稽核狀態變更為'已受理'，保薦機構為中泰證券。
-
----
-
-### 2026-06-25 21:06:12  #市場
-
-現貨鈀金上漲3%，報每盎司1,201.05美元。
-
----
-
-### 2026-06-25 21:06:10  #公司
-
-【ST惠倫：擬出資1000萬元在上海市設立全資子公司】ST惠倫6月25日公告，公司擬以自有資金出資人民幣1000萬元在上海市設立全資子公司從事主營產品銷售等業務。本次對外投資事項在公司董事會審批許可權範圍內，無需提交公司股東會審議。
-
----
-
-### 2026-06-25 21:06:07  #MKT News #Commodities #Precious Metals
-
-Spot palladium rose 3% to $1,201.05 per ounce.
-
----
-
-### 2026-06-25 21:05:48  #公司
-
-【谷歌重組 AI 編碼專項攻堅團隊，全力追趕 Anthropic 高利潤商用 AI 業務】據熟悉本次架構調整的知情人士透露，谷歌正在重組不久前剛成立、專注 AI 編碼工具研發的專項攻堅小組，試圖在盈利前景最豐厚的前沿 AI 應用賽道縮小與 Anthropic 的差距。知情人士表示，這支成立僅數月的攻堅小組將調整谷歌大模型的訓練思路，同步提升模型程式碼生成能力與 PPT 製作等多場景創作能力。這一調整思路與 Anthropic、OpenAI 的戰略方向一致：二者均在把 AI 編碼工具拓展至企業各類辦公業務場景。本次調整除拓寬攻堅小組業務邊界外，還將這支原本短期專案制團隊固化為常設正式組織。此次架構重組恰逢兩位核心高管離職，市場由此擔憂谷歌能否持續領跑高效能大模型研發迭代。儘管 AI 熱潮整體讓谷歌大幅受益，但公司始終難以高效調配人力與算力資源，直面 Anthropic、OpenAI 的競爭。
-
----
-
-### 2026-06-25 21:05:44  #Trading Economics #Markets #Commodity #Importance 1
-
-Gold Rebounds on Thursday — Gold traded above $4,000 per ounce on Thursday, rebounding from earlier losses as a weaker US dollar and lower Treasury yields provided support after the latest US PCE inflation report came in broadly in line with expectations. While inflation remains well above the Fed’s 2% target, the data eased concerns about a sharper-than-expected acceleration in price pressures. Meanwhile, oil prices continued to retreat and have now returned to levels seen before the outbreak of the Iran conflict, further alleviating inflation worries. As a result, traders pared back expectations for additional monetary tightening, with the probability of a Fed rate hike in September falling to 63% from 68% the previous day. Despite Thursday’s rebound, gold remains down roughly 5% year-to-date and nearly 20% below its January record high, reached before the escalation of the conflict involving Iran.
 
 ---

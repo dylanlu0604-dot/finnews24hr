@@ -1,7 +1,193 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-07-02 02:21:24_
-_本檔包含 2543 則快訊，約 533639 字_
+_更新時間：2026-07-02 03:18:52_
+_本檔包含 2549 則快訊，約 533063 字_
+
+---
+
+### 2026-07-01 10:31:40  #觀點 #國際
+
+花旗：美國液化天然氣出口異常強勁，緩解中東供應短缺後將繼續保持這一勢頭。
+
+---
+
+### 2026-07-01 10:30:57  #其他
+
+【天元智慧與烏茲別克Megaton簽署第二條AAC生產線合作協議】據天元智慧訊息，近日，天元智慧與烏茲別克Megaton正式簽署第二條蒸壓加氣混凝土（AAC）生產線合作協議。專案位於烏茲別克撒馬爾罕，將建設一條日產2000m³現代化AAC生產線，採用6×1.5米大規格坯體，並搭載天元智慧新型雙向溼掰系統，計劃於2027年3月建成投產。截至目前，該專案是中亞地區規模最大的單體AAC生產基地之一。
+
+---
+
+### 2026-07-01 10:30:50  #其他
+
+市場訊息：柔佛-新加坡經濟特區計劃或將在柔佛州選舉後啟動。
+
+---
+
+### 2026-07-01 10:30:11  #Trading Economics #Markets #Japan #Currency #Importance 2
+
+Yen Sinks Further as Intervention Talks Mount — The Japanese yen weakened past 162.5 per dollar on Wednesday, sinking to its lowest level in four decades and fueling speculation that authorities could intervene to support the currency. Traders are watching Friday’s US holiday as a potential opportunity for Tokyo to buy yen, as thinner market liquidity could amplify the impact of any intervention. The yen came under renewed pressure after fresh data highlighted the resilience of the US economy, reinforcing expectations that the Federal Reserve will raise interest rates this year. Meanwhile, investors remain skeptical about the Bank of Japan’s willingness to accelerate policy tightening as it continues its gradual normalization path. Persistent carry trades and sustained safe-haven demand for the US dollar also weighed on the yen. Additionally, Japan’s heavy reliance on Middle Eastern oil imports left its economy vulnerable to potential disruptions in regional energy supplies.
+
+---
+
+### 2026-07-01 10:29:39  #公司 #市場
+
+【半導體裝置板塊反覆走強 京儀裝備觸及20cm漲停續創歷史新高】半導體裝置板塊反覆走強，京儀裝備觸及20cm漲停，續創歷史新高，北方華創一度逼近漲停，總市值日內突破7000億，此前盛劍科技、領先股份、亞威股份漲停，波長光電、臻寶科技、海川智慧、正帆科技均漲超10%。
+
+---
+
+### 2026-07-01 10:29:02  #公司
+
+【泰凌微盛文軍：端側AI產品將改變行業格局 短期看好智慧家居、遊戲外設等賽道】近期，泰凌微總經理盛文軍表示，公司持續向端側AI轉型，多款端側AI產品已受到市場積極反饋；包含支援WiFi-7在內的多款端側AI產品，將在近兩年持續問世。同時，其表示，公司晶片已應用於谷歌電視棒遙控器、智慧耳機等產品，隨著谷歌大力推進Matter智慧家居標準，雙方在智慧家居領域的合作空間正快速擴大。“公司正處於從‘產品公司’向‘平臺型公司’演進的階段，將加速出海佈局，持續繫結全球頭部客戶，瞄準智慧家居、遊戲外設等賽道。”
+
+---
+
+### 2026-07-01 10:28:20  #公司
+
+【滴滴出行、紫金礦業入股航天科技公司宇石空間】企查查APP顯示，近日，北京宇石空間航天科技有限公司發生工商變更，新增滴滴出行關聯公司嘉興桔子共享投資合夥企業（有限合夥）、紫金礦業(601899)全資子公司紫金礦業投資（上海）有限公司、安徽省聯想強鏈補鏈創業投資基金合夥企業（有限合夥）等為股東，同時註冊資本增至1063.43萬元。企查查資訊顯示，該公司成立於2024年，經營範圍包含火箭發動機研發與製造；火箭控制系統研發；火箭發射裝置研發和製造等。
+
+---
+
+### 2026-07-01 10:28:12  #MKT News #Commodities #Energy
+
+CITIGROUP expects 2027 average TTF gas at €27/MWh (USD9.2/MMBtu), JKM LNG at USD9.5/MMBtu and US Henry Hub gas at USD2.8/MMBtu.
+
+---
+
+### 2026-07-01 10:28:08  #其他
+
+新加坡金管局將於10月14日之前釋出10月份的政策宣告。
+
+---
+
+### 2026-07-01 10:27:44  #MKT News #Commodities #Energy
+
+Citigroup expects H2 2026 average TTF gas price of EUR36.5/MWh (USD12.4/MMBtu), JKM LNG at USD13.5/MMBtu and US Henry Hub at USD3.2/MMBtu.
+
+---
+
+### 2026-07-01 10:27:43  #觀點 #國際
+
+花旗：預計2026年下半年TTF天然氣均價將為每兆瓦時36.5歐元（每百萬英熱單位12.4美元），JKM液化天然氣為每百萬英熱單位13.5美元，美國亨利中心天然氣為每百萬英熱單位3.2美元。
+
+---
+
+### 2026-07-01 10:26:57  #其他
+
+【習近平等領導同志為全國優秀共產黨員代表頒獎】今天上午，慶祝中國共產黨成立105週年大會在人民大會堂隆重舉行。習近平等領導同志為全國優秀共產黨員代表頒獎。（央視新聞）
+
+---
+
+### 2026-07-01 10:25:32  #公司
+
+【金銀河為金龍羽固態電池專案提供產線前端成套裝置】據金銀河訊息，近日，金銀河與金龍羽簽訂裝置採購訂單，公司將為金龍羽深圳大鵬新區年產2GWh固態電池產線專案，供應制漿、塗布、電芯烘烤相關前端核心裝備，提供一體化極片製造配套解決方案。
+
+---
+
+### 2026-07-01 10:24:57  #國際
+
+【跟風歐盟，美國也要對中國逆變器下手】當地時間6月30日，路透社援引五名知情人士訊息稱，特朗普政府正在起草一項禁止進口外國產逆變器的禁令，無端擔憂中國可能會利用這些逆變器擾亂電力供應。據介紹，逆變器是能源設施中的關鍵裝置，將太陽能電池板或電池產生的電力轉換為可用於家用電器的電力。它們允許遠端訪問，以進行更新和維護。據上述訊息人士透露，美國聯邦通訊委員會（FCC）正在起草的限制措施將適用於新型外國逆變器型號，最早可能於今年釋出。（觀察者網）
+
+---
+
+### 2026-07-01 10:24:06  #市場 #焦點
+
+科創50日內漲幅達2.05%，成分股中，格科微漲16.16%，華海清科漲10.02%，滬矽產業漲8.35%，中微公司漲6.72%。
+
+---
+
+### 2026-07-01 10:23:04  #MKT News #002714.SZ #Impact bullish #CSI300
+
+China A-share livestock sector firmed after choppy trading. Tianbang Food hit the daily limit; Yisheng reclaimed and re-closed at the limit-up; Jinxinnong earlier hit the limit. Lihua, Xiangjia, Xiaoming, Dayu Bio, Aonong Bio and Muyuan Foods also advanced.
+
+---
+
+### 2026-07-01 10:22:14  #公司 #市場
+
+【小金屬概念震盪反彈 株冶集團漲停】小金屬概念盤中震盪反彈，銦方向領漲，株冶集團漲停，豫光金鉛、馳宏鋅鍺、羅平鋅電、鋅業股份、錫業股份漲幅靠前。
+
+---
+
+### 2026-07-01 10:21:59  #公司
+
+【海力士中國實控6家企業 對外投資3家企業】據媒體報道，6月30日，SK海力士申請在納斯達克上市，相關話題引發熱議。天眼查App顯示，SK海力士中國關聯公司SK海力士半導體（中國）有限公司成立於2005年4月，法定代表人為李秉起（LEE BYOUNGKI），註冊資本約52億美元，經營範圍包括半導體裝置的銷售、租賃等，由SK海力士株式會社全資持股。控制企業資訊顯示，該公司實際控制6家企業，包括SK海力士（無錫）產業發展有限公司、SK海力士（無錫）投資有限公司等。對外投資資訊顯示，該公司對外投資3家企業。
+
+---
+
+### 2026-07-01 10:21:00  #市場 #焦點
+
+【A股半導體裝置板塊異動拉昇】領先股份觸及漲停，京儀裝備、北方華創、華峰測控、華海清科、中科儀、至純科技跟漲。
+
+---
+
+### 2026-07-01 10:21:00  #市場 #焦點
+
+【A股大基金二期板塊異動拉昇】江豐電子漲11.50%，江化微、北方華創、雅克科技、華峰測控、至純科技、和而泰跟漲。
+
+---
+
+### 2026-07-01 10:20:20  #其他
+
+瀾起科技成交額超100億元，截至發稿漲超5%。
+
+---
+
+### 2026-07-01 10:19:40  #公司 #市場
+
+【養殖業概念震盪走強 天邦食品、益生股份雙雙漲停】養殖業概念震盪走強，天邦食品漲停，益生股份回封漲停，金新農此前漲停，立華股份、湘佳股份、曉鳴股份、大禹生物、傲農生物、牧原股份跟漲。
+
+---
+
+### 2026-07-01 10:18:34  #公司
+
+【易明醫藥新設科技公司 含多項AI業務】企查查APP顯示，近日，北京格思譜科技有限公司成立，經營範圍包含人工智慧基礎軟體開發；人工智慧基礎資源與技術平臺；人工智慧理論與演算法軟體開發；人工智慧應用軟體開發等。企查查股權穿透顯示，該公司由易明醫藥(002826)全資持股。
+
+---
+
+### 2026-07-01 10:17:59  #市場 #焦點
+
+滬深兩市成交額超1.5萬億元，較上日此時放量1250億元。
+
+---
+
+### 2026-07-01 10:17:39  #MKT News #Important #Market Regions #Greater China #SZSE Component #Impact bearish #Copper
+
+China's ChiNext index intraday decline widened to 1%; copper-cable, high-speed connector and lab-grown diamond sectors led losses.
+
+---
+
+### 2026-07-01 10:17:03  #市場
+
+北證50指數跌超1%。
+
+---
+
+### 2026-07-01 10:16:53  #MKT News #Market Themes #AI Revolution
+
+【South Korea's President Lee appoints Han Seong-sook as prime minister】South Korea's President Lee appointed Han Seong-sook as prime minister on the 1st. Han, a former CEO of internet firm Navigator who was appointed minister for SMEs and venture firms in 2025, brings digital-industry and corporate management experience and is expected to drive an AI-led digital transformation. Local media say the government will use her appointment to accelerate AI industry development and digitalization, positioning AI as a core engine for economic growth and national competitiveness.
+
+---
+
+### 2026-07-01 10:16:46  #公司 #國際
+
+【韓國總統任命韓聖淑為新國務總理】韓國總統李在明1日任命韓聖淑為新任國務總理。韓國總統府青瓦臺說，李在明當天在青瓦臺為韓聖淑舉行了任命儀式，正式頒發任命狀。青瓦臺此前表示，韓聖淑曾擔任韓國網際網路企業“領航員”公司執行長，2025年被任命為中小風險企業部長官，擁有豐富的數字產業和企業經營經驗，有望推動韓國完成人工智慧（AI）大轉型，並帶動經濟創新和全民共同發展。韓媒《韓民族日報》分析認為，韓國政府將以韓聖淑就任國務總理為契機，加快推進AI產業發展和數字化轉型，把AI作為推動經濟增長和提升國家競爭力的重要引擎。（新華社）
+
+---
+
+### 2026-07-01 10:16:40  #MKT News #Market Themes #AI Revolution #6752.T #Impact bullish #Nikkei 225
+
+【Panasonic to expand AI business, aims for JPY1.4t AI infrastructure sales】Panasonic plans to expand its AI business, targeting about JPY1.4 tln in AI infrastructure-related sales within three years and announcing roughly JPY500 bln of investment in the business over the next two fiscal years. The company raised planned job cuts to 12,000 (from 10,000) and expects JPY145 bln of savings by FY24. Panasonic’s shares have more than doubled YTD, lifting market value to a record JPY11.5 tln amid demand for AI infrastructure components including server electronic parts, circuit-board materials and batteries; the firm remains a major battery supplier to Tesla.
+
+---
+
+### 2026-07-01 10:16:25  #公司
+
+【起拍價43.29億元 大通證券控股權首拍流拍】大通證券控股權首拍遇冷。京東資產交易平臺顯示，大通證券51.59%控股股權於6月30日至7月1日進行的拍賣，43.29億元起拍價吸引近1.9萬人次圍觀，但全程無投資者報名，標的最終流拍。拍賣標的合計約17.03億股，由華信信託（持股28.25%）、子公司海創匯通持股9.16%，以及華根機械14.18%股權對應的合同權利構成。作為深陷破產重整六年的華信信託最核心優質資產，這筆股權處置直接關係到三千餘名自然人投資者的兌付，股權獲得者將會是控股股東。對於為何流拍，行業較多分析認為與43.29億元“偏貴”的價格有關。但公司作為遼寧本土老牌券商，牌照的稀缺性將是後續轉讓的核心買點。
+
+---
+
+### 2026-07-01 10:16:24  #MKT News
+
+【Hainan activates Level-4 flood and wind emergency response】A South China Sea tropical disturbance developed into a tropical depression on the morning of July 1, 2026. At 08:00 on July 1 it was centered about 1,020 km east‑southeast of Qionghai, Hainan (14.2°N, 118.5°E) with near‑center maximum winds of 15 m/s (force 7). It is forecast to move WNW at 20–25 km/h, intensify into a numbered typhoon on July 2, and approach Hainan’s eastern coast, potentially reaching strong tropical storm or typhoon strength. Hainan Provincial Meteorological Bureau issued a typhoon Level‑4 warning at 09:30 on July 1; the provincial disaster prevention and relief committee activated a Level‑4 flood and wind emergency response at 10:00 on July 1. Hainan is expected to experience strong winds and heavy rain from July 1–4, moving east to west across the island.
 
 ---
 
@@ -15184,155 +15370,5 @@ China's CSI 1000 index futures (IM) front-month contract breached 8,200, trading
 ### 2026-06-29 10:33:28  #Trading Economics #Economy #Australia #Government Bond 10Y #Importance 1
 
 Australia 10Y Yield Stays Near 4-Month Low — Australia’s 10-year government bond yield rose above 4.7%, but remained near a four-month low as markets pared back expectations of further domestic rate hikes, while renewed Middle East tensions reignited inflation concerns. Although the US and Iran agreed to pause further attacks after the recent exchange of strikes around the Strait of Hormuz, oil prices climbed as the latest escalation disrupted the recovery in oil shipments through the strategic waterway that had followed an earlier interim agreement. In Australia, focus turns to Tuesday's release of minutes from the Reserve Bank’s most recent interest-rate setting meeting. The central bank left the cash rate unchanged at 4.35% at its June meeting following three rate hikes earlier this year. Despite a rebound in employment data, recent mixed inflation figures left the markets split on another rate hike, implied around 50% by year-end, while some have started pricing in rate cuts in the second half of 2027.
-
----
-
-### 2026-06-29 10:32:19  #Trading Economics #Markets #New Zealand #Currency #Importance 1
-
-New Zealand Dollar Remains Under Pressure — The New Zealand dollar hovered near a seven-month low at around $0.564, weighed down by a broadly stronger US dollar and growing concerns over the domestic growth outlook. Although the recent pullback in oil prices, following a US-Iran deal, has eased near-term inflation concerns, the broader economic damage from the earlier energy shock persists. Expectations for aggressive tightening by the Reserve Bank of New Zealand have been scaled back, with markets now pricing in roughly a 66% chance of a July rate hike, down from over 80% a few weeks earlier, and anticipating just two moves this year rather than three. Investors are now awaiting this week’s business and consumer confidence data for clues on the state of the economy, with the country’s four major banks forecasting the economy to have contracted in the second quarter.
-
----
-
-### 2026-06-29 10:32:04  #MKT News #Market Themes #Chip Wars #Magnificent 7 #Star Stocks #Apple #AAPL.O
-
-【Apple considers 1.4nm process for flagship smartphone SoC in 2028】Apple is reportedly considering a 1.4nm process for its flagship smartphone SoC as early as 2028, implying the lifecycle of 2nm-based flagship chips could be about two years.
-
----
-
-### 2026-06-29 10:31:22  #其他
-
-據報道，蘋果正考慮最早於2028年在其旗艦智慧手機SoC中採用1.4nm工藝技術，這意味著採用2nm工藝製造的旗艦晶片的生命週期可能只有大約兩年。 (臺灣電子時報)
-
----
-
-### 2026-06-29 10:31:12  #公司 #國際
-
-【三星電機MLCC或斬獲大單 並將加碼玻璃基板】綜合韓國經濟日報、韓國經濟論壇報，業內人士近日透露，三星電機正與一家美國大型科技公司就一份AI伺服器MLCC供應合同進行最後的談判，價值約5000億韓元（約合22億元人民幣）。另外，該公司還計劃於近期與住友化學簽署正式協議，成立玻璃基板合資公司（JV），兩家公司將投資5000億韓元，三星電機計劃持有超過半數的股份，並投資約3000億韓元（約合13.2億元人民幣）。
-
----
-
-### 2026-06-29 10:30:45  #公司
-
-【萬憬能源：將持續實施老舊管網安全升級改造】萬憬能源近日在投資者網上集體接待日活動上表示，公司建成148.48公里自有長輸管線，配套阿克蘇市區超750公里市政管網及20座場站，全面覆蓋自有特許經營區域。當前管網整體利用率處於合理區間，長輸管線隨供氣規模提升持續釋放成本優勢，可充分滿足區域居民、工商業用氣需求。後續公司將持續實施老舊管網安全升級改造，結合工業園區、新建城區用氣需求適度延伸擴容，同步佈局智慧管網提升運維效率。若有達到披露標準的大型管網投資專案，公司將及時公告。
-
----
-
-### 2026-06-29 10:29:12  #MKT News #Important #Market Regions #Greater China #600276.SS #Impact bullish #2359.HK
-
-China A-share innovative drug sector extended gains. Wanbang Pharma earlier sealed the board at the limit-up; Shuanglu Pharmaceutical, Kangyuan Pharmaceutical and Asymchem hit 10% limit-up. Jiangsu Hengrui Medicine advanced more than 8%; WuXi AppTec, Changshan Pharmaceutical and other drug names also rose.
-
----
-
-### 2026-06-29 10:25:39  #公司
-
-【野村一舉升聯想集團目標價至35港元 重申買入評級】野村證券發表報告，對聯想集團(00992.HK)維持買入評級，基於2027財年預測每股盈利20倍計，目標價由原先16港元大幅上調至35港元，意味著46%的上行空間。在野村5月發表的上一份聯想報告中，該行已強調通用伺服器業務的勢頭可能遠超預期。儘管聯想股價自5月以來已上升逾100%，但野村認為此超額表現可能持續，因為該行相信：(1)市場尚未充分反映聯想伺服器業務的潛力；(2)野村對2027/28財年的盈利預測現已較市場共識高出約10%；(3)聯想目前正處於重估過程中，其主要同業戴爾(DELL.N)正以30倍的一年預期市盈率交易，野村認為這為聯想的重估創造了空間。該行上調聯想集團2027/28財年盈利預測12%。
-
----
-
-### 2026-06-29 10:25:30  #MKT News #Market Regions #Greater China #00992.HK #Impact bullish
-
-【Nomura raises Lenovo Group PT to HK$35, reiterates buy】Nomura reiterated a buy on Lenovo Group (00992.HK) and raised its target price to HK$35 from HK$16, based on 20x FY2027 EPS, implying about 46% upside. The broker said momentum in Lenovo’s general server business may exceed expectations; despite the stock rallying more than 100% since May, Nomura expects further upside because the market has not fully priced the server opportunity, its FY2027/28 earnings forecasts run roughly 10% above consensus, and Lenovo is in a re-rating phase with peers such as Dell trading near 30x one-year forward P/E. Nomura lifted its FY2027/28 EPS forecasts by 12%.
-
----
-
-### 2026-06-29 10:25:00  #市場 #焦點
-
-【A股半導體材料板塊異動拉昇】有研矽漲14.24%，神工股份、凱德石英、恆坤新材、滬矽產業、雅克科技、阿石創跟漲。
-
----
-
-### 2026-06-29 10:23:47  #MKT News #Commodities #Energy
-
-Venezuela interim president Rodriguez said most of La Guaira state has been reconnected to the national grid.
-
----
-
-### 2026-06-29 10:23:07  #其他
-
-委內瑞拉臨時總統：已成功將拉瓜伊拉州大部分地區重新接入國家電力系統。
-
----
-
-### 2026-06-29 10:23:04  #MKT News #CSI300 #Impact bullish #SSE Composite #SZSE Component
-
-A-share retail sector rebounded; Zhongbai Group and Ningbo Zhongbai both hit the daily price limit, while Zhejiang Dongri, Bubugao, Dongbai Group and Central Mall also advanced.
-
----
-
-### 2026-06-29 10:22:25  #Trading Economics #Markets #United States #Currency #Importance 2
-
-Dollar Holds Steady as Jobs Data Looms — The dollar index was little changed at around 101.3 on Monday after reaching a more than one-year high last week, as investors awaited the latest US monthly jobs report for fresh clues on labor market strength and the outlook for Federal Reserve policy. Fed Chair Kevin Warsh reiterated the central bank’s commitment to bringing inflation under control, reinforcing the hawkish tone of his debut earlier this month that prompted markets to scale back expectations for US rate cuts this year. Markets are now pricing in three Fed rate hikes this year, with the probability of the first increase in September standing above 60%. Meanwhile, investors continued to monitor developments in the Middle East after oil prices climbed following renewed clashes between the US and Iran around the Strait of Hormuz, although both sides agreed to halt further attacks ahead of peace talks set to resume this week in Doha, Qatar.
-
----
-
-### 2026-06-29 10:21:28  #Trading Economics #Economy #Taiwan #Consumer Confidence #Importance 1
-
-Taiwan Consumer Confidence Recovers in June — Taiwan’s consumer confidence index rose to 65.05 in June 2026 from 62.08 in the previous month, recovering from its lowest level in more than three years as sentiment improved across all six core components. The strongest gain was recorded in stock investment prospects, which climbed to 29.9 from 22.06 in May, followed by future price levels (35.83 vs 32.77), durable goods purchases (93.55 vs 91.68), labor market expectations (72.46 vs 70.7), household finances (77.7 vs 76.02), while expectations for domestic economic conditions edged up to 80.87 from 79.26, marking the smallest increase among the main indicators. Additionally, confidence in real estate purchases (90.35 vs 88.51), assessments of current health conditions (86.82 vs 84.92), and expected health conditions (81.86 vs 80.01) strengthened. Despite the broad-based improvement, all six main sub-indicators remained below the 100-point threshold, indicating that consumers continued to hold a generally cautious outlook.
-
----
-
-### 2026-06-29 10:20:08  #MKT News #600519.SS #Impact bullish
-
-China A-share baijiu sector firm: Jiugui Liquor up over 8%, Shede Spirits up over 5%, Kweichow Moutai up over 2%; Yingjia Gongjiu and Shuijingfang also gained.
-
----
-
-### 2026-06-29 10:19:51  #公司 #觀點
-
-【自變數C輪融資後估值超200億】自變數機器人宣佈，繼4月下旬完成小米戰投領投的B輪融資後，公司於2個多月內迅速完成B+、B++及C輪融資，4輪融資均已全部完成交割。本輪投後估值正式突破200億元人民幣。本輪投資方已確認名單包括：中國移動、國家人工智慧產業投資基金、紅杉中國、IDG資本、原始碼資本、達晨財智、中金資本等30餘家頂級機構及網際網路巨頭資本。其中，小米戰投已連續三輪持續加註。（科創板日報）
-
----
-
-### 2026-06-29 10:19:00  #市場 #焦點
-
-【A股白酒板塊異動拉昇】巨力索具觸及漲停，酒鬼酒、捨得酒業、迎駕貢酒、水井坊、會稽山、廣譽遠跟漲。
-
----
-
-### 2026-06-29 10:19:00  #市場 #焦點
-
-【A股食品飲料板塊異動拉昇】佳禾食品觸及漲停，酒鬼酒、百潤股份、元祖股份、捨得酒業、巴比食品、迎駕貢酒跟漲。
-
----
-
-### 2026-06-29 10:18:01  #公司
-
-【北京太空算力創新中心正式揭牌】今日在北京海淀中關村舉辦的全球數字經濟大會太空算力論壇上，北京太空算力創新中心正式揭牌成立，創新中心採用“公司+聯盟”雙輪驅動模式，運營主體為北京天算星聯科技有限公司。創新中心承擔四類核心職能：一是共性技術攻關，圍繞星載AI晶片、高效能算力載荷、智慧衛星平臺、太空大模型、天地一體雲平臺等關鍵環節統籌組織聯合研發；二是公共平臺服務，建設覆蓋晶片到系統的地面綜合驗證基礎設施與天地一體測試驗證環境，向產業鏈上下游開放共享；三是標準制定與生態引領，主導或參與國家、行業標準研製，以開源開放理念匯聚產業生態；四是成果轉化與場景變現，統籌城市治理、行業“天數天算”、社會化Token化AI服務三類應用通路，推動太空算力規模化商業落地。 (科創板日報記者 李明明)
-
----
-
-### 2026-06-29 10:16:36  #公司
-
-【華能水電增資至約186.3億】天眼查App顯示，近日，華能水電（600025）發生工商變更，註冊資本由180億人民幣增至約186.3億人民幣。該公司成立於2001年2月，法定代表人為孫衛，經營範圍為國內外電力等能源資源的開發、建設、生產、經營和產品銷售，電力等能源工程的投資、諮詢、檢修、維護及管理服務，對相關延伸產業的投資、開發、建設、生產、經營和產品銷售，物資採購、銷售及進出口業務，由中國華能集團有限公司、雲南省能源集團有限公司、雲南合和（集團）股份有限公司等共同持股。
-
----
-
-### 2026-06-29 10:16:25  #MKT News #Market Regions #Greater China #CSI300 #Impact bullish #SZSE Component
-
-China A-share gaming stocks strengthened intraday: Perfect World hit the daily limit-up, Shenzhou Taiyue rose more than 15%, and Xinghui Entertainment, Century Huatong and 37 Interactive also rallied.
-
----
-
-### 2026-06-29 10:15:49  #MKT News #Important #Market Regions #Greater China #SSE Composite #Impact bearish
-
-China's Shanghai Composite Index fell below 4,000 points, down 0.69% on the day.
-
----
-
-### 2026-06-29 10:15:37  #市場
-
-越南VN指數開盤微幅震盪，報1871.91點。
-
----
-
-### 2026-06-29 10:15:15  #Trading Economics #Markets #Currency #Importance 1
-
-Asia FX Updates: South Korean Won Depreciates by 0.55% — Top currency losers are South Korean Won (-0.55%) and Indian Rupee (-0.33%). Meanwhile, Chinese Yuan and Japanese Yen were little changed.
-
----
-
-### 2026-06-29 10:13:28  #MKT News #Market Regions #Greater China #CSI300 #Impact bearish #SSE Composite
-
-China A-share printed circuit board sector rallied then reversed, falling more than 4%. Baoding Technology hit the daily limit down; Pengding Holdings, Zhongjing Electronics, Xianfeng Holdings and Nanya New Material also slid.
 
 ---
