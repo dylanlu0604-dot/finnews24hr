@@ -1,7 +1,47 @@
 {
   "date": "2026-07-02",
-  "count": 358,
+  "count": 362,
   "items": [
+    {
+      "id": "4965981",
+      "time": "2026-07-02 06:33:51",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "拜耳集團將整合美國草甘膦業務，設立獨立實體運營，新實體命名為魯維昂（RUVEON）。"
+    },
+    {
+      "id": "mkt:019f1fd0-f859-7aab-8c66-b8d3e4fb2981",
+      "time": "2026-07-02 06:33:36",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Industrial Metals"
+      ],
+      "text": "Iluka Resources said VHM will supply 146,000 tonnes of rare‑earth concentrate to the company over 18 years, averaging about 8,320 tpa."
+    },
+    {
+      "id": "mkt:019f1fd0-431d-7aab-8c66-b461f2d0f6fe",
+      "time": "2026-07-02 06:32:50",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Industrial Metals",
+        "ILU.AX",
+        "Impact bullish"
+      ],
+      "text": "Iluka Resources said VHM has granted it a right of first refusal on any rare earths produced from the Cannie and Nowie projects."
+    },
+    {
+      "id": "mkt:019f1fcf-52a7-7aab-8c66-a878bb216907",
+      "time": "2026-07-02 06:31:48",
+      "tags": [
+        "MKT News",
+        "ILU.AX"
+      ],
+      "text": "Australian mineral sands company Iluka Resources said VHM has granted the company a right of first refusal on any additional rare earths in the Goschen area."
+    },
     {
       "id": "te:markets:563543",
       "time": "2026-07-02 06:30:11",

@@ -1,7 +1,47 @@
 {
-  "updated": "2026-07-02 06:30:55",
-  "count": 14027,
+  "updated": "2026-07-02 06:34:38",
+  "count": 14028,
   "items": [
+    {
+      "id": "4965981",
+      "time": "2026-07-02 06:33:51",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "拜耳集團將整合美國草甘膦業務，設立獨立實體運營，新實體命名為魯維昂（RUVEON）。"
+    },
+    {
+      "id": "mkt:019f1fd0-f859-7aab-8c66-b8d3e4fb2981",
+      "time": "2026-07-02 06:33:36",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Industrial Metals"
+      ],
+      "text": "Iluka Resources said VHM will supply 146,000 tonnes of rare‑earth concentrate to the company over 18 years, averaging about 8,320 tpa."
+    },
+    {
+      "id": "mkt:019f1fd0-431d-7aab-8c66-b461f2d0f6fe",
+      "time": "2026-07-02 06:32:50",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Industrial Metals",
+        "ILU.AX",
+        "Impact bullish"
+      ],
+      "text": "Iluka Resources said VHM has granted it a right of first refusal on any rare earths produced from the Cannie and Nowie projects."
+    },
+    {
+      "id": "mkt:019f1fcf-52a7-7aab-8c66-a878bb216907",
+      "time": "2026-07-02 06:31:48",
+      "tags": [
+        "MKT News",
+        "ILU.AX"
+      ],
+      "text": "Australian mineral sands company Iluka Resources said VHM has granted the company a right of first refusal on any additional rare earths in the Goschen area."
+    },
     {
       "id": "te:markets:563543",
       "time": "2026-07-02 06:30:11",
@@ -129166,31 +129206,6 @@
         "國際"
       ],
       "text": "市場訊息：日本青森縣發生強烈震動。"
-    },
-    {
-      "id": "4953570",
-      "time": "2026-06-25 06:34:29",
-      "tags": [
-        "國際"
-      ],
-      "text": "【中國銀河證券：A股或迴歸多主線 建議關注AI基建等三大方向】6月24日，中國銀河證券2026年中期投資策略報告會暨科技金融會議在上海舉行。在全球經濟格局加速重構、A股市場機遇與風險共生的當下，與會專家圍繞宏觀經濟走勢與產業變革機遇展開了深入研討。與會專家認為，AI與中東衝突正在重塑宏觀經濟格局。下半年投資環境或有所改善，市場有望迴歸多主線並行的格局，從而推動A股行情上行，建議關注AI基建領域、週期與製造板塊和紅利板塊的投資機遇。（中證報）"
-    },
-    {
-      "id": "4953569",
-      "time": "2026-06-25 06:32:48",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【延期合約保證金比例升至140% 多家銀行收緊個人貴金屬業務 】6月24日，工商銀行宣佈將於近期停辦代理上海黃金交易所個人貴金屬競價交易業務。6月以來，多家銀行收緊個人貴金屬相關業務，華夏銀行、廣發銀行、中國銀行等近10家全國性銀行先後釋出公告，調整個人貴金屬延期合約保證金比例，部分銀行將保證金比例上調至140%。業內人士認為，上述保證金比例突破100%意味著個人貴金屬延期合約的槓桿水平已實質性歸零，投機性資金將逐步退出市場。（中證報）"
-    },
-    {
-      "id": "4953568",
-      "time": "2026-06-25 06:32:01",
-      "tags": [
-        "公司"
-      ],
-      "text": "【直接融資勢頭超過信貸，金融“脫媒”深化倒逼銀行轉型】一家股份行支行的對公條線人士，最近察覺到一些變化：部分7年期、10年期乃至更長期限的固定資產貸款到期後，企業主動選擇不再續貸；與此同時，越來越多優質客戶將融資主渠道從銀行轉向債券市場。種種跡象表明，金融“脫媒”趨勢愈發明顯，資金開始繞開銀行等金融中介，直接進行交易。在這種情況下，銀行的角色將迎來重塑。未來，銀行不再只是“放貸者”，而將轉型為“服務中介”，以綜合服務能力重新定義自身價值。（上證報）"
     }
   ]
 }
