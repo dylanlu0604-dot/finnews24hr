@@ -1,7 +1,96 @@
 {
   "date": "2026-07-01",
-  "count": 2555,
+  "count": 2566,
   "items": [
+    {
+      "id": "mkt:019f1d65-4310-7aab-8c55-f94704d28465",
+      "time": "2026-07-01 19:16:43",
+      "tags": [
+        "MKT News",
+        "GBPUSD",
+        "Impact bullish"
+      ],
+      "text": "UK Prime Minister Starmer said the £1 bln annual shortfall in defence spending has been covered using the budget’s headroom."
+    },
+    {
+      "id": "mkt:019f1d65-32d3-7aab-8c55-f02850188185",
+      "time": "2026-07-01 19:16:39",
+      "tags": [
+        "MKT News",
+        "NGG.L",
+        "Impact bullish",
+        "CVX.N",
+        "MSFT.O"
+      ],
+      "text": "【National Grid to buy 35% of Joulent for $1.75 billion】National Grid Plc will invest $1.75 billion to acquire a 35% stake in privately held Joulent LLC, valuing the company at $5.0 billion. Joulent, partnered with Chevron (CVX.N), is developing a gas-fired power plant in Texas to serve Microsoft (MSFT.O) data-center demand; the deal expands National Grid’s U.S. footprint from the Northeast into one of the country’s most active power markets as utilities target AI-driven data-center projects."
+    },
+    {
+      "id": "mkt:019f1d64-cd53-7aab-8c55-ef88bf0ad510",
+      "time": "2026-07-01 19:16:13",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "Ukrainian President Zelenskiy has arrived in Ireland as Ireland assumes the rotating presidency of the Council of the European Union."
+    },
+    {
+      "id": "4965091",
+      "time": "2026-07-01 19:16:07",
+      "tags": [
+        "其他"
+      ],
+      "text": "【預告：中國氣象局召開7月新聞釋出會】據中國網訊息，中國氣象局定於2026年7月2日10:30召開7月新聞釋出會，解讀《全國氣象發展“十五五”規劃》《國家氣象災害防禦規劃（2026-2035年）》等內容，並回答記者提問。"
+    },
+    {
+      "id": "4965090",
+      "time": "2026-07-01 19:15:44",
+      "tags": [
+        "其他"
+      ],
+      "text": "斯塔默：每年10億英鎊的國防資金缺口將由預算富餘額度填補。"
+    },
+    {
+      "id": "4965089",
+      "time": "2026-07-01 19:15:25",
+      "tags": [
+        "國際"
+      ],
+      "text": "澤連斯基表示，他已抵達愛爾蘭，此時愛爾蘭首都都柏林正接任歐盟理事會輪值主席國。"
+    },
+    {
+      "id": "4965088",
+      "time": "2026-07-01 19:14:43",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "【牛津經濟研究院的Tomas Dvorak在一份報告中表示，在疲軟的通脹資料公佈後，歐洲央行不太可能在7月份加息。歐元區6月份通脹率超預期放緩，從5月份的3.2%降至2.8%。服務業通脹率也回落至3.2%。“我們認為，通脹回落的範圍足夠廣泛，足以緩解對潛在第二輪效應的擔憂，並鞏固了我們對歐洲央行將在7月份維持利率不變的看法，”Dvorak說。食品價格通脹率也降至1.6%，預計近期將保持疲軟。“通脹前景改善意味著我們預計不會再有任何加息，”Dvorak說。"
+    },
+    {
+      "id": "mkt:019f1d62-a558-7aab-8c55-e5510793b839",
+      "time": "2026-07-01 19:13:51",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "UK Prime Minister Starmer said any Labour prime minister would support defence spending plans."
+    },
+    {
+      "id": "4965087",
+      "time": "2026-07-01 19:13:43",
+      "tags": [
+        "其他"
+      ],
+      "text": "斯塔默：任何工黨首相都會支援國防開支計劃。"
+    },
+    {
+      "id": "4965086",
+      "time": "2026-07-01 19:13:09",
+      "tags": [
+        "公司"
+      ],
+      "text": "【惠康科技：子公司2800萬元競得土地用於製冷專案建設】惠康科技公告稱，公司全資子公司寧波智拓使用募集資金，以2800萬元競得寧波前灣新區65號區塊建設用地使用權，土地面積53319平方米，用途為工業用海，出讓年限50年。該地塊用於“前灣二號製冷裝置智慧製造生產基地建設專案”，專案總投資7.58億元。此次競地對專案推進有積極作用，不影響現有業務，但後續辦證及專案實施存在一定不確定性。"
+    },
     {
       "id": "te:economy:563420",
       "time": "2026-07-01 19:12:35",
@@ -470,6 +559,14 @@
         "其他"
       ],
       "text": "富時羅素（FactSet）重申2026財年指引，其中包括有機年度訂閱價值增長區間為1.3億至1.6億美元。"
+    },
+    {
+      "id": "4965053",
+      "time": "2026-07-01 19:00:38",
+      "tags": [
+        "市場"
+      ],
+      "text": "【世界黃金協會：黃金投資下半年或步入關鍵期】當地時間7月1日，總部位於英國倫敦的世界黃金協會發布《2026年全球黃金市場年中展望》報告。這份半年度報告預計，在經歷年初以來的寬幅波動後，黃金投資將在下半年步入關鍵期。金價表現將受到地緣政治、利率環境和投資者情緒等多重不確定性因素的共同影響。 今年1月下旬，金價超12次重新整理歷史峰值，倫敦現貨黃金價格一度觸及每盎司5405美元的紀錄高點，但此後於6月大幅回落，年初至今金價下跌約7%，平均波動率升至30%。儘管經歷了此番回撥，黃金仍是過去12個月表現最佳的資產之一。 有機構判斷，金價年內或將在4100美元/盎司附近交投，波動區間約為±5%。若地緣政治或經濟形勢惡化，或利率預期發生轉變，黃金有望重拾漲勢。根據歷史表現，若金價較當前水平下跌超過10%，則可能觸發多個地區長期投資者的“逢低買入”需求。 （央視財經）"
     },
     {
       "id": "mkt:019f1d56-40df-7aab-8c55-652509fc434a",

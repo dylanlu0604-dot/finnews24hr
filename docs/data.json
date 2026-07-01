@@ -1,7 +1,96 @@
 {
-  "updated": "2026-07-01 19:13:52",
-  "count": 13971,
+  "updated": "2026-07-01 19:17:54",
+  "count": 13963,
   "items": [
+    {
+      "id": "mkt:019f1d65-4310-7aab-8c55-f94704d28465",
+      "time": "2026-07-01 19:16:43",
+      "tags": [
+        "MKT News",
+        "GBPUSD",
+        "Impact bullish"
+      ],
+      "text": "UK Prime Minister Starmer said the £1 bln annual shortfall in defence spending has been covered using the budget’s headroom."
+    },
+    {
+      "id": "mkt:019f1d65-32d3-7aab-8c55-f02850188185",
+      "time": "2026-07-01 19:16:39",
+      "tags": [
+        "MKT News",
+        "NGG.L",
+        "Impact bullish",
+        "CVX.N",
+        "MSFT.O"
+      ],
+      "text": "【National Grid to buy 35% of Joulent for $1.75 billion】National Grid Plc will invest $1.75 billion to acquire a 35% stake in privately held Joulent LLC, valuing the company at $5.0 billion. Joulent, partnered with Chevron (CVX.N), is developing a gas-fired power plant in Texas to serve Microsoft (MSFT.O) data-center demand; the deal expands National Grid’s U.S. footprint from the Northeast into one of the country’s most active power markets as utilities target AI-driven data-center projects."
+    },
+    {
+      "id": "mkt:019f1d64-cd53-7aab-8c55-ef88bf0ad510",
+      "time": "2026-07-01 19:16:13",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "Ukrainian President Zelenskiy has arrived in Ireland as Ireland assumes the rotating presidency of the Council of the European Union."
+    },
+    {
+      "id": "4965091",
+      "time": "2026-07-01 19:16:07",
+      "tags": [
+        "其他"
+      ],
+      "text": "【預告：中國氣象局召開7月新聞釋出會】據中國網訊息，中國氣象局定於2026年7月2日10:30召開7月新聞釋出會，解讀《全國氣象發展“十五五”規劃》《國家氣象災害防禦規劃（2026-2035年）》等內容，並回答記者提問。"
+    },
+    {
+      "id": "4965090",
+      "time": "2026-07-01 19:15:44",
+      "tags": [
+        "其他"
+      ],
+      "text": "斯塔默：每年10億英鎊的國防資金缺口將由預算富餘額度填補。"
+    },
+    {
+      "id": "4965089",
+      "time": "2026-07-01 19:15:25",
+      "tags": [
+        "國際"
+      ],
+      "text": "澤連斯基表示，他已抵達愛爾蘭，此時愛爾蘭首都都柏林正接任歐盟理事會輪值主席國。"
+    },
+    {
+      "id": "4965088",
+      "time": "2026-07-01 19:14:43",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "【牛津經濟研究院的Tomas Dvorak在一份報告中表示，在疲軟的通脹資料公佈後，歐洲央行不太可能在7月份加息。歐元區6月份通脹率超預期放緩，從5月份的3.2%降至2.8%。服務業通脹率也回落至3.2%。“我們認為，通脹回落的範圍足夠廣泛，足以緩解對潛在第二輪效應的擔憂，並鞏固了我們對歐洲央行將在7月份維持利率不變的看法，”Dvorak說。食品價格通脹率也降至1.6%，預計近期將保持疲軟。“通脹前景改善意味著我們預計不會再有任何加息，”Dvorak說。"
+    },
+    {
+      "id": "mkt:019f1d62-a558-7aab-8c55-e5510793b839",
+      "time": "2026-07-01 19:13:51",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "UK Prime Minister Starmer said any Labour prime minister would support defence spending plans."
+    },
+    {
+      "id": "4965087",
+      "time": "2026-07-01 19:13:43",
+      "tags": [
+        "其他"
+      ],
+      "text": "斯塔默：任何工黨首相都會支援國防開支計劃。"
+    },
+    {
+      "id": "4965086",
+      "time": "2026-07-01 19:13:09",
+      "tags": [
+        "公司"
+      ],
+      "text": "【惠康科技：子公司2800萬元競得土地用於製冷專案建設】惠康科技公告稱，公司全資子公司寧波智拓使用募集資金，以2800萬元競得寧波前灣新區65號區塊建設用地使用權，土地面積53319平方米，用途為工業用海，出讓年限50年。該地塊用於“前灣二號製冷裝置智慧製造生產基地建設專案”，專案總投資7.58億元。此次競地對專案推進有積極作用，不影響現有業務，但後續辦證及專案實施存在一定不確定性。"
+    },
     {
       "id": "te:economy:563420",
       "time": "2026-07-01 19:12:35",
@@ -470,6 +559,14 @@
         "其他"
       ],
       "text": "富時羅素（FactSet）重申2026財年指引，其中包括有機年度訂閱價值增長區間為1.3億至1.6億美元。"
+    },
+    {
+      "id": "4965053",
+      "time": "2026-07-01 19:00:38",
+      "tags": [
+        "市場"
+      ],
+      "text": "【世界黃金協會：黃金投資下半年或步入關鍵期】當地時間7月1日，總部位於英國倫敦的世界黃金協會發布《2026年全球黃金市場年中展望》報告。這份半年度報告預計，在經歷年初以來的寬幅波動後，黃金投資將在下半年步入關鍵期。金價表現將受到地緣政治、利率環境和投資者情緒等多重不確定性因素的共同影響。 今年1月下旬，金價超12次重新整理歷史峰值，倫敦現貨黃金價格一度觸及每盎司5405美元的紀錄高點，但此後於6月大幅回落，年初至今金價下跌約7%，平均波動率升至30%。儘管經歷了此番回撥，黃金仍是過去12個月表現最佳的資產之一。 有機構判斷，金價年內或將在4100美元/盎司附近交投，波動區間約為±5%。若地緣政治或經濟形勢惡化，或利率預期發生轉變，黃金有望重拾漲勢。根據歷史表現，若金價較當前水平下跌超過10%，則可能觸發多個地區長期投資者的“逢低買入”需求。 （央視財經）"
     },
     {
       "id": "mkt:019f1d56-40df-7aab-8c55-652509fc434a",
@@ -128505,184 +128602,6 @@
         "國際"
       ],
       "text": "【俄外長：不接受臨時或間歇性俄烏衝突解決方案】當地時間6月24日，俄羅斯外長拉夫羅夫表示，以政治和外交方式調解與烏克蘭相關局勢仍是可能的，但俄方不會接受臨時或間歇性的解決方案並拒絕任何最後通牒。（央視新聞）"
-    },
-    {
-      "id": "mkt:019ef959-bbb8-7dd8-b0f7-0062b50eea03",
-      "time": "2026-06-24 19:17:47",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Iran's central bank governor said implementation of US exemption measures and improved access to overseas assets will give him greater latitude to \"substantially increase foreign exchange supply\"."
-    },
-    {
-      "id": "4952635",
-      "time": "2026-06-24 19:17:36",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗中央銀行行長表示，在美國豁免以及伊朗對境外資產的可獲取性改善後，他擁有更大空間“大幅增加外匯供應”。"
-    },
-    {
-      "id": "4952634",
-      "time": "2026-06-24 19:17:27",
-      "tags": [
-        "國際"
-      ],
-      "text": "【美伊就伊核核查各執一詞，國際原子能機構回應】負責核查伊朗近武器級鈾庫存的國際核監督機構，對德黑蘭與美方隔夜釋放的矛盾表態不予置評，並表示機構預計將在未來某個階段恢復全面核監測。國際原子能機構總幹事拉斐爾・馬里亞諾・格羅西談及白宮釋出的核監測相關宣告遭伊朗反駁一事時稱：“雙方如今正在打口水仗。”週二華盛頓方面，美國總統唐納德・特朗普放出狠話：若伊朗拒絕國際原子能機構核查其核設施，美方將叫停和平談判。幾乎同一時間，伊朗外交部表態，短期內暫無計劃允許該聯合國機構的核查人員赴伊開展核查。"
-    },
-    {
-      "id": "te:economy:561520",
-      "time": "2026-06-24 19:16:59",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Brazil",
-        "Economic Optimism Index",
-        "Importance 1"
-      ],
-      "text": "Brazil's Consumer Confidence Remains Stable — Brazil's seasonally adjusted FGV-IBRE Consumer Confidence Index retreated 0.1 points to 88.7 in June 2026 from 88.8 in May. Sentiment remained relatively stable, although reflecting contrasting variations. Expectations for the future worsened, with the index falling 0.9 points to 90.4, while the perception of the current situation improved, advancing 0.9 points to 87, marking the third consecutive increase and the highest level since October 2014. Purchase intentions of durable goods (80 vs 83) and future financial situation (87.7 vs 89.4) suggest a more pessimistic sentiment, although the current financial situation confidence improved (79 vs 81.3). In contrast, future local economic expectations increased by 2.4 points to 105.3, while current perceptions fell by 0.4 points to 95.4. Across income groups, consumer confidence improved among lower-income households, while sentiment deteriorated among consumers earning R$4,800 or more."
-    },
-    {
-      "id": "mkt:019ef958-aad1-7dd8-b0f6-f97161bd7fbc",
-      "time": "2026-06-24 19:16:38",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Precious Metals"
-      ],
-      "text": "New York silver futures fell as much as 3.0% intraday to $60.21/oz."
-    },
-    {
-      "id": "4952633",
-      "time": "2026-06-24 19:16:29",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "現貨黃金失守4040美元/盎司，日內跌1.71%。"
-    },
-    {
-      "id": "mkt:019ef958-8a52-7dd8-b0f6-f16865e0ef73",
-      "time": "2026-06-24 19:16:29",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "WTI",
-        "DXY"
-      ],
-      "text": "IDF spokesperson said earlier today the military received reports of suspected Hamas activity at the Gaza-side Kerem Shalom crossing and deployed to the area. One unarmed suspect was arrested and handed to security forces for further interrogation."
-    },
-    {
-      "id": "te:markets:561519",
-      "time": "2026-06-24 19:16:00",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "commodity",
-        "Importance 0"
-      ],
-      "text": "Palladium Hits 39-week Low — Palladium decreased to 1199.00 USD/t.oz, the lowest since September 2025. Over the past 4 weeks, Palladium lost 14.76%, and in the last 12 months, it increased 12.03%."
-    },
-    {
-      "id": "4952632",
-      "time": "2026-06-24 19:15:54",
-      "tags": [
-        "其他"
-      ],
-      "text": "【財通福鑫定開混合(501046)二級市場出現極大幅度溢價 6月25日全天停牌】財通福鑫定開混合(501046)二級市場交易價格嚴重高於基金份額淨值，出現極大幅度溢價。特此提示投資者關注二級市場交易價格溢價風險，投資者如果盲目投資，可能遭受重大損失。為維護投資者利益，基金將於2026年6月25日全天停牌。"
-    },
-    {
-      "id": "4952631",
-      "time": "2026-06-24 19:15:54",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "現貨白銀失守60美元/盎司，日內跌2.47%。"
-    },
-    {
-      "id": "4952630",
-      "time": "2026-06-24 19:15:44",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "紐約期金失守4060美元/盎司，日內跌2.16%。"
-    },
-    {
-      "id": "4952629",
-      "time": "2026-06-24 19:15:41",
-      "tags": [
-        "市場"
-      ],
-      "text": "紐約期銀日內跌3%，現報60.62美元/盎司。"
-    },
-    {
-      "id": "4952628",
-      "time": "2026-06-24 19:15:24",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【*ST嶺南：股票收盤價低於1元 存在終止上市風險】*ST嶺南公告稱，公司股票於2026年6月24日收盤價為0.97元/股，低於1元。根據相關規定，若連續二十個交易日收盤價均低於1元，深交所將終止其股票上市交易，且不進入退市整理期。這是公司可能觸發面值退市的第一次終止上市風險提示公告。此外，公司還因主要銀行賬戶被凍結、財務指標虛假記載等情況被實施風險警示。公司董事會正積極採取措施改善經營，提醒投資者注意風險。"
-    },
-    {
-      "id": "4952627",
-      "time": "2026-06-24 19:14:44",
-      "tags": [
-        "其他"
-      ],
-      "text": "【盟友稱伯納姆將尋求財政規則“靈活性” 暗示其或偏離英國當前財政路線】英國下任首相熱門人選安迪·伯納姆的一位長期盟友表示，這位大曼徹斯特前市長將在政府的支出和借貸規則中尋求“靈活性”。這一表態暗示，伯納姆可能考慮偏離現任財政大臣蕾切爾·裡夫斯所堅持的路線。曾在伯納姆麾下擔任大曼徹斯特副市長的Richard Leese週三接受採訪時表示：“我認為，他可能會尋求在財政規則的適用方式上擁有更大靈活性，以確保我們能夠推動經濟增長。如果經濟無法增長，財政規則對政府施政能力造成的約束就會越來越大。”"
-    },
-    {
-      "id": "mkt:019ef956-cca8-7dd8-b0f6-e89d19ab651c",
-      "time": "2026-06-24 19:14:35",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "【Wuhan launches 1 bln yuan municipal AI sci‑tech fund】Wuhan has launched its first municipal-level AI science-and-technology innovation fund, the Wuhan Wuchuang Future Intelligent Venture Fund, with total capital of 1 billion yuan. Investors include Wuchuang Investment, Wuhan Fund and the Hubei Humanoid Robot Fund of Funds. The vehicle will target AI, humanoid robots and embodied intelligence, prioritizing financing for full humanoid robot systems, high-precision sensors, intelligent chips and other core tech R&D and industrialization projects."
-    },
-    {
-      "id": "te:economy:561517",
-      "time": "2026-06-24 19:14:24",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "United States",
-        "Mortgage Applications",
-        "Importance 1"
-      ],
-      "text": "US Mortgage Applications Inch Higher — Mortgage applications in the US inched higher by 1% in the third week of June following the 3.8% drop in the previous period, according to data compiled by the Mortgage Bankers Association. The slight uptick was aligned with a 1bps drop in the benchmark 30-year mortgage rate. The drop in oil prices on de-escalation between Iran and the US brought relief from a pro-inflationary outlook in the economy, but the outlook of a hawkish Federal Reserve following the last FOMC meeting prevented significant respite for long-term Treasury bonds. Applications to refinance an existing mortgage, which are more sensitive to short-term changes in interest rates, rose by 3%. Meanwhile, applications for a mortgage to purchase a home eased by less than 1%."
-    },
-    {
-      "id": "4952626",
-      "time": "2026-06-24 19:14:23",
-      "tags": [
-        "國際"
-      ],
-      "text": "幣安表示，儘管此前申請失敗，但仍將留在歐盟，並將再次嘗試申請加密貨幣牌照。"
-    },
-    {
-      "id": "4952625",
-      "time": "2026-06-24 19:13:57",
-      "tags": [
-        "市場"
-      ],
-      "text": "現貨白銀日內跌2%，現報60.25美元/盎司。"
-    },
-    {
-      "id": "mkt:019ef956-2cb9-7dd8-b0f6-e2ce8976ba02",
-      "time": "2026-06-24 19:13:54",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Precious Metals"
-      ],
-      "text": "Spot silver falls more than 2.0% intraday to $60.30/oz."
     }
   ]
 }
