@@ -1,7 +1,122 @@
 {
   "date": "2026-07-01",
-  "count": 1534,
+  "count": 1547,
   "items": [
+    {
+      "id": "mkt:019f1c7b-423f-7aab-8c4d-c8481b4ac2c9",
+      "time": "2026-07-01 15:01:07",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "At the midday close, China's main futures contracts were mostly lower. Container freight on the Europe route plunged more than 10%; methanol and ethylene glycol (EG) fell over 3%. Red dates, metallurgical coke, palladium, China's SC crude and platinum dropped more than 2%. On the upside, lithium carbonate gained over 4%, polysilicon nearly 2%, peanuts more than 1%, and pulp and coated paper nearly 1%."
+    },
+    {
+      "id": "mkt:019f1c7a-c452-7aab-8c4d-c7dce2ddb1c0",
+      "time": "2026-07-01 15:00:35",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "The Russian central bank said global oil prices will remain elevated in the near term and then gradually decline."
+    },
+    {
+      "id": "te:markets:563308",
+      "time": "2026-07-01 15:00:27",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "France",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "Air Liquide Stock Price Hits 4-week High — Air Liquide shares increased to 176.88 EUR, the highest since June 2026. Over the past 4 weeks, Air Liquide lost 2.33%, and in the last 12 months, it decreased 1.4%."
+    },
+    {
+      "id": "4964396",
+      "time": "2026-07-01 15:00:15",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "俄羅斯央行表示，進一步下調關鍵利率的空間已收窄。"
+    },
+    {
+      "id": "4964395",
+      "time": "2026-07-01 15:00:13",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "俄羅斯央行表示，全球油價短期內將維持高位，之後會逐步回落。"
+    },
+    {
+      "id": "4964394",
+      "time": "2026-07-01 15:00:11",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "俄羅斯央行表示，將在下次利率會議上考量燃料市場的動態及其次生影響。"
+    },
+    {
+      "id": "4964393",
+      "time": "2026-07-01 15:00:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "【商品期貨收盤】集運指數歐線期貨連續跌10.94%，碳酸鋰連續漲4.62%，甲醇連續跌3.41%，乙二醇連續跌3.32%，紅棗連續跌2.47%。"
+    },
+    {
+      "id": "4964392",
+      "time": "2026-07-01 15:00:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "歐股開盤普漲，德國DAX指數漲1.5%，英國富時100指數漲0.12%，法國CAC40指數漲0.44%，歐洲斯托克50指數漲1.55%，義大利富時MIB指數漲1.01%。"
+    },
+    {
+      "id": "4964391",
+      "time": "2026-07-01 15:00:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "【股指期貨午盤收盤】 中證1000指數期貨連續漲0.38%， 滬深300指數期貨連續跌0.38%， 中證500指數期貨連續跌0.55%， 上證50指數期貨連續漲0.13%。"
+    },
+    {
+      "id": "4964390",
+      "time": "2026-07-01 14:59:18",
+      "tags": [
+        "公司"
+      ],
+      "text": "【朱鶴新局長會見德意志銀行集團執行長克里斯蒂安•澤溫】2026年6月30日，中國人民銀行副行長、國家外匯管理局局長朱鶴新會見來訪的德意志銀行集團執行長克里斯蒂安·澤溫（Christian Sewing）。雙方就國際經濟金融形勢、全球市場投資機遇等議題進行了交流。國家外匯管理局副局長李斌陪同會見。（外匯局）"
+    },
+    {
+      "id": "4964389",
+      "time": "2026-07-01 14:59:16",
+      "tags": [
+        "其他"
+      ],
+      "text": "【十多家酒企原酒被拍賣，價格拍出“可樂價”】白酒行業的深度調整正在從下游渠道端向上遊生產端傳導。記者注意到，阿里拍賣等平臺上，白酒原酒、基酒司法拍賣案例不斷增長，成交價格持續走低，甚至賣出“可樂價”，白酒行業的分化與淘汰仍未見底。記者注意到，在京東和阿里等拍賣平臺上，近期原酒拍賣案例明顯增多。據不完全統計，2026年以來，已有十多家酒企的原酒被拍賣，但大多多次流拍，拍賣成功的成交價普遍低於評估價。今年5月，京東拍賣平臺上，安徽武子古釀酒業因破產拍賣旗下原酒，歷經五次流拍後，最終兩單原酒低價成交，單價摺合500克分別為3.9元和3.7元，與超市可樂價格相仿。（第一財經）"
+    },
+    {
+      "id": "4964388",
+      "time": "2026-07-01 14:57:39",
+      "tags": [
+        "國際"
+      ],
+      "text": "【韓國總統任命韓聖淑為新國務總理】韓國總統李在明7月1日任命韓聖淑為新任國務總理。韓國總統府青瓦臺說，李在明當天在青瓦臺為韓聖淑舉行了任命儀式，正式頒發任命狀。（新華社）"
+    },
+    {
+      "id": "4964387",
+      "time": "2026-07-01 14:57:13",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：扎盧日尼將參加秋季烏克蘭大選。"
+    },
     {
       "id": "4964386",
       "time": "2026-07-01 14:57:02",

@@ -1,7 +1,122 @@
 {
-  "updated": "2026-07-01 14:57:44",
-  "count": 13850,
+  "updated": "2026-07-01 15:02:36",
+  "count": 13826,
   "items": [
+    {
+      "id": "mkt:019f1c7b-423f-7aab-8c4d-c8481b4ac2c9",
+      "time": "2026-07-01 15:01:07",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "At the midday close, China's main futures contracts were mostly lower. Container freight on the Europe route plunged more than 10%; methanol and ethylene glycol (EG) fell over 3%. Red dates, metallurgical coke, palladium, China's SC crude and platinum dropped more than 2%. On the upside, lithium carbonate gained over 4%, polysilicon nearly 2%, peanuts more than 1%, and pulp and coated paper nearly 1%."
+    },
+    {
+      "id": "mkt:019f1c7a-c452-7aab-8c4d-c7dce2ddb1c0",
+      "time": "2026-07-01 15:00:35",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "The Russian central bank said global oil prices will remain elevated in the near term and then gradually decline."
+    },
+    {
+      "id": "te:markets:563308",
+      "time": "2026-07-01 15:00:27",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "France",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "Air Liquide Stock Price Hits 4-week High — Air Liquide shares increased to 176.88 EUR, the highest since June 2026. Over the past 4 weeks, Air Liquide lost 2.33%, and in the last 12 months, it decreased 1.4%."
+    },
+    {
+      "id": "4964396",
+      "time": "2026-07-01 15:00:15",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "俄羅斯央行表示，進一步下調關鍵利率的空間已收窄。"
+    },
+    {
+      "id": "4964395",
+      "time": "2026-07-01 15:00:13",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "俄羅斯央行表示，全球油價短期內將維持高位，之後會逐步回落。"
+    },
+    {
+      "id": "4964394",
+      "time": "2026-07-01 15:00:11",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "俄羅斯央行表示，將在下次利率會議上考量燃料市場的動態及其次生影響。"
+    },
+    {
+      "id": "4964393",
+      "time": "2026-07-01 15:00:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "【商品期貨收盤】集運指數歐線期貨連續跌10.94%，碳酸鋰連續漲4.62%，甲醇連續跌3.41%，乙二醇連續跌3.32%，紅棗連續跌2.47%。"
+    },
+    {
+      "id": "4964392",
+      "time": "2026-07-01 15:00:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "歐股開盤普漲，德國DAX指數漲1.5%，英國富時100指數漲0.12%，法國CAC40指數漲0.44%，歐洲斯托克50指數漲1.55%，義大利富時MIB指數漲1.01%。"
+    },
+    {
+      "id": "4964391",
+      "time": "2026-07-01 15:00:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "【股指期貨午盤收盤】 中證1000指數期貨連續漲0.38%， 滬深300指數期貨連續跌0.38%， 中證500指數期貨連續跌0.55%， 上證50指數期貨連續漲0.13%。"
+    },
+    {
+      "id": "4964390",
+      "time": "2026-07-01 14:59:18",
+      "tags": [
+        "公司"
+      ],
+      "text": "【朱鶴新局長會見德意志銀行集團執行長克里斯蒂安•澤溫】2026年6月30日，中國人民銀行副行長、國家外匯管理局局長朱鶴新會見來訪的德意志銀行集團執行長克里斯蒂安·澤溫（Christian Sewing）。雙方就國際經濟金融形勢、全球市場投資機遇等議題進行了交流。國家外匯管理局副局長李斌陪同會見。（外匯局）"
+    },
+    {
+      "id": "4964389",
+      "time": "2026-07-01 14:59:16",
+      "tags": [
+        "其他"
+      ],
+      "text": "【十多家酒企原酒被拍賣，價格拍出“可樂價”】白酒行業的深度調整正在從下游渠道端向上遊生產端傳導。記者注意到，阿里拍賣等平臺上，白酒原酒、基酒司法拍賣案例不斷增長，成交價格持續走低，甚至賣出“可樂價”，白酒行業的分化與淘汰仍未見底。記者注意到，在京東和阿里等拍賣平臺上，近期原酒拍賣案例明顯增多。據不完全統計，2026年以來，已有十多家酒企的原酒被拍賣，但大多多次流拍，拍賣成功的成交價普遍低於評估價。今年5月，京東拍賣平臺上，安徽武子古釀酒業因破產拍賣旗下原酒，歷經五次流拍後，最終兩單原酒低價成交，單價摺合500克分別為3.9元和3.7元，與超市可樂價格相仿。（第一財經）"
+    },
+    {
+      "id": "4964388",
+      "time": "2026-07-01 14:57:39",
+      "tags": [
+        "國際"
+      ],
+      "text": "【韓國總統任命韓聖淑為新國務總理】韓國總統李在明7月1日任命韓聖淑為新任國務總理。韓國總統府青瓦臺說，李在明當天在青瓦臺為韓聖淑舉行了任命儀式，正式頒發任命狀。（新華社）"
+    },
+    {
+      "id": "4964387",
+      "time": "2026-07-01 14:57:13",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：扎盧日尼將參加秋季烏克蘭大選。"
+    },
     {
       "id": "4964386",
       "time": "2026-07-01 14:57:02",
@@ -127070,364 +127185,6 @@
         "AMZN.O"
       ],
       "text": "Nokia (NOK.N) expands partnership with Amazon Web Services to launch autonomous networks designed for the AI era."
-    },
-    {
-      "id": "4951997",
-      "time": "2026-06-24 15:02:35",
-      "tags": [
-        "國際"
-      ],
-      "text": "【阿曼在霍爾木茲海峽開闢臨時航道】阿曼媒體23日報道，阿曼已經在霍爾木茲海峽開闢一條臨時航道供船隻通行。阿曼通訊社在報道中說，阿曼在與國際海事組織協調下開闢這條臨時航道，此舉符合美國與伊朗日前達成的諒解備忘錄，阿曼致力於確保船隻“在這一戰略水道自由航行且不徵收通行費”。（新華社）"
-    },
-    {
-      "id": "mkt:019ef870-0131-7dd8-b0ef-7a1bf48ab8e1",
-      "time": "2026-06-24 15:02:30",
-      "tags": [
-        "MKT News",
-        "DXY",
-        "Impact bullish",
-        "US10Y",
-        "Impact bearish",
-        "WTI"
-      ],
-      "text": "BOT says inf is expected to rise on supply-side factors; if those supply pressures gradually ease, inf would decline."
-    },
-    {
-      "id": "mkt:019ef86f-ea1a-7dd8-b0ef-77466173f40f",
-      "time": "2026-06-24 15:02:24",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "CSI300",
-        "Impact bullish",
-        "SSE Composite"
-      ],
-      "text": "On Wednesday, June 24, China’s Shanghai Composite Index closed up 4.56 points (+0.11%) at 4,110.81; Shenzhen Composite Index closed up 197.12 points (+1.24%) at 16,051.32; CSI 300 Index closed up 23.63 points (+0.48%) at 4,943.02; ChiNext Index closed up 59.23 points (+1.41%) at 4,251.42; SSE Sci-Tech Innovation 50 Index closed up 73.22 points (+3.82%) at 1,989.43."
-    },
-    {
-      "id": "4951996",
-      "time": "2026-06-24 15:02:23",
-      "tags": [
-        "央行",
-        "市場",
-        "國際"
-      ],
-      "text": "泰國基準股票指數<.SETI>在央行維持利率不變後基本持平，最新上漲0.6%，報1550.61點。"
-    },
-    {
-      "id": "mkt:019ef86f-d9b2-7dd8-b0ef-6f9a4dbb1d6f",
-      "time": "2026-06-24 15:02:20",
-      "tags": [
-        "MKT News",
-        "DXY",
-        "Impact bullish",
-        "USDJPY",
-        "EURUSD",
-        "Impact bearish"
-      ],
-      "text": "BOT said the Thai baht had weakened somewhat as the US dollar strengthened."
-    },
-    {
-      "id": "mkt:019ef86f-ba89-7dd8-b0ef-6186fe100401",
-      "time": "2026-06-24 15:02:12",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "BOT says Thailand's economic growth is expected to be stronger than previously assessed, but the pace remains subdued."
-    },
-    {
-      "id": "4951995",
-      "time": "2026-06-24 15:02:06",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "泰國央行：隨著供給端壓力逐步緩解，通脹隨後將會回落。"
-    },
-    {
-      "id": "4951994",
-      "time": "2026-06-24 15:02:04",
-      "tags": [
-        "國際"
-      ],
-      "text": "【歐洲多地高溫 法國空調電扇熱銷】歐洲多地連日來持續高溫，多地打破高溫紀錄。在這一情況較為突出的法國，空調、電扇等納涼產品銷量激增。據法新社23日報道，當天法國的平均氣溫達到29.8攝氏度，創下1947年有相關記錄以來的最高水平。22日該國的平均氣溫達到29.2攝氏度。（新華社）"
-    },
-    {
-      "id": "mkt:019ef86f-9475-7dd8-b0ef-5ee98243c165",
-      "time": "2026-06-24 15:02:02",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK",
-        "DAX",
-        "Impact bearish",
-        "FTSE100",
-        "Impact bullish"
-      ],
-      "text": "European equities opened mixed on June 24: Germany's DAX fell 122.39 points (-0.49%) to 24,814.64; the FTSE 100 rose 2.86 points (+0.03%) to 10,431.71; France's CAC 40 gained 20.66 points (+0.25%) to 8,361.37; the Euro Stoxx 50 slipped 0.80 points (-0.01%) to 6,229.75; Spain's IBEX 35 added 3.29 points (+0.02%) to 19,479.79; Italy's FTSE MIB dropped 39.91 points (-0.08%) to 51,984.50."
-    },
-    {
-      "id": "mkt:019ef86f-93d3-7dd8-b0ef-562c54d2d526",
-      "time": "2026-06-24 15:02:02",
-      "tags": [
-        "MKT News",
-        "Macro & Rates"
-      ],
-      "text": "BOT expects 2026 overall inflation at 2.8%, down from a 3.0% forecast in June."
-    },
-    {
-      "id": "4951993",
-      "time": "2026-06-24 15:01:45",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【收評：科創50指數漲3.82%重新整理歷史高位，半導體、PCB等科技成長股再度爆發】A股三大指數今日集體上漲，截至收盤，上證指數漲0.11%，深證成指漲1.24%，創業板指漲1.41%，北證50漲1.15%，科創50指數漲3.82%。全市場成交額33069億元，較上日成交額縮量1591億元，全市場超4000只個股下跌。板塊題材上，能源金屬、儲存晶片、半導體、CPO、PCB概念、氟化工、化學纖維、液冷伺服器板塊漲幅居前；影視院線、糧食概念、旅遊及酒店、豬肉、煤炭開採加工、教育、燃氣、乳業、房地產板塊跌幅居前。盤面上，半導體、PCB、CPO等算力硬體股經歷昨日調整後再度集體爆發，長電科技、電科晶片、匯成股份等多股漲停，華虹宏力、中芯國際、國際復材、中富電路漲幅領漲。鋰礦板塊盤中拉昇，永杉鋰業、盛新鋰能、融捷股份收穫漲停，伯恩斯坦預計，2027年鋰價可能達到每噸32500美元。氟化工板塊同樣表現出色，永和股份、興發集團封板，巨化股份、東陽光、多氟多跟漲。此外，液冷伺服器、光學、培育鑽石午後均有走高。另一方面，影視院線板塊大幅下挫，中國電影跌停，北京文化、幸福藍海跌幅居前。豬肉、糧食板塊同樣表現不佳，北大荒封死跌停，正虹科技、天域生物、大禹生物紛紛下挫。"
-    },
-    {
-      "id": "4951992",
-      "time": "2026-06-24 15:01:41",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "泰國央行：通脹預計將因供給側因素上行。"
-    },
-    {
-      "id": "mkt:019ef86f-4096-7dd8-b0ef-4f580900cc5b",
-      "time": "2026-06-24 15:01:41",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Bank of Thailand (BOT) expects 2026 GDP growth of 2.3% (June forecast 2.0%) and 2027 growth of 1.8% (June forecast 1.7%)."
-    },
-    {
-      "id": "4951991",
-      "time": "2026-06-24 15:01:38",
-      "tags": [
-        "其他"
-      ],
-      "text": "亞塞拜然中央銀行維持關鍵利率在6.5%不變。"
-    },
-    {
-      "id": "4951990",
-      "time": "2026-06-24 15:01:26",
-      "tags": [
-        "市場"
-      ],
-      "text": "【ETF收評：晶片ETF領漲6.48%，碳中和ETF領跌6.55%】ETF收盤漲跌不一，晶片ETF（159310）領漲6.48%，半導體ETF（159325）漲6.33%，晶片ETF（516350）漲6.08%，碳中和ETF（159642）領跌6.55%，金融科技ETF（159299）跌3.8%，金融科技ETF（159851）跌3.65%。"
-    },
-    {
-      "id": "mkt:019ef86f-0417-7dd8-b0ef-46d9fbe30bd2",
-      "time": "2026-06-24 15:01:25",
-      "tags": [
-        "MKT News",
-        "CSI300",
-        "Impact bullish"
-      ],
-      "text": "【Equity index futures midday close】At midday, equity index futures main contracts: CSI 300 (IF) +0.40%, SSE 50 (IH) +0.42%, CSI 500 (IC) +1.97%, CSI 1000 (IM) +1.09%."
-    },
-    {
-      "id": "mkt:019ef86e-ce1e-7dd8-b0ef-38c745713104",
-      "time": "2026-06-24 15:01:11",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Precious Metals",
-        "Industrial Metals",
-        "Energy",
-        "Market Regions",
-        "Greater China",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "At the midday close, China’s main futures contracts were mixed: SHFE silver fell about 4%; propylene, SHFE tin, SHFE nickel and benzene declined over 3%; styrene (EB), SC crude oil, ethylene glycol and polypropylene fell around 3%. On the upside, lithium carbonate rose about 4%; eggs gained over 2%; rapeseed meal, container freight (Europe route), live hogs and polysilicon climbed more than 1%."
-    },
-    {
-      "id": "4951989",
-      "time": "2026-06-24 15:01:01",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "A股收盤，上證指數漲0.11%，深證成指漲1.24%，創業板指漲1.41%。"
-    },
-    {
-      "id": "mkt:019ef86e-94b2-7dd8-b0ef-36ca1ab5e3ac",
-      "time": "2026-06-24 15:00:56",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK",
-        "DAX",
-        "Impact bearish",
-        "FTSE100",
-        "Impact bullish"
-      ],
-      "text": "Major European equity indices were mixed: Euro Stoxx 50 and France's CAC 40 rose 0.1%, Germany's DAX fell 0.46%, and the UK's FTSE 100 gained about 0.1%."
-    },
-    {
-      "id": "4951988",
-      "time": "2026-06-24 15:00:51",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "泰國央行：泰國經濟擴張預計將強於此前評估，但增速仍處於低位。"
-    },
-    {
-      "id": "4951987",
-      "time": "2026-06-24 15:00:39",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "泰國央行：預計2026年整體通脹率為2.8%，6月初預期為3.0%。"
-    },
-    {
-      "id": "4951986",
-      "time": "2026-06-24 15:00:31",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "泰國央行：預計2027年國內生產總值增長率為1.8%，6月初的預期為1.7%。"
-    },
-    {
-      "id": "4951985",
-      "time": "2026-06-24 15:00:27",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "泰國央行：利率維持決議獲得全票透過。"
-    },
-    {
-      "id": "te:markets:561399",
-      "time": "2026-06-24 15:00:22",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Belgium",
-        "stocks",
-        "Importance 0"
-      ],
-      "text": "Anheuser-Busch Stock Price Hits 6-1/2-year High — Anheuser-Busch shares increased to 73.10 EUR, the highest since January 2020. Over the past 4 weeks, Anheuser-Busch lost 0.11%, and in the last 12 months, it increased 18.17%."
-    },
-    {
-      "id": "4951984",
-      "time": "2026-06-24 15:00:21",
-      "tags": [
-        "國際"
-      ],
-      "text": "歐洲航空安全域性：緊急指令將於6月24日生效，要求對翼梁進行檢查。"
-    },
-    {
-      "id": "mkt:019ef86d-e741-7dd8-b0ef-2c4a2330186f",
-      "time": "2026-06-24 15:00:12",
-      "tags": [
-        "MKT News",
-        "Macro & Rates"
-      ],
-      "text": "BOT kept its policy rate unchanged at 1%, in line with market expectations."
-    },
-    {
-      "id": "mkt:019ef86d-deb3-7dd8-b0ef-2004e98d2ff7",
-      "time": "2026-06-24 15:00:10",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Thailand central bank left its policy rate at 1.00% on June 24, in line with expectations and the prior 1.00% level."
-    },
-    {
-      "id": "4951983",
-      "time": "2026-06-24 15:00:08",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "泰國至6月24日央行利率決定 1%，預期1.00%，前值1.00%。"
-    },
-    {
-      "id": "4951982",
-      "time": "2026-06-24 15:00:03",
-      "tags": [
-        "市場"
-      ],
-      "text": "【股指期貨午盤收盤】 中證1000指數期貨連續漲1.10%， 滬深300指數期貨連續漲0.40%， 中證500指數期貨連續漲1.98%， 上證50指數期貨連續漲0.42%。"
-    },
-    {
-      "id": "4951981",
-      "time": "2026-06-24 15:00:03",
-      "tags": [
-        "市場"
-      ],
-      "text": "【商品期貨收盤】碳酸鋰連續漲3.90%，白銀連續跌3.87%，丙烯連續跌3.65%，錫連續跌3.50%，純苯連續跌3.43%。"
-    },
-    {
-      "id": "4951980",
-      "time": "2026-06-24 15:00:03",
-      "tags": [
-        "市場"
-      ],
-      "text": "歐股開盤普跌，德國DAX指數跌0.98%，英國富時100指數跌0.09%，法國CAC40指數跌0.71%，歐洲斯托克50指數跌1.28%，義大利富時MIB指數跌1.46%。"
-    },
-    {
-      "id": "mkt:019ef86d-bc1d-7dd8-b0ef-1e6edb377e38",
-      "time": "2026-06-24 15:00:01",
-      "tags": [
-        "MKT News",
-        "Economic Calendar"
-      ],
-      "text": "Thailand | Benchmark Rate (Jun.24) | actual 1% | consensus 1.00% | previous 1.00%"
-    },
-    {
-      "id": "4951979",
-      "time": "2026-06-24 15:00:00",
-      "tags": [
-        "國際"
-      ],
-      "text": "歐盟航空安全域性（EASA）：針對16架空客A380飛機發布緊急適航指令。"
-    },
-    {
-      "id": "4951978",
-      "time": "2026-06-24 14:59:43",
-      "tags": [
-        "其他"
-      ],
-      "text": "市場訊息：領益智造透過在香港上市籌集了11億美元。"
-    },
-    {
-      "id": "mkt:019ef86d-4969-7dd8-b0ef-13f8a06324ef",
-      "time": "2026-06-24 14:59:32",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "Hang Seng Index",
-        "Impact bullish",
-        "CSI300"
-      ],
-      "text": "【Ernst & Young: A-share and Hong Kong IPOs accounted for about one-third of global deal count in 1H 2026】Ernst & Young said at a June 24 briefing that in 1H 2026 A-share and Hong Kong IPOs made up 33% of global IPO count and 22% of global proceeds. A-share listings were expected to total 81 in 1H, raising 105.7 bln yuan."
-    },
-    {
-      "id": "4951977",
-      "time": "2026-06-24 14:58:17",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：克里姆林宮發言人佩斯科夫未宣佈俄羅斯總統普京是否會就美國獨立日向特朗普表示祝賀。"
-    },
-    {
-      "id": "mkt:019ef86b-d9dd-7dd8-b0ef-0c40831fbfb8",
-      "time": "2026-06-24 14:57:58",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Kremlin spokesman Peskov did not announce whether President Putin will congratulate Trump on US Independence Day."
     }
   ]
 }
