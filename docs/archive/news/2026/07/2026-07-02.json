@@ -1,7 +1,34 @@
 {
   "date": "2026-07-02",
-  "count": 49,
+  "count": 51,
   "items": [
+    {
+      "id": "mkt:019f1e82-e97c-7aab-8c63-51f61ab99c34",
+      "time": "2026-07-02 00:28:43",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "GBPUSD",
+        "Impact bullish",
+        "EURUSD",
+        "Impact bearish"
+      ],
+      "text": "EUR/GBP down >0.50% intraday at 0.8568."
+    },
+    {
+      "id": "mkt:019f1e82-db1d-7aab-8c63-4c346303c7bc",
+      "time": "2026-07-02 00:28:39",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact mixed",
+        "Brent"
+      ],
+      "text": "U.S. officials say roughly 10 million barrels of oil transit the Strait of Hormuz, a volume the U.S. assesses could weaken Iran’s oil influence."
+    },
     {
       "id": "4965788",
       "time": "2026-07-02 00:25:08",

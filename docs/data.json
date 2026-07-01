@@ -1,7 +1,34 @@
 {
-  "updated": "2026-07-02 00:25:59",
-  "count": 14249,
+  "updated": "2026-07-02 00:30:06",
+  "count": 14246,
   "items": [
+    {
+      "id": "mkt:019f1e82-e97c-7aab-8c63-51f61ab99c34",
+      "time": "2026-07-02 00:28:43",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "GBPUSD",
+        "Impact bullish",
+        "EURUSD",
+        "Impact bearish"
+      ],
+      "text": "EUR/GBP down >0.50% intraday at 0.8568."
+    },
+    {
+      "id": "mkt:019f1e82-db1d-7aab-8c63-4c346303c7bc",
+      "time": "2026-07-02 00:28:39",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact mixed",
+        "Brent"
+      ],
+      "text": "U.S. officials say roughly 10 million barrels of oil transit the Strait of Hormuz, a volume the U.S. assesses could weaken Iran’s oil influence."
+    },
     {
       "id": "4965788",
       "time": "2026-07-02 00:25:08",
@@ -131361,48 +131388,6 @@
         "公司"
       ],
       "text": "阿聯酋阿布扎比國家石油公司（ADNOC）將7月穆爾班原油官方售價定在每桶101.48美元。"
-    },
-    {
-      "id": "4953196",
-      "time": "2026-06-25 00:28:33",
-      "tags": [
-        "其他"
-      ],
-      "text": "本田、日產、三菱就下一代汽車電子控制單元標準化進入最終談判階段。"
-    },
-    {
-      "id": "mkt:019efa75-f6e9-7dd8-b0ff-d61ecf9ee1ac",
-      "time": "2026-06-25 00:28:15",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC"
-      ],
-      "text": "Nikkei reports Honda, Nissan and Mitsubishi plan to standardize next-generation components to reduce costs."
-    },
-    {
-      "id": "mkt:019efa75-777d-7dd8-b0ff-cdb4d7a404cb",
-      "time": "2026-06-25 00:27:42",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Iran Foreign Ministry spokesman BAGHAEI said ending US interference and occupation is the only way to secure genuine peace in West Asia."
-    },
-    {
-      "id": "4953195",
-      "time": "2026-06-25 00:27:24",
-      "tags": [
-        "國際"
-      ],
-      "text": "官方資料顯示，俄羅斯5月石油產品與焦炭產量同比下降13.5%。"
-    },
-    {
-      "id": "4953194",
-      "time": "2026-06-25 00:26:11",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國國務卿魯比奧：我沒有感受到（中東地區盟友）各方對我方安全保障存在任何疑慮，因為這些保障是實打實的。"
     }
   ]
 }
