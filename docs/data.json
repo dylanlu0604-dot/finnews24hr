@@ -1,7 +1,29 @@
 {
-  "updated": "2026-07-02 05:16:40",
-  "count": 14032,
+  "updated": "2026-07-02 05:20:36",
+  "count": 14029,
   "items": [
+    {
+      "id": "mkt:019f1f8b-6299-7aab-8c66-7b74afb289dd",
+      "time": "2026-07-02 05:17:36",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Apple",
+        "Market Themes",
+        "Magnificent 7",
+        "AAPL.O"
+      ],
+      "text": "【Apple plans new iPad Pro and redesigned entry-level MacBook Pro for 2027】US tech reporter Mark Gurman reported Apple is planning upgraded iPad Pro models and a redesigned entry-level MacBook Pro for 2027. Apple is testing four iPad Pro models targeted for spring 2027; sizes will remain 11-inch and 13-inch. Upgrades are focused on internal changes, including faster chips. Apple has tested vapor-chamber heat-spread (VC liquid cooling) for iPads to improve sustained performance and reduce overheating. Separately, Apple plans a redesigned entry-level 14-inch MacBook Pro, codename K104, due in 1H 2027; its design will align with an upcoming high-end touch-screen MacBook expected late this year to early next year."
+    },
+    {
+      "id": "4965947",
+      "time": "2026-07-02 05:17:00",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "以色列定居者突襲約旦河西岸佔領區多個城鎮的民居與土地。"
+    },
     {
       "id": "4965946",
       "time": "2026-07-02 05:15:20",
@@ -129190,55 +129212,6 @@
         "國際"
       ],
       "text": "北約秘書長呂特：與特朗普的會談十分順利。"
-    },
-    {
-      "id": "mkt:019efb81-9cc6-7dd8-b105-c8d8206c34a6",
-      "time": "2026-06-25 05:20:35",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Wall Street (US)",
-        "JPM.O",
-        "Impact bullish",
-        "GS.O",
-        "MS.O"
-      ],
-      "text": "【US big banks raise dividends after Fed stress tests; JP Morgan launches $50bn buyback】US large banks raised dividends after passing the Federal Reserve's annual stress tests, following gradual regulatory adjustments that have eased the test hurdle. JP Morgan raised its quarterly dividend to $1.65 from $1.50 and approved a $50 billion share buyback effective July 1. Wells Fargo raised its dividend to $0.50 from $0.45. Morgan Stanley raised its dividend to $1.15 from $1.00. Goldman Sachs raised its dividend to $5.00 from $4.50."
-    },
-    {
-      "id": "4953539",
-      "time": "2026-06-25 05:18:13",
-      "tags": [
-        "其他"
-      ],
-      "text": "市場訊息：貝恩資本即將達成交易，收購大眾旗下 Everllence 部分股權。"
-    },
-    {
-      "id": "4953538",
-      "time": "2026-06-25 05:17:52",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "標普道瓊斯指數公司：Netstreit 公司將於 6 月 29 日開盤前替換 ProAssurance 公司，納入標普小盤 600 指數。"
-    },
-    {
-      "id": "mkt:019efb7e-ef9b-7dd8-b105-c5033b9cbaae",
-      "time": "2026-06-25 05:17:40",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK"
-      ],
-      "text": "【Trump on potential UK PM Burnham: not familiar, 'extremely liberal'】US President Trump dismissed Andy Burnham, saying he was unfamiliar with the former Greater Manchester mayor and had 'only heard' he is 'extremely liberal.' Trump added he thought Burnham 'may not develop North Sea resources.' Burnham is reportedly likely to be the sole nominee to replace Keir Starmer as Labour leader and could become UK prime minister by mid-July. The comments also lay groundwork for possible future tensions between the two leaders."
-    },
-    {
-      "id": "mkt:019efb7e-0706-7dd8-b105-bc959d60c40b",
-      "time": "2026-06-25 05:16:40",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Pakistan counterterrorism unit says it killed six terrorists】Pakistan's Khyber Pakhtunkhwa counterterrorism department said on the 24th that a joint operation with police killed six terrorists. The department said the group had earlier attacked a local police post, killing one officer."
     }
   ]
 }

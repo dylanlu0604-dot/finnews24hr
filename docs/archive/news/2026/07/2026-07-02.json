@@ -1,7 +1,29 @@
 {
   "date": "2026-07-02",
-  "count": 316,
+  "count": 318,
   "items": [
+    {
+      "id": "mkt:019f1f8b-6299-7aab-8c66-7b74afb289dd",
+      "time": "2026-07-02 05:17:36",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Apple",
+        "Market Themes",
+        "Magnificent 7",
+        "AAPL.O"
+      ],
+      "text": "【Apple plans new iPad Pro and redesigned entry-level MacBook Pro for 2027】US tech reporter Mark Gurman reported Apple is planning upgraded iPad Pro models and a redesigned entry-level MacBook Pro for 2027. Apple is testing four iPad Pro models targeted for spring 2027; sizes will remain 11-inch and 13-inch. Upgrades are focused on internal changes, including faster chips. Apple has tested vapor-chamber heat-spread (VC liquid cooling) for iPads to improve sustained performance and reduce overheating. Separately, Apple plans a redesigned entry-level 14-inch MacBook Pro, codename K104, due in 1H 2027; its design will align with an upcoming high-end touch-screen MacBook expected late this year to early next year."
+    },
+    {
+      "id": "4965947",
+      "time": "2026-07-02 05:17:00",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "以色列定居者突襲約旦河西岸佔領區多個城鎮的民居與土地。"
+    },
     {
       "id": "4965946",
       "time": "2026-07-02 05:15:20",
