@@ -1,7 +1,33 @@
 {
-  "updated": "2026-07-02 03:58:36",
-  "count": 14106,
+  "updated": "2026-07-02 04:02:26",
+  "count": 14102,
   "items": [
+    {
+      "id": "4965896",
+      "time": "2026-07-02 04:01:14",
+      "tags": [
+        "市場"
+      ],
+      "text": "卡特彼勒股價收盤下跌6.9%，創2025年4月以來最大跌幅。"
+    },
+    {
+      "id": "4965895",
+      "time": "2026-07-02 04:00:48",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【美股收盤：三大股指集體收跌】道指跌0.02%，標普500指數跌0.21%，納指跌0.64%。康寧跌13.55%，科磊跌11.78%，泰瑞達跌11.70%，閃迪跌10.50%，美光跌10.47%。“七姐妹”方面：Meta Platforms漲8.82%，微軟漲3.01%，蘋果漲1.77%，亞馬遜漲1.43%，谷歌漲1.34%，特斯拉漲1.16%，英偉達跌1.17%。"
+    },
+    {
+      "id": "4965894",
+      "time": "2026-07-02 04:00:02",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【納斯達克中國金龍指數收漲2.93%】金生遊樂漲17.46%，新氧漲14.53%，世紀互聯漲9.76%，逸仙電商漲9.15%，陸金所控股漲7.95%。"
+    },
     {
       "id": "mkt:019f1f41-7484-7aab-8c65-ecc145e96896",
       "time": "2026-07-02 03:56:51",
@@ -129910,89 +129936,6 @@
         "Impact bullish"
       ],
       "text": "U.S.-listed shares of Micron Technology (MU.O) rose more than 2% in after-hours trading."
-    },
-    {
-      "id": "mkt:019efb39-c19e-7dd8-b103-da4afb519287",
-      "time": "2026-06-25 04:02:06",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Themes",
-        "Chip Wars",
-        "MU.O",
-        "Impact bullish"
-      ],
-      "text": "Micron Technology (MU.O) reported fiscal 2026 Q3 revenue of $41.456 bln, versus market expectation of $35.423 bln and $9.301 bln in the year-ago quarter."
-    },
-    {
-      "id": "mkt:019efb39-3497-7dd8-b103-d4ae6390fc13",
-      "time": "2026-06-25 04:01:30",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "S&P500",
-        "Impact bullish",
-        "Dow"
-      ],
-      "text": "Federal Reserve says banks included in its stress test would absorb more than $700bn of losses under the hypothetical scenario; capital falls only 1.6% and remains above minimum regulatory requirements."
-    },
-    {
-      "id": "mkt:019efb39-0594-7dd8-b103-ccb09c96486b",
-      "time": "2026-06-25 04:01:18",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Star Stocks",
-        "Microsoft",
-        "Alibaba",
-        "Market Themes",
-        "Magnificent 7",
-        "BABA.N",
-        "Impact bearish",
-        "MSFT.O",
-        "ORCL.N"
-      ],
-      "text": "【US close: major indexes mixed; Nasdaq Golden Dragon China Index down 1.7%】US stocks closed mixed on Wednesday: Dow Jones Industrial Average +0.36%, S&P 500 -0.09%, Nasdaq Composite -0.40%. Notable movers: SpaceX (SPCX.O) -1.0%, Microsoft (MSFT.O) -2.0%, Oracle (ORCL.N) -4.5%. The Nasdaq Golden Dragon China Index fell 1.77%; Alibaba (BABA.N) down about 3%, Bilibili (BILI.O) up over 3%."
-    },
-    {
-      "id": "4953425",
-      "time": "2026-06-25 04:01:16",
-      "tags": [
-        "公司",
-        "其他",
-        "焦點",
-        "國際"
-      ],
-      "text": "美光科技第三財季調整後營收414.6億美元，分析師預期356.9億美元。\n第三財季核心資料中心營收115.2億美元，分析師預期68億美元。\n第三財季雲端儲存營收137.7億美元，分析師預期106.9億美元。\n第三財季移動與客戶營收115.2億美元，分析師預期97.3億美元。\n第三財季調整後每股收益（EPS）為25.11美元，分析師預期20.49美元。\n第三財季調整後運營利潤336.8億美元，分析師預期278.6億美元。\n第三財季調整後毛利潤率84.9%，分析師預期81.9%。\n預計第四財季調整後營收490億-510億美元，分析師預期432.4億美元。\n預計第四財季調整後EPS為30-32美元，分析師預期25.31美元。"
-    },
-    {
-      "id": "4953424",
-      "time": "2026-06-25 04:00:48",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "【美股收盤：三大股指集體漲跌不一】道指漲0.36%，標普500指數跌0.10%，納指跌0.46%。Strategy跌9.22%，阿波羅全球管理跌6.18%，黑石跌5.88%，羅賓漢跌5.83%，Builders FirstSource漲11.20%，Iqvia Holdings Inc.漲8.35%，查爾斯河實驗室漲8.30%。“七姐妹”方面：亞馬遜漲0.09%，谷歌跌0.40%，蘋果跌0.45%，英偉達跌0.54%，Meta Platforms跌0.79%，特斯拉跌1.64%，微軟跌2.33%。"
-    },
-    {
-      "id": "4953423",
-      "time": "2026-06-25 04:00:13",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "銀行透過美聯儲壓力測試，為股東分紅鋪平道路。"
-    },
-    {
-      "id": "4953422",
-      "time": "2026-06-25 04:00:02",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "【納斯達克中國金龍指數收跌1.81%】金生遊樂跌14.84%，盛豐物流跌13.85%，海天網路跌9.77%，Tims中國跌9.38%，網易有道跌9.25%。"
     }
   ]
 }
