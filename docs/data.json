@@ -1,7 +1,117 @@
 {
-  "updated": "2026-07-01 12:50:06",
-  "count": 13928,
+  "updated": "2026-07-01 12:54:43",
+  "count": 13931,
   "items": [
+    {
+      "id": "mkt:019f1c06-b04f-7aab-8c4b-6fd52a5e10c8",
+      "time": "2026-07-01 12:53:48",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "Nikkei 225",
+        "Impact bullish",
+        "USDJPY",
+        "Impact bearish"
+      ],
+      "text": "【JEITA: Japanese electronic components shipments rise; capacitor shipments hit monthly record】JEITA released data on June 30 showing April 2026 shipments of passive components by Japanese manufacturers totaled ¥231.4 bln, up 18% YoY. Strong demand for passive components drove consecutive monthly increases, with capacitor shipments reaching a single-month record."
+    },
+    {
+      "id": "mkt:019f1c05-cf2a-7aab-8c4b-637976f1e7b2",
+      "time": "2026-07-01 12:52:50",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Alibaba",
+        "Xiaomi"
+      ],
+      "text": "【AliExpress publishes first 618 China-brand overseas sales rankings】July 1 — Alibaba’s cross-border platform AliExpress published, for the first time, China-brand overseas sales rankings for the 618 shopping festival across 10 categories including mobile phones, auto parts, consumer electronics, computers, sportswear and cycling. Mobile top three: POCO (Xiaomi sub-brand), Xiaomi and Honor. In home appliances, pool-cleaning robot maker SEAUTO ranked fourth; Midea, Tineco and ILIFE also made the list. Lenovo and Xiaomi were first and second in computers and office equipment. Li‑Ning, Xtep and 361° were the top three Chinese sportswear brands overseas. 3D-printing leaders: ANYCUBIC first, followed by ELEGOO, Creality and Bambu Lab."
+    },
+    {
+      "id": "te:economy:563257",
+      "time": "2026-07-01 12:52:47",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Indonesia",
+        "Imports YoY",
+        "Importance 1"
+      ],
+      "text": "Indonesia Import Growth Beats Forecasts — Indonesia’s imports surged 22.16% year-on-year to USD 24.81 billion in May 2026, exceeding market expectations of 19.5%, but easing slightly from a 22.49% increase in April, which marked the fastest import growth since August 2022. The strong import growth was driven by government efforts to support domestic demand and higher oil prices."
+    },
+    {
+      "id": "mkt:019f1c05-747f-7aab-8c4b-5b7a9f22e2ce",
+      "time": "2026-07-01 12:52:27",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iranian police said an armed attack in southeastern Sistan and Baluchestan province killed one police officer."
+    },
+    {
+      "id": "4964234",
+      "time": "2026-07-01 12:52:24",
+      "tags": [
+        "其他"
+      ],
+      "text": "【阿里速賣通首次公佈618中國品牌出海成交榜】7月1日訊息， 阿里旗下跨境電商平臺速賣通首次公佈618中國品牌出海成交榜。手機由POCO（小米子品牌）、小米、榮耀包攬冠前三；家電品類中，泳池清潔機器人SEAUTO躋身第四，美的、添可、ILIFE也上榜；聯想和小米分列電腦辦公前二 ；李寧、特步、361°穩居中國出海運動鞋服品牌前三；縱維立方ANYCUBIC拿下3D列印第一，智慧派ELEGOO、創想三維Creality、拓竹Bambu Lab也上榜。"
+    },
+    {
+      "id": "4964233",
+      "time": "2026-07-01 12:51:47",
+      "tags": [
+        "國際"
+      ],
+      "text": "【JEITA：日本電子零部件企業出貨額連續走高 電容出貨規模單月破紀錄】被動元件市場需求旺盛，拉動日本電子零部件企業出貨額連續走高，其中電容出貨規模4月重新整理歷史紀錄。日本電子資訊科技產業協會（JEITA）6月30日釋出統計資料，2026年4月日本廠商被動元件出貨額達2314億日元，同比大幅增長18%。"
+    },
+    {
+      "id": "te:economy:563256",
+      "time": "2026-07-01 12:51:31",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Netherlands",
+        "GDP Growth Rate",
+        "Importance 1"
+      ],
+      "text": "Dutch Q1 GDP Growth Revised to 0.2% — The Dutch economy expanded by 0.2% quarter-on-quarter in Q1 2026, revised up from an initial estimate of 0.1% but slowing from 0.4% growth in Q4, marking the weakest expansion in a year. The slowdown was mainly driven by weaker external demand, as exports of goods and services fell 0.2% after rising 0.7% in the previous quarter, while imports edged up 0.1% for a second consecutive quarter. Meanwhile, domestic demand remained resilient, with national final expenditure increasing 0.5% after a 0.1% decline in Q4. Household consumption rose 0.3% after stagnating in the previous quarter, government spending increased 0.7%, and gross fixed capital formation accelerated to 0.7% from 0.1%, supported by stronger investment by businesses, households, and the government. Changes in inventories remained unchanged at -0.2% of GDP. On an annual basis, GDP grew 1.4%, revised up from the preliminary estimate of 1.2% but slowing from 1.8% in the prior period."
+    },
+    {
+      "id": "te:economy:563255",
+      "time": "2026-07-01 12:51:31",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Netherlands",
+        "Retail Sales YoY",
+        "Importance 1"
+      ],
+      "text": "Dutch Retail Sales Growth Slows in May — Retail sales in the Netherlands increased by 2.9% year-on-year in May 2026, slowing from a five-month high of 3.4% rise in the previous month. Sales growth in the food sector softened to 1.2% from 3.2% in April, as smaller gains in supermarkets (1.1% vs 3.8%) outweighed a rebound in specialty food stores (1.6% vs -0.9%). Online revenues also moderated (4.8% vs 5.9%), as growth at webshops slowed (3.5% vs 6.2%), while multichannel retailers saw a modest pickup (6.7% vs 5.5%). In contrast, turnover for non-food products accelerated (3.9% vs 3.5%), with drugstores (6.5% vs 9.6%) posting the largest increase in sales, followed by furniture and home furnishings stores (3.8% vs 0.1%) and clothing stores (3.7% vs 1.7%), which more than offset smaller rise in shoes and leather goods (0.7% vs -3.6%)."
+    },
+    {
+      "id": "4964232",
+      "time": "2026-07-01 12:51:09",
+      "tags": [
+        "其他"
+      ],
+      "text": "【聯合國機構警告剛果（金）埃博拉疫情將衝擊地區經濟】聯合國開發計劃署、世界衛生組織6月30日警告說，剛果（金）本輪埃博拉疫情擴散速度超過當前應對能力，可能造成更廣泛的社會經濟衝擊。聯合國開發計劃署同日在金沙薩釋出的一項評估報告警告說，剛果（金）暴發的埃博拉疫情正在引發一場影響深遠的社會經濟危機，可能使98.5萬人陷入貧困。如疫情衝擊進一步加劇，非洲地區經濟可能蒙受最高達36億美元的損失。（新華社）"
+    },
+    {
+      "id": "4964231",
+      "time": "2026-07-01 12:50:31",
+      "tags": [
+        "其他"
+      ],
+      "text": "【北京鏈家研究院：上半年北京市二手房市場表現總體良好】從北京鏈家研究院獲悉，根據北京市住建委官網資料統計，2026年6月北京市二手住宅網籤量為16618套，環比增長4.0%，同比增長9.8%。北京鏈家研究院分析師冷會表示，從歷史資料看，今年6月北京市二手住宅網籤量是近五年同期最高水平。從各區價格走勢看，多數城區價格保持平穩或小幅波動，波動幅度處於合理執行區間。“今年上半年北京市二手房市場表現總體良好，成交量同比提升，價格走勢穩中有漲。”冷會說，北京市住建委公佈的資料顯示，2026年上半年二手住宅網籤量為93583套，同比增長5.7%，為近五年同期最高水平。"
+    },
+    {
+      "id": "4964230",
+      "time": "2026-07-01 12:50:12",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【日本最高外匯官員三村淳：兩個月前為支撐日元而採取的外匯干預措施取得了成功】日本最高貨幣官員表示，兩個月前日本為支撐日元而進行的外匯干預取得了成效，部分美國官員也對此表示支援，目前日元徘徊在四十年來的低點附近。“從市場後續反應來看，我認為這次行動顯然產生了意義，”日本國際事務副財務大臣三村淳週三在接受媒體採訪時表示。“我沒有看到美國方面曾發表過任何反對我們做法的意見，相反，實際上還有一些更積極的支援性表態。”三村淳發表上述言論時，日元兌美元匯率已跌至40年新低，這可能加劇日本的通脹壓力，因為該國大部分能源和超過一半的食物依賴進口。三村強調了他與華盛頓同行頻繁的溝通，他表示：“透過電話和電子郵件，我和對方的聯絡頻率遠超大多數人的想象。”週三中午，東京市場上日元兌美元匯率約為162.80，接近自1986年以來的最低水平。"
+    },
     {
       "id": "4964229",
       "time": "2026-07-01 12:48:36",
@@ -127982,77 +128092,6 @@
         "Importance 1"
       ],
       "text": "Indian Rupee Slides to One-Week Low — The Indian rupee fell to around 94.8 per dollar, retreating after a brief stabilization as renewed strength in the greenback and shifting expectations for US monetary policy overshadowed lower crude oil prices. The currency came under renewed pressure after the dollar index climbed to its highest level in more than a year, driven by growing market expectations that the Federal Reserve could implement one or two additional interest-rate hikes before the end of the year. The rupee's decline was partly cushioned by a sharp drop in oil prices, with Brent crude falling below $77 per barrel and posting losses of roughly 16.5% for the month. The decline in energy prices has been supported by signs that tanker movements through the Strait of Hormuz are gradually returning to normal. Additional support came from improving capital-flow dynamics. Foreign investment into Indian debt markets has strengthened, while equity-market outflows have moderated compared with earlier months."
-    },
-    {
-      "id": "4951760",
-      "time": "2026-06-24 12:54:16",
-      "tags": [
-        "公司"
-      ],
-      "text": "阿達尼集團董事長：按計劃將於2030年前建成3吉瓦資料中心平臺。"
-    },
-    {
-      "id": "4951759",
-      "time": "2026-06-24 12:53:19",
-      "tags": [
-        "公司"
-      ],
-      "text": "【挖金客成立新公司 含多項AI相關業務】企查查APP顯示，近日，北京惠金智創科技有限公司成立，經營範圍包含：人工智慧應用軟體開發；人工智慧基礎軟體開發；工業網際網路資料服務；人工智慧行業應用系統整合服務等。企查查股權穿透顯示，該公司由挖金客(301380)等共同持股。"
-    },
-    {
-      "id": "4951758",
-      "time": "2026-06-24 12:53:07",
-      "tags": [
-        "公司"
-      ],
-      "text": "【統聯精密在上海成立人工智慧技術公司】企查查APP顯示，近日，統聯人工智慧技術（上海）有限責任公司成立，經營範圍包含：人工智慧基礎軟體開發；人工智慧理論與演算法軟體開發；人工智慧通用應用系統；人工智慧行業應用系統整合服務等。企查查股權穿透顯示，該公司由統聯精密(688210)全資持股。"
-    },
-    {
-      "id": "4951757",
-      "time": "2026-06-24 12:52:48",
-      "tags": [
-        "宏觀",
-        "公司",
-        "國際"
-      ],
-      "text": "阿達尼集團董事長在年度股東大會上表示：鑑於當前地緣政治局勢，公司將加快推進巴布亞紐幾內亞專案，以滿足印度日益增長的可獲取天然氣需求。"
-    },
-    {
-      "id": "4951756",
-      "time": "2026-06-24 12:52:42",
-      "tags": [
-        "其他"
-      ],
-      "text": "理想汽車：全新理想L8，提供兩個版本選擇， 理想L8 Livis，首銷期限時售價41.98萬元起， 理想L8 Ultra，首銷期限時售價35.98萬元起。"
-    },
-    {
-      "id": "4951755",
-      "time": "2026-06-24 12:51:58",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "印度阿達尼集團計劃到2030年實現港口貨物吞吐量10億噸。"
-    },
-    {
-      "id": "4951754",
-      "time": "2026-06-24 12:51:30",
-      "tags": [
-        "資料",
-        "市場",
-        "央行",
-        "國際"
-      ],
-      "text": "【美銀：新加坡CPI資料讓新加坡金管局有更多理由在7月份觀望】美銀全球研究的兩名經濟學家在一份報告中表示，週二釋出的新加坡CPI資料讓新加坡金融管理局有更多理由在7月份採取觀望態度。這些經濟學家指出，5月份核心通脹率同比為1.4%，“出人意料地下行“，而平均預期為1.6%。他們表示，新加坡官員在CPI前景方面的基調也比之前更為溫和。這些經濟學家補充說，此外，近期全球油價回落緩解了新加坡進口成本的上漲壓力，而美聯儲偏緊縮的前景增加了全球金融狀況收緊的風險，這可能會拖累新加坡的經濟活動。"
-    },
-    {
-      "id": "4951753",
-      "time": "2026-06-24 12:50:37",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【財通福鑫定開混合：將於6月24日下午開盤起至當日收盤停牌】財通基金管理有限公司公告，截至2026年6月24日上海證券交易所午間收盤，公司旗下財通多策略福鑫定期開放靈活配置混合型發起式證券投資基金（場內簡稱：財通福鑫定開混合，交易程式碼：501046）二級市場交易價格嚴重高於基金份額淨值，出現極大幅度溢價。特此提示投資者關注二級市場交易價格溢價風險，投資者如果盲目投資，可能遭受重大損失。為維護投資者利益，本基金將於2026年6月24日下午開盤起至當日收盤停牌。"
     }
   ]
 }
