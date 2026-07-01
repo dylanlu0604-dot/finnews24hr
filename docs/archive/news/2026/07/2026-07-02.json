@@ -1,7 +1,55 @@
 {
   "date": "2026-07-02",
-  "count": 293,
+  "count": 298,
   "items": [
+    {
+      "id": "mkt:019f1f70-281c-7aab-8c66-63eb8690d46b",
+      "time": "2026-07-02 04:47:51",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Qatar's foreign minister said positive progress is being made on issues related to the Islamabad memorandum of understanding. Parties have agreed to continue talks over the near term and to hold the next round of discussions as soon as possible after the funeral of the former Iranian supreme leader."
+    },
+    {
+      "id": "4965930",
+      "time": "2026-07-02 04:47:09",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "卡達外交部發言人：卡達與巴基斯坦調停方今日在多哈分別與美國、伊朗談判代表舉行了會晤，雙方在與《伊斯蘭堡諒解備忘錄》相關議題上已取得積極進展。"
+    },
+    {
+      "id": "4965929",
+      "time": "2026-07-02 04:46:39",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "卡達外交大臣安薩里：卡達與巴基斯坦調解人員已在多哈分別同美國、伊朗談判代表舉行會談。"
+    },
+    {
+      "id": "4965928",
+      "time": "2026-07-02 04:45:11",
+      "tags": [
+        "宏觀",
+        "公司",
+        "國際"
+      ],
+      "text": "先鋒集團將擔任特朗普賬戶備選基金合作機構；公司表示，待收到美國財政部相關指引後，將支援資金轉入操作。"
+    },
+    {
+      "id": "te:markets:563540",
+      "time": "2026-07-02 04:44:35",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Brazil",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Ibovespa Edges Lower Following Election Poll — The Ibovespa fell 0.2% to close at 171,689 on Wednesday as investors reacted to a new presidential election poll and fresh manufacturing data. An AtlasIntel/Bloomberg survey showed President Lula holding a 6.5-point lead over Flávio Bolsonaro in a hypothetical runoff, reinforcing expectations of a fiscally looser policy stance. Financial stocks were among the main drags, with Bradesco down 0.2% and Banco do Brasil losing 0.9%. WEG fell 1.4% and Ambev retreated 0.5% after the latest S&P Global manufacturing PMI showed a return to expansion, though the improvement was mainly driven by hiring and stockpiling while output and new orders remained in contraction. Utilities also traded lower, with Axia down 0.7%, while Engie plunged 6.1% after announcing the resignation of Pierre Jean Bernard Guiollot from its board of directors."
+    },
     {
       "id": "4965927",
       "time": "2026-07-02 04:41:28",

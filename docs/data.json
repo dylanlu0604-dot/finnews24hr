@@ -1,7 +1,55 @@
 {
-  "updated": "2026-07-02 04:44:38",
-  "count": 14050,
+  "updated": "2026-07-02 04:48:28",
+  "count": 14044,
   "items": [
+    {
+      "id": "mkt:019f1f70-281c-7aab-8c66-63eb8690d46b",
+      "time": "2026-07-02 04:47:51",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Qatar's foreign minister said positive progress is being made on issues related to the Islamabad memorandum of understanding. Parties have agreed to continue talks over the near term and to hold the next round of discussions as soon as possible after the funeral of the former Iranian supreme leader."
+    },
+    {
+      "id": "4965930",
+      "time": "2026-07-02 04:47:09",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "卡達外交部發言人：卡達與巴基斯坦調停方今日在多哈分別與美國、伊朗談判代表舉行了會晤，雙方在與《伊斯蘭堡諒解備忘錄》相關議題上已取得積極進展。"
+    },
+    {
+      "id": "4965929",
+      "time": "2026-07-02 04:46:39",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "卡達外交大臣安薩里：卡達與巴基斯坦調解人員已在多哈分別同美國、伊朗談判代表舉行會談。"
+    },
+    {
+      "id": "4965928",
+      "time": "2026-07-02 04:45:11",
+      "tags": [
+        "宏觀",
+        "公司",
+        "國際"
+      ],
+      "text": "先鋒集團將擔任特朗普賬戶備選基金合作機構；公司表示，待收到美國財政部相關指引後，將支援資金轉入操作。"
+    },
+    {
+      "id": "te:markets:563540",
+      "time": "2026-07-02 04:44:35",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Brazil",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Ibovespa Edges Lower Following Election Poll — The Ibovespa fell 0.2% to close at 171,689 on Wednesday as investors reacted to a new presidential election poll and fresh manufacturing data. An AtlasIntel/Bloomberg survey showed President Lula holding a 6.5-point lead over Flávio Bolsonaro in a hypothetical runoff, reinforcing expectations of a fiscally looser policy stance. Financial stocks were among the main drags, with Bradesco down 0.2% and Banco do Brasil losing 0.9%. WEG fell 1.4% and Ambev retreated 0.5% after the latest S&P Global manufacturing PMI showed a return to expansion, though the improvement was mainly driven by hiring and stockpiling while output and new orders remained in contraction. Utilities also traded lower, with Axia down 0.7%, while Engie plunged 6.1% after announcing the resignation of Pierre Jean Bernard Guiollot from its board of directors."
+    },
     {
       "id": "4965927",
       "time": "2026-07-02 04:41:28",
@@ -129325,115 +129373,6 @@
         "國際"
       ],
       "text": "美國副總統萬斯：美國官員正在審查土耳其是否遵守美國針對俄羅斯 S-400 防空導彈系統的相關法律。"
-    },
-    {
-      "id": "mkt:019efb64-0481-7dd8-b105-3f0b7397c497",
-      "time": "2026-06-25 04:48:16",
-      "tags": [
-        "MKT News",
-        "QCOM.O",
-        "Impact bullish"
-      ],
-      "text": "Qualcomm (QCOM.O) targets non-GAAP EPS above $18 for fiscal 2029."
-    },
-    {
-      "id": "te:markets:561643",
-      "time": "2026-06-25 04:47:30",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Brazil",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "Ibovespa Falls on Commodity and Bank Losses — The Ibovespa fell 0.4% to close at 170,507 on Wednesday, pressured by losses in commodity and banking stocks. Petrobras was among the main drags, down 2.6% as oil prices declined on signs that more tankers were moving through the Strait of Hormuz amid progress in US-Iran talks. Vale lost 2.1% amid an internal dispute over its chairman position. Major banks also traded lower after Citigroup cut target prices for several Brazilian lenders, citing a more cautious stance on the sector due to a deteriorating macroeconomic backdrop and rising pressure on asset quality, particularly in consumer lending and agribusiness. Bradesco fell 1.1%, while Banco do Brasil dropped 0.6%. On the upside, WEG gained 2% as it accelerates the expansion of its Rugao unit in China. Embraer rose 1.5% amid renewed speculation over a sale of the C-390 Millennium to Morocco."
-    },
-    {
-      "id": "4953515",
-      "time": "2026-06-25 04:47:19",
-      "tags": [
-        "其他"
-      ],
-      "text": "道富銀行：該行資本留存緩衝比率（SCB）下限維持 2.5% 不變，有效期至 2027 年 9 月 30 日；一級普通股本充足率要求維持 8% 不變。"
-    },
-    {
-      "id": "4953514",
-      "time": "2026-06-25 04:47:01",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國副總統萬斯：能否向土耳其交付 F-35 戰機取決於國會。"
-    },
-    {
-      "id": "mkt:019efb62-9b48-7dd8-b105-3255f80c5dbf",
-      "time": "2026-06-25 04:46:43",
-      "tags": [
-        "MKT News",
-        "QCOM.O",
-        "Impact bullish"
-      ],
-      "text": "Qualcomm (QCOM.O) CFO said the company is targeting about $10 billion in automotive revenue in fiscal 2029."
-    },
-    {
-      "id": "mkt:019efb62-679d-7dd8-b105-29253222f7ec",
-      "time": "2026-06-25 04:46:30",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "Chip Wars",
-        "QCOM.O",
-        "Impact bullish"
-      ],
-      "text": "Qualcomm (QCOM.O) CFO said two hyperscale custom-chip customers will generate $1.0 bln in revenue in fiscal 2027."
-    },
-    {
-      "id": "mkt:019efb62-32f4-7dd8-b105-26c9cab7fc94",
-      "time": "2026-06-25 04:46:17",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Qualcomm (QCOM.O) CFO said the company targets data-center revenue exceeding $15 billion in fiscal 2029."
-    },
-    {
-      "id": "mkt:019efb61-c49e-7dd8-b105-197b1ec8b222",
-      "time": "2026-06-25 04:45:48",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "Chip Wars",
-        "QCOM.O",
-        "Impact bullish"
-      ],
-      "text": "Qualcomm (QCOM.O) raised its fiscal 2029 revenue target for non-handset businesses to $40 bln."
-    },
-    {
-      "id": "mkt:019efb61-af23-7dd8-b105-13c0b8617523",
-      "time": "2026-06-25 04:45:43",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Themes",
-        "AI Revolution",
-        "QCOM.O",
-        "Impact bullish"
-      ],
-      "text": "Qualcomm (QCOM.O) shares rose over 14% in after-hours US trading after the CFO said the company targets $5.0 billion in AI data-center revenue in fiscal 2027."
-    },
-    {
-      "id": "4953513",
-      "time": "2026-06-25 04:45:11",
-      "tags": [
-        "公司"
-      ],
-      "text": "道富集團計劃將 2026 年第三季度股息上調 10%，至每股 0.92 美元。"
-    },
-    {
-      "id": "4953512",
-      "time": "2026-06-25 04:44:46",
-      "tags": [
-        "市場"
-      ],
-      "text": "美光科技盤後上漲至15%。"
     }
   ]
 }
