@@ -1,7 +1,81 @@
 {
-  "updated": "2026-07-01 12:18:31",
+  "updated": "2026-07-01 12:22:15",
   "count": 13929,
   "items": [
+    {
+      "id": "mkt:019f1be8-ede1-7aab-8c4b-289225802379",
+      "time": "2026-07-01 12:21:17",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC"
+      ],
+      "text": "Japan 40-year bond yield fell 2 bps to 3.785%."
+    },
+    {
+      "id": "4964193",
+      "time": "2026-07-01 12:20:59",
+      "tags": [
+        "國際"
+      ],
+      "text": "【主汛期疊加厄爾尼諾 對我國有什麼影響？】今天，我國全面進入主汛期。近期，赤道中東太平洋進入厄爾尼諾狀態。中國水利水電科學研究院減災中心總工程師 嚴登華：我國主汛期疊加厄爾尼諾，加上全球變暖，會導致南方雨水偏多，多條大江大河可能發大水。預計長江下游、珠江流域汛情較重，松遼流域、海河流域、黃河下游也有較大洪水壓力。颱風來得早，盛夏北上影響東部沿海的可能性也大。降水時間、地點，分佈更不均勻。像四川、重慶、湖北、陝西、新疆北部等地可能高溫少雨，出現乾旱；黃淮等地有高溫熱浪。有的流域可能先旱後澇，比如灤河流域今年降水偏多兩成，可能發生大洪水，同時也要防旱澇急轉。同時，北方防汛壓力突然增大。全球變暖讓我國“雨帶北移”趨勢明顯。今年厄爾尼諾加劇這一趨勢，東北到華北東部降水偏多，極端強降雨增多。（央視）"
+    },
+    {
+      "id": "mkt:019f1be8-4893-7aab-8c4b-2192f41fd681",
+      "time": "2026-07-01 12:20:35",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【China requires permits for road bulk transport of key liquid foods from today】Effective today, road bulk transport of five categories of key liquid foods in China must hold transport permits to operate. Chinese market regulators and related agencies will implement full-chain, professional and traceable oversight to safeguard food safety. The measure covers 14 subcategories, including vegetable oil, condiments, alcoholic beverages, sugar and starch-derived sugars, broadly encompassing varieties currently moved by tankers."
+    },
+    {
+      "id": "mkt:019f1be8-243f-7aab-8c4b-1db40ae225a7",
+      "time": "2026-07-01 12:20:26",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "Chip Wars",
+        "6971.T",
+        "Impact bullish"
+      ],
+      "text": "【Kyocera to invest JPY 650 billion to expand semiconductor and AI data‑center components business】Kyocera plans to invest JPY 650 billion (about 271.245 billion yuan) in its components business, focusing on semiconductor manufacturing equipment and components for AI data centers and other high‑growth areas."
+    },
+    {
+      "id": "4964192",
+      "time": "2026-07-01 12:19:09",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【今起施行！食用油等重點液態食品道路散裝運輸須持準運證】今天起，5大類重點液態食品道路散裝運輸須持準運證方可開展。市場監管等部門將實施全鏈條、專業化、可追溯管理，切實保障人民群眾飲食安全。此次納入實行道路散裝運輸許可管理的重點液態食品包括涉及國計民生、消費量大、安全風險相對較高的植物油、調味品、酒類、食糖、澱粉糖等5大類14小類液態食品，基本涵蓋了目前使用罐車運輸的散裝液態食品品種。"
+    },
+    {
+      "id": "mkt:019f1be5-e797-7aab-8c4b-13a300972077",
+      "time": "2026-07-01 12:17:59",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "EURUSD",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "【ECB policymaker De Marco says bank should not rush further rate hikes】ECB policymaker De Marco said the central bank should not rush into further rate hikes after oil prices fell unexpectedly and sharply. He noted the ECB raised rates in June and its forecasts assumed further tightening, but the recent drop in energy costs strengthens the case for pausing by quickly easing inflation expectations and reducing wage pressures. De Marco said only a second-round inflation effect, de-anchored inflation expectations, or stronger wage demands would justify pre-emptive tightening; those conditions are not currently evident, and with oil back near pre-conflict levels the ECB can wait for the next forecast round rather than risk unnecessary harm to growth. He added that even the milder scenario in the latest forecasts still assumes further tightening, so if incoming data validate that path the ECB may still need to raise rates."
+    },
+    {
+      "id": "mkt:019f1be5-c71d-7aab-8c4b-0d3fe071cc98",
+      "time": "2026-07-01 12:17:51",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "China EV Leaders",
+        "XPEV.O",
+        "Impact bullish"
+      ],
+      "text": "Xpeng expects to unveil the MONA L03 in China on July 2, start pre-sales the same day, and launch the model in global markets later in July."
+    },
     {
       "id": "mkt:019f1be4-a5bc-7aab-8c4b-06dc0b983a27",
       "time": "2026-07-01 12:16:37",
@@ -128018,64 +128092,6 @@
         "國際"
       ],
       "text": "俄羅斯新聞機構援引國防部稱，俄軍昨夜擊落323架無人機。"
-    },
-    {
-      "id": "4951730",
-      "time": "2026-06-24 12:22:10",
-      "tags": [
-        "國際"
-      ],
-      "text": "傑富瑞將美國銀行目標價從65美元上調至70美元。"
-    },
-    {
-      "id": "4951729",
-      "time": "2026-06-24 12:21:46",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "印度央行行長：隨著股市估值回落，由資本市場驅動的外資撤回情況應當會有所緩解。"
-    },
-    {
-      "id": "4951728",
-      "time": "2026-06-24 12:21:34",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "30年期日本國債收益率上漲2.5個基點，至3.865%。"
-    },
-    {
-      "id": "4951727",
-      "time": "2026-06-24 12:21:23",
-      "tags": [
-        "市場"
-      ],
-      "text": "日經225指數下跌超過1100點，人工智慧相關股票的拋售仍在繼續。該指數現跌1.6%，報68652.17點。"
-    },
-    {
-      "id": "mkt:019ef7da-c786-7dd8-b0eb-6ae642f980bf",
-      "time": "2026-06-24 12:19:30",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Reserve Bank of India governor said measures to attract dollar inflows have seen a positive initial response and that sizable capital inflows are expected."
-    },
-    {
-      "id": "4951726",
-      "time": "2026-06-24 12:19:20",
-      "tags": [
-        "其他"
-      ],
-      "text": "【1點點就部分門店食材效期管理混亂、環境髒亂等問題致歉：涉事門店立即停業】1點點alittleTea官方微博6月24日釋出《關於近日媒體報道我司門店食品安全問題的致歉與整改宣告》：涉事門店（溫嶺澤國店）立即停業，啟動解約程式，絕不姑息。立即召開涉事區域會議，向全體夥伴重申食品安全是不可觸碰的紅線與底線，直面問題，嚴肅處理，加強稽核。立即展開全國門店稽核檢查。"
-    },
-    {
-      "id": "4951725",
-      "time": "2026-06-24 12:18:40",
-      "tags": [
-        "公司"
-      ],
-      "text": "據英國金融時報報道，英國電信的養老基金在泰晤士水務公司上損失了3億英鎊。"
     }
   ]
 }
