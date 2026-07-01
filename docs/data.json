@@ -1,7 +1,221 @@
 {
-  "updated": "2026-07-01 15:02:36",
-  "count": 13826,
+  "updated": "2026-07-01 15:07:02",
+  "count": 13823,
   "items": [
+    {
+      "id": "mkt:019f1c7f-7597-7aab-8c4e-11348d9e3f91",
+      "time": "2026-07-01 15:05:42",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【A-shares close: ChiNext falls 1.89% after weak open; large financials surge】A-shares closed mixed: Shanghai Composite, which rose over 1% intraday, ended up 0.44%; Shenzhen Composite Index fell 0.53% and ChiNext Index dropped 1.89% after a weak open. Turnover exceeded 3.5 trillion yuan and more than 4,000 stocks advanced. Large financials led gains, with brokerages, insurers and internet finance rallying. Innovative drug stocks recovered from session lows; livestock and baijiu outperformed. Technology names retreated in the afternoon; CPO, optical-fiber and high-speed copper-cable concepts were among the biggest decliners. Photovoltaic equipment remained weak all day; Sungrow fell 13.9%."
+    },
+    {
+      "id": "4964407",
+      "time": "2026-07-01 15:05:41",
+      "tags": [
+        "其他"
+      ],
+      "text": "新加坡總理黃循財將於2026年7月2日至3日訪問東帝汶。"
+    },
+    {
+      "id": "4964406",
+      "time": "2026-07-01 15:05:29",
+      "tags": [
+        "公司",
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "【比特幣觸及21個月低點後依然承壓】隨著美國加息預期帶來壓力，比特幣在隔夜觸及21個月低點後依然走弱。Nexo分析師Iliya Kalchev在一份報告中表示，美聯儲在6月會議上發出的潛在加息訊號依然是主導性的宏觀敘事，市場預計最早將於9月收緊政策。“在獨立日假期前釋出的週四非農就業人數報告，是利率前景的下一個重要催化劑，這一前景在整個6月份都令加密貨幣承壓。“倫敦證券交易所集團資料顯示，比特幣下跌0.2%，至58,591美元，隔夜曾低見57,775美元。"
+    },
+    {
+      "id": "te:economy:563311",
+      "time": "2026-07-01 15:05:20",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Poland",
+        "Manufacturing PMI",
+        "Importance 1"
+      ],
+      "text": "Poland Manufacturing Contracts Most in a Year — Poland’s S&P Global Manufacturing PMI fell to 46.1 in June 2026 from 49.4 in May, marking the sharpest deterioration in factory activity since July 2025. The decline was driven by the steepest drop in new orders in a year, reflecting weaker demand, slower economic activity, difficulties attracting new customers, high client inventories, and tighter customer budgets. Export orders also fell at the fastest pace since July 2025, pushing manufacturing output back into contraction at the quickest rate in 11 months. Employment and purchasing activity declined further, while inventories of finished goods rose as unsold stock accumulated. Inflationary pressures eased, with both input cost and output price inflation slowing to three-month lows despite continued increases in raw material, energy, transport, and packaging costs. Business confidence weakened to its lowest level since late 2022 as firms grew more concerned about demand conditions and supply shortages."
+    },
+    {
+      "id": "4964405",
+      "time": "2026-07-01 15:04:25",
+      "tags": [
+        "市場"
+      ],
+      "text": "斯泰蘭蒂斯米蘭上市股價早盤上漲1.4%。"
+    },
+    {
+      "id": "4964404",
+      "time": "2026-07-01 15:04:06",
+      "tags": [
+        "市場"
+      ],
+      "text": "施耐德電氣股價下跌2.3%，在宣佈出售Cognite交易後位列法國SBF 120指數跌幅榜首位。"
+    },
+    {
+      "id": "4964403",
+      "time": "2026-07-01 15:04:03",
+      "tags": [
+        "其他"
+      ],
+      "text": "【三峽樞紐2026年上半年透過量達7664.2萬噸】記者1日上午從交通運輸部長江航務管理局獲悉，今年1月至6月，三峽樞紐透過量達7664.2萬噸。其中，保障2204.67萬噸民生物資、69.95萬噸重點急運物資過壩。今年上半年，三峽船閘共執行4527閘次，透過船舶1.7萬艘次，透過量達7432.5萬噸；三峽升船機共執行2129廂次，透過船舶2156艘次，運送旅客32.8萬人次，運送旅客人次同比上升13.6%。（新華社）"
+    },
+    {
+      "id": "4964402",
+      "time": "2026-07-01 15:03:52",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "通用汽車韓國公司：6月銷量同比增長6.6%，至48134輛。"
+    },
+    {
+      "id": "te:markets:563309",
+      "time": "2026-07-01 15:03:42",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "France",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "Airbus Stock Price Hits 19-week High — Airbus shares increased to 196.98 EUR, the highest since February 2026. Over the past 4 weeks, Airbus gained 13.54%, and in the last 12 months, it increased 14.1%."
+    },
+    {
+      "id": "mkt:019f1c7d-9a6f-7aab-8c4e-089e335bdc06",
+      "time": "2026-07-01 15:03:41",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "9984.T",
+        "Impact mixed"
+      ],
+      "text": "SoftBank Group said it has executed $10 bln of a $30 bln follow-on investment in OpenAI."
+    },
+    {
+      "id": "mkt:019f1c7c-c9a9-7aab-8c4e-03db00221630",
+      "time": "2026-07-01 15:02:47",
+      "tags": [
+        "MKT News",
+        "CSI300",
+        "Impact bearish"
+      ],
+      "text": "【10+ Chinese baijiu firms' bulk stocks hit cola-price at judicial auctions】Judicial auctions of Chinese baijiu bulk stocks on platforms including Alibaba Auctions and JD Auction have risen, signaling stress transmission from downstream channels to upstream production. Incomplete counts show more than ten liquor firms have had bulk spirits auctioned since 2026; most lots faced repeated failed auctions and successful sales generally cleared below appraisal. In May, Anhui Wuzigu Liquor Co. sold two lots on JD Auction after five failed attempts, at prices equivalent to 3.9 yuan and 3.7 yuan per 500g—roughly the price of supermarket cola."
+    },
+    {
+      "id": "4964401",
+      "time": "2026-07-01 15:02:26",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【收評：滬指衝高回落漲0.44%，全市場上漲個股超4300只】滬指全天衝高回落，創業板指跌近2%。保險、券商等金融股走強，天風證券、國盛證券、華安證券等漲停。養殖板塊大幅反彈，新希望、湘佳股份、益生股份等漲停。創新藥概念再度拉昇，匯宇製藥、海南海藥、昂利康等漲停。下跌方面，算力晶片股走低，寒武紀跌超6%。個股漲多跌少，滬深京三市超4300股飄紅，今日成交3.68萬億。截止收盤滬指漲0.44%，深成指跌0.53%，創業板指跌1.89%。"
+    },
+    {
+      "id": "mkt:019f1c7c-68d5-7aab-8c4d-f859721a6e42",
+      "time": "2026-07-01 15:02:23",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "SSE Composite",
+        "Impact bullish",
+        "SZSE Component",
+        "Impact bearish",
+        "CSI300"
+      ],
+      "text": "July 1 (Wed) close: CHINA'S SHANGHAI COMPOSITE INDEX 4,112.45, up 18.05 pts (+0.44%); SHENZHEN COMPOSITE INDEX 16,119.17, down 86.39 pts (-0.53%); CSI 300 INDEX 4,958.98, down 20.46 pts (-0.41%); CHINEXT INDEX 4,260.72, down 81.99 pts (-1.89%); STAR 50 INDEX 2,153.04, down 54.82 pts (-2.48%)."
+    },
+    {
+      "id": "mkt:019f1c7c-436f-7aab-8c4d-f2ae485b6af8",
+      "time": "2026-07-01 15:02:13",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "DAX",
+        "Impact bullish",
+        "FTSE100",
+        "Impact bearish"
+      ],
+      "text": "European bourses opened mixed on July 1: Germany’s DAX up 35.44 pts (+0.14%) at 25,014.69; UK’s FTSE 100 down 22.61 pts (-0.22%) at 10,474.51; France’s CAC 40 down 20.59 pts (-0.25%) at 8,383.40; Stoxx Europe 50 down 13.03 pts (-0.21%) at 6,315.06; Spain’s IBEX 35 down 26.22 pts (-0.13%) at 19,432.48; Italy’s FTSE MIB down 182.93 pts (-0.35%) at 51,499.50."
+    },
+    {
+      "id": "4964400",
+      "time": "2026-07-01 15:02:12",
+      "tags": [
+        "公司"
+      ],
+      "text": "瑞典移動出行公司表示，特斯拉6月在瑞典的新車註冊量同比增長56.3%。"
+    },
+    {
+      "id": "4964399",
+      "time": "2026-07-01 15:02:02",
+      "tags": [
+        "其他"
+      ],
+      "text": "軟銀計劃於10月1日完成對OPENAI的第三筆投資。"
+    },
+    {
+      "id": "mkt:019f1c7b-eddb-7aab-8c4d-eba0c4fa2308",
+      "time": "2026-07-01 15:01:51",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【Shanghai, Shenzhen turnover CNY 3.66 trillion on July 1; GigaDevice tops by turnover】On July 1 combined turnover on the Shanghai and Shenzhen markets was CNY 3.660004 trillion, up CNY 386.246 billion from the previous session. Shanghai turnover was CNY 1.698488 trillion (prev. CNY 1.530326 trillion) with trading volume 672 million lots (prev. 598 million); Shenzhen turnover was CNY 1.961516 trillion (prev. CNY 1.743432 trillion) with trading volume 874 million lots (prev. 745 million). GigaDevice led stocks by turnover at CNY 43.203 billion, followed by BOE Technology A CNY 39.601 billion, Zhongji Xuchuang CNY 34.256 billion, Xinyisheng CNY 28.257 billion and Montage Technology CNY 27.98 billion."
+    },
+    {
+      "id": "mkt:019f1c7b-abf2-7aab-8c4d-e64700b1de1c",
+      "time": "2026-07-01 15:01:34",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "DXY",
+        "Impact bullish",
+        "WTI",
+        "Impact bearish",
+        "EURUSD"
+      ],
+      "text": "Russian central bank says room for further rate cuts has narrowed."
+    },
+    {
+      "id": "mkt:019f1c7b-87d5-7aab-8c4d-db4c98d32d58",
+      "time": "2026-07-01 15:01:25",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "WTI"
+      ],
+      "text": "RUSSIAN CENBANK will consider fuel-market developments and their second-round effects at its next rate-setting meeting."
+    },
+    {
+      "id": "4964398",
+      "time": "2026-07-01 15:01:21",
+      "tags": [
+        "公司",
+        "其他",
+        "焦點"
+      ],
+      "text": "軟銀：對OpenAI進行了100億美元的後續投資。"
+    },
+    {
+      "id": "mkt:019f1c7b-72e4-7aab-8c4d-d44440b1a102",
+      "time": "2026-07-01 15:01:20",
+      "tags": [
+        "MKT News",
+        "CSI300",
+        "Impact bearish"
+      ],
+      "text": "【Index futures midday close】CSI 300 index futures (IF) main contract fell 0.38%, SSE 50 index futures (IH) main contract rose 0.13%, CSI 500 index futures (IC) main contract fell 0.55%, CSI 1000 index futures (IM) main contract rose 0.38%."
+    },
     {
       "id": "mkt:019f1c7b-423f-7aab-8c4d-c8481b4ac2c9",
       "time": "2026-07-01 15:01:07",
@@ -10,6 +224,15 @@
         "Important"
       ],
       "text": "At the midday close, China's main futures contracts were mostly lower. Container freight on the Europe route plunged more than 10%; methanol and ethylene glycol (EG) fell over 3%. Red dates, metallurgical coke, palladium, China's SC crude and platinum dropped more than 2%. On the upside, lithium carbonate gained over 4%, polysilicon nearly 2%, peanuts more than 1%, and pulp and coated paper nearly 1%."
+    },
+    {
+      "id": "4964397",
+      "time": "2026-07-01 15:01:02",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "A股收盤，上證指數漲0.44%，深證成指跌0.53%，創業板指跌1.89%。"
     },
     {
       "id": "mkt:019f1c7a-c452-7aab-8c4d-c7dce2ddb1c0",
@@ -126946,245 +127169,6 @@
         "焦點"
       ],
       "text": "南向資金淨買入額達100億港元。"
-    },
-    {
-      "id": "4952010",
-      "time": "2026-06-24 15:06:49",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "萊茵金屬公司股價下跌9.1%，跌至2025年4月以來的最低水平。"
-    },
-    {
-      "id": "4952009",
-      "time": "2026-06-24 15:06:37",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：伊朗外長阿拉格齊與哈馬斯就加沙攻擊事件通話。"
-    },
-    {
-      "id": "4952008",
-      "time": "2026-06-24 15:06:12",
-      "tags": [
-        "公司"
-      ],
-      "text": "【智信精密：始終保持著與蘋果公司及其EMS廠商的密切合作】針對投資者關於“ 蘋果AI戰略全面升級，對公司業務有何具體影響？ ”的提問，智信精密6月24日在互動平臺回應，公司自成立以來，始終保持著與蘋果公司及其EMS廠商的密切合作，公司業務正常發展。"
-    },
-    {
-      "id": "mkt:019ef873-5fd8-7dd8-b0ef-decc1030ad78",
-      "time": "2026-06-24 15:06:11",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "Market Regions",
-        "Japan & APAC"
-      ],
-      "text": "JERA president said the company will consider whether to renew its LNG supply contract with the operator of Russia's Sakhalin-2 project and will ensure any decision aligns with Japanese government policy."
-    },
-    {
-      "id": "4952007",
-      "time": "2026-06-24 15:05:43",
-      "tags": [
-        "公司"
-      ],
-      "text": "【復星集團等在共青城成立新創業投資合夥企業 出資額2000萬】天眼查App顯示，近日，共青城銳新辰創業投資合夥企業（有限合夥）成立，執行事務合夥人為上海銳煦管理諮詢有限公司，出資額2000萬人民幣，經營範圍為創業投資。合夥人資訊顯示，該合夥企業由上海復星高科技（集團）有限公司、上海銳煦管理諮詢有限公司共同出資。"
-    },
-    {
-      "id": "mkt:019ef872-a1ea-7dd8-b0ef-d2a07997d99a",
-      "time": "2026-06-24 15:05:22",
-      "tags": [
-        "MKT News",
-        "CSI300",
-        "Impact bullish",
-        "Hang Seng Index"
-      ],
-      "text": "【MIIT chief engineer urges stronger planning for next‑generation communication and compute networks】At the opening of MWC Shanghai 2026, MIIT chief engineer Zhong Zhihong said China will maintain a moderately forward stance on new infrastructure and strengthen planning and construction of next‑generation communication and compute networks. He called for advancing dual‑gigabit networks to dual‑10‑gigabit, accelerating a multi‑tier compute‑facility system, and actively deploying low‑altitude information infrastructure and satellite internet to build an integrated space‑air‑ground information network."
-    },
-    {
-      "id": "mkt:019ef872-8a61-7dd8-b0ef-cedf03903daf",
-      "time": "2026-06-24 15:05:16",
-      "tags": [
-        "MKT News",
-        "SSE Composite",
-        "Impact mixed",
-        "SZSE Component",
-        "Impact bullish"
-      ],
-      "text": "【A-shares close: STAR 50 up 3.82%; advanced packaging, semiconductors lead gains】China A-shares closed higher despite weak breadth. Shanghai Composite +0.11%, Shenzhen Composite +1.24%, ChiNext +1.41%; Sci‑Tech Innovation 50 (STAR 50) +3.82%, Beijing Stock Exchange 50 +1.15%. Turnover across Shanghai and Shenzhen was 3.28 tln yuan, down 156.4 bln yuan from the prior session. Sector winners included refrigerants, glass fiber, advanced packaging, energy metals, electronic chemicals and semiconductors; laggards included forestry, manganese‑silicon, securities IT, cinema chains, coal mining & dressing and agriculture/forestry/livestock/fishery. More than 4,000 stocks fell."
-    },
-    {
-      "id": "4952006",
-      "time": "2026-06-24 15:05:15",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "日本電力天然氣合資公司JERA董事長：將考慮是否續簽俄羅斯薩哈林2號專案運營商的液化天然氣供應合同，同時確保任何決策都符合日本國家政策。"
-    },
-    {
-      "id": "4952005",
-      "time": "2026-06-24 15:05:11",
-      "tags": [
-        "其他"
-      ],
-      "text": "【國家能源局：截至5月底我國電動汽車充電基礎設施（槍）總數達到2249.7萬個 同比增長44.9%】國家能源局釋出2026年5月全國電動汽車充電設施資料。根據國家充電設施監測服務平臺資料，截至2026年5月底，我國電動汽車充電基礎設施（槍）總數達到2249.7萬個，同比增長44.9%。其中，公共充電設施（槍）495.1萬個，同比增長25.9%，額定總功率達到2.42億千瓦，單槍平均功率約為48.89千瓦；私人充電設施（槍）1754.6萬個，同比增長51.4%，私人充電設施報裝用電容量達到1.51億千伏安。單槍平均功率約為48.89千瓦，同比增長8.9%，今年以來保持穩步增長態勢，場站快速補能服務能力持續提升。私人充電設施（槍）數量今年以來同比增速一直超過50%，家用充電設施快速發展。"
-    },
-    {
-      "id": "4952004",
-      "time": "2026-06-24 15:04:55",
-      "tags": [
-        "公司"
-      ],
-      "text": "【華蘭股份成立生物醫藥科技公司 含多項AI業務】企查查APP顯示，近日，北京梵宇智拓生物醫藥科技有限公司成立，法定代表人為華一敏，註冊資本為1000萬元，經營範圍包含：自然科學研究和試驗發展；人工智慧行業應用系統整合服務；人工智慧通用應用系統等。企查查股權穿透顯示，該公司由華蘭股份間接全資持股。"
-    },
-    {
-      "id": "mkt:019ef872-30c5-7dd8-b0ef-c3990cb7169d",
-      "time": "2026-06-24 15:04:53",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "Crypto Concepts"
-      ],
-      "text": "Swiss National Bank deputy governor said there are currently no plans to launch a digital Swiss franc."
-    },
-    {
-      "id": "4952003",
-      "time": "2026-06-24 15:04:18",
-      "tags": [
-        "其他"
-      ],
-      "text": "瑞士國家銀行副董事長：目前不計劃推出數字瑞郎。"
-    },
-    {
-      "id": "4952002",
-      "time": "2026-06-24 15:04:10",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "泰國央行：信貸增長仍疲軟。"
-    },
-    {
-      "id": "mkt:019ef871-79ba-7dd8-b0ef-bc16fba99e16",
-      "time": "2026-06-24 15:04:06",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Kremlin spokesman Peskov said Russian authorities are preparing for the upcoming State Duma election and the date will not be postponed."
-    },
-    {
-      "id": "mkt:019ef871-371f-7dd8-b0ef-b50d582b1d1f",
-      "time": "2026-06-24 15:03:49",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "603986.SS"
-      ],
-      "text": "【Shanghai-Shenzhen turnover CNY 3.2843 trillion on June 24; GigaDevice tops by turnover】June 24 — Turnover across the Shanghai and Shenzhen markets totaled CNY 3,284.328 billion, down CNY 156.436 billion from the prior trading day. Shanghai turnover was CNY 1,514.193 billion (previous CNY 1,594.542 billion), volume 645 million lots (previous 709 million). Shenzhen turnover was CNY 1,770.135 billion (previous CNY 1,846.222 billion), volume 791 million lots (previous 809 million). GigaDevice led single-stock turnover at CNY 39.945 billion, followed by Zhongji Xuchuang CNY 34.437 billion, Luxshare Precision CNY 29.659 billion, BOE Technology CNY 24.997 billion and JCET CNY 23.789 billion."
-    },
-    {
-      "id": "4952001",
-      "time": "2026-06-24 15:03:44",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "歐盟機構警告：框架協議達成後，航空公司仍應避開伊朗上空領空。"
-    },
-    {
-      "id": "mkt:019ef871-1999-7dd8-b0ef-a86b1b802cfa",
-      "time": "2026-06-24 15:03:42",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "BOT expects inf to exceed the target range later this year."
-    },
-    {
-      "id": "4952000",
-      "time": "2026-06-24 15:03:41",
-      "tags": [
-        "公司"
-      ],
-      "text": "諾基亞與亞馬遜雲服務擴大合作，推出為人工智慧時代打造的自主網路。"
-    },
-    {
-      "id": "mkt:019ef870-ebd7-7dd8-b0ef-a4ec889cf9d6",
-      "time": "2026-06-24 15:03:30",
-      "tags": [
-        "MKT News",
-        "AIR.PA",
-        "Impact bearish"
-      ],
-      "text": "EASA issued an emergency airworthiness directive affecting 16 Airbus A380 aircraft."
-    },
-    {
-      "id": "4951999",
-      "time": "2026-06-24 15:03:27",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "泰國央行：通脹將於今年晚些時候超出目標區間。"
-    },
-    {
-      "id": "mkt:019ef870-9acb-7dd8-b0ef-9831b0a5727c",
-      "time": "2026-06-24 15:03:09",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Industrial Metals"
-      ],
-      "text": "【Dongfang Zirconium starts construction on 60,000 t/yr battery-grade zirconium oxychloride project】On June 23 Dongfang Zirconium’s subsidiary Qinyang Donggao New Materials Technology Co. began construction of a Phase I plant to produce 60,000 t/yr of new‑energy battery‑grade zirconium oxychloride and 12,000 t/yr of zirconium‑hafnium separated high‑purity oxides. Phase I total investment is 532 mln yuan; on completion the project will provide 60,000 t/yr of battery‑grade zirconium oxychloride capacity."
-    },
-    {
-      "id": "mkt:019ef870-7a79-7dd8-b0ef-933631383c4b",
-      "time": "2026-06-24 15:03:01",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "BOT says the Middle East conflict's impact on Thailand's manufacturing and tourism is milder than expected."
-    },
-    {
-      "id": "4951998",
-      "time": "2026-06-24 15:02:59",
-      "tags": [
-        "公司"
-      ],
-      "text": "【東方鋯業：年產6萬噸新能源電池級氯氧化鋯專案開工】據東方鋯業訊息，6月23日上午，控股子公司沁陽東鋯新材料科技有限公司年產6萬噸新能源電池級氯氧化鋯及1.2萬噸鋯鉿分離高純氧化物專案（一期）開工奠基儀式舉行。該專案（一期）總投資5.32億元，建成後將形成年產6萬噸新能源電池級氯氧化鋯的規模化生產能力。"
-    },
-    {
-      "id": "mkt:019ef870-5bae-7dd8-b0ef-8e190fa218f1",
-      "time": "2026-06-24 15:02:53",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "DXY",
-        "Impact bearish",
-        "EURUSD",
-        "Impact bullish",
-        "XAUUSD"
-      ],
-      "text": "BOT says monetary policy should remain accommodative."
-    },
-    {
-      "id": "mkt:019ef870-3be5-7dd8-b0ef-82d63b6349b0",
-      "time": "2026-06-24 15:02:45",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Amazon",
-        "Market Themes",
-        "Magnificent 7",
-        "NOK.N",
-        "Impact bullish",
-        "AMZN.O"
-      ],
-      "text": "Nokia (NOK.N) expands partnership with Amazon Web Services to launch autonomous networks designed for the AI era."
     }
   ]
 }
