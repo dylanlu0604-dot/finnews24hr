@@ -1,7 +1,80 @@
 {
-  "updated": "2026-07-02 04:29:17",
-  "count": 14069,
+  "updated": "2026-07-02 04:33:08",
+  "count": 14065,
   "items": [
+    {
+      "id": "mkt:019f1f62-1d6d-7aab-8c66-55feabfcb8b8",
+      "time": "2026-07-02 04:32:31",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY"
+      ],
+      "text": "Ukrainian officials say air-defence systems are intercepting Russian drone attacks on Kyiv; drone debris reported in at least two locations."
+    },
+    {
+      "id": "4965920",
+      "time": "2026-07-02 04:31:42",
+      "tags": [
+        "國際"
+      ],
+      "text": "先鋒領航股票市場ETF被選為特朗普賬戶投資標的。"
+    },
+    {
+      "id": "4965919",
+      "time": "2026-07-02 04:31:23",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "先鋒集團將擔任特朗普賬戶的備選基金合作方。"
+    },
+    {
+      "id": "mkt:019f1f60-8095-7aab-8c66-4a78fe13cf63",
+      "time": "2026-07-02 04:30:45",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "The New York Times reported U.S. Vice President Vance defended Trump’s approach to war and negotiations with Iran, saying the U.S. is using military force as a key bargaining chip in peace talks and that Trump’s demands on the military are markedly higher than those of prior presidents."
+    },
+    {
+      "id": "4965918",
+      "time": "2026-07-02 04:30:07",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "【軟銀集團擬以OpenAI股權擔保籌集100億美元貸款】知情人士透露，軟銀集團正與多家貸款機構談判，擬以OpenAI股權擔保籌集100億美元貸款。為了打消貸款方的顧慮，軟銀提議為貸款償還提供擔保，如果作為抵押品的OpenAI股份貶值，銀行可向軟銀追索。該貸款財團預計將包括高盛 、摩根大通和瑞穗集團。"
+    },
+    {
+      "id": "mkt:019f1f5e-fd11-7aab-8c66-42e653f8c7a2",
+      "time": "2026-07-02 04:29:06",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "U.S. President Trump said oil prices are falling."
+    },
+    {
+      "id": "mkt:019f1f5e-d7e6-7aab-8c66-3b1712e1e0fe",
+      "time": "2026-07-02 04:28:57",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "US President Trump said vessels are leaving the Strait of Hormuz."
+    },
     {
       "id": "4965917",
       "time": "2026-07-02 04:28:21",
@@ -129504,109 +129577,6 @@
         "Dow"
       ],
       "text": "【Wall Street banks pass Fed stress test, clear way for tens of billions in buybacks and dividends】All major US banks passed the Fed's annual stress test, clearing the way for tens of billions of dollars in share buybacks and dividends. The Fed said 2026 results will not affect capital requirements as it continues to revise the exercise to be more favorable to banks. The test covered 32 large bank holding companies under a severe global shock — commercial real estate down 39%, residential prices down 30%, unemployment peaking at 10% — and assumed lenders would absorb more than $708bn of loan losses. Regulators said aggregate capital fell only 1.6 percentage points and remained above minimum requirements."
-    },
-    {
-      "id": "4953482",
-      "time": "2026-06-25 04:33:00",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普談及向土耳其交付戰機一事：認為此舉會讓土方滿意。"
-    },
-    {
-      "id": "4953481",
-      "time": "2026-06-25 04:32:41",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普談及北約峰會：此舉是出於對埃爾多安的尊重。"
-    },
-    {
-      "id": "mkt:019efb55-a46e-7dd8-b104-bc48e38348f4",
-      "time": "2026-06-25 04:32:34",
-      "tags": [
-        "MKT News",
-        "GS.N",
-        "Impact bullish"
-      ],
-      "text": "Goldman Sachs (GS.N) plans to raise its dividend from $4.50 to $5.00."
-    },
-    {
-      "id": "4953480",
-      "time": "2026-06-25 04:32:09",
-      "tags": [
-        "公司",
-        "其他",
-        "焦點",
-        "國際"
-      ],
-      "text": "富國銀行將每股股息從 0.45 美元上調至 0.50 美元。"
-    },
-    {
-      "id": "mkt:019efb55-04ab-7dd8-b104-b3df2a50a500",
-      "time": "2026-06-25 04:31:53",
-      "tags": [
-        "MKT News",
-        "MS.O",
-        "Impact bullish"
-      ],
-      "text": "Morgan Stanley raised its quarterly dividend by $0.15 to $1.15 per share and reauthorized a $20 billion multi-year common stock repurchase program."
-    },
-    {
-      "id": "mkt:019efb54-a401-7dd8-b104-ac13ce7a3fa7",
-      "time": "2026-06-25 04:31:28",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution",
-        "Chip Wars",
-        "QCOM.O",
-        "Impact bullish"
-      ],
-      "text": "Qualcomm and Hugging Face expand their partnership to advance open, developer-driven AI across device-to-cloud environments."
-    },
-    {
-      "id": "4953479",
-      "time": "2026-06-25 04:31:26",
-      "tags": [
-        "市場"
-      ],
-      "text": "美光公佈業績後，閃迪盤後股價上漲 11.8%。"
-    },
-    {
-      "id": "4953478",
-      "time": "2026-06-25 04:30:30",
-      "tags": [
-        "公司",
-        "觀點",
-        "焦點",
-        "國際"
-      ],
-      "text": "摩根士丹利：每股股息上調 15 美分至 1.15 美元，重新批准一項規模 200 億美元的多年期普通股回購計劃。"
-    },
-    {
-      "id": "4953476",
-      "time": "2026-06-25 04:30:03",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：我欣賞土耳其總統埃爾多安。"
-    },
-    {
-      "id": "4953475",
-      "time": "2026-06-25 04:29:42",
-      "tags": [
-        "其他"
-      ],
-      "text": "高通預計將在資料中心領域搶佔超過5%的市場份額。預計2029財年IoT營收將為140億美元。"
-    },
-    {
-      "id": "mkt:019efb52-c26a-7dd8-b104-a37cbf67cb9c",
-      "time": "2026-06-25 04:29:25",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "iShares MSCI Korea ETF rose 6.4% in U.S. after-hours trading."
     }
   ]
 }

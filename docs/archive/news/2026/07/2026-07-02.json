@@ -1,7 +1,80 @@
 {
   "date": "2026-07-02",
-  "count": 277,
+  "count": 284,
   "items": [
+    {
+      "id": "mkt:019f1f62-1d6d-7aab-8c66-55feabfcb8b8",
+      "time": "2026-07-02 04:32:31",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY"
+      ],
+      "text": "Ukrainian officials say air-defence systems are intercepting Russian drone attacks on Kyiv; drone debris reported in at least two locations."
+    },
+    {
+      "id": "4965920",
+      "time": "2026-07-02 04:31:42",
+      "tags": [
+        "國際"
+      ],
+      "text": "先鋒領航股票市場ETF被選為特朗普賬戶投資標的。"
+    },
+    {
+      "id": "4965919",
+      "time": "2026-07-02 04:31:23",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "先鋒集團將擔任特朗普賬戶的備選基金合作方。"
+    },
+    {
+      "id": "mkt:019f1f60-8095-7aab-8c66-4a78fe13cf63",
+      "time": "2026-07-02 04:30:45",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "The New York Times reported U.S. Vice President Vance defended Trump’s approach to war and negotiations with Iran, saying the U.S. is using military force as a key bargaining chip in peace talks and that Trump’s demands on the military are markedly higher than those of prior presidents."
+    },
+    {
+      "id": "4965918",
+      "time": "2026-07-02 04:30:07",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "【軟銀集團擬以OpenAI股權擔保籌集100億美元貸款】知情人士透露，軟銀集團正與多家貸款機構談判，擬以OpenAI股權擔保籌集100億美元貸款。為了打消貸款方的顧慮，軟銀提議為貸款償還提供擔保，如果作為抵押品的OpenAI股份貶值，銀行可向軟銀追索。該貸款財團預計將包括高盛 、摩根大通和瑞穗集團。"
+    },
+    {
+      "id": "mkt:019f1f5e-fd11-7aab-8c66-42e653f8c7a2",
+      "time": "2026-07-02 04:29:06",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "U.S. President Trump said oil prices are falling."
+    },
+    {
+      "id": "mkt:019f1f5e-d7e6-7aab-8c66-3b1712e1e0fe",
+      "time": "2026-07-02 04:28:57",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "US President Trump said vessels are leaving the Strait of Hormuz."
+    },
     {
       "id": "4965917",
       "time": "2026-07-02 04:28:21",
