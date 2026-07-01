@@ -1,7 +1,32 @@
 {
-  "updated": "2026-07-02 03:54:44",
-  "count": 14109,
+  "updated": "2026-07-02 03:58:36",
+  "count": 14106,
   "items": [
+    {
+      "id": "mkt:019f1f41-7484-7aab-8c65-ecc145e96896",
+      "time": "2026-07-02 03:56:51",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Star Stocks",
+        "Apple",
+        "Market Themes",
+        "The Trump Trade",
+        "Magnificent 7",
+        "AAPL.O",
+        "Impact mixed"
+      ],
+      "text": "Market sources said Apple (AAPL.O) is negotiating with the Trump administration over chip procurement."
+    },
+    {
+      "id": "4965893",
+      "time": "2026-07-02 03:56:41",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "WTI原油失守68美元/桶，日內跌2.22%。"
+    },
     {
       "id": "mkt:019f1f3e-8e4f-7aab-8c65-e5e0437eb980",
       "time": "2026-07-02 03:53:41",
@@ -129968,60 +129993,6 @@
         "焦點"
       ],
       "text": "【納斯達克中國金龍指數收跌1.81%】金生遊樂跌14.84%，盛豐物流跌13.85%，海天網路跌9.77%，Tims中國跌9.38%，網易有道跌9.25%。"
-    },
-    {
-      "id": "mkt:019efb34-74ac-7dd8-b103-c41850c8a352",
-      "time": "2026-06-25 03:56:19",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Energy",
-        "Brent",
-        "Impact bearish",
-        "WTI"
-      ],
-      "text": "【Global crude futures retreat to pre-conflict levels】Brent settled down $3.34 (-4.3%) at $73.74/bbl and U.S. crude fell $2.87 (-3.9%) to $70.34/bbl, returning to levels seen before the US‑Israel‑Iran conflict erupted as more previously idled tankers left the Strait of Hormuz and supply concerns eased. ING said positive signals from the Persian Gulf are boosting optimism about restored flows through the Strait of Hormuz; vessel transits have risen but remain well below pre‑war levels."
-    },
-    {
-      "id": "4953421",
-      "time": "2026-06-25 03:55:27",
-      "tags": [
-        "其他"
-      ],
-      "text": "輝瑞：董事會批准每股 0.43 美元季度現金股息。"
-    },
-    {
-      "id": "mkt:019efb33-68b3-7dd8-b103-bbce0be9766e",
-      "time": "2026-06-25 03:55:10",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "【Iran's foreign ministry spokesman says US military presence, interventionism blocking regional peace】On the 24th, Iran's foreign ministry spokesman Baghaei wrote on social media that so long as US military presence and interventionism persist, and occupation forces acting as US proxies continue waging unending wars with impunity and committing genocide and other crimes, true peace in the region will be impossible."
-    },
-    {
-      "id": "4953420",
-      "time": "2026-06-25 03:55:02",
-      "tags": [
-        "國際"
-      ],
-      "text": "【伊朗外交部發言人：美國軍事與干涉主義阻礙地區和平】當地時間24日，伊朗外交部發言人巴加埃在其個人社交媒體平臺上表示，只要美國的軍事與干涉主義持續存在，只要作為其代理人的佔領軍在完全免責的情況下繼續對本地區施加無休止的戰爭，並實施種族滅絕及其他罪行，本地區就不可能實現真正的和平。（央視新聞）"
-    },
-    {
-      "id": "te:economy:561639",
-      "time": "2026-06-25 03:54:55",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Argentina",
-        "Current Account",
-        "Importance 1"
-      ],
-      "text": "Argentina Current Account Deficit Narrows — Argentina posted a current account deficit of $1.651 billion in the first quarter of 2026, narrowing from a $5.158 billion gap a year earlier. The result reflected negative balances in the services account, at $4.028 billion, and primary income, at $4.676 billion, partially offset by a goods trade surplus of $6.339 billion and a secondary income surplus of $714 million. The year-on-year improvement was mainly supported by a $3.214 billion increase in goods exports, a $532 million reduction in the services deficit, and a $1.066 billion decline in goods imports. The secondary income account also rose by $354 million. Meanwhile, the primary income deficit widened by $1.658 billion compared with the same period last year."
     }
   ]
 }

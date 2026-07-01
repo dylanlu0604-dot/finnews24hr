@@ -1,7 +1,32 @@
 {
   "date": "2026-07-02",
-  "count": 241,
+  "count": 243,
   "items": [
+    {
+      "id": "mkt:019f1f41-7484-7aab-8c65-ecc145e96896",
+      "time": "2026-07-02 03:56:51",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Star Stocks",
+        "Apple",
+        "Market Themes",
+        "The Trump Trade",
+        "Magnificent 7",
+        "AAPL.O",
+        "Impact mixed"
+      ],
+      "text": "Market sources said Apple (AAPL.O) is negotiating with the Trump administration over chip procurement."
+    },
+    {
+      "id": "4965893",
+      "time": "2026-07-02 03:56:41",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "WTI原油失守68美元/桶，日內跌2.22%。"
+    },
     {
       "id": "mkt:019f1f3e-8e4f-7aab-8c65-e5e0437eb980",
       "time": "2026-07-02 03:53:41",
