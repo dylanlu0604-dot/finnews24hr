@@ -1,7 +1,17 @@
 {
   "date": "2026-07-02",
-  "count": 157,
+  "count": 158,
   "items": [
+    {
+      "id": "mkt:019f1ede-60d3-7aab-8c64-ed466394b15a",
+      "time": "2026-07-02 02:08:37",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "【SpaceX unveils early handheld AI-device prototype using Qualcomm Snapdragon, integrates xAI】SpaceX showed investors and select stakeholders an early-stage handheld AI device prototype that it says could reshape human-AI interaction. The slim, iPhone-thinner unit runs a proprietary OS, integrates xAI’s AI tech and reportedly uses Qualcomm’s Snapdragon chip. The demo took place ahead of SpaceX’s planned large IPO. SpaceX cautioned the project is very early-stage, designs may change materially and commercialization is not confirmed. SpaceX and partners declined to comment."
+    },
     {
       "id": "4965842",
       "time": "2026-07-02 02:07:54",

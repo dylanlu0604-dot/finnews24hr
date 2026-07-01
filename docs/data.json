@@ -1,7 +1,17 @@
 {
-  "updated": "2026-07-02 02:08:46",
+  "updated": "2026-07-02 02:12:38",
   "count": 14158,
   "items": [
+    {
+      "id": "mkt:019f1ede-60d3-7aab-8c64-ed466394b15a",
+      "time": "2026-07-02 02:08:37",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "【SpaceX unveils early handheld AI-device prototype using Qualcomm Snapdragon, integrates xAI】SpaceX showed investors and select stakeholders an early-stage handheld AI device prototype that it says could reshape human-AI interaction. The slim, iPhone-thinner unit runs a proprietary OS, integrates xAI’s AI tech and reportedly uses Qualcomm’s Snapdragon chip. The demo took place ahead of SpaceX’s planned large IPO. SpaceX cautioned the project is very early-stage, designs may change materially and commercialization is not confirmed. SpaceX and partners declined to comment."
+    },
     {
       "id": "4965842",
       "time": "2026-07-02 02:07:54",
@@ -130512,14 +130522,6 @@
         "The Fed (FOMC)"
       ],
       "text": "【Fed finalizes reorganization of bank supervision unit】Federal Reserve Vice Chair for Supervision Michelle Bowman has completed a reorganization of the Fed’s bank supervision function to concentrate resources on what she describes as key financial risks, Bowman said in a memo to staff. The restructuring, effective July 12, reallocates personnel and resources into four functional groups—Supervision; Financial Research, Risk & Applications; Regulation & Policy; and Business Enablement—and the division will begin recruiting leaders and staff."
-    },
-    {
-      "id": "4953315",
-      "time": "2026-06-25 02:11:29",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國參議員沃倫計劃敦促國會加大對人工智慧等新興技術領域的反壟斷執法力度，並修訂併購相關法律，要求公開更多交易資訊。"
     }
   ]
 }
