@@ -1,7 +1,85 @@
 {
-  "updated": "2026-07-02 01:14:17",
-  "count": 14231,
+  "updated": "2026-07-02 01:18:10",
+  "count": 14230,
   "items": [
+    {
+      "id": "4965823",
+      "time": "2026-07-02 01:17:00",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "週三（7月1日），美聯儲隔夜逆回購協議（RRP）使用規模為10.01億美元（交易對手4家），上個交易日報269.00億美元。"
+    },
+    {
+      "id": "mkt:019f1eae-d5b2-7aab-8c64-54fd62554167",
+      "time": "2026-07-02 01:16:42",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "The Federal Reserve accepted $1.001 bln from four counterparties in a fixed-rate reverse repo operation."
+    },
+    {
+      "id": "mkt:019f1eae-97c0-7aab-8c64-4f6dadcab894",
+      "time": "2026-07-02 01:16:26",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Wall Street Journal: Sen. Elizabeth Warren has asked Federal Reserve regulators to review Fed Governor Bowman’s attendance at a private BofA dinner."
+    },
+    {
+      "id": "4965822",
+      "time": "2026-07-02 01:16:04",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "市場訊息：美國參議員沃倫要求美聯儲監管機構核查鮑曼出席美國銀行私人晚宴一事。"
+    },
+    {
+      "id": "mkt:019f1ead-fae4-7aab-8c64-4145ef4d3220",
+      "time": "2026-07-02 01:15:46",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Canada's minister for US-Canada trade affairs Leblanc said parties agree it is vital to continue consultations and explore ways to ensure the USMCA trade and investment framework operates effectively among Canada, the US and Mexico."
+    },
+    {
+      "id": "mkt:019f1ead-e8c3-7aab-8c64-3c21e86b986c",
+      "time": "2026-07-02 01:15:41",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. Trade Representative said the U.S. government is continuing analysis of the aerospace supply chain to inform tariff policy."
+    },
+    {
+      "id": "4965821",
+      "time": "2026-07-02 01:15:17",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國貿易代表：政府仍在分析航空航天產業鏈，以此制定關稅相關政策。很難想象總統的目標如何與行業關稅的調整相契合。"
+    },
+    {
+      "id": "4965820",
+      "time": "2026-07-02 01:14:58",
+      "tags": [
+        "其他"
+      ],
+      "text": "加拿大部長勒布朗談及《美墨加協定》：各方一致認同持續磋商十分重要，並將探尋方案，完善加、美、墨三國貿易與投資合作框架。"
+    },
+    {
+      "id": "mkt:019f1ead-2f30-7aab-8c64-33b4ac547b9d",
+      "time": "2026-07-02 01:14:53",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. Trade Representative says it is hard to imagine how the president's objectives would align with industry tariff adjustments."
+    },
     {
       "id": "4965819",
       "time": "2026-07-02 01:10:39",
@@ -131123,96 +131201,6 @@
         "市場"
       ],
       "text": "納斯達克100指數跌幅擴大至盤中低點0.5%。"
-    },
-    {
-      "id": "mkt:019efaa3-4b08-7dd8-b100-db95c8b2dc6f",
-      "time": "2026-06-25 01:17:45",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK",
-        "EURUSD",
-        "Impact bearish",
-        "DXY",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "U.S. Energy Secretary Wright said EU rules will make imports of U.S. liquefied natural gas (LNG) virtually impossible."
-    },
-    {
-      "id": "4953244",
-      "time": "2026-06-25 01:17:26",
-      "tags": [
-        "市場"
-      ],
-      "text": "鈀金期貨日內跌6%，現報1167.50美元/盎司。"
-    },
-    {
-      "id": "4953243",
-      "time": "2026-06-25 01:17:15",
-      "tags": [
-        "公司"
-      ],
-      "text": "亞馬遜旗下Zoox重新設計無人駕駛計程車，以適配大規模量產。"
-    },
-    {
-      "id": "mkt:019efaa2-b387-7dd8-b100-d33239c5fdfc",
-      "time": "2026-06-25 01:17:07",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)"
-      ],
-      "text": "The Federal Reserve accepted $4.534 bln from seven counterparties in a fixed-rate reverse repurchase operation."
-    },
-    {
-      "id": "4953242",
-      "time": "2026-06-25 01:17:02",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "週三（6月24日），美聯儲隔夜逆回購協議（RRP）使用規模為45.34億美元（交易對手7家），上個交易日報64.84億美元。"
-    },
-    {
-      "id": "4953241",
-      "time": "2026-06-25 01:16:56",
-      "tags": [
-        "其他"
-      ],
-      "text": "空客被要求對部分存在機翼裂紋問題的A380客機進行檢查。"
-    },
-    {
-      "id": "4953240",
-      "time": "2026-06-25 01:16:44",
-      "tags": [
-        "其他"
-      ],
-      "text": "市場資訊：紐約結婚許可及其他線索顯示泰勒·斯威夫特將於7月3日舉行婚禮。"
-    },
-    {
-      "id": "4953239",
-      "time": "2026-06-25 01:16:22",
-      "tags": [
-        "國際"
-      ],
-      "text": "諾和諾德美國區總裁：聯邦醫保患者中，選擇口服 GLP‑1 片劑的人數是注射劑的兩倍。"
-    },
-    {
-      "id": "4953238",
-      "time": "2026-06-25 01:15:45",
-      "tags": [
-        "其他"
-      ],
-      "text": "EVO與Visa宣佈建立多年合作伙伴關係，共同助力全球遊戲社群。"
-    },
-    {
-      "id": "4953237",
-      "time": "2026-06-25 01:14:49",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國能源部長賴特稱，歐盟新規（甲烷法規）將讓美國液化天然氣（LNG）幾乎無法進入歐洲市場。"
     }
   ]
 }
