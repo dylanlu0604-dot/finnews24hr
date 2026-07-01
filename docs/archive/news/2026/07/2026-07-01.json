@@ -1,7 +1,137 @@
 {
   "date": "2026-07-01",
-  "count": 2913,
+  "count": 2925,
   "items": [
+    {
+      "id": "4965340",
+      "time": "2026-07-01 20:57:44",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "現代汽車美國公司6月混合動力車銷量增長74%。"
+    },
+    {
+      "id": "mkt:019f1dc1-77fc-7aab-8c59-44b90fa4822a",
+      "time": "2026-07-01 20:57:26",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "PETR4.SA",
+        "Impact bearish"
+      ],
+      "text": "Petrobras will cut jet fuel prices by 14.5% effective July 1."
+    },
+    {
+      "id": "mkt:019f1dc1-076d-7aab-8c59-3c5136d74d4b",
+      "time": "2026-07-01 20:56:57",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "EURUSD",
+        "Impact bearish",
+        "US10Y"
+      ],
+      "text": "【BofA expects BOC to hold rates until 2027 even if Fed hikes】BofA says Macklem’s backdrop differs from peers: Canada’s core inflation is roughly 2% and energy-rich provinces have seen short-term gains from the oil-price surge, leaving little sign of overheating. After a small Q1 contraction, Q2 annualized growth is expected above 2%; traders have pulled back wagers on a year-end BOC hike. BofA now expects the Bank of Canada to keep policy rates unchanged until 2027 even if the Fed resumes tightening."
+    },
+    {
+      "id": "mkt:019f1dc1-0579-7aab-8c59-35d8c6c257b7",
+      "time": "2026-07-01 20:56:56",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "GBPUSD",
+        "Impact bearish"
+      ],
+      "text": "【UK inflation near peak — will Bailey pave way for cuts at Sintra?】Bank of England Governor Bailey is scheduled to speak in Sintra this week and is expected to take a relatively relaxed tone. A global oil-price plunge has eased inflation pressures; institutional research projects inflation will peak near 3% and fall to about 2.3% next year, well below the BoE’s prior outlook, which could allow rates to be cut from 3.75% to 3.5% by June 2027. Markets will watch whether Bailey today effectively endorses that view and explicitly rules out further hikes."
+    },
+    {
+      "id": "mkt:019f1dc0-efd0-7aab-8c59-29d4543777c7",
+      "time": "2026-07-01 20:56:51",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "META.O",
+        "Impact mixed"
+      ],
+      "text": "【Meta plans cloud unit to sell surplus AI compute and model access】Meta Platforms (META.O) is planning a cloud infrastructure business to sell access to AI compute and models, creating direct competition with AWS, Microsoft Azure and Google Cloud, people familiar with the matter said. Meta has been acquiring data centers and other infrastructure to support its AI development; a potential plan would sell usage rights to various AI models hosted on Meta’s infrastructure—similar to AWS’s Bedrock—while Meta would operate the supporting data centers and chips (including its in‑house Muse Spark model) and charge developers usage fees."
+    },
+    {
+      "id": "4965339",
+      "time": "2026-07-01 20:56:43",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "雷諾印度公司：6月批發銷量上漲55%。"
+    },
+    {
+      "id": "mkt:019f1dc0-b912-7aab-8c59-2059f581abf8",
+      "time": "2026-07-01 20:56:37",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bearish"
+      ],
+      "text": "WTI crude oil futures fell to $68.22/bbl, the lowest level since Feb. 27."
+    },
+    {
+      "id": "4965338",
+      "time": "2026-07-01 20:55:54",
+      "tags": [
+        "市場",
+        "焦點",
+        "國際"
+      ],
+      "text": "美國原油期貨跌至每桶68.22美元，創2月27日以來新低。"
+    },
+    {
+      "id": "4965337",
+      "time": "2026-07-01 20:55:33",
+      "tags": [
+        "國際"
+      ],
+      "text": "【“出口中國”英國專場活動在倫敦舉行】7月1日，“出口中國”英國專場活動在倫敦舉行。商務部部長王文濤、英國商貿大臣凱爾出席並致辭。駐英國大使鄭澤光、中國工商銀行執行董事段紅濤、英中貿易協會主席吳思田等出席。王文濤表示，英國是中國在歐洲第3大貿易伙伴，中國是英國在亞洲最大的貿易伙伴，中英經貿領域合作不斷深化，實現優勢產業互補、市場要素互通。中方願與英方一道，共同推動把中英合作“大有可為”的潛力轉化為“大有作為”的實績。王文濤表示，中國擁有全球規模最大的中等收入群體和超大規模市場優勢，擴大自英國進口的潛力巨大。我們從貿易伙伴的角度出發，打造“出口中國”品牌，致力於與全球共享中國發展新機遇，為世界經濟注入正能量。希望英方企業積極參加“出口中國”系列活動和第九屆中國國際進口博覽會，與中國企業深入對接、洽談，持續拓展中英貿易合作領域，實現互利共贏，共創中英經貿合作新篇章。（商務部）"
+    },
+    {
+      "id": "mkt:019f1dbe-f9f0-7aab-8c59-1b64e28e0ca9",
+      "time": "2026-07-01 20:54:42",
+      "tags": [
+        "MKT News",
+        "DXY"
+      ],
+      "text": "Kazakhstan central bank said it sold $200 mln of US dollars from the National Fund into the domestic market in June and plans to sell up to $300 mln more in July."
+    },
+    {
+      "id": "mkt:019f1dbe-e82f-7aab-8c59-11b1b854fc83",
+      "time": "2026-07-01 20:54:38",
+      "tags": [
+        "MKT News",
+        "Important",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "National Bank of Kazakhstan sold FX worth 354 bln tenge in June to hedge gold purchases and expects to sell about 1.1 tln tenge of FX in Q3."
+    },
+    {
+      "id": "4965336",
+      "time": "2026-07-01 20:54:03",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "哈薩克央行表示，6月其在國內市場從國家基金中出售了價值2億美元的外匯。計劃7月從國家基金中出售不超過3億美元的外匯資產。"
+    },
     {
       "id": "4965335",
       "time": "2026-07-01 20:53:56",
