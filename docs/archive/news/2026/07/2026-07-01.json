@@ -1,7 +1,185 @@
 {
   "date": "2026-07-01",
-  "count": 3007,
+  "count": 3026,
   "items": [
+    {
+      "id": "mkt:019f1dd6-a7ae-7aab-8c5a-6c0cc24a2c7f",
+      "time": "2026-07-01 21:20:34",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Fed Chair Kevin Warsh said progress in assessing the effects of productivity, data and the inf framework would provide policymakers experience to draw on."
+    },
+    {
+      "id": "4965400",
+      "time": "2026-07-01 21:19:58",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲沃什：如果我們在研究生產率影響、資料及通脹框架方面取得進展，這將是值得我們學習的內容。"
+    },
+    {
+      "id": "4965399",
+      "time": "2026-07-01 21:19:07",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行行長拉加德：目前風險比幾周前更為均衡。"
+    },
+    {
+      "id": "4965398",
+      "time": "2026-07-01 21:18:51",
+      "tags": [
+        "其他"
+      ],
+      "text": "拉加德：當前通脹與增長兩端的風險已趨於均衡。"
+    },
+    {
+      "id": "mkt:019f1dd4-edd2-7aab-8c5a-615251a96b30",
+      "time": "2026-07-01 21:18:41",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "ECB President Lagarde said risks are more balanced than a few weeks ago."
+    },
+    {
+      "id": "mkt:019f1dd4-d2c3-7aab-8c5a-5c5a64999e74",
+      "time": "2026-07-01 21:18:34",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "GBPUSD"
+      ],
+      "text": "GBP/USD briefly rebounded about 20 pips to 1.3233."
+    },
+    {
+      "id": "mkt:019f1dd4-d207-7aab-8c5a-5304b5b130fd",
+      "time": "2026-07-01 21:18:34",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Fed chair Kevin Warsh said expanding supply will have a significant impact on policy."
+    },
+    {
+      "id": "4965397",
+      "time": "2026-07-01 21:18:26",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲沃什：供給擴張將對政策產生重大影響。"
+    },
+    {
+      "id": "mkt:019f1dd4-22bf-7aab-8c5a-4c65b37e23f3",
+      "time": "2026-07-01 21:17:49",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "Federal Reserve Chairman Kevin Warsh said the artificial intelligence boom is particularly pronounced in the United States and called it an exciting, significant moment for central bankers."
+    },
+    {
+      "id": "4965396",
+      "time": "2026-07-01 21:17:37",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲沃什：當下對央行從業者而言，是充滿機遇、影響深遠的時代。"
+    },
+    {
+      "id": "mkt:019f1dd3-e19d-7aab-8c5a-407c9f3a0aa0",
+      "time": "2026-07-01 21:17:32",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "Fed chair Kevin Warsh said whether AI is inflationary should be left to central banks to decide."
+    },
+    {
+      "id": "mkt:019f1dd3-de0c-7aab-8c5a-3c7a29ff4d2a",
+      "time": "2026-07-01 21:17:31",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "China EV Leaders",
+        "300750.SZ",
+        "Impact bullish"
+      ],
+      "text": "【CATL signs strategic cooperation with J&T Express】On June 30, CATL signed a strategic cooperation agreement with J&T Express to scale deployment of new-energy heavy trucks, light logistics vehicles and electric warehouse forklifts. CATL will supply more than 5,000 heavy trucks in J&T’s fleet with full-suite swappable battery packs, swap-station equipment and operations & maintenance services."
+    },
+    {
+      "id": "4965395",
+      "time": "2026-07-01 21:17:25",
+      "tags": [
+        "市場"
+      ],
+      "text": "【野村證券團隊：斷言晶片股見頂還為時過早】野村證券團隊表示，現在斷言晶片股見頂還為時過早。他們認為晶片股的上漲勢頭將繼續，原因有二：一是那些要麼大幹一場要麼出局的超大規模資料中心運營商在2027年仍無法停止投入，部分理由是儲存晶片成本不斷上漲；二是資料中心建設計劃正在加速推進。該團隊稱近期晶片價格回撥是“健康”的，但同時警告稱，市場尚未消化未來可能出現的一些風險和短缺。"
+    },
+    {
+      "id": "4965394",
+      "time": "2026-07-01 21:17:06",
+      "tags": [
+        "其他"
+      ],
+      "text": "【野村反駁“半導體見頂論”：“史詩級缺口”將至 漲價與盈利上修仍是最大催化劑】野村警告，AI半導體週期遠未見頂，2026年下半年或迎“史詩級”供應鏈錯配。隨著雲廠商資本開支援續擴張，先進封裝、PCB、CCL等零部件短缺將推動漲價與盈利上修。儘管臺積電正激進擴張其晶圓級封裝產能，但真正的供應瓶頸將轉移至晶圓級基板（WoS）以及印刷電路板（PCB）和覆銅板（CCL）等較小零部件。這一結構性短缺將直接加劇短期市場的價格波動，但也印證了本輪週期的長期可持續性。"
+    },
+    {
+      "id": "mkt:019f1dd3-6784-7aab-8c5a-340e006735ac",
+      "time": "2026-07-01 21:17:01",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "【Fed official repeats June remarks: criticizes forward guidance, avoids commenting on economic outlook】In the panel’s first response the official echoed his June rate-decision remarks: he reiterated criticism of forward guidance—part of his push for institutional change—but declined to provide any detail on his view of the current economic outlook. Markets will watch for any further economic commentary."
+    },
+    {
+      "id": "4965393",
+      "time": "2026-07-01 21:16:57",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲沃什： 人工智慧是否會加劇通脹應由央行決定。人工智慧熱潮率先在美國顯現，且勢頭十分強勁。"
+    },
+    {
+      "id": "4965392",
+      "time": "2026-07-01 21:16:51",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲沃什：人工智慧熱潮在美國表現得最為突出。"
+    },
+    {
+      "id": "mkt:019f1dd3-1544-7aab-8c5a-2f7901df9690",
+      "time": "2026-07-01 21:16:40",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Fed chair Kevin Warsh said he hopes the working group's findings will benefit the public."
+    },
+    {
+      "id": "4965391",
+      "time": "2026-07-01 21:16:35",
+      "tags": [
+        "其他"
+      ],
+      "text": "沃什發表講話之際，彭博美元指數觸及日內高點。"
+    },
     {
       "id": "mkt:019f1dd2-e2b7-7aab-8c5a-2466817323d4",
       "time": "2026-07-01 21:16:27",
