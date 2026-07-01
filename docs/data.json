@@ -1,7 +1,131 @@
 {
-  "updated": "2026-07-02 00:57:46",
-  "count": 14230,
+  "updated": "2026-07-02 01:02:30",
+  "count": 14233,
   "items": [
+    {
+      "id": "4965813",
+      "time": "2026-07-02 01:01:40",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "伊朗伊斯蘭共和國通訊社（ISNA）： 伊朗副外長稱，在卡達舉行的會談中雙方已敲定，60 億美元凍結資產中的一部分，將根據伊朗自身需求用於採購物資。"
+    },
+    {
+      "id": "mkt:019f1ea0-b55f-7aab-8c63-ea536cf2f71d",
+      "time": "2026-07-02 01:01:16",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. Trade Representative said Trump has adjusted the USMCA under his new tariff and trade policy, but improvements remain possible through negotiation."
+    },
+    {
+      "id": "4965812",
+      "time": "2026-07-02 01:00:58",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國貿易代表辦公室將繼續就《美墨加協定》修訂事宜與國會及公眾開展磋商。"
+    },
+    {
+      "id": "mkt:019f1ea0-615e-7aab-8c63-e293f9db94ae",
+      "time": "2026-07-02 01:00:54",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "U.S. Trade Representative: the office will continue to consult Congress and the public on revisions to the US-Mexico-Canada Agreement (USMCA)."
+    },
+    {
+      "id": "4965811",
+      "time": "2026-07-02 01:00:37",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "伊朗伊斯蘭共和國通訊社（ISNA）： 伊朗副外長表示，伊美雙方將搭建溝通渠道，用於通報、磋商違反伊美諒解備忘錄的相關事宜。"
+    },
+    {
+      "id": "4965810",
+      "time": "2026-07-02 01:00:17",
+      "tags": [
+        "國際"
+      ],
+      "text": "墨西哥經濟部長：我們將於 7 月 20 日再度與美國貿易代表磋商《美墨加協定》相關事宜。"
+    },
+    {
+      "id": "4965809",
+      "time": "2026-07-02 01:00:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "【夜盤期貨收盤】國際銅夜盤收漲0.10%，滬銅收漲0.07%，滬鋁收平，滬鋅收跌0.47%，滬鉛收跌0.57%，滬鎳收跌0.10%，滬錫收漲0.99%。氧化鋁夜盤收漲0.11%，鋁合金收漲0.40%。不鏽鋼夜盤收跌0.54%。"
+    },
+    {
+      "id": "4965808",
+      "time": "2026-07-02 01:00:00",
+      "tags": [
+        "國際"
+      ],
+      "text": "北約訊息人士：北約將於安卡拉峰會宣佈，歐洲盟國已補齊美國在聯盟防務計劃中留下的幾乎所有缺口。 北約防務計劃中目前的主要缺口在於戰略轟炸機。"
+    },
+    {
+      "id": "mkt:019f1e9f-489c-7aab-8c63-dac0c5829f96",
+      "time": "2026-07-02 00:59:42",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "IRNA reported Iran's deputy foreign minister said Tehran will set up communication channels to report and discuss violations of the Iran–U.S. memorandum of understanding."
+    },
+    {
+      "id": "mkt:019f1e9f-0b74-7aab-8c63-d5133b8d8b3d",
+      "time": "2026-07-02 00:59:27",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Mexico's economy minister EBRARD said U.S. trade representative GREER indicated the U.S. wants to review the USMCA annually for the next 10 years. Mexico will meet GREER again on July 20 to discuss the USMCA."
+    },
+    {
+      "id": "4965807",
+      "time": "2026-07-02 00:59:13",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗伊斯蘭共和國通訊社（ISNA）： 伊朗副外長表示卡達會談已結束。"
+    },
+    {
+      "id": "4965806",
+      "time": "2026-07-02 00:58:27",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普： 美國參議院共和黨領袖圖恩有權解僱參議院議事顧問，現在就該動手。"
+    },
+    {
+      "id": "mkt:019f1e9d-ebd5-7aab-8c63-ce23200b27aa",
+      "time": "2026-07-02 00:58:13",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "NATO sources said the alliance will announce at the Ankara summit that European allies have filled nearly all gaps left by the US in NATO's defense plans."
+    },
+    {
+      "id": "4965805",
+      "time": "2026-07-02 00:57:46",
+      "tags": [
+        "國際"
+      ],
+      "text": "【萬斯：美伊間接會談進展順利 核問題相關討論將很快開始】當地時間7月1日，美國副總統萬斯表示，美國和伊朗當天在卡達首都多哈舉行的間接技術性會談“進展順利”，有關核問題的討論將很快開始。萬斯說，目前技術談判人員正在多哈與伊朗、卡達方面討論相關細節。萬斯表示：“我們擔心核問題，我們將開始討論這個問題，現在談判進展順利。”（央視新聞）"
+    },
+    {
+      "id": "4965804",
+      "time": "2026-07-02 00:57:19",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：參議院為何不解僱議會法律顧問，我實在無法理解。"
+    },
     {
       "id": "4965803",
       "time": "2026-07-02 00:56:44",
@@ -131112,132 +131236,6 @@
         "MKT News"
       ],
       "text": "CNN reports President Trump is en route to Capitol Hill for a lunch with Senate Republicans."
-    },
-    {
-      "id": "mkt:019efa95-1c24-7dd8-b100-9d2d2fa5eb24",
-      "time": "2026-06-25 01:02:16",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "Treasury Yields",
-        "DXY",
-        "Impact bullish",
-        "XAUUSD",
-        "Impact bearish",
-        "USDJPY"
-      ],
-      "text": "US 5-year Treasury auction as of June 24 — percentage of awards at the stop-out yield 86.81% (prior 75.22%)."
-    },
-    {
-      "id": "mkt:019efa95-18d9-7dd8-b100-90c4e927abea",
-      "time": "2026-06-25 01:02:15",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "Treasury Yields",
-        "US10Y",
-        "Impact bearish",
-        "DXY",
-        "Impact bullish",
-        "XAUUSD"
-      ],
-      "text": "U.S. 5-year Treasury auction on June 24: stop-out yield 4.20%, prior 4.18%."
-    },
-    {
-      "id": "mkt:019efa95-16e4-7dd8-b100-8c78412c91cb",
-      "time": "2026-06-25 01:02:15",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "Treasury Yields",
-        "US10Y",
-        "Impact bullish"
-      ],
-      "text": "US 5-year Treasury auction bid-cover ratio 2.35 on June 24; prior 2.34."
-    },
-    {
-      "id": "mkt:019efa94-f786-7dd8-b100-8244f6ac866c",
-      "time": "2026-06-25 01:02:07",
-      "tags": [
-        "MKT News",
-        "Economic Calendar"
-      ],
-      "text": "United States | 5-Year Note Auction Bid/Cover Ratio (Jun.24) | actual 2.35 | previous 2.34"
-    },
-    {
-      "id": "mkt:019efa94-f74c-7dd8-b100-7cc271b37a98",
-      "time": "2026-06-25 01:02:07",
-      "tags": [
-        "MKT News",
-        "Economic Calendar"
-      ],
-      "text": "United States | 5-Year Note Auction Accepted at High (Jun.24) | actual 86.81% | previous 75.22%"
-    },
-    {
-      "id": "mkt:019efa94-f73a-7dd8-b100-74e3636052a2",
-      "time": "2026-06-25 01:02:07",
-      "tags": [
-        "MKT News",
-        "Economic Calendar"
-      ],
-      "text": "United States | 5-Year Note Auction High Yield Rate (Jun.24) | actual 4.2% | previous 4.18%"
-    },
-    {
-      "id": "mkt:019efa94-4cd2-7dd8-b100-6cb860701b12",
-      "time": "2026-06-25 01:01:23",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Industrial Metals",
-        "Copper",
-        "Impact bearish"
-      ],
-      "text": "【Night session most-active contracts close】At the 01:00 night-session close, Shanghai most-active copper contract fell 2.30%, aluminum down 2.13%, zinc down 1.33%, nickel down 1.72%, tin down 2.64%, lead down 0.95%, stainless steel down 0.85% and alumina down 0.84%; international most-active copper contract fell 2.29%."
-    },
-    {
-      "id": "4953228",
-      "time": "2026-06-25 01:00:27",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "700億美元拍賣前，美國國債5年期收益率為4.193%。"
-    },
-    {
-      "id": "4953227",
-      "time": "2026-06-25 01:00:16",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國能源部長賴特稱，預計將於今年晚些時候前往委內瑞拉。"
-    },
-    {
-      "id": "4953226",
-      "time": "2026-06-25 01:00:03",
-      "tags": [
-        "市場"
-      ],
-      "text": "【夜盤期貨收盤】國際銅夜盤收跌2.29%，滬銅收跌2.30%，滬鋁收跌2.13%，滬鋅收跌1.33%，滬鉛收跌0.95%，滬鎳收跌1.76%，滬錫收跌2.65%。氧化鋁夜盤收跌0.84%，鋁合金收跌1.69%。不鏽鋼夜盤收跌0.85%。"
-    },
-    {
-      "id": "4953225",
-      "time": "2026-06-25 00:58:42",
-      "tags": [
-        "國際"
-      ],
-      "text": "【以黎華盛頓首輪談判首日未能取得任何進展】以色列與黎巴嫩在華盛頓舉行的首輪談判首日未能取得任何進展，雙方在以色列撤軍範圍與時間節點上存在重大分歧。會談氣氛愈發緊張，兩國分歧依舊懸殊。美國調解方目前實質上重啟談判，試圖促使雙方軟化立場，推動磋商重回正軌。"
-    },
-    {
-      "id": "mkt:019efa90-ff06-7dd8-b100-6672a696b6ed",
-      "time": "2026-06-25 00:57:46",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "WTI",
-        "DXY"
-      ],
-      "text": "Axios reports the first day of Israel-Lebanon talks in Washington produced no progress; the parties remain sharply divided on the scope and timeline of an Israeli withdrawal."
     }
   ]
 }
