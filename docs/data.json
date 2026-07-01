@@ -1,7 +1,57 @@
 {
-  "updated": "2026-07-02 04:25:27",
-  "count": 14070,
+  "updated": "2026-07-02 04:29:17",
+  "count": 14069,
   "items": [
+    {
+      "id": "4965917",
+      "time": "2026-07-02 04:28:21",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國副總統萬斯為特朗普有關伊朗戰事的談判舉措辯護，稱美方正藉助軍事力量推進和平談判；他同時承認，相較於歷任總統，特朗普對軍方提出了更高要求。"
+    },
+    {
+      "id": "4965916",
+      "time": "2026-07-02 04:27:20",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "特朗普：油價正在下跌。"
+    },
+    {
+      "id": "4965915",
+      "time": "2026-07-02 04:27:09",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：大量船隻正駛出霍爾木茲海峽。"
+    },
+    {
+      "id": "4965914",
+      "time": "2026-07-02 04:26:41",
+      "tags": [
+        "國際"
+      ],
+      "text": "烏克蘭：基輔市中心發生爆炸並引發火災。"
+    },
+    {
+      "id": "4965913",
+      "time": "2026-07-02 04:26:06",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "美國財政部：特朗普賬戶的繳存資金將全部投向SPYM交易所交易基金（ETF），SPYM將設為所有賬戶的預設投資標的，特朗普專屬賬戶配置清單還包含IVV、VTI、SPTM、ITOT產品。"
+    },
+    {
+      "id": "mkt:019f1f5b-d88c-7aab-8c66-3517337bb534",
+      "time": "2026-07-02 04:25:40",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "President Trump said the US has built the most advanced submarines ever and is 15 years ahead of rivals in submarines and several other areas."
+    },
     {
       "id": "4965912",
       "time": "2026-07-02 04:24:53",
@@ -129557,66 +129607,6 @@
         "MKT News"
       ],
       "text": "iShares MSCI Korea ETF rose 6.4% in U.S. after-hours trading."
-    },
-    {
-      "id": "4953473",
-      "time": "2026-06-25 04:28:25",
-      "tags": [
-        "公司"
-      ],
-      "text": "高通首席財務官：公司目標 2029 財年汽車業務營收約 100 億美元。"
-    },
-    {
-      "id": "4953472",
-      "time": "2026-06-25 04:27:44",
-      "tags": [
-        "其他"
-      ],
-      "text": "高通稱有望成為全球最大車用晶片廠商。"
-    },
-    {
-      "id": "4953470",
-      "time": "2026-06-25 04:27:22",
-      "tags": [
-        "國際"
-      ],
-      "text": "【魯比奧：美伊技術性談判將於月底恢復】美國國務卿魯比奧24日在科威特城表示，美國和伊朗之間的技術性談判將於本月底恢復，談判很可能在瑞士舉行。魯比奧在結束訪問科威特、前往巴林前對媒體記者表示，美國在涉伊朗問題的處理上不會損害海灣地區盟友的安全。“我們將與海灣地區的夥伴完全保持一致。”（新華社）"
-    },
-    {
-      "id": "te:markets:561641",
-      "time": "2026-06-25 04:27:05",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Canada",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "TSX Dips on Mining and Energy Losses — The S&P/TSX Composite Index fell 0.5% to close at 34,736, pressured by weakness in commodity-linked sectors. Gold prices declined as the dollar strengthened on rising bets for further US rate hikes, weighing on mining shares. Agnico Eagle lost 4.1%, Barrick shed 4.3%, and WPM retreated 2.9%. Oil prices also extended this week’s losses on signs that more tankers are set to leave the Strait of Hormuz, pressuring energy stocks. Canadian Natural dropped 3.7%, Suncor fell 3.4%, and Cenovus lost 4.1%. In contrast, Canadian technology stocks rebounded from the previous session’s global selloff, with Shopify rising 6.1%, Constellation Software up 2.8%, and Celestica gaining 3.3% ahead of Micron’s earnings report. Micron reported third-quarter results above expectations after the bell."
-    },
-    {
-      "id": "4953468",
-      "time": "2026-06-25 04:27:00",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普談及英國伯納姆：其大機率不會放開北海油氣開發，  我聽說他是極度自由主義者。"
-    },
-    {
-      "id": "4953466",
-      "time": "2026-06-25 04:25:51",
-      "tags": [
-        "其他"
-      ],
-      "text": "高通首席財務官：兩大超大規模定製晶片客戶將在 2027 財年帶來 10 億美元營收。"
-    },
-    {
-      "id": "4953465",
-      "time": "2026-06-25 04:25:32",
-      "tags": [
-        "公司"
-      ],
-      "text": "高通首席財務官：公司目標 2029 財年資料中心業務營收超 150 億美元。"
     }
   ]
 }
