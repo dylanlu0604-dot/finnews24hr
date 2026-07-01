@@ -1,7 +1,61 @@
 {
-  "updated": "2026-07-01 09:18:24",
-  "count": 13973,
+  "updated": "2026-07-01 09:22:17",
+  "count": 13967,
   "items": [
+    {
+      "id": "mkt:019f1b44-7c43-7aab-8c47-73dce8402794",
+      "time": "2026-07-01 09:21:40",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Container shipping index (Europe route) most-active contract fell 200.0 points intraday to 2,638.5, down 7.05%."
+    },
+    {
+      "id": "4963930",
+      "time": "2026-07-01 09:21:18",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "集運指數歐線期貨連續主力合約日內跌7%，現報2639.00點。"
+    },
+    {
+      "id": "mkt:019f1b43-4d79-7aab-8c47-6e701ac20472",
+      "time": "2026-07-01 09:20:23",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "Hang Seng Index"
+      ],
+      "text": "HKEX closed today for Hong Kong SAR Establishment Day."
+    },
+    {
+      "id": "4963929",
+      "time": "2026-07-01 09:19:43",
+      "tags": [
+        "國際"
+      ],
+      "text": "埃及第一季度GDP環比下降7.52%。"
+    },
+    {
+      "id": "4963928",
+      "time": "2026-07-01 09:19:15",
+      "tags": [
+        "公司"
+      ],
+      "text": "【通富微電回應公司將新增30億光模組收入傳聞：不屬實】針對投資者關於“ 有訊息稱公司將新增30億光模組收入，是否實屬？”的提問，通富微電7月1日在互動平臺回應稱，公司暫無相關業務，該訊息不屬實。"
+    },
+    {
+      "id": "4963927",
+      "time": "2026-07-01 09:18:20",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【大限已至 7月1日起貨幣經紀商對未簽署付費服務協議的機構或停止債券報價服務】中國人民銀行此前公佈《銀行間市場經紀業務管理辦法》，自2026年1月1日起實施。其中提到，針對本辦法實施後新接受的委託，經紀機構應當按要求籤署服務協議。對於本辦法實施前產生的委託，經紀機構應當在2026年7月1日前與委託方補充簽署服務協議，並達到本辦法規定的條件。上海國利貨幣經紀有限公司等多家經紀機構此前釋出推進貨幣經紀服務協議與費率表簽署的提示函，誠請各公司基於平等互利原則，儘快就《貨幣經紀服務協議》達成一致並完成簽署。若未能及時規範簽署，雙方在開展相關產品經紀業務時均將面臨合規風險，後續服務的正常連續開展亦可能受到影響。國家金融監督管理總局《貨幣經紀公司管理辦法》(2025年第6號)第二十一條明確規定，貨幣經紀公司提供經紀服務應與客戶簽訂服務協議，約定服務內容、期限、費率等事項，金融機構應當配合貨幣經紀公司遵守相關規定，維護市場公平秩序。"
+    },
     {
       "id": "4963926",
       "time": "2026-07-01 09:17:38",
@@ -128302,132 +128356,6 @@
         "市場"
       ],
       "text": "【港股醫藥股走強 和譽漲近5%】截至發稿，和譽-B(02256.HK)漲4.67%，銀諾醫藥-B(02591.HK)漲4.27%，康諾亞-B(02162.HK)漲3.39%，再鼎醫藥(09688.HK)漲2.88%。"
-    },
-    {
-      "id": "4951439",
-      "time": "2026-06-24 09:22:16",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "韓國總統政策室長：三星和SK海力士的新晶片叢集計劃已進入最後階段。"
-    },
-    {
-      "id": "mkt:019ef738-1ac7-7dd8-b0e7-09a8f16c8304",
-      "time": "2026-06-24 09:21:49",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Greater China",
-        "CNH",
-        "Impact bearish"
-      ],
-      "text": "【PBOC nets CNY 242.2 bln via 7-day reverse repos】PBOC conducted CNY 662.5 bln of 7-day reverse repo operations today; CNY 420.3 bln matured, resulting in a net liquidity injection of CNY 242.2 bln into the open market."
-    },
-    {
-      "id": "em:qqyh_zgyh:202606243780598861",
-      "time": "2026-06-24 09:21:47",
-      "tags": [
-        "央行",
-        "中國央行"
-      ],
-      "text": "【央行今日開展6625億元7天逆回購操作】央行今日開展6625億元7天逆回購操作，操作利率為1.40%，與此前持平。"
-    },
-    {
-      "id": "4951438",
-      "time": "2026-06-24 09:21:37",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "央行公開市場今日淨投放2,422.0億元人民幣。"
-    },
-    {
-      "id": "mkt:019ef737-7450-7dd8-b0e7-065cdca686d8",
-      "time": "2026-06-24 09:21:07",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "【Senate approves resolution requiring Trump to end military action against Iran】On June 23 the U.S. Senate passed a resolution limiting presidential war powers that directs President Trump to end U.S. military operations against Iran and requires congressional authorization before any future military action against Iran. The measure, previously approved by the House, passed 50-48; four Republicans joined the large majority of Senate Democrats in voting yes and two Republican senators were absent."
-    },
-    {
-      "id": "4951437",
-      "time": "2026-06-24 09:21:00",
-      "tags": [],
-      "text": "港股恒指高開漲0.36％，國企指數漲0.42％，科指開漲0.48%，科技股多數走強。"
-    },
-    {
-      "id": "mkt:019ef737-575d-7dd8-b0e6-ff67958d69f5",
-      "time": "2026-06-24 09:20:59",
-      "tags": [
-        "MKT News",
-        "HSI",
-        "Impact bullish",
-        "HSCEI",
-        "HSTECH"
-      ],
-      "text": "Hong Kong's Hang Seng Index (HSI) opened June 24 (Wednesday) up 84.42 points, or 0.36%, at 23,420.7; the Hang Seng Technology Index rose 21.19 points, or 0.48%, to 4,420.41; the Hang Seng China Enterprises Index (HSCEI) added 32.77 points, or 0.42%, to 7,792.13; the Hang Seng Red Chip Index was up 13.58 points, or 0.35%, at 3,902.26."
-    },
-    {
-      "id": "mkt:019ef737-3819-7dd8-b0e6-f5641e78897d",
-      "time": "2026-06-24 09:20:51",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Themes",
-        "China EV Leaders",
-        "China Tech Giants",
-        "Hang Seng Index",
-        "Impact bullish",
-        "09866.HK",
-        "09888.HK"
-      ],
-      "text": "At the Hong Kong open the Hang Seng rose 0.36% and the Hang Seng Tech Index gained 0.48%. Technology names led advances: NIO-SW (09866.HK) up about 5%, Baidu (09888.HK) up about 3%."
-    },
-    {
-      "id": "mkt:019ef736-fbf2-7dd8-b0e6-ebcc5b4866c0",
-      "time": "2026-06-24 09:20:36",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Greater China",
-        "CNH",
-        "Impact bullish"
-      ],
-      "text": "PBOC conducted CNY 662.5 bln 7-day reverse repo today; bids CNY 662.5 bln, allotment CNY 662.5 bln; rate 1.40%, unchanged from prior operation."
-    },
-    {
-      "id": "4951436",
-      "time": "2026-06-24 09:20:34",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "央行今日開展6625億元7天逆回購操作，投標量6625億元，中標量6625億元，操作利率為1.40%，與此前持平。"
-    },
-    {
-      "id": "4951435",
-      "time": "2026-06-24 09:20:29",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國國務卿魯比奧將於當地時間上午11:00在阿布扎比會見阿聯酋總統。"
-    },
-    {
-      "id": "mkt:019ef736-8735-7dd8-b0e6-e7eae2e2a2ec",
-      "time": "2026-06-24 09:20:06",
-      "tags": [
-        "MKT News",
-        "Important",
-        "AUDUSD",
-        "Impact mixed"
-      ],
-      "text": "Australia's May CPI (not seasonally adjusted) YoY is due in 10 minutes."
     }
   ]
 }
