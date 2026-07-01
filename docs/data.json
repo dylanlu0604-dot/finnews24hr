@@ -1,7 +1,187 @@
 {
-  "updated": "2026-07-02 07:50:07",
-  "count": 14025,
+  "updated": "2026-07-02 07:54:03",
+  "count": 14028,
   "items": [
+    {
+      "id": "4966055",
+      "time": "2026-07-02 07:52:59",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "【受伊朗戰爭擔憂影響，紐西蘭房價接近三年低點】紐西蘭房價在6月份連續第三個月下跌，接近三年來的最低點，這進一步加劇了經濟放緩的跡象，因為全球石油危機打擊了家庭收入和消費者信心。惠靈頓房地產諮詢公司Cotality週四援引其房屋價值指數稱，房價較5月份修正後的0.3%下跌了0.2%。短短三個月內，房價已下跌0.8%，創下自2023年7月以來的最低水平。"
+    },
+    {
+      "id": "4966054",
+      "time": "2026-07-02 07:52:46",
+      "tags": [
+        "公司"
+      ],
+      "text": "【36家A股公司預披露半年報 29家預喜】資料顯示，截至7月1日上午12時記者發稿，A股共有36家上市公司披露了2026年上半年業績預告。其中，以歸屬於母公司股東的淨利潤變動上限來看，略增、預增、續盈、扭虧的公司數量分別為11家、13家、2家、3家，合計數量為29家，佔已披露業績預告公司的80.56%。通訊、電子、有色金屬等科技和週期行業中報業績增速相對較高。"
+    },
+    {
+      "id": "4966053",
+      "time": "2026-07-02 07:51:50",
+      "tags": [
+        "國際"
+      ],
+      "text": "【基輔市遭空襲傳出持續爆炸聲 至少5人受傷 】烏克蘭基輔市市長克利奇科2日凌晨在社交媒體發文稱，俄軍對基輔市發動導彈和無人機襲擊，初步資訊顯示，空襲已造成至少5人受傷。克利奇科稱，基輔舍甫琴科夫斯基區一處賓館和戈洛謝耶夫斯基區的一棟居民樓遭到襲擊並起火。截至凌晨2時35分，新華社記者在基輔市仍能聽到爆炸聲和防空系統開火聲。"
+    },
+    {
+      "id": "4966052",
+      "time": "2026-07-02 07:51:04",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "日本至6月26日當週買進外國債券 -2801億日元，前值由1997億日元修正為2021億日元。日本至6月26日當週外資買進日股 -18165億日元，前值由4794億日元修正為4513億日元。日本至6月26日當週買進外國股票 1477億日元，前值由4268億日元修正為4267億日元。日本至6月26日當週外資買進日債 -4937億日元，前值-10573億日元。"
+    },
+    {
+      "id": "mkt:019f2017-e17a-7aab-8c67-92cd7d374991",
+      "time": "2026-07-02 07:51:03",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bullish"
+      ],
+      "text": "Week to June 26: foreign investors were net sellers of Japanese government bonds, -493.7 bln yen, versus -1,057.3 bln yen the prior week."
+    },
+    {
+      "id": "mkt:019f2017-d754-7aab-8c67-8dd3a7e0a058",
+      "time": "2026-07-02 07:51:01",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bullish",
+        "DXY",
+        "S&P500"
+      ],
+      "text": "Japan bought ¥147.7 bln of foreign equities in the week to June 26; prior reading revised from ¥426.8 bln to ¥426.7 bln."
+    },
+    {
+      "id": "mkt:019f2017-be5c-7aab-8c67-86e72c31563a",
+      "time": "2026-07-02 07:50:54",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Japan | Weekly Foreign investment in Japanese Bonds (Jun.26) | actual -493700000000B | previous -1057300000000B"
+    },
+    {
+      "id": "mkt:019f2017-b8e9-7aab-8c67-7cf8eee2b33c",
+      "time": "2026-07-02 07:50:53",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Japan | Weekly Foreign Stocks Buying (Jun.26) | actual 147700000000B | previous 426800000000B"
+    },
+    {
+      "id": "mkt:019f2017-5485-7aab-8c67-7518fc4be736",
+      "time": "2026-07-02 07:50:27",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bearish"
+      ],
+      "text": "Japan monetary base YoY -13.7% in June; prior -12.2%."
+    },
+    {
+      "id": "mkt:019f2017-3988-7aab-8c67-6ec5287da84f",
+      "time": "2026-07-02 07:50:20",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Japan | Base money growth rate (YoY) (Jun) | actual -13.7% | previous -12.20%"
+    },
+    {
+      "id": "mkt:019f2017-2808-7aab-8c67-648c52e807ed",
+      "time": "2026-07-02 07:50:16",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "Nikkei 225",
+        "Impact bearish"
+      ],
+      "text": "Foreign investors were net sellers of Japanese equities to the tune of 1.8165 tln yen in the week to June 26; the prior week’s net purchases were revised down from 479.4 bln yen to 451.3 bln yen."
+    },
+    {
+      "id": "te:markets:563560",
+      "time": "2026-07-02 07:50:14",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "US Futures Edge Lower Ahead of Jobs Report — US stock futures edged lower on Thursday as investors remained cautious ahead of the June jobs report, which is expected to provide fresh clues about labor market conditions and the Federal Reserve’s interest rate outlook. Data released on Wednesday showed private-sector hiring slowed more than expected last month. Fed Chair Kevin Warsh also said inflation expectations had eased over the past month while reaffirming the central bank’s commitment to restoring price stability. In regular trading on Wednesday, the tech-heavy Nasdaq Composite fell 0.66% as investors reassessed the durability of the AI-driven rally, while the S&P 500 and Dow Jones lost 0.22% and 0.03%, respectively. Chipmakers and memory stocks led the decline, with steep losses from Micron Technology (-10.6%), Sandisk Corp (-10.6%), AMD (-6.9%), Intel (-9%), and Applied Materials (-10%)."
+    },
+    {
+      "id": "mkt:019f2017-1d78-7aab-8c67-5b5bdb9bfa61",
+      "time": "2026-07-02 07:50:13",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bearish",
+        "DXY",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "Japan net sold foreign bonds JPY 280.1 bln in the week to June 26; prior week’s figure revised to JPY 202.1 bln from JPY 199.7 bln."
+    },
+    {
+      "id": "4966051",
+      "time": "2026-07-02 07:50:10",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本6月基礎貨幣同比 -13.7%，前值 -12.2%。"
+    },
+    {
+      "id": "mkt:019f2016-ed37-7aab-8c67-5637bb7d528e",
+      "time": "2026-07-02 07:50:01",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Japan | Weekly Foreign investment in Japanese Stocks (Jun.26) | actual -1816500000000B | previous 479400000000B"
+    },
+    {
+      "id": "mkt:019f2016-ed16-7aab-8c67-4f933ae0e700",
+      "time": "2026-07-02 07:50:01",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Japan | Weekly Foreign Bonds Buying (Jun.26) | actual -280100000000B | previous 199700000000B"
+    },
+    {
+      "id": "4966050",
+      "time": "2026-07-02 07:49:49",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "【公募基金展望下半年：投資邏輯正由估值驅動轉向業績驅動】回顧2026年上半年，市場行情幾經切換，從年初受益於漲價邏輯的有色資源板塊率先走強，到中東衝突擾動市場風險偏好，資金在不確定性中選擇了高景氣度的科技主線，推動以光通訊、儲存晶片為代表的AI硬體節節攀升，科技成長股演繹出極致的結構性行情。展望2026年下半年，多家公募基金公司對投資主線與市場風格進行了展望。機構普遍認為，AI仍將是市場最重要的投資主線，但隨著產業進入業績兌現階段，投資邏輯正由估值驅動轉向業績驅動，AI投資機會也有望向稀土、電力等產業鏈上下游持續擴散。與此同時，市場經歷上半年的極致結構性行情後，波動或有所加大，風格再平衡也值得關注。"
+    },
     {
       "id": "4966049",
       "time": "2026-07-02 07:48:40",
@@ -129048,138 +129228,6 @@
         "公司"
       ],
       "text": "【拓邦股份：電機產品已獲頭部企業新一代AI資料中心超節點的液冷伺服器廠商供應商定點】拓邦股份(002139)在互動平臺表示，公司在資料中心液冷散熱領域，專注於為室外側冷源裝置提供製冷控制器等核心部件，不涉及室內側的CDU（冷量分配單元）整機或液冷系統整合；同時，公司電機產品已獲得頭部企業新一代AI資料中心超節點的液冷伺服器廠商供應商定點，有望受益於客戶產品的市場推進及批次匯入。"
-    },
-    {
-      "id": "4953654",
-      "time": "2026-06-25 07:53:21",
-      "tags": [
-        "公司",
-        "市場",
-        "觀點",
-        "國際"
-      ],
-      "text": "【中信建投：多航線艙位持續緊張，全球集運運價持續走強】中信建投研報稱，美線運價持續衝高。SCFI指數七週連漲，主流FAK報價5000-5500美元/FEU，高階艙位超6200美元/FEU，美東艙位緊缺週期長於美西。美國加徵關稅、CPSC新規促使企業提前搶運，疊加巴拿馬運河枯水擁堵壓縮有效運力，船公司控艙惜售，6至7月初艙位基本售罄。拉美航線提前進入備貨高峰，全線運價走高。南美東航線漲幅領跑，即期艙溢價明顯。巴西關稅調整預期推動貨主集中出貨；拉美重點港口長期壓港，40尺冷藏箱缺口突出，空箱迴流緩慢，船公司連續加收GRI、PSS附加費，運價上行壓力難消。亞歐、地中海運價同步走強。預計7月兩地航線運價將再度漲價；中東航線地緣擾動抬升運輸成本。旺季貨量集中囤積，紅海繞行拉長船舶週轉；霍爾木茲海峽運力釋放存不確定性，船司為保障準班頻繁跳港，艙位供給持續偏緊。"
-    },
-    {
-      "id": "4953653",
-      "time": "2026-06-25 07:53:12",
-      "tags": [
-        "其他"
-      ],
-      "text": "市場訊息：SK海力士考慮擴大對清州南德工廠的投資。"
-    },
-    {
-      "id": "em:jjsj_rbsj:202606253782055135",
-      "time": "2026-06-25 07:53:08",
-      "tags": [
-        "經濟數據",
-        "日本"
-      ],
-      "text": "日本至6月19日當週外資買進日股4794億日元，前值由-7851億日元修正為-7852億日元。"
-    },
-    {
-      "id": "te:markets:561657",
-      "time": "2026-06-25 07:53:01",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 2"
-      ],
-      "text": "Gold Holds Near 8-Month Lows — Gold steadied around $4,000 an ounce on Thursday, but stayed close to its lowest levels in almost eight months as a stronger dollar and growing expectations of Federal Reserve rate hikes continued to weigh on prices. The US dollar rose to its highest level in more than a year against a basket of major currencies, making dollar-denominated commodities such as gold costlier for holders of other currencies. Last week, the Fed kept interest rates unchanged but signaled increasing support for tighter monetary policy, with Chair Kevin Warsh indicating his commitment to bringing inflation under control. Markets are now pricing in a possible rate hike in September, with additional increases potentially following before year-end. Those expectations have overshadowed the supportive effect of progress in US-Iran peace negotiations, which has driven oil prices back to pre-conflict levels and significantly reduced inflationary pressures."
-    },
-    {
-      "id": "4953652",
-      "time": "2026-06-25 07:52:30",
-      "tags": [
-        "公司",
-        "觀點"
-      ],
-      "text": "【硬科技IPO紅利釋放 3家頭部券商承銷保薦收入領先】當科技持續成為市場核心主線，押中硬科技專案的券商也成為被追逐的焦點。6月24日，半導體零部件概念股臻寶科技登陸科創板，首日漲幅超12倍，投資者中一簽最高賺27萬元。作為保薦券商的中信證券也賺得“盆滿缽滿”，不僅攬收9603萬元承銷費；同時，作為臻寶科技第九大股東，中信證券最新持股市值近16億元。這僅是2026年硬科技IPO盛宴的縮影。今年科創板和創業板合計迎來20只新股，8家券商共攬入17億元保薦承銷費；更大的想象空間在於排隊中的121家擬IPO企業，如長鑫科技等明星專案蓄勢待發，投行“硬科技收穫季”才剛開始。Wind資料顯示，以招股日為準，上述20只新股由8家券商保薦。其中，中信證券獨攬7個專案，國泰海通和中金公司分別以6個和4個位居其後，中信建投承銷保薦了2個專案，東吳證券、申萬宏源、國投證券、國聯民生各承銷保薦了1個。中信證券、國泰海通、中金公司這3家頭部券商不僅專案數量領先，承銷保薦收入排名同樣居前。上述20只新股實際募資總額303億元，承銷保薦費用共17億元。其中，中信證券以6.64億元的承銷及保薦收入居首，較第二名國泰海通（4.36億元）多2.28億元；第三名為中金公司，攬收2.34億元，其他5家券商的收入則均在1億元以下。"
-    },
-    {
-      "id": "4953651",
-      "time": "2026-06-25 07:51:28",
-      "tags": [
-        "觀點",
-        "國際"
-      ],
-      "text": "【中信建投：中東停火修復板塊情緒，重視物理AI低位配置機會】中信建投研報稱，中東地區停火協議達成，市場情緒有望迎來修復。5月汽車呈現內需承壓、出口強勁特徵。板塊自4月底開始大幅回撥築底，當前內需悲觀預期或已price-in，近期板塊回撥並無基本面明顯利空，主因資金面“高低切”等流動性因素變化，全年依然看好汽車出海行情。同時，機器人及智駕板塊底部alpha標的具備高價效比，中期產業趨勢有望持續兌現。"
-    },
-    {
-      "id": "4953650",
-      "time": "2026-06-25 07:51:27",
-      "tags": [
-        "其他"
-      ],
-      "text": "【科技股熱潮下私募業績分化 寧泉等就業績承壓向投資人致歉】今年以來，A股、港股市場呈現極致分化，以人工智慧（AI）、半導體等為代表的科技股走勢強勁，消費、地產等傳統板塊則表現低迷。極致行情下，私募業績大幅分化，寧泉資產、半夏投資等知名私募近日就業績承壓向投資人致歉。從行業整體情況看，堅守消費、地產等低估值價值的私募大面積跑輸，不少老牌主觀私募陷入深度回撤。同時，一批專注科技成長股的私募賺得盆滿缽滿，重點佈局中小盤的量化私募整體表現也優於主觀多頭。"
-    },
-    {
-      "id": "mkt:019efc0b-6daf-7dd8-b106-c431715a23e0",
-      "time": "2026-06-25 07:51:07",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Foreign investors net sold Japanese government bonds (JGBs) ¥1.0573 tln in the week to June 19, versus net selling of ¥531.0 bln in the prior week."
-    },
-    {
-      "id": "mkt:019efc0b-4573-7dd8-b106-bcf034ba60c2",
-      "time": "2026-06-25 07:50:57",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "Japan | Weekly Foreign investment in Japanese Bonds (Jun.19) | actual -1057300000000B | previous -531000000000B"
-    },
-    {
-      "id": "mkt:019efc0b-3ff1-7dd8-b106-b5aed80c707b",
-      "time": "2026-06-25 07:50:56",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC",
-        "USDJPY",
-        "Impact bullish",
-        "DXY"
-      ],
-      "text": "Japan's net purchases of foreign equities were 426.8 billion yen in the week to June 19, versus net sales of 418.3 billion yen in the prior week."
-    },
-    {
-      "id": "4953649",
-      "time": "2026-06-25 07:50:54",
-      "tags": [
-        "國際"
-      ],
-      "text": "日本6月19日當週外資淨買進日本股票 4794億日元，前值 -7851億日元。日本6月19日當週外資淨買進日本債券 -10573億日元，前值 -5310億日元。日本6月19日當週外資淨買進日本債券 -10573億日元，前值 -5310億日元。日本6月19日當週淨買進國外債券 1997億日元，前值 3826億日元。"
-    },
-    {
-      "id": "mkt:019efc0b-16ea-7dd8-b106-ab0ba185fd2b",
-      "time": "2026-06-25 07:50:45",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "Japan | Weekly Foreign Stocks Buying (Jun.19) | actual 426800000000B | previous -418300000000B"
-    },
-    {
-      "id": "mkt:019efc0a-9345-7dd8-b106-a624c93ba049",
-      "time": "2026-06-25 07:50:11",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Foreign investors net bought JPY 479.4 bln of Japanese equities in the week to June 19; the prior week's net selling was revised from JPY 785.1 bln to JPY 785.2 bln."
-    },
-    {
-      "id": "mkt:019efc0a-8e32-7dd8-b106-9c9ba2c68f10",
-      "time": "2026-06-25 07:50:10",
-      "tags": [
-        "MKT News",
-        "USDJPY",
-        "Impact bullish"
-      ],
-      "text": "Japan bought foreign bonds worth 199.7 bln yen in the week to June 19; prior reading revised from 382.6 bln yen to 382.5 bln yen."
     }
   ]
 }
