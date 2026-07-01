@@ -1,7 +1,81 @@
 {
   "date": "2026-07-01",
-  "count": 1297,
+  "count": 1305,
   "items": [
+    {
+      "id": "mkt:019f1c0d-a02e-7aab-8c4b-aa9410e7cef0",
+      "time": "2026-07-01 13:01:22",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bearish"
+      ],
+      "text": "【Japan top FX official MIMURA says two-month-old yen intervention succeeded, had US support】MIMURA said Japan’s foreign-exchange intervention two months ago to prop up the yen was successful and elicited supportive remarks from some US officials; Washington raised no objections, he added. He said contact with US counterparts has been frequent via calls and emails. The yen’s fall to a 40-year low heightens inflation risk for energy- and food-import-dependent Japan (energy largely imported; over half of food imported)."
+    },
+    {
+      "id": "4964240",
+      "time": "2026-07-01 13:01:21",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本6月國內汽車銷量較上年同期上升13.7%。"
+    },
+    {
+      "id": "4964239",
+      "time": "2026-07-01 13:01:02",
+      "tags": [
+        "公司"
+      ],
+      "text": "【山西一煤礦涉多項安全生產違法違規情形，被罰734.71萬元並停產整頓】據“信用中國（山西）”公佈的行政處罰資訊，山西蘭花科技創業股份有限公司唐安煤礦分公司因存在巷道建設與設計不符、安全監測裝置缺失、井下機電裝置失爆等多項安全生產違法違規行為，近日被晉城市應急管理局作出行政處罰，責令停產整頓5天，內部追責，合併處罰款734.71萬元。"
+    },
+    {
+      "id": "mkt:019f1c0c-a7e7-7aab-8c4b-a23b04c05cf9",
+      "time": "2026-07-01 13:00:19",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Japan June household consumer confidence index 33.8, vs. expected 34.1 and prior 33.6."
+    },
+    {
+      "id": "mkt:019f1c0c-8bc4-7aab-8c4b-9c881f9b1dfa",
+      "time": "2026-07-01 13:00:11",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Japan | Consumer confidence index (Jun) | actual 33.8 | consensus 34.1 | previous 33.6"
+    },
+    {
+      "id": "mkt:019f1c0c-89d3-7aab-8c4b-90c7f1887a81",
+      "time": "2026-07-01 13:00:11",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Emerging Markets"
+      ],
+      "text": "India June manufacturing PMI (final) 54.2, below 55 expected and down from 54.5."
+    },
+    {
+      "id": "mkt:019f1c0c-5f4e-7aab-8c4b-8deb1ed1a8a2",
+      "time": "2026-07-01 13:00:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "India | Manufacturing PMI (Jun) | actual 54.2 | consensus 55 | previous 54.5"
+    },
+    {
+      "id": "4964238",
+      "time": "2026-07-01 12:59:52",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本最高外匯官員三村淳：日美貨幣協調仍保持密切。"
+    },
     {
       "id": "4964237",
       "time": "2026-07-01 12:57:52",

@@ -1,7 +1,81 @@
 {
-  "updated": "2026-07-01 12:58:40",
-  "count": 13931,
+  "updated": "2026-07-01 13:02:35",
+  "count": 13932,
   "items": [
+    {
+      "id": "mkt:019f1c0d-a02e-7aab-8c4b-aa9410e7cef0",
+      "time": "2026-07-01 13:01:22",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bearish"
+      ],
+      "text": "【Japan top FX official MIMURA says two-month-old yen intervention succeeded, had US support】MIMURA said Japan’s foreign-exchange intervention two months ago to prop up the yen was successful and elicited supportive remarks from some US officials; Washington raised no objections, he added. He said contact with US counterparts has been frequent via calls and emails. The yen’s fall to a 40-year low heightens inflation risk for energy- and food-import-dependent Japan (energy largely imported; over half of food imported)."
+    },
+    {
+      "id": "4964240",
+      "time": "2026-07-01 13:01:21",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本6月國內汽車銷量較上年同期上升13.7%。"
+    },
+    {
+      "id": "4964239",
+      "time": "2026-07-01 13:01:02",
+      "tags": [
+        "公司"
+      ],
+      "text": "【山西一煤礦涉多項安全生產違法違規情形，被罰734.71萬元並停產整頓】據“信用中國（山西）”公佈的行政處罰資訊，山西蘭花科技創業股份有限公司唐安煤礦分公司因存在巷道建設與設計不符、安全監測裝置缺失、井下機電裝置失爆等多項安全生產違法違規行為，近日被晉城市應急管理局作出行政處罰，責令停產整頓5天，內部追責，合併處罰款734.71萬元。"
+    },
+    {
+      "id": "mkt:019f1c0c-a7e7-7aab-8c4b-a23b04c05cf9",
+      "time": "2026-07-01 13:00:19",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Japan June household consumer confidence index 33.8, vs. expected 34.1 and prior 33.6."
+    },
+    {
+      "id": "mkt:019f1c0c-8bc4-7aab-8c4b-9c881f9b1dfa",
+      "time": "2026-07-01 13:00:11",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Japan | Consumer confidence index (Jun) | actual 33.8 | consensus 34.1 | previous 33.6"
+    },
+    {
+      "id": "mkt:019f1c0c-89d3-7aab-8c4b-90c7f1887a81",
+      "time": "2026-07-01 13:00:11",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Emerging Markets"
+      ],
+      "text": "India June manufacturing PMI (final) 54.2, below 55 expected and down from 54.5."
+    },
+    {
+      "id": "mkt:019f1c0c-5f4e-7aab-8c4b-8deb1ed1a8a2",
+      "time": "2026-07-01 13:00:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "India | Manufacturing PMI (Jun) | actual 54.2 | consensus 55 | previous 54.5"
+    },
+    {
+      "id": "4964238",
+      "time": "2026-07-01 12:59:52",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本最高外匯官員三村淳：日美貨幣協調仍保持密切。"
+    },
     {
       "id": "4964237",
       "time": "2026-07-01 12:57:52",
@@ -128032,67 +128106,6 @@
         "國際"
       ],
       "text": "【韓國綜合指數上漲2%】韓國綜合指數震盪回升，現漲2%。"
-    },
-    {
-      "id": "4951768",
-      "time": "2026-06-24 13:02:18",
-      "tags": [
-        "國際"
-      ],
-      "text": "【北約秘書長呂特將會晤特朗普 7月峰會前試圖緩和緊張氣氛】北約秘書長呂特週三將在白宮會見美國總統特朗普，試圖在7月於安卡拉舉行的關鍵北約領袖峰會前，緩和因伊朗戰爭以及美國威脅縮減歐洲駐軍所引發的緊張局面。自特朗普2024年11月當選以來，呂特的重要職責之一就是應對他對北約的敵意，並避免緊張事件演變為持久的危機，包括特朗普推動收購格陵蘭島一事。週三的會議料將延續此一模式。\"我預計他正在努力與特朗普達成一致，以確保北約峰會取得成功，而不是徹底失敗，\"華府智庫卡內基國際和平基金會高階研究員Stephen Wertheim表示。"
-    },
-    {
-      "id": "mkt:019ef801-c4b9-7dd8-b0ec-2cd77e9b9fab",
-      "time": "2026-06-24 13:02:05",
-      "tags": [
-        "MKT News",
-        "DXY",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "【Putin accuses West of hyping Russian military threat】June 23 — At the Kremlin, President Putin accused Western states of inflating the Russian military threat, saying they openly discuss preparing to go to war with Russia and are boosting military budgets and offensive capabilities to justify large defense spending and aggressive militarization. He said Russia is prepared to respond rapidly and appropriately to any external or internal threat, and warned that while Western states have not yet launched actions from their territories against Russia, they understand such moves would trigger retaliatory strikes."
-    },
-    {
-      "id": "4951767",
-      "time": "2026-06-24 13:01:32",
-      "tags": [
-        "其他"
-      ],
-      "text": "【機構：2026年GenAI智慧手機預計佔全球出貨量45%】根據Counterpoint Research最新發布的GenAI智慧手機市場預測報告，具備GenAI能力的智慧手機預計將佔2026年全球智慧手機出貨量的45%，高於2025年的36%。不過，持續的儲存供應緊張預計將導致2026年全球智慧手機出貨量同比下降13.9%，降至10.8億部，創歷史新低。與此同時，GenAI智慧手機市場份額預計將進一步提升，預計到2027年佔全球智慧手機出貨量的52%，使GenAI技術有望成為整個市場的標準功能。"
-    },
-    {
-      "id": "4951766",
-      "time": "2026-06-24 13:01:26",
-      "tags": [
-        "國際"
-      ],
-      "text": "【普京譴責西方炒作俄羅斯軍事威脅】當地時間6月23日，俄羅斯總統普京在克里姆林宮發表講話，譴責西方國家不斷炒作俄羅斯軍事威脅，他表示，西方國家如今公開談論準備與俄羅斯開戰，並不斷增加致力於提升進攻能力的軍事預算，以正當化其鉅額軍事開支和激進軍事化政策。普京稱，俄羅斯隨時準備對任何外部或內部威脅做出迅速且恰當的回應。在講話之後，他還表示，儘管西方國家尚未走到從本國領土向俄羅斯發起行動這一步，但他們所有人都明白這一行為將引發報復性打擊。"
-    },
-    {
-      "id": "4951765",
-      "time": "2026-06-24 13:00:42",
-      "tags": [
-        "市場"
-      ],
-      "text": "【超長期特別國債支援老舊電梯更新 全國累計更新老舊電梯超36萬臺】央視財經訊息，記者今天（24日）從住房城鄉建設部獲悉，自國家將住宅老舊電梯更新改造納入超長期特別國債資金支援範圍以來，各地依託政策支援，大力推進住宅老舊電梯更新改造，目前已累計更新住宅老舊電梯超36萬臺。目前，多個省市將住宅電梯更新改造納入民生實事，北京今年計劃更新1萬多臺老舊電梯，南京也在近期啟動了今年超長期特別國債支援住宅老舊電梯更新專案。"
-    },
-    {
-      "id": "4951764",
-      "time": "2026-06-24 13:00:28",
-      "tags": [
-        "公司"
-      ],
-      "text": "【Agility Robotics將透過一筆25億美元的SPAC交易上市】據媒體週三援引該公司高管的話報道，Agility Robotics將透過與Churchill Capital Corp XI合併的方式上市，此次交易將使這家初創企業的估值達到約25億美元。雙方預計此次交易將籌集超過6億美元的總收益，其中包括來自Churchill XI的4.2億美元現金，以及由中國臺灣富士康牽頭的、透過“私募投資公開上市公司普通股”（PIPE）方式籌集的逾2億美元。這家上市公司將以股票程式碼AGLT上市。據其官網介紹，這家總部位於俄勒岡州的公司生產名為“Digit”的商用類人機器人。Agility已為正在研發的Digit新版本獲得訂單，該版本將具備更精細的靈巧度以移動更小的物體，並採用更高的安全標準。"
-    },
-    {
-      "id": "mkt:019ef7ff-c766-7dd8-b0ec-23a6c4ca4aed",
-      "time": "2026-06-24 12:59:55",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "【Chengdu Rail–Jinjiang consortium wins Chengdu Linjiaba 195-mu land for 4.344 billion yuan】A Chengdu Rail and Jinjiang unified-development consortium bought five parcels totalling about 195 mu in Linjiaba, Jinjiang District, Chengdu, for 4.344 billion yuan; the sale was at a 0% premium. The site comprises three residential and two commercial-service plots, with total construction land of 130,259.1 sqm and planned gross floor area of 311,137.29 sqm. The project must include at least 20,000 sqm of multi-format retail and, within three years of completion, introduce at least two national first stores and at least five Southwest- or Chengdu-first stores."
     }
   ]
 }
