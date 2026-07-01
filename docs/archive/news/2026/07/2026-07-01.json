@@ -1,7 +1,59 @@
 {
   "date": "2026-07-01",
-  "count": 1237,
+  "count": 1243,
   "items": [
+    {
+      "id": "4964197",
+      "time": "2026-07-01 12:25:09",
+      "tags": [
+        "市場"
+      ],
+      "text": "【昊鉑埃安BU 6月銷量33682輛】7月1日，據廣汽訊息，昊鉑埃安BU 2026年6月銷量33682輛，同比上漲21%；2026年上半年同比上漲15%。"
+    },
+    {
+      "id": "mkt:019f1bec-709b-7aab-8c4b-3b79363b84c7",
+      "time": "2026-07-01 12:25:07",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Wenjie Auto reported June deliveries of 30,199 new vehicles; 1H cumulative deliveries rose 10.2% YoY."
+    },
+    {
+      "id": "4964196",
+      "time": "2026-07-01 12:25:05",
+      "tags": [
+        "公司"
+      ],
+      "text": "【東華軟體在西藏成立新公司，註冊資本1億】天眼查App顯示，近日，東華軟體（西藏）有限公司成立，法定代表人為朱偉華，註冊資本1億人民幣，經營範圍包括技術服務、技術開發、技術諮詢、技術交流、技術轉讓、技術推廣，資訊系統整合服務，計算機系統服務，軟體開發等，由東華軟體、北京東華合創科技有限公司共同持股。"
+    },
+    {
+      "id": "4964195",
+      "time": "2026-07-01 12:24:56",
+      "tags": [
+        "市場"
+      ],
+      "text": "【機構：騰訊股價在近期回撥後顯得估值偏低】晨星分析師Ivan Su在一份研究報告中表示，騰訊股價在近期回撥後顯得估值偏低。他說，在圍繞AI的不確定性下，隨著市場懲罰中國網際網路股票，騰訊股價今年迄今已下跌約30%。他說，投資者尤其擔心騰訊高昂的AI支出及其AI產品落後於國內同行。“這種反應過度了，“該分析師說，並指出AI已經加強了騰訊的核心業務。Su指出，隨著騰訊的旗艦遊戲繼續主導中國最暢銷遊戲排行榜，同時影片號釋放了高利潤率的廣告收入，相對於目前的基本面，這種折價似乎更難證明是合理的。"
+    },
+    {
+      "id": "4964194",
+      "time": "2026-07-01 12:23:32",
+      "tags": [
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "【國際金價6月下跌逾11% 】受美伊談判不確定性增加、美元走強、美聯儲加息預期等因素影響，國際黃金價格6月下跌幅度超過11%。今年第二季度黃金價格下跌約14%，創下2013年來最大季度跌幅。分析人士認為，美元走強和美國國債收益率上升將繼續打壓黃金價格，金價或難以出現任何實質性反彈。（新華社）"
+    },
+    {
+      "id": "mkt:019f1be9-f8bc-7aab-8c4b-30cbb5a956ca",
+      "time": "2026-07-01 12:22:26",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "【US fossil-fuel power spending may exceed China’s for first time in decades】The IEA forecasts US investment in coal and gas-fired generation will reach $50 billion this year, about $3 billion more than China. The increase is driven by a surge in gas-turbine orders and sharp price rises as demand outstrips manufacturing capacity. US customers ordered roughly 20 GW of gas turbines in Q1 2026. Modern AI data centres require 1 GW to several GW of power each—about the consumption of a Western city—adding material demand pressure for new thermal capacity."
+    },
     {
       "id": "mkt:019f1be8-ede1-7aab-8c4b-289225802379",
       "time": "2026-07-01 12:21:17",
