@@ -1,7 +1,60 @@
 {
-  "updated": "2026-07-02 02:47:53",
-  "count": 14131,
+  "updated": "2026-07-02 02:51:38",
+  "count": 14133,
   "items": [
+    {
+      "id": "4965861",
+      "time": "2026-07-02 02:50:12",
+      "tags": [
+        "其他"
+      ],
+      "text": "墨西哥經濟部長：降低計算與電子產業的依賴，是墨西哥經濟增長前景的關鍵。"
+    },
+    {
+      "id": "mkt:019f1f03-914f-7aab-8c65-65390d5edb71",
+      "time": "2026-07-02 02:49:15",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Federal Reserve Chair KEVIN WARSH will appoint Samantha Schwab, an aide to US Treasury Secretary BESSENT, as an adviser."
+    },
+    {
+      "id": "mkt:019f1f03-5114-7aab-8c65-5c7b3148305e",
+      "time": "2026-07-02 02:48:58",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "WTI",
+        "XAUUSD"
+      ],
+      "text": "【Zelenskiy says Ukraine has not received full Nord Stream investigation details】On July 1 in Dublin, Zelenskiy said Ukraine has not formally received full investigation details or the complete investigative procedure for the Nord Stream pipeline explosions and will coordinate with German authorities and respond once it obtains the information. Earlier, Germany's federal prosecutor said it has filed charges against a Ukrainian national suspected of involvement in sabotage of the Nord Stream gas pipelines."
+    },
+    {
+      "id": "mkt:019f1f03-4077-7aab-8c65-5043c572f7ae",
+      "time": "2026-07-02 02:48:54",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Mexico's economy minister said protecting the auto industry has long been a key focus of discussions."
+    },
+    {
+      "id": "mkt:019f1f03-2701-7aab-8c65-4e5072575fcf",
+      "time": "2026-07-02 02:48:47",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Industrial Metals",
+        "DXY",
+        "Impact bullish",
+        "USDJPY",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "Mexico's economy minister said negotiators failed to agree on tariffs for steel and aluminum, and there are disputes over excluding regional content rules for auto parts from consideration and over seasonal provisions for agricultural products."
+    },
     {
       "id": "4965860",
       "time": "2026-07-02 02:46:02",
@@ -130201,32 +130254,6 @@
         "國際"
       ],
       "text": "天然氣出口國論壇秘書長菲利普·姆謝爾比拉表示，隨著伊朗戰爭結束，天然氣需求將在第三季度開始回升。"
-    },
-    {
-      "id": "4953350",
-      "time": "2026-06-25 02:50:59",
-      "tags": [
-        "其他"
-      ],
-      "text": "納斯達克100指數跌幅擴大至1%。"
-    },
-    {
-      "id": "4953349",
-      "time": "2026-06-25 02:50:57",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "高通股價迅速擴大跌幅，跌至盤中低點6%。"
-    },
-    {
-      "id": "4953348",
-      "time": "2026-06-25 02:49:32",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "高通股價隨成交量走高下跌，目前資料中心部門主管正在投資者日發表講話，股價跌超5%，報每股193.31美元。"
     }
   ]
 }
