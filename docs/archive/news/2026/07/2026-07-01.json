@@ -1,7 +1,76 @@
 {
   "date": "2026-07-01",
-  "count": 3689,
+  "count": 3696,
   "items": [
+    {
+      "id": "mkt:019f1e65-7ea5-7aab-8c62-b78ab5fe8e7c",
+      "time": "2026-07-01 23:56:35",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【ASE Technology hikes packaging prices again; increases exceed 20%】ASE Technology, the world’s largest OSAT supplier, announced on July 1 another round of packaging price increases, with hikes of up to more than 20%. The price rises cover advanced packaging technologies, including chip-on-wafer-on-substrate (CoWoS) and fan-out substrate chip packaging (FoCoS)."
+    },
+    {
+      "id": "mkt:019f1e65-20f3-7aab-8c62-a96226101ad5",
+      "time": "2026-07-01 23:56:11",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "JP Morgan (JPM.N) has appointed Scot Baldry as chief data and analytics officer. Heitsenrether will leave after 40 years with the firm."
+    },
+    {
+      "id": "mkt:019f1e64-3f5d-7aab-8c62-a28b53337d31",
+      "time": "2026-07-01 23:55:14",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Meta Platforms",
+        "Market Themes",
+        "Magnificent 7",
+        "META.O"
+      ],
+      "text": "Meta Platforms (META.O) named Alex Schultz its first chief data officer and appointed Denise Moreno chief marketing officer."
+    },
+    {
+      "id": "mkt:019f1e62-9e98-7aab-8c62-9f7c6ce9c235",
+      "time": "2026-07-01 23:53:27",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "U.S. Vice President Vance said the U.S. has plans to respond if Iran attempts to rebuild its nuclear program."
+    },
+    {
+      "id": "4965760",
+      "time": "2026-07-01 23:53:21",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國副總統萬斯：我們不能為了投擲炸彈而投擲。"
+    },
+    {
+      "id": "mkt:019f1e62-6989-7aab-8c62-9564c41154fa",
+      "time": "2026-07-01 23:53:13",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy",
+        "HMC.O",
+        "Impact bullish"
+      ],
+      "text": "Honda's U.S. sales in June totaled 133,781 vehicles, up 16.9% YoY."
+    },
+    {
+      "id": "4965759",
+      "time": "2026-07-01 23:52:52",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國副總統萬斯： 若伊朗試圖重啟核計劃，美國手握多種應對手段。"
+    },
     {
       "id": "mkt:019f1e61-95e4-7aab-8c62-8cb6075d7b3e",
       "time": "2026-07-01 23:52:19",

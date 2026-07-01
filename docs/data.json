@@ -1,7 +1,76 @@
 {
-  "updated": "2026-07-01 23:53:11",
-  "count": 14263,
+  "updated": "2026-07-01 23:57:12",
+  "count": 14261,
   "items": [
+    {
+      "id": "mkt:019f1e65-7ea5-7aab-8c62-b78ab5fe8e7c",
+      "time": "2026-07-01 23:56:35",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【ASE Technology hikes packaging prices again; increases exceed 20%】ASE Technology, the world’s largest OSAT supplier, announced on July 1 another round of packaging price increases, with hikes of up to more than 20%. The price rises cover advanced packaging technologies, including chip-on-wafer-on-substrate (CoWoS) and fan-out substrate chip packaging (FoCoS)."
+    },
+    {
+      "id": "mkt:019f1e65-20f3-7aab-8c62-a96226101ad5",
+      "time": "2026-07-01 23:56:11",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "JP Morgan (JPM.N) has appointed Scot Baldry as chief data and analytics officer. Heitsenrether will leave after 40 years with the firm."
+    },
+    {
+      "id": "mkt:019f1e64-3f5d-7aab-8c62-a28b53337d31",
+      "time": "2026-07-01 23:55:14",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Meta Platforms",
+        "Market Themes",
+        "Magnificent 7",
+        "META.O"
+      ],
+      "text": "Meta Platforms (META.O) named Alex Schultz its first chief data officer and appointed Denise Moreno chief marketing officer."
+    },
+    {
+      "id": "mkt:019f1e62-9e98-7aab-8c62-9f7c6ce9c235",
+      "time": "2026-07-01 23:53:27",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "U.S. Vice President Vance said the U.S. has plans to respond if Iran attempts to rebuild its nuclear program."
+    },
+    {
+      "id": "4965760",
+      "time": "2026-07-01 23:53:21",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國副總統萬斯：我們不能為了投擲炸彈而投擲。"
+    },
+    {
+      "id": "mkt:019f1e62-6989-7aab-8c62-9564c41154fa",
+      "time": "2026-07-01 23:53:13",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy",
+        "HMC.O",
+        "Impact bullish"
+      ],
+      "text": "Honda's U.S. sales in June totaled 133,781 vehicles, up 16.9% YoY."
+    },
+    {
+      "id": "4965759",
+      "time": "2026-07-01 23:52:52",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國副總統萬斯： 若伊朗試圖重啟核計劃，美國手握多種應對手段。"
+    },
     {
       "id": "4965758",
       "time": "2026-07-01 23:52:19",
@@ -131468,94 +131537,6 @@
         "國際"
       ],
       "text": "印度塔塔通訊表示，德里資料中心火災後，公司正盡最大努力推進後續恢復工作。"
-    },
-    {
-      "id": "mkt:019efa58-fd88-7dd8-b0fe-e2920aef4893",
-      "time": "2026-06-24 23:56:36",
-      "tags": [
-        "MKT News",
-        "TATACOMM.NS"
-      ],
-      "text": "Tata Communications said a June 5 fire at its Delhi data center prompted immediate activation of its business continuity plan, citing a force majeure."
-    },
-    {
-      "id": "4953164",
-      "time": "2026-06-24 23:56:17",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "印度塔塔通訊：對於所有訂購了災難恢復與備份服務的客戶，公司已能夠保障服務連續執行，或已完成服務恢復。"
-    },
-    {
-      "id": "4953163",
-      "time": "2026-06-24 23:56:12",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "印度塔塔通訊：6月5日德里資料中心火災發生後，公司立即啟動了針對不可抗力事件預設的業務連續性預案。"
-    },
-    {
-      "id": "4953162",
-      "time": "2026-06-24 23:55:43",
-      "tags": [
-        "國際"
-      ],
-      "text": "據TankerTrackers：自2026年6月15日起，伊朗已出口4000萬桶原油。其中總量的一半都集中在單日外運，也就是上週五（2026年6月19日）。"
-    },
-    {
-      "id": "mkt:019efa57-d891-7dd8-b0fe-d9c9833d2fea",
-      "time": "2026-06-24 23:55:21",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "Sources said due to refinery shutdowns Russia's oil exports from western ports are expected to hit a record 2.7 mln bpd in June."
-    },
-    {
-      "id": "4953161",
-      "time": "2026-06-24 23:54:31",
-      "tags": [
-        "公司",
-        "市場",
-        "國際"
-      ],
-      "text": "【特朗普批評汽油價格下跌不夠快 稱已命令司法部展開調查】美國總統特朗普抱怨汽油價格下降速度不夠快，稱他已下令司法部調查汽油價格。“大型石油公司並沒有像他們支付的石油價格大幅下降那樣，相應地下調加油站的汽油價格，”他在社交媒體上發帖稱，“汽油價格最好能比我現在看到的降得快得多！”特朗普沒有詳述向司法部下達的指示。"
-    },
-    {
-      "id": "4953160",
-      "time": "2026-06-24 23:54:16",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "訊息人士稱，由於煉油廠維持閒置狀態，俄羅斯6月經西部港口出口的石油量將達到創紀錄的270萬桶/日。"
-    },
-    {
-      "id": "te:markets:561610",
-      "time": "2026-06-24 23:53:51",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "France",
-        "Stock Market",
-        "Importance 0"
-      ],
-      "text": "CAC 40 Rebounds on Luxury Sector Gains — The CAC 40 rose 0.5% to close at 8,385 on Wednesday, snapping a three-session losing streak as gains in the luxury sector supported the index. Luxury heavyweights outperformed after Jefferies raised L'Oreal’s target price to €328 from €323, while maintaining a “below market performance” recommendation and citing elevated profitability. Peers LVMH (+1.9%), Hermes (+1.5%), and Kering (+1%) also advanced. Investors remained focused on US-Iran peace negotiations amid signs of improving shipping activity through the Strait of Hormuz, although uncertainty persisted over whether Tehran would allow United Nations inspectors access to its nuclear facilities. Industrial stocks also traded higher, with Airbus up 0.9% and Safran gaining 2.2%. Meanwhile, Thales fell 1.2% as European defense stocks came under pressure after Rheinmetall plunged on reports that the German government may withdraw funding for a new warship project. Elsewhere, TotalEnergies lost 1.8% on lower oil prices."
-    },
-    {
-      "id": "4953159",
-      "time": "2026-06-24 23:53:18",
-      "tags": [
-        "其他"
-      ],
-      "text": "GE航空航天漲超2%。"
     }
   ]
 }
