@@ -1,7 +1,173 @@
 {
   "date": "2026-07-01",
-  "count": 1772,
+  "count": 1790,
   "items": [
+    {
+      "id": "4964549",
+      "time": "2026-07-01 16:06:19",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行管委內格爾：還需要觀察和平協議會帶來什麼結果。"
+    },
+    {
+      "id": "mkt:019f1cb6-e0fc-7aab-8c4f-e52c26407865",
+      "time": "2026-07-01 16:06:14",
+      "tags": [
+        "MKT News",
+        "EURUSD",
+        "Impact bullish"
+      ],
+      "text": "ECB Governing Council member Nagel said inflation will remain elevated this year."
+    },
+    {
+      "id": "mkt:019f1cb6-6913-7aab-8c4f-dee4c042134e",
+      "time": "2026-07-01 16:05:44",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "EURUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "ECB Governing Council member Nagel said June's move was never a preemptive rate hike."
+    },
+    {
+      "id": "4964548",
+      "time": "2026-07-01 16:05:42",
+      "tags": [
+        "市場"
+      ],
+      "text": "Shutterstock股價下跌25.5%，報每股10.4美元。"
+    },
+    {
+      "id": "4964547",
+      "time": "2026-07-01 16:05:30",
+      "tags": [
+        "公司"
+      ],
+      "text": "【光庭資訊：參股公司卓目科技北交所上市申請獲受理】光庭資訊公告稱，參股公司卓目科技向不特定合格投資者公開發行股票並在北交所上市的申報材料已獲北交所正式受理。截至公告披露日，光庭資訊持有卓目科技129.8969萬股股份，持股比例2.83%。該事項尚需履行北交所稽核和中國證監會註冊等程式，存在無法透過稽核或註冊、公開發行失敗而無法上市的風險。"
+    },
+    {
+      "id": "4964546",
+      "time": "2026-07-01 16:05:23",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【*ST中迪：子公司地塊司法拍賣因和解撤回 欠款1.17億待付】*ST中迪公告稱，此前因建設工程施工合同糾紛，公司全資子公司中美恆置業被中建一局起訴，法院判決其支付1.95億元。後雙方達成執行和解，但因未按約定付款，法院恢復執行並將於7月2 - 3日拍賣中美恆置業下屬地塊，起拍價6.23億元。7月1日查詢發現，當事人達成執行和解協議，拍賣已撤回。目前中美恆置業尚欠中建一局1.17億元，約定2027年3月31日前分6期支付。"
+    },
+    {
+      "id": "4964545",
+      "time": "2026-07-01 16:05:13",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行管委內格爾：我會在7月和9月的決定上保留多種選擇。"
+    },
+    {
+      "id": "te:markets:563342",
+      "time": "2026-07-01 16:05:12",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Metals Commodities Updates: Lithium Carbonate Rises by 2.24% — Top commodity gainers are Lithium Carbonate (2.24%) and Silicon (0.54%). Biggest losers are Iron Ore CNY (-2.14%), Copper (-2.09%), Silver (-1.63%) and Gold (-0.90%)."
+    },
+    {
+      "id": "4964544",
+      "time": "2026-07-01 16:05:05",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行管委內格爾：高通脹可能導致第二輪效應。"
+    },
+    {
+      "id": "4964543",
+      "time": "2026-07-01 16:04:44",
+      "tags": [
+        "央行",
+        "市場"
+      ],
+      "text": "歐洲央行管委內格爾：六月份的舉措並非保險費上漲。"
+    },
+    {
+      "id": "4964542",
+      "time": "2026-07-01 16:04:31",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行管委內格爾：今年通脹將維持在高位。"
+    },
+    {
+      "id": "4964541",
+      "time": "2026-07-01 16:04:22",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行管委內格爾：2027年通脹率將保持在目標水平以上。"
+    },
+    {
+      "id": "mkt:019f1cb5-1aae-7aab-8c4f-d4e6d33088d7",
+      "time": "2026-07-01 16:04:18",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "EURUSD",
+        "Impact bullish",
+        "Brent",
+        "Impact bearish",
+        "DXY"
+      ],
+      "text": "【PMI: Eurozone manufacturing output closes 1H strongly, cost pressures ease】Eurozone manufacturing PMI showed output ended 1H on a strong note, capping the strongest quarter since early 2022. June PMI slipped to 51.4 from 51.6 in May, a four-month low but the fifth consecutive month above 50.0 and slightly above the preliminary 51.3. Export weakness pulled overall activity growth to its weakest since February, but continued manufacturing output growth and a marked easing in cost pressures—mainly due to a sharp fall in oil prices and reduced supply concerns—gave factories some relief and helped offset recent services weakness."
+    },
+    {
+      "id": "mkt:019f1cb4-f55a-7aab-8c4f-ccbf1a52ec8e",
+      "time": "2026-07-01 16:04:09",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【State Council appoints Jiang Wensheng deputy secretary-general; removes two vice ministers】The State Council appointed Jiang Wensheng as deputy secretary-general and named Yang Weiqun national security technical adviser to the Macau SAR Committee for Safeguarding National Security; it relieved Jiang of his post as vice minister at the Ministry of Agriculture and Rural Affairs and relieved Sheng Qiuping of his post as vice minister at MOFCOM."
+    },
+    {
+      "id": "4964540",
+      "time": "2026-07-01 16:04:09",
+      "tags": [
+        "其他"
+      ],
+      "text": "【海南自由貿易港出海綜合服務平臺正式上線】“海南自由貿易港出海綜合服務平臺上線儀式暨出海企業交流大會”於6月30日在三亞舉辦。該平臺是海南唯一的省級出海綜合服務線上平臺，展示了海南自貿港一站式出海綜合服務硬實力，其上線標誌著海南自貿港企業出海服務體系正式邁入數字化、一體化、常態化執行的新階段。依託自貿港獨特政策優勢和全島封關運作紅利持續釋放，海南外貿外資進一步增長、企業出海需求旺盛。海南省商務廳黨組成員、副廳長張躍強表示，本次平臺上線是海南落實國家海外服務體系建設部署的重要舉措，海南透過線上平臺、海口三亞兩大線下陣地、產業聯盟構建企業出海全鏈條閉環服務生態。（新華財經）"
+    },
+    {
+      "id": "4964539",
+      "time": "2026-07-01 16:03:33",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行管委內格爾：現在斷言第二輪的影響已經結束還為時過早。"
+    },
+    {
+      "id": "te:markets:563341",
+      "time": "2026-07-01 16:02:47",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Italy",
+        "Stock Market",
+        "Importance 0"
+      ],
+      "text": "FTSE MIB Trades Lower — The FTSE MIB fell to around 51,400 on Wednesday, snapping a recent rally after posting robust quarterly gains and tracking losses across its European peers. Markets assessed signs that US-Iran talks had stalled after Tehran said it would not hold meetings with US officials. Attention also shifted to the ECB Forum, where central bank officials, including representatives from the Fed and the ECB, are scheduled to speak later in the day. Across the bourse, energy stocks traded lower, including Eni (-0.5%), Enel (-0.3%), Snam (-1.5%), and Terna Rete Elettrica Nazionale (-1%). Most financial stocks also declined, with Unicredit (-0.8%), Intesa Sanpaolo (-0.8%), Banco BPM (-0.9%), Mediobanca (-0.5%), and BPER Banca (-1%) posting losses. Luxury stocks also came under pressure."
+    },
     {
       "id": "4964538",
       "time": "2026-07-01 16:02:22",
@@ -96,6 +262,15 @@
         "國際"
       ],
       "text": "【中國駐烏克蘭大使在烏媒發文：準確客觀認識中國，推動中烏關係行穩致遠】6月30日，駐烏克蘭大使馬升琨在烏克蘭國際文傳電訊社（Інтерфакс-Україна）和烏克蘭經濟學人網（economistua）發表署名文章《準確客觀認識中國 推動中烏關係行穩致遠》。馬升琨表示，確保中烏關係行穩致遠，要充分發揮兩國合作的互補優勢。中烏產業、資源互補性突出，具備深化務實合作的紮實基礎。烏克蘭擁有優質農業資源、完備工業基礎與科教潛力；中國擁有完整工業體系、成熟基建技術、廣闊消費市場與充足發展經驗，能夠全方位助力烏實現產業修復與升級。雙方在農產品貿易、新能源、基建、教育科技等領域合作成果豐碩，中國始終是烏克蘭重要貿易伙伴。長遠看，雙邊合作仍有廣闊空間和光明前景。"
+    },
+    {
+      "id": "em:jjsj_oyqsj:202607013790197512",
+      "time": "2026-07-01 16:00:52",
+      "tags": [
+        "經濟數據",
+        "歐元區"
+      ],
+      "text": "【歐元區6月製造業PMI終值51.4】歐元區6月製造業PMI終值51.4，預期51.3，前值51.3。"
     },
     {
       "id": "4964528",

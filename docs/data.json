@@ -1,7 +1,173 @@
 {
-  "updated": "2026-07-01 16:03:13",
-  "count": 13818,
+  "updated": "2026-07-01 16:07:08",
+  "count": 13820,
   "items": [
+    {
+      "id": "4964549",
+      "time": "2026-07-01 16:06:19",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行管委內格爾：還需要觀察和平協議會帶來什麼結果。"
+    },
+    {
+      "id": "mkt:019f1cb6-e0fc-7aab-8c4f-e52c26407865",
+      "time": "2026-07-01 16:06:14",
+      "tags": [
+        "MKT News",
+        "EURUSD",
+        "Impact bullish"
+      ],
+      "text": "ECB Governing Council member Nagel said inflation will remain elevated this year."
+    },
+    {
+      "id": "mkt:019f1cb6-6913-7aab-8c4f-dee4c042134e",
+      "time": "2026-07-01 16:05:44",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "EURUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "ECB Governing Council member Nagel said June's move was never a preemptive rate hike."
+    },
+    {
+      "id": "4964548",
+      "time": "2026-07-01 16:05:42",
+      "tags": [
+        "市場"
+      ],
+      "text": "Shutterstock股價下跌25.5%，報每股10.4美元。"
+    },
+    {
+      "id": "4964547",
+      "time": "2026-07-01 16:05:30",
+      "tags": [
+        "公司"
+      ],
+      "text": "【光庭資訊：參股公司卓目科技北交所上市申請獲受理】光庭資訊公告稱，參股公司卓目科技向不特定合格投資者公開發行股票並在北交所上市的申報材料已獲北交所正式受理。截至公告披露日，光庭資訊持有卓目科技129.8969萬股股份，持股比例2.83%。該事項尚需履行北交所稽核和中國證監會註冊等程式，存在無法透過稽核或註冊、公開發行失敗而無法上市的風險。"
+    },
+    {
+      "id": "4964546",
+      "time": "2026-07-01 16:05:23",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【*ST中迪：子公司地塊司法拍賣因和解撤回 欠款1.17億待付】*ST中迪公告稱，此前因建設工程施工合同糾紛，公司全資子公司中美恆置業被中建一局起訴，法院判決其支付1.95億元。後雙方達成執行和解，但因未按約定付款，法院恢復執行並將於7月2 - 3日拍賣中美恆置業下屬地塊，起拍價6.23億元。7月1日查詢發現，當事人達成執行和解協議，拍賣已撤回。目前中美恆置業尚欠中建一局1.17億元，約定2027年3月31日前分6期支付。"
+    },
+    {
+      "id": "4964545",
+      "time": "2026-07-01 16:05:13",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行管委內格爾：我會在7月和9月的決定上保留多種選擇。"
+    },
+    {
+      "id": "te:markets:563342",
+      "time": "2026-07-01 16:05:12",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Metals Commodities Updates: Lithium Carbonate Rises by 2.24% — Top commodity gainers are Lithium Carbonate (2.24%) and Silicon (0.54%). Biggest losers are Iron Ore CNY (-2.14%), Copper (-2.09%), Silver (-1.63%) and Gold (-0.90%)."
+    },
+    {
+      "id": "4964544",
+      "time": "2026-07-01 16:05:05",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行管委內格爾：高通脹可能導致第二輪效應。"
+    },
+    {
+      "id": "4964543",
+      "time": "2026-07-01 16:04:44",
+      "tags": [
+        "央行",
+        "市場"
+      ],
+      "text": "歐洲央行管委內格爾：六月份的舉措並非保險費上漲。"
+    },
+    {
+      "id": "4964542",
+      "time": "2026-07-01 16:04:31",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行管委內格爾：今年通脹將維持在高位。"
+    },
+    {
+      "id": "4964541",
+      "time": "2026-07-01 16:04:22",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行管委內格爾：2027年通脹率將保持在目標水平以上。"
+    },
+    {
+      "id": "mkt:019f1cb5-1aae-7aab-8c4f-d4e6d33088d7",
+      "time": "2026-07-01 16:04:18",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "EURUSD",
+        "Impact bullish",
+        "Brent",
+        "Impact bearish",
+        "DXY"
+      ],
+      "text": "【PMI: Eurozone manufacturing output closes 1H strongly, cost pressures ease】Eurozone manufacturing PMI showed output ended 1H on a strong note, capping the strongest quarter since early 2022. June PMI slipped to 51.4 from 51.6 in May, a four-month low but the fifth consecutive month above 50.0 and slightly above the preliminary 51.3. Export weakness pulled overall activity growth to its weakest since February, but continued manufacturing output growth and a marked easing in cost pressures—mainly due to a sharp fall in oil prices and reduced supply concerns—gave factories some relief and helped offset recent services weakness."
+    },
+    {
+      "id": "4964540",
+      "time": "2026-07-01 16:04:09",
+      "tags": [
+        "其他"
+      ],
+      "text": "【海南自由貿易港出海綜合服務平臺正式上線】“海南自由貿易港出海綜合服務平臺上線儀式暨出海企業交流大會”於6月30日在三亞舉辦。該平臺是海南唯一的省級出海綜合服務線上平臺，展示了海南自貿港一站式出海綜合服務硬實力，其上線標誌著海南自貿港企業出海服務體系正式邁入數字化、一體化、常態化執行的新階段。依託自貿港獨特政策優勢和全島封關運作紅利持續釋放，海南外貿外資進一步增長、企業出海需求旺盛。海南省商務廳黨組成員、副廳長張躍強表示，本次平臺上線是海南落實國家海外服務體系建設部署的重要舉措，海南透過線上平臺、海口三亞兩大線下陣地、產業聯盟構建企業出海全鏈條閉環服務生態。（新華財經）"
+    },
+    {
+      "id": "mkt:019f1cb4-f55a-7aab-8c4f-ccbf1a52ec8e",
+      "time": "2026-07-01 16:04:09",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【State Council appoints Jiang Wensheng deputy secretary-general; removes two vice ministers】The State Council appointed Jiang Wensheng as deputy secretary-general and named Yang Weiqun national security technical adviser to the Macau SAR Committee for Safeguarding National Security; it relieved Jiang of his post as vice minister at the Ministry of Agriculture and Rural Affairs and relieved Sheng Qiuping of his post as vice minister at MOFCOM."
+    },
+    {
+      "id": "4964539",
+      "time": "2026-07-01 16:03:33",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行管委內格爾：現在斷言第二輪的影響已經結束還為時過早。"
+    },
+    {
+      "id": "te:markets:563341",
+      "time": "2026-07-01 16:02:47",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Italy",
+        "Stock Market",
+        "Importance 0"
+      ],
+      "text": "FTSE MIB Trades Lower — The FTSE MIB fell to around 51,400 on Wednesday, snapping a recent rally after posting robust quarterly gains and tracking losses across its European peers. Markets assessed signs that US-Iran talks had stalled after Tehran said it would not hold meetings with US officials. Attention also shifted to the ECB Forum, where central bank officials, including representatives from the Fed and the ECB, are scheduled to speak later in the day. Across the bourse, energy stocks traded lower, including Eni (-0.5%), Enel (-0.3%), Snam (-1.5%), and Terna Rete Elettrica Nazionale (-1%). Most financial stocks also declined, with Unicredit (-0.8%), Intesa Sanpaolo (-0.8%), Banco BPM (-0.9%), Mediobanca (-0.5%), and BPER Banca (-1%) posting losses. Luxury stocks also came under pressure."
+    },
     {
       "id": "4964538",
       "time": "2026-07-01 16:02:22",
@@ -96,6 +262,15 @@
         "國際"
       ],
       "text": "【中國駐烏克蘭大使在烏媒發文：準確客觀認識中國，推動中烏關係行穩致遠】6月30日，駐烏克蘭大使馬升琨在烏克蘭國際文傳電訊社（Інтерфакс-Україна）和烏克蘭經濟學人網（economistua）發表署名文章《準確客觀認識中國 推動中烏關係行穩致遠》。馬升琨表示，確保中烏關係行穩致遠，要充分發揮兩國合作的互補優勢。中烏產業、資源互補性突出，具備深化務實合作的紮實基礎。烏克蘭擁有優質農業資源、完備工業基礎與科教潛力；中國擁有完整工業體系、成熟基建技術、廣闊消費市場與充足發展經驗，能夠全方位助力烏實現產業修復與升級。雙方在農產品貿易、新能源、基建、教育科技等領域合作成果豐碩，中國始終是烏克蘭重要貿易伙伴。長遠看，雙邊合作仍有廣闊空間和光明前景。"
+    },
+    {
+      "id": "em:jjsj_oyqsj:202607013790197512",
+      "time": "2026-07-01 16:00:52",
+      "tags": [
+        "經濟數據",
+        "歐元區"
+      ],
+      "text": "【歐元區6月製造業PMI終值51.4】歐元區6月製造業PMI終值51.4，預期51.3，前值51.3。"
     },
     {
       "id": "4964528",
@@ -127025,152 +127200,6 @@
         "Chip Wars"
       ],
       "text": "SK Hynix: ADR priced at KRW 255,500 per share."
-    },
-    {
-      "id": "4952153",
-      "time": "2026-06-24 16:07:03",
-      "tags": [
-        "市場"
-      ],
-      "text": "聯邦快遞美股盤前跌近7%，全年盈利展望不及市場預期。"
-    },
-    {
-      "id": "mkt:019ef8aa-9a2b-7dd8-b0f2-51d9f8dc0111",
-      "time": "2026-06-24 16:06:30",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Riksbank: Middle East conflict raises inflation risk, increases odds of a rate hike this year】Minutes from the Riksbank policy meeting show that, despite low underlying inflation and a fragile recovery, the Middle East conflict has raised the likelihood of a rate hike before year-end. Governor Erik Thedéen said the conflict's effects are already visible in Swedish and foreign price‑pressure indicators, though long‑term implications remain uncertain. He added the bank is slightly tightening policy; adjustments to date are small but can be quickly scaled up or down depending on the evolution of inflation risks."
-    },
-    {
-      "id": "4952152",
-      "time": "2026-06-24 16:06:10",
-      "tags": [
-        "國際"
-      ],
-      "text": "SK海力士：美國存託憑證(ADR)定價為每股25.55萬韓元。"
-    },
-    {
-      "id": "mkt:019ef8aa-2ad9-7dd8-b0f2-4f032cb55985",
-      "time": "2026-06-24 16:06:02",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Alibaba",
-        "BABA.N"
-      ],
-      "text": "【Alibaba silent on reports it may sell Lingxi Interactive Entertainment】Multiple media, citing gaming industry insiders, report Alibaba plans to sell its gaming arm Lingxi Interactive Entertainment and has engaged five potential buyers: listed game firms 37 Interactive Entertainment, China Ruyi, Century Huatong and Giant Network, plus a buyout consortium of two private equity firms. The deal is said likely to be a package sale covering Lingxi’s five in‑house development studios and the 9Game and JiaoYimao platforms. Reported price range is RMB7–9 billion (about $1.0–1.3 billion). Alibaba did not respond to requests for comment by June 24."
-    },
-    {
-      "id": "4952151",
-      "time": "2026-06-24 16:05:45",
-      "tags": [
-        "公司"
-      ],
-      "text": "【協鑫能科在無錫成立新科技公司 註冊資本10億】天眼查App顯示，近日，無錫協鑫元極科技有限公司成立，法定代表人為費智，註冊資本10億人民幣，經營範圍包括技術服務、技術開發、技術諮詢、技術交流、技術轉讓、技術推廣，雲端計算裝備技術服務，軟體開發等。股東資訊顯示，該公司由蘇州協鑫鑫元科技有限公司、協鑫能科（002015）旗下協鑫智慧能源（蘇州）有限公司共同持股。"
-    },
-    {
-      "id": "te:economy:561433",
-      "time": "2026-06-24 16:05:44",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "United Kingdom",
-        "Government Bond 10Y",
-        "Importance 1"
-      ],
-      "text": "UK 10-Year Gilt Yield Falls to Over 2-Month Low — The UK 10-year gilt yield fell to 4.736%, extending declines for a third session to an over two-month low, as weaker UK flash PMI data reinforced expectations of slower economic momentum and reduced the likelihood of Bank of England rate hikes. Political uncertainty also eased after Prime Minister Keir Starmer announced his resignation, with Andy Burnham emerging as the leading candidate to replace him. Attention now turns to Burnham’s potential policy agenda, cabinet choices and the implications for public finances. If no major challenger emerges, Burnham could take office as early as July 17. Meanwhile, June PMI data showed the UK economy remained under pressure, with the composite index falling to 49.4, below expectations and signalling contraction for a second consecutive month. Services activity weakened, while manufacturing held up better. Rising input costs and persistent services inflation remain key concerns for the Bank of England."
-    },
-    {
-      "id": "mkt:019ef8a9-d7b3-7dd8-b0f2-464bea1676ca",
-      "time": "2026-06-24 16:05:40",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Feixi Technology, Guangdong Minzhuo Mechatronics and Guangdong Tunan Robot Technology sign strategic cooperation to deploy adaptive robots in electromechanical manufacturing】On June 22 in Foshan, Guangdong, Feixi Technology, Guangdong Minzhuo Mechatronics and Guangdong Tunan Robot Technology signed a strategic cooperation agreement to integrate products, technology, channels, customers and services to jointly deploy adaptive robots in high-value manufacturing scenarios, including precision assembly, precision insertion, quality inspection and complex contact operations."
-    },
-    {
-      "id": "4952150",
-      "time": "2026-06-24 16:05:21",
-      "tags": [
-        "公司"
-      ],
-      "text": "【ST金花：“新工廠搬遷擴建”及“補充流動資金”募投專案結項】ST金花公告稱，截至2026年6月23日，公司“新工廠搬遷擴建專案”和“補充流動資金”專案已完成建設及投入並達預定可使用狀態，擬將上述募投專案全部結項。兩專案擬投入6.29億元，實際投入5.82億元，累計投入比例92.48%。結餘募集資金9364.09萬元（含利息收入、現金管理收益），將繼續存放專戶管理。"
-    },
-    {
-      "id": "4952149",
-      "time": "2026-06-24 16:05:18",
-      "tags": [
-        "公司"
-      ],
-      "text": "【格科微：持股5%以上股東部分股份質押】格科微公告稱，截至2026年6月24日，股東Hopefield Holding Limited持有公司股份1.65億股，佔總股本6.34%。此次該股東質押4300萬股，佔其持股總數的26.06%，佔公司總股本的1.65%。本次質押完成後，其累計質押6800萬股，佔其持股總數的41.21%，佔公司總股本的2.61%，質押用途為融資擔保。"
-    },
-    {
-      "id": "te:markets:561432",
-      "time": "2026-06-24 16:05:16",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Metals Commodities Updates: Platinum Falls by 1.49% — Top commodity losers are Platinum (-1.49%), Gold (-0.88%) and Lithium Carbonate (-0.63%). Gains are led by Iron Ore CNY (0.68%)."
-    },
-    {
-      "id": "4952148",
-      "time": "2026-06-24 16:04:47",
-      "tags": [
-        "公司"
-      ],
-      "text": "【非夕科技與敏卓機電、圖南科技簽署戰略合作協議 共推自適應機器人賦能機電製造場景】6月22日，非夕科技與廣東敏卓機電股份有限公司（簡稱“敏卓機電”）、廣東圖南機器人科技有限公司（簡稱“圖南科技”）在廣東佛山正式簽署戰略合作協議。基於雙方戰略合作，非夕科技與敏卓機電、圖南科技將圍繞相關產業鏈中的高價值製造場景，整合產品、技術、渠道、客戶和服務資源，共同推進自適應機器人在精密裝配、精密插裝、質量檢測及複雜接觸作業等場景中的匯入與應用。"
-    },
-    {
-      "id": "4952147",
-      "time": "2026-06-24 16:04:42",
-      "tags": [
-        "公司"
-      ],
-      "text": "【廣聯航空：子公司籤6454.70萬元無人機機翼壁板元件銷售合同】廣聯航空公告稱，近日，全資子公司自貢廣聯與航空工業集團下屬某單位簽署《零件加工採購合同》，合同含稅金額6454.70萬元，標的為一批大型固定翼無人機複合材料機翼壁板元件，不含稅金額5712.12萬元，佔公司2025年經審計營收的5.64%。合同履行將對公司履約年度業績產生積極影響，但可能受外部因素影響無法如期或全面履行。"
-    },
-    {
-      "id": "4952146",
-      "time": "2026-06-24 16:04:35",
-      "tags": [
-        "公司"
-      ],
-      "text": "【運達能源：2025年營收294.02億元 同比增長32.45%】運達能源公告稱，2025年公司實現營收294.02億元，同比增長32.45%。業務主要包括風電整機裝備製造等六大板塊，風電機組業務實現營收264.34億元，佔比89.90%。公司發行的“25運達GY01”債券，發行總額15億元，截至2025年末已使用9.07億元。報告期內，債券本息不涉及償付，未召開持有人會議。償債保障措施執行正常，發行人償債能力良好、意願強，整體償債風險較低。"
-    },
-    {
-      "id": "4952145",
-      "time": "2026-06-24 16:04:28",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "印度10年期基準政府債券收益率<IN069436G=CC>進一步下跌至6.7978%。"
-    },
-    {
-      "id": "4952144",
-      "time": "2026-06-24 16:03:58",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "Cerebras Systems股價盤前下跌11.3%，此前該公司預計全年利潤率將降至一季度水平以下。"
-    },
-    {
-      "id": "mkt:019ef8a8-187f-7dd8-b0f2-3e685b68bf35",
-      "time": "2026-06-24 16:03:46",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "Chip Wars",
-        "MU.O",
-        "Impact bullish",
-        "QCOM.O",
-        "AMD.O"
-      ],
-      "text": "US semiconductor stocks rose in premarket trading: Micron Technology (MU.O) and Qualcomm (QCOM.O) gained over 3%, Intel (INTC.O) and Marvell (MRVL.O) rose about 2%, AMD (AMD.O) up 1.5%."
     }
   ]
 }
