@@ -1,7 +1,121 @@
 {
-  "updated": "2026-07-01 10:39:24",
-  "count": 13982,
+  "updated": "2026-07-01 10:43:20",
+  "count": 13981,
   "items": [
+    {
+      "id": "4964091",
+      "time": "2026-07-01 10:42:03",
+      "tags": [
+        "其他"
+      ],
+      "text": "東方財富成交額達100億元，現漲5.69%。"
+    },
+    {
+      "id": "4964090",
+      "time": "2026-07-01 10:41:58",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【網際網路金融板塊持續走高】網際網路金融板塊持續走高，匯金科技、電科網安、友阿股份、衢州發展漲停，銀之傑、聯迪資訊漲超15%，艾融軟體、同花順、財富趨勢漲超10%，博睿資料、大智慧、贏時勝、湘財股份跟漲。"
+    },
+    {
+      "id": "te:economy:563209",
+      "time": "2026-07-01 10:41:26",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "Government Bond 10Y",
+        "Importance 1"
+      ],
+      "text": "US 10Y Yield Holds Gains on Strong Data — The yield on the 10-year US Treasury note held around 4.46% on Wednesday after climbing about 10 basis points in the previous session, as signs of a resilient economy reinforced expectations of a hawkish Federal Reserve. Data released on Tuesday showed US job openings rose to a two-year high in May, indicating labor demand remained strong despite signs of softer hiring. Markets are now pricing in at least one Fed rate hike this year, with the first potentially coming as early as September. Investors are now awaiting the latest US monthly jobs report for further clues on the strength of the labor market and the outlook for Fed policy. Meanwhile, markets continued to monitor the ongoing US-Iran peace talks in Qatar amid hopes for a lasting ceasefire agreement, although the two sides were not expected to hold direct talks."
+    },
+    {
+      "id": "4964089",
+      "time": "2026-07-01 10:40:58",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【美公佈6億美元月球任務合同推進月球基地建設】美國航空航天局6月30日公佈月球基地建設專案最新安排，表示已與3家美國企業簽訂總額近6億美元的合同，將於2028年底執行4次新的月球著陸任務。 這3家企業將負責向月球表面運送美航空航天局的科學載荷。其中，航天機器人技術公司合同金額約2.98億美元，將執行兩次運送任務；“螢火蟲”航空航天公司合同金額約1.44億美元，“直覺機器”公司合同金額約1.48億美元，各執行一次運送任務。 據美航空航天局新聞公報介紹，每次著陸任務都會搭載三個科學載荷，包括用於研究著陸發動機羽流對月塵影響的立體相機系統、用於月面定位和導航的鐳射反射器陣列以及用於監測月球輻射環境的能量轉移譜儀。在多個著陸器上搭載相同的科學儀器，有助於評估著陸過程中的潛在風險，並構建月球環境資料和位置標記網路。 美航空航天局正在推進月球基地建設專案，旨在推動實現人類在月球表面長期駐留，並開展科學研究及商業活動，同時為未來載人火星探測任務奠定基礎。公報稱，這批新合同將在月球表面基礎設施建設方面發揮重要作用。(新華社)"
+    },
+    {
+      "id": "mkt:019f1b8c-ed17-7aab-8c49-8947b3f8e1c6",
+      "time": "2026-07-01 10:40:48",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "688256.SS",
+        "Impact bearish"
+      ],
+      "text": "China A-share STAR 50 Index turned negative intraday after rising as much as 2% earlier. Constituents Cambricon fell over 5% and Yuanjie Technology fell over 4%."
+    },
+    {
+      "id": "4964088",
+      "time": "2026-07-01 10:40:45",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【豬肉概念持續走高 傲農生物等多股漲停】豬肉概念持續走高，傲農生物、金新農、新五豐、天邦食品漲停，大禹生物漲超20%，新希望、唐人神、牧原股份等跟漲。"
+    },
+    {
+      "id": "4964087",
+      "time": "2026-07-01 10:40:27",
+      "tags": [
+        "公司"
+      ],
+      "text": "【麻米措源網荷儲一體化能源站專案一期全容量建成發電】據龍淨環保訊息，由全資子公司紫金龍淨清潔能源有限公司投資建設的麻米措源網荷儲一體化能源站專案一期，於6月30日18點08分順利全容量建成發電，從開工到投運僅歷時七個多月。該專案將為麻米措鹽湖鋰硼礦產開採提供穩定清潔電力，有效降低區域用能成本。"
+    },
+    {
+      "id": "4964086",
+      "time": "2026-07-01 10:40:15",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【科創50指數翻綠 此前一度漲超2%】科創50指數翻綠，此前一度漲超2%。成分股中，寒武紀、源傑科技跌超4%。"
+    },
+    {
+      "id": "te:economy:563208",
+      "time": "2026-07-01 10:40:08",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Mauritius",
+        "GDP Annual Growth Rate",
+        "Importance 0"
+      ],
+      "text": "Mauritius GDP Growth Softest in 5 Years — The annual GDP growth in Mauritius slowed to 2.0% in Q1 2026 from 2.7% in Q4, marking the softest reading since a contraction in Q1 2021. Total final consumption fell 0.2%, as a 0.5% rise in household consumption was offset by a 3.3% drop in general government spending. Gross fixed capital formation increased 1.9%, rebounding from a 1.9% decline in the previous quarter, driven by machinery and equipment (13.6%) but partly offset by a decline in building and construction work (-3.7%). Exports of goods and services rose 13.1%, accelerating from 8.4% previously, supported by a 17.0% increase in services exports. On the production side, positive contributions came from financial and insurance activities (0.5 pp) and accommodation and food services (0.4 pp). Additional support came from agriculture, forestry and fishing; wholesale and retail trade; transport and storage; and professional, scientific and technical activities (each contributing 0.2 pp)."
+    },
+    {
+      "id": "4964085",
+      "time": "2026-07-01 10:39:55",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "上證50股指期貨(IH)主力合約日內漲超1%，現報2961.2點。"
+    },
+    {
+      "id": "4964084",
+      "time": "2026-07-01 10:39:15",
+      "tags": [
+        "公司"
+      ],
+      "text": "【廣州快手小額貸款公司增資至20億 增幅100%】天眼查App顯示，近日，廣州快手小額貸款有限公司發生工商變更，註冊資本由 10億人民幣增至20億人民幣，增幅100%。該公司成立於2016年1月，法定代表人為董宇，經營範圍為小額貸款業務，由北京雲掣科技有限公司全資持股。"
+    },
+    {
+      "id": "4964083",
+      "time": "2026-07-01 10:39:02",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【習近平：中國共產黨團結帶領各族人民書寫了中華民族最恢宏的史詩】今天上午，慶祝中國共產黨成立105週年大會在人民大會堂隆重舉行。中共中央總書記、國家主席、中央軍委主席習近平向“七一勳章”獲得者頒授勳章並發表重要講話。習近平：105年來，我們黨始終堅守為中國人民謀幸福、為中華民族謀復興的初心使命，深刻洞察世界發展大勢，準確把握各個歷史時期社會主要矛盾變化，團結帶領全國各族人民不懈奮鬥，創造了新民主主義革命、社會主義革命和建設、改革開放和社會主義現代化建設、新時代中國特色社會主義的偉大成就，書寫了中華民族幾千年歷史上最恢宏的史詩。（央視新聞）"
+    },
     {
       "id": "4964082",
       "time": "2026-07-01 10:38:28",
@@ -128376,139 +128490,6 @@
         "其他"
       ],
       "text": "立訊精密據悉計劃在香港上市，擬募資約30億美元。"
-    },
-    {
-      "id": "mkt:019ef781-e39c-7dd8-b0e9-7e02d57a72d2",
-      "time": "2026-06-24 10:42:25",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "China A-share compute-power leasing sector strengthened amid volatility; Hongjing Technology rose more than 17% to a fresh record high, Maixinlin gained over 11%, while Hailanxin, Xiexin Nengke and Litong Electronics also advanced."
-    },
-    {
-      "id": "4951578",
-      "time": "2026-06-24 10:41:53",
-      "tags": [
-        "市場"
-      ],
-      "text": "【現貨黃金日內跌超50美元】現貨黃金日內跌幅達50美元，現報4058.78美元/盎司，跌幅1.24%。"
-    },
-    {
-      "id": "mkt:019ef781-6544-7dd8-b0e9-746f9582dd64",
-      "time": "2026-06-24 10:41:52",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Precious Metals",
-        "XAUUSD",
-        "Impact bearish"
-      ],
-      "text": "【Spot gold falls more than $50 intraday】Spot gold fell more than $50 intraday to $4,058.78/oz, down 1.24%."
-    },
-    {
-      "id": "mkt:019ef781-33c1-7dd8-b0e9-6f024a416d7c",
-      "time": "2026-06-24 10:41:40",
-      "tags": [
-        "MKT News",
-        "CSI300",
-        "Impact bullish",
-        "CNH",
-        "Copper"
-      ],
-      "text": "【China MIIT, MOF and NFRA offices issue 2026 first-unit (set) major technical equipment insurance compensation policy】The offices of the Ministry of Industry and Information Technology, the Ministry of Finance and the National Financial Regulatory Administration jointly issued a notice implementing the 2026 first-unit (set) major technical equipment insurance compensation policy. Coverage extends to all fields in the Guiding Catalogue for Promotion and Application of First Unit (Set) Major Technical Equipment (2024 edition). In principle, complete machines will be supported on a unit (set) basis; core systems, key components, major equipment key supporting items and basic parts will be supported in principle on a batch basis. Lower-value single-unit machines—such as high-end industrial machine tools, specialized electronic equipment, new agricultural machinery and precision instruments—may be supported by batch; higher-value single items—such as aero engines, ship engines and other high-value core systems or key components—may be supported on a unit (set) basis."
-    },
-    {
-      "id": "4951577",
-      "time": "2026-06-24 10:41:12",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "現貨黃金失守4060美元/盎司，日內跌1.22%。"
-    },
-    {
-      "id": "4951576",
-      "time": "2026-06-24 10:40:49",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "【卑劣無恥！國臺辦批民進黨當局借日菲侵權行徑散播“臺獨”分裂謬論】國務院臺辦舉行例行新聞釋出會。有記者就賴清德借日菲侵權行徑散播“臺獨”分裂謬論一事提問。發言人張晗表示，日菲宣佈的“擬劃界海域”位於臺灣島以東，中國在上述海域擁有專屬經濟區和大陸架。日菲繞開中方擅自啟動所謂“海域劃界談判”，嚴重違反包括《聯合國海洋公約》在內的國際法和國際關係基本準則，嚴重侵害中國海洋權益。大陸有關部門在相關海域依法開展執法巡查正當必要，是維護國家主權和海洋權益的正義之舉。張晗說，民進黨當局對日菲侵權行徑裝聾作啞、視而不見，卻藉機大肆散播“臺獨”分裂謬論，煽動“反中抗中”，已經淪為外部勢力侵害中華民族整體利益的幫兇，卑劣無恥，必遭清算。"
-    },
-    {
-      "id": "4951575",
-      "time": "2026-06-24 10:40:33",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【瑞迪智驅攜機器人核心部件產品矩陣亮相AUTOMATE 2026】據瑞迪智驅訊息，6月22日至25日，北美自動化與機器人領域重要展會AUTOMATE 2026在美國芝加哥麥考密克會展中心舉行。瑞迪智驅攜精密傳動與制動領域核心產品亮相展會，面向全球客戶展示公司在機器人運動控制、安全制動及自動化裝備關鍵零部件領域的產品佈局與研發成果。"
-    },
-    {
-      "id": "mkt:019ef780-23bf-7dd8-b0e9-64b4521ff817",
-      "time": "2026-06-24 10:40:30",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "China EV Leaders",
-        "00175.HK",
-        "Impact bullish"
-      ],
-      "text": "【Daiwa upgrades Geely to Buy, raises target to HKD27】Daiwa Securities upgraded Geely Auto (00175.HK) to Buy from Hold and raised its target price to HKD27 from HKD23.7. The broker cites brand up‑marketing and overseas expansion as drivers of earnings. Daiwa lifted its 2026–28 sales forecast by 1.2%, attributing the revision to overseas expansion and strong order momentum for the Zeekr 9X. It also raised 2026–28 average selling price forecasts by 5–6% and lifted gross margin assumptions by 0.3ppt. Overall, Daiwa increased its 2026–28 revenue forecasts by 6–8% and net profit forecasts by 12–16%."
-    },
-    {
-      "id": "4951574",
-      "time": "2026-06-24 10:40:28",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "【三部門組織實施2026年首臺（套）重大技術裝備保險補償政策】工業和資訊化部辦公廳、財政部辦公廳、金融監管總局辦公廳釋出關於組織實施2026年首臺（套）重大技術裝備保險補償政策的通知。支援範圍包括：2026年首臺（套）重大技術裝備保險補償政策支援範圍為《首臺（套）重大技術裝備推廣應用指導目錄（2024版）》全部領域。整機裝備原則上按照臺（套）數方式支援；核心系統、關鍵零部件、重大技術裝備關鍵配套及基礎件原則上按照批次數方式支援。其中高階工業母機、電子專用裝備、新型農業機械裝備、精密儀器儀表等單臺（套）裝備價值不高的整機裝備可按批次數方式支援；航空發動機、船舶發動機等單件價值較高的核心繫統、關鍵零部件等可按臺（套）數方式支援。"
-    },
-    {
-      "id": "te:markets:561330",
-      "time": "2026-06-24 10:40:01",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "US Natgas Prices Hold Decline — US natural gas prices hovered around $3.15 per MMBtu after falling more than 3% in the previous session, weighed down by abundant inventories and cooler weather pointing to softer demand. Weather forecasts indicate below-average temperatures across the Mid-Atlantic region between June 23 and 27, likely curbing air-conditioning-driven power demand. The cooler outlook follows a mild spring that enabled energy companies to build larger-than-usual gas inventories, with stockpiles currently around 5.8% above normal. In addition, recent maintenance-related reductions in gas flows to US LNG export terminals have redirected more supply to the domestic market. This added availability has more than offset a slight dip in production, with output in the Lower 48 states slipping to 109.5 bcfd so far in June from 109.7 bcfd in May."
-    },
-    {
-      "id": "mkt:019ef77f-7190-7dd8-b0e9-5de83ae8a3d3",
-      "time": "2026-06-24 10:39:44",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution",
-        "9984.T",
-        "Impact bullish"
-      ],
-      "text": "SoftBank CEO Masayoshi Son said the company has begun using robotic assembly lines to mass-produce AI robots."
-    },
-    {
-      "id": "4951573",
-      "time": "2026-06-24 10:39:35",
-      "tags": [
-        "公司"
-      ],
-      "text": "軟銀孫正義：公司已開始使用機器人裝配量產人工智慧機器人。"
-    },
-    {
-      "id": "te:markets:561328",
-      "time": "2026-06-24 10:39:32",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Indonesia",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "Indonesia Shares Extend Gains After MSCI Delay, Stimulus Plans — Indonesia’s IDX Composite added 37 points, or 0.6%, to 6,137 in Wednesday morning trade, building gains from the previous session after MSCI delayed its assessment of Indonesia’s market accessibility to November. The extended review followed concerns raised earlier this year over market accessibility, with the index provider freezing changes to Indonesia's equity indexes in January due to investability issues. Domestically, sentiment was lifted by government plans to relaunch consumer stimulus in the second half of the year to support economic activity amid global uncertainty. Meanwhile, U.S. futures edged higher after Wall Street’s tech-led slide overnight, while easing tensions in the Strait of Hormuz pushed oil closer to pre-conflict levels. Industrials, financials, and healthcare led advances, offsetting weakness in transport, consumer cyclicals, and property. Standouts included Surya Citra Media (3%), Astra Intl. (2.4%), Semen Indonesia (1.7%), and Perusahaan Gas Negara (1.3%)."
     }
   ]
 }
