@@ -1,7 +1,84 @@
 {
-  "updated": "2026-07-01 14:34:27",
-  "count": 13879,
+  "updated": "2026-07-01 14:38:19",
+  "count": 13873,
   "items": [
+    {
+      "id": "4964354",
+      "time": "2026-07-01 14:37:18",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【先進封裝板塊震盪走弱，快克智慧跌停】先進封裝板塊震盪走弱，快克智慧跌停，三佳科技、芯原股份、興森科技、寒武紀、藍箭電子、聯瑞新材等跟跌。"
+    },
+    {
+      "id": "mkt:019f1c65-6bca-7aab-8c4d-5a9a55761684",
+      "time": "2026-07-01 14:37:16",
+      "tags": [
+        "MKT News",
+        "CSI300",
+        "Impact bearish",
+        "Hang Seng Index"
+      ],
+      "text": "CSI 500 index futures (IC) main contract traded down more than 1.00% intraday to 8,672.0 points."
+    },
+    {
+      "id": "te:markets:563291",
+      "time": "2026-07-01 14:37:08",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Iron Ore Slides Toward 1-Year Low — Iron ore futures fell below CNY 740 per ton, drifting toward their lowest levels in nearly a year as new European Union trade restrictions on steel imports clouded the demand outlook. The European Commission introduced quotas under a new system to curb duty-free steel imports into the EU, aiming to protect the region’s steel industry and boost capacity utilization. Meanwhile, global supply remained abundant, while iron ore inventories at Chinese ports stayed near historically high levels. Steel demand from China’s construction sector also remained subdued, while manufacturing-related demand continued to soften, a trend that could persist for months. At the same time, net steel exports have been unable to match the robust levels recorded during the same period last year."
+    },
+    {
+      "id": "4964353",
+      "time": "2026-07-01 14:35:45",
+      "tags": [
+        "公司",
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "【機構：美元兌日元嚴重超買】蘇克敦金融研究團隊在評論中表示，根據日線圖上81.4的相對強弱指數，美元兌日元似乎嚴重超買。該團隊表示，這增加了美元向161日元附近的20日簡單移動平均線或161.20日元的結構性支撐位進行修正性回撥的可能性。該團隊表示，定於週四公佈的美國非農就業人數報告是近期的一個關鍵催化劑，因為強勁的資料將強化美聯儲偏緊縮的貨幣政策預期，並可能推動美元升至163日元上方。不過該團隊補充說，“令人失望的資料可能會為在這些極端水平獲利了結提供環境。“倫敦證券交易所集團資料顯示，美元上漲0.1%，報162.70日元。"
+    },
+    {
+      "id": "4964352",
+      "time": "2026-07-01 14:35:27",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "集運指數歐線期貨連續主力合約日內跌11%，現報2525.50點。"
+    },
+    {
+      "id": "4964351",
+      "time": "2026-07-01 14:35:26",
+      "tags": [
+        "其他"
+      ],
+      "text": "挪威公路聯合會(OFV)彙編的資料顯示，6月特斯拉在挪威的新車註冊量同比下降43%。"
+    },
+    {
+      "id": "4964350",
+      "time": "2026-07-01 14:34:44",
+      "tags": [
+        "公司"
+      ],
+      "text": "起亞公司：6月全球銷量同比增長9.5%，至295,720輛。"
+    },
+    {
+      "id": "mkt:019f1c62-e225-7aab-8c4d-521290039911",
+      "time": "2026-07-01 14:34:30",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "【Joyson Electronics to unveil robotic dexterous hand, semi-solid-state battery solution】Joyson Electronics will unveil a robotic dexterous hand, a solid-liquid hybrid energy solution (semi-solid-state battery), an embodied AI brain and a third-generation AI head assembly at the 2026 World Artificial Intelligence Conference."
+    },
     {
       "id": "4964349",
       "time": "2026-07-01 14:33:40",
@@ -127544,131 +127621,6 @@
         "其他"
       ],
       "text": "【SPHBM4標準獲批，突破HBM封裝成本高昂的瓶頸】JEDEC制定並公佈了SPHBM4標準。SPHBM4是一項新的JEDEC標準，使用更少的訊號引腳、標準封裝和更經濟的基板，即可實現接近HBM4的效能。SPHBM4將訊號引腳數量減少到原來的五分之一，並透過將訊號速度提高至原來的四倍，緩解效能損失的問題。這樣一來，即使使用標準基板，也能實現與HBM相當的頻寬。記憶體晶片和計算晶片之間的連線距離也增加到 20 毫米。這種距離的增加有助於提升封裝內部的散熱效能。"
-    },
-    {
-      "id": "4951933",
-      "time": "2026-06-24 14:37:35",
-      "tags": [
-        "其他"
-      ],
-      "text": "港股藥捷安康-B(02617.HK)跌超10%，市值縮窄至41億港元。"
-    },
-    {
-      "id": "mkt:019ef859-2f29-7dd8-b0ee-45b9c527db89",
-      "time": "2026-06-24 14:37:34",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "02617.HK",
-        "Impact bearish"
-      ],
-      "text": "Hong Kong-listed Yaojie Ankang-B (02617.HK) fell over 10%, cutting market capitalization to HK$4.1 billion."
-    },
-    {
-      "id": "4951932",
-      "time": "2026-06-24 14:37:33",
-      "tags": [
-        "市場"
-      ],
-      "text": "【分析：圖表顯示美元兌新加坡元可能進一步走高】大華全球經濟與市場研究部的Quek Ser Leang在一份報告中表示，基於圖表分析，美元兌新加坡元可能進一步走高。該高階技術策略師指出，在週一和週五測試了1.2930新加坡元的水平後，美元在週二顯著升破該水平。該策略師表示，強勁的周線動能也預示著美元兌新加坡元在未來幾周將進一步走強。該策略師補充道，從目前水平來看，美元若突破1.3000新加坡元，可能會為進一步升向2025年11月高點1.3095新加坡元開啟通道。"
-    },
-    {
-      "id": "mkt:019ef858-7d23-7dd8-b0ee-3d28c65dec7f",
-      "time": "2026-06-24 14:36:49",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【VLCC fixed at WS 897 as Persian Gulf tonnage shortage drives rate spike】A VLCC (~2.0 mln barrels) has been fixed to lift crude from the Persian Gulf to India at WS 897 — about 897% of the Worldscale benchmark — brokers said, reflecting a severe regional shortage of available ballast tonnage. The vessel was supplied by Korean owner Sinokor Group and the booking was priced on a Persian Gulf–Singapore route basis. Brokers said the fixture is the highest VLCC rate so far this year. Sinokor has been expanding in the tanker market since late last year and was among the most active Gulf participants during the war."
-    },
-    {
-      "id": "4951931",
-      "time": "2026-06-24 14:36:39",
-      "tags": [
-        "其他"
-      ],
-      "text": "南非財長稱本國經濟展現韌性。"
-    },
-    {
-      "id": "4951930",
-      "time": "2026-06-24 14:36:34",
-      "tags": [
-        "市場"
-      ],
-      "text": "臺幣兌美元下跌0.5%至31.784。"
-    },
-    {
-      "id": "4951929",
-      "time": "2026-06-24 14:36:33",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "滬深兩市成交額超3萬億元，較上日此時縮量1591億元。"
-    },
-    {
-      "id": "4951928",
-      "time": "2026-06-24 14:36:20",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【智平方郭彥東：類腦智慧將成為下一代機器人大腦的重要發展方向】6月23日至25日，世界經濟論壇第十七屆新領軍者年會（夏季達沃斯論壇）在大連舉行。智平方創始人兼CEO郭彥東在會上發表演講時提出，類腦智慧、小樣本學習以及低功耗計算，將成為下一代機器人大腦的重要發展方向。下一代機器人大腦不應只是算力和資料的競賽，更需要探索更高效、更可持續的發展路徑。當前機器人產業面臨的重要挑戰之一，是工業、公共服務以及未來家庭場景之間長期存在的應用鴻溝。解決這一問題的關鍵，在於統一硬體與統一模型。與此同時，不同場景產生的資料持續迴流至同一個機器人大腦。工業場景提升機器人精度與穩定性，公共服務場景增強互動與泛化能力，兩類能力相互促進，並最終為未來家庭應用奠定基礎。"
-    },
-    {
-      "id": "4951927",
-      "time": "2026-06-24 14:36:07",
-      "tags": [
-        "其他"
-      ],
-      "text": "【我國自主開發的電化學原位液相透射電子顯微裝置首次觀測到電極/電解液介面處由濃度驅動的相分離現象】據廈門大學訊息，該校孫世剛院士、廖洪鋼教授團隊聯合華中科技大學黃雲輝教授團隊等，藉助自主開發的電化學原位液相透射電子顯微裝置，首次觀測到電極/電解液介面處由濃度驅動的相分離現象，並揭示了鋰硫電池中高濃度多硫化鋰介面層的形成與演化規律。相關成果最近發表在《自然》雜誌上。鋰硫電池是下一代高比能儲能電池的重要體系，但在接近實際應用的高硫載量、貧電解液條件下，其內部反應微觀機制難以被觀測和闡釋，從而長期限制著電池能量密度、快充效能與迴圈穩定性的提升。該研究突破傳統觀測手段侷限，藉助電化學原位液相透射電子顯微鏡，實現了對鋰硫電池奈米尺度介面反應的高解析度實時動態成像。"
-    },
-    {
-      "id": "4951926",
-      "time": "2026-06-24 14:35:53",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "亞馬遜印度站將業務拓展至逾300座城市，打造印度最大的“分鐘級配送”網路。"
-    },
-    {
-      "id": "4951925",
-      "time": "2026-06-24 14:35:34",
-      "tags": [
-        "其他"
-      ],
-      "text": "【青海省海西州直轄區發生5.2級地震，水利部迅即啟動水利抗震救災排程指揮機制】6月23日23時29分，青海省海西州直轄區發生5.2級地震，震源深度8千米。水利部迅即啟動水利抗震救災排程指揮機制，組織專題會商，分析地震對水利工程以及防洪、供水等的影響，研判震區雨水情形勢，安排部署水利抗震救災工作。經初步排查和監測分析，震區江河水情平穩，水庫等水利工程執行正常。預報震區今日（6月24日）有小到中雨、明後2天無降雨。水利部將持續密切關注震區雨情、水情及水利工程執行情況，指導地方水利部門繼續做好震區水利工程震損排查和處置工作，嚴防發生次生災害。"
-    },
-    {
-      "id": "mkt:019ef856-c15a-7dd8-b0ee-32969dbc79a4",
-      "time": "2026-06-24 14:34:55",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC"
-      ],
-      "text": "Japan's finance minister KATAYAMA said the situation in the Middle East remains uncertain and he is continuously monitoring related impacts."
-    },
-    {
-      "id": "4951924",
-      "time": "2026-06-24 14:34:35",
-      "tags": [
-        "其他"
-      ],
-      "text": "【劉海星會見吉布提爭取進步人民聯盟總書記兼政府經濟、財政與工業部部長達瓦萊】6月24日，中共中央對外聯絡部部長劉海星在北京會見吉布提爭取進步人民聯盟總書記兼政府經濟、財政與工業部部長達瓦萊。劉海星表示，中國共產黨和吉布提爭取進步人民聯盟是好兄弟、好朋友、好夥伴。新形勢下，雙方應共同落實好兩國元首達成的重要共識，加強戰略溝通，深化治黨治國經驗交流，密切青年交往，透過“政黨+”渠道推動兩國經貿、投資、智庫媒體等領域交流合作，助力“十五五”規劃同吉“2035年願景”規劃緊密對接，推動構建中吉命運共同體。"
-    },
-    {
-      "id": "mkt:019ef856-559e-7dd8-b0ee-284686cac6ce",
-      "time": "2026-06-24 14:34:27",
-      "tags": [
-        "MKT News",
-        "Important",
-        "DXY",
-        "Impact bullish",
-        "USDJPY"
-      ],
-      "text": "KRW/USD onshore closed at 1,541.8, the weakest close since March 2009."
     }
   ]
 }

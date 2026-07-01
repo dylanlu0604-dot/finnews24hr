@@ -1,7 +1,84 @@
 {
   "date": "2026-07-01",
-  "count": 1477,
+  "count": 1485,
   "items": [
+    {
+      "id": "4964354",
+      "time": "2026-07-01 14:37:18",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【先進封裝板塊震盪走弱，快克智慧跌停】先進封裝板塊震盪走弱，快克智慧跌停，三佳科技、芯原股份、興森科技、寒武紀、藍箭電子、聯瑞新材等跟跌。"
+    },
+    {
+      "id": "mkt:019f1c65-6bca-7aab-8c4d-5a9a55761684",
+      "time": "2026-07-01 14:37:16",
+      "tags": [
+        "MKT News",
+        "CSI300",
+        "Impact bearish",
+        "Hang Seng Index"
+      ],
+      "text": "CSI 500 index futures (IC) main contract traded down more than 1.00% intraday to 8,672.0 points."
+    },
+    {
+      "id": "te:markets:563291",
+      "time": "2026-07-01 14:37:08",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Iron Ore Slides Toward 1-Year Low — Iron ore futures fell below CNY 740 per ton, drifting toward their lowest levels in nearly a year as new European Union trade restrictions on steel imports clouded the demand outlook. The European Commission introduced quotas under a new system to curb duty-free steel imports into the EU, aiming to protect the region’s steel industry and boost capacity utilization. Meanwhile, global supply remained abundant, while iron ore inventories at Chinese ports stayed near historically high levels. Steel demand from China’s construction sector also remained subdued, while manufacturing-related demand continued to soften, a trend that could persist for months. At the same time, net steel exports have been unable to match the robust levels recorded during the same period last year."
+    },
+    {
+      "id": "4964353",
+      "time": "2026-07-01 14:35:45",
+      "tags": [
+        "公司",
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "【機構：美元兌日元嚴重超買】蘇克敦金融研究團隊在評論中表示，根據日線圖上81.4的相對強弱指數，美元兌日元似乎嚴重超買。該團隊表示，這增加了美元向161日元附近的20日簡單移動平均線或161.20日元的結構性支撐位進行修正性回撥的可能性。該團隊表示，定於週四公佈的美國非農就業人數報告是近期的一個關鍵催化劑，因為強勁的資料將強化美聯儲偏緊縮的貨幣政策預期，並可能推動美元升至163日元上方。不過該團隊補充說，“令人失望的資料可能會為在這些極端水平獲利了結提供環境。“倫敦證券交易所集團資料顯示，美元上漲0.1%，報162.70日元。"
+    },
+    {
+      "id": "4964352",
+      "time": "2026-07-01 14:35:27",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "集運指數歐線期貨連續主力合約日內跌11%，現報2525.50點。"
+    },
+    {
+      "id": "4964351",
+      "time": "2026-07-01 14:35:26",
+      "tags": [
+        "其他"
+      ],
+      "text": "挪威公路聯合會(OFV)彙編的資料顯示，6月特斯拉在挪威的新車註冊量同比下降43%。"
+    },
+    {
+      "id": "4964350",
+      "time": "2026-07-01 14:34:44",
+      "tags": [
+        "公司"
+      ],
+      "text": "起亞公司：6月全球銷量同比增長9.5%，至295,720輛。"
+    },
+    {
+      "id": "mkt:019f1c62-e225-7aab-8c4d-521290039911",
+      "time": "2026-07-01 14:34:30",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "【Joyson Electronics to unveil robotic dexterous hand, semi-solid-state battery solution】Joyson Electronics will unveil a robotic dexterous hand, a solid-liquid hybrid energy solution (semi-solid-state battery), an embodied AI brain and a third-generation AI head assembly at the 2026 World Artificial Intelligence Conference."
+    },
     {
       "id": "4964349",
       "time": "2026-07-01 14:33:40",
