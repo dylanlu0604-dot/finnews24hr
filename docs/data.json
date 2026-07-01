@@ -1,7 +1,76 @@
 {
-  "updated": "2026-07-02 00:38:02",
-  "count": 14244,
+  "updated": "2026-07-02 00:41:57",
+  "count": 14246,
   "items": [
+    {
+      "id": "mkt:019f1e8e-168e-7aab-8c63-93a6e388bd6e",
+      "time": "2026-07-02 00:40:56",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "MU.O"
+      ],
+      "text": "【Micron to inject $250 mln into 'Trump account'; Trump says policies a 'big success'】U.S. President Trump posted on social media that Micron Technology (MU.O) will invest $250 mln into a 'Trump account'. Trump credited CEO Sanjay Mehrotra for the move, called it a historic — and reportedly the largest — corporate investment of its kind, and said it will directly benefit U.S. workers and families, framing the move as evidence his policies are succeeding."
+    },
+    {
+      "id": "4965796",
+      "time": "2026-07-02 00:39:47",
+      "tags": [
+        "國際"
+      ],
+      "text": "據沙烏地阿拉伯阿拉比亞電視臺：以色列對黎巴嫩南部的納布提亞上方進行空襲。"
+    },
+    {
+      "id": "mkt:019f1e8c-aaf0-7aab-8c63-898099443c1a",
+      "time": "2026-07-02 00:39:22",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "Brent",
+        "DXY"
+      ],
+      "text": "Al Arabiya TV reports Israel carried out airstrikes over Nabatieh in southern Lebanon."
+    },
+    {
+      "id": "mkt:019f1e8c-6fc8-7aab-8c63-870f15c823fd",
+      "time": "2026-07-02 00:39:07",
+      "tags": [
+        "MKT News",
+        "XOM.N"
+      ],
+      "text": "Per an SEC filing, Exxon Mobil Corp will complete a domicile change and reorganization on July 1, 2026, and begin trading on the New York Stock Exchange under ticker XOM on July 2, 2026."
+    },
+    {
+      "id": "4965795",
+      "time": "2026-07-02 00:38:58",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "【摩根大通資深高管、人工智慧主管在該行任職四十年後將退休】摩根大通的一位資深高管在長達四十年的職業生涯後將離開該行。她最近負責領導該行的人工智慧戰略，並在其最高運營委員會中佔據重要席位。執行長傑米·戴蒙和營運長Jenn Piepszak的一份致員工的備忘錄，摩根大通首席資料與分析官Teresa Heitsenrether將於今年年底從公司退休。Heitsenrether此前曾負責該行主經紀和證券服務業務。"
+    },
+    {
+      "id": "te:markets:563528",
+      "time": "2026-07-02 00:38:04",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Italy",
+        "Stock Market",
+        "Importance 0"
+      ],
+      "text": "FTSE MIB Edges Lower — The FTSE MIB fell 0.2% to close at 51,604 on Wednesday, pressured by energy producers and continued volatility in AI-related stocks. ENI dropped 2.6% and Saipem lost 3.5% as restored oil exports from the Middle East lowered global prices. AI-related stocks weakened following their rally this week, with STMicroelectronics (-3.3%) and Prysmian (-2.2%) posting notable losses. Meanwhile, defense stocks advanced after the UK announced a reallocation of €15 billion in defense spending, boosting Leonardo (+4.4%), Fincantieri (+1.5%), and Avio (+1.1%). Banking stocks were mixed following softer-than-expected inflation data in the Eurozone, with UniCredit adding 0.5%. Also on the financial front, Unipol added 3.9% after receiving an upgrade from Intermonte. Nexi soared 6.4% on a strong session for payment infrastructure globally."
+    },
+    {
+      "id": "4965794",
+      "time": "2026-07-02 00:37:25",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "美國證券交易委員會檔案：埃克森美孚已於 2026 年 7 月 1 日完成公司註冊地變更和重組，埃克森美孚控股公司自 2026 年 7 月 2 日起，將以股票程式碼 XOM 在紐約證券交易所掛牌交易。"
+    },
     {
       "id": "4965793",
       "time": "2026-07-02 00:37:02",
@@ -131307,54 +131376,6 @@
         "國際"
       ],
       "text": "美國財長貝森特：對美聯儲需要警惕的核心底層通脹壓力不予置評。但我認為，我們必須客觀看待伊朗衝突對物價、通脹造成的衝擊，等本輪能源漲價效應消退後，再觀察通脹實際表現。同時也要理性看待人工智慧產業熱潮——AI有望提振生產率、起到抑制通脹的作用，推動通脹回落至目標水平。我確信凱文·沃什會選擇最優政策路徑，兼顧抑制通脹與穩定增長兩大美聯儲法定職責。要知道，他此前表態時對通脹風險措辭強硬。"
-    },
-    {
-      "id": "mkt:019efa82-75fc-7dd8-b100-001032379d5f",
-      "time": "2026-06-25 00:41:54",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "US Energy Secretary wright said roughly 72 vessels departed the Strait of Hormuz in the past 24 hours, carrying about 20 million barrels of oil."
-    },
-    {
-      "id": "4953205",
-      "time": "2026-06-25 00:41:47",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美國財長貝森特：我認為美國經濟將實現高國內生產總值（GDP）增速，同時不會出現傳統意義上的通脹抬頭。過去幾天，各界都在回顧格林斯潘的執政歷程。他極具先見之明，90年代前夕，美國生產率增速約1.5%，但他預判辦公裝置現代化與網際網路浪潮能夠推動無通脹型經濟繁榮。當年美聯儲僅在1997年初小幅加息一次、短暫收緊政策，除此之外，美國迎來了史上持續時間最長的經濟擴張週期。如今我們很有可能再次復刻這一局面。"
-    },
-    {
-      "id": "4953204",
-      "time": "2026-06-25 00:41:20",
-      "tags": [
-        "央行",
-        "焦點",
-        "國際"
-      ],
-      "text": "美國財長貝森特表示，希望美聯儲能“保持開放心態”，待伊朗局勢推升能源價格的影響消退後，再重新審視通脹走勢。"
-    },
-    {
-      "id": "4953203",
-      "time": "2026-06-25 00:40:36",
-      "tags": [
-        "市場"
-      ],
-      "text": "特斯拉股價延續跌勢，跌至當日低點，下跌0.9%。"
-    },
-    {
-      "id": "mkt:019efa7f-2756-7dd8-b0ff-f9c0d31a05ee",
-      "time": "2026-06-25 00:38:17",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Iraq's prime minister says ties with the United States will shift from a military relationship to an economic partnership."
     }
   ]
 }

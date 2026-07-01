@@ -1,7 +1,76 @@
 {
   "date": "2026-07-02",
-  "count": 61,
+  "count": 68,
   "items": [
+    {
+      "id": "mkt:019f1e8e-168e-7aab-8c63-93a6e388bd6e",
+      "time": "2026-07-02 00:40:56",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "MU.O"
+      ],
+      "text": "【Micron to inject $250 mln into 'Trump account'; Trump says policies a 'big success'】U.S. President Trump posted on social media that Micron Technology (MU.O) will invest $250 mln into a 'Trump account'. Trump credited CEO Sanjay Mehrotra for the move, called it a historic — and reportedly the largest — corporate investment of its kind, and said it will directly benefit U.S. workers and families, framing the move as evidence his policies are succeeding."
+    },
+    {
+      "id": "4965796",
+      "time": "2026-07-02 00:39:47",
+      "tags": [
+        "國際"
+      ],
+      "text": "據沙烏地阿拉伯阿拉比亞電視臺：以色列對黎巴嫩南部的納布提亞上方進行空襲。"
+    },
+    {
+      "id": "mkt:019f1e8c-aaf0-7aab-8c63-898099443c1a",
+      "time": "2026-07-02 00:39:22",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "Brent",
+        "DXY"
+      ],
+      "text": "Al Arabiya TV reports Israel carried out airstrikes over Nabatieh in southern Lebanon."
+    },
+    {
+      "id": "mkt:019f1e8c-6fc8-7aab-8c63-870f15c823fd",
+      "time": "2026-07-02 00:39:07",
+      "tags": [
+        "MKT News",
+        "XOM.N"
+      ],
+      "text": "Per an SEC filing, Exxon Mobil Corp will complete a domicile change and reorganization on July 1, 2026, and begin trading on the New York Stock Exchange under ticker XOM on July 2, 2026."
+    },
+    {
+      "id": "4965795",
+      "time": "2026-07-02 00:38:58",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "【摩根大通資深高管、人工智慧主管在該行任職四十年後將退休】摩根大通的一位資深高管在長達四十年的職業生涯後將離開該行。她最近負責領導該行的人工智慧戰略，並在其最高運營委員會中佔據重要席位。執行長傑米·戴蒙和營運長Jenn Piepszak的一份致員工的備忘錄，摩根大通首席資料與分析官Teresa Heitsenrether將於今年年底從公司退休。Heitsenrether此前曾負責該行主經紀和證券服務業務。"
+    },
+    {
+      "id": "te:markets:563528",
+      "time": "2026-07-02 00:38:04",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Italy",
+        "Stock Market",
+        "Importance 0"
+      ],
+      "text": "FTSE MIB Edges Lower — The FTSE MIB fell 0.2% to close at 51,604 on Wednesday, pressured by energy producers and continued volatility in AI-related stocks. ENI dropped 2.6% and Saipem lost 3.5% as restored oil exports from the Middle East lowered global prices. AI-related stocks weakened following their rally this week, with STMicroelectronics (-3.3%) and Prysmian (-2.2%) posting notable losses. Meanwhile, defense stocks advanced after the UK announced a reallocation of €15 billion in defense spending, boosting Leonardo (+4.4%), Fincantieri (+1.5%), and Avio (+1.1%). Banking stocks were mixed following softer-than-expected inflation data in the Eurozone, with UniCredit adding 0.5%. Also on the financial front, Unipol added 3.9% after receiving an upgrade from Intermonte. Nexi soared 6.4% on a strong session for payment infrastructure globally."
+    },
+    {
+      "id": "4965794",
+      "time": "2026-07-02 00:37:25",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "美國證券交易委員會檔案：埃克森美孚已於 2026 年 7 月 1 日完成公司註冊地變更和重組，埃克森美孚控股公司自 2026 年 7 月 2 日起，將以股票程式碼 XOM 在紐約證券交易所掛牌交易。"
+    },
     {
       "id": "4965793",
       "time": "2026-07-02 00:37:02",
