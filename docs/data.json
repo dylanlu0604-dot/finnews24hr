@@ -1,7 +1,42 @@
 {
-  "updated": "2026-07-02 06:34:38",
-  "count": 14028,
+  "updated": "2026-07-02 06:38:35",
+  "count": 14026,
   "items": [
+    {
+      "id": "4965984",
+      "time": "2026-07-02 06:36:01",
+      "tags": [
+        "其他"
+      ],
+      "text": "【委內瑞拉地震2295人遇難11267人傷】當地時間7月1日下午，委內瑞拉全國代表大會主席豪爾赫·羅德里格斯通報，委內瑞拉地震遇難人數升至2295人，受傷人數上升至11267人，強震後發生了782次餘震。"
+    },
+    {
+      "id": "4965983",
+      "time": "2026-07-02 06:35:40",
+      "tags": [
+        "國際"
+      ],
+      "text": "一項最新民調顯示，超兩成一比例的美國民眾支援將特朗普總統的名字從肯尼迪中心移除。"
+    },
+    {
+      "id": "te:markets:563544",
+      "time": "2026-07-02 06:35:11",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Metals Commodities Updates: Lithium Carbonate Gains by 2.24% — Top commodity gainers are Lithium Carbonate (2.24%), Silver (1.36%), Platinum (1.30%) and Gold (0.74%). Biggest losers are Iron Ore CNY (-1.87%), Iron Ore (-1.84%) and Copper (-1.39%)."
+    },
+    {
+      "id": "4965982",
+      "time": "2026-07-02 06:35:00",
+      "tags": [
+        "國際"
+      ],
+      "text": "知情官員：美國與伊朗已達成共識，未來數週內保持局勢低調緩和，以期在諒解備忘錄約定的60天談判週期內取得一定進展。"
+    },
     {
       "id": "4965981",
       "time": "2026-07-02 06:33:51",
@@ -129151,61 +129186,6 @@
         "國際"
       ],
       "text": "【日本巖手縣近海發生6.9級地震】東京時間25日早上7時30分左右，巖手縣近海發生里氏6.9級地震，最大震感為震度6強。日本首都東京有明顯震感。（央視新聞）"
-    },
-    {
-      "id": "mkt:019efbc8-f57e-7dd8-b106-3624bd94aade",
-      "time": "2026-06-25 06:38:31",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Japan Meteorological Agency: a magnitude 6.9 earthquake struck off the coast of Iwate Prefecture; maximum seismic intensity 6+ (Japan scale)."
-    },
-    {
-      "id": "mkt:019efbc8-2182-7dd8-b106-2b37d83c2983",
-      "time": "2026-06-25 06:37:37",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Japan & APAC"
-      ],
-      "text": "EMSC reports a magnitude-6.9 earthquake off the east coast of Honshu, Japan."
-    },
-    {
-      "id": "4953573",
-      "time": "2026-06-25 06:36:38",
-      "tags": [
-        "國際"
-      ],
-      "text": "NHK稱日本地震沒有引發海嘯威脅。"
-    },
-    {
-      "id": "4953572",
-      "time": "2026-06-25 06:35:22",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "日本北部發生6.9級地震，東京有震感。"
-    },
-    {
-      "id": "te:markets:561649",
-      "time": "2026-06-25 06:35:17",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Metals Commodities Updates: Silver Slumps by 6.24% — Top commodity losers are Silver (-6.24%), Platinum (-4.51%) and Gold (-2.66%). Gains are led by Iron Ore CNY (0.74%)."
-    },
-    {
-      "id": "4953571",
-      "time": "2026-06-25 06:34:51",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：日本青森縣發生強烈震動。"
     }
   ]
 }

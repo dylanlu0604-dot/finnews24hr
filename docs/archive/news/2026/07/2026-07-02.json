@@ -1,7 +1,42 @@
 {
   "date": "2026-07-02",
-  "count": 362,
+  "count": 366,
   "items": [
+    {
+      "id": "4965984",
+      "time": "2026-07-02 06:36:01",
+      "tags": [
+        "其他"
+      ],
+      "text": "【委內瑞拉地震2295人遇難11267人傷】當地時間7月1日下午，委內瑞拉全國代表大會主席豪爾赫·羅德里格斯通報，委內瑞拉地震遇難人數升至2295人，受傷人數上升至11267人，強震後發生了782次餘震。"
+    },
+    {
+      "id": "4965983",
+      "time": "2026-07-02 06:35:40",
+      "tags": [
+        "國際"
+      ],
+      "text": "一項最新民調顯示，超兩成一比例的美國民眾支援將特朗普總統的名字從肯尼迪中心移除。"
+    },
+    {
+      "id": "te:markets:563544",
+      "time": "2026-07-02 06:35:11",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Metals Commodities Updates: Lithium Carbonate Gains by 2.24% — Top commodity gainers are Lithium Carbonate (2.24%), Silver (1.36%), Platinum (1.30%) and Gold (0.74%). Biggest losers are Iron Ore CNY (-1.87%), Iron Ore (-1.84%) and Copper (-1.39%)."
+    },
+    {
+      "id": "4965982",
+      "time": "2026-07-02 06:35:00",
+      "tags": [
+        "國際"
+      ],
+      "text": "知情官員：美國與伊朗已達成共識，未來數週內保持局勢低調緩和，以期在諒解備忘錄約定的60天談判週期內取得一定進展。"
+    },
     {
       "id": "4965981",
       "time": "2026-07-02 06:33:51",
