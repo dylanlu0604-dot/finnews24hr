@@ -1,7 +1,391 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-07-02 00:34:04_
-_本檔包含 2839 則快訊，約 534614 字_
+_更新時間：2026-07-02 01:22:03_
+_本檔包含 2859 則快訊，約 534661 字_
+
+---
+
+### 2026-07-02 01:20:27  #公司
+
+三菱汽車北美公司：2026 年第二季度銷量 23127 臺。
+
+---
+
+### 2026-07-02 01:19:31  #國際
+
+【美軍直升機緊急迫降阿拉伯海】美國海軍中央司令部在社交媒體平臺上發文稱，7月1日，一架隸屬於“布什”號航空母艦的MH-60S“海鷹”直升機在阿拉伯海進行了“水上緊急迫降”。據稱目前“沒有跡象顯示該緊急情況由敵對行動造成”。宣告稱，直升機上4名機組人員中已有3人獲救，情況穩定。美軍正在該地區搜尋另一名仍失蹤的機組人員。 事故原因尚不清楚，事件正在調查中。（CCTV國際時訊）
+
+---
+
+### 2026-07-02 01:17:00  #央行 #國際
+
+週三（7月1日），美聯儲隔夜逆回購協議（RRP）使用規模為10.01億美元（交易對手4家），上個交易日報269.00億美元。
+
+---
+
+### 2026-07-02 01:16:42  #MKT News #Macro & Rates #The Fed (FOMC)
+
+The Federal Reserve accepted $1.001 bln from four counterparties in a fixed-rate reverse repo operation.
+
+---
+
+### 2026-07-02 01:16:26  #MKT News #Macro & Rates #The Fed (FOMC)
+
+Wall Street Journal: Sen. Elizabeth Warren has asked Federal Reserve regulators to review Fed Governor Bowman’s attendance at a private BofA dinner.
+
+---
+
+### 2026-07-02 01:16:04  #央行 #國際
+
+市場訊息：美國參議員沃倫要求美聯儲監管機構核查鮑曼出席美國銀行私人晚宴一事。
+
+---
+
+### 2026-07-02 01:15:46  #MKT News
+
+Canada's minister for US-Canada trade affairs Leblanc said parties agree it is vital to continue consultations and explore ways to ensure the USMCA trade and investment framework operates effectively among Canada, the US and Mexico.
+
+---
+
+### 2026-07-02 01:15:41  #MKT News
+
+U.S. Trade Representative said the U.S. government is continuing analysis of the aerospace supply chain to inform tariff policy.
+
+---
+
+### 2026-07-02 01:15:17  #國際
+
+美國貿易代表：政府仍在分析航空航天產業鏈，以此制定關稅相關政策。很難想象總統的目標如何與行業關稅的調整相契合。
+
+---
+
+### 2026-07-02 01:14:58  #其他
+
+加拿大部長勒布朗談及《美墨加協定》：各方一致認同持續磋商十分重要，並將探尋方案，完善加、美、墨三國貿易與投資合作框架。
+
+---
+
+### 2026-07-02 01:14:53  #MKT News
+
+U.S. Trade Representative says it is hard to imagine how the president's objectives would align with industry tariff adjustments.
+
+---
+
+### 2026-07-02 01:10:39  #其他
+
+【委內瑞拉全國哀悼7天】當地時間7月1日，委內瑞拉代總統羅德里格斯宣佈，自當天18時起為所有地震遇難者舉國哀悼7天。（CCTV國際時訊 ）
+
+---
+
+### 2026-07-02 01:08:20  #國際
+
+美國貿易代表：特朗普剩餘任期內，美方或分別與加拿大、墨西哥單獨簽訂貿易議定書。7 月 20 日那周將繼續與墨西哥開展談判，重點磋商原產地規則、經濟安全相關議題。需收緊與墨西哥之間非汽車類產品的原產地規則。
+
+---
+
+### 2026-07-02 01:08:19  #MKT News
+
+U.S. Trade Representative says stricter North American rules of origin are needed for automobiles and other industrial products.
+
+---
+
+### 2026-07-02 01:07:36  #公司
+
+谷歌：谷歌地圖上線紐西蘭本地語音，自帶紐西蘭本土口音，毛利語發音精準標準。
+
+---
+
+### 2026-07-02 01:07:13  #MKT News #S&P500 #Impact bullish #DXY #Impact bearish #Copper
+
+U.S. Trade Representative said talks with Mexico in the week of July 20 will continue, focusing on rules of origin and economic-security issues.
+
+---
+
+### 2026-07-02 01:06:33  #MKT News #WTI #Impact mixed #Brent #DXY #Impact bearish
+
+【Sources: Iran seeks phased execution of US-Iran memorandum, presses for frozen asset release】Sources said on the 1st that Iran’s delegation in indirect US-Iran talks in Doha requested phased implementation of a prior memorandum of understanding, prioritizing the unfreezing of Iranian assets. Iran asked that frozen funds be transferred to the Central Bank of Iran and used for food supplies. The delegation insisted the Strait of Hormuz should be jointly governed by Iran and Oman and rejected any vessels selecting shipping routes there without Iranian permission. Iran reaffirmed its commitment to the NPT and said it would cooperate with the IAEA. Delegates also condemned Israeli troop presence in Lebanon, saying it undermines the memorandum’s implementation.
+
+---
+
+### 2026-07-02 01:05:56  #MKT News
+
+U.S. Trade Representative said the administration may sign separate trade agreements with Canada and Mexico during the remainder of Trump’s term.
+
+---
+
+### 2026-07-02 01:05:12  #MKT News
+
+U.S. Trade Representative said they do not intend to allow issues related to the United States-Mexico-Canada Agreement (USMCA) to be delayed for as long as 10 years.
+
+---
+
+### 2026-07-02 01:04:37  #MKT News #Market Themes #The Trump Trade
+
+US Trade Representative said the USMCA has failed to deliver on reducing the US trade deficit and on expanding market access for US firms to Canada and Mexico.
+
+---
+
+### 2026-07-02 01:04:34  #國際
+
+美國貿易代表： 我們無意把美墨加協定相關問題拖上十年之久。
+
+---
+
+### 2026-07-02 01:04:17  #央行 #國際
+
+【訊息人士：伊朗要求分階段執行美伊諒解備忘錄 重點推動資產解凍】當地時間1日，訊息人士稱，伊朗代表團在當天於卡達首都多哈舉行的美伊間接會談中要求分階段執行此前達成的諒解備忘錄，重點執行伊朗被凍結資產相關條款。伊朗方面要求解凍其被凍結資產並將其提供給伊朗央行，被解凍資金將用於食品供應。據悉，伊朗代表堅持霍爾木茲海峽應受伊朗和阿曼管轄，拒絕任何船隻在霍爾木茲海峽選取未經其許可的航運路線；伊朗堅持其對《不擴散核武器條約》的承諾，並表示將致力於與國際原子能機構合作。此外，伊朗代表在會談中譴責以色列保留在黎巴嫩駐軍的行為，稱其破壞美伊諒解備忘錄的執行。（央視新聞）
+
+---
+
+### 2026-07-02 01:03:37  #MKT News #Important #WTI #Impact bearish #Brent
+
+【US urges Iran to drop Strait of Hormuz transit‑fee demand, says post‑sanctions oil revenue could be 100x higher】US and Iranian negotiators held talks in Doha focused on the Strait of Hormuz, where the US urged Iran to abandon demands to levy transit fees, saying such a move could scupper a more favorable US‑Iran deal. A US Middle East envoy and senior adviser Jared Kushner met Qatar’s prime minister and other Qatari mediators Tuesday and met the emir Wednesday. A US official said Washington told Iran that full sanctions relief would allow Iran to earn roughly 100 times more from unfettered oil and resource sales than it could by charging transit fees.
+
+---
+
+### 2026-07-02 01:02:21  #MKT News
+
+IRNA reported Iran's deputy foreign minister said in talks with Qatar Tehran has decided to use part of $6bln in frozen funds to purchase goods to meet Iran's needs.
+
+---
+
+### 2026-07-02 01:01:40  #焦點 #國際
+
+伊朗伊斯蘭共和國通訊社（ISNA）： 伊朗副外長稱，在卡達舉行的會談中雙方已敲定，60 億美元凍結資產中的一部分，將根據伊朗自身需求用於採購物資。
+
+---
+
+### 2026-07-02 01:01:16  #MKT News
+
+U.S. Trade Representative said Trump has adjusted the USMCA under his new tariff and trade policy, but improvements remain possible through negotiation.
+
+---
+
+### 2026-07-02 01:00:58  #國際
+
+美國貿易代表辦公室將繼續就《美墨加協定》修訂事宜與國會及公眾開展磋商。
+
+---
+
+### 2026-07-02 01:00:54  #MKT News #Market Themes #The Trump Trade
+
+U.S. Trade Representative: the office will continue to consult Congress and the public on revisions to the US-Mexico-Canada Agreement (USMCA).
+
+---
+
+### 2026-07-02 01:00:37  #焦點 #國際
+
+伊朗伊斯蘭共和國通訊社（ISNA）： 伊朗副外長表示，伊美雙方將搭建溝通渠道，用於通報、磋商違反伊美諒解備忘錄的相關事宜。
+
+---
+
+### 2026-07-02 01:00:17  #國際
+
+墨西哥經濟部長：我們將於 7 月 20 日再度與美國貿易代表磋商《美墨加協定》相關事宜。
+
+---
+
+### 2026-07-02 01:00:02  #市場
+
+【夜盤期貨收盤】國際銅夜盤收漲0.10%，滬銅收漲0.07%，滬鋁收平，滬鋅收跌0.47%，滬鉛收跌0.57%，滬鎳收跌0.10%，滬錫收漲0.99%。氧化鋁夜盤收漲0.11%，鋁合金收漲0.40%。不鏽鋼夜盤收跌0.54%。
+
+---
+
+### 2026-07-02 01:00:00  #國際
+
+北約訊息人士：北約將於安卡拉峰會宣佈，歐洲盟國已補齊美國在聯盟防務計劃中留下的幾乎所有缺口。 北約防務計劃中目前的主要缺口在於戰略轟炸機。
+
+---
+
+### 2026-07-02 00:59:42  #MKT News
+
+IRNA reported Iran's deputy foreign minister said Tehran will set up communication channels to report and discuss violations of the Iran–U.S. memorandum of understanding.
+
+---
+
+### 2026-07-02 00:59:27  #MKT News
+
+Mexico's economy minister EBRARD said U.S. trade representative GREER indicated the U.S. wants to review the USMCA annually for the next 10 years. Mexico will meet GREER again on July 20 to discuss the USMCA.
+
+---
+
+### 2026-07-02 00:59:13  #國際
+
+伊朗伊斯蘭共和國通訊社（ISNA）： 伊朗副外長表示卡達會談已結束。
+
+---
+
+### 2026-07-02 00:58:27  #國際
+
+特朗普： 美國參議院共和黨領袖圖恩有權解僱參議院議事顧問，現在就該動手。
+
+---
+
+### 2026-07-02 00:58:13  #MKT News
+
+NATO sources said the alliance will announce at the Ankara summit that European allies have filled nearly all gaps left by the US in NATO's defense plans.
+
+---
+
+### 2026-07-02 00:57:46  #國際
+
+【萬斯：美伊間接會談進展順利 核問題相關討論將很快開始】當地時間7月1日，美國副總統萬斯表示，美國和伊朗當天在卡達首都多哈舉行的間接技術性會談“進展順利”，有關核問題的討論將很快開始。萬斯說，目前技術談判人員正在多哈與伊朗、卡達方面討論相關細節。萬斯表示：“我們擔心核問題，我們將開始討論這個問題，現在談判進展順利。”（央視新聞）
+
+---
+
+### 2026-07-02 00:57:19  #國際
+
+特朗普：參議院為何不解僱議會法律顧問，我實在無法理解。
+
+---
+
+### 2026-07-02 00:56:44  #國際
+
+墨西哥經濟部長：美國貿易代表格里爾稱，美方希望未來十年每年對《美墨加協定》開展複審。
+
+---
+
+### 2026-07-02 00:54:46  #MKT News
+
+U.S. Trade Representative said the United States has not agreed to extend the U.S.-Mexico-Canada Agreement (USMCA) in its current form.
+
+---
+
+### 2026-07-02 00:54:42  #MKT News #Market Themes #The Trump Trade #DXY #Impact bullish #S&P500 #Impact bearish #WTI
+
+U.S. Trade Representative said Trump's trade policies have already superseded many provisions of the US-Mexico-Canada Agreement (USMCA).
+
+---
+
+### 2026-07-02 00:54:36  #MKT News #Market Themes #The Trump Trade
+
+U.S. Trade Representative said the agreement remains in effect until these issues are resolved or the agreement is terminated.
+
+---
+
+### 2026-07-02 00:54:32  #其他
+
+LME期銅收跌76美元，報13298美元/噸。LME期鋁收跌10美元，報3076美元/噸。LME期鋅收跌52美元，報3499美元/噸。LME期鉛收跌10美元，報1866美元/噸。LME期鎳收漲68美元，報16355美元/噸。LME期錫收漲62美元，報51632美元/噸。LME期鈷收平，報56290美元/噸。
+
+---
+
+### 2026-07-02 00:54:30  #國際
+
+美國貿易代表： 特朗普的貿易政策實際上已取代《美墨加協定》多項內容。
+
+---
+
+### 2026-07-02 00:54:05  #國際
+
+美國貿易代表：美國不同意按現有版本續簽《美墨加協定》， 在相關問題解決或協定終止前，該協定持續有效。美國將繼續與墨西哥和加拿大開展磋商，以解決該協定的不足之處以及我們與這些國家的貿易逆差問題。
+
+---
+
+### 2026-07-02 00:53:14  #MKT News
+
+U.S. Trade Representative said the U.S. will continue consultations with Mexico and Canada to address shortcomings in the agreement and U.S. trade deficits with those countries.
+
+---
+
+### 2026-07-02 00:52:05  #焦點 #國際
+
+據AXIOS：美國在多哈談判中試圖勸說伊朗放棄霍爾木茲海峽“通行收費”機制。
+
+---
+
+### 2026-07-02 00:51:48  #MKT News #Important #WTI #Impact bearish #Brent
+
+Axios reports the US sought in Doha talks to persuade Iran to abandon a proposed "transit fee" for passage through the Strait of Hormuz.
+
+---
+
+### 2026-07-02 00:48:59  #央行 #其他
+
+亞特蘭大聯儲GDPNow模型對第二季度實際GDP增速的預期從2.5%下調至1.2%。
+
+---
+
+### 2026-07-02 00:48:54  #公司 #國際
+
+斯泰蘭蒂斯集團（StellantisNV）6月總銷量同比增長10%‌，公司上半年在美國售出634,187輛汽車。
+
+---
+
+### 2026-07-02 00:48:33  #MKT News #Macro & Rates #US Economy #DXY #Impact bearish #US10Y #S&P500
+
+Atlanta Fed GDPNow trimmed its estimate for second-quarter real GDP growth to 1.2% from 2.5%.
+
+---
+
+### 2026-07-02 00:48:31  #Trading Economics #Markets #Euro Area #Stock Market #Importance 0
+
+European Stocks Drop from Records — European stocks eased from records on Wednesday as a fresh pullback for chip producers offset support from an improving macroeconomic backdrop. The Euro STOXX 50 dropped 0.6% to 5, and the STOXX Europe 600 fell 0.4% to 640. ASML and Infineon fell 4.6% each, tracking the AI infrastructure sector globally amid fresh uncertainty on whether the historical rally for chip producers has been overdone. Other companies with exposure to data centers and their power declined, with Siemens, Schneider, and Siemens Energy dropping between 3.1% and 1.5%. In turn, the software side rallied on respite from US hyperscaler giants. Also, banks were mostly higher as softer-than-expected inflation in the Eurozone limited expectations of another rate hike by the ECB this year. UniCredit added 0.6% and Deutsche Bank jumped 0.4%. The bloc's inflation rate fell to 2.8%, below expectations of 3%, and the core gauged fell to 2.4%.
+
+---
+
+### 2026-07-02 00:40:56  #MKT News #Market Themes #MU.O
+
+【Micron to inject $250 mln into 'Trump account'; Trump says policies a 'big success'】U.S. President Trump posted on social media that Micron Technology (MU.O) will invest $250 mln into a 'Trump account'. Trump credited CEO Sanjay Mehrotra for the move, called it a historic — and reportedly the largest — corporate investment of its kind, and said it will directly benefit U.S. workers and families, framing the move as evidence his policies are succeeding.
+
+---
+
+### 2026-07-02 00:39:47  #國際
+
+據沙烏地阿拉伯阿拉比亞電視臺：以色列對黎巴嫩南部的納布提亞上方進行空襲。
+
+---
+
+### 2026-07-02 00:39:22  #MKT News #XAUUSD #Impact bullish #Brent #DXY
+
+Al Arabiya TV reports Israel carried out airstrikes over Nabatieh in southern Lebanon.
+
+---
+
+### 2026-07-02 00:39:07  #MKT News #XOM.N
+
+Per an SEC filing, Exxon Mobil Corp will complete a domicile change and reorganization on July 1, 2026, and begin trading on the New York Stock Exchange under ticker XOM on July 2, 2026.
+
+---
+
+### 2026-07-02 00:38:58  #公司 #觀點
+
+【摩根大通資深高管、人工智慧主管在該行任職四十年後將退休】摩根大通的一位資深高管在長達四十年的職業生涯後將離開該行。她最近負責領導該行的人工智慧戰略，並在其最高運營委員會中佔據重要席位。執行長傑米·戴蒙和營運長Jenn Piepszak的一份致員工的備忘錄，摩根大通首席資料與分析官Teresa Heitsenrether將於今年年底從公司退休。Heitsenrether此前曾負責該行主經紀和證券服務業務。
+
+---
+
+### 2026-07-02 00:38:04  #Trading Economics #Markets #Italy #Stock Market #Importance 0
+
+FTSE MIB Edges Lower — The FTSE MIB fell 0.2% to close at 51,604 on Wednesday, pressured by energy producers and continued volatility in AI-related stocks. ENI dropped 2.6% and Saipem lost 3.5% as restored oil exports from the Middle East lowered global prices. AI-related stocks weakened following their rally this week, with STMicroelectronics (-3.3%) and Prysmian (-2.2%) posting notable losses. Meanwhile, defense stocks advanced after the UK announced a reallocation of €15 billion in defense spending, boosting Leonardo (+4.4%), Fincantieri (+1.5%), and Avio (+1.1%). Banking stocks were mixed following softer-than-expected inflation data in the Eurozone, with UniCredit adding 0.5%. Also on the financial front, Unipol added 3.9% after receiving an upgrade from Intermonte. Nexi soared 6.4% on a strong session for payment infrastructure globally.
+
+---
+
+### 2026-07-02 00:37:25  #公司 #國際
+
+美國證券交易委員會檔案：埃克森美孚已於 2026 年 7 月 1 日完成公司註冊地變更和重組，埃克森美孚控股公司自 2026 年 7 月 2 日起，將以股票程式碼 XOM 在紐約證券交易所掛牌交易。
+
+---
+
+### 2026-07-02 00:37:02  #國際
+
+市場訊息：由日本三菱日聯銀行牽頭的 7 家銀行將聯手，向信實工業提供日元與美元雙幣種融資。
+
+---
+
+### 2026-07-02 00:36:44  #公司 #市場
+
+【美銀：機構客戶拋售科技股 連續第四周成為美股主要淨賣方】美銀證券策略師Jill Carey Hall在一份報告中指出，隨著客戶減持科技股，他們連續第四周成為美股的“主要淨賣方”。該行客戶上週拋售了標普500指數11個板塊中9個板塊的股票，科技和金融板塊首當其衝。Hall援引截至6月26日當週的客戶資料稱，科技板塊的四周平均淨資金流入已降至歷史最低。繼此前一週資金流出創紀錄之後，機構客戶連續第四周拋售股票。美股的四周滾動平均淨資金流入也處於歷史低點。
+
+---
+
+### 2026-07-02 00:34:12  #MKT News #Star Stocks #Apple #Market Themes #Magnificent 7 #AAPL.O
+
+Russia's antimonopoly regulator has issued a warning to Apple (AAPL.O).
+
+---
+
+### 2026-07-02 00:33:52  #公司 #國際
+
+俄羅斯反壟斷監管機構向蘋果公司發出警告。
 
 ---
 
@@ -16845,269 +17229,5 @@ South Korea's KOSPI index widened intraday losses to 3.00%, trading at 8,221.88.
 ### 2026-07-01 10:03:12  #其他 #焦點
 
 【廣州：擬提升退稅商店覆蓋率 推動各類入境消費重點場所增設退稅商店】《廣州市落實加力最佳化離境退稅政策的實施方案》公開徵求意見。其中提到，提升退稅商店覆蓋率。鼓勵更多具備條件的商店備案成為退稅商店，持續最佳化空間佈局，在11個區全覆蓋基礎上，繼續推動各類入境消費重點場所增設退稅商店，重點拓展一批境外旅客較多的重點商圈、景區、市場、口岸，以及具有鮮明本土特色的優質品牌、老字號企業、旅遊景區商店、文博場所紀念品商店、主題樂園購物商店、國際賽事體育場館周邊商店等。對每半年度開具離境退稅或“即買即退”申請單筆數達到50筆（含）以上的，分檔給予一次性獎勵。
-
----
-
-### 2026-07-01 10:03:02  #其他
-
-理想汽車：6月交付新車30,895輛。截至2026年6月30日，累計交付量達到1,733,687輛。截至6月，理想i6累計生產突破15萬輛。全新理想L6預計將於2026年7月上市。
-
----
-
-### 2026-07-01 10:03:01  #MKT News #Market Themes #China EV Leaders #LI.O #Impact bullish
-
-Li Auto delivered 30,895 vehicles in June. Cumulative deliveries reached 1,733,687 as of June 30, 2026. Cumulative production of the Li Auto i6 exceeded 150,000 units through June. The new Li Auto L6 is expected to launch in July 2026.
-
----
-
-### 2026-07-01 10:02:07  #其他
-
-【哈總統：哈薩克兩院制議會已完成使命】哈薩克議會兩院6月30日舉行最後一次聯席會議。哈總統託卡耶夫發表演講說，7月1日哈新憲法生效，兩院制議會已完成歷史使命，將由一院制議會“庫魯爾泰”取代。 據哈通社30日訊息，託卡耶夫說，哈兩院制議會在其存續的逾30年時間裡，共透過約3500部法律，在鞏固國家主權、構建國家法律基礎等方面發揮重要作用。新憲法實施後，哈薩克仍將是總統制共和國，庫魯爾泰應為建設“公正哈薩克”作出貢獻。 據報道，兩院制議會職權將於7月1日終止，8月將舉行庫魯爾泰選舉，9月初新議會將正式履職。庫魯爾泰將由145名議員組成，議員任期5年。 今年3月，哈新憲法草案獲得透過。與即將被取代的憲法相比，新憲法修改內容包括將議會由兩院制改為一院制、恢復副總統職位、設立人民理事會等。託卡耶夫表示，新憲法是“公正哈薩克”的基石，它確立了法治、秩序和公民權利。(新華社)
-
----
-
-### 2026-07-01 10:01:50  #其他
-
-【慶祝中國共產黨成立105週年大會開始 現場奏唱國歌】今天上午，慶祝中國共產黨成立105週年大會在人民大會堂隆重舉行。中共中央總書記、國家主席、中央軍委主席習近平向“七一勳章”獲得者頒授勳章並發表重要講話。10時整，慶祝中國共產黨成立105週年大會開始。《義勇軍進行曲》奏響，全場高唱中華人民共和國國歌。（央視新聞）
-
----
-
-### 2026-07-01 10:01:27  #市場
-
-截止10:01，兩市102只個股漲停。
-
----
-
-### 2026-07-01 10:01:16  #Trading Economics #Economy #Singapore #Loans to Private Sector #Importance 1
-
-Singapore Bank Lending Climbs to New Record High — Singapore’s bank loans increased to a new record high of SGD 917.7 billion in May 2026 from SGD 908.4 billion in the previous month. Loans to businesses advanced to SGD 557.8 billion from SGD 551.3 billion, driven mainly by higher lending to manufacturing (SGD 28.1 billion vs SGD 27.3 billion), building and construction (SGD 185.2 billion vs SGD 184.1 billion), transportation, storage, and communication (SGD 49.0 billion vs SGD 47.5 billion), and financial and insurance activities (SGD 148.0 billion vs SGD 142.5 billion). Moreover, consumer loans rose to SGD 360.0 billion from SGD 357.1 billion, lifted by higher housing and bridging loans (SGD 251.4 billion vs SGD 249.9 billion), credit card (SGD 17.7 billion vs SGD 17.3 billion), share financing (SGD 738.9 billion vs SGD 704.8 billion), and other personal loans (SGD 80.3 billion vs SGD 79.4 billion).
-
----
-
-### 2026-07-01 10:01:14  #市場
-
-富時中國A50指數期貨跌幅擴大至1%。
-
----
-
-### 2026-07-01 10:01:04  #MKT News #Important #Market Themes #China EV Leaders #LI.O
-
-Li Auto delivered 30,895 vehicles in June.
-
----
-
-### 2026-07-01 10:00:58  #公司 #市場
-
-【玻纖板塊震盪走弱，卓郎智慧跌停】玻纖板塊震盪走弱，卓郎智慧跌停，長海股份、山東玻纖、九鼎新材、金安國紀、中國巨石、宏和科技等跟跌。
-
----
-
-### 2026-07-01 10:00:33  #其他
-
-【上交所多維規範機構債券交易申報 要求機構9月底前完成業務和技術準備】從業內獲悉，上交所從投資者教育、適當性管理、交易介面最佳化、異常行為監測等多個維度，推動機構壓實債券交易申報環節的主體責任。上交所還要求機構健全債券交易監測監控機制，建立健全債券交易的監控指標體系。對於利率類債券申報價格偏離當前標的債券估值2%以上的、信用類債券（不含特定債券）申報價格偏離當前標的債券估值5%以上的，各機構應當採取有效措施做好風險提示，揭示債券估值及當前交易申報價格與估值的偏離度，並要求客戶對交易指令再次確認。（證券日報）
-
----
-
-### 2026-07-01 10:00:28  #其他
-
-理想汽車：2026年6月交付30,895輛汽車。
-
----
-
-### 2026-07-01 10:00:08  #市場
-
-新加坡市區重建局速報預估，新加坡第二季私人住宅價格較前季上漲0.5%。
-
----
-
-### 2026-07-01 09:59:55  #其他
-
-【求之科技完成超1億美元首輪融資】7月1日，據聯想創投訊息，近日，求之科技（DISCOVER Robotics）宣佈完成超1億美元首輪融資，創下消費級具身機器人賽道單筆天使輪融資最高紀錄。本輪融資由君聯資本、信產投資、聯想創投、澐柏資本、普華資本、臨港科創投、琥珀資本、庚辛資本等多家頭部機構聯合參投。
-
----
-
-### 2026-07-01 09:59:04  #國際
-
-日本SINKO INDUSTRIES將於8月3日起上調部分產品價格。
-
----
-
-### 2026-07-01 09:58:42  #MKT News
-
-A-share computing-power leasing names were active again; Feilixin hit a 20% limit-up, while Xuanji Information, Zhongfutong, Zhongchuang Environmental, Huafu Fashion and Maixinlin also advanced.
-
----
-
-### 2026-07-01 09:58:12  #市場
-
-【算力租賃概念反覆活躍 飛利信20cm漲停】算力租賃概念反覆活躍，飛利信20cm漲停，旋極資訊、中富通、中創環保、華孚時尚、邁信林等跟漲。
-
----
-
-### 2026-07-01 09:57:48  #MKT News #Important #600276.SS #Impact bearish #CSI300 #SSE Composite
-
-A-share CRO sector extended losses; WuXi AppTec fell more than 6%, Meidixi dropped over 5%, with Hengrui Medicine, Chengdu Xiandao and Kailaiying also declining.
-
----
-
-### 2026-07-01 09:57:39  #MKT News
-
-【China's national railway summer transport season starts today, ends Aug 31】China's 62-day national railway summer transport season began today (1st) and runs through Aug. 31. Railways expect to carry about 1.01 bln passenger trips, averaging 16.29 mln per day.
-
----
-
-### 2026-07-01 09:57:00  #公司
-
-【鋒龍股份：在電控和機械方面具備製造能力和工藝積累 可向優必選供應機電元件】鋒龍股份(002931)6月30日接受機構調研時表示，公司在電控和機械兩個維度均具備紮實的製造能力和工藝積累。“電控+機械”的雙輪驅動能力，構成了公司向優必選供應機電元件的堅實基礎。本次向優必選開展機電元件關聯交易，是前期論證成果的落地兌現，業務能力具備紮實、可落地的現實支撐。
-
----
-
-### 2026-07-01 09:56:57  #MKT News #Market Regions #Japan & APAC #USDJPY #Impact bearish #Nikkei 225 #Impact mixed
-
-【Capital Economics: Bank of Japan tankan bolsters case for faster rate hikes】Capital Economics Asia‑Pacific head Marcel Thieliant said the Bank of Japan's tankan survey strengthens the case for faster rate hikes. The large manufacturers' sentiment index jumped to +22, its highest since the global financial crisis; large non‑manufacturers' Q1 sentiment is at its strongest since the early 1990s, nudging from +36 to +37. Five‑year inflation expectations rose from 2.5% to 2.6%, supporting Bank of Japan board members who have warned of upside inflation risks.
-
----
-
-### 2026-07-01 09:55:12  #Trading Economics #Economy #Australia #Private House Approvals #Importance 1
-
-Australia Private House Approvals Hit 8-Month High — Private house approvals in Australia rose by 2.8% month-over-month to 10,537 units in May 2026, according to preliminary estimates, rebounding from a revised 0.4% decline in the previous month. The latest reading marked the highest since September 2025, driven by higher approvals in Western Australia (9.9%), New South Wales (7.8%), and Victoria (2.2%), which offset declines in Queensland (-3.6%) and South Australia (-1.0%). On an annual basis, private house approvals rose by 13.2% in May, the strongest growth since September 2024, and accelerating from an upwardly revised 8.3% increase in the preceding period.
-
----
-
-### 2026-07-01 09:55:02  #公司
-
-【網易釋出CC直播停運公告】今天，網易正式釋出《CC直播停運公告》，宣佈CC直播將於2026年8月31日終止運營，並於即日起關閉全平臺下載入口，同時停止產品充值、新使用者註冊及新主播/新公會入駐。
-
----
-
-### 2026-07-01 09:55:02  #MKT News #Commodities #Energy #WTI #Impact bearish #Brent
-
-China crude futures 2608 fell 2.01% intraday to 452.8 yuan/barrel. Turnover about 21.66 bln yuan; open interest rose nearly 1,300 lots, with intraday volatility widening.
-
----
-
-### 2026-07-01 09:55:00  #MKT News
-
-CNN projects Colorado Attorney General Phil Weiser has won the Democratic primary for governor, defeating U.S. Senator Michael Bennet.
-
----
-
-### 2026-07-01 09:54:20  #市場 #焦點
-
-滬深兩市成交額超1萬億元，較上日此時放量118億元。
-
----
-
-### 2026-07-01 09:53:52  #市場 #焦點
-
-甲醇連續主力合約日內跌2%，現報2384.00元。
-
----
-
-### 2026-07-01 09:53:46  #MKT News
-
-【Head of China's National Energy Administration attends 11th BRICS energy ministers' meeting】June 25 — The 11th BRICS energy ministers' meeting convened in Gurgaon, India. China’s National Energy Administration head attended and said China is accelerating construction of a clean, low‑carbon, safe and efficient new energy system, has established the world’s largest clean energy system and accumulated significant experience for the global energy transition. China will assume the BRICS chair in 2027 and intends to advocate genuine multilateralism, uphold consultation-and-sharing principles, respect member states' wishes, and work with BRICS partners to pragmatically advance high‑quality BRICS energy cooperation.
-
----
-
-### 2026-07-01 09:53:37  #MKT News #Important #Star Stocks #Tesla #Market Themes #Magnificent 7 #TSLA.O
-
-Tesla says the first production Cybercab autonomous electric vehicle has begun engineering testing in Austin, Texas, U.S.
-
----
-
-### 2026-07-01 09:53:36  #MKT News #Market Regions #Greater China #CSI300 #Impact bullish #SZSE Component
-
-China A-share robotics sector extended gains: Tuosida hit the daily upper limit, Estun recorded a second consecutive limit-up and Shenhao Technology also hit the limit. Xinbang Intelligent, Yijiahe, Efort, Sanfeng Intelligent and Juneng Co. advanced.
-
----
-
-### 2026-07-01 09:52:54  #公司 #市場
-
-【燃氣輪機概念震盪反彈 萬澤股份漲停】早盤燃氣輪機概念震盪反彈，萬澤股份漲停，應流股份、傑瑞股份、上大股份、崇德科技、飛沃科技等跟漲。
-
----
-
-### 2026-07-01 09:52:49  #Trading Economics #Markets #United States #Currency #Importance 1
-
-Dollar Edges Higher as Jobs Report Looms — The dollar index rose to around 101.3 on Wednesday, recouping losses from earlier in the week as investors looked ahead to the latest US monthly jobs report for fresh insights into the strength of the labor market and the outlook for Federal Reserve policy. The greenback also drew support from higher Treasury yields, with the benchmark 10-year yield climbing about 10 basis points in the previous session. Data released on Tuesday showed US job openings rose to a two-year high in May, indicating labor demand remained resilient despite signs of softer hiring. Markets are now pricing in at least one Fed rate hike this year, with the first potentially coming as early as September. Meanwhile, investors continued to monitor the ongoing US-Iran peace talks in Qatar amid hopes for a lasting ceasefire agreement, although the two sides were not expected to hold direct talks.
-
----
-
-### 2026-07-01 09:52:37  #公司 #市場
-
-機器人板塊持續走高，拓斯達20CM漲停，埃斯頓2連板，申昊科技漲停，信邦智慧、億嘉和、埃夫特、三豐智慧、巨能股份跟漲。
-
----
-
-### 2026-07-01 09:52:31  #Trading Economics #Economy #China #Manufacturing PMI #Importance 2
-
-China Factory Activity Hits 3-Month Low — The RatingDog China Manufacturing PMI inched down to a three-month low of 51.7 in June 2026 from 51.8 in May, but above forecasts of 51.6. It also remained above the long-run survey trend of 50.8 since 2004, and caps off the strongest quarter since late 2020. Output grew solidly, while new orders rose for the thirteenth straight month, matching the joint-longest expansion sequence since 2018. However, foreign sales fell for the second straight month. Meanwhile, employment climbed for the first time in three months, with job creation reaching its strongest level since August 2023. Delivery times lengthened only marginally, marking the weakest deterioration in the current four-month sequence. On prices, input price inflation eased from April's four-year high to its weakest level since January. Meanwhile, output price inflation edged up, extending its increase to a sixth consecutive month, the longest such sequence since 2021. Finally, sentiment weakened to a five-month low.
-
----
-
-### 2026-07-01 09:52:27  #國際
-
-【國家能源局負責人出席第十一屆金磚國家能源部長會】6月25日，第十一屆金磚國家能源部長會在印度古爾岡市召開。中國國家能源局負責人應邀出席會議併發言。 萬勁松表示，當前全球能源轉型深入推進，中國持續加快推進清潔低碳、安全高效的新型能源體系建設，已建成全球規模最大的清潔能源體系，為全球能源轉型積累了重要經驗。2027年中國將接任金磚主席國，將繼續倡導踐行真正的多邊主義，秉持共商共建共享理念和協商一致原則，充分尊重各方意願、匯聚各方智慧，與金磚國家團結協作，務實推動金磚國家能源合作高質量發展。 會議期間，各方透過《第十一屆金磚國家能源部長會議聯合公報》等成果檔案。
-
----
-
-### 2026-07-01 09:51:43  #MKT News #Market Regions #Greater China #CNH #Impact bullish #Copper #Hang Seng Index #Impact mixed
-
-【RatingDog: China manufacturing PMI 51.7 in June, seventh straight month of expansion】RatingDog said June manufacturing PMI was 51.7. Production and demand remained expansionary; output continued to rise but at a slower pace than in May. Total new orders stayed in expansion with marginally faster growth, while new export orders fell further versus May and remained in contraction. Easing input-cost pressure has modestly improved corporate margins, but external demand weakness and a decline in firms’ forward expectations were evident. Monitor the trajectory of external demand recovery and the durability of raw-material cost relief.
-
----
-
-### 2026-07-01 09:51:07  #公司 #市場
-
-儲存晶片板塊再度拉昇，太極實業、時空科技雙雙漲停，股價均續創歷史新高，亞威股份此前封板，普冉股份漲超10%，夏農芯創、長電科技跟漲。
-
----
-
-### 2026-07-01 09:50:21  #其他
-
-創新藥板塊持續下挫，歐林生物跌超9%，萬邦醫藥、海思科、華特達因、凱萊英跟跌。
-
----
-
-### 2026-07-01 09:50:01  #市場 #國際
-
-美國股指期貨下跌，標普500指數期貨下跌0.2%。
-
----
-
-### 2026-07-01 09:49:43  #公司 #市場
-
-【半導體板塊繼續走強 敏芯股份漲超18%】半導體板塊繼續走強，敏芯股份漲超18%，格科微、中穎電子、普冉股份等股紛紛上漲。
-
----
-
-### 2026-07-01 09:49:39  #MKT News #Important #Market Themes #China EV Leaders #300750.SZ #Impact bearish #300014.SZ #CSI300
-
-China A-share battery sector weakened; Penghui Energy fell over 8%, CATL was down more than 5%, EVE Energy slipped over 4%, with Wanrun New Energy and Hunan Yuneng also lower.
-
----
-
-### 2026-07-01 09:49:17  #資料
-
-RatingDog：6月RatingDog中國製造業PMI微降至51.7，擴張態勢收縮。
-
----
-
-### 2026-07-01 09:49:09  #MKT News #Important #Market Regions #Greater China #CSI300 #Impact bullish #Hang Seng Index #Copper
-
-June RatingDog China Manufacturing PMI edged down to 51.7, expansion narrowed.
-
----
-
-### 2026-07-01 09:48:46  #公司
-
-【長三角鐵路今年上半年客髮量創新高，暑運預計傳送1.9億人次】從中國鐵路上海局集團有限公司獲悉，暑運期間，長三角鐵路預計將傳送旅客1.9億人次，日均傳送旅客超300萬人次以上，達306.5萬人次，同比增幅超3%。（澎湃）
-
----
-
-### 2026-07-01 09:48:44  #MKT News #Market Regions #Greater China
-
-【Yangtze River Delta rail passenger traffic sets 1H record; summer travel to carry 190 mln】China Railway Shanghai Group says the Yangtze River Delta is expected to carry 190 million passengers during the summer travel period, with average daily passengers above 3.0 million at 3.065 million, up over 3% YoY.
 
 ---

@@ -1,7 +1,325 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-07-02 00:34:04_
-_本檔包含 2986 則快訊，約 534391 字_
+_更新時間：2026-07-02 01:22:03_
+_本檔包含 2951 則快訊，約 534394 字_
+
+---
+
+### 2026-06-25 20:52:15  #公司 #國際
+
+【墨西哥延長對部分美國鋼管進口的關稅】根據官方公報釋出的一項決議，墨西哥將對從美國進口的縱向焊接碳鋼管的反傾銷稅延長五年。關稅根據出口公司不同，範圍從6.77%至25.43%不等。延長措施自2025年5月28日起追溯生效。
+
+---
+
+### 2026-06-25 20:52:00  #國際
+
+歐盟在 Mythos 模型訪問許可權遭切斷後，已就 Anthropic 相關事宜與白宮展開磋商。
+
+---
+
+### 2026-06-25 20:52:00  #MKT News #Important #Star Stocks #Tesla #Market Themes #Magnificent 7 #TSLA.O #Impact mixed
+
+Tesla (TSLA.O): The 20% production growth target for the Berlin Gigafactory announced in April is under revision again.
+
+---
+
+### 2026-06-25 20:51:33  #其他
+
+【農業農村部：著力抓好鄉村產業振興 提升鄉村建設水平】農業農村部黨組6月25日召開會議，會議強調，要全力以赴抓好糧食生產，指導抓好夏糧收穫掃尾，壓茬推進夏播夏管，緊盯大面積單產提升這條主線，落實秋糧生產關鍵技術措施，加強農業氣象災害防範和重大病蟲害防控，協調做好農資保供穩價，全力奪取全年糧食豐收，確保糧食等重要農產品穩定供給。要著力提升農業綜合生產能力和質量效益，堅持產量產能、生產生態、增產增收一起抓，統籌發展科技農業、綠色農業、質量農業、品牌農業，高質量推進高標準農田建設，大力推廣高效節水農業，合理調優農業結構，持續落實大農業觀、大食物觀，推動品種培優、品質提升、品牌打造和標準化生產，把農業建成現代化大產業。要強化“千萬工程”經驗指引，因地制宜推進宜居宜業和美鄉村建設，著力抓好鄉村產業振興，指導各地紮實做好“土特產”文章，培育壯大鄉村富民產業，完善聯農帶農機制，圍繞基礎設施完備度、公共服務便利度、人居環境舒適度，提升鄉村建設水平，加快補齊農村現代生活條件短板，健全黨組織領導的自治、法治、德治相結合的鄉村治理體系，深入推進農村移風易俗，煥發鄉村文明新氣象。
+
+---
+
+### 2026-06-25 20:51:21  #MKT News #Star Stocks #Apple #Market Themes #AI Revolution #Magnificent 7 #AAPL.O #Impact mixed #MU.O #Impact bullish
+
+【Memory costs surge, Apple raises MacBook and iPad prices; iPhone unaffected】Apple said on Thursday it has raised iPad and MacBook prices after it could no longer absorb soaring memory and storage chip costs driven by AI data-center buildouts. The company said the changes do not affect the iPhone, its primary profit driver. The move highlights that even the world’s largest consumer-electronics firm is exposed to the memory-price squeeze that has dimmed smartphone and PC demand outlooks. Memory makers such as Micron have prioritized orders from AI chipmakers including NVIDIA, boosting those firms’ profits but creating component shortages for electronics OEMs and forcing price pass-throughs.
+
+---
+
+### 2026-06-25 20:51:04  #其他
+
+特斯拉就柏林工廠表態：計劃增產的同時，還將再招聘1000名員工。
+
+---
+
+### 2026-06-25 20:51:02  #其他
+
+蘋果將 Vision Pro 頭顯的價格從 3499 美元上調至 3699 美元。
+
+---
+
+### 2026-06-25 20:50:46  #其他
+
+【人工智慧教育啟動首屆招生】“人工智慧教育”是教育部去年新增設的本科專業。今年，全國多所高校全新開設這一專業，並啟動首屆招生。北京師範大學、首都師範大學、東北師範大學、青島大學、華南師範大學等多所高校新增“人工智慧教育”本科專業，並將其納入招生計劃。該專業聚焦教育與人工智慧的交叉融合，培養兼具AI素養與教育實踐能力的複合型人才。 在北京師範大學，人工智慧教育專業以“智慧教育卓越人才實驗班”的形式啟動首屆招生，實驗班採用“3+1+X”培養模式。首都師範大學的人工智慧教育專業計劃招收20名本科生，高考選科要求為物理+化學，將和其他高校、科技企業、中小學實驗室開展聯合培養。青島大學的人工智慧教育專業計劃招生30人，學科定位為教育學+人工智慧+資料科學的交叉學科，高考選科要求必選物理。東北師範大學該專業按照計算機類大類招生，選科要求為物理+化學，大二可分流至人工智慧教育專業。華南師範大學該專業計劃招收40人，高考選科要求必選物理。 （央視財經）
+
+---
+
+### 2026-06-25 20:50:34  #其他
+
+特斯拉關於柏林超級工廠的表態：自2026年10月起，該廠周產量將逐步提升至7500輛，產量將在此基礎上再增長20%。
+
+---
+
+### 2026-06-25 20:50:20  #MKT News #Market Regions #Europe & UK
+
+Romania's foreign ministry said it expelled Russia's consul general in Constanta after a drone crash, and called Russia's subsequent expulsion of Romanian diplomats "predictable".
+
+---
+
+### 2026-06-25 20:49:43  #其他
+
+特斯拉就柏林超級工廠事宜表示：四月份宣佈的產能提升20%計劃如今將再次調整。
+
+---
+
+### 2026-06-25 20:49:13  #MKT News #Important #DXY #Impact bullish #S&P500 #Impact bearish
+
+Mexico will extend anti-dumping duties on U.S. carbon-steel pipe imports for five years, the Official Gazette said.
+
+---
+
+### 2026-06-25 20:49:05  #國際
+
+羅馬尼亞外交部表示，在羅馬尼亞因無人機墜毀事件驅逐俄羅斯駐康斯坦察總領事之後，俄羅斯的驅逐行動“在預料之中”。
+
+---
+
+### 2026-06-25 20:48:59  #資料 #國際
+
+【美國通脹升至三年高點 消費支出增長加快】美國5月消費者支出增長加快，儘管通脹升至三年多來最高水平，顯示美國消費者正挺過伊朗戰爭帶來的衝擊。美國經濟分析局週四公佈的資料顯示，美國5月個人消費支出(PCE)價格指數同比上升4.1%，創2023年4月以來最大升幅。剔除食物和能源價格後，核心PCE價格指數同比上升3.4%。經通脹調整後的消費者支出較前月增長0.3%。另一份報告顯示，美國經濟第一季度摺合年率增長2.1%，增速高於此前公佈的初值。
+
+---
+
+### 2026-06-25 20:48:57  #Trading Economics #Markets #United States #Stock Market #Importance 2
+
+US Futures Hold Gains after PCE Report — US equity futures gained on Thursday after the earnings report by Micron Technology restored support for the artificial intelligence trade. Contracts for the Nasdaq 100 gained over 2% and those for the S&P 500 added 1%. Micron surged 17% premarket after beating earnings and sales expectations and estimating approximately a revenue of $50 billion in the quarter to August, above the expectations of $43.2 billion. Stability for the AI infrastructure sector was also supported by Micron unveiling 16 longer-term contracts. Also, Qualcomm jumped 15% after the chipmaker doubled its projection for non-handset revenue in the next thee years and announced a partnership with Meta. Softer inflationary risks also supported broader sectors as energy prices also continued fall and PCE price indices refrained from overshooting expectations, lifting the Dow to a record high of over 52,000. Banking shares gained as lenders will raise their dividends after passing the Federal Reserve's stress test.
+
+---
+
+### 2026-06-25 20:48:21  #Trading Economics #Economy #United States #Real Personal Spending MoM #Importance 1
+
+Real US Personal Spending Rebounds in May — Inflation-adjusted US personal spending rose 0.3% month-over-month in May 2026, after a revised flat reading in April. Spending on goods rebounded 0.5%, following a 0.4% fall in April, with motor vehicles and parts rising 0.9% (vs -3.8% in April) and clothing and footwear increasing 0.4% (vs -0.4%). Recreational goods and vehicles also saw a rebound (0.8% vs -0.3%). Meanwhile, spending on services rose 0.2%, the same as in the previous month.
+
+---
+
+### 2026-06-25 20:48:06  #公司 #市場
+
+【蘋果因記憶體短缺大幅漲價，Mac及iPad多款產品調價幅度達20%】蘋果公司6月25日宣佈上調Mac、iPad及家居裝置價格，以應對AI資料中心擴張引發的記憶體晶片及儲存器空前短缺所帶來的成本壓力。具體漲價幅度：MacBook Neo起售價從599美元升至699美元，MacBook Air從1099美元升至1299美元，14英寸入門款MacBook Pro從1699美元升至1999美元，11英寸iPad Pro從999美元升至1199美元，iPad Air從599美元升至749美元。上述調價為全球性漲價，iPhone價格暫未調整。蘋果發言人表示，“AI資料中心的快速擴張造成記憶體和儲存器需求的超常規激增”，公司“從未見過零部件價格漲得如此之快、如此之多”，並表示此前已盡力為消費者吸收成本上漲壓力，“但現在已到了不得不開始提價的時刻”。
+
+---
+
+### 2026-06-25 20:47:43  #MKT News
+
+U.S. ambassador to NATO said he recently held talks with Turkey on jet-engine sales.
+
+---
+
+### 2026-06-25 20:47:40  #國際
+
+歐盟計劃在碳改革中引入動態市場穩定儲備。
+
+---
+
+### 2026-06-25 20:47:33  #國際
+
+歐盟將在改革中把國內碳清除納入排放交易體系。
+
+---
+
+### 2026-06-25 20:47:26  #國際
+
+歐盟希望將免費二氧化碳排放許可與清潔投資掛鉤，以推動改革。
+
+---
+
+### 2026-06-25 20:47:15  #國際
+
+美國駐北約大使：最近與土耳其方面談過噴氣發動機銷售事宜。
+
+---
+
+### 2026-06-25 20:46:57  #央行 #其他
+
+智利央行購入2500萬美元。
+
+---
+
+### 2026-06-25 20:46:40  #MKT News #Important #Commodities #Precious Metals
+
+Spot silver up 1.00% intraday at $58.05/oz.
+
+---
+
+### 2026-06-25 20:46:34  #市場 #焦點
+
+現貨白銀突破58美元/盎司，日內漲1.08%。
+
+---
+
+### 2026-06-25 20:46:34  #市場
+
+現貨白銀日內漲1%，現報58.03美元/盎司。
+
+---
+
+### 2026-06-25 20:45:38  #MKT News #Star Stocks #Apple #Market Themes #Magnificent 7 #AAPL.O #Impact bearish
+
+Apple (AAPL.O) shares fell 0.7% in premarket trading after the company raised prices on iPad and Mac to offset a storage-chip shortage.
+
+---
+
+### 2026-06-25 20:43:58  #Trading Economics #Economy #United States #Core PCE Price Index Annual Change #Importance 1
+
+US Annual Core PCE Inflation Rises the Most Since October 2023 — The core PCE price index in the US, which is the Federal Reserve's preferred gauge of underlying inflation in the US economy, rose by 3.4% year-on-year in May 2026, the most since October 2023 and well above the Federal Reserve's 2% target. Figures aligned with analysts' estimates.
+
+---
+
+### 2026-06-25 20:43:40  #MKT News #Important #Market Regions #Europe & UK
+
+Russia's foreign ministry said it has expelled Romania's consul-general and ordered the closure of Romania's consulate in St. Petersburg.
+
+---
+
+### 2026-06-25 20:43:19  #宏觀 #國際
+
+【李強同孟加拉國總理塔裡克會談】6月25日下午，國務院總理李強在北京人民大會堂同來華進行正式訪問的孟加拉國總理塔裡克舉行會談。李強表示，中國和孟加拉國是相知相親的傳統友鄰。習近平主席將同總理先生舉行會晤，就進一步深化中孟關係作出新的戰略規劃。中方堅定支援孟方走符合本國國情的發展道路，支援孟加拉國新一屆政府順利施政。面對當前複雜變化的國際環境，中方願同孟方一道堅持睦鄰友好，鞏固戰略互信，拓展務實合作，推動中孟關係不斷取得新的更大發展，更好造福兩國人民。（新華社）
+
+---
+
+### 2026-06-25 20:43:03  #市場 #焦點
+
+蘋果股價盤前下跌0.7%，此前iPad和Mac產品全線提價。
+
+---
+
+### 2026-06-25 20:42:55  #國際
+
+俄羅斯外交部：俄羅斯驅逐羅馬尼亞總領事，並關閉羅馬尼亞駐聖彼得堡總領事館。
+
+---
+
+### 2026-06-25 20:42:55  #MKT News #Important #Macro & Rates #US Economy #The Fed (FOMC) #DXY #Impact bullish #US10Y #WTI
+
+【US May PCE y/y breaks above 4% as consumer spending remains strong】US May PCE price index y/y rose to 4.1%, the largest gain since April 2023 and the first reading above 4.0% in three years, the US Commerce Department said. Higher energy following recent US-led military action against Iran lifted oil and gasoline prices; a fragile ceasefire has since eased oil and gasoline but economists expect inflation to remain elevated for a period. Consumers had already been contending with price increases from Trump-era import tariffs. The Fed last week held the policy rate at 3.50%-3.75% but updated projections show officials expect rate hikes this year amid rising inflation concerns; markets price the first hike as early as September, with another likely thereafter.
+
+---
+
+### 2026-06-25 20:42:47  #央行 #資料 #市場 #焦點 #國際
+
+【美國5月PCE年率突破4%關口 消費者支出強勁】受中東衝突推高能源價格影響，美國5月通脹進一步上行，PCE年率三年來首次突破4%關口，這可能使美聯儲更接近在今年加息。美國商務部週四公佈資料顯示，美國5月PCE物價指數年率錄得4.1%，為2023年4月以來最大漲幅，也是該資料首次高於4.0%。美國主導的對伊戰爭推高了油價，進而推升汽油價格。儘管近幾周隨著脆弱的停火協議達成，原油和汽油價格有所回落，但經濟學家預計通脹將在一定時期內保持高位。而在此次衝突之前，消費者已在應對特朗普大規模進口關稅所引發的物價上漲。美聯儲上週將利率維持在3.50%-3.75%區間不變，但更新的季度預測顯示，政策制定者因對通脹的擔憂加劇，預計今年將加息。金融市場押注最早可能在9月加息，此後可能還有一次加息。
+
+---
+
+### 2026-06-25 20:41:52  #Trading Economics #Economy #United States #Core PCE Price Index MoM #Importance 3
+
+US Core PCE Prices Rise 0.3% in May as Expected — The core PCE price index in the US, which is the Federal Reserve's preferred gauge of underlying inflation in the US economy, rose by 0.3% from the previous month in May 2026, the same as in April and in line with market forecasts. From the previous year, the core PCE price index rose by an expected 3.4%, the highest since October 2023 and well above the Federal Reserve's 2% target.
+
+---
+
+### 2026-06-25 20:41:52  #MKT News #Star Stocks #Apple #Market Themes #Magnificent 7
+
+Apple (AAPL.O) said it will spare no effort to find solutions to address the current situation.
+
+---
+
+### 2026-06-25 20:41:46  #市場 #國際
+
+美國資料公佈後，墨西哥比索短暫收復失地，南非蘭特觸及盤中高點。
+
+---
+
+### 2026-06-25 20:41:45  #MKT News #Star Stocks #Apple #Market Themes #Magnificent 7 #AAPL.O #Impact bearish
+
+Apple (AAPL.O) said it has never seen component prices rise so quickly.
+
+---
+
+### 2026-06-25 20:41:33  #MKT News #Important #Market Themes #AI Revolution #Magnificent 7 #Star Stocks #Apple #MU.O #Impact bullish #NVDA.O
+
+Apple (AAPL.O): Rapid expansion of AI data centers has driven a sharp increase in memory demand.
+
+---
+
+### 2026-06-25 20:41:17  #MKT News #Star Stocks #Apple #Market Themes #Magnificent 7 #AAPL.O
+
+Apple (AAPL.O): electronics industry faces unprecedented challenges.
+
+---
+
+### 2026-06-25 20:41:05  #MKT News #Important #Star Stocks #Apple #Market Themes #Magnificent 7 #AAPL.O #Impact mixed
+
+【Apple raises prices on multiple Mac and iPad models】Apple raised list prices: MacBook Neo from $599 to $699; iPad Pro from $999 to $1,199; iPad Air to $749; MacBook Air to $1,299; MacBook Pro to $1,999.
+
+---
+
+### 2026-06-25 20:40:25  #Trading Economics #Economy #Canada #Wage Growth #Importance 1
+
+Canada Weekly Earnings Growth Accelerates — Average weekly earnings of Canadian non-farm payroll employees rose 3.8% year-on-year to C$1,346 in April 2026, accelerating from a 3.5% increase in March and marking the fastest increase since April 2025. The strongest gains were recorded in utilities (11.2%), information and cultural industries (10.1%), finance and insurance (8.2%), retail trade (7.2%), and professional, scientific and technical services (6.7%). In contrast, earnings declined in real estate and rental and leasing (-3.9%). By province, the largest increases were seen in Nunavut (8.1%), New Brunswick (6.7%), Manitoba (6.2%), and Nova Scotia (5.9%). On a month-over-month basis, average weekly earnings rose 1.0%. Meanwhile, average weekly hours worked were little changed at 33.5 hours, both from the previous month and a year earlier.
+
+---
+
+### 2026-06-25 20:40:18  #MKT News #Important
+
+Apple (AAPL.O) is raising prices on Mac and iPad models to offset a memory shortage.
+
+---
+
+### 2026-06-25 20:40:17  #公司
+
+【百度智慧雲：百度千帆Coding Plan套餐停止續費】百度智慧雲釋出公告，因產品策略調整，自2026年6月25日起，Coding Plan所有套餐將停止續費服務。已購買Coding Plan套餐，可繼續正常使用至當前服務週期結束，不受本次調整影響。套餐到期後，將不再支援續費或自動續費，相關服務權益也將隨套餐到期而結束。
+
+---
+
+### 2026-06-25 20:40:03  #公司 #市場
+
+蘋果公司宣告稱，人工智慧資料中心熱潮引發了對記憶體和儲存的空前需求，迫使價格上漲。
+
+---
+
+### 2026-06-25 20:40:00  #其他
+
+蘋果MacBook Neo起售價將從599美元上調至699美元。
+
+---
+
+### 2026-06-25 20:39:56  #其他
+
+蘋果：儲存容量為512GB的蘋果MacBook Air售價將從1099美元上調至1299美元。
+
+---
+
+### 2026-06-25 20:39:56  #MKT News #Macro & Rates #US Economy #DXY #Impact bullish #US10Y #EURUSD #Impact bearish
+
+TIMIRAOS: May US core PCE MoM 0.32%, slightly below expectations but still the fourth-highest monthly reading in the past 12 months (annualized 3.9%). Core PCE YoY 3.4%, highest since Oct 2023; six-month annualized rate above 4%.
+
+---
+
+### 2026-06-25 20:39:48  #其他
+
+蘋果11英寸iPad Pro無線區域網機型256GB版本售價將從999美元上調至1199美元。
+
+---
+
+### 2026-06-25 20:39:46  #其他
+
+蘋果128GB版iPad Air售價將從599美元上調至749美元。
+
+---
+
+### 2026-06-25 20:39:40  #公司
+
+蘋果公司提高MAC、IPAD和家用電器的價格以應對記憶體短缺問題。
+
+---
+
+### 2026-06-25 20:39:20  #國際
+
+菲律賓養老金改革諮詢委員會（CARF）表示：若不進一步採取措施，要實現2027財年目標將存在46萬億比索的資金缺口，規模高於政府此前的預測。
+
+---
+
+### 2026-06-25 20:39:10  #Trading Economics #Economy #United States #Personal Spending #Importance 3
+
+US Consumer Spending Rises More than Expected — US personal spending rose by 0.7% month-on-month in May 2026, or $156.1 billion, accelerating from a downwardly revised 0.4% increase in April and beating market expectations of a 0.6% gain. Spending on goods rose by $61.8 billion. Spending on services climbed by $94.3 billion. Meanwhile, inflation-adjusted consumer spending increased 0.3% in May, after a flat reading in April.
 
 ---
 
@@ -17480,533 +17798,5 @@ Spot silver fell to $58/oz, the lowest since December last year, down 5.75% intr
 ### 2026-06-25 01:22:11  #國際
 
 美國一名聯邦法官裁定禁止特朗普推行選民投票需提供公民身份證明的規定。
-
----
-
-### 2026-06-25 01:22:02  #MKT News #Market Regions #Wall Street (US) #Nasdaq100 #Impact bearish
-
-Nasdaq turned negative, now down 0.25%.
-
----
-
-### 2026-06-25 01:21:20  #市場 #焦點
-
-納斯達克指數轉跌，最新下跌0.24%。
-
----
-
-### 2026-06-25 01:21:11  #公司 #國際
-
-諾和諾德美國區總裁：公司正尋求小型配套併購，擴充產品管線。
-
----
-
-### 2026-06-25 01:20:44  #國際
-
-美國國務卿魯比奧：黎巴嫩武裝部隊需從真主黨手中接管相關領土。
-
----
-
-### 2026-06-25 01:20:07  #MKT News #Important
-
-BOC to release monetary policy meeting minutes in ten minutes.
-
----
-
-### 2026-06-25 01:19:42  #市場 #焦點
-
-標普500指數轉跌。
-
----
-
-### 2026-06-25 01:19:31  #Trading Economics #Markets #United States #stocks #Importance 1
-
-Meta Stock Price Hits 12-week Low — Meta shares decreased to 556.87 USD, the lowest since March 2026. Over the past 4 weeks, Meta Platforms, Inc. lost 8.84%, and in the last 12 months, it decreased 21.23%.
-
----
-
-### 2026-06-25 01:19:03  #國際
-
-諾和諾德美國區總裁：尚不確定聯邦醫保是否會立刻加大該處方藥（GLP‑1）報銷支援力度。
-
----
-
-### 2026-06-25 01:18:20  #市場
-
-納斯達克100指數跌幅擴大至盤中低點0.5%。
-
----
-
-### 2026-06-25 01:17:45  #MKT News #Market Regions #Europe & UK #EURUSD #Impact bearish #DXY #Impact bullish #Brent
-
-U.S. Energy Secretary Wright said EU rules will make imports of U.S. liquefied natural gas (LNG) virtually impossible.
-
----
-
-### 2026-06-25 01:17:26  #市場
-
-鈀金期貨日內跌6%，現報1167.50美元/盎司。
-
----
-
-### 2026-06-25 01:17:15  #公司
-
-亞馬遜旗下Zoox重新設計無人駕駛計程車，以適配大規模量產。
-
----
-
-### 2026-06-25 01:17:07  #MKT News #Macro & Rates #The Fed (FOMC)
-
-The Federal Reserve accepted $4.534 bln from seven counterparties in a fixed-rate reverse repurchase operation.
-
----
-
-### 2026-06-25 01:17:02  #央行 #國際
-
-週三（6月24日），美聯儲隔夜逆回購協議（RRP）使用規模為45.34億美元（交易對手7家），上個交易日報64.84億美元。
-
----
-
-### 2026-06-25 01:16:56  #其他
-
-空客被要求對部分存在機翼裂紋問題的A380客機進行檢查。
-
----
-
-### 2026-06-25 01:16:44  #其他
-
-市場資訊：紐約結婚許可及其他線索顯示泰勒·斯威夫特將於7月3日舉行婚禮。
-
----
-
-### 2026-06-25 01:16:22  #國際
-
-諾和諾德美國區總裁：聯邦醫保患者中，選擇口服 GLP‑1 片劑的人數是注射劑的兩倍。
-
----
-
-### 2026-06-25 01:15:45  #其他
-
-EVO與Visa宣佈建立多年合作伙伴關係，共同助力全球遊戲社群。
-
----
-
-### 2026-06-25 01:14:49  #國際
-
-美國能源部長賴特稱，歐盟新規（甲烷法規）將讓美國液化天然氣（LNG）幾乎無法進入歐洲市場。
-
----
-
-### 2026-06-25 01:13:43  #其他
-
-奧迪墨西哥工廠工人批准薪資協議，避免罷工。
-
----
-
-### 2026-06-25 01:13:11  #MKT News #Commodities #Energy #WTI #Impact bearish #Brent
-
-【ADNOC cuts Murban crude official selling price】UAE's Abu Dhabi National Oil Company (ADNOC) set July official selling price for benchmark Murban crude at $101.48 a barrel, down from $104.44 a barrel in June.
-
----
-
-### 2026-06-25 01:12:56  #國際
-
-俄羅斯5月份天然氣產量同比增長1%，達到530億立方米。
-
----
-
-### 2026-06-25 01:11:15  #MKT News #Market Themes #The Trump Trade
-
-President Trump said progress is going very smoothly.
-
----
-
-### 2026-06-25 01:10:33  #焦點 #國際
-
-特朗普談伊朗談判：進展非常順利。
-
----
-
-### 2026-06-25 01:10:29  #MKT News #Market Themes #Chip Wars #AVGO.O #Impact bullish
-
-【Broadcom CEO: OpenAI's Jalapeño chip signals shift to proprietary AI hardware】Broadcom CEO Hock Tan said the debut of the Jalapeño AI chip, co-developed with OpenAI, marks a shift toward AI labs building their own hardware and infrastructure. He said the move validates Broadcom’s business model and predicted frontier LLM developers will ultimately design and build their own chips and compute because they can do it better. He added OpenAI’s full‑stack strategy produced a chip that is "excellent" for its intended use.
-
----
-
-### 2026-06-25 01:10:21  #MKT News
-
-Trump said Iran is making very large concessions.
-
----
-
-### 2026-06-25 01:10:21  #焦點 #國際
-
-特朗普：伊朗作出極大讓步。
-
----
-
-### 2026-06-25 01:09:54  #MKT News #Market Regions #Europe & UK #RNO.PA
-
-Renault's head of HR in France said the company plans to cut 800 positions in its French engineering division through voluntary departures; the division currently employs 5,500 staff.
-
----
-
-### 2026-06-25 01:08:59  #其他 #焦點
-
-法國人力資源主管稱，雷諾計劃在法國工程部門的5500名員工中，開展800例自願裁員。
-
----
-
-### 2026-06-25 01:07:36  #國際
-
-據白宮隨行記者團訊息，特朗普車隊已啟程前往國會大廈。
-
----
-
-### 2026-06-25 01:05:27  #焦點 #國際
-
-【美伊兩國正圍繞和談爭奪輿論主導權】美伊兩國正圍繞和談爭奪輿論主導權，雙方針對擬議協議作出相互矛盾的表態。美國總統特朗普稱伊朗已同意接受全面核核查，伊朗則表示核查人員不得進入本國核心核設施。副總統萬斯稱美、卡達官員將共同監督伊朗海外資產解凍事宜，伊朗方面同樣對此予以否認。
-
----
-
-### 2026-06-25 01:04:24  #Trading Economics #Markets #Mexico #Currency #Importance 2
-
-Mexican Peso Drops to April Lows — The Mexican peso fell to 17.6 per USD in late June, the weakest since early April, amid contrasting outlooks for the Bank of Mexico and the Federal Reserve. The dollar surged against G10 and emerging market currencies after hawkish projections by FOMC members in their latest rate decision drove markets to position for more than one rate hike by the central bank this year. Conversely, the latest economic data weakened the argument for dovish policymakers at Banxico. The domestic headline inflation rate fell more than expected to a ten-month low of 3.55% in the first half of June, while the core rate also eased more than forecasted. Besides loosening policy domestically, a narrower rate differential between both central banks would decrease demand for peso-denominated carry trades.
-
----
-
-### 2026-06-25 01:02:37  #宏觀 #市場 #國際
-
-美國財政部拍賣700億美元五年期國債，得標利率4.2%，投標倍數2.35。
-
----
-
-### 2026-06-25 01:02:33  #MKT News
-
-CNN reports President Trump is en route to Capitol Hill for a lunch with Senate Republicans.
-
----
-
-### 2026-06-25 01:02:16  #MKT News #Macro & Rates #Treasury Yields #DXY #Impact bullish #XAUUSD #Impact bearish #USDJPY
-
-US 5-year Treasury auction as of June 24 — percentage of awards at the stop-out yield 86.81% (prior 75.22%).
-
----
-
-### 2026-06-25 01:02:15  #MKT News #Macro & Rates #Treasury Yields #US10Y #Impact bearish #DXY #Impact bullish #XAUUSD
-
-U.S. 5-year Treasury auction on June 24: stop-out yield 4.20%, prior 4.18%.
-
----
-
-### 2026-06-25 01:02:15  #MKT News #Macro & Rates #Treasury Yields #US10Y #Impact bullish
-
-US 5-year Treasury auction bid-cover ratio 2.35 on June 24; prior 2.34.
-
----
-
-### 2026-06-25 01:02:07  #MKT News #Economic Calendar
-
-United States | 5-Year Note Auction Bid/Cover Ratio (Jun.24) | actual 2.35 | previous 2.34
-
----
-
-### 2026-06-25 01:02:07  #MKT News #Economic Calendar
-
-United States | 5-Year Note Auction Accepted at High (Jun.24) | actual 86.81% | previous 75.22%
-
----
-
-### 2026-06-25 01:02:07  #MKT News #Economic Calendar
-
-United States | 5-Year Note Auction High Yield Rate (Jun.24) | actual 4.2% | previous 4.18%
-
----
-
-### 2026-06-25 01:01:23  #MKT News #Commodities #Industrial Metals #Copper #Impact bearish
-
-【Night session most-active contracts close】At the 01:00 night-session close, Shanghai most-active copper contract fell 2.30%, aluminum down 2.13%, zinc down 1.33%, nickel down 1.72%, tin down 2.64%, lead down 0.95%, stainless steel down 0.85% and alumina down 0.84%; international most-active copper contract fell 2.29%.
-
----
-
-### 2026-06-25 01:00:27  #市場 #國際
-
-700億美元拍賣前，美國國債5年期收益率為4.193%。
-
----
-
-### 2026-06-25 01:00:16  #國際
-
-美國能源部長賴特稱，預計將於今年晚些時候前往委內瑞拉。
-
----
-
-### 2026-06-25 01:00:03  #市場
-
-【夜盤期貨收盤】國際銅夜盤收跌2.29%，滬銅收跌2.30%，滬鋁收跌2.13%，滬鋅收跌1.33%，滬鉛收跌0.95%，滬鎳收跌1.76%，滬錫收跌2.65%。氧化鋁夜盤收跌0.84%，鋁合金收跌1.69%。不鏽鋼夜盤收跌0.85%。
-
----
-
-### 2026-06-25 00:58:42  #國際
-
-【以黎華盛頓首輪談判首日未能取得任何進展】以色列與黎巴嫩在華盛頓舉行的首輪談判首日未能取得任何進展，雙方在以色列撤軍範圍與時間節點上存在重大分歧。會談氣氛愈發緊張，兩國分歧依舊懸殊。美國調解方目前實質上重啟談判，試圖促使雙方軟化立場，推動磋商重回正軌。
-
----
-
-### 2026-06-25 00:57:46  #MKT News #XAUUSD #Impact bullish #WTI #DXY
-
-Axios reports the first day of Israel-Lebanon talks in Washington produced no progress; the parties remain sharply divided on the scope and timeline of an Israeli withdrawal.
-
----
-
-### 2026-06-25 00:57:33  #宏觀 #國際
-
-【貝森特稱美伊談判涵蓋伊朗重返美元體系 強調美元主導地位至關重要】美國財政部長斯科特·貝森特暗示，美國與伊朗的談判內容包括這個長期與美國對立的國家加入美元體系，並以美元為其石油銷售開具發票。貝森特週三接受採訪時說：“我們在與伊朗的談判中看到，伊朗方面將以美元開具發票。”他說，這是美元即將在全球經濟中更廣泛重新確立主導地位的一個組成部分。貝森特還表示，美國財政部將從卡達多哈負責監督伊朗被凍結資金的處理工作。“其中很大一部分將用於購買美國食品和藥品。因此，我們將把這筆資金重新投入到美國產品中。”在被問及美國財長曆來鍾愛強勢美元的傳統時，貝森特說道，“我們所鍾愛的是做正確的事讓美元堅挺。”
-
----
-
-### 2026-06-25 00:57:02  #MKT News #Important #WTI #Impact bearish #Brent
-
-US energy minister Wright said innovative replenishment methods could raise the Strategic Petroleum Reserve (SPR) to 500 mln barrels.
-
----
-
-### 2026-06-25 00:56:49  #MKT News #Commodities #Energy #WTI #Impact bearish #Brent
-
-U.S. Energy Secretary wright expects to raise Venezuelan oil exports to about 2.0 mln bpd during this administration.
-
----
-
-### 2026-06-25 00:56:27  #國際
-
-美國能源部長賴特表示，預計本屆政府任期內能夠將委內瑞拉石油出口提升至每日200萬桶。
-
----
-
-### 2026-06-25 00:56:16  #國際
-
-美國能源部長賴特稱，透過創新補庫方案，美國戰略石油儲備（SPR）庫存有望回升至5億桶。
-
----
-
-### 2026-06-25 00:55:18  #其他
-
-【奧運史上首次：國際奧委會將向奧運選手發放津貼】國際奧委會24日宣佈將設立奧運選手補助金，給每名奧運選手發放1萬美元的津貼。該政策從2026年米蘭-科爾蒂納冬奧會開始生效。這是奧運史上首次面向所有參賽運動員直接發放補助。國際奧委會運動員委員會主席保羅·加索爾在當天舉行的國際奧委會第146次全會上表示，已為每個奧運週期預留1.4億美元基金，預計每個奧運週期約有14000名奧運選手有條件申請。（新華社）
-
----
-
-### 2026-06-25 00:54:17  #國際
-
-美國國務卿魯比奧：如果伊朗想要達成一項真正好的協議，美國對此持開放態度。
-
----
-
-### 2026-06-25 00:53:51  #國際
-
-美國能源部長賴特稱，關於延長《瓊斯法案》豁免期限一事，相關“磋商對話”仍在進行中。
-
----
-
-### 2026-06-25 00:53:50  #MKT News #XAUUSD #Impact bullish #WTI #DXY
-
-i24News reported the Israel Defense Forces struck a vehicle in southern Lebanon carrying suspects who were attempting to cross into an Israeli security zone.
-
----
-
-### 2026-06-25 00:53:20  #MKT News #Important
-
-【Rubio says U.S., Iran to resume technical talks at end of June】Multiple foreign outlets reported on the 24th that U.S. Secretary of State Rubio said U.S. and Iranian technical teams will resume talks in Switzerland at the end of June.
-
----
-
-### 2026-06-25 00:53:17  #國際
-
-【魯比奧：美伊本月底將繼續技術磋商】據多家外媒24日報道，美國國務卿魯比奧表示，美國和伊朗技術團隊將於6月底在瑞士繼續舉行會談。（新華社）
-
----
-
-### 2026-06-25 00:52:07  #國際
-
-美國能源部長賴特稱，人們相信石油供應將會增長。
-
----
-
-### 2026-06-25 00:51:13  #市場 #焦點
-
-比特幣跌破60000美元，日內跌4.36%。
-
----
-
-### 2026-06-25 00:50:21  #國際
-
-美國能源部長賴特稱，霍爾木茲海峽航運恢復常態尚需數週時間。
-
----
-
-### 2026-06-25 00:50:05  #MKT News #Important #Star Stocks #NVIDIA #Market Themes #Magnificent 7 #NVDA.O
-
-NVIDIA will hold its annual shareholder meeting in 10 minutes.
-
----
-
-### 2026-06-25 00:49:42  #國際
-
-昨日於華盛頓舉行的以黎首輪談判首日結束，未取得任何進展，某種程度上雙方立場甚至出現倒退。一名訊息人士透露，雙方談判過程中部分階段氣氛十分“糟糕”。以色列方面承認雙方存在分歧，但聲稱會談整體氛圍“融洽”。
-
----
-
-### 2026-06-25 00:49:23  #MKT News #WTI #Impact bullish #Brent
-
-U.S. Energy Secretary wright said the Strait of Hormuz will take several weeks to return to normal.
-
----
-
-### 2026-06-25 00:49:15  #MKT News
-
-According to the AP, a federal judge barred President Trump from enforcing a requirement that voters present proof of citizenship when voting.
-
----
-
-### 2026-06-25 00:48:50  #國際
-
-美國國務卿魯比奧：我們希望黎巴嫩武裝部隊以及擁有合法主權的黎巴嫩政府能夠持續掌控並保衛該國越來越多的領土。
-
----
-
-### 2026-06-25 00:45:22  #MKT News #WTI #Impact bearish #Brent
-
-U.S. Energy Secretary Wright said the U.S. will ensure oil flows through the Strait of Hormuz even if it does not reach an agreement with Iran.
-
----
-
-### 2026-06-25 00:45:20  #MKT News
-
-【Colombia left-wing candidate Cepeda concedes presidential election】On the morning of the 24th local time, Iván Cepeda, candidate from the left-wing governing coalition Historic Pact for Colombia, said via livestream he concedes defeat in the Colombian presidential election.
-
----
-
-### 2026-06-25 00:45:16  #其他
-
-【哥倫比亞左翼候選人塞佩達承認大選敗選】當地時間24日上午，來自左翼執政聯盟“哥倫比亞歷史公約聯盟”的候選人伊萬·塞佩達透過網路平臺直播宣佈，他承認在哥倫比亞總統選舉中落敗。（新華社）
-
----
-
-### 2026-06-25 00:44:26  #市場 #焦點
-
-SPACEX股價轉跌，下跌0.3%。
-
----
-
-### 2026-06-25 00:44:15  #國際
-
-美國能源部長賴特稱，即便無法與伊朗達成協議，美國仍將確保霍爾木茲海峽的石油流通順暢。
-
----
-
-### 2026-06-25 00:43:56  #國際
-
-美國能源部長賴特稱，伊朗在霍爾木茲海峽佈設水雷導致石油運輸恢復正常程序推遲。
-
----
-
-### 2026-06-25 00:43:36  #MKT News #WTI #Impact bullish #Brent
-
-U.S. Energy Secretary wright said the resumption of normal oil shipments has been delayed because Iran-laid sea mines remain in the Strait of Hormuz.
-
----
-
-### 2026-06-25 00:43:33  #MKT News #WTI #Impact bearish #Brent
-
-U.S. Energy Secretary wright said Iran will be unable to block passage through the Strait of Hormuz.
-
----
-
-### 2026-06-25 00:43:30  #國際
-
-美國能源部長賴特表示，過去24小時內約有72艘船隻駛出霍爾木茲海峽，總計運輸2000萬桶石油。
-
----
-
-### 2026-06-25 00:43:19  #國際
-
-美國能源部長賴特稱，伊朗今後將無力封鎖霍爾木茲海峽。
-
----
-
-### 2026-06-25 00:42:29  #央行 #國際
-
-美國財長貝森特：對美聯儲需要警惕的核心底層通脹壓力不予置評。但我認為，我們必須客觀看待伊朗衝突對物價、通脹造成的衝擊，等本輪能源漲價效應消退後，再觀察通脹實際表現。同時也要理性看待人工智慧產業熱潮——AI有望提振生產率、起到抑制通脹的作用，推動通脹回落至目標水平。我確信凱文·沃什會選擇最優政策路徑，兼顧抑制通脹與穩定增長兩大美聯儲法定職責。要知道，他此前表態時對通脹風險措辭強硬。
-
----
-
-### 2026-06-25 00:41:54  #MKT News #Commodities #Energy #WTI #Impact bearish #Brent
-
-US Energy Secretary wright said roughly 72 vessels departed the Strait of Hormuz in the past 24 hours, carrying about 20 million barrels of oil.
-
----
-
-### 2026-06-25 00:41:47  #央行 #國際
-
-美國財長貝森特：我認為美國經濟將實現高國內生產總值（GDP）增速，同時不會出現傳統意義上的通脹抬頭。過去幾天，各界都在回顧格林斯潘的執政歷程。他極具先見之明，90年代前夕，美國生產率增速約1.5%，但他預判辦公裝置現代化與網際網路浪潮能夠推動無通脹型經濟繁榮。當年美聯儲僅在1997年初小幅加息一次、短暫收緊政策，除此之外，美國迎來了史上持續時間最長的經濟擴張週期。如今我們很有可能再次復刻這一局面。
-
----
-
-### 2026-06-25 00:41:20  #央行 #焦點 #國際
-
-美國財長貝森特表示，希望美聯儲能“保持開放心態”，待伊朗局勢推升能源價格的影響消退後，再重新審視通脹走勢。
-
----
-
-### 2026-06-25 00:40:36  #市場
-
-特斯拉股價延續跌勢，跌至當日低點，下跌0.9%。
-
----
-
-### 2026-06-25 00:38:17  #MKT News
-
-Iraq's prime minister says ties with the United States will shift from a military relationship to an economic partnership.
-
----
-
-### 2026-06-25 00:38:01  #MKT News #Commodities #Energy #Market Regions #Emerging Markets #WTI #Impact bearish #Brent
-
-Brazil's oil regulator ANP head said domestic fuel prices are gradually easing after a preliminary U.S.-Iran agreement.
-
----
-
-### 2026-06-25 00:37:57  #國際
-
-巴西石油監管機構國家石油、天然氣和生物燃料局（ANP）局長表示，在美國與伊朗達成初步協議後，巴西國內燃油價格正逐步下降。
-
----
-
-### 2026-06-25 00:37:53  #MKT News
-
-German Chancellor Merz urged a NATO "renewal" after the E5 leaders' meeting.
-
----
-
-### 2026-06-25 00:34:33  #Trading Economics #Economy #Russia #Industrial Production #Importance 1
-
-Russia Industrial Output Declines — Industrial production in Russia declined by 0.7% year-on-year in May 2026, reversing a 1.9% gain in the previous month. Output declines were recorded in mining, extending a decline to 2.7% from 0.4% in the previous month, followed by weakened activity in the provision of electricity, gas and steam, air conditioning (-2.2% vs 0.9%) and water supply, sanitation, waste collection and disposal, pollution control activities (-3.4% vs 0.9%). Manufacturing growth slowed sharply, increasing only 0.5% compared to 3.1%. On a seasonally adjusted monthly basis, industrial production declined 0.8% in May, following an increase of 0.3% in the prior period.
-
----
-
-### 2026-06-25 00:34:29  #其他
-
-德國總理默茨出席E5國家領導人會晤後，呼籲北約進行“革新重塑”。
-
----
-
-### 2026-06-25 00:34:20  #Trading Economics #Markets #United States #stocks #Importance 1
-
-Starbucks Stock Price Hits 4-week High — Starbucks shares increased to 103.70 USD, the highest since May 2026. Over the past 4 weeks, Starbucks gained 2.11%, and in the last 12 months, it increased 13.68%.
-
----
-
-### 2026-06-25 00:34:06  #MKT News #Market Themes #The Trump Trade #WTI #Impact bullish #Brent
-
-【Rubio: Iran must honor commitments or Trump will act】U.S. Secretary of State Rubio called Washington’s 60-day sanctions waiver for Iran a temporary measure and said the U.S. expects Tehran to honor commitments made under the agreement. He warned that if Iran does not comply, President Trump has multiple options, including — Rubio said he was not asserting Trump would necessarily use them — reimposing sanctions. Rubio noted the commitments were made clearly in Switzerland and said compliance would allow the U.S. to proceed, while non‑compliance would prompt presidential responses.
 
 ---
