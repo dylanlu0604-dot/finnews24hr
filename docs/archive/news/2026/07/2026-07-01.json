@@ -1,7 +1,23 @@
 {
   "date": "2026-07-01",
-  "count": 3613,
+  "count": 3615,
   "items": [
+    {
+      "id": "4965717",
+      "time": "2026-07-01 23:10:26",
+      "tags": [
+        "市場"
+      ],
+      "text": "目前，新加坡交易所最活躍的8月份鐵礦石期貨合約上漲2.53%至每噸100美元，此前一度攀升至6月17日以來的最高點101.2美元。"
+    },
+    {
+      "id": "mkt:019f1e38-9ec1-7aab-8c61-99fa063256b4",
+      "time": "2026-07-01 23:07:34",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Ivory Coast government spokesman said recent floods have killed 59 people."
+    },
     {
       "id": "mkt:019f1e38-4196-7aab-8c61-923e6e33ec52",
       "time": "2026-07-01 23:07:10",
