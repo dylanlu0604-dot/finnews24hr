@@ -1,7 +1,94 @@
 {
   "date": "2026-07-01",
-  "count": 1507,
+  "count": 1516,
   "items": [
+    {
+      "id": "te:markets:563298",
+      "time": "2026-07-01 14:49:19",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Australia",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "ASX 200 Closes 0.6% Lower on First Day of Fiscal Year — Australia's ASX 200 dipped 56 points or 0.6% to finish at 8,723 on Wednesday, the first day of the new financial year. Markets extended declines from the day before amid a sharp drop in U.S. stock futures following strong gains on Wall Street during H1 of 2026, supported by a continued surge in chip stocks. Caution lingered ahead of May trade data, due Thursday, after April exports outpaced imports to deliver a modest surplus. Meanwhile, building permits dropped for a third month in May, marking the fourth contraction this year. In its June meeting minutes, the central bank signalled further tightening remains possible after three hikes since January, citing rising Q2 cost pressures. Most sectors fell, led by commercial services, financials, logistics, and consumer names. The big four banks lost 1.5%–2.5%, while Greatland Resources (-4.7%), Coles Group (-4.2%), and Xero (-2.8%) slipped. In contrast, South32 surged 9.7% after agreeing to sell most of its aluminium assets to Alcoa."
+    },
+    {
+      "id": "4964376",
+      "time": "2026-07-01 14:49:10",
+      "tags": [
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "【美元上漲，受美聯儲緊縮押注提振】隨著交易員繼續押注美聯儲今年將加息，並消化中東衝突的最新事態發展，美元走高。德國商業銀行的Antje Praefcke在一份報告中表示，在伊朗戰爭結束之前，美元應會保持強勢。她說，只有到那時，價格將如何發展以及加息預期是否真正合理才會變得清晰。“我們對此表示懷疑，因此認為美元有回撥的可能。“據報道，美國總統特朗普曾考慮恢復與伊朗的全面戰爭，但目前決定堅持外交談判。DXY美元指數上漲0.1%，至101.328。"
+    },
+    {
+      "id": "4964375",
+      "time": "2026-07-01 14:48:59",
+      "tags": [
+        "國際"
+      ],
+      "text": "【呂特替歐洲邀功：我們重整軍備，養活美國近20萬國防就業崗位】美國總統特朗普多次對北約表達強烈不滿，甚至威脅退出該軍事聯盟。 據英國《金融時報》6月30日報道，北約峰會即將召開之際，北約秘書長呂特正勸說特朗普繼續堅守對北約的承諾。 呂特表示，歐洲的重整軍備程序，正透過3000億美元的武器訂單支撐著美國19.5萬個國防就業崗位。 在接受《金融時報》採訪時，呂特對歐洲掀起的購買美國武器的熱潮表示讚賞，認為這一方面是為了徹底改造歐洲長期被忽視的軍事力量，另一方面也是為了支援烏克蘭。（觀察者網）"
+    },
+    {
+      "id": "4964374",
+      "time": "2026-07-01 14:48:12",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "滬深兩市成交額超3.5萬億元，較上日此時放量3946億元。"
+    },
+    {
+      "id": "mkt:019f1c6f-2f30-7aab-8c4d-8fe713935b6c",
+      "time": "2026-07-01 14:47:56",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "Israeli media, citing senior security officials, said the Gaza Strip is nearing a boiling point and that renewed conflict is no longer a question of if but when."
+    },
+    {
+      "id": "4964373",
+      "time": "2026-07-01 14:47:42",
+      "tags": [
+        "其他"
+      ],
+      "text": "【哈薩克飛獅航空開通阿拉木圖—西安航線】7月1日4點33分，哈薩克飛獅航空的一架空客A320客機平穩降落西安咸陽國際機場，標誌著阿拉木圖至西安定期航線成功首航。"
+    },
+    {
+      "id": "4964371",
+      "time": "2026-07-01 14:46:07",
+      "tags": [
+        "國際"
+      ],
+      "text": "據多名知情人士透露，德國官員正與美方對口部門接觸，希望在下週於安卡拉舉行的北約峰會前達成聯合生產協議。此舉是歐洲各國利用自身國防工業能力來穩定與華盛頓緊張關係的更廣泛努力的一部分。"
+    },
+    {
+      "id": "4964370",
+      "time": "2026-07-01 14:46:04",
+      "tags": [
+        "其他"
+      ],
+      "text": "【7月1日：“農產品批發價格200指數”比昨天上升0.04個點】據農業農村部監測，7月1日“農產品批發價格200指數”為110.54，比昨天上升0.04個點，“菜籃子”產品批發價格指數為110.15，比昨天上升0.05個點。截至今日14:00時，全國農產品批發市場豬肉平均價格為14.51元/公斤，比昨天上升1.4%；牛肉66.33元/公斤，比昨天下降0.3%；羊肉64.50元/公斤，比昨天上升0.5%；雞蛋9.45元/公斤，比昨天下降0.6%；白條雞17.51元/公斤，比昨天上升0.4%。重點監測的28種蔬菜平均價格為4.20元/公斤，比昨天上升0.5%；重點監測的6種水果平均價格為7.35元/公斤，比昨天上升1.0%。鯽魚20.64元/公斤，比昨天上升2.6%；鯉魚14.91元/公斤，比昨天上升1.6%；白鰱魚10.51元/公斤，比昨天上升2.5%；大帶魚42.03元/公斤，比昨天下降0.8%。今日，國內鮮活農產品批發市場重點監測的46個品種中，與昨天相比價格升幅前五名的是菜花、菠蘿、蔥頭、洋白菜和鯽魚，幅度分別為4.7%、4.4%、4.1%、4.1%和2.6%；價格降幅前五名的是冬瓜、鴨梨、蓮藕、胡蘿蔔和茄子，幅度分別為2.2%、1.8%、1.5%、1.3%和0.9%。"
+    },
+    {
+      "id": "mkt:019f1c6d-4429-7aab-8c4d-84f73a7968cd",
+      "time": "2026-07-01 14:45:50",
+      "tags": [
+        "MKT News",
+        "RTX.O",
+        "Impact bullish",
+        "LMT.O",
+        "NOC.O"
+      ],
+      "text": "【Germany proposes producing U.S. weapons in Europe to secure Trump's continued support】Germany is urging the U.S. to allow more American weapons to be produced on German soil to plug European military shortfalls and give President Trump a reason to sustain U.S. defence engagement, sources said. German officials are in talks with U.S. counterparts and hope to seal a joint-production agreement ahead of next week’s NATO summit in Ankara. Negotiations between German and U.S. defence firms cover joint manufacture of systems including Tomahawk cruise missiles and PAC-3 interceptors for the Patriot air-defence system, and broader cooperation on measures to boost mutual defence capacity. U.S. government and industry reactions have been more positive than expected, sources added. The move is part of a wider European effort to deploy domestic defence industrial capacity to stabilise strained ties with Washington."
+    },
     {
       "id": "4964369",
       "time": "2026-07-01 14:44:40",
