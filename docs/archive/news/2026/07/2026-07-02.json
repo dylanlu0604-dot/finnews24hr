@@ -1,7 +1,36 @@
 {
   "date": "2026-07-02",
-  "count": 355,
+  "count": 358,
   "items": [
+    {
+      "id": "te:markets:563543",
+      "time": "2026-07-02 06:30:11",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Energy Commodities Updates: Natural Gas UK Drops by 2.58% — Top commodity losers are Natural Gas UK (-2.58%), Brent Crude Oil (-2.54%), Methanol (-2.34%) and Crude Oil WTI (-2.19%). Gains are led by Gasoline (1.40%) and Uranium (0.64%)."
+    },
+    {
+      "id": "4965980",
+      "time": "2026-07-02 06:28:25",
+      "tags": [
+        "資料",
+        "央行",
+        "國際"
+      ],
+      "text": "【週四重要財經資訊提醒（以下均為北京時間）】 \n① 時間待定 上海國際具身智慧產業博覽會啟幕；\n② 09:30 澳大利亞5月進出口、商品及服務貿易帳；\n③ 14:30 瑞士6月CPI；\n④ 15:00 商務部召開7月第1次例行新聞釋出會；\n⑤ 17:00 歐元區5月失業率；\n⑥ 19:30 歐洲央行管委Escriva講話；\n⑦ 19:45 美國舊金山聯儲主席戴利（2027年FOMC票委）講話；\n⑧ 20:30 美國6月非農就業報告（含就業人口、失業率、平均每小時工資，資料將因美國週五休市而提前一天釋出），6月27日當週首次申請失業救濟人數；\n⑨ 22:00 美國5月耐用品訂單終值，工廠訂單；\n⑩ 23:45 英國央行貨幣政策委員會（MPC）成員Catherine Mann講話；\n⑪ 次日01:55 歐洲央行執委Cipollone講話。"
+    },
+    {
+      "id": "4965979",
+      "time": "2026-07-02 06:26:55",
+      "tags": [
+        "其他"
+      ],
+      "text": "委內瑞拉開通緊急救援熱線0800-RESCATE，用於各類緊急救援處置。"
+    },
     {
       "id": "4965978",
       "time": "2026-07-02 06:22:55",
