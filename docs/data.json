@@ -1,7 +1,15 @@
 {
-  "updated": "2026-07-02 01:10:23",
-  "count": 14236,
+  "updated": "2026-07-02 01:14:17",
+  "count": 14231,
   "items": [
+    {
+      "id": "4965819",
+      "time": "2026-07-02 01:10:39",
+      "tags": [
+        "其他"
+      ],
+      "text": "【委內瑞拉全國哀悼7天】當地時間7月1日，委內瑞拉代總統羅德里格斯宣佈，自當天18時起為所有地震遇難者舉國哀悼7天。（CCTV國際時訊 ）"
+    },
     {
       "id": "4965818",
       "time": "2026-07-02 01:08:20",
@@ -131205,66 +131213,6 @@
         "國際"
       ],
       "text": "美國能源部長賴特稱，歐盟新規（甲烷法規）將讓美國液化天然氣（LNG）幾乎無法進入歐洲市場。"
-    },
-    {
-      "id": "4953236",
-      "time": "2026-06-25 01:13:43",
-      "tags": [
-        "其他"
-      ],
-      "text": "奧迪墨西哥工廠工人批准薪資協議，避免罷工。"
-    },
-    {
-      "id": "mkt:019efa9f-1c0a-7dd8-b100-ce64809fb283",
-      "time": "2026-06-25 01:13:11",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "【ADNOC cuts Murban crude official selling price】UAE's Abu Dhabi National Oil Company (ADNOC) set July official selling price for benchmark Murban crude at $101.48 a barrel, down from $104.44 a barrel in June."
-    },
-    {
-      "id": "4953235",
-      "time": "2026-06-25 01:12:56",
-      "tags": [
-        "國際"
-      ],
-      "text": "俄羅斯5月份天然氣產量同比增長1%，達到530億立方米。"
-    },
-    {
-      "id": "mkt:019efa9d-56f2-7dd8-b100-c70ad6e7a894",
-      "time": "2026-06-25 01:11:15",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "The Trump Trade"
-      ],
-      "text": "President Trump said progress is going very smoothly."
-    },
-    {
-      "id": "4953234",
-      "time": "2026-06-25 01:10:33",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "特朗普談伊朗談判：進展非常順利。"
-    },
-    {
-      "id": "mkt:019efa9c-a3a0-7dd8-b100-bcee9e11abde",
-      "time": "2026-06-25 01:10:29",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "Chip Wars",
-        "AVGO.O",
-        "Impact bullish"
-      ],
-      "text": "【Broadcom CEO: OpenAI's Jalapeño chip signals shift to proprietary AI hardware】Broadcom CEO Hock Tan said the debut of the Jalapeño AI chip, co-developed with OpenAI, marks a shift toward AI labs building their own hardware and infrastructure. He said the move validates Broadcom’s business model and predicted frontier LLM developers will ultimately design and build their own chips and compute because they can do it better. He added OpenAI’s full‑stack strategy produced a chip that is \"excellent\" for its intended use."
     }
   ]
 }
