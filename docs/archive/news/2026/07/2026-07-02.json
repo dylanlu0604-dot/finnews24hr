@@ -1,7 +1,27 @@
 {
   "date": "2026-07-02",
-  "count": 230,
+  "count": 232,
   "items": [
+    {
+      "id": "4965887",
+      "time": "2026-07-02 03:43:38",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：我們在伊朗問題上進展順利，委內瑞拉方面也是如此。"
+    },
+    {
+      "id": "mkt:019f1f34-e596-7aab-8c65-c09ba88fd237",
+      "time": "2026-07-02 03:43:08",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact mixed",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "【Gulf states reportedly seek separate regional security deal with Iran】A June 30 report says Saudi Arabia, Oman and Qatar are engaging in direct talks with Iran alongside US‑Iran negotiations. Citing a decline in US credibility, Gulf states are recalibrating ties. After a US‑Iran memorandum, Iran and Oman held a first meeting on management of the Strait of Hormuz. Follow‑up talks are planned between Oman and Qatar, Iran and Saudi Arabia, and Qatar and Saudi Arabia to outline post‑conflict coexistence. Discussions focus on Strait of Hormuz navigation arrangements and potential economic incentives Gulf states might offer Iran in exchange for security concessions. These talks are concurrent with but independent from US‑Iran negotiations."
+    },
     {
       "id": "4965886",
       "time": "2026-07-02 03:42:24",

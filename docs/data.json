@@ -1,7 +1,27 @@
 {
-  "updated": "2026-07-02 03:43:10",
-  "count": 14111,
+  "updated": "2026-07-02 03:47:03",
+  "count": 14112,
   "items": [
+    {
+      "id": "4965887",
+      "time": "2026-07-02 03:43:38",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：我們在伊朗問題上進展順利，委內瑞拉方面也是如此。"
+    },
+    {
+      "id": "mkt:019f1f34-e596-7aab-8c65-c09ba88fd237",
+      "time": "2026-07-02 03:43:08",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact mixed",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "【Gulf states reportedly seek separate regional security deal with Iran】A June 30 report says Saudi Arabia, Oman and Qatar are engaging in direct talks with Iran alongside US‑Iran negotiations. Citing a decline in US credibility, Gulf states are recalibrating ties. After a US‑Iran memorandum, Iran and Oman held a first meeting on management of the Strait of Hormuz. Follow‑up talks are planned between Oman and Qatar, Iran and Saudi Arabia, and Qatar and Saudi Arabia to outline post‑conflict coexistence. Discussions focus on Strait of Hormuz navigation arrangements and potential economic incentives Gulf states might offer Iran in exchange for security concessions. These talks are concurrent with but independent from US‑Iran negotiations."
+    },
     {
       "id": "4965886",
       "time": "2026-07-02 03:42:24",
@@ -130035,14 +130055,6 @@
         "其他"
       ],
       "text": "市場訊息：英特爾投資的 AI 晶片企業 Sambanova 估值將增至五倍，達到 100 億美元。"
-    },
-    {
-      "id": "4953410",
-      "time": "2026-06-25 03:44:58",
-      "tags": [
-        "國際"
-      ],
-      "text": "【頁岩油高管稱特朗普關於伊朗的言論引發能源市場混亂】美國頁岩油高管表示，白宮關於伊朗戰爭的不規律溝通正在能源市場引發混亂，並使得對未來幾個月的規劃幾乎變得不可能。行業高管對特朗普政府關於中東衝突前後矛盾的政策宣告表示擔憂，一位受訪者表示：“市場能夠給風險定價，但無法給一條推文定價。”大多數高管認為，即使敵對行動結束且霍爾木茲海峽的流量增加，市場波動仍將持續。一位受訪者表示：“在當前伊朗戰爭的局勢下，很難有任何把握地預測原油價格。”"
     }
   ]
 }
