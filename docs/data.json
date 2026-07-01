@@ -1,7 +1,35 @@
 {
-  "updated": "2026-07-02 04:33:08",
-  "count": 14065,
+  "updated": "2026-07-02 04:36:59",
+  "count": 14058,
   "items": [
+    {
+      "id": "4965922",
+      "time": "2026-07-02 04:35:15",
+      "tags": [
+        "國際"
+      ],
+      "text": "烏克蘭：防空系統攔截了針對基輔的俄羅斯無人機襲擊，無人機殘骸墜落在至少兩個行政區境內。"
+    },
+    {
+      "id": "te:markets:563539",
+      "time": "2026-07-02 04:35:02",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The Dow Jones Index Closes 0.06% Higher — The Dow Jones Index rose 31 points or 0.06 percent on Wednesday to close at 52350 points. Leading the gains are Nike (5.07%), Salesforce (4.56%) and Microsoft (3.05%). Top losers were Caterpillar (-6.77%), Walmart (-3.88%) and Merck (-2.44%)."
+    },
+    {
+      "id": "4965921",
+      "time": "2026-07-02 04:32:46",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：歷經數十年，古巴如今正向我方靠攏；西班牙也該認清現實，西班牙算不上北約合格成員國。"
+    },
     {
       "id": "mkt:019f1f62-1d6d-7aab-8c66-55feabfcb8b8",
       "time": "2026-07-02 04:32:31",
@@ -129482,101 +129510,6 @@
         "其他"
       ],
       "text": "美光科技：目前看不到供應實現供需平衡的明確時間點。"
-    },
-    {
-      "id": "4953489",
-      "time": "2026-06-25 04:36:51",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普談及伊朗校園襲擊事件：不確定他們能否解決此事。"
-    },
-    {
-      "id": "4953488",
-      "time": "2026-06-25 04:35:50",
-      "tags": [
-        "公司",
-        "其他",
-        "焦點",
-        "國際"
-      ],
-      "text": "美光科技：預計 2028 年儲存晶片供應將逐步改善。"
-    },
-    {
-      "id": "4953486",
-      "time": "2026-06-25 04:35:30",
-      "tags": [
-        "其他"
-      ],
-      "text": "高通：預計安卓系統硬體裝置營收將增長大約5%。在2029財年，預計硬體將在收入佔比大約三分之一。"
-    },
-    {
-      "id": "te:markets:561642",
-      "time": "2026-06-25 04:35:10",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The Dow Jones Index Closes 0.34% Higher — The Dow Jones Index rose 174 points or 0.34 percent on Wednesday to close at 51840 points. Leading the gains are Home Depot (5.35%), Sherwin-Williams (3.12%) and 3M (2.49%). Top losers were Chevron (-2.43%), Walt Disney (-2.34%) and Microsoft (-2.27%)."
-    },
-    {
-      "id": "4953485",
-      "time": "2026-06-25 04:34:58",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：烏克蘭總統澤連斯基表現得相當不錯， 他撐得住局面。"
-    },
-    {
-      "id": "mkt:019efb57-aa61-7dd8-b104-dfa8ba0a6aac",
-      "time": "2026-06-25 04:34:46",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "US President Trump said Ukrainian President Zelenskiy has performed quite well."
-    },
-    {
-      "id": "mkt:019efb57-734f-7dd8-b104-d220ade9aac0",
-      "time": "2026-06-25 04:34:32",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "US President Trump said he would not have attended the NATO summit in Ankara if not for Turkish President Erdogan."
-    },
-    {
-      "id": "mkt:019efb57-12a3-7dd8-b104-cafa3b6b2586",
-      "time": "2026-06-25 04:34:08",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "U.S. President Trump said he may take action on fighter-jet sales to Turkey."
-    },
-    {
-      "id": "4953483",
-      "time": "2026-06-25 04:34:04",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "美光釋出財報後，盤後晶片股普漲；英特爾漲 4.4%，AMD 漲 3.4%，英偉達上漲 0.6%。"
-    },
-    {
-      "id": "mkt:019efb56-c916-7dd8-b104-c0d75c4266ea",
-      "time": "2026-06-25 04:33:49",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "S&P500",
-        "Impact bullish",
-        "Nasdaq100",
-        "Dow"
-      ],
-      "text": "【Wall Street banks pass Fed stress test, clear way for tens of billions in buybacks and dividends】All major US banks passed the Fed's annual stress test, clearing the way for tens of billions of dollars in share buybacks and dividends. The Fed said 2026 results will not affect capital requirements as it continues to revise the exercise to be more favorable to banks. The test covered 32 large bank holding companies under a severe global shock — commercial real estate down 39%, residential prices down 30%, unemployment peaking at 10% — and assumed lenders would absorb more than $708bn of loan losses. Regulators said aggregate capital fell only 1.6 percentage points and remained above minimum requirements."
     }
   ]
 }

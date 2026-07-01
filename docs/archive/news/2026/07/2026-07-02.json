@@ -1,7 +1,35 @@
 {
   "date": "2026-07-02",
-  "count": 284,
+  "count": 287,
   "items": [
+    {
+      "id": "4965922",
+      "time": "2026-07-02 04:35:15",
+      "tags": [
+        "國際"
+      ],
+      "text": "烏克蘭：防空系統攔截了針對基輔的俄羅斯無人機襲擊，無人機殘骸墜落在至少兩個行政區境內。"
+    },
+    {
+      "id": "te:markets:563539",
+      "time": "2026-07-02 04:35:02",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The Dow Jones Index Closes 0.06% Higher — The Dow Jones Index rose 31 points or 0.06 percent on Wednesday to close at 52350 points. Leading the gains are Nike (5.07%), Salesforce (4.56%) and Microsoft (3.05%). Top losers were Caterpillar (-6.77%), Walmart (-3.88%) and Merck (-2.44%)."
+    },
+    {
+      "id": "4965921",
+      "time": "2026-07-02 04:32:46",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：歷經數十年，古巴如今正向我方靠攏；西班牙也該認清現實，西班牙算不上北約合格成員國。"
+    },
     {
       "id": "mkt:019f1f62-1d6d-7aab-8c66-55feabfcb8b8",
       "time": "2026-07-02 04:32:31",
