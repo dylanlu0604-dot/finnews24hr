@@ -1,7 +1,72 @@
 {
   "date": "2026-07-01",
-  "count": 2684,
+  "count": 2691,
   "items": [
+    {
+      "id": "4965187",
+      "time": "2026-07-01 20:01:16",
+      "tags": [
+        "市場"
+      ],
+      "text": "COTALITY：紐西蘭6月房價指數環比下跌0.2%。"
+    },
+    {
+      "id": "4965186",
+      "time": "2026-07-01 20:00:09",
+      "tags": [
+        "國際"
+      ],
+      "text": "【檔案顯示：特朗普 2025 年從嘉信理財獲得超 5000 萬美元貸款】根據特朗普向美國政府道德辦公室提交的 2025 年度財產披露檔案，美國總統唐納德・特朗普去年從嘉信理財銀行獲得一筆超過 5000 萬美元的貸款。特朗普在該行持有資產質押信貸額度，這類信貸產品允許借款人以名下投資資產作質押提取現金；但他 2024 年的道德申報檔案中並未披露該筆授信。週二公佈的 2025 年披露檔案顯示，該信貸額度利率為 3.9%，檔案未寫明具體貸款金額與資金用途。"
+    },
+    {
+      "id": "4965185",
+      "time": "2026-07-01 19:59:08",
+      "tags": [
+        "市場"
+      ],
+      "text": "小鵬汽車美股盤前漲超3%。"
+    },
+    {
+      "id": "4965184",
+      "time": "2026-07-01 19:59:02",
+      "tags": [
+        "其他"
+      ],
+      "text": "【國家防總辦公室專題排程養老機構防汛安全工作】7月1日，國家防總辦公室、應急管理部會同民政部、自然資源部、住房城鄉建設部、水利部、中國氣象局組織開展養老機構防汛安全專題影片排程，分析盛夏期間防汛安全形勢，進一步強化養老機構防汛安全管理。國家防總辦公室主任、應急管理部副部長兼水利部副部長陳敏主持排程會。會議指出，養老機構服務物件特殊，自救互救能力偏弱，疏散轉移困難，一些養老機構存在極端風險考慮不足、應急預案可操作性不強、人員轉移不落實等問題。當前已進入盛夏，極端暴雨、江河洪水、山洪和地質災害、城鎮內澇等風險增加，養老機構安全度汛形勢不容樂觀。"
+    },
+    {
+      "id": "mkt:019f1d8b-fd03-7aab-8c56-cce45104cb42",
+      "time": "2026-07-01 19:59:01",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "China EV Leaders",
+        "XPEV.N",
+        "Impact bullish"
+      ],
+      "text": "Xpeng (XPEV.N) rose more than 3% in U.S. premarket; June deliveries were 40,126 vehicles, bringing second-quarter deliveries to 103,295."
+    },
+    {
+      "id": "mkt:019f1d8b-04dd-7aab-8c56-c05488d42dc1",
+      "time": "2026-07-01 19:57:57",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "China Tech Giants",
+        "AI Revolution",
+        "BIDU.O",
+        "Impact bullish"
+      ],
+      "text": "【Sun Tianxiang joins Baidu as head of Basic Model R&D Unit】Large-model specialist Sun Tianxiang has joined Baidu as head of the Basic Model R&D Unit (BMU) and joined the Baidu Model Committee (BMC). His track record—from developing MOSS and proposing MaaS to subsequent entrepreneurship—is highly aligned with Baidu’s strategic investment in foundation models."
+    },
+    {
+      "id": "4965183",
+      "time": "2026-07-01 19:57:57",
+      "tags": [
+        "其他"
+      ],
+      "text": "慕尼黑機場取消 100 架次航班。"
+    },
     {
       "id": "mkt:019f1d8a-4509-7aab-8c56-bb7380475491",
       "time": "2026-07-01 19:57:08",

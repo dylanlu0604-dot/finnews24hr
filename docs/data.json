@@ -1,7 +1,72 @@
 {
-  "updated": "2026-07-01 19:58:21",
-  "count": 13929,
+  "updated": "2026-07-01 20:02:17",
+  "count": 13920,
   "items": [
+    {
+      "id": "4965187",
+      "time": "2026-07-01 20:01:16",
+      "tags": [
+        "市場"
+      ],
+      "text": "COTALITY：紐西蘭6月房價指數環比下跌0.2%。"
+    },
+    {
+      "id": "4965186",
+      "time": "2026-07-01 20:00:09",
+      "tags": [
+        "國際"
+      ],
+      "text": "【檔案顯示：特朗普 2025 年從嘉信理財獲得超 5000 萬美元貸款】根據特朗普向美國政府道德辦公室提交的 2025 年度財產披露檔案，美國總統唐納德・特朗普去年從嘉信理財銀行獲得一筆超過 5000 萬美元的貸款。特朗普在該行持有資產質押信貸額度，這類信貸產品允許借款人以名下投資資產作質押提取現金；但他 2024 年的道德申報檔案中並未披露該筆授信。週二公佈的 2025 年披露檔案顯示，該信貸額度利率為 3.9%，檔案未寫明具體貸款金額與資金用途。"
+    },
+    {
+      "id": "4965185",
+      "time": "2026-07-01 19:59:08",
+      "tags": [
+        "市場"
+      ],
+      "text": "小鵬汽車美股盤前漲超3%。"
+    },
+    {
+      "id": "4965184",
+      "time": "2026-07-01 19:59:02",
+      "tags": [
+        "其他"
+      ],
+      "text": "【國家防總辦公室專題排程養老機構防汛安全工作】7月1日，國家防總辦公室、應急管理部會同民政部、自然資源部、住房城鄉建設部、水利部、中國氣象局組織開展養老機構防汛安全專題影片排程，分析盛夏期間防汛安全形勢，進一步強化養老機構防汛安全管理。國家防總辦公室主任、應急管理部副部長兼水利部副部長陳敏主持排程會。會議指出，養老機構服務物件特殊，自救互救能力偏弱，疏散轉移困難，一些養老機構存在極端風險考慮不足、應急預案可操作性不強、人員轉移不落實等問題。當前已進入盛夏，極端暴雨、江河洪水、山洪和地質災害、城鎮內澇等風險增加，養老機構安全度汛形勢不容樂觀。"
+    },
+    {
+      "id": "mkt:019f1d8b-fd03-7aab-8c56-cce45104cb42",
+      "time": "2026-07-01 19:59:01",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "China EV Leaders",
+        "XPEV.N",
+        "Impact bullish"
+      ],
+      "text": "Xpeng (XPEV.N) rose more than 3% in U.S. premarket; June deliveries were 40,126 vehicles, bringing second-quarter deliveries to 103,295."
+    },
+    {
+      "id": "4965183",
+      "time": "2026-07-01 19:57:57",
+      "tags": [
+        "其他"
+      ],
+      "text": "慕尼黑機場取消 100 架次航班。"
+    },
+    {
+      "id": "mkt:019f1d8b-04dd-7aab-8c56-c05488d42dc1",
+      "time": "2026-07-01 19:57:57",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "China Tech Giants",
+        "AI Revolution",
+        "BIDU.O",
+        "Impact bullish"
+      ],
+      "text": "【Sun Tianxiang joins Baidu as head of Basic Model R&D Unit】Large-model specialist Sun Tianxiang has joined Baidu as head of the Basic Model R&D Unit (BMU) and joined the Baidu Model Committee (BMC). His track record—from developing MOSS and proposing MaaS to subsequent entrepreneurship—is highly aligned with Baidu’s strategic investment in foundation models."
+    },
     {
       "id": "mkt:019f1d8a-4509-7aab-8c56-bb7380475491",
       "time": "2026-07-01 19:57:08",
@@ -128101,181 +128166,6 @@
         "其他"
       ],
       "text": "報道稱：莫斯科煉油廠已停產，至少關停至 2027 年。"
-    },
-    {
-      "id": "4952743",
-      "time": "2026-06-24 20:02:03",
-      "tags": [
-        "市場"
-      ],
-      "text": "波羅的海乾散貨指數下跌1.24%，至2634點。"
-    },
-    {
-      "id": "mkt:019ef982-3013-7dd8-b0f8-d385f22f60dd",
-      "time": "2026-06-24 20:01:59",
-      "tags": [
-        "MKT News",
-        "Copper",
-        "Impact bearish"
-      ],
-      "text": "Baltic Dry Index fell 1.24% to 2,634."
-    },
-    {
-      "id": "mkt:019ef982-0881-7dd8-b0f8-ca2204e5428e",
-      "time": "2026-06-24 20:01:49",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Precious Metals",
-        "XAUUSD",
-        "Impact bearish"
-      ],
-      "text": "Shanghai Gold Exchange Gold T+D opened the Wednesday evening session on June 24 down 1.06% at 894.0 yuan/gram; Silver T+D opened the evening session down 2.77% at 14,415.0 yuan/kg."
-    },
-    {
-      "id": "mkt:019ef982-040d-7dd8-b0f8-c3af7179a24a",
-      "time": "2026-06-24 20:01:47",
-      "tags": [
-        "MKT News",
-        "EURUSD",
-        "Impact bullish"
-      ],
-      "text": "ECB: Unlike previous episodes, the impact is expected to accumulate gradually over the year."
-    },
-    {
-      "id": "mkt:019ef981-7c82-7dd8-b0f8-bb9602c81cae",
-      "time": "2026-06-24 20:01:13",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK",
-        "EURUSD",
-        "Impact bearish",
-        "DAX",
-        "DXY",
-        "Impact bullish"
-      ],
-      "text": "ECB: If the shock persists longer, the cumulative drag on economic growth could be greater."
-    },
-    {
-      "id": "mkt:019ef981-4950-7dd8-b0f8-b554058efa1f",
-      "time": "2026-06-24 20:01:00",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "DXY"
-      ],
-      "text": "European Central Bank says the current rise in oil prices is larger than the increase seen after the Ukraine conflict but smaller than during the 1990s Gulf War."
-    },
-    {
-      "id": "4952742",
-      "time": "2026-06-24 20:00:43",
-      "tags": [
-        "其他"
-      ],
-      "text": "高通：與Modular的交易預計於2026年下半年完成交割。"
-    },
-    {
-      "id": "mkt:019ef980-e77b-7dd8-b0f8-ac7742756324",
-      "time": "2026-06-24 20:00:35",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK",
-        "Commodities",
-        "Energy",
-        "EURUSD",
-        "Impact bearish",
-        "DXY",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "ECB estimates war-driven oil price rises will reduce euro-area GDP growth by about 0.4 percentage point within the first year."
-    },
-    {
-      "id": "4952741",
-      "time": "2026-06-24 20:00:33",
-      "tags": [
-        "市場"
-      ],
-      "text": "南非主要股指下跌1%，報110488.40點。"
-    },
-    {
-      "id": "mkt:019ef980-a2e8-7dd8-b0f8-a2bd4dee7bc2",
-      "time": "2026-06-24 20:00:17",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "Brent",
-        "Impact bearish"
-      ],
-      "text": "Brent crude fell $2.02 intraday to $74.60 a barrel, down 2.63%."
-    },
-    {
-      "id": "4952740",
-      "time": "2026-06-24 19:59:51",
-      "tags": [
-        "市場"
-      ],
-      "text": "紐約期銀日內跌4%，現報59.96美元/盎司。"
-    },
-    {
-      "id": "4952739",
-      "time": "2026-06-24 19:59:51",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "紐約期銀失守60美元/盎司，日內跌4.09%。"
-    },
-    {
-      "id": "mkt:019ef97f-f711-7dd8-b0f8-9d3ad38fe672",
-      "time": "2026-06-24 19:59:33",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Precious Metals"
-      ],
-      "text": "New York silver futures slumped 4.00% intraday to $59.59/oz."
-    },
-    {
-      "id": "4952738",
-      "time": "2026-06-24 19:58:54",
-      "tags": [
-        "公司",
-        "市場",
-        "國際"
-      ],
-      "text": "【美股盤前要聞速遞】\n①美股三大股指期貨齊漲，道指期貨漲0.08%，標普500指數期貨漲0.32%，納指期貨漲0.55%。\n②德國DAX指數跌1.22%，英國富時100指數漲0.04%，法國CAC40指數漲0.26%，歐洲斯托克50指數跌0.29%。\n③WTI原油跌2.46%，報71.41美元/桶。布倫特原油跌2.27%，報75.06美元/桶。\n④美伊技術性談判6月30日繼續。\n⑤由於華爾街科技股引發的拋售促使投資者削減黃金持倉，以填補其投資組合中其他領域的虧損，金價進一步擴大跌幅。\n⑥巴克萊與Stifel兩家華爾街機構同日釋出報告，基於強勁的企業盈利前景雙雙將標普500指數2026年年終目標上調至7800點。\n⑦嗶哩嗶哩美股盤前漲超3%，公司宣佈新的3億美元股票回購計劃。\n⑧高通盤前漲2.6%，傳與位元組跳動洽談定製晶片。\n⑨索尼盤前漲超2%，三十年來首次發行美元債券+新款感測器釋出。"
-    },
-    {
-      "id": "4952737",
-      "time": "2026-06-24 19:58:52",
-      "tags": [
-        "公司"
-      ],
-      "text": "高通計劃收購 Modular 公司。"
-    },
-    {
-      "id": "mkt:019ef97e-f34f-7dd8-b0f8-942f0c12e3b0",
-      "time": "2026-06-24 19:58:27",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "DXY",
-        "Impact bullish",
-        "XAUUSD",
-        "Impact bearish",
-        "USDJPY"
-      ],
-      "text": "【Bessent praises Kevin Warsh for removing forward guidance, reiterates dollar dominance】U.S. Treasury Secretary Bessent praised Fed Chair Kevin Warsh's decision to remove forward guidance and said no one should try to forecast the dot plot. He expects real wage growth to return to its pre‑April pace and for the economy to accelerate through the remainder of the year without lifting inflation. Bessent emphasized the strategic importance of dollar dominance, saying Russia would seek to rejoin the dollar system after the Ukraine conflict ends and that Venezuela is returning to the system. He said the dollar can remain strong even during rate cuts and that the U.S. is prepared to take measures to support dollar strength. On Iran, Bessent said the Treasury will supervise distribution of Iranian funds, initially routed through Qatar, with a large portion designated for U.S.-regulated purchases of food and medicine, and that any funds received by Iran should belong to the Iranian people."
     }
   ]
 }
