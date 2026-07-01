@@ -1,7 +1,31 @@
 {
   "date": "2026-07-02",
-  "count": 255,
+  "count": 258,
   "items": [
+    {
+      "id": "mkt:019f1f50-b228-7aab-8c66-195e85666f29",
+      "time": "2026-07-02 04:13:29",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "SoftBank is in talks with lenders to raise a $10 billion margin loan secured by its OpenAI stake and a repayment guarantee, people familiar with the matter said. Goldman Sachs, JP Morgan and Mizuho Financial Group are expected to join the lending syndicate."
+    },
+    {
+      "id": "4965902",
+      "time": "2026-07-02 04:10:47",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：羅斯福總統提醒我們所有人，想要成為偉大且自由的國家，我們必須擁有勇氣。正如老羅斯福所言，自由絕非能長久握在懦夫手中的饋贈。"
+    },
+    {
+      "id": "mkt:019f1f4d-c351-7aab-8c66-1212b59b6b99",
+      "time": "2026-07-02 04:10:17",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "US President Trump said Spain is a NATO member but not a very good one, adding its behavior is not very friendly and that it will learn what to do."
+    },
     {
       "id": "mkt:019f1f4c-9a6a-7aab-8c66-083b2626d547",
       "time": "2026-07-02 04:09:01",

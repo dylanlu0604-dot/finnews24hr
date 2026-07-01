@@ -1,7 +1,31 @@
 {
-  "updated": "2026-07-02 04:10:07",
-  "count": 14091,
+  "updated": "2026-07-02 04:14:00",
+  "count": 14084,
   "items": [
+    {
+      "id": "mkt:019f1f50-b228-7aab-8c66-195e85666f29",
+      "time": "2026-07-02 04:13:29",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "SoftBank is in talks with lenders to raise a $10 billion margin loan secured by its OpenAI stake and a repayment guarantee, people familiar with the matter said. Goldman Sachs, JP Morgan and Mizuho Financial Group are expected to join the lending syndicate."
+    },
+    {
+      "id": "4965902",
+      "time": "2026-07-02 04:10:47",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：羅斯福總統提醒我們所有人，想要成為偉大且自由的國家，我們必須擁有勇氣。正如老羅斯福所言，自由絕非能長久握在懦夫手中的饋贈。"
+    },
+    {
+      "id": "mkt:019f1f4d-c351-7aab-8c66-1212b59b6b99",
+      "time": "2026-07-02 04:10:17",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "US President Trump said Spain is a NATO member but not a very good one, adding its behavior is not very friendly and that it will learn what to do."
+    },
     {
       "id": "mkt:019f1f4c-9a6a-7aab-8c66-083b2626d547",
       "time": "2026-07-02 04:09:01",
@@ -129730,109 +129754,6 @@
         "國際"
       ],
       "text": "美光科技：目前無法預測記憶體供應何時能趕上需求；預計緊張局面將持續到2027年之後。"
-    },
-    {
-      "id": "mkt:019efb44-74dd-7dd8-b104-43ded5273587",
-      "time": "2026-06-25 04:13:47",
-      "tags": [
-        "MKT News",
-        "Important",
-        "MU.O",
-        "Impact bullish"
-      ],
-      "text": "Micron Technology (MU.O) CEO said he cannot predict when memory supply will catch up to demand and expects the tight supply-demand balance to persist beyond 2027."
-    },
-    {
-      "id": "mkt:019efb43-dd9e-7dd8-b104-381cff8a8b7e",
-      "time": "2026-06-25 04:13:09",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "Chip Wars",
-        "MU.O",
-        "Impact bullish"
-      ],
-      "text": "Micron Technology (MU.O) says R&D on next-generation DRAM and NAND nodes is progressing well and expects to begin mass production in H2 2027."
-    },
-    {
-      "id": "mkt:019efb43-bd4d-7dd8-b104-33d4f776e01b",
-      "time": "2026-06-25 04:13:01",
-      "tags": [
-        "MKT News",
-        "MU.O",
-        "Impact bullish"
-      ],
-      "text": "Micron Technology (MU.O) said the mass-production ramp of its 12-layer HBM4 is currently twice that of the 12-layer HBM3E; the company has delivered more than $1 bln in cumulative HBM4 revenue."
-    },
-    {
-      "id": "mkt:019efb43-80bf-7dd8-b104-2d44b1fba88d",
-      "time": "2026-06-25 04:12:45",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Themes",
-        "AI Revolution",
-        "MU.O",
-        "Impact bullish",
-        "Nasdaq100",
-        "S&P500"
-      ],
-      "text": "【Micron posts strong results, rises nearly 10% after hours】Micron Technology said it expects fourth fiscal-quarter revenue of $50.0 bln +/- $1.0 bln, above analysts' average forecast of $43.58 bln, and attributed strength to continued demand for AI-related infrastructure. The company said generative AI growth has made HBM and similar products essential for large data centres, driving sharp price gains. Third-quarter revenue was $41.4 bln, beating expectations of $35.4 bln. Micron shares rose about 10% in after-hours trading."
-    },
-    {
-      "id": "4953445",
-      "time": "2026-06-25 04:11:44",
-      "tags": [
-        "公司"
-      ],
-      "text": "高通執行長：公司將擴大與 Hugging Face 的戰略合作關係。"
-    },
-    {
-      "id": "mkt:019efb42-3522-7dd8-b104-22cb8a360366",
-      "time": "2026-06-25 04:11:20",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "U.S. official says Trump will include language in a supplemental appropriations bill to allow year‑round sales of gasoline blended with a higher ethanol share."
-    },
-    {
-      "id": "4953444",
-      "time": "2026-06-25 04:10:53",
-      "tags": [
-        "其他"
-      ],
-      "text": "美光科技：下一代 DRAM 與 NAND 製程研發進展順利，按計劃將於 2027 年下半年啟動量產。"
-    },
-    {
-      "id": "te:markets:561640",
-      "time": "2026-06-25 04:10:28",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Stock Market",
-        "Importance 2"
-      ],
-      "text": "Wall Street Closes Mixed Ahead of Micron Earnings — US equities closed mixed on Wednesday as losses in chipmakers ahead of Micron earnings weighed. The S&P 500 fell 0.1%, while the Nasdaq 100 lost 0.4%. Micron dropped 0.4% ahead of its earnings report, due after the bell, as investors focus on whether AI-driven demand can sustain the sector’s rally. The move followed a 13% plunge in the previous session amid growing concerns that capital expenditure by AI companies may have become excessive. Other semiconductor producers also traded lower, with Nvidia down 0.7%, and Intel shedding 0.3%. AI-related fundraising remained elevated, with SK Hynix reportedly seeking to raise $29 billion through a US listing, shortly after SpaceX’s record IPO. Other sectors found support from lower Treasury yields as prospects of restored energy exports from the Middle East eased inflation concerns. The Dow Jones outperformed, rising 182 points, aided by its exposure to traditional sectors, ahead of Alphabet replacing Verizon in the index on Monday."
-    },
-    {
-      "id": "4953443",
-      "time": "2026-06-25 04:10:25",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國官員：特朗普將在補充撥款法案中納入全年銷售高乙醇含量汽油的相關條款。"
-    },
-    {
-      "id": "4953442",
-      "time": "2026-06-25 04:10:08",
-      "tags": [
-        "其他"
-      ],
-      "text": "美光科技：HBM4 12 層堆疊晶片量產爬坡速度是 HBM3E 12 層堆疊的兩倍；HBM4 相關出貨營收已超 10 億美元。"
     }
   ]
 }
