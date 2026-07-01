@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-02 02:55:24",
-  "count": 14131,
+  "updated": "2026-07-02 02:59:11",
+  "count": 14125,
   "items": [
     {
       "id": "4965863",
@@ -130175,67 +130175,6 @@
         "市場"
       ],
       "text": "恒指期貨夜盤收跌0.30%，報23269.77點，低水142.41點。"
-    },
-    {
-      "id": "4953361",
-      "time": "2026-06-25 02:59:03",
-      "tags": [
-        "其他"
-      ],
-      "text": "高通資料部門主管：高通已贏得兩筆超大規模雲廠商重大訂單，將為高通帶來可觀收入。"
-    },
-    {
-      "id": "mkt:019efaff-d6f5-7dd8-b102-cd0de0b68315",
-      "time": "2026-06-25 02:58:51",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "Chip Wars",
-        "Magnificent 7",
-        "Star Stocks",
-        "Meta Platforms",
-        "QCOM.O",
-        "Impact bullish",
-        "META.O",
-        "Impact mixed"
-      ],
-      "text": "Qualcomm said Meta plans to deploy Qualcomm's C1000 server CPU in Meta's data centers."
-    },
-    {
-      "id": "mkt:019efaff-67f9-7dd8-b102-c01ed095116d",
-      "time": "2026-06-25 02:58:22",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "Chip Wars",
-        "QCOM.O"
-      ],
-      "text": "Qualcomm said the Dragonfly C1000 CPU will launch in 2028."
-    },
-    {
-      "id": "4953360",
-      "time": "2026-06-25 02:56:37",
-      "tags": [
-        "公司",
-        "焦點"
-      ],
-      "text": "Meta執行長馬克·扎克伯格：在多代戰略協作框架下，高通將成為Meta的資料中心CPU供應商。"
-    },
-    {
-      "id": "4953359",
-      "time": "2026-06-25 02:56:20",
-      "tags": [
-        "其他"
-      ],
-      "text": "高通：飛龍C1000伺服器CPU將於2028年推出，Meta計劃在自有資料中心採用該款處理器。"
-    },
-    {
-      "id": "4953358",
-      "time": "2026-06-25 02:55:43",
-      "tags": [
-        "公司"
-      ],
-      "text": "瑞典法院再次推遲作出Pricerunner訴谷歌反壟斷案的判決。"
     }
   ]
 }
