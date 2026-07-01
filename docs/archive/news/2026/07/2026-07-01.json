@@ -1,7 +1,108 @@
 {
   "date": "2026-07-01",
-  "count": 1661,
+  "count": 1673,
   "items": [
+    {
+      "id": "mkt:019f1c9d-66ed-7aab-8c4e-f67871d52f34",
+      "time": "2026-07-01 15:38:25",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【China Securities Investment Fund Association: May ABS filings 108, new filings CNY95.912bn】China Securities Investment Fund Association reported 108 new ABS filings in May 2026, totaling CNY95.912 billion. Top three underlying asset types by new filing size were financing-lease receivables CNY24.57 billion, accounts receivable CNY22.826 billion and microloan receivables CNY15.399 billion. As of end-May, 2,781 ABS were outstanding, totaling CNY2.398 trillion. ABS backed by accounts receivable, real-estate-holding assets, CMBS, financing-lease receivables and microloan receivables accounted for CNY1.873 trillion (78.11%) of outstanding; other asset types totaled CNY524.903 billion (21.89%)."
+    },
+    {
+      "id": "mkt:019f1c9c-d019-7aab-8c4e-ed1ff56259c7",
+      "time": "2026-07-01 15:37:46",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【AMAC surveys top quant private funds on factor crowding, leverage and liquidity risk】In June the Asset Management Association of China (AMAC) convened leading quantitative private fund managers to review AUM and year‑on‑year changes, research and trading headcount and allocation, strategy features and evolution, compliance and industry risks. Participants discussed flagship strategy capacity limits and differentiated measures to address factor homogeneity, and recent YTD operational changes. Risk sessions covered use of leverage tools — direct market access (DMA) and total‑return swaps — reported leverage multiples, funds’ stress‑testing and risk‑control frameworks, and liquidity risk from crowded/homogenous trading."
+    },
+    {
+      "id": "4964475",
+      "time": "2026-07-01 15:37:06",
+      "tags": [
+        "市場",
+        "焦點",
+        "A股"
+      ],
+      "text": "【A股交易新規將於7月6日起正式施行，主機板ST股漲跌幅提至10%】經過兩個多月的市場技術與業務準備，A股交易新規將於2026年7月6日（下週一）起正式施行。新規最佳化基金收盤交易機制、擴充套件盤後固定價格交易方式適用品種、主機板ST股漲跌幅提至10%。對於投資者而言，需要關注三方面：一是調整基金尾盤交易習慣，最後三分鐘投資者僅可提交限價申報，且不可撤單，所有委託統一集合競價撮合；二是盤後固定價格交易按照收盤價成交，無法自主定價，同時交易活躍程度與連續競價有較大差異；三是審慎參與主機板風險警示股票交易。（第一財經）"
+    },
+    {
+      "id": "mkt:019f1c9c-0ef8-7aab-8c4e-e329c8472bfc",
+      "time": "2026-07-01 15:36:57",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "India's Nifty IT index fell more than 1%."
+    },
+    {
+      "id": "4964474",
+      "time": "2026-07-01 15:36:53",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "印度財政部長西塔拉曼啟程訪問法國。"
+    },
+    {
+      "id": "4964473",
+      "time": "2026-07-01 15:36:43",
+      "tags": [
+        "公司"
+      ],
+      "text": "【勁旅環境等成立智行科技公司 含AI及無人飛行器業務】企查查APP顯示，近日，廈門勁旅星能智行科技有限公司成立，經營範圍包含：人工智慧理論與演算法軟體開發；人工智慧應用軟體開發；智慧無人飛行器銷售；人工智慧通用應用系統等。企查查股權穿透顯示，該公司由勁旅環境等共同持股。"
+    },
+    {
+      "id": "4964472",
+      "time": "2026-07-01 15:36:18",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "印度NIFTY IT指數下跌1.1%。"
+    },
+    {
+      "id": "4964471",
+      "time": "2026-07-01 15:36:09",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【歐盟科技事務負責人與蘋果執行長就共同關心的議題進行了富有建設性的會談】歐盟委員會發言人表示，歐盟科技專員亨娜·維爾庫寧（Henna Virkkunen）週一透過視訊通話與蘋果執行長蒂姆·庫克（Tim Cook）進行了“建設性”的會談。該發言人週三補充道，雙方就“共同關心的議題”進行了討論，相關工作仍在繼續。這家iPhone製造商表示，其Siri人工智慧服務最初不會在歐盟地區的iPhone或iPad上提供，並指責歐盟委員會拒絕與其進行建設性對話以確保其裝置的隱私和安全；而歐盟委員會則指責蘋果，稱該公司未能開發出符合歐盟標準的“互操作性”。"
+    },
+    {
+      "id": "4964470",
+      "time": "2026-07-01 15:35:52",
+      "tags": [
+        "其他"
+      ],
+      "text": "【馬士基：委內瑞拉拉瓜伊拉港尚未獲準恢復運營】馬士基7月1日釋出地震後委內瑞拉業務最新通報稱，委主要港口拉瓜伊拉港的商業運營尚未獲準恢復，經由該港的進出口貨物運輸將繼續暫停，直至另行通知。除拉瓜伊拉港外，馬士基在委內瑞拉境內的其他所有港口業務均照常進行。"
+    },
+    {
+      "id": "4964469",
+      "time": "2026-07-01 15:35:49",
+      "tags": [
+        "公司"
+      ],
+      "text": "【友達光電新設創新研究院，技術長廖唯倫擔任院長】7月1日，友達光電宣佈新設創新研究院，並任命友達技術長廖唯倫擔任創新研究院院長，管理轄下CPO光通訊、AR眼鏡及低軌衛星通訊天線專責團隊，整合“顯示科技”、“智慧移動”、“垂直場域”三大事業在基礎研究的資源，加速技術創新落地與產品商業化程序。三大事業及創新研究院將向友達總經理暨集團營運長柯富仁彙報。"
+    },
+    {
+      "id": "4964467",
+      "time": "2026-07-01 15:34:50",
+      "tags": [
+        "公司"
+      ],
+      "text": "【龍圖光罩：先進封裝客戶合作仍處小批次階段 對業績影響有限】龍圖光罩公告稱，公司因在投資者調研活動中提及與先進封裝廠商合作情況，引發市場關注。先進封裝用掩模技術節點與單價低於半導體IC掩模版，對業績貢獻有限。目前，與日月光、通富微電等客戶合作仍處小批次階段，華天科技銷售金額佔營收比例低，封裝產品整體收入佔比也低，對業績影響有限。公司提醒投資者注意交易風險，以指定媒體資訊為準。"
+    },
+    {
+      "id": "mkt:019f1c99-fb4f-7aab-8c4e-da7c5e5f5dcf",
+      "time": "2026-07-01 15:34:41",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "TikTok plans to cut about 300 jobs in Dublin as part of a restructuring that will also create new roles."
+    },
     {
       "id": "4964466",
       "time": "2026-07-01 15:34:24",
