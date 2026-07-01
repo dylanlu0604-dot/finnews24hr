@@ -1,7 +1,177 @@
 {
-  "updated": "2026-07-01 23:35:23",
-  "count": 14259,
+  "updated": "2026-07-01 23:41:07",
+  "count": 14263,
   "items": [
+    {
+      "id": "4965749",
+      "time": "2026-07-01 23:39:42",
+      "tags": [
+        "公司"
+      ],
+      "text": "豐田北美汽車公司：第二季度，豐田北美汽車銷量達 673,971 輛。"
+    },
+    {
+      "id": "4965748",
+      "time": "2026-07-01 23:39:12",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國斯巴魯：2026 年 6 月汽車銷量達 54909 輛。"
+    },
+    {
+      "id": "mkt:019f1e55-8ec9-7aab-8c62-5ae4252dd78c",
+      "time": "2026-07-01 23:39:11",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish",
+        "S&P500",
+        "Impact bearish",
+        "EURUSD"
+      ],
+      "text": "U.S. Trade Representative Greer said the U.S. will not extend the United States–Mexico–Canada Agreement and will review it annually."
+    },
+    {
+      "id": "mkt:019f1e54-aba4-7aab-8c62-534f30f849cc",
+      "time": "2026-07-01 23:38:13",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Meta Platforms",
+        "Market Themes",
+        "Magnificent 7",
+        "META.O",
+        "Impact bearish"
+      ],
+      "text": "Per a letter from India's Ministry of Electronics and Information Technology, the government has asked Meta to delay launching WhatsApp's \"username\" feature until related consultations conclude."
+    },
+    {
+      "id": "mkt:019f1e54-8198-7aab-8c62-4d6b48153eb0",
+      "time": "2026-07-01 23:38:02",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Meta Platforms",
+        "Market Themes",
+        "Magnificent 7",
+        "META.O"
+      ],
+      "text": "India's Ministry of Electronics and Information Technology (MeitY) has asked Meta Platforms (META.O) to submit a detailed explanation within three days on WhatsApp's username feature, according to a ministry letter."
+    },
+    {
+      "id": "4965746",
+      "time": "2026-07-01 23:37:41",
+      "tags": [
+        "國際"
+      ],
+      "text": "印度資訊科技部：印度政府要求Meta暫緩推出 WhatsApp “使用者名稱” 功能，直至相關事項磋商完畢。"
+    },
+    {
+      "id": "mkt:019f1e53-ca4b-7aab-8c62-431407bf298a",
+      "time": "2026-07-01 23:37:15",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Industrial Metals",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "【Missouri aluminum smelter to restart before year-end after two-year idle, cites Trump-era tariffs】Magnitude 7 Metals will restart partial production at its idled Missouri aluminum smelter before year-end, adding about 75,000 tonnes/year to U.S. capacity. The company attributed the decision to Section 232 aluminum tariffs implemented under the Trump administration, which target imports used in autos, beverage cans and construction. The smelter was shut in 2024."
+    },
+    {
+      "id": "mkt:019f1e53-c08a-7aab-8c62-391a7c3c4374",
+      "time": "2026-07-01 23:37:12",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "DAX",
+        "Impact bullish",
+        "FTSE100",
+        "Impact bearish"
+      ],
+      "text": "European equities were mixed on July 1 (Wed): Germany's DAX 30 closed up 64.28 pts (+0.26%) at 25,043.53; UK’s FTSE 100 fell 19.51 pts (-0.19%) to 10,477.61; France's CAC 40 fell 66.70 pts (-0.79%) to 8,337.29; Euro Stoxx 50 fell 46.49 pts (-0.73%) to 6,281.60; Spain's IBEX 35 fell 49.67 pts (-0.26%) to 19,409.03; Italy's FTSE MIB fell 78.93 pts (-0.15%) to 51,603.50."
+    },
+    {
+      "id": "4965745",
+      "time": "2026-07-01 23:36:57",
+      "tags": [
+        "公司",
+        "焦點",
+        "國際"
+      ],
+      "text": "【受特朗普關稅推動，美密蘇里州鋁冶煉廠停產兩年後將於年底復產】據外媒報道，美國密蘇里州已停產的鋁冶煉廠將在今年年底前恢復生產，在特朗普政府推動振興本土工業的背景下，這將有助於提升美國鋁產量。Magnitude 7 Metals將重啟該冶煉廠的部分產能，新增年產量約75,000公噸。備忘錄顯示，公司將此次重啟歸因於美國總統特朗普依據《232條款》實施的鋁關稅政策，該政策針對用於汽車、易拉罐及建築行業的進口鋁產品。該鋁冶煉廠於2024年停產。"
+    },
+    {
+      "id": "4965744",
+      "time": "2026-07-01 23:36:34",
+      "tags": [
+        "其他"
+      ],
+      "text": "【古特雷斯：聯大財務規則改革將有助於增強聯合國財務穩定性】當地時間7月1日，聯合國秘書長古特雷斯在紐約聯合國總部表示，聯合國大會日前決定改革聯合國財務規則，將有助於聯合國更負責任地管理資源、保障業務連續性，並更好支援關鍵授權，尤其是維和行動。古特雷斯當天在記者會上說，長期以來，聯合國預算程式面臨一個根本性矛盾：會員國並不總是按時、足額繳納分攤會費，但聯合國卻經常被要求返還未支出資金，即使這些資金由於會員國欠繳會費而實際上並未收到。（央視新聞）"
+    },
+    {
+      "id": "4965743",
+      "time": "2026-07-01 23:36:09",
+      "tags": [
+        "公司"
+      ],
+      "text": "達飛海運集團：憑藉現有船舶訂單，我們將在 2027 年底超越馬士基，登頂全球第二大集裝箱航運企業。"
+    },
+    {
+      "id": "mkt:019f1e51-ea20-7aab-8c62-30999b76115b",
+      "time": "2026-07-01 23:35:12",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y",
+        "Impact mixed",
+        "DXY"
+      ],
+      "text": "US 4-month Treasury auction to July 1: 57.66% of awards allocated at the stop-out yield, vs 11.15% previously."
+    },
+    {
+      "id": "4965742",
+      "time": "2026-07-01 23:35:06",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "美國貿易代表格里爾：美墨加協定談判的關鍵在於解決美國的貿易逆差問題，美墨加協定存在實質性問題需要解決。"
+    },
+    {
+      "id": "mkt:019f1e51-cfc5-7aab-8c62-2f4d686ed541",
+      "time": "2026-07-01 23:35:05",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y",
+        "Impact bullish"
+      ],
+      "text": "U.S. 4-month Treasury bill auction on July 1: bid-cover ratio 2.66, prior 2.55."
+    },
+    {
+      "id": "mkt:019f1e51-bb1c-7aab-8c62-26063b7b8647",
+      "time": "2026-07-01 23:35:00",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields"
+      ],
+      "text": "US 4-month Treasury auction on July 1 — stop-out yield 3.795%, prior 3.77%."
+    },
+    {
+      "id": "mkt:019f1e51-a61a-7aab-8c62-1cd47e10dc60",
+      "time": "2026-07-01 23:34:55",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United States | 4-Month Bill Auction Bid/Cover Ratio (Jul.1) | actual 2.66 | previous 2.55"
+    },
     {
       "id": "mkt:019f1e51-8b1e-7aab-8c62-133e3c6bd6bc",
       "time": "2026-07-01 23:34:48",
@@ -10,6 +180,14 @@
         "Economic Calendar"
       ],
       "text": "United States | 4-Month Bill Auction High Yield Rate (Jul.1) | actual 3.795% | previous 3.77%"
+    },
+    {
+      "id": "4965741",
+      "time": "2026-07-01 23:34:43",
+      "tags": [
+        "國際"
+      ],
+      "text": "印度資訊科技部發函，要求Meta在三日內就 WhatsApp “使用者名稱” 功能提交詳細說明。"
     },
     {
       "id": "mkt:019f1e51-5df8-7aab-8c62-0a983f1ef529",
@@ -131366,131 +131544,6 @@
         "MKT News"
       ],
       "text": "【Magnitude 5.5 earthquake in Northern California】The European-Mediterranean Seismological Centre (EMSC) reported a magnitude-5.5 earthquake in Northern California on June 24 (local time)."
-    },
-    {
-      "id": "4953147",
-      "time": "2026-06-24 23:41:06",
-      "tags": [
-        "國際"
-      ],
-      "text": "【美國加利福尼亞州北部地區發生5.5級地震】當地時間6月24日，據歐洲—地中海地震中心（EMSC）訊息，美國加利福尼亞州北部地區發生5.5級地震。（央視新聞）"
-    },
-    {
-      "id": "4953146",
-      "time": "2026-06-24 23:40:37",
-      "tags": [
-        "公司"
-      ],
-      "text": "阿根廷國家石油公司CEO：與比德投資集團（Bidinvest）簽署價值5億美元的瓦卡穆爾塔油氣專案投資協議。"
-    },
-    {
-      "id": "te:markets:561607",
-      "time": "2026-06-24 23:40:23",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "commodity",
-        "Importance 0"
-      ],
-      "text": "Lead Hits 10-week Low — Lead decreased to 1922.00 USD/T, the lowest since April 2026. Over the past 4 weeks, Lead lost 4.9%, and in the last 12 months, it decreased 5.68%."
-    },
-    {
-      "id": "4953145",
-      "time": "2026-06-24 23:39:57",
-      "tags": [
-        "公司"
-      ],
-      "text": "體育競猜應用Onyx Odds完成2000萬美元融資，本輪由加密交易所Kraken母公司Payward領投。"
-    },
-    {
-      "id": "4953144",
-      "time": "2026-06-24 23:39:20",
-      "tags": [
-        "國際"
-      ],
-      "text": "以色列總理內塔尼亞胡：只要我擔任總理，我們就會維持黎巴嫩南部的“安全區”。"
-    },
-    {
-      "id": "mkt:019efa49-2c08-7dd8-b0fe-b11ba2ca16f0",
-      "time": "2026-06-24 23:39:19",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Industrial Metals"
-      ],
-      "text": "LME three-month aluminum fell to $3,110 a tonne, the lowest since Feb 25, down 3.6%."
-    },
-    {
-      "id": "mkt:019efa48-f40f-7dd8-b0fe-a81ecdc804f4",
-      "time": "2026-06-24 23:39:05",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK",
-        "DAX",
-        "Impact bearish",
-        "FTSE100",
-        "Impact bullish"
-      ],
-      "text": "Germany's DAX fell 197.03 pts (-0.79%) to 24,740.00 at the close on June 24; Britain's FTSE 100 rose 34.31 pts (0.33%) to 10,463.16; France's CAC 40 gained 44.78 pts (0.54%) to 8,385.49; Euro STOXX 50 slipped 12.10 pts (-0.19%) to 6,218.45; Spain's IBEX 35 fell 89.69 pts (-0.46%) to 19,386.81; Italy's FTSE MIB dropped 382.91 pts (-0.74%) to 51,641.50."
-    },
-    {
-      "id": "4953143",
-      "time": "2026-06-24 23:38:46",
-      "tags": [
-        "其他",
-        "焦點"
-      ],
-      "text": "倫敦金屬交易所（LME）三個月期鋁跌至每噸3110美元，為2月25日以來最低水平，最新跌幅為3.6%。"
-    },
-    {
-      "id": "4953142",
-      "time": "2026-06-24 23:37:37",
-      "tags": [
-        "國際"
-      ],
-      "text": "歐洲地中海地震中心：美國加利福尼亞州北部發生5.7級地震，震源深度8千米。"
-    },
-    {
-      "id": "te:markets:561606",
-      "time": "2026-06-24 23:37:34",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 0"
-      ],
-      "text": "Brent Crude Oil Hits Pre-War Levels — Brent Crude oil fell below $74 a barrel on Wednesday, reaching its lowest level since late February, as increasing tanker traffic through the Strait of Hormuz and progress in US-Iran peace talks eased supply fears. Shipowners are confidently transiting the chokepoint with active satellite signals following safety guarantees from the International Maritime Organization. The International Energy Agency estimates the United Arab Emirates is exporting oil at nearly 85% of pre-war levels, selling roughly 60 million barrels from the Persian Gulf recently. Consequently, oil prices have dropped about 40% from their wartime peak. This resumed global flow overshadowed US data from the Energy Information Administration showing US crude inventories plunged to their lowest since 1984, with Cushing stockpiles dipping below operational minimums."
-    },
-    {
-      "id": "4953141",
-      "time": "2026-06-24 23:36:57",
-      "tags": [
-        "國際"
-      ],
-      "text": "以色列總理內塔尼亞胡：安全無法靠空談換取。安全源於實力與堅定的決心。遵循一條簡單的準則，我們的先祖早已深諳此理“若有人前來取你性命，當先起身將其斬殺”。"
-    },
-    {
-      "id": "te:markets:561605",
-      "time": "2026-06-24 23:35:32",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Heating Oil Falls to Over 3-Month Low — Heating oil futures for delivery in the New York Harbor fell to below $3.15 per gallon in late June, hovering near their lowest level since early March, on evidence that oil exports from the Middle East are gradually returning. Satellite data showed that loaded tankers are crossing the Strait of Hormuz as the memorandum of understanding and improved talks between the US and Iran drove both countries to lift their blockade. On top of that, the US remained on track to lift sanction on Iran to unlock fresh sources of energy supply from Western refiners and dollar buyers. Unlike crude oil prices, heating oil futures remained above pre-Iran war levels from late February. Distilling capacity in refiners was hit the hardest from depleted feedstock inventories in Europe and Asia, exemplified by shortages of jet fuel. On top of that, denser crude oil grades from the Persian Gulf, which commonly yield more diesel, were still not at full capacity due to attacks on local refineries."
-    },
-    {
-      "id": "te:markets:561604",
-      "time": "2026-06-24 23:35:30",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 2"
-      ],
-      "text": "Crude Oil Falls Below $70 — Crude oil fell below $70 a barrel on Wednesday, reaching its lowest level since late February, as increasing tanker traffic through the Strait of Hormuz and progress in US-Iran peace talks eased supply fears. Shipowners are confidently transiting the chokepoint with active satellite signals following safety guarantees from the International Maritime Organization. The International Energy Agency estimates the United Arab Emirates is exporting oil at nearly 85% of pre-war levels, selling roughly 60 million barrels from the Persian Gulf recently. Consequently, oil prices have dropped about 40% from their wartime peak. This resumed global flow overshadowed US data from the Energy Information Administration showing US crude inventories plunged to their lowest since 1984, with Cushing stockpiles dipping below operational minimums."
     }
   ]
 }
