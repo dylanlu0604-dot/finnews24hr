@@ -1,7 +1,41 @@
 {
-  "updated": "2026-07-01 12:38:16",
-  "count": 13935,
+  "updated": "2026-07-01 12:42:10",
+  "count": 13929,
   "items": [
+    {
+      "id": "4964224",
+      "time": "2026-07-01 12:41:17",
+      "tags": [
+        "公司"
+      ],
+      "text": "【科瑞技術：已為國內大客戶提供液冷相關裝置】科瑞技術(002957)7月1日在互動平臺表示，公司積極承接國內大客戶需求，已為國內大客戶提供液冷相關裝置。目前營收佔比較小，敬請注意投資風險。"
+    },
+    {
+      "id": "mkt:019f1bfa-7a6a-7aab-8c4b-552b96a9c224",
+      "time": "2026-07-01 12:40:27",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【China's first outbound investment administrative regulation takes effect】The State Council's Regulations on Outbound Investment take effect today. China's Statistical Bulletin on Outbound Direct Investment shows outbound investment now spans more than 190 countries and regions, with overseas enterprise assets exceeding $9 trillion. Experts say the regulation marks a shift to a high-quality phase for China's outbound investment—emphasizing comprehensive services, full-process supervision and all-scenario protection—and is a necessary measure given the sector's development stage."
+    },
+    {
+      "id": "4964223",
+      "time": "2026-07-01 12:40:09",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【我國對外投資領域首部行政法規今起施行】今天，《國務院關於對外投資的規定》正式施行。《中國對外直接投資統計公報》顯示，我國對外投資已經遍佈全球190多個國家和地區，境外企業資產總額超過9萬億美元。專家表示，《規定》的施行，標誌著我國對外投資正式進入全方位服務、全過程監管和全場景保護的高質量發展新階段，是我國對外投資發展到特定階段的必然要求。"
+    },
+    {
+      "id": "4964222",
+      "time": "2026-07-01 12:38:50",
+      "tags": [
+        "其他"
+      ],
+      "text": "【鴻蒙智行6月交付5.06萬輛，上半年同比增長18.6%逆勢領跑新能源車市】新能源市場\"價格戰\"愈演愈烈之際，鴻蒙智行交出一份逆勢增長的成績單：今日官方釋出6月銷量資料，單月交付50,624輛，環比增長9.7%；1-6月累計交付突破24萬輛，同比增長18.6%。這與行業大盤形成鮮明反差——據中國汽車工業協會資料，今年1-5月國內乘用車產銷同比分別下降6.6%和6.2%，整體承壓明顯。在全行業普遍收縮的競爭環境中，鴻蒙智行以51個月累計交付143萬輛的記錄重新整理新勢力品牌達成速度紀錄，更突顯其增長韌性。從問界M9兩週交付破8000臺，到問界M6 54天交付破3萬臺，再到尚界Z7系列單月破萬，多車型協同放量的品牌體系已逐步成型。縱觀全域性，鴻蒙智行不依賴短期降價換量，而是靠華為乾崑智駕、鴻蒙全域互聯等全棧自研技術形成差異化競爭力。隨著車規晶片國產化新規與L3級准入政策即將落地，全棧自研的前置佈局或將成為其穿越週期的關鍵底牌。（一財）"
+    },
     {
       "id": "4964221",
       "time": "2026-07-01 12:37:12",
@@ -128027,99 +128061,6 @@
         "其他"
       ],
       "text": "【Pragmatic半導體推出Pragmatic NFC Protect】6月24日，Pragmatic半導體釋出Pragmatic NFC Protect PR1311，一款整合即時篡改檢測、產品真偽驗證等功能的新型柔性低碳NFC晶片。該晶片柔性且觸感無痕，可無縫整合至產品及包裝中，消費者用手機輕觸即可確認產品開封狀態與真偽。該方案早期獲取計劃已開放，面向零售、醫藥與工業等市場。（介面）"
-    },
-    {
-      "id": "mkt:019ef7ef-7f1c-7dd8-b0eb-f645764ea172",
-      "time": "2026-06-24 12:42:08",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "【Shanghai unveils measures to fast‑track high‑level projects by foreign biopharma firms】Shanghai municipal science and technology commission, development and reform commission and other departments issued measures to speed commercialization and customs clearance of imported drugs for foreign biopharma companies. Overseas‑market drugs that obtain Chinese approval may place pre‑approval production batches on sale if they meet drug release requirements; authorities will provide enhanced business guidance and services. The plan integrates import sampling and testing and enables 24‑hour clearance facilitation to speed circulation of clinically urgent imports. Batch‑release testing for biologics and customs inspection for imported drugs will be accelerated: sampling must occur within 3 working days of arrival, and per‑batch sample volume is cut from 3x to 2x of the full‑item inspection amount."
-    },
-    {
-      "id": "4951748",
-      "time": "2026-06-24 12:42:04",
-      "tags": [
-        "國際"
-      ],
-      "text": "【美國銀行：動力煤預計將受厄爾尼諾現象支撐】美國銀行表示，儘管中東緊張局勢有所緩解，但動力煤價格可能仍會受到支撐，理由是預計將出現強烈的厄爾尼諾現象，這將帶來新的有利因素。本月早些時候，澳大利亞紐卡斯爾煤炭價格攀升至每噸150美元上方，創下約兩年來的新高。美銀表示：“儘管在海灣地區緊張局勢緩解的情況下，近期市場有所走軟，“但厄爾尼諾天氣模式“通常與南亞和東南亞部分地區更炎熱、更乾燥的天氣條件有關，應該會支撐增量煤炭消耗。”"
-    },
-    {
-      "id": "4951747",
-      "time": "2026-06-24 12:41:12",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "【上海出臺若干措施 支援生物醫藥外資企業高能級專案落地】上海市科委、市發展改革委等部門近日聯合釋出《關於支援生物醫藥外資企業高能級專案落地的若干措施》。其中提出，加快進口藥品銷售流通。境外已上市藥品在取得我國藥品批准證明檔案後，對符合藥品上市放行要求的獲批前生產的藥品，可以上市銷售，加強對其業務指導與服務。深化藥品進口通關抽樣一體化、24小時通關便利化，加速臨床急需進口藥品流通應用。加快生物製品批簽發檢驗和進口藥品通關檢驗速度，確保進口藥品到港後3個工作日內實施抽樣，並將每批次用量從全項檢驗用量的3倍減為2倍。"
-    },
-    {
-      "id": "mkt:019ef7ee-0ebd-7dd8-b0eb-e9badd8b9c76",
-      "time": "2026-06-24 12:40:34",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "India's Nifty Private Bank Index extended gains, rising 1%."
-    },
-    {
-      "id": "mkt:019ef7ed-e8dc-7dd8-b0eb-e224016d1704",
-      "time": "2026-06-24 12:40:24",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Precious Metals",
-        "XAUUSD",
-        "Impact bullish"
-      ],
-      "text": "Reserve Bank of India governor says gold in foreign-exchange reserves is held for safety and liquidity needs."
-    },
-    {
-      "id": "4951746",
-      "time": "2026-06-24 12:40:09",
-      "tags": [
-        "市場",
-        "央行",
-        "國際"
-      ],
-      "text": "印度央行行長：外匯儲備中的黃金用於保障安全，必要時可提供流動性。"
-    },
-    {
-      "id": "mkt:019ef7ed-65e5-7dd8-b0eb-d8834481446e",
-      "time": "2026-06-24 12:39:50",
-      "tags": [
-        "MKT News",
-        "Important",
-        "QCOM.O"
-      ],
-      "text": "Sources said Qualcomm (QCOM.O) is in talks with ByteDance to provide custom chip design services."
-    },
-    {
-      "id": "mkt:019ef7ed-5804-7dd8-b0eb-d42da27c2a4c",
-      "time": "2026-06-24 12:39:47",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "【Reserve Bank of India: Too early to discuss rate hikes】Reserve Bank of India Governor Sanjay Malhotra said it is too early to discuss rate hikes given current geopolitical uncertainty and that future decisions will depend on incoming data. He noted that had the bank been confident of hikes in the coming months it would already have shifted policy from neutral to tightening, but it has not because uncertainty remains high. His comments come as US‑Iran peace talks have driven oil sharply lower, a tailwind for India, which imports about 90% of its oil. Malhotra added the ceasefire is fragile and full oil supply restoration will take time; upside risks to oil have eased but the RBI will closely monitor oil’s trajectory."
-    },
-    {
-      "id": "4951745",
-      "time": "2026-06-24 12:39:43",
-      "tags": [
-        "公司"
-      ],
-      "text": "【軟銀孫正義寄望“超級AI”，瞄準6.189萬億美元淨資產價值】軟銀創始人孫正義希望在未來十年將這家科技巨頭的資產淨值提升至6.189萬億美元，基於人工“超級智慧”的前景設定了這一大膽目標。孫正義週三在東京舉行的年度股東大會上發表講話時承認，這個1,000萬億日元的目標雄心勃勃，但他表示，軟銀已一再證明了自身創造價值的能力。這位資深投資者將軟銀形容為一隻“下AI金蛋的鵝”。他表示，自從採用了一項圍繞超越人類能力的理論AI形式，也就是AI超級智慧構建的戰略以來，該公司的價值已成倍增長。軟銀的戰略核心在於孫正義所描述的一場全球性轉變，即從演算法驅動的進步轉向執行這些演算法所需的實體基礎設施。他說，世界正在向“實體ASI”邁進。在這一階段，瓶頸不再是模型設計，而是大規模執行先進系統所需的晶片、電力和資料中心算力。孫正義補充說，這正契合了軟銀致力於成為全球領先AI機器人公司的決心。"
-    },
-    {
-      "id": "4951744",
-      "time": "2026-06-24 12:38:57",
-      "tags": [
-        "市場"
-      ],
-      "text": "麥格理下調黃金展望，目前預計第三季度金價為每盎司4,450美元，較此前預測下調3.3%；第四季度為每盎司4,300美元，下調2.3%。"
     }
   ]
 }
