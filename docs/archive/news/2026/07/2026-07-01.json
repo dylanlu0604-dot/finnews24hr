@@ -1,7 +1,119 @@
 {
   "date": "2026-07-01",
-  "count": 2607,
+  "count": 2619,
   "items": [
+    {
+      "id": "4965132",
+      "time": "2026-07-01 19:33:55",
+      "tags": [
+        "其他"
+      ],
+      "text": "【1小時17分 香港到廣州北高鐵今日首發】7月1日，正值香港迴歸祖國29週年紀念日，廣深港高鐵迎來了歷史性突破：香港西九龍至廣州北站常態化直達高鐵正式開通，這是廣深港高鐵通車以來，首次實現跨境高鐵常態化停靠花都（廣州北站）。（廣州釋出）"
+    },
+    {
+      "id": "4965131",
+      "time": "2026-07-01 19:33:43",
+      "tags": [
+        "其他"
+      ],
+      "text": "Together AI完成8億美元融資，投後估值83億美元。"
+    },
+    {
+      "id": "4965130",
+      "time": "2026-07-01 19:33:20",
+      "tags": [
+        "其他"
+      ],
+      "text": "【OpenAI前高管回應有沒有AI泡沫】針對市場熱議的AI泡沫與行業風險問題，OpenAI前高管扎克·卡斯在對話中指出不存在全域性性AI泡沫。按照他曾提出的“模型收益遞減理論”，他認為風險集中在前沿模型層。（第一財經）"
+    },
+    {
+      "id": "mkt:019f1d73-bdb6-7aab-8c56-4bb2ad3c98f4",
+      "time": "2026-07-01 19:32:32",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Guansheng Co: bionic joint-arm still in R&D, not yet mass produced】Guansheng Co. said at an investor-relations meeting its intelligent bionic joint-arm is still in the R&D/iteration phase and has not entered mass production; there are no orders and no revenue from the product and the company says it remains a long way from volume manufacture. The firm said the arm uses a biomimetic joint design with integrated universal-joint technology to reduce fore-/upper-arm vibration, lower inertia and raise end-load capacity. A hierarchical control architecture (central/local “big brain–small brain” fusion) means a single limb compute-unit failure won’t disable the whole system, and arms can perform emergency obstacle avoidance via local sensors if central command is lost. End effectors are quick-change (five-finger dexterous hand, three-finger gripper, electric screwdriver), and current go-to-market focus is biomedical labs and small-item sorting."
+    },
+    {
+      "id": "4965129",
+      "time": "2026-07-01 19:32:27",
+      "tags": [
+        "央行",
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "【世界黃金協會：黃金是真正意義上的全球性資產 結構性需求支撐黃金韌性】世界黃金協會美洲區CEO兼全球研究負責人安凱（JuanCarlosArtigas）表示，今年黃金市場已明確傳達出一個訊號：黃金是真正意義上的全球性資產。金價反映的是全球範圍內的宏觀經濟和地緣政治動態，而不僅僅侷限於美國，這也是黃金能夠為投資者提供寶貴觀察視角的原因之一。利率固然重要，我們預計其將成為下半年的關鍵變數之一；但黃金錶現並非由單一因素驅動。今年金價在4,000美元/盎司附近承壓，但也曾出現過反彈，主要受到來自多個地區長期投資者的內生需求支撐。來自全球央行、機構投資者和消費者的結構性需求，正是支撐黃金韌性的基礎所在。"
+    },
+    {
+      "id": "4965128",
+      "time": "2026-07-01 19:31:31",
+      "tags": [
+        "公司"
+      ],
+      "text": "【冠盛股份：目前智慧仿生關節臂產品仍處於研發迭代階段 尚未進入量產】冠盛股份(605088)近日在投資者關係活動中對問題“公司智慧仿生關節臂產品在效能表現和場景適配性上有哪些差異化優勢？目前的技術成熟度及產業化進展如何？”回應稱，在效能表現上，關節臂借鑑人體關節機理的仿生設計，融入自身萬向節技術，能夠降低大小臂振動、減小慣量、提升末端負載能力，並且採用大小腦融合設計，單個肢體計算單元故障不會導致全身癱瘓，手臂失去中央指令後仍能基於本地感測器完成緊急避障。在場景適配性方面，末端工具可實現快速更換，機器人能夠自行切換五指靈巧手、三指夾爪、電動螺絲刀等工具，顯著提升了泛用性，目前聚焦生物醫學實驗室（替代危險操作）和小物分揀（解決重複勞動及招工難）兩個剛性需求場景。關於產業化進展，目前產品仍處於研發迭代階段，尚未進入量產，暫無訂單且未產生營業收入，距離量產還存在較長距離。"
+    },
+    {
+      "id": "mkt:019f1d72-7094-7aab-8c56-46a191cae316",
+      "time": "2026-07-01 19:31:06",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "UGA said Ukraine's grain and oilseed exports fell to 3.76 mln t in June from 4.00 mln t in May."
+    },
+    {
+      "id": "te:economy:563428",
+      "time": "2026-07-01 19:30:48",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Ghana",
+        "Inflation Rate",
+        "Importance 1"
+      ],
+      "text": "Ghana Inflation Rate Hits 6-Month Peak — The annual inflation rate in Ghana soared to 5.3% in June 2026 from 3.7% in the prior month, reaching its highest level since December 2025. Price growth accelerated for both non-food products (6.3% vs 4.1% in May) and food (3.9% vs 3.3%). On a monthly basis, the CPI rose by 0.2% in June, following a 1.1% advance in the month before."
+    },
+    {
+      "id": "mkt:019f1d71-f958-7aab-8c56-3f07d8978da8",
+      "time": "2026-07-01 19:30:36",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "【World Gold Council: Gold a truly global asset; structural demand underpins resilience】World Gold Council Americas CEO and head of global research Juan Carlos Artigas said gold is a truly global asset whose price reflects global macro and geopolitical dynamics, not just US conditions. He said interest rates remain important and are likely a key variable in H2, but gold is not driven by a single factor. After trading under about $4,000/oz earlier this year, gold has rebounded, supported by structural demand from central banks, institutional investors and consumers across regions, which underpins its resilience."
+    },
+    {
+      "id": "4965127",
+      "time": "2026-07-01 19:30:27",
+      "tags": [
+        "其他"
+      ],
+      "text": "Mobility Global Inc. 完成從 S&P Global Inc. 的分拆，作為汽車資料與分析領域的全球領導者開始在紐約證券交易所上市交易。"
+    },
+    {
+      "id": "te:markets:563426",
+      "time": "2026-07-01 19:30:01",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "US Futures Trim Week's Rally — Futures tracking US equity indices trimmed the sharp gains from this week as markets continued to gauge the sustainability of the AI trade and risks of a Fed rate hike this year. Contracts tracking the S&P 500 and the Nasdaq 100 eased 0.5%, while those for the Dow dropped 100 points from yesterday's record. Chip producers were lower premarket after the leading the rally for equities this week, reigniting the AI trade despite lingering warnings that the sector is overleveraged. Micron and Sandisk fell over 2%. Hyperscalers making up the Magnificent 7 mostly held their rebound from this week after sharply underperforming AI infrastructure companies since mid-May, with Meta, Microsoft, Amazon, and Alphabet near the flatline. Broader economic sectors were mixed. Treasury yields maintained their surge on concerns that the Fed will restrict monetary policy further this year. On the earnings front, Nike was 3% down as it flagged a cautious outlook due to consumer anxiety."
+    },
+    {
+      "id": "4965126",
+      "time": "2026-07-01 19:29:39",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金突破4040美元/盎司，日內漲0.08%。"
+    },
     {
       "id": "mkt:019f1d70-cf73-7aab-8c56-30b7bb412811",
       "time": "2026-07-01 19:29:20",
