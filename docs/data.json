@@ -1,7 +1,61 @@
 {
-  "updated": "2026-07-02 04:17:49",
-  "count": 14081,
+  "updated": "2026-07-02 04:21:40",
+  "count": 14076,
   "items": [
+    {
+      "id": "mkt:019f1f57-bc6f-7aab-8c66-2caf0229e8bf",
+      "time": "2026-07-02 04:21:11",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Dollar index up 0.2% to 101.39 at New York close】The dollar index, measuring the dollar against six major currencies, rose 0.2% to 101.39 at the New York close. EUR/USD 1.1380 (previous session 1.1420); GBP/USD 1.3278 (1.3255); USD/JPY 162.53 (162.62); USD/CHF 0.8092 (0.8083); USD/CAD 1.4216 (1.4204); USD/SEK 9.7300 (9.7005)."
+    },
+    {
+      "id": "4965910",
+      "time": "2026-07-02 04:20:25",
+      "tags": [
+        "市場"
+      ],
+      "text": "【美元指數1日上漲】美元指數1日上漲。衡量美元對六種主要貨幣的美元指數當天上漲0.2%，在匯市尾市收於101.39。截至紐約匯市尾市，1歐元兌換1.1380美元，低於前一交易日的1.1420美元；1英鎊兌換1.3278美元，高於前一交易日的1.3255美元。1美元兌換162.53日元，低於前一交易日的162.62日元；1美元兌換0.8092瑞士法郎，高於前一交易日的0.8083瑞士法郎；1美元兌換1.4216加元，高於前一交易日的1.4204加元；1美元兌換9.7300瑞典克朗，高於前一交易日的9.7005瑞典克朗。"
+    },
+    {
+      "id": "4965909",
+      "time": "2026-07-02 04:19:01",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場資訊：一股極端高溫熱浪席捲美國東部半數地區。"
+    },
+    {
+      "id": "4965908",
+      "time": "2026-07-02 04:18:23",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗議會議長卡利巴夫：不允許對遭轟炸的伊朗核設施開展核查。"
+    },
+    {
+      "id": "te:markets:563535",
+      "time": "2026-07-02 04:17:56",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "US Stocks Slide as Chipmakers Sink — US equity indices closed lower on Wednesday as investors reassessed the sustainability of the AI-driven rally. The S&P 500 fell 0.2%, while the Nasdaq 100 dropped 1.5%, pressured by a sharp selloff in semiconductor stocks. Major chipmakers led the decline as concerns persisted that AI-related investments may have become overstretched. Micron Technology plunged 10.6%, while AMD lost 6.9% and Intel dropped 9%. In contrast, Meta surged 8.8% after announcing plans to develop a cloud business aimed at monetizing excess AI computing capacity. Other hyperscalers within the Magnificent Seven extended their rebound, with Microsoft rising 3%, Amazon gaining 1.4%, and Alphabet up 1.1%. Meanwhile, the Dow Jones closed near flat as economically sensitive sectors outperformed after data showed US manufacturing activity expanded for a sixth straight month while input cost pressures eased. Fed Chairman Warsh noted that inflation risks are decreasing, limiting the need for an urgent hawkish response."
+    },
+    {
+      "id": "mkt:019f1f54-b5e6-7aab-8c66-24bf8929ee5a",
+      "time": "2026-07-02 04:17:52",
+      "tags": [
+        "MKT News",
+        "9984.T",
+        "Impact bullish"
+      ],
+      "text": "【Sources: SoftBank restarts $10 bln loan talks secured by OpenAI stake, offers concessions】SoftBank has restarted negotiations on a $10 bln loan secured by its OpenAI stake, two people familiar with the matter said. Talks had stalled amid lender concerns about valuing a private-company stake. To address those concerns, SoftBank proposed guarantees and contractual recourse allowing lenders to pursue SoftBank if the OpenAI collateral falls in value. The lending group is expected to include Goldman Sachs, JP Morgan and Mizuho Financial Group."
+    },
     {
       "id": "4965907",
       "time": "2026-07-02 04:15:43",
@@ -129614,107 +129668,6 @@
         "MKT News"
       ],
       "text": "Pezeshkian said Iran's dignity and pride derive from the guidance of the revolutionary martyrs' leader and pledged to steadfastly continue that leader's path."
-    },
-    {
-      "id": "4953457",
-      "time": "2026-06-25 04:21:29",
-      "tags": [
-        "其他"
-      ],
-      "text": "高通預計到 2029 財年，非手機業務營收將達 400 億美元。"
-    },
-    {
-      "id": "4953456",
-      "time": "2026-06-25 04:20:42",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：歐洲在伊朗戰爭期間沒有支援美國。"
-    },
-    {
-      "id": "4953455",
-      "time": "2026-06-25 04:20:31",
-      "tags": [
-        "市場",
-        "央行",
-        "國際"
-      ],
-      "text": "【拉美外匯觸及兩週低點，美元走強與大宗商品施壓股市】週三，拉丁美洲的股市和貨幣雙雙下滑，受到強勢美元的壓力。與此同時，投資者也在權衡近期由秘魯和哥倫比亞右翼候選人勝選所引發的市場反彈能否持續。追蹤拉美貨幣的MSCI指數下跌0.5%，觸及兩週多以來的低點。美元延續漲勢，攀升至13個月高點。在全球市場週二出現科技股領跌的拋售後，投資者紛紛湧入美元避險，加之市場對美聯儲加息的預期升溫。秘魯股市和哥倫比亞股市分別下跌0.8%和1.9%，兩國市場均可能連續第三個交易日收跌。貨幣市場表現同樣不佳，秘魯索爾跌0.5%，哥倫比亞比索從五年多高點回落，走弱0.3%。"
-    },
-    {
-      "id": "mkt:019efb4a-361d-7dd8-b104-8f0f476b0352",
-      "time": "2026-06-25 04:20:05",
-      "tags": [
-        "MKT News",
-        "Important",
-        "MU.O"
-      ],
-      "text": "Micron Technology will begin its fiscal 2026 third-quarter earnings call in 10 minutes."
-    },
-    {
-      "id": "mkt:019efb49-9a32-7dd8-b104-878101ae0d87",
-      "time": "2026-06-25 04:19:25",
-      "tags": [
-        "MKT News",
-        "MU.O",
-        "Impact bullish"
-      ],
-      "text": "Micron Technology (MU.O) said strategic customer agreements signed to date are expected to provide about $22 billion in cash deposits and related financial commitments."
-    },
-    {
-      "id": "mkt:019efb49-41c3-7dd8-b104-7ef3617484ea",
-      "time": "2026-06-25 04:19:02",
-      "tags": [
-        "MKT News",
-        "MU.O",
-        "Impact bullish"
-      ],
-      "text": "Micron Technology (MU.O) said it expects to gradually return all excess cash to shareholders."
-    },
-    {
-      "id": "mkt:019efb48-fc73-7dd8-b104-7529a6d41e84",
-      "time": "2026-06-25 04:18:44",
-      "tags": [
-        "MKT News",
-        "MU.O"
-      ],
-      "text": "Micron Technology (MU.O) said potential impacts from trade or geopolitical developments are not included in its earnings guidance."
-    },
-    {
-      "id": "4953452",
-      "time": "2026-06-25 04:18:13",
-      "tags": [
-        "公司"
-      ],
-      "text": "明晟公司（MSCI）：霍尼韋爾航空航天板塊將於 2026 年 6 月 30 日納入 MSCI 全球標準指數及大盤股指數。"
-    },
-    {
-      "id": "mkt:019efb48-7a9a-7dd8-b104-6b8c03590c72",
-      "time": "2026-06-25 04:18:11",
-      "tags": [
-        "MKT News",
-        "MU.O",
-        "Impact mixed"
-      ],
-      "text": "Micron Technology (MU.O) expects capex in each quarter of fiscal 2027 to exceed fiscal 2026 Q4 levels."
-    },
-    {
-      "id": "4953451",
-      "time": "2026-06-25 04:17:58",
-      "tags": [
-        "其他"
-      ],
-      "text": "傑富瑞第二季度淨收入為22.1億美元，預估為22.2億美元；第二季度每股收益1.02美元，預期為1.24美元。"
-    },
-    {
-      "id": "4953450",
-      "time": "2026-06-25 04:17:49",
-      "tags": [
-        "公司",
-        "焦點",
-        "國際"
-      ],
-      "text": "美光科技：計劃提高資本回報。預計2027財年的專案運營費用將增加約10億美元。預計第四財季資本支出約為100億美元。預計2026財年全年資本支出約為270億美元。"
     }
   ]
 }
