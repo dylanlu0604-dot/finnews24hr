@@ -1,7 +1,99 @@
 {
   "date": "2026-07-01",
-  "count": 1207,
+  "count": 1216,
   "items": [
+    {
+      "id": "mkt:019f1bde-3f31-7aab-8c4a-e0e34217a23a",
+      "time": "2026-07-01 12:09:37",
+      "tags": [
+        "MKT News",
+        "EURUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "ECB Governing Council member Demarco said even the euro area's latest, relatively mild forecast scenario still assumes further policy tightening; if incoming data validate that scenario, the ECB may need to raise rates further."
+    },
+    {
+      "id": "mkt:019f1bdd-fb89-7aab-8c4a-d85438656174",
+      "time": "2026-07-01 12:09:20",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "ECB Governing Council member De Marco said he currently sees none of the above scenarios."
+    },
+    {
+      "id": "4964182",
+      "time": "2026-07-01 12:09:06",
+      "tags": [
+        "其他"
+      ],
+      "text": "【監管批覆！周鋒任中原銀行董事長】7月1日，河南金融監管局釋出批覆稱，核准周鋒中原銀行董事長的任職資格。"
+    },
+    {
+      "id": "mkt:019f1bdd-b334-7aab-8c4a-d7df462ca2af",
+      "time": "2026-07-01 12:09:01",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Market Regions",
+        "Europe & UK",
+        "EURUSD",
+        "Impact mixed"
+      ],
+      "text": "ECB Governing Council member De Marco said further rate hikes would be justified only if second‑round inflation effects emerge or inflation expectations become unanchored."
+    },
+    {
+      "id": "4964181",
+      "time": "2026-07-01 12:08:50",
+      "tags": [
+        "公司"
+      ],
+      "text": "【達飛輪船擬斥資14億美元收購聯邦快遞第三方物流業務，交易接近落地】英國金融時報援引不願具名的知情人士訊息報道，法國集裝箱航運集團達飛輪船（CMA CGM）即將達成一筆現金收購交易，以14億美元收購聯邦快遞第三方物流業務。雙方針對聯邦快遞供應鏈業務的談判已進入後期階段，最快週三便可正式敲定交易。達飛輪船與聯邦快遞暫未回應媒體的置評請求。"
+    },
+    {
+      "id": "mkt:019f1bdd-75b9-7aab-8c4a-cc25efea6602",
+      "time": "2026-07-01 12:08:46",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Lantu Auto delivered 14,223 new vehicles in June 2026, up 41% year-on-year."
+    },
+    {
+      "id": "mkt:019f1bdd-6b4b-7aab-8c4a-c14d644b6716",
+      "time": "2026-07-01 12:08:43",
+      "tags": [
+        "MKT News",
+        "EURUSD",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "ECB Governing Council member De Marco said falling energy prices should quickly feed through to lower inf expectations and ease upward pressure on wages."
+    },
+    {
+      "id": "te:markets:563242",
+      "time": "2026-07-01 12:06:45",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Palm Oil Rebounds — Malaysian palm oil prices strengthened, hovering above MYR 4,550 per tonne after recent declines, supported by a weaker ringgit and firmer crude oil prices. Stronger demand also lent support, with cargo surveyors estimating June 1–25 palm oil exports rose between 10.6% and 11.1% from the same period in May. In Indonesia, the top producer and exporter, President Prabowo is set to launch the B50 biodiesel mandate on July 1 to advance energy independence. At the same time, demand prospects in China, another key consumer, improved after manufacturing and services returned to modest growth in June. However, softer edible oil prices on the Dalian and Chicago exchanges limited strength. Sentiment was further weighed by Indonesia’s move to cut its July crude palm oil reference price to USD 1,000.90 per tonne from USD 1,029.51 in June. Investors also remained cautious ahead of monthly industry supply and demand data due later this month."
+    },
+    {
+      "id": "4964180",
+      "time": "2026-07-01 12:06:06",
+      "tags": [
+        "資料",
+        "市場",
+        "國際"
+      ],
+      "text": "印尼6月消費者價格指數（CPI）環比上漲0.44%，調查預期為上漲0.30%。"
+    },
     {
       "id": "4964179",
       "time": "2026-07-01 12:05:58",
