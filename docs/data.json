@@ -1,7 +1,46 @@
 {
-  "updated": "2026-07-02 00:34:04",
-  "count": 14247,
+  "updated": "2026-07-02 00:38:02",
+  "count": 14244,
   "items": [
+    {
+      "id": "4965793",
+      "time": "2026-07-02 00:37:02",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：由日本三菱日聯銀行牽頭的 7 家銀行將聯手，向信實工業提供日元與美元雙幣種融資。"
+    },
+    {
+      "id": "4965792",
+      "time": "2026-07-02 00:36:44",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【美銀：機構客戶拋售科技股 連續第四周成為美股主要淨賣方】美銀證券策略師Jill Carey Hall在一份報告中指出，隨著客戶減持科技股，他們連續第四周成為美股的“主要淨賣方”。該行客戶上週拋售了標普500指數11個板塊中9個板塊的股票，科技和金融板塊首當其衝。Hall援引截至6月26日當週的客戶資料稱，科技板塊的四周平均淨資金流入已降至歷史最低。繼此前一週資金流出創紀錄之後，機構客戶連續第四周拋售股票。美股的四周滾動平均淨資金流入也處於歷史低點。"
+    },
+    {
+      "id": "mkt:019f1e87-edf0-7aab-8c63-7c949c553f6e",
+      "time": "2026-07-02 00:34:12",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Apple",
+        "Market Themes",
+        "Magnificent 7",
+        "AAPL.O"
+      ],
+      "text": "Russia's antimonopoly regulator has issued a warning to Apple (AAPL.O)."
+    },
+    {
+      "id": "4965791",
+      "time": "2026-07-02 00:33:52",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "俄羅斯反壟斷監管機構向蘋果公司發出警告。"
+    },
     {
       "id": "mkt:019f1e86-636a-7aab-8c63-74e931369990",
       "time": "2026-07-02 00:32:31",
@@ -131316,82 +131355,6 @@
         "MKT News"
       ],
       "text": "Iraq's prime minister says ties with the United States will shift from a military relationship to an economic partnership."
-    },
-    {
-      "id": "mkt:019efa7e-e9fe-7dd8-b0ff-f31a95b08f26",
-      "time": "2026-06-25 00:38:01",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "Market Regions",
-        "Emerging Markets",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "Brazil's oil regulator ANP head said domestic fuel prices are gradually easing after a preliminary U.S.-Iran agreement."
-    },
-    {
-      "id": "4953202",
-      "time": "2026-06-25 00:37:57",
-      "tags": [
-        "國際"
-      ],
-      "text": "巴西石油監管機構國家石油、天然氣和生物燃料局（ANP）局長表示，在美國與伊朗達成初步協議後，巴西國內燃油價格正逐步下降。"
-    },
-    {
-      "id": "mkt:019efa7e-c93c-7dd8-b0ff-ecd5828afe2a",
-      "time": "2026-06-25 00:37:53",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "German Chancellor Merz urged a NATO \"renewal\" after the E5 leaders' meeting."
-    },
-    {
-      "id": "te:economy:561624",
-      "time": "2026-06-25 00:34:33",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Russia",
-        "Industrial Production",
-        "Importance 1"
-      ],
-      "text": "Russia Industrial Output Declines — Industrial production in Russia declined by 0.7% year-on-year in May 2026, reversing a 1.9% gain in the previous month. Output declines were recorded in mining, extending a decline to 2.7% from 0.4% in the previous month, followed by weakened activity in the provision of electricity, gas and steam, air conditioning (-2.2% vs 0.9%) and water supply, sanitation, waste collection and disposal, pollution control activities (-3.4% vs 0.9%). Manufacturing growth slowed sharply, increasing only 0.5% compared to 3.1%. On a seasonally adjusted monthly basis, industrial production declined 0.8% in May, following an increase of 0.3% in the prior period."
-    },
-    {
-      "id": "4953201",
-      "time": "2026-06-25 00:34:29",
-      "tags": [
-        "其他"
-      ],
-      "text": "德國總理默茨出席E5國家領導人會晤後，呼籲北約進行“革新重塑”。"
-    },
-    {
-      "id": "te:markets:561623",
-      "time": "2026-06-25 00:34:20",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "stocks",
-        "Importance 1"
-      ],
-      "text": "Starbucks Stock Price Hits 4-week High — Starbucks shares increased to 103.70 USD, the highest since May 2026. Over the past 4 weeks, Starbucks gained 2.11%, and in the last 12 months, it increased 13.68%."
-    },
-    {
-      "id": "mkt:019efa7b-5499-7dd8-b0ff-e24375659272",
-      "time": "2026-06-25 00:34:06",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "The Trump Trade",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "【Rubio: Iran must honor commitments or Trump will act】U.S. Secretary of State Rubio called Washington’s 60-day sanctions waiver for Iran a temporary measure and said the U.S. expects Tehran to honor commitments made under the agreement. He warned that if Iran does not comply, President Trump has multiple options, including — Rubio said he was not asserting Trump would necessarily use them — reimposing sanctions. Rubio noted the commitments were made clearly in Switzerland and said compliance would allow the U.S. to proceed, while non‑compliance would prompt presidential responses."
     }
   ]
 }
