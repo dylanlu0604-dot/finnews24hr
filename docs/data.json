@@ -1,7 +1,60 @@
 {
-  "updated": "2026-07-02 00:14:03",
-  "count": 14249,
+  "updated": "2026-07-02 00:18:02",
+  "count": 14245,
   "items": [
+    {
+      "id": "mkt:019f1e78-00fb-7aab-8c63-23d944534d65",
+      "time": "2026-07-02 00:16:48",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Wall Street (US)",
+        "Dow",
+        "Impact bullish"
+      ],
+      "text": "Dow Jones Industrial Average hit an intraday record high, currently up 0.79%."
+    },
+    {
+      "id": "4965777",
+      "time": "2026-07-02 00:16:24",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美貿易代表：美國決定不續簽美墨加協定】央視記者當地時間7月1日獲悉，美國貿易代表傑米森·格里爾表示，美國決定不續簽與加拿大和墨西哥的貿易協定，而是選擇對該協定進行年度審查。美墨加協定於2020年7月1日正式生效，取代1994年1月生效的北美自由貿易協定，2036年到期。（央視新聞）"
+    },
+    {
+      "id": "te:economy:563523",
+      "time": "2026-07-02 00:15:35",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Russia",
+        "Unemployment Rate",
+        "Importance 1"
+      ],
+      "text": "Russia Unemployment Rate Edges Down — The unemployment rate in Russia edged down to 2.1% in May 2026 from 2.2% in the previous month. The number of unemployed declined slightly to 1.6 million from 1.7 million, while the labour force edged up to 76.3 million from 76.2 million. Employment increased to 74.7 million from 74.5 million, lifting the employment rate to 61.5% after a 0.3% rise. The persistently tight labour market reflects widespread labour shortages across sectors, driven by military recruitment following Russia’s invasion of Ukraine in February 2022, and ongoing emigration. Authorities expect conditions to remain constrained for years, forecasting a labour shortfall of around 3.1 million workers by 2030."
+    },
+    {
+      "id": "te:markets:563522",
+      "time": "2026-07-02 00:15:28",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "France",
+        "Stock Market",
+        "Importance 0"
+      ],
+      "text": "CAC 40 Slips Amid ECB Forum — The CAC 40 fell 0.8% to close at 8,337 on Wednesday as investors paused after strong gains over the previous three-month period and monitored developments at the ECB Forum. Governing Council member Martinš Kazaks signaled there was no urgency for the ECB to raise interest rates in July, noting that easing oil prices linked to peace efforts in the Middle East had helped reduce inflation pressures. Meanwhile, the US and Iran held indirect technical talks in Doha aimed at securing shipping flows through the Strait of Hormuz and reaching a lasting ceasefire. Luxury stocks traded lower, with L'Oréal down 0.9%. Schneider Electric fell 3.1% after agreeing to acquire Cognite. TotalEnergies lost 3.1% as oil prices remained near pre-conflict lows. Air Liquide rose 1.7% after announcing a $170 million investment in the US to supply ultra-pure gases to SK Hynix. Airbus added 1.9% after Scandinavian Airlines placed an order for up to 40 widebody aircraft."
+    },
+    {
+      "id": "mkt:019f1e75-6b37-7aab-8c63-1b3456706125",
+      "time": "2026-07-02 00:13:59",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Ukraine's prime minister said Kyiv is launching a new weapons export mechanism."
+    },
     {
       "id": "mkt:019f1e74-243d-7aab-8c63-12ac360937d7",
       "time": "2026-07-02 00:12:35",
@@ -131321,97 +131374,6 @@
         "國際"
       ],
       "text": "俄羅斯5月份化肥產量同比下降3.7%。"
-    },
-    {
-      "id": "mkt:019efa6c-6906-7dd8-b0ff-9e92966f047d",
-      "time": "2026-06-25 00:17:49",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bearish"
-      ],
-      "text": "【Rubio reiterates Iran cannot levy fees for transit through Strait of Hormuz】According to Al Jazeera, US Secretary of State Rubio said the world will oppose any mechanism to charge fees for passage through international waterways, reiterating that Iran cannot levy fees for transit through the Strait of Hormuz. \"It's that simple. The president has said this will not happen,\" Rubio said, adding he believes Gulf states will support the position."
-    },
-    {
-      "id": "4953186",
-      "time": "2026-06-25 00:17:20",
-      "tags": [
-        "其他"
-      ],
-      "text": "法新社：本輪高溫熱浪來襲以來，法國已有超50個省份氣溫突破40攝氏度。"
-    },
-    {
-      "id": "4953185",
-      "time": "2026-06-25 00:16:02",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國：監測期結束，未發現漢坦病毒陽性病例。終止此次漢坦病毒暴露事件應急處置工作。"
-    },
-    {
-      "id": "mkt:019efa6a-4733-7dd8-b0ff-9279dd7112de",
-      "time": "2026-06-25 00:15:29",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "Ukraine's national oil company says Russian strikes have severely damaged its gas production and storage facilities."
-    },
-    {
-      "id": "mkt:019efa6a-3375-7dd8-b0ff-8b909be5c1d2",
-      "time": "2026-06-25 00:15:24",
-      "tags": [
-        "MKT News",
-        "S&P500",
-        "Impact bullish",
-        "DXY",
-        "Impact bearish",
-        "WTI"
-      ],
-      "text": "ZELENSKIY said relay stations used to coordinate strikes launched from Belarusian territory against Ukraine have ceased operating."
-    },
-    {
-      "id": "4953184",
-      "time": "2026-06-25 00:15:22",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "烏克蘭石油天然氣公司表示，俄羅斯的襲擊對其天然氣生產和儲存設施造成了嚴重破壞。"
-    },
-    {
-      "id": "mkt:019efa69-d96d-7dd8-b0ff-87ca557a0981",
-      "time": "2026-06-25 00:15:01",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "Rubio said the US technical team will return to talks with Iran on the 30th of this month."
-    },
-    {
-      "id": "4953183",
-      "time": "2026-06-25 00:14:50",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "俄羅斯聯邦統計局表示，今年1-5月俄羅斯天然氣產量同比增長5.2%。"
-    },
-    {
-      "id": "te:markets:561622",
-      "time": "2026-06-25 00:14:14",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Italy",
-        "Stock Market",
-        "Importance 0"
-      ],
-      "text": "FTSE MIB Edges Lower — The FTSE MIB declined 0.8% to close at 51,639 on Wednesday, with sentiment weighed down by a combination of defensive sector weakness and ongoing tech pressure. Defense contractor Leonardo extended losses to 5% after reports that Germany is considering cancelling plans for its largest post–World War II warship in favor of purchasing eight smaller frigates from TKMS. Avio followed losing 4.2%. Semiconductor company STMicroelectronics edged lower by 0.5% while Prysmian declined 1.1%, as investors stayed cautious ahead of Micron earnings results for further conclusions on the sector. Contributing to the market decline, Unipol led losses in the banking sector with a 2.6% drop, followed by Banco BPM (-2.1%), UniCredit(-1.4%) and BPER Banca (-1.4%). Elsewhere, Ferrari recorded strong gains of 1.9%. Energy stocks were mixed, with Italgas down 1.2% and Enel 0.3%, and Snam up 1.6%."
     }
   ]
 }

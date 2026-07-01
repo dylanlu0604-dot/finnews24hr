@@ -1,7 +1,60 @@
 {
   "date": "2026-07-02",
-  "count": 28,
+  "count": 33,
   "items": [
+    {
+      "id": "mkt:019f1e78-00fb-7aab-8c63-23d944534d65",
+      "time": "2026-07-02 00:16:48",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Wall Street (US)",
+        "Dow",
+        "Impact bullish"
+      ],
+      "text": "Dow Jones Industrial Average hit an intraday record high, currently up 0.79%."
+    },
+    {
+      "id": "4965777",
+      "time": "2026-07-02 00:16:24",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美貿易代表：美國決定不續簽美墨加協定】央視記者當地時間7月1日獲悉，美國貿易代表傑米森·格里爾表示，美國決定不續簽與加拿大和墨西哥的貿易協定，而是選擇對該協定進行年度審查。美墨加協定於2020年7月1日正式生效，取代1994年1月生效的北美自由貿易協定，2036年到期。（央視新聞）"
+    },
+    {
+      "id": "te:economy:563523",
+      "time": "2026-07-02 00:15:35",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Russia",
+        "Unemployment Rate",
+        "Importance 1"
+      ],
+      "text": "Russia Unemployment Rate Edges Down — The unemployment rate in Russia edged down to 2.1% in May 2026 from 2.2% in the previous month. The number of unemployed declined slightly to 1.6 million from 1.7 million, while the labour force edged up to 76.3 million from 76.2 million. Employment increased to 74.7 million from 74.5 million, lifting the employment rate to 61.5% after a 0.3% rise. The persistently tight labour market reflects widespread labour shortages across sectors, driven by military recruitment following Russia’s invasion of Ukraine in February 2022, and ongoing emigration. Authorities expect conditions to remain constrained for years, forecasting a labour shortfall of around 3.1 million workers by 2030."
+    },
+    {
+      "id": "te:markets:563522",
+      "time": "2026-07-02 00:15:28",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "France",
+        "Stock Market",
+        "Importance 0"
+      ],
+      "text": "CAC 40 Slips Amid ECB Forum — The CAC 40 fell 0.8% to close at 8,337 on Wednesday as investors paused after strong gains over the previous three-month period and monitored developments at the ECB Forum. Governing Council member Martinš Kazaks signaled there was no urgency for the ECB to raise interest rates in July, noting that easing oil prices linked to peace efforts in the Middle East had helped reduce inflation pressures. Meanwhile, the US and Iran held indirect technical talks in Doha aimed at securing shipping flows through the Strait of Hormuz and reaching a lasting ceasefire. Luxury stocks traded lower, with L'Oréal down 0.9%. Schneider Electric fell 3.1% after agreeing to acquire Cognite. TotalEnergies lost 3.1% as oil prices remained near pre-conflict lows. Air Liquide rose 1.7% after announcing a $170 million investment in the US to supply ultra-pure gases to SK Hynix. Airbus added 1.9% after Scandinavian Airlines placed an order for up to 40 widebody aircraft."
+    },
+    {
+      "id": "mkt:019f1e75-6b37-7aab-8c63-1b3456706125",
+      "time": "2026-07-02 00:13:59",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Ukraine's prime minister said Kyiv is launching a new weapons export mechanism."
+    },
     {
       "id": "mkt:019f1e74-243d-7aab-8c63-12ac360937d7",
       "time": "2026-07-02 00:12:35",
