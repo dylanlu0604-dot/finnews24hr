@@ -1,7 +1,36 @@
 {
-  "updated": "2026-07-01 12:46:05",
-  "count": 13929,
+  "updated": "2026-07-01 12:50:06",
+  "count": 13928,
   "items": [
+    {
+      "id": "4964229",
+      "time": "2026-07-01 12:48:36",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【白宮稱特朗普加密幣獲利無利益衝突 】據美國媒體當地時間6月30日報告，美國總統特朗普提交給美國政府道德辦公室的2025年度財務報告顯示，去年特朗普家族的加密貨幣業務為其帶來了超過10億美元的收入。據披露的財務檔案顯示，特朗普家族的加密企業“世界自由金融公司”透過銷售新型加密產品獲得了逾5億美元收入；另有約6.35億美元來自其個人迷因幣（Meme幣）$TRUMP的銷售。對於這次美國媒體披露出來的財務報告內容，白宮方面強調“不存在利益衝突”。白宮方面在一份給媒體的宣告中稱，特朗普及其家人“從未捲入——也絕對不會捲入——任何利益衝突”。"
+    },
+    {
+      "id": "te:economy:563254",
+      "time": "2026-07-01 12:45:57",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Indonesia",
+        "Balance of Trade",
+        "Importance 2"
+      ],
+      "text": "Indonesia Posts 1st Trade Gap in Over 6 Years — Indonesia unexpectedly posted a trade deficit of USD 1.61 billion in May 2026, shifting from a USD 4.30 billion surplus in the same month last year and missing market expectations of a USD 1.2 billion surplus. It was the first trade deficit since April 2020, as exports unexpectedly dropped while imports surged."
+    },
+    {
+      "id": "4964228",
+      "time": "2026-07-01 12:45:54",
+      "tags": [
+        "其他"
+      ],
+      "text": "澳門6月幸運博彩毛收入MOP185.2億，同比下降12.1%，預估為-11.0%。澳門1-6月份幸運博彩毛收入MOP1,269億，同比增長6.8%。"
+    },
     {
       "id": "4964227",
       "time": "2026-07-01 12:45:14",
@@ -128024,45 +128053,6 @@
         "市場"
       ],
       "text": "【財通福鑫定開混合：將於6月24日下午開盤起至當日收盤停牌】財通基金管理有限公司公告，截至2026年6月24日上海證券交易所午間收盤，公司旗下財通多策略福鑫定期開放靈活配置混合型發起式證券投資基金（場內簡稱：財通福鑫定開混合，交易程式碼：501046）二級市場交易價格嚴重高於基金份額淨值，出現極大幅度溢價。特此提示投資者關注二級市場交易價格溢價風險，投資者如果盲目投資，可能遭受重大損失。為維護投資者利益，本基金將於2026年6月24日下午開盤起至當日收盤停牌。"
-    },
-    {
-      "id": "4951752",
-      "time": "2026-06-24 12:49:43",
-      "tags": [
-        "公司"
-      ],
-      "text": "阿達尼集團董事長：目標是到2035年實現10吉瓦核電裝機容量。"
-    },
-    {
-      "id": "mkt:019ef7f3-eae8-7dd8-b0ec-0810aef68b56",
-      "time": "2026-06-24 12:46:58",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Caitong Fuxin Interval Open‑End Mixed Fund will suspend trading from the afternoon market open on June 24, 2026 through that session's close."
-    },
-    {
-      "id": "mkt:019ef7f3-c963-7dd8-b0ec-0297a13691ec",
-      "time": "2026-06-24 12:46:49",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "02015.HK",
-        "01211.HK"
-      ],
-      "text": "【CITIGROUP: Li Auto L8 and BYD Denza N8L launches elicit neutral market reaction】CITIGROUP research note: Li Auto (02015.HK) launched the updated L8 overnight; the model adds capabilities but discontinues a six‑seat option. Citigroup estimates debut‑month orders around 8,500, settling to monthly sales of 5,000–6,000 driven by trade‑up demand. BYD (01211.HK) unveiled the revised Denza N8L overnight; price is up RMB20,000 versus the previous model, reflecting a larger battery (72.26 kWh) and a 430 km pure‑electric range, with features otherwise similar; projected monthly sales ~3,000–4,000. The bank judges market reaction neutral and says investors will remain focused on June EV retail sales."
-    },
-    {
-      "id": "mkt:019ef7f3-c577-7dd8-b0eb-fe7d465d6629",
-      "time": "2026-06-24 12:46:48",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "Chip Wars",
-        "QCOM.O"
-      ],
-      "text": "【Qualcomm said to be in talks to provide custom chip designs to ByteDance】People familiar with the matter say Qualcomm (QCOM.O) is negotiating with ByteDance to provide custom chip design services; if successful, ByteDance would be an early customer for Qualcomm’s design business. Sources caution talks are ongoing and outcomes are uncertain; no chip design or manufacturing agreement has been confirmed and ByteDance may pursue other partners. Discussions reportedly cover a video processing unit (VPU) design, with a target to begin mass production by year‑end."
     }
   ]
 }
