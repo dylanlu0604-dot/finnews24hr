@@ -1,7 +1,175 @@
 {
-  "updated": "2026-07-01 18:29:33",
-  "count": 13932,
+  "updated": "2026-07-01 18:33:35",
+  "count": 13942,
   "items": [
+    {
+      "id": "4964978",
+      "time": "2026-07-01 18:32:48",
+      "tags": [
+        "公司",
+        "市場",
+        "觀點"
+      ],
+      "text": "【高盛：下半年股市上漲範圍將擴大 科技公司盈利增長將是關鍵推動力】高盛集團全球股票首席策略師彼得·奧本海默表示，全球股市有望延續第二季度的強勁漲勢，而科技公司的盈利增長將是關鍵推動力。“只要盈利表現持續良好且增長範圍擴大，我認為下半年股市將繼續上漲，”奧本海默說道，“漲幅可能不及上半年，但我認為上漲將呈現廣泛的特徵。”他指出，科技行業的盈利增長將持續，儘管投資者的關注點正從資料中心和雲端計算平臺運營商，轉向支撐人工智慧（AI）熱潮的半導體及裝置製造商。"
+    },
+    {
+      "id": "mkt:019f1d3c-b445-7aab-8c54-274cc038f818",
+      "time": "2026-07-01 18:32:25",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "Nasdaq100",
+        "Impact bullish",
+        "S&P500"
+      ],
+      "text": "【Goldman Sachs: Equity gains to broaden in H2; tech earnings growth to be key driver】Goldman Sachs global head of equity strategy Peter Oppenheimer said global equities are likely to extend Q2’s strong rally into H2, with technology companies’ earnings growth the main driver. He said that if earnings remain healthy and breadth widens, markets should continue to rise in H2, though gains may be smaller than in H1. Oppenheimer added that tech profit growth should persist, with investor focus shifting from data‑center and cloud operators to semiconductors and equipment makers supporting the AI boom."
+    },
+    {
+      "id": "4964977",
+      "time": "2026-07-01 18:32:24",
+      "tags": [
+        "國際"
+      ],
+      "text": "德國國防部長表示：我們不會停止採購美國武器。"
+    },
+    {
+      "id": "mkt:019f1d3c-a4c1-7aab-8c54-1d56d8ccc9d8",
+      "time": "2026-07-01 18:32:21",
+      "tags": [
+        "MKT News",
+        "RTX.O",
+        "Impact bullish",
+        "LMT.O",
+        "NOC.O"
+      ],
+      "text": "Germany's defense minister said Germany will not stop buying U.S. weapons."
+    },
+    {
+      "id": "4964976",
+      "time": "2026-07-01 18:32:17",
+      "tags": [
+        "公司"
+      ],
+      "text": "耐克公司：加拿大皇家銀行將目標價從50美元下調至45美元。"
+    },
+    {
+      "id": "mkt:019f1d3c-53c6-7aab-8c54-11b9abc878c5",
+      "time": "2026-07-01 18:32:00",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Cameco, the Canadian uranium miner, said its 2026 production outlook could be affected."
+    },
+    {
+      "id": "mkt:019f1d3c-15db-7aab-8c54-0ab4b992e7a1",
+      "time": "2026-07-01 18:31:44",
+      "tags": [
+        "MKT News",
+        "NKE.N",
+        "Impact bearish"
+      ],
+      "text": "RBC cut Nike (NKE.N) PT to $45 from $50."
+    },
+    {
+      "id": "mkt:019f1d3c-0b31-7aab-8c54-032d3d850a48",
+      "time": "2026-07-01 18:31:41",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Canadian uranium miner Cameco said the Orano McClean Lake plant has suspended operations after an issue with a sulfuric acid unit and expects the plant to resume within two weeks."
+    },
+    {
+      "id": "mkt:019f1d3b-af40-7aab-8c53-f93ade9bac11",
+      "time": "2026-07-01 18:31:18",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【MEE and SAMR issue unified wastewater discharge standard for China’s textile industry】China’s Ministry of Ecology and Environment and SAMR jointly issued the Textile Industry Water Pollutant Discharge Standard, consolidating four existing sector rules (dyeing/finishing, silk reeling, wool and hemp) and extending coverage to synthetic-fiber weaving and industrial textile products to achieve full industry coverage. The standard adds a zebrafish-egg acute toxicity indicator, requires source separation of textile and domestic sewage, and promotes relocation of textile firms from urban areas into industrial parks to enable park-level system governance and coordinated pollution and carbon reduction. Regulators note about 149,000 textile enterprises in China, roughly 86% of them SMEs with uneven pollution-control capacity."
+    },
+    {
+      "id": "mkt:019f1d3b-0339-7aab-8c53-f79aafbf2ba6",
+      "time": "2026-07-01 18:30:34",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "Romania's foreign exchange reserves fell to €63.49 bln in June, central bank data showed."
+    },
+    {
+      "id": "4964975",
+      "time": "2026-07-01 18:30:25",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "羅馬尼亞央行：6月外匯儲備降至634.9億歐元。"
+    },
+    {
+      "id": "mkt:019f1d3a-c50c-7aab-8c53-ef0510dc39b4",
+      "time": "2026-07-01 18:30:18",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Belarusian state news agency reported President Lukashenko pardoned 32 people."
+    },
+    {
+      "id": "te:markets:563407",
+      "time": "2026-07-01 18:30:15",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "India",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The SENSEX Index Closes 0.58% Higher — The SENSEX Index gained 444 points or 0.58 percent on Wednesday to close at 76923 points. Gains were led by Eternal Limited (3.97%), Nestle India (3.40%) and Asian Paints (3.01%). Biggest losers were HCL Tech (-3.43%), Tech Mahindra (-3.18%) and Tata Consultancy (-2.49%)."
+    },
+    {
+      "id": "mkt:019f1d3a-8bea-7aab-8c53-e38828749e0c",
+      "time": "2026-07-01 18:30:03",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "NATO Secretary-General Rutte said NATO allies will pledge sustainable, long-term security assistance to Ukraine at the summit."
+    },
+    {
+      "id": "4964974",
+      "time": "2026-07-01 18:29:58",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【優彩資源：預計2026年半年度淨利潤同比增長72.80%-122.17%】優彩資源(002998.SZ)公告稱，預計2026年半年度歸屬於上市公司股東的淨利潤為7000萬元-9000萬元，同比增長72.80%-122.17%。業績變動主要繫上遊原材料價格上漲傳導，相關產品毛利率提升，同時公司最佳化運營管理、加強市場拓展和研發投入，可轉債募投專案效益逐步釋放，整體盈利能力持續增強。公司Q2淨利潤預計0.38億-0.58億，Q1淨利潤0.32億，據此計算，Q2淨利潤預計環比變動18%-81%。"
+    },
+    {
+      "id": "4964973",
+      "time": "2026-07-01 18:29:55",
+      "tags": [
+        "其他"
+      ],
+      "text": "【加強紡織工業水汙染物排放管控 兩部門聯合釋出行業標準】生態環境部和國家市場監督管理總局近日聯合釋出《紡織工業水汙染物排放標準》，進一步加強紡織工業水汙染物排放管控，防控環境風險，引導紡織工業綠色轉型。紡織工業是我國傳統優勢產業，全國現有紡織企業約14.9萬家，其中86%為中小企業，汙染治理能力參差不齊。新標準整合原有紡織染整、繅絲、毛紡、麻紡四項行業排放標準，新增化纖織造、產業用紡織成品等子行業，實現紡織工業全覆蓋。為強化水生態風險防控，新增斑馬魚卵急性毒性指標。同時，推動紡織工業汙水和生活汙水從源頭分離處理，引導企業退城入園，促進園區系統治理、協同減汙降碳。（央視新聞）"
+    },
+    {
+      "id": "4964972",
+      "time": "2026-07-01 18:29:45",
+      "tags": [
+        "國際"
+      ],
+      "text": "呂特表示，北約盟國將在峰會上承諾向烏克蘭提供可持續的長期安全援助。"
+    },
+    {
+      "id": "4964971",
+      "time": "2026-07-01 18:29:25",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【江鎢裝備：股價異動 提醒投資風險並回應資產注入傳聞】江鎢裝備公告稱，公司股票自2026年6月15日以來多次觸及交易異常波動，7月1日再次漲停。公司提醒投資者注意交易風險，股價可能快速下跌。經自查，公司無注入礦山資產安排，主營業務未變，目前生產經營正常。公司正籌劃2026年度向特定物件發行A股股票，募資不超19.07億元收購三家公司各100%股權，該事項尚需交易所稽核及證監會註冊。"
+    },
     {
       "id": "mkt:019f1d39-a40e-7aab-8c53-dd5fa4a046c0",
       "time": "2026-07-01 18:29:04",
@@ -17,6 +185,14 @@
         "MKT News"
       ],
       "text": "【China urges broader government procurement support for green building materials】China's Ministry of Housing and Urban-Rural Development urged localities at a Changsha meeting to expand government procurement support for green building materials, accelerate R&D of thermal insulation, high-performance concrete and other new materials, and improve materials' thermal, waterproofing and environmental performance. The ministry called for systematic planning of the green building industry to drive a high-quality green transition in urban and rural construction."
+    },
+    {
+      "id": "4964970",
+      "time": "2026-07-01 18:28:56",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【住建部：積極擴大政府採購支援綠色建材政策覆蓋面】近日，住房城鄉建設部標準定額司在湖南省長沙市召開全國建築節能與建材推廣應用工作推進會。會議要求，各地要以問題為導向，錨定建築領域碳達峰碳中和長遠目標，堅持因地制宜、科學施策、穩妥有序推進建築領域節能降碳，系統謀劃綠色建築產業發展，加大以綠色建材為代表的優質建材推廣應用，積極擴大政府採購支援綠色建材政策覆蓋面，加快保溫隔熱材料、高效能混凝土等新型建材研發，提升建材的保溫、隔熱、防水、環保效能，高質量推動城鄉建設全面綠色轉型。"
     },
     {
       "id": "4964969",
@@ -128224,92 +128400,6 @@
         "公司"
       ],
       "text": "【迦南科技：控股子公司掛牌申請獲受理】迦南科技公告，控股子公司上海凱賢科技股份有限公司申請全國中小企業股份轉讓系統掛牌事項已獲受理。上海凱賢近日收到全國中小企業股份轉讓系統有限責任公司出具的《受理通知書》。該掛牌申請尚需進一步稽核，結果及稽核時間存在不確定性。"
-    },
-    {
-      "id": "4952528",
-      "time": "2026-06-24 18:33:20",
-      "tags": [
-        "國際"
-      ],
-      "text": "【內塔尼亞胡結束貪腐案本人作證】當地時間6月24日，以色列總理內塔尼亞胡在特拉維夫地方法院結束了其涉嫌貪腐案庭審中的本人作證。該階段歷時約一年半，共計98次庭審。以色列第12頻道稱，這被認為創下以色列刑事審判史上被告作證時間最長紀錄。 在整個作證期間，內塔尼亞胡對所有指控均予以否認。在結束作證前的發言中，內塔尼亞胡指責檢方誤導其作證，並批評執法和司法系統，稱這場歷時多年的調查和審判是出於政治動機、意在阻止選民選擇其領導人的“政治迫害”。 主審法官宣佈，後續庭審將從特拉維夫轉移回耶路撒冷地方法院繼續進行。根據程式，案件接下來將進入辯方證人作證階段。 2016年底，以色列警方正式對內塔尼亞胡相關腐敗指控展開刑事調查。2020年初，以色列檢方以受賄、欺詐和違背公眾信任3項指控正式起訴內塔尼亞胡。自案件審理程式啟動以來，內塔尼亞胡多次以戰事、外訪、健康等理由請求取消聽證會或推遲作證。（CCTV國際時訊）"
-    },
-    {
-      "id": "4952527",
-      "time": "2026-06-24 18:33:01",
-      "tags": [
-        "公司"
-      ],
-      "text": "【思源電氣：董事兼副總經理楊幟華擬減持不超13萬股】思源電氣(002028.SZ)公告稱，公司董事兼副總經理楊幟華計劃自公告之日起15個交易日後的3個月內，以集中競價交易方式減持公司股份不超過13萬股，即不超過公司總股本的0.0166%。減持原因為個人資金需求。"
-    },
-    {
-      "id": "4952526",
-      "time": "2026-06-24 18:32:27",
-      "tags": [
-        "其他"
-      ],
-      "text": "塔塔通訊稱，6月5日其與新加坡星和電信共同所有的德里資料中心發生火災，造成該設施部分割槽域“大面積損毀”。"
-    },
-    {
-      "id": "4952525",
-      "time": "2026-06-24 18:32:20",
-      "tags": [
-        "其他"
-      ],
-      "text": "塔塔通訊在一份函件中表示，火災受損程度嚴重，受影響資料與系統的恢復工作面臨“重大挑戰”。"
-    },
-    {
-      "id": "mkt:019ef92f-fdd3-7dd8-b0f5-b8be0cb7c5a1",
-      "time": "2026-06-24 18:32:12",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK",
-        "PARA.O",
-        "Impact bullish",
-        "WBD.O"
-      ],
-      "text": "Financial Times reports the EU is set to approve Paramount's $111 billion acquisition of Warner Bros."
-    },
-    {
-      "id": "4952524",
-      "time": "2026-06-24 18:31:45",
-      "tags": [
-        "公司"
-      ],
-      "text": "【四方精創：發行境外上市股份（H股）獲得中國證監會備案】四方精創公告，公司正在進行申請發行境外上市外資股（H股）並在香港聯合交易所有限公司主機板掛牌上市，近日收到中國證監會出具的備案通知書。公司擬發行不超過6780.52萬股境外上市普通股並在香港聯合交易所上市。"
-    },
-    {
-      "id": "mkt:019ef92f-4f04-7dd8-b0f5-b4e42b3cfeac",
-      "time": "2026-06-24 18:31:27",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "Brent",
-        "Impact bearish",
-        "WTI"
-      ],
-      "text": "【Global oil prices fall to pre-war levels as Strait of Hormuz navigation expected to resume】June 24 — Brent crude slipped below $76/bbl, dipping to $75.50/bbl earlier, returning to levels seen before the Iran conflict; U.S. WTI fell to $72.03/bbl, its lowest since March 3. Traders said the decline reflects growing expectations of restored shipping through the Strait of Hormuz and Iranian crude re-entering global markets. Analysts warn that if related sanctions are eased, Iranian production and exports could rise within weeks because large volumes are stored on tankers. Hundreds of tankers and more than 10,000 seafarers were previously stranded in the Gulf; roughly 20% of global oil shipments transit the Strait. A recent U.S.-Iran agreement allowing commercial vessels fee-free transit within 60 days has coincided with a marked increase in maritime traffic this week."
-    },
-    {
-      "id": "4952523",
-      "time": "2026-06-24 18:31:08",
-      "tags": [
-        "國際"
-      ],
-      "text": "歐盟擬批准派拉蒙 1110 億美元收購華納兄弟交易。"
-    },
-    {
-      "id": "te:markets:561505",
-      "time": "2026-06-24 18:30:00",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "India",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The SENSEX Index Closes 1.02% Higher — The SENSEX Index gained 777 points or 1.02 percent on Wednesday to close at 76978 points. Gains were led by Tech Mahindra (3.22%), Bajaj Finance (2.87%) and Indusind Bank (2.63%)."
     }
   ]
 }
