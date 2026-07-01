@@ -1,7 +1,94 @@
 {
   "date": "2026-07-01",
-  "count": 3530,
+  "count": 3540,
   "items": [
+    {
+      "id": "4965676",
+      "time": "2026-07-01 22:39:19",
+      "tags": [
+        "其他"
+      ],
+      "text": "META 股票漲幅擴大至 10% 以上。"
+    },
+    {
+      "id": "4965675",
+      "time": "2026-07-01 22:38:51",
+      "tags": [
+        "其他"
+      ],
+      "text": "【SpaceX持續走低，日內跌超6.5%】SpaceX持續走低，日內跌超6.5%。"
+    },
+    {
+      "id": "4965674",
+      "time": "2026-07-01 22:38:31",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "現代汽車美國公司執行長：現代汽車將提升薩凡納工廠混合動力汽車產能。"
+    },
+    {
+      "id": "mkt:019f1e1e-0212-7aab-8c60-a94ca52d2657",
+      "time": "2026-07-01 22:38:30",
+      "tags": [
+        "MKT News",
+        "005380.KS"
+      ],
+      "text": "Hyundai will increase hybrid-vehicle production at its Savannah plant, Hyundai Motor America CEO said."
+    },
+    {
+      "id": "te:economy:563497",
+      "time": "2026-07-01 22:37:54",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "Crude Oil Stocks Change",
+        "Importance 2"
+      ],
+      "text": "US Crude Oil Inventories Fall Less than Expected — US crude oil inventories fell by 3.775 million barrels to 408.3 million barrels in the week ended June 26, less than market expectations for a 5.1 million-barrel draw. Crude stocks at the Cushing, Oklahoma, delivery hub rose by 709 thousand barrels, the first increase after nine consecutive weeks of declines. Refinery crude runs rose by 85,000 barrels per day, while refinery utilization rates increased by 0.6 percentage points. Gasoline stocks fell by 2.333 million barrels to 214 million barrels, versus expectations for a 0.95 million-barrel draw. On the other hand, distillate stockpiles, which include diesel and heating oil, rose by 2.483 million barrels to 108.6 million barrels, compared with forecasts for a 0.7 million-barrel drop. Net US crude imports rose by 370,000 bpd."
+    },
+    {
+      "id": "4965673",
+      "time": "2026-07-01 22:37:51",
+      "tags": [
+        "公司"
+      ],
+      "text": "【宣佈暫停支付境外債本息第二天，旭輝支付一筆美元債利息，知情人士：6月24日已發通知】旭輝控股(集團)有限公司釋出了一則付息公告。根據境外債務重組方案，公司已於6月30日（即付息日），支付“2029年到期的2.75%優先票據”的實物利息，合計1659.89萬美元。"
+    },
+    {
+      "id": "4965672",
+      "time": "2026-07-01 22:37:36",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國能源資訊署（EIA）表示，上週美國原油庫存降至2018年9月以來的最低水平。"
+    },
+    {
+      "id": "4965671",
+      "time": "2026-07-01 22:36:27",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：印度政府就 WhatsApp 在印度上線 “使用者名稱” 功能向 Meta 發出通知。政府要求 Meta 在 3 日內就該使用者名稱功能提交詳細說明，並指示 Meta 在相關磋商完成前，不得推出此項使用者名稱功能。"
+    },
+    {
+      "id": "4965670",
+      "time": "2026-07-01 22:36:10",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金突破4130美元/盎司，日內漲2.27%。"
+    },
+    {
+      "id": "4965669",
+      "time": "2026-07-01 22:35:42",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美國眾議院議長約翰遜敦促特朗普不再延期，放任《瓊斯法案》豁免條款到期失效】美國眾議院議長邁克・約翰遜及數十名共和黨議員致信特朗普總統，敦促其不再續期，讓《瓊斯法案》豁免政策於 8 月 16 日到期失效。記者在 X 平臺釋出了這封信件的照片。議員們在信中表示，該豁免條款 “已淪為敵對國家可利用的漏洞，不斷削弱美國的海上主導地位”。"
+    },
     {
       "id": "4965668",
       "time": "2026-07-01 22:35:21",
