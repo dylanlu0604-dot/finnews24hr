@@ -1,7 +1,55 @@
 {
-  "updated": "2026-07-02 02:44:07",
-  "count": 14132,
+  "updated": "2026-07-02 02:47:53",
+  "count": 14131,
   "items": [
+    {
+      "id": "4965860",
+      "time": "2026-07-02 02:46:02",
+      "tags": [
+        "其他"
+      ],
+      "text": "墨西哥經濟部長： 墨西哥汽車行業的原產地規則屬於全球最為複雜的一類。"
+    },
+    {
+      "id": "mkt:019f1f00-9c1c-7aab-8c65-41975fb05e54",
+      "time": "2026-07-02 02:46:01",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Mexico's economy minister said discussions on rules-of-origin standards must continue, noting systemic differences remain."
+    },
+    {
+      "id": "mkt:019f1f00-9b85-7aab-8c65-3e7ec90c759d",
+      "time": "2026-07-02 02:46:01",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Mexico's rules of origin for the auto sector are among the world's most complex, the economy minister said."
+    },
+    {
+      "id": "mkt:019f1f00-893d-7aab-8c65-331d52eea24c",
+      "time": "2026-07-02 02:45:56",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Mexico's economy minister said Canada’s participation should be monitored over the coming weeks."
+    },
+    {
+      "id": "4965859",
+      "time": "2026-07-02 02:45:26",
+      "tags": [
+        "其他"
+      ],
+      "text": "墨西哥經濟部長：我們仍需就原產地規則判定標準展開磋商，雙方在此問題上存在系統性分歧。"
+    },
+    {
+      "id": "4965858",
+      "time": "2026-07-02 02:45:07",
+      "tags": [
+        "國際"
+      ],
+      "text": "【澤連斯基：烏方至今未掌握“北溪”爆炸案全部調查細節】當地時間7月1日，烏克蘭總統澤連斯基在都柏林與愛爾蘭總理馬丁舉行的聯合新聞釋出會上表示，烏方至今未正式獲取“北溪”天然氣管道爆炸案的全部調查細節，也不掌握該案完整的調查流程及相關資訊。他稱，烏方將與德國相關機構開展對接溝通，待獲取完整調查細節後，將就該案作出正式回應。當天早些時候，德國方面訊息稱，德國聯邦檢察院已對一名涉嫌參與破壞“北溪”天然氣管道的烏克蘭籍嫌疑人提起公訴。（央視新聞）"
+    },
     {
       "id": "4965857",
       "time": "2026-07-02 02:43:23",
@@ -130179,76 +130227,6 @@
         "焦點"
       ],
       "text": "高通股價隨成交量走高下跌，目前資料中心部門主管正在投資者日發表講話，股價跌超5%，報每股193.31美元。"
-    },
-    {
-      "id": "mkt:019efaf5-a6e6-7dd8-b102-b61928133be2",
-      "time": "2026-06-25 02:47:43",
-      "tags": [
-        "MKT News",
-        "QCOM.O"
-      ],
-      "text": "Qualcomm's head of data-center business said commercial samples of the firm's first-generation high-bandwidth computer, equipped with the AI250 accelerator, are expected in mid-2027."
-    },
-    {
-      "id": "mkt:019efaf5-55fe-7dd8-b102-ae8a0ed614e7",
-      "time": "2026-06-25 02:47:22",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "Chip Wars",
-        "QCOM.O"
-      ],
-      "text": "Qualcomm's head of data center business said the company will launch a second-generation HBC chip in 2028."
-    },
-    {
-      "id": "4953347",
-      "time": "2026-06-25 02:47:14",
-      "tags": [
-        "市場"
-      ],
-      "text": "布倫特原油期貨結算價報每桶73.74美元，下跌3.34美元，跌幅4.33%。"
-    },
-    {
-      "id": "4953346",
-      "time": "2026-06-25 02:47:11",
-      "tags": [
-        "其他"
-      ],
-      "text": "高通資料中心部門主管：高通將於2028年推出第二代HBC晶片。"
-    },
-    {
-      "id": "4953345",
-      "time": "2026-06-25 02:46:19",
-      "tags": [
-        "其他"
-      ],
-      "text": "高通資料中心主管表示，搭載AI250的高通第三代高頻寬計算晶片Gen 1預計將於2027年年中進入商業取樣階段。"
-    },
-    {
-      "id": "mkt:019efaf3-5e5e-7dd8-b102-a45c6c689040",
-      "time": "2026-06-25 02:45:13",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Star Stocks",
-        "Microsoft",
-        "Market Themes",
-        "Chip Wars",
-        "Magnificent 7",
-        "QCOM.O",
-        "Impact bullish",
-        "MSFT.O"
-      ],
-      "text": "Qualcomm data‑center business head says Microsoft will deploy the company's high‑bandwidth compute chips in Azure data centers."
-    },
-    {
-      "id": "4953344",
-      "time": "2026-06-25 02:44:30",
-      "tags": [
-        "其他",
-        "焦點"
-      ],
-      "text": "高通資料中心主管：微軟將在Azure資料中心部署高通高頻寬計算晶片。"
     }
   ]
 }
