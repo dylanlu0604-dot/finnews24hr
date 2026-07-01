@@ -1,7 +1,236 @@
 {
-  "updated": "2026-07-01 22:06:16",
-  "count": 14227,
+  "updated": "2026-07-01 22:10:25",
+  "count": 14249,
   "items": [
+    {
+      "id": "mkt:019f1e03-8b6a-7aab-8c5f-118271982cda",
+      "time": "2026-07-01 22:09:36",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. NATO ambassador said Washington will unequivocally not support protectionist rhetoric tied to a European defence initiative."
+    },
+    {
+      "id": "4965614",
+      "time": "2026-07-01 22:09:22",
+      "tags": [
+        "其他"
+      ],
+      "text": "沃什：我們需要能夠反映當前狀況的指標，儘可能接近實時。"
+    },
+    {
+      "id": "mkt:019f1e03-3f28-7aab-8c5f-0be94b3853c0",
+      "time": "2026-07-01 22:09:16",
+      "tags": [
+        "MKT News",
+        "LMT.O",
+        "Impact bullish",
+        "RTX.O",
+        "NOC.O"
+      ],
+      "text": "U.S. ambassador to NATO said the priority is to focus on the defense industry and defense industrial capacity."
+    },
+    {
+      "id": "4965613",
+      "time": "2026-07-01 22:09:15",
+      "tags": [
+        "公司"
+      ],
+      "text": "瑞銀將布魯姆能源公司目標價從322美元上調至350美元。"
+    },
+    {
+      "id": "4965612",
+      "time": "2026-07-01 22:08:52",
+      "tags": [
+        "其他"
+      ],
+      "text": "沃什：我最看重的資料將在一年後揭曉，前提是我們把就業工作做好。"
+    },
+    {
+      "id": "mkt:019f1e02-b808-7aab-8c5f-008a6f52abf7",
+      "time": "2026-07-01 22:08:42",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Europe & UK",
+        "GBPUSD",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "Markets have cut bets on Bank of England rate hikes, now pricing about 20bp of tightening by year-end."
+    },
+    {
+      "id": "4965611",
+      "time": "2026-07-01 22:08:40",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國將部分個人列入反恐制裁名單。"
+    },
+    {
+      "id": "te:economy:563470",
+      "time": "2026-07-01 22:08:36",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "Business Confidence",
+        "Importance 3"
+      ],
+      "text": "US Manufacturing Sector Growth Cools in June — The ISM Manufacturing PMI for the US fell to 53.3 in June 2026, down from 54.0 in May and below market expectations of 54. The latest reading indicated a slowdown in the manufacturing sector, as both output (52.2 vs. 54.3 in May) and new orders (56.0 vs. 56.8) grew at a slower pace. Employment remained in contraction territory, although the pace of job losses eased, with the employment index rising to 49.7 from 48.6. Meanwhile, the prices index declined sharply to 73.0 from 82.1, indicating some easing in cost pressures, though price growth remained elevated. Survey respondents continued to cite concerns over moderating but still high inflation, driven in part by the conflict in the Middle East. They also pointed to the risk of higher interest rates and ongoing policy uncertainty, particularly surrounding tariffs and global trade, as key headwinds for the manufacturing sector."
+    },
+    {
+      "id": "4965610",
+      "time": "2026-07-01 22:08:35",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國將多名個人列入禁毒制裁清單。"
+    },
+    {
+      "id": "te:markets:563469",
+      "time": "2026-07-01 22:08:16",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Brazil",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Ibovespa Falls Following New Election Poll — The Ibovespa fell nearly 1% to trade above 170,000 on Wednesday as investors reacted to a new presidential election poll and remained cautious ahead of key US labor market data. A new AtlasIntel/Bloomberg survey showed President Lula holding a 6.5-point lead over Flávio Bolsonaro in a hypothetical runoff, backing the outlook of a government that is fiscally dovish. Financial stocks led losses, with Itaú and Bradesco down nearly 1%, while utilities also weakened, with Axia falling close to 2%. Petrobras shed nearly 1% as oil prices remained near pre-conflict levels. Vale also lost close to 1% as iron ore prices declined after new EU steel import barriers raised concerns over weaker demand for steelmaking raw materials. Steelmakers also fell, with Gerdau down over 1%."
+    },
+    {
+      "id": "4965609",
+      "time": "2026-07-01 22:08:10",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "美國駐北約大使：我們絕不支援歐洲防務倡議中出臺的保護主義相關表述。"
+    },
+    {
+      "id": "4965608",
+      "time": "2026-07-01 22:08:06",
+      "tags": [
+        "公司",
+        "市場",
+        "焦點"
+      ],
+      "text": "【先導基電收到上交所問詢函，要求說明是否存在內幕資訊提前洩露的情況】先導基電公告，公司於2026年7月1日收到上海證券交易所上市公司管理一部下發的《關於對上海先導基電科技股份有限公司有關股價波動及收購資產事項的問詢函》。上交所表示，公司公告提交當日，股價漲停並觸及異常波動，年初至今，公司股價累計上漲148.58%。請公司：（1）補充披露本次收購事項的具體過程，包括交易的具體環節和進展，重要時間節點和參與知悉的人員範圍等；（2）按照本所相關規定，全面自查並核實公司控股股東、實際控制人、董事、高管、交易對方及其他相關方等內幕資訊知情人近期股票交易情況，說明是否存在內幕資訊提前洩露的情況。"
+    },
+    {
+      "id": "mkt:019f1e02-2360-7aab-8c5e-fcd1b2646522",
+      "time": "2026-07-01 22:08:04",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. NATO ambassador says Washington will revisit overflight-rights issues in its assessment of European forces."
+    },
+    {
+      "id": "4965607",
+      "time": "2026-07-01 22:07:55",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國駐北約大使：我們最需要重點關注的是國防工業及其產能建設。"
+    },
+    {
+      "id": "4965606",
+      "time": "2026-07-01 22:07:54",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "交易商削減英國央行加息押注，定價年末累計加息 20 個基點。"
+    },
+    {
+      "id": "te:markets:563468",
+      "time": "2026-07-01 22:07:54",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "Tesla Stock Price Hits 4-week High — Tesla shares increased to 427.10 USD, the highest since June 2026. Over the past 4 weeks, Tesla gained 2.42%, and in the last 12 months, it increased 41.65%."
+    },
+    {
+      "id": "4965605",
+      "time": "2026-07-01 22:07:27",
+      "tags": [
+        "國際"
+      ],
+      "text": "美方特使：美軍歐洲駐軍評估將重新審議飛越權事宜。"
+    },
+    {
+      "id": "mkt:019f1e01-6a7e-7aab-8c5e-f577cea18de9",
+      "time": "2026-07-01 22:07:16",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Wall Street (US)",
+        "Dow",
+        "Impact bullish",
+        "Nasdaq100",
+        "Impact bearish",
+        "S&P500"
+      ],
+      "text": "Dow Jones erased earlier losses to trade higher; Nasdaq Composite down 0.4%, S&P 500 down 0.1%."
+    },
+    {
+      "id": "4965604",
+      "time": "2026-07-01 22:06:52",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【美國最強AI公司，暗藏針對中國的“監視程式碼”？】近日，有外國網民在海外社交平臺Reddit上爆出猛料，稱美國目前最強的AI科技企業之一Anthropic推出的AI程式設計工具Claude Code的客戶端裡，暗藏著一段針對中國的“監視程式碼”，且該程式碼已經存在了長達3個月之久。目前，此事已經在美國的網路上引起了關注。除了LegitMichel777的原貼在Reddit上獲得了上千次點贊和數百條評論外，在美國的社交平臺X上，一條介紹此事的帖文更是獲得了近400萬的閱讀量和近3000次轉發（截至北京時間7月1日下午6時）。最後，在這番質疑聲浪下，Anthropic公司Claude Code產品負責人薩里克·希希帕爾（Thariq Shihipar）在7月1日出面回應了此事。他的回應相當輕描淡寫，稱這是“一個實驗”，並稱其團隊已經有了更好的應對方案，明天會撤下這段程式碼。（環球時報）"
+    },
+    {
+      "id": "4965603",
+      "time": "2026-07-01 22:06:40",
+      "tags": [
+        "其他"
+      ],
+      "text": "沃什：我們今後無需再完全依賴來自政府機構、本身存在計量偏差的資料了。"
+    },
+    {
+      "id": "4965602",
+      "time": "2026-07-01 22:06:16",
+      "tags": [
+        "市場"
+      ],
+      "text": "【貝萊德：英國國債長期來看具有吸引力】貝萊德投資組合研究主管Vivek Paul在貝萊德2026年年中展望媒體圓桌會議上表示，長期來看，與其他發達市場國債相比，英國國債顯得具有吸引力。他表示，英國國債價格已經反映了期限溢價預期，且與同類債券相比，其提供的收益率具有吸引力。Paul表示，由於政治動盪，英國國債近期可能會經歷波動，但長期來看具有吸引力。"
+    },
+    {
+      "id": "4965601",
+      "time": "2026-07-01 22:05:44",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【大空頭Michael Burry做空卡特彼勒、英偉達等個股及SOXX 股價聞訊下跌】大空頭原型Michael Burry週二深夜在Substack發文稱，他首次做空卡特彼勒股票，同時還建立了iShares半導體ETF（程式碼SOXX）、英偉達、應用材料公司和特斯拉的空頭倉位。週三交易中，卡特彼勒股價一度下跌4.9%，應用材料一度下跌8.1%；SOXX下跌4.9%，英偉達下跌3.3%，特斯拉一度下跌0.6%。"
+    },
+    {
+      "id": "4965600",
+      "time": "2026-07-01 22:05:29",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "安謀控股與臺積電在美上市股份分別下跌4.6%和3.4%。"
+    },
+    {
+      "id": "4965599",
+      "time": "2026-07-01 22:05:25",
+      "tags": [
+        "市場"
+      ],
+      "text": "費城半導體指數下跌3.6%。"
+    },
     {
       "id": "4965598",
       "time": "2026-07-01 22:05:21",
@@ -10,6 +239,14 @@
         "國際"
       ],
       "text": "美國晶片股早盤下跌。英偉達股價下跌2.3%，美滿電子科技下跌2.7%，博通下跌1.4%。美光科技下跌6.7%，英特爾下跌4%，超威半導體下跌3.5%。"
+    },
+    {
+      "id": "4965597",
+      "time": "2026-07-01 22:05:02",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國眾議院議長約翰遜及其他共和黨領導人在信函中呼籲特朗普按原計劃在8月中旬終止《瓊斯法案》豁免。"
     },
     {
       "id": "4965596",
@@ -35,6 +272,15 @@
         "國際"
       ],
       "text": "沃什：美國憲法設計是生產率驅動型經濟增長的秘訣之一。"
+    },
+    {
+      "id": "em:qqyh_mlc:202607013790571173",
+      "time": "2026-07-01 22:03:55",
+      "tags": [
+        "央行",
+        "美聯儲"
+      ],
+      "text": "美聯儲主席沃什表示，至少在短時間內仍將有點陣圖。"
     },
     {
       "id": "mkt:019f1dfe-2b35-7aab-8c5e-ea2d78af1b8f",
@@ -241,6 +487,15 @@
         "The Fed (FOMC)"
       ],
       "text": "Federal Reserve Chair Kevin Warsh said he hopes to use new technology to understand the economy within 9 to 12 months."
+    },
+    {
+      "id": "em:qqyh_ygyh:202607013790568868",
+      "time": "2026-07-01 22:00:57",
+      "tags": [
+        "央行",
+        "英國央行"
+      ],
+      "text": "【英國央行行長貝利：降息仍然不在考慮範圍內】英國央行行長安德魯·貝利表示，儘管能源市場大幅回落後通脹威脅減輕，但降息仍然“不在考慮範圍內”。"
     },
     {
       "id": "4965580",
@@ -2434,6 +2689,15 @@
       "text": "英國央行行長貝利：前瞻性指引推行一段時間後會變得相當棘手。"
     },
     {
+      "id": "4965456",
+      "time": "2026-07-01 21:33:34",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【廣鋼氣體：關注到個別網路平臺存在涉及公司氦氣產品產能、產品價格、產品規格等不實內容】廣鋼氣體釋出異動公告，公司股票交易連續三個交易日內日收盤價格漲幅偏離值累計達到30%。公司關注到近期媒體報道及市場報道涉及公司與中國科學院合作、推進的國內氦氣小分子深地儲存專案已透過環評公示事項。截至目前，該專案尚處於早期建設階段，後續建設及未來運營對公司經營業績的影響存在不確定性，敬請廣大投資者注意投資風險。同時，公司關注到個別網路平臺存在涉及公司氦氣產品產能、產品價格、產品規格等不實內容，公司提醒廣大投資者以公司在上海證券交易所網站刊登的資訊為準。"
+    },
+    {
       "id": "4965455",
       "time": "2026-07-01 21:33:04",
       "tags": [
@@ -2699,6 +2963,15 @@
         "國際"
       ],
       "text": "美聯儲沃什：通脹風險已經下降。"
+    },
+    {
+      "id": "4965440",
+      "time": "2026-07-01 21:30:26",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "印度中央銀行行長：供給衝擊期間與財政部門協調至關重要。"
     },
     {
       "id": "4965439",
@@ -3185,6 +3458,15 @@
         "MKT News"
       ],
       "text": "Reserve Bank of India governor says inflation is rising but remains below our target."
+    },
+    {
+      "id": "4965416",
+      "time": "2026-07-01 21:24:46",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "【劉國中在中國白俄羅斯地方合作論壇開幕式上發表影片致辭】中國白俄羅斯地方合作論壇7月1日在甘肅省蘭州市開幕。中共中央政治局委員、國務院副總理劉國中發表影片致辭。劉國中表示，在習近平主席和盧卡申科總統的戰略引領下，中白全天候全面戰略伙伴關係高水平發展，各領域合作全方位推進。地方合作是兩國關係的重要組成部分，近年來中白地方交流日益頻繁，友城數量不斷增加，合作領域逐步拓展，取得顯著成效，為兩國務實合作注入強勁動力。（新華社）"
     },
     {
       "id": "mkt:019f1dda-7bd2-7aab-8c5a-e22f58ba0998",
@@ -131071,86 +131353,6 @@
         "國際"
       ],
       "text": "特朗普將於週四在白宮晚宴上款待農民。"
-    },
-    {
-      "id": "mkt:019ef9f6-f639-7dd8-b0fb-dd5a69254a02",
-      "time": "2026-06-24 22:09:32",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "Treasury Yields",
-        "US10Y",
-        "Impact mixed",
-        "S&P500",
-        "Impact bullish"
-      ],
-      "text": "U.S. 30-year Treasury yield fell to 4.8572%, the lowest level since April 15."
-    },
-    {
-      "id": "te:markets:561581",
-      "time": "2026-06-24 22:08:47",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "stocks",
-        "Importance 1"
-      ],
-      "text": "Nvidia Stock Price Hits 7-week Low — Nvidia shares decreased to 199.32 USD, the lowest since May 2026. Over the past 4 weeks, Nvidia Corporation lost 7.09%, and in the last 12 months, it increased 29.36%."
-    },
-    {
-      "id": "4953008",
-      "time": "2026-06-24 22:08:21",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國 30 年期美債收益率跌至 4.8572%，創 4 月 15 日以來新低。"
-    },
-    {
-      "id": "4953007",
-      "time": "2026-06-24 22:07:55",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國郵政署告知國會，根據一項提案，該機構將不為不披露選民登記名單的各州遞送選票。"
-    },
-    {
-      "id": "mkt:019ef9f5-7730-7dd8-b0fb-d1c7ab37b071",
-      "time": "2026-06-24 22:07:54",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Market sources say the US will remove some individuals from a Russia-related sanctions list."
-    },
-    {
-      "id": "4953006",
-      "time": "2026-06-24 22:07:30",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：美國將部分個人從與俄羅斯相關的制裁名單中移除。"
-    },
-    {
-      "id": "te:economy:561577",
-      "time": "2026-06-24 22:07:01",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "United States",
-        "New Home Sales",
-        "Importance 3"
-      ],
-      "text": "US New Home Sales Fall for 2nd Month — Sales of new single-family homes in the US tumbled 7.3% month-over-month to a seasonally adjusted annualized rate of 580 thousand in May 2026, the lowest in four months, following an upwardly revised 626 thousand in April and well below forecasts of 640 thousand. New home sales fell for a second straight month, mainly due to a 26.9% plunge in the West (to 117 thousand) and a 4.1% fall in the South (to 350 thousand). In contrast, sales rose 3% in the Northeast (to 34 thousand) and soared 16.2% in the Midwest (to 79 thousand)."
-    },
-    {
-      "id": "4953005",
-      "time": "2026-06-24 22:06:19",
-      "tags": [
-        "公司",
-        "市場",
-        "國際"
-      ],
-      "text": "【機構：在AI相關擔憂之際，歐元信用違約保護成本微升】隨著對科技股估值的擔憂降低了對風險資產的偏好，為歐元計價信用債提供違約保險的成本上升。瑞訊銀行的Ipek Ozkardeskaya在一份報告中表示，投資者擔心科技公司的高估值，其中一些公司缺乏清晰的盈利途徑。市場等待美國科技公司美光科技的業績，該業績料將於週三美國股市收盤後釋出。該業績可能為AI相關的投資是否值得提供線索。標普全球市場財智資料顯示，歐元高收益信用違約掉期的iTraxx Europe Crossover指數上漲1個基點，報249個基點。"
     }
   ]
 }
