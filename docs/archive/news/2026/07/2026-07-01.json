@@ -1,7 +1,159 @@
 {
   "date": "2026-07-01",
-  "count": 3514,
+  "count": 3530,
   "items": [
+    {
+      "id": "4965668",
+      "time": "2026-07-01 22:35:21",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金突破4110美元/盎司，日內漲2.60%。"
+    },
+    {
+      "id": "mkt:019f1e1a-edc9-7aab-8c60-a25fe7441b56",
+      "time": "2026-07-01 22:35:08",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "Spot gold broke above $4,110/oz, rising 2.56% on the day."
+    },
+    {
+      "id": "mkt:019f1e1a-cdf0-7aab-8c60-9d2e7ce7eb15",
+      "time": "2026-07-01 22:35:00",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Moscow Exchange reported total trading volume of 197.7 tln rubles in June."
+    },
+    {
+      "id": "4965667",
+      "time": "2026-07-01 22:34:08",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "EIA資料顯示，美國原油庫存連續第10周錄得下降。"
+    },
+    {
+      "id": "4965666",
+      "time": "2026-07-01 22:34:01",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "美國西海岸原油庫存降至歷史最低水平。"
+    },
+    {
+      "id": "mkt:019f1e19-d992-7aab-8c60-972bad077469",
+      "time": "2026-07-01 22:33:58",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "EIA data show U.S. crude inventories fell for a 10th consecutive week."
+    },
+    {
+      "id": "mkt:019f1e19-6096-7aab-8c60-8be9e88209ab",
+      "time": "2026-07-01 22:33:27",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "【EIA weekly: U.S. strategic petroleum reserve at lowest since May 1983】EIA weekly data for the week to June 26: Strategic Petroleum Reserve stocks fell to their lowest level since the week to May 20, 1983. U.S. commercial crude inventories excluding the SPR hit their lowest since the week to Sept. 28, 2018. Domestic crude production fell by the largest weekly margin since the week to May 1, 2026. U.S. crude exports were the lowest since the week to March 27, 2026."
+    },
+    {
+      "id": "4965665",
+      "time": "2026-07-01 22:33:23",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "美國製裁與巴西第一資本司令部（PCC）存在關聯的個人及企業。"
+    },
+    {
+      "id": "4965664",
+      "time": "2026-07-01 22:33:13",
+      "tags": [
+        "公司"
+      ],
+      "text": "【南威軟體：2026年二季度獲6項發明專利證書】南威軟體公告稱，2026年第二季度，公司及下屬子公司收到國家智慧財產權局頒發的6項發明專利證書，包括“一種車牌識別錯誤過濾方法、裝置、裝置及介質”等。截至目前，公司及下屬子公司共擁有154項發明專利、16項實用新型專利和33項外觀設計專利。上述專利獲批有助於完善公司智慧財產權保護機制，強化核心技術研發實力，鞏固行業地位。"
+    },
+    {
+      "id": "4965663",
+      "time": "2026-07-01 22:33:00",
+      "tags": [
+        "其他"
+      ],
+      "text": "巴西官員：厄爾尼諾現象確實值得通脹擔憂。"
+    },
+    {
+      "id": "4965662",
+      "time": "2026-07-01 22:32:35",
+      "tags": [
+        "其他"
+      ],
+      "text": "莫斯科交易所 6 月總成交額達 197.7 萬億盧布。"
+    },
+    {
+      "id": "4965661",
+      "time": "2026-07-01 22:32:29",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國汽車工人聯合會（UAW）： Bridgewater Interiors  超1000名工人批准了到2030年最高時薪達35美元的合同。"
+    },
+    {
+      "id": "te:markets:563490",
+      "time": "2026-07-01 22:32:16",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "US Dollar Index Eases from 15-Month High — The US dollar index rose to 101.3 on Wednesday, easing from the 15-month high of 101.6 earlier in the session after Fed Chairman Warsh said that inflationary risks are lower. The remark was aligned with a reduction in the ISM Manufacturing prices gauge, aided by the pullback in energy prices, and taming the risk of multiple Fed rate hikes this year Still, a majority of the market continued to expect some level of tightening. Data aggregated by the ADP indicated that the US private sector added nearly 100,000 jobs in June, slightly under market expectations but firmly above the average this year to maintain leeway for the Fed to restrict monetary policy. The dollar was also supported by Warsh's campaign to reduce the central bank's balance sheet, limiting the supply of dollars and playing a part in the unwinding of the dollar debasement trade from earlier in the year. Lastly, bets of ECB hikes eased amid softer inflation in the bloc, while a fiscally-dovish Japan pressured the yen."
+    },
+    {
+      "id": "4965660",
+      "time": "2026-07-01 22:32:04",
+      "tags": [
+        "其他"
+      ],
+      "text": "巴西官員：我們有更清晰的跡象表明厄爾尼諾現象正在強勢來襲。"
+    },
+    {
+      "id": "4965659",
+      "time": "2026-07-01 22:31:50",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國能源部：美國戰略石油儲備減少553.6萬桶，至3.25655億桶。"
+    },
+    {
+      "id": "4965658",
+      "time": "2026-07-01 22:31:38",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國能源部資料顯示，美國煉油廠開工率為96.6%，前一週為96.1%。"
+    },
     {
       "id": "4965657",
       "time": "2026-07-01 22:31:32",

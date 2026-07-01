@@ -1,7 +1,159 @@
 {
-  "updated": "2026-07-01 22:32:14",
-  "count": 14268,
+  "updated": "2026-07-01 22:36:06",
+  "count": 14270,
   "items": [
+    {
+      "id": "4965668",
+      "time": "2026-07-01 22:35:21",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金突破4110美元/盎司，日內漲2.60%。"
+    },
+    {
+      "id": "mkt:019f1e1a-edc9-7aab-8c60-a25fe7441b56",
+      "time": "2026-07-01 22:35:08",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "Spot gold broke above $4,110/oz, rising 2.56% on the day."
+    },
+    {
+      "id": "mkt:019f1e1a-cdf0-7aab-8c60-9d2e7ce7eb15",
+      "time": "2026-07-01 22:35:00",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Moscow Exchange reported total trading volume of 197.7 tln rubles in June."
+    },
+    {
+      "id": "4965667",
+      "time": "2026-07-01 22:34:08",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "EIA資料顯示，美國原油庫存連續第10周錄得下降。"
+    },
+    {
+      "id": "4965666",
+      "time": "2026-07-01 22:34:01",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "美國西海岸原油庫存降至歷史最低水平。"
+    },
+    {
+      "id": "mkt:019f1e19-d992-7aab-8c60-972bad077469",
+      "time": "2026-07-01 22:33:58",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "EIA data show U.S. crude inventories fell for a 10th consecutive week."
+    },
+    {
+      "id": "mkt:019f1e19-6096-7aab-8c60-8be9e88209ab",
+      "time": "2026-07-01 22:33:27",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "【EIA weekly: U.S. strategic petroleum reserve at lowest since May 1983】EIA weekly data for the week to June 26: Strategic Petroleum Reserve stocks fell to their lowest level since the week to May 20, 1983. U.S. commercial crude inventories excluding the SPR hit their lowest since the week to Sept. 28, 2018. Domestic crude production fell by the largest weekly margin since the week to May 1, 2026. U.S. crude exports were the lowest since the week to March 27, 2026."
+    },
+    {
+      "id": "4965665",
+      "time": "2026-07-01 22:33:23",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "美國製裁與巴西第一資本司令部（PCC）存在關聯的個人及企業。"
+    },
+    {
+      "id": "4965664",
+      "time": "2026-07-01 22:33:13",
+      "tags": [
+        "公司"
+      ],
+      "text": "【南威軟體：2026年二季度獲6項發明專利證書】南威軟體公告稱，2026年第二季度，公司及下屬子公司收到國家智慧財產權局頒發的6項發明專利證書，包括“一種車牌識別錯誤過濾方法、裝置、裝置及介質”等。截至目前，公司及下屬子公司共擁有154項發明專利、16項實用新型專利和33項外觀設計專利。上述專利獲批有助於完善公司智慧財產權保護機制，強化核心技術研發實力，鞏固行業地位。"
+    },
+    {
+      "id": "4965663",
+      "time": "2026-07-01 22:33:00",
+      "tags": [
+        "其他"
+      ],
+      "text": "巴西官員：厄爾尼諾現象確實值得通脹擔憂。"
+    },
+    {
+      "id": "4965662",
+      "time": "2026-07-01 22:32:35",
+      "tags": [
+        "其他"
+      ],
+      "text": "莫斯科交易所 6 月總成交額達 197.7 萬億盧布。"
+    },
+    {
+      "id": "4965661",
+      "time": "2026-07-01 22:32:29",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國汽車工人聯合會（UAW）： Bridgewater Interiors  超1000名工人批准了到2030年最高時薪達35美元的合同。"
+    },
+    {
+      "id": "te:markets:563490",
+      "time": "2026-07-01 22:32:16",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "US Dollar Index Eases from 15-Month High — The US dollar index rose to 101.3 on Wednesday, easing from the 15-month high of 101.6 earlier in the session after Fed Chairman Warsh said that inflationary risks are lower. The remark was aligned with a reduction in the ISM Manufacturing prices gauge, aided by the pullback in energy prices, and taming the risk of multiple Fed rate hikes this year Still, a majority of the market continued to expect some level of tightening. Data aggregated by the ADP indicated that the US private sector added nearly 100,000 jobs in June, slightly under market expectations but firmly above the average this year to maintain leeway for the Fed to restrict monetary policy. The dollar was also supported by Warsh's campaign to reduce the central bank's balance sheet, limiting the supply of dollars and playing a part in the unwinding of the dollar debasement trade from earlier in the year. Lastly, bets of ECB hikes eased amid softer inflation in the bloc, while a fiscally-dovish Japan pressured the yen."
+    },
+    {
+      "id": "4965660",
+      "time": "2026-07-01 22:32:04",
+      "tags": [
+        "其他"
+      ],
+      "text": "巴西官員：我們有更清晰的跡象表明厄爾尼諾現象正在強勢來襲。"
+    },
+    {
+      "id": "4965659",
+      "time": "2026-07-01 22:31:50",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國能源部：美國戰略石油儲備減少553.6萬桶，至3.25655億桶。"
+    },
+    {
+      "id": "4965658",
+      "time": "2026-07-01 22:31:38",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國能源部資料顯示，美國煉油廠開工率為96.6%，前一週為96.1%。"
+    },
     {
       "id": "4965657",
       "time": "2026-07-01 22:31:32",
@@ -131430,130 +131582,6 @@
         "Brent"
       ],
       "text": "U.S. West Coast crude inventories fell to their lowest level since 2004."
-    },
-    {
-      "id": "4953056",
-      "time": "2026-06-24 22:35:53",
-      "tags": [
-        "其他"
-      ],
-      "text": "幣安：將撤回其在希臘提交的《加密資產市場法規》（MiCA）牌照申請。並將轉而在另一個歐盟成員國申請授權。"
-    },
-    {
-      "id": "4953055",
-      "time": "2026-06-24 22:35:44",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國西海岸原油庫存降至2004年以來最低水平。"
-    },
-    {
-      "id": "te:markets:561594",
-      "time": "2026-06-24 22:35:35",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "stocks",
-        "Importance 1"
-      ],
-      "text": "Corning Stock Price Hits All-time High — Corning shares increased to an all-time high of 212.53 USD. Over the past 4 weeks, Corning gained 7.63%, and in the last 12 months, it increased 310.62%."
-    },
-    {
-      "id": "4953054",
-      "time": "2026-06-24 22:35:30",
-      "tags": [
-        "其他"
-      ],
-      "text": "北約秘書長呂特接受採訪時表示： 有 500 架美軍戰機從義大利境內美軍基地起飛，為 “史詩怒火行動” 提供支援。 此次行動規模空前。"
-    },
-    {
-      "id": "4953053",
-      "time": "2026-06-24 22:34:31",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：俄羅斯自由派政治人物馬克西姆·克魯格洛夫因散佈關於軍隊的\"虛假新聞\"被判入獄。"
-    },
-    {
-      "id": "4953052",
-      "time": "2026-06-24 22:34:20",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "達拉斯聯儲調查：美國頁岩油氣高管表示，2026年第二季度石油產量將溫和增長。"
-    },
-    {
-      "id": "4953051",
-      "time": "2026-06-24 22:34:15",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "達拉斯聯儲調查顯示，企業預計2026年底西德克薩斯中質原油價格將為每桶81美元。"
-    },
-    {
-      "id": "4953050",
-      "time": "2026-06-24 22:34:11",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "達拉斯聯儲調查顯示，石油企業預計2026年末亨利港天然氣價格為每百萬英熱單位3.36美元。"
-    },
-    {
-      "id": "4953049",
-      "time": "2026-06-24 22:34:06",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "達拉斯聯儲調查顯示，2026年第二季度得克薩斯州、路易斯安那州與新墨西哥州油氣活躍度大幅攀升。"
-    },
-    {
-      "id": "mkt:019efa0d-6db4-7dd8-b0fd-2e281ef896fb",
-      "time": "2026-06-24 22:34:04",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Germany's defense minister said continuing the frigate project would only be possible at disproportionately high costs and with delays."
-    },
-    {
-      "id": "te:economy:561593",
-      "time": "2026-06-24 22:33:49",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Mongolia",
-        "Interest Rate",
-        "Importance 0"
-      ],
-      "text": "Central Bank of Mongolia Leaves Monetary Policy Unchanged — The central bank of Mongolia kept its key policy rate unchanged at 12% in June 2026, citing the current state of the economy, banking system, and financial markets, as well as domestic and external conditions and associated risks. Annual inflation has picked up in recent months, driven by rising fuel and food prices, reaching 11.2% in May. Looking ahead, increases in meat and fuel prices are expected to moderate gradually, with inflation projected to stabilise within the central bank’s 5% target range (±2 percentage points) over the medium term. However, upside risks to prices remain if supply-side pressures persist, including adverse seasonal conditions, animal diseases, and geopolitical uncertainties linked to the Middle East and the Russia-Ukraine conflict, particularly if spillovers prove stronger than expected. Policymakers said future policy decisions will depend on developments in inflation, supply-side factors, and both domestic and external economic conditions."
-    },
-    {
-      "id": "mkt:019efa0d-1db6-7dd8-b0fd-2505cd3585f6",
-      "time": "2026-06-24 22:33:43",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Germany's defense minister said the F126 frigate project has cost €2.3 billion to date."
-    },
-    {
-      "id": "4953048",
-      "time": "2026-06-24 22:33:35",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國司法部：CHEMOURS就全氟和多氟烷基物質排放問題達成 4.5 億美元和解協議。"
-    },
-    {
-      "id": "4953047",
-      "time": "2026-06-24 22:33:10",
-      "tags": [
-        "公司"
-      ],
-      "text": "【海科新源：電解液溶劑及新增劑量價齊升 公司整體處於滿產滿銷狀態】海科新源(301292.SZ)在投資者關係活動記錄表中披露，在“緊平衡”供需格局下，電解液溶劑及核心新增劑價格體系具備極強支撐力，行業已步入量價齊升的良性週期。隨著傳統排產旺季的到來，溶劑與新增劑的供需關係有望進一步趨緊，價格大機率將維持高位執行。公司目前整體處於滿產滿銷狀態，並且已經儲備了充足的“彈藥”來精準匹配下游核心客戶的訂單增長。公司與比亞迪、崑崙新材、法恩萊特、合肥乾銳等頭部客戶簽署的覆蓋2026-2028年的長單正在穩步地執行與交付中。雖然這部分長協鎖定了公司年均45萬噸以上的銷量，但這僅佔公司總產能的一部分。2026年一季度的強勢扭虧為盈，宣告了公司業績拐點的正式到來，公司有信心延續貫穿全年的交付週期。"
     }
   ]
 }
