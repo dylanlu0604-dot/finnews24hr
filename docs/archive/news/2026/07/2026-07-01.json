@@ -1,7 +1,111 @@
 {
   "date": "2026-07-01",
-  "count": 1305,
+  "count": 1316,
   "items": [
+    {
+      "id": "mkt:019f1c11-bbe0-7aab-8c4b-c6e36dce64f7",
+      "time": "2026-07-01 13:05:51",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Hengqin port passenger traffic tops 17.77 million in 1H 2026】Zhuhai entry-exit inspection authorities report passenger throughput at Hengqin port reached 17.77 million in 1H 2026, up 27.8% YoY. Vehicle crossings totaled 2.21 million, up 40.6%; Macau single‑plate vehicles accounted for 1.46 million, or 66.2% of vehicle traffic. Two-way travel momentum between Hengqin and Macau remains strong."
+    },
+    {
+      "id": "4964248",
+      "time": "2026-07-01 13:05:47",
+      "tags": [
+        "其他"
+      ],
+      "text": "【2026上半年經橫琴口岸出入境客流超1777萬人次】據珠海邊檢總站橫琴邊檢站統計，2026年上半年，經橫琴口岸出入境旅客總量超1777萬人次，同比增長27.8%；出入境車輛達221萬輛次，同比增長40.6%。其中澳門單牌車達146萬輛次，佔車輛總數的66.2%，口岸客流與車流同步攀升，琴澳雙向往來活力持續釋放。"
+    },
+    {
+      "id": "4964247",
+      "time": "2026-07-01 13:05:13",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "算力租賃概念再度拉昇，潤建股份2連板，直真科技漲停，此前朗源股份、飛利信20cm漲停，光環新網、中富通、潤澤科技均漲超10%。"
+    },
+    {
+      "id": "4964246",
+      "time": "2026-07-01 13:04:49",
+      "tags": [
+        "國際"
+      ],
+      "text": "本田日本6月銷量同比增長20.9%。"
+    },
+    {
+      "id": "4964245",
+      "time": "2026-07-01 13:04:34",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "滬深兩市成交額超2.5萬億元，較上日此時放量3049億元。"
+    },
+    {
+      "id": "4964244",
+      "time": "2026-07-01 13:04:30",
+      "tags": [
+        "國際"
+      ],
+      "text": "日產汽車6月日本銷量同比下降3.7%。"
+    },
+    {
+      "id": "mkt:019f1c10-430c-7aab-8c4b-bea7970b8ffa",
+      "time": "2026-07-01 13:04:15",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "US Economy",
+        "USDJPY",
+        "Impact bullish",
+        "DXY",
+        "EURUSD",
+        "Impact bearish"
+      ],
+      "text": "【ITC: Yen depreciation unusually orderly】InTouch Capital Markets senior FX analyst Sean Callow said the recent yen depreciation has been notable for being unusually smooth and orderly. The dollar's rise against the yen has been moderate, without the violent swings that typically justify Japanese intervention. Callow said weaker oil prices should have offered some support to the yen, but interest-rate dynamics are dominating: strong US data have reinforced expectations for Fed hikes this year. Although the Bank of Japan acted in June, a roughly 1% yield is not attractive for a currency trading near a 40-year low versus the dollar."
+    },
+    {
+      "id": "4964243",
+      "time": "2026-07-01 13:04:10",
+      "tags": [
+        "市場"
+      ],
+      "text": "巴基斯坦KSE-100指數上漲1%，至181,922.30點。"
+    },
+    {
+      "id": "mkt:019f1c0f-2215-7aab-8c4b-b1e18361f824",
+      "time": "2026-07-01 13:03:01",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "SZSE Component",
+        "Impact bearish"
+      ],
+      "text": "China's STAR 50 index widened losses to 1% in afternoon trade after rising more than 2% in early trade."
+    },
+    {
+      "id": "4964242",
+      "time": "2026-07-01 13:02:03",
+      "tags": [
+        "國際"
+      ],
+      "text": "【莫迪與伊朗總統通電話，提及霍爾木茲海峽航行安全】印度總理納倫德拉・莫迪與伊朗總統馬蘇德・佩澤希基揚通電話。眼下印度船舶正逐步恢復前往波斯灣的航運，莫迪在通話中著重強調霍爾木茲海峽航行自由的重要性。通話結束後，莫迪在X平臺發文表示，他對德黑蘭與華盛頓持續開展對話表示歡迎，並“希望雙方持續努力，促成該地區實現持久和平”。伊朗方面釋出宣告稱，今年2月美、以兩國空襲德黑蘭，伊朗最高領袖阿亞圖拉・阿里・哈梅內伊遇襲身亡，莫迪代表印度政府與人民向伊朗表達了哀悼與慰問。宣告同時透露，莫迪邀請佩澤希基揚出席今年晚些時候在印度舉辦的金磚國家領導人峰會。"
+    },
+    {
+      "id": "4964241",
+      "time": "2026-07-01 13:02:00",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "科創50日內跌幅達1.08%，成分股中，源傑科技跌5.74%，寒武紀跌5.64%，芯原股份跌5.36%，時代電氣跌4.66%。"
+    },
     {
       "id": "mkt:019f1c0d-a02e-7aab-8c4b-aa9410e7cef0",
       "time": "2026-07-01 13:01:22",
