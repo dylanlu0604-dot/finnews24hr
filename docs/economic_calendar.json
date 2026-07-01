@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-01 16:35:22",
+  "updated": "2026-07-01 16:39:20",
   "timezone": "Asia/Taipei",
   "source": "群益期貨 財經日曆",
   "source_home": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar",
@@ -8363,9 +8363,9 @@
               "title": "英國6月製造業PMI終值",
               "importance": 2,
               "previous": "53.1",
-              "forecast": "--",
-              "actual": "--",
-              "actual_released": false,
+              "forecast": "53.1",
+              "actual": "52.5",
+              "actual_released": true,
               "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1173576",
               "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
               "history": [
@@ -33724,9 +33724,9 @@
       "title": "英國6月製造業PMI終值",
       "importance": 2,
       "previous": "53.1",
-      "forecast": "--",
-      "actual": "--",
-      "actual_released": false,
+      "forecast": "53.1",
+      "actual": "52.5",
+      "actual_released": true,
       "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1173576",
       "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
       "history": [
