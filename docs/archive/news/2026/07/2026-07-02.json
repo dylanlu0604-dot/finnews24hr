@@ -1,7 +1,36 @@
 {
   "date": "2026-07-02",
-  "count": 72,
+  "count": 75,
   "items": [
+    {
+      "id": "mkt:019f1e99-595a-7aab-8c63-af913c71629c",
+      "time": "2026-07-02 00:53:14",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. Trade Representative said the U.S. will continue consultations with Mexico and Canada to address shortcomings in the agreement and U.S. trade deficits with those countries."
+    },
+    {
+      "id": "4965799",
+      "time": "2026-07-02 00:52:05",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "據AXIOS：美國在多哈談判中試圖勸說伊朗放棄霍爾木茲海峽“通行收費”機制。"
+    },
+    {
+      "id": "mkt:019f1e98-0c47-7aab-8c63-a4f2fbb883e8",
+      "time": "2026-07-02 00:51:48",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "Axios reports the US sought in Doha talks to persuade Iran to abandon a proposed \"transit fee\" for passage through the Strait of Hormuz."
+    },
     {
       "id": "4965798",
       "time": "2026-07-02 00:48:59",

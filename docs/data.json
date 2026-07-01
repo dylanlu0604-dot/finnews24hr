@@ -1,7 +1,36 @@
 {
-  "updated": "2026-07-02 00:49:54",
-  "count": 14235,
+  "updated": "2026-07-02 00:53:48",
+  "count": 14232,
   "items": [
+    {
+      "id": "mkt:019f1e99-595a-7aab-8c63-af913c71629c",
+      "time": "2026-07-02 00:53:14",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. Trade Representative said the U.S. will continue consultations with Mexico and Canada to address shortcomings in the agreement and U.S. trade deficits with those countries."
+    },
+    {
+      "id": "4965799",
+      "time": "2026-07-02 00:52:05",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "據AXIOS：美國在多哈談判中試圖勸說伊朗放棄霍爾木茲海峽“通行收費”機制。"
+    },
+    {
+      "id": "mkt:019f1e98-0c47-7aab-8c63-a4f2fbb883e8",
+      "time": "2026-07-02 00:51:48",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "Axios reports the US sought in Doha talks to persuade Iran to abandon a proposed \"transit fee\" for passage through the Strait of Hormuz."
+    },
     {
       "id": "4965798",
       "time": "2026-07-02 00:48:59",
@@ -131230,62 +131259,6 @@
         "DXY"
       ],
       "text": "i24News reported the Israel Defense Forces struck a vehicle in southern Lebanon carrying suspects who were attempting to cross into an Israeli security zone."
-    },
-    {
-      "id": "mkt:019efa8c-ed0a-7dd8-b100-44ca8643fb75",
-      "time": "2026-06-25 00:53:20",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "【Rubio says U.S., Iran to resume technical talks at end of June】Multiple foreign outlets reported on the 24th that U.S. Secretary of State Rubio said U.S. and Iranian technical teams will resume talks in Switzerland at the end of June."
-    },
-    {
-      "id": "4953218",
-      "time": "2026-06-25 00:53:17",
-      "tags": [
-        "國際"
-      ],
-      "text": "【魯比奧：美伊本月底將繼續技術磋商】據多家外媒24日報道，美國國務卿魯比奧表示，美國和伊朗技術團隊將於6月底在瑞士繼續舉行會談。（新華社）"
-    },
-    {
-      "id": "4953217",
-      "time": "2026-06-25 00:52:07",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國能源部長賴特稱，人們相信石油供應將會增長。"
-    },
-    {
-      "id": "4953216",
-      "time": "2026-06-25 00:51:13",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "比特幣跌破60000美元，日內跌4.36%。"
-    },
-    {
-      "id": "4953215",
-      "time": "2026-06-25 00:50:21",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國能源部長賴特稱，霍爾木茲海峽航運恢復常態尚需數週時間。"
-    },
-    {
-      "id": "mkt:019efa89-f33c-7dd8-b100-3a8de93c57f6",
-      "time": "2026-06-25 00:50:05",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Star Stocks",
-        "NVIDIA",
-        "Market Themes",
-        "Magnificent 7",
-        "NVDA.O"
-      ],
-      "text": "NVIDIA will hold its annual shareholder meeting in 10 minutes."
     }
   ]
 }
