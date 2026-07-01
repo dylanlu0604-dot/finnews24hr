@@ -1,7 +1,36 @@
 {
   "date": "2026-07-01",
-  "count": 1180,
+  "count": 1183,
   "items": [
+    {
+      "id": "te:markets:563234",
+      "time": "2026-07-01 11:51:59",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "India",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "Indian Rupee Extends Losses — The Indian rupee hovered around 94.7 per dollar, extending its recent losses as rising US Treasury yields strengthened the greenback and weighed on Asian currencies. Higher bond yields dampened demand for emerging-market assets, while renewed dollar buying and weaker regional currencies kept pressure on the rupee. Market sentiment remained cautious after stronger-than-expected US labor market data reinforced expectations that the Federal Reserve could keep interest rates higher for longer. Investors are now awaiting additional US employment data for further clues on the Fed's policy outlook. Meanwhile, higher oil prices added another headwind for the currency, as firmer crude prices typically increase India's import bill and demand for dollars. Oil gained support after a Qatari official said US envoys in Doha would not hold high-level talks with Iran, casting doubt on near-term diplomatic progress and reducing expectations of a potential increase in Iranian oil supplies."
+    },
+    {
+      "id": "4964162",
+      "time": "2026-07-01 11:50:38",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【證券板塊強勢拉昇 業內：中證協修訂評價辦法催化行情】今日證券板塊表現亮眼，盤中直線拉昇。中證全指證券公司指數（399975）盤中最高漲超5%。成分股方面，華安證券、天風證券、國盛證券漲停，招商證券漲超8%。多隻證券類ETF同步大漲，券商ETF銀華（159842）、證券ETF景順（159008）等漲近3%，證券ETF南方（512900）盤中成交達9512萬元，該ETF已持續獲得4日資金淨流入。訊息面上，昨日中證協修訂釋出《證券公司做好金融“五篇大文章”專項評價辦法》，推動行業要素資源向科技創新、先進製造、綠色低碳等重大戰略領域集聚。疊加A股上半年累計成交額重新整理半年度歷史紀錄，券商二季度中報業績有望超預期。分析人士指出，當前券商板塊估值處於歷史低位，科創底色逐步被挖掘，投資者可關注流動性充裕的頭部證券ETF及聯接產品，把握板塊中長期配置機會。"
+    },
+    {
+      "id": "4964161",
+      "time": "2026-07-01 11:50:09",
+      "tags": [
+        "公司"
+      ],
+      "text": "【追覓宇宙已有近千家公司 追覓創始人實控158家企業】據媒體報道，追覓被曝整體減員約12%，業務從200多個BU大幅收縮至四大板塊，公司內部進入深度調整期。天眼查資料顯示，最新資料顯示，追覓宇宙已有近千家公司，主要由追覓創始人俞浩和核心成員柏美芳控制。“追覓宇宙”目前已聚集近千家公司，控制權高度集中：創始人俞浩實際控制追覓科技相關核心企業達158家，核心成員柏美芳代持控制的企業更為密集，其中追一控股197家、天空無畏168家、一鼎控股141家。這一以代持搭建、橫跨近千家主體的結構，正處在關鍵的資本節點上——據公開報道，追覓計劃2026年下半年遞交IPO申請，目標估值1500億元。對一家臨近上市的企業而言，控制結構的集中度與代持安排，往往是穿透核查與合規審視的重點。"
+    },
     {
       "id": "4964160",
       "time": "2026-07-01 11:49:39",

@@ -1,7 +1,36 @@
 {
-  "updated": "2026-07-01 11:50:30",
-  "count": 13951,
+  "updated": "2026-07-01 11:54:25",
+  "count": 13948,
   "items": [
+    {
+      "id": "te:markets:563234",
+      "time": "2026-07-01 11:51:59",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "India",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "Indian Rupee Extends Losses — The Indian rupee hovered around 94.7 per dollar, extending its recent losses as rising US Treasury yields strengthened the greenback and weighed on Asian currencies. Higher bond yields dampened demand for emerging-market assets, while renewed dollar buying and weaker regional currencies kept pressure on the rupee. Market sentiment remained cautious after stronger-than-expected US labor market data reinforced expectations that the Federal Reserve could keep interest rates higher for longer. Investors are now awaiting additional US employment data for further clues on the Fed's policy outlook. Meanwhile, higher oil prices added another headwind for the currency, as firmer crude prices typically increase India's import bill and demand for dollars. Oil gained support after a Qatari official said US envoys in Doha would not hold high-level talks with Iran, casting doubt on near-term diplomatic progress and reducing expectations of a potential increase in Iranian oil supplies."
+    },
+    {
+      "id": "4964162",
+      "time": "2026-07-01 11:50:38",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【證券板塊強勢拉昇 業內：中證協修訂評價辦法催化行情】今日證券板塊表現亮眼，盤中直線拉昇。中證全指證券公司指數（399975）盤中最高漲超5%。成分股方面，華安證券、天風證券、國盛證券漲停，招商證券漲超8%。多隻證券類ETF同步大漲，券商ETF銀華（159842）、證券ETF景順（159008）等漲近3%，證券ETF南方（512900）盤中成交達9512萬元，該ETF已持續獲得4日資金淨流入。訊息面上，昨日中證協修訂釋出《證券公司做好金融“五篇大文章”專項評價辦法》，推動行業要素資源向科技創新、先進製造、綠色低碳等重大戰略領域集聚。疊加A股上半年累計成交額重新整理半年度歷史紀錄，券商二季度中報業績有望超預期。分析人士指出，當前券商板塊估值處於歷史低位，科創底色逐步被挖掘，投資者可關注流動性充裕的頭部證券ETF及聯接產品，把握板塊中長期配置機會。"
+    },
+    {
+      "id": "4964161",
+      "time": "2026-07-01 11:50:09",
+      "tags": [
+        "公司"
+      ],
+      "text": "【追覓宇宙已有近千家公司 追覓創始人實控158家企業】據媒體報道，追覓被曝整體減員約12%，業務從200多個BU大幅收縮至四大板塊，公司內部進入深度調整期。天眼查資料顯示，最新資料顯示，追覓宇宙已有近千家公司，主要由追覓創始人俞浩和核心成員柏美芳控制。“追覓宇宙”目前已聚集近千家公司，控制權高度集中：創始人俞浩實際控制追覓科技相關核心企業達158家，核心成員柏美芳代持控制的企業更為密集，其中追一控股197家、天空無畏168家、一鼎控股141家。這一以代持搭建、橫跨近千家主體的結構，正處在關鍵的資本節點上——據公開報道，追覓計劃2026年下半年遞交IPO申請，目標估值1500億元。對一家臨近上市的企業而言，控制結構的集中度與代持安排，往往是穿透核查與合規審視的重點。"
+    },
     {
       "id": "4964160",
       "time": "2026-07-01 11:49:39",
@@ -128216,54 +128245,6 @@
         "Impact bearish"
       ],
       "text": "Zhipu (02513.HK) is reportedly considering a Hong Kong share placement to raise several billion U.S. dollars, potentially as early as next month."
-    },
-    {
-      "id": "4951681",
-      "time": "2026-06-24 11:53:57",
-      "tags": [
-        "其他"
-      ],
-      "text": "【雲南昆明市東川區發生3.6級地震，中國地震局迅速啟動四級應急響應】據中國地震臺網正式測定，2026年6月24日10時53分，在雲南昆明市東川區（北緯26.00度，東經103.13度）發生3.6級地震，震源深度10公里。地震發生後，中國地震局迅速啟動四級應急響應，排程中國地震臺網中心、雲南省地震局開展應急處置，要求有關單位開展聯合會商，加強震情監測和震後趨勢研判，及時報告有關情況。"
-    },
-    {
-      "id": "4951680",
-      "time": "2026-06-24 11:53:24",
-      "tags": [
-        "國際"
-      ],
-      "text": "據法新社、美國《紐約時報》等媒體報道，國際足聯主席因凡蒂諾當地時間週二（23日）確認，美國總統特朗普將出席下月19日在新澤西州舉行的世界盃決賽，並向冠軍球隊頒發獎盃。（環球網）"
-    },
-    {
-      "id": "mkt:019ef7c2-8ff3-7dd8-b0ea-bd081a3ccee1",
-      "time": "2026-06-24 11:53:03",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Thailand's deputy finance minister said there is no pressure to raise interest rates."
-    },
-    {
-      "id": "4951679",
-      "time": "2026-06-24 11:51:38",
-      "tags": [
-        "市場"
-      ],
-      "text": "【中芯國際上漲8.84% 南向資金連續8天淨買入】6月24日早盤，中芯國際衝高震盪，截至午間收盤，報154.23元/股，上漲8.84%，成交額達143億元。訊息面上，有業內人士表示，臺積電已陸續向客戶通知調漲晶圓代工價格，漲價範圍不僅涵蓋市場傳言的3nm製程，更擴及7nm及以下所有先進製程，整體漲幅約5％至10％，影響範圍涵蓋約75％的晶圓營收來源。個股方面，6月23日，中芯國際透過港股通成交122.75億港元，淨買入24.72億港元；已連續8日獲南向資金淨買入，累計淨買入64.92億港元。"
-    },
-    {
-      "id": "4951678",
-      "time": "2026-06-24 11:51:16",
-      "tags": [
-        "其他"
-      ],
-      "text": "智譜據稱正在考慮在香港發售數十億美元的股票。"
-    },
-    {
-      "id": "mkt:019ef7c0-54e0-7dd8-b0ea-b13f555bac57",
-      "time": "2026-06-24 11:50:37",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "cenc said a magnitude 3.0 earthquake occurred at 11:44 on June 24 in Zhenfeng County, Qianxinan Prefecture, Guizhou province, China (25.54°N, 105.74°E); depth 10 km."
     }
   ]
 }
