@@ -1,7 +1,61 @@
 {
   "date": "2026-07-02",
-  "count": 150,
+  "count": 156,
   "items": [
+    {
+      "id": "mkt:019f1eda-2883-7aab-8c64-e2e11d7cc62c",
+      "time": "2026-07-02 02:04:01",
+      "tags": [
+        "MKT News",
+        "QCOM.O",
+        "Impact bullish"
+      ],
+      "text": "Qualcomm (QCOM.O) shares staged a short-lived rally, currently up 1.6%."
+    },
+    {
+      "id": "mkt:019f1eda-235c-7aab-8c64-dc4f0035fb38",
+      "time": "2026-07-02 02:04:00",
+      "tags": [
+        "MKT News",
+        "QCOM.O"
+      ],
+      "text": "Wall Street Journal, citing sources, said the prototype will run a proprietary operating system integrating SpaceX's XAI technology (SPCX.O), is designed to be thinner than the iPhone, and will use a Qualcomm Snapdragon chipset (QCOM.O)."
+    },
+    {
+      "id": "mkt:019f1eda-22f0-7aab-8c64-d6cec22ffdcd",
+      "time": "2026-07-02 02:03:55",
+      "tags": [
+        "MKT News",
+        "SPCX.O",
+        "Impact mixed"
+      ],
+      "text": "The Wall Street Journal reports sources say SpaceX (SPCX.O) has developed a phone-like device prototype aimed at changing how people interact with artificial intelligence. The company reportedly showed the prototype to select investors ahead of an IPO."
+    },
+    {
+      "id": "4965841",
+      "time": "2026-07-02 02:03:24",
+      "tags": [
+        "其他"
+      ],
+      "text": "【凱恩雙響！英格蘭2-1逆轉剛果（金）晉級16強】北京時間7月2日，2026美加墨世界盃1/16決賽，英格蘭隊在上半場落後的情況下，憑藉隊長哈里·凱恩在比賽尾聲階段的梅開二度，以2-1逆轉戰勝剛果（金），成功晉級16強。"
+    },
+    {
+      "id": "4965840",
+      "time": "2026-07-02 02:01:03",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "納斯達克中國金龍指數漲超3%，新氧漲17.23%，世紀互聯漲12.75%，陸金所控股漲7.95%，康迪車業漲7.34%，金生遊樂漲7.14%。"
+    },
+    {
+      "id": "4965839",
+      "time": "2026-07-02 02:00:35",
+      "tags": [
+        "其他"
+      ],
+      "text": "【我國科學家揭示鳥類尾巴演化的“關鍵拼圖”】記者從中國科學院古脊椎動物與古人類研究所獲悉，該所王敏研究員負責的團隊與福建省地質科學研究院聯合，依託福建政和動物群儲存的侏羅紀鳥類化石完成一項重要研究。科學家們釐清了鳥類尾部演化的關鍵順序，補齊了鳥類尾部演化鏈條中長期缺失的關鍵拼圖。相關成果7月2日在國際學術期刊《科學進展》發表。（央視新聞）"
+    },
     {
       "id": "4965838",
       "time": "2026-07-02 01:59:52",
