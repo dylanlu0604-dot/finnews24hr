@@ -1,7 +1,118 @@
 {
   "date": "2026-07-02",
-  "count": 385,
+  "count": 397,
   "items": [
+    {
+      "id": "4966002",
+      "time": "2026-07-02 07:01:53",
+      "tags": [
+        "其他"
+      ],
+      "text": "【同業股權掃貨熱度升溫 中小銀行改革成重要推手】近日，寧夏銀行受讓寧夏黃河農商銀行7.635%股權事項獲批准，成為後者第三大股東。這並非孤例。今年以來，廈門國際銀行增持廊坊銀行、中信銀行競得雲南紅塔銀行股權等案例接連落地。業內人士表示，從入股異地銀行實現跨區展業、主發起行增持村鎮銀行，到戰略投資同業股權，銀行參股同業情形日趨多元，此舉已成為銀行主動最佳化資產配置、完善區域戰略佈局、拓展業務版圖的重要手段。（中國證券報）"
+    },
+    {
+      "id": "4966001",
+      "time": "2026-07-02 07:01:38",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "除了頭版內容，今天《人民日報》涉及財經的主要內容還包括：\n1、中國經濟馳而不息的底氣所在（人民時評）\n2、把握推動養老事業和產業協同發展的著力點（治理之道）\n3、累計運送旅客1.04億人次、貨物8.24億噸 青藏鐵路 神奇天路二十年（大資料觀察）\n4、我國建成全球規模最大的電力供應體系 電力使用者接近8億戶\n5、2026年大國工匠人才推選工作啟動\n6、2025年文化產業營業收入突破20萬億元\n7、約770家中企參加2026年歐洲智慧能源展 “為全球能源轉型提供更高效的路徑”（第一現場）\n8、設施老化凸顯困境 多措並舉啟用運力 南非推進百年鐵路系統升級初顯成效 多項運營指標創下10年來最佳紀錄\n9、已有1500萬人養老金儲蓄嚴重不足——英國實施新版《養老金計劃法案》\n10、讓“心機商標”白費心機（金臺銳評）。"
+    },
+    {
+      "id": "te:markets:563548",
+      "time": "2026-07-02 07:00:35",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "New Zealand",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "New Zealand Stocks Extend Losses — The NZX 50 dropped 11 points, or 0.1%, to 13,600 in Thursday's morning trade, down for the second consecutive session, tracking a decline on Wall Street overnight, as traders reassessed the sustainability of the AI-driven rally. Traders anticipated the release of New Zealand's consumer spending data for May, due on Friday, following the release of New Zealand's business confidence data last Tuesday, as well as US jobs data later today. However, easing oil prices capped losses as inflation concerns subsided, reducing expectations of an interest rate hike. Communication services, industrials, utilities, and consumer staples mainly weighed on the index. Freightways Group shed 1.6%, Henderson Far East Income dropped 1.1%, Auckland International Airport fell 0.9%, and A2 Milk went down 0.5%. On the data front, New Zealand's building permits fell 4.0% in May, reversing an upwardly revised 11.1% rise in April."
+    },
+    {
+      "id": "4966000",
+      "time": "2026-07-02 07:00:35",
+      "tags": [
+        "國際"
+      ],
+      "text": "韓國6月消費者價格指數較上月上升0.1%；預期上升0.1%。"
+    },
+    {
+      "id": "4965999",
+      "time": "2026-07-02 07:00:30",
+      "tags": [
+        "國際"
+      ],
+      "text": "韓國6月核心消費者價格指數較上年同期上升2.5%，較上月持平。"
+    },
+    {
+      "id": "4965998",
+      "time": "2026-07-02 07:00:23",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "韓國6月消費者物價指數同比上漲3.2%，與預期相符。"
+    },
+    {
+      "id": "mkt:019f1fe9-49bd-7aab-8c67-0a62f2284471",
+      "time": "2026-07-02 07:00:10",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Emerging Markets"
+      ],
+      "text": "South Korea June CPI MoM 0.1% (exp. 0.1%; prior 0.5%)."
+    },
+    {
+      "id": "mkt:019f1fe9-4274-7aab-8c67-02351305cb67",
+      "time": "2026-07-02 07:00:08",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "South Korea June CPI YoY 3.2% (consensus 3.20%; May 3.1%)."
+    },
+    {
+      "id": "mkt:019f1fe9-22b4-7aab-8c66-ffa0cf97ff41",
+      "time": "2026-07-02 07:00:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "South Korea | CPI (MoM) (Jun) | actual 0.1% | consensus 0.1% | previous 0.50%"
+    },
+    {
+      "id": "mkt:019f1fe9-22a9-7aab-8c66-f34a0eb254b0",
+      "time": "2026-07-02 07:00:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "South Korea | CPI (YoY) (Jun) | actual 3.2% | consensus 3.20% | previous 3.10%"
+    },
+    {
+      "id": "mkt:019f1fe8-1d1a-7aab-8c66-eeff559ac646",
+      "time": "2026-07-02 06:58:53",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "WTI"
+      ],
+      "text": "Witnesses reported Kyiv was struck by ballistic missiles, with multiple explosions heard."
+    },
+    {
+      "id": "4965996",
+      "time": "2026-07-02 06:58:26",
+      "tags": [
+        "國際"
+      ],
+      "text": "訊息人士與目擊者稱，烏克蘭首都基輔發生多起爆炸。"
+    },
     {
       "id": "4965995",
       "time": "2026-07-02 06:57:08",
