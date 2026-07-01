@@ -1,7 +1,469 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-07-01 07:40:52_
-_本檔包含 2535 則快訊，約 520815 字_
+_更新時間：2026-07-01 08:07:36_
+_本檔包含 2553 則快訊，約 519965 字_
+
+---
+
+### 2026-07-01 08:06:44  #其他
+
+【日經225指數漲幅擴大至2%】日經225指數漲幅擴大至2%，現報71479.62點。
+
+---
+
+### 2026-07-01 08:06:39  #MKT News #Market Regions #Japan & APAC #Nikkei 225 #Impact bullish
+
+Japan's Nikkei 225 rose 2.00% intraday.
+
+---
+
+### 2026-07-01 08:06:37  #Trading Economics #Economy #South Korea #Exports YoY #Importance 2
+
+South Korea Exports Top $100 Billion for 1st Tim — South Korea’s exports surged 70.9% year-on-year to a record high of USD 102.25 billion in June 2026, accelerating sharply from a 53.2% jump in May and marking the strongest growth since June 1976. Exports exceeded USD 100 billion for the first time, mainly driven by a surge in semiconductor shipments. Shipments increased for the 13th consecutive month.
+
+---
+
+### 2026-07-01 08:06:07  #觀點 #國際
+
+【中信建投：基於智駕大行業拐點 產業鏈細分賽道robotaxi、智駕晶片、鐳射雷達均有望充分受益】中信建投指出，2026年是中國智慧駕駛從“功能競賽”轉向“制度化商業落地”的關鍵分水嶺。2024—2025年智駕行業主要圍繞L2+高階輔助駕駛的快速滲透、NOA能力下沉與整車廠智駕平權競爭為核心，2026年，產業座標已明顯切換至三條主線並行：L2進入強監管週期，行業由“拼體驗”轉向“拼合規、拼安全、拼體系”；L3從試點走向有限商業化，責任邊界、准入機制和標準體系開始形成；L4/Robotaxi在中美共振下邁入規模化驗證階段，商業化判斷標準從“能否跑起來”轉向“能否低成本複製、能否跑通單車經濟模型”。基於智駕大行業拐點，產業鏈細分賽道robotaxi、智駕晶片、鐳射雷達均有望充分受益。
+
+---
+
+### 2026-07-01 08:05:57  #MKT News #Market Themes #Chip Wars #AI Revolution
+
+【Huatai Securities: South Korea $1.3tn plan to reshape global semiconductor equipment positioning amid memory cycle】Huatai Securities said South Korea's $1.3 trillion semiconductor strategy equals roughly 7.8x TSMC's $165 billion Arizona investment and could materially alter global industry competition and supply-demand dynamics. Under strong AI-driven demand, expansion of advanced nodes, HBM and advanced packaging capacity should sustain incremental equipment demand; semiconductor equipment vendors may receive long-term structural tailwinds from this decade-spanning investment cycle. Relevant overseas beneficiaries include leaders in lithography, deposition and etch, and coat/develop equipment, plus firms with high memory revenue exposure. Chinese beneficiaries noted include cleaning-equipment and thermal-processing suppliers with operations in South Korea.
+
+---
+
+### 2026-07-01 08:05:49  #公司
+
+【“機器人伴侶”訂單破1萬臺 僅限成人購買！公司CEO回應：量產、技術難度較高】6月30日，在優必選2026年度全球釋出會上，公司釋出了全尺寸超仿生人形機器人U1系列，主打日常陪伴、情緒支援、生活美學、社交輔助。現場展示的機器人具備面部眨眼、頭部轉動等能力，還演示了跳舞等功能。針對定價，優必選創始人、董事會主席兼CEO周劍回應稱，“有一定的盈利的空間。如果未來實現規模量產，可以覆蓋不同的細分人群，那麼成本、價格會進一步下降。”
+
+---
+
+### 2026-07-01 08:05:34  #MKT News
+
+Local media reported an explosion at the Salina Cruz refinery in Oaxaca state, Mexico; three workers sustained burns while conducting maintenance in the alkylation unit.
+
+---
+
+### 2026-07-01 08:05:08  #公司 #觀點 #國際
+
+【華泰證券：韓國1.3萬億美元戰略落地，聚焦儲存週期下全球半導體裝置企業卡位】華泰證券指出，6月29日，韓國總統李在明在青瓦臺主持“大韓民國大飛躍三大超級專案”國民報告會，三星電子董事長李在鎔、SK集團董事長崔泰源同臺直接釋出投資計劃。該戰略覆蓋2026—2036年，總投資約2000萬億韓元（約1.3萬億美元）。該專案以“半導體、AI資料中心、物理AI”為三大支柱，旨在打破韓國首都圈工業壟斷、將國家資源向光州（儲存器），大邱（機器人），忠清（資料中心，顯示）等首都圈以外地區傾斜，對韓國科技產業發展是標誌性事件。1.3萬億美元的投資規模相當於臺積電在美國亞利桑那州投資規模（1650億美元）的7.8倍，對全球半導體產業的競爭格局，供需關係都或將產生深遠影響。 華泰證券認為，AI高景氣下先進製程、HBM與先進封裝產能擴張將帶來持續的裝置增量需求，裝置廠商在本輪跨越十年的長線投資下或迎來長期結構性利好。產業鏈相關海外公司包括光刻龍頭、沉積和刻蝕裝置龍頭、塗膠顯影裝置龍頭等全球主要前道裝置供應商，以及儲存收入佔比較高的公司等;中國相關企業包括在韓國均有業務佈局的清洗裝置廠商、熱處理裝置廠商等。
+
+---
+
+### 2026-07-01 08:04:13  #公司 #市場 #國際
+
+宣佈收購 South32 資產後，美國鋁業公司 (Alcoa) 的股票在悉尼市場下跌 4.9%。
+
+---
+
+### 2026-07-01 08:03:52  #公司 #市場
+
+澳大利亞礦業公司South32股價早盤上漲10%，報4.29澳元。
+
+---
+
+### 2026-07-01 08:03:30  #其他
+
+當地媒體報道，墨西哥瓦哈卡州薩利納克魯斯的安東尼奧·多瓦利·海梅煉油廠發生爆炸，致三名工人受傷。
+
+---
+
+### 2026-07-01 08:03:02  #MKT News #Brent #Impact bullish #DXY #S&P500 #Impact bearish
+
+According to the Wall Street Journal, the U.S. threatened to cut off missile-interceptor supplies after Saudi Arabia refused to open its military bases to the 'Free Action' program.
+
+---
+
+### 2026-07-01 08:02:54  #Trading Economics #Economy #South Korea #Imports YoY #Importance 1
+
+South Korea Import Growth at 4-Month High — South Korea’s imports jumped 30.1% yoy in June 2026, accelerating from a 20.7% rise in April, flash data showed. It was the eighth straight month of growth and the strongest pace since May 2022 amid robust domestic demand despite lingering trade disruptions linked to the Middle East conflict. Consumer spending continued to be supported by government stimulus measures launched in April.
+
+---
+
+### 2026-07-01 08:01:35  #MKT News #Important
+
+South Korea's KOSPI opened 140.79 points higher, up 1.66%, at 8,617.27 on Wednesday, July 1.
+
+---
+
+### 2026-07-01 08:01:20  #MKT News #Market Regions #Japan & APAC #Nikkei 225 #Impact bullish
+
+Japan's Nikkei 225 opened up 938.33 points, or 1.34%, at 71,000.65 on Wednesday, July 1.
+
+---
+
+### 2026-07-01 08:01:16  #其他
+
+【香港舉行升旗儀式和酒會慶祝迴歸祖國29週年】7月1日上午，香港特區政府舉行升旗儀式和酒會，慶祝香港迴歸祖國29週年。上午8時，升旗儀式在香港金紫荊廣場舉行。香港特別行政區行政長官李家超、中央駐港機構負責人以及社會各界人士共同出席。伴隨著國歌奏響，鮮豔的五星紅旗和香港特別行政區區旗在金紫荊廣場冉冉升起。現場全體人員肅立面向國旗和區旗，高唱國歌。升旗儀式結束後，香港特區政府在香港會議展覽中心舉行香港迴歸祖國29週年慶祝酒會。當天清晨，中央駐港機構也舉行了升國旗儀式。（央視）
+
+---
+
+### 2026-07-01 08:00:53  #市場 #國際
+
+30年期日本國債收益率上漲2.0個基點，至3.965%。
+
+---
+
+### 2026-07-01 08:00:46  #市場 #國際
+
+韓國綜合股價指數（KOSPI）開盤上漲1.4%，至8591.50點。
+
+---
+
+### 2026-07-01 08:00:30  #市場
+
+【日韓股市開盤】日經225指數上午開盤報70774.28點，漲幅1.02％。韓國綜合股價指數（KOSPI）開盤上漲1.4％，至8591.50點。
+
+---
+
+### 2026-07-01 08:00:16  #國際
+
+韓國6月出口同比 70.9%，預期 60.7%，前值 53.2%。韓國6月進口同比 30.1%，預期 24.5%，前值 20.8%。
+
+---
+
+### 2026-07-01 08:00:11  #MKT News
+
+South Korea preliminary June trade surplus US$36.15 bln, vs. forecast US$32.58 bln; May surplus revised up to US$27.036 bln from US$26.949 bln.
+
+---
+
+### 2026-07-01 08:00:09  #MKT News #DXY #Impact bearish #Copper #Impact bullish
+
+South Korea June exports YoY +70.9% vs. 61.0% expected; May revised to +53.4% from +53.2%.
+
+---
+
+### 2026-07-01 08:00:08  #MKT News
+
+South Korea June imports +30.1% YoY, vs 26.3% expected; prior reading revised to +20.7% from +20.8%.
+
+---
+
+### 2026-07-01 08:00:00  #MKT News #Economic Calendar #Important
+
+South Korea | Trade Balance Flash (Jun) | actual 36150000000B | consensus 32580000000B | previous 26949000000B
+
+---
+
+### 2026-07-01 08:00:00  #MKT News #Economic Calendar #Important
+
+South Korea | Imports (YoY) (Jun) | actual 30.1% | consensus 26.3% | previous 20.80%
+
+---
+
+### 2026-07-01 08:00:00  #MKT News #Economic Calendar #Important
+
+South Korea | Exports (YoY) (Jun) | actual 70.9% | consensus 61% | previous 53.20%
+
+---
+
+### 2026-07-01 07:59:17  #國際
+
+【日本首相設定目標 爭取到2040財年名義GDP達到6.8萬億美元】日本首相高市早苗設定目標，爭取到2040年財年名義國內生產總值(GDP)擴大到6.8萬億美元，其中約五分之一將來自國內民間資本投資。高市早苗表示，“這項涵蓋至2040財年的計劃旨在到2040財年實現230萬億日元的國內民間資本投資，推動GDP接近1100萬億日元（6.8萬億美元），同時穩步降低債務佔GDP的比重。”高市早苗還表示，“我們還將努力盡快實現實際經濟增長率超過1%、名義經濟增長率超過3%，並進一步提高這一增長目標。”高市早苗尋求擺脫日本長期投資不足的趨勢，同時說服市場相信日本政府不會過度支出。
+
+---
+
+### 2026-07-01 07:58:35  #MKT News #Market Regions #Japan & APAC
+
+Bank of Japan Tankan survey: all Japanese firms expect average EUR/JPY of 175.62 in fiscal 2026/27.
+
+---
+
+### 2026-07-01 07:58:00  #觀點 #國際
+
+【華泰證券：看好氣源多元化龍頭分享轉移需求紅利、LNG物流倉儲從波動率中獲利】華泰證券指出，2026年2月底中東衝突爆發，霍爾木茲海峽事實封鎖、卡達拉斯拉凡工業城LNG設施遭襲，中國LNG進口面臨2017年以來最嚴峻的衝擊。市場普遍預期此次中斷對燃氣、電力板塊為均勻的衝擊，華泰證券則認為衝擊呈“北重南輕、國企重民企輕”的錯配格局，並將在未來3—5年內催化中國天然氣進口格局的結構性重構。不同省份因卡達LNG佔比差異導致影響分化；從產業鏈看，持有低成本HH掛鉤長協的城燃貿易商或是最大受益者，轉售毛利超10美元/MMBtu；而氣電企業面臨燃料成本突破盈虧平衡點的“量價”雙重壓力。看好氣源多元化龍頭分享轉移需求紅利、LNG物流倉儲從波動率中獲利。
+
+---
+
+### 2026-07-01 07:57:49  #國際
+
+【德國稱歐盟預算“難以負擔”，要求削減4,000億歐元】媒體週二看到的一份德國政府內部檔案顯示，德國要求將歐盟執委會提出的2028-2034年2萬億歐元預算削減4,000億歐元（約合4,560億美元），並警告稱目前的方案“難以負擔”。由於歐盟預算需要全部27個成員國一致同意，德國的強烈反對預示著未來面臨艱難談判。柏林方面在檔案中警告稱，“照此情況，達成協議是不可能的。”作為歐盟最大的淨出資國，德國對下一期七年預算的擬議規模感到擔憂。與2021-2027年1.3萬億歐元的預算相比，新預算規模大幅增加。柏林方面認為，即使按照其提議削減4,000億歐元，新預算規模仍將比當前預算高出27%，這將使德國每年的出資超過500億歐元。
+
+---
+
+### 2026-07-01 07:57:42  #MKT News
+
+cenc measured a magnitude 5.2 earthquake at 07:44 on July 1 (local time) in Haixi prefecture, Qinghai; hypocenter depth 10 km.
+
+---
+
+### 2026-07-01 07:57:09  #經濟數據 #日本
+
+【日本製造業信心升至2018年以來最高水平】日本央行7月1日釋出的季度短觀企業景氣調查顯示，大型製造企業商業信心指數從17上升至4-6月當期的22，為2018年以來的最高水平。大型非製造企業的景氣指數升至37，仍為1991年以來的最高水平。
+
+---
+
+### 2026-07-01 07:57:06  #其他
+
+國際貨幣基金組織稱紐西蘭需要加息。
+
+---
+
+### 2026-07-01 07:57:00  #MKT News #USDJPY #Impact bullish
+
+Bank of Japan Tankan survey: Japanese firms surveyed expect the average USD/JPY rate for fiscal 2026/27 to be 152.57.
+
+---
+
+### 2026-07-01 07:55:28  #其他
+
+Anthropic：明天開始恢復訪問。
+
+---
+
+### 2026-07-01 07:55:21  #MKT News #WTI #Impact bearish #XAUUSD #DXY
+
+【US media: Trump weighed resuming military option against Iran but favors diplomacy】The Wall Street Journal, citing US officials, reports President Trump weighed whether to return to a full-scale military campaign against Iran and held multiple discussions with Defense Secretary Hegseth and Joint Chiefs Chairman Dan Kain on further strikes. Officials say he has for now decided against military action and will continue diplomatic talks, telling aides a new full-scale strike could undermine diplomacy and hurt prospects to dismantle Iran’s nuclear program. Trump signalled he could accept negotiations running past the Aug. 18 nuclear-deal deadline and said he was satisfied retaining a one-off strike option if Tehran violates a memorandum of understanding.
+
+---
+
+### 2026-07-01 07:54:46  #MKT News #Important #Market Themes #AI Revolution
+
+ANTHROPIC said it had been notified that the U.S. Commerce Department has lifted export controls on Claude Fable 5 and MYTHOS 5; the company will restore access tomorrow.
+
+---
+
+### 2026-07-01 07:54:34  #公司 #焦點 #國際
+
+人工智慧公司Anthropic：我們已接到通知，美國商務部已解除對Claude Fable 5和 Mythos 5的出口管制。
+
+---
+
+### 2026-07-01 07:54:16  #資料 #央行 #國際
+
+【日本製造業景氣信心升至2018年以來新高】日本大型製造企業信心指數創下2018年以來最高水平，為日本央行持續加息的政策立場提供支撐。日本央行週三公佈季度短觀經濟調查（Tankan）資料顯示，4-6月大型製造業景氣判斷指數從17升至22；而媒體調研的經濟學家此前預期該指數小幅回落至16。大型非製造業景氣指數升至37，依舊維持1991年以來最強表現。指數數值為正，代表認為經營環境向好的企業數量多於持悲觀看法的企業。
+
+---
+
+### 2026-07-01 07:53:59  #MKT News
+
+【5.1-magnitude earthquake hits northern Miyazaki Prefecture, Japan】Japan Meteorological Agency said a 5.1-magnitude earthquake struck northern Miyazaki Prefecture at about 08:40 local time on July 1. Maximum seismic intensity was 4 on the JMA scale. No tsunami risk was indicated.
+
+---
+
+### 2026-07-01 07:53:31  #MKT News #Market Regions #Japan & APAC #USDJPY #Impact bearish #Nikkei 225 #Impact bullish #DXY
+
+Bank of Japan said the large manufacturers' confidence index has improved for five consecutive quarters, reaching its highest level since March 2018.
+
+---
+
+### 2026-07-01 07:52:53  #央行 #國際
+
+日本央行：大型製造商景氣指數已連續五個季度改善，創下2018年3月以來最高水平。
+
+---
+
+### 2026-07-01 07:52:25  #公司
+
+【A股分紅派息轉增一覽：25股今日股權登記】Wind資料顯示，根據上市公司權益分配方案梳理統計，25只A股今日股權登記。其中，23股擬派息，2股派息、轉增或送股同時實施。分紅派息方面，23只個股分紅派息的股權登記日為7月1日。仙鶴股份、海螺水泥、星球石墨分紅力度最大，每10股分別派息7.00元、6.10元、6.00元。2股派息、轉增或送股同時實施，股權登記日為7月1日。敏芯股份、司南導航分紅力度最大，每10股分別派息2.70元、0.80元。
+
+---
+
+### 2026-07-01 07:52:15  #觀點 #國際
+
+【華泰證券：看好氣源多元化龍頭分享轉移需求紅利、LNG物流倉儲從波動率中獲利】華泰證券指出，2026年2月底中東衝突爆發，霍爾木茲海峽事實封鎖、卡達拉斯拉凡工業城LNG設施遭襲，中國LNG進口面臨2017年以來最嚴峻的衝擊。市場普遍預期此次中斷對燃氣、電力板塊為均勻的衝擊，華泰證券則認為衝擊呈“北重南輕、國企重民企輕”的錯配格局，並將在未來3—5年內催化中國天然氣進口格局的結構性重構。不同省份因卡達LNG佔比差異導致影響分化；從產業鏈看，持有低成本HH掛鉤長協的城燃貿易商或是最大受益者，轉售毛利超10美元/MMBtu；而氣電企業面臨燃料成本突破盈虧平衡點的“量價”雙重壓力。看好氣源多元化龍頭分享轉移需求紅利、LNG物流倉儲從波動率中獲利。
+
+---
+
+### 2026-07-01 07:51:54  #MKT News #Market Regions #Europe & UK #EURUSD #Impact bullish #Copper #DXY #Impact bearish
+
+French auto industry group PFA: June new car registrations in France rose 11.37% YoY to 188,787 units.
+
+---
+
+### 2026-07-01 07:51:23  #其他
+
+【中指研究院：上半年重點房企拿地總額同比下降33.7%】中指研究院指出，2026年上半年，100家房企拿地總額3360.0億元，同比下降33.7%，降幅較上月收窄6.8個百分點。京滬等核心城市市場熱度持續，5月以來深圳新政效應帶動明顯，而房企銷售端亦有邊際改善，銷售表現和市場熱度帶動下拿地金額同比降幅連續四月收窄。2026年上半年，100家房企全口徑新增貨值同比下降33.4%，降幅較1—5月收窄，主要是6月核心城市土拍熱度較高，越秀地產、華潤置地、保利發展位列前三。
+
+---
+
+### 2026-07-01 07:50:51  #國際
+
+日本二季度短觀大型非製造業景氣判斷指數 37，預期 36，前值 36。日本二季度短觀大型製造業前景指數 17，預期 13，前值 14。日本二季度短觀大型非製造業前景指數 28，預期 29，前值 29。日本二季度短觀大型製造業景氣判斷指數 22，預期 16，前值 17。
+
+---
+
+### 2026-07-01 07:50:42  #經濟數據 #日本
+
+日本第二季度短觀大型製造業前景指數為17，預期13，前值14。
+
+---
+
+### 2026-07-01 07:50:15  #MKT News #Market Regions #Japan & APAC #Nikkei 225 #Impact bullish #USDJPY #Impact bearish
+
+Japan Q2 Tankan — large enterprises, all-industry capital expenditure index 11.5; consensus 10.50; prior 3.30.
+
+---
+
+### 2026-07-01 07:50:14  #其他
+
+【青海海西州直轄區附近發生5.2級左右地震】中國地震臺網自動測定：07月01日07時44分在青海海西州直轄區附近（北緯37.85度，東經95.37度）發生5.2級左右地震，最終結果以正式速報為準。
+
+---
+
+### 2026-07-01 07:50:13  #MKT News #USDJPY #Impact mixed #Nikkei 225 #DXY #Impact bearish
+
+Japan Q2 Tankan small non-manufacturing business conditions diffusion index 15, vs expected 14 and prior 16.
+
+---
+
+### 2026-07-01 07:50:13  #MKT News #USDJPY #Impact bearish #Nikkei 225 #Impact bullish
+
+Japan Q2 Tankan small manufacturers business conditions DI 9, est. 4, prior 7.
+
+---
+
+### 2026-07-01 07:50:13  #MKT News #Market Regions #Japan & APAC #Nikkei 225 #Impact bullish #USDJPY #DXY #Impact bearish
+
+Japan Q2 Tankan large manufacturers outlook index rose to 17, vs expected 13 and prior 14.
+
+---
+
+### 2026-07-01 07:50:09  #MKT News #Market Regions #Japan & APAC #Nikkei 225 #Impact bullish #USDJPY #Impact bearish
+
+Japan Q2 Tankan large manufacturers business conditions index 22; consensus 16; prior 17.
+
+---
+
+### 2026-07-01 07:50:09  #MKT News #Market Regions #Japan & APAC #USDJPY #Impact bearish #Nikkei 225 #Impact bullish #DXY
+
+Japan Q2 Tankan large non-manufacturing business conditions DI 37, vs 35 expected and 36 prior.
+
+---
+
+### 2026-07-01 07:50:02  #MKT News #Economic Calendar #Important
+
+Japan | Tankan Large Manufacturing Capital Spending (YoY) (Q2) | actual 11.5 | consensus 10.50 | previous 3.30
+
+---
+
+### 2026-07-01 07:50:01  #MKT News #Economic Calendar #Important
+
+Japan | Tankan Small Non-manufacturing Sentiment Index (Q2) | actual 15 | consensus 14 | previous 16
+
+---
+
+### 2026-07-01 07:50:01  #MKT News #Economic Calendar #Important
+
+Japan | Tankan Small Manufacturing Sentiment Index (Q2) | actual 9 | consensus 4 | previous 7
+
+---
+
+### 2026-07-01 07:50:01  #MKT News #Economic Calendar #Important
+
+Japan | Tankan Large Non-manufacturing Sentiment Index (Q2) | actual 37 | consensus 35 | previous 36
+
+---
+
+### 2026-07-01 07:50:01  #MKT News #Economic Calendar #Important
+
+Japan | Tankan Large Manufacturing Outlook Index (Q2) | actual 17 | consensus 13 | previous 14
+
+---
+
+### 2026-07-01 07:50:01  #MKT News #Economic Calendar #Important
+
+Japan | Tankan Large Manufacturing Sentiment Index (Q2) | actual 22 | consensus 16 | previous 17
+
+---
+
+### 2026-07-01 07:49:57  #MKT News #Star Stocks #Tesla #Market Themes #Magnificent 7 #TSLA.O #Impact bullish
+
+June vehicle registrations for Tesla (TSLA.O) in France rose 104.99%, the French auto industry group PFA said.
+
+---
+
+### 2026-07-01 07:49:27  #市場 #國際
+
+【受美國科技股上漲提振，日經指數或將走高】繼隔夜美國科技股上漲之後，日本股市可能走高。對人工智慧相關需求的預期可能會繼續支撐市場。新加坡交易所的日經指數期貨上漲1.1%，至71040點。投資者正關注中東局勢的發展，以及日本政府官員對日元走弱的任何評論。日經指數週二上漲0.9%，至70062.32點。
+
+---
+
+### 2026-07-01 07:47:22  #市場
+
+【總價4000萬起 深圳又一豪宅“日光”】深圳又一豪宅專案實現開盤當日售罄。記者獲悉，6月30日，位於深圳灣超級總部基地的住宅專案安緹雅苑正式開盤，本批次推出的全部72套住宅房源開盤當日售罄，專案再度重新整理深圳核心片區頂豪去化速度。
+
+---
+
+### 2026-07-01 07:46:41  #市場 #國際
+
+基準10年期日本國債期貨早盤下跌0.27點。
+
+---
+
+### 2026-07-01 07:46:35  #公司
+
+據訊息人士透露，  光網路初創公司  Ayar Labs正在洽談融資至少2億美元，其新的估值將達到 50 億美元左右。
+
+---
+
+### 2026-07-01 07:45:31  #市場 #國際
+
+日本日經平均指數期貨早盤上漲1.1%。
+
+---
+
+### 2026-07-01 07:45:16  #市場
+
+法國汽車工業協會（PFA）資料顯示，6月特斯拉在法國新車註冊量同比上漲104.99%。
+
+---
+
+### 2026-07-01 07:45:08  #國際
+
+日本氣象廳：日本地震初始震級為5.1級，震源深度10公里。
+
+---
+
+### 2026-07-01 07:44:47  #其他
+
+法國6月新車註冊量同比增長11.37%，至188,787輛。
+
+---
+
+### 2026-07-01 07:44:39  #國際
+
+據NHK：日本地震未引發海嘯威脅。
+
+---
+
+### 2026-07-01 07:44:25  #公司
+
+【殼牌將以17億美元出售美洲灣油田資產】當地時間6月30日，一份宣告顯示，殼牌旗下子公司Shell Offshore Inc.已同意將其在美洲灣一座石油平臺及鄰近油田的權益以17億美元出售給Talos Energy Inc.和Ridgewood Energy。該交易生效日期為2025年7月1日，預計將於2026年底前完成，尚需獲得監管批准。
+
+---
+
+### 2026-07-01 07:44:09  #國際
+
+日本氣象廳稱，宮崎縣報告發生地震。
+
+---
+
+### 2026-07-01 07:43:40  #國際
+
+【人民銳評：中國空調清涼歐洲，不只是貿易更是“中國式賦能”】歐洲持續高溫，中國產分體式空調在多國賣到脫銷，引發廣泛熱議。中國生產的分體式空調不需打孔、不裝外機、即插即用，精準適配歐洲需求，因而得以跨越萬里解其燃眉之急。一臺小小的空調，為歐洲多國民眾帶去清涼，解決實實在在的民生難題，也為理解中國為何成為“賦能型大國”提供了一個視窗。（人民日報）
+
+---
+
+### 2026-07-01 07:43:37  #公司 #國際
+
+美國解除對Anthroponic 公司“FABLE 5”的限制措施。
+
+---
+
+### 2026-07-01 07:42:52  #Trading Economics #Markets #United States #Stock Market #Importance 2
+
+US Futures Flat After Tech-Driven Rally — US stock futures were little changed on Wednesday after the major indexes advanced in the previous session, supported by strength in technology stocks and easing inflation concerns. In regular trading on Tuesday, the tech-heavy Nasdaq Composite jumped 1.52%, while the S&P 500 and Dow rose 0.79% and 0.26%, respectively. Chipmakers and AI-related companies led the gains, with Nvidia (2.6%), AMD (7.7%), Intel (6%), Sandisk (10.9%) and Marvell Technology (7.3%) posting strong advances. The three major indexes also ended the quarter on a strong footing, with the S&P 500 rallying more than 14%, the Nasdaq soaring about 20% and the Dow adding over 12%. Investors now turn their attention to Fed Chair Kevin Warsh’s appearance at the ECB Forum in Sintra, Portugal, for further clues on the outlook for monetary policy.
+
+---
+
+### 2026-07-01 07:42:33  #央行 #其他
+
+【各國央行三年來首度擬長期降低美元曝險 歐元及人民幣是理想替代品】根據一家總部位於英國的智庫，各國央行計劃長期減少對美元的曝險，這是三年來首次。官方貨幣和金融機構論壇(OMFIF)週二釋出的報告指出，公共養老基金和主權財富基金也認同這個去美元化的觀點。他們都認為，歐元和人民幣是美元的理想替代品，“已開發經濟體傾向於前者，新興市場則更關注後者”。OMFIF旗下一個團隊的Andrea Correa、Yara Aziz、Mariam Khan和Conor Perry等人寫道，尋求多元化如今已成為外匯儲備管理的核心特徵。根據OMFIF的報告，各國央行預計未來10年外匯儲備平均的組合將包括52%的美元資產、23%的歐元資產和5%的人民幣資產。該報告公佈了OMFIF在3月至5月期間調查90家機構的結果，這些機構管理超過10萬億美元的外匯儲備資產。
 
 ---
 
@@ -14929,359 +15391,5 @@ Australia's ACCC will monitor fuel prices and market conduct after a partial rei
 ### 2026-06-29 08:17:19  #MKT News #Market Regions #Japan & APAC #USDJPY #Impact bearish #Nikkei 225 #Impact bullish #DXY
 
 【Japan retail sales rise for third month as wages, STATE AID support spending】Japan retail sales rose for a third consecutive month in May, up 1.9% MoM and 5.3% YoY, driven by wage gains and STATE AID that have eased household cost pressures. Despite growing concern the Iran war could lift prices, consumer demand remains firm as wage growth has long outpaced inf and subsidies from Prime Minister Sanae Takaichi are helping households sustain spending.
-
----
-
-### 2026-06-29 08:16:57  #其他
-
-澳大利亞競爭與消費者委員會（ACCC）表示，從7月1日至8月2日，燃油消費稅減免額將從每升32澳分降至16澳分。
-
----
-
-### 2026-06-29 08:16:53  #MKT News #Macro & Rates #Treasury Yields #Market Regions #Japan & APAC #USDJPY #Impact bearish
-
-Japan 10-year government bond yield rose 3.5 bps to 2.63%.
-
----
-
-### 2026-06-29 08:16:41  #市場 #國際
-
-10年期日本國債收益率上漲3.5個基點，至2.630%。
-
----
-
-### 2026-06-29 08:16:23  #其他
-
-澳大利亞競爭與消費者委員會（ACCC）：在燃油消費稅部分恢復徵收後，將對燃油價格及市場行為展開監控。
-
----
-
-### 2026-06-29 08:14:06  #公司 #觀點
-
-【基本半導體尋求在香港IPO中融資至多8.66億港元】據香港交易所檔案顯示，深圳基本半導體股份有限公司將透過在香港上市發行2740萬股股票，發行價區間為每股27.49港元至31.62港元。據估算，預計將籌集至多8.66億港元（1.1億美元）。預計將於7月8日開始交易。國金證券（香港）和中銀國際擔任聯席保薦人。
-
----
-
-### 2026-06-29 08:13:43  #公司 #資料 #觀點
-
-【中信證券：工業企業利潤或從前期價格驅動的高彈性修復逐步轉向增速邊際放緩、結構繼續分化】中信證券研報指出，5月工業企業利潤增速邊際回落但仍維持高位，累計利潤增速繼續上行，結構上國有和股份制企業仍保持較快增長，私營企業利潤明顯轉弱。工業企業“價-利潤率”對利潤形成支撐，量的拖累邊際減輕，價格環比動能放緩，成本與庫存壓力有所抬升。行業層面，上游利潤增速進一步抬升，中游利潤明顯放緩，下游利潤維持弱修復，“煤炭、有色、電子、化工”等仍是利潤增長主線，上游漲價向中下游傳導過程中，利潤格局分化有所加劇。展望未來，工業企業利潤或從前期價格驅動的高彈性修復逐步轉向增速邊際放緩、結構繼續分化，後續需進一步關注美伊衝突放緩導致油價中樞下行對PPI的影響，以及在內需弱修復背景下政策工具使用和節奏的變化。
-
----
-
-### 2026-06-29 08:12:53  #觀點
-
-【中信證券：具備產業和人口增長潛力的城市可能會有相對持續的住房增量需求，房價表現更有支撐】中信證券研報指出，今年3月以來一線城市房地產市場邊際回暖，新房和二手房價格連續三個月環比轉正，同比降幅也持續收窄，市場關心此次一線城市房價為何會回升以及6月的持續性。我們研究發現，進入6月後一線城市房價和成交量修復邊際有所放緩。我們認為3-5月一線房價回暖的原因包括2月底以來多個一線城市先後最佳化房地產調控政策、去年以來一線城市房屋供給收縮以及房價經歷調整後一線城市庫存去化較快。從政策實施效果來看，深圳和上海此次實施的放寬限購類政策對於當地房市起到了較好的帶動效果，限購放開區域的成交量和房價表現好於非限購放開區域。今年以來非一線城市的房價表現整體不如一線城市。具體來看，非一線城市中產業實力和人口吸納能力較強的城市的房價表現相對較好，代表性城市是杭州和成都。展望後續，我們認為具備產業和人口增長潛力的城市可能會有相對持續的住房增量需求，房價表現更有支撐。
-
----
-
-### 2026-06-29 08:12:16  #MKT News
-
-South Korea's KOSPI narrowed losses to within 1% after earlier falling 2%.
-
----
-
-### 2026-06-29 08:11:00  #MKT News #Market Themes #Chip Wars
-
-【CITIC Securities: Current MLCC price rally likely to last over a year】CITIC Securities research says MLCC price increases have accelerated and the current cycle could mirror the 2017–18 supercycle. The firm expects the upcycle to extend beyond one year and factory-side price hikes could double or exceed that magnitude.
-
----
-
-### 2026-06-29 08:10:27  #MKT News
-
-Australia's S&P/ASX 200 opened 42.00 points higher (+0.48%) at 8,806.20 on Monday, June 29.
-
----
-
-### 2026-06-29 08:10:22  #公司
-
-【惠普公司與OpenAI建立前沿戰略合作伙伴關係 以推動面向客戶的體驗並最佳化內部運營】惠普公司今日宣佈，與OpenAI建立戰略合作伙伴關係，將整合其Frontier平臺，助力惠普在全球範圍內打造更優質的客戶體驗，並加速企業內部運營的轉型，共同塑造未來工作的新格局。惠普公司首席戰略與轉型官普拉卡什·阿倫昆德魯姆表示：“藉助OpenAI，我們有機會從根本上重新思考人工智慧如何實現更優的成果。透過使用Frontier平臺，惠普計劃在門店、合作伙伴、聊天和語音體驗方面打造更加一致的服務，讓客戶和合作伙伴能夠更快地獲取答案、完成日常流程，並推進問題解決。這體現了我們人工智慧戰略的雄心——以大規模方式帶來切實的成果。”惠普已成為首批採用Frontier平臺推動企業轉型的全球企業之一。隨著戰略合作伙伴關係的推進，具體應用場景將逐步完善和增加。惠普的目標是將基於人工智慧的解決方案應用於以下領域：面向客戶和合作伙伴的解決方案與體驗；透過惠普領先的WXP解決方案和報告功能，獲取客戶遙測洞察；員工生產力； 軟體開發。
-
----
-
-### 2026-06-29 08:09:41  #其他
-
-澳大利亞儲備銀行助理行長肯特：危機時期，流動性與降息相結合至關重要。
-
----
-
-### 2026-06-29 08:08:59  #觀點
-
-【中信證券：本輪MLCC漲價延續時間有望超過一年】中信證券指出，近期觀察到MLCC行業漲價潮加速，認為本輪MLCC週期有望類比2017—2018年的超級景氣週期，漲價延續時間有望超過一年，原廠端漲價幅度有望實現翻倍甚至更高的顯著提升。
-
----
-
-### 2026-06-29 08:08:37  #MKT News #Commodities #Energy #WTI #Impact bearish
-
-WTI crude fell more than 1.0% intraday to $69.37/bbl.
-
----
-
-### 2026-06-29 08:08:23  #MKT News #Macro & Rates #Market Regions #Greater China #DXY #Impact bullish #US10Y #WTI #Impact bearish
-
-【CITIC Securities: Dollar signals global K-shaped divergence】CITIC Securities says early-May dollar strength and rising rate expectations correspond with an acceleration of global K-shaped market divergence, driven by tightening expectations that damage non-AI demand. The firm judges the K-shaped split has reached a cyclical extreme; even overseas tech is contracting internally, and pricing across equities, bonds, commodities and FX already reflects early recession-trade signals. If tightening materializes, carbon‑based demand could suffer further; if not, divergence may partially converge. Compared with volatile offshore markets, China’s A-share market shows greater resilience: some non-AI sectors have attracted early (left-side) institutional flows and a few low-valuation pockets have begun to repair, but catalysts are still required.
-
----
-
-### 2026-06-29 08:07:15  #公司
-
-途虎：批准A股股票回購及受託人購買計劃，總額不超過15億港元。
-
----
-
-### 2026-06-29 08:07:01  #MKT News #Market Regions #Europe & UK
-
-【Floor-by-floor AC shutdown at European Commission HQ sparks staff outcry】A heatwave overloaded the Berlaymont building's power system in Brussels, forcing the European Commission to turn off air conditioning on floors 1–7 while keeping cooling operational on floors 8–13, including President Von der Leyen’s office on the 13th floor and most commissioners’ offices. Staff received an emergency SMS at midday on June 26 notifying the measure; lower‑floor employees protested, calling the decision "feudal" and "shameful."
-
----
-
-### 2026-06-29 08:06:21  #MKT News #Market Themes #AI Revolution #CSI300 #Impact mixed #SZSE Component #Impact bullish
-
-【China International Capital Co: Upstream AI supply‑chain niches are near‑term focus】China International Capital Co said the AI rally is showing signs of diffusion and market repricing is shifting toward upstream picks‑and‑shovels suppliers. A‑shares have delivered a pronounced structural rally YTD: ChiNext and STAR 50 are up 30.9% and 51.2%, with AI as the core theme. Since Q2 AI-sector volatility has increased; previously leading semiconductors, optical modules and PCBs face historically high trade crowding, and recent flows are moving into less crowded upstream materials and infrastructure — notably minor metals, electronic fabrics and optical fiber. CICC judges that with the AI trend intact, the market is more likely to display style diffusion than a systemic style rotation, making select upstream sub-sectors the current focus.
-
----
-
-### 2026-06-29 08:05:16  #公司 #國際
-
-【途虎：擬發行美國存托股份 已秘密提交F-1表格】途虎(09690.HK)在港交公告，已就擬議的代表公司A類普通股的美國存托股份於美國首次公開發行及上市，向美國證券交易委員會秘密提交F-1表格註冊宣告草稿，並已根據適用的中國法律法規，就該等擬議境外發行及上市向有關中國監管機構提交備案。
-
----
-
-### 2026-06-29 08:03:51  #市場
-
-日經指數回吐開盤漲幅，最新下跌0.3%，報69148.85點。
-
----
-
-### 2026-06-29 08:03:27  #MKT News #Important
-
-South Korea's KOSPI index opened about 2.00% lower in early trade.
-
----
-
-### 2026-06-29 08:03:00  #市場
-
-澳大利亞S&P/ASX 200指數早盤上漲0.4%，報8,795.50點。
-
----
-
-### 2026-06-29 08:02:48  #公司 #國際
-
-【韓國綜指跌幅擴大至2%】韓國綜指跌幅擴大至2%，現報8240.63點。個股方面，三星電子跌超3%，SK海力士跌超2%。
-
----
-
-### 2026-06-29 08:02:38  #公司 #國際
-
-【韓國綜指跌幅擴大至1%】韓國綜指跌幅擴大至1%，現報8253.5點。個股方面，三星電子跌超3%，SK海力士跌超2%。
-
----
-
-### 2026-06-29 08:02:35  #市場 #觀點
-
-【中金：AI產業鏈上游的部分細分領域為當前關注點】中金研報指出，近期AI行情顯現擴散跡象，關注上游“賣鏟子”領域再定價。開年以來A股市場延續較為明顯的結構性行情，科技成長風格的創業板指及科創50明顯跑贏，分別上漲30.9%/51.2%，AI產業鏈為核心主線。二季度以來AI板塊波動有所放大，此前領漲的半導體、光模組、PCB等核心方向交易擁擠度處於歷史高位水平，近期行情有逐步向擁擠度相對較低的AI相關上游原材料及基礎設施領域擴散跡象，小金屬、電子布、光纖等細分板塊錄得較好表現。中金認為AI產業趨勢持續強化背景下，現階段行情或更可能表現為風格擴散而非系統性風格切換，AI產業鏈上游的部分細分領域為當前關注點。
-
----
-
-### 2026-06-29 08:02:18  #公司 #央行 #國際
-
-【銀河證券：建議聚焦具備真實訂單、盈利高增、景氣度延續的硬核科技與行業龍頭】銀河證券A股市場投資展望認為，隨著美伊和談推進，海峽恢復通航預期升溫，國際原油價格基本回吐本輪美伊地緣衝突帶來的溢價。但美聯儲加息預期對於市場情緒和全球流動性的影響持續，海外資本市場波動放大。科技產業景氣驗證持續。美光科技最新財報大幅超出市場預期，且後續業績指引進一步驗證全球AI硬體需求高景氣。產業鏈利好傳導至A股市場，推動儲存晶片、半導體材料等走出結構性行情，資金進一步在科技板塊內部進行輪動調整。市場呈現出“重景氣、重兌現”的定價思路。國內工業企業利潤資料進一步夯實了市場景氣主線，高技術製造業、電子行業利潤大幅高增，有色、化工等資源板塊盈利持續修復。A股兩融餘額首次突破3萬億元，直觀反映出投資者風險偏好抬升、市場交易活躍度持續升溫。本輪槓桿資金呈現顯著的結構性特徵，增量資金集中佈局於AI硬體、半導體等高景氣成長賽道。展望後續，存量資金可為優質景氣標的提供底部承接、支撐結構性行情延續，但結構性擁擠特徵也意味著板塊輪動與分化節奏加快。隨著7月進入中報預告披露視窗，市場核心邏輯轉向業績兌現，建議聚焦具備真實訂單、盈利高增、景氣度延續的硬核科技與行業龍頭。
-
----
-
-### 2026-06-29 08:02:04  #MKT News #Market Regions #Japan & APAC #USDJPY #Impact bearish #DXY
-
-Japan's 20-year government bond yield rose 4.0 bps to 3.550%.
-
----
-
-### 2026-06-29 08:01:33  #市場 #國際
-
-20年期日本國債收益率上漲4.0個基點，至3.550%。
-
----
-
-### 2026-06-29 08:01:27  #MKT News #Hang Seng Index #Impact bearish #Nikkei 225
-
-South Korea's KOSPI opened down 96.52 points (-1.15%) at 8,314.69 on Monday, June 29.
-
----
-
-### 2026-06-29 08:01:22  #MKT News #Market Regions #Japan & APAC #Nikkei 225 #Impact bullish
-
-Japan's Nikkei 225 opened up 35.70 points, or 0.05%, at 69,396.58 on Monday, June 29.
-
----
-
-### 2026-06-29 08:01:19  #市場
-
-日經225指數高開0.1%。
-
----
-
-### 2026-06-29 08:00:45  #市場 #國際
-
-【日韓股市開盤】日經225指數高開0.1％。韓國綜合股價指數（KOSPI）開盤下跌0.9％，至8334.28點。
-
----
-
-### 2026-06-29 08:00:37  #公司
-
-惠普公司（HP Inc.）與OpenAI達成前沿戰略合作伙伴關係，以賦能面向客戶的體驗並推動內部運營轉型。
-
----
-
-### 2026-06-29 07:59:46  #MKT News #Macro & Rates #US Economy #DXY #Impact bearish #XAUUSD #Impact bullish #EURUSD
-
-【Invesco survey: 61% of central banks say US debt undermines dollar's reserve role】Invesco's survey found 61% of central banks say US debt levels negatively affect the dollar's long-term role as a reserve asset, compared with 20% in 2024. Despite a 3% YTD dollar rally linked to the Iran conflict, survey analysts say US policy uncertainty and high debt argue for a longer-term dollar downside. 29% of respondents expect the dollar's reserve status to weaken within five years, up from 12% in 2022. Several institutions report re-evaluating reliance on US custodians, counterparties and clearing infrastructure amid geopolitical tensions. One-third of respondents plan to increase gold holdings for diversification.
-
----
-
-### 2026-06-29 07:59:15  #其他
-
-【澳大利亞APRA就銀行風險權重調整展開諮詢】澳大利亞審慎監管局（APRA）已開始就擬議的銀行信用風險資本設定調整進行公眾諮詢。 提案內容包括： - 允許對大型國內公共基礎設施敞口採用較低的風險權重； - 在滿足特定條件的情況下，允許對高質量的未評級企業敞口採用較低的風險權重； - 調整標準，使更多住宅地產開發專案符合100%較低風險權重的資格要求； - 計劃於2026年下半年最終確定信用風險資本調整方案，並擬於2027年4月1日起生效； - 與流動性風險和市場風險相關的提案將在未來12個月內開展諮詢。
-
----
-
-### 2026-06-29 07:56:23  #公司
-
-【A股分紅派息轉增一覽：63股今日股權登記】Wind資料顯示，根據上市公司權益分配方案梳理統計，63只A股今日股權登記。其中，60股擬派息，3股派息、轉增或送股同時實施。分紅派息方面，60只個股分紅派息的股權登記日為6月29日。濟川藥業、洋河股份、天地數碼分紅力度最大，每10股分別派息17.40元、14.70元、6.50元。3股派息、轉增或送股同時實施，股權登記日為6月29日。海鷗股份、美心翼申、金銀河分紅力度最大，每10股分別派息1.80元、1.00元、0.33元。
-
----
-
-### 2026-06-29 07:56:15  #Trading Economics #Economy #Japan #Retail Sales YoY #Importance 2
-
-Japan Retail Sales Growth Highest Since 2023 — Retail sales in Japan increased 5.3% year-on-year in May 2026, accelerating from an upwardly revised 2.8% rise in the previous month and surpassing market expectations for a 3.2% gain. It was the strongest growth since November 2023, supported by government measures, including a stimulus package aimed at boosting consumption and easing price pressures. On a monthly basis, retail sales rose 1.9%, easing from an upwardly revised 2.1% gain in April, which was the fastest increase in four months.
-
----
-
-### 2026-06-29 07:56:12  #市場 #國際
-
-【日本零售銷售連續第三個月增長，受益於薪資上漲和補貼】受工資上漲及政府補貼緩解生活成本影響，日本5月份零售銷售連續第三個月實現增長。 日本經濟產業省週一公佈的資料顯示，5月零售額環比增長1.9%，4月資料經上修後也顯示增長勢頭強勁。這一數字超出彭博社對經濟學家調查的全部預期。與去年同期相比，零售額增長5.3%，高於市場普遍預期的3%增幅。上述資料未經過通脹調整。
-
----
-
-### 2026-06-29 07:55:51  #觀點
-
-【中泰證券：AI需求引領磷化銦、銦金屬供需趨緊】中泰證券研報指出，AI資本開支增加，光通訊需求增長，帶來磷化銦襯底需求的高增長。磷化銦（InP）是一種化合物半導體材料，在光通訊領域，磷化銦始終是核心晶片材料。據Omdia、Yole，2025年全球磷化銦襯底（2英寸當量）總需求約200—210萬片，全球有效合規產能僅60—70萬片，接近70%的供需缺口持續拉高產業景氣度。Lumentum預測到2030年，AIDC對磷化銦的需求年複合增長率將達到85%。磷化銦需求確定性增長、下游加庫存將拉動銦需求上行。供給高集中度，企業翻倍式擴產配適高增的需求。由於磷化銦單晶生長裝置和技術方面存在較高技術壁壘，磷化銦襯底市場參與者較少且以國外廠商為主，頭部企業集中度高，壟斷格局明顯，近年來國產化程序加速。2026年以來，核心磷化銦襯底企業持續擴產，配適高增的需求。
-
----
-
-### 2026-06-29 07:55:49  #其他
-
-澳大利亞審慎監管局（APRA）提議包括對大型國內公共基礎設施風險敞口給予較低風險權重等舉措。
-
----
-
-### 2026-06-29 07:55:19  #公司
-
-法拉第未來：FF EAI機器人3-6月累計出貨242臺超原定目標，全年目標第二次上調至2000臺。自賈躍亭擔任FF全球CEO，推進五大變革近兩個月以來，和團隊一起交出了一份出色的階段性答卷。
-
----
-
-### 2026-06-29 07:55:02  #公司
-
-【首批商業不動產REITs掛牌上市 銀行理財資金成為重要買方力量】銀行理財緊抓首批商業不動產REITs投資機遇。近日，首批商業不動產證券投資基金（REITs）在上交所集體掛牌上市，標誌著我國公募REITs市場實現從基礎設施到商業不動產的業態突破。僅隔數日，監管集中批覆第二批6單封閉式商業不動產REITs，覆蓋京滬深及大灣區商圈，國資、央企、外資多元主體同臺，“小步快跑、常態化供給”的訊號進一步明確。在這輪擴容浪潮中，工銀理財、中郵理財等多家理財公司相繼宣佈參與首批商業不動產REITs投資。銀行理財資金正加快配置公募REITs資產，逐步成長為繼公募基金、保險資金之後的重要買方力量。在低利率與“資產荒”並行的環境下，佈局REITs已成為銀行理財多資產、多策略轉型和增厚產品收益的資產配置方案之一。
-
----
-
-### 2026-06-29 07:54:59  #其他
-
-澳大利亞審慎監管局（APRA）就調整銀行風險權重徵求意見，相關調整旨在支援信貸投放與提升生產力。
-
----
-
-### 2026-06-29 07:54:08  #市場 #觀點
-
-【華泰證券港股策略：存量博弈對港股資金的虹吸或未結束】華泰證券釋出港股策略研報稱，上週港股市場單邊走弱，恒生指數跌破23000點。除此前已經定價的消費資料等基本面因素外，港股仍受制於缺乏強吸引力主線，在資金面虹吸下從平臺震盪進一步轉為下行：（1）宏觀上，美元指數走強至101以上，對新興市場普遍形成壓力。強勢美元下人民幣升值影響被稀釋，AH溢價指數上行至122%。（2）微觀上，資金存量博弈特徵明顯，騰挪倉位需求導致非AI股從此前不漲變為持續陰跌。此外，韓股上週波動率進一步上升，直接影響了亞太地區資產表現。當前市場演繹已經較為極致，從避險屬性的紅利股都遭到南向流出壓力可見一斑。往後看，反轉空間尚未開啟，7月初新上市科技股密集解禁或仍有負面影響。配置層面，短期關注高沽空和盈利預期邊際改善品種如傳媒和創新藥，OCI賬戶可關注跌出“價效比”的高股息個股。
-
----
-
-### 2026-06-29 07:52:47  #其他
-
-除了頭版內容，今天《人民日報》涉及財經的主要內容還包括：1、何立峰在四川調研時指出加快建設現代化產業體系 持續增強經濟發展動能；2、走出符合自身實際的縣域經濟高質量發展之路（調查與思考）——關於“義烏髮展經驗”的調查與思考；3、不止於“儲電”，新型儲能重塑能源未來（國際科技前沿）；4、意念敲鍵盤，腦機介面加速落地（科技大觀）；5、金融活水“澆”出文旅消費新圖景（財經深一度）。
-
----
-
-### 2026-06-29 07:52:26  #其他
-
-今天《人民日報》頭版的主要內容有：1、永遠把偉大建黨精神繼承下去、發揚光大——習近平總書記引領弘揚光榮傳統、賡續紅色血脈；2、把中國發展進步的命運牢牢掌握在自己手中；3、山西呂梁在傳承紅色基因中實幹奮進——發展紅色文旅 探索轉型新路（牢記初心使命 奮進復興征程）；4、各地區各部門各單位深入開展學習教育——多為群眾做好事、辦實事、解難事（樹立和踐行正確政績觀）；5、我國發電裝機容量突破40億千瓦；6、書寫大國長劍新榮光——寫在戰略導彈部隊組建六十週年之際。
-
----
-
-### 2026-06-29 07:52:02  #經濟數據 #日本
-
-【日本5月零售額同比增長5.3%】日本經濟產業省6月29日公佈資料顯示，日本5月零售額同比增長5.3%，環比增長1.9%。
-
----
-
-### 2026-06-29 07:51:30  #MKT News
-
-Japan May retail sales ¥13.447 tln vs ¥13.217 tln in the prior month.
-
----
-
-### 2026-06-29 07:51:21  #MKT News #Economic Calendar #Important
-
-Japan | Retail Sales (May) | actual 13447000000000T | previous 13217000000000T
-
----
-
-### 2026-06-29 07:50:42  #MKT News #USDJPY #Impact bearish #Nikkei 225 #Impact bullish
-
-Japan May seasonally adjusted retail sales MoM +1.9% vs -0.6% expected; April revised up to +2.1% from +1.3%.
-
----
-
-### 2026-06-29 07:50:35  #MKT News #Economic Calendar #Important
-
-Japan | Retail Sales SA (MoM) (May) | actual 1.9% | consensus -0.60% | previous 1.30%
-
----
-
-### 2026-06-29 07:50:34  #國際
-
-日本5月份零售額環比增長1.9%，預估為-0.5%。日本5月份零售額同比增長5.3%，預估為3.0%.
-
----
-
-### 2026-06-29 07:50:21  #MKT News #Market Regions #Japan & APAC #USDJPY #Impact bearish #Nikkei 225 #Impact bullish
-
-Japan May retail sales YoY 5.3% (est. 3.2%); April revised up to 2.8% from 2.1%.
-
----
-
-### 2026-06-29 07:50:21  #MKT News #XAUUSD #Impact bullish #Brent
-
-【Iran, Lebanon agree to set up conflict-management working group】Iran and Lebanon have agreed to establish a conflict-management working group, with US participation to oversee implementation of Lebanon-related clauses in the recently signed US‑Iran peace memorandum, Iran’s parliament speaker said after a call with Lebanon’s parliament speaker Berri. The speaker said Iran’s negotiating team in Switzerland repeatedly flagged breaches by other parties during US‑Iran talks. Foreign ministry spokesman Baghaei urged a prompt timetable for an unconditional Israeli withdrawal from occupied Lebanese territory and said full implementation of the memorandum’s Article 1 is a necessary precondition for a final settlement and regional stability.
-
----
-
-### 2026-06-29 07:50:04  #MKT News #Economic Calendar #Important
-
-Japan | Retail sales (YoY) (May) | actual 5.3% | consensus 3.2% | previous 2.10%
-
----
-
-### 2026-06-29 07:50:03  #國際
-
-【伊朗與黎巴嫩商定設立衝突管控工作組】伊朗伊斯蘭議會議長卡利巴夫28日與黎巴嫩議會議長貝里通電話後表示，伊朗與黎巴嫩商定設立一個“衝突管控工作組”，美方也將參與其中，監督近期簽署的伊美和平諒解備忘錄中涉黎條款的落實情況。他說，伊朗談判代表團在瑞士舉行的美伊談判中多次指出其他各方存在違約行為，在此背景下伊朗和黎巴嫩雙方敲定成立該工作組。同一天，伊朗外交部發言人巴加埃敦促儘快制定時間表，推動以色列無條件撤出黎巴嫩被佔領土。伊朗外交部發布宣告稱，完整落實備忘錄第一條，是達成永久性終局協議、實現地區穩定的必要前提。（央視新聞）
-
----
-
-### 2026-06-29 07:49:36  #公司
-
-【多隻“老登”新基延長募集期 搶佔潛在風格切換先機卻響應冷淡】近日，多隻聚焦食品消費、金融等傳統“核心資產”（業內稱之“老登”）的新發基金頻頻延長募集期，部分產品甚至半個月內兩次延長募集期，最終僅勉強跨過2億元成立門檻。在AI科技行情高位震盪的背景下，基金公司逆勢佈局“老登”資產，背後折射出複雜的矛盾心態：一方面，全品類大型公募為搶佔潛在風格切換先機，不得不提前卡位；另一方面，市場低迷導致資金響應冷淡，新基金即便勉強成立，後續能否做大仍存懸念。有業內人士指出，與存量基金相比，新發基金更易“講故事”，但行情何時到來尚不確定，“老登”資產的復甦之路依然漫長。
-
----
-
-### 2026-06-29 07:48:05  #MKT News #Market Themes #Chip Wars #005930.KS #Impact bullish #000660.KS
-
-【Samsung, SK Group expected to announce up to 2,000 trillion won investment plan】As part of South Korea's President Lee flagship industrial strategy, Samsung Group and SK Group are preparing to announce an investment programme of up to 2,000 trillion won (about $1.3tn) over the next decade. Reports say Samsung and SK Hynix would each build four to five semiconductor fabs in Gwangju. Samsung also plans a chip packaging plant in Chungcheongnam-do; SK Hynix is set to expand a NAND plant in Chungcheongbuk-do.
-
----
-
-### 2026-06-29 07:47:11  #Trading Economics #Markets #United States #Stock Market #Importance 2
-
-US Futures Climb Ahead of Peace Talks — US stock futures rose on Monday following reports that Washington and Tehran have agreed to halt attacks against each other before peace talks resume in Doha this week. The conflict had escalated since Thursday, with Iran targeting a container ship, a vessel carrying Qatari oil, and military bases in Kuwait and Bahrain, triggering multiple retaliatory US strikes. Meanwhile, Wall Street is coming off a mixed week as investors rotated out of technology stocks and into other sectors. The S&P 500 and Nasdaq Composite fell 1.95% and 4.6%, respectively, last week, while the Dow gained 0.6%. Megacap technology stocks led the declines, with Nvidia and Alphabet each dropping more than 8%, while Apple, Amazon, and Meta lost over 4% apiece. SpaceX also plunged 17%, erasing nearly all of its gains since its market debut on June 12.
 
 ---

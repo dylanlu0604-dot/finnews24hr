@@ -1,7 +1,487 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-07-01 07:40:52_
-_本檔包含 2904 則快訊，約 519996 字_
+_更新時間：2026-07-01 08:07:36_
+_本檔包含 2884 則快訊，約 519960 字_
+
+---
+
+### 2026-06-25 20:30:43  #經濟數據 #美國
+
+【美國5月核心PCE指數同比增長3.4% 符合市場預期】美國5月核心個人消費支出價格指數同比增長3.4%，預估為3.4%，前值為3.3%。環比上升0.3%，預估為0.3%。
+
+---
+
+### 2026-06-25 20:30:42  #MKT News #Important #Macro & Rates #US Economy #DXY #Impact bullish #US10Y #Impact bearish #S&P500 #Impact mixed
+
+US May personal spending MoM 0.7% vs 0.6% expected; April revised to 0.4% from 0.5%.
+
+---
+
+### 2026-06-25 20:30:42  #MKT News #Macro & Rates #US Economy #DXY #Impact bullish #US10Y #S&P500 #Impact bearish
+
+US Q1 PCE price index final, annualized quarterly rate 4.6% vs 4.5% expected, 4.5% prior.
+
+---
+
+### 2026-06-25 20:30:42  #MKT News #Important #Macro & Rates #US Economy #DXY #Impact bullish #US10Y #Impact bearish #S&P500
+
+US Q1 real GDP final annualized QoQ 2.1% vs 1.60% expected; prior 1.60%.
+
+---
+
+### 2026-06-25 20:30:42  #MKT News #Macro & Rates #US Economy #DXY #Impact bullish #S&P500 #US10Y #Impact bearish
+
+US Q1 final sales, annualized QoQ (final) 1.9% — expected 1.5%, prior 1.5%.
+
+---
+
+### 2026-06-25 20:30:42  #MKT News #Macro & Rates #US Economy
+
+US 4-week moving average of initial jobless claims for week ended June 20: 224,250; prior revised from 223,250 to 223,500.
+
+---
+
+### 2026-06-25 20:30:41  #MKT News #Important #Macro & Rates #US Economy #US10Y #Impact bullish #DXY #S&P500 #Impact bearish
+
+U.S. core PCE price index, May MoM +0.3% (consensus 0.30%); April revised up to +0.3% from +0.2%.
+
+---
+
+### 2026-06-25 20:30:41  #MKT News #Macro & Rates #US Economy #DXY #Impact bullish #US10Y #EURUSD #Impact bearish
+
+US May personal income MoM +0.7% (exp. +0.4%; prior 0.0%).
+
+---
+
+### 2026-06-25 20:30:41  #MKT News #Macro & Rates #US Economy #S&P500 #Impact bearish #XAUUSD #Impact bullish #DXY #Impact mixed
+
+US continuing unemployment claims for the week ended June 13: 1.821 mln (consensus 1.800 mln). Prior week revised from 1.81 mln to 1.800 mln.
+
+---
+
+### 2026-06-25 20:30:37  #MKT News #Macro & Rates #US Economy #DXY #Impact bullish #US10Y #Impact bearish
+
+US May durable goods orders ex-transportation MoM 1.3% vs 0.6% expected; prior revised to 1.4% from 1.1%.
+
+---
+
+### 2026-06-25 20:30:36  #資料 #焦點 #國際
+
+【美國核心PCE年率小幅走高 符合市場預期】美國5月核心PCE物價指數年率錄得3.4%，符合市場預期，為2023年10月以來新高。美國5月PCE物價指數年率 4.1%，預期4.1%，前值3.80%。
+
+---
+
+### 2026-06-25 20:30:35  #MKT News #Economic Calendar #Important
+
+United States | GDP Price Index SAAR Final (Q1) | actual 3.6% | consensus 3.50% | previous 3.50%
+
+---
+
+### 2026-06-25 20:30:17  #MKT News #Macro & Rates #US Economy #DXY #Impact bearish #S&P500 #US10Y #Impact bullish
+
+U.S. May durable-goods orders ex-defense m/m -4.6%; April revised to +8.4% from +8.1%.
+
+---
+
+### 2026-06-25 20:30:17  #MKT News
+
+US Chicago Fed National Activity Index (CFNAI) for May -0.1; previous reading revised to 0.19 from 0.14.
+
+---
+
+### 2026-06-25 20:30:16  #MKT News #Important #Macro & Rates #US Economy #DXY #Impact bullish #S&P500 #EURUSD #Impact bearish
+
+US initial jobless claims for the week ending June 20: 215,000 vs. 225,000 expected; prior week revised up to 227,000 from 226,000.
+
+---
+
+### 2026-06-25 20:30:10  #資料 #焦點 #國際
+
+美國6月20日當週首次申請失業救濟人數為21.5萬人，預計為22.5萬人。
+
+---
+
+### 2026-06-25 20:30:09  #MKT News #Important #Macro & Rates #US Economy #DXY #Impact bearish #US10Y #Impact bullish #S&P500 #Impact mixed
+
+US durable goods orders, May m/m -4.5% (consensus -4.5%); April revised to +8.5% from +8.0%.
+
+---
+
+### 2026-06-25 20:30:08  #MKT News #Economic Calendar #Important
+
+United States | Core PCE Price Index (YoY) (May) | actual 3.4% | consensus 3.40% | previous 3.30%
+
+---
+
+### 2026-06-25 20:30:08  #MKT News #Economic Calendar #Important
+
+United States | PCE Price Index (YoY) (May) | actual 4.1% | consensus 4.1% | previous 3.80%
+
+---
+
+### 2026-06-25 20:30:08  #MKT News #Economic Calendar #Important
+
+United States | Personal Income (MoM) (May) | actual 0.7% | consensus 0.40% | previous 0.00%
+
+---
+
+### 2026-06-25 20:30:08  #MKT News #Economic Calendar #Important
+
+United States | Personal Spending (MoM) (May) | actual 0.7% | consensus 0.6% | previous 0.50%
+
+---
+
+### 2026-06-25 20:30:07  #MKT News #Economic Calendar #Important
+
+United States | Core PCE Price Index SAAR Final (QoQ) (Q1) | actual 4.4% | consensus 4.40% | previous 4.40%
+
+---
+
+### 2026-06-25 20:30:07  #MKT News #Economic Calendar #Important
+
+United States | PCE Price Index SAAR Final (QoQ) (Q1) | actual 4.6% | consensus 4.5% | previous 4.5%
+
+---
+
+### 2026-06-25 20:30:07  #MKT News #Economic Calendar #Important
+
+United States | Core PCE Price Index (MoM) (May) | actual 0.3% | consensus 0.30% | previous 0.20%
+
+---
+
+### 2026-06-25 20:30:07  #MKT News #Economic Calendar #Important
+
+United States | PCE Price Index (MoM) (May) | actual 0.4% | consensus 0.50% | previous 0.40%
+
+---
+
+### 2026-06-25 20:30:07  #MKT News #Economic Calendar #Important
+
+United States | Personal Consumption Expenditures SAAR Final (QoQ) (Q1) | actual 0.5% | previous 1.4%
+
+---
+
+### 2026-06-25 20:30:07  #MKT News #Economic Calendar #Important
+
+United States | Real GDP Rate SAAR Final (QoQ) (Q1) | actual 2.1% | consensus 1.60% | previous 1.60%
+
+---
+
+### 2026-06-25 20:30:07  #MKT News #Economic Calendar #Important
+
+United States | Final Sales SAAR Final (QoQ) (Q1) | actual 1.9% | consensus 1.5% | previous 1.5%
+
+---
+
+### 2026-06-25 20:30:05  #MKT News #Economic Calendar #Important
+
+United States | Durable Goods Orders Excluding Aircraft and NonDefense Capital Goods (MoM) (May) | actual 1.6% | consensus 0.6% | previous -1.00%
+
+---
+
+### 2026-06-25 20:30:05  #MKT News #Economic Calendar #Important
+
+United States | Durable Goods Orders Excluding Defense (MoM) (May) | actual -4.6% | previous 8.1%
+
+---
+
+### 2026-06-25 20:30:05  #MKT News #Economic Calendar #Important
+
+United States | Durable Goods Orders Excluding Transportation (MoM) (May) | actual 1.3% | consensus 0.6% | previous 1.10%
+
+---
+
+### 2026-06-25 20:30:02  #MKT News #Economic Calendar #Important
+
+United States | Continued Jobless Claims (Jun.13) | actual 1821000K | consensus 1800000K | previous 1810000K
+
+---
+
+### 2026-06-25 20:30:02  #MKT News #Economic Calendar #Important
+
+United States | Initial Jobless Claims 4-Week Average (Jun.20) | actual 224250K | previous 223250K
+
+---
+
+### 2026-06-25 20:30:02  #MKT News #Economic Calendar #Important
+
+United States | Initial Jobless Claims (Jun.20) | actual 215000K | consensus 225000K | previous 226000K
+
+---
+
+### 2026-06-25 20:30:02  #MKT News #Economic Calendar #Important
+
+United States | Durable Goods Orders (MoM) (May) | actual -4.5% | consensus -4.5% | previous 8.00%
+
+---
+
+### 2026-06-25 20:30:00  #MKT News #Economic Calendar #Important
+
+United States | Chicago Fed National Activity Index (May) | actual -0.1 | previous 0.14
+
+---
+
+### 2026-06-25 20:29:16  #公司
+
+【廣發證券：持股5%以上股東可交換債（第二期）將進入換股期】廣發證券公告稱，持股5%以上股東遼寧成大2025年12月29日發行的10億元“25成大E2”可交換公司債券，換股期為2026年6月30日至2028年12月28日，初始換股價格24.58元/股。截至公告披露日，遼寧成大及其一致行動人持有公司股份13.67億股，佔總股本17.47%。換股後其持股或減少，但不會導致公司股權結構重大變化。
+
+---
+
+### 2026-06-25 20:28:53  #公司
+
+【牧原股份：擬以3億港元至5億港元回購H股】牧原股份公告，為進一步維護股東權益並增強投資者信心，董事會審議透過一項回購總金額不少於3億港元且不多於5億港元（均含本數）的H股回購方案。根據H股回購方案回購的H股股份將作為庫存股持有。H股回購方案的實施期限為自董事會審議並透過回購方案之日起12個月內。
+
+---
+
+### 2026-06-25 20:27:31  #國際
+
+【重慶海關：張雪機車首次批次出口歐洲，200餘輛摩托將運抵波蘭】6月25日，據重慶日報報道，24日下午，重慶張雪機車工業有限公司生產的一批摩托車整車從上海乘船出海，駛向歐洲。這批摩托車整車共計200餘輛，沿長江黃金水道順流而下，經上海轉海運，最終將運抵波蘭。
+
+---
+
+### 2026-06-25 20:27:24  #其他
+
+【四川大千500千伏變電站試執行】位於四川省內江市的大千500千伏變電站6月25日順利完成帶電除錯，進入試執行階段，新增變電容量240萬千伏安。
+
+---
+
+### 2026-06-25 20:27:21  #兩會
+
+【河南省深化開發區改革發展工作會議召開 劉寧講話 王凱主持 孔昌生出席】6月25日，全省深化開發區改革發展工作會議召開。省委書記劉寧出席並講話，強調要深入學習貫徹習近平總書記關於開發區工作的重要指示批示精神和在河南考察時重要講話精神，聚焦“1+2+4+N”目標任務體系，進一步推動開發區提質增效、啟用全省高質量發展主引擎，為奮力譜寫中原大地推進中國式現代化新篇章提供有力支撐。省長王凱主持，省政協主席孔昌生出席。
+
+劉寧強調，一要以構建現代化開發區矩陣釋放綜合效益，立足產業分工要求，堅持優勢互補原則，秉持合作共贏理念，強化資源整合、創新協同、產業聯動，加強同質園區最佳化提升、裁撤整合。二要以深化體制機制改革激發動力活力，最佳化管理體制，理順職責邊界，提升運營管理水平，深化人事薪酬制度改革，不斷完善市場主導、政府支援、管運分離的體制機制。三要以產業集聚叢集發展推動勢能提升，最佳化產業佈局，打造產業叢集地標，深化數智賦能，強化創新驅動，加快構建企業集聚、產業叢集、要素集約、技術整合、服務集中的產業業態。四要以提質增效招商引資蓄積發展後勁，突出場景招商、資本招商、“飛地”招商等方式，擴大增量、用好存量、提升質量，加強招商引資統籌協調和政策指導，為開發區發展注入更多“源頭活水”。五要以資源節約集約高效利用提升承載能力，樹牢高質量發展鮮明導向，在有限土地上精耕細作，統籌港產城園規劃佈局，推動迴圈化改造和企業清潔生產改造，形成綠色發展新高地。六要以持續最佳化營商環境擦亮視窗形象，最佳化“軟環境”，築牢“硬支撐”，推動開發區投資、生產製造、貿易、物流等全方位全過程便利化高效化，吸引更多企業入園發展、投資興業。（河南釋出）
+
+---
+
+### 2026-06-25 20:25:17  #市場
+
+南非主要股指上漲1%，至110,933.40。
+
+---
+
+### 2026-06-25 20:24:49  #公司
+
+【浪潮集團與山東土地集團簽署戰略合作協議】據浪潮集團訊息，6月25日，浪潮集團與山東土地集團在浪潮科技園簽署戰略合作協議。根據協議，雙方將聚焦集團管控能力建設、特色產業數字化以及技術研發與人才培養等方向，深化開展多層次、全方位的戰略合作。
+
+---
+
+### 2026-06-25 20:24:16  #公司
+
+【米奧會展：聘任張達霖為公司董事會秘書】米奧會展公告稱，公司第六屆董事會第九次會議審議透過《關於聘任公司董事會秘書的議案》，經董事長提名及董事會提名委員會資格審查透過，同意聘任張達霖擔任公司董事會秘書，任期自本次董事會審議透過之日起至第六屆董事會屆滿之日止。
+
+---
+
+### 2026-06-25 20:23:16  #宏觀
+
+【陳文清在河南調研時表示 深入貫徹落實習近平總書記重要指示精神 為推進中國式現代化提供安全和法治保障】中共中央政治局委員、中央政法委書記陳文清22日至24日在河南鄭州、南陽調研時表示，政法機關要深入貫徹落實習近平總書記在河南考察時的重要指示精神，學習貫徹習近平黨建思想、習近平法治思想，樹立和踐行正確政績觀，在鍛造政法鐵軍、推進平安建設、加強法治建設、夯實基層基礎上譜新篇，為推進中國式現代化提供有力安全和法治保障。（新華社）
+
+---
+
+### 2026-06-25 20:22:20  #公司
+
+【廣發證券：獲證監會批覆公開發行不超500億元短期公司債】廣發證券公告稱，公司收到中國證監會批覆，同意其向專業投資者公開發行短期公司債券的註冊申請，本次公開發行短期公司債券面值餘額不超過500億元。發行應嚴格按報送深交所的募集說明書進行，批覆自同意註冊之日起24個月內有效，公司可分期發行。公司將依規辦理髮行相關事宜並及時披露資訊。
+
+---
+
+### 2026-06-25 20:21:19  #Trading Economics #Economy #Mexico #Unemployment Rate #Importance 1
+
+Mexico Unemployment Rate Rises to 8-Month High — Mexico's unemployment rate increased to 2.8% in May 2026, marking the highest level in eight months, up from 2.5% in April. The number of unemployed individuals incresed by 200 thousand to 1.7 million, while employed persons declined by the same amount to 60.4 million. The economically active population remained unchanged at 62.1 million, with the labor force participation rate holding steady at 59.1%. Among employed workers, salaried workers kept the biggest share at 68.5%, followed by self-employed (22.3%), employers (5.9%) and unpaid family workers (3.4%). By sector, services accounted for 44.4%, followed by commerce (19.9%), manufacturing (16.2%), agriculture (10.0%) and construction (8.0%). The unemployement rate was higher for women (2.8%) than men (2.7%). 12% of unemployed individuals had not completed secondary education, while 88% had attained a higher level of education. On a seasonally adjusted basis, the unemployment rate edged up to 2.7% in May from 2.6% in April.
+
+---
+
+### 2026-06-25 20:20:39  #公司
+
+【科沃斯：參股公司仙工智慧在港交所上市】科沃斯(603486)6月25日公告，公司參股公司上海仙工智慧科技股份有限公司（簡稱“仙工智慧”）於6月24日在香港聯合交易所主機板上市。仙工智慧本次全球發售1049.73萬股，上市股份類別為普通股（H股），發行價格為101.6港元/股。公司全資子公司科沃斯（海南）投資有限公司直接持有仙工智慧644.67萬股，佔其發行後總股本的5.83%。本次仙工智慧上市，持有的該部分股份預計對公司2026年度歸母淨利潤影響金額約為2.05億元，約佔2025年度公司經審計歸母淨利潤的11.69%。
+
+---
+
+### 2026-06-25 20:20:17  #MKT News #Important
+
+Iranian parliament speaker Ghalibaf said the US is wrong to claim Iran’s unfrozen assets will be used to buy US agricultural products.
+
+---
+
+### 2026-06-25 20:20:11  #MKT News #Important #Macro & Rates #US Economy #DXY #Impact mixed #US10Y #S&P500
+
+US data due in 10 minutes: last week’s initial jobless claims; Q1 real PCE QoQ final; Q1 real GDP and core PCE price index annualized QoQ final; May durable goods orders MoM; May personal spending MoM; core PCE price index MoM and YoY.
+
+---
+
+### 2026-06-25 20:20:02  #MKT News
+
+Japan Meteorological Agency said an M4.7 earthquake struck off the coast of Iwate Prefecture at about 20:58 local time on the 25th, with a maximum JMA seismic intensity of 4 and a hypocenter depth of 50 km.
+
+---
+
+### 2026-06-25 20:19:31  #焦點 #國際
+
+伊朗議會議長卡利巴夫：美國謊稱我們解凍的資產將用於購買美國農產品。
+
+---
+
+### 2026-06-25 20:18:55  #國際
+
+【日本巖手縣附近海域發生4.7級地震】據日本氣象廳訊息，當地時間25日20時58分左右，日本巖手縣附近海域發生4.7級地震，最大震感為震度4，震源深度50公里。（央視新聞）
+
+---
+
+### 2026-06-25 20:18:02  #國際
+
+墨西哥提高對部分美國鋼管進口徵收關稅。
+
+---
+
+### 2026-06-25 20:16:47  #Trading Economics #Economy #Brazil #Mid-month Inflation Rate MoM #Importance 2
+
+Brazil Mid-Month Inflation Eases in June — Consumer prices in Brazil rose 0.41% month-over-month in the first half of June 2026, slowing from 0.62% in May and coming in slightly below forecasts of 0.44%. Cost of food and beverages eased to 0.74% from 1.38%, as prices of food consumed at home decelerated to 0.87% from 1.73%. Housing inflation also fell to 0.72% from 1.03% in May. In health and personal care, prices rose 0.47%, easing from 1.05% in the previous month. Transportation fell 0.03% after declining 0.33% in May, as lower fuel prices offset increases in airfares and public transportation. Regionally, Brasília posted the highest increase at 0.93%, driven by airfares and gasoline, while Rio de Janeiro, Curitiba, and Salvador recorded the lowest readings at 0.28%. Mid-month inflation reached 3.45% year-to-date and 4.80% over the last 12 months.
+
+---
+
+### 2026-06-25 20:16:30  #公司
+
+【光線傳媒：持股5%以上股東減持股份降至5%】光線傳媒公告稱，持股5%以上股東上海漢濤資訊諮詢有限公司於2026年5月25日至6月24日，透過集中競價和大宗交易方式合計減持2933.58萬股，佔公司總股本的0.999997%。本次減持後，其持股比例從5.999997%降至4.999999%，不再是持股5%以上股東。本次權益變動不會導致公司控股股東、實際控制人變化，不影響公司治理結構和持續經營。截至公告披露日，減持計劃尚未實施完畢。
+
+---
+
+### 2026-06-25 20:15:39  #MKT News #XAUUSD #Impact bullish #DXY #Brent
+
+Medical and security sources said an Israeli drone struck a car in southern Lebanon, killing two.
+
+---
+
+### 2026-06-25 20:14:47  #MKT News
+
+ECB Governing Council member Moulin said the ECB's June rate hike was "moderate".
+
+---
+
+### 2026-06-25 20:14:01  #MKT News #Market Regions #Europe & UK #EURUSD #Impact bullish #DXY #Impact bearish
+
+ECB executive board member Moulin said recent developments are steering the economy toward a more positive outlook.
+
+---
+
+### 2026-06-25 20:13:55  #焦點 #國際
+
+醫療與安全訊息源：以色列無人機空襲黎巴嫩南部一輛汽車，造成兩人死亡。
+
+---
+
+### 2026-06-25 20:12:41  #MKT News #EURUSD #Impact bullish
+
+ECB executive board member Moulin said recent developments are favorable for the French economy.
+
+---
+
+### 2026-06-25 20:12:31  #公司
+
+【維他奶2025/2026財政年度實現淨利潤2.74億港元】6月25日，維他奶披露截至2026年3月31日止的年度業績公告。報告期內，公司的收入為60.61億港元，同比下降3%；歸母淨利潤為2.74億港元，同比增長17%。
+
+---
+
+### 2026-06-25 20:12:18  #公司 #國際
+
+【卡達自伊朗戰事爆發後首次釋出原油招標】招標檔案顯示，卡達能源公司計劃出售 7、8 月裝船的全部沙辛油田、卡達陸上油田及卡達海上油田原油貨輪。這是自伊朗戰事爆發以來，該公司首次釋出原油招標。每批貨量 50 萬桶，可選擇 7 至 8 月內任意日期裝船；每船貨物需雙方協商確定兩日裝船視窗期。交易可採用離岸價（FOB）交割，也可在富查伊拉或蘇哈爾港進行船對船轉運，單次轉運最高 200 萬桶。招標多哈當地時間 6 月 29 日中午 12 點截止；投標報價有效期至當日 18 點。該公司暫未作出回應。
+
+---
+
+### 2026-06-25 20:12:12  #MKT News #Commodities #Energy
+
+India's oil minister said the country is committed to strengthening energy security through dialogue, cooperation and mutually beneficial engagement.
+
+---
+
+### 2026-06-25 20:12:04  #MKT News
+
+Indian oil minister met Iran's oil minister to explore cooperation opportunities in the energy sector.
+
+---
+
+### 2026-06-25 20:11:50  #MKT News #Commodities #Energy #WTI #Impact bearish #Brent
+
+QatarEnergy has issued its first crude oil tender since the Iran conflict.
+
+---
+
+### 2026-06-25 20:11:40  #國際
+
+印度石油部長：印度仍致力於透過對話、夥伴關係與互利合作提升能源安全。
+
+---
+
+### 2026-06-25 20:11:33  #國際
+
+印度石油部長：已與伊朗石油部長會晤，探討了能源領域的合作機遇。
+
+---
+
+### 2026-06-25 20:11:00  #公司 #國際
+
+卡達能源公司釋出自伊朗戰爭以來的首份原油招標公告。
+
+---
+
+### 2026-06-25 20:10:19  #公司
+
+【九洲集團：李寅等股東完成減持 未超計劃且未影響控制權】九洲集團公告稱，股東李寅於2026年5月13 - 14日以集中競價減持785,000股，佔總股本0.1220%；劉富利於5月6日 - 6月1日減持12,599股，佔0.0020%。盧志國、高明未減持。減持後，李寅持股降至13.219%，劉富利降至0.0059%。本次減持符合法規，未超計劃，不會導致公司控制權變更，不影響公司治理結構和持續經營。
+
+---
+
+### 2026-06-25 20:09:31  #公司
+
+【九洲集團：李寅等股東完成減持 未超計劃且未影響控制權】九洲集團公告稱，股東李寅於2026年5月13 - 14日以集中競價減持785,000股，佔總股本0.1220%；劉富利於5月6日 - 6月1日減持12,599股，佔0.0020%。盧志國、高明未減持。減持後，李寅持股降至13.219%，劉富利降至0.0059%。本次減持符合法規，未超計劃，不會導致公司控制權變更，不影響公司治理結構和持續經營。
+
+---
+
+### 2026-06-25 20:09:06  #MKT News
+
+【NPC Standing Committee chairpersons' meeting reviews Trademark Law, CPA Law, Hong Kong port jurisdiction and 2025 central final accounts】Beijing, June 25 — The 14th NPC Standing Committee chairpersons' meeting, chaired by Zhao Leji at the Great Hall of the People, heard reports and reviewed revised drafts on several items. Xin Chunying reported on proposed revisions to the Trademark Law amendment, suggested edits to a draft decision amending the CPA Law, and the review outcome of a draft decision to authorize the HKSAR to exercise jurisdiction over the Hong Kong-side port area at Huanggang and related extended zones; the meeting examined the revised drafts. Xu Hongcai reported on the review of the 2025 central final accounts draft and accompanying report, and the meeting examined a draft resolution to approve the 2025 central final accounts. Liu Qi reported on individual deputies' qualification reviews and related appointment/removal cases. The chairpersons' meeting decided to submit the revised drafts and draft decisions to the full NPC Standing Committee for consideration.
+
+---
+
+### 2026-06-25 20:09:02  #MKT News #JPM.N
+
+JP Morgan (JPM.N) appointed Doug Petno and Troy Rohrbaugh as co-presidents.
+
+---
+
+### 2026-06-25 20:08:40  #其他
+
+【蘇州召開“中小微企業日”企業家座談會】在聯合國“中小微企業日”來臨之際，6月25日，蘇州市委書記範波主持召開蘇州市“中小微企業日”企業家座談會，深入學習貫徹習近平總書記關於促進中小企業發展的重要論述和對江蘇、蘇州工作重要講話重要指示精神，深入開展服務企業、服務專案、服務園區和基層“三服務”專項行動，廣泛聽取意見建議，幫助解決實際問題，以一流營商環境助力企業發展壯大。會上，零一汽車、桐力光電、優理奇機器人、齊飛航空、貝康醫療、中瑞智創、星恆電源、新梅華、眾海投資、燦勤科技等企業負責人分別發言，圍繞強化數智賦能、打響蘇州品牌、夯實低空基礎設施、支援醫療器械產業發展、助力校企聯合攻關、拓展本土應用場景等方面提出意見建議。相關部門作了回應。（蘇州日報）
+
+---
+
+### 2026-06-25 20:08:33  #MKT News
+
+Market sources: Ares private-credit fund again caps investor redemptions at 5%.
+
+---
+
+### 2026-06-25 20:08:30  #其他
+
+【零跑D99正式上市】6月25日，零跑首款MPV車型零跑D99正式上市，搭載零跑旗艦D平臺，首發寧德時代“超混電芯”+全域千伏高壓架構，首發雙高通8797晶片，座椅採用2+2+3共7座佈局，提供增程和純電兩種動力選擇， 增程版搭載1.5TD增程器，配備80.3kWh電池，純電版搭載115kWh電池，售價24.98萬元起。
+
+---
+
+### 2026-06-25 20:08:19  #兩會
+
+【十四屆全國人大常委會舉行第六十九次委員長會議 聽取有關草案和議案審議情況彙報 趙樂際主持】十四屆全國人大常委會第六十九次委員長會議25日下午在北京人民大會堂舉行。趙樂際委員長主持。
+會議聽取了全國人大憲法和法律委員會主任委員信春鷹作的關於商標法修訂草案修改意見的彙報、關於修改註冊會計師法的決定草案修改意見的彙報、關於授權香港特別行政區對皇崗口岸港方口岸區及相關延伸區實施管轄的決定草案審議結果的報告，審議了相關草案修改稿、決定草案。
+會議聽取了全國人大財政經濟委員會副主任委員、全國人大常委會預算工作委員會主任許宏才作的關於2025年中央決算草案和2025年中央決算報告審查情況的彙報，審議了關於批准2025年中央決算的決議草案代擬稿。
+會議聽取了全國人大常委會秘書長劉奇作的關於個別代表的代表資格的報告和任免案審議情況的彙報等。
+委員長會議決定，將上述草案修改稿等提交常委會會議審議。（新華社）
+
+---
+
+### 2026-06-25 20:08:03  #其他
+
+經合組織：就斯洛伐克問題表示，能源補貼給財政預算帶來了沉重負擔，扭曲了經濟選擇，並且抑制了能效提升工作。
+
+---
+
+### 2026-06-25 20:07:13  #宏觀 #其他 #焦點
+
+【廣東落地全國首批民營企業再貸款線上交易業務】6月25日，中國人民銀行正式上線民營企業再貸款線上交易業務。上線當日，中國人民銀行廣東省分行指導轄內陽江市分行、雲浮市分行成功以線上交易方式為4家地方法人金融機構發放民營企業再貸款，業務型別涵蓋信用方式和券款對付結算（DVP）方式，標誌著民營企業再貸款線上交易業務在廣東率先落地。
 
 ---
 
@@ -16916,600 +17396,5 @@ U.S. 5-year Treasury auction on June 24: stop-out yield 4.20%, prior 4.18%.
 ### 2026-06-25 01:02:15  #MKT News #Macro & Rates #Treasury Yields #US10Y #Impact bullish
 
 US 5-year Treasury auction bid-cover ratio 2.35 on June 24; prior 2.34.
-
----
-
-### 2026-06-25 01:02:07  #MKT News #Economic Calendar
-
-United States | 5-Year Note Auction Bid/Cover Ratio (Jun.24) | actual 2.35 | previous 2.34
-
----
-
-### 2026-06-25 01:02:07  #MKT News #Economic Calendar
-
-United States | 5-Year Note Auction Accepted at High (Jun.24) | actual 86.81% | previous 75.22%
-
----
-
-### 2026-06-25 01:02:07  #MKT News #Economic Calendar
-
-United States | 5-Year Note Auction High Yield Rate (Jun.24) | actual 4.2% | previous 4.18%
-
----
-
-### 2026-06-25 01:01:23  #MKT News #Commodities #Industrial Metals #Copper #Impact bearish
-
-【Night session most-active contracts close】At the 01:00 night-session close, Shanghai most-active copper contract fell 2.30%, aluminum down 2.13%, zinc down 1.33%, nickel down 1.72%, tin down 2.64%, lead down 0.95%, stainless steel down 0.85% and alumina down 0.84%; international most-active copper contract fell 2.29%.
-
----
-
-### 2026-06-25 01:00:27  #市場 #國際
-
-700億美元拍賣前，美國國債5年期收益率為4.193%。
-
----
-
-### 2026-06-25 01:00:16  #國際
-
-美國能源部長賴特稱，預計將於今年晚些時候前往委內瑞拉。
-
----
-
-### 2026-06-25 01:00:03  #市場
-
-【夜盤期貨收盤】國際銅夜盤收跌2.29%，滬銅收跌2.30%，滬鋁收跌2.13%，滬鋅收跌1.33%，滬鉛收跌0.95%，滬鎳收跌1.76%，滬錫收跌2.65%。氧化鋁夜盤收跌0.84%，鋁合金收跌1.69%。不鏽鋼夜盤收跌0.85%。
-
----
-
-### 2026-06-25 00:58:42  #國際
-
-【以黎華盛頓首輪談判首日未能取得任何進展】以色列與黎巴嫩在華盛頓舉行的首輪談判首日未能取得任何進展，雙方在以色列撤軍範圍與時間節點上存在重大分歧。會談氣氛愈發緊張，兩國分歧依舊懸殊。美國調解方目前實質上重啟談判，試圖促使雙方軟化立場，推動磋商重回正軌。
-
----
-
-### 2026-06-25 00:57:46  #MKT News #XAUUSD #Impact bullish #WTI #DXY
-
-Axios reports the first day of Israel-Lebanon talks in Washington produced no progress; the parties remain sharply divided on the scope and timeline of an Israeli withdrawal.
-
----
-
-### 2026-06-25 00:57:33  #宏觀 #國際
-
-【貝森特稱美伊談判涵蓋伊朗重返美元體系 強調美元主導地位至關重要】美國財政部長斯科特·貝森特暗示，美國與伊朗的談判內容包括這個長期與美國對立的國家加入美元體系，並以美元為其石油銷售開具發票。貝森特週三接受採訪時說：“我們在與伊朗的談判中看到，伊朗方面將以美元開具發票。”他說，這是美元即將在全球經濟中更廣泛重新確立主導地位的一個組成部分。貝森特還表示，美國財政部將從卡達多哈負責監督伊朗被凍結資金的處理工作。“其中很大一部分將用於購買美國食品和藥品。因此，我們將把這筆資金重新投入到美國產品中。”在被問及美國財長曆來鍾愛強勢美元的傳統時，貝森特說道，“我們所鍾愛的是做正確的事讓美元堅挺。”
-
----
-
-### 2026-06-25 00:57:02  #MKT News #Important #WTI #Impact bearish #Brent
-
-US energy minister Wright said innovative replenishment methods could raise the Strategic Petroleum Reserve (SPR) to 500 mln barrels.
-
----
-
-### 2026-06-25 00:56:49  #MKT News #Commodities #Energy #WTI #Impact bearish #Brent
-
-U.S. Energy Secretary wright expects to raise Venezuelan oil exports to about 2.0 mln bpd during this administration.
-
----
-
-### 2026-06-25 00:56:27  #國際
-
-美國能源部長賴特表示，預計本屆政府任期內能夠將委內瑞拉石油出口提升至每日200萬桶。
-
----
-
-### 2026-06-25 00:56:16  #國際
-
-美國能源部長賴特稱，透過創新補庫方案，美國戰略石油儲備（SPR）庫存有望回升至5億桶。
-
----
-
-### 2026-06-25 00:55:18  #其他
-
-【奧運史上首次：國際奧委會將向奧運選手發放津貼】國際奧委會24日宣佈將設立奧運選手補助金，給每名奧運選手發放1萬美元的津貼。該政策從2026年米蘭-科爾蒂納冬奧會開始生效。這是奧運史上首次面向所有參賽運動員直接發放補助。國際奧委會運動員委員會主席保羅·加索爾在當天舉行的國際奧委會第146次全會上表示，已為每個奧運週期預留1.4億美元基金，預計每個奧運週期約有14000名奧運選手有條件申請。（新華社）
-
----
-
-### 2026-06-25 00:54:17  #國際
-
-美國國務卿魯比奧：如果伊朗想要達成一項真正好的協議，美國對此持開放態度。
-
----
-
-### 2026-06-25 00:53:51  #國際
-
-美國能源部長賴特稱，關於延長《瓊斯法案》豁免期限一事，相關“磋商對話”仍在進行中。
-
----
-
-### 2026-06-25 00:53:50  #MKT News #XAUUSD #Impact bullish #WTI #DXY
-
-i24News reported the Israel Defense Forces struck a vehicle in southern Lebanon carrying suspects who were attempting to cross into an Israeli security zone.
-
----
-
-### 2026-06-25 00:53:20  #MKT News #Important
-
-【Rubio says U.S., Iran to resume technical talks at end of June】Multiple foreign outlets reported on the 24th that U.S. Secretary of State Rubio said U.S. and Iranian technical teams will resume talks in Switzerland at the end of June.
-
----
-
-### 2026-06-25 00:53:17  #國際
-
-【魯比奧：美伊本月底將繼續技術磋商】據多家外媒24日報道，美國國務卿魯比奧表示，美國和伊朗技術團隊將於6月底在瑞士繼續舉行會談。（新華社）
-
----
-
-### 2026-06-25 00:52:07  #國際
-
-美國能源部長賴特稱，人們相信石油供應將會增長。
-
----
-
-### 2026-06-25 00:51:13  #市場 #焦點
-
-比特幣跌破60000美元，日內跌4.36%。
-
----
-
-### 2026-06-25 00:50:21  #國際
-
-美國能源部長賴特稱，霍爾木茲海峽航運恢復常態尚需數週時間。
-
----
-
-### 2026-06-25 00:50:05  #MKT News #Important #Star Stocks #NVIDIA #Market Themes #Magnificent 7 #NVDA.O
-
-NVIDIA will hold its annual shareholder meeting in 10 minutes.
-
----
-
-### 2026-06-25 00:49:42  #國際
-
-昨日於華盛頓舉行的以黎首輪談判首日結束，未取得任何進展，某種程度上雙方立場甚至出現倒退。一名訊息人士透露，雙方談判過程中部分階段氣氛十分“糟糕”。以色列方面承認雙方存在分歧，但聲稱會談整體氛圍“融洽”。
-
----
-
-### 2026-06-25 00:49:23  #MKT News #WTI #Impact bullish #Brent
-
-U.S. Energy Secretary wright said the Strait of Hormuz will take several weeks to return to normal.
-
----
-
-### 2026-06-25 00:49:15  #MKT News
-
-According to the AP, a federal judge barred President Trump from enforcing a requirement that voters present proof of citizenship when voting.
-
----
-
-### 2026-06-25 00:48:50  #國際
-
-美國國務卿魯比奧：我們希望黎巴嫩武裝部隊以及擁有合法主權的黎巴嫩政府能夠持續掌控並保衛該國越來越多的領土。
-
----
-
-### 2026-06-25 00:45:22  #MKT News #WTI #Impact bearish #Brent
-
-U.S. Energy Secretary Wright said the U.S. will ensure oil flows through the Strait of Hormuz even if it does not reach an agreement with Iran.
-
----
-
-### 2026-06-25 00:45:20  #MKT News
-
-【Colombia left-wing candidate Cepeda concedes presidential election】On the morning of the 24th local time, Iván Cepeda, candidate from the left-wing governing coalition Historic Pact for Colombia, said via livestream he concedes defeat in the Colombian presidential election.
-
----
-
-### 2026-06-25 00:45:16  #其他
-
-【哥倫比亞左翼候選人塞佩達承認大選敗選】當地時間24日上午，來自左翼執政聯盟“哥倫比亞歷史公約聯盟”的候選人伊萬·塞佩達透過網路平臺直播宣佈，他承認在哥倫比亞總統選舉中落敗。（新華社）
-
----
-
-### 2026-06-25 00:44:26  #市場 #焦點
-
-SPACEX股價轉跌，下跌0.3%。
-
----
-
-### 2026-06-25 00:44:15  #國際
-
-美國能源部長賴特稱，即便無法與伊朗達成協議，美國仍將確保霍爾木茲海峽的石油流通順暢。
-
----
-
-### 2026-06-25 00:43:56  #國際
-
-美國能源部長賴特稱，伊朗在霍爾木茲海峽佈設水雷導致石油運輸恢復正常程序推遲。
-
----
-
-### 2026-06-25 00:43:36  #MKT News #WTI #Impact bullish #Brent
-
-U.S. Energy Secretary wright said the resumption of normal oil shipments has been delayed because Iran-laid sea mines remain in the Strait of Hormuz.
-
----
-
-### 2026-06-25 00:43:33  #MKT News #WTI #Impact bearish #Brent
-
-U.S. Energy Secretary wright said Iran will be unable to block passage through the Strait of Hormuz.
-
----
-
-### 2026-06-25 00:43:30  #國際
-
-美國能源部長賴特表示，過去24小時內約有72艘船隻駛出霍爾木茲海峽，總計運輸2000萬桶石油。
-
----
-
-### 2026-06-25 00:43:19  #國際
-
-美國能源部長賴特稱，伊朗今後將無力封鎖霍爾木茲海峽。
-
----
-
-### 2026-06-25 00:42:29  #央行 #國際
-
-美國財長貝森特：對美聯儲需要警惕的核心底層通脹壓力不予置評。但我認為，我們必須客觀看待伊朗衝突對物價、通脹造成的衝擊，等本輪能源漲價效應消退後，再觀察通脹實際表現。同時也要理性看待人工智慧產業熱潮——AI有望提振生產率、起到抑制通脹的作用，推動通脹回落至目標水平。我確信凱文·沃什會選擇最優政策路徑，兼顧抑制通脹與穩定增長兩大美聯儲法定職責。要知道，他此前表態時對通脹風險措辭強硬。
-
----
-
-### 2026-06-25 00:41:54  #MKT News #Commodities #Energy #WTI #Impact bearish #Brent
-
-US Energy Secretary wright said roughly 72 vessels departed the Strait of Hormuz in the past 24 hours, carrying about 20 million barrels of oil.
-
----
-
-### 2026-06-25 00:41:47  #央行 #國際
-
-美國財長貝森特：我認為美國經濟將實現高國內生產總值（GDP）增速，同時不會出現傳統意義上的通脹抬頭。過去幾天，各界都在回顧格林斯潘的執政歷程。他極具先見之明，90年代前夕，美國生產率增速約1.5%，但他預判辦公裝置現代化與網際網路浪潮能夠推動無通脹型經濟繁榮。當年美聯儲僅在1997年初小幅加息一次、短暫收緊政策，除此之外，美國迎來了史上持續時間最長的經濟擴張週期。如今我們很有可能再次復刻這一局面。
-
----
-
-### 2026-06-25 00:41:20  #央行 #焦點 #國際
-
-美國財長貝森特表示，希望美聯儲能“保持開放心態”，待伊朗局勢推升能源價格的影響消退後，再重新審視通脹走勢。
-
----
-
-### 2026-06-25 00:40:36  #市場
-
-特斯拉股價延續跌勢，跌至當日低點，下跌0.9%。
-
----
-
-### 2026-06-25 00:38:17  #MKT News
-
-Iraq's prime minister says ties with the United States will shift from a military relationship to an economic partnership.
-
----
-
-### 2026-06-25 00:38:01  #MKT News #Commodities #Energy #Market Regions #Emerging Markets #WTI #Impact bearish #Brent
-
-Brazil's oil regulator ANP head said domestic fuel prices are gradually easing after a preliminary U.S.-Iran agreement.
-
----
-
-### 2026-06-25 00:37:57  #國際
-
-巴西石油監管機構國家石油、天然氣和生物燃料局（ANP）局長表示，在美國與伊朗達成初步協議後，巴西國內燃油價格正逐步下降。
-
----
-
-### 2026-06-25 00:37:53  #MKT News
-
-German Chancellor Merz urged a NATO "renewal" after the E5 leaders' meeting.
-
----
-
-### 2026-06-25 00:34:33  #Trading Economics #Economy #Russia #Industrial Production #Importance 1
-
-Russia Industrial Output Declines — Industrial production in Russia declined by 0.7% year-on-year in May 2026, reversing a 1.9% gain in the previous month. Output declines were recorded in mining, extending a decline to 2.7% from 0.4% in the previous month, followed by weakened activity in the provision of electricity, gas and steam, air conditioning (-2.2% vs 0.9%) and water supply, sanitation, waste collection and disposal, pollution control activities (-3.4% vs 0.9%). Manufacturing growth slowed sharply, increasing only 0.5% compared to 3.1%. On a seasonally adjusted monthly basis, industrial production declined 0.8% in May, following an increase of 0.3% in the prior period.
-
----
-
-### 2026-06-25 00:34:29  #其他
-
-德國總理默茨出席E5國家領導人會晤後，呼籲北約進行“革新重塑”。
-
----
-
-### 2026-06-25 00:34:20  #Trading Economics #Markets #United States #stocks #Importance 1
-
-Starbucks Stock Price Hits 4-week High — Starbucks shares increased to 103.70 USD, the highest since May 2026. Over the past 4 weeks, Starbucks gained 2.11%, and in the last 12 months, it increased 13.68%.
-
----
-
-### 2026-06-25 00:34:06  #MKT News #Market Themes #The Trump Trade #WTI #Impact bullish #Brent
-
-【Rubio: Iran must honor commitments or Trump will act】U.S. Secretary of State Rubio called Washington’s 60-day sanctions waiver for Iran a temporary measure and said the U.S. expects Tehran to honor commitments made under the agreement. He warned that if Iran does not comply, President Trump has multiple options, including — Rubio said he was not asserting Trump would necessarily use them — reimposing sanctions. Rubio noted the commitments were made clearly in Switzerland and said compliance would allow the U.S. to proceed, while non‑compliance would prompt presidential responses.
-
----
-
-### 2026-06-25 00:33:47  #國際
-
-美國駐義大利大使正進一步緩和兩國的緊張關係，他表示，儘管義大利總理梅洛尼與特朗普發生過公開爭執，但兩國關係“一切良好”。
-
----
-
-### 2026-06-25 00:31:19  #其他
-
-如果方案獲批，搭載（本田、日產、三菱）標準化電子控制單元的車輛最早可於2029年或2030年上市。
-
----
-
-### 2026-06-25 00:30:50  #國際
-
-市場資訊：以色列與黎巴嫩討論移交領土的試點方案。
-
----
-
-### 2026-06-25 00:30:31  #MKT News #Important #Commodities #Energy #WTI #Impact bullish #Brent
-
-Abu Dhabi National Oil Co (ADNOC) set July Murban crude official selling price (OSP) at $101.48 per barrel.
-
----
-
-### 2026-06-25 00:30:29  #公司
-
-阿聯酋阿布扎比國家石油公司（ADNOC）將7月穆爾班原油官方售價定在每桶101.48美元。
-
----
-
-### 2026-06-25 00:28:33  #其他
-
-本田、日產、三菱就下一代汽車電子控制單元標準化進入最終談判階段。
-
----
-
-### 2026-06-25 00:28:15  #MKT News #Market Regions #Japan & APAC
-
-Nikkei reports Honda, Nissan and Mitsubishi plan to standardize next-generation components to reduce costs.
-
----
-
-### 2026-06-25 00:27:42  #MKT News
-
-Iran Foreign Ministry spokesman BAGHAEI said ending US interference and occupation is the only way to secure genuine peace in West Asia.
-
----
-
-### 2026-06-25 00:27:24  #國際
-
-官方資料顯示，俄羅斯5月石油產品與焦炭產量同比下降13.5%。
-
----
-
-### 2026-06-25 00:26:11  #國際
-
-美國國務卿魯比奧：我沒有感受到（中東地區盟友）各方對我方安全保障存在任何疑慮，因為這些保障是實打實的。
-
----
-
-### 2026-06-25 00:24:26  #MKT News
-
-Colombia's president-elect said Colombia will restore and strengthen relations with Israel on an unprecedented scale.
-
----
-
-### 2026-06-25 00:23:36  #MKT News #Star Stocks #Alphabet #Market Themes #Magnificent 7 #GOOG.O
-
-Google (GOOG.O) introduced a "computer usage" feature in Gemini 3.5 Flash.
-
----
-
-### 2026-06-25 00:23:17  #公司
-
-谷歌：在Gemini 3.5 Flash模型中推出電腦使用功能。
-
----
-
-### 2026-06-25 00:22:28  #國際
-
-伊朗外交部發言人：沒人會被矇蔽。只要美國奉行軍國主義與干涉主義、其扶持的佔領代理人不受任何懲罰，持續在該地區挑起無休止戰爭、實施種族滅絕、恐怖暴力及各類暴行，這片地區就不可能迎來和平。
-
----
-
-### 2026-06-25 00:21:44  #國際
-
-【魯比奧：霍爾木茲海峽必須保持“開放、自由通航”】美國國務卿魯比奧表示，美國不會採取任何有損波斯灣盟友安全的行動，並堅稱霍爾木茲海峽必須保持“開放、自由通航”。魯比奧此番表態發表於其出訪科威特城期間，在當地會見了科威特王儲謝赫·薩巴赫·哈立德·阿勒哈馬德·薩巴赫。此前伊朗相關衝突結束、霍爾木茲海峽恢復通航，華盛頓正力求安撫地區盟友。美伊諒解備忘錄雖已恢復霍爾木茲海峽的商業航運，但海峽管控相關爭端仍存，其中包括伊朗主張擁有通行許可審批權及未來徵收通航費的相關許可權。
-
----
-
-### 2026-06-25 00:21:07  #MKT News
-
-Asked about U.S. intelligence assessments that Israel intends to undermine the existing memorandum of understanding, U.S. Secretary of State Rubio said: I don't know what intelligence you're referring to, nor do I know where those claims come from.
-
----
-
-### 2026-06-25 00:20:23  #MKT News
-
-【Rubio: US will not take actions that undermine Gulf allies' security】US Secretary of State Rubio said the Trump administration will remain fully aligned with Gulf partners as talks with Iran progress, will keep them informed and consult on any decisions from the negotiations, and will not take actions that undermine the security of long-standing allies during his regional visit.
-
----
-
-### 2026-06-25 00:20:07  #焦點 #國際
-
-記者：美國情報部門部分人員評估認為，以色列有意破壞當前這份諒解備忘錄。
-美國國務卿魯比奧：我不知道你說的是哪份情報，也不清楚你這些訊息從何而來。
-
----
-
-### 2026-06-25 00:20:06  #MKT News #Commodities #Energy #WTI #Impact bearish #Brent
-
-Iraq's prime minister said Iraq hopes OPEC will increase oil output in line with its production capacity and population size.
-
----
-
-### 2026-06-25 00:19:34  #其他
-
-伊拉克總理表示，伊拉克希望石油輸出國組織（歐佩克）按照本國的石油產能和人口規模上調伊拉克的石油產量配額。
-
----
-
-### 2026-06-25 00:19:24  #國際
-
-美國國務卿魯比奧：任何談判都是一個相互讓步、各有取捨的過程。本次措施僅為期60天，屬於臨時安排。因此我們要求伊朗履行其在瑞士作出的承諾。倘若對方未能兌現承諾，特朗普總統手中握有多種應對手段。
-
----
-
-### 2026-06-25 00:18:20  #國際
-
-俄羅斯5月份化肥產量同比下降3.7%。
-
----
-
-### 2026-06-25 00:17:49  #MKT News #WTI #Impact bearish
-
-【Rubio reiterates Iran cannot levy fees for transit through Strait of Hormuz】According to Al Jazeera, US Secretary of State Rubio said the world will oppose any mechanism to charge fees for passage through international waterways, reiterating that Iran cannot levy fees for transit through the Strait of Hormuz. "It's that simple. The president has said this will not happen," Rubio said, adding he believes Gulf states will support the position.
-
----
-
-### 2026-06-25 00:17:20  #其他
-
-法新社：本輪高溫熱浪來襲以來，法國已有超50個省份氣溫突破40攝氏度。
-
----
-
-### 2026-06-25 00:16:02  #國際
-
-美國：監測期結束，未發現漢坦病毒陽性病例。終止此次漢坦病毒暴露事件應急處置工作。
-
----
-
-### 2026-06-25 00:15:29  #MKT News #Commodities #Energy #WTI #Impact bullish #Brent
-
-Ukraine's national oil company says Russian strikes have severely damaged its gas production and storage facilities.
-
----
-
-### 2026-06-25 00:15:24  #MKT News #S&P500 #Impact bullish #DXY #Impact bearish #WTI
-
-ZELENSKIY said relay stations used to coordinate strikes launched from Belarusian territory against Ukraine have ceased operating.
-
----
-
-### 2026-06-25 00:15:22  #公司 #國際
-
-烏克蘭石油天然氣公司表示，俄羅斯的襲擊對其天然氣生產和儲存設施造成了嚴重破壞。
-
----
-
-### 2026-06-25 00:15:01  #MKT News #Important
-
-Rubio said the US technical team will return to talks with Iran on the 30th of this month.
-
----
-
-### 2026-06-25 00:14:50  #焦點 #國際
-
-俄羅斯聯邦統計局表示，今年1-5月俄羅斯天然氣產量同比增長5.2%。
-
----
-
-### 2026-06-25 00:14:14  #Trading Economics #Markets #Italy #Stock Market #Importance 0
-
-FTSE MIB Edges Lower — The FTSE MIB declined 0.8% to close at 51,639 on Wednesday, with sentiment weighed down by a combination of defensive sector weakness and ongoing tech pressure. Defense contractor Leonardo extended losses to 5% after reports that Germany is considering cancelling plans for its largest post–World War II warship in favor of purchasing eight smaller frigates from TKMS. Avio followed losing 4.2%. Semiconductor company STMicroelectronics edged lower by 0.5% while Prysmian declined 1.1%, as investors stayed cautious ahead of Micron earnings results for further conclusions on the sector. Contributing to the market decline, Unipol led losses in the banking sector with a 2.6% drop, followed by Banco BPM (-2.1%), UniCredit(-1.4%) and BPER Banca (-1.4%). Elsewhere, Ferrari recorded strong gains of 1.9%. Energy stocks were mixed, with Italgas down 1.2% and Enel 0.3%, and Snam up 1.6%.
-
----
-
-### 2026-06-25 00:13:46  #國際
-
-美國國務卿魯比奧：相關技術性磋商目前僅在工作人員層級開展。
-
----
-
-### 2026-06-25 00:13:35  #MKT News #WTI #Impact bearish #Brent
-
-U.S. Secretary of State Rubio said technical teams are finalizing details of an agreement with Iran.
-
----
-
-### 2026-06-25 00:13:17  #MKT News
-
-U.S. Secretary of State Rubio said the United States will help the Lebanese government achieve full control of its territory.
-
----
-
-### 2026-06-25 00:12:54  #MKT News #WTI #Impact bearish #Brent #S&P500 #Impact bullish
-
-US Secretary of State Rubio said when the US says it will open the Strait of Hormuz it means unobstructed free passage; the strait is an international waterway.
-
----
-
-### 2026-06-25 00:12:43  #國際
-
-美國國務卿魯比奧：伊朗問題技術小組將於本月晚些時候重啟運作。
-
----
-
-### 2026-06-25 00:12:33  #MKT News
-
-Rubio says the technical working group on Iran will return later this month.
-
----
-
-### 2026-06-25 00:12:25  #國際
-
-美國國務卿魯比奧開啟為期三天的中東地區訪問。
-
----
-
-### 2026-06-25 00:12:17  #Trading Economics #Markets #Italy #Stock Market #Importance 1
-
-The FTSE MIB Index Closes 0.74% Lower — The FTSE MIB Index fell 385 points or 0.74 percent on Wednesday to close at 51639 points. Leading the losses are Leonardo SpA (-5.05%), Avio (-3.69%) and Eni (-3.28%). Top gainers were Diasorin (3.13%), Ferrari NV (2.06%) and Telecom Italia (1.62%).
-
----
-
-### 2026-06-25 00:11:52  #MKT News
-
-U.S. Secretary of State Rubio said he hopes negotiations between Lebanon and Israel succeed.
-
----
-
-### 2026-06-25 00:11:45  #MKT News #XAUUSD #Impact bullish #Brent #DXY
-
-US Secretary of State Rubio said Israel is in Lebanon because Hezbollah is launching attacks against Israel from there.
-
----
-
-### 2026-06-25 00:11:17  #Trading Economics #Markets #Germany #Stock Market #Importance 1
-
-The DAX Index Closes 0.62% Lower — The DAX Index dropped 153 points or 0.62 percent on Wednesday to close at 24740 points. Losses were led by Rheinmetall (-19.06%), Deutsche Bank (-2.58%) and RWE (-2.50%). Offsetting the fall, top gainers were MTU Aero Engines AG (6.36%), Qiagen NV (4.60%) and Beiersdorf (3.79%).
-
----
-
-### 2026-06-25 00:11:13  #MKT News #Star Stocks #Tesla #Market Themes #Magnificent 7 #TSLA.O #Impact bearish
-
-U.S. National Transportation Safety Board opens safety investigation into Tesla (TSLA.O) Model 3 crash on June 19.
-
----
-
-### 2026-06-25 00:10:36  #國際
-
-澤連斯基：俄羅斯部署在白俄羅斯境內的無人機訊號發射中繼站現已全部失效。
-
----
-
-### 2026-06-25 00:10:22  #焦點 #國際
-
-美國國務卿魯比奧：霍爾木茲海峽不會收取通行費。
-
----
-
-### 2026-06-25 00:10:17  #Trading Economics #Markets #France #Stock Market #Importance 1
-
-The CAC 40 Index Closes 0.54% Higher — The CAC 40 Index went up by 45 points or 0.54 percent on Wednesday to close at 8385 points. The rise was led by Saint-Gobain (3.31%), L'Oréal (3.05%) and Danone (2.84%). On the downside, the weakerst performers were TP (-4.85%), ArcelorMittal (-2.90%) and TotalEnergies SE (-1.96%).
-
----
-
-### 2026-06-25 00:09:53  #MKT News
-
-U.S. Secretary of State Rubio said talks between Lebanon and Israel will continue today and tomorrow.
-
----
-
-### 2026-06-25 00:09:21  #MKT News
-
-Al Jazeera reported Kuwait's Emir held discussions with U.S. Secretary of State Rubio on regional developments.
 
 ---
