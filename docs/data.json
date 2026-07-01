@@ -1,7 +1,62 @@
 {
-  "updated": "2026-07-01 12:14:27",
-  "count": 13928,
+  "updated": "2026-07-01 12:18:31",
+  "count": 13929,
   "items": [
+    {
+      "id": "mkt:019f1be4-a5bc-7aab-8c4b-06dc0b983a27",
+      "time": "2026-07-01 12:16:37",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "China EV Leaders",
+        "NIO.O",
+        "Impact bullish"
+      ],
+      "text": "NIO delivered 40,597 vehicles in June 2026, up 62.9% YoY."
+    },
+    {
+      "id": "4964191",
+      "time": "2026-07-01 12:16:25",
+      "tags": [
+        "公司"
+      ],
+      "text": "蔚來汽車：2026年6月，蔚來公司交付新車40,597臺，創今年以來新高，同比增長62.9%。其中，蔚來品牌交付新車21,908臺，同比增長50.1%；樂道品牌交付新車11,743臺，同比增長83.5%；firefly螢火蟲品牌交付新車6,946臺，同比增長76.7%。 2026年上半年，蔚來公司共交付新車191,123臺，創歷史新高，同比增長67.4%，三品牌上半年交付量均創歷史新高。"
+    },
+    {
+      "id": "mkt:019f1be4-6064-7aab-8c4a-fc1deedbc819",
+      "time": "2026-07-01 12:16:19",
+      "tags": [
+        "MKT News",
+        "Important",
+        "XPEV.O"
+      ],
+      "text": "XPeng reported June deliveries of 40,126 vehicles and second-quarter deliveries of 103,295 vehicles."
+    },
+    {
+      "id": "4964190",
+      "time": "2026-07-01 12:15:40",
+      "tags": [
+        "其他"
+      ],
+      "text": "小鵬汽車：2026年6月交付40,126輛汽車，2026年第二季度累計交付103,295輛汽車。"
+    },
+    {
+      "id": "4964189",
+      "time": "2026-07-01 12:15:26",
+      "tags": [
+        "其他"
+      ],
+      "text": "蔚來汽車：2026年6月交付40,597輛汽車，同比增長62.9%。"
+    },
+    {
+      "id": "4964188",
+      "time": "2026-07-01 12:13:51",
+      "tags": [
+        "國際"
+      ],
+      "text": "官員稱，俄羅斯襲擊烏克蘭第聶伯羅彼得羅夫斯克地區，造成1人死亡、3人受傷。"
+    },
     {
       "id": "te:economy:563243",
       "time": "2026-07-01 12:13:43",
@@ -128021,50 +128076,6 @@
         "公司"
       ],
       "text": "據英國金融時報報道，英國電信的養老基金在泰晤士水務公司上損失了3億英鎊。"
-    },
-    {
-      "id": "4951724",
-      "time": "2026-06-24 12:18:12",
-      "tags": [
-        "公司"
-      ],
-      "text": "【阿里雲：QoderWork推出“峰谷Token”，錯峰使用Qwen3.7低至2折】阿里雲公告，剛剛，QoderWork推出“峰谷Token”，其在每晚22:00到次日08:00執行可自動享受優惠，其中Qwen3.7-Max模型低至2折。夜間折扣覆蓋QoderWork、QoderDesktop、CLI等產品。使用者可在白天設好定時任務，或者睡前提交長程任務指令，由Agent在夜間自主執行完整流程，早上起來驗收即可，積分消耗僅為白天的20%-40%。"
-    },
-    {
-      "id": "mkt:019ef7d9-8cd2-7dd8-b0eb-64634f7561d0",
-      "time": "2026-06-24 12:18:10",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bearish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "【Qatar says US-Iran hotline vital to reopening Strait of Hormuz】Qatari PM Sheikh Mohammed said a US-Iran hotline set up during talks in Switzerland is essential to prevent “spoilers” from blocking a reopening of the Strait of Hormuz by countering misinformation and coordinating communications during sea-mine clearance. He warned actors have been sending spoofed shipping messages threatening vessels with claims such as being from the Islamic Revolutionary Guard Corps, and said the hotline will let ships verify threats with Iranian authorities to transit safely. Qatar has begun preparing tankers and expects to restore normal LNG production within weeks after the parties signed a memorandum of understanding last week."
-    },
-    {
-      "id": "4951723",
-      "time": "2026-06-24 12:17:43",
-      "tags": [
-        "公司"
-      ],
-      "text": "【輝瑞製藥無錫公司變更負責人】天眼查App顯示，近日，輝瑞製藥（無錫）有限公司發生工商變更，Jean-Christophe，Michel Pointeau 卸任法定代表人、執行董事、經理，由蔡芳接任法定代表人、經理，並擔任董事。該公司成立於1995年9月，註冊資本3600萬美元，經營範圍包括生產凍乾粉針劑、小容量注射劑、藥品生產等，由輝瑞投資有限公司全資持股。"
-    },
-    {
-      "id": "4951722",
-      "time": "2026-06-24 12:15:08",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：汽油價格“最好趕緊下降”。"
-    },
-    {
-      "id": "4951721",
-      "time": "2026-06-24 12:14:50",
-      "tags": [
-        "其他"
-      ],
-      "text": "【受降雨影響 全國6條河流發生超警洪水】從水利部瞭解到，受降雨影響，昨天到今天，廣西西江干流平南江段及支流白沙江、柳江上游都柳江，貴州北盤江支流打邦河，湖南沅水支流渠水，江西長江中游支流烏石港等6條河流發生超警洪水，最大超警幅度0.49米，目前除白沙江外均已退至警戒以下。"
     }
   ]
 }
