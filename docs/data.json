@@ -1,7 +1,191 @@
 {
-  "updated": "2026-07-01 15:30:29",
-  "count": 13818,
+  "updated": "2026-07-01 15:35:11",
+  "count": 13812,
   "items": [
+    {
+      "id": "4964466",
+      "time": "2026-07-01 15:34:24",
+      "tags": [
+        "公司"
+      ],
+      "text": "【拼多多出資5億在雄安成立新公司】天眼查App顯示，拼多多雄安關聯公司拼多多資訊科技服務（雄安）有限公司成立於今年5月，法定代表人為楊清勇，註冊資本5億人民幣，經營範圍包括資訊科技諮詢服務、資料處理服務、基於雲平臺的業務外包服務等。股東資訊顯示，該公司由拼多多關聯公司上海尋夢資訊科技有限公司全資持股。"
+    },
+    {
+      "id": "4964465",
+      "time": "2026-07-01 15:34:19",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【津藥藥業：二丙酸倍他米松原料藥取得FDA DMF First Adequate Letter】津藥藥業公告稱，近日收到美國食品藥品監督管理局（FDA）簽發的DMF First Adequate Letter。二丙酸倍他米松是糖皮質激素類藥物倍他米松的前藥，公司於2020年12月提交該原料藥申請，截至目前累計研發投入約330萬元。此次透過技術審評，將對公司拓展美國市場、提升業績帶來積極影響。不過，FDA仍可能要求補充資料、進行現場檢查，且下游客戶拓展也存在不及預期風險。"
+    },
+    {
+      "id": "4964464",
+      "time": "2026-07-01 15:34:00",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【油價幾無變動，市場關注美伊談判及霍爾木茲海峽航運恢復】在市場關注美國與伊朗之間的和平談判以及透過霍爾木茲海峽的航運恢復之際，早盤油價幾無變動。布倫特原油上漲0.2%，至每桶73.10美元；西得州中質油期貨上漲0.1%，至每桶69.58美元，此前該期貨在週二創下自2020年初以來的最大季度跌幅。據報道，美國總統特朗普曾權衡是否恢復與伊朗的全面戰爭，但決定目前堅持外交談判。他還告訴助手，如果與德黑蘭的談判超過8月18日的最後期限，他也覺得沒問題。三菱日聯(MUFG)的分析師表示：“達成持久的美伊協議的前景不斷改善，繼續緩解了對供應的擔憂。“不過，“在包括伊朗核計劃和霍爾木茲海峽未來管轄權在內的關鍵問題上仍存在不確定性，這可能會使持續停火期間的談判複雜化。”"
+    },
+    {
+      "id": "te:economy:563324",
+      "time": "2026-07-01 15:33:30",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Hungary",
+        "Manufacturing PMI",
+        "Importance 1"
+      ],
+      "text": "Hungary Factory Activity at 6-Month High — The HALPIN Manufacturing PMI rose to 51.5 in June 2026 from 50.2 in the previous month, marking its highest level since December 2025, though it remained below its long-term monthly average of 52.6. The reading also exceeded the average June level of 50.0 recorded over the past three years, signaling a faster expansion in manufacturing activity compared with the previous month. Growth was driven by stronger new orders and higher production volumes, both of which remained in expansion territory. On the other hand, the purchase price index eased but continued to indicate a marked increase in input costs. The employment index stayed in contraction, while both export and import indicators pointed to continued expansion."
+    },
+    {
+      "id": "4964463",
+      "time": "2026-07-01 15:33:22",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：TikTok計劃裁減都柏林約300名員工。"
+    },
+    {
+      "id": "4964462",
+      "time": "2026-07-01 15:32:59",
+      "tags": [
+        "其他"
+      ],
+      "text": "【中基協“摸底”頭部量化私募 涉及同質化交易等內容】近日記者採訪獲悉，6月中基協組織部分頭部量化私募召開座談會，就量化管理人的基本情況與經營現狀、主要策略特徵與迭代方向、合規展業情況、行業風險情況等方面內容進行交流。量化私募相關人士透露，此次座談會不僅涉及頭部量化私募當前規模及近一年變化，投研、交易人員規模與配置等基本情況，還關注了多項今年以來量化私募的最新變化。比如，各家量化私募主推策略容量上限判斷、應對因子同質化的差異化措施等。在風險層面，座談會還涉及了DMA或收益互換等槓桿工具使用情況及槓桿倍數、極端行情下各傢俬募的風控機制以及同質化交易引發的流動性風險等內容。（上證報）"
+    },
+    {
+      "id": "4964461",
+      "time": "2026-07-01 15:32:25",
+      "tags": [
+        "國際"
+      ],
+      "text": "【烏克蘭真理報：烏軍前總司令扎盧日內告知澤連斯基 他將參選總統】《烏克蘭真理報》援引未具名知情人士的話報道，前武裝部隊總司令、現任烏克蘭駐英國大使瓦列裡·扎盧日內已直接向總統澤連斯基確認，他打算參加總統選舉。  在英國首相斯塔默辭職前，扎盧日內被召回基輔；澤連斯基提到了選舉問題，警告稱一場競爭激烈的選舉可能會導致內部分裂；同時提出了包括外交和政府職位在內的其他職業發展路徑。"
+    },
+    {
+      "id": "te:markets:563322",
+      "time": "2026-07-01 15:32:06",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United Kingdom",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The FTSE 100 Index Opens 0.08% Lower — The FTSE 100 Index is falling 8 points. Losses were driven by Associated British Foods (-2.44%), JD Sports Fashion (-2.24%) and Compass (-2.23%). Biggest rises came from Babcock International (2.02%), J Sainsbury (1.36%) and Melrose (1.03%)."
+    },
+    {
+      "id": "mkt:019f1c97-913c-7aab-8c4e-d3e108140e5b",
+      "time": "2026-07-01 15:32:02",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals"
+      ],
+      "text": "Shanghai Gold Exchange gold T+D closed down 0.38% at 867.5 yuan/gram on July 1; silver T+D closed down 0.17% at 14,000.0 yuan/kg."
+    },
+    {
+      "id": "4964460",
+      "time": "2026-07-01 15:31:56",
+      "tags": [
+        "公司"
+      ],
+      "text": "【華天科技：公司有儲存晶片封測業務，但不涉及基板業務】華天科技(002185)7月1日在互動平臺回覆稱，公司有儲存晶片封測業務，但不涉及基板業務。"
+    },
+    {
+      "id": "4964459",
+      "time": "2026-07-01 15:31:53",
+      "tags": [
+        "公司"
+      ],
+      "text": "【廣發證券：市場低估聯發科與谷歌合作潛力 博通與高通)訂單或受影響】谷歌新一代AI晶片TPUv9(代號“Triggerfish”)的供應鏈格局正在經歷一場深刻變革。據廣發證券最新報告，谷歌已選擇聯發科而非博通或高通來構建其第九代張量處理器(TPU)，這標誌著谷歌定製晶片戰略的一次重大轉向。此前，博通在6月初的財報會議上已首度證實，谷歌正尋求引入其他晶片供應商，意味著博通將失去谷歌TPU相關設計訂單的獨家供應地位。"
+    },
+    {
+      "id": "mkt:019f1c97-6a95-7aab-8c4e-ce6c55d30f1b",
+      "time": "2026-07-01 15:31:52",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "1211.HK",
+        "Impact bullish"
+      ],
+      "text": "BYD's special adviser for the European market said the company is seeking brownfield investment opportunities in Europe, with Spain identified as a potential location."
+    },
+    {
+      "id": "4964458",
+      "time": "2026-07-01 15:31:36",
+      "tags": [
+        "其他"
+      ],
+      "text": "【三項光伏領域強制性國標明年1月1日起實施 全鏈條能效標準系統性升級】近日，光伏行業迎來三項重磅強制性國家標準的最新進展。《矽多晶和鍺單位產品能源消耗限額》《晶體矽光伏元件和逆變器能效限定值及能效等級》《矽單晶單位產品能源消耗限額》三項標準於2026年6月27日釋出，將於2027年1月1日實施。三項標準均由國家標準委（469）歸口，全國能源基礎與管理標準化技術委員會（TC20）執行。"
+    },
+    {
+      "id": "4964457",
+      "time": "2026-07-01 15:31:16",
+      "tags": [
+        "其他"
+      ],
+      "text": "【永輝超市釋出調改第二階段成績單 有單店13天累計銷售額超1700萬元】7月1日，永輝超市釋出調改第二階段成績單。自6月18日開業至6月30日，廣西柳州城中萬達店13天累計銷售額超1700萬元，累計客流超20萬人次。其中，6月18日至6月28日連續11天單日銷售破百萬元。"
+    },
+    {
+      "id": "te:markets:563321",
+      "time": "2026-07-01 15:31:06",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Germany",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The DAX Index Opens 0.03% Higher — The DAX Index is gaining 6 points or 0.03 percent on Wednesday. Leading the gains are Rheinmetall (2.71%), Symrise (1.84%) and Airbus (1.64%). Top losers are Commerzbank (-1.32%), Siemens (-1.30%) and Adidas (-1.14%)."
+    },
+    {
+      "id": "4964456",
+      "time": "2026-07-01 15:31:03",
+      "tags": [
+        "其他"
+      ],
+      "text": "【臺軍承認使用大陸品牌輪胎 島內網友嘲諷】據臺灣中天新聞網報道，6月29日，“臉書”粉絲專頁“政知局”發文稱，民進黨“非紅供應鏈”再破功，臺當局“陸軍後勤指揮部”被發現採購大陸輪胎。 帖文附上一張臺軍“輕型戰術輪車”的圖片，可清楚看到車尾的備胎上印有一家總部位於青島的專業輪胎廠商“賽輪”（SAILUN）的英文字樣。 臺“陸軍司令部”6月30日證實，網傳圖中臺軍車輛使用的確實是大陸品牌輪胎，系在2020年採購。 有島內網友表示，“（民進黨）抗中是口號，親中是生活”“‘青鳥’（綠營支持者）真的很傻眼，想護航民進黨的作為又說不出口”。（環球網）"
+    },
+    {
+      "id": "4964455",
+      "time": "2026-07-01 15:30:23",
+      "tags": [
+        "國際"
+      ],
+      "text": "比亞迪歐洲市場特別顧問：我們正在尋找棕地，西班牙是潛在目的地。"
+    },
+    {
+      "id": "4964454",
+      "time": "2026-07-01 15:30:12",
+      "tags": [
+        "資料"
+      ],
+      "text": "瑞士6月製造業PMI 54.3，預期 56.5，前值 57.3。瑞士6月服務業PMI 59.8，前值 56。"
+    },
+    {
+      "id": "mkt:019f1c95-d964-7aab-8c4e-c7a6cdb36a89",
+      "time": "2026-07-01 15:30:10",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Switzerland SVM Purchasing Managers' Index (PMI) June 54.3; expected 56.5; prior 57.3."
+    },
+    {
+      "id": "te:markets:563319",
+      "time": "2026-07-01 15:30:06",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "France",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The CAC 40 Index Opens 0.44% Lower — The CAC 40 Index is losing 37 points. Losses were led by Publicis (-4.74%), Schneider Electric (-2.54%) and Societe Generale (-1.58%). Offsetting the fall, top gainers were Renault (2.47%), Air Liquide (2.02%) and Airbus (1.61%)."
+    },
     {
       "id": "mkt:019f1c95-b1f2-7aab-8c4e-bb8e7a6d89e7",
       "time": "2026-07-01 15:30:00",
@@ -11,6 +195,14 @@
         "Important"
       ],
       "text": "Switzerland | SVME Purchasing Managers' Index (Jun) | actual 54.3 | consensus 56.5 | previous 57.3"
+    },
+    {
+      "id": "4964453",
+      "time": "2026-07-01 15:29:55",
+      "tags": [
+        "公司"
+      ],
+      "text": "【弘景光電：一體化非球面透鏡已實現量產】弘景光電(301479)7月1日在互動平臺回覆稱，公司一體化非球面透鏡已實現量產，目前相關業務按計劃有序開展中。"
     },
     {
       "id": "te:economy:563318",
@@ -126887,245 +127079,6 @@
         "Macro & Rates"
       ],
       "text": "Riksbank Deputy Governor said the risk of inflation being too high has increased, regardless of whether a near-term lasting peace agreement is reached."
-    },
-    {
-      "id": "4952070",
-      "time": "2026-06-24 15:35:08",
-      "tags": [
-        "市場"
-      ],
-      "text": "【單籤最高盈利27.2萬元！N臻寶成年內第二隻首日“十倍股”】今日，半導體裝置零部件股臻寶科技正式登陸科創板，首日漲幅高達1212.84%，成為年內第二隻首日“十倍股”，漲幅僅次於長進光子（1510.52%）。按單籤500股計算，打新投資者單籤盈利約27.02萬元，在年內新股首日盈利榜上位列第三，僅次於長進光子與聯訊儀器（兩股首日盈利均超30萬元）。若以盤中1222%的最大漲幅測算，單籤最大浮盈可達27.22萬元，這一資料在A股史上“最賺錢新股”排行榜中位列第六位。受首日大漲提振，臻寶科技今日收盤價達到585元，超越新易盛、長飛光纖、茂萊光學等一眾人氣標的，躍居A股股價排行榜第20名。"
-    },
-    {
-      "id": "4952069",
-      "time": "2026-06-24 15:35:03",
-      "tags": [
-        "公司"
-      ],
-      "text": "【建元信託：控股股東4.18%股份解除凍結 剩餘被凍結股份歸零】建元信託公告稱，公司控股股東上海砥安持有公司49.52億股，佔總股本50.30%。其持有的4.11億股股份於2026年6月23日全部解除凍結，佔其持股總數的8.31%，佔公司總股本的4.18%。本次解除凍結後，上海砥安所持公司股份不存在被凍結情形。"
-    },
-    {
-      "id": "4952068",
-      "time": "2026-06-24 15:35:00",
-      "tags": [
-        "公司"
-      ],
-      "text": "【中力股份：全資子公司獲不動產權證書 4.78億專案有進展】中力股份公告稱，2025年7月公司同意全資子公司江蘇中力投資4.78億元建設數智物流裝置專案。近日，江蘇中力取得靖江市自然資源和規劃局頒發的兩個不動產權證書，宗地面積分別為43747平方米、37185平方米，使用期限至2076年6月14日。該土地使用權獲取有助於專案推進，但專案建設還需取得相關審批，存在不確定性。"
-    },
-    {
-      "id": "4952067",
-      "time": "2026-06-24 15:34:48",
-      "tags": [
-        "公司"
-      ],
-      "text": "瑞銀集團執行長埃爾莫蒂：對數字形式債券發行進展未如預期加快感到意外。"
-    },
-    {
-      "id": "4952066",
-      "time": "2026-06-24 15:34:35",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "【外交部介紹王毅出席金磚安代會情況：金磚國家加強安全事務對話合作正當其時】6月24日，外交部發言人郭嘉昆主持例行記者會。有記者提問，日前，中共中央政治局委員、中央外辦主任王毅出席了在印度舉行的第十六次金磚國家安全事務高階代表會議。發言人能否介紹更多情況？郭嘉昆表示，6月22日至23日，王毅主任出席在印度新德里舉行的第十六次金磚國家安全事務高階代表會議，並同莫迪總理進行友好交流，同多國代表團團長舉行雙邊會見。此次會議是在美以伊戰事由衝突轉向對話的背景下舉行。王毅主任表示，這場百餘天的衝突嚴重衝擊地區和國際局勢，給各方帶來四點深刻啟示，包括維護國際規則的重要性，尊重國家主權的重要性，樹立新安全觀的重要性，把握新戰爭形態的重要性。面對傳統與非傳統安全威脅相互交織，“金磚國家”加強安全事務對話合作正當其時。王毅主任指出，“金磚國家”合作已經走過20個春秋，日益成為護和平、促發展、守正義的中堅力量。當前國際格局發生複雜深刻變化，“金磚國家”要以“金磚擔當”捍衛國際秩序、以“金磚共識”破解安全困局、以“金磚行動”應對全球性挑戰、以“金磚智慧”完善新興領域治理。王毅主任表示，此次會議形成的重要共識是支援維護多邊主義，發出的共同聲音是金磚和全球南方堅持獨立自主，加強團結互助，確定的明確方向是進一步用好金磚安代會這一機制，就重大國際和地區熱點問題保持溝通協調，不斷豐富“大金磚”合作內涵。2027年中國將接任金磚輪值主席國，中方期待同金磚夥伴一道，積極踐行習近平主席提出的構建人類命運共同體理念和四大全球倡議，以發展促繁榮，以安全保穩定，以文明增互信，以治理求公正，共同開闢和平與繁榮的未來。"
-    },
-    {
-      "id": "4952065",
-      "time": "2026-06-24 15:34:23",
-      "tags": [
-        "公司"
-      ],
-      "text": "【哈藥股份：控股股東質押2.56億股股份 累計質押比例達66.47%】哈藥股份公告稱，公司控股股東哈藥集團將其所持2.56億股公司股份辦理質押登記，佔其所持股份的21.82%，佔公司總股本的10.16%。截至本次質押完成後，哈藥集團累計質押股份7.80億股，佔其所持公司股份總數的66.47%，佔公司總股本的30.96%。本次質押所融資金用於自身生產經營，哈藥集團資信、財務狀況良好，不存在未來半年及一年內到期的質押股份，質押風險可控，對公司生產經營等無影響。"
-    },
-    {
-      "id": "te:markets:561418",
-      "time": "2026-06-24 15:34:22",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Euro Area",
-        "Stock Market",
-        "Importance 2"
-      ],
-      "text": "European Stocks Cautious on Wednesday — European stocks traded cautiously on Wednesday, with both the STOXX 50 and STOXX 600 fluctuating around the flatline, following the previous session's tech-driven losses. Traders await any developments in US-Iran negotiations, while awaiting Micron's quarterly earnings later in the day for fresh insight into the outlook for the semiconductor sector. The aerospace and defense sector led declines across the region. Rheinmetall plunged more than 13% following reports that Germany plans to abandon proposals to build its largest warship since World War II and instead purchase eight smaller frigates from TKMS. In contrast, shares of TKMS surged nearly 10%."
-    },
-    {
-      "id": "mkt:019ef88d-0fc9-7dd8-b0f0-e6720d1309c8",
-      "time": "2026-06-24 15:34:14",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Riksbank Deputy Governor Bunge said the bank's rate path implies a possible rate hike this autumn, but it will reassess the matter after the end of summer."
-    },
-    {
-      "id": "4952064",
-      "time": "2026-06-24 15:34:04",
-      "tags": [
-        "市場"
-      ],
-      "text": "【6月24日滬深兩市漲停分析】創業板指縮量漲超1%、科創50大漲近4%，半導體、PCB產業鏈全線爆發，全市下跌個股超4000只。興業科技、東方鋯業等4連板，一圖看懂>>"
-    },
-    {
-      "id": "mkt:019ef88c-c8a7-7dd8-b0f0-dc072ddcece9",
-      "time": "2026-06-24 15:33:56",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Riksbank Governor Thedéen said the central bank is adjusting its near-term policy path slightly toward tightening, but the shift remains modest."
-    },
-    {
-      "id": "4952063",
-      "time": "2026-06-24 15:33:47",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "瑞典央行行長特登：中東戰爭對經濟的影響目前已在多項價格壓力指標中清晰顯現，無論在瑞典本土還是我們最重要的貿易伙伴當中都是如此。"
-    },
-    {
-      "id": "mkt:019ef88c-76be-7dd8-b0f0-d2142f9b7d35",
-      "time": "2026-06-24 15:33:35",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Riksbank Governor Thedéen said the central bank will continue to closely monitor and assess the intensity of the inflation shock currently spreading through the business sector."
-    },
-    {
-      "id": "mkt:019ef88c-4548-7dd8-b0f0-cc4d79f0ae55",
-      "time": "2026-06-24 15:33:22",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Riksbank Governor Thedéen said the SEK exchange rate will be an important factor going forward."
-    },
-    {
-      "id": "mkt:019ef88c-2308-7dd8-b0f0-c7873ed6e062",
-      "time": "2026-06-24 15:33:13",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Riksbank Governor Thedéen said keeping the policy rate unchanged is balanced for now, but the likelihood of future rate hikes has increased and that is reasonable."
-    },
-    {
-      "id": "4952062",
-      "time": "2026-06-24 15:32:47",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "瑞典央行耶爾姆：若通脹如當前情景般明顯由供給側驅動，貨幣政策應在條件允許的情況下，穿透暫時高通脹的表象制定政策。"
-    },
-    {
-      "id": "4952061",
-      "time": "2026-06-24 15:32:41",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "瑞典央行特登表示：我們將繼續密切追蹤並評估當前正蔓延至整個企業界的通脹脈衝強度。"
-    },
-    {
-      "id": "4952060",
-      "time": "2026-06-24 15:32:19",
-      "tags": [
-        "公司"
-      ],
-      "text": "瑞銀執行長埃爾莫蒂：我們目前投入執行的人工智慧智慧體和應用程式共有500個。"
-    },
-    {
-      "id": "4952059",
-      "time": "2026-06-24 15:32:13",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "瑞典央行瑟丁：維持當前利率不變是一項平衡的政策，同時表明未來我們上調政策利率的可能性有所上升也是合理的。"
-    },
-    {
-      "id": "te:markets:561417",
-      "time": "2026-06-24 15:32:11",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United Kingdom",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The FTSE 100 Index Opens Unchanged — The FTSE 100 Index is up by 0.2 points or 0.00 percent on Wednesday. Top gainers are Segro (15.85%), Berkeley (5.40%) and Land Securities (3.84%). Biggest losses came from WPP (-6.35%), Airtel Africa (-3.16%) and London Stock Exchange (-2.53%)."
-    },
-    {
-      "id": "4952058",
-      "time": "2026-06-24 15:32:10",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "瑞典央行布熱：我們的利率路徑顯示，今年秋季存在一定加息可能性，但我們會在夏季過後重新審議這一問題。"
-    },
-    {
-      "id": "4952057",
-      "time": "2026-06-24 15:31:28",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "美國柴油價格自3月以來首次跌破每加侖5美元。"
-    },
-    {
-      "id": "4952056",
-      "time": "2026-06-24 15:31:24",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "南向資金淨買入額達130億港元。"
-    },
-    {
-      "id": "te:markets:561416",
-      "time": "2026-06-24 15:31:11",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Germany",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The DAX Index Opens 0.48% Lower — The DAX Index is dropping 119 points. Leading the losses are Rheinmetall (-12.84%), RWE (-2.25%) and HeidelbergCement (-1.58%). Top gainers were MTU Aero Engines AG (2.62%), Brenntag (2.43%) and Zalando (1.14%)."
-    },
-    {
-      "id": "4952055",
-      "time": "2026-06-24 15:31:05",
-      "tags": [
-        "國際"
-      ],
-      "text": "日本專家小組敦促將食品銷售稅降至1%，為期兩年。"
-    },
-    {
-      "id": "4952054",
-      "time": "2026-06-24 15:30:55",
-      "tags": [
-        "公司",
-        "央行",
-        "國際"
-      ],
-      "text": "【近期科技股遭拋售之際，比特幣僅略有回升】在近期全球科技股遭遇拋售之際，比特幣在週二觸及12天低點後僅略有回升。IG分析師在一份報告中表示，隨著市場預計美聯儲將在未來幾個月加息，金融狀況收緊，加上對人工智慧(AI)領域債務融資支出的擔憂，令科技股承壓。倫敦證券交易所集團(LSEG)的資料顯示，受上週美聯儲會議和近期強勁資料的推動，市場目前反映出9月份加息機率達90%的預期。倫敦證券交易所集團(LSEG)的資料顯示，比特幣在週二跌至61,921美元的低點後，微升0.5%，至62,686美元。自6月5日觸及59,125美元的20個月低點以來，比特幣一直難以實現有意義的回升，在窄幅區間內交易。"
-    },
-    {
-      "id": "4952053",
-      "time": "2026-06-24 15:30:46",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【油價下跌，受霍爾木茲海峽活動樂觀情緒影響】油價下跌，因有跡象表明透過霍爾木茲海峽的航運活動正在逐步恢復，國際機構報告安全狀況有所改善。三菱日聯(MUFG)的分析師表示：“儘管談判仍然複雜，對霍爾木茲海峽未來治理的疑問依然存在，但市場正日益預期中東能源供應將逐步恢復正常。“美國對伊朗石油銷售的制裁豁免也提振了市場情緒，這增強了對該地區原油供應將大幅增加的預期。在歐洲早盤交易中，布倫特原油下跌1.1%，至每桶75.93美元；西得州中質油期貨下跌1.3%，至每桶72.31美元。"
-    },
-    {
-      "id": "4952052",
-      "time": "2026-06-24 15:30:35",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗議會議長卡利巴夫：我們不能忽視巴勒斯坦問題。"
     }
   ]
 }
