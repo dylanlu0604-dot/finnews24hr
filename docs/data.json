@@ -1,7 +1,219 @@
 {
-  "updated": "2026-07-01 22:02:03",
-  "count": 14211,
+  "updated": "2026-07-01 22:06:16",
+  "count": 14227,
   "items": [
+    {
+      "id": "4965598",
+      "time": "2026-07-01 22:05:21",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國晶片股早盤下跌。英偉達股價下跌2.3%，美滿電子科技下跌2.7%，博通下跌1.4%。美光科技下跌6.7%，英特爾下跌4%，超威半導體下跌3.5%。"
+    },
+    {
+      "id": "4965596",
+      "time": "2026-07-01 22:04:53",
+      "tags": [
+        "其他"
+      ],
+      "text": "斯泰蘭蒂斯NV：截至6月末，全球累計交付量已突破150萬輛。"
+    },
+    {
+      "id": "4965595",
+      "time": "2026-07-01 22:04:44",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國 2 年期國債收益率在美國供應管理協會資料、沃什講話出爐後跌至日內低點。"
+    },
+    {
+      "id": "4965594",
+      "time": "2026-07-01 22:04:23",
+      "tags": [
+        "國際"
+      ],
+      "text": "沃什：美國憲法設計是生產率驅動型經濟增長的秘訣之一。"
+    },
+    {
+      "id": "mkt:019f1dfe-2b35-7aab-8c5e-ea2d78af1b8f",
+      "time": "2026-07-01 22:03:43",
+      "tags": [
+        "MKT News",
+        "SPCX.O",
+        "Impact bearish"
+      ],
+      "text": "SpaceX (SPCX.O) shares extended losses to 5.9%."
+    },
+    {
+      "id": "4965593",
+      "time": "2026-07-01 22:03:37",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【淳中科技股價大跌，高管薪酬議案曾遭股東會否決，公司回應】7月1日，淳中科技股價大跌。截至收盤，公司股價報127.34元/股，跌幅為5.4%。訊息面上，近期，淳中科技公司高管薪酬有關事宜引發市場關注。在2025年股東會上，公司高管薪酬方案被否決，此後公司調整了相關方案，新的方案尚待審議。對此，淳中科技方面回應稱，調整後的薪酬方案，董事會已經透過，還需要在7月9日即將召開的臨時股東會進行審議。2025年的薪酬可能會追溯，2026年部分內部非獨立董事、高管人員還承擔了研發等工作，這部分工作的薪酬會按月發放。新的方案主要側重績效，部分績效會在年報披露後再發放。具體情況以公司公告為準。（中證金牛座）"
+    },
+    {
+      "id": "4965592",
+      "time": "2026-07-01 22:03:36",
+      "tags": [
+        "市場"
+      ],
+      "text": "耐克股價走勢反轉，最新上漲約3%。"
+    },
+    {
+      "id": "mkt:019f1dfd-fef3-7aab-8c5e-e010b34550e4",
+      "time": "2026-07-01 22:03:32",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Bank of England Governor Bailey said oil and gas futures prices are poor indicators; the problem is that many other indicators are equally poor."
+    },
+    {
+      "id": "4965591",
+      "time": "2026-07-01 22:03:31",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國國債收益率在ISM製造業資料與建築支出資料公佈後維持漲幅；10年期美國國債收益率最新上漲4.72個基點，報4.469%。"
+    },
+    {
+      "id": "mkt:019f1dfd-dfa6-7aab-8c5e-dcabf2f0c8d5",
+      "time": "2026-07-01 22:03:24",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "BOC Governor Macklem said monthly data can be highly volatile and markets sometimes overinterpret them."
+    },
+    {
+      "id": "mkt:019f1dfd-cba2-7aab-8c5e-d14683ffb38e",
+      "time": "2026-07-01 22:03:19",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. ambassador to NATO said there is no doubt President Trump is disappointed with Spain."
+    },
+    {
+      "id": "4965590",
+      "time": "2026-07-01 22:03:18",
+      "tags": [
+        "其他"
+      ],
+      "text": "SPACEX股價跌幅擴大至5.9%。"
+    },
+    {
+      "id": "te:markets:563467",
+      "time": "2026-07-01 22:03:17",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "Mastercard Stock Price Hits 9-week High — Mastercard shares increased to 517.37 USD, the highest since April 2026. Over the past 4 weeks, Mastercard gained 8.12%, and in the last 12 months, it decreased 8.02%."
+    },
+    {
+      "id": "4965589",
+      "time": "2026-07-01 22:03:07",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "英國央行行長貝利：油氣遠期價格是極糟糕的指標，但其他指標也同樣存在問題。"
+    },
+    {
+      "id": "4965588",
+      "time": "2026-07-01 22:03:02",
+      "tags": [
+        "公司"
+      ],
+      "text": "【與凱雷完成塗料業務交易，巴斯夫收到約58億歐元稅前現金收益】據巴斯夫訊息，巴斯夫與凱雷於2025年10月10日宣佈的塗料業務交易，已獲得所有必要監管批准，於2026年6月30日正式完成。2026年6月30日，巴斯夫收到約58億歐元的稅前現金收益。交易完成後，巴斯夫持有新公司斯維圖（原巴斯夫塗料業務）40%的股權。"
+    },
+    {
+      "id": "4965587",
+      "time": "2026-07-01 22:02:43",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "加拿大央行行長：月度資料波動可能非常劇烈，市場有時會對其過度解讀。"
+    },
+    {
+      "id": "mkt:019f1dfd-22b4-7aab-8c5e-c8a3f1826532",
+      "time": "2026-07-01 22:02:36",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "S&P500",
+        "Impact bearish",
+        "XAUUSD"
+      ],
+      "text": "Federal Reserve Chair Kevin Warsh said the Fed will retain the dot plot for at least a period of time."
+    },
+    {
+      "id": "4965586",
+      "time": "2026-07-01 22:02:32",
+      "tags": [
+        "市場"
+      ],
+      "text": "美股上市的白銀礦業商股價隨銀價反彈走高。ISHARES SILVER TRUST 上漲 2.1%。"
+    },
+    {
+      "id": "mkt:019f1dfc-df1e-7aab-8c5e-c0a55a14fb4e",
+      "time": "2026-07-01 22:02:19",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact mixed",
+        "Brent"
+      ],
+      "text": "Data show Venezuelan oil exports via trading firms fell to about 775,000 bpd. In June, exports to the United States rose to 630,000 bpd, while shipments to India declined to 277,000 bpd."
+    },
+    {
+      "id": "4965585",
+      "time": "2026-07-01 22:02:13",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國駐北約大使：毫無疑問，特朗普總統對西班牙感到失望。"
+    },
+    {
+      "id": "4965584",
+      "time": "2026-07-01 22:02:02",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "納斯達克中國金龍指數漲超2%，新氧漲7.09%，世紀互聯漲7.09%，萬國資料漲6.66%，盛豐物流漲6.39%，陸金所控股漲6.06%。"
+    },
+    {
+      "id": "4965583",
+      "time": "2026-07-01 22:02:01",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲沃什：點陣圖至少短期內仍會保留。"
+    },
+    {
+      "id": "4965582",
+      "time": "2026-07-01 22:01:44",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "沃什就最高法院對麗莎·庫克的裁決置評：美聯儲在裁決前獨立行事，並在之後遵循其職權範圍。"
+    },
     {
       "id": "4965581",
       "time": "2026-07-01 22:01:07",
@@ -38,6 +250,24 @@
         "國際"
       ],
       "text": "美聯儲主席沃什：我希望在9到12個月後，我們能利用新技術來理解經濟。"
+    },
+    {
+      "id": "em:qqyh_mlc:202607013790561865",
+      "time": "2026-07-01 22:00:43",
+      "tags": [
+        "央行",
+        "美聯儲"
+      ],
+      "text": "【美聯儲主席沃什：希望利率政策成為關鍵政策工具】據報道，美聯儲主席沃什表示，潛在增長率似乎已呈上升趨勢；如果過去四個季度能作為參考，那麼有理由保持樂觀；希望利率政策成為關鍵政策工具。"
+    },
+    {
+      "id": "em:jjsj_mgsj:202607013790563274",
+      "time": "2026-07-01 22:00:42",
+      "tags": [
+        "經濟數據",
+        "美國"
+      ],
+      "text": "【美國5月營建支出環比增長0.1%】美國5月營建支出環比增長0.1%，預期0.1%，前值由0.40%修正為0.3%。"
     },
     {
       "id": "mkt:019f1dfb-5d9d-7aab-8c5e-ab96782a5f52",
@@ -128,6 +358,15 @@
         "Important"
       ],
       "text": "United States | ISM Inventory Index (Jun) | actual 51.4 | previous 49.9"
+    },
+    {
+      "id": "em:jjsj_mgsj:202607013790563057",
+      "time": "2026-07-01 22:00:19",
+      "tags": [
+        "經濟數據",
+        "美國"
+      ],
+      "text": "【美國6月ISM製造業PMI為53.3】美國6月ISM製造業PMI為53.3，預期54，前值54。"
     },
     {
       "id": "mkt:019f1dfb-0123-7aab-8c5e-834aace58b94",
@@ -130912,102 +131151,6 @@
         "國際"
       ],
       "text": "【機構：在AI相關擔憂之際，歐元信用違約保護成本微升】隨著對科技股估值的擔憂降低了對風險資產的偏好，為歐元計價信用債提供違約保險的成本上升。瑞訊銀行的Ipek Ozkardeskaya在一份報告中表示，投資者擔心科技公司的高估值，其中一些公司缺乏清晰的盈利途徑。市場等待美國科技公司美光科技的業績，該業績料將於週三美國股市收盤後釋出。該業績可能為AI相關的投資是否值得提供線索。標普全球市場財智資料顯示，歐元高收益信用違約掉期的iTraxx Europe Crossover指數上漲1個基點，報249個基點。"
-    },
-    {
-      "id": "4953004",
-      "time": "2026-06-24 22:06:09",
-      "tags": [
-        "其他"
-      ],
-      "text": "【迪拜連續五年成為全球綠地FDI首選地 一年吸金88.3億美元】fDi Markets資料庫釋出的資料顯示，迪拜連續第五年穩居全球綠地外商直接投資（FDI）專案首選目的地排名首位，在引入FDI的表現上創下其自2015年以來同期最佳水平之一。2025年迪拜吸引了88.3億美元（約324.3億迪拉姆）的綠地FDI資本，已公佈的綠地FDI專案總數增至1253個，較2024年增長10.5%。 (21財經)"
-    },
-    {
-      "id": "4953003",
-      "time": "2026-06-24 22:05:22",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "美國10年期國債收益率跌至4.4138%，為5月11日以來的最低水平。"
-    },
-    {
-      "id": "mkt:019ef9f3-0d7a-7dd8-b0fb-cd2ea762ee1f",
-      "time": "2026-06-24 22:05:15",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "Treasury Yields",
-        "US10Y",
-        "Impact bearish",
-        "S&P500",
-        "Impact bullish",
-        "DXY"
-      ],
-      "text": "U.S. 10-year Treasury yield fell to 4.4138%, the lowest since May 11."
-    },
-    {
-      "id": "4953002",
-      "time": "2026-06-24 22:04:36",
-      "tags": [
-        "其他"
-      ],
-      "text": "訊息人士透露，雲初創企業 RunPod 融資 1 億美元，投後估值達 10 億美元。"
-    },
-    {
-      "id": "mkt:019ef9f1-36d9-7dd8-b0fb-c340a37d36a8",
-      "time": "2026-06-24 22:03:15",
-      "tags": [
-        "MKT News",
-        "Nasdaq100",
-        "Impact bearish"
-      ],
-      "text": "Nasdaq-100 turned negative."
-    },
-    {
-      "id": "4953001",
-      "time": "2026-06-24 22:02:56",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "赫茲全球控股提交最高1億美元的增發申請後，安飛士預算集團股價下跌7.2%。"
-    },
-    {
-      "id": "4953000",
-      "time": "2026-06-24 22:02:38",
-      "tags": [
-        "市場"
-      ],
-      "text": "納斯達克100指數轉跌。"
-    },
-    {
-      "id": "4952999",
-      "time": "2026-06-24 22:02:22",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【光伏太陽能股Sunrun大漲逾26%】光伏太陽能股Sunrun大漲逾26%，該公司宣佈與Renew Home、特斯拉達成合作協議，將為超大規模雲服務商與公用事業企業提供超16吉瓦可調儲能容量。"
-    },
-    {
-      "id": "te:markets:561576",
-      "time": "2026-06-24 22:02:21",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Canada",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "TSX Slips on High Borrowing Costs and Commodity Weakness — The S&P/TSX Composite Index lost more than 0.5% to trade below 35,000 on Wednesday amid persistently high borrowing costs and weakness in commodity-linked sectors. Gold prices declined as the dollar strengthened on rising bets for further US rate hikes, pressuring mining stocks. Agnico Eagle and WPM shed nearly 3%, while Barrick fell more than 4%. Oil prices also extended this week’s losses on signs that more tankers are set to leave the Strait of Hormuz, easing concerns over energy-driven inflation but weighing on energy shares. Canadian Natural and Imperial Oil lost more than 2%, while Suncor retreated 2.5% and Cenovus shed about 3%. Major banks traded near the flatline, with RBC, BMO, and TD Bank edging lower. In contrast, Canadian tech stocks rebounded from the prior session’s global selloff, with Shopify gaining nearly 3%, while Celestica and Constellation Software rose around 1%."
-    },
-    {
-      "id": "4952998",
-      "time": "2026-06-24 22:02:05",
-      "tags": [
-        "其他"
-      ],
-      "text": "萊哈里斯科技（L3Harris Technologies）預計今年將向德國軍隊交付新訂單。"
     }
   ]
 }
