@@ -1,7 +1,26 @@
 {
-  "updated": "2026-07-02 05:47:43",
-  "count": 14029,
+  "updated": "2026-07-02 05:51:36",
+  "count": 14030,
   "items": [
+    {
+      "id": "mkt:019f1fa9-457b-7aab-8c66-99a11bf7b43b",
+      "time": "2026-07-02 05:50:14",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI"
+      ],
+      "text": "【Iran parliament speaker says IAEA inspectors not allowed into destroyed or damaged nuclear sites】Iran released a video on the evening of July 1 in which Parliament Speaker Mohammad Bagher Ghalibaf said reports that IAEA inspectors would be allowed into bombed nuclear facilities are incorrect. He said Iran’s parliament passed a law, approved by the Supreme National Security Council (SNSC), prohibiting any entry into destroyed or damaged nuclear sites. Ghalibaf said the IAEA may only access two locations — the Bushehr nuclear power plant and the Tehran research reactor — and Iran will not grant privileges beyond the SNSC’s authorized scope."
+    },
+    {
+      "id": "4965954",
+      "time": "2026-07-02 05:49:22",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗議會議長：不允許核查人員進入受損核設施】當地時間7月1日晚，伊朗方面釋出了伊朗伊斯蘭議會議長卡利巴夫的一段談話影片。卡利巴夫稱，關於“允許國際原子能機構的核查人員進入被炸燬核設施”的說法是錯誤的。他表示，伊朗伊斯蘭議會透過了一項法律，該法律得到最高國家安全委員會的批准，規定不得以任何方式允許進入被炸燬或受損的核設施。卡利巴夫強調，國際原子能機構只能進入兩個地點：布什爾核電站和德黑蘭核研究反應堆。伊朗方面不提供任何超出最高國家安全委員會設定許可權範圍的特權。（央視新聞）"
+    },
     {
       "id": "4965953",
       "time": "2026-07-02 05:45:18",
@@ -129204,14 +129223,6 @@
         "國際"
       ],
       "text": "【6月25日隔夜要聞一覽】\n1、特朗普回應拒籤住房法案：比任何人都懂房地產，降息才是關鍵。\n2、特朗普：不接受美伊協議包含任何涉及航運的費用。\n3、美國國務卿魯比奧：美伊技術性談判將於月底恢復。\n4、美國大型銀行透過美聯儲壓力測試，為派息和回購鋪平道路。\n5、原油價格已悉數回吐伊朗戰爭期間的漲幅。WTI下跌，最終結算價在每桶70美元附近，創下2月底伊朗戰爭爆發之前以來的最低水平。布倫特原油下跌，結算價跌破每桶74美元，為戰爭爆發以來的新低。\n6、美光科技盤後大漲，營收翻兩番，毛利率躍升近85%。\n7、OpenAI：推出全新版本GPT-5.5 Instant，對話體驗趣味感大幅提升。今日起向付費使用者推送上線，明日開放給免費使用者使用。\n8、谷歌再有兩名重磅AI核心研究員跳槽至Anthropic，股價下挫。\n9、比特幣跌回6萬美元下方。CoinGlass彙編的資料顯示，過去24小時，近8億美元加密貨幣多頭頭寸被強制平倉。"
-    },
-    {
-      "id": "4953547",
-      "time": "2026-06-25 05:48:10",
-      "tags": [
-        "國際"
-      ],
-      "text": "北約秘書長呂特：與特朗普討論了烏克蘭問題，特朗普承認烏克蘭局勢有所好轉。"
     }
   ]
 }
