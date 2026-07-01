@@ -1,7 +1,65 @@
 {
-  "updated": "2026-07-01 08:22:25",
-  "count": 13972,
+  "updated": "2026-07-01 08:26:19",
+  "count": 13973,
   "items": [
+    {
+      "id": "4963854",
+      "time": "2026-07-01 08:24:46",
+      "tags": [
+        "央行",
+        "市場"
+      ],
+      "text": "【亞洲早盤黃金在看跌盤整區企穩】亞洲早盤交易時段，黃金保持平穩。瑞訊銀行的Ipek Ozkardeskaya在一份報告中表示，黃金目前已進入每盎司4,115美元下方的中期看跌盤整區，即2023年10月至2026年1月漲勢的關鍵38.2%斐波那契回撤位。這表明可能會出現更深幅的回撥。該高階分析師預計，黃金空頭的目標看每盎司3,680美元。她說，儘管如此，對長期投資者而言，黃金仍是一種具吸引力的資產，鑑於許多央行出售了部分黃金儲備以抵消能源價格飆升的影響，並且最終將需要補充這些儲備。現貨黃金平盤報價每盎司4,008.01美元。"
+    },
+    {
+      "id": "mkt:019f1b10-5e18-7aab-8c46-772b0903cba3",
+      "time": "2026-07-01 08:24:45",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "005930.KS",
+        "Impact bearish",
+        "000660.KS"
+      ],
+      "text": "South Korea's KOSPI turned negative intraday, down 0.6%; Samsung Electronics and SK Hynix each fell about 2%."
+    },
+    {
+      "id": "mkt:019f1b0f-f252-7aab-8c46-6c8e57f65afc",
+      "time": "2026-07-01 08:24:17",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "【WSJ: Saudi refusal blocked U.S. Strait of Hormuz operation, prompting threats to suspend interceptor deliveries; U.S. may cut forces in Saudi】Wall Street Journal reports that this spring more than 100 U.S. aircraft planned to launch from regional bases and ships for an operation to secure passage through the Strait of Hormuz were curtailed after Saudi Arabia denied use of its bases and airspace. U.S. officials say the Saudi refusal forced Washington to suspend the freedom-of-action plan President Trump had just initiated; the White House threatened to halt delivery of interceptors used to counter Iranian missiles and drones. Saudi eventually relented, but U.S. officials said the setback was hard to repair and Washington is now weighing a reduction of its military presence in Saudi Arabia."
+    },
+    {
+      "id": "4963853",
+      "time": "2026-07-01 08:22:59",
+      "tags": [
+        "公司"
+      ],
+      "text": "【黃力平任深鐵集團董事長】6月30日，深圳市地鐵集團有限公司釋出關於董事長及總經理變動的公告，根據有關檔案，黃力平任公司董事長，免去其總經理職務。黃力平，男，1968年出生，漢族，研究生學歷，工學碩士，中共黨員。曾任深圳市工勘岩土工程公司總工辦總工程師；深圳市地鐵集團有限公司黨委委員、副總經理；深圳市人才安居集團有限公司黨委副書記，董事、總經理；深圳市地鐵集團有限公司黨委副書記，董事、總經理。現任深圳市地鐵集團有限公司黨委書記，董事長。"
+    },
+    {
+      "id": "4963852",
+      "time": "2026-07-01 08:22:47",
+      "tags": [
+        "公司"
+      ],
+      "text": "【首創證券副總經理方傑離任】7月1日，首創證券公告，因工作調動，方傑先生不再擔任副總經理職務。資料顯示，方傑，男，1980年出生，中國國籍，無境外居留權，碩士研究生，2022年3月起擔任本公司副總經理。方傑先生曾任北京市昌久律師事務所律師，北京市中倫文德律師事務所律師，全國股轉公司掛牌業務部執行經理、高階經理，民生證券股份有限公司投資銀行專業委員會委員、投資銀行事業部副總裁、董事總經理等職務。現任本公司副總經理，北京順隆致遠企業管理諮詢有限公司董事。"
+    },
+    {
+      "id": "4963851",
+      "time": "2026-07-01 08:22:12",
+      "tags": [
+        "國際"
+      ],
+      "text": "【韓國投資者上半年借道ETF配置中國資產 半導體、滬深300、通訊等產品受青睞】今年上半年，韓國投資者積極配置中國資產，借道多隻ETF進行投資。韓國證券存託結算院資料顯示，港股市場方面，Global X中國半導體ETF上半年獲淨買入金額最多，達4239.46萬美元；Global X中國電動車及電池ETF和華夏滬深300指數ETF上半年獲淨買入金額分別為2942.49萬美元和1834.17萬美元。A股市場方面，華夏中證5G通訊主題ETF上半年獲韓國投資者淨買入437.64萬美元，在所有A股上市ETF中排名第一。此外，華夏國證半導體晶片ETF、易方達中證人工智慧ETF、富國上證綜指ETF上半年獲淨買入金額分別為290.11萬美元、263.40萬美元和191.25萬美元。"
+    },
     {
       "id": "4963850",
       "time": "2026-07-01 08:21:13",
@@ -128332,54 +128390,6 @@
         "其他"
       ],
       "text": "【銀河證券：下半年證券業基本面穩健向好趨勢不改 增長新動能持續孕育】銀河證券研報認為，當前證券板塊估值已處於歷史低位，存在嚴重的基本面與市場風格短期錯配，未來市場風格切換、超預期政策落地、行業重大併購重組等積極因素，均有望成為板塊估值修復的核心催化劑。從業務板塊來看，下半年證券業基本面穩健向好趨勢不改，增長新動能持續孕育。經紀、信用業務方面，2026年下半年市場交投活躍度有望維持高位水平，支撐券商經紀、信用業務基本盤，同時財富管理轉型持續加速，帶來業績新增量。投行業務方面，A股、港股IPO延續復甦態勢帶動投行業務回暖，頭部券商憑藉市場口碑和專業能力有望獲得更好的競爭優勢，馬太效應或將不斷放大。自營業務方面，結構性行情下市場振幅加劇，投研能力、策略多元化水平與風險管控能力將成為拉開業績差距的核心勝負手，下半年自營業績分化或將愈發顯著；非方向性業務仍是券商自營穿越牛熊週期、維持可持續增長的關鍵，也是頭部券商拉開優勢的重要賽道。"
-    },
-    {
-      "id": "4951356",
-      "time": "2026-06-24 08:25:36",
-      "tags": [
-        "國際"
-      ],
-      "text": "【第四屆鏈博會：海南舉行推介活動吸引參展商簽約】23日是第四屆鏈博會的第二天，包括首發活動、主題活動和主題省活動等在內，共有40場工商交流活動密集展開。主賓省海南舉行了大規模的推介活動，吸引了來自國內外的許多商協會和企業代表前來參加。推介活動上，海南省就自由貿易港核心政策、財稅優惠、產業佈局及重點園區進行專題推介，外資企業和商業協會代表分別作投資經驗分享和產業合作展望，並開展洽談對接活動。在推介活動中，就有義大利物流與港口協會、國際綠色經濟聯盟、美國老齡護理協會等與海南簽訂了合作協議。（央視）"
-    },
-    {
-      "id": "mkt:019ef704-715a-7dd8-b0e5-de106b80fe23",
-      "time": "2026-06-24 08:25:23",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "Market Regions",
-        "Europe & UK",
-        "Brent",
-        "Impact bullish",
-        "WTI"
-      ],
-      "text": "【UK issues power-supply warning as heatwave raises grid stress】The UK grid operator warned of an anticipated 19 GW supply–demand shortfall and has asked generators to release additional available capacity. Such notices are used when the system requires a larger safety margin than current supply provides. A continent-wide heatwave has heavily strained European grids; peak-period power prices have surged regionwide and France has cut output at some nuclear plants. The operator said in a Tuesday evening alert the measure is to secure supply and does not indicate imminent blackouts."
-    },
-    {
-      "id": "4951355",
-      "time": "2026-06-24 08:23:45",
-      "tags": [
-        "觀點"
-      ],
-      "text": "【中信證券：銀行板塊有望向“高確定性權益資產”重估】中信證券研報認為，下階段影響銀行板塊投資的最核心因素是資本市場敘事的變化，即資金端持續偏好高收益金融資產，資產端，權益資產回報或將長期呈結構性特徵。銀行股作為穩健、具備回報確定性較高的權益資產，對資金端配置吸引力長期提升。展望2026年—2027年，銀行板塊步入風險週期尾部區間，ROE一階導已經改善，預計今明年行業ROE絕對數企穩，區間8%—9%。在經歷資金大幅流出後，有望向“高確定性權益資產”重估，絕對收益空間巨大。"
-    },
-    {
-      "id": "4951354",
-      "time": "2026-06-24 08:23:21",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【日經指數上漲0.6%，晶片和電子股領漲】日本股市在週二遭遇拋售後走高。半導體和其他電子股領漲。鎧俠上漲5.1%，村田製作所上漲3.2%。美元報161.57日元，相比之下週二東京股市收盤時為161.72日元。投資者正關注原油價格和中東局勢的發展，以及日本政府官員對日元近期貶值的任何評論。日經指數上漲0.6%，報70204.03點，該指數在週二下跌了3.5%。"
-    },
-    {
-      "id": "4951353",
-      "time": "2026-06-24 08:22:46",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國財長貝森特：美國住房問題需要降低利率、增加供應才能解決。"
     }
   ]
 }
