@@ -1,7 +1,102 @@
 {
-  "updated": "2026-07-01 09:14:31",
-  "count": 13978,
+  "updated": "2026-07-01 09:18:24",
+  "count": 13973,
   "items": [
+    {
+      "id": "4963926",
+      "time": "2026-07-01 09:17:38",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金失守3990美元/盎司，日內跌1.22%。"
+    },
+    {
+      "id": "4963925",
+      "time": "2026-07-01 09:17:18",
+      "tags": [
+        "國際"
+      ],
+      "text": "韓國KOSPI指數跌2%。"
+    },
+    {
+      "id": "4963924",
+      "time": "2026-07-01 09:16:42",
+      "tags": [
+        "市場"
+      ],
+      "text": "現貨白銀日內跌1%，現報57.97美元/盎司。"
+    },
+    {
+      "id": "4963923",
+      "time": "2026-07-01 09:16:13",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "集運指數歐線期貨連續主力合約日內跌6%，現報2666.00點。"
+    },
+    {
+      "id": "4963922",
+      "time": "2026-07-01 09:16:09",
+      "tags": [
+        "國際",
+        "原創"
+      ],
+      "text": "【韓國政府否認有關設立新智庫以利用晶片巨頭超額利潤的傳言】韓國產業通商資源部週三否認了有關政府推動成立一個新智庫，專門統籌利用全球人工智慧熱潮為晶片企業帶來的鉅額利潤的傳言。韓國產業通商資源部在一份宣告中表示：“網上流傳的有關首爾已致函三星電子和SK海力士，要求成立一個政府主導的、與利潤分享相關的智庫的傳言完全是虛假的。”韓國產業通商資源部補充道：“我們將採取強硬措施，打擊惡意傳播此類誤導性資訊的行為，並將此事移交調查機關。”"
+    },
+    {
+      "id": "4963921",
+      "time": "2026-07-01 09:16:08",
+      "tags": [
+        "觀點"
+      ],
+      "text": "【烏蘭察布算力規模佔全國8.7% 承接北京外溢算力6.5萬P】6月30日，“風光無限綠動未來”2026現代能源經濟(內蒙古)思客會在呼和浩特舉行。烏蘭察布市副市長高永斌在會上透露，該市在全國算電協同領域已實現六項率先突破，算力產業規模與綠電消納能力同步提升。在算力規模方面，截至2026年上半年，烏蘭察布簽約資料中心專案89個，算力執行規模達16.5萬P，智慧算力佔比超90%，佔全國總量8.7%，承接北京外溢算力6.5萬P。萬國資料已簽約5年超300億元算力投資計劃。中金基地還落地國內首套算力能源一體化調控平臺，實現算力負載與新能源發電波動的自主匹配。"
+    },
+    {
+      "id": "4963920",
+      "time": "2026-07-01 09:15:42",
+      "tags": [
+        "公司"
+      ],
+      "text": "【江豐電子投資成立半導體材料新公司】企查查APP顯示，近日，紹興晶豐光曜半導體材料有限公司成立，經營範圍包含電子專用材料製造；電子專用材料銷售；電子專用材料研發等。企查查股權穿透顯示，該公司由江豐電子全資持股。"
+    },
+    {
+      "id": "4963919",
+      "time": "2026-07-01 09:15:28",
+      "tags": [
+        "市場"
+      ],
+      "text": "【人民幣兌美元中間價報6.8067，較上日調高42點】人民幣兌美元中間價報6.8067，較上日調高42點。"
+    },
+    {
+      "id": "4963918",
+      "time": "2026-07-01 09:15:17",
+      "tags": [
+        "市場"
+      ],
+      "text": "人民幣兌美元中間價報6.8067元。"
+    },
+    {
+      "id": "mkt:019f1b3e-2511-7aab-8c47-64aa48a24afc",
+      "time": "2026-07-01 09:14:45",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Industrial Metals",
+        "300750.SZ",
+        "Impact bullish"
+      ],
+      "text": "【CATL restarts 100,000 tpa lithium carbonate capacity】CATL received a safety production permit for the Jianxiawo lithium mine on June 29, and media confirmed on June 30 that the mine resumed production late on June 29. Industry sources estimate Jianxiawo’s lithium carbonate capacity at about 100,000 tpa; the restart is expected to help stabilize upstream feedstock supply for the lithium battery chain."
+    },
+    {
+      "id": "4963917",
+      "time": "2026-07-01 09:13:37",
+      "tags": [
+        "其他"
+      ],
+      "text": "【多地暴雨大暴雨 交通運輸部維持強降雨三級防禦響應】中央氣象臺預計，7月1日08時至2日08時，雲南西部和南部、貴州南部和東部、廣西北部和南部沿海、湖南西南部和東北部、湖北東南部、江西中北部、安徽南部、江蘇南部和北部、浙江中北部、上海以及山東中北部和南部、遼寧西部、海南島西部、青海東部等地有大到暴雨，其中，江西東北部、安徽南部、浙江西北部、雲南西南部等地的部分地區有大暴雨（100～180毫米）。上述部分地區伴有短時強降水（最大小時降雨量40～60毫米，局地可超過80毫米），局地有雷暴大風或冰雹等強對流天氣。7月1日，交通運輸部影片排程雲南、貴州、廣西、湖南、湖北、江西、安徽、江蘇、上海、浙江、山東、遼寧、海南、青海省（市、區）交通運輸廳（委），長江海事局，要求保持高度警惕，緊盯強降雨密集地區和連續降雨高風險區域，加強排程，完善工作機制，壓實各方責任，督促“響應、巡查、管控”主動防禦措施落實，堅決防範遏制重特大事故發生。要切實做好連續降雨防範應對工作，落實排查、巡查措施，確保力量預置、主動管控到位。"
+    },
     {
       "id": "4963916",
       "time": "2026-07-01 09:12:28",
@@ -128333,158 +128428,6 @@
         "Impact mixed"
       ],
       "text": "Australia's May CPI (not seasonally adjusted) YoY is due in 10 minutes."
-    },
-    {
-      "id": "te:markets:561302",
-      "time": "2026-06-24 09:18:01",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Australia",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "Australia Stocks Hold Steady Ahead of CPI Data — Australian shares were little changed in Wednesday morning trade, hovering near 8,789 after four straight sessions of losses and lingering at their lowest level in over a week. Traders awaited May CPI data later today, with forecasts pointing to faster annual inflation after April’s 4.2% but a rare monthly decline, the first in nine months. Labor market figures due Thursday also kept sentiment cautious. Meanwhile, U.S. equity futures were muted after a sharp selloff in tech and chipmakers dragged Wall Street lower overnight. Gains in tech services, consumer, healthcare, and commercial sectors helped offset weakness in non-energy and energy minerals. Early local movers included Lynas Rare Earths (2.5%), CSL Ltd. (2.3%), and Aristocrat Leisure (1.5%). In the meantime, two of the four big banks also posted modest gains. On the downside, Genesis Minerals slipped 3.6%, followed by Greatland Resources (-3.5%), Insurance Australia Group (-2.2%), and Perseus Mining (-1.4%)."
-    },
-    {
-      "id": "mkt:019ef734-854c-7dd8-b0e6-d83d6d9c3964",
-      "time": "2026-06-24 09:17:54",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "CNH",
-        "Impact bearish"
-      ],
-      "text": "Yuan Reference Rate set at 6.8195 per USD, 24.00 points weaker than the previous day's fixing."
-    },
-    {
-      "id": "4951434",
-      "time": "2026-06-24 09:17:37",
-      "tags": [
-        "其他"
-      ],
-      "text": "【位元組跳動豆包上線專業版，升級複雜生產力工具並開啟訂閱】6月24日，位元組跳動旗下AI助手豆包推出專業版。該版本接入全新豆包2.1 Pro大模型，核心聚焦應用開發與資料分析等複雜場景。產品端，專業版上線“辦公任務模式”，支援AI自主拆解任務、操作本地電腦及呼叫Office套件。這標誌著豆包跨越“對話問答”，演進為具備強執行力的生產力工具，企業級程式設計能力亦大幅提升。收費方面，專業版實行三級階梯定價：標準連續包月68元（核心額度超免費版5倍），加強版200元，高階版500元；另設38元/月學生特惠。豆包表示，此為增值訂閱服務，現有免費版功能不變且將持續迭代。（硬AI）"
-    },
-    {
-      "id": "4951433",
-      "time": "2026-06-24 09:17:09",
-      "tags": [
-        "公司"
-      ],
-      "text": "【安靠智電成立新公司 含先進電力電子裝置業務】企查查APP顯示，近日，安靠電力科技（濟南）有限公司成立，經營範圍包含：先進電力電子裝置銷售；電力設施器材銷售；機械裝置研發；配電開關控制裝置銷售；機械電氣裝置製造等。企查查股權穿透顯示，該公司由安靠智電(300617)全資持股。"
-    },
-    {
-      "id": "mkt:019ef733-9642-7dd8-b0e6-d51eddf08037",
-      "time": "2026-06-24 09:16:53",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "Chip Wars",
-        "000660.KS",
-        "Impact bullish",
-        "005930.KS"
-      ],
-      "text": "South Korean officials said demand has surged, requiring SK Hynix and Samsung Electronics to advance semiconductor-cluster project timelines by more than a decade."
-    },
-    {
-      "id": "mkt:019ef733-2fd8-7dd8-b0e6-cc0d8dabde7d",
-      "time": "2026-06-24 09:16:27",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "Chip Wars"
-      ],
-      "text": "A South Korean presidential aide said Samsung and SK Hynix consulted the government on their next investment phase and facility site selection."
-    },
-    {
-      "id": "4951432",
-      "time": "2026-06-24 09:16:10",
-      "tags": [
-        "其他"
-      ],
-      "text": "【雨帶南落 廣西貴州等地強降雨持續 華南維持高溫悶熱】今天（6月24日），南方主雨帶的東段將繼續減弱並南落，但西段的廣西、貴州、雲南交界一帶仍有暴雨或大暴雨。明天起至27日，主雨帶繼續南壓，並將穩定維持在西南地區東部到江南中南部、華南西部一帶。受雨帶南移影響，明天開始，華南一帶的高溫天氣會明顯縮減，但悶熱的體感不會改變，防暑降溫不可鬆懈。"
-    },
-    {
-      "id": "mkt:019ef732-ea00-7dd8-b0e6-c017d52e2232",
-      "time": "2026-06-24 09:16:09",
-      "tags": [
-        "MKT News",
-        "Hang Seng Index",
-        "Impact bullish"
-      ],
-      "text": "Hang Seng index futures opened the day session up 0.71% at 23,480, trading a 144-point premium to the cash index."
-    },
-    {
-      "id": "4951430",
-      "time": "2026-06-24 09:15:58",
-      "tags": [
-        "國際",
-        "原創"
-      ],
-      "text": "【今年訪韓外國遊客已突破1000萬，創歷史最快紀錄】韓國政府週三公佈的初步資料顯示，今年迄今，韓國已接待超過1000萬外國遊客，這意味著今年全年外國遊客數量可能將創下年度新高。據韓國文化體育觀光部稱，本月第三個週末，訪韓外國遊客人數突破1000萬大關，比去年提前了約一個月。這也是訪韓外國遊客首次在上半年突破1000萬。"
-    },
-    {
-      "id": "4951429",
-      "time": "2026-06-24 09:15:38",
-      "tags": [
-        "市場"
-      ],
-      "text": "【人民幣兌美元中間價報6.8195，較上日調低24點】人民幣兌美元中間價報6.8195，較上日調低24點。"
-    },
-    {
-      "id": "4951428",
-      "time": "2026-06-24 09:15:28",
-      "tags": [
-        "市場"
-      ],
-      "text": "人民幣兌美元中間價報6.8195元。"
-    },
-    {
-      "id": "4951427",
-      "time": "2026-06-24 09:15:13",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "韓國官員表示，受需求“暴增”影響，SK海力士、三星電子需將晶片叢集的建設進度提前10年以上。"
-    },
-    {
-      "id": "mkt:019ef731-f6cb-7dd8-b0e6-ba0604010e53",
-      "time": "2026-06-24 09:15:07",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Deguan New Materials says has mass-production capability for graphene transfer film; lithium battery insulation film in deliveries】At an analyst meeting Deguan New Materials said it has developed mass-production capability for graphene transfer films and has begun delivering lithium battery insulation films. The company will accelerate development and certification of lithium battery film materials. It cautioned these are upstream basic materials with a long downstream chain and final applications will require further technical validation; the segment currently contributes under 1% of revenue."
-    },
-    {
-      "id": "4951426",
-      "time": "2026-06-24 09:15:02",
-      "tags": [
-        "市場"
-      ],
-      "text": "恒指期貨日盤開盤漲0.95%，報23507.02點，高水170.74點。"
-    },
-    {
-      "id": "4951425",
-      "time": "2026-06-24 09:14:57",
-      "tags": [
-        "宏觀",
-        "市場",
-        "國際"
-      ],
-      "text": "【貝森特：強勢美元概念並不是單純的匯率水平】美國財政部長斯科特·貝森特區分了維持強勢美元政策和僅僅關注匯率之間的區別。“當人們談論強勢美元時，我認為並不是彭博美元指數，”貝森特在週二晚間於紐約經濟俱樂部發表演講後回答提問時表示。“我認為這意味著我們正在採取各種措施來奠定基礎，讓人們願意來這個國家，無論是稅收確定性、監管確定性還是能源確定性”。他表示，強勢美元與有利於製造業強勁之間並不矛盾。“德國曾經是工業強國，他們靠的是強勢貨幣”；這讓德國變得更高效、更具創新力、生產能力更強。關於美元自去年初以來的下跌：“我不會一覺醒來就想，太好了，這對經濟有幫助。我覺得這只是螢幕上的價格跳動而已。”他表示，低成本製造業國家的貨幣貶值可能對美國不利；“我經常想，這不一定是因為美元強勢。也許——比如東南亞國家，因為它們對貨幣的管理最多——但也可能只是其他地方的貨幣疲軟。”"
-    },
-    {
-      "id": "te:markets:561301",
-      "time": "2026-06-24 09:14:32",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 0"
-      ],
-      "text": "Silver Holds Losses on Hawkish Fed Bets — Silver traded near $61 an ounce on Wednesday, hovering at six-month lows as expectations of tighter Federal Reserve policy outweighed support from the interim US-Iran peace agreement, which helped ease inflation concerns. At its latest policy meeting, Fed officials left interest rates unchanged but indicated increasing support for future rate hikes, while new Fed Chair Kevin Warsh reaffirmed his commitment to restoring price stability. Meanwhile, progress in negotiations between Washington and Tehran encouraged a rise in traffic through the Strait of Hormuz, easing pressure on global energy supplies and reducing inflation risks. Silver and other metals also faced additional selling pressure as a sharp decline in US technology stocks prompted investors to trim bullion positions to offset losses elsewhere in their portfolios."
     }
   ]
 }
