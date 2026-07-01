@@ -1,7 +1,123 @@
 {
-  "updated": "2026-07-01 08:30:08",
-  "count": 13971,
+  "updated": "2026-07-01 08:34:07",
+  "count": 13979,
   "items": [
+    {
+      "id": "mkt:019f1b17-7a8f-7aab-8c46-ce3fd2e135db",
+      "time": "2026-07-01 08:32:31",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "South Korea's Ministry of Oceans says HMM's cargo vessel Namu is expected to exit the Strait of Hormuz in mid-July."
+    },
+    {
+      "id": "4963862",
+      "time": "2026-07-01 08:31:40",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "【中金公司2026年下半年生物醫藥展望：創新藥產業鏈發展明確 短期調整不改中長期崛起趨勢】中金公司2026年下半年生物醫藥展望指出，雖然受宏觀環境、大國關係擾動、流動性輪轉等因素影響，創新藥板塊進入短期估值回撥階段。但從產業趨勢來看，中國創新藥BD與臨床資料讀出依舊保持良好的發展趨勢，license out和new co等形式證明中國創新藥正在不斷國際化。國內外良好的醫藥產業投融資，為產業帶來新一輪研發投入的同時，也為上游CXO等產業帶來潛在訂單，製藥供應有著較強業績增長確定性。一方面看好醫療科技進取屬性：除創新藥的突破與國際化外，AI製藥與腦機介面等新技術的發展同樣可圈可點，部分國產器械也慢慢走出結構性的國際化機會；另一方面，高分紅醫藥股估值相對低位，併購整合帶來價值重估機會的同時，也有望積聚新的成長動力。"
+    },
+    {
+      "id": "4963861",
+      "time": "2026-07-01 08:31:03",
+      "tags": [
+        "國際"
+      ],
+      "text": "【韓國出口創1978年以來最大增幅】在全球人工智慧熱潮的推動下，市場對高效能晶片的需求持續不減，這帶動韓國出口創下近50年來的最大增幅。韓國產業通商資源部週三釋出的初步資料顯示，繼5月份錄得53.4%的修正後增幅之後，6月份出口額同比增長70.9%，達到創紀錄的月度1,022.5億美元，創下1978年10月以來的最快增速。這一增幅輕鬆超過了媒體調查的九位經濟學家57.3%的預期中值。6月份進口增長30.1%，至661.0億美元，由此產生的貿易順差為361.5億美元，首次突破300億美元大關。5月份修正後的貿易順差為270.4億美元。該國產業通商資源部表示，半導體仍是整體出口增長的主要驅動力，6月份晶片出口額創下新的月度紀錄，達到448.2億美元。"
+    },
+    {
+      "id": "4963860",
+      "time": "2026-07-01 08:30:33",
+      "tags": [
+        "資料",
+        "國際"
+      ],
+      "text": "越南6月標普全球越南製造業PMI 51.8，前值52.8。\n日本6月製造業PMI終值 54.8，前值54.9。\n韓國6月滙豐製造業PMI 52.1，前值54.8。\n印尼6月標普全球PMI降至46.9，5月為50.0。"
+    },
+    {
+      "id": "mkt:019f1b15-7648-7aab-8c46-c69fb3761b39",
+      "time": "2026-07-01 08:30:19",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【UN makes largest financial-rule change in 75 years】On June 30, the 80th UN General Assembly approved a resolution to amend a 75-year-old financial rule. Under a four-year trial starting July 1, 2026, the UN will only return or credit unused funds to member states when the related payments have actually been received and are cash-backed. Previously, the UN could return or credit amounts even if some members had not paid on time or in full, effectively recording funds it had not received. The UN said the prior rule weakened fiscal stability and increased liquidity pressure on the regular and peacekeeping budgets."
+    },
+    {
+      "id": "mkt:019f1b15-6080-7aab-8c46-bd96676194d2",
+      "time": "2026-07-01 08:30:13",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Vietnam June S&P Global manufacturing PMI 51.8, down from May's 52.8; reading remains above 50, indicating continued but slower expansion in factory activity."
+    },
+    {
+      "id": "4963859",
+      "time": "2026-07-01 08:30:10",
+      "tags": [
+        "國際"
+      ],
+      "text": "韓國產業通商資源部表示，半導體仍是整體出口增長的主要驅動力，6月份晶片出口額創下新的月度紀錄，達到448.2億美元。"
+    },
+    {
+      "id": "mkt:019f1b15-500e-7aab-8c46-b2480ca50d07",
+      "time": "2026-07-01 08:30:08",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC"
+      ],
+      "text": "Japan June manufacturing PMI (final) 54.8, prior 54.9."
+    },
+    {
+      "id": "mkt:019f1b15-4ed0-7aab-8c46-aa718b7301d2",
+      "time": "2026-07-01 08:30:08",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "South Korea June HSBC Manufacturing PMI 52.1, down from 54.8."
+    },
+    {
+      "id": "mkt:019f1b15-4cee-7aab-8c46-a3c8de76037d",
+      "time": "2026-07-01 08:30:08",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "Taiwan June Nikkei manufacturing PMI 55.2, down from 56.1 in May."
+    },
+    {
+      "id": "mkt:019f1b15-2d91-7aab-8c46-9e4d5f00398a",
+      "time": "2026-07-01 08:30:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "South Korea | Manufacturing PMI (Jun) | actual 52.1 | previous 54.8"
+    },
+    {
+      "id": "mkt:019f1b15-2d42-7aab-8c46-93aa2ea76bc8",
+      "time": "2026-07-01 08:30:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Japan | Manufacturing PMI Final (Jun) | actual 54.8 | previous 54.9"
+    },
+    {
+      "id": "mkt:019f1b15-2d08-7aab-8c46-8da4a05df6c8",
+      "time": "2026-07-01 08:30:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Taiwan | Manufacturing PMI (Jun) | actual 55.2 | previous 56.1"
+    },
     {
       "id": "4963858",
       "time": "2026-07-01 08:29:06",
@@ -128340,49 +128456,6 @@
         "國際"
       ],
       "text": "【野村、索尼齊力發債，日本企業本週債券發行開局火爆】野村控股與索尼集團發力發債，本週前兩個交易日日本企業在全球市場的債券發行規模突破80億美元，當前已是今年發債最密集的時段之一，後續還將有更多債券推出。野村於週二完成35億美元債券定價；索尼時隔近30年重返美國債市，發行10億美元債券。投資級企業的收益率溢價在今年1月觸及二十年來低位，目前仍維持在相近水平，兩家企業藉此視窗期登陸全球債券市場。據不願具名的知情人士透露，日本電信巨頭NTT旗下金融子公司也加入發債熱潮，已聘請多家投行籌備美元、歐元、英鎊多幣種債券發行。"
-    },
-    {
-      "id": "4951366",
-      "time": "2026-06-24 08:33:57",
-      "tags": [
-        "國際"
-      ],
-      "text": "兩艘船舶駛出霍爾木茲海峽，其中包括一艘由韓國現代商船（HMM）運營的超大型油輪（VLCC）。"
-    },
-    {
-      "id": "4951365",
-      "time": "2026-06-24 08:33:43",
-      "tags": [
-        "公司"
-      ],
-      "text": "【競相佈局人工智慧 全球企業“鏈”上中國機遇】在今年鏈博會現場，原有的“數字科技鏈”升級成為“數智科技鏈”。這一字之變，背後體現的是人工智慧正在成為產業鏈上的主角。現場首設的人工智慧專區集聚了中外AI領軍企業，展示了從資料、算力到應用的全鏈條。高通公司全球高階副總裁錢堃表示，AI智慧體的賦能使得現有終端裝置有一個大的升級換代週期。中國的產業鏈非常完善，透過跟中國合作伙伴不斷合作，他們的產品能很快走向市場並被全球接受。（央視）"
-    },
-    {
-      "id": "mkt:019ef70b-830c-7dd8-b0e5-ee024a8a307b",
-      "time": "2026-06-24 08:33:07",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "US Economy"
-      ],
-      "text": "【U.S. Treasury Secretary says economic policy will bolster supply-chain resilience to guard against critical-supply risks】U.S. Treasury Secretary Scott Bessent said in prepared remarks to the Economic Club of New York on Tuesday that U.S. economic national-security policy will be guided in part by the need to reduce vulnerability to potential adversaries cutting off critical supplies. \"We will build resilience before crises occur,\" he said, urging supply-chain reviews to assess vulnerabilities in the military, hospitals, energy systems and the financial system. Bessent said the U.S. should develop sufficient domestic production capacity to ensure Americans are not subject to critical overseas bottlenecks."
-    },
-    {
-      "id": "4951364",
-      "time": "2026-06-24 08:32:47",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【沃爾瑪旗下的Flipkart計劃在IPO前拓展印度快速商務業務】沃爾瑪旗下的Flipkart正在加速其在印度的“快速商務”業務擴張，計劃在全國範圍內新增500個社群倉庫，重點佈局中小城市，以在這一快速增長的110億美元市場中展開競爭。就在Flipkart——這家在電子商務領域與亞馬遜競爭的企業——正準備在孟買上市之際，這一舉措應運而生，儘管具體時間表尚未確定。Flipkart較晚進入印度“快速商務”領域（該領域在印度呈現爆發式增長），該模式下，企業透過社群倉庫在10至30分鐘內將從iPhone到巧克力再到牛奶等各類商品送貨上門——這一現象重塑了這個全球人口最多國家的購物模式。據Datum Intelligence的資料，Eternal旗下的Blinkit在印度擁有超過2,200家門店，Swiggy旗下的Instamart則擁有超過1,100家門店。而Flipkart週二表示，其門店數量已達到1,000家，並計劃在數月內將這一數字提升至1,500家。"
-    },
-    {
-      "id": "4951363",
-      "time": "2026-06-24 08:30:10",
-      "tags": [
-        "市場"
-      ],
-      "text": "上海證交所上日融資餘額下跌0.1%至15,045.7億元。"
     }
   ]
 }
