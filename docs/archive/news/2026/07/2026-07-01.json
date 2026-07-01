@@ -1,7 +1,95 @@
 {
   "date": "2026-07-01",
-  "count": 3602,
+  "count": 3613,
   "items": [
+    {
+      "id": "mkt:019f1e38-4196-7aab-8c61-923e6e33ec52",
+      "time": "2026-07-01 23:07:10",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "US Department of Justice sued Virginia, alleging the state's firearms ban is unconstitutional. The DOJ also sued California, seeking to block the state's ban on Glock handguns."
+    },
+    {
+      "id": "4965716",
+      "time": "2026-07-01 23:06:49",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國農業部（USDA）將投資5億美元到新建設的、以及現有的那些化肥設施。"
+    },
+    {
+      "id": "mkt:019f1e37-6e88-7aab-8c61-8f8e5d7fe280",
+      "time": "2026-07-01 23:06:16",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Market sources: USDA to invest $500 mln in new and existing fertilizer facilities."
+    },
+    {
+      "id": "4965715",
+      "time": "2026-07-01 23:05:56",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國能源資訊署（EIA）資料顯示，上週包含戰略石油儲備（SPR）在內的美國原油庫存降至 1984 年 5 月以來最低水平。"
+    },
+    {
+      "id": "mkt:019f1e36-b822-7aab-8c61-800dc7fba7c0",
+      "time": "2026-07-01 23:05:30",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Industrial Metals",
+        "Copper",
+        "Impact mixed"
+      ],
+      "text": "【LME weighing rule easing to boost Hong Kong as metal warehousing hub】Four industry sources said the LME is considering loosening rules to enhance Hong Kong's role as a metal warehousing hub. Two sources said HKEx executives have queried warehousing firms on what barriers must be removed to make Hong Kong viable. In a March consultation the LME proposed allowing outdoor storage of aluminium on a location-by-location basis; sources said the proposal chiefly targets Hong Kong given limited indoor space. The LME briefly permitted outdoor aluminium storage in the mid-1990s but withdrew the option over weather damage and security concerns."
+    },
+    {
+      "id": "mkt:019f1e36-9721-7aab-8c61-78bb72ee242a",
+      "time": "2026-07-01 23:05:21",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Germany's federal prosecutors have filed charges against a Ukrainian national, accusing him of involvement in the Nord Stream pipeline explosions, German media reported."
+    },
+    {
+      "id": "4965714",
+      "time": "2026-07-01 23:05:16",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國司法部宣佈起訴弗吉尼亞州，指控該州槍支禁令違反憲法。"
+    },
+    {
+      "id": "4965713",
+      "time": "2026-07-01 23:04:18",
+      "tags": [
+        "國際"
+      ],
+      "text": "【俄外交部：日本部署美國導彈嚴重破壞亞太地區穩定 】俄羅斯外交部發言人扎哈羅娃7月1日在例行記者會上表示，日本部署美國中程和短程導彈系統，嚴重破壞亞太地區穩定與安全。扎哈羅娃表示，日本這一行為對俄羅斯遠東邊境構成直接威脅，俄方多次警告過日方不要做出此類破壞性決定。與此同時，俄羅斯加強同地區國家的合作，以維護亞太地區和平。據報道，美國、日本近期舉行多場聯合演習，美國“堤豐”中程導彈系統再次部署到日本。（新華社）"
+    },
+    {
+      "id": "mkt:019f1e35-5857-7aab-8c61-700ce6b472a9",
+      "time": "2026-07-01 23:04:00",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Wall Street (US)",
+        "S&P500",
+        "Impact bullish"
+      ],
+      "text": "S&P 500 reversed earlier losses and turned higher."
+    },
+    {
+      "id": "mkt:019f1e35-1853-7aab-8c61-6935cf676e1b",
+      "time": "2026-07-01 23:03:43",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Banxico survey: private-sector analysts expect the benchmark policy rate to be 6.50% at end-2026 and 6.50% at end-2027."
+    },
     {
       "id": "mkt:019f1e34-e25e-7aab-8c61-633ba8c3d35e",
       "time": "2026-07-01 23:03:30",
@@ -173,6 +261,15 @@
         "其他"
       ],
       "text": "訊息人士：倫敦金屬交易所正考慮放寬倉儲規則，以此吸引金屬庫存流向香港。"
+    },
+    {
+      "id": "em:qqyh_ozyh:202607013790613670",
+      "time": "2026-07-01 22:55:35",
+      "tags": [
+        "央行",
+        "歐洲央行"
+      ],
+      "text": "【歐洲央行行長稱通脹和增長風險有所緩和 當前局勢變化非常迅速】歐洲央行行長拉加德表示，歐元區通脹和增長面臨的風險已有所緩和。週三，在葡萄牙辛特拉舉行的歐洲央行年度論壇上，拉加德表示：“相比幾周前，我認為現在通脹的上行風險與增長的下行風險已大體更加平衡，原因是我們目前觀察到的情況，而且這些變化發生得非常迅速。”就在三週前，歐洲央行成為伊朗戰爭爆發後G7中首個加息的央行。歐洲央行當時解釋稱，加息決定是基於對能源衝擊波及整個經濟的判斷，而且該行不能容忍通脹失控。自那次會議以來，貨幣政策領域已發生了許多變化。美伊和平談判導致石油價格大幅回落，消除了通脹的主要驅動因素。週三公佈的最新資料顯示，歐元區物價增長放緩幅度超過預期。“我們正在採取一切正確行動以確保物價穩定，”拉加德表示，“我們不會讓精靈跳出瓶子，任由通脹攀升。我們將採取必要行動，而且我們已經採取了。”"
     },
     {
       "id": "4965702",
