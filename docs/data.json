@@ -1,7 +1,193 @@
 {
-  "updated": "2026-07-01 16:39:14",
-  "count": 13834,
+  "updated": "2026-07-01 16:43:12",
+  "count": 13838,
   "items": [
+    {
+      "id": "mkt:019f1cd8-1995-7aab-8c50-db7dca68889e",
+      "time": "2026-07-01 16:42:32",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "ECB Governing Council member NAGEL said inf remains too high."
+    },
+    {
+      "id": "mkt:019f1cd7-906c-7aab-8c50-d241c56030ef",
+      "time": "2026-07-01 16:41:56",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact mixed",
+        "EURUSD",
+        "S&P500"
+      ],
+      "text": "【Market outlook: oil likely to remain chief market driver】First Abu Dhabi Bank analyst Simon Ballard says as the new quarter begins oil prices will remain the primary driver for equities, FX and fixed income. Market sentiment has been lifted by perceived progress in U.S.-Iran peace talks and a recovery in Strait of Hormuz shipping, but remains highly sensitive to further developments. Recent oil weakness has eased global inflationary pressure and supported gains in European and some Asian equities. First Abu Dhabi Bank expects global central banks to remain biased toward tightening, while Gulf Arab markets will face reduced oil revenues; the bank warns against complacency."
+    },
+    {
+      "id": "4964641",
+      "time": "2026-07-01 16:41:47",
+      "tags": [
+        "公司"
+      ],
+      "text": "【賽隆退：子公司湖南賽隆藥業獲得氨茶鹼注射液藥品註冊證書】賽隆退公告，全資子公司湖南賽隆藥業（長沙）有限公司於近日獲得國家藥品監督管理局核准簽發的氨茶鹼注射液《藥品註冊證書》。氨茶鹼注射液主要用於治療支氣管哮喘、慢性喘息性支氣管炎、慢性阻塞性肺病等緩解喘息症狀；也可用於心功能不全和心源性哮喘的治療。"
+    },
+    {
+      "id": "mkt:019f1cd6-a6d8-7aab-8c50-cb47f52cbe4d",
+      "time": "2026-07-01 16:40:57",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars"
+      ],
+      "text": "【TrendForce: small-capacity DDR4/DDR3 spot prices rise; NAND spot prices keep falling】TrendForce said in its latest spot-price trends report that this week DRAM spot prices rose in small-capacity DDR4 and DDR3 segments while the broader DRAM market remained rangebound. For NAND, suppliers are trimming quotes to manage inventory but buyers remain reluctant to accept current levels; 512Gb TLC wafer spot prices continued to decline."
+    },
+    {
+      "id": "4964640",
+      "time": "2026-07-01 16:40:55",
+      "tags": [
+        "公司"
+      ],
+      "text": "【霍萊沃：核心技術人員任振離職】霍萊沃公告，公司核心技術人員任振因個人原因離職，後續將不再擔任公司職務。任振負責的工作均已完成交接，公司的生產經營、技術研發等工作均有序推進。任振的離職不會對公司經營能力、研發實力、核心競爭力產生實質性影響。"
+    },
+    {
+      "id": "4964639",
+      "time": "2026-07-01 16:40:44",
+      "tags": [
+        "其他"
+      ],
+      "text": "習近平致電祝賀德拉埃斯普列亞當選哥倫比亞總統。 （新華社）"
+    },
+    {
+      "id": "te:economy:563369",
+      "time": "2026-07-01 16:40:42",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Uganda",
+        "Inflation Rate",
+        "Importance 0"
+      ],
+      "text": "Uganda Inflation Rate Quickens to 9-Month High — The annual inflation rate in Uganda accelerated to 3.7% in June 2026 from 3.2% in the prior month, marking the highest level since September 2025. Upward pressure came from several categories, particularly transportation (8.8% vs 6.7% in May); food & non-alcoholic beverages (2.6% vs 1.8%); education (5.7% vs 4.1%); housing & utilities (4.9% vs 4.5%) and insurance and financial services (12.6% vs 12.6%). On a monthly basis, the CPI rose by 0.6%, after a 0.7% increase in the month before."
+    },
+    {
+      "id": "4964638",
+      "time": "2026-07-01 16:40:41",
+      "tags": [
+        "市場"
+      ],
+      "text": "【機構：小容量DDR4/DDR3價格走高，NAND現貨價持續下跌】7月1日，根據TrendForce最新發布的儲存現貨價格趨勢報告，本週DRAM現貨價格在小容量DDR4和DDR3領域呈現上漲勢頭，而整體市場則繼續橫盤整理。NAND快閃記憶體方面，供應商正在調整報價以最佳化庫存水平，但買家仍不願接受當前價格，512Gb TLC Wafer現貨價格持續下跌。"
+    },
+    {
+      "id": "mkt:019f1cd6-69f6-7aab-8c50-c599cc00d4b3",
+      "time": "2026-07-01 16:40:41",
+      "tags": [
+        "MKT News",
+        "EURUSD",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "ECB Governing Council member Wunsch said one rate hike may suffice if significant second-round effects do not materialize."
+    },
+    {
+      "id": "4964637",
+      "time": "2026-07-01 16:40:27",
+      "tags": [
+        "公司"
+      ],
+      "text": "【安正時尚：股東陳克川所持4140.63萬股股份過戶至鄭秀萍名下】安正時尚公告，公司持股5%以上股東陳克川與鄭秀萍解除婚姻關係，根據離婚協議，陳克川將其持有的4140.63萬股股份（佔總股本10.70%）過戶至鄭秀萍名下。此次非交易過戶已完成，陳克川持股比例降為0%，鄭秀萍持股比例升至10.70%。本次權益變動不涉及公司控制權變更，不會對公司經營管理構成重大影響。"
+    },
+    {
+      "id": "4964636",
+      "time": "2026-07-01 16:40:04",
+      "tags": [
+        "公司"
+      ],
+      "text": "【雲中馬：股東浙江弘悅減持46.15萬股 持股降至5%】雲中馬公告稱，2026年6月26日至7月1日，股東浙江弘悅私募基金管理有限公司（代表“弘悅興豐1號私募證券投資基金”）透過集中競價方式減持公司股份46.15萬股，佔公司總股本的0.34%。本次權益變動後，浙江弘悅持有公司股份687.58萬股，佔總股本的5.00%。此次減持系其基於自身資金需求，且不排除未來12個月內結合實際及行情變化，擇機增持或減持。"
+    },
+    {
+      "id": "mkt:019f1cd5-c4e3-7aab-8c50-bfd2ceeeed03",
+      "time": "2026-07-01 16:39:59",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Jinli Permanent Magnet sees 1H net profit 400–460 mln yuan, up 31.17–50.84% YoY】Jinli Permanent Magnet expects 1H net profit of 400–460 mln yuan, up 31.17–50.84% YoY. During the period, revenue from new energy vehicles and auto parts rose about 30% YoY; revenue from robots and industrial servo motors rose about 90% YoY, and rotor products for embodied robots have begun small-batch deliveries."
+    },
+    {
+      "id": "4964635",
+      "time": "2026-07-01 16:39:53",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行管委溫施：一次加息就足夠了，不會產生重大的第二輪影響。"
+    },
+    {
+      "id": "mkt:019f1cd5-60bd-7aab-8c50-b2b3787c62e6",
+      "time": "2026-07-01 16:39:33",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Fitch says Indonesia faces rising pressure on market confidence and foreign-exchange buffers."
+    },
+    {
+      "id": "mkt:019f1cd5-3a6e-7aab-8c50-aba3b8c09b7f",
+      "time": "2026-07-01 16:39:23",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Industrial Metals",
+        "Copper",
+        "Impact bearish"
+      ],
+      "text": "LME zinc fell 2.00% intraday to $3,487.76/tonne."
+    },
+    {
+      "id": "4964634",
+      "time": "2026-07-01 16:39:22",
+      "tags": [
+        "市場"
+      ],
+      "text": "【包頭稀交所：今日稀土主流產品價格小幅上漲】據包頭稀土產品交易所，今日稀土主流產品價格小幅上漲。氧化鐠釹均價74.41萬元/噸，上漲0.29萬元/噸；金屬鐠釹均價90.40萬元/噸，上漲0.14萬元/噸；氧化鏑均價141.00萬元/噸，上漲0.25萬元/噸；氧化鋱均價645.63萬元/噸，上漲0.19萬元/噸。今日氧化鐠、氧化釹、氧化鎦、氧化銪、氧化鑭鈰等產品成交資訊較少，請謹慎參考。目前，稀土市場整體延續偏穩行情，交易活躍度有所提升。鐠釹市場執行相對平穩，供應商報價維持堅挺，下游企業詢盤意願較昨日增強，價格穩中有升。中重稀土品種熱度回升，鏑鋱產品價格小幅上行。綜合來看，今日稀土市場交投氣氛回暖，但成交量尚未顯著擴大，短期內稀土價格有望繼續溫和上漲。"
+    },
+    {
+      "id": "4964633",
+      "time": "2026-07-01 16:39:20",
+      "tags": [
+        "公司"
+      ],
+      "text": "【健民集團：蒙脫石散獲批上市 累計研發投入360.85萬元】健民集團公告稱，公司收到國家藥監局核准簽發的《藥品註冊證書》，研發的蒙脫石散獲批上市，批准文號有效期至2031年6月29日。該藥品用於成人及兒童急、慢性腹瀉等，與原研參比製劑有相同活性成分等。截至2026年6月30日，累計投入研發費用約360.85萬元。獲批上市將豐富產品線，但短期內預計不會對業績產生較大影響，市場份額存在不確定性。"
+    },
+    {
+      "id": "4964632",
+      "time": "2026-07-01 16:39:16",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行管委溫施：需要更強的第二輪效果才能進一步縮小差距。"
+    },
+    {
+      "id": "4964631",
+      "time": "2026-07-01 16:39:02",
+      "tags": [
+        "其他"
+      ],
+      "text": "墨西哥城衛生當局稱，世界盃慶祝活動期間兩人因窒息死亡。"
+    },
+    {
+      "id": "te:economy:563367",
+      "time": "2026-07-01 16:38:58",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United Kingdom",
+        "Manufacturing PMI",
+        "Importance 1"
+      ],
+      "text": "UK Manufacturing Growth Slows More than Expected — The S&P Global UK Manufacturing PMI posted 52.5 in June, down from May's four-year high of 53.9 and the earlier flash estimate of 53.1. Factory production accelerated to a 21-month high, driven by robust domestic sales and export gains from China, the US, and the EU, though growth opportunities in the Middle East stalled due to regional conflict. However, new order inflows decelerated to their weakest pace since December 2025. Employment rose modestly for a third month as rising input costs and market uncertainty forced some firms to freeze headcounts. Meanwhile, severe global shipping delays and material shortages substantially lengthened supplier delivery times and drove up input prices, prompting manufacturers to raise output charges at a pace near May's four-year high. Looking ahead, business confidence remained tepid, with 48% of firms anticipating growth from new tech and AI against broader policy concerns."
+    },
     {
       "id": "4964630",
       "time": "2026-07-01 16:38:28",
@@ -438,6 +624,14 @@
         "國際"
       ],
       "text": "【先正達集團任命覃衡德為執行長】7月1日，先正達集團宣佈，其董事會已任命覃衡德為執行長，自2026年8月1日起生效。覃衡德目前擔任營運長兼種子業務負責人，將接任Jeff Rowe的職務。Jeff Rowe將在8月1日前繼續擔任現職，隨後將在為公司服務近10年後返回美國。覃衡德將常駐公司位於瑞士巴塞爾的總部，他自2023年1月起便常駐該地。自2020年起，他便擔任先正達集團管理團隊成員，曾在業務、財務、人力資源及全球運營等領域擔任高階職務。任職期間，他曾擔任先正達集團首席財務官、首席人力資源官以及先正達集團中國總裁。"
+    },
+    {
+      "id": "4964598",
+      "time": "2026-07-01 16:24:56",
+      "tags": [
+        "公司"
+      ],
+      "text": "【韓建河山：子公司清青環保逾期未歸還財務資助款本金200萬元】韓建河山公告，公司持有的秦皇島市清青環保裝置有限公司99.9%股權已出售給河北清能環境工程有限公司，清青環保未按約定歸還第一期財務資助款本金200萬元及利息。公司已發出《催款函》，並保留採取法律手段追償的權利。逾期本金佔公司最近一期經審計淨資產的0.89%，不會對公司的正常生產經營、資金狀況產生重大影響。"
     },
     {
       "id": "4964597",
@@ -127186,159 +127380,6 @@
         "觀點"
       ],
       "text": "摩根士丹利預計，到2026年第三季度，價格區間的風險收益將更為均衡，卡達液化天然氣產能重啟的路徑也將更加清晰。"
-    },
-    {
-      "id": "4952238",
-      "time": "2026-06-24 16:42:55",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【納指ETF嘉實：二級市場價格溢價 26日開市起停牌至10:30】納指ETF嘉實公告稱，近期該基金二級市場交易價格明顯高於基金份額參考淨值，出現較大幅度溢價。2026年6月24日，收盤價為2.066元，收盤時基金份額參考淨值為1.8744元。為保護投資者利益，基金將於6月25日開市起停牌，自10:30起復牌，停牌期間贖回業務照常辦理。若6月25日溢價幅度未有效回落，基金有權採取進一步停牌措施。"
-    },
-    {
-      "id": "4952237",
-      "time": "2026-06-24 16:42:51",
-      "tags": [
-        "公司"
-      ],
-      "text": "【滄州明珠:溼法隔膜專案剩餘生產線投產,幹法隔膜專案剩餘3億平方米生產線投產】滄州明珠公告，公司此前披露的“年產2億平方米溼法鋰離子電池隔膜專案”和“年產5億平方米幹法鋰離子電池隔膜專案”已於2025年11月公告部分生產線投產。截至本公告披露日，溼法隔膜專案剩餘的一條生產線（年設計產能1億平方米）已投產；幹法隔膜專案剩餘的三條生產線（年設計產能3億平方米）已投產。至此，上述兩個專案已全部實施完畢。上述生產線投產將提高公司鋰離子電池隔膜產品的產能。"
-    },
-    {
-      "id": "mkt:019ef8cb-a760-7dd8-b0f3-4bc9ec770a01",
-      "time": "2026-06-24 16:42:36",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy"
-      ],
-      "text": "MORGAN STANLEY expects TTF gas at about EUR50/MWh in 3Q26 and about EUR60/MWh in 4Q26."
-    },
-    {
-      "id": "4952236",
-      "time": "2026-06-24 16:42:27",
-      "tags": [
-        "其他"
-      ],
-      "text": "阿聯酋航空貨運部宣佈戰略擴充套件東亞及東南亞貨運服務。"
-    },
-    {
-      "id": "4952235",
-      "time": "2026-06-24 16:42:13",
-      "tags": [
-        "觀點"
-      ],
-      "text": "摩根士丹利預計，2026年第三季度TTF天然氣價格約為50歐元/兆瓦時，2026年第四季度約為60歐元/兆瓦時。"
-    },
-    {
-      "id": "4952234",
-      "time": "2026-06-24 16:41:09",
-      "tags": [
-        "市場"
-      ],
-      "text": "【德國10年期國債收益率跌至三個月低點 油價回落至美伊衝突前水平】德國國債上漲，10年期國債收益率降至3月18日以來最低水平。布倫特原油價格跌至2月份美伊衝突爆發前水平。德國10年期國債收益率下跌2個基點至2.90%；英國10年期國債收益率下跌3個基點至4.72%，為4月8日以來最低。布倫特原油下跌2%至75.53美元，來到2月27日以來最低。"
-    },
-    {
-      "id": "4952233",
-      "time": "2026-06-24 16:40:45",
-      "tags": [
-        "其他"
-      ],
-      "text": "Tradeweb資料顯示英國10年期金邊債券收益率觸及4.722%，創兩個半月新低。"
-    },
-    {
-      "id": "mkt:019ef8c9-d5a0-7dd8-b0f3-454e073cda44",
-      "time": "2026-06-24 16:40:37",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK",
-        "GBPUSD",
-        "Impact bearish",
-        "XAUUSD",
-        "Impact bullish"
-      ],
-      "text": "UK 10-year bond yield fell to 4.722%, a two-and-a-half-month low."
-    },
-    {
-      "id": "4952232",
-      "time": "2026-06-24 16:40:35",
-      "tags": [
-        "焦點"
-      ],
-      "text": "【A股今年打新有多賺錢？安永：首日平均回報率233% 為近五年最高】安永發布的《中國內地和香港IPO市場報告》顯示，2026年上半年，A股經歷了一輪顯著的估值修復，宏觀環境改善、投資者信心提升，市盈率較去年有所上升。A股IPO市場未出現破發，平均首日回報率為233%，位居近五年榜首。（中新經緯）"
-    },
-    {
-      "id": "4952231",
-      "time": "2026-06-24 16:40:27",
-      "tags": [
-        "國際"
-      ],
-      "text": "【以媒稱以軍在考慮從黎南部部分地區撤出】據以色列第13頻道24日報道，在以色列和黎巴嫩在美國舉行新一輪會談之際，以方在考慮從黎巴嫩南部部分地區撤軍。報道說，以黎第五輪會談已於23日在美國啟動，預計持續至25日。與以色列總理內塔尼亞胡此前有關以軍將繼續留在黎南部“安全區”的表態不同，本輪會談正在討論以軍從黎巴嫩部分地區撤出。報道稱，以軍預計撤出的一些區域位於所謂“黃線”以南，即以軍目前所在區域。一名以色列高階官員對第13頻道說，以軍“最近幾天佔領了一些地區，是為了談判，之後再從那裡撤出”。這名官員說，以軍將從黎南部“一小片地區”撤出，範圍只佔相關區域的“幾個百分點”。報道稱，相關撤軍計劃是美國推動的一項方案的一部分。根據該方案，美軍將訓練黎巴嫩軍隊，以提升其部署和管控能力，並確認進入以軍撤出區域的人員屬於黎巴嫩軍隊，而非真主黨武裝。報道說，以色列政府據稱已向以軍下達正式指示：以軍可在“黃線”以內自由行動，並可為阻止即時威脅採取行動，但不得在貝魯特、提爾等更遠地區展開行動。《以色列時報》此前報道稱，美國近來對以色列政府和以軍在多條戰線上的限制正不斷加強。以色列總理內塔尼亞胡、國防部長卡茨和國防軍總參謀長扎米爾22日在一份聯合宣告中再次稱，以軍將繼續在黎巴嫩南部開展軍事行動以應對“安全威脅”，同時維持以方在黎南部控制的所謂“安全區”。（新華社）"
-    },
-    {
-      "id": "mkt:019ef8c9-9155-7dd8-b0f3-3cb6390cd09e",
-      "time": "2026-06-24 16:40:19",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Greater China",
-        "CSI300",
-        "Impact bullish",
-        "SSE Composite"
-      ],
-      "text": "【Ernst & Young: A-share IPOs averaged 233% first-day return in 1H 2026, highest in five years】Ernst & Young's China mainland and Hong Kong IPO market report says 1H 2026 A-share market saw a notable valuation rebound amid an improved macro backdrop and stronger investor confidence, with P/E ratios higher than a year earlier. The A-share IPO market recorded no listings that opened below issue price and posted an average first-day return of 233%, the strongest in five years."
-    },
-    {
-      "id": "mkt:019ef8c9-69d9-7dd8-b0f3-346e0666ce3b",
-      "time": "2026-06-24 16:40:09",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "Chip Wars",
-        "000660.KS",
-        "Impact bullish"
-      ],
-      "text": "【SK Hynix to pursue Nasdaq DR offering to raise about $29.4 bln】SK Hynix plans to issue depositary receipts on Nasdaq to raise 45.45 trillion won (about $29.4 bln), with trading expected to begin July 10. The deal is led by Bank of America, CITIGROUP, Goldman and JP Morgan. SK Hynix, Samsung Electronics and Micron are the three HBM suppliers seen as a key bottleneck for data center expansion; Counterpoint Research estimates SK Hynix held a 57% global revenue share in Q4 2025. The company’s valuation remains below Micron and Samsung; strong storage-chip demand has driven SK Hynix’s Korean shares up over 300% YTD. A U.S. listing would broaden the investor base and could help narrow its valuation gap with peers."
-    },
-    {
-      "id": "4952230",
-      "time": "2026-06-24 16:39:59",
-      "tags": [
-        "公司"
-      ],
-      "text": "【中汽協：1-5月銷量排名前十MPV生產企業銷量合計31.3萬輛】據中國汽車工業協會統計分析，2026年1-5月，銷量排名前十位的MPV生產企業共銷售31.3萬輛，佔MPV銷售總量的81%。在上述十家企業中，與去年同期相比，長城汽車、吉利汽車和東風公司銷量呈不同程度增長，其他企業銷量均呈不同程度下降。"
-    },
-    {
-      "id": "4952229",
-      "time": "2026-06-24 16:39:32",
-      "tags": [
-        "公司"
-      ],
-      "text": "【順發恆能：擬投資約2.05億元建設河南新鄉儲能專案】順發恆能公告，擬投資約2.05億元建設河南新鄉儲能專案。專案主要建設內容和規模為在河南省新鄉市建設儲能電站，規模100MW/200MWh，儲能電池採用磷酸鐵鋰電池，儲能站電池系統及功率變換系統均採使用者外集裝箱佈置方案。專案建設期約5個月，資金來源為自有資金。"
-    },
-    {
-      "id": "mkt:019ef8c8-d550-7dd8-b0f3-2b90a291de45",
-      "time": "2026-06-24 16:39:31",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Germany's defense ministry said it plans to procure eight MEKO-class frigates."
-    },
-    {
-      "id": "4952228",
-      "time": "2026-06-24 16:39:26",
-      "tags": [
-        "國際"
-      ],
-      "text": "【阿聯酋石油出口量已恢復至阿布扎比衝突前水平的 85%】據報道，阿聯酋石油出口量已恢復至阿布扎比衝突前水平的 85%，這表明海灣地區原油運輸正快速恢復正常。此次復甦說明，儘管近期中東地緣局勢緊張，但當地能源基礎設施與出口物流體系依舊具備韌性。阿聯酋出口量提升增加了全球原油供應，有助於緩解市場對該地區原油供應可能中斷的擔憂。"
-    },
-    {
-      "id": "4952227",
-      "time": "2026-06-24 16:39:24",
-      "tags": [],
-      "text": "【近3年回報超116％！創業板50ETF華安（159949）成交18.75億領跑同類 機構：本輪成長產業行情仍有較大空間】6月24日，市場全天低開高走，深成指、創業板指漲超1％。受此帶動，創業板50ETF華安（159949）漲1.09％，報2.049元，換手率7.40％，成交額18.75億元，居同類標的ETF首位。資金流向上，創業板50ETF華安（159949）呈現“由出轉入”的積極變化。近60給交易日資金淨流出24.9億元，近20個交易日資金淨流出2.9億元，但近10個交易日資金淨流入7.1億元，近5個交易日資金淨流入8.4億元。截至2026年6月23日，該ETF流通規模252.72億元。訊息面上，第十七屆夏季達沃斯論壇釋出《2026年十大新興技術》報告，萬物互聯電網、直接提鋰技術、被動輻射冷卻材料等入選最值得關注的十大突破性技術。與會嘉賓表示，中國完備產業生態將持續為新技術落地提供廣闊空間，為全球經濟增長帶來新機遇。華安證券策略認為，市場波動劇烈，“是降溫而非拐點”、“是機會而非風險”。短期調整風險有限且可控，中期上漲趨勢不變，因此短期的任何波動調整都提供了入局良機。財信證券研報指出，短期內，須把握好風格層面的輪動節奏。雖然目前市場處於風格再平衡過程中，但從中期來看，AI產業高景氣趨勢仍在延續，隨著海外科技巨頭半年報在7月中旬至8月底陸續披露，屆時AI科技方向定價邏輯仍將重回基本面及業績驅動邏輯。投資者可直接透過股票賬戶交易創業板50ETF華安（159949），也可透過聯接基金（A類：160422；C類：160424；I類：022654；Y類：022976）參與。"
     }
   ]
 }
