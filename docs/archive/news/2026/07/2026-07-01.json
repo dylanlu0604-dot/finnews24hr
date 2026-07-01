@@ -1,7 +1,61 @@
 {
   "date": "2026-07-01",
-  "count": 1434,
+  "count": 1439,
   "items": [
+    {
+      "id": "4964323",
+      "time": "2026-07-01 14:18:19",
+      "tags": [
+        "觀點",
+        "國際"
+      ],
+      "text": "【小摩：歐車企跟進“以鋁代銅”浪潮 今年或衝擊全球2%銅需求】摩根大通稱，繼特斯拉及中國電動汽車車企掀起“以鋁代銅”浪潮後，歐洲傳統車企的此番集體轉身，標誌著整個汽車工業迎來了顛覆性的材料供應鏈轉移。據預測，僅在今年，這一趨勢就將直接衝擊全球約2%的銅消費需求。全球第二大電纜製造商Nexans高管表示，由於銅在某些應用中效能更優，製造商仍會以更高價格購買銅——但當銅價達到鋁價約3.5倍時，他們就會開始採購鋁。目前，銅價約是鋁價的4.2倍以上。"
+    },
+    {
+      "id": "mkt:019f1c53-b244-7aab-8c4c-ec5b4a2886b0",
+      "time": "2026-07-01 14:17:54",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bearish",
+        "Hang Seng Index",
+        "SSE Composite"
+      ],
+      "text": "China A-share semiconductor-equipment stocks extended afternoon losses; Hengyunchang fell more than 13%, with Xinyuan Micro, Shengmei Shanghai, Fuchuang Precision and Jingsheng shares also declining."
+    },
+    {
+      "id": "4964322",
+      "time": "2026-07-01 14:17:44",
+      "tags": [
+        "公司"
+      ],
+      "text": "【半導體裝置板塊短線走低，恆運昌跌超13%】半導體裝置板塊短線走低，恆運昌跌超13%，芯源微、盛美上海、富創精密、晶升股份等跟跌。"
+    },
+    {
+      "id": "mkt:019f1c51-ec92-7aab-8c4c-e1373d8941a9",
+      "time": "2026-07-01 14:15:58",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent",
+        "DXY"
+      ],
+      "text": "Saudi state TV cited a senior government official saying US negotiators Jared Kushner and Witkoff held constructive talks with Qatari regional leaders, and technical talks with Iran are advancing."
+    },
+    {
+      "id": "4964321",
+      "time": "2026-07-01 14:15:40",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "滬深兩市成交額超3.2萬億元，較上日此時放量3953億元。"
+    },
     {
       "id": "te:markets:563287",
       "time": "2026-07-01 14:14:35",
