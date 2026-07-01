@@ -1,7 +1,61 @@
 {
-  "updated": "2026-07-01 09:22:17",
-  "count": 13967,
+  "updated": "2026-07-01 09:26:11",
+  "count": 13968,
   "items": [
+    {
+      "id": "mkt:019f1b47-ecec-7aab-8c47-8333b62c3595",
+      "time": "2026-07-01 09:25:26",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "A-shares opened: Shanghai Composite Index down 0.09%, Shenzhen Composite Index up 0.13%, ChiNext Index down 0.15%."
+    },
+    {
+      "id": "4963933",
+      "time": "2026-07-01 09:25:23",
+      "tags": [],
+      "text": "三大股指開盤漲跌不一，滬指跌0.09％，深成指漲0.13％，創業板跌0.15％。"
+    },
+    {
+      "id": "em:qqyh_zgyh:202607013789260476",
+      "time": "2026-07-01 09:23:00",
+      "tags": [
+        "央行",
+        "中國央行"
+      ],
+      "text": "央行今日開展1000億元7天逆回購操作，操作利率為1.40%，與此前持平。"
+    },
+    {
+      "id": "4963932",
+      "time": "2026-07-01 09:22:35",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "央行公開市場今日淨回籠11,625.0億元人民幣。"
+    },
+    {
+      "id": "4963931",
+      "time": "2026-07-01 09:22:26",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "央行今日開展1000億元7天逆回購操作，投標量1000億元，中標量1000億元，操作利率為1.40%，與此前持平。"
+    },
+    {
+      "id": "mkt:019f1b44-a687-7aab-8c47-7d366ebf1a5c",
+      "time": "2026-07-01 09:21:51",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "CNH"
+      ],
+      "text": "PBOC conducted a CNY100 billion 7-day reverse repo today; bids CNY100 billion, allotment CNY100 billion, rate 1.40%, unchanged."
+    },
     {
       "id": "mkt:019f1b44-7c43-7aab-8c47-73dce8402794",
       "time": "2026-07-01 09:21:40",
@@ -128309,53 +128363,6 @@
         "CSI300"
       ],
       "text": "At the open on Wednesday, June 24, China's Shanghai Composite Index fell 16.15 pts (-0.39%) to 4,090.10; Shenzhen Composite Index fell 71.80 pts (-0.45%) to 15,782.40; CSI 300 Index fell 19.00 pts (-0.39%) to 4,900.38; ChiNext Index fell 10.29 pts (-0.25%) to 4,181.91; STAR 50 Index fell 19.87 pts (-1.04%) to 1,896.34."
-    },
-    {
-      "id": "4951443",
-      "time": "2026-06-24 09:25:52",
-      "tags": [
-        "市場"
-      ],
-      "text": "仙工智慧香港首日掛牌開盤報101.6港元，與招股價持平。"
-    },
-    {
-      "id": "mkt:019ef73b-884a-7dd8-b0e7-17d3654785a6",
-      "time": "2026-06-24 09:25:34",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Greater China",
-        "SSE Composite",
-        "Impact bearish",
-        "SZSE Component"
-      ],
-      "text": "A-shares at the open: Shanghai Composite down 0.39%, Shenzhen Composite down 0.45%, ChiNext Index down 0.25%. New listing N Zhenbao surged 905% on its first day."
-    },
-    {
-      "id": "4951442",
-      "time": "2026-06-24 09:25:26",
-      "tags": [
-        "焦點"
-      ],
-      "text": "三大股指低開，滬指跌0.39％，深成指跌0.45％，創業板跌0.25％。"
-    },
-    {
-      "id": "4951441",
-      "time": "2026-06-24 09:24:35",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "馬來西亞央行就外匯流入發表評論後，林吉特跌幅收窄。"
-    },
-    {
-      "id": "4951440",
-      "time": "2026-06-24 09:23:41",
-      "tags": [
-        "市場"
-      ],
-      "text": "【港股醫藥股走強 和譽漲近5%】截至發稿，和譽-B(02256.HK)漲4.67%，銀諾醫藥-B(02591.HK)漲4.27%，康諾亞-B(02162.HK)漲3.39%，再鼎醫藥(09688.HK)漲2.88%。"
     }
   ]
 }
