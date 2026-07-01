@@ -1,7 +1,29 @@
 {
   "date": "2026-07-02",
-  "count": 313,
+  "count": 315,
   "items": [
+    {
+      "id": "mkt:019f1f84-b112-7aab-8c66-70e691502ed8",
+      "time": "2026-07-02 05:10:17",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Industrial Metals",
+        "Copper",
+        "Impact bearish",
+        "BHP.N",
+        "Impact bullish"
+      ],
+      "text": "BHP (BHP.N) has submitted an environmental permit application and plans to invest $1.5 bln to restart the Cerro Colorado copper mine in Chile."
+    },
+    {
+      "id": "4965945",
+      "time": "2026-07-02 05:08:25",
+      "tags": [
+        "其他"
+      ],
+      "text": "必和必拓稱已提交環境許可申請，擬投資15億美元重啟智利塞羅科羅拉多銅礦。"
+    },
     {
       "id": "te:economy:563541",
       "time": "2026-07-02 04:54:37",
