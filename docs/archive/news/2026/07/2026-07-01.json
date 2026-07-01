@@ -1,7 +1,192 @@
 {
   "date": "2026-07-01",
-  "count": 2503,
+  "count": 2525,
   "items": [
+    {
+      "id": "mkt:019f1d5a-6cca-7aab-8c55-9191a8a29c76",
+      "time": "2026-07-01 19:04:53",
+      "tags": [
+        "MKT News",
+        "GOOGL.O",
+        "Impact bearish"
+      ],
+      "text": "Swedish court orders Google to pay about SEK 14.3 billion in antitrust damages to Pricerunner, which is owned by Klarna."
+    },
+    {
+      "id": "mkt:019f1d5a-4241-7aab-8c55-8d66f0d44c3f",
+      "time": "2026-07-01 19:04:42",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Global Chip LOF will suspend trading from market open on July 2, 2026 and resume trading at 10:30 on July 2, 2026. Redemption requests will be processed normally during the suspension."
+    },
+    {
+      "id": "4965067",
+      "time": "2026-07-01 19:04:38",
+      "tags": [
+        "其他"
+      ],
+      "text": "全球晶片LOF：將於2026年7月2日開市起停牌,自2026年7月2日10:30起復牌，停牌期間本基金贖回業務照常辦理。"
+    },
+    {
+      "id": "4965066",
+      "time": "2026-07-01 19:04:22",
+      "tags": [
+        "公司"
+      ],
+      "text": "瑞典法院裁定，谷歌需向Klarna旗下價格對比網站Priceruner支付約合143億瑞典克朗的反壟斷損害賠償金。"
+    },
+    {
+      "id": "mkt:019f1d59-f196-7aab-8c55-84c4773cd588",
+      "time": "2026-07-01 19:04:21",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "China's Caitong Fuxin scheduled-open mixed fund will suspend trading from market open on July 2, 2026 until 10:30 local time."
+    },
+    {
+      "id": "mkt:019f1d59-efa7-7aab-8c55-7b622b4b4291",
+      "time": "2026-07-01 19:04:21",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "USGS reports a magnitude 5.6 earthquake 224 km south of Suva, Fiji."
+    },
+    {
+      "id": "4965065",
+      "time": "2026-07-01 19:04:19",
+      "tags": [
+        "市場"
+      ],
+      "text": "財通福鑫定開混合：將於2026年7月2日開盤起至當日10:30停牌。"
+    },
+    {
+      "id": "4965064",
+      "time": "2026-07-01 19:04:03",
+      "tags": [
+        "其他"
+      ],
+      "text": "德國監管機構對瓦爾塔處以62萬歐元罰款。"
+    },
+    {
+      "id": "4965063",
+      "time": "2026-07-01 19:03:49",
+      "tags": [
+        "其他"
+      ],
+      "text": "通用磨坊：預計2027財年將累計實現至少7.5億美元的總成本節約。"
+    },
+    {
+      "id": "4965062",
+      "time": "2026-07-01 19:03:43",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國地質調查局：斐濟蘇瓦以南224公里處發生5.6級地震。"
+    },
+    {
+      "id": "4965061",
+      "time": "2026-07-01 19:03:31",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "英國國家電網風險投資公司擬投資17.5億美元，加速為美國資料中心和人工智慧提供電力解決方案，英國國家電網將獲得Joulent公司35%的股權。"
+    },
+    {
+      "id": "te:markets:563417",
+      "time": "2026-07-01 19:02:52",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Brent Crude Oil Extends Decline — Brent crude oil fell to around $72 per barrel on Wednesday, the lowest since February 27, as traders assessed ongoing US–Iran peace negotiations and a gradual recovery in shipping through the Strait of Hormuz. US negotiators Jared Kushner and Steve Witkoff held constructive talks in Qatar, with a senior administration official saying technical discussions with Iran are advancing as part of indirect efforts to reduce tensions over the key waterway linking Persian Gulf producers to global markets. Tanker flows are showing tentative improvement following exchanges of strikes over the weekend, but remain below pre-war levels. At the same time, Iranian exports surged past 40 million barrels following the removal of a US naval blockade, while record-breaking Russian shipments have caused a notable accumulation of seaborne inventory. However, Tehran continued to insist on maritime administrative control over the strait."
+    },
+    {
+      "id": "4965060",
+      "time": "2026-07-01 19:02:29",
+      "tags": [
+        "其他"
+      ],
+      "text": "通用磨坊展望財年調整後每股收益增長3%至3.2%。"
+    },
+    {
+      "id": "4965059",
+      "time": "2026-07-01 19:02:17",
+      "tags": [
+        "公司"
+      ],
+      "text": "【立訊精密：立訊轉債轉股價格調整為55.86元/股】立訊精密公告，因公司2021年及2022年股票期權激勵計劃行權導致總股本增加，根據《募集說明書》約定，“立訊轉債”轉股價格由調整前的55.97元/股調整為55.86元/股，轉股價格調整起始日期為2026年7月2日。2026年3月31日至6月30日期間，公司2021年股票期權激勵計劃首次授予及預留授予激勵物件合計行權748.3萬股（佔總股本0.1022%），2022年股票期權激勵計劃授予激勵物件合計行權2537.96萬股（佔總股本0.3468%）。"
+    },
+    {
+      "id": "4965058",
+      "time": "2026-07-01 19:01:55",
+      "tags": [
+        "其他"
+      ],
+      "text": "通用磨坊：2027財年的重點是透過推動品牌顯著性的階段性變革，來提升營收增長。"
+    },
+    {
+      "id": "4965057",
+      "time": "2026-07-01 19:01:43",
+      "tags": [
+        "其他"
+      ],
+      "text": "SUPERX與TFC攜手構建全球AI光互連核心生態，戰略合資專案全面啟動。"
+    },
+    {
+      "id": "4965056",
+      "time": "2026-07-01 19:01:36",
+      "tags": [
+        "公司"
+      ],
+      "text": "【永貴電器：擬3314.45萬元收購永貴博得31.0001%股權】永貴電器公告，公司以現金3314.45萬元收購經投公司持有的永貴博得31.0001%股權。本次交易完成後，公司持有永貴博得股權比例將由68.9999%增加至100%，永貴博得將成為公司全資子公司。"
+    },
+    {
+      "id": "4965055",
+      "time": "2026-07-01 19:01:35",
+      "tags": [
+        "其他"
+      ],
+      "text": "諾和諾德：符合條件的聯邦醫療保險參保患者現在可按月自付50美元購得Wegovy（司美格魯肽減重注射劑）。"
+    },
+    {
+      "id": "te:markets:563415",
+      "time": "2026-07-01 19:01:24",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 2"
+      ],
+      "text": "Oil Falls Further After Peace Talks — Crude oil fell below $69 per barrel on Wednesday, the lowest since February 27, as traders assessed ongoing US–Iran peace negotiations and a gradual recovery in shipping through the Strait of Hormuz. US negotiators Jared Kushner and Steve Witkoff held constructive talks in Qatar, with a senior administration official saying technical discussions with Iran are advancing as part of indirect efforts to reduce tensions over the key waterway linking Persian Gulf producers to global markets. Tanker flows are showing tentative improvement following exchanges of strikes over the weekend, but remain below pre-war levels. At the same time, Iranian exports surged past 40 million barrels following the removal of a US naval blockade, while record-breaking Russian shipments have caused a notable accumulation of seaborne inventory. However, Tehran continued to insist on maritime administrative control over the strait."
+    },
+    {
+      "id": "mkt:019f1d57-24a8-7aab-8c55-74fc6c85bef0",
+      "time": "2026-07-01 19:01:17",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Pakistan's KSE-100 index closed 2.3% higher at 184,222.90."
+    },
+    {
+      "id": "mkt:019f1d57-21eb-7aab-8c55-68afaf8200ea",
+      "time": "2026-07-01 19:01:17",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Market sources: UK's National Grid invests $1.75 bln in US AI energy company Jouleent."
+    },
+    {
+      "id": "4965054",
+      "time": "2026-07-01 19:01:00",
+      "tags": [
+        "其他"
+      ],
+      "text": "富時羅素（FactSet）重申2026財年指引，其中包括有機年度訂閱價值增長區間為1.3億至1.6億美元。"
+    },
     {
       "id": "mkt:019f1d56-40df-7aab-8c55-652509fc434a",
       "time": "2026-07-01 19:00:19",

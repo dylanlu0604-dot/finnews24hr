@@ -1,7 +1,192 @@
 {
-  "updated": "2026-07-01 19:01:35",
-  "count": 13969,
+  "updated": "2026-07-01 19:05:34",
+  "count": 13976,
   "items": [
+    {
+      "id": "mkt:019f1d5a-6cca-7aab-8c55-9191a8a29c76",
+      "time": "2026-07-01 19:04:53",
+      "tags": [
+        "MKT News",
+        "GOOGL.O",
+        "Impact bearish"
+      ],
+      "text": "Swedish court orders Google to pay about SEK 14.3 billion in antitrust damages to Pricerunner, which is owned by Klarna."
+    },
+    {
+      "id": "mkt:019f1d5a-4241-7aab-8c55-8d66f0d44c3f",
+      "time": "2026-07-01 19:04:42",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Global Chip LOF will suspend trading from market open on July 2, 2026 and resume trading at 10:30 on July 2, 2026. Redemption requests will be processed normally during the suspension."
+    },
+    {
+      "id": "4965067",
+      "time": "2026-07-01 19:04:38",
+      "tags": [
+        "其他"
+      ],
+      "text": "全球晶片LOF：將於2026年7月2日開市起停牌,自2026年7月2日10:30起復牌，停牌期間本基金贖回業務照常辦理。"
+    },
+    {
+      "id": "4965066",
+      "time": "2026-07-01 19:04:22",
+      "tags": [
+        "公司"
+      ],
+      "text": "瑞典法院裁定，谷歌需向Klarna旗下價格對比網站Priceruner支付約合143億瑞典克朗的反壟斷損害賠償金。"
+    },
+    {
+      "id": "mkt:019f1d59-f196-7aab-8c55-84c4773cd588",
+      "time": "2026-07-01 19:04:21",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "China's Caitong Fuxin scheduled-open mixed fund will suspend trading from market open on July 2, 2026 until 10:30 local time."
+    },
+    {
+      "id": "mkt:019f1d59-efa7-7aab-8c55-7b622b4b4291",
+      "time": "2026-07-01 19:04:21",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "USGS reports a magnitude 5.6 earthquake 224 km south of Suva, Fiji."
+    },
+    {
+      "id": "4965065",
+      "time": "2026-07-01 19:04:19",
+      "tags": [
+        "市場"
+      ],
+      "text": "財通福鑫定開混合：將於2026年7月2日開盤起至當日10:30停牌。"
+    },
+    {
+      "id": "4965064",
+      "time": "2026-07-01 19:04:03",
+      "tags": [
+        "其他"
+      ],
+      "text": "德國監管機構對瓦爾塔處以62萬歐元罰款。"
+    },
+    {
+      "id": "4965063",
+      "time": "2026-07-01 19:03:49",
+      "tags": [
+        "其他"
+      ],
+      "text": "通用磨坊：預計2027財年將累計實現至少7.5億美元的總成本節約。"
+    },
+    {
+      "id": "4965062",
+      "time": "2026-07-01 19:03:43",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國地質調查局：斐濟蘇瓦以南224公里處發生5.6級地震。"
+    },
+    {
+      "id": "4965061",
+      "time": "2026-07-01 19:03:31",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "英國國家電網風險投資公司擬投資17.5億美元，加速為美國資料中心和人工智慧提供電力解決方案，英國國家電網將獲得Joulent公司35%的股權。"
+    },
+    {
+      "id": "te:markets:563417",
+      "time": "2026-07-01 19:02:52",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Brent Crude Oil Extends Decline — Brent crude oil fell to around $72 per barrel on Wednesday, the lowest since February 27, as traders assessed ongoing US–Iran peace negotiations and a gradual recovery in shipping through the Strait of Hormuz. US negotiators Jared Kushner and Steve Witkoff held constructive talks in Qatar, with a senior administration official saying technical discussions with Iran are advancing as part of indirect efforts to reduce tensions over the key waterway linking Persian Gulf producers to global markets. Tanker flows are showing tentative improvement following exchanges of strikes over the weekend, but remain below pre-war levels. At the same time, Iranian exports surged past 40 million barrels following the removal of a US naval blockade, while record-breaking Russian shipments have caused a notable accumulation of seaborne inventory. However, Tehran continued to insist on maritime administrative control over the strait."
+    },
+    {
+      "id": "4965060",
+      "time": "2026-07-01 19:02:29",
+      "tags": [
+        "其他"
+      ],
+      "text": "通用磨坊展望財年調整後每股收益增長3%至3.2%。"
+    },
+    {
+      "id": "4965059",
+      "time": "2026-07-01 19:02:17",
+      "tags": [
+        "公司"
+      ],
+      "text": "【立訊精密：立訊轉債轉股價格調整為55.86元/股】立訊精密公告，因公司2021年及2022年股票期權激勵計劃行權導致總股本增加，根據《募集說明書》約定，“立訊轉債”轉股價格由調整前的55.97元/股調整為55.86元/股，轉股價格調整起始日期為2026年7月2日。2026年3月31日至6月30日期間，公司2021年股票期權激勵計劃首次授予及預留授予激勵物件合計行權748.3萬股（佔總股本0.1022%），2022年股票期權激勵計劃授予激勵物件合計行權2537.96萬股（佔總股本0.3468%）。"
+    },
+    {
+      "id": "4965058",
+      "time": "2026-07-01 19:01:55",
+      "tags": [
+        "其他"
+      ],
+      "text": "通用磨坊：2027財年的重點是透過推動品牌顯著性的階段性變革，來提升營收增長。"
+    },
+    {
+      "id": "4965057",
+      "time": "2026-07-01 19:01:43",
+      "tags": [
+        "其他"
+      ],
+      "text": "SUPERX與TFC攜手構建全球AI光互連核心生態，戰略合資專案全面啟動。"
+    },
+    {
+      "id": "4965056",
+      "time": "2026-07-01 19:01:36",
+      "tags": [
+        "公司"
+      ],
+      "text": "【永貴電器：擬3314.45萬元收購永貴博得31.0001%股權】永貴電器公告，公司以現金3314.45萬元收購經投公司持有的永貴博得31.0001%股權。本次交易完成後，公司持有永貴博得股權比例將由68.9999%增加至100%，永貴博得將成為公司全資子公司。"
+    },
+    {
+      "id": "4965055",
+      "time": "2026-07-01 19:01:35",
+      "tags": [
+        "其他"
+      ],
+      "text": "諾和諾德：符合條件的聯邦醫療保險參保患者現在可按月自付50美元購得Wegovy（司美格魯肽減重注射劑）。"
+    },
+    {
+      "id": "te:markets:563415",
+      "time": "2026-07-01 19:01:24",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 2"
+      ],
+      "text": "Oil Falls Further After Peace Talks — Crude oil fell below $69 per barrel on Wednesday, the lowest since February 27, as traders assessed ongoing US–Iran peace negotiations and a gradual recovery in shipping through the Strait of Hormuz. US negotiators Jared Kushner and Steve Witkoff held constructive talks in Qatar, with a senior administration official saying technical discussions with Iran are advancing as part of indirect efforts to reduce tensions over the key waterway linking Persian Gulf producers to global markets. Tanker flows are showing tentative improvement following exchanges of strikes over the weekend, but remain below pre-war levels. At the same time, Iranian exports surged past 40 million barrels following the removal of a US naval blockade, while record-breaking Russian shipments have caused a notable accumulation of seaborne inventory. However, Tehran continued to insist on maritime administrative control over the strait."
+    },
+    {
+      "id": "mkt:019f1d57-24a8-7aab-8c55-74fc6c85bef0",
+      "time": "2026-07-01 19:01:17",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Pakistan's KSE-100 index closed 2.3% higher at 184,222.90."
+    },
+    {
+      "id": "mkt:019f1d57-21eb-7aab-8c55-68afaf8200ea",
+      "time": "2026-07-01 19:01:17",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Market sources: UK's National Grid invests $1.75 bln in US AI energy company Jouleent."
+    },
+    {
+      "id": "4965054",
+      "time": "2026-07-01 19:01:00",
+      "tags": [
+        "其他"
+      ],
+      "text": "富時羅素（FactSet）重申2026財年指引，其中包括有機年度訂閱價值增長區間為1.3億至1.6億美元。"
+    },
     {
       "id": "mkt:019f1d56-40df-7aab-8c55-652509fc434a",
       "time": "2026-07-01 19:00:19",
@@ -128521,136 +128706,6 @@
         "市場"
       ],
       "text": "紐約期金日內跌2%，現報4065.98美元/盎司。"
-    },
-    {
-      "id": "4952597",
-      "time": "2026-06-24 19:05:04",
-      "tags": [
-        "公司"
-      ],
-      "text": "【肇民科技：向不特定物件發行可轉換公司債券申請獲得同意註冊批覆】肇民科技公告，公司於近日收到中國證券監督管理委員會出具的《關於同意上海肇民新材料科技股份有限公司向不特定物件發行可轉換公司債券註冊的批覆》（證監許可[2026]1493號），同意公司向不特定物件發行可轉換公司債券的註冊申請。公司本次發行應嚴格按照報送深圳證券交易所的申報檔案和發行方案實施。本批覆自同意註冊之日起12個月內有效。"
-    },
-    {
-      "id": "4952596",
-      "time": "2026-06-24 19:04:27",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【三安光電：股票交易異常波動 控股股東或面臨破產重整】三安光電公告稱，公司股票於2026年6月22 - 24日連續三個交易日內收盤價格漲幅偏離值累計達20%，屬異常波動情形。2026年一季度，公司營收29.07億元，同比降32.59%；淨利潤6749.22萬元，同比降68.15%；扣非淨虧損1.79億元，同比降339.68%。目前生產經營正常，無未披露重大事項。此外，公司實控人被留置，控股股東及間接控股股東部分股份被凍結、拍賣，債權人已申請破產重整，或影響股權結構及控制權，提醒投資者注意風險。"
-    },
-    {
-      "id": "4952595",
-      "time": "2026-06-24 19:04:03",
-      "tags": [
-        "國際"
-      ],
-      "text": "印度儲備銀行：要求受監管實體建立經董事會批准的模型風險管理框架，適用於包括人工智慧/機器學習模型在內的所有模型。"
-    },
-    {
-      "id": "4952594",
-      "time": "2026-06-24 19:03:58",
-      "tags": [
-        "國際"
-      ],
-      "text": "中韓半導體ETF華泰柏瑞(513310)：本基金將於2026年6月25日開市起至當日10:30停牌。"
-    },
-    {
-      "id": "mkt:019ef94d-1576-7dd8-b0f6-a2bcf274e6fb",
-      "time": "2026-06-24 19:03:58",
-      "tags": [
-        "MKT News",
-        "513310.SS"
-      ],
-      "text": "Trading in China-Korea Semiconductor ETF Huatai-PineBridge (513310) will be suspended from market open on June 25, 2026 until 10:30 a.m. local time."
-    },
-    {
-      "id": "4952593",
-      "time": "2026-06-24 19:03:34",
-      "tags": [
-        "國際"
-      ],
-      "text": "印度儲備銀行：相關提案適用於受監管實體使用的所有模型，包括第三方模型及採用人工智慧/機器學習的模型。"
-    },
-    {
-      "id": "4952592",
-      "time": "2026-06-24 19:03:29",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【雲南鍺業：股價異常波動 市盈率顯著高於行業均值】雲南鍺業公告稱，公司股票在2026年6月22日至24日連續三個交易日收盤價格漲幅偏離值累計超20%，屬異常波動。公司市盈率和市淨率顯著高於同行業平均水平，2025年度歸母淨利潤2014.60萬元，同比降62.06%；扣非淨利潤虧損680.67萬元，同比降126.02%。2026年一季度歸母淨利潤910.71萬元，同比降10.71%；扣非淨利潤484.70萬元，同比降32.14%。公司提醒投資者注意交易風險。"
-    },
-    {
-      "id": "mkt:019ef94c-850e-7dd8-b0f6-9c0b2a738017",
-      "time": "2026-06-24 19:03:21",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Invesco Great Wall Global Chip LOF (501225) will suspend trading from market open on 25 June 2026 and will resume at 10:30 on 25 June 2026. Redemption requests will be processed normally during the suspension."
-    },
-    {
-      "id": "4952591",
-      "time": "2026-06-24 19:03:13",
-      "tags": [
-        "其他"
-      ],
-      "text": "景順長城全球晶片LOF(501225)：本基金將於2026年6月25日開市起停牌,自2026年6月25日10:30起復牌，停牌期間本基金贖回業務照常辦理。"
-    },
-    {
-      "id": "4952590",
-      "time": "2026-06-24 19:03:01",
-      "tags": [
-        "觀點"
-      ],
-      "text": "摩根大通：下調2026年下半年和2027年布倫特原油前景，預計布倫特原油在2026年第三季度平均價格為86美元/桶，第四季度為80美元/桶，2026年末為78美元/桶，2027年平均價格為64美元/桶。"
-    },
-    {
-      "id": "mkt:019ef94c-34f3-7dd8-b0f6-941f41e011fc",
-      "time": "2026-06-24 19:03:01",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Energy",
-        "Brent",
-        "Impact bearish",
-        "WTI"
-      ],
-      "text": "JP Morgan cuts its Brent crude outlook for H2 2026 and 2027, forecasting Brent at $86/bbl in Q3 2026, $80/bbl in Q4, $78/bbl at end-2026 and an average of $64/bbl in 2027."
-    },
-    {
-      "id": "4952589",
-      "time": "2026-06-24 19:02:57",
-      "tags": [
-        "國際"
-      ],
-      "text": "印度儲備銀行：就人工智慧/機器學習模型使用引發的風險管理擬出指引草案。"
-    },
-    {
-      "id": "4952588",
-      "time": "2026-06-24 19:02:08",
-      "tags": [
-        "公司"
-      ],
-      "text": "【芯碁微裝：H股發行價格確定為每股252.73港元】芯碁微裝(688630.SH)公告稱，公司確定本次H股發行的最終價格為每股252.73港元(不包括相關交易費用)，預計H股將於2026年6月26日在香港聯交所主機板掛牌上市。"
-    },
-    {
-      "id": "mkt:019ef94b-52fe-7dd8-b0f6-8c32daa8a14e",
-      "time": "2026-06-24 19:02:03",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Iran foreign ministry: no plans to allow IAEA inspections of nuclear facilities】Deputy Foreign Minister Garibabadi said on the 24th while in Switzerland that Iran did not meet with IAEA Director General GROSSI despite his request and has no plans to permit IAEA access to the attacked nuclear facility or nuclear material. He said such access would only be considered within a final agreement and only after the other side takes concrete steps to lift all sanctions."
-    },
-    {
-      "id": "em:jjsj_mgsj:202606243781557163",
-      "time": "2026-06-24 19:01:57",
-      "tags": [
-        "經濟數據",
-        "美國"
-      ],
-      "text": "【美國MBA抵押貸款申請指數上週上升1.0%】美國MBA抵押貸款申請指數上週上升1.0%，至272.1，上週為269.5。"
     }
   ]
 }
