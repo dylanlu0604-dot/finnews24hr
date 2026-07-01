@@ -1,7 +1,73 @@
 {
   "date": "2026-07-01",
-  "count": 1608,
+  "count": 1617,
   "items": [
+    {
+      "id": "4964437",
+      "time": "2026-07-01 15:24:33",
+      "tags": [
+        "公司"
+      ],
+      "text": "【英力股份：惠普的相關結構件，公司已開展樣品送樣認證工作】英力股份7月1日在互動平臺表示，惠普的相關結構件，公司已開展樣品送樣認證工作，目前處於客戶稽核階段，訂單尚未正式落地。"
+    },
+    {
+      "id": "4964436",
+      "time": "2026-07-01 15:24:08",
+      "tags": [
+        "公司"
+      ],
+      "text": "【“野生大V”退場、預算重構、自建生態……新規下基金營銷重寫“遊戲規則”】據記者觀察，目前，許多大中型基金公司已停止了與非持牌財經大V的合作。在9月30日《辦法》正式施行前的過渡期內，業界對“可以做”與“不能做”邊界的把握極其謹慎。多家基金公司向記者反饋，純粹的宏觀經濟分析、行業基礎知識普及等泛投教內容依然“可以做”，但任何帶有特定基金程式碼曝光、產品業績背書、引導開戶購買等營銷實質的行為絕對“不能做”，合規稽核已置於內容策劃的最前端。“以前拼誰家投放猛，現在拼誰家合規嚴。”滬上一位公募人士感慨道。記者從業內瞭解到，除了大部分已按下“暫停鍵”的基金公司，少數仍在對大V投放的公司源於三種原因：一是已簽訂年框，費用已經支付，需要把剩餘的資源消耗完畢；二是基金公司評估9月30日之後新規才落地，所以抓緊時間去做（這種行為仍是在“鑽空子”）；三是以純品牌、純投教的名義與大V合作。記者調查發現，目前市場上確實存在一批以此尋求合規“避風港”的自媒體，據粗略估算，有一定粉絲體量的頭部大V中，有兩到三成嘗試或已完成這種身份轉換，但這種模式的合規性隨著監管從嚴而大打折扣。（中國基金報）"
+    },
+    {
+      "id": "te:economy:563316",
+      "time": "2026-07-01 15:23:49",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Spain",
+        "Manufacturing PMI",
+        "Importance 2"
+      ],
+      "text": "Spain Manufacturing Sector Unexpectedly Contracts — The S&P Spain Manufacturing PMI fell to 49.7 in June 2026 from 51.2 in May, missing market expectations of 51 and signaling a minor contraction. This slowdown was heavily driven by a pronounced drop in new orders and export demand, as geopolitical uncertainty regarding the Middle East conflict prompted businesses to halt activity and delay key decisions. Consequently, manufacturers scaled back production for the first time in three months, though a minor buildup in warehouse inventories occurred for the first time in 19 months. In response to sluggish sales, companies modestly cut staffing levels and reduced purchasing activity. Meanwhile, the Middle East crisis continued to disrupt supply chains, causing significant shipping delays and component shortages. These disruptions pushed up supplier costs for fuel and raw materials, forcing manufacturers to implement their steepest output price hikes since October 2022 to preserve margins."
+    },
+    {
+      "id": "mkt:019f1c8f-dda6-7aab-8c4e-8b138850c3af",
+      "time": "2026-07-01 15:23:38",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "VOW3.DE",
+        "Impact bearish"
+      ],
+      "text": "BYD's special adviser for Europe said Volkswagen's job cuts are a wake-up call for the industry."
+    },
+    {
+      "id": "mkt:019f1c8f-b18f-7aab-8c4e-81c881e41194",
+      "time": "2026-07-01 15:23:26",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【Volkswagen Anhui June deliveries 2,423, up 120% YoY】Volkswagen Anhui delivered 2,423 vehicles in June, up 120% YoY, the Volkswagen Smart Electric Vehicle Center said."
+    },
+    {
+      "id": "4964435",
+      "time": "2026-07-01 15:22:47",
+      "tags": [
+        "公司"
+      ],
+      "text": "比亞迪歐洲市場特別顧問：大眾汽車裁員報道為行業敲響警鐘。"
+    },
+    {
+      "id": "4964434",
+      "time": "2026-07-01 15:22:26",
+      "tags": [
+        "其他"
+      ],
+      "text": "【大眾安徽6月交付2423輛，同比增長120%】7月1日，據大眾智慧電動汽車中心訊息，大眾安徽6月交付2423輛，同比增長120%。"
+    },
     {
       "id": "mkt:019f1c8e-a20f-7aab-8c4e-7eac0dffd188",
       "time": "2026-07-01 15:22:17",
@@ -9,6 +75,22 @@
         "MKT News"
       ],
       "text": "BYD's special adviser for the European market said EU regulations are increasingly complicating consumers' purchase decisions."
+    },
+    {
+      "id": "4964433",
+      "time": "2026-07-01 15:22:16",
+      "tags": [
+        "國際"
+      ],
+      "text": "比亞迪歐洲市場特別顧問：歐盟法規正令消費者的購車決策愈發困難。"
+    },
+    {
+      "id": "4964432",
+      "time": "2026-07-01 15:22:10",
+      "tags": [
+        "公司"
+      ],
+      "text": "【抖音今年已處置超34萬個直播間】抖音直播發布治理公告。2026年以來，平臺因違規誘導消費累計處置超34萬個直播間，10.4萬個賬號被採取梯度處罰。平臺重點處置誘導未成年人打賞、惡俗PK刺激消費、虛假悲情人設騙賞三類行為，4.4萬餘個賬號被回收直播許可權，涉違法犯罪線索將移交主管部門。"
     },
     {
       "id": "4964431",

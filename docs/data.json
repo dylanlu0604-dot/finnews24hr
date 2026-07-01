@@ -1,7 +1,73 @@
 {
-  "updated": "2026-07-01 15:22:44",
-  "count": 13820,
+  "updated": "2026-07-01 15:26:36",
+  "count": 13812,
   "items": [
+    {
+      "id": "4964437",
+      "time": "2026-07-01 15:24:33",
+      "tags": [
+        "公司"
+      ],
+      "text": "【英力股份：惠普的相關結構件，公司已開展樣品送樣認證工作】英力股份7月1日在互動平臺表示，惠普的相關結構件，公司已開展樣品送樣認證工作，目前處於客戶稽核階段，訂單尚未正式落地。"
+    },
+    {
+      "id": "4964436",
+      "time": "2026-07-01 15:24:08",
+      "tags": [
+        "公司"
+      ],
+      "text": "【“野生大V”退場、預算重構、自建生態……新規下基金營銷重寫“遊戲規則”】據記者觀察，目前，許多大中型基金公司已停止了與非持牌財經大V的合作。在9月30日《辦法》正式施行前的過渡期內，業界對“可以做”與“不能做”邊界的把握極其謹慎。多家基金公司向記者反饋，純粹的宏觀經濟分析、行業基礎知識普及等泛投教內容依然“可以做”，但任何帶有特定基金程式碼曝光、產品業績背書、引導開戶購買等營銷實質的行為絕對“不能做”，合規稽核已置於內容策劃的最前端。“以前拼誰家投放猛，現在拼誰家合規嚴。”滬上一位公募人士感慨道。記者從業內瞭解到，除了大部分已按下“暫停鍵”的基金公司，少數仍在對大V投放的公司源於三種原因：一是已簽訂年框，費用已經支付，需要把剩餘的資源消耗完畢；二是基金公司評估9月30日之後新規才落地，所以抓緊時間去做（這種行為仍是在“鑽空子”）；三是以純品牌、純投教的名義與大V合作。記者調查發現，目前市場上確實存在一批以此尋求合規“避風港”的自媒體，據粗略估算，有一定粉絲體量的頭部大V中，有兩到三成嘗試或已完成這種身份轉換，但這種模式的合規性隨著監管從嚴而大打折扣。（中國基金報）"
+    },
+    {
+      "id": "te:economy:563316",
+      "time": "2026-07-01 15:23:49",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Spain",
+        "Manufacturing PMI",
+        "Importance 2"
+      ],
+      "text": "Spain Manufacturing Sector Unexpectedly Contracts — The S&P Spain Manufacturing PMI fell to 49.7 in June 2026 from 51.2 in May, missing market expectations of 51 and signaling a minor contraction. This slowdown was heavily driven by a pronounced drop in new orders and export demand, as geopolitical uncertainty regarding the Middle East conflict prompted businesses to halt activity and delay key decisions. Consequently, manufacturers scaled back production for the first time in three months, though a minor buildup in warehouse inventories occurred for the first time in 19 months. In response to sluggish sales, companies modestly cut staffing levels and reduced purchasing activity. Meanwhile, the Middle East crisis continued to disrupt supply chains, causing significant shipping delays and component shortages. These disruptions pushed up supplier costs for fuel and raw materials, forcing manufacturers to implement their steepest output price hikes since October 2022 to preserve margins."
+    },
+    {
+      "id": "mkt:019f1c8f-dda6-7aab-8c4e-8b138850c3af",
+      "time": "2026-07-01 15:23:38",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "VOW3.DE",
+        "Impact bearish"
+      ],
+      "text": "BYD's special adviser for Europe said Volkswagen's job cuts are a wake-up call for the industry."
+    },
+    {
+      "id": "mkt:019f1c8f-b18f-7aab-8c4e-81c881e41194",
+      "time": "2026-07-01 15:23:26",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【Volkswagen Anhui June deliveries 2,423, up 120% YoY】Volkswagen Anhui delivered 2,423 vehicles in June, up 120% YoY, the Volkswagen Smart Electric Vehicle Center said."
+    },
+    {
+      "id": "4964435",
+      "time": "2026-07-01 15:22:47",
+      "tags": [
+        "公司"
+      ],
+      "text": "比亞迪歐洲市場特別顧問：大眾汽車裁員報道為行業敲響警鐘。"
+    },
+    {
+      "id": "4964434",
+      "time": "2026-07-01 15:22:26",
+      "tags": [
+        "其他"
+      ],
+      "text": "【大眾安徽6月交付2423輛，同比增長120%】7月1日，據大眾智慧電動汽車中心訊息，大眾安徽6月交付2423輛，同比增長120%。"
+    },
     {
       "id": "mkt:019f1c8e-a20f-7aab-8c4e-7eac0dffd188",
       "time": "2026-07-01 15:22:17",
@@ -9,6 +75,22 @@
         "MKT News"
       ],
       "text": "BYD's special adviser for the European market said EU regulations are increasingly complicating consumers' purchase decisions."
+    },
+    {
+      "id": "4964433",
+      "time": "2026-07-01 15:22:16",
+      "tags": [
+        "國際"
+      ],
+      "text": "比亞迪歐洲市場特別顧問：歐盟法規正令消費者的購車決策愈發困難。"
+    },
+    {
+      "id": "4964432",
+      "time": "2026-07-01 15:22:10",
+      "tags": [
+        "公司"
+      ],
+      "text": "【抖音今年已處置超34萬個直播間】抖音直播發布治理公告。2026年以來，平臺因違規誘導消費累計處置超34萬個直播間，10.4萬個賬號被採取梯度處罰。平臺重點處置誘導未成年人打賞、惡俗PK刺激消費、虛假悲情人設騙賞三類行為，4.4萬餘個賬號被回收直播許可權，涉違法犯罪線索將移交主管部門。"
     },
     {
       "id": "4964431",
@@ -126982,168 +127064,6 @@
         "國際"
       ],
       "text": "【中方回應拘留2名日籍員工】6月24日，外交部發言人郭嘉昆主持例行記者會。 日本共同社記者提問，據報道，中國政府5月在大連拘留了兩名日本籍員工，兩人是在出口稀土相關產品時被拘留的。這一事件與中國政府加強稀土出口限制有關係嗎？ 郭嘉昆表示，據瞭解，兩名日本人因違反中國法律被中方主管部門依法拘留，中方已向日方通報了有關個案情況。 “我們想強調的是，日方應教育提醒在華日本公民和企業遵守中國法律法規。”郭嘉昆說。（北京日報）"
-    },
-    {
-      "id": "4952040",
-      "time": "2026-06-24 15:26:35",
-      "tags": [
-        "其他"
-      ],
-      "text": "【漢朔科技與Tesco簽署多年戰略合作協議】近日，英國領先零售商Tesco宣佈與漢朔科技簽署多年戰略合作協議，將在其所有大型門店及便利店（約3000家門店）全面部署漢朔電子價籤解決方案，加速推進其門店網路的數字化轉型與可持續發展。"
-    },
-    {
-      "id": "4952039",
-      "time": "2026-06-24 15:26:22",
-      "tags": [
-        "市場"
-      ],
-      "text": "歐元/英鎊下跌0.1%至0.86097，觸及8月20日以來最低點。"
-    },
-    {
-      "id": "mkt:019ef885-da69-7dd8-b0f0-911df2dc6e8d",
-      "time": "2026-06-24 15:26:22",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Indonesia's benchmark stock index extended losses to 3%."
-    },
-    {
-      "id": "4952038",
-      "time": "2026-06-24 15:26:12",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "南向資金淨買入額達120億港元。"
-    },
-    {
-      "id": "4952037",
-      "time": "2026-06-24 15:26:01",
-      "tags": [
-        "其他"
-      ],
-      "text": "【中國氣象學家許健民獲國際氣象組織獎】世界氣象組織24日在日內瓦為中國工程院院士、中國氣象局衛星氣象專家許健民頒發第70屆國際氣象組織獎，表彰他為天氣預報、衛星氣象事業以及氣象業務服務作出的卓越貢獻。據介紹，許健民全額捐贈獎金用於中國氣象局設立“媽祖”獎。（新華社）"
-    },
-    {
-      "id": "mkt:019ef885-7df1-7dd8-b0f0-8cb0e96c1189",
-      "time": "2026-06-24 15:25:58",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "EURUSD",
-        "Impact bullish",
-        "DXY",
-        "Impact bearish"
-      ],
-      "text": "Snam CEO says the company is confident in gas storage refill operations and plans to raise injection levels from about 65% now to above 90% by end-October."
-    },
-    {
-      "id": "4952036",
-      "time": "2026-06-24 15:25:42",
-      "tags": [
-        "公司",
-        "市場",
-        "國際"
-      ],
-      "text": "【歐洲股市漲跌互現，防務股下跌而科技股企穩】在交投清淡的早盤交易中，歐洲股指漲跌互現。隨著全球科技股暴跌勢頭有所減弱，歐洲斯托克600指數持平，但隨著風向標萊茵金屬大幅下跌，防務股走低。有報道稱德國政府將撤銷對一艘新軍艦的資金支援，這家防務巨頭股價暴跌近12%。該股拖累德國DAX指數，該指數下跌0.5%。英國富時100指數走平，因為軟體和防務股的疲軟被房地產和房屋建築板塊的強勢所抵消。與此同時，隨著LVMH集團大漲2.2%，奢侈品股的上漲提振了巴黎的法國CAC 40指數，該指數上漲0.35%。半導體權重較大的荷蘭AEX指數微升0.1%，因阿斯麥在上一交易日大幅下跌後上漲0.5%。義大利富時MIB指數和西班牙IBEX 35指數均下跌約0.3%。"
-    },
-    {
-      "id": "te:economy:561412",
-      "time": "2026-06-24 15:25:11",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Czech Republic",
-        "Consumer Confidence",
-        "Importance 1"
-      ],
-      "text": "Czech Republic Consumer Morale Strengthens in June — The consumer confidence indicator in the Czech Republic rose by 3.1 points to 106.5 in June 2026 from 103.4 in the previous month. The increase was supported by improved expectations for the general economic situation over the next 12 months, as the share of consumers anticipating a deterioration in the domestic economy decreased. Sentiment regarding personal finances also strengthened, with more households expecting an improvement in their financial situation over the coming year, while the proportion of respondents reporting their current financial situation as worse than a year earlier remained unchanged. Meanwhile, the share of consumers not planning major purchases over the next 12 months declined slightly from May. Concerns about rising prices and further increases in unemployment were broadly unchanged from the previous month."
-    },
-    {
-      "id": "4952035",
-      "time": "2026-06-24 15:24:56",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【外媒：梅洛尼與特朗普突然“翻臉”後，義大利試圖“降調”緩和關係】美國總統特朗普日前在接受採訪時稱義大利總理梅洛尼在七國集團（G7）峰會期間“央求合影”，雙方因此發生摩擦並公開互嗆。據美國彭博社、英國路透社等媒體報道，事件發生後，義大利方面目前試圖“降調”緩和關係。彭博社稱，義大利副總理兼外長塔亞尼試圖修復與美國的關係，稱意美兩國應努力緩和緊張形勢。“這並非徹底決裂。”塔亞尼在23日的採訪中表示，義大利與美國的聯盟關係“可持續且不可或缺”。（環球網）"
-    },
-    {
-      "id": "mkt:019ef884-7d00-7dd8-b0f0-8593835f93bc",
-      "time": "2026-06-24 15:24:52",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "XAUUSD",
-        "Impact bullish",
-        "Brent",
-        "Impact mixed",
-        "DXY"
-      ],
-      "text": "【BOT holds policy rate at 1.00%; reassessing economic risks from Middle East tensions】The Bank of Thailand kept its policy rate at 1.00%, in line with market expectations, and said it is reassessing economic risks from the Middle East conflict. While war-related risks have eased, uncertainty remains elevated. Several central banks, including the Fed, have taken a wait-and-see stance; Japan, Indonesia and the Philippines raised rates last week to offset conflict-related shocks. The BOT said pre-ceasefire cost shocks had squeezed firms, weakened household purchasing power and hit tourism through higher costs and travel constraints, and that lagged effects will continue to weigh on growth. It also flagged El Nifio-driven food supply risks and ongoing uncertainty from US tariff policy. Many economists expect the BOT to remain on hold for the rest of the year, maintaining an accommodative stance to support a still-fragile economy."
-    },
-    {
-      "id": "4952034",
-      "time": "2026-06-24 15:24:29",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "印尼股市基準指數下跌3%，至5918.95美元。"
-    },
-    {
-      "id": "mkt:019ef883-ecc5-7dd8-b0f0-7d166fa3b6e2",
-      "time": "2026-06-24 15:24:15",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Ukraine's drone force commander said Ukrainian drones attacked a major substation at the Sevastopol power plant in Crimea last night."
-    },
-    {
-      "id": "mkt:019ef883-dd74-7dd8-b0f0-753404233061",
-      "time": "2026-06-24 15:24:11",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【South Korea April newborns +18% YoY to 24,521; highest April since 2019】Statistics Korea said in its April 2026 Population Trends report on the 24th that April newborns totaled 24,521, up 18% YoY. Both the monthly count and YoY growth were the highest for an April since 2019."
-    },
-    {
-      "id": "4952033",
-      "time": "2026-06-24 15:23:57",
-      "tags": [
-        "國際"
-      ],
-      "text": "無人機部隊指揮官稱，烏克蘭無人機夜間襲擊了俄羅斯控制的克里米亞塞瓦斯托波爾發電廠的主變電站。"
-    },
-    {
-      "id": "4952032",
-      "time": "2026-06-24 15:23:54",
-      "tags": [
-        "公司"
-      ],
-      "text": "義大利國家天然氣運輸公司（Snam）執行長表示：對天然氣儲氣注氣計劃充滿信心，當前儲氣庫存率為65%，預計到10月底將提升至90%以上。"
-    },
-    {
-      "id": "te:economy:561410",
-      "time": "2026-06-24 15:23:32",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Brunei",
-        "Balance of Trade",
-        "Importance 1"
-      ],
-      "text": "Brunei Trade Surplus Hits 12-Year High — Brunei’s trade surplus surged to BND 1.12 billion in April 2026 from BND 0.4 billion in the same month a year earlier. It was the largest amount since April 2014, as exports jumped 75.8% yoy to BND 2.06 billion, the highest since December 2009, boosted by strong gains in mineral fuels (83.1%) and chemicals (48.4%). Australia was the largest export destination, accounting for 32.8% of total shipments, followed by Singapore (16.0%), Japan (12.9%), China (11.2%), and Thailand (10.3%). Imports grew at a slower 21.6% to BND 0.94 billion, driven by a sharp rise in mineral fuel purchases (22.6%) and machinery and transport equipment (33.4%). Malaysia was the top source of imports, supplying 67.8% of total inbound shipments, ahead of Vietnam (6.0%), China (5.4%), the UK (4.2%), and the U.S. (2.6%). For the first four months of 2026, trade surplus widened to BND 2.69 billion from BND 1.86 billion in the same period last year, as exports climbed 23.3% while imports rose more slowly by 8.0%."
-    },
-    {
-      "id": "mkt:019ef882-dc7b-7dd8-b0f0-6a448c6fcd10",
-      "time": "2026-06-24 15:23:06",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【South Korea April births rise 18% YoY】Statistics Korea's April population report, released June 24 and reported by Yonhap, showed April births of 24,521, up 18% year-on-year — the highest April tally since 2019 and the largest April YoY increase since records began in 1981. Cumulative Jan–Apr births were 99,534, up 15.5% YoY and the highest Jan–Apr total since 2019. April total fertility rate was 0.93, up 0.13 points YoY."
     }
   ]
 }
