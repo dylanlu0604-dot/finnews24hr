@@ -1,7 +1,249 @@
 {
   "date": "2026-07-01",
-  "count": 1125,
+  "count": 1150,
   "items": [
+    {
+      "id": "4964141",
+      "time": "2026-07-01 11:28:31",
+      "tags": [
+        "市場"
+      ],
+      "text": "截止11:28，兩市201只個股漲停。"
+    },
+    {
+      "id": "4964140",
+      "time": "2026-07-01 11:27:48",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【氟化工概念持續走高】氟化工概念持續走高，多氟多、巨化股份、三美股份、永和股份盤中創新高，永太科技、聯創股份、金石資源漲停，中欣氟材、巍華新材跟漲。"
+    },
+    {
+      "id": "mkt:019f1bb7-bf5b-7aab-8c4a-52a0b969c761",
+      "time": "2026-07-01 11:27:34",
+      "tags": [
+        "MKT News",
+        "Nikkei 225",
+        "Impact bullish"
+      ],
+      "text": "【Daiwa Securities: Japanese corporate sentiment likely to improve further】Daiwa Securities economist Yutaro Suzuki says the BOJ’s Tankan signalled firms expected sentiment to worsen over the next three months, but the latest survey likely under‑states the impact of recent US‑Iran peace talks. A BOJ official said about 70% of respondents submitted their replies before the agreement. Suzuki expects the September Tankan could show cross‑sector improvement as Middle East developments are incorporated into expectations."
+    },
+    {
+      "id": "4964139",
+      "time": "2026-07-01 11:27:22",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "碳酸鋰連續主力合約日內漲5%，現報165300.00元。"
+    },
+    {
+      "id": "mkt:019f1bb7-17e4-7aab-8c4a-4b6afe16c826",
+      "time": "2026-07-01 11:26:51",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "MSFT.O",
+        "Impact bullish",
+        "AMZN.O",
+        "GOOGL.O"
+      ],
+      "text": "【ANTHROPIC to relaunch Fable 5 globally on Claude after US lifts export controls】After the US Commerce Department lifted export controls on Claude Fable 5 and MYTHOS 5, ANTHROPIC said Fable 5 will be available worldwide on the Claude platform tomorrow and it will seek to re-enable access on AWS, Google Cloud and Microsoft Foundry as soon as possible. Pro, Max, Team and Select Enterprise customers will have access, with usage capped at 50% of weekly capacity through July 7. ANTHROPIC said it will continue coordinating with the US government to expand MYTHOS 5 access under the Glasswing program to additional US and international partners and will work with Amazon, Microsoft, Google and other Glasswing partners to develop a framework for assessing AI jailbreak severity."
+    },
+    {
+      "id": "4964138",
+      "time": "2026-07-01 11:26:45",
+      "tags": [
+        "其他"
+      ],
+      "text": "新加坡華僑銀行：計劃招聘600名財富管理經理，並推出人工智慧虛擬形象應用，加碼佈局財富管理業務。"
+    },
+    {
+      "id": "4964137",
+      "time": "2026-07-01 11:24:12",
+      "tags": [
+        "其他"
+      ],
+      "text": "馬恆達汽車：2026年6月整體汽車銷量達106,207輛，同比增長37%。"
+    },
+    {
+      "id": "4964136",
+      "time": "2026-07-01 11:23:55",
+      "tags": [
+        "其他"
+      ],
+      "text": "【中基協：5月ABS新增備案108只 新增備案規模合計959.12億元】據中國證券投資基金業協會訊息，2026年5月，資產支援專項計劃新增備案108只，新增備案規模合計959.12億元。此外，新增備案規模前三的ABS基礎資產分別為：融資租賃債權、應收賬款和小額貸款債權，備案規模分別為245.70億元、228.26億元和153.99億元。"
+    },
+    {
+      "id": "mkt:019f1bb2-41d0-7aab-8c4a-460cd82033cf",
+      "time": "2026-07-01 11:21:34",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CNH",
+        "Impact bullish",
+        "CSI300",
+        "SSE Composite"
+      ],
+      "text": "【Beijing resale home online signings hit 16,618 in June; 1H resales exceed 93,000】Beijing Municipal Commission of Housing and Urban-Rural Development reported June online contract registrations for resale homes at 16,618 units, a five-year high and up 9.77% YoY. June's monthly registrations have led the comparable five-year period for three consecutive months. Q2 resale registrations reached a five-year peak, and 1H total registrations totaled 93,583 units, second only to 2021, keeping market activity elevated."
+    },
+    {
+      "id": "4964135",
+      "time": "2026-07-01 11:21:24",
+      "tags": [
+        "其他"
+      ],
+      "text": "【北京二手房6月網籤16618套創新高 二手房半年成交超9萬套】伴隨著6月最後一天網籤資料的落地，北京2026年上半年二手房網籤量成績單出爐。7月1日，根據北京市住建委資料統計，6月全市二手房網籤16618套，創五年來新高，同比增長9.77%，單月網籤規模已連續三個月領跑近五年同期水平。整體來看，今年二季度二手房網籤總量登頂五年同期新高，上半年整體網籤規模達93583套，僅次於2021年同期，市場成交熱度維持高位執行。（北京商報）"
+    },
+    {
+      "id": "4964134",
+      "time": "2026-07-01 11:20:59",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【習近平：支援港澳更好融入和服務國家發展大局】今天上午，慶祝中國共產黨成立105週年大會在人民大會堂隆重舉行。中共中央總書記、國家主席、中央軍委主席習近平向“七一勳章”獲得者頒授勳章並發表重要講話。習近平：促進香港、澳門長期繁榮穩定，是中華民族偉大復興的內在要求。新徵程上，我們要全面準確、堅定不移貫徹“一國兩制”、“港人治港”、“澳人治澳”、高度自治的方針，落實“愛國者治港”、“愛國者治澳”原則，提升港澳依法治理效能，促進港澳經濟社會發展，支援港澳更好融入和服務國家發展大局。（央視新聞）"
+    },
+    {
+      "id": "4964133",
+      "time": "2026-07-01 11:19:42",
+      "tags": [
+        "公司"
+      ],
+      "text": "【寧德時代“巧克力換電”累計落站2000座】寧德時代旗下巧克力換電今日宣佈，上半年公司全國換電站累計落地2000座，覆蓋31個省份180座城市，中小城市覆蓋率突破80%，高速網路同步破局，網路已從重點城市連片延伸至縣域市場，香港首批換電站投入實質性運營。據悉，下半年巧克力換電站站點總量將衝擊3000座，覆蓋城市超190座。"
+    },
+    {
+      "id": "mkt:019f1bb0-42d5-7aab-8c4a-3dbbda733fee",
+      "time": "2026-07-01 11:19:23",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "AMZN.O",
+        "Impact bullish",
+        "Nasdaq100"
+      ],
+      "text": "AWS says ANTHROPIC's Claude Fable 5 model will be made available again to customers on Bedrock tomorrow."
+    },
+    {
+      "id": "4964132",
+      "time": "2026-07-01 11:18:53",
+      "tags": [
+        "其他"
+      ],
+      "text": "AWS：從明天開始，Anthropic的Claude Fable 5模型將再次透過Bedrock平臺向我們的客戶提供。"
+    },
+    {
+      "id": "mkt:019f1baf-3669-7aab-8c4a-37ce92d05acf",
+      "time": "2026-07-01 11:18:15",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "【Foreign purchases of Indian bonds hit record after tax relief】After New Delhi removed taxes on foreign investors, Indian bonds accessible to unrestricted global investment drew record inflows. Data from India’s clearing house show foreigners bought 418 billion rupees (about $4.4bn) via the fully open channel last month, nearly double the prior record of 239 billion rupees in Aug 2024. Persistent inflows should lower government borrowing costs and help support the rupee amid a stronger dollar. ANZ economist Dhiraj Nim said a mix of the tax cut, currency stability, pushed-out rate-hike expectations and reduced fiscal risk have encouraged foreign buying, but warned inflows could fade if global financial conditions tighten and US rates remain high. The flows mark a rebound after months of weakness; Indian equities outperformed other emerging markets in June and the rupee was the second-best performing Asian currency that month."
+    },
+    {
+      "id": "mkt:019f1baf-2612-7aab-8c4a-2e50dba09fa5",
+      "time": "2026-07-01 11:18:11",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "ANTHROPIC: Pro, Max, Team and Select Enterprise users can access Fable 5, with weekly usage capped at 50%, effective through July 7."
+    },
+    {
+      "id": "mkt:019f1bae-3c8c-7aab-8c4a-23a869bbae96",
+      "time": "2026-07-01 11:17:11",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Amazon",
+        "Microsoft",
+        "Alphabet",
+        "Market Themes",
+        "AI Revolution",
+        "Magnificent 7",
+        "AMZN.O",
+        "MSFT.O",
+        "GOOGL.O"
+      ],
+      "text": "ANTHROPIC will work with Amazon, Microsoft, Google and other Glasswing partners to develop a framework for assessing the severity of AI jailbreaks."
+    },
+    {
+      "id": "4964131",
+      "time": "2026-07-01 11:16:41",
+      "tags": [
+        "公司"
+      ],
+      "text": "Anthropic：與亞馬遜、微軟、谷歌及其他 Glasswing 合作伙伴共同起草人工智慧越獄風險嚴重程度評估框架。"
+    },
+    {
+      "id": "4964130",
+      "time": "2026-07-01 11:15:34",
+      "tags": [
+        "公司"
+      ],
+      "text": "ANTHROPIC：我們將盡快在AWS、谷歌雲和微軟FOUNDRY上重新啟用FABLE 5的訪問許可權。"
+    },
+    {
+      "id": "mkt:019f1bac-6bae-7aab-8c4a-1f3518e0f0f3",
+      "time": "2026-07-01 11:15:12",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "AMZN.O",
+        "Impact bullish",
+        "GOOGL.O",
+        "MSFT.O"
+      ],
+      "text": "Anthropic said it will promptly restore access to Fable 5 on AWS, Google Cloud and Microsoft Foundry."
+    },
+    {
+      "id": "4964129",
+      "time": "2026-07-01 11:14:57",
+      "tags": [
+        "國際"
+      ],
+      "text": "泰國投資促進委員會：批准馬自達-福特汽車聯盟70億泰銖投資專案。"
+    },
+    {
+      "id": "mkt:019f1bac-1c61-7aab-8c4a-118f414eff5a",
+      "time": "2026-07-01 11:14:51",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "ANTHROPIC said it will continue coordinating with the U.S. government to broaden access under the “Glasswing” program for its MYTHOS 5 model, enabling more U.S. and international partners to obtain usage rights."
+    },
+    {
+      "id": "4964128",
+      "time": "2026-07-01 11:13:52",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【習近平：實現祖國完全統一 是我們黨矢志不渝的歷史任務】今天上午，慶祝中國共產黨成立105週年大會在人民大會堂隆重舉行。中共中央總書記、國家主席、中央軍委主席習近平向“七一勳章”獲得者頒授勳章並發表重要講話。習近平：解決臺灣問題、實現祖國完全統一，是我們黨矢志不渝的歷史任務，是全體中華兒女的共同願望。我們要深入貫徹新時代黨解決臺灣問題的總體方略，堅持一箇中國原則和“九二共識”，團結廣大臺灣同胞，深化兩岸交流合作和融合發展，堅決打擊“臺獨”分裂勢力，反對外部勢力干涉，堅定推進祖國統一大業。（央視新聞）"
+    },
+    {
+      "id": "mkt:019f1bab-18c7-7aab-8c4a-0a169337630b",
+      "time": "2026-07-01 11:13:45",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "ANTHROPIC to launch Fable 5 globally on the Claude platform tomorrow."
+    },
+    {
+      "id": "4964127",
+      "time": "2026-07-01 11:13:29",
+      "tags": [
+        "其他"
+      ],
+      "text": "Anthropic：對於 PRO、MAX、TEAM 和部分企業套餐，Fable 5 將包含在內，最高可享每週使用限額的 50%，有效期至 7 月 7 日。"
+    },
     {
       "id": "4964126",
       "time": "2026-07-01 11:12:10",
