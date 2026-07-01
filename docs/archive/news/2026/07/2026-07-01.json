@@ -1,7 +1,48 @@
 {
   "date": "2026-07-01",
-  "count": 1439,
+  "count": 1444,
   "items": [
+    {
+      "id": "mkt:019f1c57-6656-7aab-8c4d-01000d684814",
+      "time": "2026-07-01 14:21:57",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Australia's S&P/ASX 200 closed down 56.10 points, or 0.64%, at 8,722.60 on Wednesday, July 1."
+    },
+    {
+      "id": "4964326",
+      "time": "2026-07-01 14:20:23",
+      "tags": [
+        "國際"
+      ],
+      "text": "【外媒：以色列前國防軍參謀長宣佈開始競選活動】據法新社6月30日報道，以色列前國防軍參謀長加迪·埃森科特30日宣佈開始競選活動，試圖從內塔尼亞胡手中接任總理一職。 在離計劃進行的大選還有四個月之際，埃森科特在其舉行的首次選舉會議上宣佈：“以色列應該開啟新篇章。我們將共同書寫。” （參考訊息）"
+    },
+    {
+      "id": "mkt:019f1c55-b00a-7aab-8c4c-fe9b4a2c20cd",
+      "time": "2026-07-01 14:20:05",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Swiss May real retail sales YoY due in 10 minutes."
+    },
+    {
+      "id": "4964325",
+      "time": "2026-07-01 14:19:17",
+      "tags": [
+        "其他"
+      ],
+      "text": "【深藍汽車：6月全球銷量33625輛，同比增長12.5%】7月1日，深藍汽車公佈6月全球銷量33625輛，同比增長12.5%。"
+    },
+    {
+      "id": "mkt:019f1c54-cc60-7aab-8c4c-f2aa211c323c",
+      "time": "2026-07-01 14:19:07",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Shenlan Auto said June global sales were 33,625 vehicles, up 12.5% YoY."
+    },
     {
       "id": "4964323",
       "time": "2026-07-01 14:18:19",
