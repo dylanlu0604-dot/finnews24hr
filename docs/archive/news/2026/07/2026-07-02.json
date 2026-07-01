@@ -1,7 +1,33 @@
 {
   "date": "2026-07-02",
-  "count": 126,
+  "count": 129,
   "items": [
+    {
+      "id": "4965828",
+      "time": "2026-07-02 01:31:35",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "巴西央行資料：上週巴西跨境資金淨流出 10.27 億美元，截至 6 月 26 日當月，巴西跨境資金淨流入 71.68 億美元 。"
+    },
+    {
+      "id": "4965827",
+      "time": "2026-07-02 01:31:02",
+      "tags": [
+        "公司"
+      ],
+      "text": "貝萊德的TSENG將不再擔任TCP私募信貸基金執行長。"
+    },
+    {
+      "id": "mkt:019f1eba-ae66-7aab-8c64-7cade8833953",
+      "time": "2026-07-02 01:29:38",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "IRNA reported Iran's deputy foreign minister said the Iranian delegation's talks in Doha have concluded."
+    },
     {
       "id": "mkt:019f1eb6-21b2-7aab-8c64-73adc45d3eac",
       "time": "2026-07-02 01:24:40",

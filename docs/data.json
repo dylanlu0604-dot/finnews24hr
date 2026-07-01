@@ -1,7 +1,33 @@
 {
-  "updated": "2026-07-02 01:29:47",
-  "count": 14210,
+  "updated": "2026-07-02 01:33:40",
+  "count": 14193,
   "items": [
+    {
+      "id": "4965828",
+      "time": "2026-07-02 01:31:35",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "巴西央行資料：上週巴西跨境資金淨流出 10.27 億美元，截至 6 月 26 日當月，巴西跨境資金淨流入 71.68 億美元 。"
+    },
+    {
+      "id": "4965827",
+      "time": "2026-07-02 01:31:02",
+      "tags": [
+        "公司"
+      ],
+      "text": "貝萊德的TSENG將不再擔任TCP私募信貸基金執行長。"
+    },
+    {
+      "id": "mkt:019f1eba-ae66-7aab-8c64-7cade8833953",
+      "time": "2026-07-02 01:29:38",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "IRNA reported Iran's deputy foreign minister said the Iranian delegation's talks in Doha have concluded."
+    },
     {
       "id": "mkt:019f1eb6-21b2-7aab-8c64-73adc45d3eac",
       "time": "2026-07-02 01:24:40",
@@ -130826,186 +130852,6 @@
         "宏觀"
       ],
       "text": "加拿大央行：如果高油價長期持續並擴散至全產業鏈，而央行長期按兵不動，後續出臺的貨幣政策收緊力度，將遠大於提前行動所需的幅度。"
-    },
-    {
-      "id": "4953270",
-      "time": "2026-06-25 01:33:05",
-      "tags": [
-        "市場"
-      ],
-      "text": "比特幣觸及盤中低點59,283.53美元，為6月5日以來最低水平，最新下跌4.45%，報59,612.54美元"
-    },
-    {
-      "id": "mkt:019efab0-ba7b-7dd8-b101-7f169d5ba3d7",
-      "time": "2026-06-25 01:32:26",
-      "tags": [
-        "MKT News",
-        "DXY",
-        "Impact bullish",
-        "XAUUSD",
-        "Copper",
-        "Impact bearish"
-      ],
-      "text": "BOC minutes: policy makers agreed the economy is weak, in a state of excess supply with slack in the labour market, but not in recession."
-    },
-    {
-      "id": "4953268",
-      "time": "2026-06-25 01:32:12",
-      "tags": [
-        "央行",
-        "市場"
-      ],
-      "text": "【加拿大央行否認經濟疲軟等同於衰退】加拿大央行官員否認本國經濟陷入衰退的說法，同時承認經濟增長乏力、勞動力市場存在閒置產能。央行表示，當前經濟走弱、勞動力市場供給過剩，但並未出現典型衰退特徵——即整體經濟活動深度、大範圍且持續性下滑。政策制定者將政策利率維持在2.25%不變，稱當下進退兩難：降息提振經濟，又恐油價上漲推升全面通脹；收緊利率托住物價，又會進一步壓制增長。"
-    },
-    {
-      "id": "mkt:019efab0-6950-7dd8-b101-7280d731b3b5",
-      "time": "2026-06-25 01:32:05",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Bank of Canada meeting minutes showed council members unanimously agreed monetary policy needs to remain flexible."
-    },
-    {
-      "id": "mkt:019efab0-3a5c-7dd8-b101-6c829b7eb5e4",
-      "time": "2026-06-25 01:31:53",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "BOC minutes: Governing Council members agreed the economic situation presents a dilemma for monetary policy."
-    },
-    {
-      "id": "mkt:019efaaf-fe52-7dd8-b101-60639b390ebb",
-      "time": "2026-06-25 01:31:38",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "BOC minutes: An adverse USMCA outcome could broaden spillovers to the Canadian economy by weakening employment and investment."
-    },
-    {
-      "id": "4953267",
-      "time": "2026-06-25 01:31:30",
-      "tags": [
-        "央行",
-        "市場"
-      ],
-      "text": "加拿大央行：委員會討論了疲軟的經濟和不斷上漲的通貨膨脹如何構成兩難困境。"
-    },
-    {
-      "id": "mkt:019efaaf-a2dd-7dd8-b101-5ca1009bf3dd",
-      "time": "2026-06-25 01:31:14",
-      "tags": [
-        "MKT News",
-        "DXY",
-        "Impact bearish"
-      ],
-      "text": "BOC minutes: members agreed that if inf data begin to show pressures spreading, that would signal the need to tighten monetary policy."
-    },
-    {
-      "id": "4953266",
-      "time": "2026-06-25 01:31:12",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "加拿大央行：加拿大經濟似乎正在恢復增長。"
-    },
-    {
-      "id": "4953265",
-      "time": "2026-06-25 01:30:56",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "加拿大央行：經濟疲軟，供應過剩，但尚未陷入衰退。"
-    },
-    {
-      "id": "mkt:019efaaf-5c2a-7dd8-b101-55ca3f366b0c",
-      "time": "2026-06-25 01:30:56",
-      "tags": [
-        "MKT News",
-        "DXY",
-        "Impact bullish"
-      ],
-      "text": "BOC minutes: economy weak; inf excluding fuel \"generally under control\"."
-    },
-    {
-      "id": "mkt:019efaaf-478d-7dd8-b101-4eadac24b284",
-      "time": "2026-06-25 01:30:51",
-      "tags": [
-        "MKT News",
-        "DXY",
-        "Impact bearish",
-        "EURUSD",
-        "Impact bullish"
-      ],
-      "text": "BOC meeting minutes: despite two quarters of economic contraction, the economy \"has not clearly entered a recession\"."
-    },
-    {
-      "id": "mkt:019efaaf-3c27-7dd8-b101-42f3b34bcc91",
-      "time": "2026-06-25 01:30:48",
-      "tags": [
-        "MKT News",
-        "Macro & Rates"
-      ],
-      "text": "BOC minutes: policy rate held unchanged to balance inf risks against weak economic growth."
-    },
-    {
-      "id": "mkt:019efaaf-21a0-7dd8-b101-3dfeeb67252d",
-      "time": "2026-06-25 01:30:41",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "BOC minutes: Limited evidence of pass-through from rising energy prices to other goods."
-    },
-    {
-      "id": "mkt:019efaaf-133b-7dd8-b101-37700f8ffd31",
-      "time": "2026-06-25 01:30:38",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "BOC minutes: policymakers said they did not want to overreact to developments, nor to react too slowly."
-    },
-    {
-      "id": "4953264",
-      "time": "2026-06-25 01:30:37",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "加拿大央行：第一季度GDP最大的意外是政府支出下降。"
-    },
-    {
-      "id": "4953263",
-      "time": "2026-06-25 01:30:26",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "加拿大央行：美墨加協定若談判結果不利，或將加劇經濟困境。"
-    },
-    {
-      "id": "mkt:019efaae-cf8a-7dd8-b101-2c1c48222759",
-      "time": "2026-06-25 01:30:20",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "New York silver futures plunged 7.00% intraday to $57.73/oz."
-    },
-    {
-      "id": "mkt:019efaae-bb3e-7dd8-b101-252ded20a182",
-      "time": "2026-06-25 01:30:15",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Trump says Iran is making 'major concessions'】President Trump told reporters before heading to the Senate that \"we're gaining a tremendous advantage\" and that \"Iran is making major concessions,\" but he offered no details. He added the situation was progressing \"very, very well,\" also without elaboration."
-    },
-    {
-      "id": "4953262",
-      "time": "2026-06-25 01:30:14",
-      "tags": [
-        "市場"
-      ],
-      "text": "紐約期銀日內跌7%，現報58.13美元/盎司。"
     }
   ]
 }
