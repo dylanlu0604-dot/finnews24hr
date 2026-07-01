@@ -1,7 +1,91 @@
 {
-  "updated": "2026-07-01 08:53:32",
-  "count": 13990,
+  "updated": "2026-07-01 08:57:25",
+  "count": 13994,
   "items": [
+    {
+      "id": "mkt:019f1b2d-a5f3-7aab-8c47-082d92b18491",
+      "time": "2026-07-01 08:56:44",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "South Korea's KOSPI fell as much as 1.00% intraday."
+    },
+    {
+      "id": "4963881",
+      "time": "2026-07-01 08:56:38",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【韓國綜指跌幅擴大至1%】韓國綜指跌幅擴大至1%，現報8388.17點。個股方面，三星電子、SK海力士跌超2%。"
+    },
+    {
+      "id": "mkt:019f1b2c-261e-7aab-8c47-0191659e0654",
+      "time": "2026-07-01 08:55:05",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "Nikkei 225",
+        "Impact bullish",
+        "USDJPY",
+        "Impact bearish"
+      ],
+      "text": "【Japan manufacturing posts strongest quarterly expansion in over 12 years in June, S&P Global says】S&P Global deputy director for economics Annabel Fiddes said the latest PMI shows Japan's manufacturing delivered its strongest quarterly performance in over 12 years in June. Production expanded as client demand improved and overall new orders rose at the fastest pace in about 4.5 years, led by AI-related technologies and robust semiconductor demand. Growth was at least partly driven by inventory hoarding amid the Middle East war. Supplier performance deteriorated sharply again in June due to shipping delays and supplier shortages, keeping inflationary pressures among the most severe since the PMI series began in 2001—input costs and selling prices both rose rapidly. Fiddes warned there is significant uncertainty about whether the strength will extend into H2, as short-term hoarding may fade, especially if costs continue rising and customer spending weakens."
+    },
+    {
+      "id": "4963880",
+      "time": "2026-07-01 08:54:22",
+      "tags": [
+        "公司"
+      ],
+      "text": "【雪人制冷裝置落地澳大利亞標杆專案】2026年5月15日，澳大利亞政府對外官宣，本土首座全流程綠氫綠氨一體化示範新能源專案啟動建設。該標杆分散式清潔能源專案搭配光伏儲能供能體系，依靠純可再生綠電落地無水綠氨商業化生產。雪人集團與凱普索綠色能源科技（南京）有限公司攜手合作，為該澳洲標杆新能源專案提供綠氨合成工段核心工藝製冷成套解決方案。專案由海外能源企業聯合澳大利亞本土農業集團共同投資開發，目前已進入工程建設階段。"
+    },
+    {
+      "id": "4963879",
+      "time": "2026-07-01 08:53:52",
+      "tags": [
+        "公司"
+      ],
+      "text": "【天賜材料：公司電子級氫氟酸專案正在做工藝技術升級 尚未執行生產】天賜材料(002709)7月1日在互動平臺表示，目前公司池州基地年產5萬噸無水氟化氫專案已投入生產且已處於滿產狀態。年產2.5萬噸電子級氫氟酸專案正在做工藝技術升級，目前尚未執行生產，請您注意投資風險。"
+    },
+    {
+      "id": "te:economy:563164",
+      "time": "2026-07-01 08:53:13",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Singapore",
+        "House Price Index MoM",
+        "Importance 1"
+      ],
+      "text": "Singapore Home Price Growth Weakest in Nearly 2 Years — Private home prices in Singapore increased 0.5% quarter-on-quarter in the second quarter of 2026, slowing from a 0.9% rise in the first quarter, preliminary estimates showed. It was the softest increase since the third quarter of 2024, when prices declined, weighed down by a fall in non-landed property prices (-0.1% vs 1.3% in Q1). The decline in non-landed property prices was driven by falls in both the Rest of Central Region (-1.4% vs 0.8%) and the Outside Central Region (-0.2% vs 2.2%). However, the decline was partly offset by a faster increase in the Core Central Region (2.0% vs 0.6%). By contrast, landed property prices rebounded (2.6% vs -0.4%)."
+    },
+    {
+      "id": "4963878",
+      "time": "2026-07-01 08:53:11",
+      "tags": [
+        "市場"
+      ],
+      "text": "新加坡市區重建局稱，第二季度整體私人住宅價格指數環比上漲0.5%。"
+    },
+    {
+      "id": "mkt:019f1b2a-6562-7aab-8c46-f90c3846d474",
+      "time": "2026-07-01 08:53:10",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish",
+        "WTI"
+      ],
+      "text": "【China International Capital Co: Gold may have overpriced Fed rate-hike expectations】China International Capital Co says gold has likely priced in excessive Fed rate-hike expectations and could see some giveback this year. The macro team argues persistent labor and consumption pressures, plus rising financing demand from the US AI-driven economy, make a materially hawkish Fed unlikely; policy may be “hawkish in name but dovish in practice.” Using a model that infers rate expectations from gold, the note estimates the current ~$4,000/oz gold price implies pricing for roughly 3–4 further hikes, above what interest-rate futures currently show. If falling oil prices feed through to US near-term inflation, the market’s pricing of hikes could be revised lower, creating short-term buying/covering opportunities in the futures market."
+    },
     {
       "id": "4963877",
       "time": "2026-07-01 08:52:12",
@@ -128552,45 +128636,6 @@
         "國際"
       ],
       "text": "【美國會透過跨黨派法案加快可負擔住房供應 已提交特朗普簽字】美國眾議院週二透過一項跨黨派法案，旨在加快建設並提供更多可負擔住房，現已提交總統特朗普簽署生效。該法案已於週一在參議院以85票贊成、5票反對獲得透過。“美國正面臨一個經過多年積累形成的住房供應短缺問題，”眾議院金融服務委員會主席、來自阿肯色州的共和黨人希爾(French Hill)在眾議院辯論中表示。根據週二釋出的一項調查，大多數美國消費者目前更傾向於購房，而非租房或與家人同住；這是自2023年以來，消費者態度首次轉向支援購房。希爾表示，該法案將“消除新建住房的不必要障礙”，並對他所說的過時銀行監管進行現代化改革，以促進低收入人群獲得更多住房貸款。眾議院以358票贊成、32票反對的結果透過該法案。特朗普第二任期內通脹率明顯上升，民調顯示，生活成本高企已成為選民最關注的問題之一。"
-    },
-    {
-      "id": "mkt:019ef721-ba3c-7dd8-b0e6-225cc75119a9",
-      "time": "2026-06-24 08:57:23",
-      "tags": [
-        "MKT News",
-        "S&P500"
-      ],
-      "text": "【CBOE launches Cboe Predicts; first products are mini‑S&P500 binary options】CBOE on June 23 announced Cboe Predicts, a new predictive‑markets product suite. The initial offerings are binary options on the mini S&P 500 index (XSP), symbols XSPBW and XSPBX, now available on Interactive Brokers and expected to launch on Charles Schwab in coming months. Binary options are all‑or‑nothing derivatives that have previously traded in OTC markets with regulatory gray areas."
-    },
-    {
-      "id": "4951381",
-      "time": "2026-06-24 08:56:23",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：美國總統特朗普將於美國東部時間週三中午12點簽署《住房之路法案》。"
-    },
-    {
-      "id": "mkt:019ef71e-e6a9-7dd8-b0e6-19bfc1d5949a",
-      "time": "2026-06-24 08:54:17",
-      "tags": [
-        "MKT News",
-        "005930.KS",
-        "Impact bullish",
-        "000660.KS"
-      ],
-      "text": "【South Korean stocks rebound after 10% rout; focus returns to corporate earnings】South Korean equities rebounded after Tuesday’s roughly 10% sell-off, with investors shifting attention back to chip companies’ earnings after a decline widely viewed as technical. On Wednesday the KOSPI rose as much as 4.2% intraday; Samsung Electronics jumped up to 10% on a report it may announce a share buyback, and SK Hynix gained more than 5%. Foreign investors continued to sell in early trade while retail investors increased holdings."
-    },
-    {
-      "id": "4951380",
-      "time": "2026-06-24 08:54:14",
-      "tags": [
-        "市場",
-        "觀點",
-        "央行",
-        "國際"
-      ],
-      "text": "【中金財富期貨：黃金持續弱勢，繼續迴歸理性】美國聯邦基金利率期貨延續跌勢，顯示預計美聯儲9月加息的機率為76%。部分機構大幅提升美聯儲年內加息預期，如德銀預計美聯儲將在今年9月和12月分別加息1次，累計加息50個基點。除了加息預期之外，美股波動也對黃金的流動性產生較大影響，黃金持續弱勢，繼續迴歸理性。"
     }
   ]
 }
