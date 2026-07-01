@@ -1,7 +1,169 @@
 {
-  "updated": "2026-07-01 19:05:34",
-  "count": 13976,
+  "updated": "2026-07-01 19:09:40",
+  "count": 13982,
   "items": [
+    {
+      "id": "mkt:019f1d5e-4381-7aab-8c55-d64136237235",
+      "time": "2026-07-01 19:09:04",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "White House National Economic Council director Hassett said traffic through the Strait of Hormuz has risen again after some volatility."
+    },
+    {
+      "id": "mkt:019f1d5d-ebfa-7aab-8c55-cd6d467b9ac6",
+      "time": "2026-07-01 19:08:42",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "Spot gold turned higher intraday, regaining levels above $4,000/oz."
+    },
+    {
+      "id": "4965076",
+      "time": "2026-07-01 19:08:34",
+      "tags": [
+        "公司"
+      ],
+      "text": "【雷賽智慧：預計2026年上半年淨利潤同比增長55.00%～65.00%】雷賽智慧公告，預計2026年1月1日至2026年6月30日歸屬於上市公司股東的淨利潤為1.84億元到1.96億元，比上年同期增長55.00%～65.00%；扣除非經常性損益後的淨利潤為1.8億元到1.92億元，比上年同期增長55.00%～65.00%。"
+    },
+    {
+      "id": "4965075",
+      "time": "2026-07-01 19:08:32",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【英國國家電網 17.5 億美元入股 Joulent，佈局美國 AI 電力賽道】倫敦上市電網企業英國國家電網集團在美國東北部擁有規模龐大的電力與燃氣業務，該公司正邁出關鍵一步，借美國資料中心熱潮佈局投資，入股一家為微軟配套建設發電設施的企業。這家公用事業企業將出資 17.5 億美元，取得喬倫特有限責任公司 35% 股權。喬倫特正聯合石油巨頭雪佛龍，在得克薩斯州為微軟建設一座天然氣發電廠。眼下眾多能源企業都在透過資料中心配套電站專案，佈局人工智慧賽道相關權益資產。本次交易對非上市企業喬倫特的整體估值達 50 億美元，交易落地後，英國國家電網的業務版圖將跳出美國東北部，拓展至全美最火熱的電力市場之一。"
+    },
+    {
+      "id": "mkt:019f1d5d-45dd-7aab-8c55-c03085719a12",
+      "time": "2026-07-01 19:07:59",
+      "tags": [
+        "MKT News",
+        "NKE.O",
+        "Impact bearish"
+      ],
+      "text": "BOFA Global Research cut its price target on Nike (NKE.N) to $47 from $55."
+    },
+    {
+      "id": "4965074",
+      "time": "2026-07-01 19:07:53",
+      "tags": [
+        "其他"
+      ],
+      "text": "富國銀行將耐克目標價從45美元下調至40美元；美銀全球研究將其目標股價從55.00美元下調至47.00美元。"
+    },
+    {
+      "id": "mkt:019f1d5c-aeac-7aab-8c55-ba3eb32c7523",
+      "time": "2026-07-01 19:07:20",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "US Economy",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "Impact bearish",
+        "S&P500"
+      ],
+      "text": "HASSETT, director of the White House National Economic Council, expects US H2 GDP growth of about 4%."
+    },
+    {
+      "id": "4965073",
+      "time": "2026-07-01 19:07:16",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國白宮國家經濟委員會主任哈塞特：預計美國下半年經濟增長約為4%。"
+    },
+    {
+      "id": "mkt:019f1d5c-503b-7aab-8c55-b2f3be1bfcff",
+      "time": "2026-07-01 19:06:56",
+      "tags": [
+        "MKT News",
+        "NKE.O",
+        "Impact bearish"
+      ],
+      "text": "Wells Fargo cut its price target for Nike (NKE) to $40 from $45."
+    },
+    {
+      "id": "4965072",
+      "time": "2026-07-01 19:06:45",
+      "tags": [
+        "市場"
+      ],
+      "text": "通用磨坊第四財季業績超出市場預期，其股價盤前上漲約3%。"
+    },
+    {
+      "id": "4965071",
+      "time": "2026-07-01 19:06:24",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "盤前KLARNA股價上漲4.3%，此前谷歌被勒令向其子公司支付款項。"
+    },
+    {
+      "id": "mkt:019f1d5b-8ce5-7aab-8c55-af64a0f6fc17",
+      "time": "2026-07-01 19:06:06",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "【Saudi makes rare spot crude sales as exports rise】Saudi, the world’s largest oil exporter, is increasing shipments out of the Persian Gulf and has sold spot crude to Asian buyers, traders said. State-owned ARAMCO has sold at least 6 mln barrels of crude to customers including South Korea and Japan; the cargoes will be loaded on three supertankers. Middle East producers lifting output have pushed regional crude prices sharply lower. ARAMCO has resumed loadings at Ras Tanura, its main Persian Gulf export terminal. Traders said such spot sales are highly unusual because ARAMCO typically sells to term buyers at monthly official selling prices; the volumes will count toward buyers’ annual contracted allocations."
+    },
+    {
+      "id": "4965070",
+      "time": "2026-07-01 19:05:50",
+      "tags": [
+        "國際"
+      ],
+      "text": "沙特阿美迄今為止已向韓國、日本等客戶售出至少600萬桶原油。"
+    },
+    {
+      "id": "mkt:019f1d5b-3944-7aab-8c55-a753ec6c9c97",
+      "time": "2026-07-01 19:05:45",
+      "tags": [
+        "MKT News",
+        "GOOGL.O",
+        "Impact bearish",
+        "Nasdaq100"
+      ],
+      "text": "A Swedish court found Google illegally prioritized its own price-comparison service for years, harming PriceRunner."
+    },
+    {
+      "id": "4965069",
+      "time": "2026-07-01 19:05:10",
+      "tags": [
+        "市場"
+      ],
+      "text": "現貨黃金日內轉漲，向上觸及4000美元。"
+    },
+    {
+      "id": "mkt:019f1d5a-9ea2-7aab-8c55-9ecd69ecb59c",
+      "time": "2026-07-01 19:05:05",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Huatai‑PineBridge China‑Korea Semiconductor ETF will be suspended from market open on July 2, 2026 until 10:30 that day."
+    },
+    {
+      "id": "4965068",
+      "time": "2026-07-01 19:05:03",
+      "tags": [
+        "公司"
+      ],
+      "text": "瑞典法院：認定Pricerunner因谷歌多年來非法偏袒自身比價服務遭受損害。"
+    },
     {
       "id": "mkt:019f1d5a-6cca-7aab-8c55-9191a8a29c76",
       "time": "2026-07-01 19:04:53",
@@ -128611,101 +128773,6 @@
         "其他"
       ],
       "text": "【重慶市南川區人大常委會原副巡視員鄧昭軍被開除黨籍】經查，鄧昭軍喪失理想信念，背棄初心使命，罔顧中央八項規定精神，違規收受禮品；無視組織原則，不按規定報告個人有關事項，在組織函詢時不如實說明問題；廉潔底線失守，違規從事營利活動，退休後違反從業禁止規定到任職轄區企業兼職取酬；私慾膨脹，將公權力作為謀取私利的工具，利用職務便利為他人在工程承攬、證照辦理、資金撥付等方面謀利，並非法收受鉅額財物。"
-    },
-    {
-      "id": "4952607",
-      "time": "2026-06-24 19:09:39",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "印度央行：銀行在模型生命週期的任何階段依賴第三方模型的，都需對該模型的產出結果負責。"
-    },
-    {
-      "id": "4952606",
-      "time": "2026-06-24 19:09:22",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "紐約期銀失守61美元/盎司，日內跌2.42%。"
-    },
-    {
-      "id": "4952605",
-      "time": "2026-06-24 19:08:52",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "印度央行：銀行應確保所有模型（包括第三方模型）均經過獨立驗證。"
-    },
-    {
-      "id": "4952604",
-      "time": "2026-06-24 19:08:35",
-      "tags": [
-        "其他"
-      ],
-      "text": "【第五屆全球數字貿易博覽會組委會工作會議在京召開】第五屆全球數字貿易博覽會組委會工作會議在京召開。商務部副部長盛秋平指出，第五屆數貿會是“十五五”開局之年舉辦的重要國家級展會。辦好本屆數貿會，對推動貿易創新發展、加快建設貿易強國、深化全球數字合作具有重要意義。要圍繞做強國內大迴圈、暢通國內國際雙迴圈，緊扣數字貿易發展前沿方向，紮實做好各項籌備工作，持續提升市場化、專業化、國際化辦展水平。"
-    },
-    {
-      "id": "4952603",
-      "time": "2026-06-24 19:08:16",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "印度央行：銀行不得使用任何損害消費者利益的人工智慧/機器學習模型。"
-    },
-    {
-      "id": "4952602",
-      "time": "2026-06-24 19:08:10",
-      "tags": [
-        "其他"
-      ],
-      "text": "阿曼強調保障航行自由，不收取過境通行費。"
-    },
-    {
-      "id": "mkt:019ef950-8903-7dd8-b0f6-ab0008479b86",
-      "time": "2026-06-24 19:07:45",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "UK Prime Minister Starmer said a defence investment plan will be published before the NATO summit."
-    },
-    {
-      "id": "4952601",
-      "time": "2026-06-24 19:06:52",
-      "tags": [
-        "其他",
-        "焦點",
-        "國際"
-      ],
-      "text": "阿曼：霍爾木茲航道遵循國際海事組織劃定通航協調航線。"
-    },
-    {
-      "id": "4952600",
-      "time": "2026-06-24 19:06:24",
-      "tags": [
-        "國際"
-      ],
-      "text": "泰雷茲FLIR防務部門獲美國海關和邊境保護局授予價值2880萬美元的移動監控系統合同。"
-    },
-    {
-      "id": "4952599",
-      "time": "2026-06-24 19:06:18",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "現貨黃金失守4050美元/盎司，日內跌1.47%。"
-    },
-    {
-      "id": "4952598",
-      "time": "2026-06-24 19:06:00",
-      "tags": [
-        "市場"
-      ],
-      "text": "紐約期金日內跌2%，現報4065.98美元/盎司。"
     }
   ]
 }
