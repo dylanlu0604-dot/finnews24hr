@@ -1,7 +1,299 @@
 {
-  "updated": "2026-07-01 21:21:15",
-  "count": 14003,
+  "updated": "2026-07-01 21:25:19",
+  "count": 14026,
   "items": [
+    {
+      "id": "4965415",
+      "time": "2026-07-01 21:24:31",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金突破4060美元/盎司，日內漲0.55%。"
+    },
+    {
+      "id": "mkt:019f1dda-1e8a-7aab-8c5a-de221ccb2ee7",
+      "time": "2026-07-01 21:24:21",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "Bank of England Governor Bailey said there is no conclusive view yet on whether AI will create or destroy jobs."
+    },
+    {
+      "id": "mkt:019f1dda-0a72-7aab-8c5a-d2fe44fd0e71",
+      "time": "2026-07-01 21:24:16",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "Spot gold jumped about $20 to test $4,040/oz, up 0.83% intraday. New York gold futures rose above $4,050/oz, up 0.28% on the day. The dollar index DXY briefly slipped roughly 0.10 point to 101.45."
+    },
+    {
+      "id": "4965414",
+      "time": "2026-07-01 21:24:09",
+      "tags": [
+        "公司",
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "【機構：日本央行需加快加息步伐才能大幅提振日元】荷蘭合作銀行的Jane Foley在一份報告中表示，日本央行需要發出準備加快加息步伐的訊號，日元才能實現像樣的復甦。“儘管日本央行自2024年以來一直在收緊政策，但加息步伐一直很緩慢。”她說，週三釋出的強勁的日本短觀報告、實際收入上升以及美國和伊朗簽署結束戰爭的諒解備忘錄，可能會鼓勵日本央行加快加息步伐。倫敦證券交易所集團的資料顯示，美元上漲0.1%，至162.68日圓，早些時候曾觸及162.83日元的40年高點；荷蘭合作銀行預計美元兌日元將在三個月內達到159日元。"
+    },
+    {
+      "id": "4965413",
+      "time": "2026-07-01 21:23:45",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金突破4040美元/盎司，日內漲0.83%。"
+    },
+    {
+      "id": "4965412",
+      "time": "2026-07-01 21:23:43",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "英國央行貝利：人工智慧究竟會創造就業還是消滅就業尚無定論。"
+    },
+    {
+      "id": "4965411",
+      "time": "2026-07-01 21:23:38",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "印度央行：通脹正處於上行趨勢，但仍低於我們的設定目標。"
+    },
+    {
+      "id": "mkt:019f1dd9-6619-7aab-8c5a-cc15b78f15cc",
+      "time": "2026-07-01 21:23:34",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "ECB President Lagarde said the U.S. cannot do without revenue from European markets."
+    },
+    {
+      "id": "mkt:019f1dd9-5237-7aab-8c5a-c3242977ac2d",
+      "time": "2026-07-01 21:23:29",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "【Warsh: Don't expect Fed to signal future rate path】Fed chair Kevin Warsh said investors should rely on incoming economic data to judge whether the Fed will raise rates and offered no hint of a July rate hike. He reiterated opposition to forward guidance and said he prefers limited public signaling by officials, warning excess commentary can confuse markets. Warsh, nominated by Trump and installed in May, is less likely than Powell to speak bluntly on policy."
+    },
+    {
+      "id": "mkt:019f1dd9-4b22-7aab-8c5a-bb37b2a07a2c",
+      "time": "2026-07-01 21:23:27",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "BOC Governor Macklem said it remains unclear when AI-driven disinflation will begin."
+    },
+    {
+      "id": "mkt:019f1dd9-4999-7aab-8c5a-b0fdca14c0be",
+      "time": "2026-07-01 21:23:27",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "BOC Governor Macklem said computer prices are rising in the near term."
+    },
+    {
+      "id": "4965410",
+      "time": "2026-07-01 21:23:10",
+      "tags": [
+        "央行",
+        "市場"
+      ],
+      "text": "加拿大央行行長麥克勒姆表示：短期內我們看到電腦價格出現上漲。"
+    },
+    {
+      "id": "mkt:019f1dd9-0088-7aab-8c5a-ac85ff42e967",
+      "time": "2026-07-01 21:23:08",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Qatar's Amiri Diwan said the Emir, U.S. presidential envoy Witkoff and Kushner discussed U.S.-Iran negotiations and developments in Lebanon."
+    },
+    {
+      "id": "mkt:019f1dd8-da31-7aab-8c5a-a5084f1166e2",
+      "time": "2026-07-01 21:22:58",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y",
+        "Impact bearish"
+      ],
+      "text": "US Treasury yields eased during Federal Reserve Chair Kevin Warsh’s remarks; the 10-year Treasury yield is currently 4.481%, up 5.91 bps."
+    },
+    {
+      "id": "4965409",
+      "time": "2026-07-01 21:22:56",
+      "tags": [
+        "公司"
+      ],
+      "text": "【瑞典法院裁定谷歌須支付近15億美元反壟斷賠償金】據報道，瑞典斯德哥爾摩專利與市場法院7月1日裁定，谷歌須向瑞典金融科技公司Klarna旗下比價平臺PriceRunner支付約143億瑞典克朗（約合15億美元）的反壟斷賠償金。PriceRunner於2022年向該法院起訴谷歌並索賠約21億歐元，指控谷歌透過操縱搜尋結果來優待其自身的購物比價服務，違反反壟斷法。（介面新聞）"
+    },
+    {
+      "id": "4965408",
+      "time": "2026-07-01 21:22:51",
+      "tags": [
+        "其他"
+      ],
+      "text": "卡達埃米爾、維特科夫與庫什納討論美伊談判及黎巴嫩局勢發展。"
+    },
+    {
+      "id": "4965407",
+      "time": "2026-07-01 21:22:46",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金突破4050美元/盎司，日內漲0.34%。"
+    },
+    {
+      "id": "4965406",
+      "time": "2026-07-01 21:22:46",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "加拿大央行行長麥克勒姆：人工智慧驅動的通縮何時顯現目前尚無定論。"
+    },
+    {
+      "id": "mkt:019f1dd8-87e7-7aab-8c5a-9bc547ea4206",
+      "time": "2026-07-01 21:22:37",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "ECB President Lagarde said Europe and the United States are mutually dependent on artificial intelligence."
+    },
+    {
+      "id": "mkt:019f1dd8-6d8c-7aab-8c5a-96a0725f13b2",
+      "time": "2026-07-01 21:22:30",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "Market Themes",
+        "AI Revolution",
+        "Nasdaq100",
+        "Impact bullish",
+        "Copper",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "Fed Chair Kevin Warsh said artificial intelligence is driving a surge in capex and that demand has risen markedly."
+    },
+    {
+      "id": "4965405",
+      "time": "2026-07-01 21:22:26",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行行長拉加德：歐美在人工智慧領域相互依存。"
+    },
+    {
+      "id": "mkt:019f1dd8-40d1-7aab-8c5a-8fb41b7e7f97",
+      "time": "2026-07-01 21:22:19",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Emerging Markets"
+      ],
+      "text": "Qatar's Amiri Diwan said the Emir of Qatar met with U.S. envoys Vitkov and Kushner."
+    },
+    {
+      "id": "4965404",
+      "time": "2026-07-01 21:22:07",
+      "tags": [
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "美國國債收益率在美聯儲主席沃什發言後漲幅收窄；10年期美國國債收益率最新上漲5.91個基點，報4.481%。"
+    },
+    {
+      "id": "4965403",
+      "time": "2026-07-01 21:21:51",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲沃什談人工智慧：將推動資本支出熱潮，需求端已顯現這一趨勢。"
+    },
+    {
+      "id": "mkt:019f1dd7-9924-7aab-8c5a-8318fbff2736",
+      "time": "2026-07-01 21:21:36",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "DXY",
+        "Impact bullish",
+        "USDJPY",
+        "EURUSD",
+        "Impact bearish"
+      ],
+      "text": "BOC Governor MACKLEM said US AI investment has created headwinds and competitive pressure."
+    },
+    {
+      "id": "mkt:019f1dd7-60e8-7aab-8c5a-7a0861dd0347",
+      "time": "2026-07-01 21:21:22",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Interfax reports that a fire at an oil refinery in Slavyansk-na-Kubani, Russia, has been extinguished."
+    },
+    {
+      "id": "4965402",
+      "time": "2026-07-01 21:20:57",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "【美聯儲主席沃什拒絕透露是否會在7月加息】美聯儲主席沃什迴避了關於美聯儲是否可能在7月會議上加息的問題。“我希望我們在四周後開會時，能進行一場充分的‘家庭內部爭論’，”他說，“當我們關起門來開會時，我們會展開激烈的辯論。但除此之外，我沒有更多資訊可以透露。”沃什是在葡萄牙辛特拉舉行的歐洲央行年度政策研討會上發表上述言論的；這是他自上月首次出席美聯儲新聞釋出會以來的首次公開亮相。自那以來，投資者已開始預期美聯儲將進行更多次加息，但市場目前預計本月首次加息的可能性不足50%。"
+    },
+    {
+      "id": "mkt:019f1dd6-da57-7aab-8c5a-738179881d9e",
+      "time": "2026-07-01 21:20:47",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "US10Y",
+        "Impact mixed",
+        "DXY"
+      ],
+      "text": "【Fed chair Kevin Warsh declines to say whether Fed will raise rates in July】Fed chair Kevin Warsh declined to say whether the Fed will raise rates at its July meeting, saying he expects a vigorous internal debate when policymakers meet in four weeks and that he had no further information to disclose. He made the remarks at the ECB annual policy seminar in Sintra, his first public appearance since last month’s Fed press conference. Investors have lifted expectations for additional hikes since that press conference, but market-implied probability of a July rate move remains below 50%."
+    },
+    {
+      "id": "4965401",
+      "time": "2026-07-01 21:20:41",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯庫班河畔斯拉維揚斯克煉油廠大火已被撲滅。"
+    },
     {
       "id": "mkt:019f1dd6-a7ae-7aab-8c5a-6c0cc24a2c7f",
       "time": "2026-07-01 21:20:34",
@@ -73,6 +365,15 @@
         "國際"
       ],
       "text": "美聯儲沃什：供給擴張將對政策產生重大影響。"
+    },
+    {
+      "id": "em:qqyh_mlc:202607013790526226",
+      "time": "2026-07-01 21:17:59",
+      "tags": [
+        "央行",
+        "美聯儲"
+      ],
+      "text": "【美聯儲主席：7月FOMC會議將展開一場充分的內部討論】美聯儲主席沃什稱，7月FOMC會議將展開一場充分的內部討論。"
     },
     {
       "id": "mkt:019f1dd4-22bf-7aab-8c5a-4c65b37e23f3",
@@ -179,6 +480,15 @@
         "其他"
       ],
       "text": "沃什發表講話之際，彭博美元指數觸及日內高點。"
+    },
+    {
+      "id": "em:qqyh_jndyh:202607013790525994",
+      "time": "2026-07-01 21:16:28",
+      "tags": [
+        "央行",
+        "加拿大央行"
+      ],
+      "text": "【加拿大央行行長：通脹明顯高於目標】加拿大央行行長麥克勒姆表示，通脹明顯高於目標；加拿大經濟疲軟。"
     },
     {
       "id": "mkt:019f1dd2-e2b7-7aab-8c5a-2466817323d4",
@@ -128898,83 +129208,6 @@
         "公司"
       ],
       "text": "珞石（山東）機器人集團股份有限公司更新聆訊後資料集，意味著該公司港交所IPO透過聆訊。"
-    },
-    {
-      "id": "em:qqyh_ygyh:202606243781660121",
-      "time": "2026-06-24 21:24:07",
-      "tags": [
-        "央行",
-        "英國央行"
-      ],
-      "text": "交易員不再完全定價英國央行今年將加息25個基點。"
-    },
-    {
-      "id": "mkt:019ef9cd-08e5-7dd8-b0fa-e0d1c50c5c11",
-      "time": "2026-06-24 21:23:44",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "State Dept official: U.S. embassy in Kuwait has resumed operations after suspending them following an Iranian attack."
-    },
-    {
-      "id": "mkt:019ef9cc-3f47-7dd8-b0fa-dceebec06374",
-      "time": "2026-06-24 21:22:52",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Europe & UK",
-        "GBPUSD",
-        "Impact bearish",
-        "DXY",
-        "Impact bullish"
-      ],
-      "text": "Market pricing no longer fully prices a 25bp Bank of England rate hike this year."
-    },
-    {
-      "id": "4952921",
-      "time": "2026-06-24 21:22:34",
-      "tags": [
-        "公司"
-      ],
-      "text": "【範波與奧地利外長賴辛格一行座談交流】6月23日，江蘇省委常委、蘇州市委書記範波在太倉與奧地利外長貝婭特·邁因爾-賴辛格一行座談交流，並一同參觀奧資企業艾伯納工業爐（太倉）有限公司。範波代表市委、市政府對賴辛格一行到訪蘇州表示歡迎。他說，蘇州是中國東部地區重要的中心城市，當前正錨定“代表未來的發展方向”，因地制宜發展新質生產力，持續增強經濟韌性，加快建設國際化現代化人民城市。今年是中奧建交55週年，蘇州與奧地利淵源深厚、交往密切，近50家奧地利企業在這裡深耕發展。希望雙方持續深化各領域交流交往，進一步拓展在智慧製造、數字經濟、綠色低碳等領域務實合作，推動更多奧地利企業和高階專案落戶蘇州，共同為推動中奧關係邁上新臺階作出新貢獻。蘇州將認真學習貫徹習近平主席同奧地利總統範德貝倫就中奧建交55週年互致賀電精神，堅定不移擴大高水平對外開放，持續打造市場化、法治化、國際化一流營商環境，為奧地利企業在蘇發展提供全方位服務保障。（蘇州日報）"
-    },
-    {
-      "id": "mkt:019ef9cb-8830-7dd8-b0fa-d78ad41f154e",
-      "time": "2026-06-24 21:22:05",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Industrial Metals",
-        "Copper",
-        "Impact bearish"
-      ],
-      "text": "LME copper fell 2.00% intraday to $13,105.80 per tonne."
-    },
-    {
-      "id": "4952920",
-      "time": "2026-06-24 21:22:04",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "美國國務院官員表示，美國駐科威特大使館在因伊朗襲擊而暫停運作後，已恢復業務。"
-    },
-    {
-      "id": "4952919",
-      "time": "2026-06-24 21:21:40",
-      "tags": [
-        "市場"
-      ],
-      "text": "LME倫銅日內跌超2.00%，現報13103.350美元/噸。"
-    },
-    {
-      "id": "4952918",
-      "time": "2026-06-24 21:21:33",
-      "tags": [
-        "觀點"
-      ],
-      "text": "【雲洲智慧科創板IPO稽核狀態變更為'已受理'】雲洲智慧科創板IPO專案科創板IPO稽核狀態變更為'已受理'，保薦機構為中信證券。"
     }
   ]
 }
