@@ -1,7 +1,102 @@
 {
-  "updated": "2026-07-01 10:35:37",
-  "count": 13975,
+  "updated": "2026-07-01 10:39:24",
+  "count": 13982,
   "items": [
+    {
+      "id": "4964082",
+      "time": "2026-07-01 10:38:28",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "大金融板塊漲勢擴大，招商證券逼近漲停，天風證券、國盛證券、華安證券此前封板，財富趨勢漲超13%，長江證券、湘財股份、廣發證券、新華保險漲超6%。"
+    },
+    {
+      "id": "te:markets:563207",
+      "time": "2026-07-01 10:37:51",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Wheat Futures Gain on USDA Data — Wheat futures rose toward $5.9 per bushel in early July, moving away from a near four-month low reached on June 29 after USDA reports highlighted lower wheat stocks and reduced acreage. The USDA reported June 1 wheat stocks of 920 million bushels, missing expectations. Its closely watched annual acreage report also showed US wheat plantings at 42.740 million acres, undershooting forecasts. Collectively, the reports reinforced expectations of tighter wheat supplies. Further support came from robust export demand, with the USDA reporting private sales of 100,000 metric tons of US hard red spring wheat to Nigeria for delivery in the 2026/27 marketing year, beginning June 1. However, gains remained constrained as the US wheat harvest progressed at a solid pace, while expectations of strong production across the Black Sea region continued to support the outlook for ample global supplies."
+    },
+    {
+      "id": "mkt:019f1b8a-1d45-7aab-8c49-824970c251a5",
+      "time": "2026-07-01 10:37:43",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "Chip Wars",
+        "Market Regions",
+        "Greater China",
+        "CSI300"
+      ],
+      "text": "China A-share memory chip sector rallied then retreated; Shangluo Electronics fell over 7%, Tongcheng New Materials dropped nearly 6%, while Shengyi Technology and Lianxun Instruments also declined."
+    },
+    {
+      "id": "4964081",
+      "time": "2026-07-01 10:37:39",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【原料藥概念震盪反彈，美諾華直線漲停】原料藥概念震盪反彈，美諾華直線漲停，博苑新材漲超10%，潤都股份、新贛江、翰宇藥業、瑞聯新材、峆一藥業等跟漲。"
+    },
+    {
+      "id": "mkt:019f1b89-4220-7aab-8c49-7df0f8ca8859",
+      "time": "2026-07-01 10:36:47",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish",
+        "SSE Composite"
+      ],
+      "text": "China A-share innovative drug sector rebounded from intraday lows; Ruilian New Materials hit an intraday record high. Wanze Co. hit the daily limit; Xuantai Pharmaceutical jumped over 10%. Hainan Haiyao, Rundu Co., Qianyan Biotech, Saili Medical and Huiyu Pharmaceutical also advanced."
+    },
+    {
+      "id": "4964080",
+      "time": "2026-07-01 10:36:13",
+      "tags": [
+        "其他"
+      ],
+      "text": "【習近平在慶祝中國共產黨成立105週年大會上發表重要講話】今天上午，慶祝中國共產黨成立105週年大會在人民大會堂隆重舉行。中共中央總書記、國家主席、中央軍委主席習近平向“七一勳章”獲得者頒授勳章並發表重要講話。（央視新聞）"
+    },
+    {
+      "id": "4964079",
+      "time": "2026-07-01 10:35:42",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "創新藥板塊觸底反彈，瑞聯新材盤中創新高，萬澤股份漲停，宣泰醫藥漲超10%，海南海藥、潤都股份、前沿生物、塞力醫療、匯宇製藥跟漲。"
+    },
+    {
+      "id": "4964078",
+      "time": "2026-07-01 10:35:30",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美宇航員完成太空行走 更換機械臂故障部件】美國航空航天局6月30日說，國際空間站兩名美國宇航員當天完成太空行走任務，更換了空間站機械臂“加拿大臂2號”出現故障的關鍵部件。據美航空航天局官網釋出的訊息，兩名出艙宇航員為克里斯·威廉姆斯和傑茜卡·邁爾，太空行走總共持續約7小時20分鐘，主要任務是更換“加拿大臂2號”5月27日出現故障的“腕關節”部件。"
+    },
+    {
+      "id": "mkt:019f1b87-e763-7aab-8c49-71397d1a7e9e",
+      "time": "2026-07-01 10:35:19",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "601318.SS",
+        "Impact bullish",
+        "601628.SS"
+      ],
+      "text": "A-share insurance sector extended gains; Xinhua Insurance rose over 6% and China Life climbed over 5%. PICC, CPIC and Ping An also advanced."
+    },
     {
       "id": "mkt:019f1b87-65d4-7aab-8c49-698ab1c3f3db",
       "time": "2026-07-01 10:34:45",
@@ -9,6 +104,38 @@
         "MKT News"
       ],
       "text": "Decision Desk HQ projects Melat Kiros has defeated incumbent Representative Diana DeGette to win the Democratic primary in Colorado's 1st Congressional District."
+    },
+    {
+      "id": "4964076",
+      "time": "2026-07-01 10:33:49",
+      "tags": [
+        "其他"
+      ],
+      "text": "保險板塊大幅反彈，新華保險漲超6%，中國人壽漲超5%，中國人保、中國太保、中國平安跟漲。"
+    },
+    {
+      "id": "4964075",
+      "time": "2026-07-01 10:33:30",
+      "tags": [
+        "其他"
+      ],
+      "text": "【我國今日全面進入主汛期】今日（7月1日）起，我國全面進入主汛期。根據預報和綜合研判，主汛期（7—8月）我國南北方均有多雨區，北方洪澇偏重，局地極端暴雨洪水偏多，有較強颱風北上影響內陸，西南、西北等地部分地區可能因高溫少雨發生階段性乾旱，防汛抗旱形勢嚴峻複雜。7月1日上午，水利部組織滾動會商，分析研判當前及近期雨情水情汛情旱情發展態勢，針對性部署落實重點防禦措施。根據24小時降雨預報，向遼寧、上海、浙江、安徽、江西、湖北、湖南、廣西、四川、貴州、雲南、甘肅、青海、新疆等14省（自治區、直轄市）發出“一省一單”靶向預警，通報強降雨覆蓋範圍縣（市、區）名單、水庫名單、山洪災害風險區域及點位，提醒做好水庫安全度汛、中小河流洪水和山洪災害防禦等工作。"
+    },
+    {
+      "id": "4964074",
+      "time": "2026-07-01 10:33:16",
+      "tags": [
+        "國際"
+      ],
+      "text": "印度將19公斤商用液化石油氣鋼瓶價格下調183.50印度盧比。"
+    },
+    {
+      "id": "4964073",
+      "time": "2026-07-01 10:32:16",
+      "tags": [
+        "市場"
+      ],
+      "text": "截至早盤收盤，日經225指數漲0.3%，東證指數漲0.1%。"
     },
     {
       "id": "mkt:019f1b85-1642-7aab-8c49-61f411faa754",
@@ -20,6 +147,24 @@
         "SSE Composite"
       ],
       "text": "China A-share AI training-data sector rebounded after choppy trading; Xinhua Media hit the daily limit, while Desheng Technology, Dook Culture, CITIC Publishing, Guomai Culture, People’s Daily Online, Tongfang Co. and China Publishing also rose."
+    },
+    {
+      "id": "4964072",
+      "time": "2026-07-01 10:32:05",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【AI語料概念震盪反彈，新華傳媒漲停】AI語料概念震盪反彈，新華傳媒漲停，德生科技、讀客文化、中信出版、果麥文化、人民網、同方股份、中國出版等跟漲。"
+    },
+    {
+      "id": "4964071",
+      "time": "2026-07-01 10:31:40",
+      "tags": [
+        "觀點",
+        "國際"
+      ],
+      "text": "花旗：美國液化天然氣出口異常強勁，緩解中東供應短缺後將繼續保持這一勢頭。"
     },
     {
       "id": "4964070",
@@ -128364,74 +128509,6 @@
         "Importance 1"
       ],
       "text": "Indonesia Shares Extend Gains After MSCI Delay, Stimulus Plans — Indonesia’s IDX Composite added 37 points, or 0.6%, to 6,137 in Wednesday morning trade, building gains from the previous session after MSCI delayed its assessment of Indonesia’s market accessibility to November. The extended review followed concerns raised earlier this year over market accessibility, with the index provider freezing changes to Indonesia's equity indexes in January due to investability issues. Domestically, sentiment was lifted by government plans to relaunch consumer stimulus in the second half of the year to support economic activity amid global uncertainty. Meanwhile, U.S. futures edged higher after Wall Street’s tech-led slide overnight, while easing tensions in the Strait of Hormuz pushed oil closer to pre-conflict levels. Industrials, financials, and healthcare led advances, offsetting weakness in transport, consumer cyclicals, and property. Standouts included Surya Citra Media (3%), Astra Intl. (2.4%), Semen Indonesia (1.7%), and Perusahaan Gas Negara (1.3%)."
-    },
-    {
-      "id": "4951572",
-      "time": "2026-06-24 10:38:47",
-      "tags": [
-        "市場"
-      ],
-      "text": "【算力租賃概念震盪拉昇 宏景科技漲超17%續創歷史新高】算力租賃概念盤中震盪拉昇，宏景科技漲超17%，續創歷史新高，海蘭信、協創資料、協鑫能科、光環新網、利通電子跟漲。"
-    },
-    {
-      "id": "4951571",
-      "time": "2026-06-24 10:38:39",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【鋰礦板塊快速拉昇，永杉鋰業衝擊漲停】鋰礦板塊快速拉昇，永杉鋰業衝擊漲停，盛新鋰能、天齊鋰業、融捷股份、贛鋒鋰業紛紛拉昇。"
-    },
-    {
-      "id": "mkt:019ef77e-6bb4-7dd8-b0e9-516c2127a8b5",
-      "time": "2026-06-24 10:38:37",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Keiko Fujimori leads preliminary count in Peru presidential runoff】An update from Peru's National Office of Electoral Processes (ONPE) late on the 23rd showed right-wing Popular Force candidate Keiko Fujimori leading in the preliminary count of the presidential runoff."
-    },
-    {
-      "id": "4951570",
-      "time": "2026-06-24 10:38:23",
-      "tags": [
-        "其他"
-      ],
-      "text": "秘魯全國選舉程式辦公室23日晚更新的秘魯總統選舉第二輪投票初步計票結果顯示，右翼政黨人民力量黨候選人藤森慶子領先。（新華社）"
-    },
-    {
-      "id": "4951569",
-      "time": "2026-06-24 10:37:14",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "Advent據悉將收購日本一家護理公司。"
-    },
-    {
-      "id": "4951568",
-      "time": "2026-06-24 10:37:13",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "紐約期金失守4080美元/盎司，日內跌1.67%。"
-    },
-    {
-      "id": "4951567",
-      "time": "2026-06-24 10:36:55",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【印度對涉華乙二胺作出反傾銷終裁，建議徵收為期5年反傾銷稅】6月23日，印度商工部發布公告，對原產於或進口自中國大陸、歐盟、沙烏地阿拉伯以及中國臺灣地區的乙二胺作出反傾銷肯定性終裁，建議徵收為期5年的反傾銷稅，具體如下：中國大陸為350－575美元/噸，歐盟為464－739美元/噸，沙烏地阿拉伯為230－375美元/噸，中國臺灣地區為301美元/噸。"
-    },
-    {
-      "id": "4951566",
-      "time": "2026-06-24 10:36:30",
-      "tags": [
-        "其他"
-      ],
-      "text": "【深圳經營主體總量超450萬家】在24日上午舉行的2026年APEC中小企業工商論壇主論壇上，深圳市市長覃偉中介紹，截至今年5月，深圳經營主體總量超450萬家，其中中小企業超280萬家，經營主體數量和創業密度均居中國城市首位。"
     }
   ]
 }
