@@ -1,7 +1,241 @@
 {
   "date": "2026-07-01",
-  "count": 1747,
+  "count": 1772,
   "items": [
+    {
+      "id": "4964538",
+      "time": "2026-07-01 16:02:22",
+      "tags": [
+        "市場"
+      ],
+      "text": "【羅技美股盤前漲超13%】羅技美股盤前漲超13%，現報106.84美元。"
+    },
+    {
+      "id": "4964537",
+      "time": "2026-07-01 16:02:12",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "耐克股價盤前下跌3.8%，此前該公司公佈第四季度營收低於預期。"
+    },
+    {
+      "id": "4964536",
+      "time": "2026-07-01 16:01:55",
+      "tags": [
+        "國際"
+      ],
+      "text": "【NASA承諾：若美國隊贏得世界盃，將送比賽用球上月球】據法新社6月30日報道，美國國家航空航天局（NASA）局長賈裡德·艾薩克曼6月30日為參加2026年世界盃的美國足球隊員加油打氣：“加油，美國隊，拿出你們的本事！”NASA還承諾，如果美國隊奪冠，將把一隻比賽用球送上月球。本屆世界盃賽事在美國、墨西哥和加拿大舉行。NASA已借本屆世界盃之機將一個國際足聯官方比賽用球送上了國際空間站。但艾薩克曼在30日的一場活動中表示，如果美國隊奪冠，NASA將更進一步：把另一隻足球送到更遠的月球。根據美國未來幾年在月球表面建造基地的計劃，這隻足球將由機器人攜帶，與其他科學儀器一同運送至月球。（參考訊息）"
+    },
+    {
+      "id": "4964535",
+      "time": "2026-07-01 16:01:52",
+      "tags": [
+        "國際"
+      ],
+      "text": "【現代汽車6月全球銷量同比減少5.9%】7月1日，韓國汽車製造商現代汽車公佈，2026年6月全球銷量為338,313輛，同比減少5.9%。其中，國內市場銷量為58,232輛，同比減少6.2%；海外市場銷量280,081輛，同比減少5.8%。"
+    },
+    {
+      "id": "4964534",
+      "time": "2026-07-01 16:01:45",
+      "tags": [
+        "市場"
+      ],
+      "text": "美股盤前， 儲存晶片股持續走低，美光科技跌近3%，閃迪跌近4%。"
+    },
+    {
+      "id": "4964533",
+      "time": "2026-07-01 16:01:24",
+      "tags": [
+        "市場"
+      ],
+      "text": "【美股中概股盤前漲跌互現，萬國資料漲6%】美股中概股盤前漲跌互現，萬國資料漲6%，網易、阿里巴巴漲0.3%，攜程跌0.2%，京東跌0.3%，百濟神州跌0.9%，百度、蔚來跌1%。"
+    },
+    {
+      "id": "4964532",
+      "time": "2026-07-01 16:01:20",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國標普500 E-迷你股指期貨下跌0.36%，道指期貨下跌0.35%，納斯達克100股指期貨下跌0.54%。"
+    },
+    {
+      "id": "4964531",
+      "time": "2026-07-01 16:01:17",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【美股大型科技股盤前漲跌互現，英偉達跌0.8%】美股大型科技股盤前漲跌互現，微軟漲0.6%，SpaceX漲0.3%，Meta、亞馬遜、蘋果持平，谷歌A跌0.5%，特斯拉跌0.7%，英偉達跌0.8%。"
+    },
+    {
+      "id": "mkt:019f1cb2-2bab-7aab-8c4f-c4dbcf7ae88f",
+      "time": "2026-07-01 16:01:06",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Industrial Metals",
+        "Copper",
+        "Impact bullish"
+      ],
+      "text": "LME stocks: aluminium down 1,900t, lead down 1,475t, nickel down 210t, tin unchanged, zinc down 625t, copper down 4,375t."
+    },
+    {
+      "id": "4964530",
+      "time": "2026-07-01 16:01:06",
+      "tags": [
+        "其他"
+      ],
+      "text": "倫敦金屬交易所（LME）：鋁庫存減少1900噸，鉛庫存減少1475噸，鎳庫存減少210噸，錫庫存持平，鋅庫存減少625噸，銅庫存減少4375噸。"
+    },
+    {
+      "id": "4964529",
+      "time": "2026-07-01 16:01:03",
+      "tags": [
+        "國際"
+      ],
+      "text": "【中國駐烏克蘭大使在烏媒發文：準確客觀認識中國，推動中烏關係行穩致遠】6月30日，駐烏克蘭大使馬升琨在烏克蘭國際文傳電訊社（Інтерфакс-Україна）和烏克蘭經濟學人網（economistua）發表署名文章《準確客觀認識中國 推動中烏關係行穩致遠》。馬升琨表示，確保中烏關係行穩致遠，要充分發揮兩國合作的互補優勢。中烏產業、資源互補性突出，具備深化務實合作的紮實基礎。烏克蘭擁有優質農業資源、完備工業基礎與科教潛力；中國擁有完整工業體系、成熟基建技術、廣闊消費市場與充足發展經驗，能夠全方位助力烏實現產業修復與升級。雙方在農產品貿易、新能源、基建、教育科技等領域合作成果豐碩，中國始終是烏克蘭重要貿易伙伴。長遠看，雙邊合作仍有廣闊空間和光明前景。"
+    },
+    {
+      "id": "4964528",
+      "time": "2026-07-01 16:00:46",
+      "tags": [
+        "資料"
+      ],
+      "text": "歐元區6月製造業PMI終值 51.4，預期 51.3，初值 51.3。"
+    },
+    {
+      "id": "te:markets:563338",
+      "time": "2026-07-01 16:00:33",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Germany",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "DAX Starts Q3 on Cautious Note — The DAX 40 edged lower to around 24,960 in the first trading session of July, as investors locked in profits following a robust Q2 performance while maintaining a cautious stance. The AI-driven tech rally lost momentum, and peace talks between the US and Iran hit a new stalemate after Tehran said it would not meet with US officials in Doha. Meanwhile, all eyes are on Sintra, where speeches by Fed President Kevin Warsh and ECB President Christine Lagarde are expected later in the day. AI-related stocks, retailers, and banks were among the hardest hit, while defense stocks led gains."
+    },
+    {
+      "id": "4964527",
+      "time": "2026-07-01 16:00:26",
+      "tags": [
+        "公司"
+      ],
+      "text": "【張家界：完成收購湖南武陵源索道有限公司51%股權】張家界公告稱，公司於2026年6月8日審議透過以3.55億元自有資金現金收購武陵源索道公司51%股權的議案，該事項於6月26日經臨時股東會審議透過，並獲國資委批覆。截至7月2日，交易交割條件已全部滿足，相關工商變更登記手續於7月1日辦理完成，武陵源索道公司將納入公司合併報表範圍。"
+    },
+    {
+      "id": "4964526",
+      "time": "2026-07-01 16:00:20",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美三家蛋企涉嫌抬價 達成和解捐逾5000萬枚蛋】美國三家大型雞蛋企業因涉嫌“持續數年串通抬高蛋價”遭美國司法部和17個州的檢方指控，日前雙方達成和解，三家企業同意支付共計330萬美元和解金，並捐贈約5300萬枚雞蛋。（新華社）"
+    },
+    {
+      "id": "te:markets:563337",
+      "time": "2026-07-01 16:00:13",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Energy Commodities Updates: Natural Gas EU Gains by 1.48% — Top commodity gainers are Natural Gas EU (1.48%), Natural Gas UK (1.14%) and Gasoline (0.81%). Biggest losers are Natural gas (-1.12%), Crude Oil WTI (-0.18%) and Brent Crude Oil (-0.11%)."
+    },
+    {
+      "id": "mkt:019f1cb1-5a6b-7aab-8c4f-bad13efc7c0c",
+      "time": "2026-07-01 16:00:12",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "EURUSD",
+        "Impact bullish",
+        "DAX",
+        "S&P500"
+      ],
+      "text": "【Germany manufacturing PMI edges up in June; new orders rebound modestly】S&P Global's final Germany manufacturing PMI rose to 50.3 in June from 50.1 in May, slightly above the preliminary 50.0, signaling marginal expansion. Output growth accelerated and new orders recovered modestly. S&P Global Market Intelligence deputy chief economist Phil Smith said firms are still partially relying on backlogs to sustain output, which is unsustainable, and early deliveries pose a downside risk. Elevated prices and uncertainty could weigh on near-term growth, and the outlook for prices will hinge on developments in the Middle East."
+    },
+    {
+      "id": "mkt:019f1cb1-5254-7aab-8c4f-b4b371f86171",
+      "time": "2026-07-01 16:00:10",
+      "tags": [
+        "MKT News",
+        "Important",
+        "EURUSD",
+        "Impact bullish",
+        "DAX",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "Eurozone June final manufacturing PMI 51.4, vs expected 51.3 and previous 51.3."
+    },
+    {
+      "id": "mkt:019f1cb1-299f-7aab-8c4f-ad3b55503384",
+      "time": "2026-07-01 16:00:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Eurozone | Manufacturing PMI Final (Jun) | actual 51.4 | consensus 51.3 | previous 51.3"
+    },
+    {
+      "id": "te:markets:563336",
+      "time": "2026-07-01 15:59:33",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "France",
+        "Stock Market",
+        "Importance 0"
+      ],
+      "text": "French Stocks Slip to Begin Q3 — The CAC 40 slipped 0.6% to 8,358 on Wednesday, as investors took a breather following the market’s strong performance over the past three months. Investors remained focused on developments in US-Iran peace talks after Tehran said it would not hold talks with US officials, while also awaiting remarks from policymakers at the ECB Forum later in the day. Meanwhile, ECB Governing Council member Martins Kazaks signaled there was no urgency to raise interest rates in July, noting that easing oil prices driven by peace efforts in the Middle East had helped reduce inflationary pressures. On the corporate front, Schneider Electric fell 2.6% after agreeing to acquire Cognite Holding. In contrast, Air Liquide rose nearly 2% to a record high after announcing a $170 million investment in the US to supply ultra-pure gases to SK Hynix. Airbus also gained 1.7%, reaching a more than four-month high after SAS ordered up to 40 widebody aircraft in a deal worth over $10 billion at list prices."
+    },
+    {
+      "id": "4964525",
+      "time": "2026-07-01 15:59:31",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【美媒：歐洲熱浪帶來新投資機遇】據美國消費者新聞與商業頻道網站6月27日報道，多個西歐國家都在苦苦應對破紀錄的熱浪。英國、法國、德國、瑞士和義大利等國均釋出了紅色預警，警告“即便健康人群也面臨生命危險”。在氣候變化使酷熱天氣勢將成為常態的警示聲中，一些投資者正在反思該如何調整投資組合，以應對未來炎熱夏季可能帶來的社會變化。晉達資產管理公司全球可持續股票策略部聯合投資組合經理斯蒂芬妮·尼文6月26日在電話中向消費者新聞與商業頻道表示，她的團隊認為，歐洲極端天氣狀況的增多正帶來結構性的投資增長機遇。她說，全球可持續股票基金的管理團隊在尋找那些擁有“有助於人們在挑戰時期做出應對並增強適應能力的”產品和解決方案的公司。該基金的投資物件包括專注於脫碳、氣候適應、水資源與汙染管理、金融普惠以及醫療等領域的公司。尼文稱，該基金重點關注的領域之一是保險行業。（參考訊息）"
+    },
+    {
+      "id": "4964524",
+      "time": "2026-07-01 15:59:05",
+      "tags": [
+        "公司"
+      ],
+      "text": "【航民股份：控股股東增持股份觸及1%刻度並公佈後續增持計劃】航民股份公告稱，7月1日，控股股東航民集團增持公司股份161.14萬股，佔總股本0.16%，增持後持股比例由45.84%增至46.00%，權益變動觸及1%整數倍。航民集團計劃自7月1日起6個月內，以集中競價方式增持公司A股股份1000萬股（含已增持部分），佔總股本0.98%，不設價格區間，資金源於自有及自籌。增持計劃可能因市場變化等無法達預期。"
+    },
+    {
+      "id": "4964523",
+      "time": "2026-07-01 15:58:47",
+      "tags": [
+        "其他"
+      ],
+      "text": "【最高可達35℃以上，北京釋出高溫黃色預警】據北京市氣象局，7月1日16時，北京市釋出高溫黃色預警：預計7月2日至4日，每日12時至18時北京市平原地區最高氣溫可達35℃以上，請注意防範。"
+    },
+    {
+      "id": "4964522",
+      "time": "2026-07-01 15:58:41",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【國務院任免國家工作人員 任命江文勝為國務院副秘書長】國務院任免國家工作人員。任命江文勝為國務院副秘書長；任命楊偉群為澳門特別行政區維護國家安全委員會國家安全技術顧問。免去江文勝的農業農村部副部長職務；免去盛秋平的商務部副部長職務。"
+    },
+    {
+      "id": "mkt:019f1caf-e2df-7aab-8c4f-a34cc8481b54",
+      "time": "2026-07-01 15:58:36",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Iranian state media reported a foreign container ship ran aground in the Strait of Hormuz after failing to follow an Iran-designated route."
+    },
     {
       "id": "4964521",
       "time": "2026-07-01 15:58:17",
