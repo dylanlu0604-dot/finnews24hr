@@ -1,7 +1,39 @@
 {
-  "updated": "2026-07-02 02:59:11",
-  "count": 14125,
+  "updated": "2026-07-02 03:03:48",
+  "count": 14119,
   "items": [
+    {
+      "id": "4965865",
+      "time": "2026-07-02 03:01:50",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國農業部：美國5月份大豆壓榨量為2.131億蒲式耳。"
+    },
+    {
+      "id": "4965864",
+      "time": "2026-07-02 03:00:22",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "【歐盟機構：6月單日全球海面溫度破歷史同期紀錄】歐盟氣候監測機構哥白尼氣候變化服務局和“哥白尼海洋服務”計劃7月1日聯合釋出公報說，6月21日當天全球海洋表面平均溫度打破歷史同期紀錄。哥白尼氣候變化服務局資料顯示，6月21日當天的全球海洋表面平均溫度升至20.86攝氏度，高於2023年和2024年同期的20.83攝氏度。“哥白尼海洋服務”計劃的資料顯示，同日全球海洋表面平均溫度達21攝氏度，比2023年和2024年創下的紀錄高出0.1攝氏度。"
+    },
+    {
+      "id": "mkt:019f1f0d-b734-7aab-8c65-78d3ee8ae3c9",
+      "time": "2026-07-02 03:00:20",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade",
+        "WTI",
+        "Impact bearish",
+        "S&P500",
+        "Impact bullish",
+        "DXY"
+      ],
+      "text": "President Trump said U.S.-Iran relations are very cordial."
+    },
     {
       "id": "4965863",
       "time": "2026-07-02 02:54:43",
@@ -130092,89 +130124,6 @@
         "MKT News"
       ],
       "text": "Financial Times reports prediction-market platform Kalshi is in talks to raise funding at a $40 bln valuation."
-    },
-    {
-      "id": "mkt:019efb04-4b79-7dd8-b102-ee33913dc61e",
-      "time": "2026-06-25 03:03:43",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "Chip Wars",
-        "QCOM.O"
-      ],
-      "text": "Qualcomm said it is working with a hyperscale customer to develop a new communications chip."
-    },
-    {
-      "id": "mkt:019efb04-145c-7dd8-b102-e34e58d2666f",
-      "time": "2026-06-25 03:03:28",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "Chip Wars",
-        "QCOM.O",
-        "Impact bullish"
-      ],
-      "text": "Qualcomm launches services supporting PAM4 electrical and optical signaling."
-    },
-    {
-      "id": "4953370",
-      "time": "2026-06-25 03:03:00",
-      "tags": [
-        "其他"
-      ],
-      "text": "市場訊息：預測交易平臺 Kalshi 洽談新一輪融資，投後估值目標 400 億美元。Kalshi 最快將於今年第三季度完成新一輪融資交割。"
-    },
-    {
-      "id": "mkt:019efb03-0a5d-7dd8-b102-dda9452dcaeb",
-      "time": "2026-06-25 03:02:20",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "The White House plans to seek more than $1.4 billion from Congress to respond to the Ebola outbreak."
-    },
-    {
-      "id": "mkt:019efb02-f6de-7dd8-b102-d0e3fbc9792a",
-      "time": "2026-06-25 03:02:15",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bearish"
-      ],
-      "text": "【Trump says Iran agreed to all his demands; notes oil below $70】NBC News reported President Trump told reporters after a closed-door lunch with Senate Republicans that Iran \"agreed to all the demands I made\" and that oil had \"just fallen below $70.\" Punchbowl reporting said a Republican senator called the meeting a \"venting session,\" and that Trump was in a bad mood, clashed with Sen. Cassidy and berated Republicans who voted to limit war powers."
-    },
-    {
-      "id": "4953368",
-      "time": "2026-06-25 03:02:12",
-      "tags": [
-        "其他"
-      ],
-      "text": "高通：正與一家超大型雲服務商合作研發全新通訊晶片。"
-    },
-    {
-      "id": "4953365",
-      "time": "2026-06-25 03:01:36",
-      "tags": [
-        "其他"
-      ],
-      "text": "高通：推出 PAM4 電訊號與光訊號配套服務。"
-    },
-    {
-      "id": "4953364",
-      "time": "2026-06-25 03:01:08",
-      "tags": [
-        "其他"
-      ],
-      "text": "高通：推出面向資料中心的 Dragonfly C1000 處理器。"
-    },
-    {
-      "id": "4953362",
-      "time": "2026-06-25 03:00:02",
-      "tags": [
-        "市場"
-      ],
-      "text": "恒指期貨夜盤收跌0.30%，報23269.77點，低水142.41點。"
     }
   ]
 }
