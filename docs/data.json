@@ -1,7 +1,42 @@
 {
-  "updated": "2026-07-02 06:11:42",
-  "count": 14040,
+  "updated": "2026-07-02 06:16:03",
+  "count": 14038,
   "items": [
+    {
+      "id": "te:markets:563542",
+      "time": "2026-07-02 06:15:11",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "FX Updates: Indian Rupee Drops by 0.82% — Top currency losers are Indian Rupee (-0.82%), Brazilian Real (-0.49%), South Korean Won (-0.46%) and Euro (-0.39%). Gains are led by Dollar Index (0.21%) and British Pound (0.11%). Meanwhile Japanese Yen was little changed."
+    },
+    {
+      "id": "4965974",
+      "time": "2026-07-02 06:15:08",
+      "tags": [
+        "其他"
+      ],
+      "text": "兩場大火在法國馬賽北部燒燬100公頃土地，已有200餘名消防員趕赴現場處置。"
+    },
+    {
+      "id": "4965973",
+      "time": "2026-07-02 06:14:37",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普披露，其2025年累計進行22000筆股票交易，股票購入總額最高達14億美元。"
+    },
+    {
+      "id": "4965972",
+      "time": "2026-07-02 06:11:30",
+      "tags": [
+        "其他"
+      ],
+      "text": "紐西蘭11個月財政赤字收窄至67.9億紐西蘭元，財政赤字較此前預期少30.4億紐西蘭元。"
+    },
     {
       "id": "4965971",
       "time": "2026-07-02 06:10:29",
@@ -129244,60 +129279,6 @@
         "其他"
       ],
       "text": "中國地震臺網自動測定：06月25日06時04分在委內瑞拉附近（北緯10.71度，西經67.84度）發生6.7級左右地震，最終結果以正式速報為準。"
-    },
-    {
-      "id": "te:markets:561647",
-      "time": "2026-06-25 06:15:17",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Currency",
-        "Importance 1"
-      ],
-      "text": "FX Updates: Norwegian Krone Drops by 0.59% — Top currency losers are Norwegian Krone (-0.59%), Mexican Peso (-0.38%), New Zealand Dollar (-0.33%), British Pound (-0.30%), Euro (-0.22%) and Japanese Yen (-0.14%). Gains are led by Indian Rupee (0.41%) and Dollar Index (0.17%)."
-    },
-    {
-      "id": "4953555",
-      "time": "2026-06-25 06:15:09",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "【嚴控風格漂移，公募分階段糾偏“盲盒基金”】“盲盒基金”的整改進入倒計時。近期，基金投資風格監督自律規則出臺，劍指主題基金監督管理、嚴控風格漂移現象。上海證券報記者從業內瞭解到，部分公募機構快速響應，已按新規將風格糾偏工作分為“摸排，更新，調倉”三個階段，並有序推進。據第三方機構統計，當前公募主題基金規模近3萬億元，涉及約2500只基金。隨著糾偏工作推進，基民投資“開盲盒”的困擾將得到改善。（上證報）"
-    },
-    {
-      "id": "4953554",
-      "time": "2026-06-25 06:13:50",
-      "tags": [
-        "其他"
-      ],
-      "text": "德國地學研究中心GFZ：委內瑞拉沿海發生6.39級地震。"
-    },
-    {
-      "id": "4953553",
-      "time": "2026-06-25 06:13:38",
-      "tags": [
-        "其他"
-      ],
-      "text": "【2036年奧運會舉辦地2029年敲定 奧運設項評估轉向分項】國際奧委會第146次全會24日透過兩項重要改革方案，分別涉及奧運會舉辦地遴選程式和奧運專案設定方法。根據新的遴選程式，2036年奧運會舉辦地將於2029年產生；一套以競賽“分項”為基礎的評估新方法，則將為奧運專案設定注入更多靈活性。自去年6月接替前任主席巴赫執掌國際奧委會以來，考文垂啟動了以“適應未來”為主題的系列改革，最佳化奧運會舉辦地遴選程式正是其中的重要內容。此前，2028年奧運會和2032年奧運會的舉辦城市均提前11年產生。（央視新聞）"
-    },
-    {
-      "id": "mkt:019efbb0-abe9-7dd8-b105-f3166c574804",
-      "time": "2026-06-25 06:11:59",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "GFZ reported a magnitude 6.39 earthquake off Venezuela's coast."
-    },
-    {
-      "id": "mkt:019efbb0-832a-7dd8-b105-e868367308e0",
-      "time": "2026-06-25 06:11:49",
-      "tags": [
-        "MKT News",
-        "MU.O",
-        "Impact bullish",
-        "QCOM.O"
-      ],
-      "text": "【Micron tops estimates, jumps 15% after-hours; Qualcomm up on bullish AI outlook】Chip stocks rallied in after-hours trading Wednesday after Micron Technology (MU.O) reported results and guidance above expectations; its shares rose about 15% after hours and were roughly 270% YTD at Wednesday’s close. Qualcomm (QCOM.O) also rallied, gaining as much as 15% after management at an investor day outlined an expanded AI/data-center push and said its data-center chip expansion will deliver \"billions of dollars\" of revenue in the fiscal year beginning in October."
     }
   ]
 }

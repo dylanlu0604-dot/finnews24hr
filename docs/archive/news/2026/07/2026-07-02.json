@@ -1,7 +1,42 @@
 {
   "date": "2026-07-02",
-  "count": 346,
+  "count": 350,
   "items": [
+    {
+      "id": "te:markets:563542",
+      "time": "2026-07-02 06:15:11",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "FX Updates: Indian Rupee Drops by 0.82% — Top currency losers are Indian Rupee (-0.82%), Brazilian Real (-0.49%), South Korean Won (-0.46%) and Euro (-0.39%). Gains are led by Dollar Index (0.21%) and British Pound (0.11%). Meanwhile Japanese Yen was little changed."
+    },
+    {
+      "id": "4965974",
+      "time": "2026-07-02 06:15:08",
+      "tags": [
+        "其他"
+      ],
+      "text": "兩場大火在法國馬賽北部燒燬100公頃土地，已有200餘名消防員趕赴現場處置。"
+    },
+    {
+      "id": "4965973",
+      "time": "2026-07-02 06:14:37",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普披露，其2025年累計進行22000筆股票交易，股票購入總額最高達14億美元。"
+    },
+    {
+      "id": "4965972",
+      "time": "2026-07-02 06:11:30",
+      "tags": [
+        "其他"
+      ],
+      "text": "紐西蘭11個月財政赤字收窄至67.9億紐西蘭元，財政赤字較此前預期少30.4億紐西蘭元。"
+    },
     {
       "id": "4965971",
       "time": "2026-07-02 06:10:29",
