@@ -1,7 +1,16 @@
 {
-  "updated": "2026-07-02 04:40:51",
-  "count": 14057,
+  "updated": "2026-07-02 04:44:38",
+  "count": 14050,
   "items": [
+    {
+      "id": "4965927",
+      "time": "2026-07-02 04:41:28",
+      "tags": [
+        "觀點",
+        "國際"
+      ],
+      "text": "【高盛預估：世界盃或將為6月就業報告新增4萬個崗位】高盛表示，受世界盃拉動，週四即將公佈的6月非農就業資料或將好於市場預期。高盛稱，小企業薪資服務商Homebase的資料顯示，足球賽事對招聘產生了一定提振作用，當月新增約4萬個工作崗位。"
+    },
     {
       "id": "4965926",
       "time": "2026-07-02 04:38:18",
@@ -129425,84 +129434,6 @@
         "市場"
       ],
       "text": "美光科技盤後上漲至15%。"
-    },
-    {
-      "id": "mkt:019efb60-0a83-7dd8-b105-0c385263dd63",
-      "time": "2026-06-25 04:43:55",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Trump said he nearly made progress in talks with NATO Secretary-General Rutte."
-    },
-    {
-      "id": "4953504",
-      "time": "2026-06-25 04:43:08",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：關於伊朗戰爭授權的投票毫無意義。"
-    },
-    {
-      "id": "mkt:019efb5f-3c96-7dd8-b105-066ab1165d3b",
-      "time": "2026-06-25 04:43:03",
-      "tags": [
-        "MKT News",
-        "Important",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "US President Trump said an Iran deal that includes transportation costs would be unacceptable."
-    },
-    {
-      "id": "mkt:019efb5e-c209-7dd8-b104-ffccd776f091",
-      "time": "2026-06-25 04:42:31",
-      "tags": [
-        "MKT News",
-        "LMT.O",
-        "Impact bullish",
-        "RTX.O",
-        "NOC.O"
-      ],
-      "text": "White House says Trump's supplemental budget request includes $67.15 bln for Defense Department military projects."
-    },
-    {
-      "id": "4953499",
-      "time": "2026-06-25 04:42:02",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普談伊朗：我們在談判中進展順利。"
-    },
-    {
-      "id": "4953498",
-      "time": "2026-06-25 04:41:45",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：對霍爾木茲海峽收費是不可接受的。"
-    },
-    {
-      "id": "mkt:019efb5d-58cc-7dd8-b104-f4721609f221",
-      "time": "2026-06-25 04:40:59",
-      "tags": [
-        "MKT News",
-        "Brent",
-        "Impact bullish"
-      ],
-      "text": "Trump said he had heard that Burnham, a potential successor to the UK prime minister, is very liberal and therefore may not open the North Sea."
-    },
-    {
-      "id": "mkt:019efb5d-434e-7dd8-b104-ebc1928a8bcf",
-      "time": "2026-06-25 04:40:53",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution",
-        "QCOM.O",
-        "Impact bullish"
-      ],
-      "text": "Hugging Face CEO said AI models from the Hugging Face ecosystem are planned to be integrated and deployed on Qualcomm platforms."
     }
   ]
 }
