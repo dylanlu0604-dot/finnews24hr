@@ -1,7 +1,267 @@
 {
   "date": "2026-07-01",
-  "count": 2799,
+  "count": 2829,
   "items": [
+    {
+      "id": "mkt:019f1dab-bf9c-7aab-8c58-1429557ef0d5",
+      "time": "2026-07-01 20:33:42",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. President Trump praised the drop in oil prices."
+    },
+    {
+      "id": "mkt:019f1dab-b239-7aab-8c58-0bde878c59f4",
+      "time": "2026-07-01 20:33:39",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "US President Trump said talks with Iran are progressing smoothly and that Iran's denuclearization is proceeding well."
+    },
+    {
+      "id": "4965281",
+      "time": "2026-07-01 20:33:17",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "特朗普稱讚油價下跌。"
+    },
+    {
+      "id": "mkt:019f1dab-50ba-7aab-8c58-013329b0d77a",
+      "time": "2026-07-01 20:33:14",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "MU.O",
+        "Impact bullish",
+        "GM.N"
+      ],
+      "text": "Micron Technology and General Motors signed a strategic customer agreement to secure long-term memory and storage supply for GM vehicle production. The pact is intended to ensure a long-term, reliable memory and storage platform and to support GM’s scaled deliveries."
+    },
+    {
+      "id": "4965280",
+      "time": "2026-07-01 20:33:13",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：伊朗談判進展順利。"
+    },
+    {
+      "id": "4965279",
+      "time": "2026-07-01 20:33:08",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：與伊朗會晤良好。"
+    },
+    {
+      "id": "4965278",
+      "time": "2026-07-01 20:33:04",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：伊朗無核化程序進展順利。"
+    },
+    {
+      "id": "4965277",
+      "time": "2026-07-01 20:33:00",
+      "tags": [
+        "市場"
+      ],
+      "text": "洲際交易所：新增GPU計算期貨合約將以美元計價、現金交割。"
+    },
+    {
+      "id": "4965276",
+      "time": "2026-07-01 20:32:55",
+      "tags": [
+        "國際"
+      ],
+      "text": "中國地震臺網正式測定：07月01日20時08分在日本本州東部附近海域（北緯40.15度，東經142.55度）發生5.8級地震，震源深度50千米。"
+    },
+    {
+      "id": "4965275",
+      "time": "2026-07-01 20:32:50",
+      "tags": [
+        "市場"
+      ],
+      "text": "洲際交易所：預計今年晚些時候推出GPU計算期貨合約，有待監管部門批准。"
+    },
+    {
+      "id": "mkt:019f1daa-ef61-7aab-8c57-f90c89e9b1e5",
+      "time": "2026-07-01 20:32:49",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "Sources say Kazakhstan has agreed to supply Russia with 50,000 tonnes of gasoline in July and August."
+    },
+    {
+      "id": "4965274",
+      "time": "2026-07-01 20:32:36",
+      "tags": [
+        "國際"
+      ],
+      "text": "四名訊息人士透露，哈薩克已同意在7月至8月期間向俄羅斯供應5萬噸汽油。"
+    },
+    {
+      "id": "mkt:019f1daa-a5f4-7aab-8c57-f2100d682926",
+      "time": "2026-07-01 20:32:30",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade",
+        "BA.O",
+        "Impact bullish"
+      ],
+      "text": "U.S. President Trump praised Boeing's next-generation Air Force One."
+    },
+    {
+      "id": "4965273",
+      "time": "2026-07-01 20:32:26",
+      "tags": [
+        "公司"
+      ],
+      "text": "美光科技：SCA為2026財年第三季度財報電話會議研討的16項議題之一。"
+    },
+    {
+      "id": "4965272",
+      "time": "2026-07-01 20:32:10",
+      "tags": [
+        "市場"
+      ],
+      "text": "美光與通用汽車達成協議，供應記憶體及儲存平臺產品。通用汽車盤前漲1.9%。"
+    },
+    {
+      "id": "mkt:019f1daa-1f41-7aab-8c57-ed102c782d60",
+      "time": "2026-07-01 20:31:56",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "IMF says Israel's inflation will temporarily rise due to higher energy prices."
+    },
+    {
+      "id": "4965271",
+      "time": "2026-07-01 20:31:44",
+      "tags": [
+        "國際"
+      ],
+      "text": "國際貨幣基金組織：受能源價格影響，以色列通脹將短暫上行。"
+    },
+    {
+      "id": "4965270",
+      "time": "2026-07-01 20:31:40",
+      "tags": [
+        "市場"
+      ],
+      "text": "ICE與NATIVX將推出能源標準化計算期貨合約。"
+    },
+    {
+      "id": "mkt:019f1da9-da24-7aab-8c57-e726e1b37421",
+      "time": "2026-07-01 20:31:38",
+      "tags": [
+        "MKT News",
+        "GM.N",
+        "Impact bullish",
+        "MU.O"
+      ],
+      "text": "GM rose 1.9% in pre-market trading after signing a strategic agreement with Micron Technology ."
+    },
+    {
+      "id": "4965269",
+      "time": "2026-07-01 20:31:29",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "特朗普盛讚波音公司新空軍一號。"
+    },
+    {
+      "id": "4965268",
+      "time": "2026-07-01 20:31:18",
+      "tags": [
+        "公司"
+      ],
+      "text": "【德冠新材：目前已具備批次生產電子轉移膜的技術能力】德冠新材(001378)在分析師會議中表示，目前公司已具備批次生產電子轉移膜的技術能力，鋰電池絕緣膜已形成交付。因公司產品屬於上游基礎材料，下游產業鏈較長，產品最終應用情況仍需要經過一定時間的技術驗證，目前這部分業務佔營業收入比例不足1%。"
+    },
+    {
+      "id": "4965267",
+      "time": "2026-07-01 20:31:07",
+      "tags": [
+        "其他"
+      ],
+      "text": "美光科技與通用汽車簽署戰略協議以確保供應並加速創新。"
+    },
+    {
+      "id": "4965266",
+      "time": "2026-07-01 20:30:54",
+      "tags": [
+        "市場"
+      ],
+      "text": "洲際交易所（ICE）與Nativx將推出能源歸一化計算期貨合約。"
+    },
+    {
+      "id": "mkt:019f1da9-1351-7aab-8c57-daaea2a7ffbd",
+      "time": "2026-07-01 20:30:47",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "【BofA says Fed communication showing early shift toward quieter stance after June FOMC】BofA says Fed officials cut public appearances to 12 speeches/interviews in the two weeks after the June FOMC, versus an average of about 23 in the same post-meeting window since 2022. The bank flags this could be an early sign the Fed chair is favoring a lower-profile communications strategy, but notes the drop may also reflect the July 4 holiday and a lack of additional commentary following June guidance. Time will tell if this is a durable trend or noise."
+    },
+    {
+      "id": "mkt:019f1da9-101f-7aab-8c57-d48b6e7e6df7",
+      "time": "2026-07-01 20:30:46",
+      "tags": [
+        "MKT News",
+        "MU.O",
+        "Impact bullish",
+        "GM.N"
+      ],
+      "text": "Micron Technology (MU.O) and GM (GM.N) signed a strategic agreement to secure supply and accelerate innovation."
+    },
+    {
+      "id": "4965265",
+      "time": "2026-07-01 20:30:30",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【先導基電：股票交易異常波動 籌劃增資收購股權存不確定性】先導基電公告稱，公司股票2026年6月30日、7月1日連續兩個交易日收盤價格漲幅偏離值累計超20%，屬異常波動。目前公司生產經營正常，2025年淨虧損1.27億元，2026年一季度淨虧損1690.21萬元。公司正籌劃透過增資收購先導微電子股權，相關工作未完成，能否交易不確定。截至7月1日，公司市淨率5.11倍，高於行業平均的0.83倍，提醒投資者注意風險。"
+    },
+    {
+      "id": "4965264",
+      "time": "2026-07-01 20:30:24",
+      "tags": [
+        "公司"
+      ],
+      "text": "【先導基電：籌劃增資收購先導微電子股權 預計不構成重大重組】先導基電公告稱，公司正籌劃對先導微電子增資以實現控股，擬取得其50%以上股權。本次增資尚處籌劃階段，具體金額及比例待確定。因雙方實控人均為朱世會，交易構成關聯交易，但預計不構成重大資產重組。先導微電子2026年1 - 4月營收3.52億元、淨利潤3998.45萬元，初步評估值約20億元。交易尚需履行決策程式，存在不確定性。"
+    },
+    {
+      "id": "4965263",
+      "time": "2026-07-01 20:29:55",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【ST中裝：股票交易異常波動 申請撤銷警示尚待稽核】ST中裝公告稱，公司股票於2026年6月29日、6月30日、7月1日連續三個交易日收盤價格漲跌幅偏離值累計超12%，屬異常波動。公司已向深交所申請撤銷其他風險警示，尚需稽核，結果不確定。目前公司經營及內外部環境未變，未發現重大影響的報道及傳聞，無應披露未披露事項，異常波動期間控股股東及實控人無買賣公司股票行為。公司計劃8月28日披露半年報。"
+    },
+    {
+      "id": "4965262",
+      "time": "2026-07-01 20:29:44",
+      "tags": [
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "【美國股指期貨交投氣氛謹慎 交易員等待沃什講話指引】7月伊始，股市交投氣氛謹慎，交易員等待美聯儲主席凱文·沃什的講話。眼下，市場對美國加息的押注正在升溫。美元和債券收益率走高。紐約時間8:03，標普500指數期貨和道指期貨下跌0.3%，納斯達克100指數期貨跌0.6%。貨幣市場目前計入美聯儲下次政策會議加息的機率約為三分之一。ING Bank NV外匯策略師Chris Turner寫道：“鑑於美聯儲當前沒有提供前瞻指引，市場將高度關注沃什的表態。如果聚焦價格穩定，就可能繼續支撐美元。”"
+    },
     {
       "id": "4965261",
       "time": "2026-07-01 20:29:32",
@@ -175,6 +435,15 @@
         "其他"
       ],
       "text": "英國海事貿易運營中心將葉門附近事件重新定性為非法登船。"
+    },
+    {
+      "id": "em:jjsj_mgsj:202607013790479968",
+      "time": "2026-07-01 20:25:44",
+      "tags": [
+        "經濟數據",
+        "美國"
+      ],
+      "text": "【美國企業6月份新增9.8萬個工作崗位 表現穩健但低於預期】6月份美國私營部門就業崗位增長依然穩健，進一步表明今年勞動力市場已趨於穩定。根據ADP Research週三釋出的資料，私營部門就業人數在前一個月增加12.2萬後，於6月增加了9.8萬。對經濟學家的調查顯示，市場預期中值為增加12萬。"
     },
     {
       "id": "4965249",
