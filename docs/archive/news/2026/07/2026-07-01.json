@@ -1,7 +1,103 @@
 {
   "date": "2026-07-01",
-  "count": 3554,
+  "count": 3564,
   "items": [
+    {
+      "id": "mkt:019f1e26-3623-7aab-8c60-f4ffbb6de42a",
+      "time": "2026-07-01 22:47:28",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "【Philadelphia Semiconductor Index falls over 5%】Philadelphia Semiconductor Index fell more than 5%; Micron Technology (MU.O) down over 8%, Intel (INTC.O) down about 7%, Arm (ARM.O) down 6%, NVIDIA (NVDA.O) down 2.6%."
+    },
+    {
+      "id": "4965690",
+      "time": "2026-07-01 22:47:13",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國能源資訊署（EIA）稱，美國東海岸煉油廠開工率上週下降，跌至2025年4月以來最低水平。"
+    },
+    {
+      "id": "4965689",
+      "time": "2026-07-01 22:47:08",
+      "tags": [
+        "國際"
+      ],
+      "text": "據希法醫院工作人員訊息，自今日清晨以來，以色列對加沙城發動空襲，已造成三名巴勒斯坦人死亡、十餘人受傷。"
+    },
+    {
+      "id": "4965688",
+      "time": "2026-07-01 22:45:46",
+      "tags": [
+        "市場"
+      ],
+      "text": "【費城半導體指數跌超5%】費城半導體指數跌超5%，英偉達股價下跌2.4%，臺積電股價下跌5.05%，博通股價下跌1.96%，美光科技股價下跌8.37%，超威半導體股價下跌5.32%，阿斯麥股價下跌5.53%，英特爾股價下跌7.18%，ARM股價下跌5.51%。"
+    },
+    {
+      "id": "te:economy:563500",
+      "time": "2026-07-01 22:45:27",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Albania",
+        "Interest Rate",
+        "Importance 1"
+      ],
+      "text": "Albania Holds Policy Rate — The Bank of Albania kept its key policy rate unchanged at 2.5% at its June 2026 meeting, maintaining that the current stance supports inflation's return to target. The overnight deposit and overnight lending rates also remained unchanged at 1.5% and 3.5%, respectively. Headline inflation averaged 2.9% in April-May, mainly driven by higher fuel prices, with supply-side pressures also affecting unprocessed food and services. Meanwhile, the economy expanded 3.7% year-on-year in the first quarter of 2026, supported by services and construction, with indicators pointing to continued growth in the first half of the year. The Bank expects inflation to rise further in the near term due to supply shocks before gradually easing over the medium term, while economic growth is projected to remain solid. Future policy decisions will remain focused on preserving price stability and containing persistent inflationary pressures."
+    },
+    {
+      "id": "mkt:019f1e23-e558-7aab-8c60-ec86dc4599ff",
+      "time": "2026-07-01 22:44:56",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "DMGT.L"
+      ],
+      "text": "London High Court ruling in Prince Harry's privacy case against the publisher of the Daily Mail is expected on July 7."
+    },
+    {
+      "id": "4965687",
+      "time": "2026-07-01 22:44:54",
+      "tags": [
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "【歐洲央行官員卡西克：市場合理預期央行將再加息一次】歐洲央行管理委員會成員卡西克表示，受伊朗衝突影響，或需進一步收緊貨幣政策，以確保通脹回落至目標水平。這位愛沙尼亞央行行長在葡萄牙辛特拉發言稱：“市場普遍預期央行將再度加息。目前來看，至少再加息一次是合理的。考慮到我們遭遇的石油衝擊，採取這一舉措才能保障通脹降至 2%，這點已形成普遍共識。”談及 7 月 22 日至 23 日的政策會議，卡西克表示：“一方面要看地緣局勢後續走向以及原油市場走勢；另一方面，持續三個月的油價衝擊會對各類商品物價產生多大影響，也有待觀察。”他還提出，需要開展更深入的分析，釐清大宗商品價格的變動邏輯。“部分能源基礎設施遭到損毀，多條供應鏈尚未恢復，因此衝擊大機率會產生長期影響。” 他說道，“當然也存在樂觀情景：和平協議順利落地、伊朗原油重返市場，油價大幅回落。但在我看來，通脹上行風險更大，不過我們仍需保持客觀審慎的判斷。”政策制定者密切關注的另一大隱患是：歐元區通脹上行是否會倒逼薪資持續上漲，進而固化物價上漲壓力，使其長期難以消退。“這是我最擔憂的風險。” 卡西克稱，“倘若局勢趨於穩定，今年秋季我們就能掌握更清晰的薪資資料，但恐怕眼下我們面臨的衝擊不止油價這一項。”"
+    },
+    {
+      "id": "4965686",
+      "time": "2026-07-01 22:44:38",
+      "tags": [
+        "其他"
+      ],
+      "text": "倫敦高等法院預計將於7月7日就哈里王子起訴《每日郵報》出版商隱私一案作出裁決。"
+    },
+    {
+      "id": "mkt:019f1e22-e14a-7aab-8c60-e6dae5f3d10c",
+      "time": "2026-07-01 22:43:50",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "EIA: U.S. Gulf Coast gasoline inventories fell last week to their lowest level since October 2024."
+    },
+    {
+      "id": "4965685",
+      "time": "2026-07-01 22:43:47",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【7月1日增減持彙總】據不完全統計，7月1日盤後，航民股份、鴻特科技、寶塔實業3家A股公司披露增持情況。安乃達、泰禾股份、共達電聲、慧智微、賽分科技5家A股上市公司披露擬減持情況。"
+    },
     {
       "id": "4965684",
       "time": "2026-07-01 22:42:50",
