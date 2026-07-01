@@ -1,7 +1,17 @@
 {
-  "updated": "2026-07-02 03:30:12",
-  "count": 14104,
+  "updated": "2026-07-02 03:33:58",
+  "count": 14101,
   "items": [
+    {
+      "id": "mkt:019f1f2a-d575-7aab-8c65-9d9a1ed54d9c",
+      "time": "2026-07-02 03:32:08",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "【Dan Ives leaving Wedbush to launch AI-focused investment bank】According to CNBC, tech analyst Dan Ives will leave Wedbush Securities to launch a \"modern merchant bank\" focused on artificial intelligence. The new firm intends to combine research, investment-banking advisory, capital raising and investment activities to offer integrated financial and research services to companies and investors amid AI-driven structural change."
+    },
     {
       "id": "4965874",
       "time": "2026-07-02 03:22:59",
@@ -129948,43 +129958,6 @@
         "其他"
       ],
       "text": "據福克斯新聞： 這筆資金還將用於核查與核驗工作。"
-    },
-    {
-      "id": "4953399",
-      "time": "2026-06-25 03:32:15",
-      "tags": [
-        "國際"
-      ],
-      "text": "據福克斯新聞：美國總統特朗普尋求6.72億美元撥款，用於移除伊朗核材料。"
-    },
-    {
-      "id": "mkt:019efb1e-6611-7dd8-b103-6a4349d015c8",
-      "time": "2026-06-25 03:32:13",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Fox News reports President Trump is seeking $672 mln in funding to remove Iranian nuclear material."
-    },
-    {
-      "id": "mkt:019efb1e-4d53-7dd8-b103-673a651559c5",
-      "time": "2026-06-25 03:32:07",
-      "tags": [
-        "MKT News",
-        "DXY",
-        "Impact bullish",
-        "WTI",
-        "S&P500",
-        "Impact bearish"
-      ],
-      "text": "【House Speaker Johnson to meet Trump after president refuses to sign housing bill】House Speaker Johnson will meet President Trump tomorrow to address a legislative impasse after Trump refused to sign a housing bill, saying he will sign it only after Congress approves the SAVE America Act, which he framed as necessary for election integrity. Johnson earlier met with Defense Secretary Hegseth to discuss a supplemental defense appropriations bill; the meetings appear to confirm reports the White House will seek a new congressional spending package to pay for a war with Iran."
-    },
-    {
-      "id": "mkt:019efb1d-08c3-7dd8-b103-598f98d784b8",
-      "time": "2026-06-25 03:30:44",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Punchbowl reports the Pentagon is expected to submit a supplemental spending request to Congress today for about $80 bln to replenish munitions supplies and bolster Pentagon funding."
     }
   ]
 }

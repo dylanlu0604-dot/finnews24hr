@@ -1,7 +1,17 @@
 {
   "date": "2026-07-02",
-  "count": 214,
+  "count": 215,
   "items": [
+    {
+      "id": "mkt:019f1f2a-d575-7aab-8c65-9d9a1ed54d9c",
+      "time": "2026-07-02 03:32:08",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "【Dan Ives leaving Wedbush to launch AI-focused investment bank】According to CNBC, tech analyst Dan Ives will leave Wedbush Securities to launch a \"modern merchant bank\" focused on artificial intelligence. The new firm intends to combine research, investment-banking advisory, capital raising and investment activities to offer integrated financial and research services to companies and investors amid AI-driven structural change."
+    },
     {
       "id": "4965874",
       "time": "2026-07-02 03:22:59",
