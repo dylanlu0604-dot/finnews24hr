@@ -1,7 +1,113 @@
 {
   "date": "2026-07-01",
-  "count": 1838,
+  "count": 1849,
   "items": [
+    {
+      "id": "4964591",
+      "time": "2026-07-01 16:22:07",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列銀行將允許非銀行機構存入隔夜餘額。"
+    },
+    {
+      "id": "4964590",
+      "time": "2026-07-01 16:21:51",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "達索航空<AM.PA>執行長表示，法國與印度就114架\"陣風\"戰鬥機的談判仍在繼續，雙方希望年底前敲定協議。"
+    },
+    {
+      "id": "4964589",
+      "time": "2026-07-01 16:21:25",
+      "tags": [
+        "公司"
+      ],
+      "text": "【廣深鐵路：擬1億元回購A股股份 截至6月底尚未實施】廣深鐵路公告稱，公司將使用自有資金1億元（不含交易費用）進行A股股份回購，回購價格不超4.53元/股，回購的股份將全部登出並減少公司註冊資本。回購期限為2026年6月10日至2027年6月9日。截至2026年6月30日，公司已完成回購專用證券賬戶的開立，但尚未實施股份回購。"
+    },
+    {
+      "id": "te:economy:563357",
+      "time": "2026-07-01 16:20:34",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Germany",
+        "Government Bond 10Y",
+        "Importance 1"
+      ],
+      "text": "German Bund Yields Rise at Start of Q3 — Germany’s 10-year Bund yields climbed above 2.9%, rebounding from a four-month low and following US Treasury yields higher. This came after the latest JOLTS report revealed job openings at a two-year high, while analysts anticipate another strong June non-farm payrolls report, reinforcing expectations that the Federal Reserve will raise interest rates this year. In Europe, investors are focused on the ECB’s Sintra Forum and inflation updates from major economies. Today’s panel with ECB President Christine Lagarde and new Fed Chair Kevin Warsh is highly anticipated, as markets seek insights into economic assessments and policy directions. Recent inflation data in Europe showed easing price pressures, offering some relief to ECB policymakers. Additionally, investors are monitoring US-Iran peace talks in Qatar, hoping for progress toward a lasting ceasefire, though direct negotiations remain unlikely."
+    },
+    {
+      "id": "mkt:019f1cc3-8a47-7aab-8c50-39b19f30df73",
+      "time": "2026-07-01 16:20:04",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Europe & UK",
+        "GBPUSD",
+        "FTSE100"
+      ],
+      "text": "UK June manufacturing PMI final due in 10 minutes."
+    },
+    {
+      "id": "4964588",
+      "time": "2026-07-01 16:19:43",
+      "tags": [
+        "公司"
+      ],
+      "text": "達索航空執行長表示，公司將繼續提升“陣風”戰鬥機的產量，目前供應鏈形勢仍面臨困難。"
+    },
+    {
+      "id": "te:economy:563355",
+      "time": "2026-07-01 16:19:26",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Greece",
+        "Manufacturing PMI",
+        "Importance 1"
+      ],
+      "text": "Greece Factory Activity Expands Further — The S&P Global Greece Manufacturing PMI rose to 53.8 in June 2026 from 53.3 in May, signaling the strongest improvement in the health of the goods-producing sector since March. Total new orders increased solidly at the fastest pace in three months, with companies citing a broader pickup in demand conditions, while some also pointed to customer stockpiling efforts. Production also expanded at its quickest rate since March. However, firms reported a fifth consecutive monthly decline in new export orders. Meanwhile, companies increased staffing levels and purchasing activity amid improved optimism in the year-ahead outlook. Supplier delivery times lengthened markedly again, leading to difficulties in replenishing stocks of both inputs and finished goods, although the deterioration in supplier performance eased slightly. At the same time, inflationary pressures cooled somewhat, but rates of increase in input prices and output charges remained historically elevated."
+    },
+    {
+      "id": "mkt:019f1cc2-6b3f-7aab-8c50-306a7342658f",
+      "time": "2026-07-01 16:18:51",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Industrial Metals",
+        "Copper",
+        "Impact bullish"
+      ],
+      "text": "【South32 shifts focus to copper after sale of aluminium business】South32 will pivot to copper and zinc after selling its aluminium business, which accounted for roughly 60% of prior earnings, CEO Matt Daly said. He said about 55% of the company's growth pipeline is in copper and zinc, with approved projects due for implementation, and that South32 is open to acquisitions but with high thresholds. The group expects around 85% of pro‑forma earnings to come from base metals, chiefly copper, as it exits downstream smelting/refining and the aluminium value chain to concentrate on technical capability, mine planning and processing. Management plans to prioritise its copper asset base, targeting an expansion at Chile's Sierra Gorda and commissioning the US Hermosa zinc‑copper mine next year while pursuing potential M&A."
+    },
+    {
+      "id": "4964587",
+      "time": "2026-07-01 16:18:42",
+      "tags": [
+        "公司"
+      ],
+      "text": "達索航空執行長表示，希望能在今年年底前獲得“陣風”F5型戰機的研發合同，以按原計劃推進專案。"
+    },
+    {
+      "id": "4964586",
+      "time": "2026-07-01 16:18:32",
+      "tags": [
+        "公司"
+      ],
+      "text": "【美力科技：累計回購184.07萬股】美力科技公告，截至2026年7月1日，公司透過股份回購專用證券賬戶以集中競價交易方式累計回購公司股份184.07萬股，佔公司總股本的0.87%，最高成交價為27.93元/股，最低成交價為24.4元/股，成交總金額為4999.43萬元（不含交易費用）。公司本次回購方案已實施完成，實際回購時間區間為2026年6月5日至2026年7月1日。"
+    },
+    {
+      "id": "4964585",
+      "time": "2026-07-01 16:18:29",
+      "tags": [
+        "公司"
+      ],
+      "text": "【華映科技：最高人民法院駁回大同公司再審申請】華映科技公告，近日收到最高人民法院發出的《中華人民共和國最高人民法院民事裁定書（2026）最高法民申1724號》，裁定駁回大同股份有限公司的再審申請。本案涉及華映科技與華映百慕大、大同公司及中華映管之間的合同糾紛，一審判決華映百慕大需向華映科技支付業績補償款30.29億元，並由大同公司承擔連帶清償責任。最高人民法院維持原判，駁回大同公司的再審申請。"
+    },
     {
       "id": "4964584",
       "time": "2026-07-01 16:18:14",
