@@ -1,7 +1,60 @@
 {
-  "updated": "2026-07-01 23:11:50",
-  "count": 14264,
+  "updated": "2026-07-01 23:15:48",
+  "count": 14266,
   "items": [
+    {
+      "id": "mkt:019f1e3f-827d-7aab-8c61-afe9a4ad88bb",
+      "time": "2026-07-01 23:15:06",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Google Cloud confirmed it will offer EU public-sector organizations a more secure option after a Dutch data protection impact assessment (DPIA) was approved."
+    },
+    {
+      "id": "4965720",
+      "time": "2026-07-01 23:14:31",
+      "tags": [
+        "公司"
+      ],
+      "text": "谷歌：已與荷蘭國家政務數字機構（SLM RIJK）開展合作，該機構已完成針對谷歌雲的資料保護影響評估。"
+    },
+    {
+      "id": "4965719",
+      "time": "2026-07-01 23:13:31",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "谷歌雲獲荷蘭資料保護影響評估認證，證實可為歐盟公共機構提供更安全的雲服務選擇。"
+    },
+    {
+      "id": "te:markets:563503",
+      "time": "2026-07-01 23:12:44",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Sugar Futures at Over 1-Month High — Sugar futures in the US extended their upward trend to around 14.9 US cents, reaching the highest since May 19, amid mounting weather concerns. An unusually strong El Niño event, a climate pattern associated with drier conditions in Asia-Pacific and increased rainfall in parts of the Americas, is posing risks to crops in major producing countries. Thailand is experiencing excessive dry conditions and India is expected to see below-normal July rainfall after its driest June in 12 years. Experts warned that weaker monsoon rainfall could reduce India’s annual sugar production by an estimated 3 million to 8 million tonnes. The government has already extended its sugar export ban until September 30. Meanwhile, output in Brazil's key center-south region fell 25.6% year-on-year to 2.2 million metric tons in the second half of May, while the volume of sugarcane processed was 13% smaller at 41.5 million tons, affected by rainfall that interrupted harvesting in some regions."
+    },
+    {
+      "id": "4965718",
+      "time": "2026-07-01 23:11:28",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【勝宏科技：正在全力以赴推進擴產 穩步推進2030年千億產值目標落地】勝宏科技(300476.SZ)釋出投資者關係活動記錄表公告，公司正在全力以赴推進擴產，穩步推進2030年千億產值目標落地。從產品規格看，公司將錨定AI、資料中心交換機等高價值量產品，持續推進產品結構最佳化及價值量提升。國內產能方面，惠州廠房四專案現已分階段逐步投產，目前處於爬坡與量產階段。公司廠房十、十一目前正在加快建設，今年下半年將持續推進兩座工廠的裝修、裝置安裝與除錯試產工作。海外產能方面，公司泰國工廠A1棟一期升級改造已於2025年3月完成，二期高階產能已經開始生產驗證板；泰國A2棟廠房和越南工廠的建設也正在按計劃有序推進中。"
+    },
+    {
+      "id": "mkt:019f1e3c-1956-7aab-8c61-a4c0e24519ab",
+      "time": "2026-07-01 23:11:22",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Sky News reports Harvey Nichols, the UK luxury department store, has asked prospective bidders to submit takeover offers within two weeks."
+    },
     {
       "id": "4965717",
       "time": "2026-07-01 23:10:26",
@@ -131526,38 +131579,6 @@
         "MKT News"
       ],
       "text": "EMSC reported a magnitude-5.5 earthquake in northern California, United States."
-    },
-    {
-      "id": "4953117",
-      "time": "2026-06-24 23:15:18",
-      "tags": [
-        "公司"
-      ],
-      "text": "派拉蒙為推進收購華納交易，準備出售其與環球影業的合資公司資產。"
-    },
-    {
-      "id": "mkt:019efa31-0e95-7dd8-b0fe-0b45959c8b8a",
-      "time": "2026-06-24 23:12:59",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Iran’s foreign ministry said Iran and Saudi Arabia reviewed recent regional and international developments and emphasized continuing consultations, maintaining diplomatic channels and bolstering joint cooperation to support regional stability, advance negotiations and secure positive, sustainable outcomes."
-    },
-    {
-      "id": "4953116",
-      "time": "2026-06-24 23:12:47",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗、沙特外長通電話，商討美伊談判最新進展。"
-    },
-    {
-      "id": "mkt:019efa30-b706-7dd8-b0fe-0763a69de22c",
-      "time": "2026-06-24 23:12:36",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Iran's foreign minister Araghchi held a phone call with his Saudi counterpart on Wednesday evening, briefing him on the latest negotiation progress, implementation of agreed measures and consultations carried out under that framework."
     }
   ]
 }
