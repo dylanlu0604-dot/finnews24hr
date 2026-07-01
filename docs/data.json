@@ -1,7 +1,15 @@
 {
-  "updated": "2026-07-02 03:11:20",
-  "count": 14117,
+  "updated": "2026-07-02 03:15:06",
+  "count": 14114,
   "items": [
+    {
+      "id": "4965870",
+      "time": "2026-07-02 03:11:50",
+      "tags": [
+        "公司"
+      ],
+      "text": "【年內700餘家公司回購超660億元 價值板塊龍頭扛大旗】今年上半年，A股市場結構性行情凸顯，科技股表現亮眼，電子、通訊等板塊年內漲幅均超70%。以大消費、大金融為主的價值板塊則表現較弱，食品飲料、非銀金融、銀行等板塊年內均跌超10%。在此市場背景下，大批處於估值底部的價值股掀起回購潮。資料顯示，年內已落地實施的回購總額突破660億元；另有一批迴購在路上，擬回購金額上限合計逾880億元。"
+    },
     {
       "id": "4965869",
       "time": "2026-07-02 03:07:02",
@@ -130066,49 +130074,6 @@
         "MKT News"
       ],
       "text": "Iran's foreign ministry spokesman said US statements on the memorandum of understanding are contradictory and do not help reduce distrust among the Iranian public."
-    },
-    {
-      "id": "4953380",
-      "time": "2026-06-25 03:14:47",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗外交部發言人：美國關於結束戰爭諒解備忘錄的表態前後矛盾，無助於消除伊朗民眾的不信任感。"
-    },
-    {
-      "id": "mkt:019efb0d-b2ba-7dd8-b103-1b1902c73588",
-      "time": "2026-06-25 03:13:59",
-      "tags": [
-        "MKT News",
-        "QCOM.O",
-        "Impact bullish"
-      ],
-      "text": "Qualcomm (QCOM.O) said its automotive business will reach an annualized revenue run rate of $6.0 bln in fiscal 2026."
-    },
-    {
-      "id": "mkt:019efb0d-a4b0-7dd8-b103-10793127405e",
-      "time": "2026-06-25 03:13:55",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Meta Platforms",
-        "Market Themes",
-        "AI Revolution",
-        "Chip Wars",
-        "Magnificent 7",
-        "QCOM.O",
-        "Impact bearish",
-        "META.O"
-      ],
-      "text": "【Qualcomm unveils Dragonfly C1000 data‑center AI CPU; Meta to adopt in 2028】Qualcomm (QCOM.O) unveiled the Dragonfly C1000, a data‑center CPU tailored for agent-style AI workloads that prioritizes high compute with low power draw. Qualcomm said Meta Platforms (META.O) will adopt the chip for mass production beginning in 2028. The launch underscores Qualcomm's push from smartphone processors and modems into the data‑center market. Qualcomm shares fell more than 5% after the announcement."
-    },
-    {
-      "id": "4953379",
-      "time": "2026-06-25 03:13:16",
-      "tags": [
-        "其他"
-      ],
-      "text": "高通：2026 財年末汽車業務年化營收將達 60 億美元。"
     }
   ]
 }
