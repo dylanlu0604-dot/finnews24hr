@@ -1,0 +1,111 @@
+{
+  "date": "2026-07-02",
+  "count": 10,
+  "items": [
+    {
+      "id": "te:markets:563516",
+      "time": "2026-07-02 00:05:01",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United Kingdom",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "FTSE 100 Edges Down on Wednesday — The FTSE 100 fell slightly on Wednesday, weighed down by corporate updates and a drop in oil prices that pressured energy producers. AB Foods fell more than 3% after warning that its sugar division suffered further deterioration from the Middle East conflict, even as plans to spin off fashion retailer Primark progressed. Also, Shell and BP declined 1.8% and 2.5%, respectively, on lower oil prices. On the other hand, financial services stocks and defense heavyweights provided support. Aerospace company BAE Systems rose 1.7%, submarine contractor Babcock rose over 4.5%, and engine-maker Rolls-Royce rose 0.8%. On the macroeconomic front, Nationwide reported that UK house prices remained flat on a monthly basis in June, missing growth expectations. However, the annualized housing rate rose 2.2%, supported by a brighter market outlook as anticipated Bank of England interest rate hikes began to soften."
+    },
+    {
+      "id": "4965769",
+      "time": "2026-07-02 00:04:48",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄經濟發展部：俄羅斯 5 月國內生產總值同比增長 0.3%，4 月同比增幅為 1.3%。"
+    },
+    {
+      "id": "te:markets:563515",
+      "time": "2026-07-02 00:04:07",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "Charles Schwab Stock Price Hits 10-week High — Charles Schwab shares increased to 94.83 USD, the highest since April 2026. Over the past 4 weeks, Charles Schwab gained 8.21%, and in the last 12 months, it increased 3.79%."
+    },
+    {
+      "id": "4965768",
+      "time": "2026-07-02 00:03:16",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄聯邦統計局：俄羅斯企業 1-4 月利潤達 8.848 萬億盧布。"
+    },
+    {
+      "id": "4965767",
+      "time": "2026-07-02 00:03:11",
+      "tags": [
+        "公司"
+      ],
+      "text": "亞馬遜2025年碳排放量因資料中心激增上升16%。"
+    },
+    {
+      "id": "mkt:019f1e6b-65c1-7aab-8c62-d31bc5214c8e",
+      "time": "2026-07-02 00:03:02",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Tesla",
+        "Market Themes",
+        "Magnificent 7",
+        "TSLA.O",
+        "Impact bullish"
+      ],
+      "text": "Italy's transport ministry said Tesla (TSLA.O) new-car registrations in Jan–Jun rose 22.42% YoY."
+    },
+    {
+      "id": "mkt:019f1e6a-ac69-7aab-8c62-cdbab2d4244b",
+      "time": "2026-07-02 00:02:15",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Tesla",
+        "Market Themes",
+        "Magnificent 7",
+        "TSLA.O",
+        "Impact bullish"
+      ],
+      "text": "Italian transport ministry: Tesla (TSLA.O) new vehicle registrations in June rose 42.78% YoY."
+    },
+    {
+      "id": "4965766",
+      "time": "2026-07-02 00:02:06",
+      "tags": [
+        "其他"
+      ],
+      "text": "義大利交通部表示：今年 1 至 6 月，特斯拉在義大利新車註冊量較 2025 年同期增長 22.42%。"
+    },
+    {
+      "id": "4965765",
+      "time": "2026-07-02 00:01:41",
+      "tags": [
+        "市場"
+      ],
+      "text": "義大利交通部資料：6 月特斯拉新車註冊量同比上漲 42.78%。"
+    },
+    {
+      "id": "mkt:019f1e69-f88c-7aab-8c62-c510e75e31b1",
+      "time": "2026-07-02 00:01:29",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Amazon",
+        "Market Themes",
+        "Magnificent 7",
+        "AMZN.O"
+      ],
+      "text": "Amazon (AMZN.O): 2025 carbon emissions rose 16% as data center activity surged."
+    }
+  ]
+}
