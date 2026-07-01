@@ -1,7 +1,92 @@
 {
-  "updated": "2026-07-02 03:33:58",
-  "count": 14101,
+  "updated": "2026-07-02 03:39:13",
+  "count": 14106,
   "items": [
+    {
+      "id": "4965881",
+      "time": "2026-07-02 03:38:40",
+      "tags": [
+        "國際"
+      ],
+      "text": "阿聯酋6月石油出口量創下歷史新高。該國一方面依託退出歐佩克帶來的生產空間，另一方面避開了霍爾木茲海峽來自伊朗方面的安全風險。"
+    },
+    {
+      "id": "mkt:019f1f30-a328-7aab-8c65-b6391161e8dd",
+      "time": "2026-07-02 03:38:28",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "【Global oil prices fall on 1st】At the close, NYMEX August-delivery light sweet crude futures fell $0.92 to $68.58 a barrel, down 1.32%. ICE Brent futures for September delivery fell $1.38 to $71.57 a barrel, down 1.89%."
+    },
+    {
+      "id": "mkt:019f1f30-480f-7aab-8c65-a9c2ae294133",
+      "time": "2026-07-02 03:38:05",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact mixed"
+      ],
+      "text": "Iran parliament speaker Ghalibaf said inspectors are permitted access only to two sites: the Bushehr nuclear power plant and the Tehran research reactor."
+    },
+    {
+      "id": "4965880",
+      "time": "2026-07-02 03:37:59",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗議會議長卡利巴法夫：有關核查人員進入遭轟炸地點的相關說法均為不實訊息。"
+    },
+    {
+      "id": "4965879",
+      "time": "2026-07-02 03:37:44",
+      "tags": [
+        "其他"
+      ],
+      "text": "【巴基斯坦開伯爾-普什圖省因暴雨引發山洪 已致6死19傷】當地時間7月1日晚，巴基斯坦開伯爾-普什圖省災害管理局釋出報告稱，在過去24小時內，全省多個地區突發暴雨、強風並引發山洪，致省內30餘處房屋坍塌或受損，已造成6人死亡、19人受傷。巴基斯坦救援部門已前往受災地區展開救援行動。"
+    },
+    {
+      "id": "mkt:019f1f2f-df8e-7aab-8c65-a2778f6e6476",
+      "time": "2026-07-02 03:37:38",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Iran's parliament speaker Ghalibaf said claims that inspectors entered the bombed site are false."
+    },
+    {
+      "id": "4965878",
+      "time": "2026-07-02 03:37:00",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：我們正輕鬆贏得戰爭。"
+    },
+    {
+      "id": "4965877",
+      "time": "2026-07-02 03:36:18",
+      "tags": [
+        "市場"
+      ],
+      "text": "【國際油價1日下跌】截至當天收盤，紐約商品交易所8月交貨的輕質原油期貨價格下跌92美分，收於每桶68.58美元，跌幅為1.32%；9月交貨的倫敦布倫特原油期貨價格下跌1.38美元，收於每桶71.57美元，跌幅為1.89%。"
+    },
+    {
+      "id": "4965876",
+      "time": "2026-07-02 03:33:52",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國國務卿魯比奧：將與厄瓜多總統協同合作，持續強化區域安全，杜絕毒品恐怖分子在美洲地區立足。"
+    },
     {
       "id": "mkt:019f1f2a-d575-7aab-8c65-9d9a1ed54d9c",
       "time": "2026-07-02 03:32:08",
@@ -129922,42 +130007,6 @@
         "WTI"
       ],
       "text": "【US energy secretary warns EU methane rules will inflict \"unnecessary pain\" on Europe】US Energy Secretary Wright warned the EU that if it refuses to relax methane regulations, US gas supplies will \"flow to other regions.\" He said: \"If this regulation is not meaningfully reformed, it will cause serious pain for Europe that is entirely unnecessary,\" and added the issue is not about escalation but that \"our energy will go somewhere else.\" EU energy commissioner Dan Jørgensen has vowed to resist pressure from the US and other LNG exporters and to press ahead with revisions aimed at curbing methane emissions. The US has previously warned the regulation's complexity and potential fines could threaten trade. EU energy ministers will meet in Luxembourg on Friday to discuss the rules."
-    },
-    {
-      "id": "mkt:019efb24-b052-7dd8-b103-7feb60de4fc8",
-      "time": "2026-06-25 03:39:06",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Alibaba",
-        "BABA.N",
-        "Impact bearish"
-      ],
-      "text": "Alibaba (BABA.N) shares slipped, losses widened to 3%."
-    },
-    {
-      "id": "4953405",
-      "time": "2026-06-25 03:39:02",
-      "tags": [
-        "其他"
-      ],
-      "text": "阿里巴巴短線下挫，跌幅擴大至3%。"
-    },
-    {
-      "id": "mkt:019efb21-11bb-7dd8-b103-77d65011cae4",
-      "time": "2026-06-25 03:35:08",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Fox News reported the funds will also be used for verification and validation work."
-    },
-    {
-      "id": "4953403",
-      "time": "2026-06-25 03:34:17",
-      "tags": [
-        "其他"
-      ],
-      "text": "據福克斯新聞： 這筆資金還將用於核查與核驗工作。"
     }
   ]
 }
