@@ -1,7 +1,168 @@
 {
   "date": "2026-07-01",
-  "count": 2455,
+  "count": 2472,
   "items": [
+    {
+      "id": "mkt:019f1d4f-362a-7aab-8c54-e630be066211",
+      "time": "2026-07-01 18:52:38",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "Market sources: ARAMCO sold several mln barrels of crude in the Asian spot market."
+    },
+    {
+      "id": "4965037",
+      "time": "2026-07-01 18:52:25",
+      "tags": [
+        "其他"
+      ],
+      "text": "沙特阿美在亞洲售出數百萬桶現貨原油。"
+    },
+    {
+      "id": "mkt:019f1d4e-be40-7aab-8c54-dbb50dbac53c",
+      "time": "2026-07-01 18:52:07",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "IRNA reported Iran's deputy foreign minister met with the Qatari prime minister."
+    },
+    {
+      "id": "4965036",
+      "time": "2026-07-01 18:52:07",
+      "tags": [
+        "公司"
+      ],
+      "text": "【西部創業：子公司寧東鐵路涉及一起1.39億元的訴訟案件】西部創業公告，公司全資子公司寧夏寧東鐵路有限公司涉及一起1.39億元的訴訟案件。該案由寧夏大古物流有限公司提起，要求國開發展基金有限公司退還減資款並支付資金佔用利息，寧東鐵路承擔連帶責任。案件已立案，但尚未開庭審理。"
+    },
+    {
+      "id": "4965035",
+      "time": "2026-07-01 18:51:36",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【機構：空中客車飛機交付預期目前看來有望實現】MWB Research的Jens-Peter Rieck在給客戶的一份報告中寫道，在第二季度交付步伐加快之後，空中客車今年向客戶交付約870架商用飛機的目標看起來是可行的。他估計，空中客車在6月份交付了87架噴氣式飛機，此前在5月份和4月份分別交付了81架和67架，均高於56架的10年第二季度月度平均水平。他說，強勁的交付量結束了關於該歐洲飛機製造商是否應下調其年度目標的爭論。他將該股評級從持有上調至買入。空中客車股價上漲2.1%，報198.70歐元。"
+    },
+    {
+      "id": "mkt:019f1d4e-2fd0-7aab-8c54-d4555785f811",
+      "time": "2026-07-01 18:51:31",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "China EV Leaders",
+        "NIO.O",
+        "Impact bullish",
+        "XPEV.O",
+        "LI.O"
+      ],
+      "text": "【June 2026 delivery roundup for China’s emerging automakers】BYD sold 403,500 NEVs in June, up 5.46% YoY. Geely sold 240,800 vehicles in June, up 2% YoY. Leapmotor delivered 93,376 vehicles globally in June, up 95% YoY; H1 cumulative deliveries 356,487. Hongmeng Zhixing delivered 50,624 units in June, up 9.7% MoM. NIO delivered 40,597 vehicles in June, up 62.9% YoY. XPeng delivered 40,126 vehicles in June and 103,295 in Q2. IM Motors delivered 40,087 vehicles in 1H 2026, up 58% YoY. Zeekr delivered 35,169 vehicles in June, up 111% YoY. Deep Blue Auto sold 33,625 vehicles in June, up 12.5% YoY (global). Li Auto delivered 30,895 vehicles in June; cumulative deliveries reached 1,733,687 as of June 30, 2026. Xiaomi Auto continued to deliver above 30,000 vehicles in June. AITO delivered 30,199 vehicles in June; H1 cumulative deliveries rose 10.2% YoY. Arcfox sold 25,646 vehicles in June, up 219.3% YoY. Volkswagen Anhui delivered 2,423 vehicles in June, up 120% YoY."
+    },
+    {
+      "id": "4965034",
+      "time": "2026-07-01 18:51:28",
+      "tags": [
+        "國際"
+      ],
+      "text": "【混合動力汽車熱度攀升，但底特律車企恐錯失良機】由於汽油價格徘徊在每加侖4美元左右，省油的混合動力汽車已成為今年美國車行裡最搶手的車型之一。底特律車企面臨的問題在於，它們能提供的此類車型並不多。據研究機構Cox Automotive預測，今年上半年混合動力汽車的銷量可能增長了9%以上，而同期美國汽車總銷量則下降了約3%。自2023年以來，該類車型的交付量激增了80%以上；截至第一季度，混合動力汽車的市場份額已達到創紀錄的14%。這一趨勢凸顯了混合動力汽車市場中各車企的實力差距。據Cox統計，在今年最暢銷的10款混合動力車型中，日本本田和豐田佔據了7席。美國車企僅有福特的Maverick皮卡車型躋身前十。鑑於混合動力車型陣容相對有限，底特律車企短期內恐將錯失這一市場機遇。"
+    },
+    {
+      "id": "4965033",
+      "time": "2026-07-01 18:51:16",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【格科微：股票交易異常波動 不存在應披露未披露重大資訊】格科微公告稱，公司股票於2026年6月30日、7月1日連續兩個交易日內日收盤價格漲幅偏離值累計超30%，屬異常波動情形。經自查及向控股股東、實控人核實，截至公告披露日，公司生產經營正常，不存在應披露而未披露的重大事項。公司2億畫素產品未形成客戶產品出貨，臨港工廠專注主業。提醒投資者注意股價波動及市場風險，以指定媒體資訊為準。"
+    },
+    {
+      "id": "4965032",
+      "time": "2026-07-01 18:51:08",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗副外長會見卡達首相。"
+    },
+    {
+      "id": "mkt:019f1d4d-b7d0-7aab-8c54-cd66aae6590e",
+      "time": "2026-07-01 18:51:00",
+      "tags": [
+        "MKT News",
+        "LMT.N",
+        "Impact bullish"
+      ],
+      "text": "LOCKHEED (LMT.N) rose 1.8% in premarket trading after Citigroup upgraded the stock to Buy from Neutral."
+    },
+    {
+      "id": "4965031",
+      "time": "2026-07-01 18:50:51",
+      "tags": [
+        "市場",
+        "觀點"
+      ],
+      "text": "花旗將洛克希德·馬丁評級從中性上調至買入後，該股盤前上漲1.8%。"
+    },
+    {
+      "id": "4965030",
+      "time": "2026-07-01 18:50:44",
+      "tags": [
+        "國際"
+      ],
+      "text": "羅氏控股宣佈在印度設立第二家數字科技中心，將其全球科技樞紐網路拓展至海得拉巴。"
+    },
+    {
+      "id": "4965029",
+      "time": "2026-07-01 18:50:39",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【三生國健：股票交易異常波動 目前經營情況正常】三生國健公告稱，公司股票在2026年6月29日、6月30日、7月1日連續三個交易日內，日收盤價格漲幅偏離值（偏離科創50指數）累計超過30%，屬於股票交易異常波動情形。經自查和核實，公司日常經營及行業政策未發生重大變化，不存在應披露而未披露的重大事項，相關人員在異常波動期間無買賣公司股票情況。公司提醒投資者注意股價波動和投資風險。"
+    },
+    {
+      "id": "mkt:019f1d4c-7dcf-7aab-8c54-c60476083680",
+      "time": "2026-07-01 18:49:39",
+      "tags": [
+        "MKT News",
+        "LMT.N",
+        "Impact bullish"
+      ],
+      "text": "Citigroup upgraded Lockheed Martin (LMT.N) to Buy from Neutral and raised its target price to $582 from $571."
+    },
+    {
+      "id": "4965028",
+      "time": "2026-07-01 18:49:33",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "花旗集團將洛克希德·馬丁評級從中性上調至買入，並將目標股價從571美元上調至582美元。"
+    },
+    {
+      "id": "mkt:019f1d4c-0d0a-7aab-8c54-bb4ad6df3eec",
+      "time": "2026-07-01 18:49:11",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Asset manager Franklin Templeton to open an office in the Qatar Financial Centre."
+    },
+    {
+      "id": "mkt:019f1d4b-ce35-7aab-8c54-b2c0c5eef533",
+      "time": "2026-07-01 18:48:54",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Tesla",
+        "Market Themes",
+        "Magnificent 7",
+        "TSLA.O",
+        "Impact bullish"
+      ],
+      "text": "Spanish auto manufacturers association (ANFAC) said Tesla (TSLA.O) new registrations in Spain rose 29.8% YoY in Jan–Jun; overall electric vehicle registrations rose 37.9% YoY over the same period."
+    },
     {
       "id": "4965027",
       "time": "2026-07-01 18:48:30",
