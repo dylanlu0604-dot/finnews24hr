@@ -1,7 +1,108 @@
 {
   "date": "2026-07-01",
-  "count": 1597,
+  "count": 1608,
   "items": [
+    {
+      "id": "mkt:019f1c8e-a20f-7aab-8c4e-7eac0dffd188",
+      "time": "2026-07-01 15:22:17",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "BYD's special adviser for the European market said EU regulations are increasingly complicating consumers' purchase decisions."
+    },
+    {
+      "id": "4964431",
+      "time": "2026-07-01 15:21:43",
+      "tags": [
+        "國際"
+      ],
+      "text": "【韓國總理韓聖淑：將更大膽地投資人工智慧和高新產業】韓國新任國務總理韓聖淑1日表示，將更為大膽地投資人工智慧（AI）和高新產業，積極推動限制創新的規制改革。"
+    },
+    {
+      "id": "mkt:019f1c8d-c53a-7aab-8c4e-710c57c7484e",
+      "time": "2026-07-01 15:21:20",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Apple",
+        "Market Themes",
+        "Magnificent 7",
+        "AAPL.O"
+      ],
+      "text": "A European Commission spokesperson said the EU digital affairs chief held a “constructive exchange” with Apple CEO Tim Cook on shared concerns and that related work is ongoing."
+    },
+    {
+      "id": "4964430",
+      "time": "2026-07-01 15:21:19",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【外媒：阿富汗稱對巴基斯坦境內目標發動空襲，巴基斯坦稱擊落4架無人機】據路透社、英國廣播公司（BBC）等媒體7月1日報道，阿富汗國防部稱對巴基斯坦境內目標發動了空襲。巴基斯坦方面表示在該國俾路支省攔截並擊落4架簡易無人機。據外媒報道，阿富汗國防部表示，其空襲目標為位於阿富汗與巴基斯坦邊境省份俾路支省的一個極端組織“伊斯蘭國”駐地，以及巴基斯坦開伯爾-普什圖省有關目標。據巴基斯坦GEO電視臺等媒體報道，巴基斯坦三軍新聞局7月1日稱，巴軍方在俾路支省邊境沿線擊落了阿富汗發射的4架簡易無人機，並警告稱任何進一步的挑釁行為“都將得到相應回應”。（環球網）"
+    },
+    {
+      "id": "4964429",
+      "time": "2026-07-01 15:20:53",
+      "tags": [
+        "其他"
+      ],
+      "text": "資料顯示，德國次日基荷電力價格下降48.8%至76.55歐元/兆瓦時。"
+    },
+    {
+      "id": "4964428",
+      "time": "2026-07-01 15:20:51",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本石油聯盟（PAJ）資料：6月27日日本原油庫存為1026萬千升，6月20日庫存為976萬千升；柴油庫存為0百萬千升，6月20日庫存同樣為0百萬千升。"
+    },
+    {
+      "id": "4964427",
+      "time": "2026-07-01 15:20:27",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "歐盟委員會發言人表示，歐盟委員維爾庫寧與蘋果執行長庫克就共同利益議題進行了富有建設性的交流，相關工作將繼續推進。"
+    },
+    {
+      "id": "mkt:019f1c8c-be23-7aab-8c4e-6a928d8ed725",
+      "time": "2026-07-01 15:20:13",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "DAX",
+        "Impact bearish"
+      ],
+      "text": "Data showed German day-ahead baseload power prices fell 48.8% to €76.55/MWh."
+    },
+    {
+      "id": "mkt:019f1c8b-f749-7aab-8c4e-66c3a587a15a",
+      "time": "2026-07-01 15:19:22",
+      "tags": [
+        "MKT News",
+        "GBPUSD",
+        "Impact bullish"
+      ],
+      "text": "UK 30-year gilt yield rose 6bps intraday to 5.539%, its highest level since June 22."
+    },
+    {
+      "id": "4964426",
+      "time": "2026-07-01 15:19:07",
+      "tags": [
+        "市場"
+      ],
+      "text": "英國30年期國債收益率日內上漲6個基點至5.539%，創6月22日以來新高。"
+    },
+    {
+      "id": "4964425",
+      "time": "2026-07-01 15:18:36",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列制裁與伊朗和真主黨有關聯的加密錢包。"
+    },
     {
       "id": "4964424",
       "time": "2026-07-01 15:17:50",

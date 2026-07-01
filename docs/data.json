@@ -1,7 +1,108 @@
 {
-  "updated": "2026-07-01 15:18:52",
-  "count": 13818,
+  "updated": "2026-07-01 15:22:44",
+  "count": 13820,
   "items": [
+    {
+      "id": "mkt:019f1c8e-a20f-7aab-8c4e-7eac0dffd188",
+      "time": "2026-07-01 15:22:17",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "BYD's special adviser for the European market said EU regulations are increasingly complicating consumers' purchase decisions."
+    },
+    {
+      "id": "4964431",
+      "time": "2026-07-01 15:21:43",
+      "tags": [
+        "國際"
+      ],
+      "text": "【韓國總理韓聖淑：將更大膽地投資人工智慧和高新產業】韓國新任國務總理韓聖淑1日表示，將更為大膽地投資人工智慧（AI）和高新產業，積極推動限制創新的規制改革。"
+    },
+    {
+      "id": "mkt:019f1c8d-c53a-7aab-8c4e-710c57c7484e",
+      "time": "2026-07-01 15:21:20",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Apple",
+        "Market Themes",
+        "Magnificent 7",
+        "AAPL.O"
+      ],
+      "text": "A European Commission spokesperson said the EU digital affairs chief held a “constructive exchange” with Apple CEO Tim Cook on shared concerns and that related work is ongoing."
+    },
+    {
+      "id": "4964430",
+      "time": "2026-07-01 15:21:19",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【外媒：阿富汗稱對巴基斯坦境內目標發動空襲，巴基斯坦稱擊落4架無人機】據路透社、英國廣播公司（BBC）等媒體7月1日報道，阿富汗國防部稱對巴基斯坦境內目標發動了空襲。巴基斯坦方面表示在該國俾路支省攔截並擊落4架簡易無人機。據外媒報道，阿富汗國防部表示，其空襲目標為位於阿富汗與巴基斯坦邊境省份俾路支省的一個極端組織“伊斯蘭國”駐地，以及巴基斯坦開伯爾-普什圖省有關目標。據巴基斯坦GEO電視臺等媒體報道，巴基斯坦三軍新聞局7月1日稱，巴軍方在俾路支省邊境沿線擊落了阿富汗發射的4架簡易無人機，並警告稱任何進一步的挑釁行為“都將得到相應回應”。（環球網）"
+    },
+    {
+      "id": "4964429",
+      "time": "2026-07-01 15:20:53",
+      "tags": [
+        "其他"
+      ],
+      "text": "資料顯示，德國次日基荷電力價格下降48.8%至76.55歐元/兆瓦時。"
+    },
+    {
+      "id": "4964428",
+      "time": "2026-07-01 15:20:51",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本石油聯盟（PAJ）資料：6月27日日本原油庫存為1026萬千升，6月20日庫存為976萬千升；柴油庫存為0百萬千升，6月20日庫存同樣為0百萬千升。"
+    },
+    {
+      "id": "4964427",
+      "time": "2026-07-01 15:20:27",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "歐盟委員會發言人表示，歐盟委員維爾庫寧與蘋果執行長庫克就共同利益議題進行了富有建設性的交流，相關工作將繼續推進。"
+    },
+    {
+      "id": "mkt:019f1c8c-be23-7aab-8c4e-6a928d8ed725",
+      "time": "2026-07-01 15:20:13",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "DAX",
+        "Impact bearish"
+      ],
+      "text": "Data showed German day-ahead baseload power prices fell 48.8% to €76.55/MWh."
+    },
+    {
+      "id": "mkt:019f1c8b-f749-7aab-8c4e-66c3a587a15a",
+      "time": "2026-07-01 15:19:22",
+      "tags": [
+        "MKT News",
+        "GBPUSD",
+        "Impact bullish"
+      ],
+      "text": "UK 30-year gilt yield rose 6bps intraday to 5.539%, its highest level since June 22."
+    },
+    {
+      "id": "4964426",
+      "time": "2026-07-01 15:19:07",
+      "tags": [
+        "市場"
+      ],
+      "text": "英國30年期國債收益率日內上漲6個基點至5.539%，創6月22日以來新高。"
+    },
+    {
+      "id": "4964425",
+      "time": "2026-07-01 15:18:36",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列制裁與伊朗和真主黨有關聯的加密錢包。"
+    },
     {
       "id": "4964424",
       "time": "2026-07-01 15:17:50",
@@ -127043,92 +127144,6 @@
         "MKT News"
       ],
       "text": "【South Korea April births rise 18% YoY】Statistics Korea's April population report, released June 24 and reported by Yonhap, showed April births of 24,521, up 18% year-on-year — the highest April tally since 2019 and the largest April YoY increase since records began in 1981. Cumulative Jan–Apr births were 99,534, up 15.5% YoY and the highest Jan–Apr total since 2019. April total fertility rate was 0.93, up 0.13 points YoY."
-    },
-    {
-      "id": "4952031",
-      "time": "2026-06-24 15:22:39",
-      "tags": [
-        "其他"
-      ],
-      "text": "滙豐銀行將新加坡2026年GDP增長預期從2.9%上調至3.3%。"
-    },
-    {
-      "id": "4952030",
-      "time": "2026-06-24 15:22:09",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "泰國央行：預計今年經常賬戶收支基本持平。"
-    },
-    {
-      "id": "mkt:019ef881-c734-7dd8-b0f0-6285de4b84c2",
-      "time": "2026-06-24 15:21:55",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK",
-        "RHM.DE",
-        "Impact bearish"
-      ],
-      "text": "Rheinmetall shares extended losses, down 12.6%, on track for their largest single-day decline since November 2001."
-    },
-    {
-      "id": "4952029",
-      "time": "2026-06-24 15:21:36",
-      "tags": [
-        "公司"
-      ],
-      "text": "萊茵金屬公司股價延續跌勢，目前跌幅已達12.6%，正朝著2001年11月以來最大單日跌幅邁進。"
-    },
-    {
-      "id": "4952028",
-      "time": "2026-06-24 15:20:52",
-      "tags": [
-        "國際"
-      ],
-      "text": "【美媒稱伊朗研讀《交易的藝術》以破解特朗普談判策略】伊朗外交官表示，由於特朗普行事風格與眾不同，他們一直在研讀特朗普與記者託尼·施瓦茨於1987年合著的《交易的藝術》。該書建議談判者提出極端且難以預測的要求，以製造焦慮，迫使對手作出讓步。伊朗談判代表曾告訴中間人，他們諮詢了一個心理學家團隊以幫助理解特朗普的思維方式，試圖預測特朗普對伊朗提議的公開反應。政治分析人士和調解人士表示，特朗普高調且強硬的表態迄今尚未從伊朗方面換取額外讓步。華盛頓智庫威爾遜中心伊朗問題專家穆罕默德·阿梅爾西表示：“特朗普正在運用《交易的藝術》中的策略，透過極端威脅來測試對方的決心。但伊朗人非常清楚他的策略。”而一位瞭解伊朗在瑞士外交談判情況的人士表示，伊朗談判團隊中並沒有心理學家，而且伊朗方面更傾向於避免從心理層面揣測特朗普的動機或決策。"
-    },
-    {
-      "id": "4952027",
-      "time": "2026-06-24 15:20:41",
-      "tags": [
-        "市場"
-      ],
-      "text": "【安永報告：上半年A股首日平均回報率超230%】安永6月24日釋出的中國內地和香港IPO市場報告顯示，2026年上半年，A股IPO市場未出現破發，平均首日回報率為233%，位居近五年榜首；港股上半年首日平均回報率61%，新股首日破發率12%，創下近五年新低。"
-    },
-    {
-      "id": "mkt:019ef880-a7ac-7dd8-b0f0-5e84d3c88feb",
-      "time": "2026-06-24 15:20:41",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "CSI300",
-        "Impact bullish",
-        "Hang Seng Index"
-      ],
-      "text": "【Ernst & Young: 1H 2026 A-share IPOs average 233% first-day return】Ernst & Young's June 24 report on mainland China and Hong Kong IPO markets shows that in 1H 2026 A-share listings saw no first-day price declines and averaged a 233% first-day return, the highest in five years. Hong Kong listings averaged a 61% first-day return, with a 12% first-day loss rate for new issues, the lowest in five years."
-    },
-    {
-      "id": "mkt:019ef880-a68a-7dd8-b0f0-5031000a5d3e",
-      "time": "2026-06-24 15:20:41",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【US media say Iran studied The Art of the Deal to decode Trump's negotiating tactics】The Wall Street Journal on the 23rd reported Iranian diplomats say they have been studying The Art of the Deal—which advocates extreme, unpredictable demands to create anxiety and force concessions—to understand Trump's negotiating style. Iranian negotiators told intermediaries they consulted a team of psychologists to help anticipate Trump's likely public reactions; a person familiar with Iran's talks in Switzerland said there were no psychologists on the team and Tehran prefers not to psychoanalyze Trump's motives. Political analysts and mediators say Trump's high-profile, hardline statements have so far not produced additional concessions. Mohammad Amersi of the Wilson Center said Trump is deploying those tactics to test opponents' resolve, but Iranians are aware of his approach."
-    },
-    {
-      "id": "mkt:019ef880-36c1-7dd8-b0f0-4fd0e2183152",
-      "time": "2026-06-24 15:20:12",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "Copper",
-        "Impact bullish"
-      ],
-      "text": "【China EV charging connectors total 22.497 million at end‑May】National Energy Administration data from the national charging facilities monitoring platform show China had 22.497 million EV charging connectors at end‑May 2026, up 44.9% YoY. Public connectors numbered 4.951 million (+25.9% YoY) with aggregate rated power of 242 GW and average power per connector of about 48.89 kW. Private connectors reached 17.546 million (+51.4% YoY); private charging reported installed capacity was 151 million kVA."
     }
   ]
 }
