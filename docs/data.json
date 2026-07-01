@@ -1,7 +1,72 @@
 {
-  "updated": "2026-07-02 00:53:48",
-  "count": 14232,
+  "updated": "2026-07-02 00:57:46",
+  "count": 14230,
   "items": [
+    {
+      "id": "4965803",
+      "time": "2026-07-02 00:56:44",
+      "tags": [
+        "國際"
+      ],
+      "text": "墨西哥經濟部長：美國貿易代表格里爾稱，美方希望未來十年每年對《美墨加協定》開展複審。"
+    },
+    {
+      "id": "mkt:019f1e9a-c0e2-7aab-8c63-c37c6e19c72f",
+      "time": "2026-07-02 00:54:46",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. Trade Representative said the United States has not agreed to extend the U.S.-Mexico-Canada Agreement (USMCA) in its current form."
+    },
+    {
+      "id": "mkt:019f1e9a-b40c-7aab-8c63-bf82a9c18485",
+      "time": "2026-07-02 00:54:42",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade",
+        "DXY",
+        "Impact bullish",
+        "S&P500",
+        "Impact bearish",
+        "WTI"
+      ],
+      "text": "U.S. Trade Representative said Trump's trade policies have already superseded many provisions of the US-Mexico-Canada Agreement (USMCA)."
+    },
+    {
+      "id": "mkt:019f1e9a-9aa9-7aab-8c63-b0eccda1a66d",
+      "time": "2026-07-02 00:54:36",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "U.S. Trade Representative said the agreement remains in effect until these issues are resolved or the agreement is terminated."
+    },
+    {
+      "id": "4965802",
+      "time": "2026-07-02 00:54:32",
+      "tags": [
+        "其他"
+      ],
+      "text": "LME期銅收跌76美元，報13298美元/噸。LME期鋁收跌10美元，報3076美元/噸。LME期鋅收跌52美元，報3499美元/噸。LME期鉛收跌10美元，報1866美元/噸。LME期鎳收漲68美元，報16355美元/噸。LME期錫收漲62美元，報51632美元/噸。LME期鈷收平，報56290美元/噸。"
+    },
+    {
+      "id": "4965801",
+      "time": "2026-07-02 00:54:30",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國貿易代表： 特朗普的貿易政策實際上已取代《美墨加協定》多項內容。"
+    },
+    {
+      "id": "4965800",
+      "time": "2026-07-02 00:54:05",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國貿易代表：美國不同意按現有版本續簽《美墨加協定》， 在相關問題解決或協定終止前，該協定持續有效。美國將繼續與墨西哥和加拿大開展磋商，以解決該協定的不足之處以及我們與這些國家的貿易逆差問題。"
+    },
     {
       "id": "mkt:019f1e99-595a-7aab-8c63-af913c71629c",
       "time": "2026-07-02 00:53:14",
@@ -131173,92 +131238,6 @@
         "DXY"
       ],
       "text": "Axios reports the first day of Israel-Lebanon talks in Washington produced no progress; the parties remain sharply divided on the scope and timeline of an Israeli withdrawal."
-    },
-    {
-      "id": "4953224",
-      "time": "2026-06-25 00:57:33",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "【貝森特稱美伊談判涵蓋伊朗重返美元體系 強調美元主導地位至關重要】美國財政部長斯科特·貝森特暗示，美國與伊朗的談判內容包括這個長期與美國對立的國家加入美元體系，並以美元為其石油銷售開具發票。貝森特週三接受採訪時說：“我們在與伊朗的談判中看到，伊朗方面將以美元開具發票。”他說，這是美元即將在全球經濟中更廣泛重新確立主導地位的一個組成部分。貝森特還表示，美國財政部將從卡達多哈負責監督伊朗被凍結資金的處理工作。“其中很大一部分將用於購買美國食品和藥品。因此，我們將把這筆資金重新投入到美國產品中。”在被問及美國財長曆來鍾愛強勢美元的傳統時，貝森特說道，“我們所鍾愛的是做正確的事讓美元堅挺。”"
-    },
-    {
-      "id": "mkt:019efa90-52c7-7dd8-b100-5b5ff9eccc2d",
-      "time": "2026-06-25 00:57:02",
-      "tags": [
-        "MKT News",
-        "Important",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "US energy minister Wright said innovative replenishment methods could raise the Strategic Petroleum Reserve (SPR) to 500 mln barrels."
-    },
-    {
-      "id": "mkt:019efa90-1fe4-7dd8-b100-51318aa7114d",
-      "time": "2026-06-25 00:56:49",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "U.S. Energy Secretary wright expects to raise Venezuelan oil exports to about 2.0 mln bpd during this administration."
-    },
-    {
-      "id": "4953223",
-      "time": "2026-06-25 00:56:27",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國能源部長賴特表示，預計本屆政府任期內能夠將委內瑞拉石油出口提升至每日200萬桶。"
-    },
-    {
-      "id": "4953222",
-      "time": "2026-06-25 00:56:16",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國能源部長賴特稱，透過創新補庫方案，美國戰略石油儲備（SPR）庫存有望回升至5億桶。"
-    },
-    {
-      "id": "4953221",
-      "time": "2026-06-25 00:55:18",
-      "tags": [
-        "其他"
-      ],
-      "text": "【奧運史上首次：國際奧委會將向奧運選手發放津貼】國際奧委會24日宣佈將設立奧運選手補助金，給每名奧運選手發放1萬美元的津貼。該政策從2026年米蘭-科爾蒂納冬奧會開始生效。這是奧運史上首次面向所有參賽運動員直接發放補助。國際奧委會運動員委員會主席保羅·加索爾在當天舉行的國際奧委會第146次全會上表示，已為每個奧運週期預留1.4億美元基金，預計每個奧運週期約有14000名奧運選手有條件申請。（新華社）"
-    },
-    {
-      "id": "4953220",
-      "time": "2026-06-25 00:54:17",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國國務卿魯比奧：如果伊朗想要達成一項真正好的協議，美國對此持開放態度。"
-    },
-    {
-      "id": "4953219",
-      "time": "2026-06-25 00:53:51",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國能源部長賴特稱，關於延長《瓊斯法案》豁免期限一事，相關“磋商對話”仍在進行中。"
-    },
-    {
-      "id": "mkt:019efa8d-633d-7dd8-b100-4c45c7857ca5",
-      "time": "2026-06-25 00:53:50",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "WTI",
-        "DXY"
-      ],
-      "text": "i24News reported the Israel Defense Forces struck a vehicle in southern Lebanon carrying suspects who were attempting to cross into an Israeli security zone."
     }
   ]
 }

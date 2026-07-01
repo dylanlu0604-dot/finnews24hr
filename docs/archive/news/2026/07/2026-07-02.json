@@ -1,7 +1,72 @@
 {
   "date": "2026-07-02",
-  "count": 75,
+  "count": 82,
   "items": [
+    {
+      "id": "4965803",
+      "time": "2026-07-02 00:56:44",
+      "tags": [
+        "國際"
+      ],
+      "text": "墨西哥經濟部長：美國貿易代表格里爾稱，美方希望未來十年每年對《美墨加協定》開展複審。"
+    },
+    {
+      "id": "mkt:019f1e9a-c0e2-7aab-8c63-c37c6e19c72f",
+      "time": "2026-07-02 00:54:46",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. Trade Representative said the United States has not agreed to extend the U.S.-Mexico-Canada Agreement (USMCA) in its current form."
+    },
+    {
+      "id": "mkt:019f1e9a-b40c-7aab-8c63-bf82a9c18485",
+      "time": "2026-07-02 00:54:42",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade",
+        "DXY",
+        "Impact bullish",
+        "S&P500",
+        "Impact bearish",
+        "WTI"
+      ],
+      "text": "U.S. Trade Representative said Trump's trade policies have already superseded many provisions of the US-Mexico-Canada Agreement (USMCA)."
+    },
+    {
+      "id": "mkt:019f1e9a-9aa9-7aab-8c63-b0eccda1a66d",
+      "time": "2026-07-02 00:54:36",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "U.S. Trade Representative said the agreement remains in effect until these issues are resolved or the agreement is terminated."
+    },
+    {
+      "id": "4965802",
+      "time": "2026-07-02 00:54:32",
+      "tags": [
+        "其他"
+      ],
+      "text": "LME期銅收跌76美元，報13298美元/噸。LME期鋁收跌10美元，報3076美元/噸。LME期鋅收跌52美元，報3499美元/噸。LME期鉛收跌10美元，報1866美元/噸。LME期鎳收漲68美元，報16355美元/噸。LME期錫收漲62美元，報51632美元/噸。LME期鈷收平，報56290美元/噸。"
+    },
+    {
+      "id": "4965801",
+      "time": "2026-07-02 00:54:30",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國貿易代表： 特朗普的貿易政策實際上已取代《美墨加協定》多項內容。"
+    },
+    {
+      "id": "4965800",
+      "time": "2026-07-02 00:54:05",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國貿易代表：美國不同意按現有版本續簽《美墨加協定》， 在相關問題解決或協定終止前，該協定持續有效。美國將繼續與墨西哥和加拿大開展磋商，以解決該協定的不足之處以及我們與這些國家的貿易逆差問題。"
+    },
     {
       "id": "mkt:019f1e99-595a-7aab-8c63-af913c71629c",
       "time": "2026-07-02 00:53:14",
