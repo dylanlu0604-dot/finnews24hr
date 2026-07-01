@@ -1,7 +1,127 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-07-02 05:08:51_
-_本檔包含 2803 則快訊，約 530443 字_
+_更新時間：2026-07-02 05:47:43_
+_本檔包含 2804 則快訊，約 530139 字_
+
+---
+
+### 2026-06-25 22:27:44  #國際
+
+【沙特主要石油碼頭即將重啟 波斯灣原油供應加快恢復】主要石油出口國沙烏地阿拉伯即將恢復在波斯灣內拉斯塔努拉碼頭的原油裝載作業，這是伊朗戰爭後中東石油供應恢復的一個里程碑時刻。根據彭博彙編的船舶追蹤資料，沙特油輪巨頭Bahri旗下的兩艘超大型原油運輸船正駛向碼頭內位於Ju’aymah的離岸裝載區。資料顯示，還有第三艘船停泊在附近。自3月初以來，該巨型碼頭一直未觀察到任何原油裝載活動。隨著戰爭期間被困在波斯灣內的原油得以流出，霍爾木茲海峽的重新開放使大量石油湧入全球市場。雖然一些海灣產油國在衝突期間繼續讓船隻關閉衛星應答器穿越該水道，但沙特的主要裝載碼頭此前一直處於沉寂狀態。此次拉斯塔努拉碼頭恢復執行，標誌著該地區朝著提升石油運輸量邁出重要一步。
+
+---
+
+### 2026-06-25 22:27:38  #公司
+
+【分眾傳媒創始人卸任法定代表人 公司稱仍為實控人不影響經營】近日，電梯媒體廣告行業龍頭分眾傳媒變更法定代表人，創始人江南春卸任，杭璇接棒。6月25日，分眾傳媒方面回應記者表示，“只是工商身份的變更，對經營沒有任何影響。”據透露，江南春仍為公司實控人，任分眾傳媒董事長兼總裁、執行長。杭璇目前在公司官網顯示的職位為“市場公關部市場總監”。（南方+）
+
+---
+
+### 2026-06-25 22:27:24  #MKT News #Market Regions #Europe & UK #Market Themes #AI Revolution
+
+Market sources say the U.S. is seeking to establish a partnership with the EU on AI regulation and supply-chain cooperation.
+
+---
+
+### 2026-06-25 22:27:19  #公司
+
+據港交所檔案：神基製藥有限公司向港交所提交上市申請書。
+
+---
+
+### 2026-06-25 22:27:06  #MKT News #Commodities #Energy #PETR4.SA
+
+Petrobras CEO said the company will resume diesel imports in July after three consecutive months without imports.
+
+---
+
+### 2026-06-25 22:26:57  #國際
+
+美國尋求與歐盟建立人工智慧合作關係，聚焦監管與供應鏈領域。
+
+---
+
+### 2026-06-25 22:26:45  #MKT News
+
+US Supreme Court backs Trump administration plan to terminate deportation protections for Syrian and Haitian migrants.
+
+---
+
+### 2026-06-25 22:26:23  #MKT News #Important
+
+Market sources say the U.S. Supreme Court has finished drafting the opinion and a ruling in the case involving Fed Governor Cook is expected next week.
+
+---
+
+### 2026-06-25 22:26:17  #央行 #焦點 #國際
+
+市場訊息：隨著最高法院完成意見書起草，美聯儲理事庫克案的裁決預計將於下週公佈。
+
+---
+
+### 2026-06-25 22:25:30  #其他
+
+【北京頭部大模型累計註冊使用者達到20.5億】6月25日 ，2026全球數字經濟大會新聞釋出會舉行。記者從會上獲悉，截至目前，北京頭部大模型累計註冊使用者達到20.5億。 北京市網際網路資訊辦公室副主任潘鋒介紹，北京擁有全國最為豐富的人工智慧創新資源和最具活力的產業生態和堅實的新型基礎設施保障。北京市網際網路資訊辦公室做好人工智慧創新發展的推動者和守護者，不斷完善大模型“備案+登記”的分級分類管理體系，在亦莊的模數世界、朝陽的光智空間落地第二批“大模型生態服務站”，壓茬推進242款大模型備案上線，數量穩居全國第一。截至目前，北京頭部大模型累計註冊使用者達到20.5億，面向全國近5萬家機構提供API的介面服務，龍頭企業示範引領、輻射帶動效應持續凸顯。（新京報）
+
+---
+
+### 2026-06-25 22:24:36  #公司
+
+【莊園牧場：股東馬紅富減持1%股份 超額部分已購回】莊園牧場公告稱，股東馬紅富2026年6月23日透過集中競價方式減持195.21萬股，佔公司總股本的1%。本次權益變動前，其持股13.50%；變動後，持股12.50%。此次減持是履行減持計劃，但操作失誤超額減持1.63萬股。馬紅富2026年6月24日已購回超額部分，並將收益1.99萬元交至公司。截至公告披露日，減持計劃尚未履行完畢。
+
+---
+
+### 2026-06-25 22:24:28  #市場 #焦點
+
+聚丙烯連續主力合約日內漲2%，現報7256.00元。
+
+---
+
+### 2026-06-25 22:24:21  #公司
+
+環球園藝有限公司在港交所提交IPO申請，獨家保薦人為招銀國際。
+
+---
+
+### 2026-06-25 22:23:29  #國際
+
+美國最高法院允許特朗普政府國土安全部撤銷移民免遣保護資格。
+
+---
+
+### 2026-06-25 22:23:21  #國際
+
+法院裁定允許美國取消對海地、敘利亞公民的保護政策。
+
+---
+
+### 2026-06-25 22:22:36  #市場 #國際
+
+歐洲斯托克600指數創下盤中歷史新高。
+
+---
+
+### 2026-06-25 22:22:29  #Trading Economics #Markets #Commodity #Importance 0
+
+Brent Crude Oil Holds Near Pre-War Levels — Crude oil rose above $74 a barrel on Thursday after three days of losses, but remained near pre-war levels, as progress in US-Iran peace efforts improved the supply outlook. Growing confidence in a lasting agreement has encouraged more tankers to transit the Strait of Hormuz with their tracking signals turned on. Saudi Arabian tankers are heading toward the Ras Tanura terminal to restart Persian Gulf exports for the first time since March. In addition, a temporary US waiver permitting purchases of already-loaded Iranian oil is expected to boost supply. As oil streams through the waterway at its fastest wartime pace, market attention is shifting toward an anticipated 2026 global supply surplus, prompting Iraq to threaten to leave OPEC unless its production quota is increased. Meanwhile, US stockpiles at Cushing, Oklahoma, are below operational requirements at roughly 19 million barrels.
+
+---
+
+### 2026-06-25 22:21:36  #公司
+
+巴西國家石油公司執行長表示，將於7月進口柴油，此前已連續三個月未進口該燃料。
+
+---
+
+### 2026-06-25 22:21:28  #央行 #其他
+
+巴西央行官員：服務業通脹仍存上行壓力。
+
+---
+
+### 2026-06-25 22:21:28  #Trading Economics #Markets #Commodity #Importance 2
+
+Oil Hovers at Pre-War Levels — Crude oil edged up to $70.7 a barrel on Thursday after three days of losses, but remained near pre-war levels, as progress in US-Iran peace efforts improved the supply outlook. Growing confidence in a lasting agreement has encouraged more tankers to transit the Strait of Hormuz with their tracking signals turned on. Saudi Arabian tankers are heading toward the Ras Tanura terminal to restart Persian Gulf exports for the first time since March. In addition, a temporary US waiver permitting purchases of already-loaded Iranian oil is expected to boost supply. As oil streams through the waterway at its fastest wartime pace, market attention is shifting toward an anticipated 2026 global supply surplus, prompting Iraq to threaten to leave OPEC unless its production quota is increased. Meanwhile, US stockpiles at Cushing, Oklahoma, are below operational requirements at roughly 19 million barrels.
 
 ---
 
@@ -16788,119 +16908,5 @@ Nasdaq futures opened 2% higher on Friday, lifted by after-hours gains in chip s
 ### 2026-06-25 05:48:10  #國際
 
 北約秘書長呂特：與特朗普討論了烏克蘭問題，特朗普承認烏克蘭局勢有所好轉。
-
----
-
-### 2026-06-25 05:47:39  #市場 #央行 #國際
-
-【渣打：美國經濟的“例外論”可能會支撐美元走強】儘管布倫特原油價格已回落至伊朗戰爭爆發前的水平，緩解了通脹擔憂，但受美聯儲發出的鷹派訊號以及市場對AI相關股票漲勢可持續性的重新擔憂影響，新興市場資產的波動性日益加劇。渣打銀行駐紐約美洲經濟學家Dan Pan表示：“美國經濟的‘例外論’可能會支撐美元走強。”不過她也表示，聯邦公開市場委員會（FOMC）會議後市場的部分反應“可能有些過度”，並且“如果美聯儲維持利率不變，這也可能提振市場對新興市場資產的風險偏好。”
-
----
-
-### 2026-06-25 05:45:23  #Trading Economics #Markets #commodity #Importance 0
-
-Platinum is down by 6.55% — Platinum decreased 6.55% to 1553.2 USD/t.oz
-
----
-
-### 2026-06-25 05:43:55  #國際
-
-北約秘書長呂特： 特朗普正大力推動北約理順各項事務。
-
----
-
-### 2026-06-25 05:39:57  #國際
-
-北約秘書長呂特：我完全確信，美國必要時會保護歐洲。
-
----
-
-### 2026-06-25 05:39:11  #其他
-
-【哥倫比亞官方確認德拉埃斯普列亞當選新任總統】哥倫比亞全國選舉委員會24日確認，極右翼候選人德拉埃斯普列亞當選該國新任總統。(新華社)
-
----
-
-### 2026-06-25 05:31:47  #MKT News
-
-【DRC Ebola outbreak still spreading; WHO says response lagging, vaccine R&D must accelerate】WHO said the Ebola outbreak in the Democratic Republic of Congo is still spreading rapidly and response efforts are lagging, with frontline health workers facing severe safety risks and containment confronting multiple major challenges. UNICEF and Gavi urged acceleration of vaccine development and supply for the Bundibugyo ebolavirus. Gavi plans to transfer R&D materials to manufacturers shortly and expects to have doses prepared and to begin trials by end-2026.
-
----
-
-### 2026-06-25 05:29:48  #國際
-
-北約秘書長呂特：特朗普還希望北約盟友增加開支。
-
----
-
-### 2026-06-25 05:28:37  #國際
-
-北約秘書長呂特：特朗普堅定支援北約同盟。
-
----
-
-### 2026-06-25 05:25:31  #國際
-
-北約秘書長呂特：與特朗普的會談十分順利。
-
----
-
-### 2026-06-25 05:20:35  #MKT News #Market Regions #Wall Street (US) #JPM.O #Impact bullish #GS.O #MS.O
-
-【US big banks raise dividends after Fed stress tests; JP Morgan launches $50bn buyback】US large banks raised dividends after passing the Federal Reserve's annual stress tests, following gradual regulatory adjustments that have eased the test hurdle. JP Morgan raised its quarterly dividend to $1.65 from $1.50 and approved a $50 billion share buyback effective July 1. Wells Fargo raised its dividend to $0.50 from $0.45. Morgan Stanley raised its dividend to $1.15 from $1.00. Goldman Sachs raised its dividend to $5.00 from $4.50.
-
----
-
-### 2026-06-25 05:18:13  #其他
-
-市場訊息：貝恩資本即將達成交易，收購大眾旗下 Everllence 部分股權。
-
----
-
-### 2026-06-25 05:17:52  #公司 #市場
-
-標普道瓊斯指數公司：Netstreit 公司將於 6 月 29 日開盤前替換 ProAssurance 公司，納入標普小盤 600 指數。
-
----
-
-### 2026-06-25 05:17:40  #MKT News #Market Regions #Europe & UK
-
-【Trump on potential UK PM Burnham: not familiar, 'extremely liberal'】US President Trump dismissed Andy Burnham, saying he was unfamiliar with the former Greater Manchester mayor and had 'only heard' he is 'extremely liberal.' Trump added he thought Burnham 'may not develop North Sea resources.' Burnham is reportedly likely to be the sole nominee to replace Keir Starmer as Labour leader and could become UK prime minister by mid-July. The comments also lay groundwork for possible future tensions between the two leaders.
-
----
-
-### 2026-06-25 05:16:40  #MKT News
-
-【Pakistan counterterrorism unit says it killed six terrorists】Pakistan's Khyber Pakhtunkhwa counterterrorism department said on the 24th that a joint operation with police killed six terrorists. The department said the group had earlier attacked a local police post, killing one officer.
-
----
-
-### 2026-06-25 05:16:15  #其他
-
-【巴基斯坦反恐部門稱擊斃6名恐怖分子】巴基斯坦西北部開伯爾－普什圖省反恐部門24日釋出宣告說，該部門在和警方的聯合行動中擊斃6名恐怖分子。宣告說，這夥恐怖分子此前襲擊該地區一警察哨所，導致一名警員殉職。
-
----
-
-### 2026-06-25 05:15:20  #市場
-
-富時A50期指連續夜盤收跌0.02%，報15537點。
-
----
-
-### 2026-06-25 05:13:46  #國際
-
-【特朗普回應拒籤住房法案：比任何人都懂房地產 降息才是關鍵】當地時間6月24日，被問及臨時取消旨在降低住房成本和增加住房供應法案的簽署計劃時，美國總統特朗普表示，“我說過我不會簽署那個法案。我在房地產行業賺了幾十億美元，我比任何人都更瞭解房地產。這完全是利率的事情，我們要降低利率。我也不想傷害那些擁有房產的人。對這些人來說，他們人生中第一次擁有了有價值的房子，他們變得富有了。我也不想傷害他們。”
-
----
-
-### 2026-06-25 05:13:43  #Trading Economics #Economy #South Korea #Business Confidence #Importance 1
-
-South Korea Manufacturing Confidence Eases in June — South Korea’s Business Survey Index for the manufacturing sector edged down to 79 in June 2026 from 80 in the previous month. The production index was unchanged at 90, while the new orders index rose to 88 from 87. Meanwhile, the inventories index held steady at 100, and the financial conditions index improved slightly to 80 from 79. The Composite Business Sentiment Index for manufacturing rose 0.4 points to 101.2, signaling a modest improvement in current conditions. However, the outlook for the following month weakened, with the forward-looking sentiment index falling 2.1 points to 98.2.
-
----
-
-### 2026-06-25 05:13:35  #MKT News #Important #Macro & Rates #US Economy #US10Y #Impact bullish #DXY #Impact bearish #S&P500
-
-【Trump says he will not sign housing bill, frames issue as interest-rate driven and backs rate cuts】On June 24, asked about his decision not to sign a bill intended to lower housing costs and boost supply, President Trump said he will not sign the measure. He said he has made billions in real estate and "understands real estate better than anyone," called the problem "entirely about rates," and said "we need to lower rates." He added he does not want to hurt homeowners who have gained wealth from rising house values.
 
 ---

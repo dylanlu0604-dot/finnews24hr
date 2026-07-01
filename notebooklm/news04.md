@@ -1,7 +1,99 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-07-02 05:08:51_
-_本檔包含 2783 則快訊，約 530411 字_
+_更新時間：2026-07-02 05:47:43_
+_本檔包含 2777 則快訊，約 530145 字_
+
+---
+
+### 2026-06-26 19:20:12  #公司
+
+【山外山：取得醫療器械變更註冊（備案）檔案】山外山公告，近日收到由國家藥品監督管理局頒發的《中華人民共和國醫療器械變更註冊（備案）檔案》。公司為響應國家醫療器械標準更新要求、滿足市場需求並提升治療安全性，對已上市產品實施型號增補及技術指標與功能升級。主要變更內容為新增SWS-6000S、SWS-6000SA型號，變更結構及組成，變更產品技術要求。註冊證編號為國械注準20153101583，有效期為2025年4月24日至2030年4月23日。
+
+---
+
+### 2026-06-26 19:20:03  #MKT News #XAUUSD #Impact bullish #WTI #Brent
+
+Lebanese state media reports Israel dropped leaflets over southern Lebanese towns ordering residents to evacuate, the first such directive since the ceasefire.
+
+---
+
+### 2026-06-26 19:19:19  #公司 #市場
+
+【洪田股份：股價異常波動 一季度仍處虧損狀態】洪田股份公告稱，公司股票於2026年6月24日-6月26日連續3個交易日內日收盤價格漲幅偏離值累計超20%，屬異常波動。截至6月26日收盤，公司滾動市盈率774.63倍、市淨率23.26倍，高於行業平均水平。2026年第一季度，公司淨虧損1602.08萬元，與上年同期相比減虧36.55%，但仍處虧損狀態。公司及原董事舒志高曾被立案，截至公告披露日，公司未收到行政處罰事先告知書。
+
+---
+
+### 2026-06-26 19:19:11  #公司
+
+【江波龍：董事李志雄減持239.99萬股股份計劃實施完畢】江波龍公告稱，公司股東及董事李志雄因個人資金需求，原計劃在2026年4月13日至7月12日，減持不超240萬股（佔預披露時總股本0.5726%）。截至6月25日，減持計劃實施完畢，其透過集中競價交易，於5月12日至6月25日減持239.9924萬股，佔目前總股本0.5673%，減持均價575.69元/股。
+
+---
+
+### 2026-06-26 19:19:08  #MKT News #Market Regions #Greater China
+
+【CHINA signs three presidential orders; revises Trademark and CPA laws, removes Natural Resources minister】CHINA signed three presidential orders on June 26, 2026. The 14th NPC Standing Committee adopted revisions to the PRC Trademark Law and the Law on Certified Public Accountants on June 26; both reforms are promulgated and scheduled to take effect Jan. 1, 2027. The orders also relieve Natural Resources Minister Guan Zhi'ou of his duties.
+
+---
+
+### 2026-06-26 19:19:03  #公司
+
+【寧德時代：成功發行10億元5年期綠色科技創新債券】寧德時代公告稱，公司成功發行2026年度第四期綠色科技創新債券（品種二），簡稱“26寧德時代MTN004B（科創債）”，程式碼為102682370，發行總額10億元，發行價格100元/百元面值，債券期限5年，發行利率1.60%，起息日為2026年6月26日，兌付日為2031年6月26日。主體信用評級為AAA。簿記管理人和主承銷商為中國銀行，聯席主承銷商為中國建設銀行和中國農業銀行。
+
+---
+
+### 2026-06-26 19:18:59  #MKT News #Commodities #Precious Metals #XAUUSD #Impact bullish
+
+【RBC still constructive on gold; sees more buying at $4,000/oz and below】RBC remains constructive on gold over the medium to long term, saying the "currency debasement" trade still has room to run. RBC commodity strategist Chris Louney said more buying could flow in at or below $4,000/oz, and that concerns about rising government debt continue to underpin gold’s case.
+
+---
+
+### 2026-06-26 19:18:54  #公司
+
+【安利股份：完成5999.15萬元股份回購 佔總股本約2%】安利股份公告稱，公司於2026年4月24日審議透過股份回購方案，擬以4000萬-6000萬元回購股份用於員工持股計劃或股權激勵。截至6月25日，公司已完成回購，累計回購433.7萬股，佔總股本約1.9987%，最高成交價14.99元/股，最低成交價11.74元/股，支付總金額5999.15萬元（不含交易費用）。回購股份將存放於專用賬戶，後續將用於員工持股計劃或股權激勵，若36個月內未使用，未使用股份將依法登出。
+
+---
+
+### 2026-06-26 19:18:31  #公司
+
+【盛合晶微：東盛合芯三維整合晶片製造（一期）專案6月29日開工】盛合晶微公告稱，公司2024年相關會議審議透過投資建設東盛合芯三維整合晶片製造（一期）專案，專案總投資約100億元。公司已與臨港新片區管委會籤相關協議，並完成專案實施主體註冊。目前正在籌備開工前事宜，完善手續後將於6月29日開工。專案資金來源於自有、自籌等，雖公司資金和信用良好，但專案受多種因素影響，存在不確定性和資金籌措風險。
+
+---
+
+### 2026-06-26 19:17:48  #國際
+
+【美銀：2026世界盃有望創造450億美元GDP】美國銀行表示，根據其統計的信用卡和簽帳金融卡資料，在2026年FIFA世界盃小組賽階段，各主辦城市的消費者支出同比增長6.3%。美國銀行分析師預測，本屆世界盃使全球國內生產總值（GDP）大幅增長450億美元，其中約190億美元將計入美國GDP。本屆世界盃或成北美歷史上經濟效益最高的體育賽事。
+
+---
+
+### 2026-06-26 19:17:23  #國際
+
+【伊朗胡齊斯坦省最高領袖代表：美以目標均在伊導彈打擊範圍內】伊朗最高領袖駐胡齊斯坦省代表、阿瓦茲主麻日領拜穆罕默德納比・穆薩維法爾德警告，伊朗的敵國今後若再有任何 “越界舉動”，伊朗必將予以果斷回擊。穆薩維法爾德稱：“美國在該地區剩餘的軍事基地以及以色列全境，均處於伊朗伊斯蘭共和國導彈射程之內。”他同時表示，伊朗赴瑞士談判代表團的任務，是落實穆傑塔巴・哈梅內伊提出的各項訴求。他指出：“瑞士談判代表團的使命，就是爭取實現穆傑塔巴・哈梅內伊劃定的談判條件。”穆薩維法爾德補充，若談判各方不履行自身承諾，“伊朗伊斯蘭共和國也將恢復此前的強硬立場”。
+
+---
+
+### 2026-06-26 19:17:04  #其他
+
+【習近平簽署國家主席令】國家主席習近平6月26日簽署第七十七號、第七十八號、第七十九號主席令。
+
+第七十七號主席令說，《中華人民共和國商標法》已由中華人民共和國第十四屆全國人民代表大會常務委員會第二十三次會議於2026年6月26日修訂透過，現予公佈，自2027年1月1日起施行。
+
+第七十八號主席令說，《全國人民代表大會常務委員會關於修改〈中華人民共和國註冊會計師法〉的決定》已由中華人民共和國第十四屆全國人民代表大會常務委員會第二十三次會議於2026年6月26日透過，現予公佈，自2027年1月1日起施行。
+
+第七十九號主席令說，根據中華人民共和國第十四屆全國人民代表大會常務委員會第二十三次會議於2026年6月26日的決定：
+
+免去關志鷗的自然資源部部長職務。（央視新聞）
+
+---
+
+### 2026-06-26 19:16:22  #公司
+
+【盛合晶微：擬向全資子公司增資約38.55億元】盛合晶微公告稱，公司擬使用募集資金透過全資子公司盛合晶微香港向盛合晶微江陰增資57000.00萬美元（摺合人民幣約385491.00萬元），用於置換已預先投入募投專案的自籌資金。本次增資已獲公司第一屆董事會第十六次會議透過，無需股東會審議。增資完成後，盛合晶微江陰仍為公司全資子公司，不會致合併報表範圍變化，也不會對公司生產經營產生不利影響。
+
+---
+
+### 2026-06-26 19:15:41  #公司
+
+【拉卡拉：擬1.5億元參與投資設立人工智慧基金】拉卡拉公告稱，公司擬與上海國投先導人工智慧私募投資基金合夥企業等共同投資設立上海考拉先導人工智慧創業投資基金合夥企業，該基金目標認繳出資總額6億元，公司擬以自有資金認繳1.5億元。共同投資方之一北京考拉宏途企業管理中心為公司關聯方，此次投資構成關聯交易。本次投資事項已獲董事會透過，無需提交股東會審議。目前公司尚未與各方簽訂合夥協議，投資存在不確定性。
 
 ---
 
@@ -16669,125 +16761,5 @@ United States | EIA Weekly Natural Gas Storage Change (Jun.19) | actual 76000000
 ### 2026-06-25 22:27:49  #央行 #美聯儲
 
 隨著美國最高法院完成意見書起草，美聯儲理事庫克案的裁決預計將於下週公佈。
-
----
-
-### 2026-06-25 22:27:44  #國際
-
-【沙特主要石油碼頭即將重啟 波斯灣原油供應加快恢復】主要石油出口國沙烏地阿拉伯即將恢復在波斯灣內拉斯塔努拉碼頭的原油裝載作業，這是伊朗戰爭後中東石油供應恢復的一個里程碑時刻。根據彭博彙編的船舶追蹤資料，沙特油輪巨頭Bahri旗下的兩艘超大型原油運輸船正駛向碼頭內位於Ju’aymah的離岸裝載區。資料顯示，還有第三艘船停泊在附近。自3月初以來，該巨型碼頭一直未觀察到任何原油裝載活動。隨著戰爭期間被困在波斯灣內的原油得以流出，霍爾木茲海峽的重新開放使大量石油湧入全球市場。雖然一些海灣產油國在衝突期間繼續讓船隻關閉衛星應答器穿越該水道，但沙特的主要裝載碼頭此前一直處於沉寂狀態。此次拉斯塔努拉碼頭恢復執行，標誌著該地區朝著提升石油運輸量邁出重要一步。
-
----
-
-### 2026-06-25 22:27:38  #公司
-
-【分眾傳媒創始人卸任法定代表人 公司稱仍為實控人不影響經營】近日，電梯媒體廣告行業龍頭分眾傳媒變更法定代表人，創始人江南春卸任，杭璇接棒。6月25日，分眾傳媒方面回應記者表示，“只是工商身份的變更，對經營沒有任何影響。”據透露，江南春仍為公司實控人，任分眾傳媒董事長兼總裁、執行長。杭璇目前在公司官網顯示的職位為“市場公關部市場總監”。（南方+）
-
----
-
-### 2026-06-25 22:27:24  #MKT News #Market Regions #Europe & UK #Market Themes #AI Revolution
-
-Market sources say the U.S. is seeking to establish a partnership with the EU on AI regulation and supply-chain cooperation.
-
----
-
-### 2026-06-25 22:27:19  #公司
-
-據港交所檔案：神基製藥有限公司向港交所提交上市申請書。
-
----
-
-### 2026-06-25 22:27:06  #MKT News #Commodities #Energy #PETR4.SA
-
-Petrobras CEO said the company will resume diesel imports in July after three consecutive months without imports.
-
----
-
-### 2026-06-25 22:26:57  #國際
-
-美國尋求與歐盟建立人工智慧合作關係，聚焦監管與供應鏈領域。
-
----
-
-### 2026-06-25 22:26:45  #MKT News
-
-US Supreme Court backs Trump administration plan to terminate deportation protections for Syrian and Haitian migrants.
-
----
-
-### 2026-06-25 22:26:23  #MKT News #Important
-
-Market sources say the U.S. Supreme Court has finished drafting the opinion and a ruling in the case involving Fed Governor Cook is expected next week.
-
----
-
-### 2026-06-25 22:26:17  #央行 #焦點 #國際
-
-市場訊息：隨著最高法院完成意見書起草，美聯儲理事庫克案的裁決預計將於下週公佈。
-
----
-
-### 2026-06-25 22:25:30  #其他
-
-【北京頭部大模型累計註冊使用者達到20.5億】6月25日 ，2026全球數字經濟大會新聞釋出會舉行。記者從會上獲悉，截至目前，北京頭部大模型累計註冊使用者達到20.5億。 北京市網際網路資訊辦公室副主任潘鋒介紹，北京擁有全國最為豐富的人工智慧創新資源和最具活力的產業生態和堅實的新型基礎設施保障。北京市網際網路資訊辦公室做好人工智慧創新發展的推動者和守護者，不斷完善大模型“備案+登記”的分級分類管理體系，在亦莊的模數世界、朝陽的光智空間落地第二批“大模型生態服務站”，壓茬推進242款大模型備案上線，數量穩居全國第一。截至目前，北京頭部大模型累計註冊使用者達到20.5億，面向全國近5萬家機構提供API的介面服務，龍頭企業示範引領、輻射帶動效應持續凸顯。（新京報）
-
----
-
-### 2026-06-25 22:24:36  #公司
-
-【莊園牧場：股東馬紅富減持1%股份 超額部分已購回】莊園牧場公告稱，股東馬紅富2026年6月23日透過集中競價方式減持195.21萬股，佔公司總股本的1%。本次權益變動前，其持股13.50%；變動後，持股12.50%。此次減持是履行減持計劃，但操作失誤超額減持1.63萬股。馬紅富2026年6月24日已購回超額部分，並將收益1.99萬元交至公司。截至公告披露日，減持計劃尚未履行完畢。
-
----
-
-### 2026-06-25 22:24:28  #市場 #焦點
-
-聚丙烯連續主力合約日內漲2%，現報7256.00元。
-
----
-
-### 2026-06-25 22:24:21  #公司
-
-環球園藝有限公司在港交所提交IPO申請，獨家保薦人為招銀國際。
-
----
-
-### 2026-06-25 22:23:29  #國際
-
-美國最高法院允許特朗普政府國土安全部撤銷移民免遣保護資格。
-
----
-
-### 2026-06-25 22:23:21  #國際
-
-法院裁定允許美國取消對海地、敘利亞公民的保護政策。
-
----
-
-### 2026-06-25 22:22:36  #市場 #國際
-
-歐洲斯托克600指數創下盤中歷史新高。
-
----
-
-### 2026-06-25 22:22:29  #Trading Economics #Markets #Commodity #Importance 0
-
-Brent Crude Oil Holds Near Pre-War Levels — Crude oil rose above $74 a barrel on Thursday after three days of losses, but remained near pre-war levels, as progress in US-Iran peace efforts improved the supply outlook. Growing confidence in a lasting agreement has encouraged more tankers to transit the Strait of Hormuz with their tracking signals turned on. Saudi Arabian tankers are heading toward the Ras Tanura terminal to restart Persian Gulf exports for the first time since March. In addition, a temporary US waiver permitting purchases of already-loaded Iranian oil is expected to boost supply. As oil streams through the waterway at its fastest wartime pace, market attention is shifting toward an anticipated 2026 global supply surplus, prompting Iraq to threaten to leave OPEC unless its production quota is increased. Meanwhile, US stockpiles at Cushing, Oklahoma, are below operational requirements at roughly 19 million barrels.
-
----
-
-### 2026-06-25 22:21:36  #公司
-
-巴西國家石油公司執行長表示，將於7月進口柴油，此前已連續三個月未進口該燃料。
-
----
-
-### 2026-06-25 22:21:28  #央行 #其他
-
-巴西央行官員：服務業通脹仍存上行壓力。
-
----
-
-### 2026-06-25 22:21:28  #Trading Economics #Markets #Commodity #Importance 2
-
-Oil Hovers at Pre-War Levels — Crude oil edged up to $70.7 a barrel on Thursday after three days of losses, but remained near pre-war levels, as progress in US-Iran peace efforts improved the supply outlook. Growing confidence in a lasting agreement has encouraged more tankers to transit the Strait of Hormuz with their tracking signals turned on. Saudi Arabian tankers are heading toward the Ras Tanura terminal to restart Persian Gulf exports for the first time since March. In addition, a temporary US waiver permitting purchases of already-loaded Iranian oil is expected to boost supply. As oil streams through the waterway at its fastest wartime pace, market attention is shifting toward an anticipated 2026 global supply surplus, prompting Iraq to threaten to leave OPEC unless its production quota is increased. Meanwhile, US stockpiles at Cushing, Oklahoma, are below operational requirements at roughly 19 million barrels.
 
 ---

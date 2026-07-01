@@ -1,7 +1,79 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-07-02 05:08:51_
-_本檔包含 2549 則快訊，約 530480 字_
+_更新時間：2026-07-02 05:47:43_
+_本檔包含 2544 則快訊，約 529433 字_
+
+---
+
+### 2026-07-01 11:08:26  #MKT News #Market Regions #Greater China #SZSE Component #Impact bullish #CSI300
+
+【Shenzhen June residential transactions highest since 2021】Shenzhen Centaline Research Center reported June residential transactions at 8,878 units, down 11.9% MoM but up 14.2% YoY, the highest June volume since 2021. New-home net-signings (presale + current-sale) totaled 3,785 units (-16.7% MoM, +15.6% YoY); resales recorded 5,093 transfers (-8.0% MoM, +13.1% YoY).
+
+---
+
+### 2026-07-01 11:08:13  #市場 #焦點
+
+中證500指數期貨連續主力合約日內漲1%，現報8871.00點。
+
+---
+
+### 2026-07-01 11:08:09  #MKT News #SPCX.O #Impact bullish
+
+Wedbush initiates coverage of SpaceX (SPCX.O) with Outperform rating and $190 PT.
+
+---
+
+### 2026-07-01 11:08:07  #市場 #焦點
+
+集運指數歐線期貨連續主力合約日內跌9%，現報2582.00點。
+
+---
+
+### 2026-07-01 11:07:26  #MKT News
+
+【China Baowu Taigang Steel Technology completes trial production of T1100S carbon fiber】China Baowu Taigang Steel Technology Co. said it completed a single-run trial production of T1100S-grade ultra-high-strength carbon fiber, with key performance metrics described as domestic-leading and internationally advanced. Carbon fiber is a strategic material for aerospace and high-end equipment manufacturing; T1100S is a top-tier, high-modulus ultra-high-strength grade with high technical barriers and has been a long-standing focus of domestic new-material R&D.
+
+---
+
+### 2026-07-01 11:06:32  #其他
+
+【零跑汽車：6月全球交付93376臺 同比增長95%】零跑汽車公佈6月交付資料：全球交付93376臺，同比增長95%，上半年累計交付達356487臺。
+
+---
+
+### 2026-07-01 11:06:30  #MKT News #Market Themes #China EV Leaders #09863.HK #Impact bullish
+
+Leapmotor (09863.HK) June deliveries 93,376 units, up 95% YoY.
+
+---
+
+### 2026-07-01 11:06:11  #公司
+
+【中國寶武太鋼鋼科公司T1100S級超高強碳纖維一次性試製成功】據中國寶武訊息，近日，中國寶武太鋼鋼科公司T1100S級超高強碳纖維一次性試製成功，各項關鍵效能指標優異，達到國內領先、國際先進水平。碳纖維是支撐航空航天、高階裝備製造的關鍵戰略材料，從飛機結構件到火箭殼體，輕量化材料的突破直接決定裝備效能的天花板。而T1100S則是行業頂尖的高模量超高強碳纖維，技術壁壘極高，長期是國內新材料攻關的重點方向。
+
+---
+
+### 2026-07-01 11:05:58  #其他
+
+【我國自研的世界首套水下焊接原位中子衍射研究裝置投入使用】我國自主研發的、世界首套水下焊接原位中子衍射研究裝置7月1日在中國散裂中子源工程材料譜儀上投入使用，並順利完成首次水下焊接過程原位觀測實驗。這標誌著我國在水下焊接過程中的微觀結構實時觀測與核心焊接機理揭示方面取得重大突破，可為大型水下結構物水下焊接技術的自主可控及焊接質量提升提供科學支撐。
+
+---
+
+### 2026-07-01 11:05:31  #國際
+
+截至6月27日當週，日本煉油廠開工率為81%。
+
+---
+
+### 2026-07-01 11:04:50  #MKT News #Important #000860.SZ #Impact bullish #600702.SS
+
+China A-share liquor sector rebounded, led by Jinzhongzi Wine which hit the daily trading limit; Huangtai Wine, Shunxin Agriculture, Tianyoude Wine, Jinhui Wine and Shede Spirits also rose.
+
+---
+
+### 2026-07-01 11:04:27  #市場 #焦點
+
+焦煤連續主力合約日內跌2%，現報1249.50元。
 
 ---
 
@@ -15268,107 +15340,5 @@ Financial Times: Analysts say Japan's IPO count in 1H fell to a 15-year low and 
 ### 2026-06-29 11:31:15  #MKT News #Market Regions #Greater China #CSI300 #Impact bullish #CSI500 #Impact bearish #CSI1000
 
 【Stock index futures morning close】China's CSI 300 index futures (IF main contract) +0.04% at the morning close; SSE 50 futures (IH main contract) +1.54%; CSI 500 futures (IC main contract) -0.57%; CSI 1000 futures (IM main contract) -1.62%.
-
----
-
-### 2026-06-29 11:31:07  #MKT News #Important #Commodities #Precious Metals #Industrial Metals #Energy #Market Regions #Greater China #WTI #Impact bearish
-
-At the morning session close, China's front-month commodity futures were mostly higher: palladium up nearly 4%, live hogs up over 3%, platinum up nearly 3%. Fiberboard, lithium carbonate, coking coal, Shanghai silver, red dates and Shanghai zinc rose more than 2%. Lagging contracts included SC crude oil down over 2%, synthetic rubber down nearly 2%, japonica rice, 20# rubber and PVC down more than 1%, and caustic soda down nearly 1%.
-
----
-
-### 2026-06-29 11:30:02  #市場
-
-【股指期貨早盤收盤】 中證1000指數期貨連續跌1.60%， 滬深300指數期貨連續漲0.02%， 中證500指數期貨連續跌0.56%， 上證50指數期貨連續漲1.54%。
-
----
-
-### 2026-06-29 11:30:02  #市場
-
-【國債期貨早盤收盤】 30年期主力合約漲0.05%， 10年期主力合約漲0.09%， 5年期主力合約漲0.08%， 2年期主力合約漲0.02%。
-
----
-
-### 2026-06-29 11:30:02  #市場
-
-【商品期貨早盤收盤】鈀連續漲3.78%，生豬連續漲3.52%，鉑連續漲2.75%，纖維板連續漲2.66%，碳酸鋰連續漲2.39%，焦煤連續漲2.25%，白銀連續漲2.20%，紅棗連續漲2.19%。
-
----
-
-### 2026-06-29 11:29:37  #市場 #焦點
-
-滬深兩市成交額超2.5萬億元，較上日此時放量743億元。
-
----
-
-### 2026-06-29 11:29:19  #MKT News #Important #Market Regions #Greater China #Star Stocks #JD.com #Meituan #09626.HK #Impact bullish #09888.HK #03690.HK
-
-Hong Kong tech stocks extended gains: Bilibili (09626.HK) rose more than 8%, Baidu (09888.HK) rose over 7%; JD.com (09618.HK) and Meituan (03690.HK) also climbed.
-
----
-
-### 2026-06-29 11:28:30  #公司
-
-【通力科技減速機配套華峰鋁業生產線正式通車】據通力科技訊息，近日，華峰鋁業年產45萬噸新能源汽車高階鋁板帶箔專案1+1+4熱連軋2400mm生產線正式投產通車。通力科技自主研發的高效能減速機全線配套該產線輥道傳動系統，實現公司傳動裝備在有色高階軋製領域的重要突破。
-
----
-
-### 2026-06-29 11:26:55  #其他
-
-【瑞銀：儘管前景疲軟，澳大利亞鋰礦股仍具價值】疲軟的中短期鋰價預測導致瑞銀(UBS)下調對包括PLS和Liontown在內的澳大利亞生產商的股價預期。儘管如此，瑞銀表示，儘管市場情緒疲軟，但由於有強勁的估值支撐，該機構依然看好澳大利亞證券交易所(ASX)的鋰礦股。該機構稱，Liontown仍是其首選，而PMET是“符合長期主題的極具吸引力的選擇“。瑞銀重申對Liontown、PMET和IGO的買入評級。該機構重申對PLS的中性評級，稱與同行相比，該股似乎仍然昂貴。其對PLS的目標價下調17%，至每股5.60澳元，而對Liontown的目標價下調7.4%，至2.50澳元。瑞銀將對IGO的目標價下調1.0%，至9.65澳元，而對PMET的目標價維持在0.90澳元不變。
-
----
-
-### 2026-06-29 11:23:25  #MKT News #Commodities #Energy #WTI #Impact bearish #Brent
-
-Sources say Venezuela's 645,000 bpd Amuay refinery has had power restored.
-
----
-
-### 2026-06-29 11:23:09  #其他
-
-【海淀區副區長唐超：全區商業航天百強佔全國超1/4錨定“千星在軌、千億規模”目標】今日，在2026全球數字經濟大會太空算力論壇上，中關村科學城管委會副主任、海淀區副區長唐超表示，目前，海淀全區集聚航天科技、航天科工等龍頭企業及200餘家相關機構，形成覆蓋衛星研製到場景應用的全鏈條產業生態，全國商業航天百強中海淀佔比超四分之一，產業集聚度與競爭力全國領先。2025年，海淀獲評北京首個商業航天衛星特色產業叢集。面向未來，海淀將全力支撐北京太空算力創新中心建設，圍繞“千星在軌、千億規模”目標，重點推進三項工作：一是聚焦太空原生算力晶片、在軌大模型迭代等前沿技術攻堅，搶佔行業標準制高點；二是深化太空算力與衛星網際網路、人工智慧融合，加速標杆場景商業化落地；三是依託北京衛星小鎮與百億級產業基金，強化空間、資金、人才全鏈條要素保障。（科創板日報）
-
----
-
-### 2026-06-29 11:22:45  #其他
-
-訊息人士稱，委內瑞拉日產64.5萬桶的阿穆艾煉油廠已恢復供電。
-
----
-
-### 2026-06-29 11:22:12  #其他
-
-【瑞銀：上調臺積電目標價至3400元新臺幣，維持“買入”評級】瑞銀將臺積電的目標價從3000元新臺幣上調至3400元新臺幣，並維持“買入”評級。該行同時上調對臺積電2026年的銷售增長預測，並表示增長動能有望延續至未來數年。
-
----
-
-### 2026-06-29 11:21:55  #公司
-
-【上海公共資料生態共建合作啟動】由上海市資料局、上海市司法局、徐彙區人民政府、上海市大資料中心指導，上海儀電（集團）有限公司主辦的上海公共資料同盟軍合作啟動暨生態共建會”舉行。雲賽數智現場釋出首批公共資料同盟軍名單，並宣佈大衍·奇點平臺投入運營，首批成員單位覆蓋金融、通訊、測繪、法律服務、人工智慧等重點產業領域。雲賽數智還分別與上海資料交易所、錢塘徵信有限公司簽署生態戰略合作協議。後續將圍繞資料產品場內掛牌、企業資料資產入表、普惠信用服務創新等領域開展協作，完善公共資料授權運營的商業閉環。
-
----
-
-### 2026-06-29 11:21:38  #國際
-
-【普京稱將採取措施確保國內燃油供應】當地時間6月28日，俄羅斯總統普京在主持召開國內燃油市場保障會議時表示，需要採取系統性措施以增加燃油供應量並維持經濟上合理的價格。普京表示，需要將烏克蘭針對俄羅斯基礎設施目標的襲擊後果降至最低。目前，俄羅斯大型煉油廠產能已滿負荷利用，中小型企業的潛力也已調動，七月份主要油品的產量預計可超過六月份水平。普京還表示，正在考慮全面禁止柴油出口的必要性。（CCTV國際時訊）
-
----
-
-### 2026-06-29 11:20:14  #公司
-
-【綠城中國在杭州成立新房地產開發公司，註冊資本10.2億】天眼查App顯示，近日，杭州臻意房地產開發有限公司成立，法定代表人為於向輝，註冊資本10.2億人民幣，經營範圍為房地產開發經營、物業管理，由綠城房地產集團有限公司全資持股。
-
----
-
-### 2026-06-29 11:19:23  #市場 #國際
-
-菲律賓股指上漲1%，報6133.55點。
-
----
-
-### 2026-06-29 11:18:37  #公司 #市場 #觀點 #央行 #國際
-
-【美聯儲鷹派立場和美元走強令金屬價格承壓，銅價下跌】由於美聯儲的鷹派立場和美元走強繼續打壓市場對工業金屬的信心，銅價下跌。倫敦三個月銅期貨價格跌至每噸13300美元附近，此前已連續兩週下跌。此前，美聯儲決策者已發出訊號，表示未來幾個月將加大加息力度，以應對美國持續高企的通脹。上週，美元觸及去年11月以來的最高水平。此外，由於市場預期特朗普政府可能對精煉金屬的流通徵收關稅，美國貿易政策也備受關注。另一方面，高盛集團表示，伊朗衝突最終將提振金屬需求。分析師薩曼莎·達特等人在一份報告中指出，電動汽車需求增加、可再生能源投資進一步增長、國防開支上升以及人工智慧競賽競爭加劇等因素都將支撐銅需求。該行最近將2026年底和2027年平均銅價預測分別上調至每噸13,735美元和每噸13,800美元。
 
 ---

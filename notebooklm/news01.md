@@ -1,7 +1,91 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-07-02 05:08:51_
-_本檔包含 2910 則快訊，約 530494 字_
+_更新時間：2026-07-02 05:47:43_
+_本檔包含 2912 則快訊，約 530976 字_
+
+---
+
+### 2026-07-02 05:45:18  #國際
+
+【卡達外交部：圍繞美伊諒解備忘錄取得積極進展】卡達外交部發言人稱，卡達和巴基斯坦調解人週三在多哈分別結束了與美國和伊朗談判代表的會談。在瑞士峰會成果的基礎上，就與伊斯蘭堡諒解備忘錄相關的問題取得了“積極進展”各方同意在“未來一段時間”繼續磋商。下一輪會談將在伊朗前最高領袖葬禮結束後儘快安排。
+
+---
+
+### 2026-07-02 05:41:22  #國際
+
+市場資訊：韓國主要銀行正在擴充外匯交易團隊，並在首爾與倫敦加強佈局，以應對即將啟動的韓元24小時外匯市場。
+
+---
+
+### 2026-07-02 05:40:14  #國際
+
+伊拉克安全部門訊息人士透露，週三凌晨，一架裝載爆炸物的無人機襲擊了伊拉克庫爾德地區一處伊朗庫爾德反對派武裝營地，現場引發火情。目前暫無人員傷亡訊息，襲擊實施方也尚未查明。
+
+---
+
+### 2026-07-02 05:40:08  #MKT News
+
+【Korean banks expand trading teams ahead of near-24-hour KRW trading】Major Korean banks are expanding FX trading staff and bolstering Seoul–London coverage ahead of a near-24-hour KRW FX trading regime launching July 6. Woori Bank has seconded eight staff to its London office covering FX, derivatives and bond trading. Hana Bank added traders in Seoul and implemented three-shift rotations for round-the-clock coverage. Shinhan Bank and KB Kookmin Bank have also increased headcount and upgraded trading systems. The moves are aimed at improving KRW liquidity and supporting internationalization of Korea’s financial markets.
+
+---
+
+### 2026-07-02 05:39:41  #MKT News #XAUUSD #Impact bullish #DXY #S&P500 #Impact bearish
+
+A fire broke out at Kyiv's Premier Palace Hotel after a Russian drone strike.
+
+---
+
+### 2026-07-02 05:31:05  #國際
+
+俄羅斯沙赫德無人機襲擊後，基輔市中心的首相宮殿酒店起火。
+
+---
+
+### 2026-07-02 05:25:14  #公司
+
+【必和必拓申請15億美元智利銅礦重啟專案審批】必和必拓集團已提交一份環境影響評估報告，計劃斥資15億美元重啟旗下位於智利北部的科羅拉多山銅礦，目標將礦山開採年限再延長20年。該方案擬重新運營這座地處塔拉帕卡大區的礦山；該礦此前因環境許可到期，已於2023年停產。必和必拓表示，該專案將創造約1500個施工崗位，以及3000餘個長期運營崗位。
+
+---
+
+### 2026-07-02 05:22:40  #MKT News
+
+Iraqi security sources said a bomb-laden drone struck a camp belonging to an Iranian Kurdish opposition group east of Erbil, Iraq.
+
+---
+
+### 2026-07-02 05:22:34  #國際
+
+伊拉克安全訊息人士：載彈無人機襲擊伊拉克埃爾比勒以東的伊朗庫爾德反對派組織營地。
+
+---
+
+### 2026-07-02 05:17:36  #MKT News #Star Stocks #Apple #Market Themes #Magnificent 7 #AAPL.O
+
+【Apple plans new iPad Pro and redesigned entry-level MacBook Pro for 2027】US tech reporter Mark Gurman reported Apple is planning upgraded iPad Pro models and a redesigned entry-level MacBook Pro for 2027. Apple is testing four iPad Pro models targeted for spring 2027; sizes will remain 11-inch and 13-inch. Upgrades are focused on internal changes, including faster chips. Apple has tested vapor-chamber heat-spread (VC liquid cooling) for iPads to improve sustained performance and reduce overheating. Separately, Apple plans a redesigned entry-level 14-inch MacBook Pro, codename K104, due in 1H 2027; its design will align with an upcoming high-end touch-screen MacBook expected late this year to early next year.
+
+---
+
+### 2026-07-02 05:17:00  #焦點 #國際
+
+以色列定居者突襲約旦河西岸佔領區多個城鎮的民居與土地。
+
+---
+
+### 2026-07-02 05:15:20  #市場
+
+富時A50期指連續夜盤收漲0.35%，報15300點。
+
+---
+
+### 2026-07-02 05:10:17  #MKT News #Commodities #Industrial Metals #Copper #Impact bearish #BHP.N #Impact bullish
+
+BHP (BHP.N) has submitted an environmental permit application and plans to invest $1.5 bln to restart the Cerro Colorado copper mine in Chile.
+
+---
+
+### 2026-07-02 05:08:25  #其他
+
+必和必拓稱已提交環境許可申請，擬投資15億美元重啟智利塞羅科羅拉多銅礦。
 
 ---
 
@@ -17464,77 +17548,5 @@ Container shipping index (Europe route) 2608 weakened intraday, extending losses
 ### 2026-07-01 11:08:53  #Trading Economics #Markets #Commodity #Importance 1
 
 Corn Rises on USDA Data — Corn futures rose above $4.1 per bushel, climbing off from a nearly nine-month low reached on June 29 after the USDA projected tighter stockpiles and acreage. In its quarterly report, the USDA estimated June 1 corn stocks at 5.295 billion bushels, below analysts' expectations, while its annual acreage report pegged planted area at 95.343 million acres, above trade forecasts but down from 2025 and still the fourth largest since 1944. Additionally, markets continued to monitor hot weather across the US Midwest, which is expected to stress corn crops before easing later this week. Meanwhile, the dollar continued to rise as strong US economic data reinforced expectations that the Federal Reserve will raise interest rates this year, making commodities more expensive for foreign buyers. Elsewhere, investors also awaited updates from the ongoing US-Iran peace talks in Qatar amid hopes for a lasting ceasefire agreement.
-
----
-
-### 2026-07-01 11:08:26  #MKT News #Market Regions #Greater China #SZSE Component #Impact bullish #CSI300
-
-【Shenzhen June residential transactions highest since 2021】Shenzhen Centaline Research Center reported June residential transactions at 8,878 units, down 11.9% MoM but up 14.2% YoY, the highest June volume since 2021. New-home net-signings (presale + current-sale) totaled 3,785 units (-16.7% MoM, +15.6% YoY); resales recorded 5,093 transfers (-8.0% MoM, +13.1% YoY).
-
----
-
-### 2026-07-01 11:08:13  #市場 #焦點
-
-中證500指數期貨連續主力合約日內漲1%，現報8871.00點。
-
----
-
-### 2026-07-01 11:08:09  #MKT News #SPCX.O #Impact bullish
-
-Wedbush initiates coverage of SpaceX (SPCX.O) with Outperform rating and $190 PT.
-
----
-
-### 2026-07-01 11:08:07  #市場 #焦點
-
-集運指數歐線期貨連續主力合約日內跌9%，現報2582.00點。
-
----
-
-### 2026-07-01 11:07:26  #MKT News
-
-【China Baowu Taigang Steel Technology completes trial production of T1100S carbon fiber】China Baowu Taigang Steel Technology Co. said it completed a single-run trial production of T1100S-grade ultra-high-strength carbon fiber, with key performance metrics described as domestic-leading and internationally advanced. Carbon fiber is a strategic material for aerospace and high-end equipment manufacturing; T1100S is a top-tier, high-modulus ultra-high-strength grade with high technical barriers and has been a long-standing focus of domestic new-material R&D.
-
----
-
-### 2026-07-01 11:06:32  #其他
-
-【零跑汽車：6月全球交付93376臺 同比增長95%】零跑汽車公佈6月交付資料：全球交付93376臺，同比增長95%，上半年累計交付達356487臺。
-
----
-
-### 2026-07-01 11:06:30  #MKT News #Market Themes #China EV Leaders #09863.HK #Impact bullish
-
-Leapmotor (09863.HK) June deliveries 93,376 units, up 95% YoY.
-
----
-
-### 2026-07-01 11:06:11  #公司
-
-【中國寶武太鋼鋼科公司T1100S級超高強碳纖維一次性試製成功】據中國寶武訊息，近日，中國寶武太鋼鋼科公司T1100S級超高強碳纖維一次性試製成功，各項關鍵效能指標優異，達到國內領先、國際先進水平。碳纖維是支撐航空航天、高階裝備製造的關鍵戰略材料，從飛機結構件到火箭殼體，輕量化材料的突破直接決定裝備效能的天花板。而T1100S則是行業頂尖的高模量超高強碳纖維，技術壁壘極高，長期是國內新材料攻關的重點方向。
-
----
-
-### 2026-07-01 11:05:58  #其他
-
-【我國自研的世界首套水下焊接原位中子衍射研究裝置投入使用】我國自主研發的、世界首套水下焊接原位中子衍射研究裝置7月1日在中國散裂中子源工程材料譜儀上投入使用，並順利完成首次水下焊接過程原位觀測實驗。這標誌著我國在水下焊接過程中的微觀結構實時觀測與核心焊接機理揭示方面取得重大突破，可為大型水下結構物水下焊接技術的自主可控及焊接質量提升提供科學支撐。
-
----
-
-### 2026-07-01 11:05:31  #國際
-
-截至6月27日當週，日本煉油廠開工率為81%。
-
----
-
-### 2026-07-01 11:04:50  #MKT News #Important #000860.SZ #Impact bullish #600702.SS
-
-China A-share liquor sector rebounded, led by Jinzhongzi Wine which hit the daily trading limit; Huangtai Wine, Shunxin Agriculture, Tianyoude Wine, Jinhui Wine and Shede Spirits also rose.
-
----
-
-### 2026-07-01 11:04:27  #市場 #焦點
-
-焦煤連續主力合約日內跌2%，現報1249.50元。
 
 ---
