@@ -1,7 +1,215 @@
 {
   "date": "2026-07-01",
-  "count": 2925,
+  "count": 2950,
   "items": [
+    {
+      "id": "mkt:019f1dc5-ff20-7aab-8c59-69285884675e",
+      "time": "2026-07-01 21:02:22",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Strategists: New Fed chair likely to stick to script tonight; markets shouldn't expect fresh signals】US rates strategists Ira Jersey and Will Hoffman say the new Fed chair is likely to stick to his prior script tonight, remaining non‑committal on the rate path and the Fed's reaction function. Although this is his first major public appearance since taking office, they would be surprised if he departs from remarks made two weeks ago."
+    },
+    {
+      "id": "mkt:019f1dc5-cf22-7aab-8c59-64539687da74",
+      "time": "2026-07-01 21:02:10",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact mixed",
+        "US10Y"
+      ],
+      "text": "Chicago Fed final forecast for US June unemployment rate: 4.36%."
+    },
+    {
+      "id": "4965358",
+      "time": "2026-07-01 21:02:10",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "芝加哥聯儲對美國6月份失業率的最終預測為4.36%。"
+    },
+    {
+      "id": "4965357",
+      "time": "2026-07-01 21:02:04",
+      "tags": [
+        "其他"
+      ],
+      "text": "路透調查：預計6個月內羅馬尼亞列伊兌歐元貶值0.3%，匯率至5.26（此前預測值5.24）。"
+    },
+    {
+      "id": "mkt:019f1dc5-8366-7aab-8c59-5fb4e0b09e2f",
+      "time": "2026-07-01 21:01:51",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "Chip Wars",
+        "IFX.DE",
+        "Impact bullish",
+        "TXN.O",
+        "STM.N"
+      ],
+      "text": "【About 20 chipmakers raise prices; Infineon cites cost pressures and AI-driven demand】About 20 domestic and international chipmakers, including Infineon, Texas Instruments and STMicroelectronics, have launched a new round of price increases, with power semiconductors the main category; several had already announced price rises earlier this year. Infineon, the world’s largest power semiconductor maker, said at its June 30 media day the hikes are primarily driven by rising costs such as raw materials. The company said strong demand for power semiconductors is largely AI-driven—especially surging power needs at AI data centers—and that Infineon will dynamically adjust AI-related production capacity to market demand while continuing to expand capacity."
+    },
+    {
+      "id": "4965356",
+      "time": "2026-07-01 21:01:48",
+      "tags": [
+        "國際"
+      ],
+      "text": "富蘭克林鄧普頓計劃為符合條件員工的子女配套補貼特朗普兒童儲蓄賬戶。"
+    },
+    {
+      "id": "4965355",
+      "time": "2026-07-01 21:01:41",
+      "tags": [
+        "市場"
+      ],
+      "text": "路透調查：預計 6 個月內匈牙利福林兌歐元走強 0.3%，匯率至 355.00（此前預測值 358.00）。"
+    },
+    {
+      "id": "4965354",
+      "time": "2026-07-01 21:01:20",
+      "tags": [
+        "國際"
+      ],
+      "text": "【歐盟機構：6月單日全球海面溫度破歷史同期紀錄】歐盟氣候監測機構哥白尼氣候變化服務局和“哥白尼海洋服務”計劃7月1日聯合釋出公報說，6月21日當天全球海洋表面平均溫度打破歷史同期紀錄。 哥白尼氣候變化服務局資料顯示，6月21日當天的全球海洋表面平均溫度升至20.86攝氏度，高於2023年和2024年同期的20.83攝氏度。“哥白尼海洋服務”計劃的資料顯示，同日全球海洋表面平均溫度達21攝氏度，比2023年和2024年創下的紀錄高出0.1攝氏度。 公報說，這一新的海洋高溫紀錄與熱帶太平洋海域出現厄爾尼諾的形成條件有關。世界氣象組織6月2日釋出公報說，考慮到熱帶太平洋海水異常溫暖等因素，6月至8月出現厄爾尼諾事件的機率為80%，未來數月極端天氣出現風險隨之攀升。 哥白尼氣候變化服務局主任卡洛·布翁滕波說，當前狀況可能表明，未來幾個月很可能看到更多溫度紀錄被打破。 過去數月，全球多個海域都觀測到海洋表面異常高溫。公報警告，海洋表面高溫可能影響天氣模式，增加風暴、極端降水和洪澇風險，加劇海平面上升和冰雪融化，對海洋生態系統、漁業和沿海經濟等造成壓力。(新華社)"
+    },
+    {
+      "id": "4965353",
+      "time": "2026-07-01 21:01:11",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【海南省防禦熱帶低壓影片排程部署會議召開】根據氣象預報，南海熱帶擾動於7月1日上午發展為熱帶低壓。7月1日下午，海南省防禦熱帶低壓影片排程部署會議召開，學習貫徹6月30日召開的中央政治局會議精神，分析研判熱帶低壓發展態勢，動員部署下一步工作。省委書記馮飛、省長劉小明分別對防汛防風工作作出批示。馮飛在批示中強調，要密切跟蹤颱風動向，及時預報預警，加強防範。要落實好海上防範措施，重點市縣、相關部門要更加重視防範強降雨，特別是滑坡等地災、水庫、河道、漫水橋、工地、城市內澇等風險防範。劉小明在批示中指出，要加強預報預警，指導各市縣各部門履行好責任，做好防範準備工作，特別要確保海上航行、水上旅遊，以及景區、水庫、易地災區、低窪易澇區、危舊房屋等安全。"
+    },
+    {
+      "id": "4965352",
+      "time": "2026-07-01 21:01:05",
+      "tags": [
+        "公司"
+      ],
+      "text": "【成都路橋：公司未生產六氟化鎢】成都路橋(002628)7月1日在互動平臺表示，公司螢石礦相關工作正有序推進中；公司未生產六氟化鎢。"
+    },
+    {
+      "id": "4965351",
+      "time": "2026-07-01 21:00:57",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美國銀行：預計加拿大央行今年按兵不動 即使美聯儲加息。"
+    },
+    {
+      "id": "mkt:019f1dc4-4b2b-7aab-8c59-506889854cb7",
+      "time": "2026-07-01 21:00:31",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Industrial Metals",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "Night session open: China domestic main futures mostly lower. LPG down over 3%; SC crude, methanol, synthetic rubber and fuel oil down over 2%; styrene (EB), low‑sulfur fuel oil (LU) and ethylene glycol (EG) down about 2%. Iron ore up nearly 2%; rapeseed meal up over 1%; soybean meal up about 1%."
+    },
+    {
+      "id": "4965350",
+      "time": "2026-07-01 21:00:28",
+      "tags": [
+        "公司"
+      ],
+      "text": "【信維電科的MLCC是否已透過蘋果公司驗證？信維通訊：相關產品正在驗證】有投資者在互動平臺向信維通訊(300136)提問，信維電科的MLCC是否已經透過蘋果公司的驗證？是否已經批次供貨蘋果公司？信維通訊回覆稱，相關產品正在驗證。"
+    },
+    {
+      "id": "4965349",
+      "time": "2026-07-01 21:00:26",
+      "tags": [
+        "其他"
+      ],
+      "text": "以太坊機構以獨立非營利組織身份啟動，旨在大規模將機構金融引入鏈上。"
+    },
+    {
+      "id": "4965348",
+      "time": "2026-07-01 21:00:16",
+      "tags": [
+        "其他"
+      ],
+      "text": "【南非總統拉馬福薩部分改組內閣】據新華社，根據南非總統府6月30日晚間發表的宣告，南非總統拉馬福薩日前對部分內閣職務進行調整。根據宣告，拉馬福薩在與執政聯盟成員民主聯盟領導層磋商後作出相關調整。民主聯盟前領導人約翰·斯廷黑森不再擔任農業部長，調任貿易、工業和競爭部副部長。另有3名民主聯盟成員將分別出任電力和能源部、水利和衛生部、高等教育部副部長。在此次改組中，拉馬福薩還任命非洲人國民大會（非國大）資深政治家迪娜·普萊為社會發展部長。"
+    },
+    {
+      "id": "4965347",
+      "time": "2026-07-01 21:00:14",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "PVC連續主力合約日內跌1%，現報4393.00元。"
+    },
+    {
+      "id": "4965346",
+      "time": "2026-07-01 21:00:07",
+      "tags": [
+        "公司"
+      ],
+      "text": "巴西石油公司將從7月1日起下調航空燃油價格14.5%。"
+    },
+    {
+      "id": "4965345",
+      "time": "2026-07-01 21:00:04",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "甲醇連續主力合約日內跌2%，現報2352.00元。"
+    },
+    {
+      "id": "4965344",
+      "time": "2026-07-01 21:00:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "【國內期貨夜盤開盤】集運指數歐線期貨連續跌10.94%，碳酸鋰連續漲4.62%，液化石油氣連續跌3.29%，上海原油連續跌2.95%，燃料油連續跌2.50%。"
+    },
+    {
+      "id": "4965343",
+      "time": "2026-07-01 20:59:57",
+      "tags": [
+        "市場"
+      ],
+      "text": "【算力租賃商Nebius和CoreWeave盤前跌超9%】算力租賃商Nebius和CoreWeave盤前跌超9%。訊息面上，Meta正在構建一項雲業務，以出售其過剩的AI算力。"
+    },
+    {
+      "id": "mkt:019f1dc3-7cdd-7aab-8c59-4f092dc6e900",
+      "time": "2026-07-01 20:59:38",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "Colombia's finance minister said state oil company Ecopetrol needs reform."
+    },
+    {
+      "id": "4965342",
+      "time": "2026-07-01 20:59:09",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國地質調查局（USGS）：日本野田市以東49公里處發生6.0級地震。"
+    },
+    {
+      "id": "4965341",
+      "time": "2026-07-01 20:58:36",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【20家晶片廠商集體漲價，英飛凌回應】近日，包括英飛凌、德州儀器、意法半導體在內的國內外約20家晶片廠商集體啟動新一輪漲價，功率半導體是此輪漲價潮涉及的核心品類，其中有多家廠商今年已經宣佈過調價。英飛凌是全球最大的功率半導體廠商。6月30日，英飛凌全球高階副總裁兼大中華區總裁潘大偉在該公司的媒體日上就新一輪漲價回應記者稱：“這次漲價主要是考慮到成本上升方面的因素，比如原材料價格的上漲。”對功率半導體的強勁需求很大程度上由AI驅動，尤其是AI資料中心對電力的需求在激增。“目前，英飛凌的AI業務產能會根據市場需求情況進行動態靈活調整配置，並不斷拓展新產能。”英飛凌方面表示。（第一財經）"
+    },
     {
       "id": "4965340",
       "time": "2026-07-01 20:57:44",
@@ -332,6 +540,14 @@
         "國際"
       ],
       "text": "特朗普披露卡達贈予美國的新一代空軍一號更多細節：“波音高管稱這架飛機是該廠打造過最精良的 747 機型。我到訪卡達時提出，希望臨時啟用這架專機，想必大家也清楚，原有空軍一號還在建造當中。”"
+    },
+    {
+      "id": "4965320",
+      "time": "2026-07-01 20:45:19",
+      "tags": [
+        "其他"
+      ],
+      "text": "【上海量子科技產業佈局提速，浦東、徐匯接連落子】上海量子科技產業佈局提速，近日浦東、徐匯等區接連落子、動作頻頻。6月30日，上海量子計算未來產業培育區在徐彙區啟動，由上海市科委、徐彙區、上海科學院共同牽頭。澎湃新聞記者從徐彙區獲悉，徐彙區將聚焦培育區建設，在徐匯漕河涇開發區、徐匯濱江等區域重點集聚培育量子計算未來產業，並深化與上海科學院的戰略合作，共建量子計算領域關鍵共性技術研發平臺。目前，首批26家量子企業入駐培育區。（澎湃）"
     },
     {
       "id": "te:economy:563441",
@@ -910,6 +1126,14 @@
         "國際"
       ],
       "text": "特朗普讚揚卡達贈送新空軍一號。"
+    },
+    {
+      "id": "4965284",
+      "time": "2026-07-01 20:33:51",
+      "tags": [
+        "國際"
+      ],
+      "text": "交易商稱，俄羅斯7月超低硫柴油出口預計將降至接近零的水平。"
     },
     {
       "id": "4965283",
