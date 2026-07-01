@@ -1,7 +1,313 @@
 {
   "date": "2026-07-01",
-  "count": 3264,
+  "count": 3296,
   "items": [
+    {
+      "id": "mkt:019f1df4-a419-7aab-8c5d-b145cb454546",
+      "time": "2026-07-01 21:53:19",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Fed Chair Kevin Warsh said he is open to adjustments to the size of the Fed's balance sheet."
+    },
+    {
+      "id": "mkt:019f1df4-651f-7aab-8c5d-a86bf6bc2844",
+      "time": "2026-07-01 21:53:03",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. ambassador to NATO says European defense industry is insufficiently integrated."
+    },
+    {
+      "id": "mkt:019f1df4-380b-7aab-8c5d-a52c463b36b1",
+      "time": "2026-07-01 21:52:52",
+      "tags": [
+        "MKT News",
+        "GBPUSD",
+        "Impact bullish"
+      ],
+      "text": "GBP/USD rose to a two-week high of 1.3280."
+    },
+    {
+      "id": "4965551",
+      "time": "2026-07-01 21:52:51",
+      "tags": [
+        "市場"
+      ],
+      "text": "英鎊兌美元GBP/USD上漲至兩週高點1.3280。"
+    },
+    {
+      "id": "mkt:019f1df4-1206-7aab-8c5d-9a05a98e9afe",
+      "time": "2026-07-01 21:52:42",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "EURUSD",
+        "Impact bearish"
+      ],
+      "text": "Fed chair Kevin Warsh said he hopes interest-rate policy will be the key policy tool."
+    },
+    {
+      "id": "4965550",
+      "time": "2026-07-01 21:52:40",
+      "tags": [
+        "公司"
+      ],
+      "text": "AISA 集團公佈阿根廷全新 RIGI 專案規劃。"
+    },
+    {
+      "id": "mkt:019f1df3-efc7-7aab-8c5d-95ecc2150de5",
+      "time": "2026-07-01 21:52:33",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "S&P500",
+        "Impact bearish",
+        "US10Y"
+      ],
+      "text": "Fed Chair Kevin Warsh said the Fed's balance sheet has already reached the limits of fiscal policy."
+    },
+    {
+      "id": "4965549",
+      "time": "2026-07-01 21:52:32",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲沃什：希望利率政策成為關鍵政策工具。"
+    },
+    {
+      "id": "4965548",
+      "time": "2026-07-01 21:52:28",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲沃什：任何有關資產負債表的決策都將公開討論。"
+    },
+    {
+      "id": "4965547",
+      "time": "2026-07-01 21:52:12",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲沃什：資產負債表操作已接近財政政策範疇。"
+    },
+    {
+      "id": "mkt:019f1df3-9a6e-7aab-8c5d-8fa620709cf5",
+      "time": "2026-07-01 21:52:11",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Fed chair Kevin Warsh said any change to balance-sheet policy would be subject to thorough deliberation and communicated."
+    },
+    {
+      "id": "4965546",
+      "time": "2026-07-01 21:52:10",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "【拉加德：歐美在人工智慧領域“相互依存、彼此牽制”】歐洲央行行長拉加德表示，她認同歐洲在人工智慧投資以及該領域實現技術突破的前沿企業發展方面存在落後的現狀。但她補充稱，在行業發展程序中，歐美雙方“某種程度上可以說是相互牽制、彼此依存”。“我們需要這些前沿科技企業，而它們需要市場。”她說，“對於不少超大規模科技企業而言，歐洲市場貢獻了其25%的營收，我們彼此需要，身處同一盤棋局之中。”她接著說道：“我相信雙方一定會存在良性競爭，但我們相互依賴。我們離不開這些企業，而它們也離不開歐洲這一營收來源，因此雙方註定休慼與共。”"
+    },
+    {
+      "id": "te:economy:563464",
+      "time": "2026-07-01 21:52:07",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "Manufacturing PMI",
+        "Importance 1"
+      ],
+      "text": "US Manufacturing PMI Revised Down in June — The S&P Global US Manufacturing PMI was sharply revised down to 53.9 in June 2026, significantly below the preliminary estimate of 55.7 and May’s final reading of 55.1. Despite the drop, the latest figure marked the eleventh straight month of expansion, indicating a solid improvement in operating conditions, though the weakest in three months. Output and new orders continued to rise, albeit at slower yet historically strong rates, driven by new product launches and pre-orders to hedge against rising prices. Input costs increased sharply due to higher raw material prices, though the rise was softer than May’s peak. Selling price inflation also eased to a three-month low. However, job cuts accelerated to the fastest pace since May 2020, the quickest outside the pandemic since October 2009. Business optimism for the year ahead also declined for the second consecutive month, hitting its lowest level since October 2025."
+    },
+    {
+      "id": "mkt:019f1df3-5310-7aab-8c5d-8130b068d4b2",
+      "time": "2026-07-01 21:51:53",
+      "tags": [
+        "MKT News",
+        "Macro & Rates"
+      ],
+      "text": "Federal Reserve chair Kevin Warsh said the Fed's balance sheet functions mainly via asset prices."
+    },
+    {
+      "id": "4965544",
+      "time": "2026-07-01 21:51:46",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲沃什：若調整資產負債表政策，決策將經過充分審議並提前充分溝通。"
+    },
+    {
+      "id": "mkt:019f1df3-22a4-7aab-8c5d-78ce4ce3c5a8",
+      "time": "2026-07-01 21:51:41",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Federal Reserve Chair Kevin Warsh said his view on the Federal Reserve's balance sheet has not changed during his first four weeks in office."
+    },
+    {
+      "id": "4965543",
+      "time": "2026-07-01 21:51:39",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲主席沃什：（關於資產負債表）我們也有一個專門小組負責此事。"
+    },
+    {
+      "id": "4965542",
+      "time": "2026-07-01 21:51:30",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "【沃什稱美聯儲將開闢新路線 重申不提供前瞻指引】美聯儲主席凱文·沃什重申，他不會就利率政策提供“前瞻指引”。沃什週三在葡萄牙辛特拉舉行的歐洲央行年度央行論壇上說：“我們將開闢一條新路線。”他在提到下一次政策決定時說：“我希望我們在四周後開會時能進行一次很好的內部爭論。”在上個月沃什擔任美聯儲主席後的首次記者會上，他表示，美聯儲決策者們認為，前瞻指引“並不十分適合當前的政策環境”。沃什在與其他知名央行領導人共同參加的一個小組討論中說：“在我的記者會上，我說我們不會提供前瞻指引，因為我們將在六週後開會。”他還說，“我還有一條最新訊息要告訴你們，” 也就是現在距離7月28日至29日的會議只有四周時間。儘管美聯儲官員上個月維持利率不變，但在通脹達到2023年以來最高水平的背景下，他們確實暗示對今年加息的支援度上升。美聯儲官員當時對基準利率的預測顯示，18名官員中有一半預計今年會加息，不過沃什沒有提供自己的預測。工作組負責制定利率的聯邦公開市場委員會(FOMC)上個月一致投票決定，將聯邦基金利率目標區間維持在3.5%至3.75%。投資者目前預計，到年底前至少會有一次25個基點的加息。至於美聯儲是否會更長期地不再提供前瞻指引，沃什在6月份宣佈成立五個工作組，其中一個將研究溝通問題。其他工作組的研究範圍包括資產負債表、美聯儲對資料的使用、生產率和就業，以及央行的通脹框架。"
+    },
+    {
+      "id": "mkt:019f1df2-f450-7aab-8c5d-751f77770fa1",
+      "time": "2026-07-01 21:51:29",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Fed Chairman Kevin Warsh said the Federal Reserve has a dedicated team handling its balance sheet."
+    },
+    {
+      "id": "4965541",
+      "time": "2026-07-01 21:51:25",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲沃什：任職美聯儲首四周以來，我並未改變對資產負債表的看法。"
+    },
+    {
+      "id": "mkt:019f1df2-cd5c-7aab-8c5d-68c818d118ae",
+      "time": "2026-07-01 21:51:19",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "Federal Reserve chair Kevin Warsh said he wants the Fed's balance sheet to shrink; that's no secret."
+    },
+    {
+      "id": "4965540",
+      "time": "2026-07-01 21:51:09",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國駐北約大使：我們正協同各方支援烏克蘭，同時我們期望歐洲盟友承擔相關負擔。"
+    },
+    {
+      "id": "mkt:019f1df2-4f3f-7aab-8c5d-632512333536",
+      "time": "2026-07-01 21:50:46",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "S&P500",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish",
+        "US10Y"
+      ],
+      "text": "Kevin Warsh said no one wants the Federal Reserve's balance sheet to shrink."
+    },
+    {
+      "id": "4965539",
+      "time": "2026-07-01 21:50:43",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國駐北約大使：美國及北約盟友將對烏克蘭公佈重磅援助方案。"
+    },
+    {
+      "id": "4965538",
+      "time": "2026-07-01 21:50:40",
+      "tags": [
+        "其他"
+      ],
+      "text": "新興市場股指抹去跌幅，外匯指數收窄跌幅。"
+    },
+    {
+      "id": "4965537",
+      "time": "2026-07-01 21:50:33",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲沃什：我一直希望美聯儲縮表，這並非什麼秘密。"
+    },
+    {
+      "id": "4965536",
+      "time": "2026-07-01 21:50:11",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "【沃什迴避預判AI通脹影響：企業加碼實業投資利好經濟】美聯儲主席沃什此前曾表示，他認為人工智慧熱潮最終將有助於緩解通脹，此番他拒絕就這一熱潮帶來的長期影響進行揣測。 “人工智慧帶來的變革正推動資本支出大幅增長。” 他說，“我們首先從需求端看到了這一變化，但我相信在某個時間點，供給端也會顯現相關效應。因此，我們大部分時間都在密切跟蹤這些發展動態。” 被問及人工智慧是否會推高通脹時，沃什並未給出明確答覆。 不過他指出，當下這種局面是好事，不像多年前，企業想要謀求發展只能依靠金融手段運作、回購自家股票。 “如今企業都在為未來佈局投資，因為它們預判經濟的供給端將會擴張。一旦供給端實現擴張，將會對貨幣政策產生重大影響。” 他表示，“但話說回來，我目前不會就此下定論。”"
+    },
+    {
+      "id": "4965535",
+      "time": "2026-07-01 21:50:09",
+      "tags": [
+        "其他"
+      ],
+      "text": "2026年6月運輸流量資料：FreeTrailer在保持高業務活躍度的同時，租賃裝置規模較去年同比增長23.7%。"
+    },
+    {
+      "id": "mkt:019f1df1-ab97-7aab-8c5d-5a864e2c0590",
+      "time": "2026-07-01 21:50:05",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "DXY",
+        "Impact mixed",
+        "US10Y",
+        "S&P500"
+      ],
+      "text": "US June ISM manufacturing PMI and May construction spending MoM due in 10 minutes."
+    },
+    {
+      "id": "mkt:019f1df1-892d-7aab-8c5d-5643ea7bb35e",
+      "time": "2026-07-01 21:49:56",
+      "tags": [
+        "MKT News",
+        "WMT.N",
+        "Impact bearish"
+      ],
+      "text": "Walmart (WMT.N) shares quickly widened losses to 4.9%."
+    },
+    {
+      "id": "4965534",
+      "time": "2026-07-01 21:49:39",
+      "tags": [
+        "公司"
+      ],
+      "text": "【三友醫療：放棄對參股公司增資優先認購權，股權比例降至8.16%】三友醫療公告稱，參股公司椎元醫學擬融資2500萬元，公司實際控制人徐農、劉明巖、範湘龍及關聯方啟明融康參與增資。公司此前已完成2000萬元增資，基於業務戰略、資金計劃，放棄本次優先認購權，持股比例將由9.0909%降至8.1633%。本次交易構成關聯交易，不屬重大資產重組，無需股東會審議。東方證券認為，該事項已履行必要審批程式，不會對公司產生重大不利影響。"
+    },
     {
       "id": "mkt:019f1df0-c4ee-7aab-8c5d-4ce372a06323",
       "time": "2026-07-01 21:49:06",
@@ -76,6 +382,15 @@
         "國際"
       ],
       "text": "美聯儲沃什：尚不清楚生產率短期內是否會對政策產生影響。"
+    },
+    {
+      "id": "em:qqyh_mlc:202607013790550020",
+      "time": "2026-07-01 21:48:13",
+      "tags": [
+        "央行",
+        "美聯儲"
+      ],
+      "text": "【美聯儲主席沃什：潛在增長率似乎已呈上升趨勢】美聯儲主席沃什表示，如果過去四個季度能作為參考，那麼有理由保持樂觀。潛在增長率似乎已呈上升趨勢。"
     },
     {
       "id": "mkt:019f1def-e058-7aab-8c5d-30dc9a8314b9",
