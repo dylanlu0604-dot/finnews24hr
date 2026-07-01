@@ -1,7 +1,181 @@
 {
   "date": "2026-07-01",
-  "count": 2778,
+  "count": 2799,
   "items": [
+    {
+      "id": "4965261",
+      "time": "2026-07-01 20:29:32",
+      "tags": [
+        "國際"
+      ],
+      "text": "檔案顯示，美國石油協會（API）公佈上週美國原油庫存減少 610 萬桶。"
+    },
+    {
+      "id": "mkt:019f1da7-afc7-7aab-8c57-cf855961317f",
+      "time": "2026-07-01 20:29:16",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "IMF says regional tensions weigh on Israel's economy."
+    },
+    {
+      "id": "mkt:019f1da7-88b9-7aab-8c57-c13f5fbbba49",
+      "time": "2026-07-01 20:29:06",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "NOVAK, Russia's deputy prime minister, said he expects fuel prices to have a negligible impact on inflation."
+    },
+    {
+      "id": "4965260",
+      "time": "2026-07-01 20:29:06",
+      "tags": [
+        "國際"
+      ],
+      "text": "國際貨幣基金組織：地區緊張局勢“給以色列經濟蒙上陰影”。"
+    },
+    {
+      "id": "mkt:019f1da7-67c2-7aab-8c57-ba476fba9ef9",
+      "time": "2026-07-01 20:28:58",
+      "tags": [
+        "MKT News",
+        "Macro & Rates"
+      ],
+      "text": "International Monetary Fund lowers Israel's 2026 GDP growth forecast to 3.5%."
+    },
+    {
+      "id": "4965259",
+      "time": "2026-07-01 20:28:54",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中創環保：選舉孫成宇為董事長 原董事長因刑案辭職】中創環保公告稱，董事長張紅亮因涉嫌刑事犯罪被刑拘，申請辭去相關職務。6月29日，公司召開第六屆董事會第二十次會議，選舉孫成宇為董事長、第六屆董事會各專門委員會委員，戰略委員會由其擔任主任委員，任期至第六屆董事會屆滿。公司將盡快完成工商變更登記及6個月內完成董事會秘書聘任工作。孫成宇曾任公司審計部門等負責人，目前未持股，無關聯關係及違規情形。"
+    },
+    {
+      "id": "mkt:019f1da7-5741-7aab-8c57-b0cb9c0af2d6",
+      "time": "2026-07-01 20:28:53",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Russian Deputy Prime Minister Novak said oil majors are controlling fuel prices and that he expects prices to stabilise."
+    },
+    {
+      "id": "4965258",
+      "time": "2026-07-01 20:28:45",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【多家MLCC廠商稱“正醞釀漲價”，業內看漲至2027年年底】有媒體報道，市場傳出，被動元件公司國巨通知客戶，今日起上調全系列電容產品報價，涵蓋積層陶瓷電容（MLCC）、鋁電解電容、鉭質電容、高分子鋁電容、薄膜電容及超級電容等，是國巨近年來調漲範圍最大的一波。此前，村田、三星電機、太陽誘電等海外MLCC大廠釋出調價通知，AI伺服器用的高容MLCC漲價幅度區間普遍達到15%～35%，部分稀缺型號現貨市場報價實現翻倍上漲。同日，記者在慕尼黑上海電子展上瞭解到，多家MLCC廠商已在醞釀下半年漲價。"
+    },
+    {
+      "id": "mkt:019f1da7-2e8c-7aab-8c57-aad529bbdaa0",
+      "time": "2026-07-01 20:28:43",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Russian Deputy Prime Minister Novak said overall domestic gasoline and diesel supplies are sufficient."
+    },
+    {
+      "id": "mkt:019f1da7-06b7-7aab-8c57-a23d0fd4fafa",
+      "time": "2026-07-01 20:28:33",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "Brent",
+        "Impact bearish",
+        "WTI"
+      ],
+      "text": "UK Maritime Trade Operations said vessels that were illegally boarded near Yemen have resumed sailing."
+    },
+    {
+      "id": "4965257",
+      "time": "2026-07-01 20:28:30",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯諾瓦克：我們預計油價將趨於平穩。"
+    },
+    {
+      "id": "4965256",
+      "time": "2026-07-01 20:28:25",
+      "tags": [
+        "國際"
+      ],
+      "text": "國際貨幣基金組織（IMF）下調以色列 2026 年 GDP 增速預期至 3.5%。"
+    },
+    {
+      "id": "4965255",
+      "time": "2026-07-01 20:28:17",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國海事貿易運營中心：葉門附近遭非法登船船隻現已繼續航行。"
+    },
+    {
+      "id": "4965254",
+      "time": "2026-07-01 20:28:01",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯副總理諾瓦克：我們看到石油巨頭們正在控制燃料價格。"
+    },
+    {
+      "id": "4965253",
+      "time": "2026-07-01 20:27:34",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯副總理諾瓦克：整體而言，俄羅斯國內市場的汽油與柴油供應充足。"
+    },
+    {
+      "id": "mkt:019f1da5-f0fe-7aab-8c57-9aff2e18c7e3",
+      "time": "2026-07-01 20:27:22",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Brent"
+      ],
+      "text": "Novak, Russia's deputy prime minister, said logistics disruptions at oil refineries have disrupted fuel supplies and that the issue is being resolved rapidly."
+    },
+    {
+      "id": "4965252",
+      "time": "2026-07-01 20:27:11",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯諾瓦克：問題正在迅速得到解決。"
+    },
+    {
+      "id": "4965251",
+      "time": "2026-07-01 20:27:04",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "俄羅斯副總理諾瓦克：煉油廠物流受阻，導致燃油供應出現中斷。"
+    },
+    {
+      "id": "mkt:019f1da5-a754-7aab-8c57-92d9085b9729",
+      "time": "2026-07-01 20:27:03",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "WTI",
+        "XAUUSD"
+      ],
+      "text": "UK Maritime Trade Operations (UKMTO) reclassified an incident near Yemen as \"illegal boarding\"."
+    },
+    {
+      "id": "4965250",
+      "time": "2026-07-01 20:26:27",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國海事貿易運營中心將葉門附近事件重新定性為非法登船。"
+    },
     {
       "id": "4965249",
       "time": "2026-07-01 20:25:28",
@@ -33,6 +207,15 @@
         "其他"
       ],
       "text": "【2028年1月起，PlayStation新遊戲將不再推出實體光碟版本】PlayStation當地時間7月1日釋出宣告稱，2028年1月起，所有在PlayStation主機上發售的新遊戲將不再推出實體光碟版本，將僅以數字版形式在PlayStation商店和零售商處發售。此次調整不會影響此前已發售或將在2028年1月前以光碟形式發售的遊戲。"
+    },
+    {
+      "id": "4965245",
+      "time": "2026-07-01 20:24:57",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "據CME“美聯儲觀察”：美聯儲7月維持利率不變的機率為66.3%，累計加息25個基點的機率為33.7%。 美聯儲到9月維持利率不變的機率為33.1%，累計加息25個基點的機率為50%，累計加息50個基點的機率為16.9%。"
     },
     {
       "id": "4965244",

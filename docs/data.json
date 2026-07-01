@@ -1,7 +1,181 @@
 {
-  "updated": "2026-07-01 20:26:15",
-  "count": 13936,
+  "updated": "2026-07-01 20:30:15",
+  "count": 13946,
   "items": [
+    {
+      "id": "4965261",
+      "time": "2026-07-01 20:29:32",
+      "tags": [
+        "國際"
+      ],
+      "text": "檔案顯示，美國石油協會（API）公佈上週美國原油庫存減少 610 萬桶。"
+    },
+    {
+      "id": "mkt:019f1da7-afc7-7aab-8c57-cf855961317f",
+      "time": "2026-07-01 20:29:16",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "IMF says regional tensions weigh on Israel's economy."
+    },
+    {
+      "id": "4965260",
+      "time": "2026-07-01 20:29:06",
+      "tags": [
+        "國際"
+      ],
+      "text": "國際貨幣基金組織：地區緊張局勢“給以色列經濟蒙上陰影”。"
+    },
+    {
+      "id": "mkt:019f1da7-88b9-7aab-8c57-c13f5fbbba49",
+      "time": "2026-07-01 20:29:06",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "NOVAK, Russia's deputy prime minister, said he expects fuel prices to have a negligible impact on inflation."
+    },
+    {
+      "id": "mkt:019f1da7-67c2-7aab-8c57-ba476fba9ef9",
+      "time": "2026-07-01 20:28:58",
+      "tags": [
+        "MKT News",
+        "Macro & Rates"
+      ],
+      "text": "International Monetary Fund lowers Israel's 2026 GDP growth forecast to 3.5%."
+    },
+    {
+      "id": "4965259",
+      "time": "2026-07-01 20:28:54",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中創環保：選舉孫成宇為董事長 原董事長因刑案辭職】中創環保公告稱，董事長張紅亮因涉嫌刑事犯罪被刑拘，申請辭去相關職務。6月29日，公司召開第六屆董事會第二十次會議，選舉孫成宇為董事長、第六屆董事會各專門委員會委員，戰略委員會由其擔任主任委員，任期至第六屆董事會屆滿。公司將盡快完成工商變更登記及6個月內完成董事會秘書聘任工作。孫成宇曾任公司審計部門等負責人，目前未持股，無關聯關係及違規情形。"
+    },
+    {
+      "id": "mkt:019f1da7-5741-7aab-8c57-b0cb9c0af2d6",
+      "time": "2026-07-01 20:28:53",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Russian Deputy Prime Minister Novak said oil majors are controlling fuel prices and that he expects prices to stabilise."
+    },
+    {
+      "id": "4965258",
+      "time": "2026-07-01 20:28:45",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【多家MLCC廠商稱“正醞釀漲價”，業內看漲至2027年年底】有媒體報道，市場傳出，被動元件公司國巨通知客戶，今日起上調全系列電容產品報價，涵蓋積層陶瓷電容（MLCC）、鋁電解電容、鉭質電容、高分子鋁電容、薄膜電容及超級電容等，是國巨近年來調漲範圍最大的一波。此前，村田、三星電機、太陽誘電等海外MLCC大廠釋出調價通知，AI伺服器用的高容MLCC漲價幅度區間普遍達到15%～35%，部分稀缺型號現貨市場報價實現翻倍上漲。同日，記者在慕尼黑上海電子展上瞭解到，多家MLCC廠商已在醞釀下半年漲價。"
+    },
+    {
+      "id": "mkt:019f1da7-2e8c-7aab-8c57-aad529bbdaa0",
+      "time": "2026-07-01 20:28:43",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Russian Deputy Prime Minister Novak said overall domestic gasoline and diesel supplies are sufficient."
+    },
+    {
+      "id": "mkt:019f1da7-06b7-7aab-8c57-a23d0fd4fafa",
+      "time": "2026-07-01 20:28:33",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "Brent",
+        "Impact bearish",
+        "WTI"
+      ],
+      "text": "UK Maritime Trade Operations said vessels that were illegally boarded near Yemen have resumed sailing."
+    },
+    {
+      "id": "4965257",
+      "time": "2026-07-01 20:28:30",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯諾瓦克：我們預計油價將趨於平穩。"
+    },
+    {
+      "id": "4965256",
+      "time": "2026-07-01 20:28:25",
+      "tags": [
+        "國際"
+      ],
+      "text": "國際貨幣基金組織（IMF）下調以色列 2026 年 GDP 增速預期至 3.5%。"
+    },
+    {
+      "id": "4965255",
+      "time": "2026-07-01 20:28:17",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國海事貿易運營中心：葉門附近遭非法登船船隻現已繼續航行。"
+    },
+    {
+      "id": "4965254",
+      "time": "2026-07-01 20:28:01",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯副總理諾瓦克：我們看到石油巨頭們正在控制燃料價格。"
+    },
+    {
+      "id": "4965253",
+      "time": "2026-07-01 20:27:34",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯副總理諾瓦克：整體而言，俄羅斯國內市場的汽油與柴油供應充足。"
+    },
+    {
+      "id": "mkt:019f1da5-f0fe-7aab-8c57-9aff2e18c7e3",
+      "time": "2026-07-01 20:27:22",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Brent"
+      ],
+      "text": "Novak, Russia's deputy prime minister, said logistics disruptions at oil refineries have disrupted fuel supplies and that the issue is being resolved rapidly."
+    },
+    {
+      "id": "4965252",
+      "time": "2026-07-01 20:27:11",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯諾瓦克：問題正在迅速得到解決。"
+    },
+    {
+      "id": "4965251",
+      "time": "2026-07-01 20:27:04",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "俄羅斯副總理諾瓦克：煉油廠物流受阻，導致燃油供應出現中斷。"
+    },
+    {
+      "id": "mkt:019f1da5-a754-7aab-8c57-92d9085b9729",
+      "time": "2026-07-01 20:27:03",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "WTI",
+        "XAUUSD"
+      ],
+      "text": "UK Maritime Trade Operations (UKMTO) reclassified an incident near Yemen as \"illegal boarding\"."
+    },
+    {
+      "id": "4965250",
+      "time": "2026-07-01 20:26:27",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國海事貿易運營中心將葉門附近事件重新定性為非法登船。"
+    },
     {
       "id": "4965249",
       "time": "2026-07-01 20:25:28",
@@ -33,6 +207,15 @@
         "其他"
       ],
       "text": "【2028年1月起，PlayStation新遊戲將不再推出實體光碟版本】PlayStation當地時間7月1日釋出宣告稱，2028年1月起，所有在PlayStation主機上發售的新遊戲將不再推出實體光碟版本，將僅以數字版形式在PlayStation商店和零售商處發售。此次調整不會影響此前已發售或將在2028年1月前以光碟形式發售的遊戲。"
+    },
+    {
+      "id": "4965245",
+      "time": "2026-07-01 20:24:57",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "據CME“美聯儲觀察”：美聯儲7月維持利率不變的機率為66.3%，累計加息25個基點的機率為33.7%。 美聯儲到9月維持利率不變的機率為33.1%，累計加息25個基點的機率為50%，累計加息50個基點的機率為16.9%。"
     },
     {
       "id": "4965244",
@@ -128254,113 +128437,6 @@
         "國際"
       ],
       "text": "美國國務卿： 我對阿聯酋領導層給予的鼎力支援表示感謝，讚揚其在遭遇伊朗襲擊時展現出的果敢與堅韌，並重申我方將保障阿聯酋安全、堅守兩國牢固雙邊夥伴關係的承諾。"
-    },
-    {
-      "id": "4952802",
-      "time": "2026-06-24 20:30:14",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國第一季度經常帳 -2268億美元，預期-2150億美元，前值由-1907億美元修正為-2211億美元。"
-    },
-    {
-      "id": "mkt:019ef99c-0e72-7dd8-b0f9-7fa6390a29d2",
-      "time": "2026-06-24 20:30:14",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Macro & Rates",
-        "US Economy",
-        "DXY",
-        "Impact bearish",
-        "XAUUSD",
-        "Impact bullish",
-        "USDJPY"
-      ],
-      "text": "U.S. Q1 current-account deficit $226.8bn, vs $215.0bn expected; prior quarter revised to $221.1bn from $190.7bn."
-    },
-    {
-      "id": "mkt:019ef99b-f124-7dd8-b0f9-705d9e08d952",
-      "time": "2026-06-24 20:30:07",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "United States | Current Account (Q1) | actual -226800000000B | consensus -215000000000B | previous -190700000000B"
-    },
-    {
-      "id": "4952801",
-      "time": "2026-06-24 20:29:51",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國5月建築許可環比降幅從初值0.7%修正為0.9%，年化許可戶數從141.3萬戶修正為141萬戶。"
-    },
-    {
-      "id": "mkt:019ef99b-ab6a-7dd8-b0f9-6f174ad76d8d",
-      "time": "2026-06-24 20:29:49",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "DXY",
-        "Impact mixed"
-      ],
-      "text": "【Analyst: PCE, nonfarm payrolls to test whether dollar rally can continue】Capital.com analyst Daniela Hathorn said upcoming US data will determine whether the dollar rally has further room. If PCE and labour-market prints continue to support a higher-for-longer rates narrative, the dollar should remain supported; if price pressures ease more quickly, markets may start to question whether current rate expectations are too aggressive. PCE (the Fed’s preferred inflation gauge) and initial jobless claims are due Thursday; nonfarm payrolls are due July 2."
-    },
-    {
-      "id": "4952800",
-      "time": "2026-06-24 20:28:58",
-      "tags": [
-        "公司"
-      ],
-      "text": "倫敦鉑金與鈀金市場（LPPM）公告：洲際交易所基準管理有限公司將於2026年7月1日起接管倫敦金銀市場協會（LBMA）鉑金與鈀金的定價拍賣及基準價管理工作。"
-    },
-    {
-      "id": "4952799",
-      "time": "2026-06-24 20:28:42",
-      "tags": [
-        "其他"
-      ],
-      "text": "【軟通動力與華為簽署戰略合作備忘錄】當地時間6月21日，軟通動力與華為在阿根廷布宜諾斯艾利斯正式簽署拉美市場戰略合作備忘錄。此次聯手旨在深度整合雙方在ICT基礎設施、雲端計算、人工智慧及軟體及數字技術服務等領域的核心優勢，攜手開拓拉美數字化轉型市場。"
-    },
-    {
-      "id": "4952798",
-      "time": "2026-06-24 20:28:16",
-      "tags": [
-        "其他"
-      ],
-      "text": "德國總理默茨：養老金改革方案將於年底前獲議會透過。"
-    },
-    {
-      "id": "4952797",
-      "time": "2026-06-24 20:28:02",
-      "tags": [
-        "市場"
-      ],
-      "text": "【燃料電池能源盤前大漲15% 斬獲380兆瓦資料中心電力供應大單】燃料電池能源宣佈，將與專注於先進計算基礎設施及人工智慧電力解決方案開發的Fit Energy USA合作，利用FuelCell公用事業級燃料電池技術，為資料中心提供最高達380兆瓦(MW)的清潔、穩定現場電力供應。受此訊息提振，截至發稿，燃料電池能源週三美股盤前大漲超15%。"
-    },
-    {
-      "id": "4952796",
-      "time": "2026-06-24 20:27:33",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【李蓓多隻私募產品創下最差年度表現】跌幅最大的產品，年內下跌已達24.5%，單週最大跌幅也超過15%，多隻在管產品創下成立來最差年度表現後，“私募魔女”李蓓仍未改變自己的投資判斷。 私募排排網資料顯示，知名私募基金半夏投資旗下產品半夏穩健混合宏觀對沖，上週（6月15日～6月18日）產品淨值跌幅達15.03%。截至6月18日，該產品年內收益為-24.5%，大幅跑輸滬深300同期6.73%的表現。 該公司仍有業績展示的其他3只產品，上週淨值均出現較大幅度的回撤，且年內收益率全部告負。 對此，李蓓在給投資人的信中稱，其四大權益持倉方向能源、地產、消費、建材集體大跌，導致上週基金淨值顯著回撥。同時，她還不忘提醒，AI泡沫破滅的觸發條件已經出現，如果投資人想拿這筆錢去追AI，“千萬要慎重。” 然而，投資者似乎已經在“拋棄”半夏投資。繼2025年跌破百億大關後，該公司的在管規模，目前進一步回落至20億～50億元區間。 （第一財經）"
-    },
-    {
-      "id": "mkt:019ef999-33a1-7dd8-b0f9-620e1aec17e0",
-      "time": "2026-06-24 20:27:07",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Precious Metals",
-        "XAUUSD",
-        "Impact bearish"
-      ],
-      "text": "New York gold futures dropped 3.00% intraday to $4,024.80/oz."
     }
   ]
 }
